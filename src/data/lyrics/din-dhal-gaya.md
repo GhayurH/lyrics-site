@@ -6,68 +6,69 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Anees"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Din dhal gaya shaam aa gayi abbas abbas na laute
-  Shaam aur ghazab dha gayi abbas abbas na laute
+  Din dhal gaya shaam aa gayi Abbas Abbas na laute
+  Shaam aur ghazab dha gayi Abbas Abbas na laute
 
   1
-  Baakhi nahi ansar na hai monis o yawar
-  Maqtool-e-jafa ran may hue sarware aalam
-  Karte hai haram shiddate aalaam se matam
-  Sab khurdo kalzam aaho buka karte hai payham
-  Ye kiski nazar kha gayi abbas abbas na laute
+  Baaqi nahiṅ ansaar na hai monis o yaawar
+  Maqtul-e-jafa ran mein hue Sarwar-e-aalam
+  Karte haiṅ haram shiddat-e-aalaam se maatam
+  Sab khurd o kalaam aah o buka karte haiṅ paiham
+  Ye kis ki nazar kha gayi Abbas Abbas na laute
 
   2
-  Wo kaunse hai zulm jo bedeeno ne choday
-  Atfaal e hussaini pe sitam haye ye today
-  Ghash may pade bemaar ko maare gaye koday
-  Taraaj kiya qaimon ko dauda diye ghoday
-  Sadaat pe aanch aa gayi abbas abbas na laute
+  Wo kaun se haiṅ zulm jo bedinoṅ ne chhore
+  Atfaal-e-Husaini pe sitam haaye ye tore
+  Ghash mein pare bimaar ko maare gaye kore
+  Taaraaj kiya khaimoṅ ko daura diye ghore
+  Saadaat pe aanch aa gayi Abbas Abbas na laute
 
   3
-  Ghar loot liya cheeni rida qaime jalaye
-  Zar loot ke saydaniyo ko durre lagaye
-  Hai kaun jo aada ki jafa'on se bachaye
-  Zainab kisay imdaad ko ab apni bulaye
-  Ghurbat ki faza chagayi abbas abbas na laute
+  Ghar lut liya chhini rida khaime jalaaye
+  Zar lut ke Saiydaaniyoṅ ke durre lagaaye
+  Hai kaun jo aada ki jafaaoṅ se bachaaye
+  Zainab kise imdaad ko ab apni bulaaye
+  Ghurbat ki faza chha gayi Abbas Abbas na laute
 
   4
-  Dar aaye qayame pisar-e-sheh may sitamgar
-  Zakhmi kiya durro se tan e abide mustar
-  Khayncha sitam afgaaro ne bemaar ka bistar
-  Dekha gaya aflaak o zameen se na ye manzar
-  Karbobal tharra gayi abbas abbas na laute
+  Dar aaye khiyaam-e-pisar-e-Shah mein sitamgar
+  Zakhmi kiya durroṅ se tan-e-Aabid-e-muztar
+  Khaincha sitam afgaaroṅ ne bimaar ka bistar
+  Dekha gaya aflaak o zamiṅ se na ye manzar
+  Karb o bala tharra gayi Abbas Abbas na laute
 
   5
-  Jab zainab-e-kubra ne khabar gham ki ye paayi
-  Maqtal may kahin kho gayi shabbir ki jaayi
-  Us waqt suqan lab pe ye binte ali laayi
-  Ay dashte jafa kaisi jafa aur ye dhaayi
-  Maa ghamzada ghabragayi abbas abbas na laute
+  Jab Zainab-e-Kubra ne khabar gham ki ye paayi
+  Maqtal mein kahiṅ kho gayi Shabbir ki jaayi
+  Us waqt sukhan lab pe ye Bint-e-Ali laayi
+  Ae dasht-e-jafa kaisi jafa aur ye dhaayi
+  Maaṅ ghamzada ghabra gayi Abbas Abbas na laute
 
   6
-  Aaghosh tumhari hai na hai baap ka seena
-  Zid karti hai jaan khoti hai ro ro ke hazeena
-  Aisa to kabhi dekha na tha bhai khareena
-  Kyon aayi na darya pe tumhe yaad sakina
-  Kya cheez wahan bha gayi abbas abbas na laute
+  Aaghosh tumhaari hai na hai baap ka sina
+  Zid karti hai jaaṅ khoti hai ro ro ke hazina
+  Aisa to kabhi dekha na tha bhaai qarina
+  Kiuṅ aayi na darya pe tumheiṅ yaad Sakina
+  Kya chiz wahaaṅ bha gayi Abbas Abbas na laute
 
   7
-  Raat aagayi daaman may liye apne qayamat
-  Aaram se sab sogaye sar share shahadat
-  Phir zulm-o-sitam dhaane lage ehle shaqawat
-  Bewariso ke sar kule karne ko hifazat
-  Balwe may bahan aa gayi abbas abbas na laute
+  Raat aa gayi daaman mein liye apne qayaamat
+  Aaraam se sab so gaye sarshaar-e-shahaadat
+  Phir zulm o sitam dhaane lage ahl-e-shaqaawat
+  Bewaarisoṅ ki sar khule karne ko hifaazat
+  Balwe mein behen aa gayi Abbas Abbas na laute
 
   8
-  Kis tarha likhoon aur karoon kaise ye ada mai
-  Kya kya na jafa'ein hui zindan-e-jafa may
-  Rehte thay haram yun to shab-o-roz buka may
-  Ek roz sakina ko anees hijre chacha may
-  Zindan may neend aagayi abbas abbas na laute
+  Kis tarah likhuṅ aur karuṅ kaise ye ada main
+  Kya kya na jafaaeiṅ huiṅ zindaan-e-jafa mein
+  Rehte the haram yuṅ to shab o roz buka mein
+  Ik roz Sakina ko Anis hijr-e-chacha mein
+  Zindaan mein nind aa gayi Abbas Abbas na laute
 # source_id: nohayonline:846232db517d50ed00e7
 # source_url: https://www.nohayonline.com/details_content.php?id=368
 # raw_sha256: cf1c95447c522c4c1635b84fc6503f2f8dbf8d210f7e3cd1a16a3badda397d51
@@ -83,10 +84,10 @@ romanLyrics: |-
 یہ کس کی نظر کھا گئی عباس عباس نہ لوٹے
 
 ۲
-وہ کون سے ہیں ظلم جو بے دینوںنے چھوڑے
+وہ کون سے ہیں ظلم جو بے دینوں نے چھوڑے
 اطفالِ حسینی پہ ستم ہائے یہ توڑے
 غش میں پڑے بیمار کو مارے گئے کوڑے
-تارا ج کیا خیموں کو دوڑادیئے گھوڑے
+تاراج کیا خیموں کو دوڑا دیئے گھوڑے
 سادات پہ آنچ آگئی عباس عباس نہ لوٹے
 
 ۳
@@ -100,22 +101,22 @@ romanLyrics: |-
 در آئے خیامِ پسرِ شہہ میں ستم گر
 زخمی کیا دُرّوں سے تنِ عابدِ مضطر
 کھینچا ستم افگاروں نے بیمار کا بستر
-دیکھا گیا افلاک وزمیں سے نہ یہ منظر
-کربوبلاتھرّاگئی عباس عباس نہ لوٹے
+دیکھا گیا افلاک و زمیں سے نہ یہ منظر
+کرب و بلا تھرّا گئی عباس عباس نہ لوٹے
 
 ۵
 جب زینبِ کبریٰ نے خبر غم کی یہ پائی
 مقتل میں کہیں کھو گئی شبیر کی جائی
-اُسوقت سخن لب پہ یہ بنتِ علی لائی
+اُس وقت سخن لب پہ یہ بنتِ علی لائی
 اے دشتِ جفا کیسی جفا اور یہ ڈھائی
 ماں غم زدا گھبرا گئی عباس عباس نہ لوٹے
 
 ۶
 آغوش تمہاری ہے نہ ہے باپ کا سینہ
-ضد کرتی ہے جاں کھوتی ہے رورو کے حزینہ
+ضد کرتی ہے جاں کھوتی ہے رو رو کے حزینہ
 ایسا تو کبھی دیکھا نہ تھا بھائی قرینہ
 کیوں آئی نہ دریا پہ تمہیں یاد سکینہ
-کیا چیز وہاں بھاگئی عباس عباس نہ لوٹے
+کیا چیز وہاں بھا گئی عباس عباس نہ لوٹے
 
 ۷
 رات آگئی دامن میں لیئے اپنے قیامت
@@ -127,6 +128,6 @@ romanLyrics: |-
 ۸
 کس طرح لکھوں اور کروں کیسے یہ ادا میں
 کیا کیا نہ جفائیں ہوئیں زندانِ جفا میں
-رہتے تھے حرم یوں تو شب وروز بُکا میں
+رہتے تھے حرم یوں تو شب و روز بُکا میں
 اک روز سکینہ کو انیس ہجرِ چچا میں
 زندان میں نیند آگئی عباس عباس نہ لوٹے

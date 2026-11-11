@@ -5,46 +5,47 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Ashraf Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Dil e akbar sambhal lo baba
-  Chubti barchi nikaal lo baba
+  Dil-e-Akbar sambhaal lo baba
+  Chubhti barchhi nikaal lo baba
 
   1
-  Sunta hoon dam nikalna mushkil hai
-  Baahein gardan mein daal do baba
+  Sunta huṅ dam nikalna mushkil hai
+  Baanheiṅ gardan mein daal do baba
 
   2
-  Ek khat ke likh ke meri sughra ko
-  Khabr e inteqal do baba
+  Ek khat ke likh ke meri Sughra ko
+  Khabar-e-intiqaal do baba
 
   3
-  Tum se kadiyal jawan na uthega
-  Laasha ghode pe daal do baba
+  Tum se karyal jawaaṅ na uthega
+  Laasha ghore pe daal do baba
 
   4
-  Nikal aayi ho gar phupi baahar
+  Nikal aayi ho gar phuphi baahar
   Kisi surat se taal do baba
 
   5
   Amma hasrat nikaal le apni
-  Sehra phoolon ka daal do baba
+  Sehra phuloṅ ka daal do baba
 
   6
-  Waqt kuch aur hai khuda hafiz
-  Moo pe chadar to daal do baba
+  Waqt kuchh aur hai Khuda haafiz
+  Muṅh pe chaadar to daal do baba
 # source_id: nohayonline:591dd32676cfa36d9238
 # source_url: https://www.nohayonline.com/details_content.php?id=3502
 # raw_sha256: 4aab51c180fa1b7e42f8acd08d3e28c1ae4854b54d29553ef77ac61bd0c64834
 ---
 دل اکبر سنبھال لو بابا
-چبھتی پرچی نکال لو بابا
+چبھتی برچھی نکال لو بابا
 
 ۱
-سنتا ہوں دم نکالنا مشکل ہے
-باہیں گردن میں ڈال دو بابا
+سنتا ہوں دم نکلنا مشکل ہے
+بانہیں گردن میں ڈال دو بابا
 
 ۲
 ایک خط کے لکھ کے میری صغرا کو
@@ -55,8 +56,8 @@ romanLyrics: |-
 لاشہ گھوڑے پہ ڈال دو بابا
 
 ۴
-نکل آی ہو گر پھپھی باہر
-کسی صورت سے تال دو بابا
+نکل آئی ہو گر پھپھی باہر
+کسی صورت سے ٹال دو بابا
 
 ۵
 اماں حسرت نکال لے اپنی

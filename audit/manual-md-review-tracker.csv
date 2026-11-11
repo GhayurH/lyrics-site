@@ -1530,11 +1530,11 @@ src/data/lyrics/dil-ki-zeenat.md,standalone_lyrics,imported,nohayonline,pending,
 src/data/lyrics/dil-mein-ghame.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-11-manual-dil-01,,
 src/data/lyrics/dil-se-ghame-husain.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,2026-11-11-manual-dil-01,,"Need audio/print: s4 Urdu ""پہلے نشان حضرت عباس کی ضیا"" vs Roman ""phaile nishane hazrat abbas ki ziya""; resolve پہلے/پھیلے before aligning."
 src/data/lyrics/dil-thikana-mere-hussain-ka-hai.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
-src/data/lyrics/dilbande-fatema-pe.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/dile-akbar-sambhal.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/din-dhal-gaya.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/din-dhal-raha-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/din-dhala-to-rulane.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/dilbande-fatema-pe.md,standalone_lyrics,imported,nohayonline+ziyaraat,pending,partial_review,partial_review,reviewed,verified,reviewed,,,"Need audio/print: s3 ""Asghar ko bezabaaṅ tha lekin tha"" vs Ziyaraat ""Asghar to bekafan the lekin the""; confirm singular/plural and wording."
+src/data/lyrics/dile-akbar-sambhal.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,,,"Need audio/print: s2 ""Ek khat ke likh ke meri Sughra ko"" has an unexplained extra ""ke""; s6 confirm ""Waqt kuchh aur hai""."
+src/data/lyrics/din-dhal-gaya.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,,,"Need audio/print: s1 ""خردو کلام"" vs Roman ""khurdo kalzam""; s3 ""سیدانیوں کے"" vs ""ko"" and malformed ""دُرّ ِ""; s4 ""ستم افگاروں""; s5 ""ماں غم زدا""; s7 ""بے وارثوں کی سر کھلے"" vs ""ke"". Supply authoritative readings."
+src/data/lyrics/din-dhal-raha-hai.md,standalone_lyrics,imported,nohayonline+ziyaraat,pending,partial_review,partial_review,reviewed,verified,reviewed,,,"Need audio/print or Urdu poster: s3 ""آتی ہے سسکیاں"" vs Ziyaraat ""aati hain siskiyan""; s5 confirm ""خوں خوار بن میں"" vs Ziyaraat ""Khoonkhar balwa"" and ""دن میں تمام شب""."
+src/data/lyrics/din-dhala-to-rulane.md,standalone_lyrics,imported,nohayonline+ziyaraat,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
 src/data/lyrics/din-hai-aza-ke.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/do-baar-namaz.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/do-hi-wajah-se.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
