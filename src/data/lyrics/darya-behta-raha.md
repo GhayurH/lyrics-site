@@ -10,34 +10,44 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ay waaye nehre alqama
+  Ae waaye nahr-e-Alqama
   Darya behta raha darya behta raha
-  Saamne usi darya ke pyase tadapte hai
+  Saamne usi darya ke pyaase tarapte haiṅ
 
   1
-  Bana jinki khaatir pani unhi ko mila na
-  Unhi se to seekha isne zameen par barasna
-  Sitam hai dikha kar inko hai pani bahana haye
+  Bana jin ki khaatir paani unhi ko mila na
+  Unhi se to sikha is ne zamiṅ par barasna
+  Sitam hai dikha kar in ko hai paani bahaana haaye
+  Darya behta raha darya behta raha
+  Saamne usi darya ke pyaase tarapte haiṅ
 
   2
-  Sawere isi darya pe alam wala aaya
-  Kisi tishnalab bachi ka wo mashkeeza laaya
-  Chidi mashk us pyase ki wo wapas gaya na haye
+  Sawere isi darya pe alam waala aaya
+  Kisi tishna lab bachchi ka wo mashkiza laaya
+  Chhidi mashk us pyaase ki wo waapas gaya na haaye
+  Darya behta raha darya behta raha
+  Saamne usi darya ke pyaase tarapte haiṅ
 
   3
-  Wo jiski azan goonji thi sawere sawere
-  Chadha din to baba uska usi ko sambhale
-  Pukara hai khaak ab dunya tere baad beta haye
+  Wo jis ki azaaṅ gunji thi sawere sawere
+  Charha din to baaba us ka usi ko sambhaale
+  Pukaara hai khaak ab duniya tere baad beta haaye
+  Darya behta raha darya behta raha
+  Saamne usi darya ke pyaase tarapte haiṅ
 
   4
-  Udhar bekafan tha bhai behan berida thi
-  Jalati huwi qaimon ko ajab shaam aayi
-  Koi maa pukari baba luta mera kunba haye
+  Udhar bekafan tha bhaai behan berida thi
+  Jalaati hui khaimoṅ ko ajab shaam aai
+  Koi maaṅ pukaari baaba luta mera kunba haaye
+  Darya behta raha darya behta raha
+  Saamne usi darya ke pyaase tarapte haiṅ
 
   5
-  Ameere arab ka beta libaase ghareebi
-  Rehaan aur sarwar hum na ye bhoole kabhi bhi
-  Wo darya ka behta pani wo pyase ka sajda haye
+  Amir-e-Arab ka beta libaas-e-gharibi
+  Rehaan aur Sarwar ham na ye bhule kabhi bhi
+  Wo darya ka behta paani wo pyaase ka sajda haaye
+  Darya behta raha darya behta raha
+  Saamne usi darya ke pyaase tarapte haiṅ
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:aec52a291f45b5e47a60
 # source_url: https://www.nohayonline.com/details_content.php?id=367
@@ -54,24 +64,34 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 ۱
 بنا جن کی خاطر پانی اُنہی کو ملا نہ
 اُنہی سے تو سیکھا اس نے زمیں پر برسنا
-ستم ہے دیکھا کر ان کو ہے پانی بہانا ہائے
+ستم ہے دکھا کر ان کو ہے پانی بہانا ہائے
+دریا بہتا رہا دریا بہتا رہا
+سامنے اُسی دریا کے پیاسے تڑپتے ہیں
 
 ۲
 سویرے اسی دریا پہ علم والا آیا
 کسی تشنہ لب بچی کا وہ مشکیزہ لایا
 چھدی مشک اُس پیاسے کی وہ واپس گیا نہ ہائے
+دریا بہتا رہا دریا بہتا رہا
+سامنے اُسی دریا کے پیاسے تڑپتے ہیں
 
 ۳
-وہ جس کی اذاں گونجتی تھی سویرے سویرے
+وہ جس کی اذاں گونجی تھی سویرے سویرے
 چڑھا دن تو بابا اُس کا اُسی کو سنبھالے
 پُکارا ہے خاک اب دنیا تیرے بعد بیٹا ہائے
+دریا بہتا رہا دریا بہتا رہا
+سامنے اُسی دریا کے پیاسے تڑپتے ہیں
 
 ۴
 اُدھر بے کفن تھا بھائی بہن بے ردا تھی
 جلاتی ہوئی خیموں کو عجب شام آئی
 کوئی ماں پُکاری بابا لُٹا میرا کنبہ ہائے
+دریا بہتا رہا دریا بہتا رہا
+سامنے اُسی دریا کے پیاسے تڑپتے ہیں
 
 ۵
 امیرِ عرب کا بیٹا لباسِ غریبی
 ریحان اور سرور ہم نہ یہ بھُولے کبھی بھی
 وہ دریا کا بہتا پانی وہ پیاسے کا سجدہ ہائے
+دریا بہتا رہا دریا بہتا رہا
+سامنے اُسی دریا کے پیاسے تڑپتے ہیں

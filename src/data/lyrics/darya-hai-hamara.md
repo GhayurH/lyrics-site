@@ -6,48 +6,57 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Bismil Bilgrami"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Abbas se kehti thi ye fauje sitam aara
-  Darya hai hamara
-  Behtar hai agar aap karein issay kanara
-  
+  Abbas se kehti thi ye fauj-e-sitam aara
+  Darya hai hamaara
+  Behtar hai agar aap kareṅ is se kanaara
+  Darya hai hamaara
+
   1
-  Aane ki yahan shaam ke haakim ki qabar hai
+  Aane ki yahaaṅ Shaam ke haakim ki khabar hai
   Sab zer o zabar hai
-  Kal subha ko ghir jayega maidan ye saara
-  
+  Kal subh ko ghir jaaye ga maidaan ye saara
+  Darya hai hamaara
+
   2
-  Ye sunte hi abbas ke abru pa bal aaya
-  Bad kar ye sunaya
-  Hargis nahi tum logon ka kuch is mein ejaara
-  
+  Ye sunte hi Abbas ke abru pe bal aaya
+  Barh kar ye sunaaya
+  Hargiz nahiṅ tum logoṅ ka kuchh is mein ijaara
+  Darya hai hamaara
+
   3
-  Jaa kar kaha shabbir ne abbas e dilawar
-  Kyun hote ho muztar
-  Mere liye har cheez ko khaaliq ne utaara
-  
+  Jaa kar kaha Shabbir ne Abbas dilaawar
+  Kiuṅ hote ho muztar
+  Mere liye har chiz ko khaaliq ne utaara
+  Darya hai hamaara
+
   4
-  Zainab ne kaha shaah se ghabrati hoo bhai
-  Ab ho na ladaayi
-  Le aaiye abbas ko ye keh ke khudara
-  
+  Zainab ne kaha Shaah se ghabraati huṅ bhaai
+  Ab ho na laraai
+  Le aaiye Abbas ko ye keh ke khudaara
+  Darya hai hamaara
+
   5
-  Be-deeno ki in baaton ko khater mein na lao
+  Bedinoṅ ki in baatoṅ ko khaatir mein na laao
   Ghusse mein na aao
-  Hum wo hai diya nooh ki kashti ko sahara
-  
+  Ham wo haiṅ diya Nuh ki kashti ko sahaara
+  Darya hai hamaara
+
   6
-  Mar kar bhi na bhoolunga safarayi ko teri
-  Saqqayi ko teri
-  Hai tere muqadar mein azal se ye kanara
-  
+  Mar kar bhi na bhuluṅ ga safarayi ko teri
+  Saqqaai ko teri
+  Hai tere muqaddar mein azal se ye kanaara
+  Darya hai hamaara
+
   7
-  Dasween ko moharram ki qayamat hui bismil
-  Ro dete thay qaatil
-  Saahil pe kate haat jo karte thay ishara
+  Daswiṅ ko Muharram ki qayaamat hui Bismil
+  Ro dete the qaatil
+  Saahil pe kate haath jo karte the ishaara
+  Darya hai hamaara
 # source_id: nohayonline:802b946d8fbd85367874
 # source_url: https://www.nohayonline.com/details_content.php?id=1766
 # raw_sha256: 1175b610d2b5d9793ed7d58ae7319eaf9fcd7c911e7b13cf1d3184fb156ac5a3
@@ -56,38 +65,46 @@ romanLyrics: |-
 عباس سے کہتی تھی یہ فوج ستم آرا
 دریا ہے ہمارا
 بہتر ہے اگر آپ کریں اس سے کنارہ
+دریا ہے ہمارا
 
 ۱
 آنے کی یہاں شام کے حاکم کی خبر ہے
 سب زیر و زبر ہے
-کل صبح کو گھر جاے گا میدان یہ سارا
+کل صبح کو گھر جائے گا میدان یہ سارا
+دریا ہے ہمارا
 
 ۲
 یہ سنتے ہی عباس کے ابرو پہ بل آیا
 بڑھ کر یہ سنایا
 ہرگز نہیں تم لوگوں کا کچھ اس میں اجارہ
+دریا ہے ہمارا
 
 ۳
 جا کر کہا شبیر نے عباس دلاور
 کیوں ہوتے ہو مضطر
-میرے لےء ہر چیز کو خالق نے اتارا
+میرے لیے ہر چیز کو خالق نے اتارا
+دریا ہے ہمارا
 
 ۴
-زینب نے کہا شاہ سے گھبراتی ہوں بھای
+زینب نے کہا شاہ سے گھبراتی ہوں بھائی
 اب ہو نہ لڑائی
-لے آیےء عباس کو یہ کہہ کے خدارا
+لے آئیے عباس کو یہ کہہ کے خدارا
+دریا ہے ہمارا
 
 ۵
 بے دینوں کی ان باتوں کو خاطر میں نہ لاؤ
 غصے میں نہ آؤ
 ہم وہ ہیں دیا نوح کی کشتی کو سہارا
+دریا ہے ہمارا
 
 ۶
 مر کر بھی نہ بھولوں گا سفر آی کو تیری
-سقای کو تیری
-ہے تیرے مقدر میں اذل سے یہ کنارہ
+سقائی کو تیری
+ہے تیرے مقدر میں ازل سے یہ کنارہ
+دریا ہے ہمارا
 
 ۷
-دسویں کو محرم کی قیامت ہوی بسمل
+دسویں کو محرم کی قیامت ہوئی بسمل
 رو دیتے تھے قاتل
 ساحل پہ کٹے ہاتھ جو کرتے تھے اشارہ
+دریا ہے ہمارا
