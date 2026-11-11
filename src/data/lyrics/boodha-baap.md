@@ -1,73 +1,76 @@
 ---
-title: "برچھی کی انی کھینچ چکے جب شہ والا"
-alternateTitle: "Boodha Baap"
+title: "برچھی کی انی کھینچ چکے جب شہِ والا"
+alternateTitle: "Burha Baap"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Waiz Sultanpuri"
 tags: ["noImage"]
-aliases: []
+aliases: ["Boodha Baap"]
 published: false
+reciter: "Ali Mohd. Sultanpuri"
 romanLyrics: |-
-  Barchi ki ani khaynch chuke jab shahe waala
-  Aur dam jawan bete ka jab saamne nikla
-  Sar ko jhuka ke khaak pe baithe mere maula
-  Zaanu pe apne laal ka sar shaah ne rakha
-  Moo choomte thay bete ka aur karte thay girya
-  Tha sayyed e mazloom ka waiz yehi nauha
-  Ay mere laal ay mere laal
-  Maqtal mein shaahe waala kehte thay ye ro kar ay mere laal
-  Tujh bin tera boodha baap jiyega kyun kar ay mere laal
+  Barchhi ki ani khench chuke jab Shah-e-waala
+  Aur dam jawaaṅ bete ka jab saamne nikla
+  Sar ko jhuka ke khaak pe baithe mere Maula
+  Zaanu pe apne laal ka sar Shaah ne rakha
+  Muṅh chumte the bete ka aur karte the girya
+  Tha Sayyid-e-mazlum ka Waiz yehi nauha
+  Ae mere laal ae mere laal
+
+  Maqtal mein Shaah-e-waala kehte the ye ro kar ae mere laal
+  Tujh bin tera burha baap jiyega kiuṅ kar ae mere laal
 
   1
-  Mai hoon tanha meri tanhaai pe taras khao akbar
-  Ghurbat mein is tarha mujhko chod ke na jao akbar
-  Charon taraf se ghere hai mujhko zulm ka lashkar ay mere laal
+  Main huṅ tanha meri tanhaai pe taras khaao Akbar
+  Ghurbat mein is tarah mujhko chhor ke na jaao Akbar
+  Chaaroṅ taraf se ghere haiṅ mujhko zulm ka lashkar ae mere laal
 
   2
-  Hai tujhko maloom mai tujhse kitni mohabbat karta hoon
-  Yaad aate hai jab nana mai teri ziyarat karta hoon
-  Baba jaan se na rootho hamshakle payambar ay mere laal
+  Hai tujhko maalum main tujhse kitni mohabbat karta huṅ
+  Yaad aate hai jab naana main teri ziyaarat karta huṅ
+  Baaba jaan se na rutho hamshakl-e-Payambar ae mere laal
 
   3
-  Beta apne baba ki aankhon ka taara hota hai
-  Beta rahe nazdeek to aankhon mein ujiyara hota hai
-  Mujhko nazar ab kuch nahi aata tujhse bichad kar ay mere laal
+  Beta apne baaba ki aankhoṅ ka taara hota hai
+  Beta rahe nazdik to aankhoṅ mein ujiyaara hota hai
+  Mujhko nazar ab kuchh nahiṅ aata tujhse bichhar kar ae mere laal
 
   4
-  Mai kaise samjhaun tujhko apni ulfat ka mafhoom
-  Tere bhi aulaad agar hoti to tujhe hota maloom
-  Tujhko rukhsat kar ke kya guzri hai mujhpar ay mere laal
+  Main kaise samjhaauṅ tujhko apni ulfat ka mafhum
+  Tere bhi aulaad agar hoti to tujhe hota maalum
+  Tujhko rukhsat kar ke kya guzri hai mujhpar ae mere laal
 
   5
-  Mujhko tanha jaan ke zaalim aur satayenge beta
-  Behre madad ab ghurbat mein hum kisko bulayenge beta
-  Ab nahi zinda tere chacha abbas e dilawar ay mere laal
+  Mujhko tanha jaan ke zaalim aur sataayeṅge beta
+  Bahr-e-madad ab ghurbat mein hum kisko bulaayeṅge beta
+  Ab nahiṅ zinda tere chacha Abbas-e-dilaawar ae mere laal
 
   6
-  Ay akbar mai ab kis tarha se qaime mein jaunga
-  Teri phuphi amma ko jakar kaise moo dikhlaunga
-  Bali sakina ko samjhaunga kya keh kar ay mere laal
+  Ae Akbar main ab kis tarah se khaime mein jaauṅga
+  Teri phuphi ammaaṅ ko jaakar kaise muṅh dikhlaauṅga
+  Baali Sakina ko samjhaauṅga kya keh kar ae mere laal
 
   7
-  Laash jawan bete ki ran se leke chale hai jab sarwar
-  Khaynch rahe thay khat akbar ke pair zameen e karbal par
-  Sheh ki zaeefi roti thi waiz ye keh kar ay mere laal
+  Laash jawaaṅ bete ki ran se leke chale hai jab Sarwar
+  Khench rahe the khat Akbar ke pair zamin-e-Karbal par
+  Shah ki zaifi roti thi Waiz ye keh kar ae mere laal
 # source_id: nohayonline:45b9df6cc3522fb392d2
 # source_url: https://www.nohayonline.com/details_content.php?id=3703
 # raw_sha256: 0c7a39d296b0d2338acc5eae2c8e6a3ab2a0fc7350576e6a3cf766cf5596abfb
 ---
 
-برچھی کی انی کھینچ چکے جب شہ والا
+برچھی کی انی کھینچ چکے جب شہِ والا
 اور دم جواں بیٹے کا جب سامنے نکلا
 سر کو جھکا کے خاک پہ بیٹھے میرے مولا
-زانوں پہ اپنے لال کا سر شاہ نے رکھا
+زانو پہ اپنے لال کا سر شاہ نے رکھا
 منہ چومتے تھے بیٹے کا اور کرتے تھے گریہ
-تھا سید مظلوم کا وایض یہی نوحہ
+تھا سیدِ مظلوم کا واعظ یہی نوحہ
 اے میرے لال اے میرے لال
-مقتل میں شاہ والا کہتے تھے یہ رو کر اے میرے لال
-تجھ بن تیرا بوڑھا باپ جیےء گا کیوں کر اے میرے لال
+
+مقتل میں شاہِ والا کہتے تھے یہ رو کر اے میرے لال
+تجھ بن تیرا بوڑھا باپ جیے گا کیوں کر اے میرے لال
 
 ۱
 میں ہوں تنہا میری تنہائی پہ ترس کھاؤ اکبر
@@ -90,8 +93,8 @@ romanLyrics: |-
 تجھکو رخصت کر کے کیا گزری ہے مجھ پر اے میرے لال
 
 ۵
-مجھکو تنہا جان کے ظالم اور ستاییں گے بیٹا
-بہر مدد اب غربت میں ہم کس کو بلاییں گے بیٹا
+مجھکو تنہا جان کے ظالم اور ستائیں گے بیٹا
+بہرِ مدد اب غربت میں ہم کس کو بلائیں گے بیٹا
 اب نہیں زندہ تیرے چچا عباس تیرے دلاور اے میرے لال
 
 ۶
@@ -101,5 +104,5 @@ romanLyrics: |-
 
 ۷
 لاش جواں بیٹے کی رن سے لے کے چلے ہے جب سرور
-کھینچ رہے تھے خط اکبر کے پیر زمین کربل پر
-شہ کی ضعیفی روتی تھی وایض یہ کہہ کر اے میرے لال
+کھینچ رہے تھے خط اکبر کے پیر زمینِ کربل پر
+شہ کی ضعیفی روتی تھی واعظ یہ کہہ کر اے میرے لال
