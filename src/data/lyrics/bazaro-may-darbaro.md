@@ -1,105 +1,102 @@
 ---
-title: "ان جکڑے ہوے ہاتھوں کی قسم"
-alternateTitle: "Bazaro May Darbaro"
+title: "ان جکڑے ہوئے ہاتھوں کی قسم"
+alternateTitle: "Bazaaroṅ Mein Darbaaroṅ Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  In jhakde huwe haathon ki qasam
+  In jakre hue haathoṅ ki qasam
   Ghazi ki behan ka waada hai
-  Matam hoga matam hoga
-  Ye zainab ne elaan kiya
+  Maatam hoga maatam hoga
 
   1
-  Bazaron may darbaron may
-  Ghazi ka mere matam hoga
-  Bazaron may darbaron may
-  Na taqt raha na taaj raha
+  Ye Zainab ne elaan kiya
+  Bazaaroṅ mein darbaaroṅ mein
+  Ghazi ka mere maatam hoga
+  Bazaaroṅ mein darbaaroṅ mein
 
   2
+  Na takht raha na taaj raha
   Na zulm raha na raaj raha
-  Ek shor hai matamdari ka
-  Bazaron may darbaron may
+  Ek shor hai maatam daari ka
+  Bazaaroṅ mein darbaaroṅ mein
 
   3
   Na qaatil na baatil hai
-  Ay dunya aa ke dekh zara
-  Shabbir ke matam ki hai sada
-  Bazaron may darbaron may
+  Ae duniya aa ke dekh zara
+  Shabbir ke maatam ki hai sada
+  Bazaaroṅ mein darbaaroṅ mein
 
   4
-  Hum thok ke seena kehte hai
-  Hum rukne nahi denge matam
-  Har haal may ye matam hoga
+  Ham thok ke sina kehte haiṅ
+  Ham rukne nahiṅ deṅ ge maatam
+  Har haal mein ye maatam hoga
+  Bazaaroṅ mein darbaaroṅ mein
 
   5
-  Bazaron may darbaron may
-  Ye seene nahi deewarein hai
-  Ye haath nahi talwarein hai
+  Ye sine nahiṅ diwaareṅ haiṅ
+  Ye haath nahiṅ talwaareṅ haiṅ
+  Lo aa gaya lashkar Zainab ka
+  Bazaaroṅ mein darbaaroṅ mein
 
   6
-  Lo aa gaya lashkar zainab ka
-  Bazaron may darbaron may
-  O shaamiyon himmat hai roko
+  O Shaamiyoṅ himmat hai roko
+  Mazlum behan ko bhaai ka
+  Ham dene aae haiṅ pursa
+  Bazaaroṅ mein darbaaroṅ mein
 
   7
-  Mazloom behan ko bhai ka
-  Hum dene aaye hai pursa
-  Bazaron may darbaron may
+  De hukm agar tu shahzaadi
+  Ye behte hue ashkoṅ ki qasam
+  Ham khuṅ ka bichha de farsh-e-aza
+  Bazaaroṅ mein darbaaroṅ mein
 
   8
-  De hukm agar tu shehzadi
-  Ye behte huwe ashkon ki qasam
-  Hum khoon ka bichade farshe aza
-  Bazaron may darbaron may
+  Is Shaam ke is bazaar se hi
+  Ye keh kar guzri thi Zainab
+  Ghazi ka alam lehraae ga
+  Bazaaroṅ mein darbaaroṅ mein
 
   9
-  Is shaam ke is bazaar se hi
-  Ye keh kar guzri thi zainab
-  Ghazi ka alam lehrayega
+  Paaband-e-rasan majbur huṅ main
+  Ae Shiyoṅ khule ho haath to phir
+  Shabbir ka tum maatam kar lo
+  Bazaaroṅ mein darbaaroṅ mein
 
   10
-  Bazaron may darbaron may
-  Paband e rasan majboor hoo mai
-  Ay shiyon khule ho haath to phir
-
-  11
-  Shabbir ka tum matam kar lo
-  Bazaron may darbaron may
-  Zainab ki tamanna hai gohar
-
-  12
-  Ho aisa qayamat ka matam
-  Khud dekhne aaye karbobala
-  Bazaron may darbaron may
+  Zainab ki tamanna hai Gohar
+  Ho aisa qayaamat ka maatam
+  Khud dekhne aae Karbobala
+  Bazaaroṅ mein darbaaroṅ mein
 # source_id: nohayonline:805186c21cfc7dc58cdf
 # source_url: https://www.nohayonline.com/details_content.php?id=1504
 # raw_sha256: 38d0686dd8f675e782085231b1d23c7d292de99c64b38afb4faf1257e205e535
 ---
-ان جکڑے ہوے ہاتھوں کی قسم
+ان جکڑے ہوئے ہاتھوں کی قسم
 غازی کی بہن کا وعدہ ہے
 ماتم ہوگا ماتم ہوگا
-یہ زینب نے اعلان کیا
 
 ۱
+یہ زینب نے اعلان کیا
 بازاروں میں درباروں میں
 غازی کا میرے ماتم ہوگا
 بازاروں میں درباروں میں
-نہ تخت رہا نہ تاج رہا
 
 ۲
+نہ تخت رہا نہ تاج رہا
 نہ ظلم رہا نہ راج رہا
 اک شور ہے ماتم داری کا
 بازاروں میں درباروں میں
 
 ۳
-نہ قاتل ہےنہ باطل ہے
-اے دنیا آ کے دیکھ زرا
+نہ قاتل ہے نہ باطل ہے
+اے دنیا آ کے دیکھ ذرا
 شبیر کے ماتم کی ہے صدا
 بازاروں میں درباروں میں
 
@@ -107,44 +104,40 @@ romanLyrics: |-
 ہم ٹھوک کے سینہ کہتے ہیں
 ہم رکنے نہیں دیں گے ماتم
 ہر حال میں یہ ماتم ہوگا
+بازاروں میں درباروں میں
 
 ۵
-بازاروں میں درباروں میں
 یہ سینے نہیں دیواریں ہیں
 یہ ہاتھ نہیں تلواریں ہیں
+لو آ گیا لشکر زینب کا
+بازاروں میں درباروں میں
 
 ۶
-لو آگیا لشکر زینب کا
-بازاروں میں درباروں میں
 او شامیوں ہمت ہے روکو
+مظلوم بہن کو بھائی کا
+ہم دینے آئے ہیں پرسہ
+بازاروں میں درباروں میں
 
 ۷
-مظلوم بہن کو بھای کا
-ہم دینے آے ہیں پرسہ
-بازاروں میں درباروں میں
-
-۸
 دے حکم اگر تو شہزادی
-یہ بہتے ہوے اشکوں کی قسم
+یہ بہتے ہوئے اشکوں کی قسم
 ہم خوں کا بچھا دے فرش عزا
 بازاروں میں درباروں میں
 
-۹
+۸
 اس شام کے اس بازار سے ہی
 یہ کہہ کر گزری تھی زینب
-غازی کا الم لہراے گا
-
-۱۰
+غازی کا علم لہرائے گا
 بازاروں میں درباروں میں
+
+۹
 پابند رسن مجبور ہوں میں
 اے شامیوں کھلے ہو ہاتھ تو پھر
-
-۱۱
 شبیر کا تم ماتم کر لو
 بازاروں میں درباروں میں
-زینب کی تمنا ہے گوہر
 
-۱۲
+۱۰
+زینب کی تمنا ہے گوہر
 ہو ایسا قیامت کا ماتم
-خود دیکھنے آے کربوبلا
+خود دیکھنے آئے کربوبلا
 بازاروں میں درباروں میں

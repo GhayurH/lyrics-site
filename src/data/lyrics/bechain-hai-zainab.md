@@ -6,74 +6,75 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Bechain hai zainab aaja
-  
+  Bechain hai Zainab aa ja
+  Viraan hai ghar Ali Akbar
+  Mere laal tu laut ke aa ja
+
   1
-  Veeran hai ghar ali akbar
-  Mere laal tu laut ke aaja
   Pardes ki is ghurbat mein
-  Hum jaaye kahan batla jaa
-  
+  Ham jaaeṅ kahaaṅ batla ja
+
   2
-  Athara baras paala tujhko
+  Athaara baras paala tujh ko
   Tu ghar se gaya na baahar
-  Din doob gaya hai beta
-  Ghar laut ke ab to aaja
-  
+  Din dub gaya hai beta
+  Ghar laut ke ab to aa ja
+
   3
   Hai waasta tere baba ka
-  Haathon ke mere nawaalon ka
+  Haathoṅ ke mere nawaaloṅ ka
   Marne ki umr thi teri
-  Ek baar mujhe samjha jaa
-  
+  Ek baar mujhe samjha ja
+
   4
-  Lagta hai watan na jaungi
-  Ghut ghut ke mar jaungi
-  Jeene ki karungi tamanna
-  Ek baar tu wapas aaja
-  
+  Lagta hai watan na jaauṅ gi
+  Ghut ghut ke mar jaauṅ gi
+  Jine ki karuṅ gi tamanna
+  Ek baar tu waapas aa ja
+
   5
-  Zanjeer mein jakda hai kunba
+  Zanjir mein jakra hai kunba
   Sar naize par hai tera
-  Aankhon se lahoo barsaun
-  Mai kab tak ye batla jaa
-  
+  Aaṅkhoṅ se lahu barsaauṅ
+  Main kab tak ye batla ja
+
   6
-  Teri yaadein hai aur zainab hai
-  Hamshakle payambar akbar
-  Doo dil ko tasalli kaise
-  Ye baat zara batla jaa
-  
+  Teri yaadeṅ haiṅ aur Zainab hai
+  Hamshakl-e-Payambar Akbar
+  Duṅ dil ko tasalli kaise
+  Ye baat zara batla ja
+
   7
-  Rehaan fughan thi zainab ki
-  Ye shaam ke bazaron mein
-  Dukhiyari phuphi kehti hai
-  Akbar mere akbar aaja
+  Rehaan fughaaṅ thi Zainab ki
+  Ye Shaam ke bazaaroṅ mein
+  Dukhyaari phuphi kehti hai
+  Akbar mere Akbar aa ja
 # source_id: nohayonline:0a504d31cc6061abe396
 # source_url: https://www.nohayonline.com/details_content.php?id=2563
 # raw_sha256: 62611eadfb40a2f01734efc60040fab18233186ffb806d202f72eea781eae832
 ---
 
 بے چین ہے زینب آجا
-
-۱
 ویران ہے گھر علی اکبر
 میرے لال تو لوٹ کے آجا
+
+۱
 پردیس کی اس غربت میں
-ہم جاے کہاں بتلا جا
+ہم جائیں کہاں بتلا جا
 
 ۲
-اٹھارہ برس پالا تجھکو
+اٹھارہ برس پالا تجھ کو
 تو گھر سے گیا نہ باہر
-دن ڈوبا گیا ہے بیٹا
-گھر لوٹ کے اب آ جا
+دن ڈوب گیا ہے بیٹا
+گھر لوٹ کے اب تو آ جا
 
 ۳
-ہے واسطے تیرے بابا کا
+ہے واسطہ تیرے بابا کا
 ہاتھوں کے میرے نوالوں کا
 مرنے کی عمر تھی تیری
 اک بار مجھے سمجھا جا
@@ -87,17 +88,17 @@ romanLyrics: |-
 ۵
 زنجیر میں جکڑا ہے کنبہ
 سر نیزے پر ہے تیرا
-آنکھوں سے لہو برساوں
+آنکھوں سے لہو برساؤں
 میں کب تک یہ بتلا جا
 
 ۶
 تیری یادیں ہیں اور زینب ہے
 ہمشکل پیمبر اکبر
 دوں دل کو تسلی کیسے
-یہ بات زرا بتلا جا
+یہ بات ذرا بتلا جا
 
 ۷
 ریحان فغاں تھی زینب کی
-یہ شام کے بازوں میں
+یہ شام کے بازاروں میں
 دکھیاری پھپھی کہتی ہے
 اکبر میرے اکبر آجا

@@ -1,50 +1,51 @@
 ---
-title: "بے ردا بی بیوں کی قافلہ سالاری ہے"
-alternateTitle: "Be Rida Bibiyon Ki"
+title: "بے ردا بی‌بیوں کی قافلہ سالاری ہے"
+alternateTitle: "Be Rida Bibiyoṅ Ki"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Majid Raza Abidi"
+reciter: "Mukhtar Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Be rida bibiyon ki khaafila salaari hai
-  Paon mein aable hai aur safar jaari hai
+  Be rida Bibiyoṅ ki qaafila saalaari hai
+  Paaoṅ mein aable haiṅ aur safar jaari hai
 
   1
-  Chod kar jaata hoo baba ko mai be-gor o kafan
-  Dil e sajjad pe ye karb bohat bhaari hai
+  Chhor kar jaata huṅ baba ko main be gor o kafan
+  Dil-e-Sajjad pe ye karb bahut bhaari hai
 
   2
-  Ibn e shabbir ko durre to na maaro logon
-  Bhook hai pyaas hai beemari hai aazaari hai
+  Ibn-e-Shabbir ko durre to na maaro logoṅ
+  Bhuk hai pyaas hai bimaari hai aazaari hai
 
   3
-  Maarta koi sakina ko to kehte abid
-  Maar le mujhko mere baba ki ye pyari hai
+  Maarta koi Sakina ko to kehte Aabid
+  Maar le mujh ko mere baba ki ye pyaari hai
 
   4
-  Logon dekho ye kata sar hai mere baba ka
-  Kat ke bhi honton pe quran e khuda jaari hai
+  Logoṅ dekho ye kata sar hai mere baba ka
+  Kat ke bhi hoṅtoṅ pe Quraan-e-Khuda jaari hai
 
   5
-  Bole ye laashe sakina ko utha kar abid
-  Ay chacha dekhiye kano se lahoo jaari hai
+  Bole ye laasha-e-Sakina ko utha kar Aabid
+  Ae chacha dekhiye kaanoṅ se lahu jaari hai
 
   6
-  Saath zehra ke giraya hai mazaar e abid
+  Saath Zehra ke giraaya hai mazaar-e-Aabid
   Aaj bhi aal pe ummat ka sitam jaari hai
 
   7
-  Fath e abid ka ye elaan hai har soo majid
-  Ye jo har qariye mein sarwar ki azadari hai
+  Fath-e-Aabid ka ye elaan hai har su Majid
+  Ye jo har qariye mein Sarwar ki azaadaari hai
 # source_id: nohayonline:2fb4ae18b6257ba5d670
 # source_url: https://www.nohayonline.com/details_content.php?id=1420
 # raw_sha256: 1458feb90320a37cfc23e33e6a8f83f0a959149f4ac14b878efdc28df34d690a
 ---
-بے ردا بی بیوں کی قافلہ سالاری ہے
+بے ردا بی‌بیوں کی قافلہ سالاری ہے
 پاؤں میں آبلے ہیں اور سفر جاری ہے
 
 ۱
@@ -57,20 +58,20 @@ romanLyrics: |-
 
 ۳
 مارتا کوئی سکینہ کو تو کہتے عابد
-مار لے مجھکو میرے بابا کی یہ پیاری ہے
+مار لے مجھ کو میرے بابا کی یہ پیاری ہے
 
 ۴
-لوگوں دیکھو یہ کہتا سر ہے میرے بابا کا
+لوگوں دیکھو یہ کٹا سر ہے میرے بابا کا
 کٹ کے بھی ہونٹوں پہ قرآن خدا جاری ہے
 
 ۵
 بولے یہ لاشہ سکینہ کو اٹھا کر عابد
-اے چچا دیکھیےء کانوں سے لہو جاری ہے
+اے چچا دیکھیے کانوں سے لہو جاری ہے
 
 ۶
 ساتھ زہرا کے گرایا ہے مزار عابد
 آج بھی آل پہ امت کا ستم جاری ہے
 
 ۷
-فاتح عابد کا یہ اعلان ہے ہر سوں ماجد
-یہ جو ہر خریہ میں سرور کی عزاداری ہے
+فاتح عابد کا یہ اعلان ہے ہر سو ماجد
+یہ جو ہر قریہ میں سرور کی عزاداری ہے
