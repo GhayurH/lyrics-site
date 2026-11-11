@@ -1,6 +1,6 @@
 ---
 title: گھبراۓ گی زینب گھبراۓ گی زینب
-alternateTitle: Ghabraegi Zainab
+alternateTitle: Ghabraaegi Zainab
 language: Urdu
 lang: ur
 direction: rtl
@@ -10,33 +10,33 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ghabraegi zainab ghabraegi zainab
-  Bhaiya tumhe ghar jaa ke kahan paaegi zainab
+  Ghabraaegi Zainab ghabraaegi Zainab
+  Bhaiya tumheṅ ghar jaa ke kahaaṅ paaegi Zainab
 
   1
-  Kaisa ye bhara ghar hua barbaad elaahi
-  Kya aayi tabahi
-  Ab is ko na abaad kabhi paaegi zainab
+  Kaisa ye bhara ghar hua barbaad Ilaahi
+  Kya aayi tabaahi
+  Ab is ko na aabaad kabhi paaegi Zainab
 
   2
-  Ghar jaa ke kisay dekhegi qasim hai na abbas
+  Ghar jaa ke kise dekhegi Qasim haiṅ na Abbas
   Akbar se bhi hai aas
-  Apne ali asghar ko kahan paaegi zainab
+  Apne Ali Asghar ko kahaaṅ paaegi Zainab
 
   3
-  Poochenge jo sab log ke baazu pe hua kya
-  Ye neel hai kaisa
-  Kis kis ko nishan rassi ke dikhlaegi zainab
+  Puchheṅ ge jo sab log ke baazu pe hua kya
+  Ye nil hai kaisa
+  Kis kis ko nishaaṅ rassi ke dikhlaaegi Zainab
 
   4
-  Phat jaaega bas dekh ke hi ghar ko kaleja
+  Phat jaaega bas dekhte hi ghar ko kaleja
   Yaad aaoge bhaiya
-  Dil dhoondega tum ko to kahan paaegi zainab
+  Dil dhundega tum ko to kahaaṅ paaegi Zainab
 
   5
-  Be parda hui qaid bhi khaahar ne uthaai
-  Aur maut na aayi
-  Kya jaane ye kya kya abhi dukh paaegi zainab
+  Beparda hui qaid bhi khwaahar ne uthaai
+  Par maut na aayi
+  Kya jaaniye kya kya abhi dukh paaegi Zainab
 reciter: Nasir Jehan
 # source_id: nohayonline:60d45e613b700bfb444c
 # source_url: https://www.nohayonline.com/content_salaam.php?id=35
@@ -51,7 +51,7 @@ reciter: Nasir Jehan
 
 ۱
 کیسا یہ بھرا گھر ہوا برباد الہی
-کیا آئ تباہی
+کیا آئی تباہی
 اب اس کو نہ آباد کبھی پاۓ گی زینب
 
 ۲
@@ -67,9 +67,9 @@ reciter: Nasir Jehan
 ۴
 پھٹ جاۓ گا بس دیکھتے ہی گھر کو کلیجہ
 یاد آؤ گے بھیا
-دل ڈھونڈے گا تم کو اب کہاں پاۓ گی زینب
+دل ڈھونڈے گا تم کو تو کہاں پاۓ گی زینب
 
 ۵
-بے پردہ ہوئ قید بھی خواہر نے اٹھائ
-پر موت نہ آئ
+بے پردہ ہوئی قید بھی خواہر نے اٹھائی
+پر موت نہ آئی
 کیا جانیے کیا کیا ابھی دکھ پاۓ گی زینب

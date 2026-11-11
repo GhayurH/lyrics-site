@@ -1,52 +1,53 @@
 ---
 title: "گرم ریتی پہ میں گرتا ہوں سنبھالو اماں"
-alternateTitle: "Garm Reti Pa Mai"
+alternateTitle: "Garm Reti Pe Main"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Jaweed Maqsood"
+reciter: "Hadi Ali Khan Muslim"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Garm reti pa mai girta hoo sambhalo amma
+  Garm reti pe main girta huṅ sambhaalo ammaaṅ
   
   1
-  Asr e ashoor tha shabbir thay tanhai thi
-  Mahe zehra pa ghata zulm ki jab chayi thi
-  Shah pa jab noke sina suye zameen laayi thi
-  Girte girte labe zakhmi pe sada aayi thi
+  Asr-e-Aashur tha Shabbir the tanhaai thi
+  Maah-e-Zehra pe ghata zulm ki jab chhaayi thi
+  Shaah pe jab nok-e-sinaaṅ su-e-zamiṅ laayi thi
+  Girte girte lab-e-zakhmi pe sada aayi thi
   
   2
-  Laash qasim ki uthayi hai nazar zakhmi hai
-  Zakhm akbar ka jo dekha hai jigar zakhmi hai
+  Laash Qasim ki uthaayi hai nazar zakhmi hai
+  Zakhm Akbar ka jo dekha hai jigar zakhmi hai
   Qalb zakhmi hai badan zakhmi hai sar zakhmi hai
-  De sahara mujhe baba ko bulalo amma
+  De sahaara mujhe baaba ko bula lo ammaaṅ
   
   3
-  Mai jo ghode se giroo tum mujhe taskee dena
-  Pyar karna meri himmat ko duayein dena
-  Daal kar baah galay may mujhe lipta lena
-  Ha dam e zibha magar haath hatalo amma
+  Main jo ghore se giruṅ tum mujhe taskiṅ dena
+  Pyaar karna meri himmat ko duaaeṅ dena
+  Daal kar baaheṅ gale mein mujhe lipta lena
+  Ha dam-e-zibh magar haath hata lo ammaaṅ
   
   4
-  Ghir gaya hoo mai kisi ki bhi mujhe aas nahi
-  Qatl sab hogaye ab koi bhi mere paas nahi
-  Mera qasim nahi akbar nahi abbas nahi
-  Tum mujhe aake kaleje se lagalo amma
+  Ghir gaya huṅ main kisi ki bhi mujhe aas nahiṅ
+  Qatl sab ho gaye ab koi bhi mere paas nahiṅ
+  Mera Qasim nahiṅ Akbar nahiṅ Abbas nahiṅ
+  Tum mujhe aa ke kaleje se laga lo ammaaṅ
   
   5
-  Ab koi ban may mere halq pa khanjar hoga
-  Aur seene pa mere shimr e sitamgar hoga
-  Khoon ka hoga kafan khaak ka bistar hoga
-  Aakhri naaz ye bete ka uthalo amma
+  Ab koi ban mein mere halq pe khanjar hoga
+  Aur sine pe mere Shimr-e-sitamgaar hoga
+  Khun ka hoga kafan khaak ka bistar hoga
+  Aakhri naaz ye bete ka utha lo ammaaṅ
   
   6
-  Apne waade ke liye maine har eeza sehli
-  Ek armaan mera nikle to iniyat hogi
-  Zibha ke waqt meri tumse tamanna hai yehi
-  Sar mera khaak se zano pa uthalo amma
+  Apne waade ke liye main ne har iza sah li
+  Ek armaan mera nikle to inaayat hogi
+  Zibh ke waqt meri tum se tamanna hai yahi
+  Sar mera khaak se zaanu pe utha lo ammaaṅ
 # source_id: nohayonline:1b5632727f84fa266f1b
 # source_url: https://www.nohayonline.com/details_content.php?id=561
 # raw_sha256: bc72169df15d29fdf217572a13258591197b9876c23182b2b66e4acedfe85c27
@@ -55,7 +56,7 @@ romanLyrics: |-
 گرم ریتی پہ میں گرتا ہوں سنبھالو اماں
 
 ۱
-عصرِ عاشورتھا شبیر تھے تنہائی تھی
+عصرِ عاشور تھا شبیر تھے تنہائی تھی
 ماہِ زہرا پہ گھٹا ظلم کی جب چھائی تھی
 شاہ پہ جب نوکِ سناں سُوئے زمیں لائی تھی
 گرتے گرتے لبِ زخمی پہ صدا آئی تھی
