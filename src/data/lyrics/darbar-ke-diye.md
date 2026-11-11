@@ -6,97 +6,100 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Qaisar Barhvi"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Chaaya hayaat e binte nabi par wo izteraam
-  Tadpe tahe mazaar bhi mehboobe kirdigaar
-  Darbar mein khadi rahi ismat ki taajedaar
-  Is waaqaye pe aaj bhi insaan hai ashk baar
-  Haye zahra badi mazloom hai zahra
-  Darbar ke diye huwe zakhmon ne keh diya
-  Dunya mein chand roz ki mehman hai fatema
+  Chhaaya hayaat-e-Bint-e-Nabi par wo intizaar
+  Tarpe tah-e-mazaar bhi mahbub-e-Kirdigaar
+  Darbaar mein khari rahi ismat ki taajdaar
+  Is waaqae pe aaj bhi insaan hai ashkbaar
+  Haae Zahra bari mazlum hai Zahra
+
+  Darbaar ke diye hue zakhmoṅ ne keh diya
+  Duniya mein chand roz ki mehmaan hai Fatima
 
   1
   Fizza tere supurd hai ab mere gulsitaan
-  Tu mere baad hai mere bacchon ki paasban
-  Bacche tujhe samjhte meri tarha se maa
-  Ab mera pyaar teri mohabbat se ho ayan
-  Ehsaas e ranj ho na kisi noor e ain ko
-  Rakhna sukoon se mere hassan aur hussain ko
+  Tu mere baad hai mere bachchoṅ ki paasbaaṅ
+  Bachche tujhe samajhte meri tarah se maaṅ
+  Ab mera pyaar teri mohabbat se ho ayaaṅ
+  Ehsaas-e-ranj ho na kisi nur-e-ain ko
+  Rakhna sukuṅ se mere Hasan aur Husain ko
+  Haae Zahra bari mazlum hai Zahra
 
   2
-  Fizza mere hussain pe royegi bekasi
-  Sehra ki nazr hogi mere ghar ki roshni
-  Lut jayegi tamaam kameini batool ki
-  Khallaaq e do jahan tujhe bakshega zindagi
-  Rakhna khayaal sadma e zehra siwa na ho
-  Zainab ke sar se chadar e zainab juda na ho
+  Fizza mere Husain pe roegi bekasi
+  Sahra ki nazr hogi mere ghar ki roshni
+  Lut jaae tamaam kamaai Batul ki
+  Khallaaq-e-do jahaaṅ tujhe bakhshega zindagi
+  Rakhna khayaal sadma-e-Zehra siwa na ho
+  Zainab ke sar se chaadar-e-Zainab juda na ho
 
   3
-  Aakhir mein bu-turaab se itna kiya kalaam
-  Mera salaam lijiye aisa hi be-anaam
-  Zehra pe is jahan ke maraahil huwe tamaam
-  Mai jaa rahi hoo chod ke ye aarzi maqam
-  Ukhdi hai saans waqt mein vus'at koi nahi
-  Keh dijiye ke mujhse shikayat koi nahi
+  Aakhir mein Buturaab se itna kiya kalaam
+  Mera salaam lijiye ae saahib-e-anaam
+  Zehra pe is jahaaṅ ke maraahil hue tamaam
+  Main jaa rahi huṅ chhor ke ye aarzi maqaam
+  Ukhri hai saaṅs waqt mein wusat koi nahiṅ
+  Keh dijiye ke mujh se shikaayat koi nahiṅ
 
   4
-  Farmeina bu-turaab ne ay jaane mustafa
-  Tum se mujhe ho koi shikayat ye kya kaha
-  Kaati tamaam umr ba khushnoodi e khuda
-  Quran jis pe naaz kare wo amal kiya
-  Taabindagi e shehr e nabi fatema se hai
-  Roshan charaghe mustafa bhi fatema se hai
+  Farmaaya Buturaab ne ae jaan-e-Mustafa
+  Tum se mujhe ho koi shikaayat ye kya kaha
+  Kaati tamaam umr ba khushnudi-e-Khuda
+  Quraan jis pe naaz kare wo amal kiya
+  Taabindagi-e-shahr-e-Nabi Fatima se hai
+  Roshan charaagh-e-Mustafa bhi Fatima se hai
 
   5
-  Naagaah fatema ne kiya khuld ka safar
-  Rone lage wasi e payambar jhuika se sar
-  Shor e fughan mein doob gaya fatema ka ghar
-  Fizza pukari paon ke talwon ko choom kar
-  Ay shaahzadi ay meri maqdooma alwida
-  Ismat ki rooh saabira mazlooma alwida
+  Naagaah Fatima ne kiya khuld ka safar
+  Rone lage wasi-e-Payambar jhuka ke sar
+  Shor-e-fughaaṅ mein dub gaya Fatima ka ghar
+  Fizza pukaari paaoṅ ke talwoṅ ko chum kar
+  Ae shaahzaadi ae meri makhduma alwida
+  Ismat ki ruh saabira mazluma alwida
 
   6
-  Wo josh e gham wo fatema ke phool beqaraar
-  Sab se zyada zainab o kulsoom ashk baar
-  Ghamgeen faza pe likh gaye aankhon ke aab shaar
-  Uht'ta hai ab janaza e khatoon e rozegaar
-  Manzar mein ehteraam e wasiyat liye huwe
-  Taboot par bhi raat hai parda kiye huwe
+  Wo josh-e-gham wo Fatima ke phul beqaraar
+  Sab se ziyaada Zainab o Kulsum ashkbaar
+  Ghamgiṅ faza pe likh gae aaṅkhoṅ ke aabshaar
+  Uthta hai ab janaaza-e-khaatun-e-rozgaar
+  Manzar mein ehteraam-e-wasiyyat liye hue
+  Taabut par bhi raat hai parda kiye hue
 
   7
-  Taboot suye qabr e payambar hua rawan
-  Jis tarha gulsitan ke taraf boo e gulsitan
-  Lekin wo be-zameer nazar aaye darmiyan
-  Mashoor hai jo aale nabi ke udoo e jaan
-  Khusboo tadap ke reh gayi gulshan na mil saka
+  Taabut su-e-qabr-e-Payambar hua rawaaṅ
+  Jis tarah gulistaaṅ ki taraf bu-e-gulistaaṅ
+  Lekin wo bezamir nazar aae darmiyaaṅ
+  Mashhur hai jo Aal-e-Nabi ke adu-e-jaaṅ
+  Khushbu tarap ke reh gai gulshan na mil saka
   Beti ko apne baap ka daaman na mil saka
 
   8
-  Ay jannatul baqi e madina salaam le
-  Tukda dil e rasool ka saumpa gaya tujhe
-  Zaahir ye gham hai aaj bhi qabre batool se
-  Rauza giraya dushmane aale rasool ne
-  Sadiyon ke baad bughz ki haalat wohi rahi
-  Paykar badal gaye pa shakawat wohi rahi
+  Ae Jannat-ul-Baqi-e-Madina salaam le
+  Tukra dil-e-Rasul ka sauṅpa gaya tujhe
+  Zaahir ye gham hai aaj bhi qabr-e-Batul se
+  Rauza giraaya dushman-e-Aal-e-Rasul ne
+  Sadiyoṅ ke baad bughz ki haalat wohi rahi
+  Paikar badal gae pe sakhaawat wohi rahi
 
   9
-  Ay jannatul baqi wo din aayega zaroor
-  Ghaarat garon ka khaak mein mil jayega ghuroor
-  Insan se kahega khud insan ka sha'oor
-  Islam ki hayaat hai aale nabi ka noor
-  Ek din tamaam qasre raunaq girayenge
-  Phir bhi misaale rauza e zehra banayenge
+  Ae Jannat-ul-Baqi wo din aaega zarur
+  Ghaaratgaroṅ ka khaak mein mil jaaega ghurur
+  Insaan se kahega khud insaan ka shaur
+  Islaam ki hayaat hai Aal-e-Nabi ka nur
+  Ik din tamaam qasr-e-raunaq giraaeṅge
+  Phir bhi misaal-e-rauza-e-Zehra banaaeṅge
 
   10
-  Qaisar ba-zikre fatema zehra dua karo
-  Ya rab imam e waqt ka jaldi zahoor ho
-  Awaaz aaye ahle mawaddat utho utho
-  Jaldi chalo madina e khairul wara chalo
-  Majlis bapa hai rauza e binte rasool mein
-  Zikre hussain chahiye baaghe batool mein
+  Qaisar ba zikr-e-Fatima Zehra dua karo
+  Ya Rab Imaam-e-waqt ka jaldi zuhur ho
+  Aawaaz aae ahl-e-mawaddat utho utho
+  Jaldi chalo Madina-e-Khair-ul-Wara chalo
+  Majlis bapa hai rauza-e-Bint-e-Rasul mein
+  Zikr-e-Husain chaahiye baagh-e-Batul mein
 # source_id: nohayonline:28e74a3de35de1e0c283
 # source_url: https://www.nohayonline.com/details_content.php?id=2237
 # raw_sha256: 4403e13e31e8c48c09c0f3a6358d65b64d43c01729135d062121f921a7618416
@@ -106,9 +109,10 @@ romanLyrics: |-
 تڑپے تہہ مزار بھی محبوب کردگار
 دربار میں کھڑی رہی عصمت کی تاجدار
 اس واقعے پہ آج بھی انسان ہے اشک بار
-ہاے زہرا بڑی مظلوم ہے زہرا
-دربار کے دیےء ہوے زخموں نے کہہ دیا
-دنیا میں چاند روز کی مہمان ہے فاطمہ
+ہائے زہرا بڑی مظلوم ہے زہرا
+
+دربار کے دیے ہوئے زخموں نے کہہ دیا
+دنیا میں چند روز کی مہمان ہے فاطمہ
 
 ۱
 فضہ تیرے سپرد ہے اب میرے گلستان
@@ -117,34 +121,35 @@ romanLyrics: |-
 اب میرا پیار تیری محبت سے ہو عیاں
 احساس رنج ہو نہ کسی نور عین کو
 رکھنا سکوں سے میرے حسن اور حسین کو
+ہائے زہرا بڑی مظلوم ہے زہرا
 
 ۲
-فضہ میرے حسین پہ روے گی بیکسی
-سحرا کی نظر ہوگی میرے گھر کی روشنی
-لٹ جاے تمام کمای بتول کی
+فضہ میرے حسین پہ روئے گی بیکسی
+صحرا کی نذر ہوگی میرے گھر کی روشنی
+لٹ جائے تمام کمائی بتول کی
 خلاق دو جہاں تجھے بخشے گا زندگی
-رکھنا خیال صدمہء زہرا سوا نہ ہو
+رکھنا خیال صدمۂ زہرا سوا نہ ہو
 زینب کے سر سے چادر زینب جدا نہ ہو
 
 ۳
 آخر میں بوتراب سے اتنا کیا کلام
-میرا سلام لیجیےء اے صاحبِ انام
-زہرا پہ اس جہاں کے مراحل ہوے تمام
+میرا سلام لیجیے اے صاحبِ انام
+زہرا پہ اس جہاں کے مراحل ہوئے تمام
 میں جا رہی ہوں چھوڑ کے یہ عارضی مقام
 اکھڑی ہے سانس وقت میں وسعت کوئی نہیں
-کہہ دیجیےء کہ مجھ سے شکایت کوی نہیں
+کہہ دیجیے کہ مجھ سے شکایت کوئی نہیں
 
 ۴
 فرمایا بوتراب نے اے جانِ مصطفیٰ
 تم سے مجھے ہو کوئی شکایت یہ کیا کہا
-کاٹی تمام عمر بہ خوشنودیء خدا
+کاٹی تمام عمر بہ خوشنودیِ خدا
 قرآن جس پہ ناز کرے وہ عمل کیا
-تابندگیء شہر نبی فاطمہ سے ہے
+تابندگیِ شہر نبی فاطمہ سے ہے
 روشن چراغ مصطفیٰ بھی فاطمہ سے ہے
 
 ۵
 ناگاہ فاطمہ نے کیا خلد کا سفر
-رونے لگے وصیء پیمبر جھکا کے سر
+رونے لگے وصیِ پیمبر جھکا کے سر
 شور فغاں میں ڈوب گیا فاطمہ کا گھر
 فضہ پکاری پاؤں کے تلوؤں کو چوم کر
 اے شاہزادی اے میری مخدومہ الوداع
@@ -152,40 +157,40 @@ romanLyrics: |-
 
 ۶
 وہ جوش غم وہ فاطمہ کے پھول بیقرار
-سب سے ذیادہ زینب و کلثوم اشکبار
-غم گیں فضا پہ لکھ گےء آنکھوں کے آب شار
-اٹھتا ہے اب جنازہء خاتون روزگار
-منظر میں احترام وصیت لیےء ہو ے
-تابوت پر بھی رات ہے پردہ گےء ہوے
+سب سے زیادہ زینب و کلثوم اشکبار
+غم گیں فضا پہ لکھ گئے آنکھوں کے آب شار
+اٹھتا ہے اب جنازۂ خاتون روزگار
+منظر میں احترام وصیت لیے ہوئے
+تابوت پر بھی رات ہے پردہ کیے ہوئے
 
 ۷
-تابوت سوے قبر پیمبر ہوا رواں
-جس طرح گلستاں کی طرف بوے گلستاں
-لیکن وہ بے ضمیر نظر آے درمیاں
-مشہور ہے جو آل نبی کے عدوے جاں
-خوشبو تڑپ کے رہ گیء گلشن نہ مل سکا
+تابوت سوئے قبر پیمبر ہوا رواں
+جس طرح گلستاں کی طرف بوئے گلستاں
+لیکن وہ بے ضمیر نظر آئے درمیاں
+مشہور ہے جو آل نبی کے عدوئے جاں
+خوشبو تڑپ کے رہ گئی گلشن نہ مل سکا
 بیٹی کو اپنے باپ کا دامن نہ مل سکا
 
 ۸
-اے جنت البقیعء مدینہ سلام لے
+اے جنت البقیعِ مدینہ سلام لے
 ٹکڑا دل رسول کا سونپا گیا تجھے
 ظاہر یہ غم ہے آج بھی قبر بتول سے
 روضہ گرایا دشمن آل رسول نے
 صدیوں کے بعد بغض کی حالت وہی رہی
-پیکر بدل گےء پہ سخاوت وہی رہی
+پیکر بدل گئے پہ سخاوت وہی رہی
 
 ۹
-اے جنت البقیع وہ دن آے گا ضرور
-غارت گھروں کا خاک میں مل جاے گا غرور
+اے جنت البقیع وہ دن آئے گا ضرور
+غارت گروں کا خاک میں مل جائے گا غرور
 انسان سے کہے گا خود انسان کا شعور
 اسلام کی حیات ہے آلِ نبی کا نور
-اک دن تمام قصر رونق گرایینگے
-پھر بھی مثال روضہء زہرا بنائیں گے
+اک دن تمام قصر رونق گرائیں گے
+پھر بھی مثال روضۂ زہرا بنائیں گے
 
 ۱۰
 قیصر بہ ذکرِ فاطمہ زہرا دعا کرو
 یا رب امام وقت کا جلدی ظہور ہو
-آواز آے اہلِ مودت اٹھو اٹھو
-جلدی چلو مدینہء خیرالوریٰ چلو
-مجلس بپا ہے روضہء بنت رسول میں
-ذکرِ حسین چاہیئے باغ بتول میں
+آواز آئے اہلِ مودت اٹھو اٹھو
+جلدی چلو مدینۂ خیرالوریٰ چلو
+مجلس بپا ہے روضۂ بنت رسول میں
+ذکرِ حسین چاہیے باغ بتول میں

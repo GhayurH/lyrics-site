@@ -1,137 +1,126 @@
 ---
-title: "دربار میں جب کٹ کے یتیموں کے سر آے"
-alternateTitle: "Darbar May Jab Katke"
+title: "دربار میں جب کٹ کے یتیموں کے سر آئے"
+alternateTitle: "Darbaar Mein Jab Kat Ke"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Noha"
+kalamType: "Marsiya"
 poet: "Mir Anees"
+reciter: "Himayath Ali Taha"
 tags: ["noImage"]
-aliases: []
+aliases: ["Darbar May Jab Katke"]
 published: false
 romanLyrics: |-
-  Darbaar may jab katke yateemon ke sar aaye
-  Doobe huwe do chand lahoo may nazar aaye
-  Ghul pad gaya muslim ke ye laqte jigar aaye
-  Ghurbat zada o be-watan o be-pidar aaye
-
   1
-  Shamsheer e sitam chal gayi un nauhagaron par
-  Kya bekasi o yaas barasti hai saron par
-  Haakim se ye tab kehne laga haaris e bad-kaam
-  Sar bachon ke laaya hoo milay qillat o inaam
+  Darbaar mein jab kat ke yatimoṅ ke sar aae
+  Dube hue do chaand lahu mein nazar aae
+  Ghul par gaya Muslim ke ye lakht-e-jigar aae
+  Ghurbatzada o bewatan o bepidar aae
+  Shamshir-e-sitam chal gai un nauhagaroṅ par
+  Kya bekasi o yaas barasti hai saroṅ par
 
   2
-  Pehchan le muslim ke pisar hai yehi gulfaam
-  Ye wo hai jo zindan se bhaage thay sare shaam
-  Mai dhoondta phirta tha na haath aate thay dono
-  Paate thay jidhar raah nikal jaate thay dono
+  Haakim se ye tab kehne laga Haaris-e-badkaam
+  Sar bachchoṅ ke laaya huṅ mile qilat o inaam
+  Pehchaan le Muslim ke pisar haiṅ yehi gulfaam
+  Ye wo haiṅ jo zindaan se bhaage the sar-e-shaam
+  Main dhundta phirta tha na haath aate the donoṅ
+  Paate the jidhar raah nikal jaate the donoṅ
 
   3
-  Haakim ne kaha tune kahan phir inhe paaya
-  Tareeki e shab may nazar aata nahi saaya
-  Wo jod ke haathon ko suqan lab pa ye laaya
-  Zowja ne meri tha unhe hujre may chupaya
+  Haakim ne kaha tu ne kahaaṅ phir inheṅ paaya
+  Taariki-e-shab mein nazar aata nahiṅ saaya
+  Wo jor ke haathoṅ ko sukhan lab pe ye laaya
+  Zauja ne meri tha unheṅ hujre mein chhupaaya
+  Main kehta tha dil mein ke kahaaṅ jaa ke chhupe haiṅ
+  Is ki na khabar thi mere ghar aa ke chhupe haiṅ
 
   4
-  Mai kehta tha dil may ke kahan jaake chupe hai
-  Iski na khabar thi mere ghar aake chupe hai
-  Az bas ke thaka tha mujhe neend aa gayi us dam
-  Kya dekhta hoo aalam e rooya may basad gham
+  Az bas ke thaka tha mujhe nind aa gai us dam
+  Kya dekhta huṅ aalam-e-roya mein ba sad gham
+  Ik hujre mein do tifl nazar aate haiṅ baaham
+  Sar pit ke kehte haiṅ wo ba dida-e-purnam
+  Aafat mein phanse ham dar-e-zindaaṅ se nikal ke
+  Maalum hua par gae phande mein ajal ke
 
   5
-  Ek hujre may do tifl nazar aate hai baaham
-  Sar peet ke kahte hai wo baa deedaye purnam
-  Aafat may phanse ham dar e zindan se nikal ke
-  Maloom hua pad gaye phande may ajal ke
+  Chillaaya jo wo haae pidar keh ke dilafgaar
+  Tha nind mein ya aaṅkh meri khul gai ik baar
+  Khush ho gaya main taalia qaaft hue bedaar
+  Bistar se utha haath mein khenche hue talwaar
+  Ik hujre mein Muslim ke wo pyaare nazar aae
+  Baalaa-e-zamiṅ arsh ke taare nazar aae
 
   6
-  Chillaya jo wo haye pidar kehke dilafgaar
-  Tha need may ya aankh meri khul gayi ek baar
-  Khush hogaya mai tala e qafath huwe bedaar
-  Bistar se utha haath may khaynche huwe talwaar
+  Jakra jo unheṅ main ne to karte the ye faryaad
+  Mehmaan tere ghar mein haiṅ ham bekas o naashaad
+  Bin baap ke haiṅ ham pe taras khaa sitam ijaad
+  Le minnateṅ karte haiṅ teri chhor de jallaad
+  Kar rahm ke maasum haiṅ dukh paae haiṅ zaalim
+  Ham chhupne ko daaman mein tere aae haiṅ zaalim
 
   7
-  Ek hujre may muslim ke wo pyare nazar aaye
-  Bala e zameen arsh ke taare nazar aaye
-  Jakda jo unhe mai ne to karte thay ye faryad
-  Mehmaan tere ghar may hai hum bekas o nashad
+  Main ne kaha tum donoṅ ke baaba ka hai kya naam
+  Ro kar kaha kehte haiṅ unheṅ Muslim-e-naakaam
+  Bejurm o khata un ke gale par chali samsaam
+  Ham jab se chhute baap se ham ko nahiṅ aaraam
+  Dahshat se teri sine mein dil hilte haiṅ zaalim
+  Ab dhili rasan kar ke gale chhilte haiṅ zaalim
 
   8
-  Bin baap ke hai hum pa taras kha sitaam eejaad
-  Le minnate karte hai teri chodh de jallaad
-  Kar rahm ke masoom hai dukh paaye hai zaalim
-  Hum chupne ko daaman may tere aaye hai zaalim
+  Ye sunte hi maasumoṅ pe ghussa mujhe aaya
+  Hujre se unheṅ khenchte daalaan mein laaya
+  Un donoṅ ne jo zulm na dekha tha dikhaaya
+  Mujrim ki tarah baandh diya rahm na dikhaaya
+  Baahar unheṅ le aaya jo zulfoṅ ko pakar kar
+  Istaada kiya chob se rassi mein jakar kar
 
   9
-  Mai ne kaha tum dono ke baba ka hai kya naam
-  Ro kar kaha kehte hai unhe muslim e nakaam
-  Be-jurm o khata unke galay par chali samsaam
-  Hum jab se chute baap se hum ko nahi aaraam
+  Samjha na wo hargiz na mere dhyaan mein laai
+  Jhunjhla ke use tegh-e-sitam main ne lagaai
+  Ik waar mein saaid se giri kat ke kalaai
+  Chilla ke lagi dene Payambar ki duhaai
+  Haae haae mere aaqa meri imdaad ko pahuncho
+  Ae Shaah-e-gharibaaṅ meri faryaad ko pahuncho
 
   10
-  Dehshat se teri seene may dil hilte hai zaalim
-  Ab dheeli rasan kar ke galay chilte hai zaalim
-  Ye sunte hi masoomon pa ghussa mujhe aaya
-  Hujre se unhe khaynchte dailaan may laaya
+  Jab maar chuka us ko to maasumoṅ ko khencha
+  Pakre hue zulfeṅ unheṅ laaya lab-e-darya
+  Ro kar kaha bachchoṅ ne hameṅ qatl na karna
+  Maarega jo ham ko tere kya haath lagega
+  Bekas hai musaafir hai aur aawaara watan hai
+  Ye kya hai saza kam ke giraftaar-e-mehan hai
 
   11
-  Un dono ne jo zulm na dekha tha dikhaya
-  Mujrim ki tarha baandh diya rahm na dikhaya
-  Baahar unhe le aaya jo zulfon ko pakad kar
-  Istaada kiya chob se rassi may jakad kar
+  Kar rahm sitamgaar gharibi pe hamaari
+  Dewega sila is ka tujhe khaaliq-e-Baari
+  Le aaṅkh na dikhla nahiṅ ab karne ko zaari
+  Chal kar sar-e-baazaar hameṅ bech le naari
+  Bach jaaeṅge ham qilat o zar paaega zaalim
+  Gar qatl kiya ham ko to pachhtaaega zaalim
 
   12
-  Samjha na wo hargis na mere dhyan may laayi
-  Junjla ke usay tayghe sitam mai ne lagayi
-  Ek waar may saa-id se giri kat ke kalayi
-  Chilla ke lagi dene payambar ki duhaai
-
-  13
-  Hae hae mere aaqa meri imdad ko pahuncho
-  Ay shaah e ghareeban meri faryad ko pahuncho
-  Jab maar chuka usko to masoomon ko khayncha
-  Pakde huwe zulfein unhe laaya labe darya
-
-  14
-  Rokar kaha bachon ne hame qatl na karna
-  Maarega jo hum ko tere kya haath lagega
-  Bekas hai musafir hai aur aawara watan hai
-  Ye kya hai saza kam ke giraftaare mehan hai
-
-  15
-  Kar rahm sitamgaar ghareebi pa hamari
-  Dewega sila iska tujhe khaaleq e baari
-  Le aankh na dikhla nahi ab karne ko zaari
-  Chal kar sar e baazar hame baychle naari
-
-  16
-  Bach jayenge ham qillat o zar payega zaalim
-  Gar khatl kiya hum ko to pachtayega zaalim
-  Ye sunke bada mai junhi khaynche huwe talwaar
-  Pahloo may baradar ke baradar gira ek baar
-
-  17
-  Mai chaati pa ek tifl ki aakhir huwa aswaar
-  Jab halq pa bache ke rakha khanjar e khoon-khaar
-  Ek hashr bapa hogaya khanjar ke chale paar
-  Bhai ne gala rakh diya bhai ke gale par
+  Ye sun ke bara main juṅhi khenche hue talwaar
+  Pahlu mein baraadar ke baraadar gira ik baar
+  Main chhaati pe ik tifl ki aakhir hua aswaar
+  Jab halq pe bachche ke rakha khanjar-e-khuṅkhaar
+  Ik hashr bapa ho gaya khanjar ke chale par
+  Bhaai ne gala rakh diya bhaai ke gale par
 # source_id: nohayonline:667e64e09a1d64e84415
 # source_url: https://www.nohayonline.com/content_marsiya.php?id=14
 # raw_sha256: b03cd7986733548251d6b5b766e4ea859a5c38fe901df69545a499a59b51b33e
 ---
-دربار میں جب کٹ کے یتیموں کے سر آے
-ڈوبے ہوے دو چاند لہو میں نظر آے
-غل پڑ گیا مسلم کہ یہ لختِ جگر آے
-غربت زدہ و بے وطن و بے پدر آے
-
 ۱
-شمشیر ستم چل گیء ان‌ نوحہ گروں پر
+دربار میں جب کٹ کے یتیموں کے سر آئے
+ڈوبے ہوئے دو چاند لہو میں نظر آئے
+غل پڑ گیا مسلم کہ یہ لختِ جگر آئے
+غربت زدہ و بے وطن و بے پدر آئے
+شمشیر ستم چل گئی ان نوحہ گروں پر
 کیا بیکسی و یاس برستی ہے سروں پر
-حاکم سے یہ تب کہنے لگا حارث بد کام
-سر بچوں کے لایا ہوں ملے قلعت و انعام
 
 ۲
+حاکم سے یہ تب کہنے لگا حارث بد کام
+سر بچوں کے لایا ہوں ملے قلعت و انعام
 پہچان لے مسلم کے پسر ہیں یہی گلفام
 یہ وہ ہیں جو زندان سے بھاگے تھے سر شام
 میں ڈھونڈتا پھرتا تھا نہ ہاتھ آتے تھے دونوں
@@ -139,90 +128,80 @@ romanLyrics: |-
 
 ۳
 حاکم نے کہا تو نے کہاں پھر انہیں پایا
-تاریکیء شب میں نظر آتا نہیں سایہ
+تاریکیِ شب میں نظر آتا نہیں سایہ
 وہ جوڑ کے ہاتھوں کو سخن لب پہ یہ لایا
 زوجہ نے میری تھا انہیں حجرے میں چھپایا
+میں کہتا تھا دل میں کہ کہاں جا کے چھپے ہیں
+اس کی نہ خبر تھی میرے گھر آ کے چھپے ہیں
 
 ۴
-میں کہتا تھا دل میں کہ کہاں جاکے چھپے ہیں
-اسکی نہ خبر تھی میرے گھر آکے چھپے ہیں
-از بس کہ تھکا تھا مجھے نیند آ گیء اس دم
+از بس کہ تھکا تھا مجھے نیند آ گئی اس دم
 کیا دیکھتا ہوں عالم رویا میں بصد غم
-
-۵
 اک حجرے میں دو طفل نظر آتے ہیں باہم
 سر پیٹ کے کہتے ہیں وہ با دیدۂ پرنم
 آفت میں پھنسے ہم در زنداں سے نکل کے
-معلوم ہوا پڑ گےء پھندے میں اجل کے
+معلوم ہوا پڑ گئے پھندے میں اجل کے
+
+۵
+چلایا جو وہ ہائے پدر کہہ کے دلافگار
+تھا نیند میں یا آنکھ میری کھل گئی اک بار
+خوش ہو گیا میں طالعہ قافت ہوئے بیدار
+بستر سے اٹھا ہاتھ میں کھینچے ہوئے تلوار
+اک حجرے میں مسلم کے وہ پیارے نظر آئے
+بالائے زمیں عرش کے تارے نظر آئے
 
 ۶
-چلایا جو وہ ہاے پدر کہکے دلافگار
-تھا نیند میں یا آنکھ میری کھل گیء اک بار
-خوش ہو گیا میں طالعہ قافت ہوے بیدار
-بستر سے اٹھا ہاتھ میں کھینچے ہوے تلوار
-
-۷
-اک ہجرے میں مسلم کے وہ پیارے نظر آے
-بالاے زمیں عرش کے تارے نظر آے
 جکڑا جو انہیں میں نے تو کرتے تھے یہ فریاد
 مہمان تیرے گھر میں ہیں ہم بیکس و ناشاد
-
-۸
 بن باپ کے ہیں ہم پہ ترس کھا ستم ایجاد
 لے منتیں کرتے ہیں تیری چھوڑ دے جلاد
-کر رحم کہ معصوم ہے دکھ پاے ہیں ظالم
-ہم چھپنے کو دامن میں تیرے آییں ہے ظالم
+کر رحم کہ معصوم ہیں دکھ پائے ہیں ظالم
+ہم چھپنے کو دامن میں تیرے آئے ہیں ظالم
 
-۹
+۷
 میں نے کہا تم دونوں کے بابا کا ہے کیا نام
-رو کرو کہا کہتے ہیں انہیں مسلم ناکام
-بے جرم و خطا انکے گلے پر چلی سمسام
+رو کر کہا کہتے ہیں انہیں مسلم ناکام
+بے جرم و خطا ان کے گلے پر چلی سمسام
 ہم جب سے چھٹے باپ سے ہم کو نہیں آرام
-
-۱۰
-دہشت سے تیری سینے م دل ہلتے ہیں ظالم
+دہشت سے تیری سینے میں دل ہلتے ہیں ظالم
 اب ڈھیلی رسن کر کے گلے چھلتے ہیں ظالم
-یہ سنتے ہی معصوم پہ غصہ مجھے آیا
-ہجرے سے انہیں کھینچتے دالان میں لایا
 
-۱۱
+۸
+یہ سنتے ہی معصوموں پہ غصہ مجھے آیا
+حجرے سے انہیں کھینچتے دالان میں لایا
 ان دونوں نے جو ظلم نہ دیکھا تھا دکھایا
 مجرم کی طرح باندھ دیا رحم نہ دکھایا
-باہر انہیں لے آیا جو ذولفوں کو پکڑ کر
+باہر انہیں لے آیا جو زلفوں کو پکڑ کر
 استادہ کیا چوب سے رسی میں جکڑ کر
 
-۱۲
-سمجھا نہ وہ ہر گز نہ میرے دھیان میں لای
-جھنجلا کے اسے تیغِ ستم میں نہ لگائی
-اک وار میں ساعد سے گری کٹ کے کلای
+۹
+سمجھا نہ وہ ہر گز نہ میرے دھیان میں لائی
+جھنجلا کے اسے تیغِ ستم میں نے لگائی
+اک وار میں ساعد سے گری کٹ کے کلائی
 چلا کے لگی دینے پیمبر کی دہائی
-
-۱۳
-ہاے ہاے میرے آقا میری امداد کو پہنچو
+ہائے ہائے میرے آقا میری امداد کو پہنچو
 اے شاہ غریباں میری فریاد کو پہنچو
-جب مار چکا اسکو تو معصوموں کو کھینچا
-پکڑے ہوے ذلفیں انہیں لایا لب دریا
 
-۱۴
-روکر کہا بچوں نے ہمیں قتل نہ کرنا
+۱۰
+جب مار چکا اس کو تو معصوموں کو کھینچا
+پکڑے ہوئے زلفیں انہیں لایا لب دریا
+رو کر کہا بچوں نے ہمیں قتل نہ کرنا
 مارے گا جو ہم کو تیرے کیا ہاتھ لگے گا
 بیکس ہے مسافر ہے اور آوارہ وطن ہے
 یہ کیا ہے سزا کم کہ گرفتار محن ہے
 
-۱۵
+۱۱
 کر رحم ستمگار غریبی پہ ہماری
-دیوے گا صلہ اسکا تجھے خالقِ باری
+دیوے گا صلہ اس کا تجھے خالقِ باری
 لے آنکھ نہ دکھلا نہیں اب کرنے کو زاری
 چل کر سر بازار ہمیں بیچ لے ناری
+بچ جائیں گے ہم قلعت و زر پائے گا ظالم
+گر قتل کیا ہم کو تو پچھتائے گا ظالم
 
-۱۶
-بچ جاےنگے ہم قلعت و زر پاے گا ظالم
-گر قتل کیا ہم کو تو پچتاے گا ظالم
-یہ سن کے بڑا میں جونہی کھینچے ہوے تلوار
+۱۲
+یہ سن کے بڑا میں جونہی کھینچے ہوئے تلوار
 پہلو میں برادر کے برادر گرا اک بار
-
-۱۷
 میں چھاتی پہ اک طفل کی آخر ہوا اسوار
 جب حلق پہ بچے کے رکھا خنجر خوں خار
 اک حشر بپا ہو گیا خنجر کے چلے پر
-بھای نے گلا رکھ دیا بھای کے گلے پر
+بھائی نے گلا رکھ دیا بھائی کے گلے پر
