@@ -6,78 +6,80 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Waiz Sultanpuri"
+reciter: "Ali Mohd. Sultanpuri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zindane sitam mein kehti thi
-  Abid se sakina ro ro kar
-  Bhaiya ye sitam kab tak honge
-  Itna to bata do ay bhai
+  Zindan-e-sitam mein kehti thi
+  Abid se Sakina ro ro kar
+  Bhaiya ye sitam kab tak hoṅge
+
+  Itna to bata do ae bhai
   Kya ab na mayassar hoga ghar
-  Bhaiya ye sitam kab tak honge
+  Bhaiya ye sitam kab tak hoṅge
 
   1
   Afsos ki aisi manzil par
-  Taqdeer hamay le aayi hai
+  Taqdir hameṅ le aayi hai
   Ek din mein luta hai saara ghar
-  Ab charon taraf tanhaai hai
-  Kya koi taras na khayega
-  Pardes mein aale ahmad par
+  Ab chaaroṅ taraf tanhaai hai
+  Kya koi taras na khaayega
+  Pardes mein Aal-e-Ahmad par
 
   2
-  Ye kitna bahyanak zindan hai
-  Dil mera bahot ghabrata hai
-  Mai kaampne lagti hoon us dam
-  Jab shimre layeen aa jaata hai
-  Saansein bhi meri ruk jaati hai
-  Us zaalim ki ghudki sun kar
+  Ye kitna bhayaanak zindaaṅ hai
+  Dil mera bahut ghabraata hai
+  Main kaaṅpne lagti huṅ us dam
+  Jab Shimr-e-laiṅ aa jaata hai
+  Saaṅseṅ bhi meri ruk jaati hai
+  Us zaalim ki ghurki sun kar
 
   3
-  Jis waqt baseron ki jaanib
-  Ud ud ke parinde jaate hai
+  Jis waqt baseroṅ ki jaanib
+  Ur ur ke parinde jaate haiṅ
   Us waqt mujhe apne ghar ke
-  Deewar o dar yaad aate hai
-  Mujhse to parinde acche hai
+  Diwaar o dar yaad aate haiṅ
+  Mujh se to parinde achchhe haiṅ
   Wo jab chaahe tab jaaye ghar
 
   4
-  Mai karbobala se qaid talak
+  Main Karb o Bala se qaid talak
   Jab royi ghut ghut kar royi
-  Aur gyara moharram se aba tak
+  Aur gyaarah Muharram se ab tak
   Ek pal ke liye bhi na soyi
-  Neend aayi thi ashoor ke din
-  Bas baba jaan ke seene par
+  Nind aayi thi Aashur ke din
+  Bas baba jaaṅ ke sine par
 
   5
   Har waqt mujhe mere bhai
   Is baat ka rehta hai sadma
-  Cheh maah ka tha mera bhaiya
-  Usko bhi layeeno ne maara
-  Rone bhi nahi dete zaalim
-  Mere shish maahe bhai par
+  Chhe maah ka tha mera bhaiya
+  Us ko bhi lainoṅ ne maara
+  Rone bhi nahiṅ dete zaalim
+  Mere shashmaahe bhai par
 
   6
-  Lagta hai ke ab is zindan mein
-  Mai ghut ghut kar mar jaaungi
-  Kismat mein nahi hai ghar jaana
-  Sughra se bhi mil na paaungi
-  Yaad aati hai mujhko ab har pal
-  Bemaar meri pyari khwahar
+  Lagta hai ke ab is zindaan mein
+  Main ghut ghut kar mar jaauṅgi
+  Qismat mein nahiṅ hai ghar jaana
+  Sughra se bhi mil na paauṅgi
+  Yaad aati hai mujh ko ab har pal
+  Bimaar meri pyaari khwaahar
 
   7
-  Mai char baras ki hoon lekin
-  Har zulm o sitam mujh pe toota
-  Jitna bhi layeeno ne chaaha
-  Bin baap ki bacchi ko maara
-  Kya chain sitamgar payenge
+  Main chaar baras ki huṅ lekin
+  Har zulm o sitam mujh pe tuta
+  Jitna bhi lainoṅ ne chaaha
+  Bin baap ki bachchi ko maara
+  Kya chain sitamgar paayeṅge
   Bhai mere mar jaane par
 
   8
-  Us waqt bahot roye abid
-  Behna se lipat kar ay waiz
+  Us waqt bahut roye Abid
+  Behna se lipat kar ae Waiz
   Ye kehne lagi jab ro ro kar
-  Shabbir ki dukhtar ay waiz
+  Shabbir ki dukhtar ae Waiz
   Jab aap ko lagte hai durre
   Chalta hai mere dil par khanjar
 # source_id: nohayonline:19c20244412aec899412
@@ -87,17 +89,18 @@ romanLyrics: |-
 
 زندان ستم میں کہتی تھی
 عابد سے سکینہ رو رو کر
-بھیا یہ ستم کب تک ہونگے
-اتنا تو بتا دو اے بھای
+بھیا یہ ستم کب تک ہوں گے
+
+اتنا تو بتا دو اے بھائی
 کیا اب نہ میسر ہو گا گھر
-بھیا یہ ستم کب تک ہونگے
+بھیا یہ ستم کب تک ہوں گے
 
 ۱
 افسوس کی ایسی منزل پر
-تقدیر ہمیں لے آی ہے
+تقدیر ہمیں لے آئی ہے
 ایک دن میں لٹا ہے سارا گھر
 اب چاروں طرف تنہائی ہے
-کیا کوئی ترس نہ کھاے گا
+کیا کوئی ترس نہ کھائے گا
 پردیس میں آل احمد پر
 
 ۲
@@ -114,14 +117,14 @@ romanLyrics: |-
 اس وقت مجھے اپنے گھر کے
 دیوار و در یاد آتے ہیں
 مجھ سے تو پرندے اچھے ہیں
-وہ جب چاہے تب جاے گھر
+وہ جب چاہے تب جائے گھر
 
 ۴
 میں کربوبلا سے قید تلک
-جب روی گھٹ گھٹ کر روی
+جب روئی گھٹ گھٹ کر روئی
 اور گیارہ محرم سے اب تک
-ایک پل کے لئے بھی نہ سوی
-نیند آی تھی عاشور کے دن
+ایک پل کے لئے بھی نہ سوئی
+نیند آئی تھی عاشور کے دن
 بس بابا جاں کے سینے پر
 
 ۵
@@ -137,7 +140,7 @@ romanLyrics: |-
 میں گھٹ گھٹ کر مر جاؤں گی
 قسمت میں نہیں ہے گھر جانا
 صغرا سے بھی مل نہ پاؤں گی
-یاد آتی ہے مجھکو اب ہر پل
+یاد آتی ہے مجھ کو اب ہر پل
 بیمار میری پیاری خواہر
 
 ۷
@@ -145,13 +148,13 @@ romanLyrics: |-
 ہر ظلم و ستم مجھ پہ ٹوٹا
 جتنا بھی لعینوں نے چاہا
 بن باپ کی بچی کو مارا
-کیا چین ستمگر پاییں گے
-بھای میرے مر جانے پر
+کیا چین ستمگر پائیں گے
+بھائی میرے مر جانے پر
 
 ۸
-اس وقت بہت روے عابد
-بہنا سے لپٹ کر اے وائض
+اس وقت بہت روئے عابد
+بہنا سے لپٹ کر اے واعظ
 یہ کہنے لگی جب رو رو کر
-شبیر کی دختر اے وائض
+شبیر کی دختر اے واعظ
 جب آپ کو لگتے ہے درے
 چلتا ہے میرے دل پر خنجر
