@@ -1,37 +1,78 @@
 ---
-title: "Gham-e-Shabir Hai Allah Ka Wada Rahe Ga"
-language: "Roman Urdu"
+title: "غمِ شبیر ہے اللہ کا وعدہ رہے گا"
+alternateTitle: "Gham-e-Shabbir Hai Allah Ka Waada Rahe Ga"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu"]
+poet: "Bilal Kazmi"
+reciter: "Syed Wajhi Hasan Zaidi"
+tags: ["noImage"]
 aliases: []
 published: false
+romanLyrics: |-
+  Gham-e-Shabbir hai Allah ka waada rahe ga
+  Hawa chalti rahe gi yeh diya jalta rahe ga
+
+  1
+  Meri basti mein jab tak tazkira Hur ka rahe ga
+  Paye taqdir saazi moajaza hota rahe ga
+
+  2
+  Gham-e-Sheh ke muqaabil fauj fatwoṅ ki na dekho
+  Woh patthar tut jaaeṅ ge yeh aaina rahe ga
+
+  3
+  Lareṅ ge hashr tak baatil se Zainab ke sipaahi
+  Kahiṅ chaadar kahiṅ aaṅsu kahiṅ khutba rahe ga
+
+  4
+  Meri chaadar jo chhino ge to lehja orh luṅ gi
+  Main Zainab huṅ mera har haal mein parda rahe ga
+
+  5
+  Shahaadat lafz hai us lafz ka mafhum yeh hai
+  Jo mar jaaye ga Sarwar par wohi zinda rahe ga
+
+  6
+  Gham-e-Sarwar bachaaye ga mujhe ruswaaiyoṅ se
+  Mera aaṅsu mere kirdaar ka parda rahe ga
+
+  7
+  Bilal-e-Kazmi turbat ho ya maidaan-e-mehshar
+  Meri imdaad ki khaatir mera Maula rahe ga
 # source_id: tajpoints:188fc95f2350491c2a4f
 # source_url: https://tajpoints.com/2018/08/gham-e-shabir-hai-allah-ka-wada-rahe-ga.html
 # raw_sha256: ca90c765404e087d3ebce8cd89889f2955aa28b678b5b0fdd36d334423f75d60
 ---
 
-1
-Gham-e-Shabir Hai Allah Ka Wada Rahe Ga
-Hawa Chalti Rahe Gi Yeh Diya Jalta Rahe Ga
-Meri Basti Mein Jab Tak Tazkira Hur Ka Rahe Ga
-Paye Taqdeer Sazi Moajza Hota Rahe Ga
+غمِ شبیر ہے اللہ کا وعدہ رہے گا
+ہوا چلتی رہے گی یہ دیا جلتا رہے گا
 
-2
-Gham-e-Sheh Ke Muqabil Foaj Fatwoon Ki Na Dekho
-Woh Pathar Toot Jaein Gaye Yeh Aina Rahe Ga
-Larein Gaye Hashar Tak Batil Se Zainab Ke Sipahi
-Kahin Chadar Kahin Aanso Kahin Khutba Rahe Ga
+۱
+میری بستی میں جب تک تذکرہ حر کا رہے گا
+پئے تقدیر سازی معجزہ ہوتا رہے گا
 
-3
-Meri Chadar JO Cheeno Gaye Tu Lehja urh Loon Gi
-Main Zainab Hoon Mera Har Haal Mein Parda Rahe Ga
-Shahadat Lafz Hai Oss Lafz Ka Mafhoom Yeh Hai
-Jo Mar Jaye Ga Sarwar Par Wohi Zinda Rahe Ga
+۲
+غمِ شہ کے مقابل فوج فتووں کی نہ دیکھو
+وہ پتھر ٹوٹ جائیں گے یہ آئینہ رہے گا
 
-4
-Gham-e-Sarwar Bachaye Ga Mujhe Ruswaiyon Se
-Mera Aanso Mere Kirdar Ka Parda Rahe Ga
-:BILAL-E-KAZMI: Turbat Ho Ya Maidan-e-Mehshar
-Meri Imdad Ki Khatir Mera Mula Rahe Ga
+۳
+لڑیں گے حشر تک باطل سے زینب کے سپاہی
+کہیں چادر کہیں آنسو کہیں خطبہ رہے گا
+
+۴
+میری چادر جو چھینو گے تو لہجہ اوڑھ لوں گی
+میں زینب ہوں میرا ہر حال میں پردہ رہے گا
+
+۵
+شہادت لفظ ہے اس لفظ کا مفہوم یہ ہے
+جو مر جائے گا سرور پر وہی زندہ رہے گا
+
+۶
+غمِ سرور بچائے گا مجھے رسوائیوں سے
+میرا آنسو میرے کردار کا پردہ رہے گا
+
+۷
+بلالِ کاظمی تربت ہو یا میدانِ محشر
+میری امداد کی خاطر میرا مولا رہے گا
