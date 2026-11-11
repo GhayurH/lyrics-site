@@ -6,59 +6,60 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kaisa hai qaid khana dam toot'ta hai kis ka
-  Zanjeer dhoondta hai zindan ka andhera
-  Tham tham ke sun raha hai zainul leba ka nauha
-  Behna meri sakina behna meri sakina
+  Kaisa hai qaid khaana dam tutta hai kis ka
+  Zanjir dhundhta hai zindaan ka andhera
+  Tham tham ke sun raha hai Zainul leba ka nauha
+  Behna meri Sakina behna meri Sakina
 
   1
-  Khamosh kyun ho bolo bhai se kyun khafa ho
-  Baba ko phir pukaro utho sakina utho
-  Jaate hai hum madina behna meri sakina
+  Khaamosh kiuṅ ho bolo bhai se kiuṅ khafa ho
+  Baaba ko phir pukaaro utho Sakina utho
+  Jaate haiṅ ham Madina behna meri Sakina
 
   2
-  Zakhmi safar tamache ruqsaar neele neele
-  Wo seliyan wo durre nanhe badan pe tere
-  Zaalim ka taaziyana behna meri sakina
+  Zakhmi safar tamaache rukhsaar nile nile
+  Wo seliyaṅ wo durre nanhe badan pe tere
+  Zaalim ka taaziyaana behna meri Sakina
 
   3
-  Kismat jagane waale gham se bachane waale
-  Tujhko manane waale wo naaz uthane waale
-  Sab sogaye sakina behna meri sakina
+  Qismat jagaane waale gham se bachaane waale
+  Tujh ko manaane waale wo naaz uthaane waale
+  Sab so gaye Sakina behna meri Sakina
 
   4
-  Mushkil bahot badi hai mayyat teri padi hai
-  Ghurbat ki ye ghadi hai maa saamne khadi hai
-  Dafna raha hai bhaiya behna meri sakina
+  Mushkil bahut bari hai mayyat teri pari hai
+  Ghurbat ki ye ghari hai maaṅ saamne khari hai
+  Dafna raha hai bhaiya behna meri Sakina
 
   5
-  Kaise sitam se cheene bibi ke goshware
-  Ab tak hai kitne ghere wo zakhm karbala ke
-  Kaano pe khoon taaza behna meri sakina
+  Kaise sitam se chhine Bibi ke goshwaare
+  Ab tak haiṅ kitne gehre wo zakhm Karbala ke
+  Kaanoṅ pe khun taaza behna meri Sakina
 
   6
-  Hai zakhmi haath mere aur hathkadi mein jakde
-  Laaye kafan kahan se dafnaye tujhko kaise
-  Bhai aseer tanha behna meri sakina
+  Hai zakhmi haath mere aur hathkari mein jakre
+  Laaye kafan kahaaṅ se dafnaaye tujh ko kaise
+  Bhai asir tanha behna meri Sakina
 
   7
-  Wi qaid ki musibat wo tashnagi ki shiddat
-  Wo aakhri wasiyat thandi jagah pe turbat
-  Majboor bhai tera behna meri sakina
+  Wo qaid ki musibat wo tishnagi ki shiddat
+  Wo aakhri wasiyyat thandi jagah pe turbat
+  Majbur bhai tera behna meri Sakina
 
   8
-  Wo aarzoo tumhari wo hasratein watan ki
-  Hai sharmsaar bhai madfan tumhara bibi
-  Ab hai ye qaid khana behna meri sakina
+  Wo aarzu tumhaari wo hasrateṅ watan ki
+  Hai sharmsaar bhai madfan tumhaara Bibi
+  Ab hai ye qaid khaana behna meri Sakina
 
   9
-  Kaise rasheed kehta bibi tumhara nauha
-  Tum par musibaton ka kaisa pahaad toota
-  Bemaar ka tadapna behna meri sakina
+  Kaise Rashid kehta Bibi tumhaara nauha
+  Tum par musibatoṅ ka kaisa pahaar tuta
+  Bimaar ka tarapna behna meri Sakina
 # source_id: nohayonline:1beefbd67813e9ba2d5e
 # source_url: https://www.nohayonline.com/details_content.php?id=3767
 # raw_sha256: 7b2d4b06a50903046d3ec0429c8d93d4d36b12345d1fc602635ce26253ec6736
@@ -71,7 +72,7 @@ romanLyrics: |-
 ۱
 خاموش کیوں ہو بولو بھائی سے کیوں خفا ہو
 بابا کو پھر پکارو اٹھو سکینہ اٹھو
-جاتے ہے ہم مدینہ بہنا میری سکینہ
+جاتے ہیں ہم مدینہ بہنا میری سکینہ
 
 ۲
 زخمی سفر طمانچے رخسار نیلے نیلے
@@ -80,8 +81,8 @@ romanLyrics: |-
 
 ۳
 قسمت جگانے والے غم سے بچانے والے
-تجھکو منانے والے وہ ناز اٹھانے والے
-سب سوگےء سکینہ بہنا میری سکینہ
+تجھ کو منانے والے وہ ناز اٹھانے والے
+سب سو گئے سکینہ بہنا میری سکینہ
 
 ۴
 مشکل بہت بڑی ہے میت تیری پڑی ہے
@@ -89,14 +90,14 @@ romanLyrics: |-
 دفنا رہا ہے بھیا بہنا میری سکینہ
 
 ۵
-کیسے ستم سے چھینے بی بی کے گوشوارے
-اب تک ہے کتنے گہرے وہ زخم کربلا کے
+کیسے ستم سے چھینے بی‌بی کے گوشوارے
+اب تک ہیں کتنے گہرے وہ زخم کربلا کے
 کانوں پہ خون تازہ بہنا میری سکینہ
 
 ۶
 ہے زخمی ہاتھ میرے اور ہتھکڑی میں جکڑے
-لاے کفن کہاں سے دفناے تجھکو کیسے
-بھای اسیر تنہا بہنا میری سکینہ
+لائے کفن کہاں سے دفنائے تجھ کو کیسے
+بھائی اسیر تنہا بہنا میری سکینہ
 
 ۷
 وہ قید کی مصیبت وہ تشنگی کی شدت
@@ -105,10 +106,10 @@ romanLyrics: |-
 
 ۸
 وہ آرزو تمہاری وہ حسرتیں وطن کی
-ہے شرمسار بھائی مدفن تمہارا بی بی
+ہے شرمسار بھائی مدفن تمہارا بی‌بی
 اب ہے یہ قید خانہ بہنا میری سکینہ
 
 ۹
-کیسے رشید کہتا بی بی تمہارا نوحہ
+کیسے رشید کہتا بی‌بی تمہارا نوحہ
 تم پر مصیبتوں کا کیسا پہاڑ ٹوٹا
 بیمار کا تڑپنا بہنا میری سکینہ

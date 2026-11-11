@@ -6,52 +6,53 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Suroor Lakhnavi"
+reciter: "Anj. Grohe Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Behen ne ro ke pukara mujhe sahara do
-  Mai be-dayaar hoon bhaiya mujhe sahara do
+  Behen ne ro ke pukaara mujhe sahaara do
+  Main bediyaar huṅ bhaiya mujhe sahaara do
 
   1
-  Mera khayaal karo mai aseer hoti hoon
-  Mai aaj reh gayi tanha mujhe sahara do
+  Mera khayaal karo main asir hoti huṅ
+  Main aaj reh gayi tanha mujhe sahaara do
 
   2
-  Tumhare baad bahot zulm dhaaye aada ne
-  Mai thak gayi hoon zara sa mujhe sahara do
+  Tumhaare baad bahut zulm dhaaye aadaa ne
+  Main thak gayi huṅ zara sa mujhe sahaara do
 
   3
-  Na sar pe baap ka saaya na maa na bhai hassan
-  Tum hi ho mera sahara mujhe sahara do
+  Na sar pe baap ka saaya na maaṅ na bhai Hasan
+  Tum hi ho mera sahaara mujhe sahaara do
 
   4
-  Samajh mein kuch nahi aata ke kya karun aakhir
-  Tadap rahi hai sakina mujhe sahara do
+  Samajh mein kuchh nahiṅ aata ke kya karuṅ aakhir
+  Tarap rahi hai Sakina mujhe sahaara do
 
   5
-  Tumhe qubool na thay meri aakh mein aansu
-  Bani hoon gard e sarapa mujhe sahara do
+  Tumheṅ qubul na the meri aaṅkh mein aansu
+  Bani huṅ gard-e-saraapa mujhe sahaara do
 
   6
-  Yateem bacche hai raandein hai sar chupaun kahan
-  Bicha hai aag ka darya mujhe sahara do
+  Yatim bachche haiṅ raandeiṅ haiṅ sar chhupaauṅ kahaaṅ
+  Bichha hai aag ka darya mujhe sahaara do
 
   7
-  Tumhare khoon mein mushkil kushayi shaamil hai
-  Behen ki baat hai bhaiya mujhe sahara do
+  Tumhaare khun mein mushkil kushaai shaamil hai
+  Behen ki baat hai bhaiya mujhe sahaara do
 
   8
-  Ye jaante huwe majboor hoon akeli hoon
-  Taras na khayegi dunya mujhe sahara do
+  Ye jaante hue majbur huṅ akeli huṅ
+  Taras na khaayegi duniya mujhe sahaara do
 
   9
-  Ghamon ke bojh se saansein bhi ladkhadane lagi
-  Safar tamaam hai mera mujhe sahara do
+  Ghamoṅ ke bojh se saaṅseṅ bhi larkharaane lagi
+  Safar tamaam hai mera mujhe sahaara do
 
   10
-  Suroor laasha e be-sar tadap gaya ran mein
-  Sada jab aayi ke bhaiya mujhe sahara do
+  Surur laasha-e-besar tarap gaya ran mein
+  Sada jab aayi ke bhaiya mujhe sahaara do
 # source_id: nohayonline:c7934b8375b590197182
 # source_url: https://www.nohayonline.com/details_content.php?id=3702
 # raw_sha256: 68f28e20e4de6a258f7747d9d1d5d541dff1f7a52751d11715a533323345b2e8
@@ -61,14 +62,14 @@ romanLyrics: |-
 
 ۱
 میرا خیال کرو میں اسیر ہوتی ہوں
-میں آج رہ گیء تنہا مجھے سہارا دو
+میں آج رہ گئی تنہا مجھے سہارا دو
 
 ۲
-تمہارے بعد بہت ظلم ڈھاے اعدا نے
-میں تھک گیء ہوں زرا سا مجھے سہارا دو
+تمہارے بعد بہت ظلم ڈھائے اعدا نے
+میں تھک گئی ہوں ذرا سا مجھے سہارا دو
 
 ۳
-نہ سر پہ باپ کا سایہ نہ ماں نہ بھای حسن
+نہ سر پہ باپ کا سایہ نہ ماں نہ بھائی حسن
 تم ہی ہو میرا سہارا مجھے سہارا دو
 
 ۴
@@ -76,7 +77,7 @@ romanLyrics: |-
 تڑپ رہی ہے سکینہ مجھے سہارا دو
 
 ۵
-تمہیں قبول نہ تھے میری آنکھ میں آنسوں
+تمہیں قبول نہ تھے میری آنکھ میں آنسو
 بنی ہوں گرد سراپا مجھے سہارا دو
 
 ۶
@@ -89,12 +90,12 @@ romanLyrics: |-
 
 ۸
 یہ جانتے ہوئے مجبور ہوں اکیلی ہوں
-ترس نہ کھاے گی دنیا مجھے سہارا دو
+ترس نہ کھائے گی دنیا مجھے سہارا دو
 
 ۹
 غموں کے بوجھ سے سانسیں بھی لڑکھڑانے لگی
 سفر تمام ہے میرا مجھے سہارا دو
 
 ۱۰
-سرور لاشہء بے سر تڑپ گیا رن‌ میں
-صدا جب آی کہ بھیا مجھے سہارا دو
+سرور لاشۂ بے سر تڑپ گیا رن میں
+صدا جب آئی کہ بھیا مجھے سہارا دو

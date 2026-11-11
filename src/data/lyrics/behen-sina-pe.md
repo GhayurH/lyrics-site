@@ -6,80 +6,83 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Lahoo lahoo hai wafa zakhm zakhm hai waada
-  Behen sina pe mera sar teher na payega
-  
+  Lahu lahu hai wafa zakhm zakhm hai waada
+  Behen sinaaṅ pe mera sar thehar na paayega
+
   1
-  Mere kate huwe shaane thay teri sar ki rida
-  
+  Mere kate hue shaane the teri sar ki rida
+  Behen sinaaṅ pe mera sar thehar na paayega
+
   2
-  Koi aseer hai naaqe pe koi paidal hai
-  Sina ki nok pe karbobala ka maqtal hai
-  Ab imtehan mera aur kitna lega khuda
-  
+  Koi asir hai naaqe pe koi paidal hai
+  Sinaaṅ ki nok pe Karbobala ka maqtal hai
+  Ab imtihaan mera aur kitna lega Khuda
+
   3
-  Rasool zaade bhala yun aseer hote hai
-  Huroof e aaya e tatheer khoon rote hai
-  Hai baal khole huwe bibiyan rasan basta
-  
+  Rasul zaade bhala yuṅ asir hote haiṅ
+  Huruf-e-aaya-e-tathir khun rote haiṅ
+  Hai baal khole hue Bibiyaaṅ rasan basta
+
   4
-  Sina pe hai mere tashna dahan imam ka sar
-  Kahan batool ka jaaya kahan ghulam ka sar
-  Barabar aaqa ke apne mai chal nahi sakta
-  
+  Sinaaṅ pe hai mere tishna dahan imaam ka sar
+  Kahaaṅ Batul ka jaaya kahaaṅ ghulaam ka sar
+  Baraabar aaqa ke apne main chal nahiṅ sakta
+
   5
-  Rula rahi hai lahoo mujhko khud meri ghairat
-  Dikhaun apni sakina ko kis tarha surat
-  Na mere haath salamat rahe na mashkeeza
-  
+  Rula rahi hai lahu mujh ko khud meri ghairat
+  Dikhaauṅ apni Sakina ko kis tarah surat
+  Na mere haath salaamat rahe na mashkiza
+
   6
-  Mai rakh na paaya behan teri hasraton ka bharam
-  Zaeef maa ne mujhe di thi apne sar ki qasam
-  Hai meri aankh mein ummul baneen ka chehra
-  
+  Main rakh na paaya behen teri hasratoṅ ka bharam
+  Zaif maaṅ ne mujhe di thi apne sar ki qasam
+  Hai meri aaṅkh mein Ummul Banin ka chehra
+
   7
-  Gaya mai nehr pe kis shaan se alam le kar
-  Nazar mein jafar e tayyar ka hasham le kar
-  Badal diya magar ek do pahar ne sab naksha
-  
+  Gaya main nehr pe kis shaan se alam le kar
+  Nazar mein Jaafar-e-Tayyaar ka hasham le kar
+  Badal diya magar ek do pahar ne sab naqsha
+
   8
-  Diya sitam ne ye kaisa khiraaj kufe mein
-  Wo ek rida ki sawali hai aaj kufe mein
-  Mili hai saare zamane ko jis ke ghar se rida
-  
+  Diya sitam ne ye kaisa khiraaj Kufe mein
+  Wo ek rida ki sawaali hai aaj Kufe mein
+  Mili hai saare zamaane ko jis ke ghar se rida
+
   9
-  Samajh sakega yahan kaun mere matam ko
-  Mai kya bataun bhala zaid ibne arqam ko
+  Samajh sakega yahaaṅ kaun mere maatam ko
+  Main kya bataauṅ bhala Zaid Ibn-e-Arqam ko
   Yehi hai marsiya mera yehi mera nauha
-  
+
   10
-  Karenge hashr talak bain aamir o nayyar
-  Na pa sakegne kabhi chain aamir o nayyar
-  Bhula na payega dil us bureeda sar ki sada
+  Kareṅge hashr talak bain Aamir o Nayyar
+  Na pa sakeṅge kabhi chain Aamir o Nayyar
+  Bhula na paayega dil us burida sar ki sada
 # source_id: nohayonline:f749328901291931a8e7
 # source_url: https://www.nohayonline.com/details_content.php?id=3395
 # raw_sha256: 7f0c7d9a15e8c54b26580bafef5360799311539d5b20fe82e5c5c1c2b5cad29f
 ---
 
 لہو لہو ہے وفا زخم زخم ہے وعدہ
-بہن سناں پہ میرا سر ٹہر نہ پائے گا
+بہن سناں پہ میرا سر ٹھہر نہ پائے گا
 
 ۱
 میرے کٹے ہوئے شانے تھے تیری سر کی ردا
+بہن سناں پہ میرا سر ٹھہر نہ پائے گا
 
 ۲
-کوی اسیر ہے ناقے پہ کوئی پیدل ہے
+کوئی اسیر ہے ناقے پہ کوئی پیدل ہے
 سناں کی نوک پہ کربوبلا کا مقتل ہے
 اب امتحاں میرا کتنا لے گا خدا
 
 ۳
-رسول زادہ بھلا یوں اسیر ہوتے ہے
-حروفہء آیہء تطہیر خون روتے ہیں
-ہے بال کھولے ہوئے بی بیاں رسن بستہ
+رسول زادے بھلا یوں اسیر ہوتے ہیں
+حروفِ آیۂ تطہیر خون روتے ہیں
+ہے بال کھولے ہوئے بی‌بیاں رسن بستہ
 
 ۴
 سناں پہ ہے میرے تشنہ دہن امام کا سر
@@ -87,7 +90,7 @@ romanLyrics: |-
 برابر آقا کے اپنے میں چل نہیں سکتا
 
 ۵
-رلا رہی ہے لہو مجھکو خود میری غیرت
+رلا رہی ہے لہو مجھ کو خود میری غیرت
 دکھاؤں اپنی سکینہ کو کس طرح صورت
 نہ میرے ہاتھ سلامت رہے نہ مشکیزہ
 
@@ -98,7 +101,7 @@ romanLyrics: |-
 
 ۷
 گیا میں نہر پہ کس شان سے علم لے کر
-نظر میں جعفر تیار کا ہشم لے کر
+نظر میں جعفر طیار کا ہشم لے کر
 بدل دیا مگر ایک دو پہر نے سب نقشہ
 
 ۸
