@@ -6,109 +6,130 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Irfan Haider"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aaye jo qabre fatema pe sayyed e anaam
-  Ruksaar rakh ke qabr pe rokar kiya kalaam
-  Sehra mein dil ke tukdon ki basti basaunga
-  Amma madine laut ke mai aa na paunga
-  Kaampa falak larazne lagi qabre sayyeda
-  Aayi janabe fatema ki qabr se sada
+  Aaye jo qabr-e-Faatima pe Sayyid-e-inaam
+  Rukhsaar rakh ke qabr pe ro kar kiya kalaam
+  Sahra meiṅ dil ke tukroṅ ki basti basaauṅ ga
+  Amma Madina laut ke main aa na paauṅ ga
+  Kaaṅpa falak larazne lagi qabr-e-Sayyida
+  Aayi Janaab-e-Faatima ki qabr se sada
   Jao mere laal jao mere laal
   Jao mere laal
   Tum pe har qadam rahe dua meri
-  Aur saaya-e-khuda-e-zuljalaal
+  Aur saaya Khuda-e-Zuljalaal
 
   1
-  Ja rahe ho tum jo kehke deene haq bachaunga
-  Amma aap ki qasam mai khoon mein nahaunga
-  Ab ho jo bhi haal tum ho payemaal
+  Jaa rahe ho tum jo keh ke din-e-haq bachaauṅ ga
+  Amma aap ki qasam main khun meiṅ nahaauṅ ga
+  Ab ho jo bhi haal tum ho paaye maal
+  Tum pe har qadam rahe dua meri
+  Aur saaya Khuda-e-Zuljalaal
 
   2
-  Bachpane mein jo kiya tha waada baba jaan se
+  Bachpan meiṅ jo kiya tha waada baaba jaan se
   Waqt ab wo aa gaya kafan tu sar se baandh le
-  Dekh mere laal deen ka hai sawaal
-  Kamiyabiyan hai tere saath hi
+  Dekh mere laal din ka hai sawaal
+  Kaamiyaabiyaaṅ haiṅ tere saath hi
+  Aur saaya Khuda-e-Zuljalaal
 
   3
-  Chahiye khuda ke deen ko agar amaan
-  Do rida e zainab-e-hazeen ka sayeban
-  Jao ab shiqaab ibne buturab
-  Hai tumhare saath baba jaan bhi
+  Chaahiye Khuda ke din ko agar amaaṅ
+  Do ridaa-e-Zainab-e-haziṅ ka saaibaaṅ
+  Jao ab shiqaab ibn-e-Bu Turaab
+  Haiṅ tumhaare saath baaba jaan bhi
+  Aur saaya Khuda-e-Zuljalaal
 
   4
-  De raha hai deen e kibriya tumhe sada
-  Al-madad hussain al-madad shah-e-huda
-  Be watan hussain mere dil ke chain
-  Humsafar tumhare saath maa hui
+  De raha hai din-e-Kibriya tumheiṅ sada
+  Almadad Husain almadad shaah-e-huda
+  Bewatan Husain mere dil ke chain
+  Hamsafar tumhaare saath maaṅ hui
+  Aur saaya Khuda-e-Zuljalaal
 
   5
-  Shaane bawafa ke honge jis ghadi qalam
-  Royenge alam ke saaye mein tere haram
-  Royegi wafa aur karbala
-  Royegi faraat aur tashnagi
+  Shaane baawafa ke hoṅ ge jis ghari qalam
+  Royeṅ ge alam ke saaye meiṅ tere haram
+  Roye gi wafa aur Karbala
+  Roye gi Furaat aur tashnagi
+  Aur saaya Khuda-e-Zuljalaal
 
   6
-  Akbar-e-jawan jigar pe khayega sina
-  Maa kahegi mera chand khogaya kahan
-  Uspe nauha-khwan honge meri jaan
-  Mai bhi aur hassan bhi aur rasool bhi
+  Akbar-e-jawaaṅ jigar pe khaaye ga sinaaṅ
+  Maaṅ kahe gi mera chaand kho gaya kahaaṅ
+  Us pe nauha khwaan hoṅ ge meri jaaṅ
+  Main bhi aur Hasan bhi aur Rasul bhi
+  Aur saaya Khuda-e-Zuljalaal
 
   7
-  Ye sada mazaar e sayyeda se mazhar abidi
-  Sunke rodiye hussain mustafa ki aal bhi
+  Ye sada mazaar-e-Sayyida se Mazhar Abidi
+  Sun ke ro diye Husain Mustafa ki aal bhi
+  Jao mere laal jao mere laal
+  Tum pe har qadam rahe dua meri
+  Aur saaya Khuda-e-Zuljalaal
 # source_id: nohayonline:1799742bcfef7c38fae7
 # source_url: https://www.nohayonline.com/details_content.php?id=448
 # raw_sha256: 987c2be269dd66e77923e3925306ace562d58504d8f0d331bcda5a75a53b5d69
 ---
 آئے جو قبرِ فاطمہ پہ سیدِ انعام
 رُخسار رکھ کے قبر پہ رو کر کیا کلام
-صحرا میں دل کے ٹکڑوں کی بستی بسائوں گا
-اماں مدینہ لوٹ کے میں آ نہ پائوں گا
+صحرا میں دل کے ٹکڑوں کی بستی بساؤں گا
+اماں مدینہ لوٹ کے میں آ نہ پاؤں گا
 کانپا فلک لرزنے لگی قبرِ سیدہ
 آئی جنابِ فاطمہ کی قبر سے صدا
-جائو میرے لال جائو میرے لال
-جائو میرے لال
+جاؤ میرے لال جاؤ میرے لال
+جاؤ میرے لال
 تم پہ ہر قدم رہے دعا میری
 اور سایہ خدائے ذوالجلال
 
 ۱
-جا رہے ہو تم جو کہہ کے دینِ حق بچائوں گا
-اماں آپ کی قسم میں خون میں نہائوں گا
+جا رہے ہو تم جو کہہ کے دینِ حق بچاؤں گا
+اماں آپ کی قسم میں خون میں نہاؤں گا
 اب ہو جو بھی حال تم ہو پائے مال
+تم پہ ہر قدم رہے دعا میری
+اور سایہ خدائے ذوالجلال
 
 ۲
 بچپن میں جو کیا تھا وعدہ بابا جان سے
 وقت اب وہ آ گیا کفن تُو سر سے باندھ لے
-دیکھ میرے لال دیں کا ہے سوال
+دیکھ میرے لال دین کا ہے سوال
 کامیابیاں ہیں تیرے ساتھ ہی
+اور سایہ خدائے ذوالجلال
 
 ۳
-چاہیئے خدا کے دیں کو اگر اماں
+چاہیے خدا کے دین کو اگر اماں
 دو ردائے زینبِ ہزیں کا سائیباں
-جائو اب شقاب ابنِ بو تُراب
+جاؤ اب شقاب ابنِ بو تُراب
 ہیں تمہارے ساتھ بابا جان بھی
+اور سایہ خدائے ذوالجلال
 
 ۴
-دے رہا ہے دینِ کبریائ تمہیں صدا
-المدد حسین المدد شاہِ ھُدیٰ
+دے رہا ہے دینِ کبریا تمہیں صدا
+المدد حسین المدد شاہِ ہدیٰ
 بے وطن حسین میرے دل کے چین
 ہمسفر تمہارے ساتھ ماں ہوئی
+اور سایہ خدائے ذوالجلال
 
 ۵
 شانے باوفا کے ہوں گے جس گھڑی قلم
 روئیں گے علم کے سائے میں تیرے حرم
 روئے گی وفا اور کربلا
 روئے گی فرات اور تشنگی
+اور سایہ خدائے ذوالجلال
 
 ۶
 اکبرِ جواں جگر پہ کھائے گا سِناں
 ماں کہے گی میرا چاند کھو گیا کہاں
 اُس پہ نوحہ خوان ہوں گے میری جاں
 میں بھی اور حسن بھی اور رسول بھی
+اور سایہ خدائے ذوالجلال
 
 ۷
 یہ صدا مزارِ سیدہ سے مظہر عابدی
 سُن کے رو دیئے حسین مصطفیٰ کی آل بھی
+جاؤ میرے لال جاؤ میرے لال
+تم پہ ہر قدم رہے دعا میری
+اور سایہ خدائے ذوالجلال
