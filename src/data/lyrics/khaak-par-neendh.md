@@ -1,57 +1,58 @@
 ---
 title: "خاک پر نیند نہیں آتی بابا"
-alternateTitle: "Khaak Par Neendh"
+alternateTitle: "Khaak Par Nind"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Safdar Abbas"
 tags: ["noImage"]
-aliases: []
+aliases: ["Khaak Par Neendh"]
 published: false
 romanLyrics: |-
-  Khaak par neendh nahi aati baba
-  Mai zameen par hoo bahot garm hawa hai
-  
+  Khaak par nind nahiṅ aati Baba
+  Maiṅ zamiṅ par huṅ bahut garm hawa hai
+
   1
-  Aap ka seena to teero se bhara hai baba
-  Aapke seene pe teero ki rida hai baba
-  Chain ek pal bhi nahi paati baba
-  
+  Aap ka sina to tiroṅ se bhara hai Baba
+  Aap ke sine pe tiroṅ ki rida hai Baba
+  Chain ek pal bhi nahiṅ paati Baba
+
   2
-  Kya kahoo pyaas se hai kitni nakahat baba
-  Meri taqdeer bani haye musibat baba
-  Kis tarha qalb ko behlaati baba
-  
+  Kya kahuṅ pyaas se hai kitni naqaahat Baba
+  Meri taqdir bani haaye musibat Baba
+  Kis tarah qalb ko behlaati Baba
+
   3
-  Dekhun maidan may bikhre hue be-sar laashe
+  Dekhuṅ maidaaṅ mein bikhre hue be sar laashe
   Aur us par ye andhera ye sitam ke narghe
-  Warna hargiz na mai ghabrati baba
-  
+  Warna hargiz na maiṅ ghabraati Baba
+
   4
-  Ye to acha hi hua saath nahi thi sughra
-  Jo sitam maine sahey seh nahi paati dukhiya
-  Wo to is dard se mar jaati baba
-  
+  Ye to achchha hi hua saath nahiṅ thi Sughra
+  Jo sitam maiṅ ne sahe sah nahiṅ paati dukhiya
+  Wo to is dard se mar jaati Baba
+
   5
-  Aap ke seene pe aaram se sojaati thi
-  Aap ki baahon may hi neend mujhe aati thi
-  Ab to har saans hai tadpaati baba
-  
+  Aap ke sine pe aaraam se so jaati thi
+  Aap ki baahoṅ mein hi nind mujhe aati thi
+  Ab to har saaṅs hai tarpaati Baba
+
   6
-  Zindagi meri to ashkon se ibarat tehri
-  Garm reti pe kahan soye dukhon ki maari
-  Neend aise may kahan aati baba
-  
+  Zindagi meri to ashkoṅ se ibaarat thahri
+  Garm reti pe kahaaṅ soye dukhoṅ ki maari
+  Nind aisi mein kahaaṅ aati Baba
+
   7
-  Baba ye garm hawaein hai sitam ka sehra
-  Maut ka charon taraf sakht laga hai pehra
-  Kaash ye maut hi aajati baba
-  
+  Baba ye garm hawaaeṅ haiṅ sitam ka sehra
+  Maut ka chaaroṅ taraf sakht laga hai pehra
+  Kaash ye maut hi aa jaati Baba
+
   8
-  Ye sada safdar o mazhar jo sakina ki suni
-  Laasha e shaah se awaaz ye aayi beti
-  Ye na kar bain ke mar jaati baba
+  Ye sada Safdar o Mazhar jo Sakina ki suni
+  Laasha-e-Shaah se aawaaz ye aayi beti
+  Ye na kar bain ke mar jaati Baba
 # source_id: nohayonline:cca55f45dd4cd30bd6a6
 # source_url: https://www.nohayonline.com/details_content.php?id=888
 # raw_sha256: 0b8f24ccf6cb72fddc5d4b0ed4d40b9d630f26166f26b7a419e5c02cfb4cf635
@@ -67,7 +68,7 @@ romanLyrics: |-
 
 ۲
 کیا کہوں پیاس سے ہے کتنی نقاہت بابا
-میری تقدیر بنی ہاے مصیبت بابا
+میری تقدیر بنی ہائے مصیبت بابا
 کس طرح قلب کو بہلاتی بابا
 
 ۳
@@ -81,21 +82,21 @@ romanLyrics: |-
 وہ تو اس درد سے مر جاتی بابا
 
 ۵
-آپ کے سینے پہ آرام سے سوجاتی تھی
+آپ کے سینے پہ آرام سے سو جاتی تھی
 آپ کی باہوں میں ہی نیند مجھے آتی تھی
 اب تو ہر سانس ہے تڑپاتی بابا
 
 ۶
-زندگی میری تو آشکوں سے عبارت ٹہری
-گرم ریتی پہ کہاں سوے دکھوں کی ماری
+زندگی میری تو اشکوں سے عبارت ٹھہری
+گرم ریتی پہ کہاں سوئے دکھوں کی ماری
 نیند ایسی میں کہاں آتی بابا
 
 ۷
-بابا یہ گرم ہوایں ہیں ستم کا صحرا
+بابا یہ گرم ہوائیں ہیں ستم کا صحرا
 موت کا چاروں طرف سخت لگا ہے پہرہ
-کاش یہ موت ہی آجاتی بابا
+کاش یہ موت ہی آ جاتی بابا
 
 ۸
 یہ صدا صفدر و مظہر جو سکینہ کی سنی
-لاشہء شاہ سے آواز یہ آی بیٹی
+لاشۂ شاہ سے آواز یہ آئی بیٹی
 یہ نہ کر بین کے مر جاتی بابا
