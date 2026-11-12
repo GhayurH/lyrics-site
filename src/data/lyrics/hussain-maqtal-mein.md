@@ -1,73 +1,78 @@
 ---
 title: "حسین مقتل میں چھپ کھڑے ہے"
-alternateTitle: "Hussain Maqtal Mein"
+alternateTitle: "Husain Maqtal Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Raza"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hussain maqtal mein chup khade hai
-  Lahoo lahoo hai libaas saara mere khudaya
-  
+  Husain maqtal mein chup khare hai
+
+  Lahu lahu hai libaas saara mere Khudaaya
+  Husain maqtal mein chup khare hai
+
   1
-  Ajeeb manzar hai karbala ka
-  Zameen pa bikhre pade hai laashe
-  Yahan hai sadaat pe musibat
-  Wahan layeen peet'te hai taashe
-  Udasiyan padh rahi hai nauha mere khudaya
-  
+  Ajib manzar hai Karbala ka
+  Zamiṅ pe bikhre pare hai laashe
+  Yahaaṅ hai saadaat pe musibat
+  Wahaaṅ laiṅ pitte hai taashe
+  Udaasiyaaṅ parh rahi hai nauha mere Khudaaya
+
   2
-  Ghareeb e zehra ke rukh pe asghar
-  Ka khoone na haq laga hua hai
-  Abaa ka daaman jawan akbar
-  Ke khoon se ghiltan ho chuka hai
-  Nazar jami hai suye sakina mere khudaya
-  
+  Gharib-e-Zehra ke rukh pe Asghar
+  Ka khun-e-naahaq laga hua hai
+  Aba ka daaman jawaaṅ Akbar
+  Ke khuṅ se ghaltaaṅ ho chuka hai
+  Nazar jami hai su-e-Sakina mere Khudaaya
+
   3
-  Hussain mal mal ke apni aankhein
-  Zameen par dekhe jaa rahe hai
-  Hai ek ghatdi jo khoon mein tar hai
-  Usi pe aansu baha rahe hai
-  Ye ghatri qasim ka hai sarapa mere khudaya
-  
+  Husain mal mal ke apni aaṅkheṅ
+  Zamin par dekhe jaa rahe hai
+  Hai ek ghatri jo khun mein tar hai
+  Usi pe aaṅsu baha rahe haiṅ
+  Ye ghatri Qasim ka hai saraapa mere Khudaaya
+
   4
-  Behen ke bacche jawan bhai
-  Jawan bhatija guzar chuka hai
-  Na ab hai ansaar koi baakhi
-  Habeeb bhi ab to mar chuka hai
-  Ke ghar ka ghar lut gaya hai saara mere khudaya
-  
+  Behen ke bachche jawaan bhai
+  Jawaaṅ bhatija guzar chuka hai
+  Na ab hai ansaar koi baaqi
+  Habib bhi ab to mar chuka hai
+  Ke ghar ka ghar lut gaya hai saara mere Khudaaya
+
   5
-  Hai murtajiz saath saath sheh ke
-  Imam ke gird ghoomta hai
-  Kabhi pakadta hai sheh ka daaman
-  Kabhi wo qadmon ko choomta hai
-  Hai sheh ka ghoda bhi mehwe girya mere khudaya
-  
+  Hai Murtajiz saath saath Shah ke
+  Imam ke gird ghumta hai
+  Kabhi pakarta hai Shah ka daaman
+  Kabhi wo qadmoṅ ko chumta hai
+  Hai Shah ka ghora bhi mahw-e-girya mere Khudaaya
+
   6
-  Hussain mud mud ke dekhte hai
-  Khayaal zainab ka aa raha hai
-  Keaane waali hai shaam e ghurbat
-  Jabhi to dil dooba jaa raha hai
-  Bachega kaise haram ka parda mere khudaya
-  
+  Husain mur mur ke dekhte hai
+  Khayaal Zainab ka aa raha hai
+  Ke aane waali hai shaam-e-ghurbat
+  Jabhi to dil duba jaa raha hai
+  Bachega kaise haram ka parda mere Khudaaya
+
   7
-  Hamein hai yasir raza ye dhaaras
-  Ke muntaqim hai imam e mehdi
-  Yazeediyon se khuda ke lenge
-  Hussain ka inteqam mehdi
-  Wo soch kar kar rahe hai girya mere khudaya
+  Hameṅ hai Yasir Raza ye dhaaras
+  Ke muntaqim hai Imam-e-Mehdi
+  Yazidiyoṅ se Khuda ke leṅge
+  Husain ka inteqaam Mehdi
+  Wo soch kar kar rahe haiṅ girya mere Khudaaya
 # source_id: nohayonline:7ab0b8fc7bdf3d6bb5a4
 # source_url: https://www.nohayonline.com/details_content.php?id=2753
 # raw_sha256: b17a1113c18a66a101503de470af33cdc81cd2537e54671fab27ec3985f0897d
 ---
 
 حسین مقتل میں چھپ کھڑے ہے
+
 لہو لہو ہے لباس سارا میرے خدایا
+حسین مقتل میں چھپ کھڑے ہے
 
 ۱
 عجیب منظر ہے کربلا کا
@@ -78,7 +83,7 @@ romanLyrics: |-
 
 ۲
 غریب زہرا کے رخ پہ اصغر
-کا خون نہ حق لگا ہوا ہے
+کا خون ناحق لگا ہوا ہے
 عبا کا دامن جواں اکبر
 کہ خوں سے غلطاں ہو چکا ہے
 نظر جمی ہے سوے سکینہ میرے خدایا
@@ -87,11 +92,11 @@ romanLyrics: |-
 حسین مل مل کے اپنی آنکھیں
 زمین پر دیکھے جا رہے ہے
 ہر ایک گھٹڑی جو خوں میں تر ہے
-اسی پہ آنسوں بہا رہے ہیں
+اسی پہ آنسو بہا رہے ہیں
 یہ گھٹڑی قاسم کا ہے سراپا میرے خدایا
 
 ۴
-بہن کے بچے جوان بھای
+بہن کے بچے جوان بھائی
 جواں بھتیجا گزر چکا ہے
 نہ اب ہے انصار کوئی باقی
 حبیب بھی اب تو مر چکا ہے
@@ -114,6 +119,6 @@ romanLyrics: |-
 ۷
 ہمیں ہے یاسر رضا یہ ڈھارس
 کہ مطمئن ہے امام مہدی
-یزیدیوں سے خدا کے لینگے
+یزیدیوں سے خدا کے لیں گے
 حسین کا انتقام مہدی
 وہ سوچ کر کر رہے ہیں گریہ میرے خدایا
