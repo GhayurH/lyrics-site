@@ -1,62 +1,63 @@
 ---
 title: "چلی حسین کو کھو کر حسین کی بہنیں"
-alternateTitle: "Hussain Ki Behne"
+alternateTitle: "Husain Ki Behneṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Kumail Jafri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Chali hussain ko kho kar hussain ki behne
-  Saron pe khaak saja kar hussain ki behne
+  Chali Husain ko kho kar Husain ki behneṅ
+  Saroṅ pe khaak saja kar Husain ki behneṅ
 
   1
-  lipat ke bhai ki turbat se gham manaati hai
-  Dayaar e shaam ka sab maajra sunaati hai
-  Tadap tadap ke lehad par hussain ki behne
+  Lipat ke bhaai ki turbat se gham manaati hai
+  Diyaar-e-Shaam ka sab maajra sunaati hai
+  Tarap tarap ke lahad par Husain ki behneṅ
 
   2
-  jigar fighaar hai sehmi hai gham ki maari hai
-  Musibaton ki sataayi sitam ki maari hai
-  Ghamon se ho gayi laaghar hussain ki behne
+  Jigar figaar hai sahmi hai gham ki maari hai
+  Musibatoṅ ki sataayi sitam ki maari hai
+  Ghamoṅ se ho gayi laaghar Husain ki behneṅ
 
   3
-  amariyon pe bhi ho kar sawaar dekhti hai
-  Lehad ko bhai ki sab baar baar dekhti hai
-  Qadam qadam pe palat kar hussain ki behne
+  Amaariyoṅ pe bhi ho kar sawaar dekhti hai
+  Lahad ko bhaai ki sab baar baar dekhti hai
+  Qadam qadam pe palat kar Husain ki behneṅ
 
   4
-  abhi to choot ke aayi hai qaid khane se
-  Hussain bhai ko dekha nahi zamane se
-  Tadap ke roye na kyun kar hussain ki behne
+  Abhi to chhut ke aayi hai qaid khaane se
+  Husain bhaai ko dekha nahiṅ zamaane se
+  Tarap ke roye na kiuṅ kar Husain ki behneṅ
 
   5
-  bana ke zaad e safar noor e ain ka chehra
-  Tasavuraat may bhaiya hussain ka chehra
-  Safar may jaati hai le kar hussain ki behne
+  Bana ke zaad-e-safar nur-e-ain ka chehra
+  Tasavvuraat mein bhaiya Husain ka chehra
+  Safar mein jaati hai le kar Husain ki behneṅ
 
   6
-  Kabhi to sar kabhi rukhsaar peet leti hai
-  Har ek azeez ko ro ro ke yaad karti hai
-  Lehad pe khud ko gira kar hussain ki behne
+  Kabhi to sar kabhi rukhsaar pit leti hai
+  Har ek aziz ko ro ro ke yaad karti hai
+  Lahad pe khud ko gira kar Husain ki behneṅ
 
   7
-  Bani asad ke khabeele may aah o zaari hai
-  Har ek zaban pe be-saakhta ye jaari hai
-  Madine jaati hai lut kar hussain ki behne
+  Bani Asad ke qabile mein aah o zaari hai
+  Har ek zabaan pe besaakhta ye jaari hai
+  Madine jaati hai lut kar Husain ki behneṅ
 
   8
   Sitam jo dhaaye hai ummat ne us musibat ki
-  Karengi jaa ke shikayat zaroor ummat ki
-  Pahunch ke qabre nabi par hussain ki behne
+  Kareṅ gi jaa ke shikaayat zarur ummat ki
+  Pahuṅch ke qabr-e-Nabi par Husain ki behneṅ
 
   9
-  Kumail haye wo kitna tadap rahi hongi
-  Lehad ko chod ke aamir wo jab chali hongi
-  Uda ke khaak ki chadar hussain ki behne
+  Kumail haaye wo kitna tarap rahi hoṅ gi
+  Lahad ko chhor ke Aamir wo jab chali hoṅ gi
+  Ura ke khaak ki chaadar Husain ki behneṅ
 # source_id: nohayonline:e7b0164c148df578397d
 # source_url: https://www.nohayonline.com/details_content.php?id=1709
 # raw_sha256: 0d5bf8e50ef9728d00296b2be05d769f8332fda16a4924008b2db5fd570c6706
@@ -65,27 +66,27 @@ romanLyrics: |-
 سروں پہ خاک سجا کر حسین کی بہنیں
 
 ۱
-لپٹ کے بھای کی تربت سے غم مناتی ہے
-دیار شام کا سب ماجرا سناتی ہے
+لپٹ کے بھائی کی تربت سے غم مناتی ہے
+دیارِ شام کا سب ماجرا سناتی ہے
 تڑپ تڑپ کے لحد پر حسین کی بہنیں
 
 ۲
 جگر فگار ہے سہمی ہے غم کی ماری ہے
-مصیبتوں کی ستای ستم کی ماری ہے
-غموں سے ہو گیء لاگر حسین کی بہنیں
+مصیبتوں کی ستائی ستم کی ماری ہے
+غموں سے ہو گئی لاغر حسین کی بہنیں
 
 ۳
 عماریوں پہ بھی ہو کر سوار دیکھتی ہے
-لحد کو بھای کی سب بار بار دیکھتی ہے
+لحد کو بھائی کی سب بار بار دیکھتی ہے
 قدم قدم پہ پلٹ کر حسین کی بہنیں
 
 ۴
-ابھی تو چھوٹ کے آی ہے قید خانے سے
-حسین بھای کو دیکھا نہیں زمانے سے
-تڑپ کے روے نہ کیوں کر حسین کی بہنیں
+ابھی تو چھوٹ کے آئی ہے قید خانے سے
+حسین بھائی کو دیکھا نہیں زمانے سے
+تڑپ کے روئے نہ کیوں کر حسین کی بہنیں
 
 ۵
-بنا کے ذادے سفر نور عین کا چہرہ
+بنا کے زادِ سفر نورِ عین کا چہرہ
 تصورات میں بھیا حسین کا چہرہ
 سفر میں جاتی ہے لے کر حسین کی بہنیں
 
@@ -100,11 +101,11 @@ romanLyrics: |-
 مدینے جاتی ہے لٹ کر حسین کی بہنیں
 
 ۸
-ستم جو ڈھاے ہے امت نے اس مصیبت کی
+ستم جو ڈھائے ہے امت نے اس مصیبت کی
 کریں گی جا کے شکایت ضرور امت کی
-پہنچ کے قبر نبی پر حسین کی بہنیں
+پہنچ کے قبرِ نبی پر حسین کی بہنیں
 
 ۹
-کمیل ہاے وہ کتنا تڑپ رہی ہونگی
-لحد کو چھوڑ کے عامر وہ جب چلی ہونگی
+کمیل ہائے وہ کتنا تڑپ رہی ہوں گی
+لحد کو چھوڑ کے عامر وہ جب چلی ہوں گی
 اڑا کے خاک کی چادر حسین کی بہنیں
