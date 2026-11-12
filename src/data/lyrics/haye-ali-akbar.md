@@ -6,57 +6,60 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Aashiq Irani"
+reciter: "Nazeer Irani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Baap se maange ijazat ran ki jab kadiyal jawan
-  Thaam kar dil shaah bole pehle do akbar azan
-  Rodiye kauno makan jab kaha wo naujawan
-  Allahu akbar allhu akbar
-  Khoon mein doobi ali akbar ki jab aayi sada
-  Ladkhadate suye maqtal chal diye shaahe huda
-  Haye ali akbar haye ali akbar
+  Baap se maange ijaazat ran ki jab karyal jawaaṅ
+  Thaam kar dil Shaah bole pehle do Akbar azaaṅ
+  Ro diye kaun o makaaṅ jab kaha wo naujawaaṅ
+  Allahu Akbar Allahu Akbar
+
+  Khun mein dubi Ali Akbar ki jab aayi sada
+  Larkharaate su-e-maqtal chal diye Shaah-e-Huda
+  Haye Ali Akbar haye Ali Akbar
 
   1
-  Pahonch kar dekha ali akbar ka sheh ne haale zaar
-  Seene mein barchi gadi hai dard se hai be-qaraar
+  Pahunch kar dekha Ali Akbar ka Shah ne haal-e-zaar
+  Sine mein barchhi gari hai dard se hai beqaraar
 
   2
-  Seena e akbar se barchi ko nikale jab hussain
-  Sheh ke qaime se utha wa akbara ka shor o shain
+  Sina-e-Akbar se barchhi ko nikaale jab Husain
+  Shah ke khaime se utha wa Akbar ka shor o shain
 
   3
-  Gul hua pal bhar mein laila ki umeedon ka charaagh
-  Rehgaya ek maa ke dil mein hasrat o armaan ka daagh
+  Gul hua pal bhar mein Laila ki ummidoṅ ka charaagh
+  Reh gaya ik maa ke dil mein hasrat o armaaṅ ka daagh
 
   4
-  Sheh ki nazron mein hui tareek aashiq kayenaat
-  Sar jhuka kar ro rahe hai hoor o hilma ek saath
+  Shah ki nazroṅ mein hui taarik Aashiq kaainaat
+  Sar jhuka kar ro rahe haiṅ hur o ghilmaaṅ ek saath
 # source_id: nohayonline:806f8264185daa13049c
 # source_url: https://www.nohayonline.com/details_content.php?id=861
 # raw_sha256: c28f323258a6eea75e2bf249ee7e13df0987c8ca143324c9f704316a585c1ce6
 ---
 باپ سے مانگے اجازت رن کی جب کڑیل جواں
 تھام کر دل شاہ بولے پہلے دو اکبر اذاں
-رو دیےء کون و مکاں جب کہا وہ نوجواں
+رو دیئے کون و مکاں جب کہا وہ نوجواں
 اللہ اکبر اللّٰہ اکبر
-خون میں ڈوبی علی اکبر کی جب آی صدا
-لڑکھڑاتے سوے مقتل چل دیےء شاہ ہدا
+
+خون میں ڈوبی علی اکبر کی جب آئی صدا
+لڑکھڑاتے سوئے مقتل چل دیئے شاہِ ہدا
 ہاے علی اکبر ہاے علی اکبر
 
 ۱
-پہنچ کر دیکھا علی اکبر کا شہ نے حال زار
+پہنچ کر دیکھا علی اکبر کا شہ نے حالِ زار
 سینے میں برچی گڑی ہے درد سے ہے بیقرار
 
 ۲
 سینۂ اکبر سے برچی کو نکالے جب حسین
-شہ کے خیمے سے اٹھا وا اکبر کا شورو شین
+شہ کے خیمے سے اٹھا وا اکبر کا شور و شین
 
 ۳
 گل ہوا پل بھر میں لیلیٰ کی امیدوں کا چراغ
 رہ گیا اک ماں کے دل میں حسرت و ارماں کا داغ
 
 ۴
-شہ کی نظروں میں ہوئی تاریخ عاشق کاینات
+شہ کی نظروں میں ہوئی تاریک عاشق کائنات
 سر جھکا کر رو رہے ہیں حور و غلماں ایک ساتھ

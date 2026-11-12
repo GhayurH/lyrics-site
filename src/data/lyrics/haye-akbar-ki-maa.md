@@ -1,64 +1,69 @@
 ---
-title: "ڈال دو کوی زخموں پہ چادر"
+title: "ڈال دو کوئی زخموں پہ چادر"
 alternateTitle: "Haye Akbar Ki Maa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Waiz Sultanpuri"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Daal do koi zakhmon pe chadar
-  Haye akbar ki maa aa rahi hai
-  Seena akbar ka rakho chupa kar
+  Daal do koi zakhmoṅ pe chaadar
+  Haye Akbar ki maa aa rahi hai
+
+  Sina Akbar ka rakho chhupa kar
+  Haye Akbar ki maa aa rahi hai
 
   1
-  Bibiyon mil ke halqa bana lo
-  Maa jawan laal ki hai sambhalo
+  Bibiyoṅ mil ke halqa bana lo
+  Maa jawaaṅ laal ki hai sambhaalo
   Mar na jaaye wo laashe pe aa kar
-  
+
   2
-  Dekh legi agar umme laila
+  Dekh le gi agar Umm-e-Laila
   Apne bacche ka zakhmi kaleja
-  Saans bhi le na payegi maadar
-  
+  Saans bhi le na paaye gi maadar
+
   3
-  Mannatein maan kar jisko paala
-  Uske seene mein zaalim ka bhaala
-  Kaise dekhegi maadar ye manzar
-  
+  Mannateṅ maan kar jis ko paala
+  Us ke sine mein zaalim ka bhaala
+  Kaise dekhe gi maadar ye manzar
+
   4
-  Jisko dulha banane ke din thay
-  Jiski shadi rachane ke din thay
-  Usko dekhegi maa khoon mein tar
-  
+  Jis ko dulha banaane ke din the
+  Jis ko shaadi rachaane ke din the
+  Us ko dekhe maa khuṅ mein tar
+
   5
   Koi armaan dil ka na nikla
-  Lut gayi umme laila ki dunya
-  Bain karne ko laashe jawan par
-  
+  Lut gayi Umm-e-Laila ki duniya
+  Bain karne ko laashe jawaaṅ par
+
   6
-  Rakh ke qaime mein akbar ka laasha
-  Sar jhuka kar bahot roye maula
-  Jab kaha bibi fizza ne ro kar
-  
+  Rakh ke khaime mein Akbar ka laasha
+  Sar jhuka kar bahut roye Maula
+  Jab kaha Bibi Fizza ne ro kar
+
   7
-  Bain waiz ye qaime mein goonja
-  Dekh le apne yusuf ka laasha
-  Khaak udaati hui peet'ti sar
+  Bain Waiz ye khaime mein gunja
+  Dekh le apne Yusuf ka laasha
+  Khaak uraati hui pitti sar
 # source_id: nohayonline:5b6f314bb05a67af7dcd
 # source_url: https://www.nohayonline.com/details_content.php?id=3210
 # raw_sha256: e287b10b1d01fc1d91aac61a37b993bb563087b0ff7bd9bf1eee1ed74f91aaa8
 ---
 
-ڈال دو کوی زخموں پہ چادر
+ڈال دو کوئی زخموں پہ چادر
 ہاے اکبر کی ماں آ رہی ہے
+
 سینہ اکبر کا رکھو چھپا کر
+ہاے اکبر کی ماں آ رہی ہے
 
 ۱
-بی بیوں مل کے حلقہ بنا لو
+بی‌بیوں مل کے حلقہ بنا لو
 ماں جواں لال کی ہے سنبھالو
 مر نہ جائے وہ لاشے پہ آ کر
 
@@ -78,16 +83,16 @@ romanLyrics: |-
 اس کو دیکھے ماں خوں میں تر
 
 ۵
-کوی ارمان دل کا نہ نکلا
-لٹ گیء ام‌ لیلیٰ کی دنیا
+کوئی ارمان دل کا نہ نکلا
+لٹ گئی ام لیلیٰ کی دنیا
 بین کرنے کو لاشے جواں پر
 
 ۶
 رکھ کے خیمے میں اکبر کا لاشہ
-سر جھکا کر بہت روے مولا
-جب کہا بی بی فضہ نے رو کر
+سر جھکا کر بہت روئے مولا
+جب کہا بی‌بی فضہ نے رو کر
 
 ۷
-بین وایض یہ خیمے میں گونجا
+بین واعظ یہ خیمے میں گونجا
 دیکھ لے اپنے یوسف کا لاشہ
 خاک اڑاتی ہوئی پیٹتی سر
