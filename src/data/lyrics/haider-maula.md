@@ -5,259 +5,279 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haider maula haider maula
-  
+  Haider Maula Haider Maula
+  Ali Maula Haider Maula
+  Haider Maula
+
+  Haidarim qalandaram mastam
+  Banda-e-Murtaza Ali hastam
+  Peshwa-e-tamaam rindaanam
+  Ke sag-e-ku-e-sher-e-Yazdaanam
+
+  Mast-e-wila-e-Haidarim
+  Dam hama dam ya Ali
+  Do jahaaṅ zah dilbaram
+  Dam hama dam ya Ali
+
+  Haider Haider ya Maula
+  Haider Haider ya Maula
+
+  Jab haq se karoge pyaar
+  To kehna parta hai
+  Dil ishq meiṅ ho sarshaar
+  To kehna parta hai
+
+  Nurullah Waliullah Asadullah
+  Ainullah Aayatullah al-uzma jaanam
+
+  Haider Haider ya Maula
+  Haider Maula Haider Maula
+
   1
-  Ali maula haider maula
-  
+  Duba jo Ali ke jalwoṅ meiṅ
+  Ik ajab nazaara dekha hai
+  Hubb daar Ali ke baithe haiṅ
+  Har lab pe Ali ka naara hai
+  Miqdaad Abuzar jhumte haiṅ
+  Salman qasida parhta hai
+  Sab jaam wila ke pite haiṅ
+  Aur saaqi-e-Kausar Maula hai
+  Ho aisa sakhi darbaar
+  To kehna parta hai
+  Dil ishq meiṅ ho sarshaar
+  To kehna parta hai
+  Haider Haider ya Maula
+  Haider Haider ya Maula
+  Jab haq se karoge pyaar
+  To kehna parta hai
+  Dil ishq meiṅ ho sarshaar
+  To kehna parta hai
+  Nurullah Waliullah Asadullah
+  Ainullah Aayatullah al-uzma jaanam
+  Haider Haider ya Maula
+  Haider Haider ya Maula
+  Haider Maula Haider Maula
+
   2
-  Haidarium qalandram mastam
-  Banda e murtaza ali hastam
-  Peshwa e tamam rindanam
-  Ke sage koo e sher e yazdanam
-  Mast e wila e haideram
-  Dam hama dam ya ali
-  Do jahan zay dil bharam
-  Dam hama dam ya ali
-  Haider haider ya maula
-  Haider haider ya maula
-  Jab haq se karoge pyar
-  To kehna padta hai
-  Dil ishq mein ho sarshaar
-  To kehna padta hai
-  Noorullah waliullah asadullah
-  Ainullah ayatullahil uzma janam
-  Haider haider ya maula
-  
+  Ye saare nazaare ishq ke haiṅ
+  Majlis maatam sab ishq-e-Ali
+  Ye nauha khwaaṅ ye shaal-e-aza
+  Haathoṅ meiṅ alam sab ishq-e-Ali
+  Sawaar ye Shaah-e-Karbobala
+  Ye jaah o hasham sab ishq-e-Ali
+  Hamraah namaaz ke farsh-e-aza
+  Mazlum ka gham sab ishq-e-Ali
+  Ho lashkar-e-gham tayyaar
+  To kehna parta hai
+  Dil ishq meiṅ ho sarshaar
+  To kehna parta hai
+  Haider Haider ya Maula
+  Haider Haider ya Maula
+  Jab haq se karoge pyaar
+  To kehna parta hai
+  Dil ishq meiṅ ho sarshaar
+  To kehna parta hai
+  Nurullah Waliullah Asadullah
+  Ainullah Aayatullah al-uzma jaanam
+  Haider Haider ya Maula
+  Haider Haider ya Maula
+  Haider Maula Haider Maula
+
+  Mast-e-wila-e-Haidarim
+  Dam hama dam ya Ali
+  Do jahaaṅ zah dilbaram
+  Dam hama dam ya Ali
+  Haider Haider ya Maula
+  Haider Haider ya Maula
+  Haider Maula Haider Maula
+
   3
-  Dooba jo ali ke jalwon mein
-  Ek ajab nazara dekha hai
-  Hubdaar ali ke baithe hai
-  Har lab pe ali ka naara hai
-  Miqdad abuzar jhoomte hai
-  Salman qaside padta hai
-  Sab jaam wila ke peete hai
-  Aur saaqi e kausar maula hai
-  Ho aisa sakhi darbar
-  To kehna padta hai
-  Dil ishq mein ho sarshaar
-  To kehna padta hai
-  Haider haider ya maula
-  Haider haider ya maula
-  Jab haq se karoge pyar
-  To kehna padta hai
-  Dil ishq mein ho sarshaar
-  To kehna padta hai
-  Noorullah waliullah asadullah
-  Ainullah ayatullahil uzma janam
-  Haider haider ya maula
-  Haider haider ya maula
-  
-  4
-  Ye saare nazaare ishq ke hai
-  Majlis matam sab ishq e ali
-  Ye nauhakhwan ye shaal e aza
-  Haathon mein alam sab ishq e ali
-  Zawwar ye shaah e karbobala
-  Ye jaah o hasham sab ishq e ali
-  Hamraah namaz ke farshe aza
-  Mazloom ka gham sab ishq e ali
-  Ho laskar e gham tayyaar
-  To kehna padta hai
-  Dil ishq mein ho sarshaar
-  To kehna padta hai
-  Haider haider ya maula
-  Haider haider ya maula
-  Jab haq se karoge pyar
-  To kehna padta hai
-  Dil ishq mein ho sarshaar
-  To kehna padta hai
-  Noorullah waliullah asadullah
-  Ainullah ayatullahil uzma janam
-  Haider haider ya maula
-  Haider haider ya maula
-  
-  5
-  Mast e wila e haideram
-  Dam hama dam ya ali
-  Do jahan zay dil bharam
-  Dam hama dam ya ali
-  Haider haider ya maula
-  Haider haider ya maula
-  
-  6
-  Na ched malangan e haider
-  Inhe inke haal pe rehne de
-  Inhe dar pe ali ke jeene de
-  Inhe maula maula karne de
-  Har soo hai maula jalwagar
-  Inka deedar to karne de
-  Maahaul hai saara noorani
-  Is noor ko aur nikharne de
+  Na chher malangaan-e-Haider
+  Inheiṅ in ke haal pe rehne de
+  Inheiṅ dar pe Ali ke jine de
+  Inheiṅ Maula Maula karne de
+  Har su haiṅ Maula jalwagar
+  In ka didaar to karne de
+  Maahaul hai saara nuraani
+  Is nur ko aur nikharne de
   Jab aisi ho sarkaar
-  To kehna padta hai
-  Dil ishq mein ho sarshaar
-  To kehna padta hai
-  Haider haider ya maula
-  Haider haider ya maula
-  Noorullah waliullah asadullah
-  Ainullah ayatullahil uzma janam
-  Haider haider ya maula
-  Mast e wila e haideram
-  Dam hama dam ya ali
-  Do jahan zay dil bharam
-  Dam hama dam ya ali
-  Mera tan man dhan mera zouqe sukhan
-  Mera jan jawani ya haider
-  Mere dil mein sada jag mag jag mag
-  Mere rab ki nishani ya haider
-  Mere dam mein hai dam dam goonj rahi
-  Awaaz e qurani ya haider
-  Haan mere badan mein bol rahi
-  Mere khoon ki rawani ya haider
-  Ho itna haseen kirdaar
-  To kehna padta hai
-  Dil ishq mein ho sarshaar
-  To kehna padta hai
-  Haider haider ya maula
-  Haider haider ya maula
-  Jab haq se karoge pyar
-  To kehna padta hai
-  Dil ishq mein ho sarshaar
-  To kehna padta hai
-  Sardar mere aaqa mere
-  Ay hadi o rehbar ya maula
-  Ay shams e wilayat mehr e wafa
-  Ay saaqi e kausar ya maula
-  Meri saj dhaj haar singhaar ye dil
-  Mere rooh ka zewar ya maula
-  Meri deed nazaara noor e nazar
-  Manzar pas e manzar ya maula
-  Mera khaab o khayaal o wird wazeefa
-  Soch ka mehwar ya maula
-  Hai wird e zaban maula maula
-  Meri rooh ka langar ya maula
-  
-  7
-  Roohullah uznullah baabullah
-  Saifullah ayatullah wajhullah
-  Ahmed ka baradar haider maula
-  Imran ka dilbar haider maula
-  Zehra ka shohar haider maula
-  Allah ka lashkar haider maula
-  Kaabe ka naya dar haider maula
-  Nabiyon ka yawar haider maula
-  Maula e qambar haider maula
-  Salman ka rahbar haider maula
-  Aqa e abuzar haider maula
-  Kahe maalik e ashtar haider maula
-  Hum tere sanagar haider maula
-  Hum tere naukar haider maula
-  Kahe saat samandar haider maula
-  Kahe laal qalandar haider maula
-  Dam mast qalandar haider maula
-  Dam mast qalandar haider maula
-  Dam mast qalandar haider maula
-  Zindagi di hai to jeene ka hunar bhi dede
-  Paon bakhshe hai to toufeeq e safar bhi dede
-  Jis pe chalte rahe salman o abuzar qambar
-  Mere maula mujhe wo raah guzar bhi dede
+  To kehna parta hai
+  Dil ishq meiṅ ho sarshaar
+  To kehna parta hai
+  Haider Haider ya Maula
+  Haider Haider ya Maula
+  Nurullah Waliullah Asadullah
+  Ainullah Aayatullah al-uzma jaanam
+  Haider Haider ya Maula
+
+  Mast-e-wila-e-Haidarim
+  Dam hama dam ya Ali
+  Do jahaaṅ zah dilbaram
+  Dam hama dam ya Ali
+
+  4
+  Mera tan man dhan mera zauq-e-sukhan
+  Mera jaan jawaani ya Haider
+  Mere dil meiṅ sada jagmag jagmag
+  Mere Rab ki nishaani ya Haider
+  Mere dam hai dam dam gunj rahi
+  Aawaaz-e-Quraani ya Haider
+  Haaṅ mere badan meiṅ bol rahi
+  Mere khuṅ ki rawaani ya Haider
+  Ho itna hasiṅ kirdaar
+  To kehna parta hai
+  Dil ishq meiṅ ho sarshaar
+  To kehna parta hai
+  Haider Haider ya Maula
+  Haider Haider ya Maula
+  Jab haq se karoge pyaar
+  To kehna parta hai
+  Dil ishq meiṅ ho sarshaar
+  To kehna parta hai
+
+  5
+  Sardaar mere aaqa mere
+  Ae haadi o rehbar ya Maula
+  Ae shams-e-wilaayat ahl-e-wafa
+  Ae saaqi-e-Kausar ya Maula
+  Meri saj dhaj har singaar ye dil
+  Meri ruh ka zewar ya Maula
+  Meri did nazaara nur-e-nazar
+  Manzar pas-e-manzar ya Maula
+  Mera khwaab o khayaal o wird wazifa
+  Soch ka mehwar ya Maula
+  Hai wird-e-zabaaṅ Maula Maula
+  Meri ruh ka langar ya Maula
+  Haider Maula Haider Maula
+
+  Ruhullah Aznullah Baabullah
+  Safiullah Aayatullah Wajhullah
+
+  6
+  Ahmed ka baraadar Haider Maula
+  Imran ka dilbar Haider Maula
+  Zehra ka shauhar Haider Maula
+  Allah ka lashkar Haider Maula
+  Kaabe ka naya dar Haider Maula
+  Nabiyoṅ ka yaawar Haider Maula
+  Maula-e-Qambar Haider Maula
+  Salman ka rehbar Haider Maula
+  Aaqa-e-Abuzar Haider Maula
+  Kahe Maalik Ashtar Haider Maula
+  Ham tere sanaagar Haider Maula
+  Kahe tere naukar Haider Maula
+  Kahe saat samandar Haider Maula
+  Kahe Laal Qalandar Haider Maula
+  Dam mast Qalandar Haider Maula
+  Dam mast Qalandar Haider Maula
+  Dam mast Qalandar Haider Maula
+
+  Zindagi di hai to jine ka hunar bhi de de
+  Paaoṅ bakhshe haiṅ to taufiq-e-safar bhi de de
+  Jis pe chalte rahe Salman o Abuzar Qambar
+  Mere Maula mujhe wo raah guzar bhi de de
 # source_id: nohayonline:7f75c8a0c90b4e83c235
 # source_url: https://www.nohayonline.com/details_content.php?id=394
 # raw_sha256: 5e3320322a04e30a8636ba2d86db71805529b5d2631ce9095a8af2bcf68f1ee8
 ---
-
 حیدر مولا حیدر مولا
-
-۱
 علی مولا حیدر مولا
+حیدر مولا
 
-۲
 حیدریم قلندرم مستم
-بندہء مرتظی علی ہستم
-پیشواے تمام رندانم
-کے سگے کوے یزدانم
-مست والاے حیدریم
+بندۂ مرتضیٰ علی ہستم
+پیشوائے تمام رندانم
+کے سگِ کوئے یزدانم
+
+مستِ ولائے حیدریم
 دم ہما دم یا علی
 دو جہاں زہ دلبرم
 دم ہما دم یا علی
+
 حیدر حیدر یا مولا
 حیدر حیدر یا مولا
-جب حق سے کروگے پیار
+
+جب حق سے کرو گے پیار
 تو کہنا پڑتا ہے
 دل عشق میں ہو سرشار
 تو کہنا پڑتا ہے
-نوراللہ ولی اللہ اسد اللہ
-عین اللہ آیت اللہ العظمی جانم
-حیدر حیدر یا مولا
 
-۳
+نور اللہ ولی اللہ اسد اللہ
+عین اللہ آیت اللہ العظمیٰ جانم
+
+حیدر حیدر یا مولا
+حیدر مولا حیدر مولا
+
+۱
 ڈوبا جو علی کے جلوؤں میں
 اک عجب نظارہ دیکھا ہے
 حب دار علی کے بیٹھے ہیں
 ہر لب پہ علی کا نعرہ ہے
-مقداد ابوزر جھومتے ہیں
+مقداد ابوذر جھومتے ہیں
 سلمان قصیدہ پڑھتا ہے
 سب جام ولا کے پیتے ہیں
-اور ساقیء کوثر مولا ہے
-ہو ایسا سقی دربار
+اور ساقیِ کوثر مولا ہے
+ہو ایسا سخی دربار
 تو کہنا پڑتا ہے
 دل عشق میں ہو سرشار
 تو کہنا پڑتا ہے
 حیدر حیدر یا مولا
 حیدر حیدر یا مولا
-جب حق سے کروگے پیار
+جب حق سے کرو گے پیار
 تو کہنا پڑتا ہے
 دل عشق میں ہو سرشار
 تو کہنا پڑتا ہے
-نوراللہ ولی اللہ اسد اللہ
-عین اللہ آیت اللہ العظمی جانم
+نور اللہ ولی اللہ اسد اللہ
+عین اللہ آیت اللہ العظمیٰ جانم
 حیدر حیدر یا مولا
 حیدر حیدر یا مولا
+حیدر مولا حیدر مولا
 
-۴
+۲
 یہ سارے نظارے عشق کے ہیں
-مجلس ماتم سب عشق علی
-یہ نوحہ خواں یہ شالے عزا
-ہاتھوں میں الم سب عشق علی
-سوار یہ شاہ کربوبلا
-یہ جاہ و ہشم سب عشق علی
-ہمراہ نماز کے فرش عزا
-مظلوم کا غم سب عشق علی
-ہو لشکر غم تیار
+مجلس ماتم سب عشقِ علی
+یہ نوحہ خواں یہ شالِ عزا
+ہاتھوں میں علم سب عشقِ علی
+سوار یہ شاہِ کربوبلا
+یہ جاہ و حشم سب عشقِ علی
+ہمراہ نماز کے فرشِ عزا
+مظلوم کا غم سب عشقِ علی
+ہو لشکرِ غم تیار
 تو کہنا پڑتا ہے
 دل عشق میں ہو سرشار
 تو کہنا پڑتا ہے
 حیدر حیدر یا مولا
 حیدر حیدر یا مولا
-جب حق سے کروگے پیار
+جب حق سے کرو گے پیار
 تو کہنا پڑتا ہے
 دل عشق میں ہو سرشار
 تو کہنا پڑتا ہے
-نوراللہ ولی اللہ اسد اللہ
-عین اللہ آیت اللہ العظمی جانم
+نور اللہ ولی اللہ اسد اللہ
+عین اللہ آیت اللہ العظمیٰ جانم
 حیدر حیدر یا مولا
 حیدر حیدر یا مولا
+حیدر مولا حیدر مولا
 
-۵
-مست والاے حیدریم
+مستِ ولائے حیدریم
 دم ہما دم یا علی
 دو جہاں زہ دلبرم
 دم ہما دم یا علی
 حیدر حیدر یا مولا
 حیدر حیدر یا مولا
+حیدر مولا حیدر مولا
 
-۶
-نہ چھیڑ ملنگانے حیدر
+۳
+نہ چھیڑ ملنگانِ حیدر
 انہیں ان کے حال پہ رہنے دے
 انہیں در پہ علی کے جینے دے
-انہیں مولا مولا کرنےدے
-ہر سوں ہیں مولا جلوہ گر
-انکا دیدار تو کرنے دے
+انہیں مولا مولا کرنے دے
+ہر سو ہیں مولا جلوہ گر
+ان کا دیدار تو کرنے دے
 ماحول ہے سارا نورانی
 اس نور کو اور نکھرنے دے
 جب ایسی ہو سرکار
@@ -266,56 +286,63 @@ romanLyrics: |-
 تو کہنا پڑتا ہے
 حیدر حیدر یا مولا
 حیدر حیدر یا مولا
-نوراللہ ولی اللہ اسد اللہ
-عین اللہ آیت اللہ العظمی جانم
+نور اللہ ولی اللہ اسد اللہ
+عین اللہ آیت اللہ العظمیٰ جانم
 حیدر حیدر یا مولا
-مست والاے حیدریم
+
+مستِ ولائے حیدریم
 دم ہما دم یا علی
 دو جہاں زہ دلبرم
 دم ہما دم یا علی
-میرا تن من دھن میرا زوق سخن
+
+۴
+میرا تن من دھن میرا ذوقِ سخن
 میرا جان جوانی یا حیدر
 میرے دل میں سدا جگمگ جگمگ
 میرے رب کی نشانی یا حیدر
 میرے دم ہے دم دم گونج رہی
-آواز قرآنی یا حیدر
+آوازِ قرآنی یا حیدر
 ہاں میرے بدن میں بول رہی
 میرے خوں کی روانی یا حیدر
 ہو اتنا حسیں کردار
 تو کہنا پڑتا ہے
-دل عشق میں ہو سرشار تو
-کہنا پڑتا ہے
+دل عشق میں ہو سرشار
+تو کہنا پڑتا ہے
 حیدر حیدر یا مولا
 حیدر حیدر یا مولا
-جب حق سے کروگے پیار
+جب حق سے کرو گے پیار
 تو کہنا پڑتا ہے
 دل عشق میں ہو سرشار
 تو کہنا پڑتا ہے
+
+۵
 سردار میرے آقا میرے
 اے ہادی و رہبر یا مولا
-اے شمس ولایت اہل وفا
+اے شمسِ ولایت اہلِ وفا
 اے ساقیِ کوثر یا مولا
 میری سج دھج ہر سنگار یہ دل
 میری روح کا زیور یا مولا
-میری دید نظارہ نور نظر
-منظر پس منظر یا مولا
+میری دید نظارہ نورِ نظر
+منظر پسِ منظر یا مولا
 میرا خواب و خیال و ورد وظیفہ
 سوچ کا محور یا مولا
-ہے ورد زباں مولا مولا
+ہے وردِ زباں مولا مولا
 میری روح کا لنگر یا مولا
+حیدر مولا حیدر مولا
 
-۷
 روح اللہ ازن اللہ باب اللہ
-صفی اللہ آیت اللہ وجہہ اللہ
+صفی اللہ آیت اللہ وجہ اللہ
+
+۶
 احمد کا برادر حیدر مولا
 عمران کا دلبر حیدر مولا
 زہرا کا شوہر حیدر مولا
 اللہ کا لشکر حیدر مولا
 کعبہ کا نیا در حیدر مولا
 نبیوں کا یاور حیدر مولا
-مولاے قمبر حیدر مولا
+مولائے قمبر حیدر مولا
 سلمان کا رہبر حیدر مولا
-آقاے ابوزر حیدر مولا
+آقائے ابوذر حیدر مولا
 کہے مالک اشتر حیدر مولا
 ہم تیرے ثناگر حیدر مولا
 کہے تیرے نوکر حیدر مولا
@@ -324,7 +351,8 @@ romanLyrics: |-
 دم مست قلندر حیدر مولا
 دم مست قلندر حیدر مولا
 دم مست قلندر حیدر مولا
-زندگی دی ہے تو جینے کا ہنر بھی دیدے
-پاؤں بخشیں ہیں تو توفیق سفر بھی دیدے
-جس پہ چلتے رہے سلمان و ابوزر قمبر
-میرے مولا مجھے وہ راہ گزر بھی دیدے
+
+زندگی دی ہے تو جینے کا ہنر بھی دے دے
+پاؤں بخشے ہیں تو توفیقِ سفر بھی دے دے
+جس پہ چلتے رہے سلمان و ابوذر قمبر
+میرے مولا مجھے وہ راہ گزر بھی دے دے
