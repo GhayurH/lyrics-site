@@ -1,44 +1,45 @@
 ---
 title: "زہرا کا جگر پارہ حیدر کا دلارا"
-alternateTitle: "Haye Hassan Maula"
+alternateTitle: "Haye Hasan Maula"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
-aliases: []
+aliases: ["Haye Hassan Maula"]
 published: false
 romanLyrics: |-
-  Zehra ka jigar paara hyder ka dulaara
-  Haye hassan maula
-  Nikla hai tera ghar se do baar janaza
-  Haye hasan maula haye hasan maula
+  Zehra ka jigar paara Haidar ka dulaara
+  Haye Hasan Maula
+  Nikla hai tera ghar se do baar janaaza
+  Haye Hasan Maula haye Hasan Maula
 
   1
-  Jodha ne jigar tukde kar daala tumhara
-  Hyder ki adawat ka liya tumse hai badla
-  Is zulm se karbal ka aaghaaz hua tha
+  Jaada ne jigar tukre kar daala tumhaara
+  Haidar ki adaawat ka liya tum se hai badla
+  Is zulm se Karbal ka aaghaaz hua tha
 
   2
-  Shabbir pe aur tujhpe ek jaisa sitam tha
-  Yan teer janaze par wahan teeron pe laasha
-  Do baar hua tukde zehra ka kaleja
+  Shabbir pe aur tujh pe ek jaisa sitam tha
+  Yaaṅ tir janaaze par wahaaṅ tiroṅ pe laasha
+  Do baar hua tukre Zehra ka kaleja
 
   3
-  Teeron se bhara laasha ghar laut ke aaya
-  Pehchaan nahi paayi zainab tera laasha
-  Dil thaam ke zainab ne har teer nikala
+  Tiroṅ se bhara laasha ghar laut ke aaya
+  Pehchaan nahiṅ paayi Zainab tera laasha
+  Dil thaam ke Zainab ne har tir nikaala
 
   4
-  Tukde tha jigar tera jis tarha se maula
-  Qasim ka badan tukde usi tarha hua tha
-  Pooche koi ummat se kya jurm tha tera
+  Tukre tha jigar tera jis tarah se Maula
+  Qasim ka badan tukre usi tarah hua tha
+  Puchhe koi ummat se kya jurm tha tera
 
   5
   Chauda sau baras beete ye zakhm hai taaza
-  Farhan ho ya mazhar sab karte hai nauha
-  Ta hashr tere gham mein royegi ye dunya
+  Farhan ho ya Mazhar sab karte haiṅ nauha
+  Taa hashr tere gham meiṅ royegi ye duniya
 # source_id: nohayonline:6f94c33d7d7d41951092
 # source_url: https://www.nohayonline.com/details_content.php?id=1090
 # raw_sha256: cc92c1867389cb651e5040ba0918d5696a213471c9fa7543f3dc0472a974d90a

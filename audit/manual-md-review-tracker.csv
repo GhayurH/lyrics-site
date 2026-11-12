@@ -1810,11 +1810,11 @@ src/data/lyrics/haye-gareebul-watan.md,standalone_lyrics,imported,nohayonline,pe
 src/data/lyrics/haye-gharibul-watan.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,first_sweep,,"Need audio/print: s2 Urdu ""دیں"" vs Roman ""din""; s5 ""بے وفا"" vs ""bawafa""; s10 name ""ایجاز"" vs poet Aijaz (اعجاز)."
 src/data/lyrics/haye-ghazi-abbas.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s6 Urdu ""ہر سوں"" vs Roman source ""har soo""; confirm nasalization before changing the source reading."
 src/data/lyrics/haye-ghurbate-raza.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,first_sweep,,"Need audio/print: opening Urdu ""گریہ"" vs Roman ""giryan""; s6 ""بپا"" vs ""برپا""."
-src/data/lyrics/haye-hassan-maula.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/haye-hassan-maula.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,first_sweep,,
 src/data/lyrics/haye-haye-ali-akbar.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
-src/data/lyrics/haye-haye-qasim.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/haye-haye-qasim.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: preamble ""اک جا"" vs Roman ""ek jaan""; s1 second ""اس"" vs ""us"", and Punjabi ""تیری بھین غریب نو نیء بھلنا"" spelling/pronunciation; s2 ""اس خون میں"" vs ""us khoon pe""; s6 ""ساتھ"" vs ""سات"" محرم."
 src/data/lyrics/haye-haye-zainab-haye-haye-shaam.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
-src/data/lyrics/haye-hussain-ibne-ali.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/haye-hussain-ibne-ali.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: refrain ""حسینا ابنِ علی"" vs Roman ""hussain ibne ali""; opening and s6 ""صدا"" vs ""سدا""; s3 ""یہی عزا"" vs ""ye aza""; s6 ""بیزار جفا"" vs ""bazaar e jafa""."
 src/data/lyrics/haye-hussain-pyase.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/haye-hussain-wavaila.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/haye-hydere-karrar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
