@@ -6,53 +6,54 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mohib Fazli"
+reciter: "Ali Yazdan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Dashte pur khaar may fizza ne kaha ye ro kar
-  Haye abbas nahi aaj abbas nahi
-  Sar pe aulaad e payambar ke nahi hai chadar
+  Dasht-e-purkhaar mein Fizza ne kaha ye ro kar
+  Haye Abbas nahiṅ aaj Abbas nahiṅ
+  Sar pe aulaad-e-Payambar ke nahiṅ hai chaadar
 
   1
-  Pyaas masoom sakina ki bujhado abbas
-  Khaafila jaata hai maqtal se dua de abbas
-  Jalte qaimon may haram ki ye sada thi lab par
+  Pyaas maasum Sakina ki bujha do Abbas
+  Qaafila jaata hai maqtal se dua de Abbas
+  Jalte khaimoṅ mein haram ki ye sada thi lab par
 
   2
-  Jhidkiyan shimr ki sun kar wo kaha karti hai
-  Mere ammu hai kahan bas ye buka karti hai
-  Sehmi bachi se bhala kaun kahe ye jaa kar
+  Jhirkiyaṅ Shimr ki sun kar wo kaha karti hai
+  Mere ammu haiṅ kahaaṅ bas ye buka karti hai
+  Sehmi bachchi se bhala kaun kahe ye jaa kar
 
   3
-  Bain sun sun ke sakina ke qaza roti hai
-  Khaak udti hai hawa karbobala roti hai
-  Haath may kooza liye baithi hai wo khaak basar
+  Bain sun sun ke Sakina ke qaza roti hai
+  Khaak uraati hai hawa Karbobala roti hai
+  Haath mein kuza liye baithi hai wo khaak basar
 
   4
-  Hoo ka aalam hai koi monis o ghamkhar nahi
-  Jis se dhaaras thi haram ko wo alamdar nahi
-  Wo qayamat hai ke chinti hai haram ki chadar
+  Hu ka aalam hai koi munis o ghamkhwaar nahiṅ
+  Jis se dhaaras thi haram ko wo alamdaar nahiṅ
+  Wo qayaamat hai ke chhinti hai haram ki chaadar
 
   5
-  Shimr ne haye sakina ko bhi sone na diya
-  Be-kafan laasha e shabbir pe rone na diya
-  Dasht may aale mohamed hai sitam ki zad par
+  Shimr ne haye Sakina ko bhi sone na diya
+  Bekafan laasha-e-Shabbir pe rone na diya
+  Dasht mein Aal-e-Muhammad hai sitam ki zad par
 
   6
-  Haye zainab pe hai tanhaai andhere hai yahan
-  Jal gaye qaima e athaar haram ki hai fughan
-  Inna lillaah ki awaaz hai sab ke lab par
+  Haye Zainab pe hai tanhaai andhere haiṅ yahaaṅ
+  Jal gaye khaima-e-at-haar haram ki hai fughaaṅ
+  Inna lillaah ki aawaaz hai sab ke lab par
 
   7
-  Har sitam abid e muztar ko uthana hoga
-  Aisa lagta hai darbaar may jaana hoga
-  Kufa o shaam se hona hai aseeron ka guzar
+  Har sitam Aabid-e-muztar ko uthaana hoga
+  Aisa lagta hai darbaar mein jaana hoga
+  Kufa o Shaam se hona hai asiroṅ ka guzar
 
   8
-  Ay mohib rok qalam shor hai matam ka bapa
-  Nauha yazdan se ye sunkar hai bapa shor e buka
-  Har azadaar tadapta hai ye nauha sun kar
+  Ae Mohib rok qalam shor hai maatam ka bapa
+  Noha Yazdan se ye sun kar hai bapa shor-e-buka
+  Har azaadaar tarapta hai ye noha sun kar
 # source_id: nohayonline:af908084f0bf77b1c0b9
 # source_url: https://www.nohayonline.com/details_content.php?id=1449
 # raw_sha256: 736a148badebddb1ce8e9fa6e39021ebcdd3260fb8de24e61d8b1bbb936a5582
@@ -75,7 +76,7 @@ romanLyrics: |-
 ۳
 بین سن سن کے سکینہ کے قضا روتی ہے
 خاک اڑاتی ہے ہوا کربوبلا روتی ہے
-ہاتھ میں کوزہ لیےء بیٹھی ہے وہ خاک بسر
+ہاتھ میں کوزہ لیے بیٹھی ہے وہ خاک بسر
 
 ۴
 ہو کا عالم ہے کوئی مونس و غم خوار نہیں
@@ -84,12 +85,12 @@ romanLyrics: |-
 
 ۵
 شمر نے ہاے سکینہ کو بھی سونے نہ دیا
-بے کفن لاشہء شبیر پہ رونے نہ دیا
-دشت میں آل محمّد ہے ستم کی ضد پر
+بے کفن لاشۂ شبیر پہ رونے نہ دیا
+دشت میں آل محمّد ہے ستم کی زد پر
 
 ۶
 ہاے زینب پہ ہے تنہائی اندھیرے ہیں یہاں
-جل گےء خیمہء اطہار حرم کی ہے فغاں
+جل گئے خیمۂ اطہار حرم کی ہے فغاں
 انا للہ کی آواز ہے سب کے لب پر
 
 ۷
