@@ -10,80 +10,79 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Barsa falak se khoon larazne lagi zameen
-  Aandhi siyaah dashte bayaban mein chali
+  Barsa falak se khun larazne lagi zamiṅ
+  Aandhi siyaah dasht-e-bayaabaan mein chali
+  Ye waqt bhi qayaamat-e-kubra se kam nahiṅ
+  Jalti zamiṅ pe aakhri sajde mein hai jabiṅ
+  Baaliṅ pe maaṅ Husain ki aur pusht pe laiṅ
 
   1
-  Ye waqt bhi qayamat e kubra se kam nahi
-  Jalti zameen pe aakhri sajde mein hai jabeen
-  Baali pe maa hussain ki aur pusht pe layeen
-  Kehti thi maa teher zara shimr teher jaa
-  Do boond mere bacche ko pani to pila de
+  Kehti thi maaṅ thehar zara Shimr thehar jaa
+  Do bund mere bachche ko paani to pila de
 
   2
-  Sun kar duhaai faatahe badr o hunain se
-  Ye dasht goonjta hai mere shor o shain se
+  Sun kar duhaai faateh-e-Badr o Hunain se
+  Ye dasht gunjta hai mere shor o shain se
   Akbar ko qatl kar ke bhi baithe na chain se
   Kya dushmani hai tumko mere dil ke chain se
-  Kya bugz tumko ho gaya mere hussain se
-  Kehti thi maa...
+  Kya bughz tum ko ho gaya mere Husain se
 
   3
-  Subhe dahum se laashe uthaata raha yahan
-  Roya hai is ghareeb ki ghurbat pe aasman
-  Bacche shaheed ho gaye maare gaye jawan
-  Haathon pe is ke qatl hua ek bezaban
-  Ab is ke khoon ke pyase huwe khanjar o sina
+  Subh-e-dahum se laashe uthaata raha yahaaṅ
+  Roya hai is gharib ki ghurbat pe aasmaaṅ
+  Bachche shahid ho gaye maare gaye javaaṅ
+  Haathoṅ pe is ke qatl hua ek bezabaaṅ
+  Ab is ke khun ke pyaase hue khanjar o sinaaṅ
 
   4
-  Aaya jo qatlgaah mein ye zulm ka aseer
-  Pursaane haal tha na koi aur na dastgeer
-  Pathar kisi ne maare kisi ne sina o teer
-  Naiza kisi ne maara chalaye kisi ne teer
-  Ye zulm dekha rone laga khuld ka ameer
+  Aaya jo qatl gaah mein ye zulm ka asir
+  Pursaan-e-haal tha na koi aur na dastgir
+  Patthar kisi ne maare kisi ne sinaaṅ o tir
+  Naiza kisi ne maara chalaaye kisi ne tir
+  Ye zulm dekha rone laga khuld ka amir
 
   5
-  Gash khaake jo ghode pe jhuka mera dilafgaar
-  Khoon behne laga aur sar e mazloom pe talwaar
-  Sar thaam ke haathon se jo seena hua ek baar
-  Barchi kisi layeen ke seene se hui waar
-  Tar ho gaya lahoo se badan dil hua figaar
+  Ghash khaa ke jo ghore pe jhuka mera dilfigaar
+  Khuṅ behne laga aur sar-e-mazlum pe talwaar
+  Sar thaam ke haathoṅ se jo sina hua is baar
+  Barchhi kisi lain ke sine se hui waar
+  Tar ho gaya lahu se badan dil hua figaar
 
   6
-  Teeron ki nazr chaand sa seena jo ho gaya
-  In zaalimon ne seene ko teeron se bhar diya
-  Zeen se zameen pe aane laga jab pisar mera
-  Aaya nahi zameen pe teeron pe ruk gaya
-  Is zulm par bhi rehm na aaya tujhe zara
+  Tiroṅ ki nazar chaand sa sina jo ho gaya
+  In zaalimoṅ ne sine ko tiroṅ se bhar diya
+  Ziṅ se zamiṅ pe aane laga jab pisar mera
+  Aaya nahiṅ zamin pe tiroṅ pe ruk gaya
+  Is zulm par bhi reham na aaya tujhe zara
 
   7
-  Ay sang dil khuda ka payambar ka khauf kar
-  Kassaab bhi zabeehon ko zibha se teher kar
-  Itna to pani dete hai ho jaaye halq tar
-  Zakhmon se choor chooor hai pyasa mera pisar
-  Khanjar chalega kis tarha pyase ke halq par
+  Ae sang dil Khuda ka Payambar ka khauf kar
+  Qassaab bhi zabihoṅ ko zabh se thehar kar
+  Itna to paani dete hai ho jaaye halq tar
+  Zakhmoṅ se chur chur hai pyaasa mera pisar
+  Khanjar chalega kis tarah pyaase ke halq par
 
   8
-  Zainab hai ek rayt ke teele pe nauhagar
-  Manzar ye dekhti hai sambhale huwe jigar
-  Aankhon mein ashk lab pe buka aur barehna sar
-  Mar jayegi wo khwahare mazloom dekh kar
-  Tan se juda na kijiyo is waqt sheh ka sar
+  Zainab hai ek ret ke tile pe nauha gar
+  Manzar ye dekhti hai sambhaale hue jigar
+  Aankhoṅ mein ashk lab pe buka aur barehna sar
+  Mar jaayegi wo khwaahar-e-mazlum dekh kar
+  Tan se juda na kijiyo is waqt Shah ka sar
 
   9
-  Tadpze zameen pe khaak udaate huwe hyder
-  Aaye khadija aur payambar bhi nauhagar
-  Saydaniyon mein bain dar e qaima pe dukhtar
-  Nazdeek tha wo waqt ke kat jaaye sheh ka sar
-  Zahra ne gala rakh diya bete ke galay par
+  Tarpe zamiṅ pe khaak uraate hue Haidar
+  Aaye Khadija aur Payambar bhi nauha gar
+  Sayyidaaniyoṅ mein bain dar-e-khaima pe dukhtar
+  Nazdik tha wo waqt ke kat jaaye Shah ka sar
+  Zahra ne gala rakh diya bete ke gale par
 
   10
-  Mazhar kahan se laaun mai wo taaqat e bayan
-  Mai likh sakun shahadate mazloom ab yahan
-  Hamraah mere rone lage ye saaton aasman
-  Farhan nahi nahi ye kalaam bhi hai nauhakhwan
-  Bete ko qatl hote huwe dekhti thi maa
-reciter: Farhan Ali
+  Mazhar kahaaṅ se laauṅ main wo taaqat-e-bayaaṅ
+  Main likh sakuṅ shahaadat-e-mazlum ab yahaaṅ
+  Hamraah mere rone lage ye saatoṅ aasmaaṅ
+  Farhan nahiṅ nahiṅ ye kalaam bhi hai nauha khwaaṅ
+  Bete ko qatl hote hue dekhti thi maaṅ
+reciter: Farhan Ali Waris
 # source_id: nohayonline:121a682035145beb3308
 # source_url: https://www.nohayonline.com/details_content.php?id=2375
 # raw_sha256: 20037b1a6ab442deac77d400ae59b78b7cf9d09e0fe79387915b884a79d43b54
@@ -93,13 +92,13 @@ reciter: Farhan Ali
 ---
 برسا فلک سے خون لرزنے لگی زمیں
 آندھی سیاہ دشت بیابان میں چلی
-
-۱
 یہ وقت بھی قیامت کبرا سے کم نہیں
 جلتی زمیں پہ آخری سجدے میں ہے جبیں
 بالیں پہ ماں حسین کی اور پشت پہ لعیں
-کہتی تھی ماں ٹہر زرا شمر ٹہر جا
-دو بوندھ میرے بچے کو پانی تو پلا دے
+
+۱
+کہتی تھی ماں ٹھہر ذرا شمر ٹھہر جا
+دو بوند میرے بچے کو پانی تو پلا دے
 
 ۲
 سن کر دہائی فاتح بدر و حنین سے
@@ -107,27 +106,26 @@ reciter: Farhan Ali
 اکبر کو قتل کر کے بھی بیٹھے نہ چین سے
 کیا دشمنی ہے تم کو میرے دل کے چین سے
 کیا بغض تم کو ہو گیا میرے حسین سے
-کہتی تھی ماں۔۔۔
 
 ۳
 صبحِ دہم سے لاشے اٹھاتا رہا یہاں
 رویا ہے اس غریب کی غربت پہ آسماں
-بچے شہید ہو گےء مارے گےء جواں
-ہاتھوں پہ اس کے قتل ہوا اس بے زباں
-اب اس کے خون کے پیاسے ہوے خنجر و سناں
+بچے شہید ہو گئے مارے گئے جواں
+ہاتھوں پہ اس کے قتل ہوا ایک بے زباں
+اب اس کے خون کے پیاسے ہوئے خنجر و سناں
 
 ۴
 آیا جو قتل گاہ میں یہ ظلم کا اسیر
-پرساں نہال تھا نہ کوئی اور نہ دستگیر
-پتھر‌ کسی نے مارے کسی نے سنا و تیر
-نیزہ کسی نے مارا چلاے کسی نے تیر
+پرسانِ حال تھا نہ کوئی اور نہ دستگیر
+پتھر کسی نے مارے کسی نے سناں و تیر
+نیزہ کسی نے مارا چلائے کسی نے تیر
 یہ ظلم دیکھا رونے لگا خلد کا امیر
 
 ۵
 غش کھا کے جو گھوڑے پہ جھکا میرا دلفگار
 خوں بہنے لگا اور سر مظلوم پہ تلوار
 سر تھام کے ہاتھوں سے جو سینہ ہوا اس بار
-برچھی کسی لعین کے سینے سے ہوی وار
+برچھی کسی لعین کے سینے سے ہوئی وار
 تر ہو گیا لہو سے بدن دل ہوا فگار
 
 ۶
@@ -135,27 +133,27 @@ reciter: Farhan Ali
 ان ظالموں نے سینے کو تیروں سے بھر دیا
 زیں سے زمیں پہ آنے لگا جب پسر میرا
 آیا نہیں زمین پہ تیروں پہ رک گیا
-اس ظلم پر بھی رحم نہ آیا تجھے زرا
+اس ظلم پر بھی رحم نہ آیا تجھے ذرا
 
 ۷
 اے سنگ دل خدا کا پیمبر کا خوف کر
-قصاب بھی زبیحوں کو زبح سے ٹہر کر
-اتنا تو پانی دیتے ہے ہو جاے حلق تر
+قصاب بھی ذبیحوں کو ذبح سے ٹھہر کر
+اتنا تو پانی دیتے ہے ہو جائے حلق تر
 زخموں سے چور چور ہے پیاسا میرا پسر
 خنجر چلے گا کس طرح پیاسے کے حلق پر
 
 ۸
 زینب ہے ایک ریت کے ٹیلے پہ نوحہ گر
-منظر یہ دیکھتی ہے سنبھالے ہوے جگر
-آنکھوں میں آشک لب پہ بکا اور برہنہ سر
-مر جاے گی وہ خواہر مظلوم دیکھ کر
+منظر یہ دیکھتی ہے سنبھالے ہوئے جگر
+آنکھوں میں اشک لب پہ بکا اور برہنہ سر
+مر جائے گی وہ خواہر مظلوم دیکھ کر
 تن سے جدا نہ کیجیو اس وقت شہ کا سر
 
 ۹
-تڑپے زمیں پہ خاک اڑاتے ہوے حیدر
-آے خدیجہ اور پیمبر بھی نوحہ گر
+تڑپے زمیں پہ خاک اڑاتے ہوئے حیدر
+آئے خدیجہ اور پیمبر بھی نوحہ گر
 سیدانیوں میں بین در خیمہ پہ دختر
-نزدیک تھا وہ وقت کہ کٹ جاے شہ کا سر
+نزدیک تھا وہ وقت کہ کٹ جائے شہ کا سر
 زہرا نے گلا رکھ دیا بیٹے کے گلے پر
 
 ۱۰
@@ -163,4 +161,4 @@ reciter: Farhan Ali
 میں لکھ سکوں شہادت مظلوم اب یہاں
 ہمراہ میرے رونے لگے یہ ساتوں آسماں
 فرحان نہیں نہیں یہ کلام بھی ہے نوحہ خواں
-بیٹے کو قتل ہوتے ہوے دیکھتی تھی ماں
+بیٹے کو قتل ہوتے ہوئے دیکھتی تھی ماں
