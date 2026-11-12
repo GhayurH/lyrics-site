@@ -1,79 +1,80 @@
 ---
-title: "الم جھکا تو ہجاب زینب"
-alternateTitle: "Hijabe Zainab"
+title: "علم جھکا تو حجابِ زینب"
+alternateTitle: "Hijaab-e-Zainab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Jaun"
+reciter: "Shakir Hussain"
 tags: ["noImage"]
-aliases: []
+aliases: ["Hijabe Zainab"]
 published: false
 romanLyrics: |-
-  Alam jhuka to hijabe zainab
-  Pe mushkilon ke sairaab chaaye
+  Alam jhuka to hijaab-e-Zainab
+  Pe mushkiloṅ ke sairaab chhaaye
+  Rida-e-tathir lutne ko
+  Lain bekhauf hoke aaye
 
   1
-  Rida e tatheer lootne ko
-  Layeen bekauf hoke aaye
-  Bhale wo shabbir aur zainab
-  Hai phir bhi abbas ki judaai
-  Ke wa hijaaba behan pukari
-  Hussain rote hai sar jhukaye
-  
+  Bhale wo Shabbir aur Zainab
+  Hai phir bhi Abbas ki judaai
+  Ke wa hijaaba behan pukaari
+  Husain rote haiṅ sar jhukaaye
+
   2
-  Kahin pe tera alam pada hai
-  Kahin pe baazu kahin pe laasha
-  Kahan kahan se batao ghazi
-  Hussain tumko uthane aaye
-  
+  Kahiṅ pe tera alam para hai
+  Kahiṅ pe baazu kahiṅ pe laasha
+  Kahaaṅ kahaaṅ se bataao Ghaazi
+  Husain tum ko uthaane aaye
+
   3
-  Tumhara hona hi ek bhaiya
-  Wo is ghareebi mein tha sahara
-  Batao pardes mein bhala kaun
-  Zaalimo se hamein bachaye
-  
+  Tumhaara hona hi ek bhaiya
+  Wo is gharibi mein tha sahaara
+  Bataao pardes mein bhala kaun
+  Zaalimoṅ se hameiṅ bachaaye
+
   4
-  Jo tere hone se jaagte thay
-  Wo so rahe hai hamein jagaye
-  Zara batao to kaise zainab
-  Yateem sehme huwe sulaaye
-  
+  Jo tere hone se jaagte the
+  Wo so rahe haiṅ hameiṅ jagaaye
+  Zara bataao to kaise Zainab
+  Yatim sehme hue sulaaye
+
   5
-  Meri rida aur hussain ka sar
-  Teri hifazat ki aad mein tha
-  Tumhare jaane ke baad dono
-  Pe cha gaye hai sitam ke saaye
-  
+  Meri rida aur Husain ka sar
+  Teri hifaazat ki aar mein tha
+  Tumhaare jaane ke baad donoṅ
+  Pe chhaa gaye haiṅ sitam ke saaye
+
   6
-  Nahi hai pani to laut aao
+  Nahiṅ hai paani to laut aao
   Sakina tum bin na reh sakegi
-  Wo jhel legi jo uska asghar
-  Tadap ke jhoole mein bil bilaye
-  
+  Wo jhel legi jo us ka Asghar
+  Tarap ke jhule mein bilbilaaye
+
   7
-  Dua e zehra sawaal e hyder
-  Ata e khaaliq rida e zainab
-  Yehi to ghazi hai jaun khud mein
-  Jo inka rabte ziya dikhaye
+  Dua-e-Zehra sawaal-e-Haidar
+  Ata-e-Khaaliq rida-e-Zainab
+  Yehi to Ghaazi hai Jaun khud mein
+  Jo in ka rabt-e-ziya dikhaaye
 # source_id: nohayonline:4109f6a3a4569a624de5
 # source_url: https://www.nohayonline.com/details_content.php?id=862
 # raw_sha256: 3f86611765c416f36b059502b0ed057848adcaca096952b1b58b3546e42c4b87
 ---
 
-الم جھکا تو ہجاب زینب
-پہ مشکلوں کے سیراب چھاے
+علم جھکا تو حجابِ زینب
+پہ مشکلوں کے سیراب چھائے
+ردائے تطہیر لوٹنے کو
+لعین بے خوف ہوکے آئے
 
 ۱
-رداے تطہیر لوٹنے کو
-لعین بے خوف ہوکے آے
 بھلے وہ شبیر اور زینب
 ہے پھر بھی عباس کی جدائی
-کہ وا ہجابا بہن پکاری
+کہ وا حجابا بہن پکاری
 حسین روتے ہیں سر جھکائے
 
 ۲
-کہیں پہ تیرا الم پڑا ہے
+کہیں پہ تیرا علم پڑا ہے
 کہیں پہ بازو کہیں پہ لاشہ
 کہاں کہاں سے بتاؤ غازی
 حسین تم کو اٹھانے آیا
@@ -82,28 +83,28 @@ romanLyrics: |-
 تمہارا ہونا ہی ایک بھیا
 وہ اس غریبی میں تھا سہارا
 بتاؤ پردیس میں بھلا کون
-ظالموں سے ہمیں بچاے
+ظالموں سے ہمیں بچائے
 
 ۴
 جو تیرے ہونے سے جاگتے تھے
-وہ سو رہے ہیں ہمیں جگاے
-زرا بتاؤ تو کیسے زینب
-یتیم سہمے ہوئے سلاے
+وہ سو رہے ہیں ہمیں جگائے
+ذرا بتاؤ تو کیسے زینب
+یتیم سہمے ہوئے سلائے
 
 ۵
 میری ردا اور حسین کا سر
 تیری حفاظت کی آڑ میں تھا
 تمہارے جانے کے بعد دونوں
-پہ چھا گئے ہیں ستم کے ساے
+پہ چھا گئے ہیں ستم کے سائے
 
 ۶
 نہیں ہے پانی تو لوٹ آؤ
 سکینہ تم بن نہ رہ سکے گی
-وہ جھیل لے گی جو اسکا اصغر
-تڑپ کے جھولے میں بلبلاے
+وہ جھیل لے گی جو اس کا اصغر
+تڑپ کے جھولے میں بلبِلائے
 
 ۷
-دعاے زہرا سوال حیدر
-عطاے خالق رداے زینب
+دعائے زہرا سوالِ حیدر
+عطائے خالق ردائے زینب
 یہی تو غازی ہے جون قد میں
-جو انکا ربط ضیاء دکھاے
+جو ان کا ربطِ ضیاء دکھائے
