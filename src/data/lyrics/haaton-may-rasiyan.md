@@ -1,62 +1,63 @@
 ---
 title: "ہاتھوں میں رسیاں ہیں سر پر ردا نہیں ہے"
-alternateTitle: "Haaton May Rasiyan"
+alternateTitle: "Haathoṅ Mein Rassiyaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Abid Zaidi"
+reciter: "Sajid Jafri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haaton may rasiyan hai sar par rida nahi hai
-  Zainab tera muhafiz abbas kya nahi hai
+  Haathoṅ mein rassiyaṅ haiṅ sar par rida nahiṅ hai
+  Zainab tera muhaafiz Abbas kya nahiṅ hai
 
   1
-  Dharne ki til jagah hai bazaar may bhala kab
-  Apni musibaton ko tu jaane ya tera rab
-  Abbas ka sina par sar thayrta nahi hai
+  Dharne ki til jagah hai baazaar mein bhala kab
+  Apni musibatoṅ ko tu jaane ya tera Rab
+  Abbas ka sinaaṅ par sar theharta nahiṅ hai
 
   2
-  Allah se ahad ko tune bhi hai nibhana
-  In shamiyon ke haaton se uska deen bachana
-  Tera hai aur kisi ka ye hausla nahi hai
+  Allah se ahad ko tu ne bhi hai nibhaana
+  In Shaamiyoṅ ke haathoṅ se us ka din bachaana
+  Tera hai aur kisi ka ye hausla nahiṅ hai
 
   3
-  Mumkin agar hai bibi kuch aur sar jhuka le
-  Chadar to ye na denge balon se moo chupa le
-  Koi sadayein sunle ye wo jagah nahi hai
+  Mumkin agar hai Bibi kuchh aur sar jhuka le
+  Chaadar to ye na deṅge baaloṅ se muṅh chhupa le
+  Koi sadaaeṅ sun le ye wo jagah nahiṅ hai
 
   4
-  Parwardigar tujhpar nazrein jamaye hoga
-  Qadmon may tere apna taaba bichaye hoga
-  Tujhsa siwaye tere koi doosra nahi hai
+  Parwardigaar tujh par nazreṅ jamaaye hoga
+  Qadmoṅ mein tere apna taaba bichhaaye hoga
+  Tujh sa siwaaye tere koi dusra nahiṅ hai
 
   5
-  Nana ke deen ki bibi tauqeer tu badha de
-  Himmat se hausle se mushkil ghadi bata de
-  Uska tere siwaye mushkil kusha nahi hai
+  Naana ke din ki Bibi tauqir tu barha de
+  Himmat se hausle se mushkil ghari bata de
+  Us ka tere siwaaye mushkil kusha nahiṅ hai
 
   6
-  Zainab khadija saani zainab hi zehra saani
-  Wo jaan bhaiyon ki wo noore aasmani
-  Paband hai ahad ki be-aasra nahi hai
+  Zainab Khadija saani Zainab hi Zehra saani
+  Wo jaan bhaaiyoṅ ki wo nur-e-aasmaani
+  Paaband hai ahad ki beaasra nahiṅ hai
 
   7
-  Har ek taraf se hogi barsaat patharon ki
-  Lekin hai jeet sar ki aur maut patharon ki
-  Hai ya hussain lab par lab par dua nahi hai
+  Har ek taraf se hogi barsaat pattharoṅ ki
+  Lekin hai jit sar ki aur maut pattharoṅ ki
+  Hai ya Husain lab par lab par dua nahiṅ hai
 
   8
-  Asghar ki maa ka daaman khulne se tu bachana
-  Aabad raakh se hai uska wo ashiyana
-  Muddat se uska beta us'se mila nahi hai
+  Asghar ki maaṅ ka daaman khulne se tu bachaana
+  Aabaad raakh se hai us ka wo aashiyaana
+  Muddat se us ka beta us se mila nahiṅ hai
 
   9
-  Abid ye paak bibi hi hai khuda ka parda
-  Mumkin nahi hai isko chashme na jisne dekha
-  Ye kya hai rab hi jaane mujhko pata nahi hai
+  Abid ye paak Bibi hi hai Khuda ka parda
+  Mumkin nahiṅ hai is ko chashme na jis ne dekha
+  Ye kya hai Rab hi jaane mujh ko pata nahiṅ hai
 # source_id: nohayonline:cf01f3dee48ee007b984
 # source_url: https://www.nohayonline.com/details_content.php?id=817
 # raw_sha256: 07877e2af405020343bb728225e148ee7825a4cba1f6d65d94a48e676f88b18d
@@ -67,31 +68,31 @@ romanLyrics: |-
 ۱
 دھرنے کی تل جگہ ہے بازار میں بھلا کب
 اپنی مصیبتوں کو تو جانے یا تیرا رب
-عباس کا سناں پر سر ٹہرتا نہیں ہے
+عباس کا سناں پر سر ٹھہرتا نہیں ہے
 
 ۲
-اللہ سے عہد کو تونے بھی ہے نبھایا
-ان شامیوں کے ہاتھوں سے اسکا دین بچایا
+اللہ سے عہد کو تو نے بھی ہے نبھایا
+ان شامیوں کے ہاتھوں سے اس کا دین بچایا
 تیرا ہے اور کسی کا یہ حوصلہ نہیں ہے
 
 ۳
-ممکن اگر ہے بی بی کچھ اور سر جھکالے
-چادر تو یہ نہ دیں گے بالوں سے منہ چھپالے
-کوی صدایں سن لے یہ وہ جگہ نہیں ہے
+ممکن اگر ہے بی‌بی کچھ اور سر جھکا لے
+چادر تو یہ نہ دیں گے بالوں سے منہ چھپا لے
+کوئی صدائیں سن لے یہ وہ جگہ نہیں ہے
 
 ۴
 پروردگار تجھ پر نظریں جمائے ہوگا
 قدموں میں تیرے اپنا تابہ بچھایا ہوگا
-تجھ سا سواے تیرے کوئی دوسرا نہیں ہے
+تجھ سا سوائے تیرے کوئی دوسرا نہیں ہے
 
 ۵
-نانا کے دیں کی بی بی توقیر تو بڑھادے
+نانا کے دین کی بی‌بی توقیر تو بڑھا دے
 ہمت سے حوصلے سے مشکل گھڑی بتا دے
-اسکا تیرے سواے مشکل کشا نہیں ہے
+اس کا تیرے سوائے مشکل کشا نہیں ہے
 
 ۶
 زینب خدیجہ ثانی زینب ہی زہرا ثانی
-وہ جان بھاءییوں کی وہ نور آسمانی
+وہ جان بھائیوں کی وہ نور آسمانی
 پابند ہے عہد کی بے آسرا نہیں ہے
 
 ۷
@@ -101,10 +102,10 @@ romanLyrics: |-
 
 ۸
 اصغر کی ماں کا دامن کھلنے سے تو بچانا
-آباد راخ سے ہے اسکا وہ آشیانہ
+آباد راکھ سے ہے اس کا وہ آشیانہ
 مدت سے اسکا بیٹا اس سے ملا نہیں ہے
 
 ۹
-عابد یہ پاک بی بی ہی ہے خدا کا پردہ
-ممکن نہیں ہے اسکو چشم نہ جس نے دیکھا
-یہ کیا ہے رب ہی جانے مجھکو پتہ نہیں ب
+عابد یہ پاک بی‌بی ہی ہے خدا کا پردہ
+ممکن نہیں ہے اس کو چشم نہ جس نے دیکھا
+یہ کیا ہے رب ہی جانے مجھ کو پتہ نہیں ہے

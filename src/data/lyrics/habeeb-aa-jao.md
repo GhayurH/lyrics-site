@@ -1,84 +1,87 @@
 ---
 title: "اے فقیہہِ حسین اے حبیبِ حسین"
-alternateTitle: "Habeeb Aa Jao"
+alternateTitle: "Habib Aa Jaao"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Mir Hasan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ay faqeeh e hussain ay habeeb e hussain
-  Ye khat may shaah ne likha habeeb aajao
-  Tumhara dost hai tanha habeeb aajao
+  Ae faqih-e-Husain ae Habib-e-Husain
+
+  Ye khat mein Shaah ne likha Habib aa jaao
+  Tumhaara dost hai tanha Habib aa jaao
 
   1
-  Shaheed kaise hua wo bataoge aa kar
-  Tumhara muslim e bekas sunaoge aa kar
-  Ruqayya takti hai rasta habeeb aajao
+  Shahid kaise hua wo bataaoge aa kar
+  Tum haal-e-Muslim-e-bekas sunaaoge aa kar
+  Ruqayya takti hai rasta Habib aa jaao
 
   2
-  Lagao is se bhi andaaze meri ghurbat ke
-  Jahan pe ibne ali likhna tha wahan maine
-  Diya hai maa ka hawala habeeb aajao
+  Lagaao is se bhi andaaze meri ghurbat ke
+  Jahaaṅ pe ibn-e-Ali likhna tha wahaaṅ main ne
+  Diya hai maaṅ ka hawaala Habib aa jaao
 
   3
-  Bata raha tha usay koi bhi nahi hai mera
-  To boli saani e zahra habeeb aayega
-  Hai usko tum pe bharosa habeeb aajao
+  Bataa raha tha use koi bhi nahiṅ hai mera
+  To boli saani-e-Zahra Habib aayega
+  Hai us ko tum pe bharosa Habib aa jaao
 
   4
-  Wo jab ye sunti hai kufe se aa rahe hai shaqi
-  To poochti hai hamara bhi aayega koi
-  Duayein degi sakina habeeb aajao
+  Wo jab ye sunti hai Kufe se aa rahe haiṅ shaqi
+  To puchhti hai hamaara bhi aayega koi
+  Duaaeṅ degi Sakina Habib aa jaao
 
   5
-  Gawara kar nahi sakti hussain ki ghairat
-  Tumhari zauja ki chadar ko lootle ummat
-  Tum usko chod ke kufa habeeb aajao
+  Gawaara kar nahiṅ sakti Husain ki ghairat
+  Tumhaari zauja ki chaadar ko lut le ummat
+  Tum us ko chhor ke Kufa Habib aa jaao
 
   6
-  Mujhe hai yaad wo lamha jo rab ki marzi se
-  Tum hoke zinda meri baat sun'ne aaye thay
-  Bula raha hoo dubara habeeb aajao
+  Mujhe hai yaad wo lamha jo Rab ki marzi se
+  Tum ho ke zinda meri baat sunne aaye the
+  Haaṅ bulaa raha huṅ dubaara Habib aa jaao
 
   7
-  Dar e batool dubara jalaya jayega
-  Tumhare dost pe khanjar chalaya jayega
-  Nahi hai waqt zyada habeeb aajao
+  Dar-e-Batul dubaara jalaaya jaayega
+  Tumhaare dost pe khanjar chalaaya jaayega
+  Nahiṅ hai waqt ziyaada Habib aa jaao
 
   8
-  Chamakte chand ki humko bhi deedh ho jaaye
-  Tum aao to mere bachon may eid ho jaaye
-  Bahot udaas hai kunba habeeb aajao
+  Chamakte chaand ki ham ko bhi did ho jaaye
+  Tum aao to mere bachchoṅ mein Eid ho jaaye
+  Bahut udaas hai kunba Habib aa jaao
 
   9
-  Ye khat nahi isay behno ki aarzu samjho
-  Humare lafzon ko zainab ki guftagu samjho
-  Behen ye kehti hai bhaiya habeeb aajao
+  Ye khat nahiṅ ise behnoṅ ki aarzu samjho
+  Hamaare lafzoṅ ko Zainab ki guftagu samjho
+  Behen ye kehti hai bhaiya Habib aa jaao
 
   10
-  Behen ne usko takallum jo bhai samjha tha
-  Pukari shaam e ghariban may saani e zehra
-  Humara lut'ta hai parda habeeb aajao
+  Behen ne us ko Takallum jo bhaai samjha tha
+  Pukaari Shaam-e-Gharibaaṅ mein saani-e-Zehra
+  Hamaara lutta hai parda Habib aa jaao
 # source_id: nohayonline:8c7057bb96bd66bad9f1
 # source_url: https://www.nohayonline.com/details_content.php?id=1615
 # raw_sha256: e0f13993e6a4ee7463d06415055b9ae3fd8be144b1718545e9a8bb65f149298c
 ---
 اے فقیہہِ حسین اے حبیبِ حسین
+
 یہ خط میں شاہ نے لکھا حبیب آجاؤ
 تمہارا دوست ہے تنہا حبیب آجاؤ
 
 ۱
-شہید کیسے ہوا وہ بتاو ٔگے آکر
+شہید کیسے ہوا وہ بتاؤ گے آ کر
 تم حالِ مسلمِؑ بے کس سناؤ گے آکر
 رُقیہ تکتی ہے رستہ حبیب آجاؤ
 
 ۲
 لگاؤ اس سے بھی اندازے میری غربت کے
-جہاں پہ ابن علی لکھنا تھاوہاں میں نے
+جہاں پہ ابن علی لکھنا تھا وہاں میں نے
 دیا ہے ماں کا حوالہ حبیب آجاؤ
 
 ۳
@@ -108,7 +111,7 @@ romanLyrics: |-
 
 ۸
 چمکتے چاند کی ہم کو بھی دید ہو جائے
-تم آو تو میرے بچوں میں عید ہو جائے
+تم آؤ تو میرے بچوں میں عید ہو جائے
 بہت اُداس ہے کنبہ حبیب آجاؤ
 
 ۹
