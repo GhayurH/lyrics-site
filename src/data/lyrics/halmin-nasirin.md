@@ -1,142 +1,145 @@
 ---
-title: "تھی یہی دشت مصیبت میں صداے سرور"
+title: "تھی یہی دشت مصیبت میں صدائے سرور"
 alternateTitle: "Halmin Nasirin"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Dayam Najafi"
+reciter: "Ali Yazdan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Thi yehi dashte musibat mein sada e sarwar
-  Hai koi jo ke sune aaj nida e sarwar
-  Kya hai koi jo chala aaye bara e sarwar
-  Hal min nasirin yan surna
+  Thi yehi dasht-e-musibat mein sada-e-Sarwar
+  Hai koi jo ke sune aaj nida-e-Sarwar
+  Kya hai koi jo chala aaye baraa-e-Sarwar
+  Hal min naasirin yansuruna
 
   1
-  Haye is dasht mein be-monis o be-yaar hussain
-  Har nafas khaate hai aghyaar se aazaar hussain
-  Koi to aaye sada dete hai nadaar hussain
+  Haaye is dasht mein bemunis o beyaar Husain
+  Har nafas khaate haiṅ aghyaar se aazaar Husain
+  Koi to aaye sada dete haiṅ naadaar Husain
 
   2
-  Ghir gaye fauje sitamgar mein shehenshah e umam
-  Zakhm pe zakhm diye jaati hai tayghe payham
-  Aur har zakhm hum tumko bulaate hai baham
+  Ghir gaye fauj-e-sitamgar mein shahanshaah-e-umam
+  Zakhm pe zakhm diye jaati hai tegh-e-paiham
+  Aur har zakhm hum tum ko bulaate haiṅ baaham
 
   3
-  Aandhiyan teeron ki toofan hai talwaron ke
-  Zakhm hai dil pe shahe deen ke ghamkharon ke
-  Muntazir hai shahe deen dasht mein ansaron ke
+  Aandhiyaaṅ tiroṅ ki tufaan hai talwaaroṅ ke
+  Zakhm hai dil pe Shaah-e-diṅ ke ghamkhwaaroṅ ke
+  Muntazir hai Shaah-e-diṅ dasht mein ansaaroṅ ke
 
   4
-  Haye pani na dam e marg hamein mil paaya
-  Tashnalab tashna dahan reh gaya zehra jaaya
-  Aur honton pe thi awaaz e hazeen wavaila
+  Haaye paani na dam-e-marg hameṅ mil paaya
+  Tashnalab tashna dahan reh gaya Zehra jaaya
+  Aur hoṅtoṅ pe thi aawaaz-e-haziṅ waawaila
 
   5
-  Shahe deen tanha hai aur dasht mein hangame bala
-  Kho ke akbar sa pisar aur shahenshah e wafa
-  Ab bulaye kise nusrat ko shahe karbobala
+  Shaah-e-diṅ tanha hai aur dasht mein hangaam-e-bala
+  Kho ke Akbar sa pisar aur shahanshaah-e-wafa
+  Ab bulaaye kise nusrat ko Shaah-e-Karb o Bala
 
   6
-  Kahin khanjar kahin talwaar kahin par naiza
-  Har taraf chaayi hai maqtal mein qayamat ki ghata
-  Haye koi nahi ghamkhaar raha ab mera
-  Aise aalam mein ho alfaaz e shahe karbobala
-  Ab nahi kuch raha hamraah mere gham ke siwa
-  Hil gaya farshe zameen kaamp utha arshe ulaa
-  Haye darya pe laraz utha jari ka laasha
-  Sunke awaaz meri ro diya asghar mera
+  Kahiṅ khanjar kahiṅ talwaar kahiṅ par naiza
+  Har taraf chhaai hai maqtal mein qayaamat ki ghata
+  Haaye koi nahiṅ ghamkhwaar raha ab mera
+  Aise aalam mein ho alfaaz-e-Shaah-e-Karb o Bala
+  Ab nahiṅ kuchh raha hamraah mere gham ke siwa
+  Hil gaya farsh-e-zamiṅ kaaṅp utha arsh-e-ula
+  Haaye darya pe laraz utha jari ka laasha
+  Sun ke aawaaz meri ro diya Asghar mera
 
-  Labbaik labbaik labbaik ya hussain
+  Labbaik labbaik labbaik ya Husain
 
   7
-  Is sada ka to ye matlab hai ke hum haazir hai
-  Itrat e ahmed e mukhtar ke hum nasir hai
-  Surat e ashk to jazbaat sabhi zaahir hai
+  Is sada ka to ye matlab hai ke hum haazir haiṅ
+  Itrat-e-Ahmad-e-Mukhtaar ke hum naasir haiṅ
+  Surat-e-ashk to jazbaat sabhi zaahir haiṅ
+  Kaho labbaik ya Husain kaho labbaik ya Husain
 
   8
-  Jo shahadat hai usi sheh ke talabgaar hai hum
-  Jaan dene ke liye aal pe tayyaar hai hum
-  Door maqtal se hai par bar sare paikaar hai hum
+  Jo shahaadat hai usi shah ke talabgaar haiṅ hum
+  Jaan dene ke liye aal pe tayyaar haiṅ hum
+  Dur maqtal se haiṅ par bar sar-e-paikaar haiṅ hum
 
   9
-  Bas zaban se nahi hum dil se hai maula ke ghulam
-  Bas wohi karna hai jo shaah ko matloob hai kaam
-  Zulm ko karte rahenge yuhin ta-dum na-kaam
+  Bas zabaaṅ se nahiṅ hum dil se hai Maula ke ghulaam
+  Bas wohi karna hai jo shaah ko matlub hai kaam
+  Zulm ko karte raheṅge yuṅhi taa dam naakaam
 
   10
-  Apne aamaal se af'aal se kirdaar se hum
-  Jang karte hi chale aaye hai aghyaar se hum
-  Khauf kuch khaate nahi naiza o talwaar se hum
+  Apne aamaal se afaal se kirdaar se hum
+  Jang karte hi chale aaye haiṅ aghyaar se hum
+  Khauf kuchh khaate nahiṅ naiza o talwaar se hum
 
   11
-  Jab bhi labbaik kaha bad gayi zimmedari
-  Nusrat e shaah ki har rukh se ho ab tayyari
-  Deen se qurbat ka safar dunya se ho bedaari
+  Jab bhi labbaik kaha barh gai zimmedaari
+  Nusrat-e-shaah ki har rukh se ho ab tayyaari
+  Diṅ se qurbat ka safar dunya se ho bedaari
 
   12
-  Maqsad e hazrat e shabbir ho maqsad apna
-  Bas wohi chahiye jis mein shahe deen ki riza
-  Ar kuch bhi nahi darkaar hai is shay ke siwa
+  Maqsad-e-Hazrat-e-Shabbir ho maqsad apna
+  Bas wohi chaahiye jis mein Shaah-e-diṅ ki riza
+  Aur kuchh bhi nahiṅ darkaar hai is shah ke siwa
 
   13
-  Jaan dene ko hai tayyar azadar e hussain
-  Dayam o yazdan e ghamkhar hai ghamkhar e hussain
-  John sa hausla rakhte hai fida kaare hussain
+  Jaan dene ko haiṅ tayyaar azaadaar-e-Husain
+  Daaim o Yazdaan-e-ghamkhwaar hai ghamkhwaar-e-Husain
+  Jaun sa hausla rakhte haiṅ fidaakaar-e-Husain
 # source_id: nohayonline:54e6525b57b3d0a7a553
 # source_url: https://www.nohayonline.com/details_content.php?id=1448
 # raw_sha256: 2446a53b55494f62ce83599486858734354832e9630392b4482ff19ed8a8303f
 ---
 
-تھی یہی دشت مصیبت میں صداے سرور
-ہے کوئی جو کہ سنے آج نداے سرور
-کیا ہے کوئی جو چلا آے برائے سرور
-ھل من ناصر ینصرنا
+تھی یہی دشت مصیبت میں صدائے سرور
+ہے کوئی جو کہ سنے آج ندائے سرور
+کیا ہے کوئی جو چلا آئے برائے سرور
+ہل من ناصر ینصرنا
 
 ۱
-ہاے اس دشت میں بے مونس و بے یار حسین
-ہر نفس کھاتے ہیں اغیار سے اعزار حسین
-کوئی تو آے صدا دیتے ہیں نادار حسین
+ہائے اس دشت میں بے مونس و بے یار حسین
+ہر نفس کھاتے ہیں اغیار سے آزار حسین
+کوئی تو آئے صدا دیتے ہیں نادار حسین
 
 ۲
-گھر گےء فوج ستمگر میں شہنشاہِ امم
-زخم پہ زخم دیےء جاتی ہے تیغ پیہم
+گھر گئے فوج ستمگر میں شہنشاہِ امم
+زخم پہ زخم دیے جاتی ہے تیغ پیہم
 اور ہر زخم ہم تم کو بلاتے ہیں باہم
 
 ۳
 آندھیاں تیروں کی طوفان ہے تلواروں کے
-زخم ہے دل پہ شہ دیں کے غم‌ خواروں کے
+زخم ہے دل پہ شہ دیں کے غم خواروں کے
 منتظر ہے شہ دیں دشت میں انصاروں کے
 
 ۴
-ہاے پانی نہ دم مرگ ہمیں مل پایا
+ہائے پانی نہ دم مرگ ہمیں مل پایا
 تشنہ لب تشنہ دہن رہ گیا زہرا جایا
 اور ہونٹوں پہ تھی آواز حزیں واویلا
 
 ۵
 شہ دیں تنہا ہے اور دشت میں ہنگام بلا
 کھو کے اکبر سا پسر اور شہنشاہِ وفا
-اب بلاے کسے نصرت کو شہ کربوبلا
+اب بلائے کسے نصرت کو شہ کرب و بلا
 
 ۶
 کہیں خنجر کہیں تلوار کہیں پر نیزہ
-ہر طرف چھای ہے مقتل میں قیامت کی گھٹا
-ہاے کوئی نہیں غم خوار رہا اب میرا
-ایسے عالم میں ہو الفاظ شہ کربوبلا
+ہر طرف چھائی ہے مقتل میں قیامت کی گھٹا
+ہائے کوئی نہیں غم خوار رہا اب میرا
+ایسے عالم میں ہو الفاظ شہ کرب و بلا
 اب نہیں کچھ رہا ہمراہ میرے غم کے سوا
 ہل گیا فرش زمیں کانپ اٹھا عرش علا
-ہاے دریا پہ لرز اٹھا جری کا لاشہ
-سن کے آواز میری رو دیا اصغ میرا
+ہائے دریا پہ لرز اٹھا جری کا لاشہ
+سن کے آواز میری رو دیا اصغر میرا
 
 لبیک لبیک لبیک یا حسین
 
 ۷
 اس صدا کا تو یہ مطلب ہے کہ ہم حاضر ہیں
-عطرت احمد مختار کہ ہم ناصر ہیں
-صورت اشک تو جزبات سبھی ظاہر ہیں
+عترت احمد مختار کے ہم ناصر ہیں
+صورت اشک تو جذبات سبھی ظاہر ہیں
+کہو لبیک یا حسین کہو لبیک یا حسین
 
 ۸
 جو شہادت ہے اسی شہ کے طلبگار ہیں ہم
@@ -150,20 +153,20 @@ romanLyrics: |-
 
 ۱۰
 اپنے اعمال سے افعال سے کردار سے ہم
-جنگ کرتے ہی چلے آے ہیں اغیار سے ہم
+جنگ کرتے ہی چلے آئے ہیں اغیار سے ہم
 خوف کچھ کھاتے نہیں نیزہ و تلوار سے ہم
 
 ۱۱
-جب بھی لبیک کہا بڑھ گیء زمہ داری
+جب بھی لبیک کہا بڑھ گئی ذمہ داری
 نصرتِ شاہ کی ہر رخ سے ہو اب تیاری
 دیں سے قربت کا سفر دنیا سے ہو بیداری
 
 ۱۲
 مقصد حضرتِ شبیر ہو مقصد اپنا
-بس وہی چاہیےء جس میں شہ دیں کی رضا
+بس وہی چاہیے جس میں شہ دیں کی رضا
 اور کچھ بھی نہیں درکار ہے اس شہ کے سوا
 
 ۱۳
 جان دینے کو ہیں تیار عزادار حسین
-دایم و یزدان غم خوارِ حسین
+دائم و یزدان غم خوارِ حسین
 جون سا حوصلہ رکھتے ہیں فدا کار حسین

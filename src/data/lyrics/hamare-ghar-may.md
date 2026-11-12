@@ -1,65 +1,70 @@
 ---
 title: "مولا آ رہے ہیں"
-alternateTitle: "Hamare Ghar May"
+alternateTitle: "Hamare Ghar Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Hasnain"
+reciter: "Shadman Raza"
 tags: ["noImage"]
-aliases: []
+aliases: ["Hamare Ghar May"]
 published: false
 romanLyrics: |-
-  Maula aa rahe hai
-  Hamare ghar may maula aa rahe hai
-  Azakhane sajaye jaa rahe hai
+  Maula aa rahe haiṅ
+  Hamare ghar mein Maula aa rahe haiṅ
+
+  Azaakhane sajaaye jaa rahe haiṅ
+  Hamare ghar mein Maula aa rahe haiṅ
 
   1
-  Kisi ki bhook ka sadqa to dekho
-  Mere bacche tabarruk khaa rahe hai
+  Kisi ki bhuk ka sadqa to dekho
+  Mere bachche tabarruk khaa rahe haiṅ
 
   2
-  Abhi maana alam abbas ka tha
-  Abhi mannat badhane aa rahe hai
+  Abhi maana alam Abbas ka tha
+  Abhi mannat barhaane aa rahe haiṅ
 
   3
-  Kahin bachon ko maa rakhti hai girwi
-  Kahin saqqe banaye jaa rahe hai
+  Kahiṅ bachchoṅ ko maaṅ rakhti hai girwi
+  Kahiṅ saqqe banaaye jaa rahe haiṅ
 
   4
-  Ye jhoola ye alam taboot dekho
-  Ziyarat ko malayek aa rahe hai
+  Ye jhula ye alam taabut dekho
+  Ziyaarat ko malaaek aa rahe haiṅ
 
   5
-  Bade choton ko mimbar par bitha kar
-  Hai kya karbobala samjha rahe hai
+  Bare chhotoṅ ko mimbar par bitha kar
+  Hai kya Karb o Bala samjhaa rahe haiṅ
 
   6
-  Agarche kat chuke baazu hai lekin
-  Alam abbas ke lehra rahe hai
+  Agarche kat chuke baazu haiṅ lekin
+  Alam Abbas ke lehraa rahe haiṅ
 
   7
-  Azaa ka farsh ghar may bich chuka hai
-  Imam e asr ghar may aa rahe hai
+  Aza ka farsh ghar mein bich chuka hai
+  Imam-e-Asr ghar mein aa rahe haiṅ
 
   8
-  Na phat jaaye kahin maa ka kaleja
-  Sina seene pe akbar khaa rahe hai
+  Na phat jaaye kahiṅ maaṅ ka kaleja
+  Sinaaṅ sine pe Akbar khaa rahe haiṅ
 
   9
-  Ye dekha maadar e qasim ne maula
-  Utha kar ek gathri laa rahe hai
+  Ye dekha maadar-e-Qasim ne Maula
+  Utha kar ek gathri laa rahe haiṅ
 
   10
-  Qamar dekho bicha kar chandni ko
-  Zameen pa aasman ko laa rahe hai
+  Qamar dekho bichhaa kar chaandni ko
+  Zamiṅ pe aasmaaṅ ko laa rahe haiṅ
 # source_id: nohayonline:e34da3c5f1dd5810f932
 # source_url: https://www.nohayonline.com/details_content.php?id=2627
 # raw_sha256: 9d5b6655c9c5d9a3d56c8230f2abca6dc70fc0ced5d908733523313ac9d2d4ff
 ---
 مولا آ رہے ہیں
-ہمارےگھر میں مولا آ رہے ہیں
-عزاخانے سجاے جا رہے ہیں
+ہمارے گھر میں مولا آ رہے ہیں
+
+عزاخانے سجائے جا رہے ہیں
+ہمارے گھر میں مولا آ رہے ہیں
 
 ۱
 کسی کی بھوک کا صدقہ تو دیکھو
@@ -78,8 +83,8 @@ romanLyrics: |-
 زیارت کو ملایک آ رہے ہیں
 
 ۵
-بڑے چھوٹوں کو ممبر پر بٹھا کر
-ہے کیا کربوبلا سمجھا رہے ہیں
+بڑے چھوٹوں کو منبر پر بٹھا کر
+ہے کیا کرب و بلا سمجھا رہے ہیں
 
 ۶
 اگر چہ کٹ چکے بازو ہیں لیکن
@@ -95,7 +100,7 @@ romanLyrics: |-
 
 ۹
 یہ دیکھا مادر قاسم نے مولا
-اٹھا کر ایک گھٹڑی لا رہے ہیں
+اٹھا کر ایک گٹھڑی لا رہے ہیں
 
 ۱۰
 قمر دیکھو بچھا کر چاندنی کو
