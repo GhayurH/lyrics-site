@@ -6,52 +6,53 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Kazmi Brothers"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kaash akbar tere jaisa tera beta hota
-  Tujhko andaza mere darde jigar ka hota
+  Kaash Akbar tere jaisa tera beta hota
+  Tujh ko andaaza mere dard-e-jigar ka hota
 
   1
-  Maangne aata jawani mein wo marne ki riza
-  Aur beta bhi tera hota mohamed jaisa
-  Pooch kar dil se bata haal tera kya hota
+  Maangne aata jawaani meiṅ wo marne ki raza
+  Aur beta bhi tira hota Muhammad jaisa
+  Puchh kar dil se bata haal tira kya hota
 
   2
-  Kis tarha karta jawan laal ko rukhsat beta
-  Kaise deta usay marne ki ijazat beta
-  Teri behno ne jise naaz se paala hota
+  Kis tarah karta jawaaṅ laal ko rukhsat beta
+  Kaise deta use marne ki ijaazat beta
+  Teri behnoṅ ne jise naaz se paala hota
 
   3
-  Kaampte haath larazte huwe saanson ke qadam
-  Kis tarha dekhta aankhon se nikalte huwe dam
-  Pyaar bhi us se tujhe sab se zyada hota
+  Kaampte haath larazte hue saansoṅ ke qadam
+  Kis tarah dekhta aankhoṅ se nikalte hue dam
+  Pyaar bhi us se tujhe sab se ziyaada hota
 
   4
-  Tere hisse mein meri jaisi ghareebi aati
-  Waqt se pehle mere laal zaeefi aati
-  Wo pisar saamne jab khoon mein dooba hota
+  Tere hisse meiṅ miri jaisi gharibi aati
+  Waqt se pehle mire laal zaifi aati
+  Wo pisar saamne jab khun meiṅ duba hota
 
   5
-  Dekhta aankhon se jab noor-e-nazar ke tukde
-  Baap ke moo se nikal aate jigar ke tukde
-  Saath barchi ke jo haathon pe kaleja hota
+  Dekhta aankhoṅ se jab nur-e-nazar ke tukre
+  Baap ke muṅh se nikal aate jigar ke tukre
+  Saath barchhi ke jo haathoṅ pe kaleja hota
 
   6
-  Khaak par khoon mein tadapti ho nabi ki tasveer
-  Sabr kar leta bata haath mein rakh ke shamsheer
-  Jab ke haste huwe qaatil ko bhi dekha hota
+  Khaak par khuṅ meiṅ tarapti ho Nabi ki tasvir
+  Sabr kar leta bata haath meiṅ rakh kar shamshir
+  Jab ke haṅste hue qaatil ko bhi dekha hota
 
   7
-  Tujhko maaloom bhi hota na uthega ye pisar
-  Kya tere dil pe guzarti ye bata de akbar
-  Uski sughra ka bhi khat aane hi waala hota
+  Tujh ko maalum bhi hota na uthega ye pisar
+  Kya tire dil pe guzarti ye bata de Akbar
+  Us ki Sughra ka bhi khat aane hi waala hota
 
   8
-  Bas ye kehte thay takallum shah e waala ro kar
-  Hoti akbar teri aulaad zamane mein agar
-  Tujhko ehsaas mere dil ki tadap ka hota
+  Bas ye kehte the Takallum Shah-e-waala ro kar
+  Hoti Akbar tiri aulaad zamaane meiṅ agar
+  Tujh ko ehsaas mire dil ki tarap ka hota
 # source_id: nohayonline:21883e74bb62e70493f3
 # source_url: https://www.nohayonline.com/details_content.php?id=2804
 # raw_sha256: 31605b19a857848d0fdb2e8b74e9479a3da80a54099ec50ab637c893b68659a4
