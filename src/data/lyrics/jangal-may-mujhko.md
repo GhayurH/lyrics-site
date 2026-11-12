@@ -1,69 +1,70 @@
 ---
 title: "جنگل میں مجھکو چھوڑ کے اکبر کہاں گئے"
-alternateTitle: "Jangal May Mujhko"
+alternateTitle: "Jangal Mein Mujhko"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Lakhnavi"
+reciter: "Afzal Mirza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jangal mein mujhko chod kar akbar kahan gaye
-  Chilla rahi hai dayr se maadar kahan gaye
+  Jangal mein mujhko chhor kar Akbar kahaaṅ gaye
+  Chilla rahi hai der se maadar kahaaṅ gaye
 
   1
-  Sadme teri judaai ke kaise uthaye maa
-  Awaaz kuch to do mere dilbar kahan gaye
+  Sadme teri judaai ke kaise uthaae maaṅ
+  Aawaaz kuchh to do mere dilbar kahaaṅ gaye
 
   2
-  Seene mein isteraab hai dar par nigaah hai
-  Ay mere hum shabihe payambar kahan gaye
+  Sine mein iztiraab hai dar par nigaah hai
+  Ae mere ham-shabih-e-Payambar kahaaṅ gaye
 
   3
-  Paigham maut ka tha ye attharwan baras
-  Noor e nigaah sibte payambar kahan gaye
+  Paighaam maut ka tha ye athaarwaaṅ baras
+  Nur-e-nigaah Sibt-e-Payambar kahaaṅ gaye
 
   4
-  Ay hashmi jawan tamanna e fatema
-  Ay arzoo e saaqi e kausar kahan gaye
+  Ae Haashmi jawaaṅ tamanna-e-Faatima
+  Ae aarzu-e-Saaqi-e-Kausar kahaaṅ gaye
 
   5
-  Shabbir ki nigaah mein tareek hai jahan
-  Laila ke chand mere munawar kahan gaye
+  Shabbir ki nigaah mein taarik hai jahaaṅ
+  Laila ke chaand mere munawwar kahaaṅ gaye
 
   6
-  Ghar hai udaas bali sakina hai beqarar
-  Ay rooh e jaan e hyder o safdar kahan gaye
+  Ghar hai udaas baali Sakina hai beqaraar
+  Ae ruh-e-jaan-e-Haider o Safdar kahaaṅ gaye
 
   7
-  Ab kaise dekhe nana ki tasveer ko hussain
-  Aaeena e jamaal e payambar kahan gaye
+  Ab kaise dekhe naana ki taswir ko Husain
+  Aaina-e-jamaal-e-Payambar kahaaṅ gaye
 
   8
-  Maa tum ko dhoondti hai andhere mein raat ke
-  Ghar bhar ki raushni mahe anwar kahan gaye
+  Maaṅ tum ko dhundti hai andhere mein raat ke
+  Ghar bhar ki raushni maah-e-anwar kahaaṅ gaye
 
   9
-  Aada e deen le gaye asbaab loot kar
-  Chinti hai ab sakina ki chadar kahan gaye
+  Aadaa-e-din le gaye asbaab lut kar
+  Chhinti hai ab Sakina ki chaadar kahaaṅ gaye
 
   10
-  Aaya hai shimr qaime jalane ke waaste
-  Chadar haram ki chinti hai akbar kahan gaye
+  Aaya hai Shimr khaime jalaane ke waaste
+  Chaadar haram ki chhinti hai Akbar kahaaṅ gaye
 
   11
-  Jaa kar madine waalon ko mai doongi kya jawab
-  Poochenge jab jawan ali akbar kahan gaye
+  Jaa kar Madine waaloṅ ko main duṅgi kya jawaab
+  Puchheṅge jab jawaan Ali Akbar kahaaṅ gaye
 
   12
-  Saydaniyo ke beech mein laila ke thay ye bain
-  Maa ko akela chod kar akbar kahan gaye
+  Sayyidaaniyoṅ ke bich mein Laila ke the ye bain
+  Maaṅ ko akela chhor kar Akbar kahaaṅ gaye
 
   13
-  Jab silsila hayaat ka tootega ay qamar
-  Poochenge log khaadim e sarwar kahan gaye
+  Jab silsila hayaat ka tutega ae Qamar
+  Puchheṅge log khaadima-e-Sarwar kahaaṅ gaye
 # source_id: nohayonline:b52824f4248c2e1accdb
 # source_url: https://www.nohayonline.com/details_content.php?id=1877
 # raw_sha256: 7ad1e839764398bb2ab4917347cda81d81556c61d5e31e6cce9068ce396f1d05
@@ -72,7 +73,7 @@ romanLyrics: |-
 چلا رہی ہے دیر سے مادر کہاں گئے
 
 ۱
-صدمے تیری جدائی کے کیسے اٹھاے ماں
+صدمے تیری جدائی کے کیسے اٹھائے ماں
 آواز کچھ تو دو میرے دلبر کہاں گئے
 
 ۲
@@ -84,8 +85,8 @@ romanLyrics: |-
 نورِ نگاہ سبط پیمبر کہاں گئے
 
 ۴
-اے ہاشمی جواں تمناے فاطمہ
-اے آرزوئے ثاقیء کوثر کہاں گئے
+اے ہاشمی جواں تمنائے فاطمہ
+اے آرزوئے ساقیٔ کوثر کہاں گئے
 
 ۵
 شبیر کی نگاہ میں تاریک ہے جہاں
@@ -93,18 +94,18 @@ romanLyrics: |-
 
 ۶
 گھر ہے اداس بالی سکینہ ہے بیقرار
-اے روح جان حیدر و صفدر کہاں گےء
+اے روح جان حیدر و صفدر کہاں گئے
 
 ۷
 اب کیسے دیکھے نانا کی تصویر کو حسین
-آیینہء جمال پیمبر کہاں گئے
+آئینۂ جمال پیمبر کہاں گئے
 
 ۸
 ماں تم کو ڈھونڈتی ہے اندھیرے میں رات کے
 گھر بھر کی روشنی مہ انور کہاں گئے
 
 ۹
-اعداے دین لے گےء اسباب لوٹ کر
+اعدائے دین لے گئے اسباب لوٹ کر
 چھنتی ہے اب سکینہ کی چادر کہاں گئے
 
 ۱۰
@@ -112,7 +113,7 @@ romanLyrics: |-
 چادر حرم کی چھنتی ہے اکبر کہاں گئے
 
 ۱۱
-جا کر مدینے والوں کو میں دونگی کیا جواب
+جا کر مدینے والوں کو میں دوں گی کیا جواب
 پوچھیں گے جب جوان علی اکبر کہاں گئے
 
 ۱۲
@@ -121,4 +122,4 @@ romanLyrics: |-
 
 ۱۳
 جب سلسلہ حیات کا ٹوٹے گا اے قمر
-پوچھیں گے لوگ خادمہء سرور کہاں گئے
+پوچھیں گے لوگ خادمۂ سرور کہاں گئے
