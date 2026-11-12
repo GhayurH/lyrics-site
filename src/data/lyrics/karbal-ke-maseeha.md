@@ -1,57 +1,58 @@
 ---
 title: "کربل کے مسیحا سے اسلام شفا مانگے"
-alternateTitle: "Karbal Ke Maseeha"
+alternateTitle: "Karbal Ke Masiha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazher Abedi"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Karbal ke maseeha se islam shifa maange
-  Ta hashr zamane mein jeene ki dua maange
+  Karbal ke Masiha se Islam shifa maange
+  Ta hashr zamaane mein jine ki dua maange
 
   1
-  Sajjad sakina sa qaidi na koi aaye
-  Mehfooz koi qaidi aisa na kiya jaaye
-  Zanjeer dua maange zindan bhi dua maange
+  Sajjad Sakina sa qaidi na koi aaye
+  Mehfuz koi qaidi aisa na kiya jaaye
+  Zanjir dua maange zindaan bhi dua maange
 
   2
-  Beparda rasan basta paband e mehan zainab
-  Majlis mein shahe deen ki sarwar ki behen zainab
-  Kuch aah o buka maange kuch ashk e aza maange
+  Beparda rasan basta paaband-e-mehan Zainab
+  Majlis mein Shah-e-diṅ ki Sarwar ki behen Zainab
+  Kuchh aah o buka maange kuchh ashk-e-aza maange
 
   3
-  Jis bacchi ko naazon se shabbir ne paala tha
-  Palkon pe bithaya tha seene pe sulaya tha
-  Zindan mein wohi bacchi khaliq se qaza maange
+  Jis bachchi ko naazoṅ se Shabbir ne paala tha
+  Palkoṅ pe bithaaya tha sine pe sulaaya tha
+  Zindaaṅ mein wohi bachchi Khaaliq se qaza maange
 
   4
-  Mayyat hai padi jiski zindan ke andhere mein
-  Turbat hai bani jiski zindan ke andhere mein
-  Us bacchi ke baba se suraj bhi ziya maange
+  Mayyat hai pari jis ki zindaaṅ ke andhere mein
+  Turbat hai bani jis ki zindaaṅ ke andhere mein
+  Us bachchi ke Baba se suraj bhi ziya maange
 
   5
-  Sajjad ke haathon par laasha hai sakina ka
-  Allah lahoo mein tar kurta hai sakina ka
-  Ye dekh ke zindan bhi mehshar ki fiza maange
+  Sajjad ke haathoṅ par laasha hai Sakina ka
+  Allah lahu mein tar kurta hai Sakina ka
+  Ye dekh ke zindaaṅ bhi mahshar ki fiza maange
 
   6
-  Sajjad sakina ke abbas ke ghamkhwaron
-  Ab tum se nabi zaadi ay sheh ke azadaron
-  Turbat pe sakina ki matam ki sada maange
+  Sajjad Sakina ke Abbas ke ghamkhwaaroṅ
+  Ab tum se Nabi zaadi ae Shah ke azaadaaroṅ
+  Turbat pe Sakina ki maatam ki sada maange
 
   7
-  Karbal mein sakina ka daaman jo jala ya rab
-  Ummat ne yateema ko pursa ye diya ya rab
-  Emaan usi daaman ki ab tak bhi hawa maange
+  Karbal mein Sakina ka daaman jo jala ya Rab
+  Ummat ne yatima ko pursa ye diya ya Rab
+  Imaan usi daaman ki ab tak bhi hawa maange
 
   8
-  Padne ke liye mazhar zindan mein ye nauha
-  Aankhon se bahane ko toofan phir ashkon ka
-  Sabir shahe waala se zainab se riza maange
+  Parhne ke liye Mazhar zindaaṅ mein ye nauha
+  Aankhoṅ se bahaane ko tufaan phir ashkoṅ ka
+  Sabir Shah-e-waala se Zainab se riza maange
 # source_id: nohayonline:1211249f7119ceb172d1
 # source_url: https://www.nohayonline.com/details_content.php?id=3259
 # raw_sha256: 89aee8d96c9e2844b931900f1d9f590718fb4e7298a8b70bf5eba56bc77aad08
@@ -60,8 +61,8 @@ romanLyrics: |-
 تا حشر زمانے میں جینے کی دعا مانگے
 
 ۱
-سجاد سکینہ سا قیدی نہ کوئی آے
-محفوظ کوی قیدی ایسا نہ کیا جائے
+سجاد سکینہ سا قیدی نہ کوئی آئے
+محفوظ کوئی قیدی ایسا نہ کیا جائے
 زنجیر دعا مانگے زندان بھی دعا مانگے
 
 ۲

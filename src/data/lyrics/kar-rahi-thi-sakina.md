@@ -6,125 +6,130 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Fakhri Meerthi"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kar rahi thi sakina fughan
-  Kyun nahi aaye ay baba jaan
-  Kaan se chin gayi baaliyan
-  
+  Kar rahi thi Sakina fughaaṅ
+  Kiuṅ nahiṅ aaye ae Baba jaaṅ
+
+  Kaan se chhin gayiṅ baaliyaaṅ
+  Kiuṅ nahiṅ aaye ae Baba jaaṅ
+
   1
-  Seh ke shaam e ghariban ki uftaad ko
-  Lab hilaye phupi ne jo fariyad ko
-  Unke baba chale aaye imadad ko
-  Koi sunta nahi meri rudaad ko
-  Kar rahi hoon mai kab se fughan
-  
+  Seh ke shaam-e-gharibaaṅ ki uftaad ko
+  Lab hilaaye phuphi ne jo fariyaad ko
+  Un ke Baba chale aaye imdaad ko
+  Koi sunta nahiṅ meri rudaad ko
+  Kar rahi huṅ main kab se fughaaṅ
+
   2
-  Haye ghurbat mein saare sahare gaye
-  Pusht par taziyane bhi maare gaye
-  Chadrein chin gayi goshware gaye
-  Al-madad al-madad hum pukare gaye
-  Goonjti reh gayi siskiyan
-  
+  Haaye ghurbat mein saare sahaare gaye
+  Pusht par taaziyaane bhi maare gaye
+  Chaadareṅ chhin gayiṅ goshwaare gaye
+  Almadad almadad ham pukaare gaye
+  Gunjti reh gayi siskiyaaṅ
+
   3
-  Seh liya ammu jaise fidayi ka gham
-  Asghare bezaban jaise bhai ka gham
-  Jaan lelega daaghe judaai ka gham
-  Aur sitam dar sitam beridayi ka gham
-  Haye baandhi gayi reesma
-  
+  Seh liya ammu jaise fidaai ka gham
+  Asghar-e-bezabaaṅ jaise bhaai ka gham
+  Jaan le lega daagh-e-judaai ka gham
+  Aur sitam dar sitam beridaai ka gham
+  Haaye baandhi gayi rismaaṅ
+
   4
-  Jin se dhaaras thi mujhko wo saare gaye
-  Aur phupi jaan ke dono dulaare gaye
+  Jin se dhaaras thi mujh ko wo saare gaye
+  Aur phuphi jaan ke donoṅ dulaare gaye
   Saare hamdard maqtal mein maare gaye
-  Is aziyat se gohar utaare gaye
-  Khoon hai kaano se ab tak rawan
-  
+  Is aziyat se gauhar utaare gaye
+  Khuṅ hai kaanoṅ se ab tak rawaaṅ
+
   5
-  Kya kahe hum ye kya kya jafa hogayi
-  Jo jafa hogayi bekhata hogayi
-  Hadh ye hai zulm ki inteha hogayi
-  Hai aale nabi berida hogayi
-  Durre khaata raha natawan
-  
+  Kya kahe ham ye kya kya jafa ho gayi
+  Jo jafa ho gayi bekhata ho gayi
+  Had ye hai zulm ki inteha ho gayi
+  Hai Aal-e-Nabi berida ho gayi
+  Durre khaata raha naatawaaṅ
+
   6
   Phande rassi ke gardan mein kaste rahe
-  Phusht par taziyane baraste rahe
-  Dekh kar hum ko kuffaar haste rahe
-  Aah karne ko bhi hum taraste rahe
-  Har qadam thi nayi sakhtiyan
-  
+  Pusht par taaziyaane baraste rahe
+  Dekh kar ham ko kuffaar hanste rahe
+  Aah karne ko bhi ham taraste rahe
+  Har qadam thi nayi sakhtiyaaṅ
+
   7
-  Kaunsa hai sitam jo na dhaaya gaya
-  Hum ko kaanto pe paidal chala gaya
-  Berida karke dar dar phiraya gaya
-  Aur bazaar mein hum ko laaya gaya
-  Dil se uth'ta hai gham ka dhuaan
-  
+  Kaun sa hai sitam jo na dhaaya gaya
+  Ham ko kaantoṅ pe paidal chala gaya
+  Berida kar ke dar dar phiraaya gaya
+  Aur baazaar mein ham ko laaya gaya
+  Dil se uthta hai gham ka dhuaaṅ
+
   8
-  Humko kitna sataya gaya be-sabab
-  Haye darbar mein hum ko ghere thay sab
-  Dha rahe thay sitamgaar ye bhi ghazab
-  Kar rahe thay kaneezi mein mujhko talab
-  Haye gham se nikalti thi jaan
-  
+  Ham ko kitna sataaya gaya besabab
+  Haaye darbaar mein ham ko ghere the sab
+  Dhaa rahe the sitamgar ye bhi ghazab
+  Kar rahe the kanizi mein mujh ko talab
+  Haaye gham se nikalti thi jaaṅ
+
   9
-  Hum ko bazaar se bhi guzara gaya
-  Saath bemaar e gham besahara gaya
-  Haye be-maut yun humko maara gaya
-  Naam lekar phupi ka pukara gaya
-  Kya qayamat ka tha wo samaan
-  
+  Ham ko baazaar se bhi guzaara gaya
+  Saath bimaar-e-gham besahaara gaya
+  Haaye bemaut yuṅ ham ko maara gaya
+  Naam le kar phuphi ka pukaara gaya
+  Kya qayaamat ka tha wo samaaṅ
+
   10
-  Apni aagosh mein leke baba ka sar
-  Waqte rehlat sakina hui nauhagar
-  Aamir o fakhri bole shahe behrobar
-  Tha mai hamraah naize pe laqte jigar
-  Ab na ro kar karo ye bayan
+  Apni aaghosh mein le ke Baba ka sar
+  Waqt-e-rehlat Sakina hui nauhagar
+  Aamir o Fakhri bole Shah-e-bahr o bar
+  Tha main hamraah naize pe lagte jigar
+  Ab na ro kar karo ye bayaaṅ
 # source_id: nohayonline:7a322d5e268e8a5b566a
 # source_url: https://www.nohayonline.com/details_content.php?id=3649
 # raw_sha256: 2eeb7ce1724401c80b64de21658f8246f02d6108a8f589b6175bec54a84ef11c
 ---
 
 کر رہی تھی سکینہ فغاں
-کیوں نہیں آے اے‌ بابا جاں
-کان سے چھن گیء بالیاں
+کیوں نہیں آئے اے بابا جاں
+
+کان سے چھن گئیں بالیاں
+کیوں نہیں آئے اے بابا جاں
 
 ۱
 سہہ کے شام غریباں کی افتاد کو
-لب ہلاے پھپھی نے جو فریاد کو
-ان کے بابا چلے آے امداد کو
-کوی سنتا نہیں میری روداد کو
+لب ہلائے پھپھی نے جو فریاد کو
+ان کے بابا چلے آئے امداد کو
+کوئی سنتا نہیں میری روداد کو
 کر رہی ہوں میں کب سے فغاں
 
 ۲
-ہاے غربت میں سارے سہارے گےء
+ہائے غربت میں سارے سہارے گئے
 پشت پر تازیانے بھی مارے گئے
-چادریں چھن گیء گوشوارے گےء
-المدد المدد ہم پکارے گےء
-گونجتی رہ گیء سسکیاں
+چادریں چھن گئیں گوشوارے گئے
+المدد المدد ہم پکارے گئے
+گونجتی رہ گئی سسکیاں
 
 ۳
 سہہ لیا عمو جیسے فدائی کا غم
 اصغر بے زباں جیسے بھائی کا غم
 جان لے لے گا داغ جدائی کا غم
 اور ستم در ستم بے ردائی کا غم
-ہاے باندھی گیء ریسماں
+ہائے باندھی گئی ریسماں
 
 ۴
-جن سے ڈھارس تھی مجھ کو وہ سارے گےء
-اور پھپھی جان کے دونوں دلارے گےء
-سارے ہمدرد مقتل میں مارے گےء
-اس اذیت سے گوہر اتارے گےء
+جن سے ڈھارس تھی مجھ کو وہ سارے گئے
+اور پھپھی جان کے دونوں دلارے گئے
+سارے ہمدرد مقتل میں مارے گئے
+اس اذیت سے گوہر اتارے گئے
 خوں ہے کانوں سے اب تک رواں
 
 ۵
-کیا کہے ہم یہ کیا کیا جفا ہو گیء
-جو جفا ہو گیء بے خطا ہو گیء
-حد یہ ہے ظلم کی انتہا ہو گیء
-ہے آل نبی بے ردا ہو گیء
+کیا کہے ہم یہ کیا کیا جفا ہو گئی
+جو جفا ہو گئی بے خطا ہو گئی
+حد یہ ہے ظلم کی انتہا ہو گئی
+ہے آل نبی بے ردا ہو گئی
 درے کھاتا رہا ناتواں
 
 ۶
@@ -132,7 +137,7 @@ romanLyrics: |-
 پشت پر تازیانے برستے رہے
 دیکھ کر ہم کو کفار ہنستے رہے
 آہ کرنے کو بھی ہم ترستے رہے
-ہر قدم تھی نیء سختیاں
+ہر قدم تھی نئی سختیاں
 
 ۷
 کونسا ہے ستم جو نہ ڈھایا گیا
@@ -143,21 +148,21 @@ romanLyrics: |-
 
 ۸
 ہم کو کتنا ستایا گیا بے سبب
-ہاے دربار میں ہم کو گھیرے تھے سب
+ہائے دربار میں ہم کو گھیرے تھے سب
 ڈھا رہے تھے ستمگر یہ بھی غضب
-کر رہے تھے کنیزی میں مجھکو طلب
-ہاے غم سے نکلتی تھی جاں
+کر رہے تھے کنیزی میں مجھ کو طلب
+ہائے غم سے نکلتی تھی جاں
 
 ۹
 ہم کو بازار سے بھی گزارا گیا
 ساتھ بیمار غم بے سہارا گیا
-ہاے بے موت یوں ہم کو مارا گیا
+ہائے بے موت یوں ہم کو مارا گیا
 نام لے کر پھپھی کا پکارا گیا
 کیا قیامت کا تھا وہ سماں
 
 ۱۰
 اپنی آغوش میں لے کے بابا کا سر
-وقتِ رحلت سکینہ ہوی نوحہ گر
-عامر و فقری بولے شہ بحروبر
+وقتِ رحلت سکینہ ہوئی نوحہ گر
+عامر و فخری بولے شہ بحروبر
 تھا میں ہمراہ نیزے پہ لگتے جگر
 اب نہ رو کر کرو یہ بیاں

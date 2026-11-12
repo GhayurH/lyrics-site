@@ -9,37 +9,37 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Karbal ki kahani jab koi bhi sunaega
-  Dil walon ki aankhon se ek darya bahaega
+  Karbal ki kahaani jab koi bhi sunaaye ga
+  Dil waaloṅ ki aankhoṅ se ik darya bahaaye ga
 
   1
-  Woh qafila Sarwar ka jo shaan se nikla tha
-  Sughra ko khabar kya thi na laut ke aaega
+  Woh qaafila Sarwar ka jo shaan se nikla tha
+  Sughra ko khabar kya thi na laut ke aaye ga
   Zehra Zehra pursa lo bahattar ka
 
   2
   Tuti hai kamar Shah ki ghabra na magar Akbar
-  Farzand-e-Nabi teri mayyat ko uthaega
+  Farzand-e-Nabi teri mayyat ko uthaaye ga
   Zahra Zahra Akbar ka bhi pursa lo
 
   3
   Sote hi na the Asghar jhule mein tarapte the
-  Maadar ko khabar kya thi ek tir sulaega
+  Maadar ko khabar kya thi ik tir sulaaye ga
   Zahra Zahra Asghar ka bhi pursa lo
 
   4
-  Pamal hua Qasim jab ghoron ki tapon se
-  Kis tarha chacha teri mayyat ko uthaega
+  Paamaal hua Qasim jab ghoroṅ ki taapoṅ se
+  Kis tarah chacha teri mayyat ko uthaaye ga
   Zahra Zahra Qasim ka bhi pursa lo
 
   5
-  Tha haathon ke katne ka kuch gham na Dilawar ko
-  Sayyidaniyon ka parda ab kaun bachaega
+  Tha haathoṅ ke katne ka kuchh gham na Dilaawar ko
+  Sayyidaaniyoṅ ka parda ab kaun bachaaye ga
   Zahra Zahra Abbas ka pursa lo
 
   6
-  Sarwar ne uthaye the sab saathiyon ke laashe
-  Shabbir tera laasha ab kaun uthaega
+  Sarwar ne uthaaye the sab saathiyoṅ ke laashe
+  Shabbir tera laasha ab kaun uthaaye ga
   Zahra Zahra Shabbir ka pursa lo
 # source_id: personal_notebook:temp-import-odt-2026-11-08
 # source_notes: Transcribed from personal notebook; original Roman/Urdu checked against notebook
