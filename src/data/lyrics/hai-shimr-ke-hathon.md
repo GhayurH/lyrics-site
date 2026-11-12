@@ -1,60 +1,62 @@
 ---
 title: "ہے شمر کے ہاتھوں میں خنجر"
-alternateTitle: "Hai Shimr Ke Hathon"
+alternateTitle: "Hai Shimr Ke Haathoṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Hasan Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hai shimr ke haaton mein khanjar
-  Khanjar ke tale sarwar ka gala
-  Zakhmi hai badan jalti hai zameen
-  Reti pe tadapta hai pyasa
+  Hai Shimr ke haathoṅ meiṅ khanjar
+  Khanjar ke tale Sarwar ka gala
+
+  Zakhmi hai badan jalti hai zamiṅ
+  Reti pe tarapta hai pyaasa
 
   1
-  Faryad kuna hai jinn o malak
-  Hilti hai zameen larza hai falak
-  Kuch dayr mein ab barsega lahoo
-  Katne ko hai sheh ka pyasa gala
-  
+  Faryaad kunaṅ hai jin o malak
+  Hilti hai zamiṅ larza hai falak
+  Kuchh der meiṅ ab barse ga lahu
+  Katne ko hai Shah ka pyaasa gala
+
   2
   Aabaad tha kaisa ghar kal tak
-  Thay akbar aur asghar kal tak
-  Veraan hai zehra ka chaman
-  Chota hi bacha hai aur na bada
-  
+  The Akbar aur Asghar kal tak
+  Viraan hai Zehra ka chaman
+  Chhota hi bacha hai aur na bara
+
   3
-  Abbas akela chod gaye
-  Ghurbat mein kamar ko tod gaye
-  Be-aas pada hai jaane nabi
-  Ab kaun sune zainab ki sada
-  
+  Abbas akela chhor gaye
+  Ghurbat meiṅ kamar ko tor gaye
+  Beaas para hai jaan-e-Nabi
+  Ab kaun sune Zainab ki sada
+
   4
-  Bacchi pa yateemi chayegi
-  Rone pe tamache khayegi
-  Ab aag lagegi qaimon mein
-  Chin jayegi ab zainab ki rida
-  
+  Bachchi pe yatimi chhaaye gi
+  Rone pe tamaanche khaaye gi
+  Ab aag lage gi khaimoṅ meiṅ
+  Chhin jaaye gi ab Zainab ki rida
+
   5
-  Kuch dayr hui godi ujdi
-  Faryad kare to kis se kare
-  Ab maang ujadne waali hai
-  Jaaye to kahan jaaye laila
-  
+  Kuchh der hui godi ujri
+  Faryaad kare to kis se kare
+  Ab maang ujarne waali hai
+  Jaaye to kahaaṅ jaaye Laila
+
   6
-  Us pyaas ka aalam kya ho bayan
-  Jalta tha jigar nazron mein dhuaan
+  Us pyaas ka aalam kya ho bayaaṅ
+  Jalta tha jigar nazroṅ meiṅ dhuaaṅ
   Ek aah nikalti dil se agar
-  Jal jaati zameen e karbobala
-  
+  Jal jaati zamin-e-Karbobala
+
   7
   Is se behtar batla teri
-  Kismat ki balandi kya hogi
-  Darbar e hussaini mein ahsan
-  Maqbool hua tera nauha
+  Qismat ki bulandi kya ho gi
+  Darbaar-e-Husaini meiṅ Ehsaaṅ
+  Maqbul hua tera nauha
 # source_id: nohayonline:649a27cbfd63718e6d68
 # source_url: https://www.nohayonline.com/details_content.php?id=3338
 # raw_sha256: b07758e4bdd7b89fc49dcb33bf85e4a0fb2e327e4ee52c1b9da586c68cdfbcef
@@ -62,6 +64,7 @@ romanLyrics: |-
 
 ہے شمر کے ہاتھوں میں خنجر
 خنجر کے تلے سرور کا گلا
+
 زخمی ہے بدن جلتی ہے زمیں
 ریتی پہ تڑپتا ہے پیاسا
 
@@ -78,22 +81,22 @@ romanLyrics: |-
 چھوٹا ہی بچا ہے اور نہ بڑا
 
 ۳
-عباس اکیلا چھوڑ گےء
-غربت میں کمر کو توڑ گےء
+عباس اکیلا چھوڑ گئے
+غربت میں کمر کو توڑ گئے
 بے آس پڑا ہے جان نبی
 اب کون سنے زینب کی صدا
 
 ۴
-بچی پہ یتیمی چھاے گی
-رونے پہ طمانچے کھاے گی
+بچی پہ یتیمی چھائے گی
+رونے پہ طمانچے کھائے گی
 اب آگ لگے گی خیموں میں
 چھن جائے گی اب زینب کی ردا
 
 ۵
-کچھ دیر ہوی گودی اجڑی
+کچھ دیر ہوئی گودی اجڑی
 فریاد کرے تو کس سے کرے
 اب مانگ اجڑنے والی ہے
-جاے تو کہاں جاے لیلیٰ
+جائے تو کہاں جائے لیلیٰ
 
 ۶
 اس پیاس کا عالم کیا ہو بیاں

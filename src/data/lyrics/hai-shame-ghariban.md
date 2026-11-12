@@ -1,42 +1,45 @@
 ---
 title: "ہے شام غریباں"
-alternateTitle: "Hai Shame Ghariban"
+alternateTitle: "Hai Shaam-e-Gharibaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Haider Khursheed"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hai shaam e ghariban
-  
+  Hai shaam-e-gharibaṅ
+
+  Jalte hue khaime haiṅ har suṅ dhuaaṅ dhuaaṅ
+  Hai shaam-e-gharibaṅ hai shaam-e-gharibaṅ
+
   1
-  Jalte huwe qaime hai har soo dhuaan dhuaan
-  Karbal mein dhal gaye hai shaam e alam ke saaye
-  Baithi hai dukhi zainab laashon pe sar jhukaye
-  Hai dhoondti maqtal mein bacchon ko bibiyan
-  
+  Karbal meiṅ dhal gaye haiṅ shaam-e-alam ke saaye
+  Baithi hai dukhi Zainab laashoṅ pe sar jhukaaye
+  Hai dhundti maqtal meiṅ bachchoṅ ko bibiyaṅ
+
   2
   Waaris gaye sab maare jaaye to kidhar jaaye
-  Al haafiz o hafeez ki hai aa rahi sadayein
-  Hogayi hai sar barehna zahra ki betiyan
-  
+  Al haafiz o hafiz ki hai aa rahi sadaaeṅ
+  Ho gayi hai sar barehna Zahra ki betiyaṅ
+
   3
-  Baba ki sada sun kar aayi laash pe sakina
-  Jis seene pe soti thi aaya nazar kahin na
-  Baba ka chida seena teeron ke darmiyan
-  
+  Baaba ki sada sun kar aayi laash pe Sakina
+  Jis sine pe soti thi aaya nazar kahiṅ na
+  Baaba ka chhida sina tiroṅ ke darmiyaaṅ
+
   4
-  Jalta hua daaman hai kaano se lahoo jaari
-  Hai maarte tamache quran ke ye kaari
-  Kehti thi ro sakina baba ho tum kahan
-  
+  Jalta hua daaman hai kaanoṅ se lahu jaari
+  Hai maarte tamaache Quraan ke ye qaari
+  Kehti thi ro Sakina baaba ho tum kahaaṅ
+
   5
-  Jo hasbuna thay kehte ye unhi ka hi chalan hai
-  Khursheed karbala mein har laash bekafan hai
-  Pamaal hua karbal hai naatiq e quran
+  Jo hasbuna the kehte ye unhiṅ ka hi chalan hai
+  Khurshid Karbala meiṅ har laash bekafan hai
+  Paamaal hua Karbal hai naatiq-e-Quraan
 # source_id: nohayonline:e952c45c726e13f8b61e
 # source_url: https://www.nohayonline.com/details_content.php?id=2831
 # raw_sha256: 407adcc1aa467c9a698e4fc9d07b775a825d8e526e80b31043eb82c9d419377c
@@ -44,25 +47,27 @@ romanLyrics: |-
 
 ہے شام غریباں
 
-۱
 جلتے ہوئے خیمے ہیں ہر سوں دھواں دھواں
-کربل میں ڈھل گےء ہیں شام الم کے ساے
+ہے شام غریباں ہے شام غریباں
+
+۱
+کربل میں ڈھل گئے ہیں شام الم کے سائے
 بیٹھی ہے دکھی زینب لاشوں پہ سر جھکائے
 ہے ڈھونڈتی مقتل میں بچوں کو بیبیاں
 
 ۲
-وارث گےء سب مارے جاے تو کدھر جائے
+وارث گئے سب مارے جائے تو کدھر جائے
 الحفیظ کی ہے آ رہی صدائیں
-ہو گیء ہے سر برہنہ زہرا کی بیٹیاں
+ہو گئی ہے سر برہنہ زہرا کی بیٹیاں
 
 ۳
-بابا کی صدا سن کر آی لاش پہ سکینہ
+بابا کی صدا سن کر آئی لاش پہ سکینہ
 جس سینے پہ سوتی تھی آیا نظر کہیں نہ
 بابا کا چھدا سینہ تیروں کے درمیاں
 
 ۴
 جلتا ہوا دامن ہے کانوں سے لہو جاری
-ہے مارتے طمانچے قرآن کے یہ کاری
+ہے مارتے طمانچے قرآن کے یہ قاری
 کہتی تھی رو سکینہ بابا ہو تم کہاں
 
 ۵
