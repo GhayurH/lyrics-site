@@ -6,53 +6,57 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Asif Bijnori"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jiyo matamdaron jiyo jiyo pursadaron jiyo
-  Asif hai ye lab pe dua mere maalik ay mere khuda
-  Jab jaaun mai karbobala tab aaye ye aamir sada
+  Jiyo maatamdaaroṅ jiyo jiyo pursadaaroṅ jiyo
 
   1
-  Zehra ki dua ho tum zainab ki sada ho tum
-  Ghazi ki wafa ho tum khaaliq ki ataa ho tum
-  Har daur mein phoolo phalo jiyo pursadaron jiyo
+  Zehra ki dua ho tum Zainab ki sada ho tum
+  Ghaazi ki wafa ho tum Khaaliq ki ataa ho tum
+  Har daur mein phulo phalo jiyo pursadaaroṅ jiyo
 
   2
-  Jab jab bhi safe matam tum ghar mein bhichaoge
-  Aulaad e payambar pe ashkon ko bahaoge
-  Mai doongi dua tum ko jiyo pursadaron jiyo
+  Jab jab bhi saf-e-maatam tum ghar mein bichhaaoge
+  Aulaad-e-Payambar pe ashkoṅ ko bahaaoge
+  Main duṅ gi dua tum ko jiyo pursadaaroṅ jiyo
 
   3
-  Mehshar mein shafa'at ki zaamin hoo wafadaron
-  Waada hai mera tum se ay mere azadaron
-  Ek tum hi to mere ho jiyo pursadaron jiyo
+  Mehshar mein shafaaat ki zaamin huṅ wafaadaaroṅ
+  Waada hai mera tum se ae mere azaadaaroṅ
+  Ik tum hi to mere ho jiyo pursadaaroṅ jiyo
 
   4
-  Mitne na kabhi dena jaagir e azadari
-  Har dil pe raqam kardo tafseer e azadari
-  Ay mere azadaron jiyo pursadaron jiyo
+  Mitne na kabhi dena jaagir-e-azaadaari
+  Har dil pe raqam kar do tafsir-e-azaadaari
+  Ae mere azaadaaroṅ jiyo pursadaaroṅ jiyo
 
   5
-  Mushkil mein kabhi tumse moo apna na modungi
-  Ay mere shion tum ko mai tanha na chodungi
-  Zehra pe bharosa karo jiyo pursadaron jiyo
+  Mushkil mein kabhi tum se muṅh apna na moruṅ gi
+  Ae mere Shioṅ tum ko main tanha na chhoruṅ gi
+  Zehra pe bharosa karo jiyo pursadaaroṅ jiyo
 
   6
-  Zaalim ke mazaalim se lillaah na ghabrana
-  Matam ke musalle par jab chaaho tab aa jaana
-  Paaoge wahan mujhko jiyo pursadaron jiyo
+  Zaalim ke mazaalim se lillaah na ghabraana
+  Maatam ke musalle par jab chaaho tab aa jaana
+  Paaoge wahaaṅ mujh ko jiyo pursadaaroṅ jiyo
 
   7
-  Sar kat'ta hai kat jaaye maqsad pe na aanch aaye
-  Matam ye rahe baaqi ghar lut'ta hai lut jaaye
-  Bas khauf e khuda se daro jiyo pursadaron jiyo
+  Sar katta hai kat jaae maqsad pe na aanch aae
+  Maatam ye rahe baaqi ghar lutta hai lut jaae
+  Bas khauf-e-Khuda se daro jiyo pursadaaroṅ jiyo
 
   8
-  Har ranj o musibat se mai tumko bachaungi
-  Haa iske liye lekin bas itna mai chaahungi
-  Tum mere ho saabit karo jiyo pursadaron jiyo
+  Har ranj o musibat se main tum ko bachaauṅ gi
+  Haaṅ is ke liye lekin bas itna main chaahuṅ gi
+  Tum mere ho saabit karo jiyo pursadaaroṅ jiyo
+
+  9
+  Asif hai ye lab pe dua mere Maalik ae mere Khuda
+  Jab jaauṅ main Karbobala tab aae ye Aamir sada
+  Jiyo maatamdaaroṅ jiyo jiyo pursadaaroṅ jiyo
 # source_id: nohayonline:02563fbb41a0f02b9403
 # source_url: https://www.nohayonline.com/details_content.php?id=2445
 # raw_sha256: a9a089c777fc580d4173a00aa306953e92caa8bc6a64562996c0a4f83c91fe23
@@ -61,8 +65,6 @@ romanLyrics: |-
 # raw_sha256: 26849726f308d09df42385912588fa726f5f5d184c40511b92f9940e490aa5eb
 ---
 جیو ماتم داروں جیو جیو پرسہ داروں جیو
-آصف ہے یہ لب پہ دعا میرے مالک اے میرے خدا
-جب جاؤں میں کربوبلا تب آے یہ آمیر‌ صدا
 
 ۱
 زہرا کی دعا ہو تم زینب کی صدا ہو تم
@@ -86,20 +88,25 @@ romanLyrics: |-
 
 ۵
 مشکل میں کبھی تم سے منہ اپنا نہ موڑوں گی
-اے میرے شعیوں تم کو میں تنہا نہ چھوڑوں گی
+اے میرے شیعوں تم کو میں تنہا نہ چھوڑوں گی
 زہرا پہ بھروسہ کرو جیو پرسہ داروں جیو
 
 ۶
-ظالم کے مظالم سے لللہ نہ گھبرانا
+ظالم کے مظالم سے للہ نہ گھبرانا
 ماتم کے مصلے پر جب چاہو تب آ جانا
-پاؤ گے وہاں مجھکو جیو پرسہ داروں جیو
+پاؤ گے وہاں مجھ کو جیو پرسہ داروں جیو
 
 ۷
-سر کٹتا ہے کٹ جاے مقصد پہ نہ آنچ آے
-ماتم یہ رہے باقی گھر لٹتا ہے لٹ جاے
+سر کٹتا ہے کٹ جائے مقصد پہ نہ آنچ آئے
+ماتم یہ رہے باقی گھر لٹتا ہے لٹ جائے
 بس خوف خدا سے ڈرو جیو پرسہ داروں جیو
 
 ۸
 ہر رنج و مصیبت سے میں تم کو بچاؤں گی
 ہاں اس کے لئے لیکن بس اتنا میں چاہوں گی
 تم میرے ہو ثابت کرو جیو پرسہ داروں جیو
+
+۹
+آصف ہے یہ لب پہ دعا میرے مالک اے میرے خدا
+جب جاؤں میں کربوبلا تب آئے یہ عامر صدا
+جیو ماتم داروں جیو جیو پرسہ داروں جیو

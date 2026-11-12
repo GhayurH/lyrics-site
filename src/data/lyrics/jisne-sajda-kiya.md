@@ -5,55 +5,64 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jis ne sajda kiya chaand zehra ka tha khanjar talay
-  Jis ka koi na raha chaand zehra ka tha khanjar talay
+  Jis ne sajda kiya chaand Zehra ka tha khanjar tale
+  Jis ka koi na raha chaand Zehra ka tha khanjar tale
 
   1
-  Veeran karbobala aabaad jis ne kiya
-  Ummat ne kyun kar bhala kaata hai uska gala
-  Nok e sina jisne quran pada chaand zehra ka tha
+  Viraan Karbobala aabaad jis ne kiya
+  Ummat ne kiuṅ kar bhala kaata hai us ka gala
+  Nok-e-sinaaṅ jis ne Quraaṅ parha chaand Zehra ka tha
+  Khanjar tale
 
   2
-  Sakina ke dur le gaye ghazi ke baazu kate
-  Shimr tamache maare kis jurm ki hai saza
-  Hai ye saza jis ka koi na raha chaand zehra ka tha
+  Sakina ke durr le gaye Ghaazi ke baazu kate
+  Shimr tamaanche maare kis jurm ki hai saza
+  Hai ye saza jis ka koi na raha chaand Zehra ka tha
+  Khanjar tale
 
   3
-  Asghar ne ki jaan fida qasim ke tukde huwe
-  Aun o mohamed abbas akbar bhi maare gaye
-  Maare gaye khoon dukhtar ka tha chaand zehra ka tha
+  Asghar ne ki jaaṅ fida Qaasim ke tukre hue
+  Aun o Muhammad Abbaas Akbar bhi maare gaye
+  Maare gaye khun dukhtar ka tha chaand Zehra ka tha
+  Khanjar tale
 
   4
-  Zainab ki cheeni rida abid ke kode lagay
-  Bibiyan qaidi hui qaime bhi jalne lagay
-  Qaime jalay jis ne quran pada chaand zehra ka tha
+  Zainab ki chhini rida Aabid ke kore lage
+  Bibiyaaṅ qaidi huiṅ khaime bhi jalne lage
+  Khaime jale jis ne Quraaṅ parha chaand Zehra ka tha
+  Khanjar tale
 # source_id: nohayonline:d8c089130e03751ee481
 # source_url: https://www.nohayonline.com/details_content.php?id=2337
 # raw_sha256: 7e56e329d62f12b1f1629313a8cc869ed9e62bc7b3102163098e7162e2a260ad
 ---
 جس نے سجدہ کیا چاند زہرا کا تھا خنجر تلے
-جس کا کوی نہ رہا چاند زہرا کا تھا خنجر تلے
+جس کا کوئی نہ رہا چاند زہرا کا تھا خنجر تلے
 
 ۱
 ویران کربوبلا آباد جس نے کیا
 امت نے کیوں کر بھلا کاٹا ہے اس کا گلا
-نوکِ سِناں جس نے قرآں پڑا چاند زہرا کا تھا
+نوکِ سِناں جس نے قرآں پڑھا چاند زہرا کا تھا
+خنجر تلے
 
 ۲
-سکینہ کے در لے گےء غازی کے بازو کٹے
+سکینہ کے دُر لے گئے غازی کے بازو کٹے
 شمر طمانچے مارے کس جرم کی ہے سزا
-ہے یہ سزا جس کا کوی نہ رہا چاند زہرا کا تھا
+ہے یہ سزا جس کا کوئی نہ رہا چاند زہرا کا تھا
+خنجر تلے
 
 ۳
-اصغر نے کی جاں فدا قاسم کے ٹکڑے ہوے
-عون و محمد عباس اکبر بھی مارے گۓ
-مارے گےء خون دختر کا تھا چاند زہرا کا تھا
+اصغر نے کی جاں فدا قاسم کے ٹکڑے ہوئے
+عون و محمد عباس اکبر بھی مارے گئے
+مارے گئے خون دختر کا تھا چاند زہرا کا تھا
+خنجر تلے
 
 ۴
 زینب کی چھینی ردا عابد کے کوڑے لگے
-بی بیاں قیدی ہوی خیمے بھی جلنے لگے
-خیمے جلے جس نے قرآں پڑا چاند زہرا کا تھا
+بیبیاں قیدی ہوئیں خیمے بھی جلنے لگے
+خیمے جلے جس نے قرآں پڑھا چاند زہرا کا تھا
+خنجر تلے
