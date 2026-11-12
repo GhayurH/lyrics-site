@@ -6,47 +6,48 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Sardar"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kehti rahi sakina beemar saarban se
-  Hogi rehaai mar ke bhaiya meri zindan se
+  Kehti rahi Sakina bimaar saarbaaṅ se
+  Hogi rihaayi mar ke bhaiya meri zindaaṅ se
 
   1
   Is kaal kothari mein hai zulm ka andhera
-  Mujhe chod ke na jao dam ghut raha hai mera
-  Asghar ki tarha mai bhi bichdi hoo aaj maa se
+  Mujhe chhor ke na jaao dam ghut raha hai mera
+  Asghar ki tarah main bhi bichhri huṅ aaj maaṅ se
 
   2
-  Hai daagh tamachon ke mehshar talak rahenge
-  Bhaiya yateem ho ke kab tak sitam sahenge
-  Masoom poochti thi beemar natawan se
+  Hai daagh tamaachoṅ ke mahshar talak raheṅge
+  Bhaiya yatim ho ke kab tak sitam saheṅge
+  Maasum puchhti thi bimaar naatawaaṅ se
 
   3
-  Durr cheen kar kamina raahon mein keh raha tha
-  Thay kaan mere zakhmi aur khoon beh raha tha
-  Roti ho kyun lipat kar abbas ke nishan se
+  Durr chhin kar kamina raahoṅ mein keh raha tha
+  The kaan mere zakhmi aur khuṅ beh raha tha
+  Roti ho kiuṅ lipat kar Abbas ke nishaaṅ se
 
   4
-  Aulaad waale mil ke insaaf khud kare wo
-  Jin betiyon ke baba pardes jaa maray wo
-  Roti nahi bichad kar kya apne baba jaan se
+  Aulaad wale mil ke insaaf khud kare wo
+  Jin betiyoṅ ke baba pardes jaa mare wo
+  Roti nahiṅ bichhar kar kya apne baba jaaṅ se
 
   5
-  Baba ko yaad kar ke zindan mein ro rahi hai
-  Seene pe sone waali matti pe so rahi hai
-  Kya jurm ho gaya tha masoom nanhi jaan se
+  Baba ko yaad kar ke zindaaṅ mein ro rahi hai
+  Sine pe sone wali mitti pe so rahi hai
+  Kya jurm ho gaya tha maasum nanhi jaaṅ se
 
   6
-  Sajjad ne janaza zindan se jab uthaya
-  Afsos saath koi hai kalmago na aaya
-  Aisa sulook koi karta nahi mehman se
+  Sajjad ne janaaza zindaaṅ se jab uthaaya
+  Afsos saath koi hai kalma go na aaya
+  Aisa suluk koi karta nahiṅ mehmaaṅ se
 
   7
-  Tareekh ke muarrikh insaaf se batayein
-  Masoom ko mili hai kis jurm ki sazayein
-  Sardar poochta hai har ek musalman se
+  Taarikh ke muarrikh insaaf se bataayeṅ
+  Maasum ko mili hai kis jurm ki sazaayeṅ
+  Sardar puchhta hai har ek musalmaaṅ se
 # source_id: nohayonline:e7d58a99fb103a30f898
 # source_url: https://www.nohayonline.com/details_content.php?id=1513
 # raw_sha256: 4df141500e97ccae5ec4fd6f6069d983c4fef0247f38008be71870c4bb3da973
@@ -68,7 +69,7 @@ romanLyrics: |-
 معصوم پوچھتی تھی بیمار ناتواں سے
 
 ۳
-در چھین کر کمینہ راہوں میں کہہ رہا تھا
+دُر چھین کر کمینہ راہوں میں کہہ رہا تھا
 تھے کان میرے زخمی اور خوں بہہ رہا تھا
 روتی ہو کیوں لپٹ کر عباس کے نشاں سے
 
@@ -88,6 +89,6 @@ romanLyrics: |-
 ایسا سلوک کوئی کرتا نہیں مہماں سے
 
 ۷
-تاریخ کے معرق انصاف سے بتاییں
+تاریخ کے مؤرخ انصاف سے بتائیں
 معصوم کو ملی ہے کس جرم کی سزائیں
 سردار پوچھتا ہے ہر ایک مسلماں سے

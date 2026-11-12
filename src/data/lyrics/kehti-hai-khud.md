@@ -5,45 +5,46 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Mir Rehan Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kehti hai khud amariyan taqreer ke baghair
-  Zainab watan mein aayi hai shabbir ke baghair
+  Kehti hai khud amaariyaaṅ taqrir ke baghair
+  Zainab watan mein aayi hai Shabbir ke baghair
 
   1
-  Asghar ke intezar mein sughra ko kya khabar
-  Maa karbala se aayi hai baysheer ke baghair
+  Asghar ke intezaar mein Sughra ko kya khabar
+  Maaṅ Karbala se aayi hai beshir ke baghair
 
   2
-  Ummul baneeen sunti hai haal apne laal ka
-  Kyunkar lada layeeno se shamsheer ke baghair
+  Ummul Banin sunti hai haal apne laal ka
+  Kiunkar lara lainoṅ se shamshir ke baghair
 
   3
-  Nana hamari peet pe durro ke ye nishan
-  Khatre kitaabe daur hai tehreer ke baghair
+  Nana hamaari pith pe durroṅ ke ye nishaaṅ
+  Khatre kitaab-e-daur hai tahrir ke baghair
 
   4
-  Nana utha janaza meri maa ka raat mein
-  Balwe mein thi mai chadar o tauqeer ke baghair
+  Nana utha janaaza meri maaṅ ka raat mein
+  Balwe mein thi main chaadar o tauqir ke baghair
 
   5
-  Abid tha is tarha thi musalsal ye bediyan
-  Ab paon thar-tharate hai zanjeer ke baghair
+  Abid tha is tarah thi musalsal ye beriyaaṅ
+  Ab paaoṅ thar tharaate haiṅ zanjir ke baghair
 # source_id: nohayonline:6e130a3f0f9736bf28e5
 # source_url: https://www.nohayonline.com/details_content.php?id=733
 # raw_sha256: 25b60fafaf99d3da8ff5a81924c719fdbc76b982f90c3574df71359a9af21154
 ---
 کہتی ہیں قد عماریاں تقریر کے بغیر
-زینب وطن میں آی ہے شبیر کے بغیر
+زینب وطن میں آئی ہے شبیر کے بغیر
 
 ۱
 اصغر کے انتظار میں صغرا کو کیا خبر
-ماں کربلا سے آی ہے بے شیر کے بغیر
+ماں کربلا سے آئی ہے بے شیر کے بغیر
 
 ۲
-ام البنین سنتی ہےحال اپنے لال کا
+ام البنین سنتی ہے حال اپنے لال کا
 کیونکر لڑا لعینوں سے شمشیر کے بغیر
 
 ۳
