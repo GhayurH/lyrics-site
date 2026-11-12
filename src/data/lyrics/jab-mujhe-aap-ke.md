@@ -6,48 +6,50 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mohsin Riyaz"
+reciter: "Kazmi Brothers"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jab mujhe aap ke qaatil ne hai maara baba
-  Har tamache pe sakina ne pukara baba
+  Jab mujhe aap ke qaatil ne hai maara Baba
+  Har tamaache pe Sakina ne pukaara Baba
+
+  Baba main Shimr se kehti thi tum mere paas na aana
+  Goya aalam mein sab se behtar hai mera paak gharaana
+  Main chhoti Fatima Zahra huṅ na mujh ko haath lagaana
+  Par phir bhi us zaalim ne kiya mujh pe tars zara na
 
   1
-  Baba mai shimr se kehti thi tum mere paas na aana
-  Goya aalam may sab se behtar hai mera paak gharana
-  Mai choti fatema zahra hoo na mujhko haath lagana
-  Par phir bhi us zaalim ne kiya mujhpe tars zara na
-  Mujhe baalon se pakad kar hai tamache maare
-  Maine sar shimr se maanga jo tumhara baba
+  Mujhe baaloṅ se pakar kar haiṅ tamaache maare
+  Main ne sar Shimr se maanga jo tumhaara Baba
 
   2
-  Wo jo durr aap ne tohfe may mujhe bakshe thay
-  Unko bedardi se zaalim ne utaara baba
+  Wo jo dur aap ne tohfe mein mujhe bakhshe the
+  Un ko bedardi se zaalim ne utaara Baba
 
   3
-  Aap ke seene pe aaram se sone waali
-  Soke ab khaak pe karti hai guzara baba
+  Aap ke sine pe aaraam se sone waali
+  So ke ab khaak pe karti hai guzaara Baba
 
   4
-  Saath rahwaron ke daudaya gaya hai mujhko
-  Choor zakhmon se badan mera hai saara baba
+  Saath rahwaaroṅ ke dauraya gaya hai mujh ko
+  Chur zakhmoṅ se badan mera hai saara Baba
 
   5
   Meri ghurbat pe chacha jaan ka sar rota hai
-  Unki ghurbat mai karun kaise gawara baba
+  Un ki ghurbat main karuṅ kaise gawaara Baba
 
   6
-  Noke naiza pe usay dekhun to dekhun kaise
-  Mera asghar tha mujhe jaan se bhi pyara baba
+  Nok-e-naiza pe use dekhuṅ to dekhuṅ kaise
+  Mera Asghar tha mujhe jaan se bhi pyaara Baba
 
   7
-  Bekafan aap ho bekfan rahegi beti
-  Ek jaisa hi muqaddar hai hamara baba
+  Bekafan aap ho bekafan rahegi beti
+  Ek jaisa hi muqaddar hai hamaara Baba
 
   8
-  Ye sada qabr se masooma ki aaye mohsin
-  Saath qaayim ke chale aana dubara baba
+  Ye sada qabr se Maasuma ki aaye Mohsin
+  Saath Qaaim ke chale aana dubaara Baba
 # source_id: nohayonline:320f169bc76ef605dc68
 # source_url: https://www.nohayonline.com/details_content.php?id=1003
 # raw_sha256: 4fcf94c6ec44b33e1b759fb31d39e171839a7d4b1ec0e2626c469b8e31129cf3
@@ -56,15 +58,16 @@ romanLyrics: |-
 # raw_sha256: 4150189ad4ee31af1d135edd49bd5fe9dadcc1ea906489d40d8ea38fdb5e2f5c
 ---
 جب مجھے آپ کے قاتل نے ہے مارا بابا
-ہر تماچے پے سکینہ نے پکار ابابا
+ہر تماچے پے سکینہ نے پکارا بابا
 
-۱
 بابا میں شمر سے کہتی تھی تم میرے پاس نہ آنا
 گویا عالم میں سب سے بہتر ہے میرا پاک گھرانہ
-میں چھوٹی فاطمہ زہرا ہوں نہ مجھکو ہاتھ لگانا
-پر پھر بھی اس ظالم نے کیا مجھ پہ ترس زرا نہ
+میں چھوٹی فاطمہ زہرا ہوں نہ مجھ کو ہاتھ لگانا
+پر پھر بھی اس ظالم نے کیا مجھ پہ ترس ذرا نہ
+
+۱
 مجھے بالوں سے پکڑ کر ہیں تماچے مارے
-میں نے سر شمر سے مانگا جو تمہا را بابا
+میں نے سر شمر سے مانگا جو تمہارا بابا
 
 ۲
 وہ جو دُر آپ نے تحفے میں مجھے بخشے تھے
