@@ -9,16 +9,16 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hashim ke gharane ke qamar hai meri faryad
-  Mere dil-e-tarik mein thori si ziya do
+  Haashim ke gharane ke qamar hai meri faryaad
+  Mere dil-e-taarik mein thori si ziya do
 
   1
-  Tum chaho to khil jaaye mere dil ka kanwal bhi
-  Tum chaho to virane ko gulzar bana do
+  Tum chaaho to khil jaaye mere dil ka kanwal bhi
+  Tum chaaho to viraane ko gulzaar bana do
 
   2
-  Majbur hun lachar hun beyar o madadgar
-  Abbas kate haathon se taqdir bana do
+  Majbur huṅ laachaar huṅ beyaar o madadgaar
+  Abbas kate haathoṅ se taqdir bana do
 # source_id: personal_notebook:temp-import-odt-2026-11-08
 # source_notes: Transcribed from personal notebook; original Roman/Urdu checked against notebook
 ---

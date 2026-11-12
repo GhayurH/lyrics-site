@@ -1,73 +1,74 @@
 ---
-title: "حرم سر حسینی کے پاسباں عباس"
+title: "حرم سرائے حسینی کے پاسباں عباس"
 alternateTitle: "Haram Sarae Hussaini"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Izzat Lakhnavi"
+reciter: "Izzat Lakhnavi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haram sara e hussaini ke pasban abbas
-  
+  Haram sara-e-Husaini ke paasbaaṅ Abbas
+
   1
-  Wafa ka laakh khusoos e amal kiya abbas
-  Shabihe faatahe khyber rahi nishan abbas
-  
+  Wafa ka laakh khusus-e-amal kiya Abbas
+  Shabih-e-faateh-e-Khaibar rahi nishaaṅ Abbas
+
   2
-  Wo shamma jisko yazidi bujha nahin sakte
-  Jala gaye hai sare raah e imtehan abbas
-  
+  Wo shama jis ko Yazidi bujha nahiṅ sakte
+  Jala gaye hai sar-e-raah-e-imtehaan Abbas
+
   3
-  Nazar to jaati hai insaan pahunch nahi sakta
-  Fareed e azm o amal ke hai aasman abbas
-  
+  Nazar to jaati hai insaaṅ pahunch nahiṅ sakta
+  Farid-e-azm o amal ke haiṅ aasmaaṅ Abbas
+
   4
-  Ali ka azm hai talwar chalaye fazle hussain
-  Wo inkare taqaddus ke darmian abbas
-  
+  Ali ka azm hai talwaar chalaaye fazl-e-Husain
+  Wo inkaar-e-taqaddus ke darmiyaaṅ Abbas
+
   5
-  Ye haath hote hifazat hayaat hote agar
-  Jahan jahan hai shah e deen wahan wahan abbas
-  
+  Ye haath hote hifaazat hayaat hote agar
+  Jahaaṅ jahaaṅ hai Shah-e-diṅ wahaaṅ wahaaṅ Abbas
+
   6
-  Khuda ki raah may tu ne kata ke haathon ko
-  Ajal ki tod ke rakh di kalaiyaan abbas
-  
+  Khuda ki raah mein tu ne kata ke haathoṅ ko
+  Ajal ki tor ke rakh di kalaaiyaaṅ Abbas
+
   7
-  Idhar ghash aa gaya shayad sakina bibi ko
-  Pukarte hai tumhe shaah e ins o jaan abbas
-  
+  Idhar ghash aa gaya shaayad Sakina Bibi ko
+  Pukaarte haiṅ tumheiṅ Shah-e-ins o jaaṅ Abbas
+
   8
-  Usool e tashnalabi ka agar bahadar tha
-  Har ek maut se uthne laga dhuan abbas
-  
+  Usul-e-tashnalabi ka agar bahaadur tha
+  Har ek maut se uthne laga dhuaaṅ Abbas
+
   9
-  Aseer ho ke sab ahle haram shaheedon ke
-  Suni to hongi sakina ki imtihan abbas
+  Asir ho ke sab ahl-e-haram shahidoṅ ke
+  Suni to hoṅgi Sakina ki imtihaan Abbas
 # source_id: nohayonline:c71fcf1c93b12ce742b9
 # source_url: https://www.nohayonline.com/details_content.php?id=1049
 # raw_sha256: 6dde1cc40ab450d6dd5293e5ae33d3fafba7e41e4324af5311206f837af6139f
 ---
 
-حرم سر حسینی کے پاسباں عباس
+حرم سرائے حسینی کے پاسباں عباس
 
 ۱
 وفا کا لاکھ خصوص عمل کیا عباس
-شبیہ فاطمہ خیبر رہی نشاں عباس
+شبیہِ فاتحِ خیبر رہی نشاں عباس
 
 ۲
 وہ شمع جس کو یزیدی بجھا نہیں سکتے
-جلا گےء ہے سر راہ امتحان عباس
+جلا گئے ہے سرِ راہِ امتحان عباس
 
 ۳
 نظر تو جاتی ہے انساں پہنچ نہیں سکتا
-فرید عظم عمل کے ہیں آسماں عباس
+فریدِ عزم و عمل کے ہیں آسماں عباس
 
 ۴
-الی کا عزم ہے تلوار چلاہے فضلے حسسیں
+علی کا عزم ہے تلوار چلائے فضلِ حسین
 وہ انکاری تقدّس کے درمیان عباس
 
 ۵
@@ -76,16 +77,16 @@ romanLyrics: |-
 
 ۶
 خدا کی راہ میں تو نے کٹا کے ہاتھوں کو
-اجل کی توڑ کے رکھ دی کلاییاں عباس
+اجل کی توڑ کے رکھ دی کلائیاں عباس
 
 ۷
-ادھر غش آ گیا شاید سکینہ بی بی کو
+ادھر غش آ گیا شاید سکینہ بی‌بی کو
 پکارتے ہیں تمہیں شاہ انس و جاں عباس
 
 ۸
-اصول ا تشنلابی کا اگر بہادر تھا
-ہر ایک مات سے اٹھنے لگا دھواں عباس
+اصولِ تشنہ لبی کا اگر بہادر تھا
+ہر ایک موت سے اٹھنے لگا دھواں عباس
 
 ۹
-اسیر ہو کے سب اہلے حرم شہیدوں کے
-سنی تو ہونگی سکینہ کی امتحان عباس
+اسیر ہو کے سب اہلِ حرم شہیدوں کے
+سنی تو ہوں گی سکینہ کی امتحان عباس

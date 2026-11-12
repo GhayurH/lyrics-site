@@ -6,37 +6,38 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Anees Pehersari"
+reciter: "Ali Zia Rizvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye hussaina
-  Hassan haye hussaina
-  Hussain haye hussaina
+  Haaye Husaina
+  Hasan haaye Husaina
+  Husain haaye Husaina
 
   1
-  Karti thi zehra dasht mein girya
-  Shimr ne kaata sar shahe deen ka
-  
+  Karti thiṅ Zehra dasht mein girya
+  Shimr ne kaata sar Shah-e-diṅ ka
+
   2
-  Arz o sama ke aur fiza ke
-  Dasht e jafa ke lab pe hai naala
-  
+  Arz o samaaṅ ke aur fiza ke
+  Dasht-e-jafa ke lab pe hai naala
+
   3
-  Naize ke upar aur sare sarwar
-  Taapon ki zad shaah ka laasha
-  
+  Naize ke upar aur sar-e-Sarwar
+  Taapoṅ ke zad par Shah ka laasha
+
   4
-  Qaimo se uthay aag ke sholay
-  Kaun bachaye raande hai tanha
-  
+  Khaimoṅ se uthe aag ke shole
+  Kaun bachaaye raandeṅ haiṅ tanha
+
   5
-  Kis ko uthaye kis ko chudaye
-  Kis ko bachaye saani e zehra
-  
+  Kis ko uthaaye kis ko chhuraaye
+  Kis ko bachaaye saani-e-Zehra
+
   6
-  Kyon na anees hum yun kare matam
-  Dil pa hai wo gham tukde hai seena
+  Kiuṅ na Anees ham yuṅ kareiṅ maatam
+  Dil pe hai wo gham tukre hai sina
 # source_id: nohayonline:85264c769b42da3b2586
 # source_url: https://www.nohayonline.com/details_content.php?id=221
 # raw_sha256: 718de48ac23933bbb4baf1a828ae573f7c994ea9d72cebf4a00d42077b1a872c
