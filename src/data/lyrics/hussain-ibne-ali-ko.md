@@ -1,83 +1,84 @@
 ---
-title: "حسین ابنِ علی کو پُکارتے جائو"
-alternateTitle: "Hussain Ibne Ali Ko"
+title: "حسین ابنِ علی کو پُکارتے جاؤ"
+alternateTitle: "Husain Ibn-e-Ali Ko"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mirza Murtaza Ali"
+reciter: "Mirza Sikander Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hussain ibne ali ko pukarte jao
-  Qadam qadam pe muqadar sawarte jao
+  Husain ibn-e-Ali ko pukaarte jaao
+  Qadam qadam pe muqaddar sanwaarte jaao
 
   1
-  Hussain wo ke jo sipte rasoole athar hai
-  Hussain wo ke jo noore nigahe hyder hai
-  Hussain wo ke jo binte nabi ka dilbar hai
+  Husain wo ke jo Sibt-e-Rasul-e-Athaar haiṅ
+  Husain wo ke jo nur-e-nigaah-e-Haidar haiṅ
+  Husain wo ke jo bint-e-Nabi ka dilbar hai
 
   2
-  Jo haq ke waaste gardan kata diya wo hussain
-  Jo taqt otaaj ko thokar laga diya wo hussain
-  Hukumato ko jo neecha dikha diya wo hussain
+  Jo haq ke waaste gardan kata diya wo Husain
+  Jo takht o taaj ko thokar laga diya wo Husain
+  Hukumatoṅ ko jo nicha dikha diya wo Husain
 
   3
-  Milay hussain to bande ko haq ki zaat mili
-  Milay hussain to islam ko hayaat mili
-  Jise hussain milay usko kayanat mili
+  Mile Husain to bande ko haq ki zaat mili
+  Mile Husain to Islam ko hayaat mili
+  Jise Husain mile us ko kaainaat mili
 
   4
-  Badi khushi se jo akbar ko de diya wo hussain
-  Jo apne haaton pe asghar ko de diya wo hussain
-  Namaze asr mein jo sar ko de diya wo hussain
+  Bari khushi se jo Akbar ko de diya wo Husain
+  Jo apne haathoṅ pe Asghar ko de diya wo Husain
+  Namaaz-e-asr mein jo sar ko de diya wo Husain
 
   5
-  Sare ghuroore hukumat jhuka diya isne
-  Yazeediyat ko thikane laga diya isne
-  Jahan ko sabr ke jauhar dikha diya isne
+  Sar-e-ghurur-e-hukumat jhuka diya is ne
+  Yazidiyat ko thikaane laga diya is ne
+  Jahaaṅ ko sabr ka jauhar dikha diya is ne
 
   6
-  Nihaale gulshane emaan ki taazgi hai hussain
-  Charaghe khanaye kaabe ki roshni hai hussain
-  Meine kamale imamat ki chandni hai hussain
+  Nihaal-e-gulshan-e-imaan ki taazgi hai Husain
+  Charaagh-e-khaana-e-Kaabe ki roshni hai Husain
+  Mai-e-kamaal-e-imaamat ki chaandni hai Husain
 
   7
-  Bano hussain ke mehman hurr e jari ki tarha
-  Khade khade na suno naara ajnabi ki tarha
-  Chadao phool akhidat khilo kali ki tarha
+  Bano Husain ke mehmaan Hurr-e-jari ki tarah
+  Khare khare na suno naara ajnabi ki tarah
+  Charhaao phul aqidat khilo kali ki tarah
 
   8
-  Jo ghark hoke lahoo mein ubhar gaya wo hussain
-  Jo sabr o shukr se dil fatha kar gaya wo hussain
-  Jo dard banke jigar mein utar gaya wo hussain
+  Jo gharq ho ke lahu mein ubhar gaya wo Husain
+  Jo sabr o shukr se dil fath kar gaya wo Husain
+  Jo dard ban ke jigar mein utar gaya wo Husain
 
   9
-  Jo aaj aal ko choray wo kal kare na gilay
-  Ke daare faani ke milte hai aakhibat mein silay
-  Khusha naseeb jo mirza ko ahlebayt milay
+  Jo aaj aal ko chhore wo kal kare na gile
+  Ke daar-e-faani ke milte haiṅ aaqibat mein sile
+  Khushaa nasib jo Mirza ko Ahl-e-Bait mile
 # source_id: nohayonline:b1428cc6fa46abea8ff9
 # source_url: https://www.nohayonline.com/details_content.php?id=140
 # raw_sha256: d0d8dd82105c0ea5ac53e895d3f898748f954b8f1305e62629785ee0f70ba151
 ---
-حسین ابنِ علی کو پُکارتے جائو
-قدم قدم پہ مقدر سنوارتے جائو
+حسین ابنِ علی کو پُکارتے جاؤ
+قدم قدم پہ مقدر سنوارتے جاؤ
 
 ۱
-حسین وہ کے جو سبطِ رسولِ اطہار ہیں
-حسین وہ کے جو نورِ نگاہِ حیدر ہیں
-حسین وہ کے جو بنتِ نبی کا دلبر ہے
+حسین وہ کہ جو سبطِ رسولِ اطہار ہیں
+حسین وہ کہ جو نورِ نگاہِ حیدر ہیں
+حسین وہ کہ جو بنتِ نبی کا دلبر ہے
 
 ۲
 جو حق کے واسطے گردن کٹا دیا وہ حسین
 جو تخت و تاج کو ٹھوکر لگا دیا وہ حسین
-حکومتوں کو جو نیچا دیکھا دیا وہ حسین
+حکومتوں کو جو نیچا دکھا دیا وہ حسین
 
 ۳
 ملے حسین تو بندے کو حق کی ذات ملی
 ملے حسین تو اسلام کو حیات ملی
-جسے حسین ملے اُسکو کائنات ملی
+جسے حسین ملے اُس کو کائنات ملی
 
 ۴
 بڑی خوشی سے جو اکبر کو دے دیا وہ حسین
@@ -87,7 +88,7 @@ romanLyrics: |-
 ۵
 سرِ غرورِ حکومت جھُکا دیا اس نے
 یزیدیت کو ٹھکانے لگا دیا اس نے
-جہاں کو صبر کا جوہر دیکھا دیا اس نے
+جہاں کو صبر کا جوہر دکھا دیا اس نے
 
 ۶
 نہالِ گُلشنِ ایمان کی تازگی ہے حسین
@@ -97,7 +98,7 @@ romanLyrics: |-
 ۷
 بنو حسین کے مہمان حُرِ جری کی طرح
 کھڑے کھڑے نہ سُنو نعرہ اجنبی کی طرح
-چڑھائو پھول عقیدت کھلو کلی کی طرح
+چڑھاؤ پھول عقیدت کھلو کلی کی طرح
 
 ۸
 جو غرق ہو کے لہو میں اُبھر گیا وہ حسین
@@ -106,5 +107,5 @@ romanLyrics: |-
 
 ۹
 جو آج آل کو چھوڑے وہ کل کرے نہ گلے
-کے دارِ فانی کے ملتے ہیں عاقبت میں صلے
-کُشا نصیب جو مرزا کو اہلِ بیت ملے
+کہ دارِ فانی کے ملتے ہیں عاقبت میں صلے
+خوشا نصیب جو مرزا کو اہلِ بیت ملے
