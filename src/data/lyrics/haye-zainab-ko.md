@@ -6,40 +6,41 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye zainab ko zamane ne khule sar dekha
-  Jisko ghazi ne bhi nazrein na utha kar dekha
-  
+  Haye Zainab ko zamaane ne khule sar dekha
+  Jis ko Ghaazi ne bhi nazreṅ na uthaa kar dekha
+
   1
-  Kam na thi shimr ke khanjar se nazar logon ki
-  Sheh ne naize se behan ko tahe khanjar dekha
-  
+  Kam na thi Shimr ke khanjar se nazar logoṅ ki
+  Shah ne neze se behan ko tah-e-khanjar dekha
+
   2
-  Haath aankhon pe sakina ke rakhe bhai ne
-  Pani peeta hua jab shaam ka lashkar dekha
-  
+  Haath aankhoṅ pe Sakina ke rakhe bhai ne
+  Paani pita hua jab Shaam ka lashkar dekha
+
   3
-  Teer ka zakhm kahan yaad raha asghar ko
-  Maa ko jab shaam may khaate huwe pathar dekha
-  
+  Tir ka zakhm kahaaṅ yaad raha Asghar ko
+  Maaṅ ko jab Shaam mein khaate hue patthar dekha
+
   4
-  Haath khaali na thay bazaar may aane waale
-  Kahin sadqe ki khajoore kahin pathar dekha
-  
+  Haath khaali na the baazaar mein aane waale
+  Kahiṅ sadqe ki khajureṅ kahiṅ patthar dekha
+
   5
-  Tasht may baap ka sar aur labon par thi chadi
-  Ek masoom si bacchi ne ye manzar dekha
-  
+  Tasht mein baap ka sar aur laboṅ par thi chhari
+  Ek maasum si bachi ne ye manzar dekha
+
   6
-  Jisne maanga na kafan baap ki mayyat ke liye
-  Usko ko zainab ke liye maangte chadar dekha
-  
+  Jis ne maanga na kafan baap ki mayyat ke liye
+  Us ko Zainab ke liye maangte chaadar dekha
+
   7
-  Phir takallum na alamdar ne kholi aankhein
-  Binte zehra ki jo chadar ko sina par dekha
+  Phir Takallum na Alamdar ne kholi aankheṅ
+  Bint-e-Zehra ki jo chaadar ko sinaaṅ par dekha
 # source_id: nohayonline:1c62c5f4f1603f842709
 # source_url: https://www.nohayonline.com/details_content.php?id=2553
 # raw_sha256: 3bf0c5cadc369be017fc6f4caf5a2a369254632da335d27a14cf67f4a9cc43d0
@@ -53,12 +54,12 @@ romanLyrics: |-
 شہ نے نیزے سے بہن کو تہہ خنجر دیکھا
 
 ۲
-ہاتھ آنکھوں پہ سکینہ کے رکھے بھای نے
+ہاتھ آنکھوں پہ سکینہ کے رکھے بھائی نے
 پانی پیتا ہوا جب شام کا لشکر دیکھا
 
 ۳
 تیر کا زخم کہاں یاد رہا اصغر کو
-ماں کو جب شام میں کھاتے ہوے پتھر دیکھا
+ماں کو جب شام میں کھاتے ہوئے پتھر دیکھا
 
 ۴
 ہاتھ خالی نہ تھے بازار میں آنے والے
@@ -70,7 +71,7 @@ romanLyrics: |-
 
 ۶
 جس نے مانگا نہ کفن باپ کی میت کے لئے
-اس کو زینب کے لیےء مانگتے چادر دیکھا
+اس کو زینب کے لیے مانگتے چادر دیکھا
 
 ۷
 پھر تکلم نہ علمدار نے کھولی آنکھیں

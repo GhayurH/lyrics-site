@@ -6,48 +6,49 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye zainab ro rahi hai karbala khamosh hai
-  Jal gaye hai saare qaime alqama khamosh hai
+  Haye Zainab ro rahi hai Karbala khaamosh hai
+  Jal gaye haiṅ saare khaime Alqama khaamosh hai
 
   1
-  Chin gayi sar se hai chadar kya kare binte ali
-  Us taraf darya kanare bawafa khamosh hai
+  Chhin gayi hai sar se chaadar kya kare bint-e-Ali
+  Us taraf darya kinaare baawafa khaamosh hai
 
   2
-  Aa gayi shaam e ghariban ho gaye qaidi haram
-  Aabile paon ke roye raasta khamosh hai
+  Aa gayi shaam-e-gharibaaṅ ho gaye qaidi haram
+  Aable paaoṅ ke roye raasta khaamosh hai
 
   3
   Andhera phail gaya bujh gaye charaagh tamaam
-  Shaheed hogaye sibte nabi ke laal o baam
-  Ridayein cheen'ne jis waqt fauje shaam badi
-  Labon pe zainab e muztar ke tha hussain ka naam
+  Shahid ho gaye Sibt-e-Nabi ke laal o baam
+  Ridaaeṅ chhinne jis waqt fauj-e-Shaam barhi
+  Laboṅ pe Zainab-e-muztar ke tha Husain ka naam
 
   4
-  Ab kahan zainab ko chain aayega akbar ke baghair
-  Khaake barchi akbar e gul guqabaqa khamosh hai
+  Ab kahaaṅ Zainab ko chain aayega Akbar ke baghair
+  Khaa ke barchhi Akbar-e-gul guqabaqa khaamosh hai
 
   5
-  Kaise guzregi rasan basta sar e maqtal behan
-  Bekafan bhai hai ran mein berida khamosh hai
+  Kaise guzregi rasan basta sar-e-maqtal behan
+  Bekafan bhai hai ran mein berida khaamosh hai
 
   6
-  Ab koi rota hi nahi ashkon ka darya beh gaya
-  Sirf rone ke liye zainab hai raah e shaam mein
-  Taaziyane maarte hai ashkiyan sajjad ko
-  Koi bhi insan nahi baakhi sipaahe shaam mein
+  Ab koi rota hi nahiṅ ashkoṅ ka darya beh gaya
+  Sirf rone ke liye Zainab hai raah-e-Shaam mein
+  Taaziyaane maarte haiṅ ashqiya Sajjad ko
+  Koi bhi insaan nahiṅ baaqi sipaah-e-Shaam mein
 
   7
-  Ro chuki zainab bhare ghar ko sar e karbobala
-  Karbala se shaam tak saari faza khamosh hai
+  Ro chuki Zainab bhare ghar ko sar-e-Karb o Bala
+  Karbala se Shaam tak saari faza khaamosh hai
 
   8
-  Hai qalam ki nok mein aansu ghame shabbir ke
-  Arsh pe rehaan shaah e ambiya khamosh hai
+  Hai qalam ki nok mein aansu gham-e-Shabbir ke
+  Arsh pe Rehaan Shah-e-Ambiya khaamosh hai
 # source_id: nohayonline:b40d46ac71ada33f2bca
 # source_url: https://www.nohayonline.com/details_content.php?id=593
 # raw_sha256: 98bcce6d23a238f2c3890c4dc9a84d86faf80f2d73974e3dc1633e3dbec4cbf4
@@ -65,7 +66,7 @@ romanLyrics: |-
 
 ۲
 آ گئی شام غریباں ہو گئے قیدی حرم
-آبلے پائوں کے روئے راستہ خاموش ہے
+آبلے پاؤں کے روئے راستہ خاموش ہے
 
 ۳
 اندھیرا پھیل گیا بُجھ گئے چراغ تمام
@@ -83,8 +84,8 @@ romanLyrics: |-
 
 ۶
 اب کوئی روتا ہی نہیں اشکوں کا دریا بہہ گیا
-صرف رونے کے لیئے زینب ہے راہِ شام میں
-تعزیانے مارتے ہیں اشقیائ سجاد کو
+صرف رونے کے لیے زینب ہے راہِ شام میں
+تازیانے مارتے ہیں اشقیا سجاد کو
 کوئی بھی انسان نہیں باقی سپاہِ شام میں
 
 ۷
@@ -92,5 +93,5 @@ romanLyrics: |-
 کربلا سے شام تک ساری فضا خاموش ہے
 
 ۸
-ہے قلم کی نوک میں آ نسو غمِ شبیر کے
-عرش پہ ریحان شاہِ انبیائ خاموش ہے
+ہے قلم کی نوک میں آنسو غمِ شبیر کے
+عرش پہ ریحان شاہِ انبیا خاموش ہے

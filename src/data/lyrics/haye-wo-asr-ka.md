@@ -5,62 +5,63 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Ashraf Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye wo asr ka hangaam wo maidan e bala
-  Haye wo tauq o rasan uff wo ghareebon ka gala
-  Har taraf chaayi hui zulm o sitam ki wo ghata
-  Jaa ke takraati thi saahil se ye zainab ki sada
+  Haye wo asr ka hangaam wo maidan-e-bala
+  Haye wo tauq o rasan uff wo ghariboṅ ka gala
+  Har taraf chhaayi hui zulm o sitam ki wo ghata
+  Jaa ke takraati thi saahil se ye Zainab ki sada
 
   1
-  Tum ne to jaa ke basali hai taraayi abbas
-  Yan rida chin gayi behno ki duhaai abbas
-  Lut'ta hai khaana e khatoone jina dekh to lo
-  In sulagte huwe qaimon ka dhuaan dekh to lo
+  Tum ne to jaa ke basaa li hai taraayi Abbas
+  Yaaṅ rida chhin gayi behnoṅ ki duhaai Abbas
+  Lutta hai khaana-e-khaatun-e-jinaaṅ dekh to lo
+  In sulagte hue khaimoṅ ka dhuaaṅ dekh to lo
 
   2
-  Paaye abid mein ye zanjeer e garan dekh to lo
-  Pushte khwahar pa ye durron ke nishan dekh to lo
-  Hoti hai shaam e ghariban e watan jangal mein
+  Paaye Aabid mein ye zanjir-e-garaaṅ dekh to lo
+  Pusht-e-khwaahar pe ye durroṅ ke nishaaṅ dekh to lo
+  Hoti hai shaam-e-gharibaan-e-watan jangal mein
   Utho bhaiya ke akeli hai behan jangal mein
 
   3
-  Kat gaye nakhle gulistane ali tum na uthe
-  Jal gaya qaima e farzande nabi tum na uthe
-  Luti sarkar e rasool e arabi tum na uthe
-  Mera abbas mere sher e jari tum na uthe
+  Kat gaye nakhl-e-gulistaan-e-Ali tum na uthe
+  Jal gaya khaima-e-farzand-e-Nabi tum na uthe
+  Luti sarkaar-e-Rasul-e-Arabi tum na uthe
+  Mera Abbas mere sher-e-jari tum na uthe
 
   4
-  Kaise ye zulm hua haye gawara tumko
-  Har tamache pa sakina ne pukara tumko
-  Chaahne waale nahi darde jigar baakhi hai
-  Saamne dard ki ek raah guzar baakhi hai
+  Kaise ye zulm hua haye gawaara tum ko
+  Har tamaanche pe Sakina ne pukaara tum ko
+  Chaahne waale nahiṅ dard-e-jigar baaqi hai
+  Saamne dard ki ek raahguzar baaqi hai
 
   5
-  Chut gaye hum safari aur safar baakhi hai
-  Ab bhatije hai salamat na pisar baakhi hai
-  Koi manzil hi nahi kaise sukoon paaye behen
-  Bhaiya itna to bata do ke kahan jaaye behen
+  Chhut gaye hum safari aur safar baaqi hai
+  Ab bhatije haiṅ salaamat na pisar baaqi hai
+  Koi manzil hi nahiṅ kaise sukuṅ paaye behan
+  Bhaiya itna to bata do ke kahaaṅ jaaye behan
 
   6
-  Goonj kar reh gayi jab binte payambar ki sada
-  Sunke faryad koi chaahne waala na utha
-  Daudi maqtal ki taraf binte shahe uqda kusha
-  Kehti thi haye shaheedon ko kafan bhi na mila
+  Gunj kar reh gayi jab bint-e-Payambar ki sada
+  Sun ke faryaad koi chaahne waala na utha
+  Dauri maqtal ki taraf bint-e-Shah-e-uqda-kusha
+  Kehti thi haye shahidoṅ ko kafan bhi na mila
 
   7
-  Pahunchi maidan mein to kis tarha kahun kya dekha
-  Rondte ghodon se shabbir ka laasha dekha
-  Kehke ye baith gayi jisme shahe deen ke khareeb
-  Boli aayi hai teri laash uthane ye hazeen
+  Pahunchi maidaan mein to kis tarah kahuṅ kya dekha
+  Raundte ghoroṅ se Shabbir ka laasha dekha
+  Keh ke ye baith gayi jism-e-Shah-e-diṅ ke qarib
+  Boli aayi hai teri laash uthaane ye haziṅ
 
   8
-  Jald qaime mein mujhe jaana hai ay sarwar e deen
-  Phir sakina ko tamache na lagaate ho layeen
-  Keh ke ye kaampte haathon se sambhali mayyat
-  Ya ali keh ke kaleje se lagaali mayyat
+  Jald khaime mein mujhe jaana hai Ae Sarwar-e-diṅ
+  Phir Sakina ko tamaanche na lagaate ho laiṅ
+  Keh ke ye kaampte haathoṅ se sambhaali mayyat
+  Ya Ali keh ke kaleje se lagaa li mayyat
 # source_id: nohayonline:098c6dcd350dfcc8fe74
 # source_url: https://www.nohayonline.com/details_content.php?id=3523
 # raw_sha256: 6c77ba8670fca50a44a0025af389f78ad35d08be65b3859f8da843c83300ade3
@@ -71,19 +72,19 @@ romanLyrics: |-
 جا کے ٹکراتی تھی ساحل سے یہ زینب کی صدا
 
 ۱
-تم نے تو جا کے بسالی ہے ترای عباس
-یاں ردا چھن گیء بہنوں کی دہائی عباس
+تم نے تو جا کے بسا لی ہے ترائی عباس
+یاں ردا چھن گئی بہنوں کی دہائی عباس
 لٹتا ہے خانۂ خاتونِ جناں دیکھ تو لو
-ان سلگھتے ہوے خیموں کا دھواں دیکھ تو لو
+ان سلگتے ہوئے خیموں کا دھواں دیکھ تو لو
 
 ۲
 پائے عابد میں یہ زنجیرِ گراں دیکھ تو لو
-پشت خواہر پہ یہ دروں کے نشاں دیکھ تو لو
+پشتِ خواہر پہ یہ دُرّوں کے نشاں دیکھ تو لو
 ہوتی ہے شام غریبان وطن جنگل میں
 اٹھو بھیا کے اکیلی ہے بہن جنگل میں
 
 ۳
-کٹ گےء نقل گلستان علی تم نہ اٹھے
+کٹ گئے نخلِ گلستانِ علی تم نہ اٹھے
 جل گیا خیمہ فرزند نبی تم نہ اٹھے
 لٹی سرکار رسول عربی تم نہ اٹھے
 میرا عباس میرے شیر جری تم نہ اٹھے
@@ -95,22 +96,22 @@ romanLyrics: |-
 سامنے درد کی ایک راہ گزر باقی ہے
 
 ۵
-چھٹ گےء ہم سفاری اور سفر باقی ہے
+چھٹ گئے ہم سفاری اور سفر باقی ہے
 اب بھتیجے ہیں سلامت نہ پسر باقی ہے
-کوی منزل ہی نہیں کیسے سکوں پاے بہن
+کوئی منزل ہی نہیں کیسے سکوں پائے بہن
 بھیا اتنا تو بتا دو کہ کہاں جائے بہن
 
 ۶
-گونج کر رہ گیء جب بنت پیمبر کی صدا
-سن کے فریاد کوی چاہنے والا نہ اٹھا
+گونج کر رہ گئی جب بنت پیمبر کی صدا
+سن کے فریاد کوئی چاہنے والا نہ اٹھا
 دوڑی مقتل کی طرف بنت شہ عقدہ کشا
 کہتی تھی ہاے شہیدوں کو کفن بھی نہ ملا
 
 ۷
 پہنچی میدان میں تو کس طرح کہوں کیا دیکھا
 روندتے گھوڑوں سے شبیر کا لاشہ دیکھا
-کہہ کے یہ بیٹھ گیء جسم شہ دیں کے قریب
-بولی آی ہے تیری لاش اٹھانے یہ حزیں
+کہہ کے یہ بیٹھ گئی جسم شہ دیں کے قریب
+بولی آئی ہے تیری لاش اٹھانے یہ حزیں
 
 ۸
 جلد خیمے میں مجھے جانا ہے اے سرور دیں

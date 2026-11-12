@@ -6,38 +6,40 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mohib Fazli"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sajjad kaise bhoolein ghurbat ka wo zamana
-  Haye wo qaid khana haye wo qaid khana
-  Beparda bibiyon ka baalon se moo chupana
+  Sajjad kaise bhuleṅ ghurbat ka wo zamaana
+  Haye wo qaid khaana haye wo qaid khaana
+  Beparda Bibiyoṅ ka baaloṅ se muṅh chhupaana
+  Haye wo qaid khaana haye wo qaid khaana
 
   1
-  Aankhon mein bas gayi zindan ki udaasi
-  Baba ko dhoondti hai mazloom ek pyasi
-  Dukhiya ka khauf se wo abbas ko bulana
+  Aankhoṅ mein bas gayi zindaan ki udaasi
+  Baba ko dhundti hai mazlum ek pyaasi
+  Dukhiya ka khauf se wo Abbas ko bulaana
 
   2
-  Bhooli nahi sakina bazaar ka wo manzar
-  Patthar baras rahe thay majboor qaidiyon par
-  Wo shimr ke tamache zaalim ka taziyana
+  Bhuli nahiṅ Sakina baazaar ka wo manzar
+  Patthar baras rahe the majbur qaidiyoṅ par
+  Wo Shimr ke tamaanche zaalim ka taaziyaana
 
   3
-  Mazloom qaidiyon ko abid na bhool paaye
-  Hat'ta nahi nazar se bazaar e shaam haye
-  Bemaar saarban ka aankhon se khoon bahana
+  Mazlum qaidiyoṅ ko Aabid na bhul paaye
+  Hatta nahiṅ nazar se baazaar-e-Shaam haye
+  Bimaar saarabaaṅ ka aankhoṅ se khuṅ bahaana
 
   4
-  Pyasi sakina hum se afsos haye bichad gayi
-  Har lab pe tha ye nauha ruqsat ki ye ghadi hai
-  Zindan se watan jab qaidi huwe rawana
+  Pyaasi Sakina hum se afsos haye bichhar gayi
+  Har lab pe tha ye nauha rukhsat ki ye ghari hai
+  Zindaan se watan jab qaidi hue rawaana
 
   5
-  Ab bhi muhib musalsal bemaar ro raha hai
-  Aale nabi ke ghar mein farshe aza bicha hai
-  Ye bain kar raha hai sadaat ka gharana
+  Ab bhi Mohib musalsal bimaar ro raha hai
+  Aal-e-Nabi ke ghar mein farsh-e-aza bichha hai
+  Ye bain kar raha hai saadaat ka gharaana
 # source_id: nohayonline:9ea3f579cb6f621ca0ba
 # source_url: https://www.nohayonline.com/details_content.php?id=3235
 # raw_sha256: 862068a196d6ced0cb278c1e64810cc4d7e2aeee5d0e75f11577e6bf35564f34
@@ -45,10 +47,11 @@ romanLyrics: |-
 
 سجاد کیسے بھولیں غربت کا وہ زمانہ
 ہاے وہ قید خانہ ہاے وہ قید خانہ
-بے پردہ بی بیوں کا بالوں سے منہ چھپانا
+بے پردہ بی‌بیوں کا بالوں سے منہ چھپانا
+ہاے وہ قید خانہ ہاے وہ قید خانہ
 
 ۱
-آنکھوں میں بس گیء زندان کی اداسی
+آنکھوں میں بس گئی زندان کی اداسی
 بابا کو ڈھونڈتی ہے مظلوم ایک پیاسی
 دکھیا کا خوف سے وہ عباس کو بلانا
 
@@ -58,12 +61,12 @@ romanLyrics: |-
 وہ شمر کے طمانچے ظالم کا تازیانہ
 
 ۳
-مظلوم قیدیوں کو عابد نہ بھول پاے
+مظلوم قیدیوں کو عابد نہ بھول پائے
 ہٹتا نہیں نظر سے بازار شام ہاے
 بیمار سارباں کا آنکھوں سے خوں بہانا
 
 ۴
-پیاسی سکینہ ہم سے افسوس ہاے بچھڑ گیء
+پیاسی سکینہ ہم سے افسوس ہاے بچھڑ گئی
 ہر لب پہ تھا یہ نوحہ رخصت کی یہ گھڑی ہے
 زندان سے وطن جب قیدی ہوئے روانہ
 
