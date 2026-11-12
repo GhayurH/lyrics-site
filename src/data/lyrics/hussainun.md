@@ -1,81 +1,82 @@
 ---
 title: "ہمارے لہو کی صدا کربلا"
-alternateTitle: "Hussainun"
+alternateTitle: "Husainun"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
-aliases: []
+aliases: ["Hussainun"]
 published: false
 romanLyrics: |-
-  Hamare lahoo ki sada karbala
-  Dilon par hai likha hua karbala
-  Hussain ya hussainan hussain ya hussain
+  Hamaare lahu ki sada Karbala
+  Diloṅ par hai likha hua Karbala
+  Husain ya Husainan Husain ya Husain
 
   1
-  Muqaddas duaon ke paale hai hum
-  Ke farshe aza ke ujaale hai hum
-  Zamana bohat dekhe bhaale hai hum
-  Sitam se kahan darne waale hai hum
-  Hame de gayi hausla karbala
+  Muqaddas duaaoṅ ke paale hai hum
+  Ke farsh-e-aza ke ujaale haiṅ hum
+  Zamaana bohat dekhe bhaale hai hum
+  Sitam se kahaaṅ darne waale haiṅ hum
+  Hameiṅ de gayi hausla Karbala
 
   2
-  Azadaron tum haq ki jaanib badho
-  Hussaini ho khud ko hussaini kaho
-  Chalo raahe karbobala par chalo
-  Ke izzat se jeene ka waada karo
-  Tumhe de rahi hai dua karbala
+  Azaadaaroṅ tum haq ki jaanib barho
+  Husaini ho khud ko Husaini kaho
+  Chalo raah-e-Karb o Bala par chalo
+  Ke izzat se jine ka waada karo
+  Tumheiṅ de rahi hai dua Karbala
 
   3
-  Hame fakhr hai hum azadaar hai
-  Shahadat dilon ke parastaar hai
-  Sar apna katane ko tayyar hai
-  Hai zanjeer mein phir bhi mukhtar hai
-  Ke hum par hai teri ata karbala
+  Hameiṅ fakhr hai hum azaadaar haiṅ
+  Shahaadat diloṅ ke parastaar haiṅ
+  Sar apna kataane ko tayyaar haiṅ
+  Hai zanjir meiṅ phir bhi mukhtaar hai
+  Ke hum par hai teri ata Karbala
 
   4
-  Qasam khao dil dil se jodenge hum
-  Hussain aap se moo na modenge hum
-  Kaleje se barchi ko todenge hum
-  Yazeedon ko zinda na chodenge hum
-  Dil o jaan tujh par fida karbala
+  Qasam khaao dil dil se joreiṅ ge hum
+  Husain aap se muṅh na moreiṅ ge hum
+  Kaleje se barchhi ko toreiṅ ge hum
+  Yazidoṅ ko zinda na chhoreiṅ ge hum
+  Dil o jaan tujh par fida Karbala
 
   5
-  Hussain aap hai mustafa ka jamaal
-  Tamanna e zehra ali ka kamaal
-  Libaas e bashar mein khuda ka jalaal
-  Khuda ki tarha hashr tak be-misaal
-  Yaqeenan hai ek maujiza karbala
+  Husain aap hai Mustafa ka jamaal
+  Tamanna-e-Zehra Ali ka kamaal
+  Libaas-e-bashar meiṅ Khuda ka jalaal
+  Khuda ki tarah hashr tak bemisaal
+  Yaqinan hai ek maujiza Karbala
 
   6
-  Har ek mulk me hai hussaini nishan
-  Hai masroof majlis mein har ek zaban
-  Jahan dekhiye farshe gham hai wahan
-  Hai kitna bada haq ka ye karwan
-  Hai phaili hui jaa baja karbala
+  Har ek mulk meiṅ hai Husaini nishaaṅ
+  Hai masruf majlis meiṅ har ek zabaaṅ
+  Jahaaṅ dekhiye farsh-e-gham hai wahaaṅ
+  Hai kitna bara haq ka ye kaarwaaṅ
+  Hai phaili hui jaa baja Karbala
 
   7
-  Faza majlison ki hai kitni bhali
-  Har ek zindagi hai wafa mein dhali
-  Hawa zikre sarwar ki aisi chali
-  Sada aayi har simt se ya ali
-  Kaha badh ke kaabe ne ya karbala
+  Faza majlisoṅ ki hai kitni bhali
+  Har ek zindagi hai wafa meiṅ dhali
+  Hawa zikr-e-Sarwar ki aisi chali
+  Sada aayi har simt se ya Ali
+  Kaha barh ke Kaabe ne ya Karbala
 
   8
-  Juda ab bhi bharat teri shaan hai
-  Yahan laal zehra ka mehman hai
-  Ye ganga bhi ashkon ka wardaan hai
-  Ho pyason pe qurban ye armaan hai
-  Hai hindu ke ghar taziya karbala
+  Juda ab bhi Bhaarat teri shaan hai
+  Yahaaṅ laal Zehra ka mehmaaṅ hai
+  Ye Ganga bhi ashkoṅ ka wardaan hai
+  Ho pyaasoṅ pe qurbaaṅ ye armaan hai
+  Hai Hindu ke ghar taaziya Karbala
 
   9
-  Ho nayyar pe aamir pe ya rab karam
-  Salamat rahe ye zaban ye qalam
-  Saron par hamare rahe ye alam
-  Ke naslon mein baaqi rahe sheh ka gham
-  Jo aaye unhe bhi dikha karbala
+  Ho Nayyar pe Aamir pe ya Rab karam
+  Salaamat rahe ye zabaaṅ ye qalam
+  Saroṅ par hamaare rahe ye alam
+  Ke nasloṅ meiṅ baaqi rahe Shah ka gham
+  Jo aaye unheiṅ bhi dikha Karbala
 # source_id: nohayonline:15fce2f338ce61659704
 # source_url: https://www.nohayonline.com/details_content.php?id=3582
 # raw_sha256: 78e7ccbd1c715a4d52f05e77549f875a2291fdc5c98244639f92cc9b84697c54
@@ -86,15 +87,15 @@ romanLyrics: |-
 
 ۱
 مقدس دعاؤں کے پالے ہے ہم
-کہ فرش عزا کے اجالے ہیں ہم
+کہ فرشِ عزا کے اجالے ہیں ہم
 زمانہ بہت دیکھے بھالے ہے ہم
 ستم سے کہاں ڈرنے والے ہیں ہم
-ہمیں دے گیء حوصلہ کربلا
+ہمیں دے گئی حوصلہ کربلا
 
 ۲
 عزاداروں تم حق کی جانب بڑھو
 حسینی ہو خود کو حسینی کہو
-چلو راہ کربوبلا پر چلو
+چلو راہِ کرب و بلا پر چلو
 کہ عزت سے جینے کا وعدہ کرو
 تمہیں دے رہی ہے دعا کربلا
 
@@ -114,23 +115,23 @@ romanLyrics: |-
 
 ۵
 حسین آپ ہے مصطفیٰ کا جمال
-تمناے زہرا علی کا کمال
-لباس بشر میں خدا کا جلال
+تمنائے زہرا علی کا کمال
+لباسِ بشر میں خدا کا جلال
 خدا کی طرح حشر تک بے مثال
 یقیناً ہے ایک معجزہ کربلا
 
 ۶
 ہر ایک ملک میں ہے حسینی نشاں
 ہے مصروف مجلس میں ہر ایک زباں
-جہاں دیکھیےء فرش غم ہے وہاں
+جہاں دیکھیے فرشِ غم ہے وہاں
 ہے کتنا بڑا حق کا یہ کارواں
 ہے پھیلی ہوئی جا بجا کربلا
 
 ۷
-فرش مجلسوں کی ہے کتنی بھلی
+فضا مجلسوں کی ہے کتنی بھلی
 ہر ایک زندگی ہے وفا میں ڈھلی
-ہوا ذکر سرور کی ایسی چلی
-صدا آی ہر سمت سے یا علی
+ہوا ذکرِ سرور کی ایسی چلی
+صدا آئی ہر سمت سے یا علی
 کہا بڑھ کے کعبے نے یا کربلا
 
 ۸
@@ -145,4 +146,4 @@ romanLyrics: |-
 سلامت رہے یہ زباں یہ قلم
 سروں پر ہمارے رہے یہ علم
 کہ نسلوں میں باقی رہے شہ کا غم
-جو آے انہیں بھی دکھا کربلا
+جو آئے انہیں بھی دکھا کربلا
