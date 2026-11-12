@@ -1,138 +1,139 @@
 ---
-title: "رہوار حسینی جب ٹہرا اور ایک قدم آگے نہ بڑھا"
-alternateTitle: "Khafela Roko"
+title: "رہوار حسینی جب ٹھہرا اور ایک قدم آگے نہ بڑھا"
+alternateTitle: "Qaafila Roko"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Rahwaare hussani jab tehra aur ek qadam aage na badha
-  Kuch khaak utha ke haathon mein abbas se ye maula ne kaha
-  Sar apna yahan katwayenge is khaak pe hum so jayenge
-  Khafela roko ghazi khafela roko ghazi
-  Aagayi karbobala khafela roko ghazi
+  Rahwaar-e-Husaini jab thehra aur ek qadam aage na barha
+  Kuchh khaak utha ke haathoṅ meiṅ Abbas se ye Maula ne kaha
+  Sar apna yahaaṅ katwaaeṅ ge is khaak pe hum so jaaeṅ ge
+  Qaafila roko Ghaazi qaafila roko Ghaazi
+  Aa gayi Karb o Bala qaafila roko Ghaazi
   Hai safar khatm hua yehi maqtal hai mera
-  Khafela roko ghazi
+  Qaafila roko Ghaazi
 
   1
-  Sun ke zahra ki buka jaan chali jaati hai
-  Is zameen se to mere khoon ki boo aati hai
-  Maa ki aati hai sada dil bhi kehta hai mera
-  Khafela roko ghazi
+  Sun ke Zahra ki buka jaaṅ chali jaati hai
+  Is zamiṅ se to mere khun ki bu aati hai
+  Maaṅ ki aati hai sada dil bhi kehta hai mera
+  Qaafila roko Ghaazi
 
   2
-  Apni manzil se kahin aage nahi jaana hai
-  Humko sajjad ne bhai yahin dafna hai
-  Roti behno se hamay yahin hona hai juda
-  Khafela roko ghazi
+  Apni manzil se kahiṅ aage nahiṅ jaana hai
+  Hum ko Sajjad ne bhaai yahi dafnaana hai
+  Roti behnoṅ se hameiṅ yahi hona hai juda
+  Qaafila roko Ghaazi
 
   3
-  Soong kar khaak ko aisi hui riqqat taari
-  Inna lillaah hua sheh ke labon se jaari
-  Sajda e shukr kiya mud ke bhai se kaha
-  Khafela roko ghazi
+  Suṅgh kar khaak ko aisi hui riqqat taari
+  Inna lillaah hua Shah ke laboṅ se jaari
+  Sajda-e-shukr kiya mur ke bhaai se kaha
+  Qaafila roko Ghaazi
 
   4
-  Ye zameen paaon pakadti hai mere ruk jao
-  Sar khule aaye thay jibreel abhi ruk jao
-  Ay sakina ke chacha aagaya amr e khuda
-  Khafela roko ghazi
+  Ye zamiṅ paaoṅ pakarti hai mere ruk jaao
+  Sar khule aaye the Jibril abhi ruk jaao
+  Ae Sakina ke chacha aa gaya amr-e-Khuda
+  Qaafila roko Ghaazi
 
   5
-  Maqtal e ishq ki jo maange wo qeemat dedo
-  Ye zameen naam pe hamshakle nabi ke lelo
-  Kaun basta hai yahan poochlo jaake zara
-  Khafela roko ghazi
+  Maqtal-e-ishq ki jo maange wo qimat de do
+  Ye zamiṅ naam pe hamshakl-e-Nabi ke le lo
+  Kaun basta hai yahaaṅ puchh lo jaa ke zara
+  Qaafila roko Ghaazi
 
   6
-  Dekho wo chand mujhe aise hi kham hona hai
-  Is tarayi mein mera baazu qalam hona hai
-  Khoon mein doobega yahan ek bhatiji ka chacha
-  Khafela roko ghazi
+  Dekho wo chaand mujhe aise hi kham hona hai
+  Is taraai meiṅ mera baazu qalam hona hai
+  Khun meiṅ dubega yahaaṅ ek bhatiji ka chacha
+  Qaafila roko Ghaazi
 
   7
-  Naam tum par na raqam saare azadaron ke
-  Is jagah aayenge ab khafele zawwaron ke
-  Mera matam hoga aayenge ahle aza
-  Khafela roko ghazi
+  Naam tum par na raqam saare azaadaaroṅ ke
+  Is jagah aaeṅ ge ab qaafile zawwaaroṅ ke
+  Mera maatam hoga aaeṅ ge ahl-e-aza
+  Qaafila roko Ghaazi
 
   8
-  Cheh mahino se safar mein hai musalsal asghar
-  Kaan mein kehde koi aagaya ab aakhri ghar
-  Teer khayega yahan wo mera maaheleqa
-  Khafela roko ghazi
+  Chhe mahinoṅ se safar meiṅ hai musalsal Asghar
+  Kaan meiṅ keh de koi aa gaya ab aakhri ghar
+  Tir khaae ga yahaaṅ wo mera maah-e-laqa
+  Qaafila roko Ghaazi
 
   9
-  Ek wo din tha takallum ke ali ki beti
-  Berida gyara moharaam ko yahan se jo chali
-  Roke deti thi sada dukhtare sher e khuda
-  Khafela roko ghazi
+  Ek wo din tha Takallum ke Ali ki beti
+  Berida gyaarah Muharram ko yahaaṅ se jo chali
+  Ro ke deti thi sada dukhtar-e-Sher-e-Khuda
+  Qaafila roko Ghaazi
 # source_id: nohayonline:7e704f8660acb9f071ac
 # source_url: https://www.nohayonline.com/details_content.php?id=3632
 # raw_sha256: b2f34a800055457aac9f146a439a5869babdb7d736769d0ab0d7f4961834a342
 ---
-رہوار حسینی جب ٹہرا اور ایک قدم آگے نہ بڑھا
+رہوار حسینی جب ٹھہرا اور ایک قدم آگے نہ بڑھا
 کچھ خاک اٹھا کے ہاتھوں میں عباس سے یہ مولا نے کہا
-سر اپنا یہاں کٹواییں گے اس خاک پہ ہم سو جاییں گے
-قافلہ رو کو غازی قافلہ رو کو غازی
-آ گیء کربوبلا قافلہ رو کو غازی
+سر اپنا یہاں کٹوائیں گے اس خاک پہ ہم سو جائیں گے
+قافلہ روکو غازی قافلہ روکو غازی
+آ گئی کرب و بلا قافلہ روکو غازی
 ہے سفر ختم ہوا یہی مقتل ہے میرا
-قافلہ رو کو غازی
+قافلہ روکو غازی
 
 ۱
 سن کے زہرا کی بکا جاں چلی جاتی ہے
 اس زمیں سے تو میرے خون کی بو آتی ہے
 ماں کی آتی ہے صدا دل بھی کہتا ہے میرا
-قافلہ رو کو غازی
+قافلہ روکو غازی
 
 ۲
-اپنی منزل سے کہیں آ گے نہیں جانا ہے
-ہم کو سجاد نے بھای یہی دفنانا ہے
+اپنی منزل سے کہیں آگے نہیں جانا ہے
+ہم کو سجاد نے بھائی یہی دفنانا ہے
 روتی بہنوں سے ہمیں یہی ہونا ہے جدا
-قافلہ رو کو غازی
+قافلہ روکو غازی
 
 ۳
-سونگھ کر خاک کو ایسی ہوی رقعت طاری
+سونگھ کر خاک کو ایسی ہوئی رقت طاری
 انا للہ ہوا شہ کے لبوں سے جاری
-سجدۂ شکر کیا مڑ کے بھای سے کہا
-قافلہ رو کو غازی
+سجدۂ شکر کیا مڑ کے بھائی سے کہا
+قافلہ روکو غازی
 
 ۴
 یہ زمیں پاؤں پکڑتی ہے میرے رک جاؤ
-سر کھلے آے تھے جبریل ابھی رک جاؤ
+سر کھلے آئے تھے جبریل ابھی رک جاؤ
 اے سکینہ کے چچا آ گیا امر خدا
-قافلہ رو کو غازی
+قافلہ روکو غازی
 
 ۵
-مقتل عشق کی جو مانگے وہ قیمت دیدو
+مقتل عشق کی جو مانگے وہ قیمت دے دو
 یہ زمیں نام پہ ہمشکل نبی کے لے لو
-کون بستا ہے یہاں پوچھ لو جا کے زرا
-قافلہ رو کو غازی
+کون بستا ہے یہاں پوچھ لو جا کے ذرا
+قافلہ روکو غازی
 
 ۶
 دیکھو وہ چاند مجھے ایسے ہی خم ہونا ہے
-اس ترای میں میرا بازو قلم ہونا ہے
+اس ترائی میں میرا بازو قلم ہونا ہے
 خون میں ڈوبے گا یہاں ایک بھتیجی کا چچا
-قافلہ رو کو غازی
+قافلہ روکو غازی
 
 ۷
 نام تم پر نہ رقم سارے عزاداروں کے
-اس جگہ آیینگے اب قافلے زواروں کے
-میرا ماتم ہوگا آیینگے اہل عزا
-قافلہ رو کو غازی
+اس جگہ آئیں گے اب قافلے زواروں کے
+میرا ماتم ہوگا آئیں گے اہل عزا
+قافلہ روکو غازی
 
 ۸
 چھ مہینوں سے سفر میں ہے مسلسل اصغر
-کام میں کہدے کوی آ گیا اب آخری گھر
-تیر کھاے گا یہاں وہ میرا ماہ لقا
-قافلہ رو کو غازی
+کان میں کہہ دے کوئی آ گیا اب آخری گھر
+تیر کھائے گا یہاں وہ میرا ماہ لقا
+قافلہ روکو غازی
 
 ۹
 ایک وہ دن تھا تکلم کہ علی کی بیٹی
 بے ردا گیارہ محرم کو یہاں سے جو چلی
 رو کے دیتی تھی صدا دختر شیر خدا
-قافلہ رو کو غازی
+قافلہ روکو غازی
