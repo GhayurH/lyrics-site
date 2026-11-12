@@ -6,202 +6,187 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi, Mazhar Abidi"
+reciter: "Mesum Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Bolo na bolo na maula maula hussain
-  Hussain hussain hussain hussain
-  Saare jahaan mein hai mazhab do hi
-  Ek yazeedi ek hussaini
-  Kaam nahi hame dunya se koi
-  Hum ne to chunli raah tumhari
-  Jo haq pe jeete marte hai
+  Bolo na bolo na Maula Maula Husain
+  Husain Husain Husain Husain
+
+  Saare jahaaṅ mein hai mazhab do hi
+  Ek Yazidi ek Husaini
+  Kaam nahiṅ hameiṅ dunya se koi
+  Hum ne to chun li raah tumhaari
+  Jo haq pe jite marte haiṅ
+  Jo baatil se takraate haiṅ
+  Jo dil mein tujhe basaate haiṅ
+  Hum un ko gale lagaate haiṅ
+
+  Jo bhi pukaare naam tumhaara
+  Hum us ke haiṅ wo hamaara
+  Hum ek hai ya Husain
+
+  Abbas ke parcham ke saaye mein
+  Ek hai ya Husain
+  Hum ek hai ya Husain
 
   1
-  Jo baatil se takrate hai
-  Jo dil mein tujhe basate hai
-  Hum unko gale lagate hai
-  Jo bhi pukare naam tumhara
-  Hum uske hai wo hamara
-  Hum ek hai ya hussain
+  Maula tu zinda baad rahe ga
+  Saare jahaaṅ ne hai maana
+  Kaam hi aisa tu ne kiya hai
+  Har dil hai tera diwaana
+  Tere liye ab haath utha kar
+  Bole ga saara zamaana
+  Ho wo Shia ya Sunni
+  Ban kar saare Husaini
+  Mil ke lagaayeṅ ge naara
 
   2
-  Abbas ke parcham ke saaye mein
-  Ek hai ya hussain
-  Hum ek hai ya hussain
-  Maula tu zindabad rahega
-  Saare jahan ne hai maana
-  Kaam hi aisa tu ne kiya hai
+  Hum zinda qaum hai hum ne bataaya
+  Jab bhi Muharram aaya
+  Ek alam ke saaye mein aaye
+  Aur ittihaad dikhaaya
+  Yaad-e-Husain mein paani pilaaya
+  Apna ho ya ho paraaya
+  Kaale libaas waale
+  Hum hai Abbas waale
+  Hum ko Husain hai pyaara
 
   3
-  Har dil hai tera deewana
-  Tere liye ab haath utha kar
-  Bolega saara zamana
-  Ho wo shia ya sunni
-  Ban kar saare hussaini
-  Mil ke lagayenge naara
-
-  4
-  Hum zinda qaum hai hum ne bataya
-  Jab bhi muharram aaya
-  Ek alam ke saaye mein aaye
-  Aur ittehad dikhaya
-  Yaade hussain mein pani pilaya
-
-  5
-  Apna ho ya ho paraya
-  Kaale libaas waale
-  Hum hai abbas waale
-  Hum ko hussain hai pyara
-  Hussain jab tu ek hai to
-
-  6
+  Husain jab tu ek hai to
   Teri qaum ho kaise juda juda
   Hai jo bhi tere chaahne waale
-  Unhe salamat rakhe khuda
+  Unheiṅ salaamat rakhe Khuda
   Hum ek hai hum ek hai
-  Dil ek dhadkan ek hai
+  Dil ek dharkan ek hai
   Har dil ki sada hai
-
-  7
-  Ya hussain ya hussain
-  Seeno pe likha hai
-  Ya hussain ya hussain
-  Tera naam hai pyara
+  Ya Husain ya Husain
+  Sinoṅ pe likha hai
+  Ya Husain ya Husain
+  Tera naam hai pyaara
   Millat ka hai naara
-  Tu hai maula hamara ya hussain
+  Tu hai Maula hamaara ya Husain
 
-  8
   Abbas ke parcham ke saaye mein
-  Ek hai ya hussain
-  Ek khuda hai ek mohamed
-  Ek kitaab hamari
-  Ye teri mehnat ka sarmaya
+  Ek hai ya Husain
 
-  9
+  4
+  Ek Khuda hai ek Muhammad
+  Ek kitaab hamaari
+  Ye teri mehnat ka sarmaaya
   Ek hai ummat saari
-  Ab saari qaumein karti hai mil kar
-  Maula teri azadari
-  Ghar ghar mein safe matam
-  Ghar ghar pe tera aalam
-  Ye bhi karam hai tumhara
+  Ab saari qaumeiṅ karti hai mil kar
+  Maula teri azaadaari
+  Ghar ghar mein saf-e-maatam
+  Ghar ghar pe tera alam
+  Ye bhi karam hai tumhaara
 
-  10
-  Jo bhi pukare naam tumhara
-  Hum uske hai wo hamara
-  Halqa e matam mein jaa kar hi
-  Dekhe hai hum ne nazare
+  Jo bhi pukaare naam tumhaara
+  Hum us ke haiṅ wo hamaara
 
-  11
+  5
+  Halqa-e-maatam mein jaa kar hi
+  Dekhe hai hum ne nazaare
   Na koi rang na mazhab millat
   Farq mita diye saare
-  Karbobala se farshe aza se
-  Milte hai hum ko ishare
-  Har aane waale hurr ko
+  Karbobala se farsh-e-aza se
+  Milte hai hum ko ishaare
+  Har aane waale Hur ko
   Bas ye kehte hai hum to
+  Dil se hai dil dil ko sahaara
 
-  12
-  Dil se hai dil dil ko sahara
-  Taareekh mein likhi jayengi
-  Safar e ishq ki baatein
-  Har rango nasl ke log khade hai
-  Sab ki alag hai zabanein
+  6
+  Taarikh mein likhi jaayeṅ gi
+  Safar-e-ishq ki baateiṅ
+  Har rang o nasl ke log khare haiṅ
+  Sab ki alag hai zabaaneiṅ
+  Sab tujh se milne aate haiṅ Maula
+  Teri taraf hai nigaaheiṅ
+  Chal kar dekh zamaana
+  Najaf se Karbobala
+  Ye keh raha hai har nazaara
 
-  13
-  Sab tujhse milne aate hai maula
-  Teri taraf hai nigahein
-  Chal kar dekh zamana
-  Najaf se karbobala
-  Ye keh raha hai har nazara
-
-  14
   Abbas ke parcham ke saaye mein
-  Ek hai ya hussain
-  Jab zulm kahin par hota hai
-  Khamosh kahan hum rehte hai
-  Na darte hai na jhukte hai
+  Ek hai ya Husain
 
-  15
-  Hame log hussaini kehte hai
-  Haq ki ladayi ho to hum ko
-  Jaan nahi hai pyari
-  Kisne kaha hum ek nahi hai
+  7
+  Jab zulm kahiṅ par hota hai
+  Khaamosh kahaaṅ hum rehte haiṅ
+  Na darte haiṅ na jhukte haiṅ
+  Hameiṅ log Husaini kehte haiṅ
+  Haq ki laraai ho to hum ko
+  Jaan nahiṅ hai pyaari
+  Kis ne kaha hum ek nahiṅ hai
   Sun le ye dunya saari
-  Chaahe jahan bhi rehte ho lekin
-
-  16
-  Yek jaa hai qaum hamari
+  Chaahe jahaaṅ bhi rehte ho lekin
+  Yak jaa hai qaum hamaari
   Dunya mein baat jab bhi
-  Hussainiat pe aayi
-  Hum jeete hai yazeed haara
-  Jo bhi pukare naam tumhara
+  Husainiyat pe aayi
+  Hum jite haiṅ Yazid haara
 
-  17
-  Hum uske hai wo hamara
+  Jo bhi pukaare naam tumhaara
+  Hum us ke haiṅ wo hamaara
+
+  8
   Ishq kiya jaata hai kaise
-  Saare jahan ko bataya
-  Ashoor ki shab aap ne maula
-  Jab wo charaagh bujhaya
-
-  18
-  Jisne yahan se jaana hai jaaye
-  Ansaar se farmaya
+  Saare jahaaṅ ko bataaya
+  Aashur ki shab aap ne Maula
+  Jab wo charaagh bujhaaya
+  Jis ne yahaaṅ se jaana hai jaaye
+  Ansaar se farmaaya
   Koi gaya na uth kar
   Kehne lage bahattar
-  Saath na chodenge tumhara
+  Saath na chhoreṅ ge tumhaara
 
-  19
-  Kaise uthaya laasha e akbar
-  Dil phat raha hai hamara
-  Dafn kiya asghar ka laasha
-  Maula ye dil tha tumhara
-  Jab karbala mein koi rawana
-  Maula tumhara sahara
-
-  20
+  9
+  Kaise uthaaya laasha-e-Akbar
+  Dil phat raha hai hamaara
+  Dafn kiya Asghar ka laasha
+  Maula ye dil tha tumhaara
+  Jab Karbala mein koi rawaana
+  Maula tumhaara sahaara
   Tum ko gale laga ke
   Rahwaar pe bitha ke
-  Saani e zehra ne pukara
-  Ay pyare nabi ke pyare hussain
-  Zahra ki aankh ke taare hussain
+  Saani-e-Zehra ne pukaara
 
-  21
-  Tere chaahne waale aaye hai
-  Tere alam ke saaye saaye hussain
-  Aur ashk baha kar kehte hai
-  Ye mazhar o zeeshan o meesam
-  Sada rahega hussain ka gham
-  Sada rahega hussain ka gham
+  10
+  Ae pyaare Nabi ke pyaare Husain
+  Zahra ki aaṅkh ke taare Husain
+  Tere chaahne waale aaye haiṅ
+  Tere alam ke saaye saaye Husain
+  Aur ashk baha kar kehte haiṅ
+  Ye Mazhar o Zeeshan o Meesam
+  Sada rahe ga Husain ka gham
+  Sada rahe ga Husain ka gham
 # source_id: nohayonline:75b0a80e24a877a33651
 # source_url: https://www.nohayonline.com/details_content.php?id=3664
 # raw_sha256: 0a1af033a270405604d955315451a76197101f054cf9ad44408154c8b02e2ac2
 ---
 بولو نہ بولو نہ مولا مولا حسین
 حسین حسین حسین حسین
+
 سارے جہاں میں ہے مذہب دو ہی
 ایک یزیدی ایک حسینی
 کام نہیں ہمیں دنیا سے کوئی
 ہم نے تو چن لی راہ تمہاری
 جو حق پہ جیتے مرتے ہیں
-
-۱
 جو باطل سے ٹکراتے ہیں
 جو دل میں تجھے بساتے ہیں
 ہم ان کو گلے لگاتے ہیں
+
 جو بھی پکارے نام تمہارا
 ہم اس کے ہیں وہ ہمارا
 ہم ایک ہے یا حسین
 
-۲
 عباس کے پرچم کے سائے میں
 ایک ہے یا حسین
 ہم ایک ہے یا حسین
+
+۱
 مولا تو زندہ باد رہے گا
 سارے جہاں نے ہے مانا
 کام ہی ایسا تو نے کیا ہے
-
-۳
 ہر دل ہے تیرا دیوانا
 تیرے لئے اب ہاتھ اٹھا کر
 بولے گا سارا زمانہ
@@ -209,29 +194,25 @@ romanLyrics: |-
 بن کر سارے حسینی
 مل کے لگائیں گے نعرہ
 
-۴
+۲
 ہم زندہ قوم ہے ہم نے بتایا
 جب بھی محرم آیا
-ایک علم کے ساے میں آے
+ایک علم کے سائے میں آئے
 اور اتحاد دکھایا
-یاد حسین میں پانی پلایا
-
-۵
+یادِ حسین میں پانی پلایا
 اپنا ہو یا پرایا
 کالے لباس والے
 ہم ہے عباس والے
 ہم کو حسین ہے پیارا
-حسین جب تو ایک ہے تو
 
-۶
+۳
+حسین جب تو ایک ہے تو
 تیری قوم ہو کیسے جدا جدا
 ہے جو بھی تیرے چاہنے والے
 انہیں سلامت رکھے خدا
 ہم ایک ہے ہم ایک ہے
 دل ایک دھڑکن ایک ہے
 ہر دل کی صدا ہے
-
-۷
 یا حسین یا حسین
 سینوں پہ لکھا ہے
 یا حسین یا حسین
@@ -239,103 +220,93 @@ romanLyrics: |-
 ملت کا ہے نعرہ
 تو ہے مولا ہمارا یا حسین
 
-۸
 عباس کے پرچم کے سائے میں
 ایک ہے یا حسین
+
+۴
 ایک خدا ہے ایک محمد
 ایک کتاب ہماری
-یہ تیری محنت کا سرمایا
-
-۹
+یہ تیری محنت کا سرمایہ
 ایک ہے امت ساری
 اب ساری قومیں کرتی ہے مل کر
 مولا تیری عزاداری
-گھر گھر میں صف ماتم
+گھر گھر میں صفِ ماتم
 گھر گھر پہ تیرا علم
 یہ بھی کرم ہے تمہارا
 
-۱۰
 جو بھی پکارے نام تمہارا
 ہم اس کے ہیں وہ ہمارا
+
+۵
 حلقۂ ماتم میں جا کر ہی
 دیکھے ہے ہم نے نظارے
-
-۱۱
 نہ کوئی رنگ نہ مذہب ملت
-فرق مٹا دیےء سارے
-کربوبلا سے فرش عزا سے
+فرق مٹا دیے سارے
+کربوبلا سے فرشِ عزا سے
 ملتے ہے ہم کو اشارے
 ہر آنے والے حر کو
 بس یہ کہتے ہے ہم تو
-
-۱۲
 دل سے ہے دل دل کو سہارا
-تاریخ میں لکھی جایینگی
-سفر عشق کی باتیں
+
+۶
+تاریخ میں لکھی جائیں گی
+سفرِ عشق کی باتیں
 ہر رنگ و نسل کے لوگ کھڑے ہیں
 سب کی الگ ہے زبانیں
-
-۱۳
 سب تجھے ملنے آتے ہیں مولا
 تیری طرف ہے نگاہیں
 چل کر دیکھ زمانہ
 نجف سے کربوبلا
 یہ کہہ رہا ہے ہر نظارہ
 
-۱۴
 عباس کے پرچم کے سائے میں
 ایک ہے یا حسین
+
+۷
 جب ظلم کہیں پر ہوتا ہے
 خاموش کہاں ہم رہتے ہیں
 نہ ڈرتے ہیں نہ جھکتے ہیں
-
-۱۵
 ہمیں لوگ حسینی کہتے ہیں
 حق کی لڑائی ہو تو ہم کو
-جان‌ نہیں ہے پیاری
-کس نے کہا ہم‌ ایک نہیں ہے
+جان نہیں ہے پیاری
+کس نے کہا ہم ایک نہیں ہے
 سن لے یہ دنیا ساری
 چاہے جہاں بھی رہتے ہو لیکن
-
-۱۶
 یک جا ہے قوم ہماری
 دنیا میں بات جب بھی
-حسینیت پہ آی
+حسینیت پہ آئی
 ہم جیتے ہیں یزید ہارا
-جو بھی پکارے نام تمہارا
 
-۱۷
+جو بھی پکارے نام تمہارا
 ہم اس کے ہیں وہ ہمارا
+
+۸
 عشق کیا جاتا ہے کیسے
 سارے جہاں کو بتایا
 عاشور کی شب آپ نے مولا
 جب وہ چراغ بجھایا
-
-۱۸
-جس نے یہاں سے جانا ہے جاے
+جس نے یہاں سے جانا ہے جائے
 انصار سے فرمایا
-کوی گیا نہ اٹھ کر
+کوئی گیا نہ اٹھ کر
 کہنے لگے بہتر
 ساتھ نہ چھوڑیں گے تمہارا
 
-۱۹
-کیسے اٹھایا لاشہء اکبر
+۹
+کیسے اٹھایا لاشۂ اکبر
 دل پھٹ رہا ہے ہمارا
 دفن کیا اصغر کا لاشہ
 مولا یہ دل تھا تمہارا
 جب کربلا میں کوئی روانہ
 مولا تمہارا سہارا
-
-۲۰
 تم کو گلے لگا کے
 رہوار پہ بٹھا کے
-ثانیء زہرا نے پکارا
+ثانیِ زہرا نے پکارا
+
+۱۰
 اے پیارے نبی کے پیارے حسین
 زہرا کی آنکھ کے تارے حسین
-
-۲۱
-تیرے چاہنے والے آے ہیں
-تیرے علم کے ساے حسین
+تیرے چاہنے والے آئے ہیں
+تیرے علم کے سائے حسین
 اور اشک بہا کر کہتے ہیں
 یہ مظہر و زیشان و میثم
 صدا رہے گا حسین کا غم
