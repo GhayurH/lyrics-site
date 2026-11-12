@@ -1,54 +1,55 @@
 ---
-title: "حسین ساری یہ کاینات تیرے دم سے ہے"
-alternateTitle: "Hussain Saari Ye"
+title: "حسین ساری یہ کائنات تیرے دم سے ہے"
+alternateTitle: "Husain Saari Ye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Sardar"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hussain saari ye kainaat tere dam se hai
-  Ye dil abaad hashr tak bhi tere gham se hai
+  Husain saari ye kaainaat tere dam se hai
+  Ye dil aabaad hashr tak bhi tere gham se hai
 
   1
-  Kaha tha kis ne ye maula teri sharafat pe
-  Ke hum hussain se hai aur hussain hum se hai
+  Kaha tha kis ne ye Maula teri sharaafat pe
+  Ke hum Husain se hai aur Husain hum se hai
 
   2
-  Kata ke tu ne jo sar deen ko kiya zinda
-  Har ek aankh ashk baar tere gham se hai
+  Kataa ke tu ne jo sar din ko kiya zinda
+  Har ek aaṅkh ashk baar tere gham se hai
 
   3
-  Ufaq pe aaj jo surkhi hai khoone na-haq ki
-  Zameen udaas abhi tak bhi tere gham se hai
+  Ufaq pe aaj jo surkhi hai khun-e-naahaq ki
+  Zamiṅ udaas abhi tak bhi tere gham se hai
 
   4
-  Namaz e ishq ada ki jo tu ne teeron mein
-  Namaz aaj bhi qaayam tere alam se hai
+  Namaaz-e-ishq ada ki jo tu ne tiroṅ meiṅ
+  Namaaz aaj bhi qiyaam tere alam se hai
 
   5
-  Tere namoos jo darbar mein thay beparda
-  Hairaan aalam e islam is sharam se hai
+  Tere naamus jo darbaar meiṅ the beparda
+  Hairaan aalam-e-Islam is sharm se hai
 
   6
-  Karenge seena zani jab talak hai ye dunya
-  Hamara deen emaan aap ke hi gham se hai
+  Kareṅ ge sina zani jab talak hai ye duniya
+  Hamaara din imaan aap ke hi gham se hai
 
   7
-  Diya tha parcham e islam par jo khoon tera
-  Mashaf fizaon mein ab tak tere karam se hai
+  Diya tha parcham-e-Islam par jo khuṅ tera
+  Mashaf fizaaoṅ meiṅ ab tak tere karam se hai
 
   8
-  Jaga bhi denge ye soye huwe naseebon ko
-  Dar e batool pe sardar aankh nam se hai
+  Jagah bhi deṅ ge ye soye hue nasiboṅ ko
+  Dar-e-Batul pe Sardar aaṅkh nam se hai
 # source_id: nohayonline:abae489009431b70c8d4
 # source_url: https://www.nohayonline.com/details_content.php?id=2333
 # raw_sha256: 522a92f2825d1e023934e1817ee8b08b843a61a89f1f80d03eb27daa72c60e1d
 ---
-حسین ساری یہ کاینات تیرے دم سے ہے
+حسین ساری یہ کائنات تیرے دم سے ہے
 یہ دل آباد حشر تک بھی تیرے غم سے ہے
 
 ۱
@@ -60,16 +61,16 @@ romanLyrics: |-
 ہر ایک آنکھ اشک بار تیرے غم سے ہے
 
 ۳
-افق پہ آج جو سرخی ہے خونِ نہ حق کی
+افق پہ آج جو سرخی ہے خونِ ناحق کی
 زمیں اداس ابھی تک بھی تیرے غم سے ہے
 
 ۴
-نماز عشق ادا کی جو تو نے تیروں میں
+نمازِ عشق ادا کی جو تو نے تیروں میں
 نماز آج بھی قیام تیرے علم سے ہے
 
 ۵
 تیرے ناموس جو دربار میں تھے بے پردہ
-حیران عالم اسلام اس شرم سے ہے
+حیران عالمِ اسلام اس شرم سے ہے
 
 ۶
 کریں گے سینہ زنی جب تلک ہے یہ دنیا
@@ -80,5 +81,5 @@ romanLyrics: |-
 مشف فضاؤں میں اب تک تیرے کرم سے ہے
 
 ۸
-جگہ بھی دیں گے یہ سوے ہوے نصیبوں کو
-در بتول پہ سردار آنکھ نم سے ہے
+جگہ بھی دیں گے یہ سوئے ہوئے نصیبوں کو
+درِ بتول پہ سردار آنکھ نم سے ہے

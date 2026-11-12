@@ -1,92 +1,93 @@
 ---
-title: "صداییں دیتا ہے کعبہ حسین رک جاؤ"
-alternateTitle: "Hussain Ruk Jao"
+title: "صدائیں دیتا ہے کعبہ حسین رک جاؤ"
+alternateTitle: "Husain Ruk Jao"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
+reciter: "Mir Hasan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sadayein deta hai kaaba hussain ruk jao
-  Na badlo hajj ka iraada hussain ruk jao
+  Sadaaeṅ deta hai Kaaba Husain ruk jaao
+  Na badlo hajj ka iraada Husain ruk jaao
 
   1
-  Tum apne jadh ke makaan may ho be-dayaar nahi
-  Hussain mujhko zamane ka aetbaar nahi
-  Hai saath saani e zehra hussain ruk jao
+  Tum apne jad ke makaaṅ meiṅ ho ae dayaar nahiṅ
+  Husain mujh ko zamaane ka aetbaar nahiṅ
+  Hai saath Saani-e-Zehra Husain ruk jaao
 
   2
-  Tumhare paon pakadti hai sar zameen e haram
-  Khuda ke waastae aage na ab badhao qadam
-  Na jao jaanib e kufa hussain ruk jao
+  Tumhaare paaoṅ pakarti hai sar zamin-e-haram
+  Khuda ke waaste aage na ab barhaao qadam
+  Na jaao jaanib-e-Kufa Husain ruk jaao
 
   3
-  In haajiyo ki zara bhi nahi hai fikr mujhe
-  Hai bas ye fikr ke gar aap mujhko chod gaye
-  Mera bhi hajj nahi hoga hussain ruk jao
+  In haajiyoṅ ki zara bhi nahiṅ hai fikr mujhe
+  Hai bas ye fikr ke gar aap mujh ko chhor gaye
+  Mera bhi hajj nahiṅ hoga Husain ruk jaao
 
   4
-  Kaho rabab se baysheer ko bhi le aao
-  Ali ki tarha yahan par makeen ho jao
-  Tumhara bacha hai chota hussain ruk jao
+  Kaho Rabab se beshir ko bhi le aao
+  Ali ki tarah yahaaṅ par makin ho jaao
+  Tumhaara bachcha hai chhota Husain ruk jaao
 
   5
-  Ali ko qaidi banaya gaya madine may
-  Suna hai bibi ko maara gaya madine may
-  Sunao ghurbat e zehra hussain ruk jao
+  Ali ko qaidi banaaya gaya Madine meiṅ
+  Suna hai Bibi ko maara gaya Madine meiṅ
+  Sunaao ghurbat-e-Zehra Husain ruk jaao
 
   6
-  Karenge jashn ke yaum e ameer hai nazdeek
-  Ghareeb e zehra na jao ghadeer hai nazdeek
-  Padhenge mil ke qasida hussain ruk jao
+  Kareṅ ge jashn ke yaum-e-Amir hai nazdik
+  Gharib-e-Zehra na jaao Ghadir hai nazdik
+  Parheṅ ge mil ke qasida Husain ruk jaao
 
   7
-  Suna hai karbobala may bala ki garmi hai
-  Tumhe pata hai isay kitni pyaas lagti hai
-  Hai saath bali sakina hussain ruk jao
+  Suna hai Karbobala meiṅ bala ki garmi hai
+  Tumheiṅ pata hai unheiṅ kitni pyaas lagti hai
+  Hai saath baali Sakina Husain ruk jaao
 
   8
-  Layeen phirte hai ehraam may liye khanjar
-  Tum apni behno ko le aao kaabe ke andar
-  Har ek simt hai khatra hussain ruk jao
+  Lain phirte haiṅ ehraam meiṅ liye khanjar
+  Tum apni behnoṅ ko le aao Kaabe ke andar
+  Har ek simt hai khatra Husain ruk jaao
 
   9
-  Jo guzri tum pe musibat unhe suna dena
-  Samajh ke marqad e zehra diya jala dena
-  Yahin hai qabr e khadija hussain ruk jao
+  Jo guzri tum pe musibat unheiṅ suna dena
+  Samajh ke marqad-e-Zehra diya jala dena
+  Yahi hai qabr-e-Khadija Husain ruk jaao
 
   10
-  Unhe khabar hai na chodengi tum ko wo tanha
-  Tumhari maa se zyada chala nahi jaata
-  Hai unka pehlu shikasta hussain ruk jao
+  Unheiṅ khabar hai na chhoreṅ ge tum ko wo tanha
+  Tumhaari maaṅ se zyaada chala nahiṅ jaata
+  Hai un ka pehlu shikasta Husain ruk jaao
 
   11
-  Wo gham imam ka sajjad kis tarha likhe
-  Nikal ke makkah se kitna hussain roye thay
-  Bulaata reh gaya kaaba hussain ruk jao
+  Wo gham Imam ka Sajjad kis tarah likhe
+  Nikal ke Makka se kitna Husain roye the
+  Bulaata reh gaya Kaaba Husain ruk jaao
 # source_id: nohayonline:0b225966750ad4d35ab2
 # source_url: https://www.nohayonline.com/details_content.php?id=1929
 # raw_sha256: da9d81770ab6f94c6cfbfaae5f5d79c36fd20be2ff870a0b7915567611b554d6
 ---
-صداییں دیتا ہے کعبہ حسین رک جاؤ
+صدائیں دیتا ہے کعبہ حسین رک جاؤ
 نہ بدلو حج کا ارادہ حسین رک جاؤ
 
 ۱
 تم اپنے جد کے مکاں میں ہو اے دیار نہیں
-حسین مجھکو زمانے کا اعتبار نہیں
-ہے ساتھ ثانیء زہرا حسین رک جاؤ
+حسین مجھ کو زمانے کا اعتبار نہیں
+ہے ساتھ ثانیِ زہرا حسین رک جاؤ
 
 ۲
 تمہارے پاؤں پکڑتی ہے سر زمینِ حرم
 خدا کے واسطے آگے نہ اب بڑھاؤ قدم
-نہ جاؤ جانب کوفہ حسین رک جاؤ
+نہ جاؤ جانبِ کوفہ حسین رک جاؤ
 
 ۳
-ان حاجیوں کی زرا بھی نہیں ہے فکر مجھے
-ہے بس یہ فکر کہ گر آپ مجھکو چھوڑ گےء
+ان حاجیوں کی ذرا بھی نہیں ہے فکر مجھے
+ہے بس یہ فکر کہ گر آپ مجھ کو چھوڑ گئے
 میرا بھی حج نہیں ہوگا حسین رک جاؤ
 
 ۴
@@ -96,12 +97,12 @@ romanLyrics: |-
 
 ۵
 علی کو قیدی بنایا گیا مدینے میں
-سنا ہے بی بی کو مارا گیا مدینے میں
-سناؤ غربت زہرا حسین رک جاؤ
+سنا ہے بی‌بی کو مارا گیا مدینے میں
+سناؤ غربتِ زہرا حسین رک جاؤ
 
 ۶
 کریں گے جشن کے یومِ امیر ہے نزدیک
-غریب زہرا نہ جاؤ غدیر ہے نزدیک
+غریبِ زہرا نہ جاؤ غدیر ہے نزدیک
 پڑھیں گے مل کے قصیدہ حسین رک جاؤ
 
 ۷
@@ -110,21 +111,21 @@ romanLyrics: |-
 ہے ساتھ بالی سکینہ حسین رک جاؤ
 
 ۸
-لعین پھرتے ہیں احرام میں لیےء خنجر
+لعین پھرتے ہیں احرام میں لیے خنجر
 تم اپنی بہنوں کو لے آؤ کعبے کے اندر
 ہر ایک سمت ہے خطرہ حسین رک جاؤ
 
 ۹
 جو گزری تم پہ مصیبت انہیں سنا دینا
-سمجھ کے‌ مرقدِ زہرا دیا جلا دینا
-یہی ہے قبر خدیجہ حسین رک جاؤ
+سمجھ کے مرقدِ زہرا دیا جلا دینا
+یہی ہے قبرِ خدیجہ حسین رک جاؤ
 
 ۱۰
 انہیں خبر ہے نہ چھوڑیں گے تم کو وہ تنہا
 تمہاری ماں سے زیادہ چلا نہیں جاتا
-ہے انکا پہلو شکستہ حسین رک جاؤ
+ہے ان کا پہلو شکستہ حسین رک جاؤ
 
 ۱۱
 وہ غم امام کا سجاد کس طرح لکھے
-نکل کے مکہ سے کتنا حسین روے تھے
+نکل کے مکہ سے کتنا حسین روئے تھے
 بلاتا رہ گیا کعبہ حسین رک جاؤ
