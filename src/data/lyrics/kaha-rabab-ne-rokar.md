@@ -6,43 +6,44 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Ali Khan Lakhnavi"
+reciter: "Zawwar Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kaha rabab ne ro kar watan chalo beti
-  Ye maa ho tum pa nichawar watan chalo beti
+  Kaha Rabab ne ro kar watan chalo beti
+  Ye maaṅ ho tum pe nichhaawar watan chalo beti
 
   1
-  Tadap tadap ke mai roti hoo har ghadi ab to
-  Rehaai qaid se sun kar watan chalo beti
+  Tarap tarap ke maiṅ roti huṅ har ghari ab to
+  Rihaai qaid se sun kar watan chalo beti
 
   2
-  Khila pila ke sulaya karungi pehlu may
+  Khila pila ke sulaaya karuṅ gi pehlu meiṅ
   Ye waada karti hai maadar watan chalo beti
 
   3
-  Na ab tamache na shimr e layeen ka darr hoga
-  Na koi cheenega gauhar watan chalo beti
+  Na ab tamaanche na Shimr-e-laiṅ ka dar hoga
+  Na koi chhine ga gauhar watan chalo beti
 
   4
   Har ek lamha jise yaad kar ke roti thi
   Hai muntazir wo tera ghar watan chalo beti
 
   5
-  Bahana shimr ka pani wo tum ko tadpa kar
-  Na bhool paayi wo manzar watan chalo beti
+  Bahaana Shimr ka paani wo tum ko tarpa kar
+  Na bhul paai wo manzar watan chalo beti
 
   6
-  Andheri raat hai aur ek hoo ka aalam hai
-  Sukoon paaogi kyun kar watan chalo beti
+  Andheri raat hai aur ek hu ka aalam hai
+  Sukun paaogi kiuṅ kar watan chalo beti
 
   7
-  Kisi khushi ki tamanna wo maa kare kaise
-  Ke jis pa toota ho mehshar watan chalo beti
+  Kisi khushi ki tamanna wo maaṅ kare kaise
+  Ke jis pe tuta ho mahshar watan chalo beti
 
   8
-  Rabab qabr e sakina se jab raza uthi
+  Rabab qabr-e-Sakina se jab Raza uthi
   Har ek lamha tha lab par watan chalo beti
 # source_id: nohayonline:4ae5260dc4f51e5bba92
 # source_url: https://www.nohayonline.com/details_content.php?id=1984
@@ -64,12 +65,12 @@ romanLyrics: |-
 نہ کوئی چھینے گا گوہر وطن چلو بیٹی
 
 ۴
-ہر ایک لمحہ جسے یاد کر کہ روتی تھی
+ہر ایک لمحہ جسے یاد کر کے روتی تھی
 ہے منتظر وہ تیرا گھر وطن چلو بیٹی
 
 ۵
 بہانا شمر کا پانی وہ تم کو تڑپ کر
-نہ بھول پای وہ منظر وطن چلو بیٹی
+نہ بھول پائی وہ منظر وطن چلو بیٹی
 
 ۶
 اندھیری رات ہے اور اک لہو کا عالم ہے
