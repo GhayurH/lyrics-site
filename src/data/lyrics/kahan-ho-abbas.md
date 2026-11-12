@@ -5,68 +5,69 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Ameer Hasan Aamir"
 poet: "Nayyar Jalalpuri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aagaya shaam ka bazaar kahan ho abbas
-  Mere monis mere ghamkhwar kahan ho abbas
+  Aa gaya Shaam ka bazaar kahaaṅ ho Abbas
+  Mere monis mere ghamkhwaar kahaaṅ ho Abbas
 
   1
   Kis musibat mein hai bhaiya ye behen dekh to lo
-  Mere ghazi mere haathon mein rasan dekh to lo
-  Koi yawar na madadgaar kahan ho abbas
+  Mere Ghazi mere haathoṅ mein rasan dekh to lo
+  Koi yaawar na madadgaar kahaaṅ ho Abbas
 
   2
-  Wo nakahat hai chala bhi nahi jaata mujhse
-  Baith'ti hoon to utha bhi nahi jaata mujhse
-  Al-madad sheh ke alamdaar kahan ho abbas
+  Wo naqaahat hai chala bhi nahiṅ jaata mujh se
+  Baithti huṅ to utha bhi nahiṅ jaata mujh se
+  Almadad Shah ke alamdaar kahaaṅ ho Abbas
 
   3
-  Kya kahun kis se kahun haal bhala abid ka
-  Kaz gaya tauq ke kaanto se gala abid ka
-  Saans lena bhi hai dushwaar kahan ho abbas
+  Kya kahuṅ kis se kahuṅ haal bhala Aabid ka
+  Kas gaya tauq ke kaaṅtoṅ se gala Aabid ka
+  Saaṅs lena bhi hai dushwaar kahaaṅ ho Abbas
 
   4
-  Parde majrooh ek dard jaga deti hai
-  Bediyan bhi tumhe ro ro ke sada deti hai
-  Qaid hai abid e bemaar kahan ho abbas
+  Parde majruh ek dard jagah deti hai
+  Beriyaṅ bhi tumheiṅ ro ro ke sada deti hai
+  Qaid hai Aabid-e-bimaar kahaaṅ ho Abbas
 
   5
-  Mujhse pooche koi ehsaas e ghareebul watani
-  Har nafas dil mein mere chubti hai barchi ki ani
-  Mar gaya akbar e jarrar kahan ho abbas
+  Mujh se puchhe koi ehsaas-e-gharibulwatani
+  Har nafas dil mein mere chubhti hai barchhi ki ani
+  Mar gaya Akbar-e-jarraar kahaaṅ ho Abbas
 
   6
-  Kaise hota teri ghairat ko gawara bhaiya
-  Naam lekar mujhe zaalim ne pukara bhaiya
-  Hum pe haste hai sab aghiyaar kahan ho abbas
+  Kaise hota teri ghairat ko gawaara bhaiya
+  Naam le kar mujhe zaalim ne pukaara bhaiya
+  Ham pe haṅste hai sab aghyaar kahaaṅ ho Abbas
 
   7
-  Habashi aagaye fizza ki himayat ke liye
-  Kyun nahi aate bhala tum meri nusrat ke liye
-  Taziyano ki hai bauchaar kahan ho abbas
+  Habshi aa gaye Fizza ki himaayat ke liye
+  Kiuṅ nahiṅ aate bhala tum meri nusrat ke liye
+  Taaziyaanoṅ ki hai bauchhaar kahaaṅ ho Abbas
 
   8
-  Khul ke roti nahi mazloom yateema bhaiya
-  Siskiyan leti hai reh reh ke sakina bhaiya
-  Kitna karti thi tumhe pyaar kahan ho abbas
+  Khul ke roti nahiṅ mazlum yatima bhaiya
+  Siskiyaṅ leti hai reh reh ke Sakina bhaiya
+  Kitna karti thi tumheiṅ pyaar kahaaṅ ho Abbas
 
   9
-  Tum nahi ho to sakina pe sitam hote hai
-  Khushk aankhein magar kaan lahoo rote hai
-  Marsiya padhte hai rukhsaar kahan ho abbas
+  Tum nahiṅ ho to Sakina pe sitam hote haiṅ
+  Khushk aaṅkheiṅ haiṅ magar kaan lahu rote haiṅ
+  Marsiya parhte haiṅ rukhsaar kahaaṅ ho Abbas
 
   10
-  Lut gaya ghar mera aur gham ki ijazat bhi nahi
-  Kitni majboor hoon matam ki ijazat bhi nahi
-  Hoon rasan basta azadaar kahan ho abbas
+  Lut gaya ghar mera aur gham ki ijaazat bhi nahiṅ
+  Kitni majbur huṅ maatam ki ijaazat bhi nahiṅ
+  Huṅ rasan basta azaadaar kahaaṅ ho Abbas
 
   11
-  Hai bapa shaam ke bazaar mein aamir mehshar
-  Noke naize se gira jaata hai ek sar nayyar
-  Bain karte hai giraftaar kahan ho abbas
+  Hai bapa Shaam ke bazaar mein Aamir mahshar
+  Nok-e-naize se gira jaata hai ek sar Nayyar
+  Bain karte haiṅ giraftaar kahaaṅ ho Abbas
 # source_id: nohayonline:43953090e859c9a2a207
 # source_url: https://www.nohayonline.com/details_content.php?id=3585
 # raw_sha256: 07dd2aba9c414e5b015aaff9940bd1757b466aa0cafe8f3f455e006c506290c7
@@ -92,12 +93,12 @@ romanLyrics: |-
 ۴
 پردے مجروح ایک درد جگہ دیتی ہے
 بیڑیاں بھی تمہیں رو رو کے صدا دیتی ہے
-قید ہے عابد بیمار کہاں ہو عباس
+قید ہے عابدِ بیمار کہاں ہو عباس
 
 ۵
-مجھ سے پوچھے کوئی احساس غریب الوطنی
+مجھ سے پوچھے کوئی احساسِ غریب الوطنی
 ہر نفس دل میں میرے چبھتی ہے برچھی کی انی
-مر گیا اکبر جرار کہاں ہو عباس
+مر گیا اکبرِ جرار کہاں ہو عباس
 
 ۶
 کیسے ہوتا تیری غیرت کو گوارا بھیا
@@ -105,7 +106,7 @@ romanLyrics: |-
 ہم پہ ہنستے ہے سب اغیار کہاں ہو عباس
 
 ۷
-ہبشی آ گےء فضہ کی حمایت کے لئے
+حبشی آ گئے فضہ کی حمایت کے لئے
 کیوں نہیں آتے بھلا تم میری نصرت کے لئے
 تازیانوں کی ہے بوچھار کہاں ہو عباس
 
@@ -122,9 +123,9 @@ romanLyrics: |-
 ۱۰
 لٹ گیا گھر میرا اور غم کی اجازت بھی نہیں
 کتنی مجبور ہوں ماتم کی اجازت بھی نہیں
-ہوں رسن پستہ عزادار کہاں ہو عباس
+ہوں رسن بستہ عزادار کہاں ہو عباس
 
 ۱۱
 ہے بپا شام کے بازار میں عامر محشر
-نوک نیزے سے گرا جاتا ہے ایک سر نیر
+نوکِ نیزے سے گرا جاتا ہے ایک سر نیر
 بین کرتے ہیں گرفتار کہاں ہو عباس
