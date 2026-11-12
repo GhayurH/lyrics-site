@@ -6,52 +6,54 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Tazeem karo aati hai shehzadi e shaam
-  Ay aseeran e sitam utho karo aao salam
+  Tazim karo aati hai shehzaadi-e-Shaam
+  Ae asiraan-e-sitam utho karo aao salaam
   Hind aati hai har ek dukh ki dawa kar degi
-  Rehm dil bibi hai chahe to reha kar degi
+  Rahm dil Bibi hai chaahe to riha kar degi
+
+  Jab suni Hind ke aane ki khabar Zainab ne
+  Rakh diya khaak pe rote hue sar Zainab ne
 
   1
-  Jab suni hind ke aane ki khabar zainab ne
-  Rakh diya khaak pe rote hue sar zainab ne
-  Boli sajjad se jaldi koi chadar la de
-  Mere hissay ki jahan maut hai jakar la de
-  Koi shay chupne mujhko mere dilbar la de
-  Keh ke ye thaam liya apna jigar zainab ne
+  Boli Sajjad se jaldi koi chaadar la de
+  Mere hisse ki jahaaṅ maut hai jaa kar la de
+  Koi shai chhupne ki mujh ko mere dilbar la de
+  Keh ke ye thaam liya apna jigar Zainab ne
 
   2
-  Saamna hind ka kis tarha karoongi beta
-  Aankh bhar kar mujhe jisne na kabhi tha dekha
-  Ab wo dekhegi yahan haye khula sar mera
-  Ye wo hai jisko diye laal o gohar zainab ne
+  Saamna Hind ka kis tarah karuṅgi beta
+  Aaṅkh bhar kar mujhe jis ne na kabhi tha dekha
+  Ab wo dekhegi yahaaṅ haye khula sar mera
+  Ye wo hai jis ko diye laal o gohar Zainab ne
 
   3
-  Hind aayi to kisi ne kaha tazeem karo
-  Qadiyon jaye adab hai chalo tasleem karo
-  Rehm dil bibi hai ghabrao na takreem karo
-  Sunke ye ashkon se daman kiya tar zainab ne
+  Hind aayi to kisi ne kaha tazim karo
+  Qaidiyo jaa-e-adab hai chalo taslim karo
+  Rahm dil Bibi hai ghabraao na takrim karo
+  Sun ke ye ashkoṅ se daaman kiya tar Zainab ne
 
   4
-  Hind ne naam jo poocha to haya aane lagi
-  Binte zehra thi tadapne lagi sharmane lagi
-  Yaad abbas ki bibi ko bahot aane lagi
-  Ki sar e shaah pe us waqt nazar zainab ne
+  Hind ne naam jo puchha to haya aane lagi
+  Bint-e-Zehra thi tarapne lagi sharmaane lagi
+  Yaad Abbas ki Bibi ko bahut aane lagi
+  Ki sar-e-Shaah pe us waqt nazar Zainab ne
 
   5
-  Hind pehchan gayi jism mein larza aaya
-  Phaynk kar apni rida royi bahot ghash aaya
-  Sar rakha qadmo pe rote hue ye farmeina
-  Kaisi haalat mein kiya yan ka safar zainab ne
+  Hind pehchaan gayi jism mein larza aaya
+  Pheṅk kar apni rida royi bahut ghash aaya
+  Sar rakha qadmoṅ pe rote hue ye farmaaya
+  Kaisi haalat mein kiya yaaṅ ka safar Zainab ne
 
   6
-  Kaise rehaan bayan qaid ka hoga manzar
-  Hind ke sar pe jo zainab ne udhayi chadar
-  Aur us waqt bhi bibi ka barehna raha sar
-  Gham ka mahol mila dekha jidhar zainab ne
+  Kaise Rehaan bayaaṅ hoga qaid ka manzar
+  Hind ke sar pe jo Zainab ne urhaayi chaadar
+  Aur us waqt bhi Bibi ka barahna raha sar
+  Gham ka maahaul mila dekha jidhar Zainab ne
 # source_id: nohayonline:40a219bd6140f75628c2
 # source_url: https://www.nohayonline.com/details_content.php?id=171
 # raw_sha256: 3b65ea0d20574777c6984e6e7d049b1fe65915b1346e2deabea3b42a9e2ddca6
@@ -59,11 +61,12 @@ romanLyrics: |-
 تعظیم کرو آتی ہے شہزادیئے شام
 اے اسیرانِ ستم اُٹھو کرو آئو سلام
 ہند آتی ہے ہر اک دُکھ کی دوا کر دے گی
-رحم دل بی بی ہے چاہے تو رہاکر دے گی
+رحم دل بی‌بی ہے چاہے تو رہا کر دے گی
 
-۱
 جب سُنی ہند کے آنے کی خبر زینب نے
 رکھ دیا خاک پہ روتے ہوئے سر زینب نے
+
+۱
 بولی سجاد سے جلدی کوئی چادر لا دے
 میرے حصے کی جہاں موت ہے جا کر لا دے
 کوئی شے چھُپنے کی مجھ کو میرے دلبر لا دے
@@ -78,13 +81,13 @@ romanLyrics: |-
 ۳
 ہند آئی تو کسی نے کہا تعظیم کرو
 قیدیو جائے ادب ہے چلو تسلیم کرو
-رحم دل بی بی ہے گھبرائو نہ تکریم کرو
+رحم دل بی‌بی ہے گھبرائو نہ تکریم کرو
 سُن کے یہ اشکوں سے دامن کیا تر زینب نے
 
 ۴
 ہند نے نام جو پوچھا تو حیا آنے لگی
 بنتِ زہرا تھی تڑپنے لگی شرمانے لگی
-یاد عباس کی بی بی کو بہت آنے لگی
+یاد عباس کی بی‌بی کو بہت آنے لگی
 کی سرِ شاہ پہ اُس وقت نظر زینب نے
 
 ۵
@@ -96,5 +99,5 @@ romanLyrics: |-
 ۶
 کیسے ریحان بیاں ہو گا قید کا منظر
 ہند کے سر پہ جو زینب نے اُڑھائی چادر
-اور اُس وقت بھی بی بی کا برہنہ رہا سر
+اور اُس وقت بھی بی‌بی کا برہنہ رہا سر
 غم کا ماحول ملا دیکھا جدھر زینب نے

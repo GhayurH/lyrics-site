@@ -6,69 +6,83 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ishrat Lakhnavi"
+reciter: "Dilawar Hasan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jab sakina ne ro ke kaha
-  Ay phupi ab madine chalo
+  Jab Sakina ne ro ke kaha
+  Ae phuphi ab Madine chalo
+
   Karbala aa ke ghar lut gaya
-  Ab madine chalo ay phupi
+  Ae phuphi ab Madine chalo
+  Ab Madine chalo ae phuphi
 
   1
-  Hum idhar apne ghar jayenge
-  Pyaas ke zakhm bhar jayenge
-  Gham ki mil jayegi kuch dawa
-  
+  Hum idhar apne ghar jaayeṅge
+  Pyaas ke zakhm bhar jaayeṅge
+  Gham ki mil jaayegi kuchh dawa
+  Ae phuphi ab Madine chalo
+
   2
-  Bhai akbar na qasim rahe
-  Mere ammu na asghar rahe
-  Chin chuka zindagi ka maza
-  
+  Bhai Akbar na Qasim rahe
+  Mere ammu na Asghar rahe
+  Chhin chuka zindagi ka maza
+  Ae phuphi ab Madine chalo
+
   3
-  Goshware bhi cheene gaye
-  Aur tamache bhi maare gaye
+  Goshwaare bhi chhin gaye
+  Aur tamaanche bhi maare gaye
   Seh liya har sitam seh liya
-  
+  Ae phuphi ab Madine chalo
+
   4
-  Deed ke phool khil jayenge
-  Saath ke log mil jayenge
-  Kuch to aaraam mil jayega
-  
+  Did ke phul khil jaayeṅge
+  Saath ke log mil jaayeṅge
+  Kuchh to aaraam mil jaayega
+  Ae phuphi ab Madine chalo
+
   5
-  Jaa ke dadi ko dekhenge hum
-  Apni baaji se mil lenge hum
-  Dekhte honge sab raasta
-  
+  Jaa ke daadi ko dekheṅge hum
+  Apni baaji se mil leṅge hum
+  Dekhte hoṅge sab raasta
+  Ae phuphi ab Madine chalo
+
   6
-  Har musibat hai seena sipar
-  Lag raha hai aseeri se darr
-  Ho na jaaye kahin be rida
-  
+  Har musibat hai sina sipar
+  Lag raha hai asiri se dar
+  Ho na jaaye kahiṅ berida
+  Ae phuphi ab Madine chalo
+
   7
-  Ho gaye qaid ahle haram
-  Bad gaye aur dard o alam
-  Khaafila bas ye sunta raha
-  
+  Ho gaye qaid ahl-e-haram
+  Barh gaye aur dard o alam
+  Qaafila bas ye sunta raha
+  Ae phuphi ab Madine chalo
+
   8
-  Maar daalega dard e jigar
-  Saans ruk jaye kab kya khabar
-  Qaid khana hai ghar maut ka
-  
+  Maar daalega dard jigar
+  Saaṅs ruk jaaye kab kya khabar
+  Qaid khaana hai ghar maut ka
+  Ae phuphi ab Madine chalo
+
   9
-  Godh jangal se veeran hai
+  God jangal se viraan hai
   Maut ka meri imkaan hai
   Ro rahi hai meri waalida
-  
+  Ae phuphi ab Madine chalo
+
   10
-  Pyaas ki talqiyan hai bahot
-  Maut ki hichkiyan hai bahot
-  Ab mera dam nikal jayega
-  
+  Pyaas ki talkhiyaaṅ haiṅ bahut
+  Maut ki hichkiyaaṅ haiṅ bahut
+  Ab mera dam nikal jaayega
+  Ae phuphi ab Madine chalo
+
   11
-  Ek ye hasrat na poori hui
-  Mar gayi shaah ki laadli
-  Phir na ishrat ye goonji sada
+  Ek ye hasrat na puri hui
+  Mar gayi Shaah ki laadli
+  Phir na Ishrat ye gunji sada
+  Ae phuphi ab Madine chalo
 # source_id: nohayonline:9b6f9df666ca43ae23e4
 # source_url: https://www.nohayonline.com/details_content.php?id=1351
 # raw_sha256: 3e980211b0f6082f98fe1522ed3014341f48b4572d4462627b730401efe02698
@@ -76,60 +90,73 @@ romanLyrics: |-
 
 جب سکینہ نے رو کے کہا
 اے پھپھی اب مدینے چلو
+
 کربلا آ کے گھر لٹ گیا
+اے پھپھی اب مدینے چلو
 اب مدینے چلو اے پھپھی
 
 ۱
-ہم ادھر اپنے گھر جاےنگے
-پیاس کے زخم بھر جاےنگے
-غم کی مل جاے گی کچھ دوا
+ہم ادھر اپنے گھر جائیں گے
+پیاس کے زخم بھر جائیں گے
+غم کی مل جائے گی کچھ دوا
+اے پھپھی اب مدینے چلو
 
 ۲
-بھای اکبر نہ قاسم رہے
+بھائی اکبر نہ قاسم رہے
 میرے عمو نہ اصغر رہے
 چھن چکا زندگی کا مزہ
+اے پھپھی اب مدینے چلو
 
 ۳
-گوشوارے بھی چھن گےء
+گوشوارے بھی چھن گئے
 اور طمانچے بھی مارے گئے
 سہہ لیا ہر ستم سہہ لیا
+اے پھپھی اب مدینے چلو
 
 ۴
-دید کے پھول کھل جائینگے
-ساتھ کے لوگ مل جاینگے
-کچھ تو آرام مل جاے گا
+دید کے پھول کھل جائیں گے
+ساتھ کے لوگ مل جائیں گے
+کچھ تو آرام مل جائے گا
+اے پھپھی اب مدینے چلو
 
 ۵
 جا کے دادی کو دیکھیں گے ہم
 اپنی باجی سے مل لیں گے ہم
-دیکھتے ہونگے سب راستہ
+دیکھتے ہوں گے سب راستہ
+اے پھپھی اب مدینے چلو
 
 ۶
 ہر مصیبت ہے سینہ سپر
 لگ رہا ہے اسیری سے ڈر
-ہو نہ جاے کہیں بے ردا
+ہو نہ جائے کہیں بے ردا
+اے پھپھی اب مدینے چلو
 
 ۷
-ہو گےء قید اہلِ حرم
-بڑھ گےء اور درد و الم
+ہو گئے قید اہلِ حرم
+بڑھ گئے اور درد و الم
 قافلہ بس یہ سنتا رہا
+اے پھپھی اب مدینے چلو
 
 ۸
 مار ڈالے گا درد جگر
-سانس رک جاے کب کیا خبر
+سانس رک جائے کب کیا خبر
 قید خانہ ہے گھر موت کا
+اے پھپھی اب مدینے چلو
 
 ۹
 گود جنگل سے ویران ہے
 موت کا میری امکان ہے
 رو رہی ہے میری والدہ
+اے پھپھی اب مدینے چلو
 
 ۱۰
 پیاس کی تلخیاں ہیں بہت
 موت کی ہچکیاں ہیں بہت
-اب میرا دم نکل جاے گا
+اب میرا دم نکل جائے گا
+اے پھپھی اب مدینے چلو
 
 ۱۱
-اک یہ حسرت نہ پوری ہوی
-مر گیء شاہ کی لاڈلی
+اک یہ حسرت نہ پوری ہوئی
+مر گئی شاہ کی لاڈلی
 پھر نہ عشرت یہ گونجی صدا
+اے پھپھی اب مدینے چلو
