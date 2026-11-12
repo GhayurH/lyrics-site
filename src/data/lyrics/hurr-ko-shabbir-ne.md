@@ -5,13 +5,15 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sibte Jafar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hurr ko shabbir ne kya haram ki ijazat de di
-  Naar ko noor kiya aur shahadat de di
-  Kya sakhawat hai hussain ibne ali may wallah
+  Hurr ko Shabbir ne kya haram ki ijaazat de di
+  Naar ko nur kiya aur shahaadat de di
+
+  Kya sakhaawat hai Husain ibn-e-Ali mein wallaah
   Jaam kausar ka diya rehne ko jannat de di
 # source_id: nohayonline:aa4ffa01cc5ffa43dbbc
 # source_url: https://www.nohayonline.com/details_content.php?id=2689
@@ -20,5 +22,6 @@ romanLyrics: |-
 
 حر کو شبیر نے کیا حرم کی اجازت دے دی
 نار کو نور کیا اور شہادت دے دی
+
 کیا سخاوت ہے حسین ابنِ علی میں واللہ
 جام کوثر کا دیا رہنے کو جنت دے دی

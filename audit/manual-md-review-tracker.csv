@@ -1907,13 +1907,13 @@ src/data/lyrics/humko-hai-apni-jaan.md,standalone_lyrics,imported,nohayonline,pe
 src/data/lyrics/hur-ka-sar-hai.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,first_sweep,,"Need audio/print: opening missing ""teri"" in Urdu; s2 ""ہا علی""; s8 Urdu ""پانی"" vs Roman ""baali""; s11 ""کے تھی"" and ""ریسما""."
 src/data/lyrics/hurmula-ke-teer-ka.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,first_sweep,,"Need audio/print: s4 Urdu ""ویران ہے"" vs Roman ""viraan hui""; s6 ""بیٹے کی مرقد"" grammatical reading."
 src/data/lyrics/hurr-aa-raha-hai.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,partial_review,first_sweep,,"Need audio/print: opening/title ""ابنِ رہای"" (Roman ""ibn-e-rehaai""); s3 Urdu ""بابا خفا نہیں ہیں"" vs Roman ""Baba khafa nahiṅ hai""."
-src/data/lyrics/hurr-ki-aisi-na-kisi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/hurr-ki-surat-jo.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/hurr-ko-shabbir-ne.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/hurr-ki-aisi-na-kisi.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-12-editorial-hurr-husain,,
+src/data/lyrics/hurr-ki-surat-jo.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-12-editorial-hurr-husain,,
+src/data/lyrics/hurr-ko-shabbir-ne.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,2026-11-12-editorial-hurr-husain,,"Need audio/print: opening ""کیا حرم کی اجازت""; confirm the archived wording."
 src/data/lyrics/husain-jaata-hai-marne-ko-ay-meri-zainab.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
-src/data/lyrics/hussain-aaj-bhi-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/hussain-aaj-bhi-hai.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,2026-11-12-editorial-hurr-husain,,"Need audio/print: s1 ""لبوں ہے"" vs ""labon par hai"", ""تیرے وسیلے سے زینب"" vs ""teri waseele se zinda""; s2 ""ایک پل میں"" vs ""ek pal""."
 src/data/lyrics/hussain-aaj-hai-tanha-habib-aajao.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
-src/data/lyrics/hussain-aap-ka.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/hussain-aap-ka.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,2026-11-12-editorial-hurr-husain,,"Need audio/print: s3 ""آؤں"" vs ""aaunga""; s6 ""کچھ ایسے انتہا""; s7 endings ""آئی"" vs ""آئیں""; s8 opening ""تڑپ کے عالم و یزدان یہ بولے""."
 src/data/lyrics/hussain-aap-ki-ghurbat.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/hussain-aaya-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/hussain-aise-thay.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
