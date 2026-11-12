@@ -5,41 +5,42 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Faazil Lakhnavi"
 poet: "Salik Lakhnavi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jis zulm se shabbir ke qaimon mein lagi aag
+  Jis zulm se Shabbir ke khaimoṅ mein lagi aag
   Aisi to kisi daur mein dekhi na suni aag
-  
+
   1
-  Angaron pe matam tera hum karte hai shabbir
-  Ye bhi tera ejaaz hai jo phool bani aag
-  
+  Angaaroṅ pe maatam tera hum karte haiṅ Shabbir
+  Ye bhi tera ejaaz hai jo phul bani aag
+
   2
-  Sar de to diya tune shahe shaah e shariyat
-  Jo tune lagayi thi wo roke na ruki aag
-  
+  Sar de to diya tu ne Shah-e-shaah-e-shariat
+  Jo tu ne lagaai thi wo roke na ruki aag
+
   3
-  Abbas ki talwaar hai tasveer e qayamat
+  Abbas ki talwaar hai tasvir-e-qayaamat
   Wo kaamp ke bijli giri wo dekho lagi aag
-  
+
   4
-  Abbas ki talwaar se barsa lahoo itna
-  Darya se dhuan utha taraai mein lagi aag
-  
+  Abbas ki talwaar se barsa lahu itna
+  Darya se dhuaaṅ utha taraai mein lagi aag
+
   5
-  Ay doshe mohamed ke makeen pabaye emaan
-  Sajdon se tere seena e baatil mein lagi aag
-  
+  Ae dosh-e-Muhammad ke makiṅ paaba-e-imaan
+  Sajdoṅ se tere sina-e-baatil mein lagi aag
+
   6
   Deti hi rahi shola jahannam ki taraf se
-  Jo bughze ali mein yehi jalti hi rahi aag
-  
+  Jo bughz-e-Ali mein yehi jalti hi rahi aag
+
   7
-  Bijli ki tarha khoon rawan hogaya dil mein
-  Salik ghame shabbir ki yun daud gayi aag
+  Bijli ki tarah khun rawaaṅ ho gaya dil mein
+  Salik gham-e-Shabbir ki yuṅ daur gai aag
 # source_id: nohayonline:5271556bbf0bb703aeb5
 # source_url: https://www.nohayonline.com/details_content.php?id=1211
 # raw_sha256: 5dd24d4d19c33d9a65850c36a942f6e1f18a36108ec340c9eeeac3cad903ab6f
@@ -53,7 +54,7 @@ romanLyrics: |-
 یہ بھی تیرا ایجاز ہے جو پھول بنی آگ
 
 ۲
-سر دے تو دیا تونے شہ شاہ شریعت
+سر دے تو دیا تو نے شہ شاہ شریعت
 جو تو نے لگائی تھی وہ روکے نہ رکی آگ
 
 ۳
@@ -73,5 +74,5 @@ romanLyrics: |-
 جو بغض علی میں یہی جلتی ہی رہی آگ
 
 ۷
-بجلی کی طرح خون رواں ہوگیا دل میں
-سالک غمِ شبیر کی یوں دوڑ گیء آگ
+بجلی کی طرح خون رواں ہو گیا دل میں
+سالک غمِ شبیر کی یوں دوڑ گئی آگ

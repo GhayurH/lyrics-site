@@ -1,74 +1,75 @@
 ---
 title: "جس کو کہتے ہیں زندگی کی صدا"
-alternateTitle: "Jisko Kehte Hai"
+alternateTitle: "Jis Ko Kehte Haiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Tabligh-e-Imamia"
 poet: "Urooj Bijnori"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jisko kehte hai zindagi ki sada
-  Hai jigar gosha e nabi ki sada
+  Jis ko kehte haiṅ zindagi ki sada
+  Hai jigar gosha-e-Nabi ki sada
 
   1
-  Sare darbar khutba e zainab
-  Yun samajhlo ke thi ali ki sada
+  Sar-e-darbaar khutba-e-Zainab
+  Yuṅ samajh lo ke thi Ali ki sada
 
   2
-  Roohe islam sajda e shabbir
+  Ruh-e-Islam sajda-e-Shabbir
   Aa rahi hai ye bandagi ki sada
 
   3
-  Dil se zikre hussain karte raho
-  Doob jaaye na zindagi ki sada
+  Dil se zikr-e-Husain karte raho
+  Dub jaaye na zindagi ki sada
 
   4
-  Aaj bhi arsa e do aalam mein
-  Goonjti hai hussaini ki sada
+  Aaj bhi arsa-e-do aalam mein
+  Gunjti hai Husaini ki sada
 
   5
-  Tune jaan deke kar diya saabit
+  Tu ne jaaṅ de ke kar diya saabit
   Dil hi sunta hai aagahi ki sada
 
   6
-  Marhaba marhaba ali asghar
+  Marhaba marhaba Ali Asghar
   Hai chaman mein kali kali ki sada
 
   7
-  Roze ashoor kya qayamat thi
-  Koi sunta na tha nabi ki sada
+  Roz-e-Aashur kya qayaamat thi
+  Koi sunta na tha Nabi ki sada
 
   8
-  Qalb e abbas kaamp jaata tha
-  Sunke bachon se tashnagi ki sada
+  Qalb-e-Abbas kaamp jaata tha
+  Sun ke bachchoṅ se tashnagi ki sada
 
   9
-  Jal rahe thay qayam e aale aba
-  Aa rahi thi ali ali ki sada
+  Jal rahe the qayaam-e-Aal-e-Aba
+  Aa rahi thi Ali Ali ki sada
 
   10
-  De rahe thay azan ali akbar
-  Log sunte rahe nabi ki sada
+  De rahe the azaan Ali Akbar
+  Log sunte rahe Nabi ki sada
 
   11
-  Suye karbobala chale hai urooj
-  Door se aayi hai kisi ki sada
+  Su-e-Karb o Bala chale haiṅ Urooj
+  Dur se aai hai kisi ki sada
 # source_id: nohayonline:ccd610a902c0a2d05fef
 # source_url: https://www.nohayonline.com/details_content.php?id=635
 # raw_sha256: 0d6f84b181ed1fe8a07bb10c3e9aa2ba899b1f5848d577284bc06e131562d1ce
 ---
 جس کو کہتے ہیں زندگی کی صدا
-ہے جگر گوشہِ نبی کی صدا
+ہے جگر گوشۂ نبی کی صدا
 
 ۱
-سرِ دربار خُطبہ ِ زینب
-یوں سمجھ لو کے تھی علی کی صدا
+سرِ دربار خُطبۂ زینب
+یوں سمجھ لو کہ تھی علی کی صدا
 
 ۲
-روحِ اسلام سجدئہ شبیر
+روحِ اسلام سجدۂ شبیر
 آ رہی ہے یہ بندگی کی صدا
 
 ۳
@@ -76,11 +77,11 @@ romanLyrics: |-
 ڈوب جائے نہ زندگی کی صدا
 
 ۴
-آ ج بھی عرصہِ دو عالم میں
+آج بھی عرصۂ دو عالم میں
 گونجتی ہے حُسینی کی صدا
 
 ۵
-توں نے جاں دے کہ کر دیا ثابت
+توں نے جاں دے کے کر دیا ثابت
 دل ہی سُنتا ہے آگاہی کی صدا
 
 ۶
