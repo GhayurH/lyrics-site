@@ -1,5 +1,5 @@
 ---
-title: ہر دم ہر دم کو بہ کو یا علی یا علی یا علی
+title: ہر دم ہر دم کُو بہ کُو یا علی یا علی یا علی
 alternateTitle: Janam Ali Ali
 language: Urdu
 lang: ur
@@ -9,268 +9,177 @@ poet: "N. Sarwar & J. Jaffri"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Har dam har dam ku ba ku ya ali ya ali ya ali
-
+romanLyrics: |-
+  Har dam har dam ku ba ku Ya Ali Ya Ali Ya Ali
 
   1
-
-  Sadiq o bawafa manam dum hamadam ali ali
-
+  Saadiq o bawafa manam dam hamah dam Ali Ali
+  Har dam ku ba ku Ya Ali Ya Ali Ya Ali
 
   2
-
-  Aashiq e murtaza manam dam hamadam ali ali
-
+  Aashiq-e-Murtaza manam dam hamah dam Ali Ali
+  Har dam ku ba ku Ya Ali Ya Ali Ya Ali
 
   3
+  Hai aqida mera yehi hai wazifa mera yehi
+  Salawaat bar Muhammad durud bar Maula Ali
 
-  Hai aqeeda mera yehi hai wazeefa mera yehi
+  Ya Ali kaash mera ishq asar dikhlaaye
+  Jin se hai pyaar tumheiṅ un meiṅ jagah mil jaaye
+  Main ye samjhuṅ ga mujhe mil gayi manzil Maula
+  Aap ke dar ke faqiroṅ meiṅ jo naam aa jaaye
 
-  Salwat bar mohamed durood bar maula ali
+  Jaanam Ali Ali
+  Jaanam Ali Ali
+  Jaanam Ali Ali
+  Jaanam Ali Ali
 
-  Ya ali kaash mera ishq asar dikhlaye
+  Qasam Allah ki mera to wazifa hai Ali
+  Jaanam Ali Ali Jaanam Ali Ali
+  Dil ki dharkan meiṅ bhi dhak dhak ke dharakta hai Ali
+  Jaanam Ali Ali Jaanam Ali Ali
 
-  Jin se hai pyar tumhe un mein jaga mil jaaye
+  Dur talak ba Khuda dur talak
+  Gunjti hai ye sada Ali Ali Ali Ali Maula Ali
 
-  Mai ye samjhunga mujhe mil gayi manzil maula
+  Ham se puchho ke Ali Maula se milta kya hai
+  Ham faqiroṅ ka Ali waloṅ ka rasta kya hai
+  Apne sardaar se naukar ka ye rishta kya hai
+  Naukri chhor duṅ Haidar ki to bachta kya hai
+  Jis pe Allah ho meharbaan use milta hai Ali
+  Jaanam Ali Ali Jaanam Ali Ali
 
-  Aap ke dar ke faqeeron mein jo naam aa jaaye
-
-  Jaanam ali ali
-
-  Jaanam ali ali
-
-  Jaanam ali ali
-
-  Jaanam ali ali
-
-  Qasam allah ki mera to wazeefa hai ali
-
-  Jaanam ali ali jaanam ali ali
-
-  Dil ki dhadkan mein bhi dhak dhak ke dhadakta hai ali
-
-  Jaanam ali ali jaanam ali ali
-
-  Door talak ba khuda door talak
-
-  Goonjti hai ye sada ali ali ali ali maula ali
-
-  Hum se poocho ke ali maula se milta kya hai
-
-  Hum faqeeron ka ali waalon ka rasta kya hai
-
-  Apne sardar se naukar ka ye rishta kya hai
-
-  Naukri chod doo hyder ki to bachta kya hai
-
-  Jis pe allah ho meharban usay milta hai ali
-
-  Jaanam ali ali jaanam ali ali
-
-  Bol ali bol bol ali bol
-
-  Bol ali bol ali bol ali bol ali
-
-  Bol ali bol ali
+  Bol Ali bol bol Ali bol
+  Bol Ali bol Ali bol Ali bol Ali
+  Bol Ali bol Ali
 
   Asadullah
-
-  Wali ullah
-
-  Ayat ullah
-
-  Ali ameer ul momineen
-
-  Jaanam ali ali jaanam ali ali
-
-  Jaanam ali ali jaanam ali ali
-
-  Kitna aala o zabardast ye naara hai ali
-
-  Jab lage naara to lagta hai garajta hai ali
-
-  Sadqe is naam ke ye naam hi aisa hai ali
-
-  Bol ali bol ali bol wazeefa hai ali
-
-  Kya muqaddar hai hamara ke hamara hai ali
-
-  Jaanam ali ali jaanam ali ali
-
-  Qasam allah ki mera to wazeefa hai ali
-
-  Jaanam ali ali jaanam ali ali
-
-  Dil ki dhadkan mein bhi dhak dhak ke dhadakta hai ali
-
-  Jaanam ali ali jaanam ali ali
-
-  Door talak ba khuda door talak
-
-  Goonjti hai ye sada ali ali ali ali maula ali
-
-  Ishq hyder ka yaqeenan ye sila deta hai
-
-  Apne aashiq ko ye darwaysh bana deta hai
-
-  Aalam e zaat mein ek rang chada deta hai
-
-  Phir yehi ishq mohamed se mila deta hai
-
-  Jo khuda tak hamein le jaaye wo rasta hai ali
-
-  Jaanam ali ali jaanam ali ali
-
-  Bol ali bol bol ali bol
-
-  Bol ali bol ali bol ali bol ali
-
-  Bol ali bol ali
-
-  Ya ali ali ali ali
-
-  Ya ali ali ali ali
-
-  Bol ali bol bol ali bol
-
-  Kya khabar kis ko pata kitna hai anmol ali
-
-  Be-khabar aql ke meezan pe mat tol ali
-
-  Apni saanson mein wazeefon mein tu bas ghol ali
-
-  Bait maula ke faqeeron mein zara bol ali bol ali bol ali bol ali bol
-
-  Bol ali bol bol ali bol
-
-  Bol ali bol ali bol ali bol ali
-
-  Bol ali bol ali
-
-  Mai jahan jaaun mere saath hi rehta hai ali
-
-  Mere ghar mein bhi sawari mein bhi hota hai ali
-
-  Baat karta hoo to baaton mein bhi milta hai ali
-
-  Meri tanhaai ki khamoshi ko sunta hai ali
-
-  Mera emaan hai mere saath hamesha hai ali
-
-  Jaanam ali ali jaanam ali ali
-
-  Qasam allah ki mera to wazeefa hai ali
-
-  Jaanam ali ali jaanam ali ali
-
-  Dil ki dhadkan mein bhi dhak dhak ke dhadakta hai ali
-
-  Jaanam ali ali jaanam ali ali
-
-  Door talak ba khuda door talak
-
-  Goonjti hai ye sada ali ali ali ali maula ali
-
-  Ghar ali ka hi sada deen ke kaam aaya hai
-
-  Khoon ali ka hi sar e karbobala bikhra hai
-
-  Wo hussain akbar o asghar wo alam waala hai
-
-  Goonjta aaj bhi zainab ka yehi khutba hai
-
-  Ibne marjaana ye sun le mera baba hai ali
-
-  Jaanam ali ali jaanam ali ali
-
-  Bol ali bol bol ali bol
-
-  Bol ali bol ali bol ali bol ali
-
-  Bol ali bol ali
-
-  Asadullah
-
   Waliullah
+  Aayatullah
+  Ali Amir-ul-Mominin
+  Jaanam Ali Ali Jaanam Ali Ali
+  Jaanam Ali Ali Jaanam Ali Ali
 
-  Ayatullah
+  Kitna aala o zabardast ye naara hai Ali
+  Jab lage naara to lagta hai garajta hai Ali
+  Sadqe is naam ke ye naam hi aisa hai Ali
+  Bol Ali bol Ali bol wazifa hai Ali
 
-  Ali ameerulmomineen
+  Kya muqaddar hai hamaara ke hamaara hai Ali
+  Jaanam Ali Ali Jaanam Ali Ali
+  Qasam Allah ki mera to wazifa hai Ali
+  Jaanam Ali Ali Jaanam Ali Ali
+  Dil ki dharkan meiṅ bhi dhak dhak ke dharakta hai Ali
+  Jaanam Ali Ali Jaanam Ali Ali
 
-  Jaanam ali ali jaanam ali ali
+  Dur talak ba Khuda dur talak
+  Gunjti hai ye sada Ali Ali Ali Ali Maula Ali
 
-  Ya ali aap ko sadmon se guzarta dekha
+  Ishq-e-Haidar ka yaqinan ye sila deta hai
+  Apne aashiq ko ye darwesh bana deta hai
+  Aalam-e-zaat meiṅ ik rang charha deta hai
+  Phir yehi ishq Muhammad se mila deta hai
 
-  Apne hi shehr mein maula tumhe tanha dekha
+  Jo Khuda tak hameiṅ le jaaye wo rasta hai Ali
+  Jaanam Ali Ali Jaanam Ali Ali
 
-  Fatema zehra ko rote hi hamesha dekha
+  Bol Ali bol bol Ali bol
+  Bol Ali bol Ali bol Ali bol Ali
+  Bol Ali bol Ali
 
-  Waar talwaar ka tum par sar e sajda dekha
+  Ya Ali Ali Ali Ali
+  Ya Ali Ali Ali Ali
+  Bol Ali bol bol Ali bol
 
-  Ba khuda aaj bhi turbat mein tadapta hai ali
+  Kya khabar kis ko pata kitna hai anmol Ali
+  Bekhabar aql ke mizaan pe mat tol Ali
+  Apni saaṅsoṅ meiṅ wazifoṅ meiṅ tu bas ghol Ali
+  Baith Maula ke faqiroṅ meiṅ zara bol Ali bol Ali bol Ali bol Ali bol
 
-  Jaanam ali ali jaanam ali ali
+  Bol Ali bol bol Ali bol
+  Bol Ali bol Ali bol Ali bol Ali
+  Bol Ali bol Ali
 
-  Door talak ba khuda door talak
+  Main jahaaṅ jaauṅ mere saath hi rehta hai Ali
+  Mere ghar meiṅ bhi sawaari meiṅ bhi hota hai Ali
+  Baat karta huṅ to baatoṅ meiṅ bhi milta hai Ali
+  Meri tanhaai ki khaamoshi ko sunta hai Ali
+  Mera imaaṅ hai mere saath hamesha hai Ali
 
-  Goonjti hai ye sada ali ali ali ali maula ali
+  Jaanam Ali Ali Jaanam Ali Ali
+  Qasam Allah ki mera to wazifa hai Ali
+  Jaanam Ali Ali Jaanam Ali Ali
+  Dil ki dharkan meiṅ bhi dhak dhak ke dharakta hai Ali
+  Jaanam Ali Ali Jaanam Ali Ali
 
-  Asaduallh ali ali
+  Dur talak ba Khuda dur talak
+  Gunjti hai ye sada Ali Ali Ali Ali Maula Ali
 
-  Waliullah ali ali
+  Ghar Ali ka hi sada din ke kaam aaya hai
+  Khun Ali ka hi sar-e-Karbobala bikhra hai
+  Wo Husain Akbar o Asghar wo alam wala hai
+  Gunjta aaj bhi Zainab ka yehi khutba hai
+  Ibn-e-Marjaana ye sun le mera Baaba hai Ali
 
-  Ya ali ali ali ali
+  Jaanam Ali Ali Jaanam Ali Ali
 
-  Ya ali ali ali ali
+  Bol Ali bol bol Ali bol
+  Bol Ali bol Ali bol Ali bol Ali
+  Bol Ali bol Ali
 
-  Shaah e shariatam ali
+  Asadullah
+  Waliullah
+  Aayatullah
+  Ali Amir-ul-Mominin
+  Jaanam Ali Ali Jaanam Ali Ali
 
-  Peer e tariqatam ali
+  Ya Ali aap ko sadmoṅ se guzarta dekha
+  Apne hi shehr meiṅ Maula tumheiṅ tanha dekha
+  Fatima Zehra ko rote hi hamesha dekha
+  Waar talwaar ka tum par sar-e-sajda dekha
+  Ba Khuda aaj bhi turbat meiṅ tarapta hai Ali
 
-  Haq ba haqeeqatam ali
+  Jaanam Ali Ali Jaanam Ali Ali
 
-  Ya ali ali ali ali
+  Dur talak ba Khuda dur talak
+  Gunjti hai ye sada Ali Ali Ali Ali Maula Ali
 
-  Ya ali ali ali ali
+  Asadullah Ali Ali
+  Waliullah Ali Ali
 
-  Noor e wilayatam ali
+  Ya Ali Ali Ali Ali
+  Ya Ali Ali Ali Ali
 
-  Shamme hidayatam ali
+  Shaah-e-shariatam Ali
+  Pir-e-tariqatam Ali
+  Haq ba haqiqatam Ali
 
-  Jaan e risaalatam ali
+  Ya Ali Ali Ali Ali
+  Ya Ali Ali Ali Ali
 
-  Ya ali ali ali ali
+  Nur-e-wilaayatam Ali
+  Sham-e-hidaayatam Ali
+  Jaan-e-risaalatam Ali
 
-  Ya ali ali ali ali
+  Ya Ali Ali Ali Ali
+  Ya Ali Ali Ali Ali
 
-  Naaz e haram ya ali ali
+  Naaz-e-haram Ya Ali Ali
+  Diṅ ka bharam Ya Ali Ali
+  Dast-e-karam Ya Ali Ali
+  Ishq-e-manam Ya Ali Ali
+  Jaan o dilam Ya Ali Ali
+  Zor-e-qalam Ya Ali Ali
+  Shaah-e-manam Ya Ali Ali
+  Naaz-e-haram Ya Ali Ali
+  Ishq-e-manam Ya Ali Ali
 
-  Deen ka bharam ya ali ali
+  Bol Ali bol Ali
+  Bol Ali bol Ali
+  Bol Ali bol Ali
+  Bol Ali bol Ali
 
-  Dast e karam ya ali ali
-
-  Ishq e manam ya ali ali
-
-  Jaan o dilam ya ali ali
-
-  Zor e qalam ya ali ali
-
-  Shaah e manam ya ali ali
-
-  Naaz e haram ya ali ali
-
-  Ishq e manam ya ali ali
-
-  Bol ali bol ali
-
-  Bol ali bol ali
-
-  Bol ali bol ali
-
-  Bol ali bol ali
-
-  Ya ali ya ali'
+  Ya Ali Ya Ali
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:0314df1bbf3d0aeca642
 # source_url: https://www.nohayonline.com/details_content.php?id=2043
@@ -283,133 +192,170 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 ہر دم ہر دم کُو بہ کُو یا علی یا علی یا علی
 
 ۱
-صادق و باوفا منم دم ہما دم علی علی
+صادق و باوفا منم دم ہمہ دم علی علی
+ہر دم کُو بہ کُو یا علی یا علی یا علی
 
 ۲
-عاشقِ مرتضیٰ منم دم ہما دم علی علی
+عاشقِ مرتضیٰ منم دم ہمہ دم علی علی
+ہر دم کُو بہ کُو یا علی یا علی یا علی
 
 ۳
 ہے عقیدہ میرا یہی ہے وظیفہ میرا یہی
 صلوات بر محمد درود بر مولا علی
-یا علی کاش میرا عشق اثر دکھلاے
-جس سے ہے پیار تمہیں ان میں جگہ مل جاے
-میں یہ سمجھوں گا مجھے مل گئ منزل مولا
-آپ کے در کے فقیروں میں جو نام آ جاے
+
+یا علی کاش میرا عشق اثر دکھلائے
+جن سے ہے پیار تمہیں ان میں جگہ مل جائے
+میں یہ سمجھوں گا مجھے مل گئی منزل مولا
+آپ کے در کے فقیروں میں جو نام آ جائے
+
 جانم علی علی
 جانم علی علی
 جانم علی علی
 جانم علی علی
+
 قسم اللّٰہ کی میرا تو وظیفہ ہے علی
 جانم علی علی جانم علی علی
 دل کی دھڑکن میں بھی دھک دھک کے دھڑکتا ہے علی
 جانم علی علی جانم علی علی
+
 دور تلک با خدا دور تلک
 گونجتی ہے یہ صدا علی علی علی علی مولا علی
+
 ہم سے پوچھو کہ علی مولا سے ملتا کیا ہے
 ہم فقیروں کا علی والوں کا رستہ کیا ہے
 اپنے سردار سے نوکر کا یہ رشتہ کیا ہے
-نوکری چھوڑ دو حیدر کی تو بچتا کیا ہے
+نوکری چھوڑ دوں حیدر کی تو بچتا کیا ہے
 جس پہ اللّٰہ ہو مہرباں اسے ملتا ہے علی
 جانم علی علی جانم علی علی
+
 بول علی بول بول علی بول
 بول علی بول علی بول علی بول علی
 بول علی بول علی
+
 اسد اللّٰہ
 ولی اللّٰہ
 آیت اللّٰہ
-علی أمير المومنین
+علی امیر المومنین
 جانم علی علی جانم علی علی
 جانم علی علی جانم علی علی
-کتنا اعلیٰ و زبرست یہ نعرہ ہے علی
+
+کتنا اعلیٰ و زبردست یہ نعرہ ہے علی
 جب لگے نعرہ تو لگتا ہے گرجتا ہے علی
 صدقے اس نام کے یہ نام ہی ایسا ہے علی
 بول علی بول علی بول وظیفہ ہے علی
+
 کیا مقدر ہے ہمارا کہ ہمارا ہے علی
 جانم علی علی جانم علی علی
 قسم اللّٰہ کی میرا تو وظیفہ ہے علی
 جانم علی علی جانم علی علی
 دل کی دھڑکن میں بھی دھک دھک کے دھڑکتا ہے علی
 جانم علی علی جانم علی علی
+
 دور تلک با خدا دور تلک
 گونجتی ہے یہ صدا علی علی علی علی مولا علی
-عشقِ حیدر کا یقینا یہ صلہ دیتا ہے
+
+عشقِ حیدر کا یقیناً یہ صلہ دیتا ہے
 اپنے عاشق کو یہ درویش بنا دیتا ہے
-عالم ذات میں اک رنگ چڑھا دیتا ہے
+عالمِ ذات میں اک رنگ چڑھا دیتا ہے
 پھر یہی عشق محمد سے ملا دیتا ہے
-جو خدا تک ہمیں لے جاے وہ رستہ ہے علی
+
+جو خدا تک ہمیں لے جائے وہ رستہ ہے علی
 جانم علی علی جانم علی علی
+
 بول علی بول بول علی بول
 بول علی بول علی بول علی بول علی
 بول علی بول علی
+
 یا علی علی علی علی
 یا علی علی علی علی
 بول علی بول بول علی بول
+
 کیا خبر کس کو پتہ کتنا ہے انمول علی
 بے خبر عقل کے میزان پہ مت تول علی
 اپنی سانسوں میں وظیفوں میں تو بس گھول علی
-بیٹھ مولا کے فقیروں میں زرا بول علی بول علی بول علی بول علی بول
+بیٹھ مولا کے فقیروں میں ذرا بول علی بول علی بول علی بول علی بول
+
 بول علی بول بول علی بول
 بول علی بول علی بول علی بول علی
 بول علی بول علی
+
 میں جہاں جاؤں میرے ساتھ ہی رہتا ہے علی
 میرے گھر میں بھی سواری میں بھی ہوتا ہے علی
 بات کرتا ہوں تو باتوں میں بھی ملتا ہے علی
 میری تنہائی کی خاموشی کو سنتا ہے علی
 میرا ایماں ہے میرے ساتھ ہمیشہ ہے علی
+
 جانم علی علی جانم علی علی
 قسم اللّٰہ کی میرا تو وظیفہ ہے علی
 جانم علی علی جانم علی علی
 دل کی دھڑکن میں بھی دھک دھک کے دھڑکتا ہے علی
 جانم علی علی جانم علی علی
+
 دور تلک با خدا دور تلک
 گونجتی ہے یہ صدا علی علی علی علی مولا علی
-گھر علی کا ہی صدا دین کے کام آیا ہے
-خوں علی کا ہی سر کربوبلا بکھرا ہے
-وہ حسین اکبر و اصغر وہ الم والا ہے
+
+گھر علی کا ہی سدا دین کے کام آیا ہے
+خون علی کا ہی سرِ کربوبلا بکھرا ہے
+وہ حسین اکبر و اصغر وہ علم والا ہے
 گونجتا آج بھی زینب کا یہی خطبہ ہے
-ابنِ مرجانا یہ سن لے میرا بابا ہے علی
+ابنِ مرجانہ یہ سن لے میرا بابا ہے علی
+
 جانم علی علی جانم علی علی
+
 بول علی بول بول علی بول
 بول علی بول علی بول علی بول علی
 بول علی بول علی
+
 اسد اللّٰہ
 ولی اللّٰہ
 آیت اللّٰہ
-علی أمير المومنین
+علی امیر المومنین
 جانم علی علی جانم علی علی
+
 یا علی آپ کو صدموں سے گزرتا دیکھا
 اپنے ہی شہر میں مولا تمہیں تنہا دیکھا
 فاطمہ زہرا کو روتے ہی ہمیشہ دیکھا
-وار تلوار کا تم پر سر سجدہ دیکھا
+وار تلوار کا تم پر سرِ سجدہ دیکھا
 با خدا آج بھی تربت میں تڑپتا ہے علی
+
 جانم علی علی جانم علی علی
+
 دور تلک با خدا دور تلک
 گونجتی ہے یہ صدا علی علی علی علی مولا علی
+
 اسد اللّٰہ علی علی
 ولی اللّٰہ علی علی
+
 یا علی علی علی علی
 یا علی علی علی علی
-شاہ شریعتم علی
-پیر تریقتم علی
+
+شاہِ شریعتم علی
+پیرِ طریقتم علی
 حق با حقیقتم علی
+
 یا علی علی علی علی
 یا علی علی علی علی
-نور ولایتم علی
+
+نورِ ولایتم علی
 شمعِ ہدایتم علی
-جان رسالتم علی
+جانِ رسالتم علی
+
 یا علی علی علی علی
 یا علی علی علی علی
-ناز حرم یا علی علی
+
+نازِ حرم یا علی علی
 دیں کا بھرم یا علی علی
-دست کرم یا علی علی
+دستِ کرم یا علی علی
 عشقِ منم یا علی علی
 جان و دلم یا علی علی
-زور قلم یا علی علی
-شاہ منم یا علی علی
-ناز حرم یا علی علی
+زورِ قلم یا علی علی
+شاہِ منم یا علی علی
+نازِ حرم یا علی علی
 عشقِ منم یا علی علی
-بول عل بول علی
-بول عل بول علی
-بول عل بول علی
-بول عل بول علی
+
+بول علی بول علی
+بول علی بول علی
+بول علی بول علی
+بول علی بول علی
+
 یا علی یا علی
