@@ -6,44 +6,45 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
+reciter: "Rizwan Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jawani bain karti hai ali akbar ke laashe par
-  Zaeefi aagayi mujh par tere gham mein ali akbar
+  Jawaani bain karti hai Ali Akbar ke laashe par
+  Zaifi aa gayi mujh par tire gham mein Ali Akbar
 
   1
-  Jawan bete ke seene par jo roya toot ke naiza
-  Zaeefi mein shahe waala ke dil pe chal gaya khanjar
+  Jawaaṅ bete ke sine par jo roya tut ke neza
+  Zaifi mein Shah-e-waala ke dil pe chal gaya khanjar
 
   2
-  Bada armaan tha usko ali akbar ki shadi ka
-  Chupa lo laash akbar ki kahin na dekh le maadar
+  Bara armaan tha us ko Ali Akbar ki shaadi ka
+  Chhupa lo laash Akbar ki kahiṅ na dekh le maadar
 
   3
-  Jhulasti dhoop mein hai ek pyase sher ka laasha
-  Lahoo kyun roye na aankhein qayamat khaiz hai manzar
+  Jhulasti dhup mein hai ek pyaase sher ka laasha
+  Lahu kiuṅ royeṅ na aaṅkheṅ qayaamat-khez hai manzar
 
   4
-  Sar e saahil tadapta reh gaya abbas ka laasha
-  Chale shabbir jab tanha utha kar laasha e akbar
+  Sar-e-saahil tarapta reh gaya Abbas ka laasha
+  Chale Shabbir jab tanha utha kar laasha-e-Akbar
 
   5
-  Kahan ho haahmi sheron akele hai shah e waala
-  Koi imdaad ko aao pukari zainab e muztar
+  Kahaaṅ ho Haashmi sheroṅ akele haiṅ Shah-e-waala
+  Koi imdaad ko aao pukaari Zainab-e-muztar
 
   6
-  Rahi jab tak bhi maa zinda yehi kehti rahi haye
-  Ali akbar ali akbar ali akbar ali akbar
+  Rahi jab tak bhi maaṅ zinda yahi kehti rahi haaye
+  Ali Akbar Ali Akbar Ali Akbar Ali Akbar
 
   7
-  Ali akbar ke hujre ko sajaati reh gayi sughra
-  Na aaya laut kar bhai to gham se mar gayi khwahar
+  Ali Akbar ke hujre ko sajaati reh gayi Sughra
+  Na aaya laut kar bhaai to gham se mar gayi khwaahar
 
   8
-  Woh apne chaand se bete ka sehra dekh na paayi
-  Ali akbar ki maa ko bas yahi gham kha gaya gohar
+  Wo apne chaand se bete ka sehra dekh na paayi
+  Ali Akbar ki maaṅ ko bas yahi gham khaa gaya Gohar
 # source_id: nohayonline:643153c00e29c52c528a
 # source_url: https://www.nohayonline.com/details_content.php?id=3272
 # raw_sha256: a73ec6579026d1283cbcb8796135a655be88997b9d9eb4e544f04b872ba0d3e2
@@ -65,7 +66,7 @@ romanLyrics: |-
 
 ۴
 سرِ ساحل تڑپتا رہ گیا عباس کا لاشہ
-چلے شبیر جب تنہا اٹھا کر لاشہِ اکبر
+چلے شبیر جب تنہا اٹھا کر لاشۂ اکبر
 
 ۵
 کہاں ہو ہاشمی شیروں اکیلے ہیں شہِ والا
@@ -81,4 +82,4 @@ romanLyrics: |-
 
 ۸
 وہ اپنے چاند سے بیٹے کا سہرا دیکھ نہ پائی
-علی اکبر کی ماں کو بس یہی غم کھا گیا گوھر
+علی اکبر کی ماں کو بس یہی غم کھا گیا گوہر

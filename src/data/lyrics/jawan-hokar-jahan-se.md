@@ -6,44 +6,45 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Anjum Zaidi"
+reciter: "Ali Zia Rizvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jawan hokar jahan se tum sidhare ay ali akbar
-  Jiye ab maa bata kiske sahare ali akbar
+  Jawaan ho kar jahaaṅ se tum sidhaare ae Ali Akbar
+  Jiye ab maaṅ bata kis ke sahaare Ali Akbar
   
   1
-  Badi umeedein wabasta thi tumse jab jawan hoge
-  Phuphi ke maa'on behno ke sahare ay ali akbar
+  Bari umideṅ waabasta thi tum se jab jawaaṅ hoge
+  Phuphi ke maaoṅ behnoṅ ke sahaare ae Ali Akbar
   
   2
-  Safeena doobta hai maa ka ab majdhaar may beta
-  Lagaye kaun kashti ab kanare ay ali akbar
+  Safina dubta hai maaṅ ka ab manjhdhaar mein beta
+  Lagaaye kaun kashti ab kinaare ae Ali Akbar
   
   3
-  Balaye chand se chehre ki loon ek baar to aaja
-  Nazar ka maa teri sadqa utaare ay ali akbar
+  Balaayeṅ chaand se chehre ki luṅ ek baar to aajaa
+  Nazar ka maaṅ teri sadqa utaare ae Ali Akbar
   
   4
-  Shama roti rahi kadiyal jawan ki dekh kar surat
-  Wo jab maa ne tere gaysu saware ay ali akbar
+  Shama roti rahi karyal jawaaṅ ki dekh kar surat
+  Wo jab maaṅ ne tere gesu sanwaare ae Ali Akbar
   
   5
-  Lagaye aas baithi hai udhar sughra madine may
-  Behan ko lene kab jaa'oge pyare ay ali akbar
+  Lagaaye aas baithi hai udhar Sughra Madine mein
+  Behan ko lene kab jaaoge pyaare ae Ali Akbar
   
   6
-  Sakina khogayi hai ban may kehdo uske ammu se
-  Ye dukhiya maa kahan jaa kar pukare ay ali akbar
+  Sakina kho gayi hai ban mein keh do us ke ammu se
+  Ye dukhiya maaṅ kahaaṅ jaa kar pukaare ae Ali Akbar
   
   7
-  Pidar se yun bhi koi root'ta hai maan bhi jao
-  Zaeefi kis tarha tujh bin guzare ay ali akbar
+  Pidar se yuṅ bhi koi ruthta hai maan bhi jaao
+  Zaifi kis tarah tujh bin guzaare ae Ali Akbar
   
   8
-  Sada anjum wo kya deta jigar tukhde badan chalni
-  Na bolay moo se wo aur maa pukare ay ali akbar
+  Sadaa Anjum wo kya deta jigar tukre badan chhalni
+  Na bole muṅh se wo aur maaṅ pukaare ae Ali Akbar
 # source_id: nohayonline:10df9d4359b1aed13e24
 # source_url: https://www.nohayonline.com/details_content.php?id=234
 # raw_sha256: d5ac47a757eec6c3bb5b783470cb9d3c476fbc6feb29eed53aa2ba2cff804023
@@ -78,7 +79,7 @@ romanLyrics: |-
 
 ۷
 پدر سے یوں بھی کوئی روٹھتا ہے مان بھی جائو
-ضعیفی کسطرح تجھ بن گذارے اے علی اکبر
+ضعیفی کس طرح تجھ بن گزارے اے علی اکبر
 
 ۸
 صدا انجم وہ کیا دیتا جگر ٹکڑے بدن چھلنی
