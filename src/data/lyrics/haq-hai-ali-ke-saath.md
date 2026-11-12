@@ -5,40 +5,41 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haq hai ali ke saath ali hai nabi ke saath
-  Ye jiske saath hai hai khuda bhi unhi ke saath
+  Haq hai Ali ke saath Ali hai Nabi ke saath
+  Ye jis ke saath hai hai Khuda bhi unhiṅ ke saath
 
   1
-  Koi ali ke koi hai ghaire ali ke saath
-  Momin kisi ke saath munafiq kisi ke saath
+  Koi Ali ke koi hai ghair-e-Ali ke saath
+  Momin kisi ke saath munaafiq kisi ke saath
 
   2
-  Roza namaz haj o ziaraat sab khubool
-  Lekin ye shart hai ke ho hubbe ali ke saath
+  Roza namaaz haj o ziyaarat sab qubul
+  Lekin ye shart hai ke ho hubb-e-Ali ke saath
 
   3
-  Salmane ahlebayt koi bhi na ban saka
-  Yun tha sabhi ka baithna uthna nabi ke saath
+  Salmaan-e-Ahle Bait koi bhi na ban saka
+  Yuṅ tha sabhi ka baithna uthna Nabi ke saath
 
   4
-  Aaye hai hum jahan mein baraye ghame hussain
-  Ye dard to mila hai hamein zindagi ke saath
+  Aaye haiṅ ham jahaan meiṅ baraaye gham-e-Husain
+  Ye dard to mila hai hameiṅ zindagi ke saath
 
   5
-  Qurban karke hum ne zamane ki har khushi
-  Apnaya hai hussain ke gham ko khushi ke saath
+  Qurbaan kar ke ham ne zamaane ki har khushi
+  Apnaaya hai Husain ke gham ko khushi ke saath
 
   6
-  Qayam hai deen farshe aza e hussain se
-  Ye baat sochna kabhi sanjeedgi ke saath
+  Qaaim hai din farsh-e-aza-e-Husain se
+  Ye baat sochna kabhi sanjidgi ke saath
 
   7
-  Bete ke dil se kyanch rahe hai sina hussain
-  Ya rab nikal na aaye kaleja ani ke saath
+  Bete ke dil se kheṅch rahe haiṅ sinaaṅ Husain
+  Ya Rab nikal na aaye kaleja ani ke saath
 # source_id: nohayonline:dcf3027698b4b12edf46
 # source_url: https://www.nohayonline.com/details_content.php?id=770
 # raw_sha256: 5d266cadedacdd3d40a9052e1ad66b07e1215224182d28df02e447e4597067e1
@@ -56,7 +57,7 @@ romanLyrics: |-
 لیکن یہ شرط ہے کہ ہو حُبِ علی کے ساتھ
 
 ۳
-سلمانِ اہلیبیت کوئی بھی نہ بن سکا
+سلمانِ اہلِ بیت کوئی بھی نہ بن سکا
 یوں تھا سبھی کا بیٹھنا اُٹھنا نبی کے ساتھ
 
 ۴

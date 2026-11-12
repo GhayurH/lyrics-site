@@ -5,40 +5,41 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Haq kar gaye maadar ke ada saare ke saare
-  Mamu pe fida hogaye zainab ke dulaare
+  Maamuṅ pe fida ho gaye Zainab ke dulaare
 
   1
-  Samjhati thi bachon ko bade pyar se zainab
-  Bhjoole se na jaana kabhi darya ke kanare
+  Samjhaati thi bachchoṅ ko bare pyaar se Zainab
+  Bhule se na jaana kabhi darya ke kinaare
 
   2
-  Pyasi hai sakina rahe har aan yahi dhyan
-  Pani ka tasavvur na ho zehno may tumhare
+  Pyaasi hai Sakina rahe har aan yahi dhyaan
+  Paani ka tasavvur na ho zehnoṅ meiṅ tumhaare
 
   3
-  Ghodon se giro bhi to sada ran se na dena
-  Dekho mai khafa hongi jo mamu ko pukare
+  Ghoroṅ se giro bhi to sada ran se na dena
+  Dekho maiṅ khafa huṅ gi jo maamuṅ ko pukaare
 
   4
-  Mai qaime se dekhungi jari kaun hai tum may
-  Lalkaar ke pehle jo bine-saad ko maare
+  Maiṅ khaime se dekhuṅ gi jari kaun hai tum meiṅ
+  Lalkar ke pehle jo bin-e-Saad ko maare
 
   5
-  Wada jo kiya maa se wafa kar gaye dono
-  Pyase hi laday pyase hi dunya se sidhaare
+  Waada jo kiya maaṅ se wafa kar gaye donoṅ
+  Pyaase hi lare pyaase hi dunya se sidhaare
 
   6
-  Sad hai to hai ay dashte bala teri zameen ne
-  Sab cheen liye zainabe muztar ke sahare
+  Sad hai to hai ae dasht-e-bala teri zamiṅ ne
+  Sab chhin liye Zainab-e-muztar ke sahaare
 
   7
-  Paala tha jinhe godh may wo jaa base ban may
-  Ab kaun hai zainab ko jo maa kehke pukaare
+  Paala tha jinheiṅ god meiṅ wo jaa base ban meiṅ
+  Ab kaun hai Zainab ko jo maaṅ keh ke pukaare
 # source_id: nohayonline:2256f4e2cd0e06c610ee
 # source_url: https://www.nohayonline.com/details_content.php?id=568
 # raw_sha256: dc4e019e80a95ede8007f2b50af31ba1acee20fec789690bc148ce500a5dafe1
@@ -59,7 +60,7 @@ romanLyrics: |-
 پانی کا تصور نہ ہو ذہنوں میں تمہارے
 
 ۳
-گھوڑوں سے گرو بھی توصدا رن سے نہ دینا
+گھوڑوں سے گرو بھی تو صدا رن سے نہ دینا
 دیکھو میں خفا ہوں گی جو ماموں کو پُکارے
 
 ۴
@@ -72,8 +73,8 @@ romanLyrics: |-
 
 ۶
 صد ہے تو ہے اے دشتِ بلا تیری زمیں نے
-سب چھین لیئے زینبِؑ مُضطر کے سہارے
+سب چھین لیے زینبِؑ مُضطر کے سہارے
 
 ۷
 پالا تھا جنہیں گود میں وہ جا بسے بن میں
-ا ب کون ہے زینبؑ کو جو ماں کہہ کے پُکارے
+اب کون ہے زینبؑ کو جو ماں کہہ کے پُکارے
