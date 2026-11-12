@@ -6,45 +6,46 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Izzat Lakhnavi"
+reciter: "Izzat Lakhnavi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Karbala ek Aftaab aur uski tanweeren bohut
-  Ek kitabae aanghee iski hain taqdeeren bohut
-  Karbala, Karbala ek Aftaab....
+  Karbala ek aaftaab aur uski tanwireṅ bahut
+  Ek kitaab-e-aagahi jiski hai tafsireṅ bahut
+  Karbala Karbala ek aaftaab
 
   1
-  Panjatan ke naqsh seeney mein saja kar rakh liye
-  Qasid e taqdeer ne dikhlayee tasweeren bohut
+  Panjatan ke naqsh sine meiṅ saja kar rakh liye
+  Kitaab-e-taqdir ne dikhlaai taswireṅ bahut
 
   2
-  Hain bahattar tan shareek e maqsad e gibrieel azeem
-  Ek khalile khwab tha jiski hain tabeeren bohat
+  Hai bahattar tan sharik-e-maqsad-e-zibh-e-azim
+  Ek qalili khwaab tha jiski hai taabireṅ bahut
 
   3
-  Fauq e Akbar ne azan mein bhar diya kuch aur rang
-  Yuhn to mahshar tak suni jayengi gi taqdeeren bohat
+  Fauq-e-Akbar ne azaaṅ meiṅ bhar diya kuchh aur rang
+  Yuṅ to mahshar tak suni jaayeṅgi takbireṅ bahut
 
   4
-  Nusrat e haq mein tere uqba bani Hurr e Jari
-  Haath mal kar rah gayen duniya ki jaagireen bohut
+  Nusrat-e-haq meiṅ teri uqba bani Hurr-e-jari
+  Haath mal kar reh gayi duniya ki jaagireṅ bahut
 
   5
-  Ruk saka kab rasta Sher e Khuda ke Sher ka
-  Rokne ko lakh thi saahil par shamsheeren bohut
+  Ruk saka kab raasta Sher-e-Khuda ke sher ka
+  Rokne ko laakh thi saahil pe shamshireṅ bahut
 
   6
-  Bezabaan Asghar ne patthar dil hila kar rakh diye
-  Sun chucke the ashqiya purzor taqreeren bohut
+  Bezabaaṅ Asghar ne patthar dil hila kar rakh diye
+  Sun chuke the ashqiya pur soz taqrireṅ bahut
 
   7
-  Goshiwareen khaich kar ghudka tamachey bhi lagaye
-  Jaise thin us phool si bachchi ki taqdeeren bohut
+  Goshwaare khinch kar ghurka tamaache bhi lagaaye
+  Jaise thi us phul si bachchi ki tafsireṅ bahut
 
   8
-  Bedeiyan pairoon mein aur gardan mein tauq e khaardaar
-  Phir bhi pahnayen gaye Aabid ko zanjeeren bohut
+  Beriyaaṅ pairoṅ meiṅ aur gardan meiṅ tauq-e-khaardaar
+  Phir bhi pehnaai gayi Aabid ko zanjireṅ bahut
 # source_id: nohayonline:0be8abc1e391297e2cd6
 # source_url: https://www.nohayonline.com/details_content.php?id=1051
 # raw_sha256: f0d2f6464062a159fecf2056673dac0fe7fc292b531e3bf5ad6c996b6c359c63
@@ -57,20 +58,20 @@ romanLyrics: |-
 کربلا کربلا ایک آفتاب
 
 ۱
-پنجتن کے نقش سینے میں سجا کر رکھ لےء
-کتاب تقدیر نے دکھلای تصویریں بہت
+پنجتن کے نقش سینے میں سجا کر رکھ لیے
+کتاب تقدیر نے دکھلائی تصویریں بہت
 
 ۲
-ہے بہتر تن شریک مقصد زبح عظیم
+ہے بہتر تن شریک مقصد ذبح عظیم
 اک قلیلی خواب تھا جسکی ہے تعبیریں بہت
 
 ۳
 فوق اکبر نے اذاں میں بھر دیا کچھ اور رنگ
-یوں تو محشر تک سنی جاینگی تکبیریں بہت
+یوں تو محشر تک سنی جائیں گی تکبیریں بہت
 
 ۴
 نصرت حق میں تیری عقبہ بنی حر جری
-ہاتھ مل کر رہ گیء دنیا کی جاگیریں بہت
+ہاتھ مل کر رہ گئی دنیا کی جاگیریں بہت
 
 ۵
 رک سکا کب راستہ شیر خدا کے شیر کا
@@ -86,4 +87,4 @@ romanLyrics: |-
 
 ۸
 بیڑیاں پیروں میں اور گردن میں طوق خاردار
-پھر بھی پہنای گیء عابد کو زنجیریں بہت
+پھر بھی پہنائی گئی عابد کو زنجیریں بہت

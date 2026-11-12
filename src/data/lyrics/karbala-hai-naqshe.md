@@ -6,35 +6,36 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
+reciter: "Tableegh e Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Karbala hai naqshe saani kaaba e islam ka
-  Shakl o surat ek jaisi farkh hai bas naam ka
+  Karbala hai naqsh-e-saani Kaaba-e-Islam ka
+  Shakl o surat ek jaisi farq hai bas naam ka
 
   1
-  Kaaba e dil mein guzar hone na do asnaam ka
-  Aaeene mein baal aajaye to phir kis kaam ka
+  Kaaba-e-dil meiṅ guzar hone na do asnaam ka
+  Aaine meiṅ baal aa jaaye to phir kis kaam ka
 
   2
-  Aaj bhi zinda hai dekho maujizein shabbir ke
-  Aaj bhi har roz suraj doobta hai shaam ka
+  Aaj bhi zinda hai dekho mojize Shabbir ke
+  Aaj bhi har roz suraj dubta hai shaam ka
 
   3
-  Tun samajhte ho ke zakhmi thay hussain ibne ali
-  Zulm ke teeron se chalni tha badan islam ka
+  Tum samajhte ho ke zakhmi the Husain ibn-e-Ali
+  Zulm ke tiroṅ se chhalni tha badan Islam ka
 
   4
-  Manzar e shaam e ghariban yaad aata hai mujhe
+  Manzar-e-shaam-e-gharibaaṅ yaad aata hai mujhe
   Phailne lagta hai jab aa kar andhera shaam ka
 
   5
-  Munkir e aale mohamed ki sana mai kyun karun
-  Kyun qalam se kaam loon lafzon ke qatle aam ka
+  Munkir-e-aal-e-Muhammad ki sana main kiuṅ karuṅ
+  Kiuṅ qalam se kaam luṅ lafzoṅ ke qatl-e-aam ka
 
   6
-  Madhe sheh se do jahan mein mil gaya mujhko urooj
+  Madh-e-shah se do jahaaṅ meiṅ mil gaya mujh ko Uruj
   Zaat par sach hai asar padta hai uske naam ka
 # source_id: nohayonline:163a970d4ad17d07d938
 # source_url: https://www.nohayonline.com/details_content.php?id=3454
@@ -45,7 +46,7 @@ romanLyrics: |-
 
 ۱
 کعبہء دل میں گزر ہونے نہ دو اصنام کا
-آیینے میں بال آجائے تو پھر کس کام کا
+آئینے میں بال آ جائے تو پھر کس کام کا
 
 ۲
 آج بھی زندہ ہے دیکھو معجزے شبیر کے
@@ -65,4 +66,4 @@ romanLyrics: |-
 
 ۶
 مدح شہ سے دو جہاں میں مل گیا مجھکو عروج
-ذات پر سچ ہے اثر پڑھتا ہے اس کے نام کا
+ذات پر سچ ہے اثر پڑتا ہے اس کے نام کا

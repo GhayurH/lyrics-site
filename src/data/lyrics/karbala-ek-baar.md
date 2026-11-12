@@ -6,49 +6,52 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Majid Raza Abidi"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Misle hurr qismat jaga kar dekhna
+  Misl-e-Hurr qismat jaga kar dekhna
   Karbala ek baar jaa kar dekhna
-  Qabr e akbar keh rahi hai doston
-  Naujawani ki shahadat aisi ho
-  Khud ko yun haq par mita kar dekhna
 
   1
-  Bachpane ka dost wo sheh ka habeeb
-  Rauza e sheh ki hai darbani naseeb
-  Is tarha waada nibha kar dekhna
+  Qabr-e-Akbar keh rahi hai dostoṅ
+  Naujawaaṅ ki shahaadat aisi ho
+  Khud ko yuṅ haq par mita kar dekhna
 
   2
-  Seena e sheh par hai asghar ka maqaam
-  Haye wo mazloom maa ka laal-faam
-  Dil ke jhoole mein jhula kar dekhna
+  Bachpane ka dost wo shah ka Habib
+  Rauza-e-shah ki hai darbaani nasib
+  Is tarha waada nibha kar dekhna
 
   3
-  Aansuon ke karwan ko saath lo
-  Qalb ke soze neha ko saath lo
-  Tab dua ko haath utha kar dekhna
+  Sina-e-shah par hai Asghar ka maqaam
+  Haaye wo mazlum maaṅ ka laal faam
+  Dil ke jhule meiṅ jhula kar dekhna
 
   4
-  Karbala tatheer waale ka hai ghar
-  Keena o makr o hasad ko chod kar
-  Khud ko tum taahir bana kar dekhna
+  Aansuoṅ ke kaarwaaṅ ko saath lo
+  Qalb ke soz-e-nihaaṅ ko saath lo
+  Tab dua ko haath utha kar dekhna
 
   5
-  Haajiyon se kehti hai qabre nabi
+  Karbala tathir waale ka hai ghar
+  Kina o makr o hasad ko chhor kar
+  Khud ko tum taahir bana kar dekhna
+
+  6
+  Haajiyoṅ se kehti hai qabr-e-Nabi
   Chaahte ho tum agar meri khushi
   Is tarha hajj ko saja kar dekhna
 
-  6
-  Dekhiye abbas e ghazi ka haram
-  Aaj bhi baaqi hai ghazi ka hashm
-  Wo haram nazrein jhuka kar dekhna
-
   7
-  Aao majid chalke dekhein wo maqam
-  Dard mando ko jo karde shadman
+  Dekhiye Abbas-e-Ghaazi ka haram
+  Aaj bhi baaqi hai Ghaazi ka hasham
+  Wo haram nazreṅ jhuka kar dekhna
+
+  8
+  Aao Majid chal ke dekheṅ wo maqaam
+  Dard mandoṅ ko jo kar de shaadmaaṅ
   Waqt ko taara bana kar dekhna
 # source_id: nohayonline:26e6e638e8d4c9831776
 # source_url: https://www.nohayonline.com/details_content.php?id=886
@@ -56,41 +59,43 @@ romanLyrics: |-
 ---
 مثل حر قسمت جگا کر دیکھنا
 کربلا اک بار جا کر دیکھنا
-قبر اکبر کہہ رہی ہے دوستوں
-نوجواں کی شہادت ایسی ہو
-قد کو یوں حق پر مٹا کر دیکھنا
 
 ۱
+قبر اکبر کہہ رہی ہے دوستوں
+نوجواں کی شہادت ایسی ہو
+خود کو یوں حق پر مٹا کر دیکھنا
+
+۲
 بچپنے کا دوست وہ شہ کا حبیب
 روضہء شہ کی ہے دربانی نصیب
 اس طرح وعدہ نبھا کر دیکھنا
 
-۲
+۳
 سینۂ شہ پر ہے اصغر کا مقام
-ہاے وہ مظلوم ماں کا لال فام
+ہائے وہ مظلوم ماں کا لال فام
 دل کے جھولے میں جھلا کر دیکھنا
 
-۳
+۴
 آنسوؤں کے کارواں کو ساتھ لو
 قلب کے سوز نہاں کو ساتھ لو
 تب دعا کو ہاتھ اٹھا کر دیکھنا
 
-۴
+۵
 کربلا تطہیر والے کا ہے گھر
 کینہ و مکر و حسد کو چھوڑ کر
-قد کو تم طاہر بنا کر دیکھنا
+خود کو تم طاہر بنا کر دیکھنا
 
-۵
-ہاجیںوں سے کہتی ہے قبر نبی
+۶
+حاجیوں سے کہتی ہے قبر نبی
 چاہتے ہو تم اگر میری خوشی
 اس طرح حج کو سجا کر دیکھنا
 
-۶
-دیکھیےء عباس غازی کا حرم
-آج بھی باقی ہے غازی کا ہشم
+۷
+دیکھیے عباس غازی کا حرم
+آج بھی باقی ہے غازی کا حشم
 وہ حرم نظریں جھکا کر دیکھنا
 
-۷
+۸
 آؤ ماجد چل کے دیکھیں وہ مقام
 درد مندوں کو جو کردے شادماں
 وقت کو تارہ بنا کر دیکھنا

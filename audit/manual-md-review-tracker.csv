@@ -2232,11 +2232,11 @@ src/data/lyrics/karbala-aam-kare.md,standalone_lyrics,imported,nohayonline+ziyar
 src/data/lyrics/karbala-chalo.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,first_sweep,,"Need audio/print: s2 ""ارمان سیدہ میں بچھانے صف عزا""; s3 ""ہل من مغیثونا"" and ""گواہ ہے""; s7 ""اک سال بعد""; s9 Urdu ""احترام"" vs Roman ""ehtemaam""."
 src/data/lyrics/karbala-chelum-manane.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s3 ""آت دن کی پیاس""; s5 ""ہم دل شبیر"" and ""منتیں اپنی بڑھانے""; preamble ""قدوم چومتی ہے"" and ""جا رہے ہے""; s6 ""ہوگی ہمسفر""; s7 ""نوحہ پڑھے""."
 src/data/lyrics/karbala-dikha-to.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,first_sweep,,"Need audio/print: preamble Urdu ""اے میرے مولا اے میرے مولا"" vs Roman ""Ae mere Maula ae mere Aaqa""; s1 ""لاتے ہے""; s6 ""مقام مہدی"". Confirm Arabic invocation pronunciation."
-src/data/lyrics/karbala-ek-aaftab.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/karbala-ek-baar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/karbala-hai-naqshe.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/karbala-hogi-jo.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/karbala-ik-taraf-syed-mohammad-shah-syed-abutalib.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/karbala-ek-aaftab.md,standalone_lyrics,imported,nohayonline+ziyaraat,pending,partial_review,partial_review,reviewed,verified,reviewed,,,"Need audio/print: s1 ""کتاب تقدیر"" vs ""kaatib-e-taqdir""/""Qasid""; s2 ""قلیلی"" vs ""khaleeli""; confirm s3 ""فوق اکبر"", s4 ""عقبہ بنی""; s6 ""پر سوز"" vs ""purzor""; s7 ""تفسیریں"" vs ""taqdeeren"" and ""گھڑکا""."
+src/data/lyrics/karbala-ek-baar.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,,,"Need audio/print: s1 ""نوجواں کی شہادت"" vs ""naujawani ki shahadat""; s3 ""ماں کا لال فام""; s8 ""وقت کو تارہ بنا کر""."
+src/data/lyrics/karbala-hai-naqshe.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
+src/data/lyrics/karbala-hogi-jo.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
+src/data/lyrics/karbala-ik-taraf.md,standalone_lyrics,imported,tajpoints,pending,reviewed,reviewed,reviewed,not_applicable,reviewed,,,
 src/data/lyrics/karbala-jaane-walon.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/karbala-jaisi-aalam.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/karbala-karbala-english.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
