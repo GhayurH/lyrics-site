@@ -1,227 +1,206 @@
 ---
 title: "ایماں کی جان کیا ہے محبت علی کی ہے"
-alternateTitle: "Imaan Ki Jaan Kya Hai"
+alternateTitle: "Imaaṅ Ki Jaan Kya Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Noha"
+kalamType: "Marsiya"
+reciter: "Alamdar Razvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Imaan ki jaan kya hai mohabbat ali ki hai
-  Raahat jo qabr ki hai wo ulfat ali ki hai
-  Saa'il bakaf hai sab wo saqawat ali ki hai
-  Khaatil ko di amaan wo murawwat ali ki hai
-
   1
+  Imaaṅ ki jaan kya hai muhabbat Ali ki hai
+  Raahat jo qabr ki hai wo ulfat Ali ki hai
+  Saail bakaf hai sab wo sakhaawat Ali ki hai
+  Qaatil ko di amaaṅ wo murawwat Ali ki hai
   Aadil ho peshwa ho madaarul mahaam ho
-  Gar ho nabi ke baad to aisa imam ho
-  Sadqe ghulam teri musibat ke ya ali
-  Ay janasheen janabe risalat ke ya ali
+  Gar ho Nabi ke baad to aisa Imam ho
 
   2
-  Qurban lahoo bhari teri surat ke ya ali
-  Ayyam hai ye teri shahadat ke ya ali
-  Ye zulm be jahat ye sitam be sabab huwa
-  Talwar tere sar pa lagi kya ghazab huwa
+  Sadqe ghulaam teri musibat ke ya Ali
+  Ae jaanashiṅ janaab-e-risaalat ke ya Ali
+  Qurbaan lahu bhari teri surat ke ya Ali
+  Ayyaam haiṅ ye teri shahaadat ke ya Ali
+  Ye zulm be jihat ye sitam be sabab hua
+  Talwaar tere sar pe lagi kya ghazab hua
 
   3
-  Unneeswi se aapka matam hai ya ali
-  Khoon hogaye dilon ka ye aalam hai ya ali
-  Daftar jahan ka darham o barham hai ya ali
-  Mahe siyaam mahe moharram hai ya ali
+  Unniswiṅ se aap ka maatam hai ya Ali
+  Khuṅ ho gaye diloṅ ka ye aalam hai ya Ali
+  Daftar jahaaṅ ka darham o barham hai ya Ali
+  Maah-e-siyaam maah-e-Muharram hai ya Ali
+  Maula ki nazr ko guhar-e-ashk laaye haiṅ
+  Ye rozedaar aap ke purse ko aaye haiṅ
 
   4
-  Maula ki nazr ko gohar e ashk laaye hai
-  Ye rozedaar aapke purse ko aaye hai
-  Maula shigaafta huwa sajde may sar tera
-  Syed tabaah hogaya kufe may ghar tera
+  Maula shigaafta hua sajde meiṅ sar tera
+  Sayyid tabaah ho gaya Kufe meiṅ ghar tera
+  Sarwar alam diloṅ ko hai shaam o sahar tera
+  Aaqa inhiṅ dinoṅ meiṅ hua tha safar tera
+  Aalam se bekhabar the khuzu o khushu meiṅ
+  Talwaar jab lagi thi jhuke the ruku meiṅ
 
   5
-  Sarwar alam dilon ko hai shaam o sahar tera
-  Aaqa inhi dino may huwa tha safar tera
-  Aalam se be-khabar thay khuzu o khushu may
-  Talwar jab lagi thi jhuke thay ruku may
+  Ghar meiṅ Khuda ke qatl hua rozedaar haaye
+  Haaye haaye Imam haaye Shah-e-Zulfiqaar haaye
+  Ae khaana zaad-e-Haq Shah-e-itaaat guzaar haaye
+  Maulud haram meiṅ hai to Najaf meiṅ mazaar haaye
+  Ye bandagi nisaar janaab-e-Amir ke
+  Nikle to ghar se mar ke Khudaa-e-Qadir ke
 
   6
-  Ghar may khuda ke qatl huwa rozedaar haaye
-  Hae hae imam haaye shah e zulfiqar haaye
-  Ay qana zade haq shahe e taa'at guzaar haaye
-  Moulood haram may hai to najaf may mazaar haaye
+  Laaya tha zehr meiṅ wo jafa ju bujha ke tegh
+  Maula gire zamiṅ pe sajde meiṅ khaa ke tegh
+  Ghul par gaya ke sar pe lagi Murtaza ke tegh
+  Khaai Khuda ke sher ne ghar meiṅ Khuda ke tegh
+  Gehra hai zakhm farq-e-Imam-e-Hijaaz par
+  Sar se tapak raha hai lahu jaanamaaz par
 
   7
-  Ye bandagi nisar e janabe ameer ke
-  Nikle to ghar se marke khuda e qadeer ke
-  Laaya tha zehar may wo jafa jo bujha ke taygh
-  Moula giray zameen pa sajde may khaake taygh
+  Sher-e-Khuda jo haathoṅ se thaame the apna sar
+  Khuṅ donoṅ kohniyoṅ se tapakta tha khaak par
+  Bhaaga jo Ibn-e-Muljim malun o bad siyar
+  Pakra use Ali ke muhibboṅ ne daur kar
+  Laaye jo haath baandh ke Maula ke saamne
+  Qaatil pe muskura ke nazar ki Imam ne
 
   8
-  Ghul pad gaya ke sar pa lagi murtaza ke taygh
-  Khaayi khuda ke sher ne ghar may khuda ke taygh
-  Gehra hai zaqm farqe imame hijaaz par
-  Sar se tapak raha hai lahoo ja'namaz par
+  Farmaaya maiṅ ne kaun si ki thi teri khata
+  Paadaash nekiyoṅ ki yahi hai jahaaṅ meiṅ kya
+  Kya maiṅ bura Imam tha ae baani-e-jafa
+  Roya jo sar jhuka ke to Maula ne ye kaha
+  Is dard meiṅ bhi sab ke maraz ki dawa haiṅ ham
+  Baandho na is ke haath ke mushkil kusha haiṅ ham
 
   9
-  Sher e khuda jo haathon se thaame thay apna sar
-  Khoon dono koniyon se tapakta tha khaak par
-  Bhaaga jo ibn e muljim e mal'oon o bad siyar
-  Pakda usay ali ke muhibbon ne daud kar
+  Donoṅ hi shab Ali ko tarapte hui basar
+  Lete the is taraf kabhi karwat kabhi udhar
+  Ro kar dabaate paaoṅ jo Shabbir-e-naamwar
+  Reh jaate the Imam-e-do aalam hila ke sar
+  Rudaad thi nazar meiṅ mujassam Husain ki
+  Aawaaz sun ke rote the Zainab ke bain ki
 
   10
-  Laaye jo haath baandh ke maula ke saamne
-  Khaatil pa muskura ke nazar ki imam ne
-  Farmaya mai ne kounsi ki thi teri khata
-  Paadaash nekiyon ki yahi hai jahan may kya
+  Jab biswiṅ ka din bhi tarap kar hua tamaam
+  Ummul Banin se chauṅk ke kehne lage Imam
+  Do din se aah sab mere bachche hai be taaam
+  Faaqe meiṅ in pe guzregi kya aaj ki bhi shaam
+  Achchha huṅ ab to maiṅ ye abas beqaraar haiṅ
+  Khaana inheiṅ khilaao ke sab rozedaar haiṅ
 
   11
-  Kya mai bura imam tha ay baaniye jafaa
-  Roya jo sar jhuka ke to maula ne ye kaha
-  Is dard may bhi sab ke maraz ki dawa hai hum
-  Baandho na iske haath ke mushkil kusha hai hum
+  Bole Husain baap se haathoṅ ko jor kar
+  Sab khaaeṅ phir jo aap tanaawul kare agar
+  Farmaaya rizq uth gaya majbur hai pidar
+  Paani bhi ab gale se utarta nahiṅ pisar
+  Daawat Ali ki aaj hai ghar meiṅ Allah ke
+  Roza khulega saath risaalat panaah ke
 
   12
-  Dono shabe ali ko tadapte huwi basar
-  Lete thay is taraf kabhi karwat kabhi udhar
-  Rokar dabaate paon jo shabbir e naamwar
-  Reh jaate thay imam e do aalam hila ke sar
-
-  13
-  Rudaad thi nazar may mujassam hussain ki
-  Awaaz sun ke rote thay zainab ke bain ki
-  Jab beeswi ka din bhi tadapkar huwa tamam
-  Ummul baneen se chounk ke kehne lage imam
-
-  14
-  Do din se aah sab mere bache hai be ta'aam
-  Faaqe may in pe guzregi kya aaj ki bhi shaam
-  Acha hoon ab to mai ye abas be-qarar hai
-  Khana inhe khilao ke sab rozedaar hai
-
-  15
-  Bole hussain baap se haathon ko jod kar
-  Sab khaaen phir jo aap tanawul kare agar
-  Farmaya rizq uth gaya majboor hai pidar
-  Pani bhi ab galay se utarta nahi pisar
-
-  16
-  Daawat ali ki aaj hai ghar may ilaah ke
-  Roza khulega saath risalat panaah ke
-  Chup hogaye ye kehke shehinshah e kayenaat
-  Samjhe ye sab ke ghash may hai shah e niko sifaath
-
-  17
-  Jis waqt baaqi rah gayi kuch kam ghadi wo raat
-  Tayghe ajal ne khata kiya rishta e hayaat
-  Tadka tha noor ka ke safar kar gaye ali
-  Sab shia be-imam huwe mar gaye ali
+  Chup ho gaye ye keh ke Shehenshaah-e-kaainaat
+  Samjhe ye sab ke ghash meiṅ hai Shaah-e-nikuṅ sifaat
+  Jis waqt baaqi reh gai kuchh kam ghari wo raat
+  Tegh-e-ajal ne qata kiya rishta-e-hayaat
+  Tarka tha nur ka ke safar kar gaye Ali
+  Sab Shia be Imam hue mar gaye Ali
 # source_id: nohayonline:b50fb7ccdaf35a67fd80
 # source_url: https://www.nohayonline.com/content_marsiya.php?id=13
 # raw_sha256: ebcedc1f4b62c537461dc665d9210ceb519724b1ce92bb72518a221dfb6c512c
 ---
+۱
 ایماں کی جان کیا ہے محبت علی کی ہے
 راحت جو قبر کی ہے وہ الفت علی کی ہے
-سایل بکف ہے سب وہ سخاوت علی کی ہے
-قاتل کو دی عماں وہ مروت علی کی ہے
-
-۱
+سائل بکف ہے سب وہ سخاوت علی کی ہے
+قاتل کو دی اماں وہ مروت علی کی ہے
 عادل ہو پیشوا ہو مدارالمہام ہو
 گر ہو نبی کے بعد تو ایسا امام ہو
-صدقے غلام تیری مصیبت کے یا علی
-اے جانشیں جنابِ رسالت کے یا علی
 
 ۲
+صدقے غلام تیری مصیبت کے یا علی
+اے جانشیں جنابِ رسالت کے یا علی
 قربان لہو بھری تیری صورت کے یا علی
 ایام ہیں یہ تیری شہادت کے یا علی
 یہ ظلم بے جہت یہ ستم بے سبب ہوا
 تلوار تیرے سر پہ لگی کیا غضب ہوا
 
 ۳
-انیسویں سے آپکا ماتم ہے یا علی
-خوں ہوگےء دلوں کا یہ عالم ہے یا علی
-دفتر جہاں کا درہم و برہم ہے یاعلی
-ماہ صیام ماہ محرم ہے یاعلی
+انیسویں سے آپ کا ماتم ہے یا علی
+خوں ہو گئے دلوں کا یہ عالم ہے یا علی
+دفتر جہاں کا درہم و برہم ہے یا علی
+ماہِ صیام ماہِ محرم ہے یا علی
+مولا کی نذر کو گہرِ اشک لائے ہیں
+یہ روزہ دار آپ کے پرسے کو آئے ہیں
 
 ۴
-مولا کی نذر کو گہر آشک لاے ہیں
-یہ روزہ دار آپکے پرسے کو آے ہیں
 مولا شگافتہ ہوا سجدے میں سر تیرا
-سید تباہ ہوگیا کوفے میں گھر تیرا
-
-۵
+سید تباہ ہو گیا کوفے میں گھر تیرا
 سرور الم دلوں کو ہے شام و سحر تیرا
 آقا انہیں دنوں میں ہوا تھا سفر تیرا
 عالم سے بے خبر تھے خضوع و خشوع میں
 تلوار جب لگی تھی جھکے تھے رکوع میں
 
-۶
-گھر میں خدا کے قتل ہوا روزہ دار ہاے
-ہاے ہاے امام ہاے شہ ذوالفقار ہاے
-اے خانہ زاد حق شہ اطاعت گزار ہاے
-مولود حرم میں ہے تو نجف میں مزار ہاے
+۵
+گھر میں خدا کے قتل ہوا روزہ دار ہائے
+ہائے ہائے امام ہائے شہِ ذوالفقار ہائے
+اے خانہ زادِ حق شہِ اطاعت گزار ہائے
+مولود حرم میں ہے تو نجف میں مزار ہائے
+یہ بندگی نثار جنابِ امیر کے
+نکلے تو گھر سے مر کے خدائے قدیر کے
 
-۷
-یہ بندگی نثار جناب امیر کے
-نکلے تو گھر سے مر کے خداے قدیر کے
+۶
 لایا تھا زہر میں وہ جفا جو بجھا کے تیغ
 مولا گرے زمیں پہ سجدے میں کھا کے تیغ
-
-۸
-غل پڑ گیا کے سر پہ لگی مرتظی کے تیغ
-کھای خدا کے شیر نے گھر میں خدا کے تیغ
-گہرا ہے زخم فرق امام حجاز پر
+غل پڑ گیا کے سر پہ لگی مرتضیٰ کے تیغ
+کھائی خدا کے شیر نے گھر میں خدا کے تیغ
+گہرا ہے زخم فرقِ امامِ حجاز پر
 سر سے ٹپک رہا ہے لہو جانماز پر
 
-۹
-شیر خدا جو ہاتھوں سے تھامے تھے اپنا سر
+۷
+شیرِ خدا جو ہاتھوں سے تھامے تھے اپنا سر
 خوں دونوں کہنیوں سے ٹپکتا تھا خاک پر
 بھاگا جو ابنِ ملجم ملعون و بد سیر
 پکڑا اسے علی کے محبوں نے دوڑ کر
-
-۱۰
-لاے جو ہاتھ باندھ کے مولا کے سامنے
+لائے جو ہاتھ باندھ کے مولا کے سامنے
 قاتل پہ مسکرا کے نظر کی امام نے
-فرمایا میں نے کونسی کی تھی تیری خطا
-پاداش نیکیوں کی یہی ہے جہاں میں کیا
 
-۱۱
-کیا میں برا امام تھا اے بانیء جفا
+۸
+فرمایا میں نے کون سی کی تھی تیری خطا
+پاداش نیکیوں کی یہی ہے جہاں میں کیا
+کیا میں برا امام تھا اے بانیِ جفا
 رویا جو سر جھکا کے تو مولا نے یہ کہا
 اس درد میں بھی سب کے مرض کی دوا ہیں ہم
 باندھو نہ اس کے ہاتھ کے مشکل کشا ہیں ہم
 
-۱۲
-دونوں ہی شب علی کو تڑپتے ہوی بسر
+۹
+دونوں ہی شب علی کو تڑپتے ہوئی بسر
 لیتے تھے اس طرف کبھی کروٹ کبھی ادھر
-روکر دباتے پاؤں جو شبیر نامور
-رہ جاتے تھے امام دو عالم ہلا کے سر
-
-۱۳
+رو کر دباتے پاؤں جو شبیرِ نامور
+رہ جاتے تھے امامِ دو عالم ہلا کے سر
 روداد تھی نظر میں مجسم حسین کی
 آواز سن کے روتے تھے زینب کے بین کی
+
+۱۰
 جب بیسویں کا دن بھی تڑپ کر ہوا تمام
 ام البنین سے چونک کے کہنے لگے امام
-
-۱۴
 دو دن سے آہ سب میرے بچے ہے بے طعام
-فاقے میں ان پہ گزریگی کیا آج کی بھی شام
-اچھا ہوں اب تو میں یہ عبس بے قرار ہیں
+فاقے میں ان پہ گزرے گی کیا آج کی بھی شام
+اچھا ہوں اب تو میں یہ عبث بے قرار ہیں
 کھانا انہیں کھلاؤ کے سب روزہ دار ہیں
 
-۱۵
+۱۱
 بولے حسین باپ سے ہاتھوں کو جوڑ کر
-سب کھایں پھر جو آپ تناول کرے اگر
+سب کھائیں پھر جو آپ تناول کرے اگر
 فرمایا رزق اٹھ گیا مجبور ہے پدر
 پانی بھی اب گلے سے اترتا نہیں پسر
-
-۱۶
 دعوت علی کی آج ہے گھر میں اللہ کے
 روزہ کھلے گا ساتھ رسالت پناہ کے
-چپ ہوگےء یہ کہکے شہنشاہِ کاینات
-سمجھے یہ سب کے غش میں ہے شاہ نکوں صفات
 
-۱۷
-جس وقت باقی رہ گیء کچھ کم گھڑی وہ رات
-تیغ اجل نے قطعہ کیا رشتہء حیات
-تڑکا تھا نور کا کہ سفر کر گےء علی
-سب شیعہ بے امام ہوے مر گےء علی
+۱۲
+چپ ہو گئے یہ کہہ کے شہنشاہِ کائنات
+سمجھے یہ سب کے غش میں ہے شاہ نکوں صفات
+جس وقت باقی رہ گئی کچھ کم گھڑی وہ رات
+تیغِ اجل نے قطع کیا رشتۂ حیات
+تڑکا تھا نور کا کہ سفر کر گئے علی
+سب شیعہ بے امام ہوئے مر گئے علی
