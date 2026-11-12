@@ -6,140 +6,140 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Muneer Lakhnavi"
+reciter: "Afzal Mirza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jab hum ne suni masjid se azan
-  Hamshakle payambar yaad aaye
-  Takbeer ki aayi jaise sada
-  Har ek ko akbar yaad aaye
+  Jab hum ne suni masjid se azaaṅ
+  Hamshakl-e-Payambar yaad aaye
+  Takbir ki aayi jaise sada
+  Har ek ko Akbar yaad aaye
 
   1
-  Hasta jo koi bacha dekha
-  Chaah maah ke asghar yaad aaye
-  Yaad aayi hum ko karbobala
-  Ek dukhiya maadar yaad aaye
-  
+  Hansta jo koi bachcha dekha
+  Chhe maah ke Asghar yaad aaye
+  Yaad aayi hum ko Karb o Bala
+  Ik dukhiya maadar yaad aaye
+
   2
-  Khat bhej ke ye sughra ne kaha
-  Kya bhool gaye mujhko baba
-  Deedar ko tarsi hai dukhiya
-  Har waqt baradar yaad aaye
-  
+  Khat bhej ke ye Sughra ne kaha
+  Kya bhul gaye mujh ko baaba
+  Didaar ko tarsi hai dukhiya
+  Har waqt baraadar yaad aaye
+
   3
   Ab asr ka suraj hai dhalta
-  Aur shimr ka khanjar hai chalta
+  Aur Shimr ka khanjar hai chalta
   Shabbir ka aisa hai sajda
-  Ke sajda e hyder yaad aaye
-  
+  Ke sajda-e-Haider yaad aaye
+
   4
   Kaisi hai musibat ranj o alam
   Kufe mein barehna sar hai haram
-  Har samt khade hai na mehram
-  Tatheer ki chadar yaad aaye
-  
+  Har samt khare haiṅ naamahram
+  Tathir ki chaadar yaad aaye
+
   5
-  Meraaj e haya thi naize par
-  Rukta hi na tha abbas ka sar
-  Kethi hai ye zainab ro ro kar
+  Meraaj-e-haya thi naize par
+  Rukta hi na tha Abbas ka sar
+  Kehti hai ye Zainab ro ro kar
   Bazaar ke manzar yaad aaye
-  
+
   6
-  Zindan se qaidi jab choote
-  Aur wapas yasrab mein pahunche
-  Dil ahle madina ke toote
-  Har ek ko sarwar yaad aaye
-  
+  Zindaan se qaidi jab chhute
+  Aur waapas Yasrab mein pahunche
+  Dil ahl-e-Madina ke tute
+  Har ek ko Sarwar yaad aaye
+
   7
-  Kehti thi sakeena amma jaan
-  Baysheer mera bhaiyya hai kahan
-  Kya us se kahe dukhiyari maa
-  Be saaqta asghar yaad aaye
-  
+  Kehti thi Sakina amma jaan
+  Beshir mera bhaiya hai kahaaṅ
+  Kya us se kahe dukhiyaari maaṅ
+  Besaakhta Asghar yaad aaye
+
   8
   Jab ghar mein bana koi dulha
-  Yaad aa gaya qasim ka sehra
-  Nauha bhi pada matam bhi kiya
-  Aur dilbar e shabbar yaad aaye
-  
+  Yaad aa gaya Qasim ka sehra
+  Noha bhi parha maatam bhi kiya
+  Aur dilbar-e-Shabbar yaad aaye
+
   9
-  Jis jaah par kahin pani barse
-  Aur dekhe hum ne khet haray
-  Asghar ka lahoo rukh par apne
-  Malte huwe sarwar yaad aaye
-  
+  Jis jaah par kahiṅ paani barse
+  Aur dekhe hum ne khet hare
+  Asghar ka lahu rukh par apne
+  Malte hue Sarwar yaad aaye
+
   10
-  Hai kaun muneer apna hamsar
-  Kyunkar ho hamein khauf e mehshar
-  Ho aankh ghame shabbir mein tar
-  Aur nazha mein hyder yaad aaye
+  Hai kaun Muneer apna hamsar
+  Kiuṅkar ho hameiṅ khauf-e-mahshar
+  Ho aaṅkh gham-e-Shabbir mein tar
+  Aur naza mein Haider yaad aaye
 # source_id: nohayonline:66f8655c2541e4a28f2a
 # source_url: https://www.nohayonline.com/details_content.php?id=1866
 # raw_sha256: 12e9b43c708258ee435570776595466b6e0a7c897b7b49b52eaf6cdfae7ac2ce
 ---
-
 جب ہم نے سنی مسجد سے اذاں
-ہمشکل پیمبر یاد آے
-تکبیر کی آی جیسے صدا
-ہر ایک کو اکبر یاد آے
+ہمشکلِ پیمبر یاد آئے
+تکبیر کی آئی جیسے صدا
+ہر ایک کو اکبر یاد آئے
 
 ۱
 ہنستا جو کوئی بچہ دیکھا
-چھ ماہ کے اصغر یاد آے
-یاد آی ہم کو کربوبلا
-اک دکھیا مادر یاد آے
+چھ ماہ کے اصغر یاد آئے
+یاد آئی ہم کو کرب و بلا
+اک دکھیا مادر یاد آئے
 
 ۲
 خط بھیج کے یہ صغرا نے کہا
-کیا بھول گےء مجھکو بابا
+کیا بھول گئے مجھ کو بابا
 دیدار کو ترسی ہے دکھیا
-ہر وقت برادر یاد آے
+ہر وقت برادر یاد آئے
 
 ۳
 اب عصر کا سورج ہے ڈھلتا
 اور شمر کا خنجر ہے چلتا
 شبیر کا ایسا ہے سجدہ
-کہ سجدۂ حیدر یاد آے
+کہ سجدۂ حیدر یاد آئے
 
 ۴
 کیسی ہے مصیبت رنج و الم
 کوفے میں برہنہ سر ہے حرم
-ہر سمت کھڑے ہیں نہ محرم
-تطہیر کی چادر یاد آے
+ہر سمت کھڑے ہیں نامحرم
+تطہیر کی چادر یاد آئے
 
 ۵
-معراج حیدر تھی نیزے پر
+معراجِ حیدر تھی نیزے پر
 رکتا ہی نہ تھا عباس کا سر
 کہتی ہے یہ زینب رو رو کر
-بازار کے منظر یاد آے
+بازار کے منظر یاد آئے
 
 ۶
 زندان سے قیدی جب چھوٹے
 اور واپس یثرب میں پہنچے
-دل أہل مدینہ کے ٹوٹے
-ہر ایک کو سرور یاد آے
+دل اہلِ مدینہ کے ٹوٹے
+ہر ایک کو سرور یاد آئے
 
 ۷
 کہتی تھی سکینہ اماں جاں
 بے شیر میرا بھیا ہے کہاں
 کیا اس سے کہا دکھیاری ماں
-بے ساختہ اصغر یاد آے
+بے ساختہ اصغر یاد آئے
 
 ۸
 جب گھر میں بنا کوئی دولہا
 یاد آ گیا قاسم کا سہرا
 نوحہ بھی پڑھا ماتم بھی کیا
-اور دلبر شبر یاد آے
+اور دلبرِ شبر یاد آئے
 
 ۹
 جس جاہ پر کہیں پانی برسے
 اور دیکھے ہم نے کھیت ہرے
 اصغر کا لہو رخ پر اپنے
-ملتے ہوئے سرور یاد آے
+ملتے ہوئے سرور یاد آئے
 
 ۱۰
 ہے کون منیر اپنا ہمسر
-کیونکر ہو ہمیں خوف محشر
+کیونکر ہو ہمیں خوفِ محشر
 ہو آنکھ غمِ شبیر میں تر
-اور نزع میں حیدر یاد آے
+اور نزع میں حیدر یاد آئے
