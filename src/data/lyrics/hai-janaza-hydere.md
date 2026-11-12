@@ -1,72 +1,75 @@
 ---
 title: "ہے جنازہ حیدر کرار کا"
-alternateTitle: "Hai Janaza Hydere"
+alternateTitle: "Hai Janaza Haidar-e-Karraar Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hai janaza hyder e karraar ka
-  Momino do mil ke kaandha
-  Chal basa zainab ka baba
+  Hai janaza Haidar-e-Karraar ka
+  Mominoṅ do mil ke kaandha
+  Hai janaza Haidar-e-Karraar ka
+  Chal basa Zainab ka baba
+  Hai janaza Haidar-e-Karraar ka
 
   1
-  Kis ne ye mehrab may
-  Rukn e hidayat dha diya
+  Kis ne ye mehraab mein
+  Rukn-e-hidaayat dha diya
   Ye sitam kaisa hua
-  Nauha ye jibreel ka tha
+  Noha ye Jibril ka tha
 
   2
   Rok lo bhaiya janaza
   Mere baba jaan ka
-  Ro ke zainab ne kaha
-  Dekh loo chehra dubara
+  Ro ke Zainab ne kaha
+  Dekh luṅ chehra dobaara
 
   3
-  Koi zainab se ye keh de
-  Ro le jee bhar kar abhi
+  Koi Zainab se ye keh de
+  Ro le ji bhar kar abhi
   Saath hai bhai sabhi
   Hai salamat tera parda
 
   4
   Eid hai nazdeek aur
-  Ghar may qayamat hogayi
-  Hai saf e matam bichi
-  Keh rahi hai ro ke zehra
+  Ghar mein qayaamat ho gayi
+  Hai saf-e-maatam bichhi
+  Keh rahi hai ro ke Zahra
 
   5
-  Kaun kufe ke yateemon
+  Kaun Kufe ke yatimoṅ
   Ka rakhega ab khayaal
-  Gham se hai saare nidhaal
-  Shor hai wa ghurbata ka
+  Gham se haiṅ saare nidhaal
+  Shor hai waa ghurbata ka
 
   6
   Baap ke qadmon pe
   Sar rakh kar haram ki aas ne
-  Ye kaha abbas ne
-  Alvida ghazi ke baba
+  Ye kaha Abbas ne
+  Alwida Ghaazi ke baba
 
   7
-  Teer aayega janaze par
+  Tir aayega janaze par
   Na pathar aayega
   Aur na waapas jayega
   Shaan se ye dafn hoga
 
   8
-  Shaam ka ehwaal jab
-  Beti se kehte thay ali
-  Gham ke maare us ghadi
+  Shaam ka ahwaal jab
+  Beti se kehte the Ali
+  Gham ke maare us ghari
   Zard tha maula ka chehra
 
   9
-  Hai takallum ye qayamat
-  Rozedaron ke liye
-  Pursadaron ke liye
-  Aao de mehdi ko pursa
+  Hai Takallum ye qayaamat
+  Rozedaaroṅ ke liye
+  Pursadaaroṅ ke liye
+  Aao deṅ Mehdi ko pursa
 # source_id: nohayonline:d4637dd0865d2b0c48ba
 # source_url: https://www.nohayonline.com/details_content.php?id=1927
 # raw_sha256: e8052958be589b66f90fd237a48f255278639606157c3bb7fc597b37b88eebf0
@@ -74,7 +77,9 @@ romanLyrics: |-
 
 ہے جنازہ حیدر کرار کا
 مومنوں دو مل کے کاندھا
+ہے جنازہ حیدر کرار کا
 چل بسا زینب کا بابا
+ہے جنازہ حیدر کرار کا
 
 ۱
 کس نے یہ محراب میں
@@ -91,12 +96,12 @@ romanLyrics: |-
 ۳
 کوئی زینب سے یہ کہہ دے
 رو لے جی بھر کر ابھی
-ساتھ ہے بھای سبھی
+ساتھ ہے بھائی سبھی
 ہے سلامت تیرا پردہ
 
 ۴
 عید ہے نزدیک اور
-گھر میں قیامت ہو گیء
+گھر میں قیامت ہو گئی
 ہے صف ماتم بچھی
 کہہ رہی ہے رو کے زہرا
 
@@ -113,9 +118,9 @@ romanLyrics: |-
 الوداع غازی کے بابا
 
 ۷
-تیر آے گا جنازے پر
-نہ پتھر آے گا
-اور نہ واپس جاے گا
+تیر آئے گا جنازے پر
+نہ پتھر آئے گا
+اور نہ واپس جائے گا
 شان سے یہ دفن ہوگا
 
 ۸

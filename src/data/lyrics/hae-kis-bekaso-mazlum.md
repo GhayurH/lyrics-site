@@ -1,107 +1,108 @@
 ---
 title: "ہاے کس بیکس و مظلوم کا یہ ماتم ہے"
-alternateTitle: "Hae Kis Bekaso Mazlum"
+alternateTitle: "Haae Kis Bekas o Mazlum Ka Ye Maatam Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Noha"
+kalamType: "Marsiya"
+reciter: "Sarfaraz Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye kis bekas o mazloom ka ye matam hai
-  Fatema aayi hai rone ko ye kiska gham hai
+  Haae kis bekas o mazlum ka ye maatam hai
+  Fatima aayi haiṅ rone ko ye kis ka gham hai
   
   1
-  Nange sar saath hai hoorein bhi ajab aalam hai
-  Rone waalon se ye irshaad bhi to ye paiham hai
-  Rone waalon tumhe rone ka sila dene ko
-  Fatema aayi hai tum sab ko dua dene ko
+  Nange sar saath haiṅ hureṅ bhi ajab aalam hai
+  Rone waaloṅ se ye irshaad bhi to ye paiham hai
+  Rone waaloṅ tumheṅ rone ka sila dene ko
+  Fatima aayi haiṅ tum sab ko dua dene ko
   
   2
-  Ay azadaron tumhe khaaliq e akbar ki qasam
-  Kaun mazloom hai wo tum ko payambar ki qasam
-  Naam lo uska zuban se tumhe hyder ki qasam
-  Bezaban hasliyon waale ali asghar ki qasam
+  Ae azaadaaroṅ tumheṅ Khaaliq-e-Akbar ki qasam
+  Kaun mazlum hai woh tum ko Payambar ki qasam
+  Naam lo us ka zabaaṅ se tumheṅ Haidar ki qasam
+  Bezabaaṅ hasliyoṅ waale Ali Asghar ki qasam
   
   3
-  Roke kehdo ke koi bekas o maghmoom nahi
-  Juz hussain ibne ali aur koi mazloom nahi
-  Yehi mazloom madine ka hai rehne waala
-  Ek saydaani ne faaqon may jise tha paala
+  Ro ke keh do ke koi bekas o maghmum nahiṅ
+  Juz Husain ibn-e-Ali aur koi mazlum nahiṅ
+  Yehi mazlum Madine ka hai rehne waala
+  Ek saiyyadaani ne faaqoṅ mein use tha paala
   
   4
-  Nayyar-e-burj-e-imamat ka hai yehi hai haala
+  Nayyar-e-burj-e-imaamat ka hai yehi hai haala
   Ek bekas pa sitam hai ye falak ne daala
-  Subha se asr tak ghar ko lutaaya isne
-  Mar gaye sab to gala apna kataya isne
+  Subh se asr talak ghar ko lutaaya is ne
+  Mar gaye sab to gala apna kataaya is ne
   
   5
-  Shabe haftum se hua bandh is par pani
-  Isi mazloom ke qismat may ye thi hairaani
-  Zibha jab hota tha ran may jo ali ka jaani
-  Peet'ti phirti thi maqtal may koi saydaani
+  Shab-e-haftum se hua band is par paani
+  Isi mazlum ke qismat mein ye thi hairaani
+  Zibh jab hota tha ran mein jo Ali ka jaani
+  Pitti phirti thi maqtal mein koi saiyyadaani
   
   6
-  Kaun saydaani WOHI fatema ki jaani thi
-  Bhai ke pyar may sar nange nikal aayi thi
-  Haan payambar ke madine ka musafir hai yehi
-  Apne nana ki lehad ka bhi mujawer hai yehi
+  Kaun saiyyadaani wohi Fatima ki jaani thi
+  Bhai ke pyaar mein sar nange nikal aayi thi
+  Haaṅ Payambar ke Madine ka musaafir hai yehi
+  Apne nana ki lahad ka bhi mujaawir hai yehi
   
   7
-  Jisko pani na mila tha dam-e-aakhir hai yehi
-  Jispe sadqe huwe ayyub wo sarwar hai yehi
-  Bekas-o-be watan-o-tashandahan kehte hai
-  Isi mazloom ko mohtaaj-e-kafan kehte hai
+  Jis ko paani na mila tha dam-e-aakhir hai yehi
+  Jis pe sadqe hue Ayyub woh sarwar haiṅ yehi
+  Bekas o bewatan o tashna dahan kehte haiṅ
+  Isi mazlum ko mohtaaj-e-kafan kehte haiṅ
   
   8
-  Ya hussain aap ki mazloomi-o-ghurbat ke nisaar
+  Ya Husain aap ki mazlumi o ghurbat ke nisaar
   Sar ko katwa diya kis shaan se himmat ke nisaar
-  Tahe khanjar bhi kiya sajda ibadat ke nisaar
+  Tah-e-khanjar bhi kiya sajda ibaadat ke nisaar
   Nange sar dekha na hamsheer ko ghurbat ke nisaar
   
   9
-  Hoo fida aap pa moo ashkon se dhone waale
-  Ya hussain aap pa sadqe ho ye rone waale
-  Dekha is bekas-o-mazloom ki shan-e-ghurbat
-  Chote bete ki lehad khodi hai uff ye himmat
+  Hoṅ fida aap pe muṅh ashkoṅ se dhone waale
+  Ya Husain aap pe sadqe hoṅ ye rone waale
+  Dekha is bekas o mazlum ki shaan-e-ghurbat
+  Chhote bete ki lahad khodi hai uf ye himmat
   
   10
-  Kaampte haaton se aaqa ne banayi turbat
-  Kya kahen kis se kahen qalb ki apni haalat
-  Chand ko apne tahe khaak chupaya hai abhi
-  Hasliyon waale ko turbat may sulaya hai abhi
+  Kaampte haathoṅ se Aaqa ne banaayi turbat
+  Kya kaheṅ kis se kaheṅ qalb ki apni haalat
+  Chaand ko apne tah-e-khaak chhupaaya hai abhi
+  Hansliyoṅ waale ko turbat mein sulaaya hai abhi
   
   11
-  Kis khadar bekas-o-mazloom tha ye shah-e-ghareeb
-  Na kafan chote se sayyed ko huwa usko naseeb
-  Sar ko katwaye huwe sotay hai sab uske habeeb
-  Pyaas se teen shab-o-roz se haalat hai ajeeb
+  Kis qadar bekas o mazlum tha ye shaah-e-gharib
+  Na kafan chhote se saiyyad ko hua us ke nasib
+  Sar ko katwaaye hue sote haiṅ sab us ke habib
+  Pyaas se tin shab o roz se haalat hai ajib
   
   12
-  Ya ali kehke sambhala hai dil-e-muztar ko
-  Khoon bhare kurte may dafnaya ali asghar ko
-  Roke dete hai sada maah-e-anwar bolo
-  Ay mere chote shaheed ay mere dilbar bolo
+  Ya Ali keh ke sambhaala hai dil-e-muztar ko
+  Khuṅ bhare kurte mein dafnaaya Ali Asghar ko
+  Ro ke dete haiṅ sada maah-e-anwar bolo
+  Ae mere chhote shahid ae mere dilbar bolo
   
   13
-  Baap ko chod ke tanha gaye kyunkar bolo
-  Dard kaisa hai galay may ali asghar bolo
-  Godh may baith ke sab haal sunana beta
-  Teer ka zakhm bhi dadi ko dikhana beta
+  Baap ko chhor ke tanha gaye kiuṅ kar bolo
+  Dard kaisa hai gale mein Ali Asghar bolo
+  God mein baith ke sab haal sunaana beta
+  Tir ka zakhm bhi daadi ko dikhaana beta
 # source_id: nohayonline:1b53f7b12de3f6957fed
 # source_url: https://www.nohayonline.com/content_marsiya.php?id=4
 # raw_sha256: 64ccaf9c30000b9bffcd08d6ff0e58477a437ae0de01ed2c5cc5b61d7a5a73ab
 ---
 
 ہاے کس بیکس و مظلوم کا یہ ماتم ہے
-فاطمہ آی ہیں رونے کو یہ کس کا غم ہے
+فاطمہ آئی ہیں رونے کو یہ کس کا غم ہے
 
 ۱
 ننگے سر ساتھ ہیں حوریں بھی عجب عالم ہے
 رونے والوں سے یہ ارشاد بھی تو یہ پیہم ہے
 رونے والوں تمہیں رونے کا صلہ دینے کو
-فاطمہ آی ہیں تم سب کو دعا دینے کو
+فاطمہ آئی ہیں تم سب کو دعا دینے کو
 
 ۲
 اے عزاداروں تمہیں خالقِ اکبر کی قسم
@@ -124,12 +125,12 @@ romanLyrics: |-
 ۵
 شب ہفتم سے ہوا بند اس پر پانی
 اسی مظلوم کے قسمت میں یہ تھی حیرانی
-زبح جب ہوتا تھا رن‌ میں جو علی کا جانی
+ذبح جب ہوتا تھا رن میں جو علی کا جانی
 پیٹتی پھرتی تھی مقتل میں کوئی سیدانی
 
 ۶
-کون سیدانی وہی فاطمہ کی جای تھی
-بھائی کے پیار میں سر ننگے نکل آی تھی
+کون سیدانی وہی فاطمہ کی جائی تھی
+بھائی کے پیار میں سر ننگے نکل آئی تھی
 ہاں پیمبر کے مدینے کا مسافر ہے یہی
 اپنے نانا کی لحد کا بھی مجبور ہے یہی
 
@@ -146,7 +147,7 @@ romanLyrics: |-
 ننگے سر دیکھا نہ ہمشیر کو غربت کے نثار
 
 ۹
-ہوں فدا آپ پہ منہ آشکوں سے دھونے والے
+ہوں فدا آپ پہ منہ اشکوں سے دھونے والے
 یا حسین آپ پہ صدقے ہوں یہ رونے والے
 دیکھا اس بیکس و مظلوم کی شان غربت
 چھوٹے بیٹے کی لحد کھودی ہے اف یہ ہمت
@@ -160,7 +161,7 @@ romanLyrics: |-
 ۱۱
 کس قدر بیکس و مظلوم تھا یہ شاہ غریب
 نہ کفن چھوٹے سے سید کو ہوا اسکے نصیب
-سر کو کٹواے ہوئے سوتے ہیں سب اسکے حبیب
+سر کو کٹوائے ہوئے سوتے ہیں سب اسکے حبیب
 پیاس سے تین شب و روز سے حالت ہے عجیب
 
 ۱۲
@@ -170,7 +171,7 @@ romanLyrics: |-
 اے میرے چھوٹے شہید اے میرے دلبر بولو
 
 ۱۳
-باپ کو چھوڑ کے تنہا گےء کیوں کر بولو
+باپ کو چھوڑ کے تنہا گئے کیوں کر بولو
 درد کیسا ہے گلے میں علی اصغر بولو
 گود میں بیٹھ کے سب حال سنانا بیٹا
 تیر کا زخم بھی دادی کو دکھانا بیٹا
