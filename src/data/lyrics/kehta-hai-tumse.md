@@ -6,138 +6,138 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Taha Istefa"
+reciter: "Mir Arif Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kehta hai tumse maahe moharram hussainiyo
-  Mazloome karbala ka hai ye gham hussainiyo
-  Ya maula ya hussain
+  Kehta hai tum se maah-e-Muharram Husainiyoṅ
+  Mazlum-e-Karbala ka hai ye gham Husainiyoṅ
+  Ya Maula ya Husain
 
   1
-  Uth'ta hai dard shor e buka se utha kare
-  Jalta hai gar adoo e aza to jala kare
-  Taskeen e qalb e binte payambar hua kare
-  Humko ghame hussain ki daulat mila kare
-  
+  Uthta hai dard shor-e-buka se utha kare
+  Jalta hai gar adu-e-aza to jala kare
+  Taskin-e-qalb-e-Bint-e-Payambar hua kare
+  Hum ko gham-e-Husain ki daulat mila kare
+
   2
-  Wo gham ke jis se hogaye maghmoom khud rasool
-  Wo gham ke jis ne aale nabi ko kiya malool
-  Wo gham ke jis se baakhi hai deen ke sabhi usool
-  Wo gham ke jiska dark nahi ho saka usool
-  
+  Wo gham ke jis se ho gaye maghmum khud Rasul
+  Wo gham ke jis ne Aal-e-Nabi ko kiya malul
+  Wo gham ke jis se baaqi hai diṅ ke sabhi usul
+  Wo gham ke jis ka dark nahiṅ ho saka usul
+
   3
-  Wo gham jo har shareef ke dil ko rula gaya
-  Wo gham jise hararat e emaan kaha gaya
-  Wo gham jo deen e haq ka muqaddar bana gaya
-  Roze azal se kauno makan mein kiya gaya
-  
+  Wo gham jo har sharif ke dil ko rula gaya
+  Wo gham jise haraarat-e-imaaṅ kaha gaya
+  Wo gham jo din-e-haq ka muqaddar bana gaya
+  Roz-e-azal se kaun o makaaṅ mein kiya gaya
+
   4
-  Wo gham ke jisne murda zameerein jila diye
-  Wo gham ke jisne raaste haq ke dikha diye
-  Wo gham ke jisne dard ke dunya basa diye
-  Wo gham ke jisne kufr ke maqsad mita diye
-  
+  Wo gham ke jis ne murda zamireṅ jila diye
+  Wo gham ke jis ne raaste haq ke dikha diye
+  Wo gham ke jis ne dard ke dunya basa diye
+  Wo gham ke jis ne kufr ke maqsad mita diye
+
   5
-  Wo gham ke jisko zainab e dilgeer ne kiya
-  Be pardagi mein chaadare tatheer ne kiya
-  Dashte bala mein maadare shabbir ne kiya
-  Tauq e gulu ne paon ki zanjeer ne kiya
-  
+  Wo gham ke jis ko Zainab-e-dilgir ne kiya
+  Bepardagi mein chaadar-e-tathir ne kiya
+  Dasht-e-bala mein Maadar-e-Shabbir ne kiya
+  Tauq-e-gulu ne paaoṅ ki zanjir ne kiya
+
   6
-  Wo gham jise na bhoolenge sadaat e fatemi
-  Wo gham jo khoon rulaata hai maula ko aaj bhi
-  Wo gham ke jisne bali sakina ki jaan li
-  Wo gham ke jiska badla liya jaana hai abhi
-  
+  Wo gham jise na bhuleṅ ge Saadaat-e-Faatimi
+  Wo gham jo khuṅ rulaata hai Maula ko aaj bhi
+  Wo gham ke jis ne baali Sakina ki jaan li
+  Wo gham ke jis ka badla liya jaana hai abhi
+
   7
-  Lene ko badla zulm ka maula hai beqaraar
-  Be-kal hai inteqam e shahe deen ko zulfeqar
-  Apni zabane haal se kehti hai dilfigaar
-  Mujhko hai bas niyaam se aane ka intezar
-  
+  Lene ko badla zulm ka Maula hai beqaraar
+  Bekal hai inteqaam-e-Shah-e-diṅ ko Zulfiqaar
+  Apni zabaan-e-haal se kehti hai dilfigaar
+  Mujh ko hai bas niyaam se aane ka intezaar
+
   8
-  Kyun kar na inteqam ko machlegi zulfeqar
-  Wo bhi hai ahlebait e nabuwat ki soghwaar
-  Wo dekhti hai shaah e zamana hai ashk baar
-  Hoti hai wo bhi saath mein maula ke beqaraar
-  
+  Kiuṅ kar na inteqaam ko machle gi Zulfiqaar
+  Wo bhi hai Ahl-e-Bait-e-Nabuwwat ki sogwaar
+  Wo dekhti hai Shaah-e-zamaana hai ashkbaar
+  Hoti hai wo bhi saath mein Maula ke beqaraar
+
   9
-  Tabooti taakhaton se nahi ho sakega kam
-  Waada hai ye khuda e mohamed ka ahle gham
-  Toofan e haadsaat mein rukte nahi qadam
-  Dil ko sukooon hai saath hai abbas ka alam
-  
+  Taabuti taaqatoṅ se nahiṅ ho sakega kam
+  Waada hai ye Khuda-e-Muhammad ka ahl-e-gham
+  Tufaan-e-haadisaat mein rukte nahiṅ qadam
+  Dil ko sukuṅ hai saath hai Abbas ka alam
+
   10
-  Karta hai taaha majlise sarwar mein ye fughan
-  Arif hamari nazron mein wo taab hai kahan
-  Dekhe jo haale maadare shabbir khasta jaan
-  Allah dil shikasta shahe karbala ki maa
+  Karta hai Taaha majlis-e-Sarwar mein ye fughaaṅ
+  Aarif hamaari nazroṅ mein wo taab hai kahaaṅ
+  Dekhe jo haal-e-Maadar-e-Shabbir khasta jaaṅ
+  Allah dil shikasta Shah-e-Karbala ki maaṅ
 # source_id: nohayonline:b8542fc0deed72e11546
 # source_url: https://www.nohayonline.com/details_content.php?id=1333
 # raw_sha256: ffd6180dc1dc3a4442f6cadb00d1af04b834557d02370b1f504eb9af5ba1565e
 ---
-
-کہتا ہے تم سے ماہ محرم حسینیوں
-مظلوم کربلا کا ہے یہ غم حسینیوں
-یا مولا یاحسین
+کہتا ہے تم سے ماہِ محرم حسینیوں
+مظلومِ کربلا کا ہے یہ غم حسینیوں
+یا مولا یا حسین
 
 ۱
-اٹھتا ہے درد شور بکا سے اٹھا کرے
-جلتا ہے گر عدوے عزا تو جلا کرے
-تسکین قلب بنت پیمبر ہوا کرے
-ہم کو غم حسین کی دولت ملا کرے
+اٹھتا ہے درد شورِ بکا سے اٹھا کرے
+جلتا ہے گر عدوِ عزا تو جلا کرے
+تسکینِ قلبِ بنتِ پیمبر ہوا کرے
+ہم کو غمِ حسین کی دولت ملا کرے
 
 ۲
-وہ غم کہ جس سے ہو گےء مغموم خود رسول
-وہ غم کہ جس نے آل نبی کو کیا ملول
+وہ غم کہ جس سے ہو گئے مغموم خود رسول
+وہ غم کہ جس نے آلِ نبی کو کیا ملول
 وہ غم کہ جس سے باقی ہے دیں کے سبھی اصول
-وہ غم کے جس کا درک نہیں ہو سکا اصول
+وہ غم کہ جس کا درک نہیں ہو سکا اصول
 
 ۳
 وہ غم جو ہر شریف کے دل کو رلا گیا
-وہ غم جسے حرارت ایماں کہا گیا
-وہ غم جو دین حق کا مقدر بنا گیا
-روز اذل سے کون و مکاں میں کیا گیا
+وہ غم جسے حرارتِ ایماں کہا گیا
+وہ غم جو دینِ حق کا مقدر بنا گیا
+روزِ ازل سے کون و مکاں میں کیا گیا
 
 ۴
-وہ غم کے جس نے مردہ ضمیریں جلا دیےء
-وہ غم کہ جس نے راستے حق کے دکھا دیےء
-وہ غم کہ جس نے درد کے دنیا بسا دیےء
-وہ غم کے جس نے کفر کہ مقصد مٹا دیئے
+وہ غم کہ جس نے مردہ ضمیریں جلا دیئے
+وہ غم کہ جس نے راستے حق کے دکھا دیئے
+وہ غم کہ جس نے درد کے دنیا بسا دیئے
+وہ غم کہ جس نے کفر کے مقصد مٹا دیئے
 
 ۵
-وہ غم کے جس کو زینب دلگیر نے کیا
-بے پردگی میں چادریں تطہیر نے کیا
-دشت بلا میں مادر شبیر نے کیا
+وہ غم کہ جس کو زینبِ دلگیر نے کیا
+بے پردگی میں چادرِ تطہیر نے کیا
+دشتِ بلا میں مادرِ شبیر نے کیا
 طوقِ گلو نے پاؤں کی زنجیر نے کیا
 
 ۶
-وہ غم جسے نہ بھولیں گے سادات فاطمی
-وہ غم جو خوں رُلاتا ہے مولا کو آج بھی
+وہ غم جسے نہ بھولیں گے ساداتِ فاطمی
+وہ غم جو خوں رلاتا ہے مولا کو آج بھی
 وہ غم کہ جس نے بالی سکینہ کی جان لی
 وہ غم کہ جس کا بدلہ لیا جانا ہے ابھی
 
 ۷
 لینے کو بدلہ ظلم کا مولا ہے بے قرار
-بے کل ہے انتقام شہ دیں کو ذوالفقار
-اپنی زبان حال سے کہتی ہے دلفگار
-مجھکو ہے بس نیام سے آنے کا انتظار
+بے کل ہے انتقامِ شہِ دیں کو ذوالفقار
+اپنی زبانِ حال سے کہتی ہے دلفگار
+مجھ کو ہے بس نیام سے آنے کا انتظار
 
 ۸
 کیوں کر نہ انتقام کو مچلے گی ذوالفقار
-وہ بھی ہے اہلبیت نبوت کی سوگوار
-وہ دیکھتی ہے شاہ زمانہ ہے اشک بار
+وہ بھی ہے اہلِ بیتِ نبوت کی سوگوار
+وہ دیکھتی ہے شاہِ زمانہ ہے اشک بار
 ہوتی ہے وہ بھی ساتھ میں مولا کے بے قرار
 
 ۹
 تابوتی طاقتوں سے نہیں ہو سکے گا کم
-وعدہ ہے یہ خداے محمد کا أہل غم
-طوفان حادثات میں رکتے نہیں قدم
-دل کو سکوں ہے ساتھ ہے عباس کا الم
+وعدہ ہے یہ خدائے محمد کا اہلِ غم
+طوفانِ حادثات میں رکتے نہیں قدم
+دل کو سکوں ہے ساتھ ہے عباس کا علم
 
 ۱۰
-کرتا ہے طاہا مجلس سرور میں یہ فغاں
+کرتا ہے طاہا مجلسِ سرور میں یہ فغاں
 عارف ہماری نظروں میں وہ تاب ہے کہاں
-دیکھے جو حال مادر شبیر خستہ جاں
-اللّٰہ دل شکستہ شہ کربلا کی ماں
+دیکھے جو حالِ مادرِ شبیر خستہ جاں
+اللّٰہ دل شکستہ شہِ کربلا کی ماں

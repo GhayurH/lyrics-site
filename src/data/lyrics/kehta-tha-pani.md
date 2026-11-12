@@ -6,179 +6,152 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Anees Pehersari"
+reciter: "Tableegh e Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Laraib aag pani hai wo neimat e khuda
-  Mumkin nahi ke shukr koi kar sake ada
+  Laa raib aag paani hai wo neamat-e-Khuda
+  Mumkin nahiṅ ke shukr koi kar sake ada
+  Lekin ye baat kaise koi bhul jaayega
+  Karbobala mein donoṅ ka kirdaar kya raha
+  Donoṅ hi sharmsaar ke aalam mein rehte haiṅ
+  Ek dusre ke tanz hum waaqif sehte haiṅ
 
   1
-  Lekin ye baat kaise koi bhool jayega
-  Karbobala mein dono ka kirdaar kya raha
-  Dono hi sharm saar ke aalam mein rehte hai
-  Ek doosre ke tanz hum wakif sehte hai
+  Kehta tha paani aag se tu ne kiya sitam
+  Mumkin nahiṅ kisi se jafa ho teri raqam
+  Dar ko jalaaya tu ne diya Faatima ko gham
+  Iblisiyat se teri pareshaaṅ hue haram
+  Boli ye aag tu ne kiya khun usul ka
+  Tarsa hai qatre qatre ko kunba Rasul ka
 
   2
-  Kehta tha pani aag se tu ne kiya sitam
-  Mumkin nahi kisi se jafa ho teri raqam
-  Dar ko jalaya tu ne diya fatema ko gham
-  Ibleesiyat se teri pareshan huwe haram
+  Bola ye paani aati nahiṅ tujh ko kuchh haya
+  Jab tak Imam zinda rahe tu ne kuchh kiya
+  Wo qatl ho gaye to bari karne tu jafa
+  Bewaarisoṅ pe khol diya baab zulm ka
+  Khaimoṅ ko tu ne phunk diya ban jala diya
+  Ek chaar saala bachchi ka daaman jala diya
 
   3
-  Boli ye aag tu ne kiya khoon usool ka
-  Tarsa hai khatre khatre ko kunba rasool ka
-  Bola ye pani aati nahi tujhko kuch haya
+  Pardes mein Rasul ka tu ne jalaaya ghar
+  Ghar jal gaya to Aal kahaaṅ pe chhupaati sar
+  Majbur ho ke baithi rahi jalti ret par
+  Saidaaniyoṅ ne zer-e-falak raat ki basar
+  Uryaaṅ saroṅ pe aada ki parti na yuṅ nigaah
+  Diwaar parda rehti agar hoti khaimagaah
 
   4
-  Jab tak imam zinda rahe tu ne kuch kiya
-  Wo qatl hogaye to badi karne tu jafa
-  Bewarison pe khol diya baab zulm ka
-  Qaimon ko tu ne phoonk diya ban jala diya
+  Khafgi se aag kehne lagi ae jafa shiaar
+  Kis munh se kar raha hai khata meri aashkaar
+  Tu wo shaqi hai jis ke liye Shaah-e-naamdaar
+  Hujjat tamaam karte rahe ran mein baar baar
+  Tu maujeṅ maarta raha aada ko khush kiya
+  Ek bezabaaṅ pyaas ki shiddat se mar gaya
 
   5
-  Ek chaar saala bacchi ka daaman jala diya
-  Pardes mein rasool ka tu ne jalaya ghar
-  Ghar jal gaya to aal kahan pe chupati sar
+  Teri ata se saara jahaaṅ faizyaab tha
+  Fauj-e-Yazid par to karam behisaab tha
+  Tu mehr-e-Faatima mein khaana kharaab tha
+  Phir kiuṅ usi ki Aal par tera ataab tha
+  Kya munh dikhaayega sar-e-mahshar Batul ko
+  Dega jawaab hashr mein kaise Rasul ko
 
   6
-  Majboor ho ke baithi rahi jalti rayt par
-  Saydaniyon ne zer e falak raat ki basar
-  Uryan saron pe aada ki padti na yun nigaah
-  Dewaar parda rehti agar hoti qaimagah
+  Tu chaahta agar to kinaare to tor kar
+  Sailaab ki tarah se bikhar jaata khaak par
+  Kar deta gharq lashkar-e-jaur o jafa o shar
+  Sibt-e-Nabi ke qadmoṅ pe jaa kar jhukaata sar
+  Lekin tujhe aziz ye zeb-e-sipaah thi
+  Aal-e-Nabi pe band magar teri raah thi
 
   7
-  Khafgi se aag kehne lagi ay jafa shiyaar
-  Kis moo se kar raha hai khata meri aash kaar
-  Tu wo shaqi hai jis ke liye shaahe naam daar
+  Paani ye sun ke aag se yuṅ taanazan hua
+  Mujh ko to chaar samt se ghere the ashqiya
+  Tujh par koi na jabr tha phir bhi ae behaya
+  Tu ne Imam-e-waqt ka bistar jala diya
+  Hukm-e-bin-e-Ziyaad se angaareṅ bhar diye
+  Khaime Nabi ki Aal ke sab raakh kar diye
 
   8
-  Hujjat tamam karte rahe ran mein baar baar
-  Tu maujein maarta raha aada ko khush kiya
-  Ek bezaban pyaas ki shiddat se mar gaya
-
-  9
-  Teri ata se saara jahan faiziyab tha
-  Fauje yazeed par to karam be-hisab tha
-  Tu mehre fatema mein khana kharaab tha
-  Phir kyun usi ki aal par tera ataab tha
-
-  10
-  Kya moo dikhayega sar e mehshar batool ko
-  Dega jawab hashr mein kaise rasool ko
-  Tu chaahta agar to kinare to tod kar
-
-  11
-  Sailaab ki tarha se bikhar jaata khaak par
-  Kar deta ghark lashkar e jor o jafa o shar
-  Sibte nabi ke qadmon pe jaa kar jhukata sar
-  Lekin tujhe azeez ye zeb e sipaah thi
-
-  12
-  Aale nabi pe band magar teri raah thi
-  Pani ye sun ke aag se yun taana zan hua
-  Mujhko to chaar samt se ghere thay ashkiyan
-
-  13
-  Tujh par koi na jabr tha phir bhi ay behaya
-  Tu ne imam e waqt ka bistar jala diya
-  Hukme bine ziyad se angaarein bhar diye
-  Qaime nabi ki aal ke sab raakh kar diye
-
-  14
-  Ay noor e ain e fatema zehra o buturab
-  Tu ne kiya hai khoon se asghar ke jo khizaab
-  Haqqa ke imtehan mein tehra tu kamiyab
-
-  15
-  Bas ay hussain aaja mere paas ay shitaab
-  Doori anees ko nahi achi anees se
-  Aajao jald aa ke milo hum jalees se
+  Ae nur-e-ain-e-Faatima Zehra o Buturaab
+  Tu ne kiya hai khun se Asghar ke jo khizaab
+  Haqqa ke imtehaan mein thahra tu kaamyaab
+  Bas ae Husain aaja mere paas ae shitaab
+  Duri Anis ko nahiṅ achchhi Anis se
+  Aajaao jald aa ke milo hamjalis se
 # source_id: nohayonline:3023bd2184b09be4b9e7
 # source_url: https://www.nohayonline.com/details_content.php?id=3465
 # raw_sha256: 485e8666b33f97b8581ffed8b5ac8446d4ec02d228ae039001dec1449cc64a6a
 ---
-لا ریب آگ پانی ہے وہ نعمت خدا
-ممکن نہیں کہ شکر کوی کر سکے ادا
-
-۱
-لیکن یہ بات کیسے کوئی بھول جاے گا
+لا ریب آگ پانی ہے وہ نعمتِ خدا
+ممکن نہیں کہ شکر کوئی کر سکے ادا
+لیکن یہ بات کیسے کوئی بھول جائے گا
 کربوبلا میں دونوں کا کردار کیا رہا
 دونوں ہی شرمسار کے عالم میں رہتے ہیں
 ایک دوسرے کے طنز ہم واقف سہتے ہیں
 
-۲
+۱
 کہتا تھا پانی آگ سے تو نے کیا ستم
 ممکن نہیں کسی سے جفا ہو تیری رقم
 در کو جلایا تو نے دیا فاطمہ کو غم
 ابلیسیت سے تیری پریشاں ہوئے حرم
+بولی یہ آگ تو نے کیا خون اصول کا
+ترسا ہے قطرے قطرے کو کنبہ رسول کا
+
+۲
+بولا یہ پانی آتی نہیں تجھ کو کچھ حیا
+جب تک امام زندہ رہے تو نے کچھ کیا
+وہ قتل ہو گئے تو بڑی کرنے تو جفا
+بے وارثوں پہ کھول دیا باب ظلم کا
+خیموں کو تو نے پھونک دیا بن جلا دیا
+ایک چار سالہ بچی کا دامن جلا دیا
 
 ۳
-بولی یہ آگ تو نے کیا اصول کا
-ترسا ہے خطرے کو کنبہ رسول کا
-بولا یہ پانی آتی نہیں تجھکو کچھ حیا
-
-۴
-جب تک امام زندہ رہے تو نے کچھ کیا
-وہ قتل ہو گےء تو بڑی کرنے تو جفا
-بے وارثوں پہ کھول دیا باب ظلم کا
-خیموں کو تو پھونک دیا بن جلا دیا
-
-۵
-ایک چار سالہ بچی کا دامن جلا دیا
 پردیس میں رسول کا تو نے جلایا گھر
 گھر جل گیا تو آل کہاں پہ چھپاتی سر
-
-۶
 مجبور ہو کے بیٹھی رہی جلتی ریت پر
-سیدانیوں نے زیر فلک رات کی بسر
+سیدانیوں نے زیرِ فلک رات کی بسر
 عریاں سروں پہ اعدا کی پڑتی نہ یوں نگاہ
 دیوار پردہ رہتی اگر ہوتی خیمہ گاہ
 
-۷
+۴
 خفگی سے آگ کہنے لگی اے جفا شعار
-کس منہ سے کر رہا ہے خطا میری آشک کار
-تو وہ شقی ہے جس کے لئے شاہ نام دار
-
-۸
+کس منہ سے کر رہا ہے خطا میری آشکار
+تو وہ شقی ہے جس کے لئے شاہِ نام دار
 حجت تمام کرتے رہے رن میں بار بار
 تو موجیں مارتا رہا اعدا کو خوش کیا
 ایک بے زباں پیاس کی شدت سے مر گیا
 
-۹
+۵
 تیری عطا سے سارا جہاں فیضیاب تھا
-فوج یزید پر تو کرم بے حساب تھا
-تو مہرے فاطمہ میں خانہ قریب تھا
+فوجِ یزید پر تو کرم بے حساب تھا
+تو مہرِ فاطمہ میں خانہ خراب تھا
 پھر کیوں اسی کی آل پر تیرا عتاب تھا
-
-۱۰
-کیا منہ دکھاے گا سر محشر بتول کو
+کیا منہ دکھائے گا سرِ محشر بتول کو
 دے گا جواب حشر میں کیسے رسول کو
+
+۶
 تو چاہتا اگر تو کنارے تو توڑ کر
-
-۱۱
 سیلاب کی طرح سے بکھر جاتا خاک پر
-کر دیتا غرق لشکر جور و جفا و شر
-سبط نبی کے قدموں پہ جا کر جھکاتا سر
-لیکن تجھے عزیز یہ زیب سپاہ تھی
+کر دیتا غرق لشکرِ جور و جفا و شر
+سبطِ نبی کے قدموں پہ جا کر جھکاتا سر
+لیکن تجھے عزیز یہ زیبِ سپاہ تھی
+آلِ نبی پہ بند مگر تیری راہ تھی
 
-۱۲
-آل نبی پہ بند مگر تیری آہ تھی
+۷
 پانی یہ سن کے آگ سے یوں طعنہ زن ہوا
-مجھکو تو چار سمت سے گھیرے تھے اشقیاء
-
-۱۳
+مجھ کو تو چار سمت سے گھیرے تھے اشقیاء
 تجھ پر کوئی نہ جبر تھا پھر بھی اے بے حیا
-تو نے امام وقت کا بستر جلا دیا
-حکم بن زیاد سے انگاریں بھر دیےء
-خیمے نبی کی آل کے سب راخ کر دیےء
+تو نے امامِ وقت کا بستر جلا دیا
+حکمِ بنِ زیاد سے انگاریں بھر دیئے
+خیمے نبی کی آل کے سب راکھ کر دیئے
 
-۱۴
-اے نورِ عین فاطمہ زہرا و بوتراب
-تو نے کیا ہے خون سے اصغر کے جو خزاب
-حقا کا امتحان میں ٹہرا تو کامیاب
-
-۱۵
+۸
+اے نورِ عینِ فاطمہ زہرا و بوتراب
+تو نے کیا ہے خون سے اصغر کے جو خضاب
+حقا کہ امتحان میں ٹھہرا تو کامیاب
 بس اے حسین آجا میرے پاس اے شتاب
 دوری انیس کو نہیں اچھی انیس سے
-آجاؤ جلد آ کے ملو ہم‌ جلیس سے
+آجاؤ جلد آ کے ملو ہم جلیس سے
