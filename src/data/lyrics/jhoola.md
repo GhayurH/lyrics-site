@@ -6,44 +6,45 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Raza"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Maa ne rote huwe asghar ka jhulaya jhoola
-  Kabhi chooma kabhi seene se lagaya jhoola
+  Maaṅ ne rote hue Asghar ka jhulaaya jhula
+  Kabhi chuma kabhi sine se lagaaya jhula
 
   1
-  Dekh kar roti rahi asghar e baysheer ko maa
-  Shabe ashoor bahot dayr jhulaya jhoola
+  Dekh kar roti rahi Asghar-e-beshir ko maaṅ
+  Shab-e-aashur bahut der jhulaaya jhula
 
   2
-  Ro padi bano e muztar jo ye manzar dekha
-  Khaak pe haath se bacchi ne banaya jhoola
+  Ro pari Baano-e-muztar jo ye manzar dekha
+  Khaak pe haath se bachchi ne banaaya jhula
 
   3
-  Ali asghar ko sada de ke tadapti thi rubab
-  Raaste mein jo kabhi saamne aaya jhoola
+  Ali Asghar ko sada de ke tarapti thi Rubaab
+  Raaste meiṅ jo kabhi saamne aaya jhula
 
   4
-  Bhai ki yaad mein rote huwe behosh hui
-  Jab nazar fatema sughra ko na aaya jhoola
+  Bhaai ki yaad meiṅ rote hue behosh hui
+  Jab nazar Fatima Sughra ko na aaya jhula
 
   5
-  Raakh bhi aayi hai loote huwe asbaab ke saath
-  Kalma goyo ne hai kuch aise jalaya jhoola
+  Raakh bhi aayi hai lute hue asbaab ke saath
+  Kalma goyoṅ ne hai kuchh aise jalaaya jhula
 
   6
-  Aa gayi shaam se rote huwe asghar ki behan
-  Jab sar e farshe aza hum ne uthaya jhoola
+  Aa gayi Shaam se rote hue Asghar ki behan
+  Jab sar-e-farsh-e-aza ham ne uthaaya jhula
 
   7
-  Neem shab aati hai bibi koi girya karne
-  Jab se ghar mein ali asghar ka sajaya jhoola
+  Nim shab aati hai Bibi koi girya karne
+  Jab se ghar meiṅ Ali Asghar ka sajaaya jhula
 
   8
-  Phir kabhi rizq ki tangi nahi dekhi yasir
-  Roz e ashoor jo faaqe mein uthaya jhoola
+  Phir kabhi rizq ki tangi nahiṅ dekhi Yasir
+  Roz-e-aashur jo faaqe meiṅ uthaaya jhula
 # source_id: nohayonline:b5ed023b819e4a343d2d
 # source_url: https://www.nohayonline.com/details_content.php?id=3573
 # raw_sha256: 6e5d87c94d2ce6b665748a1fc3e2e6cca2ce2695da69f56fa5d27a34795d3b51
@@ -56,7 +57,7 @@ romanLyrics: |-
 شب عاشور بہت دیر جھلایا جھولا
 
 ۲
-رو پڑی بانوے مضطر جو یہ منظر دیکھا
+رو پڑی بانوئے مضطر جو یہ منظر دیکھا
 خاک پہ ہاتھ سے بچی نے بنایا جھولا
 
 ۳
@@ -64,19 +65,19 @@ romanLyrics: |-
 راستے میں جو کبھی سامنے آیا جھولا
 
 ۴
-بھای کی یاد میں روتے ہوئے بیہوش ہوی
+بھائی کی یاد میں روتے ہوئے بیہوش ہوئی
 جب نظر فاطمہ صغریٰ کو نہ آیا جھولا
 
 ۵
-راخ بھی آی ہے لوٹے ہوے اسباب کے ساتھ
+راکھ بھی آئی ہے لوٹے ہوئے اسباب کے ساتھ
 کلمہ گویوں نے ہے کچھ ایسے جلایا جھولا
 
 ۶
-آ گیء شام سے روتے ہوئے اصغر کی بہن
+آ گئی شام سے روتے ہوئے اصغر کی بہن
 جب سر فرش عزا ہم نے اٹھایا جھولا
 
 ۷
-نیم شب آتی ہے بی بی کوی گریہ کرنے
+نیم شب آتی ہے بی‌بی کوئی گریہ کرنے
 جب سے گھر میں علی اصغر کا سجایا جھولا
 
 ۸

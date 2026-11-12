@@ -6,36 +6,37 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ghayour"
+reciter: "Alamdar Razvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jhuka jaata hai ab jism e figaar aahista
-  Zameen par aa raha hai ek sawaar aahista aahista
+  Jhuka jaata hai ab jism-e-figaar aahista aahista
+  Zamiṅ par aa raha hai ik sawaar aahista aahista
 
   1
-  Khuda jaane usay kis ke nikal aane ka hai dhadka
-  Ke mud kar dekhte hai baar baar aahista aahista
+  Khuda jaane use kis ke nikal aane ka hai dharka
+  Ke mur kar dekhte haiṅ baar baar aahista aahista
 
   2
-  Sinaan o teer ne upar hi roka jism e zakhmi ko
-  Idhar se ab udhar hote hai paar aahista aahista
+  Sinaan o tir ne upar hi roka jism-e-zakhmi ko
+  Idhar se ab udhar hote haiṅ paar aahista aahista
 
   3
-  Tadapne ki bhi gunjaish na rakhi teer o paika ne
-  Bas apni jaan phadakta jism e zaar aahista aahista
+  Tarapne ki bhi gunjaaish na rakhi tir o paikaaṅ ne
+  Bas apni jaan pharakta jism-e-zaar aahista aahista
 
   4
-  Hai aisa zauf jaane natawan aayi hai honton par
-  Magar jaari hai shukre kirdegaar aahista aahista
+  Hai aisa zof jaan-e-naatavaaṅ aayi hai hontoṅ par
+  Magar jaari hai shukr-e-kirdigaar aahista aahista
 
   5
-  Jo sar patka to reti par nashan kuch ban gaye reh kar
-  Jo ragdi aediyan utha ghubaar aahista aahista
+  Jo sar patka to reti par nishaaṅ kuchh ban gaye reh kar
+  Jo ragri aeriyaaṅ utha ghubaar aahista aahista
 
   6
-  Ghayour aahista aahista to ye sab kuch hua ab tak
-  Magar chalti nahi khanjar ki dhaar aahista aahista
+  Ghayour aahista aahista to ye sab kuchh hua ab tak
+  Magar chalti nahiṅ khanjar ki dhaar aahista aahista
 # source_id: nohayonline:f28a40ff6bc18743ce0b
 # source_url: https://www.nohayonline.com/details_content.php?id=2031
 # raw_sha256: 6c97e34cd71e3b6f4d1c260dfb38397059b6f4293d82c4c7f7d0eea95ba2ba59
@@ -56,11 +57,11 @@ romanLyrics: |-
 بس اپنی جان پھڑکتا جسم زار آہستہ آہستہ
 
 ۴
-ہے ایسا ضعف جان ناتواں آی ہے ہونٹوں پر
+ہے ایسا ضعف جان ناتواں آئی ہے ہونٹوں پر
 مگر جاری ہے شکر کردگار آہستہ آہستہ
 
 ۵
-جو سر پٹکا تو ریتی پر نشاں کچھ بن گےء رہ کر
+جو سر پٹکا تو ریتی پر نشاں کچھ بن گئے رہ کر
 جو رگڑی ایڑیاں اٹھا غبار آہستہ آہستہ
 
 ۶
