@@ -1,79 +1,148 @@
 ---
-title: "Hayya Alal Ghadeer"
-language: "Roman Urdu"
+title: "حی علی الغدیر"
+alternateTitle: "Hayya Alal Ghadir"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu"]
-aliases: []
+poet: "Syed Abu Turab"
+reciter: "Joan Rizvi"
+tags: ["noImage"]
+aliases: ["Hayya Alal Ghadeer"]
 published: false
+romanLyrics: |-
+  Hayya Alal Ghadir
+
+  1
+  Takhliq-e-kaainaat ke pal se Ghadir tak
+  Aawaaz-e-kun fakaaṅ ke mahal se Ghadir tak
+  Kya kya na dekhe waqt ne jalse Ghadir tak
+  Aisa magar na dekha azal se Ghadir tak
+  Sehra-e-Khum mein arsh ke saare makiṅ haiṅ aaj
+  Lagta hai aasmaan ke upar zamin hai aaj
+
+  2
+  Tha qaafila safar mein dua-e-Khalil ka
+  Baaqi tha aham kaam abhi Jibrail ka
+  Kaamil na tha taaruf Ilaahi sabil ka
+  Paighaam na tamaam tha Rab-e-Jalil ka
+  Aakhir Nabi ko aayat-e-Masud mil gayi
+  Ahl-e-wila ko manzil-e-maqsud mil gayi
+
+  3
+  Bole Nabi ke ain-e-Faeelat ka waqt hai
+  Nafs-e-Khuda ke dar pe ibaadat ka waqt hai
+  Wajh-e-Khuda ke rukh ke ziyaarat ka waqt hai
+  Dast-e-Khuda ke haath pe baiat ka waqt hai
+  Jaldi karo ke aaj ye mohlat tamaam hai
+  Warna tumhaari kal se ibaadat haraam hai
+
+  4
+  Main Mustafa huṅ aur meri tasvir hai Ali
+  Main kitaab-e-haq meri tafsir hai Ali
+  Main paikar-e-dua meri taasir hai Ali
+  Main din ki sipar meri shamshir hai Ali
+  Saaya huṅ main Ali ka Ali mera saaya hai
+  Laa shai se laasharik ne ham ko banaaya hai
+
+  5
+  Har fel har amal mein mera raazdaan Ali
+  Har gaam har qadam pe mera paasbaan Ali
+  Meraaj ke safar mein mera saaibaan Ali
+  Main mehmaan tha Rab ka magar mezbaan Ali
+  Apni kabhi zabaan kabhi chehra bana liya
+  Rab ne bhi Murtaza ko wasila bana liya
+
+  6
+  Din-e-Khuda itaaat-e-Haider ka naam hai
+  Saum o salaat sirat-e-Haider ka naam hai
+  Imaan kya hai ulfat-e-Haider ka naam hai
+  Quraan kya hai midhat-e-Haider ka naam hai
+  Mera nahiṅ bayaan ye Rab-e-Jali ka hai
+  Malun hai wo shakhs jo munkir Ali ka hai
+
+  7
+  Sun lo ke kaainaat ka qibla hai Murtaza
+  Ye jaan lo ke Kaabe ka Kaaba hai Murtaza
+  Pehchaan lo ke haq ka ujaala hai Murtaza
+  Meri tarah har ek ka Maula hai Murtaza
+  Munkir Ali ke kalma-e-tauhid chhor de
+  Rehman se bhi reham ki ummid chhor de
+
+  8
+  Aaya nazar jo dushman-e-Kaaba Ghadir mein
+  Allah ne nibaah diya waada Ghadir mein
+  Patthar tha aur sar tha adu ka Ghadir mein
+  Goya utaara fil ka surah Ghadir mein
+  Ik Abar Haye waqt tha sangsaar kar diya
+  Munkir Ghadir-e-Khum ka tha Finnar kar diya
 # source_id: tajpoints:71e73a51cec3b4ef41a9
 # source_url: https://tajpoints.com/2018/08/hayya-alal-ghadeer.html
 # raw_sha256: 14b69eb2f51a074544cd2c64458b7ee439e49f41c2895ffa6c3fabb218fead71
 ---
 
-Hayya Alal Ghadeer
+حی علی الغدیر
 
-1
-Takhleeq-e-Kainat Ke Pal Se Ghadeer Tak
-Awaz-e-Kun Fakaan Ke Mehal Se Ghadeer Tak
-Kya Kya Na Dekhe Waqt Ne Jalse Ghadeer Tak
-Aisa Magar Na Dekha Azal Se Ghadeer Tak
-Sehra-e-Khum Mein Arsh Ke Sare Makeen Hai Aaj
-Lagta Hai Aasman Ke Uper Zameen Hai Aaj
+۱
+تخلیقِ کائنات کے پل سے غدیر تک
+آوازِ کن فکاں کے محل سے غدیر تک
+کیا کیا نہ دیکھے وقت نے جلسے غدیر تک
+ایسا مگر نہ دیکھا ازل سے غدیر تک
+صحرائے خم میں عرش کے سارے مکیں ہیں آج
+لگتا ہے آسمان کے اوپر زمین ہے آج
 
-2
-Tha Qafila Safar Mein Dua-e-Khalil Ka
-Baqi Tha Aham Kam Abhi Jibraeel Ka
-Kamil Na Tha Taruf Elahi Sabeel Ka
-Paigham Na Tamam Tha Rab-e-Jaleel Ka
-Aakhir Nabi Ko Aayat-e-Masood Mil Gayi
-Ahl-e-Wila Ko Manzil-e-Maqsood Mil Gayi
+۲
+تھا قافلہ سفر میں دعائے خلیل کا
+باقی تھا اہم کام ابھی جبرئیل کا
+کامل نہ تھا تعارف الٰہی سبیل کا
+پیغام نا تمام تھا ربِ جلیل کا
+آخر نبی کو آیتِ مسعود مل گئی
+اہلِ ولا کو منزلِ مقصود مل گئی
 
-3
-Bole Nabi Keh Ain-e-Faeelat Ka Waqt Hai
-Nafs-e-Khuda Ke Dar Pe Ibadat Ka Waqt Hai
-Wajh-e-Khuda Ke Rukh Ke Ziyarat Ka Waqt Hai
-Dast-e-Khuda Ke Hath Pe Bait Ka Waqt Hai
-Jaldi Karo Keh Aaj Yeh Mohlat Tamam Hai
-Warna Tumhari Kal Se Ibadat Haram Hai
+۳
+بولے نبی کہ عینِ Faeelat کا وقت ہے
+نفسِ خدا کے در پہ عبادت کا وقت ہے
+وجہِ خدا کے رخ کے زیارت کا وقت ہے
+دستِ خدا کے ہاتھ پہ بیعت کا وقت ہے
+جلدی کرو کہ آج یہ مہلت تمام ہے
+ورنہ تمہاری کل سے عبادت حرام ہے
 
-4
-Main Mustafa Hoon Our Meri Tasveer Hai Ali
-Main Kitab-e-Haq Meri Tafseer Hai Ali
-Main Paikar-e-Dua Meri Taseer Hai Ali
-Main Deen Ki Sipar Meri Shamsheer Hai Ali
-Saya Hoon Main Ali Ka Ali Mera Saya Hai
-La Sheh Se Lashareek Ne Hum Ko Banaya Hai
+۴
+میں مصطفیٰ ہوں اور میری تصویر ہے علی
+میں کتابِ حق میری تفسیر ہے علی
+میں پیکرِ دعا میری تاثیر ہے علی
+میں دین کی سپر میری شمشیر ہے علی
+سایہ ہوں میں علی کا علی میرا سایہ ہے
+لا شے سے لاشریک نے ہم کو بنایا ہے
 
-5
-Har Fail Har Amal Mein Mera Razdaan Ali
-Har Gaam Har Qadam Pe Mera Pasbaan Ali
-Mairaj Ke Safar Mein Mera Saibaan Ali
-Main Mehmaan Tha Rab Ka Magar Mezbaan Ali
-Apni Kabhi Zabaan Kabhi Chehra Bana Liya
-Rab Ne Bhi Murtaza Ko Waseela Bana Liya
+۵
+ہر فعل ہر عمل میں میرا رازدان علی
+ہر گام ہر قدم پہ میرا پاسبان علی
+معراج کے سفر میں میرا سائبان علی
+میں مہمان تھا رب کا مگر میزبان علی
+اپنی کبھی زبان کبھی چہرہ بنا لیا
+رب نے بھی مرتضیٰ کو وسیلہ بنا لیا
 
-6
-Deen-e-Khuda Itaat-e-Haider Ka Naam Hai
-Soom-o-Salaat Seerat-e-Haider Ka Naam Hai
-Eman Kya Hai Ulfat-e-Haider Ka Naam Hai
-Quran Kya Hai Midhat-e-Haider Ka Naam Hai
-Mera Nahi Biyan Yeh Rab-e-Jali Ka Hai
-Malon Hai Woh Shakhs Jo Munkir Ali Ka Hai
+۶
+دینِ خدا اطاعتِ حیدر کا نام ہے
+صوم و صلات سیرتِ حیدر کا نام ہے
+ایمان کیا ہے الفتِ حیدر کا نام ہے
+قرآن کیا ہے مدحتِ حیدر کا نام ہے
+میرا نہیں بیان یہ ربِ جلی کا ہے
+ملعون ہے وہ شخص جو منکر علی کا ہے
 
-7
-Sun Lo Keh Kainat Ka Qibla Hai Murtaza
-Yeh Jan Lo Keh Kabe Ka Kaba Hai Murtaza
-Pehchan Lo Keh Haq Ka Ujala Hai Murtaza
-Meri Tarha Har Aik Ka Mula Hai Murtaza
-Munkir Ali Ke Kalma-e-Tauheed Choor De
-Rehman Se Bhi Reham Ki Umeed Choor De
+۷
+سن لو کہ کائنات کا قبلہ ہے مرتضیٰ
+یہ جان لو کہ کعبے کا کعبہ ہے مرتضیٰ
+پہچان لو کہ حق کا اجالا ہے مرتضیٰ
+میری طرح ہر ایک کا مولا ہے مرتضیٰ
+منکر علی کے کلمۂ توحید چھوڑ دے
+رحمان سے بھی رحم کی امید چھوڑ دے
 
-8
-Aaya Nazar Jo Dushman-e-Kaba Ghadeer Mein
-ALLAH Ne Nibah Diya Wada Ghadeer Mein
-Pathar Tha Our Sar Tha Addo Ka Ghadeer Mein
-Goya Utara Feel Ka Sorah Ghadeer Mein
-Ik Abar Haye Waqt Tha Sangsar Kar Diya
-Munkir Ghadeer-e-Khum Ka Tha Finnar Kar Diya
+۸
+آیا نظر جو دشمنِ کعبہ غدیر میں
+اللہ نے نباہ دیا وعدہ غدیر میں
+پتھر تھا اور سر تھا عدو کا غدیر میں
+گویا اتارا فیل کا سورہ غدیر میں
+اک Abar Haye وقت تھا سنگسار کر دیا
+منکر غدیرِ خم کا تھا Finnar کر دیا

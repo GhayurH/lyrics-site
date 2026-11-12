@@ -1,64 +1,67 @@
 ---
-title: میری تو آس میرے سینے میں مرجاتی ہے
-alternateTitle: Haye Zindane Shaam
+title: میری تو آس میرے سینے میں مر جاتی ہے
+alternateTitle: Haaye Zindaan-e-Shaam
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
-aliases: []
+aliases: ["Haye Zindane Shaam"]
 published: false
 romanLyrics: |-
-  Meri to aas mere seene may marjati hai
-  Dekhain is qaid se kab milti hai rukhsat amma
-  Haey zindane Shaam
+  Meri to aas mere sine mein mar jaati hai
+  Dekheṅ is qaid se kab milti hai rukhsat Ammaaṅ
+  Haaye Zindaan-e-Shaam
 
   1
-  Bekasi kaisi hai ye kaisi hai ghurbat amma
-  Kiya banegi isi zindan may turbat amma
-  Kehna baba se khudahafizo nasir baba
-  Lo ke ab hoti hoo zindan se ruksat amma
+  Bekasi kaisi hai ye kaisi hai ghurbat Ammaaṅ
+  Kya banegi isi zindaan mein turbat Ammaaṅ
+  Kehna Baba se Khuda haafiz o naasir Baba
+  Lo ke ab hoti huṅ zindaan se rukhsat Ammaaṅ
 
   2
-  Ab to din may bhi ujaalo se mulaaqat nahi
-  Jo tadapkar na guzaari ho koi raat nahi
-  Kya karoo jeekar chacha mere mere paas nahi
-  Do dua khatm ho ab jald musibat amma
+  Ab to din mein bhi ujaaloṅ se mulaaqaat nahiṅ
+  Jo tarap kar na guzaari ho koi raat nahiṅ
+  Kya karuṅ ji ke chacha mere mere paas nahiṅ
+  Do dua khatm ho ab jald musibat Ammaaṅ
 
   3
-  Ab sare shaam parindo pe nazar jaati hai
-  Aisi maqlooq hai udte hue ghar jaati hai
+  Ab sar-e-shaam parindoṅ pe nazar jaati hai
+  Aisi makhluq hai urte hue ghar jaati hai
+  Meri to aas mere sine mein mar jaati hai
+  Dekheṅ is qaid se kab milti hai rukhsat Ammaaṅ
 
   4
-  Tum inhi kapdo ko ay amma bana dena kafan
-  Ho nahi sakte ye tabdeel ke zakhmi hai kafan
-  Baba aajaye to kehdena unhe mera sukhan
-  Apne baba ki na kar paayi mai kidmat amma
+  Tum inhi kaproṅ ko Ae Ammaaṅ bana dena kafan
+  Ho nahiṅ sakte ye tabdil ke zakhmi hai badan
+  Baba aa jaaye to keh dena unheṅ mera sukhan
+  Apne Baba ki na kar paayi main khidmat Ammaaṅ
 
   5
-  Mere baba ka wo seena meri amma laa do
-  Jo tha jeene ka kareena meri amma laa do
-  Jo tha aaramay sakeena meri amma laa do
-  Isse pehle se ho ab maut se khurbat amma
+  Mere Baba ka wo sina meri Ammaaṅ laa do
+  Jo tha jine ka qarina meri Ammaaṅ laa do
+  Jo tha aaraam-e-Sakina meri Ammaaṅ laa do
+  Is se pehle ke ho ab maut se qurbat Ammaaṅ
 
   6
-  Ho sake to ali asghar ka wo jhoola laa do
-  Amma bhaiya ka mere mujhko shalooka laa do
-  Wo jo taveez tha mannat ka khudaara laa do
-  Mujhko phir marne may hovegi na diqqat amma
+  Ho sake to Ali Asghar ka wo jhula laa do
+  Ammaaṅ bhaiya ka mere mujh ko shaluka laa do
+  Wo jo taawiz tha mannat ka Khudaara laa do
+  Mujh ko phir marne mein howegi na diqqat Ammaaṅ
 
   7
-  Thehar jao ke khudahafizo nasir amma
-  Sath deti nahi ab bali Sakina ki zubaan
-  Kehdo zaalim se ke ab qatm hui aaho fughaan
-  Aah karne ki bhi baakhi nahi taaqat amma
+  Thehar jaao ke Khuda haafiz o naasir Ammaaṅ
+  Saath deti nahiṅ ab baali Sakina ki zabaaṅ
+  Keh do zaalim se ke ab khatm hui aah o fughaaṅ
+  Aah karne ki bhi baaqi nahiṅ taaqat Ammaaṅ
 
   8
-  Labe sarwar ke jo rehaan ka nowha aaya
-  Shaam ke zindan se aane lagi awaaze buka
-  Jaise bachi ka koi zakhm hua phir taaza
-  Boli kyon ahle aza karte hai riqqat amma
+  Lab-e-Sarwar pe jo Rehan ka nauha aaya
+  Shaam ke zindaaṅ se aane lagi aawaaz-e-buka
+  Jaise bachchi ka koi zakhm hua phir taaza
+  Boli kiuṅ ahl-e-aza karte haiṅ riqqat Ammaaṅ
 # source_id: nohayonline:a47a1f7d7127be1cc550
 # source_url: https://www.nohayonline.com/details_content.php?id=375
 # raw_sha256: ed92d57fa922ad220ed11be81b62b45306c70bdfc24aea3f2c26f8fcf01bae1b
@@ -75,7 +78,7 @@ romanLyrics: |-
 بے کسی کیسی ہے یہ کیسی ہے غربت امّاں
 کیا بنے گی اسی زندان میں تُربت امّاں
 کہنا بابا سے خدا حافظ و ناصر بابا
-لو کہ اب ہو تی ہوں زندان سے رُخصت امّاں
+لو کہ اب ہوتی ہوں زندان سے رُخصت امّاں
 
 ۲
 اب تو دن میں بھی اُجالوں سے ملاقات نہیں
@@ -86,6 +89,8 @@ romanLyrics: |-
 ۳
 اب سرِ شام پرندوں پہ نظر جاتی ہے
 ایسی مخلوق ہے اُڑتے ہوئے گھر جاتی ہے
+میری تو آس میرے سینے میں مر جاتی ہے
+دیکھیں اِس قید سے کب ملتی ہے رُخصت امّاں
 
 ۴
 تم انہی کپڑوں کو اے امّاں بنا دینا کفن
@@ -102,11 +107,11 @@ romanLyrics: |-
 ۶
 ہو سکے تو علی اصغر کا وہ جھولا لا دو
 امّاں بھیا کا میرے مجھ کو شلوکا لا دو
-وہ جو تعویز تھا منّت کا خدارا لا دو
+وہ جو تعویذ تھا منّت کا خدارا لا دو
 مجھ کو پھر مرنے میں ہووے گی نہ دِقّت امّاں
 
 ۷
-ٹھہر جائو کہ خدا حافظ و ناصر امّاں
+ٹھہر جاؤ کہ خدا حافظ و ناصر امّاں
 ساتھ دیتی نہیں اب بالی سکینہ کی زباں
 کہہ دو ظالم سے کہ اب ختم ہوئی آہ و فغاں
 آہ کرنے کی بھی باقی نہیں طاقت امّاں
