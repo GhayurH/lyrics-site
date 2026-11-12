@@ -1,52 +1,53 @@
 ---
 title: "جب سے عباسِ دلاور نے اُٹھایا ہے علم"
-alternateTitle: "Jabse Abbase Dilawar"
+alternateTitle: "Jab Se Abbas-e-Dilawar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
+reciter: "Tableegh-e-Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jabse abbas e dilawar ne uthaya hai alam
-  Aasman kya arshe aala se bhi baala hai alam
+  Jab se Abbas-e-dilawar ne uthaya hai alam
+  Aasmaan kya arsh-e-aala se bhi baala hai alam
 
   1
-  Chand suraj khud bichate hai wahan par roshni
-  Jis jagah badne raha par aane wala hai alam
+  Chaand suraj khud bichhate haiṅ wahaaṅ par roshni
+  Jis jagah badhne raha par aane wala hai alam
 
   2
-  Kitne maare hai tamache zulm ke rukhsar par
+  Kitne maare haiṅ tamaache zulm ke rukhsaar par
   Saaf wo panja zamane ko dikhata hai alam
 
   3
-  Hai rasaai arshe aazam tak faqad us haath ki
-  Matame shabbir mein jo haath hota hai alam
+  Hai rasaai arsh-e-aazam tak faqad us haath ki
+  Maatam-e-Shabbir mein jo haath hota hai alam
 
   4
-  De rahi hai ye hawaein aandhiyan bankar sada
-  Saare jhande sar jhuka de aane waala hai alam
+  De rahi haiṅ ye hawaeiṅ aandhiyaaṅ ban kar sada
+  Saare jhande sar jhuka deṅ aane wala hai alam
 
   5
-  Shaahe deen se berukhi ke jurm mein de kar sada
-  Qaid karke mashq mein darya ko laaya hai alam
+  Shah-e-diṅ se berukhi ke jurm mein de kar sada
+  Qaid kar ke mashk mein darya ko laaya hai alam
 
   6
-  Aagayi qaime ke dar par haath mein kooza liye
-  Jab sakina ne suna darya se aata hai alam
+  Aa gai khaime ke dar par haath mein kuza liye
+  Jab Sakina ne suna darya se aata hai alam
 
   7
-  Ro rahi hai khaak par baithi hui saydaniya
-  Haye ye kaisi khabar maqtal se laaya hai alam
+  Ro rahi haiṅ khaak par baithi hui sayyidaniyaaṅ
+  Haaye ye kaisi khabar maqtal se laaya hai alam
 
   8
-  Apne seene se lagaye mashk ek mazloom ki
-  Tashnagi ki daastan dohraye jaata hai alam
+  Apne sine se lagaaye mashk ek mazlum ki
+  Tashnagi ki daastaaṅ dohraaye jaata hai alam
 
   9
-  Dunya abbas gohar jiske sar ka taaj hai
+  Dunya Abbas Gohar jis ke sar ka taaj hai
   Saad war aisa zamane mein hamara hai alam
 # source_id: nohayonline:d8f148f25fd2726ad843
 # source_url: https://www.nohayonline.com/details_content.php?id=821
@@ -61,7 +62,7 @@ romanLyrics: |-
 
 ۲
 کتنے مارے ہیں تماچے ظلم کے رُخسار پر
-صاف وہ پنجا زمانے کو دکھاتا ہے علم
+صاف وہ پنجہ زمانے کو دکھاتا ہے علم
 
 ۳
 ہے رسائی عرشِ اعظم تک فقد اُس ہاتھ کی
@@ -69,14 +70,14 @@ romanLyrics: |-
 
 ۴
 دے رہی ہیں یہ ہوائیں آندھیاں بن کر صدا
-سارے جھنڈے سر جُھکا دیں آنے والا ہ ہے علم
+سارے جھنڈے سر جُھکا دیں آنے والا ہے علم
 
 ۵
 شاہِ دیں سے بے رُخی کے جرم میں دے کر صدا
-قید کر کے مشق میں دریا کو لایا ہے علم
+قید کر کے مشک میں دریا کو لایا ہے علم
 
 ۶
-آ گئی خیمے کے در پر ہاتھ میں کُوزہ لیئے
+آ گئی خیمے کے در پر ہاتھ میں کُوزہ لیے
 جب سکینہ نے سُنا دریا سے آتا ہے علم
 
 ۷
@@ -84,7 +85,7 @@ romanLyrics: |-
 ہائے یہ کیسی خبر مقتل سے لایا ہے علم
 
 ۸
-اپنے سینے سے لگائے مشق اک مظلوم کی
+اپنے سینے سے لگائے مشک اک مظلوم کی
 تشنگی کی داستاں دوہرائے جاتا ہے علم
 
 ۹
