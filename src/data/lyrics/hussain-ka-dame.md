@@ -1,60 +1,61 @@
 ---
-title: "ہاے حسین ہاے غریب"
-alternateTitle: "Hussain Ka Dame"
+title: "ہائے حسین ہائے غریب"
+alternateTitle: "Husain Ka Dam-e-Rukhsat"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Aqeel"
+reciter: "Hasan Abbas"
 tags: ["noImage"]
-aliases: []
+aliases: ["Hussain Ka Dame"]
 published: false
 romanLyrics: |-
-  Haye hussain haye ghareeb
-  Hussain ka dam e ruqsat ye tha sukhan zainab
-  Chala mai ran ko khuda hafiz ay behan zainab
+  Haaye Husain haaye gharib
+  Husain ka dam-e-rukhsat ye tha sukhan Zainab
+  Chala main ran ko Khuda haafiz ae behan Zainab
 
   1
-  Hai ab tumhare hawale tamaam ahle haram
-  Ye honge baad mere qaidi e mehan zainab
+  Hai ab tumhaare hawaale tamaam ahl-e-haram
+  Ye hoṅge baad mere qaidi-e-mihan Zainab
 
   2
-  Chalega ab meri gardan pa shimr ka khanjar
-  Rahegi laash meri ran mein bekafan zainab
+  Chalega ab meri gardan pe Shimr ka khanjar
+  Rahegi laash meri ran mein bekafan Zainab
 
   3
-  Bahot rulayenge zaalim meri sakina ko
-  Galay mein uske bandhi jayegi rasan zainab
+  Bahut rulaayeṅge zaalim meri Sakina ko
+  Gale mein us ke baandhi jaayegi rasan Zainab
 
   4
-  Tadap tadap ke guzar jayegi wo zindan mein
-  Kafan banega sakina ka pairahan zainab
+  Tarap tarap ke guzar jaayegi wo zindaaṅ mein
+  Kafan banega Sakina ka pairahan Zainab
 
   5
-  Lehad mein bhi na sukoon payega mera asghar
-  Rahega naize pe sar khaak par badan zainab
+  Lahad mein bhi na sukun paayega mera Asghar
+  Rahega naize pe sar khaak par badan Zainab
 
   6
-  Aqeel qaimon mein ek hashr tha bapa us dam
-  Kaha jo sheh ne khuda hafiz ay behan zainab
+  Aqil khaimoṅ mein ek hashr tha bapa us dam
+  Kaha jo Shah ne Khuda haafiz ae behan Zainab
 # source_id: nohayonline:5f518e50959e9db3e32d
 # source_url: https://www.nohayonline.com/details_content.php?id=3336
 # raw_sha256: 5c4f17842f61ed2ef313deeb689b8cf673f10962db361fdefbf845e4a5f6541d
 ---
-ہاے حسین ہاے غریب
+ہائے حسین ہائے غریب
 حسین کا دم رخصت یہ تھا سخن زینب
 چلا میں رن کو خدا حافظ اے بہن زینب
 
 ۱
 ہے اب تمہارے حوالے تمام اہلِ حرم
-یہ ہونگے بعد میرے قیدیء محن زینب
+یہ ہوں گے بعد میرے قیدیِ محن زینب
 
 ۲
 چلے گا اب میری گردن پہ شمر کا خنجر
 رہے گی لاش میری رن میں بیکفن زینب
 
 ۳
-بہت رلایینگے میری سکینہ کو
+بہت رلائیں گے ظالم میری سکینہ کو
 گلے میں اس کے باندھی جائے گی رسن زینب
 
 ۴
@@ -62,7 +63,7 @@ romanLyrics: |-
 کفن بنے گا سکینہ کا پیرہن زینب
 
 ۵
-لحد میں بھی نہ سکون پاے گا میرا اصغر
+لحد میں بھی نہ سکون پائے گا میرا اصغر
 رہے گا نیزے پہ سر خاک پر بدن زینب
 
 ۶

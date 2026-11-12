@@ -1,100 +1,101 @@
 ---
 title: "لبیک یا حسین"
-alternateTitle: "Hussain Ka Gham"
+alternateTitle: "Husain Ka Gham"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Hasnain"
+reciter: "Shadman Raza"
 tags: ["noImage"]
-aliases: []
+aliases: ["Hussain Ka Gham"]
 published: false
 romanLyrics: |-
-  Labbaik ya hussain
-  Hussain ka gham manane waalon
-  Hussain tum ko bula rahe hai
-  Suno suno ay zamane waalon
-  Hussain tum ko bula rahe hai
+  Labbaik ya Husain
+  Husain ka gham manaane waaloṅ
+  Husain tum ko bula rahe haiṅ
+  Suno suno ae zamaane waaloṅ
+  Husain tum ko bula rahe haiṅ
 
   1
-  Yehi to hai intezar e mehdi
-  Sada e halmin ka hai ye matlab
-  Wafa e abbas mein bano tum
-  Mahafizaan e mazaar e zainab
-  Wafa ka parcham uthane waalon
-  Hussain tum ko bula rahe hai
+  Yehi to hai intezaar-e-Mehdi
+  Sadaa-e-hal min ka hai ye matlab
+  Wafaa-e-Abbas mein bano tum
+  Muhaafizaan-e-mazaar-e-Zainab
+  Wafa ka parcham uthaane waaloṅ
+  Husain tum ko bula rahe haiṅ
 
   2
-  Azeem hurr tha ke jisne aakhir
-  Hussain par jaan apni di hai
-  Kabhi ye socha hai zaakiron ne
+  Azim Hur tha ke jis ne aakhir
+  Husain par jaan apni di hai
+  Kabhi ye socha hai zaakiroṅ ne
   Kabhi ye awaaz bhi suni hai
-  Ke zikr hurr ka sunane waalon
-  Hussain tum ko bula rahe hai
+  Ke zikr-e-Hur ka sunaane waaloṅ
+  Husain tum ko bula rahe haiṅ
 
   3
-  Jo khyber e waqt mein ladoge
-  To karbala se na hogi doori
-  Jahan bhi mazloom pis rahe hai
-  Wahan pe imdaad hai zaroori
-  Ali ke naare lagaane waalon
-  Hussain tum ko bula rahe hai
+  Jo Khaibar-e-waqt mein laroge
+  To Karbala se na hogi duri
+  Jahaaṅ bhi mazlum pis rahe haiṅ
+  Wahaaṅ pe imdaad hai zaruri
+  Ali ke naare lagaane waaloṅ
+  Husain tum ko bula rahe haiṅ
 
   4
-  Yehi to maqsood e karbala hai
-  Ke imtehan e wafa yehi hai
-  Hai mil chuke tum ko sab wasayil
+  Yehi to maqsud-e-Karbala hai
+  Ke imtehaan-e-wafa yehi hai
+  Hai mil chuke tum ko sab wasaael
   Magar iraade mein kuch kami hai
-  Ziyaraton pe na jaane waalon
-  Hussain tum ko bula rahe hai
+  Ziyaaratoṅ pe na jaane waaloṅ
+  Husain tum ko bula rahe haiṅ
 
   5
-  Jo ibne zehra pe jaan denge
-  Unhi ke honge bade muqaddar
-  Zohair qain aayenge yaqeenan
-  Kaha hai zauja ne aage bad kar
-  Chalo chalo ay zamane waalon
-  Hussain tum ko bula rahe hai
+  Jo Ibn-e-Zehra pe jaan deṅge
+  Unhiṅ ke hoṅge bare muqaddar
+  Zuhair Qain aayeṅge yaqinan
+  Kaha hai zauja ne aage barh kar
+  Chalo chalo ae zamaane waaloṅ
+  Husain tum ko bula rahe haiṅ
 
   6
-  Jo al ajal ki sada lagaye
-  Wo apna kirdaar bhi dikhaye
-  Imam e mehdi ke hai jo nasir
-  Habeeb ibn e mazahir aaye
-  Ke dosti ko nibhane waalon
-  Hussain tum ko bula rahe hai
+  Jo al ajal ki sada lagaaye
+  Wo apna kirdaar bhi dikhaaye
+  Imam-e-Mehdi ke haiṅ jo naasir
+  Habib Ibn-e-Mazaahir aaye
+  Ke dosti ko nibhaane waaloṅ
+  Husain tum ko bula rahe haiṅ
 
   7
-  Yehi to paigham e karbala hai
-  Hai nusraton ka sawaal laazim
-  Ke nasiron ke liye raha hai
-  Hamesha rizq e halaal laazim
-  Halaal rozi kamane waalon
-  Hussain tum ko bula rahe hai
+  Yehi to paighaam-e-Karbala hai
+  Hai nusratoṅ ka sawaal laazim
+  Ke naasiroṅ ke liye raha hai
+  Hamesha rizq-e-halaal laazim
+  Halaal rozi kamaane waaloṅ
+  Husain tum ko bula rahe haiṅ
 
   8
-  Namaz ko chod dene waalon
+  Namaaz ko chhor dene waaloṅ
   Imam ka saamna karoge
   Amal ke baare mein kya kahoge
-  Hussain ko kya jawab doge
-  Ghina ki mehfil sajane waalon
-  Hussain tum ko bula rahe hai
+  Husain ko kya jawaab doge
+  Ghina ki mehfil sajaane waaloṅ
+  Husain tum ko bula rahe haiṅ
 
   9
-  Ghira hua hai jo lashkaron mein
-  Imam e dauran bula raha hai
-  Suna hai jab se ye isteghasa
-  Sagheer jhoole se gir gaya hai
-  Ke teer par muskurane waalon
-  Hussain tum ko bula rahe hai
+  Ghira hua hai jo lashkaroṅ mein
+  Imam-e-dauraaṅ bula raha hai
+  Suna hai jab se ye istighaasa
+  Saghir jhule se gir gaya hai
+  Ke tir par muskuraane waaloṅ
+  Husain tum ko bula rahe haiṅ
 
   10
-  Ma'ashre mein madad karo tum
-  Yateem mazloom mar raha hai
-  Qamar baseerat ki aankh kholo
-  Yahin kahin par hi karbala hai
-  Juloos o majlis mein jaane waalon
-  Hussain tum ko bula rahe hai
+  Muaashre mein madad karo tum
+  Yatim mazlum mar raha hai
+  Qamar basirat ki aaṅkh kholo
+  Yahiṅ kahiṅ par hi Karbala hai
+  Julus o majlis mein jaane waaloṅ
+  Husain tum ko bula rahe haiṅ
 # source_id: nohayonline:fd8f0736409d4d0f0104
 # source_url: https://www.nohayonline.com/details_content.php?id=3071
 # raw_sha256: d354bf1353f0749d008b22a132d852ac601c887dcc61bf80a197bc318f4bb6b1
@@ -108,8 +109,8 @@ romanLyrics: |-
 
 ۱
 یہی تو ہے انتظار مہدی
-صدائے ھل من کا ہے یہ مطلب
-وفاے عباس میں بنو تم
+صدائے ہل من کا ہے یہ مطلب
+وفائے عباس میں بنو تم
 محافظان مزار زینب
 وفا کا پرچم اٹھانے والوں
 حسین تم کو بلا رہے ہیں
@@ -140,17 +141,17 @@ romanLyrics: |-
 
 ۵
 جو ابن زہرا پہ جان دیں گے
-انہیں کے ہونگے بڑے مقدر
-زہیر قین آیینگے یقیناً
+انہیں کے ہوں گے بڑے مقدر
+زہیر قین آئیں گے یقیناً
 کہا ہے زوجہ نے آگے بڑھ کر
 چلو چلو اے زمانے والوں
 حسین تم کو بلا رہے ہیں
 
 ۶
-جو العجل کی صدا لگاے
-وہ اپنا کردار بھی دکھاے
+جو العجل کی صدا لگائے
+وہ اپنا کردار بھی دکھائے
 امام مہدی کے ہیں جو ناصر
-حبیب ابن مظاہر آے
+حبیب ابن مظاہر آئے
 کہ دوستی کو نبھانے والوں
 حسین تم کو بلا رہے ہیں
 
@@ -181,7 +182,7 @@ romanLyrics: |-
 ۱۰
 معاشرے میں مدد کرو تم
 یتیم مظلوم مر رہا ہے
-یتیم مظلوم مر رہا ہے
-قمر کہیں پر ہی کربلا ہے
+قمر بصیرت کی آنکھ کھولو
+یہیں کہیں پر ہی کربلا ہے
 جلوس و مجلس میں جانے والوں
 حسین تم کو بلا رہے ہیں
