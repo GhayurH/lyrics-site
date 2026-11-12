@@ -1,49 +1,50 @@
 ---
 title: "کرب و بلا میں شام ہوئی"
-alternateTitle: "Karbobala May Shaam"
+alternateTitle: "Karb o Bala Mein Shaam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
-aliases: []
+aliases: ["Karbobala May Shaam"]
 published: false
 romanLyrics: |-
-  Karbobala may shaam hui
-  
+  Karb o Bala mein shaam hui
+
   1
-  Suraj nikla tha yasrab may
-  Doobte suraj ki ye ziya hai
-  Jo dunya may aam hui
-  
+  Suraj nikla tha Yasrab mein
+  Dubte suraj ki ye ziya hai
+  Jo dunya mein aam hui
+
   2
   Haq kya hai baatil kya hai
-  Ye karbobala batlayegi
+  Ye Karb o Bala batlaaye gi
   Kis ka naam hai ab tak
   Aur kis ki hasti gumnaam hui
-  
+
   3
-  Zainab se poocho kyun kar
-  Din guzra tha ashoore ka
-  Subha hui to kya manzar tha
-  Kis aalam may shaam hui
-  
+  Zainab se puchho kiun kar
+  Din guzra tha Aashure ka
+  Subh hui to kya manzar tha
+  Kis aalam mein shaam hui
+
   4
-  Akbar ka sehra dekhein
-  Asghar ki jawani bhi dekhein
-  Har wo maa har ek tamanna
-  Bano ki nakaam hui
-  
+  Akbar ka sehra dekheṅ
+  Asghar ki jawaani bhi dekheṅ
+  Har wo maaṅ har ek tamanna
+  Bano ki naakaam hui
+
   5
-  Sar de kar raahe haq may
-  Naize pe tilawat farmayi
-  Baade qatle sibte payambar
-  Meraaj e islam hui
-  
+  Sar de kar raah-e-haq mein
+  Naize pe tilaawat farmaai
+  Baad-e-qatl-e-sibt-e-Payambar
+  Meraaj-e-Islam hui
+
   6
-  Abid ne raahe kufa may
-  Wo azm o himmat dikhlayi
-  Paon se zanjeer lipat kar
+  Aabid ne raah-e-Kufa mein
+  Wo azm o himmat dikhlaai
+  Paaoṅ se zanjir lipat kar
   Dard se har har gaam hui
 # source_id: nohayonline:703ab88457cc52c3a07e
 # source_url: https://www.nohayonline.com/details_content.php?id=539
@@ -53,7 +54,7 @@ romanLyrics: |-
 
 ۱
 سورج نکلا تھا یثرب میں
-ڈوبتے سورج کی یہ ضیائ ہے
+ڈوبتے سورج کی یہ ضیا ہے
 جو دُنیا میں عام ہوئی
 
 ۲
@@ -64,7 +65,7 @@ romanLyrics: |-
 
 ۳
 زینب سے پوچھو کیونکر
-دن گُزرا تھا عاشور ِہ کا
+دن گُزرا تھا عاشورے کا
 صبح ہوئی تو کیا منظر تھا
 کس عالم میں شام ہوئی
 
@@ -77,11 +78,11 @@ romanLyrics: |-
 ۵
 سر دے کر راہِ حق میں
 نیزے پہ تلاوت فرمائی
-بعدِ قتلِ سبطِ پیعمبر
+بعدِ قتلِ سبطِ پیمبر
 معراجِ اسلام ہوئی
 
 ۶
 عابد نے راہِ کُوفہ میں
-وہ عظم و ہمت دکھلائی
-پائوں سے زنجیر لپٹ کر
+وہ عزم و ہمت دکھلائی
+پاؤں سے زنجیر لپٹ کر
 درد سے ہر ہر گام ہوئی
