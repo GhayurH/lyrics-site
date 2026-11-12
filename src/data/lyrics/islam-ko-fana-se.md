@@ -6,52 +6,53 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Viqar Nagri"
+reciter: "Viqar Nagri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Islam ko fana se bachaya hussain ne
-  Qasre yazeediyat ko giraya hussain ne
+  Islam ko fana se bachaaya Husain ne
+  Qasr-e-Yazidiyat ko giraaya Husain ne
 
   1
-  Allah re hifazat e millat ka ehtemam
-  Toofan mein charagh ko jalaya hussain ne
+  Allah re hifaazat-e-millat ka ehtimaam
+  Tufaan mein charaagh ko jalaaya Husain ne
 
   2
-  Khushboo usi ki phaili hai saare jahan mein
-  Jo phool karbala mein khilaya hussain ne
+  Khushbu usi ki phaili hai saare jahaaṅ mein
+  Jo phul Karbala mein khilaaya Husain ne
 
   3
-  Paigham jo nabi ne sunaya tamaam umr
-  Sab kuch wo ek din mein sunaya hussain ne
+  Paighaam jo Nabi ne sunaaya tamaam umr
+  Sab kuchh wo ek din mein sunaaya Husain ne
 
   4
-  Jo kaam ambiya e salaf se na ho saka
-  Kis shaan se wo kar ke dihkaya hussain ne
+  Jo kaam ambiya-e-salaf se na ho saka
+  Kis shaan se wo kar ke dikhaaya Husain ne
 
   5
-  Khyber ka dar uthana to kuch aur baat thi
-  Laasha pisar jawan ka uthaya hussain ne
+  Khaibar ka dar uthaana to kuchh aur baat thi
+  Laasha pisar jawaan ka uthaaya Husain ne
 
   6
-  Katwa diya sar apna bade shaukh se magar
-  Baatil ke aage sar na jhukaya hussain ne
+  Katwa diya sar apna bare shauq se magar
+  Baatil ke aage sar na jhukaaya Husain ne
 
   7
-  Ek ek se poochte thay mera chand hai kidhar
-  Jab ran mein naujawan ko na paaya hussain ne
+  Ek ek se puchhte the mera chaand hai kidhar
+  Jab ran mein naujawaaṅ ko na paaya Husain ne
 
   8
-  Chehre pe mal ke asghar e masoom ka lahoo
-  Kya hai maqaam e sabr dikhaya hussain ne
+  Chehre pe mal ke Asghar-e-maasum ka lahu
+  Kya hai maqaam-e-sabr dikhaaya Husain ne
 
   9
-  Haathon se apne qabr bana kar sagheer ki
-  Pani ke badle ashk bahaya hussain ne
+  Haathoṅ se apne qabr bana kar saghir ki
+  Paani ke badle ashk bahaaya Husain ne
 
   10
-  Shayar bana ke aale rasool e anaam ka
-  Rutba tera viqar badhaya hussain ne
+  Shaair bana ke Aal-e-Rasul-e-anaam ka
+  Rutba tera Viqar barhaaya Husain ne
 # source_id: nohayonline:aa4eae85d25fa3ea2904
 # source_url: https://www.nohayonline.com/details_content.php?id=2980
 # raw_sha256: df1feecfa834ed5d1825152ca4209f8407fc3e7b0fa31d4934bf6c9374a77453
@@ -61,10 +62,10 @@ romanLyrics: |-
 
 ۱
 اللہ رے حفاظت ملت کا اہتمام
-طوفان میں چراغ کو جلایا حسین ‌نے
+طوفان میں چراغ کو جلایا حسین نے
 
 ۲
-خوشبو اسی کی پہلی ہے سارے جہاں میں
+خوشبو اسی کی پھیلی ہے سارے جہاں میں
 جو پھول کربلا میں کھلایا حسین نے
 
 ۳
@@ -72,7 +73,7 @@ romanLyrics: |-
 سب کچھ وہ ایک دن میں سنایا حسین نے
 
 ۴
-جو کام انبیاے سلف سے نہ ہو سکا
+جو کام انبیائے سلف سے نہ ہو سکا
 کس شان سے وہ کر کے دکھایا حسین نے
 
 ۵
@@ -81,7 +82,7 @@ romanLyrics: |-
 
 ۶
 کٹوا دیا سر اپنا بڑے شوق سے مگر
-باطل کے آ گے سر نہ جھکایا حسین نے
+باطل کے آگے سر نہ جھکایا حسین نے
 
 ۷
 ایک ایک سے پوچھتے تھے میرا چاند ہے کدھر
