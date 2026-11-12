@@ -6,40 +6,41 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
+reciter: "Tableegh e Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jo shaamil e bazme ghame shabbir nahi hai
-  Haasil usay emaan ki jageer nahi hai
+  Jo shaamil bazm-e-gham-e-Shabbir nahiṅ hai
+  Haasil use imaan ki jaagir nahiṅ hai
 
   1
-  Qurbani e shabbir hata do to ye islam
-  Wo khwab hai jis khwab ki tabeer nahi hai
+  Qurbaani-e-Shabbir hata do to yeh Islaam
+  Woh khwaab hai jis khwaab ki taabir nahiṅ hai
 
   2
-  Be hubbe ali sajde hai yun meri nazar mein
-  Goya to hai quran ki tafseer nahi hai
+  Be hubb-e-Ali sajde haiṅ yuṅ meri nazar meiṅ
+  Goya to hai Quraan ki tafsir nahiṅ hai
 
   3
-  Bemaar ke paon ki taraf dekhne walon
-  Islam ka langar hai ye zanjeer nahi hai
+  Bimaar ke paaoṅ ki taraf dekhne waalo
+  Islaam ka langar hai yeh zanjir nahiṅ hai
 
   4
-  Ay kufiyon be-parda hai ye hurmate islam
-  Be-parda yahan zainab e dilgeer nahi hai
+  Ae Kufiyo beparda hai yeh hurmat-e-Islaam
+  Beparda yahaaṅ Zainab-e-dilgir nahiṅ hai
 
   5
-  Bano ne ye ashoor ki shab khwab mein dekha
-  Jhoole mein mera asghare baysheer nahi hai
+  Baano ne yeh Aashur ki shab khwaab meiṅ dekha
+  Jhule meiṅ mera Asghar-e-beshir nahiṅ hai
 
   6
-  Asghar ki shahadat ne kiya zulm ko ruswa
-  Ab tarkashe aada mein koi teer nahi hai
+  Asghar ki shahaadat ne kiya zulm ko ruswa
+  Ab tarkash-e-aada meiṅ koi tir nahiṅ hai
 
   7
-  Jisme na rawani ho na ho shaukate alfaaz
-  Mehshar wo tere khaak ki tehreer nahi hai
+  Jis meiṅ na rawaani ho na ho shaukat-e-alfaaz
+  Mehshar woh tere haath ki tahrir nahiṅ hai
 # source_id: nohayonline:dc51801234e1bd7f871e
 # source_url: https://www.nohayonline.com/details_content.php?id=652
 # raw_sha256: c7cd4ac8f110f34cb2fc7064faa6cbe9fb6d550b75425381f59d4baacfaf4163
