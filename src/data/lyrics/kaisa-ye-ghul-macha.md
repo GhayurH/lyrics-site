@@ -6,36 +6,37 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Anees Pehersari"
+reciter: "Ali Zia Rizvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kaisa ye ghul macha hai elaahi furaat par
-  Maara gaya hussain ka bhai furaat par
-  
+  Kaisa ye ghul macha hai ilaahi Furaat par
+  Maara gaya Husain ka bhaai Furaat par
+
   1
-  Aaya nazar na jabke alam ghash hue hussain
-  Jab dekhne ko chashm uthaai furaat par
-  
+  Aaya nazar na jabke alam ghash hue Husain
+  Jab dekhne ko chashm uthaai Furaat par
+
   2
-  Kyon shor uth raha hai taraai se baar baar
-  Akbar chalo kare to rasaii furaat par
-  
+  Kiuṅ shor uth raha hai taraai se baar baar
+  Akbar chalo kareṅ to rasaai Furaat par
+
   3
   Beta padar ko le chalo apne chacha ke paas
-  Bhai ne kaafi dayr lagayi furaat par
-  
+  Bhaai ne kaafi der lagaai Furaat par
+
   4
-  Ghurbat may haye kya kare daulat baneen ki
-  Battees saal baad gawahi furaat par
-  
+  Ghurbat mein haaye kya kare daulat Banin ki
+  Battis saal baad gawaahi Furaat par
+
   5
-  Darya ki samt dekh ke zainab ne ye kaha
-  Bhai sakina to nahi aayi furaat par
-  
+  Darya ki samt dekh ke Zainab ne ye kaha
+  Bhaai Sakina to nahiṅ aai Furaat par
+
   6
-  Roze alam se uth'ta rahega dhuan anees
-  Pani ne aisi aag lagayi furaat par
+  Roz-e-alam se uthta rahega dhuaaṅ Anees
+  Paani ne aisi aag lagaai Furaat par
 # source_id: nohayonline:22fb1198e882974ba116
 # source_url: https://www.nohayonline.com/details_content.php?id=235
 # raw_sha256: 7d131603286d018bd1ae59eedb091280b9ac3b31b90541540534287006b3e4c0

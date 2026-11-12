@@ -1,65 +1,68 @@
 ---
-title: "ہاے سجاد ہاے بیمار"
-alternateTitle: "Kaise Chale Hussain"
+title: "ہائے سجاد ہائے بیمار"
+alternateTitle: "Kaise Chale Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Ameer Hasan Aamir"
 poet: "Akhtar Sirsvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye sajjad haye bemaar
-  Haye bemaar haye sajjad
-  Kaise chale hussain ka bemaar dhoop mein
-  Aao madad ko hyder e karraar dhoop mein
+  Haaye Sajjad haaye bimaar
+  Haaye bimaar haaye Sajjad
+
+  Kaise chale Husain ka bimaar dhup mein
+  Aao madad ko Haider-e-Karraar dhup mein
 
   1
-  Rasta bada taweel hai zakmi hai aediyan
-  Zanjeer itni garm hai jalti hai pindliyan
-  Jhulsa raha hai tauqe garan baar dhoop mein
+  Rasta bara tawil hai zakhmi haiṅ aeriyaaṅ
+  Zanjir itni garm hai jalti hai pindliyaaṅ
+  Jhulsa raha hai tauq-e-giraaṅ baar dhup mein
 
   2
-  Chidkao karte jaate hai aansu hussain ke
-  Pairon ko kuch sukoon milay noor e ain ke
-  Be-sayeban hai khaafela salaar dhoop mein
+  Chhirkaao karte jaate haiṅ aaṅsu Husain ke
+  Pairoṅ ko kuch sukun mile nur-e-ain ke
+  Besaaybaaṅ hai qaafila saalaar dhup mein
 
   3
-  Na mehramon ki bheed hai chehra nidhaal hai
-  Phupiyon ki be-ridayi ka kitna malaal hai
-  Aata hai ghash mareez ko har baar dhoop mein
+  Na mahramoṅ ki bhir hai chehra nidhaal hai
+  Phuphiyoṅ ki beridaai ka kitna malaal hai
+  Aata hai ghash mariz ko har baar dhup mein
 
   4
-  Zakhmi hai saara jism ghamon ki satayi ka
-  Dil kaamp kaamp jaata hai seene mein bhai ka
-  Durre layeen sakina ke mat maar dhoop mein
+  Zakhmi hai saara jism ghamoṅ ki sataai ka
+  Dil kaaṅp kaaṅp jaata hai sine mein bhaai ka
+  Durre laiṅ Sakina ke mat maar dhup mein
 
   5
-  Abid ke paon raah mein chaalon se bhar gaye
-  Jalti zameen ne saath na choda jidhar gaye
-  Aisa hua naseeb giraftaar dhoop mein
+  Aabid ke paaoṅ raah mein chhaaloṅ se bhar gaye
+  Jalti zamiṅ ne saath na chhora jidhar gaye
+  Aisa hua nasib giraftaar dhup mein
 
   6
-  Kam karle tu hi apni tamaazat ko aaftab
-  Dena padega hashr mein peshe khuda jawab
-  Hai saath binte ahmed e mukhtaar dhoop mein
+  Kam kar le tu hi apni tamaazat ko Aaftaab
+  Dena parega hashr mein pesh-e-Khuda jawaab
+  Hai saath bint-e-Ahmad-e-Mukhtaar dhup mein
 
   7
-  Naize pe sar hussain ka is gham se hai udaas
-  Koi nahi hai abid e muztar ke aas paas
-  Ek ghamzada phupi hai madadgaar dhoop mein
+  Naize pe sar Husain ka is gham se hai udaas
+  Koi nahiṅ hai Aabid-e-muztar ke aas paas
+  Ik ghamzada phuphi hai madadgaar dhup mein
 
   8
-  Mushkil badi hai aamir o akhtar mareez par
-  Haste hai raaston mein sitamgar mareez par
-  Hai ab to saans lena bhi dushwaar dhoop mein
+  Mushkil bari hai Aamir o Akhtar mariz par
+  Haṅste haiṅ raastoṅ mein sitamgar mariz par
+  Hai ab to saaṅs lena bhi dushwaar dhup mein
 # source_id: nohayonline:fe4c871d93c9403eb9aa
 # source_url: https://www.nohayonline.com/details_content.php?id=2155
 # raw_sha256: ce4f1b8ec73c5d310c9afabc51881e9f04fa3b1052af5261c7a13c950350bffd
 ---
-ہاے سجاد ہاے بیمار
-ہاے بیمار ہاے سجاد
+ہائے سجاد ہائے بیمار
+ہائے بیمار ہائے سجاد
+
 کیسے چلے حسین کا بیمار دھوپ میں
 آؤ مدد کو حیدر کرار دھوپ میں
 
@@ -69,7 +72,7 @@ romanLyrics: |-
 جھلسا رہا ہے طوقِ گراں بار دھوپ میں
 
 ۲
-چھڑکاؤ کرتے جاتے ہیں آنسوں حسین کے
+چھڑکاؤ کرتے جاتے ہیں آنسو حسین کے
 پیروں کو کچھ سکون ملے نورِ عین کے
 بے سایباں ہے قافلہ سالار دھوپ میں
 
@@ -79,17 +82,17 @@ romanLyrics: |-
 آتا ہے غش مریض کو ہر بار دھوپ میں
 
 ۴
-زخمی ہے سارا جسم غموں کی ستای کا
-دل کانپ جاتا ہے سینے میں بھای کا
+زخمی ہے سارا جسم غموں کی ستائی کا
+دل کانپ جاتا ہے سینے میں بھائی کا
 درے لعیں سکینہ کے مت مار دھوپ میں
 
 ۵
-عابد کے پاؤں راہ میں چھالوں سے بھر گےء
-جلتی زمیں نے ساتھ نہ چھوڑا جدھر گےء
+عابد کے پاؤں راہ میں چھالوں سے بھر گئے
+جلتی زمیں نے ساتھ نہ چھوڑا جدھر گئے
 ایسا ہوا نصیب گرفتار دھوپ میں
 
 ۶
-کم کرلے تو ہی اپنی تمازت کو آفتاب
+کم کر لے تو ہی اپنی تمازت کو آفتاب
 دینا پڑے گا حشر میں پیش خدا جواب
 ہے ساتھ بنت احمد مختار دھوپ میں
 

@@ -1,53 +1,54 @@
 ---
 title: "کہوں کیسے مصیبت فاطمہ کی"
-alternateTitle: "Kahun Kaise Musibat"
+alternateTitle: "Kahuṅ Kaise Musibat"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Bober Ali"
+reciter: "Mirza Sikander Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kahun kaise musibat fatema ki
-  Lehad par bhi hai aafat fatema ki
+  Kahuṅ kaise musibat Fatema ki
+  Lahad par bhi hai aafat Fatema ki
 
   1
-  Kiya pamaal marqad ko shaqi ne
-  Badi jis se aziyat fatema ki
+  Kiya paamaal marqad ko shaqi ne
+  Bari jis se aziyat Fatema ki
 
   2
   Meri turbat pe tum har roz aana
-  Ali se thi wasiyat fatema ki
+  Ali se thi wasiyat Fatema ki
 
   3
-  Ali ki aankh se behte thay aansu
-  Rulaati thi shahadat fatema ki
+  Ali ki aaṅkh se behte the aaṅsu
+  Rulaati thi shahaadat Fatema ki
 
   4
-  Kare sarkar khud tazeem us ki
-  Koi samjha na azmat fatema ki
+  Kare sarkaar khud taazim us ki
+  Koi samjha na azmat Fatema ki
 
   5
-  Mil kab qabr may bhi chain us ko
-  Hui mismaar turbat fatema ki
+  Mil kab qabr mein bhi chain us ko
+  Hui mismaar turbat Fatema ki
 
   6
   Ujaala hai na marqad par hai saaya
-  Bataun kya mai ghurbat fatema ki
+  Bataauṅ kya main ghurbat Fatema ki
 
   7
-  Nikal kar parda e ghaibat se maula
-  Karo ta'meer turbat fatema ki
+  Nikal kar parda-e-ghaibat se Maula
+  Karo taamir turbat Fatema ki
 
   8
-  Azadaron udao khaak sar par
-  Hui hai phir se rehlat fatema ki
+  Azaadaaroṅ uraao khaak sar par
+  Hui hai phir se rehlat Fatema ki
 
   9
-  Mitaya jis ne qabr e aal e hyder
-  Bober us par hai laanat fatema ki
+  Mitaaya jis ne qabr-e-aal-e-Haider
+  Bober us par hai laanat Fatema ki
 # source_id: nohayonline:a942033ed28a42a2f455
 # source_url: https://www.nohayonline.com/details_content.php?id=1943
 # raw_sha256: faa04dd5c1e47bee523ad1dfd2e50ca36b4a7b00ad2f6d09b359429a7029aeb2
@@ -64,7 +65,7 @@ romanLyrics: |-
 علی سے تھی وصیت فاطمہ کی
 
 ۳
-علی کی آنکھ سے بہتے تھے آنسوں
+علی کی آنکھ سے بہتے تھے آنسو
 رلاتی تھی شہادت فاطمہ کی
 
 ۴
@@ -72,20 +73,20 @@ romanLyrics: |-
 کوئی سمجھا نہ عظمت فاطمہ کی
 
 ۵
-مل کب قبر میں بھی چین اسکو
-ہوی مسمار تربت فاطمہ کی
+مل کب قبر میں بھی چین اس کو
+ہوئی مسمار تربت فاطمہ کی
 
 ۶
 اجالا ہے نہ مرقد پر ہے سایہ
 بتاؤں کیا میں غربت فاطمہ کی
 
 ۷
-نکل کر پردہء غیبت سے مولا
+نکل کر پردۂ غیبت سے مولا
 کروں تعمیر تربت فاطمہ کی
 
 ۸
 عزاداروں اڑاؤ خاک سر پر
-ہوی ہے پھر سے رحلت فاطمہ کی
+ہوئی ہے پھر سے رحلت فاطمہ کی
 
 ۹
 مٹایا جس نے قبر آل حیدر
