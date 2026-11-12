@@ -1,57 +1,58 @@
 ---
-title: ہاے سادات نے اس دہر میں کیا کیا دیکھا
+title: ہائے سادات نے اس دہر میں کیا کیا دیکھا
 alternateTitle: Haye Sadaat
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
+reciter: "Ali Shanawar, Ali Jee"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haaye saadaat ne is dehr me kya kya dekha
-  Apni aankhon ko sadaa khun hi rota dekha
+  Haye saadaat ne is dehr mein kya kya dekha
+  Apni aankhoṅ ko sadaa khun hi rota dekha
 
   1
-  Jis gharane ne sadaa logon ko khusiyaan baati
-  Unko khushiyaan na mili gham hi ziyaada dekha
+  Jis gharaane ne sadaa logoṅ ko khushiyaaṅ baanti
+  Unko khushiyaaṅ na mili gham hi ziyaada dekha
 
   2
-  Wo mohammad ke jo rehmat hain zamaane ke liye
-  Unki naalain ko bhi khun me duba dekha
+  Wo Muhammad ke jo rehmat hai zamaane ke liye
+  Unki naalain ko bhi khun mein duba dekha
 
   3
-  Sabz gumbad ke qareeb marqade zehra hai magar
-  Baap ne beti ki turbat pe na saayaa dekha
+  Sabz gumbad ke qarib marqad-e-Zehra hai magar
+  Baap ne beti ki turbat pe na saaya dekha
 
   4
-  Rotiyaan maang ke jis dar se farishte jaaye
-  Eed ke roz bhi un batchon ka faaqaa dekha
+  Rotiyaaṅ maaṅg ke jis dar se farishte jaaye
+  Eid ke roz bhi un bachchoṅ ka faaqa dekha
 
   5
-  Wo taqi ho ke naqi musiye kaazim ya raza
-  Sakhtiyaan qaid ki aur zehr ka pyaala dekha
+  Wo Taqi ho ke Naqi Musa Kaazim ya Raza
+  Sakhtiyaaṅ qaid ki aur zehr ka pyaala dekha
 
   6
-  Pusht pe jis ko bithaate the rasule akram
-  Us nawaase hi ka sar bar sare neza dekha
+  Pusht pe jis ko bithaate the Rasul-e-Akram
+  Us nawaase hi ka sar bar sar-e-neza dekha
 
   7
-  Jis ke baazu the rida zainabe kubra ke liye
-  Kaise bibi ne use baazu burida dekha
+  Jis ke baazu the rida Zainab-e-Kubra ke liye
+  Kaise Bibi ne use baazu burida dekha
 
   8
-  Subhe aashur dhali shaame gharibaan aayi
-  Tchaar pehron me qayaamat ko guzarta dekha
+  Subh-e-Aashur dhali shaam-e-gharibaaṅ aayi
+  Chaar pehroṅ mein qayaamat ko guzarta dekha
 
   9
-  Gir gayi khaak pe gash khaa ke ali ki beti
-  Putchha sughra ne ke pardes me kya kya dekha
+  Gir gayi khaak pe ghash khaa ke Ali ki beti
+  Puchha Sughra ne ke pardes mein kya kya dekha
 
   10
-  Ro diye sarwar o rehan jigar thaam ke ham
-  Jab azaa khaane me rakhaa huwaa jula dekha
+  Ro diye Sarwar o Rehaan jigar thaam ke hum
+  Jab azaa khaane mein rakha hua jhula dekha
 # source_id: nohayonline:b1e4b93b870dd97696ca
 # source_url: https://www.nohayonline.com/details_content.php?id=3293
 # raw_sha256: 7ff6cbb56bc913d62a6724a8139b1f5d0973982fa4afe0621b78ffaffacb82e9
@@ -60,24 +61,24 @@ romanLyrics: |-
 # raw_sha256: f6be295526f3000959439d5ae1e64f1f84a07a5fa57a9e3b89a6d9bcbf5ba729
 ---
 
-ہاے سادات نے اس دہر میں کیا کیا دیکھا
-اپنی آنکھوں کو صدا خون ہی روتا دیکھا
+ہائے سادات نے اس دہر میں کیا کیا دیکھا
+اپنی آنکھوں کو سدا خون ہی روتا دیکھا
 
 ۱
-جس گھرانے نے صدا لوگوں کو خوشیاں بانٹی
-ان کو خوشیاں نہ ملی غم ہی ذیادہ دیکھا
+جس گھرانے نے سدا لوگوں کو خوشیاں بانٹی
+ان کو خوشیاں نہ ملی غم ہی زیادہ دیکھا
 
 ۲
 وہ محمد کہ جو رحمت ہے زمانے کے لئے
-ان کی نالین کو بھی خون میں ڈوبا دیکھا
+ان کی نعلین کو بھی خون میں ڈوبا دیکھا
 
 ۳
 سبز گنبد کے قریب مرقد زہرا ہے مگر
 باپ نے بیٹی کی تربت پہ نہ سایہ دیکھا
 
 ۴
-روٹیاں مانگ کے جس در سے فرشتے جاے
-عید روز بھی بچوں کا فاقہ دیکھا
+روٹیاں مانگ کے جس در سے فرشتے جائے
+عید کے روز بھی ان بچوں کا فاقہ دیکھا
 
 ۵
 وہ تقی ہو کہ نقی موسی کاظم یا رضا
@@ -85,20 +86,20 @@ romanLyrics: |-
 
 ۶
 پشت پہ جس کو بٹھاتے تھے رسول اکرم
-اس نواسے ہی کا بر سر نیزہ دیکھا
+اس نواسے ہی کا سر بر سرِ نیزہ دیکھا
 
 ۷
 جس کے بازو بندھے تھے زینب کبرا کے لئے
-کیسے بی بی نے اسے بازو بریدہ دیکھا
+کیسے بی‌بی نے اسے بازو بریدہ دیکھا
 
 ۸
-صبحِ عاشور ڈھلی شام غریباں آی
+صبحِ عاشور ڈھلی شامِ غریباں آئی
 چار پہروں میں قیامت کو گزرتا دیکھا
 
 ۹
-گر گیء خاک پہ غش کھا کے علی کی بیٹی
+گر گئی خاک پہ غش کھا کے علی کی بیٹی
 پوچھا صغرا نے کہ پردیس میں کیا کیا دیکھا
 
 ۱۰
-رو دیےء سرور و ریحان جگر تھام کے ہم
+رو دیے سرور و ریحان جگر تھام کے ہم
 جب عزاخانے میں رکھا ہوا جھولا دیکھا
