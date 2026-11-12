@@ -1,77 +1,78 @@
 ---
-title: "شبیہ پیمبر ہاے ہاے علی اکبر"
+title: "شبیہ پیمبر ہائے ہائے علی اکبر"
 alternateTitle: "Jaan Ali Akbar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Ali Jee"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shabihe payambar haye haye ali akbar
-  
+  Shabih-e-Payambar haaye haaye Ali Akbar
+  Kaise jiyegi tere bin haaye ye maadar
+  Ae jaan Ali Akbar
+
   1
-  Kaise jiyegi tere bin haye ye maadar
-  Ay jaan ali akbar
-  Beta ali akbar maadar ko pukaro
-  Ghamzada maadar ko chehra to dikhado
+  Beta Ali Akbar maadar ko pukaaro
+  Ghamzada maadar ko chehra to dikha do
   Khaak se utho mujhko bula lo
-  Maa hai pareshan kahan ho mere dilbar
-  Ay jaan ali akbar
-  
+  Maaṅ hai pareshaan kahaaṅ ho mere dilbar
+  Ae jaan Ali Akbar
+
   2
-  Qaid hui beta zindan chali maa
-  Saare shaheedon ka allah nigehban
-  Ghar hua veeran aao meri jaan
-  Ho gya sajjad akela mera dilbar
-  Ay jaan ali akbar
-  
+  Qaid hui beta zindaan chali maaṅ
+  Saare shahidoṅ ka Allah nigahbaaṅ
+  Ghar hua viraan aao meri jaan
+  Ho gaya Sajjad akela mera dilbar
+  Ae jaan Ali Akbar
+
   3
-  Maa ka ye armaan tha tujhe dulha banaati
-  Maa teri dulhan ko naazon se sajaati
-  Ho nahi paayi aas ye poori
-  Aise gaye aaye na maidan se palat kar
-  Ay jaan ali akbar
-  
+  Maaṅ ka ye armaaṅ tha tujhe dulha banaati
+  Maaṅ teri dulhan ko naazoṅ se sajaati
+  Ho nahiṅ paayi aas ye puri
+  Aise gaye aaye na maidaaṅ se palat kar
+  Ae jaan Ali Akbar
+
   4
-  Maa hai rasan basta sar tera sina par
-  Balwa e aada mein laaya hai muqaddar
-  Ay mere pyare nok e sina se
-  Dekh le maa teri hai balwe mein khule sir
-  Ay jaan ali akbar
-  
+  Maaṅ hai rasan basta sar tera sinaaṅ par
+  Balwa-e-aada mein laaya hai muqaddar
+  Ae mere pyaare nok-e-sinaaṅ se
+  Dekh le maaṅ teri hai balwe mein khule sar
+  Ae jaan Ali Akbar
+
   5
-  Beta ali akbar maadar ka hai waada
-  Sogh manaungi ta umr tumhara
-  Ab na piyungi thanda mai pani
-  Ab na mai baithungi kabhi saaye mein jaa kar
-  Ay jaan ali akbar
-  
+  Beta Ali Akbar maadar ka hai waada
+  Sog manaauṅ gi taa umr tumhaara
+  Ab na piyuṅ gi thanda main paani
+  Ab na main baithuṅ gi kabhi saaye mein jaa kar
+  Ae jaan Ali Akbar
+
   6
-  Pooch liya mujhse sughra ne jo tera
-  Kaise bataungi akbar nahi aaya
-  Royegi sughra tadpegi sughra
-  Tere bina kaise jiyegi teri khwahar
-  Ay jaan ali akbar
+  Puchh liya mujh se Sughra ne jo tera
+  Kaise bataauṅ gi Akbar nahiṅ aaya
+  Royegi Sughra tarpegi Sughra
+  Tere bina kaise jiyegi teri khwaahar
+  Ae jaan Ali Akbar
 # source_id: nohayonline:a382ebfca2adca5e214c
 # source_url: https://www.nohayonline.com/details_content.php?id=1843
 # raw_sha256: 8888db542a06bbf0534fbe666050b0284480dea656e9ba5c104eabf26356971a
 ---
 
-شبیہ پیمبر ہاے ہاے علی اکبر
+شبیہ پیمبر ہائے ہائے علی اکبر
+کیسے جیے گی تیرے بن ہائے یہ مادر
+اے جان علی اکبر
 
 ۱
-کیسے جیےء گی تیرے بن ہاے یہ مادر
-اے جان علی اکبر
 بیٹا علی اکبر مادر کو پکارو
-غمزدہ مادر کو چہرہ تو دکھادو
-خاک سے اٹھو مجھکو بلا لو
+غمزدہ مادر کو چہرہ تو دکھا دو
+خاک سے اٹھو مجھ کو بلا لو
 ماں ہے پریشان کہاں ہو میرے دلبر
 اے جان علی اکبر
 
 ۲
-قید ہوی بیٹا زندان چلی ماں
+قید ہوئی بیٹا زندان چلی ماں
 سارے شہیدوں کا اللّٰہ نگہباں
 گھر ہوا ویران آؤ میری جان
 ہو گیا سجاد اکیلا میرا دلبر
@@ -80,8 +81,8 @@ romanLyrics: |-
 ۳
 ماں کا یہ ارماں تھا تجھے دولہا بناتی
 ماں تیری دولہن کو نازوں سے سجاتی
-ہو نہیں پای آس یہ پوری
-ایسے گےء آے نہ میداں سے پلٹ کر
+ہو نہیں پائی آس یہ پوری
+ایسے گئے آئے نہ میداں سے پلٹ کر
 اے جان علی اکبر
 
 ۴
@@ -95,12 +96,12 @@ romanLyrics: |-
 بیٹا علی اکبر مادر کا ہے وعدہ
 سوگ مناؤں گی تا عمر تمہارا
 اب نہ پیوں گی ٹھنڈا میں پانی
-اب نہ میں بیٹھونگی کبھی ساے میں جا کر
+اب نہ میں بیٹھوں گی کبھی سائے میں جا کر
 اے جان علی اکبر
 
 ۶
 پوچھ لیا مجھ سے صغرا نے جو تیرا
 کیسے بتاؤں گی اکبر نہیں آیا
-روے گی صغریٰ تڑپے گی صغریٰ
-تیرے بنا کیسے جیےء گی تیری خواہر
+روئے گی صغریٰ تڑپے گی صغریٰ
+تیرے بنا کیسے جیے گی تیری خواہر
 اے جان علی اکبر

@@ -2018,10 +2018,10 @@ src/data/lyrics/ja-ali-asghar.md,standalone_lyrics,imported,nohayonline,pending,
 src/data/lyrics/ja-raha-hoo-karbala.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,,,"Need audio/print: s3 full first two verses, especially ""کربلا کیا ہے معلی آدم و عیسا کا ہے"" and ""خم"" (Roman source ""qum""); s5 ""جہاں ہے"" vs ""جہاں ہیں""."
 src/data/lyrics/jaa-rahi-hai-behan.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,,,"Need audio/print: s3 ""قرآن کے ہے"" vs ""قرآن کے ہیں""; s5 ""رواں رکھے ہیں جو ظلم و ستم"" (confirm ""رواں"" reading)."
 src/data/lyrics/jaake-baba-ko-sab.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
-src/data/lyrics/jaan-ali-akbar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/jaana-hai-karbala.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/jaane-kaise-thay.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/jaane-kyun-naizon.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/jaan-ali-akbar.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,first_sweep,,
+src/data/lyrics/jaana-hai-karbala.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s1 ""ہو ہم""; s4 ""کرے"" and ""باتیں سبیل"" (possible ""کریں"" / ""بانٹیں""); s7 ""ہم بھی پڑھے نماز"". Confirm these retained source readings."
+src/data/lyrics/jaane-kaise-thay.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s1 ""جلتا دروازہ میرے اور"" (Roman ""uar""); s6 ""دستور احساں""; s7 ""دایم و یزداں تھا اک غم خوار"" and ""بانیٔ مشکل"". Confirm retained wording."
+src/data/lyrics/jaane-kyun-naizon.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: opening ""نیزوں سے ایک سر"" and s1 ""ہے شیر خوار کا خیبر شکن کا سر تو نہیں""; confirm wording and phrasing."
 src/data/lyrics/jaane-payambar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/jaane-sakina.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/jaane-wale-karbala.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,

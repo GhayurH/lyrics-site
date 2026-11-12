@@ -6,93 +6,98 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Dayam Najafi"
+reciter: "Ali Yazdan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Pehchano musalmano mai fatema zehra hoon
-  Jaane kaise thay musalman ghar jalaane aagaye
-  Baap ke jaate hi beti ko sataane aagaye
-  Qabr pe baba ke di ye ro ke beti ne sada
-  Kis tarha badle musalman dekhiye ukda kusha
-  Aap ke jaate hi mujhpe zulm dhaane aagaye
+  Pehchaano musalmaanoṅ main Fatema Zehra huṅ
+
+  Jaane kaise the musalmaan ghar jalaane aa gaye
+  Baap ke jaate hi beti ko sataane aa gaye
+
+  Qabr pe baaba ke di ye ro ke beti ne sada
+  Kis tarah badle musalmaan dekhiye uqda kusha
+  Aap ke jaate hi mujh pe zulm dhaane aa gaye
 
   1
-  Kis khadar jaldi thi unko aap ki ruqsat ke saath
-  Ahle baatil ek jaa ho kar yahan shiddat ke saath
-  Jalta darwaza mere uar giraane aagaye
+  Kis qadar jaldi thi un ko aap ki rukhsat ke saath
+  Ahl-e-baatil ek jaa ho kar yahaaṅ shiddat ke saath
+  Jalta darwaaza mere aur giraane aa gaye
 
   2
-  Dekha in aankhon ne kya kya al amaan o al hafeez
-  Is qadar badla zamana al amaan o al hafeez
-  Hyder e karraar ko qaidi banane aagaye
+  Dekha in aankhoṅ ne kya kya al amaan o al hafiz
+  Is qadar badla zamaana al amaan o al hafiz
+  Haidar-e-Karraar ko qaidi banaane aa gaye
 
   3
-  Aap ki beti kahan aur zulm ki shiddat kahan
-  Ehteram e fatema zehra ke badle baba jaan
-  Aap ki beti ka haye dil dukhaane aagaye
+  Aap ki beti kahaaṅ aur zulm ki shiddat kahaaṅ
+  Ehteraam-e-Fatema Zehra ke badle baaba jaaṅ
+  Aap ki beti ka haaye dil dukhaane aa gaye
 
   4
   Aap ko deti rahi awaaz ye khasta jigar
-  Ya nabi allah lije aake dukhiya ki khabar
-  Fatema ko kalmago durra lagaane aagaye
+  Ya Nabi Allah lijiye aa ke dukhiya ki khabar
+  Fatema ko kalma go durra lagaane aa gaye
 
   5
-  Kis khadar dushwaar hota hai bichadne baap ka
+  Kis qadar dushwaar hota hai bichharna baap ka
   Haq to ye tha ghamzada ko dete pursa baap ka
-  Pursa dene ke bajaye khoon rulaane aagaye
+  Pursa dene ke bajaaye khuṅ rulaane aa gaye
 
   6
-  Aalam e islam ka dastoor ehsan hai yehi
-  Uske ghar chula na roshan ho jahan guzre koi
-  Hum thay ghar mein aur stiamgar ghar jalane aagaye
+  Aalam-e-Islam ka dastur ehsaaṅ hai yehi
+  Us ke ghar chulha na roshan ho jahaaṅ guzre koi
+  Hum the ghar mein aur sitamgar ghar jalaane aa gaye
 
   7
-  Dayam o yazdan tha ek ghamkhwar ka ye marsiya
-  Baba jaan kya aap roothe lut gaya mera jahan
-  Baani e mushkil meri mushkil badhane aagaye
+  Daayam o Yazdaaṅ tha ek gham khwaar ka ye marsiya
+  Baaba jaaṅ kya aap ruthe lut gaya mera jahaaṅ
+  Baani-e-mushkil meri mushkil barhaane aa gaye
 # source_id: nohayonline:718dee6584173170054c
 # source_url: https://www.nohayonline.com/details_content.php?id=2520
 # raw_sha256: 43c5b45dd4f274e72ca81e0b8a3b8e3d78847dba4c57d3903c31b08ba5c533ca
 ---
 پہچانو مسلمانوں میں فاطمہ زہرا ہوں
-جانے کیسے تھے مسلمان گھر جلانے آ گےء
-باپ کے جاتے ہی بیٹی کو ستانے آ گےء
+
+جانے کیسے تھے مسلمان گھر جلانے آ گئے
+باپ کے جاتے ہی بیٹی کو ستانے آ گئے
+
 قبر پہ بابا کے دی یہ رو کے بیٹی نے صدا
-کس طرح بدلے مسلمان دیکھےء عقدہ کشا
-آپ کے جاتے ہی مجھ پہ ظلم ڈھانے آ گےء
+کس طرح بدلے مسلمان دیکھیے عقدہ کشا
+آپ کے جاتے ہی مجھ پہ ظلم ڈھانے آ گئے
 
 ۱
 کس قدر جلدی تھی ان کو آپ کی رخصت کے ساتھ
 اہلِ باطل ایک جا ہو کر یہاں شدت کے ساتھ
-جلتا دروازہ میرے اور گرانے آ گےء
+جلتا دروازہ میرے اور گرانے آ گئے
 
 ۲
 دیکھا ان آنکھوں نے کیا کیا الامان و الحفیظ
 اس قدر بدلہ زمانہ الامان و الحفیظ
-حیدر کرار کو قیدی بنانے آ گےء
+حیدر کرار کو قیدی بنانے آ گئے
 
 ۳
-آپ کی بیٹی اور ظلم کی شدت کہاں
-احتمام فاطمہ زہرا کے بدلے بابا جاں
-آپ کی بیٹی کا ہاے دل دکھانے آ گےء
+آپ کی بیٹی کہاں اور ظلم کی شدت کہاں
+احترام فاطمہ زہرا کے بدلے بابا جاں
+آپ کی بیٹی کا ہائے دل دکھانے آ گئے
 
 ۴
 آپ کو دیتی رہی آواز یہ خستہ جگر
-یا نبی اللّٰہ لیجیےء آ کے دکھیا کی خبر
-فاطمہ کو کلمہ گو درہ لگانے آ گےء
+یا نبی اللّٰہ لیجیے آ کے دکھیا کی خبر
+فاطمہ کو کلمہ گو درہ لگانے آ گئے
 
 ۵
 کس قدر دشوار ہوتا ہے بچھڑنا باپ کا
 حق تو یہ تھا غمزدہ کو دیتے پرسہ باپ کا
-پرسہ دینے کے بجاۓ خوں رلانے آ گےء
+پرسہ دینے کے بجائے خوں رلانے آ گئے
 
 ۶
 عالم اسلام کا دستور احساں ہے یہی
 اس کے گھر چولھا نہ روشن ہو جہاں گزرے کوئی
-ہم تھے گھر میں اور ستمگر گھر جلانے آ گےء
+ہم تھے گھر میں اور ستمگر گھر جلانے آ گئے
 
 ۷
 دایم و یزداں تھا اک غم خوار کا یہ مرثیہ
 بابا جاں کیا آپ روٹھے لٹ گیا میرا جہاں
-بانیء مشکل میری مشکل بڑھانے آ گےء
+بانیٔ مشکل میری مشکل بڑھانے آ گئے
