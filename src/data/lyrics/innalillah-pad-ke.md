@@ -1,54 +1,56 @@
 ---
 title: "انا للّٰہ پڑھ کے اکبر کو"
-alternateTitle: "Innalillah Pad Ke"
+alternateTitle: "Innalillah Parh Ke"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Shah"
+reciter: "Safdar Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Innalillaah pad ke akbar ko
-  Haye sheh ne amaama baandha hai
-  Ghar se nikle thay is tarha akbar
-  Jaise koi janaza jaata hai
-  
+  Innalillaah parh ke Akbar ko
+  Haaye Shah ne amaama baandha hai
+
+  Ghar se nikle the is tarah Akbar
+  Jaise koi janaaza jaata hai
+
   1
-  Maut jeene ki kar rahi hai dua
-  Aur akbar chale hai marne ko
-  Umme laila ka mustafa beta
-  Zakhm seene pe khaane jaata hai
-  
+  Maut jine ki kar rahi hai dua
+  Aur Akbar chale haiṅ marne ko
+  Umm-e-Laila ka Mustafa beta
+  Zakhm sine pe khaane jaata hai
+
   2
   Jaise dil jaa raha ho maqtal mein
-  Jaise jaati ho jaan seene se
-  Aise apne jawan ke peeche
-  Ek mazloom baap chalta hai
-  
+  Jaise jaati ho jaan sine se
+  Aise apne jawaaṅ ke pichhe
+  Ik mazlum baap chalta hai
+
   3
-  Kitna pyara hai shaah ko akbar
-  Saare zaalim ye baat jaante hai
-  Taygh akbar pe chal rahi ha yahan
-  Ibne zahra wahan tadapta hai
-  
+  Kitna pyaara hai Shaah ko Akbar
+  Saare zaalim ye baat jaante haiṅ
+  Tegh Akbar pe chal rahi hai yahaaṅ
+  Ibn-e-Zahra wahaaṅ tarapta hai
+
   4
-  Quwwat e murtaza ye poochti hai
-  Sabr e shabbir itna batla de
-  Wo to khyber ke dar se wazni tha
-  Kaise laasha jawan uthaya hai
-  
+  Quwwat-e-Murtaza ye puchhti hai
+  Sabr-e-Shabbir itna batla de
+  Wo to Khaibar ke dar se wazni tha
+  Kaise laasha jawaaṅ uthaaya hai
+
   5
-  Ran mein rahwaar se giray akbar
-  Shaah qaime ke dar se uth na sake
-  Aise dil thaam ke giray maula
-  Arsh jaise zameen pe girta hai
-  
+  Ran mein rahwaar se gire Akbar
+  Shaah khaime ke dar se uth na sake
+  Aise dil thaam ke gire Maula
+  Arsh jaise zamiṅ pe girta hai
+
   6
-  Ay raza us jawan ke seene se
-  Khoon rukta nahi hai roke se
-  Sheh ka daaman lahoo mein doob gaya
+  Ae Raza us jawaan ke sine se
+  Khun rukta nahiṅ hai roke se
+  Shah ka daaman lahu mein dub gaya
   Zakhm na jaane kitna gehra hai
 # source_id: nohayonline:36581b6c0495b649fa54
 # source_url: https://www.nohayonline.com/details_content.php?id=2286
@@ -56,7 +58,8 @@ romanLyrics: |-
 ---
 
 انا للّٰہ پڑھ کے اکبر کو
-ہاے شہ نے عمامہ باندھا ہے
+ہائے شہ نے عمامہ باندھا ہے
+
 گھر سے نکلے تھے اس طرح اکبر
 جیسے کوئی جنازہ جاتا ہے
 
