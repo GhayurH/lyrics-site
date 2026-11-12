@@ -1,227 +1,204 @@
 ---
 title: "جب صدرِ زیں سے گر پڑے عباس باوفا"
-alternateTitle: "Jab Sadre Zeen Se Gir"
+alternateTitle: "Jab Sadr-e-Ziṅ Se Gir"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Noha"
+kalamType: "Marsiya"
+reciter: "Alamdar Hussain"
 tags: ["noImage"]
-aliases: []
+aliases: ["Jab Sadre Zeen Se Gir"]
 published: false
 romanLyrics: |-
-  Jab sadr e zeen se gir pade abbas e bawafa
-  Jangal se aayi girya e zehra ki bhi sada
-  Akbar ne daud kar shah e wala se ye kaha
-  Chaliye huzoor nehr pa maare gaye chacha
+  Jab sadr-e-ziṅ se gir pare Abbas bawafa
+  Jangal se aayi girya-e-Zehra ki bhi sada
+  Akbar ne daur kar shah-e-waala se ye kaha
+  Chaliye huzur nehr pe maare gaye chacha
+  Bedast dushmanoṅ ne kiya us diler ko
+  Ro aaiye taraai mein Haidar ke sher ko
 
   1
-  Be dast dushmano ne kiya us dilayr ko
-  Ro aaiye taraai may hyder ke sher ko
-  Ye sun ke peet'te huwe uthe zameen se shaah
-  Farmaya hai ghazab mere bache huwe tabaah
+  Ye sun ke pitte hue uthe zamiṅ se shaah
+  Farmaaya hai ghazab mere bachche hue tabaah
+  Ye kya kaha ke aankhoṅ mein din ho gaya siyaah
+  Mazlum se bichhar gaye Abbas aah aah
+  Muddat hui tamaam Sakina ke chain ki
+  Tora falak ne aaj kamar ko Husain ki
 
   2
-  Ye kya kaha ke aankhon may din hogaya siyaah
-  Mazloom se bichad gaye abbas aah aah
-  Muddat huwi tamam sakina ke chain ki
-  Toda falak ne aaj kamar ko hussain ki
+  Ye keh ke su-e-nehr chale shaah-e-Karbala
+  Maanind-e-bed kaanpte the shah ke dast o paa
+  Amaama tha na farq pe ne dosh par rida
+  Tasvir waar the hama tan Sibt-e-Mustafa
+  Maqtal ki khaak se tan-e-anwar ata hua
+  Sina khula hua tha garebaaṅ phata hua
 
   3
-  Ye kehke suye nehr chale shaah e karbala
-  Maanind e baid kaampte thay sheh ke dast o pah
-  Ammama tha na farq pa ne dosh par rida
-  Tasveer waar thay hamatan sibte mustafa
+  Pahunche juṅhi taraai mein ba-dida-e-pur aab
+  Dekha hai tapaaṅ hai khaak pe farzand-e-Buturaab
+  Shaanoṅ pe ki nazar to jigar ko rahi na taab
+  Bas haaye bhaai keh ke gira wo falak janaab
+  Bekaar dast o paa the shah-e-khush khisaal ke
+  Le aaye laash tak Ali Akbar sambhaal ke
 
   4
-  Maqtal ki khaak se tan e anwar ata huwa
-  Seena khula huwa tha gareban phata huwa
-  Pahunche junhi taraai may baadeeda e pur aab
-  Dekha tapaan hai khaak farzand e bu-turab
+  Muṅh rakh ke khuṅ bhare hue chehre pe di sada
+  Bhaiya Husain aaya hai aawaaz do zara
+  Hai. Haath donoṅ haath badan se hue juda
+  Baazu ke sadqe in tere shaanoṅ ke main fida
+  Bhaiya hamaare haath to bekaar ho gaye
+  Tum haath kho ke Jafar-e-Tayyaar ho gaye
 
   5
-  Shaano pa ki nazar to jigar ko rahi na taab
-  Bas haye bhai kahke gira wo falak janaab
-  Bekaar dast o paa thay shah e khush-khisaal ke
-  Le aaye laash tak ali akbar sambhaal ke
+  Muṅh rakh ke muṅh pe kehne lage shaah-e-khush khisaal
+  Abbas main kin aankhoṅ se dekhuṅ tera ye haal
+  Is dam bhi hai tumheṅ mere aadaab ka khayaal
+  Jab zabah hoṅge ham to kise hoega malaal
+  Sadqe Husain tere tan-e-paash paash ke
+  Ek baar ham ko gird to phirne do laash ke
 
   6
-  Moo rakh ke khoon bhare huwe chehre pa di sada
-  Bhaiya hussain aaya hai aawaz do zara
-  Hai haath dono haath badan se huwe juda
-  Baazu ke sadqe in tere shaanon ke mai fidaa
+  Sun kar sada ye Hazrat-e-Shabbir-e-naamdaar
+  Khola lahu bhari hui aankhoṅ ko ek baar
+  Sar rakh ke paaye shaah pe bola wo zi waqaar
+  Tashrif aap laaye zahe izz o iftikhaar
+  Ji chaahta hai ye ke nisaar-e-huzur huṅ
+  Kis tarah uth ke gird phiruṅ chur chur huṅ
 
   7
-  Bhaiya hamare haath to bekaar hogaye
-  Tum haath khoke jaafar e tayyar hogaye
-  Moo rakh ke moo pa kehne lage shaah e khush-khisaal
-  Abbas mai kin aankhon se dekhoo tera ye haal
+  Baithe haiṅ aap aur main leta huṅ aah aah
+  Kya daur hai huzur agar bakhsh deṅ gunaah
+  Sar shaq hai zarb-e-gurz se yaa shaah-e-diṅ panaah
+  Karwat bhi ab to le nahiṅ sakta hai khairkhwaah
+  Dukhte haiṅ bolne mein jaraahat phate hue
+  Dekheṅ huzur mere haiṅ baazu kate hue
 
   8
-  Is dam bhi hai tumhe mere aadaab ka khayal
-  Jab zibha honge hum to kise hoega malaal
-  Sadqe hussain tere tan e paash paash ke
-  Ek baar humko gird to phirne do laash ke
+  Ye sun ke us diler ne ek sard aah ki
+  Mashkize pe tarap ke ba-hasrat nigaah ki
+  Muṅh sharm se jhuka liya godi mein shaah ki
+  Haalat tabaah ho gayi Haidar ke maah ki
+  Jab dil ko bekali ho to kis tarah kal pare
+  Zaanuṅ pe shah ke aankhoṅ se aansuṅ nikal pare
 
   9
-  Sunkar sada e hazrate shabbir e naamdar
-  Khola lahoo bhari huwi aankhon ko ek baar
-  Sar rakh ke paaye sheh pa ye bola wo zee wiqar
-  Tashreef aap laaye zahe izz o ifteqaar
+  Farmaaya shah ne kis liye rote ho zaar zaar
+  Lo ab kuchh apna haal kaho tum pe main nisaar
+  Kya ji pe hai bani jo tarapte ho baar baar
+  Ki arz us jari ne ke hai waqt-e-ehtizaar
+  Aaqa se chhutne ka khalal hai ghulaam ko
+  Paauṅ ab kahaaṅ shah-e-garduṅ maqaam ko
 
   10
-  Jee chaahta hai ye ke nisar e huzoor hoo
-  Kis tarha ut ke gird phiroon choor choor hoo
-  Baithe hai aap aur mai leta hoo aah aah
-  Kya daur hai huzoor agar baksh de gunaah
+  Ye kehte the ke phir gayiṅ aankhoṅ ki putliyaaṅ
+  Hichki ke saath aa gayi sukhe laboṅ pe jaaṅ
+  Hasrat se dekh kar taraf-e-shaah-e-ins o jaaṅ
+  Dunya se kuch kar gaye Abbas naujawaaṅ
+  Chhora jari ne saath shah-e-mashriqain ka
+  Ek ghul utha ke mar gaya aashiq Husain ka
 
   11
-  Sar shaq hai zarb e gurz se ya shaah e deen panaah
-  Karwat bhi ab to le nahi sakta hai khair khwah
-  Dukhte hai bolne may jarahat phate huwe
-  Dekhe huzoor mere hai baazu kate huwe
-
-  12
-  Ye sun ke us dilayr ne ek sard aah ki
-  Mashkeeze pe tadap ke ba-hasrat nigaah ki
-  Moo sharm se chupa liya godhi may shaah ki
-  Haalat tabh ho gayi hyder ke maah ki
-
-  13
-  Jab dil ko bekali ho to kis tarha kal pade
-  Zaanu pa shah ke aankhon se aansu nikal pade
-  Farmaya sheh ne kis liye rote ho zaar zaar
-  Lo ab kuch apna haal kaho tum pa mai nisar
-
-  14
-  Kya jee pa hai bani jo tadapte ho baar baar
-  Ki arz us jari ne ke hai waqt e iqtesaar
-  Aaqa se chootne ka khalaq hai ghulam ko
-  Paaunga ab kahan shah e gardoon maqaam ko
-
-  15
-  Ye kehte thay ke phir gayi aankhon ki putliyan
-  Hichki ke saath aagayi sookhe labon pa jaan
-  Hasrat se dekh kar taraf e shaah e ins o jaan
-  Dunya se kooch kar gaye abbas e naujawaan
-
-  16
-  Choda jari ne saath shah e mashraqain ka
-  Ek ghul utha ke mar gaya aashiq hussain ka
-  Chillathi hai ye zouja e abbas e naamwar
-  Chodo mujhe khuda ke liye peetne do sar
-
-  17
-  Waaris mera guzar gaya loota ajal ne ghar
-  Hae hae yateem hogaye dono mere pisar
-  Pardes may ali ke pisar se bichad gayi
-  Ab khaak udaane do ke meri maang ujad gayi
+  Chillaati thi ye zauja-e-Abbas-e-naamwar
+  Chhoro mujhe Khuda ke liye pitne do sar
+  Waaris mera guzar gaya luta ajal ne ghar
+  Haaye haaye yatim ho gaye donoṅ mere pisar
+  Pardes mein Ali ke pisar se bichhar gayi
+  Ab khaak uraane do ke meri maang ujar gayi
 # source_id: nohayonline:6168fddce4a61c530dea
 # source_url: https://www.nohayonline.com/content_marsiya.php?id=3
 # raw_sha256: c383fad6caf5f4cbcfb63169df2905ca77bccf5e14ef314f6bef142cad2ec250
 ---
 جب صدرِ زیں سے گر پڑے عباس باوفا
-جنگل سے آی گریہء زہرا کی بھی صدا
-اکبر نے دوڑ کر شہ والا سے یہ کہا
-چلےء حضور نہر پہ مارے گئے چچا
+جنگل سے آئی گریۂ زہرا کی بھی صدا
+اکبر نے دوڑ کر شہِ والا سے یہ کہا
+چلیے حضور نہر پہ مارے گئے چچا
+بے دست دشمنوں نے کیا اس دلیر کو
+رو آئیے ترائی میں حیدر کے شیر کو
 
 ۱
-بے دست دشمنوں نے کیا اس دلیر کو
-رو آیےء ترای میں حیدر کے شیر کو
 یہ سن کے پیٹتے ہوئے اٹھے زمیں سے شاہ
 فرمایا ہے غضب میرے بچے ہوئے تباہ
-
-۲
-یہ کیا کہا کہ آنکھوں میں دن ہوگیا سیاہ
+یہ کیا کہا کہ آنکھوں میں دن ہو گیا سیاہ
 مظلوم سے بچھڑ گئے عباس آہ آہ
 مدت ہوئی تمام سکینہ کے چین کی
 توڑا فلک نے آج کمر کو حسین کی
 
-۳
-یہ کہکے سوے نہر چلے شاہ کربلا
-مانند بید کانپتے تھے شہ کے دست و پا
+۲
+یہ کہہ کے سوئے نہر چلے شاہِ کربلا
+مانندِ بید کانپتے تھے شہ کے دست و پا
 عمامہ تھا نہ فرق پہ نے دوش پر ردا
-تصویر وار تھے ہمہ تن سبط مصطفیٰ
+تصویر وار تھے ہمہ تن سبطِ مصطفیٰ
+مقتل کی خاک سے تنِ انور اٹا ہوا
+سینہ کھلا ہوا تھا گریباں پھٹا ہوا
+
+۳
+پہنچے جونہی ترائی میں بہ دیدۂ پرآب
+دیکھا ہے تپاں ہے خاک پہ فرزندِ بوتراب
+شانوں پہ کی نظر تو جگر کو رہی نہ تاب
+بس ہائے بھائی کہہ کے گرا وہ فلک جناب
+بیکار دست و پا تھے شہِ خوش خصال کے
+لے آئے لاش تک علی اکبر سنبھال کے
 
 ۴
-مقتل کی خاک سے تن انور اٹا ہوا
-سینہ کھلا ہوا تھا گریباں پھٹا ہوا
-پہنچے جونہی ترای میں بہ دیدہء پرآب
-دیکھا ہے تپاں ہے خاک پہ فرزند بوتراب
+منہ رکھ کے خوں بھرے ہوئے چہرے پہ دی صدا
+بھیا حسین آیا ہے آواز دو ذرا
+ہے۔ ہاتھ دونوں ہاتھ بدن سے ہوئے جدا
+بازو کے صدقے ان تیرے شانوں کے میں فدا
+بھیا ہمارے ہاتھ تو بیکار ہو گئے
+تم ہاتھ کھو کے جعفرِ طیار ہو گئے
 
 ۵
-شانوں پہ کی نظر تو جگر کو رہی نہ تاب
-بس ہاے بھائی کہہ کے گرا وہ فلک جناب
-بیکار دست و پا تھے شہ خوشخصال کے
-لے آے لاش تک علی اکبر سنبھال کے
-
-۶
-منہ رکھکے خوں بھرے ہوئے چہرے پہ دی صدا
-بھیا حسین آیا ہے آواز دو زرا
-ہے۔ ہاتھ دونوں ہاتھ بدن سے ہوے جدا
-بازو کے صدقے ان تیرے شانوں کے میں فدا
-
-۷
-بھیا ہمارے ہاتھ تو بیکار ہو گےء
-تم ہاتھ کھوکے جعفر طیار ہوگےء
-منہ رکھکے منہ پہ کہنے لگے شاہ خوشخصال
+منہ رکھ کے منہ پہ کہنے لگے شاہِ خوش خصال
 عباس میں کن آنکھوں سے دیکھوں تیرا یہ حال
-
-۸
 اس دم بھی ہے تمہیں میرے آداب کا خیال
-جب ذبح ہونگے ہم تو کسے ہویگا ملال
-صدقے حسین تیرے تن پاش پاش کے
+جب ذبح ہوں گے ہم تو کسے ہوئے گا ملال
+صدقے حسین تیرے تنِ پاش پاش کے
 اک بار ہم کو گرد تو پھرنے دو لاش کے
 
-۹
-سن کر صدا یہ حضرت شبیر نامدار
+۶
+سن کر صدا یہ حضرتِ شبیرِ نامدار
 کھولا لہو بھری ہوئی آنکھوں کو ایک بار
-سر رکھکے پاے شاہ پہ بولا وہ ذی وقار
-تشریف آپ لاءیں زح اذو افتخار
-
-۱۰
-جی چاہتا ہے یہ کہ نصار حضور ہوں
+سر رکھ کے پائے شاہ پہ بولا وہ ذی وقار
+تشریف آپ لائے زہے عز و افتخار
+جی چاہتا ہے یہ کہ نثارِ حضور ہوں
 کس طرح اٹھ کے گرد پھروں چور چور ہوں
+
+۷
 بیٹھے ہیں آپ اور میں لیٹا ہوں آہ آہ
 کیا دور ہے حضور اگر بخش دیں گناہ
-
-۱۱
-سر شق ہے ضرب گرز سے یا شاہ دیں پناہ
+سر شق ہے ضربِ گرز سے یا شاہِ دیں پناہ
 کروٹ بھی اب تو لے نہیں سکتا ہے خیرخواہ
-دکھتے ہیں بولنے میں جراہت پھٹے ہوئے
+دکھتے ہیں بولنے میں جراحت پھٹے ہوئے
 دیکھیں حضور میرے ہیں بازو کٹے ہوئے
 
-۱۲
+۸
 یہ سن کے اس دلیر نے اک سرد آہ کی
 مشکیزے پہ تڑپ کے با حسرت نگاہ کی
 منہ شرم سے جھکا لیا گودی میں شاہ کی
-حالت تباہ ہوگئی حیدر کے ماہ کی
-
-۱۳
+حالت تباہ ہو گئی حیدر کے ماہ کی
 جب دل کو بیکلی ہو تو کس طرح کل پڑے
 زانوں پہ شہ کے آنکھوں سے آنسوں نکل پڑے
-فرمایا شہ نے کس لئے روتے ہو زار زار
+
+۹
+فرمایا شہ نے کس لیے روتے ہو زار زار
 لو اب کچھ اپنا حال کہو تم پہ میں نثار
-
-۱۴
 کیا جی پہ ہے بنی جو تڑپتے ہو بار بار
-کی عرض اس جری نے کہ ہے وقت احتضار
+کی عرض اس جری نے کہ ہے وقتِ احتضار
 آقا سے چھوٹنے کا خلل ہے غلام کو
-پاؤں اب کہاں شہ گردوں مقام کو
+پاؤں اب کہاں شہِ گردوں مقام کو
 
-۱۵
-یہ کہتے تھے کہ پھر گیء آنکھوں کی پتلیاں
-ہچکی کے ساتھ آگیء سوکھے لبوں پہ جاں
-حسرت سے دیکھ کر طرف شاہ انس و جاں
+۱۰
+یہ کہتے تھے کہ پھر گئیں آنکھوں کی پتلیاں
+ہچکی کے ساتھ آ گئی سوکھے لبوں پہ جاں
+حسرت سے دیکھ کر طرفِ شاہِ انس و جاں
 دنیا سے کوچ کر گئے عباس نوجواں
-
-۱۶
-چھوڑا جری نے ساتھ شہ مشرقین کا
+چھوڑا جری نے ساتھ شہِ مشرقین کا
 اک غل اٹھا کے مر گیا عاشق حسین کا
-چلاتی تھی یہ زوجہء عباس نامور
-چھوڑو مجھے خدا کے لیے پیٹنے دو سر
 
-۱۷
+۱۱
+چلاتی تھی یہ زوجۂ عباسِ نامور
+چھوڑو مجھے خدا کے لیے پیٹنے دو سر
 وارث میرا گزر گیا لوٹا اجل نے گھر
-ہاے ہاے یتیم ہوگئے دونوں میرے پسر
-پردیس میں علی کے پسر سے بچھڑ گیء
-اب خاک اڑانے دو کہ میری مانگ اجڑ گیء
+ہائے ہائے یتیم ہو گئے دونوں میرے پسر
+پردیس میں علی کے پسر سے بچھڑ گئی
+اب خاک اڑانے دو کہ میری مانگ اجڑ گئی
