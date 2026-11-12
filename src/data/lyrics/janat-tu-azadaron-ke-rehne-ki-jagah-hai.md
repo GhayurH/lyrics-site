@@ -1,6 +1,6 @@
 ---
 title: "جنت تو عزاداروں کے رہنے کی جگہ ہے"
-alternateTitle: "Janat To Azadaron Ke Rehne Ki Jagah Hai"
+alternateTitle: "Jannat To Azadaroṅ Ke Rehne Ki Jagah Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -8,79 +8,89 @@ poet: "Yasir Raza Yasir"
 reciter: "Syed Wajhi Hasan Zaidi"
 kalamType: "Manqabat"
 tags: ["noImage"]
-aliases: []
+aliases: ["Janat To Azadaron Ke Rehne Ki Jagah Hai", "janat-tu-azadaron-ke-rehne-ki-jagah-hai-1-4"]
 published: false
 # source_id: tajpoints:8a5099c68c0da0a814bd
 # source_url: https://tajpoints.com/2018/02/janat-tu-azadaron-ke-rehne-ki-jagah-hai.html
 # raw_sha256: c41b88f9f898eea848c23b7f8d9204294712e298d618d8569003d342b5c24f98
-# https://tajpoints.com/2018/02/janat-tu-azadaron-ke-rehne-ki-jagah.html
+# continuation_source_id: tajpoints:822b57299bbfca5f674e
+# continuation_source_url: https://tajpoints.com/2018/02/janat-tu-azadaron-ke-rehne-ki-jagah.html
+# continuation_raw_sha256: 8fa0781927aedb6915a8e709b6a92e926b0e4ef10c464b00893eb333ae4f26af
+# Source ranges 1-4 and 5-8 are consecutive; the six-line opening quotation is unnumbered.
+# The first source introduces that quotation with the credit "Khuda-e-Sukhan Mir Anee".
 romanLyrics: |-
-  
-  Aqwal-e-Muqadas Se Yeh Idrak Howa Hai
-  Janat To Azadaron Ke Rehne Ki Jagah Hai
-  
-  
-  Firdos Ke Meway Meri Ulfat Ka Samar Hain
-  Gul Gasht Ko Janat Ke Chaman Paish-e-Nazar Hain
-  Inn Sab Ke Dil-e-Panjtan-e-Pak Mein Ghar Hain
-  Shiyon Ke Liye Hashar Mein Hum Seena Sipar Hain
-  Iss Markay Mein Aish o Nishat Inn Ke Liye Hain
-  Na Khof-e-Jahanum Na Sirat Inn Ke Liye Hain
-  
+  Aqwal-e-muqaddas se ye idraak hua hai
+  Jannat to azadaroṅ ke rehne ki jagah hai
+
+  Firdaus ke mewe meri ulfat ka samar haiṅ
+  Gul gasht ko Jannat ke chaman pesh-e-nazar haiṅ
+  In sab ke dil-e-Panjtan-e-Paak mein ghar haiṅ
+  Shioṅ ke liye hashr mein hum sina sipar haiṅ
+  Is maarke mein aish o nishaat in ke liye haiṅ
+  Na khauf-e-Jahannam na siraat in ke liye haiṅ
+
   1
-  Hai Sab Pe Jali Sheh Ke Aazadar Ka Rutba
-  Aulad-e-Payamber Ke Namak Khawar Ka Rutba
-  Mola-e-Do Aalam Ke Paristar Ka Rutba
-  Inn Rutba-e-Ashraaf Se Sabit Yeh Howa Hai
-  
+  Hai sab pe jali Shah ke azadar ka rutba
+  Aulaad-e-Payambar ke namak khwaar ka rutba
+  Maula-e-do aalam ke parastaar ka rutba
+  In rutba-e-ashraaf se saabit ye hua hai
+  Jannat to azadaroṅ ke rehne ki jagah hai
+
   2
-  Rutbaat Azadar Ke Rehman Se Pocho
-  Ammar Se Miqdad Se Salman Se Pocho
-  Jibreel Se Yeh Khuld Ke Rizwan Se Pocho
-  Hur Jaise Kisi Sahib-e-Eman Se Pocho
-  Jo Log Wafadar Hain Unn Sab Ko Pata Hai
-  
+  Rutbaat-e-azadar ke Rahman se puchho
+  Ammar se Miqdad se Salman se puchho
+  Jibril se ye khuld ke Rizwan se puchho
+  Hur jaise kisi sahib-e-imaan se puchho
+  Jo log wafadar haiṅ un sab ko pata hai
+  Jannat to azadaroṅ ke rehne ki jagah hai
+
   3
-  Sab Jante Hain Our Wazahat Main Karon Kya
-  Hoti Hai Zameen Jis Ki Makaan Hota Hai Oss Ka
-  Our Sahib-e-Jageer Ka Bas Rehta Hai Qabza
-  Haqdar Jo Hota Hai Wohi Karta Hai Dawa
-  Behlool Bare Fakhar Se Youn Bech Raha Hai
-  
+  Sab jaante haiṅ aur wazaahat main karuṅ kya
+  Hoti hai zamin jis ki makaaṅ hota hai us ka
+  Aur sahib-e-jaagir ka bas rehta hai qabza
+  Haq daar jo hota hai wohi karta hai daawa
+  Behlul bare fakhr se yuṅ bech raha hai
+  Jannat to azadaroṅ ke rehne ki jagah hai
+
   4
-  Deta Hoon Sanad Aap Ko Na Kijiye Ujlat
-  Gar Shak Hai Meri Baat Pe Kar Lijiye Zehmat
-  Our Kijiye Aqwal-e-Muqadas Ki Tilawat
-  Manqool Hai Sab Hazrat-e-Sadiq Se Riwayat
-  Aima-e-Athar Ne Yeh Saaf Kaha Hai
-  
+  Deta huṅ sanad aap ko na kijiye ujlat
+  Gar shak hai meri baat pe kar lijiye zehmat
+  Aur kijiye aqwal-e-muqaddas ki tilaawat
+  Manqul hai sab Hazrat-e-Sadiq se riwaayat
+  Aimma-e-Athaar ne ye saaf kaha hai
+  Jannat to azadaroṅ ke rehne ki jagah hai
+
   5
-  Allah Ne Ik Rooz Farishtoon Ko Bulaya
-  Our Sheh Keh Azadaron Keh Bare Mein Bataya
-  Araish-e-Janat Ka Unhein Hukm Sunaya
-  Jibreel Se Yeh Khuld Mein Aylan Karaya
-  Jo Marzi-e-Zahra Hai Wohi Meri Raza Hai
-  
+  Allah ne ik roz farishtoṅ ko bulaya
+  Aur Shah ke azadaroṅ ke baare mein bataya
+  Aaraaish-e-Jannat ka unheiṅ hukm sunaya
+  Jibril se ye khuld mein aelaan karaya
+  Jo marzi-e-Zahra hai wohi meri raza hai
+  Jannat to azadaroṅ ke rehne ki jagah hai
+
   6
-  Sab Sach Hai Magar Soche Zara Koan Azadar
-  Jo Sahib-e-Taqwa Hoon Namazi Bhi Hoon Sarkar
-  Guftar Mein Meesum Hoon Tu Kirdar Mein Mukhtar
-  Keh Jin Se Razamand Hoon Khud Haider-e-Karrar
-  Bas Aise Azadaron Ke Bare Mein Likha Hai
-  
+  Sab sach hai magar soche zara kaun azadar
+  Jo sahib-e-taqwa hoṅ namazi bhi hoṅ sarkar
+  Guftaar mein Maisam hoṅ to kirdaar mein Mukhtar
+  Ke jin se razamand hoṅ khud Haidar-e-Karrar
+  Bas aise azadaroṅ ke baare mein likha hai
+  Jannat to azadaroṅ ke rehne ki jagah hai
+
   7
-  Ik Raat Ko Yeh Ahl-e-Wila Khuwab Mein Dekha
-  Janat Se Koi Aa Ke Sarhane Mere Betha
-  Phir Us Ne Mujhe Neend Se Bedaar Karaya
-  Aur Kehne Laga Khuld Se Paigham Hoon Laya
-  Yeh Meri Nahi Sare Shaheedon Ki Sada Hai
-  
+  Ik raat ko ye ahl-e-wila khwaab mein dekha
+  Jannat se koi aa ke sarhaane mere baitha
+  Phir us ne mujhe nind se bedaar karaya
+  Aur kehne laga khuld se paighaam huṅ laya
+  Ye meri nahiṅ saare shahidoṅ ki sada hai
+  Jannat to azadaroṅ ke rehne ki jagah hai
+
   8
-  Yasir Yehi Farmati Hain Khud Fatima Zahra
-  Jab Roz-e-Jaza Paish-e-Khuda Faisla Ho Ga
-  Janat Mein Nahi Jaongi Karti Hoon Main Wada
-  Jab Tak Na Chale Jaein Muhib-e-Sheh-e-Wala
-  Main Khuld Ki Malka Hoon Yeh Haq Main Ne Diya Hai
+  Yasir yehi farmaati haiṅ khud Fatima Zahra
+  Jab roz-e-jaza pesh-e-Khuda faisla hoga
+  Jannat mein nahiṅ jaauṅ gi karti huṅ main waada
+  Jab tak na chale jaaeiṅ muhib-e-Shah-e-waala
+  Main khuld ki malka huṅ ye haq main ne diya hai
+  Jannat to azadaroṅ ke rehne ki jagah hai
 ---
 
 اقوالِ مقدس سے یہ ادراک ہوا ہے
@@ -96,8 +106,9 @@ romanLyrics: |-
 ۱
 ہے سب پہ جلی شہ کے عزادار کا رتبہ
 اولادِ پیغمبر کے نمک خوار کا رتبہ
-مولا دو عالم کے پرستار کا رتبہ
+مولائے دو عالم کے پرستار کا رتبہ
 ان رتبۂ اشراف سے ثابت یہ ہوا ہے
+جنت تو عزاداروں کے رہنے کی جگہ ہے
 
 ۲
 رتباتِ عزادار کے رحمان سے پوچھو
@@ -105,6 +116,7 @@ romanLyrics: |-
 جبریل سے یہ خلد کے رضوان سے پوچھو
 حر جیسے کسی صاحبِ ایمان سے پوچھو
 جو لوگ وفادار ہیں ان سب کو پتا ہے
+جنت تو عزاداروں کے رہنے کی جگہ ہے
 
 ۳
 سب جانتے ہیں اور وضاحت میں کروں کیا
@@ -112,6 +124,7 @@ romanLyrics: |-
 اور صاحبِ جاگیر کا بس رہتا ہے قبضہ
 حق دار جو ہوتا ہے وہی کرتا ہے دعویٰ
 بہلول بڑے فخر سے یوں بیچ رہا ہے
+جنت تو عزاداروں کے رہنے کی جگہ ہے
 
 ۴
 دیتا ہوں سند آپ کو نہ کیجیے عجلت
@@ -119,6 +132,7 @@ romanLyrics: |-
 اور کیجیے اقوالِ مقدس کی تلاوت
 منقول ہے سب حضرتِ صادق سے روایت
 ائمۂ اطہار نے یہ صاف کہا ہے
+جنت تو عزاداروں کے رہنے کی جگہ ہے
 
 ۵
 اللہ نے اک روز فرشتوں کو بلایا
@@ -126,6 +140,7 @@ romanLyrics: |-
 آرائشِ جنت کا انہیں حکم سنایا
 جبریل سے یہ خلد میں اعلان کرایا
 جو مرضیِ زہرا ہے وہی میری رضا ہے
+جنت تو عزاداروں کے رہنے کی جگہ ہے
 
 ۶
 سب سچ ہے مگر سوچے ذرا کون عزادار
@@ -133,6 +148,7 @@ romanLyrics: |-
 گفتار میں میثم ہوں تو کردار میں مختار
 کہ جن سے رضامند ہوں خود حیدرِ کرار
 بس ایسے عزاداروں کے بارے میں لکھا ہے
+جنت تو عزاداروں کے رہنے کی جگہ ہے
 
 ۷
 اک رات کو یہ اہلِ ولا خواب میں دیکھا
@@ -140,6 +156,7 @@ romanLyrics: |-
 پھر اس نے مجھے نیند سے بیدار کرایا
 اور کہنے لگا خلد سے پیغام ہوں لایا
 یہ میری نہیں سارے شہیدوں کی صدا ہے
+جنت تو عزاداروں کے رہنے کی جگہ ہے
 
 ۸
 یاسر یہی فرماتی ہیں خود فاطمہ زہرا
@@ -147,3 +164,4 @@ romanLyrics: |-
 جنت میں نہیں جاؤں گی کرتی ہوں میں وعدہ
 جب تک نہ چلے جائیں محبِ شہِ والا
 میں خلد کی ملکہ ہوں یہ حق میں نے دیا ہے
+جنت تو عزاداروں کے رہنے کی جگہ ہے
