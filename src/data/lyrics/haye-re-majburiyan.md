@@ -6,40 +6,41 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Jamal Meerthi"
+reciter: "Shareef Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye re majburiyan abbas ki majburiyan
-  Ek bahadur par laga di jang ki pabandiyan
+  Haye re majburiyaaṅ Abbas ki majburiyaaṅ
+  Ik bahaadur par laga di jang ki paabandiyaaṅ
 
   1
-  Ghayz may abbas kehte thay ke sun ay fauj e shaam
-  Ek thokar may bikhar jayengi ye nigraniyan
+  Ghaiz mein Abbas kehte the ke sun ae fauj-e-Shaam
+  Ek thokar mein bikhar jaayeṅ gi ye nigraaniyaaṅ
 
   2
-  Ro ke kehti thi sakina aaye na ab tak chacha
-  Lambi hote jaa rahe hai aas ke parchaiyan
+  Ro ke kehti thi Sakina aaye na ab tak chacha
+  Lambi hote ja rahe haiṅ aas ke parchhaaiyaaṅ
 
   3
-  Khoon behta hai mere kaano se ammu dekhiye
-  Zaalimo ne kitni bedardi se cheeni baaliyan
+  Khun behta hai mere kaanoṅ se ammu dekhiye
+  Zaalimoṅ ne kitni bedardi se chhini baaliyaaṅ
 
   4
-  Bayn thay zainab ke hote gar alamdar e hussain
-  Ghair mumkin tha ke phirte wadiyan dar wadiyan
+  Bain the Zainab ke hote gar alamdaar-e-Husain
+  Ghair mumkin tha ke phirte waadiyaaṅ dar waadiyaaṅ
 
   5
-  Jaam kausar ka mujhe kisne diya kyunkar mila
-  Aansuon may doob kar samjha hoo ye gehraiyan
+  Jaam Kausar ka mujhe kis ne diya kiunkar mila
+  Aaṅsuoṅ mein dub kar samjha huṅ ye gehraaiyaaṅ
 
   6
-  Baad e qatl e saani e jafar qayam e shaah may
-  Na koi awaaz rone ki thi na thay siskiyan
+  Baad-e-qatl-e-saani-e-Jaafar qayaam-e-Shaah mein
+  Na koi aawaaz rone ki thi na the siskiyaaṅ
 
   7
-  Phir jamal e ghamzada ne ek naya nauha kaha
-  Phir aza e shaah ki chalne lagi purwaiyan
+  Phir Jamaal-e-ghamzada ne ek naya nauha kaha
+  Phir aza-e-Shaah ki chalne lagi purwaaiyaaṅ
 # source_id: nohayonline:baa5fee03cc20dd4fb52
 # source_url: https://www.nohayonline.com/details_content.php?id=1260
 # raw_sha256: da00dee2c8b0cc8ed74f6ce97528bbdb3de46ab29f57292a788867aac6e8e974
@@ -50,14 +51,14 @@ romanLyrics: |-
 
 ۱
 غیض میں عباس کہتے تھے کہ سن اے فوج شام
-ایک ٹھوکر میں بکھر جاینگی یہ نگرانیاں
+ایک ٹھوکر میں بکھر جائیں گی یہ نگرانیاں
 
 ۲
-رو کے کہتی تھی سکینہ آے نہ اب تک چچا
+رو کے کہتی تھی سکینہ آئے نہ اب تک چچا
 لمبی ہوتے جا رہے ہیں آس کے پرچھائیاں
 
 ۳
-خون بہتا ہے میرے کانوں سے عمو دیکھیےء
+خون بہتا ہے میرے کانوں سے عمو دیکھیے
 ظالموں نے کتنی بے دردی سے چھینی بالیاں
 
 ۴
@@ -74,4 +75,4 @@ romanLyrics: |-
 
 ۷
 پھر جمال غمزدہ نے ایک نیا نوحہ کہا
-پھر عزاے شاہ کی چلنے لگی پرواییاں
+پھر عزائے شاہ کی چلنے لگی پروائیاں
