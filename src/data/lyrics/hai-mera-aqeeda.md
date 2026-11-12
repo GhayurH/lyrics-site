@@ -6,91 +6,97 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Safdar Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ali un waliullah
-  Kulle emaan ali deen ki shaan ali
-  Hai meri jaan ali meri pehchaan ali
-  Hai mera aqeeda ali un waliullah
-  Tum laakh jalo tum ko jalayenge ye kehkar
-  Ali un waliullah ali un waliullah
+  Ali un Waliullah
+
+  Kull-e-imaan Ali din ki shaan Ali
+  Hai meri jaan Ali meri pehchaan Ali
+
+  Hai mera aqida Ali un Waliullah
+  Tum laakh jalo tum ko jalaayeṅge ye keh kar
+  Ali un Waliullah Ali un Waliullah
 
   1
-  Karo koi bhi ibadat ali to wajib hai
-  Yehi hai hukme risalat ali to wajib hai
-  Azan ho ya ikamat ali to wajib hai
-  Mit sakta nahi naksh hai ye jumla seeno par
-  
+  Karo koi bhi ibaadat Ali to waajib hai
+  Yehi hai hukm-e-risaalat Ali to waajib hai
+  Azaaṅ ho ya iqaamat Ali to waajib hai
+  Mit sakta nahiṅ naqsh hai ye jumla sinoṅ par
+
   2
-  Yehi amal to rasool e khuda ki sunnat hai
-  Ali ka zikr sabhi majlison ki zeenat hai
-  Jo sach kahun to ali deen ki zaroorat hai
-  Bas kehte rahe kehte rahenge hum mimbar par
-  
+  Yehi amal to Rasul-e-Khuda ki sunnat hai
+  Ali ka zikr sabhi majlisoṅ ki zinat hai
+  Jo sach kahuṅ to Ali din ki zarurat hai
+  Bas kehte rahe kehte raheṅge hum mimbar par
+
   3
-  Tamam ahle wila ko pasand aata hai
-  Nabi ko ahle kisa ko pasand aata hai
-  Ali ka zikr khuda ko pasand aata hai
-  Phir kyun na yehi naara sajaye hum honton par
-  
+  Tamaam ahl-e-wila ko pasand aata hai
+  Nabi ko ahl-e-kisa ko pasand aata hai
+  Ali ka zikr Khuda ko pasand aata hai
+  Phir kiuṅ na yehi naara sajaaye hum hoṅtoṅ par
+
   4
-  Suna raha hoo haqeeqat bahot badi sunlo
-  Ali nabi ka bila fasl hai wasi sunlo
-  Khuda ke naamon mein ek naam hai wali sunlo
-  Ho jaata hai rab raazi mohibbon se ye sun kar
-  
+  Suna raha huṅ haqiqat bahut bari sun lo
+  Ali Nabi ka bila fasl hai wasi sun lo
+  Khuda ke naamoṅ mein ek naam hai wali sun lo
+  Ho jaata hai Rab raazi muhibboṅ se ye sun kar
+
   5
-  Kiya hussain ne qurban ghar wilayat par
-  Kataya dashte bayaban mein sar wilayat par
-  Haram ne jaari rakha hai safar wilayat par
-  Sar saare shaheedon ke ye kehte thay sina par
-  
+  Kiya Husain ne qurbaan ghar wilaayat par
+  Kataaya dasht-e-biyaabaaṅ mein sar wilaayat par
+  Haram ne jaari rakha hai safar wilaayat par
+  Sar saare shahidoṅ ke ye kehte the sinaaṅ par
+
   6
-  Safdar o mazhar ki azan ali un waliullah
-  Sun le ye saara jahan ali un waliullah
-  Jahan khuda wahan wahan ali un waliullah
-  Nabi ka hai yehi bayan ali un waliullah
-  Ainullah ali ali
-  Wajullah ali ali
-  Yadullah ali ali
-  Jumbullah ali ali
-  Ashaduanna ali un waliullah
+  Safdar o Mazhar ki azaaṅ Ali un Waliullah
+  Sun le ye saara jahaaṅ Ali un Waliullah
+  Jahaaṅ Khuda wahaaṅ wahaaṅ Ali un Waliullah
+  Nabi ka hai yehi bayaaṅ Ali un Waliullah
+
+  Ainullah Ali Ali
+  Wajullah Ali Ali
+  Yadullah Ali Ali
+  Jumbullah Ali Ali
+  Ashaduanna Ali un Waliullah
 # source_id: nohayonline:ee83449a13a5e875c67f
 # source_url: https://www.nohayonline.com/details_content.php?id=3138
 # raw_sha256: 1d71047731f0c9c704baaf5d0a1597eed348cddaea81676c996c98206f657c5f
 ---
 
 علی ولی اللہ
+
 کل ایمان علی دین کی شان علی
 ہے میری جان علی میری پہچان علی
+
 ہے میرا عقیدہ علی ولی اللہ
-تم لاکھ جلو تم کو جلایینگے یہ کہہ کر
+تم لاکھ جلو تم کو جلائیں گے یہ کہہ کر
 علی ولی اللہ علی ولی اللہ
 
 ۱
 کرو کوئی بھی عبادت علی تو واجب ہے
 یہی ہے حکم رسالت علی تو واجب ہے
-اذاں ہو یا اقامت واجب ہے
+اذاں ہو یا اقامت علی تو واجب ہے
 مٹ سکتا نہیں نقش ہے یہ جملہ سینوں پر
 
 ۲
 یہی عمل تو رسول خدا کی سنت ہے
 علی کا ذکر سبھی مجلسوں کی زینت ہے
 جو سچ کہوں تو علی دین کی ضرورت ہے
-بس کہتے رہے کہتے رہیں گے ہم ممبر پر
+بس کہتے رہے کہتے رہیں گے ہم منبر پر
 
 ۳
-تمام أہل ولا کو پسند آتا ہے
+تمام اہل ولا کو پسند آتا ہے
 نبی کو اہل کساء کو پسند آتا ہے
 علی کا ذکر خدا کو پسند آتا ہے
-پھر کیوں نہ یہی نعرہ سجاے ہم ہونٹوں پر
+پھر کیوں نہ یہی نعرہ سجائے ہم ہونٹوں پر
 
 ۴
 سنا رہا ہوں حقیقت بہت بڑی سن لو
 علی نبی کا بلا فصل ہے وصی سن لو
-خدا کے ناموں میں ایک نام ہے‌ولی سن لو
+خدا کے ناموں میں ایک نام ہے ولی سن لو
 ہو جاتا ہے رب راضی محبوں سے یہ سن کر
 
 ۵
@@ -104,6 +110,7 @@ romanLyrics: |-
 سن لے یہ سارا جہاں علی ولی اللہ
 جہاں خدا وہاں وہاں علی ولی اللہ
 نبی کا ہے یہی بیاں علی ولی اللہ
+
 عین اللہ علی علی
 وجہہ اللّٰہ علی علی
 یداللہ علی علی
