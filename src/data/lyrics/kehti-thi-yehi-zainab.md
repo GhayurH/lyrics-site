@@ -4,34 +4,36 @@ alternateTitle: "Kehti Thi Yehi Zainab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Noha"
+kalamType: "Salam"
+reciter: "Alamdar Razvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kehti thi yehi zainab dukhiya
-  Mere beeranwa mujra lo mera
-  Kuch baat karo mai tum pa fida
-  
+  Kehti thi yehi Zainab dukhiya
+  Mere biranwa mujra lo mera
+  Kuchh baat kaho main tum pe fida
+  Mere biranwa mujra lo mera
+
   1
-  Mai kok jali maajayi hoo
-  Hamsheer tumhari bhai hoo
-  Zindan se chut kar aayi hoo
-  
+  Main kok jali maaṅ jaayi huṅ
+  Hamshir tumhaari bhai huṅ
+  Zindaan se chhut kar aayi huṅ
+
   2
-  Zindan may gayi darbar gayi
-  Sar nange sar e bazaar gayi
-  Bin tere zaleel o khaar gayi
-  
+  Zindaan gayi darbaar gayi
+  Sar nange sar-e-baazaar gayi
+  Bin tere zalil o khwaar gayi
+
   3
-  Akbar bhi nahi abbas nahi
-  Qasim sa bhatija paas nahi
-  Ab mujhko kisi ki aas nahi
-  
+  Akbar bhi nahiṅ Abbas nahiṅ
+  Qasim sa bhatija paas nahiṅ
+  Ab mujh ko kisi ki aas nahiṅ
+
   4
-  Poochegi agar mujh se sughra
-  Hai baap phupi kis jaa mera
-  Kya us se kahoo bolo bhaiya
+  Puchhegi agar mujh se Sughra
+  Hai baap phuphi kis jaa mera
+  Kya us se kahuṅ bolo bhaiya
 # source_id: nohayonline:039a610ea9ce1e0a9eb3
 # source_url: https://www.nohayonline.com/content_salaam.php?id=21
 # raw_sha256: 2dbd7d924e6e7239274af5968220e22d3edf09f93adf340aad2aec34f06965c7
@@ -40,21 +42,22 @@ romanLyrics: |-
 کہتی تھی یہی زینب دکھیا
 میرے بیرنوا مجرا لو میرا
 کچھ بات کہو میں تم پہ فدا
+میرے بیرنوا مجرا لو میرا
 
 ۱
-میں کوک جلی مانجای ہوں
-ہمشیر تمہاری بھای ہوں
-زندان سے چھٹ کر آی ہوں
+میں کوک جلی ماں جائی ہوں
+ہمشیر تمہاری بھائی ہوں
+زندان سے چھٹ کر آئی ہوں
 
 ۲
-زندان گیء دربار گیء
-سر ننگے سر بازار گیء
-بن تیرے ذلیل وخوار گیء
+زندان گئی دربار گئی
+سر ننگے سرِ بازار گئی
+بن تیرے ذلیل و خوار گئی
 
 ۳
 اکبر بھی نہیں عباس نہیں
 قاسم سا بھتیجا پاس نہیں
-اب مجھکو کسی کی آس نہیں
+اب مجھ کو کسی کی آس نہیں
 
 ۴
 پوچھے گی اگر مجھ سے صغرا
