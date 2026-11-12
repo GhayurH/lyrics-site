@@ -10,75 +10,76 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Baad e ashoor jo kiya hum pe sitam
-  Karbala se kufa o shaam be makna o chadar
-  Rassiyon mein hai jakde le gaye shaam
-  Haye shaam haye shaam
-  Karbala se shaam karbala se shaam
+  Baad-e-Aashur jo kiya hum pe sitam
+  Karbala se Kufa o Shaam be miqna o chaadar
+  Rassiyoṅ mein hai jakre le gaye Shaam
+  Haaye Shaam haaye Shaam
+  Karbala se Shaam Karbala se Shaam
 
   1
-  Jiya jab talak wo bekas imam
-  Yehi thi fughan labon par mudaam
-  Nahi bhoolunga kabhi raahe shaam
-  Layeeno ka tha jahan azdo haam
-  Khule sar jahan haram thay tamaam
+  Jiya jab talak wo bekas Imaam
+  Yehi thi fughaaṅ laboṅ par mudaam
+  Nahiṅ bhuluṅ ga kabhi raah-e-Shaam
+  Lainoṅ ka tha jahaaṅ izdihaam
+  Khule sar jahaaṅ haram the tamaam
 
   2
-  Meri aankhon se rawan ashk thay
-  Haram shaah ke sabhi sar khule
-  Zuban par meri fughan thi yehi
-  Chali karb par mere ye churi
-  Layeen le rahe thay zainab ka naam
+  Meri aankhoṅ se rawaaṅ ashk the
+  Haram-e-Shaah ke sabhi sar khule
+  Zabaaṅ par meri fughaaṅ thi yehi
+  Chali qalb par mere ye chhuri
+  Laiṅ le rahe the Zainab ka naam
 
   3
   Mera ghar luta mera dar luta
-  Huwe qatl sab padar bhi mera
+  Hue qatl sab padar bhi mera
   Mere tifl bhi rahe tashnalab
-  Hua qaid bhi sabhi be-sabab
-  Chini chadarein jale sab qayaam
+  Hua qaid bhi sabhi besabab
+  Chhini chaadareṅ jale sab qayaam
 
   4
-  Jafa par jafa nahi inteha
-  Magar ki nahi kabhi bad'dua
-  Imamat ka ye kathin tha safar
-  Chali betiyan ali ki jidhar
+  Jafa par jafa nahiṅ inteha
+  Magar ki nahiṅ kabhi bad dua
+  Imaamat ka ye kathin tha safar
+  Chali betiyaaṅ Ali ki jidhar
   Chale saath mein sitamgar tamaam
 
   5
-  Karun kya bayan mai wo sakhtiyan
-  Sar e raah thi sabhi bibiyan
+  Karuṅ kya bayaaṅ main wo sakhtiyaaṅ
+  Sar-e-raah thi sabhi Bibiyaaṅ
   Isi dard se phata hai jigar
   Ali ke haram rahe nauhagar
-  Sitam ke nahi kahin ikhtetaam
+  Sitam ke nahiṅ kahiṅ ikhtitaam
 
   6
   Abhi tak mujhe wo sab yaad hai
-  Dayaar e sitam haram jab gaye
-  Saron par wahan barasne lage
-  Kahin sang aur kahin kehkahe
-  Bhulaya gaya nahi wo maqaam
+  Diyaar-e-sitam haram jab gaye
+  Saroṅ par wahaaṅ barasne lage
+  Kahiṅ sang aur kahiṅ qahqahe
+  Bhulaaya gaya nahiṅ wo maqaam
 
   7
-  Ye nauha nahi ye hai marsiya
-  Hassan kis tarha bayan ho bhala
-  Qalam bhi mera tadapne laga
-  Hui zapt ki yahan inteha
-  Chala kanton par wo mera imam
+  Ye nauha nahiṅ ye hai marsiya
+  Hasan kis tarah bayaaṅ ho bhala
+  Qalam bhi mera tarapne laga
+  Hui zabt ki yahaaṅ inteha
+  Chala kaaṅtoṅ par wo mera Imaam
+reciter: Aqif Hussain
 # source_id: nohayonline:24aa5bc5af58520c592c
 # source_url: https://www.nohayonline.com/details_content.php?id=1477
 # raw_sha256: 580ca19fc02ae2df25045f1b82e14d7caf7891eafa9e9b77610a420c69ae4a35
 ---
 بعد عاشور جو کیا ہم پہ ستم
 کربلا سے کوفہ و شام بے مقنہ و چادر
-رسیوں میں ہے جکڑے لے گےء شام
-ہاے شام ہاے شام
+رسیوں میں ہے جکڑے لے گئے شام
+ہائے شام ہائے شام
 کربلا سے شام کربلا سے شام
 
 ۱
 جیا جب تلک وہ بیکس امام
 یہی تھی فغاں لبوں پر مدام
 نہیں بھولوں گا کبھی راہ شام
-لعینوں کا تھا جہاں اژدھام
+لعینوں کا تھا جہاں ازدحام
 کھلے سر جہاں حرم تھے تمام
 
 ۲
@@ -90,7 +91,7 @@ romanLyrics: |-
 
 ۳
 میرا گھر لٹا میرا در لٹا
-ہوے قتل سب پدر بھی میرا
+ہوئے قتل سب پدر بھی میرا
 میرے طفل بھی رہے تشنہ لب
 ہوا قید بھی سبھی بے سبب
 چھنی چادریں جلے سب قیام
@@ -104,14 +105,14 @@ romanLyrics: |-
 
 ۵
 کروں کیا بیاں میں وہ سختیاں
-سر راہ تھی سبھی بی بیاں
+سر راہ تھی سبھی بی‌بیاں
 اسی درد سے پھٹا ہے جگر
 علی کے حرم رہے نوحہ گر
 ستم کے نہیں کہیں اختتام
 
 ۶
 ابھی تک مجھے وہ سب یاد ہے
-دیار ستم حرم جب گےء
+دیار ستم حرم جب گئے
 سروں پر وہاں برسنے لگے
 کہیں سنگ اور کہیں قہقہے
 بھلایا گیا نہیں وہ مقام
@@ -120,5 +121,5 @@ romanLyrics: |-
 یہ نوحہ نہیں یہ ہے مرثیہ
 حسن کس طرح بیاں ہو بھلا
 قلم بھی میرا تڑپنے لگا
-ہوی ضبط کی یہاں انتہا
+ہوئی ضبط کی یہاں انتہا
 چلا کانٹوں پر وہ میرا امام

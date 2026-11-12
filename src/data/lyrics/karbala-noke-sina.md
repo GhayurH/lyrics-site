@@ -1,5 +1,5 @@
 ---
-title: "کربلا نوکِ سناں سے یہ خبر لای ہے"
+title: "کربلا نوکِ سناں سے یہ خبر لائی ہے"
 alternateTitle: "Karbala Noke Sina"
 language: "Urdu"
 lang: "ur"
@@ -10,46 +10,47 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Karbala noke sina se ye khabar laayi hai
+  Karbala nok-e-sinaaṅ se ye khabar laayi hai
   Zindagi maut ki sehra se guzar aayi hai
 
   1
-  Ek chiraaghe shabe ashoor ne gul ho kar bhi
+  Ek chiraagh-e-shab-e-Aashur ne gul ho kar bhi
   Farsh se arsh talak roshni phailayi hai
 
   2
-  Ishqe shabbir mein behne ke liye nehre furaat
-  Hum azadaron ki aankhon mein simat aayi hai
+  Ishq-e-Shabbir mein behne ke liye nehr-e-Furaat
+  Hum azaadaaroṅ ki aankhoṅ mein simat aayi hai
 
   3
-  Hum ko imraad e dil o jaan ka koi khauf nahi
-  Hum ne roohon ke maseeha se shifa paayi hai
+  Hum ko imraad-e-dil o jaaṅ ka koi khauf nahiṅ
+  Hum ne ruhoṅ ke masiha se shifa paayi hai
 
   4
-  Apne haathon se banayege muqaddar apna
-  Hum ne shabbir ke matam ki qasam khaayi hai
+  Apne haathoṅ se banaaeṅ ge muqaddar apna
+  Hum ne Shabbir ke maatam ki qasam khaayi hai
 
   5
-  Lag gayi kya ali akbar ke kaleje pe sina
-  Sar khule binte ali ghar se nikal aayi hai
+  Lag gayi kya Ali Akbar ke kaleje pe sinaaṅ
+  Sar khule bint-e-Ali ghar se nikal aayi hai
 
   6
-  Chaa gaye shaam e ghariban ke andhere ban mein
-  Aale ahmed pe qayamat ki ghadi aayi hai
+  Chhaa gaye Shaam-e-Gharibaaṅ ke andhere ban mein
+  Aal-e-Ahmad pe qayaamat ki ghari aayi hai
 
   7
-  Aa ke abbas ke marqad pe kaha zainab ne
-  Utho abbas e dilawar ke behen aayi hai
+  Aa ke Abbas ke marqad pe kaha Zainab ne
+  Utho Abbas dilaawar ke behen aayi hai
 
   8
-  Har zamane ne ye tasleem kiya hai gohar
-  Karbala waqt ki sab se badi sachayi hai
+  Har zamaane ne ye taslim kiya hai Gohar
+  Karbala waqt ki sab se bari sachchaayi hai
+reciter: Tableegh e Imamia
 # source_id: nohayonline:56fe6772ec6b2ebda339
 # source_url: https://www.nohayonline.com/details_content.php?id=3455
 # raw_sha256: 7420efe8f331dbdc950f38ff6fd9e1a6f4a547a8baee6de2d3fbe75745fe0b01
 ---
-کربلا نوکِ سناں سے یہ خبر لای ہے
-زندگی موت کی سحر سے گزر آی ہے
+کربلا نوکِ سناں سے یہ خبر لائی ہے
+زندگی موت کی سحر سے گزر آئی ہے
 
 ۱
 ایک چراغ شب عاشور نے گل ہو کر بھی
@@ -64,21 +65,21 @@ romanLyrics: |-
 ہم نے روحوں کے مسیحا سے شفا پائی ہے
 
 ۴
-اپنے ہاتھوں سے بنائنگے مقدر اپنا
-ہم‌ نے شبیر کے ماتم کی قسم کھائی ہے
+اپنے ہاتھوں سے بنائیں گے مقدر اپنا
+ہم نے شبیر کے ماتم کی قسم کھائی ہے
 
 ۵
-لگ گیء کیا علی اکبر کے کلیجے پہ سناں
-سر کھلے بنت علی گھر سے نکل آی ہے
+لگ گئی کیا علی اکبر کے کلیجے پہ سناں
+سر کھلے بنتِ علی گھر سے نکل آئی ہے
 
 ۶
-چھا گےء شام غریباں کے اندھیرے بن میں
-آل احمد پہ قیامت کی گھڑی آی ہے
+چھا گئے شامِ غریباں کے اندھیرے بن میں
+آلِ احمد پہ قیامت کی گھڑی آئی ہے
 
 ۷
 آ کے عباس کے مرقد پہ کہا زینب نے
-اٹھو عباس دلاور کہ بہن آی ہے
+اٹھو عباس دلاور کہ بہن آئی ہے
 
 ۸
-ہر زمانے ‌نے یہ تسلیم کیا ہے گوہر
+ہر زمانے نے یہ تسلیم کیا ہے گوہر
 کربلا وقت کی سب سے بڑی سچائی ہے
