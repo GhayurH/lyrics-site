@@ -1,37 +1,38 @@
 ---
 title: "جو دل غمِ شبیر میں مغموم بہت ہیں"
-alternateTitle: "Jo Dil Ghame Shabbir"
+alternateTitle: "Jo Dil Gham-e-Shabbir"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
+reciter: "Tableegh e Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jo dil ghame shabbir mein maghmoom bahot hai
-  Goya wo khareebe shahe mazloom bahot hai
+  Jo dil gham-e-Shabbir meiṅ maghmum bahut haiṅ
+  Goya wo qarib-e-Shaah-e-mazlum bahut haiṅ
 
   1
-  Be hubbe ali zikr namazon ka na chedo
-  Aisi to namaze hamein maloom bahot hai
+  Be hubb-e-Ali zikr namaazoṅ ka na chhero
+  Aisi to namaazeṅ hameiṅ maalum bahut haiṅ
 
   2
-  Hairaan hoo ke asghar ki hasi kaise bayan ho
-  Us mauje tabassum ke to mafhoom bahot hai
+  Hairaaṅ huṅ ke Asghar ki haṅsi kaise bayaaṅ ho
+  Us mauj-e-tabassum ke to mafhum bahut haiṅ
 
   3
-  Haasil hai abhi sab kahan daulat e daarein
-  Shabbir ke gham se abhi mehroom bahot hai
+  Haasil hai abhi sab ko kahaaṅ daulat-e-daarain
+  Shabbir ke gham se abhi mehrum bahut haiṅ
 
   4
-  Pur soz hai lekin ghame shabbir ki roodaad
-  Afsane to yun dard ke markhoom bahot hai
+  Pur soz hai lekin gham-e-Shabbir ki rudaad
+  Afsaane to yuṅ dard ke marqum bahut haiṅ
 
   5
-  Baade shahe mazloom sabhi gham mein hai lekin
-  Ek bali sakina hai ke maghmoom bahot hai
+  Baad-e-Shaah-e-mazlum sabhi gham meiṅ haiṅ lekin
+  Ik baali Sakina hai ke maghmum bahut hai
 # source_id: nohayonline:e0bae111c3044b6eee62
 # source_url: https://www.nohayonline.com/details_content.php?id=636
 # raw_sha256: d08090ca1ad8470a3b76439775805807d94f48325b89e8d0ac6c8f37767d53bc
