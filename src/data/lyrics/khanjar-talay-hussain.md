@@ -1,41 +1,42 @@
 ---
 title: "خنجر تلے حُسین ہے تیروں کی جھڑی ہے"
-alternateTitle: "Khanjar Talay Hussain"
+alternateTitle: "Khanjar Tale Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Khanjar talay hussain hai teeron ki jhadi hai
-  Aisi namaz kisne zamane may padi hai
-  
+  Khanjar tale Husain hai tiroṅ ki jhari hai
+  Aisi namaaz kis ne zamaane mein parhi hai
+
   1
-  Wo hai hussain khoon se jisne wuzu kiya
-  Teeron ki janamaz pe al-ham ki di sadaa
-  Sajde ko dekh maut bhi hairaan khadi hai
-  
+  Wo hai Husain khun se jis ne wuzu kiya
+  Tiroṅ ki jaanamaaz pe al-ham ki di sada
+  Sajde ko dekh maut bhi hairaan khari hai
+
   2
-  Noke sina pe jisne quran sunaya
-  Ud ud ke garam rayt ne kafan uska banaya
-  Halqe bureeda laash jo maqtal may padi hai
-  
+  Nok-e-sinaaṅ pe jis ne Quraan sunaaya
+  Ur ur ke garm ret ne kafan us ka banaaya
+  Halq-e-burida laash jo maqtal mein pari hai
+
   3
-  Seene may barchi haath may hai laal ka jigar
-  Shabbir ka jigar hai ye shabbir ka pisar
-  Seene may jiske barchi zaalim ne gadi hai
-  
+  Sine mein barchhi haath mein hai laal ka jigar
+  Shabbir ka jigar hai ye Shabbir ka pisar
+  Sine mein jis ke barchhi zaalim ne gari hai
+
   4
-  Apne hi garm khoon may tadpe ali akbar
-  Tha teer galay may rahe haste ali asghar
-  Ye fauj e hussaini hi karbal may ladi hai
-  
+  Apne hi garm khun mein tarpe Ali Akbar
+  Tha tir gale mein rahe haṅste Ali Asghar
+  Ye fauj-e-Husaini hi Karbal mein lari hai
+
   5
-  Deen ki bina hai sajda haider ke pisar ka
-  Hai de raha gawahi ye waqt asr ka
-  Bikhra hai laasha ban may aur dhoop kadi hai
+  Din ki bina hai sajda Haidar ke pisar ka
+  Hai de raha gawaahi ye waqt asr ka
+  Bikhra hai laasha ban mein aur dhup kari hai
 # source_id: nohayonline:61676e8e3da88c34cdff
 # source_url: https://www.nohayonline.com/details_content.php?id=597
 # raw_sha256: 4d190239852596d422462d8f8308315964844e8c9088ccd0db26e344900d21fe
@@ -52,7 +53,7 @@ romanLyrics: |-
 ۲
 نوکِ سِناں پہ جس نے قرآن سُنایا
 اُڑ اُڑ کے گرم ریت نے کفن اُس کا بنایا
-حلقِ بریدہ لاش جومقتل میں پڑی ہے
+حلقِ بریدہ لاش جو مقتل میں پڑی ہے
 
 ۳
 سینے میں برچھی ہاتھ میں ہے لال کا جگر
@@ -66,5 +67,5 @@ romanLyrics: |-
 
 ۵
 دین کی بنا ہے سجدہ حیدر کے پسر کا
-ہے دے رہا گواہ ہی یہ وقت عصر کا
+ہے دے رہا گواہی یہ وقت عصر کا
 بکھرا ہے لاشہ بن میں اور دھوپ کڑی ہے

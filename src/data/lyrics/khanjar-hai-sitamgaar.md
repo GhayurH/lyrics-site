@@ -5,33 +5,34 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Anj. Masoomeen"
 poet: "Parvez"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Khanjar hai sitamgaar ka pyase ka gala hai
-  Zainab ghareeb dasht mein mashgool e buka hai
+  Khanjar hai sitamgaar ka pyaase ka gala hai
+  Zainab gharib dasht mein mashghul-e-buka hai
 
   1
-  Sar nange nabi zaadiyan darbar saja hai
-  Afsos musalman badi sharm ki jaa hai
+  Sar nange Nabi zaadiyaaṅ darbaar saja hai
+  Afsos Musalmaan bari sharm ki jaa hai
 
   2
-  Rehne do sar e zainab e muztar pe ye chadar
-  Kuch sharm karo saani e zehra ki rida hai
+  Rehne do sar-e-Zainab-e-muztar pe ye chaadar
+  Kuchh sharm karo saani-e-Zehra ki rida hai
 
   3
-  Maqtal mein shahe deen ka dil ho gaya tukde
-  Naiza jo jawan laal ke seene mein dhasa hai
+  Maqtal mein Shaah-e-din ka dil ho gaya tukre
+  Neza jo jawaaṅ laal ke sine mein dhansa hai
 
   4
-  Ghar baar diya shaah ne sar ko bhi kataya
-  Kul ambiya jo kar na sake wo sheh ne kiya hai
+  Ghar baar diya Shaah ne sar ko bhi kataaya
+  Kul ambiya jo kar na sake wo Shah ne kiya hai
 
   5
-  Ye khoon e hussain ibne ali ka hai maujiza
-  Parvez suno haq ki azaano mein sada hai
+  Ye khun-e-Husain ibn-e-Ali ka hai maujiza
+  Parvez suno haq ki azaanoṅ mein sada hai
 # source_id: nohayonline:28be3430494462092f0e
 # source_url: https://www.nohayonline.com/details_content.php?id=1770
 # raw_sha256: 179773144c3057e1aa78799aa69ff2ef84a6a87ece545075b70e3d9f648c6aa8
@@ -45,14 +46,14 @@ romanLyrics: |-
 
 ۲
 رہنے دو سر زینب مضطر پہ یہ چادر
-کچھ شرم کرو ثانیء زہرا کی ردا ہے
+کچھ شرم کرو ثانیِ زہرا کی ردا ہے
 
 ۳
 مقتل میں شہ دین کا دل ہو گیا ٹکڑے
 نیزہ جو جواں لال کے سینے میں دھنسا ہے
 
 ۴
-گھر بار دیا شاہ نے سر کو بھی کٹاے
+گھر بار دیا شاہ نے سر کو بھی کٹایا
 کل انبیاء جو کر نہ سکے وہ شہ نے کیا ہے
 
 ۵
