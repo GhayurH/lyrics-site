@@ -1,54 +1,55 @@
 ---
-title: "کہاں ہو ماں صداییں دے رہی ہے اے علی اصغر"
+title: "کہاں ہو ماں صدائیں دے رہی ہے اے علی اصغر"
 alternateTitle: "Kahan Ho Maa Sadaye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zafar Abbas"
+reciter: "Muslim Jafri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kahan ho maa sadayein de rahi hai ay ali asghar
-  Tumhe dashte bala may dhoondti hai ay ali asghar
+  Kahaṅ ho maaṅ sadaaeṅ de rahi hai ae Ali Asghar
+  Tumheṅ Dasht-e-Bala mein dhundti hai ae Ali Asghar
 
   1
-  Mere noore nazar ay jaane maadar aa gaya pani
-  Tumhe bhi to bala ki tashnagi hai ay ali asghar
+  Mere nur-e-nazar ae jaan-e-maadar aa gaya paani
+  Tumheṅ bhi to bala ki tashnagi hai ae Ali Asghar
 
   2
-  Tumhara khaali jhoola sab ko qaimon may rulaata hai
-  Tumhe kho kar sakina ro rahi hai ay ali asghar
+  Tumhaara khaali jhula sab ko khaimoṅ mein rulaata hai
+  Tumheṅ kho kar Sakina ro rahi hai ae Ali Asghar
 
   3
-  Mere qaime may ay beta tumhare dam se raunak thi
-  Tumhare baad ab veraangi hai ay ali asghar
+  Mere khaime mein ae beta tumhaare dam se raunaq hai
+  Tumhaare baad ab viraangi hai ae Ali Asghar
 
   4
-  Chidakte kis tarha pani kahan se phool hum laate
-  Tumhari qabr ashkon se saji hai ay ali asghar
+  Chhirakte kis tarah paani kahaṅ se phul ham laate
+  Tumhaari qabr ashkoṅ se saji hai ae Ali Asghar
 
   5
-  Na apni zindagi may mai kabhi saaye may baithungi
-  Ye waada kar ke ab maa jaa rahi hai ay ali asghar
+  Na apni zindagi mein main kabhi saaye mein baithuṅgi
+  Ye waada kar ke ab maaṅ jaa rahi hai ae Ali Asghar
 
   6
-  Kabhi pyasi sakina ko koi deta hai gar pani
-  Tumhe bali sakina poochti hai ay ali asghar
+  Kabhi pyaasi Sakina ko koi deta hai gar paani
+  Tumheṅ baali Sakina puchhti hai ae Ali Asghar
 
   7
-  Zafar raahon may kehti thi yehi umme rubab aksar
-  Tumhare baad kaisi zindagi hai ay ali asghar
+  Zafar raahoṅ mein kehti thi yehi Umm-e-Rubaab aksar
+  Tumhaare baad kaisi zindagi hai ae Ali Asghar
 # source_id: nohayonline:dc1139cbd8e2182f004f
 # source_url: https://www.nohayonline.com/details_content.php?id=1685
 # raw_sha256: a0e73f5bd6cbb012092ed9a3944b16477456351792fd71fbbf4ad4f8d8b0a3ca
 ---
-کہاں ہو ماں صداییں دے رہی ہے اے علی اصغر
+کہاں ہو ماں صدائیں دے رہی ہے اے علی اصغر
 تمہیں دشت بلا میں ڈھونڈتی ہے اے علی اصغر
 
 ۱
-میرے نورِ نظر اے جانے مادر آ گیا پانی
+میرے نورِ نظر اے جانِ مادر آ گیا پانی
 تمہیں بھی تو بلا کی تشنگی ہے اے علی اصغر
 
 ۲
@@ -64,7 +65,7 @@ romanLyrics: |-
 تمہاری قبر اشکوں سے سجی ہے اے علی اصغر
 
 ۵
-نہ اپنی زندگی میں میں کبھی ساے میں بیٹھونگی
+نہ اپنی زندگی میں میں کبھی سائے میں بیٹھوں گی
 یہ وعدہ کر کے اب ماں جا رہی ہے اے علی اصغر
 
 ۶
@@ -72,5 +73,5 @@ romanLyrics: |-
 تمہیں بالی سکینہ پوچھتی ہے اے علی اصغر
 
 ۷
-ظفر راہوں میں کہتی تھی یہی ام رباب اکثر
+ظفر راہوں میں کہتی تھی یہی امِ رباب اکثر
 تمہارے بعد کیسی زندگی ہے اے علی اصغر
