@@ -6,40 +6,41 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Asif Akhter Zaidi"
+reciter: "Ali Zia Rizvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Karbala mein roze ashoora fiza tehri rahi
-  Wo tashnalab ka maujiza tehri rahi
+  Karbala mein roz-e-Aashura faza thehri rahi
+  Wo tishna lab ka maujiza thehri rahi
 
   1
-  Uske daaman mein na jane saaniha kya hogaya
-  Aalame sakta mein nehre alqama tehri rahi
+  Us ke daaman mein na jaane saaniha kya ho gaya
+  Aalam-e-sakta mein nehr-e-Alqama thehri rahi
 
   2
-  Aagaye mashk-o-alam to qaimagah e shaah mein
-  Door saahil par bapa koi fiza tehri rahi
+  Aa gaye mashk o alam to khaimagaah-e-Shaah mein
+  Dur saahil par bapa koi faza thehri rahi
 
   3
-  Maa phuphi to aagayi ibne hassan ki laash par
-  Fatema sughra bapa bande haya tehri rahi
+  Maaṅ phuphi to aa gayi Ibn-e-Hasan ki laash par
+  Fatema Sughra bapa band-e-haya thehri rahi
 
   4
-  Kya zamane mein koi is tarha ki bewa bhi hai
-  Haath mein kangan nahi tehre hina tehri rahi
+  Kya zamaane mein koi is tarah ki bewa bhi hai
+  Haath mein kangan nahiṅ thehre hina thehri rahi
 
   5
-  Zaalimo ne sar se zainab ke rida to cheen li
-  Haan magar tatheer ki munsif rida tehri rahi
+  Zaalimoṅ ne sar se Zainab ke rida to chhin li
+  Haaṅ magar tathir ki munsif rida thehri rahi
 
   6
-  Aagayi qaime mein wapas sheh ke kehne se rabab
-  Dayr tak qaime ke dar par maa udaas tehri rahi
+  Aa gayi khaime mein waapas Shah ke kehne se Rabaab
+  Der tak khaime ke dar par maaṅ udaas thehri rahi
 
   7
-  Taaziye uthe alam uthe utha farshe aza
-  Jis jagah majlis bapa thi fatema tehri rahi
+  Taaziye uthe alam uthe utha farsh-e-aza
+  Jis jagah majlis bapa thi Fatema thehri rahi
 # source_id: nohayonline:0b58eab1499857479d43
 # source_url: https://www.nohayonline.com/details_content.php?id=236
 # raw_sha256: 8f9f0c9e1527bfe78843e2744e0bfcc12544c491d77a1f3d05a89e790d61ac2e
@@ -48,16 +49,16 @@ romanLyrics: |-
 وہ تشنہ لب کا معجزہ ٹھہری رہی
 
 ۱
-اس کے دامن میں نہ جانہ سانحہ کیا ہو گیا
+اس کے دامن میں نہ جانے سانحہ کیا ہو گیا
 عالم سکتہ میں ہر عالقامہ ٹھہری رہی
 
 ۲
-آگئے مشک و علم تو خیمہ گاہ شاہ میں
+آ گئے مشک و علم تو خیمہ گاہ شاہ میں
 دور ساحل پر بپا کوئی فضا ٹھہری رہی
 
 ۳
-ماں پھوپھی تو آگئی ابن حسن کی لاش پر
-فاطمہ کبٰری وہاں بند حیا ٹھہری رہی
+ماں پھوپھی تو آ گئی ابن حسن کی لاش پر
+فاطمہ کبریٰ وہاں بند حیا ٹھہری رہی
 
 ۴
 کیا زمانے میں کوئی اس طرح کی بیوہ بھی ہے
@@ -68,7 +69,7 @@ romanLyrics: |-
 ہاں مگر تطہیر کی منصف ردا ٹھہری رہی
 
 ۶
-آگئی خیمے میں واپس شہہ کے کہنے سے رباب
+آ گئی خیمے میں واپس شہہ کے کہنے سے رباب
 دیر تک خیمے کے در پر ماں اداس ٹھہری رہی
 
 ۷

@@ -5,124 +5,125 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Safdar Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Salaam karbala
-  Khuda ne kun jo kaha to kayenat bani
+  Salaam Karbala
+  Khuda ne kun jo kaha to kaainaat bani
   Jo din to khalq kiya to din se raat bani
-  Ye chand taare ye suraj ye do jahan bane
-  Zameen bichayi gayi saaton aasman bane
-  Bashar banaye gaye khaak se ba hukme khuda
-  Inhi bashar mein huwe khalq khaas ahle aza
-  Janabe fatema zehra ki ye dua se bane
-  Karam hussain ka tha khaake karbala se bane
-  Phir us khuda ne har ek ka chaman qaraar diya
-  Har ek zameen ko kisi ka watan qaraar diya
-  To karbala ko hamara watan qaraar diya
-  Poocha jahan ne jab naam o pata
-  Har matami ka yehi tha sukhan
-  Karbala karbala mera watan
+  Ye chaand taare ye suraj ye do jahaan bane
+  Zamiṅ bichhaayi gayi saatoṅ aasmaan bane
+  Bashar banaaye gaye khaak se ba hukm-e-Khuda
+  Inhiṅ bashar mein hue khalq khaas ahl-e-aza
+  Janaab-e-Fatema Zehra ki ye dua se bane
+  Karam Husain ka tha khaak-e-Karbala se bane
+  Phir us Khuda ne har ek ka chaman qaraar diya
+  Har ek zamiṅ ko kisi ka watan qaraar diya
+  To Karbala ko hamaara watan qaraar diya
+  Puchha jahaan ne jab naam o pata
+  Har maatami ka yehi tha sukhan
+  Karbala Karbala mera watan
 
   1
-  Rab ne hi kaun o makan ko sajaya
-  Us ne hi dono jahan ko basaya
-  Hum ko hai nisbat karbobala se
-  Hum ko isi mitti se banaya
-  Saari daleelein paas hai jab
-  Phir mujhko kehne mein kya uljhan
+  Rab ne hi kaun o makaaṅ ko sajaaya
+  Us ne hi donoṅ jahaaṅ ko basaaya
+  Hum ko hai nisbat Karbobala se
+  Hum ko isi mitti se banaaya
+  Saari dalileṅ paas hai jab
+  Phir mujh ko kehne mein kya uljhan
 
   2
   Karbobala pehchaan hai meri
   Karbobala se hi shaan hai meri
-  Karbobala meri rooh ke andar
+  Karbobala meri ruh ke andar
   Karbobala mein hi jaan hai meri
-  Mere watan ke misaal nahi
-  Nazaan hai is par sharq e kohan
+  Mere watan ki misaal nahiṅ
+  Naazaaṅ hai is par charkh-e-kuhan
 
   3
-  Mera watan hai zameen auliya ki
-  Mera watan hai zameen ausiya ki
-  Ye bhi to faqr hai mere watan ka
-  Mera watan hai zameen ambiya ki
-  Deen o shariyat ki hai amaan
-  Deene khuda ka yehi hai chaman
+  Mera watan hai zamiṅ auliya ki
+  Mera watan hai zamiṅ ausiya ki
+  Ye bhi to fakhr hai mere watan ka
+  Mera watan hai zamiṅ ambiya ki
+  Din o shariat ki hai amaan
+  Din-e-Khuda ka yehi hai chaman
 
   4
   Mere watan ka ajab maujiza hai
-  Khaak bhi iski khaak e shifa hai
-  Ye darsagaah e sabr o raza hai
-  Is ki hawa mein khushboo e wafa hai
+  Khaak bhi is ki khaak-e-shifa hai
+  Ye darsgaah sabr o raza hai
+  Is ki hawa mein khushbu-e-wafa hai
   Sabr o raza ka wafa ka yehi
-  Roze ajal se raha maskan
+  Roz-e-azal se raha maskan
 
   5
   Zehra ke bete se pehle jo pahuncha
-  Pesh e mohamed sar ko jhukaya
-  Khuld e bari ki sanad tujhe de di
-  Hurr se mohamed ne farmeina
-  Hurr ne kaha mai rahunga wahin
-  Ay mera aaqa rasool e zaman
+  Pesh-e-Muhammad sar ko jhukaaya
+  Khuld-e-bariṅ ki sanad tujhe de di
+  Hur se Muhammad ne farmaaya
+  Hur ne kaha main rahuṅ ga wahiṅ
+  Ae mera aaqa Rasul-e-zaman
 
   6
-  Karbobala hi naseeb hai mera
-  Karbobala mein habeeb hai mera
+  Karbobala hi nasib hai mera
+  Karbobala mein Habib hai mera
   Karbobala mere gham ki dawa hai
-  Karbobala mein tabeeb hai mera
-  Chaahe kahin pe bhi aaye khaza
+  Karbobala mein tabib hai mera
+  Chaahe kahiṅ pe bhi aaye qaza
   Karbobala mein ho mera madfan
 
   7
-  Haa ye zameen badi moatabar hai
-  Chaand sitaron ki raah guzar hai
-  Husn yahin se hai shams o qamar ka
-  Sajdagaah e dil shams o qamar hai
-  Hai kehkashano ka naaz yehi
-  Khuld e bari ka yehi hai sahan
+  Haaṅ ye zamiṅ bari motabar hai
+  Chaand sitaaroṅ ki raah guzar hai
+  Husn yahiṅ se hai shams o qamar ka
+  Sajdagaah dil shams o qamar hai
+  Hai kehkashaanoṅ ka naaz yehi
+  Khuld-e-bariṅ ka yehi hai sehan
 
   8
-  Haan ye zameen hai dil zainab ka
-  Is pe kiya sajjad ne sajda
-  Yehi zameen hai rasool ki masnad
-  Hai ye zameen zehra ka musalla
-  Jee nahi lagta aur kahin
-  Bole ali se imame hassan
+  Haaṅ ye zamin hai dil Zainab ka
+  Is pe kiya Sajjad ne sajda
+  Yehi zamiṅ hai Rasul ki masnad
+  Haaṅ ye zamin Zehra ka musalla
+  Ji nahiṅ lagta aur kahiṅ
+  Bole Ali se Imaam-e-Hasan
 
   9
-  Khaak yahin ki rida e haram hai
-  Qalb e sakina ka marham hai
-  Laasha e asghar is ne chupaya
-  Seene mein iske sabhi ka gham hai
-  Bhai mera sota hai yahan
-  Kehti thi ro ke ghareeb behan
+  Khaak yahiṅ ki rida-e-haram hai
+  Qalb-e-Sakina ka marham hai
+  Laasha-e-Asghar is ne chhupaaya
+  Sine mein is ke sabhi ka gham hai
+  Bhaai mera sota hai yahaaṅ
+  Kehti thi ro ke gharib behan
 
   10
-  Seene mein is ke hai laashe bahattar
-  Hai ye zameen gehwara e asghar
-  Chod ke qabr yahin rehti hai
-  Mehwe buka shabbir ki maadar
-  Khoone shaheedan ki hai ameen
-  Saare shaheeedon ka hai kafan
+  Sine mein is ke hai laasheṅ bahattar
+  Hai ye zamiṅ gehwaara-e-Asghar
+  Chhor ke qabr yahiṅ rehti hai
+  Mahw-e-buka Shabbir ki maadar
+  Khun-e-shahidaaṅ ki hai amin
+  Saare shahidoṅ ka hai kafan
 
   11
   Karbobala se hai izzat o shohrat
-  Karbobala se hai meri fasahath
-  Ahle aza ke dilon ki sada hai
-  Karbobala hi hamari hai jannat
-  Hai mera ishq yehi safdar
-  Is pe fida mera tan mann dhan
+  Karbobala se hai meri fasaahat
+  Ahl-e-aza ke diloṅ ki sada hai
+  Karbobala hi hamaari hai jannat
+  Hai mera ishq yehi Safdar
+  Is pe fida mera tan man dhan
 # source_id: nohayonline:2162d7f827e35b729a3b
 # source_url: https://www.nohayonline.com/details_content.php?id=2277
 # raw_sha256: e1fc0e5155c4d969ca9c5d1bb5cde550e54c85c477f1af792dac14bbd3cb7522
 ---
 سلام کربلا
-خدا نے کن جو کہا تو کاینات بنی
+خدا نے کن جو کہا تو کائنات بنی
 جو دن تو خلق کیا تو دن سے رات بنی
 یہ چاند تارے یہ سورج یہ دو جہان بنے
-زمیں بچھای گیء ساتوں آسمان بنے
-بشر بناے گےء خاک سے بہ حکم خدا
-انہیں بشر میں ہوے خلق خاص اہلِ عزا
+زمیں بچھائی گئی ساتوں آسمان بنے
+بشر بنائے گئے خاک سے بہ حکم خدا
+انہیں بشر میں ہوئے خلق خاص اہلِ عزا
 جنابِ فاطمہ زہرا کی یہ دعا سے بنے
 کرم حسین کا تھا خاک کربلا سے بنے
 پھر اس خدا نے ہر اک کا چمن قرار دیا
@@ -138,7 +139,7 @@ romanLyrics: |-
 ہم کو ہے نسبت کربوبلا سے
 ہم کو اسی مٹی سے بنایا
 ساری دلیلیں پاس ہے جب
-پھر مجھکو کہنے میں کیا الجھن
+پھر مجھ کو کہنے میں کیا الجھن
 
 ۲
 کربوبلا پہچان ہے میری
@@ -153,23 +154,23 @@ romanLyrics: |-
 میرا وطن ہے زمیں اوصیاء کی
 یہ بھی تو فخر ہے میرے وطن کا
 میرا وطن ہے زمیں انبیاء کی
-دین و شریعت کی ہے عماں
+دین و شریعت کی ہے اماں
 دین خدا کا یہی ہے چمن
 
 ۴
 میرے وطن کا عجب معجزہ ہے
-خاک بھی اسکی خاک شفا ہے
+خاک بھی اس کی خاک شفا ہے
 یہ درسگاہ صبر و رضا ہے
-اس کی ہوا میں خوشبوے وفا ہے
+اس کی ہوا میں خوشبوئے وفا ہے
 صبر و رضا کا وفا کا یہی
-روز اذل سے رہا مسکن
+روز ازل سے رہا مسکن
 
 ۵
 زہرا کے بیٹے سے پہلے جو پہنچا
 پیش محمد سر کو جھکایا
 خلد بریں کی سند تجھے دے دی
 حر سے محمد نے فرمایا
-حر نے کیا میں رہوں گا وہی
+حر نے کہا میں رہوں گا وہیں
 اے میرا آقا رسولِ زمن
 
 ۶
@@ -177,7 +178,7 @@ romanLyrics: |-
 کربوبلا میں حبیب ہے میرا
 کربوبلا میرے غم کی دوا ہے
 کربوبلا میں طبیب ہے میرا
-چاہے کہیں پہ بھی آے قضاء
+چاہے کہیں پہ بھی آئے قضا
 کربوبلا میں ہو میرا مدفن
 
 ۷
@@ -186,7 +187,7 @@ romanLyrics: |-
 حسن یہیں سے ہے شمس و قمر کا
 سجدگاہ دل شمس و قمر ہے
 ہے کہکشانوں کا ناز یہی
-خلد بریں کا یہی ہے سحن
+خلد بریں کا یہی ہے صحن
 
 ۸
 ہاں یہ زمین ہے دل زینب کا
@@ -197,11 +198,11 @@ romanLyrics: |-
 بولے علی سے امام حسن
 
 ۹
-خاک یہی کی رداے حرم ہے
-قلب سکینہ کا مرحم ہے
+خاک یہی کی ردائے حرم ہے
+قلب سکینہ کا مرہم ہے
 لاشہء اصغر اس نے چھپایا
 سینے میں اس کے سبھی کا غم ہے
-بھای میرا سوتا ہے یہاں
+بھائی میرا سوتا ہے یہاں
 کہتی تھی رو کے غریب بہن
 
 ۱۰
@@ -214,7 +215,7 @@ romanLyrics: |-
 
 ۱۱
 کربوبلا سے ہے عزت و شہرت
-کربوبلا سے ہے میری فساہت
+کربوبلا سے ہے میری فصاحت
 اہلِ عزا کے دلوں کی صدا ہے
 کربوبلا ہی ہماری ہے جنت
 ہے میرا عشق یہی صفدر
