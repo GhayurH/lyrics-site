@@ -1,69 +1,70 @@
 ---
 title: "کہتے تھے شاہ اے علی اکبر کہاں ہو تم"
-alternateTitle: "Kehte Thay Shaah"
+alternateTitle: "Kehte The Shaah Ae Ali Akbar Kahaaṅ Ho Tum"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Aseem Lakhnavi"
+reciter: "Afzal Mirza"
 tags: ["noImage"]
-aliases: []
+aliases: ["Kehte Thay Shaah"]
 published: false
 romanLyrics: |-
-  Kehte thay shaah ay ali akbar kahan ho tum
-  Ay mere laal ay mere dilbar kahan ho tum
+  Kehte the Shaah ae Ali Akbar kahaaṅ ho tum
+  Ae mere laal ae mere dilbar kahaaṅ ho tum
 
   1
-  Apne zaeef baap ki aa kar madad karo
-  Ghere huwe hai shaam ka lashkar kahan ho tum
+  Apne zaif baap ki aa kar madad karo
+  Ghere hue hai Shaam ka lashkar kahaaṅ ho tum
 
   2
-  Awaaz de rahe hai pisar ko shah e huda
-  Ay naujawan shabihe payambar kahan ho tum
+  Aawaaz de rahe haiṅ pisar ko Shah-e-Huda
+  Ae naujawaaṅ shabih-e-Payambar kahaaṅ ho tum
 
   3
-  Qaime ke dar pa aas lagaye khadi hai maa
-  Veeran ho gaya hai bhara ghar kahan ho tum
+  Khaime ke dar pe aas lagaaye khari hai maaṅ
+  Wiraan ho gaya hai bhara ghar kahaaṅ ho tum
 
   4
-  Ro ro ke keh rahi hai ye zainab jawab do
-  Qaime jala rahe hai sitamgar kahan ho tum
+  Ro ro ke keh rahi hai ye Zainab jawaab do
+  Khaime jala rahe hai sitamgar kahaaṅ ho tum
 
   5
-  Laila ke dil ko kaun sambhale mere pisar
-  Dar dar phira rahe hai sitamgar kahan ho tum
+  Laila ke dil ko kaun sambhaale mere pisar
+  Dar dar phira rahe haiṅ sitamgar kahaaṅ ho tum
 
   6
-  Jab se gaye ho tum dil e maadar udaas hai
-  Aankhon ka noor ay ali akbar kahan ho tum
+  Jab se gaye ho tum dil-e-maadar udaas hai
+  Aankhoṅ ka nur ae Ali Akbar kahaaṅ ho tum
 
   7
-  Baithi hui hoo moo ko chipaye zameen par
-  Aade ne cheen li meri chadar kahan ho tum
+  Baithi hui huṅ munh ko chhupaaye zamin par
+  Aada ne chhin li meri chaadar kahaaṅ ho tum
 
   8
-  Ab shaam ho rahi hai sakina ki lo khabar
-  Ay naujawan hussain ke dilbar kahan ho tum
+  Ab Shaam ho rahi hai Sakina ki lo khabar
+  Ae naujawaaṅ Husain ke dilbar kahaaṅ ho tum
 
   9
-  Hum ghir chuke hai nargha e aada mein ay pisar
-  Durre laga rahe hai sitamgar kahan ho tum
+  Ham ghir chuke haiṅ nargha-e-aada mein ae pisar
+  Durre laga rahe haiṅ sitamgar kahaaṅ ho tum
 
   10
-  Tooti hui kamar ko sambhalo hussain ki
-  Kehti hai ro ke zainab e muztar kahan ho tum
+  Tuti hui kamar ko sambhaalo Husain ki
+  Kehti hai ro ke Zainab-e-muztar kahaaṅ ho tum
 
   11
-  Laila ki aarzoo hai ek baar dekh loo
-  Hamshakle mustafa ali akbar kahan ho tum
+  Laila ki aarzu hai ik baar dekh lo
+  Hamshakl-e-Mustafa Ali Akbar kahaaṅ ho tum
 
   12
-  Sheh ke galay pa shimr ka khanjar ghazab hua
-  Aayi sada ke ay ali akbar kahan ho tum
+  Shah ke gale pe Shimr ka khanjar ghazab hua
+  Aai sada ke ae Ali Akbar kahaaṅ ho tum
 
   13
-  Ahle haram mein hashr bapa hogaya aseem
-  Sarwar ne jab kaha ali akbar kahan ho tum
+  Ahl-e-haram mein hashr bapa ho gaya Asim
+  Sarwar ne jab kaha Ali Akbar kahaaṅ ho tum
 # source_id: nohayonline:f54b52efd703f9e1ecfa
 # source_url: https://www.nohayonline.com/details_content.php?id=1875
 # raw_sha256: a8acddafdeeaa5577fe24fd5f798c3566756ce2493b6b0d50b209c6297434907
@@ -73,14 +74,14 @@ romanLyrics: |-
 
 ۱
 اپنے ضعیف باپ کی آ کر مدد کرو
-گھیرے ہوے ہے شام کا لشکر کہاں ہو تم
+گھیرے ہوئے ہے شام کا لشکر کہاں ہو تم
 
 ۲
-آواز دے رہے ہیں پسر کو شہ ہدا
-اے نوجواں شبیہ پیمبر کہاں ہو تم
+آواز دے رہے ہیں پسر کو شہِ ہدیٰ
+اے نوجواں شبیہِ پیمبر کہاں ہو تم
 
 ۳
-خیمے کے در پہ آس لگاے کھڑی ہے ماں
+خیمے کے در پہ آس لگائے کھڑی ہے ماں
 ویران ہو گیا ہے بھرا گھر کہاں ہو تم
 
 ۴
@@ -92,11 +93,11 @@ romanLyrics: |-
 در در پھرا رہے ہیں ستمگر کہاں ہو تم
 
 ۶
-جب سے گےء ہو تم دل مادر اداس ہے
+جب سے گئے ہو تم دلِ مادر اداس ہے
 آنکھوں کا نور اے علی اکبر کہاں ہو تم
 
 ۷
-بیٹھی ہوی ہوں منہ کو چھپائے زمین پر
+بیٹھی ہوئی ہوں منہ کو چھپائے زمین پر
 اعدا نے چھین لی میری چادر کہاں ہو تم
 
 ۸
@@ -104,20 +105,20 @@ romanLyrics: |-
 اے نوجواں حسین کے دلبر کہاں ہو تم
 
 ۹
-ہم گھر چکے ہیں نرغہء اعدا میں اے پسر
-درے لگا رہے ہیں ستمگر کہاں ہو تم
+ہم گھِر چکے ہیں نرغۂ اعدا میں اے پسر
+درّے لگا رہے ہیں ستمگر کہاں ہو تم
 
 ۱۰
-ٹوٹی ہوی کمر کو سنبھالو حسین کی
-کہتی ہے رو کے زینب مضطر کہاں ہو تم
+ٹوٹی ہوئی کمر کو سنبھالو حسین کی
+کہتی ہے رو کے زینبِ مضطر کہاں ہو تم
 
 ۱۱
 لیلیٰ کی آرزو ہے اک بار دیکھ لو
-ہمشکل مصطفیٰ علی اکبر کہاں ہو تم
+ہمشکلِ مصطفیٰ علی اکبر کہاں ہو تم
 
 ۱۲
 شہ کے گلے پہ شمر کا خنجر غضب ہوا
-آی صدا کے اے علی اکبر کہاں ہو تم
+آئی صدا کہ اے علی اکبر کہاں ہو تم
 
 ۱۳
 اہلِ حرم میں حشر بپا ہو گیا اسیم
