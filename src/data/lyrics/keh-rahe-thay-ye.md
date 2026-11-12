@@ -1,68 +1,68 @@
 ---
 title: "کہہ رہے تھے یہ سرور خط لکھا ہے صغرا نے"
-alternateTitle: "Keh Rahe Thay Ye"
+alternateTitle: "Keh Rahe The Ye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ishrat Lakhnavi"
+reciter: "Dilawar Hasan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Keh rahe thay ye sarwar khat likha hai sughra ne
-  Ay jamaal e paigambar khat likha hai sughra ne
-  Tumko ay ali akbar khat likha hai sughra ne
-  
+  Keh rahe the ye Sarwar khat likha hai Sughra ne
+  Ae jamaal-e-Paigambar khat likha hai Sughra ne
+  Tum ko ae Ali Akbar khat likha hai Sughra ne
+
   1
-  Kehna ye sakina se kab palat ke aaogi
-  Apni mohini surat kab hamein dikhaogi
-  Tumko ay ali akbar khat likha hai sughra ne
-  
+  Kehna ye Sakina se kab palat ke aaogi
+  Apni mohini surat kab hameiṅ dikhaaogi
+  Tum ko ae Ali Akbar khat likha hai Sughra ne
+
   2
-  Tum hamari jaanib se pyar karna asghar ko
-  Jab palat ke ghar aana saath laana asghar ko
-  Tumko ay ali akbar khat likha hai sughra ne
-  
+  Tum hamaari jaanib se pyaar karna Asghar ko
+  Jab palat ke ghar aana saath laana Asghar ko
+  Tum ko ae Ali Akbar khat likha hai Sughra ne
+
   3
-  Mustaqil madine ki das rahi hai tanhaai
-  Jald aao ay bhai jald aao ay bhai
-  Tumko ay ali akbar khat likha hai sughra ne
-  
+  Mustaqil Madine ki das rahi hai tanhaai
+  Jald aao ae bhaai jald aao ae bhaai
+  Tum ko ae Ali Akbar khat likha hai Sughra ne
+
   4
-  Ab to chal raha ho ga ghutniyo mera asghar
-  Khairiyat sakina ki khat mein bhej do likh kar
-  Tumko ay ali akbar khat likha hai sughra ne
-  
+  Ab to chal raha ho ga ghutniyoṅ mera Asghar
+  Khairiyat Sakina ki khat mein bhej do likh kar
+  Tum ko ae Ali Akbar khat likha hai Sughra ne
+
   5
-  Khatm jab hui tehreer keh rahe thay ye sarwar
-  Ab hamari gardan par hoga shimr ka khanjar
-  Tumko fatema sughra kya jawab mein likhun
-  
+  Khatm jab hui tahrir keh rahe the ye Sarwar
+  Ab hamaari gardan par hoga Shimr ka khanjar
+  Tum ko Fatima Sughra kya jawaab mein likhuṅ
+
   6
-  Barchiyon se chalni hai seena e ali akbar
-  Hurmula ke naawak se mar gaya mera asghar
-  Tumko fatema sughra kya jawab mein likhun
-  
+  Barchhiyoṅ se chhalni hai sina-e-Ali Akbar
+  Hurmula ke naawak se mar gaya mera Asghar
+  Tum ko Fatima Sughra kya jawaab mein likhuṅ
+
   7
-  Ek din ki byahi ka ran mein mar gaya shauhar
-  Mera quwwat e baazu so raha hai darya par
-  Tumko fatema sughra kya jawab mein likhun
-  
+  Ik din ki byaahi ka ran mein mar gaya shauhar
+  Mera quwwat-e-baazu so raha hai darya par
+  Tum ko Fatima Sughra kya jawaab mein likhuṅ
+
   8
-  Jab na ran mein hum honge berida haram honge
-  Karbala se kufe tak mustaqil sitam honge
-  Tumko fatema sughra kya jawab mein likhun
-  
+  Jab na ran mein hum hoṅge berida haram hoṅge
+  Karbala se Kufe tak mustaqil sitam hoṅge
+  Tum ko Fatima Sughra kya jawaab mein likhuṅ
+
   9
-  Bekasi e sarwar ko kya bayan kare ishrat
-  Ghair hoti jaati thi kehke shaah ki haalat
-  Tumko fatema sughra kya jawab mein likhun
+  Bekasi-e-Sarwar ko kya bayaaṅ kare Ishrat
+  Ghair hoti jaati thi kehke Shaah ki haalat
+  Tum ko Fatima Sughra kya jawaab mein likhuṅ
 # source_id: nohayonline:05392f0a4d7cc0771a62
 # source_url: https://www.nohayonline.com/details_content.php?id=1352
 # raw_sha256: 8298129fdaf6ac10e5a1fcad9becc4cfba532061bdd97a1cbabfc9961e75f104
 ---
-
 کہہ رہے تھے یہ سرور خط لکھا ہے صغرا نے
 اے جمال پیغمبر خط لکھا ہے صغرا نے
 تم کو اے علی اکبر خط لکھا ہے صغرا نے
@@ -79,7 +79,7 @@ romanLyrics: |-
 
 ۳
 مستقل مدینے کی ڈس رہی ہے تنہائی
-جلد آؤ اے بھای جلد آؤ اے بھای
+جلد آؤ اے بھائی جلد آؤ اے بھائی
 تم کو اے علی اکبر خط لکھا ہے صغرا نے
 
 ۴
@@ -88,7 +88,7 @@ romanLyrics: |-
 تم کو اے علی اکبر خط لکھا ہے صغرا نے
 
 ۵
-ختم جب ہوی تحریر کہہ رہے تھے یہ سرور
+ختم جب ہوئی تحریر کہہ رہے تھے یہ سرور
 اب ہماری گردن پر ہوگا شمر کا خنجر
 تم کو فاطمہ صغریٰ کیا جواب میں لکھوں
 
@@ -99,15 +99,15 @@ romanLyrics: |-
 
 ۷
 اک دن کی بیاہی کا رن میں مر گیا شوہر
-میرا قوت بازو سو رہا ہے دریا پر
+میرا قوتِ بازو سو رہا ہے دریا پر
 تم کو فاطمہ صغریٰ کیا جواب میں لکھوں
 
 ۸
-جب نہ رن میں ہم ہونگے بے ردا حرم ہونگے
-کربلا سے کوفے تک مستقل ستم ہونگے
+جب نہ رن میں ہم ہوں گے بے ردا حرم ہوں گے
+کربلا سے کوفے تک مستقل ستم ہوں گے
 تم کو فاطمہ صغریٰ کیا جواب میں لکھوں
 
 ۹
-بے کسی سرور کو کیا بیاں کرے عشرت
+بے کسیِ سرور کو کیا بیاں کرے عشرت
 غیر ہوتی جاتی تھی کہکے شاہ کی حالت
 تم کو فاطمہ صغریٰ کیا جواب میں لکھوں
