@@ -1,73 +1,76 @@
 ---
 title: "تھا رن میں شہ کا یہ نوحہ میرے علی اکبر"
-alternateTitle: "Hussain Hogaye Tanha"
+alternateTitle: "Husain Ho Gaye Tanha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Raza Ali Sohail"
+reciter: "Hadi Ali Khan Muslim"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Tha ran mein sheh ka ye nauha mere ali akbar
-  Hussain ho gaya tanha mere ali akbar
-  Jo ran se akbar e mehroo ki sheh ko pahunchi sada
-  Zaeef baap ne haathon se dil ko thaam liya
-  Yeh keh ke rukh kiya phir shaah e deen ne maidan ka
-  Sada do mujhko ay beta mere ali akbar
+  Tha ran mein Shah ka ye nauha mere Ali Akbar
+  Husain ho gaya tanha mere Ali Akbar
+
+  Jo ran se Akbar-e-mahru ki Shah ko pahunchi sada
+  Zaif baap ne haathoṅ se dil ko thaam liya
+  Ye keh ke rukh kiya phir Shaah-e-diṅ ne maidaaṅ ka
+  Sada do mujh ko ae beta mere Ali Akbar
 
   1
-  Har ek gaam pa ruk ruk ke haath malte thay
-  Kabhi sambhalte thay girte thay phir sambhalte thay
-  Sada ye dethe huwe ran ki simt chalte thay
-  Dikhayi kuch nahi deta mere ali akbar
+  Har ek gaam pe ruk ruk ke haath malte the
+  Kabhi sambhalte the girte the phir sambhalte the
+  Sada ye dete hue ran ki simt chalte the
+  Dikhaayi kuch nahiṅ deta mere Ali Akbar
 
   2
-  Pahunch ke ran mein jo dekha wo khoon bhara manzar
-  Gira ke shaah ne khud ko jawan ke laashe par
+  Pahunch ke ran mein jo dekha wo khuṅ bhara manzar
+  Gira ke Shaah ne khud ko jawaaṅ ke laashe par
   Kaha ye kaisi qayamat guzar gayi dilbar
-  Tha maa ne is liye paala mere ali akbar
+  Tha maaṅ ne is liye paala mere Ali Akbar
 
   3
   Jise thi aarzu dekhegi wo tera sehra
-  Bhala wo dekhegi kaise ye khoon bhara chehra
-  Jigar ka zakhm jo dekhegi ghamzada laila
-  Na jee sakegi wo dukhiya mere ali akbar
+  Bhala wo dekhegi kaise ye khuṅ bhara chehra
+  Jigar ka zakhm jo dekhegi ghamzada Laila
+  Na ji sakegi wo dukhiya mere Ali Akbar
 
   4
-  Hussain laaye jo qaime mein laasha e akbar
-  Madad ko pahunchi jo bhai ki zainab e muztar
-  Jawan ke khoon se sab tar ba tar hui chadar
-  Pukari jee ke karun kya mere ali akbar
+  Husain laaye jo khaime mein laasha-e-Akbar
+  Madad ko pahunchi jo bhaai ki Zainab-e-muztar
+  Jawaaṅ ke khun se sab tar ba tar hui chaadar
+  Pukaari ji ke karuṅ kya mere Ali Akbar
 
   5
-  Rehaai jab hui zindan se aale athar ki
-  Khabar madina mein pahunchi jo qatl e akbar ki
-  Sohail hil gayi sun ke lahad payambar ki
-  Pukari ro ke ye sughra mere ali akbar
+  Rihaai jab hui zindaaṅ se Aal-e-Athar ki
+  Khabar Madina mein pahunchi jo qatl-e-Akbar ki
+  Sohail hil gayi sun ke lahad-e-Payambar ki
+  Pukaari ro ke ye Sughra mere Ali Akbar
 # source_id: nohayonline:8fd2c1f18303d3fd5eea
 # source_url: https://www.nohayonline.com/details_content.php?id=1965
 # raw_sha256: dd091560d4e0f0ba35a711d5829f50114475f81eab51c326aa173b74b4063a48
 ---
 تھا رن میں شہ کا یہ نوحہ میرے علی اکبر
 حسین ہو گیا تنہا میرے علی اکبر
+
 جو رن سے اکبر مہرو کی شہ کو پہنچی صدا
 ضعیف باپ نے ہاتھوں سے دل کو تھام لیا
-یہ کہکے رخ کیا پھر شاہ دیں نے میداں کا
-صدا دو مجھکو اے بیٹا میرے علی اکبر
+یہ کہہ کے رخ کیا پھر شاہ دیں نے میداں کا
+صدا دو مجھ کو اے بیٹا میرے علی اکبر
 
 ۱
 ہر ایک گام پہ رک رک کے ہاتھ ملتے تھے
 کبھی سنبھلتے تھے گرتے تھے پھر سنبھلتے تھے
-صدا یہ دیتے ہوے رن کی سمت چلتے تھے
+صدا یہ دیتے ہوئے رن کی سمت چلتے تھے
 دکھائی کچھ نہیں دیتا میرے علی اکبر
 
 ۲
 پہنچ کے رن میں جو دیکھا وہ خوں بھرا منظر
 گرا کے شاہ نے خود کو جواں کے لاشے پر
 کہا یہ کیسی قیامت گزر گئی دلبر
-تھا ماں نے اس لیئے پالا میرے علی اکبر
+تھا ماں نے اس لیے پالا میرے علی اکبر
 
 ۳
 جسے تھی آرزو دیکھے گی وہ تیرا سہرا
@@ -76,13 +79,13 @@ romanLyrics: |-
 نہ جی سکے گی وہ دکھیا میرے علی اکبر
 
 ۴
-حسین لاے جو خیمے میں لاشہء اکبر
-مدد کو پہنچی جو بھای کی زینب مضطر
-جواں کے خون سے سب تر بہ تر ہوی چادر
+حسین لائے جو خیمے میں لاشۂ اکبر
+مدد کو پہنچی جو بھائی کی زینب مضطر
+جواں کے خون سے سب تر بہ تر ہوئی چادر
 پکاری جی کے کروں کیا میرے علی اکبر
 
 ۵
-رہائی جب ہوی زنداں سے آل اطہر کی
+رہائی جب ہوئی زنداں سے آل اطہر کی
 خبر مدینہ میں پہنچی جو قتل اکبر کی
-سہیل ہل گیء سن کے لحد پیمبر کی
+سہیل ہل گئی سن کے لحد پیمبر کی
 پکاری رو کے یہ صغرا میرے علی اکبر

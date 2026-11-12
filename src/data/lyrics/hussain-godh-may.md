@@ -1,45 +1,46 @@
 ---
 title: "حسین گود میں لاشہ پسر جو لاتے ہیں"
-alternateTitle: "Hussain Godh May"
+alternateTitle: "Husain God Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Abid Jafri"
+reciter: "Mukhtar Husain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hussain godh may laashe pisar jo laate hai
-  Wo baar hoo hai ke har gaam dagmagate hai
+  Husain god mein laasha-e-pisar jo laate haiṅ
+  Wo baar ho hai ke har gaam dagmagaate haiṅ
 
   1
-  Nikaalte hai pisar ke galay se teer e sitam
-  Ye sheh karaamat e sabr o riza dikhate hai
+  Nikaalte haiṅ pisar ke gale se tir-e-sitam
+  Ye Shah karaamat-e-sabr o riza dikhaate haiṅ
 
   2
-  Hussain chehra e aqdas tarz e noke charagh
-  Lahoo se asghar e masoom ke jalate hai
+  Husain chehra-e-aqdas tarz-e-nok-e-charaagh
+  Lahu se Asghar-e-maasum ke jalaate haiṅ
 
   3
-  Ye tifle khaana e zehra hai ispe hairat kya
-  Galay pe teer lagay phir bhi muskurate hai
+  Ye tifl-e-khaana-e-Zehra hai is pe hairat kya
+  Gale pe tir lage phir bhi muskuraate haiṅ
 
   4
-  Lagi hai qaime ke dar par rubab ki nazrein
-  Ke sab sagheer ko le kar hussain aate hai
+  Lagi hai khaime ke dar par Rubaab ki nazreṅ
+  Ke sab saghir ko le kar Husain aate haiṅ
 
   5
-  Chida hua hai gala phir bhi farte ulfat se
-  Hussain laal ko apne galay lagate hai
+  Chhida hua hai gala phir bhi fart-e-ulfat se
+  Husain laal ko apne gale lagaate haiṅ
 
   6
-  Lagaye maa hai kaleje se laashe asghar ko
-  Hussain rayt pe nanhi lehad banate hai
+  Lagaaye maaṅ hai kaleje se laasha-e-Asghar ko
+  Husain ret pe nanhi lahad banaate haiṅ
 
   7
-  Jawab karz hai abid ye fauje aada par
-  Ke cheh mahine ke bache bhi teer khaate hai
+  Jawaab qarz hai Abid ye fauj-e-aada par
+  Ke chhe mahine ke bachche bhi tir khaate haiṅ
 # source_id: nohayonline:bf9bdb63526f96d58778
 # source_url: https://www.nohayonline.com/details_content.php?id=1428
 # raw_sha256: d8854655977cd280532ea8a31d79caf5a6f8326292f98b7644c05840fc55e7e1
@@ -68,7 +69,7 @@ romanLyrics: |-
 حسین لال کو اپنے گلے لگاتے ہیں
 
 ۶
-لگاے ماں ہے کلیجے سے لاشہء اصغر
+لگائے ماں ہے کلیجے سے لاشۂ اصغر
 حسین ریت پہ ننھی لحد بناتے ہیں
 
 ۷
