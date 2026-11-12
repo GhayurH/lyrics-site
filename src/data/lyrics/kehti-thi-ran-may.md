@@ -1,118 +1,119 @@
 ---
 title: "کہتی تھی رن میں آکے سکینہ جواب دو"
-alternateTitle: "Kehti Thi Ran May"
+alternateTitle: "Kehti Thi Ran Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Noha"
+kalamType: "Marsiya"
+reciter: "Mir Momin Ali Qaisar"
 tags: ["noImage"]
-aliases: []
+aliases: ["Kehti Thi Ran May"]
 published: false
 romanLyrics: |-
-  Kehti thi ran may aake sakina jawab do
-  Jaane nabi-o-fatema zehra jawab do
+  Kehti thi ran mein aa ke Sakina jawaab do
+  Jaan-e-Nabi o Fatema Zehra jawaab do
 
   1
-  Kyun so rahe ho khaak pa tanha jawab do
-  Aayi hoo tum ko dhoondne is jaa jawab do
-  Marti hoo gham se mere maseeha jawab do
-  Baba jawab do mere baba jawab do
+  Kiuṅ so rahe ho khaak pe tanha jawaab do
+  Aayi huṅ tum ko dhundne is jaa jawaab do
+  Marti huṅ gham se mere Masiha jawaab do
+  Baaba jawaab do mere Baaba jawaab do
 
   2
-  Zakhmi huwe hai kaan mere chin gaye gohar
-  Kis se kahun ke zakhmon may hai dard beshtar
-  Faryaad tumse karne mai aayi hoo ay pidar
-  Hai khaabile mulaheza ye haal sar basar
-  Dekho ye khoon bhara huwa kurta jawab do
-  Baba jawab do mere baba jawab do
+  Zakhmi hue haiṅ kaan mere chhin gaye gauhar
+  Kis se kahuṅ ke zakhmoṅ mein hai dard beshtar
+  Faryaad tum se karne main aayi huṅ ae pidar
+  Hai qaabil-e-mulaahiza ye haal sar basar
+  Dekho ye khuṅ bhara hua kurta jawaab do
+  Baaba jawaab do mere Baaba jawaab do
 
   3
-  Qaidi bana ke shaam ko le jaate hai hame
-  Pursa nahi hai koi ke kuch inse hum kahe
-  Faryad ghamzadon ki na hazrat bhi gar sune
-  Kab tak in aafaton may rahe aah kya kare
-  Kya keh rahi hoo sayyed-e-waala jawab do
-  Baba jawab do mere baba jawab do
+  Qaidi bana ke Shaam ko le jaate haiṅ hameiṅ
+  Pursa nahiṅ hai koi ke kuchh in se ham kaheiṅ
+  Faryaad ghamzadoṅ ki na Hazrat bhi gar sune
+  Kab tak in aafatoṅ mein raheiṅ aah kya kare
+  Kya keh rahi huṅ Sayyid-e-waala jawaab do
+  Baaba jawaab do mere Baaba jawaab do
 
   4
-  Ay jaan-e-fatema-o-paighambar utho utho
-  Ay noor-e-ain faatahe khyber utho utho
-  Dekho aseer ho gayi khwahar utho utho
+  Ae jaan-e-Fatema o Paimbar utho utho
+  Ae nur-e-ain Faatih-e-Khaibar utho utho
+  Dekho asir ho gayi khwaahar utho utho
   Chilla rahi hai aap ki dukhtar utho utho
-  Kya so rahe ho beti ke shaida jawab do
-  Baba jawab do mere baba jawab do
+  Kya so rahe ho beti ke shaida jawaab do
+  Baaba jawaab do mere Baaba jawaab do
 
   5
-  Be-gor kyun pade hai tumhare rafeeq sab
-  Laasha ye jalti reti pe mai dekhti hoon jab
-  Hota hai mere dil pe dubaala gham-o-ta'ab
-  Dafnaata inko koi nahi hai iska kya sabab
-  Kyun be-kafan har ek ka hai laasha jawab do
-  Baba jawab do mere baba jawab do
+  Begor kiuṅ pare haiṅ tumhaare rafiq sab
+  Laasha ye jalti reti pe main dekhti huṅ jab
+  Hota hai mere dil pe dubaala gham o taab
+  Dafnaata in ko koi nahiṅ is ka kya sabab
+  Kiuṅ bekafan har ek ka hai laasha jawaab do
+  Baaba jawaab do mere Baaba jawaab do
 
   6
-  Aati hai daadi jaan ki awaaz yan suno
-  Kis dard se pukarti hai baba jaan suno
-  Karti hai kaisi ranj-o-alam ki bayan suno
-  Kya so rahe ho binte nabi ki fughan suno
-  Kin minnaton se kehti hai zehra jawab do
-  Baba jawab do mere baba jawab do
+  Aati hai daadi jaan ki aawaaz yaaṅ suno
+  Kis dard se pukaarti hai Baaba jaaṅ suno
+  Karti hai kaisi ranj o alam ki bayaaṅ suno
+  Kya so rahe ho bint-e-Nabi ki fughaaṅ suno
+  Kin minnatoṅ se kehti hai Zehra jawaab do
+  Baaba jawaab do mere Baaba jawaab do
 
   7
-  Pooche jo mujhse haal tumhara bayan karun
-  Pyaase shaheed hogaye baba bayan karun
-  Akbar ka maine dekha hai laasha bayan karun
-  Asghar ka sar bhi naize pa dekha bayan karun
-  Kya kehke usko doon mai dilaasa jawab do
-  Baba jawab do mere baba jawab do
+  Puchhe jo mujh se haal tumhaara bayaaṅ karuṅ
+  Pyaase shahid ho gaye Baaba bayaaṅ karuṅ
+  Akbar ka main ne dekha hai laasha bayaaṅ karuṅ
+  Asghar ka sar bhi neze pe dekha bayaaṅ karuṅ
+  Kya keh ke us ko duṅ main dilaasa jawaab do
+  Baaba jawaab do mere Baaba jawaab do
 
   8
-  Rote thay aap mai jo kabhi karti thi fughan
-  Samjhake leke godh may karte thay yun bayan
-  Qurban tere aankhon ke aansu na kar rawan
-  Ab mera rona aur ye gham khaana baba jaan
-  Kyun aap ko huwa hai gawara jawab do
-  Baba jawab do mere baba jawab do
+  Rote the aap main jo kabhi karti thi fughaaṅ
+  Samjha ke le ke god mein karte the yuṅ bayaaṅ
+  Qurbaan tere aankhoṅ ke aansuṅ na kar rawaaṅ
+  Ab mera rona aur ye gham khaana Baaba jaaṅ
+  Kiuṅ aap ko hua hai gawaara jawaab do
+  Baaba jawaab do mere Baaba jawaab do
 
   9
-  Roti thi mai to rehte na thay aap ne manaye
-  Malboos apne haath se aksar mujhe pehnaye
-  Sote na thay baghair mujhe seene par sulaye
-  Ab be-sakina ay shahe abraar haye haye
-  Kaisa qaraar aap ko aaya jawab do
-  Baba jawab do mere baba jawab do
+  Roti thi main to rehte na the aap ne manaaye
+  Malbus apne haath se aksar mujhe pehnaaye
+  Sote na the baghair mujhe sine par sulaaye
+  Ab be Sakina ae Shaah-e-abraar haaye haaye
+  Kaisa qaraar aap ko aaya jawaab do
+  Baaba jawaab do mere Baaba jawaab do
 
   10
-  Paon may chaale aur sehra e khaar daar
-  Be-taakhati piyada ravi jism may buqaar
-  Gir ke zameen pa zauf se uth'ta hai baar baar
-  Us natawan ke haath se khichwate hai mehaar
-  Bete ko tha isi liye paala jawab do
-  Baba jawab do mere baba jawab do
+  Paaoṅ mein chhaale aur sehraa-e-khaar daar
+  Betaaqati piyaada rawi jism mein bukhaar
+  Gir ke zamiṅ pe zaaf se uthta hai baar baar
+  Us naatawaaṅ ke haath se khinchwaate haiṅ mahaar
+  Bete ko tha isi liye paala jawaab do
+  Baaba jawaab do mere Baaba jawaab do
 
   11
-  Mushkil kusha ke pothe ka baazu ho aur rasan
-  Zehra ki betiyon pe ho ye ranj ye mehan
-  Sar par na chadarein ho na burqa na pairahan
-  Bazare shaam aur tamashayi mard o zan
-  Kab tak ye haale zaar rehaga jawab do
-  Baba jawab do mere baba jawab do
+  Mushkil Kusha ke pote ka baazu ho aur rasan
+  Zehra ki betiyoṅ pe ho ye ranj ye mihan
+  Sar par na chaadareiṅ ho na burqa na pairahan
+  Baazaar-e-Shaam aur tamaashaai mard o zan
+  Kab tak ye haal-e-zaar rahe ga jawaab do
+  Baaba jawaab do mere Baaba jawaab do
 
   12
-  Be-aap ke watan ko na le jaaye ab khuda
-  Kya khoob ho jo aaye isi jaa meri qaza
-  Bil farz gar madine may jaana mera hua
-  Kya mai kahun jo poochengi ehwaal aap ka
-  Mujhse kahegi fatema sugra jawab do
-  Baba jawab do mere baba jawab do
+  Be aap ke watan ko na le jaaye ab Khuda
+  Kya khub ho jo aaye isi jaa meri qaza
+  Bilfarz gar Madine mein jaana mera hua
+  Kya main kahuṅ jo puchhe gi ahwaal aap ka
+  Mujh se kahe gi Fatema Sughra jawaab do
+  Baaba jawaab do mere Baaba jawaab do
 
   13
-  Qaabil tera ghulam hai ya shaahe karbala
-  Khaatir se meri aap sunay uski iltejaa
-  Bar aayein jald jald tamaam uske mud'dua
-  Mai poochti hoo uske muradaat sab shaah
-  Kab tak bar aayenge mere aaqa jawab do
-  Baba jawab do mere baba jawab do
+  Qaabil tera ghulaam hai ya Shaah-e-Karbala
+  Khaatir se meri aap sune us ki iltija
+  Bar aayeiṅ jald jald tamaam us ke mud duaa
+  Main puchhti huṅ us ke muraadaat sab Shaah
+  Kab tak bar aayeiṅ ge mere Aaqa jawaab do
+  Baaba jawaab do mere Baaba jawaab do
 # source_id: nohayonline:5a8d89d2683e1deb8bee
 # source_url: https://www.nohayonline.com/content_marsiya.php?id=25
 # raw_sha256: f544e715b06ef44f3d23986514a9c641386c0ef3a01abd4029999d742d40f25a
@@ -123,14 +124,14 @@ romanLyrics: |-
 
 ۱
 کیوں سو رہے ہو خاک پہ تنہا جواب دو
-آی ہوں تم کو ڈھونڈنے اس جا جواب دو
+آئی ہوں تم کو ڈھونڈنے اس جا جواب دو
 مرتی ہوں غم سے میرے مسیحا جواب دو
 بابا جواب دو میرے بابا جواب دو
 
 ۲
-زخمی ہوے ہیں کان میرے چھن گےء گوہر
+زخمی ہوئے ہیں کان میرے چھن گئے گوہر
 کس سے کہوں کہ زخموں میں ہے درد بیشتر
-فریاد تم سے کرنے میں آی ہوں اے پدر
+فریاد تم سے کرنے میں آئی ہوں اے پدر
 ہے قابل ملاحظہ یہ حال سر بسر
 دیکھو یہ خوں بھرا ہوا کرتہ جواب دو
 بابا جواب دو میرے بابا جواب دو
@@ -146,7 +147,7 @@ romanLyrics: |-
 ۴
 اے جانِ فاطمہ و پیمبر اٹھو اٹھو
 اے نور عین فاتح خیبر اٹھو اٹھو
-دیکھو اسیر ہو گیء خواہر اٹھو اٹھو
+دیکھو اسیر ہو گئی خواہر اٹھو اٹھو
 چلا رہی ہے آپ کی دختر اٹھو اٹھو
 کیا سو رہے ہو بیٹی کے شیدا جواب دو
 بابا جواب دو میرے بابا جواب دو
@@ -169,10 +170,10 @@ romanLyrics: |-
 
 ۷
 پوچھے جو مجھ سے حال تمہارا بیاں کروں
-پیاسے شہید ہو گےء بابا بیاں کروں
+پیاسے شہید ہو گئے بابا بیاں کروں
 اکبر کا میں نے دیکھا ہے لاشہ بیاں کروں
 اصغر کا سر بھی نیزے پہ دیکھا بیاں کروں
-کیا کہہ کے اسکو دوں میں دلاسہ جواب دو
+کیا کہہ کے اس کو دوں میں دلاسہ جواب دو
 بابا جواب دو میرے بابا جواب دو
 
 ۸
@@ -184,10 +185,10 @@ romanLyrics: |-
 بابا جواب دو میرے بابا جواب دو
 
 ۹
-روتی تھی میں تو رہتے نہ تھے آپ نے مناے
-ملبوس اپنے ہاتھ سے اکثر مجھے پہناے
-سوتے نہ تھے بغیر مجھے سینے پر سلاے
-اب اے سکینہ اے شہ ابرار ہاے ہاے
+روتی تھی میں تو رہتے نہ تھے آپ نے منائے
+ملبوس اپنے ہاتھ سے اکثر مجھے پہنائے
+سوتے نہ تھے بغیر مجھے سینے پر سلائے
+اب اے سکینہ اے شہ ابرار ہائے ہائے
 کیسا قرار آپ کو آیا جواب دو
 بابا جواب دو میرے بابا جواب دو
 
@@ -196,11 +197,11 @@ romanLyrics: |-
 بے طاقتی پیادہ روی جسم میں بخار
 گر کے زمیں پہ ضعف سے اٹھتا ہے بار بار
 اس ناتواں کے ہاتھ سے کھنچواتے ہیں مہار
-بیٹے کو تھا اسی لیےء پالا جواب دو
+بیٹے کو تھا اسی لیے پالا جواب دو
 بابا جواب دو میرے بابا جواب دو
 
 ۱۱
-مشکل کشاء کے پوتے کا بازو ہو اور رسن
+مشکل کشا کے پوتے کا بازو ہو اور رسن
 زہرا کی بیٹیوں پہ ہو یہ رنج یہ محن
 سر پر نہ چادریں ہو نہ برقع نہ پیرہن
 بازارِ شام اور تماشائی مرد و زن
@@ -208,17 +209,17 @@ romanLyrics: |-
 بابا جواب دو میرے بابا جواب دو
 
 ۱۲
-بے آپ کے وطن کو نہ لے جاے اب خدا
-کیا خوب ہو جو آے اسی جا میری قضاء
-بل فرض گر مدینے میں جانا میرا ہوا
+بے آپ کے وطن کو نہ لے جائے اب خدا
+کیا خوب ہو جو آئے اسی جا میری قضا
+بالفرض گر مدینے میں جانا میرا ہوا
 کیا میں کہوں جو پوچھے گی احوال آپ کا
 مجھ سے کہے گی فاطمہ صغرا جواب دو
 بابا جواب دو میرے بابا جواب دو
 
 ۱۳
 قابل تیرا غلام ہے یا شاہ کربلا
-خاطر سے میری آپ سنے اسکی التجاء
-بر آییں جلد جلد تمام اس کے مد دعا
+خاطر سے میری آپ سنے اس کی التجا
+بر آئیں جلد جلد تمام اس کے مد دعا
 میں پوچھتی ہوں اس کے مرادات سب شاہ
-کب تک بر آیینگے میرے آغا جواب دو
+کب تک بر آئیں گے میرے آغا جواب دو
 بابا جواب دو میرے بابا جواب دو
