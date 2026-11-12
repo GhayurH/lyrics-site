@@ -5,44 +5,45 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
+reciter: "Anj. Sabile Masumeen; Ashraf Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Karbala ke ban mein koi khaafila loota gaya
-  Ay azeezon khandane mustufa loota gaya
+  Karbala ke ban mein koi qaafila luta gaya
+  Ae aziz o khandaan-e-Mustafa luta gaya
 
   1
-  Hoti hai maa ko tamanna naujawan dulha bane
-  Umme laila ka ye armaan bekhata loota gaya
+  Hoti hai maaṅ ko tamanna naujawaaṅ dulha bane
+  Umm-e-Laila ka wo armaaṅ bekhata luta gaya
 
   2
-  Fatema ki betiyon ka aasra abbas thay
-  Zainab o kulsoom ka wo aasra loota gaya
+  Fatima ki betiyoṅ ka aasra Abbas the
+  Zainab o Kulsum ka wo aasra luta gaya
 
   3
-  Asre ashoora ko do bache atash se mar gaye
-  Nehr par pyason ke dil ka muddua loota gaya
+  Asr-e-Ashura ko do bachche aatash se mar gaye
+  Nehr par pyaasoṅ ke dil ka muddaa luta gaya
 
   4
-  Gyarveen shab roshni dekhi to zainab ne kaha
-  Zaalimon lootoge ab kya ghar bhara loota gaya
+  Gyaarahwiṅ shab roshni dekhi to Zainab ne kaha
+  Zaalim luto ge ab kya ghar bhara luta gaya
 
   5
-  Boli sughra bibiyon ki godhiyon ko dekh kar
-  Bibiyon nanha sa wo ghuncha bhi kya loota gaya
+  Boli Sughra Bibiyoṅ ki godiyoṅ ko dekh kar
+  Bibiyoṅ nanha sa wo ghuncha bhi kya luta gaya
 
   6
-  Ya khuda loota na jaye koi kunba is tarha
-  Jis tarha zehra ka kunba jaa baja loota gaya
+  Ya Khuda luta na jaaye koi kunba is tarah
+  Jis tarah Zehra ka kunba jaa bajaa luta gaya
 
   7
-  Shaam ke zindan mein aakar mar gayi binte hussain
-  Maa phupi behno ke dil ka aasra loota gaya
+  Shaam ke zindaan mein aa kar mar gayi bint-e-Husain
+  Maaṅ phuphi behnoṅ ke dil ka aasra luta gaya
 
   8
-  Hulle jannat ke khuda ne bheje jinke waaste
-  Pairahan tak us shahe mazloom ka loota gaya
+  Hulle Jannat ke Khuda ne bheje jin ke waaste
+  Pairahan tak us Shah-e-Mazlum ka luta gaya
 # source_id: nohayonline:d992d72223c8e40f5577
 # source_url: https://www.nohayonline.com/details_content.php?id=711
 # raw_sha256: 67637fa905f036d2d7a7b59c9568676af3606debe141a117b597671e15f335d2
@@ -56,14 +57,14 @@ romanLyrics: |-
 
 ۱
 ہوتی ہے ماں کو تمنّا نوجواں دُلہا بنے
-اُم ِ لیلیٰ کا وہ ارماں بے خطا لُوٹا گیا
+اُمِ لیلیٰ کا وہ ارماں بے خطا لُوٹا گیا
 
 ۲
 فاطمہ کی بیٹیوں کا آسرا عباس تھے
 زینب و کلثوم کا وہ آسرا لُوٹا گیا
 
 ۳
-عصرِعاشورہ کو دو بچے آتش سے مر گئے
+عصرِ عاشورہ کو دو بچے آتش سے مر گئے
 نہر پر پیاسوں کے دل کا مُدعا لُوٹا گیا
 
 ۴

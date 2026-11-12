@@ -1,75 +1,76 @@
 ---
-title: "آ گیء شام غریباں کربلا خاموش ہے"
+title: "آ گئی شام غریباں کربلا خاموش ہے"
 alternateTitle: "Karbala Khamosh Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Tusi"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aagayi shaam e ghariban karbala khamosh hai
-  Hogaya maqtool quran karbala khamosh hai
+  Aa gayi shaam-e-gharibaaṅ Karbala khaamosh hai
+  Ho gaya maqtul Quraaṅ Karbala khaamosh hai
 
   1
-  Fatema ke laadle sab zulm se maare gaye
-  Murtaza ki aankh ke roshan sabhi taare gaye
-  Mushaf e ismat ke jitne thay sabhi paare gaye
-  Hal ata par gham hai taari innama khamosh hai
+  Fatima ke laadle sab zulm se maare gaye
+  Murtaza ki aaṅkh ke roshan sabhi taare gaye
+  Mushaf-e-ismat ke jitne the sabhi paare gaye
+  Hal ataa par gham hai taari innamaa khaamosh hai
 
   2
-  Jal gaye hai saare qaime kya kare saydaniyan
-  Chadarein bhi chin gayi hai kya kare saydaniyan
-  Zulmaton ke bheed mein hai mustafa ki betiyan
-  Chup hai abbas e jari aur alqama khamosh hai
+  Jal gaye haiṅ saare khaime kya kare Sayyidaaniyaaṅ
+  Chaadareṅ bhi chhin gayi hai kya kare Sayyidaaniyaaṅ
+  Zulmatoṅ ke bhir mein hai Mustafa ki betiyaaṅ
+  Chup hai Abbas-e-jari aur Alqama khaamosh hai
 
   3
-  Maadar e baysheer ko zainab sambhale kya kare
-  Godh mein saare yateemon ko uthaale kya kare
-  Abid e muztar ko sholon se nikaale kya kare
-  Ek zainab hai akeli khaafila khamosh hai
+  Maadar-e-beshir ko Zainab sambhaale kya kare
+  God mein saare yatimoṅ ko uthaa le kya kare
+  Aabid-e-muztar ko sholoṅ se nikaale kya kare
+  Ek Zainab hai akeli qaafila khaamosh hai
 
   4
-  Ek taraf qaime jale aur ek taraf masnad jali
-  Har taraf dil ki sada hai ya mohamed ya ali
-  Aise mein zainab bani hai khud hussain ibne ali
-  Azme zainab dekh ke har maujiza khamosh hai
+  Ek taraf khaime jale aur ek taraf masnad jali
+  Har taraf dil ki sadaa hai ya Muhammad ya Ali
+  Aise mein Zainab bani hai khud Husain ibn-e-Ali
+  Bazm-e-Zainab dekh ke har maujiza khaamosh hai
 
   5
-  Mushkilein is raat mein jab mehwe ghairat hogayi
-  Ek phupi aur ek bhatiji kohe ghairat hogayi
-  Har musibat jhel kar faqre mashiyat hogayi
-  Sabr o gham ka is jagah har falsafa khamosh hai
+  Mushkileṅ is raat mein jab mahw-e-ghairat ho gayi
+  Ek phuphi aur ek bhatiji koh-e-ghairat ho gayi
+  Har musibat jhel kar fakhr-e-mashiyyat ho gayi
+  Sabr o gham ka is jagah har falsafa khaamosh hai
 
   6
-  Aakhirash mir e najaf khud bhi ye manzar dekh kar
-  Aagaye karbobala beti ko muztar dekh kar
-  Keh uthi hyder se ye hyder ki dilbar dekh kar
-  Mere baba aap ka har dilruba khamosh hai
+  Aakhirash Mir-e-Najaf khud bhi ye manzar dekh kar
+  Aa gaye Karb o Balaa beti ko muztar dekh kar
+  Keh uthi Haidar se ye Haidar ki dilbar dekh kar
+  Mere baaba aap ka har dilruba khaamosh hai
 
   7
-  Shadman o mir tusi gham ke in halaat mein
-  Aansuon ki dard ki ehsaas ki barsaat mein
-  Tum ko padhna mujhko likha mil gaya khairaat mein
-  Tum ko sun kar dehr ka har khushnawa khamosh hai
+  Shadman o Mir Tusi gham ke in haalat mein
+  Aaṅsuoṅ ki dard ki ehsaas ki barsaat mein
+  Tum ko parhna mujh ko likha mil gaya khairaat mein
+  Tum ko sun kar dehr ka har khushnawa khaamosh hai
 # source_id: nohayonline:ad5bcbbb06ce262dd54b
 # source_url: https://www.nohayonline.com/details_content.php?id=3209
 # raw_sha256: f2caadfd4220b19b1322dd1e7736e847e634c92a8ad91cd0fe5a730a4829a858
 ---
-آ گیء شام غریباں کربلا خاموش ہے
+آ گئی شام غریباں کربلا خاموش ہے
 ہو گیا مقتول قرآں کربلا خاموش ہے
 
 ۱
 فاطمہ کے لاڈلے سب ظلم سے مارے گئے
-مرتظی کی آنکھ کے روشن سبھی تارے گےء
-مصحف عصمت کے جتنے تھے سبھی پارے گےء
-ھل اتیٰ پر غم ہے طاری انما‌ خاموش ہے
+مرتضیٰ کی آنکھ کے روشن سبھی تارے گئے
+مصحف عصمت کے جتنے تھے سبھی پارے گئے
+ہل اتیٰ پر غم ہے طاری انما خاموش ہے
 
 ۲
-جل گےء ہیں سارے خیمے کیا کرے سیدانیاں
-چادریں بھی چھن گیء ہے کیا کرے سیدانیاں
+جل گئے ہیں سارے خیمے کیا کرے سیدانیاں
+چادریں بھی چھن گئی ہے کیا کرے سیدانیاں
 ظلمتوں کے بھیڑ میں ہے مصطفیٰ کی بیٹیاں
 چپ ہے عباس جری اور علقمہ خاموش ہے
 
@@ -86,19 +87,19 @@ romanLyrics: |-
 بزم زینب دیکھ کے ہر معجزہ خاموش ہے
 
 ۵
-مشکلیں اس رات میں جب محو غیرت ہو گیء
-ایک پھپھی اور ایک بھتیجی کوہ غیرت ہو گیء
-ہر مصیبت جھیل کر فخر مشیعت ہو گیء
+مشکلیں اس رات میں جب محو غیرت ہو گئی
+ایک پھپھی اور ایک بھتیجی کوہ غیرت ہو گئی
+ہر مصیبت جھیل کر فخر مشیعت ہو گئی
 صبر و غم کا اس جگہ ہر فلسفہ خاموش ہے
 
 ۶
-آخراش میر نجف خود بھی یہ منظر دیکھ کر
-آ گےء کربوبلا بیٹی کو مضطر دیکھ کر
+آخرش میر نجف خود بھی یہ منظر دیکھ کر
+آ گئے کرب و بلا بیٹی کو مضطر دیکھ کر
 کہہ اٹھی حیدر سے یہ حیدر کی دلبر دیکھ کر
 میرے بابا آپ کا ہر دلربا خاموش ہے
 
 ۷
-شادمان و میر طوسی غم کے ان حالت میں
+شادمان و میر طوسی غم کے ان حالات میں
 آنسوؤں کی درد کی احساس کی برسات میں
-تم کو پڑھنا مجھکو لکھا مل گیا خیرات میں
-تم کو سن کر دہر کا کا ہر خوشنوا خاموش ہے
+تم کو پڑھنا مجھ کو لکھا مل گیا خیرات میں
+تم کو سن کر دہر کا ہر خوشنوا خاموش ہے
