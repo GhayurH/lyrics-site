@@ -1,79 +1,57 @@
 ---
-title: ہوگیء آہ بے پدر زینب
+title: ہو گئیں آہ بے پدر زینبؑ
 alternateTitle: Hogayi Aah Bepidar
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Hogayi aah bepidar zainab
-
+romanLyrics: |-
+  Ho gayiṅ aah bepidar Zainab
+  Kam haiṅ ab royeṅ jis qadar Zainab
 
   1
-
-  Kam hai ab roye jis qadar zainab
-
-  Aaj hai farshe gham pe ahle aza
-
-  Baap ke gham may nauhagar zainab
-
+  Rok le apne aansuoṅ ko zara
+  Ab to rona hai umr bhar Zainab
 
   2
-
   Hil raha hai mazaar roti hai
-
-  Maa ki turbat pe khole sar zainab
-
+  Maaṅ ki turbat pe khole sar Zainab
 
   3
-
-  Rok le aansuon ko apne zara
-
-  Ab to rona hai umr bhai zainab
-
+  Aaj haiṅ farsh-e-gham pe ahl-e-aza
+  Baap ke gham mein nauhagar Zainab
 
   4
-
-  Ibteda hai abhi to kufe may
-
-  Tujhko hona hai dar badar zainab
-
+  Dekhna ek din dikhaayegi
+  Shaam tujh ko yehi sehar Zainab
 
   5
-
-  Dekhna ek din dikhayegi
-
-  Shaam tujhko yehi sehar zainab
-
+  Ibtida hai abhi to Kufe mein
+  Tujh ko hona hai darbadar Zainab
 
   6
-
-  Majma e aam hoga galiyon may
-
-  Aur hogi barehna sar zainab
-
+  Majma-e-aam hoga galiyoṅ mein
+  Aur hogi barehna sar Zainab
 
   7
-
-  Karte hai jis tarha yateem basar
-
-  Ab karo umr yun basar zainab
-
+  Karte haiṅ jis tarah yatim basar
+  Ab karo umr yuṅ basar Zainab
 
   8
-
-  Raunaqein uth rahi hai dunya ki
-
-  Jaa raha hai tera pidar zainab
-
+  Raunaqeṅ uth gayi haiṅ dunya ki
+  Jaa raha hai tera pidar Zainab
 
   9
+  Tere naaloṅ se ho raha hai bapa
+  Ek kohraam farsh par Zainab
 
-  Sayyeda aagayi hai jannat se
-
-  Saara matam kada hai ghar zainab'
+  10
+  Sayyeda aa gayi haiṅ jannat se
+  Saara maatam kada hai ghar Zainab
 # source_id: nohayonline:0a29cd907a5171476218
 # source_url: https://www.nohayonline.com/details_content.php?id=1098
 # raw_sha256: 237bc136492b0815bc3684fc26266a9a63c03037722954a7a9d85c07aaa8caba
@@ -118,5 +96,9 @@ romanLyrics: 'Hogayi aah bepidar zainab
 جا رہا ہے تیرا پدر زینبؑ
 
 ۹
-تیرے نالوں سے ہو رہاہے بپا
+تیرے نالوں سے ہو رہا ہے بپا
 ایک کہرام فرش پر زینبؑ
+
+۱۰
+سیدہ آ گئی ہیں جنت سے
+سارا ماتم کدا ہے گھر زینبؑ
