@@ -1,77 +1,78 @@
 ---
 title: "حسین تم پہ جو ایمان لا نہیں سکتا"
-alternateTitle: "Hussain Tumpe Jo"
+alternateTitle: "Husain Tum Pe Jo"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mujahid Lakhnavi"
+reciter: "Ali Rizvi Sachey"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hussain tum pe jo emaan laa nahi sakta
-  Qasam khuda ki wojannat mein jaa nahi sakta
+  Husain tum pe jo imaan laa nahiṅ sakta
+  Qasam Khuda ki wo jannat mein jaa nahiṅ sakta
 
   1
-  Jo sheh ke naam pe pani pila nahi sakta
-  Khareeb e saahil e kausar wo aa nahi sakta
+  Jo shah ke naam pe paani pila nahiṅ sakta
+  Qarib-e-saahil-e-Kausar wo aa nahiṅ sakta
 
   2
-  Agar hussain ki marzi na ho to sajde se
-  Khuda gawah nabi sar utha nahi sakta
+  Agar Husain ki marzi na ho to sajde se
+  Khuda gawaah Nabi sar utha nahiṅ sakta
 
   3
-  Hazaar le ke alam jaaye koi maidan mein
-  Magar ali ki jo manzil hai paa nahi sakta
+  Hazaar le ke alam jaae koi maidaaṅ mein
+  Magar Ali ki jo manzil hai paa nahiṅ sakta
 
   4
-  Bade bade hai bahadur nabi ke lashkar mein
-  Zara koi dar e khyber hila nahi sakta
+  Bare bare hai bahaadur Nabi ke lashkar mein
+  Zara koi dar-e-Khaibar hila nahiṅ sakta
 
   5
-  Samajh rahe thay payambar bhi jang ki surat
-  Siwa ali ke koi fatha paa nahi sakta
+  Samajh rahe the Payambar bhi jang ki surat
+  Siwa Ali ke koi fath paa nahiṅ sakta
 
   6
-  Zaban pe naade ali aagaya mohamed ke
-  Ke aur koi to bigdi bana nahi sakta
+  Zabaaṅ pe naad-e-Ali aa gaya Muhammad ke
+  Ke aur koi to bigri bana nahiṅ sakta
 
   7
-  Hussain aap ka mil jaaye aastan jis ko
-  Jabeen wo ghair ke dar par jhuka nahi sakta
+  Husain aap ka mil jaae aastaaṅ jis ko
+  Jabiṅ wo ghair ke dar par jhuka nahiṅ sakta
 
   8
-  Bin ziyad pe ilzaam qatle sheh rakh kar
-  Koi yazeed ka daaman bacha nahi sakta
+  Bin Ziyad pe ilzaam qatl-e-shah rakh kar
+  Koi Yazid ka daaman bacha nahiṅ sakta
 
   9
-  Rahega roze abad tak ye majlis o matam
-  Ghame hussain zamana mita nahi sakta
+  Rahega roz-e-abad tak ye majlis o maatam
+  Gham-e-Husain zamaana mita nahiṅ sakta
 
   10
-  Khuda gawah tumhari tarha hussain koi
-  Rahe khuda mein bhara ghar luta nahi sakta
+  Khuda gawaah tumhaari tarah Husain koi
+  Rahe Khuda mein bhara ghar luta nahiṅ sakta
 
   11
-  Mujhe bhi le chalo asghar ke ye ishare thay
-  Mai jang ke liye maqtal mein jaa nahi sakta
+  Mujhe bhi le chalo Asghar ke ye ishaare the
+  Main jang ke liye maqtal mein jaa nahiṅ sakta
 
   12
-  Pidar ke qabze mein ho jiske chashma e kausar
-  Wo pyasi beti ko pani pila nahi sakta
+  Pidar ke qabze mein ho jis ke chashma-e-Kausar
+  Wo pyaasi beti ko paani pila nahiṅ sakta
 
   13
-  Hussain hi ki ye himmat thi warna aur koi
-  Jawan bete ka laasha utha nahi sakta
+  Husain hi ki ye himmat thi warna aur koi
+  Jawaan bete ka laasha utha nahiṅ sakta
 
   14
-  Barehna sar hai behen saamne dam e aakhir
-  Rida bhi uth ke baradar udha nahi sakta
+  Barehna sar hai behen saamne dam-e-aakhir
+  Rida bhi uth ke baraadar urha nahiṅ sakta
 
   15
-  Mujahid apna to emaan hai ghame sarwar
-  Koi hamare qadam dagmaga nahi sakta
+  Mujahid apna to imaan hai gham-e-Sarwar
+  Koi hamaare qadam dagmaga nahiṅ sakta
 # source_id: nohayonline:c266d2e16a23e4c1fa95
 # source_url: https://www.nohayonline.com/details_content.php?id=3686
 # raw_sha256: 64a0d7be494f65fadfc4dfab9df8d639fcb220c95e337a69a4000903fbd32d15
@@ -88,20 +89,20 @@ romanLyrics: |-
 خدا گواہ نبی سر اٹھا نہیں سکتا
 
 ۳
-ہزار لے کے علم جاے کوئی میداں میں
+ہزار لے کے علم جائے کوئی میداں میں
 مگر علی کی جو منزل ہے پا نہیں سکتا
 
 ۴
 بڑے بڑے ہے بہادر نبی کے لشکر میں
-زرا کوی در خیبر ہلا نہیں سکتا
+ذرا کوئی در خیبر ہلا نہیں سکتا
 
 ۵
 سمجھ رہے تھے پیمبر بھی جنگ کی صورت
-سوا علی کے کوی فتح پا نہیں سکتا
+سوا علی کے کوئی فتح پا نہیں سکتا
 
 ۶
 زباں پہ ناد علی آ گیا محمد کے
-کہ اور کوی تو بگڑی بنا نہیں سکتا
+کہ اور کوئی تو بگڑی بنا نہیں سکتا
 
 ۷
 حسین آپ کا مل جائے آستاں جس کو
@@ -109,14 +110,14 @@ romanLyrics: |-
 
 ۸
 بن زیاد پہ الزام قتل شہ رکھ کر
-کوی یزید کا دامن بچا نہیں سکتا
+کوئی یزید کا دامن بچا نہیں سکتا
 
 ۹
 رہے گا روز ابد تک یہ مجلس و ماتم
 غم حسین زمانہ مٹا نہیں سکتا
 
 ۱۰
-خدا گواہ تمہاری طرح حسین کوی
+خدا گواہ تمہاری طرح حسین کوئی
 رہے خدا میں بھرا گھر لٹا نہیں سکتا
 
 ۱۱
@@ -125,10 +126,10 @@ romanLyrics: |-
 
 ۱۲
 پدر کے قبضے میں ہو جس کے چشمۂ کوثر
-وہ پیاسی بیٹی پانی پلا نہیں سکتا
+وہ پیاسی بیٹی کو پانی پلا نہیں سکتا
 
 ۱۳
-حسین ہی کی یہ ہمت تھی ورنہ اور کوی
+حسین ہی کی یہ ہمت تھی ورنہ اور کوئی
 جوان بیٹے کا لاشہ اٹھا نہیں سکتا
 
 ۱۴

@@ -1,59 +1,61 @@
 ---
 title: "حسین تیرے لہو کی خوشبو"
-alternateTitle: "Hussain Tere Lahoo"
+alternateTitle: "Husain Tere Lahu"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hussain tere lahoo ki khushboo
+  Husain tere lahu ki khushbu
   Falak ke daaman se aa rahi hai
-  Ye khoone na-haq chupega kyun kar
-  Jise ye dunya chupa rahi hai
+
+  Ye khun-e-naahaq chhupega kiuṅ kar
+  Jise ye dunya chhupa rahi hai
 
   1
-  Hussain laasha jawan ka le kar
-  Chale hai maqtal se suye qaima
-  Magar zaeefi qadam qadam par
+  Husain laasha jawaaṅ ka le kar
+  Chale haiṅ maqtal se su-e-khaima
+  Magar zaifi qadam qadam par
   Utha rahi hai bitha rahi hai
-  
+
   2
-  Ye kaun hai jiski guftugu mein
+  Ye kaun hai jis ki guftugu mein
   Ali ka lehja jhalak raha hai
-  Ye kaun hai jiske walwalon mein
-  Hussainiyat jagmaga rahi hai
-  
+  Ye kaun hai jis ke walwaloṅ mein
+  Husainiyat jagmaga rahi hai
+
   3
-  Ba-rehna sar hai ali ki beti
-  Magar wohi azmat e mohamed
-  Wo jiski khaatir bhara hua ghar
+  Barehna sar hai Ali ki beti
+  Magar wohi azmat-e-Muhammad
+  Wo jis ki khaatir bhara hua ghar
   Luta ke karbal se aa rahi hai
-  
+
   4
-  Pukari dashte bala mein zainab
-  Kahan ho abbas laut aao
-  Utha ke haathon mein khali kooza
+  Pukaari dasht-e-bala mein Zainab
+  Kahaaṅ ho Abbas laut aao
+  Utha ke haathoṅ mein khaali kuza
   Sakina tum ko bula rahi hai
-  
+
   5
-  Bujha ke paikan se pyaas apni
+  Bujha ke paikaaṅ se pyaas apni
   Tu garam reti pe so raha hai
-  Tujhe khayalon mein ab bhi asghar
-  Rabab jhoola jhula rahi hai
-  
+  Tujhe khayaaloṅ mein ab bhi Asghar
+  Rabab jhula jhula rahi hai
+
   6
-  Dayare shaam o dayare kufa
-  Jo hoke aayi hai binte zehra
+  Dayaar-e-Shaam o dayaar-e-Kufa
+  Jo ho ke aai hai bint-e-Zehra
   Nabi ke rauze pe jaate jaate
-  Nishan rasan ke chupa rahi hai
-  
+  Nishaaṅ rasan ke chhupa rahi hai
+
   7
-  Kahan hai maqtal kahan madina
-  Tadap ke boli ye umme salma
-  Jo ghash se jaagi hai teri sughra
+  Kahaaṅ hai maqtal kahaaṅ Madina
+  Tarap ke boli ye Umm-e-Salma
+  Jo ghash se jaagi hai teri Sughra
   Bas ek nauha suna rahi hai
 # source_id: nohayonline:fa999e59487c5dfcef1b
 # source_url: https://www.nohayonline.com/details_content.php?id=3413
@@ -62,12 +64,13 @@ romanLyrics: |-
 
 حسین تیرے لہو کی خوشبو
 فلک کے دامان سے آ رہی ہے
-یہ خون نا حق چھپے گا کیوں کر
+
+یہ خون ناحق چھپے گا کیوں کر
 جسے یہ دنیا چھپا رہی ہے
 
 ۱
 حسین لاشہ جواں کا لے کر
-چلے ہیں مقتل سے سوے خیمہ
+چلے ہیں مقتل سے سوئے خیمہ
 مگر ضعیفی قدم قدم پر
 اٹھا رہی ہے بٹھا رہی ہے
 
@@ -78,7 +81,7 @@ romanLyrics: |-
 حسینیت جگمگا رہی ہے
 
 ۳
-با رہنا سر ہے علی کی بیٹی
+برہنہ سر ہے علی کی بیٹی
 مگر وہی عظمت محمد
 وہ جس کی خاطر بھرا ہوا گھر
 لٹا کے کربل سے آ رہی ہے
@@ -97,12 +100,12 @@ romanLyrics: |-
 
 ۶
 دیار شام و دیار کوفہ
-جو ہو کے آی ہے بنت زہرا
+جو ہو کے آئی ہے بنت زہرا
 نبی کے روضے پہ جاتے جاتے
 نشاں رسن کے چھپا رہی ہے
 
 ۷
 کہاں ہے مقتل کہاں مدینہ
 تڑپ کے بولی یہ ام سلمہ
-جو غش سے جا گی ہے تیری صغرا
+جو غش سے جاگی ہے تیری صغرا
 بس ایک نوحہ سنا رہی ہے

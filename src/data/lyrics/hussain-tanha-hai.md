@@ -1,62 +1,63 @@
 ---
 title: "بہار سمت سے اہل ستم نے گھیرا ہے"
-alternateTitle: "Hussain Tanha Hai"
+alternateTitle: "Husain Tanha Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Bilal Kazmi"
+reciter: "Irfan Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Bahaar simt se ahle sitam ne ghayra hai
-  Kahan ho ay mere sheron hussain tanha hai
+  Bahaar simt se ahl-e-sitam ne ghera hai
+  Kahaaṅ ho ae mere sheroṅ Husain tanha hai
 
   1
-  Mere rafeeqon madad-gaar ab chale aao
-  Gira hai bekas o gham-khaar ab chale aao
-  Nahi hai koi taraf-daar ab chale aao
+  Mere rafiqoṅ madadgaar ab chale aao
+  Gira hai bekas o ghamkhwaar ab chale aao
+  Nahiṅ hai koi tarafdaar ab chale aao
 
   2
-  Kahan ho mere rafeeqon bula raha hai hussain
-  Ke ab zameen pe ghode se aa raha hai hussain
-  Tumhe ye nauha e hal min suna raha hai hussain
+  Kahaaṅ ho mere rafiqoṅ bula raha hai Husain
+  Ke ab zamiṅ pe ghore se aa raha hai Husain
+  Tumheṅ ye nauha-e-hal min suna raha hai Husain
 
   3
-  Ye bewafai ye ummat ki daastan hai ajeeb
-  Kiya hai dasht mein farzande mustafa ko ghareeb
-  Kahan ho hurr e dilawar kahan ho mere habeeb
+  Ye bewafaai ye ummat ki daastaaṅ hai ajib
+  Kiya hai dasht mein farzand-e-Mustafa ko gharib
+  Kahaaṅ ho Hurr-e-dilaawar kahaaṅ ho mere Habib
 
   4
-  Ye dashte karbobala ye ajal ka sannata
+  Ye dasht-e-Karbobala ye ajal ka sannaata
   Ye bekasi ki ghata aur ye shor lashkar ka
-  Ye rayge garm ye farzande fatema zahra
+  Ye reg-e-garm ye farzand-e-Fatema Zahra
 
   5
-  Kisi ke haaton mein khanjar kisi ke hai bhaale
-  Ye dekho toot pade mujh pa barchiyon waale
-  Suno suno ay mere saathiyon mere naale
+  Kisi ke haathoṅ mein khanjar kisi ke haiṅ bhaale
+  Ye dekho tut pare mujh pe barchiyoṅ wale
+  Suno suno ae mere saathiyoṅ mere naale
 
   6
-  Nahi hai paas e adab kuch sitam ki dunya ko
-  Kiya hai teeron ne behaal ibne zahra ko
-  Sitamgaron ne hai ghayra tumhare aaqa ko
+  Nahiṅ hai paas-e-adab kuchh sitam ki dunya ko
+  Kiya hai tiroṅ ne behaal Ibn-e-Zahra ko
+  Sitamgaaroṅ ne hai ghera tumhaare aaqa ko
 
   7
-  Khabar ye nehr pe jaakar zara sunaye koi
-  Ali ke sher ke shaane zara hilaye koi
-  Mai zibha hota hoo abbas ko bataye koi
+  Khabar ye nehr pe jaa kar zara sunaae koi
+  Ali ke sher ke shaane zara hilaae koi
+  Main zibh hota huṅ Abbas ko bataae koi
 
   8
-  Bilak bilak ke bhatiji tumhari roti hai
+  Bilak bilak ke bhatiji tumhaari roti hai
   Utha hai dard judaai ka jaan khoti hai
-  Bas itna kehdo sakina yateem hoti hai
+  Bas itna keh do Sakina yatim hoti hai
 
   9
-  Likhe jo bain ba-har soorate kamaal likhe
-  Musibaton ki ibadat ghamon ka haal likhe
-  Milay jo aap ka irfan to phir bilal llikhe
+  Likhe jo bain ba har surat-e-kamaal likhe
+  Musibatoṅ ki ibaadat ghamoṅ ka haal likhe
+  Mile jo aap ka irfaan to phir Bilal likhe
 # source_id: nohayonline:91cb03772d4fcc70c710
 # source_url: https://www.nohayonline.com/details_content.php?id=909
 # raw_sha256: 11807cfe7746a72a608a8db95303422065043bda78d52d71a534784adf69471a
@@ -72,10 +73,10 @@ romanLyrics: |-
 ۲
 کہاں ہو میرے رفیقوں بلا رہا ہے حسین
 کہ اب زمیں پہ گھوڑے سے آ رہا ہے حسین
-تمہیں یہ نوحہء ھل من سنا رہا ہے حسین
+تمہیں یہ نوحۂ ہل من سنا رہا ہے حسین
 
 ۳
-یہ بے وفائی یہ امت کی داستاں ہےعجیب
+یہ بے وفائی یہ امت کی داستاں ہے عجیب
 کیا ہے دشت میں فرزند مصطفیٰ کو غریب
 کہاں ہو حر دلاور کہاں ہو میرے حبیب
 
@@ -95,9 +96,9 @@ romanLyrics: |-
 ستم گاروں نے ہے گھیرا تمہارے آقا کو
 
 ۷
-خبر یہ نہر پہ جاکر زرا سناے کوئی
-علی کے شیر کے شانے زرا ہلاے کوئی
-میں ذبح ہوتا ہوں کو بتاے کوئی
+خبر یہ نہر پہ جا کر ذرا سنائے کوئی
+علی کے شیر کے شانے ذرا ہلائے کوئی
+میں ذبح ہوتا ہوں عباس کو بتائے کوئی
 
 ۸
 بلک بلک کے بھتیجی تمہاری روتی ہے
