@@ -1,5 +1,5 @@
 ---
-title: "بتاؤ اے بابا کہاں گےء عمو"
+title: "بتاؤ اے بابا کہاں گئے عمو"
 alternateTitle: "Kahan Gaye Ammu"
 language: "Urdu"
 lang: "ur"
@@ -9,62 +9,65 @@ poet: "Anwar Zahir"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Sharif Husain"
 romanLyrics: |-
-  Batao ay baba kahan gaye ammu
-  Sakina kehti thi baba kahan gaye ammu
-  Nazar alam nahi aata kahan gaye ammu
+  Bataao ae baba kahaaṅ gaye Ammu
+  Sakina kehti thi baba kahaaṅ gaye Ammu
+
+  Nazar alam nahiṅ aata kahaaṅ gaye Ammu
 
   1
-  Mai ab na maangungi pani unhe bula lije
-  Ye kahiye roti hai dukhiya kahan gaye ammu
+  Main ab na maaṅguṅ gi paani unheiṅ bula lijiye
+  Ye kahiye roti hai dukhiya kahaaṅ gaye Ammu
 
   2
-  Ye keh gaye thay ke le aaunga abhi pani
-  Wo dekho saamne darya kahan gaye ammu
+  Ye keh gaye the ke le aauṅ ga abhi paani
+  Wo dekho saamne darya kahaaṅ gaye Ammu
 
   3
-  Ye mujhse kehti hai madar tumhi ne bheja hai
-  Bulao tum hi sakina kahan gaye ammu
+  Ye mujh se kehti hai maadar tumheiṅ ne bheja hai
+  Bulaao tum hi Sakina kahaaṅ gaye Ammu
 
   4
-  Chale jo shaah to ro kar sakina chillayi
-  Abhi to fikr hai baba kahan gaye ammu
+  Chale jo Shaah to ro kar Sakina chillaayi
+  Abhi to fikr hai baba kahaaṅ gaye Ammu
 
   5
-  Layeen tamache dikha kar mujhe daraate hai
-  Ye mujhse kehte hai aada kahan gaye ammu
+  Laiṅ tamaache dikha kar mujhe daraate haiṅ
+  Ye mujh se kehte haiṅ aada kahaaṅ gaye Ammu
 
   6
-  Ye kehte kehte wo behosh hogayi anwar
-  Nahi koi ye batata kahan gaye ammu
+  Ye kehte kehte wo behosh ho gayi Anwar
+  Nahiṅ koi ye bataata kahaaṅ gaye Ammu
 # source_id: nohayonline:07b2325153a8acd31e29
 # source_url: https://www.nohayonline.com/details_content.php?id=1262
 # raw_sha256: ecf4e5fd8bfad62af8177af843a5b327525bb806a28366ee4040315fa23127c2
 ---
-بتاؤ اے بابا کہاں گےء عمو
-سکینہ کہتی تھی بابا کہاں گےء عمو
-نظر الم نہیں آتا کہاں گےء عمو
+بتاؤ اے بابا کہاں گئے عمو
+سکینہ کہتی تھی بابا کہاں گئے عمو
+
+نظر علم نہیں آتا کہاں گئے عمو
 
 ۱
 میں اب نہ مانگوں گی پانی انہیں بلا لیجیے
-یہ کہیے روتی ہے دکھیا کہاں گےء عمو
+یہ کہیے روتی ہے دکھیا کہاں گئے عمو
 
 ۲
-یہ کہہ گےء تھے کہ لے آؤں گا ابھی پانی
-وہ دیکھو سامنے دریا کہاں گےء عمو
+یہ کہہ گئے تھے کہ لے آؤں گا ابھی پانی
+وہ دیکھو سامنے دریا کہاں گئے عمو
 
 ۳
 یہ مجھ سے کہتی ہے مادر تمہیں نے بھیجا ہے
-بلاؤ تم ہی سکینہ کہاں گےء عمو
+بلاؤ تم ہی سکینہ کہاں گئے عمو
 
 ۴
-چلے جو شاہ تو رو کر سکینہ چلای
-ابھی تو فکر ہے بابا کہاں گےء عمو
+چلے جو شاہ تو رو کر سکینہ چلائی
+ابھی تو فکر ہے بابا کہاں گئے عمو
 
 ۵
 لعیں طمانچے دکھا کر مجھے ڈراتے ہیں
-یہ مجھ سے کہتے ہیں اعدا کہاں گےء عمو
+یہ مجھ سے کہتے ہیں اعدا کہاں گئے عمو
 
 ۶
-یہ کہتے کہتے وہ بے حوش ہوگےء انور
-نہیں کوئی یہ بتاتا کہاں گےء عمو
+یہ کہتے کہتے وہ بے ہوش ہو گئی انور
+نہیں کوئی یہ بتاتا کہاں گئے عمو
