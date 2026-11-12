@@ -5,28 +5,29 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Humko hai apni jaan se pyara ghame hussain
-  Khayam rahe jahan may khudaya ghame hussain
+  Hum ko hai apni jaan se pyaara gham-e-Husain
+  Qaaim rahe jahaaṅ mein Khudaaya gham-e-Husain
 
   1
-  Roze alast poocha gaya kya pasand hai
-  Be-yekhtiyar humne pukara ghame hussain
+  Roz-e-alast puchha gaya kya pasand hai
+  Beikhtiyaar hum ne pukaara gham-e-Husain
 
   2
-  Jab chaaha sayyeda ke qadam aaye ghar mere
-  Farshe aza bichaya manaya ghame hussain
+  Jab chaaha Sayyeda ke qadam aayeṅ ghar mere
+  Farsh-e-aza bichhaaya manaaya gham-e-Husain
 
   3
-  Kamzarf ko jahan may mila jab bhi iqteda
-  Pehle bana sitam ka nishana ghame hussain
+  Kamzarf ko jahaaṅ mein mila jab bhi iqtidaar
+  Pehle bana sitam ka nishaana gham-e-Husain
 
   4
-  Har kufr o zulm o jor o tashaddud ke saamne
-  Hai aaj bhi mahazon pe tanha ghame hussain
+  Har kufr o zulm o jaur o tashaddud ke saamne
+  Hai aaj bhi mahaazoṅ pe tanha gham-e-Husain
 # source_id: nohayonline:8c6e7bd4dc7daae7e97b
 # source_url: https://www.nohayonline.com/details_content.php?id=467
 # raw_sha256: 8506cdff7735c35bda748fa10f750cfb6944920a70b5419b2551176010e29609
@@ -36,12 +37,12 @@ romanLyrics: |-
 قائم رہے جہان میں خُدایا غمِ حُسین
 
 ۱
-روزِ علست پوچھا گیا کیا پسند ہے
+روزِ الست پوچھا گیا کیا پسند ہے
 بے اختیار ہم نے پُکارا غمِ حُسین
 
 ۲
 جب چاہا سیدہ کے قدم آئیں گھر میرے
-فرشِ اعزا بچھایا منایا غمِ حُسین
+فرشِ عزا بچھایا منایا غمِ حُسین
 
 ۳
 کم ظرف کو جہان میں ملا جب بھی اقتدار

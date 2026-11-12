@@ -1,55 +1,56 @@
 ---
 title: "ہم زندہ ہیں ماتمِ شبیر کے لیے"
-alternateTitle: "Hum Zinda Hai"
+alternateTitle: "Hum Zinda Haiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
-aliases: []
+aliases: ["Hum Zinda Hai"]
 published: false
 romanLyrics: |-
-  Hum zinda hai matame shabbir ke liye
-  
+  Hum zinda haiṅ maatam-e-Shabbir ke liye
+
   1
-  Daure umayya may ye kiska khoon tha jo ke behta tha
-  Ahle wafa ko ahle aza ko deewaron may chuna gaya
-  Phir bhi ek sada e payham aati thi deewaro se
-  
+  Daur-e-Umayya mein ye kis ka khun tha jo ke behta tha
+  Ahl-e-wafa ko ahl-e-aza ko diwaaroṅ mein chuna gaya
+  Phir bhi ek sadaa-e-paiham aati thi diwaaroṅ se
+
   2
-  Har jaabir se har zaalim se hum thay jo takrate thay
-  Is matam ki khaatir humne ghar ke ghar qurban kiye
-  Ghalib aakhir haq aaya baatil ne ghutne tayk diye
-  
+  Har jaabir se har zaalim se hum the jo takraate the
+  Is maatam ki khaatir hum ne ghar ke ghar qurbaan kiye
+  Ghaalib aakhir haq aaya baatil ne ghutne tek diye
+
   3
-  Toofano ki zad pe hamesha hum ne diye jalaye hai
-  Itne ziddi sarkash haasid humko mitane aaye hai
-  Deewano ke khaab adhoore ab tak poore ho na sake
-  
+  Tufaanoṅ ki zad pe hamesha hum ne diye jalaaye haiṅ
+  Itne ziddi sarkash haasid hum ko mitaane aaye haiṅ
+  Diwaanoṅ ke khwaab adhure ab tak pure ho na sake
+
   4
-  Ahlebayt ke dar ko chode apna ye kirdaar nahi
-  Har insan ko rehbar kehde ye apne atwaar nahi
+  Ahl-e-Bait ke dar ko chhoreṅ apna ye kirdaar nahiṅ
+  Har insaan ko rehbar keh deṅ apne ye atwaar nahiṅ
   Kal bhi jo apna maula tha aaj bhi apna maula hai
-  
+
   5
-  Kuch deewane hai aise bhi karbobala ko bhool gaye
-  Allah allah yaad rakha aur aale abaa ko bhool gaye
-  Raahe wafa se hatne walon tumko kaun ye samjhaye
-  
+  Kuch diwaane haiṅ aise bhi Karb o Balaa ko bhul gaye
+  Allah Allah yaad rakha aur Aal-e-Abaa ko bhul gaye
+  Raah-e-wafa se hatne waalo tum ko kaun ye samjhaaye
+
   6
-  Sar de kar ghar baar lutakar hum ne ye gham paaya hai
-  Iski khaatir jaane kitna apna khoon bahaya hai
-  Jo khoon sare tareekh baha us khoon ke katre bol uthe
-  
+  Sar de kar ghar baar luta kar hum ne ye gham paaya hai
+  Is ki khaatir jaane kitna apna khun bahaaya hai
+  Jo khun sar-e-taarikh baha us khun ke qatre bol uthe
+
   7
-  Jazbaye meesam lekar hum ne nafrat ka rukh mod diya
-  Zulm o sitam ki zanjeero ko apne amal se tod diya
-  Naam o nishan tak mit jaate hai hum ko mitane walon ke
-  
+  Jazba-e-Misam le kar hum ne nafrat ka rukh mor diya
+  Zulm o sitam ki zanjiroṅ ko apne amal se tor diya
+  Naam o nishaaṅ tak mit jaate haiṅ hum ko mitaane waaloṅ ke
+
   8
-  Nauhagaro aur seena zano ko zainab deti hai ye dua
-  Ghar na ujde haye kisi ka jaisa mera ghar ujda
-  Bas ek armaan hai zainab ka qaayam ye gham sada rahe
+  Nauhagaroṅ aur sina zanoṅ ko Zainab deti hai ye dua
+  Ghar na ujre haaye kisi ka jaise mera ghar ujra
+  Bas ek armaan hai Zainab ka qaaim ye gham sada rahe
 # source_id: nohayonline:68b75317514fc5b0aa3e
 # source_url: https://www.nohayonline.com/details_content.php?id=543
 # raw_sha256: f2d1ba4ace351c8434846f586012cafbcdbb2217d7c5bd3955ea201549aa5e2e
@@ -59,7 +60,7 @@ romanLyrics: |-
 
 ۱
 دورِ اُمیہ میں یہ کسکا خون تھا جو کہ بہتا تھا
-اہلِ وفا کو اہلِ اعزا کو دیواروں میں چُنا گیا
+اہلِ وفا کو اہلِ عزا کو دیواروں میں چُنا گیا
 پھر کبھی ایک صدائے پیہم آتی تھی دیواروں سے
 
 ۲
@@ -88,11 +89,11 @@ romanLyrics: |-
 جو خون سرِ تاریخ بہا اُس خون کی خاطر بول اُٹھے
 
 ۷
-جذ بہِ میثم لے کر ہم نے نفرت کا رُخ موڑ دیا
-طلم و ستم کی زنجیروں کو اپنے عمل سے توڑ دیا
+جذبۂ میثم لے کر ہم نے نفرت کا رُخ موڑ دیا
+ظلم و ستم کی زنجیروں کو اپنے عمل سے توڑ دیا
 نام و نشاں تک مٹ جاتے ہیں ہم کو مٹانے والوں کے
 
 ۸
 نوحہ گروں اور سینہ زنوں کو زینب دیتی ہے یہ دُعا
 گھر نہ اُجڑے ہائے کسی کا جیسے میرا گھر اُجڑا
-بس ایک ارمان ہے زینب کا قائم یہ غم صدا رہے
+بس ایک ارمان ہے زینب کا قائم یہ غم سدا رہے
