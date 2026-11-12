@@ -6,52 +6,53 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Gohar Jarchvi"
+reciter: "Nasir Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Karthi thi bain ran mein ro ro ke haye zainab
-  Ay bhai tera laasha kaise uthaye zainab
+  Karti thi bain ran mein ro ro ke haaye Zainab
+  Ae bhai tera laasha kaise uthaye Zainab
 
   1
-  Abbas hai na akbar sab qatl ho chuke hai
-  Koi nahi hai zinda kisko bulaye zainab
+  Abbas hai na Akbar sab qatl ho chuke haiṅ
+  Koi nahiṅ hai zinda kis ko bulaye Zainab
 
   2
-  Kaise uthaye aakar tapti hui zameen se
-  Saaye mein tera laasha kis tarha laaye zainab
+  Kaise uthaye aa kar tapti hui zamiṅ se
+  Saaye mein tera laasha kis tarah laaye Zainab
 
   3
-  Sunta nahi hai koi faryad bekason ki
-  Kya kya sitam hue hai kisko bataye zainab
+  Sunta nahiṅ hai koi faryaad bekasoṅ ki
+  Kya kya sitam hue haiṅ kis ko bataye Zainab
 
   4
-  Baba ki muntazir hai dar par khadi sakina
-  Sheh qatl ho chuke hai kaise bataye zainab
+  Baba ki muntazir hai dar par khari Sakina
+  Shih qatl ho chuke haiṅ kaise bataye Zainab
 
   5
-  Abbas-e-bawafa ka laasha tadap raha tha
-  Jab ran mein zaalimo ne cheeni ridaye zainab
+  Abbas-e-bawafa ka laasha tarap raha tha
+  Jab ran mein zaalimoṅ ne chhini rida-e-Zainab
 
   6
-  Sar par rida nahi hai qaime bhi jal chuke hai
-  Maidan mein ro rahi hai sar ko jhukaye zainab
+  Sar par rida nahiṅ hai khaime bhi jal chuke haiṅ
+  Maidaaṅ mein ro rahi hai sar ko jhukaye Zainab
 
   7
-  Zainab ne yun tadap kar abbas ko sada di
-  Thar-ra rahe thay laashe sunkar sadaye zainab
+  Zainab ne yuṅ tarap kar Abbas ko sada di
+  Tharra rahe the laashe sun kar sada-e-Zainab
 
   8
-  Abbas jald aao chaane lage andhere
-  Dashte bala mein tanha ghabra na jaye zainab
+  Abbas jald aao chhaane lage andhere
+  Dasht-e-bala mein tanha ghabra na jaaye Zainab
 
   9
-  Dil kyun na khoon roye jaati hai qaid hokar
-  Aayi hai kis tarha se kya bhool jaye zainab
+  Dil kiuṅ na khun roye jaati hai qaid ho kar
+  Aayi hai kis tarah se kya bhul jaaye Zainab
 
   10
-  Nasir dua hai meri bibi qabool karle
-  Gohar jo likh rah hai nauhe baraye zainab
+  Nasir dua hai meri Bibi qubul kar le
+  Gohar jo likh raha hai nauhe bara-e-Zainab
 # source_id: nohayonline:61bafc065555aeaca2ac
 # source_url: https://www.nohayonline.com/details_content.php?id=762
 # raw_sha256: 88a13c27874cfce8d308ca0e9e6ed6b2d257a14d79de1d3a1bee75e9182c3210
@@ -86,15 +87,15 @@ romanLyrics: |-
 جب رن میں ظالموں نے چھینی ردائے زینب
 
 ۶
-سر پر ردا نہیں ہے خیمے بھی جل چُکے ہین
+سر پر ردا نہیں ہے خیمے بھی جل چُکے ہیں
 میداں میں رو رہی ہے سر کو جھُکائے زینب
 
 ۷
 زینب نے یوں تڑپ کر عباس کو صدا دی
-تھرا رہے تھے لاشے سُن کر صدائے زینب
+تھرّا رہے تھے لاشے سُن کر صدائے زینب
 
 ۸
-عباس جلد آئو چھانے لگے اندھیرے
+عباس جلد آؤ چھانے لگے اندھیرے
 دشتِ بلا میں تنہا گھبرا نہ جائے زینب
 
 ۹
@@ -102,5 +103,5 @@ romanLyrics: |-
 آئی ہے کس طرح سے کیا بھول جائے زینب
 
 ۱۰
-ناصر دُعا ہے میری بی بی قبول کر لے
+ناصر دُعا ہے میری بی‌بی قبول کر لے
 گوہر جو لکھ رہا ہے نوحے برائے زینب
