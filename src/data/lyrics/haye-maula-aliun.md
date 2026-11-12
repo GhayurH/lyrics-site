@@ -6,59 +6,60 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Hamid Jafri"
+reciter: "Ashfaq Merchant"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Goonji faryaad jibreel ki
-  Haye maula ali un naqi
-  
+  Gunji faryaad Jibril ki
+  Haye Maula Ali un Naqi
+
   1
-  Kaaba e haq hua muzmail
-  Zehre qaatil se paara hai dil
-  Gham ki har soo ghata cha gayi
-  
+  Kaaba-e-haq hua muzmail
+  Zehr-e-qaatil se paara hai dil
+  Gham ki har su ghata chhaa gayi
+
   2
-  Ambiya aur malak ro pade
-  Nauha padte hai chote bade
+  Ambiya aur malak ro pare
+  Nauha parhte haiṅ chhote bare
   Har taraf aaj hai bekali
-  
+
   3
-  Qudsiyon ka bada hai hujoom
-  Arsh se aaye shams o nujoom
-  Khoon mein ghark hai chandni
-  
+  Qudsiyoṅ ka bara hai hujum
+  Arsh se aaye shams o nujum
+  Khun mein gharq hai chaandni
+
   4
-  Shaksiyat aisi ruqsat hui
-  Aaj uski shahadat hui
-  Jiski thokar mein hai zindagi
-  
+  Shakhsiyat aisi rukhsat hui
+  Aaj us ki shahaadat hui
+  Jis ki thokar mein hai zindagi
+
   5
-  Toor ke noor ka aasman
-  Khoon mein doob kar hai niha
+  Tur ke nur ka aasmaaṅ
+  Khun mein dub kar hai nihaaṅ
   Aur zulmat bhi karne lagi
-  
+
   6
-  Tujhko motaz bata kya mila
-  Zehr maula ko kyun de diya
-  Humse kyun cheenli har khushi
-  
+  Tujh ko Mutaz bata kya mila
+  Zehr Maula ko kiuṅ de diya
+  Hum se kiuṅ chhin li har khushi
+
   7
-  Sab pe hamid aza farz hai
-  Sab pe maula ka gham karz hai
-  Bolo ashfaq ro kar yehi
+  Sab pe Hamid aza farz hai
+  Sab pe Maula ka gham qarz hai
+  Bolo Ashfaq ro kar yehi
 # source_id: nohayonline:f1c421ba9de80ca00e93
 # source_url: https://www.nohayonline.com/details_content.php?id=1087
 # raw_sha256: 9481b2b19dbc9909d1825cdd988649c75805d3abd3d62a25c9a9519756b606d9
 ---
 
 گونجی فریاد جبریل کی
-ہاے مولا علی النقی
+ہائے مولا علی النقی
 
 ۱
-کعبہ ء حق ہوا مضمیل
+کعبۂ حق ہوا مضمیل
 زہر قاتل سے پارہ ہے دل
-غم کی ہر سو گھٹا چھا گیء
+غم کی ہر سو گھٹا چھا گئی
 
 ۲
 انبیاء اور ملک رو پڑے
@@ -67,13 +68,13 @@ romanLyrics: |-
 
 ۳
 قدسیوں کا بڑا ہے ہجوم
-عرش سے آے شمس و نجوم
+عرش سے آئے شمس و نجوم
 خون میں غرق ہے چاندنی
 
 ۴
-شخصیت ایسی رخصت ہوی
-آج اسکی شہادت ہوی
-جس‌ کی ٹھوکر میں ہے زندگی
+شخصیت ایسی رخصت ہوئی
+آج اس کی شہادت ہوئی
+جس کی ٹھوکر میں ہے زندگی
 
 ۵
 ٹوٹ کے نور کا آسماں
@@ -81,7 +82,7 @@ romanLyrics: |-
 اور ظلمت بھی کرنے لگی
 
 ۶
-تجھکو معتز بتا کیا ملا
+تجھ کو معتز بتا کیا ملا
 زہر مولا کو کیوں دے دیا
 ہم سے کیوں چھین لی ہر خوشی
 

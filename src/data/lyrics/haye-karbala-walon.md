@@ -6,77 +6,78 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Najm Afandi"
+reciter: "Anj. Parwane Shabbir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ay khuda ke bando mein muntakhib khuda waalon
-  Takht e innama waalo taaj e hal'ata waalon
-  Shaan e mustafa waalon waz e murtaza waalon
-  Kya wafa pe jaanein di tum ne ay wafa waalon
-  Haye karbala waalon haye karbala waalon
+  Ae Khuda ke bandoṅ mein muntakhab Khuda waloṅ
+  Takht-e-innama waloṅ taaj-e-hal ataa waloṅ
+  Shaan-e-Mustafa waloṅ waaiz-e-Murtaza waloṅ
+  Kya wafa pe jaaneṅ di tum ne ae wafa waloṅ
+  Haye Karbala waloṅ haye Karbala waloṅ
 
   1
-  Chote chote bacchon ne jang ki ijazat li
-  Bad gaye jawan ban kar kamsini se rukhsat li
-  Qaum ki himayat mein izzat e shahadat li
+  Chhote chhote bachchoṅ ne jang ki ijaazat li
+  Barh gaye jawaaṅ ban kar kamsini se rukhsat li
+  Qaum ki himaayat mein izzat-e-shahaadat li
   Zindagi ko kya kahiye maut se bhi khidmat li
 
   2
-  Kis bala ke jangal mein aal e mustafa tehri
-  Be dayaron ka madfan arze karbala tehri
-  Aayi shaam e ashoora subha ko wigha tehri
-  Kya khabar madina ko shaamiyon se kya tehri
+  Kis bala ke jangal mein Aal-e-Mustafa thehri
+  Be dayaaroṅ ka madfan arz-e-Karbala thehri
+  Aayi shaam-e-Ashura subh ko wagha thehri
+  Kya khabar Madina ko shaamiyoṅ se kya thehri
 
   3
-  Haq pa marne waalon ne jaan di saleeqe se
+  Haq pe marne waloṅ ne jaan di saliqe se
   Shauq se tamanna se azm se iraade se
-  Zindagi na ki pyari fatema ke pyare se
-  Maa ki godh se aaya koi koi jhoole se
+  Zindagi na ki pyaari Fatima ke pyaare se
+  Maaṅ ki god se aaya koi koi jhule se
 
   4
-  Koi tum mein akbar tha koi tum mein asghar tha
-  Koi saani e jaafar koi misle hyder tha
-  Koi qadr o qeemat mein do jahan se bartar tha
-  Zere taygh karbal mein fatema ka ghar bhar tha
+  Koi tum mein Akbar tha koi tum mein Asghar tha
+  Koi saani-e-Jaafar koi misl-e-Haidar tha
+  Koi qadr o qimat mein do jahaaṅ se bartar tha
+  Zer-e-tegh Karbal mein Fatima ka ghar bhar tha
 
   5
-  Is tarha ke aalam mein phir na dil jigar dekhe
-  Dar pa aake maa'on ne jang ke hunar dekhe
-  Apne chaand ke tukde khoon mein tar batar dekhe
-  Rayg e garm par laashe barchiyon pa sar dekhe
+  Is tarah ke aalam mein phir na dil jigar dekhe
+  Dar pe aa ke maaoṅ ne jang ke hunar dekhe
+  Apne chaand ke tukre khuṅ mein tar ba tar dekhe
+  Reg-e-garm par laasheṅ barchhiyoṅ pe sar dekhe
 # source_id: nohayonline:b87b085da5a902258e7a
 # source_url: https://www.nohayonline.com/details_content.php?id=3034
 # raw_sha256: cf904ff8796ad644ba7e666fc0f22caa531b1fa6eb382e7f25bde5aac176111b
 ---
 اے خدا کے بندوں میں منتخب خدا والوں
-تخت انما والوں تاج ھل اتا والوں
-شان مصطفیٰ والوں واعظ مرتظی والوں
+تخت انما والوں تاج ہل اتیٰ والوں
+شان مصطفیٰ والوں واعظ مرتضیٰ والوں
 کیا وفا پہ جانیں دی تم نے اے وفا والوں
-ہاے کربلا والوں ہاے کربلا والوں
+ہائے کربلا والوں ہائے کربلا والوں
 
 ۱
 چھوٹے چھوٹے بچوں نے جنگ کی اجازت لی
-بڑھ گےء جواں بن کر کمسنی سے رخصت لی
+بڑھ گئے جواں بن کر کمسنی سے رخصت لی
 قوم کی حمایت میں عزت شہادت لی
-زندگی کو کیا کہیےء موت سے بھی خدمت لی
+زندگی کو کیا کہیے موت سے بھی خدمت لی
 
 ۲
-کس بلا کے جنگل میں آل مصطفیٰ ٹہری
-بے دیاروں کا مدفن ارض کربلا ٹہری
-آی شام عاشورہ صبح کو وغا ٹہری
-کیا خبر مدینہ کو شامیوں سے کیا ٹہری
+کس بلا کے جنگل میں آل مصطفیٰ ٹھہری
+بے دیاروں کا مدفن ارض کربلا ٹھہری
+آئی شام عاشورہ صبح کو وغا ٹھہری
+کیا خبر مدینہ کو شامیوں سے کیا ٹھہری
 
 ۳
 حق پہ مرنے والوں نے جان دی سلیقے سے
-شوق سے تمنا سے ازم سے ارادے سے
+شوق سے تمنا سے عزم سے ارادے سے
 زندگی نہ کی پیاری فاطمہ کے پیارے سے
-ماں کی گود سے آیا کوی کوئی جھولے سے
+ماں کی گود سے آیا کوئی کوئی جھولے سے
 
 ۴
-کوئی تم میں اکبر تھا کوی تم میں اصغر تھا
-کوئی ثانیء جعفر کوی مثل حیدر تھا
-کوی قدر و قیمت میں دو جہاں سے برتر تھا
+کوئی تم میں اکبر تھا کوئی تم میں اصغر تھا
+کوئی ثانیِ جعفر کوئی مثل حیدر تھا
+کوئی قدر و قیمت میں دو جہاں سے برتر تھا
 زیر تیغ کربل میں فاطمہ کا گھر بھر تھا
 
 ۵
