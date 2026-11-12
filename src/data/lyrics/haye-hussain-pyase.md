@@ -1,107 +1,108 @@
 ---
 title: "ہاے حسین پیاسے حسین"
-alternateTitle: "Haye Hussain Pyase"
+alternateTitle: "Haye Husain Pyase"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
+reciter: "Hadi Ali Khan Muslim"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye hussain pyase hussain
+  Haye Husain pyase Husain
   
   1
-  Jaane payambar dilbare zehra
+  Jaan-e-Payambar dilbar-e-Zehra
   Apna bhara ghar tu ne lutaya
-  Ibne ali ehsaan hai tera
-  Tu hai muhafiz kaaba e haq ka
+  Ibn-e-Ali ehsaan hai tera
+  Tu hai muhaafiz Kaaba-e-haq ka
   Sajde mein sar tera kata
   
   2
-  Dhoond rahe hai ran mein sarwar
-  Bechaini se laasha e akbar
-  Khaate hai har gaam pa thokar
-  Kaun sahara dega bad kar
-  Aalam e ghurbat dasht e bala
+  Dhund rahe haiṅ ran mein Sarwar
+  Bechaini se laasha-e-Akbar
+  Khaate haiṅ har gaam pe thokar
+  Kaun sahaara dega barh kar
+  Aalam-e-ghurbat dasht-e-bala
   
   3
-  Zainab ki aankhon ke ujaale
-  Aun o mohamed ran ko sidhare
-  Jang hui aur khoon mein nahaye
+  Zainab ki aankhoṅ ke ujaale
+  Aun o Muhammad ran ko sidhaare
+  Jang hui aur khuṅ mein nahaaye
   Maqtal se jab aaye laashe
-  Karti hai zainab shukre khuda
+  Karti hai Zainab shukr-e-Khuda
   
   4
-  Byaah hui kuch dayr na guzri
-  Ran ko chali qasim ki sawari
+  Byaah hui kuchh der na guzri
+  Ran ko chali Qasim ki sawaari
   Kubra baithi soch rahi thi
-  Ab ujhdegi maang hamari
+  Ab ujre gi maang hamaari
   Aa gaya dulha ka laasha
   
   5
-  Thaame kamar ye kehte thay sarwar
-  Dashte bala mein shaane kata kar
-  Qatl huwe abbas e dilawar
-  De pursa mujhko meri khwahar
-  Hogaya zainab mai tanha
+  Thaame kamar ye kehte the Sarwar
+  Dasht-e-bala mein shaane kata kar
+  Qatl hue Abbas-e-dilaawar
+  De pursa mujhko meri khwaahar
+  Ho gaya Zainab main tanha
   
   6
-  Bain yehi karti thi sakina
-  Chod gaye kyun mujhko tanha
-  Badta hai jangal ka andhera
-  Aajao aajao baba
-  Deti hoo kab se tum ko sada
+  Bain yehi karti thi Sakina
+  Chhor gaye kiuṅ mujhko tanha
+  Barhta hai jangal ka andhera
+  Aa jaao aa jaao baba
+  Deti huṅ kab se tum ko sada
   
   7
-  Soti thi seene pa tumhare
-  Tum ne mere naaz uthaye
-  Shimr ne maare mujhko tamache
-  Khoon tapakta hai kaano se
-  Neend nahi aati baba
+  Soti thi sine pe tumhaare
+  Tum ne mere naaz uthaaye
+  Shimr ne maare mujhko tamaanche
+  Khuṅ tapakta hai kaanoṅ se
+  Nind nahiṅ aati baba
   
   8
-  Kaisi ghadi hai aale nabi par
-  Ghash mein pade hai abid e muztar
-  Keh de koi abbas se jaa kar
-  Cheen raha hai shimr e sitamgar
-  Binte ali ke sar se rida
+  Kaisi ghari hai Aal-e-Nabi par
+  Ghash mein pare haiṅ Aabid-e-muztar
+  Keh de koi Abbas se jaa kar
+  Chhin raha hai Shimr-e-sitamgar
+  Bint-e-Ali ke sar se rida
   
   9
   Zainab ke baazu mein rasan hai
-  Aur labon par bas ye sukhan hai
-  Laash teri be-gor o kafan hai
-  Aaj bahot majboor bhan hai
-  Sar pa nahi chadar bhaiya
+  Aur laboṅ par bas ye sukhan hai
+  Laash teri begor o kafan hai
+  Aaj bahut majbur behan hai
+  Sar pe nahiṅ chaadar bhaiya
   
   10
-  Hum pa ye ehsaan hai zainab ka
-  Jis ne diya majlis ka saleeqa
-  Karte raho matam pyason ka
-  Denge tumhe abbas sahara
-  Binte payambar dengi dua
+  Hum pe ye ehsaaṅ hai Zainab ka
+  Jis ne diya majlis ka saliqa
+  Karte raho maatam pyaasoṅ ka
+  Deṅ ge tumheṅ Abbas sahaara
+  Bint-e-Payambar deṅ gi dua
   
   11
-  Chalke kuch itne aankhon ke saagar
-  Phaili kuch itni ashkon ki chaadar
-  Chashme falak hairaan hai is par
-  Soch rahe hai saare samandar
-  Kitne hai aakhir ashk e aza
+  Chhalke kuchh itne aankhoṅ ke saagar
+  Phaili kuchh itni ashkoṅ ki chaadar
+  Chashm-e-falak hairaan hai is par
+  Soch rahe haiṅ saare samandar
+  Kitne haiṅ aakhir ashk-e-aza
   
   12
-  Zeest ka maqsad pyason ka gham
-  Hota rahe ta hashr ye matam
-  Le ke yunhi abbas ka parcham
-  Parwane shabbir ke har dam
-  Dete rahenge bas ye sada
+  Zist ka maqsad pyaasoṅ ka gham
+  Hota rahe ta hashr ye maatam
+  Le ke yuṅhi Abbas ka parcham
+  Parwaane Shabbir ke har dam
+  Dete raheṅ ge bas ye sada
   
   13
-  Kije rasheed is gham ki hifazat
-  Ashq e aza hai qalb ki khuwwat
-  Karte rahe har dam ye ibadat
-  Matam hai shabbir ki nusrat
-  Goonji faza mein bas ye sada
+  Kijiye Rasheed is gham ki hifaazat
+  Ashk-e-aza hai qalb ki quwwat
+  Karte rahe har dam ye ibaadat
+  Maatam hai Shabbir ki nusrat
+  Gunji faza mein bas ye sada
 # source_id: nohayonline:10b811b2c7e5289da004
 # source_url: https://www.nohayonline.com/details_content.php?id=1960
 # raw_sha256: 5d43210e688b7068d970a818126359ca901b4957ca7e28632c620b240bcf9e64
@@ -126,34 +127,34 @@ romanLyrics: |-
 ۳
 زینب کی آنکھوں کے اجالے
 عون و محمد رن کو سدھارے
-جنگ ہوی اور خوں میں نہائے
-مقتل سے جب آے لاشے
+جنگ ہوئی اور خوں میں نہائے
+مقتل سے جب آئے لاشے
 کرتی ہے زینب شکر خدا
 
 ۴
-بیاہ ہوی کچھ دیر نہ گزری
+بیاہ ہوئی کچھ دیر نہ گزری
 رن کو چلی قاسم کی سواری
-کبرا بیٹھی سوچ رہی تھی
+کبریٰ بیٹھی سوچ رہی تھی
 اب اجڑے گی مانگ ہماری
 آ گیا دولہا کا لاشہ
 
 ۵
 تھامے کمر یہ کہتے تھے سرور
 دشتِ بلا میں شانے کٹا کر
-قتل ہوے عباس دلاور
+قتل ہوئے عباس دلاور
 دے پرسہ مجھکو میری خواہر
 ہو گیا زینب میں تنہا
 
 ۶
 بین یہی کرتی تھی سکینہ
-چھوڑ گےء کیوں مجھکو تنہا
+چھوڑ گئے کیوں مجھکو تنہا
 بڑھتا ہے جنگل کا اندھیرا
 آجاؤ آجاؤ بابا
 دیتی ہوں کب سے تم کو صدا
 
 ۷
 سوتی تھی سینے پہ تمہارے
-تم نے میرے ناز اٹھاے
+تم نے میرے ناز اٹھائے
 شمر نے مارے مجھکو طمانچے
 خوں ٹپکتا ہے کانوں سے
 نیند نہیں آتی بابا
@@ -194,7 +195,7 @@ romanLyrics: |-
 دیتے رہیں گے بس یہ صدا
 
 ۱۳
-کیجیےء رشید اس غم کی حفاظت
+کیجیے رشید اس غم کی حفاظت
 اشک عزا ہے قلب کی قوت
 کرتے رہے ہر دم یہ عبادت
 ماتم ہے شبیر کی نصرت
