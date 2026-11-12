@@ -1,72 +1,73 @@
 ---
 title: "ہاے غریب الوطن اے اسیر محن"
-alternateTitle: "Haye Gareebul Watan"
+alternateTitle: "Haye Gharibul Watan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Anees"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye gareeb ul watan ay aseer e mehan
-  Alwida alwida alwida ay hussain alwida
+  Haye gharibul watan Ae asir-e-mehan
+  Alwida alwida alwida Ae Husain alwida
 
   1
-  Naizon pe sar kaat ke haye chadaya gaya
-  Ghodon se paamal tan tera karaya gaya
-  Loot ke sab maal o zar qaima jalaya gaya
+  Naizoṅ pe sar kaat ke haye charhaya gaya
+  Ghoroṅ se paamaal tan tera karaaya gaya
+  Lut ke sab maal o zar khaima jalaaya gaya
 
   2
-  Bibiyon pe jis khadar karte thay aada jafa
-  Utna hi saydaniya karti hai aah o buka
-  Dashte jafa mein yehi goonj rahi thi sada
+  Bibiyoṅ pe jis qadar karte the aada jafa
+  Utna hi sayyidaaniyaṅ karti haiṅ aah o buka
+  Dasht-e-jafa mein yehi gunj rahi thi sada
 
   3
-  Baandhi jafa kaaron ne shaano mein kas kar rasan
-  Kis tara hamsheer de bhai ko apne kafan
-  Cheen li sar se rida hogayi bebas behan
+  Baandhi jafa kaaroṅ ne shaanoṅ mein kas kar rasan
+  Kis tarah hamshir de bhaai ko apne kafan
+  Chhin li sar se rida ho gayi bebas behan
 
   4
-  Bali sakina ke jab shimr ne cheene gohar
-  Khoon baha is qadar hogaya sab kurta tar
-  Kehti thi aao chacha waqt e madad hai pidar
+  Baali Sakina ke jab Shimr ne chhine gauhar
+  Khun baha is qadar ho gaya sab kurta tar
+  Kehti thi aao chacha waqt-e-madad hai pidar
 
   5
-  Hathkadi aur bediyan tauq e giran baar hai
-  Kitna aseere mehan abid e beemar hai
-  Lashkare jor o sitam jaane ko tayyar hai
+  Hathkari aur beriyaṅ tauq-e-giraaṅ baar hai
+  Kitna asir-e-mehan Aabid-e-bimaar hai
+  Lashkar-e-jaur o sitam jaane ko tayyaar hai
 
   6
-  Godh se bache sabhi raahon mein girte rahe
-  Dab ke sidhaare jina naaqon ke paon talay
-  Maa'on ne ye daagh bhi apne jigar par sahe
+  God se bachche sabhi raahoṅ mein girte rahe
+  Dab ke sidhaare jinaaṅ naaqoṅ ke paaoṅ tale
+  Maaoṅ ne ye daagh bhi apne jigar par sahe
 
   7
-  Kar gayi zindan mein jab se sakina qaza
-  Ranj o alam hogaya aal e nabi ka siwa
-  Laashe se lipti hui karti thi bano buka
+  Kar gayi zindaan mein jab se Sakina qaza
+  Ranj o alam ho gaya Aal-e-Nabi ka siwa
+  Laashe se lipti hui karti thi Bano buka
 
   8
-  Tum ko rehaai ka laal kis khadar armaan tha
-  Utho sakina chalo hukme rehaai mila
-  Jaate hai zindan se pehle suye karbala
+  Tum ko rehaai ka laal kis qadar armaan tha
+  Utho Sakina chalo hukm-e-rehaai mila
+  Jaate haiṅ zindaan se pehle su-e-Karbala
 
   9
-  Marqad e shabbir par jab ke nazar ja padi
-  Binte ali pusht se naaqe se ran mein giri
-  Karti hui bain ye ghutniyon ke bal chali
+  Marqad-e-Shabbir par jab ke nazar ja pari
+  Bint-e-Ali pusht se naaqe se ran mein giri
+  Karti hui bain ye ghutniyoṅ ke bal chali
 
   10
-  Saath imanath ko mai laa na saki pur mahan
-  Bhai bahot sharminda hai ye tumhari behan
-  Bali sakina ko bhi de na saki mai kafan
+  Saath imanath ko main laa na saki pur mehan
+  Bhaai bahut sharminda hai ye tumhaari behan
+  Baali Sakina ko bhi de na saki main kafan
 
   11
-  Tumpe anees e imam binte ali ka salaam
-  Bhai bhatije sipar jaane shahe tashna kaam
-  Nasir e deene khuda haamid e aali maqaam
+  Tum pe anis-e-Imaam Bint-e-Ali ka salaam
+  Bhaai bhatije sipar jaan-e-shaah-e-tashna kaam
+  Naasir-e-din-e-Khuda haamid-e-aali maqaam
 # source_id: nohayonline:35246464c088578715a3
 # source_url: https://www.nohayonline.com/details_content.php?id=599
 # raw_sha256: cc9ae57bb2e8b6b0bb8540c527ef7eb06efe85ad4026f96afe3eefe4b5dd794c
@@ -87,7 +88,7 @@ romanLyrics: |-
 ۳
 باندھی جفا کاروں نے شانوں میں کس کر رسن
 کس طرح ہمشیر دے بھائی کو اپنے کفن
-چھین لی سر سے ردا ہوگیء بےبس بہن
+چھین لی سر سے ردا ہو گئی بےبس بہن
 
 ۴
 بالی سکینہ کے جب شمر نے چھینے گوہر
@@ -101,17 +102,17 @@ romanLyrics: |-
 
 ۶
 گود سے بچے سبھی راہوں میں گرتے رہے
-دبکے سدھارے جناں ناقوں کے پاؤں تلے
+دب کے سدھارے جناں ناقوں کے پاؤں تلے
 ماؤں نے یہ داغ بھی اپنے جگر پر سہے
 
 ۷
-کرگیء زندان میں جب سے سکینہ قضاء
+کر گئی زندان میں جب سے سکینہ قضا
 رنج و الم ہوگیا آل نبی کا سوا
 لاشے سے لپٹی ہوئی کرتی تھی بانو بکا
 
 ۸
 تم کو رہائی کا لال کس قدر ارمان تھا
-اٹھو سکینہ چلو حکم رہای ملا
+اٹھو سکینہ چلو حکم رہائی ملا
 جاتے ہیں زندان سے پہلے سوے کربلا
 
 ۹

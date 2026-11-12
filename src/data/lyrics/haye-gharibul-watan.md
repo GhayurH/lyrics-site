@@ -6,52 +6,53 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Aijaz Rizvi"
+reciter: "Ahsan Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Nauha ruqayya ka tha haye ghareebul watan
-  Deti hoo kab se sada haye ghareebul watan
+  Nauha Ruqayya ka tha haye gharibul watan
+  Deti huṅ kab se sada haye gharibul watan
 
   1
-  Pyar jo sheh ne kiya boli ruqayya chacha
-  Baba ko kya hogaya haye ghareebul watan
+  Pyaar jo Shah ne kiya boli Ruqayya chacha
+  Baba ko kya ho gaya haye gharibul watan
 
   2
-  Sar ko jhukaye hussain kehte thay ay noor e ain
-  Deen pe hua wo fida haye ghareebul watan
+  Sar ko jhukaaye Husain kehte the Ae nur-e-ain
+  Din pe hua wo fida haye gharibul watan
 
   3
-  Kufe may paaya na chain haye safeer e hussain
-  Kufiyon ne ki dagha haye ghareebul watan
+  Kufe mein paaya na chain haye safir-e-Husain
+  Kufiyoṅ ne ki dagha haye gharibul watan
 
   4
-  Wo aa ke ghar may ruke sajda e haq may jhuke
-  Karte thay bas ye dua haye ghareebul watan
+  Wo aa ke ghar mein ruke sajda-e-haq mein jhuke
+  Karte the bas ye dua haye gharibul watan
 
   5
-  Aaye na kufa imam sadqe ho unpar ghulam
-  Kehta tha ye bawafa haye ghareebul watan
+  Aaye na Kufa Imaam sadqe ho un par ghulaam
+  Kehta tha ye bawafa haye gharibul watan
 
   6
-  Dhoke se ghera usay rassi se jakda usay
-  Qaidi bana soorma haye ghareebul watan
+  Dhoke se ghera use rassi se jakra use
+  Qaidi bana surma haye gharibul watan
 
   7
-  Sheh ko kiya yun salam hum to huwe ab tamam
-  Waali tumhara khuda haye ghareebul watan
+  Shah ko kiya yuṅ salaam ham to hue ab tamaam
+  Waali tumhaara Khuda haye gharibul watan
 
   8
-  Hukme sitamgaar par kaata hai muslim ka sar
-  Be-kafan laasha raha haye ghareebul watan
+  Hukm-e-sitamgaar par kaata hai Muslim ka sar
+  Bekafan laasha raha haye gharibul watan
 
   9
-  Paayi jo sheh ne khabar kehte thay sar peet kar
-  Mar gaya aashiq mera haye ghareebul watan
+  Paayi jo Shah ne khabar kehte the sar pit kar
+  Mar gaya aashiq mera haye gharibul watan
 
   10
-  Suniye akif o aijaz aah o fughan ki awaaz
-  Kehte thay ahle aza haye ghareebul watan
+  Suniye Aakif o Aijaz aah o fughaan ki aawaaz
+  Kehte the ahl-e-aza haye gharibul watan
 # source_id: nohayonline:308b5fa522f4e98922b6
 # source_url: https://www.nohayonline.com/details_content.php?id=1473
 # raw_sha256: 80bd7d17f074599de3fa1592604e443927bbaffaec2c22e53f9a1407874441f6
@@ -76,7 +77,7 @@ romanLyrics: |-
 کرتے تھے بس یہ دعا ہاے غریب الوطن
 
 ۵
-آے نہ کوفہ امام صدقے ہو ان پر غلام
+آئے نہ کوفہ امام صدقے ہو ان پر غلام
 کہتا تھا یہ بے وفا ہاے غریب الوطن
 
 ۶
@@ -84,7 +85,7 @@ romanLyrics: |-
 قیدی بنا سورمہ ہاے غریب الوطن
 
 ۷
-شہ کو کیا یوں سلام ہم تو ہوے اب تمام
+شہ کو کیا یوں سلام ہم تو ہوئے اب تمام
 والی تمہارا خدا ہاے غریب الوطن
 
 ۸
@@ -92,9 +93,9 @@ romanLyrics: |-
 بیکفن لاشہ رہا ہاے غریب الوطن
 
 ۹
-پای جو شہ نے خبر کہتے تھے سر پیٹ کر
+پائی جو شہ نے خبر کہتے تھے سر پیٹ کر
 مر گیا عاشق میرا ہاے غریب الوطن
 
 ۱۰
-سنیےء عاکف و ایجاز آہ و فغان کی آواز
+سنیے عاکف و ایجاز آہ و فغان کی آواز
 کہتے تھے اہلِ عزا ہاے غریب الوطن
