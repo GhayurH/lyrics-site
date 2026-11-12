@@ -6,197 +6,202 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar, J. Jaffri & A. Shanawar"
+reciter: "Ali Shanawar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jahan hairaan hai saara ye kya hai
-  
-  1
+  Jahaaṅ hairaan hai saara ye kya hai
   Ye kaisa soz o gham ka silsila hai
-  Ye kiska gham dilon par chaa gaya hai
-  Hussain ibne ali wo badshaah hai
+  Ye kis ka gham diloṅ par chhaa gaya hai
+  Husain ibn-e-Ali woh baadshaah hai
   Har qadam dil ki sada hai
   Har qadam ye har jagah hai
+
+  1
   Har qadam har dam naara
-  
+  Maula maula Husaina
+  Ya Husain salawaatullah
+  Maula maula Husaina
+
   2
-  Maula maula hussaina
-  Ya hussain salwatullah
-  Maula maula hussaina
-  Hum haideri hum fatemi
-  Hum karbalayi hai wallah
+  Hum Haidari hum Faatimi
+  Hum Karbalaai hai wallaah
   Har qadam har dam naara
-  
+  Maula maula Husaina
+
   3
-  Maula maula hussaina
-  Wallah wallah
-  Kya ishq e khuda hai wallah
+  Wallaah wallaah
+  Kya ishq-e-Khuda hai wallaah
   Ye aap se hai jaana
-  Kya raaz hai mar kar jeena
-  Is raaz ko pehchana
-  
-  4
-  Hairaan hai qurban hai
-  Is baat par hum ba-khuda
+  Kya raaz hai mar kar jina
+  Is raaz ko pehchaana
+  Hairaan hai qurbaan hai
+  Is baat par hum ba Khuda
   Jaan o dil tum par fida
-  Maula maula hussaina
+
+  4
+  Maula maula Husaina
   Har qadam har dam naara
-  Maula maula hussaina
-  
+  Maula maula Husaina
+  Ya Husain salawaatullah
+  Maula maula Husaina
+
   5
-  Ya hussain salwatullah
-  Maula maula hussaina
-  Ya hussain ya hussain hussain
-  Ya hussain hussain hussain
-  Ya hussain hussain hussain
-  Maula maula hussaina
-  
+  Ya Husain ya Husain Husain
+  Ya Husain Husain Husain
+  Ya Husain Husain Husain
+  Maula maula Husaina
+
   6
-  Gham maula hussain tumhara
-  Mere dil ka sahara hai
-  Gham bhool gaye hum apna
-  Gham yaad tumhara hai
-  Nauha padhe matam kare
-  Gham ye manaye rozana
-  
+  Gham Maula Husain tumhaara
+  Mere dil ka sahaara hai
+  Gham bhul gaye hum apna
+  Gham yaad tumhaara hai
+  Noha parhe maatam kare
+  Gham ye manaae rozaana
+  Maatami ki hai sada
+
   7
-  Matami ki hai sada
-  Maula maula hussaina
+  Maula maula Husaina
   Har qadam har dam naara
-  Maula maula hussaina
-  Ya hussain salwatullah
-  Maula maula hussaina
-  
+  Maula maula Husaina
+  Ya Husain salawaatullah
+  Maula maula Husaina
+
   8
-  Hum haideri hum fatemi
-  Hum karbalayi hai wallah
+  Hum Haidari hum Faatimi
+  Hum Karbalaai hai wallaah
   Har qadam har dam naara
-  Maula maula hussaina
-  Hussain ya hussain
-  Ya hussain ya hussain
-  
+  Maula maula Husaina
+
   9
-  Suno maula
-  Mere ghar mein tumhari baatein
-  Mere ghar mein aza khana
-  Mere ghar mein alam ghazi ka
-  Karta hai sada saaya
-  Ye raunakein ye barkatein hai aap se
-  
+  Husain ya Husain
+  Ya Husain ya Husain
+
   10
-  Shukr e khuda ya hussain rahmatullah
-  Maula maula hussaina
-  Jab kahoge ya hussain
-  Jab sunoge ya hussain
-  Dil ko mil jayega chain
-  Yehi sada e behro bar
-  
+  Suno Maula
+  Mere ghar mein tumhaari baateṅ
+  Mere ghar mein aza khaana
+  Mere ghar mein alam Ghaazi ka
+  Karta hai sada saaya
+  Ye raunqeṅ ye barkateṅ hai aap se
+  Shukr-e-Khuda ya Husain rahmatullah
+  Maula maula Husaina
+
   11
-  Yehi sadaaye khushk o tar
-  Chalo chalo chalo karbala chalo
-  Dar e hussain par ye sadayein do
-  Wahan khuda to hai mustafa bhi hai
-  Murtaza hassan fatema bhi hai
-  Bawafa abbas bhi hai
-  
+  Jab kahoge ya Husain
+  Jab sunoge ya Husain
+  Dil ko mil jaaega chain
+  Yehi sada-e-bahr o bar
+  Yehi sadaaeṅ khushk o tar
+  Chalo chalo chalo Karbala chalo
+  Dar-e-Husain par ye sadaaeṅ do
+  Wahaaṅ Khuda to hai Mustafa bhi hai
+  Murtaza Hasan Faatima bhi hai
+  Baawafa Abbas bhi hai
+
   12
-  Chalo chalo chalo karbala chalo
-  Chalo chalo karbala chalo
-  Mere maula bechain hai dil
-  Mera maula mujhe paas bulao na
-  Ek baar tumhi ghazi ko
-  Mera haal sunao na
-  
+  Chalo chalo chalo Karbala chalo
+  Chalo chalo Karbala chalo
+
   13
-  Kehna zara ye ilteja
-  Poori kare shaah e wafa
-  Aana hai ab karbala
-  Maula maula hussaina
-  Har qadam har dam naara
-  Maula maula hussaina
-  
+  Mere Maula bechain hai dil
+  Mera Maula mujhe paas bulaao na
+  Ik baar tumheṅ Ghaazi ko
+  Mera haal sunaao na
+  Kehna zara ye iltija
+  Puri kare Shaah-e-Wafa
+  Aana hai ab Karbala
+
   14
-  Ya hussain salwatullah
-  Maula maula hussaina
-  Ya hussain ya hussain hussain
-  Ya hussain hussain hussain
-  Ya hussain hussain hussain
-  Maula maula hussaina
-  
+  Maula maula Husaina
+  Har qadam har dam naara
+  Maula maula Husaina
+  Ya Husain salawaatullah
+  Maula maula Husaina
+
   15
-  Wo karbobala ashoora
-  Wo mashk o alam darya
-  Wo qasim o akbar ghazi
-  Jalta hua har qaima
-  Ay karbala tu hi bata kya
-  Kya sitam sheh par hua
-  
+  Ya Husain ya Husain Husain
+  Ya Husain Husain Husain
+  Ya Husain Husain Husain
+  Maula maula Husaina
+
   16
-  Haye sakina ke baba
-  Maula maula hussaina
-  Har qadam har dam naara
-  Maula maula hussaina
-  Ya hussain salwatullah
-  Maula maula hussaina
-  
+  Woh Karbobala Aashura
+  Woh mashk o alam darya
+  Woh Qaasim o Akbar Ghaazi
+  Jalta hua har khaima
+  Ae Karbala tu hi bata kya
+  Kya sitam Shah par hua
+  Haae Sakina ke baaba
+
   17
-  Hum haideri hum fatemi
-  Hum karbalayi hai wallah
+  Maula maula Husaina
   Har qadam har dam naara
-  Maula maula hussaina
-  Ya mazloom hussaina
-  Ya mazloom hussaina
-  
+  Maula maula Husaina
+  Ya Husain salawaatullah
+  Maula maula Husaina
+
   18
-  Ya mazloom hussaina
-  Ya mazloom hussaina
-  Mazloom e karbala
-  Mazloom e nainawa
+  Hum Haidari hum Faatimi
+  Hum Karbalaai hai wallaah
   Har qadam har dam naara
-  Maula maula hussaina
+  Maula maula Husaina
+
+  19
+  Ya mazlum Husaina
+  Ya mazlum Husaina
+  Ya mazlum Husaina
+  Ya mazlum Husaina
+  Mazlum-e-Karbala
+  Mazlum-e-Nainawa
+
+  20
+  Har qadam har dam naara
+  Maula maula Husaina
 # source_id: nohayonline:45abea34de996e67eafc
 # source_url: https://www.nohayonline.com/details_content.php?id=2830
 # raw_sha256: 8305375a845315e68b58541b15959c6ed577707a5b016e870ca09f8da70f5216
 ---
 
 جہاں حیران ہے سارا یہ کیا ہے
-
-۱
 یہ کیسا سوز و غم کا سلسلہ ہے
 یہ کس کا غم دلوں پر چھا گیا ہے
 حسین ابنِ علی وہ بادشاہ ہے
 ہر قدم دل کی صدا ہے
 ہر قدم یہ ہر جگہ ہے
-ہر قدم ہر دم نعرہ
 
-۲
+۱
+ہر قدم ہر دم نعرہ
 مولا مولا حسینا
 یا حسین صلوات اللہ
 مولا مولا حسینا
+
+۲
 ہم حیدری ہم فاطمی
 ہم کربلائی ہے واللہ
 ہر قدم ہر دم نعرہ
+مولا مولا حسینا
 
 ۳
-مولا مولا حسینا
 واللہ واللہ
 کیا عشقِ خدا ہے واللہ
 یہ آپ سے ہے جانا
 کیا راز ہے مر کر جینا
 اس راز کو پہچانا
-
-۴
 حیران ہے قربان ہے
 اس بات پر ہم با خدا
 جان و دل تم پر فدا
+
+۴
 مولا مولا حسینا
 ہر قدم ہر دم نعرہ
 مولا مولا حسینا
-
-۵
 یا حسین صلوات اللہ
 مولا مولا حسینا
+
+۵
 یا حسین یا حسین حسین
 یا حسین حسین حسین
 یا حسین حسین حسین
@@ -205,13 +210,13 @@ romanLyrics: |-
 ۶
 غم مولا حسین تمہارا
 میرے دل کا سہارا ہے
-غم بھول گےء ہم اپنا
-غم‌ یاد تمہارا ہے
+غم بھول گئے ہم اپنا
+غم یاد تمہارا ہے
 نوحہ پڑھے ماتم کرے
-غم یہ مناے روزانہ
+غم یہ منائے روزانہ
+ماتمی کی ہے صدا
 
 ۷
-ماتمی کی ہے صدا
 مولا مولا حسینا
 ہر قدم ہر دم نعرہ
 مولا مولا حسینا
@@ -223,85 +228,89 @@ romanLyrics: |-
 ہم کربلائی ہے واللہ
 ہر قدم ہر دم نعرہ
 مولا مولا حسینا
+
+۹
 حسین یا حسین
 یا حسین یا حسین
 
-۹
+۱۰
 سنو مولا
 میرے گھر میں تمہاری باتیں
 میرے گھر میں عزا خانہ
 میرے گھر میں علم غازی کا
 کرتا ہے صدا سایہ
 یہ رونقیں یہ برکتیں ہے آپ سے
-
-۱۰
-شکر خدا یا حسین رحمت اللہ
+شکرِ خدا یا حسین رحمت اللہ
 مولا مولا حسینا
+
+۱۱
 جب کہو گے یا حسین
 جب سنو گے یا حسین
 دل کو مل جائے گا چین
-یہی صداے بحر و بر
-
-۱۱
-یہی صداییں خشک و تر
+یہی صدائے بحر و بر
+یہی صدائیں خشک و تر
 چلو چلو چلو کربلا چلو
-در حسین پر یہ صداییں دو
+درِ حسین پر یہ صدائیں دو
 وہاں خدا تو ہے مصطفیٰ بھی ہے
-مرتظی حسن فاطمہ بھی ہے
+مرتضیٰ حسن فاطمہ بھی ہے
 باوفا عباس بھی ہے
 
 ۱۲
 چلو چلو چلو کربلا چلو
 چلو چلو کربلا چلو
-میرے مولا بے چین‌ ہے دل
+
+۱۳
+میرے مولا بے چین ہے دل
 میرا مولا مجھے پاس بلاؤ نہ
 اک بار تمہیں غازی کو
 میرا حال سناؤ نہ
-
-۱۳
-کہنا زرا یہ التجاء
-پوری کرے شاہ وفا
+کہنا ذرا یہ التجا
+پوری کرے شاہِ وفا
 آنا ہے اب کربلا
+
+۱۴
 مولا مولا حسینا
 ہر قدم ہر دم نعرہ
 مولا مولا حسینا
-
-۱۴
 یا حسین صلوات اللہ
 مولا مولا حسینا
+
+۱۵
 یا حسین یا حسین حسین
 یا حسین حسین حسین
 یا حسین حسین حسین
 مولا مولا حسینا
 
-۱۵
+۱۶
 وہ کربوبلا عاشورہ
 وہ مشک و علم دریا
 وہ قاسم و اکبر غازی
 جلتا ہوا ہر خیمہ
 اے کربلا تو ہی بتا کیا
 کیا ستم شہ پر ہوا
+ہائے سکینہ کے بابا
 
-۱۶
-ہاے سکینہ کے بابا
+۱۷
 مولا مولا حسینا
 ہر قدم ہر دم نعرہ
 مولا مولا حسینا
 یا حسین صلوات اللہ
 مولا مولا حسینا
 
-۱۷
+۱۸
 ہم حیدری ہم فاطمی
 ہم کربلائی ہے واللہ
 ہر قدم ہر دم نعرہ
 مولا مولا حسینا
-یا مظلوم حسینا
-یا مظلوم حسینا
 
-۱۸
+۱۹
 یا مظلوم حسینا
 یا مظلوم حسینا
-مظلوم کربلا
-مظلوم نینوا
+یا مظلوم حسینا
+یا مظلوم حسینا
+مظلومِ کربلا
+مظلومِ نینوا
+
+۲۰
 ہر قدم ہر دم نعرہ
 مولا مولا حسینا
