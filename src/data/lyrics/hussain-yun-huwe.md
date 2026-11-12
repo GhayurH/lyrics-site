@@ -1,40 +1,41 @@
 ---
 title: "حسین یوں ہوئے اے مجرئی وطن سے جدا"
-alternateTitle: "Hussain Yun Huwe"
+alternateTitle: "Husain Yuṅ Hue"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sibte Jafar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hussain yun huwe ay mujraee watan se juda
-  Ke jaise bulbul e nashaad ho chaman se juda
+  Husain yuṅ hue ae mujraee watan se juda
+  Ke jaise bulbul-e-naashaad ho chaman se juda
 
   1
-  Watan may phir ke safar se na jeete jee aaye
-  Ajab ghadi thi ke akbar huwe behan se juda
+  Watan meiṅ phir ki safar se na jite ji aaye
+  Ajab ghari thi ke Akbar hue behan se juda
 
   2
-  Nikaala gardan e asghar se teer jab sheh ne
-  Galay se behne laga khoon juda dahan se juda
+  Nikaala gardan-e-Asghar se tir jab Shah ne
+  Gale se behne laga khuṅ juda dahan se juda
 
   3
-  Sakina mar gayi qaid e sitam may ghut ghut kar
-  Magar na chand si gardan hui rasan se juda
+  Sakina mar gayi qaid-e-sitam meiṅ ghut ghut ke
+  Magar na chaand si gardan hui rasan se juda
 
   4
-  Jina may payenge ghar ahlebait ke madda
-  Sila khuda se juda lenge panjetan se juda
+  Jinaaṅ meiṅ paaeṅ ge ghar Ahl-e-Bait ke maddaah
+  Sila Khuda se juda leṅ ge Panjetan se juda
 
   5
-  Sipaah e shaam se nikla jo hurr malak bole
-  Wo aaftaab e darakshaan hua gahan se juda
+  Sipaah-e-Shaam se nikla jo Hur malak bole
+  Wo aaftaab-e-darakhshaaṅ hua gahan se juda
 
   6
-  Shaheed e zulm hai dono nabi ke lakhte jigar
-  Ghame hussain nahi matame hassan se juda
+  Shahid-e-zulm haiṅ donoṅ Nabi ke lakht-e-jigar
+  Gham-e-Husain nahiṅ maatam-e-Hasan se juda
 # source_id: nohayonline:b888ecc7f89bcecec9a4
 # source_url: https://www.nohayonline.com/details_content.php?id=2686
 # raw_sha256: dc4fcfbd87f9f859f8e06aa5404a705a76f91117352f055e59e475a5ddab736f
@@ -43,8 +44,8 @@ romanLyrics: |-
 کہ جیسے بلبل ناشاد ہو چمن سے جدا
 
 ۱
-وطن میں پھر کی سفر سے نہ جیتے جی آے
-عجب گھڑی تھی کہ اکبر ہوے بہن سے جدا
+وطن میں پھر کی سفر سے نہ جیتے جی آئے
+عجب گھڑی تھی کہ اکبر ہوئے بہن سے جدا
 
 ۲
 نکالا گردن اصغر سے تیر جب شہہ نے
@@ -60,7 +61,7 @@ romanLyrics: |-
 
 ۵
 سپاہ شام سے نکلا جو حر ملک بولے
-وہ آفتاب درخشاں ہؤا گہن سے جدا
+وہ آفتاب درخشاں ہوا گہن سے جدا
 
 ۶
 شہید ظلم ہیں دونوں نبی کے لخت جگر

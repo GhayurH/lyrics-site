@@ -1,72 +1,73 @@
 ---
 title: سنو حسینیوں سنو حسینیوں
-alternateTitle: Hussain Zindabad
+alternateTitle: Husain Zindaabaad
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
-poet: Rehaan Azmi
 poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Suno hussainiyo suno hussainiyo
-  Hussain wo jo zer e taygh has ke so gaya
-  Yazid wo jo zillaton ka naam ho gaya
-  Hussain wo jo marzi e khuda khareed le
-  Yazid wo hai jiska koi naam bhi na le
-  Yazid zinda reh ke murdabad ho gaya
-  Hussain sar kata ke zindabad zindabad zindabad ho gaya
-  Zindabad zindabad zindabad zindabad zindabad
-  Hussain zindabad hussain zindabad
-  Hussain zindabad hussain zindabad
-  Ye kal bhi zindabad tha wo ab bhi zindabad hai
+  Suno Husainiyoṅ suno Husainiyoṅ
+  Husain wo jo zer-e-tegh hans ke so gaya
+  Yazid wo jo zillatoṅ ka naam ho gaya
+  Husain wo jo marzi-e-Khuda kharid le
+  Yazid wo hai jis ka koi naam bhi na le
+  Yazid zinda reh ke murdaabaad ho gaya
+  Husain sar kata ke zindaabaad zindaabaad zindaabaad ho gaya
+  Zindaabaad zindaabaad zindaabaad zindaabaad zindaabaad
+
+  Husain zindaabaad Husain zindaabaad
+  Husain zindaabaad Husain zindaabaad
+
+  Ye kal bhi zindaabaad tha wo ab bhi zindaabaad hai
 
   1
-  Quran may hadees may yazid ka bayan nahi
-  Yazid ki to qabr ka kahin bhi koi nishan nahi
-  Haa jaa bajaa hai dehr may hussain ki aulaad hai
+  Quraan meiṅ hadis meiṅ Yazid ka bayaaṅ nahiṅ
+  Yazid ki to qabr ka kahiṅ bhi koi nishaan nahiṅ
+  Haaṅ jaa bajaa hai dehr meiṅ Husain ki aulaad hai
 
   2
-  Buraiyon ko dehr may yazid aam kargaya
-  Hussain se lada to apni maut aap mar gaya
-  Ye kal bhi murdabad tha ye ab bhi murdabad hai
+  Buraaiyoṅ ko dehr meiṅ Yazid aam kar gaya
+  Husain se lara to apni maut aap mar gaya
+  Ye kal bhi murdaabaad tha ye ab bhi murdaabaad hai
 
   3
-  Har ek shareef zehn se yazid itna gir gaya
-  Kisi ne apni laal ka yazid naam na rakha
-  Ye kal bhi namurad tha ye ab bhi namurad hai
+  Har ek sharif zehn se Yazid itna gir gaya
+  Kisi ne apne laal ka Yazid naam na rakha
+  Ye kal bhi naamuraad tha ye ab bhi naamuraad hai
 
   4
-  Yazid waale takht par naseeb ke kharab hai
-  Hussain waale qaid may bhi reh ke kamiyab hai
-  Hussainyat ki thokare yazid aur ibne ziyad hai
+  Yazid waale takht par nasib ke kharaab haiṅ
+  Husain waale qaid meiṅ bhi reh ke kaamyaab haiṅ
+  Husainiyat ki thokareṅ Yazid aur Ibn-e-Ziyaad haiṅ
 
   5
-  Jahan may sab se zyada ashk jiske naam par baha
-  Zamane laa gham e hussain ka koi jawab laa
-  Guinness book ko bus mere hussain se anaad hai
+  Jahaaṅ meiṅ sab se zyaada ashk jis ke naam par baha
+  Zamaane laa gham-e-Husain ka koi jawaab laa
+  Guinness Book ko bas mere Husain se anaad hai
 
   6
-  Yazid ek laakh ho mukaable pe gham nahi
-  Hussain waala ek ho to lashkaro se kam nahi
-  Hussain ko bhi apne matami pe aetmaad hai
+  Yazid ek laakh ho muqaable pe gham nahiṅ
+  Husain waala ek ho to lashkaroṅ se kam nahiṅ
+  Husain ko bhi apne maatami pe aetmaad hai
 
   7
-  Ali ki beti zainab e hazeen hussain ban gayi
-  Shareekatul hussain thi yazidiyat pe cha gayi
-  Hussain se padha hua sabakh jo is ko yaad hai
+  Ali ki beti Zainab-e-haziṅ Husain ban gayi
+  Sharikatul Husain thi Yazidiyat pe chhaa gayi
+  Husain se parha hua sabaq jo is ko yaad hai
 
   8
-  Tarana e hussain hai haa saath do hussainiyo
-  Hussain se murad lo murad lo hussainiyo
-  Hussain jis ko dede uski nasl ba-murad hai
+  Taraana-e-Husain hai haaṅ saath do Husainiyoṅ
+  Husain se muraad lo muraad lo Husainiyoṅ
+  Husain jis ko de de us ki nasl baamuraad hai
 
   9
-  Nabi ka mulk e paak hai nadeem aur rehaan hai
-  Hamari sarhado pe sab hussain ke jawan hai
-  Karam hai mustafa ka apna mulk shaad o baad hai
+  Nabi ka mulk-e-paak hai Nadim aur Rehaan haiṅ
+  Hamaari sarhadoṅ pe sab Husain ke jawaan haiṅ
+  Karam hai Mustafa ka apna mulk shaad o baad hai
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:46c25d63d246c0c26c14
 # source_url: https://www.nohayonline.com/details_content.php?id=2045
@@ -78,13 +79,15 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 سنو حسینیوں سنو حسینیوں
 حسین وہ جو زیر تیغ ہنس کے سو گیا
 یزید وہ جو ذلتوں کا نام ہو گیا
-حسین وہ جو مرضیء خدا خرید لے
-یزید وہ ہے جس کا کوی نام بھی نہ لے
+حسین وہ جو مرضیٔ خدا خرید لے
+یزید وہ ہے جس کا کوئی نام بھی نہ لے
 یزید زندہ رہ کے مردہ باد ہو گیا
 حسین سر کٹا کے زندہ باد زندہ باد زندہ باد ہو گیا
 زندہ باد زندہ باد زندہ باد زندہ باد زندہ باد
+
 حسین زندہ باد حسین زندہ باد
 حسین زندہ باد حسین زندہ باد
+
 یہ کل بھی زندہ باد تھا وہ اب بھی زندہ باد ہے
 
 ۱
@@ -93,23 +96,23 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 ہاں جابجا ہے دہر میں حسین کی اولاد ہے
 
 ۲
-براییوں کو دہر میں یزید عام کر گیا
+برائیوں کو دہر میں یزید عام کر گیا
 حسین سے لڑا تو اپنی موت آپ مر گیا
 یہ کل بھی مردہ باد تھا یہ اب بھی مردہ باد ہے
 
 ۳
 ہر ایک شریف ذہن سے یزید اتنا گر گیا
 کسی نے اپنے لال کا یزید نام نہ رکھا
-یہ کل بھی نامراد تھا یہ اب بھی نا مراد ہے
+یہ کل بھی نامراد تھا یہ اب بھی نامراد ہے
 
 ۴
-یزید والے تخت پر نصیب کے خراب ہے
-حسین والے قید میں بھی رہ کے کامیاب ہے
+یزید والے تخت پر نصیب کے خراب ہیں
+حسین والے قید میں بھی رہ کے کامیاب ہیں
 حسینیت کی ٹھوکریں یزید اور ابنِ زیاد ہیں
 
 ۵
-جہاں میں سب سے ذیادہ اشک جس کے نام پر بہا
-زمانے لا غمِ حسین کا کوی جواب لا
+جہاں میں سب سے زیادہ اشک جس کے نام پر بہا
+زمانے لا غمِ حسین کا کوئی جواب لا
 گنیز بک کو بس میرے حسین سے آنند ہے
 
 ۶
@@ -118,16 +121,16 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 حسین کو بھی اپنے ماتمی پہ اعتماد ہے
 
 ۷
-علی کی بیٹی زینب حزیں حسین بن گیء
-شریکت الحسین تھی یزیدیت پہ چھا گیء
+علی کی بیٹی زینب حزیں حسین بن گئی
+شریکت الحسین تھی یزیدیت پہ چھا گئی
 حسین سے پڑھا ہوا سبق جو اس کو یاد ہے
 
 ۸
-ترانہء حسین ہے ہاں ساتھ دو حسینوں
-حسین سے مراد لو مراد لو حسینوں
-حسین جس کو دیدے اسکی نسل با مراد ہے
+ترانۂ حسین ہے ہاں ساتھ دو حسینیوں
+حسین سے مراد لو مراد لو حسینیوں
+حسین جس کو دے دے اس کی نسل بامراد ہے
 
 ۹
-نبی کا ملک پاک ہے ندیم اور ریحان
+نبی کا ملک پاک ہے ندیم اور ریحان ہیں
 ہماری سرحدوں پہ سب حسین کے جوان ہیں
 کرم ہے مصطفیٰ کا اپنا ملک شاد و باد ہے
