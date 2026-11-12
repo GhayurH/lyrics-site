@@ -6,58 +6,63 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kya aalame gurbat hai
-  Jari ke khaak par baazu pade hai
-  Kamar thaame huwe sarwar khade hai
-  Sakina se thay kuch manoos itne
-  Lage hai teer mashkeeze pa jitne
-  Wo sab abbas ke dil mein gade hai
+  Kya aalam-e-ghurbat hai
+
+  Jari ke khaak par baazu pare haiṅ
+  Kamar thaame hue Sarwar khare haiṅ
+
+  Sakina se the kuch maanus itne
+  Lage hai tir mashkize pe jitne
+  Wo sab Abbas ke dil mein gare haiṅ
 
   1
-  Na poocho haal ay akbar hamara
-  Badan zakhmi hai be-haathon ka saara
-  Chacha kitne masayab se lade hai
+  Na puchho haal ae Akbar hamaara
+  Badan zakhmi hai behaathoṅ ka saara
+  Chacha kitne masaaib se lare haiṅ
 
   2
-  Dilaasa pyaas ke maaron ko dene
-  Chalo abbas hum aaye hai lene
-  Tumhare muntazir bacche bade hai
+  Dilaasa pyaas ke maaroṅ ko dene
+  Chalo Abbas hum aaye haiṅ lene
+  Tumhaare muntazir bachche bare haiṅ
 
   3
-  Na le jaana meri mayyat yahan se
-  Waisyat sunke ammu ki zaban se
-  Ali akbar tadap kar ro pade hai
+  Na le jaana meri mayyat yahaaṅ se
+  Wasiyyat sun ke ammu ki zabaaṅ se
+  Ali Akbar tarap kar ro pare haiṅ
 
   4
-  Mai ab pani nahi aansu piyungi
-  Chacha aajaiye kaise jiyungi
-  Mera nanha sa dil hai gham bade hai
+  Main ab paani nahiṅ aansu piyuṅ gi
+  Chacha aa jaaiye kaise jiyuṅ gi
+  Mera nanha sa dil hai gham bare haiṅ
 
   5
-  Rida ab bhai ke shaano pa daalo
-  Na tadpo ay behen khud ko sambhalo
-  Tumhare imtehan is se kade hai
+  Rida ab bhaai ke shaanoṅ pe daalo
+  Na tarpo ae behen khud ko sambhaalo
+  Tumhaare imtihaaṅ is se kare haiṅ
 
   6
-  Ghulami ka tha waada apni maa se
-  Kahe abbas bhai kis zaban se
-  Magar is baat par sarwar aday hai
+  Ghulaami ka tha waada apni maaṅ se
+  Kahe Abbas bhaai kis zabaaṅ se
+  Magar is baat par Sarwar are haiṅ
 
   7
-  Ruke kab aamir o akhtar ye aansu
-  Bohat yaad aaye ek saqqe ke baazu
-  Masayab jab bhi ghazi ke padhe hai
+  Ruke kab Aamir o Akhtar ye aansu
+  Bahut yaad aaye ek saqqe ke baazu
+  Masaaib jab bhi Ghaazi ke parhe haiṅ
 # source_id: nohayonline:8390de78652753efd062
 # source_url: https://www.nohayonline.com/details_content.php?id=3607
 # raw_sha256: dfffe25913e6d6330f84a769ce721f539d6ca2e833534f8469bd170fbe7d7288
 ---
 کیا عالم غربت ہے
+
 جری کے خاک پر بازو پڑے ہیں
 کمر تھامے ہوئے سرور کھڑے ہیں
+
 سکینہ سے تھے کچھ مانوس اتنے
 لگے ہے تیر مشکیزے پہ جتنے
 وہ سب عباس کے دل میں گڑے ہیں
@@ -69,7 +74,7 @@ romanLyrics: |-
 
 ۲
 دلاسہ پیاس کے ماروں کو دینے
-چلو عباس ہم آے ہیں لینے
+چلو عباس ہم آئے ہیں لینے
 تمہارے منتظر بچے بڑے ہیں
 
 ۳
@@ -78,8 +83,8 @@ romanLyrics: |-
 علی اکبر تڑپ کر رو پڑے ہیں
 
 ۴
-میں اب پانی نہیں آنسوں پیوں گی
-چچا آجائیےء کیسے جیوں گی
+میں اب پانی نہیں آنسو پیوں گی
+چچا آ جائیے کیسے جیوں گی
 میرا ننھا سا دل ہے غم بڑے ہیں
 
 ۵
@@ -93,6 +98,6 @@ romanLyrics: |-
 مگر اس بات پر سرور اڑے ہیں
 
 ۷
-رکے کب عامر و اختر یہ آنسوں
-بہت یاد آے ایک سقے کے بازو
-مصایب جب بھی غازی کے پڑھے ہیں
+رکے کب عامر و اختر یہ آنسو
+بہت یاد آئے ایک سقے کے بازو
+مصائب جب بھی غازی کے پڑھے ہیں
