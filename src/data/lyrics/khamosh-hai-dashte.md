@@ -1,41 +1,43 @@
 ---
 title: "خاموش ہے دشتِ کربوبلا"
-alternateTitle: "Khamosh Hai Dashte"
+alternateTitle: "Khaamosh Hai Dasht-e-Karbobala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Alamdar Razvi"
 tags: ["noImage"]
-aliases: []
+aliases:
+  - "Khamosh Hai Dashte"
 published: false
 romanLyrics: |-
-  Khamosh hai dashte karbobala
-  Ab koi nahi rone waala
-  Maa karti hai aksar raaton ko
+  Khaamosh hai dasht-e-Karbobala
+  Ab koi nahiṅ rone waala
+  Maaṅ karti hai aksar raatoṅ ko
   Shabbir ke laashe par naala
 
   1
-  Aane do qayamat aane do
-  Bolenge labe khudrat khud hi
-  Ek bakshish e ummat ki khaatir
+  Aane do qayaamat aane do
+  Boleṅ ge lab-e-qudrat khud hi
+  Ik bakhshish-e-ummat ki khaatir
   Shabbir ne kya kuch de daala
   
   2
-  Hai mashk e sakina kaandhe par
-  Hoshiyar taraayi se aada
+  Hai mashk-e-Sakina kaandhe par
+  Hoshiyaar taraai se aada
   Khaali na phirega darya se
   Darya ki taraf aane waala
   
   3
-  Shabbir ki nusrat may tu ne
-  Baysheer ki himmat dekhi hai
-  Ay teer e sitam ye sach kehna
-  Roya to nahi hasne waala
+  Shabbir ki nusrat meiṅ tu ne
+  Beshir ki himmat dekhi hai
+  Ae tir-e-sitam ye sach kehna
+  Roya to nahiṅ haṅsne waala
   
   4
-  Shabbir ki nazrein peeri may
-  Kis tarha ye manzar dekhegi
-  Ay zulm ke baani soch to le
+  Shabbir ki nazreṅ piri meiṅ
+  Kis tarah ye manzar dekhe gi
+  Ae zulm ke baani soch to le
   Akbar ka kaleja aur bhaala
 # source_id: nohayonline:1269fe2bfe9f84533130
 # source_url: https://www.nohayonline.com/details_content.php?id=2029
@@ -55,7 +57,7 @@ romanLyrics: |-
 
 ۲
 ہے مشک سکینہ کاندھے پر
-ہوشیار ترای سے اعدا
+ہوشیار ترائی سے اعدا
 خالی نہ پھرے گا دریا سے
 دریا کی طرف آنے والا
 
@@ -63,7 +65,7 @@ romanLyrics: |-
 شبیر کی نصرت میں تو نے
 بے شیر کی ہمت دیکھی ہے
 اے تیر ستم یہ سچ کہنا
-رویا تو نہیں ہسنے والا
+رویا تو نہیں ہنسنے والا
 
 ۴
 شبیر کی نظریں پیری میں

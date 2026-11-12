@@ -1,82 +1,84 @@
 ---
-title: "ہاے ہاے علی اکبر"
-alternateTitle: "Khamosh Hai Maula"
+title: "ہائے ہائے علی اکبر"
+alternateTitle: "Khaamosh Hai Maula"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
-aliases: []
+aliases:
+  - "Khamosh Hai Maula"
 published: false
 romanLyrics: |-
-  Haye haye ali akbar
-  Laasha jawan bete ka hai saame pada
-  Khamosh hai maula
-  Armaan tha jiski shadi ka wo laal mar gaya
-  Khamosh hai maula
+  Haae haae Ali Akbar
+  Laasha jawaan bete ka hai saamne para
+  Khaamosh hai Maula
+  Armaan tha jiski shaadi ka wo laal mar gaya
+  Khaamosh hai Maula
+  Allah kitna saabir hai Husain
 
   1
-  Allah kitna saabir hai hussain
-  Shaana kabhi hilata hai chehra kabhi thapakta hai
-  Kitna ghareeb baba hai
-  Haste hai barchiyon waale akbar nahi uth'ta
-  Khamosh hai maula
+  Shaana kabhi hilaata hai chehra kabhi thapakta hai
+  Kitna gharib baaba hai
+  Haṅste hai barchhiyoṅ waale Akbar nahiṅ uthta
+  Khaamosh hai Maula
   
   2
-  Zainab na dekh le aakar ye ran mein kaisa manzar hai
-  Bete ka godh mein sar hai
-  Ek haath mein kaleja hai ek haath mein naiza
-  Khamosh hai maula
+  Zainab na dekh le aa kar ye ran meiṅ kaisa manzar hai
+  Bete ka god meiṅ sar hai
+  Ek haath meiṅ kaleja hai ek haath meiṅ naiza
+  Khaamosh hai Maula
   
   3
-  Athara saal waale ke chehre pe kuch nishan bhi hai
-  Aur tooti phasliyan bhi hai
-  Bete ka haal dekh ke yaad aati hai zahra
-  Khamosh hai maula
+  Athaara saal waale ke chehre pe kuch nishaaṅ bhi hai
+  Aur tuti pasliyaaṅ bhi hai
+  Bete ka haal dekh ke yaad aati hai Zahra
+  Khaamosh hai Maula
   
   4
-  Tum sabr karna ay baba seene se khaynch kar barchi
-  Akbar ki ye wasiyat thi
-  Seene se khaynch li barchi poora hua waada
-  Khamosh hai maula
+  Tum sabr karna ae baaba sine se kheṅch kar barchhi
+  Akbar ki ye wasiyyat thi
+  Sine se kheṅch li barchhi pura hua waada
+  Khaamosh hai Maula
   
   5
-  Apne zaeef kaandhe par laashe jawan uthaate hai
-  Uth'te hai baith jaate hai
-  Ghazi ki yaad aati hai uth'ta nahi laasha
-  Khamosh hai maula
+  Apne zaif kaandhe par laash-e-jawaaṅ uthaate haiṅ
+  Uthte haiṅ baith jaate haiṅ
+  Ghaazi ki yaad aati hai uthta nahiṅ laasha
+  Khaamosh hai Maula
   
   6
-  Qaime mein shaah le aaye kadiyal jawan ka laasha
-  Kohraam hogaya barpa
-  Bhai ke zakhmi seene se lipti hai sakina
-  Khamosh hai maula
+  Khaime meiṅ Shaah le aaye karyal jawaan ka laasha
+  Kohraam ho gaya barpa
+  Bhai ke zakhmi sine se lipti hai Sakina
+  Khaamosh hai Maula
   
   7
-  Kya bebasi ka aalam tha aaya jo khat madine se
-  Maula jawab kya dete
-  Akbar ke zakhmi seene par rakh kar khate sughra
-  Khamosh hai maula
+  Kya bebasi ka aalam tha aaya jo khat Madine se
+  Maula jawaab kya dete
+  Akbar ke zakhmi sine par rakh kar khat-e-Sughra
+  Khaamosh hai Maula
   
   8
-  Tha fatema ki beti ka kitna khayal dono ko
-  Zeeshan abidi dekho
-  Zainab sirhane baithi hai khamosh hai laila
-  Khamosh hai maula
+  Tha Fatema ki beti ka kitna khayaal donoṅ ko
+  Zishaan Abidi dekho
+  Zainab sarhaane baithi hai khaamosh hai Laila
+  Khaamosh hai Maula
 # source_id: nohayonline:cf08d81c891960763177
 # source_url: https://www.nohayonline.com/details_content.php?id=3718
 # raw_sha256: de1f5928722d18b35b47d6a55e6ffbfa5391d8b2d796806e5e5aedf2d5182c06
 ---
 
-ہاے ہاے علی اکبر
+ہائے ہائے علی اکبر
 لاشہ جوان بیٹے کا ہے سامنے پڑا
 خاموش ہے مولا
 ارمان تھا جس شادی کا وہ لال مر گیا
 خاموش ہے مولا
+اللہ کتنا صابر ہے حسین
 
 ۱
-اللہ کتنا صابر ہے حسین
 شانہ کبھی ہلاتا ہے چہرہ کبھی تھپکتا ہے
 کتنا غریب بابا ہے
 ہنستے ہے برچھیوں والے اکبر نہیں اٹھتا
@@ -109,7 +111,7 @@ romanLyrics: |-
 ۶
 خیمے میں شاہ لے آئے کڑیل جوان کو
 کہرام ہو گیا برپا
-بھای کی زخمی سینے سے لپٹی ہے سکینہ
+بھائی کی زخمی سینے سے لپٹی ہے سکینہ
 خاموش ہے مولا
 
 ۷
