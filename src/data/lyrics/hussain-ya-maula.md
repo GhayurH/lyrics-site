@@ -1,97 +1,99 @@
 ---
 title: "جس نے بھی ڈھونڈا تجھے رب کو ہے پایا"
-alternateTitle: "Hussain Ya Maula"
+alternateTitle: "Husain Ya Maula"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Safdar Abbas"
 tags: ["noImage"]
-aliases: []
+aliases: ["Hussain Ya Maula"]
 published: false
 romanLyrics: |-
-  Jis ne bhi dhoonda tujhe rab ko hai paaya
-  Tu hai zameen pe mohamed ka saaya
-  Deen e mohamed ko tu ne bachaya
+  Jis ne bhi dhunda tujhe Rab ko hai paaya
+  Tu hai zamiṅ pe Muhammad ka saaya
+  Din-e-Muhammad ko tu ne bachaaya
   Zindagi saath tere bandagi saath tere
-  Karbobala ne ye sikhaya
-  Mai haq ke saath kahun
-  Bas yehi baat kahun
-  Teri wila hai sarmaya
-  Tu hai nabi ka noore ain
-  Hussain ya maula hussain
+  Karbobala ne ye sikhaaya
+  Main haq ke saath kahuṅ
+  Bas yehi baat kahuṅ
+  Teri wila hai sarmaaya
+
+  Tu hai Nabi ka nur-e-ain
+  Husain ya Maula Husain
 
   1
-  Deene khuda ka manshoor tu hai
-  Rasme wafa ka dastoor tu hai
-  Ooncha jahan mein tera alam hai
-  Kon a makan mein tu mohtaram hai
-  Lab pe dua rahe yabnaz zahra hussain
-  Teri adalat hai yabnaz zahra hussain
+  Din-e-Khuda ka manshur tu hai
+  Rasm-e-wafa ka dastur tu hai
+  Uncha jahaaṅ mein tera alam hai
+  Kaun o makaaṅ mein tu mohtaram hai
+  Lab pe dua rahe Yabnaz Zahra Husain
+  Teri adaalat hai Yabnaz Zahra Husain
 
   2
-  Hurr ka muqaddar tu ne jagaya
-  John ko tu ne apna banaya
-  Tu ne charaghe qaima bujha kar
-  Sab ki wafaon ko aazma kar
-  Aisa sila diya yabnaz zahra hussain
-  Rab se mila diya yabnaz zahra hussain
+  Hurr ka muqaddar tu ne jagaaya
+  Jaun ko tu ne apna banaaya
+  Tu ne charaagh-e-khaima bujha kar
+  Sab ki wafaaoṅ ko aazma kar
+  Aisa sila diya Yabnaz Zahra Husain
+  Rab se mila diya Yabnaz Zahra Husain
 
   3
-  Sharte shifa'at teri mohabbat
-  Sharte mohabbat teri ita'at
-  Teri ita'at rab ki ita'at
-  Tujhse adawat rab se adawat
-  Dunya ka kya khabar yabnaz zahra hussain
-  Hai kitna mohtabar yabnaz zahra hussain
+  Shart-e-shafaaat teri mohabbat
+  Shart-e-mohabbat teri itaaat
+  Teri itaaat Rab ki itaaat
+  Tujh se adaawat Rab se adaawat
+  Duniya ka kya khabar Yabnaz Zahra Husain
+  Hai kitna motabar Yabnaz Zahra Husain
 
   4
-  Bayyat se tera inkaar maula
-  Ahle sitam se paikaar maula
-  Ghayr ke laaye saare sitamgar
-  Jeet gaya tu haare sitamgar
-  Goonji ban mein azan yabnaz zahra hussain
-  Pursa kari kahan yabnaz zahra hussain
+  Baiat se tera inkaar Maula
+  Ahl-e-sitam se paikaar Maula
+  Ghair ke laaye saare sitamgar
+  Jit gaya tu haare sitamgar
+  Gunji ban mein azaaṅ Yabnaz Zahra Husain
+  Pursa kari kahaaṅ Yabnaz Zahra Husain
 
   5
-  Jaati hai jaan chale jaaye hamay gham kya
-  Raah e wafa ko kabhi chodenge hum kya
+  Jaati hai jaan chale jaaye hameiṅ gham kya
+  Raah-e-wafa ko kabhi chhoreṅ ge hum kya
   Zehra se waada hum ne kiya hai
   Bas ye iraada hum ne kiya hai
-  Chaahe mar jaaye hum yabnaz zahra hussain
-  Zinda rakhenge gham yabnaz zahra hussain
+  Chaahe mar jaaye hum Yabnaz Zahra Husain
+  Zinda rakheiṅ ge gham Yabnaz Zahra Husain
 
   6
-  Kishte alaam se tu ne nikal kar
-  Nok e sina ko bana diya mimbar
-  Tu ne lahoo se maqtal sajaya
-  Teri bahan ne zinda basaya
-  Rote huwe kaha yabnaz zahra hussain
-  Matam hoga tera yabnaz zahra hussain
+  Kisht-e-aalaam se tu ne nikal kar
+  Nok-e-sinaaṅ ko bana diya mimbar
+  Tu ne lahu se maqtal sajaaya
+  Teri behen ne zinda basaaya
+  Rote hue kaha Yabnaz Zahra Husain
+  Maatam hoga tera Yabnaz Zahra Husain
 
   7
-  Shaam e ghariban bhoole nahi hum
-  Rote huwe bacchon ki sadayein
-  Shimr e layeen ne qaime jala kar
-  Ahle haram ki cheeni ridayein
-  Nok e sina par ooncha tera sar
-  Jaari tha quran teri zaban par
-  Jo dekha jo suna yabnaz zahra hussain
-  Raavi ne likh diya yabnaz zahra hussain
+  Shaam-e-gharibaaṅ bhule nahiṅ hum
+  Rote hue bachchoṅ ki sadaaeiṅ
+  Shimr-e-laiṅ ne khaime jala kar
+  Ahl-e-haram ki chhini ridaaeiṅ
+  Nok-e-sinaaṅ par uncha tera sar
+  Jaari tha Quraan teri zabaan par
+  Jo dekha jo suna Yabnaz Zahra Husain
+  Raavi ne likh diya Yabnaz Zahra Husain
 
   8
-  Waada ye tujhse karte hai ro kar
-  Farshe aza par safdar o mazhar
-  Ghaafil na honge teri aza se
-  Dil ko sukoon hai aah o buka se
-  Tujhse wabastagi yabnaz zahra hussain
-  Ho saari zindagi yabnaz zahra hussain
+  Waada ye tujh se karte haiṅ ro kar
+  Farsh-e-aza par Safdar o Mazhar
+  Ghaafil na hoṅ ge teri aza se
+  Dil ko sukun hai aah o buka se
+  Tujh se waabastagi Yabnaz Zahra Husain
+  Ho saari zindagi Yabnaz Zahra Husain
 
   9
-  Tu hi to faatah e karbobala hai
-  Hussain hussain hussaina
-  Saare jahan ke labon pe sada hai
-  Hussain hussain hussaina
+  Tu hi to faatih-e-Karbobala hai
+  Husain Husain Husaina
+  Saare jahaaṅ ke laboṅ pe sada hai
+  Husain Husain Husaina
 # source_id: nohayonline:2904e3d783039a111aa0
 # source_url: https://www.nohayonline.com/details_content.php?id=3137
 # raw_sha256: dc7582c54e6b58a4bd4662262ebe05002c9da4758973166346d3fac74151b0a0
@@ -104,6 +106,7 @@ romanLyrics: |-
 میں حق کے ساتھ کہوں
 بس یہی بات کہوں
 تیری ولا ہے سرمایہ
+
 تو ہے نبی کا نورِ عین
 حسین یا مولا حسین
 
@@ -133,23 +136,23 @@ romanLyrics: |-
 
 ۴
 بیعت سے تیرا انکار مولا
-أہل ستم سے پیکار مولا
-غیر کے لاے سارے ستمگر
+اہل ستم سے پیکار مولا
+غیر کے لائے سارے ستمگر
 جیت گیا تو ہارے ستمگر
 گونجی بن میں اذاں یبن الزہراء حسین
 پرسہ کری کہاں یبن الزہراء حسین
 
 ۵
-جاتی ہے جان چلے جاے ہمیں غم کیا
+جاتی ہے جان چلے جائے ہمیں غم کیا
 راہ وفا کو کبھی چھوڑیں گے ہم کیا
 زہرا سے وعدہ ہم نے کیا ہے
 بس یہ ارادہ ہم نے کیا ہے
-چاہے مر جاۓ ہم یبن الزہراء حسین
+چاہے مر جائے ہم یبن الزہراء حسین
 زندہ رکھیں گے غم یبن الزہراء حسین
 
 ۶
-کشت آلام سے‌ تو نے نکل کر
-نوکِ سناں کو بنا دیا ممبر
+کشت آلام سے تو نے نکل کر
+نوکِ سناں کو بنا دیا منبر
 تو نے لہو سے مقتل سجایا
 تیری بہن نے زندہ بسایا
 روتے ہوئے کہا یبن الزہراء حسین
@@ -157,9 +160,9 @@ romanLyrics: |-
 
 ۷
 شام غریباں بھولے نہیں ہم
-روتے ہوئے بچوں کی صداییں
+روتے ہوئے بچوں کی صدائیں
 شمر لعیں نے خیمے جلا کر
-اہلِ حرم کی چھینی رداییں
+اہلِ حرم کی چھینی ردائیں
 نوکِ سناں پر اونچا تیرا سر
 جاری تھا قرآن تیری زبان پر
 جو دیکھا جو سنا یبن الزہراء حسین

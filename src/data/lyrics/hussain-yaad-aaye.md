@@ -1,57 +1,58 @@
 ---
 title: "اُٹھا جو کوئی جنازہ حسین یاد آۓ"
-alternateTitle: "Hussain Yaad Aaye"
+alternateTitle: "Husain Yaad Aaye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
+reciter: "Mir Sajjad Mir"
 tags: ["noImage"]
-aliases: []
+aliases: ["Hussain Yaad Aaye"]
 published: false
 romanLyrics: |-
-  Utha jo koi janaza hussain yaad aaye
-  Jo dekha koi bhi pyasa hussain yaad aaye
+  Utha jo koi janaaza Husain yaad aaye
+  Jo dekha koi bhi pyaasa Husain yaad aaye
 
   1
-  Churi chalaane se pehle kisi zabeehe par
-  Jab usko pani pilaaya hussain yaad aaye
+  Chhuri chalaane se pehle kisi zabihe par
+  Jab us ko paani pilaaya Husain yaad aaye
 
   2
-  Wo jis ka koi bhi waaris nahi tha dunya may
-  Kafan jab usne bhi paaya hussain yaad aaye
+  Wo jis ka koi bhi waaris nahiṅ tha duniya mein
+  Kafan jab us ne bhi paaya Husain yaad aaye
 
   3
-  Kisi yateema ko mayyat se uske baba ki
-  Jo pyar kar ke hataya hussain yaad aaye
+  Kisi yatima ko mayyat se us ke baaba ki
+  Jo pyaar kar ke hataaya Husain yaad aaye
 
   4
-  Nazar may phir gaya kadiyal jawan ka laasha
-  Kisi ne baandha jo sehra hussain yaad aaye
+  Nazar mein phir gaya karyal jawaan ka laasha
+  Kisi ne baandha jo sehra Husain yaad aaye
 
   5
-  Jawan bhai ke laashe ko ek bhai ne
-  Jo ro ke seene lagaya hussain yaad aaye
+  Jawaan bhaai ke laashe ko ek bhaai ne
+  Jo ro ke sine lagaaya Husain yaad aaye
 
   6
-  Khushi kahan hui sghra ka dard aur badha
-  Jo chand eid ka dekha hussain yaad aaye
+  Khushi kahaaṅ hui Sughra ka dard aur barha
+  Jo chaand Eid ka dekha Husain yaad aaye
 
   7
-  Pakad ke baap ka daaman kisi bhi bachi ne
-  Na jaye baba jo bola hussain yaad aaye
+  Pakar ke baap ka daaman kisi bhi bachchi ne
+  Na jaaye baaba jo bola Husain yaad aaye
 
   8
-  Mera pisar hua jis roz cheh mahine ka
-  Bataun kaise mai kitna hussain yaad aaye
+  Mera pisar hua jis roz chhe mahine ka
+  Bataauṅ kaise main kitna Husain yaad aaye
 
   9
-  Lipat lipat gayi turbat se saani e zehra
-  Bani jo qabr e sakina hussain yaad aaye
+  Lipat lipat gayi turbat se Saani-e-Zehra
+  Bani jo qabr-e-Sakina Husain yaad aaye
 
   10
-  Hamesha karbobala ke safar pe ay sajjad
-  Galay jo maa ne lagaya hussain yaad aaye
+  Hamesha Karb o Bala ke safar pe ae Sajjad
+  Gale jo maaṅ ne lagaaya Husain yaad aaye
 # source_id: nohayonline:19fe39a3b8c723dda5aa
 # source_url: https://www.nohayonline.com/details_content.php?id=1530
 # raw_sha256: a8f8486ee2b4b2fb775f496df056d2411f99b096deaa04402e49c9663a11eb50

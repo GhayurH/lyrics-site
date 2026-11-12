@@ -1,88 +1,89 @@
 ---
 title: "حُسین والا ہر ایک لمحہ"
-alternateTitle: "Hussain Waala"
+alternateTitle: "Husain Wala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Izhaar"
+reciter: "Rizwan Zaidi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Hussain Waala"]
 published: false
 romanLyrics: |-
-  Hussain waala har ek lamha
-  Hussain ka gham mana raha hai
-  Aza e sarwar hai farz is par
+  Husain wala har ek lamha
+  Husain ka gham mana raha hai
+  Aza-e-Sarwar hai farz is par
   So farz apna nibha raha hai
 
   1
-  Koi bichata hai farshe majlis
-  Fareeza isko samajh ke apna
-  Koi hadees e kisa ko pad kar
-  Kare hai aaghaaz majlison ka
-  Hai koi aisa ke rone walon
-  May ho raha hai shumaar jiska
-  Hai koi aisa jo baade majlis
-  Hame ziarat pada raha hai
+  Koi bichhata hai farsh-e-majlis
+  Fariza is ko samajh ke apna
+  Koi hadis-e-Kisa ko parh kar
+  Kare hai aaghaaz majlisoṅ ka
+  Hai koi aisa ke rone waloṅ
+  Mein ho raha hai shumaar jis ka
+  Hai koi aisa jo baad-e-majlis
+  Hameiṅ ziyaarat parha raha hai
 
   2
-  Kisi ne seekha hai farshe majlis
-  Pe aake soz o salaam padna
-  Likha anees o dabeer ne jo
-  Wo marsia bazm may sunana
-  Kisi ne seekha hai shaahe waala
-  Ki majlison se khitaab karna
-  Jo zeb o mimbar hua hai wo hi
-  Viqaar apna badha raha hai
+  Kisi ne sikha hai farsh-e-majlis
+  Pe aa ke soz o salaam parhna
+  Likha Anis o Dabir ne jo
+  Wo marsiya bazm mein sunaana
+  Kisi ne sikha hai Shaah-e-wala
+  Ki majlisoṅ se khitaab karna
+  Jo zeb-e-mimbar hua hai wo hi
+  Wiqaar apna barha raha hai
 
   3
-  Bana raha hai koi aqeedat
-  Se taaziya aur zareeh e sarwar
+  Bana raha hai koi aqidat
+  Se taaziya aur zarih-e-Sarwar
   Wo is amal se bata raha hai
-  Ke hai wo shaahe zaman ka naukar
+  Ke hai wo Shaah-e-zaman ka naukar
   Saja raha hai koi to parcham
-  May mashk tashna labon ko ro kar
-  Uthake phir wo jari ka parcham
+  Mein mashk tashna laboṅ ko ro kar
+  Utha ke phir wo jari ka parcham
   Wafa jari se nibha raha hai
 
   4
-  Kisi ke hisse may aaya naame
-  Hussain maula pilaana pani
+  Kisi ke hisse mein aaya naam-e
+  Husain Maula pilaana paani
   Jagah jagah par saja raha hai
-  Ba-naame asghar sabeel koi
-  Wo jiske hisse may aayi rakhwali
-  Zuljanaah shahe zaman ki
-  Wo aspe shaahe zaman saja kar
-  Naseeb apna jaga raha hai
+  Banaam-e-Asghar sabil koi
+  Wo jis ke hisse mein aayi rakhwaali
+  Zuljanaah-e-Shah-e-zaman ki
+  Wo asp-e-Shaah-e-zaman saja kar
+  Nasib apna jaga raha hai
 
   5
-  Koi to matam kuna hai pyason
-  Pe majlison may bana ke halqa
-  Ye pesh zahra ko kar raha hai
-  Sada e matam se sheh ka pursa
+  Koi to maatam kunaṅ hai pyaasoṅ
+  Pe majlisoṅ mein bana ke halqa
+  Ye pesh Zahra ko kar raha hai
+  Sada-e-maatam se Shah ka pursa
   Kisi ne zanjeer ka kiya hai
-  Kisi ne matam kiya qamah ka
-  Jo de raha hai lahoo ka pursa
-  Jo khoon apna baha raha hai
+  Kisi ne maatam kiya qamah ka
+  Jo de raha hai lahu ka pursa
+  Jo khun apna baha raha hai
 
   6
   Farishte sattar hazaar nauha
-  Kuna hai qabre shahe umam par
-  Ye keh rahe hai ke haye shabbir
-  Haye abbas haye akbar
-  Usi bashar ko duayein karbobala
-  Se dene ko aaye sarwar
-  Jo rauza e dukhtare ali ke
-  Difaa may jaan luta raha hai
+  Kunaṅ haiṅ qabr-e-Shah-e-umam par
+  Ye keh rahe haiṅ ke haaye Shabbir
+  Haaye Abbas haaye Akbar
+  Usi bashar ko duaaeiṅ Karb o Bala
+  Se dene ko aaye Sarwar
+  Jo rauza-e-dukhtar-e-Ali ke
+  Difaa mein jaaṅ luta raha hai
 
   7
-  Koi to izhaar likh raha hai
-  Qalam se shaahe zaman ke nauhe
+  Koi to Izhaar likh raha hai
+  Qalam se Shaah-e-zaman ke nauhe
   Ye likh ke nauhe bata raha hai
-  Ke reh gaye shaahe deen pyase
-  Rula raha hai koi jahan ko
-  Hussain maula ka nauha pad ke
-  Ye nauhakhwan padke nauha sab ko
+  Ke reh gaye Shaah-e-din pyaase
+  Rula raha hai koi jahaaṅ ko
+  Husain Maula ka nauha parh ke
+  Ye nauhakhwaaṅ parh ke nauha sab ko
   Kahani gham ki suna raha hai
 # source_id: nohayonline:d29414c689b25f205efe
 # source_url: https://www.nohayonline.com/details_content.php?id=1143
