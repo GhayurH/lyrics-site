@@ -1,66 +1,67 @@
 ---
 title: "کلامِ حق کی تلاوت ہے ثانیِ زہرا"
-alternateTitle: "Kalame Haq Ki"
+alternateTitle: "Kalaam-e-Haq Ki"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
+reciter: "Tabligh-e-Imamia"
 tags: ["noImage"]
-aliases: []
+aliases: ["Kalame Haq Ki"]
 published: false
 romanLyrics: |-
-  Kalaame haq ki tilawat hai saani e zehra
-  Ke tarjumane risalat hai saani e zehra
+  Kalaam-e-haq ki tilaawat hai saani-e-Zehra
+  Ke tarjumaane-risaalat hai saani-e-Zehra
 
   1
-  Agar hai panjatan e paak aaya e tatheer
-  To ye hai hurmate quran ki bolti tafseer
-  Nabi ke seena sipar hai jo shaahe khybergeer
-  To inke naam se qaayam hai maqsade shabbir
-  Hussainiat ki niyabat hai saani e zehra
+  Agar haiṅ Panjtan-e-paak aaya-e-tathir
+  To ye haiṅ hurmat-e-Quraan ki bolti tafsir
+  Nabi ke sina sipar haiṅ jo Shaah-e-Khaibargir
+  To in ke naam se qaayam hai maqsad-e-Shabbir
+  Husainiyat ki niyaabat hai saani-e-Zehra
 
   2
-  Barehna sar bhi rahi haq ki aabru bankar
-  Ke ab hai chehra e islam par wazu bankar
-  Gayi jo sajde mein to haq ki justuju bankar
-  Hai aaj deen ki rag rag mein ab lahoo bankar
-  Azan hussain iqamat hai saani e zehra
+  Barehna sar bhi rahi haq ki aabru ban kar
+  Ke ab hai chehra-e-Islaam par wuzu ban kar
+  Gayiṅ jo sajde mein to haq ki justuju ban kar
+  Hai aaj din ki rag rag mein ab lahu ban kar
+  Azaan hasiṅ iqaamat hai saani-e-Zehra
 
   3
-  Jo pahunchi karbobala qaid-e-shaam se chutkar
-  Pukara ganje shaheedan mein sab ko ro ro kar
-  Kahan ho mere alamdaar aur ali akbar
-  Kahan ho qasime muztar kahan ali asghar
-  Sarapa sog hai hasrat hai saani e zehra
+  Jo pahunchi Karb o Bala qaid-e-Shaam se chhut kar
+  Pukaara ganj-e-shahidaaṅ mein sab ko ro ro kar
+  Kahaaṅ ho mere alamdaar aur Ali Akbar
+  Kahaaṅ ho Qaasim-e-muztar kahaaṅ Ali Asghar
+  Saraapa sog hai hasrat hai saani-e-Zehra
 
   4
-  Tumhare baad qayamat guzar gayi bhaiya
-  Hujoome aam mein mai nange sar gayi bhaiya
-  Tumahre sar ki qasam dar badar gayi bhaiya
+  Tumhaare baad qayaamat guzar gayi bhaiya
+  Hujum-e-aam mein main nange sar gayi bhaiya
+  Tumhaare sar ki qasam dar badar gayi bhaiya
   Sakina qaid mein ro ro ke mar gayi bhaiya
-  Meinan e ranj o musibat hai saani e zehra
+  Miyaan ranj o musibat hai saani-e-Zehra
 
   5
-  Watan ko jaati hoo bhaiya hamare saath chalo
-  Hai intezar mein sughra hamare saath chalo
-  Udaas hoga madina hamare saath chalo
-  Lagega dil na hamara hamare saath chalo
-  Tareek e ashk e mohabbat hai saani e zehra
+  Watan ko jaati huṅ bhaiya hamaare saath chalo
+  Hai intezaar mein Sughra hamaare saath chalo
+  Udaas hoga Madina hamaare saath chalo
+  Lagega dil na hamaara hamaare saath chalo
+  Tariq-e-ashk-e-mohabbat hai saani-e-Zehra
 
   6
-  Zaban pe zikr bahattar hai aur zainab hai
-  Ke shab ko khaak ka bistar hai aur zainab hai
-  Hamesha matame sarwar hai aur zainab hai
-  Ek aansuon ka samandar hai aur zainab hai
-  Ghame hussain ki fitrat hai saani e zehra
+  Zabaan pe zikr bahattar hai aur Zainab hai
+  Ke shab ko khaak ka bistar hai aur Zainab hai
+  Hamesha maatam-e-Sarwar hai aur Zainab hai
+  Ik aansuoṅ ka samandar hai aur Zainab hai
+  Gham-e-Husain ki fitrat hai saani-e-Zehra
 
   7
-  Khuloose dil se yehi kijiye dua mehshar
-  Ke ho har ek ko deedar e karbala mehshar
-  Bulaye rauze pe jo binte sayyeda mehshar
-  Chadaun apne salaamon ki ek rida mehshar
-  Mere qalam ki ibadat hai saani e zehra
+  Khulus-e-dil se yehi kijiye dua Mehshar
+  Ke ho har ek ko didaar-e-Karbala Mehshar
+  Bulaaeṅ rauze pe jo bint-e-Sayyeda Mehshar
+  Charhaauṅ apne salaamoṅ ki ik rida Mehshar
+  Mere qalam ki ibaadat hai saani-e-Zehra
 # source_id: nohayonline:a92e32d081cf31b94584
 # source_url: https://www.nohayonline.com/details_content.php?id=638
 # raw_sha256: de3e4566169afc3ab413fbcf53f7cfc0e5f01946518b0bc57c2e7d98565ea8d4
@@ -77,16 +78,16 @@ romanLyrics: |-
 
 ۲
 برہنہ سر بھی رہی حق کی آبرو بن کر
-کہ اب ہے چہرئہ اسلام پر وضو بن کر
+کہ اب ہے چہرۂ اسلام پر وضو بن کر
 گئیں جو سجدے میں تو حق کی جستجو بن کر
 ہے آج دین کی رگ رگ میں اب لہو بن کر
 اذان حسیں اقامت ہے ثانیِ زہرا
 
 ۳
-جو پہنچی کرب و بلاقیدِ شام سے چھُٹ کر
-پُکارا گنجِ شہیداںمیں سب کو رو رو کر
-کہاںہو میرے علمداراور علی اکبر
-کہاں ہو قاسم ِ مُضطر کہاں علی اصغر
+جو پہنچی کرب و بلا قیدِ شام سے چھُٹ کر
+پُکارا گنجِ شہیداں میں سب کو رو رو کر
+کہاں ہو میرے علمدار اور علی اکبر
+کہاں ہو قاسمِ مُضطر کہاں علی اصغر
 سراپا سوگ ہے حسرت ہے ثانیِ زہرا
 
 ۴
@@ -101,18 +102,18 @@ romanLyrics: |-
 ہے انتظار میں صُغریٰ ہمارے ساتھ چلو
 اُداس ہو گا مدینہ ہمارے ساتھ چلو
 لگے گا دل نہ ہمارا ہمارے ساتھ چلو
-طریق ے اشکِ محبت ہے ثانیِ زہرا
+طریقِ اشکِ محبت ہے ثانیِ زہرا
 
 ۶
 زبان پہ ذکر بہتر ہے اور زینب ہے
 کہ شب کو خاک کا بستر ہے اور زینب ہے
 ہمیشہ ماتمِ سرور ہے اور زینب ہے
-اک آنسوئوں کا سمندر ہے اور زینب ہے
+اک آنسوؤں کا سمندر ہے اور زینب ہے
 غمِ حُسین کی فطرت ہے ثانیِ زہرا
 
 ۷
-خلوصِ دل سے یہی کیجیئے دُعا محشر
+خلوصِ دل سے یہی کیجیے دُعا محشر
 کہ ہو ہر ایک کو دیدارِ کربلا محشر
 بُلائیں روضے پہ جو بنتِ سیدہ محشر
-چڑھائوں اپنے سلاموں کی اک ردا محشر
+چڑھاؤں اپنے سلاموں کی اک ردا محشر
 میرے قلم کی عبادت ہے ثانیِ زہرا

@@ -6,48 +6,49 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Ali Khan Lakhnavi"
+reciter: "Zawwar Husain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kaleja thaam ke sheh ne pukara ay ali akbar
-  Mai dekhun kis tarha jaana tumhara ay ali akbar
+  Kaleja thaam ke Shah ne pukaara ae Ali Akbar
+  Main dekhuṅ kis tarah jaana tumhaara ae Ali Akbar
 
   1
-  Tumhe ruqsat karun kaise ke mai ek baap hoo beta
-  Ye mera dil kare kaise gawara ay ali akbar
+  Tumheṅ rukhsat karuṅ kaise ke main ik baap huṅ beta
+  Ye mera dil kare kaise gawaara ae Ali Akbar
 
   2
   Palat kar baap ko apne musalsal dekhte jaana
-  Milega phir kahan chehra tumhara ay ali akbar
+  Milega phir kahaaṅ chehra tumhaara ae Ali Akbar
 
   3
-  Dhamak taapon ki jitni door mujhse hoti jaati hai
-  Bujha jaata hai utna dil hamara ay ali akbar
+  Dhamak taapoṅ ki jitni dur mujh se hoti jaati hai
+  Bujha jaata hai utna dil hamaara ae Ali Akbar
 
   4
-  Tumhi ko dekh kar jeene ki mujhko aas baaqi thi
-  Na jao chod kar mujhko khudara ay ali akbar
+  Tumhiṅ ko dekh kar jine ki mujh ko aas baaqi thi
+  Na jaao chhor kar mujh ko khudaara ae Ali Akbar
 
   5
-  Ujadte apni aankon se chaman wo kis tarha dekhun
-  Ke atthara baras jis ko sawara ay ali akbar
+  Ujarte apni aankhoṅ se chaman wo kis tarah dekhuṅ
+  Ke atthaarah baras jis ko sanwaara ae Ali Akbar
 
   6
-  Ye maana deen par marne ka bahot jasba hai par socho
-  Tumhi tooti kamar ka ho sahara ay ali akbar
+  Ye maana din par marne ka bahut jazba hai par socho
+  Tumhiṅ tuti kamar ka ho sahaara ae Ali Akbar
 
   7
-  Sabhi ek ek kar ke saath mera chode jaate hai
-  Hai meri zaat aur uska sahara ay ali akbar
+  Sabhi ik ek kar ke saath mera chhore jaate haiṅ
+  Hai meri zaat aur us ka sahaara ae Ali Akbar
 
   8
-  Qayamat tak mere dil mein rahegi ye khalish beta
-  Ke tujhko maut ne bewaqt maara ay ali akbar
+  Qayaamat tak mere dil mein rahegi ye khalish beta
+  Ke tujh ko maut ne bewaqt maara ae Ali Akbar
 
   9
-  Padha jab anjuman ne shaah e waala ka raza nauha
-  To ghamgeen ho gaya maahol saara ay ali akbar
+  Parha jab anjuman ne Shaah-e-waala ka Raza nauha
+  To ghamgiṅ ho gaya maahaul saara ae Ali Akbar
 # source_id: nohayonline:06a915ce699a1da7b794
 # source_url: https://www.nohayonline.com/details_content.php?id=1985
 # raw_sha256: 73b74aa3ea3913dff22788087515a380c2188d340db63c5f08915d9b37ce7bc9
@@ -68,15 +69,15 @@ romanLyrics: |-
 بجھا جاتا ہے اتنا دل ہمارا اے علی اکبر
 
 ۴
-تمہیں کو دیکھ کر جینے کی مجھکو آس باقی تھی
-نہ جاؤ چھوڑ کر خدارا اے علی اکبر
+تمہیں کو دیکھ کر جینے کی مجھ کو آس باقی تھی
+نہ جاؤ چھوڑ کر مجھ کو خدارا اے علی اکبر
 
 ۵
 اجڑتے اپنی آنکھوں سے چمن وہ کس طرح دیکھوں
 کہ اٹھارہ برس جس کو سنوارا اے علی اکبر
 
 ۶
-یہ مانا دین پر مرنے کا بہت جزبہ ہے پر سوچو
+یہ مانا دین پر مرنے کا بہت جذبہ ہے پر سوچو
 تمہیں ٹوٹی کمر کا ہو سہارا اے علی اکبر
 
 ۷
@@ -85,8 +86,8 @@ romanLyrics: |-
 
 ۸
 قیامت تک میرے دل میں رہے گی یہ کشش بیٹا
-کہ تجھکو موت نے بے وقت مارا اے علی اکبر
+کہ تجھ کو موت نے بے وقت مارا اے علی اکبر
 
 ۹
-پڑھا جب انجمن نے شاہ والا کا رضا نوحہ
+پڑھا جب انجمن نے شاہِ والا کا رضا نوحہ
 تو غمگیں ہو گیا ماحول سارا اے علی اکبر
