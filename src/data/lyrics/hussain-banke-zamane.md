@@ -1,59 +1,60 @@
 ---
-title: "حسین بن کے زمانے پہ چھا گیء زینب"
-alternateTitle: "Hussain Banke Zamane"
+title: "حسین بن کے زمانے پہ چھا گئی زینب"
+alternateTitle: "Husain Ban Ke Zamaane"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hussain ban ke zamane pe chaa gayi zainab
-  Zubaan e taygh se kufa hila gayi zainab
+  Husain ban ke zamaane pe chhaa gayi Zainab
+  Zubaan-e-tegh se Kufa hila gayi Zainab
 
   1
-  Ali ki yaad ko zinda kiya zamane may
-  Jagah jagah pe jo khutbe suna gayi zainab
+  Ali ki yaad ko zinda kiya zamaane meiṅ
+  Jagah jagah pe khutbe suna gayi Zainab
 
   2
-  Qadam qadam pe jalaye hussainiat ke charaagh
-  Diye yazeed ke saare bujha gayi zainab
+  Qadam qadam pe jalaaye Husainiyat ke charaagh
+  Diye Yazid ke saare bujha gayi Zainab
 
   3
-  Aseer ho gayi dar dar phiri zamane may
-  Hussainiat ko magar jagmaga gayi zainab
+  Asir ho gayi dar dar phiri zamaane meiṅ
+  Husainiyat ko magar jagmaga gayi Zainab
 
   4
-  Qasam khuda ki ye ehsaan e bint e zehra hai
-  Hamay hussain ka matam sikha gayi zainab
+  Qasam Khuda ki ye ehsaaṅ hai Bint-e-Zehra ka
+  Hameiṅ Husain ka maatam sikha gayi Zainab
 
   5
-  Zaeef bhai ka gham baatne ko maqtal may
-  Jawan bhatije ke laashe pe aa gayi zainab
+  Zaif bhaai ka gham baaṅtne ko maqtal meiṅ
+  Jawaaṅ bhatije ke laashe pe aa gayi Zainab
 # source_id: nohayonline:0d40716b2c9045e198b5
 # source_url: https://www.nohayonline.com/details_content.php?id=1596
 # raw_sha256: 1b74cf4a5af106c31a177d625efaff439c48086d2ba0a1e9fdf939038932de5f
 ---
-حسین بن کے زمانے پہ چھا گیء زینب
-زبان تیغ سے کوفہ ہلا گیء زینب
+حسین بن کے زمانے پہ چھا گئی زینب
+زبانِ تیغ سے کوفہ ہلا گئی زینب
 
 ۱
 علی کی یاد کو زندہ کیا زمانے میں
-جگہ جگہ پہ خطبے سنا گیء زینب
+جگہ جگہ پہ خطبے سنا گئی زینب
 
 ۲
-قدم قدم پہ جلاے حسینیت کے چراغ
-دیےء یزید کے سارے بجھا گیء زینب
+قدم قدم پہ جلائے حسینیت کے چراغ
+دیے یزید کے سارے بجھا گئی زینب
 
 ۳
-اسیر ہو گیء در در پھری زمانے میں
-حسینیت کو مگر جگمگا گیء زینب
+اسیر ہو گئی در در پھری زمانے میں
+حسینیت کو مگر جگمگا گئی زینب
 
 ۴
-قسم خدا کی یہ احساں ہے بنت زہرا کا
-ہمیں حسین کا ماتم سکھا گیء
+قسم خدا کی یہ احساں ہے بنتِ زہرا کا
+ہمیں حسین کا ماتم سکھا گئی زینب
 
 ۵
-ضعیف بھای کا غم بانٹنے کو مقتل میں
-جواں بھتیجے کے لاشے پہ آ گیء زینب
+ضعیف بھائی کا غم بانٹنے کو مقتل میں
+جواں بھتیجے کے لاشے پہ آ گئی زینب

@@ -1,6 +1,6 @@
 ---
 title: عصر کا وقت ہے اب کوئی بھی باقی نہ رہا
-alternateTitle: Hussain Akela Hai
+alternateTitle: Husain Akela Hai
 language: Urdu
 lang: ur
 direction: rtl
@@ -9,97 +9,75 @@ poet: "N. Sarwar & J. Jaffri"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Asr ka waqt hai ab koi bhi baaqi na raha
-
-  Haye maqtal mein hussain ibne ali hai tanha
-
-  Door tak goonj rahi hai mere maula ki sada
-
-  Hal min nasirin yansurna
-
+romanLyrics: |-
+  Husain
+  Asr ka waqt hai
+  Husain
+  Asr ka waqt hai ab koi bhi baaqi na raha
+  Haaye maqtal meiṅ Husain Ibn-e-Ali hai tanha
 
   1
-
-  Koi hai koi hai nahi koi nahi
-
-  Hussain akela hai
-
-  Nahi koi nahi nahi koi nahi
-
+  Dur tak gunj rahi hai
+  Koi hai
 
   2
-
-  Shohada e karbala utho
-
-  Ansaar e bawafa utho
-
-  Ghere hai ashqiyan utho
-
-  Deta hoo mai sada utho
-
+  Dur tak gunj rahi hai mere Maula ki sada
+  Hal min naasirin yansurna
 
   3
-
-  Lashkar tamaam so chuka
-
-  Yaaron ko apne kho chuka
-
-  Dil paara paara ho chuka
-
-  Sab ko hussain ro chuka
-
+  Koi hai koi hai
+  Nahiṅ koi nahiṅ
+  Husain akela hai Husain akela hai
 
   4
-
-  Abbas meri jaan utho
-
-  Meri bhi jang dekh lo
-
-  Ghurbat mein mera saath do
-
-  Ye aakhri sada suno
-
+  Nahiṅ koi nahiṅ nahiṅ koi nahiṅ
+  Husain Husain
+  Husain akela hai
 
   5
-
-  Kitna ghareeb ho gaya
-
+  Shuhadaa-e-Karbala utho
+  Ansaar-e-baawafa utho
+  Ghere haiṅ ashqiya utho
+  Deta huṅ maiṅ sada utho
 
   6
-
-  Beta ali ameer ka
-
-  Awaaz doo kise bhala
-
-  Koi nahi hussain ka
-
+  Husain Husain
 
   7
-
-  Jo paas tha mai de chuka
-
+  Lashkar tamaam so chuka
+  Pyaaroṅ ko apne kho chuka
+  Dil paara paara ho chuka
+  Sab ko Husain ro chuka
 
   8
-
-  Waada mera wafa hua
-
-  Mai na raha to kya hua
-
-  Baaqi rahegi ye sada
-
+  Abbas meri jaaṅ utho
+  Meri bhi jang dekh lo
+  Ghurbat meiṅ mera saath do
+  Ye aakhri sada suno
 
   9
-
-  Waqt e namaz ho gaya
-
+  Husain Husain
 
   10
+  Itna gharib ho gaya
+  Beta Ali Amir ka
+  Aawaaz duṅ kise bhala
+  Koi nahiṅ Husain ka
 
-  Baali pe shimr hai khada
+  11
+  Jo paas tha maiṅ de chuka
+  Waada mera wafa hua
+  Maiṅ na raha to kya hua
+  Baaqi rahegi ye sada
 
-  Khanjar khareeb aa gaya
+  12
+  Husain Husain
 
-  Goonji sada e fatema'
+  13
+  Waqt-e-namaaz ho gaya
+  Baali pe Shimr hai khara
+  Khanjar qarib aa gaya
+  Gunji sadaa-e-Fatima
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:1975376dc0e96a1477db
 # source_url: https://www.nohayonline.com/details_content.php?id=1730
