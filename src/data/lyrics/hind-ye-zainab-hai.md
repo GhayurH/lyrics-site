@@ -6,114 +6,115 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jis waqt aseeron se milne
-  Hind aayi kaneezon ko le kar
-  Ye odhe huwe thi sar pe rida
-  Be parda thi bint e haider
+  Jis waqt asiroṅ se milne
+  Hind aayi kanizoṅ ko le kar
+  Ye orhe huwe thi sar pe rida
+  Beparda thi bint-e-Haider
 
   1
-  Hairaan nigahon se is ne
-  Jab dekha bibi zainab ko
+  Hairaan nigaahoṅ se is ne
+  Jab dekha Bibi Zainab ko
   Naize se sada deta tha ye
-  Us waqt mere mazloom ka sar
-  Tu zara pehchan isay
-  Hind ye zainab hai
+  Us waqt mere mazlum ka sar
+  Tu zara pehchaan ise
+  Hind ye Zainab hai
 
   2
-  Shaam ke logon ne jo pathar maare hai
-  Kaise karz utaare hai
-  Tazeem mein uthe jiski ali
-  Beti wo yehi hai zehra ki
+  Shaam ke logoṅ ne jo patthar maare haiṅ
+  Kaise qarz utaare haiṅ
+  Taazim meiṅ uthe jis ki Ali
+  Beti wo yehi hai Zehra ki
   Ab khaak pe hai jo baithi hui
-  Kufe mein isi ki shaahi thi
+  Kufe meiṅ isi ki shaahi thi
 
   3
-  Daur madine ka wo tune dekha tha
-  Is ka ghazi zinda tha
+  Daur Madine ka wo tu ne dekha tha
+  Is ka Ghaazi zinda tha
   Ab kaisi fiza ye badli hai
-  Majboor behan pardesi hai
-  Azaad kiya tha jis ne tujhe
-  Wo shehzadi ab qaidi hai
+  Majbur behan pardesi hai
+  Aazaad kiya tha jis ne tujhe
+  Wo shehzaadi ab qaidi hai
 
   4
-  Is ka adab is tarha ghar mein hota tha
+  Is ka adab is tarah ghar meiṅ hota tha
   Naam koi na leta tha
   Par is pe hui ye kaisi jafa
-  Khoon rone laga beta mera
-  Karte huwe jis dam mein noshi
-  Haakim ne iska naam liya
+  Khuṅ rone laga beta mera
+  Karte huwe jis dam meiṅ noshi
+  Haakim ne is ka naam liya
 
   5
-  Jis kooche se guzri teri shehzadi
+  Jis kuche se guzri teri shehzaadi
   Ek sada ye aati thi
-  Aate hai haakim ke qaidi
-  Badla le aa kar har shaami
-  Phir khoon mein doobi ye bibi
-  Pehchan na paaya is ko koi
+  Aate haiṅ haakim ke qaidi
+  Badla le aa kar har Shaami
+  Phir khun meiṅ dubi ye Bibi
+  Pehchaan na paaya is ko koi
 
   6
-  Laashe akbar ran se jab mai laaya tha
-  Qaimon mein kohraam hua
+  Laash-e-Akbar ran se jab maiṅ laaya tha
+  Khaimoṅ meiṅ kohraam hua
   Sehre ki jagah dekha laasha
   Bardaasht na kar paayi dukhiya
-  Mehendi to nahi hai haathon mein
-  Baalon mein lahoo hai akbar ka
+  Mehndi to nahiṅ hai haathoṅ meiṅ
+  Baaloṅ meiṅ lahu hai Akbar ka
 
   7
-  Kaise bataaun dukh jo isne paaye hai
-  Kitne durre khaaye hai
-  Kaaton pe chali hai rote huwe
-  Pairon mein pade iske chaale
-  Ab kaise milayegi nazrein
-  Chupti hai ye fizza ke peeche
+  Kaise bataauṅ dukh jo is ne paaye haiṅ
+  Kitne durre khaaye haiṅ
+  Kaantoṅ pe chali hai rote huwe
+  Pairoṅ meiṅ pare is ke chhaale
+  Ab kaise milaayegi nazreiṅ
+  Chhupti hai ye Fizza ke pichhe
 
   8
-  Pursa dene isko shaami aate thay
-  Haath mein pathar laate thay
+  Pursa dene is ko Shaami aate the
+  Haath meiṅ patthar laate the
   Dil zakhmi hua sar zakhmi hua
-  Baaghi ka isay taana bhi mila
-  Baalon se banaati hai parda
-  Ye tujhse chupaati hai chehra
+  Baaghi ka ise taana bhi mila
+  Baaloṅ se banaati hai parda
+  Ye tujh se chhupaati hai chehra
 
   9
-  Sheh ye takallum bole hind ye zainab hai
-  Haa ye bibi zainab hai
-  Tujhko bhi yaqeen aa jayega
-  Jaldi se kaneezo se mangwa
-  Ta'zeem ko is ki uthega
-  Quran rehel pe rakha hua
+  Sheh ye Takallum bole Hind ye Zainab hai
+  Haaṅ ye Bibi Zainab hai
+  Tujh ko bhi yaqiṅ aa jaayega
+  Jaldi se kanizoṅ se mangwa
+  Taazim ko is ki uthega
+  Quraan rehl pe rakha hua
 # source_id: nohayonline:214456480fed4de16b62
 # source_url: https://www.nohayonline.com/details_content.php?id=1816
 # raw_sha256: 71fc0b10baf895799470599e03ae386ab60f448f23dbec09e030291f1c406799
 ---
 
 جس وقت اسیروں سے ملنے
-ہند آی کنیزوں کو لے کر
-یہ اوڑھے ہوے تھی سر پہ ردا
-بے پردہ تھی بنت حیدر
+ہند آئی کنیزوں کو لے کر
+یہ اوڑھے ہوئے تھی سر پہ ردا
+بے پردہ تھی بنتِ حیدر
 
 ۱
 حیران نگاہوں سے اس نے
-جب دیکھا بی بی زینب کو
-نیزے سے صدا دیتا تھا
+جب دیکھا بی‌بی زینب کو
+نیزے سے صدا دیتا تھا یہ
 اس وقت میرے مظلوم کا سر
-تو زرا پہچان اسے
+تو ذرا پہچان اسے
 ہند یہ زینب ہے
 
 ۲
 شام کے لوگوں نے جو پتھر مارے ہیں
 کیسے قرض اتارے ہیں
-تعظیم میں اٹھے جسکی علی
+تعظیم میں اٹھے جس کی علی
 بیٹی وہ یہی ہے زہرا کی
-اب خاک پہ ہے جو بیٹھی ہوی
+اب خاک پہ ہے جو بیٹھی ہوئی
 کوفے میں اسی کی شاہی تھی
 
 ۳
-دور مدینے کا وہ تونے دیکھا تھا
+دور مدینے کا وہ تو نے دیکھا تھا
 اس کا غازی زندہ تھا
 اب کیسی فضا یہ بدلی ہے
 مجبور بہن پردیسی ہے
@@ -122,38 +123,38 @@ romanLyrics: |-
 
 ۴
 اس کا ادب اس طرح گھر میں ہوتا تھا
-نام کوی نہ لیتا تھا
-پر اس پہ ہوی یہ کیسی جفا
+نام کوئی نہ لیتا تھا
+پر اس پہ ہوئی یہ کیسی جفا
 خوں رونے لگا بیٹا میرا
-کرتے ہوۓ جس دم میں نوشی
+کرتے ہوئے جس دم میں نوشی
 حاکم نے اس کا نام لیا
 
 ۵
 جس کوچے سے گزری تیری شہزادی
-اک صدا یہ آتی تھی
-آتے ہیں حاکم قیدی
+ایک صدا یہ آتی تھی
+آتے ہیں حاکم کے قیدی
 بدلہ لے آ کر ہر شامی
-پھر خون میں ڈوبی یہ بی بی
+پھر خون میں ڈوبی یہ بی‌بی
 پہچان نہ پایا اس کو کوئی
 
 ۶
-لاش اکبر رن سے جب میں لایا تھا
+لاشِ اکبر رن سے جب میں لایا تھا
 خیموں میں کہرام ہوا
 سہرے کی جگہ دیکھا لاشہ
-برداشت نہ کر پای دکھیا
+برداشت نہ کر پائی دکھیا
 مہندی تو نہیں ہے ہاتھوں میں
 بالوں میں لہو ہے اکبر کا
 
 ۷
-کیسے بتاؤں دکھ جو اس نے پاے ہیں
-کتنے درے کھاے ہیں
-کانٹوں پہ چلی ہے روتے ہوے
-پیروں میں پڑے اسکے چھالے
-اب کیسے ملاے گی نظریں
+کیسے بتاؤں دکھ جو اس نے پائے ہیں
+کتنے درے کھائے ہیں
+کانٹوں پہ چلی ہے روتے ہوئے
+پیروں میں پڑے اس کے چھالے
+اب کیسے ملائے گی نظریں
 چھپتی ہے یہ فضہ کے پیچھے
 
 ۸
-پرسہ دینے اسکو شامی آتے تھے
+پرسہ دینے اس کو شامی آتے تھے
 ہاتھ میں پتھر لاتے تھے
 دل زخمی ہوا سر زخمی ہوا
 باغی کا اسے طعنہ بھی ملا
@@ -162,8 +163,8 @@ romanLyrics: |-
 
 ۹
 شہ یہ تکلم بولے ہند یہ زینب ہے
-ہاں یہ بی بی زینب ہے
-تجھکو بھی یقیں آ جاے گا
+ہاں یہ بی‌بی زینب ہے
+تجھ کو بھی یقیں آ جائے گا
 جلدی سے کنیزوں سے منگوا
 تعظیم کو اس کی اٹھے گا
 قرآن رحل پہ رکھا ہوا
