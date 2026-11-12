@@ -1,52 +1,52 @@
 ---
 title: عاشور کی شب کرتے تھے اصحاب یہ نوحہ
-alternateTitle: Hum Kaise Chale Jaye
+alternateTitle: Hum Kaise Chale Jaaeṅ
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Hasnain Akbar"
 tags: ["noImage"]
-aliases: []
+aliases: ["Hum Kaise Chale Jaye"]
 published: false
 romanLyrics: |-
-  Ashoor ki shab karte thay as'hab ye noha
-  Hum kaise chale jaye tumhe chod ke maula
+  Ashur ki shab karte the ashaab ye noha
+  Hum kaise chale jaaeṅ tumheṅ chhor ke Maula
 
   1
-  Kooze liye haaton may hai masoom se bache
-  In pyason ko pani ki badi aas hai humse
-  Mar jayenge ye gar hamay jaate hue dekha
+  Kuze liye haathoṅ meiṅ haiṅ maasum se bachche
+  In pyaasoṅ ko paani ki bari aas hai hum se
+  Mar jaaeṅ ge ye gar hameṅ jaate hue dekha
 
   2
-  Maana ke zaroorat nahi hazrat ko hamari
-  Abbas sa bha hai hifazat ko tumhari
-  Zehra ko magar phir bhi hai moo humne dikhana
+  Maana ke zarurat nahiṅ Hazrat ko hamaari
+  Abbaas se bhaai haiṅ hifaazat ko tumhaari
+  Zehra ko magar phir bhi hai muṅh hum ne dikhaana
 
   3
-  Ankhon may nazar aati hai bachi ki ghareebi
-  Darti hai ke tanhai na bad jaye padar ki
-  Aa aa ke hame takti hai hasrat se sakina
+  Aankhoṅ meiṅ nazar aati hai bachchi ki gharibi
+  Darti hai ke tanhaai na barh jaaye padar ki
+  Aa aa ke hameṅ takti hai hasrat se Sakina
 
   4
-  Jis roz se abaad kiya tum ne ye jangal
-  Ek bibi yahan roti hai raaton ko musalsal
-  Lagta hai lehad chod ke khud aayi hai zehra
+  Jis roz se aabaad kiya tum ne ye jangal
+  Ek Bibi yahaaṅ roti hai raatoṅ ko musalsal
+  Lagta hai lahad chhor ke khud aai hai Zehra
 
   5
-  Kya aalam e ghurbat nabi-zadi pe pada hai
-  Kehne ki nahi baat magar humne suna hai
-  Hai aap ki zainab ko bahot hum pe bharosa
+  Kya aalam-e-ghurbat Nabi zaadi pe para hai
+  Kehne ki nahiṅ baat magar hum ne suna hai
+  Hai aap ki Zainab ko bahut hum pe bharosa
 
   6
-  Seena ali akbar ka bahot choom rahe ho
-  Jo tum pe guzarti hai wo maloom hai hum ko
-  Hum log bhi to saahibe aulaad hai aaqa
+  Sina Ali Akbar ka bahut chum rahe ho
+  Jo tum pe guzarti hai wo maalum hai hum ko
+  Hum log bhi to saahib-e-aulaad haiṅ Aaqa
 
   7
-  Akbar jo diye qaime may ghazi ne jalaye
-  Tha aisa samaan sheh ke bhi aansoo nikal aaye
-  Talwaar galay par rakhe har shaks tha kehta
+  Akbar jo diye khaime meiṅ Ghaazi ne jalaaye
+  Tha aisa samaaṅ Shah ke bhi aansu nikal aaye
+  Talwaar gale par rakhe har shakhs tha kehta
 reciter: Meer Hasan Meer
 # source_id: nohayonline:9a1e68c3b98d97fb4c65
 # source_url: https://www.nohayonline.com/details_content.php?id=305
@@ -61,12 +61,12 @@ reciter: Meer Hasan Meer
 ۱
 کوزے لئے ہاتھوں میں ہیں معصوم سے بچے
 ان پیاسوں کو پانی کی بڑی آس ہے ہم سے
-مرجائیں گے یہ گر ہمیں جاتے ہوئے دیکھا
+مر جائیں گے یہ گر ہمیں جاتے ہوئے دیکھا
 
 ۲
 مانا کہ ضرورت نہیں حضرت کو ہماری
 عباس سے بھائی ہیں حفاظت کو تمہاری
-زہرا کو مگر پھر بھی ہے منہ ہم نے دیکھانا
+زہرا کو مگر پھر بھی ہے منہ ہم نے دکھانا
 
 ۳
 آنکھوں میں نظر آتی ہے بچی کی غریبی
@@ -75,7 +75,7 @@ reciter: Meer Hasan Meer
 
 ۴
 جس روز سے آباد کیا تم نے یہ جنگل
-اک بی بی یہاںروتی ہے راتوں کو مسلسل
+اک بی‌بی یہاں روتی ہے راتوں کو مسلسل
 لگتا ہے لحد چھوڑ کے خود آئی ہے زہرا
 
 ۵
@@ -84,11 +84,11 @@ reciter: Meer Hasan Meer
 ہے آپ کی زینب کو بہت ہم پہ بھروسہ
 
 ۶
-سینا علی اکبر کا بہت چوم رہے ہو
+سینہ علی اکبر کا بہت چوم رہے ہو
 جو تم پہ گزرتی ہے وہ معلوم ہے ہم کو
 ہم لوگ بھی تو صاحبِ اولاد ہیں آقا
 
 ۷
 اکبر جو دیئے خیمے میں غازی نے جلائے
-تھا ایسا سمائ شہ کے بھی آنسو نکل آئے
+تھا ایسا سماں شہ کے بھی آنسو نکل آئے
 تلوار گلے پر رکھے ہر شخص تھا کہتا
