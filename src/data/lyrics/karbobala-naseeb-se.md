@@ -6,82 +6,85 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi, Mir Takallum"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Uthe hai haath khudaya isi dua ke liye
-  Naseeb ho safar e ishq karbala ke liye
-  Karbobala naseeb se jaana naseeb ho
-  Phir laut kar wahan se na aana naseeb ho
+  Uthe haiṅ haath Khudaaya isi dua ke liye
+  Nasib ho safar-e-ishq Karbala ke liye
+
+  Karbobala nasib se jaana nasib ho
+  Phir laut kar wahaaṅ se na aana nasib ho
 
   1
-  Aankhon ko jab bhi ashk bahana naseeb ho
-  Aale nabi ke gham ka bahana naseeb ho
+  Aankhoṅ ko jab bhi ashk bahaana nasib ho
+  Aal-e-Nabi ke gham ka bahaana nasib ho
 
   2
-  Aisa dar e hussain pe sajda ho aakhri
-  Phir mujhko apna sar na uthana naseeb ho
+  Aisa dar-e-Husain pe sajda ho aakhri
+  Phir mujhko apna sar na uthaana nasib ho
 
   3
-  Parwardigar thokarein dar dar ki kab talak
-  Ab mustakhil najaf mein thikana naseeb ho
+  Parwardigaar thokareṅ dar dar ki kab talak
+  Ab mustaqil Najaf mein thikaana nasib ho
 
   4
-  Jaisa mila naseeb se ummul baneen ko
-  Ab kya kisi ko aisa gharana naseeb ho
+  Jaisa mila nasib se Ummul Banin ko
+  Ab kya kisi ko aisa gharaana nasib ho
 
   5
-  Mehshar ye aarzu hai ke be-ghusl o be-kafan
-  Karbobala ki teh mein samana naseeb ho
+  Mehshar ye aarzu hai ke beghusl o bekafan
+  Karbobala ki tah mein samaana nasib ho
 
   6
-  Aansu giray thay bali sakina ke jis jagah
-  Apna wahan pe khoon bahana naseeb ho
+  Aansu gire the baali Sakina ke jis jagah
+  Apna wahaaṅ pe khun bahaana nasib ho
 
   7
-  Yeh keh ke shaah nikle mazaar e rasool se
-  Pardes mein kafan mujhe nana naseeb ho
+  Yeh keh ke Shaah nikle mazaar-e-Rasul se
+  Pardes mein kafan mujhe Naana nasib ho
 
   8
-  Asghar hai mere haath bandhe kehti thi rabab
-  Kaise tumhe galay se lagana naseeb ho
+  Asghar hai mere haath bandhe kehti thi Rabaab
+  Kaise tumheṅ gale se lagaana nasib ho
 
   9
-  Mashkeeza le ke rauza e abbas ke khareeb
-  Sab zaairon ko pani pilana naseeb ho
+  Mashkiza le ke rauza-e-Abbaas ke qarib
+  Sab zaairoṅ ko paani pilaana nasib ho
 
   10
-  Ek sar bureeda laashe ne bachi ko di dua
-  Zindan se tujhko laut ke aana naseeb ho
+  Ik sar burida laashe ne bachchi ko di dua
+  Zindaaṅ se tujhko laut ke aana nasib ho
 
   11
-  Nazdeek e qaimagaah sakina ki yaad mein
-  Shaam e ghariban shamma jalana naseeb ho
+  Nazdik khaima gaah Sakina ki yaad mein
+  Shaam-e-gharibaaṅ shama jalaana nasib ho
 
   12
   Sajjad shaam tak yehi karte rahe dua
-  Chadar mujhe phuphi ko udana naseeb ho
+  Chaadar mujhe phuphi ko udaana nasib ho
 
   13
-  Ay kaash phir se mir takallum furaat par
-  Mehdi ko sheh ka nauha sunana naseeb ho
+  Ae kaash phir se Mir Takallum Furaat par
+  Mehdi ko Shah ka nauha sunaana nasib ho
 # source_id: nohayonline:e23292f82ae77a9efc66
 # source_url: https://www.nohayonline.com/details_content.php?id=1601
 # raw_sha256: 68d8a27e947c4d945da6f6be3ebf0213360cad973a7b3706577490a14244f234
 ---
 اٹھے ہیں ہاتھ خدایا اسی دعا کے لئے
-نصیب ہو سفر عشق کربلا کے لئے
+نصیب ہو سفرِ عشق کربلا کے لئے
+
 کربوبلا نصیب سے جانا نصیب ہو
 پھر لوٹ کر وہاں سے نہ آنا نصیب ہو
 
 ۱
 آنکھوں کو جب بھی اشک بہانا نصیب ہو
-آل نبی کے غم‌ کا بہانا نصیب ہو
+آلِ نبی کے غم کا بہانا نصیب ہو
 
 ۲
-ایسا در حسین پہ سجدہ ہو آخری
-پھر مجھکو اپنا سر نہ اٹھانا نصیب ہو
+ایسا درِ حسین پہ سجدہ ہو آخری
+پھر مجھ کو اپنا سر نہ اٹھانا نصیب ہو
 
 ۳
 پروردگار ٹھوکریں در در کی کب تلک
@@ -96,11 +99,11 @@ romanLyrics: |-
 کربوبلا کی تہہ میں سمانا نصیب ہو
 
 ۶
-آنسوں گرے تھے بالی سکینہ کے جس جگہ
-اپنا وہاں پہ خون بھانا نصیب ہو
+آنسو گرے تھے بالی سکینہ کے جس جگہ
+اپنا وہاں پہ خون بہانا نصیب ہو
 
 ۷
-یہ کہہ کے شاہ نکلے مزار رسول سے
+یہ کہہ کے شاہ نکلے مزارِ رسول سے
 پردیس میں کفن مجھے نانا نصیب ہو
 
 ۸
@@ -109,7 +112,7 @@ romanLyrics: |-
 
 ۹
 مشکیزہ لے کے روضہء عباس کے قریب
-سب زایروں کو پانی پلانا نصیب ہو
+سب زائروں کو پانی پلانا نصیب ہو
 
 ۱۰
 اک سر بریدہ لاشہ نے بچی کو دی دعا
@@ -121,7 +124,7 @@ romanLyrics: |-
 
 ۱۲
 سجاد شام تک یہی کرتے رہے دعا
-چادر مجھے پھپھی کواڑانا نصیب ہو
+چادر مجھے پھپھی کو اڑانا نصیب ہو
 
 ۱۳
 اے کاش پھر سے میر تکلم فرات پر
