@@ -6,104 +6,131 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar & J. Jaffri"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jaan alamdar alamdar alamdar
-  
+  Jaan alamdaar alamdaar alamdaar
+
   1
   Sher aaram kare jab to asad hota hai
-  Soche hamle ka to zarghaam kaha jaata hai
-  Hota zaigham hai banata hai wo jab mansooba
-  Jab nazar gaade ghazanfar jo daboche hamza
-  Rok de saans hadaf ki to hai abbas magar
-  Kar de do tukde shikaar apna to
-  Hyder hyder
-  Abbas e alamdar abbas e alamdar
-  Hazrat e abbas alamdar alamdar
-  Lashkar e shabbir ka salaar alamdar
-  Abbas hai bawafa abbas hai la fataah
-  Jaise ali hyder e karraar alamdar
-  Abbas e alamdar abbas e alamdar
-  Aisa na salaar dubara hua
-  Aisa na sardar dubara hua
-  Kaise jari shaah ke lashkar mein thay
-  Aisa na jarraar dubara hua
-  Maidan mein jama raha
-  Aada mein data raha
-  Dekha na aisa koi jeedaar alamdar
-  Abbas e alamdar abbas e alamdar
-  Hazrat e abbas alamdar alamdar
-  Lashkar e shabbir ka salaar alamdar
-  Alamdar e bawafa alamdar
-  Alamdar e karbala alamdar
-  Hazrat e abbas alaihis salaam
-  Jitna bada naam hai waisa hi kaam
-  Itna baland aap ka maula maqaam
-  Aap ke mashkoor hai saare imam
+  Soche hamle ka to zarghaam kahaa jaata hai
+  Hota zaigham hai banaata hai wo jab mansuba
+  Jab nazar gaare ghazanfar jo daboche hamza
+  Rok de saans hadaf ki to hai Abbas magar
+  Kar de do tukre shikaar apna to
+  Haidar Haidar
+
+  Abbas alamdaar Abbas alamdaar
+  Hazrat-e-Abbas alamdaar alamdaar
+  Lashkar-e-Shabbir ka saalaar alamdaar
+
+  Abbas hai baawafa Abbas hai laa fata
+  Jaise Ali Haidar-e-Karraar alamdaar
+  Abbas alamdaar Abbas alamdaar
+
+  Aisa na saalaar dobaara hua
+  Aisa na sardaar dobaara hua
+  Kaise jari Shah ke lashkar mein the
+  Aisa na jarraar dobaara hua
+  Maidaaṅ mein jama rahaa
+  Aadaa mein data rahaa
+  Dekha na aisa koi jaidaar alamdaar
+
+  Abbas alamdaar Abbas alamdaar
+  Hazrat-e-Abbas alamdaar alamdaar
+  Lashkar-e-Shabbir ka saalaar alamdaar
+
+  Alamdaar baawafa alamdaar
+  Alamdaar Karbala alamdaar
+
+  Hazrat-e-Abbas alaihis salaam
+  Jitna bara naam hai waisa hi kaam
+  Itna buland aap ka Maula maqaam
+  Aap ke mashkur haiṅ saare Imaam
   Dil dil mein basa hua
   Ghar ghar mein saja hua
   Paak alam aur alamdaar
-  Abbas e alamdar abbas e alamdar
-  Hazrat e abbas alamdar alamdar
-  Lashkar e shabbir ka salaar alamdar
-  Alamdar e bawafa alamdar
-  Alamdar e karbala alamdar
-  Abbas hai bawafa abbas hai la fataah
-  Jaise ali hyder e karraar alamdar
-  Abbas e alamdar abbas e alamdar
-  Aisa jari sher hai sher e ali
-  Sher bhi is sher se darte hai jee
-  Is ko zaroorat nahi talwaar ki
+
+  Abbas alamdaar Abbas alamdaar
+  Hazrat-e-Abbas alamdaar alamdaar
+  Lashkar-e-Shabbir ka saalaar alamdaar
+
+  Alamdaar baawafa alamdaar
+  Alamdaar Karbala alamdaar
+
+  Abbas hai baawafa Abbas hai laa fata
+  Jaise Ali Haidar-e-Karraar alamdaar
+  Abbas alamdaar Abbas alamdaar
+
+  Aisa jari sher hai sher-e-Ali
+  Sher bhi is sher se darte haiṅ ji
+  Is ko zarurat nahiṅ talwaar ki
   Ghaiz ki kaafi hai nazar ek hi
-  Laakhon se ruka nahi
-  Faujon se daba nahi
-  Naam hai abbas khabardaar
-  Abbas e alamdar abbas e alamdar
-  Hazrat e abbas alamdar alamdar
-  Lashkar e shabbir ka salaar alamdar
-  Alamdar e bawafa alamdar
-  Alamdar e karbala alamdar
-  Jang ki khaatir to na ghazi gaya
-  Us ka to dil mashk e sakina mein tha
-  Pyaas pe sadaat ki qurban hua
+  Laakhoṅ se ruka nahiṅ
+  Faujoṅ se daba nahiṅ
+  Naam hai Abbas khabardaar
+
+  Abbas alamdaar Abbas alamdaar
+  Hazrat-e-Abbas alamdaar alamdaar
+  Lashkar-e-Shabbir ka saalaar alamdaar
+
+  Alamdaar baawafa alamdaar
+  Alamdaar Karbala alamdaar
+
+  Jang ki khaatir to na Ghaazi gaya
+  Us ka to dil mashk-e-Sakina mein tha
+  Pyaas pe saadaat ki qurbaaṅ hua
   Warna ye nau laakh ka lashkar tha kya
-  Pani jo na laa saka
+  Paani jo na laa saka
   Darya pe hi so gaya
-  Pyasi sakina ka wo ghamkhwar
-  Abbas e alamdar abbas e alamdar
-  Hazrat e abbas alamdar alamdar
-  Lashkar e shabbir ka salaar alamdar
-  Alamdar e bawafa alamdar
-  Alamdar e karbala alamdar
-  Abbas hai bawafa abbas hai la fataah
-  Jaise ali hyder e karraar alamdar
-  Abbas e alamdar abbas e alamdar
-  Parcham e abbas pe aaya karo
-  Saaye mein is ke sada baitha karo
-  Chaahte ho gar dua manzoor ho
-  Nauha sakina ka sunaya karo
-  Parcham se juday raho
-  Ghazi se wafa karo
-  Mil ke kaho saare azadaar
-  Abbas e alamdar abbas e alamdar
-  Hazrat e abbas alamdar alamdar
-  Lashkar e shabbir ka salaar alamdar
-  Alamdar e bawafa alamdar
-  Alamdar e karbala alamdar
-  Jab hua shabbir se ghazi juda
-  Qaima e sadaat mein kohraam tha
-  Zainab o kulsoon ki goonji sada
-  Haye re abbas mera na raha
-  Hum sab pe fida hua
-  Ghazi ab nahi raha
-  Aal e mohamed ka madadgaar
-  Abbas e alamdar abbas e alamdar
-  Hazrat e abbas alamdar alamdar
-  Lashkar e shabbir ka salaar alamdar
-  Alamdar e bawafa alamdar
-  Alamdar e karbala alamdar
+  Pyaasi Sakina ka wo ghamkhwaar
+
+  Abbas alamdaar Abbas alamdaar
+  Hazrat-e-Abbas alamdaar alamdaar
+  Lashkar-e-Shabbir ka saalaar alamdaar
+
+  Alamdaar baawafa alamdaar
+  Alamdaar Karbala alamdaar
+
+  Abbas hai baawafa Abbas hai laa fata
+  Jaise Ali Haidar-e-Karraar alamdaar
+  Abbas alamdaar Abbas alamdaar
+
+  Parcham-e-Abbas pe aaya karo
+  Saaye mein is ke sadaa baitha karo
+  Chaahte ho gar duaa manzur ho
+  Nauha Sakina ka sunaaya karo
+  Parcham se jure raho
+  Ghaazi se wafaa karo
+  Mil ke kaho saare azaadaar
+
+  Abbas alamdaar Abbas alamdaar
+  Hazrat-e-Abbas alamdaar alamdaar
+  Lashkar-e-Shabbir ka saalaar alamdaar
+
+  Alamdaar baawafa alamdaar
+  Alamdaar Karbala alamdaar
+
+  Jab hua Shabbir se Ghaazi judaa
+  Khaima-e-saadaat mein kohraam tha
+  Zainab o Kulsum ki gunji sadaa
+  Haaye re Abbas mera na rahaa
+  Ham sab pe fidaa hua
+  Ghaazi ab nahiṅ rahaa
+  Aal-e-Muhammad ka madadgaar
+
+  Abbas alamdaar Abbas alamdaar
+  Hazrat-e-Abbas alamdaar alamdaar
+  Lashkar-e-Shabbir ka saalaar alamdaar
+
+  Alamdaar baawafa alamdaar
+  Alamdaar Karbala alamdaar
+
+  Jaan alamdaar alamdaar alamdaar
+  Jaan alamdaar alamdaar alamdaar
+  Jaan alamdaar alamdaar alamdaar
 # source_id: nohayonline:00eb0a669c60c4858448
 # source_url: https://www.nohayonline.com/details_content.php?id=2047
 # raw_sha256: 51d545900328df08419f7ed3f90b9e92459bdd88168a1a279b7eac7478a37e81
@@ -115,28 +142,34 @@ romanLyrics: |-
 شیر آرام کرے جب تو اسد ہوتا ہے
 سوچے حملے کا تو ذرغام کہا جاتا ہے
 ہوتا ضیغم ہے بناتا ہے وہ جب منصوبہ
-جب نظر گاڑے غضنفر جو دبوچے ہمزہ
-روک دے سانس حدف کی تو ہے عباس مگر
+جب نظر گاڑے غضنفر جو دبوچے حمزہ
+روک دے سانس ہدف کی تو ہے عباس مگر
 کر دے دو ٹکڑے شکار اپنا تو
 حیدر حیدر
+
 عباس علمدار عباس علمدار
 حضرت عباس علمدار علمدار
 لشکر شبیر کا سالار علمدار
+
 عباس ہے باوفا عباس ہے لا فتی
 جیسے علی حیدر کرار علمدار
 عباس علمدار عباس علمدار
+
 ایسا نہ سالار دوبارہ ہوا
 ایسا نہ سردار دوبارہ ہوا
 کیسے جری شاہ کے لشکر میں تھے
 ایسا نہ جرار دوبارہ ہوا
 میداں میں جمع رہا
 اعدا میں ڈٹا رہا
-دیکھا نہ ایسا کوی جیدار علمدار
+دیکھا نہ ایسا کوئی جیدار علمدار
+
 عباس علمدار عباس علمدار
 حضرت عباس علمدار علمدار
 لشکر شبیر کا سالار علمدار
+
 علمدار باوفا علمدار
 علمدار کربلا علمدار
+
 حضرت عباس علیہ السّلام
 جتنا بڑا نام ہے ویسا ہی کام
 اتنا بلند آپ کا مولا مقام
@@ -144,14 +177,18 @@ romanLyrics: |-
 دل دل میں بسا ہوا
 گھر گھر میں سجا ہوا
 پاک الم اور علمدار
+
 عباس علمدار عباس علمدار
 حضرت عباس علمدار علمدار
 لشکر شبیر کا سالار علمدار
+
 علمدار باوفا علمدار
 علمدار کربلا علمدار
+
 عباس ہے باوفا عباس ہے لا فتی
 جیسے علی حیدر کرار علمدار
 عباس علمدار عباس علمدار
+
 ایسا جری شیر ہے شیر علی
 شیر بھی اس شیر سے ڈرتے ہیں جی
 اسکو ضرورت نہیں تلوار کی
@@ -159,11 +196,14 @@ romanLyrics: |-
 لاکھوں سے رکا نہیں
 فوجوں سے دبا نہیں
 نام ہے عباس خبردار
+
 عباس علمدار عباس علمدار
 حضرت عباس علمدار علمدار
 لشکر شبیر کا سالار علمدار
+
 علمدار باوفا علمدار
 علمدار کربلا علمدار
+
 جنگ کی خاطر تو نہ غازی گیا
 اس کا تو دل مشک سکینہ میں تھا
 پیاس پہ سادات کی قرباں ہوا
@@ -171,14 +211,18 @@ romanLyrics: |-
 پانی جو نہ لا سکا
 دریا پہ ہی سو گیا
 پیاسی سکینہ کا وہ غمخوار
+
 عباس علمدار عباس علمدار
 حضرت عباس علمدار علمدار
 لشکر شبیر کا سالار علمدار
+
 علمدار باوفا علمدار
 علمدار کربلا علمدار
+
 عباس ہے باوفا عباس ہے لا فتی
 جیسے علی حیدر کرار علمدار
 عباس علمدار عباس علمدار
+
 پرچم عباس پہ آیا کرو
 سایے میں اس کے سدا بیٹھا کرو
 چاہتے ہو گر دعا منظور ہو
@@ -186,11 +230,14 @@ romanLyrics: |-
 پرچم سے جڑے رہو
 غازی سے وفا کرو
 مل کے کہو سارے عزادار
+
 عباس علمدار عباس علمدار
 حضرت عباس علمدار علمدار
 لشکر شبیر کا سالار علمدار
+
 علمدار باوفا علمدار
 علمدار کربلا علمدار
+
 جب ہوا شبیر سے غازی جدا
 خیمہء سادات میں کہرام تھا
 زینب و کلثوم کی گونجی صدا
@@ -198,8 +245,14 @@ romanLyrics: |-
 ہم سب پہ فدا ہوا
 غازی اب نہیں رہا
 آل محمّد کا مددگار
+
 عباس علمدار عباس علمدار
 حضرت عباس علمدار علمدار
 لشکر شبیر کا سالار علمدار
+
 علمدار باوفا علمدار
 علمدار کربلا علمدار
+
+جان علمدار علمدار علمدار
+جان علمدار علمدار علمدار
+جان علمدار علمدار علمدار

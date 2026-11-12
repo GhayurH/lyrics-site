@@ -6,58 +6,61 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Kumail Jafri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jo bichate hai moharram mein sada farshe aza
-  Fatema unki hifazat ki dua karti hai
-  Apna gham bhool ke karte hai jo matam sheh ka
+  Jo bichhaate haiṅ Muharram mein sadaa farsh-e-azaa
+  Fatima un ki hifaazat ki duaa karti hai
+
+  Apna gham bhul ke karte haiṅ jo maatam Shah ka
+  Fatima un ki hifaazat ki duaa karti hai
 
   1
-  Chaand aata hai nazar maahe aza ka jis dam
-  Sheh nasheenon mein azadaar sajate hai alam
-  Jab wo karte hai hussain ibne ali par girya
+  Chaand aata hai nazar maah-e-azaa ka jis dam
+  Shah nashinoṅ mein azaadaar sajaate haiṅ alam
+  Jab wo karte haiṅ Husain ibn-e-Ali par girya
 
   2
-  Laut kar des mein pardes se aa jaate hai
-  Apni daulat jo ghame sheh mein luta jaate hai
-  Aam karte hai jo har saal ghame karbobala
+  Laut kar des mein pardes se aa jaate haiṅ
+  Apni daulat jo gham-e-Shah mein lutaa jaate haiṅ
+  Aam karte haiṅ jo har saal gham-e-Karb o Balaa
 
   3
-  Dil mein rakhte hai sada ahle haram ka ehsaas
-  Yaad mein unki pehente hai jo bas kaale libaas
-  Rashk un logon pe karta hai libaas e kaaba
+  Dil mein rakhte haiṅ sadaa ahl-e-haram ka ehsaas
+  Yaad mein un ki pahante hai jo bas kaale libaas
+  Rashk un logoṅ pe karta hai libaas-e-Kaaba
 
   4
-  Shah ke matam mein jo sholon pe chala karte hai
-  Naam e shabbir pe jo jaan fida karte hai
-  Unko hota hi nahi jaan ka koi khatra
+  Shah ke maatam mein jo sholoṅ pe chalaa karte haiṅ
+  Naam-e-Shabbir pe jo jaan fidaa karte haiṅ
+  Un ko hota hi nahiṅ jaan ka koi khatra
 
   5
-  Jo bahate hai ghame sibte nabi mein aansu
-  Aur zanjeer o qama kar ke bahaate hai lahoo
-  Unka hota hai har ek lamha madadgaar khuda
+  Jo bahaate haiṅ gham-e-sibt-e-Nabi mein aansuṅ
+  Aur zanjir o qama kar ke bahaate haiṅ lahu
+  Un ka hota hai har ek lamha madadgaar Khuda
 
   6
-  Parchame hazrate abbas uthane waale
-  Pa barahna hai julooson mein jo aane waale
-  Apne honton pe liye haye hussaina ki sada
+  Parcham-e-Hazrat-e-Abbas uthaane wale
+  Paa barahna haiṅ julusoṅ mein jo aane wale
+  Apne hontoṅ pe liye haaye Husaina ki sadaa
 
   7
-  Sheh ke maqsad ke muhafiz bhi hai ghazi bhi hai
-  Jo azadaar bhi hai aur namazi bhi hai
-  Farshe majlis pe jo karte hai khuda ka sajda
+  Shah ke maqsad ke muhaafiz bhi hai Ghaazi bhi hai
+  Jo azaadaar bhi hai aur namaazi bhi hai
+  Farsh-e-majlis pe jo karte haiṅ Khuda ka sajda
 
   8
-  Door rehti hai bala karbobala waalon se
-  Munsalik hai jo sada karbobala waalon se
-  Unki har gaam pe karte hai hifazat maula
+  Dur rahti hai balaa Karb o Balaa waloṅ se
+  Munsalik hai jo sadaa Karb o Balaa waloṅ se
+  Un ki har gaam pe karte haiṅ hifaazat Maula
 
   9
-  Roz karte hai wazeefa ye kumail o aamir
-  Dil mein rakhte hai aqeeda ye kumail o aamir
-  Jo bhi padhte hai hussain ibne ali ka nauha
+  Roz karte haiṅ wazifa ye Kumail o Aamir
+  Dil mein rakhte haiṅ aqida ye Kumail o Aamir
+  Jo bhi parhte haiṅ Husain ibn-e-Ali ka nauha
 # source_id: nohayonline:acab0a2045ddfd53ac90
 # source_url: https://www.nohayonline.com/details_content.php?id=2733
 # raw_sha256: 86d91a9445e9d11661ccc74639a8b04911d52690265b3cc9df36d482e197d6a4
@@ -65,7 +68,9 @@ romanLyrics: |-
 
 جو بچھاتے ہیں محرم میں صدا فرش عزا
 فاطمہ ان کی حفاظت کی دعا کرتی ہے
+
 اپنا غم بھول کے کرتے ہیں جو ماتم شہ کا
+فاطمہ ان کی حفاظت کی دعا کرتی ہے
 
 ۱
 چاند آتا ہے نظر ماہ عزا کا جس دم
@@ -85,7 +90,7 @@ romanLyrics: |-
 ۴
 شاہ کے ماتم میں جو شعلوں پہ چلا کرتے ہیں
 نام شبیر پہ جو جان فدا کرتے ہیں
-ان کو ہوتا ہی نہیں جان کا کوی خطرہ
+ان کو ہوتا ہی نہیں جان کا کوئی خطرہ
 
 ۵
 جو بہاتے ہیں غمِ سبط نبی میں آنسوں
@@ -95,7 +100,7 @@ romanLyrics: |-
 ۶
 پرچمِ حضرتِ عبّاس اٹھانے والے
 پا برہنہ ہیں جلوسوں میں جو آنے والے
-اپنے ہونٹوں پہ لیےء ہاے حسینا کی صدا
+اپنے ہونٹوں پہ لیے ہائے حسینا کی صدا
 
 ۷
 شہ کے مقصد کے محافظ بھی ہے غازی بھی ہے
@@ -105,7 +110,7 @@ romanLyrics: |-
 ۸
 دور رہتی ہے بلا کربوبلا والوں سے
 منسلک ہے جو صدا کربوبلا والوں سے
-انکی ہر گام پہ کرتے ہیں حفاظت مولا
+ان کی ہر گام پہ کرتے ہیں حفاظت مولا
 
 ۹
 روز کرتے ہیں وظیفہ یہ کمیل و عامر
