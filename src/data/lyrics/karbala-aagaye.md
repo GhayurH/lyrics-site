@@ -1,63 +1,68 @@
 ---
 title: "کربلا آ گئے اسلام بچانے والے"
-alternateTitle: "Karbala Aagaye"
+alternateTitle: "Karbala Aa Gaye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
+reciter: "Tableegh-e-Imamia"
 tags: ["noImage"]
-aliases: []
+aliases: ["Karbala Aagaye"]
 published: false
 romanLyrics: |-
-  Karbala aagaye islam bachane waale
-  Bichgaya farshe aza chid gayi shabbir ki baat
-  Arsh waale bhi hai ab farsh pe aane waale
-  
+  Karbala aa gaye Islam bachaane waale
+
   1
-  Kis khadar chain se sotay hai sare karbobala
-  Deene islam ki taqdeer jagane waale
-  
+  Bichh gaya farsh-e-aza chhir gayi Shabbir ki baat
+  Arsh waale bhi haiṅ ab farsh pe aane waale
+
   2
-  Mere aaqa teri ghurbat pe zaeefi pe salaam
-  Ay jawan bete ki mayyat ko uthane waale
-  
+  Kis qadar chain se sote haiṅ sar-e-Karb o Bala
+  Din-e-Islam ki taqdir jagaane waale
+
   3
-  Be-khatar hoke satayenge sakina ko udoo
-  Ab kahan zulm se bachi ko bachane waale
-  
+  Mere aaqa teri ghurbat pe zaifi pe salaam
+  Ae jawaaṅ bete ki mayyat ko uthaane waale
+
   4
-  Hashr ke roz jahanum mein jalenge aakhir
-  Ban mein saadaat ke qaimon ko jalane waale
-  
+  Bekhatar ho ke sataayeṅ ge Sakina ko adu
+  Ab kahaaṅ zulm se bachchi ko bachaane waale
+
   5
-  Sab tere shayr zamane ko sunaate hai gohar
-  Padne waale ho naye chaahe purane waale
+  Hashr ke roz jahannam mein jaleṅ ge aakhir
+  Ban mein saadaat ke khaimoṅ ko jalaane waale
+
+  6
+  Sab tere sher zamaane ko sunaate haiṅ Gohar
+  Parhne waale hoṅ naye chaahe puraane waale
 # source_id: nohayonline:c827de327da3afd43eaa
 # source_url: https://www.nohayonline.com/details_content.php?id=822
 # raw_sha256: 2e1aec5b10ff4e3327790c29226b6ad283595b3f8468c794c50b3ca303be70a7
 ---
 
 کربلا آ گئے اسلام بچانے والے
-بِچھ گیا فرشِ اعزا چھڑ گئی شبیر کی بات
-عرش والے بھی ہیں اب فرش پہ آنے والے
 
 ۱
+بِچھ گیا فرشِ عزا چھڑ گئی شبیر کی بات
+عرش والے بھی ہیں اب فرش پہ آنے والے
+
+۲
 کس قدر چین سے سوتے ہیں سرِ کرب و بلا
 دینِ اسلام کی تقدیر جگانے والے
 
-۲
+۳
 میرے آقا تیری غربت پہ ضعیفی پہ سلام
 اے جواں بیٹے کی میت کو اُٹھانے والے
 
-۳
-بے خطر ہو کہ ستائیں گے سکینہ کو عدُو
-ی کو بچانے والےاب کہاں ظُلم سے بچ
-
 ۴
+بے خطر ہو کے ستائیں گے سکینہ کو عدُو
+اب کہاں ظُلم سے بچی کو بچانے والے
+
+۵
 حشر کے روز جہنم میں جلیں گے آخر
 بن میں سادات کے خیموں کو جلانے والے
 
-۵
+۶
 سب تیرے شعر زمانے کو سُناتے ہیں گوہر
 پڑھنے والے ہوں نئے چاہے پُرانے والے

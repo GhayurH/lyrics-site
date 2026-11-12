@@ -1,82 +1,91 @@
 ---
 title: اے میرے دیس کے لوگوں میری آواز سنو
-alternateTitle: Karbala Aam Kare
+alternateTitle: Karbala Aam Kareṅ
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Hilal Naqvi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Karbala Aam Kare"]
 published: false
 romanLyrics: |-
-  Ay mere des ke logon meri awaaz suno
-  Meri awaaz mein maqtal ka ye aghaaz suno
-  Kya khabar tum na raho kya khabar hum na rahe
-  Aao ek kaam kare karbala aam kare
+  Ae mere des ke logoṅ meri aawaaz suno
+  Meri aawaaz mein maqtal ka ye aaghaaz suno
+  Kya khabar tum na raho kya khabar hum na raheṅ
+  Aao ik kaam kareṅ Karbala aam kareṅ
 
   1
-  Jis tarha saani e zehra ne isay aam kiya
-  Ek zanjeer ki jhankaar ne wo kaam kiya
-  Jis tarha se shohda ne safar e shaam kiya
-  Yani naizo se buland aur bhi islam kiya
-  Hum isi dars e qayadat ki ada aam kare
+  Jis tarah Saani-e-Zehra ne ise aam kiya
+  Ik zanjir ki jhankaar ne wo kaam kiya
+  Jis tarah se shohada ne safar-e-Shaam kiya
+  Yaani nezoṅ se buland aur bhi Islam kiya
+  Hum isi dars-e-qiyaadat ki ada aam kareṅ
+  Kya khabar tum na raho kya khabar hum na raheṅ
 
   2
-  Ye jo majlis hai madawa hai har ek gham ke liye
-  Ek saughat hai ye deeda e purnam ke liye
-  Soz e dil chahiye tehzeeb moharam ke liye
-  Koyi tafreeq nahi halqa e matam ke liye
-  Rone waalon ke liye farsh e aza aam kare
+  Ye jo majlis hai mudaawa hai har ek gham ke liye
+  Ek saughaat hai ye dida-e-purnam ke liye
+  Soz-e-dil chaahiye tahzib-e-Muharram ke liye
+  Koi tafriq nahiṅ halqa-e-maatam ke liye
+  Rone waaloṅ ke liye farsh-e-aza aam kareṅ
+  Kya khabar tum na raho kya khabar hum na raheṅ
 
   3
-  Aao dekho ke ye qaima ye alam kis ka hai
-  Khoon se naam ye sehra pe raqam kis ka hai
-  Ab bhi tareekh se aage ye qadam kis ka hai
-  Saari dunya ko bata de ke ye gham kis ka hai
-  Saari dunya ke liye gham ki fiza aam kare
+  Aao dekho ke ye khaima ye alam kis ka hai
+  Khun se naam ye sehra pe raqam kis ka hai
+  Ab bhi taarikh se aage ye qadam kis ka hai
+  Saari duniya ko bata de ke ye gham kis ka hai
+  Saari duniya ke liye gham ki fiza aam kareṅ
+  Kya khabar tum na raho kya khabar hum na raheṅ
 
   4
-  Tum bhi seene mein ye gham leke chalo hum bhi chale
-  Tum bhi inkaar e sitam leke chalo hum bhi chale
-  Tum bhi haq ka ye hasham leke chalo hum bhi chale
-  Tum bhi ghazi ka alam leke chalo hum bhi chale
-  Har zamane ke liye zikr e wafa aam kare
+  Tum bhi sine mein ye gham le ke chalo hum bhi chaleṅ
+  Tum bhi inkaar-e-sitam le ke chalo hum bhi chaleṅ
+  Tum bhi haq ka ye hasham le ke chalo hum bhi chaleṅ
+  Tum bhi Ghaazi ka alam le ke chalo hum bhi chaleṅ
+  Har zamaane ke liye zikr-e-wafa aam kareṅ
+  Kya khabar tum na raho kya khabar hum na raheṅ
 
   5
-  Aisa aejaz to tareekh ne dekha na suna
-  Jo diya noor ke haaton shabe ashoor bujha
-  Sab shaheedon ke dilon mein wo diya jaa ke jala
+  Aisa ejaaz to taarikh ne dekha na suna
+  Jo diya nur ke haathoṅ shab-e-Aashur bujha
+  Sab shahidoṅ ke diloṅ mein wo diya jaa ke jala
   Aaj bhi roshni deta hai wohi ek diya
-  Har andhere mein wohi ek diya aam kare
+  Har andhere mein wohi ek diya aam kareṅ
+  Kya khabar tum na raho kya khabar hum na raheṅ
 
   6
-  Baad shabbir ke apne bhi hai aghyaar bhi hai
-  Khandan e bani hashim bhi hai ansaar bhi hai
-  Hurr bhi hai john bhi hai akbar e jarrar bhi hai
-  Jaan dene ke liye subho se tayyar bhi hai
-  Aise maqtal ki fiza ko ba khuda aam kare
+  Baad Shabbir ke apne bhi haiṅ aghyaar bhi haiṅ
+  Khaandaan-e-Bani Haashim bhi hai ansaar bhi haiṅ
+  Hur bhi haiṅ Jaun bhi hai Akbar-e-Jarraar bhi haiṅ
+  Jaan dene ke liye subh se tayyaar bhi haiṅ
+  Aise maqtal ki fiza ko ba Khuda aam kareṅ
+  Kya khabar tum na raho kya khabar hum na raheṅ
 
   7
-  Khafela reh gaya ek dashte bala mein pyasa
-  Jin ki meraas thi kausar unhe pani na mila
-  Ye sabeelein unhi pyason se wafa hai ba khuda
-  Koi pyasa na rahe thi ye sakina ki dua
-  Har zameen par ye sakina ki dua aam kare
+  Qaafila reh gaya ik dasht-e-bala mein pyaasa
+  Jin ki miraas thi Kausar unheṅ paani na mila
+  Ye sabileṅ unhiṅ pyaasoṅ se wafa hai ba Khuda
+  Koi pyaasa na rahe thi ye Sakina ki sada
+  Har zamiṅ par ye Sakina ki dua aam kareṅ
+  Kya khabar tum na raho kya khabar hum na raheṅ
 
   8
-  Rehnuma qatl hua qatl qayadat na hui
-  Ek imam aur bada khatm imamat na hui
-  Jis mein rondhe gaye pamaal shariyat na hui
-  Chadare chin gayi baatil ki hukumat na hui
-  Ye mohamed ke gharane ki wafa aam kare
+  Rahnuma qatl hua qatl qiyaadat na hui
+  Ik imaam aur barha khatm imaamat na hui
+  Jism rauṅde gaye paamaal shariat na hui
+  Chaadareṅ chhin gayiṅ baatil ki hukumat na hui
+  Ye Muhammad ke gharaane ki wafa aam kareṅ
+  Kya khabar tum na raho kya khabar hum na raheṅ
 
   9
   Mere maula mere aaqa ye tera gham na ruke
-  Kitne toofan bhi hilaal aaye magar hum na ruke
-  Ay azadar ye majlis ye moharam na ruke
-  Waqt kitna hi badal jaaye ye matam na ruke
-  Ye shaheedon ka hai matam ba khuda aam kare
+  Kitne tufaan bhi Hilaal aaye magar hum na ruke
+  Ae azaadaar ye majlis ye Muharram na ruke
+  Waqt kitna hi badal jaaye ye maatam na ruke
+  Ye shahidoṅ ka hai maatam ba Khuda aam kareṅ
+  Kya khabar tum na raho kya khabar hum na raheṅ
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:6ec8ae5c36dd1b6300f6
 # source_url: https://www.nohayonline.com/details_content.php?id=2057
@@ -87,22 +96,24 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 ---
 اے میرے دیس کے لوگوں میری آواز سنو
 میری آواز میں مقتل کا یہ آغاز سنو
-کیا خبر تم نہ رہو کیا خبر تم نہ رہو
+کیا خبر تم نہ رہو کیا خبر ہم نہ رہیں
 آؤ اک کام کریں کربلا عام کریں
 
 ۱
-جس طرح ثانیء زہرا نے اسے عام کیا
+جس طرح ثانیِ زہرا نے اسے عام کیا
 اک زنجیر کی جھنکار نے وہ کام کیا
 جس طرح سے شہداء نے سفر شام کیا
 یعنی نیزوں سے بلند اور بھی اسلام کیا
 ہم اسی درس قیادت کی ادا عام کریں
+کیا خبر تم نہ رہو کیا خبر ہم نہ رہیں
 
 ۲
 یہ جو مجلس ہے مداوا ہے ہر ایک غم کے لئے
 ایک سوغات ہے یہ دیدۂ پر نم کے لئے
-سوز دل چاہیےء تہزیب محرم کے لئے
-کوئی تفریق نہیں حلقہء ماتم کے لئے
+سوزِ دل چاہیے تہذیبِ محرم کے لئے
+کوئی تفریق نہیں حلقۂ ماتم کے لئے
 رونے والوں کے لئے فرش عزا عام کریں
+کیا خبر تم نہ رہو کیا خبر ہم نہ رہیں
 
 ۳
 آؤ دیکھو کہ یہ خیمہ یہ علم کس کا ہے
@@ -110,6 +121,7 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 اب بھی تاریخ سے آگے یہ قدم کس کا ہے
 ساری دنیا کو بتا دے کہ یہ غم کس کا ہے
 ساری دنیا کے لئے غم کی فضا عام کریں
+کیا خبر تم نہ رہو کیا خبر ہم نہ رہیں
 
 ۴
 تم بھی سینے میں یہ غم لے کے چلو ہم بھی چلیں
@@ -117,6 +129,7 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 تم بھی حق کا یہ ہشم لے کے چلو ہم بھی چلیں
 تم بھی غازی کا علم لے کے چلو ہم بھی چلیں
 ہر زمانے کے لئے ذکرِ وفا عام کریں
+کیا خبر تم نہ رہو کیا خبر ہم نہ رہیں
 
 ۵
 ایسا اعجاز تو تاریخ نے دیکھا نہ سنا
@@ -124,13 +137,15 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 سب شہیدوں کے دلوں میں وہ دیا جا کے جلا
 آج بھی روشنی دیتا ہے وہی ایک دیا
 ہر اندھیرے میں وہی ایک دیا عام کریں
+کیا خبر تم نہ رہو کیا خبر ہم نہ رہیں
 
 ۶
-بعد شیر کے اپنے بھی ہیں اغیار بھی ہیں
+بعد شبیر کے اپنے بھی ہیں اغیار بھی ہیں
 خاندان بنی ہاشم بھی ہے انصار بھی ہیں
 حر بھی ہیں جون بھی ہے اکبر جرار بھی ہیں
 جان دینے کے لئے صبح سے تیار بھی ہیں
 ایسے مقتل کی فضا کو بہ خدا عام کریں
+کیا خبر تم نہ رہو کیا خبر ہم نہ رہیں
 
 ۷
 قافلہ رہ گیا اک دشتِ بلا میں پیاسا
@@ -138,17 +153,20 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 یہ سبیلیں انہیں پیاسوں سے وفا ہے بہ خدا
 کوئی پیاسا نہ رہے تھی یہ سکینہ کی صدا
 ہر زمیں پر یہ سکینہ کی دعا عام کریں
+کیا خبر تم نہ رہو کیا خبر ہم نہ رہیں
 
 ۸
-رہنما قتل ہوا قتل قیادت نہ ہوی
-اک امام اور بڑھا ختم امامت نہ ہوی
-جس میں روندھے گےء پامال شریعت نہ ہوی
-چادریں چھن گیء باطل کی حکومت نہ ہوی
+رہنما قتل ہوا قتل قیادت نہ ہوئی
+اک امام اور بڑھا ختم امامت نہ ہوئی
+جسم روندھے گئے پامال شریعت نہ ہوئی
+چادریں چھن گئیں باطل کی حکومت نہ ہوئی
 یہ محمد کے گھرانے کی وفا عام کریں
+کیا خبر تم نہ رہو کیا خبر ہم نہ رہیں
 
 ۹
-میرے مولا میرے آقا یہ تیرا غم‌ نہ رکے
-کتنے طوفان بھی ہلال آے مگر ہم نہ رکے
+میرے مولا میرے آقا یہ تیرا غم نہ رکے
+کتنے طوفان بھی ہلال آئے مگر ہم نہ رکے
 اے عزادار یہ مجلس یہ محرم نہ رکے
-وقت کتنا ہی بدل جاے یہ ماتم نہ رکے
+وقت کتنا ہی بدل جائے یہ ماتم نہ رکے
 یہ شہیدوں کا ہے ماتم بہ خدا عام کریں
+کیا خبر تم نہ رہو کیا خبر ہم نہ رہیں

@@ -1,91 +1,92 @@
 ---
 title: "کربل تو نے لوٹ لیا گھر زہرا کا"
-alternateTitle: "Karbal Tune Loot Liya"
+alternateTitle: "Karbal Tu Ne Lut Liya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: ["noImage"]
-aliases: []
+aliases: ["Karbal Tune Loot Liya"]
 published: false
 romanLyrics: |-
-  Karbal tu ne loot liya ghar zehra ka
-  Neher rawan hai aur pyasa ghar zehra ka
+  Karbal tu ne lut liya ghar Zehra ka
+  Nehr rawaaṅ hai aur pyaasa ghar Zehra ka
+  Karbal tu ne lut liya ghar Zehra ka
   
   1
-  Aaye tere daaman mein mehman
-  Baagh ujaada kiya hai veeran
-  Na haq yun barbaad kiya ghar zehra ka
+  Aaye tere daaman mein mehmaan
+  Baagh ujaara kiya hai wiraan
+  Na haq yuṅ barbaad kiya ghar Zehra ka
   
   2
   Aaye jari darya ke kinare
-  Mashk chidi baazu bhi kataye
-  Pani ko phir tars gaya ghar zehra ka
+  Mashk chhidi baazu bhi kataaye
+  Paani ko phir taras gaya ghar Zehra ka
   
   3
-  Khoob lade zainab ke dilbar
-  Ran mein gire talwarein kha kar
-  Maut ke saaye mein aaya ghar zehra ka
+  Khub lare Zainab ke dilbar
+  Ran mein gire talwaareṅ khaa kar
+  Maut ke saaye mein aaya ghar Zehra ka
   
   4
-  Kaisi azan ye di hai akbar
-  Chounk utha dushman ka lashkar
-  Yaad e mohamed mein roya ghar zehra ka
+  Kaisi azaaṅ ye di hai Akbar
+  Chauṅk utha dushman ka lashkar
+  Yaad-e-Muhammad mein roya ghar Zehra ka
   
   5
-  Ibne hassan ki kaisi shadi
-  Bhooke pyase sab baraati
-  Loot liya zaalim ne bhara ghar zehra ka
+  Ibn-e-Hasan ki kaisi shaadi
+  Bhuke pyaase sab baraati
+  Lut liya zaalim ne bhara ghar Zehra ka
   
   6
-  Ek ek kar ke laashe laaye
-  Sar se paa tak khoon mein nahaye
-  Laashon se tha bhara hua ghar zehra ka
+  Ik ek kar ke laashe laaye
+  Sar se paa tak khuṅ mein nahaaye
+  Laashoṅ se tha bhara hua ghar Zehra ka
   
   7
-  Rehm kisi ne na khaaya us par
-  Teer se chida halq e asghar
-  Khaak aur khoon mein doob gaya ghar zehra ka
+  Rahm kisi ne na khaaya us par
+  Tir se chheda halq-e-Asghar
+  Khaak aur khuṅ mein dub gaya ghar Zehra ka
   
   8
-  Arsh ka taara jalti zameen par
-  Seene pe qatil halq pe khanjar
-  Ek sajde mein loot liya ghar zehra ka
+  Arsh ka taara jalti zamiṅ par
+  Sine pe qaatil halq pe khanjar
+  Ik sajde mein lut liya ghar Zehra ka
   
   9
-  Sajda e haq se sar na uthaya
-  Sar de kar islam bachaya
-  Hashr talak yaad aayega ghar zehra ka
+  Sajda-e-haq se sar na uthaaya
+  Sar de kar Islam bachaaya
+  Hashr talak yaad aayega ghar Zehra ka
   
   10
-  Jao khuda hafiz ay akbar
+  Jaao Khuda haafiz Ae Akbar
   Dekh bhi lo har baar palat kar
-  Mushtaq e deedar khada ghar zehra ka
+  Mushtaaq-e-didaar khara ghar Zehra ka
   
   11
-  Aab ke aewaz teer e sitamgar
-  Maut ki hichki dast e sheh par
-  Bebas dekh raha tha dilbar zehra ka
+  Aab ke iwaz tir-e-sitamgar
+  Maut ki hichki dast-e-Shah par
+  Bebas dekh raha tha dilbar Zehra ka
   
   12
-  Ye kaisi mehman ki khidmat
-  Teen dino se pyaas ki shiddat
-  Khatra e aab nahi paaya ghar zehra ka
+  Ye kaisi mehmaaṅ ki khidmat
+  Tin dinoṅ se pyaas ki shiddat
+  Khatra-e-aab nahiṅ paaya ghar Zehra ka
   
   13
-  Godi se aur gehwaron se
-  Bichde hai bache maaon se
-  Karta hai qurban kya kya ghar zehra ka
+  Godi se aur gehwaaroṅ se
+  Bichhre haiṅ bachche maaoṅ se
+  Karta hai qurbaan kya kya ghar Zehra ka
   
   14
   Jaan bahattar ne de di hai
-  Deen ki shamma roshan ki hai
-  Hum par ye ehsaan kiya ghar zehra ka
+  Din ki shama roshan ki hai
+  Hum par ye ehsaan kiya ghar Zehra ka
   
   15
-  Dard moharram hai ashkon ka
-  Matam ka aur majalison ka
-  Hota hai veeran bhara ghar zehra ka
+  Dard Muharram hai ashkoṅ ka
+  Maatam ka aur majaalisoṅ ka
+  Hota hai wiraan bhara ghar Zehra ka
 # source_id: nohayonline:a0520c2d5d0d4a0fdff6
 # source_url: https://www.nohayonline.com/details_content.php?id=1669
 # raw_sha256: 02f6c0886b2e7a61b69520eea8a43bfd44c0b79c6b9590e9a2caa1dd232e67f9
@@ -93,21 +94,22 @@ romanLyrics: |-
 
 کربل تو نے لوٹ لیا گھر زہرا کا
 نہر رواں ہے اور پیاسا گھر زہرا کا
+کربل تو نے لوٹ لیا گھر زہرا کا
 
 ۱
-آے تیرے دامن میں میہمان
+آئے تیرے دامن میں مہمان
 باغ اجاڑا کیا ہے ویران
 نا حق یوں برباد کیا گھر زہرا کا
 
 ۲
-آے جری دریا کے کنارے
-مشک چھدی بازو بھی کٹاے
+آئے جری دریا کے کنارے
+مشک چھدی بازو بھی کٹائے
 پانی کو پھر ترس گیا گھر زہرا کا
 
 ۳
 خوب لڑے زینب کے دلبر
 رن میں گرے تلواریں کھا کر
-موت کے ساے میں آیا گھر زہرا کا
+موت کے سائے میں آیا گھر زہرا کا
 
 ۴
 کیسی اذاں یہ دی ہے اکبر
@@ -120,8 +122,8 @@ romanLyrics: |-
 لوٹ لیا ظالم نے بھرا گھر زہرا کا
 
 ۶
-اک ایک کر کے لاشے لاے
-سر سے پا تک خوں‌ میں نہائے
+اک ایک کر کے لاشے لائے
+سر سے پا تک خوں میں نہائے
 لاشوں سے تھا بھرا ہوا گھر زہرا کا
 
 ۷
@@ -137,7 +139,7 @@ romanLyrics: |-
 ۹
 سجدۂ حق سے سر نہ اٹھایا
 سر دے کر اسلام بچایا
-حشر تلک یاد آے گا گھر زہرا کا
+حشر تلک یاد آئے گا گھر زہرا کا
 
 ۱۰
 جاؤ خدا حافظ اے اکبر
@@ -150,7 +152,7 @@ romanLyrics: |-
 بے بس دیکھ رہا تھا دلبر زہرا کا
 
 ۱۲
-یہ کیسی میہماں کی خدمت
+یہ کیسی مہماں کی خدمت
 تین دنوں سے پیاس کی شدت
 خطرہء آب نہیں پایا گھر زہرا کا
 
