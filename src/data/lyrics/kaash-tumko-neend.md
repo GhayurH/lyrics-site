@@ -6,56 +6,64 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Hasnain Akbar"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Baba ki pyari Sakina
-  Sham e ghariban hai ye Sakina kaash tumko neend aa jae
-  Besar padar ka bann me tha nauha kaash tumko neend aa jae
+  Baba ki pyaari Sakina
+  Shaam-e-gharibaṅ hai ye Sakina
+  Kaash tum ko nind aa jaaye
+  Besar padar ka ban mein tha nauha
+  Kaash tum ko nind aa jaaye
 
   1
-  Patthar badan se hatau too kaise
-  Lori tumhe mai sunau to kaise
-  Pehlu me so jao aye shahzadi
-  Seenay pe tumko sulau to kaise
-  Teeron bhara hai bistar tumhara
+  Patthar badan se hataauṅ to kaise
+  Lori tumheṅ main sunaauṅ to kaise
+  Pehlu mein so ja ae shahzaadi
+  Sine pe tum ko sulaauṅ to kaise
+  Tiroṅ bhara hai bistar tumhaara
+  Kaash tum ko nind aa jaaye
 
   2
-  Baysheer wapas jo aaya nahi hai
-  Maine tumhe ye bataya nahi hai
-  Lori sunayi hai teeron ne usko
-  Asghar ko maine sulaya nahi hai
-  Tum ko to lori dete hai baba
+  Beshir waapas jo aaya nahiṅ hai
+  Main ne tumheṅ ye bataaya nahiṅ hai
+  Lori sunaai hai tiroṅ ne us ko
+  Asghar ko main ne sulaaya nahiṅ hai
+  Tum ko to lori dete haiṅ baba
+  Kaash tum ko nind aa jaaye
 
   3
-  Us waqt mujhpe bhi mushkil badi thi
-  Pehlu mein maadar ke sota tha mai bhi
-  Mai jaanta hoon ye mushkil hai kitna
-  Bichdi thi jab mujhse dadi tumhari
-  Mere liye bhi kehti thi zehra
+  Us waqt mujh pe bhi mushkil bari thi
+  Pehlu mein maadar ke sota tha main bhi
+  Main jaanta huṅ ye mushkil hai kitna
+  Bichhri thi jab mujh se daadi tumhaari
+  Mere liye bhi kehti thi Zehra
+  Kaash tum ko nind aa jaaye
 
   4
-  Har taur khud ko sambhalegi zainab
-  Go tum jo royi to royegi zainab
-  Tum bhi samajhti ho phir bhi kahunga
-  Gar tum na soyi to jaagegi zainab
-  Zainab ki khaatir so jao beta
+  Har taur khud ko sambhaale gi Zainab
+  Go tum jo roi to roye gi Zainab
+  Tum bhi samajhti ho phir bhi kahuṅ ga
+  Gar tum na soi to jaage gi Zainab
+  Zainab ki khaatir so jaao beta
+  Kaash tum ko nind aa jaaye
 
   5
-  Wo dekho kuch door soye hai akber
-  Aun o muhammed hai soye waha per
-  Aadat hai pehre me sone ki tumko
-  Bibi muhafiz hai pure bahattar
-  Charo taraf hai laashon ka pehra
+  Wo dekho kuchh dur soye haiṅ Akbar
+  Aun o Muhammad hai soye wahaṅ par
+  Aadat hai pehre mein sone ki tum ko
+  Bibi muhaafiz hai pure bahattar
+  Chaaroṅ taraf hai laashoṅ ka pehra
+  Kaash tum ko nind aa jaaye
 
   6
-  Ik dher hai pattharon ka zami per
-  Baithi ik bibi jiske barabar
-  Aulaad ke gham me dube padar ki
-  Aati hai jis se sadaein ye "akber"
-  Jagogi kabtak meri sakina
-  Kaash tumko neend aa jae
+  Ek dher hai pattharoṅ ka zamiṅ par
+  Baithi ek Bibi jis ke baraabar
+  Aulaad ke gham mein dube padar ki
+  Aati hai jis se sadaaeṅ ye Akbar
+  Jaago gi kab tak meri Sakina
+  Kaash tum ko nind aa jaaye
 # source_id: nohayonline:d8dfb917c646e9c52677
 # source_url: https://www.nohayonline.com/details_content.php?id=3574
 # raw_sha256: 54308c86a5eca4beddf8e0510d7e79ba41d1b542b5530a977d6b4723eccec1e2
@@ -75,38 +83,44 @@ romanLyrics: |-
 پہلو میں سو جا اے شاہزادی
 سینے پہ تم کو سلاؤں تو کیسے
 تیروں بھرا ہے بستر تمہارا
+کاش تم کو نیند آ جائے
 
 ۲
 بے شیر واپس جو آیا نہیں ہے
 میں نے تمہیں یہ بتایا نہیں ہے
-لوری سنای ہے تیروں نے اس کو
+لوری سنائی ہے تیروں نے اس کو
 اصغر کو میں نے سلایا نہیں ہے
 تم کو تو لوری دیتے ہیں بابا
+کاش تم کو نیند آ جائے
 
 ۳
 اس وقت بھی مشکل بڑی تھی
 پہلو میں مادر کے سوتا تھا میں بھی
 میں جانتا ہوں یہ مشکل ہے کتنا
 بچھڑی تھی جب مجھ سے دادی تمہاری
-میرے لیےء بھی کہتی تھی زہرا
+میرے لیے بھی کہتی تھی زہرا
+کاش تم کو نیند آ جائے
 
 ۴
 ہر طور خود کو سنبھالے گی زینب
-گو تم جو روی تو روے گی زینب
+گو تم جو روئی تو روئے گی زینب
 تم بھی سمجھتی ہو پھر بھی کہوں گا
 گر تم نہ سوئی تو جاگے گی زینب
 زینب کی خاطر سو جاؤ بیٹا
+کاش تم کو نیند آ جائے
 
 ۵
-وہ دیکھو کچھ دور سوے ہیں اکبر
-عون و محمد ہے سوے وہاں پر
+وہ دیکھو کچھ دور سوئے ہیں اکبر
+عون و محمد ہے سوئے وہاں پر
 عادت ہے پہرے میں سونے کی تم کو
-بی بی محافظ ہے پورے بہتر
+بی‌بی محافظ ہے پورے بہتر
 چاروں طرف ہے لاشوں کا پہرہ
+کاش تم کو نیند آ جائے
 
 ۶
 ایک ڈھیر ہے پتھروں کا زمیں پر
-بیٹھی ایک بی بی جس کے برابر
+بیٹھی ایک بی‌بی جس کے برابر
 اولاد کے غم میں ڈوبے پدر کی
-آتی ہے جس سے صداییں یہ اکبر
+آتی ہے جس سے صدائیں یہ اکبر
 جاگو گی کب تک میری سکینہ
+کاش تم کو نیند آ جائے
