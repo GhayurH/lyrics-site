@@ -6,83 +6,88 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Saayib Zaidi"
+reciter: "Mukhtar Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jigar ko thaam ke jab haal dekha akbar ka
-  Ani ke saath mein nikla kaleja akbar ka
-  Zameen e karbobala par hai phaila khoone pisar
-  Bhara tha zakhmon se wo jism saara akbar ka
+  Jigar ko thaam ke jab haal dekha Akbar ka
+  Ani ke saath mein nikla kaleja Akbar ka
 
   1
-  Ani jo khaynchi to khoon aaya chehre par sheh ke
-  Tadap ke reh gaye dekha hai chehra akbar ka
+  Zamin-e-Karbobala par hai phaila khun-e-pisar
+  Bhara tha zakhmoṅ se wo jism saara Akbar ka
 
   2
-  Khuda ye meri za'eefi ka tha sahara jawan
-  Sitam ke naize ne cheda hai seena akbar ka
+  Ani jo kheṅchi to khuṅ aaya chehre par Shah ke
+  Tarap ke reh gaye dekha hai chehra Akbar ka
 
   3
-  Dulhan biyaah ke laila na ghar mein la paayi
-  Bane hai khoon bhare gaysu ye sehra akbar ka
+  Khuda ye meri zaifi ka tha sahaara jawaaṅ
+  Sitam ke naize ne chheda hai sina Akbar ka
 
   4
-  Jo khat hai aaya kaho kya jawab doon iska
-  Ye keh ke naam hai ro kar pukara akbar ka
+  Dulhan biyaah ke Laila na ghar mein la paai
+  Bane haiṅ khuṅ bhare gesu ye sehra Akbar ka
 
   5
-  Jo ugla khoon dehan se to dekh kar roye
-  Wo hichki lena wo saansein ukhadna akbar ka
+  Jo khat hai aaya kaho kya jawaab duṅ is ka
+  Ye keh ke naam hai ro kar pukaara Akbar ka
 
   6
-  Gale pe waar hai aisa ke bol bhi na sake
-  Labon pe aah thi aur dam tha nikla akbar ka
+  Jo ugla khun dahan se to dekh kar roye
+  Wo hichki lena wo saaṅseṅ ukharna Akbar ka
 
   7
-  Jawan shaah ka dunya se ho chuka ruqsat
-  Hai laaya qasid e sughra bulawa akbar ka
+  Gale pe waar hai aisa ke bol bhi na sake
+  Laboṅ pe aah thi aur dam tha nikla Akbar ka
 
   8
-  Tadap ke ghazi ko sheh ne pukara hai saayib
-  Uthaun kaise bata do ye laasha akbar ka
+  Jawaan Shaah ka duniya se ho chuka rukhsat
+  Hai laaya qaasid-e-Sughra bulaawa Akbar ka
+
+  9
+  Tarap ke Ghazi ko Shah ne pukaara hai Saaib
+  Uthaauṅ kaise bata do ye laasha Akbar ka
 # source_id: nohayonline:4469b921afe26df0bdbf
 # source_url: https://www.nohayonline.com/details_content.php?id=3687
 # raw_sha256: bef2659ef9d0439e0da5847bd23d154ea31cf28035ddeea2732bd7aa39499f2b
 ---
 جگر کو تھام کے جب حال دیکھا اکبر کا
 انی کے ساتھ میں نکلا کلیجہ اکبر کا
+
+۱
 زمین کربوبلا پر ہے پھیلا خون پسر
 بھرا تھا زخموں سے وہ جسم سارا اکبر کا
 
-۱
+۲
 انی جو کھینچی تو خوں آیا چہرے پر شہ کے
 تڑپ کے کہہ گےء دیکھا ہے چہرہ اکبر کا
 
-۲
+۳
 خدا یہ مرضی ضعیفی کا تھا سہارا جواں
 ستم کے نیزے نے چھیدا ہے سینہ اکبر کا
 
-۳
-دلہن بیاہ کے لیلی نہ گھر میں لا پای
+۴
+دلہن بیاہ کے لیلی نہ گھر میں لا پائی
 بنے ہیں خوں بھرے گیسو یہ صحرا اکبر کا
 
-۴
+۵
 جو خط ہے آیا کہو کیا جواب دوں اس کا
 یہ کہہ کے نام ہے رو کر پکارا اکبر کا
 
-۵
-جو اگلا خون دہن سے تو دیکھ کر روے
+۶
+جو اگلا خون دہن سے تو دیکھ کر روئے
 وہ ہچکی لینا وہ سانسیں اکھڑنا اکبر کا
 
-۶
+۷
 گلے پہ وار ہے ایسا کہ بول بھی نہ سکے
 لبوں پہ آہ تھی اور دم تھا نکلا اکبر کا
 
-۷
+۸
 جوان شاہ کا دنیا سے ہو چکا رخصت
 ہے لایا قاصد صغرا بلاوا اکبر کا
 
-۸
+۹
 تڑپ کے غازی کو شہ نے پکارا ہے سائب
 اٹھاؤں کیسے بتا دو یہ لاشہ اکبر کا

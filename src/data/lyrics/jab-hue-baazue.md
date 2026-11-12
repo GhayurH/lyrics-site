@@ -1,67 +1,68 @@
 ---
-title: "جب ہوے بازوے عباس قلم دریا پر"
-alternateTitle: "Jab Hue Baazue"
+title: "جب ہوئے بازوئے عباس قلم دریا پر"
+alternateTitle: "Jab Hue Baazu-e-Abbas"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sibte Jafar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jab huwe baazu e abbas qalam darya par
-  Gir ke thanda hua hazrat ka alam darya par
-  Gharke khoon hogaya wo behre karam darya par
-  Ghul tha zakhmi hua saqqa e haram darya par
-  Mashk ko daanton mein pakde huwe yun laata hai
-  Dahan e sher mein jis tarha shikaar aata hai
-  
+  Jab hue baazu-e-Abbas qalam darya par
+  Gir ke thanda hua Hazrat ka alam darya par
+  Gharq-e-khuṅ ho gaya wo bahr-e-karam darya par
+  Ghul tha zakhmi hua saqqa-e-haram darya par
+  Mashk ko daantoṅ mein pakre hue yuṅ laata hai
+  Dahan-e-sher mein jis tarah shikaar aata hai
+
   1
-  Ghash kiya madhe jigar soz e atash se hai kabab
-  Hai jo be-dast teherti nahi paon mein raqaab
-  Pyase bachon ke liye seene mein dil hai betaab
-  Gham yehi hai ke kahin mashk se zaaye na ho aab
-  Teer paiham jo kamano se chale aate hai
-  Ya ali kehte hai aur mashk pa jhuk jaate hai
-  
+  Ghash kiya madhe jigar soz-e-atash se hai kabaab
+  Hai jo bedast thaharti nahiṅ paaoṅ mein rakaab
+  Pyaase bachchoṅ ke liye sine mein dil hai betaab
+  Gham yahi hai ke kahiṅ mashk se zaaye na ho aab
+  Tir paiham jo kamaanoṅ se chale aate haiṅ
+  Ya Ali kehte haiṅ aur mashk pe jhuk jaate haiṅ
+
   2
-  Kar ke moo suye najaf kehte thay ba deeda e tar
-  Ya ali lijiye mujh bekas o muztar ki khabar
-  Ay shahe khuda kusha baadshahe jinn o bashar
-  Chaahta hoo mai ke is mashk ko pahunche na zahar
-  Aap ke bete ka shayda hoo madad laazim hai
-  Aap ki pothi ka saqqa hoo madad laazim hai
-  
+  Kar ke muṅh su-e-Najaf kehte the ba dida-e-tar
+  Ya Ali lijiye mujh bekas o muztar ki khabar
+  Ae Shaah-e-Khuda kusha baadshaah-e-jinn o bashar
+  Chaahta huṅ main ke is mashk ko pahuṅche na zahr
+  Aap ke bete ka shaida huṅ madad laazim hai
+  Aap ki poti ka saqqa huṅ madad laazim hai
+
   3
-  Asp se kehte thay abbas ye ba chashm e pur aab
-  Yan se le chal mujhe ay aspe wafadaar shitaab
-  Pyase howenge jo sairaab to howega sawab
-  Kahin aisa na ho saari meri mehnat ho kharaab
-  Haye kya jaaniye kya bachon ki haalat hogi
-  Mar gayi pyasi sakina to qayamat hogi
+  Asp se kehte the Abbas ye ba chashm-e-pur aab
+  Yaaṅ se le chal mujhe ae asp-e-wafaadaar shitaab
+  Pyaase hoṅge jo sairaab to hoga sawaab
+  Kahiṅ aisa na ho saari meri mehnat ho kharaab
+  Haae kya jaaniye kya bachchoṅ ki haalat hogi
+  Mar gai pyaasi Sakina to qayaamat hogi
 # source_id: nohayonline:877a39c5de0e6a0bd985
 # source_url: https://www.nohayonline.com/details_content.php?id=2703
 # raw_sha256: 822602b46c9ac6c8615587013799e3efdaa70c5bc8de9d47b7230c7f4fe34b74
 ---
 
-جب ہوے بازوے عباس قلم دریا پر
+جب ہوئے بازوئے عباس قلم دریا پر
 گر کے ٹھنڈا ہوا حضرت کا علم دریا پر
 غرق خوں ہو گیا وہ بہر کرم دریا پر
-غل تھا زخمی ہوا سقاے حرم دریا پر
-مشک کو دانتوں میں پکڑے ہوے یوں لاتا ہے
+غل تھا زخمی ہوا سقائے حرم دریا پر
+مشک کو دانتوں میں پکڑے ہوئے یوں لاتا ہے
 دہن شیر میں جس طرح شکار آتا ہے
 
 ۱
 غش کیا مدح جگر سوز عطش سے ہے کباب
-ہے جو بے دست ٹہرتی نہیں پاؤں میں رکاب
-پیاسے بچوں کے لیےء سینے میں دل ہے بیتاب
-غم یہی ہے کہ کہیں مشک سے ضایعے نہ ہو آب
+ہے جو بے دست ٹھہرتی نہیں پاؤں میں رکاب
+پیاسے بچوں کے لیے سینے میں دل ہے بیتاب
+غم یہی ہے کہ کہیں مشک سے ضائع نہ ہو آب
 تیر پیہم جو کمانوں سے چلے آتے ہیں
-یا علی کہتے ہے اور مشک پہ جھک جاتے ہیں
+یا علی کہتے ہیں اور مشک پہ جھک جاتے ہیں
 
 ۲
-کر کے منہ سوے نجف کہتے تھے با دیدۂ تر
-یا علی لیجیےء مجھ بیکس و مضطر کی خبر
+کر کے منہ سوئے نجف کہتے تھے با دیدۂ تر
+یا علی لیجیے مجھ بیکس و مضطر کی خبر
 اے شاہ خدا کشا بادشاہ جن و بشر
 چاہتا ہوں میں کہ اس مشک کو پہنچے نہ زہر
 آپ کے بیٹے کا شیدا ہوں مدد لازم ہے
@@ -70,7 +71,7 @@ romanLyrics: |-
 ۳
 اسپ سے کہتے تھے عباس یہ با چشمِ پر آب
 یاں سے لے چل مجھے اے اسپ وفادار شتاب
-پیاسے ہونگے جو سیراب ہوے گا ثواب
+پیاسے ہوں گے جو سیراب ہو گا ثواب
 کہیں ایسا نہ ہو ساری میری محنت ہو خراب
-ہاے کیا جانیےء کیا بچوں کی حالت ہو گی
-مر گیء پیاسی سکینہ تو قیامت ہو گی
+ہائے کیا جانیے کیا بچوں کی حالت ہو گی
+مر گئی پیاسی سکینہ تو قیامت ہو گی
