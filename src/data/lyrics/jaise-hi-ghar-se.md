@@ -6,81 +6,94 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ameer Hussain Mashadi"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jaise hi ghar se nikla taboot mujtaba ka
-  Teeron mein ghir gaya tha farzand murtaza ka
-  Haye hassan haye hassan
+  Jaise hi ghar se nikla taabut Mujtaba ka
+  Tiroṅ mein ghir gaya tha farzand Murtaza ka
+  Haaye Hasan haaye Hasan
 
   1
-  Kya mila tujhe ay zaalim qasim yateem kar ke
-  Kuch bhi na khauf aaya dil mein tere khuda ka
+  Kya mila tujhe ae zaalim Qasim yatim kar ke
+  Kuchh bhi na khauf aaya dil mein tere Khuda ka
+  Haaye Hasan haaye Hasan
 
   2
-  Roko na aaj mujhko ay chand fatema ke
-  Dam ghut raha hai ab to abbas ki wafa ka
+  Roko na aaj mujh ko ae chaand Fatima ke
+  Dam ghut raha hai ab to Abbas ki wafa ka
+  Haaye Hasan haaye Hasan
 
   3
-  Hai doosra aal imamat ka zehra ke jigar ka paara
-  Panjetan ke paak gharane mein tha hassan hi sab ko pyara
-  Kyun baarish ki hai teeron ki kyun zeher se usko maara
-  Tha jiska baba nabiyon ka mushkil mein paak sahara
-  Teeron mein hai janaza haye uske laadle ka
-  Hota tha jo sahara mushkil mein ambiya ka
+  Hai dusra aal imaamat ka Zehra ke jigar ka paara
+  Panjetan ke paak gharaane mein tha Hasan hi sab ko pyaara
+  Kiuṅ baarish ki hai tiroṅ ki kiuṅ zehr se us ko maara
+  Tha jis ka baaba Nabiyoṅ ka mushkil mein paak sahaara
+  Tiroṅ mein hai janaaza haaye us ke laadle ka
+  Hota tha jo sahaara mushkil mein Ambiya ka
+  Haaye Hasan haaye Hasan
 
   4
-  Zaati na koi jang thi aulaad e murtaza ki
-  Saara muaamla tha islam ki baqa ka
+  Zaati na koi jang thi aulaad-e-Murtaza ki
+  Saara muaamla tha Islam ki baqa ka
+  Haaye Hasan haaye Hasan
 
   5
-  Hai rahmath dono aalam ki kyun bhoole us hasti ko
-  Toofan ka bilkul khauf nahi islam ki ab kashti ko
-  Jo qalam o dawaat na de paaye hai apne paak nabi ko
-  Wo ajre risalat kya denge haye apne nabi arabi ko
-  Qalm o dawaat kaaghaz jo na de sake nabi ko
-  Wo haya karegi ummat kya aal e mustafa ka
+  Hai rahmat donoṅ aalam ki kiuṅ bhule us hasti ko
+  Tufaan ka bilkul khauf nahiṅ Islam ki ab kashti ko
+  Jo qalam o dawaat na de paaye hai apne paak Nabi ko
+  Wo ajr-e-risaalat kya deṅge haaye apne Nabi Arabi ko
+  Qalam o dawaat kaaghaz jo na de sake Nabi ko
+  Wo haya karegi ummat kya Aal-e-Mustafa ka
+  Haaye Hasan haaye Hasan
 
   6
-  Pehchaane ne se qasir har koi ameer hoga
-  Qasim bharam rakhega kuch is tarha chacha ka
+  Pehchaanne se qaasir har koi Ameer hoga
+  Qasim bharam rakhega kuchh is tarah chacha ka
+  Haaye Hasan haaye Hasan
 # source_id: nohayonline:9b0f3775caa6402296d9
 # source_url: https://www.nohayonline.com/details_content.php?id=2958
 # raw_sha256: b117b463a6ae515db8931b18cb00402a369f7a825c3ef40ef840cd9d292ef8f3
 ---
 جیسے ہی گھر سے نکلا تابوت مجتبیٰ کا
-تیروں میں گھر گیا تھا فرزند مرتظی کا
-ہاے حسن ہاے حسن
+تیروں میں گھِر گیا تھا فرزند مرتضیٰ کا
+ہائے حسن ہائے حسن
 
 ۱
 کیا ملا تجھے اے ظالم قاسم یتیم کر کے
-کچھ بھی نہ خوف آیا دل میں تیری خدا کا
+کچھ بھی نہ خوف آیا دل میں تیرے خدا کا
+ہائے حسن ہائے حسن
 
 ۲
-روکو نہ آج مجھکو اے چاند فاطمہ کے
+روکو نہ آج مجھ کو اے چاند فاطمہ کے
 دم گھٹ رہا ہے اب تو عباس کی وفا کا
+ہائے حسن ہائے حسن
 
 ۳
 ہے دوسرا آل امامت کا زہرا کے جگر پارہ
 پنجتن کے پاک گھرانے میں تھا حسن ہی سب کو پیارا
 کیوں بارش کی ہے تیروں کی کیوں زہر سے اس کو مارا
-تھا جسکا بابا نبیوں کا مشکل میں پاک سہارا
-تیروں میں ہے جنازہ ہاے اس کے لاڈلے کا
+تھا جس کا بابا نبیوں کا مشکل میں پاک سہارا
+تیروں میں ہے جنازہ ہائے اس کے لاڈلے کا
 ہوتا تھا جو سہارا مشکل میں انبیاء کا
+ہائے حسن ہائے حسن
 
 ۴
-ذاتی نہ کوئی جنگ تھی اولاد مرتظی کی
+ذاتی نہ کوئی جنگ تھی اولاد مرتضیٰ کی
 سارا معاملہ تھا اسلام کی بقا کا
+ہائے حسن ہائے حسن
 
 ۵
 ہے رحمت دونوں عالم کی کیوں بھولے اس ہستی کو
 طوفان کا بالکل خوف نہیں اسلام کی اب کشتی کو
-جو قلم و دوات نہ دے پاے ہے اپنے پاک نبی کو
-وہ اجر رسالت کیا دینگے ہاے اپنے نبی عربی کو
+جو قلم و دوات نہ دے پائے ہے اپنے پاک نبی کو
+وہ اجر رسالت کیا دیں گے ہائے اپنے نبی عربی کو
 قلم و دوات کاغذ جو نہ دے سکے نبی کو
-وہ ہاے کرے گی امت کیا آل مصطفیٰ کا
+وہ ہائے کرے گی امت کیا آل مصطفیٰ کا
+ہائے حسن ہائے حسن
 
 ۶
-پہچان نے سے قاصر ہر کوئی امیر ہو گا
+پہچاننے سے قاصر ہر کوئی امیر ہو گا
 قاسم بھرم رکھے گا کچھ اس طرح چچا کا
+ہائے حسن ہائے حسن

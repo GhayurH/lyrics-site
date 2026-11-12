@@ -6,43 +6,44 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mahir Lakhnavi"
+reciter: "Faazil Lakhnavi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jaisa apna hai nabi koi payambar na mila
-  Saff shikan dekh liye ek bhi hyder na mila
-  Fatema aisa koi noor ka mehwar na mila
-  Aaj tak shabbar o shabbir ka hamsar na mila
+  Jaisa apna hai Nabi koi Payambar na mila
+  Saf shikan dekh liye ek bhi Haidar na mila
+  Fatima aisa koi nur ka mehwar na mila
+  Aaj tak Shabbar o Shabbir ka hamsar na mila
   Panjetan paak se kaunain mein behtar na mila
-  
+
   1
-  Raat bhar tadpa kiya pyaas ke maare ki tarha
-  Khamoshi lab pa thi darya ke kanare ki tarha
-  Yaad e sheh dil mein thi behte hue dhaare ki tarha
-  Dar e shabbir pa pahuncha hai sitaare ki tarha
-  Hurr ke manind naseebe ka sikandar na mila
-  
+  Raat bhar tarpa kiya pyaas ke maare ki tarah
+  Khaamoshi lab pe thi darya ke kinaare ki tarah
+  Yaad-e-Shah dil mein thi behte hue dhaare ki tarah
+  Dar-e-Shabbir pe pahuncha hai sitaare ki tarah
+  Hur ke maanind nasibe ka Sikandar na mila
+
   2
-  Aam logon mein kahan nafse payambar ka jawab
-  Khaak ke putle nahi noor ke paikar ka jawab
-  Har sipahi kahan ban jaata hai lashkar ka jawab
-  Kaise mil jayega as'haab mein hyder ka jawab
-  Bazm e as'haab mein jab doosra buzar na mila
-  
+  Aam logoṅ mein kahaaṅ nafs-e-Payambar ka jawaab
+  Khaak ke putle nahiṅ nur ke paikar ka jawaab
+  Har sipaahi kahaaṅ ban jaata hai lashkar ka jawaab
+  Kaise mil jaayega Ashaab mein Haidar ka jawaab
+  Bazm-e-Ashaab mein jab dusra Buzar na mila
+
   3
-  Baaghe firdaus e iram chaahiye kausar ke liye
-  Noor hi zeb hai kuch noor ke paikar ke liye
-  Ek samandar ki zaroorat hai samandar ke liye
-  Rab ne hyder ko chuna binte payambar ke liye
-  Chashme khudrat ko bhi is ghar ke siwa ghar na mila
-  
+  Baagh-e-Firdaus-e-Iram chaahiye Kausar ke liye
+  Nur hi zeb hai kuchh nur ke paikar ke liye
+  Ik samandar ki zarurat hai samandar ke liye
+  Rab ne Haidar ko chuna bint-e-Payambar ke liye
+  Chashm-e-qudrat ko bhi is ghar ke siwa ghar na mila
+
   4
-  Shab ke ta'binda sitaron se unhe kuch na mila
-  Dil ke rangeen nazaron se unhe kuch na mila
-  Is zamane ki baharon se unhe kuch na mila
-  Behte darya ke kanaron se unhe kuch na mila
-  Zindagi mein jinhe mahir gham e sarwar na mila
+  Shab ke taabinda sitaaroṅ se unheiṅ kuchh na mila
+  Dil ke rangin nazaaroṅ se unheiṅ kuchh na mila
+  Is zamaane ki bahaaroṅ se unheiṅ kuchh na mila
+  Behte darya ke kinaaroṅ se unheiṅ kuchh na mila
+  Zindagi mein jinheiṅ Mahir gham-e-Sarwar na mila
 # source_id: nohayonline:ce0e6cebc12374b729ad
 # source_url: https://www.nohayonline.com/details_content.php?id=1210
 # raw_sha256: 9349e87712a7822bf47027c48aa864c881e9f199671311d6600dcf336c83e296
@@ -57,15 +58,15 @@ romanLyrics: |-
 ۱
 رات بھر تڑپا کیا پیاس کے مارے کی طرح
 خاموشی لب پہ تھی دریا کے کنارے کی طرح
-یاد شہ دل میں تھی بہتے ہوے دھارے کی طرح
+یاد شہ دل میں تھی بہتے ہوئے دھارے کی طرح
 در شبیر پہ پہنچا ہے ستارے کی طرح
 حر کے مانند نصیبے کا سکندر نہ ملا
 
 ۲
-آم لوگوں میں کہاں نفس پیمبر کا جواب
+عام لوگوں میں کہاں نفس پیمبر کا جواب
 خاک کے پتلے نہیں نور کے پیکر کا جواب
 ہر سپاہی کہاں بن جاتا ہے لشکر کا جواب
-کیسے مل جاے گا اصحاب میں حیدر کا جواب
+کیسے مل جائے گا اصحاب میں حیدر کا جواب
 بزم اصحاب میں جب دوسرا بوزر نہ ملا
 
 ۳

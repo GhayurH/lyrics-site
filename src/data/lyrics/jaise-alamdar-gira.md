@@ -1,85 +1,86 @@
 ---
-title: "لاش عباس کے خیمے میں نہیں لاے حسین"
+title: "لاش عباس کے خیمے میں نہیں لائے حسین"
 alternateTitle: "Jaise Alamdar Gira"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Laash abbas ke qaime mein nahi laaye hussain
-  Le ke bas mashk o alam mehwe buka aaye hussain
+  Laash Abbas ke khaime mein nahiṅ laaye Husain
+  Le ke bas mashk o alam mahw-e-buka aaye Husain
 
   1
-  Ro ke zainab se kaha kitni musibat dekhi
-  Maine har chaahne waale ki shahadat dekhi
-  Zeen se khaak pe har ek wafadar gira
-  Aise koi na gira jaise alamdar gira
+  Ro ke Zainab se kaha kitni musibat dekhi
+  Maiṅ ne har chaahne waale ki shahaadat dekhi
+  Zin se khaak pe har ek wafaadaar gira
+  Aise koi na gira jaise alamdaar gira
 
   2
-  Mask pani se bhari aur suye qaima chala
-  Teer se mashk chidi aas gayi dil toota
-  Pusht e rahwaar pe sadme se kayi baar gira
+  Mashk paani se bhari aur su-e-khaima chala
+  Tir se mashk chhidi aas gayi dil tuta
+  Pusht-e-rahwaar pe sadme se kai baar gira
 
   3
-  Jis khadar pani baha khoon bahaya us ne
-  Aise aalam mein bhi ye zarf dikhaya us ne
-  Is musibat mein kahan sabr ka meinaar gira
+  Jis qadar paani baha khun bahaaya us ne
+  Aise aalam mein bhi ye zarf dikhaaya us ne
+  Is musibat mein kahaaṅ sabr ka meinaar gira
 
   4
-  Kya kahun tum se behan dil pe chale thay khanjar
-  Aisa lagta tha ke ghode se giray hai akbar
-  Khaak pe kat ke jo ek baazu e jarraar gira
+  Kya kahuṅ tum se behan dil pe chale the khanjar
+  Aisa lagta tha ke ghore se gire hai Akbar
+  Khaak pe kat ke jo ik baazu-e-jarraar gira
 
   5
-  Jin se sadaat ko dhaaras thi wo baazu na rahe
-  Itna roya hoo ke ab aankh mein aansu na rahe
-  Dil mera toot gaya jab mera salaar gira
+  Jin se Saadaat ko dhaaras thi wo baazu na rahe
+  Itna roya huṅ ke ab aaṅkh mein aaṅsu na rahe
+  Dil mera tut gaya jab mera saalaar gira
 
   6
-  Gurz jab sir pe laga ghode pe shambhla na gaya
-  Mere abbas ne rote huwe de mujhko sada
-  Aaiye aaqa ke ab aap ka ghamkhwar gira
+  Gurz jab sar pe laga ghore pe sambhla na gaya
+  Mere Abbas ne rote hue de mujh ko sada
+  Aaiye Aaqa ke ab aap ka ghamkhwaar gira
 
   7
-  Pahuncha jab bhai ke laashe pe to dekha manzar
-  Amma zehra bhi hai aur faatahe khyber bhi magar
-  Khaak par ghutno ke baal deen ka sardar gira
+  Pahuncha jab bhaai ke laashe pe to dekha manzar
+  Amma Zehra bhi hai aur Faateh-e-Khaibar bhi magar
+  Khaak par ghutnoṅ ke bal din ka sardaar gira
 
   8
-  Rakh ke zaanu pe sar e ghazi kaha tha maine
-  Zulm ki dhoop mein ab tanha hi jalna hai mujhe
-  Tu jo ghode se gira saaye e dewaar gira
+  Rakh ke zaanu pe sar-e-Ghaazi kaha tha maiṅ ne
+  Zulm ki dhup mein ab tanha hi jalna hai mujhe
+  Tu jo ghore se gira saaya-e-diwaar gira
 
   9
-  Ro ke phir mera wafadar pukara aaqa
-  Laasha qaime mein na le jaana khudara aaqa
-  Apni nazron se hai pyason ka alamdar gira
+  Ro ke phir mera wafaadaar pukaara Aaqa
+  Laasha khaime mein na le jaana Khudaara Aaqa
+  Apni nazroṅ se hai pyaasoṅ ka alamdaar gira
 
   10
-  Marsiya ban gayi roodad e sitam kaghaz par
-  Aaj bhi rote hai ye keh ke raza aur mazhar
-  Kaise bin haathon ke reti pe wafadar gira
+  Marsiya ban gayi rudaad-e-sitam kaaghaz par
+  Aaj bhi rote hai ye keh ke Raza aur Mazhar
+  Kaise bin haathoṅ ke reti pe wafaadaar gira
 # source_id: nohayonline:57adb1ad8075ab69d8c6
 # source_url: https://www.nohayonline.com/details_content.php?id=2684
 # raw_sha256: 325370394c43533f45aaca84cbfce46fb485c3cbad5522a0a9ae95d8bee19ff4
 ---
-لاش عباس کے خیمے میں نہیں لاے حسین
-لے کے بس مشک و علم محوِ بکا آے حسین
+لاش عباس کے خیمے میں نہیں لائے حسین
+لے کے بس مشک و علم محوِ بکا آئے حسین
 
 ۱
 رو کے زینب سے کہا کتنی مصیبت دیکھی
 میں نے ہر چاہنے والے کی شہادت دیکھی
 زین سے خاک پہ ہر ایک وفادار گرا
-ایسے کوی نہ گرا جیسے علمدار گرا
+ایسے کوئی نہ گرا جیسے علمدار گرا
 
 ۲
-مشک پانی سے بھری اور سوے خیمہ چلا
-تیر سے مشک چھدی آس گیء دل ٹوٹا
-پشت رہوار پہ صدمے سے کیء بار گرا
+مشک پانی سے بھری اور سوئے خیمہ چلا
+تیر سے مشک چھدی آس گئی دل ٹوٹا
+پشت رہوار پہ صدمے سے کئی بار گرا
 
 ۳
 جس قدر پانی بہا خون بہایا اس نے
@@ -89,20 +90,20 @@ romanLyrics: |-
 ۴
 کیا کہوں تم سے بہن دل پہ چلے تھے خنجر
 ایسا لگتا تھا کہ گھوڑے سے گرے ہے اکبر
-خاک پہ کٹ کے جو اک بازوے جرار گرا
+خاک پہ کٹ کے جو اک بازوئے جرار گرا
 
 ۵
 جن سے سادات کو ڈھارس تھی وہ بازو نہ رہے
-اتنا رویا ہوں کہ اب آنکھ میں آنسوں نہ رہے
+اتنا رویا ہوں کہ اب آنکھ میں آنسو نہ رہے
 دل میرا ٹوٹ گیا جب میرا سالار گرا
 
 ۶
 گرز جب سر پہ لگا گھوڑے پہ سنبھلا نہ گیا
-میرے عباس نے روتے ہوے دے مجھکو صدا
-آیےء آقا کہ اب آپ کا غم خوار گرا
+میرے عباس نے روتے ہوئے دے مجھ کو صدا
+آئیے آقا کہ اب آپ کا غم خوار گرا
 
 ۷
-پہنچا جب بھای کہ لاشے پہ تو دیکھا منظر
+پہنچا جب بھائی کے لاشے پہ تو دیکھا منظر
 اماں زہرا بھی ہے اور فاتح خیبر بھی مگر
 خاک پر گھٹنوں کے بل دین کا سردار گرا
 
@@ -112,11 +113,11 @@ romanLyrics: |-
 تو جو گھوڑے سے گرا سایۂ دیوار گرا
 
 ۹
-روکے پھر میرا وفادار پکارا آقا
+رو کے پھر میرا وفادار پکارا آقا
 لاشہ خیمے میں نہ لے جانا خدارا آقا
 اپنی نظروں سے ہے پیاسوں کا علمدار گرا
 
 ۱۰
-مرثیہ بن گیء روداد ستم کاغذ پر
+مرثیہ بن گئی روداد ستم کاغذ پر
 آج بھی روتے ہے یہ کہہ کے رضا اور مظہر
 کیسے بن ہاتھوں کے ریتی پہ وفادار گرا

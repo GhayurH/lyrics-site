@@ -5,32 +5,33 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Baakhi raha hai kaun jahan mein fana ke baad
-  Zinda magar hussain hai khatle jafa ke baad
-  
+  Baaqi raha hai kaun jahaaṅ mein fana ke baad
+  Zinda magar Husain hai qatl-e-jafa ke baad
+
   1
-  Aaqa hai wo hamara hum uske ghulam hai
-  Khabza hai kayenaat pe jiska khuda ke baad
-  
+  Aaqa hai wo hamaara hum us ke ghulaam haiṅ
+  Qabza hai kaainaat pe jis ka Khuda ke baad
+
   2
-  Hai marqade hussain tamanna e aakhri
-  Jannat bhi gar milay to na le karbala ke baad
-  
+  Hai marqad-e-Husain tamanna-e-aakhri
+  Jannat bhi gar mile to na leiṅ Karbala ke baad
+
   3
-  Nusrat ko aa rahe hai malak chod kar falak
-  Paaya sharaf hussain ne ye ambiya ke baad
-  
+  Nusrat ko aa rahe haiṅ malak chhor kar falak
+  Paaya sharaf Husain ne ye Ambiya ke baad
+
   4
-  Parde ki aayaton ki ye tafseer dekhlo
-  Balon se moo chupaye haram hai rida ke baad
-  
+  Parde ki aayatoṅ ki ye tafsir dekh lo
+  Baaloṅ se muṅh chhupaaye haram haiṅ rida ke baad
+
   5
-  Karke baland haaton pe asghar ko bolay shaah
-  Baakhi nahi hai ab koi is mehlakha ke baad
+  Kar ke buland haathoṅ pe Asghar ko bole Shaah
+  Baaqi nahiṅ hai ab koi is mehlakha ke baad
 # source_id: nohayonline:c0863857ea72683ac5d4
 # source_url: https://www.nohayonline.com/details_content.php?id=468
 # raw_sha256: a07b8f35b4851f39d1f548190ad45218276caedf6ea99245aa72c29e006f576b
@@ -44,12 +45,12 @@ romanLyrics: |-
 قبضہ ہے کائنات پہ جس کا خُدا کے بعد
 
 ۲
-ہے مرقدِ حُسین تمنائِ آخری
+ہے مرقدِ حُسین تمنائے آخری
 جنت بھی گر ملے تو نہ لیں کربلا کے بعد
 
 ۳
 نُصرت کو آ رہے ہیں ملک چھوڑ کر فلک
-پایا شرف حُسین نے یہ انبیائ کے بعد
+پایا شرف حُسین نے یہ انبیاء کے بعد
 
 ۴
 پردے کی آیتوں کی یہ تفسیر دیکھ لو
