@@ -6,40 +6,41 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mohib Fazli"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jab ada khanjar talay shabbir ka sajda hua
-  Karbala ka dasht ahle zarf ka kaaba hua
+  Jab ada khanjar tale Shabbir ka sajda hua
+  Karbala ka dasht Ahl-e-zarf ka Kaaba hua
 
   1
-  Mustafa ke baad haq e fatema cheena gaya
-  Maal o daulat ke liye islam ka sauda hua
+  Mustafa ke baad Haq-e-Fatima chhina gaya
+  Maal o daulat ke liye Islam ka sauda hua
 
   2
-  Hum ghulamane ali kasrat se ghabrate nahi
-  Hai hamare qalb par nade ali likha hua
+  Hum Ghulaamaan-e-Ali kasrat se ghabraate nahiṅ
+  Hai hamaare qalb par Naad-e-Ali likha hua
 
   3
-  Sirf matam ki sada aur matame shabbir se
-  Dushmane aal e nabi hai aaj tak sehma hua
+  Sirf maatam ki sada aur Maatam-e-Shabbir se
+  Dushman-e-Aal-e-Nabi hai aaj tak sehma hua
 
   4
-  Aur kitne gham uthane hai abhi shabbir ko
-  Laasha e qasim hai ran mein khaak par bikhra hua
+  Aur kitne gham uthaane haiṅ abhi Shabbir ko
+  Laasha-e-Qaasim hai ran mein khaak par bikhra hua
 
   5
-  Khauf kar ay shimr zainab dekh kar mar jayegi
-  Kund khanjar gardan e shabbir par chalta hua
+  Khauf kar ae Shimr Zainab dekh kar mar jaaegi
+  Kund khanjar Gardan-e-Shabbir par chalta hua
 
   6
-  Yun bandhe haathon pe ho shaam o sehar laakhon salam
-  Chaak dil haathon se kufr o shirk ka parda hua
+  Yuṅ bandhe haathoṅ pe ho shaam o sahar laakhoṅ salaam
+  Chaak dil haathoṅ se kufr o shirk ka parda hua
 
   7
-  Ay muhib khoon e jigar ashkon mein dhal jaane ke baad
-  Yaad pyason ko kiya jis waqt ye nauha hua
+  Ae Mohib Khun-e-jigar ashkoṅ mein dhal jaane ke baad
+  Yaad pyaasoṅ ko kiya jis waqt ye nauha hua
 # source_id: nohayonline:f237987c3c885325d392
 # source_url: https://www.nohayonline.com/details_content.php?id=1099
 # raw_sha256: 1f6e7919be29eb5b78879c068d6ebb47db9b7bb4603a58f796ae0379f292c241
@@ -61,10 +62,10 @@ romanLyrics: |-
 
 ۴
 اور کتنے غم اٹھانے ہیں ابھی شبیر کو
-لاشہء قاسم ہے رن میں خاک پر بکھرا ہوا
+لاشۂ قاسم ہے رن میں خاک پر بکھرا ہوا
 
 ۵
-خوف کر اے شمر زینب دیکھ کر مر جاۓ گی
+خوف کر اے شمر زینب دیکھ کر مر جائے گی
 کند خنجر گردن شبیر پر چلتا ہوا
 
 ۶

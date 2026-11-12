@@ -6,59 +6,60 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Jaweed Maqsood"
+reciter: "Hadi Ali Khan Muslim"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jaate ho suye maqtal abbas khuda hafiz
-  
+  Jaate ho Su-e-maqtal Abbas Khuda haafiz
+
   1
-  Bole ye shahe waala abbas khuda hafiz
-  Ab hogaya ghurbat ka ehsaas khuda hafiz
-  Hum hogaye jeene se be aas khuda hafiz
-  Faryad kuna sab ki hai pyaas khuda hafiz
-  
+  Bole ye Shah-e-waala Abbas Khuda haafiz
+  Ab ho gaya ghurbat ka ehsaas Khuda haafiz
+  Hum ho gae jine se be aas Khuda haafiz
+  Faryaad kunaaṅ sab ki hai pyaas Khuda haafiz
+
   2
-  Har simt se aati hai rone ki sada bhai
-  Sab ahle haram dar par karte hai buka bhai
-  Parde ka na chadar ka kuch hosh raha bhai
-  Aate hai unhe kya kya waswaas khuda hafiz
-  
+  Har simt se aati hai rone ki sada bhaai
+  Sab Ahl-e-haram dar par karte haiṅ buka bhaai
+  Parde ka na chaadar ka kuch hosh raha bhaai
+  Aate haiṅ unheiṅ kya kya waswaas Khuda haafiz
+
   3
-  Mazloom hai hum kitne kya waqt e musibat hai
-  Dikhlaye kise bhai jo qalb ki haalat hai
-  Har saans ek aafat hai har lamha qayamat hai
-  Khamosh hai lab dil mein hai yaas khuda hafiz
-  
+  Mazlum hai hum kitne kya waqt-e-musibat hai
+  Dikhlaae kise bhaai jo qalb ki haalat hai
+  Har saaṅs ik aafat hai har lamha qayaamat hai
+  Khaamosh hai lab dil mein hai yaas Khuda haafiz
+
   4
-  Phirne lage aankhon mein ab dard ke sab manzar
-  Wo lut’te huwe qaime wo jalta hua bistar
-  Wo neel tamachon ke wo chinte huwe gohar
-  Hai kaun ghareebon ke ab paas khuda hafiz
-  
+  Phirne lage aankhoṅ mein ab dard ke sab manzar
+  Wo lutte hue khaime wo jalta hua bistar
+  Wo nil tamaachoṅ ke wo chhinte hue gauhar
+  Hai kaun ghariboṅ ke ab paas Khuda haafiz
+
   5
-  Hone se tere rukhsat dil toot gaye bhaiya
-  Ab to koi pyasa bhi pani nahi maangega
-  Mazloom musibat mein ab kis ko sada dega
-  Khamosh rahegi ab har pyaas khuda hafiz
-  
+  Hone se tere rukhsat dil tut gae bhaiya
+  Ab to koi pyaasa bhi paani nahiṅ maaṅge ga
+  Mazlum musibat mein ab kis ko sada de ga
+  Khaamosh rahe gi ab har pyaas Khuda haafiz
+
   6
-  Ab sher e jari tum se lashkar ki bhi zeenat thi
-  Har ranj mein aafat mein gham sehne ki taaqat thi
-  Tum saath rahe jab tak shabbir ko himmat thi
-  Ab jeene ka armaan hai na aas khuda hafiz
-  
+  Ab Sher-e-jari tum se lashkar ki bhi zinat thi
+  Har ranj mein aafat mein gham sahne ki taaqat thi
+  Tum saath rahe jab tak Shabbir ko himmat thi
+  Ab jine ka armaan hai na aas Khuda haafiz
+
   7
-  Kya sakht musibat hai abbas tera jaana
-  Gham hogaya phir taaza baba ki musibat ka
-  Ab waqt aseeri ka zainab ko yaqeen aaya
-  Sach hote hai bewon ke waswaas khuda hafiz
-  
+  Kya sakht musibat hai Abbas tera jaana
+  Gham ho gaya phir taaza Baba ki musibat ka
+  Ab waqt-e-asiri ka Zainab ko yaqiṅ aaya
+  Sach hote haiṅ bewaoṅ ke waswaas Khuda haafiz
+
   8
-  Taari tha sakina pa ghurbat ka ajab aalam
-  Maidan ko jaata tha shabbir ka jab zaigham
-  Aati rahi qaimon se bas ek sada paiham
-  Abbas khuda hafiz abbas khuda hafiz
+  Taari tha Sakina pe ghurbat ka ajab aalam
+  Maidaan ko jaata tha Shabbir ka jab Zaigham
+  Aati rahi khaimoṅ se bas ik sada paiham
+  Abbas Khuda haafiz Abbas Khuda haafiz
 # source_id: nohayonline:4bc1e161a776048ae7ac
 # source_url: https://www.nohayonline.com/details_content.php?id=1974
 # raw_sha256: ef1fae2c69f444837da49bad0a2c68dccd4fde021e2a7b6ed73fd1ee50db40fd
@@ -69,29 +70,29 @@ romanLyrics: |-
 ۱
 بولے یہ شہ والا عباس خدا حافظ
 اب ہوگیا غربت کا احساس خدا حافظ
-ہم ہوگےء جینے سے بے آس خدا حافظ
+ہم ہو گئے جینے سے بے آس خدا حافظ
 فریاد کناں سب کی ہے پیاس خدا حافظ
 
 ۲
-ہر سمت سے آتی ہے رونے کی صدا بھای
-سب اہلِ حرم در پر کرتے ہیں بکا بھای
-پردے کا نہ چادر کا کچھ ہوش ربا بھای
+ہر سمت سے آتی ہے رونے کی صدا بھائی
+سب اہلِ حرم در پر کرتے ہیں بکا بھائی
+پردے کا نہ چادر کا کچھ ہوش ربا بھائی
 آتے ہیں انہیں کیا کیا وسواس خدا حافظ
 
 ۳
 مظلوم ہے ہم کتنے کیا وقت مصیبت ہے
-دکھلاے کسے بھائی جو قلب کی حالت ہے
+دکھلائے کسے بھائی جو قلب کی حالت ہے
 ہر سانس اک آفت ہے ہر لمحہ قیامت ہے
 خاموش ہے لب دل میں ہے یاس خدا حافظ
 
 ۴
 پھرنے لگے آنکھوں میں اب درد کے سب منظر
-وہ لٹتے ہوے خیمے وہ جلتا ہوا بستر
-وہ نیل طمانچوں کے وہ چھنتے ہوے گوہر
+وہ لٹتے ہوئے خیمے وہ جلتا ہوا بستر
+وہ نیل طمانچوں کے وہ چھنتے ہوئے گوہر
 ہے کون غریبوں کے اب پاس خدا حافظ
 
 ۵
-ہونے سے تیرے رخصت دل ٹوٹ گےء بھیا
+ہونے سے تیرے رخصت دل ٹوٹ گئے بھیا
 اب تو کوئی پیاسا بھی پانی نہیں مانگے گا
 مظلوم مصیبت میں اب کس کو صدا دے گا
 خاموش رہے گی اب ہر پیاس خدا حافظ
