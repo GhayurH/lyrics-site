@@ -6,44 +6,45 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Noor Ali"
+reciter: "Rizwan Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Har ek tukde se tukda mila rahe hai hussain
-  Hassan ka laal dobara bana rahe hai hussain
+  Har ek tukre se tukra mila rahe hai Husain
+  Hasan ka laal dobara bana rahe haiṅ Husain
 
   1
-  Hassan ke laashe se jaise nikaala teeron ko
-  Ab aise laash ke tukde utha rahe hai hussain
+  Hasan ke laashe se jaise nikaala tiroṅ ko
+  Ab aise laash ke tukre utha rahe haiṅ Husain
 
   2
   Wo jis ke maathe pe sehra saja ke bheja tha
-  Ab uske tukdon se gathri bana rahe hussain
+  Ab us ke tukroṅ se gathri bana rahe Husain
 
   3
-  Ye kaun maa hai jo ghash se sambhal nahi paati
-  Ye kis ke laal ko qaime mein laa rahe hussain
+  Ye kaun maaṅ hai jo ghash se sambhal nahiṅ paati
+  Ye kis ke laal ko khaime mein laa rahe Husain
 
   4
-  Zameen se tukde uthaate nahi hai qasim ke
-  Ye apne sabr ko khud aazma rahe hussain
+  Zamiṅ se tukre uthaate nahiṅ hai Qasim ke
+  Ye apne sabr ko khud aazma rahe Husain
 
   5
-  Nahi ye girya nahi laash par bhatije ke
-  Ghareeb hone ka nauha suna rahe hai hussain
+  Nahiṅ ye girya nahiṅ laash par bhatije ke
+  Gharib hone ka nauha suna rahe haiṅ Husain
 
   6
-  Bata rahe hai ke maara gaya hai laal tera
-  Magar janaze ko maa se chupa rahe hai hussain
+  Bata rahe haiṅ ke maara gaya hai laal tera
+  Magar janaaze ko maaṅ se chhupa rahe haiṅ Husain
 
   7
-  Kahin se seena kahin se badan kahin se haath
-  Kahin se paaon ke tukde utha rahe hai hussain
+  Kahiṅ se sina kahiṅ se badan kahiṅ se haath
+  Kahiṅ se paaoṅ ke tukre utha rahe haiṅ Husain
 
   8
-  Shahadat e ali akbar se pehle noor ali
-  Hassan ke laal pe aansu baha rahe hai hussain
+  Shahaadat-e-Ali Akbar se pehle Nur Ali
+  Hasan ke laal pe aansu baha rahe haiṅ Husain
 # source_id: nohayonline:3cd71065e19a5ba978f2
 # source_url: https://www.nohayonline.com/details_content.php?id=2822
 # raw_sha256: e39ac92a59cc6038f16881d7f15cc6bdc75435fa431867c51a4c6c4bbb866b1b
@@ -72,7 +73,7 @@ romanLyrics: |-
 غریب ہونے کا نوحہ سنا رہے ہیں حسین
 
 ۶
-بتا رہے ہیں کے مارا گیا ہے لال تیرا
+بتا رہے ہیں کہ مارا گیا ہے لال تیرا
 مگر جنازے کو ماں سے چھپا رہے ہیں حسین
 
 ۷
@@ -81,4 +82,4 @@ romanLyrics: |-
 
 ۸
 شہادت علی اکبر سے پہلے نور علی
-حسن کے لال پہ آنسوں بہا رہے ہیں حسین
+حسن کے لال پہ آنسو بہا رہے ہیں حسین
