@@ -6,54 +6,55 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jaane waale karbala ke karbala le chal mujhe
-  Rauza e shabbir par doonga dua le chal mujhe
+  Jaane wale Karbala ke Karbala le chal mujhe
+  Rauza-e-Shabbir par duṅ ga dua le chal mujhe
 
   1
-  Hai jahan ganj e shaheedan hai jahan nehre furat
-  Jis jagah syed mera pyasa raha le chal mujhe
+  Hai jahaaṅ ganj-e-shahidaaṅ hai jahaaṅ nehr-e-Furaat
+  Jis jagah Sayyid mera pyaasa raha le chal mujhe
 
   2
-  Jis jagah jaagi thi kismat hurr ki wo dekhunga mai
-  Aasiyon par kaise hoti hai ata le chal mujhe
+  Jis jagah jaagi thi qismat Hur ki wo dekhuṅ ga main
+  Aasiyoṅ par kaise hoti hai ataa le chal mujhe
 
   3
-  Is qadar nadaar hoo zaad e safar kuch bhi nahi
-  Dosh par apne bithakar ay hawa le chal mujhe
+  Is qadar nadaar huṅ zaad-e-safar kuch bhi nahiṅ
+  Dosh par apne bitha kar ae hawa le chal mujhe
 
   4
-  Jis jagah abbas ke baazu qalam ho kar giray
-  Us jagah mai bhi karun matam zara le chal mujhe
+  Jis jagah Abbas ke baazu qalam ho kar gire
+  Us jagah main bhi karuṅ maatam zara le chal mujhe
 
   5
-  Dil ulajh kar aa gaya barchi mein akbar ka jahan
-  Dil wahan mai bhi karun apna fida le chal mujhe
+  Dil ulajh kar aa gaya barchhi mein Akbar ka jahaaṅ
+  Dil wahaaṅ main bhi karuṅ apna fida le chal mujhe
 
   6
-  Jal gaye shaam e ghariban mein jahan qaime tamam
-  Jis jagah nanha sa ek jhoola jala le chal mujhe
+  Jal gaye shaam-e-gharibaaṅ mein jahaaṅ khaime tamaam
+  Jis jagah nanha sa ek jhula jala le chal mujhe
 
   7
-  Haye wo maqtal jahan bali sakina raat mein
-  Dhoondti phirti thi seena baap ka le chal mujhe
+  Haae wo maqtal jahaaṅ baali Sakina raat mein
+  Dhundti phirti thi sina baap ka le chal mujhe
 
   8
-  Muskurakar teer kha kar so gaya asghar jahan
-  Khoon jahan chehre pe sarwar ne mala le chal mujhe
+  Muskura kar tir kha kar so gaya Asghar jahaaṅ
+  Khuṅ jahaaṅ chehre pe Sarwar ne mala le chal mujhe
 
   9
-  Sarwar o rehaan har majlis mein karte hai dua
-  Haq wahin nauhon ka ab hoga ada le chal mujhe
+  Sarwar o Rehaan har majlis mein karte haiṅ dua
+  Haq wahiṅ nauhoṅ ka ab hoga adaa le chal mujhe
 # source_id: nohayonline:4635431703dd8465ba02
 # source_url: https://www.nohayonline.com/details_content.php?id=2044
 # raw_sha256: 1972f70097f63d5f5d3adb1e01e92349a8d473d27d0f087dbb4a147df8acccc7
 ---
 جانے والے کربلا کے کربلا لے چل مجھے
-روضہء شبیر پر دونگا دعا لے چل مجھے
+روضۂ شبیر پر دوں گا دعا لے چل مجھے
 
 ۱
 ہے جہاں گنج شہیداں ہے جہاں نہر فرات
@@ -64,23 +65,23 @@ romanLyrics: |-
 عاصیوں پر کیسے ہوتی ہے عطا لے چل مجھے
 
 ۳
-اس قدر نادار ہوں ذاد سفر کچھ بھی نہیں
+اس قدر نادار ہوں زادِ سفر کچھ بھی نہیں
 دوش پر اپنے بٹھا کر اے ہوا لے چل مجھے
 
 ۴
 جس جگہ عباس کے بازو قلم ہو کر گرے
-اس جگہ میں بھی کروں ماتم زرا لے چل مجھے
+اس جگہ میں بھی کروں ماتم ذرا لے چل مجھے
 
 ۵
-دل الجھ کر آگیا برچی میں اکبر کا جہاں
+دل الجھ کر آ گیا برچھی میں اکبر کا جہاں
 دل وہاں میں بھی کروں اپنا فدا لے چل مجھے
 
 ۶
-جل گےء شام غریباں میں جہاں خیمے تمام
+جل گئے شام غریباں میں جہاں خیمے تمام
 جس جگہ ننھا سا اک جھولا جلا لے چل مجھے
 
 ۷
-ہاے وہ مقتل جہاں بالی سکینہ رات میں
+ہائے وہ مقتل جہاں بالی سکینہ رات میں
 ڈھونڈتی پھرتی تھی سینہ باپ کا لے چل مجھے
 
 ۸

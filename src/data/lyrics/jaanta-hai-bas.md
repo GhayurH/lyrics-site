@@ -1,100 +1,101 @@
 ---
-title: "جانتا ہے بس خدا کیسے سنبھل پاے حسین"
+title: "جانتا ہے بس خدا کیسے سنبھل پائے حسین"
 alternateTitle: "Jaanta Hai Bas"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Dilshad Zaidi"
+reciter: "Ali Yazdan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jaanta hai bas khuda kaise sambhal paaye hussain
-  Qatlgah mein laash par akbar ki jab aaye hussain
+  Jaanta hai bas Khuda kaise sambhal paaye Husain
+  Qatl-gaah mein laash par Akbar ki jab aaye Husain
 
   1
-  Di sada akbar ne baba lo salaam e aakhri
-  Tooti hai seene mein barchi saans rukti hai meri
-  Yun gire sun kar zameen par na sambhal paaye hussain
+  Di sada Akbar ne baba lo salaam-e-aakhri
+  Tuti hai sine mein barchhi saans rukti hai meri
+  Yuṅ gire sun kar zamiṅ par na sambhal paaye Husain
 
   2
-  Ghutniyo chalte huwe pahunche jo akbar ke khareeb
-  Ibne zehra aaye hamshakle payambar ke khareeb
-  Dekh kar seene mein barchi gham se chillaye hussain
+  Ghutniyoṅ chalte hue pahunche jo Akbar ke qarib
+  Ibn-e-Zehra aaye hamshakl-e-Payambar ke qarib
+  Dekh kar sine mein barchhi gham se chillaaye Husain
 
   3
-  Dekhi jis dam naujawan ke seene mein barchi ki ani
-  Ho nahi sakti bayan haalat dil e shabbir ki
-  Zindagi aur maut se ladte nazar aaye hussain
+  Dekhi jis dam naujawaaṅ ke sine mein barchhi ki ani
+  Ho nahiṅ sakti bayaaṅ haalat-e-dil-e-Shabbir ki
+  Zindagi aur maut se larte nazar aaye Husain
 
   4
-  Khaak par dam todta tha ye ali akbar mera
-  Ho kahan abbas aao dete hai sarwar sada
-  Koi monis hi nahi hai kis ko bulwaye hussain
+  Khaak par dam torta tha ye Ali Akbar mera
+  Ho kahaaṅ Abbas aao dete haiṅ Sarwar sada
+  Koi munis hi nahiṅ hai kis ko bulwaaye Husain
 
   5
-  Khaak par baithe padi nade ali shabbir ne
-  Khaynch li seene se barchi ki ani shabbir ne
-  Naujawan ki laash maqtal se utha laaye hussain
+  Khaak par baithe parhi naad-e-Ali Shabbir ne
+  Khainch li sine se barchhi ki ani Shabbir ne
+  Naujawaaṅ ki laash maqtal se utha laaye Husain
 
   6
-  Seena e akbar mein barchi ka suna ghabra gayi
+  Sina-e-Akbar mein barchhi ka suna ghabra gayi
   Uthna chaaha jab musalle se to ghash khaa kar giri
-  Ab sambhalo maadar e akbar ko maajaye hussain
+  Ab sambhaalo maadar-e-Akbar ko maajaaye Husain
 
   7
-  Ay behan akbar tumhara khaak par hi so gaya
-  Jis ko paala naaz se zainab wo akbar na raha
-  Haye ye zainab ko kis tarha se samjhaye hussain
+  Ae behan Akbar tumhaara khaak par hi so gaya
+  Jis ko paala naaz se Zainab wo Akbar na raha
+  Haae ye Zainab ko kis tarah se samjhaaye Husain
 
   8
-  Kijiye ehsaan maula aap ka zaair banun
-  Roo baroo yazdan ho rauza aur mai nauha padhun
-  Dil ki dhadkan band ho aur saans ruk jaaye hussain
+  Kijiye ehsaan Maula aap ka zaair banuṅ
+  Ru ba ru Yazdaaṅ ho rauza aur main nauha parhuṅ
+  Dil ki dharkan band ho aur saans ruk jaaye Husain
 # source_id: nohayonline:dc1dbad3ac235c4e6973
 # source_url: https://www.nohayonline.com/details_content.php?id=2485
 # raw_sha256: 90ea8f685f26b6b50c8c4252bd3a3f52f0917b5af686f9bb1eeca4bf747b9aa5
 ---
-جانتا ہے بس خدا کیسے سنبھل پاے حسین
-قتل گاہ میں لاش پر اکبر کی جب آے حسین
+جانتا ہے بس خدا کیسے سنبھل پائے حسین
+قتل گاہ میں لاش پر اکبر کی جب آئے حسین
 
 ۱
 دی صدا اکبر نے بابا لو سلام آخری
 ٹوٹی ہے سینے میں برچھی سانس رکتی ہے میری
-یوں گرے سن کر زمیں پر نہ سنبھل پاے حسین
+یوں گرے سن کر زمیں پر نہ سنبھل پائے حسین
 
 ۲
-گھٹنیوں چلتے ہوے پہنچے جو اکبر کے قریب
-ابنِ زہرا آے ہمشکل پیمبر کے قریب
-دیکھ کر سینے میں برچھی غم سے چلاے حسین
+گھٹنیوں چلتے ہوئے پہنچے جو اکبر کے قریب
+ابنِ زہرا آئے ہمشکل پیمبر کے قریب
+دیکھ کر سینے میں برچھی غم سے چلائے حسین
 
 ۳
 دیکھی جس دم نوجواں کے سینے میں برچھی کی انی
 ہو نہیں سکتی بیاں حالت دل شبیر کی
-زندگی اور موت سے لڑتے نظر آے حسین
+زندگی اور موت سے لڑتے نظر آئے حسین
 
 ۴
 خاک پر دم توڑتا تھا یہ علی اکبر میرا
 ہو کہاں عباس آؤ دیتے ہیں سرور صدا
-کوئی مونس ہی نہیں ہے کس کو بلواے حسین
+کوئی مونس ہی نہیں ہے کس کو بلوائے حسین
 
 ۵
-خاک پر بیٹھے پڑی ناد علی شبیر نے
+خاک پر بیٹھے پڑھی ناد علی شبیر نے
 کھینچ لی سینے سے برچھی کی انی شبیر نے
-نوجواں کی لاش مقتل سے اٹھا لاے حسین
+نوجواں کی لاش مقتل سے اٹھا لائے حسین
 
 ۶
-سینۂ اکبر میں برچھی کا سنا گھبرا گیء
-اتنا چاہا جب مصلے سے تو غش کھا کر گری
+سینۂ اکبر میں برچھی کا سنا گھبرا گئی
+اٹھنا چاہا جب مصلے سے تو غش کھا کر گری
 اب سنبھالو مادر اکبر کو مانجاے حسین
 
 ۷
 اے بہن اکبر تمہارا خاک پر ہی سو گیا
 جس کو پالا ناز سے زینب وہ اکبر نہ رہا
-ہاے یہ زینب کو کس طرح سے سمجھاے حسین
+ہائے یہ زینب کو کس طرح سے سمجھائے حسین
 
 ۸
-کیجےء احسان مولا آپ کا زایر بنوں
+کیجیے احسان مولا آپ کا زائر بنوں
 رو برو یزداں ہو روضہ اور میں نوحہ پڑھوں
-دل کی دھڑکن بند ہو اور سانس رک جاے حسین
+دل کی دھڑکن بند ہو اور سانس رک جائے حسین

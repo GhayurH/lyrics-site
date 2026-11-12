@@ -6,52 +6,53 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Viqar"
+reciter: "Aqueel Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Matfool tujhpe jaane payambar hai karbala
-  Kitna buland tera muqaddar hai karbala
+  Matful tujh pe jaan-e-Payambar hai Karbala
+  Kitna buland tera muqaddar hai Karbala
 
   1
-  Kaabe ki azmaton ka hai mujko bhi ehteraam
-  Lekin tera muqaam kuch aur hai karbala
+  Kaabe ki azmatoṅ ka hai mujh ko bhi ehteraam
+  Lekin tera maqaam kuch aur hai Karbala
 
   2
-  Kitni hai khush naseeb ke ab tere paasban
-  Abbas ibne saaqiye kausar hai karbala
+  Kitni hai khushnasib ke ab tere paasbaaṅ
+  Abbas ibn-e-Saaqi-e-Kausar hai Karbala
 
   3
-  Arze najaf bhi kam nahi turbat ke waaste
-  Kuch aur teri baat ka bistar hai karbala
+  Arz-e-Najaf bhi kam nahiṅ turbat ke waaste
+  Kuch aur teri baat ka bistar hai Karbala
 
   4
-  Koofa hai be-wafaai ka sehra-e-tashnagi
-  Ash-haar ka wafa ka samandar hai karbala
+  Kufa hai bewafaai ka sehra-e-tashnagi
+  Ash-haar ka wafa ka samandar hai Karbala
 
   5
-  Milta nahi pata kahin fauje yazeed ka
-  Baaqi abhi hussain ka lashkar hai karbala
+  Milta nahiṅ pata kahiṅ fauj-e-Yazid ka
+  Baaqi abhi Husain ka lashkar hai Karbala
 
   6
-  Phaili hui hai khoon-e-shaheedan ki roshni
-  Tanveer haq se ab bhi munawar hai karbala
+  Phaili hui hai khun-e-shahidaaṅ ki roshni
+  Tanvir-e-Haq se ab bhi munawwar hai Karbala
 
   7
-  Laila ka aur rabab ka dil dafn hai yahan
-  Aaram-gaahe akbar o asghar hai karbala
+  Laila ka aur Rabab ka dil dafn hai yahaaṅ
+  Aaraam-gaah-e-Akbar o Asghar hai Karbala
 
   8
-  Jispe rasool-e-paak ke bosay ke hai nishan
-  Ab is galay pe shimr ka khanjar hai karbala
+  Jis pe Rasul-e-Paak ke bose ke haiṅ nishaaṅ
+  Ab is gale pe Shimr ka khanjar hai Karbala
 
   9
-  Do gaz kafan bhi de na saki ummat e rasool
-  Jalti zameen pe laasha-e-sarwar hai karbala
+  Do gaz kafan bhi de na saki ummat-e-Rasul
+  Jalti zamiṅ pe laasha-e-Sarwar hai Karbala
 
   10
-  Irfan aur viqar ne sar ko jhuka diya
-  Sajdon ke aetbaar ka meyvar hai karbala
+  Irfan aur Viqar ne sar ko jhuka diya
+  Sajdoṅ ke aetbaar ka mehwar hai Karbala
 # source_id: nohayonline:269692845edc2f4b1221
 # source_url: https://www.nohayonline.com/details_content.php?id=935
 # raw_sha256: f3d9c5e301e4029d81632a98a4898f9128de02d3f1281a41b949735ccadf6740
@@ -60,7 +61,7 @@ romanLyrics: |-
 کتنا بلند تیرا مقدر ہے کربلا
 
 ۱
-کعبے کی عظمتوں کا ہے مجھکو بھی احترام
+کعبے کی عظمتوں کا ہے مجھ کو بھی احترام
 لیکن تیرا مقام کچھ اور ہے کربلا
 
 ۲
@@ -72,7 +73,7 @@ romanLyrics: |-
 کچھ اور تیری بات کا بستر ہے کربلا
 
 ۴
-کوفہ ہے بے وفائی کا سحراے تشنگی
+کوفہ ہے بے وفائی کا صحرائے تشنگی
 اشہار کا وفا کا سمندر ہے کربلا
 
 ۵
