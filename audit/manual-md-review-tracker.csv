@@ -1934,8 +1934,8 @@ src/data/lyrics/hussain-hussain-hussain.md,standalone_lyrics,imported,nohayonlin
 src/data/lyrics/hussain-ibne-ali-ka.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-12-editorial-husain-three,,
 src/data/lyrics/hussain-ibne-ali-ki.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-12-hussain-ibne-ali,,
 src/data/lyrics/hussain-ibne-ali-ko.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,2026-11-12-hussain-ibne-ali,,"Need audio/print: s1 ""رسولِ اطہار ہیں"" vs Roman ""rasoole athar hai"" and ""حیدر ہیں"" vs ""hyder hai""; s6 ""مئے کمالِ امامت"" (Roman ""meine kamale imamat""); s9 ""آل"" reading and ""دارِ فانی کے ملتے ہیں"" wording."
-src/data/lyrics/hussain-ibne-mohamed.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/hussain-jaan.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/hussain-ibne-mohamed.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: refrain ""صل اللّٰہ علیہ وآلہ"" wording/pronunciation; s14 ""سقی ابنِ سقی""; s19 ""مرتجس سوار""."
+src/data/lyrics/hussain-jaan.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s2 ""یہ دوسرا مقتل میں""; s7 Urdu ""عشقِ غم"" vs Roman ""ashq e gham"", and ""کہتے ہے"" vs ""کہتے ہیں""."
 src/data/lyrics/hussain-jaanam.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/hussain-jaate-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/hussain-jab-ke-chale.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
