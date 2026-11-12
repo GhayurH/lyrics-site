@@ -1,66 +1,67 @@
 ---
 title: ہم عزادار حسین ابنِ علی
-alternateTitle: Hum Azadare Hussain
+alternateTitle: Hum Azaadaar-e-Husain
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Faheem"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
-aliases: []
+aliases: ["Hum Azadare Hussain"]
 published: false
 romanLyrics: |-
-  Hum azadar e hussain ibne ali
+  Hum azaadaar-e-Husain ibn-e-Ali
+  Hum tarafdaar-e-Husain ibn-e-Ali
+  Hum wafaadaar-e-Husain ibn-e-Ali
 
   1
-  Hum tarafdar e hussain ibne ali
-  Hum wafadar e hussain ibne ali
-  Hum dua e fatema ka hai samar
-  Aur aadab e aza se ba-khabar
-  Jaante hai hum ko sab jinn o bashar
-  Hai hamari sarparast binte ali
+  Hum dua-e-Faatima ka hai samar
+  Aur aadaab-e-aza se baa khabar
+  Jaante haiṅ hum ko sab jinn o bashar
+  Hai hamaari sarparast bint-e-Ali
 
   2
-  Saamne jis ke kata bhai ka sar
-  Zibha pyase hogaye noor e nazar
+  Saamne jis ke kata bhaai ka sar
+  Zibh pyaase ho gaye nur-e-nazar
   Aur luta jangal mein jis ka ghar
-  Bhai ke laashe pe jo ro na saki
+  Bhaai ke laash pe jo ro na saki
 
   3
-  Hum se poocho lazzat e saum o salaat
-  Hum se poocho khadar e khums o zakaat
-  Hum se poocho kyun ruka hukhm e jehad
+  Hum se puchho lazzat-e-saum o salaat
+  Hum se puchho qadr-e-khums o zakaat
+  Hum se puchho Kiuṅ ruka hukm-e-jihaad
   Hum tawalla aur tabarra ke dhani
 
   4
-  Ye hamari qadr ye zeb o zain
-  Ashk hamare marhame zakhme hussain
-  Ye aza fatema ke dil ka chain
-  Hum se khush hai khuda uska nabi
+  Ye hamaari qadr ye zeb o zain
+  Ashk hamaari marham-e-zakhm-e-Husain
+  Ye aza Faatima ke dil ka chain
+  Hum se raazi hai Khuda us ka Nabi
 
   5
-  Haasil e khilqat hamara hai aza
-  Ye buka ye wa-hussaina ki sada
-  Hai hamari rooh ki girya ghiza
-  Khoon baha to jism hote hai qawi
+  Haasil-e-khilqat hamaara hai aza
+  Ye buka ye wa Husaina ki sada
+  Hai hamaari ruh ki girya ghiza
+  Khuṅ bhara to jism hote hai qawi
 
   6
-  Hum se poocho gham hai kya kya hai khushi
-  Hai jo dil mein ulfat e aale nabi
-  Gham hai unka gham khushi unki khushi
-  Bas yehi hai apna tarz e zindagi
+  Hum se puchh gham hai kya kya hai khushi
+  Hai jo dil mein ulfat-e-Aal-e-Nabi
+  Gham hai un ka gham khushi un ki khushi
+  Bas yehi hai apna tarz-e-zindagi
 
   7
-  Hai dilon mein hamare karbobala
+  Hai diloṅ mein hamaare Karbobala
   Hum na is se aur na ye hum se juda
-  Kaise halmin ki bhala bhoolein sada
-  Goonjti hai al-atash har ghadi
+  Kaise hal min ki bhala bhule sada
+  Guṅjti hai al atash har ghari
 
   8
-  Hai mehekte seeno pe zakhmon ke baagh
-  Aur dil mein gham ke jalte hai charagh
-  Hum hai wo jinko nahi gham se firaaq
-  Bas faheem haan yehi hai bandagi
+  Hai mehekte sinoṅ pe zakhmoṅ ke baagh
+  Aur dil mein gham ke jalte haiṅ charaagh
+  Hum hai wo jin ko nahiṅ gham se firaaq
+  Bas Faheem haaṅ yehi hai bandagi
 
 # source_id: nohayonline:150c024b5c22365940b9
 # source_url: https://www.nohayonline.com/details_content.php?id=3522
@@ -71,49 +72,49 @@ romanLyrics: |-
 ---
 
 ہم عزادار حسین ابنِ علی
-
-۱
 ہم طرفدار حسین ابنِ علی
 ہم وفادار حسین ابنِ علی
-ہم دعاے فاطمہ کا ہے ثمر
-اور آداب عزا سب سے با خبر
+
+۱
+ہم دعائے فاطمہ کا ہے ثمر
+اور آدابِ عزا سے با خبر
 جانتے ہیں ہم کو سب جن و بشر
-ہے ہماری سر پرست بنت علی
+ہے ہماری سرپرست بنتِ علی
 
 ۲
-سامنے جس کے کٹا بھای کا سر
-ذبح پیاسے ہو گےء نورِ نظر
+سامنے جس کے کٹا بھائی کا سر
+ذبح پیاسے ہو گئے نورِ نظر
 اور لٹا جنگل میں جس کا گھر
-بھای کے لاش پہ جو رو نہ سکی
+بھائی کے لاش پہ جو رو نہ سکی
 
 ۳
-ہم سے پوچھو لذت سوم و صلات
-ہم سے پوچھو قدر خمس و زکوٰۃ
+ہم سے پوچھو لذتِ صوم و صلات
+ہم سے پوچھو قدرِ خمس و زکوٰۃ
 ہم سے پوچھو کیوں رکا حکم جہاد
-ہم تولا اور تبرہ کے دھنی
+ہم تولّیٰ اور تبرّا کے دھنی
 
 ۴
 یہ ہماری قدر یہ زیب و زین
-اشک ہماری مرحم زخم حسین
+اشک ہماری مرہمِ زخمِ حسین
 یہ عزا فاطمہ کے دل کا چین
 ہم سے راضی ہے خدا اس کا نبی
 
 ۵
-حاصل خلقت ہمارا ہے عزا
+حاصلِ خلقت ہمارا ہے عزا
 یہ بکا یہ وا حسینا کی صدا
 ہے ہماری روح کی گریہ غذا
 خوں بھرا تو جسم ہوتے ہے قوی
 
 ۶
 ہم سے پوچھ غم ہے کیا کیا ہے خوشی
-ہے جو دل میں الفت آل نبی
+ہے جو دل میں الفتِ آلِ نبی
 غم ہے ان کا غم خوشی ان کی خوشی
-بس یہی ہے اپنا طرز زندگی
+بس یہی ہے اپنا طرزِ زندگی
 
 ۷
 ہے دلوں میں ہمارے کربوبلا
 ہم نہ اس سے اور نہ یہ ہم سے جدا
-کیسے ھل من کی بھلا بھولے صدا
+کیسے ہل من کی بھلا بھولے صدا
 گونجتی ہے العطش ہر گھڑی
 
 ۸
