@@ -6,54 +6,55 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
+reciter: "Hadi Ali Khan Muslim"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Karbala mein hua lakhte dil e shabbar tukde
-  Ran se qasim ke utha laaye hai sarwar tukde
+  Karbala mein hua lakht-e-dil-e-Shabbar tukre
+  Ran se Qaasim ke utha laaye haiṅ Sarwar tukre
 
   1
-  Pahunche maidan mein qasim ki sada sun kar jab
-  Dekha shabbir ne bhai ka hai dilbar tukde
+  Pahunche maidaan mein Qaasim ki sada sun kar jab
+  Dekha Shabbir ne bhaai ka hai dilbar tukre
 
   2
-  Sar jhukaye huwe rote hai hussain ibne ali
-  Apne bhai ki nashani ke utha kar tukde
+  Sar jhukaaye hue rote haiṅ Husain ibn-e-Ali
+  Apne bhaai ki nishaani ke utha kar tukre
 
   3
-  Hai ye qasim ka janaza ke jigar shabbar ka
-  Ran se shabbir utha laaye bahattar tukde
+  Hai ye Qaasim ka janaaza ke jigar Shabbar ka
+  Ran se Shabbir utha laaye bahattar tukre
 
   4
-  Maadar e hazrat e qasim se ye kehte thay hussain
-  Aap ke laal ke laaye hai utha kar tukde
+  Maadar-e-Hazrat-e-Qaasim se ye kehte the Husain
+  Aap ke laal ke laaye haiṅ utha kar tukre
 
   5
-  Waqia hazrat e qasim ki shahadat ka rasheed
-  Sun ke hota hai har ek ka dil e muztar tukde
+  Waaqia Hazrat-e-Qaasim ki shahaadat ka Rasheed
+  Sun ke hota hai har ek ka dil-e-muztar tukre
 # source_id: nohayonline:2d1da972b95c9ff681c0
 # source_url: https://www.nohayonline.com/details_content.php?id=1973
 # raw_sha256: c27d24f37e4b2043b69b466e0193b4c016295b3e193d6663827f12d327802a37
 ---
 کربلا میں ہوا لختِ دل شبیر ٹکڑے
-رن سے قاسم کے اٹھا لاے ہیں سرور ٹکڑے
+رن سے قاسم کے اٹھا لائے ہیں سرور ٹکڑے
 
 ۱
 پہنچے میدان میں قاسم کی صدا سن کر جب
-دیکھا شبیر نے بھای کا ہے دلبر ٹکڑے
+دیکھا شبیر نے بھائی کا ہے دلبر ٹکڑے
 
 ۲
-سر جھکائے ہوے روتے ہیں حسین ابنِ علی
-اپنے بھای کی نشانی کے اٹھا کر ٹکڑے
+سر جھکائے ہوئے روتے ہیں حسین ابنِ علی
+اپنے بھائی کی نشانی کے اٹھا کر ٹکڑے
 
 ۳
 ہے یہ قاسم کا جنازہ کے جگر شبر کا
-رن سے شبیر اٹھا لاے بہتر ٹکڑے
+رن سے شبیر اٹھا لائے بہتر ٹکڑے
 
 ۴
 مادر حضرتِ قاسم سے یہ کہتے تھے حسین
-آپ کے لال کے لاے ہیں اٹھا کر ٹکڑے
+آپ کے لال کے لائے ہیں اٹھا کر ٹکڑے
 
 ۵
 واقعہ حضرتِ قاسم کی شہادت کا رشید

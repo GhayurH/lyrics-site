@@ -1,128 +1,137 @@
 ---
-title: "جیےء شاہ حسین جیےء شاہ حسین"
-alternateTitle: "Karbala Mashallah"
+title: "جیے شاہ حسین جیے شاہ حسین"
+alternateTitle: "Karbala Maashaallah"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jiye shaah hussain jiye shaah hussain
-  Zinda jahan mein taaba qayamat hai karbala
-  Saadat e karbala ki amanat hai karbala
-  Dunya ke har ghareeb ki izzat hai karbala
+  Jiye Shaah Husain jiye Shaah Husain
+  Zinda jahaaṅ mein taaba qayaamat hai Karbala
+  Saadaat-e-Karbala ki amaanat hai Karbala
+  Dunya ke har gharib ki izzat hai Karbala
+  Jiye Shaah Husain jiye Shaah Husain
 
-  Jannat e maa karbala
-  Rooh e aza karbala
-  Noor e khuda karbala
-  Baab e dua karbala
-  Khaak e shifa karbala
-  Gham ki dawa karbala
-  Jannat e maa karbala
-  Karbobala khoon e mohamad se saji hai
-  Karbobala ishq e hussain ibn e ali hai
-  Teri zameen mo’alla teri zameen mo’alla
-  Karbala karbala mashallah
-  Tu rahegi sada inshallah
-  Mashallah mashallah karbala
-  Mashallah mashallah karbala
+  Jannat-e-maa Karbala
+  Ruh-e-aza Karbala
+  Nur-e-Khuda Karbala
+  Baab-e-dua Karbala
+  Khaak-e-shifa Karbala
+  Gham ki dawa Karbala
+  Jannat-e-maa Karbala
+  Karbobala khun-e-Muhammad se saji hai
+  Karbobala ishq-e-Husain ibn-e-Ali hai
+  Teri zamiṅ moalla teri zamiṅ moalla
+  Karbala Karbala maashaallah
+  Tu rahegi sada inshaallah
+  Maashaallah maashaallah Karbala
+  Maashaallah maashaallah Karbala
 
   1
-  Aao chale karbala
-  Ban ke safeer e aza
+  Aao chaleṅ Karbala
+  Ban ke safir-e-aza
   Sar pe ho parcham khula
-  Ishq e aza saath rahe
-  Ashkon ki barsaat rahe
-  Haathon mein bas haath rahe
-  Teri zameen mo’alla
-  Nainawa nainawa mashallah
-  Tu rahegi sada inshallah
-  Mashallah mashallah karbala
-  
+  Ishq-e-aza saath rahe
+  Ashkoṅ ki barsaat rahe
+  Haathoṅ mein bas haath rahe
+  Teri zamiṅ moalla
+  Nainawa Nainawa maashaallah
+  Tu rahegi sada inshaallah
+  Maashaallah maashaallah Karbala
+  Jiye Shaah Husain jiye Shaah Husain
+
   2
   Karbobala khaak thi
   Khaak ko izzat mili
-  Khaak e shifa ban gayi
-  Aaye hussain ibne ali
-  Surat e gulzaar saji
-  Ghazi ki jageer bani
-  Teri zameen mo’alla
-  Marhaba marhaba mashallah
-  Tu rahegi sada inshallah
-  Mashallah mashallah karbala
-  
+  Khaak-e-shifa ban gayi
+  Aaye Husain ibn-e-Ali
+  Surat-e-gulzaar saji
+  Ghaazi ki jaagir bani
+  Teri zamiṅ moalla
+  Marhaba marhaba maashaallah
+  Tu rahegi sada inshaallah
+  Maashaallah maashaallah Karbala
+  Jiye Shaah Husain jiye Shaah Husain
+
   3
-  Hum tere zawwar hai
-  Tere azadaar hai
-  Khadim e darbar hai
-  Naara e labbaik mera
-  Matam e shaahe shohada
-  Lo mai chala karbobala
-  Teri zameen mo’alla
-  Shukriya shukriya mashallah
-  Tu rahegi sada inshallah
-  Mashallah mashallah karbala
-  
+  Hum tere zawwaar haiṅ
+  Tere azaadaar haiṅ
+  Khaadim-e-darbaar haiṅ
+  Naara-e-labbaik mera
+  Maatam-e-Shaah-e-shuhada
+  Lo main chala Karbobala
+  Teri zamiṅ moalla
+  Shukriya shukriya maashaallah
+  Tu rahegi sada inshaallah
+  Maashaallah maashaallah Karbala
+  Jiye Shaah Husain jiye Shaah Husain
+
   4
-  Meri dawa karbala
-  Meri shifa karbala
-  Meri baqa karbala
-  Daulat e maa karbobala
-  Quwwat e maa karbobala
-  Izzat e maa karbobala
-  Teri zameen mo'alla
-  Rehnuma rehnuma mashallah
-  Tu rahegi sada inshallah
-  Mashallah mashallah karbala
-  
+  Meri dawa Karbala
+  Meri shifa Karbala
+  Meri baqa Karbala
+  Daulat-e-maa Karbobala
+  Quwwat-e-maa Karbobala
+  Izzat-e-maa Karbobala
+  Teri zamiṅ moalla
+  Rehnuma rehnuma maashaallah
+  Tu rahegi sada inshaallah
+  Maashaallah maashaallah Karbala
+  Jiye Shaah Husain jiye Shaah Husain
+
   5
-  Ay shahe karbobala
-  Koi nahi aap sa
-  Ek hai bas karbala
-  Sarwar o rehaan chalo
+  Ae Shah-e-Karbobala
+  Koi nahiṅ aap sa
+  Ek hai bas Karbala
+  Sarwar o Rehaan chalo
   Le ke ye armaan chalo
-  Nazr kare jaan chalo
-  Teri zameen mo’alla
-  Jaaneman jaaneman mashallah
-  Tu rahegi sada inshallah
-  Mashallah mashallah karbala
-  Zindabad karbala zindabad ya hussain
-  Jiye shaah jiye shaah
-  Beshak ali ke laal ki mehnat hai karbala
-  Zehra ke khandaan ki daulat hai karbala
-  Jo bhi yahan hussain ka zawwar ban gaya
-  Hurr ban gaya koi, koi mukhtaar ban gaya
-  Karbobala sayeban karbobala paasban
-  Karbobala noor e jaan, saari zameeno ki maa
-  Ishq o mohabbat ka nishan
-  Farsh pe hai arsh jahan, jannat e arzi ka samaa
-  Deen panaah, sajda gaah, madresa, darsgaah, hal jaza, hal ata
-  Tu hai dayaar e hussain, mashallah mashallah
-  Tu dil e zahra ka chain, mashallah mashallah
-  Rooh e dil e mashraqain, mashallah mashallah
-  Tere liye har dua, inshallah inshallah
-  Tere liye har sada, inshallah inshallah
-  Jaari rahegi sada, inshallah inshallah
-  Karbala karabala, karbala karabala
-  Hai hamari darsgaah, karbala karabala
-  Haq ka seedha raasta, karbala karabala
-  Ibadaton ka raabta, karbala karabala
-  Har ek hurr ki rahnuma, karbala karabala
-  Hussainiyat ka madrasa, karbala karabala
-  Baqa e harf e laa ilaah, karbala karabala
-  Hussain jiska baadshah, karbala karabala
+  Nazr kareṅ jaan chalo
+  Teri zamiṅ moalla
+  Jaan-e-man jaan-e-man maashaallah
+  Tu rahegi sada inshaallah
+  Maashaallah maashaallah Karbala
+  Zindaabaad Karbala zindaabaad ya Husain
+  Jiye Shaah jiye Shaah
+
+  Beshak Ali ke laal ki mehnat hai Karbala
+  Zehra ke khaandaan ki daulat hai Karbala
+  Jo bhi yahaaṅ Husain ka zawwaar ban gaya
+  Hur ban gaya koi, koi Mukhtaar ban gaya
+  Karbobala saayebaaṅ Karbobala paasbaaṅ
+  Karbobala nur-e-jaaṅ, saari zaminoṅ ki maaṅ
+  Ishq o mohabbat ka nishaaṅ
+  Farsh pe hai arsh jahaaṅ, jannat-e-arzi ka samaaṅ
+  Din panaah, sajda gaah, madrasa, darsgaah, hal jaza, hal ata
+  Tu hai dayaar-e-Husain, maashaallah maashaallah
+  Tu dil-e-Zahra ka chain, maashaallah maashaallah
+  Ruh-e-dil-e-mashraqain, maashaallah maashaallah
+  Tere liye har dua, inshaallah inshaallah
+  Tere liye har sada, inshaallah inshaallah
+  Jaari rahegi sada, inshaallah inshaallah
+
+  Karbala Karbala, Karbala Karbala
+  Hai hamaari darsgaah, Karbala Karbala
+  Haq ka sidha raasta, Karbala Karbala
+  Ibaadatoṅ ka raabta, Karbala Karbala
+  Har ek Hur ki rehnuma, Karbala Karbala
+  Husainiyat ka madrasa, Karbala Karbala
+  Baqa-e-harf-e-laa ilaah, Karbala Karbala
+  Husain jis ka baadshaah, Karbala Karbala
 # source_id: nohayonline:3384c075f9dfdaba2f67
 # source_url: https://www.nohayonline.com/details_content.php?id=396
 # raw_sha256: c7563582806ccc921a20b003c2a1c71ac4b5bb2dcc5e930986dd1b22b4048c4a
 ---
 
-جیےء شاہ حسین جیےء شاہ حسین
+جیے شاہ حسین جیے شاہ حسین
 زندہ جہاں میں تابہ قیامت ہے کربلا
 سادات کربلا کی امانت ہے کربلا
 دنیا کے ہر غریب کی عزت ہے کربلا
+جیے شاہ حسین جیے شاہ حسین
 
 جنت ماں کربلا
 روح عزا کربلا
@@ -144,24 +153,26 @@ romanLyrics: |-
 بن کے سفیر عزا
 سر پہ ہو پرچم کھلا
 عشق عزا ساتھ رہے
-آشکوں کی برسات رہے
+اشکوں کی برسات رہے
 ہاتھوں میں بس ہاتھ رہے
 تیری زمیں معلہ
 نینوا نینوا ماشاءاللہ
 تو رہے گی سدا انشاءاللہ
 ماشاءاللہ ماشاءاللہ کربلا
+جیے شاہ حسین جیے شاہ حسین
 
 ۲
 کربوبلا خاک تھی
 خاک کو عزت ملی
-خاک شفا بن گیء
-آے حسین ابن علی
+خاک شفا بن گئی
+آئے حسین ابن علی
 صورت گلزار نبی
 غازی کی جاگیر سجی
 تیری زمیں معلہ
 مرحبا مرحبا ماشاءاللہ
 تو رہے گی سدا انشاءاللہ
 ماشاءاللہ ماشاءاللہ کربلا
+جیے شاہ حسین جیے شاہ حسین
 
 ۳
 ہم تیرے زوار ہیں
@@ -174,6 +185,7 @@ romanLyrics: |-
 شکریہ شکریہ ماشاءاللہ
 تو رہے گی سدا انشاءاللہ
 ماشاءاللہ ماشاءاللہ کربلا
+جیے شاہ حسین جیے شاہ حسین
 
 ۴
 میری دوا کربلا
@@ -186,6 +198,7 @@ romanLyrics: |-
 رہنما رہنما ماشاءاللہ
 تو رہے گی سدا انشاءاللہ
 ماشاءاللہ ماشاءاللہ کربلا
+جیے شاہ حسین جیے شاہ حسین
 
 ۵
 اے شہ کربوبلا
@@ -199,11 +212,12 @@ romanLyrics: |-
 تو رہے گی سدا انشاءاللہ
 ماشاءاللہ ماشاءاللہ کربلا
 زندہ باد کربلا زندہ باد یا حسین
-جیےء شاہ جیےء شاہ
+جیے شاہ جیے شاہ
+
 بیشک علی کے لال کی محنت ہے کربلا
 زہرا کے خاندان کی دولت ہے کربلا
 جو بھی یہاں حسین کا زوار بن گیا
-حر بن گیا کوئی کوی مختار بن گیا
+حر بن گیا کوئی کوئی مختار بن گیا
 کربوبلا سایباں کربوبلا پاسباں
 کربوبلا نور جاں سارے زمینوں کی ماں
 عشق و محبت کا نشاں
@@ -215,11 +229,12 @@ romanLyrics: |-
 تیرے لئے ہر دعا انشاء اللہ انشاء اللہ
 تیرے لئے ہر صدا انشاء اللہ انشاء اللہ
 جاری رہے گی سدا انشاء اللہ انشاء اللہ
-کربلا کربلا, کربلا کربلا
+
+کربلا کربلا، کربلا کربلا
 ہے ہماری درسگاہ کربلا کربلا
 حق کا سیدھا راستہ کربلا کربلا
 عبادتوں کا رابطہ کربلا کربلا
 ہر ایک حر کی رہنما کربلا کربلا
 حسینیت کا مدرسہ کربلا کربلا
-بقاےء حرف لاالہ کربلا کربلا
+بقائے حرف لاالہ کربلا کربلا
 حسین جس کا بادشاہ کربلا کربلا
