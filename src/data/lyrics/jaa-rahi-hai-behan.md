@@ -1,60 +1,71 @@
 ---
-title: "اُٹھو حُسین سوۓ شام جا رہی ہے بہن"
+title: "اُٹھو حُسین سوئے شام جا رہی ہے بہن"
 alternateTitle: "Jaa Rahi Hai Behan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Mukhtar Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Utho hussain suye shaam jaa rahi hai behan
-  Salaam karne ko maqtal may aa rahi hai behan
-  
+  Utho Husain su-e-Shaam jaa rahi hai behan
+  Salaam karne ko maqtal mein aa rahi hai behan
+
   1
-  Tumhari bali sakina ke chin gaye gohar
-  Lahoo hai kaano se jaari bata rahi hai behan
-  
+  Tumhaari baali Sakina ke chhin gaye gauhar
+  Lahu hai kaanoṅ se jaari bata rahi hai behan
+  Salaam karne ko maqtal mein aa rahi hai behan
+
   2
-  Rida bhi chin gayi bhai tumhare qatl ke baad
-  Faqat duaon ki chadar udha rahi hai behan
-  
+  Rida bhi chhin gayi bhaai tumhaare qatl ke baad
+  Faqat duaaoṅ ki chaadar urha rahi hai behan
+  Salaam karne ko maqtal mein aa rahi hai behan
+
   3
-  Waraq zameen pe quran ke hai bikhre huwe
+  Waraq zamin pe Quraan ke hai bikhre hue
   Inhi ko dekh ke aansu baha rahi hai behan
-  
+  Salaam karne ko maqtal mein aa rahi hai behan
+
   4
-  Bhatije bhai aur unke mohib shaheed huwe
-  Isi liye saf e matam bicha rahi hai behan
-  
+  Bhatije bhaai aur un ke muhib shahid hue
+  Isi liye saf-e-maatam bichha rahi hai behan
+  Salaam karne ko maqtal mein aa rahi hai behan
+
   5
-  Rawan rakhe hai jo zulm o sitam layeeno ne
-  Tamaash beeno ko wo sab suna rahi hai behan
+  Rawaaṅ rakhe haiṅ jo zulm o sitam lainoṅ ne
+  Tamaash binoṅ ko woh sab suna rahi hai behan
+  Salaam karne ko maqtal mein aa rahi hai behan
 # source_id: nohayonline:a4476daa459584d5cbd5
 # source_url: https://www.nohayonline.com/details_content.php?id=1710
 # raw_sha256: f404ee9e86c9b5e67640c794fae3a7bfd345850bb22d09f72a475e69fb5cc82a
 ---
 
-اُٹھو حُسین سوۓ شام جا رہی ہے بہن
+اُٹھو حُسین سوئے شام جا رہی ہے بہن
 سلام کرنے کو مقتل میں آ رہی ہے بہن
 
 ۱
 تمہاری بالی سکینہ کے چھن گئے گوہر
 لہو ہے کانوں سے جاری بتا رہی ہے بہن
+سلام کرنے کو مقتل میں آ رہی ہے بہن
 
 ۲
 رِدا بھی چھن گئی بھائی تُمہارے قتل کے بعد
-فقط دُعاوں کی چادر اُڑھا رہی ہے بہن
+فقط دُعاؤں کی چادر اُڑھا رہی ہے بہن
+سلام کرنے کو مقتل میں آ رہی ہے بہن
 
 ۳
-ورق زمین پہ قرآن کے ہے بکھرے ہوے
+ورق زمین پہ قرآن کے ہے بکھرے ہوئے
 انہی کو دیکھ کے آنسو بہا رہی ہے بہن
+سلام کرنے کو مقتل میں آ رہی ہے بہن
 
 ۴
-بھتیجے بھائی اور انکے محب شہید ہوۓ
+بھتیجے بھائی اور ان کے محب شہید ہوئے
 اسی لیے صفِ ماتم بچھا رہی ہے بہن
+سلام کرنے کو مقتل میں آ رہی ہے بہن
 
 ۵
 رواں رکھے ہیں جو ظلم و ستم لعینوں نے
-تماش بینو کو وہ سب سُنا رہی ہے بہن
+تماش بینوں کو وہ سب سُنا رہی ہے بہن
+سلام کرنے کو مقتل میں آ رہی ہے بہن

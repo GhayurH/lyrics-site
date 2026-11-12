@@ -2014,10 +2014,10 @@ src/data/lyrics/itrat-e-athaar.md,standalone_lyrics,imported,nohayonline,pending
 src/data/lyrics/izatdaar-gharana.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
 src/data/lyrics/izzat-khuda-ke-deen.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
 src/data/lyrics/izzat-khuda-ki-fatima.md,standalone_lyrics,imported,tajpoints,pending,partial_review,partial_review,reviewed,not_applicable,reviewed,,,"Need Tajpoints poster or audio: s2 second verse ""Jis Ke Liye Nabi Diya Sajday Ko Rehlay Tool Hai"" is corrupt; provisional Urdu retains ""جس کے لیے نبی دیا سجدے کو رہلے طول ہے"". Supply the exact full line; do not infer a replacement."
-src/data/lyrics/ja-ali-asghar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/ja-raha-hoo-karbala.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/jaa-rahi-hai-behan.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/jaake-baba-ko-sab.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/ja-ali-asghar.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
+src/data/lyrics/ja-raha-hoo-karbala.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,,,"Need audio/print: s3 full first two verses, especially ""کربلا کیا ہے معلی آدم و عیسا کا ہے"" and ""خم"" (Roman source ""qum""); s5 ""جہاں ہے"" vs ""جہاں ہیں""."
+src/data/lyrics/jaa-rahi-hai-behan.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,,,"Need audio/print: s3 ""قرآن کے ہے"" vs ""قرآن کے ہیں""; s5 ""رواں رکھے ہیں جو ظلم و ستم"" (confirm ""رواں"" reading)."
+src/data/lyrics/jaake-baba-ko-sab.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
 src/data/lyrics/jaan-ali-akbar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/jaana-hai-karbala.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/jaane-kaise-thay.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,

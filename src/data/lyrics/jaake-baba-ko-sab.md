@@ -1,109 +1,114 @@
 ---
-title: "بولی دربار میں یہ بنت نبی"
-alternateTitle: "Jaake Baba Ko Sab"
+title: "بولی دربار میں یہ بنتِ نبی"
+alternateTitle: "Jaa Ke Baba Ko Sab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
+reciter: "Mir Sajjad Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Boli darbar may ye binte nabi
-  Jaa ke baba ko sab bataungi
-  Tum ne tauheen ki meri kitni
+  Boli darbaar mein ye bint-e-Nabi
+  Jaa ke baba ko sab bataauṅ gi
+
+  Tum ne tauhin ki meri kitni
+  Jaa ke baba ko sab bataauṅ gi
 
   1
-  Ek din wo tha dekh kar mujhko
+  Ek din woh tha dekh kar mujh ko
   Apne mimbar se uth gaye baba
   Ek ye din hai mere aane par
-  Koi tazeem ko nahi utha
-  Kitni ummat badal gayi unki
-  
+  Koi taazim ko nahiṅ utha
+  Kitni ummat badal gayi un ki
+
   2
-  Mujhko darbar my khada rakh ke
-  Kar rahe wo kalaam has has ke
-  Haye afsos meri zainab ke
-  Saamne keh rahe ho jhoota mujhe
-  Tum ne tehreer chaak ki unki
-  
+  Mujh ko darbaar mein khara rakh ke
+  Kar rahe woh kalaam haṅs haṅs ke
+  Haaye afsos meri Zainab ke
+  Saamne keh rahe ho jhuta mujhe
+  Tum ne tahrir chaak ki un ki
+
   3
-  Dekh kar mujhko poochenge baba
+  Dekh kar mujh ko puchheṅ ge baba
   Zakhm chehre pe kaisa aaya hai
-  Mai bataungi poori taaqat se
-  Kisne moo par tamacha maara hai
+  Main bataauṅ gi puri taaqat se
+  Kis ne muṅh par tamaancha maara hai
   Gir gayi kaise kaan ki baali
-  
+
   4
-  Oonchi awaaz se mere dar par
-  Tum ali ko bulaye jaate thay
-  Mai thi behosh jalte dar ke talay
+  Unchi aawaaz se mere dar par
+  Tum Ali ko bulaae jaate the
+  Main thi behosh jalte dar ke tale
   Aur dar par se tum guzarte rahe
-  Jhuk gayi kis tarha kamar meri
-  
+  Jhuk gayi kis tarah kamar meri
+
   5
-  Jisne azaad qaidiyon ko kiya
-  Tum ne usko bana diya qaidi
-  Jisne kuffaar se bachaya tha
-  Uski gardan may daal di rassi
-  Be-wafayi ki inteha kar di
-  
+  Jis ne aazaad qaidiyoṅ ko kiya
+  Tum ne us ko bana diya qaidi
+  Jis ne kuffaar se bachaaya tha
+  Us ki gardan mein daal di rassi
+  Bewafaai ki intiha kar di
+
   6
-  Mai shikayat karungi baba se
-  Kisne zehra pe haath uthaya hai
-  Kisne pehlu pe thokare maari
-  Kisne mohsin ko mere maara hai
-  Ek bhi shakl mai nahi bhooli
-  
+  Main shikaayat karuṅ gi baba se
+  Kis ne Zehra pe haath uthaaya hai
+  Kis ne pehlu pe thokareṅ maari
+  Kis ne Mohsin ko mere maara hai
+  Ek bhi shakl main nahiṅ bhuli
+
   7
-  Mir sajjad kya bayan ho bhala
-  Ghar may jab aayi laut kar zehra
-  Hoke bechain poochte thay ali
-  Bolo darbar may hua kya kya
-  Sirf ro ro ke bibi kehti rahi
+  Mir Sajjad kya bayaaṅ ho bhala
+  Ghar mein jab aai laut kar Zehra
+  Ho ke bechain puchhte the Ali
+  Bolo darbaar mein hua kya kya
+  Sirf ro ro ke Bibi kehti rahi
 # source_id: nohayonline:9d47b66fca6a7f2abc2d
 # source_url: https://www.nohayonline.com/details_content.php?id=1531
 # raw_sha256: 8bbe96cdb60b056c7d819ddddb5472cf41c36057d1e617ab7c29528c8e237112
 ---
 
-بولی دربار میں یہ بنت نبی
+بولی دربار میں یہ بنتِ نبی
 جا کے بابا کو سب بتاؤں گی
+
 تم نے توہین کی میری کتنی
+جا کے بابا کو سب بتاؤں گی
 
 ۱
-ایک دن وہ تھا دیکھ کر مجھکو
-اپنے ممبر سے اٹھ گےء بابا
+ایک دن وہ تھا دیکھ کر مجھ کو
+اپنے منبر سے اٹھ گئے بابا
 ایک یہ دن ہے میرے آنے پر
 کوئی تعظیم کو نہیں اٹھا
-کتنی امت بدل گیء ان کی
+کتنی امت بدل گئی ان کی
 
 ۲
-مجھکو دربار میں کھڑا رکھ کے
+مجھ کو دربار میں کھڑا رکھ کے
 کر رہے وہ کلام ہنس ہنس کے
-ہاے آفسوس میری زینب کے
+ہائے افسوس میری زینب کے
 سامنے کہہ رہے ہو جھوٹا مجھے
-تم نے تحریر چاک کی انکی
+تم نے تحریر چاک کی ان کی
 
 ۳
-دیکھ کر مجھکو پوچھیں گے بابا
+دیکھ کر مجھ کو پوچھیں گے بابا
 زخم چہرے پہ کیسا آیا ہے
 میں بتاؤں گی پوری طاقت سے
 کس نے منہ پر طمانچہ مارا ہے
-گر گیء کیسے کان کی بالی
+گر گئی کیسے کان کی بالی
 
 ۴
 اونچی آواز سے میرے در پر
-تم علی کو بلاے جاتے تھے
-میں تھی بیہوش جلتے در کے تلے
+تم علی کو بلائے جاتے تھے
+میں تھی بے ہوش جلتے در کے تلے
 اور در پر سے تم گزرتے رہے
-جھک گیء کس طرح کمر میری
+جھک گئی کس طرح کمر میری
 
 ۵
 جس نے آزاد قیدیوں کو کیا
-تم نے اسکو بنا دیا قیدی
+تم نے اس کو بنا دیا قیدی
 جس نے کفار سے بچایا تھا
-اسکی گردن میں ڈال دی رسی
+اس کی گردن میں ڈال دی رسی
 بے وفائی کی انتہا کر دی
 
 ۶
@@ -115,7 +120,7 @@ romanLyrics: |-
 
 ۷
 میر سجاد کیا بیاں ہو بھلا
-گھر میں جب آی لوٹ کر زہرا
+گھر میں جب آئی لوٹ کر زہرا
 ہو کے بے چین پوچھتے تھے علی
 بولو دربار میں ہوا کیا کیا
-صرف رو رو کے بی بی کہتی رہی
+صرف رو رو کے بی‌بی کہتی رہی
