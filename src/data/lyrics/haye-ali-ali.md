@@ -6,112 +6,114 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye ali ali ali
+  Haye Ali Ali Ali
+  Haye Ali Ali Ali
   
   1
-  Qatl huwe shaahe zamaan
-  Ran mein hai mehshar ka samaan
-  Qaimon se uth'ta hai dhuaan
-  Jaaye kahan aale nabi
+  Qatl hue Shaah-e-Zamaaṅ
+  Ran mein hai mahshar ka samaaṅ
+  Khaimoṅ se uthta hai dhuaaṅ
+  Jaae kahaaṅ Aal-e-Nabi
   
   2
-  Abid e betaab o tawan
-  Qaid huwe aake kahan
-  Haathon mein hai hatkadiyan
-  Paon mein bedi hai padi
+  Aabid-e-Betaab o Tawaaṅ
+  Qaid hue aa ke kahaaṅ
+  Haathoṅ mein hai hathkariyaṅ
+  Paaoṅ mein beri hai pari
   
   3
-  Kaun ye be-jaan hua
-  Be-sar o saaman hua
-  Ghar hai ke veeran hua
+  Kaun ye bejaan hua
+  Besar o saamaaṅ hua
+  Ghar hai ke viraaṅ hua
   Ban hai ke shamshaan hua
-  Kaun hai ye nauha kuna
-  Goonjti hai kiski fughan
-  Roti hai shayed koi maa
+  Kaun hai ye nauha-kunaaṅ
+  Gunjti hai kis ki fughaaṅ
+  Roti hai shaayad koi maaṅ
   Khasta jigar kokh jali
   
   4
-  Naazishe khatme ambiya
-  Waarise fakhre ausiya
-  Sayyede bazme auliya
+  Naazish-e-Khatm-e-Ambiya
+  Waaris-e-Fakhr-e-Ausiya
+  Sayyid-e-Bazm-e-Auliya
   Haye kise qatl kiya
-  Shamme imamat hui gul
-  Bosagahe khatme rusul
-  Khoon se hui kul
-  Haye kahan taygh lagi
+  Shama-e-Imaamat hui gul
+  Bosa-gaah-e-Khatm-e-Rusul
+  Khun se hui kul
+  Haye kahaaṅ tegh lagi
   
   5
-  Shaahe zaman paas nahi
-  Pehre pe abbas nahi
-  Bewon ko kuch aas nahi
-  Zulm ko ehsaas nahi
+  Shaah-e-Zaman paas nahiṅ
+  Pahre pe Abbas nahiṅ
+  Bewaoṅ ko kuchh aas nahiṅ
+  Zulm ko ehsaas nahiṅ
   Ban mein hai dehshat ki fiza
   Chalti hai tham tham ke hawa
   Maut ki chaayi hai ghata
-  Neend na aayegi kabhi
+  Nind na aaegi kabhi
   
   6
   Uff ye yateemi ye sitam
-  Haye ye sayli ye waram
+  Haye ye saili ye waram
   Dil mein liye baap ka gham
-  Ban mein kahan rakhe qadam
-  Laashe hai ta-hadde nazar
-  Kis se kahe jaane pidar
-  Chin gayi kaano se gohar
+  Ban mein kahaaṅ rakhe qadam
+  Laasheṅ hai ta-hadd-e-Nazar
+  Kis se kahe jaan-e-Pidar
+  Chhin gai kaanoṅ se gohar
   Kurte mein bhi aag lagi
   
   7
-  Waaris e mazloom utho
-  Maadar e masoom utho
-  Bekas o maghmoom utho
-  Zainab o kulsoom utho
-  Binte shahe jinn o bashar
-  Dhoondne ko baap ka sar
-  Chod ke ujda hua ghar
-  Tanha suye dasht chali
+  Waaris-e-Mazlum utho
+  Maadar-e-Maasum utho
+  Bekas o maghmum utho
+  Zainab o Kulsum utho
+  Bint-e-Shah-e-Jinn o Bashar
+  Dhundne ko baap ka sar
+  Chhor ke ujra hua ghar
+  Tanha su-e-Dasht chali
   
   8
-  Qasim o akbar bhi nahi
-  Aun bhi jafar bhi nahi
-  Saath baradar bhi nahi
-  Parde ko chadar bhi nahi
-  Kya kare mazloom behen
-  Ban gayi haathon mein rasan
-  Baap to tha khalla shikan
-  Beti hai lachaar khadi
+  Qaasim o Akbar bhi nahiṅ
+  Aun bhi Jafar bhi nahiṅ
+  Saath baraadar bhi nahiṅ
+  Parde ko chaadar bhi nahiṅ
+  Kya kare mazlum bahan
+  Ban gai haathoṅ mein rasan
+  Baap to tha qila-shikan
+  Beti hai laachaar khari
   
   9
-  Seh ke sitagar ke ghazab
-  Bacche mere soyenge jab
-  Lootne ko aise mein ab
+  Sah ke sitamgar ka ghazab
+  Bachche mere soeṅge jab
+  Lutne ko aise mein ab
   Aata hai ye kaun arab
-  Kis khadar aazaar sahun
-  Gham mein giraftar rahun
-  Apni fughan kis se kahun
-  Aaoge kab baba ali
+  Kis qadar aazaar sahuṅ
+  Gham mein giraftaar rahuṅ
+  Apni fughaaṅ kis se kahuṅ
+  Aaoge kab Baaba Ali
   
   10
-  Bikhre hai laashe ran mein
-  Nikli hoon tanha ban mein
+  Bikhre haiṅ laashe ran mein
+  Nikli huṅ tanha ban mein
   Jaan hai mushkil tan mein
-  Phir bhi nahi uljhan mein
-  Faatahe khyber utho
+  Phir bhi nahiṅ uljhan mein
+  Faatah-e-Khaibar utho
   Beti ki faryad suno
-  Aao kuch imdad karo
-  Dekho ye khyber shikani
+  Aao kuchh imdaad karo
+  Dekho ye Khaibar-shikani
   
   11
-  Nayyar o aamir kyun kar
-  Hum se bayan ho manzar
+  Nayyar o Aamir kiuṅ kar
+  Hum se bayaaṅ ho manzar
   Soche to phat jaye jigar
-  Us shabe gham ka manzar
-  Kis tarha wo waqt kata
-  Dasht mein tha hashre aza
-  Gham mein tha kohraam bapa
+  Us shab-e-Gham ka manzar
+  Kis tarah wo waqt kata
+  Dasht mein tha hashr-e-Aza
+  Gham mein tha kohraam bapaa
   Ek qayamat thi machi
 # source_id: nohayonline:e6d8ff4f1f3152f24e77
 # source_url: https://www.nohayonline.com/details_content.php?id=3586
@@ -119,16 +121,17 @@ romanLyrics: |-
 ---
 
 ہاے علی علی علی
+ہاے علی علی علی
 
 ۱
-قتل ہوے شاہ زماں
+قتل ہوئے شاہ زماں
 رن میں ہے محشر کا ساماں
 خیموں سے اٹھتا ہے دھواں
-جاے کہاں آل نبی
+جائے کہاں آل نبی
 
 ۲
 عابد بیتاب و تواں
-قید ہوے آ کے کہاں
+قید ہوئے آ کے کہاں
 ہاتھوں میں ہے ہتھکڑی
 پاؤں میں بیری ہے پڑی
 
@@ -147,7 +150,7 @@ romanLyrics: |-
 وارث فخر اوصیاء
 سید بزم اولیا
 ہاے کسے قتل کیا
-شمعِ امامت ہوی گل
+شمعِ امامت ہوئی گل
 بوسہ گاہ ختم رسل
 خون سے ہوئی کل
 ہاے کہاں تیغ لگی
@@ -159,8 +162,8 @@ romanLyrics: |-
 ظلم کو احساس نہیں
 بن میں ہے دہشت کی فضا
 چلتی ہے تھم تھم کے ہوا
-موت کی چھای ہے گھٹا
-نیند نہ آے گی کبھی
+موت کی چھائی ہے گھٹا
+نیند نہ آئے گی کبھی
 
 ۶
 اف یہ یتیمی یہ ستم
@@ -169,7 +172,7 @@ romanLyrics: |-
 بن میں کہاں رکھے قدم
 لاشیں ہے تا حد نظر
 کس سے کہے جان پدر
-چھن گیء کانوں سے گوہر
+چھن گئی کانوں سے گوہر
 کرتے میں بھی آگ لگی
 
 ۷
@@ -180,7 +183,7 @@ romanLyrics: |-
 بنت شہ جن و بشر
 ڈھونڈنے کو باپ کا سر
 چھوڑ کے اجڑا ہوا گھر
-تنہا سوے دشت چلی
+تنہا سوئے دشت چلی
 
 ۸
 قاسم و اکبر بھی نہیں
@@ -188,16 +191,16 @@ romanLyrics: |-
 ساتھ برادر بھی نہیں
 پردے کو چادر بھی نہیں
 کیا کرے مظلوم بہن
-بن گیء ہاتھوں میں رسن
+بن گئی ہاتھوں میں رسن
 باپ تو تھا قلعہ شکن
 بیٹی ہے لاچار کھڑی
 
 ۹
 سہ کے ستمگر کا غضب
-بچے میرے سویینگے جب
+بچے میرے سوئیں گے جب
 لوٹنے کو ایسے میں اب
 آتا ہے یہ کون عرب
-کس قدر اعزار سہوں
+کس قدر آزار سہوں
 غم میں گرفتار رہوں
 اپنی فغاں کس سے کہوں
 آؤ گے کب بابا علی

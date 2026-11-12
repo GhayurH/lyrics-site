@@ -6,41 +6,42 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Anees Pehersari"
+reciter: "Ali Zia Rizvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye ali haye ali haye ali haye
+  Haye Ali haye Ali haye Ali haye
   
   1
-  Zainab ne jis ghadi suni purdard ye sada
-  Aayi tadap ke dar ke khareeb ye deti hui nida
-  Khaana e khaaliq may hui kaisi jafa haye
+  Zainab ne jis ghari suni purdard ye sada
+  Aai tarap ke dar ke qarib ye deti hui nida
+  Khaana-e-Khaaliq mein hui kaisi jafa haye
   
   2
-  Hasnain ko pukara wo aaye to ye kaha
-  Masjid may jaake dekho to ye majara hai kya
+  Hasnain ko pukaara wo aae to ye kaha
+  Masjid mein jaa ke dekho to ye maajra hai kya
   Kaisi ye awaaz hai jo arsh ko hilaye
   
   3
-  Hasnain daude jaanib e masjid barehna pa
-  Dekha to neem hogaya hai farte murtuza
-  Baith ke pehlu may sukhan lab pe yehi laaye
+  Hasnain daure jaanib-e-Masjid barahna paa
+  Dekha to nim ho gaya hai farq-e-Murtaza
+  Baith ke pahlu mein sukhan lab pe yehi laae
   
   4
-  Halqe khai gileem pe zakhmi pidar hua
-  Leke hue rawana suye bayte fatima
-  Aaye dare zehra pe waqt ke sataye
+  Halqe khaai gilim pe zakhmi pidar hua
+  Le ke hue rawaaṅ su-e-Bait-e-Faatima
+  Aae dar-e-Zehra pe ye waqt ke sataae
   
   5
-  Ghar may nabi ke jab hue dakhil hassan hussain
-  Ehle haram ne halqa kiya aur kiye ye bain
-  Zainab-o-kulsoom ke lab par ye sukhan tha
+  Ghar mein Nabi ke jab hue daakhil Hasan Husain
+  Ahl-e-Haram ne halqa kiya aur kiye ye bain
+  Zainab o Kulsum ke lab par ye sukhan aae
   
   6
-  Waqt-e-madad hai ab dar khata iski kijiye
-  Maula aneese gham ki khabar jald lijiye
-  Daure masaib may wo ghut ghut ke na marjaye
+  Waqt-e-Madad hai ab faqat aap is ki kijiye
+  Maula Anis-e-Gham ki khabar jald lijiye
+  Daur-e-Masaaib mein wo ghut ghut ke na mar jaae
 # source_id: nohayonline:cddff6f648bfce809bb4
 # source_url: https://www.nohayonline.com/details_content.php?id=223
 # raw_sha256: cae7ea3e93c6aa36e2da4c433d2923207118a2c56d74105f1ae087c1283bd74a

@@ -6,68 +6,69 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Mesum Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Karte thay sarwar buka haaye ali ya ali
-  Aaiye shere khuda haye ali ya ali
+  Karte the Sarwar buka haye Ali ya Ali
+  Aaiye Sher-e-Khuda haye Ali ya Ali
 
   1
-  Kiska nawasa hoo mai kis liye pyasa hoo mai
-  Waarise kaaba hoo mai bekaso tanha hoo mai
-  Khushk hai kyun kar gala haye ali ya ali
+  Kis ka nawaasa huṅ main kis liye pyaasa huṅ main
+  Waaris-e-Kaaba huṅ main bekas o tanha huṅ main
+  Khushk hai kiuṅ kar gala haye Ali ya Ali
 
   2
   Bewatan o bekhata jang se kya waasta
-  Saath hai bache mere kar nahi sakta wigha
-  Band hai aab o ghiza haye ali ya ali
+  Saath haiṅ bachche mere kar nahiṅ sakta wagha
+  Band hai aab o ghiza haye Ali ya Ali
 
   3
-  Betiyan zehra ki hai parda nashi ba-haya
-  Jin ke liye arsh se rab ne utaari kisa
-  Un pe bhi hogi jafa haye ali ya ali
+  Betiyaaṅ Zehra ki hai parda-nashiṅ ba-haya
+  Jin ke liye arsh se Rab ne utaari kisa
+  Un pe bhi hogi jafa haye Ali ya Ali
 
   4
-  Seene pe soti hai jo aap ki poti hai jo
+  Sine pe soti hai jo aap ki poti hai jo
   Pyaas se behaal hai dard se roti hai jo
-  Uska bandha hai gala haye ali ya ali
+  Us ka bandha hai gala haye Ali ya Ali
 
   5
-  Dulha wo ek raat ka qasim e gul gun qaba
-  Laaunga maidan se laasha wo mehendi bhara
-  Sughra karegi buka haye ali ya ali
+  Dulha wo ek raat ka Qaasim-e-Gul-guṅ Qaba
+  Laauṅ ga maidaan se laasha wo mehndi bhara
+  Sughra karegi buka haye Ali ya Ali
 
   6
-  Hai jo shabihe nabi akbar e kadiyal jawan
-  Jo meri beenayi hai aur phuphi ki hai jaan
-  Aayegi usko qaza haye ali ya ali
+  Hai jo shabih-e-Nabi Akbar kariyal jawaaṅ
+  Jo meri binaai hai aur phuphi ki hai jaaṅ
+  Aaegi us ko qaza haye Ali ya Ali
 
   7
-  Aun o mohamed mere fikre abo jad jo thay
-  Zainab e dilgeer ne sadqe jo mujh par kiye
-  Ho gaye pyase fida haye ali ya ali
+  Aun o Muhammad mere fikr-e-Abu Jad jo the
+  Zainab-e-Dilgir ne sadqe jo mujh par kiye
+  Ho gae pyaase fida haye Ali ya Ali
 
   8
-  Abid e muztar mera gash mein hai ab tak pada
-  Shaam talak jaayega hoke aseere jafa
-  Royegi zanjeer e paa haye ali ya ali
+  Aabid-e-Muztar mera ghash mein hai ab tak para
+  Shaam talak jaaega ho ke asir-e-Jafa
+  Roegi zanjir-e-Paa haye Ali ya Ali
 
   9
-  Baba hai waqte madad zulm o sitam hai hasad
-  Baazu kataye huwe jalti zameen par jasad
-  Hai mere abbas ka haye ali ya ali
+  Baaba hai waqt-e-Madad zulm o sitam hai hasad
+  Baazu kataae hue jalti zamiṅ par jasad
+  Hai mere Abbas ka haye Ali ya Ali
 
   10
-  Meesum o rehaan ab gham ka yehi hai sabab
-  Lut gaye pardes mein aale nabi sab ke sab
-  Kehte hai ahle aza haye ali ya ali
+  Misam o Rehaan ab gham ka yehi hai sabab
+  Lut gae pardes mein Aal-e-Nabi sab ke sab
+  Kahte haiṅ Ahl-e-Aza haye Ali ya Ali
 # source_id: nohayonline:32fa0e1b43914664cfba
 # source_url: https://www.nohayonline.com/details_content.php?id=2149
 # raw_sha256: f4c0d401b7a1b4959091079ab37d845fe7537756ba03a7025b2da18a9ff0c14d
 ---
 کرتے تھے سرور بکا ہاے علی یا علی
-آییےء شیر خدا ہاے علی یا علی
+آئیے شیر خدا ہاے علی یا علی
 
 ۱
 کس کا نواسہ ہوں میں کس لئے پیاسا ہوں میں
@@ -97,24 +98,24 @@ romanLyrics: |-
 ۶
 ہے جو شبیہ نبی اکبر کڑیل جواں
 جو میری بینائی ہے اور پھپھی کی ہے جاں
-آے گی اس کو قضا ہاے علی یا علی
+آئے گی اس کو قضا ہاے علی یا علی
 
 ۷
 عون و محمد میرے فکر ابو جد جو تھے
-زینبِ دلگیر نے صدقے جو مجھ پر کیےء
-ہو گےء پیاسے فدا ہاے علی یا علی
+زینبِ دلگیر نے صدقے جو مجھ پر کیے
+ہو گئے پیاسے فدا ہاے علی یا علی
 
 ۸
 عابد مضطر میرا غش میں ہے اب تک پڑا
-شام تلک جاے گا ہو کے اسیر جفا
-روے گی زنجیر پا ہاے علی یا علی
+شام تلک جائے گا ہو کے اسیر جفا
+روئے گی زنجیر پا ہاے علی یا علی
 
 ۹
 بابا ہے وقتِ مدد ظلم و ستم ہے حسد
-بازو کٹاے ہوے جلتی زمیں پر جسد
+بازو کٹائے ہوئے جلتی زمیں پر جسد
 ہے میرے عباس کا ہاے علی یا علی
 
 ۱۰
 میثم و ریحان اب غم کا یہی ہے سبب
-لٹ گےء پردیس میں آل نبی سب کے سب
+لٹ گئے پردیس میں آل نبی سب کے سب
 کہتے ہیں اہلِ عزا ہاے علی یا علی
