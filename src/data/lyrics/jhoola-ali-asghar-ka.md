@@ -1,61 +1,66 @@
 ---
-title: "جھولا علی اصغر کا بھول نہ پای مادر"
-alternateTitle: "Jhoola Ali Asghar Ka"
+title: "جھولا علی اصغر کا بھول نہ پائی مادر"
+alternateTitle: "Jhula Ali Asghar Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
-aliases: []
+aliases: ["Jhoola Ali Asghar Ka"]
 published: false
 romanLyrics: |-
-  Jhoola ali asghar ka bhool na paayi maadar
-  Jal gaye qaime jala jhoola ali asghar ka
-  Umr bhar maa ne pada nauha ali asghar ka
-  Haye baysheer ki qaamat se bada teer tha wo
-  Jisne cheda hai gala sookha ali asghar ka
+  Jhula Ali Asghar ka bhul na paai maadar
+
+  Jal gae khaime jala jhula Ali Asghar ka
+  Umr bhar maaṅ ne parha nauha Ali Asghar ka
+
+  Haaye beshir ki qaamat se bara tir tha wo
+  Jis ne chheda hai gala sukha Ali Asghar ka
 
   1
-  Teer ke lagte hi gardan ka wo dhalna socho
-  Baap ke haathon pe tha sajda ali asghar ka
+  Tir ke lagte hi gardan ka wo dhalna socho
+  Baap ke haathoṅ pe tha sajda Ali Asghar ka
 
   2
-  Nanha sar naize pe kis tarha se aaya socho
-  Qabr ko khod ke sar kaata ali asghar ka
+  Nanha sar naize pe kis tarah se aaya socho
+  Qabr ko khod ke sar kaata Ali Asghar ka
 
   3
-  Aayi asghar ki sada naize se amma amma
-  Dekhlo waada hua pura ali asghar ka
+  Aai Asghar ki sada naize se ammaaṅ ammaaṅ
+  Dekh lo waada hua pura Ali Asghar ka
 
   4
-  Aurtein raah mein kuch karne lagi aah o buka
-  Nok e naiza pe jo sar dekha ali asghar ka
+  Aurateiṅ raah mein kuchh karne lagi aah o buka
+  Nok-e-naiza pe jo sar dekha Ali Asghar ka
 
   5
-  Maa ke seene mein huwe dafn hamesha ke liye
-  Ek sakina ka hai ek laasha ali asghar ka
+  Maaṅ ke sine mein hue dafn hamesha ke liye
+  Ek Sakina ka hai ik laasha Ali Asghar ka
 
   6
-  Mar gayi dhoop mein maa pallu jo us ka khola
-  Raakh jhoole ki mili kurta ali asghar ka
+  Mar gai dhup mein maaṅ pallu jo us ka khola
+  Raakh jhule ki mili kurta Ali Asghar ka
 
   7
-  Ek ujdi hui maadar ke dilaase ke liye
-  Har azakhane mein hai jhoola ali asghar ka
+  Ik ujri hui maadar ke dilaase ke liye
+  Har azaakhaane mein hai jhula Ali Asghar ka
 
   8
-  Hai ye mazhar ki dua naslo mein jaari ho aza
-  De de farhan ko tu sadqa ali asghar ka
+  Hai ye Mazhar ki dua nasloṅ mein jaari ho aza
+  De de Farhan ko tu sadqa Ali Asghar ka
 # source_id: nohayonline:98c86224b64c1113b51d
 # source_url: https://www.nohayonline.com/details_content.php?id=2984
 # raw_sha256: 98483079d622e83300938cae48a36dad3413eb81be6821759d02a1e7a475bcd8
 ---
-جھولا علی اصغر کا بھول نہ پای مادر
-جل گےء خیمے جلا جھولا علی اصغر کا
-عمر بھر ماں نے پڑا نوحہ علی اصغر کا
-ہاے بے شیر کی قامت سے بڑا تیر تھا وہ
-جس نے چھیدا ہے گیا سوکھا علی اصغر کا
+جھولا علی اصغر کا بھول نہ پائی مادر
+
+جل گئے خیمے جلا جھولا علی اصغر کا
+عمر بھر ماں نے پڑھا نوحہ علی اصغر کا
+
+ہائے بے شیر کی قامت سے بڑا تیر تھا وہ
+جس نے چھیدا ہے گلا سوکھا علی اصغر کا
 
 ۱
 تیر کے لگتے ہی گردن کا وہ ڈھلنا سوچو
@@ -66,7 +71,7 @@ romanLyrics: |-
 قبر کو کھود کے سر کاٹا علی اصغر کا
 
 ۳
-آی اصغر کی صدا نیزے سے اماں اماں
+آئی اصغر کی صدا نیزے سے اماں اماں
 دیکھ لو وعدہ ہوا پورا علی اصغر کا
 
 ۴
@@ -74,12 +79,12 @@ romanLyrics: |-
 نوکِ نیزہ پہ جو سر دیکھا علی اصغر کا
 
 ۵
-ماں کے سینے میں ہوے دفن ہمیشہ کے لئے
+ماں کے سینے میں ہوئے دفن ہمیشہ کے لئے
 ایک سکینہ کا ہے اک لاشہ علی اصغر کا
 
 ۶
-مر گیء دھوپ میں ماں پلو جو اس کا کھولا
-راخ جھولے کی ملی کرتہ علی اصغر کا
+مر گئی دھوپ میں ماں پلو جو اس کا کھولا
+راکھ جھولے کی ملی کرتہ علی اصغر کا
 
 ۷
 اک اجڑی ہوئی مادر کے دلاسے کے لئے

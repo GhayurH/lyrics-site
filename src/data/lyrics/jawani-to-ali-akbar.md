@@ -1,36 +1,37 @@
 ---
 title: "جوانی تو علی اکبر لُٹا دی"
-alternateTitle: "Jawani To Ali Akbar"
+alternateTitle: "Jawaani To Ali Akbar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
-aliases: []
+aliases: ["Jawani To Ali Akbar"]
 published: false
 romanLyrics: |-
-  Jawani to ali akbar luta di
-  Magar islam ki khuwat badha di
-  
+  Jawaani to Ali Akbar luta di
+  Magar Islam ki quwwat barha di
+
   1
-  Azadaro tumhare aansuon ne
-  Bahisht o khuld ki kheemat badha di
-  
+  Azaadaaro! tumhaare aaṅsuoṅ ne
+  Bahisht o khuld ki qimat barha di
+
   2
-  Tadap kar gir pade jhoole se asghar
-  Hussain ibne ali kaisi sada di
-  
+  Tarap kar gir pare jhule se Asghar
+  Husain Ibn-e-Ali kaisi sada di
+
   3
-  Ali asghar ne ran may muskurakar
-  Yazeedi fauj may halchal macha di
-  
+  Ali Asghar ne ran mein muskaraa kar
+  Yazidi fauj mein halchal machaa di
+
   4
-  Kaha bano ne asghar ki lehad par
-  Hamay kis jurm ki beta saza di
-  
+  Kahaa Baano ne Asghar ki lahad par
+  Hameiṅ kis jurm ki beta saza di
+
   5
-  Khuda ke naam par sarwar ne ran may
-  Kamayi zindagi bhar ki luta di
+  Khuda ke naam par Sarwar ne ran mein
+  Kamaai zindagi bhar ki luta di
 # source_id: nohayonline:b484114c469b3e49b4be
 # source_url: https://www.nohayonline.com/details_content.php?id=541
 # raw_sha256: c9120934497080c3ddde1a9e9a41574c80459b789c1064557f0695809f31a9c9
@@ -40,7 +41,7 @@ romanLyrics: |-
 مگر اسلام کی قوت بڑھا دی
 
 ۱
-اعزادارو! تمہارے آنسوئوں نے
+عزادارو! تمہارے آنسوؤں نے
 بہشت و خُلد کی قیمت بڑھا دی
 
 ۲
@@ -53,8 +54,8 @@ romanLyrics: |-
 
 ۴
 کہا بانو نے اصغر کی لحد پر
-ہمیں کِس جُر م کی بیٹاسزا دی
+ہمیں کِس جُرم کی بیٹا سزا دی
 
 ۵
-خُدا کے نام پر سرورنے رن میں
+خُدا کے نام پر سرور نے رن میں
 کمائی زندگی بھر کی لُٹا دی
