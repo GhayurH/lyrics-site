@@ -10,49 +10,49 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aaya kya daur e bala haey ashoor ke din
-  Khul gaya baab e jafa haey ashoor ke din
+  Aaya kya daur-e-bala haye Aashur ke din
+  Khul gaya baab-e-jafa haye Aashur ke din
 
   1
   Qatl Zainab ke pisar kar diye jab aada ne
-  Sar kiye tan se juda haey ashoor ke din
+  Sar kiye tan se juda haye Aashur ke din
 
   2
-  Dulha Qasim bin e Farwa o Hassan ka ran may
-  Laasha pamaaal hua haey ashoor ke din
+  Dulha Qasim bin-e-Farwa o Hasan ka ran mein
+  Laasha paamaal hua haye Aashur ke din
 
   3
-  Naujawan baap ki peeri ka sahara Akbar
-  Qatl naize se kiya haey ashoor ke din
+  Naujawaaṅ baap ki piri ka sahaara Akbar
+  Qatl naize se kiya haye Aashur ke din
 
   4
-  Quwwate baazu e Shabbir haram ki dhaaras
-  Qatl darya pe hua haey ashoor ke din
+  Quwwat-e-baazu-e-Shabbir haram ki dhaaras
+  Qatl darya pe hua haye Aashur ke din
 
   5
-  Baap ki goad may cheh maah ke Asghar ka ghazab
-  Teer se halq chida haey ashoor ke din
+  Baap ki god mein chhe maah ke Asghar ka ghazab
+  Tir se halq chhida haye Aashur ke din
 
   6
-  Jab na baaqi rahay ansar o aizza koi
-  Qatl Sarwar ko kiya haey ashoor ke din
+  Jab na baaqi rahe ansaar o aizza koi
+  Qatl Sarwar ko kiya haye Aashur ke din
 
   7
-  Kaat kar gulshane Zehra ko jafakaro ne
-  Loota kar kar ke jafa haey ashoor ke din
+  Kaat kar gulshan-e-Zehra ko jafaakaaroṅ ne
+  Luta kar kar ke jafa haye Aashur ke din
 
   8
-  Sar barehna kiya saydaniyo ko aada ne
-  Cheen kar sar se rida haey ashoor ke din
+  Sar barehna kiya sayyidaaniyoṅ ko aada ne
+  Chhin kar sar se rida haye Aashur ke din
 
   9
-  Jiske durr cheen ke zaalim ne tamchay maare
-  Uska daaman bhi jala haey ashoor ke din
+  Jis ke dur chhin ke zaalim ne tamaache maare
+  Us ka daaman bhi jala haye Aashur ke din
 
   10
-  Gham se phat jayenge seene jo likha tune Anees
-  Nauha e aale aba haey ashoor ke din
-reciter: Tanzeem-ul-Husaini (Nasir Zaidi)
+  Gham se phat jaaeṅ ge sine jo likha tu ne Anees
+  Nauha-e-Aal-e-Aba haye Aashur ke din
+reciter: "Tanzeem-ul-Husaini (Nasir Zaidi), Sajid Jafri"
 # source_id: nohayonline:90b93f357430caa5fe42
 # source_url: https://www.nohayonline.com/details_content.php?id=1681
 # raw_sha256: 57e91db8f0ecdd599036f9bde1e8249fd9495e67cba147c0bbbf2df76ff9fb60
@@ -61,15 +61,15 @@ reciter: Tanzeem-ul-Husaini (Nasir Zaidi)
 # raw_sha256: 13d735cfb45737b513ef263c1158dec9a2b9e352da8fe491ad4055044484c688
 ---
 آیا کیا دورِ بلا ہائے عاشور کے دن
-کھُل گیا بابِ جفا عاشور کے دن
+کھُل گیا بابِ جفا ہائے عاشور کے دن
 
 ۱
-قتل زینب کے پسر کر دیئے جب اعدائ نے
-سر کیئے تن سے جُدا ہائے عاشور کے دن
+قتل زینب کے پسر کر دیے جب اعدا نے
+سر کیے تن سے جُدا ہائے عاشور کے دن
 
 ۲
 دولہا قاسم بنِ فروا و حسن کا رن میں
-لاشہ پامال ہواہائے عاشور کے دن
+لاشہ پامال ہوا ہائے عاشور کے دن
 
 ۳
 نوجواں باپ کی پیری کا سہارا اکبر
@@ -77,28 +77,28 @@ reciter: Tanzeem-ul-Husaini (Nasir Zaidi)
 
 ۴
 قوتِ بازوئے شبیر حرم کی ڈھارس
-قتل دریا پہ ہواہائے عاشور کے دن
+قتل دریا پہ ہوا ہائے عاشور کے دن
 
 ۵
 باپ کی گود میں چھ ماہ کے اصغر کا غضب
-تیر سے حلق چھداہائے عاشور کے دن
+تیر سے حلق چھدا ہائے عاشور کے دن
 
 ۶
-جب نہ باقی رہے انصار و عزا کوئی
-قتل سرور کو کیاہائے عاشور کے دن
+جب نہ باقی رہے انصار و اعزہ کوئی
+قتل سرور کو کیا ہائے عاشور کے دن
 
 ۷
 کاٹ کر گلشنِ زہرا کو جفاکاروں نے
-بھوکا کر کر کے جفاہائے عاشور کے دن
+بھوکا کر کر کے جفا ہائے عاشور کے دن
 
 ۸
 سر برہنہ کیا سیدانیوں کو اعدا نے
-چھین کر سرسے رداہائے عاشور کے دن
+چھین کر سر سے ردا ہائے عاشور کے دن
 
 ۹
 جس کے دُر چھین کے ظالم نے تماچے مارے
-اُس کا دامن بھی جلاہائے عاشور کے دن
+اُس کا دامن بھی جلا ہائے عاشور کے دن
 
 ۱۰
 غم سے پھٹ جائیں گے سینے جو لکھا تُو نے انیس
-نوحہِ آلِ عباہائے عاشور کے دن
+نوحہِ آلِ عبا ہائے عاشور کے دن
