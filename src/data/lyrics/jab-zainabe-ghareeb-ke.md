@@ -1,102 +1,93 @@
 ---
 title: "جب زینب غریب کے رن میں پسر لڑے"
-alternateTitle: "Jab Zainabe Ghareeb Ke"
+alternateTitle: "Jab Zainab-e-Ghareeb Ke Ran Mein Pisar Lare"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Noha"
+kalamType: "Marsiya"
+reciter: "Mustafa Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jab zainab e ghareeb ke ran may pisar lade
-  Tanha lade ye aah wo sab ahle shar lade
-  Kis khoobsurti se ali ke jigar lade
-  Ek shor pad gaya ke ghazab sher e nar lade
+  Jab Zainab-e-Ghareeb ke ran mein pisar lare
+  Tanha lare ye aah wo sab ahl-e-shar lare
+  Kis khubsurti se Ali ke jigar lare
+  Ek shor par gaya ke ghazab sher-e-nar lare
+  Wirsa unheṅ mila hai Janaab-e-Amir ka
+  Ye zor sab hai sher ki beti ke sher ka
 
   1
-  Wirsa inhe mila hai janaab e ameer ka
-  Ye zor sab hai sher ki beti ke sher ka
-  Zainab jo nange paaun khadi thi khareeb e dar
-  Abbas jaake dete thay ye dam badam khabar
+  Zainab jo nange paauṅ khari thi qarib-e-dar
+  Abbas jaa ke dete the ye dam badam khabar
+  Roye na ab huzur muhim ho chuki hai sar
+  Laakhoṅ se lar rahe haiṅ ghazab aap ke pisar
+  Zor aaj phir dikha diya Khaibar kushaai ka
+  Ab to unhiṅ ke haath hai maidaaṅ laraai ka
 
   2
-  Roye na ab huzoor muhim ho chuki hai sar
-  Laakhon se lad rahe hai ghazab aap ke pisar
-  Zor aaj phir dikha diya khyber kushaai ka
-  Ab to inhi ke haath hai maidan ladayi ka
+  Aansu baha ke Bint-e-Ali ne dekha ke aah
+  De aur himmateṅ unheṅ Khallaaq-e-ins o jaaṅ
+  Bachche kahaaṅ hazaaroṅ ka wo maaraka kahaaṅ
+  Kuchh ho unheṅ falak ne na hone diya jawaaṅ
+  Bekas huṅ aur us pe mujhe ehtemaam hai
+  Khaaliq wo de ke jo mere dil ki muraad hai
 
   3
-  Aansu baha ke binte ali ne kaha ke aah
-  De aur himmatein unhein qallaqe ins o jaan
-  Bache kahan hazaron ka wo maareka kahan
-  Kuch ho inhe falak ne na hone diya jawan
+  Bhaiya kuchh apne betoṅ ka mujh ko nahiṅ khayaal
+  Mar jaaye larke ya ke ho taapoṅ se paaymaal
+  Sadqe karuṅ hazaar jo aise hoṅ naunihaal
+  Sab daulateṅ luteṅ pe bache Fatima ka laal
+  Aaye behan pe wo jo balaa un pe aayi ho
+  Dunya mein koi ho ke na ho mera bhai ho
 
   4
-  Bekas hoo aur us pa mujhe ehtemaam hai
-  Khaaliq wo de ke jo mere dil ki muraad hai
-  Bhaiya kuch apne beton ka mujhko nahi khayaal
-  Mar jaye ladke ya ke ho taapon se paemaal
+  Ye zikr tha ke bhai ko Hazrat ne di sada
+  Abbas aao ghir gaye Zainab ke dilruba
+  Daure sada ye sunte hi Abbas-e-baawafa
+  Asnaa-e-raah mein Ali Akbar ne ye kaha
+  Zinda rakha falak ne ye aansu bahaane ko
+  Chaliye huzur jaate haiṅ laashe uthaane ko
 
   5
-  Sadqe karoon hazaar jo aise ho naunehaal
-  Sab daulatein lutein pa bache fatema ka laal
-  Aaye behan pa wo jo balaa un pa aayi ho
-  Dunya may koi ho ke na ho mera bhai ho
+  Pyaari behan ke betoṅ ka dekha jo Shah ne haal
+  Tan chaak chaak hai gul-e-sad barg ki misaal
+  Uljhe haiṅ pech khaaye hue gesuoṅ ke baal
+  Ude haiṅ hoṅt chaand se chehre lahu se laal
+  Maathe hai shaq saroṅ se amaame bhi dur haiṅ
+  Sab chhoti chhoti pasliyaaṅ teghoṅ se chur hai
 
   6
-  Ye zikr tha ke bhai ko hazrat ne di sada
-  Abbas aao ghir gaye zainab ke dilruba
-  Daude sada ye sunte hi abbas e bawafa
-  Asnaa e raah may ali akbar ne ye kaha
+  Chillaaye gardanoṅ ke tale haath de ke Shah
+  Muṅh se milaao muṅh ke mera haal hai tabaah
+  Aankhoṅ mein dam tha bolte kiuṅ kar wo rashk-e-maah
+  Rote the nabz dekh ke Abbas se arsh jaah
+  Dunya se kuch karte the bachche pale hue
+  Haathoṅ mein the Husain ke manke dhale hue
 
   7
-  Zinda rakha falak ne ye aansu bahane ko
-  Chaliye huzoor jaate hai laashe uthaane ko
-  Pyari behan ke beton ka dekha jo sheh ne haal
-  Tan chaak chaak hai gulesadh barg ki misaal
+  Chillaaye ro ke Hazrat-e-Abbas-e-naamwar
+  Chhota tamaam ho gaya ya Shah-e-bahr o bar
+  Hazrat pukaare haath kaleje pe maar kar
+  Haye haye bara bhi mar gaya wiraaṅ hua ye ghar
+  Maaṅ muntazir hai chaak garebaaṅ kiye hue
+  Kis muṅh se jaauṅ khaime mein laashe liye hue
 
   8
-  Uljhe hai paich khaye huwe gaysuwon ke baal
-  Oode hai hont chand se chehre lahoo se laal
-  Maathe hai shaq saron se amaame bhi door hai
-  Sab choti choti phasliyan tayghon se choor hai
+  Kuchh kuchh abhi tha dam ke unheṅ le chale Imam
+  Ek laash ko to aap liye the Shah-e-anaam
+  Aur ek laash Hazrat-e-Abbas-e-nek naam
+  Khaima tha saamne ke bizaaat hui tamaam
+  Jite na pahunche haye ghazab khaima gaah mein
+  Donoṅ saghir mar gaye asnaa-e-raah mein
 
   9
-  Chillaye gardano ke talay haath de ke shaah
-  Moo se milao moo ke mera haal hai tabaah
-  Aankhon may dam tha bolte kyun kar wo rashke maah
-  Rote thay nabz dekh ke abbas se arsh jaah
-
-  10
-  Dunya se kooch karte thay bache pale huwe
-  Haathon may thay hussain ke manke dhale huwe
-  Chillaye roke hazrat e abbas e naamwar
-  Chota tamaam hogaya ya shaah e bahrobar
-
-  11
-  Hazrat pukaare haath kaleje pe maar kar
-  Hae hae bada bhi mar gaya veeran hua ye ghar
-  Maa muntazar hai chaak garebaan kiye huwe
-  Kis moo se jaaun qaime may laashe liye huwe
-
-  12
-  Kuch kuch abhi tha dam ke unhe le chale imam
-  Ek laash ko to aap liye thay shah e anaam
-  Aur ek laash hazrat e abbas e nek naam
-  Qaima tha saamne ke biza'at hui tamaam
-
-  13
-  Jeete na pahunche haye ghazab qaima gaah may
-  Dono sagheer mar gaye asnaa e raah may
-  Zainab ke dil ko hogayi waan khud bakhud khabar
-  Jaa baithi aap matami saf par jhuka ke sar
-
-  14
-  Laaye hussain dono ke laashe lahoo may tar
-  Farmaya haye lut gaya bekas behan ka ghar
-  Do khanjar ek baar kaleje pa chal gaye
-  Aaye thay tum se milne ko par dam nikal gaye
+  Zainab ke dil ko ho gayi waaṅ khud ba khud khabar
+  Jaa baithi aap maatami saf par jhuka ke sar
+  Laaye Husain donoṅ ke laashe lahu mein tar
+  Farmaaya haye lut gaya bekas behan ka ghar
+  Do khanjar ek baar kaleje pe chal gaye
+  Aaye the tum se milne ko par dam nikal gaye
 # source_id: nohayonline:9ae5ef8af9e09bc15103
 # source_url: https://www.nohayonline.com/content_marsiya.php?id=16
 # raw_sha256: 04fbe9b28d1836238b18002e7cfd2fad9c294be275bfb617ae8d70b05d70d0de
@@ -104,88 +95,78 @@ romanLyrics: |-
 جب زینب غریب کے رن میں پسر لڑے
 تنہا لڑے یہ آہ وہ سب اہلِ شر لڑے
 کس خوبصورتی سے علی کے جگر لڑے
-اک شور پڑ گیا کے غضب شیر نر لڑے
-
-۱
+اک شور پڑ گیا کہ غضب شیر نر لڑے
 ورثہ انہیں ملا ہے جناب امیر کا
 یہ زور سب ہے شیر کی بیٹی کے شیر کا
+
+۱
 زینب جو ننگے پاؤں کھڑی تھی قریب در
 عباس جا کے دیتے تھے یہ دم بدم خبر
-
-۲
-روے نہ اب حضور محم ہو چکی ہے سر
+روئے نہ اب حضور مہم ہو چکی ہے سر
 لاکھوں سے لڑ رہے ہیں غضب آپ کے پسر
 زور آج پھر دکھا دیا خیبر کشائی کا
 اب تو انہیں کے ہاتھ ہے میداں لڑائی کا
 
-۳
-آنسوں بہا کے بنت علی نے دیکھا کہ آہ
+۲
+آنسو بہا کے بنت علی نے دیکھا کہ آہ
 دے اور ہمتیں انہیں خلاق انس و جاں
-بچے کہاں ہزاروں کا وہ مارکعہ کہاں
+بچے کہاں ہزاروں کا وہ معرکہ کہاں
 کچھ ہو انہیں فلک نے نہ ہونے دیا جواں
-
-۴
 بیکس ہوں اور اس پہ مجھے اہتمام ہے
 خالق وہ دے کہ جو میرے دل کی مراد ہے
-بھیا کچھ اپنے بیٹوں کا مجھکو نہیں خیال
-مر جاۓ لڑکے یا کہ ہو ٹاپوں سے پایمال
 
-۵
+۳
+بھیا کچھ اپنے بیٹوں کا مجھ کو نہیں خیال
+مر جائے لڑکے یا کہ ہو ٹاپوں سے پایمال
 صدقے کروں ہزار جو ایسے ہوں نونہال
 سب دولتیں لٹیں پہ بچے فاطمہ کا لال
-آے بہن پہ وہ جو بلا ان‌ پہ آی ہو
-دنیا میں کوئی ہو کہ نہ ہو میرا بھای ہو
+آئے بہن پہ وہ جو بلا ان پہ آئی ہو
+دنیا میں کوئی ہو کہ نہ ہو میرا بھائی ہو
 
-۶
-یہ ذکر تھا کہ بھای کو حضرت نے دی صدا
-عباس آؤ گھر گےء زینب کے دلربا
+۴
+یہ ذکر تھا کہ بھائی کو حضرت نے دی صدا
+عباس آؤ گھر گئے زینب کے دلربا
 دوڑے صدا یہ سنتے ہی عباس با وفا
-اثناے راہ میں علی اکبر نے یہ کہا
+اثنائے راہ میں علی اکبر نے یہ کہا
+زندہ رکھا فلک نے یہ آنسو بہانے کو
+چلیے حضور جاتے ہیں لاشے اٹھانے کو
 
-۷
-زندہ رکھا فلک نے یہ آنسوں بہانے کو
-چلےء حضور جاتے ہیں لاشے اٹھانے کو
+۵
 پیاری بہن کے بیٹوں کا دیکھا جو شہ نے حال
 تن چاک چاک ہے گل صد برگ کی مثال
-
-۸
-الجھے ہیں پیچ کھاے ہوے گیسوؤں کے بال
+الجھے ہیں پیچ کھائے ہوئے گیسوؤں کے بال
 اودے ہیں ہونٹ چاند سے چہرے لہو سے لال
 ماتھے ہے شق سروں سے عمامے بھی دور ہیں
 سب چھوٹی چھوٹی پسلیاں تیغوں سے چور ہے
 
-۹
-چلاے گردنوں کے تلے ہاتھ دے کے شاہ
+۶
+چلائے گردنوں کے تلے ہاتھ دے کے شاہ
 منہ سے ملاؤ منہ کہ میرا حال ہے تباہ
-آنکھوں میں دم‌ تھا بولتے کیوں کر وہ رشک ماہ
+آنکھوں میں دم تھا بولتے کیوں کر وہ رشک ماہ
 روتے تھے نبض دیکھ کے عباس عرش جاہ
+دنیا سے کوچ کرتے تھے بچے پلے ہوئے
+ہاتھوں میں تھے حسین کے منکے ڈھلے ہوئے
 
-۱۰
-دنیا سے کوچ کرتے تھے بچے پلے ہوے
-ہاتھوں میں تھے حسین کے منکے ڈھلے ہوے
-چلاے روکے حضرت عباس نامور
-چھوٹا تمام ہو گیا یا شاہ بحروبر
-
-۱۱
+۷
+چلائے رو کے حضرت عباس نامور
+چھوٹا تمام ہو گیا یا شاہ بحر و بر
 حضرت پکارے ہاتھ کلیجے پہ مار کر
-ہاے ہاے بڑا بھی مر گیا ویراں ہوا یہ گھر
-ماں منتظر ہے چاک گریباں کیےء ہوے
-کس منہ سے جاؤں خیمے میں لاشے لیےء ہوے
+ہائے ہائے بڑا بھی مر گیا ویراں ہوا یہ گھر
+ماں منتظر ہے چاک گریباں کیے ہوئے
+کس منہ سے جاؤں خیمے میں لاشے لیے ہوئے
 
-۱۲
+۸
 کچھ کچھ ابھی تھا دم کہ انہیں لے چلے امام
-اک لاش کو تو آپ لیےء تھے شہ انام
+اک لاش کو تو آپ لیے تھے شہ انام
 اور ایک لاش حضرت عباس نیک نام
-خیمہ تھا سامنے کہ بضاعت ہوی تمام
+خیمہ تھا سامنے کہ بضاعت ہوئی تمام
+جیتے نہ پہنچے ہائے غضب خیمہ گاہ میں
+دونوں صغیر مر گئے اثنائے راہ میں
 
-۱۳
-جیتے نہ پہنچے ہاے غضب خیمہ گاہ میں
-دونوں صغیر مر گےء اثناے راہ میں
-زینب کے دل کو ہو گیء واں خود بہ خود خبر
+۹
+زینب کے دل کو ہو گئی واں خود بہ خود خبر
 جا بیٹھی آپ ماتمی صف پر جھکا کے سر
-
-۱۴
-لاے حسین دونوں کے لاشے لہو میں تر
-فرمایا ہاے لٹ گیا بیکس بہن کا گھر
-دو خنجر ایک بار کلیجے پہ چل گےء
-آے تھے تم سے ملنے کو پر دم نکل گےء
+لائے حسین دونوں کے لاشے لہو میں تر
+فرمایا ہائے لٹ گیا بیکس بہن کا گھر
+دو خنجر ایک بار کلیجے پہ چل گئے
+آئے تھے تم سے ملنے کو پر دم نکل گئے

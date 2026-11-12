@@ -5,16 +5,18 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sibte Jafar"
+sixVerseLayout: "pairs"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jab yazeed apne gunahon se pasheman hua
-  Has ke pehle siffat e zakhm e bo ke yan hua
-  Subh kaazib ki tarha chaak gareban hua
-  Kul ki shehzadiyon ke chutne ka samaan hua
-  Ek taraf saamne darbar may haddaad aaye
-  Ek taraf bediyan pehne huwe sajjad aaye
+  Jab Yazid apne gunaahoṅ se pashemaan hua
+  Haṅs ke pehle sifat-e-zakhm-e-bo ke yaaṅ hua
+  Subh-e-kaazib ki tarah chaak garebaan hua
+  Kul ki shehzaadiyoṅ ke chhutne ka saamaan hua
+  Ek taraf saamne darbaar mein haddaad aaye
+  Ek taraf beriyaaṅ pehne hue Sajjad aaye
 # source_id: nohayonline:5cb436579693ad7983a0
 # source_url: https://www.nohayonline.com/details_content.php?id=2723
 # raw_sha256: a155202dbbc6b5e6f36e2f4f5168e383c666249ca37f99f71020b8ff860a2f40
@@ -23,5 +25,5 @@ romanLyrics: |-
 ہنس کے پہلے صفت زخم بو کے یاں ہوا
 صبح کاذب کے طرح چاک گریبان ہوا
 کل کی شہزادیوں کے چھٹنے کا سامان ہوا
-اک طرف سامنے دربار میں حداد آے
-ایک طرف بیڑیاں پہنے ہوے سجاد آے
+اک طرف سامنے دربار میں حداد آئے
+ایک طرف بیڑیاں پہنے ہوئے سجاد آئے
