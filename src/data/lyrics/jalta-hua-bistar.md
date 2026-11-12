@@ -6,36 +6,37 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Kaleem Zafar"
+reciter: "Mukhtar Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jalta hua bistar koi beemar na dekhe
-  Be-jurm o khata tauq e girabaar na dekhe
+  Jalta hua bistar koi bimaar na dekhe
+  Bejurm o khata tauq-e-giraaṅ baar na dekhe
 
   1
-  Mar jaaye na sadme hi se beemar ilaahi
-  Be parda haram ko sar e bazaar na dekhe
+  Mar jaaye na sadme hi se bimaar Ilaahi
+  Beparda haram ko sar-e-baazaar na dekhe
 
   2
-  Maango ye duayein shab e ashoor sakina
-  Ye raat kabhi subho ke aasaar na dekhe
+  Maaṅgo ye duaaeiṅ shab-e-Aashur Sakina
+  Ye raat kabhi subh ke aasaar na dekhe
 
   3
-  Thi fikr ye zainab ko rida bhi nahi sar par
-  Is haal may abbas e alamdaar na dekhe
+  Thi fikr ye Zainab ko rida bhi nahiṅ sar par
+  Is haal mein Abbas Alamdaar na dekhe
 
   4
-  Sar naize se ghazi ne giraya hai zameen par
+  Sar naize se Ghaazi ne giraaya hai zamiṅ par
   Zainab ka khula sar koi badkaar na dekhe
 
   5
-  Maare hai sitamgar ne sakina ko tamache
-  Zaalim ne zara phool se rukhsaar na dekhe
+  Maare haiṅ sitamgar ne Sakina ko tamaaṅche
+  Zaalim ne zara phul se rukhsaar na dekhe
 
   6
-  Milti hai kaleem usko sakina se duayein
-  Bachon ko jo be-yaar o madadgaar na dekhe
+  Milti hai Kalim us ko Sakina se duaaeiṅ
+  Bachchoṅ ko jo beyaar o madadgaar na dekhe
 # source_id: nohayonline:6ad04f4dbb38b41ad3fe
 # source_url: https://www.nohayonline.com/details_content.php?id=1430
 # raw_sha256: 4cd40d62c20493a5fa784a61125448e594df268448f7a9d771667bdfd8e77e94
@@ -44,7 +45,7 @@ romanLyrics: |-
 بے جرم و خطا طوقِ گراں بار نہ دیکھے
 
 ۱
-مر جاۓ نہ صدمے ہی سے بیمار الہی
+مر جائے نہ صدمے ہی سے بیمار الہی
 بے پردہ حرم کو سر بازار نہ دیکھے
 
 ۲
@@ -61,8 +62,8 @@ romanLyrics: |-
 
 ۵
 مارے ہیں ستمگر نے سکینہ کو طمانچے
-ظالم نے زرا پھول سے رخسار نہ دیکھے
+ظالم نے ذرا پھول سے رخسار نہ دیکھے
 
 ۶
-ملتی ہے کلیم اسکو سکینہ سے دعائیں
+ملتی ہے کلیم اس کو سکینہ سے دعائیں
 بچوں کو جو بے یار و مددگار نہ دیکھے
