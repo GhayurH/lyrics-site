@@ -1,49 +1,50 @@
 ---
 title: "جھولا ہے یا تابوت تمہارا علی اصغر"
-alternateTitle: "Jhoola Hai Ya Taboot"
+alternateTitle: "Jhula Hai Ya Taabut"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
-aliases: []
+aliases: ["Jhoola Hai Ya Taboot"]
 published: false
 romanLyrics: |-
-  Jhoola hai ya taboot tumhara ali asghar
-  Maadar ke labon par hai ye nauha ali asghar
+  Jhula hai ya taabut tumhaara Ali Asghar
+  Maadar ke laboṅ par hai ye nauha Ali Asghar
 
   1
-  Pehlu may mere aaj se soyegi sakina
-  Tum baap ki aaghosh may sona ali asghar
+  Pehlu mein mere aaj se soegi Sakina
+  Tum baap ki aaghosh mein sona Ali Asghar
 
   2
-  Sar saare shaheedon ke uthe naizon pe lekin
-  Utha tera naize pe janaza ali asghar
+  Sar saare shahidoṅ ke uthe nezoṅ pe lekin
+  Utha tera neze pe janaaza Ali Asghar
 
   3
-  Us waqt sakina bhi khadi dekh rahi thi
-  Naizon ne jo dhoonda tera laasha ali asghar
+  Us waqt Sakina bhi khari dekh rahi thi
+  Nezoṅ ne jo dhunda tera laasha Ali Asghar
 
   4
-  Is tarha se ruqsaar tere khoon may tar thay
-  Maa dekh na paayi tera chehra ali asghar
+  Is tarah se rukhsaar tere khun mein tar the
+  Maaṅ dekh na paai tera chehra Ali Asghar
 
   5
-  Mohsin ka unhe dijiyo pursa mere beta
-  Jab godh may lengi tujhe zahra ali asghar
+  Mohsin ka unheṅ dijiyo pursa mere beta
+  Jab god mein leṅ gi tujhe Zahra Ali Asghar
 
   6
-  Laayi hoo teri qabr se maula ko utha kar
-  Uth'te hi nahi thay shahe waala ali asghar
+  Laai huṅ teri qabr se Maula ko utha kar
+  Uthte hi nahiṅ the Shah-e-Waala Ali Asghar
 
   7
-  Akbar na sula payenge tum zid nahi karna
-  Seene ka abhi zakhm hai taaza ali asghar
+  Akbar na sula paaeṅ ge tum zid nahiṅ karna
+  Sine ka abhi zakhm hai taaza Ali Asghar
 
   8
-  Maa boli takallum mujhe maare gaye pathar
-  Ummat ne diya yun tera pursa ali asghar
+  Maaṅ boli Takallum mujhe maare gae patthar
+  Ummat ne diya yuṅ tera pursa Ali Asghar
 # source_id: nohayonline:7c3eaa1c061cb44658f6
 # source_url: https://www.nohayonline.com/details_content.php?id=1623
 # raw_sha256: 81846d4ee2a279e6f7fbcccc5c70c3c0e5eadf1dfcf90ce079667ce588cf40a6
@@ -52,7 +53,7 @@ romanLyrics: |-
 مادر کے لبوں پر ہے یہ نوحہ علی اصغر
 
 ۱
-پہلو میں میرے آج سے سوے گی سکینہ
+پہلو میں میرے آج سے سوئے گی سکینہ
 تم باپ کی آغوش میں سونا علی اصغر
 
 ۲
@@ -65,20 +66,20 @@ romanLyrics: |-
 
 ۴
 اس طرح سے رخسار تیرے خون میں تر تھے
-ماں دیکھ نہ پای تیرا چہرہ علی اصغر
+ماں دیکھ نہ پائی تیرا چہرہ علی اصغر
 
 ۵
 محسن کا انہیں دیجیو پرسہ میرے بیٹا
 جب گود میں لیں گی تجھے زہرا علی اصغر
 
 ۶
-لای ہوں تیری قبر سے مولا کو اٹھا کر
+لائی ہوں تیری قبر سے مولا کو اٹھا کر
 اٹھتے ہی نہیں تھے شہ والا علی اصغر
 
 ۷
-اکبر نہ سلا پاےنگے تم ضد نہیں کرنا
+اکبر نہ سلا پائیں گے تم ضد نہیں کرنا
 سینے کا ابھی زخم ہے تازہ علی اصغر
 
 ۸
-ماں بولی تکلم مجھے مارے گۓ پتھر
+ماں بولی تکلم مجھے مارے گئے پتھر
 امت نے دیا یوں تیرا پرسہ علی اصغر
