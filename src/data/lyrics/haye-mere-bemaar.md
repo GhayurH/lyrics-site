@@ -5,65 +5,66 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye mera bemaar imam
-  
+  Haye mera bimaar Imam
+
   1
-  Baad e qatle shaahe anaam
+  Baad-e-qatl-e-Shaah-e-anaam
   Haye re ghurbat ki wo shaam
-  Ghash mein pada hai tashnakaam
-  Hojaye gham se na tamaam
-  
+  Ghash meiṅ para hai tashnakaam
+  Ho jaaye gham se na tamaam
+
   2
-  Durre hai tazeerein hai
-  Paon mein zanjeerein hai
-  Haath mein taqdeerein hai
+  Durre haiṅ taazireṅ haiṅ
+  Paoṅ meiṅ zanjireṅ haiṅ
+  Haath meiṅ taqdireṅ haiṅ
   Chalna hai mushkil do gaam
-  
+
   3
-  Zakhm lahoo barsaata hai
-  Dil hai ke chalka aata hai
+  Zakhm lahu barsaata hai
+  Dil hai ke chhalka aata hai
   Durre khaata jaata hai
   Lamha lamha gaam ba gaam
-  
+
   4
-  Bughz o hasad se keeno se
-  Lau dete huwe seeno se
-  Kalma go be-deeno se
-  Chalta hua bazaare shaam
-  
+  Bughz o hasad se kinoṅ se
+  Lau dete hue sinoṅ se
+  Kalma go bedinoṅ se
+  Chalta hua bazaar-e-Shaam
+
   5
-  Maa'on behno ke chehre
-  Baalon ke peeche hai chupe
-  Haath bandhe hai sar hai khule
-  Saamne hai ek majmeine aam
-  
+  Maaoṅ behnoṅ ke chehre
+  Baaloṅ ke pichhe haiṅ chhupe
+  Haath bandhe haiṅ sar haiṅ khule
+  Saamne hai ek majma-e-aam
+
   6
-  Majma saara hasta hai
+  Majma saara haṅsta hai
   Dil ka zehr ugalta hai
-  Khoon ke aansu rota hai
-  Sar ko jhukaye tashnakaam
-  
+  Khun ke aaṅsu rota hai
+  Sar ko jhukaaye tashnakaam
+
   7
-  Kalmagoyo ka majma
-  Aur payambar ka kunba
-  Haif hai sar nange hai khada
-  Aaj sar e darbare shaam
-  
+  Kalma goyoṅ ka majma
+  Aur Paighambar ka kunba
+  Haif hai sar nange hai khara
+  Aaj sar-e-darbaar-e-Shaam
+
   8
-  Teer sa dil pe lagta hai
-  Ek rasan mein basta hai
-  Shimr e sitamgar hasta hai
+  Tir sa dil pe lagta hai
+  Ek rasan meiṅ basta hai
+  Shimr-e-sitamgar haṅsta hai
   Le le kar ek ek ka naam
-  
+
   9
-  Umme rabab ye laila hai
-  Ye kulsoom ye kubra hai
-  Ye masoom sakina hai
-  Aur hai zainab iska naam
+  Umm-e-Rabaab ye Laila hai
+  Ye Kulsum ye Kubra hai
+  Ye maasum Sakina hai
+  Aur hai Zainab is ka naam
 # source_id: nohayonline:57edbf25444795c5ca1b
 # source_url: https://www.nohayonline.com/details_content.php?id=525
 # raw_sha256: 5334257631485c3eab9da6b05ef238d4d01ff8b23025804a1d687b6ceae60f1f
@@ -78,8 +79,8 @@ romanLyrics: |-
 ہو جائے غم سے نہ تمام
 
 ۲
-دُرے ہیں تعزیرے ہیں
-پائو ں میں زنجیریں ہیں
+دُرے ہیں تعزیریں ہیں
+پاؤں میں زنجیریں ہیں
 ہاتھ میں تقدیریں ہیں
 چلنا ہے مشکل دو گام
 
@@ -96,27 +97,27 @@ romanLyrics: |-
 چلتا ہوا بازارِ شام
 
 ۵
-مائوں بہنوں کے چہرے
+ماؤں بہنوں کے چہرے
 بالوں کے پیچھے ہیں چھُپے
 ہاتھ بندھے ہیں سر ہیں کُھلے
 سامنے ہے ایک مجمعِ عام
 
 ۶
-مجمع سارا ہستا ہے
+مجمع سارا ہنستا ہے
 دل کا زہر اُگلتا ہے
 خون کے آنسُو روتا ہے
 سر کو جُھکائے تشنہ کام
 
 ۷
 کلمہ گویوں کا مجمع
-اور پیعمبر کا کُنبہ
+اور پیغمبر کا کُنبہ
 ہے بشر ننگے ہے کھڑا
-آج سرے دربارِ شام
+آج سرِ دربارِ شام
 
 ۸
 سیسہ دل پہ لگتا ہے
-ایک رسن میںبستا ہے
-شمر ستمگر ہستا ہے
+ایک رسن میں بستا ہے
+شمر ستمگر ہنستا ہے
 لے لے کر ایک ایک کا نام
 
 ۹
