@@ -1,58 +1,59 @@
 ---
 title: "حسین و منی وانا من الحسین"
-alternateTitle: "Hussain O Minni"
+alternateTitle: "Husain O Minni"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nusrat"
+reciter: "Mesum Abbas"
 tags: ["noImage"]
-aliases: []
+aliases: ["Hussain O Minni"]
 published: false
 romanLyrics: |-
-  Hussain o minni wa ana minal hussain
-  
+  Husain o minni wa ana minal Husain
+
   1
-  Ek roz ka sunate hai hum tum ko waqeya
-  Baithe huwe zameen pe thay sardar e ambiya
-  Ek zaanu pe hassan thay to ek zaanu pe hussain
-  Hukme khuda se kehte hai sarkar e mashraqain
-  
+  Ek roz ka sunaate haiṅ hum tum ko waaqia
+  Baithe hue zamin pe the Sardaar-e-Ambiya
+  Ek zaanu pe Hasan the to ek zaanu pe Husain
+  Hukm-e-Khuda se kehte haiṅ Sarkaar-e-Mashraqain
+
   2
-  Jis dum suna ye waqeya zehra ne baap se
-  Poocha ye kaun saath mein hoga hussain ke
-  Koi na hoga fatema khoon asmaan royega
-  Khanjar ke neeche hoga jab ye mere dil ka chain
-  
+  Jis dam suna ye waaqia Zehra ne baap se
+  Puchha ye kaun saath mein hoga Husain ke
+  Koi na hoga Fatema khuṅ aasmaaṅ royega
+  Khanjar ke niche hoga jab ye mere dil ka chain
+
   3
-  Zehra ka rona dekhiye paighambar e khuda
-  Jo hukm hai khuda ka wo batlaiye zara
+  Zehra ka rona dekhiye Paighambar-e-Khuda
+  Jo hukm hai Khuda ka wo batlaaiye zara
   Ek qaum aisi hogi jo royegi tere laal ko
-  Hoga karam khuda ka bas us par zeb o zain
-  
+  Hoga karam Khuda ka bas us par zeb o zain
+
   4
-  Asghar ko dafn kar ke jab uthe shahe huda
-  Karbobala ki jang ka naksha palat diya
-  Ghabra rahe thay sab layeen chilla rahe thay ahle keen
-  Lagta tha jaise aa gaye ay faatahe hunain
-  
+  Asghar ko dafn kar ke jab uthe Shaah-e-Huda
+  Karbobala ki jang ka naqsha palat diya
+  Ghabra rahe the sab laiṅ chilla rahe the ahl-e-kiṅ
+  Lagta tha jaise aa gaye ae Faateh-e-Hunain
+
   5
-  Maula hussain karte thay khaliq se ye dua
-  Zainab ko sabr dena tu hai meri ilteja
-  Quran ki tarjumaan hai ye deen ki paasban hai
-  Sun kar ye shams ne kiya ro ro ke shor o shain
-  
+  Maula Husain karte the Khaaliq se ye dua
+  Zainab ko sabr dena tu hai meri iltija
+  Quraaṅ ki tarjumaan hai ye diṅ ki paasbaaṅ hai
+  Sun kar ye Shams ne kiya ro ro ke shor o shain
+
   6
-  Sar ko utha ke fakhr se jibreel ne kaha
+  Sar ko utha ke fakhr se Jibril ne kaha
   Bachpan mein jo kiya tha wo waada nibha diya
-  Deen e khuda ke waaste sher e khuda ke laal ne
-  Sajde mein sar sar kata diya zehra ka noor e ain
-  
+  Din-e-Khuda ke waaste Sher-e-Khuda ke laal ne
+  Sajde mein sar sar kata diya Zehra ka nur-e-ain
+
   7
-  Rumaal le ke aayi hai majlis mein sayyeda
-  Meesum aza ki bazm mein tu marsiya suna
-  Nusrat gunahgaar hai par tera soghwaar hai
-  Mehshar mein bakhshwana tum maula mere hussain
+  Rumaal le ke aayi hai majlis mein Sayyeda
+  Misam aza ki bazm mein tu marsiya suna
+  Nusrat gunaahgaar hai par tera sogwaar hai
+  Mahshar mein bakhshwaana tum Maula mere Husain
 # source_id: nohayonline:4569e37934a5606d2f40
 # source_url: https://www.nohayonline.com/details_content.php?id=3709
 # raw_sha256: a3d9b9c4dc67a0f7b883a4b2f546487d33ba0cc74b0162b0fc31e6e22690591e
@@ -69,17 +70,17 @@ romanLyrics: |-
 ۲
 جس دم سنا یہ واقعہ زہرا نے باپ سے
 پوچھا یہ کون ساتھ میں ہوگا حسین کے
-کوئی نہ ہوگا فاطمہ خوں آسماں روے گا
+کوئی نہ ہوگا فاطمہ خوں آسماں روئے گا
 خنجر کے نیچے ہوگا جب یہ میرے دل کا چین
 
 ۳
-زہرا کا رونا دیکھیےء پیغمبر خدا
-جو حکم ہے خدا کا وہ بتلایےء زرا
-ایک قوم ایسی ہوگی جو روے گی تیرے لال کو
+زہرا کا رونا دیکھیے پیغمبر خدا
+جو حکم ہے خدا کا وہ بتلائیے ذرا
+ایک قوم ایسی ہوگی جو روئے گی تیرے لال کو
 ہوگا کرم خدا کا بس اس پر زیب و زین
 
 ۴
-اصغر کو دفن کر کے جب اٹھے شہ ہدا
+اصغر کو دفن کر کے جب اٹھے شہ ہدیٰ
 کربوبلا کی جنگ کا نقشہ پلٹ دیا
 گھبرا رہے تھے سب لعیں چلا رہے تھے اہل کیں
 لگتا تھا جیسے گےء اے فاتح حنین
@@ -91,7 +92,7 @@ romanLyrics: |-
 سن کر یہ شمس نے کیا رو رو کے شور و شین
 
 ۶
-سر کو اٹھا کے فخر سے جبرییل نے کہا
+سر کو اٹھا کے فخر سے جبریل نے کہا
 بچپن میں جو کیا تھا وہ وعدہ نبھا دیا
 دین خدا کے واسطے شیر خدا کے لال نے
 سجدے میں سر سر کٹا دیا زہرا کا نورِ عین

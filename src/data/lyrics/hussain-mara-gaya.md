@@ -1,60 +1,61 @@
 ---
 title: "فرماتی ہے یہ حضرتِ سلمہ جگر فگار"
-alternateTitle: "Hussain Mara Gaya"
+alternateTitle: "Husain Maara Gaya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ainee Rizvi"
+reciter: "Shadman Raza"
 tags: ["noImage"]
-aliases: []
+aliases: ["Hussain Mara Gaya"]
 published: false
 romanLyrics: |-
-  Farmati hai ye hazrate salma jigar figaar
-  Ek roz mere khwaab mein aaye falak waqar
-  Chehra tha zard ranj se aankhein thi ashk baar
-  Ammama tha galay mein phata sar pe thi ghubar
-  Maine kaha tadap ke ay sultan e ambiya
+  Farmaati hai ye Hazrat-e-Salma jigar figaar
+  Ek roz mere khwaab mein aaye falak waqaar
+  Chehra tha zard ranj se aankheiṅ thi ashk baar
+  Amaama tha gale mein phata sar pe thi ghubaar
+  Main ne kaha tarap ke ae Sultaan-e-Ambiya
   Ye haal kaisa aap ne apna bana liya
-  Kaisi padi hui hai ye chehre pe khaak o dhool
-  Haathon se moo ko peet ke kehne lage rasool
+  Kaisi pari hui hai ye chehre pe khaak o dhul
+  Haathoṅ se muṅh ko pit ke kehne lage Rasul
 
   Kund khanjar se sar utaara gaya
-  Umme salma hussain maara gaya
+  Umm-e-Salma Husain maara gaya
 
   1
-  Aa raha hoon zameen e karbal se
+  Aa raha huṅ zamin-e-Karbal se
   Chain sabr o qaraar saara gaya
 
   2
-  Jis ko apni zuban chusata tha
-  Pyasa dunya se wo dulaara gaya
+  Jis ko apni zubaaṅ chusaata tha
+  Pyaasa duniya se wo dulaara gaya
 
   3
-  Rota zahra ko chod aaya hoon
-  Mujhse dekha na wo nazara gaya
+  Rota Zahra ko chhor aaya huṅ
+  Mujh se dekha na wo nazaara gaya
 
   4
-  Teen din ka wo bhooka pyasa tha
-  Jis ghadi tan se sar utaara gaya
+  Tin din ka wo bhuka pyaasa tha
+  Jis ghari tan se sar utaara gaya
 
   5
   Sau jagah se jo chaak tha kurta
-  Khaynch kar jism se utaara gaya
+  Khench kar jism se utaara gaya
 
   6
-  Looti angushtari kisi ne abaa
+  Luti angushtari kisi ne abaa
   Le ke asbaab koi saara gaya
 
   7
-  Ainee likho ke khoon e asghar se
-  Shadmam deen ko sawara gaya
+  Aini likho ke khun-e-Asghar se
+  Shaadmaaṅ din ko sanwaara gaya
 # source_id: nohayonline:9733f41901822337cfbf
 # source_url: https://www.nohayonline.com/details_content.php?id=3070
 # raw_sha256: 22651a5145cb686fbec46e6bc018c81705b625e68d45ffb9ecbdc0ddf3b06479
 ---
 فرماتی ہے یہ حضرتِ سلمہ جگر فگار
-ایک روز میرے خواب میں آے فلک وقار
+ایک روز میرے خواب میں آئے فلک وقار
 چہرہ تھا زرد رنج سے آنکھیں تھی اشک بار
 عمامہ تھا گلے میں پھٹا سر پہ تھی غبار
 میں نے کہا تڑپ کے اے سلطان انبیاء
@@ -87,7 +88,7 @@ romanLyrics: |-
 
 ۶
 لوٹی انگشتری کسی نے عبا
-لے کے اسباب کوی سارا گیا
+لے کے اسباب کوئی سارا گیا
 
 ۷
 عینی لکھو کہ خون اصغر سے
