@@ -1,70 +1,71 @@
 ---
 title: "حیٰ علٰی خیرالعمل"
-alternateTitle: "Haya Ala Qairil Amal"
+alternateTitle: "Hayya Ala Khairil Amal"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Sachey Bhai"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haya ala qairil amal
+  Hayya ala khairil amal
 
   1
-  Hai waqt abhi nadaan sambhal
-  Khudrat ka hai kanoon atal
-  Meezane muwaddat par kal ko
-  Tul jaayega ek ek amal
+  Hai waqt abhi naadaan sambhal
+  Qudrat ka hai qaanun atal
+  Mizaan-e-mawaddat par kal ko
+  Tul jaaye ga ek ek amal
 
   2
-  Wo sehra wo awaaze azan
-  Maulayi ke ahdo paymaan
-  Chauda sau baras guzre ab tak
-  Deta hai sada qum ka maidan
+  Wo sehra wo aawaaz-e-azaan
+  Maulaai ke ahd o paimaan
+  Chaudah sau baras guzre ab tak
+  Deta hai sada Khum ka maidaan
 
   3
-  Mai jiska maula hoo uska
-  Hai mera baad ali maula
-  Paalane shutar ke mimbar se
-  Dete hai sada mehboobe khuda
+  Main jis ka maula huṅ us ka
+  Hai mere baad Ali maula
+  Paalaan-e-shutar ke mimbar se
+  Dete haiṅ sada mahbub-e-Khuda
 
   4
-  Kaandhon pe ali haaton pe ali
+  Kaandhoṅ pe Ali haathoṅ pe Ali
   Kaabe mein kabhi mimbar se kabhi
-  Aalam ko nabi e akram ne
-  Batlaya ye hai mera wasi
+  Aalam ko Nabi-e-Akram ne
+  Batlaaya ye hai mera wasi
 
   5
   Zaahir mein kabhi baatin mein kabhi
-  Andaz wohi atvaar wohi
-  Ye bughze ali ki bemaari
+  Andaaz wohi atwaar wohi
+  Ye bughz-e-Ali ki bimaari
   Is waqt bhi hai us waqt bhi thi
 
   6
   Jangal jangal sehra sehra
-  Basti basti khariya khariya
-  Aalam mein payame haq ban kar
-  Goonjegi qayamat tak ye sada
+  Basti basti kariya kariya
+  Aalam mein payaam-e-haq ban kar
+  Gunje gi qayaamat tak ye sada
 
   7
-  Har soo na bhatak har dar pe na ja
-  Kyun phirta hai maara maara
-  Ab bhi hai khuli haq ki raahein
-  Deti hai sadaye karbobala
+  Har su na bhatak har dar pe na jaa
+  Kiuṅ phirta hai maara maara
+  Ab bhi haiṅ khuli haq ki raaheṅ
+  Deti hai sada ye Karb o Bala
 
   8
-  Subhe ashoor jab aati hai
-  Tareekh e wafa dohrati hai
-  Har saal zameen e aalam ko
-  Paigham yehi de jaati hai
+  Subh-e-Aashur jab aati hai
+  Taarikh-e-wafa dohraati hai
+  Har saal zamin-e-aalam ko
+  Paighaam yehi de jaati hai
 
   9
-  Hai subhe dahum mehshar hai ayan
-  Saf baandhe khade hai peer o jawan
-  Dil kaamp uthe jis waqt goonji
-  Maqtal mein ali akbar ki azan
+  Hai subh-e-dahum mahshar hai ayaaṅ
+  Saf baandhe khare haiṅ pir o jawaaṅ
+  Dil kaanp uthe jis waqt gunji
+  Maqtal mein Ali Akbar ki azaaṅ
 # source_id: nohayonline:611b9d9e11a3846da0bc
 # source_url: https://www.nohayonline.com/details_content.php?id=155
 # raw_sha256: 263aa8b5491635b2dacd43417529251de9ce9a22b0af961d46cdfe599ab74df6
@@ -78,7 +79,7 @@ romanLyrics: |-
 تُل جائے گا ایک ایک عمل
 
 ۲
-وہ صحرا وہ آوازِاذان
+وہ صحرا وہ آوازِ اذان
 مولائی کے عہد و پیمان
 چودہ سو برس گزرے اب تک
 دیتا ہے صدا خُم کا میدان
@@ -109,7 +110,7 @@ romanLyrics: |-
 
 ۷
 ہر سُو نہ بھٹک ہر در پہ نہ جا
-کیوں پھرتا ہے مارامارا
+کیوں پھرتا ہے مارا مارا
 اب بھی ہیں کُھلی حق کی راہیں
 دیتی ہے صدا یہ کرب و بلا
 
