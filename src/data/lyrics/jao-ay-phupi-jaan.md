@@ -1,73 +1,87 @@
 ---
 title: "دیتی تھی صدا قبر سے شبیر کی دختر"
-alternateTitle: "Jao Ay Phupi Jaan"
+alternateTitle: "Jaao Ae Phuphi Jaaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Waiz Sultanpuri"
+reciter: "Ali Mohd. Sultanpuri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Deti thi sada qabr se shabbir ki dukhtar
-  Jao ay phupi jaan khuda hafiz o nasir
-  Mai qaid rahun qaid mein hai mera muqaddar
+  Deti thi sada qabr se Shabbir ki dukhtar
+  Jaao ae phuphi jaaṅ Khuda haafiz o naasir
+
+  Main qaid rahuṅ qaid mein hai mera muqaddar
+  Jaao ae phuphi jaaṅ Khuda haafiz o naasir
 
   1
-  Ay phupi meri rida karbobala le jaana
-  Dhoop mein tha mere mazloom padar ka laasha
-  Laashe pe udha dena meri nanhi si chadar
+  Ae phuphi meri rida Karbobala le jaana
+  Dhup mein tha mere mazlum padar ka laasha
+  Laashe pe urha dena meri nanhi si chaadar
+  Jaao ae phuphi jaaṅ Khuda haafiz o naasir
 
   2
-  Karbala jaana to baba se batla dena
-  Roye na mere liye wo unhe samjha dena
-  Keh dena sataate nahi ab mujhko sitamgar
+  Karbala jaana to baaba se batla dena
+  Roye na mere liye wo unheṅ samjha dena
+  Keh dena sataate nahiṅ ab mujh ko sitamgar
+  Jaao ae phuphi jaaṅ Khuda haafiz o naasir
 
   3
-  Kehna baba se ke ek pal bhi nahi soyi mai
-  Aap jis din se gaye shaam o sehar royi mai
+  Kehna baaba se ke ik pal bhi nahiṅ soyi main
+  Aap jis din se gaye shaam o sahar royi main
   Ab jaa ke mujhe chain mila qabr ke andar
+  Jaao ae phuphi jaaṅ Khuda haafiz o naasir
 
   4
-  Bhaiya akbar jo mile kehna ye mere kalemaat
-  Poochne aaye na ek din bhi behan ke haalaat
+  Bhaiya Akbar jo mile kehna ye mere kalimaat
+  Puchhne aaye na ek din bhi behan ke haalaat
   Keh dena behan baandhi gayi rassi mein kas kar
+  Jaao ae phuphi jaaṅ Khuda haafiz o naasir
 
   5
-  Karbala mein jo mera asghar e masoom milay
-  Godh mein lena usay aur laga lena galay
-  Moo choomna bhaiya ka meri simt se jaa kar
+  Karbala mein jo mera Asghar-e-maasum mile
+  God mein lena use aur laga lena gale
+  Muṅh chumna bhaiya ka meri simt se jaa kar
+  Jaao ae phuphi jaaṅ Khuda haafiz o naasir
 
   6
-  Nehr pa jaa ke chacha jaan se keh dena salaam
+  Nehr pe jaa ke chacha jaan se keh dena salaam
   Kehna aada ke sitam seh na saki tishna kaam
-  Keh dena ke wo mar gayi zindan mein ghut kar
+  Keh dena ke wo mar gayi zindaaṅ mein ghut kar
+  Jaao ae phuphi jaaṅ Khuda haafiz o naasir
 
   7
-  Mere ammu ko dikhana mere dono bunde
-  Eid ke din jo bade pyar se pehnaye thay
-  Keh dena lawein cheer ke cheene gaye gohar
+  Mere ammu ko dikhaana mere donoṅ bunde
+  Eid ke din jo bare pyaar se pehnaaye the
+  Keh dena laweṅ chir ke chhine gaye gauhar
+  Jaao ae phuphi jaaṅ Khuda haafiz o naasir
 
   8
-  Kehna ammu se sakina ko ye maloom na tha
-  Pani maangungi to lut jayegi meri dunya
-  Kat jayenge baazu mere ammu ke nehr par
+  Kehna ammu se Sakina ko ye maalum na tha
+  Paani maanguṅ gi to lut jaayegi meri duniya
+  Kat jaayeṅ ge baazu mere ammu ke nehr par
+  Jaao ae phuphi jaaṅ Khuda haafiz o naasir
 
   9
-  Ay phupi aaye nazar shehr e madina jis dam
-  Kehna leti thi tera naam sakina har dam
-  Qismat mein nahi tha ki aaye wo muztar
+  Ae phuphi aaye nazar shehr-e-Madina jis dam
+  Kehna leti thi tera naam Sakina har dam
+  Qismat mein nahiṅ tha ki aaye wo muztar
+  Jaao ae phuphi jaaṅ Khuda haafiz o naasir
 
   10
-  Jis ghadi pahunchega yasrab mein ye ujda kunba
-  Poochne aayegi mujhko meri pyari sughra
+  Jis ghari pahunchega Yasrab mein ye ujra kunba
+  Puchhne aayegi mujh ko meri pyaari Sughra
   Rona meri behna ko kaleje se laga kar
+  Jaao ae phuphi jaaṅ Khuda haafiz o naasir
 
   11
-  Reh gayi qaid e sitamgar mein wo dukihya waiz
-  Goonjta reh gaya zindan mein ye nauha waiz
-  Mai qaid rahun qaid mein hai mera muqaddar
+  Reh gayi qaid-e-sitamgar mein wo dukhiya Waiz
+  Gunjta reh gaya zindaaṅ mein ye nauha Waiz
+  Main qaid rahuṅ qaid mein hai mera muqaddar
+  Jaao ae phuphi jaaṅ Khuda haafiz o naasir
 # source_id: nohayonline:f49aae2b3d2a55eb5457
 # source_url: https://www.nohayonline.com/details_content.php?id=3035
 # raw_sha256: 1cf35053bef828e163a59a7d6eb70919cf0f75eb5920647484a5f1e184e18acb
@@ -75,59 +89,72 @@ romanLyrics: |-
 
 دیتی تھی صدا قبر سے شبیر کی دختر
 جاؤ اے پھپھی جاں خدا حافظ و ناصر
+
 میں قید رہوں قید میں ہے میرا مقدر
+جاؤ اے پھپھی جاں خدا حافظ و ناصر
 
 ۱
 اے پھپھی میری ردا کربوبلا لے جانا
 دھوپ میں تھا میرے مظلوم پدر کا لاشہ
 لاشے پہ اڑھا دینا میری ننھی سی چادر
+جاؤ اے پھپھی جاں خدا حافظ و ناصر
 
 ۲
 کربلا جانا تو بابا سے بتلا دینا
-روے نہ میرے لیےء وہ انہیں سمجھا دینا
-کہہ دینا ستاتے نہیں اب مجھکو ستمگر
+روئے نہ میرے لیے وہ انہیں سمجھا دینا
+کہہ دینا ستاتے نہیں اب مجھ کو ستمگر
+جاؤ اے پھپھی جاں خدا حافظ و ناصر
 
 ۳
-کہنا بابا سے کہ اک‌ پل بھی نہیں سوی میں
-آپ جس دن سے گےء شام و سحر روی میں
+کہنا بابا سے کہ اک پل بھی نہیں سوئی میں
+آپ جس دن سے گئے شام و سحر روئی میں
 اب جا کے مجھے چین ملا قبر کے اندر
+جاؤ اے پھپھی جاں خدا حافظ و ناصر
 
 ۴
 بھیا اکبر جو ملے کہنا یہ میرے کلمات
-پوچھنے آے نہ ایک دن بھی بہن کے حالات
-کہہ دینا بہن باندھی گیء رسی میں کس کر
+پوچھنے آئے نہ ایک دن بھی بہن کے حالات
+کہہ دینا بہن باندھی گئی رسی میں کس کر
+جاؤ اے پھپھی جاں خدا حافظ و ناصر
 
 ۵
-کربلا میں جو میرا اصغر معصوم ملے
+کربلا میں جو میرا اصغرِ معصوم ملے
 گود میں لینا اسے اور لگا لینا گلے
 منہ چومنا بھیا کا میری سمت سے جا کر
+جاؤ اے پھپھی جاں خدا حافظ و ناصر
 
 ۶
 نہر پہ جا کے چچا جان سے کہہ دینا سلام
 کہنا اعدا کے ستم سہہ نہ سکی تشنہ کام
-کہہ دینا کہ وہ مر گیء زنداں میں گھٹ کر
+کہہ دینا کہ وہ مر گئی زنداں میں گھٹ کر
+جاؤ اے پھپھی جاں خدا حافظ و ناصر
 
 ۷
 میرے عمو کو دکھانا میرے دونوں بندیں
-عید کے دن جو بڑے پیار سے پہناے تھے
-کہہ دینا لواییں چیر کے چھینے گےء گوہر
+عید کے دن جو بڑے پیار سے پہنائے تھے
+کہہ دینا لواییں چیر کے چھینے گئے گوہر
+جاؤ اے پھپھی جاں خدا حافظ و ناصر
 
 ۸
 کہنا عمو سے سکینہ کو یہ معلوم نہ تھا
-پانی مانگوں گی تو لٹ جاے گی میری دنیا
+پانی مانگوں گی تو لٹ جائے گی میری دنیا
 کٹ جائیں گے بازو میرے عمو کے نہر پر
+جاؤ اے پھپھی جاں خدا حافظ و ناصر
 
 ۹
-اے پھپھی آے نظر شہر مدینہ جس دم
+اے پھپھی آئے نظر شہرِ مدینہ جس دم
 کہنا لیتی تھی تیرا نام سکینہ ہر دم
-قسمت میں نہیں تھا کی آے وہ مضطر
+قسمت میں نہیں تھا کی آئے وہ مضطر
+جاؤ اے پھپھی جاں خدا حافظ و ناصر
 
 ۱۰
 جس گھڑی پہنچے گا یثرب میں یہ اجڑا کنبہ
-پوچھنے آے گی مجھکو میری پیاری صغرا
+پوچھنے آئے گی مجھ کو میری پیاری صغرا
 رونا میری بہنا کو کلیجے سے لگا کر
+جاؤ اے پھپھی جاں خدا حافظ و ناصر
 
 ۱۱
-رہ گیء قید ستمگر میں وہ دکھیا وایظ
-گونجتا رہ گیا زنداں میں یہ نوحہ وایض
+رہ گئی قیدِ ستمگر میں وہ دکھیا واعظ
+گونجتا رہ گیا زنداں میں یہ نوحہ واعظ
 میں قید رہوں قید میں ہے میرا مقدر
+جاؤ اے پھپھی جاں خدا حافظ و ناصر
