@@ -1,65 +1,65 @@
 ---
 title: میرے لہو کے ہر قطرے میں
-alternateTitle: Goonj Rahi Hai Ya
+alternateTitle: Gunj Rahi Hai Ya
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Goonj Rahi Hai Ya"]
 published: false
 romanLyrics: |-
-  Mere lahoo ke har qatre mein goonj raha hai ya Hussain
-  Ab to sab ka wird e zaban bhi rehne laga hai ya Hussain
+  Mere lahu ke har qatre mein gunj raha hai ya Husain
+  Ab to sab ka wird-e-zabaaṅ bhi rehne laga hai ya Husain
 
   1
   Aap ki kya shaan hai maula
-  Bolta quran hai maula
+  Bolta Quraan hai maula
   Fatema ki jaan hai maula
-  Marzi e subhan hai maula
+  Marzi-e-Subhaan hai maula
 
   2
-  Karbala ka fatahe aazam
-  Ba khuda hai waris e Adam
-  Ja baja phaile tere parcham
-  Ta abad hoga tera matam
+  Karbala ka faateh-e-aazam
+  Ba khuda hai waaris-e-Aadam
+  Jaa bajaa phaile tere parcham
+  Taa abad hoga tera maatam
 
   3
-  Teen din ki tishnagi maula
+  Tin din ki tishnagi maula
   Haye teri bekasi maula
-  Khushk gardan par churi maula
+  Khushk gardan par chhuri maula
   Karbala kehti rahi maula
 
   4
-  Kis tarha bhoolenge wo manzar
+  Kis tarah bhuleṅge wo manzar
   Jab chala tha halq pe khanjar
   Jab sina ki nok pe tha sar
-  Bol utha quran tere lab par
+  Bol utha Quraaṅ tere lab par
 
   5
-  Ye sabeelein ye azakhane
-  Aankh mein ashkon ke paymane
-  Matami laaye hai nazrane
-  Ab janabe sayyeda jaane
+  Ye sabileṅ ye aza khaane
+  Aankh mein ashkoṅ ke paimaane
+  Maatami laaye haiṅ nazraane
+  Ab janaab-e-Sayyeda jaane
 
   6
-  Ye teri maula azadari
-  Zindagi se bhi hamein pyari
-  Hai yehi tujh se wafadari
-  Ashk aankhon se rahe jaari
+  Ye teri maula azaadaari
+  Zindagi se bhi hameṅ pyaari
+  Hai yehi tujh se wafaadaari
+  Ashk aankhoṅ se raheṅ jaari
 
   7
-  Waris e quran zindabad
-  Rehbar e insan zindabad
-  Mazhar e emaan zindabad
-  Fatema ki jaan zindabad
+  Waaris-e-Quraan zinda baad
+  Rehbar-e-insaan zinda baad
+  Mazhar-e-imaan zinda baad
+  Fatema ki jaan zinda baad
 
   8
-  As salaam ay maalike kausar
-  As salaam ay kushta e khanjar
-  As salaam ay jaan e paighambar
-  Kehte hai rehaan aur sarwar
+  As salaam ae kushta-e-khanjar
+  As salaam ae maalik-e-Kausar
+  As salaam ae jaan-e-Paighambar
+  Kehte haiṅ Rehaan aur Sarwar
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:f285fdc10bd378ed32c2
 # source_url: https://www.nohayonline.com/details_content.php?id=371
@@ -76,13 +76,13 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 آپ کی کیا شان ہے مولا
 بولتا قرآن ہے مولا
 فاطمہ کی جان ہے مولا
-مرضیئِ سبحان ہے مولا
+مرضیِ سبحان ہے مولا
 
 ۲
 کربلا کا فاتحِ اعظم
 باخدا ہے وارثِ آدم
 جا بجا پھیلے تیرے پرچم
-تاابد ہوگا تیرا ماتم
+تا ابد ہوگا تیرا ماتم
 
 ۳
 تین دن کی تشنگی مولا
@@ -91,7 +91,7 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 کربلا کہتی رہی مولا
 
 ۴
-کس طرح بھولینگے وہ منظر
+کس طرح بھولیں گے وہ منظر
 جب چلا تھا حلق پہ خنجر
 جب سنا کی نوک پہ تھا سر
 بول اُٹھا قرآں تیرے لب پر
@@ -99,7 +99,7 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 ۵
 یہ سبیلیں یہ عزاخانے
 آنکھ میں اشکوں کے پیمانے
-ماتمی لائے ہیں نزرانے
+ماتمی لائے ہیں نذرانے
 اب جنابِ سیدہ جانے
 
 ۶
@@ -115,7 +115,7 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 فاطمہ کی جان زندہ باد
 
 ۸
-اسّلام اے کشتہئ خنجر
+اسّلام اے کشتۂ خنجر
 اسّلام اے مالکِ کوثر
 اسّلام اے جانِ پیغمبر
 کہتے ہیں ریحان اور سرور
