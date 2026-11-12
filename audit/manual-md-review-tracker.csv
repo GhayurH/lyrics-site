@@ -2010,10 +2010,10 @@ src/data/lyrics/ishqe-ali-zehra.md,standalone_lyrics,imported,nohayonline,pendin
 src/data/lyrics/islam-ko-bacha-gayi.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,,,"Need audio/print: s1 ""آنسو قلم کی نوک پر غم شہ کا روتے ہیں"" and ""نوکِ سناں پہ دیکھی تھی""; s2 ""دیکھی بہن کا حال""; s3 ""لیلیٰ کلیجہ تھام لی""; s6 ""مر گئی""; s8 ""سر پر وہ خاک اڑاتی ہے اقبال آندھیاں"" and صابر vs صبر."
 src/data/lyrics/islam-ko-fana-se.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
 src/data/lyrics/islam-ko-hayaat-mili-zahra-ke-dar-se.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
-src/data/lyrics/itrat-e-athaar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/izatdaar-gharana.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/izzat-khuda-ke-deen.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/izzat-khuda-ki-fatima-rahat-fateh-ali-khan.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/itrat-e-athaar.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,,,"Need audio/print: s1 ""charagh"" vs ""چراغاں"", ""Zaheer-o-Ausaja"" vs ""ظہیر وا وساجہ""; s2 ""mehve talaya/مہوے تلایا"", ""ye hai"" vs ""یہی""; s3 verb endings; s5 ""keh rahe"" vs ""کہہ رہی"", ""اسرار"" reading; s6 ""zaanu"" vs ""زانوں"". Confirm these before aligning disputed verses."
+src/data/lyrics/izatdaar-gharana.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
+src/data/lyrics/izzat-khuda-ke-deen.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
+src/data/lyrics/izzat-khuda-ki-fatima.md,standalone_lyrics,imported,tajpoints,pending,partial_review,partial_review,reviewed,not_applicable,reviewed,,,"Need Tajpoints poster or audio: s2 second verse ""Jis Ke Liye Nabi Diya Sajday Ko Rehlay Tool Hai"" is corrupt; provisional Urdu retains ""جس کے لیے نبی دیا سجدے کو رہلے طول ہے"". Supply the exact full line; do not infer a replacement."
 src/data/lyrics/ja-ali-asghar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ja-raha-hoo-karbala.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/jaa-rahi-hai-behan.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
