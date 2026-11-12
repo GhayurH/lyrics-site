@@ -6,52 +6,53 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mujahid Lakhnavi"
+reciter: "Tableegh e Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Honton pe mere naam e ali naam e ali hai
-  Sunkar jise mushkil badi mushkil may padi hai
+  Hontoṅ pe mere naam-e-Ali naam-e-Ali hai
+  Sun kar jise mushkil bari mushkil meiṅ pari hai
 
   1
-  Apna to wohi rab wohi quran o nabi hai
-  Chauda sau baras pehle jo tha deen wohi hai
+  Apna to wohi Rab wohi Quraan o Nabi hai
+  Chaudah sau baras pehle jo tha din wohi hai
 
   2
-  Hai baara imamo ki wohi rehbari ab bhi
-  Ek baat bhi isme na badi hai na ghati hai
+  Hai baarah Imaamoṅ ki wohi rehbari ab bhi
+  Ik baat bhi is meiṅ na bari hai na ghati hai
 
   3
-  Hai panjetan e paak kisi darse ibarat
-  Apne liye jo raahe amal humne chuni hai
+  Hai Panjetan-e-Paak kisi darse ibaarat
+  Apne liye jo raah-e-amal ham ne chuni hai
 
   4
-  Maa kehti thi qasim to suye khuld sidhare
-  Kubra ke muqaddar may likhi dar badari hai
+  Maaṅ kehti thi Qaasim to su-e-khuld sidhaare
+  Kubra ke muqaddar meiṅ likhi dar badari hai
 
   5
-  Bano ka ye nauha ke kab aaoge asghar
-  Aghosh may lene ko ye maa dar pe khadi hai
+  Baano ka ye nauha tha ke kab aaoge Asghar
+  Aaghosh meiṅ lene ko ye maaṅ dar pe khari hai
 
   6
-  Gardan se sakina ke koi khol de rassi
-  Bachi ka gala ghut'ta hai ab saans ruki hai
+  Gardan se Sakina ke koi khol de rassi
+  Bachchi ka gala ghutta hai ab saans ruki hai
 
   7
-  Zainab ne kaha chod gayi saath sakina
-  Nanhi si lehad shaam ke zindan may bani hai
+  Zainab ne kaha chhor gayi saath Sakina
+  Nanhi si lahad Shaam ke zindaan meiṅ bani hai
 
   8
-  Shehzadi kahi jaati thi koofe may jo zainab
-  Be-parda wahin ab sare darbar khadi hai
+  Shehzaadi kahi jaati thi Kufe meiṅ jo Zainab
+  Beparda wahiṅ ab sar-e-darbaar khari hai
 
   9
-  Beti hai yehi fatema zehra o ali ki
-  Bazaron may jo saath chali jo ke phiri hai
+  Beti hai yehi Faatima Zehra o Ali ki
+  Baazaaroṅ meiṅ jo saath chali jo ke phiri hai
 
   10
-  Ye matame sheh zeest ka haasil hai mujahid
-  Dam seene may jab tak hai yehi nauhagiri hai
+  Ye maatam-e-Shaah-e-zist ka haasil hai Mujaahid
+  Dam sine meiṅ jab tak hai yehi nauhagari hai
 # source_id: nohayonline:97ad2f29865ffc3a816c
 # source_url: https://www.nohayonline.com/details_content.php?id=650
 # raw_sha256: d9d7b7bb9282aaee7e4dd758caf01a209dda3273f9c78936990fc217d1a5ed9a
@@ -69,19 +70,19 @@ romanLyrics: |-
 
 ۳
 ہے پنجتنِ پاک کسی درسے عبارت
-اپنے لیئے جو راہِ عمل ہم نے چُنی ہے
+اپنے لیے جو راہِ عمل ہم نے چُنی ہے
 
 ۴
 ماں کہتی تھی قاسم تو سوئے خُلد سدھارے
 کبریٰ کے مقدر میں لکھی در بدری ہے
 
 ۵
-بانو کا یہ نوحہ تھاکہ کب آئو گے اصغر
+بانو کا یہ نوحہ تھا کہ کب آؤ گے اصغر
 آغوش میں لینے کو یہ ماں در پہ کھڑی ہے
 
 ۶
 گردن سے سکینہ کے کوئی کھول دے رسی
-بچی کا گلا گھٹتاہے اب سانس رُکی ہے
+بچی کا گلا گھٹتا ہے اب سانس رُکی ہے
 
 ۷
 زینب نے کہا چھوڑ گئی ساتھ سکینہ
@@ -92,7 +93,7 @@ romanLyrics: |-
 بے پردہ وہیں اب سرِ دربار کھڑی ہے
 
 ۹
-بیٹی ہے یہ ہی فاطمہ زہر ا و علی کی
+بیٹی ہے یہ ہی فاطمہ زہرا و علی کی
 بازاروں میں جو ساتھ چلی جو کے پھری ہے
 
 ۱۰

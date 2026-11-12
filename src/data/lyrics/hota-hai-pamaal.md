@@ -6,65 +6,66 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kitna mazloom hai shabbir suno ahle aza
-  Tera zarbon se gala shimr ne jab kaat diya
-  Bekafan laash ke nazdeek bine saad aaya
-  Choor zakhmon se badan dekh ke bhi dil na bhara
-  Hukm pamaali ka zaalim ne diya ye keh ke
-  Phasliyan toote to awaaz sunayi de mujhe
-  Zehra ka laal hussain hota hai pamaal hussain
+  Kitna mazlum hai Shabbir suno ahl-e-aza
+  Tera zarboṅ se gala Shimr ne jab kaat diya
+  Bekafan laash ke nazdik bin-e-Saad aaya
+  Chur zakhmoṅ se badan dekh ke bhi dil na bhara
+  Hukm paamaali ka zaalim ne diya ye keh ke
+  Pasliyaaṅ tuteṅ to aawaaz sunaai de mujhe
+  Zahra ka laal Husain hota hai paamaal Husain
 
   1
-  Sab se wazni hai jo rahwaar unhe bulwao
-  Kuchalne mein jo maahir hai wo ghode lao
-  Mekh paywast karo unke sumon ke neeche
-  Naal bandi karo phir ran mein unhe le aao
-  Laashe sarwar pe se ghodon ko guzaro aise
-  Phasliyan toote to awaaz sunayi de mujhe
+  Sab se wazni haiṅ jo rahwaar unheṅ bulwaao
+  Kuchalne meiṅ jo maahir haiṅ woh ghore laao
+  Mekh paiwast karo un ke sumoṅ ke niche
+  Naal bandi karo phir ran meiṅ unheṅ le aao
+  Laash-e-Sarwar pe se ghoroṅ ko guzaaro aise
+  Pasliyaaṅ tuteṅ to aawaaz sunaai de mujhe
 
   2
-  Zulm itna karo shabbir ke is laashe par
-  Phasliyan toot ke ho jaaye idhar aur udhar
-  Jaise nau laakh ne maqtal mein isay maara tha
-  Ek baar aur isay ghayr ke maaro mil kar
-  Tohfa haakim se mai dilwaunga lekin pehle
-  Phasliyan toote to awaaz sunayi de mujhe
+  Zulm itna karo Shabbir ke is laashe par
+  Pasliyaaṅ tut ke ho jaaeṅ idhar aur udhar
+  Jaise nau laakh ne maqtal meiṅ ise maara tha
+  Ek baar aur ise gher ke maaro mil kar
+  Tohfa haakim se maiṅ dilwaauṅga lekin pehle
+  Pasliyaaṅ tuteṅ to aawaaz sunaai de mujhe
 
   3
-  Chahta hoon ke isay dhoondhne jab aaye bahan
-  Wo bhi mar jaaye yahan dekh ke ye kuchla badan
-  Khoon hi khoon nazar aaye usay bhai ka
-  Dena chaahe bhi to na de sake wo isko kafan
-  Usne phir paaon rakha seene pe ye kehte huwe
-  Phasliyan toote to awaaz sunayi de mujhe
+  Chaahta huṅ ke ise dhundhne jab aaye behan
+  Woh bhi mar jaaye yahaaṅ dekh ke ye kuchla badan
+  Khun hi khun nazar aaye use bhaai ka
+  Dena chaahe bhi to na de sake woh is ko kafan
+  Us ne phir paaoṅ rakha sine pe ye kehte hue
+  Pasliyaaṅ tuteṅ to aawaaz sunaai de mujhe
 
   4
-  Aag qaimon ko lagaani hai to aage aao
-  Jo madine mein hua zulm wohi dohrao
-  Wahan darwazon pe chalte thay madine waale
-  Tum yahan laash pe se ghode guzaare jao
-  Itni takleef do maa yaad isay aane lage
-  Phasliyan toote to awaaz sunayi de mujhe
+  Aag khaimoṅ ko lagaani hai to aage aao
+  Jo Madine meiṅ hua zulm wohi dohraao
+  Wahaaṅ darwaaze pe chalte the Madine waale
+  Tum yahaaṅ laash pe se ghore guzaare jaao
+  Itni taklif do maaṅ yaad ise aane lage
+  Pasliyaaṅ tuteṅ to aawaaz sunaai de mujhe
 
   5
-  Shimr ne kaata gala seene pe chad kar uske
-  Khaynchi sannan ne gardan ki ragein naize se
-  Kaati bajdal ne angoothi ke liye ungli bhi
-  Khooli sar le gaya tandoor mein rakhne ke liye
-  Reh gaye thay jo unhe bheja gaya ye keh ke
-  Phasliyan toote to awaaz sunayi de mujhe
+  Shimr ne kaata gala sine pe charh kar us ke
+  Khenchi Sannaan ne gardan ki rageṅ naize se
+  Kaati Bajdal ne anguthi ke liye ungli bhi
+  Khauli sar le gaya tandur meiṅ rakhne ke liye
+  Reh gaye the jo unheṅ bheja gaya ye keh ke
+  Pasliyaaṅ tuteṅ to aawaaz sunaai de mujhe
 
   6
-  Kaise zeeshan likhe kis tarha farhan padhe
-  Saare ghode badan e shaah ki jaanib daude
-  Phasliyan toot gayi maa ki tarha bete ki
-  Bekafan laash pe rahwaaron ne jab sum patkhe
-  Pisar e saad yehi kehta raha has has ke
-  Phasliyan toote to awaaz sunayi de mujhe
+  Kaise Zishaan likhe kis tarah Farhaan parhe
+  Saare ghore badan-e-Shaah ki jaanib daure
+  Pasliyaaṅ tut gayiṅ maaṅ ki tarah bete ki
+  Bekafan laash pe rahwaaroṅ ne jab sum patkhe
+  Pisar-e-Saad yehi kehta raha hans hans ke
+  Pasliyaaṅ tuteṅ to aawaaz sunaai de mujhe
 # source_id: nohayonline:a3421cf61427f9aad258
 # source_url: https://www.nohayonline.com/details_content.php?id=2806
 # raw_sha256: b19c73f651a0e4065011db674e76d82b7706f945555d30ca86c525d8d64fd321
@@ -72,15 +73,15 @@ romanLyrics: |-
 کتنا مظلوم ہے شبیر سنو اہلِ عزا
 تیرا ضربوں سے گلا شمر نے جب کاٹ دیا
 بےکفن لاش کے نزدیک بنِ سعد آیا
-چور زخموں سے بدن دیکھ کےبھی دل نہ بھرا
-حُکم پامالی کا ظالم نے دیا یہ کہکے
+چور زخموں سے بدن دیکھ کے بھی دل نہ بھرا
+حُکم پامالی کا ظالم نے دیا یہ کہہ کے
 پسلیاں ٹوٹیں تو آواز سنائی دے مجھے
 زہرا کا لال حسین ہوتا ہے پامال حسین
 
 ۱
 سب سے وزنی ہیں جو رہوار اُنہیں بلواؤ
 کچلنے میں جو ماہر ہیں وہ گھوڑے لاؤ
-میخ پیوست کرو اُنکے سُموں کے نیچے
+میخ پیوست کرو اُن کے سُموں کے نیچے
 نال بندی کرو پھر رن میں اُنہیں لے آؤ
 لاشِ سرور پہ سے گھوڑوں کو گزارو ایسے
 پسلیاں ٹوٹیں تو آواز سنائی دے مجھے
@@ -88,16 +89,16 @@ romanLyrics: |-
 ۲
 ظلم اتنا کرو شبیر کے اِس لاشے پر
 پسلیاں ٹوٹ کے ہو جائیں اِدھر اور اُدھر
-جیسے نولاکھ نے مقتل میں اِسے مارا تھا
-ایک بار اور اِسے گھیر کے مارو ملکر
-تحفہ حاکم سے میں دلواؤنگا لیکن پہلے
+جیسے نو لاکھ نے مقتل میں اِسے مارا تھا
+ایک بار اور اِسے گھیر کے مارو مل کر
+تحفہ حاکم سے میں دلواؤں گا لیکن پہلے
 پسلیاں ٹوٹیں تو آواز سنائی دے مجھے
 
 ۳
 چاہتا ہوں کے اِسے ڈھونڈنے جب آئے بَہن
-وہ بھی مرجائے یہاں دیکھ کے یہ کُچلہ بدن
+وہ بھی مر جائے یہاں دیکھ کے یہ کچلا بدن
 خون ہی خون نظر آئے اُسے بھائی کا
-دینا چاہے بھی تو نا دےسکے وہ اِسکو کفن
+دینا چاہے بھی تو نہ دے سکے وہ اِس کو کفن
 اُس نے پھر پاؤں رکھا سینے پہ یہ کہتے ہوئے
 پسلیاں ٹوٹیں تو آواز سنائی دے مجھے
 
@@ -106,19 +107,19 @@ romanLyrics: |-
 جو مدینے میں ہوا ظُلم وہی دہراؤ
 وہاں دروازے پہ چلتے تھے مدینے والے
 تم یہاں لاش پہ سے گھوڑے گزارے جاؤ
-اتنی ٹکلیف دو ماں یاد اِسے آنے لگے
+اتنی تکلیف دو ماں یاد اِسے آنے لگے
 پسلیاں ٹوٹیں تو آواز سنائی دے مجھے
 
 ۵
-شمر نے کاٹا گلا سینے پہ چڑھ کر اُسکے
-کھینچی سَنّان نےگردن کی رگیں نیزے سے
-کاٹی بُنجدل نے انگوٹھی کیلئے اُنگلی بھی
-خولی سر لے گیا تندور میں رکھنے کیلئے
-رہ گئے تھے جو اُنہیں بھیجا گیا یہ کہکے
+شمر نے کاٹا گلا سینے پہ چڑھ کر اُس کے
+کھینچی سَنّان نے گردن کی رگیں نیزے سے
+کاٹی بُنجدل نے انگوٹھی کے لیے اُنگلی بھی
+خولی سر لے گیا تندور میں رکھنے کے لیے
+رہ گئے تھے جو اُنہیں بھیجا گیا یہ کہہ کے
 پسلیاں ٹوٹیں تو آواز سنائی دے مجھے
 
 ۶
-کیسے ذیشان لکھےکسطرح فرحان پڑھے
+کیسے ذیشان لکھے کس طرح فرحان پڑھے
 سارے گھوڑے بدنِ شاہ کی جانب دوڑے
 پسلیاں ٹوٹ گئیں ماں کی طرح بیٹے کی
 بےکفن لاش پہ رہواروں نے جب سم پٹخے

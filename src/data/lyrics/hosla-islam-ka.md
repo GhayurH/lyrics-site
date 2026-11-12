@@ -6,36 +6,37 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Sahir Faizabadi"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Karbala walon mein dekho hosla islam ka
-  Sar kata kar sar kiya hai maareka islam ka
+  Karbala waaloṅ meiṅ dekho hausla Islaam ka
+  Sar kata ke sar kiya hai maaraka Islaam ka
 
   1
-  Sochta hoo kya banega ya khuda islam ka
-  Har kaso na kas bana rehnuma islam ka
-  
+  Sochta huṅ kya banega ya Khuda Islaam ka
+  Har kas o naakas bana hai rehnuma Islaam ka
+
   2
-  Jab bhi dekha hai ghalat haaton mein lashkar ka alam
-  Doobta suraj nazar aane laga islam ka
-  
+  Jab bhi dekha hai ghalat haathoṅ meiṅ lashkar ka alam
+  Dubta suraj nazar aane laga Islaam ka
+
   3
-  Fathe khyber ya mohamed ab koi mushkil nahi
-  Lijiye wo aa gaya mushkil kusha islam ka
-  
+  Fath-e-Khaibar ya Muhammad ab koi mushkil nahiṅ
+  Lijiye woh aa gaya mushkil kusha Islaam ka
+
   4
-  Marhaba ay na khuda e kashti e ahle haram
-  Tum nahi hotay to beda ghark tha islam ka
-  
+  Marhaba Ae naakhuda-e-kashti-e-ahl-e-haram
+  Tum nahiṅ hote to bera gharq tha Islaam ka
+
   5
-  Kaun kehta hai mulukiyat ko islami nizam
-  Dushmane islam se kya waasta islam ka
-  
+  Kaun kehta hai mulukiyat ko Islaami nizaam
+  Dushman-e-Islaam se kya waasta Islaam ka
+
   6
-  Taqte shaahi par rahe ya zere damane hussain
-  Karbala mein ho chuka faisla islam ka
+  Takht-e-shaahi par rahe ya zer-e-daaman-e-Husain
+  Karbala meiṅ ho chuka hai faisla Islaam ka
 # source_id: nohayonline:1d0efd3fc69ba70df638
 # source_url: https://www.nohayonline.com/details_content.php?id=570
 # raw_sha256: 7eb707eca2bfa5f58dfc450255d4d2ad8ba572cb0b5c8e17902c7f5790015501
@@ -46,7 +47,7 @@ romanLyrics: |-
 
 ۱
 سوچتا ہوں کیا بنے گا یا خُدا اسلام کا
-ہر قص و نا قص بنا ہے رہنما اسلام کا
+ہر کس و ناکس بنا ہے رہنما اسلام کا
 
 ۲
 جب بھی دیکھا ہے غلط ہاتھوں میں لشکر کا علم
@@ -54,7 +55,7 @@ romanLyrics: |-
 
 ۳
 فتح خیبر یا محمد اب کوئی مشکل نہیں
-لیجیئے وہ آگیا مشکل کُشائ اسلام کا
+لیجیے وہ آ گیا مشکل کُشا اسلام کا
 
 ۴
 مرحبا اے ناخدائے کشتیِ اہلِ حرم
@@ -62,7 +63,7 @@ romanLyrics: |-
 
 ۵
 کون کہتا ہے ملُوکیت کو اسلامی نظام
-دُشمنِ اسلام سے کیا واسطہ اسلام
+دُشمنِ اسلام سے کیا واسطہ اسلام کا
 
 ۶
 تختِ شاہی پر رہے یا زیرِ دامنِ حُسین
