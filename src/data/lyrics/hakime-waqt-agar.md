@@ -1,37 +1,38 @@
 ---
 title: "حاکم وقت اگر صاحبِ ایمان ہوتا"
-alternateTitle: "Hakime Waqt Agar"
+alternateTitle: "Haakim-e-Waqt Agar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ameer Hussain Mashadi"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haakim e waqt agar saahib e emaan hota
-  Ghar nabi zaadi ka aise to na veeran hota
+  Haakim-e-waqt agar saahib-e-imaan hota
+  Ghar Nabi zaadi ka aise to na viraaṅ hota
 
   1
-  Deke sar sajde mein di shaah ne sajde ko baqa
-  Warna masjood zamane mein na yazdan hota
+  De ke sar sajde mein di Shaah ne sajde ko baqa
+  Warna masjud zamaane mein na Yazdaaṅ hota
 
   2
-  Baazu e hazrate abbas na kat'te ban mein
-  Chup hi rehne ka na gar bhai ka farmaan hota
+  Baazu-e-Hazrat-e-Abbas na katte ban mein
+  Chup hi rehne ka na gar bhaai ka farmaan hota
 
   3
-  Sar ko mazloom kata'te na agar sajde mein
-  Na namazein na roze na ye quran hota
+  Sar ko mazlum kataate na agar sajde mein
+  Na namaazeṅ na roze na ye Quraaṅ hota
 
   4
-  Ghar ki dehleez bhi apni na mukammiil dekhi
-  Kaash zainab ke naseebon mein na zindan hota
+  Ghar ki dehliz bhi apni na mukammil dekhi
+  Kaash Zainab ke nasiboṅ mein na zindaaṅ hota
 
   5
-  Yun hi darbar mein rehti na khadi binte ali
-  Gar ameer in mein sahi koi musalman hota
+  Yuṅ hi darbaar mein rehti na khari Bint-e-Ali
+  Gar Ameer in mein sahih koi musalmaaṅ hota
 # source_id: nohayonline:1ad79a24a4107f20e8ac
 # source_url: https://www.nohayonline.com/details_content.php?id=3486
 # raw_sha256: a5c3cbc1387999db669d8bb6d6a3300e6f4182fbcd58d253fc894863e5187f3a
@@ -44,11 +45,11 @@ romanLyrics: |-
 ورنہ مسجود زمانے میں نہ یزداں ہوتا
 
 ۲
-بازوے حضرتِ عباس نہ کٹتے بن میں
-چھپ ہی رہنا کا نہ گر بھای فرمان ہوتا
+بازوئے حضرتِ عباس نہ کٹتے بن میں
+چپ ہی رہنے کا نہ گر بھائی کا فرمان ہوتا
 
 ۳
-سر کو مظلوم کٹتے نہ اگر سجدے میں
+سر کو مظلوم کٹاتے نہ اگر سجدے میں
 نہ نمازیں نہ روزے نہ یہ قرآں ہوتا
 
 ۴
@@ -57,4 +58,4 @@ romanLyrics: |-
 
 ۵
 یونہی دربار میں رہتی نہ کھڑی بنت علی
-گر امیر ان میں سحیح کوی مسلماں ہوتا
+گر امیر ان میں صحیح کوئی مسلماں ہوتا
