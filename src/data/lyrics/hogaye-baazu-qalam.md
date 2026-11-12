@@ -1,53 +1,53 @@
 ---
-title: ہو گئے بازو قلم مشک بچائی نہ گئی
-alternateTitle: Hogaye Baazu Qalam
+title: ہو گئے ہاتھ قلم مشک بچائی نہ گئی
+alternateTitle: Ho Gaye Haath Qalam
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Viqar Nagri"
 tags: ["noImage"]
-aliases: []
+aliases: ["Hogaye Baazu Qalam", "ہو گئے بازو قلم مشک بچائی نہ گئی"]
 published: false
 romanLyrics: |-
-  Hogaye haath qalam mashk bachayi na gayi
-  Pyaas saqqa se sakina ki bujhayi na gayi
+  Ho gaye haath qalam mashk bachaai na gayi
+  Pyaas saqqa se Sakina ki bujhaai na gayi
 
   1
-  Jaane kya keh gaya bhai se alamdare jari
-  Laash abbas ki sarwar se uthayi na gayi
+  Jaane kya keh gaya bhaai se alamdaar-e-jari
+  Laash Abbas ki Sarwar se uthaai na gayi
 
   2
-  Cheen kar nehr ab aaram se sota hai koi
+  Chhin kar nehr ab aaraam se sota hai koi
   Baad marne ke bhi qabze se taraai na gayi
 
   3
-  Haye re bekasi ye sayyede sajjad e hazeen
-  Laash zindan se sakina ki uthayi na gayi
+  Haaye re bekasi ye Sayyid-e-Sajjad-e-haziṅ
+  Laash zindaaṅ se Sakina ki uthaai na gayi
 
   4
-  Laash andhere mein sakina ki thi mohtaj e kafan
-  Shamma tak shaam ke zindan mein jalayi na gayi
+  Laash andhere mein Sakina ki thi mohtaaj-e-kafan
+  Shama tak Shaam ke zindaaṅ mein jalaai na gayi
 
   5
-  Karbala se hai bahot door sakina ka mazaar
+  Karbala se hai bahut dur Sakina ka mazaar
   Aaj tak baap se beti ki judaai na gayi
 
   6
-  Laashe akbar pe ye laila ne kaha ro ro kar
-  Haye kismat teri shaadi bhi rachayi na gayi
+  Laash-e-Akbar pe ye Laila ne kaha ro ro kar
+  Haaye qismat teri shaadi bhi rachaai na gayi
 
   7
-  Khatm hai sayyede sajjad pe ye tarze jafa
-  Phir imamat kabhi kanton pe chalayi na gayi
+  Khatm hai Sayyid-e-Sajjad pe ye tarz-e-jafa
+  Phir imaamat kabhi kaaṅtoṅ pe chalaai na gayi
 
   8
-  Baazu e shaah mein ek teer tha haath uth na sake
-  Laash asghar ki kaleje se lagayi na gayi
+  Baazu-e-Shaah mein ik tir tha haath uth na saka
+  Laash Asghar ki kaleje se lagaai na gayi
 
   9
-  Ruk gaya haath mera haath tak aate hi viqar
-  Mujse abbas ki tasveer banayi na gayi
+  Ruk gaya haath mera haath tak aate hi Viqar
+  Mujh se Abbas ki tasvir banaai na gayi
 # source_id: nohayonline:03e58ea7a303e381d933
 # source_url: https://www.nohayonline.com/details_content.php?id=863
 # raw_sha256: f69b6881ebe2734be61d30ef38959af0803c2a534c7fb20757f2a44a9dfdbd73
@@ -55,41 +55,41 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=757
 # raw_sha256: 43aef9da54bbf70afc62a3e273741928952b7f07cf1abf01118d4d05f76c039d
 ---
-ہوگےء ہاتھ قلم مشک بچای نہ گیء
-پیاس سقہ سے سکینہ کی بجھای نہ گیء
+ہو گئے ہاتھ قلم مشک بچائی نہ گئی
+پیاس سقہ سے سکینہ کی بجھائی نہ گئی
 
 ۱
 جانے کیا کہہ گیا بھائی سے علمدار جری
-لاش عباس کی سرور سے اٹھای نہ گیء
+لاش عباس کی سرور سے اٹھائی نہ گئی
 
 ۲
-چھین کر نہر اب آرام سے سوتا ہے کوی
-بعد مرنے کے بھی قبضے سے ترای نہ گیء
+چھین کر نہر اب آرام سے سوتا ہے کوئی
+بعد مرنے کے بھی قبضے سے ترائی نہ گئی
 
 ۳
-ہاے رے بے کسی یہ سید سجاد حزیں
-لاش زنداں سے سکینہ کی اٹھای نہ گیء
+ہائے رے بے کسی یہ سید سجاد حزیں
+لاش زنداں سے سکینہ کی اٹھائی نہ گئی
 
 ۴
 لاش اندھیرے میں سکینہ کی تھی محتاج کفن
-شمع تک شام کے زنداں میں جلای نہ گیء
+شمع تک شام کے زنداں میں جلائی نہ گئی
 
 ۵
 کربلا سے ہے بہت دور سکینہ کا مزار
-آج تک باپ سے بیٹی کی جدای نہ گیء
+آج تک باپ سے بیٹی کی جدائی نہ گئی
 
 ۶
-لاشے اکبر پہ یہ لیلیٰ نے کہا رو رو کر
-ہاے قسمت تیری شادی بھی رچای نہ گیء
+لاشِ اکبر پہ یہ لیلیٰ نے کہا رو رو کر
+ہائے قسمت تیری شادی بھی رچائی نہ گئی
 
 ۷
 ختم ہے سید سجاد پہ یہ طرزِ جفا
-پھر امامت کبھی کانٹوں پہ چلای نہ گیء
+پھر امامت کبھی کانٹوں پہ چلائی نہ گئی
 
 ۸
-بازوے شاہ میں اک تیر تھا ہاتھ اٹھ نہ سکا
-لاش اصغر کی کلیجے سے لگای نہ گیء
+بازوئے شاہ میں اک تیر تھا ہاتھ اٹھ نہ سکا
+لاش اصغر کی کلیجے سے لگائی نہ گئی
 
 ۹
 رک گیا ہاتھ میرا ہاتھ تک آتے ہی وقار
-مجھ سے عباس کی تصویر بنائی نہ گیء
+مجھ سے عباس کی تصویر بنائی نہ گئی

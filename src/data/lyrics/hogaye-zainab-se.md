@@ -1,87 +1,88 @@
 ---
 title: "ہوگئے زینب سے خفا اے میرے بابا"
-alternateTitle: "Hogaye Zainab Se"
+alternateTitle: "Ho Gaye Zainab Se"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hogaye zainab se khafa ay mere baba
-  Kya beti se pyari thi khaza ay mere baba
+  Ho gaye Zainab se khafa ae mere baba
+  Kya beti se pyaari thi qaza ae mere baba
 
   1
-  Ghar mera veraan kiya
-  Karti hoo aah o buka
+  Ghar mera viraaṅ kiya
+  Karti huṅ aah o buka
   Zulm ye kaisa hua
-  Sunte nahi meri sada kisko pukaru
-  Saaya hai mere sar se utha kisko pukaru
+  Sunte nahiṅ meri sada kis ko pukaaruṅ
+  Saaya hai mere sar se utha kis ko pukaaruṅ
 
   2
   Zarb ye kaisi lagi
-  Kaun tha aisa shakhi
-  Zulm ki hadh ho gayi
-  Rote hai hasnain zara ankhein to kholo
-  Dil gham hai bechain zara ankhein to kholo
+  Kaun tha aisa shaqi
+  Zulm ki had ho gayi
+  Rote haiṅ Hasnain zara aaṅkheṅ to kholo
+  Dil gham se hai bechain zara aaṅkheṅ to kholo
 
   3
   Kaisi hai gham ki sahar
-  Phat'ta hai mera jigar
-  Aap ko yun dekh kar
-  Chalte hai kanjar mere seene pe alam ke
-  Taqdeer ne dikhlaye ye din kaise sitam ke
+  Phatta hai mera jigar
+  Aap ko yuṅ dekh kar
+  Chalte haiṅ khanjar mere sine pe alam ke
+  Taqdir ne dikhlaae ye din kaise sitam ke
 
   4
-  Aankh se aansu rawan
-  Seeno se utha dhuwan
-  Dard ki chingariyan
-  Ay bine muljim ye bata tukhjo mila kya
-  Tune lahoo kis liye hyder ka bahaya
+  Aaṅkh se aaṅsu rawaaṅ
+  Sinoṅ se uthta dhuaaṅ
+  Dard ki chingaariyaṅ
+  Ae bin-e-Muljim ye bata tujh ko mila kya
+  Tu ne ye lahu kis liye Haidar ka bahaaya
 
   5
-  Qatl namazi huwa
-  Arsh se aayi sada
-  Hogaya mehshar bapa
-  Rote hai jibreel e ameen peet ke seena
-  Naale koi karta hai koi padta hai nauha
+  Qatl namaazi hua
+  Arsh se aai sada
+  Ho gaya mahshar bapa
+  Rote haiṅ Jibril-e-amiṅ pit ke sina
+  Naale koi karta hai koi parhta hai noha
 
   6
-  Ya ali mushkil kusha
+  Ya Ali mushkil kusha
   Dekhiye uth kar zara
-  Nauha kuna hai fiza
-  Taygh-e-jafa aap pe zaalim ne chalayi
-  Roti hai zameen aasman deta hai duhaai
+  Noha kunaaṅ hai faza
+  Tegh-e-jafa aap pe zaalim ne chalaai
+  Roti hai zamiṅ aasmaaṅ deta hai duhaai
 
   7
-  Kuch to kare guftagoo
-  Behta hai sar se lahoo
-  Aap huwe surkhroo
-  Masjid e kufa mein bapa shor o buka hai
-  Damaade nabi sher e khuda qatl hua hai
+  Kuchh to kareṅ guftagu
+  Behta hai sar se lahu
+  Aap hue surkhru
+  Masjid-e-Kufa mein bapa shor o buka hai
+  Daamaad-e-Nabi Sher-e-Khuda qatl hua hai
 
   8
-  Rote hai ehle aza
-  Hogayi majlis bapa
-  Dil bhi tadapne laga
-  Uth gaya dunya se madadgaar hamara
-  Bewa'on ka yateem'on ka aseer'on ka sahara
+  Rote haiṅ ahl-e-aza
+  Ho gayi majlis bapa
+  Dil bhi tarapne laga
+  Uth gaya duniya se madadgaar hamaara
+  Bewaoṅ ka yatimoṅ ka asiroṅ ka sahaara
 
   9
-  Shabbar-o-shabbir par
-  Ki jiye uth kar nazar
-  Rote hai sar peet kar
-  Amma ki tarha aap bhi ab ghar se sidhare
-  Ab haath rakhe kaun bhala sar pe hamare
+  Shabbar o Shabbir par
+  Kijiye uth kar nazar
+  Rote haiṅ sar pit kar
+  Ammaaṅ ki tarah aap bhi ab ghar se sidhaare
+  Ab haath rakhe kaun bhala sar pe hamaare
 
   10
-  Ashkon ka ye silsila
+  Ashkoṅ ka ye silsila
   Jaari rahega sada
-  Kufa ho ya karbala
-  Nauha rehaan azmi ye maula ali ka
-  Hai sab ke liye ukhba mein bakshish ka sahara
+  Kufa ho ya Karbala
+  Noha Rehaan Azmi ye Maula Ali ka
+  Hai sab ke liye uqba mein bakhshish ka sahaara
 # source_id: nohayonline:cc3402236205dfc236b2
 # source_url: https://www.nohayonline.com/details_content.php?id=376
 # raw_sha256: b89679c7a5b77c2911545fac2ce8c790cf22cc3033d59cb4a2b2ae0b322fee00
@@ -91,7 +92,7 @@ romanLyrics: |-
 
 ۱
 گھر میرا ویراں کیا
-کرتی ہوں آہو بکا
+کرتی ہوں آہ و بکا
 ظلم یہ کیسا ہوا
 سنتے نہیں میری صدا کس کو پُکاروں
 سایا ہے میرے سر سے اُٹھا کس کو پُکاروں
@@ -100,8 +101,8 @@ romanLyrics: |-
 ضرب یہ کیسی لگی
 کون تھا ایسا شقی
 ظلم کی حد ہوگئی
-روتے ہیں حثنین زرا آنکھیں تو کھولو
-دل غم سے ہے بے چین زرا آنکھیں تو کھولو
+روتے ہیں حسنین ذرا آنکھیں تو کھولو
+دل غم سے ہے بے چین ذرا آنکھیں تو کھولو
 
 ۳
 کیسی ہے غم کی سحر
@@ -125,8 +126,8 @@ romanLyrics: |-
 نالے کوئی کرتا ہے کوئی پڑھتا ہے نوحہ
 
 ۶
-یاعلی مشکل کشائ
-دیکھیئے اُٹھ کر زرا
+یا علی مشکل کشا
+دیکھیے اُٹھ کر ذرا
 نوحہ کناں ہے فضا
 تیغِ جفا آپ پہ ظالم نے چلائی
 روتی ہے زمیں آسماں دیتا ہے دوہائی
@@ -134,16 +135,16 @@ romanLyrics: |-
 ۷
 کچھ تو کریں گفتگو
 بہتا ہے سر سے لہو
-ااپ ہوئے سرخوروح
+آپ ہوئے سرخرو
 مسجدِ کوفہ میں بپا شور و بکا ہے
 دامادِ نبی شیرِ خدا قتل ہوا ہے
 
 ۸
-روتے ہیں اہلِ عزائ
+روتے ہیں اہلِ عزا
 ہوگئی مجلس بپا
 دل بھی تڑپنے لگا
 اُٹھ گیا دنیا سے مدد گار ہمارا
-بیوائوں یتیموں کا اسیروں کا سہارا
+بیواؤں کا یتیموں کا اسیروں کا سہارا
 
 ۹
 شبّر و شبیر پر
@@ -154,7 +155,7 @@ romanLyrics: |-
 
 ۱۰
 اشکوں کا یہ سلسلہ
-جاری رہے گا صدا
+جاری رہے گا سدا
 کوفہ ہو یا کربلا
 نوحہ ریحان اعظمی یہ مولا علی کا
-ہے سب کے لئے عقبا میں بخشش کا سہارا
+ہے سب کے لئے عقبیٰ میں بخشش کا سہارا
