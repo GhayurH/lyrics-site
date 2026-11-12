@@ -10,36 +10,36 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Karbala walon pe ye kaisa moharram aaya
-  Khoon tapakta huwa abbas ka parcham aaya
+  Karbala walon pe ye kaisa Moharram aaya
+  Khun tapakta hua Abbas ka parcham aaya
 
   1
-  Jaise jaise mere ghazi ka alam jhukta gaya
-  Pusht mein hazrate shabbir ki bhi qam aaya
+  Jaise jaise mere Ghaazi ka alam jhukta gaya
+  Pusht mein Hazrat-e-Shabbir ki bhi kham aaya
 
   2
-  Karbala dekhle islam bachane ke liye
-  Saath kunbe ko liye waarise aadam aaya
+  Karbala dekh le Islaam bachaane ke liye
+  Saath kunbe ko liye Waaris-e-Aadam aaya
 
   3
-  Apne liye shabbir ne kab maanga tha pani
-  Masoom ke rone ke sabab maanga tha pani
-  Jap pyaas se masoom ka dam aaya labon par
-  Zaalim se nabi-zade ne tab maanga tha pani
-  Zaalimo isko to do boondh pilado pani
-  Ab labon par mere baysheer ka hai dam aaya
+  Apne liye Shabbir ne kab maaṅga tha paani
+  Maasum ke rone ke sabab maaṅga tha paani
+  Jab pyaas se maasum ka dam aaya labon par
+  Zaalim se Nabi zaade ne tab maaṅga tha paani
+  Zaalimoṅ is ko to do bund pila do paani
+  Ab labon par mere beshir ka hai dam aaya
 
   4
-  Saare mausam to guzar jaate hai aakar lekin
-  Bas hamesha ke liye mausam e matam aaya
+  Saare mausam to guzar jaate haiṅ aa kar lekin
+  Bas hamesha ke liye mausam-e-Maatam aaya
 
   5
-  Rone ke liye naam hi kaafi hai tumhara
-  Hum haste hue maahe moharram nahi karte
-  Un haaton ko ahmed ki shafa'at na milegi
-  Jo hazrate shabbir ka matam nahi karte
-  Chand rehaan nazar aaya moharram ka idhar
-  Khuld mein ashk meri aankh mein payham aaya
+  Rone ke liye naam hi kaafi hai tumhaara
+  Hum haṅste hue maah-e-Moharram nahiṅ karte
+  Un haathon ko Ahmad ki shafaaat na milegi
+  Jo Hazrat-e-Shabbir ka maatam nahiṅ karte
+  Chaand Rehaan nazar aaya Moharram ka idhar
+  Khuld mein ashk meri aaṅkh mein paiham aaya
 reciter: Hasan Sadiq
 # source_id: nohayonline:5a94576452eea72ef391
 # source_url: https://www.nohayonline.com/details_content.php?id=618

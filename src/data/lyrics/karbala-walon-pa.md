@@ -9,33 +9,34 @@ poet: "Shahid Jafer"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: Ali Zia Rizvi
 romanLyrics: |-
-  Karbala walon pa jo guzri qayamat aur hai
-  Har payambar par jo aayi wo musibat aur hai
+  Karbala walon pe jo guzri wo qayaamat aur hai
+  Har payambar par jo aai wo musibat aur hai
 
   1
-  Asr tak kya jaane kya ho pyas ki shiddat ka haal
-  Suboh se ashoor ke suraj ki hiddat aur hai
+  Asr tak kya jaane kya ho pyaas ki shiddat ka haal
+  Subh se Aashur ke suraj ki hiddat aur hai
 
   2
-  Kat ke sar darul amaara par hai shah ka muntazir
-  Kufiyon muslim ka andaz e sifarat aur hai
+  Kat ke sar Daarul Amaara par hai Shah ka muntazir
+  Kufiyoṅ Muslim ka andaaz-e-Sifaarat aur hai
 
   3
-  Kheenchni hai seena e akbar se barchi ki ani
-  Aakhri ye shaahe deen bete ki khidmat aur hai
+  Khinchni hai sina-e-Akbar se barchhi ki ani
+  Aakhri ye Shaah-e-Diṅ bete ki khidmat aur hai
 
   4
-  Rayg zaare garm par chadar bichate hai hussain
-  Kya kare ke laasha e qasim ki haalat aur hai
+  Regzaar-e-Garm par chaadar bichhaate haiṅ Husain
+  Kya kareṅ ke laasha-e-Qaasim ki haalat aur hai
 
   5
-  Baab e khyber ka uthana wo shuja'at aur thi
-  Teer kha kar muskurana ye shuja'at aur hai
+  Baab-e-Khaibar ka uthaana wo shujaaat aur thi
+  Tir kha kar muskuraana ye shujaaat aur hai
 
   6
-  Dushmanane karbala phir maareka aara hai aaj
-  Majlis o matam ki shahid ab zururat aur hai
+  Dushmanaan-e-Karbala phir maaraka aaraai hai aaj
+  Majlis o maatam ki Shahid ab zarurat aur hai
 # source_id: nohayonline:a0fe33efabd98d2297eb
 # source_url: https://www.nohayonline.com/details_content.php?id=172
 # raw_sha256: e835c49c3c957f1c75f1f62120f8774653812db32021d5cd3033abfa26985b02
@@ -67,5 +68,5 @@ romanLyrics: |-
 تیر کھا کر مسکرانا یہ شجاعت اور ہے
 
 ۶
-دشمنان کربلا پھر معرکہ آرائ ہے آج
+دشمنان کربلا پھر معرکہ آرائی ہے آج
 مجلس و ماتم کی شاہد اب ضرورت اور ہے
