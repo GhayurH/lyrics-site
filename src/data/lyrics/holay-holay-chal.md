@@ -1,86 +1,91 @@
 ---
 title: "چل پڑا کربوبلا سے جب حسینی قافلہ"
-alternateTitle: "Holay Holay Chal"
+alternateTitle: "Hole Hole Chal"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
-aliases: []
+aliases: ["Holay Holay Chal"]
 published: false
 romanLyrics: |-
-  Chal pada karbobala se jab hussaini khafela
-  Ek rasan may pusht e abid aur tha baqar ka gala
-  Saans khanjar ki tarha mehsoos jab hone lagi
-  Apne baba jaan se r okar ye baqar ne kaha
-  Ay mere baba ay mere baba
-  Rassi may gala hai baqar ka
-  Tu holay holay chal baba
-  Mushkil hai safar mar jaauga
+  Chal para Karbobala se jab Husaini qaafila
+  Ek rasan mein pusht-e-Abid aur tha Baqar ka gala
+  Saaṅs khanjar ki tarah mehsus jab hone lagi
+  Apne baba jaaṅ se ro kar ye Baqar ne kaha
+  Ae mere baba Ae mere baba
+
+  Rassi mein gala hai Baqar ka
+  Tu hole hole chal baba
+
+  Mushkil hai safar mar jaauṅ ga
+  Tu hole hole chal
+  Ae mere baba Ae mere baba
 
   1
-  Padni hai namaz e mazloomi
-  Baba tu imamat karta jaa
-  Khud dhoop bhi hum pe roti hai
-  Jalta hai mussalla reti ka
-  Mai shukr ka sajda karlun ada
+  Parhni hai namaaz-e-mazlumi
+  Baba tu imaamat karta jaa
+  Khud dhup bhi hum pe roti hai
+  Jalta hai musalla reti ka
+  Main shukr ka sajda kar luṅ ada
 
   2
-  Kulsoom sakina zainab hai
-  Aur saath ruqqaya bibi hai
-  Is ek rasan may ay baba
-  Har umr ki zahra qaidi hai
-  Girti hai meri amma fizza
+  Kulsum Sakina Zainab hai
+  Aur saath Ruqayya Bibi hai
+  Is ik rasan mein Ae baba
+  Har umr ki Zahra qaidi hai
+  Girti hai meri amma Fizza
 
   3
-  Ab dhoop may itni shiddat hai
-  Jalte hai aseeri ke zewar
-  Pani to nahi hai aansu hi
-  Mai in pe chidak dunga aakar
-  Aaram tujhe mil jayega
+  Ab dhup mein itni shiddat hai
+  Jalte haiṅ asiri ke zewar
+  Paani to nahiṅ hai aaṅsu hi
+  Main in pe chhirak duṅ ga aa kar
+  Aaraam tujhe mil jaae ga
 
   4
-  Aankhon se rawan hai khoon tere
+  Aaṅkhoṅ se rawaaṅ hai khuṅ tere
   Jo teri phuphi hai beparda
-  Meri bhi phuphi hai be chadar
-  Wo naam sakina hai jiska
-  Khichta hai rasan se uska gala
+  Meri bhi phuphi hai bechaadar
+  Wo naam Sakina hai jis ka
+  Khinchta hai rasan se us ka gala
 
   5
-  Islam bachane ki khaatir
-  Nikli hai sharafat bechadar
-  Paon ke chaale rote hai
-  Chalti hai imamat kanton par
-  Ye pehla safar hai zainab ka
+  Islam bachaane ki khaatir
+  Nikli hai sharaafat bechaadar
+  Paauṅ ke chhaale rote haiṅ
+  Chalti hai imaamat kaaṅtoṅ par
+  Ye pehla safar hai Zainab ka
 
   6
-  Dekha nahi jaata ay baba
-  Mujhse ye qayamat ka manzar
+  Dekha nahiṅ jaata Ae baba
+  Mujh se ye qayaamat ka manzar
   Rukti hai kabhi chalti hai kabhi
-  Zainab ke badalte hai tewar
-  Ye shaam ko jaata hai rasta
+  Zainab ke badalte haiṅ tewar
+  Ye Shaam ko jaata hai rasta
 
   7
-  Gir gir ke jo chalti hai zainab
-  Mehsoos mujhe bhi hota hai
-  Sajjad pukaare ay beta
-  Mera bhi kaleja phat'ta hai
-  Jab sunta hoo tera nauha
+  Gir gir ke jo chalti hai Zainab
+  Mehsus mujhe bhi hota hai
+  Sajjad pukaare Ae beta
+  Mera bhi kaleja phatta hai
+  Jab sunta huṅ tera noha
 
   8
-  Gar tayz chala to ay beta
-  Bazaar e sitam aa jayega
-  Aahista agar bemaar chale
-  Durron ki azziyat payega
-  Aur tere labon par hai beta
+  Gar tez chala to Ae beta
+  Baazaar-e-sitam aa jaae ga
+  Aahista agar bimaar chale
+  Durroṅ ki aziyyat paae ga
+  Aur tere laboṅ par hai beta
 
   9
-  Manzoor aziyyat hai mujhko
-  Baqar ne takallum di ye sada
+  Manzur aziyyat hai mujh ko
+  Baqar ne Takallum di ye sada
   Har kaam pe teri marzi hai
   Tu jaise chaahe chal baba
-  Mai ab na kahunga ay baba
+  Main ab na kahuṅ ga Ae baba
 # source_id: nohayonline:c386811f4acc9eb9a33e
 # source_url: https://www.nohayonline.com/details_content.php?id=2410
 # raw_sha256: c3461db1e108f23d29a97d2616cb7e586f34bb06dbecafd347a71ff8e9963f05
@@ -91,9 +96,13 @@ romanLyrics: |-
 سانس خنجر کی طرح محسوس جب ہونے لگی
 اپنے بابا جاں سے رو کر یہ باقر نے کہا
 اے میرے بابا اے میرے بابا
+
 رسی میں گلا ہے باقر کا
 تو ہو لے ہو لے چل بابا
+
 مشکل ہے سفر مر جاؤں گا
+تو ہو لے ہو لے چل
+اے میرے بابا اے میرے بابا
 
 ۱
 پڑھنی ہے نماز مظلومی
@@ -104,7 +113,7 @@ romanLyrics: |-
 
 ۲
 کلثوم سکینہ زینب ہے
-اور ساتھ رقیہ بی بی ہے
+اور ساتھ رقیہ بی‌بی ہے
 اس اک رسن میں اے بابا
 ہر عمر کی زہرا قیدی ہے
 گرتی ہے میری اماں فضہ
@@ -113,8 +122,8 @@ romanLyrics: |-
 اب دھوپ میں اتنی شدت ہے
 جلتے ہیں اسیری کے زیور
 پانی تو نہیں ہے آنسوں ہی
-میں ان پہ چھڑک دونگا آکر
-آرام تجھے مل جاے گا
+میں ان پہ چھڑک دوں گا آ کر
+آرام تجھے مل جائے گا
 
 ۴
 آنکھوں سے رواں ہے خوں تیرے
@@ -146,13 +155,13 @@ romanLyrics: |-
 
 ۸
 گر تیز چلا تو اے بیٹا
-بازار ستم آ جاے گا
+بازار ستم آ جائے گا
 آہستہ اگر بیمار چلے
-دروں کی اذیت پاے گا
+دروں کی اذیت پائے گا
 اور تیرے لبوں پر ہے بیٹا
 
 ۹
-منظور اذیت ہے مجھکو
+منظور اذیت ہے مجھ کو
 باقر نے تکلم دی یہ صدا
 ہر کام پہ تیری مرضی ہے
 تو جیسے چاہے چل بابا
