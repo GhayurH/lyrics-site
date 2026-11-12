@@ -1,75 +1,80 @@
 ---
-title: "ہاے زہرا ہاے زہرا"
+title: "ہائے زہرا ہائے زہرا"
 alternateTitle: "Janaza Uth Raha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye zehra haye zehra
-  Waqte ruqsat hai ye fatema ka
-  Ho chuki hai namaz e janaza
-  Bache mayyat se lipte huwe hai
-  Aakhri hai ye deedar maa ka
-  Nahi hai koi ab apna ali ko chod kar tanha
+  Haaye Zehra haaye Zehra
+
+  Waqt-e-Rukhsat hai ye Fatema ka
+  Ho chuki hai namaaz-e-janaaza
+  Bachche mayyat se lipte hue haiṅ
+  Aakhri hai ye didaar maaṅ ka
+
+  Nahiṅ hai koi ab apna Ali ko chhor kar tanha
   Ali ke ghar ki raunaq jaa rahi hai
-  Janaza uth raha hai fatema ka
+  Janaaza uth raha hai Fatema ka
 
   1
-  Bahot zakhmi thi khud lekin ali ke zakhm bharti thi
+  Bahut zakhmi thi khud lekin Ali ke zakhm bharti thi
   Utha kar haath pehlu se wo aansu saaf karti thi
-  Ab aansu kaun pochega bahot yaad aayegi zehra
+  Ab aansu kaun ponchhe ga bahut yaad aaye gi Zehra
 
   2
-  Bulaya tha jise maa ne kafan se haath phaila ke
-  Usay lipta hua dekha to fizza ne kaha aa ke
-  Janaze se hussain uth ja kafan ab chod de maa ka
+  Bulaaya tha jise maaṅ ne kafan se haath phaila ke
+  Use lipta hua dekha to Fizza ne kaha aa ke
+  Janaaze se Husain uth jaa kafan ab chhor de maaṅ ka
 
   3
-  Kafan jab bhi hataata hai tamacha yaad aata hai
-  Wo zakhmi maa ka chehra choom ke aansu bahata hai
-  Hassan ko gham hai chehre par tamache ka nishan le kar
+  Kafan jab bhi hataata hai tamaacha yaad aata hai
+  Wo zakhmi maaṅ ka chehra chum ke aansu bahaata hai
+  Hasan ko gham hai chehre par tamaache ka nishaaṅ le kar
 
   4
-  Sirhane baith kar zainab ne maa ka haath jab chooma
-  Ali kehne lage dekha nishan jab taziyane ka
-  Chupa do saani e zehra ye zakhmi haath zehra ka
+  Sirhaane baith kar Zainab ne maaṅ ka haath jab chuma
+  Ali kehne lage dekha nishaaṅ jab taaziyaane ka
+  Chhupa do Saani-e-Zehra ye zakhmi haath Zehra ka
 
   5
-  Na ab lori sunayegi na wo jhoola jhulayegi
-  Hussain ab fatema kaise tumhe pani pilayegi
-  Wasiyat kar gayi zehra tumhe paalegi ab fizza
+  Na ab lori sunaaye gi na wo jhula jhulaaye gi
+  Husain ab Fatema kaise tumheṅ paani pilaaye gi
+  Wasiyyat kar gayi Zehra tumheṅ paale gi ab Fizza
 
   6
-  Madine waalon ab apne gharon may chain se sona
-  Satayega na ab tum ko nabi ki beti ka rona
-  Gira tha jispe jalta dar wo tooti phasliyan lekar
+  Madine waaloṅ ab apne gharoṅ mein chain se sona
+  Sataaye ga na ab tum ko Nabi ki beti ka rona
+  Gira tha jis pe jalta dar wo tuti pasliyaaṅ le kar
 
   7
-  Chuda kar maa se bachon ko ali ne jab kafan baandha
-  Tadap ke haye zeeshan o raza kehne lage maula
+  Chhura kar maaṅ se bachchoṅ ko Ali ne jab kafan baandha
+  Tarap ke haaye Zeeshan o Raza kehne lage Maula
   Hai taaza zakhm pehlu ka zara aahista do kaandha
 # source_id: nohayonline:c0800f29053dc5737418
 # source_url: https://www.nohayonline.com/details_content.php?id=2075
 # raw_sha256: eb4ad594d26f2374d4d379d6216ac8ba84e6b45133ebdaed78790cb9c8fd6be4
 ---
-ہاے زہرا ہاے زہرا
+ہائے زہرا ہائے زہرا
+
 وقتِ رخصت ہے یہ فاطمہ کا
 ہو چکی ہے نماز جنازہ
-بچے میت سے لپٹے ہوے ہیں
+بچے میت سے لپٹے ہوئے ہیں
 آخری ہے یہ دیدار ماں کا
+
 نہیں ہے کوئی اب اپنا علی کو چھوڑ کر تنہا
 علی کے گھر کی رونق جا رہی ہے
 جنازہ اٹھ رہا ہے فاطمہ کا
 
 ۱
 بہت زخمی تھی خود لیکن علی کے زخم بھرتی تھی
-اٹھا کر ہاتھ پہلو سے وہ آنسوں صاف کرتی تھی
-اب آنسوں کون پوچھے گا بہت یاد آے گی زہرا
+اٹھا کر ہاتھ پہلو سے وہ آنسو صاف کرتی تھی
+اب آنسو کون پونچھے گا بہت یاد آئے گی زہرا
 
 ۲
 بلایا تھا جسے ماں نے کفن سے ہاتھ پھیلا کے
@@ -77,26 +82,26 @@ romanLyrics: |-
 جنازے سے حسین اٹھ جا کفن اب چھوڑ دے ماں کا
 
 ۳
-کفن جب بھی ہٹاتا ہے طمانچے یاد آتا ہے
-وہ زخمی ماں کا چہرہ چوم کے آنسوں بہاتا ہے
+کفن جب بھی ہٹاتا ہے طمانچہ یاد آتا ہے
+وہ زخمی ماں کا چہرہ چوم کے آنسو بہاتا ہے
 حسن کو غم ہے چہرے پر طمانچے کا نشاں لے کر
 
 ۴
 سرہانے بیٹھ کر زینب نے ماں کا ہاتھ جب چوما
 علی کہنے لگے دیکھا نشاں جب تازیانے کا
-چھپا دو ثانیء زہرا یہ زخمی ہاتھ زہرا کا
+چھپا دو ثانیِ زہرا یہ زخمی ہاتھ زہرا کا
 
 ۵
-نہ اب لوری سناے گی نہ وہ جھولا جھلاے گی
-حسین اب فاطمہ کیسے تمہیں پانی پلاے گی
-وصیت کر گیء زہرا تمہیں پالے گی اب فضہ
+نہ اب لوری سنائے گی نہ وہ جھولا جھلائے گی
+حسین اب فاطمہ کیسے تمہیں پانی پلائے گی
+وصیت کر گئی زہرا تمہیں پالے گی اب فضہ
 
 ۶
 مدینے والوں اب اپنے گھروں میں چین سے سونا
-ستاے گا نہ اب تم کو نبی کی بیٹی کا رونا
-گرا تھا جس جلتا در وہ ٹوٹی پسلیاں لے کر
+ستائے گا نہ اب تم کو نبی کی بیٹی کا رونا
+گرا تھا جس پہ جلتا در وہ ٹوٹی پسلیاں لے کر
 
 ۷
 چھڑا کر ماں سے بچوں کو علی نے جب کفن باندھا
-تڑپ کے ہاے زیشان و رضا کہنے لگے مولا
-ہے تازہ زخم پہلو کا زرا آہستہ دو کاندھا
+تڑپ کے ہائے زیشان و رضا کہنے لگے مولا
+ہے تازہ زخم پہلو کا ذرا آہستہ دو کاندھا
