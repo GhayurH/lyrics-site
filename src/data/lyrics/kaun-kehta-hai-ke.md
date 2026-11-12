@@ -5,36 +5,37 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kaun kehta hai ke darya ki rawani de do
-  Zaalimo asghar e baysheer ko pani de do
+  Kaun kehta hai ke darya ki rawaani de do
+  Zaalimoṅ Asghar-e-beshir ko paani de do
 
   1
-  Sheh ne ehtemaam ki hujjat ali asghar tum bhi
-  Ab jo dena ho wo paigham zabani de do
+  Sheh ne ehtimaam ki hujjat Ali Asghar tum bhi
+  Ab jo dena ho wo paighaam zabaani de do
 
   2
-  Ummate jad ki hai bakshish ka sakina ye sawaal
-  Tashnagi lelo ghame tashna dahani de do
+  Ummat-e-jad ki hai bakhshish ka Sakina ye sawaal
+  Tashnagi le lo gham-e-tashna-dahaani de do
 
   3
-  Hashr tak bhool na paye ye zamana jis ko
-  Aaj tareekh ko ek aisi kahani de do
+  Hashr tak bhul na paaye ye zamaana jis ko
+  Aaj taarikh ko ik aisi kahaani de do
 
   4
-  Maalik e kausar o tasneem ali ke ho pisar
-  Alqama cheez hai kya hyder e saani de do
+  Maalik-e-Kausar o Tasnim Ali ke ho pisar
+  Alqama chiz hai kya Haidar-e-Saani de do
 
   5
-  Khusk reti pe safeena hai kate haathon se
-  Kashti e deen e elaahi ko rawani de do
+  Khushk reti pe safina hai kate haathoṅ se
+  Kashti-e-din-e-Ilaahi ko rawaani de do
 
   6
-  Baksh do deen ko hamshakle payambar ye shabab
-  Aaj islam ko akbar ye jawani de do
+  Bakhsh do din ko hamshakl-e-Payambar ye shabaab
+  Aaj Islaam ko Akbar ye javaani de do
 # source_id: nohayonline:9e98a0a9aa7a63ddc6d6
 # source_url: https://www.nohayonline.com/details_content.php?id=1104
 # raw_sha256: dd053c86b507db4fd9c2b4139b6eb5d522ef9454b225d95cf34ca4802daffbb6
@@ -43,25 +44,25 @@ romanLyrics: |-
 ظالموں اصغر بے شیر کو پانی دے دو
 
 ۱
-شہ نے احتمام کی حجت علی اصغر تم بھی
+شہ نے اہتمام کی حجت علی اصغر تم بھی
 اب جو دینا ہو وہ پیغام زبانی دے دو
 
 ۲
-امت جد کی ہے بخشش کا سکینہ یہ سوال
-تشنگی لے لو غم تشنہ دہانی دے دو
+امتِ جد کی ہے بخشش کا سکینہ یہ سوال
+تشنگی لے لو غمِ تشنہ دہانی دے دو
 
 ۳
-حشر تک بھول نہ پاے یہ زمانہ جس کو
-آج تاریک کو اک ایسی کہانی دے دو
+حشر تک بھول نہ پائے یہ زمانہ جس کو
+آج تاریخ کو اک ایسی کہانی دے دو
 
 ۴
-مالک کوثر و تسنیم علی کے ہو پسر
-علقمہ چیز ہے کیا حیدر ثانی دے دو
+مالکِ کوثر و تسنیم علی کے ہو پسر
+علقمہ چیز ہے کیا حیدرِ ثانی دے دو
 
 ۵
 خشک ریتی پہ سفینہ ہے کٹے ہاتھوں سے
-کشتیء دین الٰہی کو روانی دے دو
+کشتیِ دینِ الٰہی کو روانی دے دو
 
 ۶
-بخش دو دین کو ہمشکل پیمبر یہ شباب
+بخش دو دین کو ہمشکلِ پیمبر یہ شباب
 آج اسلام کو اکبر یہ جوانی دے دو
