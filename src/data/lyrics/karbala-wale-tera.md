@@ -6,76 +6,79 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zaheer Jaffery"
+reciter: "Mirza Sikander Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ye hamare dil mein jo emaan hai
+  Ye hamaare dil mein jo imaan hai
   Karbala wale tera ehsaan hai
-  Rehti duniya tak hai tera gham hussain
-  Ruk nahi sakta tera matam hussain
-  Hum uthayenge tera parcham hussain
+
+  Rehti duniya tak hai tera gham Husain
+  Ruk nahiṅ sakta tera maatam Husain
+  Hum uthaayeṅ ge tera parcham Husain
   Tere parcham ki anokhi shaan hai
 
   1
-  Aandhiyan uthengi toofan aayenge
-  Tere matam se na hum ghabrayenge
-  Har fiza-e-zulm par cha jayenge
-  Yeh hamara ahd hai payman hai
+  Aandhiyaaṅ utheṅ gi tufaan aayeṅ ge
+  Tere maatam se na hum ghabraayeṅ ge
+  Har fiza-e-zulm par chhaa jaayeṅ ge
+  Ye hamaara ahd hai paimaan hai
 
   2
-  Hashr tak lehraega parcham tera
-  Kam nahi hogi kabhi iski ziya
-  De raha hai aaj bhi darse wafa
-  Haye kya tere alam ki shaan hai
+  Hashr tak lehraaye ga parcham tera
+  Kam nahiṅ ho gi kabhi is ki ziya
+  De raha hai aaj bhi dars-e-wafa
+  Haaye kya tere alam ki shaan hai
 
   3
-  Laakhon ab toofan uthe aandhi chale
-  Laakh ho daaro rasan ke marhale
-  Sabr ke khaleq tere parcham talay
-  Ab hamein har marhala aasan hai
+  Laakhoṅ ab tufaan utheṅ aandhi chale
+  Laakh hoṅ daar o rasan ke marhale
+  Sabr ke khaaliq tere parcham tale
+  Ab hameṅ har marhala aasaan hai
 
   4
-  Khud musalmano ne loota ghar tera
-  Sach to ye hai ay shaheede karbala
-  Hogayi tujhpe sitam ki inteha
-  Kya imame waqt ki pehchan hai
+  Khud musalmaanoṅ ne luta ghar tera
+  Sach to ye hai ae shahid-e-Karbala
+  Ho gai tujh pe sitam ki inteha
+  Kya imaam-e-waqt ki pehchaan hai
 
   5
-  Sarware deen kaam jo tune kiya
-  Hazrate ayub se kab ho saka
-  Tune akbar sa pisar bhi de diya
+  Sarwar-e-din kaam jo tu ne kiya
+  Hazrat-e-Ayub se kab ho saka
+  Tu ne Akbar sa pisar bhi de diya
   Sabr tere sabr par hairaan hai
 
   6
-  Rayg zaare garm par kaata gaya
+  Reg zaar-e-garm par kaata gaya
   Zulm ke khanjar se jab tera gala
-  Haq pukar utha shaheede karbala
-  Rehti duniya tak tera farman hai
+  Haq pukaar utha shahid-e-Karbala
+  Rehti duniya tak tera farmaan hai
 
   7
-  Tere haaton par jo ek masoom tha
-  Pyas ki shiddath se jo maqmoom tha
-  Kya laeeno ko nahi maloom tha
-  Tere haaton par bhi ek quran hai
+  Tere haathoṅ par jo ek maasum tha
+  Pyaas ki shiddat se jo maqmum tha
+  Kya lainoṅ ko nahiṅ maalum tha
+  Tere haathoṅ par bhi ek Quraan hai
 
   8
-  Bezaban ke ran mein aane ki ada
-  Dushmano ke dil hilaane ki ada
-  Muskurakar teer khaane ki ada
+  Bezabaan ke ran mein aane ki ada
+  Dushmanoṅ ke dil hilaane ki ada
+  Muskura kar tir khaane ki ada
   Har ada mein haq ke ek elaan hai
 
   9
-  Ay zaheer ek ye bhi kaare sawaab
-  Kehke maine ya ali ya bu turaab
-  Kitne chehron se ulat di hai niqaab
-  Naame hyder qalb ki mezaan hai
+  Ae Zaheer ek ye bhi kaar-e-sawaab
+  Keh ke main ne Ya Ali Ya Bu Turaab
+  Kitne chehroṅ se ulat di hai naqaab
+  Naam-e-Haider qalb ki mizaan hai
 # source_id: nohayonline:1e2087b6f5ae54369f16
 # source_url: https://www.nohayonline.com/details_content.php?id=141
 # raw_sha256: 0a68be47b655759b78acd72e7638e5c4e46b3c56fe9b3df754f5a9120ec31724
 ---
 یہ ہمارے دل میں جو ایمان ہے
 کربلا والے تیرا احسان ہے
+
 رہتی دُنیا تک ہے تیرا غم حسین
 رُک نہیں سکتا تیرا ماتم حسین
 ہم اُٹھائیں گے تیرا پرچم حسین
@@ -90,7 +93,7 @@ romanLyrics: |-
 ۲
 حشر تک لہرائے گا پرچم تیرا
 کم نہیں ہو گی کبھی اس کی ضیا
-دے رہا ہے آج بھی درسے وفا
+دے رہا ہے آج بھی درسِ وفا
 ہائے کیا تیرے علم کی شان ہے
 
 ۳
@@ -112,7 +115,7 @@ romanLyrics: |-
 صبر تیرے صبر پر حیران ہے
 
 ۶
-ریگ ذرے گرم پر کاٹا گیا
+ریگ زارِ گرم پر کاٹا گیا
 ظلم کے خنجر سے جب تیرا گلا
 حق پُکار اُٹھا شہیدِ کربلا
 رہتی دُنیا تک تیرا فرمان ہے
@@ -125,7 +128,7 @@ romanLyrics: |-
 
 ۸
 بے زبان کے رن میں آنے کی ادا
-دشمنوں کے دل ہلنے کی ادا
+دشمنوں کے دل ہلانے کی ادا
 مسکرا کر تیر کھانے کی ادا
 ہر ادا میں حق کی اک اعلان ہے
 
@@ -133,4 +136,4 @@ romanLyrics: |-
 اے ظہیر اک یہ بھی کارِ ثواب
 کہہ کے میں نے یا علی یا بو تراب
 کتنے چہروں سے اُلٹ دی ہے نقاب
-نام حیدر قلب کی میزان ہے
+نامِ حیدر قلب کی میزان ہے
