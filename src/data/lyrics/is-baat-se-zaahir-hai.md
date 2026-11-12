@@ -6,40 +6,41 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mohamed Ali Wafa"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Is baat se zaahir hai rutba ali akbar ka
-  Hota hai azaano may charcha ali akbar ka
+  Is baat se zaahir hai rutba Ali Akbar ka
+  Hota hai azaanoṅ mein charcha Ali Akbar ka
 
   1
-  Ay hurr teri kismat ne kyun aaj ye karvat li
-  Kya subho ko dekha tha chehra ali akbar ka
+  Ae Hur teri qismat ne kiuṅ aaj ye karwat li
+  Kya subh ko dekha hai chehra Ali Akbar ka
 
   2
-  Shabbir jhulaate thay abbas ke jhoole ko
-  Abbas jhulaate hai jhoola ali akbar ka
+  Shabbir jhulaate the Abbas ke jhule ko
+  Abbas jhulaate haiṅ jhula Ali Akbar ka
 
   3
-  Poocha gaya yusuf se jab husn ke baare may
-  Has kar kaha ye to hai sadqa ali akbar ka
+  Puchha gaya Yusuf se jab husn ke baare mein
+  Haṅs kar kaha ye to hai sadqa Ali Akbar ka
 
   4
-  Ye rutba e akbar hai hyder ke gharane may
-  Aaghosh hai phupi ki jhoola ali akbar ka
+  Ye rutba-e-Akbar hai Haidar ke gharaane mein
+  Aaghosh hai phuphi ki jhula Ali Akbar ka
 
   5
-  Us maa ka muqaddar bhi kya khoob muqaddar hai
-  Jis maa ko bhi mil jaye sadqa ali akbar ka
+  Us maaṅ ka muqaddar bhi kya khub muqaddar hai
+  Jis maaṅ ko bhi mil jaaye sadqa Ali Akbar ka
 
   6
-  Laila ne kaha baithun kis tarha mai saaye may
-  Phirta hai nighaon may chehra ali akbar
+  Laila ne kaha baithuṅ kis tarah main saaye mein
+  Phirta hai nigaahoṅ mein chehra Ali Akbar ka
 
   7
-  Poocha gaya jab sheh se kyun kham hai kamar maula
-  Bole ke uthaaya tha laasha ali akbar
+  Puchha gaya jab Shah se kiuṅ kham hai kamar Maula
+  Bole ke uthaaya tha laasha Ali Akbar ka
 # source_id: nohayonline:b80d7c17343d25edec37
 # source_url: https://www.nohayonline.com/details_content.php?id=1597
 # raw_sha256: 713b54ce45d5c666f730fe6c8b37e41e32f41b2e987318e144ebce97fb1d82e2
@@ -60,15 +61,15 @@ romanLyrics: |-
 ہنس کر کہا یہ تو ہے صدقہ علی اکبر کا
 
 ۴
-یہ رتبہء اکبر ہے حیدر کے گھرانے میں
+یہ رتبۂ اکبر ہے حیدر کے گھرانے میں
 آغوش ہے پھپھی کی جھولا علی اکبر کا
 
 ۵
 اس ماں کا مقدر بھی کیا خوب مقدر ہے
-جس ماں کو بھی مل جاے صدقہ علی اکبر کا
+جس ماں کو بھی مل جائے صدقہ علی اکبر کا
 
 ۶
-لیلیٰ نے کہا بیٹھوں کس طرح میں ساے میں
+لیلیٰ نے کہا بیٹھوں کس طرح میں سائے میں
 پھرتا ہے نگاہوں میں چہرہ علی اکبر کا
 
 ۷

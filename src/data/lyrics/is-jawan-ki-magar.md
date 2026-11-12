@@ -5,53 +5,54 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Is jawan ki magar baat hi aur hai
-  
+  Is jawaaṅ ki magar baat hi aur hai
+
   1
-  Naaze har do jahan sheh ke lashkar mein hai
-  Saare shere jehan sheh ke lashkar mein hai
-  Kitne aburu kama sheh ke lashkar mein hai
-  Kaise kaise jawan sheh ke lashkar mein hai
-  
+  Naaz-e-har do jahaaṅ Shah ke lashkar mein haiṅ
+  Saare sher-e-jahaaṅ Shah ke lashkar mein haiṅ
+  Kitne abru kamaaṅ Shah ke lashkar mein haiṅ
+  Kaise kaise jawaaṅ Shah ke lashkar mein haiṅ
+
   2
-  Un mein hyder ke sarway sahi khad bhi hai
-  Baaghe muslim ke saywo bahi khad bhi hai
-  Maadane haq ke laal o zabar jad bhi hai
-  Yun to qasim bhi aun o mohamed bhi hai
-  
+  Un mein Haidar ke sarwe sahi khad bhi haiṅ
+  Baagh-e-Muslim ke saywo bahi khad bhi hai
+  Maadan-e-haq ke laal o zabarjad bhi haiṅ
+  Yuṅ to Qasim bhi Aun o Muhammad bhi haiṅ
+
   3
-  Kaun hai jaan ko jisne waara nahi
-  Kaun hai jo ke aankhon ka taara nahi
-  Kaun hai jo shahe deen ko pyara nahi
-  Kisne ghoday se gir kar pukara nahi
-  
+  Kaun hai jaan ko jis ne waara nahiṅ
+  Kaun hai jo ke aankhoṅ ka taara nahiṅ
+  Kaun hai jo Shah-e-diṅ ko pyaara nahiṅ
+  Kis ne ghore se gir kar pukaara nahiṅ
+
   4
-  Kisne sheh se bala'on ko taala nahi
-  Khud ko dushman ki faujo mein daala nahi
-  Kaun hai jo ke ghar ka ujaala nahi
-  Kaun hai jisko zainab ne paala nahi
-  
+  Kis ne Shah se balaaoṅ ko taala nahiṅ
+  Khud ko dushman ki faujoṅ mein daala nahiṅ
+  Kaun hai jo ke ghar ka ujaala nahiṅ
+  Kaun hai jis ko Zainab ne paala nahiṅ
+
   5
-  Khaake tayghe giray ran mein kya kya haseen
-  Laash par jinki tanha gaye shaahe deen
-  Kaamp utha falak aur larzi zameen
-  Bibiyan phir bhi qaime se nikli nahi
-  
+  Khaa ke teghe gire ran mein kya kya hasiṅ
+  Laash par jin ki tanha gaye Shah-e-diṅ
+  Kaaṅp utha falak aur larzi zamiṅ
+  Bibiyaaṅ phir bhi khaime se nikli nahiṅ
+
   6
-  Kisne zakhme sina dil pe khaya nahi
-  Kisne seene ko chalni banaya nahi
-  Kiske laashe ko sheh ne uthaaya nahi
-  Haath lekin behan ne bataya nahi
-  
+  Kis ne zakhm-e-sinaaṅ dil pe khaaya nahiṅ
+  Kis ne sine ko chhalni banaaya nahiṅ
+  Kis ke laashe ko Shah ne uthaaya nahiṅ
+  Haath lekin behan ne bataaya nahi
+
   7
-  Ran mein har ek aisa tha shireen zaban
-  Jiske lehje pe dawood bhi dede jaan
-  Inmein jisko bhi kehte shahe ins o jaan
-  Subhe ashoor wo badhke deta azan
+  Ran mein har ek aisa tha shiriṅ zabaan
+  Jis ke lahje pe Daud bhi de de jaan
+  In mein jis ko bhi kahte Shah-e-ins o jaan
+  Subh-e-Aashur wo barh ke deta azaan
 # source_id: nohayonline:f8964f2d51628adc2362
 # source_url: https://www.nohayonline.com/details_content.php?id=46
 # raw_sha256: b1d12cdd86bb771ca10d6f7458568511dbf5df201535aebf23a07fe8f7566d9f
@@ -68,8 +69,8 @@ romanLyrics: |-
 ۲
 اُن میں حیدر کے سروے صحیح کد بھی ہیں
 باغِ مُسلم کے سیوو بھائی خد بھی ہیں
-معدنےحق کے لال و زبر جد بھی ہیں
-یوں تو قاسم بھی عو ن و محمدبھی ہیں
+معدنِ حق کے لال و زبرجد بھی ہیں
+یوں تو قاسم بھی عون و محمد بھی ہیں
 
 ۳
 کون ہے جان کو جس نے وارا نہیں
@@ -78,13 +79,13 @@ romanLyrics: |-
 کس نے گھوڑے سے گر کر پُکارا نہیں
 
 ۴
-کس نے شِہ سے بلائوں کو ٹالانہیں
+کس نے شِہ سے بلاؤں کو ٹالا نہیں
 خود کو دُشمن کی فوجوں میں ڈالا نہیں
 کون ہے جو کہ گھر کا اُجالا نہیں
 کون ہے جس کو زینب نے پالا نہیں
 
 ۵
-کھا کہ تیغیںگرے رن میں کیا کیا حسیں
+کھا کہ تیغیں گرے رن میں کیا کیا حسیں
 لاش پر جن کی تنہا گئے شاہِ دیں
 کانپ اُٹھا فلک اور لرزی زمیں
 بیبیاں پھر بھی خیمے سے نکلی نہیں
@@ -96,7 +97,7 @@ romanLyrics: |-
 ہاتھ لیکن بہن نے بٹایا نہیں
 
 ۷
-رن میں ہرایک ایسا تھا شیریں زبان
-جس کے لہجے پہ دائود بھی دے دے جان
+رن میں ہر ایک ایسا تھا شیریں زبان
+جس کے لہجے پہ داؤد بھی دے دے جان
 ان میں جس کو بھی کہتے شہِ انس و جان
 صبح عاشور وہ بڑھ کے دیتا اذان

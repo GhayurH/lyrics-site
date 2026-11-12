@@ -4,117 +4,118 @@ alternateTitle: "Insan Ke Liye Maut Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Noha"
+kalamType: "Marsiya"
+reciter: "Zaki Abedi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Insan ke liye maut hai gham be watani ka
-  Jaanka hai andoh wo aalam be watani ka
-  Sadma nahi kuch maut se kam be watani ka
-  Aafat hai qayamat hai sitam be watani ka
+  Insaaṅ ke liye maut hai gham bewatani ka
+  Jaankah hai andoh wo aalam bewatani ka
+  Sadma nahiṅ kuch maut se kam bewatani ka
+  Aafat hai qayaamat hai sitam bewatani ka
 
   1
-  Kaanton ke alam syed e sajjad se poocho
-  Eeza e safar muslim e nashaad se poocho
-  Ki saqt dagha kufiyon ne ghar se bula ke
-  Sab phir gaye jin logon ke daawe thay wafa ke
+  Kaaṅtoṅ ke alam Sayyid-e-Sajjad se puchho
+  Izaa-e-safar Muslim-e-naashaad se puchho
+  Ki sakht dagha Kufiyoṅ ne ghar se bula ke
+  Sab phir gaye jin logoṅ ke daawe the wafa ke
 
   2
-  Laakhon hai adoo jaaye kidhar jaan bacha ke
-  Aafat may giraftaar huwe kufe may aa ke
-  Yawar nahi humdam nahi ghamkhaar nahi hai
-  Narghe may hai aur koi madadgaar nahi hai
+  Laakhoṅ hai adu jaaye kidhar jaan bacha ke
+  Aafat mein giraftaar hue Kufe mein aa ke
+  Yaawar nahiṅ hamdam nahiṅ ghamkhwaar nahiṅ hai
+  Narghe mein hai aur koi madadgaar nahiṅ hai
 
   3
-  Hai sangdil aise wo jafaakar o sitamgar
-  Kothon se lagane lage mazloom pa pathar
-  Noorani badan hogaya majrooh saraasar
-  Aur saamne se moo pa laga zulm ka khanjar
+  Hai sangdil aise wo jafaakaar o sitamgar
+  Kothoṅ se lagaane lage mazlum pa patthar
+  Nuraani badan ho gaya majruh saraasar
+  Aur saamne se muṅh pa laga zulm ka khanjar
 
   4
-  Kyun gir na pada haye falak phat ke zameen par
-  Laal lab e jaan baksh gire kat ke zameen par
-  Moo karke suye charq kaha shukr khudaya
-  Raahat hai ye bande ne jo kuch zulm uthaya
+  Kiuṅ gir na para haaye falak phat ke zamiṅ par
+  Laal lab-e-jaaṅ bakhsh gire kat ke zamiṅ par
+  Muṅh kar ke su-e-charkh kaha shukr Khudaaya
+  Raahat hai ye bande ne jo kuchh zulm uthaaya
 
   5
-  Gham ye hai ke hai door yadullah ka jaaya
-  Shabbir ke haathon se kafan hum ne na paaya
-  Dunya se suye khuld koi dam my safar hai
-  Yan hum pe jo kuch ban gayi kya unko khabar hai
+  Gham ye hai ke hai dur Yadullah ka jaaya
+  Shabbir ke haathoṅ se kafan ham ne na paaya
+  Duniya se su-e-khuld koi dam mein safar hai
+  Yaaṅ ham pe jo kuchh ban gayi kya un ko khabar hai
 
   6
-  Ye kehte thay muslim ke layeeno ne khazaara
-  Ek sange sitam is labe majrooh pa maara
-  Reesh aur garebaan may lahoo bhar gaya saara
-  Jab haal ye poocha to kaha jang ka yaara
+  Ye kahte the Muslim ke lainoṅ ne khazaara
+  Ek sang-e-sitam is lab-e-majruh pa maara
+  Rish aur garebaan mein lahu bhar gaya saara
+  Jab haal ye puchha to kaha jang ka yaara
 
   7
-  Aada se kaha dil may zara reham to jaa do
-  Ghash aata hai pani mujhe thoda sa pila do
-  Kab sunte thay bekas ka sukhan zulm ke baani
-  Thay qatl ki tadbeer may wo dushmane jaani
+  Aadaa se kaha dil mein zara rahm to jaa do
+  Ghash aata hai paani mujhe thora sa pila do
+  Kab sunte the bekas ka sukhan zulm ke baani
+  The qatl ki tadbir mein wo dushman-e-jaani
 
   8
-  Le aayi zaeefa wahin ek jaam may paani
-  Kismat ne magar bujhne na di tashna dahani
-  Sookhi hui thi gul si zaban khushk guloo tha
-  Us pani ko moo se jo lagaya to lahoo tha
+  Le aayi zaifa wahiṅ ek jaam mein paani
+  Qismat ne magar bujhne na di tashna dahaani
+  Sukhi hui thi gul si zabaaṅ khushk gulu tha
+  Us paani ko muṅh se jo lagaaya to lahu tha
 
   9
-  Phaynka usay jab khaak pa baa deeda e giryan
-  Ek jaam zaeefa ne diya phir unhe us aan
-  Peene bhi nahi paaya koi ghoont wo zeeshan
-  Paani may juda hoke gire gauhar e dandaan
+  Pheṅka use jab khaak pa baa dida-e-giryaaṅ
+  Ek jaam zaifa ne diya phir unheṅ us aan
+  Pine bhi nahiṅ paaya koi ghuṅt wo zishaan
+  Paani mein juda ho ke gire gauhar-e-dandaaṅ
 
   10
-  Farmaya ke saabit hua pyase hi marenge
-  Ab saaqi e kausar hamay sairaab karenge
-  Dushman to kayi sau thay ye be yaar-o madadgaar
-  Barchi kabhi padti thi kabhi padti thi talwaar
+  Farmaaya ke saabit hua pyaase hi mareṅge
+  Ab saaqi-e-Kausar hameṅ sairaab kareṅge
+  Dushman to kai sau the ye beyaar o madadgaar
+  Barchhi kabhi parti thi kabhi parti thi talwaar
 
   11
-  Andoh pe andoh thay aazaar pa aazaar
-  Kis aas se ek aik ka mu takte the har baar
-  Baazu ko sitamgar jo baande thay rasan se
-  Fawwara khoon chut'ta tha har zakhm e badan se
+  Andoh pe andoh the aazaar pa aazaar
+  Kis aas se ek ek ka muṅh takte the har baar
+  Baazu ko sitamgar jo baandhe the rasan se
+  Fawwaara-e-khuṅ chhutta tha har zakhm-e-badan se
 
   12
-  Al-qissa labe baam jo laaye unhe saffaak
-  Tar aansuon se ho gaya muslim ka rukh e paak
-  Faryad suye kaaba ye ki ba-dil e gham naak
-  Roohi ba fidak ay pisar e syed e laulaak
+  Alqissa lab-e-baam jo laaye unheṅ saffaak
+  Tar aaṅsuoṅ se ho gaya Muslim ka rukh-e-paak
+  Faryaad su-e-Kaaba ye ki baa dil-e-ghamnaak
+  Ruhi ba fidaak ae pisar-e-Sayyid-e-Laulaak
 
   13
-  Karta hai safar khalq se ghamkhaar tumhara
-  Mouqoof hai ab hashr pa deedaar tumhara
-  Farmake ye gardan taraf e qibla jhukayi
-  Shamsheer jafakaar ne chamka ke uthayi
+  Karta hai safar khalq se ghamkhwaar tumhaara
+  Mauquf hai ab hashr pa didaar tumhaara
+  Farmaa ke ye gardan taraf-e-qibla jhukaayi
+  Shamshir jafaakaar ne chamka ke uthaayi
 
   14
-  Awaaz ye maqdooma e kaunain ki aayi
-  Maarta hai haraawal mere bache ka duhayi
-  Is zulm se baaz aa jo khuda ka tujhe darr hai
-  Zaalim sar e muslim pa mera haath sipar hai
+  Aawaaz ye makhduma-e-kaunain ki aayi
+  Maarta hai haraawal mere bachche ka duhaayi
+  Is zulm se baaz aa jo Khuda ka tujhe dar hai
+  Zaalim sar-e-Muslim pa mera haath sipar hai
 
   15
-  Mere liye kam hashr ke din se ye nahi kam
-  Turbat se mai nikli hoo liye laasha e mohsin
-  Mazloom ko tu qatl karta hai wo lekin
-  Bin baap ke hojayenge bache kayi kamsin
+  Mere liye kam hashr ke din se ye nahiṅ kam
+  Turbat se main nikli huṅ liye laasha-e-Mohsin
+  Mazlum ko tu qatl karta hai wo lekin
+  Bin baap ke ho jaayeṅge bachche kai kamsin
 
   16
-  Khoon sar pe na le chod de aawara watan ko
-  Kar raand na abbas e dilawar ki behan ko
-  Zehra ne kayi baar tadap kar ye pukara
+  Khun sar pe na le chhor de aawaara watan ko
+  Kar raaṅd na Abbas-e-dilaawar ki behan ko
+  Zehra ne kai baar tarap kar ye pukaara
   Kya dil tha ke mutlaq na dara wo sitam aara
 
   17
-  Zalim ne kayi zarb may sar tan se utaara
-  Phat'ta hai jigar ab nahi goyaee ka yaara
-  Likha hai chala leke jo qatil sar e muslim
-  Kothe ke tale phaynk diya paikar e muslim
+  Zaalim ne kai zarb mein sar tan se utaara
+  Phatta hai jigar ab nahiṅ goyaai ka yaara
+  Likha hai chala le ke jo qaatil sar-e-Muslim
+  Kothe ke tale pheṅk diya paikar-e-Muslim
 # source_id: nohayonline:92047404d05c10e8cfac
 # source_url: https://www.nohayonline.com/content_marsiya.php?id=20
 # raw_sha256: e4025b69af8fa2b4f22c1e896c438275c3a3b47838db85b14a699bfa554645c7
@@ -126,13 +127,13 @@ romanLyrics: |-
 
 ۱
 کانٹوں کے الم سید سجاد سے پوچھو
-ایزاے سفر مسلم ناشاد سے پوچھو
+ایذائے سفر مسلم ناشاد سے پوچھو
 کی سخت دغا کوفیوں نے گھر سے بلا کے
-سب پھر گےء جن لوگوں کے دعوے تھے وفا کے
+سب پھر گئے جن لوگوں کے دعوے تھے وفا کے
 
 ۲
 لاکھوں ہے ہیں عدو جاے کدھر جان بچا کے
-آفت میں گرفتار ہوے کوفے میں آ کے
+آفت میں گرفتار ہوئے کوفے میں آ کے
 یاور نہیں ہم دم نہیں غم خوار نہیں ہے
 نرغے میں ہے اور کوئی مددگار نہیں ہے
 
@@ -143,16 +144,16 @@ romanLyrics: |-
 اور سامنے سے منہ پہ لگا ظلم کا خنجر
 
 ۴
-کیوں گر نہ پڑا ہاے فلک پھٹ کے زمیں پر
+کیوں گر نہ پڑا ہائے فلک پھٹ کے زمیں پر
 لال لب جاں بخش گرے کٹ کے زمیں پر
 منہ کرکے سوے چرخ کہا شکر خدایا
 راحت ہے یہ بندے نے جو کچھ ظلم اٹھایا
 
 ۵
 غم یہ ہے کہ ہے دور یداللہ کا جایا
-شبیر کے ہاتھوں سے کفن ہم‌ نے نہ پایا
+شبیر کے ہاتھوں سے کفن ہم نے نہ پایا
 دنیا سے سوے خلد کوئی دم میں سفر ہے
-یاں ہم پہ جو کچھ بن گیء کیا ان کو خبر ہے
+یاں ہم پہ جو کچھ بن گئی کیا ان کو خبر ہے
 
 ۶
 یہ کہتے تھے مسلم کے لعیوں نے قضارا
@@ -161,7 +162,7 @@ romanLyrics: |-
 جب حال یہ پوچھا تو کہا جنگ کا یارا
 
 ۷
-اعدا سے کہا دل میں زرا رحم تو جا دو
+اعدا سے کہا دل میں ذرا رحم تو جا دو
 غش آتا ہے پانی مجھے تھوڑا سا پلا دو
 کب سنتے تھے بیکس کا سخن ظلم کے بانی
 تھے قتل کی تدبیر میں وہ دشمن جانی
@@ -169,7 +170,7 @@ romanLyrics: |-
 ۸
 لے آی ضعیفی وہی اک جام میں پانی
 قسمت نے مگر بجھنے نہ دی تشنہ دہانی
-سوکھی ہوی تھی گل سی زباں خشک گلو تھا
+سوکھی ہوئی تھی گل سی زباں خشک گلو تھا
 اس پانی کو منہ سے جو لگایا تو لہو تھا
 
 ۹
@@ -180,18 +181,18 @@ romanLyrics: |-
 
 ۱۰
 فرمایا کہ ثابت ہوا پیاسے ہی مریں گے
-اب ثاقیء کوثر ہمیں سیراب کریں گے
-دشمن تو کیء سو تھے یہ بے یار و مددگار
+اب ساقیٔ کوثر ہمیں سیراب کریں گے
+دشمن تو کئی سو تھے یہ بے یار و مددگار
 برچی کبھی پڑتی تھی کبھی پڑتی تھی تلوار
 
 ۱۱
 اندوہ پہ اندوہ تھے اعزار پہ اعزار
 کس آس سے اک ایک کا منہ تکتے تھے ہر بار
 بازو کو ستمگر جو باندھے تھے رسن سے
-فوارہء خوں چھٹتا تھا ہر زخم بدن سے
+فوارۂ خوں چھٹتا تھا ہر زخم بدن سے
 
 ۱۲
-القصہ لب بام جو لاے انہیں صفاک
+القصہ لب بام جو لائے انہیں سفاک
 تر آنسوؤں سے ہو گیا مسلم کا رُخ پاک
 فریاد سوے کعبہ یہ کی با دل غم ناک
 روحی بہ فدک اے پسر سید لولاک
@@ -199,29 +200,29 @@ romanLyrics: |-
 ۱۳
 کرتا ہے سفر خلق سے غم خوار تمہارا
 موقوف ہے اب حشر پہ دیدار تمہارا
-فرما کے یہ گردن طرف قبلہ جھکای
-شمشیر جفا کار نے چمکا کے اٹھای
+فرما کے یہ گردن طرف قبلہ جھکائی
+شمشیر جفا کار نے چمکا کے اٹھائی
 
 ۱۴
-آواز یہ مخدومہء کونین کی آی
+آواز یہ مخدومۂ کونین کی آئی
 مارتا ہے ہراول میرے بچے کا دہای
 اس ظلم سے باز آ جو خدا کا تجھے ڈر ہے
 ظالم سر مسلم پہ میرا ہاتھ سپر ہے
 
 ۱۵
-میرے لیےء کم حشر کے دن سے یہ نہیں کم
-تربت سے میں نکلی ہوں لیےء لاشہء محسن
+میرے لیے کم حشر کے دن سے یہ نہیں کم
+تربت سے میں نکلی ہوں لیے لاشۂ محسن
 مظلوم کو تو قتل کرتا ہے وہ لیکن
-بن باپ کے ہو جاےنگے بچے کیء کم سن
+بن باپ کے ہو جائیں گے بچے کئی کم سن
 
 ۱۶
 خوں سر پہ نہ لے چھوڑ دے آوارہ وطن کو
 کر بیوہ نہ عباس دلاور کی بہن کو
-زہرا نے کیء بار تڑپ کر یہ پکارا
+زہرا نے کئی بار تڑپ کر یہ پکارا
 کیا دل تھا کہ مقتل نہ ڈرا وہ ستم آرا
 
 ۱۷
-ظالم‌ نے کیء ضرب میں سر تن سے اتارا
-پھٹتا ہے جگر اب نہیں گویای کا یارا
+ظالم نے کئی ضرب میں سر تن سے اتارا
+پھٹتا ہے جگر اب نہیں گویائی کا یارا
 لکھا ہے چلا لیکے جو قاتل سر مسلم
 کوٹھے کے تلے پھینک دیا پیکر مسلم
