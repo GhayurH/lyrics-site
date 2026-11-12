@@ -6,92 +6,94 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Baba ke liye qaid mein roti thi sakina
-  Ye kaun hai kya naam hai hakim ne ye poocha
-  Darbaan ne hakim ko ye tab jaake bataya
-  Ek bacchi hai rassi se gala dukhta hai jiska
-  Mai isko juda karta hoon jab bhai se iske
-  Ye khauf zada hoke yehi karti hai naale
-  Juda na karo mujhe bhai se
+  Baba ke liye qaid mein roti thi Sakina
+  Ye kaun hai kya naam hai haakim ne ye puchha
+  Darbaan ne haakim ko ye tab jaa ke bataaya
+  Ek bachchi hai rassi se gala dukhta hai jis ka
+  Main is ko juda karta huṅ jab bhaai se is ke
+  Ye khauf zada ho ke yehi karti hai naale
+
+  Juda na karo mujhe bhaai se
+  Andhera bahut ye zindaaṅ hai
+  Are zaalimoṅ sitam na karo
+  Laboṅ par ruki meri jaaṅ hai
 
   1
-  Andhera bohat ye zindan hai
-  Aray zaalimon sitam na karo
-  Labon par ruki meri jaan hai
-  Behan kehti thi ye sajjad ki
-  Sifarish karo layeen se meri
+  Behan kehti thi ye Sajjad ki
+  Sifaarish karo laiṅ se meri
   Ye tum se mujhe juda na kare
-  Mere haal par mujhe chod de
-  Yahan tum raho wahan mai rahoon
+  Mere haal par mujhe chhor de
+  Yahaaṅ tum raho wahaaṅ main rahuṅ
   To bas maut ka hi imkaan hai
 
   2
   Padar aur chacha ke sar hai juda
-  Mera bhai bhi to maara gaya
-  Ye bemaar jo mera bhai hai
-  Yahan is ko bhi qaza laayi hai
-  Juda hoke hum na jee payenge
+  Mera bhaai bhi to maara gaya
+  Ye bimaar jo mera bhaai hai
+  Yahaaṅ is ko bhi qaza laai hai
+  Juda ho ke ham na ji paaeṅ ge
   Saza ye na do to ehsaan hai
 
   3
-  Ujaalon mein mai hamesha rahi
-  Na bhaayi mujhe kabhi teeragi
-  Ye tanhaiyan ye tareekiyan
-  Meri umr se badi sakhtiyan
-  Mai zakhmi badan mai tashna dahan
-  Meri maut ka ye saaman hai
+  Ujaaloṅ mein main hamesha rahi
+  Na bhaai mujhe kabhi tiragi
+  Ye tanhaaiyaaṅ ye taarikiyaaṅ
+  Meri umr se bari sakhtiyaaṅ
+  Main zakhmi badan main tashna dahaaṅ
+  Meri maut ka ye saamaan hai
 
   4
-  Chalo ab kabhi nahi ro'ungi
-  Aziyat mein hoon magar soungi
-  Chalo ab rahoge tum chain se
-  Na jaagoge tum mere bain se
-  Mujhe hai khabar mai royi agar
-  To zulm o sitam ka toofan hai
+  Chalo ab kabhi nahiṅ rouṅ gi
+  Aziyat mein huṅ magar souṅ gi
+  Chalo ab raho ge tum chain se
+  Na jaago ge tum mere bain se
+  Mujhe hai khabar main roi agar
+  To zulm o sitam ka tufaan hai
 
   5
-  Tamache lage mai chup hi rahi
-  Gohar chin gaye mai chup hi rahi
-  Giri oont se raah e shaam mein
-  Tamache mile hai inaam mein
-  Mujhe rone do aray zaalimon
-  Mera dil bahot pareshan hai
+  Tamaache lage main chup hi rahi
+  Gauhar chhin gae main chup hi rahi
+  Giri uṅt se raah-e-Shaam mein
+  Tamaache mile haiṅ inaam mein
+  Mujhe rone do are zaalimoṅ
+  Mera dil bahut pareshaan hai
 
   6
   Khuda ke liye sitam ye na kar
-  Kisi se nahi khuda se to darr
+  Kisi se nahiṅ Khuda se to dar
   Nabi ka agar tu hai ummati
-  Ye be hurmati sar e shaah ki
-  Khudara na kar aray bad nazar
-  Ye sar deen hai ye quran hai
+  Ye behurmati sar-e-Shaah ki
+  Khudaara na kar are bad nazar
+  Ye sar din hai ye Quraan hai
 
   7
-  Mujhe hai khabar na jee paaungi
-  Yahan se na ab mai ghar jaaungi
+  Mujhe hai khabar na ji paauṅ gi
+  Yahaaṅ se na ab main ghar jaauṅ gi
   Karega na ab koi bhi madad
-  Isi qaid mein banegi lehad
-  Mera pairahan banega kafan
-  Ke maskan mera ye zindan hai
+  Isi qaid mein bane gi lahad
+  Mera pairahan bane ga kafan
+  Ke maskan mera ye zindaan hai
 
   8
-  Hai jaari lahoo mere kaan se
-  Ye kaisa sitam hai mehman se
-  Phuphi se alag hoon maan se juda
-  Hai kurta mera lahoo se bhara
-  Meri zindagi dukhon se bhari
-  Ye mazloomiyat meri shaan hai
+  Hai jaari lahu mere kaan se
+  Ye kaisa sitam hai mehmaan se
+  Phuphi se alag huṅ maaṅ se juda
+  Hai kurta mera lahu se bhara
+  Meri zindagi dukhoṅ se bhari
+  Ye mazlumiyat meri shaan hai
 
   9
-  Hai zindan wohi wohi shaam hai
-  Wahan raat din jo kohraam hai
-  Azadar sab hai nauha balab
-  Hai girya kuna zameen e arab
-  Bapa har ghadi rehaan azmi
-  Fiza matami basad shaan hai
+  Hai zindaaṅ wohi wohi Shaam hai
+  Wahaaṅ raat din jo kohraam hai
+  Azaadaar sab hai nauha balab
+  Hai girya kunaaṅ zamin-e-Arab
+  Bapa har ghari Rehaan Azmi
+  Fiza maatami basad shaan hai
 # source_id: nohayonline:d87d91fc488df7139550
 # source_url: https://www.nohayonline.com/details_content.php?id=3011
 # raw_sha256: 1170ec6b6c28d61caa0b1fb7458f3da198ca4b7e07469b783dc44b70192f6893
@@ -100,14 +102,15 @@ romanLyrics: |-
 یہ کون ہے کیا نام ہے حاکم نے یہ پوچھا
 دربان نے حاکم کو یہ تب جا کے بتایا
 ایک بچی ہے رسی سے گلا دکھتا ہے جس کا
-میں اس کو جدا کرتا ہوں جب بھای سے اس کے
+میں اس کو جدا کرتا ہوں جب بھائی سے اس کے
 یہ خوف زدہ ہو کے یہی کرتی ہے نالے
-جدا نہ کرو مجھے بھای سے
 
-۱
+جدا نہ کرو مجھے بھائی سے
 اندھیرا بہت یہ زنداں ہے
 ارے ظالموں ستم نہ کرو
 لبوں پر رکی میری جاں ہے
+
+۱
 بہن کہتی تھی یہ سجاد کی
 سفارش کرو لعیں سے میری
 یہ تم سے مجھے جدا نہ کرے
@@ -119,29 +122,29 @@ romanLyrics: |-
 پدر اور چچا کے سر ہے جدا
 میرا بھائی بھی تو مارا گیا
 یہ بیمار جو میرا بھائی ہے
-یہاں اس کو بھی قضا لای ہے
-جدا ہو کے ہم نہ جی پاییں گے
+یہاں اس کو بھی قضا لائی ہے
+جدا ہو کے ہم نہ جی پائیں گے
 سزا یہ نہ دو تو احسان ہے
 
 ۳
 اجالوں میں میں ہمیشہ رہی
-نہ بھای مجھے کبھی تیرگی
+نہ بھائی مجھے کبھی تیرگی
 یہ تنہائی یہ تاریکیاں
 میری عمر سے بڑی سختیاں
 میں زخمی بدن میں تشنہ دہاں
 میری موت کا یہ سامان ہے
 
 ۴
-چلو اب کبھی نہیں روونگی
-اذیت میں ہوں مگر سوونگی
+چلو اب کبھی نہیں روؤں گی
+اذیت میں ہوں مگر سوؤں گی
 چلو اب رہو گے تم چین سے
 نہ جاگو گے تم میرے بین سے
-مجھے ہے خبر میں روی اگر
+مجھے ہے خبر میں روئی اگر
 تو ظلم و ستم کا طوفان ہے
 
 ۵
 طمانچے لگے میں چپ ہی رہی
-گوہر چھن گےء میں چپ ہی رہی
+گوہر چھن گئے میں چپ ہی رہی
 گری اونٹ سے راہ شام میں
 طمانچے ملے ہیں انعام میں
 مجھے رونے دو ارے ظالموں
@@ -158,7 +161,7 @@ romanLyrics: |-
 ۷
 مجھے ہے خبر نہ جی پاؤں گی
 یہاں سے نہ اب میں گھر جاؤں گی
-گرے گا نہ اب کوئی بھی مدد
+کرے گا نہ اب کوئی بھی مدد
 اسی قید میں بنے گی لحد
 میرا پیرہن بنے گا کفن
 کہ مسکن میرا یہ زندان ہے
@@ -166,7 +169,7 @@ romanLyrics: |-
 ۸
 ہے جاری لہو میرے کان سے
 یہ کیسا ستم ہے مہمان سے
-پھپھی سے الگ ہوں مان سے جدا
+پھپھی سے الگ ہوں ماں سے جدا
 ہے کرتہ میرا لہو سے بھرا
 میری زندگی دکھوں سے بھری
 یہ مظلومیت میری شان ہے
