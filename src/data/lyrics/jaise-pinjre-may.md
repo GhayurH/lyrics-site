@@ -1,66 +1,67 @@
 ---
 title: "جیسے پنجرے میں ہو کوئی پنچی"
-alternateTitle: "Jaise Pinjre May"
+alternateTitle: "Jaise Pinjre Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Jaise pinjre mein ho koi panchi
-  Aise zindan mein hai sakina
+  Aise zindaan mein hai Sakina
 
   1
-  Kabhi amma ke pehlu mein rona
+  Kabhi ammaṅ ke pehlu mein rona
   Kabhi bhaiya se apne lipatna
-  Kabhi takrana dewaar o dar se
-  Kabhi zindan ke dar par ye kehna
-  Aao baba jaan
+  Kabhi takraana diwaar o dar se
+  Kabhi zindaaṅ ke dar par ye kehna
+  Aao baaba jaaṅ
 
   2
-  Aise chakraati phirti thi bachi
+  Aise chakraati phirti thi bachchi
   Jaise pinjre mein zakhmi ho panchi
-  Kaise kaare khafas tod daale
-  Ho rehaai ka koi kareena
-  Aao baba jaan
+  Kaise kaare qafas tor daale
+  Ho rihaai ka koi qarina
+  Aao baaba jaaṅ
 
   3
-  Maut se pehle aa jao baba
-  Ye sakina pe ehsaan hoga
-  Baad mere na baba ye kehna
-  Mai ne tum ko pukara nahi tha
-  Aao baba jaan
+  Maut se pehle aa jaao baaba
+  Ye Sakina pe ehsaan ho ga
+  Baad mere na baaba ye kehna
+  Main ne tum ko pukaara nahiṅ tha
+  Aao baaba jaaṅ
 
   4
-  Ay phupi ab mera dil hai kehta
-  Mujhko mil jayega mera baba
-  Dadi zehra ki maano kahani
+  Ae phuphi ab mera dil hai kehta
+  Mujh ko mil jaayega mera baaba
+  Daadi Zehra ki maano kahaani
   Mil gaya tha suna ran ka beta
-  Aao baba jaan
+  Aao baaba jaaṅ
 
   5
-  Hogayi khair aaya na asghar
-  Wo to mar jaata zindan mein ghut kar
+  Ho gayi khair aaya na Asghar
+  Wo to mar jaata zindaaṅ mein ghut kar
   Kaise sota andhere mein bhaiya
-  Qaid ho jaata zindan mein jhoola
-  Aao baba jaan
+  Qaid ho jaata zindaaṅ mein jhula
+  Aao baaba jaaṅ
 
   6
-  Haye khoon mein bhara sar jo aaya
-  Baap ke sar se beti ne poocha
-  Moo pe moo rak ke so na sakungi
-  Hai kahan mere baba ka seena
-  Aao baba jaan
+  Haaye khuṅ mein bhara sar jo aaya
+  Baap ke sar se beti ne puchha
+  Munh pe munh rakh ke so na sakuṅ gi
+  Hai kahaaṅ mere baaba ka sina
+  Aao baaba jaaṅ
 
   7
-  Sabr kaise ho rehaan o sarwar
-  Hum to aaye hai khud shaam ho kar
+  Sabr kaise ho Rehaan o Sarwar
+  Hum to aaye haiṅ khud Shaam ho kar
   Aaj bhi shaam dhalti hai jab bhi
-  Ek sada kaat'ti hai kaleja
-  Aao baba jaan
+  Ik sada kaatti hai kaleja
+  Aao baaba jaaṅ
 # source_id: nohayonline:04f81c003dda578febc6
 # source_url: https://www.nohayonline.com/details_content.php?id=2064
 # raw_sha256: 8a075f3cf8f428ec094cee73499381c576c24eff9aec9ee63cc1de4d6ac09071
@@ -79,7 +80,7 @@ romanLyrics: |-
 ایسے چکراتی پھرتی تھی بچی
 جیسے پنجرے میں زخمی ہو پنچی
 کیسے کارے قفس توڑ ڈالے
-ہو رہای کا کو قرینہ
+ہو رہائی کا کوئی قرینہ
 آؤ بابا جاں
 
 ۳
@@ -91,20 +92,20 @@ romanLyrics: |-
 
 ۴
 اے پھپھی اب میرا دل ہے کہتا
-مجھکو مل جاے میرا بابا
+مجھ کو مل جائے گا میرا بابا
 دادی زہرا کی مانو کہانی
 مل گیا تھا سنا رن کا بیٹا
 آؤ بابا جاں
 
 ۵
-ہوگیء خیر آیا نہ اصغر
+ہو گئی خیر آیا نہ اصغر
 وہ تو مر جاتا زنداں میں گھٹ کر
 کیسے سوتا اندھیرے میں بھیا
 قید ہو جاتا زنداں میں جھولا
 آؤ بابا جاں
 
 ۶
-ہاےخوں میں بھرا سر جو آیا
+ہائے خوں میں بھرا سر جو آیا
 باپ کے سر سے بیٹی نے پوچھا
 منہ پہ منہ رکھ کے سو نہ سکوں گی
 ہے کہاں میرے بابا کا سینہ
@@ -112,7 +113,7 @@ romanLyrics: |-
 
 ۷
 صبر کیسے ہو ریحان و سرور
-ہم تو آے ہیں خود شام ہو کر
+ہم تو آئے ہیں خود شام ہو کر
 آج بھی شام ڈھلتی ہے جب بھی
 اک صدا کاٹتی ہے کلیجہ
 آؤ بابا جاں
