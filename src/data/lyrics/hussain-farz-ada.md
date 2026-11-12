@@ -1,41 +1,42 @@
 ---
 title: "حسین فرض ادا کر رہے ہیں سجدے میں"
-alternateTitle: "Hussain Farz Ada"
+alternateTitle: "Husain Farz Ada"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
+reciter: "Mukhtar Husain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hussain farz ada kar rahe hai sajde may
-  Yazidiyat ko fana kar rahe hain sajde may
+  Husain farz ada kar rahe haiṅ sajde mein
+  Yazidiyat ko fana kar rahe haiṅ sajde mein
 
   1
-  Hussain de ke bahattar saron ki qurbani
-  Khuda ka shukr ada kar rahe hai sajde may
+  Husain de ke bahattar saroṅ ki qurbaani
+  Khuda ka shukr ada kar rahe haiṅ sajde mein
 
   2
-  Hayaat deen e mohamed ko ay musalmano
-  Ba waqte asr ata kar rahe hai sajde may
+  Hayaat din-e-Muhammad ko ae musalmaanoṅ
+  Ba waqt-e-asr ata kar rahe haiṅ sajde mein
 
   3
-  Zamane waalo ye sabr e hussain to dekho
-  Ke dushmano ka bhala kar rahe hai sajde may
+  Zamaane waaloṅ ye sabr-e-Husain to dekho
+  Ke dushmanoṅ ka bhala kar rahe haiṅ sajde mein
 
   4
-  Layeen ki kund churi chal rahi thi gardan par
-  Magar hussain dua kar rahe hai sajde may
+  Laiṅ ki kund chhuri chal rahi thi gardan par
+  Magar Husain dua kar rahe haiṅ sajde mein
 
   5
-  Ye ummati hai ke pad kar rasool ka kalma
-  Sar e hussain juda kar rahe hai sajde may
+  Ye ummati haiṅ ke parh kar Rasul ka kalma
+  Sar-e-Husain juda kar rahe haiṅ sajde mein
 
   6
-  Urooj khoon se apne hussain ibne ali
-  Zameen ko khaake shifa kar rahe hai sajde may
+  Uruj khun se apne Husain Ibn-e-Ali
+  Zamiṅ ko khaak-e-shifa kar rahe haiṅ sajde mein
 # source_id: nohayonline:ae61dc11801ca67099e9
 # source_url: https://www.nohayonline.com/details_content.php?id=1427
 # raw_sha256: 111f8896252bfa4e894263e7c7c86ce6d232b0cac38b44d49f9504cd8906bc5b
@@ -61,7 +62,7 @@ romanLyrics: |-
 
 ۵
 یہ امتی ہیں کہ پڑھ کر رسول کا کلمہ
-سر حسین چدا کر رہے ہیں سجدے میں
+سر حسین جدا کر رہے ہیں سجدے میں
 
 ۶
 عروج خون سے اپنے حسین ابنِ علی

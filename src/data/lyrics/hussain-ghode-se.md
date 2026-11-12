@@ -1,58 +1,60 @@
 ---
 title: "سنا یہ زینب نے شور لشکر"
-alternateTitle: "Hussain Ghode Se"
+alternateTitle: "Husain Ghore Se"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
+reciter: "Tabligh-e-Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Suna ye zainab ne shor e lashkar
-  Hussain ghode se gir chuke hai
-  Gulu e sheh par chala wo khanjar
+  Suna ye Zainab ne shor-e-lashkar
+  Husain ghore se gir chuke haiṅ
+  Gulu-e-Shah par chala wo khanjar
+  Husain ghore se gir chuke haiṅ
 
   1
-  Ghiro na ab qatle shaahe deen se
-  Na uth sakenge ye ab zameen se
-  Yuhin tadapne do ab zameen par
+  Ghiro na ab qatl-e-Shaah-e-diṅ se
+  Na uth sakeṅge ye ab zamiṅ se
+  Yuṅhi tarapne do ab zamiṅ par
 
   2
-  Namaz ki do na inko mohlat
-  Na ek sajde ki do ijazat
-  Uthao khanjar qalam karo sar
+  Namaaz ki do na in ko mohlat
+  Na ek sajde ki do ijaazat
+  Uthaao khanjar qalam karo sar
 
   3
-  Sada di zainab ne suye darya
-  Madad ko aajao jald bhaiya
-  Bachao aaqa ko apne aa kar
+  Sada di Zainab ne su-e-darya
+  Madad ko aa jaao jald bhaiya
+  Bachaao Aaqa ko apne aa kar
 
   4
-  Badan tha zakhmon se choor itna
-  Muhaal ghode pe tha sambhalna
-  Tanha hai ran mein mera biradar
+  Badan tha zakhmoṅ se chur itna
+  Muhaal ghore pe tha sambhalna
+  Tanha hai ran mein mera biraadar
 
   5
-  Akele maqtal mein shaahe deen hai
-  Aur unko gehre huwe layeen hai
-  Kahan ho qasim kahan ho akbar
+  Akele maqtal mein Shaah-e-diṅ hai
+  Aur un ko gehre hue laiṅ hai
+  Kahaaṅ ho Qaasim kahaaṅ ho Akbar
 
   6
-  Na koi shaahe umam ka waaris
-  Na koi ahle haram ka waaris
-  Na ab rahegi saron pe chaadar
+  Na koi Shaah-e-umam ka waaris
+  Na koi ahl-e-haram ka waaris
+  Na ab rahegi saroṅ pe chaadar
 
   7
-  Aseer hum ko karenge aada
-  Aur honge bazaar e shaam o kufa
+  Asir ham ko kareṅge aada
+  Aur hoṅge baazaar-e-Shaam o Kufa
   Phirenge hum sar barehna dar dar
 
   8
-  Jo khoon mein doobe pade hai laashe
-  Wo bawafa nasiran e sheh ke
-  Sadayein dete hai wo bahattar
+  Jo khun mein dube pare haiṅ laashe
+  Wo baawafa naasiraan-e-Shah ke
+  Sadaaeṅ dete haiṅ wo bahattar
 # source_id: nohayonline:a1545310bb1280c8d382
 # source_url: https://www.nohayonline.com/details_content.php?id=3452
 # raw_sha256: 11e9a5d3b01480dbb853fa0f085f568f567928438a02e9d0b2ca2fab74bb34c2
@@ -61,6 +63,7 @@ romanLyrics: |-
 سنا یہ زینب نے شور لشکر
 حسین گھوڑے سے گر چکے ہیں
 گلوے شہ پر چلا وہ خنجر
+حسین گھوڑے سے گر چکے ہیں
 
 ۱
 گھرو نہ اب قتل شاہ دیں سے
@@ -73,7 +76,7 @@ romanLyrics: |-
 اٹھاؤ خنجر قلم کرو سر
 
 ۳
-صدا دی زینب نے سوے دریا
+صدا دی زینب نے سوئے دریا
 مدد کو آجاؤ جلد بھیا
 بچاؤ آقا کو اپنے آ کر
 
@@ -84,20 +87,20 @@ romanLyrics: |-
 
 ۵
 اکیلے مقتل میں شاہ دیں ہے
-اور ان کو گہرے ہوے لعیں ہے
+اور ان کو گہرے ہوئے لعیں ہے
 کہاں ہو قاسم کہاں ہو اکبر
 
 ۶
 نہ کوئی شاہ امم کا وارث
-نہ کوئی حرم کا وارث
+نہ کوئی اہل حرم کا وارث
 نہ اب رہے گی سروں پہ چادر
 
 ۷
 اسیر ہم کو کریں گے اعدا
-اور ہونگے بازار شام و کوفہ
+اور ہوں گے بازار شام و کوفہ
 پھریں گے ہم سر برہنہ در در
 
 ۸
 جو خون میں ڈوبے پڑے ہیں لاشے
 وہ باوفا ناصران شہ کے
-صداییں دیتے ہیں وہ بہتر
+صدائیں دیتے ہیں وہ بہتر

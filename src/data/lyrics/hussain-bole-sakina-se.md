@@ -1,83 +1,84 @@
 ---
 title: "حسین بولے سکینہ سے تم گھبرانا"
-alternateTitle: "Hussain Bole Sakina Se"
+alternateTitle: "Husain Bole Sakina Se"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Suroor Lakhnavi"
+reciter: "Anjuman Muhibbaan-e-Husain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hussain bole sakina se tum na ghabrana
-  Jo neend aaye to maqtal mein tum chali aana
+  Husain bole Sakina se tum na ghabraana
+  Jo nind aaye to maqtal mein tum chali aana
 
   1
-  Mujhe pata hai bohat zulm dhaaye jayenge
-  Chinegi chadarein qaime jalaye jayenge
-  Magar zuban pa shikwa na meri jaan laana
+  Mujhe pata hai bohat zulm dhaaye jaaeṅge
+  Chhinegi chaadareṅ khaime jalaaye jaaeṅge
+  Magar zabaan pe shikwa na meri jaaṅ laana
 
   2
-  Ye wo zameen hai jahan tashnagi ki shiddat hai
-  Tumhare naam yahan aur bhi qayamat hai
-  Yahin milegi tamachon ka tum ko nazrana
+  Ye wo zamiṅ hai jahaaṅ tashnagi ki shiddat hai
+  Tumhaare naam yahaaṅ aur bhi qayaamat hai
+  Yahiṅ milegi tamaachoṅ ka tum ko nazraana
 
   3
-  Kahin pe dhoop milegi kahin pe sannate
-  Kahin pe phool milenge kahin kahin kaante
-  Tum apne dil ki tarha aansuon ko behlana
+  Kahiṅ pe dhup milegi kahiṅ pe sannaate
+  Kahiṅ pe phul mileṅge kahiṅ kahiṅ kaaṅte
+  Tum apne dil ki tarah aaṅsuoṅ ko behlaana
 
   4
-  Sitam jo baaliyan maange to baaliyan dena
-  Rasan kr waaste apni kaliayan dena
-  Na mujhko aur na ammu ko dhoondhne aana
+  Sitam jo baaliyaaṅ maaṅge to baaliyaaṅ dena
+  Rasan ke waaste apni kalaaiyaaṅ dena
+  Na mujh ko aur na ammu ko dhundhne aana
 
   5
-  Sukoon tumse mile to sukoon se mar bhi sakun
-  Phir apne baad ki manzil se mai guzar bhi sakun
-  Yaqeen dilaun ke tum ne mera kaha maana
+  Sukun tum se mile to sukun se mar bhi sakuṅ
+  Phir apne baad ki manzil se main guzar bhi sakuṅ
+  Yaqiṅ dilaauṅ ke tum ne mera kaha maana
 
   6
-  Rida chine to mujhe yaad kar ke ro lena
-  Jo neend aaye to mere baghair so lena
+  Rida chhine to mujhe yaad kar ke ro lena
+  Jo nind aaye to mere baghair so lena
   Khuda ka shukr har ek zulm par baja laana
 
   7
-  Hai tum se meri mulaqaat aakhiri bibi
-  Mai tum se mil nahi paunga ab kabhi bibi
-  Chalakne waala hai ab zindagi ka paimana
+  Hai tum se meri mulaaqaat aakhiri Bibi
+  Main tum se mil nahiṅ paauṅga ab kabhi Bibi
+  Chhalakne waala hai ab zindagi ka paimaana
 
   8
-  Dilon mein kya hai zamane ka koi theek nahi
-  Koi bhi bekas o mazloom ka shareek nahi
-  Meri behen jahan jaaye wahan chali jaana
+  Diloṅ mein kya hai zamaane ka koi thik nahiṅ
+  Koi bhi bekas o mazlum ka sharik nahiṅ
+  Meri behen jahaaṅ jaaye wahaaṅ chali jaana
 
   9
-  Mohabbaton se bhari tujhse guftugu kar lun
-  Jo dil mein reh gayi zaahir wo aarzoo kar lun
-  Ab aane waala hai meri ajal ka parwana
+  Mohabbatoṅ se bhari tujh se guftugu kar luṅ
+  Jo dil mein reh gayi zaahir wo aarzu kar luṅ
+  Ab aane waala hai meri ajal ka parwaana
 
   10
-  Hussain chal diye beti se guftugu kar ke
-  Akele pan mein na rone ki aarzoo kar ke
-  Suroor phir bhi sakina ka dil nahi maana
+  Husain chal diye beti se guftugu kar ke
+  Akele pan mein na rone ki aarzu kar ke
+  Surur phir bhi Sakina ka dil nahiṅ maana
 # source_id: nohayonline:8c5664b2ddc9eede606e
 # source_url: https://www.nohayonline.com/details_content.php?id=3749
 # raw_sha256: 4ca2ee67d8f05fcde99e5096970aee1a48841572d35763296fce55508777a12b
 ---
 حسین بولے سکینہ سے تم گھبرانا
-جو نیند آے تو مقتل میں تم چلی آنا
+جو نیند آئے تو مقتل میں تم چلی آنا
 
 ۱
-مجھے پتہ ہے بہت ظلم ڈھاے جایینگے
-چھنے گی چادریں خیمے جلاے جاینگے
+مجھے پتہ ہے بہت ظلم ڈھائے جائیں گے
+چھنے گی چادریں خیمے جلائے جائیں گے
 مگر زبان پہ شکوہ نہ میری جاں لانا
 
 ۲
 یہ وہ زمیں ہے جہاں تشنگی کی شدت ہے
 تمہارے نام یہاں اور بھی قیامت ہے
-یہی ملے گی طمانچوں کا تم کو نزرانہ
+یہی ملے گی طمانچوں کا تم کو نذرانہ
 
 ۳
 کہیں پہ دھوپ ملے گی کہیں پہ سناٹے
@@ -87,34 +88,34 @@ romanLyrics: |-
 ۴
 ستم جو بالیاں مانگے تو بالیاں دینا
 رسن کے واسطے اپنی کلائیاں دینا
-نہ مجھکو اور نہ عمو کو ڈھونڈنے آنا
+نہ مجھ کو اور نہ عمو کو ڈھونڈنے آنا
 
 ۵
 سکون تم سے ملے سکوں سے مر بھی سکوں
 پھر اپنے بعد کی منزل سے میں گزر بھی سکوں
-یقیں دلاؤں کہ تم‌ نے میرا کہا مانا
+یقیں دلاؤں کہ تم نے میرا کہا مانا
 
 ۶
 ردا چھنے تو مجھے یاد کر کے رو لینا
-جو نیند آے تو میرے بغیر سو لینا
+جو نیند آئے تو میرے بغیر سو لینا
 خدا کا شکر ہر ایک ظلم پر بجا لانا
 
 ۷
-ہے تم‌ سے میری ملاقات آخری بی بی
-میں تم سے مل نہیں پاؤں گا اب کبھی بی بی
+ہے تم سے میری ملاقات آخری بی‌بی
+میں تم سے مل نہیں پاؤں گا اب کبھی بی‌بی
 چھلکنے والا ہے اب زندگی کا پیمانہ
 
 ۸
 دلوں میں کیا ہے زمانے کا کوئی ٹھیک نہیں
-کوی بھی بیکس و مظلوم کا شریک نہیں
-میری بہن جہاں جاے وہاں چلی جانا
+کوئی بھی بیکس و مظلوم کا شریک نہیں
+میری بہن جہاں جائے وہاں چلی جانا
 
 ۹
-محبتوں سے بھرتی تجھ سے گفتگو کر لوں
-جو دل میں رہ گیء ظاہر وہ آرزو کر لوں
-اب آنے والا ہے میری اجل کا پروان
+محبتوں سے بھری تجھ سے گفتگو کر لوں
+جو دل میں رہ گئی ظاہر وہ آرزو کر لوں
+اب آنے والا ہے میری اجل کا پروانہ
 
 ۱۰
-حسین چل دیےء بیٹی سے گفتگو کر کے
+حسین چل دیئے بیٹی سے گفتگو کر کے
 اکیلے پن میں نہ رونے کی آرزو کر کے
 سرور پھر بھی سکینہ کا دل نہیں مانا
