@@ -6,40 +6,41 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Safdar Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ho salaam us pe jo kehti thi mere veer hussain
-  Khaak mein kis ne mila di teri tasveer hussain
+  Ho salaam us pe jo kehti thi mere vir Husain
+  Khaak mein kis ne mila di teri tasvir Husain
 
   1
-  Apne do beton se sadqa bhi utaara tera
-  Rok paayi nahi mai zulm ki shamsheer hussain
+  Apne do betoṅ se sadqa bhi utaara tera
+  Rok paayi nahiṅ main zulm ki shamshir Husain
 
   2
-  Maine sadmo mein bhi choda nahi daaman tera
-  Be-kafan tu raha aur be-rida hamsheer hussain
+  Main ne sadmoṅ mein bhi chhora nahiṅ daaman tera
+  Bekafan tu raha aur berida hamshir Husain
 
   3
-  Tera zarbon se gala kaata gaya hai tera
-  Koi batlaye to mujhko teri tafseer hussain
+  Terah zarboṅ se gala kaata gaya hai tera
+  Koi batlaaye to mujh ko teri tafsir Husain
 
   4
-  Qatl jab tu hua rote thay lehad mein hyder
-  Khaak udaati rahi khud maadar e dilgeer hussain
+  Qatl jab tu hua rote the lahad mein Haidar
+  Khaak uraati rahi khud maadar-e-dilgir Husain
 
   5
   Jo tere halq se jalti hui reti pe gira
-  Karbala hogayi us khoon se tameer hussain
+  Karbala ho gayi us khun se taamir Husain
 
   6
   Jashn maqtal mein manaate rahe qaatil tere
-  Bain dil thaam ke karti rahi hamsheer hussain
+  Bain dil thaam ke karti rahi hamshir Husain
 
   7
-  Baat ye safdar o mazhar ne kahi dunya se
-  Karbala aaj bhi hai aap ki jageer hussain
+  Baat ye Safdar o Mazhar ne kahi dunya se
+  Karbala aaj bhi hai aap ki jaagir Husain
 # source_id: nohayonline:42c42f321fc4810e0c47
 # source_url: https://www.nohayonline.com/details_content.php?id=1556
 # raw_sha256: 2329dec77c4c4280126d1aec920d9aee98e9bbd8f6ce5c0c0f3c568abe803a80
@@ -49,23 +50,23 @@ romanLyrics: |-
 
 ۱
 اپنے دو بیٹوں سے صدقہ بھی اتارا تیرا
-روک پای نہیں میں ظلم کی شمشیر حسین
+روک پائی نہیں میں ظلم کی شمشیر حسین
 
 ۲
 میں نے صدموں میں بھی چھوڑا نہیں دامن تیرا
-بیکفن تو رہا اور بے ردا ہمشیر حسین
+بے کفن تو رہا اور بے ردا ہمشیر حسین
 
 ۳
 تیرہ ضربوں سے گلا کاٹا گیا ہے تیرا
-کوئی بتلاے تو مجھکو تیری تفصیر حسین
+کوئی بتلائے تو مجھ کو تیری تفسیر حسین
 
 ۴
 قتل جب تو ہوا روتے تھے لحد میں حیدر
 خاک اڑاتی رہی خود مادر دلگیر حسین
 
 ۵
-جو تیرے حلق سے جلتی ہوی ریتی پہ گرا
-کربلا ہوگیء اس خون سے تعمیر حسین
+جو تیرے حلق سے جلتی ہوئی ریتی پہ گرا
+کربلا ہو گئی اس خون سے تعمیر حسین
 
 ۶
 جشن مقتل میں مناتے رہے قاتل تیرے

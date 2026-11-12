@@ -1,88 +1,89 @@
 ---
 title: "ہوگیا قتل شہ کربوبلا واویلا"
-alternateTitle: "Hoagaya Qatl Shahe"
+alternateTitle: "Ho Gaya Qatl Shah-e-Karbobala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Bober Ali"
+reciter: "Mir Bober Ali"
 tags: ["noImage"]
-aliases: []
+aliases: ["Hoagaya Qatl Shahe"]
 published: false
 romanLyrics: |-
-  Hogaya qatl shahe karbobala wavaila
-  Rote hai peet ke sar ahle aza wavaila
+  Ho gaya qatl shah-e-Karbobala waavaila
+  Rote haiṅ pit ke sar ahl-e-aza waavaila
 
   1
-  Teer se hogaya zakhmi ali akbar ka jigar
-  Umme laila ne kaha laash pe ay noore nazar
-  Maa se kuch baat karo utke zara wavaila
+  Tir se ho gaya zakhmi Ali Akbar ka jigar
+  Umm-e-Laila ne kaha laashe pe Ae nur-e-nazar
+  Maaṅ se kuchh baat karo uth ke zara waavaila
 
   2
-  Haye jalte huwe sehra may tadap bachon ki
-  Hogaye nehr pe abbas ke baazu zakhmi
-  Koi bachon ka muhafiz na raha wavaila
+  Haaye jalte hue sahra mein tarap bachchoṅ ki
+  Ho gaye nehr pe Abbas ke baazu zakhmi
+  Koi bachchoṅ ka muhaafiz na raha waavaila
 
   3
-  Laash dulhe ki kuch is tarha se pamaal hui
-  Umme farwa ne jo dekha to na pehchan saki
-  Haye qasim pe hui kaisi jafa wavaila
+  Laash dulhe ki kuchh is tarah se paamaal hui
+  Umm-e-Farwa ne jo dekha to na pehchaan saki
+  Haaye Qasim pe hui kaisi jafa waavaila
 
   4
-  Kat gaye pyaas may phir aun-o-mohamed ke gale
-  Fidya e raahe khuda hogaye godi ke pale
-  Hogaya qaimon may kohram bapa wavaila
+  Kat gaye pyaas mein phir Aun o Muhammad ke gale
+  Fidya-e-raah-e-Khuda ho gaye godi ke pale
+  Ho gaya khaimoṅ mein kohraam bapa waavaila
 
   5
-  Fatema ne bade naazon se jise paala tha
-  Jo payambar ke gharane hi ka ujiyala tha
-  Asre ashoor kata uska gala wavaila
+  Fatima ne bare naazoṅ se jise paala tha
+  Jo payambar ke gharaane hi ka ujiyaala tha
+  Asr-e-Aashur kata us ka gala waavaila
 
   6
-  Zulm dhaate rahe sajjad pe har waqt layeen
-  Berida dekh ke zainab ko tadapti thi zameen
-  Aasman girya kuna gham se huwa wavaila
+  Zulm dhaate rahe Sajjad pe har waqt laiṅ
+  Berida dekh ke Zainab ko tarapti thi zamiṅ
+  Aasmaaṅ girya kunaaṅ gham se hua waavaila
 
   7
-  Jalgaye qaime to saydaniya aayi ban may
-  Laashe jitne bhi thay be-gor o kafan thay ran may
-  Chingayi bibiyon ke sar se rida wavaila
+  Jal gaye khaime to saiyyidaaniyaaṅ aayi ban mein
+  Laashe jitne bhi the begor o kafan the ran mein
+  Chhin gayi Bibiyoṅ ke sar se rida waavaila
 
   8
-  Ay bober rok qalam tukde jigar hota hai
-  Sunke nauha tera har jinn o bashar rota hai
-  Chagayi charon taraf gham ki fiza wavaila
+  Ae Babar rok qalam tukre jigar hota hai
+  Sun ke nauha tera har jinn o bashar rota hai
+  Chha gayi chaaroṅ taraf gham ki fiza waavaila
 # source_id: nohayonline:28142aa11cc8876abd57
 # source_url: https://www.nohayonline.com/details_content.php?id=820
 # raw_sha256: 96d5b7ab31469afc8fa450e7381a1cac1478ca668ee4dfa79c05334f294a8360
 ---
 ہوگیا قتل شہ کربوبلا واویلا
-روتے ہیں پیٹ کے سر أہل عزا واویلا
+روتے ہیں پیٹ کے سر اہل عزا واویلا
 
 ۱
 تیر سے ہوگیا زخمی علی اکبر کا جگر
 ام لیلیٰ نے کہا لاشے پہ اے نورِ نظر
-ماں سے کچھ بات کرو اٹھکے زرا واویلا
+ماں سے کچھ بات کرو اٹھ کے ذرا واویلا
 
 ۲
-ہاے جلتے ہوئے صحرا میں تڑپ بچوں کی
-ہوگےء نہر پہ عباس کے بازو زخمی
+ہائے جلتے ہوئے صحرا میں تڑپ بچوں کی
+ہو گئے نہر پہ عباس کے بازو زخمی
 کوئی بچوں کا محافظ نہ رہا واویلا
 
 ۳
-لاش دولہے کی کچھ اس طرح سے پامال ہوی
+لاش دولہے کی کچھ اس طرح سے پامال ہوئی
 ام فروہ نے جو دیکھا تو نہ پہچان سکی
-ہاے قاسم پہ ہوی کیسی جفا واویلا
+ہائے قاسم پہ ہوئی کیسی جفا واویلا
 
 ۴
-کٹ گےء پیاس میں پھر عون و محمد کے گلے
-فدیہ ء راہ خدا ہوگےء گودی کے پلے
+کٹ گئے پیاس میں پھر عون و محمد کے گلے
+فدیۂ راہ خدا ہو گئے گودی کے پلے
 ہوگیا خیموں میں کہرام بپا واویلا
 
 ۵
 فاطمہ نے بڑے نازوں سے جسے پالا تھا
 جو پیمبر کے گھرانے ہی کا اجیالا تھا
-عصر عاشور کٹا اسکا گلا واویلا
+عصر عاشور کٹا اس کا گلا واویلا
 
 ۶
 ظلم ڈھاتے رہے سجاد پہ ہر وقت لعیں
@@ -90,9 +91,9 @@ romanLyrics: |-
 آسماں گریہ کناں غم سے ہوا واویلا
 
 ۷
-جل گئے خیمے تو سیدانیاں آی بن میں
-لاشے جتنے بھی تھے بے گورو کفن تھے رن میں
-چھن گئی بی بیوں کے سر سے ردا واویلا
+جل گئے خیمے تو سیدانیاں آئی بن میں
+لاشے جتنے بھی تھے بے گور و کفن تھے رن میں
+چھن گئی بی‌بیوں کے سر سے ردا واویلا
 
 ۸
 اے ببر روک قلم ٹکڑے جگر ہوتا ہے
