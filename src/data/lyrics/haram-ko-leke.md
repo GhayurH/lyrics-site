@@ -1,70 +1,71 @@
 ---
-title: "حرم کو لے کے سوے شام جب بڑی زینب"
+title: "حرم کو لے کے سوئے شام جب بڑی زینب"
 alternateTitle: "Haram Ko Leke"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Ansar"
+reciter: "Ali Rizvi Sachey"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haram ko leke suye shaam jab badi zainab
-  Kabhi hussain bani aur kabhi ali zainab
+  Haram ko le ke su-e-Shaam jab bari Zainab
+  Kabhi Husain bani aur kabhi Ali Zainab
 
   1
-  Wo bekhabar thay ke tareek ho rahi hai raqam
-  Jo keh rahe thay isay teri bebasi zainab
+  Wo bekhabar the ke taarik ho rahi hai raqam
+  Jo keh rahe the ise teri bebasi Zainab
 
   2
-  Khuda ka deen hai zinda hussain ke dam se
-  Hussainiat ko mili tujhse zindagi zianab
+  Khuda ka din hai zinda Husain ke dam se
+  Husainiyat ko mili tujh se zindagi Zainab
 
   3
-  Yazeediyon ne bahot koshishein to ki lekin
-  Kisi se kam na hui teri bartari zainab
+  Yazidiyoṅ ne bahut koshisheṅ to ki lekin
+  Kisi se kam na hui teri bartari Zainab
 
   4
-  Usay giraana tha khutbon se shaam ka khyber
-  Ali ke lehje mein kyun kar na bolti zainab
+  Use giraana tha khutboṅ se Shaam ka Khaibar
+  Ali ke lehje mein kiuṅ kar na bolti Zainab
 
   5
-  Ali ko jo shab e hijrat khuda ne bechi thi
-  Ali se tu ne wo marzi khareed li zainab
+  Ali ko jo shab-e-hijrat Khuda ne bechi thi
+  Ali se tu ne wo marzi kharid li Zainab
 
   6
-  Huwe na khatm pas e karbala bhi zulm o sitam
-  Gayi hai shaam talak tere tashnagi zainab
+  Hue na khatm pas-e-Karbala bhi zulm o sitam
+  Gayi hai Shaam talak tere tashnagi Zainab
 
   7
-  Thay ek rasan may jo baara galay rasan basta
-  Rasan khuli to sakina nahi rahi zainab
+  The ek rasan mein jo baarah gale rasan basta
+  Rasan khuli to Sakina nahiṅ rahi Zainab
 
   8
-  Yehi nahi ke rasan basta haath hai tere
-  Ghazab hua ke rida sar se chin gayi zainab
+  Yehi nahiṅ ke rasan basta haath haiṅ tere
+  Ghazab hua ke rida sar se chhin gayi Zainab
 
   9
-  Badan sikasta rasan basta majma e aada
-  Azaan may naam e nabi sun ke ro pari zainab
+  Badan shikasta rasan basta majma-e-aada
+  Azaaṅ mein naam-e-Nabi sun ke ro pari Zainab
 
   10
-  Kisi ne maanga kaneezi mein jab sakina ko
-  Jigar pakad ke pukaari ali ali zainab
+  Kisi ne maanga kanizi mein jab Sakina ko
+  Jigar pakar ke pukaari Ali Ali Zainab
 
   11
-  Rehaai paa ke watan ke liye rawana hui
-  Tadap ke kehti thi abbas ghar chali zainab
+  Rihaai paa ke watan ke liye rawaana hui
+  Tarap ke kehti thi Abbas ghar chali Zainab
 
   12
-  Qalam ki aankh se behta hai khoon ali ansar
-  Wo dastan e haram khoon se likh gayi zainab
+  Qalam ki aankh se behta hai khuṅ Ali Ansar
+  Wo daastaan-e-haram khuṅ se likh gayi Zainab
 # source_id: nohayonline:043641ddc00b5ac3035c
 # source_url: https://www.nohayonline.com/details_content.php?id=2913
 # raw_sha256: 6c13b18f9817aa7625aa60c6d2dc2f4b382c252f8e0f1e20f28f2ba54312d26c
 ---
-حرم کو لے کے سوے شام جب بڑی زینب
+حرم کو لے کے سوئے شام جب بڑی زینب
 کبھی حسین بنی اور کبھی علی زینب
 
 ۱
@@ -77,7 +78,7 @@ romanLyrics: |-
 
 ۳
 یزیدیوں نے بہت کوششیں تو کی لیکن
-کسی سے کم نہ ہوی تیری برتری زینب
+کسی سے کم نہ ہوئی تیری برتری زینب
 
 ۴
 اسے گرانا تھا خطبوں سے شام کا خیبر
@@ -88,8 +89,8 @@ romanLyrics: |-
 علی سے تو نے وہ مرضی خرید لی زینب
 
 ۶
-ہوے نہ ختم پس کربلا بھی ظلم و ستم
-گیء ہے شام تلک تیرے تشنگی زینب
+ہوئے نہ ختم پسِ کربلا بھی ظلم و ستم
+گئی ہے شام تلک تیرے تشنگی زینب
 
 ۷
 تھے اک رسن میں جو بارہ گلے رسن بستہ
@@ -97,20 +98,20 @@ romanLyrics: |-
 
 ۸
 یہی نہیں کہ رسن بستہ ہاتھ ہیں تیرے
-غضب ہوا کہ ردا سر سے چھن‌ گیء زینب
+غضب ہوا کہ ردا سر سے چھن گئی زینب
 
 ۹
-بدن شکستہ رسن بستہ مجمہء اعدا
-اذاں میں نام نبی سن کے رو پڑی زینب
+بدن شکستہ رسن بستہ مجمعِ اعدا
+اذاں میں نامِ نبی سن کے رو پڑی زینب
 
 ۱۰
 کسی نے مانگا کنیزی میں جب سکینہ کو
 جگر پکڑ کے پکاری علی علی زینب
 
 ۱۱
-رہائی پا کے وطن کے لیےء روانہ ہوی
+رہائی پا کے وطن کے لیے روانہ ہوئی
 تڑپ کے کہتی تھی عباس گھر چلی زینب
 
 ۱۲
 قلم کی آنکھ سے بہتا ہے خوں علی انصار
-وہ داستان حرم خوں سے لکھ گیء زینب
+وہ داستانِ حرم خوں سے لکھ گئی زینب
