@@ -1,78 +1,79 @@
 ---
 title: "ایک روایت میں ہے کہ بعد اسیری سجاد"
-alternateTitle: "Haye Chacha Abbas"
+alternateTitle: "Haaye Chacha Abbas"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Anees Pehersari"
+reciter: "Ali Zia Rizvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ek riwayat mein hai ke baade aseeri sajjad
+  Ek riwaayat mein hai ke baad-e-asiri Sajjad
   Pahunche hijaaz se jab maaria mein zainuliba
-  Dekha ke qabre wahan khodte hai kuch afraad
-  Baqi masroof hai dafnane mein karke faryaad
-  Aapne laasha e farzand e nabi dafnaya
-  Qabr mein laasha e abbas ko bhi pohanchaya
-  Yan qabeela e asad karta hai is tarha bayan
-  Qabr se jab na chacha ki hue sajjad ayan
-  Humko tashveesh hui qabr mein dekha jo wahan
-  Laash se lipte hue karte hai sajjad fughan
-  Aap ke baad chacha aisi tabahi aayi
-  Qatl baba hue maare gaye saare bhai
+  Dekha ke qabr wahaaṅ khodte haiṅ kuchh afraad
+  Baaqi masruf haiṅ dafnaane mein karke faryaad
+  Aap ne laasha-e-farzand-e-Nabi dafnaaya
+  Qabr mein laasha-e-Abbas ko bhi pahunchaaya
+  Yahaaṅ qabila-e-Asad karta hai is tarah bayaaṅ
+  Qabr se jab na chacha ki hue Sajjad ayaaṅ
+  Hum ko tashwish hui qabr mein dekha to wahaaṅ
+  Laash se lipte hue karte haiṅ Sajjad fughaaṅ
+  Aap ke baad chacha aisi tabaahi aayi
+  Qatl baba hue maare gaye saare bhaai
 
-  Haye chacha abbas haye chacha abbas
-  Koi nahi hai paas haye chacha abbas
+  Haaye chacha Abbas haaye chacha Abbas
+  Koi nahiṅ hai paas haaye chacha Abbas
 
   1
-  Baad tumhare amme dilawar
-  Barchi se cheda seena e akbar
-  Laasha utha kar laaye sarwar
-  Gham se bapa tha qaime mein mehshar
+  Baad tumhaare amme dilaawar
+  Barchhi se chheda sina-e-Akbar
+  Laasha utha kar laaye Sarwar
+  Gham se bapa tha khaime mein mahshar
 
   2
   Asghar pe tha pyaas ka ghalba
-  Pani pilane le gaye baba
-  Ahle jafa ne rehm na khaaya
-  Pani ke badle teer lagaya
+  Paani pilaane le gaye baba
+  Ahl-e-jafa ne rahm na khaaya
+  Paani ke badle tir lagaaya
 
   3
-  Ran mein bana kar turbate asghar
-  Sar ko jhukaye behad muztar
-  Aaye shahe deen qaime ke dar par
-  Haal ye tha pehchani na khaahar
+  Ran mein bana kar turbat-e-Asghar
+  Sar ko jhukaaye behad muztar
+  Aaye Shah-e-diṅ khaime ke dar par
+  Haal ye tha pahchaani na khaahar
 
   4
   Baba ne dekhi jo ye haalat
-  Dil bhar aaya hogayi riqqat
-  Naam har ek ka leke ba ulfat
-  Kehne lage hai tumse bhi ruqsat
+  Dil bhar aaya ho gayi riqqat
+  Naam har ek ka le ke ba ulfat
+  Kahne lage haiṅ tum se bhi rukhsat
 
   5
-  Sunke phuphi awaaze biradar
-  Lipat gayi majaye se jaa kar
-  Farmeina phir bhai se ro kar
+  Sun ke phuphi aawaaz-e-biraadar
+  Lipat gayiṅ maaṅ jaaye se jaa kar
+  Farmaaya phir bhaai se ro kar
   Haal hai ye kis waaste abtar
 
   6
-  Sibte nabi ne tab farmeina
-  Asghar ne ek nawak khaya
-  Khoone pisar chehre pa lagaya
-  Ran mein usay maine dafnaya
+  Sibt-e-Nabi ne tab farmaaya
+  Asghar ne ek naawak khaaya
+  Khun-e-pisar chehre pe lagaaya
+  Ran mein use main ne dafnaaya
 
   7
-  Kaise kahoon ay sheh ke biradar
-  Chal gaya halq e shaah pe khanjar
-  Jal gaye qaime aur mera bistar
-  Chin gayi maa behno ki chadar
+  Kaise kahuṅ ae Shah ke biraadar
+  Chal gaya halq-e-Shaah pe khanjar
+  Jal gaye khaime aur mera bistar
+  Chhin gayi maaṅ bahnoṅ ki chaadar
 
   8
-  Koi anees apna nahi baaqi
-  Aada ne mujhko pehnayi
-  Tauq o salasil hatkadi bedi
-  Jakdi rasan se zehra ki jaayi
+  Koi Anees apna nahiṅ baaqi
+  Aada ne mujh ko pahnaayi
+  Tauq o salaasil hathkari beri
+  Jakri rasan se Zehra ki jaayi
 # source_id: nohayonline:4bd42eb738c167f5539a
 # source_url: https://www.nohayonline.com/details_content.php?id=224
 # raw_sha256: e95c332de38796d84d43bd02c0dba6145356664edc9e59e05e78c9a3c4e727e4
@@ -82,12 +83,12 @@ romanLyrics: |-
 پہنچے اعجاز سے جب ماریہ میں زین العبا
 دیکھا کہ قبر وہاں کھودتے ہیں کچھ افراد
 باقی مصروف ہیں دفنانے میں کرکے فریاد
-آپ نے لاشئہ فرزند نبی دفنایا
-قبر میں لاشئہ عباس کو بھی پہنچایا
+آپ نے لاشۂ فرزند نبی دفنایا
+قبر میں لاشۂ عباس کو بھی پہنچایا
 یہاں قبیلہ اسد کرتا ہے اس طرح بیاں
 قبر سے جب نہ چچا کی ہوئے سجاد عیاں
 ہم کو تشویش ہوئی قبر میں دیکھا تو وہاں
-لاش سے لپٹی ہوئے کرتے ہیں سجاد فغاں
+لاش سے لپٹے ہوئے کرتے ہیں سجاد فغاں
 آپ کے بعد چچا ایسی تباہی آئی
 قتل بابا ہوئے مارے گئے سارے بھائی
 
@@ -110,11 +111,11 @@ romanLyrics: |-
 رن میں بنا کر تربت اصغر
 سر کو جھکائے بے حد مضطر
 آئے شہہ دیں خیمے کے در پر
-حال یہ تھا پہچہانی نہ خواہر
+حال یہ تھا پہچانی نہ خواہر
 
 ۴
 بابا نے دیکھی جو یہ حالت
-دل بہر آیا ہو گئی رقت
+دل بھر آیا ہو گئی رقت
 نام ہر اک کا لے کے با الفت
 کہنے لگے ہیں تم سے بھی رخصت
 
@@ -138,6 +139,6 @@ romanLyrics: |-
 
 ۸
 کوئی انیس اپنا نہیں باقی
-اعدانے مجھ کو پہنائی
+اعدا نے مجھ کو پہنائی
 طوق و سلاسل ہتھکڑی بیڑی
 جکڑی رسن سے زہرہ کی جائی
