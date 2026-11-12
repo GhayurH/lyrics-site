@@ -1,54 +1,54 @@
 ---
 title: رسن میں گلے بارہ اور برہنہ سر
-alternateTitle: Haan Tha Mera Baba
+alternateTitle: Haaṅ Tha Mera Baba
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Haan Tha Mera Baba"]
 published: false
 romanLyrics: |-
-  Rasan mein gale barah aur barehna sar jab
-  Aaye shaam ke darbar mein dareeda jigar
-  Padi sakina pe nigah us shaqi ki nazar
-  Yazid naam tha jiska sajaye tha darbar
+  Rasan mein gale baarah aur barehna sar
+  Jab aaye Shaam ke darbaar mein darida jigar
+  Pari Sakina pe nigaah us shaqi ki nazar
+  Yazid naam tha jis ka sajaaye tha darbaar
 
-  Liye tha godh mein dukhtar ko apni woh makkar
-  Woh apni bachchi ke balon mein haath pherta tha
-  Laga ke seene se bachchi ko pyaar se dekha
-  Lehak ke baali sakina se shaqi bola
-
+  Liye tha god mein dukhtar ko apni woh makkaar
+  Woh apni bachchi ke baaloṅ mein haath pherta tha
+  Laga ke sine se bachchi ko pyaar se dekha
+  Lahak ke baali Sakina se woh shaqi bola
   Tujhe bhi baba tera aise hi pyaar karta tha
-  Kaha sakina ne main shahe deen ki pyari hoon
-  Tabah haal hoon is dam dukhon ki maari hoon
-  Tu mere baba ka gandi zubaan se naam na le
 
-  Ghuroor itna na kar baandh ke rasan mein hamein
-  Main kitni pyari thi baba ki kya bataun tujhe
-  Main bhool sakti nahi apne baba ko mar ke
-  Main jab bhi roti thi baba mujhe manata tha
-  Bana ke haathon ko jhoola mujhe jhulaata tha
+  Kaha Sakina ne main shaah-e-diṅ ki pyaari huṅ
+  Tabaah haal huṅ is dam dukhoṅ ki maari huṅ
+  Tum mere baba ka gandi zabaan se naam na le
+  Ghurur itna na kar baandh ke rasan mein hameiṅ
 
-  Haan tha mera baba mere liye zinda
-  Haan tha mera baba
+  Main kitni pyaari thi baba ki kya bataauṅ tujhe
+  Main bhul sakti nahiṅ apne baba ko mar ke
+  Main jab bhi roti thi baba mujhe manaata tha
+  Bana ke haathoṅ ko jhula mujhe jhulaata tha
+
+  Haaṅ tha mera baba mere liye zinda
+  Haaṅ tha mera baba
 
   1
-  Main seene pe soti thi, taskeen si hoti thi
-  Maa ban ke mujhe jis ne aaghosh mein paala tha
+  Main sine pe soti thi, taskin si hoti thi
+  Maaṅ ban ke mujhe jis ne aaghosh mein paala tha
 
   2
-  Kya poochta hai mujh se, khud poochle baba se
-  Sar tasht pe rakha hai woh khud hi bata dega
+  Kya puchhta hai mujhe, khud puchh le baba se
+  Sar tasht mein rakha hai woh khud hi bata dega
 
   3
-  Main kitni dulari hoon, woh dard ki maari hoon
-  Gar unko bulaun main sar godh mein aayega
+  Main kitni dulaari huṅ, woh dard ki maari huṅ
+  Gar un ko bulaauṅ main sar god mein aayega
 
   4
-  Kyun mujhko rulata hai, aisa kahin hota hai
-  Bin baap bachchi ko dete hain dilaasa
+  Kiuṅ mujh ko rulaata hai, aisa kahiṅ hota hai
+  Bin baap ki bachchi ko dete haiṅ dilaasa
 
   5
   Teri bhi to beti hai, godi mein jo baithi hai
@@ -56,23 +56,23 @@ romanLyrics: |-
 
   6
   Abbas agar hote, kunbe ko mere kaise
-  Tu baandh ke rassi mein darbar mein laata
+  Tu baandh ke rassi mein darbaar mein laata
 
   7
-  Ye kurta phata mera, jo khoon mein hai dooba
-  Abbas jo dekhenge ek hashr uthega
+  Ye kurta phata mera, jo khun mein duba hai
+  Abbas jo dekheiṅ ge ek hashr uthe ga
 
   8
   Chalta na agar khanjar, Shabbir ki gardan par
-  Hum qaid nahi hote Akbar na sina khaata
+  Hum qaid nahiṅ hote Akbar na sinaaṅ khaata
 
   9
-  Ye khaak aseeri ki, chehron pe nahi hoti
-  Baba mera sajde mein gar sar na katata
+  Ye khaak asiri ki, chehroṅ pe nahiṅ hoti
+  Baba mere sajde mein gar sar na kataata
 
   10
-  Rehaan qalam mera, likh kar ye bayan roya
-  Kaaghaz pe gire aansu dil dard se tadpa
+  Rehaan qalam mera, likh kar ye bayaaṅ roya
+  Kaaghaz pe gire aansu dil dard se tarpa
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:5ccee60b12e9800fc820
 # source_url: https://www.nohayonline.com/details_content.php?id=3089
@@ -83,21 +83,21 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 ---
 
 رسن میں گلے بارہ اور برہنہ سر
-جب آے‌ شام کے دربار میں دریدہ جگر
+جب آئے شام کے دربار میں دریدہ جگر
 پڑی سکینہ پہ نگاہ اس شقی کی نظر
-یزید نام تھا جس کا سجاے تھا دربار
+یزید نام تھا جس کا سجائے تھا دربار
 
-لیےء تھا گود میں دختر کو اپنی وہ مکار
+لیے تھا گود میں دختر کو اپنی وہ مکار
 وہ اپنی بچی کے بالوں میں ہاتھ پھیرتا تھا
 لگا کے سینے سے بچی کو پیار سے دیکھا
 لہک کے بالی سکینہ سے وہ شقی بولا
-
 تجھے بھی بابا تیرا ایسے ہی پیار کرتا تھا
+
 کہا سکینہ نے میں شاہ دیں کی پیاری ہوں
 تباہ حال ہوں اس دم دکھوں کی ماری ہوں
-تم‌ میرے بابا کا گندی زبان سے نام نہ لے
-
+تم میرے بابا کا گندی زبان سے نام نہ لے
 غرور اتنا نہ کر باندھ کے رسن میں ہمیں
+
 میں کتنی پیاری تھی بابا کی کیا بتاؤں تجھے
 میں بھول سکتی نہیں اپنے بابا کو مر کے
 میں جب بھی روتی تھی بابا مجھے مناتا تھا
@@ -116,11 +116,11 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 
 ۳
 میں کتنی دلاری ہوں وہ درد کی ماری ہوں
-گر ان کو بلاؤں میں سر گود میں آے گا
+گر ان کو بلاؤں میں سر گود میں آئے گا
 
 ۴
-کیوں مجھکو رلاتا ہے ایسا کہیں ہوتا ہے
-بن‌ باپ کی بچی کو دیتے ہیں دلاسہ
+کیوں مجھ کو رلاتا ہے ایسا کہیں ہوتا ہے
+بن باپ کی بچی کو دیتے ہیں دلاسہ
 
 ۵
 تیری بھی تو بیٹی ہے گودی میں جو بیٹھی ہے
@@ -144,4 +144,4 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 
 ۱۰
 ریحان قلم میرا لکھ کر یہ بیاں رویا
-کاغذ پہ گرے آنسوں دل درد سے تڑپا
+کاغذ پہ گرے آنسو دل درد سے تڑپا

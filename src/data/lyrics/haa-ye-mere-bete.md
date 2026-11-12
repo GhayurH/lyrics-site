@@ -1,79 +1,84 @@
 ---
-title: "شیر ہوے دو وارد لشکر"
-alternateTitle: "Haa Ye Mere Bete"
+title: "شیر ہوئے دو وارد لشکر"
+alternateTitle: "Haaṅ Ye Mere Bete"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Haa Ye Mere Bete"]
 published: false
 romanLyrics: |-
-  Sher huwe do waaride lashkar
-  Maqtal may barpa tha mehshar
-  Faqr se apne sar ko utha kar
-  Kehti thi abbas ki khwahar
-  Haan ye mere bete hai
-  Ek hai mohamed aur doosra hai aun
+  Sher hue do waarid-e-lashkar
+  Maqtal mein barpa tha mahshar
+  Fakhr se apne sar ko utha kar
+  Kehti thi Abbas ki khwaahar
+  Haaṅ ye mere bete haiṅ
+
+  Ek hai Muhammad aur dusra hai Aun
+  Haaṅ ye mere bete haiṅ
 
   1
-  Naam hai inke aun o mohamed
-  Hyder ke akkaas hai ye
-  Mulk e wafa ke dono makeen hai
-  Dono hi abbas hai ye
-  Fatema zehra ke hai nawase
-  Mamu par jaan dete hai
+  Naam hai in ke Aun o Muhammad
+  Haidar ke akkaas hai ye
+  Mulk-e-wafa ke donoṅ makiṅ hai
+  Donoṅ hi Abbas hai ye
+  Fatima Zehra ke hai nawaase
+  Maamu par jaan dete haiṅ
 
   2
-  Maine inhe takeed ye ki thi
+  Main ne inheiṅ taakid ye ki thi
   Darya par mat jaana tum
-  Maqtal may pyase hi rehna
-  Sabr e ali dikhlana tum
-  Waqt e wigha ye binte asad ki
-  Godh ke paale lagte hai
+  Maqtal mein pyaase hi rehna
+  Sabr-e-Ali dikhlaana tum
+  Waqt-e-wagha ye bint-e-Asad ki
+  God ke paale lagte hai
 
   3
-  Aun mohamed se kehta tha
-  Bhai bhool na jaana tum
-  Hum hai ali akbar ka sadqa
-  Amma ka nazrana tum
-  Shukre khuda amma ke sajde
-  Faqr se kehte rehte hai
+  Aun Muhammad se kehta tha
+  Bhaai bhul na jaana tum
+  Hum haiṅ Ali Akbar ka sadqa
+  Ammaaṅ ka nazraana tum
+  Shukr-e-Khuda ammaaṅ ke sajde
+  Fakhr se kehte rehte hai
 
   4
-  Ghar jaana hai khoon may naha ke
-  Pahunche jab qaimon may laashe
-  Khushk zaban ko dekh ke amma
-  Keh de hai shehzade pyase
-  Hukm e maadar maan'ne waale
-  Mar ke zinda rehte hai
+  Ghar jaana hai khun mein naha ke
+  Pahuncha jab khaimoṅ mein laashe
+  Khushk zabaaṅ ko dekh ke ammaaṅ
+  Keh de hai shahzaade pyaase
+  Hukm-e-maadar maanne waale
+  Mar ke zinda rehte haiṅ
 
   5
-  Aun o mohamed ki ye hasrat
-  Poori hui zindan may jaa kar
-  Jab waqt e azaadi aaya
-  Noke sina se utre jab sar
-  Boli zainab peet ke sar ko
-  Laawaris jo dikhte hai
+  Aun o Muhammad kya ye hasrat
+  Puri hui zindaaṅ mein jaa kar
+  Jab waqt aazaadi aaya
+  Nok-e-sinaaṅ se utre jab sar
+  Boli Zainab pit ke sar ko
+  Laawaaris jo dikhte haiṅ
 
   6
-  Auno o mohamed jaise bete
-  Kaash khuda rehaan o raza de
-  Faqr se sar ooncha ho maa ka
+  Aun o Muhammad jaise bete
+  Kaash Khudaara Rehaan o Raza de
+  Fakhr se sar uncha ho maaṅ ka
   Baap kare sajde pe sajde
-  Roohe abu talib ye pukare
-  Hyder jin ko rote hai
+  Ruh-e-Abu Taalib ye pukaare
+  Haidar jin ko rote haiṅ
 # source_id: nohayonline:087756d15803f49b07c1
 # source_url: https://www.nohayonline.com/details_content.php?id=2671
 # raw_sha256: 62f9c1fe63756c39135d152bc16a54cbdf41c9e48176887ee7ffe53a4debba25
 ---
-شیر ہوے دو وارد لشکر
+شیر ہوئے دو وارد لشکر
 مقتل میں برپا تھا محشر
 فخر سے اپنے سر کو اٹھا کر
 کہتی تھی عباس کی خواہر
 ہاں یہ میرے بیٹے ہیں
+
 ایک ہے محمد اور دوسرا ہے عون
+ہاں یہ میرے بیٹے ہیں
 
 ۱
 نام ہے ان کے عون و محمد
@@ -93,9 +98,9 @@ romanLyrics: |-
 
 ۳
 عون محمد سے کہتا تھا
-بھای بھول نہ جانا تم
+بھائی بھول نہ جانا تم
 ہم ہیں علی اکبر کا صدقہ
-اماں کا نزرانہ تم
+اماں کا نذرانہ تم
 شکر خدا اماں کے سجدے
 فخر سے کہتے رہتے ہے
 
@@ -109,8 +114,8 @@ romanLyrics: |-
 
 ۵
 عون و محمد کیا یہ حسرت
-پوری ہوی زنداں میں جا کر
-جب وقت آذادی آیا
+پوری ہوئی زنداں میں جا کر
+جب وقت آزادی آیا
 نوکِ سِناں سے اترے جب سر
 بولی زینب پیٹ کے سر کو
 لاوارث جو دکھتے ہیں
