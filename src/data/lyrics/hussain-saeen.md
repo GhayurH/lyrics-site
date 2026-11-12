@@ -1,57 +1,64 @@
 ---
 title: "شاہ است حسین بادشاہ است حسین"
-alternateTitle: "Hussain Saeen"
+alternateTitle: "Husain Saeen"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Jawad Jaffri"
+reciter: "Mesum Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shah ast hussain badshah ast hussain
-  Deen ast hussain deen panah ast hussain
+  Shaah ast Husain baadshaah ast Husain
+  Diṅ ast Husain diṅ panaah ast Husain
+
   Maa naukar maula saeen anjo
   Haan karbal waare saeen anjo
-  Mere syed mere sardar
+  Mere Sayyid mere sardaar
   Karo apna karam sarkar
-  Hussain saeen
+  Husain saaiṅ
 
   1
-  Wallah tere ibne hyder
-  Charche hai sakhawat ke ghar ghar
-  Raahib ko diye hai saat pisar
-  Man misli hai fitrus ke lab par
-  Hum par bhi mehez ek baar
+  Wallaah tere Ibn-e-Haider
+  Charche hai sakhaawat ke ghar ghar
+  Raahib ko diye haiṅ saat pisar
+  Man misli hai Fitrus ke lab par
+  Hum par bhi mahz ek baar
+  Karo apna karam sarkar
 
   2
   Tum murshid ho tum aaqa ho
-  Hum mangte tum andaata ho
-  Hum adna hai tum aala ho
-  Hum maulayi tum maula ho
-  Tum karte nahi inkaar
+  Hum maangte tum an daata ho
+  Hum adna haiṅ tum aala ho
+  Hum maulaai tum maula ho
+  Tum karte nahiṅ inkaar
+  Karo apna karam sarkar
 
   3
-  Allah o nabi ke pyare ho
+  Allah o Nabi ke pyaare ho
   Zehra ke raaj dulaare ho
-  Quran e ali ke paare ho
-  Tum chashme hassan ke taare ho
-  Qudrat ka haseen shahkaar
+  Quraan-e-Ali ke paare ho
+  Tum chashm-e-Hasan ke taare ho
+  Qudrat ka hasiṅ shaahkaar
+  Karo apna karam sarkar
 
   4
-  Hai wird badi ajmeri ka
-  Kehna hai shams noorani ka
-  Bole har bait bhitayi ka
-  Naara hai laal sehwani ka
-  Hai tera khula darbar
+  Hai wird bari Ajmeri ka
+  Kehna hai Shams Nuraani ka
+  Bole har bait Bhitaai ka
+  Naara hai Laal Sehwaani ka
+  Hai tera khula darbaar
+  Karo apna karam sarkar
 
   5
-  Sindh waalon ki hai shaan yehi
-  Mehraan ki hai pehchan yehi
-  Har lab par hai elaan yehi
-  Apna to hai emaan yehi
-  Hum aap ke hai hubdaar
+  Sindh waloṅ ki hai shaan yehi
+  Mehraan ki hai pehchaan yehi
+  Har lab par hai ailaan yehi
+  Apna to hai imaan yehi
+  Hum aap ke haiṅ hubdaar
+  Karo apna karam sarkar
 
   6
   Kayo maula saeen manzoor dua
@@ -59,57 +66,64 @@ romanLyrics: |-
   Karbala karbala...
 
   7
-  Tum se hai muallah karbobala
-  Hain noori tajallah karbobala
-  Kaabe ka hai kaaba karbobala
-  Nabiyon ka musallah karbobala
-  Karte hai dua zawwar
+  Tum se hai mualla Karb o Bala
+  Haiṅ nuri tajalli Karb o Bala
+  Kaabe ka hai Kaaba Karb o Bala
+  Nabiyoṅ ka musalla Karb o Bala
+  Karte haiṅ dua zawwaar
+  Karo apna karam sarkar
 
   8
-  Khaliq ki mohabbat mil jaaye
+  Khaaliq ki mohabbat mil jaaye
   Naukar ko ijazat mil jaaye
-  Maula ye sa'adat mil jaaye
-  Hum ko bhi shahadat mil jaaye
-  Kehte thay sabhi ansaar
+  Maula ye saadat mil jaaye
+  Hum ko bhi shahaadat mil jaaye
+  Kehte the sabhi ansaar
+  Karo apna karam sarkar
 
   9
-  Abbas ka laasha wawaila
-  Akbar gaya maara wawaila
-  Tum reh gaye tanha wawaila
-  Ye sabr tha kaisa wawaila
+  Abbas ka laasha waawaila
+  Akbar gaya maara waawaila
+  Tum reh gaye tanha waawaila
+  Ye sabr tha kaisa waawaila
   Kehti hi rahi talwaar
+  Karo apna karam sarkar
 
   10
-  Jawad aur mesum ki hai sada
-  Hum tere bhikari hai maula
+  Jawad aur Mesum ki hai sada
+  Hum tere bhikaari haiṅ maula
   Jo rizq bhi hai hum ko milta
-  Hai sadqa tere asghar ka
-  Hum tere hai namakhaar
+  Hai sadqa tere Asghar ka
+  Hum tere haiṅ namak khwaar
+  Karo apna karam sarkar
 # source_id: nohayonline:ba9d00d13c3ae8c306aa
 # source_url: https://www.nohayonline.com/details_content.php?id=3713
 # raw_sha256: a68c8058c1e9a09d3969f6bd5f1542404cb0a35993f060efcb673485668ae1e0
 ---
 شاہ است حسین بادشاہ است حسین
 دیں است حسین دیں پناہ است حسین
+
 ماں نوکر مولا سائیں آنجو
 ہاں کربل وارے سائیں آنجو
 میرے سید میرے سردار
 کرو اپنا کرم سرکار
-حسین ساییں
+حسین سائیں
 
 ۱
 واللہ تیرے ابن حیدر
 چرچے ہے سخاوت کے گھر گھر
-راحب کو دیےء ہیں سات پسر
+راہب کو دیے ہیں سات پسر
 مم مثلی ہے فطرس کے لب پر
 ہم پر بھی محض ایک بار
+کرو اپنا کرم سرکار
 
 ۲
 تم مرشد ہو تم آقا ہو
 ہم مانگتے تم ان داتا ہو
-ہم ادنی ہیں تم اعلیٰ ہو
-ہم‌ مولای تم مولا ہو
+ہم ادنیٰ ہیں تم اعلیٰ ہو
+ہم مولائی تم مولا ہو
 تم کرتے نہیں انکار
+کرو اپنا کرم سرکار
 
 ۳
 اللہ نبی کے پیارے ہو
@@ -117,6 +131,7 @@ romanLyrics: |-
 قرآن علی کے پارے ہو
 تم چشم حسن کے تارے ہو
 قدرت کا حسیں شاہکار
+کرو اپنا کرم سرکار
 
 ۴
 ہے ورد بڑی اجمیری کا
@@ -124,6 +139,7 @@ romanLyrics: |-
 بولے ہر بات بٹھای کا
 نعرہ ہے لال سہوانی کا
 ہے تیرا کھلا دربار
+کرو اپنا کرم سرکار
 
 ۵
 سندھ والوں کی ہے شان یہی
@@ -131,6 +147,7 @@ romanLyrics: |-
 ہر لب پر ہے اعلان یہی
 اپنا تو ہے ایمان یہی
 ہم آپ کے ہیں حبدار
+کرو اپنا کرم سرکار
 
 ۶
 ڪيو مولا سائين منظور دعا
@@ -143,6 +160,7 @@ romanLyrics: |-
 کعبے کا ہے کعبہ کربوبلا
 نبیوں کا مصلیٰ کربوبلا
 کرتے ہیں دعا زوار
+کرو اپنا کرم سرکار
 
 ۸
 خالق کی محبت مل جائے
@@ -150,17 +168,20 @@ romanLyrics: |-
 مولا یہ سعادت مل جائے
 ہم کو بھی شہادت مل جائے
 کہتے تھے سبھی انصار
+کرو اپنا کرم سرکار
 
 ۹
 عباس کا لاشہ واویلا
 اکبر گیا مارا واویلا
-تم رہ گےء تنہا واویلا
+تم رہ گئے تنہا واویلا
 یہ صبر تھا کیسا واویلا
 کہتی ہی رہی تلوار
+کرو اپنا کرم سرکار
 
 ۱۰
 جواد اور میثم کی ہے صدا
 ہم تیرے بھکاری ہیں مولا
 جو رزق بھی ہے ہم کو ملتا
-ہے صدقہ تیرے اصغر گا
+ہے صدقہ تیرے اصغر کا
 ہم تیرے ہیں نمک خوار
+کرو اپنا کرم سرکار
