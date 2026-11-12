@@ -6,75 +6,78 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Mir Hasan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ghode se gir ke jab ali akbar ne di sada
-  Apni kamar ko thaam ke shabbir ne kaha
-  Kadiyal jawan ki laash uthane chale hai hum
-  Seedhi ho ay kamar tujhe abbas ki qasam
+  Ghore se gir ke jab Ali Akbar ne di sada
+  Apni kamar ko thaam ke Shabbir ne kaha
+
+  Kariyal jawaaṅ ki laash uthaane chale haiṅ ham
+  Sidhi ho ae kamar tujhe Abbas ki qasam
 
   1
-  Ye imtehan zaeefi may mujhko nibhana hai
-  Akbar ko le ke qaima e zainab may jaana hai
-  Raste may ladkhadaye na shabbir ke qadam
-  Seedhi ho ay kamar tujhe abbas ki qasam
+  Ye imtihaaṅ zaifi mein mujh ko nibhaana hai
+  Akbar ko le ke khaima-e-Zainab mein jaana hai
+  Raste mein larkharaaye na Shabbir ke qadam
+  Sidhi ho ae kamar tujhe Abbas ki qasam
 
   2
-  Ghurbat pe apni roya hai khud ibne fatema
-  Gir gir ke tay kiya hai ye maqtal ka faasla
-  Bas hum se door laash hai akbar ki do qadam
-  Seedhi ho ay kamar tujhe abbas ki qasam
+  Ghurbat pe apni roya hai khud Ibn-e-Faatima
+  Gir gir ke tai kiya hai ye maqtal ka faasla
+  Bas ham se dur laash hai Akbar ki do qadam
+  Sidhi ho ae kamar tujhe Abbas ki qasam
 
   3
-  Raasha hai is khadar ke larazte hai mere haath
-  Laasha hai ye rasool ka akbar ke saath saath
-  Do laashe ek saath uthayenge kaise hum
-  Seedhi ho ay kamar tujhe abbas ki qasam
+  Raasha hai is qadar ke larazte haiṅ mere haath
+  Laasha hai ye Rasul ka Akbar ke saath saath
+  Do laasha ek saath uthaaeṅge kaise ham
+  Sidhi ho ae kamar tujhe Abbas ki qasam
 
   4
-  Is haal may kahin mujhe zahra na dekhle
-  Meri kamar jhuki hui baba na dekhle
-  Aate hi honge meri madad ko shah e umam
-  Seedhi ho ay kamar tujhe abbas ki qasam
+  Is haal mein kahiṅ mujhe Zahra na dekh le
+  Meri kamar jhuki hui Baaba na dekh le
+  Aate hi hoṅge mere madad ko Shah-e-Umam
+  Sidhi ho ae kamar tujhe Abbas ki qasam
 
   5
-  Seene may kehke todi hai zaalim ne ye sina
-  Ab dekhna hussain ki niklegi kaise jaan
-  Zaalim ko ye batana hai ibne ali hai hum
-  Seedhi ho ay kamar tujhe abbas ki qasam
+  Sine mein keh ke tori hai zaalim ne ye sinaaṅ
+  Ab dekhne Husain ki niklegi kaise jaaṅ
+  Zaalim ko ye bataana hai Ibn-e-Ali haiṅ ham
+  Sidhi ho ae kamar tujhe Abbas ki qasam
 
   6
-  Is haal may qayaam may jaunga kis tarha
-  Zainab ki kayenaat uthaunga kis tarha
-  Zehra ka chand karbobala may hua hai kham
-  Seedhi ho ay kamar tujhe abbas ki qasam
+  Is haal mein qiyaam mein jaauṅga kis tarah
+  Zainab ki kaainaat uthaauṅga kis tarah
+  Zahra ka chaand Karbobala mein hua hai kham
+  Sidhi ho ae kamar tujhe Abbas ki qasam
 
   7
-  Amma ke saath mil ke sina maine khaynchli
-  Haathon may ab hamare wo taaqat nahi rahi
-  Abbas kya gaye mere baazu huwe qalam
-  Seedhi ho ay kamar tujhe abbas ki qasam
+  Ammaaṅ ke saath mil ke sinaaṅ main ne khench li
+  Haathoṅ mein ab hamaare wo taaqat nahiṅ rahi
+  Abbas kya gaye mere baazu hue qalam
+  Sidhi ho ae kamar tujhe Abbas ki qasam
 
   8
-  Baahein galay may daal di akbar ne jis ghadi
-  Ibne ali ne ro ke takallum sada ye di
-  Saansein bachi hai ab mere akbar ke paas kam
-  Seedhi ho ay kamar tujhe abbas ki qasam
+  Baanheṅ gale mein daal di Akbar ne jis ghari
+  Ibn-e-Ali ne ro ke Takallum sada ye di
+  Saanseṅ bachi hai ab mere Akbar ke paas kam
+  Sidhi ho ae kamar tujhe Abbas ki qasam
 # source_id: nohayonline:31e4248cfca2b6c9aef0
 # source_url: https://www.nohayonline.com/details_content.php?id=1598
 # raw_sha256: a6aa5cfd0db0411e3067c4847565b0fc56440fbb368aa4fb662edcf434a4a53e
 ---
 گھوڑے سے گر کے جب علی اکبر نے دی صدا
 اپنی کمر کو تھام کے شبیر نے کہا
+
 کڑیل جواں کی لاش اٹھانے چلے ہیں ہم
 سیدھی ہو اے کمر تجھے عباس کی قسم
 
 ۱
-یہ امتحاں ضعیفی میں مجھکو نبھانا ہے
-اکب کو لے کے خیمہء زینب میں جانا ہے
-رستے میں لڑکھڑاے نہ شبیر کے قدم
+یہ امتحاں ضعیفی میں مجھ کو نبھانا ہے
+اکبر کو لے کے خیمۂ زینب میں جانا ہے
+رستے میں لڑکھڑائے نہ شبیر کے قدم
 سیدھی ہو اے کمر تجھے عباس کی قسم
 
 ۲
@@ -86,35 +89,35 @@ romanLyrics: |-
 ۳
 راشا ہے اس قدر کے لرزتے ہیں میرے ہاتھ
 لاشہ ہے یہ رسول کا اکبر کے ساتھ ساتھ
-دو لاشہ ایک ساتھ اٹھاینگے کیسے ہم
+دو لاشہ ایک ساتھ اٹھائیں گے کیسے ہم
 سیدھی ہو اے کمر تجھے عباس کی قسم
 
 ۴
-اس حال میں کہیں مجھے زہرا نہ دیکھلے
-میری کمر جھکی ہوی بابا نہ دیکھلے
-آتے ہی ہونگے میرے مدد کو شہ امم
+اس حال میں کہیں مجھے زہرا نہ دیکھ لے
+میری کمر جھکی ہوئی بابا نہ دیکھ لے
+آتے ہی ہوں گے میرے مدد کو شہ امم
 سیدھی ہو اے کمر تجھے عباس کی قسم
 
 ۵
-سینے میں کہکے توڑی ہے ظالم نے یہ سناں
+سینے میں کہہ کے توڑی ہے ظالم نے یہ سناں
 اب دیکھنے حسین کی نکلے گی کیسے جاں
 ظالم کو یہ بتانا ہے ابنِ علی ہیں ہم
 سیدھی ہو اے کمر تجھے عباس کی قسم
 
 ۶
 اس حال میں قیام میں جاؤں گا کس طرح
-زینب کی کاینات اٹھاؤں گا کس طرح
+زینب کی کائنات اٹھاؤں گا کس طرح
 زہرا کا چاند کربوبلا میں ہوا ہے خم
 سیدھی ہو اے کمر تجھے عباس کی قسم
 
 ۷
 اماں کے ساتھ مل کے سناں میں نے کھینچ لی
 ہاتھوں میں اب ہمارے وہ طاقت نہیں رہی
-عباس کیا گےء میرے بازو ہوے قلم
+عباس کیا گئے میرے بازو ہوئے قلم
 سیدھی ہو اے کمر تجھے عباس کی قسم
 
 ۸
-باہیں گلے میں ڈال دی اکبر نے جس گھڑی
+بانہیں گلے میں ڈال دی اکبر نے جس گھڑی
 ابنِ علی نے رو کے تکلم صدا یہ دی
 سانسیں بچی ہے اب میرے اکبر کے پاس کم
 سیدھی ہو اے کمر تجھے عباس کی قسم
