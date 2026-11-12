@@ -1,66 +1,67 @@
 ---
-title: "جن کی راہوں سے پیعمبر نے ہٹائے کانٹے"
+title: "جن کی راہوں سے پیمبر نے ہٹائے کانٹے"
 alternateTitle: "Jinki Raahon Se"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jinki raahon se payambar ne hataye kaante
-  Har qadam par unhi logon ne bichaye kaante
-  
+  Jin ki raahoṅ se payambar ne hataaye kaante
+  Har qadam par unhi logoṅ ne bichhaaye kaante
+
   1
-  Zindagi may jo sitam dhaaye wohi kya kam thay
-  Baad marne ke jo pehlu may rakhaye kaante
-  
+  Zindagi mein jo sitam dhaaye wohi kya kam the
+  Baad marne ke jo pehlu mein rakhaaye kaante
+
   2
   Khaar phir khaar hai fitrat hai aziyat dena
-  Pehlu e gul se koi kaash hataye kaante
-  
+  Pehlu-e-gul se koi kaash hataaye kaante
+
   3
-  Ahle gulshan ki nigahon may sada khatkenge
-  Laakh phoolon may rahe hai to paraye kaante
-  
+  Ahl-e-gulshan ki nigaahoṅ mein sada khatkeṅge
+  Laakh phuloṅ mein rahe haiṅ to paraaye kaante
+
   4
-  Waye ho ummate marhooma teri kismat par
-  Gul ke hotay huye daaman may sajaye kaante
-  
+  Waaye ho ummat-e-marhuma teri qismat par
+  Gul ke hote hue daaman mein sajaaye kaante
+
   5
-  Ghar jalane ko chale aaye nabi zaadi ka
-  Ban gaye baade nabi raah ke saaye kaante
-  
+  Ghar jalaane ko chale aaye Nabi zaadi ka
+  Ban gaye baad-e-Nabi raah ke saaye kaante
+
   6
-  Dekh kar dashte musibat may gulay zehra ko
-  Naiza taane hue har soo nikal aaye kaante
-  
+  Dekh kar dasht-e-musibat mein gul-e-Zehra ko
+  Naiza taane hue har su nikal aaye kaante
+
   7
-  Ro diye ahle sitam sukhe huye honton par
-  Jab zaban phayr ke asghar ne dikhaye kaante
-  
+  Ro diye ahl-e-sitam sukhe hue hoṅtoṅ par
+  Jab zabaan pher ke Asghar ne dikhaaye kaante
+
   8
-  Tane shabbir hai yun teero ke gehware par
-  Mayyate gul ko ho jis tarha uthaye kaante
+  Tan-e-Shabbir hai yuṅ tiroṅ ke gehwaare par
+  Mayyat-e-gul ko ho jis tarah uthaaye kaante
 # source_id: nohayonline:cf6f2dad9b28a538345e
 # source_url: https://www.nohayonline.com/details_content.php?id=601
 # raw_sha256: c7b724c87eec833a582c6acf4105a443089968882cec042fbb6f773c9ee1f4cb
 ---
 
-جن کی راہوں سے پیعمبر نے ہٹائے کانٹے
+جن کی راہوں سے پیمبر نے ہٹائے کانٹے
 ہر قدم پر اُنہی لوگوں نے بچھائے کانٹے
 
 ۱
-زندگی میں جو ستم ڈھاے وہی کیا کم تھے
-بعد مرنے کے جو پہلو میں رکھاے کانٹے
+زندگی میں جو ستم ڈھائے وہی کیا کم تھے
+بعد مرنے کے جو پہلو میں رکھائے کانٹے
 
 ۲
 خار پھر خار ہے فطرت ہے اذیت دینا
 پہلوئے گُل سے کوئی کاش ہٹائے کانٹے
 
 ۳
-اہلِ گُلشن کی نگاہوں میں صدا کھٹکیں گے
+اہلِ گُلشن کی نگاہوں میں سدا کھٹکیں گے
 لاکھ پھولوں میں رہے ہیں تو پرائے کانٹے
 
 ۴
@@ -69,7 +70,7 @@ romanLyrics: |-
 
 ۵
 گھر جلانے کو چلے آئے نبی زادی کا
-بن گئے بعدِ نبی راہ کے ساے کانٹے
+بن گئے بعدِ نبی راہ کے سائے کانٹے
 
 ۶
 دیکھ کر دشتِ مُصیبت میں گُلِ زہرا کو

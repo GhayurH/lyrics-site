@@ -6,48 +6,50 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Anees Pehersari"
+reciter: "Tableegh-e-Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jinko tu samjhi hai ay hind yahan wo to nahi
-  Hum to awara watan qaidi hai aur khaak nasheen
-  Wo to hai noore mohamed ki ziya arshe makeen
-  Haal ye dekh ke bhi aata nahi tujhko yakeen
-  Tune kya dekh ke kya soch ke ye baat kahi
-  Kalmago qaid karenge bhala aulad e nabi
-  
+  Jin ko tuṅ samjhi hai Ae Hind yahaaṅ wo to nahiṅ
+  Ham to aawaara watan qaidi haiṅ aur khaak nashiṅ
+
+  Wo to haiṅ nur-e-Muhammad ki ziya arsh makiṅ
+  Haal ye dekh ke bhi aata nahiṅ tujh ko yaqiṅ
+  Tuṅ ne kya dekh ke kya soch ke ye baat kahi
+  Kalma go qaid kareṅge bhala aulaad-e-Nabi
+
   1
-  Boli wo kaun ho tum log mujhe ye to batao
-  Apna afsana e gham mujhko mufassar to sunao
-  Roko in aansuon ko apne khudara na bahao
-  Sar ko ooncha karo ay bibiyon surat to dikhao
-  Boli ek bibi bada ranj hai maajayi ko
-  Tere shauhar ne kiya qatl mere bhai ko
-  
+  Boli wo kaun ho tum log mujhe ye to bataao
+  Apna afsaana-e-gham mujh ko mufassar to sunaao
+  Roko in aaṅsuoṅ ko apne khudaara na bahaao
+  Sar ko uṅcha karo Ae Bibiyoṅ surat to dikhaao
+  Boli ik Bibi bara ranj hai maaṅ jaai ko
+  Tere shauhar ne kiya qatl mere bhaai ko
+
   2
-  Kitna pur dard tha ye zainab e muztar ka bayan
-  Sunte hi hind ki ankhon se huwe ashk rawan
-  Roke kehne lagi ba qaatire sultan e zaman
-  Mai chudaungi tumhe qaid se ba izzat o shaan
-  Naam leke na ab kijiyo yun shor o shain
-  Mere aaqa mere maula ka bhi hai naam hussain
-  
+  Kitna pur dard tha ye Zainab-e-Muztar ka bayaaṅ
+  Sunte hi Hind ki aaṅkhoṅ se hue ashk rawaaṅ
+  Ro ke kehne lagi baa khaatir-e-sultaan-e-zamaaṅ
+  Main chhuraauṅgi tumheiṅ qaid se baa izzat o shaaṅ
+  Naam le ke na ab kijiyo yuṅ shor o shain
+  Mere aaqa mere Maula ka bhi hai naam Husain
+
   3
-  Shab ko ek khaab wo dekha hai ke allah ki panaah
-  Yani hai teen shab o roz se pyasa mera shaah
-  Boli phir apne kaneezo se basad ashk o aah
-  Naam ab leti hoo saydaniyo ke haq e dawa
-  Paas behad hai mujhe aale mohamed ka janab
-  Jao le aao wazoo karne ko mere liye aab
-  
+  Shab ko ik khwaab wo dekha hai ke Allah ki panaah
+  Yaani hai tin shab o roz se pyaasa mera Shaah
+  Boli phir apne kanizoṅ se basad ashk o aah
+  Naam ab leti huṅ sayyidaaniyoṅ ke haq-e-dawa
+  Paas behad hai mujhe Aal-e-Muhammad ka janaab
+  Jaao le aao wuzu karne ko mere liye aab
+
   4
-  Lab pe abbas kabhi akbar o asghar tha anees
-  Qasim o aun o mohamed kabhi jafar tha anees
-  Zikr e ansaar kabhi ya shahe safdar tha anees
-  Teen din shaam azakhana e sarwar tha anees
-  Majlise sibte payambar hui pehli barpa
-  Zaakira jiski thi khud binte ali o zehra
+  Lab pe Abbas kabhi Akbar o Asghar tha Anees
+  Qasim o Aun o Muhammad kabhi Jafar tha Anees
+  Zikr-e-ansaar kabhi ya Shaah-e-Safdar tha Anees
+  Tin din Shaam azaakhaana-e-Sarwar tha Anees
+  Majlis-e-Sibt-e-payambar hui pehli barpa
+  Zaakira jis ki thi khud bint-e-Ali o Zehra
 # source_id: nohayonline:b48433eddb1562a45382
 # source_url: https://www.nohayonline.com/details_content.php?id=651
 # raw_sha256: 80d8c5abffb9e8606932be0cb1f35741d3cc32bec8bbec218c571471fb85f96b
@@ -55,24 +57,25 @@ romanLyrics: |-
 
 جن کو توں سمجھی ہے اے ہند یہاں وہ تو نہیں
 ہم تو آوارہ وطن قیدی ہیں اور خاک نشیں
-وہ تو ہیں نورِ محمد کی ضیائ عرش مکیں
-حال یہ دیکھ کہ بھی آتا نہیں تُجھ کو یقیں
-توں نے کیا دیکھ کہ کیا سوچ کہ یہ بات کہی
+
+وہ تو ہیں نورِ محمد کی ضیا عرش مکیں
+حال یہ دیکھ کے بھی آتا نہیں تُجھ کو یقیں
+توں نے کیا دیکھ کے کیا سوچ کے یہ بات کہی
 کلمہ گو قید کریں گے بھلا اولادِ نبی
 
 ۱
-بولی وہ کون ہو تم لوگ مجھے یہ تو بتائو
-اپنا افسانہ ِ غم مجھ کو مسافر تو سُنائو
-روکو ان آنسوئوں کو اپنے خُدارا نہ بہائو
-سر کو اونچا کرو اے بیبیوصورت تو دیکھائو
-بولی اک بی بی بڑا رنج ہے ماں جائی کو
+بولی وہ کون ہو تم لوگ مجھے یہ تو بتاؤ
+اپنا افسانۂ غم مجھ کو مسافر تو سُناؤ
+روکو ان آنسوؤں کو اپنے خُدارا نہ بہاؤ
+سر کو اونچا کرو اے بی‌بیوں صورت تو دکھاؤ
+بولی اک بی‌بی بڑا رنج ہے ماں جائی کو
 تیرے شوہر نے کیا قتل میرے بھائی کو
 
 ۲
 کتنا پُر درد تھا یہ زینبِ مُضطر کا بیاں
 سُنتے ہی ہند کی آنکھوں سے ہوئے اشک رواں
 رو کے کہنے لگی با خاطرِ سُلطانِ زماں
-میں چھُڑائوں گی تمہیں قید سے با عزت و شاں
+میں چھُڑاؤں گی تمہیں قید سے با عزت و شاں
 نام لے کے نہ اب کیجیئو یوں شور و شین
 میرے آقا میرے مولا کا بھی ہے نام حُسین
 
@@ -82,12 +85,12 @@ romanLyrics: |-
 بول کہ اپنی کنیزوں سے بصد اشک و آہ
 نام اب لیتی ہوں سیدانیوں کے حقِ دوا
 پاس بے حد ہے مجھے آلِ محمد کا جناب
-جائو لے آئو وضو کرنے کو میرے لیئے آب
+جاؤ لے آؤ وضو کرنے کو میرے لیے آب
 
 ۴
 لب پہ عباس کبھی اکبر و اصغر تھا انیس
 قاسم و عون و محمد کبھی جعفر تھا انیس
 ذکرِ انصار کبھی یا شاہِ صفدر تھا انیس
-تین دن شام اعزاخانہ ِ سرور تھا انیس
-مجلسِ سبطِ پیعمبر ہوئی پہلی برپا
+تین دن شام عزاخانۂ سرور تھا انیس
+مجلسِ سبطِ پیمبر ہوئی پہلی برپا
 ذاکرہ جس کی تھی خود بنتِ علی و زہرا

@@ -6,126 +6,99 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Mesum Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jab teesri shaban ko aaya gule zahra
-  Shabbir ko godhi mein mohamed ne uthaya
-  
+  Jab tisri Shaabaan ko aaya gul-e-Zahra
+  Shabbir ko godi mein Muhammad ne uthaaya
+  Haidar jo khushi se rukh-e-maasum ko dekha
+  Itne mein sada dar pe ye Jibreel ki aayi
+  Ya Sayyidi qurbaan duhaai hai duhaai
+
+  Kehte the Jibreel laaya huṅ mehzar
+  Sayyidi salaam alaika
+
   1
-  Haddar jo khushi se rukhe masoom ko dekha
-  Itne mein sada dar pe ye jibreel ki aayi
-  Ya sayyedi qurban duhaai hai duhaai
-  Kehte thay jibreel laaya hoon mehzar
-  
+  Lauh-e-mahfuz se ek ek satar laaya huṅ
+  Ek tahrir hai pur dard magar laaya huṅ
+  Ik safar naama-e-maghmum-e-jigar laaya huṅ
+  Din khushi ka hai magar gham ki khabar laaya huṅ
+  Dil mein hai khanjar nauha zabaan par
+  Sayyidi salaam alaika
+
   2
-  Sayyedi salaamalayka
-  Lohe mehfooz se ek ek satar laaya hoon
-  Ek tehreer hai pur dard magar laaya hoon
-  Ek safar naama e maghmoom e jigar laaya hoon
-  
+  Saath mehzar ke main wo khaak-e-shifa laaya huṅ
+  Saari dunya ke liye gham ki dawa laaya huṅ
+  Umm-e-Salma ki zaifi ka asa laaya huṅ
+  Yaani rumaal mein maqtal hi chhupa laaya huṅ
+  Is pe girega khun-e-bahattar
+  Sayyidi salaam alaika
+
   3
-  Din khushi hai magar gham ki khabar laaya hoon
-  Dil mein hai khanjar nauha zaban par
-  Sayyedi salaamalayka
-  Kehte thay jibreel...
-  
-  4
-  Saath mehzar ke mai wo khaake shifa laaya hoon
-  Saari dunya ke liye gham ki dawa laaya hoon
-  Umme salma ki zaeefi ka asa laaya hoon
-  Yani rumaal mein maqtal hi chupa laaya hoon
-  
-  5
-  Is pe girega khoon e bahattar
-  Sayyedi salaamalayka
-  Kehte thay jibreel...
-  Sun ke jibreel ki faryaad mohamed ne kaha
-  
-  6
-  Kya hai mehzar mein likha mujhko sunao to zara
-  Ro ke kehne laga jibreel meri jaan fida
-  Aap ke pyare nawase ka shahadat naama
+  Sun ke Jibreel ki faryaad Muhammad ne kaha
+  Kya hai mehzar mein likha mujh ko sunaao to zara
+  Ro ke kehne laga Jibreel meri jaan fida
+  Aap ke pyaare nawaase ka shahaadat naama
   Karbobala mein jaayega dilbar
-  
+  Sayyidi salaam alaika
+
+  4
+  Bole Jibreel parhuṅ mehzar-e-gham baad-e-salaam
+  Is mein shaamil hai shahidoṅ ke asiroṅ ke bhi naam
+  Aqraba ahl-e-haram chand kaniz aur ghulaam
+  Koi maqtal mein rahega to koi jaayega Shaam
+  Koi hai besar koi khule sar
+  Sayyidi salaam alaika
+
+  5
+  Roz-e-juma hai likha aur san iksath hijri
+  Aap ke pyaare nawaase ki shahaadat hogi
+  Aap hoṅge na Hasan hoṅge na Zahra o Ali
+  Sun ke hal min ki sadaaeṅ bhi na aayega koi
+  Hoga akela naazish-e-Haidar
+  Sayyidi jaan Husain
+
+  6
+  Ya Nabi aap ki ummat ye sitam dhaayegi
+  Jab su-e-Karbobala Shaah ko bulwaayegi
+  Aap ki Aal Madine mein na reh paayegi
+  Aap ke baad ye dunya hi badal jaayegi
+  Jaayeṅge maqtal chhor ke jab ghar
+  Sayyidi jaan Husain
+
   7
-  Sayyedi salaamalayka
-  Kehte thay jibreel...
-  Bole jibreel padhun mehzar e gham baade salaam
-  Is mein shamil hai shaheedon ke aseeron ke bhi naam
-  
+  Jaun o Hur aur Habib ibn-e-Mazaahir Asadi
+  Kaise jaaṅ baaz wafaadaar hai Wahb-e-Kalaabi
+  Qasim o Akbar o Abbas alamdaar-e-jari
+  Asghar o Aun o Muhammad bhi hai kamsin hi sahih
+  Shaamil-e-mehzar hai yehi lashkar
+  Sayyidi salaam alaika
+
   8
-  Aqraba ahle haram chand kaneez aur ghulam
-  Koi maqtal mein rahega to koi jaayega shaam
-  Koi hai be-sar koi khule sar
-  Sayyedi salaamalayka
-  
-  9
-  Kehte thay jibreel...
-  Roze jumma hai likha aur san e iksat hijri
-  Aap ke pyare nawase ki shahadat hogi
-  Aap honge na hassan honge na zahra o ali
-  
-  10
-  Sun ke hal-min ki sadayein bhi na aayega koi
-  Hoga akela naazish e hyder
-  Sayyedi jaan hussain
-  Kehte thay jibreel...
-  
-  11
-  Ya nabi aap ki ummat ye sitam dhayegi
-  Jab suye karbobala shaah ko bulwayegi
-  Aap ki aal madine mein na reh payegi
-  Aap ke baad ye dunya hi badal jayegi
-  
-  12
-  Jaayege maqtal chod ke jab ghar
-  Sayyedi jaan hussain
-  Kehte thay jibreel...
-  John o hurr aur habeeb ibne mazahir asadi
-  
-  13
-  Kaise jaan baaz wafadar hai wehbe kalabi
-  Qasim o akbar o abbas e alamdar e jari
-  Asghar o aun o mohamed bhi hai kamsin hi sahi
-  Shaamil e mehzar hai yehi lashkar
-  
-  14
-  Sayyedi salaamalayka
-  Kehte thay jibreel...
-  Ab dekhiye jibreel ki aankhon se ye manzar
-  Ashoor ki wo subhe azaan e ali akbar
-  
-  15
-  Ek pyase ko har simt se ghere hai sitamgar
-  Wo naizein wo paikaan wo talwarein wo khanjar
-  Maqtal ke wo muazzim ka wo laasha sar e maqtal
-  Barchi ka nishan seene pe ek toota hua phal
-  
-  16
-  Talwaar se ek turbat e baysheer banana
-  Turbat pe phir ek soya hua chand chupana
-  Phir kaampte honton se zameen ko ye batana
-  Asghar tera mehman hai isay jhoola jhulana
-  
-  17
-  Pani jo mayassar na hua haye duhaai
-  Ashkon ki rida turbat e asghar pe chadhayi
-  Wo asr ka hangaam ghadhi qatl ki aayi
-  Jab shimr ne ek pyase pe talwaar chalayi
-  
-  18
-  Ek rayt ke teele pe gayi zahra ki jaayi
-  Maqtal mein behen roti rahi naize pe bhai
-  Manzar wo bayan kaise kare mesum o mazhar
-  Baba se kaha fatema zahra ne ye ro kar
-  
-  19
-  Lut jayega jab dasht e bayaban mein mera ghar
-  Royega kaun bhala kaun mere bacche ko jaa kar
-  Beti se ye farmane lage ahmad e mukhtar
-  Ta hashr isay royenge dunya mein azadaar
+  Ab dekhiye Jibreel ki aaṅkhoṅ se ye manzar
+  Aashur ki wo subh azaan-e-Ali Akbar
+  Ek pyaase ko har simt se ghere hai sitamgar
+  Wo neze wo paikaan wo talwaareṅ wo khanjar
+  Maqtal ke wo muazzim ka wo laasha sar-e-maqtal
+  Barchhi ka nishaaṅ sine pe ek tuta hua phal
+  Talwaar se ek turbat-e-beshir banaana
+  Turbat pe phir ek soya hua chaand chhupaana
+  Phir kaaṅpte hoṅtoṅ se zamiṅ ko ye bataana
+  Asghar tera mehmaan hai ise jhula jhulaana
+  Paani jo mayassar na hua haaye duhaai
+  Ashkoṅ ki rida turbat-e-Asghar pe charhaai
+  Wo asr ka hangaam ghari qatl ki aayi
+  Jab Shimr ne ek pyaase pe talwaar chalaai
+  Ek ret ke tile pe gayi Zahra ki jaai
+  Maqtal mein behen roti rahi neze pe bhaai
+  Manzar wo bayaan kaise kare Maisam o Mazhar
+  Baba se kaha Fatima Zahra ne ye ro kar
+  Lut jaayega jab dasht-e-bayaabaaṅ mein mera ghar
+  Royega kaun bhala kaun mere bachche ko jaa kar
+  Beti se ye farmaane lage Ahmad-e-Mukhtaar
+  Taa hashr ise royeṅge dunya mein azaadaar
 # source_id: nohayonline:6d5efeebbbb23aaed99e
 # source_url: https://www.nohayonline.com/details_content.php?id=3714
 # raw_sha256: 9b6499e3094a1f1734372edc2aa8c8adec7a9cc2da0bffa15db6b1d12dbe49a0
@@ -133,117 +106,89 @@ romanLyrics: |-
 
 جب تیسری شعبان کو آیا گل زہرا
 شبیر کو گودی میں محمد نے اٹھایا
+حیدر جو خوشی سے رخ معصوم کو دیکھا
+اتنے میں صدا در پہ یہ جبریل کی آئی
+یا سیدی قربان دہائی ہے دہائی
+
+کہتے تھے جبریل لایا ہوں محضر
+سیدی سلام علیکا
 
 ۱
-حیدر جو خوشی سے رخ معصوم کو دیکھا
-اتنے میں صدا در پہ یہ جبریل کی آی
-یا سیدی قربان دہائی ہے دہائی
-کہتے تھے جبریل لایا ہوں محزر
-
-۲
-سیدی سلام علیکا
-لوح محفوظ سے ایک ایک ستر لایا ہوں
+لوح محفوظ سے ایک ایک سطر لایا ہوں
 ایک تحریر ہے پر درد مگر لایا ہوں
-اک سفر نامہء مغموم جگر لایا ہوں
-
-۳
+اک سفر نامۂ مغموم جگر لایا ہوں
 دن خوشی کا ہے مگر غم کی خبر لایا ہوں
 دل میں ہے خنجر نوحہ زبان پر
 سیدی سلام علیکا
-کہتے تھے جبریل۔۔۔
 
-۴
-ساتھ محزر کے میں وہ خاک شفا لایا ہوں
+۲
+ساتھ محضر کے میں وہ خاک شفا لایا ہوں
 ساری دنیا کے لئے غم کی دوا لایا ہوں
 ام سلمیٰ کی ضعیفی کا عصا لایا ہوں
 یعنی رومال میں مقتل ہی چھپا لایا ہوں
-
-۵
 اس پہ گرے گا خون بہتر
 سیدی سلام علیکا
-کہتے تھے جبریل۔۔۔
-سن کے جبریل کی فریاد حمد نے کہا
 
-۶
-کیا ہے محزر‌ میں لکھا مجھکو سناؤ تو زرا
+۳
+سن کے جبریل کی فریاد محمد نے کہا
+کیا ہے محضر میں لکھا مجھ کو سناؤ تو ذرا
 رو کے کہنے لگے جبریل میری جان فدا
 آپ کے پیارے نواسے کا شہادت نامہ
-کربوبلا میں جاے گا دلبر
-
-۷
+کربوبلا میں جائے گا دلبر
 سیدی سلام علیکا
-کہتے تھے جبریل۔۔۔
-بولے جبریل پڑھوں محزر غم بعد سلام
+
+۴
+بولے جبریل پڑھوں محضر غم بعد سلام
 اس میں شامل ہے شہیدوں کے اسیروں کے بھی نام
-
-۸
-اقرباء اہل حرم چند کنیز اور غلام
-کوی مقتل میں رہے گا تو کوئی جاے گا شام
-کوئی ہے بے سر کوی کھلے سر
+اقربا اہل حرم چند کنیز اور غلام
+کوئی مقتل میں رہے گا تو کوئی جائے گا شام
+کوئی ہے بے سر کوئی کھلے سر
 سیدی سلام علیکا
 
-۹
-کہتے تھے جبریل۔۔۔
+۵
 روز جمعہ ہے لکھا اور سنہ اکسٹھ ہجری
 آپ کے پیارے نواسے کی شہادت ہو گی
-آپ ہونگے نہ حسن ہونگے نہ زہرا و علی
-
-۱۰
-سن کے ھل من کے صداییں بھی نہ آئے گا کوئی
+آپ ہوں گے نہ حسن ہوں گے نہ زہرا و علی
+سن کے ہل من کی صدائیں بھی نہ آئے گا کوئی
 ہوگا اکیلا نازش حیدر
 سیدی جان حسین
-کہتے تھے جبریل۔۔۔
 
-۱۱
-یا نبی آپ کی امت یہ ستم ڈھاے گی
-جب سوے کربوبلا شاہ کو بلواے گی
+۶
+یا نبی آپ کی امت یہ ستم ڈھائے گی
+جب سوئے کربوبلا شاہ کو بلوائے گی
 آپ کی آل مدینے میں نہ رہ پائے گی
 آپ کے بعد یہ دنیا ہی بدل جائے گی
-
-۱۲
-جایینگے مقتل چھوڑ کے جب گھر
+جائیں گے مقتل چھوڑ کے جب گھر
 سیدی جان حسین
-کہتے تھے جبریل۔۔۔
-جون و حر اور حبیب ابن مظاہر اسدی
 
-۱۳
-کیسے جاں باز وفادار ہے وحب کلبی
+۷
+جون و حر اور حبیب ابن مظاہر اسدی
+کیسے جاں باز وفادار ہے وہب کلبی
 قاسم و اکبر و عباس علمدار جری
 اصغر و عون و محمد بھی ہے کمسن ہی صحیح
-شامل محزر ہے یہی لشکر
-
-۱۴
+شامل محضر ہے یہی لشکر
 سیدی سلام علیکا
-کہتے تھے جبریل۔۔۔
-اب دیکھیےء جبریل کی آنکھوں سے یہ منظر
-عاشور کی وہ صبح اذان علی اکبر
 
-۱۵
+۸
+اب دیکھیے جبریل کی آنکھوں سے یہ منظر
+عاشور کی وہ صبح اذان علی اکبر
 ایک پیاسے کی ہر سمت سے گھیرے ہے ستمگر
 وہ نیزے وہ پیکاں وہ تلواریں وہ خنجر
 مقتل کے وہ معظم کا وہ لاشہ سر مقتل
 برچھی کا نشاں سینے پہ ایک ٹوٹا ہوا پھل
-
-۱۶
 تلوار سے ایک تربت بے شیر بنانا
 تربت پہ پھر ایک سویا ہوا چاند چھپانا
 پھر کانپتے ہونٹوں سے زمیں کو یہ بتانا
 اصغر تیرا مہمان ہے اسے جھولا جھلانا
-
-۱۷
-پانی جو میسر نہ ہوا ہاے دہائی
-اشکوں کی ردا تربت اصغر پہ چڑھای
-وہ عصر کا ہنگام گھڑی قتل کی آی
-جب شمر نے ایک پیاسے پہ تلوار چلای
-
-۱۸
-ایک ریت کے ٹیلے پہ گیء زہرا کی جای
-مقتل میں بہن روتی رہی نیزے پہ بھای
+پانی جو میسر نہ ہوا ہائے دہائی
+اشکوں کی ردا تربت اصغر پہ چڑھائی
+وہ عصر کا ہنگام گھڑی قتل کی آئی
+جب شمر نے ایک پیاسے پہ تلوار چلائی
+ایک ریت کے ٹیلے پہ گئی زہرا کی جائی
+مقتل میں بہن روتی رہی نیزے پہ بھائی
 منظر وہ بیان کیسے کرے میثم و مظہر
 بابا سے کہا فاطمہ زہرا نے یہ رو کر
-
-۱۹
-لٹ جاے گا جب دشت بیاباں میں میرا گھر
-روے گا کون بھلا کون میرے بچے کو جا کر
+لٹ جائے گا جب دشت بیاباں میں میرا گھر
+روئے گا کون بھلا کون میرے بچے کو جا کر
 بیٹی سے یہ فرمانے لگے احمد مختار
-تا حشر اسے رویینگے دنیا میں عزادار
+تا حشر اسے روئیں گے دنیا میں عزادار
