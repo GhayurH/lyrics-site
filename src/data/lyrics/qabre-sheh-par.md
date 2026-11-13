@@ -6,75 +6,88 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
+reciter: "Tableegh e Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Qabre sheh par ye kehti thi khwahar
-  Bhaiya utho utho utho watan ja rahi hoo
+  Qabr-e-Shah par ye kehti thi khaahar
+  Bhaiya utho utho utho watan ja rahi huṅ
 
   1
-  Apne haathon se chadar udhao
-  Khud amari mein mujhko bithao
-  Bin tumhare na jayegi khaahar
+  Apne haathoṅ se chaadar urhaao
+  Khud amaari mein mujh ko bithaao
+  Bin tumhaare na jaaye gi khaahar
+  Utho utho watan ja rahi huṅ
 
   2
-  Jo ye poochenge ahle madina
-  Kyun na humraah aayi sakina
-  Kya kahoo mai bata do biradar
+  Jo ye puchheṅ ge ahl-e-Madina
+  Kiuṅ na hamraah aai Sakina
+  Kya kahuṅ main bata do baraadar
+  Utho utho watan ja rahi huṅ
 
   3
-  Saath mere chale thay watan se
-  Kyun juda ho rahe ho behan se
-  Tumko humraah jaungi lekar
+  Saath mere chale the watan se
+  Kiuṅ juda ho rahe ho behan se
+  Tum ko hamraah jaauṅ gi le kar
+  Utho utho watan ja rahi huṅ
 
   4
-  Kisko jhoola jhulayegi bano
-  Godh khaali na jayegi bano
-  Mere ghuncha dahan mere asghar
+  Kis ko jhula jhulaaye gi Bano
+  God khaali na jaaye gi Bano
+  Mere ghuncha dahan mere Asghar
+  Utho utho watan ja rahi huṅ
 
   5
-  Haal abid ka uth ke to dekho
-  Bhaiya seene se isko laga lo
-  Milne aaya hai tumse ye muztar
+  Haal Abid ka uth ke to dekho
+  Bhaiya sine se is ko laga lo
+  Milne aaya hai tum se ye muztar
+  Utho utho watan ja rahi huṅ
 
   6
-  Karbala wale tadpe na mehshar
-  Qatm kardo ye noha yahin par
+  Karbala waale tarpe na Mahshar
+  Khatm kar do ye nauha yahiṅ par
   Ro diya hai qalam bhi ye likh kar
+  Utho utho watan ja rahi huṅ
 # source_id: nohayonline:db51930b5d06a6126e66
 # source_url: https://www.nohayonline.com/details_content.php?id=59
 # raw_sha256: 53545d41ca3323343ee4b99f2bc64f38a5521f3792ce18029c4caa0620f18309
 ---
 قبرِ شہ پر یہ کہتی تھی خواہر
-بھیااُٹھو اُٹھو اُٹھو وطن جا رہی ہوں
+بھیا اُٹھو اُٹھو اُٹھو وطن جا رہی ہوں
 
 ۱
-اپنے ہاتھوں سے چادر اُڑھائو
-خود اماری میں مجھ کو بیٹھائو
+اپنے ہاتھوں سے چادر اُڑھاؤ
+خود عماری میں مجھ کو بٹھاؤ
 بن تمہارے نہ جائے گی خواہر
+اُٹھو اُٹھو وطن جا رہی ہوں
 
 ۲
-جو یہ پوچھین گے اہلِ مدینہ
+جو یہ پوچھیں گے اہلِ مدینہ
 کیوں نہ ہمراہ آئی سکینہ
 کیا کہوں میں بتا دو برادر
+اُٹھو اُٹھو وطن جا رہی ہوں
 
 ۳
 ساتھ میرے چلے تھے وطن سے
 کیوں جدا ہو رہے ہو بہن سے
-تم کو ہمراہ جائوں گی لے کر
+تم کو ہمراہ جاؤں گی لے کر
+اُٹھو اُٹھو وطن جا رہی ہوں
 
 ۴
 کس کو جھُولا جھُلائے گی بانو
 گود خالی نہ جائے گی بانو
 میرے غنچہ دہن میرے اصغر
+اُٹھو اُٹھو وطن جا رہی ہوں
 
 ۵
 حال عابد کا اُٹھ کے تو دیکھو
 بھیا سینے سے اس کو لگا لو
 ملنے آیا ہے تم سے یہ مُضطر
+اُٹھو اُٹھو وطن جا رہی ہوں
 
 ۶
 کربلا والے تڑپے نہ محشر
 ختم کر دو یہ نوحہ یہیں پر
 رو دیا ہے قلم بھی یہ لکھ کر
+اُٹھو اُٹھو وطن جا رہی ہوں

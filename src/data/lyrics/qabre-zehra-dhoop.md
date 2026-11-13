@@ -6,61 +6,62 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Misle pehlu hai shakista qabre zehra dhoop mein
-  Saaye mein baba ka rauza qabre zehra dhoop mein
+  Misl-e-pehlu hai shikasta qabr-e-Zehra dhup mein
+  Saaye mein baba ka rauza qabr-e-Zehra dhup mein
 
   1
-  Gumbad e khizra ke saaye mein nahi rehte rasool
-  Apni ummat ke sitam par ho rahe hai dil malool
-  Dekhte hai roz aaqa qabre zehra dhoop mein
+  Gumbad-e-Khizra ke saaye mein nahiṅ rehte Rasul
+  Apni ummat ke sitam par ho rahe haiṅ dil malul
+  Dekhte haiṅ roz Aaqa qabr-e-Zehra dhup mein
 
   2
-  Kal jala zehra ka dar aur koi kuch bola nahi
-  Aaj bhi khamosh hai sab koi kuch kehta nahi
-  Dekhta hai shehr saara qabre zehra dhoop mein
+  Kal jala Zehra ka dar aur koi kuchh bola nahiṅ
+  Aaj bhi khaamosh haiṅ sab koi kuchh kehta nahiṅ
+  Dekhta hai shahr saara qabr-e-Zehra dhup mein
 
   3
-  Ek hi to hai mohamed mustafa ki kainaat
-  Kya musalmano yehi insaaf hai bibi ke saath
-  Saaye mein ahle madina qabre zehra dhoop mein
+  Ek hi to hai Muhammad Mustafa ki kaainaat
+  Kya musalmaano yehi insaaf hai Bibi ke saath
+  Saaye mein ahl-e-Madina qabr-e-Zehra dhup mein
 
   4
-  Ghurbate binte nabi par ro rahe thay khud ali
-  Jab utha shab mein janaza dekh na paaya koi
-  Dekhti hai aaj dunya qabre zehra dhoop mein
+  Ghurbat-e-bint-e-Nabi par ro rahe the khud Ali
+  Jab utha shab mein janaaza dekh na paaya koi
+  Dekhti hai aaj duniya qabr-e-Zehra dhup mein
 
   5
-  Maa to maa hai bhoolti manzar wo kis tarha bhala
-  Haye be-gor o kafan tha dhoop mein bacha mera
-  Aaj bhi karti hai girya qabre zehra dhoop mein
+  Maaṅ to maaṅ hai bhulti manzar wo kis tarah bhala
+  Haaye begor o kafan tha dhup mein bachcha mera
+  Aaj bhi karti hai girya qabr-e-Zehra dhup mein
 
   6
-  Qabr mein jaa kar bhi aansu ruk na payenge kabhi
-  Do sitam sajjad ko tadpa rahe hai aaj bhi
-  Saani e zehra ka parda qabre zehra dhoop mein
+  Qabr mein ja kar bhi aansu ruk na paayeṅ ge kabhi
+  Do sitam Sajjad ko tarpa rahe haiṅ aaj bhi
+  Saani-e-Zehra ka parda qabr-e-Zehra dhup mein
 
   7
-  Din mein suraj ka safar ho ya ke ho tareeki shab
-  Dono manzar hai azadaron ke rone ka sabab
-  Qabre zehra par andhera qabre zehra dhoop mein
+  Din mein suraj ka safar ho ya ke ho taariki shab
+  Donoṅ manzar haiṅ azaadaaroṅ ke rone ka sabab
+  Qabr-e-Zehra par andhera qabr-e-Zehra dhup mein
 
   8
-  Isteghaase par ho farhan o takallum iqtetaam
-  Parda e ghaibat utha kar aaiye jaldi imam
-  Mustaqil hai mere maula qabre zehra dhoop mein
+  Istighaase par ho Farhan o Takallum ikhtitaam
+  Parda-e-ghaibat utha kar aaiye jaldi Imam
+  Mustaqil hai mere Maula qabr-e-Zehra dhup mein
 # source_id: nohayonline:21c66e9e0c2412e25a93
 # source_url: https://www.nohayonline.com/details_content.php?id=1027
 # raw_sha256: 50b1e8625519a977a9687260a8f000c6cb06ef6eaccde352a4deed3ff0991246
 ---
 مثلِ پہلو ہے شکستہ قبرِ زہرا دُھوپ میں
-سائے میں بابا کا روزہ قبرِ زہرا دُھوپ میں
+سائے میں بابا کا روضہ قبرِ زہرا دُھوپ میں
 
 ۱
-گنبدِ خضریٰ کے سائے میں نہیں رہتے رسول
+گنبدِ خضرا کے سائے میں نہیں رہتے رسول
 اپنی اُمّت کے ستم پر ہو رہے ہیں دل ملول
 دیکھتے ہیں روز آقا قبرِ زہرا دُھوپ میں
 
@@ -71,7 +72,7 @@ romanLyrics: |-
 
 ۳
 ایک ہی تو ہے محمد مصطفٰے کی کائنات
-کیا مسلمانوں یہی انصاف ہے بی بی کے ساتھ
+کیا مسلمانو یہی انصاف ہے بی‌بی کے ساتھ
 سائے میں اہلِ مدینہ قبرِ زہرا دُھوپ میں
 
 ۴
@@ -96,5 +97,5 @@ romanLyrics: |-
 
 ۸
 استغاثے پر ہو فرحان و تکلم اختتام
-پردہء غیبت اُٹھا کر آئیے جلدی امام
-مستقل ہےمیرے مولا قبرِ زہرا دُھوپ میں
+پردۂ غیبت اُٹھا کر آئیے جلدی امام
+مستقل ہے میرے مولا قبرِ زہرا دُھوپ میں
