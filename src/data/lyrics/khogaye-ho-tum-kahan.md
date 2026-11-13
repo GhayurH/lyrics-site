@@ -1,85 +1,56 @@
 ---
 title: کھو گئے ہو تم کہاں ڈھونڈتی مادر
-alternateTitle: Khogaye Ho Tum Kahan
+alternateTitle: Kho Gaye Ho Tum Kahaaṅ
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Hassan"
+reciter: "Mir Sumeair Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Khogaye ho tum kahan dhoondti madar
-
+romanLyrics: |-
+  Kho gaye ho tum kahaaṅ dhundti maadar
 
   1
-
-  Ay ali akbar mere ay ali akbar mere
-
-  Kis tarha seh payegi gham tera khaahar
-
+  Ae Ali Akbar mere ae Ali Akbar mere
+  Kis tarah sah paayegi gham tera khwaahar
 
   2
-
-  Zakm seene par laga aur jigar tak chid gaya
-
-  Khoon se rangeen hai, sar zameen e karbala
-
-  Haat rakh lo zakm par aati hai maadar
-
+  Zakhm sine par laga aur jigar tak chhid gaya
+  Khun se rangin hai sar zamin-e-Karbala
+  Haath rakh lo zakhm par aati hai maadar
 
   3
-
-  Aarzoo ye thi meri dekhun sehre ki ladi
-
-  Haye qismat kya karun khoon mein mayyat bhari
-
-  Sej phoolon ki kahan khaak ka bistar
-
+  Aarzu ye thi meri dekhuṅ sehre ki lari
+  Haaye qismat kya karuṅ khun mein mayyat bhari
+  Sej phuloṅ ki kahaaṅ khaak ka bistar
 
   4
-
-  Ek sakina si behan shal hai kodon se badan
-
-  Uf gulu mein baandne shimr laaya hai rasan
-
-  Zulm ki hai inteha chin gaye gohar
-
+  Ek Sakina si behan shal hai koroṅ se badan
+  Uf gulu mein baandhne Shimr laaya hai rasan
+  Zulm ki hai inteha chhin gaye gauhar
 
   5
-
-  Mohsin o yawar nahi shaah ka lashkar nahi
-
-  So gaye abbas bhi godh mein asghar nahi
-
-  Saykdo ranj o mehan aur ek sarwar
-
+  Mohsin o yaawar nahiṅ shaah ka lashkar nahiṅ
+  So gaye Abbas bhi god mein Asghar nahiṅ
+  Saiṅkaroṅ ranj o mehan aur ek Sarwar
 
   6
-
-  Tauq ka aazaar hai abid e beemar hai
-
-  Zainab o kulsoom aur shaam ka bazaar hai
-
-  Baad tere ahle shar le gaye chadar
-
+  Tauq ka aazaar hai Abid-e-bimaar hai
+  Zainab o Kulsum aur Shaam ka baazaar hai
+  Baad tere ahl-e-shar le gaye chaadar
 
   7
-
-  Qaid se jab jaungi mai madine jaungi
-
-  Poochegi sugra tumhe kya usay batlaungi
-
-  Kis tarha seh payegi gham tera khwahar
-
+  Qaid se jab jaauṅgi main Madine jaauṅgi
+  Puchhegi Sughra tumheṅ kya use batlaauṅgi
+  Kis tarah sah paayegi gham tera khwaahar
 
   8
-
-  Ay shaheed e karbala ay shabihe mustufa
-
-  Waasta hai aap ko shabbar o shabbir ka
-
-  Ab hassan ki kuch khabar lijiye aa kar'
+  Ae shahid-e-Karbala ae shabih-e-Mustafa
+  Waasta hai aap ko Shabbar o Shabbir ka
+  Ab Hasan ki kuchh khabar lijiye aa kar
 # source_id: nohayonline:380856269c14d62e7dfc
 # source_url: https://www.nohayonline.com/details_content.php?id=1298
 # raw_sha256: 5044fdafaa1f913c1b0aad9d9c0f90e1000befe58666d993c0fdd8e7991c98c4
@@ -95,7 +66,7 @@ romanLyrics: 'Khogaye ho tum kahan dhoondti madar
 کس طرح سہہ پائے گی غم تیرا خواہر
 
 ۲
-زخم سینے پر لگا اور جگرتک چھِد گیا
+زخم سینے پر لگا اور جگر تک چھِد گیا
 خون سے رنگین ہے سر زمینِ کربلا
 ہاتھ رکھ لو زخم پر آتی ہے مادر
 
@@ -120,11 +91,11 @@ romanLyrics: 'Khogaye ho tum kahan dhoondti madar
 بعد تیرے اہلِ شر لے گئے چادر
 
 ۷
-قید سے جب جائوں گی میں مدینے جائوں گی
-پوچھے گی صغریٰ تمہیں کیا اُسے بتلائوں گی
+قید سے جب جاؤں گی میں مدینے جاؤں گی
+پوچھے گی صغریٰ تمہیں کیا اُسے بتلاؤں گی
 کس طرح سہہ پائے گی غم تیرا خواہر
 
 ۸
 اے شہیدِ کربلا اے شبیہہ مصطفیٰ
 واسطہ ہے آپ کو شبر و شبیر کا
-اب حسن کی کچھ خبر لیجیئے آ کر
+اب حسن کی کچھ خبر لیجیے آ کر

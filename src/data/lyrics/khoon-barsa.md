@@ -1,61 +1,45 @@
 ---
 title: خوں برسا خوں برسا
-alternateTitle: Khoon Barsa
+alternateTitle: Khuṅ Barsa
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
+reciter: "Ali Shanawar, Ali Ji"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Khoon barsa
-
+romanLyrics: |-
+  Khuṅ barsa khuṅ barsa
 
   1
-
-  Payaas jab had se barhi ro key sakina ne kaha
-
-  Door kitni hai chacha nehar batao ghar sey
-
+  Khuṅ barsa na barasna tha na baadal barse
+  Ek ek qatre ko paani ke shaah-e-diṅ tarse
+  Khuṅ barsa khuṅ barsa
 
   2
-
-  Ab kahan khak pe bethi ho sakina uthho
-
-  Koun aaya hai palat kar jo gaya run ghar sey
-
+  Pyaas jab had se barhi ro ke Sakina ne kaha
+  Dur kitni hai chacha nehr bataao ghar se
 
   3
-
-  Ghurkiyaan shimer l.a ki khaeen jo kiya baap ko yaad
-
-  Kaan ke dard sey roi to tamanchey barsey
-
+  Ab kahaaṅ khaak pe baithi ho Sakina utho
+  Kaun aaya hai palat kar jo gaya ran ghar se
 
   4
-
-  Abhi Shabbir hai zinda waheen thehro Zainab
-
-  Tum ko Akber ki qasam tum na nikalna ghar sey
-
+  Ghurkiyaaṅ Shimr ki khaaiṅ jo kiya baap ko yaad
+  Kaan ke dard se roi to tamaanche barse
 
   5
-
-  Merey nana ke madiney tujhey Zainab ka salam
-
-  Thokarain kha key palat aai hoon main dar dar sey
-
+  Abhi Shabbir hai zinda wahiṅ thahro Zainab
+  Tum ko Akbar ki qasam tum na nikalna ghar se
 
   6
-
-  Haq o batil ka ho takraao to dil lartey hain
-
-  Jung ye jeeti nahi jaati kabhi lashkar sey
-
+  Mere naana ke Madine tujhe Zainab ka salaam
+  Thokareṅ khaa ke palat aai huṅ main dar dar se
 
   7
-
-  Ek ek qatrey ko pani ke shah-e-deen tarsey'
+  Haq o baatil ka ho takraao to dil larte haiṅ
+  Jang ye jiti nahiṅ jaati kabhi lashkar se
 # source_id: nohayonline:923d2ba630f2ddbd19ba
 # source_url: https://www.nohayonline.com/details_content.php?id=1850
 # raw_sha256: b9c71e786fd5c5ed3793362440b43590944bd746b43b40d6cfbb5ccad0ab78e4
@@ -70,29 +54,30 @@ romanLyrics: 'Khoon barsa
 خوں برسا خوں برسا
 
 ۱
-خوں برسا نہ برسنا تھا نہ بدل برسے
-اک اک خطرے کو پانی کے شہ دیں ترسے
+خوں برسا نہ برسنا تھا نہ بادل برسے
+اک اک قطرے کو پانی کے شہ دیں ترسے
+خوں برسا خوں برسا
 
 ۲
-پیاس جب حد سے بڑی رو کے سکینہ نے کہا
-دور کتنی ہے چادر نہر بتاؤ گھر سے
+پیاس جب حد سے بڑھی رو کے سکینہ نے کہا
+دور کتنی ہے چچا نہر بتاؤ گھر سے
 
 ۳
 اب کہاں خاک پہ بیٹھی ہو سکینہ اٹھو
 کون آیا ہے پلٹ کر جو گیا رن گھر سے
 
 ۴
-گھرکیاں شمر کی کہیں جو کیا باپ کو یاد
-کان کے درد سے روی تو طمانچے برسے
+گھڑکیاں شمر کی کھائیں جو کیا باپ کو یاد
+کان کے درد سے روئی تو طمانچے برسے
 
 ۵
-ابھی شبیر ہے زندہ وہی ٹہرو زینب
-تم کو اکبر کی قسم تو نہ نکلنا گھر سے
+ابھی شبیر ہے زندہ وہیں ٹھہرو زینب
+تم کو اکبر کی قسم تم نہ نکلنا گھر سے
 
 ۶
 میرے نانا کے مدینے تجھے زینب کا سلام
-ٹھوکریں کھا کے پلٹ آی ہوں میں در در سے
+ٹھوکریں کھا کے پلٹ آئی ہوں میں در در سے
 
 ۷
-‌حق و باطل کا ہو ٹکراؤ تو دل لڑتے ہیں
+حق و باطل کا ہو ٹکراؤ تو دل لڑتے ہیں
 جنگ یہ جیتی نہیں جاتی کبھی لشکر سے
