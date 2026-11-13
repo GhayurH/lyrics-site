@@ -1,89 +1,92 @@
 ---
-title: "‎آخری رات سکینہ کا عجب عالم تھا"
+title: "آخری رات سکینہ کا عجب عالم تھا"
 alternateTitle: "Pehchano Mujhe"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Kazmi Brothers"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aakhri raat sakina ka jab ye aalam tha
-  Qaid khane mein tadapti rahi bekas tanha
-  Sar e shabbir ko aghosh mein le kar apni
-  Zakhmi honton pe yateema ke yehi nauha tha
-  Baba pehchano mujhe baba
-  Mai teri sakina hoo
-  
+  Aakhri raat Sakina ka ajab aalam tha
+  Qaid khaane mein tarapti rahi bekas tanha
+  Sar-e-Shabbir ko aaghosh mein le kar apni
+  Zakhmi hontoṅ pe yatima ke yehi nauha tha
+
+  Baaba pehchaano mujhe baaba
+  Main teri Sakina huṅ
+  Tere gham ne mujhe kar diya hai baaba zaifa
+
   1
-  Tere gham ne mujhe kar diya hai baba zaeefa
-  Meri poshak lahoo se hai bhari ay baba
-  Bad gayi aur meri tashna labi ay baba
-  Khud batayenge mere paon ke chaale tum ko
-  Aaj bhi dhoop mein rehti hoo khadi ay baba
+  Meri poshaak lahu se hai bhari ae baaba
+  Barh gayi aur miri tishna labi ae baaba
+  Khud bataaeṅ ge mire paaoṅ ke chhaale tum ko
+  Aaj bhi dhup mein rehti huṅ khari ae baaba
   Jis din se utha aap ka sar se mere saaya
-  
+
   2
   Aap ke baad ajab haal hua hai mera
-  Ye badan phool sa zakhmon se bhara hai mera
-  Pehla pursa hi tamachon ka mil hai mujhko
-  Shaam waalon ne khayal aise rakha hai mera
-  Pathar kabhi shole kabhi naiza kabhi durra
-  
+  Ye badan phul sa zakhmoṅ se bhara hai mera
+  Pehla pursa hi tamaachoṅ ka mila hai mujh ko
+  Shaam waaloṅ ne khayaal aise rakha hai mera
+  Patthar kabhi shole kabhi neza kabhi durra
+
   3
-  Aap ka karz sakina ne utaara baba
-  Zaalimon ne mujhe har mod pe maara baba
-  Kaise samjhaun samajh lo ye ishara baba
-  Le ke dewaar ka chalti hoo sahara baba
-  Baba mujhe aankhon se nazar hi nahi aata
-  
+  Aap ka qarz Sakina ne utaara baaba
+  Zaalimoṅ ne mujhe har mor pe maara baaba
+  Kaise samjhaauṅ samajh lo ye ishaara baaba
+  Le ke diwaar ka chalti huṅ sahaara baaba
+  Baaba mujhe aankhoṅ se nazar hi nahiṅ aata
+
   4
-  Khaak se apni yateema ko utha lo jaldi
-  Shimr aajayega godhi mein chupa lo jaldi
-  Aap to chaahne waalon ko bula lete ho
-  Door hoo kab se mujhe paas bula lo jaldi
-  Bin aap ke achi nahi lagti mujhe dunya
-  
+  Khaak se apni yatima ko utha lo jaldi
+  Shimr aa jaaye ga godi mein chhupa lo jaldi
+  Aap to chaahne waaloṅ ko bula lete ho
+  Dur huṅ kab se mujhe paas bula lo jaldi
+  Bin aap ke achchhi nahiṅ lagti mujhe dunya
+
   5
-  Ek nazar ghaur se ghazi ki bhatiji dekho
+  Ek nazar ghaur se Ghazi ki bhatiji dekho
   Gir ke naaqe se kamar jhuk gayi meri dekho
-  Aankhein kholo zara bacchi ki zaeefi dekho
-  Mere baalon mein utar aayi safedi dekho
-  Lagta hai zaeefa hoo mai amma se zyada
-  
+  Aankheṅ kholo zara bachchi ki zaifi dekho
+  Mere baaloṅ mein utar aayi safedi dekho
+  Lagta hai zaifa huṅ main ammaaṅ se zyaada
+
   6
-  Meri amma ne madine mein sunaya tha mujhe
-  Haal hazrat ki mohabbat ka bataya tha mujhe
-  Aakhri hai ye guzarish meri tum se baba
-  Jaise dunya mein duaon se bulaya tha mujhe
-  Waise hi dua do ke mai ab chod doo dunya
-  
+  Meri ammaaṅ ne Madine mein sunaaya tha mujhe
+  Haal Hazrat ki mohabbat ka bataaya tha mujhe
+  Aakhri hai ye guzaarish miri tum se baaba
+  Jaise dunya mein duaaoṅ se bulaaya tha mujhe
+  Waise hi dua do ke main ab chhor duṅ dunya
+
   7
-  Qaid khane mein takallum hai abhi tak dukhiya
+  Qaid khaane mein Takallum hai abhi tak dukhiya
   Aaj tak baap pe karti hai musalsal girya
-  Haye taqdeer rehaayi nahi paayi usne
-  Aaj tak bali sakina ka rasan mein hai gala
-  Wo qabr mein padhti hai yehi aaj bhi nauha
+  Haaye taqdir rihaai nahiṅ paayi us ne
+  Aaj tak baali Sakina ka rasan mein hai gala
+  Wo qabr mein parhti hai yehi aaj bhi nauha
 # source_id: nohayonline:3e739b97fd7e77c03b7b
 # source_url: https://www.nohayonline.com/details_content.php?id=2748
 # raw_sha256: 14c62f5d670aaaeeeba8a274315366c1cbf350533fb4375a8ac1c545e9c941f0
 ---
-‎آخری رات سکینہ کا عجب عالم تھا
-‎قید خانے میں تڑپتی رہی بےکس تنہا
-‎سرِ شبیر کو آغوش میں لے کر اپنی
-‎زخمی ہونٹوں پہ یتیمہ کے یہی نوحہ تھا
+آخری رات سکینہ کا عجب عالم تھا
+قید خانے میں تڑپتی رہی بےکس تنہا
+سرِ شبیر کو آغوش میں لے کر اپنی
+زخمی ہونٹوں پہ یتیمہ کے یہی نوحہ تھا
+
 بابا پہچانو مجھے بابا
 میں تیری سکینہ ہوں
+تیرے غم نے مجھے کر دیا ہے بابا ضعیفہ
 
 ۱
-تیرے غم نے مجھے کر دیا ہے بابا ضعیفہ
-‎میری پوشاک لہو سے ہے بھری اے بابا
-‎بڑھ گئی اور مری تشنہ لبی اے بابا
-‎خود بتائیں گے مرے پاؤں کے چھالے تم کو
-‎آج بھی دھوپ رہتی ہوں کھڑی اے بابا
-‎جس دن سے اٹھاآپ کا سر سے میرے سایہ
+میری پوشاک لہو سے ہے بھری اے بابا
+بڑھ گئی اور مری تشنہ لبی اے بابا
+خود بتائیں گے مرے پاؤں کے چھالے تم کو
+آج بھی دھوپ رہتی ہوں کھڑی اے بابا
+جس دن سے اٹھا آپ کا سر سے میرے سایہ
 
 ۲
 آپ کے بعد عجب حال ہوا ہے میرا
@@ -116,8 +119,8 @@ romanLyrics: |-
 ۶
 میری اماں نے مدینے میں سنایا تھا مجھے
 حال حضرت کی محبت کا بتایا تھا مجھے
-آخری ہے یہ گذارش مری تم سے بابا
-جیسے دنیا میں دعاوں سے بُلایا تھا مجھے
+آخری ہے یہ گزارش مری تم سے بابا
+جیسے دنیا میں دعاؤں سے بُلایا تھا مجھے
 ویسے ہی دعا دو کہ میں اب چھوڑ دوں دنیا
 
 ۷

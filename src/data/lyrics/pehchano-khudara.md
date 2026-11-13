@@ -6,63 +6,64 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Irfan Haider"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zindan ki qaid kaat ke jab saniye zahra
-  Pahunchi watan to koi bhi pehchan na paaya
-  Arey abdullah ibne jafar e tayaar ne poocha
-  Tu kaun hai kya naam hai tera ay zaeefa
-  Ye sun ke buka karne lagi saniye zehra
-  Zauja hoon aap ki mujhe pehchano khudara
-  Mai aun o mohamed ki maa hoo
-  Pehchano khudara
-  Mujhko to jeete ji ghame shabbir ne maara
-  
+  Zindaan ki qaid kaat ke jab saaniye Zahra
+  Pahunchi watan to koi bhi pehchaan na paaya
+  Are Abdullah ibn-e-Jaafar-e-Tayyaar ne puchha
+  Tu kaun hai kya naam hai tera ae zaifa
+  Ye sun ke buka karne lagi saaniye Zehra
+  Zauja huṅ aap ki mujhe pehchaano khudaara
+  Main Aun o Muhammad ki maaṅ huṅ
+  Pehchaano khudaara
+  Mujh ko to jite ji gham-e-Shabbir ne maara
+
   1
-  Baalon ki safaydi ka sabab poocho na mujh se
-  In aankhon ne dekhe hai sitam karbobala ke
+  Baaloṅ ki safedi ka sabab puchho na mujh se
+  In aankhoṅ ne dekhe haiṅ sitam Karb o Bala ke
   Ghar lut gaya saara
-  
+
   2
-  Chehre se numeinan jo mere karbobala hai
-  Ye haal to abbas ke marne se huwa hai
-  Choota wo sahara
-  
+  Chehre se numaayaaṅ jo mere Karb o Bala hai
+  Ye haal to Abbas ke marne se hua hai
+  Chhuta wo sahaara
+
   3
-  Ek zakhm hai qasim ka mere qalb o jigar mein
-  Jo chand ujalon ka sabab tha mere ghar mein
+  Ek zakhm hai Qasim ka mere qalb o jigar mein
+  Jo chaand ujaaloṅ ka sabab tha mere ghar mein
   Wo bhi gaya maara
-  
+
   4
-  Bas bhai ke matam mein rahi qaid bhi kaati
-  Lekin mai kabhi aun o mohamed ko na royi
-  Ab deti hoo pursa
-  
+  Bas bhaai ke maatam mein rahi qaid bhi kaati
+  Lekin main kabhi Aun o Muhammad ko na roi
+  Ab deti huṅ pursa
+
   5
-  Bazaar mein abid pe zaeefi hui taari
-  Wo aaj bhi rota hai aseeri pe hamari
-  Ghamkhwar hamara
-  
+  Bazaar mein Aabid pe zaifi hui taari
+  Wo aaj bhi rota hai asiri pe hamaari
+  Ghamkhwaar hamaara
+
   6
-  Sadaat ke halqe ne mujhe aa ke chupaya
-  Jab shaam ke haakim ne mera naam pukara
+  Saadaat ke halqe ne mujhe aa ke chhupaaya
+  Jab Shaam ke haakim ne mera naam pukaara
   Us ranj ne maara
-  
+
   7
-  Shireen se mulaqat hui raah mein ek baar
-  Pehchan nahi paayi mujhe wo bhi dilafgaar
-  Dil roke pukara
-  
+  Shiriṅ se mulaaqaat hui raah mein ek baar
+  Pehchaan nahiṅ paayi mujhe wo bhi dil afgaar
+  Dil ro ke pukaara
+
   8
-  Sad haif kujara hai damishk aur kuja mai
-  Karbal se chali hogayi khud karbobala mai
+  Sad haif kujaara hai Damishq aur kuja main
+  Karbal se chali ho gayi khud Karb o Bala main
   Zulmat ka safar tha
-  
+
   9
-  Irfan ye alfaaz jo mazhar ne likhe hai
-  Insan to kya cheez hai pathar ko rulade
+  Irfan ye alfaaz jo Mazhar ne likhe haiṅ
+  Insaan to kya chiz hai patthar ko rula de
   Jaise ke ye jumla
 # source_id: nohayonline:337601d658cdaa3c9f37
 # source_url: https://www.nohayonline.com/details_content.php?id=558
@@ -72,7 +73,7 @@ romanLyrics: |-
 پہنچی وطن تو کوئی بھی پہچان نہ پایا
 ارے عبداللہ ابنِ جعفرِ طیار نے پوچھا
 تُو کون ہے کیا نام ہے تیرا اے ضعیفہ
-یہ سُن کے بُقا کرنے لگی ثانیئے زہرا
+یہ سُن کے بُکا کرنے لگی ثانیئے زہرا
 زوجہ ہوں آپ کی مجھے پہچانو خدارا
 میں عون و محمد کی ماں ہوں
 پہچانو خدارا
@@ -84,7 +85,7 @@ romanLyrics: |-
 گھر لُٹ گیا سارا
 
 ۲
-چہرے سے نمایاں جو میرے کر ب و بلا ہے
+چہرے سے نمایاں جو میرے کرب و بلا ہے
 یہ حال تو عباس کے مرنے سے ہوا ہے
 چھُوٹا وہ سہارا
 
@@ -110,7 +111,7 @@ romanLyrics: |-
 
 ۷
 شیریں سے ملاقات ہوئی راہ میں اک بار
-پہچان نہین پائی مجھے وہ بھی دل افگار
+پہچان نہیں پائی مجھے وہ بھی دل افگار
 دل رو کے پُکارا
 
 ۸
