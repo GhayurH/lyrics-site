@@ -1,5 +1,5 @@
 ---
-title: کوئی ہو تو چلیں
+title: کوئی ہو تو چلے
 alternateTitle: Koi Ho To Chale
 language: Urdu
 lang: ur
@@ -7,66 +7,68 @@ direction: rtl
 kalamType: Noha
 poet: "Hilal Naqvi"
 tags: ["noImage"]
-aliases: []
+aliases: ["کوئی ہو تو چلیں"]
 published: false
 romanLyrics: |-
   Khudaya khudaya khudaya khudaya
-  Hal min nasirin yansurna
+  Hal min naasirin yansurna
+
   Koi ho to chale
   Khudaya koi ho to chale
-  Istighasa hai sar e daar koi ho to chale
+
+  Istighaasa hai sar-e-daar koi ho to chale
   Ek pyase pe hai yalghaar koi ho to chale
 
   1
-  Khaafila so gaya maqtal may sar e shaam sabhi
-  Reh gaya khaafila salaar koi ho to chale
+  Qaafila so gaya maqtal mein sar-e-shaam sabhi
+  Reh gaya qaafila saalaar koi ho to chale
 
   2
   Ek beta hai jo gehware se utra na kabhi
-  Doosra beta hai beemar koi ho to chale
+  Dusra beta hai bimaar koi ho to chale
 
   3
-  Khud ko jhoole se gira dete hai jaane waale
-  Kaun aisa hai wafadar koi ho to chale
+  Khud ko jhule se gira dete haiṅ jaane waale
+  Kaun aisa hai wafaadaar koi ho to chale
 
   4
-  Reh gaya naizon ke jangal may musafir tanha
-  Ye shahadat ke hai aasaar koi ho to chale
+  Reh gaya naizoṅ ke jangal mein musaafir tanha
+  Ye shahaadat ke haiṅ aasaar koi ho to chale
 
   5
-  Lamha lamha ye sada deti hai ashoor ki shaam
-  Bediyan hoti hai tayyaar koi ho to chale
+  Lamha lamha ye sada deti hai Aashur ki shaam
+  Beriyaṅ hoti haiṅ tayyaar koi ho to chale
 
   6
-  Allah allah ye lahoo pehne huwe tanhaai
+  Allah Allah ye lahu pehne hue tanhaai
   Lut gayi kis ki ye sarkar koi ho to chale
 
   7
-  Ye hai naamoos e nabi qaime se kaise nikle
-  Kya kare saahib e kirdaar koi ho to chale
+  Ye haiṅ naamus-e-Nabi khaime se kaise nikleṅ
+  Kya kare saahib-e-kirdaar koi ho to chale
 
   8
-  Jaane ye kaun pase qaima hai girya girya
-  Hai koi is ka azadar koi ho to chale
+  Jaane ye kaun pas-e-khaima hai giryaaṅ girya
+  Hai koi is ka azaadaar koi ho to chale
 
   9
-  Kis tarha se dare zindan pe sakina royi
-  Saath royi dar o deewaar koi ho to chale
+  Is tarah se dar-e-zindaaṅ pe Sakina roi
+  Saath roye dar o diwaar koi ho to chale
 
   10
-  Kis ke lehje may ali bol rahe hai logon
-  Kaun bola sar e darbar koi ho to chale
+  Kis ke lehje mein Ali bol rahe haiṅ logoṅ
+  Kaun bola sar-e-darbaar koi ho to chale
 
   11
-  Bediyan jis ki musibat pe lahoo roti hai
-  Kaun aaya sar e bazaar koi ho to chale
+  Beriyaṅ jis ki musibat pe lahu roti haiṅ
+  Kaun aaya sar-e-bazaar koi ho to chale
 
   12
-  Jo ho us fauj e mukhaalif ka sipahi na chale
-  Haa magar hurr sa tarafdaar koi ho to chale
+  Jo ho us fauj-e-mukhaalif ka sipaahi na chale
+  Haaṅ magar Hur sa tarafdaar koi ho to chale
 
   13
-  Ye sada aaj bhi maqtal se hilal aati hai
+  Ye sada aaj bhi maqtal se Hilal aati hai
   Kaun haq ka hai talabgaar koi ho to chale
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:39d65d9173346d8dc097
@@ -77,18 +79,20 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # raw_sha256: 0baf53730dd17411520069e7b6dd186988e55b365afa78f74521becdf866a5cb
 ---
 خدایا خدایا خدایا خدایا
-ھل من ناصر ینصرنا
+ہل من ناصر ینصرنا
+
 کوئی ہو تو چلے
 خدایا کوئی ہو تو چلے
-استغاثہ ہے سر دار کوئی ہو تو چلے
+
+استغاثہ ہے سرِ دار کوئی ہو تو چلے
 ایک پیاسے پہ ہے یلغار کوئی ہو تو چلے
 
 ۱
-قافلہ سوگيا مقتل میں سر شام سبھی
+قافلہ سو گیا مقتل میں سرِ شام سبھی
 رہ گیا قافلہ سالار کوئی ہو تو چلے
 
 ۲
-ایک بیٹا ہے جو گہوارہ سے اترا نہ کبھی
+ایک بیٹا ہے جو گہوارے سے اترا نہ کبھی
 دوسرا بیٹا ہے بیمار کوئی ہو تو چلے
 
 ۳
@@ -104,31 +108,31 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 بیڑیاں ہوتی ہیں تیار کوئی ہو تو چلے
 
 ۶
-اللہ اللہ یہ لہو پہنے ہوۓ تنہائ
-لٹ گئ کس کی یہ سرکار کوئی ہو تو چلے
+اللہ اللہ یہ لہو پہنے ہوئے تنہائی
+لٹ گئی کس کی یہ سرکار کوئی ہو تو چلے
 
 ۷
-یہ ہیں ناموس نبیۖ خیمے سے کیسے نکلیں
-کیا کرے صاحب کردار کوئی ہو تو چلے
+یہ ہیں ناموسِ نبیۖ خیمے سے کیسے نکلیں
+کیا کرے صاحبِ کردار کوئی ہو تو چلے
 
 ۸
-جانے یہ کون پس خیمہ ہے گریاں گریہ
+جانے یہ کون پسِ خیمہ ہے گریاں گریہ
 ہے کوئی اس کا عزادار کوئی ہو تو چلے
 
 ۹
-اس طرح سے در زنداں پہ سکینہ روئ
-ساتھ روۓ در و دیوار کوئی ہو تو چلے
+اس طرح سے درِ زنداں پہ سکینہ روئی
+ساتھ روئے در و دیوار کوئی ہو تو چلے
 
 ۱۰
 کس کے لہجے میں علی بول رہے ہیں لوگوں
-کون بولا سر دربار کوئی ہو تو چلے
+کون بولا سرِ دربار کوئی ہو تو چلے
 
 ۱۱
 بیڑیاں جس کی مصیبت پہ لہو روتی ہیں
-کون آیا سر بازار کوئی ہو تو چلے
+کون آیا سرِ بازار کوئی ہو تو چلے
 
 ۱۲
-جو ہو اس فوج مخالف کا سپاہی نہ چلے
+جو ہو اس فوجِ مخالف کا سپاہی نہ چلے
 ہاں مگر حر سا طرفدار کوئی ہو تو چلے
 
 ۱۳

@@ -1,41 +1,42 @@
 ---
 title: کوئی حُسین سا سجدہ بھلا ادا تو کرے
-alternateTitle: Koi Hussain Sa Sajda
+alternateTitle: Koi Husain Sa Sajda
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Ameer Hussain Mashadi"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
-aliases: []
+aliases: ["Koi Hussain Sa Sajda"]
 published: false
 romanLyrics: |-
-  Koi Hussain sa sajda bhala ada to karay
-  Yeh rashk jis pay sada khaak-e-Karbala to karay
+  Koi Husain sa sajda bhala ada to kare
+  Keh rashk jis pe sada khaak-e-Karbala to kare
 
   1
-  Shaheed kon sa guzra hay puray aalam may
-  Sina ki noak pay jo zikr-e-la ila to karay
+  Shahid kaun sa guzra hai pure aalam mein
+  Sinaaṅ ki nok pe jo zikr-e-la ilaah to kare
 
   2
-  Labay furat woh bazu kata kay soya hay
-  Abbas jaisi jahan may koi wafa to karay
+  Lab-e-Furaat wo baazu kata ke soya hai
+  Abbas jaisi jahaaṅ mein koi wafa to kare
 
   3
-  Alam kay neechay jo maango qabool hoti hay
-  Khaloos-e-dil say koi shaks agar dua to karay
+  Alam ke niche jo maango qabul hoti hai
+  Khulus-e-dil se koi shakhs gar dua to kare
 
   4
-  May baba aap ka beta hun goh kai Asghar hun
-  Kaho laeen say sitam ki woh intaihaa to karay
+  Main baba aap ka beta huṅ go keh Asghar huṅ
+  Kaho lain se sitam ki wo intiha to kare
 
   5
-  Kahan say laao gay aisa jiger jo deen kay liye
-  Asar say pehlay bahattar ko jo juda to karay
+  Kahaaṅ se laaoge aisa jigar jo diṅ ke liye
+  Asr se pehle bahattar ko jo juda to kare
 
   6
-  Kiya Hussain nay jaisay hay sabar karbal main
-  Ameer sabar pay yun koi iktaifaa to karay
+  Kiya Husain ne jaise hai sabr Karbal mein
+  Ameer sabr pe yuṅ koi iktifa to kare
 # source_id: nohayonline:538c561257a3ad95fb55
 # source_url: https://www.nohayonline.com/details_content.php?id=598
 # raw_sha256: 9ae5dd32db0036ff566c748db37ab7393836a0bee7bb3168e24e545169f98d0e
@@ -52,7 +53,7 @@ romanLyrics: |-
 سِناں کی نوک پہ جو ذکرِ لا اِلٰہ تو کرے
 
 ۲
-لبِ فرا،ت وہ بازو کٹا کے سویا ہے
+لبِ فرات وہ بازو کٹا کے سویا ہے
 عباس جیسی جہاں میں کوئی وفا تو کرے
 
 ۳
@@ -64,7 +65,7 @@ romanLyrics: |-
 کہو لعین سے ستم کی وہ انتہا تو کرے
 
 ۵
-کہاں سے لائو گے ایسا جگر جو دیں کے لیئے
+کہاں سے لاؤ گے ایسا جگر جو دیں کے لیے
 عصر سے پہلے بہتر کو جو جُدا تو کرے
 
 ۶

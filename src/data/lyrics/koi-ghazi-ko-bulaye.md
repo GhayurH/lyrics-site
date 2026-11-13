@@ -6,67 +6,72 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aagaya bazaar e shaam
-  Khaak par girti hai kehkar ye ali ki laadli
-  Koi ghazi ko bulaye raah mein bazaar hai
-  Ye mera pehla safar hai baad e abbas e jari
+  Aa gaya bazaar-e-Shaam
+
+  Khaak par girti hai keh kar ye Ali ki laadli
+  Koi Ghazi ko bulaye raah mein bazaar hai
+
+  Ye mera pehla safar hai baad-e-Abbas-e-Jari
 
   1
-  Virsadar e sayyeda hoo waaris e tatheer hoo
-  Kis tarha bazaar jaaun khwahare shabbir hoo
-  Ek sina par bhai roye ek par chadar meri
+  Wirsa-daar-e-Sayyeda huṅ waaris-e-tathir huṅ
+  Kis tarah bazaar jaauṅ khwaahar-e-Shabbir huṅ
+  Ik sinaaṅ par bhaai roye ek par chaadar meri
 
   2
-  Taaziyano ki aziyat qalb par sehloongi mai
-  Kis tarha na-paak nazron ke sitam jheloongi mai
-  Sharm se zehra ki beti jeete jee mar jayegi
+  Taaziyaanoṅ ki aziyat qalb par sah luṅgi main
+  Kis tarah napaak nazroṅ ke sitam jheluṅgi main
+  Sharm se Zehra ki beti jite ji mar jayegi
 
   3
-  Ghar se jab jaati thi zainab mehmile laata tha wo
-  Baam o dar bazaar saare bandh karwata tha wo
-  Aaj be-chadar hi zainab shaam ki jaanib chali
+  Ghar se jab jaati thi Zainab mahmileṅ laata tha wo
+  Baam o dar bazaar saare band karwaata tha wo
+  Aaj bechaadar hi Zainab Shaam ki jaanib chali
 
   4
-  Khaafla jab bekaso ka shaam ki jaanib chala
-  Haath pabande rasan thay mehwe gham aur berida
-  Khaafile waalon se rokar kehti thi fizza yehi
+  Qaafila jab bekasoṅ ka Shaam ki jaanib chala
+  Haath paaband-e-rasan the mahw-e-gham aur berida
+  Qaafile waaloṅ se ro kar kehti thi Fizza yehi
 
   5
-  Shaam mein in qaidiyon par kya taras khayenge log
-  Shaam mein jaate hi hum par aag barsayenge log
-  Kaamp uth'ti hoo abhi se soch kar manzar wohi
+  Shaam mein in qaidiyoṅ par kya taras khaayeṅge log
+  Shaam mein jaate hi hum par aag barsaayeṅge log
+  Kaamp uthti huṅ abhi se soch kar manzar wohi
 
   6
-  Mujhko baba ne bataya tha dam e ruqsat yehi
-  Ek din tu shaam o kufa mein khule sar jayegi
-  Kya karun kisko bulaun aagayi hai wo ghadi
+  Mujh ko baba ne bataaya tha dam-e-rukhsat yehi
+  Ek din tu Shaam o Kufa mein khule sar jayegi
+  Kya karuṅ kis ko bulaauṅ aa gayi hai wo ghari
 
   7
-  Bain ye farhan o mazhar zainab e dilgeer ka
-  Sunke har laasha jafa ke dasht mein thar'ra gaya
-  Waasta logon nabi ka khaafla roko abhi
+  Bain ye Farhan o Mazhar Zainab-e-dilgir ka
+  Sun ke har laasha jafa ke dasht mein tharra gaya
+  Waasta logoṅ Nabi ka qaafila roko abhi
 # source_id: nohayonline:8843f9a071dbbedf1de3
 # source_url: https://www.nohayonline.com/details_content.php?id=1120
 # raw_sha256: d674fbe20a16a2cec7751bc761be85987e1cdfa0ba32e9be3f4d2225acc7ce2e
 ---
-آگیا بازار شام
+آ گیا بازارِ شام
+
 خاک پر گرتی ہے کہہ کر یہ علی کی لاڈلی
-کوئی غازی کو بلاے راہ میں بازار ہے
-یہ میرا پہلا سفر ہے بعد عباس جری
+کوئی غازی کو بلائے راہ میں بازار ہے
+
+یہ میرا پہلا سفر ہے بعدِ عباسِ جری
 
 ۱
-ورثہ دار سیدہ ہوں وارث تطہیر ہوں
-کس طرح بازار جاؤں خواہر شبیر ہوں
-اک سناں پر بھای روے ایک پر چادر میری
+ورثہ دارِ سیدہ ہوں وارثِ تطہیر ہوں
+کس طرح بازار جاؤں خواہرِ شبیر ہوں
+اک سناں پر بھائی روئے ایک پر چادر میری
 
 ۲
-تازیانوں کی اذیت قلب پر سہلونگی میں
-کس طرح نا پاک نظروں کے ستم جھیلونگی میں
-شرم سے زہرا کی بیٹی جیتے جی مر جاۓ گی
+تازیانوں کی اذیت قلب پر سہہ لوں گی میں
+کس طرح ناپاک نظروں کے ستم جھیلوں گی میں
+شرم سے زہرا کی بیٹی جیتے جی مر جائے گی
 
 ۳
 گھر سے جب جاتی تھی زینب محملیں لاتا تھا وہ
@@ -75,20 +80,20 @@ romanLyrics: |-
 
 ۴
 قافلہ جب بے کسوں کا شام کی جانب چلا
-ہاتھ پابند رسن تھے محو غم اور بے ردا
-قافلے والوں سے روکر کہتی تھی فضہ یہی
+ہاتھ پابندِ رسن تھے محوِ غم اور بے ردا
+قافلے والوں سے رو کر کہتی تھی فضہ یہی
 
 ۵
-شام میں ان قیدیوں پر کیا ترس کھاۓ نگے لوگ
-شام میں جاتے ہی ہم پر آگ برساےنگے لوگ
-کانپ اٹھتی ہوں ابھی سے سونچ کر منظر وہی
+شام میں ان قیدیوں پر کیا ترس کھائیں گے لوگ
+شام میں جاتے ہی ہم پر آگ برسائیں گے لوگ
+کانپ اٹھتی ہوں ابھی سے سوچ کر منظر وہی
 
 ۶
-مجھکو بابا نے بتایا تھا دم رخصت یہی
-ایک دن تو شام و کوفہ میں کھلے سر جاے گی
-کیا کروں کس کو بلاؤں آگیء ہے وہ گھڑی
+مجھ کو بابا نے بتایا تھا دمِ رخصت یہی
+ایک دن تو شام و کوفہ میں کھلے سر جائے گی
+کیا کروں کس کو بلاؤں آ گئی ہے وہ گھڑی
 
 ۷
-بین یہ فرحان و مظہر زینب دلگیر کا
-سن کے ہر لاشہ جفا کے دشت میں تھرا گیا
+بین یہ فرحان و مظہر زینبِ دلگیر کا
+سن کے ہر لاشہ جفا کے دشت میں تھرّا گیا
 واسطہ لوگوں نبی کا قافلہ روکو ابھی
