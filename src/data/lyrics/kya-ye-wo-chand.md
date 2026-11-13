@@ -1,85 +1,88 @@
 ---
 title: "ہلال ماہ غم ہلال ماہ عزا"
-alternateTitle: "Kya Ye Wo Chand"
+alternateTitle: "Kya Ye Wo Chaand"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Raza Surani"
+reciter: "Ali Mohd. Sultanpuri"
 tags: ["noImage"]
-aliases: []
+aliases: ["Kya Ye Wo Chand"]
 published: false
 romanLyrics: |-
-  Hilal e maah e gham hilal e maah e aza
-  Ghar lut gaya batool ka laaya hai jo khabar
-  Kya ye wo chand hai
-  Jis chand mein huwe hai bahattar lahoo mein tar
-  Kya ye wo chand hai
+  Hilaal-e-maah-e-gham hilaal-e-maah-e-aza
+
+  Ghar lut gaya Batul ka laaya hai jo khabar
+  Kya ye wo chaand hai
+  Jis chaand mein hue haiṅ bahattar lahu mein tar
+  Kya ye wo chaand hai
 
   1
-  Jis chand mein rasool bhi rote hai zaar zaar
-  Hoti hai jisko dekh ke zahra bhi beqarar
-  Karta hai jo hassan ke kaleje ko taar taar
-  Sadme se jis mein aaj bhi roti hai zulfiqar
-  Aate hai jis mein aj bhi pyason ke sar nazar
+  Jis chaand mein Rasul bhi rote haiṅ zaar zaar
+  Hoti hai jis ko dekh ke Zahra bhi beqaraar
+  Karta hai jo Hasan ke kaleje ko taar taar
+  Sadme se jis mein aaj bhi roti hai Zulfiqaar
+  Aate hai jis mein aaj bhi pyaasoṅ ke sar nazar
 
   2
-  Jis chand mein batool ka gulshan ujad gaya
-  Jis chand mein rasool ke pyaron pe thi jafa
-  Jis chand mein ali ke dulaaron ka sar kata
-  Jis chand mein lahoo se hui laal karbala
-  Jis mein laga diya gaya pehra furaat par
+  Jis chaand mein Batul ka gulshan ujar gaya
+  Jis chaand mein Rasul ke pyaaroṅ pe thi jafa
+  Jis chaand mein Ali ke dulaaroṅ ka sar kata
+  Jis chaand mein lahu se hui laal Karbala
+  Jis mein laga diya gaya pehra Furaat par
 
   3
-  Jis chand mein hussain se akbar juda hua
-  Seene pe naujawan ke barchi ka phal laga
-  Toda gaya zaeef ka pardes mein asaa
-  Cheena gaya hussain se jeene ka aasra
-  Akbar ka jis mein baap ke haathon pe tha jigar
+  Jis chaand mein Husain se Akbar juda hua
+  Seene pe naujawaaṅ ke barchhi ka phal laga
+  Tora gaya zaif ka pardes mein asa
+  Chhina gaya Husain se jine ka aasra
+  Akbar ka jis mein baap ke haathoṅ pe tha jigar
 
   4
-  Abbas ka hussain ne paaya hai jis mein gham
-  Jis mein kamar hui hai shahe karbala ki kham
-  Jis chand mein dilayr ke shaane huwe qalam
-  Thanda hua furaat pe jis chand mein alam
-  Jis mein nehar pe doob gaya hashmi qamar
+  Abbas ka Husain ne paaya hai jis mein gham
+  Jis mein kamar hui hai shaah-e-Karbala ki kham
+  Jis chaand mein diler ke shaane hue qalam
+  Thanda hua Furaat pe jis chaand mein alam
+  Jis mein nehr pe dub gaya Haashmi qamar
 
   5
-  Nanhe galay pe teer laga jis hilal mein
-  Ek sheerkhwar nehr hua jis hilal mein
-  Chehre pe sheh ne khoon mala jis hilal mein
-  Asghar ko roke dafn kiya jis hilal mein
-  Ki jis mein bezaban ki lehad aansuon se tar
+  Nanhe gale pe tir laga jis hilaal mein
+  Ek shirkhwaar nehr hua jis hilaal mein
+  Chehre pe Shah ne khun mala jis hilaal mein
+  Asghar ko roke dafn kiya jis hilaal mein
+  Keh jis mein bezabaaṅ ki lahad aansuoṅ se tar
 
   6
-  Zakhmon se choor choor thay jis mein shahe huda
-  Seene pe jis hilal mein shimr e layeen chadha
-  Kaata gaya hussain ka jis chand mein gala
-  Jis mein hussain qatl huwe ran mein bekhata
-  Maadar thi jis mein laal ke laashe pe nauha gar
+  Zakhmoṅ se chur chur the jis mein Shah-e-Huda
+  Seene pe jis hilaal mein Shimr-e-lain charha
+  Kaata gaya Husain ka jis chaand mein gala
+  Jis mein Husain qatl hue ran mein bekhata
+  Maadar thi jis mein laal ke laashe pe nauhagar
 
   7
-  Hoti thi jis hilal mein din raat sakhtiyan
-  Tadpi hai jis hilal mein hyder ki betiyan
-  Ujdi hai jis hilal mein maa'on ki godhiyan
-  Dikhta hai jis hilal mein qaimon ka wo dhuaan
-  Pehre pe jis mein zainab e muztar thi raat bhar
+  Hoti thi jis hilaal mein din raat sakhtiyaaṅ
+  Tarpi hai jis hilaal mein Haidar ki betiyaaṅ
+  Ujri hai jis hilaal mein maa'oṅ ki godiyaaṅ
+  Dikhta hai jis hilaal mein khaimoṅ ka wo dhuaaṅ
+  Pehre pe jis mein Zainab-e-muztar thi raat bhar
 
   8
-  Likhta hai jab koi bhi surani ye daastan
-  Hota hai jab ali ye bahattar ka gham bayan
-  Hilti hai ye zameen larazta hai aasman
-  Dete hai ghaib se ye sada saahib az zaman
-  Rota hoon jis mein peet ke sar mai har ek peher
-  Haan ye wo chand hai haan ye wo chand hai
+  Likhta hai jab koi bhi Sahaani ye daastaaṅ
+  Hota hai jab Ali ye bahattar ka gham bayaaṅ
+  Hilti hai ye zamiṅ larazta hai aasmaaṅ
+  Dete haiṅ ghaib se ye sada Saahib-az-Zamaaṅ
+  Rota huṅ jis mein pit ke sar main har ek pehr
+  Haaṅ ye wo chaand hai haaṅ ye wo chaand hai
 # source_id: nohayonline:6553ca9a24514520e2c2
 # source_url: https://www.nohayonline.com/details_content.php?id=2859
 # raw_sha256: e4574e640c5340dec2c1fde3d288e549472013e2c4f4ff5dc70060a48843d31a
 ---
 ہلال ماہ غم ہلال ماہ عزا
+
 گھر لٹ گیا بتول کا لایا ہے جو خبر
 کیا یہ وہ چاند ہے
-جس چاند میں ہوے ہیں بہتر لہو میں تر
+جس چاند میں ہوئے ہیں بہتر لہو میں تر
 کیا یہ وہ چاند ہے
 
 ۱
@@ -93,7 +96,7 @@ romanLyrics: |-
 جس چاند میں بتول کا گلشن اجڑ گیا
 جس چاند میں رسول کے پیاروں پہ تھی جفا
 جس چاند میں علی کے دلاروں کا سر کٹا
-جس چاند میں لہو سے ہوی لال کربلا
+جس چاند میں لہو سے ہوئی لال کربلا
 جس میں لگا دیا گیا پہرہ فرات پر
 
 ۳
@@ -105,7 +108,7 @@ romanLyrics: |-
 
 ۴
 عباس کا حسین نے پایا ہے جس میں غم
-جس میں کمر ہیں شاہ کربلا کی خم
+جس میں کمر ہوئی ہے شاہ کربلا کی خم
 جس چاند میں دلیر کے شانے ہوئے قلم
 ٹھنڈا ہوا فرات پہ جس چاند میں علم
 جس میں نہر پہ ڈوب گیا ہاشمی قمر
@@ -121,7 +124,7 @@ romanLyrics: |-
 زخموں سے چور چور تھے جس میں شہ ہدا
 سینے پہ جس ہلال میں شمر لعیں چڑھا
 کاٹا گیا حسین کا جس چاند میں گلا
-جس میں حسین قتل ہوے رن میں بے خطا
+جس میں حسین قتل ہوئے رن میں بے خطا
 مادر تھی جس میں لال کے لاشے پہ نوحہ گر
 
 ۷
