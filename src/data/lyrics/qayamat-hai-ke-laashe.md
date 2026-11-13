@@ -1,54 +1,55 @@
 ---
-title: "قیامت ہے کے لاشِ شاہِ دین کروٹ بدلتی ہے"
+title: "قیامت ہے کہ لاشِ شاہِ دین کروٹ بدلتی ہے"
 alternateTitle: "Qayamat Hai Ke Laashe"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mirza Murtaza Ali"
+reciter: "Mirza Sikander Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Qayamat hai ke laashe shaahe deen karwat badalti hai
-  Khule sar ran may binte fatema zehra nikalti hai
+  Qayamat hai ke laash-e-Shaah-e-din karwat badalti hai
+  Khule sar ran meiṅ Bint-e-Fatima Zehra nikalti hai
 
   1
-  Haram lut'te hai aur veeran hota hia nabi ka ghar
-  Musalmano ke haaton chadare tatheer jalti hai
+  Haram lutte hai aur viraan hota hai Nabi ka ghar
+  Musalmaanoṅ ke haathoṅ chaadar-e-tathir jalti hai
 
   2
-  Zara aahista kheencho naawake ab teer asghar ka
-  Pidar ke godh may ab gardane baysheer dhalti hai
+  Zara aahista khincho naawaq-e-ab tir Asghar ka
+  Pidar ki god meiṅ ab gardan-e-beshir dhalti hai
 
   3
-  Bhadak uth'te hai sholay aag lag jaati hai pani may
-  Duhaai hai ke qaime may sakina jab machalti hai
+  Bharak uthte haiṅ shole aag lag jaati hai paani meiṅ
+  Duhaai hai ke khaime meiṅ Sakina jab machalti hai
 
   4
-  Kahan hai hazrate qasim zara dulhan ko dekho to
-  Ke shab ki byahi apne maang may ab khaak malti hai
+  Kahaaṅ hai Hazrat-e-Qasim zara dulhan ko dekho to
+  Ke shab ki byaahi apni maang meiṅ ab khaak malti hai
 
   5
-  Ali asghar ne shayad keh diya ye zer e lab has kar
+  Ali Asghar ne shaayad keh diya ye zer-e-lab haṅs kar
   Meri tashnalabi par tashnagi bhi haath malti hai
 
   6
-  Gawahi ta qayamat dega ye ashoor ka suraj
-  Qayamat ki tapish zanjeer lohay ki pigalti hai
+  Gawaahi taa qayamat dega ye Aashur ka suraj
+  Qayamat ki tapish zanjir lohe ki pighalti hai
 
   7
-  Namazein dono aalam ki tasadduq tere sajde par
-  Guluye ashadual-la-ilaah par taygh chalti hai
+  Namazeiṅ donoṅ aalam ki tasadduq tere sajde par
+  Gulu-e-ashhadu an la ilaah par tegh chalti hai
 
   8
-  Kahan hai hazrate ayub-o-ibrahim ay mirza
-  Pidar ke saamne kadiyal jawan ki jaan nikalti hai
+  Kahaaṅ haiṅ Hazrat-e-Ayyub o Ibrahim ae Mirza
+  Pidar ke saamne karyal jawaaṅ ki jaaṅ nikalti hai
 # source_id: nohayonline:30f4ee780f154ff93071
 # source_url: https://www.nohayonline.com/details_content.php?id=499
 # raw_sha256: fa4509dac03c391b2677f9a41742c130eca82cbbefaeb60df3a709f1c63b6638
 ---
-قیامت ہے کے لاشِ شاہِ دین کروٹ بدلتی ہے
+قیامت ہے کہ لاشِ شاہِ دین کروٹ بدلتی ہے
 کھُلے سر رن میں بنتِ فاطمہ زہرا نکلتی ہے
 
 ۱
@@ -61,7 +62,7 @@ romanLyrics: |-
 
 ۳
 بھڑک اُٹھتے ہیں شعلے آگ لگ جاتی ہے پانی میں
-دوہائی ہے کے خیمے میں سکینہ جب مچلتی ہے
+دہائی ہے کہ خیمے میں سکینہ جب مچلتی ہے
 
 ۴
 کہاں ہے حضرتِ قاسم ذرا دولہن کو دیکھو تو
@@ -77,8 +78,8 @@ romanLyrics: |-
 
 ۷
 نمازیں دونوں عالم کی تصدق تیرے سجدے پر
-گُلوئے اشھدُان لا الہ پر تیغ چلتی ہے
+گُلوئے اشہدُ ان لا الہ پر تیغ چلتی ہے
 
 ۸
-کہاں ہیں حضرتِ ایوب وابراہیم اے مرزا
+کہاں ہیں حضرتِ ایوب و ابراہیم اے مرزا
 پدر کے سامنے کڑیل جواں کی جاں نکلتی ہے

@@ -6,52 +6,53 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Qaime may qayamat hai alamdar tere baad
-  Thaame hai kamar sayyede abraar tere baad
-  
+  Khaime meiṅ qayamat hai Alamdar tere baad
+  Thaame haiṅ kamar Sayyed-e-abraar tere baad
+
   1
-  Baazu tere laaye hai shahenshah e madina
-  Roti hai lipat kar tere parcham se sakina
-  Bachi hai musibat may giraftaar tere baad
-  
+  Baazu tere laaye haiṅ Shahenshah-e-Madina
+  Roti hai lipat kar tere parcham se Sakina
+  Bachchi hai musibat meiṅ giraftaar tere baad
+
   2
-  Aaja bani hashim ke qamar dhoond rahi hai
-  Ghazi tujhe zainab ki nazar dhoond rahi hai
-  Qaime may chale aaye sitamgaar tere baad
-  
+  Aaja Bani Hashim ke qamar dhund rahi hai
+  Ghazi tujhe Zainab ki nazar dhund rahi hai
+  Khaime meiṅ chale aaye sitamgaar tere baad
+
   3
-  Dhoondun mai kahan jaake muhafiz ko rida ke
-  Tu sogaya maidan may shaano ko kata ke
+  Dhunduṅ main kahaaṅ jaa ke muhaafiz ko rida ke
+  Tu so gaya maidaaṅ meiṅ shaanoṅ ko kata ke
   Chalti hai mere qalb pe talwaar tere baad
-  
+
   4
-  Reh reh ke tadapti hai bachi teri pyasi
-  Mayoos hai saydaniya chaayi hai udasi
-  Ay aale mohamed ke madadgaar tere baad
-  
+  Reh reh ke tarapti hai bachchi teri pyaasi
+  Maayus hai Sayyedaniyaaṅ chhaai hai udaasi
+  Ae Aal-e-Muhammad ke madadgaar tere baad
+
   5
   Shabbir ki haalat pe taras aata hai bhaiya
-  Tooti hai kamar dard se thar'rata hai bhaiya
-  Jeena tere bhai ka hai dushwaar tere baad
-  
+  Tuti hai kamar dard se tharraata hai bhaiya
+  Jina tere bhai ka hai dushwaar tere baad
+
   6
-  Bedard layeen baandhenge baazu may rasan ko
-  Abbas yaqeen hogaya ab teri behen ko
-  Be parda phirungi sar e bazaar tere baad
-  
+  Bedard laiṅ baandheṅge baazu meiṅ rasan ko
+  Abbas yaqiṅ ho gaya ab teri behen ko
+  Beparda phiruṅ gi sar-e-baazaar tere baad
+
   7
-  Zalim ne tamacho se lahoo kar diya unko
-  Tu choomta tha shaam o saher pyar se jinko
-  Zakhmi hai sakina ke wo ruqsaar tere baad
-  
+  Zaalim ne tamaachoṅ se lahu kar diya un ko
+  Tu chumta tha shaam o sahar pyaar se jin ko
+  Zakhmi hai Sakina ke wo rukhsaar tere baad
+
   8
-  Zainab ke yehi bain thay ay aamir o akhtar
-  Haathon se kamar thaam ke rote hai barabar
-  Kya shaah pe guzri hai wafadaar tere baad
+  Zainab ke yehi bain the ae Aamir o Akhtar
+  Haathoṅ se kamar thaam ke roti hai baraabar
+  Kya Shaah pe guzri hai wafaadaar tere baad
 # source_id: nohayonline:70ec406e7f9919f4f3a6
 # source_url: https://www.nohayonline.com/details_content.php?id=1290
 # raw_sha256: 38f10c81ab442dc85bc2e8320ee84dcc1a5861c81a870c82d9c99602c1b6ae72
@@ -60,29 +61,29 @@ romanLyrics: |-
 تھامے ہیں کمر سید ابرار تیرے بعد
 
 ۱
-بازو تیرے لاے ہیں شہنشاہِ مدینہ
+بازو تیرے لائے ہیں شہنشاہِ مدینہ
 روتی ہے لپٹ کر تیرے پرچم سے سکینہ
 بچی ہے مصیبت میں گرفتار تیرے بعد
 
 ۲
 آجا بنی ہاشم کے قمر ڈھونڈ رہی ہے
 غازی تجھے زینب کی نظر ڈھونڈ رہی ہے
-خیمے میں چلے آے ستمگار تیرے بعد
+خیمے میں چلے آئے ستمگار تیرے بعد
 
 ۳
-ڈھونڈوں میں کہاں جاکے محافظ کو ردا کے
-تو سوگیا میداں میں شانوں کو کٹا کے
+ڈھونڈوں میں کہاں جا کے محافظ کو ردا کے
+تو سو گیا میداں میں شانوں کو کٹا کے
 چلتی ہے میرے قلب پہ تلوار تیرے بعد
 
 ۴
 رہ رہ کے تڑپتی ہے بچی تیری پیاسی
-مایوس ہے سیدانیاں چھای ہے اداسی
+مایوس ہے سیدانیاں چھائی ہے اداسی
 اے آل محمّد کے مددگار تیرے بعد
 
 ۵
 شبیر کی حالت پہ ترس آتا ہے بھیا
 ٹوٹی ہے کمر درد سے تھراتا ہے بھیا
-جینا تیرے بھای کا ہے دشوار تیرے بعد
+جینا تیرے بھائی کا ہے دشوار تیرے بعد
 
 ۶
 بے درد لعیں باندھیں گے بازو میں رسن کو
@@ -92,7 +93,7 @@ romanLyrics: |-
 ۷
 ظالم نے طمانچوں سے لہو کر دیا ان کو
 تو چومتا تھا شام و سحر پیار سے جن کو
-زخمی ہے سکینہ کہ وہ رخسار تیرے بعد
+زخمی ہے سکینہ کے وہ رخسار تیرے بعد
 
 ۸
 زینب کے یہی بین تھے اے عامر و اختر

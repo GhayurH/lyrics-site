@@ -6,32 +6,33 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Qais Zangipuri"
+reciter: "Hadi Ali Khan Muslim"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Qayamat ki tapish hay Karbala ka dasht jalta hay
-  Madinay ka musafir khak par karwat badalta hay
-  
+  Qayamat ki tapish hai Karbala ka dasht jalta hai
+  Madine ka musaafir khaak par karwat badalta hai
+
   1
-  Zara uth kar lahed se daikhen lije ya Rasool Allah
-  Janaze par janaza aap ke ghar se nikalta hay
-  
+  Zara uth kar lahad se dekh lijiye ya Rasul Allah
+  Janaaze par janaaza aap ke ghar se nikalta hai
+
   2
-  Kahan hay hazrate Ayoob dekhain sabar ke johar
-  Jawan beta hay godi may pidar ka dam nikalta hay
-  
+  Kahaaṅ hai Hazrat-e-Ayyub dekhe sabr ke jauhar
+  Jawaaṅ beta hai godi meiṅ pidar ka dam nikalta hai
+
   3
-  Ye poocha karte thay tifli may Akbar Sheh se kyon baba
-  Jawani may jo maut aye to dam kiyonkar nikalta hay
-  
+  Ye puchha karte the tifli meiṅ Akbar Sheh se kiuṅ baba
+  Jawaani meiṅ jo maut aaye to dam kiunkar nikalta hai
+
   4
-  Kaha Sheh nay ye Bano se ke khaimay may chali jaye
-  Ali Asghar ka manka dhal chuka ab dam nikalta hay
-  
+  Kaha Sheh ne Bano se ke khaime meiṅ chali jaao
+  Ali Asghar ka manka dhal chuka ab dam nikalta hai
+
   5
-  Laeeno Syede Sajjad par kore na barsao
-  Bohat beemar hay is waste ruk ruk ke chalta hay
+  Lainoṅ Sayyed-e-Sajjad par kore na barsaao
+  Bahut bimaar hai is waaste ruk ruk ke chalta hai
 # source_id: nohayonline:19442bbdda5e702990d5
 # source_url: https://www.nohayonline.com/details_content.php?id=185
 # raw_sha256: 535a5066a9d44cb9bba54e663b85cb7a3ceb8aa8595658f9342227e10baa7acb
@@ -43,21 +44,21 @@ romanLyrics: |-
 مدینے کا مسافر خاک پر کروٹ بدلتا ہے
 
 ۱
-ذرا اُٹھ کر لحد سے دیکھ لیجئے یا رسو ل اللہ
+ذرا اُٹھ کر لحد سے دیکھ لیجئے یا رسول اللہ
 جنازے پر جنازہ آپ کے گھر سے نکلتا ہے
 
 ۲
 کہاں ہے حضرتِ ایوب دیکھے صبر کے جوہر
-جواں بیٹا ہے گودی میں پدر کی دم نکلتا ہے
+جواں بیٹا ہے گودی میں پدر کا دم نکلتا ہے
 
 ۳
 یہ پوچھا کرتے تھے طفلی میں اکبر شِہ سے کیوں بابا
 جوانی میں جو موت آئے تو دم کیونکر نکلتا ہے
 
 ۴
-کہا شِہ نے بانو سے کے خیمے میں چلی جائو
+کہا شِہ نے بانو سے کہ خیمے میں چلی جاؤ
 علی اصغر کا منکا ڈھل چُکا اب دم نکلتا ہے
 
 ۵
-لعینوں سیدِ سجاد پر کوڑے نہ برسائو
+لعینوں سیدِ سجاد پر کوڑے نہ برساؤ
 بہت بیمار ہے اس واسطے رُک رُک کے چلتا ہے
