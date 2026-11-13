@@ -1,112 +1,135 @@
 ---
 title: "دے دیا ہر امتحاں"
-alternateTitle: "Na Ghabraye Hussain"
+alternateTitle: "Na Ghabraaye Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  De diya har imtehan
-  Beh gaya saara lahoo lekin na ghabraye hussain
-  Apne hi haathon pe apni laash le aaye hussain
+  De diya har imtihaaṅ
+  Beh gaya saara lahu lekin na ghabraaye Husain
+
+  Apne hi haathoṅ pe apni laash le aaye Husain
+  Na ghabraaye Husain
 
   1
-  Seena e akbar mein barchi dekh ke royi qaza
-  Fatema ke laal par ye imtehan ka waqt tha
-  Boli zainab haye hussain
+  Sina-e-Akbar mein barchhi dekh ke royi qaza
+  Fatima ke laal par ye imtihaaṅ ka waqt tha
+  Boli Zainab haaye Husain
+  Na ghabraaye Husain
 
   2
   Ek ke baad ek laasha dasht se laate rahe
-  Godh ke paalon ka dil par zakhm bhi khaate rahe
-  Kitne laashe laaye hussain
+  God ke paaloṅ ka dil par zakhm bhi khaate rahe
+  Kitne laashe laaye Husain
+  Na ghabraaye Husain
 
   3
-  Qabr asghar ki bana kar aaya ibne bu-turab
-  Maut boli teri daulat dekh ay umme rabab
-  Dasht mein chod aaye hussain
+  Qabr Asghar ki bana kar aaya Ibn-e-Bu Turaab
+  Maut boli teri daulat dekh ae Umm-e-Rabaab
+  Dasht mein chhor aaye Husain
+  Na ghabraaye Husain
 
   4
-  Qatl ghazi ho gaya jab ho chuke baazu qalam
-  Boodhe kaandho par utha kar khoon mein dooba alam
-  Dasht se jab laaye hussain
+  Qatl Ghaazi ho gaya jab ho chuke baazu qalam
+  Burhe kaandhoṅ par utha kar khuṅ mein duba alam
+  Dasht se jab laaye Husain
+  Na ghabraaye Husain
 
   5
-  Kat chuki jab fauj saari dil tha gham se payemal
-  Teen din ke bhooke pyase aur zakhmon se nidhal
-  Jang ladne aaye hussain
+  Kat chuki jab fauj saari dil tha gham se paayemaal
+  Tin din ke bhuke pyaase aur zakhmoṅ se nidhaal
+  Jang larne aaye Husain
+  Na ghabraaye Husain
 
   6
-  Ek taraf zehra ka beta ek taraf nau laakh taygh
-  Wo chamakte teer o naize sab the pyase khoon ke
-  Zulm se takraye hussain
+  Ek taraf Zehra ka beta ek taraf nau laakh tegh
+  Wo chamakte tir o neze sab the pyaase khun ke
+  Zulm se takraaye Husain
+  Na ghabraaye Husain
 
   7
-  Choor thay zakhmon se maula teer aur talwar ke
+  Chur the zakhmoṅ se Maula tir aur talwaar ke
   Aakhri sajde ki khaatir pusht se rahwaar ke
-  Jab zameen par aaye hussain
+  Jab zamiṅ par aaye Husain
+  Na ghabraaye Husain
 
   8
-  Shaah ki mazloomiyat par hogayi zehra gawah
-  Jhaadti thi apne baalon se pisar ki qatl gaah
-  Maa pukari haye hussain
+  Shaah ki mazlumiyat par ho gayi Zehra gawaah
+  Jhaarti thi apne baaloṅ se pisar ki qatl gaah
+  Maaṅ pukaari haaye Husain
+  Na ghabraaye Husain
 
   9
-  Likho mazhar abidi jab ho chuke sab imtehan
-  Shukr ka sajda kiya tha sheh ne ho kar shadman
-  Qatl hone aaye hussain
+  Likho Mazhar Abidi jab ho chuke sab imtihaaṅ
+  Shukr ka sajda kiya tha Shah ne ho kar shaadmaaṅ
+  Qatl hone aaye Husain
+  Na ghabraaye Husain
 # source_id: nohayonline:a5b69b9d9e800bc97a18
 # source_url: https://www.nohayonline.com/details_content.php?id=3224
 # raw_sha256: 5bc12c1834320c7ad07b27f555a3ccfb08894ce8e8a450f5da253414a78e528c
 ---
 دے دیا ہر امتحاں
 بہہ گیا سارا لہو لیکن نہ گھبرائے حسین
+
 اپنے ہی ہاتھوں پہ اپنی لاش لے آئے حسین
+نہ گھبرائے حسین
 
 ۱
-سینۂ اکبر میں برچھی دیکھ کے روی قضا
+سینۂ اکبر میں برچھی دیکھ کے روئی قضا
 فاطمہ کے لال پر یہ امتحاں کا وقت تھا
-بولی زینب ہاے حسین
+بولی زینب ہائے حسین
+نہ گھبرائے حسین
 
 ۲
 ایک کے بعد ایک لاشہ دشت سے لاتے رہے
 گود کے پالوں کا دل پر زخم بھی کھاتے رہے
-کتنے لاشے لاے حسین
+کتنے لاشے لائے حسین
+نہ گھبرائے حسین
 
 ۳
 قبر اصغر کی بنا کر آیا ابنِ بو تراب
-موت بولی تیری دولت دیکھ اے ام رباب
-دشتِ میں چھوڑ آئے حسین
+موت بولی تیری دولت دیکھ اے امِ رباب
+دشت میں چھوڑ آئے حسین
+نہ گھبرائے حسین
 
 ۴
 قتل غازی ہو گیا جب ہو چکے بازو قلم
 بوڑھے کاندھوں پر اٹھا کر خوں میں ڈوبا علم
-دشت سے جب لاے حسین
+دشت سے جب لائے حسین
+نہ گھبرائے حسین
 
 ۵
-کٹ چکی فوج ساری دل تھا غم سے پایمال
+کٹ چکی جب فوج ساری دل تھا غم سے پایمال
 تین دن کے بھوکے پیاسے اور زخموں سے نڈھال
-جنگ لڑنے آے حسین
+جنگ لڑنے آئے حسین
+نہ گھبرائے حسین
 
 ۶
 ایک طرف زہرا کا بیٹا ایک طرف نو لاکھ تیغ
 وہ چمکتے تیر و نیزے سب تھے پیاسے خون کے
 ظلم سے ٹکرائے حسین
+نہ گھبرائے حسین
 
 ۷
 چور تھے زخموں سے مولا تیر اور تلوار کے
 آخری سجدے کی خاطر پشت سے رہوار کے
-جب زمیں پر آے حسین
+جب زمیں پر آئے حسین
+نہ گھبرائے حسین
 
 ۸
-شاہ کی مظلومیت پر ہوگیء زہرا گواہ
+شاہ کی مظلومیت پر ہو گئی زہرا گواہ
 جھاڑتی تھی اپنے بالوں سے پسر کی قتل گاہ
-ماں پکاری ہاے حسین
+ماں پکاری ہائے حسین
+نہ گھبرائے حسین
 
 ۹
 لکھو مظہر عابدی جب ہو چکے سب امتحاں
 شکر کا سجدہ کیا تھا شہ نے ہو کر شادماں
-قتل ہونے آے حسین
+قتل ہونے آئے حسین
+نہ گھبرائے حسین
