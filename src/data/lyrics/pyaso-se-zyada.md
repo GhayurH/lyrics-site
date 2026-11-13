@@ -1,85 +1,86 @@
 ---
 title: "پیاسوں سے زیادہ دور نہ تھا"
-alternateTitle: "Pyaso Se Zyada"
+alternateTitle: "Pyaasoṅ Se Zyaada"
+aliases: ["Pyaso Se Zyada"]
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nisar Nagri"
+reciter: "Mirza Sikander Ali"
 tags: ["noImage"]
-aliases: []
 published: false
 romanLyrics: |-
-  Pyason se zyada door na tha
-  Behte huwe darya ka pani
-  Na-kaami e qismat kya kahiye
-  Paaya na magar khatra pani
-  
+  Pyaasoṅ se zyaada dur na tha
+  Behte hue darya ka paani
+  Naakaami-e-qismat kya kahiye
+  Paaya na magar qatra paani
+
   1
-  Pyase jo rahe chaubees pehar
-  Loo dhoop mein yun sookha pani
-  Roye to lahoo aaya behkar
-  Aankhon mein na tha khatra pani
-  
+  Pyaase jo rahe chaubis pehar
+  Lu dhup mein yuṅ sukha paani
+  Roye to lahu aaya beh kar
+  Aankhoṅ mein na tha qatra paani
+
   2
-  Asghar ne badi umeedon se
-  Moo khola magar lab tar na huwe
-  Bache ke liye allah allah
-  Tha jaan se bhi mehenga pani
-  
+  Asghar ne bari umidoṅ se
+  Munh khola magar lab tar na hue
+  Bachche ke liye Allah Allah
+  Tha jaan se bhi mehnga paani
+
   3
   Waada jo kiya tha maadar se
-  Wo aun o mohamed karke rahe
-  Behta tha barabar mein darya
-  Mud kar na magar dekha pani
-  
+  Wo Aun o Muhammad kar ke rahe
+  Behta tha baraabar mein darya
+  Mur kar na magar dekha paani
+
   4
-  Pyason ke muqaddar mein hi na tha
-  Pani ka koi khatra shayad
+  Pyaasoṅ ke muqaddar mein hi na tha
+  Paani ka koi qatra shaayad
   Abbas ne de di jaan magar
-  Qaime mein nahi pahuncha pani
-  
+  Khaime mein nahiṅ pahuncha paani
+
   5
-  Ashoor ko jalti reti par
-  Pyasa tha mohamed ka dilbar
-  Har roz qayamat tak bhi agar
-  Kya fayeda ab barsa pani
-  
+  Aashur ko jalti reti par
+  Pyaasa tha Muhammad ka dilbar
+  Har roz qayaamat tak bhi agar
+  Kya faaida ab barsa paani
+
   6
-  Abbas ke honton ke chaale
-  Kehte hai imame bekas se
-  Qabze mein tha ghazi ke darya
-  Lekin na piya khatra pani
-  
+  Abbas ke hontoṅ ke chhaale
+  Kehte haiṅ Imam-e-bekas se
+  Qabze mein tha Ghaazi ke darya
+  Lekin na piya qatra paani
+
   7
-  Kuch is se zyada ho na saka
-  Majboor tha darya kya karta
-  Pani ke liye tadpe asghar
-  Asghar ke liye tadpa pani
-  
+  Kuchh is se zyaada ho na saka
+  Majbur tha darya kya karta
+  Paani ke liye tarpe Asghar
+  Asghar ke liye tarpa paani
+
   8
-  Pathar ke jigar bhi aab hue
-  Maqtal mein nisar aada roye
-  Honton pe phira kar apni zaban
-  Baysheer ne jab maanga pani
+  Patthar ke jigar bhi aab hue
+  Maqtal mein Nisaar aada roye
+  Hontoṅ pe phira kar apni zabaaṅ
+  Beshir ne jab maanga paani
 # source_id: nohayonline:cfef6236d1b6f157937c
 # source_url: https://www.nohayonline.com/details_content.php?id=844
 # raw_sha256: 3443321dad81af9bd98cb10d20a00b4593e7061d4bf249f2bf4965e7946ec0f4
 ---
 پیاسوں سے زیادہ دور نہ تھا
 بہتے ہوئے دریا کا پانی
-نا کامیء قسمت کیا کہیے
+ناکامیِ قسمت کیا کہیے
 پایا نہ مگر قطرہ پانی
 
 ۱
 پیاسے جو رہے چوبیس پہر
 لو دھوپ میں یوں سوکھا پانی
-روے تو لہو آیا بہہ کر
+روئے تو لہو آیا بہہ کر
 آنکھوں میں نہ تھا قطرہ پانی
 
 ۲
 اصغر نے بڑی امیدوں سے
-منہ کھولا مگر لب پر نہ ہوے
+منہ کھولا مگر لب تر نہ ہوئے
 بچے کے لئے اللہ اللہ
 تھا جان سے بھی مہنگا پانی
 
@@ -92,7 +93,7 @@ romanLyrics: |-
 ۴
 پیاسوں کے مقدر میں ہی نہ تھا
 پانی کا کوئی قطرہ شاید
-عباس نے دیدی جان مگر
+عباس نے دے دی جان مگر
 خیمے میں نہیں پہنچا پانی
 
 ۵
@@ -114,7 +115,7 @@ romanLyrics: |-
 اصغر کے لئے تڑپا پانی
 
 ۸
-پتھر کے جگر بھی آب ہوے
-مقتل میں نثار اعدا روے
+پتھر کے جگر بھی آب ہوئے
+مقتل میں نثار اعدا روئے
 ہونٹوں پہ پھرا کر اپنی زباں
 بے شیر نے جب مانگا پانی

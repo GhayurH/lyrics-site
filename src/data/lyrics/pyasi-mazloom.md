@@ -1,61 +1,62 @@
 ---
 title: "پیاسی مظلوم یتیمہ ہاے معصوم سکینہ"
-alternateTitle: "Pyasi Mazloom"
+alternateTitle: "Pyaasi Mazlum"
+aliases: ["Pyasi Mazloom"]
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
-aliases: []
 published: false
 romanLyrics: |-
-  Pyasi mazloom yateema haye masoom sakina
-  Haye masoom sakina haye masoom sakina
+  Pyaasi mazlum yatima haaye maasum Sakina
+  Haaye maasum Sakina haaye maasum Sakina
 
   1
-  Qaid khane ka andhera hogaya aur bhi gehra
-  Bibiyan karti hai girya haye masoom sakina
+  Qaid khaane ka andhera ho gaya aur bhi gehra
+  Bibiyaaṅ karti hai girya haaye maasum Sakina
 
   2
-  Bain karti thi ye bano meri beti kuch to bolo
-  Maa jiye kis tarha tanha haye masoom sakina
+  Bain karti thi ye Baano meri beti kuchh to bolo
+  Maaṅ jiye kis tarah tanha haaye maasum Sakina
 
   3
-  Kuch to roodaad sunao kyun ho khamosh batao
-  Muztarib hai tera bhaiya haye masoom sakina
+  Kuchh to rudaad sunaao kiuṅ ho khaamosh bataao
+  Muztarib hai tera bhaiya haaye maasum Sakina
 
   4
-  Apne baba se kiya tha tu ne jo sabr ka waada
-  Kis saleekhe se nibhaya haye masoom sakina
+  Apne Baaba se kiya tha tu ne jo sabr ka waada
+  Kis saliqe se nibhaaya haaye maasum Sakina
 
   5
-  Zulm kitne huwe tujh par chin gaye kaano se gohar
-  Aur rassi mein gala tha haye masoom sakina
+  Zulm kitne hue tujh par chhin gaye kaanoṅ se gohar
+  Aur rassi mein gala tha haaye maasum Sakina
 
   6
-  Kabhi zaalim ke tamache taziyane kabhi durre
-  Yun mila hai tujhe pursa haye masoom sakina
+  Kabhi zaalim ke tamaanche taaziyaane kabhi durre
+  Yuṅ mila hai tujhe pursa haaye maasum Sakina
 
   7
-  Nanhe ruqsaar wo tere sooj kar hogaye neele
-  Khoon kaano se hai behta haye masoom sakina
+  Nanhe rukhsaar wo tere suj kar ho gaye nile
+  Khun kaanoṅ se hai behta haaye maasum Sakina
 
   8
-  Kaise behlaun tujhe mai kaise samjhaun tujhe mai
-  Imtehan hai mera kaisa haye masoom sakina
+  Kaise behlaauṅ tujhe main kaise samjhaauṅ tujhe main
+  Imtihaaṅ hai mera kaisa haaye maasum Sakina
 
   9
-  Choor zakhmon se badan hai tera kurta hi kafan hai
-  Haye ye zulm hai kaisa haye masoom sakina
+  Chur zakhmoṅ se badan hai tera kurta hi kafan hai
+  Haaye ye zulm hai kaisa haaye maasum Sakina
 
   10
-  Dafn kaise kare tujhko dekho sajjad ko dekho
-  Hai wo zanjeer mein jakda haye masoom sakina
+  Dafn kaise kare tujh ko dekho Sajjad ko dekho
+  Hai wo zanjir mein jakra haaye maasum Sakina
 
   11
-  Kaise bhoolega zamana gham rasheed us bibi ka
-  Shor zindan mein bapa hai haye masoom sakina
+  Kaise bhulega zamaana gham Rashid us Bibi ka
+  Shor zindaaṅ mein bapa hai haaye maasum Sakina
 # source_id: nohayonline:786896d1d01478cfd285
 # source_url: https://www.nohayonline.com/details_content.php?id=2885
 # raw_sha256: 93f9a211251c47ab6a4f24f2b3dc39ebee96c01b0ebd0cf0f5f828e18c8a7538
@@ -65,11 +66,11 @@ romanLyrics: |-
 
 ۱
 قید خانے کا اندھیرا ہو گیا اور بھی گہرا
-بی بیاں کرتی ہے گریہ ہاے معصوم سکینہ
+بی‌بیاں کرتی ہے گریہ ہاے معصوم سکینہ
 
 ۲
 بین کرتی تھی یہ بانو میری بیٹی کچھ تو بولو
-ماں جیےء کس طرح تنہا ہاے معصوم سکینہ
+ماں جیے کس طرح تنہا ہاے معصوم سکینہ
 
 ۳
 کچھ تو روداد سناؤ کیوں ہو خاموش بتاؤ
@@ -80,7 +81,7 @@ romanLyrics: |-
 کس سلیقے سے نبھایا ہاے معصوم سکینہ
 
 ۵
-ظلم کتنے ہوئے تجھ پر چھن گےء کانوں سے گوہر
+ظلم کتنے ہوئے تجھ پر چھن گئے کانوں سے گوہر
 اور رسی میں گلا تھا ہاے معصوم سکینہ
 
 ۶
@@ -88,7 +89,7 @@ romanLyrics: |-
 یوں ملا ہے تجھے پرسہ ہاے معصوم سکینہ
 
 ۷
-ننھے رخسار وہ تیرے سوجھ کر ہو گےء نیلے
+ننھے رخسار وہ تیرے سوج کر ہو گئے نیلے
 خون کانوں سے ہے بہتا ہاے معصوم سکینہ
 
 ۸
@@ -100,9 +101,9 @@ romanLyrics: |-
 ہاے یہ ظلم ہے کیسا ہاے معصوم سکینہ
 
 ۱۰
-دفن کیسے کرے تجھکو دیکھو سجاد کو دیکھو
+دفن کیسے کرے تجھ کو دیکھو سجاد کو دیکھو
 ہے وہ زنجیر میں جکڑا ہاے معصوم سکینہ
 
 ۱۱
-کیسے بھولے گا زمانہ گرم رشید اس بی بی کا
+کیسے بھولے گا زمانہ غم رشید اس بی‌بی کا
 شور زنداں میں بپا ہے ہاے معصوم سکینہ

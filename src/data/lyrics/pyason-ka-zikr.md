@@ -1,45 +1,45 @@
 ---
 title: "پیاسوں کا ذکر تشنہ دہانی کے ساتھ ہے"
-alternateTitle: "Pyason Ka Zikr"
+alternateTitle: "Pyaasoṅ Ka Zikr"
+aliases: ["Pyason Ka Zikr"]
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Fazl Lakhnavi"
 tags: ["noImage"]
-aliases: []
 published: false
 romanLyrics: |-
-  Pyason ka zikr tashna dahani ke saath hai
-  Naam e hussain aaj bhi pani ke saath hai
+  Pyaasoṅ ka zikr tashna dahaani ke saath hai
+  Naam-e-Husain aaj bhi paani ke saath hai
 
   1
-  Akbar sina ko di lse laga kar na jaan do
-  Baba ka dil tumhari jawani ke saath hai
+  Akbar sinaaṅ ko dil se laga kar na jaan do
+  Baaba ka dil tumhaari jawaani ke saath hai
 
   2
-  Akbar sa naujawan howe asghar sa bezuban
-  Jo hai shaheed tashna dahani ke saath hai
+  Akbar sa naujawaaṅ hue Asghar sa bezubaaṅ
+  Jo hai shahid tashna dahaani ke saath hai
 
   3
-  Kehte hai habeeb ki peeron ki zauf thi
-  Lekin jo hausla hai jawani ke saath hai
+  Kehte haiṅ Habib ki piroṅ ki zauf thi
+  Lekin jo hausla hai jawaani ke saath hai
 
   4
-  Allah kitni tez hai asghar ki tashnagi
-  Mudti hui nigaah bhi pani ke saath hai
+  Allah kitni tez hai Asghar ki tashnagi
+  Murti hui nigaah bhi paani ke saath hai
 
   5
-  Kya jaane kitni pyaas mein asghar ne jaan di
-  Jo baat hai wo tashna dahani ke saath hai
+  Kya jaane kitni pyaas mein Asghar ne jaan di
+  Jo baat hai wo tashna dahaani ke saath hai
 
   6
-  Abbas keh rahe hai sakina ki yaad mein
-  Beti chacha ki jaan bhi pani ke saath hai
+  Abbas keh rahe haiṅ Sakina ki yaad mein
+  Beti chacha ki jaan bhi paani ke saath hai
 
   7
-  Pyason ka bekason ka shaheedon ka taskera
-  Ay fazl aansuon ke rawani ke saath hai
+  Pyaasoṅ ka bekasoṅ ka shahidoṅ ka tazkira
+  Ae Fazl aansuoṅ ke rawaani ke saath hai
 # source_id: nohayonline:94ca039616f0a96248c0
 # source_url: https://www.nohayonline.com/details_content.php?id=1979
 # raw_sha256: 9f04a30b8ee08e1eeb081209aaed18668cfb64e86081a0fd4d4c9111ce193c90
@@ -52,7 +52,7 @@ romanLyrics: |-
 بابا کا دل تمہاری جوانی کے ساتھ ہے
 
 ۲
-اکبر سا نوجواں ہوے اصغر سا بے زباں
+اکبر سا نوجواں ہوئے اصغر سا بے زباں
 جو ہے شہید تشنہ دہانی کے ساتھ ہے
 
 ۳
@@ -61,7 +61,7 @@ romanLyrics: |-
 
 ۴
 اللّٰہ کتنی تیز ہے اصغر کی تشنگی
-مڑتی ہوی نگاہ بھی پانی کے ساتھ ہے
+مڑتی ہوئی نگاہ بھی پانی کے ساتھ ہے
 
 ۵
 کیا جانے کتنی پیاس میں اصغر نے جان دی
