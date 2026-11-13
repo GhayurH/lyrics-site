@@ -2510,10 +2510,10 @@ src/data/lyrics/maa-dua-karti-thi.md,standalone_lyrics,imported,nohayonline+ziya
 src/data/lyrics/maa-hai-akbar-ki.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,2026-11-13-editorial-maa-five,,"Need audio/print: opening ""ماں ہے اکبر کی خوش جمالی ہے""; s2 Urdu ""ساے کے"" vs Roman ""saj ke"" and ""ہتیار""; s5 Urdu ""آج ڈالی"" vs Roman ""saaj daali""."
 src/data/lyrics/maa-kehti-thi-asghar.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,2026-11-13-editorial-maa-five,,"Need audio/print: s4 ""پانی کے لئے تم تو میری جان تھے بیٹا""; s5 ""یہ اہل جفا ہے""; s7 Urdu ""آرام نکالوں"" vs Roman ""armaan nikalun""."
 src/data/lyrics/maa-kehti-thi-kya.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-13-editorial-maa-five,,
-src/data/lyrics/maa-kehti-thi-qurban.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/maa-kehti-thi-ro.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/maa-kehti-thi-seene.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/maa-kehti-thi-uth-jaag.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/maa-kehti-thi-qurban.md,standalone_lyrics,imported,nohayonline+ziyaraat,pending,partial_review,reviewed,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s5 ""جاں کھوتی"" (NoHayOnline) vs ""jaag hoti"" (Ziyaraat)."
+src/data/lyrics/maa-kehti-thi-ro.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s2 ""علی اصغر"" vs Roman ""Ali Akbar""; s6 ""آنکھیں ہیں تیرے نیلی"" (تیرے/تیری); s9 ""روٹھتی"" vs Roman ""ruthta"". Confirm restored preamble ""کرب و بلا"" from archived Roman."
+src/data/lyrics/maa-kehti-thi-seene.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,first_sweep,,
+src/data/lyrics/maa-kehti-thi-uth-jaag.md,standalone_lyrics,imported,nohayonline+ziyaraat,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: opening ""چلے"" vs Ziyaraat ""chalein""; s9 ""زندان سے آکر"" vs both Roman sources ""zindaan se aksar""."
 src/data/lyrics/maa-ko-salaam.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/maa-meri-pyari.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/maa-mujhe-apni.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,

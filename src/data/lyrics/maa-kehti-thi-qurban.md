@@ -6,44 +6,45 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Zahid"
+reciter: "Mukhtar Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Maa kehti thi qurban tumhare ali asghar
-  Pyare ali asghar mere pyare ali asghar
+  Maa kehti thi qurbaan tumhare Ali Asghar
+  Pyaare Ali Asghar mere pyaare Ali Asghar
 
   1
-  Tum pyaas bujhane ke liye ran may gaye ho
-  Darti hoo koi teer na maare ali asghar
+  Tum pyaas bujhaane ke liye ran mein gaye ho
+  Darti huṅ koi tir na maare Ali Asghar
 
   2
-  Jab tum na rahe paas to jeene ka maza kya
-  Bolo mai jiyun kiske sahare ali asghar
+  Jab tum na rahe paas to jine ka maza kya
+  Bolo main jiyuṅ kis ke sahaare Ali Asghar
 
   3
-  Gehwara hai khaali kaho ab kisko jhulaun
-  Tum to huwe allah ko pyare ali asghar
+  Gehwaara hai khaali kaho ab kis ko jhulaauṅ
+  Tum to hue Allah ko pyaare Ali Asghar
 
   4
-  Dunya meri tareek hai tum jab se gaye ho
-  Aaja meri aankhon ke taare ali asghar
+  Duniya meri taarik hai tum jab se gaye ho
+  Aa ja meri aankhoṅ ke taare Ali Asghar
 
   5
-  Tanhaai may jaan khoti hai ro ro ke sakina
-  Kehti hai ke aajao hamare ali asghar
+  Tanhaai mein jaaṅ khoti hai ro ro ke Sakina
+  Kehti hai ke aa jaao hamaare Ali Asghar
 
   6
-  Jo bhi gaya maidan may wo wapas nahi aaya
-  Maa laal kisay keh ke pukare ali asghar
+  Jo bhi gaya maidaaṅ mein wo waapas nahiṅ aaya
+  Maa laal kise keh ke pukaare Ali Asghar
 
   7
-  Abbas e jari bhool gaye pyaas khud apni
-  Yaad aaye jo darya ke kanare ali asghar
+  Abbas-e-Jari bhul gaye pyaas khud apni
+  Yaad aaye jo darya ke kinaare Ali Asghar
 
   8
-  Be-aasra zahid ko na samjhe ye zamana
-  Zahid ke hai masoom sahare ali asghar
+  Beaasra Zahid ko na samjhe ye zamaana
+  Zahid ke haiṅ maasum sahaare Ali Asghar
 # source_id: nohayonline:c9e44bbef08b5ac1b435
 # source_url: https://www.nohayonline.com/details_content.php?id=1436
 # raw_sha256: d09da4725062e154d5efbb5d236f548aacb4934f272e2aba5f487c3cc4d6d749
@@ -55,7 +56,7 @@ romanLyrics: |-
 پیارے علی اصغر میرے پیارے علی اصغر
 
 ۱
-تم پیاس بجھانے کے لئے رن میں گےء ہو
+تم پیاس بجھانے کے لئے رن میں گئے ہو
 ڈرتی ہوں کوئی تیر نہ مارے علی اصغر
 
 ۲
@@ -63,11 +64,11 @@ romanLyrics: |-
 بولو میں جیوں کس کے سہارے علی اصغر
 
 ۳
-گہوارا ہے خالی کہو اب کسکو جھلاوں
-تم تو ہوے اللّٰہ کو پیارے علی اصغر
+گہوارا ہے خالی کہو اب کس کو جھلاؤں
+تم تو ہوئے اللّٰہ کو پیارے علی اصغر
 
 ۴
-دنیا میری تاریک ہے تم جب سے گےء ہو
+دنیا میری تاریک ہے تم جب سے گئے ہو
 آجا میری آنکھوں کے تارے علی اصغر
 
 ۵
@@ -79,8 +80,8 @@ romanLyrics: |-
 ماں لال کسے کہہ کے پکارے علی اصغر
 
 ۷
-عباس جری بھول گےء پیاس خود اپنی
-یاد آے جو دریا کے کنارے علی اصغر
+عباس جری بھول گئے پیاس خود اپنی
+یاد آئے جو دریا کے کنارے علی اصغر
 
 ۸
 بے آسرا زاہد کو نہ سمجھے یہ زمانہ

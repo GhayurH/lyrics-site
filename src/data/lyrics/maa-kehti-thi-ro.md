@@ -6,78 +6,79 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Ali Khan Lakhnavi"
+reciter: "Ghadeer Fatima"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Maa kehti thi ro ro kar so jao mere beta
-  Masoom mere asghar so jao mere beta
-  Hai karbobala mehshar so jao mere beta
+  Maa kehti thi ro ro kar so jaao mere beta
+  Maasum mere Asghar so jaao mere beta
+  Hai Karb o Bala mehshar so jaao mere beta
 
   1
-  Nazron se layeeno ki mai tum ko bacha leti
-  Mamta bhare aanchal ke saaye mein chupa leti
-  Majboor hai ye maadar so jao mere beta
-  
+  Nazroṅ se lainoṅ ki main tum ko bacha leti
+  Mamta bhare aanchal ke saaye mein chhupa leti
+  Majbur hai ye maadar so jaao mere beta
+
   2
-  Aise mein sabhi apne maujood sahare hai
-  Hai paas ali akbar ammu bhi tumhare hai
-  Hai waqt yehi behtar so jao mere beta
-  
+  Aise mein sabhi apne maujud sahaare haiṅ
+  Hai paas Ali Asghar ammu bhi tumhaare haiṅ
+  Hai waqt yehi behtar so jaao mere beta
+
   3
-  Bechain tera chehra kis kis se chupaungi
-  Gar pooch liya sheh ne kya unko bataungi
-  Socho to zara dilbar so jao mere beta
-  
+  Bechain tera chehra kis kis se chhupaauṅ gi
+  Gar puchh liya Shah ne kya un ko bataauṅ gi
+  Socho to zara dilbar so jaao mere beta
+
   4
-  Jaagoge agar aise ghabra ke mai ro doongi
-  Sookhe tere honton ko ashkon se bhigo doongi
-  Ay jaane dile maadar so jao mere beta
-  
+  Jaago ge agar aise ghabra ke main ro duṅ gi
+  Sukhe tere hontoṅ ko ashkoṅ se bhigo duṅ gi
+  Ae jaan-e-dil-e-maadar so jaao mere beta
+
   5
-  Ye sochti hoo beta tum par na sitam dhaaye
-  Soye huwe bache par shayad ye taras khaaye
-  Zaalim hai bahot lashkar so jao mere beta
-  
+  Ye sochti huṅ beta tum par na sitam dhaaye
+  Soye hue bachche par shaayad ye taras khaaye
+  Zaalim hai bahut lashkar so jaao mere beta
+
   6
-  Aakhein hai tere neeli surat hai teri pyari
-  Uljhe huwe gaysun par maa sadqe ho maa waari
-  Sashmaah mere asghar so jao mere beta
-  
+  Aankheṅ haiṅ tere nili surat hai teri pyaari
+  Uljhe hue gesuoṅ par maa sadqe ho maa waari
+  Shashmaah mere Asghar so jaao mere beta
+
   7
-  Ashoor ko kal ran mein ek hashr bapa hoga
-  Har simt se goonjega ek shor qayamat ka
-  Neend aayegi phir kyun kar so jao mere beta
-  
+  Aashur ko kal ran mein ik hashr bapa hoga
+  Har simt se gunje ga ik shor qayaamat ka
+  Nind aaye gi phir kiuṅ kar so jaao mere beta
+
   8
-  Maehsoos karo beta ek maa ki pareshani
-  Kya doo mai tumhe ghar mein ek boond nahi pani
-  Bas ashkon ke hai saagar so jao mere beta
-  
+  Mehsus karo beta ik maa ki pareshaani
+  Kya duṅ main tumheṅ ghar mein ik bund nahiṅ paani
+  Bas ashkoṅ ke haiṅ saaghar so jaao mere beta
+
   9
-  Bache bhi kabhi maa se hote hai khafa aise
-  Kya rooth'ta hai koi apno se bhala aise
-  Dukhiya pe taras kha kar so jao mere beta
-  
+  Bachche bhi kabhi maa se hote haiṅ khafa aise
+  Kya ruthti hai koi apnoṅ se bhala aise
+  Dukhiya pe taras kha kar so jaao mere beta
+
   10
-  Kya baat hai kyun chup ho kuch moo se kaho beta
-  Bechain tumhe itna pehle to nahi dekha
-  Jo dil mein hai wo keh kar so jao mere beta
-  
+  Kya baat hai kiuṅ chup ho kuchh muṅh se kaho beta
+  Bechain tumheṅ itna pehle to nahiṅ dekha
+  Jo dil mein hai wo keh kar so jaao mere beta
+
   11
-  Kin uljhano mein ho tum ek shab ke mere mehman
-  Ho jayegi kal ran mein mushkil teri har aasaan
-  Jaaoge lab e kausar so jao mere beta
-  
+  Kin uljhanoṅ mein ho tum ik shab ke mere mehmaaṅ
+  Ho jaaye gi kal ran mein mushkil teri har aasaaṅ
+  Jaao ge lab-e-Kausar so jaao mere beta
+
   12
-  Jangal hai biyaban hai har simt andhera hai
-  Jaana hai bahot aage aur door ujaala hai
-  Samjhaun tumhe kyun kar so jao mere beta
-  
+  Jangal hai biyaabaaṅ hai har simt andhera hai
+  Jaana hai bahut aage aur dur ujaala hai
+  Samjhaauṅ tumheṅ kiuṅkar so jaao mere beta
+
   13
-  Ye arz o samaa kya hai rote hai falak taare
-  Ghamgeen hai sabhi hoorein rote hai malak saare
-  Ye bain raza sun kar so jao mere beta
+  Ye arz o samaaṅ kya hai rote haiṅ falak taare
+  Ghamgiṅ haiṅ sabhi hureṅ rote haiṅ malak saare
+  Ye bain Raza sun kar so jaao mere beta
 # source_id: nohayonline:b1c355bed23abcaff827
 # source_url: https://www.nohayonline.com/details_content.php?id=1997
 # raw_sha256: d527ec75baf5a2247a25aff58f41c4e1974201a8db8948ec8d04b200cf565b79
@@ -85,11 +86,11 @@ romanLyrics: |-
 
 ماں کہتی تھی رو رو کر سو جاؤ میرے بیٹا
 معصوم میرے اصغر سو جاؤ میرے بیٹا
-ہے محشر سو جاؤ میرے بیٹا
+ہے کرب و بلا محشر سو جاؤ میرے بیٹا
 
 ۱
 نظروں سے لعینوں کی میں تم کو بچا لیتی
-ممتا بھرے آنچل کے ساے میں چھپا لیتی
+ممتا بھرے آنچل کے سائے میں چھپا لیتی
 مجبور ہے یہ مادر سو جاؤ میرے بیٹا
 
 ۲
@@ -99,28 +100,28 @@ romanLyrics: |-
 
 ۳
 بے چین تیرا چہرہ کس کس سے چھپاؤں گی
-گر پوچھ لیا شہ نے کیا انکو بتاؤں گی
-سوچو تو زرا دلبر سو جاؤ میرے بیٹا
+گر پوچھ لیا شہ نے کیا ان کو بتاؤں گی
+سوچو تو ذرا دلبر سو جاؤ میرے بیٹا
 
 ۴
-جاگو گے اگر ایسے گھبرا کے میں رو دونگی
-سوکھے تیرے ہونٹوں کو اشکوں سے بھگو دونگی
+جاگو گے اگر ایسے گھبرا کے میں رو دوں گی
+سوکھے تیرے ہونٹوں کو اشکوں سے بھگو دوں گی
 اے جانِ دل مادر سو جاؤ میرے بیٹا
 
 ۵
-یہ سوچتی ہوں بیٹا تم پر نہ ستم ڈھاے
-سوے ہوے بچے پر شاید یہ ترس کھائے
+یہ سوچتی ہوں بیٹا تم پر نہ ستم ڈھائے
+سوئے ہوئے بچے پر شاید یہ ترس کھائے
 ظالم ہے بہت لشکر سو جاؤ میرے بیٹا
 
 ۶
 آنکھیں ہیں تیرے نیلی صورت ہے تیری پیاری
-الجھے ہوے گیسوں پر ماں صدقے ہو ماں واری
+الجھے ہوئے گیسوؤں پر ماں صدقے ہو ماں واری
 ششماہ میرے اصغر سو جاؤ میرے بیٹا
 
 ۷
 عاشور کو کل رن میں اک حشر بپا ہوگا
 ہر سمت سے گونجے گا اک شور قیامت کا
-نیند آے گی پھر کیوں کر سو جاؤ میرے بیٹا
+نیند آئے گی پھر کیوں کر سو جاؤ میرے بیٹا
 
 ۸
 محسوس کرو بیٹا اک ماں کی پریشانی
@@ -129,7 +130,7 @@ romanLyrics: |-
 
 ۹
 بچے بھی کبھی ماں سے ہوتے ہیں خفا ایسے
-کیا روٹھتی ہے کوی اپنوں سے بھلا ایسے
+کیا روٹھتی ہے کوئی اپنوں سے بھلا ایسے
 دکھیا پہ ترس کھا کر سو جاؤ میرے بیٹا
 
 ۱۰
@@ -139,7 +140,7 @@ romanLyrics: |-
 
 ۱۱
 کن الجھنوں میں ہو تم اک شب کے میرے مہماں
-ہو جاے گی کل رن میں مشکل تیری ہر آساں
+ہو جائے گی کل رن میں مشکل تیری ہر آساں
 جاؤ گے لب کوثر سو جاؤ میرے بیٹا
 
 ۱۲

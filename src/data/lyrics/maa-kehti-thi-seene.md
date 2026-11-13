@@ -5,32 +5,33 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Maa kehti thi seene se laga loo tujhe aaja
-  Ek baar to phir laut ke asghar mere aaja
-  
+  Maa kehti thi sine se laga luṅ tujhe aa ja
+  Ik baar to phir laut ke Asghar mere aa ja
+
   1
-  Furqat mein teri neend bhi aati nahi beta
-  Ab kis ke sahare pe ye maadar jiye aaja
-  
+  Furqat mein teri nind bhi aati nahiṅ beta
+  Ab kis ke sahaare pe ye maadar jiye aa ja
+
   2
-  Hai ab to mere haath bhi azaad rasan se
-  Aa godh mein loo dil mein chupa loo tujhe aaja
-  
+  Haiṅ ab to mere haath bhi aazaad rasan se
+  Aa god mein luṅ dil mein chhupa luṅ tujhe aa ja
+
   3
-  Sunti hoo ke ab nehr pe pehra bhi nahi hai
-  Aa pani pila laa'un tujhe nehr se aaja
-  
+  Sunti huṅ ke ab nehr pe pehra bhi nahiṅ hai
+  Aa paani pila laauṅ tujhe nehr se aa ja
+
   4
-  Sughra tujhe poochegi to kya us se kahoongi
-  Bin tere na jaa'ungi watan shaam se aaja
-  
+  Sughra tujhe puchhe gi to kya us se kahuṅ gi
+  Bin tere na jaauṅ gi watan Shaam se aa ja
+
   5
-  Kyon kar ye bataungi laga halq pe naawak
-  Kya keh ke bhala doongi tasalli usay aaja
+  Kiuṅ kar ye bataauṅ gi laga halq pe naawak
+  Kya keh ke bhala duṅ gi tasalli use aa ja
 # source_id: nohayonline:b9b1879f5b5f40169810
 # source_url: https://www.nohayonline.com/details_content.php?id=534
 # raw_sha256: 1831234958d8c9fd0c5f2ab4454f7e944f108fff9cd6ab81d88d1fc2fafb2757
@@ -49,12 +50,12 @@ romanLyrics: |-
 
 ۳
 سُنتی ہوں کہ اب نہر پہ پہرہ بھی نہیں ہے
-آ پانی پلا لائوں تجھے نہر سے آ جا
+آ پانی پلا لاؤں تجھے نہر سے آ جا
 
 ۴
 صُغرا تجھے پوچھے گی تو کیا اُس سے کہوں گی
-بِن تیرے نہ جائوں گی وطن شام سے آ جا
+بِن تیرے نہ جاؤں گی وطن شام سے آ جا
 
 ۵
-کیوں کر یہ بتائوں گی لگا حلق پہ ناوک
+کیوں کر یہ بتاؤں گی لگا حلق پہ ناوک
 کیا کہہ کے بھلا دوں گی تسلی اُسے آ جا
