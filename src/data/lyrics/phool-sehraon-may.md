@@ -1,45 +1,46 @@
 ---
 title: "پھول صحراؤں میں عابد نے کھلا ڈالے ہے"
-alternateTitle: "Phool Sehraon May"
+alternateTitle: "Phul Sahraaoṅ Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mahir Lakhnavi"
+reciter: "Faazil Lakhnavi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Phool Sehraon May"]
 published: false
 romanLyrics: |-
-  Phool sehraon may abid ne khila daale hai
-  Kitne veeran baharon ne basa daale hai
-  
+  Phul sahraaoṅ mein Aabid ne khila daale hai
+  Kitne wiraan bahaaroṅ ne basa daale haiṅ
+
   1
-  Dekho abbas ki nazron ko labe nehre furaat
-  Ek bijli se kayi toor jala daale hai
-  
+  Dekho Abbas ki nazroṅ ko lab-e-nahr-e-Furaat
+  Ik bijli se kai Tur jala daale haiṅ
+
   2
-  Maalik o meesam o ammar abuzar belhol
-  Ishq e hyder ne bhi deewane bana daale hai
-  
+  Maalik o Maisam o Ammaar Abuzar Bahlul
+  Ishq-e-Haidar ne bhi diwaane bana daale haiṅ
+
   3
-  Ulfate aal e mohamed ko duwaein deeje
-  Baara raaste dare jannat ke bana daale hai
-  
+  Ulfat-e-Aal-e-Muhammad ko duaaeiṅ dijiye
+  Baarah raaste dar-e-jannat ke bana daale haiṅ
+
   4
-  Maatam e shaah may uth'ti hui aawazon ne
-  Naksh bayyat ke jahan paaye mita daale hai
-  
+  Maatam-e-Shaah mein uthti hui aawaazoṅ ne
+  Naqsh baiat ke jahaaṅ paaye mita daale haiṅ
+
   5
-  Sar ba sajda nazar aate hai khudaayan e haram
-  Sar khudaon ke bhi hyder ne jhuka daale hai
-  
+  Sar ba sajda nazar aate haiṅ khudaayaan-e-haram
+  Sar khudaaoṅ ke bhi Haidar ne jhuka daale haiṅ
+
   6
-  Taygh e hyder se bhi kuch tez hai shamsheer e hussain
-  Isne to kufr ke bhi aasaar mita daale hai
-  
+  Tegh-e-Haidar se bhi kuchh tez hai shamshir-e-Husain
+  Is ne to kufr ke bhi aasaar mita daale haiṅ
+
   7
-  Khaynch kar khuld dar e aal e nabi par mahir
-  Door ke raaste nazdeek bana daale hai
+  Kheench kar khuld dar-e-Aal-e-Nabi par Maahir
+  Dur ke raaste nazdik bana daale haiṅ
 # source_id: nohayonline:11c86befb31ee1a7e1a9
 # source_url: https://www.nohayonline.com/details_content.php?id=1221
 # raw_sha256: 4176baf5610ac80ac65c898f547108bbe11e67300aab19ddf6a12d07cc73740d
@@ -49,7 +50,7 @@ romanLyrics: |-
 
 ۱
 دیکھو عباس کی نظروں کو لب نہر فرات
-اک بجلی سے کیء طور جلا ڈالے ہیں
+اک بجلی سے کئی طور جلا ڈالے ہیں
 
 ۲
 مالک و میثم و عمار ابوذر بہلول
@@ -60,8 +61,8 @@ romanLyrics: |-
 بارہ راستہ در جنت کے بنا ڈالے ہیں
 
 ۴
-ماتم شاہ میں اٹھتی ہوی آوازوں نے
-نقش بیعت کے جہاں پاے مٹا ڈالے ہیں
+ماتم شاہ میں اٹھتی ہوئی آوازوں نے
+نقش بیعت کے جہاں پائے مٹا ڈالے ہیں
 
 ۵
 سر بہ سجدہ نظر آتے ہیں خدایانِ حرم

@@ -1,85 +1,87 @@
 ---
 title: "شہید ہو گیا فروہ کا لال جب رن میں"
-alternateTitle: "Phupi Baba Chadar"
+alternateTitle: "Phuphi Baba Chaadar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shams Rizvi"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
-aliases: []
+aliases: ["Phupi Baba Chadar"]
 published: false
 romanLyrics: |-
-  Shaheed ho gaya farwa ka laal jab ran mein
-  Rakha qiza ne qadam ko hassan ke gulshan mein
-  Layeen ne kar diya qasim ki laash ko pamaal
-  Hussain ho gaye sunte hi ye khabar behaal
-  Hussain apne bhatije ka gham uthaye hai
-  Rida mein laash ke tukdon ko jaake laaye hai
-  Bapa jo hashr ka aalam tha qaime ke andar
-  Lahoo mein doobi hui dekh dekh kar chadar
-  Sakina ne poocha ye zainab se rokar
-  Phuphi baba chadar mein kya laaye hai
-  
+  Shahid ho gaya Farwa ka laal jab ran mein
+  Rakha khizaaṅ ne qadam ko Hasan ke gulshan mein
+  Laiṅ ne kar diya Qasim ki laash ko paamaal
+  Husain ho gaye sunte hi ye khabar behaal
+  Husain apne bhatije ka gham uthaaye hai
+  Rida mein laash ke tukroṅ ko jaa ke laaye hai
+
+  Bapa jo hashr ka aalam tha khaime ke andar
+  Lahu mein dubi hui dekh dekh kar chaadar
+  Sakina ne puchha ye Zainab se ro kar
+  Phuphi baba chaadar mein kya laaye hai
+
   1
-  Thokarein khaate maqtal se shaah aate hai
-  Poocha zainab se bacchi ne kya laate hai
-  Amaama hai baba ka kyun khoon mein tar
-  
+  Thokareiṅ khaate maqtal se Shaah aate hai
+  Puchha Zainab se bachchi ne kya laate haiṅ
+  Amaama hai baba ka kiuṅ khuṅ mein tar
+
   2
-  Aake dekha jo qaime mein shabbir ko
-  Kaampta paaya zainab e dilgeer ko
-  Boli zainab ke daaman ko wo thaam kar
-  
+  Aa ke dekha jo khaime mein Shabbir ko
+  Kaaṅpta paaya Zainab dilgir ko
+  Boli Zainab ke daaman ko wo thaam kar
+
   3
-  Sheh ke haathon mein dekhi jo gathri bandhi
-  Haye masoom bacchi ye kehne lagi
+  Shah ke haathoṅ mein dekhi jo gathri bandhi
+  Haaye maasum bachchi ye kehne lagi
   Dil phata jaata hai mera ye dekh kar
-  
+
   4
-  Aray maathe pe baba ke kis ka hai khoon
-  Haye is khoon se aati hai apne ki boo
-  Tapakta hai kis ka lahoo khaak par
-  
+  Are maathe pe baba ke kis ka hai khuṅ
+  Haaye is khuṅ se aati hai apne ki bu
+  Tapakta hai kis ka lahu khaak par
+
   5
-  Sambhale se ye dil sambhalta nahi
-  Meri aankhon se ye ashk rukta nahi
+  Sambhaale se ye dil sambhalta nahiṅ
+  Meri aaṅkhoṅ se ye ashk rukta nahiṅ
   Mujhe bhi to is baat ki ho khabar
-  
+
   6
-  Haye apno se kuch bhi chupate nahi
-  Ay amma ye baba bataate nahi
-  Thak chuki hoon mai ye baareha pooch kar
-  
+  Haaye apnoṅ se kuchh bhi chhupaate nahiṅ
+  Ae ammaaṅ ye baba bataate nahiṅ
+  Thak chuki huṅ main ye baaraha puchh kar
+
   7
-  Kiska ye jism hai jo ke pamaal hai
-  Aap ke haath aur ye jabeen laal hai
+  Kis ka ye jism hai jo ke paamaal hai
+  Aap ke haath aur ye jabiṅ laal hai
   Dekha baba ko to boli wo nauhagar
-  
+
   8
-  Sakina ka dekha jo ye haal o zaal
-  To zainab pukari meri dil figaar
-  Na poocho meri haye lakhte jigar
-  
+  Sakina ka dekha jo ye haal o zaar
+  To Zainab pukaari meri dilfigaar
+  Na puchho meri haaye lakht-e-jigar
+
   9
-  Kabhi bhi ye sadma na seh paogi
-  Jo dekhogi chadar mein mar jaogi
-  Haye zid na karo meri noore nazar
-  
+  Kabhi bhi ye sadma na seh paaogi
+  Jo dekhogi chaadar mein mar jaaogi
+  Haaye zid na karo meri nur-e-nazar
+
   10
-  Jisko ghodon ki taapon se rondha gaya
-  Uska laasha ye gathri mein laaya gaya
-  Dikhayi jo chadar usay khol kar
-  
+  Jis ko ghoroṅ ki taapoṅ se raunda gaya
+  Us ka laasha ye gathri mein laaya gaya
+  Dikhaai jo chaadar use khol kar
+
   11
-  Haye ye dekhte hi wo ghash kha gayi
-  Gir ke mayyat pe qasim ki kehne lagi
-  Mai hargiz na laaungi ye honton par
-  
+  Haaye ye dekhte hi wo ghash kha gayi
+  Gir ke mayyat pe Qasim ki kehne lagi
+  Main hargiz na laauṅ gi ye hoṅtoṅ par
+
   12
-  Shams likh na saka haye teri fughan
-  Ho saka ne ye aamir se kuch bhi bayan
-  Phir na poocha sakina ne ye umr bhar
+  Shams likh na saka haaye teri fughaaṅ
+  Ho sake na ye Aamir se kuchh bhi bayaaṅ
+  Phir na puchha Sakina ne ye umr bhar
 # source_id: nohayonline:ce11ee693b58f546f36c
 # source_url: https://www.nohayonline.com/details_content.php?id=3695
 # raw_sha256: ce349425526e370539a1beeef35fdf308d73ad377e2b366cd763ac771fd7a5bd
@@ -87,13 +89,14 @@ romanLyrics: |-
 شہید ہو گیا فروہ کا لال جب رن میں
 رکھا خزاں نے قدم کو حسن کے گلشن میں
 لعیں نے کر دیا قاسم کی لاش کو پامال
-حسین ہو گےء سنتے ہی یہ خبر بے حال
-حسین اپنے بھتیجے کا غم اٹھاے ہے
-ردا میں لاش کے ٹکڑوں کو جا کے لاے ہے
+حسین ہو گئے سنتے ہی یہ خبر بے حال
+حسین اپنے بھتیجے کا غم اٹھائے ہے
+ردا میں لاش کے ٹکڑوں کو جا کے لائے ہے
+
 بپا جو حشر کا عالم تھا خیمے کے اندر
 لہو میں ڈوبی ہوئی دیکھ دیکھ کر چادر
 سکینہ نے پوچھا یہ زینب سے رو کر
-پھپھی بابا چادر میں کیا لاے ہے
+پھپھی بابا چادر میں کیا لائے ہے
 
 ۱
 ٹھوکریں کھاتے مقتل سے شاہ آتے ہے
@@ -107,12 +110,12 @@ romanLyrics: |-
 
 ۳
 شہ کے ہاتھوں میں دیکھی جو گٹھری بندھی
-ہاے معصوم بچی یہ کہنے لگی
+ہائے معصوم بچی یہ کہنے لگی
 دل پھٹا جاتا ہے میرا یہ دیکھ کر
 
 ۴
 ارے ماتھے پہ بابا کے کس کا ہے خوں
-ہاے اس خوں سے آتی ہے اپنے کی بو
+ہائے اس خوں سے آتی ہے اپنے کی بو
 ٹپکتا ہے کس کا لہو خاک پر
 
 ۵
@@ -121,7 +124,7 @@ romanLyrics: |-
 مجھے بھی تو اس بات کی ہو خبر
 
 ۶
-ہاے اپنوں سے کچھ بھی چھپاتے نہیں
+ہائے اپنوں سے کچھ بھی چھپاتے نہیں
 اے اماں یہ بابا بتاتے نہیں
 تھک چکی ہوں میں یہ بارہا پوچھ کر
 
@@ -133,12 +136,12 @@ romanLyrics: |-
 ۸
 سکینہ کا دیکھا جو یہ حال و زار
 تو زینب پکاری میری دل فگار
-نہ پوچھو میری ہاے لختِ جگر
+نہ پوچھو میری ہائے لختِ جگر
 
 ۹
 کبھی بھی یہ صدمہ نہ سہہ پاؤ گی
 جو دیکھو گی چادر میں مر جاؤ گی
-ہاے ضد نہ کرو میری نور نظر
+ہائے ضد نہ کرو میری نور نظر
 
 ۱۰
 جس کو گھوڑوں کی ٹاپوں سے روندا گیا
@@ -146,11 +149,11 @@ romanLyrics: |-
 دکھائی جو چادر اسے کھول کر
 
 ۱۱
-ہاے یہ دیکھتے ہی وہ غش کھا گیء
+ہائے یہ دیکھتے ہی وہ غش کھا گئی
 گر کے میت پہ قاسم کی کہنے لگی
 میں ہر گز نہ لاؤں گی یہ ہونٹوں پر
 
 ۱۲
-شمس لکھ نہ سکا ہاے تیری فغاں
+شمس لکھ نہ سکا ہائے تیری فغاں
 ہو سکے نہ یہ عامر سے کچھ بھی بیاں
 پھر نہ پوچھا سکینہ نے یہ عمر بھر
