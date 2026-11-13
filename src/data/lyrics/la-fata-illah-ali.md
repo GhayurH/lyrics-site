@@ -1,75 +1,76 @@
 ---
 title: "شاہِ مرداں شیرِ یزداں قوتِ پروردگار"
-alternateTitle: "La Fata Illah Ali"
+alternateTitle: "La Fata Illa Ali"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
-aliases: []
+aliases: ["La Fata Illah Ali"]
 published: false
 romanLyrics: |-
-  Shaahe mardan shere yazdan quwate parwardigar
-  La fata illah ali la saif illa zulfaqar
+  Shaah-e-mardaaṅ sher-e-yazdaaṅ quwwat-e-parwardigaar
+  La fata illa Ali la saif illa Zulfiqaar
 
   1
-  Is tarha chalti thi ran may tayghe shere kirdagaar
-  Har taraf se ashkiyan may al-amaan ki thi pukar
-  Kar chuka jab dhayr marhab ko shahe duldul sawaar
-  Aa rahi thi ye sada dewaar o dar se baar baar
+  Is tarah chalti thi ran mein tegh-e-sher-e-kirdigaar
+  Har taraf se ashqiyaa mein al-amaaṅ ki thi pukaar
+  Kar chuka jab dher Marhab ko shaah-e-Duldul sawaar
+  Aa rahi thi ye sada diwaar o dar se baar baar
 
   2
-  Jis tarha koi khuda e paak se bad kar nahi
-  Jis tarha koi rasool allah ka hamsar nahi
-  Ek hai dunya may hyder doosra hyder nahi
-  Misle hyder ye kisi ki taygh may jauhar nahi
-  Ek taraf saari ibadat ek taraf hyder ka waar
+  Jis tarah koi Khuda-e-paak se barh kar nahiṅ
+  Jis tarah koi Rasul Allah ka hamsar nahiṅ
+  Ek hai dunya mein Haidar dusra Haidar nahiṅ
+  Misl-e-Haidar ye kisi ki tegh mein jauhar nahiṅ
+  Ek taraf saari ibaadat ek taraf Haidar ka waar
 
   3
-  Juz ali ka kaun haq ke waaste seena sipar
-  Kaun uth'ta tha rasool allah ki awaaz par
-  Kisne qurban kar diya raahe khuda may apna ghar
-  Is haqeeqat se bhala hum kis tarha phere nazar
-  Hai isi awaaz par takbeer ka daar o madaar
+  Juz Ali ka kaun haq ke waaste sina sipar
+  Kaun uthta tha Rasul Allah ki aawaaz par
+  Kis ne qurbaan kar diya raah-e-Khuda mein apna ghar
+  Is haqiqat se bhala ham kis tarah phereṅ nazar
+  Hai isi aawaaz par takbir ka daar o madaar
 
   4
-  Yaad karlo door kyun jaate ho kal ki baat hai
-  Jang ke maidan may kaam aaya wo kiski zaat hai
-  Mehre hairat muttaqil lashkar pe kayenat hai
-  Haq o nusrat aaj bhi naam e ali ke saath hai
-  Goonjta hai hyderi naaro se dashte kaarzaar
+  Yaad kar lo dur kiuṅ jaate ho kal ki baat hai
+  Jang ke maidaan mein kaam aaya wo kis ki zaat hai
+  Mehr-e-hairat muttaqil lashkar pe kaainaat hai
+  Haq o nusrat aaj bhi naam-e-Ali ke saath hai
+  Guṅjta hai Haidari naaroṅ se dasht-e-kaarzaar
 
   5
-  Kaam aaya phir wohi jab waqt aaya imtihan
-  Naam se jiske larazte hai zameen o aasman
-  Laakh jalta ho ali ke kaarnamo se jahan
-  Sabse afzal aaj hai dunya may hyder ka nishan
-  Aaj bhi sajti hai seeno pe yehi ek yaadgaar
+  Kaam aaya phir wohi jab waqt aaya imtihaan
+  Naam se jis ke larazte haiṅ zamin o aasmaan
+  Laakh jalta ho Ali ke kaarnaamoṅ se jahaaṅ
+  Sab se afzal aaj hai dunya mein Haidar ka nishaan
+  Aaj bhi sajti hai sinoṅ pe yehi ik yaadgaar
 
   6
-  Kehte thay mohamed maadare ghamkhar se
-  Is tarha ran may ladenge lashkare kuffar se
-  Sab hamay tashbeeh denge jafar e tayyar se
-  Bach ke jaa payega koi kya hamare waar se
-  Khaynch denge taygh se hum badr ke naksh o nigaar
+  Kehte the Muhammad maadar-e-ghamkhwaar se
+  Is tarah ran mein lareṅ ge lashkar-e-kuffaar se
+  Sab hameṅ tashbih deṅ ge Jafar-e-Tayyaar se
+  Bach ke jaa paaega koi kya hamaare waar se
+  Kheṅch deṅ ge tegh se ham Badr ke naqsh o nigaar
 
   7
-  Kya koi rokega hum ko matame shabbir se
-  Baandh de koi hamay gar aahni zanjeer se
-  Mustaqil hojaye gardan bhi agar shamsheer se
-  Kyun na ho mehshar aqeedat shaahe khyber geer se
-  Ya ali keh denge jab ruk jayegi khanjar ki dhaar
+  Kya koi roke ga ham ko maatam-e-Shabbir se
+  Baandh de koi hameṅ gar aahani zanjir se
+  Mustaqil ho jaae gardan bhi agar shamshir se
+  Kiuṅ na ho Mehshar aqidat shaah-e-Khaibar gir se
+  Ya Ali keh deṅ ge jab ruk jaaegi khanjar ki dhaar
 # source_id: nohayonline:301b25c4f0a0ee4bb63c
 # source_url: https://www.nohayonline.com/details_content.php?id=536
 # raw_sha256: 38cb992c742a037173df5e52ed1dd526b2cb43f6cd4d2c3d7aae084e028c8ca8
 ---
 شاہِ مرداں شیرِ یزداں قوتِ پروردگار
-لا فتاح اِللہ علِی اللہ سیف اللہ ذوالفقار
+لا فتیٰ الا علی لا سیف الا ذوالفقار
 
 ۱
 اس طرح چلتی تھی رَن میں تیغِ شیرِ کِردگار
-ہر طرف سے اشقیائ میں الاماں کی تھی پُکار
+ہر طرف سے اشقیا میں الاماں کی تھی پُکار
 کر چُکا جب ڈھیر مرحب کو شاہِ دُلدُل سوار
 آ رہی تھی یہ صدا دیوار و در سے بار بار
 

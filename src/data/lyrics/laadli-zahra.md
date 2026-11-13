@@ -6,54 +6,55 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Apne baba ki laadli zahra
-  Choor zakhmo se ho gayi zahra
+  Apne baaba ki laadli Zahra
+  Chur zakhmoṅ se ho gayi Zahra
 
   1
-  Koi aaya nahi bhujhane ko
-  Jalta dar dekhti rahi zahra
+  Koi aaya nahiṅ bujhaane ko
+  Jalta dar dekhti rahi Zahra
 
   2
-  Jaane kis tarha maara zaalim ne
-  Moo ke bal khaak par giri zahra
+  Jaane kis tarah maara zaalim ne
+  Muṅh ke bal khaak par giri Zahra
 
   3
-  Tere rukh par nishan tamache ka
-  Kaash zainab na dekhti zahra
+  Tere rukh par nishaaṅ tamaanche ka
+  Kaash Zainab na dekhti Zahra
 
   4
-  Karbala shaam saamara mashad
-  Kitne hisson mein bat gayi zahra
+  Karbala Shaam Saamarra Mashhad
+  Kitne hissoṅ mein bat gayi Zahra
 
   5
-  Aag se jinke jal gaye daaman
-  Ek sakina hai doosri zahra
+  Aag se jin ke jal gaye daaman
+  Ik Sakina hai dusri Zahra
 
   6
-  Hai tasavvur mein ghurbate hyder
-  Saans leti hai aakhri zahra
+  Hai tasawwur mein ghurbat-e-Haidar
+  Saaṅs leti hai aakhri Zahra
 
   7
-  Moo ke bal gir pade ali sun kar
-  Ab jahan mein nahi rahi zahra
+  Muṅh ke bal gir pare Ali sun kar
+  Ab jahaaṅ mein nahiṅ rahi Zahra
 
   8
-  Rakh ke mayyat lahad mein bole ali
-  Ab wo zahra nahi rahi zahra
+  Rakh ke mayyat lahad mein bole Ali
+  Ab wo Zahra nahiṅ rahi Zahra
 
   9
-  Ay takallum hai jaane qabr kahan
-  Itni bekas hai aaj bhi zahra
+  Ae Takallum hai jaane qabr kahaaṅ
+  Itni bekas hai aaj bhi Zahra
 # source_id: nohayonline:f90c16edab4ec55fdf06
 # source_url: https://www.nohayonline.com/details_content.php?id=1021
 # raw_sha256: 34480e3d2eebe8c5ff478461b1e767ae5e65d1517e58b3348b26cd8eeb1975fa
 ---
 اپنے بابا کی لاڈلی زہرا
-چور زخموں سے ہو گیء زہرا
+چور زخموں سے ہو گئی زہرا
 
 ۱
 کوئی آیا نہیں بجھانے کو
@@ -72,7 +73,7 @@ romanLyrics: |-
 کتنے حصوں میں بٹ گئی زہرا
 
 ۵
-آگ سے جن کے جل گےء دامن
+آگ سے جن کے جل گئے دامن
 اک سکینہ ہے دوسری زہرا
 
 ۶
