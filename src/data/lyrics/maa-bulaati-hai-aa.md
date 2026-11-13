@@ -6,86 +6,89 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Toote bande kafan fatema ke
+  Tute band kafan Fatema ke
   Aur phir haath nikle kafan se
-  Aayi awaaz aa ay hussain
-  Maa bulaati hai aa ay hussain
-  Maa bulaati hai aa ay hussain
-  Aa mere paas aa ya hussain
+  Aayi aawaaz aa Ae Husain
+  Maa bulaati hai aa Ae Husain
+
+  Maa bulaati hai aa Ae Husain
+  Aa mere paas aa Ae Husain
 
   1
-  Aaye shabbir zehra ke lab yun hilay
-  Chakkiyan pees ke maine paala tujhe
-  Aa mere laal aa maa ke lag ja galay
-  Waqt e ruqsat hai aise nahi rooth'te
+  Ae Shabbir Zehra ke lab yuṅ hile
+  Chakkiyaaṅ pis ke main ne paala tujhe
+  Aa mere laal aa maa ke lag ja gale
+  Waqt-e-rukhsat hai aise nahiṅ ruthte
 
   2
-  Teri khaatir mai jaa kar palat aayi hoo
-  Dekh kar tere aansu mai ghabrayi hoo
-  Dekh zer e kafan gham se tharrayi hoo
-  Tujhko behlaane jannat se mai aayi hoo
+  Teri khaatir main jaa kar palat aayi huṅ
+  Dekh kar tere aansu main ghabraayi huṅ
+  Dekh zer-e-kafan gham se tharraayi huṅ
+  Tujh ko behlaane jannat se main aayi huṅ
 
   3
   Aa mere laal aa ek ye kaam kar
-  Mere seene pe kuch dayr aaram kar
+  Mere sine pe kuchh der aaraam kar
   Tu to chalta tha ungli meri thaam kar
-  Yaad wo subho kar yaad wo shaam kar
+  Yaad wo subh kar yaad wo shaam kar
 
   4
-  Tu ne khaana bhi khaaya ke khaaya nahi
-  Keh de maa se ke tu aaj pyasa nahi
-  Subho se moo kisi ne dhulaya nahi
-  So gayi mai tujhe kyun sulaaya nahi
+  Tu ne khaana bhi khaaya ke khaaya nahiṅ
+  Keh de maa se ke tu aaj pyaasa nahiṅ
+  Subh se muṅh kisi ne dhulaaya nahiṅ
+  So gayi main tujhe kiuṅ sulaaya nahiṅ
 
   5
-  Daste zainab mein phir de ke daste hussain
-  Boli zahra kafan mein basad shor o shain
-  Dekh zainab meri laadli noor e ain
-  Ye jo roya to zahra na payegi chain
+  Dast-e-Zainab mein phir de ke dast-e-Husain
+  Boli Zahra kafan mein basad shor o shain
+  Dekh Zainab meri laadli nur-e-ain
+  Ye jo roya to Zahra na paayegi chain
 
   6
   Jaaiyo saath is ke ye jaaye jidhar
-  Mere bache ki zainab hai tu humsafar
+  Mere bachche ki Zainab hai tu humsafar
   Karbala ka musafir hai mera pisar
-  Gham ki badli na chaaye mere chand par
+  Gham ki badli na chhaaye mere chaand par
 
   7
-  Haye karbobala mein wo din aa gaya
-  Shimr ka halq e sarwar pe khanjar chala
+  Haaye Karb o bala mein wo din aa gaya
+  Shimr ka halq-e-Sarwar pe khanjar chala
   Amma amma ki aane lagi jab sada
-  Baal bikhra ke zehra ne ro kar kaha
+  Baal bikhra ke Zehra ne ro kar kaha
 
   8
-  Kaise rehaan o sarwar sar e karbala
-  Apne bache ki gardan pe taygh e jafa
-  Dekhti hongi zahra sar e karbala
-  Goonjti hogi dashte bala mein sada
+  Kaise Rehaan o Sarwar sar-e-Karbala
+  Apne bachche ki gardan pe tegh-e-jafa
+  Dekhti hoṅgi Zahra sar-e-Karbala
+  Guṅjti hogi dasht-e-bala mein sada
 # source_id: nohayonline:a37b63ba821408dbdb50
 # source_url: https://www.nohayonline.com/details_content.php?id=1990
 # raw_sha256: f6270b0c0a8daf716076968d66ff713385b7e620b4b7640cb5351645ce963423
 ---
 ٹوٹے بند کفن فاطمہ کے
 اور پھر ہاتھ نکلے کفن سے
-آی آواز آ اے حسین
+آئی آواز آ اے حسین
 ماں بلاتی ہے آ اے حسین
+
 ماں بلاتی ہے آ اے حسین
 آ میرے پاس آ اے حسین
 
 ۱
-آے شبیر زہرا کی لب یوں ہلے
+اے شبیر زہرا کے لب یوں ہلے
 چکیاں پیس کے میں نے پالا تجھے
 آ میرے لال آ ماں کے لگ جا گلے
 وقت رخصت ہے ایسے نہیں روٹھتے
 
 ۲
-تیری خاطر میں جا کر پلٹ آی ہوں
-دیکھ کر تیرے آنسوں میں گھبرای ہوں
-دیکھ زیر کفن غم سے تھرای ہوں
-تجھکو بہلانے جنت سے میں آی ہوں
+تیری خاطر میں جا کر پلٹ آئی ہوں
+دیکھ کر تیرے آنسو میں گھبرائی ہوں
+دیکھ زیرِ کفن غم سے تھرائی ہوں
+تجھ کو بہلانے جنت سے میں آئی ہوں
 
 ۳
 آ میرے لال آ ایک یہ کام کر
@@ -97,28 +100,28 @@ romanLyrics: |-
 تو نے کھانا بھی کھایا کہ کھایا نہیں
 کہہ دے ماں سے کہ تو آج پیاسا نہیں
 صبح سے منہ کسی نے دھلایا نہیں
-سو گیء میں تجھے کیوں سلایا نہیں
+سو گئی میں تجھے کیوں سلایا نہیں
 
 ۵
-دست زینب میں پھر دے کے دست حسین
+دستِ زینب میں پھر دے کے دستِ حسین
 بولی زہرا کفن میں بصد شور و شین
 دیکھ زینب میری لاڈلی نورِ عین
-یہ جو رویا تو زہرا نہ پاے گی چین
+یہ جو رویا تو زہرا نہ پائے گی چین
 
 ۶
-جاییو ساتھ اس کے یہ جاے جدھر
+جائیو ساتھ اس کے یہ جائے جدھر
 میرے بچے کی زینب ہے تو ہمسفر
 کربلا کا مسافر ہے میرا پسر
-غم کی بدلی نہ حھاے میرے چاند پر
+غم کی بدلی نہ چھائے میرے چاند پر
 
 ۷
-ہاے کربوبلا میں وہ دن آ گیا
-شمر کا حلق سرور پہ خنجر چلا
+ہائے کرب و بلا میں وہ دن آ گیا
+شمر کا حلقِ سرور پہ خنجر چلا
 اماں اماں کی آنے لگی جب صدا
 بال بکھرا کے زہرا نے رو کر کہا
 
 ۸
-کیسے ریحان و سرور سر کربلا
+کیسے ریحان و سرور سرِ کربلا
 اپنے بچے کی گردن پہ تیغِ جفا
-دیکھتی ہونگی زہرا سر کربلا
-گونجتی ہو گی دشت بلا میں صدا
+دیکھتی ہوں گی زہرا سرِ کربلا
+گونجتی ہو گی دشتِ بلا میں صدا

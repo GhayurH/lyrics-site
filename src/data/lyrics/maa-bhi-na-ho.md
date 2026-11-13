@@ -6,56 +6,58 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ehsaas e yateemi hai veeran hai ali ka ghar
-  Bin baap ke ye pehli raat aayi hai bachon par
-  Roti thi kahin zainab shabbir kahin shabbar
-  Fizza ne ye dekha to kehne lagi ro ro kar
-  Maa bhi na ho dunya mein aur baap bhi mar jaye
-  Allah kisi par bhi ye waqt nahi aaye
+  Ehsaas-e-yatimi hai viraaṅ hai Ali ka ghar
+  Bin baap ke ye pehli raat aayi hai bachchoṅ par
+  Roti thiṅ kahiṅ Zainab Shabbir kahiṅ Shabbar
+  Fizza ne jo dekha to kehne lagiṅ ro ro kar
+
+  Maa bhi na ho dunya mein aur baap bhi mar jaaye
+  Allah kisi par bhi ye waqt nahiṅ aaye
 
   1
   Ye raat khuda jaane kis haal mein guzregi
-  Bachon ki nigaahon mein tasveer hai baba ki
-  Baba se juda ho kar kis tarha jiya jaye
+  Bachchoṅ ki nigaahoṅ mein tasvir hai Baba ki
+  Baba se juda ho kar kis tarah jiya jaaye
 
   2
-  Mayyat jahan rakhi thi zainab wahin baithi hai
+  Mayyat jahaaṅ rakhi thi Zainab wahiṅ baithi hai
   Abbas ke chehre ko ab dekh ke roti hai
-  Kehti hai koi mere baba ko bula laaye
+  Kehti hai koi mere Baba ko bula laaye
 
   3
-  Haathon mein ruqayya ke baba ka musalla hai
-  Kulsoom ke haathon mein baba ka amaama hai
-  Baba nahi aayenge ab kaun ye batlaye
+  Haathoṅ mein Ruqayya ke Baba ka musalla hai
+  Kulsum ke haathoṅ mein Baba ka amaama hai
+  Baba nahiṅ aayeṅge ab kaun ye batlaaye
 
   4
-  Maa yaad jo aaye to ho aate thay turbat par
-  Ruqsat kiya baba ko hasnain ne ye keh kar
-  Milne kahan jayenge jab baap ki yaad aaye
+  Maa yaad jo aaye to ho aate the turbat par
+  Rukhsat kiya Baba ko Hasnain ne ye keh kar
+  Milne kahaaṅ jaayeṅge jab baap ki yaad aaye
 
   5
-  Ab mujhko rulaata hai shahzadi ka wo kehna
-  Fizza mere bachon se tum door nahi rehna
-  Maa baap ke bin jeena mushkil hai bahot haye
+  Ab mujh ko rulaata hai shahzaadi ka wo kehna
+  Fizza mere bachchoṅ se tum dur nahiṅ rehna
+  Maa baap ke bin jina mushkil hai bahut haaye
 
   6
-  Is aalam e gurbat mein maa zinda agar hoti
-  Bin baap ke bachon ko seene se laga leti
-  Aaghaz e yateemi hai dil gham se na phat jaaye
+  Is aalam-e-ghurbat mein maa zinda agar hoti
+  Bin baap ke bachchoṅ ko sine se laga leti
+  Aaghaaz-e-yatimi hai dil gham se na phat jaaye
 
   7
-  Bhooli hai kahan zainab wo choomna shaano ko
-  Jab shaam mein dekhegi rassi ke nishano ko
-  Yaad aayegi baba ki us waqt bahot haye
+  Bhuli hai kahaaṅ Zainab wo chumna shaanoṅ ko
+  Jab Shaam mein dekhegi rassi ke nishaanoṅ ko
+  Yaad aayegi Baba ki us waqt bahut haaye
 
   8
-  Zeeshan o raza haye nauha tha ye fizza ka
-  Ab betiyon ke sar pe saaya nahi baba ka
-  Mushkil hai yateemon pe ye raat guzar jaaye
+  Zishan o Raza haaye nauha tha ye Fizza ka
+  Ab betiyoṅ ke sar pe saaya nahiṅ Baba ka
+  Mushkil hai yatimoṅ par ye raat guzar jaaye
 # source_id: nohayonline:e80daf7ad53c33fce7ce
 # source_url: https://www.nohayonline.com/details_content.php?id=2941
 # raw_sha256: 9d2d3d6f9584091ffc244096727aeef45b5ee09750332d82ebeaadd9efd7cdaa
@@ -63,14 +65,15 @@ romanLyrics: |-
 احساسِ یتیمی ہے ویراں ہے علی کا گھر
 بن باپ کے یہ پہلی رات آئی ہے بچوں پر
 روتی تھیں کہیں زینب شبیر کہیں شبر
-فضہ نے جو دیکھا تو کہنے لگیں رو روکر
-ماں بھی نا ہو دنیا میں اور باپ بھی مرجائے
+فضہ نے جو دیکھا تو کہنے لگیں رو رو کر
+
+ماں بھی نہ ہو دنیا میں اور باپ بھی مر جائے
 اللہ کسی پر بھی یہ وقت نہیں آئے
 
 ۱
-یہ رات خدا جانے کس حال میں گزریگی
+یہ رات خدا جانے کس حال میں گزرے گی
 بچوں کی نگاہوں میں تصویر ہے بابا کی
-بابا سے جدا ہوکر کس طرح جیا جائے
+بابا سے جدا ہو کر کس طرح جیا جائے
 
 ۲
 میت جہاں رکھی تھی زینب وہیں بیٹھی ہے
@@ -78,17 +81,17 @@ romanLyrics: |-
 کہتی ہے کوئی میرے بابا کو بلا لائے
 
 ۳
-ہاتھوں میں رقیہ کے بابا کا مصلہ ہے
+ہاتھوں میں رقیہ کے بابا کا مصلیٰ ہے
 کلثوم کے ہاتھوں میں بابا کا عمامہ ہے
-بابا نہیں آئینگے اب کون یہ بتلائے
+بابا نہیں آئیں گے اب کون یہ بتلائے
 
 ۴
 ماں یاد جو آئے تو ہو آتے تھے تربت پر
-رخصت کیا بابا کو حسنین نے یہ کہکر
-ملنے کہاں جائینگے جب باپ کی یاد آئے
+رخصت کیا بابا کو حسنین نے یہ کہہ کر
+ملنے کہاں جائیں گے جب باپ کی یاد آئے
 
 ۵
-اب مجھکو رلاتا ہے شہزادی کا وہ کہنا
+اب مجھ کو رلاتا ہے شہزادی کا وہ کہنا
 فضہ میرے بچوں سے تم دور نہیں رہنا
 ماں باپ کے بن جینا مشکل ہے بہت ہائے
 
