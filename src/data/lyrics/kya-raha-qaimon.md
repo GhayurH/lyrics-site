@@ -10,41 +10,41 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shaam e gham aa gayi, shaam e gham aa gayi
-  Kiya raha khaimon may Sheh kay ek udasi reh gayi
-  Sirf ronay ko Mohammed ki nawasi reh gayee
+  Shaam-e-gham aa gayi, shaam-e-gham aa gayi
+  Kya raha khaimoṅ mein Shah ke ak udaasi reh gayi
+  Sirf rone ko Muhammad ki nawaasi reh gayi
 
   1
-  Saj gayee Qasim kay tukroun say udhar Karb-o-bala
-  Maa idhar baitay ki dulhan ko sajaati reh gayee
+  Saj gayi Qasim ke tukroṅ se udhar Karb o Bala
+  Maaṅ idhar bete ki dulhan ko sajaati reh gayi
 
   2
-  Cheenta tha Shimr chadar aur Zainab baar baar
-  Apni chadar kay muhafiz ko bulati reh gayee
+  Chhinta tha Shimr chaadar aur Zainab baar baar
+  Apni chaadar ke muhaafiz ko bulaati reh gayi
 
   3
-  Khoon-e-dil Abbas kaa sub beh gayaa run may magar
-  Dil main bus ek baat Zainab ki rida ki reh gayee
+  Khun-e-dil Abbas ka sab beh gaya ran mein magar
+  Dil mein bas ak baat Zainab ki rida ki reh gayi
 
   4
-  Aay Musalmano tumhari ghayratain kiya ho gayeen
-  Tum tamashayee thay Zainab mu chupati reh gayee
+  Ae Musalmaano tumhaari ghairateṅ kya ho gayiṅ
+  Tum tamaashaai the Zainab munh chhupaati reh gayi
 
   5
-  Qaid main Bali Sakina ko mila baba ka sar
-  Mu pay mu rakh kar joo sooyee maa jagati reh gayee
+  Qaid mein baali Sakina ko mila Baba ka sar
+  Munh pe munh rakh kar jo soyi maaṅ jagaati reh gayi
 
   6
-  Maadar-e-Asgher na baithi saye main Asgher kay baad
-  Saayea main aayee to zinda laash baqi reh gayee
+  Maadar-e-Asghar na baithi saaye mein Asghar ke baad
+  Saaye mein aayi to zinda laash baaqi reh gayi
 
   7
-  Har tamachay par Sakina mu pay rakh kar nanhay haath
-  Neel rukhsaaron kay Ghazi ko dikaati reh gayee
+  Har tamaache par Sakina munh pe rakh kar nanhe haath
+  Nil rukhsaaroṅ ke Ghazi ko dikhaati reh gayi
 
   8
-  Aa gayee Rehan o Sarwar Karbala say lout kar
-  Aaj tak khushboo badan main Karbala ki reh gayee
+  Aa gaye Rehaan o Sarwar Karbala se laut kar
+  Aaj tak khushbu badan mein Karbala ki reh gayi
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:3390a675169251047705
 # source_url: https://www.nohayonline.com/details_content.php?id=28
@@ -55,11 +55,11 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 ---
 
 شامِ غم آگئی، شامِ غم آگئی
-کیا رہا خیموں میںشہہ کے اک اُداسی رِہ گئی
+کیا رہا خیموں میں شہ کے اک اُداسی رِہ گئی
 صرف رونے کو محمد کی نواسی رِہ گئی
 
 ۱
-سج گئی قا سم کے ٹکڑوں سے اُدھر کرب و بلا
+سج گئی قاسم کے ٹکڑوں سے اُدھر کرب و بلا
 ماں اِدھر بیٹے کی دُلہن کو سجاتی رِہ گئی
 
 ۲
