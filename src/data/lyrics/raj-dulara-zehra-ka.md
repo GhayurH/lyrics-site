@@ -1,48 +1,49 @@
 ---
-title: راج دُلارا زہر اکا زخمی ہے اور پیاسا ہے
-alternateTitle: Raj Dulara Zehra Ka
+title: راج دُلارا زہراؑ کا زخمی ہے اور پیاسا ہے
+alternateTitle: Raaj Dulaara Zehra Ka
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
+reciter: "Asim Lilan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Raj dulara Zehra ka zakhmi hai aur pyaasa hai
-  Boondh nahi hai paani ki khoon ka darya behta hai
-  
+  Raaj dulaara Zehra ka zakhmi hai aur pyaasa hai
+  Bund nahiṅ hai paani ki khun ka darya behta hai
+
   1
-  Gayti unchi hoti hai, girnay na degi ghoday say
-  Apni godh may lelegi kiski godh ka paala hai
-  
+  Giti uṅchi hoti hai, girne na de gi ghore se
+  Apni god mein le le gi jis ki god ka paala hai
+
   2
-  Raahe khuda may jaldi ki, aagay jaane waalon nay
-  Subha kay saathi choot gaye shaam huyi ab tanha hai
-  
+  Raah-e-khuda mein jaldi ki, aage jaane waaloṅ ne
+  Subh ke saathi chhut gae shaam hui ab tanha hai
+
   3
-  Akbar-o-qasim koi nahi, aas bandhe to kisse bandhe
-  Darya cheen ne waala bhi darya cheen ke sota hai
-  
+  Akbar o Qasim koi nahiṅ, aas bandhe to kis se bandhe
+  Darya chhinne waala bhi darya chhin ke sota hai
+
   4
-  Khoon ki nadi aisay bahi, subha say lekar shaam talak
-  Chaand nabi ka doob gaya suraj doobnay waala hai
-  
+  Khun ki nadi aise bahi, subh se le kar shaam talak
+  Chaand Nabi ka dub gaya suraj dubne waala hai
+
   5
-  Halq pay taigh-e-khaatil hai, jaan-e-payambar sajde may
-  Dono aalam sajde may kaisa pyaara sajda hai
-  
+  Halq pe tegh-e-qaatil hai, jaan-e-Payambar sajde mein
+  Donoṅ aalam sajde mein kaisa pyaara sajda hai
+
   6
-  Kal jo nabi ke dosh pe tha, aaj wo sar hai naize par
-  Ek zamana aisa tha ek zamana aisa hai
-  
+  Kal jo Nabi ke dosh pe tha, aaj wo sar hai naize par
+  Ek zamaana aisa tha, ek zamaana aisa hai
+
   7
-  Bujh gayi shamm-e-khabr-e-nabi, dasht-e-balaa kya roshan hai
-  Beech may qaimay jaltay hai chaaron taraf andhiyaara hai
-  
+  Bujh gai shama-e-qabr-e-Nabi, dasht-e-bala kya roshan hai
+  Bich mein khaime jalte haiṅ, chaaroṅ taraf andhiyaara hai
+
   8
-  Maut ye teri kaisi thi, marne waalay tere liye
-  Majlis basti basti hai maatam sehra sehra hai
+  Maut ye teri kaisi thi, marne waale tere liye
+  Majlis basti basti hai, maatam sehra sehra hai
 # source_id: nohayonline:060bfcecb03f63ac73d3
 # source_url: https://www.nohayonline.com/details_content.php?id=742
 # raw_sha256: 77c0ead4feaa36d9ee4f91bb176e10ba68262747f8ae74e105dc55164e0bf9fa
@@ -66,11 +67,11 @@ romanLyrics: |-
 دریا چھیننے والا بھی دریا چھین کے سوتا ہے
 
 ۴
-خون کی ندی ایسے بہی، صبح سے لیکر شام تلک
+خون کی ندی ایسے بہی، صبح سے لے کر شام تلک
 چاند نبیؐ کا ڈوب گیا سورج ڈوبنے والا ہے
 
 ۵
-حلق پہ تیغِ قاتل ہے، جانِ پیعمبرؑ سجدے میں
+حلق پہ تیغِ قاتل ہے، جانِ پیمبرؑ سجدے میں
 دونوں عالم سجدے میں کیسا پیارا سجدہ ہے
 
 ۶
@@ -79,7 +80,7 @@ romanLyrics: |-
 
 ۷
 بجھ گئی شمعِ قبرِ نبیؐ، دشتِ بلا کیا روشن ہے
-بئچ میں خیمے جلتے ہیں، چاروں ترف اندھیارا ہے
+بیچ میں خیمے جلتے ہیں، چاروں طرف اندھیارا ہے
 
 ۸
 موت یہ تیری کیسی تھی، مرنے والے تیرے لئے
