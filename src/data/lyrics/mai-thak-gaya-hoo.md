@@ -1,55 +1,58 @@
 ---
-title: آے فرس کی زین سے جب خاک پر حسین
-alternateTitle: Mai Thak Gaya Hoo
+title: آئے فرس کی زین سے جب خاک پر حسین
+alternateTitle: Main Thak Gaya Huṅ
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mazhar Abidi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aaye faras ki zeen se, jab khaak par Hussain
+  Aaye faras ki zin se jab khaak par Husain
   Maadar ka chehra dekh ke karne lage ye bain
-  Amma mai thak gaya hoo maa
-  Apni aagosh mein kuch dayr sulalo amma
-  Mai thak gaya hoo ye laashe uthake ay amma
+  Ammaa main thak gaya huṅ maaṅ
+  Apni aaghosh mein kuch der sula lo Ammaa
+
+  Main thak gaya huṅ ye laashe utha ke ae Ammaa
+  Apni aaghosh mein kuch der sula lo Ammaa
 
   1
-  Kitne naize hai mohamed ke nawase ke liye
-  Qatl se pehle zara de dilaase ke liye
-  Apne mazloom ko seene se lagalo amma
+  Kitne naize hai Muhammad ke nawaase ke liye
+  Qatl se pehle zara der dilaase ke liye
+  Apne mazlum ko sine se laga lo Ammaa
 
   2
-  Qatl abbas ka ho jaana qaza thi meri
-  Barchi akbar ko nahi mere kaleje mein lagi
-  Gham ki barchi mere seene se nikalo amma
+  Qatl Abbas ka ho jaana qaza thi meri
+  Barchhi Akbar ko nahiṅ mere kaleje mein lagi
+  Gham ki barchhi mere sine se nikaalo Ammaa
 
   3
-  Ab mere khoon ka pyasa hai ye jangal saara
-  Koi is dasht mein nasir bhi nahi hai mera
-  Ho sake to mere ghazi ko bulalo amma
+  Ab mere khun ka pyaasa hai ye jangal saara
+  Koi is dasht mein naasir bhi nahiṅ hai mera
+  Ho sake to mere Ghaazi ko bula lo Ammaa
 
   4
-  Halq sookha hai kaleje mein dukhan hoti hai
-  Rayt zakhmo mein jo jaati hai chuban hoti hai
-  Apni chadar ko mere zakhmo pe daalo amma
+  Halq sukha hai kaleje mein dukhan hoti hai
+  Ret zakhmoṅ mein jo jaati hai chubhan hoti hai
+  Apni chaadar ko mere zakhmoṅ pe daalo Ammaa
 
   5
-  Dekh ke aun o mohamed ko sare dashte bala
-  Dil yun tukde hua jis tarha badan ka simka
-  Mere is toote huwe dil ko sambhalo amma
+  Dekh ke Aun o Muhammad ko sar-e-dasht-e-bala
+  Dil yuṅ tukre hua jis tarah badan Qaasim ka
+  Mere is tute hue dil ko sambhaalo Ammaa
 
   6
-  Koi sar par nahi gham kisko sunaye muztar
-  Baad mere meri zainab ki chinegi chadar
-  Meri zainab ko ujadne se bachalo amma
+  Koi sar par nahiṅ gham kis ko sunaaye muztar
+  Baad mere meri Zainab ki chhinegi chaadar
+  Meri Zainab ko ujarne se bacha lo Ammaa
 
   7
-  Ye jo farhan ke mazhar ke, labon par hai buka
-  Keh rahe thay damein zibha ye shahe karbobala
-  Zer e khanjar hoo nigahon ko hatalo amma
+  Ye jo Farhan ke Mazhar ke laboṅ par hai buka
+  Keh rahe the dam-e-zibh ye Shah-e-Karbobala
+  Zer-e-khanjar huṅ nigaahoṅ ko hata lo Ammaa
 # source_id: nohayonline:eaf3cbc23bd8675b48e2
 # source_url: https://www.nohayonline.com/details_content.php?id=963
 # raw_sha256: 23c0ccebfa541c7d8b6bd133a2192a2b2074895ba0b2fdec8cd2e4449531dd62
@@ -57,15 +60,17 @@ romanLyrics: |-
 # source_url: https://www.ziyaraat.net/api/noha/1510
 # raw_sha256: 7c007d593ce9dba7c7a6af153ecf43f8603dbb4483d76f3c044af0dd1d7ca655
 ---
-آے فرس کی زین سے جب خاک پر حسین
+آئے فرس کی زین سے جب خاک پر حسین
 مادر کا چہرہ دیکھ کے کرنے لگے یہ بین
 اماں میں تھک گیا ہوں ماں
-اپنی آغوش میں کچھ دیر سلالو اماں
+اپنی آغوش میں کچھ دیر سلا لو اماں
+
 میں تھک گیا ہوں یہ لاشے اٹھا کے اے اماں
+اپنی آغوش میں کچھ دیر سلا لو اماں
 
 ۱
 کتنے نیزے ہے محمد کے نواسے کے لئے
-قتل سے پہلے زرا دے دلاسے کے لئے
+قتل سے پہلے ذرا دیر دلاسے کے لئے
 اپنے مظلوم کو سینے سے لگا لو اماں
 
 ۲
@@ -85,15 +90,15 @@ romanLyrics: |-
 
 ۵
 دیکھ کے عون و محمد کو سر دشت بلا
-دل یوں ٹکڑے ہوا جس طرح بدن کا سمکا
+دل یوں ٹکڑے ہوا جس طرح بدن قاسم کا
 میرے اس ٹوٹے ہوئے دل کو سنبھالو اماں
 
 ۶
-کوئی سر پر نہیں غم کس کو سناے مضطر
+کوئی سر پر نہیں غم کس کو سنائے مضطر
 بعد میرے میری زینب کی چھنے گی چادر
 میری زینب کو اجڑنے سے بچا لو اماں
 
 ۷
 یہ جو فرحان کے مظہر کے لبوں پر ہے بکا
-کہہ رہے تھے دم ذبح یہ شہ کربوبلا
-زیر خنجر ہوں نگاہوں کو ہٹالو اماں
+کہہ رہے تھے دمِ ذبح یہ شہِ کربوبلا
+زیرِ خنجر ہوں نگاہوں کو ہٹا لو اماں
