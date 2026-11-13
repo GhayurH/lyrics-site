@@ -1,49 +1,50 @@
 ---
 title: "ماتم کیا ہے دنیا والوں ظلم سے نفرت کا اعلان"
-alternateTitle: "Matam Kya Hai"
+alternateTitle: "Maatam Kya Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
+reciter: "Tableegh e Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Matam kya hai dunya waalon zulm se nafrat ka aelaan
-  Majlis kya hai sheh se mohabbat aur aqeedat ka aelaan
+  Maatam kya hai dunya waaloṅ zulm se nafrat ka aelaan
+  Majlis kya hai Shah se mohabbat aur aqidat ka aelaan
 
   1
-  Haq kya hai aur baatil kya hai kufr hai kya islam hai kya
-  Karbobala mein sheh ne kiya hai sab ki haqeeqat ka aelaan
+  Haq kya hai aur baatil kya hai kufr hai kya Islam hai kya
+  Karbobala mein Shah ne kiya hai sab ki haqiqat ka aelaan
 
   2
-  Boj gunahon ka bhi bada to fikr nahi ha roz e jaza
-  Ashke ghame sheh pe karenge apni shafa'at ka aelaan
+  Bojh gunaahoṅ ka bhi bara to fikr nahiṅ ha roz-e-jaza
+  Ashk-e-gham-e-Shah pe kareṅge apni shafaaat ka aelaan
 
   3
-  Kufr ki koshish hai ye musalsal zikre shahe deen mit jaaye
-  Zikre shahe deen mit nahi sakta hai ye mashiyat ka aelaan
+  Kufr ki koshish hai ye musalsal zikr-e-Shaah-e-din mit jaaye
+  Zikr-e-Shaah-e-din mit nahiṅ sakta hai ye mashiyat ka aelaan
 
   4
-  Cheen liya abbas ne darya phir bhi labon ko tar na kiya
-  Tashna labi ke saath kiya hai apni shuja'at ka aelaan
+  Chhin liya Abbas ne darya phir bhi laboṅ ko tar na kiya
+  Tashna labi ke saath kiya hai apni shujaaat ka aelaan
 
   5
-  Nargha e aada mein bhi hua ek hashr bapa kohraam macha
-  Asghar ke honton pe tabassum aakh e qayamat ka aelaan
+  Nargha-e-aada mein bhi hua ek hashr bapa kohraam macha
+  Asghar ke hoṅtoṅ pe tabassum aakh-e-qayaamat ka aelaan
 
   6
-  Chup na sakega khoon e shaheedan taaba qayamat zainab ne
-  Shaam ke bazaaron mein kiya is tarha shahadat ka aelaan
+  Chhup na sakega khun-e-shahidaaṅ taaba qayaamat Zainab ne
+  Shaam ke baazaaroṅ mein kiya is tarah shahaadat ka aelaan
 
   7
-  Maqtal mein jab sheh ne pukara hai koi meri nusrat ko
-  Gir gaye jhoole se asghar ye sun ke imamamt ka aelaan
+  Maqtal mein jab Shah ne pukaara hai koi meri nusrat ko
+  Gir gaye jhule se Asghar ye sun ke imaamat ka aelaan
 
   8
-  Karbobala waalon ki kahani hum ko bataati hai urooj
-  Sibte nabi ne phir se kiya hai deen o shariyat ka aelaan
+  Karbobala waaloṅ ki kahaani hum ko bataati hai Uruj
+  Sibt-e-Nabi ne phir se kiya hai din o shariat ka aelaan
 # source_id: nohayonline:551a4f213459d024aa96
 # source_url: https://www.nohayonline.com/details_content.php?id=3462
 # raw_sha256: f2eb1022768175c538abc45f3ab9d1e096a1ce40d21c30b7edde7d3b85071779
@@ -53,7 +54,7 @@ romanLyrics: |-
 
 ۱
 حق کیا ہے اور باطل کیا ہے کفر ہے کیا اسلام ہے کیا
-کربوبلا میں نے کیا ہے سب کی حقیقت شہ کا اعلان
+کربوبلا میں شہ نے کیا ہے سب کی حقیقت کا اعلان
 
 ۲
 بوجھ گناہوں کا بھی بڑا تو فکر نہیں ہر روز جزا
@@ -68,7 +69,7 @@ romanLyrics: |-
 تشنہ لبی کے ساتھ کیا ہے اپنی شجاعت کا اعلان
 
 ۵
-نرغہء اعدا میں بھی ہوا ایک حشر بپا کہرام مچا
+نرغۂ اعدا میں بھی ہوا ایک حشر بپا کہرام مچا
 اصغر کے ہونٹوں پہ تبسم عق قیامت کا اعلان
 
 ۶
@@ -76,8 +77,8 @@ romanLyrics: |-
 شام کے بازاروں میں کیا اس طرح شہادت کا اعلان
 
 ۷
-مقتل میں جب شہ نے پکارا ہے کوی میری نصرت کو
-گر گےء جھولے سے اصغر یہ سن کے امامت کا اعلان
+مقتل میں جب شہ نے پکارا ہے کوئی میری نصرت کو
+گر گئے جھولے سے اصغر یہ سن کے امامت کا اعلان
 
 ۸
 کربوبلا والوں کی کہانی ہم کو بتاتی ہے عروج

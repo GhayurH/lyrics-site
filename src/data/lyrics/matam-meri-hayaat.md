@@ -1,68 +1,69 @@
 ---
 title: "ماتم میری حیات تبرک میری غذا"
-alternateTitle: "Matam Meri Hayaat"
+alternateTitle: "Maatam Meri Hayaat"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hasan Mizaj"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Matam meri hayaat tabarruk meri ghiza
-  Zinda mera wujood hai karbobala ke saath
+  Maatam meri hayaat tabarruk meri ghiza
+  Zinda mera wujud hai Karbobala ke saath
 
   1
-  Sadiyon se ab bhi jaari hai matam ka silsila
-  Zulm o jafa bujha na sake shamma e aza
+  Sadiyoṅ se ab bhi jaari hai maatam ka silsila
+  Zulm o jafa bujha na sake shama-e-aza
   Jalta hai ye charaagh hamesha hawa ke saath
 
   2
-  Is matam e hussain ke ghazi hai sayeban
-  Raushan alam se ho gayi tareek bastiyan
-  Ahle aza azal se hai shaah e wafa ke saath
+  Is maatam-e-Husain ke Ghaazi haiṅ saayabaaṅ
+  Raushan alam se ho gayi taarik bastiyaaṅ
+  Ahl-e-aza azal se haiṅ Shaah-e-wafa ke saath
 
   3
-  Phir khauf e maut rehta hai unko bhala kahan
-  Jo zayareen jaate hai behre mashi wahan
-  Dete hai rizq aaj bhi maula sakha ke saath
+  Phir khauf-e-maut rehta hai un ko bhala kahaaṅ
+  Jo zaaerin jaate haiṅ bahr-e-mashi wahaaṅ
+  Dete haiṅ rizq aaj bhi Maula sakha ke saath
 
   4
-  Mashkeeza jaise parcham e ghazi ke saath hai
-  Kaaba khuda ka jaise namazi ke saath hai
-  Bas yuhin zayareen hai khaak e shifa ke saath
+  Mashkiza jaise parcham-e-Ghaazi ke saath hai
+  Kaaba Khuda ka jaise namaazi ke saath hai
+  Bas yuṅhi zaaerin haiṅ khaak-e-shifa ke saath
 
   5
-  Hum ko sitam shiyaar bhala kya mitayenge
-  Bid’at ke fatwe ashkon mein sab doob jayenge
-  Jeete hai hum to maadar e sheh ki dua ke saath
+  Hum ko sitam shiaar bhala kya mitaayeṅge
+  Bidat ke fatwe ashkoṅ mein sab dub jaayeṅge
+  Jite haiṅ hum to maadar-e-Shah ki dua ke saath
 
   6
-  Pani tawaaf karta hai ghazi ki qabr ka
-  Kaaba ho goya qabr sujaat ka sabr ka
-  Ye alqama ka rishta hai ab bhi wafa ke saath
+  Paani tawaaf karta hai Ghaazi ki qabr ka
+  Kaaba ho goya qabr shujaaat ka sabr ka
+  Ye Alqama ka rishta hai ab bhi wafa ke saath
 
   7
-  Zikre ghame husaain ka aejaz dekhiye
-  Kausar ko meri aankh pa hai naaz dekhiye
-  Chalki hui furaat hai ashq e aza ke saath
+  Zikr-e-gham-e-Husain ka aejaaz dekhiye
+  Kausar ko meri aaṅkh pe hai naaz dekhiye
+  Chhalki hui Furaat hai ashk-e-aza ke saath
 
   8
-  Har ek rang o nasl ke insan doston
-  Sabke dilon mein ek hai armaan doston
-  Ghazi bulale sab ko sahar ki hawa ke saath
+  Har ek rang o nasl ke insaan dostoṅ
+  Sab ke diloṅ mein ek hai armaan dostoṅ
+  Ghaazi bula le sab ko sahar ki hawa ke saath
 
   9
-  Aamir ko aur toosi ko karbobala mili
-  Taskeen e dard ke liye khaak e shifa mili
+  Aamir ko aur Tusi ko Karbobala mili
+  Taskin-e-dard ke liye khaak-e-shifa mili
   Gham bhi mila to hum ko mila hai dawa ke saath
 # source_id: nohayonline:75348763b22d8e2ea7ac
 # source_url: https://www.nohayonline.com/details_content.php?id=1281
 # raw_sha256: 2bee8804e4e0c68876f86ff25e1b91b4b5267aea41d740c88a7496524007d4fc
 ---
 ماتم میری حیات تبرک میری غذا
-زندہ میرے وجود ہے کربوبلا کے ساتھ
+زندہ میرا وجود ہے کربوبلا کے ساتھ
 
 ۱
 صدیوں سے اب بھی جاری ہے ماتم کا سلسلہ
@@ -70,24 +71,24 @@ romanLyrics: |-
 جلتا ہے یہ چراغ ہمیشہ ہوا کے ساتھ
 
 ۲
-اس ماتم حسین کے غازی ہے سایباں
-روشن الم سے ہو گیء تاریک بستیاں
-اہلِ عزا اذل سے ہے شاہ وفا کے ساتھ
+اس ماتم حسین کے غازی ہیں سائباں
+روشن علم سے ہو گئی تاریک بستیاں
+اہلِ عزا ازل سے ہیں شاہ وفا کے ساتھ
 
 ۳
 پھر خوف موت رہتا ہے ان کو بھلا کہاں
-جو زایرین جاتے ہیں بہر مشی وہاں
-دیتے ہے رزق آج بھی مولا سقہ کے ساتھ
+جو زائرین جاتے ہیں بہر مشی وہاں
+دیتے ہیں رزق آج بھی مولا سقہ کے ساتھ
 
 ۴
 مشکیزہ جیسے پرچم غازی کے ساتھ ہے
 کعبہ خدا کا جیسے نمازی کے ساتھ ہے
-بس یونہی زایرین ہے خاک شفا کے ساتھ
+بس یونہی زائرین ہیں خاک شفا کے ساتھ
 
 ۵
-ہم کو ستم شعار بھلا کیا مٹاےنگے
-بدعت کے فتوے آشکوں میں سب ڈوب جائیں گے
-جیتے ہے ہم تو مادر شہ کی دعا کے ساتھ
+ہم کو ستم شعار بھلا کیا مٹائیں گے
+بدعت کے فتوے اشکوں میں سب ڈوب جائیں گے
+جیتے ہیں ہم تو مادر شہ کی دعا کے ساتھ
 
 ۶
 پانی طواف کرتا ہے غازی کی قبر کا
@@ -95,9 +96,9 @@ romanLyrics: |-
 یہ علقمہ کا رشتہ ہے اب بھی وفا کے ساتھ
 
 ۷
-ذکرِ غمِ حسین کا اعجاز دیکھیےء
-کوثر کو میری آنکھ پہ ہے ناز دیکھیےء
-چھلکی ہوی فرات ہے آشک عزا کے ساتھ
+ذکرِ غمِ حسین کا اعجاز دیکھیے
+کوثر کو میری آنکھ پہ ہے ناز دیکھیے
+چھلکی ہوئی فرات ہے اشکِ عزا کے ساتھ
 
 ۸
 ہر ایک رنگ و نسل کے انسان دوستوں

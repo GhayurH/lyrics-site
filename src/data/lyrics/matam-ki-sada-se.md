@@ -1,55 +1,56 @@
 ---
 title: "ماتم کی صدا سے"
-alternateTitle: "Matam Ki Sada Se"
+alternateTitle: "Maatam Ki Sada Se"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Muhammad Zaki"
+reciter: "Ali Zia Rizvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Matam ki sada se
-  Soya hua ehsaas jagaya jaata hai
-  Jo aale nabi par guzri hai
-  Majlis may bataya jaata hai
+  Maatam ki sada se
+  Soya hua ehsaas jagaaya jaata hai
+  Jo Aal-e-Nabi par guzri hai
+  Majlis mein bataaya jaata hai
 
   1
-  Islam ke shehdayi seekhe
-  Yun deen bachaya jaata hai
-  Sar tan se kataya jaata hai
-  Ghar baar lutaya jaata hai
+  Islam ke shaidaai sikheṅ
+  Yuṅ din bachaaya jaata hai
+  Sar tan se kataaya jaata hai
+  Ghar baar lutaaya jaata hai
 
   2
-  Shabbir ne ye dikhlaya hai
-  Ghurbat may bhi saare aalam ko
-  Peeri may jawan ke laashe ko
-  Kis tarha uthaaya jaata hai
+  Shabbir ne ye dikhlaaya hai
+  Ghurbat mein bhi saare aalam ko
+  Piri mein jawaaṅ ke laashe ko
+  Kis tarah uthaaya jaata hai
 
   3
-  Sar tan se kata kar bhi logon
-  Hoti hai ibadat khaaliq ki
-  Ya noke sina ke mimbar se
-  Quran sunaya jaata hai
+  Sar tan se kata kar bhi logoṅ
+  Hoti hai ibaadat Khaaliq ki
+  Ya nok-e-sinaaṅ ke mimbar se
+  Quraan sunaaya jaata hai
 
   4
-  Qasim ki shahadat hote hi
-  Ek shab ki suhagan rand hui
-  Afsos ke ek ek choodi ko
-  Bewa ki badhaya jaata hai
+  Qaasim ki shahaadat hote hi
+  Ek shab ki suhaagan raand hui
+  Afsos ke ek ek churi ko
+  Bewa ki barhaaya jaata hai
 
   5
   Laasha na utha paaya na kafan
-  Wo jiski lahad bhi ban na saki
-  Har samt usi ka dunya may
-  Taboot uthaaya jaat hai
+  Wo jis ki lahad bhi ban na saki
+  Har samt usi ka dunya mein
+  Taabut uthaaya jaata hai
 
   6
-  Ye naqshe ghame sarwar hai zaki
-  Mitne ka nahi ye dunya se
-  Utna hi ubharta rehta hai
-  Jitna ke dabaya jaat hai
+  Ye naqsh-e-gham-e-Sarwar hai Zaki
+  Mitne ka nahiṅ ye dunya se
+  Itna hi ubharta rehta hai
+  Jitna ke dabaaya jaata hai
 # source_id: nohayonline:5e82a6782116214871e6
 # source_url: https://www.nohayonline.com/details_content.php?id=246
 # raw_sha256: 409a0232d1ca83f33de225f19ecf86049f5ff37a27f0f89760ccc5262d480cd2
