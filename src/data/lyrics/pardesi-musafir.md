@@ -1,84 +1,87 @@
 ---
-title: "ھل من ناصر ینصرنا"
+title: "ہل من ناصر ینصرنا"
 alternateTitle: "Pardesi Musafir"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Irfan Haider"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Halmin nasir yansuruna
-  Pardesi musafir ki purdard kahani hai
-  Kuch sehme huwe bacche behta hua pani hai
-  
+  Hal min naasir yansuruna
+
+  Pardesi musaafir ki purdard kahaani hai
+  Kuch sahme hue bachche bahta hua paani hai
+
   1
-  Ay karbobala tere daaman mein chupa kya kya
-  Bachpan ali asghar ka akbar ki jawani hai
-  
+  Ae Karb o Bala tere daaman mein chhupa kya kya
+  Bachpan Ali Asghar ka Akbar ki jawaani hai
+
   2
-  Taboot alam jhoola pani ki sabilein bhi
-  Jis simt nazar jaaye pyason ki nishani hai
-  
+  Taabut alam jhula paani ki sabileṅ bhi
+  Jis simt nazar jaaye pyaasoṅ ki nishaani hai
+
   3
-  Mansoob alam se jo ek mashke sakina hai
-  Ammu se bhatiji ki ulfat ki nishani hai
-  
+  Mansub alam se jo ek mashk-e-Sakina hai
+  Ammu se bhatiji ki ulfat ki nishaani hai
+
   4
-  Aansu na ruke logon shabbir ki majlis mein
-  Us ujde huwe gar ki yun yaad manani hai
-  
+  Aansu na ruke logoṅ Shabbir ki majlis mein
+  Us ujre hue ghar ki yuṅ yaad manaani hai
+
   5
-  Shabbir ye kehte thay mai kaise ijazat doon
-  Ay qasim tu mere bhai ki nishani hai
-  
+  Shabbir ye kahte the main kaise ijaazat duṅ
+  Ae Qasim tu mere bhai ki nishaani hai
+
   6
-  Ye laasha e akbar par laila ne kahan ro kar
-  Kyu khoon mein tar teri poshak shahani hai
-  
+  Ye laasha-e-Akbar par Laila ne kahaaṅ ro kar
+  Kiuṅ khun mein tar teri poshaak shaahaani hai
+
   7
-  Dete thay sada sarwar abbas chale aao
-  Mayyat ali akbar ki ab mujko uthani hai
-  
+  Dete the sada Sarwar Abbas chale aao
+  Mayyat Ali Akbar ki ab mujh ko uthaani hai
+
   8
-  Rota hai falak ab tak shabbir tere gham mein
-  Dunya ye samajti hai barsaat ka pani hai
-  
+  Rota hai falak ab tak Shabbir tere gham mein
+  Duniya ye samajhti hai barsaat ka paani hai
+
   9
-  Sheh bole behan zainab zindan se reha ho kar
-  Rudaad e sitam jaa kar amma ka sunani hai
-  
+  Shah bole behan Zainab zindaaṅ se riha ho kar
+  Rudaad-e-sitam jaa kar amma ka sunaani hai
+
   10
-  Ay mere khuda tujhse har waqt dua ye hai
-  Maula ki safe matam har ghar mein bichani hai
-  
+  Ae mere Khuda tujh se har waqt dua ye hai
+  Maula ki saf-e-maatam har ghar mein bichhaani hai
+
   11
-  Shabbir ke rauze par mazhar ka padhun nauha
-  Irfan meri maa ne maannat yehi maani hai
+  Shabbir ke rauze par Mazhar ka parhuṅ nauha
+  Irfan meri maaṅ ne mannat yahi maani hai
 # source_id: nohayonline:f15dcacb2d1cd1093a2b
 # source_url: https://www.nohayonline.com/details_content.php?id=3201
 # raw_sha256: 502060ebae7008de9dbcf7e79a285ee19e4592441262add386eb0b4242cdb239
 ---
-ھل من ناصر ینصرنا
+ہل من ناصر ینصرنا
+
 پردیسی مسافر کی پردرد کہانی ہے
 کچھ سہمے ہوئے بچے بہتا ہوا پانی ہے
 
 ۱
-اے کربوبلا تیرے دمن میں چھپا کیا کیا
+اے کرب و بلا تیرے دامن میں چھپا کیا کیا
 بچپن علی اصغر کا اکبر کی جوانی ہے
 
 ۲
-تابوت الم جھولا پانی کی سبیلیں بھی
-جس سمت نظر جاے پیاسوں کی نشانی ہے
+تابوت علم جھولا پانی کی سبیلیں بھی
+جس سمت نظر جائے پیاسوں کی نشانی ہے
 
 ۳
-منصوب الم سے جو ایک مشک سکینہ ہے
+منسوب علم سے جو ایک مشک سکینہ ہے
 عمو سے بھتیجی کی الفت کی نشانی ہے
 
 ۴
-آنسوں نہ رکے لوگوں شبیر کی مجلس میں
+آنسو نہ رکے لوگوں شبیر کی مجلس میں
 اس اجڑے ہوئے گھر کی یوں یاد منانی ہے
 
 ۵
@@ -91,7 +94,7 @@ romanLyrics: |-
 
 ۷
 دیتے تھے صدا سرور عباس چلے آؤ
-میت علی اکبر کی اب مجھکو اٹھانی ہے
+میت علی اکبر کی اب مجھ کو اٹھانی ہے
 
 ۸
 روتا ہے فلک اب تک شبیر تیرے غم میں
@@ -99,12 +102,12 @@ romanLyrics: |-
 
 ۹
 شہ بولے بہن زینب زنداں سے رہا ہو کر
-روداد ستم جا کر عمو کا سنانی ہے
+رودادِ ستم جا کر عمو کا سنانی ہے
 
 ۱۰
 اے میرے خدا تجھ سے ہر وقت دعا یہ ہے
-مولا کی صف ماتم ہر گھر میں بچھانی ہے
+مولا کی صفِ ماتم ہر گھر میں بچھانی ہے
 
 ۱۱
 شبیر کے روضے پر مظہر کا پڑھوں نوحہ
-عرفان میری ماں نے مانت یہی مانی ہے
+عرفان میری ماں نے منت یہی مانی ہے

@@ -1,44 +1,45 @@
 ---
-title: پردیسی کنبے والوں کی یاد جو تیر چھبھوتی ہے
+title: پردیسی کنبے والوں کی یاد جو تیر چبھوتی ہے
 alternateTitle: Pardesi Kunbe Walon
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
+reciter: Ashraf Abbas
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Pardesi kunbay walon ki yad jo teer chubhoti hay
-  Nana ke rozay par Sughra chupkay chupkay roti hay
-  
+  Pardesi kunbe waloṅ ki yaad jo tir chubhoti hai
+  Naana ke rauze par Sughra chupke chupke roti hai
+
   1
-  Aanay walay bhai ka rasta takhti hay beemar behan
-  Bhai ki majboor jawani barchi khaye soti hay
-  
+  Aane wale bhai ka rasta takti hai bimaar behan
+  Bhai ki majbur jawaani barchhi khaaye soti hai
+
   2
-  Ay shehzadi qasim o akbar ab na milenge qasid ko
-  Darwaze pe aas lagaye na-haq pehron roti hai
-  
+  Ae shahzaadi Qasim o Akbar ab na mileṅ ge qaasid ko
+  Darwaaze pe aas lagaaye naahaq pahroṅ roti hai
+
   3
-  Akbar ki shadi ki tamanna haey muqaddar Sughra ka
-  Sehray ki larryan to nahi ashkon ke baal piroti hay
-  
+  Akbar ki shaadi ki tamanna haaye muqaddar Sughra ka
+  Sehre ki lariyaṅ to nahiṅ ashkoṅ ke baal piroti hai
+
   4
-  Kis ka rona kaisay aansoo ashray ke din asr ke baad
-  Sughra apnay rukhsaron se gard e yateemi dhoti hay
-  
+  Kis ka rona kaise aansu ashre ke din asr ke baad
+  Sughra apne rukhsaaroṅ se gard-e-yatimi dhoti hai
+
   5
-  Baap ke seenay par soti thi wo bhi aik zamana tha
-  Aik zamana ye hay Sakina khaak ke ooper soti hay
-  
+  Baap ke sine par soti thi wo bhi ek zamaana tha
+  Ek zamaana ye hai Sakina khaak ke upar soti hai
+
   6
-  Jis ne ummat ki rahon may farsh bichaya pholon ka
-  Ummat us ke beemaron ki raah may kantay boti hay
-  
+  Jis ne ummat ki raahoṅ mein farsh bichhaaya phuloṅ ka
+  Ummat us ke bimaaroṅ ki raah mein kaante boti hai
+
   7
-  Abr e khaali daman ko Salman kabhi khali nah kaho
-  Yaad e shaheed e Karb o bala may har aansso ik moti hay
+  Abr-e-khaali daaman ko Salman kabhi khaali na kaho
+  Yaad-e-shahid-e-Karb o Bala mein har aansu ik moti hai
 # source_id: nohayonline:13e46e3f208eb299723c
 # source_url: https://www.nohayonline.com/details_content.php?id=3536
 # raw_sha256: a8da4afb5abf36adee9ce027cc77d80fe68bbf8318a2c84e37e743cee9073eff
@@ -46,28 +47,29 @@ romanLyrics: |-
 # source_url: https://www.ziyaraat.net/api/noha/2304
 # raw_sha256: 08e8ac02c6053e588b5e04ca505a3519d2676bf1eee4a5fe3b9b9b2002388654
 # added_stanza_source: roman:kalam-nohayonline-13e46e3f208eb299723c
+# stanza_7_source: ziyaraat:044ae900c9b2c99cccdb
 ---
-پردیسی کنبے والوں کی یاد جو تیر چھبھوتی ہے
+پردیسی کنبے والوں کی یاد جو تیر چبھوتی ہے
 نانا کے روضے پہ صغرا چپکے چپکے روتی ہے
 
 ۱
-آنے والے بھای کا رستہ تکتی ہے بیمار بہن
-بھای کی مجبور جوانی نیزہ کھاے سوتی ہے
+آنے والے بھائی کا رستہ تکتی ہے بیمار بہن
+بھائی کی مجبور جوانی نیزہ کھائے سوتی ہے
 
 ۲
 اے شہزادی قاسم و اکبر اب نہ ملیں گے قاصد کو
-دروازے پہ آس لگائے نا حق پہروں روتی ہے
+دروازے پہ آس لگائے ناحق پہروں روتی ہے
 
 ۳
-اکبر کی شادی کی تمنا ہاے مقدر صغرا کا
+اکبر کی شادی کی تمنا ہائے مقدر صغرا کا
 سہرے کی لڑیاں تو نہیں اشکوں کے ہار پروتی ہے
 
 ۴
-کیسا رونا کیسے آنسوں عشرے کے دن عصر کے بعد
-صغرا اپنے رخساروں سے گرد یتیمی دھوتی ہے
+کیسا رونا کیسے آنسو عشرے کے دن عصر کے بعد
+صغرا اپنے رخساروں سے گردِ یتیمی دھوتی ہے
 
 ۵
-باپ کے سینے پر سوتی تھی ایک زمانا وہ بھی تھا
+باپ کے سینے پر سوتی تھی ایک زمانہ وہ بھی تھا
 ایک زمانہ یہ ہے سکینہ فرش زمیں پر سوتی ہے
 
 ۶

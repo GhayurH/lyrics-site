@@ -1,38 +1,39 @@
 ---
-title: "پردیس میں زہر سے مارا نقی ہے کو"
+title: "پردیس میں زہر سے مارا ہے نقی کو"
 alternateTitle: "Pardes Mein Zehr Se"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ishrat Bilgrami"
+reciter: "Ishrat Bilgrami"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Pardes mein zehr se maara hai naqi ko
-  Jis tarha is se pehle raza aur taqi ko
+  Pardes mein zehr se maara hai Naqi ko
+  Jis tarah is se pehle Raza aur Taqi ko
 
   1
-  Cheh saal umr thi ke huwe baap se juda
-  Zaalim ne kamsini mein rakha qaid naqi ko
+  Chhe saal umr thi ke hue baap se juda
+  Zaalim ne kamsini mein rakha qaid Naqi ko
 
   2
-  Masoom ko layeen ne bulaya iraq mein
-  Phir tauq e salaasil mein rakha maula naqi ko
+  Maasum ko laiṅ ne bulaaya Iraq mein
+  Phir tauq-e-salaasil mein rakha Maula Naqi ko
 
   3
-  Haye haye yateem saamra mein chod kar gaye
-  Khud askari ne ghusl diya baba naqi ko
+  Haaye haaye yatim Saamra mein chhor kar gaye
+  Khud Askari ne ghusl diya baaba Naqi ko
 
   4
-  Ishrat ko wo kalaam ata kijiye imam
-  Saamra jaa ke pesh kare khud wo naqi ko
+  Ishrat ko wo kalaam ata kijiye Imam
+  Saamra jaa ke pesh kare khud wo Naqi ko
 # source_id: nohayonline:a202baaf3e86b05be367
 # source_url: https://www.nohayonline.com/details_content.php?id=1299
 # raw_sha256: 5fdf868b3e9ae5899787903363906fac55ffd58d5d6c8f01ccc7acd31fcdf8e7
 ---
-پردیس میں زہر سے مارا نقی ہے کو
+پردیس میں زہر سے مارا ہے نقی کو
 جس طرح اس سے پہلے رضا اور تقی کو
 
 ۱
@@ -41,7 +42,7 @@ romanLyrics: |-
 
 ۲
 معصوم کو لعیں نے بلایا عراق میں
-پھر طوق سلاسل میں رکھا مولا نقی کو
+پھر طوقِ سلاسل میں رکھا مولا نقی کو
 
 ۳
 ہائے ہائے یتیم سامرہ میں چھوڑ کر گئے
