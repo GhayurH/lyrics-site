@@ -1,64 +1,65 @@
 ---
 title: "قتل الحسین و بے کربلا"
-alternateTitle: "Qatl Ul Hussain"
+alternateTitle: "Qatl Ul Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Aarzoo"
+poet: "Aarzu"
+reciter: "Tabligh-e-Imamia"
 tags: ["noImage"]
-aliases: []
+aliases: ["Qatl Ul Hussain"]
 published: false
 romanLyrics: |-
-  Qutl al hussain o be karbala
-  
+  Qutl al Husain o be Karbala
+
   1
-  Chala karbala se jo khaafila
+  Chala Karbala se jo qaafila
   Hua jab nazara tha hashr ka
-  Kahin sar kate kahin ghar luta
-  Khule sar ye kehti thi fatema
-  
+  Kahiṅ sar kate kahiṅ ghar luta
+  Khule sar ye kehti thi Fatema
+
   2
-  Kahin barchiyon se chida jigar
-  Kahin sar bureeda thay do pisar
-  Thay kahin imam bhi nauhagar
-  Yehi shor tha sar e alqama
-  
+  Kahiṅ barchhiyoṅ se chhida jigar
+  Kahiṅ sar burida the do pisar
+  The kahiṅ Imam bhi nohagar
+  Yehi shor tha sar-e-Alqama
+
   3
-  Dil e mustafa ko thi bekali
-  Saf e ambiya mein thi khalbali
-  Hua zibha jab pisar e ali
-  Sar e arsh goonji yehi sada
-  
+  Dil-e-Mustafa ko thi bekali
+  Saf-e-ambiya mein thi khalbali
+  Hua zibh jab pisar-e-Ali
+  Sar-e-arsh gunji yehi sada
+
   4
-  Kahin teer nikle kamaan se
-  Kahin khoon behta tha kaan se
-  Kahin hont tar thay zaban se
-  Kahin bediyon ki thi ye sada
-  
+  Kahiṅ tir nikle kamaan se
+  Kahiṅ khun behta tha kaan se
+  Kahiṅ hoṅt tar the zabaan se
+  Kahiṅ beriyoṅ ki thi ye sada
+
   5
-  Kahin jibraeel thay sar nigoon
-  Kahin ahle arsh thay be-sukoon
-  Mai bayan ye kaise ye gham karun
-  Mere saath rote hai ambiya
-  
+  Kahiṅ Jibrail the sar niguṅ
+  Kahiṅ ahl-e-arsh the besukuṅ
+  Main bayaaṅ ye kaise ye gham karuṅ
+  Mere saath rote haiṅ ambiya
+
   6
   Yehi kehta phirta tha har shaqi
-  Churi halq e shaah pe chal gayi
-  Na ho lootne merin zara kami
-  Yahan maal o zar ki kami hai kya
-  
+  Chhuri halq-e-Shaah pe chal gayi
+  Na ho lutne merin zara kami
+  Yahaaṅ maal o zar ki kami hai kya
+
   7
-  Thi janabe sughra ba chashme tar
+  Thi Janaab-e-Sughra ba chashm-e-tar
   Na mili thi baba ki kuch khabar
-  Hua jab rawana suye safar
-  To basheer kehta hua chala
-  
+  Hua jab rawaana su-e-safar
+  To Bashir kehta hua chala
+
   8
-  Meri aankh roti hai aarzoo
-  Inhi aansuon se hoon surkh roo
-  Mujhe karbala ki hai justuju
-  Jahan mai padhun yehi marsiya
+  Meri aaṅkh roti hai Aarzu
+  Inhi aaṅsuoṅ se huṅ surkh ru
+  Mujhe Karbala ki hai justuju
+  Jahaaṅ main parhuṅ yehi marsiya
 # source_id: nohayonline:88a0656aa2284fcc55e4
 # source_url: https://www.nohayonline.com/details_content.php?id=3470
 # raw_sha256: b8c15d01eacaf76f790d91bda46e7fb3367c962ec59db48116d3892310f6a9c0
@@ -80,7 +81,7 @@ romanLyrics: |-
 
 ۳
 دل مصطفیٰ کو تھی بیکلی
-صف انبیاء میں تھی کھل بلی
+صف انبیاء میں تھی کھلبلی
 ہوا ذبح جب پسر علی
 سر عرش گونجی یہی صدا
 
@@ -91,15 +92,15 @@ romanLyrics: |-
 کہیں بیڑیوں کی تھی یہ صدا
 
 ۵
-کہیں جبرییل تھے سر نگوں
+کہیں جبرئیل تھے سر نگوں
 کہیں اہل عرش تھے بے سکوں
 میں بیاں یہ کیسے یہ غم کروں
 میرے ساتھ روتے ہیں انبیاء
 
 ۶
 یہی کہتا پھرتا تھا ہر شقی
-چھری حلق شاہ پہ چل گیء
-نہ ہو لوٹنے میری زرا کمی
+چھری حلق شاہ پہ چل گئی
+نہ ہو لوٹنے میری ذرا کمی
 یہاں مال و زر کی کمی ہے کیا
 
 ۷
