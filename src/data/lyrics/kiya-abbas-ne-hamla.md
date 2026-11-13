@@ -6,69 +6,70 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mahir Lakhnavi"
+reciter: "Faazil Lakhnavi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kiya abbas ne hamla
-  
+  Kiya Abbas ne hamla
+  Sar-e-saahil wafa chamki
+  Kaha lashkar ne bhaago
+  Barq-e-nur-e-Murtaza chamki
+
   1
-  Sare saahil wafa chamki
-  Kaha lashkar ne bhago
-  Barqe noore murtaza chamki
-  Adoo bhi dekh kar abbas ko
-  Aapas mein kehte thay
-  Jala daalegi saahil ko
+  Adu bhi dekh kar Abbas ko
+  Aapas mein kehte the
+  Jala daale gi saahil ko
   Jo ye bijli zara chamki
-  
+
   2
-  Sada e laa'fata se
-  Aaya e tatheer tak suniye
-  Ali ki taygh ran mein
-  Ghar mein zehra ki rida chamki
-  
+  Sada-e-la fata se
+  Aaya-e-tathir tak suniye
+  Ali ki tegh ran mein
+  Ghar mein Zehra ki rida chamki
+
   3
-  Gira azraq bhi marhab ki tarha
-  Ghode se do ho kar
-  Hassan ke laal ki talwar jab
-  Naame khuda chamki
-  
+  Gira Azraq bhi Marhab ki tarah
+  Ghore se do ho kar
+  Hasan ke laal ki talwaar jab
+  Naam-e-Khuda chamki
+
   4
-  Bana deewar mein dar
-  Buth giray taaqon se kaabe ke
-  Haram mein barq e noor e hyderi
+  Bana diwaar mein dar
+  But gire taaqoṅ se Kaabe ke
+  Haram mein barq-e-nur-e-Haidari
   Be inteha chamki
-  
+
   5
-  Ada jo zer e khanjar ho gaya
-  Us ek sajde se
+  Ada jo zer-e-khanjar ho gaya
+  Us ik sajde se
   Falak sharma gaya
-  Aisi zameen e karbala chamki
-  
+  Aisi zamin-e-Karbala chamki
+
   6
-  Jagah dene lage ahle nazar
-  Dil mein salaamon ko
-  Tere ash'aar mein mahir
-  Jo saalik ki ada chamki
+  Jagah dene lage ahl-e-nazar
+  Dil mein salaamoṅ ko
+  Tere ashaar mein Mahir
+  Jo Saalik ki ada chamki
 # source_id: nohayonline:dc46368759186377af4a
 # source_url: https://www.nohayonline.com/details_content.php?id=1215
 # raw_sha256: 07d6de5340a4c40fcd5b72b08cc1619e046f88760060385384be4e107c54a5f1
 ---
 
 کیا عباس نے حملہ
-
-۱
 سر ساحل وفا چمکی
 کہا لشکر نے بھاگو
-برق نور مرتظی چمکی
+برق نور مرتضیٰ چمکی
+
+۱
 عدو بھی دیکھ کر عباس کو
 آپس میں کہتے تھے
 جلا ڈالے گی ساحل کو
-جو یہ بجلی زرا چمکی
+جو یہ بجلی ذرا چمکی
 
 ۲
-صداے لافتی سے
-آیہء تطہیر تک سنیےء
+صدائے لا فتیٰ سے
+آیۂ تطہیر تک سنیے
 علی کی تیغ رن میں
 گھر میں زہرا کی ردا چمکی
 
@@ -91,7 +92,7 @@ romanLyrics: |-
 ایسی زمین کربلا چمکی
 
 ۶
-جگہ دینے لگے أہل نظر
+جگہ دینے لگے اہل نظر
 دل میں سلاموں کو
 تیرے اشعار میں ماہر
 جو سالک کی ادا چمکی

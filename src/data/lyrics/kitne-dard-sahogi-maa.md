@@ -1,63 +1,72 @@
 ---
 title: "رو رو کر سرور کا ہے نوحہ"
-alternateTitle: "Kitne Dard Sahogi Maa"
+alternateTitle: "Kitne Dard Sahogi Maaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mubarak Jalalpuri"
+reciter: "Irfan Husain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ro ro kar sarwar ka hai nauha
-  Kitne dard sahogi maa
-  Qam hai kamar aur pehlu shikasta
-  
+  Ro ro kar Sarwar ka hai noha
+  Kitne dard saho gi maaṅ
+  Kham hai kamar aur pehlu shikasta
+  Kitne dard saho gi maaṅ
+
   1
-  Saans bhi lena hogaya duubhar
-  Tooti phasli lagti hai dil par
-  Gham se alood hai aap ka chehra
-  
+  Saaṅs bhi lena ho gaya dubhar
+  Tuti pasli lagti hai dil par
+  Gham se aalud hai aap ka chehra
+  Kitne dard saho gi maaṅ
+
   2
-  Baith ke ab padti hai namazein
-  Nauha kuna hai aahein karahein
-  Neend aati hi nahi ek lamha
-  
+  Baith ke ab parhti hai namaazeṅ
+  Noha kunaṅ hai aaheṅ karaaheṅ
+  Nind aati hi nahiṅ ek lamha
+  Kitne dard saho gi maaṅ
+
   3
-  Kya kare zahra haye haye
-  Kis se kitne zakhm chupaye
-  Karte rahe shabbir ye girya
-  
+  Kya kare Zahra haaye haaye
+  Kis se kitne zakhm chhupaaye
+  Karte rahe Shabbir ye girya
+  Kitne dard saho gi maaṅ
+
   4
-  Lakhte jigar is deen ko bachane
-  Jaoge pardes basane
-  Hoga wahan bhi tera nauha
-  
+  Lakht-e-jigar is diṅ ko bachaane
+  Jaao ge pardes basaane
+  Hoga wahaaṅ bhi tera noha
+  Kitne dard saho gi maaṅ
+
   5
-  Bole sheh jab zeen se girunga
-  Amma mai teeron pe rahunga
-  Degi sada phir halq e bureeda
-  
+  Bole Shah jab ziṅ se giruṅ ga
+  Ammaṅ main tiroṅ pe rahuṅ ga
+  Degi sada phir halq-e-burida
+  Kitne dard saho gi maaṅ
+
   6
-  Zehra ki aghosh ka paala
-  Tadpa kar maara jayega
-  Mujhpe hasega lashkare aada
-  
+  Zehra ki aaghosh ka paala
+  Tarpa kar maara jaaye ga
+  Mujh pe haṅse ga lashkar-e-aada
+  Kitne dard saho gi maaṅ
+
   7
-  Bache mere pyase hi rahenge
-  Barchiyan seeno par khayenge
-  Jab ke nikalunga mai naiza
-  
+  Bachche mere pyaase hi raheṅ ge
+  Barchhiyaaṅ sinoṅ par khaayeṅ ge
+  Jab ke nikaaluṅ ga main neza
+  Kitne dard saho gi maaṅ
+
   8
-  Kaise mubarak likhe masayib
-  Gham bhi hai irfan ajayeb
+  Kaise Mubarak likhe masaaib
+  Gham bhi hai Irfan ajaaib
   Karbobala mein kaun hai kehta
 
   9
-  Sunte sunte mar gayi bibi
-  Thaame hue kuch tooti hui phasli
-  Kehta raha haye ek bacha
+  Sunte sunte mar gayi Bibi
+  Thaame hue kuchh tuti hui pasli
+  Kehta raha haaye ek bachcha
 # source_id: nohayonline:552b2f29791de197c779
 # source_url: https://www.nohayonline.com/details_content.php?id=1182
 # raw_sha256: 4bf25775db6ae730204a2f26439d8fc008d7b001a723ee4ddd27b7e1f372ee93
@@ -66,41 +75,49 @@ romanLyrics: |-
 رو رو کر سرور کا ہے نوحہ
 کتنے درد سہو گی ماں
 خم ہے کمر اور پہلو شکستہ
+کتنے درد سہو گی ماں
 
 ۱
-سانس بھی لینا ہوگیا دو بھر
+سانس بھی لینا ہو گیا دوبھر
 ٹوٹی پسلی لگتی ہے دل پر
 غم سے آلود ہے آپ کا چہرہ
+کتنے درد سہو گی ماں
 
 ۲
-بیٹھ کے اب پڑتی ہے نمازیں
+بیٹھ کے اب پڑھتی ہے نمازیں
 نوحہ کناں ہے آہیں کراہیں
 نیند آتی ہی نہیں ایک لمحہ
+کتنے درد سہو گی ماں
 
 ۳
-کیا کرے زہرا ہاے ہاے
-کس سے کتنے زخم چھپاے
+کیا کرے زہرا ہائے ہائے
+کس سے کتنے زخم چھپائے
 کرتے رہے شبیر یہ گریہ
+کتنے درد سہو گی ماں
 
 ۴
 لختِ جگر اس دیں کو بچانے
 جاؤ گے پردیس بسانے
-ہوگا وہاں بھی تیرا نوحہ
+ہو گا وہاں بھی تیرا نوحہ
+کتنے درد سہو گی ماں
 
 ۵
 بولے شہ جب زیں سے گروں گا
 اماں میں تیروں پہ رہوں گا
-دیگی صدا پھر حلق بریدہ
+دے گی صدا پھر حلق بریدہ
+کتنے درد سہو گی ماں
 
 ۶
 زہرا کی آغوش کا پالا
-تڑپا کر مارا جاے گا
+تڑپا کر مارا جائے گا
 مجھ پہ ہنسے گا لشکر اعدا
+کتنے درد سہو گی ماں
 
 ۷
 بچے میرے پیاسے ہی رہیں گے
-برچیاں سینوں پر کھاےنگے
+برچھیاں سینوں پر کھائیں گے
 جب کہ نکالوں گا میں نیزہ
+کتنے درد سہو گی ماں
 
 ۸
 کیسے مبارک لکھے مصائب
@@ -108,6 +125,6 @@ romanLyrics: |-
 کربوبلا میں کون ہے کہتا
 
 ۹
-سنتے سنتے مر گیء بی بی
-تھامے ہوے کچھ ٹوٹی ہوئ پسلی
-کہتا رہا ہاے ایک بچہ
+سنتے سنتے مر گئی بی‌بی
+تھامے ہوئے کچھ ٹوٹی ہوئی پسلی
+کہتا رہا ہائے ایک بچہ
