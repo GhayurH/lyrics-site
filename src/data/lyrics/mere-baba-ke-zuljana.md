@@ -6,60 +6,61 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jab karbobala mein sare shabbir kata
-  Zuljana e shahe wala bhi buka karta raha
-  Uske bhi teer lage baah kati zeen dhala
-  Aise aalam mein suye qaima e shabbir chala
+  Jab Karbobala mein sar-e-Shabbir kata
+  Zuljanaah-e-Shah-e-waala bhi buka karta raha
+  Us ke bhi tir lage baah kati zin dhala
+  Aise aalam mein su-e-khaima-e-Shabbir chala
+  Dekh kar us ko Sakina bhi fughaaṅ karne lagi
+  Haye baag ghore ki pakar kar ye bayaaṅ karne lagi
 
   1
-  Dekh kar usko sakina bhi fughan karne lagi
-  Haye baag ghode ki pakad kar ye bayan karne lagi
-  Mere baba ke zuljana
-  Kya meri yateemi ki tu laaya hai khabar
+  Mere baba ke Zuljanaah
+  Kya meri yatimi ki tu laaya hai khabar
 
   2
-  Kar yaad ke samjhaya tha tujhko dame ruqsat
-  Kha jayegi is dil ko mere baap ki furqat
-  Mai roti rahi aur kiya tune safar
+  Kar yaad ke samjhaaya tha tujh ko dam-e-rukhsat
+  Khaa jaaye gi is dil ko mere baap ki furqat
+  Main roti rahi aur kiya tu ne safar
 
   3
-  Kehte thay tujhe baba mere asme wafadar
-  Ye kaisi wafa tune dikhayi mere ghamkhwar
-  Chod aaya unhe dashte bala mein kyunkar
+  Kehte the tujhe baba mere asme wafaadaar
+  Ye kaisi wafa tu ne dikhaai mere ghamkhwaar
+  Chhor aaya unheṅ dasht-e-bala mein kiuṅ kar
 
   4
-  Ye dekh mere baalon mein hai khaake yateemi
-  Ab seene pe har saans bhi dushwaar hai meri
-  Aankhon mein meri dekh zara gham ka asr
+  Ye dekh mere baaloṅ mein hai khaak-e-yatimi
+  Ab sine pe har saaṅs bhi dushwaar hai meri
+  Aankhoṅ mein meri dekh zara gham ka asar
 
   5
-  Mai roti rahi aur tujhe tars na aaya
+  Main roti rahi aur tujhe taras na aaya
   Le dekh mere sar se utha baap ka saaya
-  Seene pe mujhe kaun sulayega magar
+  Sine pe mujhe kaun sulaaye ga magar
 
   6
-  Ye khaake bayaban bani mera muqaddar
-  Ab cheen ke le jayenge bunde ye sitamgar
-  Hai daaghe yateemi hi aseeri ki khabar
+  Ye khaak-e-bayaabaaṅ bani mera muqaddar
+  Ab chhin ke le jaayeṅ ge bunde ye sitamgar
+  Hai daagh-e-yatimi hi asiri ki khabar
 
   7
-  Is khaak ke bistar pe mujhe sona padega
-  Kya neendh mujhe aayegi tune nahi socha
-  Jaagungi shab o roz yehi keh keh kar
+  Is khaak ke bistar pe mujhe sona pare ga
+  Kya nind mujhe aaye gi tu ne nahiṅ socha
+  Jaaguṅ gi shab o roz yahi keh keh kar
 
   8
-  Chaadare cheenenge layeen qaime jala kar
-  Ammu ko bulaungi kabhi baba ko rokar
-  Cheenenge udoo jab mere kaano se gohar
+  Chaadare chhineṅ ge laiṅ khaime jalaa kar
+  Ammu ko bulaauṅ gi kabhi baba ko ro kar
+  Chhineṅ ge adu jab mere kaanoṅ se gohar
 
   9
-  Ay shadman mazhar bhi likhe kaise wo manzar
-  Dam toda qalam ne bhi isi baat ko likh kar
-  Baba jo nahi hai to jiyun mai kyunkar
+  Ae Shadmaaṅ Mazhar bhi likhe kaise wo manzar
+  Dam tora qalam ne bhi isi baat ko likh kar
+  Baba jo nahiṅ hai to jiyuṅ main kiun kar
 # source_id: nohayonline:d6ddc8d6f82ed8442625
 # source_url: https://www.nohayonline.com/details_content.php?id=1059
 # raw_sha256: 59fc64aad4b3acd48b201b049b70e041c555ac9cd4db206400dbe9dc1efb6223
@@ -67,17 +68,17 @@ romanLyrics: |-
 جب کربوبلا میں سر شبیر کٹا
 ذوالجناح شہ والا بھی بکا کرتا رہا
 اسکے بھی تیر لگے باہ کٹی زین ڈھلا
-ایسے عالم میں سوۓ خیمہء شبیر چلا
-
-۱
+ایسے عالم میں سوئے خیمۂ شبیر چلا
 دیکھ کر اس کو سکینہ بھی فغاں کرنے لگی
 ہائے باگ گھوڑے کی پکڑ کر یہ بیاں کرنے لگی
+
+۱
 میرے بابا کے ذوالجناح
 کیا میری یتیمی کی تو لایا ہے خبر
 
 ۲
 کر یاد کہ سمجھایا تھا تجھکو دم رخصت
-کھا جاۓ گی اس دل کو میرے باپ کی فرقت
+کھا جائے گی اس دل کو میرے باپ کی فرقت
 میں روتی رہی اور کیا تونے سفر
 
 ۳
@@ -88,12 +89,12 @@ romanLyrics: |-
 ۴
 یہ دیکھ میرے بالوں میں ہے خاک یتیمی
 اب سینے پہ ہر سانس بھی دشوار ہے میری
-آنکھوں میں میری دیکھ زرا غم کا اثر
+آنکھوں میں میری دیکھ ذرا غم کا اثر
 
 ۵
 میں روتی رہی اور تجھے ترس نہ آیا
 لے دیکھ میرے سر سے اٹھا باپ کا سایہ
-سینے پہ مجھے کون سلاۓ گا مگر
+سینے پہ مجھے کون سلائے گا مگر
 
 ۶
 یہ خاک بیابان بنی میرا مقدر
@@ -102,7 +103,7 @@ romanLyrics: |-
 
 ۷
 اس خاک کے بستر پہ مجھے سونا پڑے گا
-کیا نیند مجھے آۓ گی تونے نہیں سونچا
+کیا نیند مجھے آئے گی تو نے نہیں سوچا
 جاگوں گی شب و روز یہی کہہ کہہ کر
 
 ۸

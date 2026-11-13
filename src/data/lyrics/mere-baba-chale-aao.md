@@ -5,42 +5,43 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sajid Jafri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Mere baba chale aao sakina yaad karti hai
-  Kabhi zindan mein roti hai kabhi faryad karti hai
+  Mere baba chale aao Sakina yaad karti hai
+  Kabhi zindaaṅ mein roti hai kabhi faryaad karti hai
 
   1
-  Andhera din ye chaaya hai ke bas mai hoo andhere mein
-  Raha na farq kuch shab ki siyaahi aur savere mein
-  Fughan masoom ki har dil yahan nashaad karti hai
+  Andhera din ye chhaaya hai ke bas main huṅ andhere mein
+  Raha na farq kuchh shab ki siyaahi aur savere mein
+  Fughaaṅ maasum ki har dil yahaaṅ naashaad karti hai
 
   2
-  Mai zindan ke andheron mein bhatak hi rahoo baba
-  Tumhari yaad mein rokar tadapti hi rahoo baba
-  Ghamon se aapki qurbat mujhe azad karti hai
+  Main zindaaṅ ke andheroṅ mein bhatak hi rahuṅ baba
+  Tumhaari yaad mein ro kar tarapti hi rahuṅ baba
+  Ghamoṅ se aap ki qurbat mujhe aazaad karti hai
 
   3
-  Chini hai baliyan kano se mere khoon tapakta hai
-  Tamache shimr ke khaati hoo dil seene mein rota hai
-  Naye mujh par sitam fauje sitam ejaad karti hai
+  Chhini hai baaliyaaṅ kaanoṅ se mere khuṅ tapakta hai
+  Tamaanche Shimr ke khaati huṅ dil sine mein rota hai
+  Naye mujh par sitam fauj-e-sitam ijaad karti hai
 
   4
-  Tumhe dekhe bina dil ko sukoon milta nahi baba
-  Charaghe ashk e gham jalta hai to bujhta nahi baba
-  Sakina ab andheron ka nagar aabad karti hai
+  Tumheṅ dekhe bina dil ko sukuṅ milta nahiṅ baba
+  Charaagh-e-ashk-e-gham jalta hai to bujhta nahiṅ baba
+  Sakina ab andheroṅ ka nagar aabaad karti hai
 
   5
-  Kabhi yaade ali asghar kabhi yaade ali akbar
-  Satati hai mujhe pyare chacha ki yaad reh reh kar
-  Bayan karbobala ki tay mein rudaad karti hai
+  Kabhi yaad-e-Ali Asghar kabhi yaad-e-Ali Akbar
+  Sataati hai mujhe pyaare chacha ki yaad reh reh kar
+  Bayaaṅ Karbobala ki tay mein rudaad karti hai
 
   6
-  Nahi aaye agar baba tadap kar jaan dedungi
-  Mai dadi jaan se khuld e bari mein jaake keh doongi
-  Buka mehboob masooma paye faryad karti hai
+  Nahiṅ aaye agar baba tarap kar jaan de duṅ gi
+  Main daadi jaan se khuld-e-bari mein jaa ke keh duṅ gi
+  Buka Mehboob maasuma paye faryaad karti hai
 # source_id: nohayonline:331fdf451f825ccec708
 # source_url: https://www.nohayonline.com/details_content.php?id=773
 # raw_sha256: 7a8d3dcfba9727a6ddc5f388e1b2ba32de1df7f57fb6919005c39e0a787374a9
@@ -56,24 +57,24 @@ romanLyrics: |-
 ۲
 میں زنداں کے اندھیروں میں بھٹک ہی رہوں بابا
 تمہاری یاد میں روکر تڑپتی ہی رہوں بابا
-غموں سے آپکی قربت مجھے آزاد کرتی ہے
+غموں سے آپ کی قربت مجھے آزاد کرتی ہے
 
 ۳
 چھنی ہے بالیاں کانوں سے میرے خوں ٹپکتا ہے
 طمانچے شمر کے کھاتی ہوں دل سینے میں روتا ہے
-نےء مجھ پر ستم فوج ستم ایجاد کرتی ہے
+نئے مجھ پر ستم فوجِ ستم ایجاد کرتی ہے
 
 ۴
 تمہیں دیکھے بنا دل کو سکوں ملتا نہیں بابا
-چراغ آشک غم جلتا ہے تو بجھتا نہیں بابا
+چراغِ اشکِ غم جلتا ہے تو بجھتا نہیں بابا
 سکینہ اب اندھیروں کا نگر آباد کرتی ہے
 
 ۵
-کبھی یاد علی اصغر کبھی یاد علی اکبر
+کبھی یادِ علی اصغر کبھی یادِ علی اکبر
 ستاتی ہے مجھے پیارے چچا کی یاد رہ رہ کر
 بیاں کربوبلا کی طےء میں یہ روداد کرتی ہے
 
 ۶
-نہیں آے اگر بابا تڑپ کر جان دے دونگی
-میں دادی جاں سے خلد بری میں جاکے کہہ دوں گی
+نہیں آئے اگر بابا تڑپ کر جان دے دوں گی
+میں دادی جاں سے خلدِ بری میں جا کے کہہ دوں گی
 بکا محبوب معصومہ پےء فریاد کرتی ہے
