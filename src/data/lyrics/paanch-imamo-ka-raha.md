@@ -1,69 +1,70 @@
 ---
-title: "پانچ اماموں کا رہا بن كے سہارا عباس"
-alternateTitle: "Paanch Imamo Ka Raha"
+title: "پانچ اماموں کا رہا بن کے سہارا عباس"
+alternateTitle: "Paanch Imamoṅ Ka Raha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Sibte Jafar"
+reciter: "Sibte Jafar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Paanch imamo ka raha ban ke sahara abbas
-  
+  Paanch imamoṅ ka raha ban ke sahaara Abbas
+
   1
-  Fatema zehra ka beta banu hashim ka qamar
-  Chauda masoomon ki hai aankh ka taara abbas
-  
+  Fatima Zehra ka beta Banu Haashim ka qamar
+  Chaudah maasumoṅ ki hai aaṅkh ka taara Abbas
+
   2
-  Koi kya samjhe usay jis ko kahe aale nabi
-  Hum hai ghamkhaar zamane ke hamara abbas
-  
+  Koi kya samjhe use jis ko kahe Aal-e-Nabi
+  Hum haiṅ ghamkhwaar zamaane ke hamaara Abbas
+
   3
-  Khud hi mashkeeze may abbas ke aa jati furaat
-  Us ko kar dete agar ek ishaara abbas
-  
+  Khud hi mashkize mein Abbas ke aa jaati Furaat
+  Us ko kar dete agar ek ishaara Abbas
+
   4
-  Teri turbat ke jo zawwar hai batlate hai
-  Alqama par hai tera ab bhi ijaara abbas
-  
+  Teri turbat ke jo zawwaar haiṅ batlaate haiṅ
+  Alqama par hai tera ab bhi ijaara Abbas
+
   5
-  Sheh ne abbas ko saumpi jo sipeh salaari
-  Har zaban par hai faqat ek hi naara abbas
-  
+  Shah ne Abbas ko sauṅpi jo sipah saalaari
+  Har zabaan par hai faqat ek hi naara Abbas
+
   6
-  Wo to kahiye na mila izn e wigha ghazi ko
-  Warna kis jang may afwaj se haara abbas
-  
+  Wo to kahiye na mila izn-e-wigha Ghaazi ko
+  Warna kis jang mein afwaaj se haara Abbas
+
   7
-  De ke mashkeeza sakina se kaha sarwar ne
-  Laut ke ran se na aayega tumhara abbas
-  
+  De ke mashkiza Sakina se kaha Sarwar ne
+  Laut ke ran se na aayega tumhaara Abbas
+
   8
-  Hasrat o yaas se takte thay haram aur hussain
-  Leke mashkeeza jo maidan ko sidhara abbas
-  
+  Hasrat o yaas se takte the haram aur Husain
+  Le ke mashkiza jo maidaaṅ ko sidhaara Abbas
+
   9
-  Rakh ke sar zaanu pe abbas ka kehte thay hussain
-  Saath ghurbat may na yun chodo khudara abbas
-  
+  Rakh ke sar zaanu pe Abbas ka kehte the Husain
+  Saath ghurbat mein na yuṅ chhoro khudaara Abbas
+
   10
-  Sar barehna jo haram thay to sar e nok e sina
-  Dekhta kaise bhala sharm ka maara abbas
-  
+  Sar barehna jo haram the to sar-e-nok-e-sina
+  Dekhta kaise bhala sharm ka maara Abbas
+
   11
-  Chaadrein chin'ne pa yaad aaya har ek bibi ko
-  Har tamache pa sakina ne pukara abbas
-  
+  Chaadareṅ chhinne pe yaad aaya har ik Bibi ko
+  Har tamaancha pe Sakina ne pukaara Abbas
+
   12
-  Sibt e jafer ho azadari ko kyun hashr ki fikr
-  Hoga waan pehle se maujood hamara abbas
+  Sibt-e-Jafar ho azaadaar ko kiuṅ hashr ki fikr
+  Ho ga waaṅ pehle se maujud hamaara Abbas
 # source_id: nohayonline:710b690c4f1b6f4c1947
 # source_url: https://www.nohayonline.com/details_content.php?id=1246
 # raw_sha256: 9dec12093edc9ca67f8033ad1fc75ff351e298c303ffc9c347a500c8ce2c1a8c
 ---
-پانچ اماموں کا رہا بن كے سہارا عباس
+پانچ اماموں کا رہا بن کے سہارا عباس
 
 ۱
 فاطمہ زہرا کا بیٹا بنو ہاشم کا قمر
@@ -71,10 +72,10 @@ romanLyrics: |-
 
 ۲
 کوئی کیا سمجھے اسے جس کو کہے آلِ نبی
-ہم ہیں غمخوار زمانے كے ہمارا عباس
+ہم ہیں غمخوار زمانے کے ہمارا عباس
 
 ۳
-خود ہی مشکییزے میں عباس كے آ جاتی فرات
+خود ہی مشکیزے میں عباس کے آ جاتی فرات
 اس کو کر دیتے اگر ایک اشارہ عباس
 
 ۴
@@ -90,24 +91,24 @@ romanLyrics: |-
 ورنہ کس جنگ میں افواج سے ہارا عباس
 
 ۷
-دے كے مشکیزہ سكینہ سے کہا سرور نے
-لوٹ كے رن سے نہ آئے گا تمہارا عباس
+دے کے مشکیزہ سکینہ سے کہا سرور نے
+لوٹ کے رن سے نہ آئے گا تمہارا عباس
 
 ۸
 حسرت و یاس سے تکتے تھے حرم اور حسین
-لے كے مشکییزہ جو میداں کو سِدھارا عباس
+لے کے مشکیزہ جو میداں کو سِدھارا عباس
 
 ۹
-رکھ كے سر بازو پہ عباس کا کہتے تھے حسین
+رکھ کے سر بازو پہ عباس کا کہتے تھے حسین
 ساتھ غربت میں نہ یوں چھوڑو خدارا عباس
 
 ۱۰
-سر برھنا جو حرم تھے سرِ نوک سینا
+سر برہنہ جو حرم تھے سرِ نوک سینا
 دیکھتا کیسے بھلا شرم کا مارا عباسؑ
 
 ۱۱
-چادریں چھننے پہ یاد آیا ہر اک بی بی کو
-ہر تمانچہ پہ سكینہ نے پکارا عباس
+چادریں چھننے پہ یاد آیا ہر اک بی‌بی کو
+ہر طمانچہ پہ سکینہ نے پکارا عباس
 
 ۱۲
 سبطِ جعفر ہو عزادار کو کیوں حشر کی فکر

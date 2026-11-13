@@ -1,82 +1,85 @@
 ---
-title: "ہاے سکینہ ہاے سکینہ"
+title: "ہائے سکینہ ہائے سکینہ"
 alternateTitle: "Paani"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Waiz Sultanpuri"
+reciter: "Ali Mohd. Sultanpuri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye sakina haye sakina
-  Haye yateema haye yateema
+  Haaye Sakina haaye Sakina
+  Haaye yatima haaye yatima
+
+  Shimr ne khaak pe dikhla ke jo pheṅka paani
+  Dekhti reh gayi maasum Sakina paani
 
   1
-  Shimr ne khaak pe dikhla ke jo phaynka pani
-  Dekhti reh gayi masoom sakina pani
-  Khoon ankhon mein utar aaya yateema royi
-  Apni ghurbat pe tadap kar ke wo dukhiya royi
-  Kar ke rukh dayr talak jaanibe darya royi
-  Yaad saqqa ki bahot aayi sakina royi
-  Roke deti thi sada dekh lo aakar ammu
-  Ek khatre ke liye khaati hoon thokar ammu
+  Khun aaṅkhoṅ mein utar aaya yatima royi
+  Apni ghurbat pe tarap kar ke wo dukhiya royi
+  Kar ke rukh der talak jaanib-e-darya royi
+  Yaad saqqa ki bahut aayi Sakina royi
+  Ro ke deti thi sada dekh lo aa kar ammu
+  Ek khatre ke liye khaati huṅ thokar ammu
 
   2
   Kaifiyat pyaas ki kaisi thi koi kya jaane
-  Kitni shiddat se wo pyasi thi ye allah jaane
+  Kitni shiddat se wo pyaasi thi ye Allah jaane
   Pyaas ki kaunsi manzil pe thi dukhiya jaane
-  Ye to bas baali sakina ka kaleja jaane
-  Mashk pani ki jidhar thi wo udhar jaati thi
-  Ghudkiyan shimr jo deta tha to darr jaati thi
+  Ye to bas baali Sakina ka kaleja jaane
+  Mashk paani ki jidhar thi wo udhar jaati thi
+  Ghurkiyaaṅ Shimr jo deta tha to dar jaati thi
 
   3
-  Jisne baalon ko pakad kar ke tamache maare
-  Dono kaano ki lawein cheer ke cheene bunde
-  Jisne barsaye yateema pe musalsal durre
-  Khaali kooze ko liye aayi jab uske aage
-  Darr ye kehta tha sakina se na maango pani
-  Pyaas kehti thi bas ab jald pila do pani
+  Jis ne baaloṅ ko pakar kar ke tamaanche maare
+  Donoṅ kaanoṅ ki laveṅ chir ke chhine bunde
+  Jis ne barsaaye yatima pe musalsal durre
+  Khaali kuze ko liye aayi jab us ke aage
+  Dar ye kehta tha Sakina se na maaṅgo paani
+  Pyaas kehti thi bas ab jald pila do paani
 
   4
-  Saamne shimr ke lekar ke gayi jab kooza
-  Daant kar baali sakina ko ye zaalim bola
-  Pehle sairaab suno shaam ka lashkar hoga
-  Phir ye umeed dilaayi ki tumhe bhi dunga
-  Apne haiwano ko zaalim ne pilaya pani
-  Aur yateema ko dikha kar ke bahaya pani
+  Saamne Shimr ke le kar ke gayi jab kuza
+  Daaṅt kar baali Sakina ko ye zaalim bola
+  Pehle sairaab suno Shaam ka lashkar ho ga
+  Phir ye ummid dilaayi ke tumheṅ bhi duṅga
+  Apne haiwaanoṅ ko zaalim ne pilaaya paani
+  Aur yatima ko dikha kar ke bahaaya paani
 
   5
-  Aas jab tod di bacchi ki sitamgaron ne
-  Aur ek zulm kiya badh ke jafakaron ne
-  Khaynch kar baalon se bekas ko gunehgaron ne
-  Khaak par phaynk diya zor se badkaron ne
-  Aur ye kehne lage awaaz lagao usko
-  Jis dilawar ki dulaari ho bulao usko
+  Aas jab tor di bachchi ki sitamgaroṅ ne
+  Aur ek zulm kiya barh ke jafaakaaroṅ ne
+  Kheṅch kar baaloṅ se bekas ko gunahgaaroṅ ne
+  Khaak par pheṅk diya zor se badkaaroṅ ne
+  Aur ye kehne lage aawaaz lagaao us ko
+  Jis dilaawar ki dulaari ho bulaao us ko
 
   6
-  Wo masayib wo qayamat wo musibat waiz
-  Kaun likhega yateema ki wo ghurbat waiz
-  Thi ajab dukhtare shabbir ki haalat waiz
-  Le gayi qabr talak pyaas ki shiddat waiz
-  Aaj tak mujhko riwayat mein kahin ye na mila
-  Pani kab aur kahan baali sakina ne piya
+  Wo masaaib wo qayaamat wo musibat Waiz
+  Kaun likhega yatima ki wo ghurbat Waiz
+  Thi ajab dukhtar-e-Shabbir ki haalat Waiz
+  Le gayi qabr talak pyaas ki shiddat Waiz
+  Aaj tak mujh ko riwaayat mein kahiṅ ye na mila
+  Paani kab aur kahaaṅ baali Sakina ne piya
 # source_id: nohayonline:3dc7d4c16af4bddc5aca
 # source_url: https://www.nohayonline.com/details_content.php?id=2861
 # raw_sha256: a0600310555908a3f39e279a872d6fb1bfce2b0c011c877b81586ad3b1580257
 ---
-ہاے سکینہ ہاے سکینہ
-ہاے یتیمہ ہاے یتیمہ
+ہائے سکینہ ہائے سکینہ
+ہائے یتیمہ ہائے یتیمہ
 
-۱
 شمر نے خاک پہ دکھلا کے جو پھینکا پانی
 دیکھتی رہ گئی معصوم سکینہ پانی
-خون آنکھوں میں اتر آیا یتیمہ روی
-اپنی غربت پہ تڑپ کر کے وہ دکھیا روی
-کر کے رخ دیر تلک جانب دیر روی
-یاد سقہ کی بہت آی سکینہ روی
-روکے دیتی تھی صدا دیکھ لو آ کر عمو
+
+۱
+خون آنکھوں میں اتر آیا یتیمہ روئی
+اپنی غربت پہ تڑپ کر کے وہ دکھیا روئی
+کر کے رخ دیر تلک جانبِ دریا روئی
+یاد سقا کی بہت آئی سکینہ روئی
+رو کے دیتی تھی صدا دیکھ لو آ کر عمو
 ایک خطرہ کے لئے کھاتی ہوں ٹھوکر عمو
 
 ۲
@@ -85,21 +88,21 @@ romanLyrics: |-
 پیاس کی کونسی منزل پہ تھی دکھیا جانے
 یہ تو بس بالی سکینہ کا کلیجہ جانے
 مشک پانی کی جدھر تھی وہ ادھر جاتی تھی
-کھڑکیاں شمر جو دیتا تھا تو ڈر جاتی تھی
+گھڑکیاں شمر جو دیتا تھا تو ڈر جاتی تھی
 
 ۳
 جس نے بالوں کو پکڑ کر کے طمانچے مارے
-دونوں کانوں کی لویں چیر کے چھینے بندیں
-جس نے برسایا یتیمہ پہ مسلسل درے
-خالی کوزے کو لیےء آی جب اس کے آگے
+دونوں کانوں کی لویں چیر کے چھینے بندے
+جس نے برسائے یتیمہ پہ مسلسل درے
+خالی کوزے کو لیے آئی جب اس کے آگے
 ڈر یہ کہتا تھا سکینہ سے نہ مانگو پانی
 پیاس کہتی تھی بس اب جلد پلا دو پانی
 
 ۴
-سامنے شمر کے لے کر کے گیء جب کوزہ
-ڈانت کر بالی سکینہ کو یہ ظالم بولا
+سامنے شمر کے لے کر کے گئی جب کوزہ
+ڈانٹ کر بالی سکینہ کو یہ ظالم بولا
 پہلے سیراب سنو شام کا لشکر ہوگا
-پھر یہ امید دلائی کی تمہیں بھی دونگا
+پھر یہ امید دلائی کہ تمہیں بھی دوں گا
 اپنے حیوانوں کو ظالم نے پلایا پانی
 اور یتیمہ کو دکھا کر کے بہایا پانی
 
@@ -112,9 +115,9 @@ romanLyrics: |-
 جس دلاور کی دلاری ہو بلاؤ اس کو
 
 ۶
-وہ مصائب وہ قیامت وہ مصیبت وایض
-کون لکھے گا یتیمہ کی وہ غربت وایض
-تھی عجب دختر شبیر کی حالت وایض
-لے گیء قبر تلک پیاس کی شدت وایض
-آج تک مجھکو روایت میں کہیں یہ نہ ملا
+وہ مصائب وہ قیامت وہ مصیبت واعظ
+کون لکھے گا یتیمہ کی وہ غربت واعظ
+تھی عجب دخترِ شبیر کی حالت واعظ
+لے گئی قبر تلک پیاس کی شدت واعظ
+آج تک مجھ کو روایت میں کہیں یہ نہ ملا
 پانی کب اور کہاں بالی سکینہ نے پیا
