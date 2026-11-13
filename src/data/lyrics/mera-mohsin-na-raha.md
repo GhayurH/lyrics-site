@@ -6,54 +6,56 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haath pehlu par rakha aur ye zehra ne kaha
-  Mera mohsin na raha
-  
-  Phasliyan toot gayi aise darwaza gira
-  
+  Haath pehlu par rakha aur ye Zehra ne kaha
+  Mera Mohsin na raha
+
+  Pasliyaaṅ tut gaiṅ aise darwaaza gira
+  Mera Mohsin na raha
+
   1
-  Phasliyan tootne ka gham hi nahi mujhko koi
-  Qatl pehlu may hui aaj ye aulaad meri
-  Jeete jee maar gaya mujhko bas ye sadma
-  
+  Pasliyaaṅ tutne ka gham hi nahiṅ mujh ko koi
+  Qatl pehlu mein hui aaj ye aulaad meri
+  Jite ji maar gaya mujh ko bas ye sadma
+
   2
-  Dekha darwaze ke neeche jo mujhe rote huwe
-  Paon darwaze pe rakh rakh ke sitamgar guzre
-  Itni takleef may bhi mai ne bas di ye sada
-  
+  Dekha darwaaze ke niche jo mujhe rote hue
+  Paaoṅ darwaaze pe rakh rakh ke sitamgar guzre
+  Itni taklif mein bhi main ne bas di ye sada
+
   3
-  Dar jo pehlu se wo fizza ne hataya aa kar
-  Boli zehra mere bachon ko sambhalo jaa kar
-  Uthna mushkil hai bahot zulm ye kaisa hua
-  
+  Dar jo pehlu se wo Fizza ne hataaya aa kar
+  Boliṅ Zehra mere bachchoṅ ko sambhaalo jaa kar
+  Uthna mushkil hai bahut zulm ye kaisa hua
+
   4
-  Jab rasan baandh ke gardan se ali ko khayncha
-  Aayi zaalim se bachaane ke liye jab zehra
-  Taaziyana bhi saha par ali se na kaha
-  
+  Jab rasan baandh ke gardan se Ali ko khincha
+  Aaiṅ zaalim se bachaane ke liye jab Zehra
+  Taaziyaana bhi saha par Ali se na kaha
+
   5
-  Apna har zakhm ali se bhi chupana hai mujhe
-  Ab isi haal may darbar bhi jaana hai mujhe
-  Kitni majboor hoo mai waqt kaisa hai pada
-  
+  Apna har zakhm Ali se bhi chhupaana hai mujhe
+  Ab isi haal mein darbaar bhi jaana hai mujhe
+  Kitni majbur huṅ main waqt kaisa hai para
+
   6
-  Baad baba ke madina yun badal jayega
-  Raah may koi tamacha bhi mujhe maarega
-  Mere baba ka mujhe aise pursa hai mila
-  
+  Baad Baba ke Madina yuṅ badal jaayega
+  Raah mein koi tamaancha bhi mujhe maarega
+  Mere Baba ka mujhe aise pursa hai mila
+
   7
-  Kham kamar aur mere baalon may safedi hogi
-  Mujh pe athara baras may hi zaeefi hogi
-  Aaj zehra ke liye gham ka aaghaaz hua
-  
+  Kham kamar aur mere baaloṅ mein safedi hogi
+  Mujh pe athaarah baras mein hi zaifi hogi
+  Aaj Zehra ke liye gham ka aaghaaz hua
+
   8
-  Ab bhi zeeshan ye aati hai baqayya se sada
-  Apne mehdi ko bataungi wo jab aayega
-  Jitne dukh mai ne sahe gham hai ye sab se bada
+  Ab bhi Zishaan ye aati hai Baqayya se sada
+  Apne Mehdi ko bataauṅ gi wo jab aayega
+  Jitne dukh main ne sahe gham hai ye sab se bara
 # source_id: nohayonline:3623e11cb0dbad3e43ee
 # source_url: https://www.nohayonline.com/details_content.php?id=2310
 # raw_sha256: f4807adb0bc6040660e6afcfe7d665401ea9edd121d96744cc6302a698b5d4a9
@@ -63,6 +65,7 @@ romanLyrics: |-
 میرا محسن نہ رہا
 
 پسلیاں ٹوٹ گئیں ایسے دروازہ گرا
+میرا محسن نہ رہا
 
 ۱
 پسلیاں ٹوٹنے کا غم ہی نہیں مجھ کو کوئی
@@ -71,7 +74,7 @@ romanLyrics: |-
 
 ۲
 دیکھا دروازے کے نیچے جو مجھے روتے ہوئے
-پاؤں دروازے پہ رکھ رکھ کے ستمکر گزرے
+پاؤں دروازے پہ رکھ رکھ کے ستمگر گزرے
 اتنی تکلیف میں بھی میں نے بس دی یہ صدا
 
 ۳
@@ -92,7 +95,7 @@ romanLyrics: |-
 ۶
 بعد بابا کے مدینہ یوں بدل جائے گا
 راہ میں کوئی طمانچہ بھی مجھے مارے گا
-میرے بابا کا مجھے ایسے پر سہ ہے ملا
+میرے بابا کا مجھے ایسے پرسہ ہے ملا
 
 ۷
 خم کمر اور میرے بالوں میں سفیدی ہوگی
@@ -101,5 +104,5 @@ romanLyrics: |-
 
 ۸
 اب بھی ذیشان یہ آتی ہے بقیعہ سے صدا
-اپنے مہدی کو بتاؤں گی وہ جب آۓ گا
+اپنے مہدی کو بتاؤں گی وہ جب آئے گا
 جتنے دکھ میں نے سہے غم ہے یہ سب سے بڑا
