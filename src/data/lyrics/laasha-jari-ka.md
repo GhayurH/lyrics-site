@@ -1,47 +1,48 @@
 ---
-title: لاشہ جری اک خیمے میں لایا نہ جا سکا
+title: لاشہ جری کا خیمے میں لایا نہ جا سکا
 alternateTitle: Laasha Jari Ka
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Samar Zaidi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Laasha jari ka qaime mein laaya na ja saka
-  Pyason ki tashnagi ko bujhaya na ja saka
+  Laasha jari ka khaime mein laaya na ja saka
+  Pyaasoṅ ki tashnagi ko bujhaaya na ja saka
 
   1
-  Sheh bole bhai humse khafa hogaye ho kya
-  Dekho hamari simt hilao to lab zara
-  Kyun bhai kehke humko bulaya na ja saka
+  Sheh bole bhai ham se khafa ho gaye ho kya
+  Dekho hamaari simt hilaao to lab zara
+  Kiuṅ bhai keh ke ham ko bulaaya na ja saka
 
   2
-  Zaanu pe sar rakhe hue rotay rahe imam
-  Ghazi tadap ke bole fida aap par ghulam
-  Qidmat ka haq bhi hum se chukaya na ja saka
+  Zaanu pe sar rakhe hue rote rahe Imam
+  Ghaazi tadap ke bole fida aap par ghulaam
+  Khidmat ka haq bhi ham se chukaaya na ja saka
 
   3
-  Zakhmi meri sakina ka mashkeeza hogaya
-  Maula ab iske baad mai jee kar karunga kya
-  Afsos haye waada nibhaya na ja saka
+  Zakhmi meri Sakina ka mashkiza ho gaya
+  Maula ab is ke baad main ji kar karuṅga kya
+  Afsos haaye waada nibhaaya na ja saka
 
   4
-  Qaime ki simt jaane ki baakhi rahi na taab
-  Sheh bole doonga kya mai sakina ko ab jawab
-  Ghazi nahi ye raaz chupaya na ja saka
+  Khaime ki simt jaane ki baaqi rahi na taab
+  Sheh bole duṅga kya main Sakina ko ab jawaab
+  Ghaazi nahiṅ ye raaz chhupaaya na ja saka
 
   5
-  Baazu kata ke nehr pe abbas sogaye
-  Maula hussain dasht mein be-aas hogaye
-  Bhai ko haale dil bhi sunaya na ja saka
+  Baazu kata ke nehr pe Abbas so gaye
+  Maula Husain dasht mein beaas ho gaye
+  Bhai ko haal-e-dil bhi sunaaya na ja saka
 
   6
-  Jeeti hai jang kisne bata dasht e nainawa
-  Kiska tawaf karti hai khud nehre alqama
-  Qabza samar jari se chudaya na ja saka
+  Jiti hai jang kis ne bata dasht-e-Nainawa
+  Kis ka tawaaf karti hai khud nehr-e-Alqama
+  Qabza Samar jari se chhuraaya na ja saka
 # source_id: nohayonline:4a06406be06a5c2dbbd3
 # source_url: https://www.nohayonline.com/details_content.php?id=174
 # raw_sha256: 61bebd38e4372b4282213bbd69e6f2ebb2690cdb19bf37e9d940561a5f1b41c4
@@ -53,27 +54,27 @@ romanLyrics: |-
 # raw_sha256: 424cc6a2c5742b8acc4400e13a3d10be4c696d86af819342bc338a384f5ad821
 ---
 
-لاشہ جری اک خیمے میں لایا نہ جا سکا
+لاشہ جری کا خیمے میں لایا نہ جا سکا
 پیاسوں کی تشنگی کو بُجھایا نہ جا سکا
 
 ۱
 شہہ بولے بھائی ہم سے خفا ہو گئے ہو کیا
-دیکھو ہماری سمت ہلائو تو لب ذرا
+دیکھو ہماری سمت ہلاؤ تو لب ذرا
 کیوں بھائی دیکھ کے ہم کو بلایا نہ جا سکا
 
 ۲
 زانو پہ سر رکھے روتے رہے امام
-غازی تڑپ کر بولے فداآپ پہ غلام
+غازی تڑپ کر بولے فدا آپ پہ غلام
 خدمت کا حق بھی ہم سے چُکایا نہ جا سکا
 
 ۳
 زخمی میری سکینہ کا مشکیزہ ہو گیا
-مولا اب اس کے بعد میں جی کر کروں گا کای
+مولا اب اس کے بعد میں جی کر کروں گا کیا
 افسوس ہائے وعدہ نبھایا نہ جا سکا
 
 ۴
 خیمے کی سمت جانے کی باقی رہی نہ تاب
-شہہ بولے دونگا کیا میں سکینہ کو جواب
+شہہ بولے دوں گا کیا میں سکینہ کو جواب
 غازی نہیں یہ راز چھُپایا نہ جا سکا
 
 ۵
@@ -84,4 +85,4 @@ romanLyrics: |-
 ۶
 جیتی ہے جنگ کس نے بتا دشتِ نینوا
 کس کا طواف کرتی ہے خود نہرِ علقمہ
-قبضہ ثمر جاری سے چھُڑایا نہ جا سکا
+قبضہ ثمر جری سے چھُڑایا نہ جا سکا

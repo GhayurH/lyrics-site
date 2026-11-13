@@ -1,106 +1,109 @@
 ---
-title: "رو کر پکارے سیدے والا یہی والا یہی کہیں"
+title: "رو کر پکارے سیدِ والا یہیں کہیں"
 alternateTitle: "Laasha Yahin Kahin"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Kumail Jafri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ro kar pukare sayyade waala yahin kahin
-  Qasim ka tha pada hua laasha yahin kahin
-  Ay karbala bata mera pyara kidhar gaya
-  Bhaiya hassan ka raaj dulaara kidhar gaya
-  Ghode se wo abhi to gira tha yahin kahin
+  Ro kar pukaare Saiyyad-e-waala yahiṅ kahiṅ
+  Qasim ka tha para hua laasha yahiṅ kahiṅ
+
+  Ae Karbala bata mera pyaara kidhar gaya
+  Bhaiya Hasan ka raaj dulaara kidhar gaya
+  Ghore se wo abhi to gira tha yahiṅ kahiṅ
 
   1
   Farwa ki jaan bhai ka jaani wohi to tha
-  Sar ta qadam hassan ki jawani wohi to tha
-  Wo naujawan maara gaya tha yahin kahin
+  Sar ta qadam Hasan ki jawaani wohi to tha
+  Wo naujawaan maara gaya tha yahiṅ kahiṅ
 
   2
-  Ran mein khiza ne kha liya farwa ke baagh ko
-  Nazrein talaashti hai hassan ke chiragh ko
-  Gum ho gaya hai uska janaza yahin kahin
+  Ran mein khizaaṅ ne kha liya Farwa ke baagh ko
+  Nazreṅ talaashti hai Hasan ke chiraagh ko
+  Gum ho gaya hai us ka janaaza yahiṅ kahiṅ
 
   3
-  Wallah koi bol de naushaah kahan gaya
-  Ek raat ki dulhan ka wo dulha kahan gaya
-  Usne abhi tha mujhko pukara yahin kahin
+  Wallaah koi bol de naushaah kahaaṅ gaya
+  Ek raat ki dulhan ka wo dulha kahaaṅ gaya
+  Us ne abhi tha mujh ko pukaara yahiṅ kahiṅ
 
   4
-  Ahle haram mein naala o faryad hai bapa
-  Jaana hai leke laash mujhe suye qaimagah
-  Miljaye mujhko mera bhatija yahin kahin
+  Ahl-e-haram mein naala o faryaad hai bapa
+  Jaana hai le ke laash mujhe su-e-khaima gaah
+  Mil jaaye mujh ko mera bhatija yahiṅ kahiṅ
 
   5
-  Sar peet kar qayaam mein roti hai bibiyan
-  Aur dhoondta hoo laasha e qasim ko mai yahan
-  Phat jaye na ghamon se kaleja yahin kahin
+  Sar pit kar qayaam mein roti hai Bibiyaṅ
+  Aur dhundta huṅ laasha-e-Qasim ko main yahaaṅ
+  Phat jaaye na ghamoṅ se kaleja yahiṅ kahiṅ
 
   6
-  Phir karbala ki khaak se shabbir ne kaha
-  Milti nahi hai laash bhatije ki ye bata
-  Kya tune kar diya hai dafeena yahin kahin
+  Phir Karbala ki khaak se Shabbir ne kaha
+  Milti nahiṅ hai laash bhatije ki ye bata
+  Kya tu ne kar diya hai dafina yahiṅ kahiṅ
 
   7
-  Aayi nida e karbobala ya shahe zaman
-  Pamaal ho chuka hai tan e qasim e hassan
-  Bikhra pada hai wo gul e taaza yahin kahin
+  Aayi nida-e-Karbobala ya Sheh-e-zaman
+  Paamaal ho chuka hai tan-e-Qasim-e-Hasan
+  Bikhra para hai wo gul-e-taaza yahiṅ kahiṅ
 
   8
-  Aamir rida mein kar ke tan e paash paash ko
-  Bole kumail dekh ke shabbir laash ko
-  Dede mujhe bhi maut khudaya yahin kahin
+  Aamir rida mein kar ke tan-e-paash paash ko
+  Bole Kumail dekh ke Shabbir laash ko
+  De de mujhe bhi maut Khudaaya yahiṅ kahiṅ
 # source_id: nohayonline:9e1b23c003f487f0d1dd
 # source_url: https://www.nohayonline.com/details_content.php?id=1280
 # raw_sha256: 73d13349165b7f082faaafb34dcce527894a30ba7a5621dc602642e856d270eb
 ---
-رو کر پکارے سیدے والا یہی والا یہی کہیں
-قاسم کا تھا پڑا ہوا لاشہ یہی کہیں
+رو کر پکارے سیدِ والا یہیں کہیں
+قاسم کا تھا پڑا ہوا لاشہ یہیں کہیں
+
 اے کربلا بتا میرا پیارا کدھر گیا
 بھیا حسن کا راج دلارا کدھر گیا
-گھوڑے سے وہ ابھی تو گرا تھا یہی کہیں
+گھوڑے سے وہ ابھی تو گرا تھا یہیں کہیں
 
 ۱
-فروا کی جان بھای کا جانی وہی تو تھا
+فروا کی جان بھائی کا جانی وہی تو تھا
 سر تا قدم حسن کی جوانی وہی تو تھا
-وہ نوجوان مارا گیا تھا یہی کہیں
+وہ نوجوان مارا گیا تھا یہیں کہیں
 
 ۲
-رن میں قضا نے کہا لیا فروا کے باغ کو
+رن میں قضا نے کھا لیا فروا کے باغ کو
 نظریں تلاشتی ہے حسن کے چراغ کو
-گم ہو گیا ہے اس کا جنازہ یہی کہیں
+گم ہو گیا ہے اس کا جنازہ یہیں کہیں
 
 ۳
 واللہ کوئی بول دے نوشاہ کہاں گیا
 اک رات کی دلہن کا وہ دولہا کہاں گیا
-اس نے ابھی تھا مجھکو پکارا یہی کہیں
+اس نے ابھی تھا مجھ کو پکارا یہیں کہیں
 
 ۴
 اہلِ حرم میں نالہ و فریاد ہے بپا
-جانا ہے لے کے لاش مجھے سوے خیمہ گاہ
-مل جاے مجھکو میرا بھتیجا یہی کہیں
+جانا ہے لے کے لاش مجھے سوئے خیمہ گاہ
+مل جائے مجھ کو میرا بھتیجا یہیں کہیں
 
 ۵
-سر پیٹ کر قیام میں روتی ہے بی بیاں
+سر پیٹ کر قیام میں روتی ہے بی‌بیاں
 اور ڈھونڈتا ہوں لاشہء قاسم کو میں یہاں
-پھٹ جاے نہ غموں سے کلیجہ یہی کہیں
+پھٹ جائے نہ غموں سے کلیجہ یہیں کہیں
 
 ۶
 پھر کربلا کی خاک سے شبیر نے کہا
 ملتی نہیں ہے لاش بھتیجے کی یہ بتا
-کیا تونے کر دیا ہے دفینا یہی کہیں
+کیا تو نے کر دیا ہے دفینہ یہیں کہیں
 
 ۷
-آی نداے کربوبلا یا شہ زمن
-پامال ہو چکا ہے تن قاسم حسن
-بکھرا پڑا ہے وہ گل تازہ یہی کہیں
+آئی ندائے کربوبلا یا شہِ زمن
+پامال ہو چکا ہے تنِ قاسمِ حسن
+بکھرا پڑا ہے وہ گلِ تازہ یہیں کہیں
 
 ۸
-عامر ردا میں کر کے تن پاش پاش کو
+عامر ردا میں کر کے تنِ پاش پاش کو
 بولے کمیل دیکھ کے شبیر لاش کو
-دیدے مجھے بھی موت خدایا یہی کہیں
+دے دے مجھے بھی موت خدایا یہیں کہیں
