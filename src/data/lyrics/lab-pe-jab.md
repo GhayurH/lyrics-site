@@ -5,40 +5,41 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Tableegh e Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Lab pe jab murtuza nahi hota
-  Hal koi masla nahi hota
+  Lab pe jab Murtaza nahiṅ hota
+  Hal koi masla nahiṅ hota
 
   1
-  Kis khadar badnaseeb hota hai
-  Jis ka mushkil kusha nahi hota
+  Kis qadar badnasib hota hai
+  Jis ka mushkil kusha nahiṅ hota
 
   2
-  Sach to ye hai baghair hubbe ali
-  Koi sajda ada nahi hota
+  Sach to ye hai baghair hubb-e-Ali
+  Koi sajda ada nahiṅ hota
 
   3
-  Naam abbas ka tasadduq hai
-  Warna naame wafa nahi hota
+  Naam Abbaas ka tasadduq hai
+  Warna naam-e-wafa nahiṅ hota
 
   4
-  Jang karte jo hazrate abbas
-  Jaane kya hota kya nahi hota
+  Jang karte jo Hazrat-e-Abbaas
+  Jaane kya hota kya nahiṅ hota
 
   5
   Sheh na hote to haq o baatil ka
-  Hashr tak faisla nahi hota
+  Hashr tak faisla nahiṅ hota
 
   6
-  Roke kehte thay abide bemaar
-  Dil se ye gham juda nahi hota
+  Ro ke kehte the Aabid-e-bimaar
+  Dil se ye gham juda nahiṅ hota
 
   7
-  Hote abbas kehti thi zainab
-  Sar mera be-rida nahi hota
+  Hote Abbaas kehti thi Zainab
+  Sar mera berida nahiṅ hota
 # source_id: nohayonline:36b6f6b6b8de400b01f7
 # source_url: https://www.nohayonline.com/details_content.php?id=1164
 # raw_sha256: b6c0a82e8814a62473391a17786f7a1a86421268c205cadbc5fb6380c112183d
@@ -48,7 +49,7 @@ romanLyrics: |-
 
 ۱
 کس قدر بد نصیب ہوتا ہے
-جس کا مشکل کشائ نہیں ہوتا
+جس کا مشکل کشا نہیں ہوتا
 
 ۲
 سچ تو یہ ہے بغیر حُبِ علی
