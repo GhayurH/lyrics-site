@@ -1,95 +1,115 @@
 ---
 title: زندان ستم سے اہلِ عزا
-alternateTitle: Qaid May Hoo
+alternateTitle: Qaid Mein Huṅ
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Bilal Kazmi"
+reciter: "Afzal Mirza"
 tags: ["noImage"]
-aliases: []
+aliases: ["Qaid May Hoo"]
 published: false
 romanLyrics: |-
-  Zindan e sitam se ahle aza
-  Aati hai kisi bibi ki sada
-  Sab reha huwe mai qaid mein hoo
-  Mai qaid mein hoo
+  Zindaan-e-sitam se ahl-e-aza
+  Aati hai kisi Bibi ki sada
+  Sab riha hue main qaid mein huṅ
+  Main qaid mein huṅ
+
   Humraah mere koi na raha
-  Mai aaj bhi hoo tanha tanha
-  Sab reha huwe mai qaid mein hoo
-  Mai qaid mein hoo
+  Main aaj bhi huṅ tanha tanha
+  Sab riha hue main qaid mein huṅ
+  Main qaid mein huṅ
   
   1
-  Maayein phupiyan bhai behne
-  Abbas chacha baba sarwar
-  Mai sab ki chaheeti thi ghar mein
-  Sab jaan chidakte thay mujh par
+  Maaeṅ phuphiyaaṅ bhai bahneṅ
+  Abbas chacha baba Sarwar
+  Main sab ki chahiti thi ghar mein
+  Sab jaan chhirakte the mujh par
   Ye kaisi chali ghurbat ki hawa
-  Yasrab bhi chuta kunba bhi chuta
+  Yasrab bhi chhuta kunba bhi chhuta
+  Sab riha hue main qaid mein huṅ
+  Main qaid mein huṅ
   
   2
-  Zindan se meri tanhaai par
-  Sab karte huwe faryaad gaye
-  Turbat se meri ruqsat ho kar
-  Khoon rote huwe sajjad gaye
+  Zindaaṅ se meri tanhaai par
+  Sab karte hue faryaad gaye
+  Turbat se meri rukhsat ho kar
+  Khuṅ rote hue Sajjad gaye
   Humraah mere koi na raha
-  Mai aaj bhi hoo tanha tanha
+  Main aaj bhi huṅ tanha tanha
+  Sab riha hue main qaid mein huṅ
+  Main qaid mein huṅ
   
   3
-  Us qaid mein hoo din raat jahan
-  Wehshat ka basera rehta hai
+  Is qaid mein huṅ din raat jahaaṅ
+  Wahshat ka basera rahta hai
   Suraj to nikalta hai lekin
-  Is ghar mein andhera rehta hai
-  Ay kaash koi zaair mera
-  Ek deep jalaade aake zara
+  Is ghar mein andhera rahta hai
+  Ae kaash koi zaair mera
+  Ek dip jala de aa ke zara
+  Sab riha hue main qaid mein huṅ
+  Main qaid mein huṅ
   
   4
-  Nazron mein phira karta hai meri
+  Nazroṅ mein phira karta hai meri
   Har ek ki chaahat ka manzar
-  Rehti thi chacha ki godhi mein
-  Soti thi padar ke seene par
-  Ghar mera bana zindan e bala
+  Rahti thi chacha ki godi mein
+  Soti thi padar ke sine par
+  Ghar mera bana zindaan-e-bala
   Aur khaak bani bistar mera
+  Sab riha hue main qaid mein huṅ
+  Main qaid mein huṅ
   
   5
-  Har samt parindo se aksar
-  Kehti thi sakina ro ro kar
+  Har samt parindoṅ se aksar
+  Kahti thi Sakina ro ro kar
   Mujh dukhiya par ehsaan karo
-  Gar karbobala mein raste mein pade
-  Ek sher taraayi par hoga
-  Us sher se itna keh dena
+  Gar Karb o Bala mein raste mein pare
+  Is sher taraai par hoga
+  Us sher se itna kah dena
+  Sab riha hue main qaid mein huṅ
+  Main qaid mein huṅ
   
   6
-  Haathon ko utha ke suye najaf
-  Dada se duayein maangte hai
-  Sab mera waseela de de kar
-  Baba se duayein maangte hai
-  Par mera naseeba hai kaisa
-  Chauda sadiyon se ahle aza
+  Haathoṅ ko utha ke su-e-Najaf
+  Dada se duaaeṅ maaṅgte haiṅ
+  Sab mera wasila de de kar
+  Baba se duaaeṅ maaṅgte haiṅ
+  Par mera nasiba hai kaisa
+  Chaudah sadiyoṅ se ahl-e-aza
+  Sab riha hue main qaid mein huṅ
+  Main qaid mein huṅ
   
   7
-  Har waqt andhere baste hai
+  Har waqt andhere baste haiṅ
   Har aan mujhe darr lagta hai
-  Mai dhoondti hoo jab darwaza
-  Deewaron se sar lagta hai
-  Zindan mein rahun kaise tanha
+  Main dhundti huṅ jab darwaaza
+  Diwaaroṅ se sar lagta hai
+  Zindaaṅ mein rahuṅ kaise tanha
   Kul chaar baras hai sin mera
+  Sab riha hue main qaid mein huṅ
+  Main qaid mein huṅ
   
   8
-  Nana ka madina choot gaya
-  Kuch aisa laga kismat ko gahan
-  Jab ghoomne phirne ke din thay
-  Us waqt bandhi gardan mein rasan
-  Mai bekas kamsin masooma
-  Kuch bhi to nahi hai meri khata
+  Nana ka Madina chhut gaya
+  Kuch aisa laga qismat ko gahan
+  Jab ghumne phirne ke din the
+  Us waqt bandhi haathoṅ mein rasan
+  Main bekas kamsin maasuma
+  Kuch bhi to nahiṅ hai meri khata
+  Sab riha hue main qaid mein huṅ
+  Main qaid mein huṅ
   
   9
-  Shabbir ke matamdaron ko
-  Ye dard o alam tadpaate hai
-  Tehreer e sakina pad pad kar
-  Zawwaron ke dil phat jaate hai
-  Ashkon se bilal e karbobala
-  Zindan ki faseelon par hai likha
+  Shabbir ke maatam daaroṅ ko
+  Ye dard o alam tarpaate haiṅ
+  Tahrir-e-Sakina parh parh kar
+  Zawwaaroṅ ke dil phat jaate haiṅ
+  Ashkoṅ se Bilal Karb o Bala
+  Zindaaṅ ki fasiloṅ par hai likha
+  Sab riha hue main qaid mein huṅ
+  Main qaid mein huṅ
 # source_id: nohayonline:54adc2f8d07ff328466b
 # source_url: https://www.nohayonline.com/details_content.php?id=3692
 # raw_sha256: 47784d64ae6435062800118a910e8e4b2416e1dcee952e93c092fa2fe142a612
@@ -98,37 +118,44 @@ romanLyrics: |-
 # raw_sha256: f61bcd50bc59be0380f3b793be92d16a0cc8d3a82cecd750d48a11de83df3da9
 ---
 زندان ستم سے اہلِ عزا
-آتی ہے کسی بی بی کی صدا
-سب رہا ہوے میں قید میں ہوں
+آتی ہے کسی بی‌بی کی صدا
+سب رہا ہوئے میں قید میں ہوں
 میں قید میں ہوں
+
 ہمراہ میرے کوئی نہ رہا
 میں آج بھی ہوں تنہا تنہا
-سب رہا ہوے میں قید میں ہوں
+سب رہا ہوئے میں قید میں ہوں
 میں قید میں ہوں
 
 ۱
-ماییں پھوپھیاں بھای بہنیں
+مائیں پھوپھیاں بھائی بہنیں
 عباس چچا بابا سرور
 میں سب کی چہیتی تھی گھر میں
 سب جان چھڑکتے تھے مجھ پر
 یہ کیسی چلی غربت کی ہوا
 یثرب بھی چھٹا کنبہ بھی چھٹا
+سب رہا ہوئے میں قید میں ہوں
+میں قید میں ہوں
 
 ۲
 زنداں سے میری تنہائی پر
-سب کرتے ہوے فریاد گےء
+سب کرتے ہوئے فریاد گئے
 تربت سے میری رخصت ہو کر
-خوں روتے ہوے سجاد گےء
+خوں روتے ہوئے سجاد گئے
 ہمراہ میرے کوئی نہ رہا
 میں آج بھی ہوں تنہا تنہا
+سب رہا ہوئے میں قید میں ہوں
+میں قید میں ہوں
 
 ۳
 اس قید میں ہوں دن رات جہاں
 وحشت کا بسیرا رہتا ہے
 سورج تو نکلتا ہے لیکن
 اس گھر میں اندھیرا رہتا ہے
-اے کاش کوئی زایر میرا
-اس دیپ جلادے آ کے زرا
+اے کاش کوئی زائر میرا
+ایک دیپ جلا دے آ کے ذرا
+سب رہا ہوئے میں قید میں ہوں
+میں قید میں ہوں
 
 ۴
 نظروں میں پھرا کرتا ہے میری
@@ -137,6 +164,8 @@ romanLyrics: |-
 سوتی تھی پدر کے سینے پر
 گھر میرا بنا زندان بلا
 اور خاک بنی بستر میرا
+سب رہا ہوئے میں قید میں ہوں
+میں قید میں ہوں
 
 ۵
 ہر سمت پرندوں سے اکثر
@@ -145,14 +174,18 @@ romanLyrics: |-
 گر کربوبلا میں رستے میں پڑے
 اس شیر ترای پر ہوگا
 اس شیر سے اتنا کہہ دینا
+سب رہا ہوئے میں قید میں ہوں
+میں قید میں ہوں
 
 ۶
-ہاتھوں کو اٹھا کے سوے نجف
+ہاتھوں کو اٹھا کے سوئے نجف
 دادا سے دعائیں مانگتے ہیں
 سب میرا وسیلہ دے دے کر
 بابا سے دعائیں مانگتے ہیں
 پر میرا نصیبا ہے کیسا
-چودہ صدیوں سے أہل عزا
+چودہ صدیوں سے اہلِ عزا
+سب رہا ہوئے میں قید میں ہوں
+میں قید میں ہوں
 
 ۷
 ہر وقت اندھیرے بستے ہیں
@@ -161,6 +194,8 @@ romanLyrics: |-
 دیواروں سے سر لگتا ہے
 زنداں میں رہوں کیسے تنہا
 کل چار برس ہے سن میرا
+سب رہا ہوئے میں قید میں ہوں
+میں قید میں ہوں
 
 ۸
 نانا کا مدینہ چھوٹ گیا
@@ -169,11 +204,15 @@ romanLyrics: |-
 اس وقت بندھی ہاتھوں میں رسن
 میں بیکس کمسن معصومہ
 کچھ بھی تو نہیں ہے میری خطا
+سب رہا ہوئے میں قید میں ہوں
+میں قید میں ہوں
 
 ۹
 شبیر کے ماتم داروں کو
 یہ درد و الم تڑپاتے ہیں
-تحریرِ سکینہ پڑھ پڑھ ک
+تحریرِ سکینہ پڑھ پڑھ کر
 زواروں کے دل پھٹ جاتے ہیں
 اشکوں سے بلال کربوبلا
 زنداں کی فصیلوں پر ہے لکھا
+سب رہا ہوئے میں قید میں ہوں
+میں قید میں ہوں
