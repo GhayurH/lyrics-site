@@ -6,63 +6,64 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Yasrab nazar aaya
-  Kulsoom ne mehmil ke jo parde ko uthaya
-  Apna tha watan aur paraya nazar aaya
-  
+  Kulsoom ne mahmil ke jo parde ko uthaaya
+  Apna tha watan aur paraaya nazar aaya
+
   1
-  Moo dhamp ke rone lagi ahmed ki nawasi
-  Veeran dar o baam thay allah re udaasi
-  Udja bani hashim ka mehalla nazar aaya
-  
+  Muṅh dhaaṅp ke rone lagi Ahmad ki nawaasi
+  Allah re udaasi wiraan dar o baam the
+  Ujra Bani Haashim ka mahalla nazar aaya
+
   2
-  Wo galiyan jahan aun o mohamad kabhi khele
-  Abdullah wahan phirte thay khamosh akele
-  Har simt may bachon ka sarapa nazar aaya
-  
+  Wo galiyaaṅ jahaaṅ Aun o Muhammad kabhi khele
+  Abdullah wahaaṅ phirte the khaamosh akele
+  Har simt mein bachchoṅ ka saraapa nazar aaya
+
   3
-  Sughra ne khabar paayi ke laut aaye musafir
-  Khush hogayi roze pe nabi ke hui haazir
-  Kya socha tha sughra ne usay kya nazar aaya
-  
+  Sughra ne khabar paai ke laut aaye musaafir
+  Khush ho gayi rauze pe Nabi ke hui haazir
+  Kya socha tha Sughra ne use kya nazar aaya
+
   4
-  Ujdi hui har maang thi har godh thi khaali
-  Asghar ka shaluka tha sakina ki thi baali
+  Ujri hui har maaṅg thi har god thi khaali
+  Asghar ka shaluka tha Sakina ki thi baali
   Abbas ka parcham bhi akela nazar aaya
-  
+
   5
-  Jis waqt ruki nana ke rauze pe amaari
+  Jis waqt ruki Naana ke rauze pe amaari
   Naaqe se giri khaak pe wo dard ki maari
-  Rota hua nana ka jo chehra nazar aaya
-  
+  Rota hua Naana ka jo chehra nazar aaya
+
   6
-  Sughra ne kaha amma se kyun godh hai khaali
-  Ek aah bhari bano ne kuch moo se na boli
-  Rone lagi jalta hua jhoola nazar aaya
-  
+  Sughra ne kaha ammaaṅ se Kiuṅ god hai khaali
+  Ek aah bhari Bano ne kuchh muṅh se na boli
+  Rone lagi jalta hua jhula nazar aaya
+
   7
-  Bin bhai ke daakhil hui jo apne hi ghar may
-  Ghash aagaya taakhat na rahi qalb-o-jigar may
-  Be-goro kafan bhai ka laasha nazar aaya
-  
+  Bin bhai ke daakhil hui jo apne hi ghar mein
+  Ghash aa gaya taaqat na rahi qalb o jigar mein
+  Begor o kafan bhai ka laasha nazar aaya
+
   8
-  Hujre may nazar aaye nahi qasim-o-akbar
-  Kehne lagi mai chor gayi thi ye bhara ghar
-  Har khabr ke maahol may dhalta nazar aaya
-  
+  Hujre mein nazar aaye nahiṅ Qasim o Akbar
+  Kehne lagi main chhor gayi thi ye bhara ghar
+  Ghar qabr ke maahaul mein dhalta nazar aaya
+
   9
-  Bistar to wahan aun-o-mohamad ke sajay thay
-  Aur taaq may asghar ke khilone bhi rakhe thay
-  Lekin na koi khaylne waala nazar aaya
-  
+  Bistar to wahaaṅ Aun o Muhammad ke saje the
+  Aur taaq mein Asghar ke khilaune bhi rakhe the
+  Lekin na koi khelne waala nazar aaya
+
   10
-  Ay sarwar-o-rehaan ghame shaahe huda se
-  Saydaniya ut-thi na kabhi farsh-e-aza se
-  Aankhon may lahoo honton pe nowha nazar aaya
+  Ae Sarwar o Rehaan gham-e-Shaah-e-Huda se
+  Sayyidaaniyaaṅ uthi na kabhi farsh-e-aza se
+  Aaṅkhoṅ mein lahu hoṅtoṅ pe nauha nazar aaya
 # source_id: nohayonline:175dc1974efa63d64744
 # source_url: https://www.nohayonline.com/details_content.php?id=27
 # raw_sha256: 0a9e0fe19e4c9f8a3125728dd12591a021ae5c60e3ad323717c7dd4c5b74f9e8
@@ -84,7 +85,7 @@ romanLyrics: |-
 
 ۳
 صغرا نے خبر پائی کے لوٹ آئے مسافر
-خوش ہوگئی روزے پہ نبی کے ہوئی حاضر
+خوش ہوگئی روضے پہ نبی کے ہوئی حاضر
 کیا سوچا تھا صغرا نے اُسے کیا نظر آیا
 
 ۴
@@ -93,7 +94,7 @@ romanLyrics: |-
 عباس کا پرچم بھی اکیلا نظر آیا
 
 ۵
-جس وقت رُکی نانا کے روزے پہ اماری
+جس وقت رُکی نانا کے روضے پہ اماری
 ناقے سے گری خاک پہ وہ درد کی ماری
 روتا ہوا نانا کا جو چہرہ نظر آیا
 
@@ -104,13 +105,13 @@ romanLyrics: |-
 
 ۷
 بن بھائی کے داخل ہوئی جو اپنے ہی گھر میں
-غش آگیاطاقت نہ رہی قلب و جگر میں
-بے گوروکفن بھائی کا لاشہ نظر آیا
+غش آ گیا طاقت نہ رہی قلب و جگر میں
+بے گور و کفن بھائی کا لاشہ نظر آیا
 
 ۸
 حُجرے میں نظر آئے نہیں قاسم و اکبر
-کہنے لگی میں چھوڑگئی تھی یہ بھرا گھر
-گھر قبر کے ماحول میںڈھلتا نظر آیا
+کہنے لگی میں چھوڑ گئی تھی یہ بھرا گھر
+گھر قبر کے ماحول میں ڈھلتا نظر آیا
 
 ۹
 بستر تو وہاں عون و محمد کے سجے تھے

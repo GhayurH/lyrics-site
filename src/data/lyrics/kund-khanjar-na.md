@@ -6,60 +6,61 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Safdar Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Garm reti pe sar e dasht ajab hai manzar
+  Garm reti pe sar-e-dasht ajab hai manzar
   Koi saaya hai jo deta hai sada ro ro kar
-  Dekh zakhmi hai musafir hai mera lakhte jigar
-  Kam se kam pani se tar kar le layeen tu khanjar
+  Dekh zakhmi hai musaafir hai mera lakht-e-jigar
+  Kam se kam paani se tar kar le laiṅ tu khanjar
+  Qabr ko chhor ke yaaṅ aai huṅ dilgir huṅ main
+  Naam Zahra hai mera maadar-e-Shabbir huṅ main
 
   1
-  Qabr ko chod ke yan aayi hoo dilgeer hoo mai
-  Naam zehra hai mera maadar e shabbir hoo mai
-  Kund khanjar na chala shimr e sitamgar ruk ja
-  Waasta rab ka tujhe behre payambar ruk ja
+  Kund khanjar na chala Shimr-e-sitamgar ruk ja
+  Waasta Rab ka tujhe bahr-e-Payambar ruk ja
 
   2
-  Is ke farzand jawan ne abhi khaayi barchi
-  Is ke seene mein hai paywast wo naize ki ani
+  Is ke farzand jawaaṅ ne abhi khaai barchhi
+  Is ke sine mein hai paiwast wo naize ki ani
   Zakhm par zakhm na de ab to sitamgar ruk ja
 
   3
-  Iske chehre pe lahoo asghar e baysheer ka hai
-  Ghao seene mein abhi is ke kisi teer ka hai
-  Hai abhi sajda e mabood mein ye sar ruk ja
+  Is ke chehre pe lahu Asghar-e-beshir ka hai
+  Ghaao sine mein abhi is ke kisi tir ka hai
+  Hai abhi sajda-e-Maabud mein ye sar ruk ja
 
   4
-  Ek bhai tha jo bekas ki kamar tod gaya
-  Ek bhatija tha bilakta hua jo chod gaya
-  Mai dua doongi tujhe haath utha kar ruk ja
+  Ek bhai tha jo bekas ki kamar tor gaya
+  Ek bhatija tha bilakta hua jo chhor gaya
+  Main dua duṅgi tujhe haath utha kar ruk ja
 
   5
-  Be gala jisko samajhta hai tu sarwar ka gala
-  Ghaur se dekh ye hai tere payambar ka gala
-  Kuch na samjhe to yehi baat samjh kar ruk ja
+  Be gala jis ko samajhta hai tu Sarwar ka gala
+  Ghaur se dekh ye hai tere Payambar ka gala
+  Kuchh na samjhe to yehi baat samajh kar ruk ja
 
   6
-  Jurm kya hai mere bache ka tu itna to bata
-  Is ke nana ka padha karta hai tu bhi kalma
-  Muntazir is ki hai ek choti si dukhtar ruk ja
+  Jurm kya hai mere bachche ka tu itna to bata
+  Is ke Naana ka parha karta hai tu bhi kalma
+  Muntazir is ki hai ek chhoti si dukhtar ruk ja
 
   7
-  Aisa lagta hai ke hamsheer nahi hai teri
-  Warna rakhta nahi pyase ke galay par tu churi
-  Qaime ke dar pe hai mazloom ki khwahar ruk ja
+  Aisa lagta hai ke hamshir nahiṅ hai teri
+  Warna rakhta nahiṅ pyaase ke gale par tu chhuri
+  Khaime ke dar pe hai mazlum ki khwaahar ruk ja
 
   8
-  Chakkiyan pees ke mehnat se isay paala hai
-  Is ne jo keh diya khudrat ne kahan taala hai
+  Chakkiyaaṅ pis ke mehnat se ise paala hai
+  Is ne jo keh diya qudrat ne kahaaṅ taala hai
   Ye dila sakta hai jannat mein tujhe ghar ruk ja
 
   9
-  Safdar e khasta jigar gham ye bayan kaise karun
-  Chashme zehra jo se tapka tha wo ek khatra e khoon
-  Tu bhi rehaan qalam rakh de ye keh kar ruk ja
+  Safdar-e-khasta jigar gham ye bayaaṅ kaise karuṅ
+  Chashm-e-Zahra jo se tapka tha wo ek qatra-e-khuṅ
+  Tu bhi Rehaan qalam rakh de ye keh kar ruk ja
 # source_id: nohayonline:bc282a426e927fef6b90
 # source_url: https://www.nohayonline.com/details_content.php?id=1656
 # raw_sha256: 27fa82515c756d252525333e6fc38507708159d2c5f060fac1f5d07fc7d3252e
@@ -68,15 +69,15 @@ romanLyrics: |-
 کوئی سایہ ہے جو دیتا ہے صدا رو رو کر
 دیکھ زخمی ہے مسافر ہے میرا لختِ جگر
 کم سے کم پانی سے تر کر لے لعیں تو خنجر
+قبر کو چھوڑ کے یاں آئی ہوں دلگیر ہوں میں
+نام زہرا ہے میرا مادر شبیر ہوں میں
 
 ۱
-قبر کو چھوڑ کے یاں آی ہوں دلگیر ہوں میں
-نام زہرا ہے میرا مادر شبیر ہوں میں
 کند خنجر نہ چلا شمر ستمگر رک جا
 واسطہ رب کا تجھے بہر پیمبر رک جا
 
 ۲
-اس کے فرزند جواں نے ابھی کھای برچھی
+اس کے فرزند جواں نے ابھی کھائی برچھی
 اس کے سینے میں ہے پیوست وہ نیزے کی انی
 زخم پر زخم نہ دے اب تو ستمگر رک جا
 
@@ -88,10 +89,10 @@ romanLyrics: |-
 ۴
 ایک بھائی تھا جو بیکس کی کمر توڑ گیا
 اک بھتیجا تھا بلکتا ہوا جو چھوڑ گیا
-میں دعا دونگی تجھے ہاتھ اٹھا کر رک جا
+میں دعا دوں گی تجھے ہاتھ اٹھا کر رک جا
 
 ۵
-بے گلا جسکو سمجھتا ہے تو سرور کا گلا
+بے گلا جس کو سمجھتا ہے تو سرور کا گلا
 غور سے دیکھ یہ ہے تیرے پیمبر کا گلا
 کچھ نہ سمجھے تو یہی بات سمجھ کر رک جا
 
