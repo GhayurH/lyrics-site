@@ -1,71 +1,74 @@
 ---
 title: "زخم پہلو کے جو بچوں سے چھپائے تھے وہی"
-alternateTitle: "Phasliyan Toot Gayi"
+alternateTitle: "Pasliyaṅ Tut Gaiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Izhaar"
+reciter: "Rizwan Zaidi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Phasliyan Toot Gayi"]
 published: false
 romanLyrics: |-
-  Zakhm pehlu ke jo bachon se chupaye thay wohi
-  Waqt e ruqsat ali maula se bhi dekhe na gaye
-  Phasliyan toot gayi dard saha zahra ne
-  Haath pehlu se hataya nahi mazlooma ne
+  Zakhm pehlu ke jo bachchoṅ se chhupaaye the wohi
+  Waqt-e-rukhsat Ali Maula se bhi dekhe na gaye
+
+  Pasliyaṅ tut gaiṅ dard saha Zahra ne
+  Haath pehlu se hataaya nahiṅ mazluma ne
 
   1
-  Zulm seh seh ke jo aansu thay hamesha hi rawan
-  Wo jo is bibi ke rukh par thay tamachon ke nishan
-  Apne bacchon se chupaye wo sada dukhiya ne
+  Zulm sah sah ke jo aansu the hamesha hi rawaaṅ
+  Wo jo is Bibi ke rukh par the tamaachoṅ ke nishaaṅ
+  Apne bachchoṅ se chhupaaye wo sada dukhiya ne
 
   2
-  Gham ki is maari ko kaunain ki shehzadi ko
-  Ghar ke hujre mein bhi haye re nabi zaadi ko
-  Apne baba pe bhi rone na diya aada ne
+  Gham ki is maari ko kaunain ki shahzaadi ko
+  Ghar ke hujre mein bhi haaye re Nabi zaadi ko
+  Apne baaba pe bhi rone na diya aada ne
 
   3
-  Jalta dar fatema zahra pe gira hai dekho
-  Kalma goyo zara mazlooma pe kuch rehm karo
-  Peet ke sar ko duhaai di yehi fizza ne
+  Jalta dar Faatima Zahra pe gira hai dekho
+  Kalma goyoṅ zara mazluma pe kuchh rahm karo
+  Pit ke sar ko duhaai di yehi Fizza ne
 
   4
-  Thi zaban par ye buka mujhpe bohat zulm hua
-  Dar gira mujhpe to mohsin bhi hua mujhse juda
-  Ki hai rote huwe faryad yehi zahra ne
+  Thi zabaaṅ par ye buka mujh pe bahut zulm hua
+  Dar gira mujh pe to Mohsin bhi hua mujh se juda
+  Ki hai rote hue faryaad yehi Zahra ne
 
   5
-  Tukde uske sar e darbar mai chunti hi rahi
-  Wo sanad haye mere saamne tukdon mein bati
-  Jo sanad likh ke mujhe di thi mere baba ne
+  Tukre us ke sar-e-darbaar mein chunti hi rahi
+  Wo sanad haaye mere saamne tukroṅ mein banti
+  Jo sanad likh ke mujhe di thi mere baaba ne
 
   6
-  Fatema zahra ka tha saans bhi lena doobhar
-  Phasliyan tooti thi pehlu bhi shikasta tha magar
-  Ye kisi ko na bataya kabhi mazlooma ne
+  Faatima Zahra ka tha saans bhi lena dubhar
+  Pasliyaṅ tuti thiṅ pehlu bhi shikasta tha magar
+  Ye kisi ko na bataaya kabhi mazluma ne
 
   7
-  Wo jo kehti thi lehad shab ko banana meri
-  Ya ali raat mein mayyat bhi uthana meri
-  Shab ki tareeki mein dafnaya usay maula ne
+  Wo jo kehti thi lahad shab ko banaana meri
+  Ya Ali raat mein mayyat bhi uthaana meri
+  Shab ki taariki mein dafnaaya use Maula ne
 
   8
-  Ab julooson mein hai taboot usi bibi ka
-  Haq bhi cheena gaya aur jis pe sitam dhaaya gaya
-  Jis ko izhaar sataya hai bohat dunya ne
+  Ab julusoṅ mein hai taabut usi Bibi ka
+  Haq bhi chhina gaya aur jis pe sitam dhaaya gaya
+  Jis ko Izhaar sataaya hai bahut dunya ne
 # source_id: nohayonline:23c924243d3a079c10c4
 # source_url: https://www.nohayonline.com/details_content.php?id=3076
 # raw_sha256: b0346fd109a33dadac35a32c0804102d2b4fd5837a55fcbcab1fd1f885b59238
 ---
 زخم پہلو کے جو بچوں سے چھپائے تھے وہی
 وقتِ رُخصت علی مولا سے بھی دیکھے نہ گئے
+
 پسلیاں ٹُوٹ گئیں درد سہا زہرا نے
 ہاتھ پہلُو سے ہٹایا نہیں مظلومہ نے
 
 ۱
 ظلم سہہ سہہ کے جو آنسو تھے ہمیشہ ہی رواں
-وہ جو اِس بی بی کے رُخ پر تھے طمانچوں کے نشاں
+وہ جو اِس بی‌بی کے رُخ پر تھے طمانچوں کے نشاں
 اپنے بچوں سے چھپائے وہ سدا دکھیا نے
 
 ۲
@@ -99,6 +102,6 @@ romanLyrics: |-
 شب کی تاریکی میں دفنایا اُسے مولا نے
 
 ۸
-اب جلوسوں میں ہے تابوت اُسی بی بی کا
+اب جلوسوں میں ہے تابوت اُسی بی‌بی کا
 حق بھی چھینا گیا اور جس پہ ستم ڈھایا گیا
 جس کو اظہار ستایا ہے بہت دنیا نے

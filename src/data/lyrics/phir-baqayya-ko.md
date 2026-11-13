@@ -6,85 +6,90 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Takallum & Shams"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Al ajal ay yusufe zahra
-  Phir baqayya ko hum banayenge
-  Jab imam e zamana aayenge
-  Qabr e zehra ki hogi jab taameer
-  Ambiya sab bulaye jayenge
+  Al ajal Ae Yusuf-e-Zahra
+
+  Phir Baqayya ko hum banaayeṅge
+  Jab Imaam-e-zamaana aayeṅge
+
+  Qabr-e-Zehra ki hogi jab taamir
+  Ambiya sab bulaaye jaayeṅge
 
   1
-  Sehn e ummul baneen ke andar
-  Pani pyason ko hum pilayenge
+  Sahn-e-Ummul Banin ke andar
+  Paani pyaasoṅ ko hum pilaayeṅge
 
   2
-  Qabre beemare karbala ke khareeb
-  Ek sehn e shifa banayenge
+  Qabr-e-bimaar-e-Karbala ke qarib
+  Ek sahn-e-shifa banaayeṅge
 
   3
-  Ishqe baqir mein aur sadiq mein
-  Ek daar ul qalam banayenge
+  Ishq-e-Baaqir mein aur Saadiq mein
+  Ek daarul qalam banaayeṅge
 
   4
-  Yaad e qasim mein qabr e shabbar par
-  Ansuon ke diye jalayenge
+  Yaad-e-Qaasim mein qabr-e-Shabbar par
+  Aansuoṅ ke diye jalaayeṅge
 
   5
-  Hum baqayya mein misle baab e jawaad
-  Bara baab e karam banayenge
+  Hum Baqayya mein misl-e-baab-e-Jawaad
+  Baarah baab-e-karam banaayeṅge
 
   6
-  Apne maula hassan ka dastarkhan
-  Zaairon ke liye bichayenge
+  Apne Maula Hasan ka dastarkhwaan
+  Zaairoṅ ke liye bichhaayeṅge
 
   7
-  Qabre zehra pe parchame abbas
-  Khud imame zaman lagayenge
+  Qabr-e-Zehra pe parcham-e-Abbaas
+  Khud Imaam-e-zamaaṅ lagaayeṅge
 
   8
-  Haan baqayya mein phir takallum o shams
-  Kafsh bardaari karne jayenge
+  Haaṅ Baqayya mein phir Takallum o Shams
+  Kafsh bardaari karne jaayeṅge
 # source_id: nohayonline:3d543b06aab0d9673602
 # source_url: https://www.nohayonline.com/details_content.php?id=1079
 # raw_sha256: 0c31755670912570220e75eb58259b957e7397c5af9d77fedc0687d631686a59
 ---
 العجل اے یوسف زہرا
-پھر بقیہ کو ہم بنائےنگے
-جب امام زمانہ آےنگے
+
+پھر بقیہ کو ہم بنائیں گے
+جب امام زمانہ آئیں گے
+
 قبر زہرا کی ہوگی جب تعمیر
-انبیاء سب بلاے جاےنگے
+انبیاء سب بلائے جائیں گے
 
 ۱
 صحن ام البنین کے اندر
-پانی پیاسوں کو ہم پلاےنگے
+پانی پیاسوں کو ہم پلائیں گے
 
 ۲
 قبر بیمار کربلا کے قریب
-ایک صحن شفا بنائےنگے
+ایک صحن شفا بنائیں گے
 
 ۳
 عشق باقر میں اور صادق میں
-ایک دارالقلم بنائےنگے
+ایک دارالقلم بنائیں گے
 
 ۴
 یاد قاسم میں قبر شبر پر
-آنسوؤں کے دیے جلاےنگے
+آنسوؤں کے دیے جلائیں گے
 
 ۵
 ہم بقیہ میں مثل باب جواد
-بارہ باب کرم بنائےنگے
+بارہ باب کرم بنائیں گے
 
 ۶
 اپنے مولا حسن کا دسترخوان
-زایروں کے لئے بچھاےنگے
+زائروں کے لیے بچھائیں گے
 
 ۷
 قبر زہرا پہ پرچم عباس
-قد امام زماں لگاےنگے
+خود امام زماں لگائیں گے
 
 ۸
 ہاں بقیہ میں پھر تکلم و شمس
-کفش برداری کرنے جاےنگے
+کفش برداری کرنے جائیں گے
