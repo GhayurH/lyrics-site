@@ -6,94 +6,61 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Zeeshan Abidi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Maqtal ki zameen aur qayamat ka wo manzar
-
-  Thay godh mein shabbir ki zakhmi ali akbar
-
-  Bete ki taraf dekh ke jab ya ali keh kar
-
-  Ek haath rakha seene pe ek haath sina par
-
-  Seene se sina khaynch ke kehne lage sarwar
-  Kya baap se is tarha juda hote hai akbar
+romanLyrics: |-
+  Maqtal ki zamiṅ aur qayaamat ka wo manzar
+  The god mein Shabbir ki zakhmi Ali Akbar
+  Bete ki taraf dekh ke jab Ya Ali keh kar
+  Ik haath rakha sine pe ik haath sinaaṅ par
+  Sine se sinaaṅ khench ke kehne lage Sarwar
+  Kya baap se is tarha juda hote haiṅ Akbar
 
   1
-  Meri jaan akbar tu yaad bahot aayega
-  Haye mere laal akbar ek baar pukaro baba
+  Meri jaan Akbar tu yaad bahut aayega
+  Ae mere laal Akbar ik baar pukaaro Baba
 
   2
-
-  Kya tum se kahun kis tarha pahuncha hoo sirhane
-
-  Mai ghutniyo chal kar tumhe aaya hoo uthane
-
-  Aankhein na karo band meri jaan chalo ghar
-
+  Kya tum se kahuṅ kis tarha pahuncha huṅ sarhaane
+  Main ghutniyoṅ chal kar tumheṅ aaya huṅ uthaane
+  Aankheṅ na karo band meri jaan chalo ghar
 
   3
-
-  Takleef hai seene mein ye ehsaas hai hum ko
-
-  Mehsoos karo tum bhi to is baap ke gham ko
-
-  Mar jaaunga yun aediyan ragdo na zameen par
-
+  Taklif hai sine mein ye ehsaas hai hum ko
+  Mehsus karo tum bhi to is baap ke gham ko
+  Mar jaauṅ ga yuṅ eriyaṅ ragro na zamiṅ par
 
   4
-
   Is haal mein gar saamne beta tera hota
-
-  Zakhmo ki taraf dekh ke kya tu nahi rota
-
-  Do hausla seene se lagalo mujhe uth kar
-
+  Zakhmoṅ ki taraf dekh ke kya tu nahiṅ rota
+  Do hausla sine se laga lo mujhe uth kar
 
   5
-
-  Chehre pe naqaab is liye rehta tha tumhare
-
-  Allah nazar na lage akbar ko hamare
-
-  Phir kis ki nazar kha gayi hamshakle payambar
-
+  Chehre pe naqaab is liye rehta tha tumhaare
+  Allah nazar na lage Akbar ko hamaare
+  Phir kis ki nazar kha gayi hamshakl-e-Payambar
 
   6
-
-  Kyun baap ki aaghosh mein dum tod rahe ho
-
-  Ghurbat mein akela hamein tum chhod rahe ho
-
-  Kyun hichkiyan lete ho mere saamne dilbar
-
+  Kiuṅ baap ki aaghosh mein dam tor rahe ho
+  Ghurbat mein akela hameṅ tum chhor rahe ho
+  Kiuṅ hichkiyaṅ lete ho mere saamne dilbar
 
   7
-
-  Zaalim ne sina maar ke jab zeen se giraya
-
-  Haathon se jigar thaam ke tu khaak pe aaya
-
-  Chehre pe tere khoon hai zakhmi hai tera sar
-
+  Zaalim ne sinaaṅ maar ke jab ziṅ se giraaya
+  Haathoṅ se jigar thaam ke tu khaak pe aaya
+  Chehre pe tere khun hai zakhmi hai tera sar
 
   8
-
-  Kuch dayr mein le aayega qasid khat e sughra
-
-  Hum se na padha jayega tum bhi na tadapna
-
-  Jis waqt pukarunga mai khat seene pe rakh kar
-
+  Kuchh der mein le aayega qaasid khat-e-Sughra
+  Hum se na parha jaayega tum bhi na tarapna
+  Jis waqt pukaaruṅ ga main khat sine pe rakh kar
 
   9
-
   Akbar ne jab aaghosh mein li aakhri hichki
-
-  Zeeshan o raza qaime se zainab ne sada di
-
-  Mar jayenge shabbir teri laash utha kar'
+  Zeeshan o Raza khaime se Zainab ne sada di
+  Mar jaayeṅ ge Shabbir teri laash utha kar
 # source_id: nohayonline:8f1f4dde4502ac9a968d
 # source_url: https://www.nohayonline.com/details_content.php?id=1835
 # raw_sha256: c3a7948a8ded3bdb71d108c33df853528a3209a6f02c2591cd9934ef2b37e802
@@ -115,13 +82,13 @@ romanLyrics: 'Maqtal ki zameen aur qayamat ka wo manzar
 
 ۲
 کیا تم سے کہوں کس طرح پہنچا ہوں سرہانے
-میں گٹھنیوں چل کر تمھیں آیا ہوں اُٹھانے
+میں گھٹنیوں چل کر تمھیں آیا ہوں اُٹھانے
 آنکھیں نہ کرو بند میری جان چلو گھر
 
 ۳
 تکلیف ہے سینے میں یہ احساس ہے ہم کو
 محسوس کرو تم بھی تو اِس باپ کے غم کو
-مرجاؤں گا یوں ایڑیاں رگڑو نہ زمیں پر
+مر جاؤں گا یوں ایڑیاں رگڑو نہ زمیں پر
 
 ۴
 اِس حال میں گر سامنے بیٹا تیرا ہوتا
@@ -145,7 +112,7 @@ romanLyrics: 'Maqtal ki zameen aur qayamat ka wo manzar
 
 ۸
 کچھ دیر میں لے آئے گا قاصد خطِ صغرا
-ہم سے نہ پڑھا جائیگا تم بھی نہ تڑپنا
+ہم سے نہ پڑھا جائے گا تم بھی نہ تڑپنا
 جس وقت پکاروں گا میں خط سینے پہ رکھ کر
 
 ۹

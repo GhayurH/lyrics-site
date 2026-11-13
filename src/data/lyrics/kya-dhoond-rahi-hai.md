@@ -1,72 +1,73 @@
 ---
 title: کیا ڈھونڈ رہی ہے جنگل میں سکینہ
-alternateTitle: Kya Dhoond Rahi Hai
+alternateTitle: Kya Dhund Rahi Hai
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Zafar"
+reciter: "Mirza Sikander Ali; Mesum Abbas"
 tags: ["noImage"]
-aliases: []
+aliases: ["Kya Dhoond Rahi Hai"]
 published: false
 romanLyrics: |-
-  Kya dhoond rahi hai jangal mein sakina
-  Abbas ke baazu ya baba ka seena
+  Kya dhund rahi hai jangal mein Sakina
+  Abbas ke baazu ya Baba ka sina
 
   1
-  Kaano se chine gohar aur aag thi daaman mein
-  Ghabrayi hui bacchi ye kehti rahi ran mein
-  Hai koi jo mujhko pahunchade madina
+  Kaanoṅ se chhine gohar aur aag thi daaman mein
+  Ghabraayi hui bachchi ye kehti rahi ran mein
+  Hai koi jo mujh ko pahuncha de Madina
 
   2
-  Kehti thi ke asghar ko le aao mere baba
-  Soona nazar aata hai bhai ka mere jhoola
-  Asghar ke baghair ab mujhko nahi jeena
+  Kehti thi ke Asghar ko le aao mere Baba
+  Suna nazar aata hai bhaai ka mere jhula
+  Asghar ke baghair ab mujh ko nahiṅ jina
 
   3
-  Zad par hai mazalim ki ye phool si masooma
-  Maqtal se kahan jaaye shabbir ki mazlooma
-  Wo durron ka khaana wo ashkon ka peena
+  Zad par hai mazaalim ki ye phul si maasuma
+  Maqtal se kahaaṅ jaaye Shabbir ki mazluma
+  Wo durroṅ ka khaana wo ashkoṅ ka pina
 
   4
-  Mushkil mein ghiri haye aulaad e nabi kaisi
-  Is dashte musibat mein hai tashnalabi kaisi
-  Aaya nahi ab tak saqqa e sakina
+  Mushkil mein ghiri haaye aulaad-e-Nabi kaisi
+  Is dasht-e-musibat mein hai tashnalabi kaisi
+  Aaya nahiṅ ab tak saqqa-e-Sakina
 
   5
-  Kehti thi sidhare hai bhai jo mere pyase
-  Jab tak nahi lautenge ammu mere darya se
-  Maine ay phupi jaan pani nahi peena
+  Kehti thi sidhaare haiṅ bhaai jo mere pyaase
+  Jab tak nahiṅ lauteṅ ge ammu mere darya se
+  Main ne ae phuphi jaan paani nahiṅ pina
 
   6
-  Pahunche jo shahe wala bete ki sada sunkar
-  Dekha ke ragadte hai aydi ko jawan akbar
-  Naize ki ani hai aur bete ka seena
+  Pahunche jo Shaah-e-Waala bete ki sada sun kar
+  Dekha ke ragarte haiṅ erhi ko jawaaṅ Akbar
+  Naize ki ani hai aur bete ka sina
 
   7
-  Ahmed ke nawase ko maara hai moharam may
-  Chalees baras roye sajjad isi gham may
-  Tareekh pukari hai gham ka mahina
+  Ahmed ke nawaase ko maara hai Muharram mein
+  Chaalis baras roye Sajjad isi gham mein
+  Taarikh pukaari hai gham ka mahina
 
   8
-  Honge sare mehshar bhi unche yuhin sar apne
-  Markhad ko ujalon se bhar denge zafar apne
-  Rakhte hai lehad may hum ashkon ka khazeena
+  Hoṅ ge sar-e-mehshar bhi unche yuṅ hi sar apne
+  Marqad ko ujaaloṅ se bhar deṅ ge Zafar apne
+  Rakhte haiṅ lahad mein hum ashkoṅ ka khazina
 
   9
-  Ye shaam ke zindan mein deewaron ko takti hai
+  Ye Shaam ke zindaaṅ mein diwaaroṅ ko takti hai
   Kya soch ke ye jaane din raat sisakti hai
-  Bichdi hai chacha se jab se ye hazeena
+  Bichhri hai chacha se jab se ye hazina
 
   10
-  Wo waqte judaai wo haalaat ki majboori
-  Sarwar se sakina ki ab tak na miti doori
-  Maqtal mein anghooti hai zindan mein nagina
+  Wo waqt-e-judaai wo haalaat ki majburi
+  Sarwar se Sakina ki ab tak na miti duri
+  Maqtal mein anguthi hai zindaaṅ mein nagina
 
   11
-  Masroof e ibadat ho tum shaam o sehar mesum
-  Kehte hai yehi roke din raat zafar mesum
-  Hai nazr e sakina ashkon ka khazeena
+  Masruf-e-ibaadat ho tum shaam o sahar Maisam
+  Kehte haiṅ yehi ro ke din raat Zafar Maisam
+  Hai nazr-e-Sakina ashkoṅ ka khazina
 # source_id: nohayonline:01e1fd3562b26b6fbec6
 # source_url: https://www.nohayonline.com/details_content.php?id=142
 # raw_sha256: f81a04deafe1a688251940883bdeccdfd4c5ca474931a633f50c7c68d68e5e3d
@@ -84,28 +85,28 @@ romanLyrics: |-
 
 ۱
 کانوں سے چھنے گوہر اور آگ تھی دامن میں
-گھبرای ہوی بچی یہ کہتی رہی رن میں
-ہے کوئی جو مجھکو پہنچادے مدینہ
+گھبرائی ہوئی بچی یہ کہتی رہی رن میں
+ہے کوئی جو مجھ کو پہنچا دے مدینہ
 
 ۲
 کہتی تھی کہ اصغر کو لے آؤ میرے بابا
 سونا نظر آتا ہے بھائی کا میرے جھولا
-اصغر کے بغیر اب مجھکو نہیں جینا
+اصغر کے بغیر اب مجھ کو نہیں جینا
 
 ۳
 ضد پر مظالم کے یہ پھول سی معصومہ
-مقتل سے کہاں جاے شبیر کی مظلومہ
-وہ دروں کا کھانا وہ اشکوں کا پینا
+مقتل سے کہاں جائے شبیر کی مظلومہ
+وہ دُرّوں کا کھانا وہ اشکوں کا پینا
 
 ۴
-مشکل میں گھری ہاے اولاد نبی کیسی
-اس دشت مصیبت میں ہے تشنہ لبی کیسی
-آیا نہیں اب تک سقاے سکینہ
+مشکل میں گھری ہائے اولادِ نبی کیسی
+اس دشتِ مصیبت میں ہے تشنہ لبی کیسی
+آیا نہیں اب تک سقائے سکینہ
 
 ۵
-کہتی تھی سدھارے ہیں بھای جو میرے پیاسے
+کہتی تھی سدھارے ہیں بھائی جو میرے پیاسے
 جب تک نہیں لوٹیں گے عمو میرے دریا سے
-میں نے یہ پھپھی جاں پانی نہیں پینا
+میں نے اے پھوپھی جان پانی نہیں پینا
 
 ۶
 پہنچے جو شاہِ والا بیٹے کی صدا سُن کر
@@ -118,21 +119,21 @@ romanLyrics: |-
 تاریخ پُکاری ہے غم کا مہینہ
 
 ۸
-ہونگے سرِ محشر بھی اونچے یوں ہی سر اپنے
-مرقد کو اُجالوں سے بھر دینگے ظفر اپنے
+ہوں گے سرِ محشر بھی اونچے یوں ہی سر اپنے
+مرقد کو اُجالوں سے بھر دیں گے ظفر اپنے
 رکھتے ہیں لحد میں ہم اشکوں کا خزینہ
 
 ۹
-یہ شام کی زنداں میں دیواروں کو تکتی ہے
+یہ شام کے زنداں میں دیواروں کو تکتی ہے
 کیا سوچ کے یہ جانے دن رات سسکتی ہے
 بچھڑی ہے چچا سے جب سے یہ حزینہ
 
 ۱۰
-وہ وقت جدائی وہ حالات کی مجبوری
+وہ وقتِ جدائی وہ حالات کی مجبوری
 سرور سے سکینہ کی اب تک نہ مٹی دوری
 مقتل میں انگوٹھی ہے زنداں میں نگینہ
 
 ۱۱
-مصروف عبادت ہو تم شام و سحر میثم
+مصروفِ عبادت ہو تم شام و سحر میثم
 کہتے ہیں یہی رو کے دن رات ظفر میثم
-ہے نزر سکینہ اشکوں کا خزینہ
+ہے نذرِ سکینہ اشکوں کا خزینہ
