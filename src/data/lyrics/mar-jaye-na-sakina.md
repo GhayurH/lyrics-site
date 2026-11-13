@@ -1,55 +1,56 @@
 ---
-title: "مر جاے نہ سکینہ زندان میں تنہا ہے"
+title: "مر جائے نہ سکینہ زندان میں تنہا ہے"
 alternateTitle: "Mar Jaye Na Sakina"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Mar jaye na sakina zindan mein tanha hai
-  Ghere huwe bacchi ko ghurbat ka andhera hai
+  Mar jaye na Sakina zindaan mein tanha hai
+  Ghere hue bachchi ko ghurbat ka andhera hai
 
   1
-  Ye kaisi yateemi hai jo hai wo rulaata hai
+  Ye kaisi yatimi hai jo hai wo rulaata hai
   Na koi tasalli hai na koi dilaasa hai
 
   2
-  Lab khushk hai bacchi ke aur haath rasan basta
-  Kuch khaak hai baalon mein boseeda sa kurta hai
+  Lab khushk hai bachchi ke aur haath rasan basta
+  Kuchh khaak hai baaloṅ mein bosida sa kurta hai
 
   3
-  Sehmi hui baithi hai ek kone mein shehzadi
+  Sehmi hui baithi hai ek kone mein shehzaadi
   Aahat bhi jo hoti hai dil kaampne lagta hai
 
   4
-  Jis waqt tadapti hai baba ko sada de kar
-  Masoom ki haalat par zindan bhi rota hai
+  Jis waqt tarapti hai baba ko sada de kar
+  Maasum ki haalat par zindaan bhi rota hai
 
   5
-  Kal soyi thi shehzadi shabbir ke seene par
+  Kal soyi thi shehzaadi Shabbir ke sine par
   Ab khaak ka bistar hai aur khaak ka takiya hai
 
   6
-  Lillaah koi jaa kar bacchi ko chuda laaye
-  Zaalim ke tamachon se behaal sakina hai
+  Lillaah koi jaa kar bachchi ko chhura laye
+  Zaalim ke tamaachoṅ se behaal Sakina hai
 
   7
-  Yun tadpi sakina ke ghabra gayi zainab bhi
-  Ro ro ke aseeron ne ghazi ko pukaara hai
+  Yuṅ tarpi Sakina ke ghabra gayi Zainab bhi
+  Ro ro ke asiroṅ ne Ghaazi ko pukaara hai
 
   8
-  Bas itna kaha gohar aur mar gayi shehzadi
-  Bin baap ke dunya mein jeena koi jeena hai
+  Bas itna kaha Gohar aur mar gayi shehzaadi
+  Bin baap ke dunya mein jina koi jina hai
 # source_id: nohayonline:e11fe4431f4111535b4c
 # source_url: https://www.nohayonline.com/details_content.php?id=2339
 # raw_sha256: a92ac4be62028875349806215046b2acbdc9ca8b1f7c8200eea281eb265254f1
 ---
-مر جاے نہ سکینہ زندان میں تنہا ہے
-گھیرے ہوے بچی کو غربت کا اندھیرا ہے
+مر جائے نہ سکینہ زندان میں تنہا ہے
+گھیرے ہوئے بچی کو غربت کا اندھیرا ہے
 
 ۱
 یہ کیسی یتیمی ہے جو ہے وہ رلاتا ہے
@@ -60,7 +61,7 @@ romanLyrics: |-
 کچھ خاک ہے بالوں میں بوسیدہ سا کرتہ ہے
 
 ۳
-سہمی ہوی بیٹھی ہے اک کونے میں شہزادی
+سہمی ہوئی بیٹھی ہے اک کونے میں شہزادی
 آہٹ بھی جو ہوتی ہے دل کانپنے لگتا ہے
 
 ۴
@@ -68,17 +69,17 @@ romanLyrics: |-
 معصوم کی حالت پر زندان بھی روتا ہے
 
 ۵
-کل سوی تھی شہزادی شبیر کے سینے پر
+کل سوئی تھی شہزادی شبیر کے سینے پر
 اب خاک کا بستر ہے اور خاک کا تکیہ ہے
 
 ۶
-لللہ کوی جا کر بچی کو چھڑا لاے
-ظالم کے طمانچوں سے بہل سکینہ ہے
+للہ کوئی جا کر بچی کو چھڑا لائے
+ظالم کے طمانچوں سے بے حال سکینہ ہے
 
 ۷
-یوں تڑپتی سکینہ کے گھبرا گیء زینب بھی
+یوں تڑپی سکینہ کے گھبرا گئی زینب بھی
 رو رو کے اسیروں نے غازی کو پکارا ہے
 
 ۸
-بس اتنا کہا گوہر اور مر گیء شہزادی
+بس اتنا کہا گوہر اور مر گئی شہزادی
 بن باپ کے دنیا میں جینا کوئی جینا ہے
