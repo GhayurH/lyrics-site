@@ -6,52 +6,53 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aap ache hai chacha par ye zamana nahi acha
-  Pyaas achi hai magar aap ka jaana nahi acha
+  Aap achhe haiṅ chacha par ye zamaana nahiṅ achha
+  Pyaas achhi hai magar aap ka jaana nahiṅ achha
 
   1
-  Aasman royega qaimon may qayamat hogi
-  Bin alamdaar alam qaimon may laana nahi acha
+  Aasmaaṅ royega khaimoṅ meiṅ qayaamat hogi
+  Bin alamdaar alam khaimoṅ meiṅ laana nahiṅ achha
 
   2
-  Sirf ek raat may kyon budha huwa hai sajjad
-  Sar khule maa'on ke beton ko dikhana nahi acha
+  Sirf ik raat meiṅ kiuṅ burha hua hai Sajjad
+  Sar khule maaṅoṅ ke betoṅ ko dikhaana nahiṅ achha
 
   3
-  Ek shehzaadi thi jis shehr ki bibi zainab
-  Iske bazaaron may zainab ko phirana nahi acha
+  Ik shehzaadi thi jis shehr ki Bibi Zainab
+  Us ke baazaaroṅ meiṅ Zainab ko phiraana nahiṅ achha
 
   4
-  Jaise zindaan may sakina hai mili baba se
-  Is tarha baap se beti ko milana nahi acha
+  Jaise zindaan meiṅ Sakina hai mili Baaba se
+  Is tarah baap se beti ko milaana nahiṅ achha
 
   5
-  Khush naseebi hai jo de baap ko beta kaandha
-  Baap ka laashe jawan haye uthana nahi acha
+  Khush nasibi hai jo de baap ko beta kaandha
+  Baap ka laash-e-jawaaṅ haaye uthaana nahiṅ achha
 
   6
-  Qabr asghar ki bana kar hai pareshan hussain
-  Aag si rayth may ek phool chupana nahi acha
+  Qabr Asghar ki bana kar hai pareshaan Husain
+  Aag si ret meiṅ ik phul chhupaana nahiṅ achha
 
   7
-  Ab hamesha mai rahoongi isi zindan may chacha
-  Mai na kehti thi mujhe chod ke jaana nahi acha
+  Ab hamesha maiṅ rahuṅ gi isi zindaaṅ meiṅ chacha
+  Maiṅ na kehti thi mujhe chhor ke jaana nahiṅ achha
 
   8
-  Sar khule bibiyan roti hai azakhano may
-  Shabe ashoor charagon ko jalana nahi acha
+  Sar khule Bibiyaaṅ roti haiṅ azaakhaanoṅ meiṅ
+  Shab-e-Aashur charaaghoṅ ko jalaana nahiṅ achha
 
   9
-  Har khushi sadqe may zainab ke khuda de tujhko
-  Haa moharram may khushi koi manana nahi acha
+  Har khushi sadqe meiṅ Zainab ke Khuda de tujh ko
+  Haaṅ Muharram meiṅ khushi koi manaana nahiṅ achha
 
   10
-  Hum ali walon ko ay sarwar o rehaan kabhi
-  Farshe matam ke siwa dhoondne jaana nahi acha
+  Hum Ali waaloṅ ko ae Sarwar o Rehaan kabhi
+  Farsh-e-maatam ke siwa dhundne jaana nahiṅ achha
 # source_id: nohayonline:e7bc813c0480de55ddfb
 # source_url: https://www.nohayonline.com/details_content.php?id=413
 # raw_sha256: 98f1b477aed0a2aa4446f57f81bc65640c8876221cd4c8395554affb26a3c3ff
@@ -65,10 +66,10 @@ romanLyrics: |-
 
 ۲
 صرف اک رات میں کیوں بوڑھا ہوا ہے سجاد
-سر کھُلے مائوں کے بیٹوں کو دیکھانا نہیں اچھا
+سر کھُلے ماؤں کے بیٹوں کو دکھانا نہیں اچھا
 
 ۳
-اک شہزادی تھی جس شہر کی بی بی زینب
+اک شہزادی تھی جس شہر کی بی‌بی زینب
 اس کے بازاروں میں زینب کو پھرانا نہیں اچھا
 
 ۴
@@ -81,14 +82,14 @@ romanLyrics: |-
 
 ۶
 قبر اصغر کی بنا کر ہے پریشان حسین
-آگ سی ریت میں اک پھول چھُپا نا نہیں اچھا
+آگ سی ریت میں اک پھول چھُپانا نہیں اچھا
 
 ۷
 اب ہمیشہ میں رہوں گی اسی زنداں میں چچا
 میں نہ کہتی تھی مجھے چھوڑ کے جانا نہیں اچھا
 
 ۸
-سر کھُلے بیبیاں روتی ہیں اعزاخانوں میں
+سر کھُلے بی‌بیاں روتی ہیں عزاخانوں میں
 شبِ عاشور چراغوں کو جلانا نہیں اچھا
 
 ۹
