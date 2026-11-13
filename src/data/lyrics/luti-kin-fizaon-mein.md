@@ -6,53 +6,55 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Viqar Nagri"
+reciter: "Mirza Sikander Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Luti kin fizaon mein aale payambar
-  Na mai keh sakoonga na tum sun sakoge
-  Hua kaise khaali ali ka bhara ghar
+  Luti kin fizaoṅ mein Aal-e-Payambar
+  Na main keh sakuṅ ga na tum sun sakogi
+  Hua kaise khaali Ali ka bhara ghar
+  Na main keh sakuṅ ga na tum sun sako ge
 
   1
-  Lagi dil pe barchi jigar moo ko aaya
-  Sada aayi maqtal se baba kahan ho
-  Chale kis ka laasha uthane ko sarwar
+  Lagi dil pe barchhi jigar muṅh ko aaya
+  Sada aayi maqtal se Baba kahaṅ ho
+  Chale kis ka laasha uthane ko Sarwar
 
   2
-  Wo khoonkhar sehra wo wehshi hawaein
-  Wo sunsan jangal wo maa ki sadayein
-  Kahan sogaye jaake jhoole se asghar
+  Wo khun khwaar chehra wo wahshi hawaeṅ
+  Wo sunsaan jangal wo maaṅ ki duaeṅ
+  Kahaṅ so gaye jaa ke jhule se Asghar
 
   3
-  Bada shimr khanjar liye kiski jaanib
-  Pukara tha maqtal se kis ne ali ko
-  Nazar aaya sar kiska noke sina par
+  Bara Shimr khanjar liye kis ki jaanib
+  Pukaara tha maqtal se kis ne Ali ko
+  Nazar aaya sar kis ka nok-e-sinaṅ par
 
   4
-  Kahoo umme laila ka mai haal kaise
-  Bayan kya ho kulsoom ki bebasi ka
-  Utaari gayi kaise zainab ki chadar
+  Kahuṅ Umm-e-Laila ka main haal kaise
+  Bayaṅ kya ho Kulsum ki bebasi ka
+  Utaari gayi kaise Zainab ki chaadar
 
   5
-  Na poocho nakahad si taari thi kis par
-  Na poocho kisay ghash pe ghash aa rahe thay
-  Ab aise mein jalne laga kiska bistar
+  Na puchho naqaahat si taari thi kis par
+  Na puchho kise ghash pe ghash aa rahe the
+  Ab aise mein jalne laga kis ka bistar
 
   6
-  Sataya tha ghurbat mein kis ko shaki ne
-  Kahoo kaise ruqsaar thay kis ke zakhmi
-  Tamache lagata tha kis ko sitamgar
+  Sataaya tha ghurbat mein kis ko shaqi ne
+  Kahuṅ kaise rukhsaar the kis ke zakhmi
+  Tamaanche lagaata tha kis ko sitamgar
 
   7
-  Wo be-chaadari wo aseeri ka aalam
+  Wo bechaadari wo asiri ka aalam
   Wo pur-haul sehra wo bedafn laashe
-  Wo shaam e ghariban ka dil soz manzar
+  Wo Shaam-e-Gharibaṅ ka dil soz manzar
 
   8
-  Viqar aah kis dil se ab mai bataun
-  Jo guzri hai zainab ke qalb e hazeen par
-  Wo bazaar o darbare koofe ka manzar
+  Viqar aah kis dil se ab main bataauṅ
+  Jo guzri hai Zainab ke qalb-e-haziṅ par
+  Wo baazaar o darbaar Kufe ka manzar
 # source_id: nohayonline:b2588403b8d34584f2a3
 # source_url: https://www.nohayonline.com/details_content.php?id=494
 # raw_sha256: 7c06e88b271437547fd1de4425ed1ee0c1cdc6746d983ad2266d93d95704b5da
@@ -68,12 +70,12 @@ romanLyrics: |-
 چلے کس کا لاشہ اٹھانے کو سرور
 
 ۲
-وہ خون خوار چہرہ وہ وحشی ہوایں
+وہ خون خوار چہرہ وہ وحشی ہوائیں
 وہ سنسان جنگل وہ ماں کی دعائیں
-کہاں سوگےء جاکے جھولے سے اصغر
+کہاں سو گئے جا کے جھولے سے اصغر
 
 ۳
-بڑا شمر خنجر لیےء کس کی جانب
+بڑا شمر خنجر لیے کس کی جانب
 پکارا تھا مقتل سے کس نے علی کو
 نظر آیا سر کس کا نوکِ سناں پر
 
@@ -94,7 +96,7 @@ romanLyrics: |-
 
 ۷
 وہ بے چادری وہ اسیری کا عالم
-وہ پر حول صحرا وہ بے دفن لاشے
+وہ پُرہول صحرا وہ بے دفن لاشے
 وہ شام غریباں کا دل سوز منظر
 
 ۸

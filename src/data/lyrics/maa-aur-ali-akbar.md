@@ -6,67 +6,68 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jab ali akbar sa beta shaah ko rab ne diya
-  Is aata e-kibriya par karbala ne di sada
-  Maa aur ali akbar ki maa
+  Jab Ali Akbar sa beta Shah ko Rab ne diya
+  Is ataa-e-Kibriya par Karbala ne di sada
+  Maaṅ aur Ali Akbar ki maaṅ
 
   1
-  Uska maatha choomti thi umme laila baar baar
-  Uska chehra dekh kar kehti thi ay parwardigar
-  Ye bahaar e zindagi hai ye mere ghar ki baahar
+  Us ka maatha chumti thi Umm-e-Laila baar baar
+  Us ka chehra dekh kar kehti thi Ae Parwardigaar
+  Ye bahaar-e-zindagi hai ye mere ghar ki bahaar
   Ye meri pehli tamanna ye mere dil ka qaraar
 
   2
-  Kaali dori baandti nanhi kalayi mein kabhi
-  Nanhe seene par kabhi karti thi dam nade ali
-  Kehti thi murjhaye na maula mere dil ki kali
-  Ye dil e shabbir hai ye hai hamari zindagi
+  Kaali dori baandhti nanhi kalaai mein kabhi
+  Nanhe sine par kabhi karti thi dam Naad-e-Ali
+  Kehti thi murjhaaye na Maula mere dil ki kali
+  Ye dil-e-Shabbir hai ye hai hamaari zindagi
 
   3
-  Ghutniyo chalne laga jis waqt unka sheerkhwar
-  Saaf karti apne aanchal se wo uski reh guzaar
-  Ay khuda-na-khaasta chub jaye na bache ke khaal
+  Ghutniyoṅ chalne laga jis waqt un ka shir khwaar
+  Saaf karti apne aanchal se wo us ki rah guzaar
+  Ae Khuda na khwaasta chubh jaaye na bachche ki khaal
   Chalte chalte jab wo thakta pusht pe karti sawaar
 
   4
-  Khayr se jab umr bad kar uski is qaabil huwi
-  Jis mein gehware ki khwahish ho na maa ki godh ki
+  Khair se jab umr barh kar us ki is qaabil hui
+  Jis mein gahwaare ki khwaahish ho na maaṅ ke god ki
   Bachpana ruqsat talab ho aur shabab aamad ghadi
-  Jab jawani aa rahi ho aur masay ho bheegti
+  Jab jawaani aa rahi ho aur mas ho bhigti
 
   5
-  Sab kunoon-e-harb sikhlate thay abbas-e-jari
-  Sehn mein kursi bicha kar maa bhi aksar dekhti
-  Mashq ke douran ek din yun hi naize ki ani
-  Chu gayi seene se laila par ghashi taari huwi
+  Sab qaanun-e-harb sikhlaate the Abbas-e-Jari
+  Sehn mein kursi bichha kar maaṅ bhi aksar dekhti
+  Mashq ke dauraan ik din yuṅ hi neze ki ani
+  Chhu gayi sine se Laila par ghashi taari hui
 
   6
-  Ek wo din tha ke jab barchi zara si chu gayi
-  Umme laila kaamp uthi aur ghashi taari huwi
-  Ek ye din hai meinaan e karbala dekhe koi
-  Hai jigar ke paar naiza aur maa hai dekhti
+  Ik wo din tha ke jab barchhi zara si chhu gayi
+  Umm-e-Laila kaaṅp uthi aur ghashi taari hui
+  Ik ye din hai maidaan-e-Karbala dekhe koi
+  Haaye jigar ke paar neza aur maaṅ hai dekhti
 
   7
-  Kya khabar thi umme laila ko wo din bhi aayega
-  Byaah ka armaan dil ka dil mein hi reh jayega
-  Laashe qasim ki tarha tukdon mein dil bat jayega
-  Naujawan ki laash par sehra sajaya jayega
+  Kya khabar thi Umm-e-Laila ko wo din bhi aaye ga
+  Byaah ka armaaṅ dil ka dil mein hi reh jaaye ga
+  Laash-e-Qasim ki tarah tukroṅ mein dil bat jaaye ga
+  Naujawaṅ ki laash par sehra sajaaya jaaye ga
 
   8
-  Umme laila dil sambhalo arsh se aayi sada
-  Barchiyon ke simt jaata hai tumhara mehlaqa
-  Yun karo ruqsat ke jaise ho samaa baraat ka
-  Khaaq mein mil jayegi laila shabihe mustafa
+  Umm-e-Laila dil sambhaalo arsh se aayi sada
+  Barchhiyoṅ ki simt jaata hai tumhaara mahlaka
+  Yuṅ karo rukhsat ke jaise ho samaaṅ baraat ka
+  Khaak mein mil jaaye gi Laila shabih-e-Mustafa
 
   9
-  Kis tarah rehaan ho us guftugu ka ab bayaan
-  Aurtain jab shaam ki kehti thi l ekar hichkiyan
-  Jis jawan ka noke naiza par huwa hai sar ayaan
-  Us jawan sey pehle ya rab mar gayi ho uski maa
+  Kis tarah Rehaan ho us guftugu ka ab bayaṅ
+  Aurateṅ jab Shaam ki kehti thiṅ le kar hichkiyaṅ
+  Jis jawaṅ ka nok-e-neza par hua hai sar ayaaṅ
+  Us jawaṅ se pehle ya Rab mar gayi ho us ki maaṅ
 # source_id: nohayonline:189ca40a481d08c43dcb
 # source_url: https://www.nohayonline.com/details_content.php?id=397
 # raw_sha256: 075514aed65951b59faa1096c71f703aaff49c3f0a0457e07ab7cd7735c78b45
@@ -84,7 +85,7 @@ romanLyrics: |-
 ۲
 کالی ڈوری باندھتی ننھی کلائی میں کبھی
 ننھے سینے پر کبھی کرتی تھی دم نادِ علی
-کہتی تھی مُرجھا ئے نہ مولا میرے دل کی کلی
+کہتی تھی مُرجھائے نہ مولا میرے دل کی کلی
 یہ دلِ شبیر ہے یہ ہے ہماری زندگی
 
 ۳
@@ -94,7 +95,7 @@ romanLyrics: |-
 چلتے چلتے جب وہ تھکتا پُشت پہ کرتی سوار
 
 ۴
-خیر سے جب عمر بڑھکر اسکی اس قابل ہوی
+خیر سے جب عمر بڑھ کر اس کی اس قابل ہوئی
 جس میں گہوارے کی خواہش ہو نہ ماں کے گود کی
 بچپنا رخصت طلب ہو اور شباب آمد گھڑی
 جب جوانی آ رہی ہو اور مس ہو بھیگتی

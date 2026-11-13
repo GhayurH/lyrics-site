@@ -6,70 +6,71 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Ali Khan Lakhnavi"
+reciter: "Ghadeer Fatima"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Luti dunya ali e murtuza ki
-  Shahadat ho gayi hai sayyeda ki
+  Luti dunya Ali-e-Murtaza ki
+  Shahadat ho gayi hai Sayyeda ki
 
   1
-  Khadija khuld mein nauha kuna hai
-  Duhaai de rahi hai wo khuda ki
+  Khadija khuld mein nauha kunaṅ hai
+  Duhaai de rahi hai wo Khuda ki
 
   2
-  Mila baagh e fidak ka dil ko sadma
-  Sitam ye aur mohsin ne qaza ki
+  Mile baagh-e-Fidak ka dil ko sadma
+  Sitam ye aur Mohsin ne qaza ki
 
   3
-  Hai gham mein mubtila rooh e payambar
-  Lehad tharra rahi hai mustafa ki
+  Hai gham mein mubtila ruh-e-Payambar
+  Lahad tharra rahi hai Mustafa ki
 
   4
-  Milayzakhmon pa usko zakhm itne
-  Zaroorat thi bahot jisko dawa ki
+  Mile zakhmoṅ pe us ko zakhm itne
+  Zarurat thi bahut jis ko dawa ki
 
   5
-  Tha mayyat par yehi zainab ka nauha
+  Tha mayyat par yehi Zainab ka nauha
   Saza paayi hai hum ne kis khata ki
 
   6
-  Kaha hasnain ne qabr e nabi par
-  Aray nana meri maa ne qaza ki
+  Kaha Hasnain ne qabr-e-Nabi par
+  Are Nana meri maaṅ ne qaza ki
 
   7
-  Ba waqte ghusl e mayyat roye hyder
-  Shikasta phasliyan thi ehliya ki
+  Ba waqt-e-ghusl-e-mayyat roye Haidar
+  Shikasta pasliyaṅ thi ahliya ki
 
   8
   Na le kar jaaiye maadar ko meri
-  Padar se betiyon ne ilteja ki
+  Padar se betiyoṅ ne iltija ki
 
   9
-  Madina ro raha tha khoon ke aansu
-  Uthi mayyat jo ghar se fatema ki
+  Madina ro raha tha khuṅ ke aansu
+  Uthi mayyat jo ghar se Fatema ki
 
   10
-  Musmalmano na maaro is pa pathar
-  Ke mayyat hai ye binte mustafa ki
+  Musalmanoṅ na maaro is pe patthar
+  Ke mayyat hai ye bint-e-Mustafa ki
 
   11
-  Gham e zehra mein girya ho raha hai
-  Moharram hai safon mein ambiya ki
+  Gham-e-Zehra mein girya ho raha hai
+  Muharram hai safoṅ mein Ambiya ki
 
   12
-  Rasool e paak ka gulshan hai zad mein
+  Rasul-e-Paak ka gulshan hai zid mein
   Sitam ki aag hai aisi bala ki
 
   13
-  Ghame sheh par raza kyun kar na roye
-  Haqeeqat jaante hai karbala ki
+  Gham-e-Shah par Raza kiuṅ kar na roye
+  Haqiqat jaante haiṅ Karbala ki
 # source_id: nohayonline:a1c5c369def07c5374ec
 # source_url: https://www.nohayonline.com/details_content.php?id=2000
 # raw_sha256: 05a35ef857fcef19ec02b8c6e243e54c6ff127d25b62a671ae9a954ff1de3c06
 ---
 لٹی دنیا علی مرتضیٰ کی
-شہادت ہو گیء ہے سیدہ کی
+شہادت ہو گئی ہے سیدہ کی
 
 ۱
 خدیجہ خلد میں نوحہ کناں ہے
@@ -84,27 +85,27 @@ romanLyrics: |-
 لحد تھرا رہی ہے مصطفیٰ کی
 
 ۴
-ملے زخموں پہ اسکو زخم اتنے
+ملے زخموں پہ اس کو زخم اتنے
 ضرورت تھی بہت جس کو دوا کی
 
 ۵
 تھا میت پر یہی زینب کا نوحہ
-سزا پای ہے ہم نے کس خطا کی
+سزا پائی ہے ہم نے کس خطا کی
 
 ۶
 کہا حسنین نے قبر نبی پر
 ارے نانا میری ماں نے قضا کی
 
 ۷
-بہ وقت غسل میت روے حیدر
+بہ وقت غسل میت روئے حیدر
 شکستہ پسلیاں تھی اہلیہ کی
 
 ۸
-نہ لے کر جایےء مادر کو میری
+نہ لے کر جائیے مادر کو میری
 پدر سے بیٹیوں نے التجاء کی
 
 ۹
-مدینہ رو رہا تھا خوں کے آنسوں
+مدینہ رو رہا تھا خوں کے آنسو
 اٹھی میت جو گھر سے فاطمہ کی
 
 ۱۰
@@ -120,5 +121,5 @@ romanLyrics: |-
 ستم کی آگ ہے ایسی بلا کی
 
 ۱۳
-غمِ شہ پر رضا کیوں کر نہ روے
+غمِ شہ پر رضا کیوں کر نہ روئے
 حقیقت جانتے ہیں کربلا کی
