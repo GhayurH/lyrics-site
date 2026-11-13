@@ -6,72 +6,73 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hussain waalon suno ye hai qatl gaah e hussain
-  Tadap raha tha yahin par ali ke dil ka chain
-  
+  Husain waaloṅ suno ye hai qatl gaah-e-Husain
+  Tarap raha tha yahiṅ par Ali ke dil ka chain
+
   1
-  Isi muqam pe zehra ye kar rahi thi bain
-  Na qatl kar meri godhi mein mera noor e ain
-  Yahan talak suno kaise hussain aaya tha
-  Layeen khaynch ke baalon se usko laaya tha
-  
+  Isi maqaam pe Zehra ye kar rahi thi bain
+  Na qatl kar meri godi mein mera nur-e-ain
+  Yahaaṅ talak suno kaise Husain aaya tha
+  Lain khiṅch ke baaloṅ se usko laaya tha
+
   2
-  Tamacha maar ke seene pe jab sawaar hua
-  Tadap ke reh gaye shabbir sirf itna kaha
-  Utar ja seene se zaalim na zulm kar aisa
-  Hai mere seene pe bas haq meri sakina ka
-  
+  Tamaacha maar ke sine pe jab sawaar hua
+  Tarap ke reh gaye Shabbir sirf itna kaha
+  Utar ja sine se zaalim na zulm kar aisa
+  Hai mere sine pe bas haq meri Sakina ka
+
   3
-  Yahan pe aayi to mar jayegi wo ro ro kar
-  Sakina dekh na le tujhko mere seene par
+  Yahaaṅ pe aayi to mar jaayegi wo ro ro kar
+  Sakina dekh na le tujhko mere sine par
   Kabhi badan pe wo khanjar se waar karta tha
-  Kabhi hussain ke zakhmon pe khaak daalta tha
-  
+  Kabhi Husain ke zakhmoṅ pe khaak daalta tha
+
   4
-  Phir apne paaon se zakhmon ko jab masalta tha
-  Ali ka beta wahan baar baar marta tha
-  Ghareeb e zehra jab abbas ko pukarta tha
-  Layeen daadhi pakad kar tamacha maarta tha
-  
+  Phir apne paaoṅ se zakhmoṅ ko jab masalta tha
+  Ali ka beta wahaaṅ baar baar marta tha
+  Gharib-e-Zehra jab Abbas ko pukaarta tha
+  Lain daarhi pakar kar tamaacha maarta tha
+
   5
-  Isi maqam se sattar qadam thi door bahan
-  Pukarti rahi na kaat shimr sookha dahan
-  Tu jaanta hai bahot door hai hamara watan
-  Mai le ke aaungi uske liye kahan se kafan
-  
+  Isi maqaam se sattar qadam thi dur behen
+  Pukaarti rahi na kaat Shimr sukha dahan
+  Tu jaanta hai bahut dur hai hamaara watan
+  Main le ke aauṅgi uske liye kahaaṅ se kafan
+
   6
-  Wahan hassan ko mile do kafan mai bhooli nahi
-  Yahan hussain ki qismat mein ek kafan bhi nahi
-  Zaban khushk hai zakhmi hai iski peshani
-  Jawan bete ke qaatil ne maari hai barchi
-  
+  Wahaaṅ Hasan ko mile do kafan main bhuli nahiṅ
+  Yahaaṅ Husain ki qismat mein ik kafan bhi nahiṅ
+  Zabaan khushk hai zakhmi hai iski peshaani
+  Jawaan bete ke qaatil ne maari hai barchhi
+
   7
-  Hazaron zakhm ye khaakar gira hai thak ke abhi
-  Hawa hai garm zameen tap rahi hai maqtal ki
-  Pila de pani mohamed ka ye nawasa hai
-  Hai moo khula hua na jaane kitna pyasa hai
-  
+  Hazaaroṅ zakhm ye khaakar gira hai thak ke abhi
+  Hawa hai garm zamiṅ tap rahi hai maqtal ki
+  Pila de paani Muhammad ka ye nawaasa hai
+  Hai munh khula hua na jaane kitna pyaasa hai
+
   8
-  Ay rone waalon ye dil thaam kar suno manzar
-  Chali churi to rakha haath maa ne ro ro kar
-  Gala samajh ke wh karta tha waar gin ke magar
-  Haan zakhm aate rahe fatema ke haathon par
-  
+  Ae rone waaloṅ ye dil thaam kar suno manzar
+  Chali chhuri to rakha haath maaṅ ne ro ro kar
+  Gala samajh ke wo karta tha waar gin ke magar
+  Haaṅ zakhm aate rahe Fatima ke haathoṅ par
+
   9
-  Hussain kehte thay amma hata lo haath amma
-  Gale pe chalne do khanjar bacha lo haath amma
-  Tadapte reh gaye maqtal mein dono maa bete
-  Gale pe shaah ke zaalim ne tera waar kiye
-  
+  Husain kehte the ammaaṅ hata lo haath ammaaṅ
+  Gale pe chalne do khanjar bacha lo haath ammaaṅ
+  Tarapte reh gaye maqtal mein donoṅ maaṅ bete
+  Gale pe Shaah ke zaalim ne tera waar kiye
+
   10
-  Bayaan haal ho zeeshan aur raza kaise
-  Abhi talak to bahan uth rahi thi gir gir ke
-  Sar e hussain kata dekh na saki zainab
-  Zameen pe aise giri jaise mar gayi zainab
+  Bayaan haal ho Zishan aur Raza kaise
+  Abhi talak to behen uth rahi thi gir gir ke
+  Sar-e-Husain kata dekh na saki Zainab
+  Zamiṅ pe aise giri jaise mar gayi Zainab
 # source_id: nohayonline:f7e20f74b91629326990
 # source_url: https://www.nohayonline.com/details_content.php?id=2813
 # raw_sha256: 75925e568b7e25390a5236af971d32e355a9cf0705593a0e2f492fdfc512c075
