@@ -9,82 +9,49 @@ poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Khat fatema sughra ne ye baba ko likha hai
-
+romanLyrics: |-
+  Khat Fatema Sughra ne ye baba ko likha hai
+  Bimaar huṅ marti huṅ ye sab tum ko pata hai
 
   1
-
-  Bemaar hoo marti hoo ye sab tum ko pata hai
-
-  Jis roz se dekha hai moharram ka naya chand
-
-  Ye kaise likun baba ke dil doob gaya hai
-
+  Jis roz se dekha hai Muharram ka naya chaand
+  Ye kaise likhuṅ baba ke dil dub gaya hai
 
   2
-
-  Kab laut ke ghar aaoge bhaiya ali akbar
-
-  Kab tak takoo mai raah ke pathra gayi aankhein
-
-  Ab to meri saanson ka bharosa nahi koi
-
-  Ab jeene ki hasrat se bhi ghabra gayi aankehin
-
-  Waada jo kiya waada nibhane nahi aaye
-
-  Bemaar se kis baat pe moo phayr liya hai
-
+  Kab laut ke ghar aaoge bhaiya Ali Akbar
+  Kab tak takuṅ main raah ke pathra gaiṅ aankheṅ
+  Ab to meri saansoṅ ka bharosa nahiṅ koi
+  Ab jine ki hasrat se bhi ghabra gaiṅ aankheṅ
+  Waada jo kiya waada nibhaane nahiṅ aaye
+  Bimaar se kis baat pe muṅh pher liya hai
 
   3
-
-  Baba mujhe dasti hai ye tanhai watan ki
-
+  Baba mujhe dasti hai ye tanhaai watan ki
   Ye ghar ki udaasi hai to phir qabr mein kya hai
 
-
   4
-
-  Baba mera ye soch ke thak jaata hai seena
-
-  Tum jab se gaye ujda hai nana ka madina
-
-  Khaak udti hai us ghar mein jahan rehti hai sughra
-
-  Bhai nahi baba nahi dushwaar hai jeena
-
-  Laut aate hai ghar shaam ke hote hi parinde
-
-  Kunba mera kyon ab bhi safar mein hi raha hai
-
+  Baba mere ye soch ke thak jaata hai sina
+  Tum jab se gaye ujra hai nana ka Madina
+  Khaak urti hai us ghar mein jahaaṅ rehti hai Sughra
+  Bhai nahiṅ baba nahiṅ dushwaar hai jina
+  Laut aate haiṅ ghar shaam ke hote hi parinde
+  Kunba mera kiuṅ ab bhi safar mein hi raha hai
 
   5
-
   Tum jab se gaye ghar se ye ghar qabr hai meri
-
-  Mai zindan hoo aise ke koi laasha pada hai
-
+  Main zinda huṅ aisi ke koi laasha para hai
 
   6
-
-  Jhoola ali asghar ka jhulane ki thi hasrat
-
-  Godhi mein usay leke phirane ki thi hasrat
-
-  Mai haaton ko phailaati wo godh mein aata
-
-  Seene se usay yun bhi lagane ki thi hasrat
-
-  Baba mere asghar ka to kuch haal sunao
-
-  Us be-zaban ne mujhko kabhi yaad kiya hai
-
+  Jhula Ali Asghar ka jhulaane ki thi hasrat
+  Godi mein use le ke phiraane ki thi hasrat
+  Main haathoṅ ko phailaati thi wo god mein aata
+  Sine se use yuṅ bhi lagaane ki thi hasrat
+  Baba mere Asghar ka to kuchh haal sunaao
+  Us bezabaaṅ ne mujh ko kabhi yaad kiya hai
 
   7
-
-  Dekha hai hasan sadiq rehaan ke nauhon mein
-
-  Ashkon ka samandar hai jo palkon pe ruka hai'
+  Dekha hai Hasan Sadiq Rehaan ke nauhoṅ mein
+  Ashkoṅ ka samandar hai jo palkoṅ pe ruka hai
 reciter: Hasan Sadiq
 # source_id: nohayonline:e366739679a87856e29a
 # source_url: https://www.nohayonline.com/details_content.php?id=619
@@ -95,9 +62,9 @@ reciter: Hasan Sadiq
 ---
 
 خط فاطمہ صغریٰ نے یہ بابا کو لکھا ہے
+بیمار ہوں مرتی ہوں یہ سب تم کو پتہ ہے
 
 ۱
-بیمارہوں مرتی ہوں یہ سب تم کو پتہ ہے
 جس روز سے دیکھا ہے محرم کا نیا چاند
 یہ کیسے لکھوں بابا کہ دل ڈوب گیا ہے
 
@@ -105,7 +72,7 @@ reciter: Hasan Sadiq
 کب لوٹ کے گھر آؤ گے بھیا علی اکبر
 کب تک تکوں میں راہ کے پتھرا گئیں آنکھیں
 اب تو میری سانسوں کا بھروسہ نہیں کوئی
-اب جینے کی حسرت سے بھی گھبراگیء آنکھیں
+اب جینے کی حسرت سے بھی گھبرا گئیں آنکھیں
 وعدہ جو کیا وعدہ نبھانے نہیں آئے
 بیمار سے کس بات پہ منہ پھیر لیا ہے
 
@@ -114,8 +81,8 @@ reciter: Hasan Sadiq
 یہ گھر کی اُداسی ہے تو پھر قبر میں کیا ہے
 
 ۴
-بابا میرے یہ سونچ کے تھک جاتا ہے سینہ
-تم جب سے گےء اجڑا ہے نانا کا مدینہ
+بابا میرے یہ سوچ کے تھک جاتا ہے سینہ
+تم جب سے گئے اجڑا ہے نانا کا مدینہ
 خاک اڑتی ہے اس گھر میں جہاں رہتی ہے صغرا
 بھائی نہیں بابا نہیں دشوار ہے جینا
 لوٹ آتے ہیں گھر شام کے ہوتے ہی پرندے
@@ -127,10 +94,10 @@ reciter: Hasan Sadiq
 
 ۶
 جھولا علی اصغر کا جھلانے کی تھی حسرت
-گودی میں اسے لےکے پھرانے کی تھی حسرت
+گودی میں اسے لے کے پھرانے کی تھی حسرت
 میں ہاتھوں کو پھیلاتی تھی وہ گود میں آتا
 سینے سے اسے یوں بھی لگانے کی تھی حسرت
-با با میرے اصغر کا تو کچھ حال سنائو
+بابا میرے اصغر کا تو کچھ حال سناؤ
 اُس بے زباں نے مجھ کو کبھی یاد کیا ہے
 
 ۷

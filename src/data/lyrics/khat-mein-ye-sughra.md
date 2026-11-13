@@ -9,41 +9,42 @@ poet: "Suroor Lakhnavi"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: Anj. Grohe Hussain
 romanLyrics: |-
-  Khat mein ye sughra ne likha kya hua
-  Kyun nahi aate ho bhaiya kya hua
+  Khat mein ye Sughra ne likha kya hua
+  Kiuṅ nahiṅ aate ho bhaiya kya hua
 
   1
-  Khaali jhoole ko jhulati hai rabab
-  Jhoolne waala wo baccha kya hua
+  Khaali jhule ko jhulaati hai Rabab
+  Jhulne waala wo bachcha kya hua
 
   2
-  Kaun pooche abid e bemaar se
-  Do peher mein saara kunba kya hua
+  Kaun puchhe Aabid-e-bimaar se
+  Do pehar mein saara kunba kya hua
 
   3
-  Umme laila laasha e akbar ke paas
-  Poochte hai maa ki mamta kya hua
+  Umm-e-Laila laasha-e-Akbar ke paas
+  Puchhte haiṅ maaṅ ki mamta kya hua
 
   4
-  Kis liye chup ho mere kadiyal jawan
-  Moo se kuch bolo to beta kya hua
+  Kis liye chup ho mere karyal jawaaṅ
+  Muṅh se kuchh bolo to beta kya hua
 
   5
-  Poochti hai mayyat e qasim se maa
-  Mere bacche tera sehra kya hua
+  Puchhti hai mayyat-e-Qasim se maaṅ
+  Mere bachche tera sehra kya hua
 
   6
-  Ro padi zainab badan ko dekh kar
-  Sher sa bhai hamara kya hua
+  Ro pari Zainab badan ko dekh kar
+  Sher sa bhai hamaara kya hua
 
   7
-  Ro pade sughra ka khat padh kar hussain
-  Kya likhun beti yahan kya kya hua
+  Ro pare Sughra ka khat parh kar Husain
+  Kya likhuṅ beti yahaaṅ kya kya hua
 
   8
-  Berida aale payambar hai suroor
-  Tujhko ay ehsaas e dunya kya hua
+  Berida Aal-e-Payambar hai Suroor
+  Tujh ko ae ehsaas-e-dunya kya hua
 # source_id: nohayonline:3fe76e31859a5e48724a
 # source_url: https://www.nohayonline.com/details_content.php?id=3715
 # raw_sha256: f0a373fd61c6950800e993d7986efa68966a2ddf27a4ec04012b30988af9a7b4
@@ -60,7 +61,7 @@ romanLyrics: |-
 دو پہر میں سارا کنبہ کیا ہوا
 
 ۳
-ام‌ لیلیٰ لاشہء اکبر کے پاس
+امِ لیلیٰ لاشۂ اکبر کے پاس
 پوچھتے ہیں ماں کی ممتا کیا ہوا
 
 ۴
@@ -68,7 +69,7 @@ romanLyrics: |-
 منہ سے کچھ بولو تو بیٹا کیا ہوا
 
 ۵
-پوچھتی ہے میت قاسم سے ماں
+پوچھتی ہے میتِ قاسم سے ماں
 میرے بچے تیرا سہرا کیا ہوا
 
 ۶
@@ -80,5 +81,5 @@ romanLyrics: |-
 کیا لکھوں بیٹی یہاں کیا کیا ہوا
 
 ۸
-بے ردا آل پیمبر ہے سرور
-تجھکو اے احساس دنیا کیا ہوا
+بے ردا آلِ پیمبر ہے سرور
+تجھ کو اے احساسِ دنیا کیا ہوا

@@ -1,110 +1,72 @@
 ---
 title: کربلا میں جو خط فاطمہ صغریٰ آیا
-alternateTitle: Khate Sughra
+alternateTitle: Khat-e-Sughra
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mir Takallum"
 tags: ["noImage"]
-aliases: []
+aliases: ["Khate Sughra"]
 published: false
-romanLyrics: 'Karbala mein jo khat e fatema sughra aaya
-
-  Padh ke ye baat bahot shaah ko rona aaya
-
+reciter: Shahid Baltistani
+romanLyrics: |-
+  Karbala mein jo khat-e-Fatema Sughra aaya
+  Parh ke ye baat bahut Shah ko rona aaya
+  Hashr mein hogi mulaaqaat hamaari baba
+  Ab na ji paayegi bimaar tumhaari baba
 
   1
-
-  Hashr mein hogi mulaaqat hamari baba
-
-  Ab na jee payegi bemaar tumhari baba
-
-  Sughra ne likha baba mushkil hai mera jeena
-
+  Sughra ne likha baba mushkil hai mera jina
   Jab laut ke aaoge meri qabr pe aa jaana
 
-
   2
-
-  Jab doobta hai suraj dil doobne lagta hai
-
-  Veeran hai sab hujre ghar qabr ke jaisa hai
-
+  Jab dubta hai suraj dil dubne lagta hai
+  Viraan hai sab hujre ghar qabr ke jaisa hai
   Hai mere muqaddar mein tanhaai mein mar jaana
-
-  Jab laut ke aaoge...
-
+  Jab laut ke aaoge meri qabr pe aa jaana
 
   3
-
-  Sughra ne likha baba...
-
-  Hai paas ajal mere tum door ho sughra se
-
-  Hasrat ye liye baba jaati hoo mai dunya se
-
-  Kaandha to janaze ko mumkin na hua dena
-
+  Hai paas ajal mere tum dur ho Sughra se
+  Hasrat ye liye baba jaati huṅ main dunya se
+  Kaandha to janaaze ko mumkin na hua dena
+  Jab laut ke aaoge meri qabr pe aa jaana
 
   4
-
   Aata hai palat kar jab pardes se ghar koi
-
-  Maloom hai sughra ko hoti hai thakan phir bhi
-
+  Maalum hai Sughra ko hoti hai thakan phir bhi
+  Ae baba meri khaatir zahmat ye utha lena
+  Jab laut ke aaoge meri qabr pe aa jaana
 
   5
-
-  Ay baba meri khaatir zehmat ye utha lena
-
-  Aakar meri turbat par sab shamma jalayenge
-
+  Aa kar meri turbat par sab shama jalaayeṅge
+  Aur bhai sirhaane par Yasin sunaayeṅge
+  Ho jaayega is tarah aabaad wo viraana
+  Jab laut ke aaoge meri qabr pe aa jaana
 
   6
-
-  Aur bhai sirhane par yaseen sunayenge
-
-  Ho jayega is tarha aabaad wo veerana
-
+  Ae kaash Madine mein wo paas mere rehta
+  Sughra ke janaaze par ek bhai to ro leta
+  Baba mere Asghar ko turbat meri dikhlaana
+  Jab laut ke aaoge meri qabr pe aa jaana
 
   7
-
-  Ay kaash madine mein wo paas mere rehta
-
-  Sughra ke janaze par ek bhai to ro leta
-
-  Baba mere asghar ko turbat meri dikhlana
-
+  Bhai ki mohabbat par na harf koi aaye
+  Maalum na ho un ko ye raaz hi reh jaaye
+  Marne ka sabab meri bhaabhi ko na batlaana
+  Jab laut ke aaoge meri qabr pe aa jaana
 
   8
-
-  Bhai ki mohabbat par na harf koi aaye
-
-  Maloom na ho unko ye raaz hi reh jaaye
-
-  Marne ka sabab meri bhabhi ko na batlana
-
+  Rukh hoga lahad mein bhi ae baba su-e-qibla
+  Main qabr mein jaa kar bhi dekhuṅgi tera rasta
+  Achchha mere waade ko tum yuṅ hi nibha lena
+  Jab laut ke aaoge meri qabr pe aa jaana
 
   9
-
-  Rukh hoga lahad mein bhi ay baba suye qibla
-
-  Mai qabr mein jaa kar bhi dekhungi tera rasta
-
-
-  10
-
-  Acha mere waade ko tum yun hi nibha lena
-
-  Karti thi takallum wo ye bain qayamat ka
-
-
-  11
-
-  Dastoor nahi hota murde se mohabbat ka
-
-  Amma ko magar baba paigham ye pahunchana'
+  Karti thi Takallum wo ye bain qayaamat ka
+  Dastur nahiṅ hota murde se mohabbat ka
+  Amma ko magar baba paighaam ye pahuṅchaana
+  Jab laut ke aaoge meri qabr pe aa jaana
 # source_id: nohayonline:5e8892917840ea0c9899
 # source_url: https://www.nohayonline.com/details_content.php?id=2408
 # raw_sha256: 490de43daa5ef4951d4c5c2f0b5dfd9336a2302cb55bbd07c807b119368d6e5f
@@ -115,10 +77,10 @@ romanLyrics: 'Karbala mein jo khat e fatema sughra aaya
 
 کربلا میں جو خط فاطمہ صغریٰ آیا
 پڑھ کے یہ بات بہت شاہ کو رونا آیا
+حشر میں ہو گی ملاقات ہماری بابا
+اب نہ جی پائے گی بیمار تمہاری بابا
 
 ۱
-حشر میں ہو گی ملاقات ہماری بابا
-اب نہ جی پاے گی بیمار تمہاری بابا
 صغرا نے لکھا بابا مشکل ہے میرا جینا
 جب لوٹ کے آؤ گے میری قبر پہ آ جانا
 
@@ -126,44 +88,46 @@ romanLyrics: 'Karbala mein jo khat e fatema sughra aaya
 جب ڈوبتا ہے سورج دل ڈوبنے لگتا ہے
 ویران ہے سب حجرے گھر قبر کے جیسا ہے
 ہے میرے مقدر میں تنہائی میں مر جانا
-جب لوٹ کے آؤ گے۔۔۔
+جب لوٹ کے آؤ گے میری قبر پہ آ جانا
 
 ۳
-صغرا نے لکھا بابا۔۔۔
 ہے پاس اجل میرے تم دور ہو صغرا سے
-حسرت یہ لےء بابا جاتی ہوں میں دنیا سے
+حسرت یہ لیے بابا جاتی ہوں میں دنیا سے
 کاندھا تو جنازے کو ممکن نہ ہوا دینا
+جب لوٹ کے آؤ گے میری قبر پہ آ جانا
 
 ۴
-آتا ہے پلٹ کر جب پردیس سے گھر کوی
+آتا ہے پلٹ کر جب پردیس سے گھر کوئی
 معلوم ہے صغرا کو ہوتی ہے تھکن پھر بھی
+اے بابا میری خاطر زحمت یہ اٹھا لینا
+جب لوٹ کے آؤ گے میری قبر پہ آ جانا
 
 ۵
-اے بابا میری خاطر زحمت یہ اٹھا لینا
 آ کر میری تربت پر سب شمع جلائیں گے
+اور بھائی سرہانے پر یاسین سنائیں گے
+ہو جائے گا اس طرح آباد وہ ویرانہ
+جب لوٹ کے آؤ گے میری قبر پہ آ جانا
 
 ۶
-اور بھای سرہانے پر یاسین سنائیں گے
-ہو جاے گا اس طرح آباد وہ ویرانہ
+اے کاش مدینے میں وہ پاس میرے رہتا
+صغریٰ کے جنازے پر اک بھائی تو رو لیتا
+بابا میرے اصغر کو تربت میری دکھلانا
+جب لوٹ کے آؤ گے میری قبر پہ آ جانا
 
 ۷
-اے کاش مدینے میں وہ پاس میرے رہتا
-صغریٰ کے جنازے پر اک بھای تو رو لیتا
-بابا میرے اصغر کو تربت میری دکھلانا
+بھائی کی محبت پر نہ حرف کوئی آئے
+معلوم نہ ہو ان کو یہ راز ہی رہ جائے
+مرنے کا سبب میری بھابھی کو نہ بتلانا
+جب لوٹ کے آؤ گے میری قبر پہ آ جانا
 
 ۸
-بھای کی محبت پر نہ حرف کوئی آے
-معلوم نہ ہو انکو یہ راز ہی رہ جاے
-مرنے کا سبب میری بھابھی کو نہ بتلانا
+رخ ہو گا لحد میں بھی اے بابا سوئے قبلہ
+میں قبر میں جا کر بھی دیکھوں گی تیرا رستہ
+اچھا میرے وعدے کو تم یوں ہی نبھا لینا
+جب لوٹ کے آؤ گے میری قبر پہ آ جانا
 
 ۹
-رخ ہو گا لحد میں بھی اے بابا سوے قبلہ
-میں قبر میں جا کر بھی دیکھوں گی تیرا رستہ
-
-۱۰
-اچھا میرے وعدے کو تم یوں ہی نبھا لینا
 کرتی تھی تکلم وہ یہ بین قیامت کا
-
-۱۱
 دستور نہیں ہوتا مردے سے محبت کا
 اماں کو مگر بابا پیغام یہ پہنچانا
+جب لوٹ کے آؤ گے میری قبر پہ آ جانا
