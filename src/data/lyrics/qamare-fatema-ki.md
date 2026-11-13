@@ -1,49 +1,50 @@
 ---
 title: "قمرِ فاطمہ کی یاد دلانے کے لیئے"
-alternateTitle: "Qamare Fatema Ki"
+alternateTitle: "Qamar-e-Fatema Ki"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
+reciter: "Tabligh-e-Imamia"
 tags: ["noImage"]
-aliases: []
+aliases: ["Qamare Fatema Ki"]
 published: false
 romanLyrics: |-
-  Qamar e fatema ki yaad dilane ke liye
-  Chand nikla hai moharram ka rulane ke liye
+  Qamar-e-Fatema ki yaad dilaane ke liye
+  Chaand nikla hai Muharram ka rulaane ke liye
 
   1
-  Doob kar khoon mein har roz shafaq aati hai
-  Dastane ghame shabbir sunane ke liye
+  Dub kar khuṅ mein har roz shafaq aati hai
+  Daastaan-e-gham-e-Shabbir sunaane ke liye
 
   2
-  Har kali chaak gareban hai chaman mein ab tak
-  Haye baysheer tera sog manane ke liye
+  Har kali chaak garebaaṅ hai chaman mein ab tak
+  Haaye beshir tera sog manaane ke liye
 
   3
-  Dediya nazre khuda zar bhi pisar bhi sar bhi
-  Hausla chahiye yun ghar ko lutane ke liye
+  De diya nazr-e-Khuda zar bhi pisar bhi sar bhi
+  Hausla chaahiye yuṅ ghar ko lutaane ke liye
 
   4
-  Pyaas ka gham nahi betaab sakina ka hai dil
-  Jhoole mein nanhe baradar ko jhulane ke liye
+  Pyaas ka gham nahiṅ betaab Sakina ka hai dil
+  Jhule mein nanhe baraadar ko jhulaane ke liye
 
   5
-  Le chala baap jawan bete ki mayyat afsos
-  Ye zaeefi to na thi laash uthaane ke liye
+  Le chala baap jawaaṅ bete ki mayyat afsos
+  Ye zaifi to na thi laash uthaane ke liye
 
   6
-  Shaah jab reh gaye tanha to tadap kar asghar
-  Gir gaye jhoole se aagosh mein aane ke liye
+  Shaah jab reh gaye tanha to tarap kar Asghar
+  Gir gaye jhule se aaghosh mein aane ke liye
 
   7
-  Zibha karke bhi musafir ko na maane aada
-  Ab shaqi aaye hai qaimon ko jalane ke liye
+  Zabh kar ke bhi musaafir ko na maane aada
+  Ab shaqi aaye haiṅ khaimoṅ ko jalaane ke liye
 
   8
-  Ghame shabbir ko utna hi urooj aur hua
-  Koshishe ki gayi jitne bhi mitane ke liye
+  Gham-e-Shabbir ko utna hi Urooj aur hua
+  Koshisheṅ ki gayiṅ jitni bhi mitaane ke liye
 # source_id: nohayonline:3c066389430c19132253
 # source_url: https://www.nohayonline.com/details_content.php?id=646
 # raw_sha256: 9afba1f31bd3e77eb56ba456a0f1bf9b79e4b754e70f11b6c79679ea7b1bfe13
@@ -60,7 +61,7 @@ romanLyrics: |-
 ہائے بے شیر تیرا سوگ منانے کے لیئے
 
 ۳
-دے دیا نذرِ خُدا ضربھی پسر بھی سر بھی
+دے دیا نذرِ خُدا زر بھی پسر بھی سر بھی
 حوصلہ چاہیئے یوں گھر کو لُٹانے کے لیئے
 
 ۴
