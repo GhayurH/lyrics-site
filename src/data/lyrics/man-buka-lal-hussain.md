@@ -1,43 +1,44 @@
 ---
 title: "من بُکا لَل حسین"
-alternateTitle: "Man Buka Lal Hussain"
+alternateTitle: "Man Buka Lal Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Man buka lal hussain
-  
+  Man buka lal Husain
+
   1
-  Dekho maqtal may ali khaak udate hai nabi
-  Halq e sheh par hai churi
-  
+  Dekho maqtal meiṅ Ali khaak uraate haiṅ Nabi
+  Halq-e-Shah par hai chhuri
+
   2
-  Aaye majlis may ali binte zehra o nabi
-  Hai qayamat ki ghadi
-  
+  Aaye majlis meiṅ Ali bint-e-Zehra o Nabi
+  Hai qayaamat ki ghari
+
   3
-  Haye barchi ki ani qalbe akbar may lagi
-  Qalbe laila may lagi
-  
+  Haaye barchhi ki ani qalb-e-Akbar meiṅ lagi
+  Qalb-e-Laila meiṅ lagi
+
   4
-  Haye abbas e jari mashk pyason ki chidi
+  Haaye Abbas-e-jari mashk pyaasoṅ ki chhidi
   Tashnagi haath mali
-  
+
   5
-  Aisa dekha na jari teer ki zad par hasi
-  Ro pada dekho shaqi
-  
+  Aisa dekha na jari tir ki zad par hansi
+  Ro para dekho shaqi
+
   6
-  Shaah e deen jaane ali teri wo tashnalabi
+  Shah-e-Diṅ jaan-e-Ali teri woh tashnalabi
   Bekasi roti rahi
-  
+
   7
-  Gham ki dunya may pali dekhiye aal e nabi
-  Qaid hokar hai chali
+  Gham ki duniya meiṅ pali dekhiye Aal-e-Nabi
+  Qaid ho kar hai chali
 # source_id: nohayonline:62889ae77933c017da83
 # source_url: https://www.nohayonline.com/details_content.php?id=787
 # raw_sha256: d7660fe8913c02f91dcccbc39feeb4fc3dfac0b77c539d0271fc48bc372f1965
@@ -70,5 +71,5 @@ romanLyrics: |-
 بے کسی روتی رہی
 
 ۷
-غم کی دُنیا میں پلی دیکھیئے آلِ نبی
-قید ہو کر چلی
+غم کی دُنیا میں پلی دیکھیے آلِ نبی
+قید ہو کر ہے چلی

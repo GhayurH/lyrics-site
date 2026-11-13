@@ -9,44 +9,44 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Mal li hai karbala ki jabeen par utha ke khaak
-  Poochega mujhse qabr mein ab koi aake khaak
+  Mal li hai Karbala ki jabiṅ par utha ke khaak
+  Puchhega mujh se qabr meiṅ ab koi aa ke khaak
 
   1
-  So jaaunga sukoon se phoolon ke sej par
-  Farshe lehed pe karbobala ki bicha ke khaak
+  So jaauṅga sukuṅ se phuloṅ ke sej par
+  Farsh-e-lahad pe Karbobala ki bichha ke khaak
 
   2
-  Wabasta jo batool ke dar se nahi usay
-  Haath aayega rasool ke rauze pe jaa ke khaak
+  Waabasta jo Batul ke dar se nahiṅ use
+  Haath aaega Rasul ke rauze pe jaa ke khaak
 
   3
-  Deta wo kya rasool ki beti ka haq bhala
-  Mayyat ko de saka jo na uski utha ke khaak
+  Deta woh kya Rasul ki beti ka haq bhala
+  Mayyat ko de saka jo na us ki utha ke khaak
 
   4
-  Allah wo rasool ko kya moo dikhayega
-  Jisne kiya batool ke dar ko jala ke khaak
+  Allah woh Rasul ko kya muṅh dikhaaega
+  Jis ne kiya Batul ke dar ko jala ke khaak
 
   5
-  Poochega aake aakhri beta batool ka
-  Bechi hai kisne turbate sheh ki saja ke khaak
+  Puchhega aa ke aakhri beta Batul ka
+  Bechi hai kis ne turbat-e-Shah ki saja ke khaak
 
   6
-  Chaa kar raha hussain dil e kayenat par
-  Harbein tamaam hogaye ahle jafa ke khaak
+  Chhaa kar raha Husain dil-e-kaaenaat par
+  Harbeṅ tamaam ho gaye ahl-e-jafa ke khaak
 
   7
-  Jab baade qatle shaah saron se chini rida
-  Dhaampa saron ko ahle haram ne uda ke khaak
+  Jab baad-e-qatl-e-Shah saroṅ se chhini rida
+  Dhaaṅpa saroṅ ko ahl-e-haram ne ura ke khaak
 
   8
-  Teer e sitam chala ke abhi dil bhara nahi
-  Kya dhoondta hai bine kaahil hata ke khaak
+  Tir-e-sitam chala ke abhi dil bhara nahiṅ
+  Kya dhundta hai bin-e-Kaahil hata ke khaak
 
   9
-  Behno se bhai maaon se bacche bichad gaye
-  Ghar ho gaya batool ka is ran mein aake khaak
+  Behnoṅ se bhaai maaoṅ se bachche bichhar gaye
+  Ghar ho gaya Batul ka is ran meiṅ aa ke khaak
 reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
 # source_id: nohayonline:8b926a58134274acc7df
 # source_url: https://www.nohayonline.com/details_content.php?id=3226
@@ -56,40 +56,40 @@ reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
 # raw_sha256: 28b0c83f4b6e9862d4018a0f8d58bb3c7e2758ac767a5565e204c78dc493a720
 ---
 مل لی ہے کربلا کی جبیں پر اٹھا کے خاک
-پوچھے گا مجھ سے قبر میں اب کوئی آکے خاک
+پوچھے گا مجھ سے قبر میں اب کوئی آ کے خاک
 
 ۱
 سو جاؤں گا سکوں سے پھولوں کے سیج پر
-فرش لحد پہ کربوبلا کی بچھا کے خاک
+فرشِ لحد پہ کربوبلا کی بچھا کے خاک
 
 ۲
 وابستہ جو بتول کے در سے نہیں اسے
-ہاتھ آے گا رسول کے روضے پہ جا کے خاک
+ہاتھ آئے گا رسول کے روضے پہ جا کے خاک
 
 ۳
 دیتا وہ کیا رسول کی بیٹی کا حق بھلا
-میت کو دے سکا جو نہ اسکی اٹھا کے خاک
+میت کو دے سکا جو نہ اس کی اٹھا کے خاک
 
 ۴
-اللہ وہ رسول کو کیا منہ دکھاے گا
+اللہ وہ رسول کو کیا منہ دکھائے گا
 جس نے کیا بتول کے در کو جلا کے خاک
 
 ۵
-پوچھے آ کے آخری بیٹا بتول کا
-بیچی ہے کس نے تربت شہ کی سجا کے خاک
+پوچھے گا آ کے آخری بیٹا بتول کا
+بیچی ہے کس نے تربتِ شہ کی سجا کے خاک
 
 ۶
-چھا کر رہا حسین دل کاینات پر
-حربیں تمام ہوگےء أہل جفا کے خاک
+چھا کر رہا حسین دلِ کائنات پر
+حربیں تمام ہو گئے اہلِ جفا کے خاک
 
 ۷
-جب بعد قتل شاہ سروں سے چھنی ردا
-ڈھانپا سروں کو أہل حرم نے اڑا کے خاک
+جب بعدِ قتلِ شاہ سروں سے چھینی ردا
+ڈھانپا سروں کو اہلِ حرم نے اڑا کے خاک
 
 ۸
-تیر ستم چلا کے ابھی دل بھرا نہیں
+تیرِ ستم چلا کے ابھی دل بھرا نہیں
 کیا ڈھونڈتا ہے ان کاہل ہٹا کے خاک
 
 ۹
-بہنوں سے بھای ماؤں سے بچے بچھڑ گےء
+بہنوں سے بھائی ماؤں سے بچے بچھڑ گئے
 گھر ہو گیا بتول کا اس رن میں آ کے خاک
