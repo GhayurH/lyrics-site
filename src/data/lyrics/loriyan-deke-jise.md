@@ -1,6 +1,6 @@
 ---
 title: لوریاں دے کے جسے زنداں نے سُلایا ہو گا
-alternateTitle: Loriyan Deke Jise
+alternateTitle: Loriyaṅ De Ke Jise
 language: Urdu
 lang: ur
 direction: rtl
@@ -10,36 +10,36 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Loriyan de ke jise zindan ne sulaya hoga
-  Seena baba ka tujhe yaad to aaya hoga
+  Loriyaṅ de ke jise zindaaṅ ne sulaaya hoga
+  Sina baba ka tujhe yaad to aaya hoga
 
   1
-  Khaakh ka aaj bichona hai naseebon mein tere
-  Haa kabhi baap ne tujhe seene pe sulaya hoga
+  Khaak ka aaj bichhauna hai nasiboṅ meiṅ tere
+  Haaṅ kabhi baap ne tujhe sine pe sulaaya hoga
 
   2
   Pyaas baba ki tujhe yaad to aayi hogi
-  Pani fizza ne jo honton pe lagaya hoga
+  Paani Fizza ne jo hontoṅ pe lagaaya hoga
 
   3
-  Kano se lahoo behta hai ruqsar hai neele
-  Is haal mein dushwaar hai ek saans bhi lena
-  Neend aati nahi khaak ke bistar pe mujhe to
-  Amma mujhe kyun milta nahi baba ka seena
-  Shimr bhoolegi bhala kaise tamache tere
-  Chain masooma ne mar kar bhi na paaya hoga
+  Kaanoṅ se lahu behta hai rukhsaar haiṅ nile
+  Is haal meiṅ dushwaar hai ik saaṅs bhi lena
+  Nind aati nahiṅ khaak ke bistar pe mujhe to
+  Ammaaṅ mujhe kiuṅ milta nahiṅ baba ka sina
+  Shimr bhulegi bhala kaise tamaache tere
+  Chain maasuma ne mar kar bhi na paaya hoga
 
   4
-  Haye zanjeeron mein jakda tha janaza tera
-  Kaise bemaar ne zindan se uthaya hoga
+  Haae zanjiroṅ meiṅ jakra tha janaaza tera
+  Kaise bimaar ne zindaaṅ se uthaaya hoga
 
   5
-  Zindan mein ro ro ke ye kehti thi sakina
-  Khulwado rasan tum mujhe baba se milado
-  Gar ye nahi mumkin to meri pyari phupi jaan
-  Soorat ali asghar ki mujhe la ke dikha do
-  Jisne bhi dil mein basaya hai tera gham bibi
-  Usko jawaad ke nauhe ne rulaya hoga
+  Zindaan meiṅ ro ro ke ye kehti thi Sakina
+  Khulwa do rasan tum mujhe baba se mila do
+  Gar ye nahiṅ mumkin to meri pyaari phuphi jaaṅ
+  Surat Ali Asghar ki mujhe laa ke dikha do
+  Jis ne bhi dil meiṅ basaaya hai tera gham Bibi
+  Us ko Jawaad ke nauhe ne rulaaya hoga
 reciter: Hasan Sadiq
 # source_id: nohayonline:0fc7dd8688a7ec8a63db
 # source_url: https://www.nohayonline.com/details_content.php?id=620
@@ -55,7 +55,7 @@ reciter: Hasan Sadiq
 
 ۱
 خاک کا آج بچھونا ہے نصیبوں میں تیرے
-ہاںکبھی باپ نے سینے پہ سُلایا ہو گا
+ہاں کبھی باپ نے سینے پہ سُلایا ہو گا
 
 ۲
 پیاس بابا کی تجھے یاد تو آئی ہو گی
@@ -74,9 +74,9 @@ reciter: Hasan Sadiq
 کیسے بیمار نے زنداں سے اُٹھایا ہو گا
 
 ۵
-زندان میں رورو کے یہ کہتی تھی سکینہ
-کھلوادو رسن تم مجھے بابا سے ملا دو
+زندان میں رو رو کے یہ کہتی تھی سکینہ
+کھلوا دو رسن تم مجھے بابا سے ملا دو
 گر یہ نہیں ممکن تو میری پیاری پھپی جاں
-صورت علی اصغر کی مجھے لاکے دکھا دو
-جس نے بھی دل میں بسایا ہے تیرا غم بی بی
+صورت علی اصغر کی مجھے لا کے دکھا دو
+جس نے بھی دل میں بسایا ہے تیرا غم بی‌بی
 اُس کو جواد کے نوحے نے رُلایا ہو گا

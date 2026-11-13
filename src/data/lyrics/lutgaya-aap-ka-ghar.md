@@ -1,57 +1,58 @@
 ---
 title: "لُٹ گیا آپ کا گھر آپ کہاں تھے بابا"
-alternateTitle: "Lutgaya Aap Ka Ghar"
+alternateTitle: "Lut Gaya Aap Ka Ghar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Anwar Zahir"
+reciter: "Shareef Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Lut gaya aap ka ghar aap kahan thay baba
-  Kat gaya shaah ka sar aap kahan thay baba
+  Lut gaya aap ka ghar aap kahaaṅ the baba
+  Kat gaya shaah ka sar aap kahaaṅ the baba
 
   1
-  Baap se shaam e ghariban ye kaha zainab ne
-  Mil gaya khaak may ghar aap kahan thay baba
+  Baap se shaam-e-gharibaaṅ ye kaha Zainab ne
+  Mil gaya khaak meiṅ ghar aap kahaaṅ the baba
 
   2
-  Teer asghar ke laga barchi ali akbar ke
-  Bichde sab noor e nazar aap kahan thay baba
+  Tir Asghar ke laga barchhi Ali Akbar ke
+  Bichhre sab nur-e-nazar aap kahaaṅ the baba
 
   3
-  Mere bhaiya ne uthaye hai sehar se laashe
-  Jhuk gayi sheh ki kamar aap kahan thay baba
+  Mere bhaiya ne uthaaye haiṅ sahar se laashe
+  Jhuk gayi shah ki kamar aap kahaaṅ the baba
 
   4
-  Laash farzand ki sarwar ne uthayi kaise
-  Ujdi aagosh e pisar aap kahan thay baba
+  Laash farzand ki Sarwar ne uthaayi kaise
+  Ujri aaghosh-e-pisar aap kahaaṅ the baba
 
   5
-  Shaah girte thay tanabo may ulajh kar har soo
-  Sunke awaaz e pisar aap kahan thay baba
+  Shaah girte the tanaaboṅ meiṅ ulajh kar har su
+  Sun ke aawaaz-e-pisar aap kahaaṅ the baba
 
   6
-  Jab mere bhai ke seene pa chada tha qaatil
-  Amma aayi thi magar aap kahan thay baba
+  Jab mere bhaai ke sine pe charha tha qaatil
+  Ammaaṅ aayi thi magar aap kahaaṅ the baba
 
   7
-  Jab chini meri rida dhoond rahi thi har soo
-  Aap ko meri nazar aap kahan thay baba
+  Jab chhini meri rida dhund rahi thi har su
+  Aap ko meri nazar aap kahaaṅ the baba
 
   8
-  Aag daaman se sakina ke bujhayi maine
-  Jal gaye qaime idhar aap kahan thay baba
+  Aag daaman se Sakina ke bujhaayi maiṅ ne
+  Jal gaye khaime idhar aap kahaaṅ the baba
 
   9
-  Pehra mai ujhdi baharon ka diye jaati hoo
-  Chip gaye shams o qamar aap kahan thay baba
+  Pehra maiṅ ujri bahaaroṅ ka diye jaati huṅ
+  Chhup gaye shams o qamar aap kahaaṅ the baba
 
   10
-  Beti hyder ki thi masroof e shikayat anwar
-  Mil gaya khaak may ghar aap kahan thay baba
+  Beti Haidar ki thi masruf-e-shikaayat Anwar
+  Mil gaya khaak meiṅ ghar aap kahaaṅ the baba
 # source_id: nohayonline:d075d04fbf4e2896ff06
 # source_url: https://www.nohayonline.com/details_content.php?id=455
 # raw_sha256: 15222802ac557e838340f093cc5b1326e0869785482dc45ea142019a01f55d9b

@@ -6,62 +6,73 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Majid Raza Abidi"
+reciter: "Mukhtar Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Veeran hua mera ghar zehra tumhare baad
-  Kaise jiyega hyder zehra tumhare baad
-  Mayyat pe sayyeda ki hyder ne ye pukara
-  Lo jaa rahi zehra
-  Ay bachon aakhri hai dedaar fatema ka
-  Lo jaa rahi zehra
+  Viraan hua mera ghar Zehra tumhaare baad
+  Kaise jiyega Haidar Zehra tumhaare baad
+
+  Mayyat pe Sayyeda ki Haidar ne ye pukaara
+  Lo jaa rahi hai Zehra
+  Ae bachchoṅ aakhri hai didaar Faatima ka
+  Lo jaa rahi hai Zehra
 
   1
   Haq maange wo pahunchi par khaali haath lauti
-  Darbariyon se boli
+  Darbaariyoṅ se boli
   Ab khaali haath ho kar tum sab gawaah rehna
+  Lo jaa rahi hai Zehra
 
   2
-  Sholon ki zad pe aa kar darwaza jal chuka tha
+  Sholoṅ ki zad pe aa kar darwaaza jal chuka tha
   Zehra pe gir raha tha
-  Bas ek sada ye aayi fizza mujhe bachana
+  Bas ik sada ye aayi Fizza mujhe bachaana
+  Lo jaa rahi hai Zehra
 
   3
-  Wo chote chote bache dar ko hata rahe thay
-  Maa ko bacha rahe thay
-  Maa keh rahi thi bachon haafiz ali tumhara
+  Wo chhote chhote bachche dar ko hata rahe the
+  Maaṅ ko bacha rahe the
+  Maaṅ keh rahi thi bachchoṅ haafiz Ali tumhaara
+  Lo jaa rahi hai Zehra
 
   4
-  Aayi shab e shahadat zehra ne ki wasiyat
-  Suniye shahe wilayat
-  Bache hai mere chote inka khayaal rakhna
+  Aayi shab-e-shahaadat Zehra ne ki wasiyyat
+  Suniye shaah-e-wilaayat
+  Bachche haiṅ mere chhote in ka khayaal rakhna
+  Lo jaa rahi hai Zehra
 
   5
-  Zainab se roke boli tum mere baad ghar mein
-  Maa ki jagah ho beti
-  Sarwar jahan bhi jaaye tum saath saath jaana
+  Zainab se ro ke boli tum mere baad ghar meiṅ
+  Maaṅ ki jagah ho beti
+  Sarwar jahaaṅ bhi jaae tum saath saath jaana
+  Lo jaa rahi hai Zehra
 
   6
-  Ye mere charon bache aur mera sab gharana
-  Tere hawale fizza
-  Tujhko to karbala tak inke hai saath jaana
+  Ye mere chaaroṅ bachche aur mera sab gharaana
+  Tere hawaale Fizza
+  Tujh ko to Karbala tak in ke hai saath jaana
+  Lo jaa rahi hai Zehra
 
   7
-  Afsos muslimon ne yasrab mein dar jalaya
-  Karbal mein ghar jalaya
-  Wo thi shab e ghariban jab keh rahi thi zehra
+  Afsos muslimoṅ ne Yasrab meiṅ dar jalaaya
+  Karbal meiṅ ghar jalaaya
+  Wo thi shab-e-gharibaaṅ jab keh rahi thi Zehra
+  Lo jaa rahi hai Zehra
 
   8
-  Mukhtar aur majid ek karb hai musalsal
-  Ye fikhra sayyeda ka
-  Shiyon ko ya ali tu mera salaam kehna
+  Mukhtar aur Majid ik karb hai musalsal
+  Ye fiqra Sayyeda ka
+  Shioṅ ko ya Ali tu mera salaam kehna
+  Lo jaa rahi hai Zehra
 # source_id: nohayonline:e6600186668b8e13f134
 # source_url: https://www.nohayonline.com/details_content.php?id=1435
 # raw_sha256: eec259ac6141c1ab08e4fd5ebbdb0c0fff5822de676b295da633d7410d67ff69
 ---
 ویران ہوا میرا گھر زہرا تمہارے بعد
-کیسے جیےء گا حیدر زہرا تمہارے بعد
+کیسے جیے گا حیدر زہرا تمہارے بعد
+
 میت پہ سیدہ کی حیدر نے یہ پکارا
 لو جا رہی ہے زہرا
 اے بچوں آخری ہے دیدار فاطمہ کا
@@ -71,38 +82,46 @@ romanLyrics: |-
 حق مانگے وہ پہنچی پر خالی ہاتھ لوٹی
 درباریوں سے بولی
 اب خالی ہاتھ ہوکر تم سب گواہ رہنا
+لو جا رہی ہے زہرا
 
 ۲
-شعلوں کی ضد پہ آ کر دروازہ جل چکا تھا
+شعلوں کی زد پہ آ کر دروازہ جل چکا تھا
 زہرا پہ گر رہا تھا
-بس اک صدا یہ آی فضہ مجھے بچانا
+بس اک صدا یہ آئی فضہ مجھے بچانا
+لو جا رہی ہے زہرا
 
 ۳
 وہ چھوٹے چھوٹے بچے در کو ہٹا رہے تھے
 ماں کو بچا رہے تھے
 ماں کہہ رہی تھی بچوں حافظ علی تمہارا
+لو جا رہی ہے زہرا
 
 ۴
-آی شب شہادت زہرا نے کی وصیّت
-سنیےء شہ ولایت
+آئی شبِ شہادت زہرا نے کی وصیّت
+سنیے شہِ ولایت
 بچے ہیں میرے چھوٹے ان کا خیال رکھنا
+لو جا رہی ہے زہرا
 
 ۵
-زینب سے روکے بولی تم میرے بعد گھر میں
+زینب سے رو کے بولی تم میرے بعد گھر میں
 ماں کی جگہ ہو بیٹی
-سرور جہاں بھی جاے تم ساتھ ساتھ جانا
+سرور جہاں بھی جائے تم ساتھ ساتھ جانا
+لو جا رہی ہے زہرا
 
 ۶
 اے میرے چاروں بچے اور میرا سب گھرانہ
 تیرے حوالے فضہ
-تجھکو تو کربلا تک ان کے ہے ساتھ جانا
+تجھ کو تو کربلا تک ان کے ہے ساتھ جانا
+لو جا رہی ہے زہرا
 
 ۷
 افسوس مسلموں نے یثرب میں در جلایا
 کربل میں گھر جلایا
-وہ تھی شب غریباں جب کہہ رہی تھی زہرا
+وہ تھی شبِ غریباں جب کہہ رہی تھی زہرا
+لو جا رہی ہے زہرا
 
 ۸
 مختار اور ماجد اک کرب ہے مسلسل
 یہ فقرو سیدہ کا
 شیعوں کو یا علی تو میرا سلام کہنا
+لو جا رہی ہے زہرا
