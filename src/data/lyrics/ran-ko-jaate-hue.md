@@ -6,62 +6,63 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Gohar Jarchvi"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ran ko jaate huwe sar jhukaye hue
+  Ran ko jaate hue sar jhukaaye hue
   Sheh ne ro kar kaha alwida alwida
-  Aaya waqt e safar ay behan aaj hum
-  Ho rahe hai juda alwida alwida
-  
+  Aaya waqt-e-safar ae behan aaj hum
+  Ho rahe haiṅ juda alwida alwida
+
   1
-  Shah bad kar behan ke galay lag gaye
+  Shaah barh kar behan ke gale lag gaye
   Aur dukhiya behan se ye kehne lage
-  Roke kehne lage
-  Meri mazloom pyasi musafir behan
+  Ro ke kehne lage
+  Meri mazlum pyaasi musaafir behan
   Tera haafiz khuda alwida alwida
-  
+
   2
-  Jis se darti thi tum wo ghadi aagayi
-  Dekho charon taraf teeragi cha gayi
-  Teeragi cha gayi
-  Dashte pur haul mein sham hone ko hai
-  Lo musafir chala alwida alwida
-  
+  Jis se darti thi tum wo ghari aa gayi
+  Dekho chaaroṅ taraf tiragi chhaa gayi
+  Tiragi chhaa gayi
+  Dasht-e-purhaul mein shaam hone ko hai
+  Lo musaafir chala alwida alwida
+
   3
-  Le ke bali sakina ko aaghosh mein
-  Nanhe nanhe se haaton ke bosay liye
-  Haye bosay liye
-  Shah ne hasrat se beti ko takte huwe
+  Le ke baali Sakina ko aaghosh mein
+  Nanhe nanhe se haathoṅ ke bose liye
+  Haye bose liye
+  Sheh ne hasrat se beti ko takte hue
   Aah bhar kar kaha alwida alwida
-  
+
   4
-  Bola bemaar bete se aaqa mera
-  Ab na aayega ay beta baba tera
-  Beta baba tera
-  Maut ki aahatein tez hone ko hai
+  Bola bimaar bete se aaqa mera
+  Ab na aayega ae beta baaba tera
+  Beta baaba tera
+  Maut ki aahateṅ tez hone ko haiṅ
   Aa rahi hai sada alwida alwida
-  
+
   5
-  Aaya qaime se baahar jo maula mera
+  Aaya khaime se baahar jo Maula mera
   Bhai beta bhatija koi bhi na tha
   Haye koi bhi na tha
-  Ek hasrat se charon taraf dekh kar
+  Ek hasrat se chaaroṅ taraf dekh kar
   Sheh ne khud hi kaha alwida alwida
-  
+
   6
-  Jab tadap kar kaha mere sher'on utho
-  Aao zainab ke bhai ko ruqsat karo
-  Haye ruqsat karo
-  Ek ek laashe be-sar se aayi sada
-  Ay shahe karbala alwida alwida
-  
+  Jab tarap kar kaha mere sheroṅ utho
+  Aao Zainab ke bhai ko rukhsat karo
+  Haye rukhsat karo
+  Ek ek laash-e-besar se aayi sada
+  Ae Sheh-e-Karbala alwida alwida
+
   7
-  Aisa matam karo aisa matam karo
-  Paak bibi kahe marhaba marhaba
+  Aisa maatam karo aisa maatam karo
+  Paak Bibi kahe marhaba marhaba
   Marhaba marhaba
-  Khoon ugalte huwe ek ek zakhm se
+  Khuṅ ugalte hue ek ek zakhm se
   Aaj aaye sada alwida alwida
 # source_id: nohayonline:47bb231e3869d7800f3b
 # source_url: https://www.nohayonline.com/details_content.php?id=675
@@ -72,33 +73,33 @@ romanLyrics: |-
 ---
 رن کو جاتے ہوئے سر جھکائے ہوئے
 شہ نے رو کر کہا الوداع الوداع
-آیا وقت سحر اے بہن آج ہم
+آیا وقت سفر اے بہن آج ہم
 ہو رہے ہیں جدا الوداع الوداع
 
 ۱
-شاہ بڑھکر بہن کے گلے لگ گےء
+شاہ بڑھ کر بہن کے گلے لگ گئے
 اور دکھیا بہن سے یہ کہنے لگے
-روکے کہنے لگے
+رو کے کہنے لگے
 میری مظلوم پیاسی مسافر بہن
 تیرا حافظ خدا الوداع الوداع
 
 ۲
-جس سے ڈرتی تھی تم وہ گھڑی آگیء
-دیکھو چاروں طرف تیرگی چھاگیء
-تیرگی چھاگیء
-دشت پر حول میں شام ہونے کو ہے
+جس سے ڈرتی تھی تم وہ گھڑی آ گئی
+دیکھو چاروں طرف تیرگی چھا گئی
+تیرگی چھا گئی
+دشت پرہول میں شام ہونے کو ہے
 لو مسافر چلا الوداع الوداع
 
 ۳
-لیکے بالی سکینہ کو آغوش میں
-ننھے ننھے سے ہونٹوں کے بوسے لےء
-ہاے بوسے لےء
+لے کے بالی سکینہ کو آغوش میں
+ننھے ننھے سے ہاتھوں کے بوسے لیے
+ہائے بوسے لیے
 شہ نے حسرت سے بیٹی کو تکتے ہوئے
 آہ بھر کر کہا الوداع الوداع
 
 ۴
 بولا بیمار بیٹے سے آقا میرا
-اب نہ آےگا اے بیٹا بابا تیرا
+اب نہ آئے گا اے بیٹا بابا تیرا
 بیٹا بابا تیرا
 موت کی آہٹیں تیز ہونے کو ہیں
 آ رہی ہے صدا الوداع الوداع
@@ -106,20 +107,20 @@ romanLyrics: |-
 ۵
 آیا خیمے سے باہر جو مولا میرا
 بھائی بیٹا بھتیجا کوئی بھی نہ تھا
-ہاے کوئی بھی نہ تھا
+ہائے کوئی بھی نہ تھا
 ایک حسرت سے چاروں طرف دیکھ کر
-شہ نے قد ہی کہا الوداع الوداع
+شہ نے خود ہی کہا الوداع الوداع
 
 ۶
 جب تڑپ کر کہا میرے شیروں اٹھو
 آؤ زینب کے بھائی کو رخصت کرو
-ہاے رخصت کرو
-ایک اک لاش بے سر سے آی صدا
+ہائے رخصت کرو
+ایک اک لاش بے سر سے آئی صدا
 اے شہ کربلا الوداع الوداع
 
 ۷
 ایسا ماتم کرو ایسا ماتم کرو
-پاک بی بی کہے مرحبا مرحبا
+پاک بی‌بی کہے مرحبا مرحبا
 مرحبا مرحبا
 خوں اگلتے ہوئے ایک اک زخم سے
-آج آے صدا الوداع الوداع
+آج آئے صدا الوداع الوداع

@@ -3053,11 +3053,11 @@ src/data/lyrics/racha-tha-akbare.md,standalone_lyrics,imported,nohayonline,pendi
 src/data/lyrics/rahbar-ek-se-ek.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s10 ""ہمی میں"" (Roman ""hami may"") and singular ""ہے""; confirm intended wording/pronunciation."
 src/data/lyrics/rahon-may-sarban-ko.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: opening Urdu ""چھاؤں نہ ملا سایہ"" vs Roman ""chaon mili na saaya""; s3 ""کس نے ہیں"" vs ""kisne hai""; s7 reading of ""بچے""."
 src/data/lyrics/raj-dulara-zehra-ka.md,standalone_lyrics,imported,nohayonline+ziyaraat,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s1 ""جس کی گود کا پالا ہے"" (retained Urdu) vs ""کس کی گود کا پالا ہے"" (NoHayOnline Urdu and both Roman sources)."
-src/data/lyrics/ran-kampne-laga.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/ran-ko-jaate-hue.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/ran-kampne-laga.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s4 ""پائے جدال""; s6 ""سکینہ کے بالی""; s8 ""سوئے قیام"" vs ""سوئے خیام""."
+src/data/lyrics/ran-ko-jaate-hue.md,standalone_lyrics,imported,nohayonline+ziyaraat,pending,reviewed,reviewed,reviewed,verified,reviewed,first_sweep,,
 src/data/lyrics/ran-ko-jaate-huwe-sar-jhukaye-hue.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
-src/data/lyrics/ran-ko-sawari-chali.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/ran-may-abbas.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/ran-ko-sawari-chali.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,first_sweep,,"Need audio/print: s5 ""سیّدِ عالی بہم کہتی تھی"" (Roman ""kehti thay"") and ""فاتحہِ غفّار"" (Roman ""faatah e ghaffaar""); confirm both verses before resolving Urdu/Roman readings."
+src/data/lyrics/ran-may-abbas.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,first_sweep,,
 src/data/lyrics/ran-may-asghar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ran-may-jab-sheh-ki.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ran-may-ye-kehte.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,

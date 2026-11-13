@@ -1,59 +1,60 @@
 ---
 title: "جب حرملہ نے تیر کماں سے کیا رہا"
-alternateTitle: "Ran Kampne Laga"
+alternateTitle: "Ran Kaaṅpne Laga"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Dayam Najafi"
+reciter: "Ali Yazdan"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ran Kampne Laga"]
 published: false
 romanLyrics: |-
-  Jab hurmala ne teer kamaan se kiya reha
-  Baysheer ka chida sar e maidan jab gala
-  Maara gaya jo bano ka dilgeer bekhata
-  Aisa hussain tadpe ke ran kaampne laga
+  Jab Hurmala ne tir kamaaṅ se kiya riha
+  Beshir ka chhida sar-e-maidaan jab gala
+  Maara gaya jo Bano ka dilgir bekhata
+  Aisa Husain tarpe ke ran kaaṅpne laga
 
   1
-  Ay hamshabihe khatme rasul aankhein kholiye
-  Naraaz kyun hai maadar e muztar se boliye
-  Sun kar jawan ki laash pe maadar ka marsiya
+  Ae hamshabih-e-khatm-e-Rasul aaṅkheṅ kholiye
+  Naaraaz kiuṅ hai maadar-e-muztar se boliye
+  Sun kar jawaaṅ ki laash pe maadar ka marsiya
 
   2
-  Lije salaam e aakhri ay sayyed e anaam
-  Bedast hoke girta hai ghode se ab ghulam
-  Darya se jab tadap ke baradar ne di sada
+  Lijiye salaam-e-aakhri ae Sayyid-e-anaam
+  Bedast ho ke girta hai ghore se ab ghulaam
+  Darya se jab tarap ke baraadar ne di sada
 
   3
-  Naazuk badan wo ghodon ki taapon ke silsile
-  Wa ghurbata ghareeb ki aankhon ke saamne
-  Laasha hassan ke laal ka pamaal jab hua
+  Naazuk badan wo ghoroṅ ki taapoṅ ke silsile
+  Wa ghurbata gharib ki aaṅkhoṅ ke saamne
+  Laasha Hasan ke laal ka paamaal jab hua
 
   4
-  Dilbande fatema ke hai gham mein sabhi nidhaal
-  Karte huwe hussain ko ruqsat paaye jidaal
-  Jab bibiyon ne ro ke kaha wa mohammada
+  Dilband-e-Fatima ke haiṅ gham mein sabhi nidhaal
+  Karte hue Husain ko rukhsat paa-e-jidaal
+  Jab Bibiyoṅ ne ro ke kaha wa Muhammada
 
   5
-  Tapti hui zameen tan e bekas lahoo lahoo
-  Pehlu shikasta maadar e muztar ke roo baroo
-  Sookhe gale pe khanjar e jallad jab chala
+  Tapti hui zamiṅ tan-e-bekas lahu lahu
+  Pehlu shikasta maadar-e-muztar ke ru baru
+  Sukhe gale pe khanjar-e-jallaad jab chala
 
   6
-  Seene pe sone waali masayib ke darmiyan
+  Sine pe sone waali masaaib ke darmiyaaṅ
   Kehti hai har sitam pe chacha jaan al amaan
-  Kaano se jab sakina ke baali hui juda
+  Kaanoṅ se jab Sakina ke baali hui juda
 
   7
-  Qasim kidhar gaye mere abbas ho kahan
-  Dekho nabi ki aal musibat mein hai yahan
-  Aao bachane zainab e muztar ne jab kaha
+  Qaasim kidhar gaye mere Abbas ho kahaaṅ
+  Dekho Nabi ki aal musibat mein hai yahaaṅ
+  Aao bachaane Zainab-e-muztar ne jab kaha
 
   8
-  Baad e imam dayam o yazdan suye qayaam
-  Asbaab lootne ko wo aayi sipaah e shaam
-  Naize pe jab baland hui aal ki rida
+  Baad-e-imaam Dayam o Yazdaaṅ su-e-qayaam
+  Asbaab lutne ko wo aayi sipaah-e-Shaam
+  Naize pe jab buland hui aal ki rida
 # source_id: nohayonline:f0a18364e079d5281bdc
 # source_url: https://www.nohayonline.com/details_content.php?id=3736
 # raw_sha256: e491ef293501ab1439f93a763deea875b845e177bb4af9a8f90819d45eeee390
@@ -61,15 +62,15 @@ romanLyrics: |-
 جب حرملہ نے تیر کماں سے کیا رہا
 بے شیر کا چھدا سر میدان جب گلا
 مارا گیا جو بانو کا دلگیر بے خطا
-ایسا حسین تڑپے کے رن کانپنے لگا
+ایسا حسین تڑپے کہ رن کانپنے لگا
 
 ۱
-اے ہم شبیہ ختم رسول آنکھیں کھولیےء
-ناراض کیوں ہے مادر مضطر سے بولیےء
+اے ہم شبیہ ختم رسول آنکھیں کھولیے
+ناراض کیوں ہے مادر مضطر سے بولیے
 سن کر جواں کی لاش پہ مادر کا مرثیہ
 
 ۲
-لیجیےء سلام آخری اے سید انام
+لیجیے سلام آخری اے سید انام
 بے دست ہو کے گرتا ہے گھوڑے سے اب غلام
 دریا سے جب تڑپ کے برادر نے دی صدا
 
@@ -80,8 +81,8 @@ romanLyrics: |-
 
 ۴
 دلبند فاطمہ کے ہیں غم میں سبھی نڈھال
-کرتے ہوئے حسین کو رخصت پاے جدال
-جب بی بیوں نے رو کے کہا وا محمدا
+کرتے ہوئے حسین کو رخصت پائے جدال
+جب بی‌بیوں نے رو کے کہا وا محمدا
 
 ۵
 تپتی ہوئی زمیں تن بیکس لہو لہو
@@ -89,16 +90,16 @@ romanLyrics: |-
 سوکھے گلے پہ خنجر جلاد جب چلا
 
 ۶
-سینے پہ سونے والی مصایب کے درمیاں
+سینے پہ سونے والی مصائب کے درمیاں
 کہتی ہے ہر ستم پہ چچا جان الامان
-کانوں سے جب سکینہ کے بالی ہوی جدا
+کانوں سے جب سکینہ کے بالی ہوئی جدا
 
 ۷
-قاسم کدھر گےء میرے عباس ہو کہاں
+قاسم کدھر گئے میرے عباس ہو کہاں
 دیکھو نبی کی آل مصیبت میں ہے یہاں
-آو بچانے زینب مضطر نے جب کہا
+آؤ بچانے زینب مضطر نے جب کہا
 
 ۸
-بعد امام دایم و یزداں سوے قیام
-اسباب لوٹنے کو وہ آی سپاہ شام
-نیزے پہ جب بلند ہوی آل کی ردا
+بعد امام دایم و یزداں سوئے قیام
+اسباب لوٹنے کو وہ آئی سپاہ شام
+نیزے پہ جب بلند ہوئی آل کی ردا
