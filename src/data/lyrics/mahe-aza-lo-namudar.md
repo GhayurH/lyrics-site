@@ -1,237 +1,171 @@
 ---
 title: "عرش کے تارے حسین"
-alternateTitle: "Mahe Aza Lo Namudar"
+alternateTitle: "Maah-e-Aza Lo Namudaar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
-aliases: []
+aliases: ["Mahe Aza Lo Namudar"]
 published: false
 romanLyrics: |-
-  Arsh ke taare hussain
-  Zehra ke pyare hussain
-  
+  Arsh ke taare Husain
+  Zehra ke pyaare Husain
+  Tum ho hamare Husain
+  Hum haiṅ tumhare Husain
+
   1
-  Tum ho hamare hussain
-  Hum hai tumhare hussain
-  Maahe aza lo namudaar hua
-  Ghar mein mere bich gaya farshe aza
-  
+  Maah-e-aza lo namudaar hua
+  Ghar mein mere bichh gaya farsh-e-aza
+
   2
-  Jaan o dil e fatema baadshah e karbala
+  Jaan o dil-e-Fatima baadshaah-e-Karbala
   Ban gaya mehmaan mera
-  Falak pe phir se moharram ka chand nikla hai
-  Hussain waalon ne kaala libaas pehna hai
-  
+
   3
-  Kahin pe nauha kahin par sada e girya hai
-  Shaah alaikas salaam ay mere bekas imam
-  Aap pe sab kuch fida
-  Ya hussain ya hussain ya hussain hussain hussain
-  
+  Falak pe phir se Muharram ka chaand nikla hai
+  Husain waaloṅ ne kaala libaas pehna hai
+  Kahiṅ pe nauha kahiṅ par sadaa-e-girya hai
+  Shaah alaikas salaam Ae mere bekas Imam
+  Aap pe sab kuchh fida
+  Ya Husain ya Husain ya Husain Husain Husain
+  Ya Husain ya Husain ya Husain Husain Husain
+
   4
-  Ya hussain ya hussain ya hussain hussain hussain
-  Maahe aza lo namudaar...
-  Kisi ke haath mein abbas ka alam hoga
-  Koi uthayega taboot ibne zehra ka
-  
+  Kisi ke haath mein Abbas ka alam hoga
+  Koi uthaaega taabut Ibn-e-Zehra ka
+  Kahiṅ se taaziya jhula kahiṅ se niklega
+  Hogi qayaamat bapa roeṅge ahl-e-aza
+  Shor hai Aashur ka
+
   5
-  Kahin se taaziya jhoola kahin se niklega
-  Hogi qayamat bapa royenge ahle aza
-  Shor hai ashoor ka
-  Ya hussain ya hussain...
-  
-  6
-  Ya hussain ya hussain...
-  Maahe aza lo namudaar...
-  Gali gali mein sabeelon ka ehtemam hai phir
-  Dilon ki pyaas bujhane ka intezam hai phir
-  
-  7
-  Ghareebe zehra ka jaari labon pe naam hai phir
-  Aa ke sabeelon ke paas jo bhi bujhata hai pyaas
+  Gali gali mein sabiloṅ ka ehtimaam hai phir
+  Diloṅ ki pyaas bujhaane ka intizaam hai phir
+  Gharib-e-Zehra ka jaari laboṅ pe naam hai phir
+  Aa ke sabiloṅ ke paas jo bhi bujhaata hai pyaas
   Deta hai dil se sada
-  Mujraee jab ke aaya maahe aza hota hai
-  
+
+  6
+  Mujrai jab ke aaya maah-e-aza hota hai
+  Arsh par maatam-e-Shaah-e-shuhada hota hai
+
+  7
+  Har anjuman mein hai sina zani ki tayyaari
+  Bas ek kalaam hai sab ki zabaan par jaari
+  Qadim tarz pe hoti hai phir azaadaari
+  Taaziye khaane khule maatami shaane khule
+  Hota hai maatam bapa
+  Be abi anta wa ummi ya Husain
+  Kehta hai har dil yehi ho mere maaṅ baap bhi
+  Aap pe Maula fida
+
   8
-  Arsh par matame shaahe shohda hota hai
-  Har anjuman mein hai seena zani ki tayyari
-  Bas ek kalaam hai sab ki zaban par jaari
-  Qadeem tarz pe hoti hai phir azadari
-  
+  Tabarrukaat ke sanduq laae jaate haiṅ
+  Alam pe patke pharere sajaae jaate haiṅ
+  Sabil lagti hai saqqe banaae jaate haiṅ
+  Le ke shahidoṅ ke naam batte haiṅ paani ke jaam
+  Dete haiṅ pyaase dua
+
   9
-  Taaziye khaane khule matami shaane khule
-  Hota hai matam bapa
-  Be abi anta wa ummi ya hussain
-  Kehta hai har dil yehi ho mere maa baap bhi
-  
+  Karo Husain ka maatam karo azaadaari
+  Furaat aaṅkhoṅ se jaari ho aise ashkoṅ ki
+  Ke khaali haath na jaae Rasul ki beti
+  Haath mein rumaal hai maaṅ ka ajab haal hai
+  Deti hai Bibi dua
+
   10
-  Aap pe maula fida
-  Ya hussain ya hussain...
-  Ya hussain ya hussain...
-  Maahe aza lo namudaar...
-  
+  Alam pe mashk-e-Sakina sajaa ke rote haiṅ
+  Kisi ko dhup mein paani pilaa ke rote haiṅ
+  Kabhi kisi ko tabarruk khilaa ke rote haiṅ
+  Naam idhar aa gaya Sayyid-e-mazlum ka
+  Aaṅkh se darya baha
+
   11
-  Tabarukaat ke sandook laaye jaate hai
-  Alam pe patke pharere sajaye jaate hai
-  Sabeel lagti hai saqqe banaye jaate hai
-  Leke shaheedon ke naam bat'te hai pani ke jaam
-  
-  12
-  Dete hai pyase dua
-  Ya hussain ya hussain...
-  Ya hussain ya hussain...
-  Maahe aza lo namudaar...
-  
-  13
-  Karo hussain ka matam karo azadari
-  Faraat aankhon se jaari ho aise ashkon ki
-  Ke khaali haath na jaaye rasool ki beti
-  Haath mein rumaal hai maa ka ajab haal hai
-  
-  14
-  Deti hai bibi dua
-  Ya hussain ya hussain...
-  Ya hussain ya hussain...
-  Maahe aza lo namudaar...
-  
-  15
-  Alam pe mashk e sakina saja ke rote hai
-  Kisi ko dhoop mein pani pila ke rote hai
-  Kabhi kisi ko tabarruk khila ke rote hai
-  Naam idhar aa gaya sayyede mazloom ka
-  
-  16
-  Aankh se darya baha
-  Ya hussain ya hussain...
-  Ya hussain ya hussain...
-  Maahe aza lo namudaar...
-  
-  17
-  Huwe hai khalq takallum hum is aza ke liye
-  Hamari qaum ke bache ghulam asghar ke
-  Jawan sab ali akbar ke naam par sadqe
-  Taaba zahoor e imam royenge ye khaas o aam
-  
-  18
+  Hue haiṅ khalq Takallum hum is aza ke liye
+  Hamaari qaum ke bachche ghulaam Asghar ke
+  Jawaan sab Ali Akbar ke naam par sadqe
+  Taaba zuhur-e-Imam roeṅge ye khaas o aam
   Waada hai is qaum ka
-  Ya hussain ya hussain...
-  Ya hussain ya hussain...
-  Maahe aza lo namudaar...
 # source_id: nohayonline:8a5ecc01430bd93c6571
 # source_url: https://www.nohayonline.com/details_content.php?id=1617
 # raw_sha256: 59d497136000ddb25ba6f46b398d33e8312009f8dba4f182cbee60273a2c35d2
 ---
-
 عرش کے تارے حسین
 زہرا کے پیارے حسین
-
-۱
 تم ہو ہمارے حسین
 ہم ہیں تمہارے حسین
-ماہ عزا لو نمودار ہوا
-گھر میں میرے بچھ گیا گیا فرش عزا
+
+۱
+ماہِ عزا لو نمودار ہوا
+گھر میں میرے بچھ گیا فرشِ عزا
 
 ۲
-جان و دل فاطمہ بادشاہ کربلا
+جان و دلِ فاطمہ بادشاہِ کربلا
 بن گیا مہمان میرا
-فلک پہ پھر سے محرم کا چاند نکلا ہے
-حسین والوں نے کالا لباس پہنا ہے
 
 ۳
-کہیں پہ نوحہ کہیں پر صداے گریہ ہے
+فلک پہ پھر سے محرم کا چاند نکلا ہے
+حسین والوں نے کالا لباس پہنا ہے
+کہیں پہ نوحہ کہیں پر صدائے گریہ ہے
 شاہ علیک السلام اے میرے بیکس امام
 آپ پہ سب کچھ فدا
 یا حسین یا حسین یا حسین یا حسین
+یا حسین یا حسین یا حسین یا حسین
 
 ۴
-یا حسین یا حسین یا حسین یا حسین
-ماہ عزا لو نمودار۔۔۔
-کسی کے ہاتھ میں عباس کا الم ہوگا
-کوئی اٹھاے گا تابوت ابنِ زہرا کا
+کسی کے ہاتھ میں عباس کا علم ہوگا
+کوئی اٹھائے گا تابوت ابنِ زہرا کا
+کہیں سے تعزیہ جھولا کہیں سے نکلے گا
+ہوگی قیامت بپا روئیں گے اہلِ عزا
+شور ہے عاشور کا
 
 ۵
-کہیں سے تعزیہ جھولا کہیں سے نکلے گا
-ہوگی قیامت بپا روےنگے اہلِ عزا
-شور ہے عاشور کا
-یا حسین یا حسین۔۔۔
-
-۶
-یا حسین یا حسین۔۔۔
-ماہ عزا لو نمودار۔۔۔
-گلی گلی میں سبیلوں کا احتمام ہے پھر
+گلی گلی میں سبیلوں کا اہتمام ہے پھر
 دلوں کی پیاس بجھانے کا انتظام ہے پھر
-
-۷
-غریب زہرا کا جاری لبوں پہ نام ہے پھر
+غریبِ زہرا کا جاری لبوں پہ نام ہے پھر
 آ کے سبیلوں کے پاس جو بھی بجھاتا ہے پیاس
 دیتا ہے دل سے صدا
-مجری جب کہ آیا ماہ عزا ہوتا ہے
 
-۸
-عرش پر ماتم شاہ شہداء ہوتا ہے
+۶
+مجری جب کہ آیا ماہِ عزا ہوتا ہے
+عرش پر ماتمِ شاہِ شہداء ہوتا ہے
+
+۷
 ہر انجمن میں ہے سینہ زنی کی تیاری
 بس ایک کلام ہے سب کی زبان پر جاری
 قدیم طرز پہ ہوتی ہے پھر عزاداری
-
-۹
 تعزیے خانے کھلے ماتمی شانے کھلے
 ہوتا ہے ماتم بپا
 بی ابی انت وا امی یا حسین
 کہتا ہے ہر دل یہی ہو میرے ماں باپ بھی
-
-۱۰
 آپ پہ مولا فدا
-یا حسین یا حسین۔۔۔
-یا حسین یا حسین۔۔۔
-ماہ عزا لو نمودار۔۔۔
 
-۱۱
-تبرکات کے صندوق لاے جاتے ہیں
-الم پہ پٹکے پھریرے سجاے جاتے ہیں
+۸
+تبرکات کے صندوق لائے جاتے ہیں
+علم پہ پٹکے پھریرے سجائے جاتے ہیں
 سبیل لگتی ہے سقے بنائے جاتے ہیں
-لیکے شہیدوں کے نام بنٹتے ہیں پانی کے جام
-
-۱۲
+لے کے شہیدوں کے نام بٹتے ہیں پانی کے جام
 دیتے ہیں پیاسے دعا
-یا حسین یا حسین۔۔۔
-یا حسین یا حسین۔۔۔
-ماہ عزا لو نمودار۔۔۔
 
-۱۳
+۹
 کرو حسین کا ماتم کرو عزاداری
 فرات آنکھوں سے جاری ہو ایسے اشکوں کی
-کہ خالی ہاتھ نہ جاے رسول کی بیٹی
+کہ خالی ہاتھ نہ جائے رسول کی بیٹی
 ہاتھ میں رومال ہے ماں کا عجب حال ہے
+دیتی ہے بی‌بی دعا
 
-۱۴
-دیتی ہے بی بی دعا
-یا حسین یا حسین۔۔۔
-یا حسین یا حسین۔۔۔
-ماہ عزا لو نمودار۔۔۔
-
-۱۵
-الم پہ مشک سکینہ سجا کے روتے ہیں
+۱۰
+علم پہ مشکِ سکینہ سجا کے روتے ہیں
 کسی کو دھوپ میں پانی پلا کے روتے ہیں
 کبھی کسی کو تبرک کھلا کے روتے ہیں
-نام ادھر آ گیا سیدے مظلوم کا
-
-۱۶
+نام ادھر آ گیا سیدِ مظلوم کا
 آنکھ سے دریا بہا
-یا حسین یا حسین۔۔۔
-یا حسین یا حسین۔۔۔
-ماہ عزا لو نمودار۔۔۔
 
-۱۷
-ہوے ہیں خلق تکلم ہو اس عزا کے لئے
+۱۱
+ہوئے ہیں خلق تکلم ہو اس عزا کے لئے
 ہماری قوم کے بچے غلام اصغر کے
 جوان سب علی اکبر کے نام پر صدقے
-تابہ ظہور امام روےنگے یہ خاص و عام
-
-۱۸
+تابہ ظہورِ امام روئیں گے یہ خاص و عام
 وعدہ ہے اس قوم کا
-یا حسین یا حسین۔۔۔
-یا حسین یا حسین۔۔۔
-ماہ عزا لو نمودار۔۔۔
