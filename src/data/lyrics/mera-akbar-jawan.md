@@ -6,155 +6,146 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shaukath Bilgrami"
+reciter: "Mir Rehan Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Teri shadi ka armaan sughra ko tha
-  Uske lab par hai shaam o sehar ye dua
-  Mere bhai se mujhko mila de khuda
-  Wo nahi jaanti hai ke naiza laga
+  Teri shaadi ka armaan Sughra ko tha
+  Us ke lab par hai shaam o sehar ye dua
+  Mere bhai se mujh ko mila de Khuda
+  Wo nahiṅ jaanti hai ke naiza laga
+
+  Raas aayi na Karbobala
+  Mera Akbar jawaaṅ mar gaya
 
   1
-  Raas aayi na karbobala
-  Mera akbar jawan mar gaya
-  Jab suna ran mein ghode se akbar gire
-  Thokarein ran mein khaate huwe sheh chale
+  Jab suna ran mein ghore se Akbar gire
+  Thokareṅ ran mein khaate hue Shah chale
+  Khaak aur khun mein hai wo ghaltaaṅ pare
+  Haal dekha pisar ka to kehne lage
 
   2
-  Khaak aur khoon mein hai wo ghaltan pade
-  Haal dekha pisar ka to kehne lage
-  Dekhe zakhmi jigar ko shahe karbala
+  Dekhe zakhmi jigar ko Shah-e-Karbala
+  Us mein barchhi ka phal jo nazar aa gaya
+  Hai tasavvur mein naana Rasul-e-Khuda
+  Jaise un ki jawaani ko naiza laga
 
   3
-  Us mein barchi ka phal jo nazar aagaya
-  Hai tasavvur mein nana rasool e khuda
-  Jaise unki jawani ko naiza laga
-
-  4
-  Haal sughra ka baba dikha dijiye
-  Mujhko deedar-e-sughra kara dijiye
-  Ayk bhai behan ko mila dijiye
+  Haal Sughra ka baba dikha dijiye
+  Mujh ko didaar-e-Sughra kara dijiye
+  Ek bhai behan ko mila dijiye
   Mere zakhmi jigar ko chhupa dijiye
 
-  5
-  Daali akbar ne suye madina nazar
-  Ek zaeefa hai baba wo hai be-khabar
+  4
+  Daali Akbar ne su-e-Madina nazar
+  Ek zaifa hai baba wo hai bekhabar
   Us pe teri judaai ka hai ye asar
+  Wo zaifa hai Sughra teri muntazir
+
+  5
+  Teri furqat mein ye haal-e-Sughra hua
+  Jhuk gayi hai kamar haath mein hai asa
+  Sochti hai mera bhai kab aayega
+  Jite ji kya behan se wo mil paayega
 
   6
-  Wo zaeefa hai sughra teri muntazir
-  Teri furqat mein ye haal e sughra hua
-  Jhuk gayi hai kamar haath mein hai asa
+  Bole Shah kaise Sughra sune ye khabar
+  Muntazir raah mein hai bichhaaye nazar
+  Ho gaya ran mein bhai ka zakhmi jigar
+  Mar na jaaye kahiṅ sun ke nur-e-nazar
 
   7
-  Sochti hai mera bhai kab aayega
-  Jeete ji kya behen se wo mil payega
-  Bole sheh kaise sughra sune ye khabar
+  Muntazir hai mere bhai saaṅseṅ meri
+  Dekh le aa ke dukhiya ki tu bekasi
+  Aisa lagta hai lamhoṅ ki hai zindagi
+  Phir na kehna ke Sughra meri chal basi
 
   8
-  Muntazir raah mein hai bichaye nazar
-  Ho gaya ran mein bhai ka zakhmi jigar
-  Mar na jaaye kahin sunke noor e nazar
-
-  9
-  Muntazir hai mere bhai saansein meri
-  Dekh le aake dekhna ki tu bekasi
-  Aisa lagta hai lamhon ki hai zindagi
-  Phir na kehna ke sughra meri chal basi
-
-  10
   Sar pe sehra ho aana meri qabr par
   Apni dulhan ko laana meri qabr par
-  Ek chadar chadhana meri qabr par
+  Ek chaadar charhaana meri qabr par
+  Mera nauha sunaana meri qabr par
 
-  11
-  Mera nauha sunana meri qabr par
-  Padh ke tahreer roye shahe karbala
-  Naama sughra ka ashkon se tar hogaya
+  9
+  Parh ke tahrir roye Shah-e-Karbala
+  Naama Sughra ka ashkoṅ se tar ho gaya
+  Bole qaasid se jaa ke suna waaqia
+  Tir Asghar ko Akbar ko naiza laga
 
-  12
-  Bole qasid se jaa ke suna waqeya
-  Teer asghar ko akbar ko naiza laga
-  Rok le apna shaukat qalam rok le
-
-  13
+  10
+  Rok le apna Shaukat qalam rok le
   Ashk ban kar siyaahi ke khatre kahe
-  Bibi sughra ke jo bain tu ne likhe
-  Chashme insan se ashkon ke darya bahe
+  Bibi Sughra ke jo bain tu ne likhe
+  Chashm-e-insaaṅ se ashkoṅ ke darya bahe
 # source_id: nohayonline:44e51c6c8b148839c526
 # source_url: https://www.nohayonline.com/details_content.php?id=3693
 # raw_sha256: 699103b767bb05369e132456d848e23039836513704efa380f5851162b94bbd8
 ---
 تیری شادی کا ارمان صغرا کو تھا
-اس کے لب پر شام و سحر یہ دعا
-میرے بھائی سے مجھکو ملا دے خدا
+اس کے لب پر ہے شام و سحر یہ دعا
+میرے بھائی سے مجھ کو ملا دے خدا
 وہ نہیں جانتی ہے کہ نیزہ لگا
 
-۱
 راس آئی نہ کربوبلا
 میرا اکبر جواں مر گیا
+
+۱
 جب سنا رن میں گھوڑے سے اکبر گرے
 ٹھوکریں رن میں کھاتے ہوئے شہ چلے
-
-۲
 خاک اور خون میں ہے وہ غلطاں پڑے
 حال دیکھا پسر کا تو کہنے لگے
-دیکھے زخمی جگر کو شہ کربلا
 
-۳
+۲
+دیکھے زخمی جگر کو شہ کربلا
 اس میں برچھی کا پھل جو نظر آ گیا
 ہے تصور میں نانا رسول خدا
 جیسے ان کی جوانی کو نیزہ لگا
 
-۴
-حال صغرا کا بابا دکھا دیجیےء
-مجھکو دیدار صغرا کرا دیجیےء
-ایک بھائی بہن کو ملا دیجیےء
-میرے زخمی جگر کو چھپا دیجیےء
+۳
+حال صغرا کا بابا دکھا دیجیے
+مجھ کو دیدار صغرا کرا دیجیے
+ایک بھائی بہن کو ملا دیجیے
+میرے زخمی جگر کو چھپا دیجیے
 
-۵
-ڈالی اکبر نے سوے مدینہ نظر
+۴
+ڈالی اکبر نے سوئے مدینہ نظر
 ایک ضعیفہ ہے بابا وہ ہے بے خبر
 اس پہ تیری جدائی کا ہے یہ اثر
+وہ ضعیفہ ہے صغرا تیری منتظر
+
+۵
+تیری فرقت میں یہ حال صغرا ہوا
+جھک گئی ہے کمر ہاتھ میں ہے عصا
+سوچتی ہے میرا بھائی کب آئے گا
+جیتے جی کیا بہن سے وہ مل پائے گا
 
 ۶
-وہ ضعیفہ ہے صغرا تیری منتظر
-تیری فرقت میں یہ حال صغرا ہوا
-جھک گیء ہے کمر ہاتھ میں ہے عصا
-
-۷
-سوچتی ہے میرا بھائی کب آے گا
-جیتے جی کیا بہن سے وہ مل پاے گا
 بولے شہ کیسے صغرا سنے یہ خبر
-
-۸
-منتظر راہ میں ہے بچھاے نظر
-ہو گیا رن میں بھای کا زخمی جگر
+منتظر راہ میں ہے بچھائے نظر
+ہو گیا رن میں بھائی کا زخمی جگر
 مر نہ جائے کہیں سن کے نور نظر
 
-۹
+۷
 منتظر ہے میرے بھائی سانسیں میری
 دیکھ لے آ کے دکھیا کی تو بیکسی
 ایسا لگتا ہے لمحوں کی ہے زندگی
 پھر نہ کہنا کہ صغرا میری چل بسی
 
-۱۰
+۸
 سر پہ سہرا ہو آنا میری قبر پر
 اپنی دلہن کو لانا میری قبر پر
 ایک چادر چڑھانا میری قبر پر
-
-۱۱
 میرا نوحہ سنانا میری قبر پر
-پڑھ کے تحریر روے شہ کربلا
-نامہ صغرا کا اشکوں سے تر ہو گیا
 
-۱۲
+۹
+پڑھ کے تحریر روئے شہ کربلا
+نامہ صغرا کا اشکوں سے تر ہو گیا
 بولے قاصد سے جا کے سنا واقعہ
 تیر اصغر کو اکبر کو نیزہ لگا
-روک لے اپنا شوکت قلم روک لے
 
-۱۳
+۱۰
+روک لے اپنا شوکت قلم روک لے
 اشک بن کر سیاہی کے خطرے کہے
-بی بی صغرا کے جو بین تو نے لکھے
+بی‌بی صغرا کے جو بین تو نے لکھے
 چشمِ انساں سے اشکوں کے دریا بہے
