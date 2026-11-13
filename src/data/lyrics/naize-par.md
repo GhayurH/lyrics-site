@@ -6,52 +6,57 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Asad Naqvi"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ya hussain maula hussain
-  Kis tarha tehre sar e shaah e wafa naize par
-  Shaam tak jayegi zainab ki rida naize par
-  Raah may poocha sakina ne jo baba hai kahan
-  Khoon rote huwe abid ne kaha naize par
+  Ya Husain Maula Husain
+
+  Kis tarah thahre sar-e-Shaah-e-wafa naize par
+  Shaam tak jaaegi Zainab ki rida naize par
+
+  Raah mein puchha Sakina ne jo baaba hai kahaaṅ
+  Khun rote hue Aabid ne kaha naize par
 
   1
-  Qabr jis chaand ki chup chup ke banate thay hussain
-  Raat hote hi wohi chaand chada naize par
+  Qabr jis chaand ki chhup chhup ke banaate the Husain
+  Raat hote hi wohi chaand charha naize par
 
   2
-  Shiddat e pyaas hai tanha hai ghareeb e zahra
+  Shiddat-e-pyaas hai tanha hai gharib-e-Zahra
   Aag ugalta hua suraj hai sawa naize par
 
   3
-  Khoon abid ki tarha rote thay mazloom hussain
-  Choo ke chadar ko jo aati hai hawa naize par
+  Khun Aabid ki tarah rote the mazlum Husain
+  Chhu ke chaadar ko jo aati hai hawa naize par
 
   4
-  Maine parde may isay paala hai boli zainab
-  Sar mujhe shimr na akbar ka dikha naize par
+  Main ne parde mein ise paala hai boli Zainab
+  Sar mujhe Shimr na Akbar ka dikha naize par
 
   5
-  Shaam tak baali sakina ne tamache khaaye
-  Shaam tak rote rahe shaah e huda naize par
+  Shaam tak baali Sakina ne tamaanche khaae
+  Shaam tak rote rahe Shaah-e-huda naize par
 
   6
-  Baad may majlis e shabbir hui zindan may
-  Pehle majlis hui chadar ki bapa naize par
+  Baad mein majlis-e-Shabbir hui zindaaṅ mein
+  Pahle majlis hui chaadar ki bapa naize par
 
   7
-  Sirf aur sirf hussain ibne ali jaante hai
-  Kaise hoti hai asad hamd e khuda naize par
+  Sirf aur sirf Husain ibn-e-Ali jaante haiṅ
+  Kaise hoti hai Asad hamd-e-Khuda naize par
 # source_id: nohayonline:f33f9956139849dc56a9
 # source_url: https://www.nohayonline.com/details_content.php?id=2413
 # raw_sha256: 1410559b169c5c62a54ffaa8bbbccb724f0b458c617fcb0787ab05f35f210f93
 ---
 یا حسین مولا حسین
-کس طرح ٹہرے سر شاہ وفا نیزے پر
-شام تک جاے گی زینب کی ردا نیزے پر
+
+کس طرح ٹھہرے سر شاہ وفا نیزے پر
+شام تک جائے گی زینب کی ردا نیزے پر
+
 راہ میں پوچھا سکینہ نے جو بابا ہے کہاں
-خون روتے ہوے عابد نے کہا نیزے پر
+خون روتے ہوئے عابد نے کہا نیزے پر
 
 ۱
 قبر جس چاند کی چھپ چھپ کے بناتے تھے حسین
@@ -70,12 +75,12 @@ romanLyrics: |-
 سر مجھے شمر نہ اکبر کا دکھا نیزے پر
 
 ۵
-شام تک بالی سکینہ نے طمانچے کھاے
-شام تک روتے رہے شاہ ہدا نیزے پر
+شام تک بالی سکینہ نے طمانچے کھائے
+شام تک روتے رہے شاہ ہدیٰ نیزے پر
 
 ۶
-بعد میرے مجلس شبیر ہوی زنداں میں
-پہلے مجلس ہوی چادر کی بپا نیزے پر
+بعد میرے مجلس شبیر ہوئی زنداں میں
+پہلے مجلس ہوئی چادر کی بپا نیزے پر
 
 ۷
 صرف اور صرف حسین ابنِ علی جانتے ہیں

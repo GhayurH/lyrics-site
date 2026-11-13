@@ -1,98 +1,110 @@
 ---
 title: "نہیں تھا کچھ بھی حسین تب ہے"
-alternateTitle: "Nahi Tha Kuch Bhi"
+alternateTitle: "Nahiṅ Tha Kuch Bhi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
-aliases: []
+aliases: ["Nahi Tha Kuch Bhi"]
 published: false
 romanLyrics: |-
-  Nahi tha kuch bhi hussain tab hai
-  Quran jis ko qadar hai likhta
-  Hussain logon wohi to shab hai
-  Hussain kaise kahan o kab hai
-  
+  Nahiṅ tha kuch bhi Husain tab hai
+
+  Quraan jis ko qadar hai likhta
+  Husain logoṅ wohi to shab hai
+  Husain kaise kahaaṅ o kab hai
+
   1
-  Wo jiske nana ki jutiyon ka
-  Tawaf karte ho farishte
-  Wo jiske dada ke zer e saaya
-  Rasool e haq aur imam palte
-  Koi to dikhlao is jahan mein
-  Ke jiska aisa hasab nasab hai
-  
+  Wo jis ke naana ki jutiyoṅ ka
+  Tawaaf karte ho farishte
+  Wo jis ke daada ke zer-e-saaya
+  Rasul-e-Haq aur imaam palte
+  Koi to dikhlaao is jahaaṅ mein
+  Ke jis ka aisa hasab nasab hai
+  Husain kaise kahaaṅ o kab hai
+
   2
-  Mere khayalon ki inteha se
-  Hussain ki ibteda hui hai
-  Sha'oor o fiqr o nazar ke daaghon
-  Se jiski basti badi hui hai
-  Hussain tum ko samajh mein aaye
-  Qasam khuda ki bahot ajab hai
-  
+  Mere khayaaloṅ ki inteha se
+  Husain ki ibtida hui hai
+  Shuur o fikr o nazar ke daaghoṅ
+  Se jis ki basti bari hui hai
+  Husain tum ko samajh mein aae
+  Qasam Khuda ki bahut ajab hai
+  Husain kaise kahaaṅ o kab hai
+
   3
-  Wo jiske tewar khuda ke tewar
-  Wo jiski bakshish khuda ki bakshish
-  Bahishton uski khushi ke peeche
-  Wajood e dozakh ho jiski ranjish
-  Na khaufe dozakh na shauke jannat
-  Hussain ki bas hamay talab hai
-  
+  Wo jis ke tewar Khuda ke tewar
+  Wo jis ki bakhshish Khuda ki bakhshish
+  Bahishtoṅ us ki khushi ke pichhe
+  Wujud-e-dozakh ho jis ki ranjish
+  Na khauf-e-dozakh na shauq-e-jannat
+  Husain ki bas hameṅ talab hai
+  Husain kaise kahaaṅ o kab hai
+
   4
-  Wo jo ke baad'az khuda hai sab se
-  Azeem izzat ye bhi badi hai
-  Hussain ki maa ko dekh kar wo
-  Rasool tazeem mein khade hai
-  Rasool e aazam pe jiski maadar
-  Ka dekho wajib hua adab hai
-  
+  Wo jo ke baad az Khuda hai sab se
+  Azim izzat ye bhi bari hai
+  Husain ki maaṅ ko dekh kar wo
+  Rasul taazim mein khare hai
+  Rasul-e-Aazam pe jis ki maadar
+  Ka dekho waajib hua adab hai
+  Husain kaise kahaaṅ o kab hai
+
   5
-  Sina ko doshe nabi samajh ke
-  Namaz e wehdat ada kare jo
-  Yazeediyat ke bhawar ke aage
+  Sinaaṅ ko dosh-e-Nabi samajh ke
+  Namaaz-e-wahdat ada kare jo
+  Yazidiyat ke bhanwar ke aage
   Chataan ban ke utha kare jo
-  Hayaat e deen e khuda ka sunlo
-  Hussain ibne ali sabab hai
-  
+  Hayaat-e-din-e-Khuda ka sun lo
+  Husain ibn-e-Ali sabab hai
+  Husain kaise kahaaṅ o kab hai
+
   6
-  Ye adl e parwardigar e aalam
+  Ye adl-e-Parwardigaar-e-aalam
   Ki ek ajab si ada hai dekho
-  Khuda ne sab kuch diya hai jisko
+  Khuda ne sab kuch diya hai jis ko
   Usi se sab kuch liya hai dekho
-  Khuda to khaliq hai imtehan ka
-  Hussain sabr o raza ka rab hai
-  
+  Khuda to khaaliq hai imtihaaṅ ka
+  Husain sabr o raza ka rab hai
+  Husain kaise kahaaṅ o kab hai
+
   7
-  Faraat ki har leher nidamat
-  Se pani pani hui salamat
-  Hayaat e kausar ki kar rahi thi
-  Rawani e alqama tilawat
-  Sairaab jis ne kiya hai deen ko
-  Wo ibne zahra to tashnalab hai
+  Furaat ki har lahar nadaamat
+  Se paani paani hui salaamat
+  Hayaat-e-Kausar ki kar rahi thi
+  Rawaani-e-Alqama tilaawat
+  Sairaab jis ne kiya hai din ko
+  Wo ibn-e-Zahra to tishna lab hai
+  Husain kaise kahaaṅ o kab hai
 # source_id: nohayonline:a8bb8ca30cb299ce5775
 # source_url: https://www.nohayonline.com/details_content.php?id=3240
 # raw_sha256: 0fb77be9bca6e4908c6056c9f1831d3e2f9f4fc82ea2d7d5b9dd5885e811fe80
 ---
 نہیں تھا کچھ بھی حسین تب ہے
+
 قرآن جس کو قدر ہے لکھتا
 حسین لوگوں وہی تو شب ہے
 حسین کیسے کہاں و کب ہے
 
 ۱
-وہ جس کے نانا کی جٹیںوں کا
+وہ جس کے نانا کی جوتیوں کا
 طواف کرتے ہو فرشتے
 وہ جس کے دادا کے زیر سایہ
 رسول حق اور امام پلٹے
-کوی تو دکھلاؤ اس جہاں میں
+کوئی تو دکھلاؤ اس جہاں میں
 کہ جس کا ایسا حسب نسب ہے
+حسین کیسے کہاں و کب ہے
 
 ۲
 میرے خیالوں کی انتہا سے
-حسین کی ابتداء ہوئی ہے
+حسین کی ابتدا ہوئی ہے
 شعور و فکر و نظر کے داغوں
-سے جس کی بستی بڑی ہوی ہے
-حسین تم کو سمجھ میں آے
+سے جس کی بستی بڑی ہوئی ہے
+حسین تم کو سمجھ میں آئے
 قسم خدا کی بہت عجب ہے
+حسین کیسے کہاں و کب ہے
 
 ۳
 وہ جس کے تیور خدا کے تیور
@@ -101,6 +113,7 @@ romanLyrics: |-
 وجود دوزخ ہو جس کی رنجش
 نہ خوف دوزخ نہ شوق جنت
 حسین کی بس ہمیں طلب ہے
+حسین کیسے کہاں و کب ہے
 
 ۴
 وہ جو کہ بعد از خدا ہے سب سے
@@ -109,6 +122,7 @@ romanLyrics: |-
 رسول تعظیم میں کھڑے ہے
 رسول اعظم پہ جس کی مادر
 کا دیکھو واجب ہوا ادب ہے
+حسین کیسے کہاں و کب ہے
 
 ۵
 سناں کو دوش نبی سمجھ کے
@@ -117,6 +131,7 @@ romanLyrics: |-
 چٹان بن کے اٹھا کرے جو
 حیات دین خدا کا سن لو
 حسین ابنِ علی سبب ہے
+حسین کیسے کہاں و کب ہے
 
 ۶
 یہ عدل پروردگار عالم
@@ -125,11 +140,13 @@ romanLyrics: |-
 اسی سے سب کچھ لیا ہے دیکھو
 خدا تو خالق ہے امتحاں کا
 حسین صبر و رضا کا رب ہے
+حسین کیسے کہاں و کب ہے
 
 ۷
 فرات کی ہر لہر ندامت
-سے پانی پانی ہوی سلامت
+سے پانی پانی ہوئی سلامت
 حیات کوثر کی کر رہی تھی
-روانیء علقمہ تلاوت
+روانیِ علقمہ تلاوت
 سیراب جس نے کیا ہے دین کو
 وہ ابن زہرا تو تشنہ لب ہے
+حسین کیسے کہاں و کب ہے
