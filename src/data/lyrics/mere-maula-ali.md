@@ -6,74 +6,77 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Baqar Alavi"
+reciter: "Mir Arif Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zakhmi sitam ki taygh se haq ka wali hua
-  Ghamgeen aaj arsh pa rab e jali hua
-  Dete hai aasman se jibreel ye sada
-  Kufe ke sar zameen par qatle ali hua
+  Zakhmi sitam ki tegh se haq ka wali hua
+  Ghamgin aaj arsh pe Rab-e-jali hua
+  Dete haiṅ aasmaaṅ se Jibril ye sada
+  Kufe ke sar zamin par qatl-e-Ali hua
+
+  Kaaba udaas hai musalla udaas hai
+  Chehra Ali ka dekh ke Allah udaas hai
+
+  Chehra hai khuṅ mein duba mushkil kusha Ali ka
+  Uthega ab janaaza mushkil kusha Ali ka
 
   1
-  Kaaba udaas hai musalla udaas hai
-  Chehra ali ka dekh ke allah udaas hai
-  Chehra hai khoon mein dooba mushkil kusha ali ka
-  Uthega ab janaza mushkil kusha ali ka
-  Kufe ki sar zameen par dekho ali ki ghurbat
-  Talwaar se layeen ne aisi lagayi zarbat
-  Hojayegi yaqeenan maula ki ab shahadat
-  Zainab pe aaj guzri allah re qayamat
-  Uth'ta hai sar se saaya mushkil kusha ali ka
+  Kufe ki sar zamin par dekho Ali ki ghurbat
+  Talwaar se laiṅ ne aisi lagaai zarbat
+  Ho jaayegi yaqinan Maula ki ab shahaadat
+  Zainab pe aaj guzri Allah re qayaamat
+  Uthta hai sar se saaya mushkil kusha Ali ka
 
   2
-  Aulaad e murtaza pa mushkil ye kaisi tooti
-  Aankhon se khoon e dil hai ban ban ke ashk jaari
-  Baba se hone waali kuch pal mein hai judaai
-  Kulsoom roke nauha padti hai gham ki maari
-  Saath ab nahi rahega mushkil kusha ali ka
+  Aulaad-e-Murtaza pe mushkil ye kaisi tuti
+  Aankhoṅ se khun-e-dil hai ban ban ke ashk jaari
+  Baaba se hone waali kuchh pal mein hai judaai
+  Kulsum ro ke nauha parhti hai gham ki maari
+  Saath ab nahiṅ rahega mushkil kusha Ali ka
 
   3
-  Behta hai khoon sar se chehre pa murtaza ka
-  Rangeen hogaya hai khoon se ali ka seena
-  Ghash mein imam hai ab aankhon mein hai andhera
-  Khyber shikan ne haathon se apne sar ko thaama
-  Sar hogaya do paara mushkil kusha ali ka
+  Behta hai khun sar se chehre pe Murtaza ka
+  Rangin ho gaya hai khun se Ali ka sina
+  Ghash mein imaam hai ab aankhoṅ mein hai andhera
+  Khaibar shikan ne haathoṅ se apne sar ko thaama
+  Sar ho gaya do paara mushkil kusha Ali ka
 
   4
-  Bas kuch dino ka mehman allah ka wali hai
-  Rota hai waqt har dum ghamgeen har ghadi hai
-  Zakhmi sar e musalla ahmed ka ab wasi hai
-  Sardar e ausia ki ab khatm zindagi hai
-  Khoon se hai tar musalla mushkil kusha ali ka
+  Bas kuchh dinoṅ ka mehmaan Allah ka wali hai
+  Rota hai waqt har dam ghamgin har ghari hai
+  Zakhmi sar-e-musalla Ahmad ka ab wasi hai
+  Sardaar-e-ausiya ki ab khatm zindagi hai
+  Khuṅ se hai tar musalla mushkil kusha Ali ka
 
   5
-  Roti hai binte hyder sar ki rida sambhale
-  Baba ko apne marne se kaise wo bachale
-  Abbas ro rahe hai sar ko jhuka ke haye
-  Hasnain peet'te hai sar apna gham ke maare
-  Matam karenge shia mushkil kusha ali ka
+  Roti hai bint-e-Haidar sar ki rida sambhaale
+  Baaba ko apne marne se kaise wo bacha le
+  Abbas ro rahe haiṅ sar ko jhuka ke haaye
+  Hasnain pitte haiṅ sar apna gham ke maare
+  Maatam kareṅ ge Shia mushkil kusha Ali ka
 
   6
-  Maula ko aa raha hai bas ek khayal aksar
-  Bazaar e shaam ka hai unki nazar mein manzar
-  Marega koi pathar cheenega koi chadar
-  Zainab ki dekhte hai jab bhi rida ko hyder
-  Phat'ta hai gham se seena mushkil kusha ali ka
+  Maula ko aa raha hai bas ek khayaal aksar
+  Baazaar-e-Shaam ka hai un ki nazar mein manzar
+  Maarega koi patthar chhinega koi chaadar
+  Zainab ki dekhte haiṅ jab bhi rida ko Haidar
+  Phatta hai gham se sina mushkil kusha Ali ka
 
   7
-  Kufe mein ro raha hai har ek yateem bacha
-  Kufe mein hai ghareebon ka kaun ab sahara
-  Gham mein ali ke rota hai ye jahan saara
-  Matam bapa hai arshe khaliq pe murtaza ka
-  Karta hai sog kaaba mushkil kusha ali ka
+  Kufe mein ro raha hai har ek yatim bachcha
+  Kufe mein hai ghariboṅ ka kaun ab sahaara
+  Gham mein Ali ke rota hai ye jahaan saara
+  Maatam bapa hai arsh-e-Khaaliq pe Murtaza ka
+  Karta hai sog Kaaba mushkil kusha Ali ka
 
   8
-  Baqar ali ke gham mein shamil hai khud khuda bhi
-  Shaahe najaf ke gham mein ghamgeen hai karbala bhi
-  Mehwe buka lehad mein hai aaj fatema bhi
-  Bhai ke gham mein sar ko peetenge mustafa bhi
-  Dekhenge jab wo chehra mushkil kusha ali ka
+  Baqar Ali ke gham mein shaamil hai khud Khuda bhi
+  Shaah-e-Najaf ke gham mein ghamgin hai Karbala bhi
+  Mahv-e-buka lahad mein hai aaj Fatima bhi
+  Bhaai ke gham mein sar ko piteṅ ge Mustafa bhi
+  Dekheṅ ge jab wo chehra mushkil kusha Ali ka
 # source_id: nohayonline:3c739e4c03c5746f82a9
 # source_url: https://www.nohayonline.com/details_content.php?id=1335
 # raw_sha256: 49dc9115c840e3307079e40cd9b52974e0887861ec2d49405911f362655085f3
@@ -83,26 +86,28 @@ romanLyrics: |-
 دیتے ہیں آسماں سے جبریل یہ صدا
 کوفے کے سر زمین پر قتل علی ہوا
 
-۱
 کعبہ اداس ہے مصلہ اداس ہے
 چہرہ علی کا دیکھ کے اللّٰہ اداس ہے
+
 چہرہ ہے خوں میں ڈوبا مشکل کشا علی کا
 اٹھے گا اب جنازہ مشکل کشا علی کا
+
+۱
 کوفے کی سر زمین پر دیکھو علی کی غربت
-تلوار سے لعیں نے ایسی لگای ضربت
-ہو جاے گی یقینن مولا کی اب شہادت
+تلوار سے لعیں نے ایسی لگائی ضربت
+ہو جائے گی یقیناً مولا کی اب شہادت
 زینب پہ آج گزری اللّٰہ رے قیامت
 اٹھتا ہے سر سے سایہ مشکل کشا علی کا
 
 ۲
-اولاد مرتظی پہ مشکل یہ کیسی ٹوٹی
-آنکھوں سے خونِ دل ہے بن بن کے آشک جاری
+اولاد مرتضیٰ پہ مشکل یہ کیسی ٹوٹی
+آنکھوں سے خونِ دل ہے بن بن کے اشک جاری
 بابا سے ہونے والی کچھ پل میں ہے جدائی
-کلثوم روکے نوحہ پڑتی ہے غم کی ماری
+کلثوم رو کے نوحہ پڑھتی ہے غم کی ماری
 ساتھ اب نہیں رہے گا مشکل کشا علی کا
 
 ۳
-بہتا ہے خون سر سے چہرے پہ مرتظی کا
+بہتا ہے خون سر سے چہرے پہ مرتضیٰ کا
 رنگین ہوگیا ہے خون سے علی کا سینہ
 غش میں امام ہے اب آنکھوں میں ہے اندھیرا
 خیبر شکن نے ہاتھوں سے اپنے سر کو تھاما
@@ -118,27 +123,27 @@ romanLyrics: |-
 ۵
 روتی ہے بنت حیدر سر کی ردا سنبھالے
 بابا کو اپنے مرنے سے کیسے وہ بچالے
-عباس رو رہے ہیں سر کو جھکا کے ہاے
+عباس رو رہے ہیں سر کو جھکا کے ہائے
 حسنین پیٹتے ہیں سر اپنا غم کے مارے
-ماتم کریں گے شعیہ مشکل کشا علی کا
+ماتم کریں گے شیعہ مشکل کشا علی کا
 
 ۶
 مولا کو آ رہا ہے بس اک خیال اکثر
-بازار شام کا ہے انکی نظر میں منظر
-مرے گا کوئی پتھر چھینے گا کوئی چادر
+بازار شام کا ہے ان کی نظر میں منظر
+مارے گا کوئی پتھر چھینے گا کوئی چادر
 زینب کی دیکھتے ہیں جب بھی ردا کو حیدر
 پھٹتا ہے غم سے سینہ مشکل کشا علی کا
 
 ۷
-کوفے میں رو رہا ہے ہر اک یتیمی بچہ
+کوفے میں رو رہا ہے ہر اک یتیم بچہ
 کوفے میں ہے غریبوں کا کون اب سہارا
 غم میں علی کے روتا ہے یہ جہان سارا
-ماتم بپا ہے عرش خالق پہ مرتظی کا
+ماتم بپا ہے عرش خالق پہ مرتضیٰ کا
 کرتا ہے سوگ کعبہ مشکل کشا علی کا
 
 ۸
 باقر علی کے غم میں شامل ہے خود خدا بھی
-شاہ نجف کے غم میں کربلا بھی
+شاہ نجف کے غم میں غمگین ہے کربلا بھی
 محو بکا لحد میں ہے آج فاطمہ بھی
-بھای کے غم میں سر کو پیٹیں گے مصطفیٰ بھی
+بھائی کے غم میں سر کو پیٹیں گے مصطفیٰ بھی
 دیکھیں گے جب وہ چہرہ مشکل کشا علی کا

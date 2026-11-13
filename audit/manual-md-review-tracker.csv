@@ -2738,9 +2738,9 @@ src/data/lyrics/mere-laal-hussaina.md,standalone_lyrics,imported,nohayonline+ziy
 src/data/lyrics/mere-laboon-pe-seerat-e-akbar-ki-baat-hai.md,standalone_lyrics,imported,tajpoints,pending,partial_review,partial_review,reviewed,not_applicable,reviewed,,,"Need Urdu poster/audio: s6 ""Zair-e-Kissa"" (provisional زیر قصہ) vs ""zer-e-kisa"" (زیر کسا); confirm the word and pronunciation."
 src/data/lyrics/mere-maula-aane.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,,,"Need audio/print: s3 ""baqayye/baqiyya"" (بقیہ) vs Baqi (بقیع)."
 src/data/lyrics/mere-maula-aao.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
-src/data/lyrics/mere-maula-ali.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/mere-mola-main-likhon-teri-fazeelat-kaisay.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/mere-naseeb-mein.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/mere-maula-ali.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
+src/data/lyrics/mere-mola-main-likhon-teri-fazeelat-kaisay.md,standalone_lyrics,imported,tajpoints,pending,partial_review,partial_review,reviewed,not_applicable,reviewed,,,"Need audio/Urdu print: s4 ""Shujat Wari"" (provisional شجاعت واری); s5 ""Tu Jali"" (provisional تو جلی), confirm wording and pronunciation."
+src/data/lyrics/mere-naseeb-mein.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
 src/data/lyrics/mere-qatl-ki-tayyari.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/mere-raaj-dulare.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/mere-zakhm-baba.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
