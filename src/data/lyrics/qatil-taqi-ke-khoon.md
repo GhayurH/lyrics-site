@@ -1,53 +1,54 @@
 ---
 title: "قاتل تقی کے خوں کا طلبگار ہوگیا"
-alternateTitle: "Qatil Taqi Ke Khoon"
+alternateTitle: "Qaatil Taqi Ke Khuṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mohammad Jamani"
+reciter: "Syeda Isha Haider"
 tags: ["noImage"]
-aliases: []
+aliases: ["Qatil Taqi Ke Khoon"]
 published: false
 romanLyrics: |-
-  Qatil taqi ke khoon ka talabgar hogaya
-  Ghar sayyeda ka phir say azadar hogaya
+  Qaatil Taqi ke khuṅ ka talabgaar ho gaya
+  Ghar Sayyeda ka phir se azaadaar ho gaya
   
   1
-  Badla hai kaisa waqt watan chodna pada
-  Yasrab mein saans lena bhi dushwar hogaya
+  Badla hai kaisa waqt watan chhorna para
+  Yasrab mein saans lena bhi dushwaar ho gaya
   
   2
-  Kal tak ghame raza se jigar taar taar tha
-  Aur aaj dil taqi ka azadar hogaya
+  Kal tak gham-e-Raza se jigar taar taar tha
+  Aur aaj dil Taqi ka azaadaar ho gaya
   
   3
   Pardes mein khud apni hi ghurbat ko dekh kar
-  Taaza ghame hussain phir ek baar hogaya
+  Taaza gham-e-Husain phir ek baar ho gaya
   
   4
-  Phir se hua hai takht e nasheen koi badnasab
-  Phir qatl koi saahib e kirdaar hogaya
+  Phir se hua hai takht nashiṅ koi badnasab
+  Phir qatl koi saahib-e-kirdaar ho gaya
   
   5
-  Maloon mohtasim ke iraade na chup sakay
-  Aale nabi se bughz ka izhaar hogaya
+  Malun Mohtasim ke iraade na chhup sake
+  Aal-e-Nabi se bughz ka izhaar ho gaya
   
   6
-  Rauza ghareeb toos ka gham se laraz gaya
-  Ibne raza pe zulm ka jab waar hogaya
+  Rauza gharib Tus ka gham se laraz gaya
+  Ibn-e-Raza pe zulm ka jab waar ho gaya
   
   7
-  Jab zehr se taqi ke badan mein hua asar
-  Turbat mein mujtaba ka dilafgaar hogaya
+  Jab zehr se Taqi ke badan mein hua asar
+  Turbat mein Mujtaba ka dil afgaar ho gaya
   
   8
-  Bayt e ali mein goonji sada wa mohameda
-  Sun kar jise khud arsh bhi ghamkhwar hogaya
+  Bait-e-Ali mein gunji sada wa Mohammada
+  Sun kar jise khud arsh bhi ghamkhwaar ho gaya
   
   9
-  Aankhon se khoon behne laga kazmeinn mein
-  Jis dam jawad imam ka zawwar hogaya
+  Aankhoṅ se khun behne laga Kaazimain mein
+  Jis dam Jawad Imam ka zawwaar ho gaya
 # source_id: nohayonline:34346502a38eeb2f1b1f
 # source_url: https://www.nohayonline.com/details_content.php?id=1272
 # raw_sha256: ad8ceba0db996626b8d744a3b019f5edba7bf26cd74df760de776e90da8dd92f

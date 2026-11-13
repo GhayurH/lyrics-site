@@ -6,52 +6,53 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rafia Azeez"
+reciter: "Mir Arif Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Itihaas ke panno par qasim tera matam hai
-  Karbobala ke ban mein qasim tera matam hai
+  Itihaas ke pannoṅ par Qasim tera maatam hai
+  Karb o Bala ke ban mein Qasim tera maatam hai
 
   1
-  Ahmed ke nawase ho shabbar ke dulaare ho
-  Ek raaj dulaare ho farwa ke jiyale ho
-  Tareekh ke honton pe qasim tera matam hai
+  Ahmed ke nawaase ho Shabbar ke dulaare ho
+  Ek raaj dulaare ho Farwa ke jiyaale ho
+  Taarikh ke hontoṅ pe Qasim tera maatam hai
 
   2
-  Shadi ke ewaz ran mein chayi hai ghata gham ki
-  Taqdeer mein dulha ke aayi hai khaza ban ke
-  Kis aalam e ghurbat mein qasim tera matam hai
+  Shaadi ke ewaz ran mein chhaai hai ghata gham ki
+  Taqdir mein dulha ke aai hai qaza ban ke
+  Kis aalam-e-ghurbat mein Qasim tera maatam hai
 
   3
-  Sandal hai na mehendi hai kangna hai na sehra hai
-  Bas khoon mein ghaltan sa naushaah ka laasha hai
-  Rote hai shahe waala qasim tera matam hai
+  Sandal hai na mehndi hai kangan hai na sehra hai
+  Bas khun mein ghaltaaṅ sa naushaah ka laasha hai
+  Rote haiṅ Shah-e-waala Qasim tera maatam hai
 
   4
-  Roti hai teri dulhan ek roz ki wo byahi
-  Khaliq ne muqaddar mein kya shadi hai rachayi
-  Kubra teri kismat mein qasim tera matam hai
+  Roti hai teri dulhan ek roz ki wo byaahi
+  Khaaliq ne muqaddar mein kya shaadi hai rachaai
+  Kubra teri qismat mein Qasim tera maatam hai
 
   5
-  Shabbir ke haathon pe qasim tera laasha hai
+  Shabbir ke haathoṅ pe Qasim tera laasha hai
   Kubra ki zindagi mein bachpan se andhera hai
-  Namoose mustafa mein qasim tera matam hai
+  Naamus-e-Mustafa mein Qasim tera maatam hai
 
   6
-  Dafna'un tumhe kaise tukde tane athar hai
-  Maut aaye na kyun mujhko ab khaak zindagi hai
-  Sadqe ho teri maadar qasim tera matam hai
+  Dafnaauṅ tumheṅ kaise tukre tan-e-athar hai
+  Maut aaye na kiuṅ mujh ko ab khaak zindagi hai
+  Sadqe ho teri maadar Qasim tera maatam hai
 
   7
-  Zainab ka tha ye girya tanha hai shahe waala
-  Hasrat se uth raha hai qasim tera janaza
-  Zehra ke gharana mein qasim tera matam hai
+  Zainab ka tha ye girya tanha hai Shah-e-waala
+  Hasrat se uth raha hai Qasim tera janaaza
+  Zehra ke gharaane mein Qasim tera maatam hai
 
   8
-  Nazrana azeezi ka arif ki zabani hai
-  Mil jaye hame bakshish nauhe to bahana hai
-  Is dashte karbala mein qasim tera matam hai
+  Nazraana Azizi ka Arif ki zabaani hai
+  Mil jaaye hameṅ bakhshish nauhe to bahaana hai
+  Is dasht-e-Karbala mein Qasim tera maatam hai
 # source_id: nohayonline:bf6fb9173efe13d77683
 # source_url: https://www.nohayonline.com/details_content.php?id=1337
 # raw_sha256: 0982800b826875697d4f1da5da1f559063b1fad1a3d838ec520c481d53e2ce58
@@ -65,8 +66,8 @@ romanLyrics: |-
 تاریخ کے ہونٹوں پہ قاسم تیرا ماتم ہے
 
 ۲
-شادی کے عوض رن میں چھای ہے گھٹا غم کی
-تقدیر میں دولہا کے آی ہے قضا بن کے
+شادی کے عوض رن میں چھائی ہے گھٹا غم کی
+تقدیر میں دولہا کے آئی ہے قضا بن کے
 کس عالم غربت میں قاسم تیرا ماتم ہے
 
 ۳
@@ -76,7 +77,7 @@ romanLyrics: |-
 
 ۴
 روتی ہے تیری دلہن اک روز کی وہ بیاہی
-خالق نے مقدر میں کیا شادی ہے رچای
+خالق نے مقدر میں کیا شادی ہے رچائی
 کبرا تیری قسمت میں قاسم تیرا ماتم ہے
 
 ۵
@@ -85,8 +86,8 @@ romanLyrics: |-
 ناموسِ مصطفیٰ میں قاسم تیرا ماتم ہے
 
 ۶
-دفناوءں تمہیں کیسے ٹکڑے تن اطہر ہے
-موت آے نہ کیوں مجھکو اب خاک زندگی ہے
+دفناؤں تمہیں کیسے ٹکڑے تن اطہر ہے
+موت آئے نہ کیوں مجھ کو اب خاک زندگی ہے
 صدقے ہو تیری مادر قاسم تیرا ماتم ہے
 
 ۷
@@ -96,5 +97,5 @@ romanLyrics: |-
 
 ۸
 نظرانہ عزیزی کا عارف کی زبانی ہے
-مل جاے ہمیں بخشش نوحے تو بہانا ہے
+مل جائے ہمیں بخشش نوحے تو بہانا ہے
 اس دشت کربلا میں قاسم تیرا ماتم ہے

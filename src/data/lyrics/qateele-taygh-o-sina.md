@@ -1,59 +1,60 @@
 ---
 title: "قتیل تیغ و سناں لا الہ الا اللہ"
-alternateTitle: "Qateele Taygh O Sina"
+alternateTitle: "Qatil-e-Tegh o Sinaaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
+reciter: "Ali Yazdan"
 tags: ["noImage"]
-aliases: []
+aliases: ["Qateele Taygh O Sina"]
 published: false
 romanLyrics: |-
-  Qateele taygh-o-sina la ilaha illalla
-  Tere baghair kahan la ilaha illalla
+  Qatil-e-tegh o sinaaṅ la ilaha illallah
+  Tere baghair kahaaṅ la ilaha illallah
 
   1
-  Hussain dehr may islam ki alamat hai
-  Hussain waqt ki sabse badi zaroorat hai
-  Hussain ism tera wird hai ibadat hai
-  Tera lahoo may nihan la ilaha illalla
+  Husain dehr mein Islam ki alaamat hai
+  Husain waqt ki sab se bari zarurat hai
+  Husain ism tera wird hai ibaadat hai
+  Tere lahu mein nihaaṅ la ilaha illallah
 
   2
-  Hussain tujhse baqa deen ki nabuwat ki
-  Hussain tune rakhi aabroo shariyat ki
-  Hussain tune kamar tod'di shakawat ki
-  Tere sabab hai ayan la ilaha illalla
+  Husain tujh se baqa din ki nabuwwat ki
+  Husain tu ne rakhi aabru shariat ki
+  Husain tu ne kamar tor di shaqaawat ki
+  Tere sabab hai ayaaṅ la ilaha illallah
 
   3
-  Kisi zaeef ki nazron may yun nahi dekha
-  Ke aediyon ko ragadta hai naujawan beta
-  Ulat ke aasteen kehke ya ali maula
-  Tu kheenchta hai sina la ilaha illalla
+  Kisi zaif ki nazroṅ mein yuṅ nahiṅ dekha
+  Ke aeriyoṅ ko ragarta hai naujawaan beta
+  Ulat ke aastin keh ke ya Ali Maula
+  Tu khinchta hai sinaaṅ la ilaha illallah
 
   4
-  Niraali shaan se marne ko har jawan gaya
-  Khuda ke deen pe mitne ko har jawan gaya
-  Mila jo izn to ladne ko har jawan gaya
-  Magar wo shere jawan la ilaha illalla
+  Niraali shaan se marne ko har jawaan gaya
+  Khuda ke din pe mitne ko har jawaan gaya
+  Mila jo izn to larne ko har jawaan gaya
+  Magar wo sher-e-jawaaṅ la ilaha illallah
 
   5
-  Bapa hai shore fughan saare aasmano par
-  Ajeeb yaas hai ahle haram ke chehro par
-  Pidar ke hukm pe masoom khushk honton par
-  Jo phayrta hai zuban la ilaha illalla
+  Bapa hai shor o fughaaṅ saare aasmaanoṅ par
+  Ajib yaas hai ahl-e-haram ke chehroṅ par
+  Pidar ke hukm pe maasum khushk hontoṅ par
+  Jo pherta hai zabaaṅ la ilaha illallah
 
   6
-  Damishq ki wo sajawat ke jaise har ghar eid
-  Ali ki betiyan darbare shaam aur wo yazeed
-  Wo chaube khusk wo sarwar ka sar wo zulm shadeed
-  Laraz raha hai jahan la ilaha illalla
+  Damishq ki wo sajaawat ke jaise har ghar Eid
+  Ali ki betiyaaṅ darbaar-e-Shaam aur wo Yazid
+  Wo chob-e-khushk wo Sarwar ka sar wo zulm shadid
+  Laraz raha hai jahaaṅ la ilaha illallah
 
   7
-  Jahan bhi majlise sarwar ho shore matam ho
-  Maray to qabr may shahid bas ek ye gham ho
-  Ye saans aaye ke ruk jaye aankh purnam ho
-  Fida ho tujpe jahan la ilaha illalla
+  Jahaaṅ bhi majlis-e-Sarwar ho shor-e-maatam ho
+  Mare to qabr mein Shahid bas ek ye gham ho
+  Ye saans aaye ke ruk jaaye aankh purnam ho
+  Fida ho tujh pe jahaaṅ la ilaha illallah
 # source_id: nohayonline:7658314ec7a1999c9bf3
 # source_url: https://www.nohayonline.com/details_content.php?id=704
 # raw_sha256: 681cb68b2b75274e6ff3764ab731ae605abaf1851527729c8ddd2faa84ed6d62
