@@ -1,82 +1,83 @@
 ---
-title: "کیا پڑ گیء زندان میں افراد سکینہ"
-alternateTitle: "Kya Pad Gayi Zindan"
+title: "کیا پڑ گئی زندان میں افتاد سکینہ"
+alternateTitle: "Kya Par Gayi Zindaan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Fitrat"
+reciter: "Mir Arif Ali"
 tags: ["noImage"]
-aliases: []
+aliases: ["Kya Pad Gayi Zindan"]
 published: false
 romanLyrics: |-
-  Kya pad gayi zindan mein uftaad sakina
-  Sab se juda hogayi nashaad sakina
+  Kya par gayi zindaan mein uftaad Sakina
+  Sab se judaa ho gayi naashaad Sakina
 
   1
-  Karti thi bayan laash pe ye bano e bekas
-  Faryad hai faryad hai faryad sakina
+  Karti thi bayaan laash pe ye Bano-e-bekas
+  Faryaad hai faryaad hai faryaad Sakina
 
   2
-  Takraati hai zindan mein dewaar se sar ko
-  Tum mar gayi maa hogayi barbaad sakina
+  Takraati hai zindaan mein diwaar se sar ko
+  Tum mar gayi maaṅ ho gayi barbaad Sakina
 
   3
-  Utho to zara paas phupi jaan khadi hai
-  Hote hai tumhare liye nashaad sakina
+  Utho to zaraa paas phuphi jaan khari hai
+  Hote haiṅ tumhaare liye naashaad Sakina
 
   4
   Bedaad hui wo jo kisi par na hui thi
-  Kuch apni zaban se kaho rudaad sakina
+  Kuchh apni zabaaṅ se kaho rudaad Sakina
 
   5
-  Seene pe sulaane ke liye aaye hai baba
-  Maa kehti hai utho meri nashaad sakina
+  Sine pe sulaane ke liye aaye haiṅ baba
+  Maaṅ kehti hai utho meri naashaad Sakina
 
   6
-  Abbas chacha aaye hai karte huwe matam
-  Inki suno apni kaho uftaad sakina
+  Abbas chacha aaye haiṅ karte hue maatam
+  In ki suno apni kaho uftaad Sakina
 
   7
-  Ghurbat se yehi kehta hai zindan ka andhera
-  Reh jayegi ta hashr teri yaad sakina
+  Ghurbat se yehi kehta hai zindaaṅ ka andhera
+  Reh jaayegi taa hashr teri yaad Sakina
 
   8
-  Hai hathkadi haathon mein to paon mein hai bedi
-  Dafnate hai phir bhi tumhe sajjad sakina
+  Hai hathkari haathoṅ mein to paaoṅ mein haiṅ beri
+  Dafnaate haiṅ phir bhi tumheṅ Sajjad Sakina
 
   9
-  Basti hai basayi hui gham ki ali fitrat
-  Har dil hai teri yaad se abaad sakina
+  Basti hai basaai hui gham ki Ali Fitrat
+  Har dil hai teri yaad se aabaad Sakina
 # source_id: nohayonline:14beaac8bc1334cc92d4
 # source_url: https://www.nohayonline.com/details_content.php?id=1334
 # raw_sha256: 2a154571f5568518f14a12fbd3a741edcff8a4454dd9d266f776203957f2ffa4
 ---
-کیا پڑ گیء زندان میں افراد سکینہ
-سب سے جدا ہوگیء ناشاد سکینہ
+کیا پڑ گئی زندان میں افتاد سکینہ
+سب سے جدا ہو گئی ناشاد سکینہ
 
 ۱
-کرتی تھی بیان لاش پہ یہ بانوے بیکس
+کرتی تھی بیان لاش پہ یہ بانوئے بیکس
 فریاد ہے فریاد ہے فریاد سکینہ
 
 ۲
 ٹکراتی ہے زندان میں دیوار سے سر کو
-تم مر گیء ماں ہوگیء برباد سکینہ
+تم مر گئی ماں ہو گئی برباد سکینہ
 
 ۳
-اٹھو تو زرا پاس پھپھی جان کھڑی ہے
-ہوتے ہیں تمہارے لیۓ ناشاد سکینہ
+اٹھو تو ذرا پاس پھپھی جان کھڑی ہے
+ہوتے ہیں تمہارے لیے ناشاد سکینہ
 
 ۴
-بے داد ہوی وہ جو کسی پر نہ ہوی تھی
+بے داد ہوئی وہ جو کسی پر نہ ہوئی تھی
 کچھ اپنی زباں سے کہو روداد سکینہ
 
 ۵
-سینے پہ سلانے کے لئے آے ہیں بابا
+سینے پہ سلانے کے لیے آئے ہیں بابا
 ماں کہتی ہے اٹھو میری ناشاد سکینہ
 
 ۶
-عباس چچا آے ہیں کرتے ہوے ماتم
+عباس چچا آئے ہیں کرتے ہوئے ماتم
 ان کی سنو اپنی کہو افتاد سکینہ
 
 ۷
@@ -88,5 +89,5 @@ romanLyrics: |-
 دفناتے ہیں پھر بھی تمہیں سجاد سکینہ
 
 ۹
-بستی ہے بسای ہوی غم کی علی فطرت
+بستی ہے بسائی ہوئی غم کی علی فطرت
 ہر دل ہے تیری یاد سے آباد سکینہ

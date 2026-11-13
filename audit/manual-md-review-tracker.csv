@@ -2430,9 +2430,9 @@ src/data/lyrics/kya-likha-fatema.md,standalone_lyrics,imported,nohayonline+ziyar
 src/data/lyrics/kya-likha-fatima-sughra-ne-bataya-na-gaya.md,standalone_lyrics,imported,tajpoints,pending,reviewed,reviewed,reviewed,not_applicable,reviewed,2026-11-12-editorial-kya-five,,
 src/data/lyrics/kya-mai-yateem.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,2026-11-12-editorial-kya-five,,"Need audio/print: s3 v1 Urdu ""سجاد بھی سینے سے لگاتا ہے"" versus Roman ""Sajjad bhi seene se lagate hai""; confirm لگاتا ہے or لگاتے ہیں."
 src/data/lyrics/kya-mere-jawan-laal.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-12-editorial-kya-five,,
-src/data/lyrics/kya-mujhe-chod-ke.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/kya-pad-gayi-zindan.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/kya-pata-zindagi-ka.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/kya-mujhe-chod-ke.md,standalone_lyrics,imported,nohayonline+ziyaraat,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need scan/audio: s8 ""یہ کہانی اگر عام"" / ""یہ کہانی میری عام"" and ""کب"" / ""جب پیار فرمائیں گے""; Ziyaraat 1581 differs from the retained reading."
+src/data/lyrics/kya-pad-gayi-zindan.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s3 ""ہوتے ہیں تمہارے لیے ناشاد""; s8 ""پاؤں میں ہیں بیڑی"" (Urdu) vs ""hai bedi"" (Roman)."
+src/data/lyrics/kya-pata-zindagi-ka.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,first_sweep,,"Need audio/print: s3 ""راضی دل سیدہ""; establish finer stanza boundaries within current s1–s3 (archived HTML has unnumbered subgroups)."
 src/data/lyrics/kya-poochte-ho.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/kya-raha-qaimon.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/kya-sitam-tha.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
