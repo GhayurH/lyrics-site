@@ -1,111 +1,116 @@
 ---
-title: "ہاے بیکسی بھای اور بہن کی"
+title: "ہائے بیکسی بھائی اور بہن کی"
 alternateTitle: "Noke Naiza Pe"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Majid Raza Abidi"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye bekasi bhai aur behan ki
-  Shaam haye shaam
+  Haaye bekasi bhai aur behan ki
+  Shaam haaye Shaam
+
   Berida dekh kar ro raha hai
-  Nok e naiza pe bhai mera
-  Boli zainab mera aasra hai
-  Nok e naiza pe bhai mera
-  
+  Nok-e-naiza pe bhai mera
+
+  Boli Zainab mera aasra hai
+  Nok-e-naiza pe bhai mera
+
   1
-  Sura e kehf ki hai hai tilawat
-  Mere bhai ke sookhe labon par
-  Bas kalaam e khuda ki hai qiraat
-  Mere bhai ke sookhe labon par
+  Sura-e-Kahf ki hai tilaawat
+  Mere bhai ke sukhe laboṅ par
+  Bas kalaam-e-Khuda ki hai qiraat
+  Mere bhai ke sukhe laboṅ par
   Kibriya ki sana kar raha hai
-  Nok e naiza pe bhai mera
-  
+  Nok-e-naiza pe bhai mera
+
   2
-  Ummat e jad ko khud bakhshwane
-  Aaya tha karbala mera bhai
-  Aur shifa'at ke raste bataane
-  Aaya tha karbala mera bhai
-  Ahde tifli ada kar raha hai
-  Nok e naiza pe bhai mera
-  
+  Ummat-e-jad ko khud bakhshwaane
+  Aaya tha Karbala mera bhai
+  Aur shafaaat ke raste bataane
+  Aaya tha Karbala mera bhai
+  Ahd-e-tifli ada kar raha hai
+  Nok-e-naiza pe bhai mera
+
   3
-  Maangti hoon rida jab kisi se
-  Thartarata hai naize pe bhai
-  Mar gaye haye tum mere bhaiya
-  Maut mujhko magar kyun na aayi
+  Maangti huṅ rida jab kisi se
+  Thartharaata hai naize pe bhai
+  Mar gaye haaye tum mere bhaiya
+  Maut mujh ko magar kiuṅ na aayi
   Par dilaase mujhe de raha hai
-  Nok e naiza pe bhai mera
-  
+  Nok-e-naiza pe bhai mera
+
   4
-  Chin rahe hai sakina ke gauhar
-  Khaa rahi hai tamache wo paiham
-  Keh rahi hai wo ay mere baba
-  Kar rahi hai wo ro ro ke matam
-  Bebasi se usay dekhta hai
-  Nok e naiza pe bhai mera
-  
+  Chhin rahe haiṅ Sakina ke gauhar
+  Kha rahi hai tamaanche wo paiham
+  Keh rahi hai wo ae mere baba
+  Kar rahi hai wo ro ro ke maatam
+  Bebasi se use dekhta hai
+  Nok-e-naiza pe bhai mera
+
   5
-  Thi jo bhai ke aankhon ki thandak
-  Haye wo binte shaahe madina
-  Karbala se chale hum jo kufa
-  Gir gayi raaste mein sakina
+  Thi jo bhai ke aankhoṅ ki thandak
+  Haaye wo bint-e-Shah-e-Madina
+  Karbala se chale hum jo Kufa
+  Gir gayi raaste mein Sakina
   Khud ba khud raah mein ruk gaya hai
-  Nok e naiza pe bhai mera
-  
+  Nok-e-naiza pe bhai mera
+
   6
-  Hum ne is tarha se zindagi mein
-  Aise raste to dekhe nahi thay
-  Usi kufe ke bazaar se hum
-  Kabhi be-parda guzre nahi thay
-  Bas yehi soch kr ro raha hai
-  Nok e naiza pe bhai mera
-  
+  Hum ne is tarah se zindagi mein
+  Aise raste to dekhe nahiṅ the
+  Usi Kufe ke baazaar se hum
+  Kabhi beparda guzre nahiṅ the
+  Bas yehi soch kar ro raha hai
+  Nok-e-naiza pe bhai mera
+
   7
-  Wo jo bibi pe raste mein guzre
-  Phat rahe hai jigar us alam se
-  Shadman tha jo zainab ka nauha
-  Likhdo majid wo apne qalam se
-  Mera ghamkhwar har dam raha hai
-  Nok e naiza pe bhai mera
+  Wo jo Bibi pe raste mein guzre
+  Phat rahe haiṅ jigar us alam se
+  Shadman tha jo Zainab ka noha
+  Likh do Majid wo apne qalam se
+  Mera ghamkhwaar har dam raha hai
+  Nok-e-naiza pe bhai mera
 # source_id: nohayonline:04f078ad88fa2d740f28
 # source_url: https://www.nohayonline.com/details_content.php?id=3223
 # raw_sha256: 1785c432ce2ee18b3d33a9718b3a25987866953e29f93ee1286a76ad382aa325
 ---
-ہاے بیکسی بھای اور بہن کی
-شام ہاے شام
+ہائے بیکسی بھائی اور بہن کی
+شام ہائے شام
+
 بے ردا دیکھ کر رو رہا ہے
-نوکِ نیزہ پہ بھای میرا
+نوکِ نیزہ پہ بھائی میرا
+
 بولی زینب میرا آسرا ہے
-نوکِ نیزہ پہ بھای میرا
+نوکِ نیزہ پہ بھائی میرا
 
 ۱
-سورہء کہف کی ہے تلاوت
+سورۂ کہف کی ہے تلاوت
 میرے بھائی کے سوکھے لبوں پر
-بس کلام خدا کی ہے قرات
+بس کلامِ خدا کی ہے قرأت
 میرے بھائی کے سوکھے لبوں پر
 کبریا کی ثنا کر رہا ہے
-نوکِ نیزہ پہ بھای میرا
+نوکِ نیزہ پہ بھائی میرا
 
 ۲
-امت جد کو خود بخشوانے
+امتِ جد کو خود بخشوانے
 آیا تھا کربلا میرا بھائی
 اور شفاعت کے رستے بتانے
 آیا تھا کربلا میرا بھائی
-احد طفلی ادا کر رہا ہے
-نوکِ نیزہ پہ بھای میرا
+عہدِ طفلی ادا کر رہا ہے
+نوکِ نیزہ پہ بھائی میرا
 
 ۳
 مانگتی ہوں ردا جب کسی سے
-تھر تھراتا ہے نیزے پہ بھای
-مر گےء ہاے تم میرے بھیا
-موت مجھکو مگر کیوں نہ آی
+تھر تھراتا ہے نیزے پہ بھائی
+مر گئے ہائے تم میرے بھیا
+موت مجھ کو مگر کیوں نہ آئی
 پر دلاسے مجھے دے رہا ہے
-نوکِ نیزہ پہ بھای میرا
+نوکِ نیزہ پہ بھائی میرا
 
 ۴
 چھن رہے ہیں سکینہ کے گوہر
@@ -113,15 +118,15 @@ romanLyrics: |-
 کہہ رہی ہے وہ اے میرے بابا
 کر رہی ہے وہ رو رو کے ماتم
 بے بسی سے اسے دیکھتا ہے
-نوکِ نیزہ پہ بھای میرا
+نوکِ نیزہ پہ بھائی میرا
 
 ۵
-تھی جو بھای کے آنکھوں ٹھنڈک
-ہاے وہ بنت شاہ مدینہ
+تھی جو بھائی کے آنکھوں کی ٹھنڈک
+ہائے وہ بنت شاہ مدینہ
 کربلا سے چلے ہم جو کوفہ
-گر گیء راستے میں سکینہ
-خود بخود راہ رک گیا ہے
-نوکِ نیزہ پہ بھای میرا
+گر گئی راستے میں سکینہ
+خود بخود راہ میں رک گیا ہے
+نوکِ نیزہ پہ بھائی میرا
 
 ۶
 ہم نے اس طرح سے زندگی میں
@@ -129,12 +134,12 @@ romanLyrics: |-
 اسی کوفے کے بازار سے ہم
 کبھی بے پردہ گزرے نہیں تھے
 بس یہی سوچ کر رو رہا ہے
-نوکِ نیزہ پہ بھای میرا
+نوکِ نیزہ پہ بھائی میرا
 
 ۷
-وہ جو بی بی پہ رستے میں گزرے
+وہ جو بی‌بی پہ رستے میں گزرے
 پھٹ رہے ہے جگر اس علم سے
 شادماں تھا جو زینب کا نوحہ
-لکھ دو ماجد اپنے قلم سے
+لکھ دو ماجد وہ اپنے قلم سے
 میرا غمخوار ہر دم رہا ہے
-نوکِ نیزہ پہ بھای میرا
+نوکِ نیزہ پہ بھائی میرا
