@@ -1,52 +1,55 @@
 ---
 title: "واویلا صد واویلا واویلا صد واویلا"
-alternateTitle: "Rasoole Akram Ka"
+alternateTitle: "Rasul-e-Akram Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Badar Faqeer, Jawad Jaffri"
+reciter: "Ali Shanawar"
 tags: ["noImage"]
-aliases: []
+aliases: ["Rasoole Akram Ka"]
 published: false
 romanLyrics: |-
   Wavaila sad wavaila wavaila sad wavaila
-  Rasool e akram ka dilruba be-khata maara gaya
-  
+
   1
-  Khairunnisa ka laadla be-gunaah mara gaya
-  
+  Rasul-e-Akram ka dilruba bekhata maara gaya
+  Khairunnisa ka laadla begunaah maara gaya
+
   2
-  Mustafa ki laadli ne naazon se paala jise
-  Wo sar e karbobala be-gunaah maara gaya
-  
+  Mustafa ki laadli ne naazoṅ se paala jise
+  Wo sar-e-Karbobala begunaah maara gaya
+
   3
-  Chaayi kaabe par udasi hil gaya arsh e bareen
-  Jab hussain ibn e ali ay khuda maara gaya
-  
+  Chhaayi Kaabe par udaasi hil gaya arsh-e-bariṅ
+  Jab Husain ibn-e-Ali Ae Khuda maara gaya
+
   4
-  Roti hai kulsoom o zainab laasha e shabbir pe
-  Behno ka pardes mein aasra maara gaya
-  
+  Roti hai Kulsum o Zainab laasha-e-Shabbir pe
+  Behnoṅ ka pardes mein aasra maara gaya
+
   5
-  Bain karti hai sakina mai yateema ho gayi
-  Jab mera baba sar e karbala maara gaya
-  
+  Bain karti hai Sakina main yatima ho gayi
+  Jab mera baba sar-e-Karbala maara gaya
+
   6
-  Bhai tha abbas jis ka laal akbar sa jawan
-  Baadshahon ka wohi baadshah maara gaya
-  
+  Bhai tha Abbas jis ka laal Akbar sa jawaaṅ
+  Baadshaahoṅ ka wohi baadshaah maara gaya
+
   7
-  Khairunnisa ka laadla be-gunaah mara gaya
+  Khairunnisa ka laadla begunaah maara gaya
+  Rasul-e-Akram ka dilruba bekhata maara gaya
+  Wavaila sad wavaila wavaila sad wavaila
 # source_id: nohayonline:b14d359374655a65e13f
 # source_url: https://www.nohayonline.com/details_content.php?id=1852
 # raw_sha256: e4a1ee2237ee771186e343b3a60e9db4291da75e9685d44592f0738f863dafd2
 ---
 
 واویلا صد واویلا واویلا صد واویلا
-رسولِ اکرم کا دلربا بے خطا مارا گیا
 
 ۱
+رسولِ اکرم کا دلربا بے خطا مارا گیا
 خیرالنسا کا لاڈلا بے گناہ مارا گیا
 
 ۲
@@ -54,7 +57,7 @@ romanLyrics: |-
 وہ سر کربوبلا بے گناہ مارا گیا
 
 ۳
-چھای کعبے پر اداسی ہل گیا عرش بریں
+چھائی کعبے پر اداسی ہل گیا عرشِ بریں
 جب حسین ابنِ علی اے خدا مارا گیا
 
 ۴
@@ -62,12 +65,14 @@ romanLyrics: |-
 بہنوں کا پردیس میں آسرا مارا گیا
 
 ۵
-بین کرتی ہے سکینہ میں یتیمہ ہو گیء
+بین کرتی ہے سکینہ میں یتیمہ ہو گئی
 جب میرا بابا سر کربلا مارا گیا
 
 ۶
-بھای تھا عباس جس کا لال اکبر سا جواں
+بھائی تھا عباس جس کا لال اکبر سا جواں
 بادشاہوں کا وہی بادشاہ مارا گیا
 
 ۷
 خیرالنسا کا لاڈلا بے گناہ مارا گیا
+رسولِ اکرم کا دلربا بے خطا مارا گیا
+واویلا صد واویلا واویلا صد واویلا

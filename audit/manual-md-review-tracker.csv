@@ -3065,9 +3065,9 @@ src/data/lyrics/ran-se-jab-khaake.md,standalone_lyrics,imported,nohayonline,pend
 src/data/lyrics/ran-se-wapas.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print to resolve archived editions: s1 Urdu ""آنے والے"" vs Roman ""jaane waale""; s3 Urdu ""ہو جانے والے"" vs Roman ""ho aane waale""; s2 ""ہے یہ انداز یتیموں کو سلانے والے""; s4 ""میرے خاطر ہی"" and ""رہ گئے ہو جو""; s5 singular ""ہے"" before plural ""سمانے والے""."
 src/data/lyrics/rasan-basta-haram.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,first_sweep,,
 src/data/lyrics/rasane-zulm-mein.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,first_sweep,,
-src/data/lyrics/rasoole-akram-ka.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/rassi-may-thi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/rauza-nahi-hussain.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/rasoole-akram-ka.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,first_sweep,,
+src/data/lyrics/rassi-may-thi.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,first_sweep,,"Need audio/print: opening ""hai"" vs ""ہیں"" and ""پامال لاش دل زہرا و مرتظی""; s4 ""mere bhi dil"" vs ""میرے دل""; s8 ""palat kar"" vs ""لپٹ کر""."
+src/data/lyrics/rauza-nahi-hussain.md,standalone_lyrics,imported,nohayonline+ziyaraat,pending,partial_review,partial_review,partial_review,verified,reviewed,first_sweep,,"Need audio/print: s1 Roman ""meinaar ishq ka"" vs Urdu ""معیار عشق کا""; s7 confirm ""غم کا ضعیف چہرے پہ احساس""."
 src/data/lyrics/rawana-nehre-laban.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/reh-gayi-beti-ali-ki.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/reh-gayi-dasht-may.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
