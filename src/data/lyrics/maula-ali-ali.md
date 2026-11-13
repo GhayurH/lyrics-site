@@ -5,32 +5,33 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Maula ali ali mera aaqa ali ali
-  Deene muhammadi ka sahara ali ali
+  Maula Ali Ali mera aaqa Ali Ali
+  Din-e-Muhammadi ka sahaara Ali Ali
 
   1
-  Jab fatha jang ho na saki teen roz tak
-  Aakhir labe rasool se nikla ali ali
+  Jab fatah jang ho na saki tin roz tak
+  Aakhir lab-e-Rasul se nikla Ali Ali
 
   2
-  Uska har ek bigda hua kaam ban gaya
-  Mushkil may jab kisi ne pukara ali ali
+  Us ka har ek bigra hua kaam ban gaya
+  Mushkil mein jab kisi ne pukaara Ali Ali
 
   3
-  Mayyat jawan ki leke chale jab suye qayam
-  Kehte thay zere lab shahe wala ali ali
+  Mayyat jab jawaan ki le ke chale su-e-khiyaam
+  Kehte the zer-e-lab Shaah-e-Waala Ali Ali
 
   4
-  Jalte hue qayam se aati thi ye sada
-  Ab to madad ko aaiye baba ali ali
+  Jalte hue khiyaam se aati thi ye sada
+  Ab to madad ko aaiye baaba Ali Ali
 
   5
-  Khulao aake zainab o kulsoom ka gala
-  Mushkil kusha laqab hai tumhara ali ali
+  Khulaao aake Zainab o Kulsum ka gala
+  Mushkil kusha laqab hai tumhaara Ali Ali
 # source_id: nohayonline:875e35fd28ed087066fd
 # source_url: https://www.nohayonline.com/details_content.php?id=210
 # raw_sha256: 224df10cdcec5411e3b174a992a87967bf47e8699b8fbb606790b8e7ef735d86
@@ -39,7 +40,7 @@ romanLyrics: |-
 دینِ مُحمدی کا سہارا علی علی
 
 ۱
-جب فتاح جنگ ہو نہ سکی تین روز تک
+جب فتح جنگ ہو نہ سکی تین روز تک
 آخر لبِ رسول سے نکلا علی علی
 
 ۲

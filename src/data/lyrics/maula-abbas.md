@@ -6,127 +6,128 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Irfan Haider"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hai saaya fighan do aalam par
-  Saqqaye sakina tera alam
-  Tu shere khuda ka saani hai
-  Rakha hai wafa ka tune bharam
+  Hai saaya figan do aalam par
+  Saqqa-e-Sakina tera alam
+  Tu Sher-e-Khuda ka saani hai
+  Rakha hai wafa ka tu ne bharam
 
   1
   Hai saath alam har gaam tera
-  Hai ukta kushaai kaam tera
-  Hai zikre wafa inaam tera
-  Abbas e ali hai naam tera
+  Hai uqda kushaai kaam tera
+  Hai zikr-e-wafa inaam tera
+  Abbas Ali hai naam tera
 
   2
-  Abbas abbas abbas
-  Jispe karam hai tera
-  Hai usay raazi khuda
-  Maula abbas maula abbas
+  Abbas Abbas Abbas
+  Jis pe karam hai tera
+  Hai us se raazi Khuda
+  Maula Abbas Maula Abbas
 
   3
-  Babul hawaij tera laqab hai
+  Baab-ul-Hawaaij tera laqab hai
   Zinda wafa bhi tere sabab hai
   Tere alam ka faiz hai jaari
-  Sunta hai tu faryaad hamari
+  Sunta hai tu faryaad hamaari
 
   4
-  Hai jo lahoo mein wafa
+  Hai jo lahu mein wafa
   Ye bhi hai teri ata
 
   5
   Tera alam har gham ki dawa hai
-  Teri taraf har daste dua hai
-  Tere waseele par jo yaqeen hai
-  Ki dua radd hoti nahi hai
+  Teri taraf har dast-e-dua hai
+  Tere wasile par jo yaqiṅ hai
+  Ki dua radd hoti nahiṅ hai
 
   6
-  Rab se kahun bhi to kya
-  Jo maanga tune diya
+  Rab se kahuṅ bhi to kya
+  Jo maaṅga tu ne diya
 
   7
-  Maine zamane ko ye bataya
-  Hai ye saqi rab ka humsaaya
-  Saare jahaan ko paalne wala
-  Rab ke khazane ka rakhwala
+  Main ne zamaane ko ye bataaya
+  Hai ye saaqi Rab ka hamsaaya
+  Saare jahaaṅ ko paalne waala
+  Rab ke khazaane ka rakhwaala
 
   8
-  Bin maange sunle dua
-  Aisa saqi hai mera
+  Bin maaṅge sun le dua
+  Aisa saaqi hai mera
 
   9
-  Ay mere ghazi hum hai sawaali
-  Bhar de hamari jholiyan khaali
-  Teri kaneezon ne hai pukara
-  De de ali asghar ka sadqa
+  Ae mere Ghazi ham haiṅ sawaali
+  Bhar de hamaari jholiyaṅ khaali
+  Teri kanizoṅ ne hai pukaara
+  De de Ali Asghar ka sadqa
 
   10
   Tere to dar se kabhi
   Khaali na koi gaya
 
   11
-  Tera karam be-dast hai aisa
+  Tera karam bedast hai aisa
   Kaun bhala tang dast rahega
-  Kasaye jo har waqt utha kar
-  Dar pe khade hai tere gadagar
+  Kaasa-e jo har waqt utha kar
+  Dar pe khare haiṅ tere gadaagar
 
   12
-  Maula ali ki tarha
+  Maula Ali ki tarah
   Hai tu bhi mushkil kusha
 
   13
-  Hum hai faqeer aur tu hai shahensha
-  Hum hai mareez aur tu hai maseeha
-  Saath jo tera pyar ho maula
-  Koi kahan bemaar ho maula
+  Ham haiṅ faqir aur tu hai shahanshaah
+  Ham haiṅ mariz aur tu hai masiha
+  Saath jo tera pyaar ho Maula
+  Koi kahaaṅ bimaar ho Maula
 
   14
   Tera karam wo dawa
-  Taale jo sar se khaza
+  Taale jo sar se qaza
 
   15
-  Tere masayab bhoole kahan hum
-  Aati hai jab bhi aat moharram
-  Rote hai parcham tera saja kar
-  Bachon ko apne saqqa bana kar
+  Tere masaaib bhule kahaaṅ ham
+  Aati hai jab bhi aath Muharram
+  Rote haiṅ parcham tere saja kar
+  Bachchoṅ ko apne saqqa bana kar
 
   16
-  Karte hai matam bapa
-  Ye keh ke ahle aza
+  Karte haiṅ maatam bapa
+  Ye keh ke ahl-e-aza
 
   17
   Kaisa tha dard bhara wo manzar
-  Sheh ne kaha zainab se ye rokar
-  Dekho zara ye halqa e matam
-  Tishna dahan aur ghazi ka parcham
+  Shah ne kaha Zainab se ye rokar
+  Dekho zara ye halqa-e-maatam
+  Tishna dahan aur Ghazi ka parcham
 
   18
-  Karte hai pyase sabhi
-  Ye keh ke matam bapa
+  Karte haiṅ pyaase sabhi
+  Ye keh ke maatam bapa
 
   19
-  Tere ghulam irfan aur mazhar
-  Teri wafa se dil hai munawar
-  Ek amanat tera alam hai
-  Hum par jab ye daste karam hai
+  Tere ghulaam Irfan aur Mazhar
+  Teri wafa se dil hai munawwar
+  Ek amaanat tera alam hai
+  Ham par jab ye dast-e-karam hai
 
   20
   Jaari rahega sada
-  Ye kaarwan e aza
+  Ye kaarwaan-e-aza
 # source_id: nohayonline:899953a10453692ea2ca
 # source_url: https://www.nohayonline.com/details_content.php?id=966
 # raw_sha256: f2830457c7c217d4437683fe404e9607135384dd888405e9c642b63296bd9412
 ---
 ہے سایہ فگن دو عالم پر
-سقاے سکینہ تیرا الم
+سقائے سکینہ تیرا علم
 تو شیر خدا کا ثانی ہے
 رکھا ہے وفا کا تونے بھرم
 
 ۱
-ہے ساتھ الم ہر گام تیرا
+ہے ساتھ علم ہر گام تیرا
 ہے عقدہ کشائی کام تیرا
 ہے ذکر وفا انعام تیرا
 عباس علی ہے نام تیرا
@@ -140,7 +141,7 @@ romanLyrics: |-
 ۳
 باب الحوایج تیرا لقب ہے
 زندہ وفا بھی تیرے سبب ہے
-تیرے الم کا فیض ہے جاری
+تیرے علم کا فیض ہے جاری
 سنتا ہے تو فریاد ہماری
 
 ۴
@@ -148,7 +149,7 @@ romanLyrics: |-
 یہ بھی ہے تیری عطا
 
 ۵
-تیرا الم ہر غم کی دوا ہے
+تیرا علم ہر غم کی دوا ہے
 تیری طرف ہر دست دعا ہے
 تیرے وسیلے پر جو یقیں ہے
 کی دعا رد ہوتی نہیں ہے
@@ -159,13 +160,13 @@ romanLyrics: |-
 
 ۷
 میں نے زمانے کو یہ بتایا
-ہے یہ سقی رب کا ہم سایہ
+ہے یہ ساقی رب کا ہم سایہ
 سارے جہاں کو پالنے والا
 رب کے خزانے کا رکھوالا
 
 ۸
 بن مانگے سن لے دعا
-ایسا سقی ہے میرا
+ایسا ساقی ہے میرا
 
 ۹
 اے میرے غازی ہم ہیں سوالی
@@ -210,7 +211,7 @@ romanLyrics: |-
 ۱۷
 کیسا تھا درد بھرا وہ منظر
 شہ نے کہا زینب سے یہ روکر
-دیکھو زرا یہ حلقہء ماتم
+دیکھو ذرا یہ حلقۂ ماتم
 تشنہ دہن اور غازی کا پرچم
 
 ۱۸
@@ -220,9 +221,9 @@ romanLyrics: |-
 ۱۹
 تیرے غلام عرفان اور مظہر
 تیری وفا سے دل ہے منور
-اک امانت تیرا الم ہے
+اک امانت تیرا علم ہے
 ہم پر جب یہ دست کرم ہے
 
 ۲۰
-جاری رہے گا صدا
+جاری رہے گا سدا
 یہ کاروان عزا
