@@ -1,50 +1,51 @@
 ---
 title: "مظلومِ کربلا تک میرا سلام لے جا"
-alternateTitle: "Mazloome Karbala Tak"
+alternateTitle: "Mazlum-e-Karbala Tak"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Noha"
+kalamType: "Salam"
+reciter: "Mirza Sikander Ali"
 tags: ["noImage"]
-aliases: []
+aliases: ["Mazloome Karbala Tak"]
 published: false
 romanLyrics: |-
-  Mazloome karbala tak mera salam leja
-  
+  Mazlum-e-Karbala tak mera salaam le jaa
+
   1
-  Karbal ko jaane wale ghurbat uthane wale
-  Mazloom tak rasayi qismat se paane wale
-  Is kushtaye jafa tak mera salam leja
-  
+  Karbala ko jaane wale ghurbat uthaane wale
+  Mazlum tak rasaai qismat se paane wale
+  Is kushta-e-jafa tak mera salaam le jaa
+
   2
-  Ghar jisne sab lutaya pyasa gala kataya
-  Wo shaah jisne mar kar nana ka deen jilaya
-  Us sibte mustafa tak mera salam leja
-  
+  Ghar jis ne sab lutaaya pyaasa gala kataaya
+  Wo shaah jis ne mar kar naana ka diṅ bachaaya
+  Us Sibt-e-Mustafa tak mera salaam le jaa
+
   3
-  Wo noor e chashme hyder wo fatema ka dilbar
-  Wo jism o jaane ahmed bhai tha jiska shabbar
-  Is paykare raza tak mera salam leja
-  
+  Wo nur-e-chashm-e-Haider wo Faatima ka dilbar
+  Wo jism o jaan-e-Ahmad bhaai tha jis ka Shabbar
+  Is paikar-e-raza tak mera salaam le jaa
+
   4
-  Haaton pe sheh ke aaya pani na jisne paaya
-  Pani ke badle jis par teer e jafa chalaya
-  Shesh maahe mehleqa tak mera salam leja
-  
+  Haathoṅ pe Shah ke aaya paani na jis ne paaya
+  Paani ke badle jis par tir-e-jafa chalaaya
+  Shash maahe mehleqa tak mera salaam le jaa
+
   5
-  Ran mein gira jo akbar shikwa na laaya lab par
-  Seh seh ke sakht eeza jaan dedi jisne aakhir
-  Humshakle mustufa tak mera salam leja
-  
+  Ran meiṅ gira jo Akbar shikwa na laaya lab par
+  Seh seh ke sakht iza jaaṅ de di jis ne aakhir
+  Hamshakl-e-Mustafa tak mera salaam le jaa
+
   6
-  Seh seh ke jisne aafat deen ki bachayi izzat
-  Khatron mein jisne payham ki deen ki himeinat
-  Is aale mustufa tak mera salam leja
-  
+  Seh seh ke jis ne aafat diṅ ki bachaai izzat
+  Khatroṅ meiṅ jis ne paiham ki din ki himaayat
+  Is Aal-e-Mustafa tak mera salaam le jaa
+
   7
-  Shabbir ka biradar abbas ibne hyder
-  Jo tha ameere lashkar jiska wafa tha zewar
-  Us paykare safa tak mera salam leja
+  Shabbir ka biraadar Abbaas ibn-e-Haider
+  Jo tha amir-e-lashkar jis ka wafa tha zevar
+  Us paikar-e-safa tak mera salaam le jaa
 # source_id: nohayonline:8bdfd72b65bef5543ed5
 # source_url: https://www.nohayonline.com/details_content.php?id=582
 # raw_sha256: 25be036adc2752e703a219e9cebda1e4b26049e2b40e64facb0b878eed5faada
@@ -55,7 +56,7 @@ romanLyrics: |-
 ۱
 کربلا کو جانے والے غربت اُٹھانے والے
 مظلوم تک رسائی قسمت سے پانے والے
-اس کُشتئہ جفا تک میرا سلام لے جا
+اس کُشتۂ جفا تک میرا سلام لے جا
 
 ۲
 گھر جس نے سب لُٹایا پیاسا گلا کٹایا
@@ -84,5 +85,5 @@ romanLyrics: |-
 
 ۷
 شبیر کا برادر عباس ابنِ حیدر
-جو تھا امیرِ لشکر جسکا وفا تھا زیور
+جو تھا امیرِ لشکر جس کا وفا تھا زیور
 اُس پیکرِ صفا تک میرا سلام لے جا

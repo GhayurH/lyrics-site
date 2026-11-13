@@ -1,92 +1,93 @@
 ---
-title: "مہندی قاسم تیرے ہاتھوں میں رچاے مادر"
-alternateTitle: "Mehendi Qasim Tere"
+title: "مہندی قاسم تیرے ہاتھوں میں رچائے مادر"
+alternateTitle: "Mehendi Qaasim Tere"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
-aliases: []
+aliases: ["Mehendi Qasim Tere"]
 published: false
 romanLyrics: |-
-  Mehendi qasim tere haathon may rachaye maadar
-  Aaja aaja tujhe seene se lagaye maadar
+  Mehendi Qaasim tere haathoṅ meiṅ rachaaye maadar
+  Aa jaa aa jaa tujhe sine se lagaaye maadar
 
   1
-  Koi qasid bhi nahi hai jo madine jaaye
-  Kaise sughra ko madine se bulaye maadar
+  Koi qaasid bhi nahiṅ hai jo Madine jaaye
+  Kaise Sughra ko Madine se bulaaye maadar
 
   2
-  Phool ashkon ke piroti hoo tere sehre ke
-  Sar pe aanchal tere aahon ka sajaye maadar
+  Phul ashkoṅ ke piroti huṅ tere sehre ke
+  Sar pe aanchal tere aahoṅ ka sajaaye maadar
 
   3
-  Haath may kangna jo baandhun to padhun naade ali
-  Nazr e bad se tujhe aada ki bachaye maadar
+  Haath meiṅ kangna jo baandhuṅ to parhuṅ Naad-e-Ali
+  Nazar-e-bad se tujhe aada ki bachaaye maadar
 
   4
-  Teri baraat may armaan ho baraati mere
-  Aur sheh baala bhi asghar ko banaye maadar
+  Teri baaraat meiṅ armaan ho baraati mere
+  Aur shah baala bhi Asghar ko banaaye maadar
 
   5
-  Aqd ka seegha padhe rooh tere dada ki
-  Gul e jannat teri masnad pe bichaye madar
+  Aqd ka sigha parhe ruh tere daada ki
+  Gul-e-jannat teri masnad pe bichhaaye maadar
 
   6
-  Chand taaron ki kiran dhaanpu tere jodhe may
-  Aur zehra ki rida sar pe udhaye maadar
+  Chaand taaroṅ ki kiran dhaanpuṅ tere jore meiṅ
+  Aur Zehra ki rida sar pe urhaaye maadar
 
   7
-  Teri dulhan ki jo poshak hai palkon se siyun
-  Us ko suraj ki nigahon se bachaye maadar
+  Teri dulhan ki jo poshaak hai palkoṅ se siyuṅ
+  Us ko suraj ki nigaahoṅ se bachaaye maadar
 
   8
-  Kaisi baraat gayi ghar se na wapas aayi
-  Dhoondne laal ko apne kahan jaaye maadar
+  Kaisi baaraat gai ghar se na waapas aai
+  Dhundne laal ko apne kahaaṅ jaaye maadar
 
   9
-  Kaisi shadi thi ye rehaan ke marte dam tak
-  Apne bete ke liye ashk bahaye maadar
+  Kaisi shaadi thi ye Rehaan ke marte dam tak
+  Apne bete ke liye ashk bahaaye maadar
 # source_id: nohayonline:edd6bf1f7c0d026171df
 # source_url: https://www.nohayonline.com/details_content.php?id=2698
 # raw_sha256: 57638b1da1ec91e3ee2e39d10d753775bc14c63ab6a1cb52198e0c1d73019f6c
 ---
-مہندی قاسم تیرے ہاتھوں میں رچاے مادر
-آجا آجا تجھے سینے سے لگاے مادر
+مہندی قاسم تیرے ہاتھوں میں رچائے مادر
+آ جا آ جا تجھے سینے سے لگائے مادر
 
 ۱
-کوئی قاصدھی نہیں ہے جو مدینے جاے
-کیسے صغرا کو مدینے سے بلاے مادر
+کوئی قاصد بھی نہیں ہے جو مدینے جائے
+کیسے صغرا کو مدینے سے بلائے مادر
 
 ۲
 پھول اشکوں کے پروتی ہوں تیرے سہرے کے
-سر پہ آنچل تیرے آہوں کا سجاے مادر
+سر پہ آنچل تیرے آہوں کا سجائے مادر
 
 ۳
-ہاتھ میں کنگنا جو باندھوں توپڑھوں ناد علی
-نظر بد سے تجھے اعدا کی بچاے مادر
+ہاتھ میں کنگنا جو باندھوں تو پڑھوں نادِ علی
+نظرِ بد سے تجھے اعدا کی بچائے مادر
 
 ۴
 تیری بارات میں ارمان ہو براتی میرے
-اور شہ بالا بھی اصغر کو بناے مادر
+اور شہ بالا بھی اصغر کو بنائے مادر
 
 ۵
 عقد کا صیغہ پڑھے روح تیرے دادا کی
-گل جنت تیری مسند پہ بچھاے مادر
+گلِ جنت تیری مسند پہ بچھائے مادر
 
 ۶
 چاند تاروں کی کرن ڈھانپوں تیرے جوڑے میں
-اور زہرا کی ردا سر پہ اڑھاے مادر
+اور زہرا کی ردا سر پہ اڑھائے مادر
 
 ۷
 تیری دلہن کی جو پوشاک ہے پلکوں سے سیوں
-اس کو سورج کی نگاہوں سے بچاے مادر
+اس کو سورج کی نگاہوں سے بچائے مادر
 
 ۸
-کیسی بارات گیء گھر سے نہ واپس آی
-ڈھونڈنے لال کو اپنے کہاں جاے مادر
+کیسی بارات گئی گھر سے نہ واپس آئی
+ڈھونڈنے لال کو اپنے کہاں جائے مادر
 
 ۹
-کیسے شادی تھی یہ ریحان کہ مرتے دم تک
-اپنے بیٹے کے لئے اشک بہاے مادر
+کیسی شادی تھی یہ ریحان کہ مرتے دم تک
+اپنے بیٹے کے لئے اشک بہائے مادر

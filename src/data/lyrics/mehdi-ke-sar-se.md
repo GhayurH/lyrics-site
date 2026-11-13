@@ -6,52 +6,53 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Syeda Naqvi"
+reciter: "Ahmed Raza Nasiri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Mehdi ke sar se saaya baba ka uth gaya hai
-  Ranj o alam mein dooba narjis ka laadla hai
+  Mehdi ke sar se saaya baaba ka uth gaya hai
+  Ranj o alam meiṅ duba Narjis ka laadla hai
 
   1
-  Mehdi ke sar pe aayi dastaare askari hai
-  Bar masnade imamat farzand aakhri hai
-  Ya rab ho khair iski faryaad e fatema hai
+  Mehdi ke sar pe aai dastaar-e-Askari hai
+  Bar masnad-e-imaamat farzand aakhri hai
+  Ya Rab ho khair is ki faryaad-e-Faatima hai
 
   2
-  Sookhe labon se ghash mein pani talab kiya jo
-  Honton se jaam kyunkar wapas palat diya wo
-  Kya yaad askari ko abbas aa gaya hai
+  Sukhe laboṅ se ghash meiṅ paani talab kiya jo
+  Hoṅtoṅ se jaam kiunkar waapas palat diya wo
+  Kya yaad Askari ko Abbaas aa gaya hai
 
   3
-  Khaak e yateemi sar mein sin paanch saal logon
-  Ghaibat mein jaa raha hai narjis ka laal logon
-  Noor e imam ojhal nazron se ho raha hai
+  Khaak-e-yatimi sar meiṅ sin paanch saal logoṅ
+  Ghaibat meiṅ jaa raha hai Narjis ka laal logoṅ
+  Nur-e-Imaam ojhal nazroṅ se ho raha hai
 
   4
-  Aayi hai fauj ghar se mehdi ko aaj lene
-  Dar fatema ka khola phir thokare laga ke
-  Haathon mein taygh koi sholay liye khada hai
+  Aai hai fauj ghar se Mehdi ko aaj lene
+  Dar Faatima ka khola phir thokareṅ laga ke
+  Haathoṅ meiṅ tegh koi shole liye khara hai
 
   5
   Kis aabru se beta mayyat utha raha hai
-  Khud baap ka janaza mehdi padha raha hai
-  Zehra ko yaad aayi abid ki karbala hai
+  Khud baap ka janaaza Mehdi parha raha hai
+  Zehra ko yaad aai Aabid ki Karbala hai
 
   6
-  Mehdi ko koi pursa deta galay laga ke
-  Ghaibat mein askari ki farshe aza bicha ke
-  Abbas ko kabhi wo zainab ko dhoondta hai
+  Mehdi ko koi pursa deta gale laga ke
+  Ghaibat meiṅ Askari ki farsh-e-aza bichhaa ke
+  Abbaas ko kabhi wo Zainab ko dhundta hai
 
   7
-  Kitna ilaahi uski ghaybat mein tool hoga
-  Parde mein kab talak wo narjis ka phool hoga
-  Izne zahoor ho ab dil ki yehi dua hai
+  Kitna ilaahi us ki ghaibat meiṅ tul ho ga
+  Parde meiṅ kab talak wo Narjis ka phul ho ga
+  Izn-e-zuhur ho ab dil ki yahi dua hai
 
   8
-  Ho bheed phir khadi wo kufa ke raaston par
-  Pathar baras rahe ho akbar ke qaatilon par
-  Khooli ka sar sina par is baar dekhna hai
+  Ho bhir phir khari wo Kufa ke raastoṅ par
+  Patthar baras rahe hoṅ Akbar ke qaatiloṅ par
+  Khuli ka sar sinaaṅ par is baar dekhna hai
 # source_id: nohayonline:b51293af0797a6897175
 # source_url: https://www.nohayonline.com/details_content.php?id=1270
 # raw_sha256: e33f7cf9d0e26efd0108a98406a470a9caab605488f595ae7b3cd623439f8af1
@@ -62,12 +63,12 @@ romanLyrics: |-
 ۱
 مہدی کے سر پہ آئی دستارِ عسکری ہے
 بر مسندِ امامت فرزند آخری ہے
-یا رب ہو خیر اسکی فریادِ فاطمہ ہے
+یا رب ہو خیر اس کی فریادِ فاطمہ ہے
 
 ۲
 سوکھے لبوں سے غش میں پانی طلب کیا جو
 ہونٹوں سے جام کیونکر واپس پلٹ دیا وہ
-کیا یاد عسکری کو عباس ا گیا ہے
+کیا یاد عسکری کو عباس آ گیا ہے
 
 ۳
 خاکِ یتیمی سر میں سِن پانچ سال لوگوں
@@ -90,7 +91,7 @@ romanLyrics: |-
 عباس کو کبھی وہ زینب کو ڈھونڈتا ہے
 
 ۷
-کتنا الہی اس کی غیبت میں طول ہو گا
+کتنا الٰہی اس کی غیبت میں طول ہو گا
 پردے میں کب تلک وہ نرجس کا پھول ہو گا
 اذنِ ظہور ہو اب دل کی یہی دعا ہے
 

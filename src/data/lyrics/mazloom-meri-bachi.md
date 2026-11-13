@@ -1,53 +1,54 @@
 ---
 title: "مظلوم میری بچی کیسے ہو دفن تیرا"
-alternateTitle: "Mazloom Meri Bachi"
+alternateTitle: "Mazlum Meri Bachi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mujahid Hussain"
+reciter: "Hadi Ali Khan Muslim"
 tags: ["noImage"]
-aliases: []
+aliases: ["Mazloom Meri Bachi"]
 published: false
 romanLyrics: |-
-  Mazloom meri bachi kaise ho dafn tera
-  Kehti thi roke banu dil muztarib hai mera
+  Mazlum meri bachi kaise ho dafn tera
+  Kehti thi ro ke Bano dil muztarib hai mera
 
   1
-  Kis bekasi mein tera laasha pada hua hai
-  Neele hai gaal ab tak kurta lahoo bhara hai
-  Abbas aa ke dekho kya haal ho gaya hai
-  Teri musibaton par tukde jigar hai mera
+  Kis bekasi meiṅ tera laasha para hua hai
+  Nile haiṅ gaal ab tak kurta lahu bhara hai
+  Abbaas aa ke dekho kya haal ho gaya hai
+  Teri musibatoṅ par tukre jigar hai mera
 
   2
-  Pardes mein ye kaisi uftaad ki ghadi hai
-  Seene pa sone waali ab khaak par padi hai
-  Khamosh hai sakina maa dekhti khadi hai
-  Kuch aur bad gaya hai zindan ka andhera
+  Pardes meiṅ ye kaisi uftaad ki ghari hai
+  Sine pe sone waali ab khaak par pari hai
+  Khaamosh hai Sakina maaṅ dekhti khari hai
+  Kuchh aur barh gaya hai zindaan ka andhera
 
   3
-  Charon taraf udaasi is gham ki chaa rahi hai
-  Ghurbat teri sakina sab ko rula rahi hai
-  Bekas yateem bachi dunya se jaa rahi hai
-  Is shaam e gham ka ya rab hoga kabhi savera
+  Chaaroṅ taraf udaasi is gham ki chhaa rahi hai
+  Ghurbat teri Sakina sab ko rula rahi hai
+  Bekas yatim bachi dunya se jaa rahi hai
+  Is shaam-e-gham ka ya Rab ho ga kabhi savera
 
   4
-  Teri musibaton ka pur dard ye samaa hai
-  Zakhmi hai pusht teri kaano se khoon rawan hai
-  Gardan pa reesma ka ubhra hua nashan hai
-  Bemaar hai baradar har simt hai andhera
+  Teri musibatoṅ ka pur dard ye samaaṅ hai
+  Zakhmi hai pusht teri kaanoṅ se khuṅ ravaaṅ hai
+  Gardan pe rismaaṅ ka ubhra hua nishaaṅ hai
+  Bimaar hai baraadar har simt hai andhera
 
   5
-  Abid tadap rahe hai ruqsat hui sakina
-  Is gham se ab mujahid ek hashr sa hai barpa
-  Matam se goonjta hai tareek qaid khana
-  Bano ye keh rahi hai haafiz khuda hai tera
+  Aabid tarap rahe haiṅ rukhsat hui Sakina
+  Is gham se ab Mujaahid ek hashr sa hai barpa
+  Maatam se gunjta hai taarik qaid khaana
+  Bano ye keh rahi hai haafiz Khuda hai tera
 # source_id: nohayonline:71643c7a02ff4529316e
 # source_url: https://www.nohayonline.com/details_content.php?id=1970
 # raw_sha256: 5c0d3521c6af6d8ef8eaef6f8331ead3d2fb4e21b9a32abdd8668b3b5f327025
 ---
 مظلوم میری بچی کیسے ہو دفن تیرا
-کہتی تھی روکے بانو دل مضطرب ہے میرا
+کہتی تھی رو کے بانو دل مضطرب ہے میرا
 
 ۱
 کس بیکسی میں تیرا لاشہ پڑا ہوا ہے
@@ -65,7 +66,7 @@ romanLyrics: |-
 چاروں طرف اداسی اس غم کی چھا رہی ہے
 غربت تیری سکینہ سب کو رلا رہی ہے
 بیکس یتیم بچی دنیا سے جا رہی ہے
-اس شام غم کا یا رب ہو گا کبھی سویرا
+اس شامِ غم کا یا رب ہو گا کبھی سویرا
 
 ۴
 تیری مصیبتوں کا پر درد یہ سماں ہے
@@ -74,7 +75,7 @@ romanLyrics: |-
 بیمار ہے برادر ہر سمت ہے اندھیرا
 
 ۵
-عابد تڑپ رہے ہیں رخصت ہوی سکینہ
+عابد تڑپ رہے ہیں رخصت ہوئی سکینہ
 اس غم سے اب مجاہد اک حشر سا ہے برپا
 ماتم سے گونجتا ہے تاریک قید خانہ
 بانو یہ کہہ رہی ہے حافظ خدا ہے تیرا
