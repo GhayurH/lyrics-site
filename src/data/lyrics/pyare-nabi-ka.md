@@ -6,76 +6,87 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Pyare nabi ka pyara nawasa
-  Chod ke ghar pardes chala
-  Jo tha madine ka shehzada
-  
+  Pyare Nabi ka pyara nawasa
+  Chhor ke ghar pardes chala
+  Jo tha Madine ka shehzaada
+  Chhor ke ghar pardes chala
+
   1
   Manzar manzar sannata hai
-  Qaima qaima girya hai
-  Kal tak jo kariya channa tha
-  Aaj wo khariya veeran hai
-  Kaabe ki jaan yasrab ka ujala
-  
+  Khaima khaima girya hai
+  Kal tak jo qarya chana tha
+  Aaj wo qarya viraṅ hai
+  Kaabe ki jaaṅ Yasrab ka ujaala
+  Chhor ke ghar pardes chala
+
   2
-  Aankhein hui jaati hai samandar
-  Chain na aaye sughra ko
-  Jaane waale kab aayenge
-  Kaun bataye sughra ko
-  Kya kare dukhiya jhoole waala
-  
+  Aankheṅ hui jaati hai samandar
+  Chain na aaye Sughra ko
+  Jaane waale kab aayeṅ ge
+  Kaun bataaye Sughra ko
+  Kya kare dukhiya jhule waala
+  Chhor ke ghar pardes chala
+
   3
-  Raston sar par khaak udao
-  Ay deewaron bain karo
-  Kehdo watan waalon se ke aao
-  Chaati peeto aah bharo
-  Sibte payambar dilbare zehra
-  
+  Rastoṅ sar par khaak uraao
+  Ae diwaaroṅ bain karo
+  Keh do watan waaloṅ se ke aao
+  Chhaati pito aah bharo
+  Sibt-e-Payambar dilbar-e-Zehra
+  Chhor ke ghar pardes chala
+
   4
-  Maango dua teeron mein na uljhe
-  Mashke sakina darya par
-  Be-baazu khoon mein na nahaye
-  Chand sa laasha darya par
-  Umme baneen ki aankhon ka taara
-  
+  Maango dua tiroṅ mein na uljhe
+  Mashk-e-Sakina darya par
+  Bebaazu khuṅ mein na nahaaye
+  Chaand sa laasha darya par
+  Umm-e-Baniṅ ki aankhoṅ ka taara
+  Chhor ke ghar pardes chala
+
   5
-  Sughra ke alfaz hai aab mai
-  Khud se lipat kar roungi
-  Raatein jaag ke kaatungi
-  Turbat mein hi jaa kar soungi
-  Kis se bataun kyun mera kunba
-  
+  Sughra ke alfaaz hai aab mein
+  Khud se lipat kar rouṅ gi
+  Raateṅ jaag ke kaatuṅ gi
+  Turbat mein hi jaa kar souṅ gi
+  Kis se bataauṅ kiuṅ mera kunba
+  Chhor ke ghar pardes chala
+
   6
   Ye jo diya nikla hai safar par
-  Aandhi se mehfooz rahe
-  Ya rab ye quran sa seena
-  Barchi se mehfooz rahe
-  Paigambar ki surat waala
-  
+  Aandhi se mehfuz rahe
+  Ya Rab ye Quran sa sina
+  Barchhi se mehfuz rahe
+  Paighambar ki surat waala
+  Chhor ke ghar pardes chala
+
   7
-  Maut gale lag jayegi
-  Mujh beemar se sehat paane tak
-  Yani mai bhi zinda hoon
-  Is khaak ke khoon ho jaane tak
+  Maut gale lag jaaye gi
+  Mujh bimaar se sehat paane tak
+  Yaani main bhi zinda huṅ
+  Is khaak ke khuṅ ho jaane tak
   Kunba mera ek zinda janaza
-  
+  Chhor ke ghar pardes chala
+
   8
-  Baal parehsan ho na khuda ye
-  Phool kahin veerano mein
-  Padne na paaye paon mein chaale
-  Neel na aaye shaano mein
-  Aayat aayat koi gharana
-  
+  Baal pareshaaṅ ho na Khuda ye
+  Phul kahiṅ viraanoṅ mein
+  Parne na paaye paaoṅ mein chhaale
+  Nil na aaye shaanoṅ mein
+  Aayat aayat koi gharaana
+  Chhor ke ghar pardes chala
+
   9
-  Ahle madina roye na roye
-  Apne bichadne waale ko
-  Nayyar o aamir saara zamana
+  Ahl-e-Madina roye na roye
+  Apne bichharne waale ko
+  Nayyar o Aamir saara zamaana
   Royega ab is kunbe ko
   Wo apne har dard ka qissa
+  Chhor ke ghar pardes chala
 # source_id: nohayonline:ccc1f4db46fc49222f5b
 # source_url: https://www.nohayonline.com/details_content.php?id=3597
 # raw_sha256: 6f9fffedd6423a8dbd8fd3debe24663af531d9a0ab416db6142c0a6f8da900c4
@@ -83,6 +94,7 @@ romanLyrics: |-
 پیارے نبی کا پیارا نواسہ
 چھوڑ کے گھر پردیس چلا
 جو تھا مدینے کا شہزادہ
+چھوڑ کے گھر پردیس چلا
 
 ۱
 منظر منظر سناٹا ہے
@@ -90,13 +102,15 @@ romanLyrics: |-
 کل تک جو قریہ چنا تھا
 آج وہ قریہ ویراں ہے
 کعبے کی جاں یثرب کا اجالا
+چھوڑ کے گھر پردیس چلا
 
 ۲
-آنکھیں ہوی جاتی ہے سمندر
-چین نہ آے صغرا کو
+آنکھیں ہوئی جاتی ہے سمندر
+چین نہ آئے صغرا کو
 جانے والے کب آئیں گے
 کون بتائے صغرا کو
 کیا کرے دکھیا جھولے والا
+چھوڑ کے گھر پردیس چلا
 
 ۳
 رستوں سر پر خاک اڑاؤ
@@ -104,20 +118,23 @@ romanLyrics: |-
 کہہ دو وطن والوں سے کہ آؤ
 چھاتی پیٹو آہ بھرو
 سبط پیمبر دلبر زہرا
+چھوڑ کے گھر پردیس چلا
 
 ۴
 مانگو دعا تیروں میں نہ الجھے
 مشک سکینہ دریا پر
-بے بازو خوں میں نہ نہاے
+بے بازو خوں میں نہ نہائے
 چاند سا لاشہ دریا پر
 ام بنیں کی آنکھوں کا تارہ
+چھوڑ کے گھر پردیس چلا
 
 ۵
 صغرا کے الفاظ ہے آب میں
-خود سے لپٹ کر روونگی
+خود سے لپٹ کر روؤں گی
 راتیں جاگ کے کاٹوں گی
-تربت میں ہی جا کر سوونگی
+تربت میں ہی جا کر سوؤں گی
 کس سے بتاؤں کیوں میرا کنبہ
+چھوڑ کے گھر پردیس چلا
 
 ۶
 یہ جو دیا نکلا ہے سفر پر
@@ -125,24 +142,28 @@ romanLyrics: |-
 یا رب یہ قرآن سا سینہ
 برچھی سے محفوظ رہے
 پیغمبر کی صورت والا
+چھوڑ کے گھر پردیس چلا
 
 ۷
 موت گلے لگ جائے گی
-مجھ بیمار سے صیحت پانے تک
+مجھ بیمار سے صحت پانے تک
 یعنی میں بھی زندہ ہوں
 اس خاک کے خوں ہو جانے تک
 کنبہ میرا ایک زندہ جنازہ
+چھوڑ کے گھر پردیس چلا
 
 ۸
 بال پریشاں ہو نہ خدا یہ
 پھول کہیں ویرانوں میں
-پڑھنے نہ پائے پاؤں میں چھالے
-نیل نہ آے شانوں میں
-آیت آیت کوی گھرانہ
+پڑنے نہ پائے پاؤں میں چھالے
+نیل نہ آئے شانوں میں
+آیت آیت کوئی گھرانہ
+چھوڑ کے گھر پردیس چلا
 
 ۹
-اہل مدینہ روے نہ روے
+اہل مدینہ روئے نہ روئے
 اپنے بچھڑنے والے کو
 نیر و عامر سارا زمانہ
-روے گا اب اس کنبے کو
+روئے گا اب اس کنبے کو
 وہ اپنے ہر درد کا قصہ
+چھوڑ کے گھر پردیس چلا
