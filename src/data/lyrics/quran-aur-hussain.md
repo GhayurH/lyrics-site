@@ -1,96 +1,97 @@
 ---
 title: "قرآن اور حُسین"
-alternateTitle: "Quran Aur Hussain"
+alternateTitle: "Quran Aur Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Sachey Bhai"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Quran aur hussain
-  Wallah sare moo farq nahi hai
-  Dono ke ma bain
-  
+  Quran aur Husain
+  Wallah sar-e-mu farq nahiṅ hai
+  Donoṅ ke maabain
+
   1
-  Utra wo qalbe mohammed par
-  Ye zehra ke ghar mein aaya
-  Kaaba kausar ek doosre se
-  Honge na khabi ye dono juda
-  Dono hai noor hai dono ki
-  Maznil kaaba kausain
-  
+  Utra wo qalb-e-Muhammad par
+  Ye Zehra ke ghar mein aaya
+  Kaaba Kausar ek dusre se
+  Hoṅge na kabhi ye donoṅ juda
+  Donoṅ haiṅ nur hai donoṅ ki
+  Manzil Kaaba Qausain
+
   2
-  Wo khwab hai aur tabeer hai ye
-  Wo ghaaka hai tameer hai ye
-  Hirtaas e do aalam paar likhi
-  Tehreer hai wo tafseer hai ye
-  Mehboobe elaahi ke dil ka
-  Ye dono hi hai chain
-  
+  Wo khwaab hai aur taabir hai ye
+  Wo ghaaka hai taamir hai ye
+  Hartaas do aalam par likhi
+  Tahrir hai wo tafsir hai ye
+  Mahbub-e-Ilaahi ke dil ka
+  Ye donoṅ hi haiṅ chain
+
   3
-  Wo mojijza hai ejaaz hai ye
-  Wo noor hai ye uska paykar
-  Parwan chade hai ye dono
-  Aaghose payambar mein pal kar
-  Quran labon se khelte tha
-  Zulfon se hasnain
-  
+  Wo mojiza hai ejaaz hai ye
+  Wo nur hai ye us ka paikar
+  Parwaan charhe haiṅ ye donoṅ
+  Aaghosh-e-Payambar mein pal kar
+  Quran laboṅ se khelta tha
+  Zulfoṅ se Hasnain
+
   4
-  Jaan waar ke haq par sheh ne kiya
+  Jaaṅ waar ke haq par Shah ne kiya
   Quran ke dushman ko abtar
-  Quran sadayein deta hai
+  Quran sadaaeṅ deta hai
   Inna aataina kal kausar
-  Baakhi hai nasl mohammed ki
-  Jab tak hai nasle hussain
-  
+  Baaqi hai nasl Muhammad ki
+  Jab tak hai nasl-e-Husain
+
   5
-  Quran payame ahmed hai
-  Shabbir salaam e ahmed hai
-  In dono ke dam se khayam
-  Aalam mein nizame ahmed hai
-  Allah o nabi ki hujjat hai
-  Ye maa bain e kaunain
-  
+  Quran payaam-e-Ahmad hai
+  Shabbir salaam-e-Ahmad hai
+  In donoṅ ke dam se qaaim
+  Aalam mein nizaam-e-Ahmad hai
+  Allah o Nabi ki hujjat hai
+  Ye maabain-e-Kaunain
+
   6
-  Darse quran diya sheh ne
-  Aalam ko usi talwaron mein
-  Ek harfe shahadat ki likhdi
-  Tafseer bahattar paaron mein
-  Qurban tere ay waarise ilme
-  Shaahe badr o hunain
-  
+  Dars-e-Quran diya Shah ne
+  Aalam ko usi talwaaroṅ mein
+  Ek harf-e-shahaadat ki likh di
+  Tafsir bahattar paaroṅ mein
+  Qurbaan tere Ae waaris-e-ilm
+  Shaah-e-Badr o Hunain
+
   7
-  Quran ko noke naiza par
-  Phir teer mein le aaye aada
-  Mehman bulakar sarwar ko
-  Pani na diya sar kaat liya
-  Sar khole hue ek dukhyari
-  Maa karti rehgayi bain
-  
+  Quran ko nok-e-neza par
+  Phir tir mein le aae aada
+  Mehmaan bulaa kar Sarwar ko
+  Paani na diya sar kaat liya
+  Sar khole hue ek dukhyaari
+  Maaṅ karti rah gai bain
+
   8
-  Afsos nabi ki ummat ne
-  In dono hi ki khadr na ki
-  Naizon se lagaye zakhm kabhi
-  Teeron se kiya zaahe zakhmi
-  Ummat ne baade payghambar
-  Loota dono ka chain
-  
+  Afsos Nabi ki ummat ne
+  In donoṅ hi ki qadr na ki
+  Nezoṅ se lagaae zakhm kabhi
+  Tiroṅ se kiya zaahe zakhmi
+  Ummat ne baad-e-Payambar
+  Luta donoṅ ka chain
+
   9
-  Sad haif nabi ki itrat ko
-  Taqdeer ne ye din dikhlaya
-  Ta shaam bala ke maidan se
-  Naize pe sare bazaar gaya
-  Quran sunata logon ko
-  Zehra ka noore ain
+  Sad haif Nabi ki itrat ko
+  Taqdir ne ye din dikhlaaya
+  Taa Shaam bala ke maidaan se
+  Neze pe sar-e-baazaar gaya
+  Quran sunaata logoṅ ko
+  Zehra ka nur-e-ain
 # source_id: nohayonline:ba04b899bf570e064baa
 # source_url: https://www.nohayonline.com/details_content.php?id=157
 # raw_sha256: 01254b4c911ec2aef31ef03b7662c1108b73d5de5a37e4cb33111af26efcf467
 ---
 قرآن اور حُسین
-واللہ سرِ منہ فرق نہیں ہے
+واللہ سرِ مو فرق نہیں ہے
 دونوں کے مابین
 
 ۱
@@ -113,37 +114,37 @@ romanLyrics: |-
 وہ معجزہ ہے اعجاز ہے یہ
 وہ نور ہے یہ اُس کا پیکر
 پروان چڑھے ہیں یہ دونوں
-آغوشِ پیعمبر میں پل کر
+آغوشِ پیمبر میں پل کر
 قرآن لبوں سے کھیلتا تھا
 زُلفوں سے حسنین
 
 ۴
 جاں وار کے حق پر شِہ نے کیا
 قرآن کے دُشمن کو ابتر
-قرآن صدائیں دیتا ہی
+قرآن صدائیں دیتا ہے
 انا اعطینٰک الکوثر
 باقی ہے نسل محمد کی
 جب تک ہے نسلِ حُسین
 
 ۵
 قرآن پیامِ احمد ہے
-شبیر سلامے احمد ہے
+شبیر سلامِ احمد ہے
 ان دونوں کے دم سے قائم
 عالم میں نظامِ احمد ہے
 اللہ و نبی کی حُجت ہے
 یہ مابینِ کونین
 
 ۶
-درسِ قرآن دیاشِہ نے
+درسِ قرآن دیا شِہ نے
 عالم کو اُسی تلواروں میں
 اک حرفِ شہادت کی لکھ دی
 تفسیر بہتر پاروں میں
 قربان تیرے اے وارثِ علم
-شاہِ بدرو حُنین
+شاہِ بدر و حُنین
 
 ۷
 قرآن کو نوکِ نیزہ پر
-پھر تیر میں لے آئے اعدائ
+پھر تیر میں لے آئے اعدا
 مہمان بُلا کر سرور کو
 پانی نہ دیا سر کاٹ لیا
 سر کھولے ہوئے اک دُکھیاری
@@ -154,11 +155,11 @@ romanLyrics: |-
 ان دونوں ہی کی قدر نہ کی
 نیزوں سے لگائے زخم کبھی
 تیروں سے کیا زاہے زخمی
-اُمت نے بعدِ پیعمبر
+اُمت نے بعدِ پیمبر
 لوٹا دونوں کا چین
 
 ۹
-صد ہیف نبی کی عطرت کو
+صد حیف نبی کی عترت کو
 تقدیر نے یہ دن دکھلایا
 تا شام بلا کے میدان سے
 نیزے پہ سرِ بازار گیا
