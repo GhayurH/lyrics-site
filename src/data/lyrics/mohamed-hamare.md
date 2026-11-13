@@ -1,54 +1,55 @@
 ---
-title: صل علٰی نبیینا صلی علی محمدن
-alternateTitle: Mohamed Hamare
+title: محمد ہمارے بڑی شان والے
+alternateTitle: Muhammad Hamare
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Mohamed Hamare", "صل علٰی نبیینا صلی علی محمدن"]
 published: false
 romanLyrics: |-
-  Salli Ala Nabiyyina Salli Ala Muhammadin
-  Sallallahu Alaihi Wasallam
-  Muhammad Hamare Badi Shaan Waale
-  Wo Nabiyon Mein Rehmat Laqab Paane Waale
+  Salli ala nabiyyina salli ala Muhammadin
+  Sallallahu alaihi wa sallam
+
+  Muhammad hamaare bari shaan waale
+  Wo nabiyoṅ mein rehmat laqab paane waale
 
   1
-  Khuda jiske seene pe quran utaare
-  Mudassir kahe aur muzammil pukare
-  Wo noor e khuda do jahan ke ujaale
+  Khuda jis ke sine pe Quraaṅ utaare
+  Muddassir kahe aur Muzzammil pukaare
+  Wo nur-e-Khuda do jahaaṅ ke ujaale
 
   2
-  Jab Aaie Zameen Par Mohammad Hamare
-  Falak ne Zameen Par Bichaie Sitare
-  Uthae Sar zameen Ne Arab Se Yeh Naare
+  Jab aaye zamiṅ par Muhammad hamaare
+  Falak ne zamiṅ par bichhaaye sitaare
+  Uthe sarzamin-e-Arab se ye naare
 
   3
-  Nawase Jo Roye To Roye Mohammad
-  Woh Jab Taq Na Soye Na Soye Mohammad
-  Do Aankhe Nabi Ki The Dono Nawase
+  Nawaase jo roye to roye Muhammad
+  Wo jab tak na soye na soye Muhammad
+  Do aankheṅ Nabi ki the donoṅ nawaase
 
   4
-  Nawasa mazaare mohamed pe aaya
-  Kaha pyare nana ye waada hai mera
-  Hai islam ab karbala ke hawale
+  Nawaasa mazaar-e-Muhammad pe aaya
+  Kaha pyaare naana ye waada hai mera
+  Hai Islam ab Karbala ke hawaale
 
   5
-  Sada aayi qabre mohamed se beta
-  Duago hai nana ali aur zehra
-  Chale ghazi abbas parcham sambhale
+  Sada aayi qabr-e-Muhammad se beta
+  Dua go haiṅ naana Ali aur Zehra
+  Chale Ghaazi Abbas parcham sambhaale
 
   6
-  Woh Ashur Ka Din Mohammad Ka Qunba
-  Jo Maqtal Mein Deen Ko Lahu De Raha Tha
-  Yeh Keh Keh Ke Sino Pe Khaaye Hai Bhaale
+  Wo Aashur ka din Muhammad ka kunba
+  Jo maqtal mein din ko lahu de raha tha
+  Ye keh keh ke sinoṅ pe khaaye haiṅ bhaale
 
   7
-  Rehaan o ali jee azadare sarwar
-  Ghulamane hyder ghulame payambar
-  Sada is sada se zamana mila le
+  Rehaan o Ali Ji azaadaar-e-Sarwar
+  Ghulaamaan-e-Haidar ghulaam-e-Payambar
+  Sada is sada se zamaana mila le
 reciter: Ali Shanawar
 # source_id: nohayonline:102264144e4d28e0fc5f
 # source_url: https://www.nohayonline.com/details_content.php?id=843
@@ -62,40 +63,41 @@ reciter: Ali Shanawar
 ---
 صل علٰی نبیینا صلی علی محمدن
 صل اللہ علیہ وسلم
+
 محمد ہمارے بڑی شان والے
 وہ نبیوں میں رحمت لقب پانے والے
 
 ۱
 خدا جس کے سینے پہ قرآں اتارے
 مدثر کہے اور مزمل پکارے
-وہ نور خدا دو جہاں کے اجالے
+وہ نورِ خدا دو جہاں کے اجالے
 
 ۲
-جب آۓ زمیں پر محمد(ص) ہمارے
-فلک نے زمیں پر بچھاۓ ستارے
-اٹھے سر زمین عرب سے یہ نعرے
+جب آئے زمیں پر محمد(ص) ہمارے
+فلک نے زمیں پر بچھائے ستارے
+اٹھے سر زمینِ عرب سے یہ نعرے
 
 ۳
-نواسے جو روۓ تو روۓ محمد(ص)
-وہ جب تک نہ سوۓ نہ سوۓ محمد(ص)
-دو آنکھیں نبی(ص) کی تھی دونوں نواسے
+نواسے جو روئے تو روئے محمد(ص)
+وہ جب تک نہ سوئے نہ سوئے محمد(ص)
+دو آنکھیں نبی(ص) کی تھے دونوں نواسے
 
 ۴
-نواسہ مزارے محمد(ص) پہ آیا
+نواسہ مزارِ محمد(ص) پہ آیا
 کہا پیارے نانا(ص) یہ وعدہ ہے میرا
 ہے اسلام اب کربلا کے حوالے
 
 ۵
-صدا آئ قبر محمد(ص) سے بیٹا
+صدا آئی قبرِ محمد(ص) سے بیٹا
 دعا گو ہیں نانا(ص) علی اور زہرا
 چلے غازی عباس پرچم سنبھالے
 
 ۶
 وہ عاشور کا دن محمد(ص) کا کنبہ
 جو مقتل میں دین کو لہو دے رہا تھا
-یہ کہہ کہہ کے سینوں پہ کھاۓ ہیں بھالے
+یہ کہہ کہہ کے سینوں پہ کھائے ہیں بھالے
 
 ۷
-ریحان و علی جی عزادار سرور
-غلامان حیدر غلام پیعمبر(ص)
+ریحان و علی جی عزادارِ سرور
+غلامانِ حیدر غلامِ پیمبر(ص)
 صدا اس صدا سے زمانہ ملا لے

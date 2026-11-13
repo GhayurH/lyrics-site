@@ -6,52 +6,53 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Mita ke rakh diya baatil ka naam zainab ne
-  Payambarana kiya hai ye kaam zainab ne
+  Mita ke rakh diya baatil ka naam Zainab ne
+  Payambarana kiya hai ye kaam Zainab ne
 
   1
-  Charaagh sabr ke maqtal mein yun kiye roshan
+  Charaagh-e-sabr ke maqtal mein yuṅ kiye roshan
   Kiye wo azmat o kirdaar ke diye roshan
-  Sahar bana di shahadat ki shaam zainab ne
+  Sahar bana di shahaadat ki shaam Zainab ne
 
   2
-  Kiya zuban se wo hamla ali ke lehje mein
-  Diya wo ghaiz mein khutba ali ke lehje mein
-  Ulat ke rakh diya darbar e shaam zainab ne
+  Kiya zubaaṅ se wo hamla Ali ke lehje mein
+  Diya wo ghaiz mein khutba Ali ke lehje mein
+  Ulat ke rakh diya darbaar-e-Shaam Zainab ne
 
   3
-  Zameen kaamp uthi ahle zulm ghabraye
-  Jo qadh zuban thay wo bezuban nazar aaye
-  Kiya jalaal mein jis dam kalaam zainab ne
+  Zamin kaamp uthi ahl-e-zulm ghabraaye
+  Jo qadh zubaaṅ the wo bezubaaṅ nazar aaye
+  Kiya jalaal mein jis dam kalaam Zainab ne
 
   4
-  Kabhi to bhai ke matam mein aah o zaari ki
-  Kabhi jale huwe qaimon ki pehredari ki
-  Guzari is tarha ghurbat ki shaam zainab ne
+  Kabhi to bhaai ke maatam mein aah o zaari ki
+  Kabhi jale hue khaimoṅ ki pehredaari ki
+  Guzaari is tarah ghurbat ki shaam Zainab ne
 
   5
   Laraz ke reh gaya darya ajab hua ehsaas
-  Tadapta reh gaya saahil pe laasha e abbas
-  Pukara jis ghadi ghazi ka naam zainab ne
+  Tarapta reh gaya saahil pe laasha-e-Abbas
+  Pukaara jis ghari Ghaazi ka naam Zainab ne
 
   6
-  Bala ke dasht mein apne lahoo mein doobe huwe
-  Ghayoor sheron ke laashe tadap tadap uthe
-  Kiya jo aakhri sheh ko salaam zainab ne
+  Bala ke dasht mein apne lahu mein dube hue
+  Ghayur sheroṅ ke laashe tarap tarap uthe
+  Kiya jo aakhri Shah ko salaam Zainab ne
 
   7
   Na apni pyaas na bete kisi ko yaad kiya
-  Hamesha bhai ki tashna labi ko yaad kiya
-  Kabhi jo pani piya tishna kaam zainab ne
+  Hamesha bhaai ki tashna labi ko yaad kiya
+  Kabhi jo paani piya tishna kaam Zainab ne
 
   8
-  Kiya tha waada jo gohar usay nibhaya hai
-  Aseer ho ke bhi islam ko bachaya hai
-  Batool zaadi alaihe salaam zainab ne
+  Kiya tha waada jo Gohar use nibhaaya hai
+  Asir ho ke bhi Islam ko bachaaya hai
+  Batul zaadi alaihis salaam Zainab ne
 # source_id: nohayonline:f77c2280e4e06ec000fe
 # source_url: https://www.nohayonline.com/details_content.php?id=3203
 # raw_sha256: ad0dc812bf17301533fb6e9b930e1deb0f30b80cf6c8de4e7e321724b9c2445c
@@ -60,18 +61,18 @@ romanLyrics: |-
 پیمبرانہ کیا ہے یہ کام زینب نے
 
 ۱
-چراغ صبر کے مقتل میں یوں کیےء روشن
-کیےء وہ عظمت و کردار کے دیےء روشن
+چراغِ صبر کے مقتل میں یوں کیے روشن
+کیے وہ عظمت و کردار کے دیے روشن
 سہارا بنا دی شہادت کی شام زینب نے
 
 ۲
 کیا زباں سے وہ حملہ علی کے لہجے میں
 دیا وہ غیض میں خطبہ علی کے لہجے میں
-الٹ کے رکھ دیا دربار شام زینب نے
+الٹ کے رکھ دیا دربارِ شام زینب نے
 
 ۳
-زمین کانپ اٹھی اہل ظلم گھبراے
-جو کڑھ زباں تھے وہ بے زباں نظر آے
+زمین کانپ اٹھی اہلِ ظلم گھبرائے
+جو کڑھ زباں تھے وہ بے زباں نظر آئے
 کیا جلال میں جس دم کلام زینب نے
 
 ۴
@@ -81,7 +82,7 @@ romanLyrics: |-
 
 ۵
 لرز کے کہہ گیا دریا عجب ہوا احساس
-تڑپتا رہ گیا ساحل پہ لاشہء عباس
+تڑپتا رہ گیا ساحل پہ لاشۂ عباس
 پکارا جس گھڑی غازی کا نام زینب نے
 
 ۶
@@ -91,7 +92,7 @@ romanLyrics: |-
 
 ۷
 نہ اپنی پیاس نہ بیٹے کسی کو یاد کیا
-ہمیشہ بھای کی تشنہ لبی کو یاد کیا
+ہمیشہ بھائی کی تشنہ لبی کو یاد کیا
 کبھی جو پانی پیا تشنہ کام زینب نے
 
 ۸
