@@ -6,28 +6,35 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Ali Khan Lakhnavi"
+reciter: "Zawwar Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Moray bhaag suhaag may aag lagi
-  Akbar bhi nahi asghar bhi nahi
-  
+  More bhaag suhaag mein aag lagi
+  Akbar bhi nahiṅ Asghar bhi nahiṅ
+
   1
-  Mai to sopan moti lutaye chuki
-  Ab aanchal may kankar bhi nahi
-  
+  Main to sopan moti lutaaye chuki
+  Ab aanchal mein kankar bhi nahiṅ
+  More bhaag suhaag mein aag lagi
+  Akbar bhi nahiṅ Asghar bhi nahiṅ
+
   2
-  Ran veer moray ran bhoomi may
-  Tum seesh kataye sowat ho
-  Jangal ke jhaad kare san san
-  Moray raaj kunwar tohe darr bhi nahi
-  
+  Ran vir more ran bhumi mein
+  Tum sish kataaye sowat ho
+  Jangal ke jhaar kare san san
+  More raaj kunwar tohe dar bhi nahiṅ
+  More bhaag suhaag mein aag lagi
+  Akbar bhi nahiṅ Asghar bhi nahiṅ
+
   3
-  Moray sapan salone toot gaye
-  Man meet moray sab rooth gaye
-  Mann aise may dheeraj kan paaye
-  Jab chain mohe pal bhar bhi nahi
+  More sapan salone tut gaye
+  Man mit more sab ruth gaye
+  Man aise mein dhiraj kan paaye
+  Jab chain mohe pal bhar bhi nahiṅ
+  More bhaag suhaag mein aag lagi
+  Akbar bhi nahiṅ Asghar bhi nahiṅ
 # source_id: nohayonline:7bd0ff97bf089114df62
 # source_url: https://www.nohayonline.com/details_content.php?id=1989
 # raw_sha256: b9158043b766e96f1f48c84aa504dfdc89ceafb45ef90616b47534bab061c309
@@ -37,17 +44,23 @@ romanLyrics: |-
 اکبر بھی نہیں اصغر بھی نہیں
 
 ۱
-میں تو سوپن موتی لٹاے چکی
+میں تو سوپن موتی لٹائے چکی
 اب آنچل میں کنکر بھی نہیں
+مورے بھاگ سہاگ میں آگ لگی
+اکبر بھی نہیں اصغر بھی نہیں
 
 ۲
 رن ویر مورے رن بھومی میں
-تم سیش کٹاے سوت ہو
+تم سیش کٹائے سوت ہو
 جنگل کے جھاڑ کرے سن سن
 مورے راج کنور توہے ڈر بھی نہیں
+مورے بھاگ سہاگ میں آگ لگی
+اکبر بھی نہیں اصغر بھی نہیں
 
 ۳
-مورے سپن سلونے ٹوٹ گےء
-من میت مورے سب روٹھ گےء
-من ایسے میں دھیرج کن پاے
+مورے سپن سلونے ٹوٹ گئے
+من میت مورے سب روٹھ گئے
+من ایسے میں دھیرج کن پائے
 جب چین موہے پل بھر بھی نہیں
+مورے بھاگ سہاگ میں آگ لگی
+اکبر بھی نہیں اصغر بھی نہیں

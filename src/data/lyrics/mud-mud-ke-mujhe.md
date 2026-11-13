@@ -6,60 +6,64 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Chala jo qaime se marne rasool jaisa pisar
-  To peeche peeche ye kehte huwe chale sarwar
-  Mud mud ke mujhe dekhte jaana ali akbar
-  Kuch dayr to jeelein tera baba ali akbar
+  Chala jo khaime se marne Rasul jaisa pisar
+  To pichhe pichhe ye kehte hue chale Sarwar
+
+  Mur mur ke mujhe dekhte jaana Ali Akbar
+  Kuchh der to ji le tera baaba Ali Akbar
 
   1
-  Tum zeen se giroge to badal jayegi dunya
-  Maqtal ki taraf kaun hamay leke chalega
-  Qaatil to batayenge na rasta ali akbar
+  Tum ziṅ se giro ge to badal jaayegi dunya
+  Maqtal ki taraf kaun hameṅ le ke chalega
+  Qaatil to bataayeṅge na rasta Ali Akbar
 
   2
-  Bemaar e madina ki khabar aati hi hogi
-  Tum saath liye jaate ho bemaari bhi meri
-  Mai kaise padunga khat e sughra ali akbar
+  Bimaar-e-Madina ki khabar aati hi hogi
+  Tum saath liye jaate ho binaai bhi meri
+  Main kaise parhuṅ ga khat-e-Sughra Ali Akbar
 
   3
-  Ho jayega mushkil mera aana mere beta
-  Maqtal may kahin door na jaana mere beta
-  Ab mujhse chala bhi nahi jaata ali akbar
+  Ho jaayega mushkil mera aana mere beta
+  Maqtal mein kahiṅ dur na jaana mere beta
+  Ab mujh se chala bhi nahiṅ jaata Ali Akbar
 
   4
-  Ehsaas tadapne ka hamare tujhe hota
-  Meri tarha tu apna jigar thaam ke rota
-  Tera bhi jo hota koi beta ali akbar
+  Ehsaas tarapne ka hamaare tujhe hota
+  Meri tarah tu apna jigar thaam ke rota
+  Tera bhi jo hota koi beta Ali Akbar
 
   5
-  Nana mere pooche jo kahan dayr lagayi
-  Keh dena ijazat badi mushkil se hai paayi
-  Lag jao galay aake dubara ali akbar
+  Naana mere puchheṅ jo kahaaṅ der lagaai
+  Keh dena ijaazat bari mushkil se hai paai
+  Lag jaao gale aake dubaara Ali Akbar
 
   6
-  Nana gaye jab aayi thi amma pe zaeefi
-  Tum jaate ho haalat ajab binte ali ki
-  Zainab hui jaati hai zaeefa ali akbar
+  Naana gaye jab aai thi ammaṅ pe zaifi
+  Tum jaate ho haalat hai ajab Bint-e-Ali ki
+  Zainab hui jaati hai zaifa Ali Akbar
 
   7
-  Ay laal tujhe karta hoo baba ke hawale
-  Maidan may haste hai khade barchiyon waale
-  Achi tarha phir dekhloo seena ali akbar
+  Ae laal tujhe karta huṅ baaba ke hawaale
+  Maidan mein haṅste haiṅ khare barchhiyoṅ waale
+  Achchhi tarah phir dekh luṅ sina Ali Akbar
 
   8
-  Sar peet ke maula ne takallum ye sada di
-  Hai chadare zianab meri ghurbat ki gawahi
-  Mai tumko kafan de nahi sakta ali akbar
+  Sar pit ke Mola ne Takallum ye sada di
+  Hai chaadar-e-Zainab meri ghurbat ki gawaahi
+  Main tum ko kafan de nahiṅ sakta Ali Akbar
 # source_id: nohayonline:373f30f5a10d821155ef
 # source_url: https://www.nohayonline.com/details_content.php?id=325
 # raw_sha256: e53b286e0bf2247fb1a6cb3750b6c41ededd8f1fee956d446485ba955792daca
 ---
+
 چلا جو خیمے سے مرنے رسول جیسا پسر
 تو پیچھے پیچھے یہ کہتے ہوئے چلے سرور
+
 مُڑ مُڑ کے مجھے دیکھتے جانا علی اکبر
 کچھ دیر تو جی لے ترا بابا علی اکبر
 
@@ -96,9 +100,9 @@ romanLyrics: |-
 ۷
 اے لال تجھے کرتا ہوں بابا کے حوالے
 میدان میں ہنستے ہیں کھڑے برچھیوں والے
-اچھی طرح پھر دیکھلوں سینہ علی اکبر
+اچھی طرح پھر دیکھ لوں سینہ علی اکبر
 
 ۸
 سر پیٹ کے مولا نے تکلم یہ صدا دی
-ہے چادر زینب میری غربت کی گواہی
+ہے چادرِ زینب میری غربت کی گواہی
 میں تم کو کفن دے نہیں سکتا علی اکبر
