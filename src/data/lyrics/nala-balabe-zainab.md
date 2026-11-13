@@ -1,43 +1,44 @@
 ---
 title: "نالہ بالب زینب ناچار حسینا"
-alternateTitle: "Nala Balabe Zainab"
+alternateTitle: "Naala Ba-Lab-e-Zainab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mohsin Shakeeb"
+reciter: "Ali Zia Rizvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Nala balabe zainabe lachaar hussaina
-  Maujood hai asbaab na ansar hussaina
-  Hai charo taraf narghae kuffar hussaina
-  Faryad nahi koi madagar hussaina
-  
+  Naala ba-lab-e-Zainab-e-laachaar Husaina
+  Maujud hai asbaab na ansaar Husaina
+  Hai chaaroṅ taraf nargha-e-kuffaar Husaina
+  Faryaad nahiṅ koi madadgaar Husaina
+
   1
-  Ab koi nahi sab mahe anwar gaye maare
-  Saaath aaye thay jitne wo dilawar gaye maare
-  Hamshakle mohamad ali akbar gaye maare
-  Soya hai labe nehr alamdar hussaina
-  
+  Ab koi nahiṅ sab mah-e-anwar gaye maare
+  Saath aaye the jitne wo dilaawar gaye maare
+  Hamshakl-e-Muhammad Ali Akbar gaye maare
+  Soya hai lab-e-nehr alamdaar Husaina
+
   2
-  Jo margaye unpe bhi ajab zulmo jafa hai
-  Ya dhoop hai ya khaak ya maqtal ki hawa hai
-  Mazloomon ke laasho pe na saya na rida hai
-  Wa hasrata wa aalame dara baar hussaina
-  
+  Jo mar gaye un pe bhi ajab zulm o jafa hai
+  Ya dhup hai ya khaak ya maqtal ki hawa hai
+  Mazlumoṅ ke laashoṅ pe na saaya na rida hai
+  Wa hasrata wa aalam-e-dara baar Husaina
+
   3
-  Ye saath thay ammo he giran sham e ghariban
-  Aur sehme hue ahle haram dard badama
-  Zaqmo pa namak pashi ka hone laga saaman
-  Ab koi nahi muniso ghamkhar hussaina
-  
+  Ye saath the ammo he giraaṅ shaam-e-gharibaṅ
+  Aur sehme hue ahl-e-haram dard badaama
+  Zakhmoṅ pa namak paashi ka hone laga saamaaṅ
+  Ab koi nahiṅ munis o ghamkhwaar Husaina
+
   4
-  Kya azm tha ghurbat mein bhi ay saniye zehra
-  Bacho ko sambhala kabhi bewa'on ko dekha
-  Sajjad ko baqar ko sakina ko sulaya
-  Maujood hai akbar na alamdar hussaina
+  Kya azm tha ghurbat mein bhi ae saani-e-Zehra
+  Bachchoṅ ko sambhaala kabhi bewaoṅ ko dekha
+  Sajjad ko Baqir ko Sakina ko sulaaya
+  Maujud hai Akbar na alamdaar Husaina
 # source_id: nohayonline:44defb20224ba1fe1359
 # source_url: https://www.nohayonline.com/details_content.php?id=282
 # raw_sha256: 7874c7022122922519cb094ef1b2f75d1c624742f9504bfe5c93b86641b05dff

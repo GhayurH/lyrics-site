@@ -1,37 +1,38 @@
 ---
 title: "نمازی زیر خنجر آ رہا ہے"
-alternateTitle: "Namazi Zere Khanjar"
+alternateTitle: "Namaazi Zer-e-Khanjar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Salik Lakhnavi"
+reciter: "Faazil Lakhnavi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Namazi zer e khanjar aa raha hai
-  Zameen se aasman takra raha hai
-  
+  Namaazi zer-e-khanjar aa raha hai
+  Zamiṅ se aasmaaṅ takra raha hai
+
   1
-  Utha to li jawan bete ki mayyat
-  Shahe waala ko chakkar aa raha hai
-  
+  Utha to li jawaaṅ bete ki mayyat
+  Shah-e-waala ko chakkar aa raha hai
+
   2
-  Shahe deen teer khaate ja rahe hai
-  Lahoo tan se tapakta jaa raha hai
-  
+  Shah-e-diṅ tir khaate ja rahe haiṅ
+  Lahu tan se tapakta jaa raha hai
+
   3
-  Badho darya ki maujon leke saaghar
-  Ali ka sher pyasa aa raha hai
-  
+  Barho darya ki maujoṅ le ke saaghar
+  Ali ka sher pyaasa aa raha hai
+
   4
-  Wo moti ban raha hai sheh ke gham may
-  In aankhon may jo aansu aa raha hai
-  
+  Wo moti ban raha hai shah ke gham mein
+  In aankhoṅ mein jo aansu aa raha hai
+
   5
-  Ishaare madhe maula ke hai salik
-  Wo kausar saamne lehra raha hai
+  Ishaare madh-e-Maula ke hai Salik
+  Wo Kausar saamne lehra raha hai
 # source_id: nohayonline:4aa74be1d7c9ee7fb271
 # source_url: https://www.nohayonline.com/details_content.php?id=1220
 # raw_sha256: 0c7ccc4d6adc881459cc5c139ffc2f527407d0fab2fbfa9bc8f140a1899d2612
@@ -53,7 +54,7 @@ romanLyrics: |-
 
 ۴
 وہ موتی بن رہا ہے شہ کے غم میں
-ان آنکھوں میں جو آنسوں آ رہا ہے
+ان آنکھوں میں جو آنسو آ رہا ہے
 
 ۵
 اشارے مدح مولا کے ہے سالک
