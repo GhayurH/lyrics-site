@@ -1,52 +1,54 @@
 ---
 title: امام پردہء غیبت سے دے رہے ہیں صدا
-alternateTitle: Mai Pardae Ghaibat
+alternateTitle: Main Parda-e-Ghaibat
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Hussain Gohar"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Imam parda e ghaibat se de rahe hai sada
-  Ana ibne zahra
-  Nazar may rehti hai har waqt mere karbobala
+  Imam parda-e-ghaibat se de rahe haiṅ sada
+  Ana ibn-e-Zahra
+  Nazar mein rehti hai har waqt mere Karbobala
+  Ana ibn-e-Zahra
 
   1
-  Mai parda e ghaibat se samaan dekh raha hoo
-  Sajjad ke qaimon ka dhuan dekh raha hoo
-  Zainab chali jis aag may abid ko bachane
-  Us aag may pairon ke nishan dekh raha hoo
+  Main parda-e-ghaibat se samaaṅ dekh raha huṅ
+  Sajjad ke khaimoṅ ka dhuaaṅ dekh raha huṅ
+  Zainab chali jis aag mein Abid ko bachaane
+  Us aag mein pairoṅ ke nishaaṅ dekh raha huṅ
 
   2
-  Jis sar pe saja karti thi dastaar e mohamed
-  Us sar ko sar e nauke sina dekh raha hoo
+  Jis sar pe saja karti thi dastaar-e-Muhammad
+  Us sar ko sar-e-nok-e-sinaaṅ dekh raha huṅ
 
   3
-  Bas teer hai chalne ab asghar ke galay par
-  Zaalim ki mai khamra kamaan dekh raha hoo
+  Bas tir hai chalne ab Asghar ke gale par
+  Zaalim ki main khamra kamaaṅ dekh raha huṅ
 
   4
-  Jis rukh ke liye karte thay bosay shahe wala
-  Us rukh pe tamachon ke nishan dekh raha hoo
+  Jis rukh ke liye karte the bose shaah-e-waala
+  Us rukh pe tamaachoṅ ke nishaaṅ dekh raha huṅ
 
   5
-  Maqtal may kahan saaniye zehra ki rida hai
-  Abbas ke baazu hai kahan dekh raha hoo
+  Maqtal mein kahaaṅ saani-e-Zehra ki rida hai
+  Abbas ke baazu haiṅ kahaaṅ dekh raha huṅ
 
   6
-  Aaye na watan laut ke phir aun o mohamed
-  Ujda hua zainab ka makaan dekh raha hoo
+  Aaye na watan laut ke phir Aun o Muhammad
+  Ujra hua Zainab ka makaaṅ dekh raha huṅ
 
   7
   Maa baap behan bhai phuphi aur aizza
-  Ek teer may kitno ki mai jaan dekh raha hoo
+  Ik tir mein kitnoṅ ki main jaaṅ dekh raha huṅ
 
   8
-  Gohar hai jahan dafn saqeefa ki shaheeda
-  Us qabr ko be-naam-o-nishan dekh raha hoo
+  Gohar hai jahaaṅ dafn Saqifa ki shahida
+  Us qabr ko benaam o nishaaṅ dekh raha huṅ
 # source_id: nohayonline:0082c5010dc85105fa80
 # source_url: https://www.nohayonline.com/details_content.php?id=323
 # raw_sha256: 93569f0a59e5fbfdd45d238f581a7aff8f7a5ec6b31574337eb5f379b9ef40f8
@@ -57,6 +59,7 @@ romanLyrics: |-
 امام پردہء غیبت سے دے رہے ہیں صدا
 انا ابن زہرا
 نظر میں رہتی ہے ہر وقت میرے کربوبلا
+انا ابن زہرا
 
 ۱
 میں پردہء غیبت سے سماں دیکھ رہا ہوں
@@ -81,7 +84,7 @@ romanLyrics: |-
 عباس کے بازو ہیں کہاں دیکھ رہا ہوں
 
 ۶
-آے نہ وطن لوٹ کے پھر عون و محمد
+آئے نہ وطن لوٹ کے پھر عون و محمد
 اجڑا ہوا زینب کا مکاں دیکھ رہا ہوں
 
 ۷
