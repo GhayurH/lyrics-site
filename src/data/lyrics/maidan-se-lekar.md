@@ -6,65 +6,68 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ainee Rizvi"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ashoor ke din wo shor utha
-  Maidan se le kar qaime tak
-  Thi teeron ki ghanghor ghata
+  Aashur ke din wo shor utha
+  Maidan se le kar khaime tak
+  Thi tiroṅ ki ghanghor ghata
+  Maidan se le kar khaime tak
 
   1
-  Akbar ko uthaya jab sheh ne
-  Aur paon se wo khat dete chale
-  Ek naksh zameem par banta gaya
+  Akbar ko uthaaya jab Shah ne
+  Aur paaoṅ se wo khat dete chale
+  Ek naqsh zamiṅ par banta gaya
 
   2
-  Akbar ka janaza kaandho par
+  Akbar ka janaaza kaandhoṅ par
   Zehra ka pisar laaya to magar
-  Sau bar zameen par gir ke utha
+  Sau baar zamiṅ par gir ke utha
 
   3
-  Haathon pe utha kr mayyat ko
-  Chalte hai kabhi ruk jaate hai
+  Haathoṅ pe utha kar mayyat ko
+  Chalte haiṅ kabhi ruk jaate haiṅ
   Allah wo rasta kaise kata
 
   4
-  Ye chand sa chehra asghar ka
-  Mitti mein chupaunga kaise
-  Ye soch ke sheh ne pyar kiya
+  Ye chaand sa chehra Asghar ka
+  Mitti mein chhupaauṅga kaise
+  Ye soch ke Shah ne pyaar kiya
 
   5
-  Ek laash utha kar laaye hai
-  Ek laash uthane jaate hai
-  Ashoor ko bas ye hota raha
+  Ek laash utha kar laaye haiṅ
+  Ek laash uthaane jaate haiṅ
+  Aashur ko bas ye hota raha
 
   6
-  Ghode se ye apne ro ke kaha
-  Bin baazuon waale ghazi ne
-  Ay asp mujhe pahuncha de zara
+  Ghore se ye apne ro ke kaha
+  Bin baazuoṅ waale Ghaazi ne
+  Ae asp mujhe pahuncha de zara
 
   7
   Abbas ka laasha ro ro kar
-  Darya ki tarayi par choda
-  Laaye hai alam shabbir jhuka
+  Darya ki taraai par chhora
+  Laaye hai alam Shabbir jhuka
 
   8
-  Bhai ki shahadat ka logon
-  Zainab ko yaqeen tab aa hi gaya
-  Rehwaar jo aaya khoon mein bhara
+  Bhaai ki shahaadat ka logoṅ
+  Zainab ko yaqiṅ tab aa hi gaya
+  Rehwaar jo aaya khuṅ mein bhara
 
   9
-  Jis waqt bhi aamir sarwar ka
-  Nazrana koi maqbool hua
-  Har gaam pe ainee shukr kiya
+  Jis waqt bhi Aamir Sarwar ka
+  Nazraana koi maqbul hua
+  Har gaam pe Aini shukr kiya
 # source_id: nohayonline:4cced5c4326c0160278a
 # source_url: https://www.nohayonline.com/details_content.php?id=3591
 # raw_sha256: 3690e795c6d2c835ed22e18da19102e9d8b8c84bb03457f8a0b920bc59882c9a
 ---
 عاشور کے دن وہ شور اٹھا
-میدان‌ سے لے کر خیمے تک
+میدان سے لے کر خیمے تک
 تھی تیروں کی گھنگھور گھٹا
+میدان سے لے کر خیمے تک
 
 ۱
 اکبر کو اٹھایا جب شہ نے
@@ -87,26 +90,26 @@ romanLyrics: |-
 یہ سوچ کے شہ نے پیار کیا
 
 ۵
-ایک لاش اٹھا کر لاے ہیں
+ایک لاش اٹھا کر لائے ہیں
 ایک لاش اٹھانے جاتے ہیں
 عاشور کو بس یہ ہوتا رہا
 
 ۶
 گھوڑے سے یہ اپنے رو کے کہا
 بن بازؤں والے غازی نے
-اے اسپ مجھے پہنچا دے زرا
+اے اسپ مجھے پہنچا دے ذرا
 
 ۷
 عباس کا لاشہ رو رو کر
-دریا کی ترای پر چھوڑا
-لاے ہے علم شبیر جھکا
+دریا کی ترائی پر چھوڑا
+لائے ہے علم شبیر جھکا
 
 ۸
-بھای کی شہادت کا لوگوں
+بھائی کی شہادت کا لوگوں
 زینب کو یقیں تب آ ہی گیا
 رہوار جو آیا خوں میں بھرا
 
 ۹
 جس وقت بھی عامر سرور کا
-نظرانہ کوئی مقبول ہوا
+نذرانہ کوئی مقبول ہوا
 ہر گام پہ عینی شکر کیا

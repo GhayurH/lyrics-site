@@ -2569,11 +2569,11 @@ src/data/lyrics/mai-us-ghareeb-ka.md,standalone_lyrics,imported,nohayonline,pend
 src/data/lyrics/mai-ye-nahi-kehti.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
 src/data/lyrics/mai-zainab-hoo.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,,,"Need audio/print: s3 Urdu ""ہظیان"" vs Roman ""hizyaan""; s4 confirm ""فقیرِ شام""."
 src/data/lyrics/maidan-ki-jalti-reti.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,,,"Need audio/print: s2 ""حیدر کے یہ ننھے پوتے نے""; s6 ""لوٹا نہ اسے سیدانی ہے"" (imperative/wording)."
-src/data/lyrics/maidan-mein-hussain.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/maidan-mein-jab.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/maidan-mein-koi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/maidan-mein-zainab.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/maidan-se-lekar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/maidan-mein-hussain.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,,,"Need audio/print: s3 Roman ""Tharra uthega"" vs Urdu ""تھرا اُٹھا""; ""baandhe"" vs ""باندھیں"". Confirm tense and inflection before aligning readings."
+src/data/lyrics/maidan-mein-jab.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
+src/data/lyrics/maidan-mein-koi.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
+src/data/lyrics/maidan-mein-zainab.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,,,"Need audio/print: s2 ""اٹھائے ہے"" twice (hai vs hain); s3 Roman ""Khuda"" vs Urdu ""خود""; s5 ""پےء امداد اخی"" reading and izafat."
+src/data/lyrics/maidan-se-lekar.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,,,"Need audio/print: s1 Roman ""banta gaya"" vs Urdu ""بانٹا گیا""; s7 ""لائے ہے علم شبیر جھکا"" (hai vs hain)."
 src/data/lyrics/maidane-karbala-mein.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/main-azmaton-ka-sawera-hun-naam-qasim-hai.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
 src/data/lyrics/main-hoon-abbas-e-ali.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,2026-11-08-filename-cleanup,this_commit,Filename-only cleanup: removed reciter/lyrics/year/genre suffix; original unpublished lyric text and recitationId preserved. Editorial status unchanged. 
