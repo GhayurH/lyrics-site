@@ -6,103 +6,108 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Farsh majlis ka kahin bichta hai jab bhi zainab
-  Mere bacche tujhe dete hai salaami zainab
-  Haye zainab haye zainab
-  Taaziya khano mein aankhon ko bighone waale
-  Kaise bhoole tujhe shanbir ko rone waale
-  Ki ye bunyad e aza tu ne hi rakhi zainab
+  Farsh majlis ka kahiṅ bichhta hai jab bhi Zainab
+  Mere bachche tujhe dete haiṅ salaami Zainab
+  Haye Zainab haye Zainab
 
   1
-  Teri qurbaniyan bhoolengi na insano ko
-  Raunaqein de gayi dunya ke azakhano ko
-  Tere ujde huwe qaime ki udaasi zainab
+  Taaziya khaanoṅ mein aankhoṅ ko bhigone waale
+  Kaise bhule tujhe Shabbir ko rone waale
+  Ki ye bunyaad-e-aza tu ne hi rakhi Zainab
 
   2
-  Kisko kehte hai sukoon tera jigar kya jaane
-  Terri nazron mein hai ghazi ke tadapte shaane
-  Aur phelu mein kisi jhoole ki garmi zainab
+  Teri qurbaaniyaṅ bhuleṅ gi na insaanoṅ ko
+  Raunaqeṅ de gayi duniya ke aza khaanoṅ ko
+  Tere ujre hue khaime ki udaasi Zainab
 
   3
-  Tu ne mit'ti hui shabbar ki nishani dekhi
-  Khoon ugalti hui akbar ki jawani dekhi
-  Tu ne dekhi hai sakina ki yateemi zainab
+  Kis ko kehte hai sukuṅ tera jigar kya jaane
+  Teri nazroṅ mein hai Ghaazi ke tarapte shaane
+  Aur pehlu mein kisi jhule ki garmi Zainab
 
   4
-  Uff wo tapta hua sehra wo hussain ibne ali
-  Haye wo khushk gala haye wo zaalim ki churi
-  Haye maqtal mein wohi tu bhi khadi thi zainab
+  Tu ne mitti hui Shabbar ki nishaani dekhi
+  Khuṅ ugalti hui Akbar ki jawaani dekhi
+  Tu ne dekhi hai Sakina ki yatimi Zainab
 
   5
-  Rassiyon mein jo jakadte hai tere shaano ko
-  Kaash itna koi batlade musalmano ko
-  Tu hai mukhtare do aalam ki nawasi zainab
+  Uff wo tapta hua sehra wo Husain ibn-e-Ali
+  Haye wo khushk gala haye wo zaalim ki chhuri
+  Haye maqtal mein wohi tu bhi khari thi Zainab
 
   6
-  Umr bhar sar kabhi ghairat se uthaya na gaya
-  Dard minhaal se bhi dil ka sunaya na gaya
-  Pooche abid se koi teri aseeri zainab
+  Rassiyoṅ mein jo jakarte haiṅ tere shaanoṅ ko
+  Kaash itna koi batla de musalmaanoṅ ko
+  Tu hai mukhtaar-e-do aalam ki nawaasi Zainab
 
   7
-  Is qadar tashna jigar tashna dahan koi nahi
-  Laakhon behnein hai magar aisi behen koi nahi
-  Bhai ki yaad mein beton ko na royi zainab
+  Umr bhar sar kabhi ghairat se uthaaya na gaya
+  Dard Minhaal se bhi dil ka sunaaya na gaya
+  Puchhe Aabid se koi teri asiri Zainab
 
   8
-  Aaye hai nayyar o aamir bhi salaami ke liye
-  Hum to paida hi huwe teri ghulami ke liye
-  Maaon behno ka sharaf teri kaneezi zainab
+  Is qadar tashna jigar tashna dahan koi nahiṅ
+  Laakhoṅ behneṅ haiṅ magar aisi behen koi nahiṅ
+  Bhai ki yaad mein betoṅ ko na royi Zainab
+
+  9
+  Aaye haiṅ Nayyar o Aamir bhi salaami ke liye
+  Ham to paida hi hue teri ghulaami ke liye
+  Maaoṅ behnoṅ ka sharaf teri kanizi Zainab
 # source_id: nohayonline:1ae4e9e91e793d4e97ca
 # source_url: https://www.nohayonline.com/details_content.php?id=3592
 # raw_sha256: 9cf30bddec7825372466eaa2095b41948e0588d625e2dfba671a8673cf8bbeb7
 ---
 فرش مجلس کا کہیں بچھتا ہے جب بھی زینب
 میرے بچے تجھے دیتے ہیں سلامی زینب
-ہاے زینب ہاے زینب
+ہائے زینب ہائے زینب
+
+۱
 تعزیہ خانوں میں آنکھوں کو بھگونے والے
 کیسے بھولے تجھے شبیر کو رونے والے
 کی یہ بنیاد عزا تو نے ہی رکھی زینب
 
-۱
+۲
 تیری قربانیاں بھولیں گی نہ انسانوں کو
-رونقیں دے گیء دنیا کے عزا خانوں کو
+رونقیں دے گئی دنیا کے عزا خانوں کو
 تیرے اجڑے ہوئے خیمے کی اداسی زینب
 
-۲
+۳
 کس کو کہتے ہے سکوں تیرا جگر کیا جانے
 تیری نظروں میں ہے غازی کے تڑپتے شانے
 اور پہلو میں کسی جھولے کی گرمی زینب
 
-۳
+۴
 تو نے مٹتی ہوئی شبر کی نشانی دیکھی
-خوں اگلتی ہوی اکبر کی جوانی دیکھی
+خوں اگلتی ہوئی اکبر کی جوانی دیکھی
 تو نے دیکھی ہے سکینہ کی یتیمی زینب
 
-۴
-اف وہ تپتا ہوا صحرا وہ حسین ابنِ علی
-ہاے وہ خشک گلا ہاے وہ ظالم کے چھری
-ہاے مقتل میں وہی تو بھی کھڑی ہے زینب
-
 ۵
-رسیوں میں جو جکڑتے ہیں تیرے شانوں کو
-کاش اتنا کوی بتلا دے مسلمانوں کو
-تو ہے مختار دو عالم کی نواسی زینب
+اف وہ تپتا ہوا صحرا وہ حسین ابنِ علی
+ہائے وہ خشک گلا ہائے وہ ظالم کی چھری
+ہائے مقتل میں وہی تو بھی کھڑی ہے زینب
 
 ۶
+رسیوں میں جو جکڑتے ہیں تیرے شانوں کو
+کاش اتنا کوئی بتلا دے مسلمانوں کو
+تو ہے مختار دو عالم کی نواسی زینب
+
+۷
 عمر بھر سر کبھی غیرت سے اٹھایا نہ گیا
 درد منہال سے بھی دل کا سنایا نہ گیا
 پوچھے عابد سے کوئی تیری اسیری زینب
 
-۷
-اس قدر تشنہ جگر تشنہ دہن کوئی نہیں
-لاکھوں بہنیں ہیں مگر ایسی بہن کوی نہیں
-بھای کی یاد میں بیٹوں کو نہ روی زینب
-
 ۸
-آے ہیں نیر و عامر بھی سلامی کے لئے
-ہم تو پیدا ہی ہوے تیری غلامی کے لئے
+اس قدر تشنہ جگر تشنہ دہن کوئی نہیں
+لاکھوں بہنیں ہیں مگر ایسی بہن کوئی نہیں
+بھائی کی یاد میں بیٹوں کو نہ روئی زینب
+
+۹
+آئے ہیں نیر و عامر بھی سلامی کے لئے
+ہم تو پیدا ہی ہوئے تیری غلامی کے لئے
 ماؤں بہنوں کا شرف تیری کنیزی زینب
