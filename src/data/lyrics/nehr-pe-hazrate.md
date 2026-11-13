@@ -1,120 +1,111 @@
 ---
 title: "نہر پہ حضرتِ عباس کے لاشے کے قریب"
-alternateTitle: "Nehr Pe Hazrate"
+alternateTitle: "Nehr Pe Hazrat-e-Abbas Ke Laashe Ke Qarib"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Sachey Bhai"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
-aliases: []
+aliases: ["Nehr Pe Hazrate"]
 published: false
 romanLyrics: |-
-  Nehr pe hazrate abbas ke laashe ke khareeb
-  Ek behan khastatan o kushta jigar khufta naseeb
-  Benawa bekas o beparda o lachaar o ghareeb
-  Lekin uspar bhi mohamad ke gharane ki nakheeb
-
   1
-  Zard chehre pe hai bikhre hue balon ki naqaab
-  Jaise juz daan mein lipti hui ismat ki kitab
-  Ja baja jism pe hai khoon ke dhabbon ke nishan
-  Jaise peeri mein uthayi ho koi laashe jawan
+  Nehr pe Hazrat-e-Abbas ke laashe ke qarib
+  Ik behan khasta tan o kushta jigar khufta nasib
+  Benawa bekas o beparda o laachaar o gharib
+  Lekin us par bhi Muhammad ke gharaane ki naqib
+  Zard chehre pe hai bikhre hue baaloṅ ki naqaab
+  Jaise juz daanoṅ mein lipti hui ismat ki kitaab
 
   2
-  Waram ankhon mein kamal kham hai to khamosh zaban
-  Zapt ka phir bhi ye aalam hai ke girya na fughan
-  Kaun bibi hai jo is tarha se jaan khoti hai
-  Jis tarha laash pe bhai ke behan roti hai
+  Ja baja jism pe haiṅ khun ke dhabboṅ ke nishaan
+  Jaise piri mein uthaayi ho koi laash-e-jawaan
+  Waram aaṅkhoṅ mein kamaal kham hai to khaamosh zabaan
+  Zabt ka phir bhi ye aalam hai ke girya na fughaaṅ
+  Kaun Bibi hai jo is tarah se jaaṅ khoti hai
+  Jis tarah laash pe bhaai ke behan roti hai
 
   3
-  Mehwiyat ka hai ye aalam ke nazar hat'ti nahi
-  Choomti hai kabhi shaane to kabhi jhuk ke jabeen
-  Kabhi tharra'ta hai laasha kabhi maqtal ki zameen
-  Khauf hai arshe ilaahi na ulat jaye kahin
+  Mehwiyat ka hai ye aalam ke nazar hatti nahiṅ
+  Chumti hai kabhi shaane to kabhi jhuk ke jabiṅ
+  Kabhi tharraata hai laasha kabhi maqtal ki zamiṅ
+  Khauf hai arsh-e-Ilaahi na ulat jaaye kahiṅ
+  Laash-e-Abbas pe ye dukhtar-e-Haider to nahiṅ
+  Dekhiye dekhiye ye Zainab-e-muztar to nahiṅ
 
   4
-  Laashe abbas pe ye dukhtare hyder to nahi
-  Dekhiye dekhiye ye zainab e muztar to nahi
-  Roke kehti hai utho saahib e shamsheer utho
-  Hyder e asr utho waqt ke shabbir utho
+  Ro ke kehti hai utho saahib-e-shamshir utho
+  Haider-e-asr utho waqt ke Shabbir utho
+  Aal-e-tathir ki soyi hui taqdir utho
+  Kaat do Aabid-e-dilgir ki zanjir utho
+  Aag hi aag hai bharki hui khaimoṅ mein tamaam
+  Chhin gayi sar se rida jaati huṅ main su-e-Shaam
 
   5
-  Aale tatheer ki soyi hui taqdeer utho
-  Kaat do abide dilgeer ki zanjeer utho
-  Aag hi aag hai bhadki hui qaimon mein tamaam
-  Chin gayi sar se rida jati hoo mai suye shaam
+  Shaane kya tere kate bandh gayi baazu mein rasan
+  Sar pe kya gurz laga ho gayi beparda behan
+  Teri kya jaan gayi maare gaye Shaah-e-zaman
+  Fasl-e-gul aisi luti ho gayi ho gaya barbaad chaman
+  Chain se soyeṅ ge sab ahl-e-sitam raatoṅ ko
+  Khauf-e-aada se na so paayeṅ ge ham raatoṅ ko
 
   6
-  Shaane kya tere kate band gayi baazu mein rasan
-  Sar pe kya gurz laga hogayi beparda behan
-  Teri kya jaan gayi maare gaye shaah e zaman
-  Fasle gul aisi luti hogaya barbaad chaman
-
-  7
-  Chain se soyenge sab ahle sitam raaton ko
-  Khaufe aada se na so payenge hum raaton ko
-  Waqt e ruqsat hai mere sher ijazat de mujhe
-  Khaafila chalne ko tayyar hai himmat de mujhe
-
-  8
-  Khilmane kufr jala doo wo hararat de mujhe
-  Yani taqreer mein shamsheer ki khaslat de mujhe
-  Ran mein shamsheer chalana to mere kaam nahi
-  Shaam o kufa na ulat doo to mere naam nahi
+  Waqt-e-rukhsat hai mere sher ijaazat de mujhe
+  Qaafila chalne ko tayyaar hai himmat de mujhe
+  Khilman-e-kufr jala duṅ wo haraarat de mujhe
+  Yaani taqrir mein shamshir ki khaslat de mujhe
+  Ran mein shamshir chalaana to mera kaam nahiṅ
+  Shaam o Kufa na ulat duṅ to mera naam nahiṅ
 # source_id: nohayonline:6a8c5776ef633c9830a3
 # source_url: https://www.nohayonline.com/details_content.php?id=750
 # raw_sha256: f06b3c40ebf2b17f97767ff9367a9ed920a6204662165f388791cc9b78f466dd
 ---
-نہر پہ حضرتِ عباس کے لاشے کے قریب
-اک بہن خستہ تن و کشتہ جگرخفتہ نصیب
-بے نوا بے کس و بے پردہ ولاچار و غریب
-لیکن اُس پر بھی محمد کے گھرانے کی نقیب
-
 ۱
-ذرد چہرے پہ ہے بکھرے ہوئے بالوں کی نقاب
+نہر پہ حضرتِ عباس کے لاشے کے قریب
+اک بہن خستہ تن و کشتہ جگر خفتہ نصیب
+بے نوا بے کس و بے پردہ و لاچار و غریب
+لیکن اُس پر بھی محمد کے گھرانے کی نقیب
+زرد چہرے پہ ہے بکھرے ہوئے بالوں کی نقاب
 جیسے جُز دانوں میں لپٹی ہوئی عِصمت کی کتاب
-جا بجا جسم پہ ہیں خون کے دھبوں کے نشان
-جیسے پیری میں اُٹھائی ہو کوئی لاشِ جوان
 
 ۲
+جا بجا جسم پہ ہیں خون کے دھبوں کے نشان
+جیسے پیری میں اُٹھائی ہو کوئی لاشِ جوان
 ورم آنکھوں میں کمال خم ہے تو خاموش زبان
 ضبط کا پھر بھی یہ عالم ہے کہ گریہ نہ فغاں
-کون بی بی ہے جو اس طرح سے جاں کھوتی ہے
-جس طرح لاش پہ بھائی کہ بہن روتی ہے
+کون بی‌بی ہے جو اس طرح سے جاں کھوتی ہے
+جس طرح لاش پہ بھائی کے بہن روتی ہے
 
 ۳
 مہویت کا ہے یہ عالم کہ نظر ہٹتی نہیں
-چومتی ہے کبھی شانے تو کبھی جھک کہ جبیں
+چومتی ہے کبھی شانے تو کبھی جھک کے جبیں
 کبھی تھراتا ہے لاشہ کبھی مقتل کی زمیں
 خوف ہے عرشِ الٰہی نہ اُلٹ جائے کہیں
+لاشِ عباس پہ یہ دُخترِ حیدر تو نہیں
+دیکھیے دیکھیے یہ زینبِ مضطر تو نہیں
 
 ۴
-لاشِ عباس پہ یہ دُخترِ حیدر تو نہیں
-دیکھیئے دیکھیئے یہ زینبِ مضطر تو نہیں
 رو کے کہتی ہے اُٹھو صاحبِ شمشیر اُٹھو
-حیدر ِ عصر اُٹھو وقت کے شبیر اُٹھو
-
-۵
-آلِ تطہیرکی سوئی ہوئی تقدیر اُٹھو
+حیدرِ عصر اُٹھو وقت کے شبیر اُٹھو
+آلِ تطہیر کی سوئی ہوئی تقدیر اُٹھو
 کاٹ دو عابدِ دلگیر کی زنجیر اُٹھو
 آگ ہی آگ ہے بھڑکی ہوئی خیموں میں تمام
-چھِن گئی سر سے رداجاتی ہوں میں سوئے شام
+چھِن گئی سر سے ردا جاتی ہوں میں سوئے شام
 
-۶
+۵
 شانے کیا تیرے کٹے بندھ گئی بازو میں رسن
 سر پہ کیا گُرز لگا ہو گئی بے پردہ بہن
 تیری کیا جان گئی مارے گئے شاہِ زمن
 فصلِ گُل ایسی لُٹی ہو گئی ہو گیا برباد چمن
-
-۷
 چین سے سوئیں گے سب اہلِ ستم راتوں کو
-خوفِ اعدائ سے نہ سو پائیں گے ہم راتوں کو
+خوفِ اعدا سے نہ سو پائیں گے ہم راتوں کو
+
+۶
 وقتِ رُخصت ہے میرے شیر اجازت دے مجھے
 قافلہ چلنے کو تیار ہے ہمت دے مجھے
-
-۸
-خِلمنِ کفرجلا دوں وہ حرارت دے مجھے
+خِلمنِ کفر جلا دوں وہ حرارت دے مجھے
 یعنی تقریر میں شمشیر کی خصلت دے مجھے
 رن میں شمشیر چلانا تو میرا کام نہیں
-شام و قوفہ نہ اُلٹ دوں تو میرا نام نہیں
+شام و کوفہ نہ اُلٹ دوں تو میرا نام نہیں

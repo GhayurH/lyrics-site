@@ -2886,10 +2886,10 @@ src/data/lyrics/nazar-jhuka-lo.md,standalone_lyrics,imported,nohayonline,pending
 src/data/lyrics/nazb-darya-par.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: opening ""منزلیں آفت"" vs izafat reading; s3 ""کچھ ربیب"" and ""معلوم رہنا""; s5 ""راز افشاں""."
 src/data/lyrics/nazdeek-najaf-hai.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,first_sweep,,
 src/data/lyrics/neend-aayegi-jab.md,standalone_lyrics,imported,nohayonline+ziyaraat,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s6 Urdu ""کے ... نیند نہ آئے"" versus Roman ""ke ... neend na aayi"" (both archives); confirm ""کہ"" and ""آئی"" before changing Urdu."
-src/data/lyrics/neend-kya-khaak.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/nehr-par-laasha.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/nehr-pe-hazrate.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/nigah-e-ishq-mein-izat-maab-thi-hi-nahi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/neend-kya-khaak.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s4 ""ہو گیا ٹکڑے جگر""; confirm the source reading and word order."
+src/data/lyrics/nehr-par-laasha.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s3 ""مات دے ہے"" vs ""مات دی ہے""."
+src/data/lyrics/nehr-pe-hazrate.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s1 ""جُز دانوں"" vs Roman singular ""juz daan""; s2 ""کمال خم ہے تو"" and ""جاں کھوتی ہے""; s5 extra ""ہو گئی"" before ""ہو گیا برباد چمن""; s6 ""خِلمنِ کفر"" vs ""خرمنِ کفر""."
+src/data/lyrics/nigah-e-ishq-mein-izat-maab-thi-hi-nahi.md,standalone_lyrics,imported,tajpoints,pending,reviewed,reviewed,reviewed,not_applicable,reviewed,first_sweep,,
 src/data/lyrics/nigheban-e-risalat-mohsin-naqvi-lyrics-2023.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/nikal-do-mere-pehlu.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/nikla-hai-janaza-koi-allah-ke-ghar-se.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,

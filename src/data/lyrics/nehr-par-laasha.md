@@ -6,44 +6,45 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Musaddiq Lakhani"
+reciter: "Rizwan Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Nehr par laasha pada hai bawafa abbas ka
-  Uth gaya behno ke sar se aasra abbas ka
+  Nehr par laasha para hai bawafa Abbas ka
+  Uth gaya behnoṅ ke sar se aasra Abbas ka
 
   1
-  Phaynk do haathon se kooza dekho suraj dhal gaya
-  Ay sakina ab na dekho raasta abbas ka
+  Phenk do haathoṅ se kuza dekho suraj dhal gaya
+  Ae Sakina ab na dekho raasta Abbas ka
 
   2
-  Baazuon ka gham na tha lekin jo mashkeeza chida
-  Aisa lagta tha kaleja chid gaya abbas ka
+  Baazuoṅ ka gham na tha lekin jo mashkiza chhida
+  Aisa lagta tha kaleja chhid gaya Abbas ka
 
   3
-  Maath de hai pyaas ko pyase ne pani ke baghair
-  Mauj e darya dekh ye hai maujiza abbas ka
+  Maat de hai pyaas ko pyaase ne paani ke baghair
+  Mauj-e-darya dekh ye hai mojiza Abbas ka
 
   4
-  Lab larazte thay magar maula ko bhai keh diya
-  Hukm ki tameel karna kaam tha abbas ka
+  Lab larazte the magar Maula ko bhaai keh diya
+  Hukm ki taamil karna kaam tha Abbas ka
 
   5
-  Jab sakina ki taraf badne laga shimr e layeen
-  Saahil e darya pe laasha kaamp utha abbas ka
+  Jab Sakina ki taraf barhne laga Shimr-e-laiṅ
+  Saahil-e-darya pe laasha kaaṅp utha Abbas ka
 
   6
-  Yun sakina ka safar tha karbala se shaam tak
-  Tha nazar mein har ghadi chehra chacha abbas ka
+  Yuṅ Sakina ka safar tha Karbala se Shaam tak
+  Tha nazar mein har ghari chehra chacha Abbas ka
 
   7
-  Haq ada hota nahi hai in se ay ummul baneen
-  Jitna bhi matam kare ahle aza abbas ka
+  Haq ada hota nahiṅ hai in se Ae Ummul Baniṅ
+  Jitna bhi maatam kare ahl-e-aza Abbas ka
 
   8
-  Ho musadiq ka qalam har dum wafadar e hussain
-  Khaaliq e abbas tujhko waasta abbas ka
+  Ho Musaddiq ka qalam har dam wafadaar-e-Husain
+  Khaaliq-e-Abbas tujhko waasta Abbas ka
 # source_id: nohayonline:e5254b60ea209a2d42e7
 # source_url: https://www.nohayonline.com/details_content.php?id=3779
 # raw_sha256: 736da3997163a1f3a377b0b1e924b7239c53c99decd1d97b0c8d94422a8e1060
@@ -56,20 +57,20 @@ romanLyrics: |-
 اے سکینہ اب نہ دیکھو راستہ عباس کا
 
 ۲
-بازؤں کا غم نہ تھا لیکن جو مشکیزہ چھدا
+بازوؤں کا غم نہ تھا لیکن جو مشکیزہ چھدا
 ایسا لگتا تھا کلیجہ چھد گیا عباس کا
 
 ۳
 مات دے ہے پیاس کو پیاسے نے پانی کے بغیر
-موج دریا دیکھ یہ ہے معجزہ عباس کا
+موجِ دریا دیکھ یہ ہے معجزہ عباس کا
 
 ۴
-لب لرزتے تھے مگر مولا کو بھای کہہ دیا
+لب لرزتے تھے مگر مولا کو بھائی کہہ دیا
 حکم کی تعمیل کرنا کام تھا عباس کا
 
 ۵
 جب سکینہ کی طرف بڑھنے لگا شمر لعیں
-ساحل دریا پہ لاشہ کانپ اٹھا عباس کا
+ساحلِ دریا پہ لاشہ کانپ اٹھا عباس کا
 
 ۶
 یوں سکینہ کا سفر تھا کربلا سے شام تک
@@ -77,8 +78,8 @@ romanLyrics: |-
 
 ۷
 حق ادا ہوتا نہیں ہے ان سے اے ام البنیں
-جتنا بھی ماتم کرے اہل عزا عباس کا
+جتنا بھی ماتم کرے اہلِ عزا عباس کا
 
 ۸
-ہو مصدق کا قلم ہر دم وفادار حسین
-خالق عباس تجھکو واسطہ عباس کا
+ہو مصدق کا قلم ہر دم وفادارِ حسین
+خالقِ عباس تجھکو واسطہ عباس کا
