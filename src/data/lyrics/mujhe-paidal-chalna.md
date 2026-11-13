@@ -9,71 +9,52 @@ poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Nadeem Sarwar"
 romanLyrics: |-
-  Zindan se reha hokar jis dam
-  Jab karbobala may aaye haram
-  Naaqe se giri zainab dukhiya
-  Aur zakhmi zakhmi rakti qadam
+  Zindaan se reha ho kar jis dam
+  Jab Karb o Balaa mein aaye haram
+  Naaqe se giri Zainab dukhiya
+  Aur zakhmi zakhmi rakhti qadam
+  Ro kar Ghazi se kehne lagi
+  Baba ne mujhe samjhaya tha
+  Ae beti ghar mein paidal chal
+  Chalna hai tujhe miloṅ tanha
+  O mere Ghazi ghairat wale
+  Haa meri chaadar ke rakhwale
+  Haa mujhe gir ke sambhalna aa gaya
+  Mujhe paidal chalna aa gaya
+  Mujhe paidal chalna aa gaya Abbas
+  Main kuṅ paidal turna aa gaya Abbas
 
   1
-  Ro kar ghazi se kehne lagi
-  Baba ne mujhe samjhaya tha
-  Ay beti ghar may paidal chal
-  Chalna hai tujhe meelon tanha
+  Mashk o alam wale mere
+  Shah-e-Wafa aawaaz de
+  Ummul Banin ke laadle
+  Har gham se guzarna aa gaya
 
   2
-  O mere ghazi ghairat waale
-  Haa meri chadar ke rakhwale
-  Haa mujhe gir ke sambhalna aagaya
-  Mujhe paidal chalna aagaya
+  Le Shaam se main aa gayi
+  Ghazi main kiuṅ zinda rahi
+  Saaya na tha miloṅ koi
+  Mujhe dhup mein chalna aa gaya
 
   3
-  Mujhe paidal chalna aagaya abbas
-  Meko paidal turna aagaya abbas
-  Mashk-o-alam waale mere
-  Shaahe wafa awaaz de
+  Dekhe saje adaa ke ghar
+  Naizoṅ pe the pyaaroṅ ke sar
+  Tukre hua mera jigar
+  Mujhe yaad Madina aa gaya
 
   4
-  Ummul baneen ke laadle
-  Har gham se guzarna aa gaya
-  Mujhe paidal chalna…
-  Meko paidal turna…
+  Baazaar tha darbaar tha
+  Zanjir thi bimaar tha
+  Jina mera dushwaar tha
+  Har dard ko sehna aa gaya
 
   5
-  Le shaam se mai aa gayi
-  Ghazi mai kyun zinda rahi
-  Saaya na tha meelon koi
-  Mujhe dhoop may chalna aagaya
-
-  6
-  Mujhe paidal chalna…
-  Meko paidal turna…
-  Dekhe sajay aada ke ghar
-  Naizon pe thay pyaron ke sar
-
-  7
-  Tukde huwa mera jigar
-  Mujhe yaad madina aagaya
-  Mujhe paidal chalna....
-  Meko paidal turna....
-
-  8
-  Bazaar tha darbar tha
-  Zanjeer thi bemaar tha
-  Jeena mera dushwaar tha
-  Har dard ko sehna aagaya
-
-  9
-  Mujhe paidal chalna....
-  Meko paidal turna....
-  Ay sarwar o rehaan ab
+  Ae Sarwar o Rehaan ab
   Socho zara kya tha ghazab
-
-  10
-  Bint e ali kehti thi jab
-  Mujhe jeena marna aagaya
-  Mujhe paidal chalna....
-  Meko paidal turna....
+  Bint-e-Ali kehti thi jab
+  Mujhe jina marna aa gaya
 # source_id: nohayonline:9169d410313c4b6751ee
 # source_url: https://www.nohayonline.com/details_content.php?id=404
 # raw_sha256: d1f1e305ca3baa3e3b0fb3e85f166fbe5acccb65770de5c4194f21953046e39c
@@ -82,63 +63,43 @@ romanLyrics: |-
 جب کرب و بلا میں آئے حرم
 ناقے سے گری زینب دکھیا
 اور زخمی زخمی رکھتی قدم
-
-۱
 رو کر غازی سے کہنے لگی
-بابا نے مجھے سمجھا یا تھا
+بابا نے مجھے سمجھایا تھا
 اے بیٹی گھر میں پیدل چل
 چلنا ہے تجھے میلوں تنہا
-
-۲
 او میرے غازی غیرت والے
 ہا میری چادر کے رکھوالے
 ہا مجھے گر کے سنبھلنا آ گیا
 مجھے پیدل چلنا آ گیا
-
-۳
 مجھے پیدل چلنا آ گیا عباس
 میں کوں پیدل ٹُرنا آ گیا عباس
+
+۱
 مشک و علم والے میرے
 شاہِ وفا آواز دے
-
-۴
 اُمُ البنین کے لاڈلے
 ہر غم سے گزرنا آ گیا
-مجھے پیدل چلنا ۔۔۔
-میں کوں پیدل ٹُرنا ۔۔۔
 
-۵
+۲
 لے شام سے میں آ گئی
 غازی میں کیوں زندہ رہی
 سایہ نہ تھا میلوں کوئی
 مجھے دھوپ میں چلنا آ گیا
 
-۶
-مجھے پیدل چلنا ۔۔۔
-میں کوں پیدل ٹُرنا ۔۔۔
+۳
 دیکھے سجے عدا کے گھر
 نیزوں پہ تھے پیاروں کے سر
-
-۷
 ٹکڑے ہوا میرا جگر
 مجھے یاد مدینہ آ گیا
-مجھے پیدل چلنا ۔۔۔
-میں کوں پیدل ٹُرنا ۔۔۔
 
-۸
+۴
 بازار تھا دربار تھا
 زنجیر تھی بیمار تھا
 جینا میرا دشوار تھا
 ہر درد کو سہنا آ گیا
 
-۹
-مجھے پیدل چلنا ۔۔۔
-میں کوں پیدل ٹُرنا ۔۔۔
+۵
 اے سرور و ریحان اب
 سوچو ذرا کیا تھا غضب
-
-۱۰
 بنتِ علی کہتی تھی جب
 مجھے جینا مرنا آ گیا
-مجھے پیدل چلنا ۔۔۔
-میں کوں پیدل ٹُرنا ۔۔۔

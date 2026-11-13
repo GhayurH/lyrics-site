@@ -9,71 +9,72 @@ poet: "Safdar Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Safdar Abbas"
 romanLyrics: |-
-  Mujhe qaidi samajh nahi shireen
-  Kar ghaur zara mai zainab hoo
+  Mujhe qaidi samajh nahiṅ Shiriṅ
+  Kar ghaur zara main Zainab huṅ
   Tere shehr mein dekh ye haal hua
-  Nahi sar pe rida mai zainab hoo
+  Nahiṅ sar pe rida main Zainab huṅ
 
   1
   Kar yaad wasiyat bhai ki
-  Mehmaan banenge hum tere
-  Pehchan mujhe in baalon se
-  Chehre pe pade hai jo mere
+  Mehmaan baneṅge hum tere
+  Pehchaan mujhe in baaloṅ se
+  Chehre pe pare haiṅ jo mere
   Dil gham se phata jaata hai mera
-  Kar koi dawa mai zainab hoo
+  Kar koi dawa main Zainab huṅ
 
   2
-  Jis shehr ki mai shehzadi thi
-  Aayi hoo wahan qaidi ban kar
-  Quran ki tilawat karta hai
+  Jis shehr ki main shehzaadi thi
+  Aayi huṅ wahaaṅ qaidi ban kar
+  Quraaṅ ki tilaawat karta hai
   Wo dekh mere bhai ka sar
-  Pehchan mujhe kya aur kahoo
-  Ab iske siwa mai zainab hoo
+  Pehchaan mujhe kya aur kahuṅ
+  Ab is ke siwa main Zainab huṅ
 
   3
-  Nazron ko utha kar dekh zara
-  Naizon pe shaheedon ke sar hai
-  Bemaar bhatija saath mere
-  Aur ahle haram be-chadar hai
-  Aulaad e ali hone ki yahan
-  Paayi hai saza mai zainab hoo
+  Nazroṅ ko utha kar dekh zara
+  Naizoṅ pe shahidoṅ ke sar haiṅ
+  Bimaar bhatija saath mere
+  Aur Ahl-e-Haram bechaadar haiṅ
+  Aulaad-e-Ali hone ki yahaaṅ
+  Paayi hai saza main Zainab huṅ
 
   4
-  Shireen kya kya batlaun tujhe
-  Jo zulm sahay hai raahon mein
-  Sunti hai yateemon ke naale
-  Kya karb inki aahon mein
-  Sehti hoo jafayein ummat ki
-  Be-jurm khata mai zainab hoo
+  Shiriṅ kya kya batlaauṅ tujhe
+  Jo zulm sahe haiṅ raahoṅ mein
+  Sunti hai yatimoṅ ke naale
+  Kya karb hai in ki aahoṅ mein
+  Sehti huṅ jafaaeṅ ummat ki
+  Bejurm khata main Zainab huṅ
 
   5
-  Hum aal e mohamed hai shireen
-  Ye kunba koi aur nahi
-  Tu ghaur se dekhle chehron ko
-  Pairon se tere niklegi zameen
-  Ye hai laila ye bano hai
-  Ye hai farwa mai zainab hoo
+  Hum Aal-e-Muhammad hai Shiriṅ
+  Ye kunba koi aur nahiṅ
+  Tu ghaur se dekh le chehroṅ ko
+  Pairoṅ se tere niklegi zamiṅ
+  Ye hai Laila ye Bano hai
+  Ye hai Farwa main Zainab huṅ
 
   6
-  Safdar roodad ye zainab ki
-  Sun jar shireen behosh hui
-  Kehti thi peet ke sar apna
-  Hae maut mujhe kyun na aayi
-  Jab mujhse meri aaqa zaadi
-  Zainab ne kaha mai zainab hoo
+  Safdar rudaad ye Zainab ki
+  Sun kar Shiriṅ behosh hui
+  Kehti thi pit ke sar apna
+  Haae maut mujhe kiuṅ na aayi
+  Jab mujh se meri aaqa zaadi
+  Zainab ne kaha main Zainab huṅ
 # source_id: nohayonline:8c512249e247f553d09d
 # source_url: https://www.nohayonline.com/details_content.php?id=1559
 # raw_sha256: 4157664f51da354544f678ee92fb8d771e16524661ba8f1291a653a0dd98ede5
 ---
 مجھے قیدی سمجھ نہیں شیریں
-کر غور زرا میں زینب ہوں
+کر غور ذرا میں زینب ہوں
 تیرے شہر میں دیکھ یہ حال ہوا
 نہیں سر پہ ردا میں زینب ہوں
 
 ۱
-کر یاد وصیت بھای کی
-مہمان بنینگے ہم تیرے
+کر یاد وصیت بھائی کی
+مہمان بنیں گے ہم تیرے
 پہچان مجھے ان بالوں سے
 چہرے پہ پڑے ہیں جو میرے
 دل غم سے پھٹا جاتا ہے میرا
@@ -81,40 +82,40 @@ romanLyrics: |-
 
 ۲
 جس شہر کی میں شہزادی تھی
-آی ہوں وہاں قیدی بن کر
+آئی ہوں وہاں قیدی بن کر
 قرآں کی تلاوت کرتا ہے
 وہ دیکھ میرے بھائی کا سر
 پہچان مجھے کیا اور کہوں
 اب اس کے سوا میں زینب ہوں
 
 ۳
-نظروں کو اٹھا کر دیکھ زرا
+نظروں کو اٹھا کر دیکھ ذرا
 نیزوں پہ شہیدوں کے سر ہیں
 بیمار بھتیجا ساتھ میرے
 اور اہلِ حرم بے چادر ہیں
-اولاد علی ہونے کی یہاں
-پای ہے سزا میں زینب ہوں
+اولادِ علی ہونے کی یہاں
+پائی ہے سزا میں زینب ہوں
 
 ۴
 شیریں کیا کیا بتلاؤں تجھے
 جو ظلم سہے ہیں راہوں میں
 سنتی ہے یتیموں کے نالے
-کیا کرب ہے انکی آہوں میں
-سہتی ہوں جفاییں امت کی
+کیا کرب ہے ان کی آہوں میں
+سہتی ہوں جفائیں امت کی
 بے جرم خطا میں زینب ہوں
 
 ۵
-ہم آل محمّد ہے شیریں
+ہم آلِ محمد ہے شیریں
 یہ کنبہ کوئی اور نہیں
-تو غور سے دیکھلے چہروں کو
+تو غور سے دیکھ لے چہروں کو
 پیروں سے تیرے نکلے گی زمیں
 یہ ہے لیلیٰ یہ بانو ہے
 یہ ہے فروہ میں زینب ہوں
 
 ۶
 صفدر روداد یہ زینب کی
-سن کر بیہوش ہوی
+سن کر شیریں بے ہوش ہوئی
 کہتی تھی پیٹ کے سر اپنا
-ہاے موت مجھے کیوں نہ آی
+ہائے موت مجھے کیوں نہ آئی
 جب مجھ سے میری آقا زادی
 زینب نے کہا میں زینب ہوں
