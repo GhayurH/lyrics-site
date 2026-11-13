@@ -1,60 +1,61 @@
 ---
-title: "مشکیزئہ سکینہ کہتا ہے علقمہ سے"
-alternateTitle: "Mashkeeza E Sakina"
+title: "مشکیزۂ سکینہ کہتا ہے علقمہ سے"
+alternateTitle: "Mashkiza-e-Sakina"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
+reciter: "Kashif Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Mashkeeza e sakina kehta hai alqama se
-  Qaimon mein tishnagi hai asghar bahot hai pyase
+  Mashkiza-e-Sakina kehta hai Alqama se
+  Khaimoṅ mein tishnagi hai Asghar bahut haiṅ pyase
   
   1
-  Sookhe hue labon par likhi hai ye kahani
-  Hai aale mustufa par haftum se bandh pani
-  Ay kaash rok deta koi teri rawani
-  Awaaze al-atash hai har samt har faza se
+  Sukhe hue laboṅ par likhi hai ye kahaani
+  Hai Aal-e-Mustafa par haftum se band pani
+  Ae kaash rok deta koi teri rawaani
+  Aawaaz-e-al-atash hai har samt har faza se
   
   2
-  Har kishte aarzoo ko be-aab kar gayi hai
-  Ahle haram mein sab ko betaab kar gayi hai
-  Akbar ka khoon se barchi sairaab kar gayi hai
+  Har kisht-e-aarzu ko beaab kar gayi hai
+  Ahl-e-haram mein sab ko betaab kar gayi hai
+  Akbar ke khun se barchhi sairaab kar gayi hai
   Ghar ke charagh bhi ab bujhne lage hawa se
   
   3
   Hasrat se tak raha hai bedast apne baazu
-  Rakhe to kaise rakhe jazbat par wo qaabu
-  Chehre pe beh rahe hai chashme jari ke aansu
-  Wabasta sab umeedein bachi ki hai chacha se
+  Rakhe to kaise rakhe jazbaat par wo qaabu
+  Chehre pe beh rahe haiṅ chashm-e-jari ke aansu
+  Waabasta sab umideṅ bachchi ki haiṅ chacha se
   
   4
-  Arshe bari hai larza insaniyat hai gumsum
-  Roka gaya kuch aise shabbir ka takallum
-  Hichki ke saath ubhra phir khoon bhara tabassum
-  Ghuncha jhulas gaya hai paikaane hurmula se
+  Arsh-e-bariṅ hai larza insaaniyat hai gum sum
+  Roka gaya kuchh aise Shabbir ka takallum
+  Hichki ke saath ubhra phir khuṅ bhara tabassum
+  Ghuncha jhulas gaya hai paikaan-e-Hurmala se
   
   5
-  Shahid hai gham ka manzar wo shiddate atash hai
-  Tadpenge kaise sarwar wo shiddate atash hai
-  Rukne laga hai khanjar wo shiddate atash hai
-  Sharminda tishnagi hai mazloome karbala se
+  Shahid hai gham ka manzar wo shiddat-e-atash hai
+  Tarpeṅge kaise Sarwar wo shiddat-e-atash hai
+  Rukne laga hai khanjar wo shiddat-e-atash hai
+  Sharminda tishnagi hai mazlum-e-Karbala se
 # source_id: nohayonline:7704d8ac30140d638797
 # source_url: https://www.nohayonline.com/details_content.php?id=724
 # raw_sha256: 1ca8ec5ec0a61a769dbf6caaa27a082156c559c796dcf4c3ab4456208bb18f10
 ---
 
-مشکیزئہ سکینہ کہتا ہے علقمہ سے
+مشکیزۂ سکینہ کہتا ہے علقمہ سے
 خیموں میں تشنگی ہے اصغر بہت ہیں پیاسے
 
 ۱
 سوکھے ہوئے لبوں پر لکھی ہے یہ کہانی
-ہے آلِ مصطفیٰ پر ہفتم سے بندھ پانی
+ہے آلِ مصطفیٰ پر ہفتم سے بند پانی
 اے کاش روک دیتا کوئی تیری روانی
-آوازِ العتش ہے ہر سمت ہر فضا سے
+آوازِ العطش ہے ہر سمت ہر فضا سے
 
 ۲
 ہر کشتِ آرزو کو بے آب کر گئی ہے
@@ -75,7 +76,7 @@ romanLyrics: |-
 غنچہ جھُلس گیا ہے پیکانِ حرملا سے
 
 ۵
-شاہد ہے غم کا منظر وہ شدتِ عتش ہے
-تڑپیں گے کیسے سرور وہ شدتِ عتش ہے
-رُکنے لگا ہے خنجر وہ شدتِ عتش ہے
+شاہد ہے غم کا منظر وہ شدتِ عطش ہے
+تڑپیں گے کیسے سرور وہ شدتِ عطش ہے
+رُکنے لگا ہے خنجر وہ شدتِ عطش ہے
 شرمندہ تشنگی ہے مظلومِ کربلا سے

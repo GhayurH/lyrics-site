@@ -1,81 +1,82 @@
 ---
 title: "مشکیزہ غازی بھرا ہے لے کے چلو میں فرات"
-alternateTitle: "Mashkeeza Ghazi"
+alternateTitle: "Mashkiza Ghazi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Iqbal Abedi"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Mashkeeza ghazi bhara hai leke chullu mein furaat
+  Mashkiza Ghazi bhara hai le ke chullu mein Furaat
   
   1
-  Sajde mein sarwar gaye jab asr ka hangaam tha
-  Chal raha tha kund khanjar bas khuda ka naam tha
-  Zainab e muztar ke lab par nauha subho shaam tha
+  Sajde mein Sarwar gaye jab asr ka hangaam tha
+  Chal raha tha kund khanjar bas Khuda ka naam tha
+  Zainab-e-muztar ke lab par nauha subh shaam tha
   
   2
-  Barchi khaye ran mein akbar teer khaye aur sagheer
-  Berida ahle haram jab hogaye abid aseer
-  Naiza par sar haye aqda aur thay farqe muneer
+  Barchhi khaae ran mein Akbar tir khaae aur Saghir
+  Berida ahl-e-haram jab ho gaye Aabid asir
+  Naize par sar haae aqda aur the farq-e-munir
   
   3
-  Dekh kar zulm o sitam aada ke mai tharra gayi
-  Kya kahun sheh ki shahadat kis khadar tadpa gayi
-  Haye wo bali sakina shimr se ghabra gayi
+  Dekh kar zulm o sitam aada ke main tharra gayi
+  Kya kahuṅ Shah ki shahaadat kis qadar tarpa gayi
+  Haae wo baali Sakina Shimr se ghabra gayi
   
   4
-  Bhai ki khatir behen maqtal mein roti aayi thi
-  Dil ko thaame berida mai kya khun ghabrayi thi
-  Jab chini sar se ridayein kis khadar sharmayi thi
+  Bhai ki khaatir behen maqtal mein roti aai thi
+  Dil ko thaame berida main kya kahuṅ ghabraai thi
+  Jab chhini sar se ridaaeṅ kis qadar sharmaai thi
   
   5
-  Pani ki khatir huwe jaate thay bacche bad hawas
-  Seh gaya jor o sitam ghazi mera tha sheh ka paas
-  Thi alamdar e hussaini se badi zainab ko aas
+  Pani ki khaatir hue jaate the bachche bad hawaas
+  Seh gaya jaur o sitam Ghazi mera tha Shah ka paas
+  Thi alamdaar-e-Husaini se bari Zainab ko aas
   
   6
-  Thi haram ko hazrat e abbas se dhaaras bandhi
-  Baad e abbas e jari mujhko rasan baandhi gayi
-  Bhai ke sookhe galay par shimr ne pheri churi
+  Thi haram ko Hazrat-e-Abbas se dhaaras bandhi
+  Baad-e-Abbas-e-jari mujh ko rasan baandhi gayi
+  Bhai ke sukhe gale par Shimr ne pheri chhuri
   
   7
-  Haath karwa kar qalam likhi hai tareekh e wafa
-  Nusrat e shabbir mein ghazi bhi shaane de gaya
-  Jaan se pyara rakha gham hazrat e shabbir ka
+  Haath karwa kar qalam likhi hai taarikh-e-wafa
+  Nusrat-e-Shabbir mein Ghazi bhi shaane de gaya
+  Jaan se pyaara rakha gham Hazrat-e-Shabbir ka
   
   8
   Bhar chuka tha mashk mein pani na pani wo piya
-  Nehr ke pani pe bhi saaya na uska hai pada
-  Taa'at e shabbir mein shaamil huwe tan se juda
+  Nehr ke pani pe bhi saaya na us ka hai para
+  Taaat-e-Shabbir mein shaamil hue tan se juda
   
   9
-  Hazrate abbas se zaahir tha ejaaz e ali
-  Karbal mein saani e hyder tha dam saaz e ali
-  Bhaag utha hai lashkar e keen sunke awaaz e ali
+  Hazrat-e-Abbas se zaahir tha ejaaz-e-Ali
+  Karbal mein saani-e-Haidar tha dam saaz-e-Ali
+  Bhaag utha hai lashkar-e-kiṅ sun ke aawaaz-e-Ali
   
   10
-  Ghaiz mein aaya jari jibreel ke shay par khule
-  Kya jari ke maujize thay raaz lashkar par khule
-  Maqsad e shabbir par abbas ke jauhar khule
+  Ghaiz mein aaya jari Jibril ke shah par khule
+  Kya jari ke mojize the raaz lashkar par khule
+  Maqsad-e-Shabbir par Abbas ke jauhar khule
   
   11
-  Kis khadar bali sakina ko wo rakhta tha azeez
-  Khair o shar ki hogayi karbobala mein ek tameez
-  Uske gham mein roti thi fizza bhi zehra ki kaneez
+  Kis qadar baali Sakina ko wo rakhta tha aziz
+  Khair o shar ki ho gayi Karb o Bala mein ek tamiz
+  Us ke gham mein roti thi Fizza bhi Zehra ki kaniz
   
   12
-  Haye wo shaam e ghariban haye wo bazaar e shaam
-  Thay layeeno ki zuban par bekason ke paak naam
-  Ahlebaite mustafa thay aur nigaahe khaas o aam
+  Haae wo shaam-e-gharibaṅ haae wo baazaar-e-Shaam
+  The lainoṅ ki zabaaṅ par bekasoṅ ke paak naam
+  Ahl-e-bait-e-Mustafa the aur nigaah-e-khaas o aam
   
   13
-  Sabir o iqbal thay wo zainab e muztar ke bain
-  Baad e abbas e ali jab chin chuka tha sab ka chain
-  Pyase zibha hogaye zehra ke shaahe mashraqain
+  Sabir o Iqbal the wo Zainab-e-muztar ke bain
+  Baad-e-Abbas-e-Ali jab chhin chuka tha sab ka chain
+  Pyase zibh ho gaye Zehra ke shaah-e-mashriqain
 # source_id: nohayonline:25756e6bc6c6c50144fd
 # source_url: https://www.nohayonline.com/details_content.php?id=3256
 # raw_sha256: 466b1e5b6be0197fe1615759c0d4b843f6e0c554d32e303d1253540e28de6939
@@ -84,34 +85,34 @@ romanLyrics: |-
 مشکیزہ غازی بھرا ہے لے کے چلو میں فرات
 
 ۱
-سجدے میں سرور گےء جب عصر کا ہنگام تھا
+سجدے میں سرور گئے جب عصر کا ہنگام تھا
 چل رہا تھا کند خنجر اس خدا کا نام تھا
 زینب مضطر کے لب پر نوحہ صبح شام تھا
 
 ۲
-برچھی کھاے رن میں اکبر تیر کھاے اور صغیر
-بے ردا اہل حرم جب ہو گےء عابد اسیر
+برچھی کھائے رن میں اکبر تیر کھائے اور صغیر
+بے ردا اہل حرم جب ہو گئے عابد اسیر
 نیزہ پر سر ہاے عقدہ اور تھے فرق منیر
 
 ۳
-دیکھ کر ظلم و ستم اعدا کے میں تھرا گیء
-کیا کہوں شہ کی شہادت کس قدر تڑپا گیء
-ہاے وہ بالی سکینہ شمر سے گھبرا گیء
+دیکھ کر ظلم و ستم اعدا کے میں تھرا گئی
+کیا کہوں شہ کی شہادت کس قدر تڑپا گئی
+ہائے وہ بالی سکینہ شمر سے گھبرا گئی
 
 ۴
-بھای کی خاطر بہن مقتل میں روتی آی تھی
-دل کو تھامے بے ردا میں کیا کہوں گھبرای تھی
-جب چھنی سر سے رداییں کس قدر شرمای تھی
+بھائی کی خاطر بہن مقتل میں روتی آئی تھی
+دل کو تھامے بے ردا میں کیا کہوں گھبرائی تھی
+جب چھنی سر سے ردائیں کس قدر شرمائی تھی
 
 ۵
-پانی کی خاطر ہوئے جاتے تھے بچے بد ہواس
-سہہ گیء جور و ستم غازی میرا تھا شہ کا پس
+پانی کی خاطر ہوئے جاتے تھے بچے بد حواس
+سہہ گئی جور و ستم غازی میرا تھا شہ کا پس
 تھی علمدار حسینی سے بڑی زینب کو آس
 
 ۶
-تھی حرم کو حضرتِ عباس ڈھارس بندھی
-بعد عباس جری مجھکو رسن باندھی گیء
-بھای کے سوکھے گلے پر شمر نے پھیری چھری
+تھی حرم کو حضرتِ عباس سے ڈھارس بندھی
+بعد عباس جری مجھ کو رسن باندھی گئی
+بھائی کے سوکھے گلے پر شمر نے پھیری چھری
 
 ۷
 ہاتھ کروا کر قلم لکھی ہے تاریخ وفا
@@ -135,15 +136,15 @@ romanLyrics: |-
 
 ۱۱
 کس قدر بالی سکینہ کو وہ رکھتا تھا عزیز
-خیر و شر کی ہو گیء کربوبلا میں ایک تمیز
+خیر و شر کی ہو گئی کربوبلا میں ایک تمیز
 اس کے غم میں روتی تھی فضہ بھی زہرا کی کنیز
 
 ۱۲
-ہاے وہ شام غریباں ہاے وہ بازار شام
+ہائے وہ شام غریباں ہائے وہ بازار شام
 تھے لعینوں کی زباں پر بیکسوں کے پاک نام
 اہلبیت مصطفیٰ تھے اور نگاہ خاص و عام
 
 ۱۳
 صابر و اقبال تھے وہ زینب مضطر کے بین
 بعد عباس علی جب چھن چکا تھا سب کا چین
-پیاسے ذبح ہو گےء زہرا کے شاہ مشرقین
+پیاسے ذبح ہو گئے زہرا کے شاہ مشرقین

@@ -1,30 +1,32 @@
 ---
-title: "مشک و علم کولےکے جو واپس ہوے حسین"
-alternateTitle: "Mashko Alam Ko"
+title: "مشک و علم کو لے کے جو واپس ہوئے حسین"
+alternateTitle: "Mashk o Alam Ko"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+sixVerseLayout: "pairs"
+reciter: "Mustufa Mirza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   1
-  Mashq o alam ko leke jo wapas hue hussain
-  Akbar bhi saath saath thay karte hue ye bain
-  Bachon ki aas tooti hua ghar may shor o shain
-  Ghash se giri sakina to zainab ke thay ye bain
-  Bachon tumhara saqqa lo ab paas na raha
-  Parda sambhalo bibiyon abbas na raha
+  Mashk o alam ko le ke jo waapas hue Husain
+  Akbar bhi saath saath the karte hue ye bain
+  Bachchoṅ ki aas tuti hua ghar mein shor o shain
+  Ghash se giri Sakina to Zainab ke the ye bain
+  Bachchoṅ tumhaara saqqa lo ab paas na raha
+  Parda sambhaalo Bibiyoṅ Abbas na raha
 # source_id: nohayonline:efaaa01510e6f680a22e
 # source_url: https://www.nohayonline.com/details_content.php?id=914
 # raw_sha256: 9cba098f43e148dbdcd82d348367403c94ecee77ddb50e43f0fb9b8635016bd9
 ---
 
 ۱
-مشک و علم کولےکے جو واپس ہوے حسین
-اکبر بھی ساتھ ساتھ تھے کرتے ہوے یہ بین
+مشک و علم کو لے کے جو واپس ہوئے حسین
+اکبر بھی ساتھ ساتھ تھے کرتے ہوئے یہ بین
 بچوں کی آس ٹوٹی ہوا گھر میں شور و شین
 غش سے گری سکینہ تو زینب کے تھے یہ بین
 بچوں تمہارا سقہ لو اب پاس نہ رہا
-پردہ سنبھالو بیبیوں عباس نہ رہا
+پردہ سنبھالو بی‌بیوں عباس نہ رہا

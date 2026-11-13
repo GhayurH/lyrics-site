@@ -1,58 +1,59 @@
 ---
 title: "مشک و علم کا ذکر وفا کی نماز ہے"
-alternateTitle: "Mashko Alam Ka"
+alternateTitle: "Mashk o Alam Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Ashraf Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Mashk o alam ka zikr wafa ki namaz hai
+  Mashk o alam ka zikr wafa ki namaaz hai
   Himmat ka tazkira hai magar dil gudaaz hai
   
   1
-  Alfaz mukhtasar hai hikayat daraaz hai
-  Abbas par nabi ke nawase ko naaz hai
-  Abbas sher e haq ki adaon ka naam hai
-  Abbas fatema ki duaon ka naam hai
+  Alfaaz mukhtasar hai hikaayat daraaz hai
+  Abbas par Nabi ke nawaase ko naaz hai
+  Abbas sher-e-haq ki adaaoṅ ka naam hai
+  Abbas Fatima ki duaaoṅ ka naam hai
   
   2
-  Abbas ek naam hai insaniyat ka naam
-  Abbas ek payam hai ikhlaas ka payam
-  Abbas ek nizam hai akhlaakh ja nizam
-  Abbas ek imam hai eesaar ka imam
+  Abbas ek naam hai insaaniyat ka naam
+  Abbas ek payaam hai ikhlaas ka payaam
+  Abbas ek nizaam hai akhlaaq ja nizaam
+  Abbas ek imaam hai isaar ka imaam
   
   3
-  Eesaar hai wafa hai murawwat hai sabr hai
-  Barsega karbala mein jo khul kar wo abr hai
-  Shaan o shikoh e jafar e tayyar ki qasam
-  Hamza se bemisal jigar daar ki qasam
+  Isaar hai wafa hai murawwat hai sabr hai
+  Barsega Karbala mein jo khul kar wo abr hai
+  Shaan o shikoh-e-Jafar-e-Tayyaar ki qasam
+  Hamza se bemisaal jigar daar ki qasam
   
   4
-  Taqdeer se doshe hyder e karrar ki qasam
-  Is ohda e jaleel ke meyaar ki qasam
-  Hum kyun kahe ke saani e karrar kaun hai
-  Keh dega khud aalam ke alamdar kaun hai
+  Taqdir se dosh-e-Haidar-e-Karraar ki qasam
+  Is ahd-e-jalil ke miyaar ki qasam
+  Hum kiuṅ kahe ke saani-e-Karraar kaun hai
+  Keh dega khud aalam ke alamdaar kaun hai
   
   5
-  Jaate hai is shikoh se abbas e ba-hasham
+  Jaate haiṅ is shikoh se Abbas ba hasham
   Ek dosh par hai mashk to ek dosh par alam
-  Nazrein lagi hui hai suye qaima e haram
-  Kehte hai ye samand se haan tez tar qadam
+  Nazreṅ lagi hui hai su-e-khaima-e-haram
+  Kehte haiṅ ye samand se haaṅ tez tar qadam
   
   6
   Neki ka hai ye kaam to ujlat ghazab ki hai
-  Pyase rahe jo khud ye karamat nasab ki hai
-  Bhai ke gham mein tha jo mohamed ka noor e ain
-  Aankhon mein ashke gham thay to sookhe labon pa bain
+  Pyase rahe jo khud ye karaamat nasab ki hai
+  Bhai ke gham mein tha jo Muhammad ka nur-e-ain
+  Aankhoṅ mein ashk-e-gham the to sukhe laboṅ pe bain
   
   7
-  Rote thay is taraf to shenshensahe mashraqain
-  Abbas ke labon pa musalsal tha ya hussain
-  Bhai ka naam leke jahan se guzar gaye
-  Mashk o alam ki khair ho abbas mar gaye
+  Rote the is taraf to shahanshaah-e-mashriqain
+  Abbas ke laboṅ pe musalsal tha Ya Husain
+  Bhai ka naam le ke jahaaṅ se guzar gaye
+  Mashk o alam ki khair ho Abbas mar gaye
 # source_id: nohayonline:9dccf8417346c673250b
 # source_url: https://www.nohayonline.com/details_content.php?id=3537
 # raw_sha256: 9a17c47f5338d904f4239baa347bd1b59fd19dbcb57918b34fe20ed7b54ea840
@@ -62,7 +63,7 @@ romanLyrics: |-
 ہمت کا تذکرہ ہے مگر دل گداز ہے
 
 ۱
-الفاظ مختصر ہےحکایت دراز ہے
+الفاظ مختصر ہے حکایت دراز ہے
 عباس پر نبی کے نواسے کو ناز ہے
 عباس شیر حق کی اداؤں کا نام ہے
 عباس فاطمہ کی دعاؤں کا نام ہے
@@ -75,9 +76,9 @@ romanLyrics: |-
 
 ۳
 ایثار ہے وفا ہے مروت ہے صبر ہے
-برسے گا کربلا میں جو کھل کر وہ عرب ہے
-شان و شکن جعفر تیار کی قسم
-ہمزہ سے بے مثال جگر دار کی قسم
+برسے گا کربلا میں جو کھل کر وہ ابر ہے
+شان و شکوہِ جعفرِ طیار کی قسم
+حمزہ سے بے مثال جگر دار کی قسم
 
 ۴
 تقدیر سے دوش حیدر کرار کی قسم
@@ -92,13 +93,13 @@ romanLyrics: |-
 کہتے ہیں یہ سمند سے ہاں تیز تر قدم
 
 ۶
-نیکی کا ہے یہ کام تو اجلت غضب کی ہے
+نیکی کا ہے یہ کام تو عجلت غضب کی ہے
 پیاسے رہے جو خود یہ کرامت نسب کی ہے
-بھای کے غم‌ میں تھا جو محمد کا نورِ عین
+بھائی کے غم میں تھا جو محمد کا نورِ عین
 آنکھوں میں اشک غم تھے تو سوکھے لبوں پہ بین
 
 ۷
 روتے تھے اس طرف تو شہنشاہ مشرقین
 عباس کے لبوں پہ مسلسل تھا یا حسین
-بھای کا نام لے کے جہاں سے گزر گےء
+بھائی کا نام لے کے جہاں سے گزر گئے
 مشک و علم کی خیر ہو عباس مر گئے
