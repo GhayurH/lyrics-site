@@ -6,91 +6,92 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar & J. Jaffri"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Mai naukar haan mai naukar
-  
+  Main naukar haaṅ main naukar
+  Haaṅ main naukar Maula Ghazi ka
+  Alam mere murshid Ghazi ka
+
   1
-  Haan mai naukar maula ghazi ka
-  Alam mere murshid ghazi ka
   Zainab ki paak dua ban kar
-  Ab ghar ghar par lehrata hai
-  Alam mere murshid ghazi ka
-  
+  Ab ghar ghar par lahraata hai
+  Alam mere murshid Ghazi ka
+
   2
-  Tere maula ghazi kya kehna
-  Tere dar ki naukri kya kehna
-  Teri karam nawazi kya kehna
-  Tere naam ki haazri kya kehna
-  Jahan dastarkhwan ye sajta hai
-  Us ghar ki shaan badhata hai
-  Alam mere murshid ghazi ka
-  
+  Tere Maula Ghazi kya kahna
+  Tere dar ki naukri kya kahna
+  Teri karam nawaazi kya kahna
+  Tere naam ki haaziri kya kahna
+  Jahaaṅ dastarkhwaan ye sajta hai
+  Us ghar ki shaan barhaata hai
+  Alam mere murshid Ghazi ka
+
   3
-  Mai gham se jab ghabrata hoon
-  To paas alam ke jaata hoon
-  Ro ro ke maula ghazi ko
-  Mai dil ka haal sunata hoon
+  Main gham se jab ghabraata huṅ
+  To paas alam ke jaata huṅ
+  Ro ro ke Maula Ghazi ko
+  Main dil ka haal sunaata huṅ
   Mere sar par saaya karta hai
-  Meri himmat aur badata hai
-  Alam mere murshid ghazi ka
-  
+  Meri himmat aur barhaata hai
+  Alam mere murshid Ghazi ka
+
   4
-  Abbas karam farmao na
-  Kabhi maujiza ye dikhlao na
+  Abbas karam farmaao na
+  Kabhi mojiza ye dikhlaao na
   Mere ghar bhi saja hai tera alam
   Kabhi mere ghar bhi aao na
-  Sarkar mere ghar aayenge
-  Mere dil ki aas bandhata hai
-  Alam mere murshid ghazi ka
-  
+  Sarkaar mere ghar aaeṅ ge
+  Mere dil ki aas bandhaata hai
+  Alam mere murshid Ghazi ka
+
   5
   Ye parcham aman ka naara hai
-  Ye parcham paak sahara hai
-  Tu pyar kare to tera hai
-  Mai pyar karun to mera hai
-  Jo is ke deep jalata hai
-  Ye us ke bhaag jagata hai
-  Alam mere murshid ghazi ka
-  
+  Ye parcham paak sahaara hai
+  Tu pyaar kare to tera hai
+  Main pyaar karuṅ to mera hai
+  Jo is ke dip jalaata hai
+  Ye us ke bhaag jagaata hai
+  Alam mere murshid Ghazi ka
+
   6
-  Zawwar jo ghar se chalta hai
+  Zawwaar jo ghar se chalta hai
   Ye us par saaya karta hai
-  Ghar se ghar tak pahunchane ki
-  Abbas zamanat deta hai
-  Laakhon zawwar jo chalte hai
-  Unhein karbobala pahunchata hai
-  Alam mere murshid ghazi ka
-  
+  Ghar se ghar tak pahunchaane ki
+  Abbas zamaanat deta hai
+  Laakhoṅ zawwaar jo chalte haiṅ
+  Unheiṅ Karbobala pahunchaata hai
+  Alam mere murshid Ghazi ka
+
   7
-  Haan mashk o alam se yaad aayi
-  Pyaas asghar aur sakina ki
-  Mazloom hussain ki tanhaai
-  Zainab bazaar mein kyun aayi
-  Jab paak alam ye uth'ta hai
+  Haaṅ mashk o alam se yaad aayi
+  Pyaas Asghar aur Sakina ki
+  Mazlum Husain ki tanhaai
+  Zainab baazaar meiṅ kiuṅ aayi
+  Jab paak alam ye uthta hai
   Har manzar yaad dilaata hai
-  Alam mere murshid ghazi ka
-  
+  Alam mere murshid Ghazi ka
+
   8
-  Jab aat muharram aati hai
+  Jab aath Muharram aati hai
   Ghazi ki yaad dilaati hai
-  Jawwad o sarwar ye dunya
+  Jawwaad o Sarwar ye dunya
   Abbas ka sog manaati hai
-  Us waqt juloos e matam mein
-  Har matamdar uthaata hai
-  Alam mere murshid ghazi ka
+  Us waqt julus-e-maatam meiṅ
+  Har maatam daar uthaata hai
+  Alam mere murshid Ghazi ka
 # source_id: nohayonline:d2d4bb1143339650325d
 # source_url: https://www.nohayonline.com/details_content.php?id=3038
 # raw_sha256: d6821e6d3e9c74dabd98c6764016361e75cc4ecb356cff81103083a9577f7231
 ---
 
 میں نوکر ہاں میں نوکر
-
-۱
 ہاں میں نوکر مولا غازی کا
 علم میرے مرشد غازی کا
+
+۱
 زینب کی پاک دعا بن کر
 اب گھر گھر پر لہراتا ہے
 علم میرے مرشد غازی کا
@@ -100,7 +101,7 @@ romanLyrics: |-
 تیرے در کی نوکری کیا کہنا
 تیری کرم نوازی کیا کہنا
 تیرے نام کی حاضری کیا کہنا
-جہاں دستر خوان یہ سجتا ہے
+جہاں دسترخوان یہ سجتا ہے
 اس گھر کی شان بڑھاتا ہے
 علم میرے مرشد غازی کا
 
@@ -110,7 +111,7 @@ romanLyrics: |-
 رو رو کے مولا غازی کو
 میں دل کا حال سناتا ہوں
 میرے سر پر سایہ کرتا ہے
-میرے ہمت اور بڑھاتا ہے
+میری ہمت اور بڑھاتا ہے
 علم میرے مرشد غازی کا
 
 ۴
@@ -118,7 +119,7 @@ romanLyrics: |-
 کبھی معجزہ یہ دکھلاؤ نہ
 میرے گھر بھی سجا ہے تیرا علم
 کبھی میرے گھر بھی آؤ نہ
-سرکار میرے گھر آییں گے
+سرکار میرے گھر آئیں گے
 میرے دل کی آس بندھاتا ہے
 علم میرے مرشد غازی کا
 
@@ -141,10 +142,10 @@ romanLyrics: |-
 علم میرے مرشد غازی کا
 
 ۷
-ہاں مشک و علم سے یاد آی
+ہاں مشک و علم سے یاد آئی
 پیاس اصغر اور سکینہ کی
 مظلوم حسین کی تنہائی
-زینب بازار میں کیوں آی
+زینب بازار میں کیوں آئی
 جب پاک علم یہ اٹھتا ہے
 ہر منظر یاد دلاتا ہے
 علم میرے مرشد غازی کا
@@ -154,6 +155,6 @@ romanLyrics: |-
 غازی کی یاد دلاتی ہے
 جواد و سرور یہ دنیا
 عباس کا سوگ مناتی ہے
-اس وقتی جلوس ماتم میں
+اس وقت جلوسِ ماتم میں
 ہر ماتم دار اٹھاتا ہے
 علم میرے مرشد غازی کا
