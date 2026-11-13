@@ -1,16 +1,6 @@
 // Canonical Basta results own their verified text; printed pages are indexed
 // only for independent or still-unverified material, not the same verses twice.
-import { splitBastaKalams } from "./basta-text";
-
-export function unclaimedBastaFragments(
-  text: string,
-  page: number,
-  assignments: Record<string, string>,
-  indexedKalamIds: ReadonlySet<string>,
-): string[] {
-  return splitBastaKalams(text).filter((_fragment, index) =>
-    !indexedKalamIds.has(assignments[page + ":" + (index + 1)]));
-}
+import { splitBastaKalams } from "./basta-text.ts";
 
 /** Roman and Urdu fragments must have matching physical divisions before omission. */
 export function unclaimedBastaPageText(

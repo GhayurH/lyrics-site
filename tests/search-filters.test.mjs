@@ -17,6 +17,6 @@ test("same-facet selections match any chosen value, across facets still require 
 test("empty, duplicate, and cleared filter values do not constrain search", () => {
   assert.deepEqual(toPagefindOrFilters({
     tag: ["Zainab", "Zainab", ""], poet: [], occasion: ["", " "],
-  }), { tag: ["Zainab"] , occasion: [" "] });
+  }), { tag: ["Zainab"] });
   assert.deepEqual(toPagefindOrFilters({ tag: [] }), {});
 });
