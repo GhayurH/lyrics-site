@@ -1,78 +1,69 @@
 ---
 title: "تو میری تمنا میں تجھ سے ہوں زندہ"
-alternateTitle: "Mera Junoon Hussain"
+alternateTitle: "Mera Junun Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nasir Hussain"
+reciter: "Irfan Hussain"
 tags: ["noImage"]
-aliases: []
+aliases: ["Mera Junoon Hussain"]
 published: false
 romanLyrics: |-
-  Tu meri tamanna mai tujhse hoo zinda
-  Ab de de sahara ay ishq ke qibla
+  Tu meri tamanna main tujh se huṅ zinda
+  Ab de de sahaara ae ishq ke qibla
+  Ae ishq ke Kaaba ya Husain
 
   1
-  Ay ishq ke kaaba ya hussain
-  Deewangi mein had se guzar jaunga hussain
-  Rauze ko tere dekh ke jee paunga hussain
-  Mera junoon hai hussain mera sukoon hai hussain
+  Diwaangi mein had se guzar jaauṅ ga Husain
+  Rauze ko tere dekh ke ji paauṅ ga Husain
+  Mera junuṅ hai Husain mera sukuṅ hai Husain
 
   2
-  Dil mein ye aarzu thi ke ashoor ko chalun
-  Abbas ki zari pa sar apna kham karun
-  Maula mai milke aap se allah se milun
-  Lekin waba ke chalte hoo majboor kya karun
+  Dil mein ye aarzu thi ke Aashur ko chaluṅ
+  Abbas ki zarih pe sar apna kham karuṅ
+  Maula main mil ke aap se Allah se miluṅ
+  Lekin waba ke chalte huṅ majbur kya karuṅ
+  Kaise qadam ko chumne main aauṅ ga Husain
 
   3
-  Kaise khadam ko choomne mai aaunga hussain
-  Har lamha teri yaad mein rehta hoo raat din
+  Har lamha teri yaad mein rehta huṅ raat din
+  Bas ya Husain ro ke main kehta huṅ raat din
+  Par ashk apne sab se chhupaata huṅ raat din
+  Wallaah dil tarapta hai rota huṅ raat din
+  Ab dard-e-dil ye kis ko main batlaauṅ ga Husain
 
   4
-  Bas ya hussain roke mai kehta hoo raat din
-  Par ashk apne sabse chupata hoo raat din
-  Wallah dil tadapta hai rota hoo raat din
-  Ab dard e dil ye kisko mai batlaunga hussain
+  Chehre pe tere ishq sajaata huṅ khwaab mein
+  Palkoṅ se teri khaak uthaata huṅ khwaab mein
+  Rauze ko tere chum ke rota huṅ khwaab mein
+  Bedaar ho ke khwaab se kehta huṅ khwaab mein
+  Taabir khwaab ki main kabhi dekhuṅ ga Husain
 
   5
-  Chehre pa tere ishq sajata hoo khwab mein
-  Palkon se teri khaak uthata hoo khwab mein
+  Tu khun ki haraarat tu nafs ki quwwat
+  Tu ruh ki zinat tu qalb ki qudrat
+  Ye meri ruh kehti hai shaam o sehar mujhe
+  Jaayegi wo ziyaaratoṅ par chhor kar mujhe
+  Ae aaqa ab to de de tu izn-e-safar mujhe
+  Ek pal bhi chain aata nahiṅ zarra bhar mujhe
+  Ghut ghut ke teri yaad mein mar jaauṅ ga Husain
 
   6
-  Rauze ko tere choomke rota hoo khwab mein
-  Bedaar hoke khwaab se kehta hoo khwab mein
-  Tabeer khwab ki mai kabhi dekhunga hussain
+  Jaauṅ main Arbain mein hai meri aarzu
+  Deta huṅ main usi ki qasam jo hai maahru
+  Mujh se khataaeṅ jo huiṅ afwa kar de tu
+  Nasir tarap ke kehta hai ae din ki aabru
+  Irfan se zarih teri chumuṅ ga Husain
 
   7
-  Tu khoon ki hararat tu nafs ki quwwat
-  Tu rooh ki zeenat tu qalb ki khudrat
-  Ye meri rooh kehti hai shaam o sehar mujhe
-
-  8
-  Jayegi wo ziyaraton par chod kar mujhe
-  Ay aaqa ab to dede tu izne safar mujhe
-  Ek pal bhi chain aata nahi zarra bhar mujhe
-  Ghut ghut ke teri yaad mein mar jaunga hussain
-
-  9
-  Jaun mai arbaeen mein hai meri aarzu
-  Deta hoo mai usi ki qasam jo hai maahru
-
-  10
-  Mujhse khatayen jo hui afwa kar de tu
-  Nasir tadap ke kehta hai ay deen ki aabru
-  Irfan se zari teri choomunga hussain
-
-  11
-  Ana majnunal hussain
-  Tu deen ki izzat quran ki tilawat
-  Hyder ki wilayat shabbar ki fasahat
-
-  12
-  Sajjad ki zeenat baqir ki hai hikmat
-  Sadiq ki sadaqat kazim ki hai taaqat
-  Mehdi ki mashiyat tauheed ki qudrat
+  Ana majnun al Husain
+  Tu din ki izzat Quraan ki tilaawat
+  Haidar ki wilaayat Shabbar ki fasaahat
+  Sajjad ki zinat Baqir ki hai hikmat
+  Saadiq ki sadaaqat Kaazim ki hai taaqat
+  Mehdi ki mashiyat tauhid ki qudrat
   Abbas ki haibat
 # source_id: nohayonline:2ea60c465d165af97f76
 # source_url: https://www.nohayonline.com/details_content.php?id=1187
@@ -80,9 +71,9 @@ romanLyrics: |-
 ---
 تو میری تمنا میں تجھ سے ہوں زندہ
 اب دے دے سہارا اے عشق کے قبلہ
+اے عشق کے کعبہ یا حسین
 
 ۱
-اے عشق کے کعبہ یا حسین
 دیوانگی میں حد سے گزر جاؤں گا حسین
 روضے کو تیرے دیکھ کے جی پاؤں گا حسین
 میرا جنوں ہے حسین میرا سکوں ہے حسین
@@ -92,53 +83,43 @@ romanLyrics: |-
 عباس کی ضریح پہ سر اپنا خم کروں
 مولا میں مل کے آپ سے اللہ سے ملوں
 لیکن وبا کے چلتے ہوں مجبور کیا کروں
+کیسے قدم کو چومنے میں آؤں گا حسین
 
 ۳
-کیسے قدم کو چومنے میں آؤں گا حسین
 ہر لمحہ تیری یاد میں رہتا ہوں رات دن
-
-۴
-بس یا حسین روکے میں کہتا ہوں رات دن
+بس یا حسین رو کے میں کہتا ہوں رات دن
 پر اشک اپنے سب سے چھپاتا ہوں رات دن
 واللہ دل تڑپتا ہے روتا ہوں رات دن
-اب درد دل یہ کس کو میں بتلاؤں گا حسین
+اب دردِ دل یہ کس کو میں بتلاؤں گا حسین
 
-۵
+۴
 چہرے پہ تیرے عشق سجاتا ہوں خواب میں
-پلکوں کو تیرے چومکے روتا ہوں خواب میں
-
-۶
+پلکوں کو تیرے چوم کے روتا ہوں خواب میں
 روضے کو تیرے چوم کے روتا ہوں خواب میں
-بیدار ہوکے خواب سے کہتا ہوں خواب میں
+بیدار ہو کے خواب سے کہتا ہوں خواب میں
 تعبیر خواب کی میں کبھی دکھاؤں گا حسین
 
-۷
+۵
 تو خون کی حرارت تو نفس کی قوت
 تو روح کی زینت تو قلب کی قدرت
 یہ میری روح کہتی ہے شام و سحر مجھے
-
-۸
-جاے گی وہ زیارتوں پر چھوڑ کر مجھے
-اے آقا اب تو دے دے تو اذن سفر مجھے
-اک پل بھی چین آتا نہیں زرا بھر مجھے
+جائے گی وہ زیارتوں پر چھوڑ کر مجھے
+اے آقا اب تو دے دے تو اذنِ سفر مجھے
+اک پل بھی چین آتا نہیں ذرہ بھر مجھے
 گھٹ گھٹ کے تیری یاد میں مر جاؤں گا حسین
 
-۹
+۶
 جاؤں میں اربعین میں ہے میری آرزو
 دیتا ہوں میں اسی کی قسم جو ہے ماہ رو
-
-۱۰
-مجھ سے خطایں جو ہوی افواہ کر دے تو
+مجھ سے خطائیں جو ہوئیں افواہ کر دے تو
 ناصر تڑپ کے کہتا ہے اے دیں کی آبرو
 عرفان سے ضریح تیری چوموں گا حسین
 
-۱۱
+۷
 انا مجنون الحسین
 تو دیں کی عزت قرآں کی تلاوت
-حیدر کی ولایت شبر کی فساہت
-
-۱۲
+حیدر کی ولایت شبر کی فصاحت
 سجاد کی زینت باقر کی ہے حکمت
 صادق کی صداقت کاظم کی ہے طاقت
 مہدی کی مشیعت توحید کی قدرت
-عباس کی حیبت
+عباس کی ہیبت
