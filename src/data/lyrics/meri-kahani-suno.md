@@ -1,74 +1,75 @@
 ---
 title: "بابا جاں بابا جاں"
-alternateTitle: "Meri Kahani Suno"
+alternateTitle: "Meri Kahaani Suno"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Baba jaan baba jaan
-  Meri kahani suno
-  
+  Baba jaaṅ baba jaaṅ
+  Meri kahaani suno
+  Baba tumhari Sakina huṅ maiṅ
+
   1
-  Baba tumhari sakina hoon mai
   Baba qasam khaa ke kehti rahi
-  Karta nahi tha yaqeen ye koi
-  Ab tum hi de do gawahi meri
-  In shamiyon se kaho
-  Baba tumhari sakina hoon mai
-  
+  Karta nahiṅ tha yaqiṅ ye koi
+  Ab tum hi de do gawaahi meri
+  In Shaamiyoṅ se kaho
+  Baba tumhari Sakina huṅ maiṅ
+
   2
-  Ashoor tak ye zaeefi na thi
-  Baalon mein mere safedi na thi
-  Tum jab gaye thay mai aisi na thi
+  Aashur tak ye zaifi na thi
+  Baaloṅ meiṅ mere safedi na thi
+  Tum jab gaye the maiṅ aisi na thi
   Lehje se pehchaan lo
-  Baba tumhari sakina hoon mai
-  
+  Baba tumhari Sakina huṅ maiṅ
+
   3
-  Kehta tha zaalim satao isay
-  Durre tamache lagao isay
-  Naiza dikha kar darao isay
-  Maloom tha shimr ko
-  Baba tumhari sakina hoon mai
-  
+  Kehta tha zaalim sataao ise
+  Durre tamaache lagaao ise
+  Neze dikha kar daraao ise
+  Maalum tha Shimr ko
+  Baba tumhari Sakina huṅ maiṅ
+
   4
   Baaghi ki beti samajh kar mujhe
-  Bacchon ne maare hai pathar mujhe
-  Rehna nahi ab yahan par mujhe
-  Bas karbala le chalo
-  Baba tumhari sakina hoon mai
-  
+  Bachchoṅ ne maare hai patthar mujhe
+  Rehna nahiṅ ab yahaaṅ par mujhe
+  Bas Karbala le chalo
+  Baba tumhari Sakina huṅ maiṅ
+
   5
-  Zid ki thi bachpan mein jab aap ne
-  Aaye thay malboos firdaus se
+  Zid ki thi bachpan meiṅ jab aap ne
+  Aaye the malbus Firdaus se
   Aaj apni maadar se mere liye
   Mera kafan maang lo
-  Baba tumhari sakina hoon mai
-  
+  Baba tumhari Sakina huṅ maiṅ
+
   6
-  Zindan ka naksha badal jayega
-  Kuch dayr mein dam nikal jayega
-  Dil jaate jaate behal jayega
-  Sughra ki baatein karo
-  Baba tumhari sakina hoon mai
-  
+  Zindaaṅ ka naqsha badal jaayega
+  Kuchh der meiṅ dam nikal jaayega
+  Dil jaate jaate behal jaayega
+  Sughra ki baateṅ karo
+  Baba tumhari Sakina huṅ maiṅ
+
   7
-  Mujhko tamacha hi aisa laga
-  Nazron mein meri andhera hua
-  Meri kamar mein bhi kham aagaya
-  Daagh e rasan dekh lo
-  Baba tumhari sakina hoon mai
-  
+  Mujh ko tamaacha hi aisa laga
+  Nazroṅ meiṅ meri andhera hua
+  Meri kamar meiṅ bhi kham aa gaya
+  Daagh-e-rasan dekh lo
+  Baba tumhari Sakina huṅ maiṅ
+
   8
   Sar apne baba ke sar par rakhe
-  Boli takallum wo rote huwe
-  Sab maarne par tulay hai mujhe
-  Tum keh do jeeti raho
-  Baba tumhari sakina hoon mai
+  Boli Takallum wo rote hue
+  Sab maarne par tule haiṅ mujhe
+  Tum keh do jiti raho
+  Baba tumhari Sakina huṅ maiṅ
 # source_id: nohayonline:46f2dd771ceea40fda1f
 # source_url: https://www.nohayonline.com/details_content.php?id=3555
 # raw_sha256: 91fdc2958a18fda186093692f01bd60e9a1a734b3d56e317b04e3f43b42d5ed1
@@ -76,9 +77,9 @@ romanLyrics: |-
 
 بابا جاں بابا جاں
 میری کہانی سنو
+بابا تمہاری سکینہ ہوں میں
 
 ۱
-بابا تمہاری سکینہ ہوں میں
 بابا قسم کھا کے کہتی رہی
 کرتا نہیں تھا یقیں یہ کوئی
 اب تم ہی دے دو گواہی میری
@@ -88,13 +89,13 @@ romanLyrics: |-
 ۲
 عاشور تک یہ ضعیفی نہ تھی
 بالوں میں میرے سفیدی نہ تھی
-تم جب گےء تھے میں ایسی نہ تھی
+تم جب گئے تھے میں ایسی نہ تھی
 لہجے سے پہچان لو
 بابا تمہاری سکینہ ہوں میں
 
 ۳
 کہتا تھا ظالم ستاؤ اسے
-درے طمانچے لگاؤ اسے
+درّے طمانچے لگاؤ اسے
 نیزے دکھا کر ڈراؤ اسے
 معلوم تھا شمر کو
 بابا تمہاری سکینہ ہوں میں
@@ -108,7 +109,7 @@ romanLyrics: |-
 
 ۵
 ضد کی تھی بچپن میں جب آپ نے
-آے تھے ملبوس فردوس سے
+آئے تھے ملبوس فردوس سے
 آج اپنی مادر سے میرے لئے
 میرا کفن مانگ لو
 بابا تمہاری سکینہ ہوں میں
