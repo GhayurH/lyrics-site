@@ -1,89 +1,92 @@
 ---
 title: "حسینیم قلندرم مستم"
-alternateTitle: "Manam Husssainiyam"
+alternateTitle: "Manam Husainiyam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Abbas"
+reciter: "Muslim Jafri"
 tags: ["noImage"]
-aliases: []
+aliases: ["Manam Husssainiyam"]
 published: false
 romanLyrics: |-
-  Hussainiyam qalandaram mastam
-  Banda e shaah e karbala hastam
+  Husainiyam qalandaram mastam
+  Banda-e-Shaah-e-Karbala hastam
+  Peshwa-e-tamaam ahl-e-gham
+  Ke sag-e-ku-e-Ibn-e-Haidariyam
+
+  Manam Husainiyam
 
   1
-  Peshawa e tamaam ahle gham
-  Ke sage kuwe ibne hyderium
-  Manam hussainiyam
-  Mai azadaar hoo karbobala hai dil pe raqam
+  Main azaadaar huṅ Karb o Bala hai dil pe raqam
 
   2
-  Khuda ka shukr hai farshe aza bichata hoo
-  Ghame hussain mein ashk e aza bahata hoo
-  Dua e fatema zehra se hai ye khaas karam
+  Khuda ka shukr hai farsh-e-aza bichhaata huṅ
+  Gham-e-Husain mein ashk-e-aza bahaata huṅ
+  Dua-e-Fatima Zehra se hai ye khaas karam
 
   3
-  Mai jaanta hoo ata'on ke saare raazon ko
-  Mai jaanta hoo wafa ke sabhi takazon ko
-  Isi liye mai utha'ta hoo bawafa ka alam
+  Main jaanta huṅ ataaoṅ ke saare raazoṅ ko
+  Main jaanta huṅ wafa ke sabhi taqaazoṅ ko
+  Isi liye main uthaata huṅ bawafa ka alam
 
   4
-  Utar ke arsh nasheen karbala mein kehte hai
-  Jhuka ke apni jabeen karbala mein kehte hia
-  Elaahi tu ne dikha di hamein bhi aaj irum
+  Utar ke arsh nashiṅ Karbala mein kehte haiṅ
+  Jhuka ke apni jabiṅ Karbala mein kehte haiṅ
+  Ilaahi tu ne dikha di hameiṅ bhi aaj Iram
 
   5
-  Yazeedi fauj ne jis ko rakha tha pehre mein
-  Wo aaj turbat e abbas par hai sajde mein
-  Furaat choom ke kehti hai bawafa ke qadam
+  Yazidi fauj ne jis ko rakha tha pehre mein
+  Wo aaj turbat-e-Abbas par hai sajde mein
+  Furaat chum ke kehti hai bawafa ke qadam
 
   6
-  Mai matami hoo khuda se mili hai ye neymat
-  Hai daste hazarate abbas par meri bayyat
-  Kisi yazeed ke aage ye sar na hoga kham
+  Main maatami huṅ Khuda se mili hai ye nemat
+  Hai dast-e-Hazrat-e-Abbas par meri baiat
+  Kisi Yazid ke aage ye sar na hoga kham
 
   7
-  Faqat mera hi nahi hal ata ka kehna hai
-  Tamaam ahle aza innama ka kehna hai
-  Kalaam aaj bhi ye kar rahe hai lowh o qalam
+  Faqat mera hi nahiṅ Hal Ataa ka kehna hai
+  Tamaam ahl-e-aza Innama ka kehna hai
+  Kalaam aaj bhi ye kar rahe haiṅ lauh o qalam
 
   8
   Dikha ke pyaas ki shiddat mein hausla apna
-  Har ek shaheed ne ye keh ke diya sar apna
-  Hussain aap pe qurban hai ye mera dam
+  Har ek shahid ne ye keh ke diya sar apna
+  Husain aap pe qurbaan hai ye mera dam
 
   9
-  Kalaam e muslim o yasir hai ye khuda mere
-  Ghame jahan se apni panaah mein le le
-  Jo de raha hai to de de hamein hussain ka gham
+  Kalaam-e-Muslim o Yasir hai ye Khuda mere
+  Gham-e-jahaaṅ se apni panaah mein le le
+  Jo de raha hai to de de hameiṅ Husain ka gham
 # source_id: nohayonline:c811f5be51f10bba24fd
 # source_url: https://www.nohayonline.com/details_content.php?id=1713
 # raw_sha256: 7a4fe38283d4f71f616064f5865f2284d6538d577529d455b7f1840d7c921186
 ---
 حسینیم قلندرم مستم
-بندہء شاہ کربلا ہستم
+بندۂ شاہِ کربلا ہستم
+پیشوائے تمام اہلِ غم
+کہ سگِ کوئے ابنِ حیدریم
+
+منم حسینیم
 
 ۱
-پیشواے تمام أہل غم
-کہ سگ کوے ابنِ حیدریم
-منم حسینیم
 میں عزادار ہوں کربوبلا ہے دل پہ رقم
 
 ۲
 خدا کا شکر ہے فرش عزا بچھاتا ہوں
 غمِ حسین میں اشک عزا بہاتا ہوں
-دعاے فاطمہ زہرا سے ہے یہ خاص کرم
+دعائے فاطمہ زہرا سے ہے یہ خاص کرم
 
 ۳
 میں جانتا ہوں عطاؤں کے سارے رازوں کو
 میں جانتا ہوں وفا کے سبھی تقاضوں کو
-اسی لئے میں اٹھتا ہوں با وفا کا الم
+اسی لئے میں اٹھاتا ہوں باوفا کا علم
 
 ۴
 اتر کے عرش نشیں کربلا میں کہتے ہیں
-جھکا کے اپنی جبیں کربلا میں کہتے ہے
+جھکا کے اپنی جبیں کربلا میں کہتے ہیں
 الٰہی تو نے دکھا دی ہمیں بھی آج ارم
 
 ۵
@@ -97,8 +100,8 @@ romanLyrics: |-
 کسی یزید کے آگے یہ سر نہ ہوگا خم
 
 ۷
-فقط میرا ہی نہیں ھل اتی کا کہنا ہے
-تمام أہل عزا انما کا کہنا ہے
+فقط میرا ہی نہیں ہل اتیٰ کا کہنا ہے
+تمام اہلِ عزا انما کا کہنا ہے
 کلام آج بھی یہ کر رہے ہیں لوح و قلم
 
 ۸

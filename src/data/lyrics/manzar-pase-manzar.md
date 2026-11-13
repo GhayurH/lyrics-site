@@ -1,78 +1,79 @@
 ---
 title: "منظر پس منظر"
-alternateTitle: "Manzar Pase Manzar"
+alternateTitle: "Manzar Pas-e-Manzar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Dayam Najafi"
+reciter: "Ali Yazdan"
 tags: ["noImage"]
-aliases: []
+aliases: ["Manzar Pase Manzar"]
 published: false
 romanLyrics: |-
-  Manzar pas e manzar
-  Wo hussain ibne ali aur wo shimr ka khanjar
+  Manzar pas-e-manzar
+  Wo Husain Ibn-e-Ali aur wo Shimr ka khanjar
 
   1
-  Tujhko kahan maloom hai shabbir ka rutba
-  Payambar ke bete hai bhala tujhko khabar kya
-  Na waqif e anjaam hai tu dhyaan ye rakhna
+  Tujhko kahaaṅ maalum hai Shabbir ka rutba
+  Payambar ke bete haiṅ bhala tujhko khabar kya
+  Naawaaqif-e-anjaam hai tu dhyaan ye rakhna
   Jis deh ki hukumat ke liye aaya hai ladne
-  Wo ab teri qismat may hai kab tera muqaddar
+  Wo ab teri qismat mein hai kab tera muqaddar
 
   2
   Is khaak ki kya tujhko khabar kitni bhali hai
-  Is dasht ke ausaaf may aqwaal e jali hai
-  Firdaus ka tukda to sar e dasht yehi hai
-  Ta hadde nazar aaj yahan hai mere aghyaar
-  Kal honge yahan chaaron taraf zaair e sarwar
+  Is dasht ke ausaaf mein aqwaal-e-jali hai
+  Firdaus ka tukra to sar-e-dasht yehi hai
+  Taa hadd-e-nazar aaj yahaaṅ haiṅ mere aghyaar
+  Kal hoṅge yahaaṅ chaaroṅ taraf zaair-e-Sarwar
 
   3
-  Hum binte payambar ke chaheete hai khabardaar
-  Hum hyder e safdar ke dulaare hai khabardaar
-  Hum ahmed e mursal ke nawase hai khabardaar
-  Mukhtar hai hum tum hame majboor na samjho
-  Chaahe to abhi khaak kare shaam ka lashkar
+  Hum bint-e-Payambar ke chahite haiṅ khabardaar
+  Hum Haidar-e-Safdar ke dulaare haiṅ khabardaar
+  Hum Ahmad-e-Mursal ke nawaase haiṅ khabardaar
+  Mukhtaar haiṅ hum tum hameiṅ majbur na samjho
+  Chaahe to abhi khaak kare Shaam ka lashkar
 
   4
-  Pehra hai labe nehr atash lab pe hamare
-  Tum ne to taraayi pe bitha rakhe hai pehre
+  Pehra hai lab-e-nehr atash lab pe hamaare
+  Tum ne to taraayi pe bitha rakhe haiṅ pehre
   Ye aaj ki tasveer hai ekaad ke bete
-  Kal pyason ke isma e girami ke tasadduq
-  Dunya may rawan hoga sabeelon ka samandar
+  Kal pyaasoṅ ke ism-e-giraami ke tasadduq
+  Dunya mein rawaaṅ hoga sabiloṅ ka samandar
 
   5
-  Tu fauj ki kasrat pe na itra pisar e saad
-  Kal khud hi tu ye bolega lo hogaye barbaad
-  Lashkar se sada aayegi imdad ho imdad
-  Us waqt ka manzar na kabhi bhoolegi dunya
-  Aayega paye jang mera jab ali asghar
+  Tu fauj ki kasrat pe na itra pisar-e-Saad
+  Kal khud hi tu ye bolega lo ho gaye barbaad
+  Lashkar se sada aayegi imdaad ho imdaad
+  Us waqt ka manzar na kabhi bhulegi dunya
+  Aayega pa-e-jang mera jab Ali Asghar
 
   6
   Allah ne apne hi liye hum ko banaya
-  Ye jaan ke bhi tum ne hame dukh diye kya kya
-  Hum uski hi tauheed tale karte hai sajda
-  Sar tan se juda hoga magar dekh na zaalim
-  Aayegi kate sar se sada allahu akbar
+  Ye jaan ke bhi tum ne hameiṅ dukh diye kya kya
+  Hum uski hi tauhid tale karte haiṅ sajda
+  Sar tan se juda hoga magar dekhna zaalim
+  Aayegi kate sar se sada Allahu Akbar
 
   7
-  Ye ishq ki meraj hai qurbani e shabbir
-  Faqre yade bezaam hai islam ki taqdeer
-  Maqsad se mere khoob hai waqif mera baysheer
-  Khamoshiyan kyun odh ke nikle hai watan se
-  Manzoor hai hum logon ko taskeen e payambar
+  Ye ishq ki meraaj hai qurbaani-e-Shabbir
+  Faqr-e-yad-e-bezaam hai Islam ki taqdir
+  Maqsad se mere khub hai waaqif mera beshir
+  Khaamoshiyaaṅ kiuṅ orh ke nikle haiṅ watan se
+  Manzur hai hum logoṅ ko taskin-e-Payambar
 
   8
-  Tum logon ne jis dasht ko pur khaar kiya hai
-  Tum logon ne jis dasht ko aazaar diya hai
-  Tum logon ne jis dasht ko laashon se bhara hai
-  Wo dasht azadaron ke phoolon se bharega
-  Kal maqtal e shabbir ka tum dekhna manzar
+  Tum logoṅ ne jis dasht ko pur khaar kiya hai
+  Tum logoṅ ne jis dasht ko aazaar diya hai
+  Tum logoṅ ne jis dasht ko laashoṅ se bhara hai
+  Wo dasht azaadaaroṅ ke phuloṅ se bharega
+  Kal maqtal-e-Shabbir ka tum dekhna manzar
 
   9
-  Ay dayam o yazdan yehi sheh kehte thay sunle
-  Ye dhoop ye sehra ye baraste huwe sholay
-  Ye gulshan e sehra sipaahe shaam ke qabze
+  Ae Dayam o Yazdan yehi Sheh kehte the sun le
+  Ye dhup ye sehra ye baraste huwe shole
+  Ye gulshan-e-sehra sipaah-e-Shaam ke qabze
   Ye aaj ki tasveer hai ye aaj ka manzar
   Kal chamkega is dasht ka aabaad manzar
 # source_id: nohayonline:4cf8da9fdec28a2e1c81
@@ -97,9 +98,9 @@ romanLyrics: |-
 کل ہونگے یہاں چاروں طرف زایر سرور
 
 ۳
-ہم‌ بنت پیمبر کے چہیتے ہیں خبردار
+ہم بنت پیمبر کے چہیتے ہیں خبردار
 ہم حیدر صفدر کے دلارے ہیں خبردار
-ہم أحمد مرسل کے نواسے ہیں خبردار
+ہم احمد مرسل کے نواسے ہیں خبردار
 مختار ہیں ہم تم ہمیں مجبور نہ سمجھو
 چاہے تو ابھی خاک کرے شام کا لشکر
 
@@ -112,17 +113,17 @@ romanLyrics: |-
 
 ۵
 تو فوج کی کثرت پہ نہ اترا پسر سعد
-کل خود ہی تو بولے گا لو ہو گےء برباد
-لشکر سے صدا آے گی امداد ہو امداد
+کل خود ہی تو بولے گا لو ہو گئے برباد
+لشکر سے صدا آئے گی امداد ہو امداد
 اس وقت کا منظر نہ کبھی بھولے گی دنیا
-آے گا پےء جنگ میرا جب علی اصغر
+آئے گا پئے جنگ میرا جب علی اصغر
 
 ۶
-اللّٰہ نے اپنے ہی لےء ہم کو بنایا
+اللّٰہ نے اپنے ہی لئے ہم کو بنایا
 یہ جان کے بھی تم نے ہمیں دکھ دیا کیا کیا
 ہم اسکی ہی توحید تلے کرتے ہیں سجدہ
 سر تن سے جدا ہو گا مگر دیکھنا ظالم
-آے گی کٹے سر سے صدا اللھ اکبر
+آئے گی کٹے سر سے صدا اللہ اکبر
 
 ۷
 یہ عشق کی معراج ہے قربانیء شبیر
@@ -140,7 +141,7 @@ romanLyrics: |-
 
 ۹
 اے دایم و یزداں یہی شہ کہتے تھے سن لے
-یہ دھوپ یہ صحرا یہ برستے ہوی شعلے
+یہ دھوپ یہ صحرا یہ برستے ہوئے شعلے
 یہ گلشنِ صحرا سپاہ شام کے قبضے
 یہ آج کی تصویر ہے یہ آج کا منظر
 کل چمکے گا اس دشت کا آباد منظر
