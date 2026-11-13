@@ -2847,11 +2847,11 @@ src/data/lyrics/na-royi-zainab.md,standalone_lyrics,imported,nohayonline+ziyaraa
 src/data/lyrics/na-tera-bhai-raha.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,,,"Need audio/print: opening Urdu ""پہنچیں"" vs Roman ""pahunchi""; s3 ""سانسیں تھی"" vs تھیں; s9 Urdu ""کچھ بول"" / ""کہنے لگیں"" vs Roman ""kuch bolo"" / ""kehne lagi""."
 src/data/lyrics/naad-e-ali-ka-wird-jo-karti-chali-gayi.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
 src/data/lyrics/naad-e-ali-parhte-raho.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
-src/data/lyrics/naam-sakina-rakhna.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/naara-laga-mere.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/naam-sakina-rakhna.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,first_sweep,,
+src/data/lyrics/naara-laga-mere.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s1 ""Kaise ho gham-e-Sarwar""; s3 ""kare maatam roye""; s7 ""madaar-e-Asghar"" and ""dete hi rahe pursa""; confirm opening ""Saarallah Aba Abdillah"" pronunciation."
 src/data/lyrics/naazan-hai-hum-ke-hum-ko-dare-murtaza-milaa.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
-src/data/lyrics/nabi-ki-fikr.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/nabi-ki-jaan-dile.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/nabi-ki-fikr.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,first_sweep,,"Need audio/print: s2 ""jawan hai azme faza""/""جواں ہے عظم فضا""; s3 opening ""Husain charkh-e-sadaaqat"" and Urdu missing ""hai"" in line 2; s4 ""kis tarah"" vs ""کس کو""; s5 ""nigaah-e-dehr na dekhi na"", ""ye wila faani"", ""baqa Husain ko hai""; s6 ""sifaat o azm"" vs ""صفات و عزم""."
+src/data/lyrics/nabi-ki-jaan-dile.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s7 ""Har ek khwaab baha zulm ki rawaani mein""; confirm ""khwaab"" and opening s1 ""jhulasti""."
 src/data/lyrics/nabi-ki-nawasi-ka-khutba-suno.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/nabi-ki-nawasi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/nadan-ali-asghar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
