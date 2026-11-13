@@ -6,48 +6,49 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Aashiq Irani"
+reciter: "Munawar Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ay hassan ke laadle qasim kahan ho tum
-  Qasim kahan ho tum qasim kahan ho tum
+  Ae Hasan ke laadle Qasim kahaaṅ ho tum
+  Qasim kahaaṅ ho tum Qasim kahaaṅ ho tum
 
   1
-  Rahi taaqat na ay qasim tere mazoor ammu ko
-  Sukoon kyun kar mile qasim tere ranjoor ammu ko
-  Sahara chahiye qasim tere majboor ammu ko
-  Mujhe awaaz do qasim jahan ho tum
+  Rahi taaqat na ae Qasim tere maazur ammu ko
+  Sukuṅ kiuṅ kar mile Qasim tere ranjur ammu ko
+  Sahaara chaahiye Qasim tere majbur ammu ko
+  Mujhe aawaaz do Qasim jahaaṅ ho tum
 
   2
-  Tumhi maadar ki ay qasim zaeefi ka sahara hai
-  Dar e qaime se tujhko teri amma ne pukara hai
-  Ke narghe may layeeno ke mere aankhon ka taara hai
-  Mujhe awaaz do qasim jahan ho tum
+  Tumheiṅ maadar ki ae Qasim zaifi ka sahaara hai
+  Dar-e-khaime se tujhko teri ammaaṅ ne pukaara hai
+  Ke narghe mein lainoṅ ke mere aankhoṅ ka taara hai
+  Mujhe aawaaz do Qasim jahaaṅ ho tum
 
   3
-  Tumhare saath ghazi ko agar mai bhejta ran may
-  Tujhe wo leke aa jaate tumhari maa ki aangan may
-  Ijazat deke mai tujhko phasa hoo mai bhi uljhan may
-  Mujhe awaaz do qasim jahan ho tum
+  Tumhaare saath Ghaazi ko agar main bhejta ran mein
+  Tujhe wo le ke aa jaate tumhaari maaṅ ki aangan mein
+  Ijaazat de ke main tujhko phansa huṅ main bhi uljhan mein
+  Mujhe aawaaz do Qasim jahaaṅ ho tum
 
   4
-  Laga kar haath may mehendi chale ho jaanib e maqtal
-  Palat kar jald aa jao yahan qaimon may hai halchal
-  Tumhari yaad may kubra tadap kar kehti hai pal pal
-  Mujhe awaaz do qasim jahan ho tum
+  Laga kar haath mein mehndi chale ho jaanib-e-maqtal
+  Palat kar jald aa jaao yahaaṅ khaimoṅ mein hai halchal
+  Tumhaari yaad mein Kubra tarap kar kehti hai pal pal
+  Mujhe aawaaz do Qasim jahaaṅ ho tum
 
   5
-  Tere pamaal laashe ko agar dekhe wo bechari
-  Badi mushkil hai jee paaye tere gham may wo dukhiyari
-  Mere qasim dikhadi tune ghazi ki wafadari
-  Mujhe awaaz do qasim jahan ho tum
+  Tere paamaal laashe ko agar dekhe wo bechaari
+  Bari mushkil hai ji paaye teri gham mein wo dukhiyaari
+  Mere Qasim dikha di tu ne Ghaazi ki wafaadaari
+  Mujhe aawaaz do Qasim jahaaṅ ho tum
 
   6
-  Huwe dunya se ruqsat qasim e tashna dahan aashiq
-  Qalam ko choom kar rakh do basad aah o fughan aashiq
-  Wo dekho aake pahunche hai munawar nauhakhan aashiq
-  Mujhe awaaz do qasim jahan ho tum
+  Hue duniya se rukhsat Qasim-e-tashna dahan Aashiq
+  Qalam ko chum kar rakh do basad aah o fughaaṅ Aashiq
+  Wo dekho aa ke pahunche haiṅ Munawar noha khwaaṅ Aashiq
+  Mujhe aawaaz do Qasim jahaaṅ ho tum
 # source_id: nohayonline:e1c79e90090083c7efb7
 # source_url: https://www.nohayonline.com/details_content.php?id=1407
 # raw_sha256: 84a370bcc5b3a5cb5b6c0c94e2c504b63ce0a85dc515cf60238451fc23917b54
@@ -56,14 +57,14 @@ romanLyrics: |-
 قاسم کہاں ہو تم قاسم کہاں ہو تم
 
 ۱
-رہی طاقت نہ اے قاسم تیرے معزور عمو کو
+رہی طاقت نہ اے قاسم تیرے معذور عمو کو
 سکوں کیوں کر ملے قاسم تیرے رنجور عمو کو
-سہارا چاہیےء قاسم تیرے مجبور عمو کو
+سہارا چاہیے قاسم تیرے مجبور عمو کو
 مجھے آواز دو قاسم جہاں ہو تم
 
 ۲
 تمہیں مادر کی اے قاسم ضعیفی کا سہارا ہے
-در خیمے سے تجھکو تیری اماں نے پکارا ہے
+درِ خیمے سے تجھکو تیری اماں نے پکارا ہے
 کہ نرغے میں لعینوں کے میرے آنکھوں کا تارہ ہے
 مجھے آواز دو قاسم جہاں ہو تم
 
@@ -81,12 +82,12 @@ romanLyrics: |-
 
 ۵
 تیرے پامال لاشے کو اگر دیکھے وہ بے چاری
-بڑی مشکل ہے جی پاے تیری غم میں وہ دکھیاری
-میرے قاسم دکھادی تو نے غازی کی وفاداری
+بڑی مشکل ہے جی پائے تیری غم میں وہ دکھیاری
+میرے قاسم دکھا دی تو نے غازی کی وفاداری
 مجھے آواز دو قاسم جہاں ہو تم
 
 ۶
-ہوے دنیا سے رخصت قاسم تشنہ دہن عاشق
+ہوئے دنیا سے رخصت قاسمِ تشنہ دہن عاشق
 قلم کو چوم کر رکھ دو بصد آہ و فغاں عاشق
 وہ دیکھو آکے پہنچے ہیں منور نوحہ خواں عاشق
 مجھے آواز دو قاسم جہاں ہو تم
