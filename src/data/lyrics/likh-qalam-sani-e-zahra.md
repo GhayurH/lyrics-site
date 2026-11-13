@@ -13,72 +13,72 @@ published: false
 # source_id: tajpoints:68e5b47384cd849e4f5c
 # source_url: https://tajpoints.com/2017/04/likh-qalam-sani-e-zahra-ki-sana.html
 # raw_sha256: 924f0b4d9e30664637d288aa909df15e3a8810c29b3702edab93e50c988519a5
-# https://tajpoints.com/2017/04/likh-qalam-sani-e-zahra-ki-sana_28.html
+# source_id: tajpoints:3ec6d99e30275aa98b74
+# source_url: https://tajpoints.com/2017/04/likh-qalam-sani-e-zahra-ki-sana_28.html
 romanLyrics: |-
-  
   1
-  Likh Qalam Sani e Zahra Ki Sana Bismillah
-  Wahi o Ilham Ko Tehreer Mila Bismillah
-  Ba Ke Nuqtay Se Har Ik Nuqta Mila Bismillah
-  Aaj Yeh Raaz Zamane Ko Bata Bismillah
-  Ilm-e-Haider Ka Khulasa Hai Ali Ki Beti
-  Dosri Nehj-e-Balagah Hai Ali Ki Beti
-  
+  Likh qalam Sani-e-Zahra ki sana Bismillah
+  Wahi o ilhaam ko tahrir mila Bismillah
+  Ba ke nuqte se har ik nuqta mila Bismillah
+  Aaj ye raaz zamaane ko bata Bismillah
+  Ilm-e-Haider ka khulaasa hai Ali ki beti
+  Dusri Nahj-e-Balaagha hai Ali ki beti
+
   2
-  Aal-e-Zahra Ke Liye Sani-e-Zahra Zainab
-  Iss Liye Zaat-e-Ilahi Ne Yeh Chaha Zainab
-  Mustaqil Ho Teri Chokhat Pe Ujala Zainab
-  Teri Khatir Ho Naye Rang Ka Zuhra Zainab
-  Bani Hashim Ka Qamar Ban Ke Sitarah Aa Jaye
-  Teri Dehleez Pe Ghazi Ko Utara Jaye
-  
+  Aal-e-Zahra ke liye Sani-e-Zahra Zainab
+  Is liye Zaat-e-Ilaahi ne ye chaaha Zainab
+  Mustaqil ho teri chaukhat pe ujaala Zainab
+  Teri khaatir ho naye rang ka Zuhra Zainab
+  Bani Haashim ka qamar ban ke sitaara aa jaaye
+  Teri dehliz pe Ghaazi ko utaara jaaye
+
   3
-  Jin Ki Nalain Ke Qosain Bhi Muhtaj Mile
-  Woh Nabi Our Ali Barsar-e-Mairat Mile
-  Tohfe Allah Se Do Kal Ke Liye Aaj Mile
-  Dono Masoomo Ko Ismat Ke Naye Taj Mile
-  Shab-e-Mairaj Yeh Taqseem Khuda Ne Ki Hai
-  Fatima Aik Ko Di Aik Ko Zainab Di Hai
-  
+  Jin ki naalain ke qausain bhi muhtaaj mile
+  Wo Nabi aur Ali barsar-e-Mairaaj mile
+  Tohfe Allah se do kal ke liye aaj mile
+  Donoṅ maasumoṅ ko ismat ke naye taaj mile
+  Shab-e-Mairaaj ye taqsim Khuda ne ki hai
+  Fatima ek ko di ek ko Zainab di hai
+
   4
-  Mah-e-Shaban-e-Yakam Our Woh Noor-e-Zainab
-  Kaba-e-Hazrat-e-Zahra Mein Zahoor-e-Zainab
-  Panjtan Hain Issi Khuwaish Mein Hazoor-e-Zainab
-  Meri Aagosh Ho Gehwara-e-Toor-e-Zainab
-  Oss Ki Marzi Hai Magar Oss Ko Uthaye Shabir
-  Sab Se Pehle Mujhe Seene Se Lagaye Shabir
-  
+  Maah-e-Shaabaan-e-yakam aur wo nur-e-Zainab
+  Kaaba-e-Hazrat-e-Zahra mein zuhur-e-Zainab
+  Panjtan haiṅ isi khwaahish mein huzur-e-Zainab
+  Meri aaghosh ho gahwaara-e-Tur-e-Zainab
+  Us ki marzi hai magar us ko uthaaye Shabbir
+  Sab se pehle mujhe sine se lagaaye Shabbir
+
   5
-  Zulmat-e-Sham Ki Tardeed Hai Pehli Shaban
-  Teen Shaban Ki Tamheed Hai Pehli Shaban
-  Chodah Masoomo Ki Umeed Hai Pehli Shaban
-  Sari Eidoon Ke Liye Eid Hai Pehli Shaban
-  Arsh Se Ban Ke Wilayat Ki Safeer Ayi Hai
-  Lailatulqadr Ke Ghar Eid-e-Ghadeer Ayi Hai
-  
+  Zulmat-e-Shaam ki tardid hai pehli Shaabaan
+  Tin Shaabaan ki tamhid hai pehli Shaabaan
+  Chaudah maasumoṅ ki ummid hai pehli Shaabaan
+  Saari eidoṅ ke liye eid hai pehli Shaabaan
+  Arsh se ban ke wilaayat ki safir aayi hai
+  Lailatulqadr ke ghar Eid-e-Ghadir aayi hai
+
   6
-  Tu Ne Usskut Jo Kaha Ho Gaye Aada Khamosh
-  Sirf Aada Hi Nahi Ho Giya Kofa Khamosh
-  Sirf Kofa Hi Nahi Ho Gayi Dunya Khamosh
-  Sirf Dunya Hi Nahi Khuda Tha Khamosh
-  Aisa Lehjay Ka Asar Tha Keh Zamana Chup Tha
-  Teri Tazeem Mein Khud Tera Gharan Chup Tha
-  
+  Tu ne uskut jo kaha ho gaye aadaa khaamosh
+  Sirf aadaa hi nahiṅ ho gaya Kufa khaamosh
+  Sirf Kufa hi nahiṅ ho gayi dunya khaamosh
+  Sirf dunya hi nahiṅ Khuda tha khaamosh
+  Aisa lehje ka asar tha ke zamaana chup tha
+  Teri taazim mein khud tera gharan chup tha
+
   7
-  Pal Mein Saqit Bhare Bazar Ki Hal Chal Kar Di
-  Aik Hi Baat Mein Har Baat Mukamil Kar Di
-  Waqt Par Waqt Ki Dehleez Muqafil Kar Di
-  Din Ko Mazool Kiya Raat Moatil Kar Di
-  Khof Mein Dobe Howay Dil Woh Ubharne Na Diye
-  Sans Bhi Rook Diye Loag Bhi Marne Na Diye
-  
+  Pal mein saakit bhare baazaar ki hal chal kar di
+  Ek hi baat mein har baat mukammal kar di
+  Waqt par waqt ki dehliz muqaffal kar di
+  Din ko maazul kiya raat muattal kar di
+  Khauf mein dube hue dil wo ubharne na diye
+  Saaṅs bhi rok diye log bhi marne na diye
+
   8
-  Qafila Farsh-e-Azza Ka Yeh Chali Hai Le Kar
-  Chodah Sadiyon Se Khatab Iss Ka Hai Jari Ghar Ghar
-  Tazia Jhola Alam Aanso Hai Iss Ka Lashkar
-  Kon Roke Ga Bhala Shah Ka Matam Akbar
-  Karbala Ka Jo Har Ik Sahib-e-Dil Qayal Hai
-  Iss Ki Tableeg Mein Zainab Ka Laho Shamil Hai
+  Qaafila farsh-e-aza ka ye chali hai le kar
+  Chaudah sadiyoṅ se khitaab is ka hai jaari ghar ghar
+  Taaziya jhula alam aaṅsu hai is ka lashkar
+  Kaun rokega bhala Shah ka maatam Akbar
+  Karbala ka jo har ik saahib-e-dil qaail hai
+  Is ki tabligh mein Zainab ka lahu shaamil hai
 ---
 
 ۱

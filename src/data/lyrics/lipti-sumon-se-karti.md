@@ -6,40 +6,41 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Anees Pehersari"
+reciter: "Ali Zia Rizvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Lipti sumon se karti thi masoom ye buka
-  Ay zuljana ran may na baba ko leke ja
+  Lipti sumoṅ se karti thi maasum ye buka
+  Ae Zuljanaah ran mein na baaba ko le ke ja
 
   1
-  Baaqi na koi muniso yawar watan se door
-  Aise may kar na mujhse shahedeen ko tu juda
+  Baaqi na koi munis o yaawar watan se dur
+  Aise mein kar na mujh se Shaah-e-diṅ ko tu juda
 
   2
-  Darti hoo jo gaya wo nahi aaya laut kar
-  Maqtal may leke jaa na inhe akse bawafa
+  Darti huṅ jo gaya wo nahiṅ aaya laut kar
+  Maqtal mein le ke ja na unheṅ aks-e-bawafa
 
   3
-  Aa jaye mere ammu to lejana shauk se
-  Rokungi phir na tujhko ye israr hai mera
+  Aa jaaye mere ammu to le jaana shauq se
+  Rokuṅgi phir na tujh ko ye israar hai mera
 
   4
-  Thaami lijaam sheh na kaha chal ay raahwaar
-  Lekin khadam badaye na saakib khada raha
+  Thaami lagaam Shah ne kaha chal ae rahwaar
+  Lekin qadam barhaaye na saakib khara raha
 
   5
-  Maula sakina lipti hai paon se aan kar
-  Dekhe to aap jhuk ke zara behre kibriya
+  Maula Sakina lipti hai paaoṅ se aan kar
+  Dekheṅ to aap jhuk ke zara bahr-e-Kibriya
 
   6
-  Utre faras se kehte hue shaahe naamdar
-  Bali sakina jaane do mujko paye khuda
+  Utre faras se kehte hue Shaah-e-naamdaar
+  Baali Sakina jaane do mujh ko paa-e-Khuda
 
   7
-  Behla rahe thay maula sakina ko is tarha
-  Nikli udhar qayaam se zainab barehna pa
+  Behla rahe the Maula Sakina ko is tarah
+  Nikli udhar khiyaam se Zainab barehna pa
 # source_id: nohayonline:b775014f13642e9b0d72
 # source_url: https://www.nohayonline.com/details_content.php?id=240
 # raw_sha256: 186a3e3aa9f5a424f0fbe4030e84a88434bc6243b68f0006ae4c04778746f54e
@@ -56,15 +57,15 @@ romanLyrics: |-
 مقتل میں لے کے جا نہ انہیں عکس باوفا
 
 ۳
-آجائیں میرے عموں تو لے جانا شوق سے
-روکو گی پھر نہ تجھ کو یہ اسرار ہے میرا
+آ جائیں میرے امّو تو لے جانا شوق سے
+روکوں گی پھر نہ تجھ کو یہ اصرار ہے میرا
 
 ۴
-تھامی لگام شہہ نے کہا چل اے راہوار
+تھامی لگام شہ نے کہا چل اے راہوار
 لیکن قدم بڑھائے نہ ساکب کھڑا رہا
 
 ۵
-مولا سکینہ لپٹی ہے پائوں سے آن کر
+مولا سکینہ لپٹی ہے پاؤں سے آن کر
 دیکھیں تو آپ جھک کے ذرا بہر کبریا
 
 ۶

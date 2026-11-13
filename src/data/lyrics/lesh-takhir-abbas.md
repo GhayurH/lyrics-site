@@ -6,142 +6,93 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Abbas abbas ya ya abbas
-
-  Lesh taakhir abbas
-
+romanLyrics: |-
+  Abbas Abbas ya ya Abbas
+  Lesh taakhir Abbas
 
   1
-
-  Raah takti hoo mai haye din dhal gaya
-
-  Door itni to ghar se nahi alqama
-
-  Aur rahwar bhi tez raftar ka
-
-  Maine jate huwe unko di thi dua
-
-  Be-asr hai dua jaane kya hogaya
-
+  Raah takti huṅ main haaye din dhal gaya
+  Dur itni to ghar se nahiṅ Alqama
+  Aur rahwaar bhi tez raftaar ka
+  Main ne jaate hue un ko di thi dua
+  Beasar hai dua jaane kya ho gaya
+  Lesh taakhir Abbas
 
   2
-
-  Khaali kooze kahan tak sambhale rahoo
-
-  Fazl o baqar ko kaise tasalli mai doo
-
-  Pyas lene nahi deti ek pal sukoon
-
-  Dhoond lao unhe haye kis se kahoon
-
-  Dam ukhadne laga ghut raha hai gala
-
+  Khaali kuze kahaaṅ tak sambhaale rahuṅ
+  Fazl o Baaqar ko kaise tasalli main duṅ
+  Pyaas lene nahiṅ deti ek pal sukuṅ
+  Dhund laao unheṅ haaye kis se kahuṅ
+  Dam ukharne laga ghut raha hai gala
+  Lesh taakhir Abbas
 
   3
-
-  Kab gaye thay irade se ladne ke wo
-
-  Rakh gaye thay wo ghar mein hi talwar ko
-
-  Keh rahe thay wo mujse sakina suno
-
-  Lao mashkeeza ay laadli hum ko do
-
-  Mai hoo dar par khadi dayr kyun ho gayi
-
+  Kab gaye the iraade se larne ke wo
+  Rakh gaye the wo ghar mein hi talwaar ko
+  Keh rahe the wo mujh se Sakina suno
+  Laao mashkiza ae laadli ham ko do
+  Main huṅ dar par khari der kiuṅ ho gayi
+  Lesh taakhir Abbas
 
   4
-
-  Maine bachon se pani ka waada kiya
-
-  Jhoota hojaye na haye waada mera
-
-  Mai sakina hoo dadi meri sayyeda
-
-  Waada jhoota nahi hone dega khuda
-
-  Kyun dhadakta hai dil ho rahi hai khadil
-
+  Main ne bachchoṅ se paani ka waada kiya
+  Jhuta ho jaaye na haaye waada mera
+  Main Sakina huṅ daadi meri Sayyeda
+  Waada jhuta nahiṅ hone dega Khuda
+  Kiuṅ dharakta hai dil ho rahi hai khadil
+  Lesh taakhir Abbas
 
   5
-
-  Ab to maidan se fauje adoo ja chuki
-
-  Khatm dashte bala mein ladaai hui
-
-  Ab to suraj mein baakhi tapish na rahi
-
-  Kya sabab hai batata nahi hai koi
-
-  Kya khafa hogaye nehr par sogaye
-
+  Ab to maidaaṅ se fauj-e-adu ja chuki
+  Khatm dasht-e-bala mein laraai hui
+  Ab to suraj mein baaqi tapish na rahi
+  Kya sabab hai bataata nahiṅ hai koi
+  Kya khafa ho gaye nehr par so gaye
+  Lesh taakhir Abbas
 
   6
-
-  Is andhere mein kya kar rahe hai wahan
-
-  Aap hi kuch bata dijiye amma jaan
-
-  Unko maloom hai mai hoo tishna dahan
-
-  Ab to pathar hui jaa rahi hai zuban
-
-  Jeena dushwar hai qaime jalne lagay
-
+  Is andhere mein kya kar rahe haiṅ wahaaṅ
+  Aap hi kuchh bata dijiye ammaaṅ jaaṅ
+  Un ko maalum hai main huṅ tishna dahaaṅ
+  Ab to patthar hui ja rahi hai zabaaṅ
+  Jina dushwaar hai khaime jalne lage
+  Lesh taakhir Abbas
 
   7
-
-  Bhaiya abid tumhi jaake lao khabar
-
-  Mashk itni to bhari nahi thi magar
-
-  Ke utha na sake murtaza ka pisar
-
-  Ab to khanjar se chalne lagay khalb par
-
-  Ay khuda tu bata lab pa ay mustufa
-
+  Bhaiya Aabid tum hi ja ke laao khabar
+  Mashk itni to bhaari nahiṅ thi magar
+  Ke utha na sake Murtaza ka pisar
+  Ab to khanjar se chalne lage qalb par
+  Ae Khuda tu bata lab pe ae Mustafa
+  Lesh taakhir Abbas
 
   8
-
-  Daf''atan khoon mein dooba alam aagaya
-
-  Zakhmi mashkeeza bhi tha alam se bandha
-
-  Pyasi bachi ke haathon se kooza gira
-
-  Phir to zere alam ek hi thi sada
-
-  Alqama alqama tu bata tu bata
-
+  Dafatan khun mein duba alam aa gaya
+  Zakhmi mashkiza bhi tha alam se bandha
+  Pyaasi bachchi ke haathoṅ se kuza gira
+  Phir to zer-e-alam ek hi thi sada
+  Alqama Alqama tu bata tu bata
+  Lesh taakhir Abbas
 
   9
-
-  Ghaib se aayi awaaz e khairunnisa
-
-  Ay sakina chacha tera maara gaya
-
-  Bazuon pe chali uske tayghe jafa
-
-  Moo ke bal mera ghazi zameen par gira
-
+  Ghaib se aayi aawaaz-e-Khairunnisa
+  Ae Sakina chacha tera maara gaya
+  Baazuoṅ pe chali us ke tegh-e-jafa
+  Muṅh ke bal mera Ghaazi zamiṅ par gira
   Khaak par baith ja ab na de ye sada
-
+  Lesh taakhir Abbas
 
   10
-
-  Ay rehaan o raza tha ye sadma bada
-
-  Shor ahle haram mein qayamat ka tha
-
+  Ae Rehaan o Raza tha ye sadma bara
+  Shor ahl-e-haram mein qayaamat ka tha
   Koi kehti thi bhaiya to koi chacha
-
-  Chadaron ka na ab koi zaamin raha
-
-  Chup sakina hui kis se ye poochti'
+  Chaadaroṅ ka na ab koi zaamin raha
+  Chup Sakina hui kis se ye puchhti
+  Lesh taakhir Abbas
 # source_id: nohayonline:1abf345e01ca5e6685c9
 # source_url: https://www.nohayonline.com/details_content.php?id=440
 # raw_sha256: dd150b7b743037f036ae20bfbbfc4454f7f8a79b818189d22bea25734ec143ea
@@ -154,67 +105,76 @@ romanLyrics: 'Abbas abbas ya ya abbas
 ليش تاخير عباس
 
 ۱
-راہ رکھتی ہوں میں ہائے دن ڈھل گیا
+راہ تکتی ہوں میں ہائے دن ڈھل گیا
 دور اتنی تو گھر سے نہیں علقمہ
 اور رہوار بھی تیز رفتار کا
-میں نے جاتے ہوئے اُن کودی تھی دُعا
+میں نے جاتے ہوئے اُن کو دی تھی دُعا
 بے اثر ہے دعا جانے کیا ہو گیا
+ليش تاخير عباس
 
 ۲
 خالی کُوزے کہاں تک سنبھالے رہوں
 فاضل و باقر کو کیسے تسلی میں دوں
 پیاس لینے نہیں دیتی اک پل سکوں
-ڈھونڈ لائو اُنہیں ہائے کس سے کہوں
+ڈھونڈ لاؤ اُنہیں ہائے کس سے کہوں
 دم اُکھڑنے لگا گھُٹ رہا ہے گلا
+ليش تاخير عباس
 
 ۳
 کب گئے تھے ارادے سے لڑنے کے وہ
 رکھ گئے تھے وہ گھر میں ہی تلوار کو
 کہہ رہے تھے وہ مجھ سے سکینہ سُنو
-لائو مشکیزہ اے لاڈلی ہم کو دو
+لاؤ مشکیزہ اے لاڈلی ہم کو دو
 میں ہوں در پر کھڑی دیر کیوں ہو گئی
+ليش تاخير عباس
 
 ۴
 میں نے بچوں سے پانی کا وعدہ کیا
-جھوٹا ہو جائے نہ ہاے وعدہ میرا
+جھوٹا ہو جائے نہ ہائے وعدہ میرا
 میں سکینہ ہوں دادی میری سیدہ
 وعدہ جھوٹا نہیں ہونے دے گا خدا
 کیوں دھڑکتا ہے دل ہو رہی ہے کھدل
+ليش تاخير عباس
 
 ۵
 اب تو میداں سے فوج عدو جا چکی
 ختم دشت بلا میں لڑائی ہوئی
 اب تو سورج میں باقی تپش نہ رہی
 کیا سبب ہے بتاتا نہیں ہے کوئی
-کیا خفا ہو گےء نہر پر سو گےء
+کیا خفا ہو گئے نہر پر سو گئے
+ليش تاخير عباس
 
 ۶
 اس اندھیرے میں کیا کر رہے ہیں وہاں
-آپ ہی کچھ بتا دیجیئے اماں جاں
+آپ ہی کچھ بتا دیجیے اماں جاں
 اُن کو معلوم ہے میں ہوں تشنہ دہاں
 اب تو پتھر ہوئی جا رہی ہے زباں
 جینا دشوار ہے خیمے جلنے لگے
+ليش تاخير عباس
 
 ۷
-بھیا عابد تم ہی جا کے لائو خبر
+بھیا عابد تم ہی جا کے لاؤ خبر
 مشک اتنی تو بھاری نہیں تھی مگر
-کے اُٹھا نہ سکے مرتضیٰ کا پسر
+کہ اُٹھا نہ سکے مرتضیٰ کا پسر
 اب تو خنجر سے چلنے لگے قلب پر
 اے خدا تُو بتا لب پہ اے مصطفیٰ
+ليش تاخير عباس
 
 ۸
-دفعتاً خون میں ڈوبا علم آگیا
-زکمی مشکیزہ بھی تھا علم سے بندھا
+دفعتاً خون میں ڈوبا علم آ گیا
+زخمی مشکیزہ بھی تھا علم سے بندھا
 پیاسی بچی کے ہاتھوں سے کُوزہ گرا
 پھر تو زیرِ علم اک ہی تھی صدا
 علقمہ علقمہ تُو بتا تُو بتا
+ليش تاخير عباس
 
 ۹
 غیب سے آئی آوازِ خیرُالنسا
 اے سکینہ چچا تیرا مارا گیا
-بازوئوں پہ چلی اُس کے تیغِ جفا
+بازوؤں پہ چلی اُس کے تیغِ جفا
 منہ کے بل میرا غازی زمیں پر گرا
 خاک پر بیٹھ جا اب نہ دے یہ صدا
+ليش تاخير عباس
 
 ۱۰
 اے ریحان و رضا تھا یہ صدمہ بڑا
@@ -222,3 +182,4 @@ romanLyrics: 'Abbas abbas ya ya abbas
 کوئی کہتی تھی بھیا تو کوئی چچا
 چادروں کا نہ اب کوئی ضامن رہا
 چپ سکینہ ہوئی کس سے یہ پوچھتی
+ليش تاخير عباس
