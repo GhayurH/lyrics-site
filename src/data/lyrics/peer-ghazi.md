@@ -1,73 +1,78 @@
 ---
 title: "با وفا عباس علماں والے میرے علماں والے"
-alternateTitle: "Peer Ghazi"
+alternateTitle: "Pir Ghazi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar & J. Jaffri"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
-aliases: []
+aliases: ["Peer Ghazi"]
 published: false
 romanLyrics: |-
-  Bawafa abbas alma waale mere alma waale
-  Alma waale mere mashkan waale
-  Shaah e wafa hai sunta sada hai
-  Karta ata hai o mera peer ghazi
-  
+  Bawafa Abbas alamaaṅ waale mere alamaaṅ waale
+  Alamaaṅ waale mere mashkaaṅ waale
+
+  Shah-e-wafa hai sunta sada hai
+  Karta ata hai o mera Pir Ghazi
+
+  Mera Pir Ghazi Maula wafa ka
+  O mera Pir Ghazi
+
   1
-  Mera peer ghazi maula wafa ka
-  O mera peer ghazi
-  Dunya may jis ka ye parcham ye sohna
-  Ghar ghar saja hai o mera peer ghazi
-  
+  Duniya mein jis ka ye parcham ye sohna
+  Ghar ghar saja hai o mera Pir Ghazi
+
   2
-  Ummul baneen ki aankhon ka taara
-  Jab maula ghazi dharti pe aaya
-  Us maa ka rutba kitna hai aala
-  Haa jis ko mila hai mera peer ghazi
-  
+  Ummul Banin ki aankhoṅ ka taara
+  Jab Maula Ghazi dharti pe aaya
+  Us maaṅ ka rutba kitna hai aala
+  Haaṅ jis ko mila hai mera Pir Ghazi
+
   3
-  Ghazi ka rutba hum kya batayein
-  Zahra ne jis ko di hai duayein
-  Hyder ne jis ke hai naaz uthaye
-  Haa aise pala hai mera peer ghazi
-  
+  Ghazi ka rutba ham kya bataaeṅ
+  Zahra ne jis ko di haiṅ duaaeṅ
+  Haidar ne jis ke haiṅ naaz uthaae
+  Haaṅ aise pala hai mera Pir Ghazi
+
   4
-  Baba bhi maula bhai bhi maula
-  Dono ka pyara ghazi hi maula
-  Har dar pe jis ki hai baadshahi
-  Haa wo badshaah hai o mera peer ghazi
-  
+  Baaba bhi Maula bhaai bhi Maula
+  Donoṅ ka pyaara Ghazi hi Maula
+  Har dar pe jis ki hai baadshaahi
+  Haaṅ wo baadshaah hai o mera Pir Ghazi
+
   5
-  Naize pe aaya jab maula ghazi
-  Behno ke sar par chadar nahi thi
-  Saare safar may rahi band aankhein
-  Haa rota raha hai o mera peer ghazi
-  
+  Neze pe aaya jab Maula Ghazi
+  Behnoṅ ke sar par chaadar nahiṅ thi
+  Saare safar mein rahi band aankheṅ
+  Haaṅ rota raha hai o mera Pir Ghazi
+
   6
-  Bhoolenge hum ye manzar kabhi na
-  Roti tadapti dar par sakina
-  Pyasi sakina tere gham may chaacha
-  Haa pyasa gaya hai o mera peer ghazi
-  
+  Bhuleṅ ge ham ye manzar kabhi na
+  Roti tarapti dar par Sakina
+  Pyaasi Sakina tere gham mein chaacha
+  Haaṅ pyaasa gaya hai o mera Pir Ghazi
+
   7
-  Jawad o sarwar ne sach kaha hai
-  Sab kuch wafa hai sab kuch wafa hai
-  Aulaad e zehra se pyar karna
-  Haa samjha gaya hai o mera peer ghazi
+  Jawad o Sarwar ne sach kaha hai
+  Sab kuchh wafa hai sab kuchh wafa hai
+  Aulaad-e-Zehra se pyaar karna
+  Haaṅ samjha gaya hai o mera Pir Ghazi
 # source_id: nohayonline:9f4b46c020b0b79d916f
 # source_url: https://www.nohayonline.com/details_content.php?id=1745
 # raw_sha256: 62555883ec47d2dd5c18ab4c65f6d4724c5a9df8988ecae923af225586cd0102
 ---
 با وفا عباس علماں والے میرے علماں والے
 علماں والے میرے مشکاں والے
+
 شاہ وفا ہے سنتا صدا ہے
 کرتا عطا ہے و میرا پیر غازی
 
-۱
 میرا پیر غازی مولا وفا کا
 و میرا پیر غازی
+
+۱
 دنیا میں جس کا یہ پرچم یہ سوہݨا
 گھر گھر سجا ہے و میرا پیر غازی
 
@@ -91,14 +96,14 @@ romanLyrics: |-
 
 ۵
 نیزے پہ آیا جب مولا غازی
-بہنوں كے سر پر چادر نہیں تھی
+بہنوں کے سر پر چادر نہیں تھی
 سارے سفر میں رہی بند آنکھیں
 ہاں روتا رہا ہے و میرا پیر غازی
 
 ۶
 بھولیں گے ہم یہ منظر کبھی نہ
-روتی تڑپتی در پر سكینہ
-پیاسی سكینہ تیرے غم میں چاچا
+روتی تڑپتی در پر سکینہ
+پیاسی سکینہ تیرے غم میں چاچا
 ہاں پیاسا گیا ہے و میرا پیر غازی
 
 ۷
