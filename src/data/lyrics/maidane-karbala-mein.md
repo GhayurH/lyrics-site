@@ -9,102 +9,6 @@ poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Maydan-e-karbala may, wo Akbar teri azan
-
-
-  1
-
-  1) Sunkar hussain-e ro diye, Mehre fugaa thi maa
-
-
-  2
-
-  2) Ayi sahar payame ajal, me dhali huwi
-
-  Maqboor-e tere sehre ki, ik ik dhali huwi
-
-  Zainab-e tamam-e shaba rahi, Ik do me darmiyan
-
-
-  3
-
-  3) Ye wo azan thi jisme tha, mehda rasul-e ka
-
-  Isme dikhayi dehta tha, majada batool-e ka
-
-  Isme namaziyo ka, Musala tha asamaa
-
-
-  4
-
-  4) Maa is azan-e farsh-e ka, suraj jagaa diya
-
-  Isne dilo me shok-e shahadat baraa diya)
-
-  Sunkar habib-e ibne, Mazahir huwe jawan
-
-
-  5
-
-  5) Thi ik azan seher ki to, ik asr-e ki azan
-
-  Maa kitne bars-e sone azan, mo ke darmiyan
-
-  Akbar azan-e us talak, Math-e par sina
-
-
-  6
-
-  6) Arman-e teri shadi ka, pura na ho saka
-
-  Kanghna bandha na mehandi laghi, wa musibata
-
-  Behno ke dil udas-e hai, Nawha suna hai maa
-
-
-  7
-
-  7) Bali sakina nek-e me, ab kya talab-e kare
-
-  Karbobala larazti hai, zainab ki bain-e se
-
-  Khakar sina rawaana huwe, Tum suwe jinaa
-
-
-  8
-
-  8) Shaam-e ghariba agayi, khayme sulag-e huwe
-
-  Bache tamam-e khak-e pe, pyase hi sogaye
-
-  Akbar puphi ke shano me, Karti hai etmemaa
-
-
-  9
-
-  9) Khanjar tale hussain-e ne, tumko kiya tha yaad
-
-  Maa zinda lash-e hogayi, Akbar tumhari baad
-
-  Aise gaye ho gar se ke, Milta nahi nishan
-
-
-  10
-
-  10) Ham shakle mustufa the dilo, ka tharar-e se
-
-  Tumko zaif-e bap-e ka, ma ro mazar-e se
-
-  Hai tere bad-e gulshan-e, Shabbir-e me siza
-
-
-  11
-
-  Nasir jawani-e-ali akbar ka waasta
-
-  Nauhe mein apne jis ghadi rehaan ne diya
-
-  Sar par ridaye zehra hui misle sayeban'
 reciter: Tanzeem-ul-Husaini (Nasir Zaidi)
 # source_id: nohayonline:90c282d6398de56fffae
 # source_url: https://www.nohayonline.com/details_content.php?id=798
@@ -116,23 +20,76 @@ reciter: Tanzeem-ul-Husaini (Nasir Zaidi)
 # source_url: https://www.ziyaraat.net/api/noha/2377
 # raw_sha256: 5dc17ef31ef503bd834ba0dc2f25439bee3a62cbf2d4d83ff2772de0ff2f1d8d
 # added_stanza_source: roman:kalam-nohayonline-90c282d6398de56fffae
+romanLyrics: |-
+  Maidan-e-Karbala meiṅ woh Akbar teri azaaṅ
+  Sun kar Husain ro diye mahv-e-fughaaṅ thi maaṅ
+
+  1
+  Aayi sahar payam-e-ajal meiṅ dhali hui
+  Maghmum tere sehre ki ek ek kali hui
+  Zainab tamaam shab rahi sajdoṅ ke darmiyaaṅ
+
+  2
+  Yeh woh azaaṅ thi jis meiṅ tha lehja Rasool ka
+  Is meiṅ dikhaai deta tha sajda Batool ka
+  Is meiṅ namaziyoṅ ka musalla tha aasmaaṅ
+
+  3
+  Haaṅ is ada ne arsh ka suraj jaga diya
+  Itne diloṅ meiṅ shauq-e-shahadat bandha diya
+  Sun kar Habib Ibn-e-Mazahir hue jawaaṅ
+
+  4
+  Thi ek azaaṅ sahar ki to ek asr ki azaaṅ
+  Tha kitna farq donoṅ azaanoṅ ke darmiyaaṅ
+  Akbar azaan-e-asr talak kha chuke sinaaṅ
+
+  5
+  Armaan teri shaadi ka pura na ho saka
+  Kangan bandha na mehndi lagi wa musibata
+  Behnoṅ ke dil udaas haiṅ nauha kunaṅ hai maaṅ
+
+  6
+  Baali Sakina neg meiṅ ab kya talab kare
+  Karb o bala larazti hai Zainab ke bain se
+  Kha kar sinaaṅ rawana hue tum su-e-jinaaṅ
+
+  7
+  Shaam-e-gharibaaṅ aa gayi khaime sulag uthe
+  Bachche tamaam khaak pe pyaase hi so gaye
+  Akbar phuphi ke shaanoṅ meiṅ baaṅdhti hai resmaaṅ
+
+  8
+  Khanjar tale Husain ne tum ko kiya tha yaad
+  Maaṅ zinda laash ho gayi Akbar tumhare baad
+  Aise gaye ho ghar se ke milta nahiṅ nishaaṅ
+
+  9
+  Hamshakl-e-Mustafa the diloṅ ka qarar the
+  Tum to zaif baap ka daar o madaar the
+  Hai tere baad gulshan-e-Shabbir meiṅ khizaaṅ
+
+  10
+  Nasir jawani-e-Ali Akbar ka wasta
+  Nauhe meiṅ apne jis ghari Rehaan ne diya
+  Sar par rida-e-Zehra hui misl-e-saibaaṅ
 ---
 
 میدانِ کربلا میں وہ اکبرؑ تیری اذاں
+سُن کر حسین رو دیئے محو فُغاں تھی ماں
 
 ۱
-سُن کر حسین رو دیئے نہرِ فُغاں تھی ماں
 آئی سحر پیامِ اجل میں ڈھلی ہوئی
 مغموم تیرے سہرے کی اک اک کلی ہوئی
 زینب تمام شب رہی سجدوں کے درمیاں
 
 ۲
 یہ وہ اذاں تھی جس میں تھا لہجہ رسول کا
-اُس میں دیکھائی دیتا تھا سجدہ بتول کا
+اس میں دکھائی دیتا تھا سجدہ بتول کا
 اس میں نمازیوں کا مصلّہ تھا آسماں
 
 ۳
-ہاں اک اذانِ عرش کا سورج رضا دیا
+ہاں اس ادا نے عرش کا سورج جگا دیا
 اتنے دلوں میں شوقِ شہادت بندھا دیا
 سُن کر حبیب ابنِ مظاہر ہوئے جواں
 
@@ -153,7 +110,7 @@ reciter: Tanzeem-ul-Husaini (Nasir Zaidi)
 
 ۷
 شامِ غریباں آ گئی خیمے سُلگ اُٹھے
-بچے تمام خاک پہ آتے ہی سو گئے
+بچے تمام خاک پہ پیاسے ہی سو گئے
 اکبر پھُوپھی کے شانوں میں باندھتی ہے ریسماں
 
 ۸
