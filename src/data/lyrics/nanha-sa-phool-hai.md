@@ -6,56 +6,58 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Inkaar aasman ko hai raazi zameen nahi
-  Asghar tere lahoo ka thikana kahin nahi
-  Maidan mein garmi hai matti hai dhool hai
-  Jalti hai ye zameen tu nanha sa phool hai
-  Goya pisar ki laash se sibte rasool hai
-  Jalti hai ye zameen tu nanha sa phool hai
-  
+  Inkaar aasmaaṅ ko hai raazi zamiṅ nahiṅ
+  Asghar tere lahu ka thikaana kahiṅ nahiṅ
+  Maidaan mein garmi hai mitti hai dhul hai
+  Jalti hai ye zamiṅ tu nanha sa phul hai
+
+  Goya pisar ki laash se Sibt-e-Rasul hai
+  Jalti hai ye zamiṅ tu nanha sa phul hai
+
   1
-  Asghar ki qabr khood kar rote rahe hussain
-  Kehte thay haye lakhte jigar mere dil ke chain
-  Tere liye hussain bahot dil malool hai
-  
+  Asghar ki qabr khod kar rote rahe Husain
+  Kehte the haaye lakht-e-jigar mere dil ka chain
+  Tere liye Husain bahut dil malul hai
+
   2
-  Qaime ki simt kis tarha jaaun mere pisar
-  Kis tarha tere marg ki bano ko doon khabar
-  Us ko tere baghair to marna qubool hai
-  
+  Khaime ki simt kis tarah jaauṅ mere pisar
+  Kis tarah tere marg ki Bano ko duṅ khabar
+  Us ko tere baghair to marna qubul hai
+
   3
-  Jhoola jhulane waali ko kaise bataunga
-  Bano se is khabar ko mai kaise chupaunga
-  Zainab bhi untazir hai jo binte batool hai
-  
+  Jhula jhulaane wali ko kaise bataauṅ ga
+  Bano se is khabar ko main kaise chhupaauṅ ga
+  Zainab bhi muntazir hai jo Bint-e-Batul hai
+
   4
-  Ab hum bhi marne jaate hai ay laal alwida
+  Ab hum bhi marne jaate haiṅ ae laal alwida
   Laasha hamara hona hai pamaal alwida
-  Bach jaaye deen nana ka mehnat wasool hai
-  
+  Bach jaaye din nana ka mehnat wusul hai
+
   5
-  Ay fauje kibriya ke mujahid tujhe salaam
-  Kya shaan e bezubani se tu ne kiya kalaam
-  Tareekh e guftugu ka anokha usool hai
-  
+  Ae fauj-e-Kibriya ke mujaahid tujhe salaam
+  Kya shaan-e-bezubaani se tu ne kiya kalaam
+  Taarikh-e-guftugu ka anokha usul hai
+
   6
-  Laasha hai uske haat pe khoon mein bhara hua
-  Jisko labe furaat bhi pani na mil saka
-  Jiske liye rasool ke sajde ko tool hai
-  
+  Laasha hai us ke haath pe khuṅ mein bhara hua
+  Jis ko lab-e-Furaat bhi paani na mil saka
+  Jis ke liye Rasul ke sajde ko tul hai
+
   7
-  Zakhmi tera gala hai lahoo phool sa badan
-  Qaime ke dar pe bali sakina teri behan
-  Kehti hai tere baad ghamon ka nuzool hai
-  
+  Zakhmi tera gala hai lahu phul sa badan
+  Khaime ke dar pe baali Sakina teri behen
+  Kehti hai tere baad ghamoṅ ka nuzul hai
+
   8
-  Rehaan nauha goyi ne farhan kar diya
-  Mazboot aur bhi mera emaan kar diya
-  Mit jaaye zikre shaah ye aada ki bhool hai
+  Rehaan noha goi ne Farhan kar diya
+  Mazbut aur bhi mera imaan kar diya
+  Mit jaaye zikr-e-Shaah ye aada ki bhul hai
 # source_id: nohayonline:f094258af041f2c3f930
 # source_url: https://www.nohayonline.com/details_content.php?id=2695
 # raw_sha256: 9e62745d48ea29032aea98bbbef3358f89b6268f329fde26cf21a2053c41ca89
@@ -64,13 +66,14 @@ romanLyrics: |-
 اصغر تیرے لہو کا ٹھکانہ کہیں نہیں
 میدان میں گرمی ہے مٹی ہے دھول ہے
 جلتی ہے یہ زمیں تو ننھا سا پھول ہے
-گویا پسر کی لاش سے سبط رسول ہے
+
+گویا پسر کی لاش سے سبطِ رسول ہے
 جلتی ہے یہ زمیں تو ننھا سا پھول ہے
 
 ۱
 اصغر کی قبر کھود کر روتے رہے حسین
-کہتے تھے ہاے لختِ جگر میرے دل کا چین
-تیرے لیےء حسین بہت دل ملول ہے
+کہتے تھے ہائے لختِ جگر میرے دل کا چین
+تیرے لیے حسین بہت دل ملول ہے
 
 ۲
 خیمے کی سمت کس طرح جاؤں میرے پسر
@@ -80,22 +83,22 @@ romanLyrics: |-
 ۳
 جھولا جھلانے والی کو کیسے بتاؤں گا
 بانو سے اس خبر کو میں کیسے چھپاؤں گا
-زینب بھی منتظر ہے جو بنت بتول ہے
+زینب بھی منتظر ہے جو بنتِ بتول ہے
 
 ۴
 اب ہم بھی مرنے جاتے ہیں اے لال الوداع
 لاشہ ہمارا ہونا ہے پامال الوداع
-بچ جاے دین نانا کا محنت وصول ہے
+بچ جائے دین نانا کا محنت وصول ہے
 
 ۵
-اے فوج کبریا کے مجاہد تجھے سلام
-کیا شان بے زبانی سے تو نے کیا کلام
-تاریخ گفتگو کا انوکھا اصول ہے
+اے فوجِ کبریا کے مجاہد تجھے سلام
+کیا شانِ بے زبانی سے تو نے کیا کلام
+تاریخِ گفتگو کا انوکھا اصول ہے
 
 ۶
 لاشہ ہے اس کے ہاتھ پہ خوں میں بھرا ہوا
-جس کو لب فرات بھی پانی نہ مل سکا
-جس کے لیےء رسول کے سجدے کو طول ہے
+جس کو لبِ فرات بھی پانی نہ مل سکا
+جس کے لیے رسول کے سجدے کو طول ہے
 
 ۷
 زخمی تیرا گلا ہے لہو پھول سا بدن
@@ -105,4 +108,4 @@ romanLyrics: |-
 ۸
 ریحان نوحہ گوی نے فرحان کر دیا
 مضبوط اور بھی میرا ایمان کر دیا
-مٹ جاے ذکرِ شاہ یہ اعدا کی بھول ہے
+مٹ جائے ذکرِ شاہ یہ اعدا کی بھول ہے

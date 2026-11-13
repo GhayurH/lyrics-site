@@ -6,49 +6,50 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shakeeb"
+reciter: "Tableegh e Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Nange sar jab kabhi namoose giraftar chale
-  Parda daari ke liye saaya e deewar chale
+  Nange sar jab kabhi naamus-e-giraftaar chale
+  Parda daari ke liye saaya-e-diwaar chale
 
   1
-  Usne ek sajda e aakhir se sabakh seekha hai
-  Aalame shauq may jab koi suye daar chale
+  Us ne ik sajda-e-aakhir se sabaq sikha hai
+  Aalam-e-shauq mein jab koi su-e-daar chale
 
   2
-  Ek ishara hai ye hamsheer o biradar ki taraf
-  Nafs ke saath agar saans ki raftaar chale
+  Ek ishaara hai ye hamshir o biraadar ki taraf
+  Nafs ke saath agar saaṅs ki raftaar chale
 
   3
-  Mujhko har lamha maseeha ka gumaan hota hai
-  Rayg zaaron may agar koi bhi bemaar chale
+  Mujh ko har lamha Masiha ka gumaaṅ hota hai
+  Regzaaroṅ mein agar koi bhi bimaar chale
 
   4
-  Uske hamraah zara aap bhi aahista chale
+  Us ke hamraah zara aap bhi aahista chaleṅ
   Pa ba zanjeer agar koi giraftaar chale
 
   5
-  Bibiyan ho to ridayein bhi mohayya kijay
-  Khafila jab bhi koi shehr ke bazaar chale
+  Bibiyaaṅ hoṅ to ridaaeṅ bhi muhayya kijiye
+  Qaafila jab bhi koi shehr ke baazaar chale
 
   6
-  Zulm ki had hai ke jab aalam e tanhai may
-  Khastaja par sar e maqtal kabhi talwar chale
+  Zulm ki had hai ke jab aalam-e-tanhaai mein
+  Khasta jaaṅ par sar-e-maqtal kabhi talwaar chale
 
   7
-  Ek aalam mere ehsaas may rota hai shakeeb
-  Sabz parcham ke talay jab bhi alamdar chale
+  Ek aalam mere ehsaas mein rota hai Shakeeb
+  Sabz parcham ke tale jab bhi alamdaar chale
 # source_id: nohayonline:b6df7be5a4deff11e8be
 # source_url: https://www.nohayonline.com/details_content.php?id=654
 # raw_sha256: 6b8fd2305f642424e41415f1c3bfa9c7852306d531637d4008368d616a3175f6
 ---
 ننگے سر جب کبھی ناموسِ گرفتار چلے
-پردہ داری کے لیئے سایہِ دیوار چلے
+پردہ داری کے لیے سایۂ دیوار چلے
 
 ۱
-اُس نے اک سجدئہ آخر سے سبق سیکھا ہے
+اُس نے اک سجدۂ آخر سے سبق سیکھا ہے
 عالمِ شوق میں جب کوئی سوئے دار چلے
 
 ۲
@@ -56,7 +57,7 @@ romanLyrics: |-
 نفس کے ساتھ اگر سانس کی رفتار چلے
 
 ۳
-مجھکو ہر لمحہ مسیحا کا گماں ہوتا ہے
+مجھ کو ہر لمحہ مسیحا کا گماں ہوتا ہے
 ریگ زاروں میں اگر کوئی بھی بیمار چلے
 
 ۴
@@ -64,7 +65,7 @@ romanLyrics: |-
 پا با زنجیر اگر کوئی گرفتار چلے
 
 ۵
-بیبیاں ہوں تو ردائیں بھی مہیا کیجیئے
+بیبیاں ہوں تو ردائیں بھی مہیا کیجیے
 قافلہ جب بھی کوئی شہر کہ بازار چلے
 
 ۶
