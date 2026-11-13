@@ -1,50 +1,51 @@
 ---
-title: "قضا کی آخری ہچکی بڑی نہ مہربان نکلی"
+title: "قضا کی آخری ہچکی بڑی نامہربان نکلی"
 alternateTitle: "Qaza Ki Aakhri"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"
+reciter: "Mukhtar Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Qaza ki aakhri hichki badi na-meherban nikli
-  Udhar sughra ka khat aaya idhar akbar ki jaan nikli
+  Qaza ki aakhri hichki bari namehrbaan nikli
+  Idhar Sughra ka khat aaya idhar Akbar ki jaaṅ nikli
 
   1
-  Nigahein jaanib e qaima thi aur shabbir kehte thay
-  Qayamat hogi qaimon se agar akbar ki maa nikli
+  Nigaaheṅ jaanib-e-khaima thi aur Shabbir kehte the
+  Qayamat hogi khaimoṅ se agar Akbar ki maaṅ nikli
 
   2
-  Jigar bhi aa gaya shabbir ke haathon mein bete ka
-  Ali akbar ke seene se akeli kab sina nikli
+  Jigar bhi aa gaya Shabbir ke haathoṅ mein bete ka
+  Ali Akbar ke sine se akeli kab sinaaṅ nikli
 
   3
-  Ali akbar ne yun allahu akbar ki sada di thi
-  Qaza ke waqt seene se lahoo ban ker azan nikli
+  Ali Akbar ne yuṅ Allahu Akbar ki sada di thi
+  Qaza ke waqt sine se lahu ban kar azaaṅ nikli
 
   4
-  Akele kis tarha shabbir mayyat ko uthayenge
-  Madad ke waaste zainab bhi zer e asmaan nikli
+  Akele kis tarah Shabbir mayyat ko uthaaeṅge
+  Madad ke waaste Zainab bhi zer-e-aasmaaṅ nikli
 
   5
-  Hataya laal ka zakhm e jigar se haath madar ne
-  Khaleel ullah ke lab se sada e al-amaan nikli
+  Hataaya laal ka zakhm-e-jigar se haath maadar ne
+  Khalil Allah ke lab se sada-e-alamaan nikli
 
   6
-  Azan ke waqt se pyase thay naize khoon e akbar ke
-  Qaza ke waqt seene se lahoo ban kar azan nikli
+  Azaaṅ ke waqt se pyaase the neze khun-e-Akbar ke
+  Qaza ke waqt sine se lahu ban kar azaaṅ nikli
 
   7
-  Mohamed karbala waala moazzin tha mohamed ka
-  Kahan ki dushmani ummat ko thi akbar kahan nikli
+  Muhammad Karbala waala muazzin tha Muhammad ka
+  Kahaaṅ ki dushmani ummat ko thi Akbar kahaaṅ nikli
 # source_id: nohayonline:ba6cac2a8973712e4f0d
 # source_url: https://www.nohayonline.com/details_content.php?id=2091
 # raw_sha256: 41e33b5acef5d55d608800779411a92461486186c4f6ca209970dd18212b27a3
 ---
-قضا کی آخری ہچکی بڑی نہ مہربان نکلی
+قضا کی آخری ہچکی بڑی نامہربان نکلی
 ادھر صغرا کا خط آیا ادھر اکبر کی جاں نکلی
 
 ۱
@@ -56,16 +57,16 @@ romanLyrics: |-
 علی اکبر کے سینے سے اکیلی کب سناں نکلی
 
 ۳
-علی اکبر نے یوں الللہ اکبر کی صدا دی تھی
+علی اکبر نے یوں اللہ اکبر کی صدا دی تھی
 قضا کے وقت سینے سے لہو بن کر اذاں نکلی
 
 ۴
-اکیلے کس طرح شبیر میت کو اٹھاینگے
+اکیلے کس طرح شبیر میت کو اٹھائیں گے
 مدد کے واسطے زینب بھی زیر آسماں نکلی
 
 ۵
 ہٹایا لال کا زخم جگر سے ہاتھ مادر نے
-خلیل اللّٰہ کے لب سے صداے الامان نکلی
+خلیل اللّٰہ کے لب سے صدائے الامان نکلی
 
 ۶
 اذاں کے وقت سے پیاسے تھے نیزے خونِ اکبر کے

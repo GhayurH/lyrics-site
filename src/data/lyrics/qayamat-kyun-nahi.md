@@ -1,45 +1,46 @@
 ---
 title: "پکاری غربتِ زہرا قیامت کیوں نہیں آئی"
-alternateTitle: "Qayamat Kyun Nahi"
+alternateTitle: "Qayamat Kiuṅ Nahiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zafar Abbas"
+reciter: "Rizwan Zaidi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Qayamat Kyun Nahi"]
 published: false
 romanLyrics: |-
-  Pukari ghurbate zahra qayamat kyun nahi aayi
-  Madine mein hua kya kya qayamat kyun nahi aayi
+  Pukaari ghurbat-e-Zahra qayamat kiuṅ nahiṅ aayi
+  Madine mein hua kya kya qayamat kiuṅ nahiṅ aayi
 
   1
-  Giraya sayyeda par jalta darwaza layeeno ne
-  Tadap kar reh gayi zahra qayamat kyun nahi aayi
+  Giraaya Sayyeda par jalta darwaaza lainoṅ ne
+  Tarap kar reh gayiṅ Zahra qayamat kiuṅ nahiṅ aayi
 
   2
-  Ali ko le gaye jab qaid kar ke qaatil e mohsin
-  Laraz kar reh gaya kaaba qayamat kyun nahi aayi
+  Ali ko le gaye jab qaid kar ke qaatil-e-Mohsin
+  Laraz kar reh gaya Kaaba qayamat kiuṅ nahiṅ aayi
 
   3
-  Wo jis bibi ke aane par khade hote thay paighambar
-  Khadi hai aaj wo dukhiya qayamat kyun nahi aayi
+  Wo jis Bibi ke aane par khare hote the Paighambar
+  Khari hai aaj wo dukhiya qayamat kiuṅ nahiṅ aayi
 
   4
-  Salaam aa aa ke karte thay rasool allah jis dar par
-  Jala jab wohi darwaza qayamat kyun nahi aayi
+  Salaam aa aa ke karte the Rasul Allah jis dar par
+  Jala jab wo hi darwaaza qayamat kiuṅ nahiṅ aayi
 
   5
-  Jo thi siddiqa e aalam sar e darbar ummat ne
-  Jab us bibi ko jhutlaya qayamat kyun nahi aayi
+  Jo thiṅ Siddiqa-e-Aalam sar-e-darbaar ummat ne
+  Jab us Bibi ko jhutlaaya qayamat kiuṅ nahiṅ aayi
 
   6
-  Lipat kar maa ki mayyat se shahe mazloom kehte thay
-  Saron se uth gaya saaya qayamat kyun nahi aayi
+  Lipat kar maaṅ ki mayyat se Shah-e-Mazlum kehte the
+  Saroṅ se uth gaya saaya qayamat kiuṅ nahiṅ aayi
 
   7
-  Zafar ab bhi sitam jaari hai bibi par baqayya mein
-  Hua mismaar jab rauza qayamat kyun nahi aayi
+  Zafar ab bhi sitam jaari haiṅ Bibi par Baqia mein
+  Hua mismaar jab rauza qayamat kiuṅ nahiṅ aayi
 # source_id: nohayonline:de03a74636f340fc8140
 # source_url: https://www.nohayonline.com/details_content.php?id=3285
 # raw_sha256: 014532ae8d032c2154eb22086b4079990e2d5b1ed95088be70a066d060edcc5a
@@ -56,7 +57,7 @@ romanLyrics: |-
 لرز کر رہ گیا کعبہ قیامت کیوں نہیں آئی
 
 ۳
-وہ جس بی بی کے آنے پر کھڑے ہوتے تھے پیغمبر
+وہ جس بی‌بی کے آنے پر کھڑے ہوتے تھے پیغمبر
 کھڑی ہے آج وہ دکھیا قیامت کیوں نہیں آئی
 
 ۴
@@ -65,12 +66,12 @@ romanLyrics: |-
 
 ۵
 جو تھیں صدیقہِ عالم سرِ دربار امت نے
-جب اُس بی بی کو جھٹلایا قیامت کیوں نہیں آئی
+جب اُس بی‌بی کو جھٹلایا قیامت کیوں نہیں آئی
 
 ۶
 لپٹ کر ماں کی میت سے شہ مظلوم کہتے تھے
 سروں سے اُٹھ گیا سایہ قیامت کیوں نہیں آئی
 
 ۷
-ظفر اب بھی ستم جاری ہیں بی بی پر بقیعہ میں
+ظفر اب بھی ستم جاری ہیں بی‌بی پر بقیعہ میں
 ہوا مسمار جب روضہ قیامت کیوں نہیں آئی
