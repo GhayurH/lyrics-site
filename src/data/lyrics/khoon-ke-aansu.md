@@ -1,48 +1,49 @@
 ---
 title: "خون کے آنسو لہو لہو یہ منظر تیرے نام"
-alternateTitle: "Khoon Ke Aansu"
+alternateTitle: "Khun Ke Aansu"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
-aliases: []
+aliases: ["Khoon Ke Aansu"]
 published: false
 romanLyrics: |-
-  Khoon ke aansu lahoo lahoo ye manzar tere naam
-  Tapti reti be-sar laashe sarwar tere naam
-  
+  Khun ke aansu lahu lahu ye manzar tere naam
+  Tapti reti besar laasha-e-Sarwar tere naam
+
   1
-  Chala abu talib ka beta aayi nidaye ghaib
-  Farshe nabi par sone wale khyber tere naam
-  
+  Chala Abu Talib ka beta aayi nidaa-e-ghaib
+  Farsh-e-Nabi par sone wale Khaibar tere naam
+
   2
-  Has kar boli binte asad se kaabe ki deewar
-  Sher ki dukhtar sher ki maadar ye ghar tere naam
-  
+  Hans kar boli Bint-e-Asad se Kaabe ki diwaar
+  Sher ki dukhtar, sher ki maadar ye ghar tere naam
+
   3
-  Teri ghulami rashke ameeri wah teri taqdeer
-  Aal ki kidmat deen ki nusrat qambar tere naam
-  
+  Teri ghulaami rashk-e-amiri waah teri taqdir
+  Aal ki khidmat din ki nusrat Qambar tere naam
+
   4
-  Ghurbat mein jaan de di lekin daaman e aal na choda
-  Haq ki rifaqat faqr ki daulat buzar tere naam
-  
+  Ghurbat mein jaaṅ de di lekin daaman-e-Aal na chhora
+  Haq ki rifaaqat faqr ki daulat Buzar tere naam
+
   5
-  Kaisi chain ki neend aayi hai talwaron ke neeche
-  Sone waale aaj nabi ka bistar tere naam
-  
+  Kaisi chain ki nind aayi hai talwaaroṅ ke niche
+  Sone wale aaj Nabi ka bistar tere naam
+
   6
-  Sehre ka arman hai dil mein maa ko kya maloom
-  Maut jawani ne likh di hai akbar tere naam
-  
+  Sehre ka armaan hai dil mein maaṅ ko kya maalum
+  Maut jawaani ne likh di hai Akbar tere naam
+
   7
-  Sar nange hai jaane waali bazaar e kufa mein
-  Khudrat ne tatheer ki likhdi chadar tere naam
-  
+  Sar nange hai jaane waali baazaar-e-Kufa mein
+  Qudrat ne tathir ki likh di chaadar tere naam
+
   8
-  Chand sa chehra khoon mein ghaltan baap ka baazu zakhmi
-  Pyaas ki shiddat maut ki lazzat asghar tere naam
+  Chaand sa chehra khun mein ghaltaaṅ baap ka baazu zakhmi
+  Pyaas ki shiddat maut ki lazzat Asghar tere naam
 # source_id: nohayonline:76e790aa05f47656bf9f
 # source_url: https://www.nohayonline.com/details_content.php?id=471
 # raw_sha256: 61fda25e49b76287dd4d73b46e7d5c3c2883af4b626b824cadc45ad9e69306b4
@@ -56,8 +57,8 @@ romanLyrics: |-
 فرشِ نبی پر سونے والے خیبر تیرے نام
 
 ۲
-ہس کر بولی بنتِ اسد سے کعبے کی دیوار
-شیر کی دُختر،شیر کی مادر یہ گھر تیرے نام
+ہنس کر بولی بنتِ اسد سے کعبے کی دیوار
+شیر کی دُختر، شیر کی مادر یہ گھر تیرے نام
 
 ۳
 تیری غلامی رشکِ امیری واہ تیری تقدیر

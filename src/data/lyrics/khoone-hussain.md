@@ -1,71 +1,74 @@
 ---
-title: "ہاے مظلوم حسین"
-alternateTitle: "Khoone Hussain"
+title: "ہائے مظلوم حسین"
+alternateTitle: "Khun-e-Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Ameer Hasan Aamir"
 poet: "Alam Sultanpuri"
 tags: ["noImage"]
-aliases: []
+aliases: ["Khoone Hussain"]
 published: false
 romanLyrics: |-
-  Haye mazloom hussain
-  Mera mazloom hussain
-  Khoone hussain jaa ke khuda ko dikhaungi
-  Ab hashr tak lahoo ko na moo se chudaungi
+  Haaye mazlum Husain
+  Mera mazlum Husain
+
+  Khun-e-Husain jaa ke Khuda ko dikhaauṅ gi
+  Ab hashr tak lahu ko na muṅh se chhuraauṅ gi
 
   1
-  Haq se kahungi fatema faryad laayi hai
-  Ummat ne mere laal ko maara duhaai hai
-  Nauha yehi mai hashr mein padti hi jaungi
+  Haq se kahuṅ gi Fatima faryaad laayi hai
+  Ummat ne mere laal ko maara duhaayi hai
+  Nauha yahi main hashr mein parhti hi jaauṅ gi
 
   2
-  Pani dikha dikha ke rulaaya hussain ko
-  Nazron ke mere saamne maara hussain ko
-  Ro ro ke apne laal pe sab ko rulaungi
+  Paani dikha dikha ke rulaaya Husain ko
+  Nazroṅ ke mere saamne maara Husain ko
+  Ro ro ke apne laal pe sab ko rulaauṅ gi
 
   3
-  Karte raho ay momino matam hussain ka
-  Tum sab ke kaam aayega ye gham hussain ka
-  Waada hai fatema ka tumhe bakhshwaungi
+  Karte raho Ae mominoṅ maatam Husain ka
+  Tum sab ke kaam aaye ga ye gham Husain ka
+  Waada hai Fatima ka tumheṅ bakhshwaauṅ gi
 
   4
-  Bachon ke mere khoon se tar hai meri rida
-  Khanjar se haye mera bhi zakhmi hua gala
-  Ashkon ke badle aankh se mai khoon bahaungi
+  Bachchoṅ ke mere khun se tar hai meri rida
+  Khanjar se haaye mera bhi zakhmi hua gala
+  Ashkoṅ ke badle aankh se main khuṅ bahaauṅ gi
 
   5
-  Dashte bala ki bekasi us dil ke chain ki
-  Hogi bapa jo hashr mein majlis hussain ki
-  Jo bhi huwe wo saare masayab sunaungi
+  Dasht-e-bala ki bekasi us dil ke chain ki
+  Ho gi bapa jo hashr mein majlis Husain ki
+  Jo bhi hue wo saare masaaib sunaauṅ gi
 
   6
-  Ab qabr mein na chain se soyegi fatema
-  Jangal mein apne laal pe royegi fatema
-  Hogi jahan pe majlis e shabbir jaungi
+  Ab qabr mein na chain se soye gi Fatima
+  Jangal mein apne laal pe roye gi Fatima
+  Ho gi jahaaṅ pe majlis-e-Shabbir jaauṅ gi
 
   7
-  Pehlu shikasta bibi ye kehti hai baar baar
-  Jo majlis e hussain mein rota hai zaar zaar
-  Unko liye baghair na jannat mein jaungi
+  Pehlu shikasta Bibi ye kehti hai baar baar
+  Jo majlis-e-Husain mein rota hai zaar zaar
+  Un ko liye baghair na jannat mein jaauṅ gi
 
   8
-  Aamir bataun kaise mere dil ke chain ko
-  Meri nazar ke saamne maara hussain ko
-  Aalam ye nauha hashr mein padti mai jaungi
+  Aamir bataauṅ kaise mere dil ke chain ko
+  Meri nazar ke saamne maara Husain ko
+  Aalam ye nauha hashr mein parhti main jaauṅ gi
 # source_id: nohayonline:968203ccf9b01acb1264
 # source_url: https://www.nohayonline.com/details_content.php?id=2447
 # raw_sha256: 1f147a26e1f65b9aab8b2b7f6e40d4067a23836095cd56c3457ad6057d442b42
 ---
-ہاے مظلوم حسین
+ہائے مظلوم حسین
 میرا مظلوم حسین
+
 خونِ حسین جا کے خدا کو دکھاؤں گی
-اب حشر تک لہو کو نہ منہ سے چھڑاؤنگی
+اب حشر تک لہو کو نہ منہ سے چھڑاؤں گی
 
 ۱
-حق سے کہونگی فاطمہ فریاد لای ہے
-امت نے میرے لال کو مارا دہائی ہے
+حق سے کہوں گی فاطمہ فریاد لائی ہے
+امت نے میرے لال کو مارا دُہائی ہے
 نوحہ یہی میں حشر میں پڑھتی ہی جاؤں گی
 
 ۲
@@ -75,28 +78,28 @@ romanLyrics: |-
 
 ۳
 کرتے رہو اے مومنوں ماتم حسین کا
-تم سب کے کام آے گا یہ غم حسین کا
-وعدہ ہے فاطمہ کا تمہیں بخشواوں گی
+تم سب کے کام آئے گا یہ غم حسین کا
+وعدہ ہے فاطمہ کا تمہیں بخشواؤں گی
 
 ۴
 بچوں کے میرے خون سے تر ہے میری ردا
-خنجر سے ہاے میرا بھی زخمی ہوا گلا
+خنجر سے ہائے میرا بھی زخمی ہوا گلا
 اشکوں کے بدلے آنکھ سے میں خوں بہاؤں گی
 
 ۵
 دشتِ بلا کی بیکسی اس دل کے چین کی
 ہو گی بپا جو حشر میں مجلس حسین کی
-جو بھی ہوے وہ سارے مصایب سناؤں گی
+جو بھی ہوئے وہ سارے مصائب سناؤں گی
 
 ۶
-اب قبر میں نہ چین سے سوے گی فاطمہ
-جنگل میں اپنے لال پہ روے گی فاطمہ
-ہوگی جہاں پہ مجلس شبیر جاؤں گی
+اب قبر میں نہ چین سے سوئے گی فاطمہ
+جنگل میں اپنے لال پہ روئے گی فاطمہ
+ہو گی جہاں پہ مجلس شبیر جاؤں گی
 
 ۷
-پہلو شکستہ بی بی یہ کہتی ہے بار بار
+پہلو شکستہ بی‌بی یہ کہتی ہے بار بار
 جو مجلس حسین میں روتا ہے زار زار
-انکو لےء بغیر نہ جنت میں جاؤں گی
+ان کو لیے بغیر نہ جنت میں جاؤں گی
 
 ۸
 عامر بتاؤں کیسے میرے دل کے چین کو

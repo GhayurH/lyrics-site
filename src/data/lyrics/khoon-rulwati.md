@@ -1,68 +1,69 @@
 ---
 title: "زینبِ مضطر ہے اور منظر پہ منظر کربلا"
-alternateTitle: "Khoon Rulwati"
+alternateTitle: "Khun Rulwaati"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "S. M. Naqi"
 poet: "Shahid Jafer"
 tags: ["noImage"]
-aliases: []
+aliases: ["Khoon Rulwati"]
 published: false
 romanLyrics: |-
-  Zainabe muztar hai aur manzar pa manzar karbala
-  Khoon rulwati rahegi zindagi bhar karbala
+  Zainab-e-muztar hai aur manzar pe manzar Karbala
+  Khun rulwaati rahe gi zindagi bhar Karbala
 
   1
-  Maut ki aaghosh mein bete ne wo angdayi li
-  Saath jis angdayi ke sarwar ki beenayi gayi
-  Khoon mein tar akbar hue ke khoon mein tar karbala
+  Maut ki aaghosh mein bete ne wo angraayi li
+  Saath jis angraayi ke Sarwar ki binaayi gayi
+  Khun mein tar Akbar hue ke khun mein tar Karbala
 
   2
-  Behgaya pani to phir sari umeedein rehgayi
-  Hasratein sab sher ki mitti mein milkar rehgayi
-  Warna ghazi ko thi kooze ke barabar karbala
+  Beh gaya paani to phir saari ummideṅ reh gayiṅ
+  Hasrateṅ sab sher ki mitti mein mil kar reh gayiṅ
+  Warna Ghaazi ko thi kuze ke baraabar Karbala
 
   3
-  Nafse dauran rukgayi aur aasman sakte mein hai
-  Aur udhar qaime ke dar par ek maa sajde mein hai
-  Bezaban ke saath hai payka ki zad par karbala
+  Nafs-e-dauraaṅ ruk gayi aur aasmaaṅ sakte mein hai
+  Aur udhar khaime ke dar par ek maaṅ sajde mein hai
+  Bezabaaṅ ke saath hai paika ki zad par Karbala
 
   4
-  Haye wo ek natawan aur aahni tauqe giran
-  Aur wo bemaar ke talwon mein kaante al-aman
-  Ro rahi hai paaye abid se lipat kar karbala
+  Haaye wo ek naatawaaṅ aur aahani tauq-e-giraaṅ
+  Aur wo bimaar ke talwoṅ mein kaante al-amaaṅ
+  Ro rahi hai paa-e-Aabid se lipat kar Karbala
 
   5
-  Shaahe deen teeron pe tehra hai tera jisme figaar
-  Zere khanjar thi magar yun mehve zikre kirdigaar
-  Aagayi hai tere sajde mein simat kar karbala
+  Shah-e-diṅ tiroṅ pe thehra hai tera jism-e-figaar
+  Zer-e-khanjar thi magar yuṅ mahv-e-zikr-e-Kirdigaar
+  Aa gayi hai tere sajde mein simat kar Karbala
 
   6
-  Har nafas hai ye dua apni azadari rahe
-  Majlis-o-matam ka har ek silsila jaari rahe
-  Hashr tak shahid ho yuhin ashke sarwar karbala
+  Har nafas hai ye dua apni azaadaari rahe
+  Majlis o maatam ka har ek silsila jaari rahe
+  Hashr tak Shahid ho yuṅ hi ashk-e-Sarwar Karbala
 # source_id: nohayonline:38919ae1f2cc6cf9e0be
 # source_url: https://www.nohayonline.com/details_content.php?id=725
 # raw_sha256: 72c22c7d43f7da41c2eaa7a92c12adb05baca4c3d56a9f8c26131a8d42a76f40
 ---
 زینبِ مضطر ہے اور منظر پہ منظر کربلا
-خون رُلواتی رہے گی زندگی بھر کر بلا
+خون رُلواتی رہے گی زندگی بھر کربلا
 
 ۱
 موت کی آغوش میں بیٹے نے وہ انگڑائی لی
 ساتھ جس انگڑائی کے سرور کی بینائی گئی
-خون میں تر اکبر ہوئے کے خون میں تر کر بلا
+خون میں تر اکبر ہوئے کے خون میں تر کربلا
 
 ۲
-بہہ گیا پانی تو پھر ساری اُمیدیں رِہ گئیں
-حسرتیں سب شیر کی مٹی میں مل کر رِہ گئیں
+بہہ گیا پانی تو پھر ساری اُمیدیں رہ گئیں
+حسرتیں سب شیر کی مٹی میں مل کر رہ گئیں
 ورنہ غازی کو تھی کُوزے کے برابر کربلا
 
 ۳
 نفسِ دوراں رُک گئی اور آسماں سکتے میں ہے
 اور اُدھر خیمے کے در پر اک ماں سجدے میں ہے
-بے زباں کیساتھ ہے پیکا کی زد پرکربلا
+بے زباں کے ساتھ ہے پیکا کی زد پر کربلا
 
 ۴
 ہائے وہ اک ناتواں اور آہنی طوقِ گِراں
@@ -77,4 +78,4 @@ romanLyrics: |-
 ۶
 ہر نفس ہے یہ دعا اپنی عزاداری رہے
 مجلس و ماتم کا ہر اک سلسلہ جاری رہے
-حشر تک شاہد ہو یوں ہی اشکِ سرور کر بلا
+حشر تک شاہد ہو یوں ہی اشکِ سرور کربلا
