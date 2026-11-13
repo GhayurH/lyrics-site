@@ -397,7 +397,7 @@ test("mobile recitation text card stays inside the controls with long verses", a
   await page.route("**/data/basta-kalams/basta-marsiye-003.json", route =>
     route.fulfill({ contentType: "application/json", body: JSON.stringify({ kalam: {
       id: "basta-marsiye-003", name: "Long Marsiya", romanName: "Long Marsiya",
-      sectionRoman: "Marsiye", startPage: 287, pages: [287], status: "ready",
+      sectionRoman: "Marsiye", startPage: 287, pages: [287], status: "ready", numbered: true,
       preface: "", urdu: "", roman: "Roman",
       stanzas: [{ id: "stanza-005", number: 5, printedNumber: "۵",
         urdu: "دنیا سے آج رحلت بنت رسول ہے دنیا سے آج رحلت بنت رسول ہے دنیا سے آج رحلت بنت رسول ہے",
