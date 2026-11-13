@@ -6,63 +6,63 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Israar"
+reciter: "Ashraf Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Maidan ki jalti reti par
-  
+  Ek pyaase ki peshaani hai
+  Is sajda-e-aakhir par Shah ke
+  Aalam ko bari hairaani hai
+
   1
-  Ek pyase ki peshani hai
-  Is sajda e aakhir par sheh ke
-  Aalam ko badi hairani hai
-  Har aane waale ko bacche
-  Takte hai nigaahe tishna se
-  Is dard mein doobe manzar se
-  Darya bhi pani pani hai
-  
+  Har aane waale ko bachche
+  Takte haiṅ nigaah-e-tishna se
+  Is dard mein dube manzar se
+  Darya bhi paani paani hai
+
   2
-  Haathon pe pidar ke maidan mein
-  Islam bachane jaaunga
-  Hyder ke ye nanhe pote ne
+  Haathoṅ pe pidar ke maidaaṅ mein
+  Islaam bachaane jaauṅ ga
+  Haidar ke ye nanhe pote ne
   Kya baat ye dil mein thaani hai
-  
+
   3
-  Masoom isharon ke hamle
-  Baatil ki kamar ko tod gaye
-  Ye fatha quloob e aada par
-  Baysheer teri la-saani hai
-  
+  Maasum ishaaroṅ ke hamle
+  Baatil ki kamar ko tor gaye
+  Ye fath qulub-e-aada par
+  Beshir teri laasaani hai
+
   4
-  Ek laasha e be-sar se lipti
-  Masoom sakina roti hai
-  Khushboo e pidar se maqtal mein
+  Ek laasha-e-besar se lipti
+  Maasum Sakina roti hai
+  Khushbu-e-pidar se maqtal mein
   Is laash ko wo pehchani hai
-  
+
   5
   Jis roz se kunba qatl hua
-  Us roz se ahlebait ke ghar
-  Har waqt hai ya to seena zani
-  Ya lab pe nauha khwani hai
-  
+  Us roz se Ahl-e-Bait ke ghar
+  Har waqt hai ya to sina zani
+  Ya lab pe nauha khwaani hai
+
   6
   Israar na itna gham hota
-  Zainab ki aseeri ka dil par
+  Zainab ki asiri ka dil par
   Ek fard bhi keh deta us dam
-  Loota na isay saydani hai
+  Luta na ise Sayyidaani hai
 # source_id: nohayonline:84b5b58405cb904324fe
 # source_url: https://www.nohayonline.com/details_content.php?id=3539
 # raw_sha256: 98516f0183f39b31a41d80d599abb15b023be6f4ae34de6ebce43f23e19207a8
 ---
-
 میدان کی جلتی ریتی پر
-
-۱
 ایک پیاسے کی پیشانی ہے
 اس سجدۂ آخر پر شہ کے
 عالم کو بڑی حیرانی ہے
+
+۱
 ہر آنے والے کو بچے
-تکتے ہیں نگاہ تشنہ سے
+تکتے ہیں نگاہِ تشنہ سے
 اس درد میں ڈوبے منظر سے
 دریا بھی پانی پانی ہے
 
@@ -74,19 +74,19 @@ romanLyrics: |-
 
 ۳
 معصوم اشاروں کے حملے
-باطل کی کمر کو توڑ گےء
-یہ فتح قلوب اعدا پر
-بے شیر تیری لا ثانی ہے
+باطل کی کمر کو توڑ گئے
+یہ فتح قلوبِ اعدا پر
+بے شیر تیری لاثانی ہے
 
 ۴
-ایک لاشہء بے سر سے لپٹی
+ایک لاشۂ بے سر سے لپٹی
 معصوم سکینہ روتی ہے
-خوشبوے پدر سے مقتل میں
+خوشبوئے پدر سے مقتل میں
 اس لاش کو وہ پہچانی ہے
 
 ۵
 جس روز سے کنبہ قتل ہوا
-اس روز سے اہل بیت کے گھر
+اس روز سے اہلِ بیت کے گھر
 ہر وقت ہے یا تو سینہ زنی
 یا لب پہ نوحہ خوانی ہے
 

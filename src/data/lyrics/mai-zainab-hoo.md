@@ -1,57 +1,62 @@
 ---
-title: "شام ہاے شام"
-alternateTitle: "Mai Zainab Hoo"
+title: "شام ہائے شام"
+alternateTitle: "Main Zainab Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Jawad Jaffri"
+reciter: "Sajid Jafri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shaam haye shaam
-  Mai zainab hoon aseer e shaam nana
-  Bacha ke laayi hoon islam nana
-  Main apne baap ki zeenat thi lekin
-  Hai ab ummul masayib naam nana
+  Shaam haaye Shaam
+
+  Main Zainab huṅ asir-e-Shaam naana
+  Bacha ke laayi huṅ Islaam naana
+
+  Main apne baap ki zinat thi lekin
+  Hai ab Ummul Masaaib naam naana
 
   1
-  Kahin patthar kahin par taaziyane
-  Sitam sehti rahi har gaam nana
+  Kahiṅ patthar kahiṅ par taaziyaane
+  Sitam sehti rahi har gaam naana
 
   2
-  Kaha baaghi hussain ibne ali ko
-  Diya ummat ne ye inaam nana
+  Kaha baaghi Husain ibn-e-Ali ko
+  Diya ummat ne ye inaam naana
 
   3
-  Tumhare sar se bhi hizyaan waala
-  Mita ke aayi hoon ilzaam nana
+  Tumhaare sar se bhi hizyaan waala
+  Mita ke aayi huṅ ilzaam naana
 
   4
-  Diya jab hyderi lehje mein khutba
-  Larazta tha faqeer e shaam nana
+  Diya jab Haidari lehje mein khutba
+  Larazta tha faqir-e-Shaam naana
 
   5
-  Bachayi laaj jis ne ambiya ki
-  Mai kar ke aayi hoon wo kaam nana
+  Bachaayi laaj jis ne Ambiya ki
+  Main kar ke aayi huṅ wo kaam naana
 
   6
-  Na aankhon se lahoo sajjad rota
-  Na jaate hum jo kufa shaam nana
+  Na aankhoṅ se lahu Sajjad rota
+  Na jaate hum jo Kufa Shaam naana
 
   7
-  Kaha jawad zainab ne rahega
-  Tumhara hashr tak paigham nana
+  Kaha Jawad Zainab ne rahega
+  Tumhaara hashr tak paighaam naana
 # source_id: nohayonline:c8f560478f85e53426ca
 # source_url: https://www.nohayonline.com/details_content.php?id=2838
 # raw_sha256: 1a950ec2aba47257898a3ec8c8f5689a939ed57d76baad4f2c1a9dad1c28657e
 ---
-شام ہاے شام
-میں زینب ہوں اسیر شام نانا
-بچا کے لای ہوں اسلام نانا
+شام ہائے شام
+
+میں زینب ہوں اسیرِ شام نانا
+بچا کے لائی ہوں اسلام نانا
+
 میں اپنے باپ کی زینت تھی لیکن
-ہے اب ام المصایب نام نانا
+ہے اب ام المصائب نام نانا
 
 ۱
 کہیں پتھر کہیں پر تازیانے
@@ -63,15 +68,15 @@ romanLyrics: |-
 
 ۳
 تمہارے سر سے بھی ہظیان والا
-مٹا کے آی ہوں الزام نانا
+مٹا کے آئی ہوں الزام نانا
 
 ۴
 دیا جب حیدری لہجے میں خطبہ
-لرزتا تھا فقیر شام نانا
+لرزتا تھا فقیرِ شام نانا
 
 ۵
-بچای لاج جس نے انبیاء کی
-میں کر کے آی ہوں وہ کام نانا
+بچائی لاج جس نے انبیاء کی
+میں کر کے آئی ہوں وہ کام نانا
 
 ۶
 نہ آنکھوں سے لہو سجاد روتا
