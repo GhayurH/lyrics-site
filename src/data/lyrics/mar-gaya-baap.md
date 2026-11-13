@@ -1,108 +1,123 @@
 ---
-title: "عجیب وقت ھے یہ فاطمہ کے بیٹوں پے"
+title: "عجیب وقت ہے یہ فاطمہ کے بیٹوں پے"
 alternateTitle: "Mar Gaya Baap"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ajeeb waqt hai ye fatema ke beton pe
-  Janaza baba ka ghar se uthaye wo kaise
-  Behan ko jan bhi chudate hai bad ke mayyat se
-  Wobaar baar lipat'ti hai baap se jaa ke
-  Mar gaya baap magar maanti nahi zainab
-  Chudane se bhi kafan chodti nahi zainab
-  Kabhi wo baba ke gaalon pe gaal rakhti hai
+  Ajeeb waqt hai ye Fatima ke betoṅ pe
+  Janaaza Baba ka ghar se uthaaeṅ wo kaise
+  Behan ko jab bhi chhuraate haiṅ barh ke mayyat se
+  Wo baar baar lipatti hai baap se jaa ke
+
+  Mar gaya baap magar maanti nahiṅ Zainab
+  Chhuraane se bhi kafan chhorti nahiṅ Zainab
 
   1
-  Kabhi wo shaane hilaati hai maatha choomti hai
-  Yateemi kya hai abhi jaanti nahi zainab
-  Khareeb aa ke kabhi chehra dekhte hai hussain
-  Behan ki saanson ki awaaz sun rahe hai hussain
-  Pidar se lipti hai kuch bolti nahi zainab
+  Kabhi wo Baba ke gaaloṅ pe gaal rakhti hai
+  Kabhi wo shaane hilaati hai maatha chumti hai
+  Yatimi kya hai abhi jaanti nahiṅ Zainab
 
   2
-  Ye pehla gham hai abhi rok le behan aansu
-  Kaha hussain ne zainab ke choom kar baazu
-  Ye tera kufe may gham aakhri nahi zainab
-  Giray jawan ke laashe pe jis tarha koi
+  Qarib aa ke kabhi chehra dekhte haiṅ Husain
+  Behan ki saansoṅ ki aawaaz sun rahe haiṅ Husain
+  Pidar se lipti hai kuchh bolti nahiṅ Zainab
 
   3
-  Giri thi baap ki mayyat pe us tarha beti
-  Hassan uthaate rahe par uthi nahi zainab
-  Ye ro ke fizza se kehne lagay hussain o hassan
-  Wo zakhm dekh rahi hai hata hata ke kafan
-  Shikasta baap ka sar bhoolti nahi zainab
+  Ye pehla gham hai abhi rok le behan aansu
+  Kaha Husain ne Zainab ke chum kar baazu
+  Ye tera Kufe meiṅ gham aakhri nahiṅ Zainab
 
   4
-  Nishani baba ki seene se jab lagayegi
-  Usay amaame se baba ki khusboo aayegi
-  Lahoo laga hai magar pochti nahi zainab
-  Madad ko aaye baqaya se fatema zehra
+  Gire jawaan ki laashe pe jis tarah koi
+  Giri thi baap ki mayyat pe us tarah beti
+  Hasan uthaate rahe par uthi nahiṅ Zainab
 
   5
-  Wo dekh dekh ke roti hai baap ke chehra
-  Abhi kisi ki taraf dekhti nahi zainab
-  Tumhari aas pe jee legi ab behan abbas
-  Khareeb aa ke chuda do tum hi kafan abbas
-  Tumhara kehna kabhi taalti nahi zainab
+  Ye ro ke Fizza se kehne lage Husain o Hasan
+  Wo zakhm dekh rahi hai hataa ke hataa ke kafan
+  Shikasta baap ka sar bhulti nahiṅ Zainab
 
   6
-  Khareeb aaye jo ghazi behan ne choda kafan
-  To bolay ghazi se zeeshan aur raza ye hassan
-  Tumhara chehra agar dekhti nahi zainab
-  Chudane se bhi kafan chodti nahi zainab
+  Nishaani Baba ki sine se jab lagaaegi
+  Use amaame se Baba ki khushbu aaegi
+  Lahu laga hai magar ponchhti nahiṅ Zainab
+
+  7
+  Madad ko aaiṅ Baqia se Fatima Zehra
+  Wo dekh dekh roti hai hai baap ka chehra
+  Abhi kisi ki taraf dekhti nahiṅ Zainab
+
+  8
+  Tumhaari aas pe ji legi ab behan Abbas
+  Qarib aa ke chhura do tum hi kafan Abbas
+  Tumhaara kehna kabhi taalti nahiṅ Zainab
+
+  9
+  Qarib aae jo Ghaazi behan ne chhora kafan
+  To bole Ghaazi se Zeeshan aur Raza ye Hasan
+  Tumhaara chehra agar dekhti nahiṅ Zainab
+  Chhuraane se bhi kafan chhorti nahiṅ Zainab
 # source_id: nohayonline:1b101307d1ac6c59fba0
 # source_url: https://www.nohayonline.com/details_content.php?id=1826
 # raw_sha256: 2fc2f82f405225f03a275d702f4e8f956ad9b906e6a7ef800277c36ecb12cc5d
 ---
-عجیب وقت ھے یہ فاطمہ کے بیٹوں پے
+عجیب وقت ہے یہ فاطمہ کے بیٹوں پے
 جنازہ بابا کا گھر سے اُٹھائیں وہ کیسے
-بہن کوجب بھی چھڑاتے ہیں بڑھکےمیت سے
-وہ بار بار لپٹتی ھے باپ سے جاکے
+بہن کو جب بھی چھڑاتے ہیں بڑھ کے میت سے
+وہ بار بار لپٹتی ہے باپ سے جا کے
+
 مر گیا باپ مگر مانتی نہیں زینب
 چھڑانے سے بھی کفن چھوڑتی نہیں زینب
-کبھی وہ بابا کے گالوں پہ گال رکھتی ہے
 
 ۱
+کبھی وہ بابا کے گالوں پہ گال رکھتی ہے
 کبھی وہ شانے ہلاتی ہے ماتھا چومتی ہے
 یتیمی کیا ہے ابھی جانتی نہیں زینب
-قریب آکے کبھی چہرا دیکھتے ہیں حسین
+
+۲
+قریب آ کے کبھی چہرہ دیکھتے ہیں حسین
 بہن کی سانسوں کی آواز سن رہے ہیں حسین
 پدر سے لپٹی ہے کچھ بولتی نہیں زینب
 
-۲
+۳
 یہ پہلا غم ہے ابھی روک لے بہن آنسو
 کہا حسین نے زینب کے چوم کر بازو
 یہ تیرا کوفے میں غم آخری نہیں زینب
-گرے جوان کی لاشے پہ جسطرح کوئی
-
-۳
-گری تھی باپ کی میت پہ اسطرح بیٹی
-حسن اُٹھاتے رہے پر اُٹھی نہیں زینب
-یہ روکے فضہ سے کہنے لگے حُسین و حسن
-وہ زخم دیکھ رہی ھے ہٹاکے ہٹاکے کفن
-شکستہ باپ کا سر بھولتی نہیں زینب
 
 ۴
-نشانی بابا کی سینے سے جب لگائیگی
-اُسے عمامے سے بابا کی خوشبو آئیگی
-لہو لگا ہے مگر پونچھتی نہیں زینب
-مدد کو آئیں بقیعہ سے فاطمہ زہراؑ
+گرے جوان کی لاشے پہ جس طرح کوئی
+گری تھی باپ کی میت پہ اس طرح بیٹی
+حسن اُٹھاتے رہے پر اُٹھی نہیں زینب
 
 ۵
-وہ دیکھ دیکھ روتی ہے ھے باپ کا چہرا
-ابھی کسی کی طرف دیکھتی نہیں زینب
-تمہاری آس پہ جی لیگی اب بہن عباس
-قریب آکے چھڑادو تمہی کفن عباس
-تمہارا کہنا کبھی ٹالتی نہیں زینب
+یہ رو کے فضہ سے کہنے لگے حُسین و حسن
+وہ زخم دیکھ رہی ہے ہٹا کے ہٹا کے کفن
+شکستہ باپ کا سر بھولتی نہیں زینب
 
 ۶
+نشانی بابا کی سینے سے جب لگائے گی
+اُسے عمامے سے بابا کی خوشبو آئے گی
+لہو لگا ہے مگر پونچھتی نہیں زینب
+
+۷
+مدد کو آئیں بقیعہ سے فاطمہ زہراؑ
+وہ دیکھ دیکھ روتی ہے ہے باپ کا چہرہ
+ابھی کسی کی طرف دیکھتی نہیں زینب
+
+۸
+تمہاری آس پہ جی لے گی اب بہن عباس
+قریب آ کے چھڑا دو تم ہی کفن عباس
+تمہارا کہنا کبھی ٹالتی نہیں زینب
+
+۹
 قریب آئے جو غازی بہن نے چھوڑا کفن
 تو بولے غازی سے ذیشان اور رضا یہ حسن
-تمہارا چہرا اگر دیکھتی نہیں زینب
+تمہارا چہرہ اگر دیکھتی نہیں زینب
 چھڑانے سے بھی کفن چھوڑتی نہیں زینب
