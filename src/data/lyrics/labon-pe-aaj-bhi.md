@@ -6,40 +6,41 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ahmed Naved"
+reciter: "Sajid Jafri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Labon pe aaj bhi hai jaise gham sakina ka
-  Andhera yaad dilaata hai gham sakina ka
+  Laboṅ pe aaj bhi hai jaise gham Sakina ka
+  Andhera yaad dilaata hai gham Sakina ka
   
   1
-  Sadayein aaj bhi deewar o dar se aati hai
-  Ke jaise karte hai matam haram sakina ka
+  Sadaaeṅ aaj bhi diwaar o dar se aati haiṅ
+  Ke jaise karte haiṅ maatam haram Sakina ka
   
   2
-  Wo uske baad riha ho saki na zindan se
-  Gaya kuch aise khafas mein khadam sakina ka
+  Wo us ke baad riha ho saki na zindaaṅ se
+  Gaya kuchh aise qafas mein qadam Sakina ka
   
   3
-  Ye kehke sayyede sajjad khoon rote thay
-  Sitam zyada tha aur sin tha kam sakina ka
+  Ye keh ke Sayyid-e-Sajjad khun rote the
+  Sitam ziyaada tha aur sin tha kam Sakina ka
   
   4
-  In aandhiyon mein larzti thi ek lau itni
-  Wo taaziane wo nanha sa alam sakina ka
+  In aandhiyoṅ mein larazti thi ek lau itni
+  Wo taaziyaane wo nanha sa alam Sakina ka
   
   5
-  Wo shor karti hui bediyon ka tham jaana
-  Sada lagana khuda ki qasam sakina ka
+  Wo shor karti hui beriyoṅ ka tham jaana
+  Sada lagaana Khuda ki qasam Sakina ka
   
   6
-  Udhar ke lafz e do aalam ubhar rahi hai naved
-  Idhar khafas mein labon par hai dam sakina ka
+  Udhar ke lafz-e-do aalam ubhar rahi hai Naved
+  Idhar qafas mein laboṅ par hai dam Sakina ka
   
   7
-  Jo nauhe padta hai sajid naved likhta hai
-  Sada hai dono pe eksa karam sakina ka
+  Jo nauhe parhte haiṅ Sajid Naved likhta hai
+  Sada hai donoṅ pe yaksaaṅ karam Sakina ka
 # source_id: nohayonline:bd1a99669c8f2f12ce0a
 # source_url: https://www.nohayonline.com/details_content.php?id=961
 # raw_sha256: 00014ab0d0831c3c8fcba396ef1c15df13ae61d1ca3c0c789ed4dac0ccd5ecec
@@ -49,7 +50,7 @@ romanLyrics: |-
 اندھیرا یاد دلاتا ہے غم سکینہ کا
 
 ۱
-صدایں آج بھی دیوار و در سے آتی ہیں
+صدائیں آج بھی دیوار و در سے آتی ہیں
 کہ جیسے کرتے ہیں ماتم حرم سکینہ کا
 
 ۲
@@ -57,7 +58,7 @@ romanLyrics: |-
 گیا کچھ ایسے قفس میں قدم سکینہ کا
 
 ۳
-یہ کہکے سیدے سجاد خون روتے تھے
+یہ کہہ کے سیدِ سجاد خون روتے تھے
 ستم زیادہ تھا اور سن تھا کم سکینہ کا
 
 ۴

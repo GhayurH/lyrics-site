@@ -6,91 +6,92 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shafqat Taqi"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Labbaika ya maula
+  Labbaika ya Maula
   
   1
-  Hal min ki sada ran mein shabbir lagate hai
-  Rukh kar suye darya bhai ko bulaate hai
-  Abbas chale aao hum marne ko jaate hai
-  Abbas pukare ya maula
-  Hoon nehr kinare ya maula
-  Sadqe mein tumhare ya maula
+  Hal min ki sada ran mein Shabbir lagaate haiṅ
+  Rukh kar su-e-darya bhai ko bulaate haiṅ
+  Abbas chale aao hum marne ko jaate haiṅ
+  Abbas pukaare ya Maula
+  Huṅ nehr kinaare ya Maula
+  Sadqe mein tumhaare ya Maula
   
   2
-  Ab koi nahi mera maidan mein tanha hoon
-  Laakhon hai mere dushman ay bhai akela hoon
-  Mai saare azeezon ke gham mein bhi dooba hoon
-  Khwahish hai ke aaun ya maula
-  Tera saath nibhaun ya maula
-  Aaqa ko bachaun ya maula
+  Ab koi nahiṅ mera maidaan mein tanha huṅ
+  Laakhoṅ hai mere dushman ae bhai akela huṅ
+  Main saare azizoṅ ke gham mein bhi duba huṅ
+  Khwaahish hai ke aauṅ ya Maula
+  Tera saath nibhaauṅ ya Maula
+  Aaqa ko bachaauṅ ya Maula
   
   3
-  Tum quwwate baazu thay lakhte dile zehra thay
-  Tooti hai kamar meri bhaiya tere marne se
-  Mai bekas o laaghar hoon tere nahi hone se
-  Sab kehte hai ran se ya maula
-  Har zakhmi badan se ya maula
-  Abbas ke tan se ya maula
+  Tum quwwat-e-baazu the lakht-e-dil-e-Zehra the
+  Tuti hai kamar meri bhaiya tere marne se
+  Main bekas o laaghar huṅ tere nahiṅ hone se
+  Sab kehte haiṅ ran se ya Maula
+  Har zakhmi badan se ya Maula
+  Abbas ke tan se ya Maula
   
   4
-  Jab dard bhara lehja mai aap ka sunta hoon
-  Darya pe tadapta hoon kuch kar nahi sakta hoon
-  Mai pyasi sakina se ab bhi sharminda hoon
-  Pani na pilaya ya maula
-  Darya se na lauta ya maula
-  Phat'ta hai kaleja ya maula
+  Jab dard bhara lehja main aap ka sunta huṅ
+  Darya pe tarapta huṅ kuchh kar nahiṅ sakta huṅ
+  Main pyaasi Sakina se ab bhi sharminda huṅ
+  Paani na pilaaya ya Maula
+  Darya se na lauta ya Maula
+  Phatta hai kaleja ya Maula
   
   5
-  De dete agar mujhko aap izne wigha maula
-  Is lashkare aada ko mitti mein mila deta
+  De dete agar mujhko aap izn-e-wagha Maula
+  Is lashkar-e-aada ko mitti mein mila deta
   Phir aap pe na hota ye waqt musibat ka
-  Phir dil hai machalta ya maula
-  Ho jaun zinda ya maula
-  Dushman ko sikhata ya maula
+  Phir dil hai machalta ya Maula
+  Ho jaauṅ zinda ya Maula
+  Dushman ko sikhaata ya Maula
   
   6
   Ho jaata agar zinda nusrat ke liye aata
-  Is baar bhi aaqa par qurban mai ho jaata
-  Sau baar fida hota hargis nahi ghabrata
-  Phir aap na jaate ya maula
-  Hum taygh chalate ya maula
-  Aur khoon mein nahate ya maula
+  Is baar bhi Aaqa par qurbaan main ho jaata
+  Sau baar fida hota hargiz nahiṅ ghabraata
+  Phir aap na jaate ya Maula
+  Hum tegh chalaate ya Maula
+  Aur khun mein nahaate ya Maula
   
   7
-  Maula ki sada sun kar sab laashe tadapte hai
-  Sab apni kati gardan se cheekh ke kehte hai
-  Ab chaah ke bhi maula hum uth nahi sakte hai
-  Goya huwe jafar ya maula
-  Tadpe ali akbar ya maula
-  Gehware mein asghar ya maula
+  Maula ki sada sun kar sab laasheṅ tarapte haiṅ
+  Sab apni kati gardan se chikh ke kehte haiṅ
+  Ab chaah ke bhi Maula hum uth nahiṅ sakte haiṅ
+  Goya hue Jafar ya Maula
+  Tarpe Ali Akbar ya Maula
+  Gehwaare mein Asghar ya Maula
   
   8
-  Agar maut mujhe aaqa majboor nahi karti
-  Is fauje yazeedi mein itni kahan jurrat thi
-  Jo aap ke ghazi se aankhein bhi mila paati
-  Majboor hai khadim ya maula
-  Tukdhe huwe qasim ya maula
-  Soye bani hashim ya maula
+  Agar maut mujhe Aaqa majbur nahiṅ karti
+  Is fauj-e-Yazidi mein itni kahaaṅ jurat thi
+  Jo aap ke Ghaazi se aankheṅ bhi mila paati
+  Majbur hai khaadim ya Maula
+  Tukre hue Qasim ya Maula
+  Soye Bani Hashim ya Maula
   
   9
-  Yaad aap ki ay aaqa zainab ko satayegi
-  Kulsoom o ruqayya ko bhi khoon rulayegi
-  Aur nanhi sakina ko jab neend na aayegi
-  Bolegi tadap kar ya maula
-  Baba mere sarwar ya maula
-  Bechain hai dukhtar ya maula
+  Yaad aap ki ae Aaqa Zainab ko sataayegi
+  Kulsum o Ruqayya ko bhi khun rulaayegi
+  Aur nanhi Sakina ko jab nind na aayegi
+  Bolegi tarap kar ya Maula
+  Baba mere Sarwar ya Maula
+  Bechain hai dukhtar ya Maula
   
   10
-  Shafqat ye sada aayi darya ki taraayi se
-  Aamir jo madad maangi ek bhai ne bhai se
-  Bechain hua ghazi aaqa ki judaai se
-  Hoon tukde tukde ya maula
-  Dauda diye ghode ya maula
-  Sun paaun na dukhde ya maula
+  Shafqat ye sada aayi darya ki taraai se
+  Aamir jo madad maaṅgi ek bhai ne bhai se
+  Bechain hua Ghaazi Aaqa ki judaai se
+  Huṅ tukre tukre ya Maula
+  Daura diye ghore ya Maula
+  Sun paauṅ na dukhre ya Maula
 # source_id: nohayonline:40bf1f773b87881f1158
 # source_url: https://www.nohayonline.com/details_content.php?id=3650
 # raw_sha256: a0991386611c51577739a37a1f1be5443d9c25b71ba432f3339c06a2c63a5952
@@ -99,8 +100,8 @@ romanLyrics: |-
 لبیک یا مولا
 
 ۱
-ھل من کی صدا رن میں شبیر لگاتے ہیں
-رخ کر سوے دریا بھای کو بلاتے ہیں
+ہل من کی صدا رن میں شبیر لگاتے ہیں
+رخ کر سوئے دریا بھائی کو بلاتے ہیں
 عباس چلے آؤ ہم مرنے کو جاتے ہیں
 عباس پکارے یا مولا
 ہوں نہر کنارے یا مولا
@@ -131,11 +132,11 @@ romanLyrics: |-
 پھٹتا ہے کلیجہ یا مولا
 
 ۵
-دے دیتے اگر مجھکو آپ اذن وغا مولا
+دے دیتے اگر مجھ کو آپ اذنِ وغا مولا
 اس لشکر اعدا کو مٹی میں ملا دیتا
 پھر آپ پہ نہ ہوتا یہ وقت مصیبت کا
 پھر دل ہے مچلتا یا مولا
-ہو جون زندہ یا مولا
+ہو جاؤں زندہ یا مولا
 دشمن کو سکھاتا یا مولا
 
 ۶
@@ -159,21 +160,21 @@ romanLyrics: |-
 اس فوج یزیدی میں اتنی کہاں جرأت تھی
 جو آپ کے غازی سے آنکھیں بھی ملا پاتی
 مجبور ہے خادم یا مولا
-ٹکڑے ہوے قاسم یا مولا
-سوے بنی ہاشم یا مولا
+ٹکڑے ہوئے قاسم یا مولا
+سوئے بنی ہاشم یا مولا
 
 ۹
-یاد آپ کی اے آقا زینب کو ستاے گی
-کلثوم و رقیہ کو بھی خون رلاے گی
-اور نہیں سکینہ کو جب نیند نہ آے گی
+یاد آپ کی اے آقا زینب کو ستائے گی
+کلثوم و رقیہ کو بھی خون رلائے گی
+اور ننھی سکینہ کو جب نیند نہ آئے گی
 بولے گی تڑپ کر یا مولا
 بابا میرے سرور یا مولا
 بے چین ہے دختر یا مولا
 
 ۱۰
-شفقت یہ صدا آئی دریا کی ترای سے
+شفقت یہ صدا آئی دریا کی ترائی سے
 عامر جو مدد مانگی ایک بھائی نے بھائی سے
 بے چین ہوا غازی آقا کی جدائی سے
 ہوں ٹکڑے ٹکڑے یا مولا
-دوڑا دیےء گھوڑے یا مولا
+دوڑا دیئے گھوڑے یا مولا
 سن پاؤں نہ دکھڑے یا مولا
