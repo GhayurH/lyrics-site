@@ -1,112 +1,116 @@
 ---
 title: "بتاتی جاتی ہے مفہوم کربلا سب کو"
-alternateTitle: "Mafhoome Karbala"
+alternateTitle: "Mafhum-e-Karbala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
+reciter: "Mukhtar Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Bataati jaati hai mafhoom e karbala sab ko
-  Hussain is liye laaye thay saath zainab ko
+  Bataati jaati hai mafhum-e-Karbala sab ko
+  Husain is liye laaye the saath Zainab ko
 
   1
-  Guzaari bhai ke laashe pe raat wo zainab
-  Na paayi ranj se jis ne nijaat wo zainab
-  Irada jiska hai koh e sabaat wo zainab
-  Bajaye khud hai jo ek kainaat wo zainab
+  Guzaari bhai ke laashe pe raat wo Zainab
+  Na paayi ranj se jis ne nijaat wo Zainab
+  Iraada jis ka hai koh-e-sabaat wo Zainab
+  Bajaaye khud hai jo ik kaainaat wo Zainab
+  Bataati jaati hai mafhum-e-Karbala sab ko
+  Husain is liye laaye the saath Zainab ko
 
   2
-  Ghamon ka baar uthaati hui chali zainab
-  Khuda ki raah dikhaati hui chali zainab
-  Lahoo se shamma jalaati hui chali zainab
-  Yazeediyat ko mitaati hui chali zainab
-  Dayaar e shaam ka gham zabt kar gayi zainab
-  Yazeediyat ko kuchal kar guzar gayi zainab
+  Ghamoṅ ka baar uthaati hui chali Zainab
+  Khuda ki raah dikhaati hui chali Zainab
+  Lahu se shama jalaati hui chali Zainab
+  Yazidiyat ko mitaati hui chali Zainab
+  Dayaar-e-Shaam ka gham zabt kar gayi Zainab
+  Yazidiyat ko kuchal kar guzar gayi Zainab
 
   3
-  Mila jo hukm ke jao yazeed ke darbar
+  Mila jo hukm ke jaao Yazid ke darbaar
   Ali ki beti ne jaane se kar diya inkaar
-  Phupi se kehne lagay ro ke abid e bemaar
-  Ke hum aseer hai is waqt bekas o nachaar
-  Ye zulm shaam ki manzil hai is ko sar kar lo
-  Kisi tarha shab e gham ko phupi sehar kar lo
+  Phuphi se kehne lage ro ke Aabid-e-bimaar
+  Ke ham asir haiṅ is waqt bekas o naachaar
+  Ye zulm Shaam ki manzil hai is ko sar kar lo
+  Kisi tarah shab-e-gham ko phuphi sehar kar lo
 
   4
-  Ye socha zainab e muztar ne nange sar hoo mai
-  Ajeeb waqt hai mujh par ke darbadar hoo mai
-  Hazaar bekas o majboor bhi agar hoo mai
-  Yazeediyat ke liye ab bhi dard e sar hoo mai
-  Ali ki beti hoo qasr e yazeed dhaa doongi
-  Yazeed kaun hai mai kaun hoo bata doongi
+  Ye socha Zainab-e-muztar ne nange sar huṅ main
+  Ajib waqt hai mujh par ke darbadar huṅ main
+  Hazaar bekas o majbur bhi agar huṅ main
+  Yazidiyat ke liye ab bhi dard-e-sar huṅ main
+  Ali ki beti huṅ qasr-e-Yazid dhaa duṅ gi
+  Yazid kaun hai main kaun huṅ bata duṅ gi
 
   5
-  Teri majaal ke sar nange tu kare tash'heer
-  Hamare sar pe azal se hai chadar e tatheer
-  Jala ke khana e zehra hamein kiya hai aseer
-  Aur apne aap ko kehta hai momino ka ameer
-  Ye keh ke itrat e uqba se tu hua mehroom
-  Teri nijaat ki zid ban gaye hai hum mazloom
+  Teri majaal ke sar nange tu kare tashhir
+  Hamaare sar pe azal se hai chaadar-e-tathir
+  Jalaa ke khaana-e-Zehra hameṅ kiya hai asir
+  Aur apne aap ko kehta hai mominoṅ ka amir
+  Ye keh ke itrat-e-uqba se tu hua mahrum
+  Teri nijaat ki zid ban ke gaye hai ham mazlum
 
   6
-  Yazeed paikar e zillat hai ay musalmano
-  Yazeed dushman e ummat hai ay musalmano
-  Yazeediyat hi aziyat hai ay musalmano
-  Urooj ki jo zaroorat hai ay musalmano
-  Yazeediyat ko mitao isay bala samjho
-  Khuda ke waaste mafhoom e karbala samjho
+  Yazid paikar-e-zillat hai ae musalmaano
+  Yazid dushman-e-ummat hai ae musalmaano
+  Yazidiyat hi aziyat hai ae musalmaano
+  Urooj ki jo zarurat hai ae musalmaano
+  Yazidiyat ko mitaao ise bala samjho
+  Khuda ke waaste mafhum-e-Karbala samjho
 # source_id: nohayonline:f79c46d1b742190e76f1
 # source_url: https://www.nohayonline.com/details_content.php?id=2041
 # raw_sha256: 1be848c9e3e11895cdd06c3f2b0854e10727ba5f82e55e2e07d6425e64290d25
 ---
-
 بتاتی جاتی ہے مفہوم کربلا سب کو
-حسین اس لےء لاے تھے ساتھ زینب کو
+حسین اس لیے لائے تھے ساتھ زینب کو
 
 ۱
-گزاری بھای کے لاشے پہ رات وہ زینب
+گزاری بھائی کے لاشے پہ رات وہ زینب
 نہ پائی رنج سے جس نے نجات وہ زینب
-ارادہ جس کا ہے کوہ سبات وہ زینب
-بجاے خود ہے جو اک کاینات وہ زینب
+ارادہ جس کا ہے کوہِ ثبات وہ زینب
+بجائے خود ہے جو اک کائنات وہ زینب
+بتاتی جاتی ہے مفہوم کربلا سب کو
+حسین اس لیے لائے تھے ساتھ زینب کو
 
 ۲
-غموں کا بار اٹھاتی ہوی چلی زینب
-خدا کی راہ دکھاتی ہوی چلی زینب
-لہو سے شمع جلاتی ہوی چلی زینب
-یزیدیت کو مٹاتی ہوی چلی زینب
-دیارِ شام کا غم ضبط کر گیء زینب
-یزیدیت کو کچل کر گزر گیء زینب
+غموں کا بار اٹھاتی ہوئی چلی زینب
+خدا کی راہ دکھاتی ہوئی چلی زینب
+لہو سے شمع جلاتی ہوئی چلی زینب
+یزیدیت کو مٹاتی ہوئی چلی زینب
+دیارِ شام کا غم ضبط کر گئی زینب
+یزیدیت کو کچل کر گزر گئی زینب
 
 ۳
 ملا جو حکم کہ جاؤ یزید کے دربار
 علی کی بیٹی نے جانے سے کر دیا انکار
-پھپھی سے کہنے لگے رو کے عابد بیمار
-کہ ہم اسیر ہیں اسوقت بیکس و ناچار
+پھپھی سے کہنے لگے رو کے عابدِ بیمار
+کہ ہم اسیر ہیں اس وقت بیکس و ناچار
 یہ ظلم شام کی منزل ہے اس کو سر کر لو
-کسی طرح شب غم کو پھپھی سحر کر لو
+کسی طرح شبِ غم کو پھپھی سحر کر لو
 
 ۴
-یہ سوچا زینب مضطر نے ننگے سر ہوں میں
-عجیب وقت ہے مجھ پرکہ دربدر ہوں میں
+یہ سوچا زینبِ مضطر نے ننگے سر ہوں میں
+عجیب وقت ہے مجھ پر کہ دربدر ہوں میں
 ہزار بیکس و مجبور بھی اگر ہوں میں
-یزیدیت کے لئے اب بھی درد سر ہوں میں
-علی کی بیٹی ہوں قصر یزید ڈھا دونگی
-یزید کون ہے میں کون ہوں بتا دونگی
+یزیدیت کے لیے اب بھی دردِ سر ہوں میں
+علی کی بیٹی ہوں قصرِ یزید ڈھا دوں گی
+یزید کون ہے میں کون ہوں بتا دوں گی
 
 ۵
-تیری مجال کے سر ننگے تو کرے تشہیر
-ہمارے سر پہ اذل سے ہے چادر تطہیر
+تیری مجال کہ سر ننگے تو کرے تشہیر
+ہمارے سر پہ ازل سے ہے چادرِ تطہیر
 جلا کے خانۂ زہرا ہمیں کیا ہے اسیر
 اور اپنے آپ کو کہتا ہے مومنوں کا امیر
 یہ کہہ کے عطرت عقبہ سے تو ہوا محروم
 تیری نجات کی ضد بن کے گےء ہے ہم مظلوم
 
 ۶
-یزید پیکر ذلت ہے اے مسلمانوں
-یزید دشمن امت ہے اے مسلمانوں
+یزید پیکرِ ذلت ہے اے مسلمانوں
+یزید دشمنِ امت ہے اے مسلمانوں
 یزیدیت ہی اذیت ہے اے مسلمانوں
 عروج کی جو ضرورت ہے اے مسلمانوں
 یزیدیت کو مٹاؤ اسے بلا سمجھو
