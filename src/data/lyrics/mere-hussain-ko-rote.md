@@ -1,89 +1,58 @@
 ---
-title: میرے حسین کو روتے رہو دعا دونگی
-alternateTitle: Mere Hussain Ko Rote
+title: میرے حسین کو روتے رہو دعا دوں گی
+alternateTitle: Mere Husain Ko Rote
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Kaleem"
+reciter: "Mir Mohsin Ali"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Mere Hussain Ko Rote Raho Dua Doongi
-
-  Har ek chahane wale ko bakhshwa doongi
-
+romanLyrics: |-
+  Mere Husain ko rote raho dua duṅ gi
+  Har ek chaahne waale ko bakhshwa duṅ gi
 
   1
-
-  1. Tumhare ashk barray motabar hain mere liye,
-
-  Yahi to marhame zakhmi jigar hay mere liye
-
-  Rasoool ko in hi ashko ka wasta doongi
-
+  Tumhaare ashk bahut motabar hai mere liye
+  Yehi to marham-e-zakhm-e-jigar hai mere liye
+  Rasul ko inhi ashkoṅ ka waasta duṅ gi
 
   2
-
-  2. Shahide kushtae jo ro jafa pe rote hai,
-
-  Jo mere laal ko farshe azaa pe rote hai
-
-  Mein ek roz unhay karbala dikha doongi,
-
+  Shahid-e-kushta-e-jaur o jafa pe rote haiṅ
+  Jo mere laal ko farsh-e-aza pe rote haiṅ
+  Main ek roz unheṅ Karbala dikha duṅ gi
 
   3
-
-  3. Dilon ka dard labe iltaja pe rakh dena,
-
-  Tamaam hajatein farshe azaa pe rakh dena
-
-  Har ek daamane umeed ko saja doongi,
-
+  Diloṅ ka dard lab-e-iltija pe rakh dena
+  Tamaam haajateṅ farsh-e-aza pe rakh dena
+  Har ek daaman-e-ummid ko saja duṅ gi
 
   4
-
-  4. Guloowe kushk pe khanjar bhi maine dekha hai,
-
-  Wahin pe lasha-e be sar bhi maine dekha hai
-
-  Batao kaise main karbobala bhoola doongi,
-
+  Gulu-e-khushk pe khanjar bhi main ne dekha hai
+  Wahiṅ pe laasha-e-besar bhi main ne dekha hai
+  Bataao kaise main Karbobala bhula duṅ gi
 
   5
-
-  5. Na rosake jise jee bhar ke Zainabe dilgir,
-
-  Sadaa buland rahe shor-e-maatam-e-Shabir
-
-  Main in sadaaon me apni sadaa mila doongi
-
+  Na ro saki jise ji bhar ke Zainab-e-dilgir
+  Sada buland rahe shor-e-maatam-e-Shabbir
+  Main in sadaaoṅ mein apni sada mila duṅ gi
 
   6
-
-  6. In aansoon-o- ke wasile me tumko chain mile,
-
-  Na koi ranj siwa-e- ghame Hussain mile
-
-  Ba fazle rab tume is kher ki jazaa doongi,
-
+  In aansuoṅ ke wasile se tum ko chain mile
+  Na koi ranj siwaaye gham-e-Husain mile
+  Ba fazl-e-Rab tumheṅ is khair ki jaza duṅ gi
 
   7
-
-  7. Mere shaheed ke ghamkhaar banke aao ge,
-
-  Jo karbala me azadar banke aao ge
-
-  Tumhare waste farshe azaa bichha doongi,
-
+  Mere shahid ke ghamkhaar ban ke aao ge
+  Jo Karbala mein azaadaar ban ke aao ge
+  Tumhaare waaste farsh-e-aza bichha duṅ gi
 
   8
-
-  8. KALEEM tohfa-e-gham haqqe pursa dari hai,
-
-  Jo Qalim aaj bhi masroofe aaho zari hai
-
-  Use me saya-e-rehmat me aasra doongi,'
+  Kalim tohfa-e-gham Haq ki pursadaari hai
+  Jo qaum aaj bhi masruf-e-aah o zaari hai
+  Use main saaya-e-rahmat mein aasra duṅ gi
 # source_id: nohayonline:3fe84334e975a5cea490
 # source_url: https://www.nohayonline.com/details_content.php?id=2476
 # raw_sha256: 7ec4c9ac93b9615215fc549a3c8352f5def85396ef66a67c34a100152a4a44be
@@ -91,41 +60,45 @@ romanLyrics: 'Mere Hussain Ko Rote Raho Dua Doongi
 # source_url: https://www.ziyaraat.net/api/noha/1027
 # raw_sha256: a051e706fbae7108ae7e43a212bb469f460592fdaa675a2031a783ecf5fa0831
 ---
-
-میرے حسین کو روتے رہو دعا دونگی
+میرے حسین کو روتے رہو دعا دوں گی
+ہر ایک چاہنے والے کو بخشوا دوں گی
 
 ۱
-ہر ایک چاہنے والے کو بخشوا دونگی
-شہید کشتۂ جور و جفا پہ روتے ہیں
-جو میرے لال کو فرش عزا پہ روتے ہیں
-میں اک روز انہیں کربلا دکھا دونگی
+تمہارے اشک بہت معتبر ہے میرے لیے
+یہی تو مرہمِ زخمِ جگر ہے میرے لیے
+رسول کو انہی اشکوں کا واسطہ دوں گی
 
 ۲
-دلوں کا درد لب التجاء پہ رکھ دینا
-تمام حاجتیں فرش عزا پہ رکھ دینا
-ہر ایک دامن امید کو سجا دونگی
+شہیدِ کشتۂ جور و جفا پہ روتے ہیں
+جو میرے لال کو فرشِ عزا پہ روتے ہیں
+میں ایک روز انہیں کربلا دکھا دوں گی
 
 ۳
-ان آنسوؤں کے وسیلے سے تم کو چین ملے
-نہ کوئی رنج سواے غم حسین ملے
-بہ فضل رب تمہیں اس خیر کے جزا دونگی
+دلوں کا درد لبِ التجا پہ رکھ دینا
+تمام حاجتیں فرشِ عزا پہ رکھ دینا
+ہر ایک دامنِ امید کو سجا دوں گی
 
 ۴
-نہ رو سکی جسے جی بھر کے زینب دلگیر
-صدا بلند رہے شور ماتم شبیر
-میں ان صداؤں میں اپنی صدا ملا دونگی
+گلوئے خشک پہ خنجر بھی میں نے دیکھا ہے
+وہیں پہ لاشۂ بے سر بھی میں نے دیکھا ہے
+بتاؤ کیسے میں کربوبلا بھلا دوں گی
 
 ۵
-تمہارے اشک بہت معتبر ہے میرے لیےء
-یہی تو مرحم زخم جگر ہے میرے لےء
-رسول کو انہیں اشکوں کا واسطہ دونگی
+نہ رو سکی جسے جی بھر کے زینبِ دلگیر
+صدا بلند رہے شورِ ماتمِ شبیر
+میں ان صداؤں میں اپنی صدا ملا دوں گی
 
 ۶
-گلوے خشک پہ خنجر پہ میں نے دیکھا ہے
-وہی پہ لاشہء اے سر بھی میں نے دیکھا ہے
-بتاؤ کیسے میں کربوبلا بھلا دونگی
+ان آنسوؤں کے وسیلے سے تم کو چین ملے
+نہ کوئی رنج سوائے غمِ حسین ملے
+بہ فضلِ رب تمہیں اس خیر کی جزا دوں گی
 
 ۷
-کلیم تحفہء غم حق کی پرسہ داری ہے
-جو قوم آج بھی مصروف آہ و زاری ہے
-اسے میں سایۂ رحمت میں آسرا دونگی
+میرے شہید کے غم خوار بن کے آؤ گے
+جو کربلا میں عزادار بن کے آؤ گے
+تمہارے واسطے فرشِ عزا بچھا دوں گی
+
+۸
+کلیم تحفۂ غم حق کی پرسہ داری ہے
+جو قوم آج بھی مصروفِ آہ و زاری ہے
+اسے میں سایۂ رحمت میں آسرا دوں گی

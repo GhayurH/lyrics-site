@@ -1,65 +1,67 @@
 ---
 title: "مزار فاطمہ زہرا سے یہ صدا آئی"
-alternateTitle: "Mere Hussain Fi"
+alternateTitle: "Mere Husain Fi Amaanillah"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shams Rizvi"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Mazaar e fatema zahra se ye sada aayi
-  Mere hussain fi amanillah
-  
+  Mazaar-e-Fatima Zahra se ye sada aayi
+  Mere Husain fi amaanillah
+
   1
-  Sada ye sun ke ajab ranj ki ghata chaayi
-  
+  Sada ye sun ke ajab ranj ki ghata chhaayi
+  Mere Husain fi amaanillah
+
   2
-  Mere hussain safar mein na hoge tum tanha
-  Tumhare saath rahegi tumhari maa zahra
-  Na chain payegi ek pal kabhi ye dukh paayi
-  
+  Mere Husain safar mein na hoge tum tanha
+  Tumhaare saath rahe gi tumhaari maaṅ Zahra
+  Na chain paaye gi is pal kabhi ye dukh paayi
+
   3
-  Tumhare saath rahungi tumhe sukoon mile
-  Hamesha aalam e ghurbat mein tumko chain rahe
-  Mai dekh sakti nahi hoo tumhari tanhaai
-  
+  Tumhaare saath rahuṅ gi tumheṅ sukun mile
+  Hamesha aalam-e-ghurbat mein tum ko chain rahe
+  Main dekh sakti nahiṅ huṅ tumhaari tanhaai
+
   4
-  Diya jalaya kabhi aur kabhi padha quran
-  Tumhare rehne se marqad nahi raha veeran
-  Bahot purani hai gham se meri shanasaayi
-  
+  Diya jalaaya kabhi aur kabhi parha Quraan
+  Tumhaare rehne se marqad nahiṅ raha wiraan
+  Bahut puraani hai gham se meri shanaasaai
+
   5
-  Meri duayein tere saath hai hussain hussain
-  Dil e ghareeb ke jazbaat hai hussain hussain
-  Hamari aankhon ki ay laal tum ho beenayi
-  
+  Meri duaaeṅ tere saath haiṅ Husain Husain
+  Dil-e-gharib ke jazbaat hai Husain Husain
+  Hamaari aankhoṅ ki ae laal tum ho binaai
+
   6
-  Madina dikhne laga ab to soona soona sa
-  Har ek gali mein nazar aa raha hai sannata
-  Kali har ek nabi ke chaman ki murjhayi
-  
+  Madina dikhne laga ab to suna suna sa
+  Har ek gali mein nazar aa raha hai sannaata
+  Kali har ek Nabi ke chaman ki murjhaayi
+
   7
-  Tumhare karbobala saath jaayegi zainab
-  Tumhara saath hamesha nibhayegi zainab
-  Tumhare saath rahegi tumhari maa jaayi
-  
+  Tumhaare Karbobala saath jaaye gi Zainab
+  Tumhaara saath hamesha nibhaaye gi Zainab
+  Tumhaare saath rahe gi tumhaari maaṅ jaayi
+
   8
-  Tumhi batao tumhe kis tarah karun ruqsat
-  Ke izn deti nahi hai mujhe meri chaahat
-  Hai mere qalb ki thandak tu meri parchayi
-  
+  Tumheṅ bataao tumheṅ kis tarah karuṅ rukhsat
+  Ke izn deti nahiṅ hai mujhe meri chaahat
+  Hai mere qalb ki thandak tu meri parchhaai
+
   9
-  Lipat ke rone lage qabre fatema se hussain
-  Bapa fizaon mein hone laga hai naala o shain
-  Falak larazne laga aur zameen tharrayi
-  
+  Lipat ke rone lage qabr-e-Fatima se Husain
+  Bapa fazaaoṅ mein hone laga hai naala o shain
+  Falak larazne laga aur zamin tharraayi
+
   10
-  Ye boli ro ke hazeen ay shams aur aamir
-  Udaas hoga madina ay shams aur aamir
-  Magar mai karti rahungi teri pazeerayi
+  Ye boli ro ke haziṅ ae Shams aur Aamir
+  Udaas ho ga Madina ae Shams aur Aamir
+  Magar main karti rahuṅ gi teri paziraai
 # source_id: nohayonline:a701ea3ffb03c73c8a97
 # source_url: https://www.nohayonline.com/details_content.php?id=2454
 # raw_sha256: c0aab39fb6cf6b170ec5ad44e4ab01c7f70e482573fd4b983ef1675f9cba8d21
@@ -69,12 +71,13 @@ romanLyrics: |-
 میرے حسین فی امان اللّٰہ
 
 ۱
-صدا یہ سن کے عجب رنج کی گھٹا چھای
+صدا یہ سن کے عجب رنج کی گھٹا چھائی
+میرے حسین فی امان اللّٰہ
 
 ۲
 میرے حسین سفر میں نہ ہوگے تم تنہا
 تمہارے ساتھ رہے گی تمہاری ماں زہرا
-نہ چین پاے گی اس پل کبھی یہ دکھ پای
+نہ چین پائے گی اس پل کبھی یہ دکھ پائی
 
 ۳
 تمہارے ساتھ رہوں گی تمہیں سکون ملے
@@ -88,18 +91,18 @@ romanLyrics: |-
 
 ۵
 میری دعائیں تیرے ساتھ ہیں حسین حسین
-دل غریب کے جزبات ہے حسین حسین
+دل غریب کے جذبات ہے حسین حسین
 ہماری آنکھوں کی اے لال تم ہو بینائی
 
 ۶
 مدینہ دکھنے لگا اب تو سونا سونا سا
 ہر ایک گلی میں نظر آ رہا ہے سناٹا
-کلی ہر ایک نبی کے چمن کی مرجھای
+کلی ہر ایک نبی کے چمن کی مرجھائی
 
 ۷
-تمہارے کربوبلا ساتھ جاے گی زینب
-تمہارا ساتھ ہمیشہ نبھاے گی زینب
-تمہارے ساتھ رہے گی تمہاری مانجای
+تمہارے کربوبلا ساتھ جائے گی زینب
+تمہارا ساتھ ہمیشہ نبھائے گی زینب
+تمہارے ساتھ رہے گی تمہاری ماں جائی
 
 ۸
 تمہیں بتاؤ تمہیں کس طرح کروں رخصت
@@ -109,9 +112,9 @@ romanLyrics: |-
 ۹
 لپٹ کے رونے لگے قبر فاطمہ سے حسین
 بپا فضاؤں میں ہونے لگا ہے نالہ و شین
-فلک لرزنے لگا اور زمین تھرای
+فلک لرزنے لگا اور زمین تھرائی
 
 ۱۰
 یہ بولی رو کے حزیں اے شمس اور عامر
 اداس ہو گا مدینہ اے شمس اور عامر
-مگر میں کرتی رہوں گی تیری پزیرائی
+مگر میں کرتی رہوں گی تیری پذیرائی
