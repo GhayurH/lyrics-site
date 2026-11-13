@@ -8,88 +8,89 @@ kalamType: "Noha"
 poet: "Zeeshan Abidi"
 tags: ["noImage"]
 aliases: []
+reciter: "Raza Abbas Zaidi"
 published: false
 romanLyrics: |-
-  Jab suna sughra ne laut aaya watan mein khafila
-  Haye jab pahunchi to manzar dekh kar ro ke kaha
+  Jab suna Sughra ne laut aaya watan mein qaafila
+  Haaye jab pahuṅchiṅ to manzar dekh kar ro ke kaha
 
   1
-  Ay phuphi amma bhara ghar tha bhaiyon se mera
-  Kya hua karbobala mein kuch to batlayein zara
-  Haye rote huwe zainab ne kaha ay sughra
+  Ae phuphi amma bhara ghar tha bhaiyoṅ se mera
+  Kya hua Karbobala mein kuchh to batlaayeṅ zara
+  Haaye rote hue Zainab ne kaha ae Sughra
   Na tera bhai raha na hi mera bhai raha
 
   2
-  Baap jeeta bhi to kis tarha se ye gham seh ke
-  Bhai ko pyar hi itna tha ali akbar se
-  Jis ghadi seena e akbar se sina ko khayncha
+  Baap jita bhi to kis tarah se ye gham seh ke
+  Bhai ko pyaar hi itna tha Ali Akbar se
+  Jis ghari Sina-e-Akbar se sinaaṅ ko khiṅcha
 
   3
-  Haye jis mashk mein asghar ke liye tha pani
-  Haan usi mashk mein saansein thi mere ghazi ki
-  Nehr par mashk pe jab teer laga pani baha
+  Haaye jis mashk mein Asghar ke liye tha paani
+  Haaṅ usi mashk mein saanseṅ thi mere Ghazi ki
+  Nehr par mashk pe jab tir laga paani baha
 
   4
-  Saath abbas thay akbar thay badi dhaaras thi
-  Kis mein jurrat thi nazar hum pe uthata koi
-  Tha yehi ek sabab hum jo huwe be-parda
+  Saath Abbas the Akbar the bari dhaaras thi
+  Kis mein jurat thi nazar ham pe uthaata koi
+  Tha yehi ek sabab ham jo hue beparda
 
   5
-  Kaise batlaun sitam us ne uthaye kitne
-  Shimr ne durre sakina ko lagaye kitne
-  Kha gaya shaam ke zindan mein usay ye sadma
+  Kaise batlaauṅ sitam us ne uthaaye kitne
+  Shimr ne durre Sakina ko lagaaye kitne
+  Kha gaya Shaam ke zindaaṅ mein use ye sadma
 
   6
-  Ye to acha hi hua tum na gayi karbobala
-  Tum se dekha hi nahi jaata jo maine dekha
-  Seena akbar ka chida kat gaya sarwar ka gala
+  Ye to achchha hi hua tum na gayi Karbobala
+  Tum se dekha hi nahiṅ jaata jo main ne dekha
+  Sina Akbar ka chhida kat gaya Sarwar ka gala
 
   7
-  Meri in aankhon ki thandak to mere bhai thay
-  Maine in aankhon se dekha hai unhe marte huwe
-  Kaise zinda hoon mai ab tak ye mujhe sughra bata
+  Meri in aankhoṅ ki thandak to mere bhai the
+  Main ne in aankhoṅ se dekha hai unheṅ marte hue
+  Kaise zinda huṅ main ab tak ye mujhe Sughra bata
 
   8
-  Bas tere waaste aayi hai madine zainab
-  Warna maqsad mere jeene ka nahi koi bhi ab
-  Haye ab kaun sahara hai mere jeene ka
+  Bas tere waaste aayi hai Madine Zainab
+  Warna maqsad mere jine ka nahiṅ koi bhi ab
+  Haaye ab kaun sahaara hai mere jine ka
 
   9
-  Fatema binte hassan se ye kaha kuch bolo
-  Bhaiya qasim bhi nahi aate nazar kyun mujhko
-  Fatema binte hassan kehne lagi ay sughra
+  Fatima Bint-e-Hasan se ye kaha kuchh bol
+  Bhaiya Qasim bhi nahiṅ aate nazar kiuṅ mujh ko
+  Fatima Bint-e-Hasan kehne lagiṅ ae Sughra
 
   10
-  Kaisi behno pe judaai ye qayamat laayi
-  Saari behno ki sadaon mein tha bhai bhai
-  Sun ke zeeshan o raza roya madina saara
+  Kaisi behnoṅ pe judaai ye qayaamat laayi
+  Saari behnoṅ ki sadaaoṅ mein tha bhai bhai
+  Sun ke Zeeshan o Raza roya Madina saara
 # source_id: nohayonline:5bd2907354cffb8c24a3
 # source_url: https://www.nohayonline.com/details_content.php?id=2939
 # raw_sha256: 3d7294f8716a27ff52a1b9333aa23f6c0e99b45627c89b41306d47f8542b9abd
 ---
 جب سنا صغرا نے لوٹ آیا وطن میں قافلہ
-ہائے جب پہنچیں تو منظر دیکھکر روکے کہا
+ہائے جب پہنچیں تو منظر دیکھ کر رو کے کہا
 
 ۱
-اے پھوپی اماں بھرا گھر تھابھائیوں سے میرا
-کیا ہوا کربوبلا میں کچھ تو بتلائیں زرا
+اے پھوپی اماں بھرا گھر تھا بھائیوں سے میرا
+کیا ہوا کربوبلا میں کچھ تو بتلائیں ذرا
 ہائے روتے ہوئے زینب نے کہا اے صغرا
-نا تیرا بھائی رہا نا ہی میرا بھائی رہا
+نہ تیرا بھائی رہا نہ ہی میرا بھائی رہا
 
 ۲
-باپ جیتا بھی تو کس طرح سے یہ غم سہ ے
+باپ جیتا بھی تو کس طرح سے یہ غم سہ کے
 بھائی کو پیار ہی اتنا تھا علی اکبر سے
-جس گھڑی سینہِ اکبر سے سناں کو کھیچا
+جس گھڑی سینۂ اکبر سے سناں کو کھینچا
 
 ۳
 ہائے جس مشک میں اصغر کے لئے تھا پانی
-ہاں اُسی مشک میں سانسیں تھی میرےغازی کی
+ہاں اُسی مشک میں سانسیں تھی میرے غازی کی
 نہر پر مشک پہ جب تیر لگا پانی بہا
 
 ۴
 ساتھ عباس تھے اکبر تھے بڑی ڈھارس تھی
-کس میں جرت تھی نظر ہم پہ اُٹھاتا کوئی
-تھا یہی ایک سبب ہم جو ھوئے بے پردہ
+کس میں جرأت تھی نظر ہم پہ اُٹھاتا کوئی
+تھا یہی ایک سبب ہم جو ہوئے بے پردہ
 
 ۵
 کیسے بتلاؤں ستم اُس نے اُٹھائے کتنے
@@ -97,7 +98,7 @@ romanLyrics: |-
 کھا گیا شام کے زنداں میں اُسے یہ صدمہ
 
 ۶
-یہ تو اچھا ہی ہوا تم نا گئی کربوبلا
+یہ تو اچھا ہی ہوا تم نہ گئی کربوبلا
 تم سے دیکھا ہی نہیں جاتا جو میں نے دیکھا
 سینہ اکبر کا چھدا کٹ گیا سرور کا گلا
 
@@ -113,10 +114,10 @@ romanLyrics: |-
 
 ۹
 فاطمہ بنتِ حسن سے یہ کہا کچھ بول
-بھیا قاسم بھی نہیں آتے نظر کیوں مجھکو
+بھیا قاسم بھی نہیں آتے نظر کیوں مجھ کو
 فاطمہ بنتِ حسن کہنے لگیں اے صغرا
 
 ۱۰
 کیسی بہنوں پہ جدائی یہ قیامت لائی
 ساری بہنوں کی صداؤں میں تھا بھائی بھائی
-سنکے زیشان و رضا رویا مدینہ سارا
+سن کے زیشان و رضا رویا مدینہ سارا
