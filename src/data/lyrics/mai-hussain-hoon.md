@@ -1,53 +1,54 @@
 ---
 title: "کرتا رہوں گا شکرِ خدا میں حسین ہوں"
-alternateTitle: "Mai Hussain Hoon"
+alternateTitle: "Main Husain Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Karta rahunga shukre khuda mai hussain hoon
-  Khanjar ke neeche doonga dua mai hussain hoon
+  Karta rahuṅ ga shukr-e-Khuda main Husain huṅ
+  Khanjar ke niche duṅ ga dua main Husain huṅ
 
   1
-  Mal lunga apne rukh pe lahoo apne laal ka
-  Phir bhi na uff karunga zara mai hussain hoon
+  Mal luṅ ga apne rukh pe lahu apne laal ka
+  Phir bhi na uf karuṅ ga zara main Husain huṅ
 
   2
-  Aedi ragadta hoga jahan mera naujawan
-  Hoga wahin budhapa mera mai hussain hoon
+  Aeri ragarta hoga jahaaṅ mera naujawaaṅ
+  Hoga wahiṅ burhaapa mera main Husain huṅ
 
   3
-  Hai baazuon mein mere kate baazuon ki laaj
-  Dekhe zamana meri wafa mai hussain hoon
+  Hai baazuoṅ mein mere kate baazuoṅ ki laaj
+  Dekhe zamaana meri wafa main Husain huṅ
 
   4
-  Fidya diya tha tum ne to patti thi aankh par
-  Dekho khaleel mujhko zara mai hussain hoon
+  Fidya diya tha tum ne to patti thi aaṅkh par
+  Dekho Khalil mujh ko zara main Husain huṅ
 
   5
-  Roohe rasool nikli mere khushk halq se
-  Qatil samajh raha hai mera mai hussain hoon
+  Ruh-e-Rasul nikli mere khushk halq se
+  Qaatil samajh raha hai mera main Husain huṅ
 
   6
-  Sajde mein thay hussain to gardan pe thi churi
-  Maula ne tab khuda se kaha mai hussain hoon
+  Sajde mein the Husain to gardan pe thi chhuri
+  Maula ne tab Khuda se kaha main Husain huṅ
 
   7
-  Ab karbala ke dasht mein goonjegi siskiyan
-  Zehra karengi mujhpe buka mai hussain hoon
+  Ab Karbala ke dasht mein gunjegi siskiyaaṅ
+  Zehra kareṅ gi mujh pe buka main Husain huṅ
 
   8
-  Tatheer be-rida hai to kaaba be-ghilaaf
-  Laasha bhi be-kafan hai mera mai hussain hoon
+  Tathir berida hai to Kaaba beghilaaf
+  Laasha bhi bekafan hai mera main Husain huṅ
 
   9
-  Karte rahenge aamir o nayyar meri azaa
-  Dono pa hogi meri ataa mai hussain hoon
+  Karte raheṅ ge Aamir o Nayyar meri aza
+  Donoṅ pe hogi meri ata main Husain huṅ
 # source_id: nohayonline:6f14338705ef53fabd0a
 # source_url: https://www.nohayonline.com/details_content.php?id=3494
 # raw_sha256: d6581d4ae8f1c3737938f334564c45d06cb36513c5e0770ac6e3d49da9818826
@@ -56,12 +57,12 @@ romanLyrics: |-
 خنجر کے نیچے دوں گا دعا میں حسین ہوں
 
 ۱
-میں لوں گا اپنے رخ پہ لہو اپنے لال کا
-پھر بھی نہ اف کروں گا زرا میں حسین ہوں
+مل لوں گا اپنے رخ پہ لہو اپنے لال کا
+پھر بھی نہ اف کروں گا ذرا میں حسین ہوں
 
 ۲
-عیدی رگڑتا ہوگا جہاں میرا نوجواں
-ہوگا وہی بڑھاپا میرا میں حسین ہوں
+ایڑی رگڑتا ہوگا جہاں میرا نوجواں
+ہوگا وہیں بڑھاپا میرا میں حسین ہوں
 
 ۳
 ہے بازوؤں میں میرے کٹے بازوؤں کی لاج
@@ -69,10 +70,10 @@ romanLyrics: |-
 
 ۴
 فدیہ دیا تھا تم نے تو پٹی تھی آنکھ پر
-دیکھو خلیل مجھکو زرا میں حسین ہوں
+دیکھو خلیل مجھ کو ذرا میں حسین ہوں
 
 ۵
-روح رسول نکلی میرے خشک حلق سے
+روحِ رسول نکلی میرے خشک حلق سے
 قاتل سمجھ رہا ہے میرا میں حسین ہوں
 
 ۶

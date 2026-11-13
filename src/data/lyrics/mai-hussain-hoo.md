@@ -1,61 +1,62 @@
 ---
 title: گونجی بوقتِ عصر صدا میں حسین ہوں
-alternateTitle: Mai Hussain Hoo
+alternateTitle: "Main Husain Huṅ"
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Raza Sirsvi"
+reciter: "Mir Hassan Mir; Ali Shanawar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Goonji ba waqt asr sada mai hussain hoo
-  Kaato na mera khusk gala mai hussain hoo
+  Gunji bawaqt-e-asr sada main Husain huṅ
+  Kaato na mera khushk gala main Husain huṅ
 
   1
-  Sookhi hui hai shimr mere halq ki ragein
-  Aahista tu churi chala mai hussain hoo
+  Sukhi hui haiṅ Shimr mere halq ki rageṅ
+  Aahista tu chhuri ko chala main Husain huṅ
 
   2
-  Sheeren ke ghar pe pahuncha jab raando ka khafila
-  Naize se ek sar ne kaha mai hussain hoo
+  Shiriṅ ke ghar pe pahuncha jab raandoṅ ka qaafila
+  Naize se ek sar ne kaha main Husain huṅ
 
   3
-  Amma kisi ne pani ki ek boondh bhi na di
-  Mai baar baar kehta raha mai hussain hoo
+  Ammaaṅ kisi ne paani ki ek bund bhi na di
+  Main baar baar kehta raha main Husain huṅ
 
   4
-  Kat'ta hua gala mera dekha na jayega
-  Nana mai hoo nawasa tera mai hussain hoo
+  Katta hua gala mera dekha na jaayega
+  Naana main huṅ nawaasa tera main Husain huṅ
 
   5
-  Be bazuon ki laash tadap kar ulat gayi
-  Aayi furaat par jo sada mai hussain hoo
+  Be baazuoṅ ki laash tarap kar ulat gayi
+  Aayi Furaat par jo sada main Husain huṅ
 
   6
-  Zaanu pe rakh ke sar ko kaha ek zayeef ne
-  Akbar kahan hai dard bata mai hussain hoo
+  Zaanu pe rakh ke sar ko kaha ek zaif ne
+  Akbar kahaaṅ hai dard bata main Husain huṅ
 
   7
-  Ay shamiyon kafan na diya mujhko gham nahi
-  Dedo meri behan ko rida mai hussain hoo
+  Ae Shaamiyoṅ kafan na diya mujh ko gham nahiṅ
+  De do meri behan ko rida main Husain huṅ
 
   8
-  Mehsoos ho raha hai ke maqtal se aaj bhi
-  Awaaz aa rahi hai raza mai hussain hoo
+  Mehsus ho raha hai ke maqtal se aaj bhi
+  Aawaaz aa rahi hai Raza main Husain huṅ
 
   9
-  Darbar may layeen ke kohraam mach gaya
-  Mukhtar se jo sar ne kaha mai hussain hoo
+  Darbaar mein lain ke kohraam mach gaya
+  Mukhtar se jo sar ne kaha main Husain huṅ
 
   10
-  Mehsoos ab bhi hota hai ye zaaireen ko
-  Rauze se aa rahi hai sada mai hussain hoo
+  Mehsus ab bhi hota hai ye zaairoṅ ko
+  Rauze se aa rahi hai sada main Husain huṅ
 
   11
-  Aisa laga raza ke shanawar se fatema
-  Kehti hai baar baar suna mai hussain hoo
+  Aisa laga Raza ke Shanawar se Fatima
+  Kehti hai baar baar suna main Husain huṅ
 # source_id: nohayonline:ca4e2d33ac6562b2ad92
 # source_url: https://www.nohayonline.com/details_content.php?id=318
 # raw_sha256: f22eaa50e5a8d57c25f10509eab3348a8acbe54dfeb43438664c3d9ebcf1de20
@@ -66,7 +67,7 @@ romanLyrics: |-
 ---
 
 گونجی بوقتِ عصر صدا میں حسین ہوں
-کاٹونہ میرا خشک گلہ میں حسین ہوں
+کاٹو نہ میرا خشک گلا میں حسین ہوں
 
 ۱
 سوکھی ہوئی ہیں شمر میرے حلق کی رگیں
@@ -74,11 +75,11 @@ romanLyrics: |-
 
 ۲
 شیریں کے گھر پہ پہنچا جب رانڈوں کا قافلہ
-نیزے سے ایک سر نے کہامیںحسین ہوں
+نیزے سے ایک سر نے کہا میں حسین ہوں
 
 ۳
 اماں کسی نے پانی کی اک بوند بھی نہ دی
-میں بار بار کہتا رہا میںحسین ہوں
+میں بار بار کہتا رہا میں حسین ہوں
 
 ۴
 کٹتا ہوا گلا میرا دیکھا نہ جائے گا
@@ -86,7 +87,7 @@ romanLyrics: |-
 
 ۵
 بے بازوؤں کی لاش تڑپ کر الٹ گئی
-آی فرات پر جو صدا میں حسین ہوں
+آئی فرات پر جو صدا میں حسین ہوں
 
 ۶
 زانو پہ رکھ کے سر کو کہا اک ضعیف نے
@@ -97,8 +98,8 @@ romanLyrics: |-
 دے دو میری بہن کو ردا میں حسین ہوں
 
 ۸
-محسوس ہو رہا ہے کے مقتل سے آج بھی
-آواز آرہی ہے رضا میںحسین ہوں
+محسوس ہو رہا ہے کہ مقتل سے آج بھی
+آواز آ رہی ہے رضا میں حسین ہوں
 
 ۹
 دربار میں لعین کے کہرام مچ گیا
@@ -106,7 +107,7 @@ romanLyrics: |-
 
 ۱۰
 محسوس اب بھی ہوتا ہے یہ زائروں کو
-روضے سے آرہی ہے سدا میں حسین ہوں
+روضے سے آ رہی ہے صدا میں حسین ہوں
 
 ۱۱
 ایسا لگا رضا کہ شناور سے فاطمہ
