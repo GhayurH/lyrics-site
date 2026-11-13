@@ -204,8 +204,20 @@ test("borrow and reorder verified Marsiya stanzas", async ({ page }) => {
   await expect(page.locator("#recite-stanzas li").last()).toContainText("دوسرا مرثیہ");
   await page.locator("#recite-stanzas li").last().getByRole("button", { name: /Move stanza .* up/ }).click();
   await page.locator("#recite-open-reader").click();
-  await expect(page.locator(".recite-stanza-source").first()).toContainText("دوسرا مرثیہ");
-  await expect(page.locator(".lyric-reading-urdu .basta-kalam-text").first()).toBeVisible();
+  await expect(page.locator(".recite-stanza-source")).toHaveCount(0);
+  const original = page.locator(".lyric-reading-urdu .basta-kalam-text");
+  await expect(original.first()).toBeVisible();
+  await expect(original.locator(".poetry-stanza-number")).toHaveText(["۱", "۲", "۳"]);
+  await expect(page.locator(".lyric-reading-roman .poetry-stanza-number")).toHaveText(["1", "2", "3"]);
+  await expect(page.locator('.lyric-reading-urdu [data-source-kalam="basta-marsiye-002"]'))
+    .toContainText("دوسرے کا بند");
+  await page.locator(".recite-reader-exports summary").click();
+  const downloaded = page.waitForEvent("download");
+  await page.locator("#recite-download-offline").click();
+  const html = await readFile(await (await downloaded).path(), "utf8");
+  expect(html).not.toContain("recite-stanza-source");
+  expect(html).toContain("دوسرے کا بند");
+  expect(html).toContain('data-source-kalam="basta-marsiye-002"');
 });
 
 
@@ -370,4 +382,74 @@ test("sharing choices are disclosed as the programme becomes publishable", async
   await expect(options).not.toHaveAttribute("open", "");
   await page.locator("#recite-title").fill("Read for majlis — updated");
   await expect(options).not.toHaveAttribute("open", "");
+});
+
+
+test("mobile recitation text card stays inside the controls with long verses", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  const id = "mobile-recitation-fixture";
+  const set = { version: 1, title: "Long lines", occasion: "", description: "", items: [
+    { uid: "391002ab-16f4-4535-bf2a-8ca02cefc956", kind: "basta",
+      id: "basta-marsiye-003", sourceTitle: "Long Marsiya" },
+  ] };
+  await page.addInitScript(({ key, entry }) => localStorage.setItem(key, JSON.stringify([entry])),
+    { key: "kalam:recitation-drafts-v1", entry: { id, set } });
+  await page.route("**/data/basta-kalams/basta-marsiye-003.json", route =>
+    route.fulfill({ contentType: "application/json", body: JSON.stringify({ kalam: {
+      id: "basta-marsiye-003", name: "Long Marsiya", romanName: "Long Marsiya",
+      sectionRoman: "Marsiye", startPage: 287, pages: [287], status: "ready",
+      preface: "", urdu: "", roman: "Roman",
+      stanzas: [{ id: "stanza-005", number: 5, printedNumber: "۵",
+        urdu: "دنیا سے آج رحلت بنت رسول ہے دنیا سے آج رحلت بنت رسول ہے دنیا سے آج رحلت بنت رسول ہے",
+        roman: "Duniya se aaj rehlat Bint e Rasul hai ".repeat(5), pages: [287] }],
+    } }) }));
+  await page.goto("/recite/read/?draft=" + id);
+  const card = page.locator(".recite-work");
+  const toolbar = page.locator(".reading-controls-recitation");
+  await expect(card).toBeVisible();
+  await expect(card.locator(".lyric-reading-urdu .poetry-stanza-number")).toHaveText("۱");
+  await expect(card.locator(".lyric-reading-roman .poetry-stanza-number")).toHaveText("1");
+  const widths = await page.evaluate(() => {
+    const card = document.querySelector(".recite-work").getBoundingClientRect();
+    const toolbar = document.querySelector(".reading-controls-recitation").getBoundingClientRect();
+    return { cardLeft: card.left, cardRight: card.right, toolbarLeft: toolbar.left,
+      toolbarRight: toolbar.right, viewport: document.documentElement.clientWidth,
+      overflow: document.documentElement.scrollWidth };
+  });
+  expect(widths.cardLeft).toBeGreaterThanOrEqual(widths.toolbarLeft - 2);
+  expect(widths.cardRight).toBeLessThanOrEqual(widths.toolbarRight + 2);
+  expect(widths.cardRight).toBeLessThanOrEqual(widths.viewport + 1);
+  expect(widths.overflow).toBeLessThanOrEqual(widths.viewport + 1);
+});
+
+test("print action opens a valid standalone document with its doctype", async ({ page, context }) => {
+  const id = "recitation-print-fixture";
+  const set = { version: 1, title: "Printable programme", occasion: "", description: "",
+    items: [{ uid: "391002ab-16f4-4535-bf2a-8ca02cefc956", kind: "lyric",
+      id: "printed-fixture", sourceTitle: "Print fixture" }] };
+  await page.addInitScript(({ key, entry }) => localStorage.setItem(key, JSON.stringify([entry])),
+    { key: "kalam:recitation-drafts-v1", entry: { id, set } });
+  await page.route("**/data/recitation-lyrics/printed-fixture.json", route =>
+    route.fulfill({ contentType: "application/json", body: JSON.stringify({ lyric: {
+      id: "printed-fixture", title: "Print fixture", urdu: "۱\nسلام",
+      roman: "1\nSalaam", lang: "ur", direction: "rtl",
+    } }) }));
+  await context.addInitScript(() => { window.print = () => { window.__printCalled = true; }; });
+  await page.goto("/recite/read/?draft=" + id);
+  await page.locator(".recite-reader-exports summary").click();
+  const popupPromise = page.waitForEvent("popup");
+  await page.locator("#recite-print").click();
+  const popup = await popupPromise;
+  await expect(page.locator("#recite-export-status")).toContainText("Save as PDF");
+  const documentState = await popup.evaluate(() => ({
+    doctype: document.doctype?.name,
+    title: document.title,
+    content: document.body?.textContent,
+    printed: window.__printCalled === true,
+  }));
+  expect(documentState.doctype).toBe("html");
+  expect(documentState.title).toContain("Printable programme");
+  expect(documentState.content).toContain("Print fixture");
+  expect(documentState.printed).toBe(true);
+  await popup.close();
 });
