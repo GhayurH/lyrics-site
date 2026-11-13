@@ -1,40 +1,41 @@
 ---
 title: "مظلوم حسین کی ہمشیرہ"
-alternateTitle: "Mazloom Hussain Ki"
+alternateTitle: "Mazloom Husain Ki"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar & J. Jaffri"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Mazloom hussain ki hamsheera
-  
-  1
+  Mazloom Husain ki hamsheera
   Islam bachane aayi hai
   Shabbir ka saari duniya ko
   Paigham sunaane aayi hai
-  Ashoor ke din jis bibi ka
+
+  1
+  Aashur ke din jis Bibi ka
   Aabad chaman barbad hua
   Sab bhai bhatije maare gaye
   Samaan jala ghar baar luta
-  Kuch bhi na bacha lekin zainab
+  Kuch bhi na bacha lekin Zainab
   Ye deen bachane aayi hai
   
   2
-  Har khutba iska majlis hai
-  Har aansu iska matam hai
-  Ashoor basa hai aankhon mein
+  Har khutba is ka majlis hai
+  Har aansuṅ is ka matam hai
+  Aashur basa hai aankhoṅ mein
   Aur dil mein bahattar ka gham hai
-  Ye ahle aza se farshe aza
-  Ghar ghar bichwane aayi hai
+  Ye ahl-e-aza se farsh-e-aza
+  Ghar ghar bichhwane aayi hai
   
   3
   Hum par pathar barsaate ho
-  Haste ho jashn manaate ho
-  Sayyed ka khoon bahaate ho
+  Haṅste ho jashn manaate ho
+  Sayyed ka khun bahaate ho
   Aur baaghi baaghi kehte ho
   Shabbir to paak namazi hai
   Ye tum ko batane aayi hai
@@ -42,25 +43,25 @@ romanLyrics: |-
   4
   Kaunain ki malka ki beti
   Wo sharm o haya ki shehzadi
-  Shaam e ghariban mein jiski
-  Chaadar cheeni thi wo bibi
-  Dunya ki maaon behno ko
+  Shaam-e-gharibaaṅ mein jiski
+  Chaadar chhini thi wo Bibi
+  Dunya ki maaoṅ behnoṅ ko
   Parda sikhlaane aayi hai
   
   5
   Jisne bhai ki gardan par
   Chalte huwe khanjar dekha tha
-  Na chupne doongi khoon tera
+  Na chhupne duṅgi khun tera
   Shabbir se jis ka waada tha
-  Wo zainab shaam mein bhai ka
+  Wo Zainab Shaam mein bhai ka
   Matam karwaane aayi hai
   
   6
   Sarwar jab baad reha ho kar
-  Jab aayi karbobala muztar
+  Jab aayi Karbobala muztar
   Haye! peet ke sar maatam kar kar
   Chillayi bhai ki turbat par
-  Uth bhai hussain tera chehlum
+  Uth bhai Husain tera chehlum
   Teri behan manane aayi hai
 # source_id: nohayonline:1322e13339fa488244d8
 # source_url: https://www.nohayonline.com/details_content.php?id=1738
@@ -68,12 +69,12 @@ romanLyrics: |-
 ---
 
 مظلوم حسین کی ہمشیرہ
-
-۱
 اسلام بچانے آی ہے
 شبیر کا ساری دنیا کو
 پیغام سنانے آی ہے
-عاشور کے دن جس بی بی کا
+
+۱
+عاشور کے دن جس بی‌بی کا
 آباد چمن برباد ہوا
 سب بھای بھتیجے مارے گۓ
 سامان جلا گھر بار لٹا
@@ -100,7 +101,7 @@ romanLyrics: |-
 کونین کی ملکہ کی بیٹی
 وہ شرم و حیاء کی شہزادی
 شام غریباں میں جسکی
-چادر چھینی تھی وہ بی بی
+چادر چھینی تھی وہ بی‌بی
 دنیا کی ماؤں بہنوں کو
 پردہ سکھلانے آی ہے
 

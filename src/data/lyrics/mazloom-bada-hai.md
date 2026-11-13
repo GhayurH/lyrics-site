@@ -6,32 +6,33 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Karbala kehti hai mazloom bada hai asghar
-  Zibha maidan mein do baar hua hai asghar
+  Karbala kehti hai mazloom bara hai Asghar
+  Zibh maidaaṅ mein do baar hua hai Asghar
 
   1
-  Haath mein taygh nahi aur ulat de faujein
-  Jaise abbas lade waisa lada hai asghar
+  Haath mein tegh nahiṅ aur ulat de faujeṅ
+  Jaise Abbas lare waisa lara hai Asghar
 
   2
   Sar hai naize pe rakha aur badan reti par
-  Haye kis haal mein bano ko mila hai asghar
+  Haye kis haal mein Bano ko mila hai Asghar
 
   3
-  Sun ke halmin ki sada dasht mein jaane ke liye
-  Ghutniyo shaah ke qaime mein chala hai asghar
+  Sun ke hal min ki sada dasht mein jaane ke liye
+  Ghutniyoṅ Shaah ke khaime mein chala hai Asghar
 
   4
   Asr ke aakhri sajde ke liye maula ne
-  Apne chehre pe tera khoon mala hai asghar
+  Apne chehre pe tera khuṅ mala hai Asghar
 
   5
-  Tera ehsaan na bhoolega takallum maula
-  Mujhko sab kuch tere jhoole se mila hai asghar
+  Tera ehsaaṅ na bhulega Takallum maula
+  Mujhko sab kuch tere jhule se mila hai Asghar
 # source_id: nohayonline:bd65e04b62809f6a5ea2
 # source_url: https://www.nohayonline.com/details_content.php?id=3204
 # raw_sha256: 41359750476c45c4513ebce02f55c174a92614e24382ed0d8f412e7b6e618ea5
@@ -45,10 +46,10 @@ romanLyrics: |-
 
 ۲
 سر ہے نیزے پہ رکھا اور بدن ریتی پر
-ہاے کس حال میں بانو کو ملا ہے اصغر
+ہائے کس حال میں بانو کو ملا ہے اصغر
 
 ۳
-سن کے ھل من کی صدا دشت میں جانے کے لئے
+سن کے ہل من کی صدا دشت میں جانے کے لئے
 گھٹنیوں شاہ کے خیمے میں چلا ہے اصغر
 
 ۴

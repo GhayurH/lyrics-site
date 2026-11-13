@@ -6,54 +6,55 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Kazmi Brothers"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Mazloom ka matam hai ruka hai na rukega
-  
+  Ye aisa diya hai jo hawaaoṅ mein jalega
+
   1
-  Ye aisa diya hai jo hawaon mein jalega
-  Rukhsaar e yazeedi pe lagega wo tamacha
-  Jo haath azadaar ke seene pe padega
+  Rukhsaar-e-Yazidi pe lagega wo tamaancha
+  Jo haath azaadaar ke sine pe parega
   
   2
-  Sheh bole ye haathon pe utha kar sar e maqtal
-  Hai kaun jo asghar se mere baad karega
+  Sheh bole ye haathoṅ pe utha kar sar-e-maqtal
+  Hai kaun jo Asghar se mere baad karega
   
   3
-  Sada rahega hussain ka gham
-  Ye shor e girya ye shor e matam
+  Sada rahega Husain ka gham
+  Ye shor-e-girya ye shor-e-matam
   Zehra ki dua hai ye matam
   Ye matam kaise ruk jaye
-  Seh roz ke pyason se ye pani ka hai waada
+  Seh roz ke pyaasoṅ se ye paani ka hai waada
   Kaunain mein ab koi bhi pyasa na rahega
   
   4
-  Hurr banke koi aaye to shabbir ki jaanib
+  Hur ban ke koi aaye to Shabbir ki jaanib
   Ye aisa gharana hai jo maangoge milega
   
   5
-  Akbar ne kaha sheh se ulat doonga mai lashkar
-  Baba mujhe do ghoont agar pani milega
+  Akbar ne kaha sheh se ulat duṅga main lashkar
+  Baba mujhe do ghuṅt agar paani milega
   
   6
-  Baadshah e karbala deen ka hai aasra
-  Teri majlis tera matam zindagi hai ye hussain
-  Ya hussain ya hussain ya hussain
-  Qaayim ko zara aane do ghaibat se takallum
-  Ek halqa abhi khaana e kaaba mein lagega
+  Baadshaah-e-Karbala din ka hai aasra
+  Teri majlis tera matam zindagi hai ye Husain
+  Ya Husain ya Husain ya Husain
+  Qaaim ko zara aane do ghaibat se Takallum
+  Ek halqa abhi khaana-e-Kaaba mein lagega
 # source_id: nohayonline:0a00c504a8afc4dcd703
 # source_url: https://www.nohayonline.com/details_content.php?id=1369
 # raw_sha256: 9ad5bd52af4a3c2406eb24dbe35419211a5579c5b613f23e635b42d6f1bae19f
 ---
 
 مظلوم کا ماتم ہے رکا ہے نہ رکےگا
+یہ ایسا دیا ہے جو ہواؤں میں جلےگا
 
 ۱
-یہ ایسا دیا ہے جو ہواوں میں جلےگا
 رخسار یزیدی پہ لگےگا وہ طمانچہ
-جو ہاتھ عزادار کے سینےثہ پڑےگا
+جو ہاتھ عزادار کے سینے پہ پڑےگا
 
 ۲
 شہ بولے یہ ہاتھوں پہ اٹھا کر سر مقتل
@@ -64,7 +65,7 @@ romanLyrics: |-
 یہ شور گریہ یہ شور ماتم
 زہرا کی دعا ہے یہ ماتم
 یہ ماتم کیسے رک جاے
-سہ روز کے پیاسوں سے یہ پانی کاہے وعدہ
+سہ روز کے پیاسوں سے یہ پانی کا ہے وعدہ
 کونین میں اب کوی بھی پیاسہ نہ رہےگا
 
 ۴
@@ -77,7 +78,7 @@ romanLyrics: |-
 
 ۶
 بادشاہ کربلا دین کا ہے آسرا
-تیری مجلس تیرا ماتم زندگی ہے یا حسیم
-یا حسیم یا حسیم یا حسیم
-قائم کو زرا آنے دو غیبت سے تکلم
+تیری مجلس تیرا ماتم زندگی ہے یا حسین
+یا حسین یا حسین یا حسین
+قائم کو ذرا آنے دو غیبت سے تکلم
 اک حلقہ ابھی خانہء کعبہ میں لگے گا
