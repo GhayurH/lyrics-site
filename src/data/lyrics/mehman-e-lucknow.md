@@ -1,89 +1,90 @@
 ---
 title: "اے حسین کربلا اے مہمان لکھنؤ"
-alternateTitle: "Mehman E Lucknow"
+alternateTitle: "Mehman-e-Lucknow"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shaheed Lakhnavi"
+reciter: "Afzal Mirza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ay hussain e karbala ay mehmaan e lucknow
-  Tere qadmon ki badaulat ab hai shaan e lucknow
+  Ae Husain-e-Karbala ae mehmaan-e-Lucknow
+  Tere qadmoṅ ki badaulat ab hai shaan-e-Lucknow
 
   1
-  Dard se maula bhar aaya hai tere shayar ka dil
-  De ijazat to zuban ho tarjuman e lucknow
+  Dard se Maula bhar aaya hai tere shaair ka dil
+  De ijaazat to zabaaṅ ho tarjuman-e-Lucknow
 
   2
-  Thays lag jayegi tere qalb e zakhmi ko shahab
-  Warna kar deta wazahat se bayan e lucknow
+  Thes lag jaayegi tere qalb-e-zakhmi ko shahab
+  Warna kar deta wazaahat se bayaan-e-Lucknow
 
   3
   Tere gham ke mah siwa ye gham bhi hai is qaum ko
-  Kya thay aur kya reh gaye hai haadiyan e lucknow
+  Kya the aur kya reh gaye hai haadiyaan-e-Lucknow
 
   4
-  Kal ki wo shaahi azakhaano mein teri majlisein
-  Jin mein ab tak kuch nazar aati hai shaan e lucknow
+  Kal ki wo shaahi azaakhanoṅ mein teri majliseṅ
+  Jin mein ab tak kuch nazar aati hai shaan-e-Lucknow
 
   5
-  Ay ali ke laadle daaman na chodenge tera
-  Jis tarha se chaahe kar le imtehan e lucknow
+  Ae Ali ke laadle daaman na chhoreṅge tera
+  Jis tarah chaahe kar le imtihaan-e-Lucknow
 
   6
-  Bas chale gar chaahne waalon ka tere ay hussain
-  Tere rauze ko utha laaye miyaan e lucknow
+  Bas chale gar chaahne waloṅ ka tere ae Husain
+  Tere rauze ko uthaa laaye miyaan-e-Lucknow
 
   7
-  Do mahine aat din tak tere maatam mein hussain
-  Arsh se jaa jaa ke takrayi fughan e lucknow
+  Do mahine aath din tak tere maatam mein Husain
+  Arsh se jaa jaa ke takraai fughaan-e-Lucknow
 
   8
-  Khuld mein shaam o sehar ki majlison ke waaste
-  Fatema ne chun liye do khushbayan e lucknow
+  Khuld mein shaam o sahar ki majlisoṅ ke waaste
+  Fatema ne chun liye do khushbayaan-e-Lucknow
 
   9
-  Ek dabeer e do-jahan hai ek anees e kayenaat
-  Ek rooh e lucknow hai ek jaan e lucknow
+  Ik Dabir-e-Do Jahaaṅ hai ik Anis-e-Kaainaat
+  Ik ruh-e-Lucknow hai ik jaan-e-Lucknow
 
   10
-  Aaj hai matam ka tere aakhri din ay shahab
-  Jaa rahi hai ye baharein gulsitan e lucknow
+  Aaj hai maatam ka tere aakhri din ae shahab
+  Jaa rahi hai ye bahaareṅ gulsitaan-e-Lucknow
 
   11
-  Kis tarha ruqsat kare ay zeenat e dosh e rasool
-  Tujhse sharminda hai maula saakinaan e lucknow
+  Kis tarah rukhsat kare ae zinat-e-dosh-e-Rasul
+  Tujh se sharminda hai Maula saakinaan-e-Lucknow
 
   12
-  Tere akbar ke tassaduq tere asghar ke nisaar
-  Har jawan e lucknow har bezuban e lucknow
+  Tere Akbar ke tasadduq tere Asghar ke nisaar
+  Har jawaan-e-Lucknow har bezabaan-e-Lucknow
 
   13
-  Ye to kahiye aap ke bhai ki yan dargaah hai
-  Warna kab tak mit gaya hota nishan e lucknow
+  Ye to kahiye aap ke bhaai ki yaaṅ dargaah hai
+  Warna kab tak mit gaya hota nishaan-e-Lucknow
 
   14
-  Dekh to mud kar zara ye apni ruqsat ka sama
-  Kis tarha ujda pada hai har makaan e lucknow
+  Dekh to mur kar zara ye apni rukhsat ka samaaṅ
+  Kis tarah ujra para hai har makaan-e-Lucknow
 
   15
-  Alwida ay fatema zehra ke dilbar alwida
-  Har taraf goonji hui hai ye fughan e lucknow
+  Alwidaa ae Fatema Zehra ke dilbar alwidaa
+  Har taraf gunji hui hai ye fughaan-e-Lucknow
 
   16
   Jaate jaate mere maula ye bataate jaaiye
-  Saal bhar tak kya karenge saakinaan e lucknow
+  Saal bhar tak kya kareṅge saakinaan-e-Lucknow
 
   17
-  Hum gareebon ki taraf se chand aansu kar qubool
-  Aur de sakte hai kya hum muflisaan e lucknow
+  Hum ghariboṅ ki taraf se chand aaṅsu kar qubul
+  Aur de sakte hai kya hum muflisaan-e-Lucknow
 
   18
-  Daagh e matam aur ye aansu pesh kar dena shaheed
-  Aakhri shabbir jab aaye miyaan e lucknow
+  Daagh-e-maatam aur ye aaṅsu pesh kar dena Shaheed
+  Aakhri Shabbir jab aaye miyaan-e-Lucknow
 # source_id: nohayonline:e70111586a1a03ce6d33
 # source_url: https://www.nohayonline.com/details_content.php?id=1865
 # raw_sha256: aca4c280e4cc6892cabc065f43adc3385790975f59a213e76455693990e4f96e
@@ -92,16 +93,16 @@ romanLyrics: |-
 تیرے قدموں کی بدولت اب ہے شان لکھنؤ
 
 ۱
-درد سے مولا بھر آیا ہے تیرے شایر کا دل
+درد سے مولا بھر آیا ہے تیرے شاعر کا دل
 دے اجازت تو زباں ہو ترجمان لکھنؤ
 
 ۲
-ٹھیس لگ جاے گی تیرے قلب زخمی کو صاحب
+ٹھیس لگ جائے گی تیرے قلب زخمی کو صاحب
 ورنہ کر دیتا وضاحت سے بیان لکھنؤ
 
 ۳
 تیرے غم کے ماہ سوا یہ غم بھی ہے اس قوم کو
-کیا تھے اور کیا رہ گےء ہے ہادیان لکھنؤ
+کیا تھے اور کیا رہ گئے ہے ہادیان لکھنؤ
 
 ۴
 کل کی وہ شاہی عزاخانوں میں تیری مجلسیں
@@ -121,10 +122,10 @@ romanLyrics: |-
 
 ۸
 خلد میں شام و سحر کی مجلسوں کے واسطے
-فاطمہ نے چن لیےء دو خوش بیان لکھنؤ
+فاطمہ نے چن لیے دو خوش بیان لکھنؤ
 
 ۹
-اک دبیر دو جہاں ہے اک انیس کاینات
+اک دبیر دو جہاں ہے اک انیس کائنات
 اک روح لکھنؤ ہے اک جان لکھنؤ
 
 ۱۰
@@ -140,25 +141,25 @@ romanLyrics: |-
 ہر جوان لکھنؤ ہر بے زبان لکھنؤ
 
 ۱۳
-یہ تو کہیےء آپ کے بھائی کی یاں درگاہ ہے
+یہ تو کہیے آپ کے بھائی کی یاں درگاہ ہے
 ورنہ کب تک مٹ گیا ہوتا نشان لکھنؤ
 
 ۱۴
-دیکھ تو مڑ کر زرا یہ اپنی رخصت کا سماں
+دیکھ تو مڑ کر ذرا یہ اپنی رخصت کا سماں
 کس طرح اجڑا پڑا ہے ہر مکان لکھنؤ
 
 ۱۵
 الوداع اے فاطمہ زہرا کے دلبر الوداع
-ہر طرف گونجی ہوی ہے یہ فغان لکھنؤ
+ہر طرف گونجی ہوئی ہے یہ فغان لکھنؤ
 
 ۱۶
-جاتے جاتے میرے مولا یہ بتاتے جایےء
+جاتے جاتے میرے مولا یہ بتاتے جائیے
 سال بھر تک کیا کریں گے ساکنان لکھنؤ
 
 ۱۷
-ہم غریبوں کی طرف سے چند آنسوں کر قبول
+ہم غریبوں کی طرف سے چند آنسو کر قبول
 اور دے سکتے ہے کیا ہم مفلسان لکھنؤ
 
 ۱۸
-داغ ماتم اور یہ آنسوں پیش کر دینا شہید
-آخری شبیر جب آے میان لکھنؤ
+داغ ماتم اور یہ آنسو پیش کر دینا شہید
+آخری شبیر جب آئے میان لکھنؤ
