@@ -2895,8 +2895,8 @@ src/data/lyrics/nikal-do-mere-pehlu.md,standalone_lyrics,imported,nohayonline,pe
 src/data/lyrics/nikla-hai-janaza-koi-allah-ke-ghar-se.md,standalone_lyrics,imported,tajpoints,pending,partial_review,partial_review,reviewed,not_applicable,reviewed,first_sweep,,"Need Urdu poster/audio: s1 ""Mehshar Qayamat ke asar se""."
 src/data/lyrics/nikla-hai-janaza-koi.md,standalone_lyrics,imported,nohayonline+ziyaraat,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s3 ""Faryad mein"" (NoHayOnline) vs ""Faryad se"" (Ziyaraat)."
 src/data/lyrics/noha-kuna-zainabe.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s4 ""Ali o Muhammadi"" vs ""Ali o Muhammad hi""; s8 ""betiyan hai"" vs ""betiyan hain""."
-src/data/lyrics/noha-lubaba-ka-tha.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/noha-tha-kulsoom-ka.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/noha-lubaba-ka-tha.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s4 Urdu ""شہزادیاں کھڑی ہیں"" vs Roman ""shehzadiyan gayi hai""; confirm khari vs gayi."
+src/data/lyrics/noha-tha-kulsoom-ka.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s3 Urdu ""بعد قضائ"" vs Roman ""baade khaza""; s4 ""جائیں کہاں"" vs ""jaaye kahan""; s7 confirm ""انیسِ حزیں"" and ""شوکت مکین"" and their attribution."
 src/data/lyrics/noha-tha-sakina-ka.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/noha-tha-sakina-ke.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/noke-naiza-pe.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,

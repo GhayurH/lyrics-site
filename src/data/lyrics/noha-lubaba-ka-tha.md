@@ -1,45 +1,46 @@
 ---
 title: "نوحہ لبابہ کا تھا عباس جلد آؤ"
-alternateTitle: "Noha Lubaba Ka Tha"
+alternateTitle: "Nauha Lubaaba Ka Tha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Anees"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Nauha lubaba ka tha abbas jalad aao
-  Waqte madad hai waali ab dayr mat lagao
+  Nauha Lubaaba ka tha Abbas jald aao
+  Waqt-e-madad hai waali ab der mat lagaao
 
   1
-  Kis yaas se sadayein hal min ki de rahe hai
-  Narghe mein hai adoo ke aaqa unhe bachao
+  Kis yaas se sadaaeiṅ hal min ki de rahe haiṅ
+  Narghe meiṅ haiṅ adu ke aaqa unheiṅ bachaao
 
   2
   Tanhaai bekasi ne ghera hai har taraf se
-  Lillaah is bala se aakar unhe chudao
+  Lillaah is bala se aa kar unheiṅ chhuraao
 
   3
-  Chalni badan hai saara zakhmon se khoon rawan hai
-  Apni wafa ka marham laa kar zara lagao
+  Chhalni badan hai saara zakhmoṅ se khuṅ rawaaṅ hai
+  Apni wafa ka marham laa kar zara lagaao
 
   4
-  Betaab hoke dar tak shehzadiyan gayi hai
-  Dhalki hai sar se chadar aakar zara udhao
+  Betaab ho ke dar tak shahzaadiyaaṅ khari haiṅ
+  Dhalki hai sar se chaadar aa kar zara urhaao
 
   5
-  Aaqa ke tan se sar ki lo hogayi judaai
-  Be-sar ki laash koi qaime mein ran se lao
+  Aaqa ke tan se sar ki lo ho gayi judaai
+  Be sar ki laash koi khaime meiṅ ran se laao
 
   6
-  Pamaal kar rahe hai sibte nabi ka laasha
+  Paamaal kar rahe haiṅ Sibt-e-Nabi ka laasha
   Mushkil kusha ke dilbar aao madad ko aao
 
   7
-  Kuch sa'aton ki bewa karti rahi jo ro kar
-  Tum bhi anees nauha wohi hamay sunao
+  Kuchh saaatoṅ ki bewa karti rahi jo ro kar
+  Tum bhi Anees nauha wohi hameiṅ sunaao
 # source_id: nohayonline:a8249f2cc31cb2c39e56
 # source_url: https://www.nohayonline.com/details_content.php?id=3021
 # raw_sha256: e4cf5fb4ff5087d10a739a6f9c10e9f266746467db811541cc11eaac2095ec12
@@ -48,28 +49,28 @@ romanLyrics: |-
 وقتِ مدد ہے والی اب دیر مت لگاؤ
 
 ۱
-کس یاس سے صداییں ھل من کی دے رہے ہیں
+کس یاس سے صدائیں ہل من کی دے رہے ہیں
 نرغے میں ہیں عدو کے آقا انہیں بچاؤ
 
 ۲
-تنہائی بیکسی نے گھیرا ہے ہر طرف سے
-لللہ اس بلا سے آکر انہیں چھڑاؤ
+تنہائی بے کسی نے گھیرا ہے ہر طرف سے
+للہ اس بلا سے آ کر انہیں چھڑاؤ
 
 ۳
 چھلنی بدن ہے سارا زخموں سے خوں رواں ہے
-اپنی وفا کا مرحم لا کر زرا لگاؤ
+اپنی وفا کا مرہم لا کر ذرا لگاؤ
 
 ۴
-بیتاب ہو کے در تک شہزادیاں کھڑی ہیں
-ڈھلکی ہے سر سے چادر آکر زرا اڑھاو
+بے تاب ہو کے در تک شہزادیاں کھڑی ہیں
+ڈھلکی ہے سر سے چادر آ کر ذرا اڑھاؤ
 
 ۵
-آقا کے تن سے سر کی لو ہوگیء جدای
-بے سر کے لاش کوی خیمے میں رن سے لاؤ
+آقا کے تن سے سر کی لو ہو گئی جدائی
+بے سر کی لاش کوئی خیمے میں رن سے لاؤ
 
 ۶
-پامال کر رہے ہیں سبط نبی کا لاشہ
-مشکل کشاء کے دلبر آؤ مدد کو آؤ
+پامال کر رہے ہیں سبطِ نبی کا لاشہ
+مشکل کشا کے دلبر آؤ مدد کو آؤ
 
 ۷
 کچھ ساعتوں کی بیوہ کرتی رہی جو رو کر
