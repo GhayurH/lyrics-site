@@ -1,103 +1,107 @@
 ---
-title: "ہاے‌ صغرا ہاے صغرا"
+title: "ہائے صغرا ہائے صغرا"
 alternateTitle: "Kya Hum Bhi Tumhe"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Sirsvi"
+reciter: "Ali Shanawar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye sughra haye sughra
-  Bhaiya ali akbar bhaiya ali akbar
-  Sughra ne ye khat akbar ko likha
-  Kaise ho mere pyare bhaiya
-  Bichde huwe arsa beet gaya
+  Haaye Sughra haaye Sughra
+  Bhaiya Ali Akbar bhaiya Ali Akbar
+
+  Sughra ne ye khat Akbar ko likha
+  Kaise ho mere pyaare bhaiya
+  Bichhre hue arsa bit gaya
   Kab tak ye behen dekhe rasta
-  Jab ghar ko parinde jaate hai
-  Kya hum bhi tumhe yaad aate hai
+  Jab ghar ko parinde jaate haiṅ
+  Kya hum bhi tumheṅ yaad aate haiṅ
 
   1
-  Lo qasid e sughra ghar se chala
-  Likha hai batao ay bhaiya
+  Lo qaasid-e-Sughra ghar se chala
+  Likha hai bataao Ae bhaiya
   Ab tak na khayaal aaya mera
-  Kya aisi hui hai mujhse khata
-  Kya aise rooth ke jaate hai
+  Kya aisi hui hai mujh se khata
+  Kya aise ruth ke jaate haiṅ
 
   2
-  Sab chod gaye hum ko tanha
-  Kis haal mein hoon kya tum ko pata
-  Bemaar ko de ab kaun dawa
-  Aajao jo tum mai paaun shifa
-  Jab chain se sab so jaate hai
+  Sab chhor gaye hum ko tanha
+  Kis haal mein huṅ kya tum ko pata
+  Bimaar ko de ab kaun dawa
+  Aa jaao jo tum main paauṅ shifa
+  Jab chain se sab so jaate haiṅ
 
   3
-  Jab bali sakina aur asghar
-  Milte hai galay tum se has kar
-  Aur saath mein ho maa aur padar
-  Bus itna bata bhaiya akbar
-  Sab ghar mein haste hasaate hai
+  Jab baali Sakina aur Asghar
+  Milte haiṅ gale tum se haṅs kar
+  Aur saath mein ho maaṅ aur padar
+  Bas itna bata bhaiya Akbar
+  Sab ghar mein haṅste haṅsaate haiṅ
 
   4
-  Jab jab bhi mussalle par bhaiya
-  Karte ho namaz e fajr adaa
-  Bemaar ke haq mein behr e shifa
-  Karte hai dua mere baba
-  Sab apne haath uthaate hai
+  Jab jab bhi musalle par bhaiya
+  Karte ho namaaz-e-fajr ada
+  Bimaar ke haq mein bahr-e-shifa
+  Karte haiṅ dua mere baaba
+  Sab apne haath uthaate haiṅ
 
   5
-  Qasim jo sakina ko bhaiya
+  Qaasim jo Sakina ko bhaiya
   Deta hai koi laa kar tohfa
-  Dono se galay mil kar baba
-  Dete hai dua lekar bosa
-  Aur pyaar se sar sehlaate hai
+  Donoṅ se gale mil kar baaba
+  Dete haiṅ dua lekar bosa
+  Aur pyaar se sar sehlaate haiṅ
 
   6
-  Jab ghar mein khushi ka ho samaan
-  Sab ek jagah ho peer o jawan
-  Khush dekh ke sab ko ho amma
-  Aajaye koi ghar mein mehman
-  Jab dastar khwaan bichaate hai
+  Jab ghar mein khushi ka ho saamaaṅ
+  Sab ek jagah ho pir o jawaaṅ
+  Khush dekh ke sab ko ho amaaṅ
+  Aa jaaye koi ghar mein mehmaan
+  Jab dastarkhwaan bichhaate haiṅ
 
   7
-  Hasrat hai tera sehra dekhun
-  Maajaye tera maatha choomun
-  Baatein to bahat hai kya likhun
-  Nadaar hoo bhaiya kya bhejun
-  Ehbaab jo tohfe laate hai
+  Hasrat hai tera sehra dekhuṅ
+  Maajaaye tera maatha chumuṅ
+  Baateṅ to bahut haiṅ kya likhuṅ
+  Naadaar huṅ bhaiya kya bhejuṅ
+  Ahbaab jo tohfe laate haiṅ
 
   8
   Jab zikr kabhi hota hoga
-  Maajaye tumhari shaadi ka
-  Khush hongi sakina aur kubra
-  Baandhega ali akbar sehra
-  Khushiyon ke phool khilaate hai
+  Maajaaye tumhaari shaadi ka
+  Khush hoṅgi Sakina aur Kubra
+  Baandhe ga Ali Akbar sehra
+  Khushiyoṅ ke phul khilaate haiṅ
 
   9
-  Kya aur likhun kya batlaun
-  Dil cheer ke kaise dikhlaun
-  Khud aao ke tum ko bulwaun
-  Bhaiya mai tujhe kaise paaun
-  Bus tanha ashk bahaate hai
+  Kya aur likhuṅ kya batlaauṅ
+  Dil chir ke kaise dikhlaauṅ
+  Khud aao ke tum ko bulwaauṅ
+  Bhaiya main tujhe kaise paauṅ
+  Bas tanha ashk bahaate haiṅ
 
   10
-  Qasid jo khat e sughra laaya
-  Ek baap kamar thaame tha khada
-  Bhai ke labon par tha sughra
-  Ro ro ke shanawar aur raza
-  Khat e sughra ka dohraate hai
-  Bhaiya ali akbar
+  Qaasid jo khat-e-Sughra laaya
+  Ek baap kamar thaame tha khara
+  Bhai ke laboṅ par tha Sughra
+  Ro ro ke Shanawar aur Raza
+  Khat-e-Sughra ka dohraate haiṅ
+
+  Bhaiya Ali Akbar
 # source_id: nohayonline:eeb0b6a8d728bd28625e
 # source_url: https://www.nohayonline.com/details_content.php?id=2502
 # raw_sha256: 91bc55ccb972e964b50e6ae1795bcbc5bbb0a7c373fdc976f586c4fde3b7fef0
 ---
-ہاے‌ صغرا ہاے صغرا
+ہائے صغرا ہائے صغرا
 بھیا علی اکبر بھیا علی اکبر
-صغرا نے یہ خط کو لکھا
+
+صغرا نے یہ خط اکبر کو لکھا
 کیسے ہو میرے پیارے بھیا
-بچھڑے ہوے عرصہ بیت گیا
+بچھڑے ہوئے عرصہ بیت گیا
 کب تک یہ بہن دیکھے رستہ
 جب گھر کو پرندے جاتے ہیں
 کیا ہم بھی تمہیں یاد آتے ہیں
@@ -106,14 +110,14 @@ romanLyrics: |-
 لو قاصد صغرا گھر سے چلا
 لکھا ہے بتاؤ اے بھیا
 اب تک نہ خیال آیا میرا
-کیا ایسی ہوی ہے مجھ سے خطا
+کیا ایسی ہوئی ہے مجھ سے خطا
 کیا ایسے روٹھ کے جاتے ہیں
 
 ۲
-سب چھوڑ گےء ہم کو تنہا
+سب چھوڑ گئے ہم کو تنہا
 کس حال میں ہوں کیا تم کو پتہ
 بیمار کو دے اب کون دوا
-آجاؤ جو تم میں پاؤں شفا
+آ جاؤ جو تم میں پاؤں شفا
 جب چین سے سب سو جاتے ہیں
 
 ۳
@@ -132,7 +136,7 @@ romanLyrics: |-
 
 ۵
 قاسم جو سکینہ کو بھیا
-دیتا ہے کوی لا کر تحفہ
+دیتا ہے کوئی لا کر تحفہ
 دونوں سے گلے مل کر بابا
 دیتے ہیں دعا لیکر بوسہ
 اور پیار سے سر سہلاتے ہیں
@@ -141,34 +145,35 @@ romanLyrics: |-
 جب گھر میں خوشی کا ہوں ساماں
 سب ایک جگہ ہو پیر و جواں
 خوش دیکھ کے سب کو ہو اماں
-آجاے کوی گھر میں مہمان
-جب دستر خوان بچھاتے ہیں
+آ جائے کوئی گھر میں مہمان
+جب دسترخوان بچھاتے ہیں
 
 ۷
 حسرت ہے تیرا سہرا دیکھوں
-مانجاے تیرا ماتھا چوموں
+مانجائے تیرا ماتھا چوموں
 باتیں تو بہت ہیں کیا لکھوں
 نادار ہوں بھیا کیا بھیجوں
 احباب جو تحفے لاتے ہیں
 
 ۸
 جب ذکر کبھی ہوتا ہوگا
-مانجاے تمہاری شادی کا
-خوش ہونگی سکینہ اور کبرا
+مانجائے تمہاری شادی کا
+خوش ہوں گی سکینہ اور کبرا
 باندھے گا علی اکبر سہرا
 خوشیوں کے پھول کھلاتے ہیں
 
 ۹
 کیا اور لکھوں کیا بتلاؤں
 دل چیر کے کیسے دکھلاؤں
-خود آؤ کہ تم کو بلواوں
+خود آؤ کہ تم کو بلواؤں
 بھیا میں تجھے کیسے پاؤں
 بس تنہا اشک بہاتے ہیں
 
 ۱۰
 قاصد جو خط صغرا لایا
 اک باپ کمر تھامے تھا کھڑا
-بھای کے لبوں پر تھا صغرا
+بھائی کے لبوں پر تھا صغرا
 رو رو کے شناور اور رضا
 خط صغرا کا دہراتے ہیں
+
 بھیا علی اکبر
