@@ -6,90 +6,91 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Dabeer Akhter"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kis liye chup ho mujhe itna bata do fatema
+  Kis liye chup ho mujhe itna bata do Fatema
+  Ya Ali ek baar bas keh ke bula do Fatema
+  Haaye ya Zehra haaye ya Zehra
   
   1
-  Ya ali ek baar bas keh ke bula do fatema
-  Haye ya zehra haye ya zehra
-  Phasliyan tooti hui hai hogayi mujhko khabar
+  Pasliyaaṅ tuti hui haiṅ is ki hai mujh ko khabar
   Dil phata jaata hai gham se bas ye manzar dekh kar
-  Meri khaatir haath pehlu se hata do fatema
-  Haye ya zehra haye ya zehra
+  Meri khaatir haath pehlu se hata do Fatema
+  Haaye ya Zehra haaye ya Zehra
   
   2
-  Fatima toota hai pehlu haye ye zulm o sitam
-  Rukh pe sayli ke nishan hai haath mein bhi hai waram
-  Jee rahi thi kis tarha itna bata do fatema
-  Haye ya zehra haye ya zehra
+  Fatema tuta hai pehlu haaye ye zulm o sitam
+  Rukh pe saili ke nishaaṅ haiṅ haath mein bhi hai waram
+  Ji rahi thi kis tarah itna bata do Fatema
+  Haaye ya Zehra haaye ya Zehra
   
   3
   Koi deta hai jawab ab aur na karta hai salaam
-  Aisi ghurbat mein nahi karti ho kyun mujhse kalaam
-  Mujhse tum baatein karo kuch gham mita do fatema
-  Haye ya zehra haye ya zehra
+  Aisi ghurbat mein nahiṅ karti ho kiuṅ mujh se kalaam
+  Mujh se tum baateṅ karo kuch gham mita do Fatema
+  Haaye ya Zehra haaye ya Zehra
   
   4
-  Fatema pal bar judaai seh nahi paaunga mai
-  Dard e dil apna kisi se keh nahi paaunga mai
-  Mujhko jeene ka zara sa hausla do fatema
-  Haye ya zehra haye ya zehra
+  Fatema pal bhar judaai seh nahiṅ paauṅga main
+  Dard-e-dil apna kisi se keh nahiṅ paauṅga main
+  Mujh ko jine ka zara sa hausla do Fatema
+  Haaye ya Zehra haaye ya Zehra
   
   5
-  Fatema faryaad ye hasnain ki sun lo zara
-  Keh rahe hai hum na kuch khayenge amma ke bina
-  Apne haathon se inhe khaana khila do fatema
-  Haye ya zehra haye ya zehra
+  Fatema faryaad ye Hasnain ki sun lo zara
+  Keh rahe haiṅ hum na kuch khaaeṅge ammaaṅ ke bina
+  Apne haathoṅ se inheṅ khaana khila do Fatema
+  Haaye ya Zehra haaye ya Zehra
   
   6
-  Yaad kar ke ro raha hai ek goshe mein hussain
-  Uth ke tum pani pilaati thi usay milta tha chain
-  Laal pyasa hai utho pani pila do fatema
-  Haye ya zehra haye ya zehra
+  Yaad kar ke ro raha hai ek goshe mein Husain
+  Uth ke tum paani pilaati thiṅ use milta tha chain
+  Laal pyaasa hai utho paani pila do Fatema
+  Haaye ya Zehra haaye ya Zehra
   
   7
-  Aao bachon aakhri deedar ab maa ka karo
-  Betiyon khud ko sambhalo maa ka chehra choom lo
-  Jaate jaate apne bachon ko dua do fatema
-  Haye ya zehra haye ya zehra
+  Aao bachchoṅ aakhri didaar ab maaṅ ka karo
+  Betiyoṅ khud ko sambhaalo maaṅ ka chehra chum lo
+  Jaate jaate apne bachchoṅ ko dua do Fatema
+  Haaye ya Zehra haaye ya Zehra
   
   8
-  Waqt e ruqsat aisa lagta hai ke mai mar jaunga
-  Apne haaton se tumhe mai kis tarha dafnaunga
-  Sakth mushkil hai meri himmat badha do fatema
-  Haye ya zehra haye ya zehra
+  Waqt-e-rukhsat aisa lagta hai ke main mar jaauṅga
+  Apne haathoṅ se tumheṅ main kis tarah dafnaauṅga
+  Sakht mushkil hai miri himmat barha do Fatema
+  Haaye ya Zehra haaye ya Zehra
   
   9
-  Ye jo chehre par abhi tak aansuon ke hai nishan
-  Kar rahe hai ye tumhari saari ghurbat ko bayan
-  Kuch to apne gham mujhe khud se suna do fatema
-  Haye ya zehra haye ya zehra
+  Ye jo chehre par abhi tak aansuoṅ ke haiṅ nishaaṅ
+  Kar rahe haiṅ ye tumhaari saari ghurbat ko bayaaṅ
+  Kuch to apne gham mujhe khud se suna do Fatema
+  Haaye ya Zehra haaye ya Zehra
   
   10
-  Dekho moo par moo rakhe kaise hassan karta hai bain
-  Ro raha hai nanhe haathon se kafan thaame hussain
-  In ke aansu poch kar in ko sula do fatema
-  Haye ya zehra haye ya zehra
+  Dekho muṅh par muṅh rakhe kaise Hasan karta hai bain
+  Ro raha hai nanhe haathoṅ se kafan thaame Husain
+  In ke aansu poṅchh kar in ko sula do Fatema
+  Haaye ya Zehra haaye ya Zehra
   
   11
-  Ro rahe hai sun ke sab ahle aza gham ka bayan
-  Kaash khud keh de payambar ye dabeer o shadman
-  Hai tumhare matami inko jaza do fatema
-  Haye ya zehra haye ya zehra
+  Ro rahe haiṅ sun ke sab ahl-e-aza gham ka bayaaṅ
+  Kaash khud keh deṅ Payambar ye Dabeer o Shadmaaṅ
+  Haiṅ tumhaare maatami in ko jaza do Fatema
+  Haaye ya Zehra haaye ya Zehra
 # source_id: nohayonline:d05be2ee0082a3caae1c
 # source_url: https://www.nohayonline.com/details_content.php?id=2242
 # raw_sha256: 6e2198804bf51a0e9ad8e22389016f25e36eda1f0b883522077b58942fc6ab1e
 ---
 
 کس لئے چپ ہو مجھے اتنا بتادو فاطمہ
+یا علی اک بار بس کہہ کے بلادو فاطمہ
+ہاے یا زہرا ہاے یا زہرا
 
 ۱
-یا علی اک بار بس کہ کے بلادو فاطمہ
-ہاے یا زہرا ہاے یا زہرا
-پسلیاں ٹوٹی ہوئی ہیں اس کی ہے مجھکو خبر
+پسلیاں ٹوٹی ہوئی ہیں اس کی ہے مجھ کو خبر
 دل پھٹا جاتا ہے غم سے بس یہ منظر دیکھ کر
 میری خاطر ہاتھ پہلو سے ہٹا دو فاطمہ
 ہاے یا زہرا ہاے یا زہرا
@@ -107,14 +108,14 @@ romanLyrics: |-
 ہاے یا زہرا ہاے یا زہرا
 
 ۴
-فاطمہ پل بھر جدائی سہ نہیں پاونگا میں
-دردِ دل اپنا کسی سے کہ نہیں پاونگا میں
+فاطمہ پل بھر جدائی سہ نہیں پاؤں گا میں
+دردِ دل اپنا کسی سے کہہ نہیں پاؤں گا میں
 مجھ کو جینے کا ذرا سا حوصلہ دو فاطمہ
 ہاے یا زہرا ہاے یا زہرا
 
 ۵
 فاطمہ فریاد یہ حسنین کی سن لو ذرا
-کہ رہے ہیں ہم نہ کچھ کھائنگے اماں کے بنا
+کہہ رہے ہیں ہم نہ کچھ کھائیں گے اماں کے بنا
 اپنے ہاتھوں سے انہیں کھانا کھلادو فاطمہ
 ہاے یا زہرا ہاے یا زہرا
 
@@ -125,14 +126,14 @@ romanLyrics: |-
 ہاے یا زہرا ہاے یا زہرا
 
 ۷
-آو بچوں آخری دیدار اب ماں کا کرو
+آؤ بچوں آخری دیدار اب ماں کا کرو
 بیٹیوں خود کو سنبھالو ماں کا چہرہ چوم لو
 جاتے جاتے اپنے بچوں کو دعا دو فاطمہ
 ہاے یا زہرا ہاے یا زہرا
 
 ۸
-وقت رخصت ایسا لگتا ہے کہ میں مرجاونگا
-اپنے ہاتھوں سے تمہیں میں کس طرح دفناونگا
+وقت رخصت ایسا لگتا ہے کہ میں مر جاؤں گا
+اپنے ہاتھوں سے تمہیں میں کس طرح دفناؤں گا
 سخت مشکل ہے مری ہمت بڑھا دو فاطمہ
 ہاے یا زہرا ہاے یا زہرا
 
@@ -144,12 +145,12 @@ romanLyrics: |-
 
 ۱۰
 دیکھو منہ پر منہ رکھے کیسے حسن کرتا ہے بین
-رو رہا ہے ننہے ہاتھوں سے کفن تھامے حسین
-ان کے آنسو پوچھکر ان کو سلا دو فاطمہ
+رو رہا ہے ننھے ہاتھوں سے کفن تھامے حسین
+ان کے آنسو پونچھ کر ان کو سلا دو فاطمہ
 ہاے یا زہرا ہاے یا زہرا
 
 ۱۱
 رو رہے ہیں سن کے سب اہل عزا غم کا بیاں
-کاش خود کہ دیں پیمبر یہ دبیر و شادماں
+کاش خود کہہ دیں پیمبر یہ دبیر و شادماں
 ہیں تمہارے ماتمی ان کو جزا دو فاطمہ
 ہاے یا زہرا ہاے یا زہرا
