@@ -1,87 +1,92 @@
 ---
-title: "صدیوں کی مسافت طےء کر کے امید کا سورج نکلا ہے"
-alternateTitle: "Marhaba Ya Imam"
+title: "صدیوں کی مسافت طے کر کے امید کا سورج نکلا ہے"
+alternateTitle: "Marhaba Ya Imaam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sadiyon ki musafa tay kar ke umeed ka suraj nikla hai
-  Umeed ka suraj dunya ke manzar ko badalne waala hai
+  Sadiyoṅ ki masaafat tai kar ke ummid ka suraj nikla hai
+  Ummid ka suraj dunya ke manzar ko badalne waala hai
+  Manzar ke badalne waale ko Quraan ka waaris kehte haiṅ
+  Quraan ke waaris ko ham sab din raat arize likhte haiṅ
+
+  Ab waaris-e-Haidar aata hai aasaar yehi batlaate haiṅ
+  Ghaazi ka alam lehraate hue ye saare Husaini kehte haiṅ
+
+  Marhaba ya Imaam marhaba ya Imaam
+  Aa raha hai aa raha hai mera maula aa raha hai
 
   1
-  Manzar ke badalne waale ko quran ka waaris kehte hai
-  Quran ke waaris ko hum sab din raat areeze likhte hai
-  Ab waaris e hyder aata hai aasaar yehi batlaate hai
-  Ghazi ka lam lehraate huwe ye saare hussaini kehte hai
-  Marhaba ya imam marhaba ya imam
-  Aa raha hai aa raha hai mera maula aa raha hai
-  Parchame abbas lekar aane waala aayega
-  Saare gham ab door honge waqt hamara aayega
-  Raat zulmat ki chategi ek ujaala aayega
-  Ab to har dil ki sada har subha har ek shaam
+  Parcham-e-Abbaas le kar aane waala aayega
+  Saare gham ab dur hoṅ ge waqt hamaara aayega
+  Raat zulmat ki chhate gi ek ujaala aayega
+  Ab to har dil ki sada har subh har ek shaam
 
   2
-  Phir se chamkegi fiza mein zulfeqar e hyderi
-  Na rahenge phir munafiq aur na munkir koi
-  Aashiqan e mustafa ka hoga honton par yehi
-  Ab to har dil ki sada har subha har ek shaam
+  Phir se chamke ga fiza mein Zulfiqaar-e-Haidari
+  Na raheṅ ge phir munaafiq aur na munkir koi
+  Aashiqaan-e-Mustafa ka hoga hontoṅ par yehi
+  Ab to har dil ki sada har subh har ek shaam
 
   3
-  Waqt ki nafzein rahengi phir hamare haath mein
-  Na aqeedon mein tafarqa hoga aur na zaat mein
-  Matami kehte rahenge bas yehi har baat mein
-  Ab to har dil ki sada har subha har ek shaam
+  Waqt ki nabzeṅ raheṅ gi phir hamaare haath mein
+  Na aqidoṅ mein tafarruqa hoga aur na zaat mein
+  Maatami kehte raheṅ ge bas yehi har baat mein
+  Ab to har dil ki sada har subh har ek shaam
 
   4
-  Ek hi hoga aqeeda ek qibla aur namaz
-  Ab kahan sajdon mein hoga be-yaqeeni ka jawaz
-  Ab azan ban kar jahan mein goonj uthega haq aasar
-  Ab to har dil ki sada har subha har ek shaam
+  Ek hi hoga aqida ek qibla aur namaaz
+  Ab kahaaṅ sajdoṅ mein hoga beyaqini ka jawaaz
+  Ab azaaṅ ban kar jahaaṅ mein gunj uthe ga haq aasaar
+  Ab to har dil ki sada har subh har ek shaam
 
   5
-  Karbala waalon ka matam har gali hoga bapa
-  Sab ke lab par aayega ab karbala ka tazkera
-  Matami mahol hoga matami hogi fiza
-  Ab to har dil ki sada har subha har ek shaam
+  Karbala waaloṅ ka maatam har gali hoga bapa
+  Sab ke lab par aayega ab Karbala ka tazkira
+  Maatami maahaul hoga maatami hogi fiza
+  Ab to har dil ki sada har subh har ek shaam
 
   6
-  Goonj uthegi fiza mein ye sada farhan ki
-  Hai ali waris hamara sab pukarenge yehi
-  Jo likha hai haq ikha hai tu ne mazhar abidi
-  Ab to har dil ki sada har subha har ek shaam
+  Gunj uthe gi fiza mein ye sada Farhaan ki
+  Hai Ali waaris hamaare sab pukaareṅ ge yehi
+  Jo likha hai haq likha hai tu ne Mazhar Aabidi
+  Ab to har dil ki sada har subh har ek shaam
 # source_id: nohayonline:6c121486c35f1405b2a8
 # source_url: https://www.nohayonline.com/details_content.php?id=3007
 # raw_sha256: 69a8f1109f475dee1cfdf73bd859fadc01beb40f4b3426ab7e2712ee92c8fe16
 ---
-صدیوں کی مسافت طےء کر کے امید کا سورج نکلا ہے
+صدیوں کی مسافت طے کر کے امید کا سورج نکلا ہے
 امید کا سورج دنیا کے منظر کو بدلنے والا ہے
-
-۱
 منظر کے بدلنے والے کو قرآن کا وارث کہتے ہیں
-قرآن کے وارث کو ہم سب دن رات لکھتے ہیں
-اب وارث حیدر آتا ہے آثار یہی بتلاتے ہیں
-غازی کا علم لہراتے ہوے یہ سارے حسینی کہتے ہیں
+قرآن کے وارث کو ہم سب دن رات عریضے لکھتے ہیں
+
+اب وارثِ حیدر آتا ہے آثار یہی بتلاتے ہیں
+غازی کا علم لہراتے ہوئے یہ سارے حسینی کہتے ہیں
+
 مرحبا یا امام مرحبا یا امام
 آ رہا ہے آ رہا ہے میرا مولا آ رہا ہے
-پرچمِ عباس لے کر آنے والا آے گا
-سارے غم اب دور ہونگے وقت ہمارا آے گا
-رات ظلمت کی چھٹے گی ایک اجالا آے گا
+
+۱
+پرچمِ عباس لے کر آنے والا آئے گا
+سارے غم اب دور ہوں گے وقت ہمارا آئے گا
+رات ظلمت کی چھٹے گی ایک اجالا آئے گا
 اب تو ہر دل کی صدا ہر صبح ہر ایک شام
 
 ۲
-پھر سے چمکے گا فضا میں ذوالفقار حیدری
-نہ رہیں گے پھر منافق اور نہ منکر کوی
+پھر سے چمکے گا فضا میں ذوالفقارِ حیدری
+نہ رہیں گے پھر منافق اور نہ منکر کوئی
 عاشقانِ مصطفیٰ کا ہوگا ہونٹوں پر یہی
 اب تو ہر دل کی صدا ہر صبح ہر ایک شام
 
 ۳
-وقت کے نفزیں رہیں گی پھر ہمارے ہاتھ میں
-نہ عقیدوں میں طفرقہ ہوگا اور نہ ذات میں
+وقت کی نبضیں رہیں گی پھر ہمارے ہاتھ میں
+نہ عقیدوں میں تفرقہ ہوگا اور نہ ذات میں
 ماتمی کہتے رہیں گے بس یہی ہر بات میں
 اب تو ہر دل کی صدا ہر صبح ہر ایک شام
 
@@ -93,7 +98,7 @@ romanLyrics: |-
 
 ۵
 کربلا والوں کا ماتم ہر گلی ہوگا بپا
-سب کے لب پر آے گا اب کربلا کا تذکرہ
+سب کے لب پر آئے گا اب کربلا کا تذکرہ
 ماتمی ماحول ہوگا ماتمی ہوگی فضا
 اب تو ہر دل کی صدا ہر صبح ہر ایک شام
 

@@ -2612,10 +2612,10 @@ src/data/lyrics/mar-jaungi-baba.md,standalone_lyrics,imported,nohayonline,pendin
 src/data/lyrics/mar-jaye-jo-farzand.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-13-batch-mar-01,,
 src/data/lyrics/mar-jaye-na-sakina.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-13-batch-mar-01,,
 src/data/lyrics/marhaba-auno.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,2026-11-13-batch-mar-01,,"Need audio/print: s2 ""سینے کو ریلو""; s3 ""دین احمد کی پر بقا ہو""; s4 ""تن تن"" and ""اڑھا دو""; s5 ""پر حسین کی بس یہ بقا ہو"". Confirm unclear source wording."
-src/data/lyrics/marhaba-ay-hussain.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/marhaba-sayyede-abrar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/marhaba-ya-hussain.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/marhaba-ya-imam.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/marhaba-ay-hussain.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s7 ""لاش کڑیل جواں عالم جان کی"" (Roman ""laashe ... aalam jaan ki""); confirm wording and izafat."
+src/data/lyrics/marhaba-sayyede-abrar.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s1 ""راستہ حق سے صداقت"" and ""وہ دیا شہ نے جلایا جو زمانے کے لیے / بن گئے مسئلہ انوار""; s6 ""سر جدا ہو گیا دنیا کا ہو بالا ہے عروج"". Preserve readings until resolved."
+src/data/lyrics/marhaba-ya-hussain.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s5 ""وجاہ و حشم""; s7 Urdu ""احمد و حسن بھی"" vs Roman ""Ahmed-o-hassan se bhi"" (missing ""سے"" in Urdu)."
+src/data/lyrics/marhaba-ya-imam.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s4 ""حق آثار""; s6 Urdu ""ہے علی وارث ہمارے"" vs Roman ""hai ali waris hamara"". Confirm these readings."
 src/data/lyrics/marhaba.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/marke-bhi-abbas-ka.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/marne-ke-liye.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
