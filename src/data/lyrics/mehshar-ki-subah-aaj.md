@@ -4,223 +4,200 @@ alternateTitle: "Mehshar Ki Subah Aaj"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Noha"
+kalamType: "Marsiya"
+reciter: "Alamdar Razvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Mehshar ki subah aaj numayan hai shaam may
-  Kunba shafi e hashr ka hai izdihaam may
-  Sar nange roohe fatema hai ehtemaam may
-  Khasaan e zuljalaal hai balwa e aam may
+  Mehshar ki subah aaj numaayaaṅ hai Shaam mein
+  Kunba Shafi-e-hashr ka hai izdihaam mein
+  Sar nange ruh-e-Fatema hai ehtemaam mein
+  Khaasaan-e-Zuljalaal hai balwa-e-aam mein
+  Jibril ki khuzaadiyaaṅ tashrif laai haiṅ
+  Mushkil kusha ki betiyaaṅ bandi mein aai haiṅ
 
   1
-  Jibreel ki khuzadiyan tashreef laayi hai
-  Mushkil kusha ki betiyan bandi may aayi hai
-  Hai beech may khule huwe aale abaa ke sar
-  Naizon pe unke gird hai fauje khuda ke sar
+  Haiṅ bich mein khule huwe Aal-e-Aba ke sar
+  Naizoṅ pe un ke gird haiṅ fauj-e-Khuda ke sar
+  Bachchoṅ ke sar buzurgoṅ ke sar aqraba ke sar
+  Rote haiṅ waarisoṅ ke saroṅ ko dikha ke sar
+  Sar rakh ke zaanuoṅ pe jo waaris ko rote haiṅ
+  Zaalim saroṅ mein naizoṅ ki nokeṅ chubhote haiṅ
 
   2
-  Bachon ke sar buzurgon ke sar aqroba ke sar
-  Rotay hai warison ke saron ko dikha ke sar
-  Sar rakh ke zaanu'on pa jo waaris ko rote hai
-  Zaalim saron may naizon ki nokay chubote hai
+  Naize pe Hurmala ke chamakta hai ek hilaal
+  Bikhre huwe haiṅ chaand se muṅh par jhundole baal
+  Aulaad waale kehte haiṅ ae Rabb-e-Zuljalaal
+  Is bezabaaṅ ke khun ka kis ne kiya wabaal
+  Gardish mein haaye haaye ye kis ka sitaara hai
+  Le kar balaayeṅ kehti thi Banu hamaara hai
 
   3
-  Naize pa hurmala ke chamakta hai ek hilaal
-  Bikhre huwe hai chand se moo par jhandule baal
-  Aulaad waale kehte hai ay rabb-e-zuljalaal
-  Is be-zaban ke khoon ka kisne kiya wabaal
+  Naagaah huwa Yazid ka darwaaza aashkaar
+  Haazir naqib o haajib o darbaan o chobdaar
+  Tegh alam kiye huwe jallaad o naabakaar
+  Mujraai behisaab tamaashaai beshumaar
+  Aiwaan mein bhi raqs ka saamaaṅ tamaam tha
+  Par intezaar-e-itrat-e-Khairul Anaam tha
 
   4
-  Gardish may haye haye ye kiska sitara hai
-  Lekar balayein kehti thi banu hamara hai
-  Nagaah huwa yazeed ka darwaza aashkaar
-  Haazir naqeebo haajibo darbaano chobbdaar
+  Bole sab ek baar wo aaye gunahgaar
+  Aaye qusurwaar wo aaye gunahgaar
+  Jallaad o hoshiyaar wo aaye gunahgaar
+  Wo aaye bediyaar wo aaye gunahgaar
+  Jab se ke aasmaan Khuda ne banaaye haiṅ
+  Aal-e-Rasul aaj hi bandi mein aaye haiṅ
 
   5
-  Tayghe alam kiye huwe jallad o naabakaar
-  Mujrayi be-hisaab tamashayi be-shumaar
-  Aiwaan may bhi raqs ka saaman tamam tha
-  Par intezar e itrat e khairul anaam tha
+  Roka Umar ne barh ke alam ko sipaah ko
+  Mujrah par aa jama ke kiya baargaah ko
+  Aur haṅs ke dekha Aal-e-Risaalat panaah ko
+  Aawaaz di nabira-e-Sher-e-Ilaah ko
+  Haaṅ haaṅ mihaar rokna untoṅ ka thaamna
+  Ab hai Yazid ke dar-e-daulat ka saamna
 
   6
-  Bolay sab ek baar wo aaye gunaahgaar
-  Aaye khusoor waar wo aaye gunaahgaar
-  Jallado hoshiyar wo aaye gunaahgaar
-  Wo aaye be-dayaar wo aaye gunaahgaar
+  Pahuṅche muraad ko safar apna tamaam hai
+  Utro asiro utro adab ka muqaam hai
+  Aage to aastaana-e-sultaan-e-Shaam hai
+  Dekho to kya jalaal hai kya ehteshaam hai
+  Is ki wila mein arsh ko ham ne hila diya
+  Ghar Panjetan ka khaak mein bilkul mila diya
 
   7
-  Jabse ke aasman khuda ne banaye hai
-  Aal e rasool aaj hi bandhi may aaye hai
-  Roka umar ne badke alam ko sipah ko
-  Mujrah par aa jamaa ke kiya bargah ko
+  Sunna ye tha ke sab ke jigar par chhuri chali
+  Untoṅ se utri Bibiyaaṅ keh keh ke Ya Ali
+  Aaṅkheṅ phira ke reh gayi Bano ki laadli
+  Ruh-e-Husain ko hui jannat mein bekali
+  Taaqat badan ki ghat gayi aur zof barh gaya
+  Utre jo besahaare to dam sab ka charh gaya
 
   8
-  Aur haske dekha aal e risaalat panaah ko
-  Awaaz di nabeera e sher e ilaah ko
-  Haa haa mihaar rokna oonton ka thaamna
-  Ab hai yazeed ke dare daulat ka saamna
+  Sine mein dam abhi na samaaye the hai ghazab
+  Jo aaye resmaaṅ liye haathoṅ mein beadab
+  Ghabra ke puchha bewaaoṅ ne tajwiz kya hai ab
+  Bola Umar ke majlis-e-haakim mein hai talab
+  Manzur hai ke ruh-e-Ali phir malul ho
+  Majme mein ruh bikhraaye Aal-e-Rasul ho
 
   9
-  Pahunche muraad ko safar apna tamam hai
-  Uthro aseero uthro adab ka muqaam hai
-  Aage to aastana e sultaan e shaam hai
-  Dekho to kya jalaal hai kya ehteshaam hai
+  Mazlumiyat se ro ke ye mazlumoṅ ne kaha
+  Haakim ki ye khushi hai to phir uzr ham ko kya
+  Baazaar mein to phir chuke bemaqna o rida
+  Aasaan karega mushkil-e-darbaar bhi Khuda
+  Haazir haiṅ le chalo hameṅ gumraahoṅ le chalo
+  Sar par nahiṅ Husain jahaaṅ chaaho le chalo
 
   10
-  Iski wila may arsh ko humne hila diya
-  Ghar panjetan ka khaak may bilkul mila diya
-  Sun'na ye tha ke sab ke jigar par churi chali
-  Oonton se uthri bibiyan keh keh ke ya ali
+  Naizoṅ pe the nasb jo shahidoṅ ke sar tamaam
+  Zainab ne barh ke bhaai ke sar ko kiya salaam
+  Chillaai kiuṅ zabih-e-Khuda Shaah-e-tishna kaam
+  Marzi hai kya huzur ki kehte haiṅ kya Imam
+  Darbaar mit gaya tera khuṅ ran mein beh gaya
+  Mere liye Yazid ka darbaar reh gaya
 
   11
-  Aankhein phira ke rehgayi bano ki laadli
-  Roohe hussain ko huwi jannat may be-kali
-  Taaqat badan ki ghat gayi aur zouf bad gaya
-  Uthre jo be-sahare to dum sab ka chad gaya
-
-  12
-  Seene may dam abhi na samaye thay hai ghazab
-  Jo aaye reesma liye haathon may be-adab
-  Ghabrake poocha bewon ne tajveez kya hai ab
-  Bola umar ke majlis e haakim may hai talab
-
-  13
-  Manzoor hai ke roohe ali phir malool ho
-  Majme may rooh bikhraye aal e rasool ho
-  Mazloomiyat se roke ye mazloomon ne kaha
-  Haakim ki ye khushi hai to phir uzr humko kya
-
-  14
-  Bazaar may to phir chuke be-maqna o rida
-  Aasan karega mushkil e darbar bhi khuda
-  Haazir hai le chalo hamay gumrahon le chalo
-  Sar par nahi hussain jahan chaho le chalo
-
-  15
-  Naizon pa thay nasab jo shaheedon ke sar tamaam
-  Zainab ne badh ke bhai ke sar ko kiya salaam
-  Chillahi kyun zabeehe khuda shaah-e-tashna kaam
-  Marzi hai kya huzoor ki kehte hai kya imam
-
-  16
-  Darbar mitgaya tera khoon ran may beh gaya
-  Mere liye yazeed ka darbar reh gaya
-  Par itna tehro waarison ke sar se pooch le
-  Shaah-e-umam ke farq-e-mutahhar se pooch le
-
-  17
-  Darbar jaane ko ali akbar se pooch le
-  Abbas ibn-e-hyder-e-safdar se pooch le
-  Murda na samjho zinda ye hyder ke pyare hai
-  Mukhtaar ham nahi hai ye maalik hamare hai
+  Par itna thehro waarisoṅ ke sar se puchh leṅ
+  Shaah-e-umam ke farq-e-mutahhar se puchh leṅ
+  Darbaar jaane ko Ali Akbar se puchh leṅ
+  Abbas ibn-e-Haidar-e-Safdar se puchh leṅ
+  Murda na samjho zinda ye Haidar ke pyaare haiṅ
+  Mukhtaar ham nahiṅ haiṅ ye maalik hamaare haiṅ
 # source_id: nohayonline:a2a5fe6184a95c3cbc9c
 # source_url: https://www.nohayonline.com/content_marsiya.php?id=6
 # raw_sha256: 52ea4d674ca74ea1e8bdcdd0f95efe6ee8ff88a47b40d8da82e371368087ed2d
 ---
 محشر کی صبح آج نمایاں ہے شام میں
-کنبہ شفیےء حشر کا ہے اژدھام میں
-سر ننگے روح فاطمہ ہے احتمام میں
-خاصان ذوالجلال ہے بلواے عام میں
+کنبہ شفیع حشر کا ہے ازدحام میں
+سر ننگے روح فاطمہ ہے اہتمام میں
+خاصان ذوالجلال ہے بلوائے عام میں
+جبریل کی خزادیاں تشریف لائیں ہیں
+مشکل کشا کی بیٹیاں بندی میں آئی ہیں
 
 ۱
-جبریل کی خزادیاں تشریف لائیں ہیں
-مشکل کشا کی بیٹیاں بندی میں آی ہیں
 ہیں بیچ میں کھلے ہوئے آل عبا کے سر
-نیزوں پہ انکے گرد ہیں فوج خدا کے سر
-
-۲
+نیزوں پہ ان کے گرد ہیں فوج خدا کے سر
 بچوں کے سر بزرگوں کے سر اقربا کے سر
 روتے ہیں وارثوں کے سروں کو دکھا کے سر
-سر رکھ کے زانووءں پہ جو وارث کو روتے ہیں
+سر رکھ کے زانوؤں پہ جو وارث کو روتے ہیں
 ظالم سروں میں نیزوں کی نوکیں چبھوتے ہیں
 
-۳
-نیزے پہ حرملہ کےچمکتا ہے اک ہلال
+۲
+نیزے پہ حرملہ کے چمکتا ہے اک ہلال
 بکھرے ہوئے ہیں چاند سے منہ پر جھنڈولے بال
 اولاد والے کہتے ہیں اے رب ذوالجلال
 اس بے زباں کے خون کا کس نے کیا وبال
+گردش میں ہائے ہائے یہ کس کا ستارہ ہے
+لے کر بلائیں کہتی تھی بانو ہمارا ہے
 
-۴
-گردش میں ہاے ہاے یہ کس کا ستارہ ہے
-لیکر بلایں کہتی تھی بانو ہمارا ہے
+۳
 ناگاہ ہوا یزید کا دروازہ آشکار
-حاضر نقیبو حاجبو دربانو چوبدار
-
-۵
+حاضر نقیب و حاجب و دربان و چوبدار
 تیغ الم کیے ہوئے جلاد و نابکار
 مجرای بے حساب تماشائی بے شمار
 ایوان میں بھی رقص کا ساماں تمام تھا
 پر انتظار عترت خیرالانام تھا
 
-۶
-بولے سب ایک بار وہ آے گنہگار
-اے قصور وار وہ آے گنہگار
-جلاد و ہوشیار وہ آے گنہگار
-وہ آے بے دیار وہ آے گنہگار
+۴
+بولے سب ایک بار وہ آئے گنہگار
+اے قصور وار وہ آئے گنہگار
+جلاد و ہوشیار وہ آئے گنہگار
+وہ آئے بے دیار وہ آئے گنہگار
+جب سے کہ آسمان خدا نے بنائے ہیں
+آل رسول آج ہی بندی میں آئے ہیں
 
-۷
-جب سے کہ آسمان خدا نے بناے ہیں
-آل رسول آج ہی بندی میں آے ہیں
-روکا عمر نے بڑھکے علم کو سپاہ کو
+۵
+روکا عمر نے بڑھ کے علم کو سپاہ کو
 مجراح پر آ جما کے کیا بارگاہ کو
-
-۸
-اور ہنسکے دیکھا آل رسالت پناہ کو
-آواز دی نبیرہء شیر الہ کو
+اور ہنس کے دیکھا آل رسالت پناہ کو
+آواز دی نبیرۂ شیر الہ کو
 ہاں ہاں مہار روکنا اونٹوں کا تھامنا
 اب ہے یزید کے در دولت کا سامنا
 
-۹
+۶
 پہنچے مراد کو سفر اپنا تمام ہے
 اترو اسیروں اترو ادب کا مقام ہے
-آگے تو آستانہء سلطان شام ہے
+آگے تو آستانۂ سلطان شام ہے
 دیکھو تو کیا جلال ہے کیا احتشام ہے
-
-۱۰
-اسکی ولا میں عرش کو ہم‌ نے ہلا دیا
+اس کی ولا میں عرش کو ہم نے ہلا دیا
 گھر پنجتن کا خاک میں بالکل ملا دیا
+
+۷
 سننا یہ تھا کہ سب کے جگر پر چھری چلی
-اونٹوں سے اتری بیبیاں کہہ کہہ کے یاعلی
-
-۱۱
-آنکھیں پھراکے رہگیء بانو کی لاڈلی
-روح حسین کو ہوی جنت میں بے کلی
+اونٹوں سے اتری بی‌بیاں کہہ کہہ کے یا علی
+آنکھیں پھرا کے رہ گئی بانو کی لاڈلی
+روح حسین کو ہوئی جنت میں بے کلی
 طاقت بدن کی گھٹ گئی اور ضعف بڑھ گیا
-اترے جو بے سہارے تو دم ساکا چڑھ گیا
+اترے جو بے سہارے تو دم سب کا چڑھ گیا
 
-۱۲
-سینے میں دم ابھی نہ سماے تھے ہے غضب
-جو آے ریسماں لیے ہاتھوں میں بے ادب
+۸
+سینے میں دم ابھی نہ سمائے تھے ہے غضب
+جو آئے ریسماں لیے ہاتھوں میں بے ادب
 گھبرا کے پوچھا بیواؤں نے تجویز کیا ہے اب
 بولا عمر کے مجلس حاکم میں ہے طلب
-
-۱۳
 منظور ہے کہ روح علی پھر ملول ہو
-مجمع میں روح بکھراے آل رسول ہو
-مظلومیت سے روکے یہ مظلوموں نے کہا
-حاکم کی یہ خوشی ہے تو پھر عزر ہم کو کیا
+مجمع میں روح بکھرائے آل رسول ہو
 
-۱۴
+۹
+مظلومیت سے رو کے یہ مظلوموں نے کہا
+حاکم کی یہ خوشی ہے تو پھر عذر ہم کو کیا
 بازار میں تو پھر چکے بے مقنہ و ردا
 آساں کرے گا مشکلیں دربار بھی خدا
 حاضر ہیں لے چلو ہمیں گمراہوں لے چلو
 سر پر نہیں حسین جہاں چاہے لے چلو
 
-۱۵
+۱۰
 نیزوں پہ تھے نصب جو شہیدوں کے سر تمام
-زینب نے بڑھکے بھائی کے سر کو کیا سلام
-چلای کیوں ذبیحہ خدا شاہ تشنہ کام
+زینب نے بڑھ کے بھائی کے سر کو کیا سلام
+چلائی کیوں ذبیحہ خدا شاہ تشنہ کام
 مرضی ہے کیا حضور کی کہتے ہیں کیا امام
-
-۱۶
 دربار مٹ گیا تیرا خوں رن میں بہہ گیا
 میرے لئے یزید کا دربار رہ گیا
-پر اتنا ٹہرو وارثوں کے سر سے پوچھ لیں
-شاہ امم کے فرق مطہر سے پوچھ لیں
 
-۱۷
+۱۱
+پر اتنا ٹھہرو وارثوں کے سر سے پوچھ لیں
+شاہ امم کے فرق مطہر سے پوچھ لیں
 دربار جانے کو علی اکبر سے پوچھ لیں
 عباس ابن حیدر صفدر سے پوچھ لیں
 مردہ نہ سمجھو زندہ یہ حیدر کے پیارے ہیں
