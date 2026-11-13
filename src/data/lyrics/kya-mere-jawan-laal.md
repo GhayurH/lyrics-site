@@ -1,59 +1,60 @@
 ---
 title: "جیتی ہے وہ ماں جس کے گزر جانے کے دن تھے"
-alternateTitle: "Kya Mere Jawan Laal"
+alternateTitle: "Kya Mere Jawaaṅ Laal"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jeeti hai wo maa jiske guzar jaane ke din thay
-  Kya mere jawan laal ke mar jaane ke din thay
+  Jiti hai wo maaṅ jis ke guzar jaane ke din the
+  Kya mere jawaaṅ laal ke mar jaane ke din the
 
   1
-  Thi jo hamare ghar mein nishani rasool ki
-  Zainab rida mein apne jisay paalti rahi
-  Uth uth ke jisko choomte rehte thay raat bhar
-  Shabbir jee rahe thay jise dekh dekh kar
-  Us chehre kya khaak mein bhar jaane ke din thay
-  
+  Thi jo hamaare ghar mein nishaani Rasul ki
+  Zainab rida mein apne jise paalti rahi
+  Uth uth ke jis ko chumte rahte the raat bhar
+  Shabbir ji rahe the jise dekh dekh kar
+  Us chehre ke kya khaak mein bhar jaane ke din the
+
   2
-  Pyase ko maar kar bhi na zaalim ne dam liya
-  Sar iska mere saamne usne qalam kiya
-  Aaram thodi dayr bhi paaya na khaak par
-  Phir se shuru hogaya is laal ka safar
-  Bazaar mein kab chand sa sar jaane ke din thay
-  
+  Pyaase ko maar kar bhi na zaalim ne dam liya
+  Sar us ka mere saamne us ne qalam kiya
+  Aaraam thori der bhi paaya na khaak par
+  Phir se shuru ho gaya is laal ka safar
+  Baazaar mein kab chaand sa sar jaane ke din the
+
   3
-  Aaya ye jab jahan mein phupi ne khushi khushi
-  Azaad ek kaneez thi ki shireen naam ki
-  Aur saath saath ye bhi kaha na fikr kar
-  Baraat leke aaungi is ki mai tere ghar
-  Pahuncha wahan na uske jidhar jaane ke din thay
-  
+  Aaya ye jab jahaaṅ mein phuphi ne khushi khushi
+  Aazaad ek kaniz thi ki Shirin naam ki
+  Aur saath saath ye bhi kaha tha na fikr kar
+  Baraat le ke aauṅ gi us ki main tere ghar
+  Pahuṅcha wahaaṅ na us ke jidhar jaane ke din the
+
   4
-  Lag jaye na nazar mere yusuf kamal ko
-  Dekha nazar na bharke kabhi apne laal ko
-  Hai gaysuyon mein khaak koi saaf to karo
-  Zainab ki mai kaneez hoo insaf to karo
-  Barchi kahan wo dil utar jaane ke din thay
-  
+  Lag jaaye na nazar mere Yusuf jamaal ko
+  Dekha nazar na bhar ke kabhi apne laal ko
+  Hai gesuoṅ mein khaak koi saaf to karo
+  Zainab ki main kaniz huṅ insaaf to karo
+  Barchhi kahaaṅ wo dil mein utar jaane ke din the
+
   5
-  Nazuk badan pe zakhm na aane diya kabhi
-  Maine na usko dhoop mein jaane diya kabhi
-  Naize pe sar hai aaj badan jalti rayt par
-  Pardes mein ye aake nahi thi mujhe khabar
-  Mehnat ki kameini yun bikhar jaane ke din thay
-  
+  Naazuk badan pe zakhm na aane diya kabhi
+  Main ne na us ko dhup mein jaane diya kabhi
+  Naize pe sar hai aaj badan jalti ret par
+  Pardes mein ye aa ke nahiṅ thi mujhe khabar
+  Mehnat ki kamaai yuṅ bikhar jaane ke din the
+
   6
-  Wada kiya tha sar pe jo sehra sajaunga
-  Ghabra na sughra mai tujhe lene ko aaunga
-  Dehleej par hai baithi takallum wo gham guzaar
-  Cheh maah se hai usko baradar ka intezaar
-  Pardes se ye laut ke ghar jaane ke din thay
+  Waada kiya tha sar pe jo sehra sajaauṅ ga
+  Ghabra na Sughra main tujhe lene ko aauṅ ga
+  Dahliz par hai baithi Takallum wo gham gusaar
+  Chhe maah se hai us ko baraadar ka intezaar
+  Pardes se ye laut ke ghar jaane ke din the
 # source_id: nohayonline:050d259580b63bfc6271
 # source_url: https://www.nohayonline.com/details_content.php?id=96
 # raw_sha256: 2f4f83a71600c46684ca85acc962ee543056d8ebdc4ce5bfdca62dcaa84f9d34
@@ -65,13 +66,13 @@ romanLyrics: |-
 ۱
 تھی جو ہمارے گھر میں نشانی رسول کی
 زینب ردا میں اپنے جسے پالتی رہی
-اٹھ اٹھ کے جسکو چومتے رہتے تھے رات بھر
+اٹھ اٹھ کے جس کو چومتے رہتے تھے رات بھر
 شبیر جی رہے تھے جسے دیکھ دیکھ کر
 اس چہرے کے کیا خاک میں بھر جانے کے دن تھے
 
 ۲
 پیاسے کو مار کر بھی نہ ظالم نے دم لیا
-سر اسکا میرے سامنے اس نے قلم کیا
+سر اس کا میرے سامنے اس نے قلم کیا
 آرام تھوڑی دیر بھی پایا نہ خاک پر
 پھر سے شروع ہو گیا اس لال کا سفر
 بازار میں کب چاند سا سر جانے کے دن تھے
@@ -80,26 +81,26 @@ romanLyrics: |-
 آیا یہ جب جہاں میں پھپھی نے خوشی خوشی
 آزاد اک کنیز تھی کی شیرین نام کی
 اور ساتھ ساتھ یہ بھی کہا تھا نہ فکر کر
-بارات لے کے آؤنگی اس کی میں تیرے گھر
-پہنچا وہاں نہ اسکے جدھر جانے کے دن تھے
+بارات لے کے آؤں گی اس کی میں تیرے گھر
+پہنچا وہاں نہ اس کے جدھر جانے کے دن تھے
 
 ۴
 لگ جائے نہ نظر میرے یوسف جمال کو
 دیکھا نظر نہ بھر کے کبھی اپنے لال کو
-ہے گیسوؤں میں خاک کوءی صاف تو کرو
+ہے گیسوؤں میں خاک کوئی صاف تو کرو
 زینب کی میں کنیز ہوں انصاف تو کرو
 برچی کہاں وہ دل میں اتر جانے کے دن تھے
 
 ۵
 نازک بدن پہ زخم نہ آنے دیا کبھی
-میں نے نہ اسکو دھوپ میں جانے دیا کبھی
+میں نے نہ اس کو دھوپ میں جانے دیا کبھی
 نیزے پہ سر ہے آج بدن جلتی ریت پر
 پردیس میں یہ آکے نہیں تھی مجھے خبر
 محنت کی کمائی یوں بکھر جانے کے دن تھے
 
 ۶
 وعدہ کیا تھا سر پہ جو سہرا سجاؤں گا
-گھبرا نہ صغرا میں تجھے لینے کو آؤنگا
+گھبرا نہ صغرا میں تجھے لینے کو آؤں گا
 دہلیز پر ہے بیٹھی تکلم وہ غم گسار
-چھ ماہ سے ہے اسکو برادر کا انتظار
+چھ ماہ سے ہے اس کو برادر کا انتظار
 پردیس سے یہ لوٹ کے گھر جانے کے دن تھے

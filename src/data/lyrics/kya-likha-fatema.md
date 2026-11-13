@@ -10,36 +10,36 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kya likha Fatema Sughra ne bataya na gaya
-  Sheh se khat laasha e akbar pe sunaya na gaya
+  Kya likha Fatema Sughra ne bataaya na gaya
+  Sheh se khat laasha-e-Akbar pe sunaaya na gaya
 
   1
-  Sheh ne chaha to bohot zakhm magar itne the
-  Laasha abbas ka dariya se uthaya na gaya
+  Sheh ne chaaha to bahut zakhm magar itne the
+  Laasha Abbas ka darya se uthaaya na gaya
 
   2
-  Jab talak aa na gaye saare sharabi tab tak
-  Saniye zahra ko darbaar mein laaya na gaya
+  Jab talak aa na gaye saare sharaabi tab tak
+  Saani-e-Zahra ko darbaar mein laaya na gaya
 
   3
-  Dekha sairaab zabihe ko to bole sajjad
-  Mere baba ko to pani bhi pilaya na gaya
+  Dekha sairaab zabihe ko to bole Sajjad
+  Mere baaba ko to paani bhi pilaaya na gaya
 
   4
-  Ek shabbir ki beti ke siwa duniya mein
-  Kisi masooma ko naaqe se giraya na gaya
+  Ek Shabbir ki beti ke siwa duniya mein
+  Kisi masuma ko naaqe se giraaya na gaya
 
   5
-  Bheedh is darja thi haste hue logo ki waha
-  Sar bhi bazaar mein abid se uthaya na gaya
+  Bhir is darja thi haṅste hue logoṅ ki wahaaṅ
+  Sar bhi baazaar mein Aabid se uthaaya na gaya
 
   6
-  Baap ka sar jo mila soyi lipat kar aise
-  Maa se bhi baali sakina ko jagaya na gaya
+  Baap ka sar jo mila soi lipat kar aise
+  Maaṅ se bhi baali Sakina ko jagaaya na gaya
 
   7
-  Mir sajjad shahe deen se ali asghar ka
-  Chehra jalti hui reti se chupaya na gaya
+  Mir Sajjad Shah-e-diṅ se Ali Asghar ka
+  Chehra jalti hui reti se chhupaaya na gaya
 reciter: Meer Hasan Meer
 # source_id: nohayonline:e11a43e95c5cf145157c
 # source_url: https://www.nohayonline.com/details_content.php?id=353
@@ -50,15 +50,15 @@ reciter: Meer Hasan Meer
 ---
 
 کیا لکھا فاطمہ صغریٰ نے بتایا نہ گیا
-شہ سے خط لاشہء اکبر پہ سنایا نہ گیا
+شہ سے خط لاشۂ اکبر پہ سنایا نہ گیا
 
 ۱
 شہ نے چاہا تو بہت زخم مگر اتنے تھے
 لاشہ عباس کا دریا سے اٹھایا نہ گیا
 
 ۲
-جب تلک آ نہ گےء سارے شرابی تب تک
-ثانیء زہرا کو دربار میں لایا نہ گیا
+جب تلک آ نہ گئے سارے شرابی تب تک
+ثانیِ زہرا کو دربار میں لایا نہ گیا
 
 ۳
 دیکھا سیراب ذبیحے کو تو بولے سجاد

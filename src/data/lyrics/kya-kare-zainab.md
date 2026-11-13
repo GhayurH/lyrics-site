@@ -6,75 +6,78 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shaam e ghariban shaam e ghariban
-  Jal gaye qaime so gaya lashkar
+  Shaam-e-gharibaṅ shaam-e-gharibaṅ
+
+  Jal gaye khaime so gaya lashkar
+  Lut gaya saara ghar Zainab ka ab hai tanha
+  Na Sarwar hai na Akbar hai na Ghaazi hai
 
   1
-  Lut gaya saara ghar zainab ka ab hai tanha
-  Na sarwar hai na akbar hai na ghazi hai
-  Layeen naize se chadar cheenta hai kya kare zainab
-  Thi jis bhai se dhaaras mar gaya hai kya kare zainab
+  Laiṅ naize se chaadar chhinta hai kya kare Zainab
+  Thi jis bhaai se dhaaras mar gaya hai kya kare Zainab
 
   2
-  Manata hai khushi zaalim dikhata hai mujhe khanjar
-  Bula abbas ko apne ye kehta hai wo has has kar
-  Lahoo chadar se meri pochta hai kya kare zainab
+  Manaata hai khushi zaalim dikhaata hai mujhe khanjar
+  Bula Abbas ko apne ye kehta hai wo haṅs haṅs kar
+  Lahu chaadar se meri poṅchhta hai kya kare Zainab
 
   3
-  Teri har zarb ka ghazi behan se lega wo badla
-  Layeen qaime mein aaya hai uthakar haath mein durra
-  Tumhi binte ali ho poochta hai kya kare zainab
+  Tiri har zarb ka Ghaazi behan se le ga wo badla
+  Laiṅ khaime mein aaya hai uthaakar haath mein durra
+  Tumhi Bint-e-Ali ho puchhta hai kya kare Zainab
 
   4
-  Badi ghurbat ka aalam hai bandhe hai haath gardan se
-  Bujhaye aag wo kaise sakina tere daaman se
-  Aur ab zaalim tamacha maarta hai kya kare zainab
+  Bari ghurbat ka aalam hai bandhe haiṅ haath gardan se
+  Bujhaaye aag wo kaise Sakina tere daaman se
+  Aur ab zaalim tamaancha maarta hai kya kare Zainab
 
   5
-  Kaha zainab ne abid se imam e waqt batlaye
-  Yahin qaimon mein jal jaaye ya hum baahar nikal jaaye
-  Utho sajjad mushkil marhala hai kya kare zainab
+  Kaha Zainab ne Aabid se Imam-e-waqt batlaaeṅ
+  Yahiṅ khaimoṅ mein jal jaaeṅ ya ham baahar nikal jaaeṅ
+  Utho Sajjad mushkil marhala hai kya kare Zainab
 
   6
-  Kaha ye saad ke bete ne aa kar ibne naufil se
-  Safar mein chaahe sab soye magar zainab nahi soye
-  Abhi se warm rukh par aagaya hai kya kare zainab
+  Kaha ye Saad ke bete ne aa kar Ibn-e-Naufal se
+  Safar mein chaahe sab soeṅ magar Zainab nahiṅ soe
+  Abhi se waram rukh par aa gaya hai kya kare Zainab
 
   7
-  Usay ek maa ki tarha apne seene se laga leti
-  Rasan haathon mein na hoti to girne se bacha leti
-  Sar e ghazi sina se gir raha hai kya kare zainab
+  Use ek maaṅ ki tarah apne sine se laga leti
+  Rasan haathoṅ mein na hoti to girne se bacha leti
+  Sar-e-Ghaazi sinaṅ se gir raha hai kya kare Zainab
 
   8
-  Koi apna nahi tanha khadi hai dasht mein dekho
-  Kafan kaise de atthara bani hashim ke laashon ko
-  Madina to nahi ye karbala hai kya kare zainab
+  Koi apna nahiṅ tanha khari hai dasht mein dekho
+  Kafan kaise de athaara Bani Haashim ke laashoṅ ko
+  Madina to nahiṅ ye Karbala hai kya kare Zainab
 
   9
-  Kahan ho laal aajao tumhe maa yaad karti hai
-  Uthakar raakh haathon mein rabab ek simt baithi hai
-  Ali asghar ka jhoola jal chuka hai kya kare zainab
+  Kahaaṅ ho laal aa jaao tumheiṅ maaṅ yaad karti hai
+  Uthaakar raakh haathoṅ mein Rabab ek simt baithi hai
+  Ali Asghar ka jhula jal chuka hai kya kare Zainab
 
   10
-  Hai pehli shab yateemi ki usay neend aayegi kaise
-  Ay zeeshan o raza baali sakina soti thi jis pe
-  Wo seena ran mein teeron se bhara hai kya kare zainab
+  Hai pehli shab yatimi ki use nind aaegi kaise
+  Ae Zishaan o Raza baali Sakina soti thi jis pe
+  Wo sina ran mein tiroṅ se bhara hai kya kare Zainab
 # source_id: nohayonline:a0fdcd9c2ee72c0d3cf6
 # source_url: https://www.nohayonline.com/details_content.php?id=2819
 # raw_sha256: 07ffce4741d90b79491f124843b404ab0c95fd4b5cd5c6174a0ee89f5bb2e1d5
 ---
 شام غریباں شام غریباں
-جل گئے خیمے سوگیا لشکر
 
-۱
+جل گئے خیمے سو گیا لشکر
 لٹ گیا سارا گھر زینب کا اب ہے تنہا
 نا سرور ہے نا اکبر ہے نا غازی ہے
+
+۱
 لعیں نیزے سے چادر چھینتا ہے کیا کرے زینب
-تھی جس بھائی سے ڈھارس مرگیا ہے کیا کرے زینب
+تھی جس بھائی سے ڈھارس مر گیا ہے کیا کرے زینب
 
 ۲
 مناتا ہے خوشی ظالم دکھاتا ہے مجھے خنجر
@@ -108,7 +111,7 @@ romanLyrics: |-
 
 ۸
 کوئی اپنا نہیں تنہا کھڑی ہے دشت میں دیکھو
-کفن کیسے دے اٹھارا بنی ہاشم کے لاشوں کو
+کفن کیسے دے اٹھارہ بنی ہاشم کے لاشوں کو
 مدینہ تو نہیں یہ کربلا ہے کیا کرے زینب
 
 ۹
@@ -117,6 +120,6 @@ romanLyrics: |-
 علی اصغر کا جھولا جل چکا ہے کیا کرے زینب
 
 ۱۰
-ہے پہلی شب یتیمی کی اُسے نیند آئیگی کیسے
+ہے پہلی شب یتیمی کی اُسے نیند آئے گی کیسے
 اے ذیشان و رضا بالی سکینہ سوتی تھی جس پے
 وہ سینہ رن میں تیروں سے بھرا ہے کیا کرے زینب
