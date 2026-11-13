@@ -1,67 +1,68 @@
 ---
-title: "حسین کشتۂ تیخِ جفا خدا حافظ"
+title: "حسین کشتۂ تیغِ جفا خدا حافظ"
 alternateTitle: "Khuda Hafiz"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hussain khusta e tayghe jafa khuda hafiz
-  Tamaam hoti hai fasle aza khuda hafiz
+  Husain kushta-e-tegh-e-jafa Khuda haafiz
+  Tamaam hoti hai fasl-e-aza Khuda haafiz
 
   1
-  Dasegi hum ko hamare gharon ki veerani
-  Sajega kal se na ye taaziya khuda hafiz
+  Dasegi hum ko hamaare gharoṅ ki viraani
+  Sajega kal se na ye taaziya Khuda haafiz
 
   2
-  Sunenge marsiye ab kis se sab azakhane
-  Bhala ye kaise kahe fatema khuda hafiz
+  Suneṅge marsiya ab kis se sab azaakhaane
+  Bhala ye kaise kahe Fatima Khuda haafiz
 
   3
-  Wida hote hai abbas badh raha hai alam
-  Hussainiyo kaho ay bawafa khuda hafiz
+  Widaa hote haiṅ Abbas barh raha hai alam
+  Husainiyoṅ kaho Ae bawafa Khuda haafiz
 
   4
-  Khamosh baithe hai maaon ki godh mein bacche
-  Kahe wo jhoole se kaise bhala khuda hafiz
+  Khaamosh baithe haiṅ maaoṅ ki god mein bachche
+  Kahe wo jhule se kaise bhala Khuda haafiz
 
   5
-  Jahan bahaar chadhati thi phool sehre ke
-  Hai aansuon se bhari wo qaba khuda hafiz
+  Jahaaṅ bahaar charhaati thi phul sehre ke
+  Hai aansuoṅ se bhari wo qaba Khuda haafiz
 
   6
-  Nazar se hota hai ojhal amariyon ka juloos
-  Nigahein choomti hai nakshe paa khuda hafiz
+  Nazar se hota hai ojhal amaariyoṅ ka julus
+  Nigaaheṅ chumti hai naqsh-e-paa Khuda haafiz
 
   7
-  Dam e wida aaye sughra se pooche le koi
-  Hai ek fikra ke ek marsiya khuda hafiz
+  Dam-e-widaa aaye Sughra se puchhe le koi
+  Hai ek fiqre ke ek marsiya Khuda haafiz
 
   8
-  Jigar hilaane lage phir hussain ke jumle
-  Behan ye bhai bhi marne chala khuda hafiz
+  Jigar hilaane lage phir Husain ke jumle
+  Behan ye bhaai bhi marne chala Khuda haafiz
 
   9
-  Jahan sakina ko aayi thi aakhiri hichki
-  Wahin pe ab ye sada hai chacha khuda hafiz
+  Jahaaṅ Sakina ko aayi thi aakhri hichki
+  Wahi pe ab ye sada hai chacha Khuda haafiz
 
   10
-  Na jaane kaise kahan hoga aap ne zainab
-  Madine jaati hoo ay karbala khuda hafiz
+  Na jaane kaise kahaaṅ hoga aap ne Zainab
+  Madine jaati huṅ ye Karbala Khuda haafiz
 
   11
-  Sada bhi aamir o nayyar ka saath chod na de
-  Ke in labon se ho kaise ada khuda hafiz
+  Sada bhi Aamir o Nayyar ka saath chhor na de
+  Ke in laboṅ se ho kaise ada Khuda haafiz
 # source_id: nohayonline:43f42803140e25fb0871
 # source_url: https://www.nohayonline.com/details_content.php?id=2446
 # raw_sha256: fbb538a3ede377549e3db219b72798cce1ae0158f7684652ee9836c0be9b74db
 ---
-حسین کشتۂ تیخِ جفا خدا حافظ
-تمام ہوتی ہے فصل عزا خدا حافظ
+حسین کشتۂ تیغِ جفا خدا حافظ
+تمام ہوتی ہے فصلِ عزا خدا حافظ
 
 ۱
 ڈسے گی ہم کو ہمارے گھروں کی ویرانی
@@ -85,18 +86,18 @@ romanLyrics: |-
 
 ۶
 نظر سے ہوتا ہے اوجھل عماریوں کا جلوس
-نگاہیں چومتی ہے نقش پا خدا حافظ
+نگاہیں چومتی ہے نقشِ پا خدا حافظ
 
 ۷
-دم وداع آے صغرا سے پوچھے لے کوی
+دمِ وداع آئے صغرا سے پوچھے لے کوئی
 ہے ایک فقرے کے ایک مرثیہ خدا حافظ
 
 ۸
 جگر ہلانے لگے پھر حسین کے جملے
-بہن یہ بھای بھی مرنے چلا خدا حافظ
+بہن یہ بھائی بھی مرنے چلا خدا حافظ
 
 ۹
-جہاں سکینہ کو آی تھی آخری ہچکی
+جہاں سکینہ کو آئی تھی آخری ہچکی
 وہی پہ اب یہ صدا ہے چچا خدا حافظ
 
 ۱۰
@@ -104,5 +105,5 @@ romanLyrics: |-
 مدینے جاتی ہوں یہ کربلا خدا حافظ
 
 ۱۱
-صدا بھی آمر و نیر کا ساتھ چھوڑ نہ دے
+صدا بھی عامر و نیر کا ساتھ چھوڑ نہ دے
 کہ ان لبوں سے ہو کیسے ادا خدا حافظ

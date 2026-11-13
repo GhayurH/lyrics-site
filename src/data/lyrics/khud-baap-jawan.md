@@ -6,28 +6,29 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Khud baap jawan laal ki mayyat ko uthaye
-  Ya rab kisi dushman pe bhi ye waqt na aaye
-  
+  Khud baap jawaaṅ laal ki mayyat ko uthaaye
+  Ya Rab kisi dushman pe bhi ye waqt na aaye
+
   1
-  Sheh se ali akbar ka janaza na uthega
-  Darya se koi jaa ke alamdar ko laaye
-  
+  Sheh se Ali Akbar ka janaaza na uthega
+  Darya se koi jaa ke Alamdar ko laaye
+
   2
-  Yun tez qadam jaanibe qaima chale sarwar
-  Ghabrake kahin ran may na zainab nikal aaye
-  
+  Yuṅ tez qadam jaanib-e-khaima chale Sarwar
+  Ghabra ke kahiṅ ran mein na Zainab nikal aaye
+
   3
-  Sehre ki jagah dekhe jawan bete ki mayyat
-  Taqdeer kisi maa ko ye manzar na dikhaye
-  
+  Sehre ki jagah dekhe jawaaṅ bete ki mayyat
+  Taqdir kisi maaṅ ko ye manzar na dikhaaye
+
   4
-  Yun shaam pahunchne ki takallum ko hai jaldi
-  Nauha ali akbar ka wo zainab ko sunaye
+  Yuṅ Shaam pahunchne ki Takallum ko hai jaldi
+  Nauha Ali Akbar ka wo Zainab ko sunaaye
 # source_id: nohayonline:5ac69e86c86fcbadda48
 # source_url: https://www.nohayonline.com/details_content.php?id=308
 # raw_sha256: 5286841679be5fbf4adc6d40eb8fcd0304c4b143cf0a96fdcf3bacbb9e576fb4
@@ -38,15 +39,15 @@ romanLyrics: |-
 
 ۱
 شہہ سے علی اکبر کا جنازہ نہ اُٹھے گا
-دریا سے کوئی جاکے علمدار کو لائے
+دریا سے کوئی جا کے علمدار کو لائے
 
 ۲
 یوں تیز قدم جانبِ خیمہ چلے سرور
 گھبرا کے کہیں رن میں نہ زینب نکل آئے
 
 ۳
-سہرے جگہ دیکھے جواں بیٹے کی میت
-تقدیر کسی مان کو یہ منظر نہ دیکھائے
+سہرے کی جگہ دیکھے جواں بیٹے کی میت
+تقدیر کسی ماں کو یہ منظر نہ دکھائے
 
 ۴
 یوں شام پہنچنے کی تکلم کو ہے جلدی

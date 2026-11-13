@@ -2359,10 +2359,10 @@ src/data/lyrics/khoon-ke-aansu.md,standalone_lyrics,imported,nohayonline,pending
 src/data/lyrics/khoon-mein-dooba.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,2026-11-12-first-sweep-khoon,,"Need audio/print: s5 ""کوک جلی""; s7 ""ناوک سے غم سے چھدا""; s8 Urdu ""ہائے میرا بھتیجا"" vs Roman ""haaye mera bimaar bhatija""; s9 ""فتح ہوا ہے""."
 src/data/lyrics/khoon-rulwati.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,2026-11-12-first-sweep-khoon,,"Need audio/print: s1 ""ہوئے کے""; s3 ""نفسِ دوراں رُک گئی"" and ""پیکا کی زد""; s5 ""زیرِ خنجر تھی""; s6 ""اشکِ سرور کربلا""."
 src/data/lyrics/khoone-hussain.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,2026-11-12-first-sweep-khoon,,"Need audio/print: s5 ""دشتِ بلا کی بیکسی اس دل کے چین کی""; s8 ""عامر بتاؤں کیسے میرے دل کے چین کو""."
-src/data/lyrics/khoone-hyder.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/khud-baap-jawan.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/khuda-hafiz.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/khuda-ka-chehra.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/khoone-hyder.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
+src/data/lyrics/khud-baap-jawan.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
+src/data/lyrics/khuda-hafiz.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,,,"Need audio/print: s6 ""نگاہیں چومتی ہے""; s7 ""دمِ وداع آئے صغرا سے پوچھے لے کوئی"" / ""ہے ایک فقرے کے""; s9 ""وہی"" vs Roman ""wahin""; s10 ""کیسے کہاں ہو گا آپ نے زینب"" and ""یہ"" vs Roman ""ay""."
+src/data/lyrics/khuda-ka-chehra.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,,,"Need audio/print: s3 ""لحد میں روتی ہے خون زہرا"" (word order) and ""بقیہ سارا"" (cemetery name/reading)."
 src/data/lyrics/khuda-khair-kare.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/khuda-ki-azmat-bata-raha-hai-ali-ka-sajda.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/khuda-ki-raah-may.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
