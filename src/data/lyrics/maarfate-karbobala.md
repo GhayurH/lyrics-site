@@ -1,76 +1,77 @@
 ---
-title: "وہ جسے معرفتِ کربوبلا ہو جاے"
-alternateTitle: "Maarfate Karbobala"
+title: "وہ جسے معرفتِ کربوبلا ہو جائے"
+alternateTitle: "Maarifat-e-Karbobala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
+reciter: "Mukhtar Hussain"
 tags: ["noImage"]
-aliases: []
+aliases: ["Maarfate Karbobala"]
 published: false
 romanLyrics: |-
-  Wo jise maarifat e karbobala hojaye
-  Usko salman ki beenayi ata hojaye
+  Wo jise maarifat-e-Karbobala ho jaaye
+  Us ko Salman ki binaayi ata ho jaaye
 
   1
-  Majlison mein chale aao ghame shabbir karo
-  Ye to wo gham hai ke har gham ki dawa hojaye
+  Majlisoṅ mein chale aao gham-e-Shabbir karo
+  Ye to wo gham hai ke har gham ki dawa ho jaaye
 
   2
-  Dil mein boo e ghame shabbir basaye rakhna
-  Dil ke koozon se ye khushboo na juda hojaye
+  Dil mein bu-e-gham-e-Shabbir basaaye rakhna
+  Dil ke kuzoṅ se ye khushbu na juda ho jaaye
 
   3
-  Zikre abbas e alamdar kiya kar har dam
-  Taa ke tu waaqif e aadaab e wafa hojaye
+  Zikr-e-Abbas alamdaar kiya kar har dam
+  Taa ke tu waaqif-e-aadaab-e-wafa ho jaaye
 
   4
-  Sab masiha hai mohamed ke gharane waale
-  Naam bemaar jo le le to shifa hojaye
+  Sab Masiha hai Muhammad ke gharaane wale
+  Naam bimaar jo le le to shifa ho jaaye
 
   5
-  Aag qaimon mein layeeno ne lagadi dekho
-  Kisi maa se koi bacha na juda hojaye
+  Aag khaimoṅ mein laeenoṅ ne laga di dekho
+  Kisi maaṅ se koi bachcha na juda ho jaaye
 
   6
-  Halq e asghar ko to pani ki zaroorat thi magar
-  Teer se zakhmi na asghar ka gala hojaye
+  Halq-e-Asghar ko to paani ki zarurat thi magar
+  Tir se zakhmi na Asghar ka gala ho jaaye
 
   7
-  Midhat e aale-mohamed mai na chodunga urooj
-  Mujhse hota hai agar koi khafa hojaye
+  Midhat-e-Aal-e-Muhammad main na chhoruṅ ga Uruj
+  Mujh se hota hai agar koi khafa ho jaaye
 # source_id: nohayonline:2e7177416fef1832ff44
 # source_url: https://www.nohayonline.com/details_content.php?id=2094
 # raw_sha256: 098d5c2ef3be77405cdd29a0ec34f734e951db98eabd196ad643571f381a781f
 ---
-وہ جسے معرفتِ کربوبلا ہو جاے
-اسکو سلمان کی بینای عطا ہو جاے
+وہ جسے معرفتِ کربوبلا ہو جائے
+اس کو سلمان کی بینائی عطا ہو جائے
 
 ۱
 مجلسوں میں چلے آؤ غمِ شبیر کرو
-یہ تو وہ غم ہے کہ ہر غم کی دوا ہو جاے
+یہ تو وہ غم ہے کہ ہر غم کی دوا ہو جائے
 
 ۲
-دل میں بوے غم شبیر بساے رکھنا
-دل کے کوزوں سے یہ خوشبو نہ جدا ہو جاے
+دل میں بوئے غمِ شبیر بسائے رکھنا
+دل کے کوزوں سے یہ خوشبو نہ جدا ہو جائے
 
 ۳
 ذکرِ عباس علمدار کیا کر ہر دم
-تا کے تو واقف آداب وفا ہو جاے
+تا کہ تو واقفِ آدابِ وفا ہو جائے
 
 ۴
 سب مسیحا ہے محمد کے گھرانے والے
-نام بیمار جو لے لے تو شفا ہو جاے
+نام بیمار جو لے لے تو شفا ہو جائے
 
 ۵
-آگ خیموں میں لعیوں نے لگا دی دیکھو
-کسی ماں سے کوئی بچا نہ جدا ہو جاے
+آگ خیموں میں لعینوں نے لگا دی دیکھو
+کسی ماں سے کوئی بچہ نہ جدا ہو جائے
 
 ۶
-حلق اصغر کو تو پانی کی ضرورت تھی مگر
-تیر سے زخمی نہ اصغر کا گلا ہو جاے
+حلقِ اصغر کو تو پانی کی ضرورت تھی مگر
+تیر سے زخمی نہ اصغر کا گلا ہو جائے
 
 ۷
-مدحت آل محمد میں نہ چھوڑوں گا عروج
-مجھ سے ہوتا ہے اگر کوئی خفا ہو جاے
+مدحتِ آلِ محمد میں نہ چھوڑوں گا عروج
+مجھ سے ہوتا ہے اگر کوئی خفا ہو جائے

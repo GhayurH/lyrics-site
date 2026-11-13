@@ -6,87 +6,89 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Maar gaya baba teri zainab ko
-  
-  1
+  Maar gaya Baba teri Zainab ko
   Abbas ka marna maar gaya
-  Bin baazuon ke wo ghazi ka
-  Ghode se girna maar gaya
-  Jab qaime mein aaye shaahe umam
-  Haathon mein tha bas ghazi ka alam
-  Abbas nahi ab aayega
+
+  Bin baazuoṅ ke wo Ghaazi ka
+  Ghore se girna maar gaya
+
+  1
+  Jab khaime mein aaye Shaah-e-Umam
+  Haathoṅ mein tha bas Ghaazi ka alam
+  Abbas nahiṅ ab aayega
   Bhai ka ye kehna maar gaya
-  
+
   2
-  Mai sher ke jaise bhai ka
-  Pehchan nahi paayi laasha
-  Qasim ki tarha se ghazi ka
-  Tukdon mein bikharna maar gaya
-  
+  Main sher ke jaise bhai ka
+  Pehchaan nahiṅ paayi laasha
+  Qasim ki tarah se Ghaazi ka
+  Tukroṅ mein bikharna maar gaya
+
   3
-  Jab aankh se teer nikaala tha
-  Mai dekh rahi thi qaime se
-  Mere ghazi ka khoon sarwar ke
-  Haathon se tapakna maar gaya
-  
+  Jab aaṅkh se tir nikaala tha
+  Main dekh rahi thi khaime se
+  Mere Ghaazi ka khuṅ Sarwar ke
+  Haathoṅ se tapakna maar gaya
+
   4
-  Ye shaam ke zaalim to apne
-  Ghodon ko pilaate hai pani
-  Haaathon mein liye khaali kooze
-  Bachon ka bilakna maar gaya
-  
+  Ye Shaam ke zaalim to apne
+  Ghoroṅ ko pilaate haiṅ paani
+  Haathoṅ mein liye khaali kuze
+  Bachchoṅ ka bilakna maar gaya
+
   5
-  Jab se ye suna hai ke pyasa
-  Saqqa e sakina maara gaya
-  Ab pani nahi mil payega
+  Jab se ye suna hai ke pyaasa
+  Saqqa-e-Sakina maara gaya
+  Ab paani nahiṅ mil paayega
   Asghar ka samajhna maar gaya
-  
+
   6
-  Zaalim ne chadaya tha ran mein
-  Jis naize par abbas ka sar
-  Us naize se baba meri
-  Chadar ka utarna maar gaya
-  
+  Zaalim ne charhaaya tha ran mein
+  Jis naize par Abbas ka sar
+  Us naize se Baba meri
+  Chaadar ka utarna maar gaya
+
   7
-  Rahwaar pe ho kar bhi jiske
-  Khad paon zameen par khaynchte thay
-  Us bhai ka asghar jaisi
+  Rahwaar pe ho kar bhi jis ke
+  Khar paaoṅ zamiṅ par kheṅchte the
+  Us bhai ka Asghar jaisi
   Turbat mein simatna maar gaya
-  
+
   8
-  Maqtal mein bahot dhoonda usne
+  Maqtal mein bahut dhundha us ne
   Laasha na mila do haath mile
-  Un haathon se meri bacchi ka
+  Un haathoṅ se meri bachchi ka
   Ro ro ke lipatna maar gaya
-  
+
   9
-  Zeeshan kaha ye zainab ne
-  Jab sheh chali tera zarbein
-  Ghazi ko sadayein de de kar
-  Bhai ka tadapna maar gaya
+  Zishaan kaha ye Zainab ne
+  Jab Shah chali tera zarbeiṅ
+  Ghaazi ko sadaaeiṅ de de kar
+  Bhai ka tarapna maar gaya
 # source_id: nohayonline:5864fe25b17ca1d216fe
 # source_url: https://www.nohayonline.com/details_content.php?id=2740
 # raw_sha256: 4843037f0cfd3de7f5db24d0299cd468f1adf79abdb692fb48a2953c32a6d75d
 ---
-
 مار گیا بابا تیری زینب کو
+عباس کا مرنا مار گیا
+
+بن بازوؤں کے وہ غازی کا
+گھوڑے سے گرنا مار گیا
 
 ۱
-عباس کا مرنا مار گیا
-بن بازؤں کے وہ غازی کا
-گھوڑے سے گرنا مار گیا
-جب خیمے میں آے شاہ امم
+جب خیمے میں آئے شاہ امم
 ہاتھوں میں تھا بس غازی کا علم
-عباس نہیں اب آے گا
-بھای کا یہ کہنا مار گیا
+عباس نہیں اب آئے گا
+بھائی کا یہ کہنا مار گیا
 
 ۲
-میں شیر کے جیسے بھای کا
-پہچان نہیں پای لاشہ
+میں شیر کے جیسے بھائی کا
+پہچان نہیں پائی لاشہ
 قاسم کی طرح سے غازی کا
 ٹکڑوں میں بکھرنا مار گیا
 
@@ -99,13 +101,13 @@ romanLyrics: |-
 ۴
 یہ شام کے ظالم تو اپنے
 گھوڑوں کو پلاتے ہیں پانی
-ہاتھوں میں لیےء خالی کوزے
+ہاتھوں میں لیے خالی کوزے
 بچوں کا بلکنا مار گیا
 
 ۵
 جب سے یہ سنا ہے کہ پیاسا
-سقاے سکینہ مارا گیا
-اب پانی نہیں مل پاے گا
+سقائے سکینہ مارا گیا
+اب پانی نہیں مل پائے گا
 اصغر کا سمجھنا مار گیا
 
 ۶
@@ -129,5 +131,5 @@ romanLyrics: |-
 ۹
 زیشان کہا یہ زینب نے
 جب شہ چلی تیرا ضربیں
-غازی کو صداییں دے دے کر
-بھای کا تڑپنا مار گیا
+غازی کو صدائیں دے دے کر
+بھائی کا تڑپنا مار گیا
