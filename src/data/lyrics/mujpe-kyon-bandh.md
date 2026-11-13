@@ -1,78 +1,79 @@
 ---
 title: "مجھ پہ کیوں بند کرتے ہو پانی"
-alternateTitle: "Mujpe Kyon Bandh"
+alternateTitle: "Mujh Pe Kiuṅ Band"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
-aliases: []
+aliases: ["Mujpe Kyon Bandh"]
 published: false
 romanLyrics: |-
-  Mujhpe kyun bandh karte ho pani
-  Kya mohamad ka pyara nahi hoo
+  Mujh pe kiuṅ band karte ho paani
+  Kya Muhammad ka pyaara nahiṅ huṅ
 
   1
-  Kalma-goyo mohamad ke shaami
-  Kya mai mehmaan aaya nahi hoo
-  Kya mai zehra ka jaaya nahi hoo
+  Kalma goyo Muhammad ke shaami
+  Kya main mehmaan aaya nahiṅ huṅ
+  Kya main Zehra ka jaaya nahiṅ huṅ
 
   2
   Mera baba hai mushkil kusha
-  Meri maadar bhi hai sayyeda
-  Mera beta hai zainul-liba
+  Meri maadar bhi haiṅ Sayyida
+  Mera beta hai zain-ul-aba
   Mere nana ka kalma padha
-  Jiske saaye ko tum dhoondhte ho
-  Kya mai uska hi saaya nahi hoo
+  Jis ke saaye ko tum dhundte ho
+  Kya main us ka hi saaya nahiṅ huṅ
 
   3
-  Tum ne maktoob likhe kayi
-  Aaiye jald ibne ali
-  Deen ki roshni kam huvi
-  Shamme islam bujhne lagi
-  Tum ne chaaha tha mai aagaya hoo
-  Khud madine se aaya nahi hoo
+  Tum ne maktub likhe kai
+  Aaiye jald Ibn-e-Ali
+  Din ki roshni kam hui
+  Shama-e-Islam bujhne lagi
+  Tum ne chaaha tha main aa gaya huṅ
+  Khud Madine se aaya nahiṅ huṅ
 
   4
-  Dastaras mein meri kya nahi
-  Ilm taqwa shuja'at yaqeen
-  Mere pairon ke neeche zameen
-  Jis pe rakhe farishte jabeen
-  Mai hi sardar e ahl e jina hoo
-  Koi toota sitara nahi hoo
+  Dastaras mein meri kya nahiṅ
+  Ilm taqwa shujaat yaqiṅ
+  Mere pairoṅ ke niche zamiṅ
+  Jis pe rakheiṅ farishte jabiṅ
+  Main hi sardaar-e-ahl-e-jinaaṅ huṅ
+  Koi tuta sitaara nahiṅ huṅ
 
   5
   Meri gardan pe khanjar chale
   Aag lagti hai ghar mein lage
-  Binte zehra ki chaadar chine
-  Haath doonga na apna tujhe
-  Haath mera ye daste khuda hai
-  Mai to munkir khuda ka nahi hoo
+  Bint-e-Zehra ki chaadar chhine
+  Haath duṅ ga na apna tujhe
+  Haath mera ye dast-e-khuda hai
+  Main to munkir khuda ka nahiṅ huṅ
 
   6
-  Saath zehra ki hai betiyan
-  Mohtaram insa koi kahan
-  Pyaas ki dhoop ki sakhtiyan
-  Sabke chehre huwe hai dhuan
-  Betiyan fatema ki hai pyaasi
-  Sirf ek mai hi pyaasa nahi hoo
+  Saath Zehra ki haiṅ betiyaaṅ
+  Mohtaram in sa koi kahaaṅ
+  Pyaas ki dhup ki sakhtiyaaṅ
+  Sab ke chehre hue haiṅ dhuaaṅ
+  Betiyaaṅ Fatima ki haiṅ pyaasi
+  Sirf ik main hi pyaasa nahiṅ huṅ
 
   7
-  Hukm abbas ko doon agar
-  Nehr le aaye wo cheen kar
-  Karbala hogi zer o zabar
-  Laashein tayregi har mouj par
-  Mai nahi chaahta jang karna
-  Fauj ladne ko laaya nahi hoo
+  Hukm Abbas ko duṅ ga agar
+  Nahr le aaye wo chhin kar
+  Karbala ho gi zer o zabar
+  Laasheiṅ taireiṅ gi har mauj par
+  Main nahiṅ chaahta jang karna
+  Fauj larne ko laaya nahiṅ huṅ
 
   8
-  Goonji hal-min ki aisi sada
-  Sheh ko rehaan kehte suna
-  Ya ali ya ali aeliyaa
+  Gunji hal min ki aisi sada
+  Shah ko Rehaan kahte suna
+  Ya Ali ya Ali Ailiya
   Waqt imdaad ka aa gaya
-  Mere bache bilakte hai pyase
-  Phir bhi kya muskuraya nahi hoo
+  Mere bachche bilakte haiṅ pyaase
+  Phir bhi kya muskuraaya nahiṅ huṅ
 # source_id: nohayonline:4dff3e48200f6eaa32fb
 # source_url: https://www.nohayonline.com/details_content.php?id=405
 # raw_sha256: 768f6ebdeaa9d19b44fe612c7075b071c0986105fe457d245859d3a429a6ba13
@@ -83,18 +84,18 @@ romanLyrics: |-
 ۱
 کلمہ گویو محمد کے شامی
 کیا میں مہمان آیا نہیں ہوں
-کیا میں زہرا کا جایانہیں ہوں
+کیا میں زہرا کا جایا نہیں ہوں
 
 ۲
-میرا بابا ہے مشکل کشائ
+میرا بابا ہے مشکل کشا
 میری مادر بھی ہیں سیدہ
-میرا بیٹا ہے ذین العبا
+میرا بیٹا ہے زین العبا
 میرے نانا کا کلمہ پڑھا
 جس کے سائے کو تم ڈھونڈتے ہو
 کیا میں اُس کا ہی سایہ نہیں ہوں
 
 ۳
-تم نے مکطوب لکھے کئی
+تم نے مکتوب لکھے کئی
 آئیے جلد ابنِ علی
 دین کی روشنی کم ہوئی
 شمعِ اسلام بجھنے لگی
@@ -106,7 +107,7 @@ romanLyrics: |-
 علم تقویٰ شجاعت یقیں
 میرے پیروں کے نیچے زمیں
 جس پہ رکھیں فرشتے جبیں
-میں ہی سردارِاہلِ جناں ہوں
+میں ہی سردارِ اہلِ جناں ہوں
 کوئی ٹوٹا ستارا نہیں ہوں
 
 ۵
@@ -134,7 +135,7 @@ romanLyrics: |-
 فوج لڑنے کو لایا نہیں ہوں
 
 ۸
-گونجی ھل من کی ایسی صدا
+گونجی ہل من کی ایسی صدا
 شہہ کو ریحان کہتے سنا
 یا علی یا علی عیلیا
 وقت امداد کا آ گیا
