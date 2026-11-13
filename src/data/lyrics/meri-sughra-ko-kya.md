@@ -6,65 +6,84 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar & J. Jaffri"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Meri sughra ko kya pata
+  Meri Sughra ko kya pata
 
   1
-  Na qasim mehendiyan waala
-  Na akbar sehriyan waala
-  Na asghar loriyan waala
-  Na ghazi almaan waala
-  Mera bichad gaya har pyara
-  Mera ujad gaya ghar saara
-  Mera koi nahi raha
+  Na Qasim mehndiyaaṅ waala
+  Na Akbar sehriyaaṅ waala
+  Na Asghar loriyaaṅ waala
+  Na Ghazi alamaaṅ waala
+  Mera bichhar gaya har pyaara
+  Mera ujar gaya ghar saara
+  Mera koi nahiṅ raha
+  Meri Sughra ko kya pata
+  Haaye kunba ujar gaya
+  Meri Sughra ko kya pata
 
   2
-  Wo khaak pe mera akbar
-  Be baazu sher e dilawar
-  Wo tukde qasim e muztar
-  Wo khoon mein dooba lashkar
-  Mera bichad gaya har pyara
-  Mera ujad gaya ghar saara
-  Mera koi nahi raha
+  Wo khaak pe mera Akbar
+  Bebaazu sher-e-dilaawar
+  Wo tukre Qasim-e-Muztar
+  Wo khun mein duba lashkar
+  Mera bichhar gaya har pyaara
+  Mera ujar gaya ghar saara
+  Mera koi nahiṅ raha
+  Meri Sughra ko kya pata
+  Haaye kunba ujar gaya
+  Meri Sughra ko kya pata
 
   3
-  Mai laakhon mein hoo tanha
-  Kai roz ka mai hoo pyasa
-  Pardesi allah raasi
-  Ghurbat ka mai hoo maara
-  Mera bichad gaya har pyara
-  Mera ujad gaya ghar saara
-  Mera koi nahi raha
+  Main laakhoṅ mein huṅ tanha
+  Kai roz ka main huṅ pyaasa
+  Pardesi Allah raasi
+  Ghurbat ka main huṅ maara
+  Mera bichhar gaya har pyaara
+  Mera ujar gaya ghar saara
+  Mera koi nahiṅ raha
+  Meri Sughra ko kya pata
+  Haaye kunba ujar gaya
+  Meri Sughra ko kya pata
 
   4
-  Ghazi saqqa e sakina
+  Ghazi saqqa-e-Sakina
   Nigraan tha jo chadar ka
   Darya pe gaya hai maara
-  Salaar mere lashkar ka
-  Mera bichad gaya har pyara
-  Mera ujad gaya ghar saara
-  Mera koi nahi raha
+  Saalaar mere lashkar ka
+  Mera bichhar gaya har pyaara
+  Mera ujar gaya ghar saara
+  Mera koi nahiṅ raha
+  Meri Sughra ko kya pata
+  Haaye kunba ujar gaya
+  Meri Sughra ko kya pata
 
   5
-  Yasrab mein jis bhai ka
+  Yasrab mein jis bhaai ka
   Wo dekh rahi hai rasta
-  Zaalim ne us akbar ka
-  Barchi se kaleja cheda
-  Mera bichad gaya har pyara
-  Mera ujad gaya ghar saara
-  Mera koi nahi raha
+  Zaalim ne us Akbar ka
+  Barchhi se kaleja chheda
+  Mera bichhar gaya har pyaara
+  Mera ujar gaya ghar saara
+  Mera koi nahiṅ raha
+  Meri Sughra ko kya pata
+  Haaye kunba ujar gaya
+  Meri Sughra ko kya pata
 
   6
   Mere qatl ki ab tayyari
-  Teeron ki baarish jaari
-  Qaimon mein aah o zaari
+  Tiroṅ ki baarish jaari
+  Khaimoṅ mein aah o zaari
   Beti ab meri baari
-  Mera bichad gaya har pyara
-  Mera ujad gaya ghar saara
-  Mera koi nahi raha
+  Mera bichhar gaya har pyaara
+  Mera ujar gaya ghar saara
+  Mera koi nahiṅ raha
+  Meri Sughra ko kya pata
+  Haaye kunba ujar gaya
+  Meri Sughra ko kya pata
 # source_id: nohayonline:9775e7b0b87284129ea4
 # source_url: https://www.nohayonline.com/details_content.php?id=1743
 # raw_sha256: 3e02e4a0e98b39f5997e2762556fa2415a48e016ee4c0357f6016175a60d7bb2
@@ -78,16 +97,22 @@ romanLyrics: |-
 نہ غازی علماں والا
 میرا بچھڑ گیا ہر پیارا
 میرا اجڑ گیا گھر سارا
-میرا کوی نہیں رہا
+میرا کوئی نہیں رہا
+میری صغرا کو کیا پتہ
+ہائے کنبہ اجڑ گیا
+میری صغرا کو کیا پتہ
 
 ۲
 وہ خاک پہ میرا اکبر
-بے بازو شیر دلاور
-وہ ٹکڑے قاسم مضطر
+بے بازو شیرِ دلاور
+وہ ٹکڑے قاسمِ مضطر
 وہ خون میں ڈوبا لشکر
 میرا بچھڑ گیا ہر پیارا
 میرا اجڑ گیا گھر سارا
-میرا کوی نہیں رہا
+میرا کوئی نہیں رہا
+میری صغرا کو کیا پتہ
+ہائے کنبہ اجڑ گیا
+میری صغرا کو کیا پتہ
 
 ۳
 میں لاکھوں میں ہوں تنہا
@@ -96,31 +121,43 @@ romanLyrics: |-
 غربت کا میں ہوں مارا
 میرا بچھڑ گیا ہر پیارا
 میرا اجڑ گیا گھر سارا
-میرا کوی نہیں رہا
+میرا کوئی نہیں رہا
+میری صغرا کو کیا پتہ
+ہائے کنبہ اجڑ گیا
+میری صغرا کو کیا پتہ
 
 ۴
-غازی سقا ے سکینہ
+غازی سقائے سکینہ
 نگران تھا جو چادر کا
 دریا پہ گیا ہے مارا
 سالار میرے لشکر کا
-یرا بچھڑ گیا ہر پیارا
+میرا بچھڑ گیا ہر پیارا
 میرا اجڑ گیا گھر سارا
-میرا کوی نہیں رہا
+میرا کوئی نہیں رہا
+میری صغرا کو کیا پتہ
+ہائے کنبہ اجڑ گیا
+میری صغرا کو کیا پتہ
 
 ۵
 یثرب میں جس بھائی کا
 وہ دیکھ رہی ہے رستہ
 ظالم نے اس اکبر کا
 برچھی سے کلیجہ چھیدا
-یرا بچھڑ گیا ہر پیارا
+میرا بچھڑ گیا ہر پیارا
 میرا اجڑ گیا گھر سارا
-میرا کوی نہیں رہا
+میرا کوئی نہیں رہا
+میری صغرا کو کیا پتہ
+ہائے کنبہ اجڑ گیا
+میری صغرا کو کیا پتہ
 
 ۶
-میرے قاتل کی اب تیاری
+میرے قتل کی اب تیاری
 تیروں کی بارش جاری
 خیموں میں آہ و زاری
 بیٹی اب میری باری
 میرا بچھڑ گیا ہر پیارا
 میرا اجڑ گیا گھر سارا
-میرا کوی نہیں رہا
+میرا کوئی نہیں رہا
+میری صغرا کو کیا پتہ
+ہائے کنبہ اجڑ گیا
+میری صغرا کو کیا پتہ

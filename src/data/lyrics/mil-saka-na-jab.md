@@ -6,44 +6,45 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Mir Hasan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Mil saka na jab ali akbar ka laasha dayr tak
-  Ghutniyo chalte rahe maqtal mein maula dayr tak
+  Mil saka na jab Ali Akbar ka laasha der tak
+  Ghutniyoṅ chalte rahe maqtal mein Maula der tak
 
   1
-  Jaane kis tarha tamache shimr ne maare usay
-  Siskiyan leti rahi pyasi sakina dayr tak
+  Jaane kis tarah tamaanche Shimr ne maare use
+  Siskiyaaṅ leti rahi pyaasi Sakina der tak
 
   2
-  Laasha e abbas ke tukdon ko rakh kar qabr mein
-  Jaane kya kehte rahe sajjad maula dayr tak
+  Laasha-e-Abbas ke tukroṅ ko rakh kar qabr mein
+  Jaane kya kehte rahe Sajjad Maula der tak
 
   3
-  Aap ka qasim yehi hai shaah ko kehna pada
-  Maa kahan pehchaan paayi apna beta dayr tak
+  Aap ka Qasim yehi hai Shah ko kehna para
+  Maaṅ kahaaṅ pehchaan paayi apna beta der tak
 
   4
-  Do kate haathon ka tha zainab ko itna intezar
-  Khaak par rakhe rahi laashe sakina dayr tak
+  Do kate haathoṅ ka tha Zainab ko itna intezaar
+  Khaak par rakhe rahi laash Sakina der tak
 
   5
-  Jab kaha mukhtar ne ay shimr tu khud hi bata
-  Kis liye tadpe zyada mere maula dayr tak
+  Jab kaha Mukhtar ne ae Shimr tu khud hi bata
+  Kis liye tarpe ziyaada mere Maula der tak
 
   6
-  Shimr bola kya bataun mera khanjar kund tha
-  Is liye tadpe zyada tere maula dayr tak
+  Shimr bola kya bataauṅ mera khanjar kund tha
+  Is liye tarpe ziyaada tere Maula der tak
 
   7
-  Le gaya tha shimr to sar kaat kar shabbir ka
-  Laash par roti rahi bete ki zahra dayr tak
+  Le gaya tha Shimr to sar kaat kar Shabbir ka
+  Laash par roti rahi bete ki Zahra der tak
 
   8
-  Tha takallum mar ke bhi aun o muhamed ka jalaal
-  Taygh ka qabza na shehzado ne choda dayr tak
+  Tha Takallum mar ke bhi Aun o Muhammad ka jalaal
+  Tegh ka qabza na shahzaadoṅ ne chhora der tak
 # source_id: nohayonline:b660336b1690d6e0644d
 # source_url: https://www.nohayonline.com/details_content.php?id=2801
 # raw_sha256: 06fc0242fcc6d3c46c3541888829b31d86f57910d673dff5fd311caed1c36af1
@@ -61,7 +62,7 @@ romanLyrics: |-
 
 ۳
 آپ کا قاسم یہی ہے شاہ کو کہنا پڑا
-ماں کہاں پہچان پای اپنا بیٹا دیر تک
+ماں کہاں پہچان پائی اپنا بیٹا دیر تک
 
 ۴
 دو کٹے ہاتھوں کا تھا زینب کو اتنا انتظار
@@ -69,11 +70,11 @@ romanLyrics: |-
 
 ۵
 جب کہا مختار نے اے شمر تو خود ہی بتا
-کس لےء تڑپے ذیادہ میرے مولا دیر تک
+کس لیے تڑپے زیادہ میرے مولا دیر تک
 
 ۶
 شمر بولا کیا بتاؤں میرا خنجر کند تھا
-اس لئے تڑپے ذیادہ تیرے مولا دیر تک
+اس لیے تڑپے زیادہ تیرے مولا دیر تک
 
 ۷
 لے گیا تھا شمر تو سر کاٹ کر شبیر کا
