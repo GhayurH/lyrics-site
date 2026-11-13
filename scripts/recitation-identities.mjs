@@ -5,11 +5,43 @@ import { markdownFiles, readSourceMarkdown, frontmatterScalar, romanLyricsFromHe
 import { fileURLToPath } from "node:url";
 import { dirname, join, relative, sep } from "node:path";
 import { buildBastaKalamCatalog, bastaKalamId } from "../src/lib/basta-kalam-units.ts";
-import { stanzaAnchor, safeStanzaAnchorRefresh, stanzaPageLabel } from "../src/lib/recitation-identity.ts";
+import { stanzaAnchor, safeStanzaAnchorRefresh, planReviewedStanzaChanges, stanzaPageLabel } from "../src/lib/recitation-identity.ts";
 
 const root = fileURLToPath(new URL("../", import.meta.url));
 const location = join(root, "src/data/recitation/identity-lock.json");
-const args = new Set(process.argv.slice(2));
+const [mode, ...flags] = process.argv.slice(2);
+const approvals = new Map();
+const approvedFlagNames = new Set(["--reviewed-multiple-edits", "--reviewed-retirements"]);
+if (!["--check", "--sync"].includes(mode) || (mode === "--check" && flags.length)) {
+  console.error("Usage: recitation-identities.mjs --check | --sync [--reviewed-multiple-edits=KALAM/stanza-001,...] [--reviewed-retirements=KALAM/stanza-005,...]");
+  process.exit(2);
+}
+const seenFlags = new Set();
+for (const flag of flags) {
+  const match = /^(--reviewed-multiple-edits|--reviewed-retirements)=(.+)$/.exec(flag);
+  if (!match || !approvedFlagNames.has(match[1]) || seenFlags.has(match[1])) {
+    console.error("Invalid or duplicate reviewed stanza flag: " + flag);
+    process.exit(2);
+  }
+  seenFlags.add(match[1]);
+  const action = match[1] === "--reviewed-multiple-edits" ? "edits" : "retirements";
+  for (const value of match[2].split(",")) {
+    const idMatch = /^(basta-[a-z0-9-]+)\/(stanza-\d{3})$/.exec(value);
+    if (!idMatch) {
+      console.error("Invalid stanza approval ID: " + value);
+      process.exit(2);
+    }
+    const [, kalamId, stanzaId] = idMatch;
+    if (!approvals.has(kalamId))
+      approvals.set(kalamId, { edits: new Set(), retirements: new Set() });
+    const list = approvals.get(kalamId)[action];
+    if (list.has(stanzaId)) {
+      console.error("Duplicate stanza approval: " + value);
+      process.exit(2);
+    }
+    list.add(stanzaId);
+  }
+}
 const name = (entry) => entry.sectionRoman + ":" + entry.number;
 const fail = (list) => {
   if (list.length) {
@@ -74,10 +106,40 @@ const bastaMap = new Map(activeBasta.map((x) => [x.id, x]));
 const knownLyrics = new Map(locked.lyrics.map((x) => [x.id, x]));
 const knownBasta = new Map(locked.basta.map((x) => [x.id, x]));
 const refreshed = [];
-// An explicit sync can re-pin a single edited stanza when all other stanza
-// anchors still match in order. Never mutate the tracked registry on --check.
-if (args.has("--sync")) {
+const retired = [];
+// Review approvals are atomic: validate the complete list before changing any lock entries.
+if (mode === "--sync") {
+  const plans = [];
+  for (const [kalamId, reviewed] of approvals) {
+    const old = knownBasta.get(kalamId);
+    const current = bastaMap.get(kalamId);
+    if (!old || !current || current.status !== "ready") {
+      errors.push("Reviewed stanza approval has no ready kalam: " + kalamId);
+      continue;
+    }
+    try {
+      plans.push({ old, current, plan: planReviewedStanzaChanges(
+        old, current.stanzas, reviewed.edits, reviewed.retirements) });
+    } catch (error) {
+      errors.push("Reviewed stanza approval rejected: " + error.message);
+    }
+  }
+  if (errors.length) { fail(errors); process.exit(1); }
+  for (const { old, current, plan } of plans) {
+    for (const update of plan.updates) {
+      const pinned = old.stanzas.find((stanza) => stanza.id === update.id);
+      pinned.anchor = update.anchor;
+      refreshed.push(old.id + "/" + update.id + " (" +
+        stanzaPageLabel(update.pages, current.startPage) + ", reviewed)");
+    }
+    for (const id of plan.retiredIds) {
+      old.stanzas.find((stanza) => stanza.id === id).retired = true;
+      retired.push(old.id + "/" + id);
+    }
+  }
+  // Keep automatic single-edit refresh for other, unapproved kalams.
   for (const old of locked.basta) {
+    if (approvals.has(old.id)) continue;
     const current = bastaMap.get(old.id);
     if (!current || current.status !== "ready") continue;
     const update = safeStanzaAnchorRefresh(old, current.stanzas);
@@ -113,7 +175,7 @@ for (const old of locked.basta) {
       const candidate = current.stanzas[index];
       errors.push(old.id + "/" + pinned.id + " source changed/vanished (" +
         stanzaPageLabel(candidate?.pages ?? [], current.startPage) +
-        ") — run npm run source:sync for a single in-place edit; otherwise review the anchor or mark retired");
+        ") — run npm run source:sync for a single in-place edit; otherwise explicitly review the changed/retired stanza ID");
     }
   }
   const retiredAnchors = new Set(old.stanzas.filter((x) => x.retired).map((x) => x.anchor));
@@ -129,7 +191,7 @@ for (const old of locked.basta) {
 }
 const newLyrics = activeLyrics.filter((item) => !knownLyrics.has(item.id));
 const newBasta = activeBasta.filter((item) => !knownBasta.has(item.id));
-if (args.has("--sync")) {
+if (mode === "--sync") {
   // Never discard old IDs. Edits to existing anchors require a human-reviewed
   // update, so a later stanza cannot accidentally take an old identity.
   const unresolved = errors.filter((message) =>
@@ -162,6 +224,7 @@ if (args.has("--sync")) {
   console.log("Added " + newLyrics.length + " lyrics, " + newBasta.length +
     " Basta entries and new stanzas; refreshed " + refreshed.length + " existing anchors.");
   for (const change of refreshed) console.log(" - Updated anchor: " + change);
+  for (const id of retired) console.log(" - Retired stanza: " + id);
 } else {
   errors.push(...newLyrics.map((item) => "New lyric needs permanent ID lock: " + item.id));
   errors.push(...newBasta.map((item) => "New Basta needs permanent ID lock: " + item.id));
