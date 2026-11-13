@@ -6,71 +6,73 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Pahunche sirhane bhai ke jab shahe karbala
-  Ghazi ne apni aakhri saanson mein di sada
-  Maula maa ummul baneen se mat kehna
-  Sharminda sakina se hoo bahot
-  Mai pani le kar aa na saka
+  Pahunche sarhaane bhaai ke jab Shaah-e-Karbala
+  Ghaazi ne apni aakhri saaṅsoṅ mein di sada
+  Maula maaṅ Ummul Banin se mat kehna
+
+  Sharminda Sakina se huṅ bahut
+  Main paani le kar aa na saka
 
   1
-  Maa ne jo sikhaye bachpan mein
-  Wo yaad hai sab aadaab mujhe
-  Nazdeek khade rehna us ja
-  Shabbir jahan baithe jaa ke
-  Is waqt magar khadim tera
-  Taazeem ko teri uth na saka
+  Maaṅ ne jo sikhaaye bachpan mein
+  Wo yaad haiṅ sab aadaab mujhe
+  Nazdik khare rehna us ja
+  Shabbir jahaaṅ baithe jaa ke
+  Is waqt magar khaadim tera
+  Taazim ko teri uth na saka
 
   2
-  Har laash pe gir ke kehte thay
-  Kya tum hi ali ke bete ho
-  Maloom hai kitni mushkil mein
-  Qaimo se yahan tak pahunche ho
+  Har laash pe gir ke kehte the
+  Kya tum hi Ali ke bete ho
+  Maalum hai kitni mushkil mein
+  Khaimoṅ se yahaaṅ tak pahunche ho
   Abbas se milne ki khaatir
-  Zehmat jo uthayi hai maula
+  Zehmat jo uthaai hai Maula
 
   3
-  Kis tarha katay baazu mere
+  Kis tarah kate baazu mere
   Maqtal mein bata dena beshak
-  Mai zeen se zameen par kaise gira
-  Amma ko suna dena beshak
+  Main ziṅ se zamiṅ par kaise gira
+  Ammaṅ ko suna dena beshak
   Abbas ke girne se lekin
   Zainab ke giri thi sar se rida
 
   4
-  Tha charon jaanib bikhra hua
-  Quran hassan ka jangal mein
-  Pamaal badan qasim ka hua
-  Guzri wo qayamat maqtal mein
+  Tha chaaroṅ jaanib bikhra hua
+  Quraan Hasan ka jangal mein
+  Paamaal badan Qaasim ka hua
+  Guzri wo qayaamat maqtal mein
   Abbas ki zauja se pehle
-  Afsos hui bewa kubra
+  Afsos hui bewa Kubra
 
   5
-  Baba se kiya bachon ko juda
-  Kya zulm ye dhaaya logon ne
-  Muslim ki laash ko koofe ki
-  Galiyon mein phiraya logon ne
-  Abbas ki nazron ke aagay
-  Ujdi thi ruqayya ki dunya
+  Baaba se kiya bachchoṅ ko juda
+  Kya zulm ye dhaaya logoṅ ne
+  Muslim ki laash Kufe ki
+  Galiyoṅ mein phiraaya logoṅ ne
+  Abbas ki nazroṅ ke aage
+  Ujri thi Ruqayya ki duniya
 
   6
   Ye soch ke ran mein roti hai
   Baazu se lipat kar meri wafa
-  Ye baat garan guzregi bahot
-  Amma ki tabiyat par aaqa
-  Gar haath hue pani se mere
-  Aur aap ka asghar pyasa raha
+  Ye baat garaaṅ guzregi bahut
+  Ammaṅ ki tabiat par Aaqa
+  Gar haath hue paani se mere
+  Aur aap ka Asghar pyaasa raha
 
   7
-  Do bhai bichadte thay ran mein
-  Kaisa tha qayamat ka manzar
-  Abbas mujhe bhai keh do
+  Do bhaai bichharte the ran mein
+  Kaisa tha qayaamat ka manzar
+  Abbas mujhe bhaai keh do
   Sarwar ne kaha jab ye ro kar
-  Shabbir ko bhai keh to diya
-  Lekin thi takallum lab pe sada
+  Shabbir ko bhaai keh to diya
+  Lekin thi Takallum lab pe sada
 # source_id: nohayonline:a817bcceb1c028d70720
 # source_url: https://www.nohayonline.com/details_content.php?id=316
 # raw_sha256: 7bf263015b6673894a352801bea7623aadb70db988d65a04390292df5eaba171
@@ -78,16 +80,17 @@ romanLyrics: |-
 پہنچے سرہانے بھائی کے جب شاہِ کربلا
 غازی نے اپنی آخری سانسوں میں دی صدا
 مولا ماں ام البنین سے مت کہنا
+
 شرمندہ سکینہ سے ہوں بہت
-میں پانی لیکر آنہ سکا
+میں پانی لے کر آ نہ سکا
 
 ۱
 ماں نے جو سکھائے بچپن میں
-وہ یاد ہیں سب اداب مجھے
+وہ یاد ہیں سب آداب مجھے
 نزدیک کھڑے رہنا اُس جا
-شبیر جہاںبیٹھے جاکے
+شبیر جہاں بیٹھے جا کے
 اِس وقت مگر خادم تیرا
-تعظیم کوتیری اُٹھ نہ سکا
+تعظیم کو تیری اُٹھ نہ سکا
 
 ۲
 ہر لاش پہ گر کے کہتے تھے
@@ -99,7 +102,7 @@ romanLyrics: |-
 
 ۳
 کس طرح کٹے بازو میرے
-مقتل میں بتادینا بے شک
+مقتل میں بتا دینا بے شک
 میں زیں سے زمیں پر کیسے گرا
 اماں کو سنا دینا بے شک
 عباس کے گرنے سے لیکن
@@ -111,13 +114,13 @@ romanLyrics: |-
 پامال بدن قاسم کا ہوا
 گزری وہ قیامت مقتل میں
 عباس کی زوجہ سے پہلے
-افسو س ہوئی بیوا کبریٰ
+افسوس ہوئی بیوہ کبریٰ
 
 ۵
 بابا سے کیا بچوں کو جدا
-کیا ظلم یہ ڈھایالوگوں نے
-مسلم کی لاش کو فے کی
-گلیوںمیںپھرایا لوگوں نے
+کیا ظلم یہ ڈھایا لوگوں نے
+مسلم کی لاش کوفے کی
+گلیوں میں پھرایا لوگوں نے
 عباس کی نظروں کے آگے
 اُجڑی تھی رُقیہ کی دنیا
 

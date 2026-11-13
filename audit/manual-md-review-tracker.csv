@@ -2520,9 +2520,9 @@ src/data/lyrics/maa-mujhe-apni.md,standalone_lyrics,imported,nohayonline,pending
 src/data/lyrics/maa-mujhe-neend.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,,,"Need audio/print: s2 Urdu ""جس سے غیرت ہے ناقوں کو"" vs Roman ""Jis se giraate hai naaqoṅ ko""; confirm verb and singular/plural agreement."
 src/data/lyrics/maa-ne-ashkon-ke.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
 src/data/lyrics/maa-ne-di-akbar-ko.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
-src/data/lyrics/maa-ummul-baneen.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/maa-zahra.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/maaf-kardo-hame.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/maa-ummul-baneen.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,,,"Need audio/print: s3 ""زینب کے گری تھی سر سے ردا"" (کے vs کی); s6 ""گر ہاتھ ہوئے پانی سے میرے"" (possibly missing word)."
+src/data/lyrics/maa-zahra.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
+src/data/lyrics/maaf-kardo-hame.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,,,"Need audio/print: s4 ""اس خطاوار کی ہے یہ خطائیں""; s5 ""کیسے اٹھائے سر کو وہ اپنے""; s7 ""کیا آپ مجھ سے راضی نہیں ہے"" (ہے vs ہیں)."
 src/data/lyrics/maan-dekh-rahi-hai.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
 src/data/lyrics/maan-na-roegi-tumhe-aun-o-mohammad-kyunkar.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
 src/data/lyrics/maar-gaya-baba.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,

@@ -6,52 +6,53 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hassan hussain ki zakhmi ghareeb maa zahra
-  Tamache khaati hai beton ke darmiyan zahra
+  Hasan Husain ki zakhmi gharib maaṅ Zahra
+  Tamaanche khaati hai betoṅ ke darmiyaaṅ Zahra
 
   1
-  Kamar ke saath shikasta huye hai baazu bhi
-  Tumhari tooti nahi sirf phasliyan zahra
+  Kamar ke saath shikasta hue haiṅ baazu bhi
+  Tumhaari tuti nahiṅ sirf pasliyaaṅ Zahra
 
   2
-  Jo saans leti hai pehlu may dard badta hai
-  Ke ab to le bhi nahi sakti hichkiyan zahra
+  Jo saaṅs leti hai pehlu mein dard barhta hai
+  Ke ab to le bhi nahiṅ sakti hichkiyaaṅ Zahra
 
   3
-  Tamacha maara hai zaalim ne is tarha tum ko
-  Zameen pe toot ke bikhri hai baaliyan zahra
+  Tamaancha maara hai zaalim ne is tarah tum ko
+  Zamiṅ pe tut ke bikhri haiṅ baaliyaaṅ Zahra
 
   4
-  Hassan hi jaane ke masjid se ghar tak aate huye
-  Tamache khaake giri hai kahan kahan zahra
+  Hasan hi jaane ke masjid se ghar tak aate hue
+  Tamaanche khaa ke giri hai kahaaṅ kahaaṅ Zahra
 
   5
-  Chupaye kaise ali ki nigaah se fizza
-  Tere lahoo se bhara hai tera makaan zahra
+  Chhupaaye kaise Ali ki nigaah se Fizza
+  Tere lahu se bhara hai tera makaaṅ Zahra
 
   6
-  Kuch aur badti hai dushwaari saans lene may
-  Kahin jo sunti hai bachon ki siskiyan zahra
+  Kuchh aur barhti hai dushwaari saaṅs lene mein
+  Kahiṅ jo sunti hai bachchoṅ ki siskiyaaṅ Zahra
 
   7
-  Ali se pooch rahe hai hussain rote huye
-  Kya taaziyane ke khaabil hai meri maa zahra
+  Ali se puchh rahe haiṅ Husain rote hue
+  Kya taaziyaane ke qaabil hai meri maaṅ Zahra
 
   8
-  Koi salaam ka deta nahi jawab usay
-  Hai tanha faatah e khyber ki qadr daan zahra
+  Koi salaam ka deta nahiṅ jawaab use
+  Hai tanha Faateh-e-Khaibar ki qadr daaṅ Zahra
 
   9
-  Bacha ke laayi hai khanjar talay se apna imam
-  Badi ameer thi zainab tumhari maa zahra
+  Bacha ke laai hai khanjar tale se apna Imaam
+  Bari amir thi Zainab tumhaari maaṅ Zahra
 
   10
-  Hussain tadpe takallum na kyun tahe khanjar
-  Tumhare haath pe durron ke thay nishan zahra
+  Husain tarpe Takallum na kiuṅ tah-e-khanjar
+  Tumhaare haath pe durroṅ ke the nishaaṅ Zahra
 # source_id: nohayonline:5b33a701c3d8b7bea3e0
 # source_url: https://www.nohayonline.com/details_content.php?id=1023
 # raw_sha256: 2fb754e1f98ae70cf5338ae317d776b476dd16c49c9e00843bb34a19aacd596a
@@ -60,7 +61,7 @@ romanLyrics: |-
 طمانچے کھاتی ہے بیٹوں کے درمیاں زہرا
 
 ۱
-کمر کے ساتھ شکستہ ہوے ہیں بازو بھی
+کمر کے ساتھ شکستہ ہوئے ہیں بازو بھی
 تمہاری ٹوٹی نہیں صرف پسلیاں زہرا
 
 ۲
@@ -68,15 +69,15 @@ romanLyrics: |-
 کہ اب تو لے بھی نہیں سکتی ہچکیاں زہرا
 
 ۳
-طمانچے مارا ہے ظالم نے اس طرح تم کو
+طمانچہ مارا ہے ظالم نے اس طرح تم کو
 زمیں پہ ٹوٹ کے بکھری ہیں بالیاں زہرا
 
 ۴
-حسن ہی جانے کہ مسجد سے گھر تک آتے ہوے
+حسن ہی جانے کہ مسجد سے گھر تک آتے ہوئے
 طمانچے کھا کے گری ہے کہاں کہاں زہرا
 
 ۵
-چھپاے کیسے علی کی نگاہ سے فضہ
+چھپائے کیسے علی کی نگاہ سے فضہ
 تیرے لہو سے بھرا ہے تیرا مکاں زہرا
 
 ۶
@@ -92,7 +93,7 @@ romanLyrics: |-
 ہے تنہا فاتح خیبر کی قدر داں زہرا
 
 ۹
-بچا کے لای ہے خنجر تلے سے اپنا امام
+بچا کے لائی ہے خنجر تلے سے اپنا امام
 بڑی امیر تھی زینب تمہاری ماں زہرا
 
 ۱۰
