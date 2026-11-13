@@ -6,42 +6,43 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Saeed Shaheedi"
+reciter: "Alamdar Razvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Mujhe matloob hoga jaam lena jab bhi kausar ka
-  Salaam aisa padhunga dil bhar aayega payambar ka
+  Mujhe matlub hoga jaam lena jab bhi Kausar ka
+  Salaam aisa parhuṅ ga dil bhar aaye ga Payambar ka
 
   1
-  Zameen e karbala kya poochna tere muqaddar ka
-  Hai tujh mein aaj tak mehfooz sarmeina payambar ka
+  Zamin-e-Karbala kya puchhna tere muqaddar ka
+  Hai tujh mein aaj tak mehfuz sarmaaya Payambar ka
 
   2
-  Kamar kyun kham na ho dil gham se toote kyun na sarwar ka
-  Alambardar aakhir bhai tha baazu barabar ka
+  Kamar kiuṅ kham na ho dil gham se tute kiuṅ na Sarwar ka
+  Alambardaar aakhir bhaai tha baazu baraabar ka
 
   3
-  Labe darya alambardar bhi kaam aagaya aakhir
-  Basab allah haafiz hazrate zainab ki chadar ka
+  Lab-e-darya alambardaar bhi kaam aa gaya aakhir
+  Bas ab Allah haafiz Hazrat-e-Zainab ki chaadar ka
 
   4
-  Teri ghairat ko aakhir kya hua kuch tu ne socha bhi
-  Bhari mehfil mein kaisa tazkira zainab ki chadar ka
+  Teri ghairat ko aakhir kya hua kuchh tu ne socha bhi
+  Bhari mehfil mein kaisa tazkira Zainab ki chaadar ka
 
   5
-  Ghadi bhar bhi rabab aaram se sone nahi paati
-  Wo jab karwat badalti hai khayal aata hai asghar ka
+  Ghari bhar bhi Rabaab aaraam se sone nahiṅ paati
+  Wo jab karwat badalti hai khayaal aata hai Asghar ka
 
   6
-  Saeed zaar par jab bhi koi uftaab padti hai
-  Bas ek aadat si hai wo naam leta hai hyder ka
+  Saeed zaar par jab bhi koi uftaad parti hai
+  Bas ek aadat si hai wo naam leta hai Haidar ka
 # source_id: nohayonline:97790fe4f4b050fbd162
 # source_url: https://www.nohayonline.com/details_content.php?id=2027
 # raw_sha256: 9ad04f5001ee1f5ddcfdec285505671730a994a774cdc9388c1f3ade937cf8db
 ---
 مجھے مطلوب ہوگا جام لینا جب بھی کوثر کا
-سلام ایسا پڑھوں گا دل بھر آے گا پیمبر کا
+سلام ایسا پڑھوں گا دل بھر آئے گا پیمبر کا
 
 ۱
 زمین کربلا کیا پوچھنا تیرے مقدر کا
@@ -49,7 +50,7 @@ romanLyrics: |-
 
 ۲
 کمر کیوں خم نہ ہو دل غم سے ٹوٹے کیوں نہ سرور کا
-علمبردار آخر بھای تھا بازو برادر کا
+علمبردار آخر بھائی تھا بازو برادر کا
 
 ۳
 لب دریا علمبردار بھی کام آگیا آخر

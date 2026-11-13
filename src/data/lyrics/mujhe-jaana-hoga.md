@@ -1,65 +1,70 @@
 ---
-title: "ہاے مظلومہ فاطمہ زہرا"
+title: "ہائے مظلومہ فاطمہ زہرا"
 alternateTitle: "Mujhe Jaana Hoga"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Faazil"
+reciter: "Sajid Jafri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye mazlooma fatema zehra
-  Ro ke kehti thi ye zehra mujhe jaana hoga
-  Kya sitam hogaye baba ko batana hoga
-  Zakhm pehlu pe hai maujood na dekhe hyder
-  Mujhko maloom hai mar jayenge wo ghut ghut kar
-  Zakhm ye unko kisi taur chupana hoga
+  Haaye mazluma Fatema Zehra
+
+  Ro ke kehti thi ye Zehra mujhe jaana hoga
+  Kya sitam ho gaye Baba ko bataana hoga
+
+  Zakhm pehlu pe hai maujud na dekhe Haidar
+  Mujh ko maalum hai mar jaayeṅ ge wo ghut ghut kar
+  Zakhm ye un ko kisi taur chhupaana hoga
 
   1
-  Bas yehi soch ke dil doob raha hai mera
-  Kaisa maahol tha darbar ka dekha na gaya
-  Meri zainab ko to bazaar bhi jaana hoga
+  Bas yehi soch ke dil dub raha hai mera
+  Kaisa maahol tha darbaar ka dekha na gaya
+  Meri Zainab ko to baazaar bhi jaana hoga
 
   2
-  Mujhko darbar mein jhutlaya mera dar bhi jala
-  Mera mohsin na raha koi sahara na raha
-  Mere bete mere mehdi tumhe aana hoga
+  Mujh ko darbaar mein jhutlaaya mera dar bhi jala
+  Mera Mohsin na raha koi sahaara na raha
+  Mere bete mere Mehdi tumheṅ aana hoga
 
   3
-  Phasliyan toot gayi hai mai nahi uth paati
-  Saans lene mein bhi hoti hai mujhe dushwari
-  Ay khuda paas tujhe apne bulana hoga
+  Pasliyaaṅ tut gayi hai main nahiṅ uth paati
+  Saans lene mein bhi hoti hai mujhe dushwaari
+  Ae Khuda paas tujhe apne bulaana hoga
 
   4
-  Jalte darwaze ko dekha hai hassan ne mujh par
+  Jalte darwaaze ko dekha hai Hasan ne mujh par
   Is liye rota hai tanhaai mein mera ye pisar
-  Usko le aao galay apne lagana hoga
+  Us ko le aao gale apne lagaana hoga
 
   5
-  Maine bas itna kaha chod do shauhar ko mere
-  Ye khabar thi nahi badle mein tarafdari ke
-  Taaziyana mujhe baazu pe bhi khaana hoga
+  Main ne bas itna kaha chhor do shauhar ko mere
+  Ye khabar thi nahiṅ badle mein tarafdaari ke
+  Taaziyaana mujhe baazu pe bhi khaana hoga
 
   6
-  Ro padi fatema zainab se suni jab ye fughan
-  Karbala jaaungi kaise mai akeli amma
-  Har jagah saath tumhe mere nibhana hoga
+  Ro pari Fatema Zainab se suni jab ye fughaaṅ
+  Karbala jaauṅ gi kaise main akeli Ammaaṅ
+  Har jagah saath tumheṅ mere nibhaana hoga
 
   7
-  Bas yehi soch ke faazil ki hai aankhein pur nam
-  Kaise rote thay sabhi bacche suna ye jis dam
-  Alwida ay mere bacchon mujhe jaana hoga
+  Bas yehi soch ke Faazil ki hai aankheiṅ pur nam
+  Kaise rote the sabhi bachche suna ye jis dam
+  Alwida ae mere bachchoṅ mujhe jaana hoga
 # source_id: nohayonline:62c4c8262c904b111231
 # source_url: https://www.nohayonline.com/details_content.php?id=3151
 # raw_sha256: 648fbca668d9f3ca5144e00c28ddad53d13aae222c53754134aa0e7a8ef0cf30
 ---
-ہاے مظلومہ فاطمہ زہرا
-روکے کہتی تھی یہ زہرا مجھے جانا ہوگا
-کیا ستم ہو گےء بابا کو بتانا ہوگا
+ہائے مظلومہ فاطمہ زہرا
+
+رو کے کہتی تھی یہ زہرا مجھے جانا ہوگا
+کیا ستم ہو گئے بابا کو بتانا ہوگا
+
 زخم پہلو پہ ہے موجود نہ دیکھے حیدر
-مجھکو معلوم ہے مر جاییں گے وہ گھٹ گھٹ کر
+مجھکو معلوم ہے مر جائیں گے وہ گھٹ گھٹ کر
 زخم یہ ان کو کسی طور چھپانا ہو گا
 
 ۱

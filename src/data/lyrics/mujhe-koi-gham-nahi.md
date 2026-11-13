@@ -5,53 +5,53 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sibt-e-Jafar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Mujhe koi gham nahi hai magar ay hussain tera
-  Meri fiqr ki hai manzil safar ay hussain tera
-  
+  Mujhe koi gham nahiṅ hai magar ae Husain tera
+  Meri fikr ki hai manzil safar ae Husain tera
+
   1
-  Kya ajab tha ghayr leti mujhe har tarha ki fikrein
-  Na jo gham rafeeq hota agar ay hussain tera
-  Kabhi kufr ke muqabil to kabhi munafiqon ke
-  Raha sar bakaf hamesha padar ay hussain tera
-  
+  Kya ajab tha gher leti mujhe har tarah ki fikreiṅ
+  Na jo gham rafiq hota agar ae Husain tera
+  Kabhi kufr ke muqaabil to kabhi munaafiqoṅ ke
+  Raha sar bakaf hamesha padar ae Husain tera
+
   2
-  Na ameer e shaam baqi na wo taaj o takht e shaahi
-  Hai dilon pa ab bhi lekin asar ay hussain tera
-  Isay apne khoon se tu ne nayi zindagi ata ki
-  Hai ye deen mustafa ka shajar ay hussain tera
-  
+  Na amir-e-Shaam baaqi na wo taaj o takht-e-shaahi
+  Hai diloṅ pe ab bhi lekin asar ae Husain tera
+  Ise apne khun se tu ne nayi zindagi ata ki
+  Hai ye din Mustafa ka shajar ae Husain tera
+
   3
-  Kisi hukmuran ka sadqa na muballighon ki koshish
-  Hai ye deen ki baharein samar ay hussain tera
-  Ay jina ke shaahzade tu zameen pa aa gaya kyun
-  Ke musalsal ibtela hai safar ay hussain tera
-  
+  Kisi hukmaraan ka sadqa na muballighoṅ ki koshish
+  Hai ye din ki bahaareiṅ samar ae Husain tera
+  Ae jinaaṅ ke shahzaade tu zamiṅ pe aa gaya kiuṅ
+  Ke musalsal ibtila hai safar ae Husain tera
+
   4
-  Kabhi dosh par nabi ke kabhi nok par ani ke
-  Raha auj par hamesha qamar aey hussain tera
-  Hui kehkashan si roshan sar e raahe shaam o kufa
-  Gaya sar ba noke naiza jidhar ay hussain tera
-  
+  Kabhi dosh par Nabi ke kabhi nok par ani ke
+  Raha auj par hamesha qamar ae Husain tera
+  Hui kehkashaaṅ si roshan sar-e-raah-e-Shaam o Kufa
+  Gaya sar ba nok-e-neza jidhar ae Husain tera
+
   5
   Na to aankh par hai patti na hi haath mein hai raasha
-  To khaleel dekhte hai jigar ay hussain tera
-  Kya ajab tha paa e asghar se ubalta khoon ka chashma
-  Agar aediyan ragadta pisar ay hussain tera
-  
+  To Khalil dekhte haiṅ jigar ae Husain tera
+  Kya ajab tha paa-e-Asghar se ubalta khun ka chashma
+  Agar eriyaaṅ ragarta pisar ae Husain tera
+
   6
-  Sar e hashr mere aaqa tu hi ye bhi dhyan rakhiyo
-  Ke hai soz-o-khwan-o-shayir kidhar ay hussain tera
-  Na dubara haazri gar ho naseeb e sibte jafar
-  To phir us ki samt se ho guzar ay hussain tera
+  Sar-e-hashr mere Aaqa tu hi ye bhi dhyaan rakhiyo
+  Ke hai soz o khwaan o shaair kidhar ae Husain tera
+  Na dubaara haaziri gar ho nasib-e-Sibt-e-Jafar
+  To phir us ki samt se ho guzar ae Husain tera
 # source_id: nohayonline:f4b84979b786d4f4d251
 # source_url: https://www.nohayonline.com/details_content.php?id=1243
 # raw_sha256: d3ec6c1747bdc0fff6719dac97c520385540adaa699d2c766c3466594653b2d8
 ---
-
 مجھے کوئی غم نہیں ہے مگر اے حسین تیرا
 میری فکر کی ہے منزل سفر اے حسین تیرا
 
@@ -62,9 +62,9 @@ romanLyrics: |-
 رہا سر بکف ہمیشہ پدر اے حسین تیرا
 
 ۲
-نہ أمیر شام باقی نہ وہ تاج و تخت شاہی
+نہ امیر شام باقی نہ وہ تاج و تخت شاہی
 ہے دلوں پہ اب بھی لیکن اثر اے حسین تیرا
-اسے اپنے خون سے تو نے نیء زندگی عطا کی
+اسے اپنے خون سے تو نے نئی زندگی عطا کی
 ہے یہ دین مصطفیٰ کا شجر اے حسین تیرا
 
 ۳
@@ -76,13 +76,13 @@ romanLyrics: |-
 ۴
 کبھی دوش پر نبی کے کبھی نوک پر انی کے
 رہا اوج پر ہمیشہ قمر اے حسین تیرا
-ہوی کہکشاں سی روشن سر راہ شام و کوفہ
+ہوئی کہکشاں سی روشن سر راہ شام و کوفہ
 گیا سر بہ نوکِ نیزہ جدھر اے حسین تیرا
 
 ۵
 نہ تو آنکھ پر ہے پٹی نہ ہی ہاتھ میں ہے راشا
 تو خلیل دیکھتے ہیں جگر اے حسین تیرا
-کیا عجب تھا پاے اصغر سے ابلتا خون کا چشمہ
+کیا عجب تھا پائے اصغر سے ابلتا خون کا چشمہ
 اگر ایڑیاں رگڑتا پسر اے حسین تیرا
 
 ۶

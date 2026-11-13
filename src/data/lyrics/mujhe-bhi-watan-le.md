@@ -6,88 +6,93 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"
+reciter: "Mir Hasan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jab reha shaam ke zindan se huwe ahle haram
-  Kya khushi hoti dubala hua sadaat ka gham
-  Jisko armaan e rehaai tha hui wo be-dam
-  Ek nanhi si lehad par tha musalsal matam
-  Sunke faryad o fughan saans ruki jaati thi
-  Qabr se bali sakina ki sada aati thi
-  Watan jaane walon
+  Jab reha Shaam ke zindaan se hue ahl-e-haram
+  Kya khushi hoti dubaala hua saadaat ka gham
+  Jis ko armaan-e-rehaai tha hui wo bedam
+  Ek nanhi si lahad par tha musalsal maatam
+  Sun ke faryaad o fughaaṅ saans ruki jaati thi
+  Qabr se baali Sakina ki sada aati thi
+
+  Watan jaane waalo
   Mujhe bhi watan le chalo
-  Mai kaise rahungi yahan par
-  Yahan hai bhala kaun mera
+
+  Main kaise rahuṅ gi yahaaṅ par
+  Yahaaṅ hai bhala kaun mera
 
   1
-  Reha hoke ghar jaane walon
-  Mujhe bhi kahin par bitha lo
-  Shaheedo ke sar hai jahan par
-  Mujhe bhi wahin par sulaado
-  Mai baba ke sar se lipat kar
-  Safar kaat lungi ye saara
+  Reha ho ke ghar jaane waalo
+  Mujhe bhi kahiṅ par bitha lo
+  Shahidoṅ ke sar haiṅ jahaaṅ par
+  Mujhe bhi wahiṅ par sula do
+  Main Baba ke sar se lipat kar
+  Safar kaat luṅ gi ye saara
 
   2
-  Na yun chod kar jao amma
-  Mujhe shamiyon ke sahare
-  Yateemi ki maari hui ko
-  Sataya bahot zaalimon ne
-  Bahot khauf aata hai mujhko
-  Tumhe waasta sayyeda ka
+  Na yuṅ chhor kar jaao Ammaaṅ
+  Mujhe Shaamiyoṅ ke sahaare
+  Yatimi ki maari hui ko
+  Sataaya bahut zaalimoṅ ne
+  Bahut khauf aata hai mujh ko
+  Tumheṅ waasta Sayyeda ka
 
   3
-  Suna hai ke wapas milay hai
-  Tumhe shimr se mere gowhar
-  Bhala kya karoge tum unka
-  Agar reh gayi mai yahan par
+  Suna hai ke waapas mile haiṅ
+  Tumheṅ Shimr se mere gauhar
+  Bhala kya karoge tum un ka
+  Agar reh gayi main yahaaṅ par
   Inhi bhi amaanat samajh kar
-  Ya dafna do zindan mein ya
+  Ya dafna do zindaan mein ya
 
   4
-  Jo pahunche madina to amma
-  Phir waqt e musibat na aaye
-  Sina ur akbar ki baatein
-  Sunane ki naubat na aaye
+  Jo pahunche Madina to Ammaaṅ
+  Phir waqt-e-musibat na aaye
+  Sina ur Akbar ki baateiṅ
+  Sunaane ki naubat na aaye
   Meri laash ko dekh kar hi
-  Samajh legi har baat sugra
+  Samajh le gi har baat Sughra
 
   5
-  Yehi soch kar zer e turbat
-  Tadapta hai dukhiya ka laasha
-  Mujhe shimr ke shehr mein ab
-  Hamesha hi rehna padega
-  Dhadakta nahi phir bhi amma
-  Ye dil kaamp jaata hai mera
+  Yehi soch kar zer-e-turbat
+  Tarapta hai dukhiya ka laasha
+  Mujhe Shimr ke shehr mein ab
+  Hamesha hi rehna parega
+  Dharakta nahiṅ phir bhi Ammaaṅ
+  Ye dil kaanp jaata hai mera
 
   6
-  Sar e shaahe deen kuch to bolo
-  Sifarish karo kuch hamari
+  Sar-e-Shaah-e-diṅ kuchh to bolo
+  Sifaarish karo kuchh hamaari
   Qaza aa gayi hai to phir kya
-  Mai beti hoo baba tumhari
-  Na inkaar kar payengi wo
-  Phupi se zara kehdo baba
+  Main beti huṅ Baba tumhaari
+  Na inkaar kar paayeṅ gi wo
+  Phuphi se zara keh do Baba
 
   7
   Ye haalat thi har ek qadam par
-  Madine ke raste mein akbar
-  Giri thi jahan par sakina
-  Tamache lage thay jahan par
-  Wahan khaak se qaidiyon ko
-  Sadayein ye aati thi har jaa
+  Madine ke raste mein Akbar
+  Giri thi jahaaṅ par Sakina
+  Tamaache lage the jahaaṅ par
+  Wahaaṅ khaak se qaidiyoṅ ko
+  Sadaaeiṅ ye aati thi har jaa
 # source_id: nohayonline:31ff146ffde1b706fc10
 # source_url: https://www.nohayonline.com/details_content.php?id=1607
 # raw_sha256: 5537c185fd931338db931f99c9a037450168781d4bc7e849ead0492e81b13cee
 ---
 جب رہا شام کے زندان سے ہوئے اہلِ حرم
-کیا خوشی ہوتی دوبالاہوا سادات کا غم
+کیا خوشی ہوتی دوبالا ہوا سادات کا غم
 جس کو ارمانِ رہائی تھا ہوئی وہ بے دم
 اک ننھی سی لحد پر تھا مسلسل ماتم
 سن کے فریاد و فغاں سانس رُکی جاتی تھی
 قبر سے بالی سکینہ کی صدا آتی تھی
+
 وطن جانے والو
 مجھے بھی وطن لے چلو
+
 میں کیسے رہوں گی یہاں پر
 یہاں ہے بھلا کون میرا
 
@@ -100,7 +105,7 @@ romanLyrics: |-
 سفر کاٹ لوں گی یہ سارا
 
 ۲
-نہ یوں چھوڑ کر جائو اماں
+نہ یوں چھوڑ کر جاؤ اماں
 مجھے شامیوں کے سہارے
 یتیمی کی ماری ہوئی کو
 ستایا بہت ظالموں نے
@@ -119,7 +124,7 @@ romanLyrics: |-
 جو پہنچے مدینہ تو اماں
 پھر وقتِ مصیبت نہ آئے
 سِناں اور اکبر کی باتیں
-سُنانیں کی نوبت نہ آئے
+سُنانے کی نوبت نہ آئے
 میری لاش کو دیکھ کر ہی
 سمجھ لے گی ہر بات صغریٰ
 
