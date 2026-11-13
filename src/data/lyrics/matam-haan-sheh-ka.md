@@ -1,49 +1,52 @@
 ---
 title: "ہر پل ہے ساتھ ہے ہر دم"
-alternateTitle: "Matam Haan Sheh Ka"
+alternateTitle: "Maatam Haaṅ Sheh Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Har pal hai saath hai har dam
-  Matam haan sheh ka matam
-  Jab naam e shabbir liya
-  Bhool gaye dunya ke gham
+  Maatam haaṅ Sheh ka maatam
+
+  Jab naam-e-Shabbir liya
+  Bhul gaye dunya ke gham
 
   1
-  Pahunche laashe akbar par
-  Girte padte shaahe umam
+  Pahuṅche laash-e-Akbar par
+  Girte parte Shaah-e-Umam
 
   2
-  Le aaye hai maqtal se
-  Laasha e akbar shaahe umam
+  Le aaye haiṅ maqtal se
+  Laash-e-Akbar Shaah-e-Umam
 
   3
-  Lo wo kanare nehr huwe
-  Baazu e abbas qalam
+  Lo wo kinaar-e-nehr hue
+  Baazu-e-Abbas qalam
 
   4
-  Tar hai khoon se ghazi ke
-  Mashkeeze ke saath alam
+  Tar hai khun se Ghaazi ke
+  Mashkize ke saath alam
 
   5
-  Tashna baap ke haathon par
-  Kho diya baysheer ne dam
+  Tishna baap ke haathoṅ par
+  Kho diya beshir ne dam
 # source_id: nohayonline:590f4f4380e740bd3af8
 # source_url: https://www.nohayonline.com/details_content.php?id=484
 # raw_sha256: ee91b08324084faa540eb1cca49ea3035807cd080c0832c7436e83cdd986667c
 ---
 ہر پل ہے ساتھ ہے ہر دم
 ماتم ہاں شِہ کا ماتم
+
 جب نامِ شبیر لیا
 بھول گئے دنیا کے غم
 
 ۱
-پہنچے لاش ِ اکبر پر
+پہنچے لاشِ اکبر پر
 گرتے پڑے شاہِ اُمم
 
 ۲

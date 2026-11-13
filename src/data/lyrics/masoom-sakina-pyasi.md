@@ -1,85 +1,57 @@
 ---
 title: معصوم سکینہ پیاسی ہے
-alternateTitle: Masoom Sakina Pyasi
+alternateTitle: Masum Sakina Pyaasi
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Zameer Akhtar"
+reciter: "Ali Yazdan; Ali Zia Rizvi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Masoom sakina pyasi hai
-
+romanLyrics: |-
+  Masum Sakina pyaasi hai
 
   1
-
-  Ye sookhe huwe lab khusk zuban
-
-  Be taab atash se nanhi si jaan
-
+  Ye sukhe hue lab khushk zabaaṅ
+  Betaab-e-atash nanhi si jaaṅ
+  Masum Sakina pyaasi hai
 
   2
-
-  Ye tashna labi ye jalti zameen
-
-  Pani ka koi imkaan nahi
-
-  Nazuk se jigar se uth''ta dhuan
-
+  Ye tashnalabi ye jalti zamiṅ
+  Paani ka koi imkaan nahiṅ
+  Naazuk se jigar se uthta dhuaaṅ
 
   3
-
-  Bachi ki sada pani pani
-
-  Aankhon mein haram ke veerani
-
-  Muztar hai phupi betaab hai maa
-
+  Bachchi ki sada paani paani
+  Aaṅkhoṅ mein haram ke viraani
+  Muztar hai phuphi betaab hai maaṅ
 
   4
-
-  Kya kooza gir kar toot gaya
-
-  Ya aas ka daaman choot gaya
-
-  Kya ab na chacha aayenge yahan
-
+  Kya kuza gir kar tut gaya
+  Ya aas ka daaman chhut gaya
+  Kya ab na chacha aayeṅge yahaaṅ
 
   5
-
-  Ay pathar dil behte darya
-
+  Ae patthar dil behte darya
   Tujhko bhi taras aaya na zara
-
-  Kis kaam ka tera aab e rawan
-
+  Kis kaam ka tera aab-e-ravaaṅ
 
   6
-
-  Abbas thay itne sharminda
-
-  Saahil pe ye kehke dam toda
-
-  Kis moo mein bhala mai jaaun wahan
-
+  Abbas the itne sharminda
+  Saahil pe ye kehke dam tora
+  Kis muṅh mein bhala main jaauṅ wahaaṅ
 
   7
-
-  Dil khoon huwe jaate hai magar
-
-  Bachi ko tasalli de kyun kar
-
-  Khud pyaas se hai sab peer o jawan
-
+  Dil khun hue jaate haiṅ magar
+  Bachchi ko tasalli de kiuṅ kar
+  Khud pyaas se hai sab pir o javaaṅ
 
   8
-
-  Likhun bhi to kya likhun akhtar
-
-  Larza hai qalam pani hai jigar
-
-  Nauhe hai ye mere ashk e rawan'
+  Likhuṅ bhi to kya likhuṅ Akhtar
+  Larza hai qalam paani hai jigar
+  Nauhe hai ye mere ashk-e-ravaaṅ
 # source_id: nohayonline:6a4e30b7b917338ea5e1
 # source_url: https://www.nohayonline.com/details_content.php?id=243
 # raw_sha256: e5a28f350763159993434de70816bda70ccf076f156e2cf517f2cc764bed1e8b
@@ -91,12 +63,13 @@ romanLyrics: 'Masoom sakina pyasi hai
 معصوم سکینہ پیاسی ہے
 
 ۱
-یہ سوکھے ہوے لب خشک زباں
+یہ سوکھے ہوئے لب خشک زباں
 بیتاب عطش ننھی سی جاں
+معصوم سکینہ پیاسی ہے
 
 ۲
 یہ تشنہ لبی یہ جلتی زمیں
-پانی کا کوی امکان نہیں
+پانی کا کوئی امکان نہیں
 نازک سے جگر سے اٹھتا دھواں
 
 ۳
@@ -107,11 +80,11 @@ romanLyrics: 'Masoom sakina pyasi hai
 ۴
 کیا کوزہ گر کر ٹوٹ گیا
 یا آس کا دامن چھوٹ گیا
-کیا اب نہ چچا آےنگے یہاں
+کیا اب نہ چچا آئیں گے یہاں
 
 ۵
 اے پتھر دل بہتے دریا
-تجھکو بھی ترس آیا نہ زرا
+تجھکو بھی ترس آیا نہ ذرا
 کس کام کا تیرا آب رواں
 
 ۶
@@ -120,9 +93,9 @@ romanLyrics: 'Masoom sakina pyasi hai
 کس منہ میں بھلا میں جاؤں وہاں
 
 ۷
-دل خون ہوے جاتے ہیں مگر
+دل خون ہوئے جاتے ہیں مگر
 بچی کو تسلی دے کیوں کر
-خود پیاس سے ہے سب پیرو جواں
+خود پیاس سے ہے سب پیر و جواں
 
 ۸
 لکھوں بھی تو کیا لکھوں اختر
