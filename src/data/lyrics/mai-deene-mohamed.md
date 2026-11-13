@@ -1,51 +1,52 @@
 ---
 title: "میں دین محمد کو بقا دینے چلی ہوں"
-alternateTitle: "Mai Deene Mohamed"
+alternateTitle: "Main Din-e-Muhammad"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Tauqeer Kamalvi"
+reciter: "Mukhtar Hussain"
 tags: ["noImage"]
-aliases: []
+aliases: ["Mai Deene Mohamed"]
 published: false
 romanLyrics: |-
-  Mai deen e mohamed ko baqa dene chali hoo
-  Beemar hai wo usko shifa dene chali hoo
+  Main din-e-Muhammad ko baqa dene chali huṅ
+  Bimaar hai wo us ko shifa dene chali huṅ
 
   1
-  Islam tera dhoop may baatil ki hai ya rab
-  Islam pe mai sar ki rida dene chali hoo
+  Islam tera dhup mein baatil ki hai ya Rab
+  Islam pe main sar ki rida dene chali huṅ
 
   2
-  Allah mera hausla tum dekhna ban may
-  Abbas sa mai shaah e wafa dene chali hoo
+  Allah mera hausla tum dekhna ban mein
+  Abbas sa main Shaah-e-Wafa dene chali huṅ
 
   3
-  Hamshakle payambar hai mujhe jaan se pyara
-  Mai tere liye us ka gala dene chali hoo
+  Hamshakl-e-Payambar hai mujhe jaan se pyaara
+  Main tere liye us ka gala dene chali huṅ
 
   4
-  Ab rang shahadat ka tere deen pe chadhega
-  Mai qasim o-kubra ki hina dene chali hoo
+  Ab rang shahaadat ka tere diṅ pe charhe ga
+  Main Qasim o Kubra ki hina dene chali huṅ
 
   5
-  Tauheen imamat ki hui dasht e bala may
-  Mai shaam may zaalim ko saza dene chali hoo
+  Tauhin imaamat ki hui dasht-e-bala mein
+  Main Shaam mein zaalim ko saza dene chali huṅ
 
   6
-  Hum aale mohamed hai nahi zulm se darte
-  Sufiyan ke potay ko bata dene chali hoo
+  Ham Aal-e-Muhammad hai nahiṅ zulm se darte
+  Sufiyan ke pote ko bata dene chali huṅ
 
   7
-  Tauqeer kaha bibi ne matam ki sada se
-  Mai qasr e yazeedi ko mita dene chali hoo
+  Tauqir kaha Bibi ne maatam ki sada se
+  Main qasr-e-Yazidi ko mita dene chali huṅ
 # source_id: nohayonline:f685760efe86a738ac60
 # source_url: https://www.nohayonline.com/details_content.php?id=2040
 # raw_sha256: fd662bdf71c82c666a0baa2972a453e020ff62e6b4586c5313c97f04b27c4501
 ---
 میں دین محمد کو بقا دینے چلی ہوں
-بیمار ہے وہ اسکو شفا دینے چلی ہوں
+بیمار ہے وہ اس کو شفا دینے چلی ہوں
 
 ۱
 اسلام تیرا دھوپ میں باطل کی ہے یا رب
@@ -57,20 +58,20 @@ romanLyrics: |-
 
 ۳
 ہمشکل پیمبر ہے مجھے جان سے پیارا
-میں تیرے لےء اس کا گلا دینے چلی ہوں
+میں تیرے لیے اس کا گلا دینے چلی ہوں
 
 ۴
 اب رنگ شہادت کا تیرے دیں پہ چڑھے گا
 میں قاسم و کبرا کی حنا دینے چلی ہوں
 
 ۵
-توہین امامت کے ہوی دشتِ بلا میں
+توہین امامت کی ہوئی دشتِ بلا میں
 میں شام میں ظالم کو سزا دینے چلی ہوں
 
 ۶
 ہم آل محمد ہے نہیں ظلم سے ڈرتے
-صفیان کے پوتے کو بتا دینے چلی ہوں
+سفیان کے پوتے کو بتا دینے چلی ہوں
 
 ۷
-توقیر کہا بی بی نے ماتم کی صدا سے
+توقیر کہا بی‌بی نے ماتم کی صدا سے
 میں قصر یزیدی کو مٹا دینے چلی ہوں

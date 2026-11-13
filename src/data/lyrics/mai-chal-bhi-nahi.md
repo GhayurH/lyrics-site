@@ -1,107 +1,70 @@
 ---
 title: میں چل بھی نہیں سکتا قیدی ہوں میں اماں
-alternateTitle: Mai Chal Bhi Nahi
+alternateTitle: Main Chal Bhi Nahiṅ
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Shaukath"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
-aliases: []
+aliases: ["Mai Chal Bhi Nahi"]
 published: false
-romanLyrics: 'Haaye Sajjad, Haaye Bimaar
+romanLyrics: |-
+  Haaye Sajjad, haaye bimaar
 
-  May chal bhi nahi sakta, qaidi hun may amma,
+  Main chal bhi nahiṅ sakta qaidi huṅ main ammaṅ
 
+  Baazaar-e-Shaam jab aaya Sajjad ka dil ghabraaya
+  Ro ro ke phuphi se apni bimaar ne ye farmaaya
+
+  Aankhoṅ se lahu meri ek pal bhi nahiṅ rukta
+  Main chal bhi nahiṅ sakta qaidi huṅ main ammaṅ
 
   1
-
-  Aankhon se lahu meri
-
-  Ik pal bhi nahi rukta
-
+  Ye khuṅ jo bahta hai is aankh ka maatam hai
+  Mujhe tauq aur beri ke gham se bhi sawa gham hai
+  Maaṅ bahneṅ phuphi aayi baazaar mein beparda
 
   2
-
-  Qaidi hun may amma, may chal bhi nahi sakta
-
-  Ye khun jo behta hai, is pak ka matam hai,
-
-  Mujhe touk aur beri ke, gham se bhi sawa gham hai,
-
-  Maa behne phuphi aayi, baazaar may be parda
-
+  Bas mere kaleje pe us waqt qaza utri
+  Naamus-e-Muhammad ki jis waqt rida utri
+  Baazaar mein aaya hai zindaaṅ ye mera laasha
 
   3
-
-  Bas mere kaleje pe, us waqt qazaa utri,
-
-  Naamuse Mohammed ki, jis waqt ridaa utri,
-
-  Baazaar may aaya hai, zindaan ye mera laashaa
-
+  Tathir ke parda daar ummat ne phiraaye haiṅ
+  Us Bibi ko logoṅ ne darbaar dikhaaye haiṅ
+  Jis Bibi ka baba ne chehra bhi nahiṅ dekha
 
   4
-
-  Tatheer ke parwardaa, ummat ne phiraaye hai,
-
-  Us bibi ko logon ne, darbaar dikhaaye hai,
-
-  Jis bibi ka baba ne, chehra bhi nahi dekha
-
+  Jab ahl-e-sitam ham par barsaane lage patthar
+  Kya jaane kya guzri us waqt mere dil par
+  Jab maaṅ ne kaha mujh se tum kaun ho ae beta
 
   5
-
-  Jab ehle sitam ham par, barsaane lage pathar,
-
-  Kya jaane kya guzri, us waqt mere dil par,
-
-  Jab maa ne kahaa mujhse, tum koun ho ai betaa
-
+  Laachaar bahan meri sahme hue rahti thi
+  Maasum Sakina ye har mor pe kahti thi
+  Kya dafn hue hoṅge Karbal mein mere baba
 
   6
-
-  Lachaar behen meri, sehme huwe rehti thi,
-
-  Maasum sakina ye, har mour pe kehti thi,
-
-  Kya dafn huwe honge, karbal may mere baba
-
+  Abbas ko mahshar tak ye dard rulaaye ga
+  Zainab ke khule sar ko wo dekh na paaye ga
+  Ghairat ke khuda ka sar neze pe nahiṅ rukta
 
   7
-
-  Abbas ko mehshar tak, ye dard rulaaega,
-
-  Zainab ke khule sar ko, woh dekh na paaega,
-
-  Ghairat ke khuda ka sar, neze pe nahi rukta
-
+  Akbar ka hasiṅ chehra jo dekhte rahte haiṅ
+  Sab kufiyoṅ shaami bhi ro ro ke ye kahte haiṅ
+  Is husn ke paikar ki ab tak hai maaṅ zinda
 
   8
-
-  Akber ka hasin chehra, jo dekhte rehte hai,
-
-  Sab kufiyon shami bhi, roro ke ye kehte hai,
-
-  Is husn ke paikar ki, ab tak hai maa zindaa
-
+  Maaṅ bahneṅ khule sar hai raahoṅ mein tamaashaai
+  Aulaad-e-Muhammad ko taqdir kahaaṅ laayi
+  Paaband-e-salaasil huṅ kaaṅtoṅ se bhara rasta
 
   9
-
-  Maa behne khule sar hai, raahon may tamashaai,
-
-  Aulaade Mohammed ko, taqdeer kahaan laayi,
-
-  Pabande silaasil hun, kaanton se bhara rasta
-
-
-  10
-
-  Tera hi kalam maula, teri hi zabaan maula,
-
-  Farhaan aur shoukat ki, aukaat kahaan maula,
-
-  Tauheed bhi karti hai, har waqt tera giryaa'
+  Tera hi qalam maula teri hi zabaaṅ maula
+  Farhan aur Shaukat ki auqaat kahaaṅ maula
+  Tauhid bhi karti hai har waqt tera girya
 # source_id: nohayonline:78786583819d86b19b8b
 # source_url: https://www.nohayonline.com/details_content.php?id=2768
 # raw_sha256: b529ef52a3599908750160be3e7e4a2b05359da947feb3cd49182fbc62c79559
@@ -110,16 +73,20 @@ romanLyrics: 'Haaye Sajjad, Haaye Bimaar
 # raw_sha256: 2f6c619e04269ed7fc6b379d3b9e90f2f8ca6794eff9336070f23f1850a966f7
 ---
 
+ہائے سجاد، ہائے بیمار
+
 میں چل بھی نہیں سکتا قیدی ہوں میں اماں
+
 بازار شام جب آیا سجاد کا دل گھبرایا
 رو رو کے پھپھی سے اپنی بیمار نے یہ فرمایا
+
 آنکھوں سے لہو میری ایک پل بھی نہیں رکتا
 میں چل بھی نہیں سکتا قیدی ہوں میں اماں
 
 ۱
 یہ خوں جو بہتا ہے اس آنکھ کا ماتم ہے
 مجھے طوق اور بیڑی کے غم سے بھی سوا غم ہے
-ماں بہنیں پھپھی آی بازار میں بے پردہ
+ماں بہنیں پھپھی آئی بازار میں بے پردہ
 
 ۲
 بس میرے کلیجے پہ اس وقت قضا اتری
@@ -127,9 +94,9 @@ romanLyrics: 'Haaye Sajjad, Haaye Bimaar
 بازار میں آیا ہے زنداں یہ میرا لاشہ
 
 ۳
-تطہیر کے پردہ دار امت نے پھراے ہیں
-اس بی بی کو لوگوں نے دربار دکھاے ہیں
-جس بی بی کا بابا نے چہرہ بھی نہیں دیکھا
+تطہیر کے پردہ دار امت نے پھرائے ہیں
+اس بی‌بی کو لوگوں نے دربار دکھائے ہیں
+جس بی‌بی کا بابا نے چہرہ بھی نہیں دیکھا
 
 ۴
 جب اہلِ ستم ہم پر برسانے لگے پتھر
@@ -137,13 +104,13 @@ romanLyrics: 'Haaye Sajjad, Haaye Bimaar
 جب ماں نے کہا مجھ سے تم کون ہو اے بیٹا
 
 ۵
-لاچار بہن میری سہمے ہوے رہتی تھی
+لاچار بہن میری سہمے ہوئے رہتی تھی
 معصوم سکینہ یہ ہر موڑ پہ کہتی تھی
-کیا دفن ہوے ہونگے کربل میں میرے بابا
+کیا دفن ہوئے ہوں گے کربل میں میرے بابا
 
 ۶
-عباس کو محشر تک یہ درد رلاے گا
-زینب کے کھلے سر کو وہ دیکھ نہ پاے گا
+عباس کو محشر تک یہ درد رلائے گا
+زینب کے کھلے سر کو وہ دیکھ نہ پائے گا
 غیرت کے خدا کا سر نیزے پہ نہیں رکتا
 
 ۷
@@ -153,7 +120,7 @@ romanLyrics: 'Haaye Sajjad, Haaye Bimaar
 
 ۸
 ماں بہنیں کھلے سر ہے راہوں میں تماشائی
-اولاد محمد کو تقدیر کہاں لای
+اولاد محمد کو تقدیر کہاں لائی
 پابند سلاسل ہوں کانٹوں سے بھرا رستہ
 
 ۹
