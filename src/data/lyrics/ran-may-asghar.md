@@ -1,59 +1,60 @@
 ---
-title: "رن میں اصغر تیر کھانے آ گےء"
-alternateTitle: "Ran May Asghar"
+title: "رن میں اصغر تیر کھانے آ گئے"
+alternateTitle: "Ran Mein Asghar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ahmed Naved"
+reciter: "Sajid Jafri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ran may asghar teer khane aagaye
-  Teer kha kar muskurane aagaye
+  Ran meiṅ Asghar tir khaane aa gaye
+  Tir khaa kar muskuraane aa gaye
 
   1
-  Aagaye le kar tabassum ki ada
-  Fauje aada ko rulaane aagaye
+  Aa gaye le kar tabassum ki ada
+  Fauj-e-aadaa ko rulaane aa gaye
 
   2
-  Aaye kya maidan may asghar ay khuda
-  Saath unke sab zamane aagaye
+  Aaye kya maidaan meiṅ Asghar ae Khuda
+  Saath un ke sab zamaane aa gaye
 
   3
-  Chahiye thi ek jahan ko roshni
-  Ek diya khoon se jalane aagaye
+  Chaahiye thi ik jahaaṅ ko roshni
+  Ik diya khuṅ se jalaane aa gaye
 
   4
-  Baat to rakhna thi teri ay khuda
-  Khoon may asghar nahane aagaye
+  Baat to rakhna thi teri ae Khuda
+  Khun meiṅ Asghar nahaane aa gaye
 
   5
-  Moo pe jab asghar ka khoon sheh ne mala
-  Ambiya bhi sar jhukane aagaye
+  Munh pe jab Asghar ka khuṅ Sheh ne mala
+  Ambiya bhi sar jhukaane aa gaye
 
   6
-  Maa thi jhoole se abhi lipti hui
-  Aur udoo jhoola jalane aagaye
+  Maaṅ thi jhule se abhi lipti hui
+  Aur adu jhula jalaane aa gaye
 
   7
-  Jab azakhana saja dekha naved
-  Hum bhi ek nauha sunane aagaye
+  Jab azaakhaana saja dekha Naved
+  Ham bhi ek nauha sunaane aa gaye
 # source_id: nohayonline:3c9e1d83c089a46a5235
 # source_url: https://www.nohayonline.com/details_content.php?id=971
 # raw_sha256: cc60ab71d66b7e03f4fa3463186d7b4302624bfc972b141fff51ba9ec4bb7446
 ---
-رن میں اصغر تیر کھانے آ گےء
-تیر کھا کر مسکرانے آ گےء
+رن میں اصغر تیر کھانے آ گئے
+تیر کھا کر مسکرانے آ گئے
 
 ۱
 آگیا لے کر تبسم کی ادا
-فوج اعدا کو رلانے آ گےء
+فوج اعدا کو رلانے آ گئے
 
 ۲
-آے کیا میدان میں اصغر خدا
-ساتھ ان کے سب زمانے آ گےء
+آئے کیا میدان میں اصغر خدا
+ساتھ ان کے سب زمانے آ گئے
 
 ۳
 چاہیے تھی اک جہاں کو روشنی
@@ -61,7 +62,7 @@ romanLyrics: |-
 
 ۴
 بات تو رکھنا تھی تیری اے خدا
-خون میں اصغر نہانے آ گےء
+خون میں اصغر نہانے آ گئے
 
 ۵
 منہ پہ جب اصغر کا خوں شہ نے ملا
@@ -69,8 +70,8 @@ romanLyrics: |-
 
 ۶
 ماں تھی جھولے سے ابھی لپٹی ہوئی
-اور عدو جھولا جلانے آگےء
+اور عدو جھولا جلانے آ گئے
 
 ۷
 جب عزاخانہ سجا دیکھا نوید
-ہم بھی ایک نوحہ سنانے آگےء
+ہم بھی ایک نوحہ سنانے آ گئے
