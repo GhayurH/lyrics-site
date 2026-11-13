@@ -6,53 +6,54 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Arsalan Azmi"
+reciter: "Mesum Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Logon ye shehr e kufa muslim ki karbala hai
-  Ek be-watan yahan bhi faujon mein ghir gaya hai
+  Logoṅ ye shehr-e-Kufa Muslim ki Karbala hai
+  Ek bewatan yahaaṅ bhi faujoṅ mein ghir gaya hai
 
   1
-  Ashoor se bhi pehle ashoor ka hai manzar
-  Khush ho rahe hai zaalim muslim ka khoon baha kar
-  Talwaar hai layeen ki mazloom ka gala hai
+  Aashur se bhi pehle Aashur ka hai manzar
+  Khush ho rahe haiṅ zaalim Muslim ka khuṅ baha kar
+  Talwaar hai laiṅ ki mazlum ka gala hai
 
   2
-  Barse hai teer is par maare gaye hai naize
-  Laakhon se phir bhi muslim ladta raha akele
+  Barse haiṅ tir is par maare gaye haiṅ neze
+  Laakhoṅ se phir bhi Muslim larta raha akele
   Na bhai hai na bete na koi aasra hai
 
   3
-  Phaynka gaya hai jis dam inko bulandiyon se
-  Awaaz tootne ki aayi thi pasliyon se
-  Mazloom ke labon par bas haye sayyeda hai
+  Phainka gaya hai jis dam in ko bulandiyoṅ se
+  Aawaaz tutne ki aayi thi pasliyoṅ se
+  Mazlum ke laboṅ par bas haye Sayyeda hai
 
   4
   Hota gaya izaafa bekas ki bekasi mein
-  Khayncha gaya hai laasha kufe ki har gali mein
-  Shabbir ki tarha se sar jism se juda hai
+  Khincha gaya hai laasha Kufe ki har gali mein
+  Shabbir ki tarah se sar jism se juda hai
 
   5
-  Kufe mein dar badar thay muslim ke shaahzade
+  Kufe mein dar badar the Muslim ke shahzade
   Apne padar ko aakhir kaise kafan wo dete
   Sajjad par jo aaya waisa hi marhala hai
 
   6
-  Qasid shahe huda ka pyasa tha be watan tha
-  Chalees din hue thay laasha bhi be kafan tha
+  Qaasid shah-e-Huda ka pyaasa tha bewatan tha
+  Chaalis din hue the laasha bhi bekafan tha
   Jo sheh ke saath hoga sab kuch wohi hua hai
 
   7
-  Azlan aur mesum tha sayyeda ka nauha
-  Ay mere laal tujhko maara gaya hai pyasa
-  Muslim ki laash par bhi zehra ki ye buka hai
+  Azlan aur Mesum tha Sayyeda ka noha
+  Ae mere laal tujh ko maara gaya hai pyaasa
+  Muslim ki laash par bhi Zehra ki ye buka hai
 # source_id: nohayonline:ccc366d47e3793c51fe3
 # source_url: https://www.nohayonline.com/details_content.php?id=1315
 # raw_sha256: 052814a9c8bc4307f533543ad96187f404f4127509ea1c67d7304c198cee3153
 ---
 لوگوں یہ شہرِ کوفہ مُسلم کی کربلا ہے
-ایک بے وطن یہاں بھی فوجوں میں گھر گیا ہے
+ایک بے وطن یہاں بھی فوجوں میں گھِر گیا ہے
 
 ۱
 عاشور سے بھی پہلے عاشور کا ہے منظر
@@ -80,11 +81,11 @@ romanLyrics: |-
 سجاد پر جو آیا ویسا ہی مرحلہ ہے
 
 ۶
-قاصد شہ ہدیٰ کا پیاسا تھا بے وطن تھا
+قاصد شہِ ہدیٰ کا پیاسا تھا بے وطن تھا
 چالیس دن ہوئے تھے لاشہ بھی بے کفن تھا
 جو شہ کے ساتھ ہوگا سب کچھ وہی ہوا ہے
 
 ۷
 ازلان اور میثم تھا سیدہ کا نوحہ
-ہاے میرے لال تجھ کو مارا گیا ہے پیاسا
+ہائے میرے لال تجھ کو مارا گیا ہے پیاسا
 مُسلم کی لاش پر بھی زہرا کی یہ بکا ہے
