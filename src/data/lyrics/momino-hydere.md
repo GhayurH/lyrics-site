@@ -1,45 +1,46 @@
 ---
-title: مومنو!حیدرِ کرار کا ماتم کرلو
-alternateTitle: Momino Hydere
+title: مومنو! حیدرِ کرار کا ماتم کر لو
+alternateTitle: Momino Haider-e-Karraar Ka Maatam Kar Lo
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Fazal Elahi Jaffri"
+reciter: "Nadeem Sarwar; Jawad ul Hassan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Momino hyder e karrar ka matam kar lo
-  Haa mohamed ke alamdar ka matam kar lo
+  Momino Haider-e-Karraar ka maatam kar lo
+  Haaṅ Muhammad ke alamdaar ka maatam kar lo
 
   1
-  Khaak udao ke ali shere khuda maare gaye
-  Baazu e ahmed e mukhtar ka matam kar lo
+  Khaak uraao ke Ali Sher-e-Khuda maare gaye
+  Baazu-e-Ahmad-e-Mukhtaar ka maatam kar lo
 
   2
-  Jis ke dar se na gaya khaali sawali koi
-  Us saqi saahib e kirdaar ka matam kar lo
+  Jis ke dar se na gaya khaali sawaali koi
+  Us saaqi saahib-e-kirdaar ka maatam kar lo
 
   3
-  Jo ke paancho may bhi hai bara imamon bhi hai
-  Saare nabiyon ke madadgaar ka matam kar lo
+  Jo ke paanchoṅ mein bhi hai baarah imaamoṅ mein bhi hai
+  Saare nabiyoṅ ke madadgaar ka maatam kar lo
 
   4
-  Har wali kehta hai ye kar ke ali ka matam
-  Mere aaqa mere sarkar ka matam kar lo
+  Har wali kehta hai ye kar ke Ali ka maatam
+  Mere aaqa mere sarkaar ka maatam kar lo
 
   5
-  Mil ke jibreel ke ustad ka pursa dedo
-  Saahib e duldul o talwaar ka matam kar lo
+  Mil ke Jibril ke ustaad ka pursa de do
+  Saahib-e-Duldul o talwaar ka maatam kar lo
 
   6
-  Apne qaatil ko diya jisne ke jaam e shireen
-  Kausari jaam ke mukhtar ka matam kar lo
+  Apne qaatil ko diya jis ne ke jaam-e-shiriṅ
+  Kausar-e-jaam ke mukhtaar ka maatam kar lo
 
   7
-  Kufa o karbobala shaam se aati hai sada
-  Ujde sadaat ke gulzaar ka matam kar lo
+  Kufa o Karb o Bala Shaam se aati hai sada
+  Ujre saadaat ke gulzaar ka maatam kar lo
 # source_id: nohayonline:3d3f961f5325a84877cf
 # source_url: https://www.nohayonline.com/details_content.php?id=144
 # raw_sha256: 716650eb36092ccf0d3782cb35a6b6e75674c49b518b2bfb212b1bd521a42f71
@@ -47,16 +48,16 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1744
 # raw_sha256: 73f4b6563a5d50a83c15320d61b19ebdea6d670b760568bf64933f37d81b14ef
 ---
-مومنو!حیدرِ کرار کا ماتم کرلو
+مومنو! حیدرِ کرار کا ماتم کر لو
 ہاں محمد کے علمدار کا ماتم کر لو
 
 ۱
-خاک اُڑھائو کے علی شیر خدا مارے گئے
+خاک اُڑاؤ کے علی شیر خدا مارے گئے
 بازوئے احمد مختار کا ماتم کر لو
 
 ۲
 جس کے در سے نہ گیا خالی سوالی کوئی
-ان سقی صاحب کردار کا ماتم کر لو
+اس ساقی صاحب کردار کا ماتم کر لو
 
 ۳
 جو کے پانچوں میں بھی ہے بارہ اماموں میں بھی ہے
@@ -68,7 +69,7 @@ romanLyrics: |-
 
 ۵
 مل کے جبرئیل کے استاد کا پُرسہ دے دو
-صاحبِ دُلدُل و تلوار
+صاحبِ دُلدُل و تلوار کا ماتم کر لو
 
 ۶
 اپنے قاتل کو دیا جس نے کے جامِ شیریں

@@ -1,71 +1,70 @@
 ---
 title: "مومنوں حیدر کرار بلاتے ہیں تمہیں"
-alternateTitle: "Momino Hydere Karar"
+alternateTitle: "Mominoṅ Haider-e-Karraar Bulaate Haiṅ Tumheṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Aarzoo"
+reciter: "Tableegh e Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Momino hyder e karrar bulaate hai tumhe
-  
   1
-  Daastan e ghame shabbir sunate hai tumhe
-  Dil e abid ka har ek zakhm dikhate hai tumhe
-  Khud bhi rote hai sar e bazm rulaate hai tumhe
-  Jalte qaimon se jo sholon ki lapak aati hai
+  Mominoṅ Haider-e-Karraar bulaate haiṅ tumheṅ
+  Daastaan-e-gham-e-Shabbir sunaate haiṅ tumheṅ
+  Dil-e-Aabid ka har ek zakhm dikhaate haiṅ tumheṅ
+  Khud bhi rote haiṅ sar-e-bazm rulaate haiṅ tumheṅ
+  Jalte khaimoṅ se jo sholoṅ ki lapak aati hai
   Shaam ke dasht mein bijli si chamak jaati hai
-  
+
   2
-  Saf e matam hai bapa is mein bhi shirkat ho jaaye
-  Chand aansu jo baha loge ibadat ho jaaye
-  Sar khule aao ke takmeel e mohabbar ho jaaye
-  Is tarha hazrate shabbir ki bayyat ho jaaye
-  Fatema zehra bhi hai sayyed e abraar bhi hai
-  Yehi majlis hai jahan ahmed e mukhtar bhi hai
-  
+  Saf-e-maatam hai bapa is mein bhi shirkat ho jaaye
+  Chand aansuṅ jo baha loge ibaadat ho jaaye
+  Sar khule aao ke takmil-e-mohabbat ho jaaye
+  Is tarah Hazrat-e-Shabbir ki baiat ho jaaye
+  Faatima Zehra bhi hai Sayyid-e-Abraar bhi hai
+  Yehi majlis hai jahaaṅ Ahmad-e-Mukhtaar bhi hai
+
   3
-  Chashme hyder mein hai aansu zara matam kar lo
-  Saf azadaar ki is bazm mein qaayam kar lo
-  Jo ta'alluq hai nabi zaadon se mohkam kar lo
-  Ghame shabbir ko har haal mein mehram kar lo
-  Ya hussain ibne ali ibne ali kehte raho
-  Ashk ban ban ke sar e karbobala behte raho
-  
+  Chashm-e-Haider mein hai aansuṅ zara maatam kar lo
+  Saf azaadaar ki is bazm mein qiyaam kar lo
+  Jo taalluq hai nabi zaadoṅ se mohkam kar lo
+  Gham-e-Shabbir ko har haal mein mahram kar lo
+  Ya Husain ibn-e-Ali ibn-e-Ali kehte raho
+  Ashk ban ban ke sar-e-Karb o Bala behte raho
+
   4
-  Dekho shabbir ka kuchla hua laasha dekho
-  Nanhi si qabr mein asghar ka janaza dekho
-  Ali akbar ka ubalta hua seena dekho
-  Kitna majboor hai saqqa e sakina dekho
-  Bhai ne paayi shahadat raha tanha bhai
-  Pyaas ay hussain ali asghar ki na bujhne paayi
-  
+  Dekho Shabbir ka kuchla hua laasha dekho
+  Nanhi si qabr mein Asghar ka janaaza dekho
+  Ali Akbar ka ubalta hua sina dekho
+  Kitna majbur hai saqqa-e-Sakina dekho
+  Bhaai ne paai shahaadat raha tanha bhaai
+  Pyaas Ae Husain Ali Asghar ki na bujhne paai
+
   5
-  Majlise shaam e ghariban hui barpa logon
-  Bekafan soti hai laashe dil e zehra logon
-  Teen din hogaye pyasi hai sakina logon
-  Ab to do zainab e dilgeer ko pursa logon
-  Kis khadar aale mohamed pe sitam toote hai
-  Zaalimon ne badi shiddat se haram loote hai
-  
+  Majlis-e-Shaam-e-Gharibaaṅ hui barpa logoṅ
+  Bekafan soti hai laash-e-dil-e-Zehra logoṅ
+  Tin din ho gaye pyaasi hai Sakina logoṅ
+  Ab to do Zainab-e-dilgir ko pursa logoṅ
+  Kis qadar Aal-e-Muhammad pe sitam tute haiṅ
+  Zaalimoṅ ne bari shiddat se haram lute haiṅ
+
   6
-  Kahin yaseen kahin taaha ki tajalli un mein
-  Kahin rehman o muzammil ki tashaffi un mein
-  Kahin kausar kahin asraa ki ta'alli un mein
-  Kahin tatheer ki pur noor tasalli un mein
-  Naam hum kaun sa le saikdon naam unke hai
-  Aarzoo jinka nahi koi imam unke hai
+  Kahiṅ Yaasin kahiṅ Taaha ki tajalli un mein
+  Kahiṅ Rahmaan o Muzzammil ki tashaffi un mein
+  Kahiṅ Kausar kahiṅ Isra ki taalli un mein
+  Kahiṅ Tathir ki purnur tasalli un mein
+  Naam hum kaun sa le saikroṅ naam un ke haiṅ
+  Aarzoo jin ka nahiṅ koi imaam un ke haiṅ
 # source_id: nohayonline:0f71940c8e45a3792b70
 # source_url: https://www.nohayonline.com/details_content.php?id=3461
 # raw_sha256: aa85a4314ec40da38761934891fc3c3cb26b1715d3b067017b8176e4126e92c3
 ---
 
-مومنوں حیدر کرار بلاتے ہیں تمہیں
-
 ۱
+مومنوں حیدر کرار بلاتے ہیں تمہیں
 داستان غم شبیر سناتے ہیں تمہیں
 دل عابد کا ہر ایک زخم دکھاتے ہیں تمہیں
 خود بھی روتے ہیں سر بزم رلاتے ہیں تمہیں
@@ -81,7 +80,7 @@ romanLyrics: |-
 یہی مجلس ہے جہاں احمد مختار بھی ہے
 
 ۳
-چشمِ حیدر میں ہے آنسوں زرا ماتم کر لو
+چشمِ حیدر میں ہے آنسوں ذرا ماتم کر لو
 صف عزادار کی اس بزم میں قیام کر لو
 جو تعلق ہے نبی زادوں سے محکم کر لو
 غم شبیر کو ہر حال میں محرم کر لو
@@ -93,13 +92,13 @@ romanLyrics: |-
 ننھی سی قبر میں اصغر کا جنازہ دیکھو
 علی اکبر کا ابلتا ہوا سینہ دیکھو
 کتنا مجبور ہے سقاے سکینہ دیکھو
-بھای نے پای شہادت رہا تنہا بھای
-پیاس اے حسین علی اصغر کی نہ بجھنے پای
+بھائی نے پائی شہادت رہا تنہا بھائی
+پیاس اے حسین علی اصغر کی نہ بجھنے پائی
 
 ۵
-مجلسِ شام غریباں ہوی برپا لوگوں
+مجلسِ شام غریباں ہوئی برپا لوگوں
 بیکفن سوتی ہے لاش دل زہرا لوگوں
-تین دن ہو گےء پیاسی ہے سکینہ لوگوں
+تین دن ہو گئے پیاسی ہے سکینہ لوگوں
 اب تو دو زینب دلگیر کو پرسہ لوگوں
 کس قدر آل محمد پہ ستم ٹوٹے ہیں
 ظالموں نے بڑی شدت سے حرم لوٹے ہیں
@@ -108,6 +107,6 @@ romanLyrics: |-
 کہیں یاسین کہیں طاہا کی تجلی ان میں
 کہیں رحمان و مزمل کی تشفی ان میں
 کہیں کوثر کہیں اسرا کی تعلی ان میں
-کہیں تطہیر کی پر نور تسلی ان‌ میں
+کہیں تطہیر کی پر نور تسلی ان میں
 نام ہم کونسا لے سیکڑوں نام ان کے ہیں
 آرزو جن کا نہیں کوئی امام ان کے ہیں
