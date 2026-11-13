@@ -6,56 +6,57 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shaheede karbala ka
-  Mazloome karbala ka
-  Farzande mustufa ka
-  Matam rahega hussain ka
+  Shahid-e-Karbala ka
+  Mazlum-e-Karbala ka
+  Farzand-e-Mustafa ka
+  Matam rahega Husain ka
 
   1
-  Jaari rahega ye hukme khuda se
-  Ghar ghar mein bapa hai zainab ki ata se
-  Rukne nahi denge matam ka silsila
-  Waada hai hamara ye sher e khuda se
+  Jaari rahega ye hukm-e-Khuda se
+  Ghar ghar meiṅ bapa hai Zainab ki ata se
+  Rukne nahiṅ deṅge matam ka silsila
+  Waada hai hamaara ye Sher-e-Khuda se
 
   2
-  Bhoolenge nahi hum ta hashr sheh ka gham
-  Ye nauha padhenge jab tak hai dam mein dam
-  Aankhon mein rahega barsaat ka mausam
+  Bhuleṅge nahiṅ ham taa hashr sheh ka gham
+  Ye nauha parheṅge jab tak hai dam meiṅ dam
+  Aankhoṅ meiṅ rahega barsaat ka mausam
   Gham ho ya khushi ho bas hoga tera gham
 
   3
-  Matam hai qayadat matam hai riyazat
-  Hum ahle aza ki matam hai zaroorat
-  Nauha hi azan hai nauha hi aqamat
+  Matam hai qiyaadat matam hai riyaazat
+  Ham ahl-e-aza ki matam hai zarurat
+  Nauha hi azaaṅ hai nauha hi iqaamat
   Sajda bhi ibadat matam bhi ibadat
 
   4
-  Mansab ye bada hai humko jo mila hai
-  Matam ke liye jo zehra ne chuna hai
-  Taqleeq hame jo khaaliq ne kiya hai
-  Taqleeq ka maqsad matam hi rakha hai
+  Mansab ye bara hai ham ko jo mila hai
+  Matam ke liye jo Zehra ne chuna hai
+  Takhliq hameiṅ jo Khaaliq ne kiya hai
+  Takhliq ka maqsad matam hi rakha hai
 
   5
   Matam hi wafa hai matam hi baqa hai
-  Matam ka musalla ye farshe aza hai
-  Tareekh jo kholo us mein ye likha hai
-  Ye matam o nauha nabiyon ne kiya hai
+  Matam ka musalla ye farsh-e-aza hai
+  Taarikh jo kholo us meiṅ ye likha hai
+  Ye matam o nauha nabiyoṅ ne kiya hai
 
   6
-  Tatheer ka matam hamsheer ka matam
-  Quran e aza ki tafseer ka matam
-  Sajjad ke gham mein zanjeer ka matam
-  Har haal mein karna dilgeer ka matam
+  Tathir ka matam hamshir ka matam
+  Quraan-e-aza ki tafsir ka matam
+  Sajjad ke gham meiṅ zanjir ka matam
+  Har haal meiṅ karna dilgir ka matam
 
   7
-  Farhan se mazhar ye kehta hai ro kar
-  Ye matam o nauha hai karz lahoo par
-  Tehreer hamari awaaz tumhari
-  Haa zinda rakhenge matam ko zameen par
+  Farhan se Mazhar ye kehta hai ro kar
+  Ye matam o nauha hai qarz lahu par
+  Tahrir hamaari aawaaz tumhaari
+  Haaṅ zinda rakheṅge matam ko zamiṅ par
 # source_id: nohayonline:d595f61bd82ecd23d7b1
 # source_url: https://www.nohayonline.com/details_content.php?id=940
 # raw_sha256: 44014009df70039aa2e01bf00de2e06054540047ec5cfe8c214f54ee8b0eb515
@@ -86,8 +87,8 @@ romanLyrics: |-
 ۴
 منصب یہ بڑا ہے ہم کو جو ملا ہے
 ماتم کے لئے جو زہرا نے چنا ہے
-تقلیق ہمیں جو خالق نے کیا ہے
-تقلیق کا مقصد ماتم ہی رکھا ہے
+تخلیق ہمیں جو خالق نے کیا ہے
+تخلیق کا مقصد ماتم ہی رکھا ہے
 
 ۵
 ماتم ہی وفا ہے ماتم ہی بقا ہے

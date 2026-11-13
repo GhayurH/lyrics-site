@@ -1,43 +1,48 @@
 ---
-title: "حیا علی خیر العمل"
+title: "حی علیٰ خیر العمل"
 alternateTitle: "Matami"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Salamat Feroz"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haya ala qairil amal
-  Ye matami jo rehte hai har waqt ashk baar
-  Na bhoole hai ye bazaar na bhoole darbaar
-  Palkon ka jhapakna hi jinka karna ho matam
-  Kya matam e zanjeer ho kya matam e talwaar
+  Hayya ala khairil amal
+
+  Ye matami jo rehte haiṅ har waqt ashk baar
+  Na bhule haiṅ ye baazaar na bhule darbaar
+
+  Palkoṅ ka jhapakna hi jin ka karna ho matam
+  Kya matam-e-zanjir ho kya matam-e-talwaar
 
   1
-  Kaise wo isay chod de ke jin ki jahan mein
-  Matam ki sadaon se chale saans ki raftaar
+  Kaise wo ise chhor de ke jin ki jahaaṅ meiṅ
+  Matam ki sadaaoṅ se chale saans ki raftaar
 
   2
-  Takbeer uthe haath jhuke dil se hai sajda
-  Ye aise namazi hai ye zehra ke azadaar
+  Takbir uthe haath jhuke dil se hai sajda
+  Ye aise namaazi haiṅ ye Zehra ke azaadaar
 
   3
-  Naam e hussain se wo juda ho nahi sakte
-  Gardan juda jo tan se ho karwane ko tayyar
+  Naam-e-Husain se wo juda ho nahiṅ sakte
+  Gardan juda jo tan se ho karwaane ko tayyaar
 
   4
-  Maalik ki mashiyat ki hai takhleeq ye insan
-  Zehra ki mashiyat ki hai takhleeq ye azadaar
+  Maalik ki mashiyat ki hai takhliq ye insaan
+  Zehra ki mashiyat ki hai takhliq ye azaadaar
 # source_id: nohayonline:713629f74bf7f301dde9
 # source_url: https://www.nohayonline.com/details_content.php?id=2338
 # raw_sha256: 6d327e71976aaa9411475aced2e435442f5984821c427def85d29adffa0a96fa
 ---
-حیا علی خیر العمل
+حی علیٰ خیر العمل
+
 یہ ماتمی جو رہتے ہیں ہر وقت اشک بار
 نہ بھولے ہیں یہ بازار نہ بھولے دربار
+
 پلکوں کا جھپکنا ہی جن کا کرنا ہو ماتم
 کیا ماتم زنجیر ہو کیا ماتم تلوار
 
