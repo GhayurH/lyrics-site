@@ -9,36 +9,36 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Nikla hai janaza koi allah ke ghar se
-  Aflaaq mein ek shor hai matam ke asar se
+  Nikla hai janaaza koi Allah ke ghar se
+  Aflaak meiṅ ik shor hai maatam ke asar se
 
   1
-  Afsos ke masjid mein namazi gaya maara
-  Kuch kam nahi ye hashr qayamat ke asar se
+  Afsos ke masjid meiṅ namaazi gaya maara
+  Kuch kam nahiṅ ye hashr qayaamat ke asar se
 
   2
-  Shabbir ko yaad aagayi khud apni sakina
-  Zainab ko hataya gaya jab laashe padar se
+  Shabbir ko yaad aa gayi khud apni Sakina
+  Zainab ko hataaya gaya jab laash-e-padar se
 
   3
-  Abbas zara zainab e muztar se khabar daar
-  Faryad mein hat jaaye na chadar kahin sar se
+  Abbas zara Zainab-e-Muztar se khabardaar
+  Faryaad meiṅ hat jaaye na chaadar kahiṅ sar se
 
   4
-  Yaad aagaya zainab ko wo pehlu e shikasta
-  Rumaal hataya gaya baba ke jo sar se
+  Yaad aa gaya Zainab ko woh pehlu-e-shikasta
+  Rumaal hataaya gaya baaba ke jo sar se
 
   5
-  Zainab se ye kehdo ke wo dil khol ke roye
-  Shabbir ki hamsheer hai rone ko na tarse
+  Zainab se ye keh do ke woh dil khol ke roye
+  Shabbir ki hamshir hai rone ko na tarse
 
   6
-  Haan bhool na jaane inhe kufe ke makeeno
-  Guzrengi ye shehzadiyan is raah guzar se
+  Haaṅ bhul na jaana inheiṅ Kufe ke makinoṅ
+  Guzreiṅ gi ye shehzaadiyaṅ is raah guzar se
 
   7
-  As'haab bhi sun paaye na jis bibi ki aahat
-  Sar nange wohi guzregi is raah guzar se
+  Ashaab bhi sun paaye na jis Bibi ki aahat
+  Sar nange wohi guzre gi is raah guzar se
 reciter: Meer Hasan Meer
 # source_id: nohayonline:39e9c8959fb3c73fb9c9
 # source_url: https://www.nohayonline.com/details_content.php?id=2573
@@ -55,25 +55,25 @@ reciter: Meer Hasan Meer
 کچھ کم نہیں یہ حشر قیامت کے اثر سے
 
 ۲
-شبیر کو یاد آ گیء خود اپنی سکینہ
+شبیر کو یاد آ گئی خود اپنی سکینہ
 زینب کو ہٹایا گیا جب لاش پدر سے
 
 ۳
-عباس زرا زینبِ مضطر سے خبر دار
-فریاد میں ہٹ جاے نہ چادر کہیں سر سے
+عباس ذرا زینبِ مضطر سے خبردار
+فریاد میں ہٹ جائے نہ چادر کہیں سر سے
 
 ۴
-یاد آ گیا زینب کو وہ پہلوے شکستہ
+یاد آ گیا زینب کو وہ پہلوئے شکستہ
 رومال ہٹایا گیا بابا کے جو سر سے
 
 ۵
-زینب سے یہ کہدو کہ وہ دل کھول کے روے
-شبیر کی ہمشیر ہے رونے کو ترسے
+زینب سے یہ کہہ دو کہ وہ دل کھول کے روئے
+شبیر کی ہمشیر ہے رونے کو نہ ترسے
 
 ۶
 ہاں بھول نہ جانا انہیں کوفے کے مکینوں
 گزریں گی یہ شہزادیاں اس راہ گزر سے
 
 ۷
-اصحاب بھی سن پاے نہ جس بی بی کی آہٹ
+اصحاب بھی سن پائے نہ جس بی‌بی کی آہٹ
 سر ننگے وہی گزرے گی اس راہ گزر سے

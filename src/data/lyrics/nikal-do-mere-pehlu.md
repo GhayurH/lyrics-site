@@ -1,76 +1,77 @@
 ---
 title: "تڑپ کے فاطمہ زہرا سے شاہ نے یہ کہا"
-alternateTitle: "Nikal Do Mere Pehlu"
+alternateTitle: "Nikaal Do Mere Pehlu"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shams Rizvi"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Tadap ke fatema zehra se shaah ne ye kaha
-  Nikaal do mere pehlu se teer ay amma
+  Tarap ke Fatima Zehra se shaah ne ye kaha
+  Nikaal do mere pehlu se tir ae ammaṅ
   Muhaal hai mera karwat bhi lena dekho zara
-  Nikal do nikal do
+  Nikaal do nikaal do
 
   1
-  Hazaron teer thay paywast shaah ke tan par
+  Hazaaroṅ tir the paiwast shaah ke tan par
   Likha hai raavi ne wo khauf naak ek manzar
-  Hussain teeron pe kehte thay aake ay amma
+  Husain tiroṅ pe kehte the aa ke ae ammaṅ
 
   2
-  Wo kaun sa hai sitam jo kiya nahi mujh par
-  Sitam bhi rota hai dekho hamari ghurbat par
-  Hai paash paash badan amma tere bete ka
+  Woh kaun sa hai sitam jo kiya nahiṅ mujh par
+  Sitam bhi rota hai dekho hamaari ghurbat par
+  Hai paash paash badan ammaṅ tere bete ka
 
   3
-  Diya hai nana ki ummat ne ye sila mujhko
-  Na ek khatra bhi pani ka mil saka mujhko
-  Ab haddiyon ki zaban par hai pyaas ka kalma
+  Diya hai naana ki ummat ne ye sila mujh ko
+  Na ek qatra bhi paani ka mil saka mujh ko
+  Ab haddiyoṅ ki zabaaṅ par hai pyaas ka kalma
 
   4
-  Mai kaise zeen se amma zameen par aaun
-  Zameen pe aake mai thoda sa phir sukoon paun
-  Chubhan hai aisi tadapta hai aap ka beta
+  Maiṅ kaise zin se ammaṅ zamin par aauṅ
+  Zamiṅ pe aa ke maiṅ thora sa phir sukuṅ paauṅ
+  Chubhan hai aisi tarapta hai aap ka beta
 
   5
-  Ye teen teer hai paywast mere pehlu mein
-  Jigar fighaar hai saansein nahi hai qaabu mein
-  Hai dard itna tumhe mai bata nahi sakta
+  Ye tin tir hai paiwast mere pehlu meiṅ
+  Jigar figaar hai saaṅseiṅ nahiṅ hai qaabu meiṅ
+  Hai dard itna tumheiṅ maiṅ bata nahiṅ sakta
 
   6
-  Ke dard kehte hai kisko ye maine jaana hai
-  Teri tarha mera pehlu bhi maa shikasta hai
-  Teri rida ki tarha chaak jism hai mera
+  Ke dard kehte haiṅ kis ko ye maiṅ ne jaana hai
+  Teri tarah mera pehlu bhi maaṅ shikasta hai
+  Teri rida ki tarah chaak jism hai mera
 
   7
-  Rula rula ke mujhe zaalimon ne maara hai
+  Rula rula ke mujhe zaalimoṅ ne maara hai
   Badan to dekho mera jaise paara paara hai
-  Hai bhooka pyasa tumhara ye laadla beta
+  Hai bhuka pyaasa tumhaara ye laadla beta
 
   8
-  Kisi ne barchiyan maari kisi ne teer o tabar
+  Kisi ne barchhiyaṅ maari kisi ne tir o tabar
   Kisi ko kuch na mila to utha liya patthar
-  Kuch is tarha se badan chalni kar diya mera
+  Kuch is tarah se badan chhalni kar diya mera
 
   9
-  Gala hai khushk zaban khushk kund hai khanjar
-  Jabeen jhukaye huwe keh rahe thay ye sarwar
-  Zuban pe sheh ke tha subhana rabbial aala
+  Gala hai khushk zabaaṅ khushk kund hai khanjar
+  Jabiṅ jhukaaye hue keh rahe the ye Sarwar
+  Zabaaṅ pe sheh ke tha subhaana rabbiyal aala
 
   10
-  Ay shams tera muqaddar likha hai daawar ne
-  Urooj baksha hai aamir jahan mein sarwar ne
-  Bala ki dasht mein goonja tha bas yehi nauha
+  Ae Shams tera muqaddar likha hai Daawar ne
+  Uruj bakhsha hai Aamir jahaaṅ meiṅ Sarwar ne
+  Bala ki dasht meiṅ gunja tha bas yehi nauha
 # source_id: nohayonline:aa11f29a8e2e0cfe0ee7
 # source_url: https://www.nohayonline.com/details_content.php?id=3116
 # raw_sha256: e6d544eb06c4b23cbbbbaafdb8968838c8dd6ac67343614c98176bd119795f45
 ---
 تڑپ کے فاطمہ زہرا سے شاہ نے یہ کہا
 نکال دو میرے پہلو سے تیر اے اماں
-محال ہے میرا کروٹ بھی لینا دیکھو زرا
+محال ہے میرا کروٹ بھی لینا دیکھو ذرا
 نکال دو نکال دو
 
 ۱
@@ -84,8 +85,8 @@ romanLyrics: |-
 ہے پاش پاش بدن اماں تیرے بیٹے کا
 
 ۳
-دیا ہے نانا کی امت نے یہ صلہ مجھکو
-نہ ایک خطرہ بھی پانی کا مل سکا مجھکو
+دیا ہے نانا کی امت نے یہ صلہ مجھ کو
+نہ ایک قطرہ بھی پانی کا مل سکا مجھ کو
 اب ہڈیوں کی زباں پر ہے پیاس کا کلمہ
 
 ۴
