@@ -1,103 +1,104 @@
 ---
-title: "لاشے پہ مرتظی کے تھی جبریل کی فغاں"
+title: "لاشے پہ مرتضیٰ کے تھی جبریل کی فغاں"
 alternateTitle: "Laashe Pe Murtaza"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Ali Khan Lakhnavi"
+reciter: "Zawwar Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Laashe pa murtuza ke thi jibreel ki fughan
-  Haye haye shaheed ho gaye maula e do jahan
+  Laashe pe Murtaza ke thi Jibril ki fughaaṅ
+  Haaye haaye shahid ho gaye Maula-e-do jahaaṅ
 
   1
-  Dunya hassan hussain ki andher ho gayi
-  Is kamsini may bachon pa toota hai aasman
+  Duniya Hasan Husain ki andher ho gayi
+  Is kamsini mein bachchoṅ pe tuta hai aasmaaṅ
 
   2
-  Afsos maa ke baad may baba guzar gaye
-  Aansu lahoo ke zainab e muztar ke hai rawan
+  Afsos maaṅ ke baad mein baba guzar gaye
+  Aansu lahu ke Zainab-e-muztar ke hai rawaaṅ
 
   3
-  Sajde may sar hai khoon se musalla lahoo lahoo
-  Maari hai rozedaar ke wo zarbat e garan
+  Sajde mein sar hai khun se musalle lahu lahu
+  Maari hai rozedaar ke wo zarbat-e-giraaṅ
 
   4
-  Hoor o malak hai ambiya aur hai ghame ali
-  Farshe aza e murtuza lagta hai aasman
+  Hur o malak hai ambiya aur hai gham-e-Ali
+  Farsh-e-aza-e-Murtaza lagta hai aasmaaṅ
 
   5
-  Ekisween ko chup gaya dunya ka aaftab
-  Chaayi hui hai chaar soo zulmat ki badliyan
+  Ikkiswiṅ ko chhup gaya duniya ka aaftaab
+  Chhaai hui hai chaar su zulmat ki badliyaaṅ
 
   6
-  Jisko nabi ne apne wasi ka diya khitaab
-  Dushman usi ka ho gaya kufe ka musalman
+  Jis ko Nabi ne apne wasi ka diya khitaab
+  Dushman usi ka ho gaya Kufe ka musalmaan
 
   7
-  Aankhon may ashk bhar ke ye abbas ne kaha
-  Hum ko akela chod ke baba gaye kahan
+  Aankhoṅ mein ashk bhar ke ye Abbas ne kaha
+  Ham ko akela chhor ke baba gaye kahaaṅ
 
   8
-  Sadme se ghash hai zainab o kulsoom pe tari
-  Rukti nahi ye dekh ke fizza ki siskiyan
+  Sadme se ghash hai Zainab o Kulsum pe taari
+  Rukti nahiṅ ye dekh ke Fizza ki siskiyaaṅ
 
   9
-  Dunya se unka uth gaya afsoos ek raqeeb
-  Hai meesam o miqdaar ke chehre dhuan dhuan
+  Duniya se un ka uth gaya afsos ek raqib
+  Hai Maisam o Miqdaar ke chehre dhuaaṅ dhuaaṅ
 
   10
-  Patjhad ki zad may aa gaya sar sabz gulsitan
-  Chaayi hai aisi gulshan e islam par khizan
+  Patjhar ki zad mein aa gaya sar sabz gulistaaṅ
+  Chhaai hai aisi gulshan-e-Islam par khizaaṅ
 
   11
-  Gham ki siyaah aandhiyan uthi hai chaar soo
-  Ba-waqt e farz di hai muazzin ne jo azan
+  Gham ki siyaah aandhiyaaṅ uthi hai chaar su
+  Ba-waqt-e-farz di hai muazzin ne jo azaaṅ
 
   12
-  Jaate hue janaze ko ghabra ke dekh kar
-  Apne saron pa khaak udaati hai betieyan
+  Jaate hue janaaze ko ghabra ke dekh kar
+  Apne saroṅ pe khaak uraati hai betiyaaṅ
 
   13
-  Kehte hai ashk beh ke raza ye imam se
-  Pursa qubool kijiye ya saahib uz zamaan
+  Kehte haiṅ ashk beh ke Raza ye Imam se
+  Pursa qubul kijiye ya Saahib-uz-zamaan
 # source_id: nohayonline:d11454f7da32261461fb
 # source_url: https://www.nohayonline.com/details_content.php?id=2002
 # raw_sha256: 07b76c23056b3e93ff67f2b7b4bd9c6d294a530bbc1ebfc7876663001e802b30
 ---
-لاشے پہ مرتظی کے تھی جبریل کی فغاں
-ہاے ہاے شہید ہو گےء مولا دو جہاں
+لاشے پہ مرتضیٰ کے تھی جبریل کی فغاں
+ہائے ہائے شہید ہو گئے مولائے دو جہاں
 
 ۱
-دنیا حسن حسین کی اندھیر ہو گیء
+دنیا حسن حسین کی اندھیر ہو گئی
 اس کمسنی میں بچوں پہ ٹوٹا ہے آسماں
 
 ۲
-افسوس ماں کے بعد میں بابا گزر گےء
-آنسوں لہو کے زینب مضطر کے ہے رواں
+افسوس ماں کے بعد میں بابا گزر گئے
+آنسو لہو کے زینبِ مضطر کے ہے رواں
 
 ۳
 سجدے میں سر ہے خون سے مصلے لہو لہو
-ماری ہے روزہ دار کے وہ ضربت گراں
+ماری ہے روزہ دار کے وہ ضربتِ گراں
 
 ۴
 حور و ملک ہے انبیاء اور ہے غمِ علی
-فرش عزاے مرتظی لگتا ہے آسماں
+فرشِ عزائے مرتضیٰ لگتا ہے آسماں
 
 ۵
 اکیسویں کو چھپ گیا دنیا کا آفتاب
-چھای ہوی ہے چار سو ظلمت کی بدلیاں
+چھائی ہوئی ہے چار سو ظلمت کی بدلیاں
 
 ۶
 جس کو نبی نے اپنے وصی کا دیا خطاب
 دشمن اسی کا ہو گیا کوفے کا مسلمان
 
 ۷
-آنکھوں میں اشک بھرے کے یہ عباس نے کہا
-ہم کو اکیلا چھوڑ کے بابا گےء کہاں
+آنکھوں میں اشک بھر کے یہ عباس نے کہا
+ہم کو اکیلا چھوڑ کے بابا گئے کہاں
 
 ۸
 صدمے سے غش ہے زینب و کلثوم پہ طاری
@@ -108,17 +109,17 @@ romanLyrics: |-
 ہے میثم و مقدار کے چہرے دھواں دھواں
 
 ۱۰
-پتجھڑ کی ضد میں آ گیا سر سبز گلستاں
-چھای ہے ایسی گلشنِ اسلام پر خزاں
+پتجھڑ کی زد میں آ گیا سر سبز گلستاں
+چھائی ہے ایسی گلشنِ اسلام پر خزاں
 
 ۱۱
 غم کی سیاہ آندھیاں اٹھی ہے چار سو
-بہ وقت فرض دی ہے معذن نے جو اذاں
+بہ وقتِ فرض دی ہے مؤذن نے جو اذاں
 
 ۱۲
-جاتے ہوے جنازے کو گھبرا کے دیکھ کر
+جاتے ہوئے جنازے کو گھبرا کے دیکھ کر
 اپنے سروں پہ خاک اڑاتی ہے بیٹیاں
 
 ۱۳
 کہتے ہیں اشک بہہ کے رضا یہ امام سے
-پرسہ قبول کیجیےء یا صاحب الزمان
+پرسہ قبول کیجیے یا صاحب الزمان

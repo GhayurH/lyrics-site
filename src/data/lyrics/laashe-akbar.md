@@ -1,63 +1,64 @@
 ---
-title: "لاش اکبر کو لیےء سوچ رہے ہیں سرور"
+title: "لاش اکبر کو لیے سوچ رہے ہیں سرور"
 alternateTitle: "Laashe Akbar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Safdar Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Laashe akbar ko liye soch rahe hai sarwar
-  Qatle akbar ki khabar kaise sunegi maadar
+  Laash Akbar ko liye soch rahe haiṅ Sarwar
+  Qatl-e-Akbar ki khabar kaise sunegi maadar
 
   1
-  Laash ka chehra abaa se hai chupaya sheh ne
-  Ek qadam dasht mein phir aage badhaya sheh ne
-  Thodi hi door chale baith gaye reti par
+  Laash ka chehra abaa se hai chhupaaya Shah ne
+  Ek qadam dasht mein phir aage barhaaya Shah ne
+  Thori hi dur chale baith gaye reti par
 
   2
-  Ya ali keh ke uthe thaam ke dil haathon se
-  Jaane kya soch ke phir ashk gire aankhon se
-  Kuch dikhayi na diya sambhle hai kha kar thokar
+  Ya Ali keh ke uthe thaam ke dil haathoṅ se
+  Jaane kya soch ke phir ashk gire aankhoṅ se
+  Kuch dikhaai na diya sambhle haiṅ khaa kar thokar
 
   3
   Bekasi karne lagi maut se ban mein girya
-  Kitna saabir hai jawan laash uthane waala
-  Ye payambar bhi nahi aur na lagta hai bashar
+  Kitna saabir hai jawaaṅ laash uthaane waala
+  Ye payambar bhi nahiṅ aur na lagta hai bashar
 
   4
-  Dil pe qaabu bhi nahi aankhon mein beenayi nahi
-  Charkh ne aaj talak dekhi ye tanhaai nahi
-  Hasrat o yaas hai aur koi nahi hai yawar
+  Dil pe qaabu bhi nahiṅ aankhoṅ mein binaai nahiṅ
+  Charkh ne aaj talak dekhi ye tanhaai nahiṅ
+  Hasrat o yaas hai aur koi nahiṅ hai yaawar
 
   5
-  Chalne deti hi nahi shaah ko ek baat yehi
-  Jis ne athara baras paala wo mar jayegi
-  Kya teri qabr isi ban mein banadun akbar
+  Chalne deti hi nahiṅ Shaah ko ek baat yehi
+  Jis ne athaarah baras paala wo mar jaayegi
+  Kya teri qabr isi ban mein bana duṅ Akbar
 
   6
-  Ro ke phir kehne lage tu hi bata jaane padar
-  Tere jeene ki dua maang rahi thi maadar
-  Saamne maa ke teri laash rakhunga kyun kar
+  Ro ke phir kehne lage tu hi bata jaan-e-padar
+  Tere jine ki dua maang rahi thi maadar
+  Saamne maaṅ ke teri laash rakhuṅ ga kiuṅ kar
 
   7
-  Dil tadapta hai mera bain likhun kya mazhar
-  Kaifiat dil ki bayan kar na sakega safdar
-  Hai qayamat ki ghadi haye ajab hai manzar
+  Dil tarapta hai mera bain likhuṅ kya Mazhar
+  Kaifiyat dil ki bayaaṅ kar na sakega Safdar
+  Hai qayaamat ki ghari haaye ajab hai manzar
 # source_id: nohayonline:ea6090994cd8126531e4
 # source_url: https://www.nohayonline.com/details_content.php?id=2744
 # raw_sha256: 4e92223b6d523263ff3fa97e7bc98c0369202524e51ed97f10a373c219d60638
 ---
-لاش اکبر کو لیےء سوچ رہے ہیں سرور
+لاش اکبر کو لیے سوچ رہے ہیں سرور
 قتلِ اکبر کی خبر کیسے سنے گی مادر
 
 ۱
 لاش کا چہرہ عبا سے ہے چھپایا شہ نے
 ایک قدم دشت میں پھر آگے بڑھایا شہ نے
-تھوڑی ہی دور چلے بیٹھ گےء ریتی پر
+تھوڑی ہی دور چلے بیٹھ گئے ریتی پر
 
 ۲
 یا علی کہہ کے اٹھے تھام کے دل ہاتھوں سے
@@ -76,15 +77,15 @@ romanLyrics: |-
 
 ۵
 چلنے دیتی ہی نہیں شاہ کو ایک بات یہی
-جس نے اٹھارہ برس پالا وہ مر جاۓ گی
-کیا تیری قبر اسی بن میں بنادوں اکبر
+جس نے اٹھارہ برس پالا وہ مر جائے گی
+کیا تیری قبر اسی بن میں بنا دوں اکبر
 
 ۶
-رو کے پھر کہنے لگے تو ہی بتا جان پدر
+رو کے پھر کہنے لگے تو ہی بتا جانِ پدر
 تیرے جینے کی دعا مانگ رہی تھی مادر
 سامنے ماں کے تیری لاش رکھوں گا کیوں کر
 
 ۷
 دل تڑپتا ہے میرا بین لکھوں کیا مظہر
 کیفیت دل کی بیاں کر نہ سکے گا صفدر
-ہے قیامت کی گھڑی ہاے عجب ہے منظر
+ہے قیامت کی گھڑی ہائے عجب ہے منظر

@@ -1,86 +1,87 @@
 ---
-title: "لاشے پہ کہتی ماں اے میرے اکبر جواں"
+title: "لاشے پہ کہتی تھی ماں اے میرے اکبر جواں"
 alternateTitle: "Laashe Pe Kehti Thi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zulfiqar Ahmed"
+reciter: "Mir Mohsin Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Laashe pe kehti thi maa ay mere akbar jawan
-  Humshakle payambar ali akbar ali akbar
-  Laila ke dilbar ali akbar ali akbar
+  Laashe pe kehti thi maaṅ ae mere Akbar jawaaṅ
+  Hamshakl-e-payambar Ali Akbar Ali Akbar
+  Laila ke dilbar Ali Akbar Ali Akbar
 
   1
-  Teeron ke bal aaye jab sajde mein shaahe umam
+  Tiroṅ ke bal aaye jab sajde mein Shaah-e-umam
   Ran mein unka sar hua kund khanjar se qalam
-  Lootne sadaat ko aagayi fauje sitam
-  Sar jhukaye khaak par baithe hai ahle haram
-  Ro raha hai aasman ay mere akbar jawan
-  
+  Lutne saadaat ko aa gayi fauj-e-sitam
+  Sar jhukaae khaak par baithe haiṅ ahl-e-haram
+  Ro raha hai aasmaaṅ ae mere Akbar jawaaṅ
+
   2
-  Allah allah ye sitam allah allah ye jafa
-  Durre lagaye hamein cheenli sar se rida
-  Karbala mein har taraf ek andhera cha gaya
-  Zalzale mein hai zameen khoon ugalti hai faza
-  Qaima qaima hai dhuan ay mere akbar jawan
-  
+  Allah Allah ye sitam Allah Allah ye jafa
+  Durre lagaae hameṅ chhin li sar se rida
+  Karbala mein har taraf ek andhera chhaa gaya
+  Zalzale mein hai zamiṅ khun ugalti hai faza
+  Khaima khaima hai dhuaaṅ ae mere Akbar jawaaṅ
+
   3
   Ran mein bhai bekafan aur behan hai berida
-  Reesmane zulm hai aur sakina ka gala
-  Durron se bemaar pe karte hai zaalim jafa
-  Nanhe nanhe bachon mein ek qayamat hai bapa
-  Lut raha hai karwan ay mere akbar jawan
-  
+  Rismaan-e-zulm hai aur Sakina ka gala
+  Durroṅ se bimaar par karte haiṅ zaalim jafa
+  Nanhe nanhe bachchoṅ mein ek qayaamat hai bapa
+  Lut raha hai kaarwaaṅ ae mere Akbar jawaaṅ
+
   4
-  Asr ka hangaam wo subho ka manzar nahi
-  Rounakhein sab lut gayi ab wo bhara ghar nahi
-  Nasir o yawar nahi shere dilawar nahi
-  Aun o mohamad nahi qasim o asghar nahi
-  Tumne bhi khaayi sina ay mere akbar jawan
-  
+  Asr ka hangaam wo subh ka manzar nahiṅ
+  Raunaqeṅ sab lut gayiṅ ab wo bhara ghar nahiṅ
+  Naasir o yaawar nahiṅ sher-e-dilaawar nahiṅ
+  Aun o Muhammad nahiṅ Qaasim o Asghar nahiṅ
+  Tum ne bhi khaai sinaaṅ ae mere Akbar jawaaṅ
+
   5
-  Dil ka ye armaan tha laaun mai teri dulhan
-  Shaadi rachaun teri ay mere tashna dahan
-  Tapti hui dasht mein lut gaya mera chaman
+  Dil ka ye armaaṅ tha laauṅ main teri dulhan
+  Shaadi rachaauṅ teri ae mere tashna dahan
+  Tapte hue dasht mein lut gaya mera chaman
   Kaisi musibat hai ye kaisa ye ranj o mehan
-  Kuch to kaho meri jaan ay mere akbar jawan
-  
+  Kuchh to kaho meri jaaṅ ae mere Akbar jawaaṅ
+
   6
-  Khaak hoke rehgayi bachi ki har aarzu
+  Khaak ho ke reh gayi bachchi ki har aarzu
   Ho rahi hai zulm ki justaju pe justaju
-  Kabse hai jakda hua uska rassi mein gulu
-  Beh raha hai ab talak uske kano se lahoo
-  Yun chini hai baaliyan ay mere akbar jawan
-  
+  Kab se hai jakra hua us ka rassi mein gulu
+  Beh raha hai ab talak us ke kaanoṅ se lahu
+  Yuṅ chhini haiṅ baaliyaaṅ ae mere Akbar jawaaṅ
+
   7
   Dekhte hi dekhte kaisa aaya inqilaab
-  Lut gaya pardes mein mere bete ka shabab
-  Mil gaya sab khaak mein husne risalat ma'aab
-  Maa ki aankhon ke liye hogaya bas ek khwaab
-  Tera sehra meri jaan ay mere akbar jawan
-  
+  Lut gaya pardes mein mere bete ka shabaab
+  Mil gaya sab khaak mein husn-e-risaalat-e-maab
+  Maaṅ ki aankhoṅ ke liye ho gaya bas ek khwaab
+  Tera sehra meri jaaṅ ae mere Akbar jawaaṅ
+
   8
-  Zikr chidte hi tera aankhein ho jaati hai nam
-  Padte hai nauha tera ahmed-o-mohsin baham
-  Khatm tujhpe hogaye jitne thay zulm o sitam
+  Zikr chherte hi tera aankheṅ ho jaati haiṅ nam
+  Parhte haiṅ noha tera Ahmed o Mohsin baham
+  Khatm tujh pe ho gaye jitne the zulm o sitam
   Tera gham aisa hai gham jiske aage saare gham
-  Bhooli bisri daastan ay mere akbar jawan
+  Bhuli bisri daastaaṅ ae mere Akbar jawaaṅ
 # source_id: nohayonline:5337b552de66a7976a80
 # source_url: https://www.nohayonline.com/details_content.php?id=755
 # raw_sha256: 0ed142549abc5078d65dc29f3f999d003fcd704b384986da1504881c43bcd1ca
 ---
 
-لاشے پہ کہتی ماں اے میرے اکبر جواں
-ہمشکلِ پیعمبر علی اکبر علی اکبر
+لاشے پہ کہتی تھی ماں اے میرے اکبر جواں
+ہمشکلِ پیمبر علی اکبر علی اکبر
 لیلیٰ کے دلبر علی اکبر علی اکبر
 
 ۱
 تیروں کے بل آئے جب سجدے میں شاہِ اُمم
-رن میں اُن کا سر ہوا کُنند خنجر سے قلم
+رن میں اُن کا سر ہوا کُند خنجر سے قلم
 لُوٹنے سادات کو آ گئی فوجِ ستم
 سر جھُکائے خاک پر بیٹھے ہیں اہلِ حرم
 رو رہا ہے آسماں اے میرے اکبر جواں
@@ -94,10 +95,10 @@ romanLyrics: |-
 
 ۳
 رن میں بھائی بے کفن اور بہن ہے بے ردا
-ریسماں ظلم ہے اور سکینہ کا گلا
+ریسمانِ ظلم ہے اور سکینہ کا گلا
 دُرّوں سے بیمار پر کرتے ہیں ظالم جفا
 ننھے ننھے بچوں میں اک قیامت ہے بپا
-لُٹ رہا ہے کارواںاے میرے اکبر جواں
+لُٹ رہا ہے کارواں اے میرے اکبر جواں
 
 ۴
 عصر کا ہنگام وہ صبح کا منظر نہیں
@@ -107,29 +108,29 @@ romanLyrics: |-
 تم نے بھی کھائی سِناں اے میرے اکبر جواں
 
 ۵
-دل کا یہ ارماں تھا لائوں میں تیری دولہن
-شادی رچائوں تیری اے میرے تشنہ دہن
+دل کا یہ ارماں تھا لاؤں میں تیری دولہن
+شادی رچاؤں تیری اے میرے تشنہ دہن
 تپتے ہوئے دشت میں لُٹ گیا میرا چمن
 کیسی مصیبت ہے یہ کیسا یہ رنج و مہن
-کچھ تو کہو میری جاںاے میرے اکبر جواں
+کچھ تو کہو میری جاں اے میرے اکبر جواں
 
 ۶
 خاک ہو کے رہ گئی بچی کی ہر آرزو
 ہو رہی ہے ظلم کی جستجو پہ جستجو
 کب سے ہے جکڑا ہوا اُس کا رسی میں گُلو
 بہہ رہا ہے اب تلک اُس کے کانوں سے لہو
-یوں چھِنی ہیں بالیاںاے میرے اکبر جواں
+یوں چھِنی ہیں بالیاں اے میرے اکبر جواں
 
 ۷
 دیکھتے ہی دیکھتے کیسا آیا انقلاب
 لُٹ گیا پردیس میں میرے بیٹے کا شباب
 مل گیا سب خاک میں حسنِ رسالتِ مآب
 ماں کی آنکھوں کے لیے ہو گیا بس اک خواب
-تیرا سہرا میری جاںاے میرے اکبر جواں
+تیرا سہرا میری جاں اے میرے اکبر جواں
 
 ۸
 ذکر چھیڑتے ہی تیرا آنکھیں ہو جاتی ہیں نم
 پڑھتے ہیں نوحہ تیرا احمد و محسن بہم
 ختم تجھ پہ ہو گئے جتنے تھے ظلم و ستم
 تیرا غم ایسا ہے غم جس کے آگے سارے غم
-بھولی بسری داستاںاے میرے اکبر جواں
+بھولی بسری داستاں اے میرے اکبر جواں
