@@ -1,71 +1,72 @@
 ---
-title: "میت جواں پسر کی اٹھای حسین نے"
+title: "میت جواں پسر کی اٹھائی حسین نے"
 alternateTitle: "Mayyat Jawan Pisar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Raza Ali Meerza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Mayyat jawan pisar ki uthayi hussain ne
-  Saari kameini apni lutayi hussain ne
-  Ummat ki nao paar lagayi hussain ne
-  Dunya ko haq ki raah dikhayi hussain ne
+  Mayyat jawaaṅ pisar ki uthaai Husain ne
+  Saari kamaai apni lutaai Husain ne
+  Ummat ki naao paar lagaai Husain ne
+  Dunya ko haq ki raah dikhaai Husain ne
 
   1
-  Qasim ko de diya ali akbar ko de diya
-  Bhai ko de diya ali asghar ko de diya
-  Raahe khuda mein apne base ghar ko de diya
-  Izzat khuda ke deen ki bachayi hussain ne
+  Qaasim ko de diya Ali Akbar ko de diya
+  Bhaai ko de diya Ali Asghar ko de diya
+  Raah-e-Khuda mein apne base ghar ko de diya
+  Izzat Khuda ke din ki bachaai Husain ne
 
   2
-  Baakhi na be-zuban hai na akbar sa mehlakha
-  Abbas e jaan wafa hai na qasim sa dilruba
-  Har haal mein hussain ne shukre khuda kiya
-  Peshani hukme haq pe jhukayi hussain ne
+  Baaqi na bezubaaṅ hai na Akbar sa mah laqaa
+  Abbaas jaan wafaa hai na Qaasim sa dilruba
+  Har haal mein Husain ne shukr-e-Khuda kiya
+  Peshaani hukm-e-haq pe jhukaai Husain ne
 
   3
-  Islam par thi kufr ki chaayi hui ghata
-  Bechain thi lehad mein udhar roohe mustufa
-  Sar de ke apna shaah ne deen ko bacha liya
-  Bujhti hui ye shamma jalayi hussain ne
+  Islaam par thi kufr ki chhaai hui ghata
+  Bechain thi lahad mein udhar ruh-e-Mustafa
+  Sar de ke apne shaah ne din ko bachaa liya
+  Bujhti hui ye shama jalaai Husain ne
 
   4
-  Kha kar sina jo seene pe akbar guzar gaye
-  Pakde hue kaleje ko sheh laash par gaye
-  Bolay ye roke ay mere dilbar kidhar gaye
-  Tanha pisar ki laash uthayi hussain ne
+  Khaa kar sinaaṅ jo sine pe Akbar guzar gaye
+  Pakre hue kaleje ko shah laash par gaye
+  Bole ye ro ke ae mere dilbar kidhar gaye
+  Tanha pisar ki laash uthaai Husain ne
 # source_id: nohayonline:5667f0c74d2939b8dfe2
 # source_url: https://www.nohayonline.com/details_content.php?id=915
 # raw_sha256: 43bfe2512309ba8ec1d40d6bda0d0ff1445c6cd36ed55c263599cfc3fbd7ee9a
 ---
-میت جواں پسر کی اٹھای حسین نے
-ساری کمائی اپنی لٹای حسین نے
-امت کی ناؤ پار لگای حسین نے
+میت جواں پسر کی اٹھائی حسین نے
+ساری کمائی اپنی لٹائی حسین نے
+امت کی ناؤ پار لگائی حسین نے
 دنیا کو حق کی راہ دکھائی حسین نے
 
 ۱
 قاسم کو دے دیا علی اکبر کو دے دیا
 بھائی کو دے دیا علی اصغر کو دے دیا
 راہ خدا میں اپنے بسے گھر کو دے دیا
-عزت خدا کے دیں کی بچای حسین نے
+عزت خدا کے دین کی بچائی حسین نے
 
 ۲
 باقی نہ بے زباں ہے نہ اکبر سا مہ لقا
 عباس جان وفا ہے نہ قاسم سا دلربا
 ہر حال میں حسین نے شکر خدا کیا
-پیشانی حکم حق پہ جھکای حسین نے
+پیشانی حکم حق پہ جھکائی حسین نے
 
 ۳
-اسلام پر تھی کفر کی چھای ہوی گھٹا
+اسلام پر تھی کفر کی چھائی ہوئی گھٹا
 بے چین تھی لحد میں ادھر روح مصطفیٰ
-سر دیکے اپنے شاہ نے دیں کو بچا لیا
+سر دے کے اپنے شاہ نے دین کو بچا لیا
 بجھتی ہوئی یہ شمع جلائی حسین نے
 
 ۴
-کھا کر سناں جو سینے پہ اکبر گزر گےء
-پکڑے ہوئے کلیجے کو شہ لاش پر گےء
-بولے یہ روکے اے میرے دلبر کدھر گئے
-تنہا پسر کی لاش اٹھای حسین ن
+کھا کر سناں جو سینے پہ اکبر گزر گئے
+پکڑے ہوئے کلیجے کو شہ لاش پر گئے
+بولے یہ رو کے اے میرے دلبر کدھر گئے
+تنہا پسر کی لاش اٹھائی حسین نے
