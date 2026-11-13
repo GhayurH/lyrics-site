@@ -6,75 +6,78 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zainab ka chehra dekhte hai
-  Aur maula rote jaate hai
-  Abbas ke aansu pochte hai
-  Shabbir ko kuch samjhate hai
+  Zainab ka chehra dekhte haiṅ
+  Aur Maula rote jaate haiṅ
+
+  Abbas ke aansu poṅchhte haiṅ
+  Shabbir ko kuchh samjhaate haiṅ
 
   1
   Sar dekh ke zakhmi baba ka
-  Jab betiyan rone lagti hai
-  Bachon ko tasalli ki khaatir
-  Zahra ka dard sunate hai
+  Jab betiyaaṅ rone lagti haiṅ
+  Bachchoṅ ko tasalli ki khaatir
+  Zahra ka dard sunaate haiṅ
 
   2
-  Zakhmi maula ki aankhon may
-  Zakhmi mashkeeza phirta hai
-  Abbas e jari ke haathon se
-  Qaatil ko jaam pilaate hai
+  Zakhmi Maula ki aankhoṅ mein
+  Zakhmi mashkiza phirta hai
+  Abbas-e-Jari ke haathoṅ se
+  Qaatil ko jaam pilaate haiṅ
 
   3
-  Phirta hai nigahon may manzar
-  Bazaaron ka darbaron ka
-  Kuch dayr ko ghar ke aangan may
-  Zainab ko saath chalate hai
+  Phirta hai nigaahoṅ mein manzar
+  Baazaaroṅ ka darbaaroṅ ka
+  Kuchh der ko ghar ke aangan mein
+  Zainab ko saath chalaate haiṅ
 
   4
-  Ek roz isi kufe may tumhe
-  Be parda haram ko laana hai
-  Abid ko laga kar seene se
-  Bazaar ka haal sunate hai
+  Ik roz isi Kufe mein tumheṅ
+  Beparda haram ko laana hai
+  Aabid ko laga kar sine se
+  Baazaar ka haal sunaate haiṅ
 
   5
-  Bhai ke saath meri zainab
-  Jayegi jahan jaane dena
-  Ye tum ko wasiyat hai meri
-  Abdullah se farmate hai
+  Bhaai ke saath meri Zainab
+  Jaayegi jahaaṅ jaane dena
+  Yeh tum ko wasiyat hai meri
+  Abdullah se farmaate haiṅ
 
   6
-  Sadaat ke rone ki jo sada
+  Saadaat ke rone ki jo sada
   Parde se baahar aati hai
-  Pehchan lo in awaazon ko
-  Logon se kehte jaate hai
+  Pehchaan lo in aawaazoṅ ko
+  Logoṅ se kehte jaate haiṅ
 
   7
-  Maloom tha ek din shaano may
-  Zainab ke rasan bandh jayegi
+  Maalum tha ik din shaanoṅ mein
+  Zainab ke rasan bandh jaayegi
   Shabbar se keh ke qaatil ke
-  Haathon se rasan khulwate hai
+  Haathoṅ se rasan khulwaate haiṅ
 
   8
-  Jab nazha ki hichki aati hai
+  Jab naza ki hichki aati hai
   Zainab pe nazar ruk jaati hai
-  Allah tujhe aabad rakhe
-  Honton se dua farmate hai
+  Allah tujhe aabaad rakhe
+  Hoṅtoṅ se dua farmaate haiṅ
 
   9
-  Poocha hai takallum zainab ne
-  Hyder se ye aakhri saanson may
-  Kyun baazu dekhe jaate hai
-  Kyun sar ko choome jaate hai
+  Puchha hai Takallum Zainab ne
+  Haidar se yeh aakhri saaṅsoṅ mein
+  Kiuṅ baazu dekhe jaate haiṅ
+  Kiuṅ sar ko chume jaate haiṅ
 # source_id: nohayonline:ffa7dd03205aa47517a8
 # source_url: https://www.nohayonline.com/details_content.php?id=1938
 # raw_sha256: 33a0f50414e7582b8b7ec5d7f47d96ffbf771b89166320261de39d6a7b69b531
 ---
 زینب کا چہرہ دیکھتے ہیں
 اور مولا روتے جاتے ہیں
-عباس کے آنسوں پوچھتے ہیں
+
+عباس کے آنسو پونچھتے ہیں
 شبیر کو کچھ سمجھاتے ہیں
 
 ۱
@@ -86,7 +89,7 @@ romanLyrics: |-
 ۲
 زخمی مولا کی آنکھوں میں
 زخمی مشکیزہ پھرتا ہے
-عباس جری کے ہاتھوں سے
+عباسِ جری کے ہاتھوں سے
 قاتل کو جام پلاتے ہیں
 
 ۳
@@ -102,8 +105,8 @@ romanLyrics: |-
 بازار کا حال سناتے ہیں
 
 ۵
-بھای کے ساتھ میری زینب
-جاے گی جہاں جانے دینا
+بھائی کے ساتھ میری زینب
+جائے گی جہاں جانے دینا
 یہ تم کو وصیت ہے میری
 عبداللہ سے فرماتے ہیں
 
@@ -115,7 +118,7 @@ romanLyrics: |-
 
 ۷
 معلوم تھا اک دن شانوں میں
-زینب کے رسن بندھ جاے گی
+زینب کے رسن بندھ جائے گی
 شبر سے کہہ کے قاتل کے
 ہاتھوں سے رسن کھلواتے ہیں
 
