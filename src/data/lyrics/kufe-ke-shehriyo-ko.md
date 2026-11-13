@@ -1,82 +1,87 @@
 ---
-title: "کہدو کوئی ہوا سے خاک اس طرح اڑاے"
-alternateTitle: "Kufe Ke Shehriyo Ko"
+title: "کہہ دو کوئی ہوا سے خاک اس طرح اڑائے"
+alternateTitle: "Kufe Ke Shehriyoṅ Ko"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ahmed Naved"
+reciter: "Kazmi Brothers"
 tags: ["noImage"]
-aliases: []
+aliases: ["Kufe Ke Shehriyo Ko"]
 published: false
 romanLyrics: |-
-  Kehdo koi hawa se khaak is tarha udaye
-  Kufe ke shehriyo ko zainab nazar na aye
-  Aankhon ko band karke zainab hai moo chupaye
+  Keh do koi hawa se khaak is tarah uraaye
+  Kufe ke shehriyoṅ ko Zainab nazar na aaye
+
+  Aankhoṅ ko band karke Zainab hai muṅh chhupaaye
+  Kufe ke shehriyoṅ ko Zainab nazar na aaye
 
   1
-  Ab jam chuki saron par qaimon ki raakh ud kar
-  Chaadar nahi saron par ab sar hai aur pathar
-  In bibiyon ke sar se ab uth gaye hai saaye
+  Ab jam chuki saroṅ par khaimoṅ ki raakh ur kar
+  Chaadar nahiṅ saroṅ par ab sar hai aur patthar
+  In Bibiyoṅ ke sar se ab uth gaye haiṅ saaye
 
   2
   Baazu bandha ke apne maqtal se jaa rahi hai
-  Aaye nazar jo usko ek laash aa rahi hai
-  Kaise nazar hataye kaise qadam badaye
+  Aaye nazar jo us ko ik laash aa rahi hai
+  Kaise nazar hataaye kaise qadam barhaaye
 
   3
-  Sar apna chaube mahmil se maarti hai zainab
-  Behta hai khoon jaise jaan waarti hai zainab
-  Naize pe sar jo sheh ka mahmil ke pass aaye
+  Sar apna chob-e-mahmil se maarti hai Zainab
+  Behta hai khun jaise jaaṅ waarti hai Zainab
+  Naize pe sar jo Shah ka mahmil ke paas aaye
 
   4
-  Badta hai jab bhi koi khud bad ke tokti hai
-  Har taziyana apne haathon pe rokti hai
-  Fizza jo apne peeche zainab ko hai chupaye
+  Barhta hai jab bhi koi khud barh ke tokti hai
+  Har taaziyaana apne haathoṅ pe rokti hai
+  Fizza jo apne pichhe Zainab ko hai chhupaaye
 
   5
-  Dewaar o dar ko sughra kya de jawab aakhir
-  Sannata poochta hai kab aayenge musafir
-  Sughra ka haal kya hai kaise koi bataye
+  Diwaar o dar ko Sughra kya de jawaab aakhir
+  Sannaata puchhta hai kab aayeṅge musaafir
+  Sughra ka haal kya hai kaise koi bataaye
 
   6
-  Ye karz aansuon ka haaye chuke to kaise
-  Hai ye naved darya darya ruke to kaise
-  Zainab ke be-ridayi sajjad ko rulaaye
+  Ye qarz aansuoṅ ka haaye chuke to kaise
+  Hai ye Naved darya darya ruke to kaise
+  Zainab ki beridaai Sajjad ko rulaaye
 # source_id: nohayonline:50c0ea000fa1d35eb13f
 # source_url: https://www.nohayonline.com/details_content.php?id=1367
 # raw_sha256: 49d172d0b4888f19c2c3828e8b834402724cbfbe09fd34abb14584e1844a3527
 ---
-کہدو کوئی ہوا سے خاک اس طرح اڑاے
-کوفے کے شہریوں کو زینب نظر نہ آے
+کہہ دو کوئی ہوا سے خاک اس طرح اڑائے
+کوفے کے شہریوں کو زینب نظر نہ آئے
+
 آنکھوں کو بند کرکے زینب ہے منہ چھپائے
+کوفے کے شہریوں کو زینب نظر نہ آئے
 
 ۱
-اب جم چکی سروں پر خیموں کی راخ اڑ کر
+اب جم چکی سروں پر خیموں کی راکھ اڑ کر
 چادر نہیں سروں پر اب سر ہے اور پتھر
-ان بی بیوں کے سر سے اب اٹھ گےء ہیں ساے
+ان بی‌بیوں کے سر سے اب اٹھ گئے ہیں سائے
 
 ۲
 بازو بندھا کے اپنے مقتل سے جا رہی ہے
-آے نظر جو اسکو اک لاش آ رہی ہے
-کیسے نظر ہٹاے کیسے قدم بڑھائے
+آئے نظر جو اس کو اک لاش آ رہی ہے
+کیسے نظر ہٹائے کیسے قدم بڑھائے
 
 ۳
-سر اپنا چوبے محمل سے مارتی ہے زینب
+سر اپنا چوبِ محمل سے مارتی ہے زینب
 بہتا ہے خون جیسے جاں وارتی ہے زینب
-نیزے پہ سر جو شہ کا محمل کے پاس آے
+نیزے پہ سر جو شہ کا محمل کے پاس آئے
 
 ۴
-بڑھتا ہے جب بھی کوئی خود بڑھکے ٹوکتی ہے
+بڑھتا ہے جب بھی کوئی خود بڑھ کے ٹوکتی ہے
 ہر تازیانہ اپنے ہاتھوں پہ روکتی ہے
 فضہ جو اپنے پیچھے زینب کو ہے چھپائے
 
 ۵
 دیوار و در کو صغرا کیا دے جواب آخر
-سناٹا پوچھتا ہے کب آےنگے مسافر
+سناٹا پوچھتا ہے کب آئیں گے مسافر
 صغرا کا حال کیا ہے کیسے کوئی بتائے
 
 ۶
-یہ قرض آنسوؤں کا ہاے چکے تو کیسے
+یہ قرض آنسوؤں کا ہائے چکے تو کیسے
 ہے یہ نوید دریا دریا رکے تو کیسے
-زینب کی بے ردائی سجاد کو رلاے
+زینب کی بے ردائی سجاد کو رلائے

@@ -1,52 +1,53 @@
 ---
 title: "ہے بیٹیاں زہرا کی کوفے کا نگر لوگوں"
-alternateTitle: "Kufe Ka Nagar Logon"
+alternateTitle: "Kufe Ka Nagar Logoṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Majid"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
-aliases: []
+aliases: ["Kufe Ka Nagar Logon"]
 published: false
 romanLyrics: |-
-  Hai betiyan zahra ki kufe ka nagar logon
-  Chadar ki jagah sar par hai khaak e safar logon
+  Hai betiyaṅ Zahra ki Kufe ka nagar logoṅ
+  Chaadar ki jagah sar par hai khaak-e-safar logoṅ
 
   1
-  Kal ummat e ahmed ne darwaza jalaya tha
-  Darwaza jalaya tha zahra pe giraya tha
-  Ab loota hai ummat ne phir aaj wo ghar logon
+  Kal ummat-e-Ahmed ne darwaaza jalaaya tha
+  Darwaaza jalaaya tha Zahra pe giraaya tha
+  Ab luta hai ummat ne phir aaj wo ghar logoṅ
 
   2
-  Jo tauq may jakda hai shabbir ka beta hai
-  Shabbir ka beta hai bemaar hai tanha hai
-  Wo kis tarha kaatega tanha ye safar logon
+  Jo tauq mein jakra hai Shabbir ka beta hai
+  Shabbir ka beta hai bimaar hai tanha hai
+  Wo kis tarah kaatega tanha ye safar logoṅ
 
   3
-  Ek bibi jo zainab hai kufe ki hai shehzadi
-  Maa fatema hai iski aur parde ki hai aadi
-  Us samt nahi daalo tum apni nazar logon
+  Ek Bibi jo Zainab hai Kufe ki hai shehzaadi
+  Maaṅ Fatima hai is ki aur parde ki hai aadi
+  Us samt nahiṅ daalo tum apni nazar logoṅ
 
   4
-  Ek bacchi yateema hai aur naam sakina hai
-  Na ammu ki godhi hai na baap ka seena hai
-  Is bacchi ab hoga zindan may ghar logon
+  Ek bachchi yatima hai aur naam Sakina hai
+  Na ammu ki godi hai na baap ka sina hai
+  Is bachchi ab hoga zindaan mein ghar logoṅ
 
   5
-  Sadaat hai ye in par sadqa to nahi phenko
-  Ye phool hai zahra ke pathar to nahi maaro
-  Kya tum ko nahi kuch bhi allah ka darr logon
+  Saadaat hai ye in par sadqa to nahiṅ phenko
+  Ye phul hai Zahra ke patthar to nahiṅ maaro
+  Kya tum ko nahiṅ kuch bhi Allah ka dar logoṅ
 
   6
-  Kulsoom hai bechadar zainab bhi khule sar hai
-  Sad haif sakina ke cheene gaye gohar hai
-  Ye dekh ke rota hai abbas ka sar logon
+  Kulsum hai bechaadar Zainab bhi khule sar hai
+  Sad haif Sakina ke chhine gaye gauhar hai
+  Ye dekh ke rota hai Abbas ka sar logoṅ
 
   7
-  Hum naala kuna maajid hum pairawe sarwar hai
-  Hum matami akbar ke hum nasir e asghar hai
-  Matam may hi karte hai hum umr basar logon
+  Hum naala kunaṅ Maajid hum pairav-e-Sarwar hai
+  Hum maatami Akbar ke hum naasir-e-Asghar hai
+  Maatam mein hi karte haiṅ hum umr basar logoṅ
 # source_id: nohayonline:f767f9a8576f75fe1f6c
 # source_url: https://www.nohayonline.com/details_content.php?id=2341
 # raw_sha256: 5a86926efa4eded04512ca1f03e52f37d6f4cf37a71a6f0e7903ab7a3dbcec03
@@ -65,7 +66,7 @@ romanLyrics: |-
 وہ کس طرح کاٹے گا تنہا یہ سفر لوگوں
 
 ۳
-ایک بی بی جو زینب ہے کوفے کی ہے شہزادی
+ایک بی‌بی جو زینب ہے کوفے کی ہے شہزادی
 ماں فاطمہ ہے اس کی اور پردے کی ہے عادی
 اس سمت نہیں ڈالو تم اپنی نظر لوگوں
 
@@ -81,7 +82,7 @@ romanLyrics: |-
 
 ۶
 کلثوم ہے بے چادر زینب بھی کھلے سر
-صد حیف سکینہ کے چھینے گےء گوہر ہے
+صد حیف سکینہ کے چھینے گئے گوہر ہے
 یہ دیکھ کے روتے ہیں عباس کا سر لوگوں
 
 ۷

@@ -6,65 +6,66 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kufe mein karbala ke hai aasaar ya hussain
-  Sher e khuda pe chal gayi talwaar ya hussain
+  Kufe mein Karbala ke haiṅ aasaar Ya Husain
+  Sher-e-Khuda pe chal gayi talwaar Ya Husain
 
   1
-  Khaak udh rahi hai masjide kufa mein har taraf
-  Phir lut gayi rasool ki sarkar ya hussain
+  Khaak ur rahi hai masjid-e-Kufa mein har taraf
+  Phir lut gayi Rasul ki sarkaar Ya Husain
 
   2
-  Zainab ko dekh dekh ke rote hai murtaza
-  Yaad aa raha hai shaam ka bazaar ya hussain
+  Zainab ko dekh dekh ke rote haiṅ Murtaza
+  Yaad aa raha hai Shaam ka baazaar Ya Husain
 
   3
-  Behno ke ashk pochne waale to aap hai
-  Haye magar sakina ke rukhsaar ya hussain
+  Behnoṅ ke ashk ponchhne waale to aap haiṅ
+  Haaye magar Sakina ke rukhsaar Ya Husain
 
   4
-  Tehrega tera zarbon pe jaa kar ye silsila
-  Sajde mein aaj pehla hua waar ya hussain
+  Thehrega tera zarboṅ pe jaa kar ye silsila
+  Sajde mein aaj pehla hua waar Ya Husain
 
   5
-  Koozon mein sheer aaya to takte thay baar baar
-  Tere labon ko hyder e karraar ya hussain
+  Kuzoṅ mein shir aaya to takte the baar baar
+  Tere laboṅ ko Haidar-e-Karraar Ya Husain
 
   6
-  Yaad aa raha hai nazha mein maula ko wo samaa
-  Zainab hai aur koocha o bazaar ya hussain
+  Yaad aa raha hai nazaa mein Maula ko wo samaaṅ
+  Zainab hai aur kucha o baazaar Ya Husain
 
   7
-  Ab maa ke saath baap ko royengi betiyan
-  Gham aur dega eid ka tehwaar ya hussain
+  Ab maaṅ ke saath baap ko royeṅgi betiyaṅ
+  Gham aur dega Eid ka tehwaar Ya Husain
 
   8
-  Akbar kiya ali ne shahadat se ehtemaam
-  Kufe se chunke apne wafadaar ya hussain
+  Akbar kiya Ali ne shahaadat se ehtimaam
+  Kufe se chun ke apne wafaadaar Ya Husain
 # source_id: nohayonline:9595b428daa7d313523b
 # source_url: https://www.nohayonline.com/details_content.php?id=1077
 # raw_sha256: d21b85fd61dccf72a1df9d331732005b540f1f2e555de37b020373f0df07a35b
 ---
 کوفے میں کربلا کے ہیں آثار یا حسین
-شیر خدا پہ چل گیء تلوار یا حسین
+شیر خدا پہ چل گئی تلوار یا حسین
 
 ۱
 خاک اڑ رہی ہے مسجد کوفہ میں ہر طرف
-پھر لٹ گیء رسول کی سرکار یا حسین
+پھر لٹ گئی رسول کی سرکار یا حسین
 
 ۲
-زینب کو دیکھ دیکھ کے روتے ہیں مرتظی
+زینب کو دیکھ دیکھ کے روتے ہیں مرتضیٰ
 یاد آ رہا ہے شام کا بازار یا حسین
 
 ۳
-بہنوں کے آشک پوچھنے والے تو آپ ہیں
-ہاے مگر سکینہ کے رخسار یا حسین
+بہنوں کے اشک پونچھنے والے تو آپ ہیں
+ہائے مگر سکینہ کے رخسار یا حسین
 
 ۴
-ٹہرے گا تیرا ذربوں پہ جا کر یہ سلسلہ
+ٹھہرے گا تیرا ضربوں پہ جا کر یہ سلسلہ
 سجدے میں آج پہلا ہوا وار یا حسین
 
 ۵
@@ -76,9 +77,9 @@ romanLyrics: |-
 زینب ہے اور کوچہء بازار یا حسین
 
 ۷
-اب ماں کے ساتھ باپ کو روے نگی بیٹیاں
+اب ماں کے ساتھ باپ کو روئیں گی بیٹیاں
 غم اور دے گا عید کا تہوار یا حسین
 
 ۸
-اکبر کیا علی نے شہادت سے احتمام
+اکبر کیا علی نے شہادت سے اہتمام
 کوفے سے چن کے اپنے وفادار یا حسین
