@@ -1,137 +1,142 @@
 ---
-title: "میرے مولا آنے والے ہے"
+title: "میرے مولا آنے والے ہیں"
 alternateTitle: "Mere Maula Aane"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Hasnain"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Mere maula aane waale hai
-  
-  1
-  Agar hussain ke maqsad se hai wafadari
-  To phir imam ki nusrat hai ye azadari
-  Imame asr ko ghar may agar bulana hai
-  Bas itna karna hai farshe aza bichana hai
-  Ghar ghar me bicha do farshe aza
+  Mere Maula aane waale haiṅ
+
+  Agar Husain ke maqsad se hai wafaadaari
+  To phir Imam ki nusrat hai ye azaadaari
+  Imam-e-asr ko ghar mein agar bulaana hai
+  Bas itna karna hai farsh-e-aza bichhaana hai
+
+  Ghar ghar mein bichha do farsh-e-aza
   Maula ko dena hai pursa
-  Ke bas maula aane waale hai
-  Haa mere maula aane waale hai
-  Sadiyan guzri hai phir bhi safar
-  Wo karbobala ka jaari hai
-  Ye rasme azadari hai kya
-  Ye nusrat ki tayyari hai
-  Nasir honge sab ahle aza
-  
+  Ke bas Maula aane waale haiṅ
+  Haaṅ mere Maula aane waale haiṅ
+
+  1
+  Sadiyaaṅ guzri haiṅ phir bhi safar
+  Wo Karbobala ka jaari hai
+  Ye rasm-e-azaadaari hai kya
+  Ye nusrat ki tayyaari hai
+  Naasir hoṅ ge sab ahl-e-aza
+
   2
-  Jaari hai azadari sheh ki
-  Bachhe hai lahoo may aaj bhi tar
-  Ay maaon shaheedon ki maaon
-  Qurban kiye hai tum ne pisar
-  Maula khud denge iska sila
-  
+  Jaari hai azaadaari Shah ki
+  Bachche haiṅ lahu mein aaj bhi tar
+  Ae maaṅoṅ shahidoṅ ki maaṅoṅ
+  Qurbaan kiya hai tum ne pisar
+  Maula khud deṅ ge is ka sila
+
   3
-  Zehra ka pisar ab aayega
-  Azaad karayega kaaba
-  Aayega waaris e karbobala
-  Badla wo lega baqayye ka
-  Hoga tameer har ek rauza
-  
+  Zehra ka pisar ab aaye ga
+  Aazaad karaaye ga Kaaba
+  Aaye ga waaris-e-Karbobala
+  Badla wo le ga baqiyya ka
+  Hoga taamir har ik rauza
+
   4
-  Ay maaon behno sharm o haya
-  Aur izzat ka bhi dhyan rahe
-  Zehra ki mehnat ka ho khayal
-  Aur zainab ka bhi maan rahe
-  Rakhna hai tumhe qayam parda
-  
+  Ae maaṅoṅ behnoṅ sharm o haya
+  Aur izzat ka bhi dhyaan rahe
+  Zehra ki mehnat ka ho khayaal
+  Aur Zainab ka bhi maan rahe
+  Rakhna hai tumheṅ qaaim parda
+
   5
   Zehra ke pisar ke khaatir ab
-  Ghar kaise sajaya hai tum ne
-  Maahol ho maula ke qaabil
-  Khud unko bulaya hai tumne
+  Ghar kaise sajaaya hai tum ne
+  Maahaul ho Maula ke qaabil
+  Khud un ko bulaaya hai tum ne
   Dar khol ke baitho taqwe ka
-  
+
   6
-  Qasim ke tukdon ka badla
-  Har shaam ke pathar ka badla
+  Qaasim ke tukroṅ ka badla
+  Har Shaam ke patthar ka badla
   Zehra ki musibat ka badla
-  Zainab ki chadar ka badla
-  Jaoge kahan tum ahle jafa
-  
+  Zainab ki chaadar ka badla
+  Jaaoge kahaaṅ tum ahl-e-jafa
+
   7
-  Bin haath gire jab ghode se
-  Kaisi ye musibat thi haye
-  Ghazi ki ek hi khwahish hai
-  Maula ki ziyarat ho jaaye
-  Ay maut de mohlat mujhko zara
-  
+  Bin haath gire jab ghore se
+  Kaisi ye musibat thi haaye
+  Ghaazi ki ek hi khwaahish hai
+  Maula ki ziyaarat ho jaaye
+  Ae maut de mohlat mujh ko zara
+
   8
-  Maula sab se pehle lenge
-  Mohsin ki shahadat ka badla
-  Bacchi ke tamachon ka badla
+  Maula sab se pehle leṅ ge
+  Mohsin ki shahaadat ka badla
+  Bachchi ke tamaachoṅ ka badla
   Sajjad ki zehmat ka badla
-  Ya saarallah ka hai naara
-  
+  Ya Saarallah ka hai naara
+
   9
-  Ay shadman aur qamar ab hum
-  Dushman ke muqabil datt jaye
-  Tukde ho laakh dhamakon se
-  Kat'te hai haath to kat jaaye
-  Thaame rahe parcham maula ka
-  Ghar ghar may bichado frashe aza
+  Ae Shadmaaṅ aur Qamar ab ham
+  Dushman ke muqaabil dat jaayeṅ
+  Tukre hoṅ laakh dhamaakoṅ se
+  Katte haiṅ haath to kat jaayeṅ
+  Thaame raheṅ parcham Maula ka
+
+  Ghar ghar mein bichha do farsh-e-aza
   Maula ko dena hai pursa
 # source_id: nohayonline:9c06d11784ce892b0d82
 # source_url: https://www.nohayonline.com/details_content.php?id=2359
 # raw_sha256: b7c98c36e65d65beb98e50f9b5ec5ed8f1fdc6539c1de96e63243b9ea0ced34f
 ---
+میرے مولا آنے والے ہیں
 
-میرے مولا آنے والے ہے
-
-۱
 اگر حسین کے مقصد سے ہے وفاداری
 تو پھر امام کی نصرت ہے یہ عزاداری
 امام عصر کو گھر میں اگر بلانا ہے
 بس اتنا کرنا ہے فرش عزا بچھانا ہے
+
 گھر گھر میں بچھا دو فرش عزا
 مولا کو دینا ہے پرسہ
-کے بس مولا آنے والے ہے
-ہاں میرے مولا آنے والے ہے
-صدیاں گزری ہے پھر بھی سفر
+کہ بس مولا آنے والے ہیں
+ہاں میرے مولا آنے والے ہیں
+
+۱
+صدیاں گزری ہیں پھر بھی سفر
 وہ کربوبلا کا جاری ہے
 یہ رسم عزاداری ہے کیا
 یہ نصرت کی تیاری ہے
-ناصر ہو نگے سب اہلِ عزا
+ناصر ہوں گے سب اہلِ عزا
 
 ۲
 جاری ہے عزاداری شہ کی
 بچے ہیں لہو میں آج بھی تر
 اے ماؤں شہیدوں کی ماؤں
 قربان کیا ہے تم نے پسر
-مولا خود دینگے اس کا صلہ
+مولا خود دیں گے اس کا صلہ
 
 ۳
-زہرا کا پسر اب آے گا
-آزاد کراے گا کعبہ
-آے گا وارث کربوبلا
+زہرا کا پسر اب آئے گا
+آزاد کرائے گا کعبہ
+آئے گا وارث کربوبلا
 بدلہ وہ لے گا بقیہ کا
 ہوگا تعمیر ہر اک روضہ
 
 ۴
-اے ماؤں بہنوں شرم و حیاء
+اے ماؤں بہنوں شرم و حیا
 اور عزت کا بھی دھیان رہے
 زہرا کی محنت کا ہو خیال
 اور زینب کا بھی مان رہے
-رکھنا ہے تمہیں قایم پردہ
+رکھنا ہے تمہیں قائم پردہ
 
 ۵
-زہرا کا پسر کے خاطر اب
+زہرا کے پسر کے خاطر اب
 گھر کیسے سجایا ہے تم نے
 ماحول ہو مولا کے قابل
-خود انکو بلایا ہے تم نے
+خود ان کو بلایا ہے تم نے
 در کھول کے بیٹھو تقوے کا
 
 ۶
@@ -143,10 +148,10 @@ romanLyrics: |-
 
 ۷
 بن ہاتھ گرے جب گھوڑے سے
-کیسی یہ مصیبت تھی ہاے
+کیسی یہ مصیبت تھی ہائے
 غازی کی ایک ہی خواہش ہے
-مولا کی زیارت ہو جاے
-اے موت دے مہلت مجھکو زرا
+مولا کی زیارت ہو جائے
+اے موت دے مہلت مجھ کو ذرا
 
 ۸
 مولا سب سے پہلے لیں گے
@@ -157,9 +162,10 @@ romanLyrics: |-
 
 ۹
 اے شادماں اور قمر اب ہم
-دشمن کے مقابل ڈٹ جاے
-ٹکڑے ہو لاکھ دھماکوں سے
-کٹتے ہیں ہاتھ تو کٹ جاے
-تھامے رہے پرچم مولا کا
+دشمن کے مقابل ڈٹ جائیں
+ٹکڑے ہوں لاکھ دھماکوں سے
+کٹتے ہیں ہاتھ تو کٹ جائیں
+تھامے رہیں پرچم مولا کا
+
 گھر گھر میں بچھا دو فرش عزا
 مولا کو دینا ہے پرسہ

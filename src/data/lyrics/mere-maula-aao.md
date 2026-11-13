@@ -1,77 +1,77 @@
 ---
-title: "میرے مولا آئو کہ مدت ہوئی ہے"
+title: "میرے مولا آؤ کہ مدت ہوئی ہے"
 alternateTitle: "Mere Maula Aao"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Mere maula aao ke muddat hui hai
-  
+  Mere Maula aao ke muddat hui hai
+  Sitam zaalimoṅ ke uthaate uthaate
+  Tere dushmanoṅ ki guzarti hai Maula
+  Tere dostoṅ ko sataate sataate
+
   1
-  Sitam zaalimo ke uthate uthate
-  Tere dushmano ki guzarti hai maula
-  Tere doston ko satate satate
-  Guzarti hai jaisi guzarenge maula
-  Na haari hai himmat na haarenge maula
+  Guzarti hai jaise guzaareṅ ge Maula
+  Na haari hai himmat na haareṅ ge Maula
   Sitam thak gaya hai hue kund khanjar
-  Lahoo momino ka bahate bahate
-  
+  Lahu mominoṅ ka bahaate bahaate
+
   2
-  Kahin nauha matam kahin aaho zaari
-  Safar karbala ka musalsal hai jaari
-  Jhuke jaa rahe hai zaeefon ke kaandhe
-  Jawano ke laashe uthate uthate
-  
+  Kahiṅ nauha maatam kahiṅ aah o zaari
+  Safar Karbala ka musalsal hai jaari
+  Jhuke jaa rahe haiṅ zaifoṅ ke kaandhe
+  Jawaanoṅ ki laasheṅ uthaate uthaate
+
   3
-  Layeeno ne hum par mazaalim wo dhaaye
-  Jawan saal laashon pe laashon uthaye
-  Chale hai shahadat ka sehra sajaye
-  Wo shaadi ka sehra sajate sajate
-  
+  Lainoṅ ne ham par mazaalim wo dhaaye
+  Jawaaṅ saal laashoṅ pe laashe uthaaye
+  Chale haiṅ shahaadat ka sehra sajaaye
+  Wo shaadi ka sehra sajaate sajaate
+
   4
-  Jo behne hai zinda to bhai nahi hai
-  Hai maa baap baakhi to bete nahi hai
-  Jo bete hai baakhi to saaya nahi hai
-  Jigar kaampta hai batate batate
-  
+  Jo behneṅ haiṅ zinda to bhaai nahiṅ haiṅ
+  Haiṅ maaṅ baap baaqi to bete nahiṅ haiṅ
+  Jo bete haiṅ baaqi to saaya nahiṅ hai
+  Jigar kaampta hai bataate bataate
+
   5
-  Gharon se chalay thay jo purse ki khaatir
-  Wo maare gaye raaston mein musafir
-  Kabhi jaate jaate juloos e aza mein
-  Kabhi mashad o karbala jaate jaate
-  
+  Gharoṅ se chale the jo purse ki khaatir
+  Wo maare gaye raastoṅ mein musaafir
+  Kabhi jaate jaate julus-e-aza mein
+  Kabhi Mashhad o Karbala jaate jaate
+
   6
-  Thi sughra ke lab par sada ye duhaai
-  Chalay aao baba chalay aao bhai
-  Atakti hai seene mein ab meri saansein
-  Tumhe dayr ho jaye na aate aate
-  
+  Thi Sughra ke lab par sada ye duhaai
+  Chale aao Baba chale aao bhaai
+  Atakti haiṅ sine mein ab meri saanseṅ
+  Tumheṅ der ho jaaye na aate aate
+
   7
-  Zaban se jo ki baat usne nibhali
-  Piya thanda pani na saaye mein aayi
-  Zamane se uthi hai asghar ki maadar
-  Qalayon mein jhoola jhulate jhulate
-  
+  Zabaaṅ se jo ki baat us ne nibha li
+  Piya thanda paani na saaye mein aayi
+  Zamaane se uthi hai Asghar ki maadar
+  Kalaaiyoṅ mein jhula jhulaate jhulaate
+
   8
   Khuda jaanta hai wo kaisa tha manzar
-  Kaleje pe abid ke chalte thay khanjar
-  Jawani zaeefi ke dar par khadi thi
-  Sakina ki turbat banate banate
+  Kaleje pe Aabid ke chalte the khanjar
+  Jawaani zaifi ke dar par khari thi
+  Sakina ki turbat banaate banaate
 # source_id: nohayonline:28e1c0e27045df806fd9
 # source_url: https://www.nohayonline.com/details_content.php?id=324
 # raw_sha256: 8324b49d050ba2ffb1a6e2b6e00a8111fff24523df8c5d1a1bf3837155f7fd1d
 ---
-
-میرے مولا آئو کہ مدت ہوئی ہے
-
-۱
+میرے مولا آؤ کہ مدت ہوئی ہے
 ستم ظالموں کے اُٹھاتے اُٹھاتے
 تیرے دشمنوں کی گزرتی ہے مولا
 تیرے دوستوں کو ستاتے ستاتے
+
+۱
 گزرتی ہے جیسے گزاریں گے مولا
 نہ ہاری ہے ہمت نہ ہاریں گے مولا
 ستم تھک گیا ہے ہوئے کُند خنجر
@@ -103,8 +103,8 @@ romanLyrics: |-
 
 ۶
 تھی صغریٰ کے لب پر صدا یہ دوہائی
-چلے آئو بابا چلے آئو بھائی
-اٹکتی ہیںسینے میں اب میری سانسیں
+چلے آؤ بابا چلے آؤ بھائی
+اٹکتی ہیں سینے میں اب میری سانسیں
 تمہیں دیر ہو جائے نہ آتے آتے
 
 ۷

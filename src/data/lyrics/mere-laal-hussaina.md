@@ -1,51 +1,59 @@
 ---
-title: ماں آی ہے مظلوم میرے لال حسینا
-alternateTitle: Mere Laal Hussaina
+title: ماں آئی ہے مظلوم میرے لال حسینا
+alternateTitle: Mere Laal Husaina
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mohib Fazli"
+reciter: "Ali Yazdan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Maa aayi hai mazloom mere laal hussaina
-  Aaja meri aaghosh may behaal hussaina
+  Maaṅ aayi hai mazlum mere laal Husaina
+  Aaja meri aaghosh mein behaal Husaina
 
   1
-  Maqtal may baqiyya se thi jis waqt mai pahunchi
-  Ghodon se teri laash thi pamaal hussaina
+  Maqtal mein baqiyya se thi jis waqt main pahunchi
+  Ghoroṅ se teri laash thi paamaal Husaina
+  Mere laal Husaina mere laal Husaina
 
   2
-  Hae hae mere bete ka badan khoon may tar hai
-  Aulaad e payamabar ke ujadne ki khabar hai
-  Poshak hai zakhmon se teri laal hussaina
+  Haaye haaye mere bete ka badan khuṅ mein tar hai
+  Aulaad-e-Payambar ke ujarne ki khabar hai
+  Poshaak hai zakhmoṅ se teri laal Husaina
+  Mere laal Husaina mere laal Husaina
 
   3
-  Mai hogayi barbaad qayamat ki ghadi hai
-  Be-gor o kafan ran may teri laash padi hai
-  Ghurbat may tera hogaya kya haal hussaina
+  Main ho gayi barbaad qayaamat ki ghari hai
+  Be gor o kafan ran mein teri laash pari hai
+  Ghurbat mein tera ho gaya kya haal Husaina
+  Mere laal Husaina mere laal Husaina
 
   4
-  Phat jaaye na sadme se kahin maa ka kaleja
-  Aankhein tu zara khol de maa ayi hai beta
-  Baahon ko galay may tu mere daal hussaina
+  Phat jaaye na sadme se kahiṅ maaṅ ka kaleja
+  Aankheṅ tu zara khol de maaṅ aayi hai beta
+  Baahoṅ ko gale mein tu mere daal Husaina
+  Mere laal Husaina mere laal Husaina
 
   5
-  Na zeen pe laasha hai tera aur na zameen par
-  Aaja ay mere laal ke sar zaanu pa rakh kar
-  Baandhungi tere sar pe mai rumaal hussaina
+  Na ziṅ pe laasha hai tera aur na zamiṅ par
+  Aaja ae mere laal ke sar zaanu pe rakh kar
+  Baandhuṅ gi tere sar pe main rumaal Husaina
+  Mere laal Husaina mere laal Husaina
 
   6
-  Zainab ko rida tujhko kafan bhi na milega
-  Ghurbat pe teri royegi ta hashr ye dukhiya
-  Kholungi teri laash pe mai baal hussaina
+  Zainab ko rida tujh ko kafan bhi na mile ga
+  Ghurbat pe teri roye gi taa hashr ye dukhiya
+  Kholuṅ gi teri laash pe main baal Husaina
+  Mere laal Husaina mere laal Husaina
 
   7
-  Ye khaule payambar hai mohib mit na sakega
-  Ek khaum zamane may khuda khalq karega
-  Gham tera manayegi jo har saal hussaina
+  Ye qaul-e-Payambar hai Mohib mit na sake ga
+  Ik qaum zamaane mein Khuda khalq kare ga
+  Gham tera manaaye gi jo har saal Husaina
+  Mere laal Husaina mere laal Husaina
 # source_id: nohayonline:b338b7ec5d3284583695
 # source_url: https://www.nohayonline.com/details_content.php?id=2493
 # raw_sha256: d1ec726b73f0cc43fb3f0a3da13340e86d48140f4b45fb7ee1ae479c229f2a03
@@ -56,39 +64,46 @@ romanLyrics: |-
 # source_url: https://www.ziyaraat.net/api/noha/2258
 # raw_sha256: 77bb18c8ea2d7fa09d3e0db43ddc079605c04d61a32e98c2de8bdd6c81d75a45
 ---
-ماں آی ہے مظلوم میرے لال حسینا
+ماں آئی ہے مظلوم میرے لال حسینا
 آجا میری آغوش میں بے حال حسینا
 
 ۱
 مقتل میں بقیہ سے تھی جس وقت میں پہنچی
 گھوڑوں سے تیری لاش تھی پامال حسینا
+میرے لال حسینا میرے لال حسینا
 
 ۲
-ہاے ہاے میرے بیٹے کا بدن خوں میں تر ہے
-اولاد پیمبر کے اجڑنے کے خبر ہے
+ہائے ہائے میرے بیٹے کا بدن خوں میں تر ہے
+اولاد پیمبر کے اجڑنے کی خبر ہے
 پوشاک ہے زخموں سے تیری لال حسینا
+میرے لال حسینا میرے لال حسینا
 
 ۳
-میں ہو گیء برباد قیامت کی گھڑی ہے
+میں ہو گئی برباد قیامت کی گھڑی ہے
 بے گور و کفن رن میں تیری لاش پڑی ہے
 غربت میں تیرا ہو گیا کیا حال حسینا
+میرے لال حسینا میرے لال حسینا
 
 ۴
 پھٹ جائے نہ صدمے سے کہیں ماں کا کلیجہ
-آنکھیں تو زرا کھول دے ماں آی ہے بیٹا
+آنکھیں تو ذرا کھول دے ماں آئی ہے بیٹا
 باہوں کو گلے میں تو میرے ڈال حسینا
+میرے لال حسینا میرے لال حسینا
 
 ۵
 نہ زیں پہ لاشہ ہے تیرا اور نہ زمیں پر
-آجا اے میرے لال کے سر زانوں پہ رکھ کر
-باندھونگی تیرے سر پہ میں رمال حسینا
+آجا اے میرے لال کے سر زانو پہ رکھ کر
+باندھوں گی تیرے سر پہ میں رومال حسینا
+میرے لال حسینا میرے لال حسینا
 
 ۶
-زینب کو ردا تجھکو کفن بھی نہ ملے گا
-غربت پہ تیری روے گی تا حشر یہ دکھیا
-کھولونگی تیری لاش پہ میں بال حسینا
+زینب کو ردا تجھ کو کفن بھی نہ ملے گا
+غربت پہ تیری روئے گی تا حشر یہ دکھیا
+کھولوں گی تیری لاش پہ میں بال حسینا
+میرے لال حسینا میرے لال حسینا
 
 ۷
-یہ کھلے پیمبر ہے محب مٹ نہ سکے گا
+یہ قول پیمبر ہے محب مٹ نہ سکے گا
 اک قوم زمانے میں خدا خلق کرے گا
-غم تیرا مناینگی جو ہر سال حسینا
+غم تیرا منائے گی جو ہر سال حسینا
+میرے لال حسینا میرے لال حسینا
