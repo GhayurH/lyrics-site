@@ -1,65 +1,66 @@
 ---
 title: "میت حسن حسین پدر کی اٹھاتے ہیں"
-alternateTitle: "Mayyat Hassan Hussain"
+alternateTitle: "Mayyat Hasan Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Ali Khan Lakhnavi"
+reciter: "Ghadeer Fatima"
 tags: ["noImage"]
-aliases: []
+aliases: ["Mayyat Hassan Hussain"]
 published: false
 romanLyrics: |-
-  Mayyat hassan hussain padar ki uthaate hai
-  Ahle madina khhak saron par udaate hai
+  Mayyat Hasan Husain padar ki uthaate haiṅ
+  Ahl-e-Madina khaak saroṅ par uraate haiṅ
 
   1
-  Ekkeeswi ko ho gaye maula ali shaheed
-  Hum sab isi liye gham e hyder manaate hai
+  Ikkiswiṅ ko ho gaye Maula Ali shahid
+  Hum sab isi liye gham-e-Haidar manaate haiṅ
 
   2
-  Kehti hai ek ek se kulsoom kya karun
-  Amma ki tarha chod ke baba bhi jaate hai
+  Kehti hai ek ek se Kulsum kya karuṅ
+  Amma ki tarah chhor ke Baaba bhi jaate haiṅ
 
   3
-  Gham ki siyaah aandhiyan ut'thi hai chaar soo
-  Aasaar kayenaat ke phir dagmagate hai
+  Gham ki siyaah aandhiyaṅ uthti hai chaar su
+  Aasaar kaainaat ke phir dagmagaate haiṅ
 
   4
-  Afsoos qatl kar diya hyder ko sajde mein
-  Zalim khuda ke ghar ko bhi maqtal banate hai
+  Afsos qatl kar diya Haidar ko sajde mein
+  Zaalim Khuda ke ghar ko bhi maqtal banaate haiṅ
 
   5
-  Dekho ajeeb haal hai ummal baneen ka
-  Kaabu mein dil nahi hai khadam dagmagate hai
+  Dekho ajib haal hai Ummul Banin ka
+  Qaabu mein dil nahiṅ hai qadam dagmagaate haiṅ
 
   6
-  Abbas bole maa se ke baba se poochiye
-  Ye to bataye kis pa hamein chode jaate hai
+  Abbas bole maaṅ se ke Baaba se puchhiye
+  Ye to bataaye kis pe hameṅ chhore jaate haiṅ
 
   7
-  Sadma hai gibraeel ko poocho na is qadar
-  Aaqa pe apne khoon ke aansu bahate hai
+  Sadma hai Jibril ko puchho na is qadar
+  Aaqa pe apne khun ke aansu bahaate haiṅ
 
   8
-  Lillaah koi pooch le zainab ke dil ka haal
-  Reh reh ke zakhm seene par nashtar chalate hai
+  Lillaah koi puchh le Zainab ke dil ka haal
+  Reh reh ke zakhm sine par nashtar chalaate haiṅ
 
   9
-  Jaate huwe janaze ko dekha to ro padi
-  Murghabiyon mein bain hai razzakh jaate hai
+  Jaate hue janaaze ko dekha to ro pari
+  Murghaabiyoṅ mein bain hai Razzaaq jaate haiṅ
 
   10
-  Daamad e mustafa ka hai kya momino kusoor
-  Kyun ashkiyan janaze pa pathar chalate hai
+  Daamaad-e-Mustafa ka hai kya mominoṅ qusur
+  Kiuṅ ashqiyaa janaaze pe patthar chalaate haiṅ
 
   11
-  Qismat hai jin ki achi wohi jaaten hai najaf
-  Jo door hai wo ashkon ki chadar chadate hai
+  Qismat hai jin ki achchhi wohi jaate haiṅ Najaf
+  Jo dur haiṅ wo ashkoṅ ki chaadar charhaate haiṅ
 
   12
-  Aansu baha ke shaah par taskeen milti hai
-  Dunya ke gham raza mujhe jab bhi satate hai
+  Aansu baha ke Shaah par taskin milti hai
+  Dunya ke gham Raza mujhe jab bhi sataate haiṅ
 # source_id: nohayonline:5dde262a90cf2481cd7a
 # source_url: https://www.nohayonline.com/details_content.php?id=1987
 # raw_sha256: 9a386715288663de9aec7be2d5b7ec083416bb0008a29877c2be65bcff30ea22
@@ -68,8 +69,8 @@ romanLyrics: |-
 اہلِ مدینہ خاک سروں پر اڑاتے ہیں
 
 ۱
-اکیسویں کو ہو گےء مولا علی شہید
-ہم سب اسی لےء غم حیدر مناتے ہیں
+اکیسویں کو ہو گئے مولا علی شہید
+ہم سب اسی لیے غمِ حیدر مناتے ہیں
 
 ۲
 کہتی ہے ایک ایک سے کلثوم کیا کروں
@@ -77,7 +78,7 @@ romanLyrics: |-
 
 ۳
 غم کی سیاہ آندھیاں اٹھتی ہے چار سو
-آثار کاینات کے پھر ڈگمگاتے ہیں
+آثار کائنات کے پھر ڈگمگاتے ہیں
 
 ۴
 افسوس قتل کر دیا حیدر کو سجدے میں
@@ -88,23 +89,23 @@ romanLyrics: |-
 قابو میں دل نہیں ہے قدم ڈگمگاتے ہیں
 
 ۶
-عباس بولے ماں سے کہ بابا سے پوچھیےء
-یہ تو بتاے کس پہ ہمیں چھوڑے جاتے ہیں
+عباس بولے ماں سے کہ بابا سے پوچھیے
+یہ تو بتائے کس پہ ہمیں چھوڑے جاتے ہیں
 
 ۷
-صدمہ ہے جبرییل کو پوچھو نہ اس قدر
-آقا پہ اپنے خون کے آنسوں بہاتے ہیں
+صدمہ ہے جبریل کو پوچھو نہ اس قدر
+آقا پہ اپنے خون کے آنسو بہاتے ہیں
 
 ۸
-لللہ کوی پوچھ لے زینب کے دل کا حال
+للہ کوئی پوچھ لے زینب کے دل کا حال
 رہ رہ کے زخم سینے پر نشتر چلاتے ہیں
 
 ۹
-جاتے ہوے جنازے کو دیکھا تو رو پڑی
+جاتے ہوئے جنازے کو دیکھا تو رو پڑی
 مرغابیوں میں بین ہے رزاق جاتے ہیں
 
 ۱۰
-داماد مصطفیٰ کا ہے کیا مومنوں قصور
+دامادِ مصطفیٰ کا ہے کیا مومنوں قصور
 کیوں اشقیاء جنازے پہ پتھر چلاتے ہیں
 
 ۱۱
@@ -112,5 +113,5 @@ romanLyrics: |-
 جو دور ہیں وہ اشکوں کی چادر چڑھاتے ہیں
 
 ۱۲
-آنسوں بہا کے شاہ پر تسکین ملتی ہے
+آنسو بہا کے شاہ پر تسکین ملتی ہے
 دنیا کے غم رضا مجھے جب بھی ستاتے ہیں

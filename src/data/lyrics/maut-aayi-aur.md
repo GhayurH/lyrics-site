@@ -1,92 +1,93 @@
 ---
-title: "موت آی اور علی اصغر کو بہلا لے گیء"
+title: "موت آئی اور علی اصغر کو بہلا لے گئی"
 alternateTitle: "Maut Aayi Aur"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Suroor Lakhnavi"
+poet: "Surur Lakhnavi"
+reciter: "Anj. Grohe Husain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Maut aayi aur ali asghar ko behla legayi
-  Haye wo bhi teen din ka bhooka pyasa le gayi
+  Maut aayi aur Ali Asghar ko behla le gayi
+  Haaye wo bhi tin din ka bhuka pyaasa le gayi
 
   1
-  Aag qaimon mein lagi asghar ka jhoola jal gaya
-  Ek nishani reh gayi th, wo bhi dunya le gayi
+  Aag khaimoṅ mein lagi Asghar ka jhula jal gaya
+  Ek nishaani reh gayi thi, wo bhi dunya le gayi
 
   2
-  Baap ki aankhon ke aage mar gaya kadiyal jawan
-  Seena e akbar se jab barchi kaleja le gayi
+  Baap ki aankhoṅ ke aage mar gaya kariyal jawaaṅ
+  Sina-e-Akbar se jab barchhi kaleja le gayi
 
   3
-  Shab ki biyahi apni aankhon mein basa kar dasht se
-  Khoon mein lipta hua dulha ka sehra le gayi
+  Shab ki byaahi apni aankhoṅ mein basa kar dasht se
+  Khuṅ mein lipta hua dulha ka sehra le gayi
 
   4
-  Apne bacchon par na royi bhai ke gham ke siwa
-  Ashq aaye bhi to zainab dil ko samjha le gayi
+  Apne bachchoṅ par na royi bhaai ke gham ke siwa
+  Ashq aaye bhi to Zainab dil ko samjha le gayi
 
   5
-  Khaak par tadpe hai kya kya gulbadan ghuncha dahan
-  Subhe ashoora baharein baaghe zehra le gayi
+  Khaak par tarpe hai kya kya gulbadan ghuncha dahan
+  Subh-e-Aashura bahaareṅ baagh-e-Zehra le gayi
 
   6
-  Qaid mein bacchi ne dam toda hai is sadme ke baad
+  Qaid mein bachchi ne dam tora hai is sadme ke baad
   Tashnagi meri mere ammu ko darya le gayi
 
   7
-  Bhai ka gham baazoun par neel aur be-pardagi
-  Leke kya aayi thi zainab aur kya kya le gayi
+  Bhaai ka gham baazuoṅ par nil aur bepardagi
+  Le ke kya aayi thi Zainab aur kya kya le gayi
 
   8
-  Qaid se chut kar madine jaa ke bano kya kare
-  Zindagi ki aakhri hasrat sakina le gayi
+  Qaid se chhut kar Madine jaa ke Baano kya kare
+  Zindagi ki aakhri hasrat Sakina le gayi
 
   9
-  Khaak par har umr ka laasha pada hai ay suroor
-  Do peher mein maut ghar ka ghar ye kiska le gayi
+  Khaak par har umr ka laasha para hai ae Surur
+  Do peher mein maut ghar ka ghar ye kis ka le gayi
 # source_id: nohayonline:5c8bc90893930728fa05
 # source_url: https://www.nohayonline.com/details_content.php?id=3734
 # raw_sha256: 631f6b552d3e5fdba6a168fec90619666239ba3e0179f89fd381bcedc9d0a8c5
 ---
-موت آی اور علی اصغر کو بہلا لے گیء
-ہاے وہ بھی تین دن کا بھوکا پیاسا لے گیء
+موت آئی اور علی اصغر کو بہلا لے گئی
+ہائے وہ بھی تین دن کا بھوکا پیاسا لے گئی
 
 ۱
 آگ خیموں میں لگی اصغر کا جھولا جل گیا
-ایک نشانی رہ گیء تھی وہ بھی دنیا لے گیء
+ایک نشانی رہ گئی تھی وہ بھی دنیا لے گئی
 
 ۲
 باپ کی آنکھوں کے آگے مر گیا کڑیل جواں
-سینۂ اکبر سے جب برچھی کلیجہ لے گیء
+سینۂ اکبر سے جب برچھی کلیجہ لے گئی
 
 ۳
 شب کی بیاہی اپنی آنکھوں میں بسا کر دشت سے
-خوں میں لپٹا ہوا دولہا کا سہرا لے گیء
+خوں میں لپٹا ہوا دولہا کا سہرا لے گئی
 
 ۴
-اپنے بچوں پر نہ روی بھائی کے غم کے سوا
-عشق آے بھی تو زینب دل کو سمجھا لے گیء
+اپنے بچوں پر نہ روئی بھائی کے غم کے سوا
+اشک آئے بھی تو زینب دل کو سمجھا لے گئی
 
 ۵
 خاک پر تڑپے ہے کیا کیا گلبدن غنچہ دہن
-صبحِ عاشورہ بہاریں باغ زہرا لے گیء
+صبحِ عاشورہ بہاریں باغِ زہرا لے گئی
 
 ۶
-قید میں بچی نے توڑا ہے اس صدمے کے بعد
-تشنگی میری میرے عمو کو دریا لے گیء
+قید میں بچی نے دم توڑا ہے اس صدمے کے بعد
+تشنگی میری میرے عمو کو دریا لے گئی
 
 ۷
 بھائی کا غم بازوؤں پر نیل اور بے پردگی
-لے کے کیا آی تھی زینب اور کیا لے گیء
+لے کے کیا آئی تھی زینب اور کیا کیا لے گئی
 
 ۸
 قید سے چھٹ کر مدینے جا کے بانو کیا کرے
-زندگی کی آخری حسرت سکینہ لے گیء
+زندگی کی آخری حسرت سکینہ لے گئی
 
 ۹
 خاک پر ہر عمر کا لاشہ پڑا ہے اے سرور
-دو پہر میں موت گھر کا گھر یہ کس کا لے گیء
+دو پہر میں موت گھر کا گھر یہ کس کا لے گئی

@@ -6,55 +6,58 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nasir Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Mayyat hai sakina ki andhera haye zindan
-  Allah na dikhlaye ab aisa zindan
+  Mayyat hai Sakina ki andhera haaye zindaan
+  Allah na dikhlaaye ab aisa zindaan
 
   1
-  Kurte ka kafan ghusl diya ashkon se jisko
-  Dafnaya usay kaise ye sajjad se poocho
-  Khamosh hui bachi to rota raha zindaan
+  Kurte ka kafan ghusl diya ashkoṅ se jis ko
+  Dafnaaya use kaise ye Sajjad se puchho
+  Khaamosh hui bachchi to rota raha zindaan
 
   2
-  Udte huwe dekhe jo parinde to pukari
-  Ay taayiron sughra ko khabar do ye hamari
-  Tum khush raho sughra mere kismat may tha zindan
+  Urte hue dekhe jo parinde to pukaari
+  Ae taayiroṅ Sughra ko khabar do ye hamaari
+  Tum khush raho Sughra meri qismat mein tha zindaan
 
   3
-  Kano ka lahoo chand se chehre pe jama tha
-  Qaimo may lagi aag to daaman bhi jala tha
-  Tanhai may bachi ko dasta raha zindan
+  Kaanoṅ ka lahu chaand se chehre pe jama tha
+  Khaimoṅ mein lagi aag to daaman bhi jala tha
+  Tanhaai mein bachchi ko dasta raha zindaan
 
   4
-  Sehmi hui rehti thi sitamgaaron ke dar se
-  Shikwe kiya karti thi fakhad baap ke sar se
-  Likha gaya kismat may ye kaisa zindan
+  Sehmi hui rehti thi sitamgaaroṅ ke dar se
+  Shikwe kiya karti thi faqat baap ke sar se
+  Likha gaya qismat mein ye kaisa zindaan
 
   5
-  Ab khaak pe soti hoo na takiya hai na bistar
-  Rakta nahi ek shamma koi ab to jala kar
-  Jeene nahi deta hai ay baba zindan
+  Ab khaak pe soti huṅ na takiya hai na bistar
+  Rakhta nahiṅ ek shama koi ab to jala kar
+  Jine nahiṅ deta hai ae Baaba zindaan
 
   6
-  Kehti thi phuphi qaid se kab hogi rehaai
-  Amma mere ammu ki khabar kyon nahi aayi
-  Tukde kiye deta hai kaleja mera zindan
-  Sar baap ka paaya to wo phir is tarha soyi
-  Phir royi nahi uske liye maut thi royi
-  Deta raha sajjad ko pursa sada zindan
+  Kehti thi phuphi qaid se kab hogi rihaai
+  Amma mere ammu ki khabar kiuṅ nahiṅ aayi
+  Tukre kiye deta hai kaleja mera zindaan
 
   7
-  Maa kehti rahi aao utho neend se jaago
-  Azaad hui qaid se mai jaati hoo ghar ko
-  Milne chalo sughra se ke ab khul gaya zindan
+  Sar baap ka paaya to wo phir is tarah soyi
+  Phir royi nahiṅ us ke liye maut thi royi
+  Deta raha Sajjad ko pursa sada zindaan
 
   8
-  Ghar jaane ka arman tha sakina ko jo rehaan
-  Marke bhi na pura hua us bachi ka armaan
-  Masoom sakina ka marqad bana zindan
+  Maaṅ kehti rahi aao utho nind se jaago
+  Aazaad hui qaid se main jaati huṅ ghar ko
+  Milne chalo Sughra se ke ab khul gaya zindaan
+
+  9
+  Ghar jaane ka armaaṅ tha Sakina ko jo Rehaan
+  Mar ke bhi na pura hua us bachchi ka armaan
+  Maasum Sakina ka marqad bana zindaan
 # source_id: nohayonline:a7c70d56459b19fff725
 # source_url: https://www.nohayonline.com/details_content.php?id=119
 # raw_sha256: 0591bfe83b462aa88a02509d0f81a5098fa0e295900081654ef00c28ecb7b920
@@ -64,22 +67,22 @@ romanLyrics: |-
 
 ۱
 کُرتے کا کفن غسل دیا اشکوں سے جس کو
-دفنا اُسے کیسے یہ سجاد سے پوچھو
+دفنایا اُسے کیسے یہ سجاد سے پوچھو
 خاموش ہوئی بچی تو روتا رہا زندان
 
 ۲
 اُڑتے ہوئے دیکھے جو پرندے تو پُکاری
-اے طاہروں صغریٰ کو خبر دو یہ ہماری
+اے طائروں صغریٰ کو خبر دو یہ ہماری
 تم خوش رہو صغریٰ میری قسمت میں تھا زندان
 
 ۳
 کانوں کا لہو چاند سے چہرے پہ جما تھا
-خیموں میں لگی آگ جو دامن بھی جلا تھا
-تنہائی میں بچی ڈستا رہا زندان
+خیموں میں لگی آگ تو دامن بھی جلا تھا
+تنہائی میں بچی کو ڈستا رہا زندان
 
 ۴
 سہمی ہوئی رہتی تھی ستمگاروں کے ڈر سے
-شکوے کیا کرتی تھی فقد باپ کے سر سے
+شکوے کیا کرتی تھی فقط باپ کے سر سے
 لکھا گیا قسمت میں یہ کیسا زندان
 
 ۵
@@ -89,18 +92,20 @@ romanLyrics: |-
 
 ۶
 کہتی تھی پھُوپھی قید سے کب ہو گی رہائی
-اما ں میرے عموں کی خبر کیوں نہیں آئی
-ٹکڑے کیئے دیتا ہے کلیجہ میرا زندان
-سر باپ کا پایا تو وہ پھر اس طرح سوئی
-پھر روئی نہیں اُس کے لیے موت تھی روئی
-رہا سجاد کو پُرسہ صدا زنداندیتا
+اماں میرے عموں کی خبر کیوں نہیں آئی
+ٹکڑے کیے دیتا ہے کلیجہ میرا زندان
 
 ۷
-ماں کہتی رہی آئو اُٹھو نیند سے جاگو
-آزاد ہوئی قید سے میں جاتی ہوں گھر کو
-ملنے چلو صغریٰ سے کے اب کھُل گیا زندان
+سر باپ کا پایا تو وہ پھر اس طرح سوئی
+پھر روئی نہیں اُس کے لیے موت تھی روئی
+دیتا رہا سجاد کو پُرسہ صدا زندان
 
 ۸
+ماں کہتی رہی آؤ اُٹھو نیند سے جاگو
+آزاد ہوئی قید سے میں جاتی ہوں گھر کو
+ملنے چلو صغریٰ سے کہ اب کھُل گیا زندان
+
+۹
 گھر جانے کا ارماں تھا سکینہ کو جو ریحان
 مر کے بھی نہ پورا ہوا اُس بچی کا ارمان
 معصوم سکینہ کا مرقد بنا زندان
