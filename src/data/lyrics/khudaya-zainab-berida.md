@@ -5,40 +5,41 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Khudaya zainab berida shaam ka bazaar
-  Aate hai nazar hashr ke aasaar
+  Khudaya Zainab berida Shaam ka baazaar
+  Aate haiṅ nazar hashr ke aasaar
 
   1
-  Kya shaam may ab koi musalman nahi hai
-  Ghere huwe kaabe ko hai kuffaar
+  Kya Shaam mein ab koi musalmaan nahiṅ hai
+  Ghere hue Kaabe ko haiṅ kuffaar
 
   2
-  Durron ke sitam aur mohamed ki nawasi
-  Shal ho na gaye daste sitamgaar
+  Durroṅ ke sitam aur Muhammad ki nawaasi
+  Shal ho na gaye dast-e-sitamgaar
 
   3
-  Masoom sakina ko tamachon se bachale
-  Ye daste sitam phool se rukhsaar
+  Maasum Sakina ko tamaachoṅ se bachaa le
+  Ye dast-e-sitam phul se rukhsaar
 
   4
-  Rukh zard hai sadme se lahoo aankhon se jaari
-  Dam tod na de khaafila saalaar
+  Rukh zard haiṅ sadme se lahu aankhoṅ se jaari
+  Dam tor na de qaafila saalaar
 
   5
-  Ek ek se jo aaj rida maang rahe hai
-  Ye ajre risalat ke hai haqdaar
+  Ik ek se jo aaj rida maang rahi hai
+  Ye ajr-e-risaalat ke haiṅ haq daar
 
   6
-  Tatheer ki aayat se jinhe tu ne nawaza
-  Sar nange khade hai sare darbar
+  Tathir ki aayat se jise tu ne nawaaza
+  Sar nange khare haiṅ sar-e-darbaar
 
   7
-  Fizza ki hifazat ke liye khinch gayi talwar
-  Zainab ka nahi koi tarafdaar
+  Fizza ki hifaazat ke liye kheench gayi talwaar
+  Zainab ka nahiṅ koi tarafdaar
 # source_id: nohayonline:c87c0c7a751a6ddcb76d
 # source_url: https://www.nohayonline.com/details_content.php?id=1105
 # raw_sha256: e7d9dc340e658fe58d7ed252b4d54101ae2e6a25ca1b72aad5f297f11c7f945a
@@ -48,11 +49,11 @@ romanLyrics: |-
 
 ۱
 کیا شام میں اب کوئی مسلمان نہیں ہے
-گھیرے ہوے کعبے کو ہیں کفار
+گھیرے ہوئے کعبے کو ہیں کفار
 
 ۲
 دروں کے ستم اور محمد کی نواسی
-شل ہو نہ گےء دست ستمگار
+شل ہو نہ گئے دست ستمگار
 
 ۳
 معصوم سکینہ کو طمانچوں سے بچالے
@@ -71,5 +72,5 @@ romanLyrics: |-
 سر ننگے کھڑے ہیں سر دربار
 
 ۷
-فضہ کی حفاظت کے لئے کھینچ گیء تلوار
+فضہ کی حفاظت کے لئے کھینچ گئی تلوار
 زینب کا نہیں کوئی طرفدار

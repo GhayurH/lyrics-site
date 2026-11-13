@@ -5,57 +5,62 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Ali Yazdan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sakina kehti hai baba
+  Sakina kehti hai Baba
   Chale aao chale aao
-  Na aaye ammu na aaye tum
+  Na aaye Ammu na aaye tum
   Khudara chale aao
 
   1
-  Bahot hoo choti bataun kaise
-  Jo mujhko takleef ho rahi hai
-  Aray ay baba teri sakina
-  Andhere zindan mein ro rahi hai
-  Bichad se asghar se aur tum se
-  Sakina jaan apni kho rahi hai
-  Na aaye ammu na aaye tum
+  Bahut huṅ chhoti bataauṅ kaise
+  Jo mujhko taklif ho rahi hai
+  Are ae Baba teri Sakina
+  Andhere zindaaṅ mein ro rahi hai
+  Bichhar ke Asghar se aur tum se
+  Sakina jaaṅ apni kho rahi hai
+  Na aaye Ammu na aaye tum
+  Khudara chale aao
 
   2
-  Ye saal o sin aur ye aseeri
-  Andhera zindan aur sakina
-  Sahara dene ko kaun aaye
-  Jo aaye dene ko aaye eeza
-  Jo zakhm shaam e alam mein paaya
-  Wo dekho baba hai ab bhi taaza
-  Na aaye ammu na aaye tum
+  Ye saal o sin aur ye asiri
+  Andhera zindaan aur Sakina
+  Sahaara dene ko kaun aaye
+  Jo aaye dene ko aaye iza
+  Jo zakhm Shaam-e-alam mein paaya
+  Wo dekho Baba hai ab bhi taaza
+  Na aaye Ammu na aaye tum
+  Khudara chale aao
 
   3
   Ye meri tifli ye mera bachpan
-  Musibaton ke pahaad toote
+  Musibatoṅ ke pahaar tute
   Is ek nanhe se dil pe dekho
-  Uthaye hai maine kitne sadme
-  Sadayein deti thi mai tadap kar
-  Magar khabar mere li na tumne
-  Na aaye ammu na aaye tum
+  Uthaaye haiṅ main ne kitne sadme
+  Sadaaeṅ deti thi main tarap kar
+  Magar khabar meri li na tum ne
+  Na aaye Ammu na aaye tum
+  Khudara chale aao
 
   4
-  Dino ko bazaar mein phire hum
-  To raat zindan ka andhera
-  Neher pe ammu gaye hai jab se
-  Tadap gayi aab ko sakina
-  Zamana guzra na mil saka hai
-  Sukoon ka mujhko ek lamha
-  Na aaye ammu na aaye tum
+  Dinoṅ ko baazaar mein phire hum
+  To raat zindaan ka andhera
+  Nehr pe Ammu gaye haiṅ jab se
+  Tarap gayi aab ko Sakina
+  Zamaana guzra na mil saka hai
+  Sukun ka mujhko ek lamha
+  Na aaye Ammu na aaye tum
+  Khudara chale aao
 # source_id: nohayonline:355114743dd9ec69686b
 # source_url: https://www.nohayonline.com/details_content.php?id=1458
 # raw_sha256: 1e7e5c35961299538d67e1494b9e21238d0457ac332d8c38fdc6970d417667b6
 ---
 سکینہ کہتی ہے بابا
 چلے آؤ چلے آؤ
-نہ آے عمو نہ آے تم
+نہ آئے عمو نہ آئے تم
 خدارا چلے آؤ
 
 ۱
@@ -65,31 +70,35 @@ romanLyrics: |-
 اندھیرے زنداں میں رو رہی ہے
 بچھڑ کے اصغر سے اور تم سے
 سکینہ جاں اپنی کھو رہی ہے
-نہ آے عمو نہ آے تم
+نہ آئے عمو نہ آئے تم
+خدارا چلے آؤ
 
 ۲
 یہ سال و سن یہ اسیری
 اندھیرا زندان سکینہ
-سہارا دینے کو کون آے
-جو آے دینے کو آے ایذا
+سہارا دینے کو کون آئے
+جو آئے دینے کو آئے ایذا
 جو زخم شام الم میں پایا
 وہ دیکھو بابا ہے اب بھی تازہ
-نہ آے عمو نہ آے تم
+نہ آئے عمو نہ آئے تم
+خدارا چلے آؤ
 
 ۳
 یہ میری طفلی یہ میرا بچپن
 مصیبتوں کے پہاڑ ٹوٹے
 اس ایک ننھے سے دل پہ دیکھو
-اٹھاے ہیں میں نے کتنے صدمے
-صداییں دیتی تھی میں تڑپ کر
+اٹھائے ہیں میں نے کتنے صدمے
+صدائیں دیتی تھی میں تڑپ کر
 مگر خبر میری لی نہ تم نے
-نہ آے عمو نہ آے تم
+نہ آئے عمو نہ آئے تم
+خدارا چلے آؤ
 
 ۴
 دنوں کو بازار میں پھرے ہم
 تو رات زندان کا اندھیرا
-نہر پہ عمو گےء ہیں جب سے
-تڑپ گیء آب کو سکینہ
+نہر پہ عمو گئے ہیں جب سے
+تڑپ گئی آب کو سکینہ
 زمانہ گزرا نہ مل سکا ہے
 سکون کا مجھکو ایک لمحہ
-نہ آے عمو نہ آے تم
+نہ آئے عمو نہ آئے تم
+خدارا چلے آؤ
