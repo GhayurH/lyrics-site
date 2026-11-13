@@ -1,57 +1,58 @@
 ---
 title: "مقتل میں رو کے کہتی تھی زہرا میرے حسین"
-alternateTitle: "Maqtal May Ro Ke"
+alternateTitle: "Maqtal Mein Ro Ke"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Alamdar Hashmi"
+reciter: "Mir Rehan Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Maqtal mein ro ke kehti thi zehra mere hussain
-  Aa godh mein aaja mere hussain
+  Maqtal mein ro ke kehti thi Zehra mere Husain
+  Aa god mein aa jaa mere Husain
 
   1
-  Abbas mar gaya tera akbar nahi raha
-  Godhi mein jisko paala tha asgahr nahi raha
-  Sab mar chuke hai roti hai zehra mere hussain
+  Abbas mar gayaa teraa Akbar nahiṅ rahaa
+  Godi mein jis ko paalaa thaa Asghar nahiṅ rahaa
+  Sab mar chuke haiṅ roti hai Zehra mere Husain
 
   2
-  Tukde badan ke bikhre huwe dekhti rahi
-  Qasim ke tukde tu ne chune dekhti rahi
-  Ro kar uthaya tu ne jo laasha mere hussain
+  Tukre badan ke bikhre hue dekhti rahi
+  Qaasim ke tukre tu ne chune dekhti rahi
+  Ro kar uthaayaa tu ne jo laasha mere Husain
 
   3
-  Zainab ne apni nasl be-jaan kar diya
-  Bhai pa apne bachon ko qurban kar diya
-  Laasahon ke darmiyan kiya sajda mere hussain
+  Zainab ne apni nasl ko bejaan kar diyaa
+  Bhaai pe apne bachchoṅ ko qurbaan kar diyaa
+  Laashoṅ ke darmiyaaṅ kiyaa sajda mere Husain
 
   4
-  Akbar ka tu ne kaise janaza utha liya
-  Tooti kamar thi phir bhi wo laasha utha liya
-  Manzar wo kaise laila ne dekha mere hussain
+  Akbar kaa tu ne kaise janaaza uthaa liyaa
+  Tuti kamar thi phir bhi wo laasha uthaa liyaa
+  Manzar wo kaise Laila ne dekhaa mere Husain
 
   5
-  Lilaah na kar tu zibha ye mera hussain hai
-  Ay shimr teen roz ka pyasa hussain hai
-  Sar peet ke ye kehti hai zehra mere hussain
+  Lillaah na kar tu zibh ye meraa Husain hai
+  Ae Shimr tin roz kaa pyaasaa Husain hai
+  Sar pit ke ye kehti hai Zehra mere Husain
 
   6
-  Haan ab katega tera gala maa ke saamne
-  Sar hoga tera tan se juda maa ke saamne
-  Royegi dil ko thaam ke zehra mere hussain
+  Haaṅ ab kategaa teraa galaa maaṅ ke saamne
+  Sar hogaa teraa tan se judaa maaṅ ke saamne
+  Royegi dil ko thaam ke Zehra mere Husain
 
   7
-  Tu ne gala kata diya islam ke liye
-  Di jaan apni deen ke paigham ke liye
-  Khaaliq ka naam kar diya ooncha mere hussain
+  Tu ne galaa kataa diyaa Islam ke liye
+  Di jaan apni din ke paighaam ke liye
+  Khaaliq kaa naam kar diyaa unchaa mere Husain
 
   8
-  Kat'ta tha sar hussain ka roti thi bebasi
-  Ay hashmi hussain ki maa dekhti rahi
-  Manzar ye kisi maa ne na dekha mere hussain
+  Kattaa thaa sar Husain kaa roti thi bebasi
+  Ae Hashmi Husain ki maaṅ dekhti rahi
+  Manzar ye kisi maaṅ ne na dekhaa mere Husain
 # source_id: nohayonline:9665c8e3dd09a2a7e25a
 # source_url: https://www.nohayonline.com/details_content.php?id=2066
 # raw_sha256: 537f10ed16543a5569067884dce2bb777bce07c3485f62e0a85b8fa4f3f1854d
@@ -65,13 +66,13 @@ romanLyrics: |-
 سب مر چکے ہیں روتی ہے زہرا میرے حسین
 
 ۲
-ٹکڑے بدن کے بکھرے ہوے دیکھتی رہی
+ٹکڑے بدن کے بکھرے ہوئے دیکھتی رہی
 قاسم کے ٹکڑے تو نے چنے دیکھتی رہی
 رو کر اٹھایا تو نے جو لاشہ میرے حسین
 
 ۳
 زینب نے اپنی نسل کو بے جان کر دیا
-بھای پہ اپنے بچوں کو قربان کر دیا
+بھائی پہ اپنے بچوں کو قربان کر دیا
 لاشوں کے درمیاں کیا سجدہ میرے حسین
 
 ۴
@@ -80,14 +81,14 @@ romanLyrics: |-
 منظر وہ کیسے لیلیٰ نے دیکھا میرے حسین
 
 ۵
-لللہ نہ کر تو ذبح یہ میرا حسین ہے
+للہ نہ کر تو ذبح یہ میرا حسین ہے
 اے شمر تین روز کا پیاسا حسین ہے
 سر پیٹ کے یہ کہتی ہے زہرا میرے حسین
 
 ۶
 ہاں اب کٹے گا تیرا گلا ماں کے سامنے
 سر ہوگا تیرا تن سے جدا ماں کے سامنے
-روے گی دل کو تھام کے زہرا میرے حسین
+روئے گی دل کو تھام کے زہرا میرے حسین
 
 ۷
 تو نے گلا کٹا دیا اسلام کے لئے

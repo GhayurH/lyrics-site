@@ -1,51 +1,52 @@
 ---
 title: "مقتل میں گونجتی ہے صدا تشنہ لب حسین"
-alternateTitle: "Maqtal May Goonjti"
+alternateTitle: "Maqtal Mein Gunjti"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ishrat Lakhnavi"
+reciter: "Dilawar Hasan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Maqtal mein goonjti hai sada tashnalab hussain
-  Wo tashnalab sada jo raha tashnalab hussain
-  Maqtal mein goonjti hai sada tashnalab hussain
-  Haye hussain haye hussain haye hussain
+  Maqtal mein gunjti hai sadaa tishna lab Husain
+  Wo tishna lab sadaa jo rahaa tishna lab Husain
+  Maqtal mein gunjti hai sadaa tishna lab Husain
+  Haaye Husain haaye Husain haaye Husain
 
   1
-  Har har qadam pa kehta hua ya ali madad
-  Le kar jawaan ki laash chala tashnalab hussain
+  Har har qadam pe kehtaa huaa yaa Ali madad
+  Le kar jawaaṅ ki laash chalaa tishna lab Husain
 
   2
-  Zehra ne apni godh mein bad kar utha liya
-  Ghode se jab zameen par gira tashnalab hussain
+  Zehra ne apni god mein barh kar uthaa liyaa
+  Ghore se jab zamiṅ pe giraa tishna lab Husain
 
   3
-  Ahle haram pa ek qayamat guzar gayi
-  Maqtal mein jab shaheed hua tashnalab hussain
+  Ahl-e-haram pe ek qayaamat guzar gayi
+  Maqtal mein jab shahid huaa tishna lab Husain
 
   4
-  Rota hua sakina ko qaime mein chod kar
-  Khanjar ko de raha hai gala tashnalab hussain
+  Rotaa huaa Sakina ko khaime mein chhor kar
+  Khanjar ko de rahaa hai galaa tishna lab Husain
 
   5
-  Lo karbala mein khaakh ke bistar pa so gaya
-  Aagosh e fatema ka pala tashnalab hussain
+  Lo Karbala mein khaak ke bistar pe so gayaa
+  Aaghosh-e-Faatima kaa palaa tishna lab Husain
 
   6
-  Shimre layeen kalaje pa rakhe huwe churi
-  Kunbe se ho raha hai juda tashnalab hussain
+  Shimr-e-laiṅ kaleje pe rakhe hue chhuri
+  Kunbe se ho rahaa hai judaa tishna lab Husain
 
   7
-  Qasim ka jisne aqd padha tha abhi abhi
-  Ab uski laash le ke utha tashnalab hussain
+  Qaasim kaa jis ne aqd parhaa thaa abhi abhi
+  Ab us ki laash le ke uthaa tishna lab Husain
 
   8
-  Ghaafil kabhi raha nahi naam e hussain se
-  Ishrat ne apne dil pa likha tashnalab hussain
+  Ghaafil kabhi rahaa nahiṅ naam-e-Husain se
+  Ishrat ne apne dil pe likhaa tishna lab Husain
 # source_id: nohayonline:ae8b7116f491a9e9220a
 # source_url: https://www.nohayonline.com/details_content.php?id=1356
 # raw_sha256: c42303b7a6f8747fa84376acfc7a46b4a7b34a5cb029ac8f6219e79f1dcc5a37
@@ -53,18 +54,18 @@ romanLyrics: |-
 مقتل میں گونجتی ہے صدا تشنہ لب حسین
 وہ تشنہ لب صدا جو رہا تشنہ لب حسین
 مقتل میں گونجتی ہے صدا تشنہ لب حسین
-ہاے حسین ہاے حسین ہاے حسین
+ہائے حسین ہائے حسین ہائے حسین
 
 ۱
 ہر ہر قدم پہ کہتا ہوا یا علی مدد
-لے کر جواں کی لاش چل تشنہ لب حسین
+لے کر جواں کی لاش چلا تشنہ لب حسین
 
 ۲
 زہرا نے اپنی گود میں بڑھ کر اٹھا لیا
 گھوڑے سے جب زمیں پہ گرا تشنہ لب حسین
 
 ۳
-اہلِ حرم پہ ایک قیامت گزر گیء
+اہلِ حرم پہ ایک قیامت گزر گئی
 مقتل میں جب شہید ہوا تشنہ لب حسین
 
 ۴
@@ -76,13 +77,13 @@ romanLyrics: |-
 آغوشِ فاطمہ کا پلا تشنہ لب حسین
 
 ۶
-شمر لعیں کلیجے پہ رکھے ہوے چھری
+شمر لعیں کلیجے پہ رکھے ہوئے چھری
 کنبے سے ہو رہا ہے جدا تشنہ لب حسین
 
 ۷
 قاسم کا جس نے عقد پڑھا تھا ابھی ابھی
-اب اسکی لاش لے کے اٹھا تشنہ لب حسین
+اب اس کی لاش لے کے اٹھا تشنہ لب حسین
 
 ۸
-غافل کبھی رہا نہیں نام حسین سے
+غافل کبھی رہا نہیں نامِ حسین سے
 عشرت نے اپنے دل پہ لکھا تشنہ لب حسین

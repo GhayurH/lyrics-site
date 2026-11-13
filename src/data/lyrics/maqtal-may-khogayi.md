@@ -1,39 +1,40 @@
 ---
 title: "مقتل میں کھو گئی ہے اکبر کی جوانی"
-alternateTitle: "Maqtal May Khogayi"
+alternateTitle: "Maqtal Mein Kho Gayi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Maqtal may kho gayi hai akbar ki jawani
-  Soyi hai sina khaake payambar ki nishani
+  Maqtal mein kho gayi hai Akbar ki jawaani
+  Soyi hai sinaaṅ khaa ke Paighambar ki nishaani
 
   1
-  Sughra ko madine may ajab khaab ye aaya
-  Lut'te huwe dekhi hai biradar ki jawani
+  Sughra ko Madina mein ajab khwaab ye aayaa
+  Lutte hue dekhi hai biraadar ki jawaani
 
   2
-  Tukde ali akbar ke kaleje ke jo dekhe
-  Yaad aagayi phir maut ko shabbar ki jawani
+  Tukre Ali Akbar ke kaleje ke jo dekhe
+  Yaad aa gayi phir maut ko Shabbar ki jawaani
 
   3
-  Athara baras ka tha din byah ke aaye
-  Tar khoon may magar hogayi akbar ki jawani
+  Athaara baras kaa thaa din byaah ke aaye
+  Tar khuṅ mein magar ho gayi Akbar ki jawaani
 
   4
-  Rehaan shah e wala ka daaman hua khaali
-  Bachpan raha asghar ka na akbar ki jawani
+  Rehaan Shaah-e-waalaa kaa daaman huaa khaali
+  Bachpan rahaa Asghar kaa na Akbar ki jawaani
 # source_id: nohayonline:32744a52bf47e22f7b36
 # source_url: https://www.nohayonline.com/details_content.php?id=609
 # raw_sha256: 63476d7ea183bbba9dae8069d5c814ef678a5857cd4c45f12addc8a34a596e94
 ---
 مقتل میں کھو گئی ہے اکبر کی جوانی
-سوئی ہے سِناں کھا کہ پیعمبر کی نشانی
+سوئی ہے سِناں کھا کے پیغمبر کی نشانی
 
 ۱
 صغریٰ کو مدینہ میں عجب خواب یہ آیا
