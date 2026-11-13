@@ -1,48 +1,49 @@
 ---
 title: "میں جگر کے ٹکڑوں کو چھوڑ کے جاؤں کہاں"
-alternateTitle: "Mai Jigar Ke Tukdon"
+alternateTitle: "Main Jigar Ke Tukroṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Mesum Abbas"
 tags: ["noImage"]
-aliases: []
+aliases: ["Mai Jigar Ke Tukdon"]
 published: false
 romanLyrics: |-
-  Mai jigar ke tukdon ko chod ke jaaun kahan
-  Ek hai zindan mein ek bayaban mein
+  Main jigar ke tukroṅ ko chhor ke jaauṅ kahaaṅ
+  Ek hai zindaan mein ek bayaabaan mein
 
   1
-  Asghar e nadan hai soya bayaban mein
-  Aur sakina meri shaam ke zindan mein
+  Asghar-e-naadaaṅ hai soya bayaabaan mein
+  Aur Sakina meri Shaam ke zindaan mein
 
   2
-  Qabre sakina pe tha jism to be-dam mera
-  Maamta le kar chali shaam suye karbala
+  Qabr-e-Sakina pe tha jism to bedam mera
+  Maamta le kar chali Shaam sue Karbala
 
   3
-  Mai hoo meri uljhane aur dil e ghamzada
+  Main huṅ meri uljhane aur dil-e-ghamzada
   Koi kare aa ke hal meri ye mushkil zara
 
   4
-  Zakhmi hai iski labein zakhmi hai uska gala
-  Kushta e dard o alam dono ka hai ek saa
+  Zakhmi hai is ki labeṅ zakhmi hai us ka gala
+  Kushta-e-dard o alam donoṅ ka hai ek sa
 
   5
-  Jhoola jhulaun kise lori sunaun kise
-  Pani pilaun kise baali pehnaun kise
+  Jhula jhulaauṅ kise lori sunaauṅ kise
+  Paani pilaauṅ kise baali pehnaauṅ kise
 
   6
-  Mujhe guzarti hai jo kis se bayan mai karun
-  Ro'un mai uske liye iska ya matam karun
+  Mujhe guzarti hai jo kis se bayaaṅ main karuṅ
+  Rouṅ main us ke liye is ka ya maatam karuṅ
 
   7
-  Kaarwan hone ko hai suye madina rawan
-  Kaise watan jaungi dil hai pareshan yahan
+  Kaarwaaṅ hone ko hai sue Madina rawaaṅ
+  Kaise watan jaauṅgi dil hai pareshaan yahaaṅ
 
   8
-  Kasim o nayab ki pehli tamanna hai ye
-  Honton pe mesum ke jo bano ka nauha hai ye
+  Qasim o Nayaab ki pehli tamanna hai ye
+  Hontoṅ pe Mesum ke jo Bano ka nauha hai ye
 # source_id: nohayonline:f90dea2785901ebe4b06
 # source_url: https://www.nohayonline.com/details_content.php?id=2162
 # raw_sha256: fa576d23ae30db57e9d28b305afb6bd6b130dbded99ebe310842ab0fa0cbd8e6
@@ -56,26 +57,26 @@ romanLyrics: |-
 
 ۲
 قبر سکینہ پہ تھا جسم تو بے دم میرا
-مامتا لے کر چلی شام سوے کربلا
+مامتا لے کر چلی شام سوئے کربلا
 
 ۳
 میں ہوں میری الجھانے اور دل غمزدہ
-کوئی کرے آ کے حل میری یہ مشکل زرا
+کوئی کرے آ کے حل میری یہ مشکل ذرا
 
 ۴
-زخمی ہے اسکی لبیں زخمی ہے اس کا گلا
+زخمی ہے اس کی لبیں زخمی ہے اس کا گلا
 کشتۂ درد و الم دونوں کا ہے اک سا
 
 ۵
-جھولا جھلاوں کسے لوری سناؤں کسے
+جھولا جھلاؤں کسے لوری سناؤں کسے
 پانی پلاؤں کسے بالی پہناؤں کسے
 
 ۶
-مجھے گزرتی ہےجو کس سے بیاں میں کروں
+مجھے گزرتی ہے جو کس سے بیاں میں کروں
 روؤں میں اس کے لئے اس کا یا ماتم کروں
 
 ۷
-کارواں ہونے کو ہے سوے مدینہ رواں
+کارواں ہونے کو ہے سوئے مدینہ رواں
 کیسے وطن جاؤں گی دل ہے پریشان یہاں
 
 ۸
