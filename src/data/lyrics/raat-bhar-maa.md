@@ -6,50 +6,53 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mujahid Lakhnavi"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Yaad jo baysheer ki aati rahi
-  Raat bhar maa dil ko behlati rahi
-  Tashna kaamo ki jo yaad aati rahi
-  Alqama reh reh ke balkhati rahi
+  Yaad jo beshir ki aati rahi
+  Raat bhar maaṅ dil ko behlaati rahi
+
+  Tashna kaamoṅ ki jo yaad aati rahi
+  Alqama reh reh ke bal khaati rahi
 
   1
-  Leke aate hai chacha pani abhi
-  Ye sakina sab ko samjhati rahi
+  Le ke aate haiṅ chacha paani abhi
+  Ye Sakina sab ko samjhaati rahi
 
   2
-  Bole sheh awaaz do akbar mujhe
-  Roshni aankhon ki ab jaati rahi
+  Bole Sheh aawaaz do Akbar mujhe
+  Roshni aankhoṅ ki ab jaati rahi
 
   3
-  Ro ke laila ne kaha akbar ke saath
-  Dil ki har ek aarzoo jaati rahi
+  Ro ke Laila ne kaha Akbar ke saath
+  Dil ki har ek aarzu jaati rahi
 
   4
-  Muddaton bano ke kaano mein sada
-  Asghare baysheer ki aati rahi
+  Muddatoṅ Baano ke kaanoṅ meiṅ sada
+  Asghar-e-beshir ki aati rahi
 
   5
-  Suye koofa khaafila badta raha
-  Aur sakina ghurkiya khaati rahi
+  Su-e-Kufa qaafila barhta raha
+  Aur Sakina ghurkiyaaṅ khaati rahi
 
   6
-  Raat bhar akbar to soye chain se
-  Maa sarhane ashk barsaati rahi
+  Raat bhar Akbar to soye chain se
+  Maaṅ sarhaane ashk barsaati rahi
 
   7
-  Sheh ka gham jab se mujahid ko mila
-  Har gham o fiqr e jahan jaati rahi
+  Sheh ka gham jab se Mujahid ko mila
+  Har gham o fikr-e-jahaaṅ jaati rahi
 # source_id: nohayonline:d8a44a71fe811710ce48
 # source_url: https://www.nohayonline.com/details_content.php?id=486
 # raw_sha256: 928c69e1cdfbd577e5362e8a55e8137a5986644bdfa3e31996dd233207968058
 ---
 یاد جو بے شیر کی آتی رہی
 رات بھر ماں دل کو بہلاتی رہی
+
 تشنہ کاموں کی جو یاد آتی رہی
-علقمہ رہ رہ کہ بل کھاتی رہی
+علقمہ رہ رہ کے بل کھاتی رہی
 
 ۱
 لے کے آتے ہیں چچا پانی ابھی
@@ -68,7 +71,7 @@ romanLyrics: |-
 اصغرِ بے شیر کی آتی رہی
 
 ۵
-سوئے قوفہ قافلہ بڑھتا رہا
+سوئے کوفہ قافلہ بڑھتا رہا
 اور سکینہ گُھرکیاں کھاتی رہی
 
 ۶

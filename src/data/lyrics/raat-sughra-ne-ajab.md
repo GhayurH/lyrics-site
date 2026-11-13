@@ -6,36 +6,37 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Baba Nisaar Haideri"
+reciter: "Rizwan Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Raat sughra ne ajab khaab pareshan dekha
-  Dasht mein khoon mein dooba hua quran dekha
+  Raat Sughra ne ajab khwaab pareshaaṅ dekha
+  Dasht meiṅ khun meiṅ duba hua Quraaṅ dekha
 
   1
-  Dil e yaseen pe chalate thay jo teer o khanjar
-  Koi khaari tha koi haafize quran dekha
+  Dil-e-Yaasin pe chalaate the jo tir o khanjar
+  Koi qaari tha koi haafiz-e-Quraaṅ dekha
 
   2
-  Dhoodne aate ho darya'on ke pani jisko
-  Aisa pyasa na koi dunya mein mehman dekha
+  Dhundne aate ho daryaaoṅ ke paani jis ko
+  Aisa pyaasa na koi dunya meiṅ mehmaan dekha
 
   3
-  Kabhi chooma kabhi dekha kabhi lipti rokar
-  Maa ne gehwara e asghar ko jo veeran dekha
+  Kabhi chuma kabhi dekha kabhi lipti ro kar
+  Maaṅ ne gahwaara-e-Asghar ko jo viraaṅ dekha
 
   4
-  Ek taraf aun o mohamed ke pade hai laashe
-  Aur shabbir ko tanha sare maidan dekha
+  Ek taraf Aun o Muhammad ke pare haiṅ laashe
+  Aur Shabbir ko tanha sar-e-maidaaṅ dekha
 
   5
-  Aag ummat ne usi ghar ko lagayi afsos
-  Jiske darwaze pe jibreel ko darbaan dekha
+  Aag ummat ne usi ghar ko lagaai afsos
+  Jis ke darwaaze pe Jibril ko darbaan dekha
 
   6
-  Khoon barasne laga sajjad ki aankhon se nisar
-  Sare zainab ko jo bazaar mein uryan dekha
+  Khuṅ barasne laga Sajjad ki aankhoṅ se Nisar
+  Sar-e-Zainab ko jo baazaar meiṅ uryaaṅ dekha
 # source_id: nohayonline:8d4826cc60f74477e45a
 # source_url: https://www.nohayonline.com/details_content.php?id=895
 # raw_sha256: cd91d14b4ca58a205bb5e1f0a4ec1d07803aa75b0225bfa8edd2503281ed7ed6
@@ -45,22 +46,22 @@ romanLyrics: |-
 
 ۱
 دل یاسین پہ چلاتے تھے جو تیر و خنجر
-کوئی قاری تھا کوی حافظ قرآں دیکھا
+کوئی قاری تھا کوئی حافظ قرآں دیکھا
 
 ۲
-ڈھونڈنے آتے ہو دریاؤں کے پانی جسکو
+ڈھونڈنے آتے ہو دریاؤں کے پانی جس کو
 ایسا پیاسا نہ کوئی دنیا میں مہمان دیکھا
 
 ۳
-کبھی چوما کبھی دیکھا کبھی لپٹی روکر
-ماں نے گہوارہء اصغر کو جو ویراں دیکھا
+کبھی چوما کبھی دیکھا کبھی لپٹی رو کر
+ماں نے گہوارۂ اصغر کو جو ویراں دیکھا
 
 ۴
 اک طرف عون و محمد کے پڑے ہیں لاشے
 اور شبیر کو تنہا سر میداں دیکھا
 
 ۵
-آگ امت نے اسی گھر کو لگای آفسوس
+آگ امت نے اسی گھر کو لگائی افسوس
 جس کے دروازے پہ جبریل کو دربان دیکھا
 
 ۶
