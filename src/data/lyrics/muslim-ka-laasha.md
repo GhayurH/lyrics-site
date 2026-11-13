@@ -6,68 +6,69 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kufe may phiraya jaata hai
-  Muslim ka laasha eid ke din
-  Koi bhi uthane aata nahi
-  Bekas ka janaza eid ke din
+  Kufe mein phiraaya jaata hai
+  Muslim ka laasha Eid ke din
+  Koi bhi uthaane aata nahiṅ
+  Bekas ka janaaza Eid ke din
 
   1
-  Bhai bhi nahi bete bhi nahi
-  Koi bhi nahi rone waala
-  Muslim ke janaze par baithi
-  Roti rahi zahra eid ke din
+  Bhai bhi nahiṅ bete bhi nahiṅ
+  Koi bhi nahiṅ rone waala
+  Muslim ke janaaze par baithi
+  Roti rahi Zahra Eid ke din
 
   2
-  Ek aah sunayi deti hai
-  Ek laash dikhayi deti hai
-  Be-saakhta aansu aate hai
-  Yaad aaye jo kufa eid ke din
+  Ik aah sunaai deti hai
+  Ik laash dikhaai deti hai
+  Besaakhta aansu aate haiṅ
+  Yaad aaye jo Kufa Eid ke din
 
   3
-  Tooti hai qayamat ye kaisi
-  Dono pe nazar hai maula ki
-  Muslim ki hameeda roti hai
-  Betaab hai sughra eid ke din
+  Tuti hai qayaamat ye kaisi
+  Donoṅ pe nazar hai Maula ki
+  Muslim ki Hamida roti hai
+  Betaab hai Sughra Eid ke din
 
   4
   Zaalim se bachne ki khaatir
-  Zindan se chudane ki khaatir
-  Umeed yehi hai bachon ko
-  Aayenge baba eid ke din
+  Zindaaṅ se chhuraane ki khaatir
+  Ummid yahi hai bachchoṅ ko
+  Aayeṅge baba Eid ke din
 
   5
-  Muslim ke yateemon ko sheh ne
-  Seene se laga kar pyar kiya
-  Ye haal yateemi ka logon
-  Samjhi thi sakina eid ke din
+  Muslim ke yatimoṅ ko shah ne
+  Sine se laga kar pyaar kiya
+  Ye haal yatimi ka logoṅ
+  Samjhi thi Sakina Eid ke din
 
   6
-  Ek waar ali ke sajde se
-  Muslim ki shahadat tak pahuncha
-  Yun aale nabi ko ummat ne
-  Har baar rulaya eid ke din
+  Ik waar Ali ke sajde se
+  Muslim ki shahaadat tak pahuncha
+  Yuṅ Aal-e-Nabi ko ummat ne
+  Har baar rulaaya Eid ke din
 
   7
-  Jis ghar may koi mar jaata hai
-  Sab aa kar pursa dete hai
-  Hum kisko de maula mehdi
-  Muslim ka pursa eid ke din
+  Jis ghar mein koi mar jaata hai
+  Sab aa kar pursa dete haiṅ
+  Ham kis ko deṅ Maula Mahdi
+  Muslim ka pursa Eid ke din
 
   8
-  Dastoor zamane se hai yehi
-  Hum ahle aza ka baade namaz
-  Hum sun ke masayib dete hai
-  Zahra ko pursa eid ke din
+  Dastur zamaane se hai yahi
+  Ham ahl-e-aza ka baad-e-namaaz
+  Ham sun ke masaaib dete haiṅ
+  Zahra ko pursa Eid ke din
 
   9
-  Dafnaya nahi kafnaya nahi
-  Kaisi ye takallum ghurbat hai
-  Kufe may musalman saare thay
-  Muslim tha akela eid ke din
+  Dafnaaya nahiṅ kafnaaya nahiṅ
+  Kaisi ye Takallum ghurbat hai
+  Kufe mein musalmaaṅ saare the
+  Muslim tha akela Eid ke din
 # source_id: nohayonline:fe1b340cd08f2cc71ceb
 # source_url: https://www.nohayonline.com/details_content.php?id=1609
 # raw_sha256: e11075489005cff77f945cd275ca386911e081a4890dcde8149ac7a1bba95c98
@@ -79,16 +80,16 @@ romanLyrics: |-
 بیکس کا جنازہ عید کے دِن
 
 ۱
-بھای بھی نہیں بیٹے بھی نہیں
+بھائی بھی نہیں بیٹے بھی نہیں
 کوئی بھی نہیں رونے والا
 مسلم کے جنازے پر بیٹھی
 روتی رہی زہرا عید کے دِن
 
 ۲
-اک آہ سنای دیتی ہے
+اک آہ سنائی دیتی ہے
 اک لاش دکھائی دیتی ہے
-بے ساختہ آنسوں آتے ہیں
-یاد آے جو کوفہ عید کے دِن
+بے ساختہ آنسو آتے ہیں
+یاد آئے جو کوفہ عید کے دِن
 
 ۳
 ٹوٹی ہے قیامت یہ کیسی
@@ -100,7 +101,7 @@ romanLyrics: |-
 ظالم سے بچنے کی خاطر
 زنداں سے چھڑانے کی خاطر
 امید یہی ہے بچوں کو
-آےنگے بابا عید کے دِن
+آئیں گے بابا عید کے دِن
 
 ۵
 مسلم کے یتیموں کو شہ نے
@@ -117,13 +118,13 @@ romanLyrics: |-
 ۷
 جس گھر میں کوئی مر جاتا ہے
 سب آ کر پرسہ دیتے ہیں
-ہم کسکو دیں مولا مہدی
+ہم کس کو دیں مولا مہدی
 مسلم کا پرسہ عید کے دِن
 
 ۸
 دستور زمانے سے ہے یہی
-ہم‌ اہلِ عزا کا بعد نماز
-ہم سن کے مصایب دیتے ہیں
+ہم اہلِ عزا کا بعد نماز
+ہم سن کے مصائب دیتے ہیں
 زہرا کو پرسہ عید کے دِن
 
 ۹
