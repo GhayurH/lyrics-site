@@ -6,89 +6,90 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Abbas meer e lashkar
-  Abbas kehte hai
-  Mujhe abbas kehte hai
-  Mai qamre bani hashim hoon
-  Sardar hoon mai lashkar ka
+  Abbaas mir-e-lashkar
+  Abbaas kehte haiṅ
+  Mujhe Abbaas kehte haiṅ
+  Main qamar-e-Bani Haashim huṅ
+  Sardaar huṅ main lashkar ka
   Shabbir mera aaqa hai
-  Mai beta hoon hyder ka
-  Naslat mein wafadari hai
-  Mansab mein alamdari hai
+  Main beta huṅ Haidar ka
+  Nas nas mein wafaadaari hai
+  Mansab mein alamdaari hai
 
   1
   Zehra ne kaha hai beta
-  Hai saare arab mein charcha
-  Shabbir ki dil ki taaqat
-  Hoon chand bani hashim ka
-  Mai karbobala ka hyder
-  Jibreel bachale sheh par
+  Hai saare Arab mein charcha
+  Shabbir ke dil ki taaqat
+  Huṅ chaand Bani Haashim ka
+  Main Karb o Bala ka Haidar
+  Jibril bacha le shah par
 
   2
-  Wo jaah o hasham rakhta hoon
-  Shaano pe alam rakhta hoon
+  Wo jaah o hasham rakhta huṅ
+  Shaanoṅ pe alam rakhta huṅ
   Lo rok sako to roko
-  Darya mein qadam rakhta hoon
-  Mai hashr bapa kar dunga
-  Sar tan se juda kar dunga
+  Darya mein qadam rakhta huṅ
+  Main hashr bapa kar duṅ ga
+  Sar tan se juda kar duṅ ga
 
   3
   Talwaar hai mere baazu
-  Hai mujh mein wafa ki kushboo
-  Mai dekh nahi sakta hoon
+  Hai mujh mein wafa ki khushbu
+  Main dekh nahiṅ sakta huṅ
   Zainab ki nazar mein aansu
-  Gar ghaiz mein aa kar dekhun
-  Pani mein aag laga doon
+  Gar ghaiz mein aa kar dekhuṅ
+  Paani mein aag laga duṅ
 
   4
   Parcham ye mere baba ka
-  Ta hashr rahega ooncha
-  Khyber mein mila baba ko
-  Aur aaj hai maine paaya
-  Parcham na ye jhuk payega
-  Har daur mein lehrayega
+  Ta hashr rahe ga uncha
+  Khaibar mein mila baba ko
+  Aur aaj hai main ne paaya
+  Parcham na ye jhuk paae ga
+  Har daur mein lahraae ga
 
   5
-  Bacchon ko tasalli de kar
-  Mai aaya hoon darya par
-  Bacchon ki aas na toote
+  Bachchoṅ ko tasalli de kar
+  Main aaya huṅ darya par
+  Bachchoṅ ki aas na tute
   Bas ek dua hai lab par
-  Pani jo na pahunchaunga
-  Qaimon mein nahi jaunga
+  Paani jo na pahunchaauṅ ga
+  Khaimoṅ mein nahiṅ jaauṅ ga
 
   6
-  Be-izn e wagha aaya hoon
-  Talwaar nahi laaya hoon
-  Thokar mein hai mere pani
-  Seh roz ka mai pyasa hoon
-  Behta hai lahoo beh jaaye
-  Bas naam e wafa reh jaaye
+  Be izn-e-wagha aaya huṅ
+  Talwaar nahiṅ laaya huṅ
+  Thokar mein hai mere paani
+  Seh roz ka main pyaasa huṅ
+  Behta hai lahu beh jaae
+  Bas naam-e-wafa reh jaae
 
   7
-  Jo teer bhi hai tarkash mein
-  Paywast karo nas nas mein
+  Jo tir bhi hai tarkash mein
+  Paiwast karo nas nas mein
   Par mashk pe waar na karna
   Phir baat na hogi bas mein
-  Baazu bhi kata sakta hoon
-  Mai khoon mein naha sakta hoon
+  Baazu bhi kata sakta huṅ
+  Main khuṅ mein naha sakta huṅ
 
   8
-  Abbas e jari ka rauza
-  Hai ahle wafa ka kaaba
-  Ek roz rehaan o sarwar
-  Hum ne bhi ye manzar dekha
+  Abbaas-e-jari ka rauza
+  Hai ahl-e-wafa ka Kaaba
+  Ek roz Rehaan o Sarwar
+  Ham ne bhi ye manzar dekha
   Kehta hai koi darya par
-  Sab jaaye pyaas bujha kar
+  Sab jaae pyaas bujha kar
 
   9
-  Qaimon mein na le jaana
+  Khaimoṅ mein na le jaana
   Aaqa mere laashe ko
-  Sharimnda na karwana
-  Seh roz ke pyase ko
+  Sharminda na karwaana
+  Seh roz ke pyaase ko
 # source_id: nohayonline:ba9aea8873ed9eec384f
 # source_url: https://www.nohayonline.com/details_content.php?id=3037
 # raw_sha256: 065408b7638d52b5b57e315c302d9871a487644da77834c4681a0adb01bdc769
@@ -96,7 +97,7 @@ romanLyrics: |-
 عباس میر لشکر
 عباس کہتے ہیں
 مجھے عباس کہتے ہیں
-میں قمر بنی ہاشم ہوں
+میں قمرِ بنی ہاشم ہوں
 سردار ہوں میں لشکر کا
 شبیر میرا آقا ہے
 میں بیٹا ہوں حیدر کا
@@ -108,22 +109,22 @@ romanLyrics: |-
 ہے سارے عرب میں چرچہ
 شبیر کے دل کی طاقت
 ہوں چاند بنی ہاشم کا
-میں کربوبلا کا حیدر
-جبرییل بچا لے شہ پر
+میں کرب و بلا کا حیدر
+جبریل بچا لے شہ پر
 
 ۲
-وہ جاہ و ہشم رکھتا ہوں
+وہ جاہ و حشم رکھتا ہوں
 شانوں پہ علم رکھتا ہوں
-لو روک سکو تو رکوو
+لو روک سکو تو روکو
 دریا میں قدم رکھتا ہوں
-میں حشر بپا کردوں گا
-سر تن سے جدا کردوں گا
+میں حشر بپا کر دوں گا
+سر تن سے جدا کر دوں گا
 
 ۳
 تلوار ہے میرے بازو
 ہے مجھ میں وفا کی خوشبو
 میں دیکھ نہیں سکتا ہوں
-زینب کی نظر میں آنسوں
+زینب کی نظر میں آنسو
 گر غیض میں آ کر دیکھوں
 پانی میں آگ لگا دوں
 
@@ -132,24 +133,24 @@ romanLyrics: |-
 تا حشر رہے گا اونچا
 خیبر میں ملا بابا کو
 اور آج ہے میں نے پایا
-پرچم نہ یہ جھک پاے گا
-ہر دور میں لہراے گا
+پرچم نہ یہ جھک پائے گا
+ہر دور میں لہرائے گا
 
 ۵
 بچوں کو تسلی دے کر
 میں آیا ہوں دریا پر
 بچوں کی آس نہ ٹوٹے
 بس ایک دعا ہے لب پر
-پانی جو نہ پہنچائے گا
+پانی جو نہ پہنچاؤں گا
 خیموں میں نہیں جاؤں گا
 
 ۶
-بے اذن وغا آیا ہوں
+بے اذنِ وغا آیا ہوں
 تلوار نہیں لایا ہوں
 ٹھوکر میں ہے میرے پانی
-سہہ روز کا میں پیاسا ہوں
+سہ روز کا میں پیاسا ہوں
 بہتا ہے لہو بہہ جائے
-بس نام وفا رہ جائے
+بس نامِ وفا رہ جائے
 
 ۷
 جو تیر بھی ہے ترکش میں
@@ -160,15 +161,15 @@ romanLyrics: |-
 میں خوں میں نہا سکتا ہوں
 
 ۸
-عباس جری کا روضہ
-ہے أہل وفا کا کعبہ
+عباسِ جری کا روضہ
+ہے اہلِ وفا کا کعبہ
 ایک روز ریحان و سرور
 ہم نے بھی یہ منظر دیکھا
-کہتا ہے کوی دریا پر
-سب جاے پیاس بجھا کر
+کہتا ہے کوئی دریا پر
+سب جائے پیاس بجھا کر
 
 ۹
 خیموں میں نہ لے جانا
 آقا میرے لاشے کو
 شرمندہ نہ کروانا
-سہہ روز کے پیاسے کو
+سہ روز کے پیاسے کو
