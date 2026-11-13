@@ -1,52 +1,53 @@
 ---
 title: "لیلیٰ شہید ہو گیا تیرا جواں پسر"
-alternateTitle: "Laila Shaheed Hogaya"
+alternateTitle: "Laila Shahid Ho Gaya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Jaweed Maqsood"
+reciter: "Mir Mohsin Ali"
 tags: ["noImage"]
-aliases: []
+aliases: ["Laila Shaheed Hogaya"]
 published: false
 romanLyrics: |-
-  Laila shaheed hogaya tera jawan pisar
-  
+  Laila shahid ho gaya tera jawaaṅ pisar
+
   1
-  Ghode se jab gira shahe mazloom ka pisar
-  Qaime ki simt shaah ne dekha ba chashme tar
-  Laila pukari kya hai mere laal ki khabar
-  Bekas hussain kehne lage dil ko thaam kar
-  
+  Ghore se jab gira shah-e-mazlum ka pisar
+  Khaime ki simt shaah ne dekha ba-chashm-e-tar
+  Laila pukaari kya hai mere laal ki khabar
+  Bekas Husain kehne lage dil ko thaam kar
+
   2
-  Laila sab hasraton ke janaze nikal gaye
-  Hathyar saare akbar e mehroo pa chal gaye
-  Sehre ke phool khoon ki dhaaron mein dhal gaye
-  Naize se chid gaya tere farzand ka jigar
-  
+  Laila sab hasratoṅ ke janaaze nikal gaye
+  Hathyaar saare Akbar-e-mahru pe chal gaye
+  Sehre ke phul khun ki dhaaroṅ mein dhal gaye
+  Neze se chhid gaya tere farzand ka jigar
+
   3
-  Laila hamara mannaton waala guzar gaya
-  Dunya hamare chain ki barbaad kar gaya
-  Chehra wo chand se bhi haseen khoon mein bhar gaya
-  Ab be-chiraagh hogaya laila hamara ghar
-  
+  Laila hamaara mannatoṅ waala guzar gaya
+  Dunya hamaare chain ki barbaad kar gaya
+  Chehra wo chaand se bhi hasiṅ khuṅ mein bhar gaya
+  Ab bechiraagh ho gaya Laila hamaara ghar
+
   4
-  Gham se ghareeb baap ka dil paash paash hai
-  Beenayi jaa chuki hai pisar ki talaash hai
-  Narghe mein ahle zulm ke bete ki laash hai
-  Bas mein hamara dil hai na qaabu mein hai nazar
-  
+  Gham se gharib baap ka dil paash paash hai
+  Binaai jaa chuki hai pisar ki talaash hai
+  Narghe mein ahl-e-zulm ke bete ki laash hai
+  Bas mein hamaara dil hai na qaabu mein hai nazar
+
   5
-  Kuch rehm mere haal pa khaata nahi koi
-  Bekas ko raasta bhi dikhata nahi koi
-  Kis jaa hai mera laal bataata nahi koi
-  Rote hai hum pisar ko to haste hai ahle shar
-  
+  Kuchh rahm mere haal pe khaata nahiṅ koi
+  Bekas ko raasta bhi dikhaata nahiṅ koi
+  Kis jaa hai mera laal bataata nahiṅ koi
+  Rote haiṅ ham pisar ko to haṅste haiṅ ahl-e-shar
+
   6
-  Jaweed tha azeem gham e shaah e mashraqain
-  Marge pisar se lut gaya sarwar ke dil ka chain
-  Ghode se jab zameen pa gira dilbar e hussain
-  Rone lage ye keh ke shahenshaah e behr o bar
+  Jaaved tha azim gham-e-shaah-e-mashriqain
+  Marg-e-pisar se lut gaya Sarwar ke dil ka chain
+  Ghore se jab zamiṅ pe gira dilbar-e-Husain
+  Rone lage ye keh ke shahanshaah-e-bahr o bar
 # source_id: nohayonline:6789326f669b1fa723e1
 # source_url: https://www.nohayonline.com/details_content.php?id=1972
 # raw_sha256: 02fdeadffaa5ce744a4a0f78d7daf09ffec43ddd88055635b35fe5f134c9739b
@@ -61,9 +62,9 @@ romanLyrics: |-
 بیکس حسین کہنے لگے دل کو تھام کر
 
 ۲
-لیلیٰ سب حسرتوں کے جنازے نکل گےء
-ہتھیار سارے اکبر مہرو پہ چل گےء
-سہرے کے پھول خون کی دھاروں میں ڈھل گےء
+لیلیٰ سب حسرتوں کے جنازے نکل گئے
+ہتھیار سارے اکبر مہرو پہ چل گئے
+سہرے کے پھول خون کی دھاروں میں ڈھل گئے
 نیزے سے چھد گیا تیرے فرزند کا جگر
 
 ۳
@@ -75,7 +76,7 @@ romanLyrics: |-
 ۴
 غم سے غریب باپ کا دل پاش پاش ہے
 بینائی جا چکی ہے پسر کی تلاش ہے
-نرغے میں أہل ظلم کے بیٹے کی لاش ہے
+نرغے میں اہل ظلم کے بیٹے کی لاش ہے
 بس میں ہمارا دل ہے نہ قابو میں ہے نظر
 
 ۵
@@ -88,4 +89,4 @@ romanLyrics: |-
 جاوید تھا عظیم غمِ شاہ مشرقین
 مرگ پسر سے لٹ گیا سرور کے دل کا چین
 گھوڑے سے جب زمیں پہ گرا دلبر حسین
-رونے لگے یہ کہکے شہنشاہِ بہر و بر
+رونے لگے یہ کہہ کے شہنشاہِ بحر و بر

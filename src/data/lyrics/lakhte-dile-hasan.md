@@ -1,61 +1,62 @@
 ---
 title: "لختِ دِل حسن کے ٹکڑے اٹھا اٹھا کے"
-alternateTitle: "Lakhte Dile Hasan"
+alternateTitle: "Lakht-e-Dil-e-Hasan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Rizvi Sachey"
+reciter: "Ali Rizvi Sachey"
 tags: ["noImage"]
-aliases: []
+aliases: ["Lakhte Dile Hasan"]
 published: false
 romanLyrics: |-
-  Lakhte dil e hassan ke tukde utha utha ke
-  Daaman mein rakh rahe hai sarwar saja saja ke
+  Lakht-e-dil-e-Hasan ke tukre utha utha ke
+  Daaman mein rakh rahe haiṅ Sarwar saja saja ke
 
   1
-  Karbobala mein beta maadar ki laaj rakhna
-  Bachpan se maa ne paala lori suna suna ke
+  Karb o bala mein beta maadar ki laaj rakhna
+  Bachpan se maaṅ ne paala lori suna suna ke
 
   2
-  De kar raza e maqtal bhai ke laadle ko
-  Karte hai pyaar sarwar dil se laga laga ke
+  De kar raza-e-maqtal bhaai ke laadle ko
+  Karte haiṅ pyaar Sarwar dil se laga laga ke
 
   3
-  Ye keh ke ran mein qasim fauje jafa pe toote
-  Ladte nahi hai ran mein jaan ko bacha bacha ke
+  Ye keh ke ran mein Qaasim fauj-e-jafa pe tute
+  Larte nahiṅ haiṅ ran mein jaaṅ ko bacha bacha ke
 
   4
-  Josh e wafa e qasim ghazi se mil raha hai
-  Darya se uth rahi hai maujein wafa wafa ke
+  Josh-e-wafa-e-Qaasim Ghaazi se mil raha hai
+  Darya se uth rahi hai maujeṅ wafa wafa ke
 
   5
-  Ek tashna lab ko ran mein laakhon ne mil ke maara
-  Taapon se rond daala ghode bhaga bhaga ke
+  Ik tashna lab ko ran mein laakhoṅ ne mil ke maara
+  Taapoṅ se raund daala ghore bhaga bhaga ke
 
   6
-  Tukde badan hai saara shabbir ro rahe hai
-  Chunte hai laash e qasim aansu baha baha ke
+  Tukre badan hai saara Shabbir ro rahe haiṅ
+  Chunte haiṅ laash-e-Qaasim aansu baha baha ke
 
   7
-  Pamaal ho ke pyasa sairaab ho raha hai
-  Tashna labi ko apne khoon mein bujha bujha ke
+  Paamaal ho ke pyaasa sairaab ho raha hai
+  Tashna labi ko apne khuṅ mein bujha bujha ke
 
   8
-  Maa dekhne na paaye tukde badan hai saara
-  Laate hai laash maula maa se chupa chupa ke
+  Maaṅ dekhne na paaye tukre badan hai saara
+  Laate haiṅ laash Maula maaṅ se chhupa chhupa ke
 
   9
-  Deti rahi sadayein farwa kahan ho qasim
-  Haste rahe sitamgar qaime jala jala ke
+  Deti rahi sadaaeṅ Farwa kahaaṅ ho Qaasim
+  Haṅste rahe sitamgar khaime jala jala ke
 
   10
-  Farwa ka chand khoon mein dooba kuch is tarha se
+  Farwa ka chaand khuṅ mein duba kuchh is tarah se
   Rota raha falak bhi taare bujha bujha ke
 
   11
-  Tukde nahi ye qasim ran mein tere badan ke
-  Naqshe baqa rakhe hai tu ne bana bana ke
+  Tukre nahiṅ ye Qaasim ran mein tere badan ke
+  Naqsh-e-baqa rakhe haiṅ tu ne bana bana ke
 # source_id: nohayonline:d55f4fe992af8f3660b5
 # source_url: https://www.nohayonline.com/details_content.php?id=2920
 # raw_sha256: 697054b2d5a46a88e97073b309c9db2f7a7619bf94698e99b9366f5e7c37de05
@@ -77,7 +78,7 @@ romanLyrics: |-
 
 ۴
 جوشِ وفا قاسم غازی سے مل رہا ہے
-دریا سے اُٹھ رہی ہے موجِیں وفا وفا کے
+دریا سے اُٹھ رہی ہے موجیں وفا وفا کے
 
 ۵
 اک تشنہ لب کو رن میں لاکھوں نے مل کے مارا

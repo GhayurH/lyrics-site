@@ -1,49 +1,50 @@
 ---
 title: "لہو میں ڈوب گیا جب شبیہ پیغمبر"
-alternateTitle: "Lahoo Mein Doob"
+alternateTitle: "Lahu Mein Dub"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Fareed Baig"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
-aliases: []
+aliases: ["Lahoo Mein Doob"]
 published: false
 romanLyrics: |-
-  Lahoo mein doob gaya jab shabihe paighambar
-  Zameen e karbobala par tha hashr ka manzar
+  Lahu mein dub gaya jab shabih-e-Paighambar
+  Zamin-e-Karbobala par tha hashr ka manzar
 
   1
-  Hussain dhoond rahe thay jawan ke laashe ko
-  Thi muntazir dar e qaima pe ghamzada maadar
+  Husain dhund rahe the jawaaṅ ke laashe ko
+  Thi muntazir dar-e-khaima pe ghamzada maadar
 
   2
   Na koi dost na bhai na aasra tha koi
-  Lahoo ke sher mein tanha tha fatema ka pisar
+  Lahu ke sher mein tanha tha Fatima ka pisar
 
   3
-  Har ek baar ye mud mud ke dekhe thay hussain
-  Nikal na aaye kahin ran mein zainab e muztar
+  Har ek baar ye mur mur ke dekhe the Husain
+  Nikal na aaye kahiṅ ran mein Zainab-e-muztar
 
   4
-  Pukaarte thay andhera hai meri aankhon mein
-  Mere jawan mere dilbar mere ali akbar
+  Pukaarte the andhera hai meri aankhoṅ mein
+  Mere jawaaṅ mere dilbar mere Ali Akbar
 
   5
-  Kahan talaash karun kuch nazar nahi aata
-  Zameen e garm pe dekho bhatak rahi hai nazar
+  Kahaaṅ talaash karuṅ kuchh nazar nahiṅ aata
+  Zamin-e-garm pe dekho bhatak rahi hai nazar
 
   6
-  Qadam qadam pe idhar gir ke uth rahe thay hussain
-  Kaleja thaam ke akbar tadap rahe thay udhar
+  Qadam qadam pe idhar gir ke uth rahe the Husain
+  Kaleja thaam ke Akbar tarap rahe the udhar
 
   7
-  Sada sune to sahara mile zaeefi ko
-  Ajeeb waqt hai mushkil kusha ke bete par
+  Sada sune to sahaara mile zaifi ko
+  Ajib waqt hai mushkil kusha ke bete par
 
   8
-  Fareed sheh ki musibat bayan kya karte
-  Nazar nazar thi qayamat qadam qadam mehshar
+  Farid shah ki musibat bayaaṅ kya karte
+  Nazar nazar thi qayaamat qadam qadam mahshar
 # source_id: nohayonline:d651b59d74b31262b69a
 # source_url: https://www.nohayonline.com/details_content.php?id=2881
 # raw_sha256: e12455d352f424b7d6a4a2984a27ffa9749ffd524567e4440186122636a46d5c
@@ -56,7 +57,7 @@ romanLyrics: |-
 تھی منتظر در خیمہ پہ غمزدہ مادر
 
 ۲
-نو کوئی دوست نہ بھای نہ آسرا تھا کوی
+نہ کوئی دوست نہ بھائی نہ آسرا تھا کوئی
 لہو کے شیر میں تنہا تھا فاطمہ کا پسر
 
 ۳
@@ -77,7 +78,7 @@ romanLyrics: |-
 
 ۷
 صدا سنو تو سہارا ملے ضعیفی کو
-عجیب وقت ہے مشکل کشاء کے بیٹے پر
+عجیب وقت ہے مشکل کشا کے بیٹے پر
 
 ۸
 فرید شہ کی مصیبت بیاں کیا کرتے

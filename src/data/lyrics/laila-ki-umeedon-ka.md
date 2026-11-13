@@ -1,27 +1,27 @@
 ---
 title: "لیلیٰ کی امیدوں کا کیا حال ہوا ہوگا"
-alternateTitle: "Laila Ki Umeedon Ka"
+alternateTitle: "Laila Ki Ummidoṅ Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: ["noImage"]
-aliases: []
+aliases: ["Laila Ki Umeedon Ka"]
 published: false
 romanLyrics: |-
-  Laila ki umeedon ka kya haal hua hoga
-  Jab ghar se jawan beta marne ko chala hoga
+  Laila ki ummidoṅ ka kya haal hua hoga
+  Jab ghar se jawaaṅ beta marne ko chala hoga
 
   1
   Laila ne tasavvur mein socha bhi na tha shayad
-  Sar akbar e ghazi ka naize pe chada hoga
+  Sar Akbar-e-Ghaazi ka neze pe charha hoga
 
   2
-  Athara baras ka sin naize ki ani dil mein
+  Athaara baras ka sin neze ki ani dil mein
   Dunya ne sitam aisa dekha na suna hoga
 
   3
-  Jab dekh rahi hogi laila dar e qaime se
+  Jab dekh rahi hogi Laila dar-e-khaime se
   Maadar ke kaleje ka kya haal hua hoga
 
   4
@@ -29,12 +29,12 @@ romanLyrics: |-
   Bete ki sada sun kar kya haal hua hoga
 
   5
-  Andher jahan tha sab nazron mein shahe deen ke
-  Laashe tak shahe waala kis tarha gaya hoga
+  Andher jahaaṅ tha sab nazroṅ mein shah-e-diṅ ke
+  Laashe tak shah-e-waala kis tarah gaya hoga
 
   6
-  Dekha hai tadapte hai seene pe sina khaake
-  Zaqmi jigar jawaan ka barchi mein laga hoga
+  Dekha hai tarapte haiṅ sine pe sinaaṅ khaa ke
+  Zakhmi jigar jawaaṅ ka barchi mein laga hoga
 # source_id: nohayonline:cd102d0dc71501eb50b8
 # source_url: https://www.nohayonline.com/details_content.php?id=1165
 # raw_sha256: 96c9baa2f8b32f1368a1afe3cb81554c860fb84c608c47e39ad9fb820b20d4a1
