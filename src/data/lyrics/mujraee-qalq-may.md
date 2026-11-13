@@ -1,90 +1,62 @@
 ---
-title: مجرئی خلق میں ان آنكھوں نے کیا کیا دیکھا
-alternateTitle: Mujraee Qalq May
+title: مجرئی خلق میں ان آنکھوں نے کیا کیا دیکھا
+alternateTitle: Mujraee Khalq Meiṅ
 language: Urdu
 lang: ur
 direction: rtl
-kalamType: Noha
+kalamType: Salam
 poet: "Mir Munis Lakhnavi"
+reciter: "Asad Amanat Ali Khan"
 tags: ["noImage"]
-aliases: []
+aliases: ["Mujraee Qalq May"]
 published: false
-romanLyrics: 'Mujraee khalq mein, in aankhon ne, kya kya dekhaaaa
-
+romanLyrics: |-
+  Mujraee khalq meiṅ in aankhoṅ ne kya kya dekha
+  Par kahiṅ Sibt-e-Payambar sa na aaqa dekha
 
   1
-
-  Maine dekha ali asghar ka gala khoon may tar
-
-  Maine zaqmi ali akbar ka kaleja dekha
-
+  Main ne dekha alam-e-Shaah ko aaluda-e-khun
+  Main ne Abbas ko bejaan lab-e-darya dekha
 
   2
-
-  Par kahin sibte, payambar sa na, aaqaa dekhaaaa
-
+  Main ne dekha alam-e-Shaah ko aaluda ba-khun
+  Main ne neze pe sar-e-dilbar-e-Zehra dekha
 
   3
-
-  Maine dekha alaame shah ko, aluda ba-khoon,
-
-  Main ne nezay pay sar-e dilbar-e-Zehra dekhaaa
-
+  Main ne dekha Ali Asghar ka gala khun meiṅ tar
+  Main ne zakhmi Ali Akbar ka kaleja dekha
 
   4
-
-  Maine dekha Ali Asghar ka galaa khoon mein tarrr
-
-  Maine Abbas ko, reti pe, tadapta dekhaaa
-
+  Main ne dekha Ali Asghar ka gala khun meiṅ tar
+  Main ne Abbas ko reti pe tarapta dekha
 
   5
-
-  Ek gathdi shahe deen pusht pe laaye us mein
-
-  Main ne tukde huway, Qasim ka saraapa dekhaaa
-
+  Ek gathri Shah-e-diṅ pusht pe laae us meiṅ
+  Main ne tukre hue Qasim ka saraapa dekha
 
   6
-
-  Gir paday sibt-e-nabi, thaam kay haathon say jigar
-
-  Ali Akbar ko jo rayti pay tadapta dekha
-
+  Berida khalq ne us Bibi ke sar ko dekha
+  Jis ki maadar ka kisi ne na janaaza dekha
 
   7
-
-  Bay-rida khalq nay us bibi kay sar ko dekha
-
-  Jiski maadar ka, kisi nay na janaaza dekha
-
+  Kahti thi Zainab-e-muztar ke Khuda khair kare
+  Raat ko khwaab meiṅ uryaaṅ sar-e-Zehra dekha
 
   8
-
-  Haaye kyon ho na gayee, saur ke, in aankhon ne
-
-  Qaid khaanay mein Sakina ka, janaaza dekhaaa
-
+  Gir pare Sibt-e-Nabi thaam ke haathoṅ se jigar
+  Ali Akbar ko jo reti pe tarapta dekha
 
   9
-
-  Boli ye Zainab-e-muztar, kay khooda khair karay
-
-  Raat ko khwab mein, uriyan sar-e-Zehra dekhaaa
-
+  Haae kiuṅ ho na gaeiṅ kor ke in aankhoṅ ne
+  Qaid khaane meiṅ Sakina ka janaaza dekha
 
   10
-
-  Jaake Zainab ne, madine mein kaha, Sughra say
-
-  Kahoon kis moonsay ke pardes mein, kya kya dekhaaa
-
+  Ja ke Zainab ne Madine meiṅ kaha Sughra se
+  Kahuṅ kis muṅh se ke pardes meiṅ kya kya dekha
 
   11
-
-  Zulm aai Mujraee Sajjad ne, kya kya dekha
-
-  Ghar loota, qaid hue, baap ka laashaa dekhaaa'
+  Zulm ae Mujraee Sajjad ne kya kya dekha
+  Ghar luta qaid hue aur baap ka laasha dekha
 # source_id: nohayonline:738ec97aa9299017b9f7
 # source_url: https://www.nohayonline.com/content_salaam.php?id=3
 # raw_sha256: 801190eeb455f999e89ea7869bdb2ccab93e42b1588d1e839a978a053713a52e
@@ -98,45 +70,49 @@ romanLyrics: 'Mujraee khalq mein, in aankhon ne, kya kya dekhaaaa
 # added_stanza_source: urdu:kalam-ziyaraat-674c1f08ba1f9a48342c
 ---
 
-مجرئی خلق میں ان آنكھوں نے کیا کیا دیکھا
+مجرئی خلق میں ان آنکھوں نے کیا کیا دیکھا
+پر کہیں سبطِ پیمبر سا نہ آقا دیکھا
 
 ۱
-پر کہیں سبتے پیمبر سا نا اقا دیکھا
-میں نے دیکھا الام شاہ کو آلودہ خون
-میں نے عباس کو بے جان لبے دریا دیکھا
+میں نے دیکھا علمِ شاہ کو آلودۂ خون
+میں نے عباس کو بے جان لبِ دریا دیکھا
 
 ۲
-1 ) میں نے دیکھا علم شاہ کو آلودہ با-خون
-میں نے نیزے پہ سَر دلبر زہرہ دیکھا
+میں نے دیکھا علمِ شاہ کو آلودہ با خون
+میں نے نیزے پہ سرِ دلبرِ زہرہ دیکھا
 
 ۳
 میں نے دیکھا علی اصغر کا گلا خون میں تر
 میں نے زخمی علی اکبر کا کلیجہ دیکھا
 
 ۴
-اک گھٹدی شاہی دین پشت پہ لائے اس میں
-میں نے ٹکڑے ہوئے قاسم کا سراپا دیکھا
+میں نے دیکھا علی اصغر کا گلا خون میں تر
+میں نے عباس کو ریتی پہ تڑپتا دیکھا
 
 ۵
-بے ردا خلق نئے اس بی بی کے سَر کو دیکھا
-جسکی مدار کا کسی نے نا جنازہ دیکھا
+ایک گٹھڑی شہِ دیں پشت پہ لائے اس میں
+میں نے ٹکڑے ہوئے قاسم کا سراپا دیکھا
 
 ۶
-کہتی تھی زینب مزتر کے خدا خیر کرے
-رات کو خواب میں وریان سَر زہرہ دیکھا
+بے ردا خلق نے اس بی‌بی کے سر کو دیکھا
+جس کی مادر کا کسی نے نہ جنازہ دیکھا
 
 ۷
-گر پڑے سبط نبی تھام کے ہاتھوں سے جگر
-علی اکبر کو جو ریتی پے تڑپتا دیکھا
+کہتی تھی زینبِ مضطر کہ خدا خیر کرے
+رات کو خواب میں عریاں سرِ زہرہ دیکھا
 
 ۸
-ہائے کیوں ہو نا گئے کور كے ان آنكھوں نے
-قید خانے میں سكینہ کا جنازہ دیکھا
+گر پڑے سبطِ نبی تھام کے ہاتھوں سے جگر
+علی اکبر کو جو ریتی پہ تڑپتا دیکھا
 
 ۹
-جاکے زینب نے مدینی میں کہا صغرا سے
-کہوں کس منہ سے كے پردیس میں کیا کیا دیکھا
+ہائے کیوں ہو نہ گئیں کور کہ ان آنکھوں نے
+قید خانے میں سکینہ کا جنازہ دیکھا
 
 ۱۰
-ظلم آئی مجرئی سجاد نے کیا کیا دیکھا
+جا کے زینب نے مدینے میں کہا صغرا سے
+کہوں کس منہ سے کہ پردیس میں کیا کیا دیکھا
+
+۱۱
+ظلم اے مجرئی سجاد نے کیا کیا دیکھا
 گھر لٹا قید ہوئے اور باپ کا لاشا دیکھا
