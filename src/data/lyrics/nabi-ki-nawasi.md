@@ -1,42 +1,43 @@
 ---
 title: "رسالت کا لوگوں صلہ مانگتی ہے"
-alternateTitle: "Nabi Ki Nawasi"
+alternateTitle: "Nabi Ki Nawaasi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Qurban Jaffri"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
-aliases: []
+aliases: ["Nabi Ki Nawasi"]
 published: false
 romanLyrics: |-
-  Risalat ka logon sila maangti hai
-  Nabi ki nawasi rida maangti hai
+  Risaalat ka logoṅ sila maangti hai
+  Nabi ki nawaasi ridaa maangti hai
 
   1
-  Ye ismat ki malka ye binte ali hai
-  Jo patharon ki baarish may kab se khadi hai
+  Ye ismat ki malka ye bint-e-Ali hai
+  Jo pattharoṅ ki baarish mein kab se khari hai
   Faqat do qadam raasta maangti hai
 
   2
-  Zibha ho gaye is ke be-misl bhai
-  Rasan may kahan se kahan tak hai aayi
-  Ye tumse ba-naame khuda maangti hai
+  Zibh ho gaye is ke bemisl bhaai
+  Rasan mein kahaaṅ se kahaaṅ tak hai aai
+  Ye tum se ba naam-e-Khuda maangti hai
 
   3
-  Karo na charaghon se raushan ye raahein
-  Khudara jhuka lo ye apni nigahein
-  Bhala kya ye iske siwa maangti hai
+  Karo na charaaghaaṅ se raushan ye raaheiṅ
+  Khudaara jhuka lo ye apni nigaaheiṅ
+  Bhala kya ye is ke siwa maangti hai
 
   4
-  Nabi zadiyon ko satate ho kyun tum
-  Inhe naam le kar bulaate ho kyun tum
+  Nabi zaadiyoṅ ko sataate ho kiuṅ tum
+  Inheiṅ naam le kar bulaate ho kiuṅ tum
   Ye marne ki apne dua maangti hai
 
   5
-  Thay farhan aur qurban bibi ke jumle
-  Mujhe mera bhai khule sar na dekhe
-  Ye kehke layeen se rida maangti hai
+  The Farhan aur Qurban Bibi ke jumle
+  Mujhe mera bhaai khule sar na dekhe
+  Ye keh ke laiṅ se ridaa maangti hai
 # source_id: nohayonline:028110235f099f822f75
 # source_url: https://www.nohayonline.com/details_content.php?id=1121
 # raw_sha256: 4359ff50b423534495b3ebcc4f9fd2a26b53c00db61141613b5d14f86e970f6c
@@ -50,8 +51,8 @@ romanLyrics: |-
 فقط دو قدم راستہ مانگتی ہے
 
 ۲
-ذبح ہو گےء اس کے بے مثل بھای
-رسن میں کہاں سے کہاں تک ہے آی
+ذبح ہو گئے اس کے بے مثل بھائی
+رسن میں کہاں سے کہاں تک ہے آئی
 یہ تم سے بہ نام خدا مانگتی ہے
 
 ۳
@@ -65,6 +66,6 @@ romanLyrics: |-
 یہ مرنے کی اپنے دعا مانگتی ہے
 
 ۵
-تھے فرحان اور قربان بی بی کے جملے
+تھے فرحان اور قربان بی‌بی کے جملے
 مجھے میرا بھائی کھلے سر نہ دیکھے
-یہ کہکے لعیں سے ردا مانگتی ہے
+یہ کہہ کے لعیں سے ردا مانگتی ہے

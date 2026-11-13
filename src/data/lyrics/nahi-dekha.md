@@ -1,41 +1,42 @@
 ---
 title: "آنکھوں سے رواں اشک کا دریا نہیں دیکھا"
-alternateTitle: "Nahi Dekha"
+alternateTitle: "Nahiṅ Dekha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Taqi Abedi"
+reciter: "Raza Ali Khan"
 tags: ["noImage"]
-aliases: []
+aliases: ["Nahi Dekha"]
 published: false
 romanLyrics: |-
-  Aankhon se rawan ashk ka darya nahi dekha
-  Har bache ne jalta hua qaima nahi dekha
+  Aankhoṅ se rawaaṅ ashk ka darya nahiṅ dekha
+  Har bachche ne jalta hua khaima nahiṅ dekha
 
   1
-  Yun jeet li abbas ne darya pe ladaayi
-  Pani pa kahin phir kabhi pehra nahi dekha
+  Yuṅ jit li Abbas ne darya pe laraai
+  Paani pe kahiṅ phir kabhi pehra nahiṅ dekha
 
   2
-  Kya noor ke paikar shab e ashoor jama thay
-  Shamma to bujhi lekin andhera nahi dekha
+  Kya nur ke paikar shab-e-Aashur jama the
+  Shama to bujhi lekin andhera nahiṅ dekha
 
   3
-  Islam to jaaga ali akbar ki azan se
-  Aur iski jawani ne savera nahi dekha
+  Islaam to jaaga Ali Akbar ki azaaṅ se
+  Aur is ki jawaani ne sawera nahiṅ dekha
 
   4
-  Akbar ke janaze pe qayamat ki ghadi thi
-  Shabbir ko aisa kabhi rota nahi dekha
+  Akbar ke janaaze pe qayaamat ki ghari thi
+  Shabbir ko aisa kabhi rota nahiṅ dekha
 
   5
-  Dekha tha kadi dhoop may bete ka janaza
-  Laila ko kabhi saaye may baitha nahi dekha
+  Dekha tha kari dhup mein bete ka janaaza
+  Laila ko kabhi saaye mein baitha nahiṅ dekha
 
   6
-  Kyun dekh ke roye na taqi apna bhara ghar
-  Zehra ki tarha ghar koi ujda nahi dekha
+  Kiuṅ dekh ke roye na Taqi apna bhara ghar
+  Zehra ki tarah ghar koi ujra nahiṅ dekha
 # source_id: nohayonline:c9481f010faa0dff5171
 # source_url: https://www.nohayonline.com/details_content.php?id=2188
 # raw_sha256: 8c68810f49d22bfb9d1d6b136231fcb2d98d372cf06d9f5c93d20919125ec318
@@ -61,8 +62,8 @@ romanLyrics: |-
 
 ۵
 دیکھا تھا کڑی دھوپ میں بیٹے کا جنازہ
-لیلیٰ کو کبھی ساے میں بیٹھا نہیں دیکھا
+لیلیٰ کو کبھی سائے میں بیٹھا نہیں دیکھا
 
 ۶
-کیوں دیکھ کے روے نہ تقی اپنا بھرا گھر
-زہرا کی طرح گھر کوی اجڑا نہیں دیکھا
+کیوں دیکھ کے روئے نہ تقی اپنا بھرا گھر
+زہرا کی طرح گھر کوئی اجڑا نہیں دیکھا

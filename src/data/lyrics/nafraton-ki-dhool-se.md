@@ -1,32 +1,33 @@
 ---
 title: "نفرتوں کی دھُول سے چہرہ ہٹا دیکھے گا کون"
-alternateTitle: "Nafraton Ki Dhool Se"
+alternateTitle: "Nafratoṅ Ki Dhul Se"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Tableegh e Imamia"
 tags: ["noImage"]
-aliases: []
+aliases: ["Nafraton Ki Dhool Se"]
 published: false
 romanLyrics: |-
-  Nafraton ki dhool se chehra hata dekhega kaun
-  Hum hai misle aaina humko bhala dekhega kaun
+  Nafratoṅ ki dhul se chehra hata dekhe ga kaun
+  Ham haiṅ misl-e-aaina ham ko bhala dekhe ga kaun
 
   1
-  Karbala se aaj tak aale rasool e paak par
-  Jo pasay parda nahi hai karbala dekhega kaun
+  Karbala se aaj tak aal-e-Rasul-e-paak par
+  Jo pas-e-parda nahiṅ hai Karbala dekhe ga kaun
 
   2
-  Ghurbate to dekhte hai sab gulon se haar ke
-  Wo jo inke darmiyan hai faasla dekhega kaun
+  Ghurbateiṅ to dekhte haiṅ sab guloṅ se haar ke
+  Wo jo in ke darmiyaaṅ hai faasla dekhe ga kaun
 
   3
-  Ab na qasim hai na akbar hai na abbas e jari
-  Dukhtare shere khuda ka hausla dekhega kaun
+  Ab na Qasim haiṅ na Akbar haiṅ na Abbas-e-jari
+  Dukhtar-e-Sher-e-Khuda ka hausla dekhe ga kaun
 
   4
-  Chal basi bali sakina ay alamdare hussain
-  Ab dare zindan pe tera raasta dekhega kaun
+  Chal basi baali Sakina ae alamdaar-e-Husain
+  Ab dar-e-zindaaṅ pe tera raasta dekhe ga kaun
 # source_id: nohayonline:29e252b3a93cc1193289
 # source_url: https://www.nohayonline.com/details_content.php?id=892
 # raw_sha256: b5926b8a32cc814ea4484a0dc9ab732d3db88d4216673662d4d7cd6e36d86923

@@ -1,72 +1,75 @@
 ---
 title: "ناداں علی اصغر میرے"
-alternateTitle: "Nadan Ali Asghar"
+alternateTitle: "Naadaaṅ Ali Asghar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Aashiq Irani / Nazeer Irani"
+reciter: "Azadari Murshidabad"
 tags: ["noImage"]
-aliases: []
+aliases: ["Nadan Ali Asghar"]
 published: false
 romanLyrics: |-
-  Nadan ali asghar mere
-  Tanhai mein hona na pareshan ali asghar
-  
+  Naadaaṅ Ali Asghar mere
+  Tanhaai mein hona na pareshaaṅ Ali Asghar
+  Naadaaṅ Ali Asghar
+
   1
-  Jhoole ko jo chode ho to aa tujhko sawaroo
-  Shish maah mujahid tere sadqe bhi utharoo
-  Dil apna sambhalegi teri maa ali asghar
-  
+  Jhule ko jo chhore ho to aa tujh ko sanwaaruṅ
+  Shash maah mujaahid tere sadqe bhi utaaruṅ
+  Dil apna sambhaale gi teri maaṅ Ali Asghar
+
   2
-  Hal min ki sada sunte hi ay nasir e shabbir
-  Kehte huwe labbaik giray farsh pe baysheer
-  Ho roohe ali aayat e quran ali asghar
-  
+  Hal min ki sada sunte hi ye naasir-e-Shabbir
+  Kehte hue labbaik gire farsh pe beshir
+  Ho ruh-e-Ali aayat-e-Quraaṅ Ali Asghar
+
   3
-  Takte hai teri raah ali aur payambar
-  Islam bachana hai tumhe khoon mein naha kar
-  Hona hai tujhe deen pe qurban ali asghar
-  
+  Takte haiṅ teri raah Ali aur Payambar
+  Islaam bachaana hai tumheiṅ khuṅ mein naha kar
+  Hona hai tujhe din pe qurbaaṅ Ali Asghar
+
   4
-  Mil jayega ammu tera abbas wahin par
-  Qasim bhi milega wahin mil jayega akbar
-  Hone nahi denge tujhe naala ali asghar
-  
+  Mil jaaye ga ammu tera Abbas wahi par
+  Qasim bhi mile ga wahi mil jaaye ga Akbar
+  Hone nahiṅ deiṅ ge tujhe naalaaṅ Ali Asghar
+
   5
-  Do baara zibha kar diye jaoge meri jaan
-  Faryad na karna pisar e shaah e shaheedan
-  Baba hai tere faqre sulaiman ali asghar
-  
+  Dobaara zibh kar diye jaao ge meri jaaṅ
+  Faryaad na karna pisar-e-Shaah-e-Shahidaaṅ
+  Baaba haiṅ tere fakhr-e-Sulaimaaṅ Ali Asghar
+
   6
-  Athara baras ke tere bhaiya ki wo zarbat
-  Baatil ke liye maut bana taaba qayamat
-  Azaan e ali akbare zeeshan ali asghar
-  
+  Athaara baras ke tere bhaiya ki wo zarbat
+  Baatil ke liye maut bana taaba qayaamat
+  Azaan-e-Ali Akbar-e-zi shaan Ali Asghar
+
   7
-  Tujhko na mila doodh na ek boondh bhi pani
-  Royegi teri yaad mein darya ki rawani
-  Jaa tumpe hai qurban teri maa ali asghar
-  
+  Tujh ko na mila dudh na ik bund bhi paani
+  Roye gi teri yaad mein darya ki rawaani
+  Jaaṅ tum hai qurbaan teri maaṅ Ali Asghar
+
   8
-  Nauha padhe jab tere nazeer gham mein tadap kar
-  Matam kare har ahle aza ashk baha kar
-  Hai aashiq e na-cheez ke armaan ali asghar
+  Nauha parhe jab tere Nazeer gham mein tarap kar
+  Maatam kare har ahl-e-aza ashk baha kar
+  Hai aashiq-e-naachiz ke armaan Ali Asghar
 # source_id: nohayonline:2b18551d843ade76d82e
 # source_url: https://www.nohayonline.com/details_content.php?id=1406
 # raw_sha256: 741363a53d067df47d68e73a6b47aac6ea921eea316ed30f7a2d06ef68852c5b
 ---
 ناداں علی اصغر میرے
 تنہائی میں ہونا نہ پریشاں علی اصغر
+ناداں علی اصغر
 
 ۱
-جھولے کو جو چھوڑے ہو تو آ تجھکو سنواروں
-ششماہ مجاہد تیرے صدقے بھی اتاروں
+جھولے کو جو چھوڑے ہو تو آ تجھ کو سنواروں
+شش ماہ مجاہد تیرے صدقے بھی اتاروں
 دل اپنا سنبھالے گی تیری ماں علی اصغر
 
 ۲
-ھل من کی صدا سنتے ہی یہ ناصر شبیر
-کہتے ہوے لبیک گرے فرش پہ بے شیر
+ہل من کی صدا سنتے ہی یہ ناصر شبیر
+کہتے ہوئے لبیک گرے فرش پہ بے شیر
 ہو روحِ علی آیت قرآں علی اصغر
 
 ۳
@@ -75,8 +78,8 @@ romanLyrics: |-
 ہونا ہے تجھے دین پہ قرباں علی اصغر
 
 ۴
-مل جاے گا عمو تیرا عباس وہی پر
-قاسم بھی ملے گا وہی مل جاے گا اکبر
+مل جائے گا عمو تیرا عباس وہی پر
+قاسم بھی ملے گا وہی مل جائے گا اکبر
 ہونے نہیں دیں گے تجھے نالاں علی اصغر
 
 ۵
@@ -87,14 +90,14 @@ romanLyrics: |-
 ۶
 اٹھارہ برس کے تیرے بھیا کی وہ ضربت
 باطل کے لئے موت بنا تابہ قیامت
-اذان علی اکبر زیشان علی اصغر
+اذان علی اکبر ذی شان علی اصغر
 
 ۷
-تجھکو نہ ملا دودھ نہ اک بوندھ بھی پانی
-روے گی تیری یاد میں دریا کی روانی
+تجھ کو نہ ملا دودھ نہ اک بوند بھی پانی
+روئے گی تیری یاد میں دریا کی روانی
 جاں تم ہے قربان تیری ماں علی اصغر
 
 ۸
 نوحہ پڑھے جب تیرے نظیر غم میں تڑپ کر
-ماتم کرے ہر اہلِ عزا آشک بہا کر
+ماتم کرے ہر اہلِ عزا اشک بہا کر
 ہے عاشق نا چیز کے ارمان علی اصغر
