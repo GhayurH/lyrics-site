@@ -6,98 +6,99 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ashq Lakhnavi"
+reciter: "Afzal Mirza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Koi misle shah e deen ho to aaye
-  Zaeefi may jawan ka daagh uthaye
+  Koi misl-e-Shaah-e-diṅ ho to aaye
+  Zaifi mein jawaaṅ ka daagh uthaaye
 
   1
-  Uthi taazeem ko har mauj e darya
-  Sar e saahil jun hi abbas aaye
+  Uthi taazim ko har mauj-e-darya
+  Sar-e-saahil juṅhi Abbas aaye
 
   2
-  Aray logon mera naushaah aaya
-  Lahoo ki haath may mehndi lagaye
+  Are logoṅ mera naushaah aaya
+  Lahu ki haath mein mehndi lagaaye
 
   3
-  Kaleja thaam kar chillayi maadar
-  Shah e deen laasha e qasim jo laaye
+  Kaleja thaam kar chillaai maadar
+  Shah-e-diṅ laasha-e-Qasim jo laaye
 
   4
-  Kaho behno se aanchal sar par daale
-  Koi naushaah ki masnat bichaye
+  Kaho behnoṅ se aanchal sar pe daale
+  Koi naushaah ki masnad bichhaaye
 
   5
-  Rukh e qasim se sehre ko hata do
-  Dulhan aati hai ghoonghat ko hataye
+  Rukh-e-Qasim se sehre ko hata do
+  Dulhan aati hai ghuṅghat ko hataaye
 
   6
-  Jo dehki laash akbar ki to maa ne
-  Alam se poch ke chille badhaye
+  Jo dekhi laash Akbar ki to maaṅ ne
+  Alam se puchh ke chhalle barhaaye
 
   7
-  Kaha bano ne asghar tum kahan ho
-  Ye maadar ab kise jhoola jhulaye
+  Kaha Bano ne Asghar tum kahaaṅ ho
+  Ye maadar ab kise jhula jhulaaye
 
   8
-  Aray baysheer ki koi khabar le
-  Mera baccha lehad may darr na jaye
+  Are beshir ki koi khabar le
+  Mera bachcha lahad mein dar na jaaye
 
   9
-  Chali aandhi falak se khoon barsa
-  Shah e bekas lahoo may jab nahaye
+  Chali aandhi falak se khun barsa
+  Shah-e-bekas lahu mein jab nahaaye
 
   10
-  Aray ye kya sitam hai ay layeeno
+  Are ye kya sitam hai ae lainoṅ
   Behan bhai par rone bhi na paaye
 
   11
-  Samajh lo ashq jannat hai usi ki
-  Gham e sarwar may jo aansu bahaye
+  Samajh lo Ashq jannat hai usi ki
+  Gham-e-Sarwar mein jo aansu bahaaye
 # source_id: nohayonline:acd4e744b74d9681eea3
 # source_url: https://www.nohayonline.com/details_content.php?id=1867
 # raw_sha256: c2fe6a53155cf005a5ec959f9733c810d1bb895114344e89304f1f854803f00d
 ---
 کوئی مثل شاہ دیں ہو تو آئے
-ضعیفی میں جواں کا داغ اٹھاے
+ضعیفی میں جواں کا داغ اٹھائے
 
 ۱
 اٹھی تعظیم کو ہر موجِ دریا
-سر ساحل جونہی عباس آے
+سر ساحل جونہی عباس آئے
 
 ۲
 ارے لوگوں میرا نوشاہ آیا
-لہو کی ہاتھ میں مہندی لگاے
+لہو کی ہاتھ میں مہندی لگائے
 
 ۳
-کلیجہ تھام کر چلای مادر
-شہ دیں لاشہء قاسم جو لاے
+کلیجہ تھام کر چلائی مادر
+شہ دیں لاشۂ قاسم جو لائے
 
 ۴
 کہو بہنوں سے آنچل سر پہ ڈالے
-کوئی نوشاہ کی مسند بچھاے
+کوئی نوشاہ کی مسند بچھائے
 
 ۵
 رخ قاسم سے سہرے کو ہٹا دو
-دلہن آتی ہے گھونگھٹ کو ہٹاے
+دلہن آتی ہے گھونگھٹ کو ہٹائے
 
 ۶
 جو دیکھی لاش اکبر کی تو ماں نے
-الم سے پوچھ کے چھلے بڑھاے
+الم سے پوچھ کے چھلے بڑھائے
 
 ۷
 کہا بانو نے اصغر تم کہاں ہو
-یہ مادر اب کسے جھولا جھلاے
+یہ مادر اب کسے جھولا جھلائے
 
 ۸
-ارے بے شیر کی کوی خبر لے
-میرا بچہ لحد میں ڈر نہ جاے
+ارے بے شیر کی کوئی خبر لے
+میرا بچہ لحد میں ڈر نہ جائے
 
 ۹
 چلی آندھی فلک سے خون برسا
-شہ بیکس لہو میں جب نہاے
+شہ بیکس لہو میں جب نہائے
 
 ۱۰
 ارے یہ کیا ستم ہے اے لعینوں
@@ -105,4 +106,4 @@ romanLyrics: |-
 
 ۱۱
 سمجھ لو عشقِ جنت ہے اسی کی
-غمِ سرور میں جو آنسوں بہاے
+غمِ سرور میں جو آنسو بہائے

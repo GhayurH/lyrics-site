@@ -1,95 +1,96 @@
 ---
 title: "ہنگام عصر کا منظر ہے"
-alternateTitle: "Koi Nai Hussain Ka"
+alternateTitle: "Koi Nahiṅ Husain Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hungam e asr ka manzar hai
-  Na ghazi na koi lashkar hai
-  
+  Hangaam-e-asr ka manzar hai
+  Na Ghazi na koi lashkar hai
+
   1
-  Wa ghurbata ay wa ghurbata
-  Koi nai hussain ka begane des mein
+  Wa ghurbata ae wa ghurbata
+  Koi nahiṅ Husain ka begaane des mein
   Hal min ki hai sada
-  Koi nai hussain ka...
-  
+  Koi nahiṅ Husain ka
+
   2
-  Hai asr ka samaa rota hai aasman
-  Hai aakhri azan gham se hai neem jaan
-  Hussain ya hussain
-  Hussain baadshah
-  
+  Hai asr ka samaaṅ rota hai aasmaaṅ
+  Hai aakhri azaaṅ gham se hai nim jaaṅ
+  Husain ya Husain
+  Husain baadshaah
+
   3
   Akela reh gaya
   Wo ghar luta chuka
-  Bacha ke deen tera
-  Khuda ay khuda ay khuda ay khuda
-  
+  Bacha ke din tera
+  Khuda ae Khuda ae Khuda ae Khuda
+
   4
-  Kunba ujad gaya begane des mein
-  Koi nai hussain ka begane des mein
+  Kunba ujar gaya begaane des mein
+  Koi nahiṅ Husain ka begaane des mein
   Hal min ki hai sada
-  Koi nai hussain ka...
-  
+  Koi nahiṅ Husain ka
+
   5
   Laashe utha chuka ghar bhi luta chuka
   Har ek laash par aansu baha chuka
-  Hussain ya hussain
-  Hussain baadshah
-  
+  Husain ya Husain
+  Husain baadshaah
+
   6
   Akela reh gaya
   Wo ghar luta chuka
-  Bacha ke deen tera
-  Khuda ay khuda ay khuda ay khuda
-  
+  Bacha ke din tera
+  Khuda ae Khuda ae Khuda ae Khuda
+
   7
-  Rota hai zuljana begane des mein
-  Koi nai hussain ka begane des mein
+  Rota hai Zuljanaah begaane des mein
+  Koi nahiṅ Husain ka begaane des mein
   Hal min ki hai sada
-  Koi nai hussain ka...
-  
+  Koi nahiṅ Husain ka
+
   8
-  Laakhon mein ghir gaya mazloom e karbala
-  De kisko ab sada ghazi to so gaya
-  Hussain ya hussain
-  Hussain baadshah
-  
+  Laakhoṅ mein ghir gaya mazlum-e-Karbala
+  De kis ko ab sada Ghazi to so gaya
+  Husain ya Husain
+  Husain baadshaah
+
   9
   Akela reh gaya
   Wo ghar luta chuka
-  Bacha ke deen tera
-  Khuda ay khuda ay khuda ay khuda
-  
+  Bacha ke din tera
+  Khuda ae Khuda ae Khuda ae Khuda
+
   10
-  Lashkar bichad gaya begane des mein
-  Koi nai hussain ka begane des mein
+  Lashkar bichhar gaya begaane des mein
+  Koi nahiṅ Husain ka begaane des mein
   Hal min ki hai sada
-  Koi nai hussain ka...
-  
+  Koi nahiṅ Husain ka
+
   11
-  Zainab ki thi sada ay wa musibata
-  Nana tera hussain ghode se gir gaya
-  Hussain ya hussain
-  Hussain baadshah
-  
+  Zainab ki thi sada ae wa musibata
+  Nana tera Husain ghore se gir gaya
+  Husain ya Husain
+  Husain baadshaah
+
   12
   Akela reh gaya
   Wo ghar luta chuka
-  Bacha ke deen tera
-  Khuda ay khuda ay khuda ay khuda
-  
+  Bacha ke din tera
+  Khuda ae Khuda ae Khuda ae Khuda
+
   13
-  Zainab ki sada thi begane des mein
-  Koi nai hussain ka begane des mein
+  Zainab ki sada thi begaane des mein
+  Koi nahiṅ Husain ka begaane des mein
   Hal min ki hai sada
-  Koi nai hussain ka...
+  Koi nahiṅ Husain ka
 # source_id: nohayonline:5a0f9a968ed67e86b433
 # source_url: https://www.nohayonline.com/details_content.php?id=390
 # raw_sha256: ef85f878a0ba5755ea20a196c777c0fe82ce3238bedb369d58b16107d4b3e863
@@ -101,7 +102,7 @@ romanLyrics: |-
 ۱
 وا غربتا اے وا غربتا
 کوئی نہیں حسین کا بیگانے دیس میں
-ھل من کی ہے صدا
+ہل من کی ہے صدا
 کوئی نہیں حسین کا
 
 ۲
@@ -119,12 +120,12 @@ romanLyrics: |-
 ۴
 کنبہ اجڑ گیا بیگانے دیس میں
 کوئی نہیں حسین کا بیگانے دیس میں
-ھل من کی ہے صدا
+ہل من کی ہے صدا
 کوئی نہیں حسین کا
 
 ۵
 لاشے اٹھا چکا گھر بھی لٹا چکا
-ہر ایک لاش پر آنسوں بہا چکا
+ہر ایک لاش پر آنسو بہا چکا
 حسین یا حسین
 حسین بادشاہ
 
@@ -137,12 +138,12 @@ romanLyrics: |-
 ۷
 روتا ہے ذوالجناح بیگانے دیس میں
 کوئی نہیں حسین کا بیگانے دیس میں
-ھل من کی ہے صدا
+ہل من کی ہے صدا
 کوئی نہیں حسین کا
 
 ۸
 لاکھوں میں گھر گیا مظلوم کربلا
-دے کس کو اب صدا غازی تو سوگیا
+دے کس کو اب صدا غازی تو سو گیا
 حسین یا حسین
 حسین بادشاہ
 
@@ -155,7 +156,7 @@ romanLyrics: |-
 ۱۰
 لشکر بچھڑ گیا بیگانے دیس میں
 کوئی نہیں حسین کا بیگانے دیس میں
-ھل من کی ہے صدا
+ہل من کی ہے صدا
 کوئی نہیں حسین کا
 
 ۱۱
@@ -173,5 +174,5 @@ romanLyrics: |-
 ۱۳
 زینب کی تھی صدا بیگانے دیس میں
 کوئی نہیں حسین کا بیگانے دیس میں
-ھل من کی ہے صدا
+ہل من کی ہے صدا
 کوئی نہیں حسین کا
