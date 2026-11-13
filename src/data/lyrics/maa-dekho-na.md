@@ -6,90 +6,96 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Gire jo ghode se maqtal mein shaahe karbobala
+  Gire jo ghore se maqtal mein Shaah-e-Karbobala
+  Hazaaroṅ zakhm the saara badan lahu se bhara
+  Suni jo qadmoṅ ki aawaaz to uthe Maula
+  Kaha tarap ke ye jab maaṅ ko saamne dekha
+
+  Maaṅ Ali Akbar ko naiza maara
+  Haae maaṅ ho gaya sina paara paara
+  Haae maaṅ beh gaya us ka khun bhi saara
+  Maaṅ dekho na
+
+  Uthaaya hai jab se us ka laasha main thak gaya huṅ maaṅ
+  Fajr se lekar asr talak main ujar gaya huṅ maaṅ
+  Haae maaṅ dekho na
 
   1
-  Hazaron zakhm thay saara badan lahoo se bhara
-  Suni jo qadmon ki awaaz to uthe maula
-  Kaha tadap ke ye jab maa ko saamne dekha
-  Maa ali akbar ko naiza maara
-  Haye maa ho gaya seena paara paara
-  Haye maa beh gaya uska khoon bhi saara
-  Maa dekho na
-  Uthaya hai jab se uska laasha mai thak gaya hoon maa
-  Fajr se lekar asr talak mai ujad gaya hoon maa
-  Haye maa dekho na
-  Maa meri sakina kaise jiyegi
-  Haye maa baap ka seena wo dhoondegi
-  Haye maa mere bina wo mar jayegi
-  Maa dekho na
-  Sula ke mai khaak par sakina ko aa gaya hoon maa
+  Maaṅ meri Sakina kaise jiyegi
+  Haae maaṅ baap ka sina wo dhundegi
+  Haae maaṅ mere bina wo mar jaayegi
+  Maaṅ dekho na
+  Sula ke main khaak par Sakina ko aa gaya huṅ maaṅ
 
   2
-  Maa mar gaya meri godh mein ghazi
-  Haye maa kat gaye baazu beh gaya pani
-  Haye maa ho gaya uska chehra zakhmi
-  Maa dekho na
-  Nahi mile koi bhai se jaise mai mila hoon maa
+  Maaṅ mar gaya meri god mein Ghaazi
+  Haae maaṅ kat gaye baazu beh gaya paani
+  Haae maaṅ ho gaya us ka chehra zakhmi
+  Maaṅ dekho na
+  Nahiṅ mile koi bhai se jaise main mila huṅ maaṅ
 
   3
-  Maa jiska badan tha phool ke jaisa
-  Haye maa usko uthane jab mai pahuncha
-  Haye maa bikhra tha qasim ka laasha
-  Maa dekho na
-  Sameta usko kahan kahan se mai jaanta hoon maa
+  Maaṅ jis ka badan tha phul ke jaisa
+  Haae maaṅ us ko uthaane jab main pahuncha
+  Haae maaṅ bikhra tha Qaasim ka laasha
+  Maaṅ dekho na
+  Sameta us ko kahaaṅ kahaaṅ se main jaanta huṅ maaṅ
 
   4
-  Maa aun o mohamed mar gaye pyase
-  Haye maa zinda na aaye wo darya se
-  Haye maa mil nahi paaye wo sughra se
-  Maa dekho na
-  Magar sakina ko unke laashe dikha chuka hoon maa
+  Maaṅ Aun o Muhammad mar gaye pyaase
+  Haae maaṅ zinda na aaye wo darya se
+  Haae maaṅ mil nahiṅ paaye wo Sughra se
+  Maaṅ dekho na
+  Magar Sakina ko un ke laashe dikha chuka huṅ maaṅ
 
   5
-  Maa ghutniyo bhi jo chal na paaya
-  Haye maa teer gale par usne khaaya
-  Haye maa asghar ko maine dafnaya
-  Maa dekho na
-  Wo kitna pyasa tha soch kar mai tadap raha hoon maa
+  Maaṅ ghutniyoṅ bhi jo chal na paaya
+  Haae maaṅ tir gale par us ne khaaya
+  Haae maaṅ Asghar ko main ne dafnaaya
+  Maaṅ dekho na
+  Wo kitna pyaasa tha soch kar main tarap raha huṅ maaṅ
 
   6
-  Maa aapka beta reh gaya tanha
-  Haye maa lakhon ne mil kar mujhko maara
-  Haye maa teer lage aur khaaya naiza
-  Maa dekho na
-  Hai zakhmi sar dekho gurz kha kar abhi gira hoon maa
+  Maaṅ aap ka beta reh gaya tanha
+  Haae maaṅ laakhoṅ ne mil kar mujh ko maara
+  Haae maaṅ tir lage aur khaaya naiza
+  Maaṅ dekho na
+  Hai zakhmi sar dekho gurz kha kar abhi gira huṅ maaṅ
 
   7
-  Tha ran mein zeeshan aur farhan kaisa manzar
-  Jab aake seene pe shimr baitha to bole sarwar
-  Maa chalne waala hai ab khanjar
-  Haye maa haath na rakhna tum gardan par
-  Haye maa godh mein le lo mujhko aakar
-  Maa dekho na
-  Sukoon se maut aaye bas mai ye chaahta hoon maa
+  Tha ran mein Zeeshan aur Farhan kaisa manzar
+  Jab aa ke sine pe Shimr baitha to bole Sarwar
+
+  Maaṅ chalne waala hai ab khanjar
+  Haae maaṅ haath na rakhna tum gardan par
+  Haae maaṅ god mein le lo mujh ko aa kar
+  Maaṅ dekho na
+  Sukuṅ se maut aaye bas main ye chaahta huṅ maaṅ
 # source_id: nohayonline:ab35a2352bd989ced18f
 # source_url: https://www.nohayonline.com/details_content.php?id=3651
 # raw_sha256: a3f14f20485b45147b2477c532004ac5e89533e70be5ebd25c841542b91101ef
 ---
 گرے جو گھوڑے سے مقتل میں شاہ کربوبلا
-
-۱
 ہزاروں زخم تھے سارا بدن لہو سے بھرا
 سنی جو قدموں کی آواز تو اٹھے مولا
 کہا تڑپ کے یہ جب ماں کو سامنے دیکھا
+
 ماں علی اکبر کو نیزہ مارا
 ہاے ماں ہو گیا سینہ پارہ پارہ
 ہاے ماں بہہ گیا اس کا خون بھی سارا
 ماں دیکھو نہ
+
 اٹھایا ہے جب سے اس کا لاشہ میں تھک گیا ہوں ماں
 فجر سے لیکر عصر تلک میں اجڑ گیا ہوں ماں
 ہاے ماں دیکھو نہ
-ماں میری سکینہ کیسے جیےء گی
+
+۱
+ماں میری سکینہ کیسے جیے گی
 ہاے ماں باپ کا سینہ وہ ڈھونڈے گی
 ہاے ماں میرے بنا وہ مر جائے گی
 ماں دیکھو نہ
@@ -97,10 +103,10 @@ romanLyrics: |-
 
 ۲
 ماں مر گیا میری گود میں غازی
-ہاے ماں کٹ گےء بازو بہہ گیا پانی
+ہاے ماں کٹ گئے بازو بہہ گیا پانی
 ہاے ماں ہو گیا اس کا چہرہ زخمی
 ماں دیکھو نہ
-نہیں ملے کوی بھای سے جیسے میں ملا ہوں ماں
+نہیں ملے کوئی بھائی سے جیسے میں ملا ہوں ماں
 
 ۳
 ماں جس کا بدن تھا پھول کے جیسا
@@ -110,9 +116,9 @@ romanLyrics: |-
 سمیٹا اس کو کہاں کہاں سے میں جانتا ہوں ماں
 
 ۴
-ماں عون و محمد مر گےء پیاسے
-ہاے ماں زندہ نہ آے وہ دریا سے
-ہاے ماں مل نہیں پاے وہ صغرا سے
+ماں عون و محمد مر گئے پیاسے
+ہاے ماں زندہ نہ آئے وہ دریا سے
+ہاے ماں مل نہیں پائے وہ صغرا سے
 ماں دیکھو نہ
 مگر سکینہ کو ان کے لاشے دکھا چکا ہوں ماں
 
@@ -133,8 +139,9 @@ romanLyrics: |-
 ۷
 تھا رن میں زیشان اور فرحان کیسا منظر
 جب آ کے سینے پہ شمر بیٹھا تو بولے سرور
+
 ماں چلنے والا ہے اب خنجر
 ہاے ماں ہاتھ نہ رکھنا تم گردن پر
 ہاے ماں گود میں لے لو مجھکو آ کر
 ماں دیکھو نہ
-سکوں سے موت آے بس میں یہ چاہتا ہوں ماں
+سکوں سے موت آئے بس میں یہ چاہتا ہوں ماں

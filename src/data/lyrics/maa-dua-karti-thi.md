@@ -6,32 +6,33 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Maa dua karti thi akbar tera sehra dekhun
-  Chand chup jaye tera chand sa chehra dekhun
+  Maaṅ dua karti thi Akbar tera sehra dekhuṅ
+  Chaand chhup jaaye tera chaand sa chehra dekhuṅ
 
   1
-  Boli rokar ali akbar ki phupi ay maalik
-  Kis tarha barchi mein akbar ka kaleja dekhun
+  Boli ro kar Ali Akbar ki phuphi Ae Maalik
+  Kis tarah barchhi mein Akbar ka kaleja dekhuṅ
 
   2
-  Laashe akbar pe khate sughra sunate hai hussain
-  Bhai ab aur kahan tak tera rasta dekhun
+  Laash-e-Akbar pe khat-e-Sughra sunaate haiṅ Husain
+  Bhai ab aur kahaaṅ tak tera rasta dekhuṅ
 
   3
-  Aao zainab ye jawan laash uthaye mil kar
-  Jab nahi ghazi to kyun jaanib e darya dekhun
+  Aao Zainab ye jawaaṅ laash uthaaeṅ mil kar
+  Jab nahiṅ Ghaazi to kiuṅ jaanib-e-darya dekhuṅ
 
   4
-  Maa pukari ke hua waqt e azan laal mere
-  Tu azan de to mohamed ka mai lehja dekhun
+  Maaṅ pukaari ke hua waqt-e-azaaṅ laal mere
+  Tu azaaṅ de to Muhammad ka main lehja dekhuṅ
 
   5
-  Raat din karta hoo rehaan yehi ek dua
-  Karbala dekhun najaf aur madina dekhun
+  Raat din karta huṅ Rehaan ye hi ek dua
+  Karbala dekhuṅ Najaf aur Madina dekhuṅ
 # source_id: nohayonline:c973e6d37f8488fa4fdc
 # source_url: https://www.nohayonline.com/details_content.php?id=607
 # raw_sha256: ea4bb6730277c68303da2b8dc864cfa59486b9e6cee6991d3105662d31c8f3eb
@@ -52,7 +53,7 @@ romanLyrics: |-
 
 ۳
 آئو زینب یہ جواں لاش اُٹھائیں مل کر
-جب نہیں غازی توکیوں جانبِ دریا دیکھوں
+جب نہیں غازی تو کیوں جانبِ دریا دیکھوں
 
 ۴
 ماں پُکاری کہ ہوا وقتِ اذاں لال میرے
