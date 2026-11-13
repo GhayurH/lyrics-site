@@ -2638,10 +2638,10 @@ src/data/lyrics/matam-haan-sheh-ka.md,standalone_lyrics,imported,nohayonline,pen
 src/data/lyrics/matam-hai-fazaon.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s2 ""Islam ka larza hai sawera""; s7 ""shaanoṅ"" and Urdu ""lagaaye"" vs Roman source ""lagaya""; s9 ""Girya kiya Sarwar ke gale ke liye bose""."
 src/data/lyrics/matam-hai-madine.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s1 ""Tukre dil-e-Shabbar ke dekhega zamaana na phir""; s5 ""Pakne lagi shaq ho kar us waqt zamiṅ paiham""."
 src/data/lyrics/matam-hai-saamara.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,first_sweep,,
-src/data/lyrics/matam-karo-azadaro.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/matam-karo-hussain.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/matam-karo-hussainyo.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/matam-karo-shabbir-ka.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/matam-karo-azadaro.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,first_sweep,,"Need audio/print: s2 ""گھٹڑی""; s3 Urdu ""دیکھیں"" vs Roman ""dekhe""; s6 ""بوندوں"", Urdu ""لبیں"" vs Roman ""lawein"", and ""چھینے گئے اس گوہر""."
+src/data/lyrics/matam-karo-hussain.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,first_sweep,,"Need audio/print: s2 ""آنسو بہائے ہے""; s3 ""بیٹے کے نیزہ""; s6 ""الم"" vs Roman ""alam""; s7 ""میثم و اذلان ازمی"" / ""mesum o azlan azmi"" vs poet credit Arsalan Azmi."
+src/data/lyrics/matam-karo-hussainyo.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,first_sweep,,"Need audio/print: opening ""سب موسیٰ رضا کا""; s1 ""جب سنا بھائی کی قضا کا""; s3 Urdu ""دیں"" vs Roman ""deen""."
+src/data/lyrics/matam-karo-shabbir-ka.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,first_sweep,,
 src/data/lyrics/matam-karo.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/matam-ki-sada-se.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/matam-kya-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
