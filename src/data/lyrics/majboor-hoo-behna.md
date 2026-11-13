@@ -1,44 +1,45 @@
 ---
 title: مجبور ہوں بہنا تمہیں دفنا نہیں سکتا
-alternateTitle: Majboor Hoo Behna
+alternateTitle: Majbur Huṅ Behna
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
+reciter: "Mazahir Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Majboor hoo behna tumhe dafna nahi sakta
-  Qaidi hoo sakina mai kafan laa nahi sakta
+  Majbur huṅ behna tumheiṅ dafna nahiṅ sakta
+  Qaidi huṅ Sakina main kafan laa nahiṅ sakta
 
   1
-  Laasha mai akele hi uthaunga tumhara
-  Ghairon se tera laasha mai uthwa nahi sakta
+  Laasha main akele hi uthaauṅ ga tumhaara
+  Ghairoṅ se tera laasha main uthwa nahiṅ sakta
 
   2
-  Lachaar hai sajjad se kyun rooth gayi tum
-  Beemar gohar aap ke dilwa nahi sakta
+  Laachaar hai Sajjad se kiuṅ ruth gayi tum
+  Bimaar gohar aap ke dilwa nahiṅ sakta
 
   3
-  Tum qabr mein aaram karo bali sakina
-  Ab saath mai ghar leke tumhe jaa nahi sakta
+  Tum qabr meiṅ aaraam karo baali Sakina
+  Ab saath main ghar le ke tumheiṅ jaa nahiṅ sakta
 
   4
-  Behna inhi kapdo mein tumhe dafn karunga
-  Majboor hoo nanha sa kafan laa nahi sakta
+  Behna inhi kaproṅ meiṅ tumheiṅ dafn karuṅ ga
+  Majbur huṅ nanha sa kafan laa nahiṅ sakta
 
   5
-  Abbas chacha aao sakina ko manao
-  Mai leke usay aap ke paas aa nahi sakta
+  Abbas chacha aao Sakina ko manaao
+  Main le ke use aap ke paas aa nahiṅ sakta
 
   6
-  Taboot uthane ko na akbar hai na abbas
-  Mai ehle watan ko yahan bulwa nahi sakta
+  Taabut uthaane ko na Akbar hai na Abbas
+  Main ahl-e-watan ko yahaaṅ bulwa nahiṅ sakta
 
   7
-  Mai kaise khabar doo tere marne ki padar ko
-  Wo aa nahi sakte mai wahan jaa nahi sakta
+  Main kaise khabar duṅ tere marne ki padar ko
+  Woh aa nahiṅ sakte main wahaaṅ jaa nahiṅ sakta
 # source_id: nohayonline:34c6d9ab0ce8923e5a0d
 # source_url: https://www.nohayonline.com/details_content.php?id=1058
 # raw_sha256: 6c1c81f790cc8664cd97bff3f1dcda7fff11e9aa1f9929ae569ff24186836e86
@@ -55,7 +56,7 @@ romanLyrics: |-
 غیروں سے تیرا لاشہ میں اٹھوا نہیں سکتا
 
 ۲
-لاچار ہے سجاد سے کیوں روٹھ گیء تم
+لاچار ہے سجاد سے کیوں روٹھ گئی تم
 بیمار گوہر آپ کے دلوا نہیں سکتا
 
 ۳
@@ -68,7 +69,7 @@ romanLyrics: |-
 
 ۵
 عباس چچا آؤ سکینہ کو مناؤ
-میں لیکے اسے آپ کے پاس آ نہیں سکتا
+میں لے کے اسے آپ کے پاس آ نہیں سکتا
 
 ۶
 تابوت اٹھانے کو نہ اکبر ہے نہ عباس

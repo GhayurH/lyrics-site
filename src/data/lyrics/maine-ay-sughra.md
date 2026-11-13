@@ -1,61 +1,62 @@
 ---
 title: "میں نے اے صغرا اندھیروں سے رفاقت کرلی"
-alternateTitle: "Maine Ay Sughra"
+alternateTitle: "Main Ne Ae Sughra"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Najaf Murshidabadi"
+reciter: "Munawar Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Maine ay sughra andheron se rifaqat kar li
-  Qaid e zindan may sakina ye sada deti thi
+  Main ne ae Sughra andheroṅ se rifaaqat kar li
+  Qaid-e-zindaaṅ meiṅ Sakina yeh sada deti thi
 
   1
-  Jabse baba ka behan seena hua mujhse juda
-  Mar gayi seene may umeed mere jeene ki
+  Jab se Baba ka behan sina hua mujh se juda
+  Mar gayi sine meiṅ ummid mere jine ki
 
   2
-  Neele rukhsar tere hote behan meri tarha
-  Ye to acha hi hua tum na yahan par aayi
+  Nile rukhsaar tere hote behan meri tarah
+  Yeh to achchha hi hua tum na yahaaṅ par aayi
 
   3
-  Meri awaaz bhi hai meri tarha qaid may ab
-  Bas isi tarha se ab qaid may mar jaungi
+  Meri aawaaz bhi hai meri tarah qaid meiṅ ab
+  Bas isi tarah se ab qaid meiṅ mar jaauṅ gi
 
   4
-  Neend jab aati nahi qaid e sitam may khwahar
-  Loriyan yaad bahot aati hai mujhko maa ki
+  Nind jab aati nahiṅ qaid-e-sitam meiṅ khwaahar
+  Loriyaaṅ yaad bahut aati haiṅ mujh ko Maaṅ ki
 
   5
-  Garche khaaliq ki har ek shay hai mujhe yaad magar
-  Roshni cheez hai kya ab to yahan bhool gayi
+  Garche Khaaliq ki har ek shai hai mujhe yaad magar
+  Roshni chiz hai kya ab to yahaaṅ bhul gayi
 
   6
-  Tum ko mai dukhda sunaungi gale se lag kar
+  Tum ko main dukhra sunaauṅ gi gale se lag kar
   Qaid se jald rihaai ki ho surat sab ki
 
   7
-  Ab to zindan ki tareeki ka hai saath mera
-  Roshni yaad nahi ab mujhe madine ki
+  Ab to zindaan ki taariki ka hai saath mera
+  Roshni yaad nahiṅ ab mujhe Madine ki
 
   8
-  Ab mayassar hai mujhe khaak ka takiya bistar
-  Chain ki neend madine may mujhe aati thi
+  Ab muyassar hai mujhe khaak ka takiya bistar
+  Chain ki nind Madine meiṅ mujhe aati thi
 
   9
-  Apne hi qadmon ki aahat se seham jaati hoo
-  Is khadar hai dar o deewar se wehshat taari
+  Apne hi qadmoṅ ki aahat se saham jaati huṅ
+  Is qadar hai dar o diwaar se wahshat taari
 
   10
-  Din bhi rehta hai yahan chadare zulmat odhe
-  Kya bayan shab ke andhere ka kare yan koi
+  Din bhi rehta hai yahaaṅ chaadar-e-zulmat orhe
+  Kya bayaaṅ shab ke andhere ka kare yaaṅ koi
 
   11
-  Khushk lab yaad sakina ke mujhe aaye najaf
-  Qalb do paara hua aagayi ankhon may nami
+  Khushk lab yaad Sakina ke mujhe aaye Najaf
+  Qalb do paara hua aa gayi aankhoṅ meiṅ nami
 # source_id: nohayonline:bd1911fd509aff701626
 # source_url: https://www.nohayonline.com/details_content.php?id=867
 # raw_sha256: 6175d49e406c0c421efe2c51a45def6587dd5a70617640eacefa5f23530c2b70
@@ -65,11 +66,11 @@ romanLyrics: |-
 
 ۱
 جب سے بابا کا بہن سینہ ہوا مجھ سے جدا
-مر گیء سینے میں امید میرے جینے کی
+مر گئی سینے میں امید میرے جینے کی
 
 ۲
 نیلے رخسار تیرے ہوتے بہن میری طرح
-یہ تو اچھا ہی ہوا تم نہ یہاں پر آی
+یہ تو اچھا ہی ہوا تم نہ یہاں پر آئی
 
 ۳
 میری آواز بھی ہے میری طرح قید میں اب
@@ -77,11 +78,11 @@ romanLyrics: |-
 
 ۴
 نیند جب آتی نہیں قید ستم میں خواہر
-لوریاں یاد بہت آتی ہیں مجھکو ماں کی
+لوریاں یاد بہت آتی ہیں مجھ کو ماں کی
 
 ۵
-گرچہ خالق کی ہر ایک شہ ہے مجھے یاد مگر
-روشنی چیز ہے کیا اب تو یہاں بھول گیء
+گرچہ خالق کی ہر ایک شے ہے مجھے یاد مگر
+روشنی چیز ہے کیا اب تو یہاں بھول گئی
 
 ۶
 تم کو میں دکھڑا سناؤں گی گلے سے لگا کر
@@ -104,5 +105,5 @@ romanLyrics: |-
 کیا بیاں شب کے اندھیرے کا کرے یاں کوئی
 
 ۱۱
-خشک لب یاد سکینہ کے مجھے آے نجف
-قلب دو پارہ ہوا آگیء آنکھوں میں نمی
+خشک لب یاد سکینہ کے مجھے آئے نجف
+قلب دو پارہ ہوا آ گئی آنکھوں میں نمی
