@@ -6,57 +6,58 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hilal Rizvi"
+reciter: "Mesum Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Laashe akbar utha rahe hai hussain
-  Ya ali kehte jaa rahe hai hussain
+  Laasha-e-Akbar utha rahe haiṅ Husain
+  Ya Ali kehte jaa rahe haiṅ Husain
 
   1
-  Mere beta zara galay se lago
+  Mere beta zara gale se lago
   Kuch to baba se uth ke baat karo
-  Dekho kab se bula rahe hai hussain
+  Dekho kab se bula rahe haiṅ Husain
 
   2
-  Badi hasrat se jaanib e darya
+  Bari hasrat se jaanib-e-darya
   Apne bhai ka dekh kar laasha
-  Sirf aansu baha rahe hai hussain
+  Sirf aansu baha rahe haiṅ Husain
 
   3
-  Aankh bhi kholte nahi akbar
-  Kuch bhi ab bolte nahi akbar
-  Bas galay se laga rahe hai hussain
+  Aankh bhi kholte nahiṅ Akbar
+  Kuch bhi ab bolte nahiṅ Akbar
+  Bas gale se laga rahe haiṅ Husain
 
   4
-  Maut ki neend so gaya beta
+  Maut ki nind so gaya beta
   Hai khabar ab kabhi na uthega
-  Haye phir bhi jaga rahe hai hussain
+  Haye phir bhi jaga rahe haiṅ Husain
 
   5
-  Bani hashim ke bachon aa jao
-  Naujawan ka janaza uthwao
-  Bekasi may bu?a rahe hai hussain
+  Bani Haashim ke bachchoṅ aa jaao
+  Naujawaaṅ ka janaaza uthwaao
+  Bekasi mein bula rahe haiṅ Husain
 
   6
-  Khaake maqtal se dasht e ghurbat may
-  Laashe kadiyal jawan ki surat may
-  Apni mayyat utha rahe hai hussain
+  Khaak-e-maqtal se dasht-e-ghurbat mein
+  Laasha-e-karil jawaaṅ ki surat mein
+  Apni mayyat utha rahe haiṅ Husain
 
   7
   Sehra baandha hai maut ne aa ke
-  Khoon ki mehndi hai haath may jis ke
-  Aise dulhe ko laa rahe hai hussain
+  Khuṅ ki mehndi hai haath mein jis ke
+  Aise dulhe ko laa rahe haiṅ Husain
 
   8
-  Baap ko bete dete hai kaandha
-  Laasha lekin jawan bete ka
-  Apne kaandho pe laa rahe hai hussain
+  Baap ko bete dete haiṅ kaandha
+  Laasha lekin jawaan bete ka
+  Apne kaandhoṅ pe laa rahe haiṅ Husain
 
   9
-  Mesum ab kya bayan ho ranj o malaal
-  Naame abbas le ke mir hilal
-  Zor e baazu dikha rahe hai hussain
+  Mesum ab kya bayaaṅ ho ranj o malaal
+  Naam-e-Abbas le ke Mir Hilal
+  Zor-e-baazu dikha rahe haiṅ Husain
 # source_id: nohayonline:69bcdf891920a38886a6
 # source_url: https://www.nohayonline.com/details_content.php?id=1657
 # raw_sha256: 5de2813eadd1f9f389330b69233afc2eb7e0b2e576b32af8a29a0e4fb475d8b5
@@ -65,28 +66,28 @@ romanLyrics: |-
 یا علی کہتے جا رہے ہیں حسین
 
 ۱
-میرے بیٹا زرا گلے سے لگو
+میرے بیٹا ذرا گلے سے لگو
 کچھ تو بابا سے اٹھ کے بات کرو
 دیکھو کب سے بلا رہے ہیں حسین
 
 ۲
 بڑی حسرت سے جانب دریا
-اپنے بھای کا دیکھ کر لاشہ
-صرف آنسوں بہا رہے ہیں حسین
+اپنے بھائی کا دیکھ کر لاشہ
+صرف آنسو بہا رہے ہیں حسین
 
 ۳
 آنکھ بھی کھولتے نہیں اکبر
-کچھ بھی اب بولتے نہیں اکب
+کچھ بھی اب بولتے نہیں اکبر
 بس گلے سے لگا رہے ہیں حسین
 
 ۴
 موت کی نیند سو گیا بیٹا
 ہے خبر اب کبھی نہ اٹھے گا
-ہاے پھر بھی جگا رہے ہیں حسین
+ہائے پھر بھی جگا رہے ہیں حسین
 
 ۵
 بنی ہاشم کے بچوں آ جاؤ
-نوجواں کا جنازہ اٹھواو
+نوجواں کا جنازہ اٹھواؤ
 بیکسی میں بلا رہے ہیں حسین
 
 ۶

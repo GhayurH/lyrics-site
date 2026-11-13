@@ -6,41 +6,42 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Sachey Bhai"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Laashe akbar utha rahe hai hussain
+  Laash-e-Akbar utha rahe haiṅ Husain
 
   1
-  Dil ki raahon pe aansuon ke charagh
-  Kar lo roshan ke aa rahe hai hussain
+  Dil ki raahoṅ pe aansuoṅ ke charaagh
+  Kar lo roshan ke aa rahe haiṅ Husain
 
   2
-  Jis jagah rakh rahe hai peshani
-  Faqre kaaba bana rahe hai hussain
+  Jis jagah rakh rahe haiṅ peshaani
+  Fakhr-e-Kaaba bana rahe haiṅ Husain
 
   3
-  Ladkhadaye hai ambiya ke qadam
-  Jis jagah muskura rahe hai hussain
+  Larkharaaye haiṅ ambiya ke qadam
+  Jis jagah muskura rahe haiṅ Husain
 
   4
-  Do sada ho kahan ali akbar
-  Thokare ran mein kha rahe hai hussain
+  Do sada ho kahaaṅ Ali Akbar
+  Thokareṅ ran mein kha rahe haiṅ Husain
 
   5
-  Jao qaime mein jao ay zainab
-  Laash akbar ki laa rahe hai hussain
+  Jaao khaime mein jaao ae Zainab
+  Laash Akbar ki laa rahe haiṅ Husain
 
   6
-  Aah karte hai baith jaate hai
-  Kiska laasha utha rahe hai hussain
+  Aah karte haiṅ baith jaate haiṅ
+  Kis ka laasha utha rahe haiṅ Husain
 
   7
-  Chunke qasim ki laash ke tukde
-  Apne daaman mein laa rahe hai hussain
+  Chun ke Qasim ki laash ke tukre
+  Apne daaman mein laa rahe haiṅ Husain
 
-  Dil ki quwwat dikha rahe hai hussain
+  Dil ki quwwat dikha rahe haiṅ Husain
 # source_id: nohayonline:8e05f34459d6b59a4a76
 # source_url: https://www.nohayonline.com/details_content.php?id=521
 # raw_sha256: daf243b5ad7812ba9868f73a5d9381217f02097d0f72acaf718a4a1ba65540e4
@@ -60,7 +61,7 @@ romanLyrics: |-
 فخرِ کعبہ بنا رہے ہیں حُسین
 
 ۳
-لڑکھڑائے ہیں انبیائ کے قدم
+لڑکھڑائے ہیں انبیا کے قدم
 جس جگہ مُسکرا رہے ہیں حُسین
 
 ۴
@@ -68,7 +69,7 @@ romanLyrics: |-
 ٹھوکریں رَن میں کھا رہے ہیں حُسین
 
 ۵
-جائو خیمے میں جائو اے زینب
+جاؤ خیمے میں جاؤ اے زینب
 لاش اکبر کی لا رہے ہیں حُسین
 
 ۶
