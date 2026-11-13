@@ -6,53 +6,56 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Waiz Sultanpuri"
+reciter: "Ali Mohd. Sultanpuri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sinan ibne anas ko dekh kar kehti thi ye laila
-  Mere kadiyal jawan bete ne tera kya bigada tha
-  Kaleje pe ali akbar ke maara kis liye naiza
+  Sinan ibn-e-Anas ko dekh kar kehti thi ye Laila
+  Mere karyal jawaaṅ bete ne tera kya bigaara tha
+
+  Kaleje pe Ali Akbar ke maara kis liye naiza
+  Mere karyal jawaaṅ bete ne tera kya bigaara tha
 
   1
-  Duayein maanga karti thi mai jiske waaste har dam
-  Karoongi zindagi bhar ab usi farzand ka matam
+  Duaaeṅ maanga karti thi main jis ke waaste har dam
+  Karuṅgi zindagi bhar ab usi farzand ka maatam
   Tere naize ne meri zindagi mein likh diya rona
 
   2
-  Wo mere dil ki thandak tha meri aankhon ka taara tha
-  Ay zaalim kya pata tujhko wo mujhko kitna pyara tha
+  Wo mere dil ki thandak tha meri aankhoṅ ka taara tha
+  Ae zaalim kya pata tujh ko wo mujh ko kitna pyaara tha
   Qaraar aata tha mere dil ki chehra dekh kar uska
 
   3
-  Sina seene pe tu ne maar di itna bhi na socha
-  Ki maa jab umr kho deti hai tab palta hai ek beta
-  Meri sab mehnaton ko pal me hi pamaal kar daala
+  Sinaaṅ sine pe tu ne maar di itna bhi na socha
+  Ki maaṅ jab umr kho deti hai tab palta hai ek beta
+  Meri sab mehnatoṅ ko pal mein hi paamaal kar daala
 
   4
-  Rehega ghao ab ye hashr tak mere kaleje par
-  Bahot pyasa tha jab dunya se utha hai mera akbar
-  Usay pyasa hi tu ne maar daala rehm na khaaya
+  Rahega ghaao ab ye hashr tak mere kaleje par
+  Bahut pyaasa tha jab duniya se utha hai mera Akbar
+  Use pyaasa hi tu ne maar daala rahm na khaaya
 
   5
-  Mai apne laal ki baraat le kar jaane waali thi
-  Ali akbar ki dulhan ghar mein le kar aane waali thi
-  Na ban'ne paaya mera laal tere zulm se dulha
+  Main apne laal ki baraat le kar jaane waali thi
+  Ali Akbar ki dulhan ghar mein le kar aane waali thi
+  Na banne paaya mera laal tere zulm se dulha
 
   6
-  Bata deta agar che tujhko maal o zar ki laalach thi
-  Mai apne laal pe sab maal o zar qurban kar deti
-  Kaleja kaat daaal tu ne ay jallad maadar ka
+  Bata deta agarche tujh ko maal o zar ki laalach thi
+  Main apne laal pe sab maal o zar qurbaan kar deti
+  Kaleja kaat daal tu ne ae jallaad maadar ka
 
   7
   Sitam dhaaya hai tu ne mere dil ke chain pe zaalim
-  Liye naize pe sar hasta hai mere bain pe zaalim
-  Zara sa bhi tujhe na maa ki mamta ka khayal aaya
+  Liye naize pe sar hansta hai mere bain pe zaalim
+  Zara sa bhi tujhe na maaṅ ki mamta ka khayaal aaya
 
   8
-  Sina ki nok pe roye shahe mazloom ay waiz
-  Bohat royi tadap kar zainab o kulsoom ay waiz
-  Janabe umme laila ne padha jis waqt ye nauha
+  Sinaaṅ ki nok pe roye Shaah-e-mazlum ae Waiz
+  Bahut royi tarap kar Zainab o Kulsum ae Waiz
+  Janaab-e-Umm-e-Laila ne parha jis waqt ye nauha
 # source_id: nohayonline:ad760a63161597b9f66c
 # source_url: https://www.nohayonline.com/details_content.php?id=3082
 # raw_sha256: d905d84cd5814b17c793d4e32e88dd8a8bd7f1b097d2c45fb5898bfe84f016a9
@@ -60,21 +63,23 @@ romanLyrics: |-
 
 سنان ابن انس کو دیکھ کر کہتی تھی یہ لیلیٰ
 میرے کڑیل جواں بیٹے نے تیرا کیا بگاڑا تھا
+
 کلیجے پہ علی اکبر کے مارا کس لئے نیزہ
+میرے کڑیل جواں بیٹے نے تیرا کیا بگاڑا تھا
 
 ۱
-دعائیں مانگا کرتے تھی میں جس کے واسطے ہر دم
+دعائیں مانگا کرتی تھی میں جس کے واسطے ہر دم
 کروں گی زندگی بھر اب اسی فرزند کا ماتم
 تیرے نیزے نے میری زندگی میں لکھ دیا رونا
 
 ۲
 وہ میرے دل کی ٹھنڈک تھا میری آنکھوں کا تارہ تھا
-اے ظالم کیا پتہ تجھکو وہ مجھکو کتنا پیارا تھا
+اے ظالم کیا پتہ تجھ کو وہ مجھ کو کتنا پیارا تھا
 قرار آتا تھا میرے دل کی چہرہ دیکھ کر اس کا
 
 ۳
-سناں سینے پہ تو نے مار دی اتنا بھی نہ سوچو
-کی ماں جب عمر کھو دیتی ہے تب پلٹا ہے ایک بیٹا
+سناں سینے پہ تو نے مار دی اتنا بھی نہ سوچا
+کی ماں جب عمر کھو دیتی ہے تب پلتا ہے ایک بیٹا
 میری سب محنتوں کو پل میں ہی پامال کر ڈالا
 
 ۴
@@ -88,16 +93,16 @@ romanLyrics: |-
 نہ بننے پایا میرا لال تیرے ظلم سے دولہا
 
 ۶
-بتا دیتا اگر چہ تجھکو مال و زر کی لالچ تھی
+بتا دیتا اگرچہ تجھ کو مال و زر کی لالچ تھی
 میں اپنے لال پہ سب مال و زر قربان کر دیتی
-کیلجہ کاٹ ڈال تو نے اے جلاد مادر کا
+کلیجہ کاٹ ڈال تو نے اے جلاد مادر کا
 
 ۷
 ستم ڈھایا ہے تو نے میرے دل کے چین پہ ظالم
-لیےء نیزے پہ سر ہنستا ہے میرے بین پہ ظالم
-زرا سا بھی تجھے نہ ماں کی ممتا کا خیال آیا
+لیے نیزے پہ سر ہنستا ہے میرے بین پہ ظالم
+ذرا سا بھی تجھے نہ ماں کی ممتا کا خیال آیا
 
 ۸
-سناں کی نوک پہ روے شہ مظلوم اے وایض
-بہت روی تڑپ کر زینب و کلثوم اے وایض
-جناب ام لیلیٰ نے پڑھا جس وقت یہ نوحہ
+سناں کی نوک پہ روئے شہ مظلوم اے واعظ
+بہت روئی تڑپ کر زینب و کلثوم اے واعظ
+جنابِ امِ لیلیٰ نے پڑھا جس وقت یہ نوحہ

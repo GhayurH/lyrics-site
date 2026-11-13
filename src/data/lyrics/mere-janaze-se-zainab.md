@@ -6,80 +6,81 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ali ke ghar mein ye kaisi ali pe ghurbat thi
-  Hussain seene se lipte thay kya qayamat thi
+  Ali ke ghar mein ye kaisi Ali pe ghurbat thi
+  Husain sine se lipte the kya qayaamat thi
+  Ukharti saanseṅ thi haaye qarib rukhsat thi
+  Ali ke hontoṅ pe ye aakhri wasiyat thi
 
   1
-  Ukhadti saans thi haye khareeb rukhsat thi
-  Ali ke honton pe ye aakhri wasiyat thi
-  Mere janaze se zainab ko mat chudana hussain
-  Wo jab talak na kahe chehra mat chupana hussain
+  Mere janaaze se Zainab ko mat chhuraana Husain
+  Wo jab talak na kahe chehra mat chhupaana Husain
 
   2
-  Jo beti dekh nahi paayi mera sar zakhmi
+  Jo beti dekh nahiṅ paayi mera sar zakhmi
   Na jaane kaise mujhe wo kafan mein dekhegi
-  Wo seh na payegi dunya se mera jaana hussain
+  Wo sah na paayegi duniya se mera jaana Husain
 
   3
   Sambhalna meri mayyat pe mar na jaaye behen
-  Wo jaanti hai ke tum ko nahi milega kafan
-  Khayal rakhna kafan jab muhje udaana hussain
+  Wo jaanti hai ke tum ko nahiṅ milega kafan
+  Khayaal rakhna kafan jab mujhe urhaana Husain
 
   4
-  Tumhare chehra pe wo gham na dekh payegi
-  Yateem beti meri aur toot jayegi
-  Tum uske saamne aansu nahi bahana hussain
+  Tumhaare chehre pe wo gham na dekh paayegi
+  Yatim beti meri aur tut jaayegi
+  Tum us ke saamne aansu nahiṅ bahaana Husain
 
   5
-  Chali thi kis tarha talwaar ye bata dena
+  Chali thi kis tarah talwaar ye bata dena
   Jo mera haal tha masjid mein wo suna dena
-  Amaama khoon mein dooba nahi dikhana hussain
+  Amaama khun mein duba nahiṅ dikhaana Husain
 
   6
-  Khuda ka shukr adaa kar ke haye bole ali
-  Mere janaze ki raunaq hai betiyan meri
-  Khuda ko tohfa hai ghar betiyon ka aana hussain
+  Khuda ka shukr adaa kar ke haaye bole Ali
+  Mere janaaze ki raunaq haiṅ betiyaaṅ meri
+  Khuda ko tohfa hai ghar betiyoṅ ka aana Husain
 
   7
-  Kafan mein dekh ke saansein hi rukh na jaaye kahin
-  Jahan wo baithe suno tum bhi baith jaana wahin
-  Wo ghash mein aaye to shaano ko tum hilaana hussain
+  Kafan mein dekh ke saanseṅ hi ruk na jaaye kahiṅ
+  Jahaaṅ wo baithe suno tum bhi baith jaana wahaaṅ
+  Wo ghash mein aaye to shaanoṅ ko tum hilaana Husain
 
   8
-  Rakhoge haath ab unke saron pe tum jaa ke
-  Yateem kufa ke be-aasra na ho phir se
-  Tum apne haathon se khaana unhe khilana hussain
+  Rakhoge haath ab un ke saroṅ pe tum jaa ke
+  Yatim Kufa ke beaasra na ho phir se
+  Tum apne haathoṅ se khaana unheṅ khilaana Husain
 
   9
-  Sukoon milta hai jab paas hoti hai beti
-  Ye jaan jaaoge kyun khaas hoti hai beti
-  Sakina aaye to seene se tum lagana hussain
+  Sukun milta hai jab paas hoti hai beti
+  Ye jaan jaaoge kiuṅ khaas hoti hai beti
+  Sakina aaye to sine se tum lagaana Husain
 
   10
-  Pukare roke ay zeeshan aur raza ye ali
-  Uthaane dena janaza agar meri beti
-  Tum uske saamne abbas ko bulana hussain
+  Pukaare ro ke ae Zishaan aur Raza ye Ali
+  Uthaane dena janaaza agar meri beti
+  Tum us ke saamne Abbas ko bulaana Husain
 # source_id: nohayonline:8c5ccf0b5ea734c2f347
 # source_url: https://www.nohayonline.com/details_content.php?id=3382
 # raw_sha256: 2239a4dbeafc0324ae37deb26262234ae2a06f85eb4838efb26b4c840dc191ea
 ---
 علی کے گھر میں یہ کیسی علی پہ غربت تھی
 حسین سینے سے لپٹے تھے کیا قیامت تھی
+اکھڑتی سانسیں تھی ہائے قریب رخصت تھی
+علی کے ہونٹوں پہ یہ آخری وصیت تھی
 
 ۱
-اکھڑتی سانسیں تھی ہاے قریب رخصت تھی
-علی کے ہونٹوں پہ یہ آخری وصیت تھی
 میرے جنازے سے زینب کو مت چھڑانا حسین
 وہ جب تلک نہ کہے چہرہ مت چھپانا حسین
 
 ۲
-جو بیٹی دیکھ نہیں پای میرا سر زخمی
+جو بیٹی دیکھ نہیں پائی میرا سر زخمی
 نہ جانے کیسے مجھے وہ کفن میں دیکھے گی
-وہ سہہ نہ پائے گی دنیا سے میرا جانا حسین
+وہ سہ نہ پائے گی دنیا سے میرا جانا حسین
 
 ۳
 سنبھالنا میری میت پہ مر نہ جائے بہن
@@ -87,9 +88,9 @@ romanLyrics: |-
 خیال رکھنا کفن جب مجھے اڑھانا حسین
 
 ۴
-تمہارے چہرے پہ وہ غم نہ دیکھ پاے گی
+تمہارے چہرے پہ وہ غم نہ دیکھ پائے گی
 یتیم بیٹی میری اور ٹوٹ جائے گی
-تم اس کے سامنے آنسوں نہیں بہانا حسین
+تم اس کے سامنے آنسو نہیں بہانا حسین
 
 ۵
 چلی تھی کس طرح تلوار یہ بتا دینا
@@ -97,14 +98,14 @@ romanLyrics: |-
 عمامہ خون میں ڈوبا نہیں دکھانا حسین
 
 ۶
-خدا کا شکر ادا کر کے ہاے بولے علی
+خدا کا شکر ادا کر کے ہائے بولے علی
 میرے جنازے کی رونق ہیں بیٹیاں میری
 خدا کو تحفہ ہے گھر بیٹیوں کا آنا حسین
 
 ۷
 کفن میں دیکھ کے سانسیں ہی رک نہ جائے کہیں
 جہاں وہ بیٹھے سنو تم بھی بیٹھ جانا وہاں
-وہ غش میں آے تو آے تو شانوں کو تم ہلانا حسین
+وہ غش میں آئے تو شانوں کو تم ہلانا حسین
 
 ۸
 رکھو گے ہاتھ اب ان کے سروں پہ تم جا کے
@@ -112,11 +113,11 @@ romanLyrics: |-
 تم اپنے ہاتھوں سے کھانا انہیں کھلانا حسین
 
 ۹
-سکون‌ ملتا ہے جب پاس ہوتی ہے بیٹی
-یہ جان‌ جاؤ گے کیوں خاص ہوتی ہے بیٹی
-سکینہ آے تو سینے سے تم لگانا حسین
+سکون ملتا ہے جب پاس ہوتی ہے بیٹی
+یہ جان جاؤ گے کیوں خاص ہوتی ہے بیٹی
+سکینہ آئے تو سینے سے تم لگانا حسین
 
 ۱۰
-پکارے رو کے اے زیشان اور رضا یہ علی
+پکارے رو کے اے ذیشان اور رضا یہ علی
 اٹھانے دینا جنازہ اگر میری بیٹی
 تم اس کے سامنے عباس کو بلانا حسین
