@@ -6,43 +6,44 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Meri sakina soja
-  Aaja asghar ki jagah meri sakina soja
-  Jaagti maa ne kaha meri sakina soja
+  Meri Sakina so ja
+  Aa ja Asghar ki jagah meri Sakina so ja
+  Jaagti maaṅ ne kaha meri Sakina so ja
 
   1
-  Jo tujhe khauf hai shayad mai usay kam kar doo
-  Aaja aankhon pe tere naade ali dam kar doo
-  Door kyun baiti hai aa meri sakina soja
+  Jo tujhe khauf hai shaayad main use kam kar duṅ
+  Aa ja aankhoṅ pe tere Naad-e-Ali dam kar duṅ
+  Dur kiuṅ baithi hai aa meri Sakina so ja
 
   2
-  Baap ke seene pe aadat hai tujhe sone ki
-  Meri godhi tere qaabil to nahi hai phir bhi
-  Hai mere dil ki sada meri sakina soja
+  Baap ke sine pe aadat hai tujhe sone ki
+  Meri godi tere qaabil to nahiṅ hai phir bhi
+  Hai mere dil ki sada meri Sakina so ja
 
   3
-  Chaar barson mein na zehmat di kabhi tune mujhe
-  Apni khidmat ka mujhe aaj to mauka de de
-  Hoga ehsaan tera meri sakina soja
+  Chaar barsoṅ mein na zahmat di kabhi tu ne mujhe
+  Apni khidmat ka mujhe aaj to mauqa de de
+  Hoga ehsaan tera meri Sakina so ja
 
   4
-  Qaid khane mein jo aa jayenge tere baba
-  Khud utha dungi tujhe shaana hila kar tera
-  Acha kuch dayr zara meri sakina soja
+  Qaid khaane mein jo aa jaayeṅge tere Baba
+  Khud utha duṅ gi tujhe shaana hila kar tera
+  Achchha kuch der zara meri Sakina so ja
 
   5
-  Mujhse dekha nahi jaata ye tera darde jigar
-  Ye batate hue acha to nahi lagta magar
-  Ab na aayenge chacha meri sakina soja
+  Mujh se dekha nahiṅ jaata ye tera dard-e-jigar
+  Ye bataate hue achchha to nahiṅ lagta magar
+  Ab na aayeṅge Chacha meri Sakina so ja
 
   6
-  Saabiron ka ye kareena to nahi hai bibi
-  Ye hai pardes madina to nai hai bibi
-  Karke bas shukre khuda meri sakina soja
+  Saabiroṅ ka ye qarina to nahiṅ hai Bibi
+  Ye hai pardes Madina to nahiṅ hai Bibi
+  Kar ke bas shukr-e-Khuda meri Sakina so ja
 # source_id: nohayonline:2190057ba9e75ec9bf04
 # source_url: https://www.nohayonline.com/details_content.php?id=842
 # raw_sha256: 7966b04a924bea1a24e9868a70fe4d4834f6790ad8c53bcdbe3d4781eab0a5da
@@ -52,8 +53,8 @@ romanLyrics: |-
 جاگتی ماں نے کہا میری سکینہ سو جا
 
 ۱
-جو تجھے خوف ہے شاید میں اسے کم کردوں
-آجا آنکھوں پہ تیرے ناد علی دم کردوں
+جو تجھے خوف ہے شاید میں اسے کم کر دوں
+آجا آنکھوں پہ تیرے نادِ علی دم کر دوں
 دور کیوں بیٹھی ہے آ میری سکینہ سوجا
 
 ۲
@@ -62,21 +63,21 @@ romanLyrics: |-
 ہے میرے دل کی صدا میری سکینہ سوجا
 
 ۳
-چار برسوں میں نہ زحمت دی کبھی تونے مجھے
-اپنی خدمات کا مجھے آج تو موقع دے دے
+چار برسوں میں نہ زحمت دی کبھی تو نے مجھے
+اپنی خدمت کا مجھے آج تو موقع دے دے
 ہوگا احسان تیرا میری سکینہ سوجا
 
 ۴
-قید خانے میں جو آ جائے نگے تیرا بابا
-قد اٹھا دونگی تجھے شانہ ہلا کر تیرا
-اچھا کچھ دیر زرا میری سکینہ سو جا
+قید خانے میں جو آ جائیں گے تیرے بابا
+خود اٹھا دوں گی تجھے شانہ ہلا کر تیرا
+اچھا کچھ دیر ذرا میری سکینہ سو جا
 
 ۵
-مجھ سے دیکھا نہیں جاتا یہ تیرا درد جگر
+مجھ سے دیکھا نہیں جاتا یہ تیرا دردِ جگر
 یہ بتاتے ہوئے اچھا تو نہیں لگتا مگر
-اب نہ آئے نگے چچا میری سکینہ سوجا
+اب نہ آئیں گے چچا میری سکینہ سوجا
 
 ۶
-صابروں کا یہ قرینہ تو نہیں ہے بی بی
-یہ ہے پردیس مدینہ تو نہیں ہے بی بی
-کرکے بس شکر خدا میری سکینہ سوجا
+صابروں کا یہ قرینہ تو نہیں ہے بی‌بی
+یہ ہے پردیس مدینہ تو نہیں ہے بی‌بی
+کر کے بس شکرِ خدا میری سکینہ سوجا

@@ -6,69 +6,70 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Anwar"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Meri maa tum mera gham na karna
-  Bezuban ne ye jhoole se awaaz di
-  Apne asghar ka lo ab salaam aakhri
+  Meri maaṅ tum mera gham na karna
+  Be zubaaṅ ne ye jhule se aawaaz di
+  Apne Asghar ka lo ab salaam aakhri
 
   1
-  Ran mein jis waqt hal min ki goonji sada
-  Muztarib hogaya sheh ka mahelaqa
-  Qaima e shaah mein shor e girya utha
-  Apni maa se isharon mein kehne laga
-  Mere baba ko hai ab zaroorat meri
-  Unki haathon pe hogi shahadat meri
+  Ran mein jis waqt hal min ki gunji sada
+  Muztarib ho gaya Shah ka mah laqa
+  Khaima-e-Shaah mein shor-e-girya utha
+  Apni maaṅ se ishaaroṅ mein kehne laga
+  Mere Baba ko hai ab zarurat meri
+  Un ki haathoṅ pe hogi shahaadat meri
 
   2
-  Farz ansaar apna adaa kar chuke
-  Taygh khaa kar gire suye kausar gaye
-  Ek abid hai bus wo hai ghash mein pade
-  Kaun baba ki jaa kar madad ab kare
-  Ran ko jaana hai ab zimmedari meri
+  Farz Ansaar apna adaa kar chuke
+  Tegh khaa kar gire su-e-Kausar gaye
+  Ek Aabid hai bas wo hai ghash mein pare
+  Kaun Baba ki jaa kar madad ab kare
+  Ran ko jaana hai ab zimmedaari meri
   Aa gayi jaan dene ki baari meri
 
   3
-  Laashe qasim ke maidan mein tukde huwe
-  Maa ki aankhon se lekin na aansu bahe
-  Jaan dene phupi ke dulaare gaye
-  Shukr ke waaste maa ne sajde kiye
-  Mai hoon asghar magar azm akbar ka hai
-  Meri rag rag mein bhi khoon hyder ka hai
+  Laash-e-Qaasim ke maidaaṅ mein tukre hue
+  Maaṅ ki aankhoṅ se lekin na aansu bahe
+  Jaan dene phuphi ke dulaare gaye
+  Shukr ke waaste maaṅ ne sajde kiye
+  Main huṅ Asghar magar azm Akbar ka hai
+  Meri rag rag mein bhi khuṅ Haidar ka hai
 
   4
-  Bolna tak abhi mujhko aaya nahi
-  Nanhe haathon se kuch bhi uthaya nahi
-  Teer o shamsheer maine chalaya nahi
-  Jang karna kisi ne sikhaya nahi
-  Mere haathon mein naiza na talwaar hai
-  Bas ye sookhi zuban mera hathyaar hai
+  Bolna tak abhi mujh ko aaya nahiṅ
+  Nanhe haathoṅ se kuch bhi uthaaya nahiṅ
+  Tir o shamshir main ne chalaaya nahiṅ
+  Jang karna kisi ne sikhaaya nahiṅ
+  Mere haathoṅ mein neza na talwaar hai
+  Bas ye sukhi zubaaṅ mera hathyaar hai
 
   5
-  Jitna dil chaahe ro mere baba pe ro
-  Naujawani e akbar ka nauha padho
-  Jiske shaane kate uska matam karo
+  Jitna dil chaahe ro mere Baba pe ro
+  Naujawaani-e-Akbar ka noha parho
+  Jis ke shaane kate us ka maatam karo
   Mera kya hai suno meri maadar suno
-  Cheh mahine ka hoon kuch bhi dekha nahi
-  Soch lena mai dunya mein aaya nahi
+  Chhe mahine ka huṅ kuch bhi dekha nahiṅ
+  Soch lena main duniya mein aaya nahiṅ
 
   6
-  Meri khwahar sakina ko batlaiye
-  Ab na aayenge ammu ye samjhaiye
-  Raat aaye to seene se liptaiye
-  Mera gham chodiye usko behlaiye
-  Koi zidd hi karunga na rounga mai
-  Ab se baba ke seene pe sounga mai
+  Meri khwaahar Sakina ko batlaaiye
+  Ab na aayeṅge ammu ye samjhaaiye
+  Raat aaye to sine se liptaaiye
+  Mera gham chhoriye us ko behlaaiye
+  Koi zid hi karuṅ ga na rouṅ ga main
+  Ab se Baba ke sine pe souṅ ga main
 
   7
-  Dekhi maadar ne anwar jo laashe pisar
-  Gham se dil phat gaya gir padi khaak par
-  Ro ke kehne lagi peet kar apna sar
-  Ay mere laal ay mere noore nazar
-  Dekh kar tera gehwara jee loongi mai
-  Keh gaye ho to ab ashk pee loongi mai
+  Dekhi maadar ne Anwar jo laash-e-pisar
+  Gham se dil phat gaya gir pari khaak par
+  Ro ke kehne lagi pit kar apna sar
+  Ae mere laal ae mere nur-e-nazar
+  Dekh kar tera gehwaara ji luṅ gi main
+  Keh gaye ho to ab ashk pi luṅ gi main
 # source_id: nohayonline:6269e05a27cdfd529a4b
 # source_url: https://www.nohayonline.com/details_content.php?id=3171
 # raw_sha256: 74b24d05af1c568129395e73105b5a55481715eaea7ed030836a2e5fd36338df
@@ -78,31 +79,31 @@ romanLyrics: |-
 اپنے اصغر کا لو اب سلام آخری
 
 ۱
-رن میں جس وقت ھل من کی گونجی صدا
+رن میں جس وقت ہل من کی گونجی صدا
 مضطرب ہو گیا شہ کا مہ لقا
-خیمہء شاہ میں شور گریہ اٹھا
+خیمۂ شاہ میں شورِ گریہ اٹھا
 اپنی ماں سے اشاروں میں کہنے لگا
 میرے بابا کو ہے اب ضرورت میری
 ان کی ہاتھوں پہ ہوگی شہادت میری
 
 ۲
-فرض انصار اپنا اعدا کر چکے
-تیغ کھا کر گرے سوے کوثر گےء
+فرض انصار اپنا ادا کر چکے
+تیغ کھا کر گرے سوئے کوثر گئے
 ایک عابد ہے بس وہ ہے غش میں پڑے
 کون بابا کی جا کر مدد اب کرے
-رن کو جانا ہے اب زمہ داری میری
-آ گیء جان دینے کی باری میری
+رن کو جانا ہے اب ذمہ داری میری
+آ گئی جان دینے کی باری میری
 
 ۳
-لاش قاسم کے میداں میں ٹکڑے ہوے
-ماں کی آنکھوں سے لیکن نہ آنسوں بہے
-جان دینے پھپھی کے دلارے گےء
-شکر کے واسطے ماں نے سجدے کےء
-میں ہوں اصغر مگر ازم اکبر کا ہے
+لاش قاسم کے میداں میں ٹکڑے ہوئے
+ماں کی آنکھوں سے لیکن نہ آنسو بہے
+جان دینے پھپھی کے دلارے گئے
+شکر کے واسطے ماں نے سجدے کیے
+میں ہوں اصغر مگر عزم اکبر کا ہے
 میری رگ رگ میں بھی خوں حیدر کا ہے
 
 ۴
-بولنا تک ابھی مجھکو آیا نہیں
+بولنا تک ابھی مجھ کو آیا نہیں
 ننھے ہاتھوں سے کچھ بھی اٹھایا نہیں
 تیر و شمشیر میں نے چلایا نہیں
 جنگ کرنا کسی نے سکھایا نہیں
@@ -111,24 +112,24 @@ romanLyrics: |-
 
 ۵
 جتنا دل چاہے رو میرے بابا پہ رو
-نوجوانیء اکبر کا نوحہ پڑھو
+نوجوانیٔ اکبر کا نوحہ پڑھو
 جس کے شانے کٹے اس کا ماتم کرو
 میرا کیا ہے سنو میری مادر سنو
 چھ مہینے کا ہوں کچھ بھی دیکھا نہیں
 سوچ لینا میں دنیا میں آیا نہیں
 
 ۶
-میری خواہر سکینہ کو بتلایےء
-اب نہ آیینگے عمو یہ سمجھاییےء
-رات آے تو سینے سے لپٹایےء
-میرا غم چھوڑیےء اس کو بہلایےء
+میری خواہر سکینہ کو بتلائیے
+اب نہ آئیں گے عمو یہ سمجھائیے
+رات آئے تو سینے سے لپٹائیے
+میرا غم چھوڑیے اس کو بہلائیے
 کوئی ضد ہی کروں گا نہ روؤں گا میں
 اب سے بابا کے سینے پہ سوؤں گا میں
 
 ۷
-دیکھی مادر نے انور جو لاشے پسر
+دیکھی مادر نے انور جو لاشِ پسر
 غم سے دل پھٹ گیا گر پڑی خاک پر
-روکے کہنے لگی پیٹ کر اپنا سر
+رو کے کہنے لگی پیٹ کر اپنا سر
 اے میرے لال اے میرے نورِ نظر
-دیکھ کر تیرا گہوارہ جی لونگی میں
-کہہ گےء ہو تو اب اشک پی لونگی میں
+دیکھ کر تیرا گہوارہ جی لوں گی میں
+کہہ گئے ہو تو اب اشک پی لوں گی میں

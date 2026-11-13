@@ -10,48 +10,54 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aakhri Salaam
-  Meri Sakina Is Tarha Na Rona
-  Na Meri Bachi Na Is Tarha Na Rona
-  Tum Jao Kahan Allah Jaane
-  Maqtal Mein Rahe Kis Haal Mein Hum
-  Ab Khwab Mein Baba Aayenge
-  Chahe Shaam Ka Wo Zindan Howe
+  Aakhri salaam
+  Meri Sakina is tarha na rona
+  Na meri bachchi na is tarha na rona
+
+  Tum jaao kahaaṅ Allah jaane
+  Maqtal mein rahe kis haal mein hum
+  Ab khwaab mein Baba aayeṅge
+  Chaahe Shaam ka wo zindaaṅ howe
 
   1
-  Hum Jaate Hain Milne Baba Se
-  Ab Laut Ke Hum Ko Aana Nahi
-  Kuch Der Lipat Ja Seene Se
-  Phir Baap Ka Seena Milna Nahi
-  So Jana Jahan Phupiyan Keh Dein
+  Hum jaate haiṅ milne Baba se
+  Ab laut ke hum ko aana nahiṅ
+  Kuch der lipat ja sine se
+  Phir baap ka sina milna nahiṅ
+  So jaana jahaaṅ phuphiyaaṅ keh deṅ
+  Chaahe Shaam ka wo zindaaṅ howe
 
   2
-  Jaane De Mujhe Maidan Ki Taraf
-  Dena Ye Tujhe Qurbani Hai
-  Rehwaar Ke Mere Paaon Na Pad
-  Meri Bachi Tu Sayyadani Hai
-  Jeena Hai Tujhe Zehra Ki Tarha
+  Jaane de mujhe maidaaṅ ki taraf
+  Dena ye tujhe qurbaani hai
+  Rahwaar ke mere paaoṅ na par
+  Meri bachchi tu Sayyadani hai
+  Jina hai tujhe Zehra ki tarha
+  Chaahe Shaam ka wo zindaaṅ howe
 
   3
-  Aa Ponch Le Aansu Aankhon Se
-  Tu Dekh Le Chehra Baba Ka
-  Kal Ho Sakta Hai Aa Na Sake
-  Pehchan Mein Chehra Baba Ka
-  Hum Saath Tera Na Chodenge
+  Aa poṅchh le aansu aankhoṅ se
+  Tu dekh le chehra Baba ka
+  Kal ho sakta hai aa na sake
+  Pehchaan mein chehra Baba ka
+  Hum saath tera na chhoreṅge
+  Chaahe Shaam ka wo zindaaṅ howe
 
   4
-  Abbas Ka Dil Akbar Ki Behan
-  Jis Waqt Bandhe Gardan Mein Rasan
-  Tum Baba Baba Mat Kehna
-  Tadpega Mera Be Gor Badan
-  Asghar Ki Tarha Se Chup Rehna
+  Abbas ka dil Akbar ki behan
+  Jis waqt bandhe gardan mein rasan
+  Tum Baba Baba mat kehna
+  Tarpega mera be gor badan
+  Asghar ki tarha se chup rehna
+  Chaahe Shaam ka wo zindaaṅ howe
 
   5
-  Dekha Hai Rehaan O Sarwar Ne
-  Khud Shaam Mein Ja Kar Ye Manzar
-  Sailaab Hai Pursadaron Ka
-  Masroof E Buka Ta Hadd E Nazar
-  Saara Hai Ilaaqa Bibi Ka
+  Dekha hai Rehaan o Sarwar ne
+  Khud Shaam mein jaa kar ye manzar
+  Sailaab hai pursa daaroṅ ka
+  Masruf-e-buka taa hadd-e-nazar
+  Hai saara ilaqa Bibi ka
+  Chaahe Shaam ka wo zindaaṅ howe
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:1afe0a30c76d97af2af5
 # source_url: https://www.nohayonline.com/details_content.php?id=1742
@@ -64,31 +70,35 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 آخری سلام
 میری سکینہ اس طرح نہ رونا
 نہ میری بچی نہ اس طرح نہ رونا
+
 تم جاؤ کہاں اللّٰہ جانے
 مقتل میں رہے کس حال میں ہم
-اب خواب میں بابا آییں گے
-چاہے شام کا وہ زنداں ہوے
+اب خواب میں بابا آئیں گے
+چاہے شام کا وہ زنداں ہووے
 
 ۱
 ہم جاتے ہیں ملنے بابا سے
 اب لوٹ کے ہم کو آنا نہیں
 کچھ دیر لپٹ جا سینے سے
 پھر باپ کا سینہ ملنا نہیں
-سو جانا جہاں پھوپھیاں کہہ دے
+سو جانا جہاں پھوپھیاں کہہ دیں
+چاہے شام کا وہ زنداں ہووے
 
 ۲
 جانے دے مجھے میداں کی طرف
 دینا یہ تجھے قربانی ہے
-رہوار کے میرے پاؤں نہ پڑھ
+رہوار کے میرے پاؤں نہ پڑ
 میری بچی تو سیدانی ہے
 جینا ہے تجھے زہرا کی طرح
+چاہے شام کا وہ زنداں ہووے
 
 ۳
-آ پونچھ لے آنسوں آنکھوں سے
+آ پونچھ لے آنسو آنکھوں سے
 تو دیکھ لے چہرہ بابا کا
 کل ہو سکتا ہے آ نہ سکے
 پہچان میں چہرہ بابا کا
 ہم ساتھ تیرا نہ چھوڑیں گے
+چاہے شام کا وہ زنداں ہووے
 
 ۴
 عباس کا دل اکبر کی بہن
@@ -96,10 +106,12 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 تم بابا بابا مت کہنا
 تڑپے گا میرا بے گور بدن
 اصغر کی طرح سے چپ رہنا
+چاہے شام کا وہ زنداں ہووے
 
 ۵
 دیکھا ہے ریحان و سرور نے
 خود شام میں جا کر یہ منظر
 سیلاب ہے پرسہ داروں کا
-مصروف بکا تا حد نظر
-ہے سارا علاقہ بی بی کا
+مصروفِ بکا تا حدِ نظر
+ہے سارا علاقہ بی‌بی کا
+چاہے شام کا وہ زنداں ہووے
