@@ -1,75 +1,78 @@
 ---
-title: "مسلم کے پسر ہاے کوفے میں بھٹکتے ہیں"
+title: "مسلم کے پسر ہائے کوفے میں بھٹکتے ہیں"
 alternateTitle: "Muslim Ka Tha Ye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Majid Raza Abidi"
+reciter: "Mukhtar Husain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Muslim ke pisar haye kufe may bhatakte hai
-  Kufe may tahe khanjar muslim ka ye nauha
-  Bachon ko mere unki maadar se mila dena
+  Muslim ke pisar haaye Kufe meiṅ bhatakte haiṅ
+
+  Kufe meiṅ tah-e-khanjar Muslim ka ye nauha
+  Bachoṅ ko mere un ki maadar se mila dena
 
   1
-  Tum log to sab mil kar kal eid manaoge
-  Bachon ko bhi tum apne seene se lagaoge
+  Tum log to sab mil kar kal Eid manaao ge
+  Bachoṅ ko bhi tum apne sine se lagaao ge
   Mil jaaye mere bete to un pe taras khaana
 
   2
-  Mazloom hoo khud mai bhi mazloom hai wo dono
-  Kamsin bhi hai wo dono masoom hai wo dono
-  Un ko to madine ka maloom nahi rasta
+  Mazlum huṅ khud maiṅ bhi mazlum hai wo donoṅ
+  Kamsin bhi haiṅ wo donoṅ maasum hai wo donoṅ
+  Un ko to Madine ka maalum nahiṅ rasta
 
   3
-  Jallaad chalata hai khanjar meri gardan par
-  Phekega bulandi se wo mera tan e laaghar
-  Tum log ghaseetoge galiyon may mera laasha
+  Jallaad chalaata hai khanjar meri gardan par
+  Pheṅke ga bulandi se wo mera tan-e-laaghar
+  Tum log ghasito ge galiyoṅ meiṅ mera laasha
 
   4
-  Latkega mera laasha darwaza e kufa par
-  Mere tan e besar par barsayenge sab pathar
-  Kya guzri hai baba par bachon ko na batlana
+  Latke ga mera laasha darwaaza-e-Kufa par
+  Mere tan-e-besar par barsaayeṅ ge sab patthar
+  Kya guzri hai baaba par bachoṅ ko na batlaana
 
   5
-  Jis waqt sar e kufa sadaat e haram pahunche
-  Awaaz ye aati thi us laasha e besar se
-  Mai muslim e tanha hoo lo mere salaam aaqa
+  Jis waqt sar-e-Kufa saadaat-e-haram pahuṅche
+  Aawaaz ye aati thi us laasha-e-besar se
+  Maiṅ Muslim-e-tanha huṅ lo mere salaam Aaqa
 
   6
-  Tab zauja e muslim ne laashe se kaha ro kar
+  Tab zauja-e-Muslim ne laashe se kaha ro kar
   Jo aap pe guzri hai zaahir hai wo sab mujh par
-  Phat'ta hai jigar mera jab sunti hoo ye nauha
+  Phatta hai jigar mera jab sunti huṅ ye nauha
 
   7
-  Ummat ne udhar lekin bachon pe sitam dhaaya
-  Haa saamne bhai ke bhai ka gala kaata
-  Masoom ki gardan ka khoon rayt pe girta tha
+  Ummat ne udhar lekin bachoṅ pe sitam dhaaya
+  Haaṅ saamne bhai ke bhai ka gala kaata
+  Maasum ki gardan ka khuṅ ret pe girta tha
 
   8
-  Muslim ka tan e besar khayncha gaya kufe may
-  Yan bhaiyon ke laashe phaynke gaye darya may
-  Mohtaj e kafan bache mohtaj e kafan baba
+  Muslim ka tan-e-besar kheṅcha gaya Kufe meiṅ
+  Yaaṅ bhaaiyoṅ ke laashe pheṅke gaye darya meiṅ
+  Mohtaaj-e-kafan bache mohtaaj-e-kafan baaba
 
   9
-  Wo masjid e kufa ho ya shehr musayyab ka
-  Baba hai udhar tanha bache hai idhar tanha
-  Mukhtar aur ay majid ye goonjta hai nauha
+  Wo masjid-e-Kufa ho ya shahr Musayyab ka
+  Baaba hai udhar tanha bache haiṅ idhar tanha
+  Mukhtar aur ae Majid ye guṅjta hai nauha
 # source_id: nohayonline:5bd60a05f8684936afff
 # source_url: https://www.nohayonline.com/details_content.php?id=1714
 # raw_sha256: 73ce4c91c45ca895c560679f153e2f951e722d74b4fe3e7ee8796972f5440692
 ---
-مسلم کے پسر ہاے کوفے میں بھٹکتے ہیں
-کوفے میں تہہ خنجر مسلم کا یہ نوحہ
-بچوں کو میرے انکی مادر سے ملا دینا
+مسلم کے پسر ہائے کوفے میں بھٹکتے ہیں
+
+کوفے میں تہِ خنجر مسلم کا یہ نوحہ
+بچوں کو میرے ان کی مادر سے ملا دینا
 
 ۱
 تم لوگ تو سب مل کر کل عید مناؤ گے
 بچوں کو بھی تم اپنے سینے سے لگاؤ گے
-مل جاے میرے بیٹے تو ان پہ ترس کھانا
+مل جائے میرے بیٹے تو ان پہ ترس کھانا
 
 ۲
 مظلوم ہوں خود میں بھی مظلوم ہے وہ دونوں
@@ -78,35 +81,35 @@ romanLyrics: |-
 
 ۳
 جلاد چلاتا ہے خنجر میری گردن پر
-پھینکے گا بلندی سے وہ میرا تن لاغر
-تم لوگ گھسیٹوگے گلیوں میں میرا لاشہ
+پھینکے گا بلندی سے وہ میرا تنِ لاغر
+تم لوگ گھسیٹو گے گلیوں میں میرا لاشہ
 
 ۴
-لٹکے گا میرا لاشہ دروازہء کوفہ پر
-میرے تن بے سر پر برساےنگے سب پتھر
+لٹکے گا میرا لاشہ دروازۂ کوفہ پر
+میرے تنِ بے سر پر برسائیں گے سب پتھر
 کیا گزری ہے بابا پر بچوں کو نہ بتلانا
 
 ۵
-جس وقت سر کوفہ سادات حرم پہنچے
-آواز یہ آتی تھی اس لاشہء بے سر سے
+جس وقت سرِ کوفہ ساداتِ حرم پہنچے
+آواز یہ آتی تھی اس لاشۂ بے سر سے
 میں مسلم تنہا ہوں لو میرے سلام آقا
 
 ۶
-تب زوجہء مسلم نے لاشہ سے کہا روکر
+تب زوجۂ مسلم نے لاشہ سے کہا رو کر
 جو آپ پہ گزری ہے ظاہر ہے وہ سب مجھ پر
 پھٹتا ہے جگر میرا جب سنتی ہوں یہ نوحہ
 
 ۷
 امت نے ادھر لیکن بچوں پہ ستم ڈھایا
-ہاں سامنے بھای کے بھای کا گلا کاٹا
+ہاں سامنے بھائی کے بھائی کا گلا کاٹا
 معصوم کی گردن کا خوں ریت پہ گرتا تھا
 
 ۸
-مسلم کا تن بے سر کھینچا گیا کوفے میں
-یاں بھاییوں کے لاشے پھینکے گےء دریا میں
-محتاج کفن بچے محتاج کفن بچے
+مسلم کا تنِ بے سر کھینچا گیا کوفے میں
+یاں بھائیوں کے لاشے پھینکے گئے دریا میں
+محتاجِ کفن بچے محتاجِ کفن بچے
 
 ۹
-وہ مسجد کوفہ ہو یا شہر مصیب کا
+وہ مسجدِ کوفہ ہو یا شہر مصیب کا
 بابا ہے ادھر تنہا بچے ہیں ادھر تنہا
 مختار اور اے ماجد یہ گونجتا ہے نوحہ

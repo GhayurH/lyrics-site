@@ -6,40 +6,41 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
+reciter: "Sajjad & Meesum Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Muslim ke dono bete jahan se guzar gaye
-  Do shaahzade aalam e ghurbat mein mar gaye
+  Muslim ke donoṅ bete jahaaṅ se guzar gaye
+  Do shaahzaade aalam-e-ghurbat meiṅ mar gaye
 
   1
-  Baahein galay mein bhai ne bhai ki daal di
-  Yun apni jaanein shaah pe qurban kar gaye
+  Baaṅheiṅ gale meiṅ bhai ne bhai ki daal di
+  Yuṅ apni jaaneiṅ Shaah pe qurbaan kar gaye
 
   2
-  Pardes mein yateemon ki ghurbat ka tha ye haal
-  Dunya se dono tashna dahan khoon mein tar gaye
+  Pardes meiṅ yatimoṅ ki ghurbat ka tha ye haal
+  Duniya se donoṅ tashna dahan khuṅ meiṅ tar gaye
 
   3
-  Zaalim bhi phoot phoot ke rote thay dekh kar
-  Darbar mein jo chand se bachon ke sar gaye
+  Zaalim bhi phut phut ke rote the dekh kar
+  Darbaar meiṅ jo chaand se bachoṅ ke sar gaye
 
   4
-  Junhi suna ke kufe mein bache huwe shaheed
-  Khanjar se dil mein ghamzada maa ke utar gaye
+  Juṅhi suna ke Kufe meiṅ bache hue shahid
+  Khanjar se dil meiṅ ghamzada maaṅ ke utar gaye
 
   5
-  Sar peet ke ye kehti thi ek beqaraar maa
-  Dhoondun kahan unhe mere bache kidhar gaye
+  Sar pit ke ye kehti thi ik beqaraar maaṅ
+  Dhuṅduṅ kahaaṅ unheiṅ mere bache kidhar gaye
 
   6
-  Nikle thay deen bachane bachaya khuda ka deen
-  Muslim ke laal laut ke wapas na ghar gaye
+  Nikle the din bachaane bachaaya Khuda ka din
+  Muslim ke laal laut ke waapas na ghar gaye
 
   7
-  Gohar wo apne noor ki khairaat baksh kar
-  Islam ka wujood ujaalon se bhar gaye
+  Gohar wo apne nur ki khairaat bakhsh kar
+  Islam ka wujud ujaaloṅ se bhar gaye
 # source_id: nohayonline:c7b959982c655d759049
 # source_url: https://www.nohayonline.com/details_content.php?id=1145
 # raw_sha256: 1ed58f2405a60b63ce926739ebfc24847260e84aca5883d6e0ca04471bd5cf7a

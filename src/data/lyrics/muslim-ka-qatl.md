@@ -6,52 +6,53 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Jawad Haqir"
+reciter: "Kumail Husain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Muslim ka qatl hona aaghaaz e karbala hai
-  Syed ka khoon bahana aaghaaz e karbala hai
+  Muslim ka qatl hona aaghaaz-e-Karbala hai
+  Sayyid ka khuṅ bahaana aaghaaz-e-Karbala hai
 
   1
-  Jo tha safeer e sarwar usko shaheed karna
-  Phir baandh kar rasan mein har raah se guzarna
-  Laashe ko yun phirana aaghaaz e karbala hai
+  Jo tha safir-e-Sarwar us ko shahid karna
+  Phir baandh kar rasan meiṅ har raah se guzarna
+  Laashe ko yuṅ phiraana aaghaaz-e-Karbala hai
 
   2
-  Khat bhej kar hazaron shabbir ko bulaana
-  Muslim se waada sheh ki nusrat ka aake karna
-  Waade ko bhool jaana aaghaaz e karbala hai
+  Khat bhej kar hazaaroṅ Shabbir ko bulaana
+  Muslim se waada Shah ki nusrat ka aa ke karna
+  Waade ko bhul jaana aaghaaz-e-Karbala hai
 
   3
-  Saf baandh kar namazi sab fajr padh rahe thay
-  Maghrib ke waqt muslim tanha khade huwe thay
-  Aale nabi se dhoka aaghaaz e karbala hai
+  Saf baandh kar namaazi sab fajr parh rahe the
+  Maghrib ke waqt Muslim tanha khare hue the
+  Aal-e-Nabi se dhoka aaghaaz-e-Karbala hai
 
   4
-  Tanhaiyan udaasi pardes tang raahein
-  Bache bhi kho chuke hai jo saath wo thay laaye
-  Has has ke khoon rulaana aaghaaz e karbala hai
+  Tanhaaiyaaṅ udaasi pardes tang raaheiṅ
+  Bache bhi kho chuke haiṅ jo saath wo the laaye
+  Haṅs haṅs ke khuṅ rulaana aaghaaz-e-Karbala hai
 
   5
-  Ek raat jab ke tehre wo aake ghar mein jaa kar
-  Dayra bana ke ladne tab aa gaye sitamgar
-  Wo aake ghar pe hamla aaghaaz e karbala hai
+  Ik raat jab ke thehre wo aa ke ghar meiṅ jaa kar
+  Daaira banaa ke larne tab aa gaye sitamgar
+  Wo aa ke ghar pe hamla aaghaaz-e-Karbala hai
 
   6
-  Dhoka diya gaday mein muslim ko hai giraya
-  Sar kaat ke badan ko galiyon mein hai phiraya
-  Pamaal laash karna aaghaaz e karbala hai
+  Dhoka diya gare meiṅ Muslim ko hai giraaya
+  Sar kaat ke badan ko galiyoṅ meiṅ hai phiraaya
+  Paamaal laash karna aaghaaz-e-Karbala hai
 
   7
-  Dewaar khoon se tar thi sab raahein khoon se tar thi
-  Pardes mein yun muslim ki laash dar badar thi
-  Dushman hai saara kufa aaghaaz e karbala hai
+  Diwaar khuṅ se tar thi sab raaheiṅ khuṅ se tar thi
+  Pardes meiṅ yuṅ Muslim ki laash dar badar thi
+  Dushman hai saara Kufa aaghaaz-e-Karbala hai
 
   8
-  Maara gaya kumail kufe mein ye bhi pyasa
-  Shabbir ko haqeer pyasa shaheed karna
-  Ek jaisa zulm dhaana aaghaaz e karbala hai
+  Maara gaya Kumail Kufe meiṅ ye bhi pyaasa
+  Shabbir ko Haqir pyaasa shahid karna
+  Ik jaisa zulm dhaana aaghaaz-e-Karbala hai
 # source_id: nohayonline:5b5983464fc24586efa3
 # source_url: https://www.nohayonline.com/details_content.php?id=1401
 # raw_sha256: 47894ab767d25c0ba2393f4e52cd828bb9b591b1403931b643b60cbdcebe7724
@@ -60,7 +61,7 @@ romanLyrics: |-
 سید کا خوں بہانا آغازِ کربلا ہے
 
 ۱
-جو تھا سفیر سرور اسکو شہید کرنا
+جو تھا سفیرِ سرور اس کو شہید کرنا
 پھر باندھ کر رسن میں ہر راہ سے گزرنا
 لاشے کو یوں پھرانا آغازِ کربلا ہے
 
@@ -71,18 +72,18 @@ romanLyrics: |-
 
 ۳
 صف باندھ کر نمازی سب فجر پڑھ رہے تھے
-مغرب کا وقت مسلم تنہا کھڑے ہوے تھے
-آل نبی سے دھوکہ آغازِ کربلا ہے
+مغرب کا وقت مسلم تنہا کھڑے ہوئے تھے
+آلِ نبی سے دھوکہ آغازِ کربلا ہے
 
 ۴
 تنہائیاں اداسی پردیس تنگ راہیں
-بچے بھی کھو چکے ہیں جو ساتھ وہ تھے لاے
+بچے بھی کھو چکے ہیں جو ساتھ وہ تھے لائے
 ہنس ہنس کے خوں رلانا آغازِ کربلا ہے
 
 ۵
-اک رات جب کے ٹہرے وہ آ کے گھر میں جا کر
-ڈیرا بنا کے لڑنے تب آگےء ستمگر
-وہ آکے گھر پہ حملہ آغازِ کربلا ہے
+اک رات جب کے ٹھہرے وہ آ کے گھر میں جا کر
+ڈیرا بنا کے لڑنے تب آ گئے ستمگر
+وہ آ کے گھر پہ حملہ آغازِ کربلا ہے
 
 ۶
 دھوکہ دیا گڑے میں مسلم کو ہے گرایا
