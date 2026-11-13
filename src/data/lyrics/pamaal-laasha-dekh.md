@@ -1,49 +1,50 @@
 ---
 title: "پامال لاشہ دیکھ کے کہتی ہیں بیبیاں"
-alternateTitle: "Pamaal Laasha Dekh"
+alternateTitle: "Paamaal Laasha Dekh"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Mir Hasan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Pamaal laasha dekh ke kehti hai bibiyan
-  Zahra ki tarha tooti hai qasim ki phasliyan
+  Paamaal laasha dekh ke kehti haiṅ Bibiyaaṅ
+  Zahra ki tarah tuti haiṅ Qasim ki pasliyaaṅ
 
   1
-  Tukde pukaare dasht may labbaik ya hussain
-  Aa kar kaha jo maula ne qasim ho tum kahan
+  Tukre pukaare dasht mein labbaik ya Husain
+  Aa kar kaha jo Maula ne Qasim ho tum kahaaṅ
 
   2
-  Pamaal jeete ji jo hua hai usay salaam
-  Ro kar lahoo ye kehte hai khud saahib-az-zamaan
+  Paamaal jite ji jo hua hai use salaam
+  Ro kar lahu ye kehte haiṅ khud Saahib-az-Zamaaṅ
 
   3
-  Aajao mere bhai talak bolay ye hassan
-  Qasim na lo hussain ki ghurbat ka imtehan
+  Aa jaao mere bhaai talak bole ye Hasan
+  Qasim na lo Husain ki ghurbat ka imtihaaṅ
 
   4
-  Ye keh ke kuch nishano ko sheh choomne lage
-  Abbas dekho ragdi hai qasim ne aediyan
+  Ye keh ke kuchh nishaanoṅ ko Shah chumne lage
+  Abbas dekho ragri haiṅ Qasim ne eriyaaṅ
 
   5
-  Tukde uthane laash ke sarwar ke saath saath
-  Zahra gayi hai dasht may jaane kahan kahan
+  Tukre uthaane laash ke Sarwar ke saath saath
+  Zahra gayiṅ haiṅ dasht mein jaane kahaaṅ kahaaṅ
 
   6
-  Pamaal ho na laash chacha ki ye soch kar
-  Lipta hua sumon se hai farwa ka naujawan
+  Paamaal ho na laash chacha ki ye soch kar
+  Lipta hua sumoṅ se hai Farwa ka naujawaaṅ
 
   7
-  Maadar karegi kis tarha dedaar aakhri
-  Haye sumon ke chand se chehre pe hai nishan
+  Maadar karegi kis tarah didaar aakhri
+  Haae sumoṅ ke chaand se chehre pe haiṅ nishaaṅ
 
   8
-  Lagta hai mujh ko mir takallum qayam se
-  Ab bhi sunayi deti hai farwa ki hichkiyan
+  Lagta hai mujh ko Mir Takallum khiyaam se
+  Ab bhi sunaai deti haiṅ Farwa ki hichkiyaaṅ
 # source_id: nohayonline:c6b490c43a0d6eff88d4
 # source_url: https://www.nohayonline.com/details_content.php?id=326
 # raw_sha256: 2cfac5adb1a22582b074397ac78aeba9d89fc678ddac1ef021757ed05d84f704
@@ -64,15 +65,15 @@ romanLyrics: |-
 قاسم نہ لو حسین کی غربت کا امتحاں
 
 ۴
-یہ کہ کے کچھ نشانوں کو شہ چومنے لگنے
-عباس دیکھو رگڑی ہیں قاسم نے ایڑہیاں
+یہ کہہ کے کچھ نشانوں کو شہ چومنے لگے
+عباس دیکھو رگڑی ہیں قاسم نے ایڑیاں
 
 ۵
 ٹکڑے اُٹھانے لاش کے سرور کے ساتھ ساتھ
 زہرا گئیں ہیں دشت میں جانے کہاں کہاں
 
 ۶
-پامال ہونہ لاش چچا کی یہ سوچ کر
+پامال ہو نہ لاش چچا کی یہ سوچ کر
 لپٹا ہوا سموں سے ہے فروہ کا نوجواں
 
 ۷

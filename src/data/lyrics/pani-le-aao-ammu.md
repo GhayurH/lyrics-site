@@ -1,116 +1,137 @@
 ---
-title: "جان سکینہ کی جب آی لبوں پر"
-alternateTitle: "Pani Le Aao Ammu"
+title: "جان سکینہ کی جب آئی لبوں پر"
+alternateTitle: "Paani Le Aao Ammu"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Irfan Haider"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jaan sakina ki jab aayi labon par
-  Sookha hua mashkeeza laayi wo muztar
-  Dekha badi yaas se bachi ne chacha ko
-  Daste adab jod ke kehne lagi rokar
-  Ye lo mashk o alam tumko meri qasam
-  Aao dila doo mai izn e shahe umam
-  Rakh lo sakina ka ye maan
-  Pani le aao ammu jaan
-  
+  Jaan Sakina ki jab aai laboṅ par
+  Sukha hua mashkiza laai wo muztar
+  Dekha bari yaas se bachchi ne chacha ko
+  Dast-e-adab jor ke kehne lagi ro kar
+
+  Ye lo mashk o alam tum ko meri qasam
+  Aao dila duṅ main izn-e-Shaah-e-Umam
+  Rakh lo Sakina ka ye maan
+  Paani le aao ammu jaan
+
   1
   Hasrat hai yaas hai kis darja pyaas hai
-  Kya meri pyaas ka tumko ehsaas hai
-  Aayi labon pe ab ye jaan
-  
+  Kya meri pyaas ka tum ko ehsaas hai
+  Aai laboṅ pe ab ye jaan
+  Paani le aao ammu jaan
+
   2
-  Bache tashna jigar baithe hai nauhagar
-  Pyaas ke chaale hai in sab ke honton par
-  Pyason ke tum ho nigehbaan
-  
+  Bachche tashna jigar baithe haiṅ nauhagar
+  Pyaas ke chhaale haiṅ in sab ke hontoṅ par
+  Pyaasoṅ ke tum ho nigehbaan
+  Paani le aao ammu jaan
+
   3
-  Al-atash ki sada sunti hai alqama
-  Sunte hai mashkeeze nauha sakina ka
-  Gar tumko pyason ka hai dhyan
-  
+  Al-atash ki sada sunti hai Alqama
+  Sunte haiṅ mashkize nauha Sakina ka
+  Gar tum ko pyaasoṅ ka hai dhyaan
+  Paani le aao ammu jaan
+
   4
-  Naazishe karbala tum ho faqre wafa
-  Pyason ki aas ho phupiyon ki ho rida
-  Lilaah sher e nayastan
-  
+  Naazish-e-Karbala tum ho fakhr-e-wafa
+  Pyaasoṅ ki aas ho phuphiyoṅ ki ho rida
+  Lillaah Sher-e-Nayastaaṅ
+  Paani le aao ammu jaan
+
   5
-  Jao haafiz khuda misle khyber kusha
-  Darya ko cheen kar bhar lena mashkeeza
-  Baazu e sayyede zeeshan
-  
+  Jaao haafiz Khuda misl-e-Khaibar Kusha
+  Darya ko chhin kar bhar lena mashkiza
+  Baazu-e-Sayyid-e-Zishaan
+  Paani le aao ammu jaan
+
   6
   Waada nibhana hai darya pe jaana hai
-  Pani bhi laana hai tumko bhi aana hai
-  Tum mujhpe mai tumpe qurban
-  
+  Paani bhi laana hai tum ko bhi aana hai
+  Tum mujh pe main tum pe qurbaan
+  Paani le aao ammu jaan
+
+  Sakina meri pyaari Sakina
+  Sakina meri pyaari Sakina
+
   7
-  Sakina meri pyari sakina
-  Sakina meri pyari sakina
-  Sunkar bhatiji ki baat sher e jari
-  Bola qurban hai tum par ye jaan meri
+  Sun kar bhatiji ki baat Sher-e-Jari
+  Bola qurbaan hai tum par ye jaaṅ meri
   Tum jo kehti ho meri jaan
-  
+  Paani le aao ammu jaan
+
   8
-  Maange mazhar dua rab-e-mushkil kusha
-  Roz e mehshar kahe tujhse khairunnisa
-  Nauha suna wohi irfan
+  Maange Mazhar dua Rab-e-Mushkil Kusha
+  Roz-e-mahshar kahe tujh se Khairunnisa
+  Nauha suna wohi Irfan
+  Paani le aao ammu jaan
 # source_id: nohayonline:d48c2532803a546c9fa6
 # source_url: https://www.nohayonline.com/details_content.php?id=969
 # raw_sha256: d9a7b4295234d8d907fad8ff296d96623dd761b9d45be7356a20b2ccb19c1d1a
 ---
-جان سکینہ کی جب آی لبوں پر
-سوکھا ہوا مشکیزہ لای وہ مضطر
+جان سکینہ کی جب آئی لبوں پر
+سوکھا ہوا مشکیزہ لائی وہ مضطر
 دیکھا بڑی یاس سے بچی نے چچا کو
-دست ادب جوڑ کے کہنے لگی روکر
-یہ لو مشک و الم تمکو میری قسم
-آؤ دلادوں میں اذن شاہ امم
+دستِ ادب جوڑ کے کہنے لگی رو کر
+
+یہ لو مشک و علم تم کو میری قسم
+آؤ دلا دوں میں اذنِ شاہِ امم
 رکھ لو سکینہ کا یہ مان
-پانی لے او عمو جان
+پانی لے آؤ عمو جان
 
 ۱
 حسرت ہے یاس ہے کس درجہ پیاس ہے
 کیا میری پیاس کا تم کو احساس ہے
-آی لبوں پہ اب یہ جان
+آئی لبوں پہ اب یہ جان
+پانی لے آؤ عمو جان
 
 ۲
 بچے تشنہ جگر بیٹھے ہیں نوحہ گر
 پیاس کے چھالے ہیں ان سب کے ہونٹوں پر
 پیاسوں کے تم ہو نگہبان
+پانی لے آؤ عمو جان
 
 ۳
 العطش کی صدا سنتی ہے علقمہ
 سنتے ہیں مشکیزے نوحہ سکینہ کا
 گر تم کو پیاسوں کا ہے دھیان
+پانی لے آؤ عمو جان
 
 ۴
-نازش کربلا تم ہو فخر وفا
-پیاسوں کی اس ہو پھپھیوں کی ہو ردا
-لللہ شیر نا یستان
+نازشِ کربلا تم ہو فخرِ وفا
+پیاسوں کی آس ہو پھپھیوں کی ہو ردا
+للہ شیرِ نیستاں
+پانی لے آؤ عمو جان
 
 ۵
-جاؤ حافظ خدا مثل خیبر کشا
+جاؤ حافظ خدا مثلِ خیبر کشا
 دریا کو چھین کر بھر لینا مشکیزہ
-بازوے سیدے ذیشان
+بازوئے سیدِ ذیشان
+پانی لے آؤ عمو جان
 
 ۶
 وعدہ نبھانا ہے دریا پہ جانا ہے
 پانی بھی لانا ہے تم کو بھی آنا ہے
 تم مجھ پہ میں تم پہ قربان
+پانی لے آؤ عمو جان
+
+سکینہ میری پیاری سکینہ
+سکینہ میری پیاری سکینہ
 
 ۷
-سکینہ میری پیاری سکینہ
-سکینہ میری پیاری سکینہ
-سن کر بھتیجی کی بات شیر جری
+سن کر بھتیجی کی بات شیرِ جری
 بولا قربان ہے تم پر یہ جاں میری
 تم جو کہتی ہو میری جان
+پانی لے آؤ عمو جان
 
 ۸
-مانگے مظہر دعا رب مشکل کشا
-روز محشر کہے تجھ سے خیرالنسا
+مانگے مظہر دعا ربِ مشکل کشا
+روزِ محشر کہے تجھ سے خیرالنسا
 نوحہ سنا وہی عرفان
+پانی لے آؤ عمو جان

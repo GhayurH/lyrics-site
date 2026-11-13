@@ -2914,11 +2914,11 @@ src/data/lyrics/paikaan-baras-rahe.md,standalone_lyrics,imported,nohayonline,pen
 src/data/lyrics/pakeezgi-e-nafs-ka-unwaan-hai-fatima.md,standalone_lyrics,imported,tajpoints,merged,partial_review,partial_review,reviewed,not_applicable,reviewed,2026-11-09-tajpoints-continuations,this_commit,"Need poster/audio: s7 invocation transcribed ""صل علیٰ"" from ""Sal-e-Alla""; confirm exact wording and pronunciation."
 src/data/lyrics/palaan-ki-hay-baat-ye-mimbar-ki-baat-hay.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
 src/data/lyrics/pamaal-hoke-hazrate.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s7 ""ریسماں"" (archived Roman ""reesma"") spelling/pronunciation."
-src/data/lyrics/pamaal-laasha-dekh.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/pani-ka-band-karna.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/pani-le-aao-ammu.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/pani-masooma-ne-manga-tu-tamachay-khaye-lyrics-2018.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/pani-nahi-chahiye.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/pamaal-laasha-dekh.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s3 ""آجاؤ میرے بھائی تلک بولے یہ حسن""; s7 ""سموں کے چاند سے چہرے"". Confirm these source readings."
+src/data/lyrics/pani-ka-band-karna.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,first_sweep,,"Need audio/print: opening ""رواں"" vs ""روا""; s2 Roman ""mere"" before tamaache and ""bhi"" before khenchta are absent from archived Urdu. Confirm exact verses."
+src/data/lyrics/pani-le-aao-ammu.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,first_sweep,,
+src/data/lyrics/pani-masooma-ne-manga-tu-tamachay-khaye.md,standalone_lyrics,imported,tajpoints,pending,reviewed,reviewed,reviewed,not_applicable,reviewed,first_sweep,,
+src/data/lyrics/pani-nahi-chahiye.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,first_sweep,,"Need audio/print: s1 Urdu ""میرا کرلوں یقین"" vs Roman ""mera kar lo yaqin""; Urdu ""مجھے راس نہ آئی نہ یہ سر زمین"" vs Roman ""Mujhe raas aai na ye sar zamin"". Confirm both verses."
 src/data/lyrics/pani-pilao.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/paon-mein-chaale.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/par-baddua-na-ki.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
