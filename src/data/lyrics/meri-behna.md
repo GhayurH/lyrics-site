@@ -6,67 +6,69 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hote hi reha farshe aza mera bichana
+  Hote hi reha farsh-e-aza mera bichhaana
   Meri behna meri behna
-  Bhai ka jo paigham hai dunya ko sunana
-  
+  Bhai ka jo paighaam hai dunya ko sunaana
+  Meri behna meri behna
+
   1
-  Mai hoo meri tanhai hai aur dashte bala hai
-  Maine abhi asghar ka lahoo rukh pe mala hai
-  Marne ke liye jaata hoo aur khushk gala hai
-  Zainab miljaye jo pani to meri nazr dilaana
-  
+  Main huṅ meri tanhaai hai aur dasht-e-bala hai
+  Main ne abhi Asghar ka lahu rukh pe mala hai
+  Marne ke liye jaata huṅ aur khushk gala hai
+  Zainab mil jaaye jo paani to meri nazr dilaana
+
   2
   Sab mere asaase mein abhi aag lagegi
-  Baysheer ke jhoole mein abhi aag lagegi
-  Sajjad ke qaime mein abhi aag lagegi
-  Zainab bemaar ko jalte huwe sholo se bachana
-  
+  Beshir ke jhule mein abhi aag lagegi
+  Sajjad ke khaime mein abhi aag lagegi
+  Zainab bimaar ko jalte hue sholoṅ se bachaana
+
   3
-  Ab chain sakina bhi meri paa na sakegi
-  Ghairat se koi zakhm bhi dikhlana sakegi
-  Maqtal ki zameen par usay neendh aa na sakegi
-  Zainab tum usko kahani mere marne ki sunana
-  
+  Ab chain Sakina bhi meri paa na sakegi
+  Ghairat se koi zakhm bhi dikhla na sakegi
+  Maqtal ki zamiṅ par use nind aa na sakegi
+  Zainab tum us ko kahaani mere marne ki sunaana
+
   4
-  Jab shaam ke bazaar mein jaaogi khule sar
-  Barsayega aansu sar e abbas e dilawar
-  Koi bhi nahi hoga jo dede tumhein chadar
-  Zainab is khaakh bhare chehre ko balon se chipana
-  
+  Jab Shaam ke baazaar mein jaaogi khule sar
+  Barsaayega aansu sar-e-Abbas-e-dilaawar
+  Koi bhi nahiṅ hoga jo de de tumheiṅ chaadar
+  Zainab is khaak bhare chehre ko baaloṅ se chhupaana
+
   5
-  Aayegi bahot narghaye kuffaar mein ghairat
-  Khamoshi se seh lena magar saari musibat
-  Gar royi to aajayegi dunya mein qayamat
-  Zainab dil thaam ke apna bhare darbar mein jaana
-  
+  Aayegi bahut nargha-e-kuffaar mein ghairat
+  Khaamoshi se seh lena magar saari musibat
+  Gar royi to aa jaayegi dunya mein qayaamat
+  Zainab dil thaam ke apna bhare darbaar mein jaana
+
   6
-  Yaad aayega zindan mein sakina ko madina
-  Hojayega dushwaar usay qaid mein jeena
+  Yaad aayega zindaaṅ mein Sakina ko Madina
+  Ho jaayega dushwaar use qaid mein jina
   Jab aane lage maut ka maathe pe pasina
-  Zainab tab meri tarha tum use seene se lagana
-  
+  Zainab tab meri tarah tum use sine se lagaana
+
   7
-  Yasrab ke taraf jaana agar qaid se chutkar
-  Nana ko dikhana hai mere qatl ka manzar
-  Rakh dena mera khoon bhara ammama lehad par
-  Zainab aur poochna kya waada wafa hogaya nana
-  
+  Yasrab ke taraf jaana agar qaid se chhut kar
+  Naana ko dikhaana hai mere qatl ka manzar
+  Rakh dena mera khuṅ bhara amaama lahad par
+  Zainab aur puchhna kya waada wafa ho gaya naana
+
   8
-  Amma se ye kehna ke ho jab waqt e shafa'at
-  Aaye jo sava naize pe khursheed e qayamat
-  Abbas ke shaano ko banaade wo zamanat
-  Zainab hojaye azadaron ki bakshish ka bahana
-  
+  Amma se ye kehna ke ho jab waqt-e-shafaat
+  Aaye jo sawa neze pe khurshid-e-qayaamat
+  Abbas ke shaanoṅ ko bana de wo zamaanat
+  Zainab ho jaaye azaadaaroṅ ki bakhshish ka bahaana
+
   9
-  Ek ujde huwe ghar ke azadaar hai dono
-  Sajjad se bemaar ke bemaar hai dono
-  Haan teri dua'on ke talabgaar hai dono
-  Zainab mushkil se sada nayyar o aamir ko bachana
+  Ik ujre hue ghar ke azaadaar hai donoṅ
+  Sajjad se bimaar ke bimaar haiṅ donoṅ
+  Haaṅ teri duaaoṅ ke talabgaar haiṅ donoṅ
+  Zainab mushkil se sada Nayyar o Aamir ko bachaana
 # source_id: nohayonline:3bef180e24f0afca8c53
 # source_url: https://www.nohayonline.com/details_content.php?id=1284
 # raw_sha256: d98d3b37040f496175fe4c477643c1b03fb0568ed61aea56d712105503b9cf27
@@ -74,41 +76,42 @@ romanLyrics: |-
 
 ہوتے ہی رہا فرش عزا میرا بچھانا
 میری بہنا میری بہنا
-بھای کا جو پیغام ہے دنیا کو سنانا
+بھائی کا جو پیغام ہے دنیا کو سنانا
+میری بہنا میری بہنا
 
 ۱
 میں ہوں میری تنہائی ہے اور دشت بلا ہے
 میں نے ابھی اصغر کا لہو رخ پہ ملا ہے
 مرنے کے لئے جاتا ہوں اور خشک گلا ہے
-زینب مل جاے جو پانی تو میری نظر دلانا
+زینب مل جائے جو پانی تو میری نذر دلانا
 
 ۲
 سب میرے اثاثے میں ابھی آگ لگے گی
 بے شیر کے جھولے میں ابھی آگ لگے گی
 سجاد کے خیمے میں ابھی آگ لگے گی
-زینب بیمار کو جلتے ہوے شعلوں سے بچانا
+زینب بیمار کو جلتے ہوئے شعلوں سے بچانا
 
 ۳
 اب چین سکینہ بھی میری پا نہ سکے گی
-غیرت سے کوئی زخم بھی دکھلانا سکے گی
+غیرت سے کوئی زخم بھی دکھلا نہ سکے گی
 مقتل کی زمیں پر اسے نیند آ نہ سکے گی
 زینب تم اس کو کہانی میرے مرنے کی سنانا
 
 ۴
 جب شام کے بازار میں جاؤ گی کھلے سر
-برساے گا آنسوں سر عباس دلاور
-کوئی بھی نہیں ہوگا جو دیدے تمہیں چادر
+برسائے گا آنسو سر عباس دلاور
+کوئی بھی نہیں ہوگا جو دے دے تمہیں چادر
 زینب اس خاک بھرے چہرے کو بالوں سے چھپانا
 
 ۵
-آے گی بہت نرغہء کفار میں غیرت
+آئے گی بہت نرغۂ کفار میں غیرت
 خاموشی سے سہہ لینا مگر ساری مصیبت
-گر روی تو آجاے گی دنیا میں قیامت
+گر روئی تو آ جائے گی دنیا میں قیامت
 زینب دل تھام کے اپنا بھرے دربار میں جانا
 
 ۶
-یاد آے گا زنداں میں سکینہ کو مدینہ
-ہوجائے گا دشوار اسے قید میں جینا
+یاد آئے گا زنداں میں سکینہ کو مدینہ
+ہو جائے گا دشوار اسے قید میں جینا
 جب آنے لگے موت کا ماتھے پہ پسینہ
 زینب تب میری طرح تم اسے سینے سے لگانا
 
@@ -116,16 +119,16 @@ romanLyrics: |-
 یثرب کے طرف جانا اگر قید سے چھٹ کر
 نانا کو دکھانا ہے میرے قتل کا منظر
 رکھ دینا میرا خوں بھرا عمامہ لحد پر
-زینب اور پوچھنا کیا وعدہ وفا ہوگیا نانا
+زینب اور پوچھنا کیا وعدہ وفا ہو گیا نانا
 
 ۸
 اماں سے یہ کہنا کہ ہو جب وقت شفاعت
-آے جو سوا نیزے پہ خرشید قیامت
-عباس کے شانوں کو بنادے وہ ضمانت
-زینب ہوجاے عزاداروں کی بخشش کا بہانا
+آئے جو سوا نیزے پہ خرشید قیامت
+عباس کے شانوں کو بنا دے وہ ضمانت
+زینب ہو جائے عزاداروں کی بخشش کا بہانہ
 
 ۹
-اک اجڑے ہوے گھر کے عزادار ہے دونوں
+اک اجڑے ہوئے گھر کے عزادار ہے دونوں
 سجاد سے بیمار کے بیمار ہیں دونوں
 ہاں تیری دعاؤں کے طلبگار ہیں دونوں
 زینب مشکل سے سدا نیر و عامر کو بچانا

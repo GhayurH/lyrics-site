@@ -6,65 +6,66 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zainab meri bachi ka rakhna khayal
-  
+  Zainab meri bachi ka rakhna khayaal
+
   1
-  Ye sakina jo hai mere dil ka sukoon
-  Baad mere bahayegi aankhon se khoon
-  Khaak par soyegi is khadar royegi
-  Mil na payegi ab hum se mar kar kabhi
-  
+  Ye Sakina jo hai mere dil ka sukuṅ
+  Baad mere bahaayegi aankhoṅ se khuṅ
+  Khaak par soyegi is qadar royegi
+  Mil na paayegi ab hum se mar kar kabhi
+
   2
   Kamsini bekasi aur ye tashnagi
-  Aur us par aziyat tamachon ki bhi
-  Seh na payegi ye gham uthayegi ye
+  Aur us par aziyat tamaachoṅ ki bhi
+  Seh na paayegi ye gham uthaayegi ye
   Hum se maqtal mein milne ko aayegi ye
-  
+
   3
-  Khoon tapkega kano se bhi is qadar
-  Hoga daaman meri shahzadi ka tar
+  Khun tapkega kaanoṅ se bhi is qadar
+  Hoga daaman meri shahzaadi ka tar
   Zakhm dil mein liye ashk kab tak piye
-  Ay behan ay behan tum khuda ke liye
-  
+  Ae behan ae behan tum Khuda ke liye
+
   4
-  Apne pehlu mein shab ko sulana isay
-  Khud na jaage to tum na jagana isay
-  Hai meri ilteja mai to marne chala
-  Badhne dena na rassi mein iska gala
-  
+  Apne pehlu mein shab ko sulaana ise
+  Khud na jaage to tum na jagaana ise
+  Hai meri ilteja main to marne chala
+  Baandhne dena na rassi mein is ka gala
+
   5
-  Baad e abbas pani ye maaange agar
-  Apne seene se liptake tum iska sar
-  Ay behan nauhagar karke aanchal ko tar
-  Rakhna pyasi sakina ke ruqsar par
-  
+  Baad-e-Abbas paani ye maange agar
+  Apne sine se lipta ke tum is ka sar
+  Ae behan nauhagar kar ke aanchal ko tar
+  Rakhna pyaasi Sakina ke rukhsaar par
+
   6
-  Pa barehna safar ki ye aadi nahi
-  Shaam ki raah mein hogi jalti zameen
-  Jab ye paidal chale paon jalne lagay
-  Apni godhi mein lekar lagana galay
-  
+  Pa barehna safar ki ye aadi nahiṅ
+  Shaam ki raah mein hogi jalti zamiṅ
+  Jab ye paidal chale paaoṅ jalne lageṅ
+  Apni godi mein le kar lagaana gale
+
   7
-  Shimr nazdeek na aaye iske kabhi
-  Us se darti bahot hai meri laadli
-  Wo hai itna shaki kam hai haiwan bhi
-  Zulm dhaye na wo dekho is par kabhi
-  
+  Shimr nazdik na aaye is ke kabhi
+  Us se darti bahut hai meri laadli
+  Wo hai itna shaqi kam hai haiwaan bhi
+  Zulm dhaaye na wo dekho is par kabhi
+
   8
-  Isko maange kaneezi mein koi agar
-  Taygh khutbo ki darbar mein khaynch kar
-  Hona seena sitam ghaiz ki ho nazar
-  Girna kehre khuda banke darbar par
-  
+  Is ko maange kanizi mein koi agar
+  Tegh khutboṅ ki darbaar mein kheṅch kar
+  Hona sina sitam ghaiz ki ho nazar
+  Girna qahr-e-Khuda ban ke darbaar par
+
   9
-  Gham se rehaan hota hai tukde jigar
-  Ay raza guzri kya hogi abbas par
-  Haye zindan mein gham ke toofan mein
-  Aayi hogi sada sheh ki jab kaan mein
+  Gham se Rehaan hota hai tukre jigar
+  Ae Raza guzri kya hogi Abbas par
+  Haaye zindaan mein gham ke tufaan mein
+  Aayi hogi sada Shah ki jab kaan mein
 # source_id: nohayonline:21920dc554f2ca102700
 # source_url: https://www.nohayonline.com/details_content.php?id=545
 # raw_sha256: 8f6a6e0e5b3d09fdf718c1d44c0713e4d3185a14e0e74c8dd3b74786023e0855
@@ -74,14 +75,14 @@ romanLyrics: |-
 
 ۱
 یہ سکینہ جو ہے میرے دل کا سکوں
-بعد میرے بہائےگی آنکھوں سے خوں
-خاک پرسوئے گی اس قدر روئے گی
+بعد میرے بہائے گی آنکھوں سے خوں
+خاک پر سوئے گی اس قدر روئے گی
 مل نہ پائے گی اب ہم سے مر کر کبھی
 
 ۲
 کمسنی بے کسی اور یہ تشنگی
 اور اُس پر اذیت تماچوں کی بھی
-سہہ نہ پائے گی یہ غم اُٹھا ئے گی یہ
+سہہ نہ پائے گی یہ غم اُٹھائے گی یہ
 ہم سے مقتل میں ملنے کو آئے گی یہ
 
 ۳
@@ -105,7 +106,7 @@ romanLyrics: |-
 ۶
 پا برہنہ سفر کی یہ عادی نہیں
 شام کی راہ میں ہو گی جلتی زمیں
-جب یہ پیدل چلے پائوں جلنے لگیں
+جب یہ پیدل چلے پاؤں جلنے لگیں
 اپنی گودی میں لے کر لگانا گلے
 
 ۷
