@@ -1,88 +1,89 @@
 ---
 title: "میرے نانا کا کلمہ پڑھتے ہو"
-alternateTitle: "Na Cheeno Chadar"
+alternateTitle: "Na Chhino Chaadar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Irfan Haider"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Mere nana ka kalma padte ho
-  Insaf karo ay shaam walon
-  Meri maa zahra baba hai ali
-  Wavaila haye wavaila
-  
-  Ay logon mera nana hai nabi
-  Main zainab hoo kuch sharm karo
-  Na cheeno chadar meri
-  Main zainab hoon kuch sharm karo
-  
+  Mere naana ka kalma parhte ho
+  Insaaf karo ae Shaam waloṅ
+  Meri maaṅ Zahra baaba hai Ali
+  Wavaila haaye wavaila
+
+  Ae logoṅ mera naana hai Nabi
+  Main Zainab huṅ kuchh sharm karo
+  Na chhino chaadar meri
+  Main Zainab huṅ kuchh sharm karo
+
   1
-  Mai yasrab ki shehzadi hoo
-  Hai bhai mere sardar e jina
-  Mai sharm o haya ki makhdooma
-  Hai iski gawahi kaun o makan
-  Hai mere labon par gham ki azan
-  Chadar jo chini mar jaungi
-  
+  Main Yasrab ki shehzaadi huṅ
+  Hai bhaai mere sardaar-e-jinaaṅ
+  Main sharm o haya ki makhduma
+  Hai is ki gawaahi kaun o makaaṅ
+  Hai mere laboṅ par gham ki azaaṅ
+  Chaadar jo chhini mar jaauṅgi
+
   2
-  Bhai pe mere kyun baaghi ke
-  Ilzaam lagaye hai tumne
-  Sadaat ki aamad se pehle
-  Bazaar sajaye hai tumne
-  Gham mere badhaye hai tumne
-  Dil thaam ke mai ye kehti rahi
-  
+  Bhaai pe mere kiuṅ baaghi ke
+  Ilzaam lagaaye haiṅ tum ne
+  Saadaat ki aamad se pehle
+  Baazaar sajaaye haiṅ tum ne
+  Gham mere barhaaye haiṅ tum ne
+  Dil thaam ke main ye kehti rahi
+
   3
-  Is tarha mohamad ke dil ko
-  Tum logon ne pamaal kiya
-  Sadqe ki khajuron se tumne
-  Sadaat ka isteqbaal kiya
-  Sadmon ne mera ye haal kiya
-  Tasbeeh hi meri ye baat bani
-  
+  Is tarah Muhammad ke dil ko
+  Tum logoṅ ne paamaal kiya
+  Sadqe ki khajuroṅ se tum ne
+  Saadaat ka istiqbaal kiya
+  Sadmoṅ ne mera ye haal kiya
+  Tasbih hi meri ye baat bani
+
   4
-  Galiyon mein charaghan hota hai
-  Aur aal e payambar roti hai
-  Naize pe baradar rota hai
-  Aur aal e payambar roti hai
-  Is baat pe khwahar roti hai
-  Tum haste rahe mai roti rahi
-  
+  Galiyoṅ mein charaaghaaṅ hota hai
+  Aur Aal-e-Payambar roti hai
+  Naize pe baraadar rota hai
+  Aur Aal-e-Payambar roti hai
+  Is baat pe khwaahar roti hai
+  Tum haṅste rahe main roti rahi
+
   5
-  Baalon ki safedi par meri
-  Meelon ki musafat roti hai
-  Na paak nigahein uth'ti hai
+  Baaloṅ ki safedi par meri
+  Miloṅ ki musaafat roti hai
+  Napaak nigaaheṅ uthti hai
   Sajjad ki ghairat roti hai
   Is baat pe qismat roti hai
-  Be jurm o khata kyun qaidi bani
-  
+  Bejurm o khata kiuṅ qaidi bani
+
   6
-  Be-parda mujhe dekha hi nahi
-  Suraj ne kabhi baba ki qasam
-  Mehmil ke bina nikli na kabhi
-  Hai yaad mujhe wo jaaho hasham
-  Karti hoon buka har ek qadam
-  Mehmil ke bina mai shaam chali
-  
+  Beparda mujhe dekha hi nahiṅ
+  Suraj ne kabhi baaba ki qasam
+  Mahmil ke bina nikli na kabhi
+  Hai yaad mujhe wo jaah o hasham
+  Karti huṅ buka har ek qadam
+  Mahmil ke bina main Shaam chali
+
   7
-  Tareekhe sitam dohrayi gayi
-  Mujhe jeete ji jo maar gayi
-  Amma ki tarha se zainab bhi
-  Peshi ke liye darbar gayi
+  Taarikh-e-sitam dohraai gayi
+  Mujhe jite ji jo maar gayi
+  Ammaa ki tarah se Zainab bhi
+  Peshi ke liye darbaar gayi
   Aur sar se mere dastaar gayi
-  Darbar talak ye kehti gayi
-  
+  Darbaar talak ye kehti gayi
+
   8
   Hai kund zabaane aur qalam
-  Ashkon ko zaban kar sakte nahi
-  Irfan aur mazhar chahe bhi
-  Zakhmon ko ayaan kar sakte nahi
-  Rudaad bayan kar sakte nahi
-  Kyun kehna pada bibi ko meri
+  Ashkoṅ ko zabaan kar sakte nahiṅ
+  Irfan aur Mazhar chaahe bhi
+  Zakhmoṅ ko ayaaṅ kar sakte nahiṅ
+  Rudaad bayaaṅ kar sakte nahiṅ
+  Kiuṅ kehna para Bibi ko meri
 # source_id: nohayonline:5fa405f1e0eb061893dd
 # source_url: https://www.nohayonline.com/details_content.php?id=967
 # raw_sha256: 7786268ab133069b1d62253423ccf752ea1c08e280e0ab171ae59f59a2ecbd39
@@ -100,17 +101,17 @@ romanLyrics: |-
 ۱
 میں یثرب کی شہزادی ہوں
 ہے بھائی میرا سردار جناں
-میں شرم و حیا کی مقدومہ
+میں شرم و حیا کی مخدومہ
 ہے اس کی گواہی کون و مکاں
 ہے میرے لبوں پر غم کی اذاں
 چادر جو چھنی مر جاؤں گی
 
 ۲
 بھائی پہ میرے کیوں باغی کے
-الزام لگاے ہیں تم نے
+الزام لگائے ہیں تم نے
 سادات کی آمد سے پہلے
-بازار سجاے ہیں تم نے
-غم میرے بڑھاے ہیں تم نے
+بازار سجائے ہیں تم نے
+غم میرے بڑھائے ہیں تم نے
 دل تھام کے میں یہ کہتی رہی
 
 ۳
@@ -132,7 +133,7 @@ romanLyrics: |-
 ۵
 بالوں کی سفیدی پر میری
 میلوں کی مسافت روتی ہے
-نا پاک نگاہیں اٹھتی ہے
+ناپاک نگاہیں اٹھتی ہے
 سجاد کی غیرت روتی ہے
 اس بات پہ قسمت روتی ہے
 بے جرم و خطا کیوں قیدی بنی
@@ -146,17 +147,17 @@ romanLyrics: |-
 محمل کے بنا میں شام چلی
 
 ۷
-تاریخِ ستم دہرای گیء
-مجھے جیتے جی جو مار گیء
+تاریخِ ستم دہرائی گئی
+مجھے جیتے جی جو مار گئی
 اماں کی طرح سے زینب بھی
-پیشی کے لئے دربار گیء
-اور سر سے میرے دستار گیء
-دربار تلک یہ کہتی گیء
+پیشی کے لئے دربار گئی
+اور سر سے میرے دستار گئی
+دربار تلک یہ کہتی گئی
 
 ۸
 ہے کند زبان اور قلم
-آشکوں کو زباں کر سکتے نہیں
+اشکوں کو زباں کر سکتے نہیں
 عرفان اور مظہر چاہے بھی
 زخموں کو عیاں کر سکتے نہیں
 روداد بیاں کر سکتے نہیں
-کیوں کہنا پڑا بی بی کو میری
+کیوں کہنا پڑا بی‌بی کو میری

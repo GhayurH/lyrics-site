@@ -1,108 +1,109 @@
 ---
-title: "ہر مجلس شببر میں"
-alternateTitle: "Na Bhoole Na Bhoole"
+title: "ہر مجلس شبّیر میں"
+alternateTitle: "Na Bhule Na Bhule"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Har majlise shabbir mein
-  Aati hai maa shabbir ki
-  Kehti hai kya ay momino
-  Tumse ye maa roti hui
+  Har majlis-e-Shabbir mein
+  Aati hai maaṅ Shabbir ki
+  Kehti hai kya ae mominoṅ
+  Tum se ye maaṅ roti hui
   Zakhmi hai mera laadla
   Marham mujhe de do koi
-  Marham to hai ashke aza
-  Rumaal mein le jaungi
-  In aansuon ne bhar diye
-  Sab zakhm to dilgeer ke
-  Do ghao aise hai magar
-  Bharte nahi shabbir ke
-  Na bhoole na bhoole
-  Shabbir nahi bhoole
-  Ek chadar zainab ki
-  Ek seena akbar ka
-  
+  Marham to hai ashk-e-aza
+  Rumaal mein le jaauṅgi
+  In aansuoṅ ne bhar diye
+  Sab zakhm to dilgir ke
+  Do ghaao aise haiṅ magar
+  Bharte nahiṅ Shabbir ke
+  Na bhule na bhule
+  Shabbir nahiṅ bhule
+  Ik chaadar Zainab ki
+  Ik sina Akbar ka
+
   1
-  Matam karo matam karo
-  Ghar lutgaya shabbir ka
-  Maa aagayi shabbir ki
-  Matam karo shabbir ka
-  Khanjar talay naize pe bhi
-  Karte rahe shukr e khuda
-  
+  Maatam karo maatam karo
+  Ghar lut gaya Shabbir ka
+  Maaṅ aa gayi Shabbir ki
+  Maatam karo Shabbir ka
+  Khanjar tale naize pe bhi
+  Karte rahe shukr-e-Khuda
+
   2
-  Teeron pe tha laasha tera
-  Roti rahi karbobla
-  Qaime ka jab parda utha
+  Tiroṅ pe tha laasha tera
+  Roti rahi Karb o Bala
+  Khaime ka jab parda utha
   Boli behan bhaiya mera
-  Laasha tadap ke reh gaya
-  Karte rahe shukre khuda
-  
+  Laasha tarap ke reh gaya
+  Karte rahe shukr-e-Khuda
+
   3
   Sughra udhar roti rahi
   Maula idhar rote rahe
-  Wan muntazir bemaar thi
-  Yan qatl sab hote rahe
-  Sehra mein ghar lut'ta raha
-  Karte rahe shukre khuda
-  
+  Waaṅ muntazir bimaar thi
+  Yaaṅ qatl sab hote rahe
+  Sehra mein ghar lutta raha
+  Karte rahe shukr-e-Khuda
+
   4
   Lipti sumein aspa se thi
   Wo laadli beti teri
-  Maloom tha maula tujhe
+  Maalum tha Maula tujhe
   Ab na milegi ye kabhi
-  Phir bhi suye maqtal gaye
-  Karte rahe shukre khuda
-  
+  Phir bhi su-e-maqtal gaye
+  Karte rahe shukr-e-Khuda
+
   5
-  Maara gaya ghazi tera
-  Phir bhi kaha shukre khuda
-  Qasim gaya asghar gaya
-  Phir bhi kaha shukre khuda
+  Maara gaya Ghaazi tera
+  Phir bhi kaha shukr-e-Khuda
+  Qasim gaya Asghar gaya
+  Phir bhi kaha shukr-e-Khuda
   Har laash par aate rahe
-  Karte rahe shukre khuda
-  
+  Karte rahe shukr-e-Khuda
+
   6
-  Darbar mein bazaar mein
-  Zindan mein har aan mein
+  Darbaar mein baazaar mein
+  Zindaan mein har aan mein
   Kaise sitam sehti rahi
   Beti teri behna teri
   Dekha kiye naize se sab
-  Karte rahe shukre khuda
-  
+  Karte rahe shukr-e-Khuda
+
   7
   Naize pe bhi sar hai tera
   Phir bhi teri kya shaan hai
-  Ye sar hai ay maula tera
-  Ya bolta quran hai
+  Ye sar hai ae Maula tera
+  Ya bolta Quraan hai
   Tan se juda sar ho gaya
-  Karte rahe shukre khuda
-  
+  Karte rahe shukr-e-Khuda
+
   8
-  Rehaan aur sarwar karo
-  Majlis bapa shabbir ki
-  Akbar ka gham zainab ka gham
-  Meraaj hai tehreer ki
+  Rehaan aur Sarwar karo
+  Majlis bapa Shabbir ki
+  Akbar ka gham Zainab ka gham
+  Meraaj hai tahrir ki
   Maula aza ke farsh par
-  Karte rahe shukre khuda
+  Karte rahe shukr-e-Khuda
 # source_id: nohayonline:9230723c6c988722d651
 # source_url: https://www.nohayonline.com/details_content.php?id=408
 # raw_sha256: 033e9038b8c78c546330d23d7d9c2cf91170c7f1cb6478dc7f712f665e8d78e8
 ---
-ہر مجلس شببر میں
+ہر مجلس شبّیر میں
 آتی ہے ماں شبّیر کی
 کہتی ہے کیا اے مومنوں
 تم سے یہ ماں روتی ہوئی
 زخمی ہے میرا لاڈلا
 مرہم مجھے دے دو کوئی
 مرہم تو ہے اشک عزا
-رومال میں لے جاؤنگی
-ان آنسوو ں نے بھر دیے
+رومال میں لے جاؤں گی
+ان آنسوؤں نے بھر دیے
 سب زخم تو دلگیر کے
 دو گھاؤ ایسے ہیں مگر
 بھرتے نہیں شبّیر کے
@@ -113,8 +114,8 @@ romanLyrics: |-
 
 ۱
 ماتم کرو ماتم کرو
-گھر لوٹ گیا شبّیر کا
-ماں آگی شبّیر کی
+گھر لٹ گیا شبّیر کا
+ماں آ گئی شبّیر کی
 ماتم کرو شبّیر کا
 خنجر تلے نیزے پہ بھی
 کرتے رہے شکر خدا
@@ -140,7 +141,7 @@ romanLyrics: |-
 وہ لاڈلی بیٹی تیری
 معلوم تھا مولا تجھے
 اب نہ ملے گی یہ کبھی
-پھر بھی سوے مقتل
+پھر بھی سوئے مقتل گئے
 کرتے رہے شکر خدا
 
 ۵
