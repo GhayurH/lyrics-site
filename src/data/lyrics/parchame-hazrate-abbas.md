@@ -1,57 +1,58 @@
 ---
-title: "پرچم حضرت عباس سجاے رکھنا"
-alternateTitle: "Parchame Hazrate Abbas"
+title: "پرچم حضرت عباس سجائے رکھنا"
+alternateTitle: "Parcham-e-Hazrat-e-Abbas"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
-aliases: []
+aliases: ["Parchame Hazrate Abbas"]
 published: false
 romanLyrics: |-
-  Parchame hazrate abbas sajaye rakhna
-  
+  Parcham-e-Hazrat-e-Abbas sajaaye rakhna
+
   1
-  Zulm ke saath har ek saans hai insan ki nang
-  Seekho shabbir se marne ki ada jeena ka dhang
-  Ghame shabbir hai baatil se musalsal ek jang
-  Ghame shabbir ko talwaar banaye rakhna
-  
+  Zulm ke saath har ek saans hai insaan ki nang
+  Sikho Shabbir se marne ki ada jine ka dhang
+  Gham-e-Shabbir hai baatil se musalsal ik jang
+  Gham-e-Shabbir ko talwaar banaaye rakhna
+
   2
-  Aake baaton mein subuk jaan ke farshe gham ko
-  Kho na dena kahin shabbir ke is matam ko
-  Khushk hone nahi dena kabhi chashme nam ko
-  Aandhiyo mein bhi diya haq ka jalaye rakhna
-  
+  Aa ke baatoṅ mein subuk jaan ke farsh-e-gham ko
+  Kho na dena kahiṅ Shabbir ke is maatam ko
+  Khushk hone nahiṅ dena kabhi chashm-e-nam ko
+  Aandhiyoṅ mein bhi diya haq ka jalaaye rakhna
+
   3
-  Rowe dastaar fazilat mein na aa jaana kahin
-  Shaq o shubhaat mein padkar na gawa dena yaqeen
-  Ghame shabbir ibadat hai koi rasm nahi
-  Shor e matam se zamane ko jagaye rakhna
-  
+  Ro-e-dastaar fazilat mein na aa jaana kahiṅ
+  Shak o shubhaat mein par kar na ganwa dena yaqiṅ
+  Gham-e-Shabbir ibaadat hai koi rasm nahiṅ
+  Shor-e-maatam se zamaane ko jagaaye rakhna
+
   4
-  Zulmate kufr mein dar aati hai emaan ki lakheer
-  Kufr kar sakta nahi haq ke iraadon ko aseer
-  Paak kar deta har rijs se zikre shabbir
-  Zikre shabbir ko emaan banaye rakhna
-  
+  Zulmat-e-kufr mein dar aati hai imaaṅ ki lakir
+  Kufr kar sakta nahiṅ haq ke iraadoṅ ko asir
+  Paak kar deta har rijs se zikr-e-Shabbir
+  Zikr-e-Shabbir ko imaan banaaye rakhna
+
   5
-  Hashr tak raahe mawadat yuhin abaad rahe
-  Ye dua e dil e zehra hai zara yaad rahe
-  Umr bhar rote yuhin thay nahi sajjad rahe
-  Apni naslon ko azadaar banaye rakhna
-  
+  Hashr tak raah-e-mawaddat yuṅhi aabaad rahe
+  Ye dua-e-dil-e-Zehra hai zara yaad rahe
+  Umr bhar rote yuṅhi the nahiṅ Sajjad rahe
+  Apni nasloṅ ko azaadaar banaaye rakhna
+
   6
-  Ghame shabbir se abaad mera seena hai
-  Mai azadaar hoo chehra mera aaena hai
-  Sar buland hoke zamane mein agar jeena hai
-  Sar dare sibte payambar pe jhukaye rakhna
+  Gham-e-Shabbir se aabaad mera sina hai
+  Main azaadaar huṅ chehra mera aaina hai
+  Sar buland ho ke zamaane mein agar jina hai
+  Sar dar-e-Sibt-e-Payambar pe jhukaaye rakhna
 # source_id: nohayonline:abcd1493794a2762d790
 # source_url: https://www.nohayonline.com/details_content.php?id=1107
 # raw_sha256: 03c41bf414bce96a2f37b97d1a53d53df9991d283a1281011b2716bcb7c21f43
 ---
 
-پرچم حضرت عباس سجاے رکھنا
+پرچم حضرت عباس سجائے رکھنا
 
 ۱
 ظلم کے ساتھ ہر ایک سانس ہے انسان کی ننگ
@@ -62,26 +63,26 @@ romanLyrics: |-
 ۲
 آکے باتوں میں سبک جان کے فرش غم کو
 کھو نہ دینا کہیں شبیر کے اس ماتم کو
-خوش ہونے نہیں دینا کبھی چشم نم کو
-آندھیوں میں بھی دیا حق کا جلاے رکھنا
+خشک ہونے نہیں دینا کبھی چشم نم کو
+آندھیوں میں بھی دیا حق کا جلائے رکھنا
 
 ۳
 روے دستار فضیلت میں نہ آجانا کہیں
 شک و شبہات میں پڑ کر نہ گنوا دینا یقیں
 غم شبیر عبادت ہے کوئی رسم نہیں
-شور ماتم سے زمانے کو جگاے رکھنا
+شور ماتم سے زمانے کو جگائے رکھنا
 
 ۴
 ظلمت کفر میں در آتی ہے ایماں کی لکیر
 کفر کر سکتا نہیں حق کے ارادوں کو اسیر
 پاک کر دیتا ہر رجس سے ذکر شبیر
-ذکر شبیر کو ایمان بناے رکھنا
+ذکر شبیر کو ایمان بنائے رکھنا
 
 ۵
 حشر تک راہ مودت یونہی آباد رہے
-یہ دعائے دل زہرا ہے زرا یاد رہے
+یہ دعائے دل زہرا ہے ذرا یاد رہے
 عمر بھر روتے یونہی تھے نہیں سجاد رہے
-اپنی نسلوں کو عزادار بناے رکھنا
+اپنی نسلوں کو عزادار بنائے رکھنا
 
 ۶
 غم شبیر سے آباد میرا سینہ ہے

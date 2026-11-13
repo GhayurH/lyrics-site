@@ -1,62 +1,65 @@
 ---
 title: "پرچمِ عباس ہے یہ پرچمِ عباس"
-alternateTitle: "Parchame Abbas"
+alternateTitle: "Parcham-e-Abbas"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Mir Mohsin Ali"
 tags: ["noImage"]
-aliases: []
+aliases: ["Parchame Abbas"]
 published: false
 romanLyrics: |-
-  Parchame abbas hai ye parchame abbas
-  Pehle darya e mawaddat mein naha kar dekho
-  Dil ko ehsaas ke zewar se saja kar dekho
-  Tum ko dunya hi mein firdaus nazar aayegi
-  Parchame hazrate abbas utha kar dekho
-  
+  Parcham-e-Abbas hai ye parcham-e-Abbas
+
+  Pehle darya-e-mawaddat mein nahaa kar dekho
+  Dil ko ehsaas ke zewar se sajaa kar dekho
+  Tum ko duniya hi mein Firdaus nazar aayegi
+  Parcham-e-Hazrat-e-Abbas uthaa kar dekho
+
   1
-  Khyber ki wigha mein isay hyder ne uthaya
-  Aur khoon se abbas e dilawar ne sajaya
-  Aur shaane kata kar usay maqtal mein bachaya
-  Jo bhi uthayega isay fatema zehra usay deti hai dua
-  
+  Khaibar ki waghaa mein ise Haidar ne uthaaya
+  Aur khun se Abbas-e-Dilaawar ne sajaaya
+  Aur shaane kataa kar use maqtal mein bachaaya
+  Jo bhi uthaayega ise Fatima Zehra use deti hai dua
+
   2
-  Haathon mein jo saqqa e sakina ke jo alam hai
+  Haathoṅ mein jo saqqa-e-Sakina ke jo alam hai
   Us ki hai ajab shaam ajab jaah o hasham hai
-  Islam ki zeenat hai ye emaan ka bharam hai
-  Jab bhi uthaate hai isay choomne aajati hai jannat se hawa
-  
+  Islam ki zinat hai ye imaaṅ ka bharam hai
+  Jab bhi uthaate haiṅ ise chumne aa jaati hai Jannat se hawa
+
   3
-  Is jaisi chamak chand sitaron mein kahan hai
-  Is ke hi ujaalon se munawwar ye jahan hai
-  Sajde mein wahan arsh hai ye nasb jahan hai
-  Ghaur se dekho jo isay is my nazar aati hai ghazi ki wafa
-  
+  Is jaisi chamak chaand sitaaroṅ mein kahaaṅ hai
+  Is ke hi ujaaloṅ se munawwar ye jahaaṅ hai
+  Sajde mein wahaaṅ arsh hai ye nasb jahaaṅ hai
+  Ghaur se dekho jo ise is mein nazar aati hai Ghazi ki wafa
+
   4
   Abbas ke parcham mein ye jo mashk saji hai
-  Pani ki jagah is mein faqat tashna labi hai
-  Hum jaise ghareebon ki bhi umeed bandhi hai
-  Milta hai sukoon qalb ko jab paate hai hum iske pharere ki hawa
+  Paani ki jagah is mein faqat tashna labi hai
+  Hum jaise ghariboṅ ki bhi ummid bandhi hai
+  Milta hai sukuṅ qalb ko jab paate haiṅ hum is ke pharere ki hawa
 # source_id: nohayonline:dcbe5b0ed667bf2f043d
 # source_url: https://www.nohayonline.com/details_content.php?id=2478
 # raw_sha256: 900a05fe1e29b6b8df9258aa68892cbd421bde5361f450aa4bb92ffa536cfc83
 ---
 پرچمِ عباس ہے یہ پرچمِ عباس
+
 پہلے دریائے مودت میں نہا کر دیکھو
 دل کو احساس کے زیور سے سجا کر دیکھو
-تم کو دنیا ہی میں فردوس نظر آے گی
+تم کو دنیا ہی میں فردوس نظر آئے گی
 پرچمِ حضرتِ عبّاس اٹھا کر دیکھو
 
 ۱
 خیبر کی وغا میں اسے حیدر نے اٹھایا
 اور خون سے عباس دلاور نے سجایا
 اور شانے کٹا کر اسے مقتل میں بچایا
-جو بھی اٹھاے گا اسے فاطمہ زہرا اسے دیتی ہے دعا
+جو بھی اٹھائے گا اسے فاطمہ زہرا اسے دیتی ہے دعا
 
 ۲
-ہاتھوں میں جو سقاے سکینہ کے جو علم ہے
-اس کی ہے عجب شام عجب جاہ و ہشم ہے
+ہاتھوں میں جو سقائے سکینہ کے جو علم ہے
+اس کی ہے عجب شام عجب جاہ و حشم ہے
 اسلام کی زینت ہے یہ ایماں کا بھرم ہے
 جب بھی اٹھاتے ہیں اسے چومنے آجاتی ہے جنت سے ہوا
 
@@ -64,7 +67,7 @@ romanLyrics: |-
 اس جیسی چمک چاند ستاروں میں کہاں ہے
 اس کے ہی اجالوں سے منور یہ جہاں ہے
 سجدے میں وہاں عرش ہے یہ نصب جہاں ہے
-غور سے دیکھو جو اسے اس میں نظر آتی ہے غازی وفا
+غور سے دیکھو جو اسے اس میں نظر آتی ہے غازی کی وفا
 
 ۴
 عباس کے پرچم میں یہ جو مشک سجی ہے
