@@ -1,52 +1,53 @@
 ---
 title: "میں ارض کربلا ہوں میرا عشق یا حسین"
-alternateTitle: "Mera Ishq Ya Hussain"
+alternateTitle: "Mera Ishq Ya Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Abbas"
+reciter: "Sajid Jafri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Mai arz e karbala hoo mera ishq ya hussain
-  Mai aashiq e aza hoo mera ishq ya hussain
+  Main arz-e-Karbala huṅ mera ishq ya Husain
+  Main aashiq-e-aza huṅ mera ishq ya Husain
 
   1
-  Tum jao ambiya ke areezo se pooch lo
-  Dunya ke la-ilaaj mareezo se pooch lo
-  Mai markaz e shifa hoo mera ishq ya hussain
+  Tum jaao ambiya ke arizoṅ se puchh lo
+  Dunya ke laa ilaaj marizoṅ se puchh lo
+  Main markaz-e-shifa huṅ mera ishq ya Husain
 
   2
-  Mujh par karam khuda ka zamane se hai juda
-  Mera bharam hai rauza e abbas e bawafa
-  Mai qibla e wafa hoo mera ishq ya hussain
+  Mujh par karam Khuda ka zamaane se hai juda
+  Mera bharam hai rauza-e-Abbas-e-baawafa
+  Main qibla-e-wafa huṅ mera ishq ya Husain
 
   3
-  Pathar taraash kar mai banati hoo durr usay
-  Naabin koi jo ho to banati hoo hurr usay
-  Bakshish ka aasra hoo mera ishq ya hussain
+  Patthar taraash kar main banaati huṅ durr use
+  Naabin koi jo ho to banaati huṅ Hurr use
+  Bakhshish ka aasra huṅ mera ishq ya Husain
 
   4
-  Aankhon ke noor aur dil o jaan e sayyeda
-  Madfan hai meri zaat mein armaan e sayyeda
-  Mai qabre fatema mera ishq ya hussain
+  Aankhoṅ ke nur aur dil o jaan-e-Sayyeda
+  Madfan hai meri zaat mein armaan-e-Sayyeda
+  Main qabr-e-Fatema mera ishq ya Husain
 
   5
-  Dekhi hai maine gardane sarwar kati hui
-  Dekhi hai maine chadare zainab luti hui
-  Mai gham mein mubtela hoo mera ishq ya hussain
+  Dekhi hai main ne gardan-e-Sarwar kati hui
+  Dekhi hai main ne chaadar-e-Zainab luti hui
+  Main gham mein mubtala huṅ mera ishq ya Husain
 
   6
-  Abid ki bebasi mein basayi gayi hoo mai
-  Sar ki ridayein de ke bachayi gayi hoo mai
-  Zainab ki mai sada hoo mera ishq ya hussain
+  Aabid ki bebasi mein basaai gayi huṅ main
+  Sar ki ridaaeṅ de ke bachaai gayi huṅ main
+  Zainab ki main sada huṅ mera ishq ya Husain
 
   7
-  Wo phasliyon ko thaam kar ab tak hai nauhagar
+  Wo pasliyoṅ ko thaam kar ab tak hai nauhagar
   Yasir jo keh rahi hai ke pyaasa mera pisar
-  Us maa ki mai buka hoo mera ishq ya hussain
+  Us maaṅ ki main buka huṅ mera ishq ya Husain
 # source_id: nohayonline:7f8b9f845d566cf66d88
 # source_url: https://www.nohayonline.com/details_content.php?id=1688
 # raw_sha256: ce0782bf99fd946e5a495ffd59a4c3dd1d55310263117e4fca767bd04f5ad3c0
@@ -65,7 +66,7 @@ romanLyrics: |-
 میں قبلہء وفا ہوں میرا عشق یا حسین
 
 ۳
-پتھر تراش کر میں بناتی ہوں در اسے
+پتھر تراش کر میں بناتی ہوں دُر اسے
 نابین کوئی جو ہو تو بناتی ہوں حر اسے
 بخشش کا آسرا ہوں میرا عشق یا حسین
 
@@ -75,13 +76,13 @@ romanLyrics: |-
 میں قبر فاطمہ میرا عشق یا حسین
 
 ۵
-دیکھی ہے میں نے گردن سرور کٹی ہوی
-دیکھی ہے میں نے چادر زینب لٹی ہوی
+دیکھی ہے میں نے گردن سرور کٹی ہوئی
+دیکھی ہے میں نے چادر زینب لٹی ہوئی
 میں غم میں مبتلا ہوں میرا عشق یا حسین
 
 ۶
-عابد کی بے بسی میں بسای گیء ہوں میں
-سر کی ردائیں دے کے بچای گیء ہوں میں
+عابد کی بے بسی میں بسائی گئی ہوں میں
+سر کی ردائیں دے کے بچائی گئی ہوں میں
 زینب کی میں صدا ہوں میرا عشق یا حسین
 
 ۷
