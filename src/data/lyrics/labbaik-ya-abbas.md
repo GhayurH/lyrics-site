@@ -6,63 +6,65 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar, J. Jaffri & A. Jee"
+reciter: "Ali Jee"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aflaak pukare ya abbas azadaar pukare ya abbas
-  Hum sab hai tumhare ya abbas
-  Labbaika ya abbas labbaika ya abbas
-  Aashiqan e bawafa ki aa rahi hai ye sada
-  Labbaika ya abbas labbaika ya abbas
-  Ya abbas e alamadar ya abbas e alamadar
+  Aflaak pukaare ya Abbas azaadaar pukaare ya Abbas
+  Hum sab haiṅ tumhaare ya Abbas
+  Labbaik ya Abbas labbaik ya Abbas
+
+  Aashiqaan-e-baawafa ki aa rahi hai ye sada
+  Labbaik ya Abbas labbaik ya Abbas
+  Ya Abbas alamdaar ya Abbas alamdaar
 
   1
-  Jaise hi mere lab par abbas ka naam aya
+  Jaise hi mere lab par Abbas ka naam aaya
   Abbas ke parcham ka mere sar pe hua saaya
-  Ek noor e wafa phaila mere dil ne sukoon paaya
-  Noori nazara hai abbas hyderi jalwa hai abbas
-  Dilbar e zahra hai abbas saath hamesha hai abbas
+  Ek nur-e-wafa phaila mere dil ne sukuṅ paaya
+  Nuri nazaara hai Abbas Haidari jalwa hai Abbas
+  Dilbar-e-Zahra hai Abbas saath hamesha hai Abbas
 
   2
-  Do sher hai dunya mein jiska na koi sani
-  Ek sher e khuda hyder ek sher e ali ghazi
-  Mashoor e zamana hai dono ki alamdari
-  Ghazi ali ka hai sarmaya ghazi hussain ka hai saaya
-  Ghazi hai sher e karbobala maula hamara hai abbas
+  Do sher hai dunya mein jis ka na koi saani
+  Ek sher-e-Khuda Haidar ek sher-e-Ali Ghaazi
+  Mashhur-e-zamaana hai donoṅ ki alamdaari
+  Ghaazi Ali ka hai sarmaaya Ghaazi Husain ka hai saaya
+  Ghaazi hai sher-e-Karbobala Maula hamaara hai Abbas
 
   3
-  Jab bhi gham e dunya se ye dil mera ghabraya
-  Mai apni duaon mein abbas ko le aaya
-  Ye waasta ghazi ka mere kaam bada aaya
-  Gham ka madawa hai ghazi mera bharosa hai ghazi
-  Mera aqeeda hai ghazi rab ka waseela hai abbas
+  Jab bhi gham-e-dunya se ye dil mera ghabraaya
+  Main apni duaaoṅ mein Abbas ko le aaya
+  Ye waasta Ghaazi ka mere kaam bara aaya
+  Gham ka mudaawa hai Ghaazi mera bharosa hai Ghaazi
+  Mera aqida hai Ghaazi Rab ka wasila hai Abbas
 
   4
   Labbaik suno
-  Abbas wafaon ka paikar hai
-  Abbas jalaal e hyder hai
-  Har dil mein dhadakta hai ghazi
+  Abbas wafaaoṅ ka paikar hai
+  Abbas jalaal-e-Haidar hai
+  Har dil mein dharakta hai Ghaazi
   Abbas ka charcha ghar ghar hai
-  Jis din se alamdari ka sharaf
+  Jis din se alamdaari ka sharaf
   Shabbir se tum ne paaya hai
-  Us din se lekar aaj talak
+  Us din se le kar aaj talak
   Labbaik labbaik labbaik
-  Hamare lab par hai
+  Hamaare lab par hai
 
   5
-  Jab karbobala maula hum ko bhi bulayenge
-  Abbas ke rauze par labbaik pukarenge
-  Hum saamne ghazi ke nauha ye sunayenge
-  Saamne paak haram hoga shaah e wafa ka gham hoga
-  Zer e alam matam hoga waada hamara hai abbas
+  Jab Karbobala Maula hum ko bhi bulaayeṅge
+  Abbas ke rauze par labbaik pukaareṅge
+  Hum saamne Ghaazi ke nauha ye sunaayeṅge
+  Saamne paak haram hoga shaah-e-wafa ka gham hoga
+  Zer-e-alam maatam hoga waada hamaara hai Abbas
 
   6
-  Jab shaam e ghariban mein ghurbat ki ghata chaayi
-  Nauha tha ye zainab ka abbas mere bhai
-  Jab chaadar chinti thi teri yaad bahot aayi
-  Haye wo zainab ka nauha aur tadapna ghazi ka
-  Gham ye tumhara ay maula aaj bhi taaza hai abbas
+  Jab shaam-e-gharibaṅ mein ghurbat ki ghata chhaayi
+  Nauha tha ye Zainab ka Abbas mere bhaai
+  Jab chaadar chhinti thi teri yaad bahut aayi
+  Haaye wo Zainab ka nauha aur tarapna Ghaazi ka
+  Gham ye tumhaara Ae Maula aaj bhi taaza hai Abbas
 # source_id: nohayonline:3845a08fad19b41f7bad
 # source_url: https://www.nohayonline.com/details_content.php?id=2843
 # raw_sha256: cf5b32a9eb5b38b1cbf6a02de26e3d2eda8bf01c18d2ed287bdfcfbd5315e419
@@ -70,6 +72,7 @@ romanLyrics: |-
 افلاک پکارے یا عباس عزادار پکارے یا عباس
 ہم سب ہیں تمہارے یا عباس
 لبیک یا عباس لبیک یا عباس
+
 عاشقانِ با وفا کی آ رہی ہے یہ صدا
 لبیک یا عباس لبیک یا عباس
 یا عباس علمدار یا عباس علمدار
@@ -78,12 +81,12 @@ romanLyrics: |-
 جیسے ہی میرے لب پر عباس کا نام آیا
 عباس کے پرچم کا میرے سر پہ ہوا سایہ
 ایک نور وفا پھیلا میرے دل نے سکوں پایا
-نوری نظراہ ہے عباس حیدری جلوہ ہے عباس
+نوری نظارہ ہے عباس حیدری جلوہ ہے عباس
 دلبر زہرا ہے عباس ساتھ ہمیشہ ہے عباس
 
 ۲
 دو شیر ہے دنیا میں جس کا نہ کوئی ثانی
-ایک شیر خدا حیدر ایک شیر علیہ غازی
+ایک شیر خدا حیدر ایک شیر علی غازی
 مشہور زمانہ ہے دونوں کی علمداری
 غازی علی کا ہے سرمایہ غازی حسین کا ہے سایہ
 غازی ہے شیر کربوبلا مولا ہمارا ہے عباس
@@ -108,15 +111,15 @@ romanLyrics: |-
 ہمارے لب پر ہے
 
 ۵
-جب کربوبلا مولا ہم کو بھی بلاییں گے
+جب کربوبلا مولا ہم کو بھی بلائیں گے
 عباس کے روضے پر لبیک پکاریں گے
-ہم سامنے غازی کے نوحہ یہ سناییں گے
+ہم سامنے غازی کے نوحہ یہ سنائیں گے
 سامنے پاک حرم ہو گا شاہ وفا کا غم ہو گا
 زیر علم ماتم ہو گا وعدہ ہمارا ہے عباس
 
 ۶
 جب شام غریباں میں غربت کی گھٹا چھائی
 نوحہ تھا یہ زینب کا عباس میرے بھائی
-جب چادر چھنتی تھی تیری یاد بہت آی
-ہاے وہ زینب کا نوحہ اور تڑپنا غازی کا
+جب چادر چھنتی تھی تیری یاد بہت آئی
+ہائے وہ زینب کا نوحہ اور تڑپنا غازی کا
 غم یہ تمہارا اے مولا آج بھی تازہ عباس

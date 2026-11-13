@@ -1,85 +1,88 @@
 ---
 title: "لبیک یا حسین لبیک یا حسین"
-alternateTitle: "Labbaik Ya Hussain"
+alternateTitle: "Labbaik Ya Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
+reciter: "Mir Sajjad Mir"
 tags: ["noImage"]
-aliases: []
+aliases: ["Labbaik Ya Hussain"]
 published: false
 romanLyrics: |-
-  Labbaika ya hussain labbaika ya hussain
-  Ashoor o arbaeen pe hum ko bula hussain
-  Labbaika ya hussain labbaika ya hussain
-  
+  Labbaik ya Husain labbaik ya Husain
+
+  Aashur o Arbain pe hum ko bula Husain
+  Labbaik ya Husain labbaik ya Husain
+
   1
-  Sajde ne tere deen ki izzat badhayi hai
-  Teri nazam kaabe ke bhi kaam aayi hai
-  Zinda hai tere naam se naame khuda hussain
-  
+  Sajde ne tere din ki izzat barhaayi hai
+  Teri nazm Kaabe ke bhi kaam aayi hai
+  Zinda hai tere naam se naam-e-Khuda Husain
+
   2
-  Hai kitne momineen jo haj par na jaa sake
-  Baithe hai apne dil mein ye armaan liye huwe
-  Is saal tere rauze pe haj ho ada hussain
-  
+  Hai kitne mominin jo haj par na jaa sake
+  Baithe haiṅ apne dil mein ye armaaṅ liye hue
+  Is saal tere rauze pe haj ho ada Husain
+
   3
-  Kya karbala hai sirf ameeron ke waaste
-  Kya door se hi dekh ke mazdoor khush rahe
-  Koi sabeel koi to rasta bana hussain
-  
+  Kya Karbala hai sirf amiroṅ ke waaste
+  Kya dur se hi dekh ke mazdur khush rahe
+  Koi sabil koi to rasta bana Husain
+
   4
-  Awaaz de qadam nahi peeche hataunga
-  Koi kahega haath to gardan kataunga
-  Is khaadim e habeeb ka waada raha hussain
-  
+  Aawaaz de qadam nahiṅ pichhe hataauṅga
+  Koi kahega haath to gardan kataauṅga
+  Is khaadim-e-Habib ka waada raha Husain
+
   5
-  Ay karbala ke sayyed o sardar as salaam
-  Suraj tawaf karke ye kehta hai subho shaam
-  Tere diye se jalta hai mera diya hussain
-  
+  Ae Karbala ke Sayyid o sardaar as-salaam
+  Suraj tawaaf kar ke ye kehta hai subh o shaam
+  Tere diye se jalta hai mera diya Husain
+
   6
-  Kis ko dikhaye zakhm maseeha koi nahi
-  Maula hamara poochne waala koi nahi
-  Hai kaun hum ghareebon ka tere siwa hussain
-  
+  Kis ko dikhaaye zakhm masiha koi nahiṅ
+  Maula hamaara puchhne waala koi nahiṅ
+  Hai kaun hum ghariboṅ ka tere siwa Husain
+
   7
-  Qasim ka laasha dasht mein pamaal kar diya
-  Quran hassan ka dasht mein saara bikhar gaya
-  Tukdon se uske aati thi phir bhi sada hussain
-  
+  Qaasim ka laasha dasht mein paamaal kar diya
+  Quraaṅ Hasan ka dasht mein saara bikhar gaya
+  Tukroṅ se us ke aati thi phir bhi sada Husain
+
   8
-  Teri yateem bachi bhi peeche nahi hati
-  Panjo ke bal chali hai wo lekin nahi ruki
-  Ye kehte kehte aagayi usko qaza hussain
-  
+  Teri yatim bachchi bhi pichhe nahiṅ hati
+  Panjoṅ ke bal chali hai wo lekin nahiṅ ruki
+  Ye kehte kehte aa gayi us ko qaza Husain
+
   9
-  Sar tha tere ghareeeb ka pathar ke waar pe
-  Tere pisar ke pairon ke chaalon mein khaar thay
-  Phir bhi zuban se kehte tha beta tera hussain
-  
+  Sar tha tere gharib ka patthar ke waar pe
+  Tere pisar ke pairoṅ ke chhaaloṅ mein khaar the
+  Phir bhi zubaaṅ se kehte tha beta tera Husain
+
   10
-  Sajjad wohi bante hai bas zaair e imam
-  Apne qalam se likhte hai abbas unke naam
-  Ghazi se kehke karbala humko bula hussain
+  Sajjad wohi bante haiṅ bas zaair-e-Imaam
+  Apne qalam se likhte haiṅ Abbas un ke naam
+  Ghaazi se keh ke Karbala hum ko bula Husain
 # source_id: nohayonline:a1bd8b2b32571d933570
 # source_url: https://www.nohayonline.com/details_content.php?id=1534
 # raw_sha256: 3ecb2815b44044dbe162ef37a3d4a76d289a778fdf1ea9bf3a9b1e1ec80f813f
 ---
 
 لبیک یا حسین لبیک یا حسین
+
 عاشور و اربعین پہ ہم کو بلا حسین
 لبیک یا حسین لبیک یا حسین
 
 ۱
-سجدے نے تیرے دین کی عزت بڑھای ہے
-تیری نظم کعبے کے بھی کام آی ہے
+سجدے نے تیرے دین کی عزت بڑھائی ہے
+تیری نظم کعبے کے بھی کام آئی ہے
 زندہ ہے تیرے نام سے نام خدا حسین
 
 ۲
 ہے کتنے مومنین جو حج پر نہ جا سکے
-بیٹھے ہیں اپنے دل میں یہ ارماں لیےء ہوے
+بیٹھے ہیں اپنے دل میں یہ ارماں لیے ہوئے
 اس سال تیرے روضے پہ حج ہو ادا حسین
 
 ۳
@@ -95,22 +98,22 @@ romanLyrics: |-
 ۵
 اے کربلا کے سید و سردار السّلام
 سورج طواف کرکے یہ کہتا ہے صبح و شام
-تیرے دیےء سے جلتا ہے میرا دیا حسین
+تیرے دیے سے جلتا ہے میرا دیا حسین
 
 ۶
-کس کو دکھاے زخم مسیحا کوئی نہیں
+کس کو دکھائے زخم مسیحا کوئی نہیں
 مولا ہمارا پوچھنے والا کوئی نہیں
 ہے کون ہم غریبوں کا تیرے سوا حسین
 
 ۷
 قاسم کا لاشہ دشت میں پامال کر دیا
-قرآں حسن کا دشت میں سارا بکھرا گیا
-ٹکڑوں سے اسکے آتی تھی پھر بھی صدا حسین
+قرآں حسن کا دشت میں سارا بکھر گیا
+ٹکڑوں سے اس کے آتی تھی پھر بھی صدا حسین
 
 ۸
-تیری یتیمی بچی بھی پیچھے نہیں ہٹی
+تیری یتیم بچی بھی پیچھے نہیں ہٹی
 پنجوں کے بل چلی ہے وہ لیکن نہیں رکی
-یہ کہتے کہتے آگیء اسکو قضاء حسین
+یہ کہتے کہتے آ گئی اس کو قضا حسین
 
 ۹
 سر تھا تیرے غریب کا پتھر کے وار پہ
@@ -118,6 +121,6 @@ romanLyrics: |-
 پھر بھی زباں سے کہتے تھے بیٹا تیرا حسین
 
 ۱۰
-سجاد وہی بنتے ہیں بس زایر امام
-اپنے قلم سے لکھتے ہیں عباس انکے نام
-غازی سے کہکے کربلا ہمکو بلا حسین
+سجاد وہی بنتے ہیں بس زائر امام
+اپنے قلم سے لکھتے ہیں عباس ان کے نام
+غازی سے کہہ کے کربلا ہم کو بلا حسین
