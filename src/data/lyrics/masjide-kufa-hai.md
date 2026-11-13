@@ -1,39 +1,40 @@
 ---
-title: مسجد کوفہ ہے روزَہ دار ہے
-alternateTitle: Masjide Kufa Hai
+title: مسجد کوفہ ہے روزہ دار ہے
+alternateTitle: Masjid-e-Kufa Hai
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Sachey Bhai"
+reciter: "Ali Rizvi Sachey; Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Masjid e kufa hai rozadaar hai
-  Farq se oonchi lahoo ki dhaar hai
-  Aah damaad e payambar ke liye
-  Zeher may doobi hui talwaar hai
+  Masjid-e-Kufa hai rozadaar hai
+  Farq se uṅchi lahu ki dhaar hai
+  Aah daamaad-e-Payambar ke liye
+  Zehr mein dubi hui talwaar hai
 
   1
-  Keh raha hai zakhme sar se beh ke khoon
-  Doosra sajda bahot dushwaar hai
+  Keh raha hai zakhmi sar se beh ke khuṅ
+  Dusra sajda bahut dushwaar hai
 
   2
   Raat tak aabaad tha haq ka makaan
-  Subha ko ujdi hui sarkaar hai
+  Subh ko ujri hui sarkaar hai
 
   3
-  Farq e paak e murtaza may taygh hai
-  Ya kalaam allah mein talwaar hai
+  Farq-e-paak-e-Murtaza mein tegh hai
+  Ya kalaam Allah mein talwaar hai
 
   4
-  Zakhme sar hai hyder e karrar hai
-  Dheemi dheemi nafz ki raftaar hai
+  Zakhmi sar hai Haidar-e-Karraar hai
+  Dhimi dhimi nabz ki raftaar hai
 
   5
-  Khoon mein hai gharq daamade nabi
-  Saans ka lena bahot dushwaar hai
+  Khun mein hai gharq daamaad-e-Nabi
+  Saaṅs lena bhi bahut dushwaar hai
 # source_id: nohayonline:382119142e6f2fed5fbd
 # source_url: https://www.nohayonline.com/details_content.php?id=2918
 # raw_sha256: b69132099915513b648dee0b6303820a6c66f94717a9a2a1f27e89a056d9d080

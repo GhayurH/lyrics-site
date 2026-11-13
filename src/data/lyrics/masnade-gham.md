@@ -1,48 +1,49 @@
 ---
 title: "مسندِ غم بچھائی جاتی ہے"
-alternateTitle: "Masnade Gham"
+alternateTitle: "Masnad-e-Gham"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
+reciter: "Tabligh-e-Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Masnad e gham bichayi jaati hai
-  Bazme matam sajayi jaati hai
+  Masnad-e-gham bichhaai jaati hai
+  Bazm-e-maatam sajaai jaati hai
 
   1
-  Ran ko akbar chale to maa ne kaha
-  Umr bhar ki kamayi jaati hai
+  Ran ko Akbar chale to maaṅ ne kaha
+  Umr bhar ki kamaai jaati hai
 
   2
-  Khoon may doobe hai yun ali akbar
-  Jaise chadar udayi jaati hai
+  Khuṅ mein dube haiṅ yuṅ Ali Akbar
+  Jaise chaadar urhaai jaati hai
 
   3
-  Kisko ghayre hue hai ahle haram
-  Kiski mannat badhayi jaati hai
+  Kis ko ghere hue haiṅ ahl-e-haram
+  Kis ki mannat barhaai jaati hai
 
   4
-  Ek rida dedo shah ko kubra
-  Laashe qasim uthayi jaati hai
+  Ik rida de do Shaah ko Kubra
+  Laash-e-Qaasim uthaai jaati hai
 
   5
-  Teer gardan pe khalo ay asghar
-  Pyaas yun bhi bujhayi jaati hai
+  Tir gardan pe khaa lo ae Asghar
+  Pyaas yuṅ bhi bujhaai jaati hai
 
   6
   Yaad aati hai ek nanhi lehad
-  Jab bhi shamma jalayi jaati hai
+  Jab bhi shama jalaai jaati hai
 
   7
-  Boli zainab utho utho abid
-  Aag ghar may lagayi jaati hai
+  Boli Zainab utho utho Aabid
+  Aag ghar mein lagaai jaati hai
 
   8
-  Zikre maula ka faiz hai mehshar
+  Zikr-e-Maula ka faiz hai Mehshar
   Teri shohrat jo paayi jaati hai
 # source_id: nohayonline:1757399eb4ec8a0d943e
 # source_url: https://www.nohayonline.com/details_content.php?id=639

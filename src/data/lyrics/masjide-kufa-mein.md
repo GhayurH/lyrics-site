@@ -1,54 +1,55 @@
 ---
-title: "مسجدِ کوفہ میں زخمی ہو گیا ایک روز دار"
-alternateTitle: "Masjide Kufa Mein"
+title: "مسجدِ کوفہ میں زخمی ہو گیا ایک روزہ دار"
+alternateTitle: "Masjid-e-Kufa Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zafar Abbas"
+reciter: "Sajid Jafri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Masjid e kufa mein zakhmi hogaya ek rozadaar
-  Zainab o kulsoom ki ab khair ho parwardigar
+  Masjid-e-Kufa mein zakhmi ho gaya ek rozadaar
+  Zainab o Kulsum ki ab khair ho Parwardigaar
 
   1
-  Is namazi ne namak se ki thi sehri ya khuda
-  Ibne muljim ne kiya hai sajda e khaliq mein waar
+  Is namaazi ne namak se ki thi sahri ya Khuda
+  Ibn-e-Muljim ne kiya hai sajda-e-khaaliq mein waar
 
   2
-  Khoon se tar hogayi mehrab zakhmi ay ali
-  Betiyan ghar mein tadap kar kar rahi hai intezar
+  Khun se tar ho gayi mehraab zakhmi ae Ali
+  Betiyaṅ ghar mein tarap kar kar rahi haiṅ intezaar
 
   3
-  Shabbar o shabbir rote hai ali ko dekh kar
-  Masjid e kufa mein hai saare namazi sogwaar
+  Shabbar o Shabbir rote haiṅ Ali ko dekh kar
+  Masjid-e-Kufa mein hai saare namaazi sogwaar
 
   4
-  Dehkh kar hyder ko zakhmi ghash mein hai ummul baneen
-  Aur hai chote se abbas e dilawar ashk baar
+  Dekh kar Haidar ko zakhmi ghash mein hai Ummul Banin
+  Aur hai chhote se Abbas-e-dilaawar ashk baar
 
   5
-  Nauha padta hai musalla hai namazein matami
-  Aaj se hyder ke gham mein hai azaanein gham gusaar
+  Nauha parhta hai musalla hai namaazeṅ maatami
+  Aaj se Haidar ke gham mein hai azaaneṅ gham gusaar
 
   6
-  Dekh kar zainab ko hyder jaane kyun rone lage
-  Dekhti hai bhai ko hasrat se zainab baar baar
+  Dekh kar Zainab ko Haidar jaane kiuṅ rone lage
+  Dekhti hai bhaai ko hasrat se Zainab baar baar
 
   7
-  Phaynk kar sar se amaama ro raha hai kyun tabeeb
-  Betiyan baba pe karti hai duaon ka hisaar
+  Pheṅk kar sar se amaama ro raha hai kiuṅ tabib
+  Betiyaṅ Baaba pe karti haiṅ duaaoṅ ka hisaar
 
   8
-  Uth raha tha jab janaza mere maula ka zafar
-  Tha madina ghamzada aur shehr e kufa sogwaar
+  Uth raha tha jab janaaza mere Maula ka Zafar
+  Tha Madina ghamzada aur shahr-e-Kufa sogwaar
 # source_id: nohayonline:4bb116f00744e97951b8
 # source_url: https://www.nohayonline.com/details_content.php?id=3416
 # raw_sha256: 50e0a43ece951fbcb76089d4d1a6e7863c81d76600d934879923030318ee0de0
 ---
-مسجدِ کوفہ میں زخمی ہو گیا ایک روز دار
+مسجدِ کوفہ میں زخمی ہو گیا ایک روزہ دار
 زینب و کلثوم کی اب خیر ہو پروردگار
 
 ۱
@@ -56,7 +57,7 @@ romanLyrics: |-
 ابنِ ملجم نے کیا ہے سجدۂ خالق میں وار
 
 ۲
-خون سے تر ہو گیء محراب زخمی اے علی
+خون سے تر ہو گئی محراب زخمی اے علی
 بیٹیاں گھر میں تڑپ کر کر رہی ہیں انتظار
 
 ۳
@@ -77,7 +78,7 @@ romanLyrics: |-
 
 ۷
 پھینک کر سر سے عمامہ رو رہا ہے کیوں طبیب
-بیٹیاں بابا پہ کرتی ہیں دعاؤں کا حسار
+بیٹیاں بابا پہ کرتی ہیں دعاؤں کا حصار
 
 ۸
 اٹھ رہا تھا جب جنازہ میرے مولا کا ظفر

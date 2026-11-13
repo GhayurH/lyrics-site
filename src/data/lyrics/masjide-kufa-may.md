@@ -1,62 +1,63 @@
 ---
 title: "مسجد کوفہ میں محبوب خدا زخمی ہوا"
-alternateTitle: "Masjide Kufa May"
+alternateTitle: "Masjid-e-Kufa Mein Mehbub-e-Khuda Zakhmi Hua"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Dayam Najafi"
+reciter: "Ali Yazdan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Masjid e kufa may mehboobe khuda zakhmi hua
-  Baad e ahmed jo tha deen ka peshwa zakhmi hua
+  Masjid-e-Kufa mein mehbub-e-Khuda zakhmi hua
+  Baad-e-Ahmad jo tha din ka peshwa zakhmi hua
 
   1
-  Ibne muljim ki shakhawat ne sitam dhaaya hai ye
-  Hogaya tar lo musalla murtaza ke khoon se
-  Dehr may khaaliq ka jo tha maujiza zakhmi hua
+  Ibn-e-Muljim ki shakhawat ne sitam dhaaya hai ye
+  Ho gaya tar lo musalla Murtaza ke khun se
+  Dahr mein khaaliq ka jo tha maujiza zakhmi hua
 
   2
-  Yaad e maadar aur bhi shiddat se tadpane lagi
-  Ghair haalat hogayi zainab bhi ghash khaane lagi
-  Jab suna masjid may baba be-khata zakhmi hua
+  Yaad-e-maadar aur bhi shiddat se tarpaane lagi
+  Ghair haalat ho gayi Zainab bhi ghash khaane lagi
+  Jab suna masjid mein Baaba bekhata zakhmi hua
 
   3
-  Dekh kar manzar ye turbat may payambar ro pade
-  Haalat e sajda may shamsheer e zehar aalood se
-  Be-khata be-jurm nafse kibriya zakhmi hua
+  Dekh kar manzar ye turbat mein Payambar ro pare
+  Haalat-e-sajda mein shamshir-e-zehr aalud se
+  Bekhata bejurm nafs-e-Kibriya zakhmi hua
 
   4
-  Haath phaila kar ali kehte hai ye ay kirdegaar
-  Tu gawara rahiyo ke waqte taa'at e parwardigar
-  Tere sajde may ye tera ba-wafa zakhmi hua
+  Haath phaila kar Ali kehte haiṅ ye ae Kirdigaar
+  Tu gawara rahiyo ke waqt-e-taaat-e-Parwardigaar
+  Tere sajde mein ye tera baawafa zakhmi hua
 
   5
-  Aayaton ke darmiyan kohraam tha kohraam tha
-  Qaima e quran may charon taraf hangaam tha
-  Waqt e sajda haye faqre ambiya zakhmi hua
+  Aayatoṅ ke darmiyaaṅ kohraam tha kohraam tha
+  Khaima-e-Quran mein chaaroṅ taraf hangaam tha
+  Waqt-e-sajda haaye fakhr-e-Ambiya zakhmi hua
 
   6
-  Dekh kar hyder ko ubhra lab pe zainab ke sukhan
-  Ab kise baba kahenge boliye bhaiya hassan
-  Hogayi be-amaan baba mera zakhmi hua
+  Dekh kar Haidar ko ubhra lab pe Zainab ke sukhan
+  Ab kise Baaba kaheṅge boliye bhaiya Hasan
+  Ho gayi beamaaṅ Baaba mera zakhmi hua
 
   7
-  Tha yehi bachon ka nauha ya nabi fayrad hai
-  Aaiye behre madad ye sa'at e imadad hai
-  Dekhiye masjid may shaahe do sara zakhmi hua
+  Tha yehi bachchoṅ ka nauha ya Nabi faryaad hai
+  Aaiye bahr-e-madad ye saaat-e-imdaad hai
+  Dekhiye masjid mein Shaah-e-do sara zakhmi hua
 
   8
-  Sayyeda ka aaj pehlu aur zakhmi hogaya
-  Aur haalat hogayi hai qabr may unki tabaah
+  Sayyeda ka aaj pehlu aur zakhmi ho gaya
+  Aur haalat ho gayi hai qabr mein un ki tabaah
   Ro ke kehti hai ke phir pehlu mera zakhmi hua
 
   9
-  Chand taare ro ke karte hai jigar afgaar bain
-  Dayam o yazdan lahoo rote hai behrobar ke nain
-  Kya qayamat aagayi mushkil kusha zakhmi hua
+  Chaand taare ro ke karte hai jigar afgaar bain
+  Daayam o Yazdaaṅ lahu rote haiṅ bahr o bar ke nain
+  Kya qayaamat aa gayi mushkil kusha zakhmi hua
 # source_id: nohayonline:8c56bcb27af45cffe615
 # source_url: https://www.nohayonline.com/details_content.php?id=1460
 # raw_sha256: f1440fd104df501d5838e795204b1a46a98117672ddacdad263c04f0d9ced364
@@ -71,7 +72,7 @@ romanLyrics: |-
 
 ۲
 یاد مادر اور بھی شدت سے تڑپانے لگی
-غیر حالت ہوگیء زینب بھی غش کھانے لگی
+غیر حالت ہو گئی زینب بھی غش کھانے لگی
 جب سنا مسجد میں بابا بے خطا زخمی ہوا
 
 ۳
@@ -86,25 +87,25 @@ romanLyrics: |-
 
 ۵
 آیتوں کے درمیاں کہرام تھا کہرام تھا
-خیمہء قرآن میں چاروں طرف ہنگام تھا
-وقتِ سجدہ ہاے فخر انبیاء زخمی ہوا
+خیمۂ قرآن میں چاروں طرف ہنگام تھا
+وقتِ سجدہ ہائے فخر انبیاء زخمی ہوا
 
 ۶
 دیکھ کر حیدر کو ابھرا لب پہ زینب کے سخن
-اب کسے بابا کہیں گے بولیےء بھیا حسن
-ہوگیء بے اماں بابا میرا زخمی ہوا
+اب کسے بابا کہیں گے بولیے بھیا حسن
+ہو گئی بے اماں بابا میرا زخمی ہوا
 
 ۷
 تھا یہی بچوں کا نوحہ یا نبی فریاد ہے
-آیےء بہر مدد یہ ساعتِ امداد ہے
-دیکھیےء مسجد میں شاہ دو سرا زخمی ہوا
+آئیے بہر مدد یہ ساعتِ امداد ہے
+دیکھیے مسجد میں شاہ دو سرا زخمی ہوا
 
 ۸
 سیدہ کا آج پہلو اور زخمی ہو گیا
-اور حالت ہو گیء ہے قبر میں انکی تباہ
-روکے کہتی ہے کہ پھر پہلو میرا زخمی ہوا
+اور حالت ہو گئی ہے قبر میں ان کی تباہ
+رو کے کہتی ہے کہ پھر پہلو میرا زخمی ہوا
 
 ۹
 چاند تارے رو کے کرتے ہے جگر افگار بین
-دایم و یزداں لہو روتے ہیں بحروبر کے نین
-کیا قیامت آگیء مشکل کشا زخمی ہوا
+دایم و یزداں لہو روتے ہیں بحر و بر کے نین
+کیا قیامت آ گئی مشکل کشا زخمی ہوا

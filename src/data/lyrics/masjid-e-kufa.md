@@ -1,44 +1,45 @@
 ---
 title: "مسجد کوفہ سے لوگوں آ رہی ہے یہ صدا"
-alternateTitle: "Masjid E Kufa"
+alternateTitle: "Masjid-e-Kufa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sajid Jafri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Masjid e kufa se logon aa rahi hai ye sada
-  Jo nabi ka jaanashin tha wo ali maara gaya
+  Masjid-e-Kufa se logoṅ aa rahi hai ye sada
+  Jo Nabi ka jaanashiṅ tha wo Ali maara gaya
 
   1
-  Jis ki aamad ke liye dewaar e kaaba shak hui
-  Halaat e sajda may uska khoon masjid may baha
+  Jis ki aamad ke liye diwaar-e-Kaaba shaq hui
+  Haalat-e-sajda mein us ka khun masjid mein baha
 
   2
-  Saazish e ahle saqeefa kaam apna kar gayi
-  Aaj sajde may ali par chal gayi taygh e jafa
+  Saazish-e-ahl-e-Saqifa kaam apna kar gayi
+  Aaj sajde mein Ali par chal gayi tegh-e-jafa
 
   3
-  Kufiyon khushiyan manao qatl hyder ho gaye
-  Khana e zehra may lekin aaj hai matam bapa
+  Kufiyoṅ khushiyaṅ manaao qatl Haidar ho gaya
+  Khaana-e-Zehra mein lekin aaj hai maatam bapa
 
   4
-  Kis tarha zainab ne sunli ye qayamat ki khabar
-  Hausla bibi ko koi dene waala bhi na tha
+  Kis tarah Zainab ne sun li ye qayaamat ki khabar
+  Hausla Bibi ko koi dene waala bhi na tha
 
   5
-  Ambiya nauha kuna hai rote hai jinn o bashar
-  Jaa raha hai aaj dunya se ali sher e khuda
+  Ambiya nauha kunaṅ hai rote haiṅ jin o bashar
+  Jaa raha hai aaj duniya se Ali sher-e-Khuda
 
   6
-  Momino tum aaj milkar pursa do hasnain ko
+  Mominoṅ tum aaj mil kar pursa do Hasnain ko
   Uth gaya hai un ke sar se aaj saaya baap ka
 
   7
   Jafri mushkil kusha ke qatl ka nauha hai ye
-  Jo musalle par usi ke khoon se likha gaya
+  Jo musalle par usi ke khun se likha gaya
 # source_id: nohayonline:68eba41aef88c315bd34
 # source_url: https://www.nohayonline.com/details_content.php?id=964
 # raw_sha256: 59f9089dbf95b3578ff5bf199d588a24dca6102b0cd33987c88d3809548e1b2a
@@ -51,8 +52,8 @@ romanLyrics: |-
 حالتِ سجدہ میں اس کا خون مسجد میں بہا
 
 ۲
-سازش اہل سقیفہ کام اپنا کر گیء
-آج سجدے میں علی پر چل گیء جفا
+سازش اہل سقیفہ کام اپنا کر گئی
+آج سجدے میں علی پر چل گئی تیغِ جفا
 
 ۳
 کوفیوں خوشیاں مناؤ قتل حیدر ہو گیا
@@ -60,7 +61,7 @@ romanLyrics: |-
 
 ۴
 کس طرح زینب نے سن لی یہ قیامت کی خبر
-حوصلہ بی بی کو کوئی دینے والا بھی نہ تھا
+حوصلہ بی‌بی کو کوئی دینے والا بھی نہ تھا
 
 ۵
 انبیاء نوحہ کناں ہے روتے ہیں جن و بشر
