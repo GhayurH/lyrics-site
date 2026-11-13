@@ -1,44 +1,45 @@
 ---
 title: "لشکرِ شاہِ دیں اُداس نہیں"
-alternateTitle: "Lashkare Shahe Deen"
+alternateTitle: "Lashkar-e-Shaah-e-Diṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
-aliases: []
+aliases: ["Lashkare Shahe Deen"]
 published: false
 romanLyrics: |-
-  Lashkare shaahe deen udaas nahi
-  Kul bahattar hai aur hai raas nahi
+  Lashkar-e-Shaah-e-diṅ udaas nahiṅ
+  Kul bahattar haiṅ aur hai raas nahiṅ
 
   1
-  Hosh qasim ki jang ne khoye
-  Be sare sad ke hawaas nahi
+  Hosh Qasim ki jang ne khoye
+  Be sar-e-sad ke hawaas nahiṅ
 
   2
-  Dil se baatein ye karti thi sughra
-  Shaah aaye safar se aas nahi
+  Dil se baateṅ ye karti thi Sughra
+  Shaah aaye safar se aas nahiṅ
 
   3
-  Yun lutay sheh ke baad ahle haram
-  Ek chadar kisi ke paas nahi
+  Yuṅ lute Shah ke baad ahl-e-haram
+  Ek chaadar kisi ke paas nahiṅ
 
   4
-  Ran mein asghar ko le chale hai hussain
-  Chaon teeron ki inko raas nahi
+  Ran meiṅ Asghar ko le chale haiṅ Husain
+  Chhaaoṅ tiroṅ ki inko raas nahiṅ
 
   5
-  Qabre asghar pe maa ye kehti thi
-  Kyun meri jaan ab to pyaas nahi
+  Qabr-e-Asghar pe maaṅ ye kehti thi
+  Kiuṅ meri jaan ab to pyaas nahiṅ
 
   6
-  Qabr tanhai aur ali asghar
-  Maa behan koi aas paas nahi
+  Qabr tanhaai aur Ali Asghar
+  Maaṅ behan koi aas paas nahiṅ
 
   7
-  Aal o quran pe hai bina hamid
-  Apna emaan be-asaas nahi
+  Aal o Quraan pe hai bina Hamid
+  Apna imaaṅ beasaas nahiṅ
 # source_id: nohayonline:432551d80cd487152a49
 # source_url: https://www.nohayonline.com/details_content.php?id=535
 # raw_sha256: 3641072ce14e2087c0a8423b6f1bec31ccb96b4cb8a72936ff08c0ca5ce9a440
@@ -48,7 +49,7 @@ romanLyrics: |-
 
 ۱
 ہوش قاسم کی جنگ نے کھوئے
-بے سرِ سد کے ہواس نہیں
+بے سرِ سد کے حواس نہیں
 
 ۲
 دل سے باتیں یہ کرتی تھی صغرا
@@ -60,7 +61,7 @@ romanLyrics: |-
 
 ۴
 رَن میں اصغر کو لے چلے ہیں حُسین
-چھائوں تیروں کی ان کو راس نہیں
+چھاؤں تیروں کی ان کو راس نہیں
 
 ۵
 قبرِ اصغر پہ ماں یہ کہتی تھی
@@ -71,5 +72,5 @@ romanLyrics: |-
 ماں بہن کوئی آس پاس نہیں
 
 ۷
-آل و قُر آن پہ ہے بِنا حامد
+آل و قُرآن پہ ہے بِنا حامد
 اپنا ایماں بے اساس نہیں

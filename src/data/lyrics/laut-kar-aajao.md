@@ -1,59 +1,60 @@
 ---
 title: "خیمے کے دروازے سے یہ دی سکینہ نے صدا"
-alternateTitle: "Laut Kar Aajao"
+alternateTitle: "Laut Kar Aa Jaao"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Najaf Murshidabadi"
+reciter: "Munawar Hussain"
 tags: ["noImage"]
-aliases: []
+aliases: ["Laut Kar Aajao"]
 published: false
 romanLyrics: |-
-  Qaime ke darwaze se ye di sakina ne sada
-  Laut kar aajao wapas ho kahan ammu
-  Ho gaya pardes mein ab jurm pani maangna
-  Laut kar aajao waapas ho kahan ammu
+  Khaime ke darwaaze se ye di Sakina ne sada
+  Laut kar aa jaao waapas ho kahaaṅ ammu
+  Ho gaya pardes meiṅ ab jurm paani maangna
+  Laut kar aa jaao waapas ho kahaaṅ ammu
 
   1
-  Hoo khadi qaime ke dar par khaali kooza thaam kar
-  Pyaas ki shiddat nahi seh paungi mai lamha bhar
-  Phat'ta hai gham se jigar aur khushk hai mera gala
+  Huṅ khari khaime ke dar par khaali kuza thaam kar
+  Pyaas ki shiddat nahiṅ seh paauṅ gi maiṅ lamha bhar
+  Phatta hai gham se jigar aur khushk hai mera gala
 
   2
-  Yaad ab aate hai mujhko guzre jo yasrab mein din
-  Saamne rakhte thay pani kuch zuban se bole bin
+  Yaad ab aate haiṅ mujhko guzre jo Yasrab meiṅ din
+  Saamne rakhte the paani kuch zabaaṅ se bole bin
   Lamha bhar bhi pyaas ka ehsaas na hone diya
 
   3
-  Ho gaya maloom ab to pyaas kehte hai kise
-  Kya khabar thi din ye mujhko bhi padenge dekhne
-  Char saala umr mein ye dard hai sehna pada
+  Ho gaya maalum ab to pyaas kehte haiṅ kise
+  Kya khabar thi din ye mujhko bhi pareṅ ge dekhne
+  Chaar saala umr meiṅ ye dard hai sehna para
 
   4
-  Paas aate thay hamesha meri ek aawaz par
-  Dekh kar hairaan hoo ab badle se andaaz par
-  Kyun nahi aate palat kar kya hui mujhse khata
+  Paas aate the hamesha meri ek aawaaz par
+  Dekh kar hairaaṅ huṅ ab badle se andaaz par
+  Kiuṅ nahiṅ aate palat kar kya hui mujhse khata
 
   5
-  Kho na jaaye pyaas ki in wadiyon mein hum kahin
-  Lag raha hai ab banegi shaam tak turbat yahin
-  Daalne turbat pe pani aaoge kya ab chacha
+  Kho na jaaye pyaas ki in waadiyoṅ meiṅ ham kahiṅ
+  Lag raha hai ab banegi shaam tak turbat yahiṅ
+  Daalne turbat pe paani aaoge kya ab chacha
 
   6
-  Sabr rakhe kis tarha se bhai bhi cheh maah ka
-  Pani maange kis tahra se bhai bhi cheh maah ka
-  Chand lamhon mein hai lagta aayegi usko qaza
+  Sabr rakhe kis tarah se bhaai bhi chhe maah ka
+  Paani maange kis tarah se bhaai bhi chhe maah ka
+  Chand lamhoṅ meiṅ hai lagta aayegi usko qaza
 
   7
-  Mai bujha'ungi chacha jaan apne hi ashkon se pyaas
+  Maiṅ bujhaauṅ gi chacha jaaṅ apne hi ashkoṅ se pyaas
   Hai dua ke jald aao khairiyat se mere paas
-  Ab kabhi na pyaas ka shikwa karungi ba-khuda
+  Ab kabhi na pyaas ka shikwa karuṅ gi ba Khuda
 
   8
-  Aap hote to munaver hoti meri kayenaat
-  Aap ke bin ho gayi hai ab andheri kayenaat
-  Likh ke ye nauha najaf bhi karta hai aah o buka
+  Aap hote to munawwar hoti meri kaainaat
+  Aap ke bin ho gayi hai ab andheri kaainaat
+  Likh ke ye nauha Najaf bhi karta hai aah o buka
 # source_id: nohayonline:27cb5f1845b051dcdaa3
 # source_url: https://www.nohayonline.com/details_content.php?id=988
 # raw_sha256: ca528406d1ee0b1bf2409abb493327b89ac2f8fef532cca2e0ceccdf7fdce1cf
@@ -65,12 +66,12 @@ romanLyrics: |-
 
 ۱
 ہو کھڑی خیمے کے در پر خالی کوزہ تھام کر
-پیاس کی شدت نہیں سہہ پاؤں گی میں لمحہ بھر
+پیاس کی شدت نہیں سہ پاؤں گی میں لمحہ بھر
 پھٹتا ہے غم سے جگر اور خشک ہے میرا گلا
 
 ۲
 یاد اب آتے ہیں مجھکو گزرے جو یثرب میں دن
-سامنے رخت تھے پانی کچھ زباں سے بولے بن
+سامنے رکھتے تھے پانی کچھ زباں سے بولے بن
 لمحہ بھر بھی پیاس کا احساس نہ ہونے دیا
 
 ۳
@@ -81,7 +82,7 @@ romanLyrics: |-
 ۴
 پاس آتے تھے ہمیشہ میری اک آواز پر
 دیکھ کر حیراں ہوں اب بدلے سے انداز پر
-کیوں نہیں آتے پلٹ کر کیا ہوی مجھ سے خطا
+کیوں نہیں آتے پلٹ کر کیا ہوئی مجھ سے خطا
 
 ۵
 کھو نہ جائے پیاس کی ان وادیوں میں ہم کہیں
@@ -89,9 +90,9 @@ romanLyrics: |-
 ڈالنے تربت پہ پانی آؤ گے کیا اب چچا
 
 ۶
-صبر رکھے کس طرح سے بھای بھی چھ ماہ کا
+صبر رکھے کس طرح سے بھائی بھی چھ ماہ کا
 پانی مانگے کس طرح سے بھائی بھی چھ ماہ کا
-چاند لمحوں میں ہے لگتا آے گی اس کو قضا
+چند لمحوں میں ہے لگتا آئے گی اس کو قضا
 
 ۷
 میں بجھاؤں گی چچا جاں اپنے ہی اشکوں سے پیاس
@@ -99,6 +100,6 @@ romanLyrics: |-
 اب کبھی نہ پیاس کا شکوہ کروں گی با خدا
 
 ۸
-آپ ہوتے تو منور ہوتی میری کاینات
-آپ کے بن ہو گیء ہے اب اندھیری کاینات
+آپ ہوتے تو منور ہوتی میری کائنات
+آپ کے بن ہو گئی ہے اب اندھیری کائنات
 لکھ کے یہ نوحہ نجف بھی کرتا ہے آہ و بکا
