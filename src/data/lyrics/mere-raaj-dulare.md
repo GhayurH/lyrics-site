@@ -6,74 +6,77 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Bilal Kazmi"
+reciter: "Irfan Husain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Mere raaj dulaare qasim
-  Haye qasim haye qasim
-  Farwa ke labon par maqtal mein
-  Thay dard ke naare qasim
-  Hai chashme falak purnam purnam
-  Hai arsh pe bhi tera matam
-  Rote hai teri pamaali par
-  Ye chand sitaare qasim
+  Mere raaj dulaare Qasim
+  Haaye Qasim haaye Qasim
+  Farwa ke laboṅ par maqtal mein
+  The dard ke naare Qasim
+
+  Hai chashm-e-falak purnam purnam
+  Hai arsh pe bhi tera maatam
+  Rote haiṅ teri paamaali par
+  Ye chaand sitaare Qasim
 
   1
-  Pardes mein phirte hai dar dar
-  Ghurbat ki ghatayein hai sar par
-  Ab kaun hame pahunchaye watan
-  Jab tum hi sidhaare qasim
+  Pardes mein phirte haiṅ dar dar
+  Ghurbat ki ghataaeṅ haiṅ sar par
+  Ab kaun hameṅ pahunchaaye watan
+  Jab tum hi sidhaare Qasim
 
   2
-  Tum mujhse juda yun hote ho
-  Kyun khaak pe bikhre sote ho
-  Maqtal se palat kar aa jao
-  Maa zulfein sawaare qasim
+  Tum mujh se juda yuṅ hote ho
+  Kiuṅ khaak pe bikhre sote ho
+  Maqtal se palat kar aa jaao
+  Maaṅ zulfeṅ sawaare Qasim
 
   3
-  Waari bhi hua nazron se niha
-  Aur tum bhi sidhaare suye jina
+  Waari bhi hua nazroṅ se nihaaṅ
+  Aur tum bhi sidhaare su-e-jinaaṅ
   Ye umr meri guzregi bhala
-  Ab kiske sahare qasim
+  Ab kis ke sahaare Qasim
 
   4
-  Tu teen dino ka pyasa hai
-  Kausar mein talatum barpa hai
-  Teri pyaas pa girya girya hai
-  Tasneem ke dhaare qasim
+  Tu tin dinoṅ ka pyaasa hai
+  Kausar mein talaatum barpa hai
+  Teri pyaas pe girya girya hai
+  Tasnim ke dhaare Qasim
 
   5
-  Ki fauje jafa ne kaisi jafa
-  Jeete ji tujhe pamaal kiya
-  Yun dasht mein tum bikhre jaise
-  Quran ke paare qasim
+  Ki fauj-e-jafa ne kaisi jafa
+  Jite ji tujhe paamaal kiya
+  Yuṅ dasht mein tum bikhre jaise
+  Quraan ke paare Qasim
 
   6
-  Is soone soone jangal se
-  Tum karbobala ke maqtal se
-  Ay laal palat kar aajao
-  Maa tumko pukaare qasim
+  Is sune sune jangal se
+  Tum Karbobala ke maqtal se
+  Ae laal palat kar aa jaao
+  Maaṅ tum ko pukaare Qasim
 
   7
-  Rote thay haram phat'te thay jigar
+  Rote the haram phatte the jigar
   Hota tha bapa us dam mehshar
   Jab kehti thi ye dukhiya ro kar
-  Mere aankh ke taare qasim
+  Mere aankh ke taare Qasim
 
   8
-  Khairaat pe shahe zeeshan ki
-  Rakh laaj bilal o irfan ki
-  Mehshar mein khade hai ye dono
-  Bas tere sahaare qasim
+  Khairaat pe Shah-e-Zishaaṅ ki
+  Rakh laaj Bilal o Irfaaṅ ki
+  Mehshar mein khare haiṅ ye donoṅ
+  Bas tere sahaare Qasim
 # source_id: nohayonline:6a4096d0e5c0791cca28
 # source_url: https://www.nohayonline.com/details_content.php?id=890
 # raw_sha256: 2ceb8ceb3f1c47069840e22ce34dff6bb8e41041fd7542e33bfb3c7ec48d62e0
 ---
 میرے راج دلارے قاسم
-ہاے قاسم ہاے قاسم
+ہائے قاسم ہائے قاسم
 فروا کے لبوں پر مقتل میں
 تھے درد کے مارے قاسم
+
 ہے چشم فلک پرنم پرنم
 ہے عرش پہ بھی تیرا ماتم
 روتے ہیں تیری پامالی پر
@@ -82,7 +85,7 @@ romanLyrics: |-
 ۱
 پردیس میں پھرتے ہیں در در
 غربت کی گھٹائیں ہیں سر پر
-اب کون ہمیں پہنچاے وطن
+اب کون ہمیں پہنچائے وطن
 جب تم ہی سدھارے قاسم
 
 ۲
@@ -93,14 +96,14 @@ romanLyrics: |-
 
 ۳
 واری بھی ہوا نظروں سے نہاں
-اور تم بھی سدھارے سوے جناں
+اور تم بھی سدھارے سوئے جناں
 یہ عمر میری گزرے گی بھلا
 اب کس کے سہارے قاسم
 
 ۴
 تو تین دنوں کا پیاسا ہے
-کوثر میں طلاتم برپا ہے
-تیری پیاس پہ گریا گریا ہے
+کوثر میں تلاطم برپا ہے
+تیری پیاس پہ گریہ گریہ ہے
 تسنیم کے دھارے قاسم
 
 ۵
@@ -118,11 +121,11 @@ romanLyrics: |-
 ۷
 روتے تھے حرم پھٹتے تھے جگر
 ہوتا تھا بپا اس دم محشر
-جب کہتی تھی یہ دکھیا روکر
+جب کہتی تھی یہ دکھیا رو کر
 میرے آنکھ کے تارے قاسم
 
 ۸
-خیرات پہ شہ ذیشاں کی
+خیرات پہ شہ ذی شاں کی
 رکھ لاج بلال و عرفاں کی
 محشر میں کھڑے ہیں یہ دونوں
 بس تیرے سہارے قاسم
