@@ -1,108 +1,109 @@
 ---
-title: "لاش عباس کی سرور سے اٹھای نہ گیء"
+title: "لاش عباس کی سرور سے اٹھائی نہ گئی"
 alternateTitle: "Laash Abbas Ki"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Raza"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Laash abbas ki sarwar se uthayi na gayi
-  Laash tukdon may thi ek jaa pe samayi na gayi
+  Laash Abbas ki Sarwar se uthaai na gayi
+  Laash tukroṅ mein thi ek jaa pe samaai na gayi
 
   1
-  Bhai ki laash pe kehte thay ye mazloom hussain
-  Mujhse baba ki ye tasveer bachayi na gayi
+  Bhaai ki laash pe kehte the ye mazlum Husain
+  Mujh se Baaba ki ye taswir bachaai na gayi
 
   2
-  Sheh ne akbar ko bula to liya maqtal may magar
-  Kaifiyat bhai ki bete ko batayi na gayi
+  Shah ne Akbar ko bula to liya maqtal mein magar
+  Kaifiyat bhaai ki bete ko bataai na gayi
 
   3
-  Mashk se pani baha kat gaye abbas ke haath
-  Tishnagi bali sakina ki bujhayi na gayi
+  Mashk se paani baha kat gaye Abbas ke haath
+  Tishnagi baali Sakina ki bujhaai na gayi
 
   4
-  Ye to ghurbat hai tere laal ki ay umme rabab
-  Warna naize pe koi laash uthayi na gayi
+  Ye to ghurbat hai tere laal ki ae Umm-e-Rabaab
+  Warna naize pe koi laash uthaai na gayi
 
   5
-  Dekh kar laasha e qasim ko ye farwa ne kaha
-  Aisi baraat kisi dulha ki aayi na gayi
+  Dekh kar laasha-e-Qaasim ko ye Farwa ne kaha
+  Aisi baraat kisi dulha ki aai na gayi
 
   6
-  Kar diye bhai pe qurban pisar zainab ne
-  Phir kabhi rasm ye dunya may nibhayi na gayi
+  Kar diye bhaai pe qurbaan pisar Zainab ne
+  Phir kabhi rasm ye dunya mein nibhaai na gayi
 
   7
-  Chauda sadiyon se bahate hai samandar aansu
-  Aag sadaat ke qaimon ki bujhayi na gayi
+  Chaudah sadiyoṅ se bahaate haiṅ samandar aansu
+  Aag Saadaat ke khaimoṅ ki bujhaai na gayi
 
   8
-  Baad e shabbir hua seena ba seena matam
-  Ghar may sadaat ke phir eid manayi na gayi
+  Baad-e-Shabbir hua sina ba sina maatam
+  Ghar mein Saadaat ke phir Eid manaai na gayi
 
   9
-  Ran se har ek ke laashe ko utha laaye hussain
-  Laash shabbir ki maqtal se uthayi na gayi
+  Ran se har ek ke laashe ko uthaa laaye Husain
+  Laash Shabbir ki maqtal se uthaai na gayi
 
   10
-  Jaise maa roti hai kuch aise sakina royi
-  Laash mazloom ki beti se chudayi na gayi
+  Jaise maaṅ roti hai kuchh aise Sakina roi
+  Laash mazlum ki beti se chhuraai na gayi
 
   11
-  Jis tarha ibn e mazahir ne nibhayi yasir
-  Dosti aisi kisi se bhi nibhayi na gayi
+  Jis tarah Ibn-e-Mazaahir ne nibhaai Yasir
+  Dosti aisi kisi se bhi nibhaai na gayi
 # source_id: nohayonline:0a16509bae56035d0229
 # source_url: https://www.nohayonline.com/details_content.php?id=2555
 # raw_sha256: 9676f80a3f32391c0dc07bfbc8b95cb92bd058ab5d9c425451e2440d33bd4a60
 ---
-لاش عباس کی سرور سے اٹھای نہ گیء
-لاش ٹکڑوں میں تھی اک جا پہ سمای نہ گیء
+لاش عباس کی سرور سے اٹھائی نہ گئی
+لاش ٹکڑوں میں تھی اک جا پہ سمائی نہ گئی
 
 ۱
-بھای کی لاش پہ کہتے تھے یہ مظلوم حسین
-مجھ سے بابا کی یہ تصویر بچای نہ گیء
+بھائی کی لاش پہ کہتے تھے یہ مظلوم حسین
+مجھ سے بابا کی یہ تصویر بچائی نہ گئی
 
 ۲
 شہ نے اکبر کو بلا تو لیا مقتل میں مگر
-کیفیت بھای کی بیٹے کو بتای نہ گیء
+کیفیت بھائی کی بیٹے کو بتائی نہ گئی
 
 ۳
 مشک سے پانی بہا کٹ گئے عباس کے ہاتھ
-تشنگی بالی سکینہ کی بجھای نہ گیء
+تشنگی بالی سکینہ کی بجھائی نہ گئی
 
 ۴
 یہ تو غربت ہے تیرے لال کی اے ام رباب
-ورنہ نیزے پہ کوئی لاش اٹھای نہ گیء
+ورنہ نیزے پہ کوئی لاش اٹھائی نہ گئی
 
 ۵
-دیکھ کر لاشہء قاسم کو یہ فروہ نے کہا
-ایسی بارات کسی دولہا کی آی نہ گیء
+دیکھ کر لاشۂ قاسم کو یہ فروہ نے کہا
+ایسی بارات کسی دولہا کی آئی نہ گئی
 
 ۶
-کر دیےء بھای پہ قربان پسر زینب نے
-پھر کبھی رسم یہ دنیا میں نبھای نہ گیء
+کر دیے بھائی پہ قربان پسر زینب نے
+پھر کبھی رسم یہ دنیا میں نبھائی نہ گئی
 
 ۷
-چودہ صدیوں سے بہاتے ہیں سمندر آنسوں
-آگ سادات کے خیموں کی بجھای نہ گیء
+چودہ صدیوں سے بہاتے ہیں سمندر آنسو
+آگ سادات کے خیموں کی بجھائی نہ گئی
 
 ۸
 بعد شبیر ہوا سینہ بہ سینہ ماتم
-گھر میں سادات کے پھر عید منائی نہ گیء
+گھر میں سادات کے پھر عید منائی نہ گئی
 
 ۹
-رن سے ہر ایک کے لاشے کو اٹھا لاے حسین
-لاش شبیر کی مقتل سے اٹھای نہ گیء
+رن سے ہر ایک کے لاشے کو اٹھا لائے حسین
+لاش شبیر کی مقتل سے اٹھائی نہ گئی
 
 ۱۰
-جیسے ماں روتی ہے کچھ ایسے سکینہ روی
-لاش مظلوم کی بیٹی سے چھڑای نہ گیء
+جیسے ماں روتی ہے کچھ ایسے سکینہ روئی
+لاش مظلوم کی بیٹی سے چھڑائی نہ گئی
 
 ۱۱
-جس طرح ابنِ مظاہر نے نبھای یاسر
-دوستی ایسی کسی سے بھی نبھای نہ گیء
+جس طرح ابنِ مظاہر نے نبھائی یاسر
+دوستی ایسی کسی سے بھی نبھائی نہ گئی
