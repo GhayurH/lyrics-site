@@ -6,79 +6,80 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Bilal Kazmi"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Dekh kar bekasi bhatije ki
-  Boli ro ro ke zainab e lachaar
-  Ab na barsao pusht par kode
-  Mar na jaye kahin mera bemaar
+  Boli ro ro ke Zainab-e-laachaar
+  Ab na barsaao pusht par kore
+  Mar na jaaye kahiṅ mera bemaar
   Qaidi hai bemaar qaidi hai bemaar
   
   1
-  Har lamha kodon ki aziyat
-  Durron ki uftaad
-  Haye mere bemaar ki ghurbat
-  Kis se kare faryaad
-  Sab raste kanton se bhare hai
+  Har lamha koroṅ ki aziyat
+  Durroṅ ki uftaad
+  Haaye mere bemaar ki ghurbat
+  Kis se kareṅ faryaad
+  Sab raste kaantoṅ se bhare haiṅ
   Chalna hai dushwaar
   
   2
-  Tauqe garan hai gardan mein
-  Aur pairon mein zanjeer
-  Sar hai jhukaye sharm ke maare
-  Ibne shahe dilgeer
-  Saath haram hai be-parda
+  Tauq-e-garaaṅ hai gardan mein
+  Aur pairoṅ mein zanjir
+  Sar hai jhukaaye sharm ke maare
+  Ibn-e-shah-e-dilgir
+  Saath haram haiṅ beparda
   Aur shaam ka hai bazaar
   
   3
-  Sabr kiye ayoob tumhare
-  Paas kahan tasveerein
-  Dhoop hai aise jalne lagi hai
-  Lohe ki zanjeerein
-  Saare badan mein pad gaye chaale
-  Haye mera bemaar
+  Sabr kiye Ayub tumhaare
+  Paas kahaaṅ tasvireṅ
+  Dhup hai aisi jalne lagi hai
+  Lohe ki zanjireṅ
+  Saare badan mein par gaye chhaale
+  Haaye mera bemaar
   
   4
-  Qaid e sitam mein maut jo aayi
-  Binte shahe muztar ko
-  Khoon bhare kurte mein ye keh kar
+  Qaid-e-sitam mein maut jo aayi
+  Bint-e-shah-e-muztar ko
+  Khun bhare kurte mein ye keh kar
   Dafn kiya khwahar ko
-  Tujhko kafan bhi de nahi sakta
+  Tujhko kafan bhi de nahiṅ sakta
   Bhai hai laachar
   
   5
-  Thaam ke bedi waqte safar
+  Thaam ke beri waqt-e-safar
   Ro ro ke kaha maula ne
   Kaise katega shaam ka rasta
   Ye to khuda hi jaane
-  Aisi hai kuch zauf o naqahat
+  Aisi hai kuchh zauf o naqaahat
   Chalna hai dushwaar
   
   6
   Mumkin hai maula ne kaha ho
-  Laashe jari ke paas
+  Laash-e-jari ke paas
   Dekh sako to dekh lo uth kar
-  Mere chacha abbas
+  Mere chacha Abbas
   Aap ka beta ban ke chala hai
   Kunbe ka salaar
   
   7
-  Sharm mujhe khaye jaati hai
-  Kaash abhi mar jaaun
-  Is manzar ko dekh sakun wo
-  Taab kahan se laaun
-  Be parda hai maa behne
+  Sharm mujhe khaaye jaati hai
+  Kaash abhi mar jaauṅ
+  Is manzar ko dekh sakuṅ wo
+  Taab kahaaṅ se laauṅ
+  Beparda hai maaṅ behneṅ
   Aur shaam ka hai darbar
   
   8
   Shaam ke jaanib kaise chali thi
   Paigambar ki aal
-  Kaise padega aamir usko
-  Kaise likhun mai bilal
+  Kaise parega Aamir usko
+  Kaise likhuṅ main Bilal
   Aage aage naize par tha
-  Farqe shahe abraar
+  Farq-e-shah-e-abraar
 # source_id: nohayonline:c5e4c4e2eece58e25889
 # source_url: https://www.nohayonline.com/details_content.php?id=1289
 # raw_sha256: dfebd8e02c58de2aa21fea43c14868ad476f25d72131a17aa4d367f0c86dd3db
@@ -86,43 +87,43 @@ romanLyrics: |-
 دیکھ کر بے کسی بھتیجے کی
 بولی رو کے زینب لاچار
 اب نہ برساؤ پشت پر کوڑے
-مر نہ جاے کہیں میرا بیمار
+مر نہ جائے کہیں میرا بیمار
 قیدی ہے بیمار قیدی ہے بیمار
 
 ۱
 ہر لمحہ کوڑوں کی اذیت
-دروں کی افتاد
-ہاے میرے بیمار کی غربت
+دُرّوں کی افتاد
+ہائے میرے بیمار کی غربت
 کس سے کریں فریاد
 سب رستے کانٹوں سے بھرے ہیں
 چلنا ہے دشوار
 
 ۲
-طوق گراں ہے گردن میں
+طوقِ گراں ہے گردن میں
 اور پیروں میں زنجیر
-سر ہے جھکاے شرم کے مارے
-ابنِ شہ دلگیر
+سر ہے جھکائے شرم کے مارے
+ابنِ شہِ دلگیر
 ساتھ حرم ہیں بے پردہ
 اور شام کا ہے بازار
 
 ۳
-صبر کیےء عیوب تمہارے
+صبر کیے عیوب تمہارے
 پاس کہاں تصویریں
 دھوپ ہے ایسی جلنے لگی ہے
 لوہے کی زنجیریں
-سارے بدن میں پڑ گےء چھالے
-ہاے میرا بیمار
+سارے بدن میں پڑ گئے چھالے
+ہائے میرا بیمار
 
 ۴
-قید ستم میں موت جو آی
-بنت شہ مضطر کو
+قیدِ ستم میں موت جو آئی
+بنتِ شہِ مضطر کو
 خون بھرے کرتے میں یہ کہہ کر
 دفن کیا خواہر کو
 تجھکو کفن بھی دے نہیں سکتا
-بھای ہے لاچار
+بھائی ہے لاچار
 
 ۵
-تھام کے بیڑی وقت سفر
+تھام کے بیڑی وقتِ سفر
 رو رو کے کہا مولا نے
 کیسے کٹے گا شام کا رستہ
 یہ تو خدا ہی جانے
@@ -131,14 +132,14 @@ romanLyrics: |-
 
 ۶
 ممکن ہے مولا نے کہا ہو
-لاش جری کے پاس
+لاشِ جری کے پاس
 دیکھ سکو تو دیکھ لو اٹھ کر
 میرے چچا عباس
 آپ کا بیٹا بن کے چلا ہے
 کنبے کا سالار
 
 ۷
-شرم مجھے کھاے جاتی ہے
+شرم مجھے کھائے جاتی ہے
 کاش ابھی مر جاؤں
 اس منظر کو دیکھ سکوں وہ
 تاب کہاں سے لاؤں
@@ -151,4 +152,4 @@ romanLyrics: |-
 کیسے پڑے گا عامر اس کو
 کیسے لکھوں میں بلال
 آگے آگے نیزے پر تھا
-فرق شہ ابرار
+فرقِ شہِ ابرار
