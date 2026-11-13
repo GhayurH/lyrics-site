@@ -6,58 +6,59 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Abbas Zaidi"
+reciter: "Irfan Haider"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Khafela hogaya jab shaam ke zindan se riha
-  Karbala aane hi waali thi suno ahle azaa
-  Khud ko naaqe se gira kar yehi zainab ne kaha
-  Abbas abbas bhaiya abbas
+  Qaafila ho gaya jab Shaam ke zindaaṅ se riha
+  Karbala aane hi waali thi suno Ahl-e-Aza
+  Khud ko naaqe se gira kar yehi Zainab ne kaha
+  Abbas Abbas bhaiya Abbas
+  Lut gayi Fatima Zehra ki kamaai Abbas
+  Haaye seh roz ke pyaase mere bhai Abbas
 
   1
-  Lut gayi fatema zehra ki kamayi abbas
-  Haye seh roz ke pyase mere bhai abbas
-  Jaan parde ki hifazat ke liye dete thay
-  Naam sunte hi mera nazrein jhuka lete thay
-  Abbas abbas bhaiya abbas
-  Mai teri koi adaa bhool na paayi abbas
+  Jaan parde ki hifaazat ke liye dete the
+  Naam sunte hi mera nazreṅ jhuka lete the
+  Abbas Abbas bhaiya Abbas
+  Main teri koi ada bhul na paayi Abbas
 
   2
-  Yaad baba ki jo tadpati thi aksar mujhko
-  Dekh leti thi tera chehra bula kar tujhko
-  Abbas abbas bhaiya abbas
-  Ab kahan jaaye musibat ki satayi abbas
+  Yaad baaba ki jo tarpaati thi aksar mujh ko
+  Dekh leti thi tera chehra bula kar tujh ko
+  Abbas Abbas bhaiya Abbas
+  Ab kahaaṅ jaaye musibat ki sataayi Abbas
 
   3
-  Pushte sajjad pe tehreer hai raahon ke sitam
-  Naam lele ke tera rote rahe ahle haram
-  Abbas abbas bhaiya abbas
-  Phir bhi shikwa na koi honton pe laayi abbas
+  Pusht-e-Sajjad pe tahrir hai raahoṅ ke sitam
+  Naam le le ke tera rote rahe Ahl-e-Haram
+  Abbas Abbas bhaiya Abbas
+  Phir bhi shikwa na koi hontoṅ pe laayi Abbas
 
   4
-  Uske rukhsaron ki badli hui rangat haye
-  Jisne har mod pe zaalim se tamache khaye
-  Abbas abbas bhaiya abbas
-  Har tamache pe sada ek hi aayi abbas
+  Us ke rukhsaaroṅ ki badli hui rangat haaye
+  Jis ne har mor pe zaalim se tamaanche khaaye
+  Abbas Abbas bhaiya Abbas
+  Har tamaanche pe sada ek hi aayi Abbas
 
   5
-  Koi sunta na tha raahon mein shikayat meri
+  Koi sunta na tha raahoṅ mein shikaayat meri
   Kaash tu dekhta ek baar wo haalat meri
-  Abbas abbas bhaiya abbas
-  Khoon alood thi zainab ki kalayi abbas
+  Abbas Abbas bhaiya Abbas
+  Khun aalud thi Zainab ki kalaai Abbas
 
   6
-  Algharaz khafela darbare jafa jab pahuncha
-  Meri awaaz ko ghairon ne suna wawaila
-  Abbas abbas bhaiya abbas
-  Jurm kya tha jo saza maine ye paayi abbas
+  Algharaz qaafila Darbaar-e-Jafa jab pahuncha
+  Meri aawaaz ko ghairoṅ ne suna waawaila
+  Abbas Abbas bhaiya Abbas
+  Jurm kya tha jo saza main ne ye paayi Abbas
 
   7
-  Roklo akhtar o irfan e aza apna sukhan
-  Faisla kar chuki abbas e dilawar ki bahan
-  Abbas abbas bhaiya abbas
-  Tere tukdon pe palegi ye khudayi abbas
+  Rok lo Akhtar o Irfan-e-Aza apna sukhan
+  Faisla kar chuki Abbas-e-Dilaawar ki bahan
+  Abbas Abbas bhaiya Abbas
+  Tere tukroṅ pe paleṅ ge ye khudaai Abbas
 # source_id: nohayonline:17aa7c7584edc86cdfba
 # source_url: https://www.nohayonline.com/details_content.php?id=3593
 # raw_sha256: a61fb0c5a2f94e07daf9ad11ab70fab1951ce1e883fffd2c7d77d5e6470a6257
@@ -66,44 +67,44 @@ romanLyrics: |-
 کربلا آنے ہی والی تھی سنو اہل عزا
 خود کو ناقے سے گرا کر یہی زینب نے کہا
 عباس عباس بھیا عباس
+لٹ گئی فاطمہ زہرا کی کمائی عباس
+ہائے سہ روز کے پیاسے میرے بھائی عباس
 
 ۱
-لٹ گیء فاطمہ زہرا کی کمائی عباس
-ہاے سہہ روز کے پیاسے میرے بھائی عباس
-جان‌ پردے کی حفاظت کے لئے دیتے تھے
+جان پردے کی حفاظت کے لیے دیتے تھے
 نام سنتے ہی میرا نظریں جھکا لیتے تھے
 عباس عباس بھیا عباس
-میں تیری کوی ادا بھول نہ پای عباس
+میں تیری کوئی ادا بھول نہ پائی عباس
 
 ۲
-یاد بابا کی جو تڑپاتی تھی اکثر مجھکو
-دیکھ لیتی تھی تیرا چہرہ بلا کر تجھکو
+یاد بابا کی جو تڑپاتی تھی اکثر مجھ کو
+دیکھ لیتی تھی تیرا چہرہ بلا کر تجھ کو
 عباس عباس بھیا عباس
-اب کہاں جاے مصیبت کی ستای عباس
+اب کہاں جائے مصیبت کی ستائی عباس
 
 ۳
 پشت سجاد پہ تحریر ہے راہوں کے ستم
 نام لے لے کے تیرا روتے رہے اہل حرم
 عباس عباس بھیا عباس
-پھر بھی شکوہ نہ کوئی ہونٹوں پہ لای عباس
+پھر بھی شکوہ نہ کوئی ہونٹوں پہ لائی عباس
 
 ۴
-اس کے رخساروں کی بدلی ہوئی رنگت ہاے
-جس نے ہر موڑ پہ ظالم سے طمانچے کھاے
+اس کے رخساروں کی بدلی ہوئی رنگت ہائے
+جس نے ہر موڑ پہ ظالم سے طمانچے کھائے
 عباس عباس بھیا عباس
-ہر طمانچے پہ صدا ایک ہی عباس
+ہر طمانچے پہ صدا ایک ہی آئی عباس
 
 ۵
 کوئی سنتا نہ تھا راہوں میں شکایت میری
 کاش تو دیکھتا ایک بار وہ حالت میری
 عباس عباس بھیا عباس
-خون آلود تھی زینب کی کلای عباس
+خون آلود تھی زینب کی کلائی عباس
 
 ۶
 الغرض قافلہ دربار جفا جب پہنچا
 میری آواز کو غیروں نے سنا واویلا
 عباس عباس بھیا عباس
-جرم کیا تھا جو سزا میں نے یہ پای عباس
+جرم کیا تھا جو سزا میں نے یہ پائی عباس
 
 ۷
 روک لو اختر و عرفان عزا اپنا سخن
