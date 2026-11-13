@@ -8,41 +8,42 @@ kalamType: "Noha"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Sachey Bhai"
 romanLyrics: |-
-  Noore muhammadi ka ye aejaz ek hai
-  Chauda hai aks aur rukhe naaz ek hai
+  Nur-e-Muhammadi ka ye aejaaz ek hai
+  Chaudah haiṅ aks aur rukh-e-naaz ek hai
 
   1
-  Ahmed se leke taa ba muhammad har ek ki
-  Banda nawazion ka bhi andaaz ek hai
+  Ahmad se le ke taa ba Muhammad har ek ki
+  Banda nawaaziyoṅ ka bhi andaaz ek hai
 
   2
-  Jaise ali ki zarb ko haasil hai imtiyaz
-  Sajda tamaam sajdon mein mumtaz ek hai
+  Jaise Ali ki zarb ko haasil hai imtiyaaz
+  Sajda tamaam sajdoṅ mein mumtaaz ek hai
 
   3
-  Noke sina pe padh ke bataya hussain ne
-  Quran o ahle bayt ki awaaz ek hai
+  Nok-e-sinaaṅ pe parh ke bataaya Husain ne
+  Quraan o Ahl-e-Bait ki aawaaz ek hai
 
   4
-  Kausar pe ja milenge ye dono rasool se
-  Anjaam inka ek hai aghaaz ek hai
+  Kausar pe jaa mileṅ ge ye donoṅ Rasul se
+  Anjaam in ka ek hai aaghaaz ek hai
 
   5
-  Leh tootne na paaye kabhi ya hussain ki
-  Azm jawan ke waaste ye karz ek hai
+  Lai tutne na paaye kabhi ya Husain ki
+  Azm-e-jawaaṅ ke waaste ye qarz ek hai
 
   6
-  Marna jo jaante hai wohi jee rahe hai aaj
+  Marna jo jaante haiṅ wohi ji rahe haiṅ aaj
   Ho maut zindagi ka yehi raaz ek hai
 
   7
-  Jaati hai jaan jaaye aza e hussain mein
-  Ye to hamare waaste ejaaz ek hai
+  Jaati hai jaan jaaye azaa-e-Husain mein
+  Ye to hamaare waaste aezaaz ek hai
 
   8
-  Ek bhai ek behan ki kahani hai karbala
-  Andaz ek hai asar andaz ek hai
+  Ek bhaai ek behan ki kahaani hai Karbala
+  Andaaz ek hai asar andaaz ek hai
 # source_id: nohayonline:ecdf1603fbcab6124066
 # source_url: https://www.nohayonline.com/details_content.php?id=532
 # raw_sha256: b5810562b98433b7d93796c9c41406ca36f06a2b9ad1297f026d1198633d8be4
@@ -51,7 +52,7 @@ romanLyrics: |-
 چودہ ہیں عکس اور رُخِ ناز ایک ہے
 
 ۱
-احمد سے لے کہ تا با محمد ہر ایک کی
+احمد سے لے کے تا بہ محمد ہر ایک کی
 بندہ نوازیوں کا بھی انداز ایک ہے
 
 ۲
@@ -59,23 +60,23 @@ romanLyrics: |-
 سجدہ تمام سجدوں میں ممتاز ایک ہے
 
 ۳
-نوکِ سناں پہ پڑھ کہ بتایا حُسین نے
-قرآن و اہلیبیت کی آواز ایک ہے
+نوکِ سناں پہ پڑھ کے بتایا حُسین نے
+قرآن و اہلِ بیت کی آواز ایک ہے
 
 ۴
 کوثر پہ جا ملیں گے یہ دونوں رسول سے
 انجام ان کا ایک ہے آغاز ایک ہے
 
 ۵
-لہہ ٹوٹنے نہ پائے کبھی یا حُسین کی
-عظمِ جواں کے واسطے یہ قرض ایک ہے
+لَے ٹوٹنے نہ پائے کبھی یا حُسین کی
+عزمِ جواں کے واسطے یہ قرض ایک ہے
 
 ۶
 مرنا جو جانتے ہیں وہی جی رہے ہیں آج
 ہو موت زندگی کا یہی راز ایک ہے
 
 ۷
-جاتی ہے جان جائے اعزائے حُسین میں
+جاتی ہے جان جائے عزائے حُسین میں
 یہ تو ہمارے واسطے اعزاز ایک ہے
 
 ۸

@@ -9,82 +9,87 @@ poet: "Mazhar Abidi"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Farhan Ali Waris"
 romanLyrics: |-
-  Jab shimr e layeen shohda ke sar kaat ke laaya
-  Shohda ke saron ko pisar e saad ne dekha
-  Sar asghar e masoom ka maujood nahi tha
-  Ye kehte huwe shimr ko paas apne bulaya
-  Haakim mujhe bakhshega nahi tujhko khabar hai
-  Jaa dhoond sar e asghar e masoom kidhar hai
-  Tareekh mein is zulm ka milta hai hawala
-  Zaalim ne lehad khod ke asghar ko nikaala
-  Sar kaat chuka khooli to naiza ko sambhala
-  Naize pe gaya bano ki aaghosh ka paala
+  Jab Shimr-e-laiṅ shuhadaa ke sar kaat ke laaya
+  Shuhadaa ke saroṅ ko pisar-e-Saad ne dekha
+  Sar-e-Asghar-e-maasum ka maujud nahiṅ tha
+  Ye kehte hue Shimr ko paas apne bulaaya
+  Haakim mujhe bakhshega nahiṅ tujhko khabar hai
+  Jaa dhund sar-e-Asghar-e-maasum kidhar hai
+
+  Taarikh mein is zulm ka milta hai hawaala
+  Zaalim ne lahad khod ke Asghar ko nikaala
+  Sar kaat chuka Kholi to naiza ko sambhaala
+  Naize pe gaya Bano ki aaghosh ka paala
+
   Maut bhi nauha karti thi ro kar
-  Bigda hai bano tera muqaddar
-  Nok e sina par nanha sa ek sar
-  Le ke chala hai haye sitamgar
-  Jo saahibe aulaad hai soche to zara sa
-  Kis darja sitam kok jali maa pe hua tha
-  Ghash khaai hui maa ne junhi aankhon ko khola
-  Naize pe sar e asghar e masoom ko dekha
+  Bigra hai Bano tera muqaddar
+
+  Nok-e-sinaaṅ par nanha sa ek sar
+  Le ke chala hai haaye sitamgar
+
+  Jo saahib-e-aulaad hai soche to zara sa
+  Kis darja sitam kok jali maaṅ pe hua tha
+  Ghash khaai hui maaṅ ne junhi aankhoṅ ko khola
+  Naize pe sar-e-Asghar-e-maasum ko dekha
   Thaame kaleja boli wo muztar
-  Saani e zehra dekho ye manzar
-  
+  Saani-e-Zehra dekho ye manzar
+
   1
-  Zainab ne suye lashkar e aada jo nazar ki
-  Sar peet ke ye kehne lagi dard ki maari
-  Ay kushta e shamsheer e jafa ay mere bhai
-  Kya baad e shahadat bhi sitam hota hai koi
-  Tu hi bata ay sabr k e paikar
-  Kaise sambhale dil ko ye maadar
-  
+  Zainab ne su-e-lashkar-e-aadaa jo nazar ki
+  Sar pit ke ye kehne lagi dard ki maari
+  Ae kushta-e-shamshir-e-jafa ae mere bhaai
+  Kya baad-e-shahaadat bhi sitam hota hai koi
+  Tu hi bata ae sabr ke paikar
+  Kaise sambhaale dil ko ye maadar
+
   2
-  Kya zulm mere bacche pe hai dekh khudaya
-  Na jhoole mein paaya na sukoon qabr mein paaya
-  Maa roti hai ye keh ke kahan doodh badhaya
-  Pani ke ewaz teer e sitam halq pe khaaya
-  Pyasa gaya tha dunya se asghar
-  Ab ye sitam hai khaaliq e akbar
-  
+  Kya zulm mere bachche pe hai dekh Khudaaya
+  Na jhule mein paaya na sukuṅ qabr mein paaya
+  Maaṅ roti hai ye keh ke kahaaṅ dudh barhaaya
+  Paani ke ewaz tir-e-sitam halq pe khaaya
+  Pyaasa gaya tha dunya se Asghar
+  Ab ye sitam hai Khaaliq-e-Akbar
+
   3
-  Phir kehne lagi maadar e akbar se lipat kar
-  Athara baras jee to gaya tha tera dilbar
-  Khoon tujhko rulaati hai magar furqat e akbar
-  Ab soch ke kya beet gayi hai mere dil par
-  Godh se jisko le gaye sarwar
-  Dekh rahi hoon aaj ye manzar
-  
+  Phir kehne lagi maadar-e-Akbar se lipat kar
+  Athaara baras ji to gaya tha tera dilbar
+  Khuṅ tujhko rulaati hai magar furqat-e-Akbar
+  Ab soch ke kya bit gai hai mere dil par
+  God se jisko le gaye Sarwar
+  Dekh rahi huṅ aaj ye manzar
+
   4
-  Shabbir ne dekha jo sina par sar e asghar
-  Ek baar nigahon se kiya sajda zameen par
-  Phir bole nigahon ko uthate huwe sarwar
-  Tu raazi to mai raazi mere khaliq e akbar
-  Waada nibhaya ghar ko luta kar
-  Ab ye sitam bhi sehta hoon dil par
-  
+  Shabbir ne dekha jo sinaaṅ par sar-e-Asghar
+  Ek baar nigaahoṅ se kiya sajda zamiṅ par
+  Phir bole nigaahoṅ ko uthaate hue Sarwar
+  Tu raazi to main raazi mere Khaaliq-e-Akbar
+  Waada nibhaaya ghar ko luta kar
+  Ab ye sitam bhi sehta huṅ dil par
+
   5
-  Akbar se kaha sheh ne mere laal tere baad
-  Zainab ka hua gham s e bura haal tere baad
-  Thay khaak mein aalooda mere baal tere baad
-  Aada ne kiya laashon ko pamaal tere baad
-  Ye bhi qayamat aayi mere dilbar
+  Akbar se kaha Shah ne mere laal tere baad
+  Zainab ka hua gham se bura haal tere baad
+  The khaak mein aaluda mere baal tere baad
+  Aadaa ne kiya laashoṅ ko paamaal tere baad
+  Ye bhi qayaamat aai mere dilbar
   Dekh sako to dekh lo aa kar
-  
+
   6
-  Sajjad tadapne lage baba ki fughan par
-  Baqar ke sahare se uthe ya ali keh kar
-  Rokar ye sakina se kaha ay meri khwahar
-  Kya tum ne suna baba jo farmate hai ro kar
-  Boli sakina mere baradar
-  Bhai se baba kehte hai ro kar
-  
+  Sajjad tarapne lage baba ki fughaaṅ par
+  Baqar ke sahaare se uthe ya Ali keh kar
+  Ro kar ye Sakina se kaha ae meri khwaahar
+  Kya tum ne suna baba jo farmaate haiṅ ro kar
+  Boli Sakina mere baraadar
+  Bhaai se baba kehte haiṅ ro kar
+
   7
-  Farhan lahoo rote huwe likhta hai mazhar
-  Dauran e safar ghazi se farmate thay sarwar
-  Tu hota to ye zulm nahi hota baradar
-  Faryad hai ye bano e dilgeer ke lab par
-  Baazu e shabbir dekh to aa kar
+  Farhan lahu rote hue likhta hai Mazhar
+  Dauraan-e-safar Ghazi se farmaate the Sarwar
+  Tu hota to ye zulm nahiṅ hota baraadar
+  Faryaad hai ye Bano-e-dilgir ke lab par
+  Baazu-e-Shabbir dekh to aa kar
   Halq hai zakhmi khaak hai sar par
 # source_id: nohayonline:241b566dfff046918f38
 # source_url: https://www.nohayonline.com/details_content.php?id=3020
@@ -94,28 +99,32 @@ romanLyrics: |-
 شہداء کے سروں کو پسر سعد نے دیکھا
 سر اصغر معصوم کا موجود نہیں تھا
 یہ کہتے ہوئے شمر کو پاس اپنے بلایا
-حاکم مجھے بخشے گا نہیں تجھکو خبر ہے
+حاکم مجھے بخشے گا نہیں تجھ کو خبر ہے
 جا ڈھونڈ سر اصغر معصوم کدھر ہے
+
 تاریخ میں اس ظلم کا ملتا ہے حوالہ
 ظالم نے لحد کھود کے اصغر کو نکالا
 سر کاٹ چکا کھولی تو نیزہ کو سنبھالا
 نیزے پہ گیا بانو کی آغوش کا پالا
+
 موت بھی نوحہ کرتی تھی رو کر
 بگڑا ہے بانو تیرا مقدر
+
 نوک سناں پر ننھا سا ایک سر
-لے کے چلا ہے ہاے ستمگر
-جو صاحب اولاد ہے سوچے تو زرا سا
+لے کے چلا ہے ہائے ستمگر
+
+جو صاحب اولاد ہے سوچے تو ذرا سا
 کس درجہ ستم کوک جلی ماں پہ ہوا تھا
-غش کھای ہوئی ماں نے جونہی آنکھوں کو کھولا
+غش کھائی ہوئی ماں نے جونہی آنکھوں کو کھولا
 نیزے پہ سر اصغر معصوم کو دیکھا
 تھامے کلیجہ بولی وہ مضطر
-ثانیء زہرا دیکھو یہ منظر
+ثانیِ زہرا دیکھو یہ منظر
 
 ۱
-زینب نے سوے لشکرِ اعدا جو نظر کی
+زینب نے سوئے لشکرِ اعدا جو نظر کی
 سر پیٹ کے یہ کہنے لگی درد کی ماری
 اے کشتۂ شمشیر جفا اے میرے بھائی
-کیا بعد شہادت بھی ستم ہوتا ہے کوی
+کیا بعد شہادت بھی ستم ہوتا ہے کوئی
 تو ہی بتا اے صبر کے پیکر
 کیسے سنبھالے دل کو یہ مادر
 
@@ -130,9 +139,9 @@ romanLyrics: |-
 ۳
 پھر کہنے لگی مادر اکبر سے لپٹ کر
 اٹھارہ برس جی تو گیا تھا تیرا دلبر
-خوں تجھکو رلاتی ہے مگر فرقت اکبر
-اب سوچ کے کیا بیت گیء ہے میرے دل پر
-گود سے جس کو لے گےء سرور
+خوں تجھ کو رلاتی ہے مگر فرقت اکبر
+اب سوچ کے کیا بیت گئی ہے میرے دل پر
+گود سے جس کو لے گئے سرور
 دیکھ رہی ہوں آج یہ منظر
 
 ۴
@@ -148,21 +157,21 @@ romanLyrics: |-
 زینب کا ہوا غم سے برا حال تیرے بعد
 تھے خاک میں آلودہ میرے بال تیرے بعد
 اعدا نے کیا لاشوں کو پامال تیرے بعد
-یہ بھی قیامت آی میرے دلبر
+یہ بھی قیامت آئی میرے دلبر
 دیکھ سکو تو دیکھ لو آ کر
 
 ۶
 سجاد تڑپنے لگے بابا کی فغاں پر
 باقر کے سہارے سے اٹھے یا علی کہہ کر
 رو کر یہ سکینہ سے کہا اے میری خواہر
-کیا تم‌‌ نے سنا بابا جو فرماتے ہیں رو کر
+کیا تم نے سنا بابا جو فرماتے ہیں رو کر
 بولی سکینہ میرے برادر
-بھای سے بابا کہتے ہیں روکر
+بھائی سے بابا کہتے ہیں رو کر
 
 ۷
 فرحان لہو روتے ہوئے لکھتا ہے مظہر
 دورانِ سفر غازی سے فرماتے تھے سرور
-تو ہوتا تو یہ ظلم نہیں ہوتا بردادر
-فریاد ہے یہ بانوے دلگیر کے لب پر
-بازوے شبیر دیکھ تو آ کر
+تو ہوتا تو یہ ظلم نہیں ہوتا برادر
+فریاد ہے یہ بانوئے دلگیر کے لب پر
+بازوئے شبیر دیکھ تو آ کر
 حلق ہے زخمی خاک ہے سر پر
