@@ -1,77 +1,78 @@
 ---
 title: "مولا حسین آقا حسین"
-alternateTitle: "Rab Ka Hussain"
+alternateTitle: "Rab Ka Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nasir Hussain"
+reciter: "Mir Arif Ali"
 tags: ["noImage"]
-aliases: []
+aliases: ["Rab Ka Hussain"]
 published: false
 romanLyrics: |-
-  Maula hussain aaqa hussain
-  Aaqa hussain qibla hussain
-  Rab ne kaha rab ka hussain
-  Rab ka hussain sab ka hussain
-  Maula hussain
-  
+  Maula Husain aaqa Husain
+  Aaqa Husain qibla Husain
+  Rab ne kaha rab ka Husain
+  Rab ka Husain sab ka Husain
+  Maula Husain
+
   1
-  Quran ke hai dil ki tamanna hussain
-  Ishq tera dil mein sameina hussain
-  Hai ye mere dil ki sada ya hussain
-  Dhadkan mein hussain saanson mein hussain
-  Yaadon mein hussain aankhon mein hussain
-  Palkon mein hussain khwabon mein hussain
-  Hai lab pe sada ye subho masa ya hussain
-  
+  Quraan ke hai dil ki tamanna Husain
+  Ishq tera dil meiṅ samaaya Husain
+  Hai ye mere dil ki sada ya Husain
+  Dharkan meiṅ Husain saansoṅ meiṅ Husain
+  Yaadoṅ meiṅ Husain aankhoṅ meiṅ Husain
+  Palkoṅ meiṅ Husain khwaaboṅ meiṅ Husain
+  Hai lab pe sada ye subh o masa ya Husain
+
   2
-  Sabr ne kalma hai pada bas tera
-  Azm ne tujhse hai liya hausla
-  Himmat ke liye himmat hai hussain
-  Khudrat ke liye khudrat hai hussain
-  Taaqat ke liye taaqat hai hussain
-  Ye tera qaseeda sab ne padha
-  
+  Sabr ne kalma hai parha bas tera
+  Azm ne tujh se hai liya hausla
+  Himmat ke liye himmat hai Husain
+  Qudrat ke liye qudrat hai Husain
+  Taaqat ke liye taaqat hai Husain
+  Ye tera qasida sab ne parha
+
   3
-  Jhoom ke kehta hai qalam ba khuda
-  Loh bhi padta hai qaseeda tera
-  Qismat ko jila deta hai hussain
-  Taqdeer bana sakta hai hussain
-  Har sheh pe tera qabza hai hussain
-  Raahib ne zamane bhar se kaha ya hussain
-  
+  Jhum ke kehta hai qalam ba Khuda
+  Lauh bhi parhta hai qasida tera
+  Qismat ko jila deta hai Husain
+  Taqdir bana sakta hai Husain
+  Har shai pe tera qabza hai Husain
+  Raahib ne zamaane bhar se kaha ya Husain
+
   4
-  Tu ne hi islam ko di zindagi
-  Tujhse shariyat ko mili roshni
-  Kaaba hai hussain qibla hai hussain
-  Kalma hai hussain sajda hai hussain
-  Har momin ka rauza hai hussain
-  Allah ne tera shukr kiya ya hussain
-  
+  Tu ne hi Islam ko di zindagi
+  Tujh se shariat ko mili roshni
+  Kaaba hai Husain qibla hai Husain
+  Kalma hai Husain sajda hai Husain
+  Har momin ka rauza hai Husain
+  Allah ne tera shukr kiya ya Husain
+
   5
-  Raaze khuda e wand ka chehra hai tu
-  Kalma e tauheed ka nukhta hai tu
-  Tu haq ka wali tu ibne ali
-  Tu raaz e jali tu raaz e khafi
-  Khudrat ko bhi zeenat tujhse mili
-  Hai kaun bhala tujhsa maula
-  
+  Raaz-e-Khudawand ka chehra hai tu
+  Kalma-e-tauhid ka nuqta hai tu
+  Tu haq ka wali tu ibn-e-Ali
+  Tu raaz-e-jali tu raaz-e-khafi
+  Qudrat ko bhi zinat tujh se mili
+  Hai kaun bhala tujh sa maula
+
   6
-  Lut gaya ek din mein bhara tera
+  Lut gaya ek din meiṅ bhara tera
   Zulm ye tujh par mere maula hua
-  Qasim na raha akbar na raha
-  Ghazi na raha asghar na raha
-  Sarwar ka koi yawar na raha
+  Qasim na raha Akbar na raha
+  Ghazi na raha Asghar na raha
+  Sarwar ka koi yaawar na raha
   Hai tanha mera bekas maula
-  
+
   7
-  Peet ke sar momino matam karo
-  Ashk se aankhon ko zara nam karo
-  Jo zulm huwe hai maula par
-  Sunle ye zamane bhar ka bashar
-  Mazloom tha zehra ka pisar
-  Ye arif o nasir ne hai kaha ya hussain
+  Pit ke sar mominoṅ maatam karo
+  Ashk se aankhoṅ ko zara nam karo
+  Jo zulm hue haiṅ maula par
+  Sun le zamaane bhar ka bashar
+  Mazlum tha Zehra ka pisar
+  Ye Arif o Nasir ne hai kaha ya Husain
 # source_id: nohayonline:c87d034a5c2e5cc83a80
 # source_url: https://www.nohayonline.com/details_content.php?id=2484
 # raw_sha256: e96c2a8446a38fe9b228bd6690e0a66cb58e706ef74ebfcd82fb0969a85f443d
@@ -93,7 +94,7 @@ romanLyrics: |-
 
 ۲
 صبر نے کلمہ ہے پڑھا بس تیرا
-عظم نے تجھ سے ہے لیا حوصلہ
+عزم نے تجھ سے ہے لیا حوصلہ
 ہمت کے لئے ہمت ہے حسین
 قدرت کے لئے قدرت ہے حسین
 طاقت کے لئے طاقت ہے حسین
@@ -105,7 +106,7 @@ romanLyrics: |-
 قسمت کو جلا دیتا ہے حسین
 تقدیر بنا سکتا ہے حسین
 ہر شہ پہ تیرا قبضہ ہے حسین
-راحب نے زمانے بھر سے کہا یا حسین
+راہب نے زمانے بھر سے کہا یا حسین
 
 ۴
 تو نے ہی اسلام کو دی زندگی
@@ -116,7 +117,7 @@ romanLyrics: |-
 اللّٰہ نے تیرا شکر کیا یا حسین
 
 ۵
-راز خدا وند کا چہرہ ہے تو
+رازِ خداوند کا چہرہ ہے تو
 کلمۂ توحید کا نقطہ ہے تو
 تو حق کا ولی تو ابن علی
 تو راز جلی تو راز خفی
@@ -133,7 +134,7 @@ romanLyrics: |-
 
 ۷
 پیٹ کے سر مومنوں ماتم کرو
-اشک سے آنکھوں کو زرا نم کرو
+اشک سے آنکھوں کو ذرا نم کرو
 جو ظلم ہوے ہیں مولا پر
 سن لے زمانے بھر کا بشر
 مظلوم تھا زہرا کا پسر

@@ -3045,10 +3045,10 @@ src/data/lyrics/raahat-e-mann.md,standalone_lyrics,imported,nohayonline,pending,
 src/data/lyrics/raat-bhar-maa.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-13-editorial-quwwat-raat,,
 src/data/lyrics/raat-hoti-hai.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-13-editorial-quwwat-raat,,
 src/data/lyrics/raat-sughra-ne-ajab.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-13-editorial-quwwat-raat,,
-src/data/lyrics/raat-to-khair-kisi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/raat-to-khair-kisi.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s5 ""ٹکڑے ہو جائے گا"" agreement; s6 ""اس قدر چھای دو عالم پہ ضعیفی ہو گی"" wording."
 src/data/lyrics/rab-de-hawale.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
-src/data/lyrics/rab-ka-hussain.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/rab-khair-karein.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/rab-ka-hussain.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,first_sweep,,"Need audio/print: opening/s1 boundary around ""قرآن کے ہے دل کی تمنا""; s1 ""سمایا"" vs Roman ""sameina""; s3 ""لوح بھی پڑھتا""; s4 ""ہر مومن کا روضہ""; s6 ""لٹ گیا اک دن میں بھرا تیرا"" appears incomplete; s7 ""سن لے"" vs Roman ""sunle ye""."
+src/data/lyrics/rab-khair-karein.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,first_sweep,,
 src/data/lyrics/racha-tha-akbare.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/rahbar-ek-se-ek.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/rahon-may-sarban-ko.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,

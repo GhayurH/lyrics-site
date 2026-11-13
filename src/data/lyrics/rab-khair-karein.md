@@ -1,65 +1,66 @@
 ---
 title: "رب خیر کریں میرے بابا کی"
-alternateTitle: "Rab Khair Karein"
+alternateTitle: "Rab Khair Kareiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zulfiqar Ahmed"
+reciter: "Mir Mohsin Ali"
 tags: ["noImage"]
-aliases: []
+aliases: ["Rab Khair Karein"]
 published: false
 romanLyrics: |-
-  Rab khair karein mere baba ki
+  Rab khair kareiṅ mere baba ki
   Sughra ki sada ye hai
 
   1
-  Kal khaab may dekha tha ye saman
-  Tapta hua sehra khoon ke nishan
-  Thay ahmed e mursal ashk fishan
-  Jalte hue qaimon ka tha dhuan
+  Kal khwaab meiṅ dekha tha ye samaaṅ
+  Tapta hua sehra khuṅ ke nishaaṅ
+  The Ahmad-e-Mursal ashk fishaaṅ
+  Jalte hue khaimoṅ ka tha dhuaaṅ
 
   2
-  Kumlaaya hua tha kyun asghar
-  Dar pe thi khadi gham may madar
-  Jhoola bhi jala aata hai nazar
-  Kya koi nahi jo le iski khabar
+  Kumlaaya hua tha kiuṅ Asghar
+  Dar pe thi khari gham meiṅ maadar
+  Jhula bhi jala aata hai nazar
+  Kya koi nahiṅ jo le is ki khabar
 
   3
-  Ghatri may ye kiska laasha hai
-  Wan ghash may padi kyun kubra hai
-  Kyun sar ko jhukaye baba hai
+  Gathri meiṅ ye kis ka laasha hai
+  Wahaaṅ ghash meiṅ pari kiuṅ Kubra hai
+  Kiuṅ sar ko jhukaaye baba hai
   Rota hua mera kunba hai
 
   4
-  Girte thay kabhi uth'te thay kabhi
-  Thi unki kamar kis gham se jhuki
-  Chalti thi galay pe unke churi
-  Sar peet ke roye dada ali
+  Girte the kabhi uthte the kabhi
+  Thi un ki kamar kis gham se jhuki
+  Chalti thi gale pe un ke chhuri
+  Sar pit ke roye dada Ali
 
   5
-  Kuch bibiyan thi jo qaidi bani
-  Be saaya thi be chadar thi
-  Bache thay kahin maa'ein thi kahin
-  Rota tha falak hilti thi zameen
+  Kuchh bibiyaaṅ thiṅ jo qaidi bani
+  Besaaya thiṅ bechaadar thiṅ
+  Bachche the kahiṅ maaeṅ thiṅ kahiṅ
+  Rota tha falak hilti thi zamiṅ
 
   6
-  Wo kiske jawan ka laasha tha
-  Seene may tha uske naiza gada
-  Thay jisko uthaye shaahe huda
-  Kya akbar mera maara gaya
+  Wo kis ke jawaaṅ ka laasha tha
+  Sine meiṅ tha us ke neza gara
+  The jis ko uthaaye Shaah-e-Huda
+  Kya Akbar mera maara gaya
 
   7
   Darya ke kanare ammu mera
-  Haaton ko kataye kyun hai pada
-  Parcham bhi hai uska khoon may bhara
+  Haathoṅ ko kataaye kiuṅ hai para
+  Parcham bhi hai us ka khuṅ meiṅ bhara
   Kya maajra hai ya rab tu bata
 
   8
-  Jab bhi ye pada jaye nauha
-  Charon taraf hoga shor bapa
-  Hai ahmed o mohsin ki ye dua
-  Humse ho khush bibi zehra
+  Jab bhi ye parha jaaye nauha
+  Chaaroṅ taraf hoga shor bapa
+  Hai Ahmad o Mohsin ki ye dua
+  Ham se ho khush Bibi Zehra
 # source_id: nohayonline:b304a26ac85f0d22a04b
 # source_url: https://www.nohayonline.com/details_content.php?id=690
 # raw_sha256: 7caeffad8895089cb21d0af440574d85d9bf6eb7b4cd5bb376a9f1cc1d0fcdf5
@@ -70,7 +71,7 @@ romanLyrics: |-
 ۱
 کل خواب میں دیکھا تھا یہ سماں
 تپتا ہوا صحرا خوں کے نشاں
-تھے احمد ِ مرسل اشک فشاں
+تھے احمدِ مرسل اشک فشاں
 جلتے ہوئے خیموں کا تھا دھواں
 
 ۲
@@ -99,12 +100,12 @@ romanLyrics: |-
 
 ۶
 وہ کس کے جواں کا لاشہ تھا
-سینے میں تھا اُس کے نیزہ گڑھا
-تھے جس کو اُٹھائے شاہِ ھُدیٰ
+سینے میں تھا اُس کے نیزہ گڑا
+تھے جس کو اُٹھائے شاہِ ہُدیٰ
 کیا اکبر میرا مارا گیا
 
 ۷
-دریا کے کنارے عموں میرا
+دریا کے کنارے عمّو میرا
 ہاتھوں کو کٹائے کیوں ہے پڑا
 پرچم بھی ہے اُس کا خوں میں بھرا
 کیا ماجرا ہے یا رب تُو بتا
@@ -113,4 +114,4 @@ romanLyrics: |-
 جب بھی یہ پڑھا جائے نوحہ
 چاروں طرف ہو گا شور بپا
 ہے احمد و محسن کی یہ دُعا
-ہم سے ہو خوش بی بی زہرا
+ہم سے ہو خوش بی‌بی زہرا

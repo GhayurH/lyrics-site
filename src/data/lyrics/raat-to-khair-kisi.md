@@ -6,48 +6,49 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Raat to khair kisi taur guzar jayegi
-  Subhe ashoor qayamat ki khabar aayegi
+  Raat to khair kisi taur guzar jaayegi
+  Subh-e-Ashur qayaamat ki khabar aayegi
 
   1
-  Aaj har qaima hai aabaad badi raunak hai
-  Haye kal shaam ko basti ye ujad jayegi
+  Aaj har khaima hai aabaad bari raunaq hai
+  Haaye kal shaam ko basti ye ujar jaayegi
 
   2
-  Ran mein goonjegi jo shehzada e akbar ki azan
-  Maa sada sunte hi dil thaam ke reh jayegi
+  Ran meiṅ gunjegi jo shehzaada-e-Akbar ki azaaṅ
+  Maaṅ sada sunte hi dil thaam ke reh jaayegi
 
   3
-  Kooch kar jayenge sab akbar o abbas o hussain
-  Qaima e shaah mein veerani si chaa jayegi
+  Kuch kar jaayeṅge sab Akbar o Abbas o Husain
+  Khaima-e-Shaah meiṅ viraani si chhaa jaayegi
 
   4
-  Haye chid jayegi baysheer ki gardan ran mein
-  Aur dar e qaima se maa dekhti reh jayegi
+  Haaye chhid jaayegi beshir ki gardan ran meiṅ
+  Aur dar-e-khaima se maaṅ dekhti reh jaayegi
 
   5
-  Tukde ho jayega qasim ka badan maqtal mein
-  Ek dulhan ki bhari maang ujad jayegi
+  Tukre ho jaayega Qasim ka badan maqtal meiṅ
+  Ek dulhan ki bhari maang ujar jaayegi
 
   6
-  Is khadar chaayi do aalam pe zaeefi hogi
-  Laash akbar ki na shabbir se uth payegi
+  Is qadar chhaayi do aalam pe zaifi hogi
+  Laash Akbar ki na Shabbir se uth paayegi
 
   7
-  Baap ke seene pe sone ki jisay aadat hai
-  Khaak par kaise bhala neend usay aayegi
+  Baap ke sine pe sone ki jise aadat hai
+  Khaak par kaise bhala nind use aayegi
 
   8
-  Qaime jal jayenge lut jayegi aulaad e nabi
-  Haye zainab ki rida dasht mein chin jayegi
+  Khaime jal jaayeṅge lut jaayegi aulaad-e-Nabi
+  Haaye Zainab ki rida dasht meiṅ chhin jaayegi
 
   9
-  Ek din aayega aisa bhi jahan mein gohar
-  Har gali kooche se matam ki sada aayegi
+  Ek din aayega aisa bhi jahaaṅ meiṅ Gohar
+  Har gali kuche se maatam ki sada aayegi
 # source_id: nohayonline:e62bdaf332779c5e603e
 # source_url: https://www.nohayonline.com/details_content.php?id=1514
 # raw_sha256: 4574b0d58ecd2e233a07f993c58587a7c8ace02a7f60275fb0365085ac24d9b5
