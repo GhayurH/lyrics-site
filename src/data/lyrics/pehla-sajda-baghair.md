@@ -6,67 +6,68 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Faraz Hyder Kazmi"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aaj zainab karegi maqtal mein
+  Aaj Zainab karegi maqtal mein
   Pehla sajda baghair chadar ke
-  Roshni aur hawa ne bhi jiska
+  Roshni aur hawa ne bhi jis ka
   Sar na dekha baghair chadar ke
   
   1
-  Jisko dafna nahi saki zainab
-  Bekafan tha jo dashte ghurabt mein
-  Apne bhai hussain ka usne
+  Jis ko dafna nahiṅ saki Zainab
+  Bekafan tha jo dasht-e-ghurbat mein
+  Apne bhai Husain ka us ne
   Gham manaya baghair chadar ke
   
   2
-  Wo jo uski rida ka zaamin tha
-  Uske naqshe qadam mitaata tha
-  Kaise guzregi uske laashe se
-  Binte zehra baghair chadar ke
+  Wo jo us ki rida ka zaamin tha
+  Us ke naqsh-e-qadam mitaata tha
+  Kaise guzregi us ke laashe se
+  Bint-e-Zehra baghair chadar ke
   
   3
-  Jiska quran chehra padhta tha
+  Jis ka Quraan chehra parhta tha
   Sirf aayaat dekhti thi jise
-  Aaj dekhenge usko galiyon mein
-  Ahle kufa baghair chadar ke
+  Aaj dekheṅge us ko galiyoṅ mein
+  Ahl-e-Kufa baghair chadar ke
   
   4
-  Tum se zainab na hum kalaam hui
+  Tum se Zainab na ham kalaam hui
   Meri awaaz na suni tum ne
-  Aao baba sunaaun mai tum ko
+  Aao baba sunaauṅ main tum ko
   Aaj khutba baghair chadar ke
   
   5
-  Dono zakhmon ne khoon rulaya hai
-  Qabr mein bhi khuda ki ghairat ko
+  Donoṅ zakhmoṅ ne khuṅ rulaaya hai
+  Qabr mein bhi Khuda ki ghairat ko
   Ek laasha tha bekafan ran mein
-  Ek janaza baghair chadar ke
+  Ik janaaza baghair chadar ke
   
   6
-  Kaise un chadaron ke maqtal mein
-  Teen din tak khadi rahi zainab
+  Kaise un chaadaroṅ ke maqtal mein
+  Tin din tak khari rahi Zainab
   Jis jagah maut se bhi mushkil tha
-  Ek lamha baghair chadar ke
+  Ik lamha baghair chadar ke
   
   7
   Jo bhi parde ko rone waali hai
-  Waasta unko bibi zainab ka
-  Binte zehra ki paak chadar ko
+  Waasta un ko Bibi Zainab ka
+  Bint-e-Zehra ki paak chadar ko
   Tum na rona baghair chadar ke
   
   8
-  Khaak baalon mein baal chehre par
-  Aur aankhon se ashk jaari hai
-  Qaid khane mein aise zainab ka
+  Khaak baaloṅ mein baal chehre par
+  Aur aankhoṅ se ashk jaari hai
+  Qaid khaane mein aise Zainab ka
   Saal guzra baghair chadar ke
   
   9
-  Uska parda tha zindagi uski
-  Saans usko rida se milti thi
-  Hai qayamat faraaz zainab ka
+  Us ka parda tha zindagi us ki
+  Saans us ko rida se milti thi
+  Hai qayaamat Faraaz Zainab ka
   Zinda rehna baghair chadar ke
 # source_id: nohayonline:936101941e25a112b42f
 # source_url: https://www.nohayonline.com/details_content.php?id=2793
@@ -84,7 +85,7 @@ romanLyrics: |-
 غم منایا بغیر چادر کے
 
 ۲
-وہ جو اسکی ردا ضامن تھا
+وہ جو اس کی ردا کا ضامن تھا
 اس کے نقشِ قدم مٹاتا تھا
 کیسے گزرے گی اس کے لاشے سے
 بنت زہرا بغیر چادر کے
@@ -96,7 +97,7 @@ romanLyrics: |-
 اہلِ کوفہ بغیر چادر کے
 
 ۴
-تم سے زینب نہ ہم کلام ہوی
+تم سے زینب نہ ہم کلام ہوئی
 میری آواز نہ سنی تم نے
 آؤ بابا سناؤں میں تم کو
 آج خطبہ بغیر چادر کے
@@ -115,9 +116,9 @@ romanLyrics: |-
 
 ۷
 جو بھی پردے کو رونے والی ہے
-واسطہ ان کو بی بی زینب کا
+واسطہ ان کو بی‌بی زینب کا
 بنت زہرا کی پاک چادر کو
-تم نہ رونا بغیر چادر
+تم نہ رونا بغیر چادر کے
 
 ۸
 خاک بالوں میں بال چہرے پر
