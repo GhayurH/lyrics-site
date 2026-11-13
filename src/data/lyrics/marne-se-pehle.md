@@ -1,89 +1,90 @@
 ---
-title: "صرف اک بار دیکھلوں کربلا مرنے سے پہلے"
+title: "صرف اک بار دیکھ لوں کربلا مرنے سے پہلے"
 alternateTitle: "Marne Se Pehle"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Kumail Jafri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sirf ek baar dekhlun karbala marne se pehle
-  Karta hai har sheh ka azadar ye dua marne se pehle
-  Sirf ek baar dekhlun karbala marne se pehle
-  
+  Sirf ek baar dekh luṅ Karbala marne se pehle
+  Karta hai har sheh ka azaadaar ye dua marne se pehle
+  Sirf ek baar dekh luṅ Karbala marne se pehle
+
   1
-  Ek hi khwahish hai bas ab dil e ghamkhwar mein
-  Naam ho mera rakham aap ke zawwar mein
-  Hai dil e muflis ki aakhri ilteja marne se pehle
-  
+  Ek hi khwaahish hai bas ab dil-e-ghamkhwaar mein
+  Naam ho mera raqam aap ke zawwaar mein
+  Hai dil-e-muflis ki aakhri ilteja marne se pehle
+
   2
-  Hum ne suna hai rauza e hazrat hussain ko
-  Ek baar dekhna kayi hajj ka sawab hai
-  Apne azadaar ko moula bula lijiye
-  Farshe zameen ki hamein khuld dikha dijiye
-  Dekhle hum log bhi rauza aap ka marne se pehle
-  
+  Hum ne suna hai rauza-e-Hazrat Husain ko
+  Ek baar dekhna kai hajj ka sawaab hai
+  Apne azaadaar ko Maula bula lijiye
+  Farsh-e-zamiṅ ki hameṅ khuld dikha dijiye
+  Dekh le hum log bhi rauza aap ka marne se pehle
+
   3
-  Hai ye meri aarzoo mai bhi ziarat karun
-  Rauza e abbas pe jaa ke ibadat karun
-  Parchame ghazi ka choomlu pharera marne pehle
-  
+  Hai ye meri aarzu main bhi ziyaarat karuṅ
+  Rauza-e-Abbas pe jaa ke ibaadat karuṅ
+  Parcham-e-Ghaazi ka chum luṅ pharera marne se pehle
+
   4
-  Chalte hai tere gham mein jahan saare ambiya
-  Us raaste pe chalna hamein bhi naseeb ho
-  Dekhlun ek baar mai rauza e shaahe najaf
-  Phir mai wahan se chalun karbobala ki taraf
-  Mai bhi karun tay mashi ka raasta marne se pehle
-  
+  Chalte haiṅ tere gham mein jahaaṅ saare ambiyaa
+  Us raaste pe chalna hameṅ bhi nasib ho
+  Dekh luṅ ek baar main rauza-e-Shaah-e-Najaf
+  Phir main wahaaṅ se chaluṅ Karbobala ki taraf
+  Main bhi karuṅ tai mashi ka raasta marne se pehle
+
   5
-  Aap ke darbar mein aap ka matam karun
-  Aap pe girya karun aap ka nauha padhun
-  Karbobala jaa ke mai padhun marsiya marne se pehle
-  
+  Aap ke darbaar mein aap ka maatam karuṅ
+  Aap pe girya karuṅ aap ka nauha parhuṅ
+  Karbobala jaa ke main parhuṅ marsiya marne se pehle
+
   6
-  Jaaun wahan thay jahan ahle haram ke qayaam
-  Dekhe nigahein meri akbar e sheh ka maqaam
-  Ho meri aankhon ke saamne alqama marne se pehle
-  
+  Jaauṅ wahaaṅ the jahaaṅ ahl-e-haram ke qayaam
+  Dekhe nigaaheṅ meri Akbar-e-Sheh ka maqaam
+  Ho meri aaṅkhoṅ ke saamne Alqama marne se pehle
+
   7
-  Padh ke durood o salam panjetan e paak pe
-  Shukr ka sajda baja laaun mai jab khaak pe
-  Khaake shifa se hi mujhe bhi ho shifa marne se pehle
-  
+  Parh ke durud o salaam Panjetan-e-paak pe
+  Shukr ka sajda baja laauṅ main jab khaak pe
+  Khaak-e-shifa se hi mujhe bhi ho shifa marne se pehle
+
   8
-  Maula bas ek baar mai us dar choomlu
-  Jis dar se aaj tak koi khaali nahi gaya
-  Hazrat e babul hawaij ka haram dekhlun
-  Us pe laga deen ka surkh alam dekhlun
-  Do kate haathon ka dekhlun moujiza marne se pehle
-  
+  Maula bas ek baar main us dar ko chum luṅ
+  Jis dar se aaj tak koi khaali nahiṅ gaya
+  Hazrat-e-Baabul Hawaaij ka haram dekh luṅ
+  Us pe laga din ka surkh alam dekh luṅ
+  Do kate haathoṅ ka dekh luṅ maujiza marne se pehle
+
   9
-  Karte hai aamir kumail aap se bas ye dua
-  Hum pe musalsal rahe aap ki yun hi ata
+  Karte haiṅ Aamir Kumail aap se bas ye dua
+  Hum pe musalsal rahe aap ki yuṅ hi ata
   Ruk na sake aap ke gham ka silsila marne se pehle
 # source_id: nohayonline:7d61ea2ef42550cc6434
 # source_url: https://www.nohayonline.com/details_content.php?id=1635
 # raw_sha256: 6051d348629e3406c4965ed43cc16a2edd0569c6881d9ca7b451f68c2a6ea602
 ---
 
-صرف اک بار دیکھلوں کربلا مرنے سے پہلے
+صرف اک بار دیکھ لوں کربلا مرنے سے پہلے
 کرتا ہے ہر شہ کا عزادار یہ دعا مرنے سے پہلے
-صرف اک بار دیکھلوں کربلا مرنے سے پہلے
+صرف اک بار دیکھ لوں کربلا مرنے سے پہلے
 
 ۱
 ایک ہی خواہش ہے بس اب دل غم خوار میں
-نام لو میرا رقم آپ کے زوار میں
+نام ہو میرا رقم آپ کے زوار میں
 ہے دل مفلس کی آخری التجاء مرنے سے پہلے
 
 ۲
 ہم نے سنا ہے روضہء حضرت حسین کو
-اک بار دیکھنا کیء حج کا ثواب ہے
-اپنے عزادار کو مولا بلا لیجیےء
-فرش زمیں کی ہمیں خلد دکھا دیجیےء
-دیکھلے ہم لوگ بھی روضہ آپ کا مرنے سے پہلے
+اک بار دیکھنا کئی حج کا ثواب ہے
+اپنے عزادار کو مولا بلا لیجیے
+فرش زمیں کی ہمیں خلد دکھا دیجیے
+دیکھ لے ہم لوگ بھی روضہ آپ کا مرنے سے پہلے
 
 ۳
 ہے یہ میری آرزو میں بھی زیارت کروں
@@ -91,11 +92,11 @@ romanLyrics: |-
 پرچم غازی کا چوم لوں پھریرا مرنے سے پہلے
 
 ۴
-چلتے ہیں تیرے غم میں جہاں سارے
+چلتے ہیں تیرے غم میں جہاں سارے انبیاء
 اس راستے پہ چلنا ہمیں بھی نصیب ہو
-دیکھلوں اک بار میں روضہء شاہ نجف
+دیکھ لوں اک بار میں روضہء شاہ نجف
 پھر میں وہاں سے چلوں کربوبلا کی طرف
-میں بھی کروں طےء مشی کا راستہ مرنے سے پہلے
+میں بھی کروں طے مشی کا راستہ مرنے سے پہلے
 
 ۵
 آپ کے دربار میں آپ کا ماتم کروں
@@ -115,9 +116,9 @@ romanLyrics: |-
 ۸
 مولا بس اک بار میں اس در کو چوم لوں
 جس در سے آج تک کوئی خالی نہیں گیا
-حضرتِ باب الحوایج کا حرم دیکھلوں
-اس پہ لگا دین کا سرخ الم دیکھلوں
-دو کٹے ہاتھوں کا دیکھلوں معجزہ مرنے سے پہلے
+حضرتِ باب الحوائج کا حرم دیکھ لوں
+اس پہ لگا دین کا سرخ علم دیکھ لوں
+دو کٹے ہاتھوں کا دیکھ لوں معجزہ مرنے سے پہلے
 
 ۹
 کرتے ہیں عامر کمیل آپ سے بس یہ دعا

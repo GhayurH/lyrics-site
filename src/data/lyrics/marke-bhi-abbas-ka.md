@@ -5,27 +5,28 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Mar ke bhi abbas ka saahil pe laasha reh gaya
-  Hashr tak qabze mein pyase ke darya reh gaya
+  Mar ke bhi Abbas ka saahil pe laasha reh gaya
+  Hashr tak qabze mein pyaase ke darya reh gaya
 
   1
-  Fatha karne waale jung e karbala batlaye to
-  Aaj dunya ki zaban par naam kiska reh gaya
+  Fath karne waale jang-e-Karbala batlaaye to
+  Aaj duniya ki zabaaṅ par naam kis ka reh gaya
 
   2
-  Itna dunya ne dabaya aur ubharta hi gaya
-  Naksh hoke karbala tera fasana reh gaya
+  Itna duniya ne dabaaya aur ubharta hi gaya
+  Naqsh ho ke Karbala tera fasaana reh gaya
 
   3
-  Nusrate haq ke liye asghar to ran ko jaa chuke
-  Ek tasavvur ek maa ek khaali jhoola reh gaya
+  Nusrat-e-haq ke liye Asghar to ran ko jaa chuke
+  Ek tasavvur ek maaṅ ek khaali jhula reh gaya
 
   4
-  Sunke akbar ki shahadat ki khabar maa ne kaha
+  Sun ke Akbar ki shahaadat ki khabar maaṅ ne kaha
   Baad tere zindagi mein ab meri kya reh gaya
 # source_id: nohayonline:f7cfebcab895343adbd6
 # source_url: https://www.nohayonline.com/details_content.php?id=1106
@@ -35,12 +36,12 @@ romanLyrics: |-
 حشر تک قبضے میں پیاسے کے دریا رہ گیا
 
 ۱
-فتح کرنے والے جنگ کربلا بتلاے تو
-آج دنیا کی زباں پر نام کس کا رو گیا
+فتح کرنے والے جنگ کربلا بتلائے تو
+آج دنیا کی زباں پر نام کس کا رہ گیا
 
 ۲
 اتنا دنیا نے دبایا اور ابھرتا ہی گیا
-نقش ہوکے کربلا تیرا فسانہ رہ گیا
+نقش ہو کے کربلا تیرا فسانہ رہ گیا
 
 ۳
 نصرت حق کے لئے اصغر تو رن کو جا چکے
@@ -48,4 +49,4 @@ romanLyrics: |-
 
 ۴
 سن کے اکبر کی شہادت کی خبر ماں نے کہا
-بعد تیرے زندگی میں اب میری کیا رہ گی
+بعد تیرے زندگی میں اب میری کیا رہ گیا

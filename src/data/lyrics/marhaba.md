@@ -6,75 +6,76 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Marhaba khairunnisa ya zahra
-  Bizzate khairulwara ya zahra
+  Marhaba Khairunnisa ya Zahra
+  Bizzat-e-Khairulwara ya Zahra
 
   1
-  Aisi maa jis pe meri maa qurban
-  Jis ke qadmon ki dhool arz o samaa
-  Jis ke bete shabaab e ahle jina
-  Jis ka shauhar he kul ka kul imaan
-  Baap faqre ambiya ya zahra
+  Aisi maaṅ jis pe meri maaṅ qurbaaṅ
+  Jis ke qadmoṅ ki dhul arz o samaaṅ
+  Jis ke bete shabaab-e-ahl-e-jinaaṅ
+  Jis ka shauhar hai kul ka kul imaaṅ
+  Baap fakhr-e-ambiyaa ya Zahra
 
   2
-  Aisi beti ke baap ki maa hai
-  Tu to qalb e rasool mein jaan hai
-  Teri taazeem us pe laazim hai
-  Jispe utra khuda ka quran hai
-  Ay kaneeze kibriya ya zahra
+  Aisi beti ke baap ki maaṅ hai
+  Tu to qalb-e-Rasul mein jaaṅ hai
+  Teri taazim us pe laazim hai
+  Jis pe utra Khuda ka Quraaṅ hai
+  Ae kaniz-e-Kibriya ya Zahra
 
   3
-  Jis ne gyara imam paale hai
-  Sehn e kaaba ke jo ujaale hai
-  Haye chakki ki wo mushaqat thi
-  Daste zahra mein ye jo chaale hai
-  Deen jis ke ghar pala ya zahra
+  Jis ne gyaarah Imam paale haiṅ
+  Sehn-e-Kaaba ke jo ujaale haiṅ
+  Haaye chakki ki wo mashaqqat thi
+  Dast-e-Zahra mein ye jo chhaale haiṅ
+  Din jis ke ghar paala ya Zahra
 
   4
-  Jo khadija ke qalb ki dhadkan
-  Khuld se jo mangaye pairahan
-  Taara utra jahan salaami ko
-  Do jahan mein hai wo tera aangan
-  Ye hai tera martaba ya zahra
+  Jo Khadija ke qalb ki dharkan
+  Khuld se jo mangaaye pairahan
+  Taara utra jahaaṅ salaami ko
+  Do jahaaṅ mein hai wo tera aaṅgan
+  Ye hai tera martaba ya Zahra
 
   5
-  Be zaron ko waqar e buzar de
-  Tashna kaamo ko jaam e kausar de
-  Tu hai kauno makaan ki shahzadi
-  Tu zameen ko bhi aasman kar de
-  Tu agar kar de dua ya zahra
+  Bezaroṅ ko waqaar-e-Buzar de
+  Tashna kaamoṅ ko jaam-e-Kausar de
+  Tu hai kaun o makaaṅ ki shahzaadi
+  Tu zamiṅ ko bhi aasmaaṅ kar de
+  Tu agar kar de dua ya Zahra
 
   6
-  Hubbe shabbir mein jo qatl huwe
-  Un shaheedon ki maghfirat ke liye
-  Teri nazre karam zaroori hai
-  Tere baba rasool ke sadqe
-  Kar rahe hai ilteja ya zahra
+  Hubb-e-Shabbir mein jo qatl hue
+  Un shahidoṅ ki maghfirat ke liye
+  Teri nazar-e-karam zaruri hai
+  Tere baaba Rasul ke sadqe
+  Kar rahe haiṅ ilteja ya Zahra
 
   7
-  Tune jis qaum ki dua maangi
-  Hai asar saare matami uski
-  Khoon apna baha rahe hai jo
-  Chahiye unko teri khushnoodi
-  Chahiye teri raza ya zahra
+  Tu ne jis qaum ki dua maaṅgi
+  Hai asar saare maatami us ki
+  Khun apna baha rahe haiṅ jo
+  Chaahiye un ko teri khushnudi
+  Chaahiye teri raza ya Zahra
 
   8
-  Dil tera bar sare sina bibi
-  Girta lamhon mein asmaan bibi
-  Bad'dua tu kahin jo kar deti
-  Khaak ho jaata ye jahan bibi
-  Doob jaati karbala ya zahra
+  Dil tera bar sar-e-sinaaṅ Bibi
+  Girta lamhoṅ mein aasmaaṅ Bibi
+  Baddua tu kahiṅ jo kar deti
+  Khaak ho jaata ye jahaaṅ Bibi
+  Dub jaati Karbala ya Zahra
 
   9
-  Roya rehaan azmi ka qalam
+  Roya Rehaan Azmi ka qalam
   Likhe qirtaas par jo tere alam
-  Karb se karbala hua hai dil
-  Khoon tapka nigaah se paiham
-  Ho saka na haq adaa ya zahra
+  Karb se Karbala hua hai dil
+  Khun tapka nigaah se paiham
+  Ho saka na haq ada ya Zahra
 # source_id: nohayonline:9b794dc404bc7400d117
 # source_url: https://www.nohayonline.com/details_content.php?id=2776
 # raw_sha256: 31d257bd7f4349cea81e57497289cf137663d0a4b5f79fa348720498163e535b
@@ -99,13 +100,13 @@ romanLyrics: |-
 ۳
 جس نے گیارہ امام پالے ہیں
 صحن کعبہ کے جو اجالے ہیں
-ہاے چکی کی وہ مشقت تھی
+ہائے چکی کی وہ مشقت تھی
 دست زہرا میں یہ جو چھالے ہیں
 دین جس کے گھر پالا یا زہرا
 
 ۴
 جو خدیجہ کے قلب کی دھڑکن
-خلد سے جو منگاے پیرہن
+خلد سے جو منگائے پیرہن
 تارا اترا جہاں سلامی کو
 دو جہاں میں ہے وہ تیرا آنگن
 یہ ہے تیرا مرتبہ یا زہرا
@@ -118,7 +119,7 @@ romanLyrics: |-
 تو اگر کر دے دعا یا زہرا
 
 ۶
-حب شبیر میں جو قتل ہوے
+حب شبیر میں جو قتل ہوئے
 ان شہیدوں کی مغفرت کے لئے
 تیری نظر کرم ضروری ہے
 تیرے بابا رسول کے صدقے
@@ -128,14 +129,14 @@ romanLyrics: |-
 تو نے جس قوم کی دعا مانگی
 ہے اثر سارے ماتمی اس کی
 خون اپنا بہا رہے ہیں جو
-چاہیےء ان کو تیری خوشنودی
-چاہیےء تیری رضا یا زہرا
+چاہیے ان کو تیری خوشنودی
+چاہیے تیری رضا یا زہرا
 
 ۸
-دل تیرا بر سرِ سناں بی بی
-گرتا لمحوں میں آسماں بی بی
-بد دعا تو کہیں جو کر دیتی
-خاک ہو جاتا یہ جہاں بی بی
+دل تیرا بر سرِ سناں بی‌بی
+گرتا لمحوں میں آسماں بی‌بی
+بددعا تو کہیں جو کر دیتی
+خاک ہو جاتا یہ جہاں بی‌بی
 ڈوب جاتی کربلا یا زہرا
 
 ۹

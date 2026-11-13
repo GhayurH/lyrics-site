@@ -1,68 +1,69 @@
 ---
-title: "مرنے کے لئے جاتا ہے بھای تیرا زینب"
+title: "مرنے کے لئے جاتا ہے بھائی تیرا زینب"
 alternateTitle: "Marne Ke Liye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Marne ke liye jaata hai bhai tera zainab
-  Har simt se maajaya tera ghir gaya zainab
+  Marne ke liye jaata hai bhaai tera Zainab
+  Har simt se maaṅ jaaya tera ghir gaya Zainab
 
   1
-  Tum jaanti ho qaime mein ab koi nahi hai
-  Abbas nahi qasim o akbar bhi nahi hai
-  Baysheer ki mayyat bhi mai dafna chuka zainab
+  Tum jaanti ho khaime mein ab koi nahiṅ hai
+  Abbas nahiṅ Qasim o Akbar bhi nahiṅ hai
+  Beshir ki mayyat bhi main dafna chuka Zainab
 
   2
-  Kis tarha sambhale dil e bechain ko laila
-  Wo bhool nahi payegi akbar ka kaleja
-  Uske dil e muztar ko bhi do hausla zainab
+  Kis tarah sambhaale dil-e-bechain ko Laila
+  Wo bhul nahiṅ paayegi Akbar ka kaleja
+  Us ke dil-e-muztar ko bhi do hausla Zainab
 
   3
-  Baysheer ki maa baithi hai jhoole ko sambhale
-  Sab loriyan chup hogayi honton pe hai naale
-  Chehre pe mere khoon hai baysheer ka zainab
+  Beshir ki maaṅ baithi hai jhule ko sambhaale
+  Sab loriyaaṅ chup ho gaiṅ hoṅtoṅ pe hai naale
+  Chehre pe mere khun hai Beshir ka Zainab
 
   4
-  Ab sookhe galay par mere chal jayega khanjar
-  Le jaan hai sajjad ko sholon se bacha kar
-  Ab zulm ka andaaz badal jayega zainab
+  Ab sukhe gale par mere chal jaayega khanjar
+  Le jaan hai Sajjad ko sholoṅ se bacha kar
+  Ab zulm ka andaaz badal jaayega Zainab
 
   5
-  Beenayi meri legaye sab ghar ke ujaale
-  Ab khaak pe sote hai meri godh ke paale
-  Ye dekhte hi dekhte kya hogaya zainab
+  Binaai meri le gaye sab ghar ke ujaale
+  Ab khaak pe sote haiṅ meri god ke paale
+  Ye dekhte hi dekhte kya ho gaya Zainab
 
   6
-  Hojayenge ab zulm ke andaaz niraale
-  Jo reh gaye qaime mein wo hai tere hawale
-  Ab farz ada karna hai abbas ka zainab
+  Ho jaayeṅge ab zulm ke andaaz niraale
+  Jo reh gaye khaime mein wo hai tere hawaale
+  Ab farz ada karna hai Abbas ka Zainab
 
   7
-  Jal jayenge qaime to bikhar jayenge bacche
-  Ek jaan tumhe karne hai ye asbeeh ke daane
-  Maqtal mein nikalna hai tujhe berida zainab
+  Jal jaayeṅge khaime to bikhar jaayeṅge bachche
+  Ek jaan tumheṅ karne hai ye tasbih ke daane
+  Maqtal mein nikalna hai tujhe berida Zainab
 
   8
-  Aada meri bacchi pe bahot zulm karenge
-  Mazlooma ko masooma ko maarenge tamache
-  Hai sakht masayeb ka tumhe saamna zainab
+  Aada meri bachchi pe bahut zulm kareṅge
+  Mazluma ko Maasuma ko maareṅge tamaache
+  Hai sakht masaaib ka tumheṅ saamna Zainab
 
   9
-  Bikhre huwe sab khoon bhare manzar hai nazar mein
-  Rukta hi nahi fikr ka taa'er hai safar mein
-  Maange hai rasheed aap se ab hausla zainab
+  Bikhre hue sab khuṅ bhare manzar hai nazar mein
+  Rukta hi nahiṅ fikr ka taair hai safar mein
+  Maaṅge hai Rasheed aap se ab hausla Zainab
 # source_id: nohayonline:d81b62b768904fa873d9
 # source_url: https://www.nohayonline.com/details_content.php?id=3538
 # raw_sha256: 7e40dfd92ae11ccec1d6d2524a26a7d606ed61cf91b2841b39552c49389103f3
 ---
-مرنے کے لئے جاتا ہے بھای تیرا زینب
-ہر سمت سے مانجایا تیرا گھر گیا زینب
+مرنے کے لئے جاتا ہے بھائی تیرا زینب
+ہر سمت سے ماں جایا تیرا گھر گیا زینب
 
 ۱
 تم جانتی ہو خیمے میں اب کوئی نہیں ہے
@@ -76,7 +77,7 @@ romanLyrics: |-
 
 ۳
 بے شیر کی ماں بیٹھی ہے جھولے کو سنبھالے
-سب لوریاں چھپ ہو گیء ہونٹوں پہ ہے نالے
+سب لوریاں چپ ہو گئیں ہونٹوں پہ ہے نالے
 چہرے پہ میرے خون ہے بے شیر کا زینب
 
 ۴
@@ -85,13 +86,13 @@ romanLyrics: |-
 اب ظلم کا انداز بدل جائے گا زینب
 
 ۵
-بینای میری لے گےء سب گھر کے اجالے
+بینائی میری لے گئے سب گھر کے اجالے
 اب خاک پہ سوتے ہیں میری گود کے پالے
 یہ دیکھتے ہی دیکھتے کیا ہو گیا زینب
 
 ۶
 ہو جائیں گے اب ظلم کے انداز نرالے
-جو رہ گےء خیمے میں وہ ہے تیرے حوالے
+جو رہ گئے خیمے میں وہ ہے تیرے حوالے
 اب فرض ادا کرنا ہے عباس کا زینب
 
 ۷
@@ -102,9 +103,9 @@ romanLyrics: |-
 ۸
 اعدا میری بچی پہ بہت ظلم کریں گے
 مظلومہ کو معصومہ کو ماریں گے طمانچے
-ہے سخت مصایب کا تمہیں سامنا زینب
+ہے سخت مصائب کا تمہیں سامنا زینب
 
 ۹
 بکھرے ہوئے سب خوں بھرے منظر ہے نظر میں
-رکتا ہی نہیں فکر کا طایر ہے سفر میں
+رکتا ہی نہیں فکر کا طائر ہے سفر میں
 مانگے ہے رشید آپ سے اب حوصلہ زینب
