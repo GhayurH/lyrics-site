@@ -1,78 +1,79 @@
 ---
-title: "مقتل سے لاش قاسم نوشاہ کی آی ہے"
+title: "مقتل سے لاش قاسم نوشاہ کی آئی ہے"
 alternateTitle: "Maqtal Se Laash"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Jaweed Maqsood"
+reciter: "Hadi Ali Khan Muslim"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Maqtal se laash qasim e naushaah ki aayi hai
+  Maqtal se laash Qasim-e-Naushaah ki aayi hai
 
   1
-  Baraatiyo ne kyun saff e matam bichayi hai
-  Dulhan ki maang khaak se kis ne sajayi hai
-  Shaadi ka hai makaan faza gham ki chaayi hai
-  Bewa hui hussain ki beti duhaai hai
+  Baraatiyoṅ ne kiuṅ saf-e-maatam bichhaayi hai
+  Dulhan ki maang khaak se kis ne sajaayi hai
+  Shaadi ka hai makaan faza gham ki chhaayi hai
+  Bewa hui Husain ki beti duhaai hai
 
   2
-  Khushiyan tamaam hogayi aansu bahaiye
-  Dulhan ko laa ke farshe aza par bithaiye
-  Shaadi ki rasm ho chuki bewa banayie
-  Fizza ye kiske marne ka paigham laayi hai
+  Khushiyaaṅ tamaam ho gayiṅ aansu bahaaiye
+  Dulhan ko laa ke farsh-e-aza par bithaaiye
+  Shaadi ki rasm ho chuki bewa banaaiye
+  Fizza ye kis ke marne ka paighaam laayi hai
 
   3
-  Bewon ke darmiyan ye farwa ki hai buka
-  Pal mein meri khushi ka jahan khaak hogaya
-  Bete ka ghar basane ka armaan tha mera
-  Ibne hassan ne maut ki basti basayi hai
+  Bewaoṅ ke darmiyaan ye Farwa ki hai buka
+  Pal mein meri khushi ka jahaaṅ khaak ho gaya
+  Bete ka ghar basaane ka armaan tha mera
+  Ibn-e-Hasan ne maut ki basti basaayi hai
 
   4
-  Farmate thay ye shaah ghazab hogaya behan
-  Pamaal ran mein hogaya naushaah ka badan
-  Aur tukde tukde hogaya bhaiya ka gul badan
-  Qasim ki laash hum ne abaa mein uthaayi hai
+  Farmaate the ye Shaah ghazab ho gaya behan
+  Paamaal ran mein ho gaya naushaah ka badan
+  Aur tukre tukre ho gaya bhaiya ka gul badan
+  Qasim ki laash hum ne aba mein uthaayi hai
 
   5
-  Jawed karbala ki ye shaadi ajeeb thi
-  Lamho mein jo khushi thi wo gham mein badal gayi
-  Shaadi koi jahan mein hoti hai jab kabhi
-  Ibne hassan ki yaad zamane ko aayi hai
+  Jaawed Karbala ki ye shaadi ajib thi
+  Lamhoṅ mein jo khushi thi wo gham mein badal gayi
+  Shaadi koi jahaaṅ mein hoti hai jab kabhi
+  Ibn-e-Hasan ki yaad zamaane ko aayi hai
 # source_id: nohayonline:8bf8b44e6ab560674d9f
 # source_url: https://www.nohayonline.com/details_content.php?id=1971
 # raw_sha256: e0d98ef8f4450ee76aa534088b40a83ce066ebaa5457126d695270c596494885
 ---
-مقتل سے لاش قاسم نوشاہ کی آی ہے
+مقتل سے لاش قاسم نوشاہ کی آئی ہے
 
 ۱
-باراتیوں نے کیوں صف ماتم بچھای ہے
-دلہن کی مانگ خاک سے کس نے سجای ہے
+باراتیوں نے کیوں صف ماتم بچھائی ہے
+دلہن کی مانگ خاک سے کس نے سجائی ہے
 شادی کا ہے مکان فضا غم کی چھائی ہے
-بیوہ ہوی حسین کی بیٹی دہائی ہے
+بیوہ ہوئی حسین کی بیٹی دہائی ہے
 
 ۲
-خوشیاں تمام ہو گیء آنسوں بہایےء
-دلہن کو لا کے فرش عزا پر بٹھایےء
+خوشیاں تمام ہو گئیں آنسو بہائیے
+دلہن کو لا کے فرش عزا پر بٹھائیے
 شادی کی رسم ہو چکی بیوہ بنائیے
-فضہ یہ کس کے مرنے کا پیغام لای ہے
+فضہ یہ کس کے مرنے کا پیغام لائی ہے
 
 ۳
 بیوؤں کا درمیان یہ فروہ کی ہے بکا
 پل میں میری خوشی کا جہاں خاک ہو گیا
 بیٹے کا گھر بسانے کا ارمان تھا میرا
-ابنِ حسن نے موت کی بستی بسای ہے
+ابنِ حسن نے موت کی بستی بسائی ہے
 
 ۴
-فرماتے تھے یہ شاہ غضب ہوگیا بہن
+فرماتے تھے یہ شاہ غضب ہو گیا بہن
 پامال رن میں ہو گیا نوشاہ کا بدن
 اور ٹکڑے ٹکڑے ہو گیا بھیا کا گل بدن
-قاسم کی لاش ہم‌ نے عبا میں اٹھای ہے
+قاسم کی لاش ہم نے عبا میں اٹھائی ہے
 
 ۵
 جاوید کربلا کی یہ شادی عجیب تھی
-لمحوں میں جو خوشی تھی وہ غم میں بدل گیء
+لمحوں میں جو خوشی تھی وہ غم میں بدل گئی
 شادی کوئی جہاں میں ہوتی ہے جب کبھی
-ابنِ حسن کی یاد زمانے کو آی ہے
+ابنِ حسن کی یاد زمانے کو آئی ہے

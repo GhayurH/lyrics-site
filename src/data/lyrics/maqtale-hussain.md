@@ -1,91 +1,92 @@
 ---
 title: "شبیر کے زخموں پر مہدی"
-alternateTitle: "Maqtale Hussain"
+alternateTitle: "Maqtal-e-Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nasir Hussain"
+reciter: "Irfan Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shabbir ke zakhmon par mehdi
-  
+  Shabbir ke zakhmoṅ par Mehdi
+  Aankhoṅ se khuṅ bahaate haiṅ
+  Tere sukhe gale ko kaata gaya
+  Ye keh ke tarapte jaate haiṅ
+
   1
-  Aankhon se khoon bahate hai
-  Tere sookhe galay ko kaata gaya
-  Ye kehke tadapte jaate hai
-  Seene pa jo tere naiza laga
+  Sine pe jo tere neza laga
   Wo pusht ki jaanib se nikla
-  Aur ek shaqi ka teer e sitam
-  Tere maathe phir aake lagaa
-  Un zakhmon par phir aake layeen
-  Has kar pathar barsate hai
-  
+  Aur ek shaqi ka tir-e-sitam
+  Tere maathe phir aa ke laga
+  Un zakhmoṅ par phir aa ke laiṅ
+  Hans kar patthar barsaate haiṅ
+
   2
-  Cheda hai badi bedardi se
-  Asghar ki tarha tera bhi gala
-  Ek teer tere phir dil pa laga
-  Jis se tujhe akbar yaad aaya
-  Tere dil ki ragein ab naizon se
-  Be dard musalman kaat'te hai
-  
+  Chheda hai bari bedardi se
+  Asghar ki tarah tera bhi gala
+  Ek tir tere phir dil pe laga
+  Jis se tujhe Akbar yaad aaya
+  Tere dil ki rageṅ ab nezoṅ se
+  Bedard Musalmaan kaatte haiṅ
+
   3
-  Teri dayen taraf ki phasli par
-  Jab naiza laga tu bayen gira
-  Jab bayen taraf ki phasli par
-  Ek naiza laga tu dayen gira
-  Zahra ki tarha ay maula teri
-  Ab zaalim phasliyan tod'te hai
-  
+  Teri daayeṅ taraf ki pasli par
+  Jab neza laga tu baayeṅ gira
+  Jab baayeṅ taraf ki pasli par
+  Ek neza laga tu daayeṅ gira
+  Zahra ki tarah ae Maula teri
+  Ab zaalim pasliyaaṅ torte haiṅ
+
   4
-  Bin e kaahil ka ek zehr bhara
-  Phir teer tere maathe pe laga
-  Ek zaalim ne aage bad kar
+  Bin-e-Kaahil ka ek zehr bhara
+  Phir tir tere maathe pe laga
+  Ek zaalim ne aage barh kar
   Ek gurz tere sar par maara
-  Maloon tujhe phir naizon se
-  Bhaalon se zameen par laate hai
-  
+  Malun tujhe phir nezoṅ se
+  Bhaaloṅ se zamiṅ par laate haiṅ
+
   5
-  Koi loot'ta hai phir teri aba
-  Koi loot'ta hai ammama tera
-  Koi tera kamarband khaynchta hai
-  Koi khaynchta hai kurta tera
-  Aur garm zameen ki khaak tere
-  Zakhmon mein sitamgar daalte hai
-  
+  Koi lutta hai phir teri aba
+  Koi lutta hai amaama tera
+  Koi tera kamarband khenchta hai
+  Koi khenchta hai kurta tera
+  Aur garm zamiṅ ki khaak tere
+  Zakhmoṅ mein sitamgar daalte haiṅ
+
   6
-  Tere zakhmi galay ko shimr e layeen
-  Phir kaat'ta hai lakdi jaisa
-  Zainab se layeen wo kehta hai
-  Abbas ko ab bulwao zara
-  Dekhe wo ke kaise hum sheh ke
-  Marne par khushiyan manaate hai
-  
+  Tere zakhmi gale ko Shimr-e-laiṅ
+  Phir kaatta hai lakri jaisa
+  Zainab se laiṅ wo kehta hai
+  Abbas ko ab bulwaao zara
+  Dekhe wo ke kaise hum Shah ke
+  Marne par khushiyaaṅ manaate haiṅ
+
   7
-  Teeron pe pada tha sehra mein
-  Be-gor o kafan sheh ka laasha
-  Nasir na koi tha maula tera
-  Jab laasha tera pamaal hua
-  Yun fatema zahra aur ali
-  Teri ghurbat par ghash khaate hai
+  Tiroṅ pe para tha sehra mein
+  Begor o kafan Shah ka laasha
+  Nasir na koi tha Maula tera
+  Jab laasha tera paamaal hua
+  Yuṅ Fatima Zahra aur Ali
+  Teri ghurbat par ghash khaate haiṅ
 # source_id: nohayonline:7ccd5f7541a88b71d085
 # source_url: https://www.nohayonline.com/details_content.php?id=1185
 # raw_sha256: f7f5ed53b0dd563a02d125a23203548e6465e73f3d84ef02203a33bd2e2bc4d5
 ---
 
 شبیر کے زخموں پر مہدی
-
-۱
 آنکھوں سے خوں بہاتے ہیں
 تیرے سوکھے گلے کو کاٹا گیا
-یہ کہکے تڑپتے جاتے ہیں
+یہ کہہ کے تڑپتے جاتے ہیں
+
+۱
 سینے پہ جو تیرے نیزہ لگا
 وہ پشت کی جانب سے نکلا
 اور ایک شقی کا تیر ستم
-تیرے ماتھے پھر آکے لگا
-ان زخموں پر پھر آکے لعیں
+تیرے ماتھے پھر آ کے لگا
+ان زخموں پر پھر آ کے لعیں
 ہنس کر پتھر برساتے ہیں
 
 ۲
@@ -97,10 +98,10 @@ romanLyrics: |-
 بے درد مسلمان کاٹتے ہیں
 
 ۳
-تیری دایں طرف کی پسلی پر
-جب نیزہ لگا تو بایںں گرا
-جب باییں طرف کی پسلی پر
-اک نیزہ لگا تو داییں گرا
+تیری دائیں طرف کی پسلی پر
+جب نیزہ لگا تو بائیں گرا
+جب بائیں طرف کی پسلی پر
+اک نیزہ لگا تو دائیں گرا
 زہرا کی طرح اے مولا تیری
 اب ظالم پسلیاں توڑتے ہیں
 
@@ -124,7 +125,7 @@ romanLyrics: |-
 تیرے زخمی گلے کو شمر لعیں
 پھر کاٹتا ہے لکڑی جیسا
 زینب سے لعیں وہ کہتا ہے
-عباس کو اب بلواوء زرا
+عباس کو اب بلواؤ ذرا
 دیکھیں وہ کہ کیسے ہم شہ کے
 مرنے پر خوشیاں مناتے ہیں
 
