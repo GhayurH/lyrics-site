@@ -1,45 +1,46 @@
 ---
 title: میں راہِ شام سے گزری ہوں بے ردا بابا
-alternateTitle: Mai Raahe Shaam Se
+alternateTitle: Main Raah-e-Shaam Se
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mazhar"
+reciter: "Jarrar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  May raah-e-Shaam se guzri hoon be rida baba
-  Aseer-e-zulm hoon roti hoon be rida baba
+  Main raah-e-Shaam se guzri huṅ be rida baaba
+  Asir-e-zulm huṅ roti huṅ be rida baaba
 
   1
-  1. Tha bekafan tera islam mai rida dekar
-  Bala ke dasht se, aayi hoon bay rida baba
+  Tha be kafan tera Islam main rida de kar
+  Bala ke dasht mein aai huṅ be rida baaba
 
   2
-  2. Sitam garoon ne sataya hai taziyaano se
-  Jo thak ke raah mein, sooyi hoon bay rida baba
+  Sitamgaaroṅ ne jagaaya hai taaziyaanoṅ se
+  Jo thak ke raah mein soti huṅ be rida baaba
 
   3
-  3. Ado jo durre lagata hai mere abid ko
-  May dil ko tham kar, bhaithi hoon bay rida baba
+  Adu jo durre lagaate haiṅ mere Abid ko
+  Main dil ko thaam ke roti huṅ be rida baaba
 
   4
-  4. Lahoo bahata hai ankhon se abid-e-muztar
-  May jab bhi kantoo pe, chalti hoon be rida baba
+  Lahu bahaata hai aaṅkhoṅ se Abid-e-muztar
+  Main jab bhi kaaṅtoṅ pe chalti huṅ be rida baaba
 
   5
-  5. Safar ki khak ne balon ka kar liya parda
-  May is ke baad bhi, phir-thi hoon bay rida baba
+  Safar ki khaak ne baaloṅ ka kar liya parda
+  Main is ke baad bhi baithi huṅ be rida baaba
 
   6
-  Bichadne waalon ke matam mein raat din guzre
-  Har ek naam pe tadpi hoo berida baba
+  Bichharne waaloṅ ke maatam mein raat din guzre
+  Har ik naam pe tarpi huṅ be rida baaba
 
   7
-  6. Meri aseeri pay MAZHER ne yeh likha nawha
-  Har ek lafz pe, tarrpi hoon bay rida baba
+  Meri asiri pe Mazhar ne jo likha noha
+  Har ik lafz pe tarpi huṅ be rida baaba
 # source_id: nohayonline:bbf8f78df057e4afffc8
 # source_url: https://www.nohayonline.com/details_content.php?id=672
 # raw_sha256: 6629b27eb73c6b633566d8e816fee045634d40649b7b978c54b86a85e7c8901c
@@ -49,32 +50,32 @@ romanLyrics: |-
 # added_stanza_source: roman:kalam-nohayonline-bbf8f78df057e4afffc8
 ---
 میں راہِ شام سے گزری ہوں بے ردا بابا
-اسیرِ ظلم ہوں (2) روتی ہوں بے ردا بابا
+اسیرِ ظلم ہوں روتی ہوں بے ردا بابا
 
 ۱
 تھا بے کفن تیرا اسلام میں ردا دے کر
-بَلا کے دشت میں (2) آئی ہوں بے ردا بابا
+بَلا کے دشت میں آئی ہوں بے ردا بابا
 
 ۲
 ستم گاروں نے جگایا ہے تعزیانوں سے
-جو تھک کے راہ میں (2) سوتی ہوں بے ردا بابا
+جو تھک کے راہ میں سوتی ہوں بے ردا بابا
 
 ۳
 عدو جو دُرے لگاتے ہیں میرے عابد کو
-میں دل کو تھام کے روتی ہوں بے ردابابا
+میں دل کو تھام کے روتی ہوں بے ردا بابا
 
 ۴
 لہو بہاتا ہے آنکھوں سے عابدِ مضطر
-میں جب بھی کانٹوں پہ (2) چلتی ہوں بے ردا بابا
+میں جب بھی کانٹوں پہ چلتی ہوں بے ردا بابا
 
 ۵
 سفر کی خاک نے بالوں کا کر لیا پردہ
-میں اس کے بعد بھی (2) بیٹھی ہوں بے ردا بابا
+میں اس کے بعد بھی بیٹھی ہوں بے ردا بابا
 
 ۶
 بچھڑنے والوں کے ماتم میں رات دن گزرے
-ہر اک نام پہ (2) تڑپی ہوں بے ردا بابا
+ہر اک نام پہ تڑپی ہوں بے ردا بابا
 
 ۷
 میری اسیری پہ مظہر نے جو لکھا نوحہ
-ہر اک لفظ پہ (2) تڑپی ہوں بے ردا بابا
+ہر اک لفظ پہ تڑپی ہوں بے ردا بابا

@@ -1,79 +1,82 @@
 ---
 title: "نہ مارو نہ مارو"
-alternateTitle: "Mai Qaidi Hoo"
+alternateTitle: "Main Qaidi Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Na maaro na maaro
-  Haye pathar na maaro
-  Pathar barsane waalon
-  Mai qaidi pardesi hoo
-  Mujhko tadpaane ki khaatir
-  Zehra ka rulaane ki khaatir
-  Raston ko sajaane waalon pardesi hoo
+  Haae patthar na maaro
+  Patthar barsaane waaloṅ
+  Main qaidi pardesi huṅ
+
+  Mujh ko tarpaane ki khaatir
+  Zehra ko rulaane ki khaatir
+  Rastoṅ ko sajaane waaloṅ pardesi huṅ
 
   1
-  Sunte ho azan mein naam uska
-  Dar asl wo hai mera nana
-  Aaye ho tamashayi ban kar
-  Be-makhna hoo mai be-chadar
-  Ay mujhko rulaane waalon pardesi hoo
+  Sunte ho azaaṅ mein naam us ka
+  Dar asl wo hai mera naana
+  Aae ho tamaashaai ban kar
+  Be miqna lahu mein be chaadar
+  Ae mujh ko rulaane waaloṅ pardesi huṅ
 
   2
-  Kaanto pe chalaate ho mujhko
-  Har gaam sataate ho mujhko
-  Durro se aziyyat dete ho
-  Rone pe qayamat dhaate ho
-  Bazaar mein laane waalon pardesi hoo
+  Kaaṅtoṅ pe chalaate ho mujh ko
+  Har gaam sataate ho mujh ko
+  Durroṅ se aziyyat dete ho
+  Rone pe qayaamat dhaate ho
+  Baazaar mein laane waaloṅ pardesi huṅ
 
   3
-  Din dhoop mein hai shab oss mein hai
+  Din dhup mein hai shab os mein hai
   Har ek lamha afsos mein hai
-  Zardi hai alam ki chehron par
-  Aur gard e safar hai baalon par
-  Dil mera dukhaane waalon pardesi hoo
+  Zardi hai alam ki chehroṅ par
+  Aur gard-e-safar hai baaloṅ par
+  Dil mera dukhaane waaloṅ pardesi huṅ
 
   4
-  Is shehr ki mai shehzadi thi
+  Is shehr ki main shehzaadi thi
   Sab ko parda sikhlaati thi
-  Azaad kaneezo ko bhi kiya
-  Apna yateemo ko samjha
-  Mujhe qaidi banaane waalon pardesi hoo
+  Aazaad kanizoṅ ko bhi kiya
+  Apna yatimoṅ ko samjha
+  Mujhe qaidi banaane waaloṅ pardesi huṅ
 
   5
-  Saaye mein nahi chalne dete
-  Aaraam nahi karne dete
-  Girte hai jo oonton se
-  Bache marte hai wo dab kar pairon se
-  Ay rehm na khaane waalon pardesi hoo
+  Saae mein nahiṅ chalne dete
+  Aaraam nahiṅ karne dete
+  Girte haiṅ jo uṅtoṅ se
+  Bachche marte haiṅ wo dab kar pairoṅ se
+  Ae rehm na khaane waaloṅ pardesi huṅ
 
   6
   Mere bhai bhatije maar diye
-  Sar kaat ke phir naizon pe rakhe
-  Raste mein ko thokar khaata hai
-  Bemaar ko ghash aa jaata hai
-  Ay zakhm lagane waalon pardesi hoo
+  Sar kaat ke phir nezoṅ pe rakhe
+  Raste mein koi thokar khaata hai
+  Bimaar ko ghash aa jaata hai
+  Ae zakhm lagaane waaloṅ pardesi huṅ
 
   7
   Rehaan meri aaqa zaadi
-  Darbar mein yun thi faryadi
-  Kohraam bapa darbar mein tha
-  Us waqt nabi zaadi ne kaha
-  Ghar mera jalaane waalon pardesi hoo
+  Darbaar mein yuṅ thi faryaadi
+  Kohraam bapa darbaar mein tha
+  Us waqt Nabi zaadi ne kaha
+  Ghar mera jalaane waaloṅ pardesi huṅ
 # source_id: nohayonline:3c82af2b61d1bb107885
 # source_url: https://www.nohayonline.com/details_content.php?id=1936
 # raw_sha256: 18d8a0be1ca28261f00132eea0266b64d25671645f3e543105f6931a9cd26bfa
 ---
 نہ مارو نہ مارو
-ہاے پتھر نہ مارو
+ہائے پتھر نہ مارو
 پتھر برسانے والوں
 میں قیدی پردیسی ہوں
+
 مجھکو تڑپانے کی خاطر
 زہرا کو رلانے کی خاطر
 رستوں کو سجانے والوں پردیسی ہوں
@@ -81,7 +84,7 @@ romanLyrics: |-
 ۱
 سنتے ہو اذاں میں نام اس کا
 در اصل وہ ہے میرا نانا
-آے ہو تماشائی بن کر
+آئے ہو تماشائی بن کر
 بے مقنہ لہو میں بے چادر
 اے مجھکو رلانے والوں پردیسی ہوں
 
@@ -107,14 +110,14 @@ romanLyrics: |-
 مجھے قیدی بنانے والوں پردیسی ہوں
 
 ۵
-ساے میں نہیں چلنے دیتے
+سائے میں نہیں چلنے دیتے
 آرام نہیں کرنے دیتے
 گرتے ہیں جو اونٹوں سے
 بچے مرتے ہیں وہ دب کر پیروں سے
 اے رحم نہ کھانے والوں پردیسی ہوں
 
 ۶
-میرے بھائی بھتیجے مار دیےء
+میرے بھائی بھتیجے مار دیے
 سر کاٹ کے پھر نیزوں پہ رکھے
 رستے میں کوئی ٹھوکر کھاتا ہے
 بیمار کو غش آ جاتا ہے
