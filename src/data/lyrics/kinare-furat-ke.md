@@ -6,53 +6,54 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Sachey Bhai"
+reciter: "Ali Rizvi Sachey"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kat kar gire thay kal jo kanare furaat ke
-  Wo haath aasra hai hamari nijaat ke
+  Kat kar gire the kal jo kinaare Furaat ke
+  Wo haath aasra haiṅ hamaari nijaat ke
 
   1
-  Hai thokron mein aaj bhi abbas ke furaat
-  Aise dhani bhi hote hai dunya mein baat ke
+  Hai thokaroṅ mein aaj bhi Abbas ke Furaat
+  Aise dhani bhi hote haiṅ duniya mein baat ke
 
   2
-  Unse ba-zor e taygh ye bayyat ki koshishein
-  Jo fatha dhaal dete hai saanche mein maat ke
+  Un se bazor-e-tegh ye baiat ki koshisheṅ
+  Jo fath dhaal dete haiṅ saanche mein maat ke
 
   3
-  Haste ho aansuon pe hamare khuda gawah
-  Hum jamma kar rahe hai waseele nijaat ke
+  Haṅste ho aansuoṅ pe hamaare Khuda gawaah
+  Ham jama kar rahe haiṅ wasile nijaat ke
 
   4
-  Karbobala mein teer e sitam kha ke ek sagheer
-  Lehra gaya jahan pe parcham hayaat ke
+  Karb o bala mein tir-e-sitam khaa ke ik saghir
+  Lehra gaya jahaan pe parcham hayaat ke
 
   5
-  Tera hi dil tha tu ne uthaali jawan ki laash
-  Sadqe hussain is tere paaye sabaat ke
+  Tera hi dil tha tu ne uthaa li jawaaṅ ki laash
+  Sadqe Husain is tere paaye sabaat ke
 
   6
-  Kis jaa chupe ho ay ali asghar jawab do
+  Kis jaa chhupe ho ae Ali Asghar jawaab do
   Maadar bhatak rahi hai andhere mein raat ke
 
   7
-  Hum bhi ghulame hurr hai karam ay shah e umam
-  Kab se hai muntazir nazr e iltefaat ke
+  Ham bhi ghulaam-e-Hur haiṅ karam ae Shah-e-Umam
+  Kab se haiṅ muntazir nazar-e-iltefaat ke
 
   8
-  Ho jaaye munharif ye zamana to fikr kya
-  Hum fatema se lenge silay nauha jaat ke
+  Ho jaaye munharif ye zamaana to fikr kya
+  Ham Fatima se leṅ ge sile nauha jaat ke
 # source_id: nohayonline:ebe8d19d4fcaf61b7e36
 # source_url: https://www.nohayonline.com/details_content.php?id=2906
 # raw_sha256: 1d921c1770a4da16b67b404b9d6d973ac6f8002b7aedf292e6c2d9e707761ce1
 ---
 کٹ کر گرے تھے کل جو کنارے فرات کے
-وہ ہاتھ آسراء ہیں ہماری نجات کے
+وہ ہاتھ آسرا ہیں ہماری نجات کے
 
 ۱
-یے ٹھوکروں میں آج بھی عباس کے فرات
+ہے ٹھوکروں میں آج بھی عباس کے فرات
 ایسے دھنی بھی ہوتے ہیں دنیا میں بات کے
 
 ۲
@@ -64,11 +65,11 @@ romanLyrics: |-
 ہم جمع کر رہے ہیں وسیلے نجات کے
 
 ۴
-کرب و بلا میں تیرِ ستم کھا کہ اِک صغیر
+کرب و بلا میں تیرِ ستم کھا کے اِک صغیر
 لہرا گیا جہان پہ پرچم حیات کے
 
 ۵
-تیرا ہی دل تھا تو نے اٹھالی جواں کی لاش
+تیرا ہی دل تھا تو نے اٹھا لی جواں کی لاش
 صدقے حسین اِس تیرے پائے ثبات کے
 
 ۶
@@ -77,7 +78,7 @@ romanLyrics: |-
 
 ۷
 ہم بھی غلامِ حر ہیں کرم اے شہِ اُمم
-کب سے ہیں منتظِر نزرِ التفات کے
+کب سے ہیں منتظِر نظرِ التفات کے
 
 ۸
 ہو جائے منحرف یہ زمانہ تو فِکر کیا

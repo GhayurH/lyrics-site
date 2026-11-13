@@ -2374,10 +2374,10 @@ src/data/lyrics/khudaya-zainab-berida.md,standalone_lyrics,imported,nohayonline,
 src/data/lyrics/khule-sar-bhai.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,2026-11-12-editorial-khuda-five,,"Need audio/print: s2 both endings ""hai"" vs ""haiṅ""; s3 ""durroṅ se nashtar se""; s6 ""aaya-e-tathir"" vs ""aayat-e-tathir""; s8 ""Bayaan Aamir""."
 src/data/lyrics/khutba-e-moula-abbas.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
 src/data/lyrics/khuwab-mein-jalwa-numa.md,standalone_lyrics,imported,tajpoints,pending,partial_review,partial_review,reviewed,not_applicable,reviewed,2026-11-12-editorial-khuda-five,,"Need poster/audio: couplet 1 ""jalwa numa jalwa-e-Sarkaar""; couplet 6 ""Buturaab aur shariat"" (source ""Buturab Our Shariyat""). Confirm wording before emendation."
-src/data/lyrics/khwaabe-ibrahim.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/kidhar-gaye-ammu.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/kijiye-iss-ko-qabool-aaqa-dar-e-abbas-par.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/kinare-furat-ke.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/khwaabe-ibrahim.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-12-editorial-khwaab-five,,
+src/data/lyrics/kidhar-gaye-ammu.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,2026-11-12-editorial-khwaab-five,,"Need audio/print: s3 ""besifar"" vs ""بے سفر""; s4 ""Udhar bhi"" vs ""ابھر بھی"" and ""tashna labi ki aankhon mein""; s5 ""udaas hai""/""nigahein pyasi hai""; s8 ""wo Irfan"". Confirm these source readings."
+src/data/lyrics/kijiye-iss-ko-qabool-aaqa-dar-e-abbas-par.md,standalone_lyrics,imported,tajpoints,pending,reviewed,reviewed,reviewed,not_applicable,reviewed,2026-11-12-editorial-khwaab-five,,
+src/data/lyrics/kinare-furat-ke.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-12-editorial-khwaab-five,,
 src/data/lyrics/kis-jurm-par-maara.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/kis-liye-chup-ho.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/kis-se-faryad-karun.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,

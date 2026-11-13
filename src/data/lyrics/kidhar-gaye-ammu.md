@@ -1,99 +1,100 @@
 ---
-title: "سکینہ روتی ہے ہاے کدھر گےء عمو"
+title: "سکینہ روتی ہے ہائے کدھر گئے عمو"
 alternateTitle: "Kidhar Gaye Ammu"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Fidwi Naqvi"
+reciter: "Irfan Husain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sakina roti hai haye kidhar gaye ammu
+  Sakina roti hai haaye kidhar gaye ammu
   
   1
-  Hussain qaime mein mashk o alam laaye hai
-  Magar taraayi pe saqqa ko chod aaye hai
-  Na jaane kaisi wasiyat wo kar gaye ammu
+  Husain khaime mein mashk o alam laaye haiṅ
+  Magar taraai pe saqqa ko chhor aaye haiṅ
+  Na jaane kaisi wasiyyat wo kar gaye ammu
   
   2
-  Khud apne haathon se parcham mein mashk baandhi thi
-  Wohi jagayi thi umeed pyase bacchon ki
-  Kahan duaon ka lekar asar gaye ammu
+  Khud apne haathoṅ se parcham mein mashk baandhi thi
+  Wohi jagaayi thi ummid pyaase bachchoṅ ki
+  Kahaaṅ duaaoṅ ka le kar asar gaye ammu
   
   3
-  Kamar ko haathon se thaame huwe hai kyun baba
-  Chidi hai mashke alam khoon mein hai kyun dooba
-  Ye kya hua kahan besifar gaye ammu
+  Kamar ko haathoṅ se thaame hue hai kiuṅ baaba
+  Chhidi hai mashk alam khuṅ mein hai kiuṅ duba
+  Ye kya hua kahaaṅ besifar gaye ammu
   
   4
-  Ye kaise aaye hai aansu phupi ki aankhon mein
-  Abhi to aas thi tashna labi ki aankhon mein
+  Ye kaise aaye haiṅ aansu phuphi ki aankhoṅ mein
+  Abhi to aas thi tashna labi ki aankhoṅ mein
   Udhar bhi dekhti hai kabhi idhar gaye ammu
   
   5
-  Kahin wo chand sa chehra nazar nahi aata
-  Nigahein pyasi hai saqqa nazar nahi aata
-  Udaas hai kahan rashke kamar gaye ammu
+  Kahiṅ wo chaand sa chehra nazar nahiṅ aata
+  Nigaaheṅ pyaasi hai saqqa nazar nahiṅ aata
+  Udaas hai kahaaṅ rashk-e-qamar gaye ammu
   
   6
-  Ye poochti hai khayalon mein khoyi khoyi si
-  Hai bibiyon ke saron par ridayein to baakhi
+  Ye puchhti hai khayaaloṅ mein khoyi khoyi si
+  Hai Bibiyoṅ ke saroṅ par ridaaeṅ to baaqi
   Magar ye kis liye chehre utar gaye ammu
   
   7
-  Shaheed hote to qaime mein laate sheh laasha
-  Har ek shaheed ki mayyat ko laaye hai baba
-  Kisi se pooche to kaise ke mar gaye ammu
+  Shahid hote to khaime mein laate shah laasha
+  Har ek shahid ki mayyat ko laaye haiṅ baaba
+  Kisi se puchhe to kaise ke mar gaye ammu
   
   8
-  Sakina bibi ki haalat ajeeb hai fidwi
-  Ye sochti hai wo irfan pyaas ki maari
-  Ke kaise toot ke kooze bikhar gaye ammu
+  Sakina Bibi ki haalat ajib hai Fidwi
+  Ye sochti hai wo Irfan pyaas ki maari
+  Ke kaise tut ke kuze bikhar gaye ammu
 # source_id: nohayonline:8a9cf5eddfb790c4d6c4
 # source_url: https://www.nohayonline.com/details_content.php?id=3515
 # raw_sha256: ee197f5e35c90196249c77bb3058d667bbcb34ee9b925635060111179ad23f1a
 ---
 
-سکینہ روتی ہے ہاے کدھر گےء عمو
+سکینہ روتی ہے ہائے کدھر گئے عمو
 
 ۱
-حسین خیمے میں مشک و علم لاے ہیں
-مگر ترای پہ سقہ کو چھوڑ آئے ہیں
-نہ جانے کیسی وصیت وہ کر گےء عمو
+حسین خیمے میں مشک و علم لائے ہیں
+مگر ترائی پہ سقا کو چھوڑ آئے ہیں
+نہ جانے کیسی وصیت وہ کر گئے عمو
 
 ۲
 خود اپنے ہاتھوں سے پرچم میں مشک باندھی تھی
-وہی جگای تھی امید پیاسے بچوں کی
-کہاں دعاؤں کا لے کر اثر گےء عمو
+وہی جگائی تھی امید پیاسے بچوں کی
+کہاں دعاؤں کا لے کر اثر گئے عمو
 
 ۳
 کمر کو ہاتھوں سے تھامے ہوئے ہے کیوں بابا
 چھدی ہے مشک علم خوں میں ہے کیوں ڈوبا
-یہ کیا ہوا کہاں بے سفر گےء عمو
+یہ کیا ہوا کہاں بے سفر گئے عمو
 
 ۴
-یہ کیسے آے ہیں آنسوں پھپھی کی آنکھوں میں
+یہ کیسے آئے ہیں آنسو پھپھی کی آنکھوں میں
 ابھی تو آس تھی تشنہ لبی کی آنکھوں میں
-ابھر بھی دیکھتی ہے کبھی ادھر گےء عمو
+ابھر بھی دیکھتی ہے کبھی ادھر گئے عمو
 
 ۵
 کہیں وہ چاند سا چہرہ نظر نہیں آتا
-نگاہیں پیاسی ہے سقہ نظر نہیں آتا
-اداس ہے کہاں رشک کمر گےء عمو
+نگاہیں پیاسی ہے سقا نظر نہیں آتا
+اداس ہے کہاں رشکِ قمر گئے عمو
 
 ۶
-یہ پوچھتی ہے خیالوں میں کھوی کھوی سی
-ہے بی بیوں کے سروں پر رداییں تو باقی
-مگر یہ کس لئے چہرے اتر گےء عمو
+یہ پوچھتی ہے خیالوں میں کھوئی کھوئی سی
+ہے بی‌بیوں کے سروں پر ردائیں تو باقی
+مگر یہ کس لیے چہرے اتر گئے عمو
 
 ۷
 شہید ہوتے تو خیمے میں لاتے شہ لاشہ
-ہر ایک شہید کی میت کو لاے ہیں بابا
-کسی سے پوچھے تو کیسے کے مر گئے عمو
+ہر ایک شہید کی میت کو لائے ہیں بابا
+کسی سے پوچھے تو کیسے کہ مر گئے عمو
 
 ۸
-سکینہ بی بی کی حالت عجیب ہے فدوی
+سکینہ بی‌بی کی حالت عجیب ہے فدوی
 یہ سوچتی ہے وہ عرفان پیاس کی ماری
-کہ کیسے ٹوٹ کے کوزے بکھر گےء عمو
+کہ کیسے ٹوٹ کے کوزے بکھر گئے عمو
