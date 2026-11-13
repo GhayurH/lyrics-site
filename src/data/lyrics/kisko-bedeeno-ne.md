@@ -1,55 +1,56 @@
 ---
 title: "کس کو بے دینوں نے مارا اے زمینِ کربلا"
-alternateTitle: "Kisko Bedeeno Ne"
+alternateTitle: "Kis Ko Bedinoṅ Ne"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kisko be-deeno ne maara ay zameene karbala
-  Hai payambar ka dulara ay zameene karbala
-  
+  Kis ko bedinoṅ ne maara ae zamin-e-Karbala
+  Hai Payambar ka dulaara ae zamin-e-Karbala
+
   1
-  Pani pani jab ke ho jayegi ye kheti tamam
-  Ek tu hogi kanara ay zameene karbala
-  
+  Paani paani jab ke ho jaayegi ye kheti tamaam
+  Ek tu hogi kinaara ae zamin-e-Karbala
+
   2
-  Kis tarha khodi lehad kya guzri dil par shah ke
-  Jab ke asghar ko utara ay zameene karbala
-  
+  Kis tarha khodi lahad kya guzri dil par Shaah ke
+  Jab ke Asghar ko utaara ae zamin-e-Karbala
+
   3
-  Laa rahe hai shaahe wala asghare baysheer ko
-  Ya koi quran ka paara ay zameene karbala
-  
+  Laa rahe haiṅ Shaah-e-waala Asghar-e-beshir ko
+  Ya koi Quraaṅ ka paara ae zamin-e-Karbala
+
   4
-  Lo chali maqtal ko ye kehti hui umme rabab
-  Mujhko asghar ne pukara ay zameene karbala
-  
+  Lo chali maqtal ko ye kehti hui Umm-e-Rubaab
+  Mujh ko Asghar ne pukaara ae zamin-e-Karbala
+
   5
-  Baap peeri mein utha'ta hai jawan bete ki laash
-  De zara bad kar sahara ay zameene karbala
-  
+  Baap piri mein uthaata hai jawaaṅ bete ki laash
+  De zara barh kar sahaara ae zamin-e-Karbala
+
   6
-  Dekhna turbat mein asghar ka zara rakhna khayal
-  Saare ghar ka hai dulara ay zameene karbala
-  
+  Dekhna turbat mein Asghar ka zara rakhna khayaal
+  Saare ghar ka hai dulaara ae zamin-e-Karbala
+
   7
-  Ye batade kis tarha mayyat pe pahunche thay hussain
-  Jab ke akbar ne pukara ay zameene karbala
-  
+  Ye bataa de kis tarha mayyat pe pahunche the Husain
+  Jab ke Akbar ne pukaara ae zamin-e-Karbala
+
   8
-  Le liye tune meri godhi ke paale boli maa
-  Ab karoon kyun kar guzara ay zameene karbala
+  Le liye tu ne meri godi ke paale boli maaṅ
+  Ab karuṅ kiun kar guzaara ae zamin-e-Karbala
 # source_id: nohayonline:8605ee751a8ec3035ad9
 # source_url: https://www.nohayonline.com/details_content.php?id=156
 # raw_sha256: 044e66b2537e6ea19335163e58c9a1480064118ddd54e801016ece6ddb1c4d45
 ---
 
 کس کو بے دینوں نے مارا اے زمینِ کربلا
-ہے پیعمبر کا دُلارا اے زمینِ کربلا
+ہے پیمبر کا دُلارا اے زمینِ کربلا
 
 ۱
 پانی پانی جب کہ ہو جائے گی یہ ریتی تمام
@@ -80,5 +81,5 @@ romanLyrics: |-
 جب کہ اکبر نے پُکارا اے زمینِ کربلا
 
 ۸
-لے لیئے توں نے میری گودی کے پالے بولی ماں
+لے لیے تُو نے میری گودی کے پالے بولی ماں
 اب کروں کیونکر گُزارا اے زمینِ کربلا

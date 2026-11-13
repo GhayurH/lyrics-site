@@ -1,92 +1,95 @@
 ---
-title: "جب لاشہئِ فرزندِ نبی ہوگیا پامال"
-alternateTitle: "Kisko De Sada Zainab"
+title: "جب لاشۂ فرزندِ نبی ہو گیا پامال"
+alternateTitle: "Kis Ko De Sadaa Zainab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Anees"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jab laasha e farzande nabi ho gaya pamaal
-  Us waqt ajab haal mein thi fatema ki aal
-  Tareekh ne kuch is tarha likha hai wo ehwaal
-  Sab bibiyon mein ek tha bibi ka bura haal
+  Jab laasha-e-farzand-e-Nabi ho gaya paamaal
+  Us waqt ajab haal mein thi Faatima ki aal
+  Taarikh ne kuch is tarha likha hai wo ahwaal
+  Sab Bibiyoṅ mein ek tha Bibi ka bura haal
+  Bechaini se aati thi dar-e-khaime pe har baar
+  Bachchoṅ ko samete hue kehti thi dilafgaar
+
+  Ae jari diler baawafa
+  Baazu-e-shahid-e-Karbala
+  Jaan-e-Faatima o Murtaza
+  Tashna lab Sakina ke chacha
+  Kis ko de sadaa Zainab
+  Fauj ab qarib aayi
+  Ae Husain ke bhaai
 
   1
-  Bechaini se aati thi dare qaime pe har baar
-  Bachon ko sameinte huwe kehti thi dilafgaar
-  Ay jari diler bawafa
-  Baazu e shaheede karbala
-  Jaane fatema o murtuza
-  Tashnalab sakina ke chacha
-  Kisko de sada zainab
-  Fauj ab qareeb aayi
-  Ay hussain ke bhai
-  Aap ko nahi hai ye khabar
-  Lut gaya hai fatema ka ghar
-  So rahe ho jaa ke nehr par
-  Naize pe rakha hai sheh ka sar
+  Aap ko nahiṅ ye khabar
+  Lut gaya hai Faatima ka ghar
+  So rahe ho jaa ke nahr par
+  Naize pe rakha hai Sheh ka sar
 
   2
-  Akbar-e-jawan nahi raha
-  Bezuban bhi qatl hogaya
-  Qasim-e-hazeen bhi chal basa
-  Khaatema hua sipaah ka
+  Akbar-e-jawaaṅ nahiṅ raha
+  Bezubaaṅ bhi qatl ho gaya
+  Qaasim-e-haziṅ bhi chal basa
+  Khaatima hua sipaah ka
 
   3
-  Kis tarha bataun ran ka haal
-  Laash ko karenge paemaal
-  Bhai ka karo to kuch khayaal
+  Kis tarha bataauṅ ran ka haal
+  Laash ko kareṅge paamaal
+  Bhaai ka karo to kuch khayaal
   Shaah-e-laafatah ke laal
 
   4
-  Karti hai rabab ye fughan
-  Hone ko hai raat ab ayaan
-  Ran mein hai hamara bezuban
-  Le ke aaye usko bhai jaan
+  Karti hai Rubaab ye fughaaṅ
+  Hone ko hai raat ab ayaaṅ
+  Ran mein hai hamaara bezubaaṅ
+  Le ke aaye us ko bhaai jaaṅ
 
   5
-  Qaimon ko jala na de layeen
-  Loot le na maal-o-zar kahin
-  Kya karega abid-e-hazeen
-  Usko tab se hosh hi nahin
+  Khaimoṅ ko jalaa na deṅ laiṅ
+  Lut le na maal o zar kahiṅ
+  Kya karega Aabid-e-haziṅ
+  Us ko tab se hosh hi nahiṅ
 
   6
-  Fauje shaam baaniye jafa
+  Fauj-e-Shaam baani-e-jafa
   Jaan ke akela benawa
-  Karde zulm ki na inteha
-  Cheen le ne aa ke ye rida
+  Kar de zulm ki na intiha
+  Chhin le na aa ke ye rida
 
   7
-  Kin jafaon ka ho taskira
-  Shaam-e-gham mein aale mustufa
-  Hogayi ghamon mein mubtila
-  Lab pe thi anees ye buka
+  Kin jafaaoṅ ka ho tazkira
+  Shaam-e-gham mein Aal-e-Mustafa
+  Ho gayi ghamoṅ mein mubtila
+  Lab pe thi Anis ye bukaa
 # source_id: nohayonline:cb7ea937bfc051773047
 # source_url: https://www.nohayonline.com/details_content.php?id=388
 # raw_sha256: 6de5ab5055bc333636362b87ff427fad734d92f5a4b90bc5f0588fc3373f880d
 ---
-جب لاشہئِ فرزندِ نبی ہوگیا پامال
+جب لاشۂ فرزندِ نبی ہو گیا پامال
 اُس وقت عجب حال میں تھی فاطمہ کی آل
 تاریخ نے کچھ اس طرح لکھا ہے وہ احوال
-سب بیبیوں میں ایک تھا بی بی کا بُرا حال
-
-۱
+سب بیبیوں میں ایک تھا بی‌بی کا بُرا حال
 بے چینی سے آتی تھی درِ خیمے پہ ہر بار
-بچوں کو سمیٹے ہوئے کہتی تھی د ل ا فگار
+بچوں کو سمیٹے ہوئے کہتی تھی دل افگار
+
 اے جری دلیر باوفا
-بازوئ ِشہیدِکربلا
+بازوئے شہیدِ کربلا
 جانِ فاطمہ و مرتضیٰ
 تشنہ لب سکینہ کے چچا
 کس کو دے صدا زینب
 فوج اب قریب آئی
 اے حسین کے بھائی
+
+۱
 آپ کو نہیں یہ خبر
 لُٹ گیا ہے فاطمہ کا گھر
-سو رہے ہو جا کہ نہر پر
+سو رہے ہو جا کے نہر پر
 نیزے پہ رکھا ہے شہہ کا سر
 
 ۲
@@ -96,8 +99,8 @@ romanLyrics: |-
 خاتمہ ہوا سپاہ کا
 
 ۳
-کس طرح بتائوں رن کا حال
-لاش کو کرینگے پائمال
+کس طرح بتاؤں رن کا حال
+لاش کو کریں گے پامال
 بھائی کا کرو تو کچھ خیال
 شاہِ لافتہ کے لال
 
@@ -114,13 +117,13 @@ romanLyrics: |-
 اُس کو تب سے ہوش ہی نہیں
 
 ۶
-فوجِ شام بانیئِ جفا
+فوجِ شام بانیٔ جفا
 جان کے اکیلا بینوا
 کر دے ظلم کی نہ انتہا
 چھین لے نہ آکے یہ ردا
 
 ۷
-کن جفائوں کاہو تذکرہ
+کن جفاؤں کا ہو تذکرہ
 شامِ غم میں آلِ مصطفےٰ
 ہوگئی غموں میں مبتلا
 لب پہ تھی انیس یہ بکا
