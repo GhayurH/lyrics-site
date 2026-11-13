@@ -1,58 +1,85 @@
 ---
-title: "Nara E Haideri"
-language: "Roman Urdu"
+title: "نعرۂ حیدری"
+alternateTitle: "Nara-e-Haideri"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu"]
-aliases: []
+poet: "Asad Ali Asad"
+reciter: "Abbas Haider Lalji, Yusuf Ali Okera, Shaan, Rizwan Hussain"
+tags: ["noImage"]
+aliases: ["Nara E Haideri"]
 published: false
+romanLyrics: |-
+  Ya Ali ya Ali ya Ali Murtaza
+  La fata sher-e-Yazdaan ya Iliya
+  Nara-e-Haideri ya Ali ya Ali
+  Bolo dil se sabhi ya Ali ya Ali
+
+  Taaj naam-e-Ali hai ibaadaat ka
+  Chhoro aisi namaazoṅ ka kya faaida
+  Jin mein naam-e-Ali hi na shaamil hua
+  Is se behtar hai sajda kiya na kiya
+  Bin Ali ke ibaadaat ka kya maza
+
+  Sar se paa tak Muhammad ki pehchaan hai
+  Mustafa ke badan mein Ali jaan hai
+  Mustafa ne kiya Khum mein ailaan hai
+  Jo Ali ki wilaayat ka farmaan hai
+  Hai lab-e-Mustafa se Khuda keh raha
+
+  Pehne sar par wilaayat ka jo taaj hai
+  Har wali jis ki chaukhat ka mohtaaj hai
+  Arsh se farsh tak jis ka hi raaj hai
+  Jis ki azmat ka ik naam meraaj hai
+  Woh jo meraaj mein Mustafa se mila
+
+  Haaṅ wasi-e-Rasul-e-Khuda hai Ali
+  Na Rasul-e-Khuda se juda hai Ali
+  Kab faqat naasir-e-Mustafa hai Ali
+  Saare nabiyoṅ ka mushkil kusha hai Ali
+  Mushkiloṅ mein yeh sab ka sahaara bana
+
+  Ik Ali hai Ali, ik Ali hai Khuda
+  Ik yehi naam hai do jahaaṅ ki baqa
+  Jo bhi is naam ke ishq mein mar gaya
+  Zinda hai woh kabhi bhi na hoga fana
+  Keh yeh waada Ali ke hai Allah ka
 # source_id: tajpoints:8b982d61ccaa3b8fac51
 # source_url: https://tajpoints.com/2023/01/nara-e-haideri-lyrics-in-urdu-abbas.html
 # raw_sha256: ad502c97137c5e73954705fc8ca55e25376392d6bccda87538005e2f00472703
 ---
+یا علی یا علی یا علی مرتضیٰ
+لا فتیٰ شیر یزداں یا ایلیا
+نعرۂ حیدری یا علی یا علی
+بولو دل سے سبھی یا علی یا علی
 
-Nara e Haideri Abbas Haider Lalji Yusuf Okera Shaan Rizwan Hussain
-Ya Ali Ya Ali Ya Ali Murtaza
+تاج نام علی ہے عبادات کا
+چھوڑو ایسی نمازوں کا کیا فائدہ
+جن میں نام علی ہی نہ شامل ہوا
+اس سے بہتر ہے سجدہ کیا نہ کیا
+بن علی کے عبادات کا کیا مزہ
 
-1
-Lafata Shair-e-Yazdan Ya Eliya
-Narah-e-Haidery Ya Ali Ya Ali
-Bolo Dil Se Sabhi Ya Ali Ya Ali
-Taj Nam-e-Ali Hai Ibadaat Ka
+سر سے پا تک محمد کی پہچان ہے
+مصطفیٰ کے بدن میں علی جان ہے
+مصطفیٰ نے کیا خم میں اعلان ہے
+جو علی کی ولایت کا فرمان ہے
+ہے لب مصطفیٰ سے خدا کہہ رہا
 
-2
-Choro Aisi Namazon Ka Kya Faida
-Jin Mein Nam-e-Ali Hi Na Shamil Howa
-Iss Se Behatar Hai Sajdah Kiya Na Kiya
-Bin Ali Ke Ibadaat Ka Kya Maza
+پہنے سر پر ولایت کا جو تاج ہے
+ہر ولی جس کی چوکھٹ کا محتاج ہے
+عرش سے فرش تک جس کا ہی راج ہے
+جس کی عظمت کا اک نام معراج ہے
+وہ جو معراج میں مصطفیٰ سے ملا
 
-3
-Sar Se Pa Tak Muhammad Ki Pehchan Hai
-Mustafa Ke Badan Mein Ali Jan Hai
-Mustafa Ne Kiya Khum Mein Ayelan Hai
-Jo Ali Ki Wilayat Ka Farman Hai
+ہاں وصی رسول خدا ہے علی
+نہ رسول خدا سے جدا ہے علی
+کب فقط ناصر مصطفیٰ ہے علی
+سارے نبیوں کا مشکل کشا ہے علی
+مشکلوں میں یہ سب کا سہارا بنا
 
-4
-Hai Lab-e-Mustafa Se Khuda Keh Raha
-Pehne Sar Par Wilayat Ka Jo Taj Hai
-Har Wali Jis Ki Chokhat Ka Muhtaj Hai
-Arsh Se Farsh Tak Jis Ka Hi Raaj Hai
-
-5
-Jis Ki Azmat Ka Ik Naam Mairaj Hai
-Woh Jo Mairaj Mein Mustafa Se Mila
-Haan Wasi-e-Rasool-e-Khuda Hai Ali
-Na Rasool-e-Khuda Se Juda Hai Ali
-
-6
-Kab Faqat Nasir-e-Mustafa Hai Ali
-Sare Nabiyon Ka Mushkil Kusha Hai Ali
-Mushkilon Mein Yeh Sab Ka Sahara Bana
-Ik Ali Hai Ali, Ik Ali Hai Khuda
-
-7
-Ik Yehi Naam Hai Do Jahan Ki Baqa
-Jo Bhi Iss Naam Ke Ishq Mein Mar Gaya
-Zindah Hai Woh Kabhi Bhi Na Hoga Fana
-Keh Yeh Wadah Ali Ke Hai ALLAH Ka
+اک علی ہے علی، اک علی ہے خدا
+اک یہی نام ہے دو جہاں کی بقا
+جو بھی اس نام کے عشق میں مر گیا
+زندہ ہے وہ کبھی بھی نہ ہوگا فنا
+کہ یہ وعدہ علی کے ہے اللہ کا

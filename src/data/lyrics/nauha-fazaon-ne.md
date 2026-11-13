@@ -1,45 +1,46 @@
 ---
 title: "نوحہ فضاؤں نے سنایا فرات کا"
-alternateTitle: "Nauha Fazaon Ne"
+alternateTitle: "Nauha Fazaaoṅ Ne"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Jaweed Maqsood"
+reciter: "Raza Ali Khan"
 tags: ["noImage"]
-aliases: []
+aliases: ["Nauha Fazaon Ne"]
 published: false
 romanLyrics: |-
-  Nauha fazaon ne sunaya faraat ka
-  Saahil pe qatl hogaya saqqa faraat ka
+  Nauha fazaaoṅ ne sunaaya Furaat ka
+  Saahil pe qatl ho gaya saqqa Furaat ka
 
   1
-  Pyase ka khoon beh gaya mashkeeza chid gaya
-  Lehron ke shor may tadapna faraat ka
+  Pyaase ka khun beh gaya mashkiza chhid gaya
+  Lehroṅ ke shor mein tarapna Furaat ka
 
   2
-  Bacche taras ke reh gaye pani ki boond ko
-  Shaane kata ke soya maseeha faraat ka
+  Bachche taras ke reh gaye paani ki bund ko
+  Shaane kata ke soya masiha Furaat ka
 
   3
-  Wapas na aa sakega sakina tera chacha
-  Kya dekhti hai har ghadi rasta faraat ka
+  Waapas na aa sakega Sakina tera chacha
+  Kya dekhti hai har ghari rasta Furaat ka
 
   4
-  Hai sabeel mashk e sakina ki yaad may
-  Taqseem ho raha hai ye sadqa faraat ka
+  Hai sabil mashk-e-Sakina ki yaad mein
+  Taqsim ho raha hai ye sadqa Furaat ka
 
   5
-  Maujein tawaf karti hai ghazi ki qabr ka
-  Abbas ka mazaar hai kaaba faraat ka
+  Maujeṅ tawaaf karti hai Ghazi ki qabr ka
+  Abbas ka mazaar hai Kaaba Furaat ka
 
   6
-  Karbobala se shaam sakina ki qabr tak
-  Bachi ko pani dhoondta aaya faraat ka
+  Karbobala se Shaam Sakina ki qabr tak
+  Bachchi ko paani dhundta aaya Furaat ka
 
   7
-  Pyason ke gham may sookh gaya zard hogaya
-  Jaawed hum ne dekha hai chehra faraat ka
+  Pyaasoṅ ke gham mein sukh gaya zard ho gaya
+  Jaaved hum ne dekha hai chehra Furaat ka
 # source_id: nohayonline:d6998c3fd776504c6805
 # source_url: https://www.nohayonline.com/details_content.php?id=2185
 # raw_sha256: b30626a8cabf6bdf631bbd4f73713a30d9cab55f3c8fd310351d35ca8d1594a7
@@ -52,7 +53,7 @@ romanLyrics: |-
 لہروں کے شور میں تڑپنا فرات کا
 
 ۲
-واپس ترس کے رہ گےء پانی کی بوند کو
+بچے ترس کے رہ گئے پانی کی بوند کو
 شانے کٹا کے سویا مسیحا فرات کا
 
 ۳
