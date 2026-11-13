@@ -6,40 +6,38 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Aale Raza"
+reciter: "Nasir Jahan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Pukari laash pe zehra mere hussain hussain
-  Kafan bhi tune nahi paaya mere hussain hussain
-  Pukari laash pe zehra mere hussain hussain
-  
+  Pukaari laash pe Zehra mere Husain Husain
+  Kafan bhi tu nahiṅ paaya mere Husain Husain
+
   1
-  Mere ghareeb mere faaqa kasht mere pyase
-  Mere shaheed e tamanna mere hussain hussain
-  
+  Mere gharib mere faaqa kash mere pyaase
+  Mere shahid-e-tamanna mere Husain Husain
+
   2
-  Mai aayi hoo tere rone ko khuld se beta
-  Mujhe de uthke dilaasa mere hussain hussain
-  
+  Main aai huṅ tere rone ko khuld se beta
+  Mujhe de uth ke dilaasa mere Husain Husain
+
   3
-  Basi hai shaam ki basti madina veeran hai
-  Mazaar hai mera soona mere hussain hussain
+  Basi hai Shaam ki basti Madina wiraan hai
+  Mazaar hai mera suna mere Husain Husain
 # source_id: nohayonline:de9ee24d252c3b37dd63
 # source_url: https://www.nohayonline.com/details_content.php?id=1159
 # raw_sha256: 409a966025617657112dec216f11950b107573891861b77f13f1807ea0f0f548
 ---
-
 پکاری لاش پہ زہرا میرے حسین حسین
 کفن بھی تو نہیں پایا میرے حسین حسین
-پکاری لاش پہ زہرا میرے حسین حسین
 
 ۱
 میرے غریب میرے فاقہ کش میرے پیاسے
-میرے شہید تمنا میرے حسین حسین
+میرے شہیدِ تمنا میرے حسین حسین
 
 ۲
-میں آی ہوں تیرے رونے کو خلد سے بیٹا
+میں آئی ہوں تیرے رونے کو خلد سے بیٹا
 مجھے دے اٹھ کے دلاسہ میرے حسین حسین
 
 ۳

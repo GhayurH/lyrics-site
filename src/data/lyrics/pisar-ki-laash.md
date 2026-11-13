@@ -6,41 +6,42 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Fitrat"
+reciter: "Mirza Sikander Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ba haale zaar shahe mashraqain aate hai
-  Sar apna peet'te ba shore shain aate hai
-  Pisar ki laash uthane hussain aate hai
+  Ba haale zaar Shah-e-Mashriqain aate haiṅ
+  Sar apna pitte baa shor-e-shain aate haiṅ
+  Pisar ki laash uthaane Husain aate haiṅ
 
   1
-  Zameen kaampti hai aasman larazta hai
-  Zaban-e-khushk pe bas ya ali ka naara hai
+  Zamin kaaṅpti hai aasmaaṅ larazta hai
+  Zabaan-e-khushk pe bas ya Ali ka naara hai
 
   2
-  Bahare gulshane jannat se khoon tapakta hai
-  Ye gham ka josh hai kausar bhi sar patakta hai
+  Bahaar-e-gulshan-e-jannat se khun tapakta hai
+  Ye gham ka josh hai Kausar bhi sar patakhta hai
 
   3
-  Rawan hai aankhon se aansu kaleja jalta hai
-  Wo tashnagi hai jigar se dhuan nikalta hai
+  Rawaaṅ hai aaṅkhoṅ se aaṅsu kaleja jalta hai
+  Woh tashnagi hai jigar se dhuaaṅ nikalta hai
 
   4
-  Jigar ka zakhm chupega na khoon ki dhaaron se
-  Na chup sakega tane paash paash pyaron se
+  Jigar ka zakhm chhupaaeṅ ge na khuṅ ki dhaaroṅ se
+  Na chhup sake ga tan-e-paash paash pyaaroṅ se
 
   5
-  Zameen may toota hua phool hai jawani ka
-  Lahoo may dooba hua phool hai jawani ka
+  Zamin mein tuta hua phul hai jawaani ka
+  Lahu mein duba hua phul hai jawaani ka
 
   6
-  Koi nikaal le barchi ke phal ko seene se
-  Nida rasool ki aati hai ye madine se
+  Koi nikaal le barchhi ke phal ko sine se
+  Nida Rasul ki aati hai ye Madine se
 
   7
-  Ye gham sambhale sambhalta nahi ali fitrat
-  Pukarta hai ye maqtal koi kare nusrat
+  Ye gham sambhaale sambhalta nahiṅ Ali Fitrat
+  Pukaarta hai ye maqtal koi kare nusrat
 # source_id: nohayonline:798a12b9c6ebdbecab77
 # source_url: https://www.nohayonline.com/details_content.php?id=737
 # raw_sha256: 94506c7d32b0f29b56c11afa63bde720119e49a3a712d010ccad6fe815191992
@@ -67,7 +68,7 @@ romanLyrics: |-
 
 ۵
 زمین میں ٹوٹا ہوا پھول ہے جوانی کا
-لہو میں ڈوبا ہواپھول ہے جوانی کا
+لہو میں ڈوبا ہوا پھول ہے جوانی کا
 
 ۶
 کوئی نکال لے برچھی کے پھل کو سینے سے
