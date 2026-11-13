@@ -37,7 +37,8 @@ const sourceScanUrl = (value: number) => `/images/basta/original/${String(value)
       <span data-pagefind-filter="collection">Basta</span>
       <span data-pagefind-meta="collection">Basta · Individual kalam</span>
       <span data-pagefind-meta="title">{kalam.romanName || kalam.name}</span>
-      {kalam.romanName && <span data-pagefind-meta="roman_title">{kalam.romanName}</span>}
+      <span data-pagefind-meta="printed_page_url">/basta/{page}/</span>
+      <span data-pagefind-meta="printed_page_label">Printed page {page}</span>
       {kalamType && <span data-pagefind-filter="kalamType">{kalamType}</span>}
       <span data-pagefind-meta="page">{page}</span>
       <span data-pagefind-meta="searchTerms">{kalam.name} {kalam.romanName || ""} {kalam.sectionRoman}</span>

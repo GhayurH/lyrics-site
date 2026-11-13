@@ -18,6 +18,9 @@ import "../../styles/basta-navigation.css";
 import "../../styles/basta-text.css";
 import "../../styles/corrections.css";
 import { searchIndexAliases } from "../../lib/search-normalization";
+import { loadBastaKalamCatalog } from "../../lib/basta-kalam-data";
+import { bastaKalamId } from "../../lib/basta-kalam-units";
+import { unclaimedBastaPageText } from "../../lib/basta-search";
 
 const typedIndexEntries = indexEntries as BastaIndexEntry[];
 const { indexStartPage, indexEndPage } = settings;
@@ -75,8 +78,17 @@ const urduText = (entry.body ?? "").trim();
 const romanText = (entry.data.romanLyrics ?? "").trim();
 const hasRomanText = romanText.length > 0;
 
+const catalog = await loadBastaKalamCatalog();
+const indexedKalamIds = new Set(
+  catalog.kalams.filter((kalam) => kalam.status === "ready").map((kalam) => kalam.id),
+);
+const { urdu: indexedUrdu, roman: indexedRoman } = unclaimedBastaPageText(
+  urduText, romanText, page, catalog.assignments, indexedKalamIds,
+);
+const indexedPage = entry.data.imageOnly || Boolean(indexedUrdu.trim() || indexedRoman.trim());
 const pageIndexEntries = typedIndexEntries.filter(
-  (indexEntry) => indexEntry.page === page,
+  (indexEntry) => indexEntry.page === page &&
+    !indexedKalamIds.has(bastaKalamId(indexEntry)),
 );
 const bastaIndexSearchTerms = pageIndexEntries
   .flatMap((indexEntry) => [
@@ -132,10 +144,8 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
       <div class="pagefind-data" aria-hidden="true">
         <span data-pagefind-filter="collection">Basta</span>
         <span data-pagefind-meta="collection">Basta · Printed page</span>
-        {pageIndexEntries.find((entry) => entry.romanName?.trim())?.romanName && (
-          <span data-pagefind-meta="roman_title">
-            {pageIndexEntries.find((entry) => entry.romanName?.trim())?.romanName}
-          </span>
+        {pageIndexEntries.length === 1 && pageIndexEntries[0].romanName?.trim() && (
+          <span data-pagefind-meta="roman_title">{pageIndexEntries[0].romanName}</span>
         )}
         {kalamTypeFilters.map((kalamType) => (
           <span data-pagefind-filter="kalamType">{kalamType}</span>
@@ -152,19 +162,19 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
 
     {/* Search-only source separates printed lines from reader controls,
         navigation, scans, and stanza buttons. */}
-    <div class="visually-hidden" aria-hidden="true" data-pagefind-body>
-      <p>{searchIndexAliases([urduText, romanText, bastaIndexSearchTerms].join(" "))}</p>
+    {indexedPage && <div class="visually-hidden" aria-hidden="true" data-pagefind-body>
+      <p>{searchIndexAliases([indexedUrdu, indexedRoman, bastaIndexSearchTerms].join(" "))}</p>
       <p>Basta — Page {page}</p>
       {pageIndexEntries.map((indexEntry) => (
         <p>{indexEntry.romanName?.trim() || indexEntry.name}</p>
       ))}
-      {urduText.split(/\r?\n/u).map((line) => line.trim()).filter((line) => line && line !== "---***---").map((line) => (
+      {indexedUrdu.split(/\r?\n/u).map((line) => line.trim()).filter(Boolean).map((line) => (
         <p lang="ur" dir="rtl">{line}</p>
       ))}
-      {romanText.split(/\r?\n/u).map((line) => line.trim()).filter((line) => line && line !== "---***---").map((line) => (
+      {indexedRoman.split(/\r?\n/u).map((line) => line.trim()).filter(Boolean).map((line) => (
         <p lang="en" dir="ltr">{line}</p>
       ))}
-    </div>
+    </div>}
 
     <ReadingControls
       className="basta-page-reading-controls"

@@ -1,4 +1,5 @@
 // File role: Pagefind search-page controller: URL synchronization, active-filter chips, filter removal, and clear-all behavior.
+import { toPagefindOrFilters } from "../lib/search-filters";
 const FILTER_KEYS = [
   "collection",
   "kalamType",
@@ -18,6 +19,12 @@ type PagefindInstance = {
   on(event: "results", callback: (result: { results?: unknown[] }) => void): void;
   triggerLoad(): Promise<void>;
   triggerSearchWithFilters(term: string, filters: SearchFilters): void;
+  // Pagefind Component UI v1.6 stores its underlying search adapter here.
+  // Its public filters state is arrays, so keep that state unchanged for the
+  // dropdowns and convert only the engine request to OR-within-each-facet.
+  __pagefind__?: {
+    search: (term: string | null, options?: { filters?: Record<string, unknown>; sort?: Record<string, string> }) => Promise<unknown>;
+  };
 };
 
 declare global {
@@ -48,7 +55,7 @@ function normalizeFilters(raw: Record<string, unknown> = {}): SearchFilters {
     const strings = values.filter(
       (item): item is string => typeof item === "string" && item.trim().length > 0,
     );
-    if (strings.length) filters[key] = strings;
+    if (strings.length) filters[key] = [...new Set(strings)];
   }
 
   return filters;
@@ -60,7 +67,7 @@ function readUrlState(): { term: string; filters: SearchFilters } {
 
   for (const key of FILTER_KEYS) {
     const values = params.getAll(key).filter(Boolean);
-    if (values.length) filters[key] = values;
+    if (values.length) filters[key] = [...new Set(values)];
   }
 
   // Preserve old share links while keeping the current public vocabulary.
@@ -135,6 +142,13 @@ export async function initSearchPage(): Promise<void> {
   try {
     instance = await getPagefindInstance();
     await instance.triggerLoad();
+    const engine = instance.__pagefind__;
+    if (!engine) throw Error("Pagefind filter adapter unavailable");
+    const originalSearch = engine.search.bind(engine);
+    engine.search = (term, options) => originalSearch(term, {
+      ...options,
+      filters: toPagefindOrFilters(options?.filters as SearchFilters ?? {}),
+    });
   } catch (error) {
     console.error("Unable to initialize search:", error);
     const message = document.querySelector<HTMLElement>("#search-load-error");
