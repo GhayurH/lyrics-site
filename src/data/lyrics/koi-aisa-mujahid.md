@@ -1,70 +1,71 @@
 ---
-title: "کوئی ایسا مجاہد تو دیکھا دے"
+title: "کوئی ایسا مجاہد تو دکھا دے"
 alternateTitle: "Koi Aisa Mujahid"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zaheer Jaffery"
+reciter: "Mirza Sikander Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Koi aisa mujahid to dikhade
-  Galay par teer kha kar muskurade
+  Koi aisa mujaahid to dikha de
+  Gale par tir kha kar muskura de
 
   1
-  Badi mushkil hai koi baap kaise
-  Jawan bete ko marne ki riza de
+  Bari mushkil hai koi baap kaise
+  Jawaaṅ bete ko marne ki raza de
 
   2
-  Charaghe zindagi bujhta hai laila
-  Ali akbar ko daaman ki hawa de
+  Charaagh-e-zindagi bujhta hai Laila
+  Ali Akbar ko daaman ki hawa de
 
   3
-  Kaha shabbir ne ay khuwwate dil
-  Jawan laashe ali akbar utha de
+  Kaha Shabbir ne ae quwwat-e-dil
+  Jawaan laashe Ali Akbar utha de
 
   4
-  Riza e jang de kar shaah bole
-  Ajal qasim ko ab dulha bana de
+  Raza-e-jang de kar Shaah bole
+  Ajal Qasim ko ab dulha bana de
 
   5
-  Ali akbar ko hichki lag rahi hai
-  Koi ab to isay pani pilaade
+  Ali Akbar ko hichki lag rahi hai
+  Koi ab to use paani pila de
 
   6
-  Bade jallaad hai ye shaam wale
-  Badal sakte nahi inke iraade
+  Bare jallaad haiṅ ye Shaam waale
+  Badal sakte nahiṅ in ke iraade
 
   7
-  Sare zainab ki chadar chin chuki hai
-  Ghubare khaak uth chehra chupa de
+  Sar-e-Zainab ki chaadar chhin chuki hai
+  Ghubaar-e-khaak uth chehra chhupa de
 
   8
   Lagi hai aag bistar jal raha hai
-  Koi bemaar ka shana hilaade
+  Koi bimaar ka shaana hila de
 
   9
-  Guzar bazaar se hai bekaso ka
-  Koi in shaam walon ko hatade
+  Guzar baazaar se hai bekasoṅ ka
+  Koi in Shaam waaloṅ ko hata de
 
   10
-  Bhare darbar mein jaati hai zainab
-  Zara ay khuwwate dil hausla de
+  Bhare darbaar mein jaati hai Zainab
+  Zara ae quwwat-e-dil hausla de
 
   11
-  Sakina se yateemi keh rahi hai
-  Charaghe ashk zindan mein jala de
+  Sakina se yatimi keh rahi hai
+  Charaagh-e-ashk zindaaṅ mein jala de
 
   12
-  Koi kaaton pe paidal chal raha hai
-  Zaheer ab raah mein aankhein bicha de
+  Koi kaantoṅ pe paidal chal raha hai
+  Zaheer ab raah mein aankheṅ bichha de
 # source_id: nohayonline:c7556dfcccc86090b6e0
 # source_url: https://www.nohayonline.com/details_content.php?id=493
 # raw_sha256: bb2d1128d98b6a003c11de30d166a1b3d1237810e22829d29986f51f316c71ab
 ---
-کوئی ایسا مجاہد تو دیکھا دے
+کوئی ایسا مجاہد تو دکھا دے
 گلے پر تیر کھا کر مسکرا دے
 
 ۱
@@ -93,7 +94,7 @@ romanLyrics: |-
 
 ۷
 سرِ زینب کی چادر چھن چکی ہے
-غبارِ خاک اُٹھ چہرا چھپا دے
+غبارِ خاک اُٹھ چہرہ چھپا دے
 
 ۸
 لگی ہے آگ بستر جل رہا ہے
@@ -105,7 +106,7 @@ romanLyrics: |-
 
 ۱۰
 بھرے دربار میں جاتی ہے زینب
-ذرا اے قوت ِ دل حوصلہ دے
+ذرا اے قوتِ دل حوصلہ دے
 
 ۱۱
 سکینہ سے یتیمی کہہ رہی ہے
