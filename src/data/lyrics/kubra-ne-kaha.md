@@ -6,52 +6,54 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shaukath Bilgrami"
+reciter: "Hasan Abbas Ahsan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kubra ne kaha qasim dulha
-  Kis soone ban may sotay ho
-  Bachpan ka randapa dekho zara
+  Kubra ne kaha Qaasim dulha
+  Kis sune ban meiṅ sote ho
+  Bachpan ka randaapa dekho zara
+  Kis sune ban meiṅ sote ho
   
   1
-  Sehra hai kahin kangna hai kahin
-  Masnad ke aywaz hai khaak nasheen
-  Hai raand bani mahboose jafa
+  Sehra hai kahiṅ kangna hai kahiṅ
+  Masnad ke ewaz hai khaak nashiṅ
+  Hai raand bani mahbus-e-jafa
   
   2
-  Dekho to zara hum shane ali
+  Dekho to zara ham shaan-e-Ali
   Ye maang hamari khaak bhari
-  Kis se mai karoo kismat ka gila
+  Kis se maiṅ karuṅ qismat ka gila
   
   3
-  Paazeb ki jaa bedi hai padi
-  Kangne ke aywaz rassi hai bandhi
-  Kya khoob bani kya haal bana
+  Paazeb ki jaa beri hai pari
+  Kangne ke ewaz rassi hai bandhi
+  Kya khub bani kya haal bana
   
   4
-  Thaama tha jo tumne haat mera
-  Dena tha lahad tak saat mera
-  Ek shab ki bani se hoke khafa
+  Thaama tha jo tum ne haath mera
+  Dena tha lahad tak saath mera
+  Ek shab ki bani se ho ke khafa
   
   5
-  Mazloom banay be yaar banay
-  Marti hai bani ghamkhar banay
+  Mazlum bane be yaar bane
+  Marti hai bani ghamkhwaar bane
   Batlao to apna haal zara
   
   6
-  Matam may gireban phadungi
-  Baalon se lahad ko jhadungi
+  Maatam meiṅ garebaaṅ phaaruṅ gi
+  Baaloṅ se lahad ko jhaaruṅ gi
   Lillaah mujhe do apna pata
   
   7
   Shaadi ka naya qillat ye mila
-  Hai sar pe mere ek kaali rida
+  Hai sar pe mere ik kaali rida
   Dekho to dulhan ka haal zara
   
   8
-  Ho jaata tha showkat hashr bapa
-  Hilti thi zameene karbobala
+  Ho jaata tha Shaukat hashr bapa
+  Hilti thi zamin-e-Karb o Bala
   Kehti thi jo ro ro kar dukhiya
 # source_id: nohayonline:62928d2c8e43f8c2a967
 # source_url: https://www.nohayonline.com/details_content.php?id=579
@@ -60,32 +62,33 @@ romanLyrics: |-
 
 کبریٰ نے کہا قاسم دولہا
 کس سُونے بن میں سوتے ہو
-بچپن کا رنڈھاپا دیکھو ذرا
+بچپن کا رنڈاپا دیکھو ذرا
+کس سُونے بن میں سوتے ہو
 
 ۱
 سہرا ہے کہیں کنگنا ہے کہیں
-مسند کے ایوز ہے خاک نشیں
+مسند کے عوض ہے خاک نشیں
 ہے رانڈ بنی معبوثِ جفا
 
 ۲
-دیکھو تو زرا ہم شان علی
+دیکھو تو ذرا ہم شانِ علی
 یہ مانگ ہماری خاک بھری
 کس سے میں کروں قسمت کا گلہ
 
 ۳
 پازیب کی جا بیڑی ہے پڑی
-کنگنے کے ایوز رسی ہے بندھی
+کنگنے کے عوض رسی ہے بندھی
 کیا خوب بنی کیا حال بنا
 
 ۴
-تھاما تھا جوتم نے ہاتھ میرا
+تھاما تھا جو تم نے ہاتھ میرا
 دینا تھا لحد تک ساتھ میرا
 ایک شب کی بنی سے ہو کے خفا
 
 ۵
 مظلوم بنے بے یار بنے
 مرتے ہیں بنی غمخوار بنے
-بتلائو تو اپنا حال ذرا
+بتلاؤ تو اپنا حال ذرا
 
 ۶
 ماتم میں گریباں پھاڑوں گی
@@ -95,9 +98,9 @@ romanLyrics: |-
 ۷
 شادی کا نیا قلات یہ ملا
 ہے سر پہ میرے اک کالی ردا
-دیکھو تو دولہن کا حال ذرا
+دیکھو تو دلہن کا حال ذرا
 
 ۸
 ہو جاتا تھا شوکت حشر بپا
-ہہلتی تھی زمینے کرب و بلا
-کہتی تھی جو رو رو کر دپکھیا
+ہلتی تھی زمینِ کرب و بلا
+کہتی تھی جو رو رو کر دکھیّا

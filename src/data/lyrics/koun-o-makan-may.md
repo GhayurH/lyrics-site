@@ -1,52 +1,53 @@
 ---
 title: "کون و مکاں میں برپا ماتم ہے فاطمہ کا"
-alternateTitle: "Koun O Makan May"
+alternateTitle: "Kaun O Makaaṅ Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
+reciter: "Hadi Ali Khan Muslim"
 tags: ["noImage"]
-aliases: []
+aliases: ["Koun O Makan May"]
 published: false
 romanLyrics: |-
-  Koun o makan mein barpa matam hai fatema ka
+  Kaun o makaaṅ meiṅ barpa maatam hai Fatema ka
   
   1
-  Maghmoom hai fazayein rota hai zarra zarra
-  Bechain hai hawaein aur kar rahi hai girya
+  Maghmum hai fazaaeṅ rota hai zarra zarra
+  Bechain haiṅ hawaaeṅ aur kar rahi hai girya
   Har simt hai udaasi har simt hai andhera
-  Chashme falak hai purnam veeran hua madina
+  Chashm-e-falak hai purnam viraaṅ hua Madina
   
   2
-  Baade rasool e akram kya waqt aa pada tha
-  Har lamha thay masayab dil tukde ho raha tha
-  Athara saal ka sin aur haath mein asa tha
-  In aafaton mein jeena zehra ka hausla tha
+  Baad-e-Rasul-e-Akram kya waqt aa para tha
+  Har lamha the masaaib dil tukre ho raha tha
+  Athaara saal ka sin aur haath meiṅ asa tha
+  In aafatoṅ meiṅ jina Zehra ka hausla tha
   
   3
-  Sehti rahi musibat paiham nabi ki beti
-  Karti thi sabr har dam mazloom shaahzadi
-  Pehlu shikasta bibi khud peesti thi chakki
-  Dunya se jaa rahi hai khidmat mein mustafa ki
+  Sehti rahi musibat paiham Nabi ki beti
+  Karti thi sabr har dam mazlum shaahzaadi
+  Pehlu shikasta Bibi khud pisti thi chakki
+  Dunya se jaa rahi hai khidmat meiṅ Mustafa ki
   
   4
-  Ghurbat ka hai zamana kaisi ye bekasi hai
-  Maula e do jahan par uftaad ye nayi hai
-  Mushkil kusha pa kaisi mushkil ki ye ghadi hai
-  Tanhaai murtuza ki aansu baha rahi hai
+  Ghurbat ka hai zamaana kaisi ye bekasi hai
+  Maula-e-do jahaaṅ par uftaad ye nayi hai
+  Mushkil kusha pe kaisi mushkil ki ye ghari hai
+  Tanhaai Murtaza ki aansu baha rahi hai
   
   5
-  Dekha janaza maa ka roye hussain muztar
-  Aayi sadaye zehra ye maa nisaar tujh par
-  Rona tera gawara kaise karegi maadar
-  Seene se mai lagalun aaja hussain dilbar
+  Dekha janaaza maaṅ ka roye Husain muztar
+  Aayi sadaa-e-Zehra ye maaṅ nisaar tujh par
+  Rona tera gawaara kaise karegi maadar
+  Sine se maiṅ laga luṅ aa jaa Husain dilbar
   
   6
-  Zehra ka to janaza tareek shab mein utha
-  Yaad aate hai rasheed ab bazare shaam o kufa
-  Wo betiyan ali ki be-chadari ka charcha
-  Wo aalam e aseeri wo oont be kajawa
+  Zehra ka to janaaza taarik shab meiṅ utha
+  Yaad aate haiṅ Rasheed ab baazaar-e-Shaam o Kufa
+  Wo betiyaaṅ Ali ki bechaadari ka charcha
+  Wo aalam-e-asiri wo unt be kajaawa
 # source_id: nohayonline:84ab34308e22793f89cb
 # source_url: https://www.nohayonline.com/details_content.php?id=1961
 # raw_sha256: 6e0c6f79012763fe4282314acaefa6a746b9ad8e6c0bf3d256b79ea8203b9683
@@ -55,37 +56,37 @@ romanLyrics: |-
 کون و مکاں میں برپا ماتم ہے فاطمہ کا
 
 ۱
-مغموم ہے فضائیں روتا ہے زرہ زرہ
-بے چین ہیں ہواییں اور کر رہی ہے گریہ
+مغموم ہے فضائیں روتا ہے ذرہ ذرہ
+بے چین ہیں ہوائیں اور کر رہی ہے گریہ
 ہر سمت ہے اداسی ہر سمت ہے اندھیرا
 چشمِ فلک ہے پرنم ویراں ہوا مدینہ
 
 ۲
-بعد رسول اکرم کیا وقت آ پڑا تھا
+بعدِ رسولِ اکرم کیا وقت آ پڑا تھا
 ہر لمحہ تھے مصائب دل ٹکڑے ہو رہا تھا
-اٹھارہ سال ک سن اور ہاتھ میں عصا تھا
+اٹھارہ سال کا سن اور ہاتھ میں عصا تھا
 ان آفتوں میں جینا زہرا کا حوصلہ تھا
 
 ۳
 سہتی رہی مصیبت پیہم نبی کی بیٹی
 کرتی تھی صبر ہر دم مظلوم شاہ زادی
-پہلو شکستہ بی بی خود پیستی تھی چکی
-دنیا سے جا رہی ہے خدمت میں مصطفٰی کی
+پہلو شکستہ بی‌بی خود پیستی تھی چکی
+دنیا سے جا رہی ہے خدمت میں مصطفیٰ کی
 
 ۴
 غربت کا ہے زمانہ کیسی یہ بیکسی ہے
-مولاے دو جہاں پر افتاد یہ نیء ہے
-مشکل کشاء پہ کیسی مشکل کی یہ گھڑی ہے
-تنہائی مرتظی کی آنسوں بہا رہی ہے
+مولائے دو جہاں پر افتاد یہ نئی ہے
+مشکل کشا پہ کیسی مشکل کی یہ گھڑی ہے
+تنہائی مرتضیٰ کی آنسو بہا رہی ہے
 
 ۵
-دیکھا جنازہ ماں کا روے حسین مضطر
-آی صداے زہرا یہ ماں نثار تجھ پر
+دیکھا جنازہ ماں کا روئے حسین مضطر
+آئی صدائے زہرا یہ ماں نثار تجھ پر
 رونا تیرا گوارا کیسے کرے گی مادر
 سینے سے میں لگا لوں آجا حسین دلبر
 
 ۶
 زہرا کا تو جنازہ تاریک شب میں اٹھا
-یاد آتے ہیں رشید اب بازار شام و کوفہ
+یاد آتے ہیں رشید اب بازارِ شام و کوفہ
 وہ بیٹیاں علی کی بے چادری کا چرچہ
-وہ عالم اسیری وہ اونٹ بے کجاوا
+وہ عالمِ اسیری وہ اونٹ بے کجاوا
