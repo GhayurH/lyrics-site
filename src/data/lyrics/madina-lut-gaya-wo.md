@@ -6,58 +6,60 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Ishrat Lakhnavi"
+reciter: "Dilawar Hasan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Madina lut gaya wo waqt aaya
-  Ya rasool allah
-  Pasay sarwar tha ye zainab ka nauha
-  Ya rasool allah
+  Ya Rasul Allah
+
+  Pas-e-Sarwar tha ye Zainab ka nauha
+  Ya Rasul Allah
 
   1
-  Imam e waqt ko sajde may pyasa qatl kar daala
-  Musalmano ne aisa zulm dhaaya ya rasool allah
+  Imam-e-waqt ko sajde mein pyaasa qatl kar daala
+  Musalmaanoṅ ne aisa zulm dhaaya ya Rasul Allah
 
   2
-  Pasay shabbir jab koi nahi tha fauje aada ne
-  Ridayein cheen li asbaab loota ya rasool allah
+  Pas-e-Shabbir jab koi nahiṅ tha fauj-e-aada ne
+  Ridaaeṅ chhin li asbaab luta ya Rasul Allah
 
   3
-  Layeeno ke mazaalim aur sitam ki inteha ye hai
-  Jala daala ali asghar ka jhoola ya rasool allah
+  Lainoṅ ke mazaalim aur sitam ki inteha ye hai
+  Jala daala Ali Asghar ka jhula ya Rasul Allah
 
   4
-  Yaqeen ahle haram ko hogaya sheh ki shahadat ka
-  Kafan sandooq se jab laayi fizza ya rasool allah
+  Yaqin ahl-e-haram ko ho gaya Shah ki shahaadat ka
+  Kafan sanduq se jab laayi Fizza ya Rasul Allah
 
   5
-  Bataun kis zaban se mai mere mazloom bhai ne
-  Uthaya kis tarha akbar ka laasha ya rasool allah
+  Bataauṅ kis zabaaṅ se main mere mazlum bhaai ne
+  Uthaaya kis tarah Akbar ka laasha ya Rasul Allah
 
   6
-  Janaza waalida ka shab ke parde may utha lekin
-  Hamay beparda aada ne phiraya ya rasool allah
+  Janaaza waalida ka shab ke parde mein utha lekin
+  Hameṅ beparda aada ne phiraaya ya Rasul Allah
 
   7
-  Udhar qasim ka laasha ghodon se pamaal hota tha
-  Idhar hilta tha kubra ka kaleja ya rasool allah
+  Udhar Qaasim ka laasha ghoroṅ se paamaal hota tha
+  Idhar hilta tha Kubra ka kaleja ya Rasul Allah
 
   8
-  Phupi nana ke rauze par chalo nana ke rauze par
-  Yehi kehti thi ro ro kar sakina ya rasool allah
+  Phuphi naana ke rauze par chalo naana ke rauze par
+  Yehi kehti thi ro ro kar Sakina ya Rasul Allah
 
   9
-  Akele sayyed e sajjad par laakhon mazaalim thay
-  Nahi tha koi jo deta sahara ya rasool allah
+  Akele Sayyid-e-Sajjaad par laakhoṅ mazaalim the
+  Nahiṅ tha koi jo deta sahaara ya Rasul Allah
 
   10
-  Hua is darja sharminda meri bali sakina se
-  Mere abbas ne darya basaya ya rasool allah
+  Hua is darja sharminda meri baali Sakina se
+  Mere Abbaas ne darya basaaya ya Rasul Allah
 
   11
-  Bula leejega apne rauza e aqdas pa ishrat ko
-  Pasand aajaye gar ishrat ka nauha ya rasool allah
+  Bula lijiyega apne rauza-e-aqdas pe Ishrat ko
+  Pasand aa jaaye gar Ishrat ka nauha ya Rasul Allah
 # source_id: nohayonline:8ac44a1cddf99ec103c5
 # source_url: https://www.nohayonline.com/details_content.php?id=1355
 # raw_sha256: faa3a122786b6745e4a6d43b00c251e56db4787bfb6dc9f1d4f9d7ef79c2f610
@@ -71,6 +73,7 @@ romanLyrics: |-
 ---
 مدینہ لٹ گیا وہ وقت آیا
 یا رسول اللّٰہ
+
 پسِ سرور تھا یہ زینب کا نوحہ
 یا رسول اللّٰہ
 
@@ -80,18 +83,18 @@ romanLyrics: |-
 
 ۲
 پس شبیر جب کوئی نہیں تھا فوج اعدا نے
-رداییں چھین لی اسباب لوٹا یا رسول اللّٰہ
+ردائیں چھین لی اسباب لوٹا یا رسول اللّٰہ
 
 ۳
-لعیون کے مظالم اور ستم کی انتہا یہ ہے
+لعینوں کے مظالم اور ستم کی انتہا یہ ہے
 جلا ڈالا علی اصغر کا جھولا یا رسول اللّٰہ
 
 ۴
 یقین اہلِ حرم کو ہو گیا شہ کی شہادت کا
-کفن صندوق سے جب لای فضہ یا رسول اللّٰہ
+کفن صندوق سے جب لائی فضہ یا رسول اللّٰہ
 
 ۵
-بتاؤں کس زباں سے میں میرے مظلوم بھای نے
+بتاؤں کس زباں سے میں میرے مظلوم بھائی نے
 اٹھایا کس طرح اکبر کا لاشہ یا رسول اللّٰہ
 
 ۶
@@ -100,7 +103,7 @@ romanLyrics: |-
 
 ۷
 ادھر قاسم کا لاشہ گھوڑوں سے پامال ہوتا تھا
-ادھر ہلتا تھا کبرا کا کلیجہ یا رسول اللّٰہ
+ادھر ہلتا تھا کبریٰ کا کلیجہ یا رسول اللّٰہ
 
 ۸
 پھپھی نانا کے روضے پر چلو نانا کے روضے پر
@@ -108,12 +111,12 @@ romanLyrics: |-
 
 ۹
 اکیلے سید سجاد پر لاکھوں مظالم تھے
-نہیں تھا کوی جو دیتا سہارا یا رسول اللّٰہ
+نہیں تھا کوئی جو دیتا سہارا یا رسول اللّٰہ
 
 ۱۰
 ہوا اس درجہ شرمندہ میری بالی سکینہ سے
 میرے عباس نے دریا بسایا یا رسول اللّٰہ
 
 ۱۱
-بلا لیجییگا اپنے روضہء اقدس پہ عشرت کو
-پسند آ جاے گر عشرت کا نوحہ یا رسول اللّٰہ
+بلا لیجیے گا اپنے روضہء اقدس پہ عشرت کو
+پسند آ جائے گر عشرت کا نوحہ یا رسول اللّٰہ

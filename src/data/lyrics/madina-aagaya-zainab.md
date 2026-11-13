@@ -1,89 +1,92 @@
 ---
-title: "رو کے فضہ نے کہا اے بی بی مدینہ آ گیا"
-alternateTitle: "Madina Aagaya Zainab"
+title: "رو کے فضہ نے کہا اے بی‌بی مدینہ آ گیا"
+alternateTitle: "Madina Aa Gaya Zainab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ro ke fizza ne kaha ay bibi madina aa gaya
-  Madina aa gaya zainab zara nigahein utha
-  Tu apne baazuon ke neel apni maa ko dikha
+  Ro ke Fizza ne kaha ae Bibi Madina aa gaya
+
+  Madina aa gaya Zainab zara nigaaheṅ utha
+  Tu apne baazuoṅ ke nil apni maaṅ ko dikha
 
   1
-  Bataun shaam se saughate dard laayi hoon
-  Mai apne chehre pe sadiyon ki gard laayi hoon
-  Lahoo hussain ka amma bana hai khaak e shifa
+  Bataauṅ Shaam se saughaat-e-dard laayi huṅ
+  Main apne chehre pe sadiyoṅ ki gard laayi huṅ
+  Lahu Husain ka ammaaṅ bana hai khaak-e-shifa
 
   2
-  Bata rahi hai jo baalon mein dhool hai bibi
-  Ke khaak par ali asghar sa phool hai bibi
-  Tu raakh dhool ki zainab lehed pe maa ki dikha
+  Bata rahi hai jo baaloṅ mein dhul hai Bibi
+  Ke khaak par Ali Asghar sa phul hai Bibi
+  Tu raakh dhul ki Zainab lahad pe maaṅ ki dikha
 
   3
-  Lahoo mein dooba ye kurta tere hussain ka hai
-  Lahoo jo rota hai beta tere hussain ka hai
-  Bichane aayi hoon turbat pe teri farshe aza
+  Lahu mein duba ye kurta tere Husain ka hai
+  Lahu jo rota hai beta tere Husain ka hai
+  Bichhaane aayi huṅ turbat pe teri farsh-e-aza
 
   4
-  Do paara kar diya barchi ne seena e akbar
-  Na karne paayi hoon matam mai uske laashe par
-  Jawab kya doon jo akbar ko poochle sughra
+  Do paara kar diya barchhi ne sina-e-Akbar
+  Na karne paayi huṅ maatam main us ke laashe par
+  Jawaab kya duṅ jo Akbar ko puchh le Sughra
 
   5
-  Na aun hai na mohamed na qasim o asghar
-  Hai inke baad lehed ki tarha hamara ghar
-  Main ek laash hoon amma mai ab kahan zinda
+  Na Aun hai na Muhammad na Qaasim o Asghar
+  Hai in ke baad lahad ki tarah hamaara ghar
+  Main ek laash huṅ ammaaṅ main ab kahaaṅ zinda
 
   6
-  Mai thak ke baithi jahan taziyane khaaye hai
-  Ruke jo ashk to aada rulaane aaye hai
-  Dikha dikha ke shaheedon ke sar rulaya gaya
+  Main thak ke baithi jahaaṅ taaziyaane khaaye haiṅ
+  Ruke jo ashk to aada rulaane aaye haiṅ
+  Dikha dikha ke shahidoṅ ke sar rulaaya gaya
 
   7
-  Ye ek jawan jo boodha dikhayi deta hai
-  Yehi hai abid e muztar tumhara pota hai
-  Gale ke tauq ne iski kamar ko tod diya
+  Ye ek jawaan jo burha dikhaayi deta hai
+  Yehi hai Aabid-e-muztar tumhaara pota hai
+  Gale ke tauq ne is ki kamar ko tor diya
 
   8
   Sakina saath gayi thi jo saath aa na saki
-  Wo ghut ke mar gayi amma rehaai paa na saki
-  Mai shaam jaungi bacchi se hai mera waada
+  Wo ghut ke mar gayi ammaaṅ rihaayi paa na saki
+  Main Shaam jaauṅ gi bachchi se hai mera waada
 
   9
-  Laraz laraz gaya marqad rasool zaadi ka
-  Wo bain zainab e muztar ke thay rehaan o raza
-  Rehaai paa ke watan mein ye pehla tha pursa
+  Laraz laraz gaya marqad Rasul zaadi ka
+  Wo bain Zainab-e-muztar ke the Rehaan o Raza
+  Rihaayi paa ke watan mein ye pehla tha pursa
 # source_id: nohayonline:2a0f5b9e11eeb0a11a11
 # source_url: https://www.nohayonline.com/details_content.php?id=3778
 # raw_sha256: f09d04305703b3c96e0baa773ed1eaecf33f61868bc8ea7a44512429044a2f55
 ---
-رو کے فضہ نے کہا اے بی بی مدینہ آ گیا
-مدینہ آ گیا زینب زرا نگاہیں اٹھا
-تو اپنے بازؤں کے نیل اپنی ماں کو دکھا
+رو کے فضہ نے کہا اے بی‌بی مدینہ آ گیا
+
+مدینہ آ گیا زینب ذرا نگاہیں اٹھا
+تو اپنے بازوؤں کے نیل اپنی ماں کو دکھا
 
 ۱
-بتاؤں شام سے سوغات درد لای ہوں
-میں اپنے چہرے پہ صدیوں کی گرد لای ہوں
+بتاؤں شام سے سوغات درد لائی ہوں
+میں اپنے چہرے پہ صدیوں کی گرد لائی ہوں
 لہو حسین کا اماں بنا ہے خاک شفا
 
 ۲
-بتا رہی ہے جو بالوں میں ڈھول ہے بی بی
-کہ خاک پر علی اصغر سا پھول ہے بی بی
-تو راخ دھول کی زینب پہ ماں کی دکھا
+بتا رہی ہے جو بالوں میں دھول ہے بی‌بی
+کہ خاک پر علی اصغر سا پھول ہے بی‌بی
+تو راکھ دھول کی زینب لحد پہ ماں کی دکھا
 
 ۳
 لہو میں ڈوبا یہ کرتہ تیرے حسین کا ہے
 لہو جو روتا ہے بیٹا تیرے حسین کا ہے
-بچھانے آی ہوں تربت پہ تیری فرش عزا
+بچھانے آئی ہوں تربت پہ تیری فرش عزا
 
 ۴
 دو پارہ کر دیا برچھی نے سینۂ اکبر
-نہ کرنے پای ہوں ماتم میں اس کے لاشے پر
+نہ کرنے پائی ہوں ماتم میں اس کے لاشے پر
 جواب کیا دوں جو اکبر کو پوچھ لے صغرا
 
 ۵
@@ -92,8 +95,8 @@ romanLyrics: |-
 میں ایک لاش ہوں اماں میں اب کہاں زندہ
 
 ۶
-میں تھک کے بیٹھی جہاں تازیانے کھاے ہیں
-رکے جو اشک تو اعدا رلانے آے ہیں
+میں تھک کے بیٹھی جہاں تازیانے کھائے ہیں
+رکے جو اشک تو اعدا رلانے آئے ہیں
 دکھا دکھا کے شہیدوں کے سر رلایا گیا
 
 ۷
@@ -102,8 +105,8 @@ romanLyrics: |-
 گلے کے طوق نے اس کی کمر کو توڑ دیا
 
 ۸
-سکینہ ساتھ گیء تھی جو ساتھ آ نہ سکی
-وہ گھٹ کے مر گیء اماں رہائی پا نہ سکی
+سکینہ ساتھ گئی تھی جو ساتھ آ نہ سکی
+وہ گھٹ کے مر گئی اماں رہائی پا نہ سکی
 میں شام جاؤں گی بچی سے ہے میرا وعدہ
 
 ۹
