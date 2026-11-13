@@ -1,155 +1,155 @@
 ---
 title: "میں راحب ہوں میں راحب ہوں"
-alternateTitle: "Mai Raahib Hoo"
+alternateTitle: "Main Raahib Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Arsalan Azmi"
+reciter: "Mesum Abbas"
 tags: ["noImage"]
-aliases: []
+aliases: ["Mai Raahib Hoo"]
 published: false
 romanLyrics: |-
-  Mai raahib hoo mai raahib hoo
-  
+  Main raahib huṅ main raahib huṅ
+
   1
-  Mai hoon raahib hai maseeh mera qabila logon
-  Mere aaqa mere sardar hai eesa logon
-  Ek haqeeqat se uthata hoo mai parda logon
-  Mera hussain hai eesa ka maseeha logon
-  Imam e waqt ka mai intezaar karta hoo
-  Halab ke dair mein lamhe shumaar karta hoo
-  Yaqeen hai ye mera jab aayenge maula
-  Mai unke qadmon mein gir kar sada lagaunga
-  Tum pe maula mai fida jaan karun
-  Apne beton ko mai qurban karun
-  Mai hoo najraan ka raahib
-  
+  Main huṅ raahib hai Masih mera qabila logoṅ
+  Mere aaqa mere sardaar hai Isa logoṅ
+  Ek haqiqat se uthaata huṅ main parda logoṅ
+  Mera Husain hai Isa ka masiha logoṅ
+  Imam-e-waqt ka main intezaar karta huṅ
+  Halab ke dair mein lamhe shumaar karta huṅ
+  Yaqin hai ye mera jab aayeṅge Maula
+  Main unke qadmoṅ mein gir kar sada lagaauṅga
+  Tum pe Maula main fida jaan karuṅ
+  Apne betoṅ ko main qurbaan karuṅ
+  Main huṅ Najraan ka raahib
+
   2
-  Suno ke tumko sunata hoo waqiya aisa
+  Suno ke tumko sunaata huṅ waqiya aisa
   Meri hayaat mein aisa bhi waqt aaya tha
-  Mai la-walad tha aur umeed na thi koi mujhe
-  Huzoor pak ne ye baat khud kahi thi mujhe
-  Lawhe mehfooz ki tehreer bhi sunayi mujhe
-  Magar hussain ne us dam pisar diye thay mujhe
-  Ek nahi saath nageene ata kiye thay mujhe
-  Hai ye ehsaan bada bhulaun kaise bhala
-  Ye baat unse kahunga ke farz hai ye mera
-  Tum pe maula mai fida jaan karun
-  Apne beton ko mai qurban karun
-  Main hoo najraan ka raahib
-  
+  Main laawalad tha aur ummid na thi koi mujhe
+  Huzur Paak ne ye baat khud kahi thi mujhe
+  Lauh-e-mahfuz ki tahrir bhi sunaai mujhe
+  Magar Husain ne us dam pisar diye the mujhe
+  Ek nahiṅ saat nagine ata kiye the mujhe
+  Hai ye ehsaan bara bhulaauṅ kaise bhala
+  Ye baat unse kahuṅga ke farz hai ye mera
+  Tum pe Maula main fida jaan karuṅ
+  Apne betoṅ ko main qurbaan karuṅ
+  Main huṅ Najraan ka raahib
+
   3
-  Daf'atan khaafla ek shehre halab mein pahuncha
-  Ya hussaina ya hussaina se larazti thi fiza
-  Neend se mujhko jaga kar meri zauja ne kaha
-  Khwaab se jaago ke phat'ta hai kaleja mera
-  Kaun karta hai tadap kar girya
+  Dafatan qaafila ek shahr-e-Halab mein pahuncha
+  Ya Husaina ya Husaina se larazti thi fiza
+  Nind se mujhko jaga kar meri zauja ne kaha
+  Khwaab se jaago ke phatta hai kaleja mera
+  Kaun karta hai tarap kar girya
   Kaun kehta hai ye baba baba
-  Khwaab e ghaflat se utha aur maine ye kaha
-  Aisa lagta hai chale aaye mere ghar maula
-  Tum pe maula mai fida jaan karun
-  Apne beton ko mai qurban karun
-  Main hoo najraan ka raahib
-  
+  Khwaab-e-ghaflat se utha aur maine ye kaha
+  Aisa lagta hai chale aaye mere ghar Maula
+  Tum pe Maula main fida jaan karuṅ
+  Apne betoṅ ko main qurbaan karuṅ
+  Main huṅ Najraan ka raahib
+
   4
-  Sun ke awaaz e jaras jaanib e dehleez gaya
-  Meri aankhon ko nazar aaya qayamat ka samaa
-  Kya kahin maine kin aankhon se wo manzar dekha
-  Be-rida chand aseeron ko khule sar dekha
-  Kitne suraj thay jinhe nok e sina par dekha
-  Maine ek chota sa sar dil ko pakad kar dekha
-  Ek sar par nahi maujood rida
+  Sun ke aawaaz-e-jaras jaanib-e-dehliz gaya
+  Meri aankhoṅ ko nazar aaya qayaamat ka samaaṅ
+  Kya kahiṅ maine kin aankhoṅ se wo manzar dekha
+  Berida chand asiroṅ ko khule sar dekha
+  Kitne suraj the jinheṅ nok-e-sinaaṅ par dekha
+  Maine ek chhota sa sar dil ko pakar kar dekha
+  Ek sar par nahiṅ maujud rida
   Ek sar sharm o haya se hai jhuka
   Ek rahwaar ki gardan mein bandha
-  Ek sar bar sar e nok e naiza
-  Dekh kar khaafela mai aah o bukaa karta hoo
-  Peet ke sar ko mai zaar o khataar rota hoo
-  Mai hoo najraan ka raahib
-  
+  Ek sar bar sar-e-nok-e-naiza
+  Dekh kar qaafila main aah o buka karta huṅ
+  Pit kar sar ko main zaar o qataar rota huṅ
+  Main huṅ Najraan ka raahib
+
   5
-  Maine pehle bhi kahin dekhe hai aise chehre
-  Aise noorani bashar to mubaahile mein hi thay
-  Ya khuda naize pe jo sar hai ye wo log na ho
-  Wo jo aulaad e payambar hai ye wo log na ho
-  Jinki tareef mein injeel mein bhi jumle hai
-  Wo jo chaahe to pahadon ko hila sakte hai
-  Yaqeen hai ye mera jab aayenge maula
-  Mai unke qadmon mein gir kar sada lagaunga
-  Tum pe maula mai fida jaan karun
-  Apne beton ko mai qurbaan karun
-  Mai hoo najraan ka raahib
-  
+  Maine pehle bhi kahiṅ dekhe haiṅ aise chehre
+  Aise nuraani bashar to mubaahile mein hi the
+  Ya Khuda naize pe jo sar hai ye wo log na ho
+  Wo jo aulaad-e-Payambar hai ye wo log na ho
+  Jinki taarif mein Injil mein bhi jumle hai
+  Wo jo chaahe to pahaaroṅ ko hila sakte haiṅ
+  Yaqin hai ye mera jab aayeṅge Maula
+  Main unke qadmoṅ mein gir kar sada lagaauṅga
+  Tum pe Maula main fida jaan karuṅ
+  Apne betoṅ ko main qurbaan karuṅ
+  Main huṅ Najraan ka raahib
+
   6
-  Wo jo sar naatiq e quran nazar aata tha
-  Do sitamgaaron ka us sar pe laga tha pehra
-  Darte darte jo mai nazdeek gaya
-  Naiza bardaaron se maine poocha
-  Ye jo khoon rota hai sar kya hai zahra ka pisar
-  Pehradaaron ne kaha hai ye baaghi bakhuda
-  Haakim e shaam ne hai isspe inaam rakha
+  Wo jo sar naatiq-e-Quran nazar aata tha
+  Do sitamgaaroṅ ka us sar pe laga tha pehra
+  Darte darte jo main nazdik gaya
+  Naiza bardaaroṅ se maine puchha
+  Ye jo khun rota hai sar kya hai Zahra ka pisar
+  Pehredaaroṅ ne kaha hai ye baaghi bakhuda
+  Haakim-e-Shaam ne hai is pe inaam rakha
   Iske haami na bano tum raahib
-  Iske haami ka hai marna wajib
-  Mai pareshaan hua aur ye kehne laga
-  Ek shak he mere dil mein zara poochun is se
-  Ek lamhe ke liye baat mein karlun is se
-  Mujhe is sar se mila do jitne keemat hai laga do
+  Iske haami ka hai marna waajib
+  Main pareshaan hua aur ye kehne laga
+  Ek shak hai mere dil mein zara puchhuṅ is se
+  Ek lamhe ke liye baat main kar luṅ is se
+  Mujhe is sar se mila do jitne qimat hai laga do
   Ek shab ke liye sar se apne pehre ko hata do
-  Jab ijzazat mili phir dil ko mere aaya qaraar
-  Maine dirham bhi sipahi ko diye tees hazaar
-  Leke us sar ko jo mai ghar pahuncha
+  Jab ijaazat mili phir dil ko mere aaya qaraar
+  Maine dirham bhi sipaahi ko diye tis hazaar
+  Le ke us sar ko jo main ghar pahuncha
   Maine us sar se kaha mujhko bata
-  Batao kaun ho tum batao kaun ho tum
-  Mai ye bola ke tera jurm hai kya
-  Wo ye bola ke mohamed se wafa
-  Mai ye bola ke tera naam hai kya
+  Bataao kaun ho tum bataao kaun ho tum
+  Main ye bola ke tera jurm hai kya
+  Wo ye bola ke Muhammad se wafa
+  Main ye bola ke tera naam hai kya
   Wo ye bola mujhe pehchaan zara
-  Tera mehman hoo mai tera mehman hoo mai
+  Tera mehmaan huṅ main tera mehmaan huṅ main
   Nibhaane tifli ka waada
-  Leke sab apna mai kunba
+  Le ke sab apna main kunba
   Tere ghar aa gaya raahib
-  Mai payambar ka jigar hoo raahib
-  Mai hi zehra ka pisar hoo raahib
-  Jisne bete tujhe bakhshe wo sakhi hoo raahib
-  Ba khuda mai hi hussain ibne ali hoo raahib
-  Karbala mein jo sitam toote bataata hoo tujhe
-  Apne beto ka bhi maqtal mai sunata hoo tujhe
-  Mere abid ko lahoo rulwaya
-  Haye baqir ka bachpana cheena
-  Mere akbar ko hai naiza maara
-  Mere qasim ko hai paamal kiya
-  Sar kiye aun o mohamed ke juda
-  Ye inteha hai ke asghar pe rehm na khaaya
-  Ya hussaina ya hussaina ya hussaina ya hussain
-  Mai hoo najraan ka raahib
-  
+  Main Payambar ka jigar huṅ raahib
+  Main hi Zehra ka pisar huṅ raahib
+  Jisne bete tujhe bakhshe wo sakhi huṅ raahib
+  Ba Khuda main hi Husain ibn-e-Ali huṅ raahib
+  Karbala mein jo sitam tute bataata huṅ tujhe
+  Apne betoṅ ka bhi maqtal main sunaata huṅ tujhe
+  Mere Aabid ko lahu rulwaaya
+  Haaye Baaqir ka bachpana chhina
+  Mere Akbar ko hai naiza maara
+  Mere Qaasim ko hai paamaal kiya
+  Sar kiye Aun o Muhammad ke juda
+  Ye inteha hai ke Asghar pe rahm na khaaya
+  Ya Husaina ya Husaina ya Husaina ya Husain
+  Main huṅ Najraan ka raahib
+
   7
-  Sun ke raahib ye bayan thaam ke dil rone laga
-  Aur aada ko sar e shaah bhi wapas na kiya
-  Ek ek kar ke kiye saaton pisar sheh pe fida
-  Arsalan azmi mesum hai wo maujood jagha
-  Sar jahan maula hussain ibn e ali ka tha rakha
-  Dar e rahib hai jahan karna mehsoos wahan
-  Goonjti ab bhi fizaon mein hai raahib ki sada
-  Tum pe maula mai fida jaan karun
-  Apne beton ko mai qurbaan karun
-  Mai hoo najraan ka raahib
+  Sun ke raahib ye bayaan thaam ke dil rone laga
+  Aur aadaa ko sar-e-Shaah bhi waapas na kiya
+  Ek ek kar ke kiye saatoṅ pisar Shah pe fida
+  Arsalan Azmi Mesum hai wo maujud jagah
+  Sar jahaaṅ Maula Husain ibn-e-Ali ka tha rakha
+  Dar-e-raahib hai jahaaṅ karna mahsus wahaaṅ
+  Gunjti ab bhi fizaaoṅ mein hai raahib ki sada
+  Tum pe Maula main fida jaan karuṅ
+  Apne betoṅ ko main qurbaan karuṅ
+  Main huṅ Najraan ka raahib
 # source_id: nohayonline:f5261cbb71a5d2d2f0dd
 # source_url: https://www.nohayonline.com/details_content.php?id=2161
 # raw_sha256: 7c9c27e832c807d3a42839212e8ee131333d132d3453aecd3eff2a7ca7132241
 ---
-
 میں راحب ہوں میں راحب ہوں
 
 ۱
 میں ہوں راحب مسیح میرا قبیلہ لوگوں
-میرے آقا میرے سردار ہے عیسا لوگوں
+میرے آقا میرے سردار ہے عیسیٰ لوگوں
 اک حقیقت سے اٹھاتا ہوں میں پردہ لوگوں
-میرا حسین ہے عیسا کا مسیحا لوگوں
+میرا حسین ہے عیسیٰ کا مسیحا لوگوں
 امام وقت کا میں انتظار کرتا ہوں
 حلب کے دیر میں لمحے شمار کرتا ہوں
-یقین ہے یہ میرا جب آینگے مولا
-میں انکے قدموں میں گر کر صدا لگاؤں گا
+یقین ہے یہ میرا جب آئیں گے مولا
+میں ان کے قدموں میں گر کر صدا لگاؤں گا
 تم پہ مولا میں فدا جان کروں
 اپنے بیٹوں کو میں قربان کروں
 میں ہوں نجران کا راحب
@@ -160,8 +160,8 @@ romanLyrics: |-
 میں لا ولد تھا اور امید نہ تھی کوئی مجھے
 حضور پاک نے یہ بات خود کہی تھی مجھے
 لوحِ محفوظ کی تحریر بھی سنائی مجھے
-مگر حسین نے اس دم پسر دیےء تھے مجھے
-اک نہیں سات نگینے عطا کےء تھے مجھے
+مگر حسین نے اس دم پسر دیے تھے مجھے
+اک نہیں سات نگینے عطا کیے تھے مجھے
 ہے یہ احسان بڑا بھلاؤں کیسے بھلا
 یہ بات ان سے کہوں گا کہ فرض ہے یہ میرا
 تم پہ مولا میں فدا جان کروں
@@ -203,8 +203,8 @@ romanLyrics: |-
 وہ جو اولاد پیمبر ہے یہ وہ لوگ نہ ہو
 جنکی تعریف میں انجیل میں بھی جملے ہے
 وہ جو چاہے تو پہاڑوں کو ہلا سکتے ہیں
-یقین ہے یہ میرا جب آیینگے مولا
-میں انکے قدموں میں گر کر صدا لگاؤں گا
+یقین ہے یہ میرا جب آئیں گے مولا
+میں ان کے قدموں میں گر کر صدا لگاؤں گا
 تم پہ مولا میں فدا جان کروں
 اپنے بیٹوں کو میں قربان کروں
 میں ہوں نجران کا راحب
@@ -220,19 +220,19 @@ romanLyrics: |-
 اس کے حامی نہ بنو تم راحب
 اس کے حامی کا ہے مرنا واجب
 میں پریشاں ہوا اور یہ کہنے لگا
-ایک اشک ہے میرے دل میں زرا پوچھوں اس سے
-ایک لمحے کے لیےء بات میں کرلوں اس سے
+ایک اشک ہے میرے دل میں ذرا پوچھوں اس سے
+ایک لمحے کے لیے بات میں کر لوں اس سے
 مجھے اس سر سے ملا دو جتنے قیمت ہے لگا دو
 ایک شب کے لئے سر سے اپنے پہرے کو ہٹا دو
 جب اجازت ملی پھر دل کو میرے آیا قرار
-میں نے درہم بھی سپاہی کو دیےء تیس ہزار
+میں نے درہم بھی سپاہی کو دیے تیس ہزار
 لے کے اس سر کو جو میں گھر پہنچا
 میں نے اس سر سے کہا مجھکو بتا
 بتاؤ کون ہو تم بتاؤ کون ہو تم
 میں یہ بولا کہ تیرا جرم ہے کیا
 وہ یہ بولا کہ محمد سے وفا
 میں یہ بولا کہ تیرا نام ہے کیا
-وہ یہ بولا مجھے پہچان زرا
+وہ یہ بولا مجھے پہچان ذرا
 تیرا مہمان ہوں میں تیرا مہمان ہوں میں
 نبھانے طفلی کا وعدہ
 لے کے سب اپنا کنبہ
@@ -244,10 +244,10 @@ romanLyrics: |-
 کربلا میں جو ستم ٹوٹے بتاتا ہوں تجھے
 اپنے بیٹوں کا بھی مقتل میں سناتا ہوں تجھے
 میرے عابد کو لہو رلوایا
-ہاے باقر کا بچپنا چھینا
+ہائے باقر کا بچپنا چھینا
 میرے اکبر کو ہے نیزہ مارا
 میرے قاسم کو ہے پامال کیا
-سر کےء عون و محمد کے جدا
+سر کیے عون و محمد کے جدا
 یہ انتہا ہے کہ اصغر پہ رحم نہ کھایا
 یا حسینا یا حسینا یا حسینا یا حسینا یا حسینا یا حسینا
 میں ہوں نجران کا راحب
@@ -255,7 +255,7 @@ romanLyrics: |-
 ۷
 سن کے راحب یہ بیاں تھام کے دل رونے لگا
 اور اعدا کو سر شاہ بھی واپس نہ کیا
-ایک ایک کر کے کیےء ساتوں پسر شہ پہ فدا
+ایک ایک کر کے کیے ساتوں پسر شہ پہ فدا
 ارسلان اعظمی میثم ہے موجود جگہ
 سر جہاں مولا حسین ابنِ علی کا تھا رکھا
 در راحب ہے جہاں کرنا محسوس وہاں

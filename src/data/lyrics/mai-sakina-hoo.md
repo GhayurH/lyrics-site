@@ -1,53 +1,54 @@
 ---
 title: "میں سکینہ ہوں میرا درد ہے اتنا بڑا"
-alternateTitle: "Mai Sakina Hoo"
+alternateTitle: "Main Sakina Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Baltistani"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
-aliases: []
+aliases: ["Mai Sakina Hoo"]
 published: false
 romanLyrics: |-
-  Mai sakina hoo mera dard hai itna baba
-  Mujhko zaalim ne kaneezi mein hai maanga baba
+  Main Sakina huṅ mera dard hai itna baba
+  Mujhko zaalim ne kanizi mein hai maanga baba
 
   1
-  Maine daadi ki tarha itne masayib dekhe
-  Chaar barson mein hi lagti hoo zaeefa baba
+  Maine daadi ki tarah itne masaaib dekhe
+  Chaar barsoṅ mein hi lagti huṅ zaifa baba
 
   2
-  Jo teri laash pa daudaate thay ghode ran mein
-  Wo tamachon se mujhe dete hai pursa baba
+  Jo teri laash pe dauraate the ghore ran mein
+  Wo tamaachoṅ se mujhe dete haiṅ pursa baba
 
   3
-  Kaash mar jaaun mai asghar ko hi rote rote
-  Mai kahan karti hoo pani ka taqaza baba
+  Kaash mar jaauṅ main Asghar ko hi rote rote
+  Main kahaaṅ karti huṅ paani ka taqaaza baba
 
   4
-  Poori shiddat se mujhe maara tamacha jis ne
-  Uske haathon se mera chehra hai chota baba
+  Puri shiddat se mujhe maara tamaacha jis ne
+  Uske haathoṅ se mera chehra hai chhota baba
 
   5
-  Ungliyon ke to kahin par hai angoothi ke nishan
-  Kaise pehchanoge tum beti ka chehra baba
+  Ungliyoṅ ke to kahiṅ par hai anguthi ke nishaaṅ
+  Kaise pehchaanoge tum beti ka chehra baba
 
   6
-  Is qadar shaam ke zindan mein tareeki hai
-  Haath apna bhi nahi mujhko hai dikhta baba
+  Is qadar Shaam ke zindaan mein taariki hai
+  Haath apna bhi nahiṅ mujhko hai dikhta baba
 
   7
-  Bhaiya sajjad se nazrein na milayi maine
-  Maine bazaar mein jab khaaya tamacha baba
+  Bhaiya Sajjad se nazreṅ na milaai maine
+  Maine baazaar mein jab khaaya tamaacha baba
 
   8
-  Shaam waalon se na pani na kafan maangungi
-  Mai na ehsaan yahan loongi kisi ka baba
+  Shaam waaloṅ se na paani na kafan maanguṅgi
+  Main na ehsaan yahaaṅ luṅgi kisi ka baba
 
   9
-  Rakh ke moo baap ke sar par wo pukari darwesh
-  Ab na jaagegi kabhi teri sakina baba
+  Rakh ke muṅh baap ke sar par wo pukaari Darwesh
+  Ab na jaagegi kabhi teri Sakina baba
 # source_id: nohayonline:259a84c05fb605cffca4
 # source_url: https://www.nohayonline.com/details_content.php?id=2777
 # raw_sha256: bbe7a6176db06594092c44f1633ca53f58a207b583250880d8179940d7111bce
@@ -80,12 +81,12 @@ romanLyrics: |-
 ہاتھ اپنا بھی نہیں مجھکو ہے دکھتا بابا
 
 ۷
-بھیا سجاد سے نظریں نہ ملای میں نے
+بھیا سجاد سے نظریں نہ ملائی میں نے
 میں نے بازار میں جب کھایا طمانچہ بابا
 
 ۸
 شام والوں سے نہ پانی نہ کفن مانگوں گی
-میں نہ احسان یہاں لونگی کسی کا بابا
+میں نہ احسان یہاں لوں گی کسی کا بابا
 
 ۹
 رکھ کے منہ باپ کے سر پر وہ پکاری درویش
