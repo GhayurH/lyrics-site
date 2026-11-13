@@ -2762,11 +2762,11 @@ src/data/lyrics/meri-taygh-chashme.md,standalone_lyrics,imported,nohayonline,pen
 src/data/lyrics/midhat-e-haider-mere-lab-par-zara-aanay-to-do.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
 src/data/lyrics/midhat-e-shabir-tera-shukriya.md,standalone_lyrics,imported,tajpoints,pending,reviewed,reviewed,reviewed,not_applicable,reviewed,,,
 src/data/lyrics/mil-saka-na-jab.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
-src/data/lyrics/mili-hai-deen-e-nabi-ko-hayat-zainab-se.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/mili-hai-deen-e-nabi-ko-hayat-zainab-se.md,standalone_lyrics,imported,tajpoints,pending,partial_review,partial_review,partial_review,not_applicable,reviewed,,,"Need Urdu poster/audio: s2 ""Azam"" read as عزم; s3 ""Baag-e-Jina"" and ""Naam-e-Akbar"". Confirm grouping: archived paragraphs are couplets; imported numbering groups pairs of couplets."
 src/data/lyrics/mili-rihaai-to-abid-ye-kaam-kar-ke-chale.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
-src/data/lyrics/milke-sab-matame.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/milti-hi-nahi-koi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/misaale-mauj-par.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/milke-sab-matame.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,,,"Need audio/print: s6 ""خوں مے پھریرا"" vs Roman ""khun mein pharera"", ""وفات"" vs ""wafa"", and ""تسقیر""; s7 ""گریہ"" vs ""giryan""; s8 ""بھیا"" vs ""bhai"". Confirm s2 ""حاصل ہے احساس"", s8 ""رنج و خوشی سے کر کے باہم"", s9 ""نوحے کی ماتم کی صدا سے""."
+src/data/lyrics/milti-hi-nahi-koi.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,,,"Need audio/print: s1 ""وہ دوست بھلا کیا ہے""; s6 ""وہ کہاں ہیں""; s7 ""میری دیدئہ و تر"" vs Roman ""meri deeda o tar"". Confirm s5 ""ترسی تھی خواتین ملاقات کو""."
+src/data/lyrics/misaale-mauj-par.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,,,"Need audio/print: opening Urdu ""بن سور"" vs Roman ""ban sawar""; s8 Urdu ""قلم اٹھاتے ہیں"" vs Roman ""qalam uthaate hi""."
 src/data/lyrics/mita-ke-rakh-diya.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/mohamed-hamare.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/mohamed-ka-gharana.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,

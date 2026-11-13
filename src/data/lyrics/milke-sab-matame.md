@@ -1,106 +1,107 @@
 ---
 title: "مل کے سب ماتمِ شبیر کریں"
-alternateTitle: "Milke Sab Matame"
+alternateTitle: "Mil Ke Sab Maatam-e-Shabbir"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Milke sab matame shabbir kare
-  Dil ba dil seena ba seena
-  Karbala tameer kare
+  Mil ke sab maatam-e-Shabbir kareṅ
+  Dil ba dil sina ba sina
+  Karbala taamir kareṅ
 
   1
-  Ye matam pehchan hamari
-  Is pe jaan qurban hamari
-  Jism yehi ye jaan hamari
-  Ye matam hai shaan hamari
-  Kehta hai emaan hamara
-  Saare jawan o peer kare
+  Ye maatam pehchaan hamaari
+  Is pe jaaṅ qurbaan hamaari
+  Jism yehi ye jaan hamaari
+  Ye maatam hai shaan hamaari
+  Kehta hai imaan hamaara
+  Saare jawaan o pir kareṅ
 
   2
-  Asghar teri pyaas ka matam
-  Akbar ka abbas ka matam
-  Hasrat ka aur yaas ka matam
-  Haasil hai ehsaas ka matam
-  Laakh zamana hum ko roke
-  Hum iski tash'heer kare
+  Asghar teri pyaas ka maatam
+  Akbar ka Abbaas ka maatam
+  Hasrat ka aur yaas ka maatam
+  Haasil hai ehsaas ka maatam
+  Laakh zamaana hum ko roke
+  Hum is ki tashhir kareṅ
 
   3
-  Ye matam mazloom ka matam
-  Zehra ke masoom ka matam
-  Pani se mehroom ka matam
-  Taygh tale halqoom ka matam
-  Is matam se hum jo chaahe
-  Waqt ko zanjeer kare
+  Ye maatam mazlum ka maatam
+  Zehra ke maasum ka maatam
+  Paani se mahrum ka maatam
+  Tegh tale halqum ka maatam
+  Is maatam se hum jo chaaheṅ
+  Waqt ko zanjir kareṅ
 
   4
-  Abid ki zanjeer ka matam
-  Kushk galay aur teer ka matam
-  Zainab ka shabbir ka matam
-  Dil se kare dilgeer ka matam
-  Jo matam zainab ne kiya tha
-  Hum uski tafseer kare
+  Aabid ki zanjir ka maatam
+  Khushk gale aur tir ka maatam
+  Zainab ka Shabbir ka maatam
+  Dil se kareṅ dilgir ka maatam
+  Jo maatam Zainab ne kiya tha
+  Hum us ki tafsir kareṅ
 
   5
-  Matam kya hai sheh ka alam hai
-  Ye matam to deen ka bharam hai
+  Maatam kya hai Shah ka alam hai
+  Ye maatam to diṅ ka bharam hai
   Jis se khushi ho wo ye gham hai
-  Haq ka yehi matam parcham hai
-  Is parcham ko is matam ko
-  Seeno pe tahreer kare
+  Haq ka yehi maatam parcham hai
+  Is parcham ko is maatam ko
+  Sinoṅ pe tahrir kareṅ
 
   6
-  Matam jis ka darya darya
-  Jiski wafa emaan ka chehra
-  Jiske alam ka khoon mein pharera
-  Doob gaya wo chand na dooba
-  Uski wafa kehti hai hum se
-  Dunya ko tasqeer kare
+  Maatam jis ka darya darya
+  Jis ki wafa imaan ka chehra
+  Jis ke alam ka khun mein pharera
+  Dub gaya wo chaand na duba
+  Us ki wafa kehti hai hum se
+  Dunya ko tasqir kareṅ
 
   7
-  Yaad mein teri shaam e ghariban
-  Matam karne waale insan
-  Karte hai jab chaak ghareban
-  Zehra khud hoti hai giryan
-  Sunnate zehra hai ye matam
-  Is ko aalamgeer kare
+  Yaad mein teri Shaam-e-Gharibaṅ
+  Maatam karne waale insaaṅ
+  Karte haiṅ jab chaak garebaaṅ
+  Zehra khud hoti haiṅ giryaaṅ
+  Sunnat-e-Zehra hai ye maatam
+  Is ko aalamgir kareṅ
 
   8
-  Karna saki jo bhai ka gham
-  Us zainab ki yaad mein ab hum
+  Kar na saki jo bhaiya ka gham
+  Us Zainab ki yaad mein ab hum
   Ranj o khushi se kar ke baaham
-  Har din samjhe maahe muharam
-  Zakhme dile zainab ki khaatir
-  Koi dawa akseer kare
+  Har din samjheṅ maah-e-Muharram
+  Zakhm-e-dil-e-Zainab ki khaatir
+  Koi dawa iksir kareṅ
 
   9
-  Jinke rassan mein haath bande thay
-  Kaise bhala wo matam karte
-  Unke dilon mein yaad basa ke
-  Nauhe ki matam ki sada se
-  Ehle aza zehra ki dua se
-  Khuld ko jageer kare
+  Jin ke rasan mein haath bandhe the
+  Kaise bhala wo maatam karte
+  Un ke diloṅ mein yaad basa ke
+  Nauhe ki maatam ki sada se
+  Ahl-e-aza Zehra ki dua se
+  Khuld ko jaagir kareṅ
 
   10
   Maula aisa zarf ata kar
-  Ye matam saughaat bana kar
-  Le jaye seeno pe saja kar
-  Shehre najaf mein dil mein basa kar
-  Apni azadari ka tohfa
-  Nazr e khyber-geer kare
+  Ye maatam saughaat bana kar
+  Le jaayeṅ sinoṅ pe saja kar
+  Shahr-e-Najaf mein dil mein basa kar
+  Apni azaadaari ka tohfa
+  Nazr-e-Khaibar-gir kareṅ
 
   11
-  Keh denge rehaan o sarwar
-  Hashr mein jab khatoon e mehshar
-  Poochengi ye baat jo aa kar
-  Chahiye kya matam ki bina par
-  Hum keh denge hum ko ghulame
-  Shabbar o shabbir kare
+  Keh deṅge Rehaan o Sarwar
+  Hashr mein jab Khaatun-e-Mahshar
+  Puchheṅgi ye baat jo aa kar
+  Chaahiye kya maatam ki bina par
+  Hum keh deṅge hum ko ghulaam-e
+  Shabbar o Shabbir kareṅ
 # source_id: nohayonline:faea079075a2f16e6bdb
 # source_url: https://www.nohayonline.com/details_content.php?id=403
 # raw_sha256: bf9d721e659289ae9d0ebd824500719df6854e87f6d49574512658dc703e09b3
@@ -164,7 +165,7 @@ romanLyrics: |-
 کرتے ہیں جب چاک گریباں
 زہرا خود ہوتی ہیں گریہ
 سنتِ زہرا ہے یہ ماتم
-اسکو عالم گیر کریں
+اس کو عالم گیر کریں
 
 ۸
 کر نہ سکی جو بھیا کا غم
@@ -179,7 +180,7 @@ romanLyrics: |-
 کیسے بھلا وہ ماتم کرتے
 ان کے دلوں میں یاد بسا کے
 نوحے کی ماتم کی صدا سے
-اہلِ اعزا زہرا کی دُعا سے
+اہلِ عزا زہرا کی دُعا سے
 خلد کو جاگیر کریں
 
 ۱۰
@@ -187,13 +188,13 @@ romanLyrics: |-
 یہ ماتم سوغات بنا کر
 لے جائیں سینوں پہ سجا کر
 شہرِ نجف میں دل میں بسا کر
-اپنی اعزاداری کا تحفہ
-نذرِخیبر گیر کریں
+اپنی عزاداری کا تحفہ
+نذرِ خیبر گیر کریں
 
 ۱۱
 کہہ دیں گے ریحان و سرور
 حشر میں جب خاتونِ محشر
-پوچھیں گی یہ بات جو آکر
-چاہیئے کیا ماتم کی بنا پر
+پوچھیں گی یہ بات جو آ کر
+چاہیے کیا ماتم کی بنا پر
 ہم کہہ دیں گے ہم کو غلامِ
 شبر و شبیر کریں

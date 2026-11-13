@@ -1,51 +1,52 @@
 ---
 title: "ملتی ہی نہیں کوئی مثال ایسی دہر میں"
-alternateTitle: "Milti Hi Nahi Koi"
+alternateTitle: "Milti Hi Nahiṅ Koi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ameer Hussain Mashadi"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Milti hi nahi koi misaal aisi dahar may
-  Be gor-o-kafan bhai hamsheer safar may
+  Milti hi nahiṅ koi misaal aisi dahr mein
+  Be gor o kafan bhaai hamshir safar mein
 
   1
-  Haq fatema zahra ka ghasab jisne kiya hai
-  Wo dost bhala kya hai payambar ki nazar may
+  Haq Faatima Zahra ka ghasb jis ne kiya hai
+  Wo dost bhala kya hai Payambar ki nazar mein
 
   2
-  Cheh maah ke bache ko bhi naize pe chadaya
-  Kya choda hai ummat ne mere bhai ke ghar may
+  Chhe maah ke bachche ko bhi naize pe charhaaya
+  Kya chhora hai ummat ne mere bhaai ke ghar mein
 
   3
-  Khamosh chali jaaun bhala shaam may kaise
-  Shabbir ka laasha hai meri raah guzar may
+  Khaamosh chali jaauṅ bhala Shaam mein kaise
+  Shabbir ka laasha hai meri raahguzar mein
 
   4
-  Abid ne kaha khoon yuhin rota rahunga
-  Phuphi ki aseeri ne kiye zakhm jigar may
+  Aabid ne kaha khun yuṅhi rota rahuṅga
+  Phuphi ki asiri ne kiye zakhm jigar mein
 
   5
-  Tarsi thi khawateen mulaqaat ko jis may
-  Zainab sar e uryan hai usi koofa shehar may
+  Tarsi thi khawaatin mulaaqaat ko jis mein
+  Zainab sar-e-uryaaṅ haiṅ usi Kufa shahr mein
 
   6
-  Behte hai ghame shaah may jo aansu wo kahan hai
-  Mehshar may milenge wo tumhe laal o gohar may
+  Behte haiṅ gham-e-Shaah mein jo aaṅsu wo kahaaṅ haiṅ
+  Mahshar mein mileṅge wo tumheṅ laal o gauhar mein
 
   7
-  Kyun kar na ameer aaj kahe gham ka ye nauha
-  Har zulm ka manzar hai meri deeda o tar may
+  Kiuṅ kar na Amir aaj kahe gham ka ye nauha
+  Har zulm ka manzar hai meri dida o tar mein
 # source_id: nohayonline:cacf54575c464dc39490
 # source_url: https://www.nohayonline.com/details_content.php?id=610
 # raw_sha256: ee35328580e7056900823a050ca5aa5168fce383d51f59ab26ae66271845f7e6
 ---
 ملتی ہی نہیں کوئی مثال ایسی دہر میں
-بے گوروکفن بھائی ہمشیر سفر میں
+بے گور و کفن بھائی ہمشیر سفر میں
 
 ۱
 حق فاطمہ زہرا کا غصب جس نے کیا ہے
@@ -56,20 +57,20 @@ romanLyrics: |-
 کیا چھوڑا ہے امت نے میرے بھائی کے گھر میں
 
 ۳
-خاموش چلی جائوںبھلا شام میں کیسے
+خاموش چلی جاؤں بھلا شام میں کیسے
 شبیر کا لاشہ ہے میری راہ گزر میں
 
 ۴
-عابد نے کہا خون یونہی روتا رہوںگا
+عابد نے کہا خون یونہی روتا رہوں گا
 پھپھی کی اسیری نے کیے زخم جگر میں
 
 ۵
-ترسی تھی خواتین ملاقات کوجس میں
+ترسی تھی خواتین ملاقات کو جس میں
 زینب سرِعریاں ہیں اُسی کوفہ شہر میں
 
 ۶
-بہتے ہیںغمِ شاہ میں جو آنسو وہ کہاں ہیں
-محشر میں ملیں گے وہ تمہیںلال وگوہر میں
+بہتے ہیں غمِ شاہ میں جو آنسو وہ کہاں ہیں
+محشر میں ملیں گے وہ تمہیں لال و گوہر میں
 
 ۷
 کیوں کر نہ امیر آج کہے غم کا یہ نوحہ

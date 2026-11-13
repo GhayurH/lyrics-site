@@ -1,34 +1,57 @@
 ---
-title: "Mili Hai Deen-e-Nabi Ko Hayat Zainab Se"
-language: "Roman Urdu"
+title: "ملی ہے دینِ نبی کو حیات زینب سے"
+alternateTitle: "Mili Hai Din-e-Nabi Ko Hayaat Zainab Se"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu"]
-aliases: []
+poet: "Rehaan Azmi"
+reciter: "Syed Wajhi Hasan Zaidi"
+tags: ["noImage"]
+aliases: ["Mili Hai Deen-e-Nabi Ko Hayat Zainab Se"]
 published: false
+romanLyrics: |-
+  Mili hai din-e-Nabi ko hayaat Zainab se
+  Husainiyat ki saji kaainaat Zainab se
+
+  1
+  Jalaaye Shaam-e-Gharibaṅ mein aaṅsuoṅ se charaagh
+  Ujaale maaṅgne aayi thi raat Zainab se
+  Jo imtihaan ki manzil na saamne hoti
+  Yazid kar nahiṅ sakta tha baat Zainab se
+
+  2
+  Wafa o azm o sadaaqat ki aur jurat ki
+  Mili hai Karb o Bala ko zakaat Zainab se
+  Kahiṅ zamin pe nishaan-e-lahad nahiṅ milta
+  Yazidiyat ne wo khaayi hai maat Zainab se
+
+  3
+  Bas ek baagh-e-jinaṅ kya hai naam-e-Akbar par
+  Main maaṅg sakta huṅ kul kaainaat Zainab se
+  Rehaan Azmi main kya huṅ meri nasloṅ ki
+  Juri hui hai musalsal nijaat Zainab se
 # source_id: tajpoints:dac416a0c7c1965e5abe
 # source_url: https://tajpoints.com/2018/05/mili-hai-deen-e-nabi-ko-hayat-zainab-se.html
 # raw_sha256: 6b242d80b98a59eb3ea1a8e687ecb52a87f0c0aa86147a20276dc4fcaaa9370a
 ---
+ملی ہے دینِ نبی کو حیات زینب سے
+حسینیت کی سجی کائنات زینب سے
 
-Mili Hai Deen-e-Nabi Ko Hayat Zainab Se
-Hussainiyat Ki Saji Kainat Zainab Se
+۱
+جلائے شامِ غریباں میں آنسوؤں سے چراغ
+اجالے مانگنے آئی تھی رات زینب سے
+جو امتحان کی منزل نہ سامنے ہوتی
+یزید کر نہیں سکتا تھا بات زینب سے
 
-1
-Jalaye Sham-e-Ghareban Mein Aansoon Se Charag
-Ujalay Mangne Aayi Thi Raat Zainab Se
-Jo Imtehan Ki Manzil Na Samne Hoti
-Yazeed Kar Nahi Sakta Tha Bat Zainab Se
+۲
+وفا و عزم و صداقت کی اور جرأت کی
+ملی ہے کرب و بلا کو زکات زینب سے
+کہیں زمین پہ نشانِ لحد نہیں ملتا
+یزیدیت نے وہ کھائی ہے مات زینب سے
 
-2
-Wafa-o-Azam-o-Sadaqat Ki Our Jurat Ki
-Mili Hai Karb-o-Bala Ko Zakaat Zainab Se
-Kahin Zameen Pe Nishan-e-Lahad Nahi Milta
-Yazeediyat Ne Woh Khai Hai Maat Zainab Se
-
-3
-Bas Aik Baag-e-Jina Kya Hai Naam-e-Akbar Par
-Main Mang Sakta Hoon Kul Kainat Zainab Se
-:REAHN AZMI: Main Kya Hoon Meri Nasloon Ki
-Juri Hoi Hai Musalsal Nijat Zainab Se
+۳
+بس ایک باغِ جناں کیا ہے نامِ اکبر پر
+میں مانگ سکتا ہوں کل کائنات زینب سے
+ریحان اعظمی میں کیا ہوں میری نسلوں کی
+جڑی ہوئی ہے مسلسل نجات زینب سے
