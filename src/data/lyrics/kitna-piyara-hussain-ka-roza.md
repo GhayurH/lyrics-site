@@ -1,43 +1,94 @@
 ---
-title: "Kitna Piyara Hussain Ka Roza"
-language: "Roman Urdu"
+title: "کتنا پیارا حسین کا روضہ"
+alternateTitle: "Kitna Pyaara Husain Ka Rauza"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu"]
+poet: "Mir Sajjad Mir"
+reciter: "Mir Sajjad Mir"
+tags: ["noImage"]
 aliases: []
 published: false
+romanLyrics: |-
+  Kitna pyaara Husain ka rauza
+  Mere Maula Husain ka rauza
+
+  1
+  Tur par Musa ab nahiṅ jaate
+  Jab se dekha Husain ka rauza
+
+  2
+  Khuld mein Mustafa ke rauze ke
+  Saath ho ga Husain ka rauza
+
+  3
+  Hai qamar jaisa rauza-e-Ghaazi
+  Shams jaisa Husain ka rauza
+
+  4
+  Us ne Allah ki ziyaarat ki
+  Jis ne dekha Husain ka rauza
+
+  5
+  Kya kare dil ke Kaabe mein bhi ise
+  Yaad aaya Husain ka rauza
+
+  6
+  Khwaab se kiuṅ jaga diya mujh ko
+  Saamne tha Husain ka rauza
+
+  7
+  Faatima ke ye do thikaane haiṅ
+  Ya Ali ya Husain ka rauza
+
+  8
+  Fakhr se chumte haiṅ khud Mehdi
+  Apne daada Husain ka rauza
+
+  9
+  Mir Sajjaad ham kahaaṅ jaate
+  Gar na hota Husain ka rauza
 # source_id: tajpoints:241c25fdc1c08fa4d1b1
 # source_url: https://tajpoints.com/2020/03/kitna-piyara-hussain-ka-roza-lyrics-in.html
 # raw_sha256: ff0a7efb2b49d04a46acb06159643ad4ca9ae15678fe515c30fe661487c7a62a
 ---
 
-1
-Kitna Piyara Hussain Ka Roza
-Mere Maula Hussain Ka Roza
-Toor Par Mosa Ab Nahi Jate
-Jab Se Dekha Hussain Ka Roza
+کتنا پیارا حسین کا روضہ
+میرے مولا حسین کا روضہ
 
-2
-Khuld Mein Mustafa Ke Rozay Ke
-Sath Ho Ga Hussain Ka Roza
-Hai Qamar Jaisa Roza-e-Ghazi
-Shams Jaisa Hussain Ka Roza
+۱
+طور پر موسیٰ اب نہیں جاتے
+جب سے دیکھا حسین کا روضہ
 
-3
-Oss Ne ALLAH Ki Ziyarat Ki
-Jis Ne Dekha Hussain Ka Roza
-Kiya Karey Dil Keh Kabay Mein Bhi Issay
-Yaad Aaya Hussain Ka Roza
+۲
+خلد میں مصطفیٰ کے روضے کے
+ساتھ ہو گا حسین کا روضہ
 
-4
-Khuwab Se Kyun Jaga Diya Mujh Ko
-Samne Tha Hussain Ka Roza
-Fatima Ke Yeh Do Thikaney Hain
-Ya Ali Ya Hussain Ka Roza
+۳
+ہے قمر جیسا روضۂ غازی
+شمس جیسا حسین کا روضہ
 
-5
-Fakhar Se Chomtay Hain Khud Mehdi
-Apne Dada Hussain Ka Roza
-:MIR SAJJAD: Hum Kahan Jate
-Gar Na Hota Hussain Ka Roza
+۴
+اس نے اللہ کی زیارت کی
+جس نے دیکھا حسین کا روضہ
+
+۵
+کیا کرے دل کہ کعبے میں بھی اسے
+یاد آیا حسین کا روضہ
+
+۶
+خواب سے کیوں جگا دیا مجھ کو
+سامنے تھا حسین کا روضہ
+
+۷
+فاطمہ کے یہ دو ٹھکانے ہیں
+یا علی یا حسین کا روضہ
+
+۸
+فخر سے چومتے ہیں خود مہدی
+اپنے دادا حسین کا روضہ
+
+۹
+میر سجاد ہم کہاں جاتے
+گر نہ ہوتا حسین کا روضہ

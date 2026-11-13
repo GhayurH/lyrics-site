@@ -1,43 +1,93 @@
 ---
-title: "Kitab E Azm O Shujat Hain Syed E Sajjad"
-language: "Roman Urdu"
+title: "کتابِ عزم و شجاعت ہیں سیدِ سجاد"
+alternateTitle: "Kitaab-e-Azm o Shujaat Haiṅ Sayyid-e-Sajjaad"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu"]
+poet: "Rehan Azmi"
+tags: ["noImage"]
 aliases: []
 published: false
+romanLyrics: |-
+  Kitaab-e-azm o shujaat haiṅ Sayyid-e-Sajjaad
+  Khuda-e-sabr ki aayat haiṅ Sayyid-e-Sajjaad
+
+  1
+  Wo jis ke sajdoṅ ko sajda namaaz karti hai
+  Waqaar-e-shaan-e-ibaadat haiṅ Sayyid-e-Sajjaad
+
+  2
+  Nahif kandhoṅ pe Karb o Bala se Shaam talak
+  Uthaaye baar-e-imaamat haiṅ Sayyid-e-Sajjaad
+
+  3
+  Bahaar ye Abu Taalib ke ghar mein chauthi hai
+  Nabi ke din ki alaamat haiṅ Sayyid-e-Sajjaad
+
+  4
+  Pas-e-Husain jo Islaam ka muhaafiz tha
+  Husain ki wo riyaazat haiṅ Sayyid-e-Sajjaad
+
+  5
+  Bacheṅ ge hashr mein kis tarha qaatilaan-e-Husain
+  Gawaah roz-e-qayaamat haiṅ Sayyid-e-Sajjaad
+
+  6
+  Jo apne bhaai ke qaatil ki mezbaani kare
+  Wo muntaha-e-sharaafat haiṅ Sayyid-e-Sajjaad
+
+  7
+  Ye tauq o beri pehnaana to marzi-e-Rab hai
+  Ali ki warna jalaalat haiṅ Sayyid-e-Sajjaad
+
+  8
+  Hasan Husain ki jis maaṅ ne tarbiyat ki thi
+  Usi ke ilm ki mehnat haiṅ Sayyid-e-Sajjaad
+
+  9
+  Rehaan Aazmi jo kaam hashr mein de gi
+  Hamaare paas wo daulat haiṅ Sayyid-e-Sajjaad
 # source_id: tajpoints:69f169c50bd34d63c369
 # source_url: https://tajpoints.com/2023/11/kitab-e-azm-o-shujat-hain-syed-e-sajjad.html
 # raw_sha256: 028567f2d99383e48ddb137fca72a9b9d2f71d10dd9aea2f604c4863c3f977fb
 ---
 
-1
-Kitab e Azm o Shujat Hain Syed e Sajjad
-Khuda-e-Sabar Ki Aayat Hain Syed-e-Sajjad
-Woh Jis Ke Sajdoon Ko Sajdah Namaz Karti Hai
-Waqar-e-Shan-e-Ibadat Hain Syed-e-Sajjad
+کتابِ عزم و شجاعت ہیں سیدِ سجاد
+خدائے صبر کی آیت ہیں سیدِ سجاد
 
-2
-Naheef Kandhoon Pe Karb-o-Bala Se Sham Talak
-Uthaye Bar-e-Imamat Hain Syed-e-Sajjad
-Bahar Yeh Abu Talib Ke Ghar Mein Chothi Hai
-Nabi Ke Dein Ki Alamat Hain Syed-e-Sajjad
+۱
+وہ جس کے سجدوں کو سجدہ نماز کرتی ہے
+وقارِ شانِ عبادت ہیں سیدِ سجاد
 
-3
-Pas-e-Hussain Jo Islam Ka Mohafiz Tha
-Hussain Ki Woh Riyazat Hain Syed-e-Sajjad
-Bachein Gay Hashar Mein Kis Tarha Qatilan-e-Hussain
-Gawah Rooz-e-Qayamat Hain Syed-e-Sajjad
+۲
+نحیف کندھوں پہ کرب و بلا سے شام تلک
+اٹھائے بارِ امامت ہیں سیدِ سجاد
 
-4
-Jo Apne Bhai Ke Qatil Ki Mezbani Karey
-Woh Muntaha e Sharafat Hain Syed-e-Sajjad
-Yeh Tauq-o-Beri Pehnana Tu Marzi-e-Rab Hai
-Ali Ki Warna Jalalat Hain Syed-e-Sajjad
+۳
+بہار یہ ابو طالب کے گھر میں چوتھی ہے
+نبی کے دین کی علامت ہیں سیدِ سجاد
 
-5
-Hasan Hussain Ki Jis Maa Ne Tarbiyaat Ki Thi
-Ossi Ke Ilm Ki Mehnat Hain Syed-e-Sajjad
-:REHAN AZMI: Jo Kam Hashar Mein De Gi
-Hamarey Pas Woh Dolat Hain Syed-e-Sajjad
+۴
+پسِ حسین جو اسلام کا محافظ تھا
+حسین کی وہ ریاضت ہیں سیدِ سجاد
+
+۵
+بچیں گے حشر میں کس طرح قاتلانِ حسین
+گواہ روزِ قیامت ہیں سیدِ سجاد
+
+۶
+جو اپنے بھائی کے قاتل کی میزبانی کرے
+وہ منتہائے شرافت ہیں سیدِ سجاد
+
+۷
+یہ طوق و بیڑی پہنانا تو مرضیِ رب ہے
+علی کی ورنہ جلالت ہیں سیدِ سجاد
+
+۸
+حسن حسین کی جس ماں نے تربیت کی تھی
+اسی کے علم کی محنت ہیں سیدِ سجاد
+
+۹
+ریحان اعظمی جو کام حشر میں دے گی
+ہمارے پاس وہ دولت ہیں سیدِ سجاد

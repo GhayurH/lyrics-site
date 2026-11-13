@@ -1,84 +1,86 @@
 ---
-title: "کتنا مشکل وقت قیدی سارباں پر آگیا"
+title: "کتنا مشکل وقت قیدی سارباں پر آ گیا"
 alternateTitle: "Kitna Mushkil Waqt"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Abid Zaidi"
+reciter: "Aqif Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kitna mushkil waqt qaidi saarban par aagaya
-  Khaafila lekar kahin se wo kahan par aagaya
+  Kitna mushkil waqt qaidi saarbaaṅ par aa gaya
+  Qaafila le kar kahiṅ se wo kahaaṅ par aa gaya
 
   1
-  Sar utha kar usne poocha ye jagah hai kaunsi
-  Haye lafze shaam ye kiski zuban par aagaya
+  Sar utha kar us ne puchha ye jagah hai kaun si
+  Haaye lafz-e-Shaam ye kis ki zubaaṅ par aa gaya
 
   2
-  Noke naize pe sare sheh ne sunaya haale gham
-  Hashr ka pal karbala ki daastan par aagaya
+  Nok-e-neze pe sar-e-Shah ne sunaaya haal-e-gham
+  Hashr ka pal Karbala ki daastaaṅ par aa gaya
 
   3
-  Khaak sar mein paon mein chaale hai aankhon mein lahoo
-  Dukh to saara natawan kadiyal jawan par aagaya
+  Khaak sar mein paaoṅ mein chhaale hai aankhoṅ mein lahu
+  Dukh to saara naatawaaṅ karyal jawaaṅ par aa gaya
 
   4
-  Gul macha har ek jagah barpa qayamat hogayi
-  Karbala ka haal kehta ye jahan par aagaya
+  Ghul macha har ek jagah barpa qayaamat ho gayi
+  Karbala ka haal kehta ye jahaaṅ par aa gaya
 
   5
-  Rodiya bemaar ek dam karke baba ko salaam
-  Saamne shabbir ka sar jab sina par aagaya
+  Ro diya bimaar ek dam kar ke baaba ko salaam
+  Saamne Shabbir ka sar jab sinaaṅ par aa gaya
 
   6
-  Rab pe kya guzri qayamat rab ko hi maloom hai
-  Jo huwa utha kahin wo aasman par aagaya
+  Rab pe kya guzri qayaamat Rab ko hi maalum hai
+  Jo hua utha kahiṅ wo aasmaaṅ par aa gaya
 
   7
-  Paak zehra ke chaman mein kab raha waqte bahaar
-  Jaldi jaldi waqt wo waqte fiza par aagaya
+  Paak Zehra ke chaman mein kab raha waqt-e-bahaar
+  Jaldi jaldi waqt wo waqt-e-fiza par aa gaya
 
   8
-  Dard ki tehreer abid likh ke ye karde tamaam
-  Aqif har imtehan ek natawan par aagaya
+  Dard ki tahrir Aabid likh ke ye kar de tamaam
+  Aqif har imtihaan ek naatawaaṅ par aa gaya
 # source_id: nohayonline:4426efe6122d081256c2
 # source_url: https://www.nohayonline.com/details_content.php?id=911
 # raw_sha256: 751da446d79791fa1fa1f93af45ca8c5074b8bf2b5936bb1dabd67e0e2b772f7
 ---
-کتنا مشکل وقت قیدی سارباں پر آگیا
-قافلہ لے کر کہیں سے وہ کہیں پر آگیا
+
+کتنا مشکل وقت قیدی سارباں پر آ گیا
+قافلہ لے کر کہیں سے وہ کہیں پر آ گیا
 
 ۱
-سر اٹھا کر اس نے پوچھا یہ جگہ ہے کونسی
-ہاے لفط شام یہ کس کی زباں پر آگیا
+سر اٹھا کر اس نے پوچھا یہ جگہ ہے کون سی
+ہائے لفظِ شام یہ کس کی زباں پر آ گیا
 
 ۲
-نوکِ نیزے پہ سر شہ نے سنایا حال غم
-حشر کا پل کربلا کی داستاں پر آگیا
+نوکِ نیزے پہ سرِ شہ نے سنایا حالِ غم
+حشر کا پل کربلا کی داستاں پر آ گیا
 
 ۳
 خاک سر میں پاؤں میں چھالے ہے آنکھوں میں لہو
-دکھ تو سارا ناتواں کڑیل جواں پر گیا
+دکھ تو سارا ناتواں کڑیل جواں پر آ گیا
 
 ۴
-غل مچا ہر ایک جگہ برپا قیامت ہوگیء
-کربلا کا حال کہتا یہ جہاں پر آگیا
+غل مچا ہر ایک جگہ برپا قیامت ہو گئی
+کربلا کا حال کہتا یہ جہاں پر آ گیا
 
 ۵
-رو دیا بیمار اک دم کرکے بابا کو سلام
-سامنے شبیر کا سر جب سناں پر آگیا
+رو دیا بیمار اک دم کر کے بابا کو سلام
+سامنے شبیر کا سر جب سناں پر آ گیا
 
 ۶
 رب پہ کیا گزری قیامت رب کو ہی معلوم ہے
-جو ہوا اٹھا کہیں وہ آسماں پر آگیا
+جو ہوا اٹھا کہیں وہ آسماں پر آ گیا
 
 ۷
 پاک زہرا کے چمن میں کب رہا وقتِ بہار
-جلدی جلدی وقت وہ وقتِ فضا پر آگیا
+جلدی جلدی وقت وہ وقتِ فضا پر آ گیا
 
 ۸
-درد کی تحریر عابد لکھ کے یہ کردے تمام
-عاکف ہر امتحان اک ناتواں پر آگیا
+درد کی تحریر عابد لکھ کے یہ کر دے تمام
+عاکف ہر امتحان اک ناتواں پر آ گیا
