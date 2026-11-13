@@ -1,49 +1,50 @@
 ---
 title: "قبر میں فاطمہ زہرا کو رلاتے کیوں ہو"
-alternateTitle: "Qabr May Fatema"
+alternateTitle: "Qabr Mein Fatema"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
+reciter: "Mir Rehan Abbas"
 tags: ["noImage"]
-aliases: []
+aliases: ["Qabr May Fatema"]
 published: false
 romanLyrics: |-
-  Qabr may fatema zehra ko rulaate kyun ho
-  Bhare darbar may zainab ko bulaate kyun ho
+  Qabr mein Fatema Zehra ko rulaate kiuṅ ho
+  Bhare darbar mein Zainab ko bulaate kiuṅ ho
 
   1
-  Khoon jis par hai hussain ibne ali ka taaza
-  Saani e zehra ko khanjar wo dikhaate kyun ho
+  Khun jis par hai Husain ibn-e-Ali ka taaza
+  Saani-e-Zehra ko khanjar wo dikhaate kiuṅ ho
 
   2
-  Sar e abbas bhala kyun na giray naize se
-  Naize pe chadare zainab ko uthaate kyun ho
+  Sar-e-Abbas bhala kiuṅ na gire naize se
+  Naize pe chaadar-e-Zainab ko uthaate kiuṅ ho
 
   3
-  Pusht haazir hai meri kehta tha bemaar e hussain
-  Taaziyane phupi amma ko lagaate kyun ho
+  Pusht haazir hai meri kehta tha bimaar-e-Husain
+  Taaziyane phuphi ammaaṅ ko lagaate kiuṅ ho
 
   4
-  Godh may rehti thi ghazi ke sada jo bachi
-  Usko tum kaanton ke raste pe chalaate kyun ho
+  God mein rehti thi Ghazi ke sada jo bachchi
+  Usko tum kaaṅtoṅ ke raste pe chalaate kiuṅ ho
 
   5
-  Is ko to godh may karne do sukoon maadar ki
-  Sar e baysheer ko naize pe chadhaate kyun ho
+  Is ko to god mein karne do sukuṅ maadar ki
+  Sar-e-beshir ko naize pe charhaate kiuṅ ho
 
   6
-  Pyaas kuch aur bhi badh jaati hai masoomo ki
-  Pani dena hi hota to dikhaate kyun ho
+  Pyaas kuchh aur bhi barh jaati hai masumoṅ ki
+  Paani dena hi hota to dikhaate kiuṅ ho
 
   7
-  Gir ke kehta hai ye shabbir ka sar naize se
-  Chalte naaqe se sakina ko giraate kyun ho
+  Gir ke kehta hai ye Shabbir ka sar naize se
+  Chalte naaqe se Sakina ko giraate kiuṅ ho
 
   8
-  Mir sajjad yehi poochte rehte thay imam
-  Baaghi abbas ki behno ko bulaate kyun ho
+  Mir Sajjad yehi puchhte rehte the Imam
+  Baaghi Abbas ki behnoṅ ko bulaate kiuṅ ho
 # source_id: nohayonline:bf685b1444afbb16a417
 # source_url: https://www.nohayonline.com/details_content.php?id=2038
 # raw_sha256: 2e28f9aacbd2b6bb0bf9fabbd501a3f711416ac3fd4254c4f3dccfad59a0e80b
@@ -53,23 +54,23 @@ romanLyrics: |-
 
 ۱
 خوں ہے جس پر ہے حسین ابنِ علی کا تازہ
-ثانیء زہرا کو خنجر وہ دکھاتے کیوں ہو
+ثانیِ زہرا کو خنجر وہ دکھاتے کیوں ہو
 
 ۲
-سر عباس بھلا کیوں نہ گرے نیزے سے
-نیزے پہ چادر زینب کو اٹھاتے کیوں ہو
+سرِ عباس بھلا کیوں نہ گرے نیزے سے
+نیزے پہ چادرِ زینب کو اٹھاتے کیوں ہو
 
 ۳
-پشت حاضر ہے میری کہتا تھا بیمار حسین
+پشت حاضر ہے میری کہتا تھا بیمارِ حسین
 تازیانے پھپھی اماں کو لگاتے کیوں ہو
 
 ۴
-گود میں رہتی تھی غازی کے صدا جو بچی
+گود میں رہتی تھی غازی کے سدا جو بچی
 اس کو کانٹوں کے رستے پہ چلاتے کیوں ہو
 
 ۵
 اس کو تو گود میں کرنے دو سکوں مادر کی
-سر بے شیر کو نیزے پہ چڑھاتے کیوں ہو
+سرِ بے شیر کو نیزے پہ چڑھاتے کیوں ہو
 
 ۶
 پیاس کچھ اور بھی بڑھ جاتی ہے معصوموں کی
