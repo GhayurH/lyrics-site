@@ -1,6 +1,6 @@
 ---
 title: "ماتم ہے سامرہ میں امام حسن کا آج"
-alternateTitle: "Matam Hai Saamara"
+alternateTitle: "Maatam Hai Saamara"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,36 +10,36 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Matam hai saamara may imam e hassan ka aaj
-  Saaya saron se uth gaya shaah e zaman ka aaj
+  Maatam hai Saamara mein Imam-e-Hasan ka aaj
+  Saaya saroṅ se uth gaya Shah-e-Zaman ka aaj
 
   1
-  Roti hai sar ko peet ke narjis ba-haal e zaar
-  Bewa hui mai uth gaya waali jahan se aaj
+  Roti hai sar ko pit ke Narjis ba-haal-e-zaar
+  Bewa hui main uth gaya waali jahaaṅ se aaj
 
   2
-  Khairunnisa ko haye rulaaya mazaar may
-  Taaza kiya hai matam e karbobala ko aaj
+  Khairunnisa ko haaye rulaaya mazaar mein
+  Taaza kiya hai maatam-e-Karbobala ko aaj
 
   3
-  Chora najaf ko saamara pahunche hai murtaza
-  Matam kuna habeeb e khuda khuld may hai aaj
+  Chhora Najaf ko Saamara pahunche hai Murtaza
+  Maatam kunaaṅ Habib-e-Khuda khuld mein hai aaj
 
   4
-  Hai chaak gareban aur sar hai khula hua
-  Haye khaak sar pe daale imam e zamaan hai aaj
+  Hai chaak garebaaṅ aur sar hai khula hua
+  Haaye khaak sar pe daale Imam-e-Zamaaṅ hai aaj
 
   5
-  Ghurbat may hum ko chore chale haye baba jaan
-  Bekas yateem jahan may tanha hua hai aaj
+  Ghurbat mein hum ko chhor chale haaye Baba Jaaṅ
+  Bekas yatim jahaaṅ mein tanha hua hai aaj
 
   6
-  Ghusl o kafan diya aur lehad may lita diya
-  Lo khaak e saamara bani khaak e shifa hai aaj
+  Ghusl o kafan diya aur lahad mein lita diya
+  Lo khaak-e-Saamara bani khaak-e-shifa hai aaj
 
   7
-  Qudsi wo chand chup gaya badal ke darmiyan
-  Ghaibat shuru hui hai imam e zamaan ki aaj
+  Qudsi wo chaand chhup gaya baadal ke darmiyaaṅ
+  Ghaibat shuru hui hai Imam-e-Zamaaṅ ki aaj
 # source_id: nohayonline:4a15aa7e761e4077781c
 # source_url: https://www.nohayonline.com/details_content.php?id=1518
 # raw_sha256: 353de50f136d0965639a786be6ee83d04c743d4e57aca343393917f8715a933d
@@ -48,11 +48,11 @@ romanLyrics: |-
 سایہ سروں سے اٹھ گیا شاہ زمن کا آج
 
 ۱
-روتی ہے سر کو پیٹ کے نرجس با حال زار
-بیوہ ہوی میں اٹھ گیا والی جہاں سے آج
+روتی ہے سر کو پیٹ کے نرجس بہ حال زار
+بیوہ ہوئی میں اٹھ گیا والی جہاں سے آج
 
 ۲
-خیرالنسا کو ہاے رلایا مزار میں
+خیرالنسا کو ہائے رلایا مزار میں
 تازہ کیا ہے ماتم کربوبلا کو آج
 
 ۳
@@ -61,10 +61,10 @@ romanLyrics: |-
 
 ۴
 ہے چاک گریباں اور سر ہے کھلا ہوا
-ہاے خاک سر پہ ڈالے امام زماں ہے آج
+ہائے خاک سر پہ ڈالے امام زماں ہے آج
 
 ۵
-غربت میں ہم کو چھوڑ چلے ہاے بابا جاں
+غربت میں ہم کو چھوڑ چلے ہائے بابا جاں
 بیکس یتیم جہاں میں تنہا ہوا ہے آج
 
 ۶
@@ -73,4 +73,4 @@ romanLyrics: |-
 
 ۷
 قدسی وہ چاند چھپ گیا بادل کے درمیاں
-غیبت شروع ہوی ہے امام زماں کی آج
+غیبت شروع ہوئی ہے امام زماں کی آج

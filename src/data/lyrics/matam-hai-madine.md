@@ -1,53 +1,54 @@
 ---
 title: "ماتم ہے مدینے میں شبر کی شہادت کا"
-alternateTitle: "Matam Hai Madine"
+alternateTitle: "Maatam Hai Madine"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
+reciter: "Anjuman Parwane Shabbir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Matam hai madine mein shabbar ki shahadat ka
-  Shabbir pa aaya hai kya waqt ye ghurbat ka
+  Maatam hai Madine mein Shabbar ki shahaadat ka
+  Shabbir pe aaya hai kya waqt ye ghurbat ka
 
   1
-  Tukde dil e shabbar ke dekhega zamana na phir
-  Ashoor ke daaman mein manzar hai qayamat ka
+  Tukre dil-e-Shabbar ke dekhega zamaana na phir
+  Aashur ke daaman mein manzar hai qayaamat ka
 
   2
-  Taboot pa shabbar ke jab teere sitam aaye
-  Abbas pa tha kaisa ye waqt musibat ka
+  Taabut pe Shabbar ke jab tir-e-sitam aaye
+  Abbas pe tha kaisa ye waqt musibat ka
 
   3
-  Kamsin hai ye shehzada baitha hua sakte mein
-  Qasim ko bhi pursa do shabbar ki shahadat ka
+  Kamsin hai ye shahzaada baitha hua sakte mein
+  Qasim ko bhi pursa do Shabbar ki shahaadat ka
 
   4
-  Shabbar ki shahadat hai shabbir ke parwano
-  Shabbir ko pursa do shabbar ki shahadat ka
+  Shabbar ki shahaadat hai Shabbir ke parwaanoṅ
+  Shabbir ko pursa do Shabbar ki shahaadat ka
 
   5
-  Pakne lagi shaq ho kar us waqt zameen paiham
-  Kya hoga asar socho us zehr ki shiddat ka
+  Pakne lagi shaq ho kar us waqt zamiṅ paiham
+  Kya hoga asar socho us zahr ki shiddat ka
 
   6
-  Wo zehr e sitam pahuncha shabbar ke kaleje tak
-  Sar peeto azadaaro manzar hai qayamat ka
+  Wo zahr-e-sitam pahuncha Shabbar ke kaleje tak
+  Sar pito azaadaaroṅ manzar hai qayaamat ka
 
   7
-  Shabbir ka sadqa h? ab hum ko ata shabbar
-  Hum waasta dete hai qasim ki musibat ka
+  Shabbir ka sadqa ho ab hum ko ata Shabbar
+  Hum waasta dete haiṅ Qasim ki musibat ka
 
   8
-  Kehti thi yehi zainab shabbar ke janaze par
-  Gham kaise sahe zainab bhaiya teri furqat ka
+  Kehti thi yehi Zainab Shabbar ke janaaze par
+  Gham kaise sahe Zainab bhaiya teri furqat ka
 
   9
-  Hai khidmat e shabbar mein marooza rasheed itna
-  Hum sab ko sharaf de de rauze ki ziyarat ka
+  Hai khidmat-e-Shabbar mein maaruza Rasheed itna
+  Hum sab ko sharaf de de rauze ki ziyaarat ka
 # source_id: nohayonline:209416863d04a28d7a4a
 # source_url: https://www.nohayonline.com/details_content.php?id=1963
 # raw_sha256: 862cbb0dd68479de463d2d36c7416348fbc100c1df654ec86d9c5a77e02efe4e
@@ -60,7 +61,7 @@ romanLyrics: |-
 عاشور کے دامن میں منظر ہے قیامت کا
 
 ۲
-تابوت پہ شبر کے جب تیر ستم آے
+تابوت پہ شبر کے جب تیر ستم آئے
 عباس پہ تھا کیسا یہ وقت مصیبت کا
 
 ۳
@@ -89,4 +90,4 @@ romanLyrics: |-
 
 ۹
 ہے خدمت شبر میں معروضہ رشید اتنا
-ہم سبکو شرف دے دے روضے کی زیارت کا
+ہم سب کو شرف دے دے روضے کی زیارت کا
