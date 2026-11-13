@@ -6,36 +6,37 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hilal"
+reciter: "Irfan Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Maqtal hai waqte asr hai tanha hussain hai
-  Zaalim hai beshumar akela hussain hai
+  Maqtal hai waqt-e-asr hai tanha Husain hai
+  Zaalim hai beshumaar akela Husain hai
 
   1
-  Ghayre huwe hai fauje sitam char samt se
-  Teeron ka khanjaron ka nishana hussain hai
+  Ghere hue haiṅ fauj-e-sitam chaar samt se
+  Tiroṅ ka khanjaroṅ ka nishaana Husain hai
 
   2
-  Nasir tamaam farze wafa ko nibha chuke
-  Yaadein hai aur bekas o tanha hussain hai
+  Naasir tamaam farz-e-wafa ko nibha chuke
+  Yaadeṅ haiṅ aur bekas o tanha Husain hai
 
   3
-  Akbar ko kho chuka ali asghar ko ro chuka
-  Kis darja dil figaar o shikasta hussain hai
+  Akbar ko kho chuka Ali Asghar ko ro chuka
+  Kis darja dilfigaar o shikasta Husain hai
 
   4
-  Ummat ne dushmani e ali mein bhula diya
-  Paighambar e khuda ka nawasa hussain hai
+  Ummat ne dushmani-e-Ali mein bhula diya
+  Paighambar-e-Khuda ka nawaasa Husain hai
 
   5
-  Kehde koi sakina se daaman ko chod de
-  Ab aakhri safar pa rawana hussain hai
+  Keh de koi Sakina se daaman ko chhor de
+  Ab aakhri safar pe rawaana Husain hai
 
   6
-  Zad par hai aabroo e kalaab e khuda hilal
-  Maqtal mein aayaton ka sahara hussain hai
+  Zad par hai aabru-e-kalaam-e-Khuda Hilaal
+  Maqtal mein aayatoṅ ka sahaara Husain hai
 # source_id: nohayonline:3d5d961f285c276ae60b
 # source_url: https://www.nohayonline.com/details_content.php?id=868
 # raw_sha256: d988ca253a5de3e376e60e54f611223d330c79af3a4892a6c97e18718ab73d48
@@ -49,11 +50,11 @@ romanLyrics: |-
 
 ۲
 ناصر تمام فرض وفا کو نبھا چکے
-یادیں ہیں اور بے کسو تنہا حسین ہے
+یادیں ہیں اور بے کس و تنہا حسین ہے
 
 ۳
 اکبر کو کھو چکا علی اصغر کو رو چکا
-کس درجہ دل فگارو شکستہ حسین ہے
+کس درجہ دل فگار و شکستہ حسین ہے
 
 ۴
 امت نے دشمنیء علی میں بھلا دیا

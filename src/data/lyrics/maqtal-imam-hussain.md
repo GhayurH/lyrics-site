@@ -1,49 +1,50 @@
 ---
 title: "جب شمر مارتا تھا طمانچہ حسین کو"
-alternateTitle: "Maqtal Imam Hussain"
+alternateTitle: "Maqtal Imam Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jab shimr maarta tha tamacha hussain ko
-  Aati thi yaad bali sakina hussain ko
+  Jab Shimr maarta tha tamaancha Husain ko
+  Aati thi yaad baali Sakina Husain ko
 
   1
-  Naize ki nok maar ke phasli mein baar baar
-  Jalti zameen pe zeen se giraya hussain ko
+  Naize ki nok maar ke pasli mein baar baar
+  Jalti zamin pe zin se giraaya Husain ko
 
   2
-  Patthar kisi ne maare to phaynki kisi ne khaak
-  Ran mein kisi ne baalon se khayncha hussain ko
+  Patthar kisi ne maare to phenki kisi ne khaak
+  Ran mein kisi ne baaloṅ se khencha Husain ko
 
   3
-  Khanjar chala raha hai wo seene pa baith kar
-  Bachi na aake dekh le baba hussain ko
+  Khanjar chala raha hai wo sine pe baith kar
+  Bachi na aa ke dekh le baaba Husain ko
 
   4
-  Ek maa ne baal khole hai bilkul usi jagah
-  Jis jaa pe shamiyon ne giraya hussain ko
+  Ek maaṅ ne baal khole hai bilkul usi jagah
+  Jis ja pe Shaamiyoṅ ne giraaya Husain ko
 
   5
   Sattar qadam se dekh ke khanjar kabhi gala
-  Zainab ne tera baar pukara hussain ko
+  Zainab ne terah baar pukaara Husain ko
 
   6
-  Zibha ke waqt dete hai pani zabeeh ko
-  Maqtal mein qatl kar diya pyasa hussain ko
+  Zabh ke waqt dete haiṅ paani zabih ko
+  Maqtal mein qatl kar diya pyaasa Husain ko
 
   7
-  Khanjar to sirf pyase ki gardan pe chal gaya
-  Abbas teri maut ne maara hussain ko
+  Khanjar to sirf pyaase ki gardan pe chal gaya
+  Abbas teri maut ne maara Husain ko
 
   8
-  Zeeshan phasliyan thi shikasta ba-waqte dafn
-  Abid ne kis tarha se uthaya hussain ko
+  Zishaan pasliyaaṅ thi shikasta bawaqt-e-dafn
+  Aabid ne kis tarah se uthaaya Husain ko
 # source_id: nohayonline:8b7abdd4d6f6d4be236f
 # source_url: https://www.nohayonline.com/details_content.php?id=2785
 # raw_sha256: 63baa14fd5caa91ee12503bffbeac3f1080bfca068d75d8887d480a80aea3e15
@@ -64,7 +65,7 @@ romanLyrics: |-
 بچی نہ آ کے دیکھ لے بابا حسین کو
 
 ۴
-ایک ماں نے بال کھولے ہے بلکل اسی جگہ
+ایک ماں نے بال کھولے ہے بالکل اسی جگہ
 جس جا پہ شامیوں نے گرایا حسین کو
 
 ۵
