@@ -6,92 +6,93 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Irfan Haider"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jab madine se chala khaafla karbobala
-  Tha ye sughra ke labon par nauha
+  Jab Madine se chala qaafila Karbobala
+  Tha ye Sughra ke laboṅ par nauha
   Le chalo baba mujhe le chalo baba
-  Apne hamraah suye karbobala
+  Apne hamraah su-e-Karbobala
 
   1
-  Aap ki yaad mein ro ro ke mai marja'ungi
-  Baba akbar ki qasam chain nahi pa'ungi
-  Meri saanson ka bharosa na raha
+  Aap ki yaad mein ro ro ke main mar jaauṅ gi
+  Baba Akbar ki qasam chain nahiṅ paauṅ gi
+  Meri saansoṅ ka bharosa na raha
 
   2
-  Khafile walon ko pani bhi pila'ungi mai
-  Apni aaghosh mein asghar ko sula'ungi mai
+  Qaafile waaloṅ ko paani bhi pilaauṅ gi main
+  Apni aaghosh mein Asghar ko sulaauṅ gi main
   Baba ye aap se waada hai mera
 
   3
-  Mere kaano mein jo awaaz e azan aayegi
-  Mere akbar ki mujhe yaad bahot aayegi
-  Bhai ki yaad na ban jaye qaza
+  Mere kaanoṅ mein jo aawaaz-e-azaaṅ aaye gi
+  Mere Akbar ki mujhe yaad bahut aaye gi
+  Bhaai ki yaad na ban jaaye qaza
 
   4
-  Kaise akbar ke bina eid guzaar'ungi mai
-  Kabhi tumko kabhi ammu ko pukar'ungi mai
+  Kaise Akbar ke bina Eid guzaaruṅ gi main
+  Kabhi tum ko kabhi ammu ko pukaaruṅ gi main
   Jab koi paas na hoga baba
 
   5
-  Dhoop aur garm hawa hogi safar mein dekho
-  Apne aanchal mein chupa'lungi ali asghar ko
-  Yu na asghar ko karo mujhse juda
+  Dhup aur garm hawa hogi safar mein dekho
+  Apne aanchal mein chhupa luṅ gi Ali Asghar ko
+  Yuṅ na Asghar ko karo mujh se juda
 
   6
-  Khwab akbar ki uroosi ke bahot dekhe thay
-  Khaak hojayenge ay baba sab armaan mere
-  Dil yehi soch ke rota hai mera
+  Khwaab Akbar ki arusi ke bahut dekhe the
+  Khaak ho jaayeṅ ge ae baba sab armaaṅ mere
+  Dil yahi soch ke rota hai mera
 
   7
-  Chacha abbas aur sakina phupi zainab se
+  Chacha Abbas aur Sakina phuphi Zainab se
   Aakhri baar mila do mujhe baba sab se
-  Phir ye bemaar nahi degi sada
+  Phir ye bimaar nahiṅ de gi sada
 
   8
-  Bhaiya abid ko dawa roz pilaungi mai
-  Unki raahon mein nigahon ko bichaungi mai
-  Tum kaneezo ki tarha behre khuda
+  Bhaiya Abid ko roz dawa pilaauṅ gi main
+  Un ki raahoṅ mein nigaahoṅ ko bichhaauṅ gi main
+  Tum kanizoṅ ki tarah bahr-e-Khuda
 
   9
-  Acha mehmil mein mujhe tum na bithana baba
-  Tum mujhe raah mein paidal hi chalana baba
-  Na karungi mai shikayat na gila
+  Achchha mahmil mein mujhe tum na bithaana baba
+  Tum mujhe raah mein paidal hi chalaana baba
+  Na karuṅ gi main shikaayat na gila
 
   10
-  Maine maana ke nahi kaam mera mehzar mein
-  Baba itna to batado ke akele ghar mein
-  Zinda reh payegi sughra tanha
+  Main ne maana ke nahiṅ kaam mera mahzar mein
+  Baba itna to bata do ke akele ghar mein
+  Zinda reh paaye gi Sughra tanha
 
   11
-  Jab kabhi hoke madine se hawa aati hai
-  Aaj bhi mazhar o irfan ye sada aati hai
-  Apne hamraah suye karbobala
+  Jab kabhi ho ke Madine se hawa aati hai
+  Aaj bhi Mazhar o Irfan ye sada aati hai
+  Apne hamraah su-e-Karb o bala
 # source_id: nohayonline:beaf395e761b66450311
 # source_url: https://www.nohayonline.com/details_content.php?id=450
 # raw_sha256: 5aa64e8f2cc60742c091f422481360afc4a8e50fae4c857179c52c68e2afa77e
 ---
 جب مدینے سے چلا قافلہ کربوبلا
-تھا یہ صغر اکے لبوں پر نوحہ
+تھا یہ صغرا کے لبوں پر نوحہ
 لے چلو بابا مجھے لے چلو بابا
 اپنے ہمراہ سوئے کربوبلا
 
 ۱
-آپکی یاد میں رو رو کے میں مر جائوں گی
-با با اکبر کی قسم چین نہیں پائوں گی
-میری سانسوںکابروسہ نا رہا
+آپ کی یاد میں رو رو کے میں مر جاؤں گی
+بابا اکبر کی قسم چین نہیں پاؤں گی
+میری سانسوں کا بھروسا نہ رہا
 
 ۲
-قافلے والوں کو پانی بھی پلائوں گی میں
-اپنی آغوش میں اصغر کو سلائوں گی میں
-با با یہ آپ سے وعدہ ہے میرا
+قافلے والوں کو پانی بھی پلاؤں گی میں
+اپنی آغوش میں اصغر کو سلاؤں گی میں
+بابا یہ آپ سے وعدہ ہے میرا
 
 ۳
 میرے کانوں میں جو آوازِ اذاں آئے گی
 میرے اکبر کی مجھے یاد بہت آئے گی
-بھائی کی یاد نہ بن جائے قضائ
+بھائی کی یاد نہ بن جائے قضا
 
 ۴
 کیسے اکبر کے بِنا عید گزاروں گی میں
@@ -114,12 +115,12 @@ romanLyrics: |-
 پھر یہ بیمار نہیں دے گی صدا
 
 ۸
-بھّیا عابد کو روز دوا پلائوں گی میں
-اُن کی راہوں میں نگاہوں کو بچھائوں گی میں
+بھیا عابد کو روز دوا پلاؤں گی میں
+اُن کی راہوں میں نگاہوں کو بچھاؤں گی میں
 تم کنیزوں کی طرح بحرِ خدا
 
 ۹
-اچھا مہمل میں مجھے تم نہ بیٹھانا بابا
+اچھا مہمل میں مجھے تم نہ بٹھانا بابا
 تم مجھے راہ میں پیدل ہی چلانا بابا
 نہ کروں گی میں شکایت نہ گِلا
 

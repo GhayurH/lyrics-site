@@ -6,44 +6,45 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Noor"
+reciter: "Mirza Sikander Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Lekar janaza dosh pe shere khuda chale
-  Daare fana ko chod ke jab mustufa chale
+  Le kar janaaza dosh pe Sher-e-Khuda chale
+  Daar-e-fana ko chhor ke jab Mustafa chale
 
   1
-  Dunya ujad gayi ke madina ujad gaya
-  Sadaat saath saath ye karte buka chale
+  Dunya ujar gayi ke Madina ujar gaya
+  Saadaat saath saath ye karte buka chale
 
   2
-  Nabiyon ka khatm hota hai dunya se silsila
-  Ahmed chale jahan se kul ambiya chale
+  Nabiyoṅ ka khatm hota hai dunya se silsila
+  Ahmad chale jahaaṅ se kul ambiya chale
 
   3
-  Kya hogaya ali ko jo khamosh chal diye
-  Rassi galay mein daal ke jab ashkiyan chale
+  Kya ho gaya Ali ko jo khaamosh chal diye
+  Rassi gale mein daal ke jab ashqiya chale
 
   4
-  Sab jaante hai kya hua shabbar ki laash par
-  Kya kya musibatein hui aur teer kya chale
+  Sab jaante haiṅ kya hua Shabbar ki laash par
+  Kya kya musibateṅ huiṅ aur tir kya chale
 
   5
-  Karbobala ki aaj hi bunyad pad gayi
-  Kisko bithaye takht par aur kis tarha chale
+  Karb o bala ki aaj hi bunyaad par gayi
+  Kis ko bithaaye takht par aur kis tarah chale
 
   6
-  Tay ho raha hai kis tarha maare hussain ko
-  Hai kaun aisa leke inhe karbala chale
+  Tai ho raha hai kis tarah maare Husain ko
+  Hai kaun aisa le ke inheṅ Karbala chale
 
   7
-  Barbaad kis tarha kare zehra ke baagh ko
-  Toofan kis tarha ka aur kaisi hawa chale
+  Barbaad kis tarah kare Zehra ke baagh ko
+  Tufaan kis tarah ka aur kaisi hawa chale
 
   8
-  Noha ye noor ka hai sikandar ki hai zaban
-  Padte hue har ek ye karke aza chale
+  Nauha ye Nur ka hai Sikandar ki hai zabaan
+  Parhte hue har ek ye kar ke aza chale
 # source_id: nohayonline:a0c376c729f8743b32a9
 # source_url: https://www.nohayonline.com/details_content.php?id=581
 # raw_sha256: 1943c01e8695b68c2336a3c2eec0e23cffd1dd9d88cd77770609c191ed0e2cdf
@@ -53,15 +54,15 @@ romanLyrics: |-
 
 ۱
 دُنیا اُجڑ گئی کے مدینہ اُجڑ گیا
-سادات ساتھ ساتھ یہ کرتے بُقا چلے
+سادات ساتھ ساتھ یہ کرتے بُکا چلے
 
 ۲
 نبیوں کا ختم ہوتا ہے دُنیا سے سلسلہ
-احمد چلے جہاں سے کُل انبیائ چلے
+احمد چلے جہاں سے کُل انبیاء چلے
 
 ۳
 کیا ہو گیا علی کو جو خاموش چل دیئے
-رسی گلے میں ڈال کے جب اشقیائ چلے
+رسی گلے میں ڈال کے جب اشقیاء چلے
 
 ۴
 سب جانتے ہیں کیا ہوا شبر کی لاش پر
@@ -69,7 +70,7 @@ romanLyrics: |-
 
 ۵
 کر ب و بلا کی آج ہی بنیاد پڑ گئی
-کس کو بیٹھائے تخت پر اور کس طرح چلے
+کس کو بٹھائے تخت پر اور کس طرح چلے
 
 ۶
 طے ہو رہا ہے کس طرح مارے حسین کو
