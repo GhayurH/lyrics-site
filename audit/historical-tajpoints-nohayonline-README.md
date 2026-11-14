@@ -20,7 +20,7 @@ This branch targets `feat/import-overlap-reconciliation-2026-11-05`, not publish
 The **109 TajPoints/NoHayOnline source-to-file staging records** included two sources already represented by canonical bilingual Markdown: the redundant `Mili Rihaai` extension file was removed and its new stanzas were merged; the accidental replacement of the existing `Ghazi Tere Baad` edition was reversed and its TajPoints source linked instead. There are now **107 newly added TajPoints/NoHayOnline lyric files** (101 + 6) and **71 new NohaWriteups drafts**: **178 newly added lyric MD files** in this PR, plus in-place updates to reviewed existing editions.
 
 - `audit/historical-tajpoints-nohayonline-staging.csv`: initial 109 source identities, with the extension source now linked to its original filename
-- `audit/nohawriteups-review-decisions-1-status.csv`: all 125 decisions, source checksums, and retained file paths
+- `audit/nohawriteups-review-status.csv`: all 125 decisions, source checksums, and retained file paths
 - `audit/nohawriteups-review-decisions-1-prepared.json`: original one-time review handoff used to create 70 unpublished MDs; the 71st was created after independent raw-HTML recovery
 - The import repository's `review/historical-dispositions.csv` and `review/historical-md-staging.csv`: processed exclusions vs still-pending editorial records
 
@@ -52,8 +52,13 @@ Three NoHayOnline bilingual sources had literal stray `<` or `r>` debris removed
 
 ## Additional NohaWriteups decisions (2026-11-14)
 
-The new cumulative CSV contains 359 decisions, of which all 125 were already covered by `nohawriteups-review-decisions-1-status.csv`. The original uploaded cumulative decisions are preserved as `audit/nohawriteups-review-decisions-2-input.csv`; the 234 newly encountered source IDs appear in `audit/nohawriteups-review-decisions-2-status.csv` with pointers to their archived source metadata in `GhayurH/kalam-archive-imports`.
+The new cumulative CSV contains 359 decisions, of which all 125 were already covered by `nohawriteups-review-decisions-1-status.csv`. The original uploaded cumulative decisions are preserved as `audit/nohawriteups-review-decisions-input.csv`; the 234 newly encountered source IDs appear in `audit/nohawriteups-review-status.csv` with pointers to their archived source metadata in `GhayurH/kalam-archive-imports`.
 
 Of the 234, 20 are excluded as no-lyrics sources; 214 have valid lyric content and seven user-identified duplicate pairs. The `Ay Musalman Kash Socha Hota` pair (`6837975942943b9d74ad` and `71fc831cabef614a2267`) is preserved in one unpublished Roman draft containing the two closing stanzas missing from the four-stanza source. Other new lyric sources are **not yet materialized**, and the other six duplicate pairs require manual comparison, not automatic deletion. The Urdu+Panjabi partially extracted entry still requires recovery. Source captures remain untouched; valid identification is not completion of editorial review.
 
 Further manual consolidation: both `Ay Shaam Ke Logon Mein Binte Ali Hoon` sources share all eight substantive three-line stanzas; one unpublished Roman draft retains both source IDs. `Bay Dard Musalamaan To Khushiyan` has a seven-stanza bilingual source alongside its Roman-only duplicate; one unpublished bilingual draft retains both, with source Urdu spelling awaiting review. The two pairs' four status entries are marked `consolidated_new_draft`.
+
+
+## Unified cumulative source review
+
+Latest uploaded `review-decisions.csv`: 1,387 unique NohaWriteups sources; 450 classified and 937 left blank/unreviewed. Includes 91 classifications added after the previous 359-record batch. `audit/nohawriteups-review-status.csv` is the **sole** NohaWriteups review status tracker. The latest uploaded source decisions are preserved separately as `audit/nohawriteups-review-decisions-input.csv` (input data, not status tracker). The previous two status CSVs have been removed to prevent divergence. Existing 359 processing outcomes and linked canonical paths remain intact. Blank rows cannot be considered authorized deletion or import. Further source-text recovery and manual deduplication are pending and must be explicitly updated in this tracker.
