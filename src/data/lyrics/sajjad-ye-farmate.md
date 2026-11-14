@@ -6,53 +6,54 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Sharar Naqvi"
+reciter: "Irfan Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sajjad ye farmate thay ro kar sar e darbar
-  
+  Sajjad ye farmaate thay ro kar sar-e-darbaar
+
   1
-  Mai tanha nahi hoon meri phupiyan bhi yahan hai
-  Haathon mein rasan bhi hai sabhi girya kuna hai
-  Hai aale nabi ranj o musibat mein giraftaar
-  Tum apni nigahon ko uthana nahi mukhtar
-  
+  Main tanha nahiṅ huṅ meri phuphiyaṅ bhi yahaṅ hai
+  Haathoṅ mein rasan bhi hai sabhi girya kunaṅ hai
+  Hai Aal-e-Nabi ranj o musibat mein giraftaar
+  Tum apni nigaahoṅ ko uthaana nahiṅ Mukhtar
+
   2
-  Nanhi si sakina bhi rasan basta hui hai
-  Gham itne huwe us pa bahot khasta hui hai
-  Wo meri behen bhi to hai baba ki azadaar
-  Tum apni nigahon ko uthana nahi mukhtar
-  
+  Nanhi si Sakina bhi rasan basta hui hai
+  Gham itne hue us pe bahut khasta hui hai
+  Wo meri behen bhi to hai baaba ki azaadaar
+  Tum apni nigaahoṅ ko uthaana nahiṅ Mukhtar
+
   3
-  Mukhtar bahot pyasi hai ghazi ki bhatiji
-  Ek pal ke liye chain se so bhi nahi paati
-  Har gaam sataate hai sakina ko sitamgaar
-  Tum apni nigahon ko uthana nahi mukhtar
-  
+  Mukhtar bahut pyaasi hai Ghaazi ki bhatiji
+  Ek pal ke liye chain se so bhi nahiṅ paati
+  Har gaam sataate haiṅ Sakina ko sitamgaar
+  Tum apni nigaahoṅ ko uthaana nahiṅ Mukhtar
+
   4
-  Mai kaise bataun khile hassaas ke baazu
-  Darya pa qalam hogaye abbas ke baazu
-  Hum tanha nahi saath hai abbas e alamdar
-  Tum apni nigahon ko uthana nahi mukhtar
-  
+  Main kaise bataauṅ khule hassaas ke baazu
+  Darya pe qalam ho gaye Abbas ke baazu
+  Hum tanha nahiṅ saath hai Abbas alamdaar
+  Tum apni nigaahoṅ ko uthaana nahiṅ Mukhtar
+
   5
-  Zaalim ne mere chote se asghar ko bhi maara
-  Nanhi si lehad khod ke sar uska utaara
-  Cheh maah ke bhai pa hui zulm ki yalghaar
-  Tum apni nigahon ko uthana nahi mukhtar
-  
+  Zaalim ne mere chhote se Asghar ko bhi maara
+  Nanhi si lahad khod ke sar us ka utaara
+  Chhe maah ke bhaai pa hui zulm ki yalghaar
+  Tum apni nigaahoṅ ko uthaana nahiṅ Mukhtar
+
   6
-  Mukhtar kahun kaise bahot zulm huwe hai
-  Baade shahe waala sabhi qaime bhi jale hai
+  Mukhtar kahuṅ kaise bahut zulm hue haiṅ
+  Baad-e-shah-e-waala sabhi khaime bhi jale hai
   Hum rote thay khush hote thay zaalim ke tarafdaar
-  Tum apni nigahon ko uthana nahi mukhtar
-  
+  Tum apni nigaahoṅ ko uthaana nahiṅ Mukhtar
+
   7
-  Irfan o sharar kaise bayan ho wo musibat
-  Darbar mein sajjad ke nauhe se thi riqqat
-  Rote thay sabhi apne paraye sar e darbar
-  Tum apni nigahon ko uthana nahi mukhtar
+  Irfan o Sharar kaise bayaaṅ ho wo musibat
+  Darbaar mein Sajjad ke nauhe se thi riqqat
+  Rote thay sabhi apne paraaye sar-e-darbaar
+  Tum apni nigaahoṅ ko uthaana nahiṅ Mukhtar
 # source_id: nohayonline:6be3e830c735fccef434
 # source_url: https://www.nohayonline.com/details_content.php?id=3476
 # raw_sha256: d0e1c74d82f6265d625f1338f1e53e5c03e0d80f60e35031d3ae0b5be5044903
@@ -67,8 +68,8 @@ romanLyrics: |-
 تم اپنی نگاہوں کو اٹھانا نہیں مختار
 
 ۲
-ننھی سی سکینہ بھی رسن بستہ ہوی ہے
-غم اتنے ہوئے اس پہ بہت خستہ ہوی ہے
+ننھی سی سکینہ بھی رسن بستہ ہوئی ہے
+غم اتنے ہوئے اس پہ بہت خستہ ہوئی ہے
 وہ میری بہن بھی تو ہے بابا کی عزادار
 تم اپنی نگاہوں کو اٹھانا نہیں مختار
 
@@ -80,18 +81,18 @@ romanLyrics: |-
 
 ۴
 میں کیسے بتاؤں کھلے حساس کے بازو
-دریا پہ قلم ہو گےء عباس کے بازو
+دریا پہ قلم ہو گئے عباس کے بازو
 ہم تنہا نہیں ساتھ ہے عباس علمدار
 تم اپنی نگاہوں کو اٹھانا نہیں مختار
 
 ۵
 ظالم نے میرے چھوٹے سے اصغر کو بھی مارا
 ننھی سی لحد کھود کے سر اس کا اتارا
-چھ ماہ کے بھائی پا ہوی ظلم کی یلگار
+چھ ماہ کے بھائی پا ہوئی ظلم کی یلغار
 تم اپنی نگاہوں کو اٹھانا نہیں مختار
 
 ۶
-مختار کہوں کیسے بہت ظلم ہوے ہیں
+مختار کہوں کیسے بہت ظلم ہوئے ہیں
 بعد شہ والا سبھی خیمے بھی جلے ہے
 ہم روتے تھے خوش ہوتے تھے ظالم کے طرفدار
 تم اپنی نگاہوں کو اٹھانا نہیں مختار
@@ -99,5 +100,5 @@ romanLyrics: |-
 ۷
 عرفان و شرر کیسے بیاں ہو وہ مصیبت
 دربار میں سجاد کے نوحے سے تھی رقت
-روتے تھے سبھی اپنے پراے سر دربار
+روتے تھے سبھی اپنے پرائے سر دربار
 تم اپنی نگاہوں کو اٹھانا نہیں مختار

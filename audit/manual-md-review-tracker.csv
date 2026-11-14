@@ -3181,11 +3181,11 @@ src/data/lyrics/sajjad-pe-wo-kaisi.md,standalone_lyrics,imported,nohayonline,pen
 src/data/lyrics/sajjad-rota-hai.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
 src/data/lyrics/sajjad-se-poocho.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
 src/data/lyrics/sajjad-tere-gham.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,,,"Need audio/print: s3 ""صاحبِ اعزار"" vs Roman ""aazaar"", ""عابد نہ کیسے روے"" and ""زخمی ہے کان جس کے ہمشیر""; s5 ""زندہ شکن جری"". Confirm exact words before aligning disputed readings."
-src/data/lyrics/sajjad-tujhe-khoon.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/sajjad-utho-bali-sakina.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/sajjad-ye-farmate.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/sajjad-ye-kehte-thay.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/sakhawatein-keh-rahi-hain-khul-kar-hussain-jaisa-sakhi-nahi-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/sajjad-tujhe-khoon.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
+src/data/lyrics/sajjad-utho-bali-sakina.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
+src/data/lyrics/sajjad-ye-farmate.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,,,"Need audio/print: s4 ""کھلے حساس کے بازو"" (Roman source ""khile hassaas""); s1 ""یہاں ہے/گریہ کناں ہے"" and s6 ""جلے ہے"" number agreement. Preserve archived readings until confirmed."
+src/data/lyrics/sajjad-ye-kehte-thay.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
+src/data/lyrics/sakhawatein-keh-rahi-hain-khul-kar-hussain-jaisa-sakhi-nahi-hai.md,standalone_lyrics,imported,tajpoints,pending,partial_review,partial_review,reviewed,not_applicable,reviewed,,,"Need Urdu poster/audio: s1 ""Faeelat"" and ""Mukhairana""; s2 ""Mukhaiyar""; s4 ""Uran Barh Kar""; s5 ""Nunqata""; s8 Urdu spelling of Wajhi. Provisional Arabic-script readings retain these uncertain source forms; confirm before publication."
 src/data/lyrics/sakina-aur-zahra.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/sakina-bibi-ka-janaza.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/sakina-chup-kar-gayi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,

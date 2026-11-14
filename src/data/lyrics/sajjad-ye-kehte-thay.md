@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Anwar Zahir"
+reciter: "Sharif Husain"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -15,39 +16,39 @@ romanLyrics: |-
 
   1
   Islam bachane ke liye aaye thay ghar se
-  Veeran madine mein hai ghar dekho hamara
+  Viraan Madine mein hai ghar dekho hamara
 
   2
-  Ham raahe sadaqat se hatay hai na hatenge
-  Maara gaya har noor e nazar dekho hamara
+  Hum raah-e-sadaaqat se hate haiṅ na hateṅge
+  Maara gaya har nur-e-nazar dekho hamara
 
   3
-  Kaanto pa pisar chalta hai naize pa padar hai
-  Tableegh mein andaaz e safar dekho hamara
+  Kaantoṅ pe pisar chalta hai naize pe padar hai
+  Tabligh mein andaaz-e-safar dekho hamara
 
   4
-  Qurban kiya akbar ko bhi baba ne ye keh kar
-  Humshakle payambar hai pisar dekho hamara
+  Qurbaan kiya Akbar ko bhi baaba ne ye keh kar
+  Humshakl-e-Payambar hai pisar dekho hamara
 
   5
-  Hum aale payambar hai tamasha na banao
+  Hum Aal-e-Payambar haiṅ tamaasha na banaao
   Afsos karo haal agar dekho hamara
 
   6
-  Sar jiska sare naiza pe karta hai tilawat
+  Sar jis ka sar-e-naiza pe karta hai tilaawat
   Khaaliq ki qasam wo hai padar dekho hamara
 
   7
-  Logon sare zainab se nigahon ko hatalo
+  Logo sar-e-Zainab se nigaahoṅ ko hata lo
   Aati thi sada shaah ki sar dekho hamara
 
   8
-  Hum qaid e jafa mein hai to dil karbobala mein
-  Hai ran mein har ek laqte jigar dekho hamara
+  Hum qaid-e-jafa mein haiṅ to dil Karb o Bala mein
+  Hai ran mein har ek lakht-e-jigar dekho hamara
 
   9
-  Ye nauha nahi sibte payambar ki ata hai
-  Anwar nahi kehta ke hunar dekho hamara
+  Ye nauha nahiṅ Sibt-e-Payambar ki ata hai
+  Anwar nahiṅ kehta ke hunar dekho hamara
 # source_id: nohayonline:cc9ee11bd1230fed8334
 # source_url: https://www.nohayonline.com/details_content.php?id=457
 # raw_sha256: b8da394d6ab5698ddd0fb6f94e6f5ac97e3bcbe64b15acdf36f976b3ca3a23b6
@@ -69,10 +70,10 @@ romanLyrics: |-
 
 ۴
 قربان کیا اکبر کو بھی بابا نے یہ کہہ کر
-ہمشکلِ پیعمبر ہے پسر دیکھو ہمارا
+ہمشکلِ پیمبر ہے پسر دیکھو ہمارا
 
 ۵
-ہم آلِ پیعمبر ہیں تماشا نہ بنائو
+ہم آلِ پیمبر ہیں تماشا نہ بناؤ
 افسوس کرو حال اگر دیکھو ہمارا
 
 ۶
@@ -84,9 +85,9 @@ romanLyrics: |-
 آتی تھی صدا شاہ کی سر دیکھو ہمارا
 
 ۸
-ہم قیدِ جفا میں ہیں تو دل کر ب و بلا میں
-ہے رن میں ہر ایک لختِ جگردیکھو ہمارا
+ہم قیدِ جفا میں ہیں تو دل کرب و بلا میں
+ہے رن میں ہر ایک لختِ جگر دیکھو ہمارا
 
 ۹
-یہ نوحہ نہیں سبطِ پیعمبر کی عطا ہے
+یہ نوحہ نہیں سبطِ پیمبر کی عطا ہے
 انور نہیں کہتا کے ہنر دیکھو ہمارا
