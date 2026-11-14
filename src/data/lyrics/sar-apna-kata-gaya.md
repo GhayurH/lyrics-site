@@ -5,40 +5,41 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Raza Ali Khan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Agarche ran mein sar apna kata gaya hai hussain
-  Magar yazeed ki gardan jhuka gaya hai hussain
+  Agarche ran mein sar apna kata gaya hai Husain
+  Magar Yazid ki gardan jhuka gaya hai Husain
 
   1
   Mila sakega na ab koi haq o baatil ko
-  Ke darmiyan mein rasta bana gaya hai hussain
+  Ke darmiyaan mein rasta bana gaya hai Husain
 
   2
   Jo maut aana bhi chaahe to aa na sake
-  Ke marne waalon ko jeena sikha gaya hai hussain
+  Ke marne waaloṅ ko jina sikha gaya hai Husain
 
   3
-  Wo khud to pyasa tha par khaab zeen e darya ko
-  Shikast e faash ka pani pila gaya hai hussain
+  Wo khud to pyaasa tha par khaab zin-e-darya ko
+  Shikast-e-faash ka paani pila gaya hai Husain
 
   4
-  Na maale uqba mila aur na daulat e dunya
-  Ameer e shaam ko muflis bana gaya hai hussain
+  Na maal-e-uqba mila aur na daulat-e-dunya
+  Amir-e-Shaam ko muflis bana gaya hai Husain
 
   5
-  Ye karbala e moalla ka naam kehta hai
-  Ke aasman ko zameen par bicha gaya hai hussain
+  Ye Karbala-e-Moalla ka naam kehta hai
+  Ke aasmaaṅ ko zamiṅ par bichha gaya hai Husain
 
   6
-  Khuda ki raah mein de kar jo chadare zainab
-  Ghilaaf e kaaba ki hurmat bacha gaya hai hussain
+  Khuda ki raah mein de kar jo chaadar-e-Zainab
+  Ghilaaf-e-Kaaba ki hurmat bacha gaya hai Husain
 
   7
-  Rusool zaadi ka maathe pe baandh kar rumaal
-  Janabe hurr ka muqaddar jaga gaya hai hussain
+  Rasul zaadi ka maathe pe baandh kar rumaal
+  Janaab-e-Hur ka muqaddar jaga gaya hai Husain
 # source_id: nohayonline:43da512e4c46b48c4a6b
 # source_url: https://www.nohayonline.com/details_content.php?id=2194
 # raw_sha256: 19d0a4f645b1f710e512b61f8be58c217a09ffc1af575c3dbee2c342d6175a5e
@@ -63,7 +64,7 @@ romanLyrics: |-
 امیر شام کو مفلس بنا گیا ہے حسین
 
 ۵
-یہ کربلاے معلیٰ کا نام‌ کہتا ہے
+یہ کربلائے معلیٰ کا نام کہتا ہے
 کہ آسماں کو زمیں پر بچھا گیا ہے حسین
 
 ۶

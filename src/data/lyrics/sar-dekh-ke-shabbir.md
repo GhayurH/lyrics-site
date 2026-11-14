@@ -6,123 +6,146 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jab shireen ke ghar khaafila shabbir ka aaya
-  Zainab se kaha kaun wo batlao zaeefa
-  Hamsheer hoo shabbir ki zainab ne pukara
-  Milne ke liye aaye hai tujhse tere maula
-  Sar dekh ke shabbir ka shireen ne pukara
-  Aap aayenge is haal mein socha hi nahi tha
-  
+  Jab Shiriṅ ke ghar qaafila Shabbir ka aaya
+  Zainab se kaha kaun ho batlaao zaifa
+  Hamshir huṅ Shabbir ki Zainab ne pukaara
+  Milne ke liye aaye haiṅ tujh se tere Maula
+
+  Sar dekh ke Shabbir ka Shiriṅ ne pukaara
+  Aap aayeṅ ge is haal mein socha hi nahiṅ tha
+
   1
-  Waada jo kiya aap ne mai bhool na paayi
-  Is ghar mein wo ghar chod ke jis din se hoo aayi
-  Takti hoo usi roz se mai aap ka rasta
-  
+  Waada jo kiya aap ne main bhul na paayi
+  Is ghar mein wo ghar chhor ke jis din se huṅ aayi
+  Takti huṅ usi roz se main aap ka rasta
+  Aap aayeṅ ge is haal mein socha hi nahiṅ tha
+
   2
-  Wo baatein rulaati hai jo yasrab mein hui thi
-  Ab aaya samajh aap ne kyun chadarein di thi
-  Beparda nabi zadiyan hai saath mein maula
-  
+  Wo baateṅ rulaati haiṅ jo Yasrab mein huiṅ thiṅ
+  Ab aaya samajh aap ne kiuṅ chaadareṅ diṅ thiṅ
+  Beparda Nabi zaadiyaaṅ haiṅ saath mein Maula
+  Aap aayeṅ ge is haal mein socha hi nahiṅ tha
+
   3
-  Baaees baras shireen ne kis tarha guzaare
-  Din raat isi soch mein kat'te thay hamare
-  Ek roz zarooor aayenge maula ka hai waada
-  
+  Baais baras Shiriṅ ne kis tarah guzaare
+  Din raat isi soch mein katte the hamaare
+  Ek roz zarur aayeṅ ge Maula ka hai waada
+  Aap aayeṅ ge is haal mein socha hi nahiṅ tha
+
   4
-  Do saal ke sajjad ke bhooli nahi shireen
-  Phupiyan jo kabhi aayi to aankhein nahi kholi
-  Beparda hui phupiyan to kis tarha se dekha
-  
+  Do saal ke Sajjad ke bhuli nahiṅ Shiriṅ
+  Phuphiyaaṅ jo kabhi aayi to aankheṅ nahiṅ kholi
+  Beparda hui phuphiyaaṅ to kis tarah se dekha
+  Aap aayeṅ ge is haal mein socha hi nahiṅ tha
+
   5
-  Akbar ki wiladat ka suna jis ghadi maine
-  Bas mein jo mere hota to aa jaati madine
-  Mil paayi na akbar se ye afsos rahega
-  
+  Akbar ki wilaadat ka suna jis ghari main ne
+  Bas mein jo mere hota main aa jaati Madine
+  Mil paayi na Akbar se ye afsos rahe ga
+  Aap aayeṅ ge is haal mein socha hi nahiṅ tha
+
   6
-  Sunti thi ke ek aap ki beti hai sakina
-  Socha tha ke saath aayegi jab aayenge aaqa
-  Jis tarha se wo aayi hai dekha nahi jaata
-  
+  Sunti thi ke ek aap ki beti hai Sakina
+  Socha tha ke saath aaye gi jab aayeṅ ge Aaqa
+  Jis tarah se wo aayi hai dekha nahiṅ jaata
+  Aap aayeṅ ge is haal mein socha hi nahiṅ tha
+
   7
-  Maqtal mein bhala aap pe kya zulm huwe hai
-  Wo baal mere saamne matti mein atay hai
-  Jin baalon ko khud fatema zehra ne sawara
-  
+  Maqtal mein bhala aap pe kya zulm hue haiṅ
+  Wo baal mere saamne mitti mein ate haiṅ
+  Jin baaloṅ ko khud Fatima Zehra ne sanwaara
+  Aap aayeṅ ge is haal mein socha hi nahiṅ tha
+
   8
-  Maathe ka lahoo aap ki aankhon mein bhara hai
-  Chooma tha mohamed ne jo wo khusk gala hai
-  Hai reesh e mubarak mein lahoo aap ke maula
-  
+  Maathe ka lahu aap ki aankhoṅ mein bhara hai
+  Chuma tha Muhammad ne jo wo khushk gala hai
+  Hai rish-e-mubaarak mein lahu aap ke Maula
+  Aap aayeṅ ge is haal mein socha hi nahiṅ tha
+
   9
-  Aabaad ye ghar dekh ke chain aata tha mujhko
+  Aabaad ye ghar dekh ke chain aata tha mujh ko
   Ye kis ki nazar kha gayi batlaiye kuch to
-  Ujda hua ghar dekh ke dil rota hai mera
-  
+  Ujra hua ghar dekh ke dil rota hai mera
+  Aap aayeṅ ge is haal mein socha hi nahiṅ tha
+
   10
-  Zeeshan o raza kehti thi shireen yehi ro ke
-  Ay kaash mai mar jaati ye din aane se pehle
+  Zishaan o Raza kehti thi Shiriṅ yehi ro ke
+  Ae kaash main mar jaati ye din aane se pehle
   Hai aap ka sar aaj mere saamne rakha
+  Aap aayeṅ ge is haal mein socha hi nahiṅ tha
 # source_id: nohayonline:dca572bc94e4d15b77bc
 # source_url: https://www.nohayonline.com/details_content.php?id=2663
 # raw_sha256: 66666b500ab276a7c049d00a3eb66b5f4c5c3f523fa9ae670abaacae12b49b1e
 ---
 جب شیریں کے گھر قافلہ شبیر کا آیا
-زینب سے کہا کون ھو بتلاؤ ضعیفہ
-ھمشیر ہوں شبیر کی زینب نے پکارا
-ملنے کے لئے آئے ہیں تجھسے تیرے مولا
+زینب سے کہا کون ہو بتلاؤ ضعیفہ
+ہمشیر ہوں شبیر کی زینب نے پکارا
+ملنے کے لئے آئے ہیں تجھ سے تیرے مولا
+
 سر دیکھ کے شبیر کا شیریں نے پکارا
-آپ آئینگے اس حال میں سونچا ہی نہیں تھا
+آپ آئیں گے اس حال میں سوچا ہی نہیں تھا
 
 ۱
 وعدہ جو کیا آپ نے میں بھول نا پائی
 اس گھر میں وہ گھر چھوڑ کے جس دن سے ہوں آئی
 تکتی ہوں اسی روز سے میں آپ کا رستہ
+آپ آئیں گے اس حال میں سوچا ہی نہیں تھا
 
 ۲
 وہ باتیں رلاتی ہیں جو یثرب میں ہوئیں تھیں
 اب آیا سمجھ آپ نے کیوں چادریں دیں تھیں
 بے پردہ نبی زادیاں ہیں ساتھ میں مولا
+آپ آئیں گے اس حال میں سوچا ہی نہیں تھا
 
 ۳
 بائیس برس شیریں نے کس طرح گزارے
 دن رات اسی سوچ میں کٹتے تھے ہمارے
-اک روز ضرور آئینگے مولا کا ہے وعدہ
+اک روز ضرور آئیں گے مولا کا ہے وعدہ
+آپ آئیں گے اس حال میں سوچا ہی نہیں تھا
 
 ۴
 دو سال کے سجاد کے بھولی نہیں شیریں
-پھوپھیاں جو کبھی آی تو آنکھیں نہیں کھولی
-بے پردہ ہوی پھوپھیاں تو کس طرح سے دیکھا
+پھوپھیاں جو کبھی آئی تو آنکھیں نہیں کھولی
+بے پردہ ہوئی پھوپھیاں تو کس طرح سے دیکھا
+آپ آئیں گے اس حال میں سوچا ہی نہیں تھا
 
 ۵
 اکبر کی ولادت کا سنا جس گھڑی میں نے
-بس میں جو میرے ہوتا میں آجاتی مدینے
-مل پائی نا اکبر سے یہ افسوس رھیگا
+بس میں جو میرے ہوتا میں آ جاتی مدینے
+مل پائی نا اکبر سے یہ افسوس رہے گا
+آپ آئیں گے اس حال میں سوچا ہی نہیں تھا
 
 ۶
 سنتی تھی کے اک آپ کی بیٹی ہے سکینہ
-سوچا تھا کے ساتھ آئیگی جب آئینگے آقا
+سوچا تھا کے ساتھ آئے گی جب آئیں گے آقا
 جس طرح سے وہ آئی ہے دیکھا نہیں جاتا
+آپ آئیں گے اس حال میں سوچا ہی نہیں تھا
 
 ۷
 مقتل میں بھلا آپ پہ کیا ظلم ہوئے ہیں
 وہ بال میرے سامنے مٹی میں اٹے ہیں
 جن بالوں کو خود فاطمہ زہرا نے سنوارا
+آپ آئیں گے اس حال میں سوچا ہی نہیں تھا
 
 ۸
 ماتھے کا لہو آپ کی آنکھوں میں بھرا ہے
 چوما تھا محمد نے جو وہ خشک گلا ہے
 ہے ریش مبارک میں لہو آپ کے مولا
+آپ آئیں گے اس حال میں سوچا ہی نہیں تھا
 
 ۹
 آباد یہ گھر دیکھ کے چین آتا تھا مجھ کو
-یہ کس کی نظر کھاگئی بتلائیے کچھ تو
-اُجڑا ھوا گھر دیکھ کے دل روتا ہے میرا
+یہ کس کی نظر کھا گئی بتلائیے کچھ تو
+اُجڑا ہوا گھر دیکھ کے دل روتا ہے میرا
+آپ آئیں گے اس حال میں سوچا ہی نہیں تھا
 
 ۱۰
 زیشان و رضا کہتی تھی شیریں یہی رو کے
 اے کاش میں مر جاتی یہ دن آنے سے پہلے
 ہے آپ کا سر آج میرے سامنے رکھا
+آپ آئیں گے اس حال میں سوچا ہی نہیں تھا
