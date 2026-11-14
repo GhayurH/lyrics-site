@@ -1,69 +1,73 @@
 ---
 title: "یہ کیسا ہے شور گریاں ہے"
-alternateTitle: "Taboot E Hyder"
+alternateTitle: "Taabut-e-Haidar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Sirsvi"
+reciter: "Mir Rehan Abbas"
 tags: ["noImage"]
-aliases: []
+aliases: ["Taboot E Hyder"]
 published: false
 romanLyrics: |-
-  Ye kaisa hai shor e girya hai
-  Kaisa matam hai kaisa nauha
-  Ye kiska taboot uth raha hai
-  Jo log aansu baha rahe hai
-  Kaha ye ekkisween ne ro kar
-  Imam dunya se jaa rahe hai
+  Ye kaisa hai shor-e-girya hai
+  Kaisa maatam hai kaisa nauha
+  Ye kis ka taabut uth raha hai
+  Jo log aansu bahaa rahe haiṅ
+
+  Kahaa ye ikkiswiṅ ne ro kar
+  Imam duniya se jaa rahe haiṅ
+  Ye kis ka taabut uth raha hai
+  Jo log aansu bahaa rahe haiṅ
 
   1
-  Udaas kufe ki masjiden hai
-  Har sar barehna har ek jama’at
-  Hawayein sar ko patak rahi hai
-  Sitaare nauha suna rahe hai
+  Udaas Kufe ki masjideṅ haiṅ
+  Har sar barahna har ek jamaaat
+  Hawaaeṅ sar ko patak rahi haiṅ
+  Sitaare nauha sunaa rahe haiṅ
 
   2
-  Tamaam bewayein hai pareshan
-  Yateem bache hai chaak daaman
-  Khabar jo rakhte hai bekason ki
-  Wo aaj kufe se jaa rahe hai
+  Tamaam bewaaeṅ haiṅ pareshaaṅ
+  Yatim bachche hai chaak daaman
+  Khabar jo rakhte haiṅ bekasoṅ ki
+  Wo aaj Kufe se jaa rahe haiṅ
 
   3
-  Hai betiyon ki ajab ye haalat
+  Hai betiyoṅ ki ajab ye haalat
   Padar se hoti hai aaj ruqsat
-  Hassan hai khamosh sar jhukaye
-  Hussain aansu baha rahe hai
+  Hasan hai khaamosh sar jhukaae
+  Husain aansu bahaa rahe haiṅ
 
   4
-  Musalla khoon e ali may tar hai
-  Khamosh mimbar udaas ghar hai
-  Hai rozadaron pa ek qayamat
-  Lahoo ke aansu baha rahe hai
+  Musalla khun-e-Ali mein tar hai
+  Khamosh minbar udaas ghar hai
+  Hai rozadaaroṅ pe ik qayaamat
+  Lahu ke aansu bahaa rahe haiṅ
 
   5
-  Hai qabr e zehra pe ek udaasi
+  Hai qabr-e-Zehra pe ik udaasi
   Nabi ka rauza laraz raha hai
-  Lagi hai sar par ali ke zarbat
-  Tamaam khoon may naha rahe hai
+  Lagi hai sar par Ali ke zarbat
+  Tamaam khuṅ mein nahaa rahe haiṅ
 
   6
-  Namaziyon may hai beqarari
-  Utha saron se ali ka saaya
-  Hai tees paaron may shor e girya
-  Saheefein nauha suna rahe hai
+  Namaaziyoṅ mein hai beqaraari
+  Utha saroṅ se Ali ka saaya
+  Hai tis paaroṅ mein shor-e-girya
+  Sahifeṅ nauha sunaa rahe hai
 
   7
-  Tamaam paighambarane bar haq
-  Ali ke rone ko aaye kufa
-  Ali ka taboot utha raha hai
-  Tamaam kaandha laga rahe hai
+  Tamaam paighambaraan-e-barhaq
+  Ali ke rone ko aae Kufa
+  Ali ka taabut utha raha hai
+  Tamaam kaandha lagaa rahe haiṅ
 
   8
-  Raza hai shehr e khamosh jannat
-  Utar rahi hai ali ki mayyat
-  Hassan to talqeen pad rahe hai
-  Hussain shaana hila rahe hai
+  Raza hai shahr-e-khamosh jannat
+  Utar rahi hai Ali ki mayyat
+  Hasan to talqin parh rahe haiṅ
+  Husain shaana hilaa rahe haiṅ
 # source_id: nohayonline:89dd0c663b827f6a5113
 # source_url: https://www.nohayonline.com/details_content.php?id=2119
 # raw_sha256: c5fbc04e35f766181bc73c1daedc3896b74fba5d9edbe3ec86eff4a740cb3bad
@@ -71,9 +75,12 @@ romanLyrics: |-
 یہ کیسا ہے شور گریاں ہے
 کیسا ماتم ہے کیسا نوحہ
 یہ کس کا تابوت اٹھ رہا ہے
-جو لوگ آنسوں بہا رہے ہیں
+جو لوگ آنسو بہا رہے ہیں
+
 کہا یہ اکیسویں نے رو کر
 امام دنیا سے جا رہے ہیں
+یہ کس کا تابوت اٹھ رہا ہے
+جو لوگ آنسو بہا رہے ہیں
 
 ۱
 اداس کوفے کی مسجدیں ہیں
@@ -82,7 +89,7 @@ romanLyrics: |-
 ستارے نوحہ سنا رہے ہیں
 
 ۲
-تمام بیواییں ہیں پریشاں
+تمام بیوائیں ہیں پریشاں
 یتیم بچے ہے چاک دامن
 خبر جو رکھتے ہیں بیکسوں کی
 وہ آج کوفے سے جا رہے ہیں
@@ -91,13 +98,13 @@ romanLyrics: |-
 ہے بیٹیوں کی عجب یہ حالت
 پدر سے ہوتی ہے آج رخصت
 حسن ہے خاموش سر جھکائے
-حسین آنسوں بہا رہے ہیں
+حسین آنسو بہا رہے ہیں
 
 ۴
-مصلہ خونِ علی میں تر ہے
-خموش ممبر اداس گھر ہے
+مصلیٰ خونِ علی میں تر ہے
+خموش منبر اداس گھر ہے
 ہے روزہ داروں پہ اک قیامت
-لہو کے آنسوں بہا رہے ہیں
+لہو کے آنسو بہا رہے ہیں
 
 ۵
 ہے قبر زہرا پہ اک اداسی
@@ -113,7 +120,7 @@ romanLyrics: |-
 
 ۷
 تمام پیغمبران بر حق
-علی کے رونے کو آے کوفہ
+علی کے رونے کو آئے کوفہ
 علی کا تابوت اٹھا رہا ہے
 تمام کاندھا لگا رہے ہیں
 

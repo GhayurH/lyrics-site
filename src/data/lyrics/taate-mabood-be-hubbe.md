@@ -1,61 +1,62 @@
 ---
 title: "طاعت معبود بے حب علی اچھی نہیں"
-alternateTitle: "Taate Mabood Be Hubbe"
+alternateTitle: "Taaat-e-Maabud Be Hubb-e-Ali"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mahir Lakhnavi"
+reciter: "Faazil Lakhnavi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Taate Mabood Be Hubbe"]
 published: false
 romanLyrics: |-
-  Taa'ate mabood be hubbe ali achi nahi
-  Ho haram mein bhi to aisi bandagi achi nahi
+  Taaat-e-maabud be hubb-e-Ali achchhi nahiṅ
+  Ho haram mein bhi to aisi bandagi achchhi nahiṅ
 
   1
-  Us imamat ke jo doshe mustafa par be khuda
-  Jo bahana dhoonde wo paighambari achi nahi
+  Us imaamat ke jo dosh-e-Mustafa par ba Khuda
+  Jo bahaana dhundhe wo paighambari achchhi nahiṅ
 
   2
-  Dekh kar abbas ko bhaage ye kehte lashkari
-  Dekho saahil par nazar abbas ki achi nahi
+  Dekh kar Abbas ko bhaage ye kahte lashkari
+  Dekho saahil par nazar Abbas ki achchhi nahiṅ
 
   3
-  Qatl e marhab se hamara ye aqeeda ho gaya
-  Dushmano ke waaste naade ali achi nahi
+  Qatl-e-Marhab se hamaara ye aqida ho gaya
+  Dushmanoṅ ke waaste Naad-e-Ali achchhi nahiṅ
 
   4
-  Baab e hyder par na utre to sitaara kya kare
-  Baab e hyder ke siwa deodi koi achi nahi
+  Baab-e-Haidar par na utre to sitaara kya kare
+  Baab-e-Haidar ke siwa deorhi koi achchhi nahiṅ
 
   5
-  Zikre hyder sunke wo tadpa na to phir kya kare
-  Zakhm gehra ho to beshak roshni achi nahi
+  Zikr-e-Haidar sun ke wo tarpa na to phir kya kare
+  Zakhm gahra ho to beshak roshni achchhi nahiṅ
 
   6
-  Qarya qarya phir rahe hai jo aqeede bechte
-  Unse kehdo deen mein saudagari achi nahi
+  Qarya qarya phir rahe haiṅ jo aqide bechte
+  Un se kah do din mein saudaagari achchhi nahiṅ
 
   7
-  Zikre hyder sun ameer e shaam ki baatein na kar
-  Maujuze ke saamne jadugari achi nahi
+  Zikr-e-Haidar sun Amir-e-Shaam ki baateṅ na kar
+  Moajize ke saamne jaadugari achchhi nahiṅ
 
   8
-  Madhe hyder kijiye ya karbala par boliye
-  Jo baraye naam ho wo zaakiri achi nahi
+  Madh-e-Haidar kijiye ya Karbala par boliye
+  Jo baraa-e-naam ho wo zaakiri achchhi nahiṅ
 
   9
-  Ay meri aankhon ki badli khoob ghir ghir kar baras
-  Majlis e sarwar mein ashkon ki kami achi nahi
+  Ae meri aankhoṅ ki badli khub ghir ghir kar baras
+  Majlis-e-Sarwar mein ashkoṅ ki kami achchhi nahiṅ
 
   10
-  Mustafa ke noor ki baaradari ke ma'siwa
-  Do jahan my ek bhi baaradari achi nahi
+  Mustafa ke nur ki baaradaari ke maa siwa
+  Do jahaaṅ mein ek bhi baaradaari achchhi nahiṅ
 
   11
-  Aarzoo hai meri mahir umr ro kar kaat doo
-  Yaad e sarwar se khushi ki zindagi achi nahi
+  Aarzu hai meri Mahir umr ro kar kaat do
+  Yaad-e-Sarwar se khushi ki zindagi achchhi nahiṅ
 # source_id: nohayonline:5e708b42f645c63c8ddc
 # source_url: https://www.nohayonline.com/details_content.php?id=1224
 # raw_sha256: a2f6fdf47082ebbccb2e41deefce04e5b6d4033d0ca2e781080a164b34e98fff
@@ -92,8 +93,8 @@ romanLyrics: |-
 معجزے کے سامنے جادو گری اچھی نہیں
 
 ۸
-مدح حیدر کیجیئے یا کربلا پر بولیے
-جو براے نام ہو وہ ذاکری اچھی نہیں
+مدح حیدر کیجیے یا کربلا پر بولیے
+جو برائے نام ہو وہ ذاکری اچھی نہیں
 
 ۹
 اے میری آنکھوں کی بدلی خوب گھر گھر برس
