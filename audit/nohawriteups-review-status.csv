@@ -117,7 +117,7 @@ nohawriteups:13f77eb32e3755e155ff,,unreviewed,,,,snapshots/nohawriteups/metadata
 nohawriteups:13fdea2ec6af597e7eed,,unreviewed,,,,snapshots/nohawriteups/metadata/13fdea2ec6af597e7eed.json,No user decision yet; preserve source and do not import
 nohawriteups:140a4d2701642b910171,,unreviewed,,,,snapshots/nohawriteups/metadata/140a4d2701642b910171.json,No user decision yet; preserve source and do not import
 nohawriteups:141350630196186eb3ec,,unreviewed,,,,snapshots/nohawriteups/metadata/141350630196186eb3ec.json,No user decision yet; preserve source and do not import
-nohawriteups:1416257169a81a6ac186,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/1416257169a81a6ac186.json,
+nohawriteups:1416257169a81a6ac186,valid roman only,consolidated_existing,src/data/lyrics/bibi-madina-aagaya.md,https://www.nohawriteups.org/bibi-madina-aagaya/,f8acf59cffd6877f78039b60280536e5729be5a4966814f206ba0b20adfbdaf3,snapshots/nohawriteups/metadata/1416257169a81a6ac186.json,Eight source stanzas in existing nine-stanza bilingual edition; alternate stanza 5 wording preserved in canonical comments for further verification; no duplicate created
 nohawriteups:142493a6cb9826794897,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/142493a6cb9826794897.json,
 nohawriteups:145322030e8893b715e0,,unreviewed,,,,snapshots/nohawriteups/metadata/145322030e8893b715e0.json,No user decision yet; preserve source and do not import
 nohawriteups:14828040abaa25b50a57,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/14828040abaa25b50a57.json,
