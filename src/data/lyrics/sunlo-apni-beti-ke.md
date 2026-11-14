@@ -1,73 +1,58 @@
 ---
 title: سُن لو اپنی بیٹی کے آخری بیاں بابا
-alternateTitle: Sunlo Apni Beti Ke
+alternateTitle: Sun Lo Apni Beti Ke
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
-poet: "Meer Nazeer Baqari"
+poet: "Meer Nazir Baqari"
+reciter: "Mirza Sikander Ali"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Sunlo apni beti ke aakhri bayan baba
-
+romanLyrics: |-
+  Sun lo apni beti ke aakhri bayaaṅ baba
+  Band hone wali hai ab meri zabaaṅ baba
 
   1
-
-  Bandh hone wali hai ab meri zuban baba
-
-  Dekhlo jo baakhi thay wo bhi imtehan baba
-
-  Gir pada yateemi ka sar pe aasman baba
-
+  Dekh lo jo baaqi the woh bhi imtihaaṅ baba
+  Gir para yatimi ka sar pe aasmaaṅ baba
 
   2
-
-  Jab mera jawan bhaiya aediyan ragadta tha
-
-  Chub rahi thi mere bhi dil mein barchiyan baba
-
+  Jab mera jawaaṅ bhaiya eriyaaṅ ragarta tha
+  Chubh rahi thi mere bhi dil meiṅ barchhiyaaṅ baba
 
   3
-
-  Chin chuki har ek chadar jal chuka har ek qaima
-
-  Lut gayi sabhi daulat reh gaye nishan baba
-
+  Jism kaanp uthta hai ruh thartharaati hai
+  Shimr ham ko deta hai aisi ghurkiyaaṅ baba
 
   4
-
-  Kaan hogaye zakhmi gaal hogaye neele
-
-  Zaalimo ne yun cheeni meri baliyan baba
-
+  Jab gale lagaaya tha tum ne ham ko maqtal meiṅ
+  Aaj tak rulaata hai haaye woh samaaṅ baba
 
   5
-
-  Hum tumhare seene par so chuke jo sona thay
-
-  Neendh bhi wahin pahunchi aap hai jahan baba
-
+  Chhin chuki har ik chaadar jal chuka har ik khaima
+  Lut gayi sabhi daulat reh gaye nishaaṅ baba
 
   6
-
-  Qaid ke andhere mein ghut raha hai dam mera
-
-  Ab nahi sahi jaati aur sakhtiyan baba
-
+  Kaan ho gaye zakhmi gaal ho gaye nile
+  Zaalimoṅ ne yuṅ chhini meri baaliyaaṅ baba
 
   7
-
-  Kab jaala mera daaman ye khabar nahi mujh ko
-
-  Saamne tha aankhon ke door tak dhuan baba
-
+  Ham tumhaare sine par so chuke jo sona tha
+  Nind bhi wahiṅ pahunchi aap haiṅ jahaaṅ baba
 
   8
+  Qaid ke andhere meiṅ ghut raha hai dam mera
+  Ab nahiṅ sahi jaati aur sakhtiyaaṅ baba
 
-  Yeh nazeer apna hai isko bakhshwa dena
+  9
+  Kab jala mera daaman yeh khabar nahiṅ mujh ko
+  Saamne tha aankhoṅ ke dur tak dhuaaṅ baba
 
-  Isne ro ke likhi hai meri dastaan baba'
+  10
+  Yeh Nazir apna hai is ko bakhshwa dena
+  Is ne ro ke likhi hai meri daastaan baba
 # source_id: nohayonline:b4c91d245fc16d4ca0ec
 # source_url: https://www.nohayonline.com/details_content.php?id=500
 # raw_sha256: c9fd8418b3097b68071030bb9c6c8f83a98a07a34c07e6c315c608950e2efdde
@@ -78,9 +63,9 @@ romanLyrics: 'Sunlo apni beti ke aakhri bayan baba
 ---
 
 سُن لو اپنی بیٹی کے آخری بیاں بابا
+بند ہونے والی ہے اب میری زباں بابا
 
 ۱
-بند ہونے والی ہے اب میری زباں بابا
 دیکھ لو جو باقی تھے وہ بھی امتحاں بابا
 گر پڑا یتیمی کا سر پہ آسماں بابا
 
@@ -94,10 +79,10 @@ romanLyrics: 'Sunlo apni beti ke aakhri bayan baba
 
 ۴
 جب گلے لگایا تھا تم نے ہم کو مقتل میں
-آج تک رلاتا ہے ھائے وہ سماں بابا
+آج تک رلاتا ہے ہائے وہ سماں بابا
 
 ۵
-چھِن چُکی ہر اک چادر جل چُکا ہراک خیمہ
+چھِن چُکی ہر اک چادر جل چُکا ہر اک خیمہ
 لُٹ گئی سبھی دولت رہ گئے نشاں بابا
 
 ۶
@@ -117,5 +102,5 @@ romanLyrics: 'Sunlo apni beti ke aakhri bayan baba
 سامنے تھا آنکھوں کے دور تک دھواں بابا
 
 ۱۰
-یہ نظیر اپنا ہے اسکو بکشوا دینا
-اسنے روکے لکھی ہے میری داستان بابا
+یہ نظیر اپنا ہے اس کو بخشوا دینا
+اس نے رو کے لکھی ہے میری داستان بابا

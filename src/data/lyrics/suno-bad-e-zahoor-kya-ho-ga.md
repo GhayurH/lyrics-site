@@ -1,6 +1,6 @@
 ---
 title: "سنو بعدِ ظہور کیا ہو گا"
-alternateTitle: "Suno Bad-e-Zahoor Kya Ho Ga"
+alternateTitle: "Suno Baad-e-Zuhur Kya Ho Ga"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -17,88 +17,100 @@ published: false
 # source_url: https://tajpoints.com/2019/04/suno-bad-e-zahoor-kya-ho-ga-5-10-lyrics.html
 # raw_sha256: a0ae742067796500b17c01e4b20915328e99f5f9e2116e1d1dc65623d7544fec
 # additional_verses: Hasnain Akbar
+# preamble_poet: Ustad Sibt-e-Jafar Zaidi Shaheed
 romanLyrics: |-
-  
+  Haal-e-gham sunaaeṅ ge jab Imam aaeṅ ge
+  Baam o dar sajaaeṅ ge jab Imam aaeṅ ge
+  Zakhm-e-dil dikhaaeṅ ge jab Imam aaeṅ ge
+  Mehfileṅ jamaaeṅ ge jab Imam aaeṅ ge
+  Jashn ham manaaeṅ ge jab Imam aaeṅ ge
+
   1
-  Jo Mushkilein Hain Tu Mushkil Kusha Bhi Hai Koi
-  Hazar Gham Hain Tu Gham Ki Dawa Bhi Hai Koi
-  Jo Qafilay Hain Rawaan Rahnuma Bhi Hai Koi
-  Khuda Agar Hai Tu Phir Na-Khuda Bhi Hai Koi
-  Hai Dar-e-Dil Tu Koi Dil Ka Chain Bhi Ho Ga
-  Yazeed Lakhon Hain Koi Husain Bhi Ho Ga
-  
+  Jo mushkileṅ haiṅ to mushkil kusha bhi hai koi
+  Hazaar gham haiṅ to gham ki dawa bhi hai koi
+  Jo qaafile haiṅ rawaaṅ rahnuma bhi hai koi
+  Khuda agar hai to phir naakhuda bhi hai koi
+  Hai dard-e-dil to koi dil ka chain bhi ho ga
+  Yazid laakhoṅ haiṅ koi Husain bhi ho ga
+
   2
-  Abhi Tu Khon Ke Darya Bahaye Jaein Gaye
-  Abhi Tu Zulm Ke Dhabay Mitaye Jaein Gaye
-  Sitamgaron Ke Parakhche Uraye Jaein Gaye
-  Abhi Tu Qabar Se Murday Uthaye Jaein Gaye
-  Sawal Kar Chuki Zahra Jawab Lena Hai
-  Fidak Ka Mehdi Ne Aa Kar Hisab Lena Hai
-  
+  Abhi to khun ke darya bahaae jaaeṅ ge
+  Abhi to zulm ke dhabbe mitaae jaaeṅ ge
+  Sitamgaroṅ ke parkhachche uraae jaaeṅ ge
+  Abhi to qabr se murde uthaae jaaeṅ ge
+  Sawaal kar chuki Zahra jawaab lena hai
+  Fadak ka Mehdi ne aa kar hisaab lena hai
+
   3
-  Abhi Bhi Ishq Tarapta Hai Qatal Gahoon Mein
-  Abhi Hayat Hai Qaidi Ajal Ki Banhoon Mein
-  Abhi Andhera Hai Insan Ki Nigahon Mein
-  Abhi Tu Qafila-e-Zindagi Hai Rahoon Mein
-  Ali Ka Shair Abhi Sabar Ki Kachar Mein Hai
-  Zamana Apne Muhammad Ke Intezar Mein Hai
-  
+  Abhi bhi ishq tarapta hai qatl gaahoṅ meiṅ
+  Abhi hayaat hai qaidi ajal ki baanhoṅ meiṅ
+  Abhi andhera hai insaan ki nigaahoṅ meiṅ
+  Abhi to qaafila-e-zindagi hai raahoṅ meiṅ
+  Ali ka sher abhi sabr ki kachhaar meiṅ hai
+  Zamaana apne Muhammad ke intezaar meiṅ hai
+
   4
-  Yeh Keh Rahi Hai Gham o Ranj Ki Farawani
-  Khabar Yeh Deti Hai Aqal o Khird Ki Hairani
-  Bata Rahi Hai Yeh Zulm o Sitam Ki Tugyani
-  Barasne Wala Hai Ab Zulfiqar Ka Pani
-  Sitam Ki Maut Ka Saman Aane Wala Hai
-  Safina Dhond Lo Tofan Aane Wala Hai
-  
+  Yeh keh rahi hai gham o ranj ki faraawaani
+  Khabar yeh deti hai aql o khirad ki hairaani
+  Bata rahi hai yeh zulm o sitam ki tughyaani
+  Barasne wala hai ab Zulfiqar ka paani
+  Sitam ki maut ka saamaan aane wala hai
+  Safina dhund lo tufaan aane wala hai
+
   5
-  Manadi Ho Gi Ke Adal-e-Khuda Mubarak Ho
-  Jadar-e-Kahana-e-Haq Murtaza Mubarak Ho
-  Madine Walo Niya Mustafa Mubarak Ho
-  Mera Zahoor Ae Khair-ul-Nisa Mubarak Ho
-  Tha Dil Pe Karb o Bala Ka Jo Bhaar Khatam Howa
-  Ae Meri Dadi Tera Intezar Khatam Howa
-  
+  Munaadi ho gi keh adl-e-Khuda mubaarak ho
+  Jadar-e-khaana-e-haq Murtaza mubaarak ho
+  Madine waalo naya Mustafa mubaarak ho
+  Mira zahur Ae Khair-ul-Nisa mubaarak ho
+  Tha dil pe Karb o Bala ka jo baar khatm hua
+  Ae meri daadi tira intezaar khatm hua
+
   6
-  Hai Zaat-e-Haq Jo Pas-e-Mojzaat Meri Hai
-  Shareek-e-Kar-e-Nabowat Bhi Zaat Meri Hai
-  Har Ik Imam Ki Har Aik Baat Meri Hai
-  Faqat Fidak Hi Nahi Kainat Meri Hai
-  Har Aik Shehar Yeh Tehreer Likhta Jaon Ga
-  Yeh Sab Hai Zahra Ki Jageer Likhta Jaon Ga
-  
+  Hai zaat-e-haq jo pas-e-mojizaat meri hai
+  Sharik-e-kaar-e-nubuwwat bhi zaat meri hai
+  Har ik Imam ki har ek baat meri hai
+  Faqat Fadak hi nahiṅ kaainaat meri hai
+  Har ek shehr yeh tahrir likhta jaauṅ ga
+  Yeh sab hai Zahra ki jaagir likhta jaauṅ ga
+
   7
-  Uthay Ga Shoor Saf-e-Karzar Se Bhago
-  Baras Rahi Hai Ajal Zulfiqar Se Bhago
-  Koi Kahe Ga Nabi Ke Deyar Se Bhago
-  Koi Kahe Ga Nikal Kar Mazar Se Bhago
-  Ab Aaye Zulm-o-Tashadud Ko Pharne Wala
-  Phir Aa Gaya Dar-e-Khaibar Ukharne Wala
-  
+  Uthe ga shor saf-e-kaarzaar se bhaago
+  Baras rahi hai ajal Zulfiqar se bhaago
+  Koi kahe ga Nabi ke dayaar se bhaago
+  Koi kahe ga nikal kar mazaar se bhaago
+  Ab aae zulm o tashaddud ko phaarne wala
+  Phir aa gaya dar-e-Khaibar ukhaarne wala
+
   8
-  Ali Taig Hai Phir Be-Niyam Bhag Chalo
-  Jaga Haram Mein Nahi Soye Sham Bhag Chalo
-  Ajal Ko Yad Hai Hum Sab Ke Naam Bhag Chalo
-  Ke Bhagna Hi Tu Hai Apna Kam Bhag Chalo
-  Amma Nahi Hai Kahin Karzar-e-Hasti Mein
-  Kachar Choor Ke Shair Aa Gaya Hai Basti Mein
-  
+  Ali tegh hai phir beniyaam bhaag chalo
+  Jagah haram meiṅ nahiṅ su-e-Shaam bhaag chalo
+  Ajal ko yaad hai ham sab ke naam bhaag chalo
+  Keh bhaagna hi to hai apna kaam bhaag chalo
+  Amaaṅ nahiṅ hai kahiṅ kaarzaar-e-hasti meiṅ
+  Kachhaar chhor ke sher aa gaya hai basti meiṅ
+
   9
-  Sunai De Ga Yeh Aylan Taig-e-Haider Ka
-  Hisab Loon Gi Yameen o Yasaar Se Shar Ka
-  Woh Sar Gaya Jo Zara Sa Idhar Udhar Sarka
-  Malak Bhi Jan Le Khud Zimedar Hai Par Ka
-  Na Jibreel-e-Ameen Ko Bhi Kuch Riayat Hai
-  Zameen Pe Maut Ko Rukne Ki Bas Ijazat Hai
-  
+  Sunaai de ga yeh ailaan tegh-e-Haider ka
+  Hisaab luṅ gi yamin o yasaar se shar ka
+  Woh sar gaya jo zara sa idhar udhar sarka
+  Malak bhi jaan le khud zimmedaar hai par ka
+  Na Jibril-e-amiṅ ko bhi kuchh riaayat hai
+  Zamin pe maut ko rukne ki bas ijaazat hai
+
   10
-  Bhari Hai Aag Mere Dil Mein Be-Qarar Hoon Main
-  Na Jane Kitne Shaheedon Ki Sogawar Hoon Main
-  Na Jane Kitne Yateemo Ki Qarazdar Hoon Main
-  Kahe Ga Kon Ke Haider Ki Zulfiqar Hoon Main
-  Ali Ke Lal Tere Naam Ki Dohai Hai
-  Na Aaj Rook Mujhe Aakhri Larai Hai
+  Bhari hai aag mire dil meiṅ beqaraar huṅ main
+  Na jaane kitne shahidoṅ ki sogwaar huṅ main
+  Na jaane kitne yatimoṅ ki qarz daar huṅ main
+  Kahe ga kaun keh Haider ki Zulfiqar huṅ main
+  Ali ke laal tire naam ki duhaai hai
+  Na aaj rok mujhe aakhri laraai hai
 ---
+
+حالِ غم سنائیں گے جب امام آئیں گے
+بام و در سجائیں گے جب امام آئیں گے
+زخمِ دل دکھائیں گے جب امام آئیں گے
+محفلیں جمائیں گے جب امام آئیں گے
+جشن ہم منائیں گے جب امام آئیں گے
 
 ۱
 جو مشکلیں ہیں تو مشکل کشا بھی ہے کوئی
