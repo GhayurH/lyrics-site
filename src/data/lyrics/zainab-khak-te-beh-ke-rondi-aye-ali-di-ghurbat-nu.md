@@ -25,7 +25,7 @@ Jis Din Di Aayi Dardaan Dey, Dardaan De Haisar Che Reh Ke Rondi Aye Ali Di Ghurb
 Veraan Ne Khon Wali Dastar Jad Lahayi Bismillah Parh Ke Bhainr Ne Hathaan Te Aanr Chayi
 Ais Pag Nu Zainab Apne Layi Apne Layi Chadar Keh Ke Rondi Aye Ali Di Ghurbat Nu
 Aayiyaan Ne Fatima Nu Baqaiye Choon Naal Le Ke Hawa Te Aasia Paiyaan Wehray Che Ronr Beh Ke
-BiBi Mariyam Aj Bakhtaan Di, Bakhtaan Di Masnad Taun Leh Ke Rondi Aye Ali Di Ghurbat Nu
+Bibi Mariyam Aj Bakhtaan Di, Bakhtaan Di Masnad Taun Leh Ke Rondi Aye Ali Di Ghurbat Nu
 Betha Likhanr Layi Main Qirtas Te Yateemi Likh Ke SAMAR Main Wekhiya Abbas Te Yateemi
 Lafzaan Te Siyai Maiyyat Dey, Maiyyat De Wangoon Peh Ke Rondi Aye Ali Di Ghurbat Nu
 Matami Sangat

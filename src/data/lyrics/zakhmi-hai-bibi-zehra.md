@@ -14,7 +14,7 @@ published: false
 # editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
-Zakhmi Hai BiBi Zahra Sun Lo Shah-e-Madina
+Zakhmi Hai Bibi Zahra Sun Lo Shah-e-Madina
 Ummat Ne Itna Mara Sun Lo Shah-e-Madina
 Zakhmo Se Choor Hoon Main Kya Kya Tumhein Bataon
 Mohsin Guzar Chuka Hai Kya Dard Ab Chupaon
