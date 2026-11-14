@@ -1,100 +1,101 @@
 ---
-title: "رہ گیء بیٹی علی کی غم اٹھانے کے لیےء"
+title: "رہ گئی بیٹی علی کی غم اٹھانے کے لیے"
 alternateTitle: "Reh Gayi Beti Ali Ki"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Raza"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Reh gayi beti ali ki gham uthane ke liye
-  Zakhm khane ke liye aansu bahane ke liye
+  Reh gayi beti Ali ki gham uthaane ke liye
+  Zakhm khaane ke liye aansu bahaane ke liye
 
   1
-  Waaris e tatheer beparda khadi hai dasht mein
-  Ek chadar bhi nahi hai sar chupane ke liye
+  Waaris-e-tathir beparda khari hai dasht mein
+  Ek chaadar bhi nahiṅ hai sar chhupaane ke liye
 
   2
-  Laayi thi do phool apni godh mein umme rabab
-  Ek maqtal ke liye ek qaid ke liye
+  Laayi thi do phul apni god mein Umm-e-Rabaab
+  Ek maqtal ke liye ek qaid khaane ke liye
 
   3
-  Dhoondne nikle hai aada pushte qaima ki taraf
-  Laasha e baysheer naize par uthane ke liye
+  Dhundne nikle haiṅ aada pusht-e-khaima ki taraf
+  Laasha-e-beshir neze par uthaane ke liye
 
   4
-  Nok e naiza par utha kar shaam ke bazaar mein
-  Shimr lehrata tha chadar dil dhukane ke liye
+  Nok-e-neza par uthaa kar Shaam ke baazaar mein
+  Shimr lehraata tha chaadar dil dukhaane ke liye
 
   5
-  Aate jaate jis ko dekho zulm karta hai shadeed
-  Pusht e abid reh gayi hai taaziyane ke liye
+  Aate jaate jis ko dekho zulm karta hai shadid
+  Pusht-e-Aabid reh gayi hai taaziyaane ke liye
 
   6
-  Baarha zainab hai guzri shaam ke bazaar mein
-  Syed e sajjad ko zinda bachane ke liye
+  Baarha Zainab hai guzri Shaam ke baazaar mein
+  Sayyid-e-Sajjaad ko zinda bachaane ke liye
 
   7
-  Rote rote jaa rahi hai bacchi suye alqama
-  Neel ruqsaron ke ghazi ko dhikane ke liye
+  Rote rote jaa rahi hai bachchi su-e-Alqama
+  Nil rukhsaaroṅ ke Ghaazi ko dikhaane ke liye
 
   8
-  Gir ke akbar ne sada di jab to zainab ne kaha
-  Bhai mai bhi chal rahi hoo laash uthane ke liye
+  Gir ke Akbar ne sada di jab to Zainab ne kaha
+  Bhaai main bhi chal rahi huṅ laash uthaane ke liye
 
   9
-  Maangne aaya hai bacchi ko kaneezi mein layeen
-  Ab to aa jao mere ghazi bachane ke liye
+  Maangne aaya hai bachchi ko kanizi mein laiṅ
+  Ab to aa jaao mere Ghaazi bachaane ke liye
 
   10
-  Tharthara kar reh gayi qabre nabi yasir raza
-  Aayi jab roodad e gham zainab sunane ke liye
+  Tharthara kar reh gayi qabr-e-Nabi Yasir Raza
+  Aayi jab rudaad-e-gham Zainab sunaane ke liye
 # source_id: nohayonline:1c2aebfa479d5b1f4403
 # source_url: https://www.nohayonline.com/details_content.php?id=2577
 # raw_sha256: b166dd165c60a644b051412e069fe95cae276af73dea548fa920125f05d1f159
 ---
-رہ گیء بیٹی علی کی غم اٹھانے کے لیےء
-زخم کھانے کے لیےء آنسوں بہانے کے لئے
+رہ گئی بیٹی علی کی غم اٹھانے کے لیے
+زخم کھانے کے لیے آنسو بہانے کے لئے
 
 ۱
 وارث تطہیر بے پردہ کھڑی ہے دشت میں
 ایک چادر بھی نہیں ہے سر چھپانے کے لئے
 
 ۲
-لای تھی دو پھول اپنی گود میں ام رباب
+لائی تھی دو پھول اپنی گود میں ام رباب
 ایک مقتل کے لئے ایک قید خانے کے لئے
 
 ۳
 ڈھونڈنے نکلے ہیں اعدا پشت خیمہ کی طرف
-لاشہء بے شیر نیزے پر اٹھانے کے لیےء
+لاشۂ بے شیر نیزے پر اٹھانے کے لیے
 
 ۴
 نوکِ نیزہ پر اٹھا کر شام کے بازار میں
-شمر لہراتا تھا چادر دل دکھانے کیلئے
+شمر لہراتا تھا چادر دل دکھانے کے لیے
 
 ۵
 آتے جاتے جس کو دیکھو ظلم کرتا ہے شدید
-پشت عابد رہ گیء ہے تازیانے کے لئے
+پشت عابد رہ گئی ہے تازیانے کے لئے
 
 ۶
 بارہا زینب ہے گزری شام کے بازار میں
 سید سجاد کو زندہ بچانے کے لئے
 
 ۷
-روتے روتے جا رہی ہے بچی سوے علقمہ
+روتے روتے جا رہی ہے بچی سوئے علقمہ
 نیل رخساروں کے غازی کو دکھانے کے لئے
 
 ۸
 گر کے اکبر نے صدا دی جب تو زینب نے کہا
-بھای میں بھی چل رہی ہوں لاش اٹھانے کے لئے
+بھائی میں بھی چل رہی ہوں لاش اٹھانے کے لئے
 
 ۹
 مانگنے آیا ہے بچی کو کنیزی میں لعیں
 اب تو آ جاؤ میرے غازی بچانے کے لئے
 
 ۱۰
-تھرتھرا کر رہ گیء قبر نبی یاسر رضا
-آی جب روداد غم زینب سنانے کے لئے
+تھرتھرا کر رہ گئی قبر نبی یاسر رضا
+آئی جب روداد غم زینب سنانے کے لئے
