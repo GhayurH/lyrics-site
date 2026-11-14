@@ -1,19 +1,20 @@
 ---
-title: "اجڑی ہوئی ہے اسے کیسے بساییں"
+title: "اجڑی ہوئی بستی ہے اسے کیسے بسائیں"
 alternateTitle: "Tanha Hai Dulaara"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ujdi hui basti hai isay kaise basayein
-  Bikhre huwe laashon par sisakti hai hawayein
-  Aati hai kahin ddor se pur dard sadayein
-  Tanha hai dulaara zehra ka
+  Ujri hui basti hai ise kaise basaaeṅ
+  Bikhre hue laashoṅ par sisakti hai hawaaeṅ
+  Aati hai kahiṅ dur se pur dard sadaaeṅ
+  Tanha hai dulaara Zehra ka
 
   1
   Jangal ki faza suni suni
@@ -26,82 +27,82 @@ romanLyrics: |-
   Koi na raha koi na bacha
 
   3
-  Sab saaqi e kausar ke bacche
+  Sab saaqi-e-Kausar ke bachche
   Darya ke kanare pyase rahe
-  Ek boondh unhe pani na mila
+  Ek bund unheṅ paani na mila
 
   4
-  Hamshakle payambar qatl hua
-  Akbar ka jigar barchi se chida
-  Haathon pe pisar ka hai laasha
+  Hamshakl-e-Payambar qatl hua
+  Akbar ka jigar barchhi se chhida
+  Haathoṅ pe pisar ka hai laasha
 
   5
-  Farwa ka pisar wo ibne hassan
-  Tukde tukde dulha ka badan
-  Bikhra hua laasha qasim ka
+  Farwa ka pisar wo ibn-e-Hasan
+  Tukre tukre dulha ka badan
+  Bikhra hua laasha Qasim ka
 
   6
-  Hai sakte ke aalam mein kubra
+  Hai sakte ke aalam meiṅ Kubra
   Dulhan thi abhi ab hai bewa
-  Ab kaun usay pursa dega
+  Ab kaun use pursa dega
 
   7
-  Abbas e ali saqqa e haram
-  Shaane huwe dono inke qalam
+  Abbas-e-Ali saqqa-e-haram
+  Shaane hue donoṅ in ke qalam
   Hai saamne bhai ka laasha
 
   8
-  Pyasa shesh maaha ran ko gaya
-  Nanhe se galay par teer laga
-  Baysheer mujahid qatl hua
+  Pyasa shashmaaha ran ko gaya
+  Nanhe se gale par tir laga
+  Beshir mujaahid qatl hua
 
   9
-  Haathon mein liye kooze khaali
-  Bechaini wo pyase bacchon ki
-  Saqqa e sakina bhi na raha
+  Haathoṅ meiṅ liye kuze khaali
+  Bechaini wo pyase bachchoṅ ki
+  Saqqa-e-Sakina bhi na raha
 
   10
-  Koi to zara is se pooche
-  Ye kis ke uthaate hai laashe
-  De kaun usay bad kar pursa
+  Koi to zara is se puchhe
+  Ye kis ki uthaate haiṅ laashe
+  De kaun use barh kar pursa
 
   11
   Har simt se naize aur pathar
-  Wo shimr e sitamgar ka khanjar
-  Ab kat'ta hai pyase ka gala
+  Wo Shimr-e-sitamgar ka khanjar
+  Ab katta hai pyase ka gala
 
   12
-  Ek pyasa musafir jangal mein
-  Khamosh khada tha maqtal mein
+  Ek pyasa musaafir jangal meiṅ
+  Khaamosh khara tha maqtal meiṅ
   Zakhmi zakhmi haatif ki sada
 
   13
-  Maqtal mein rasheed ek hashr hua
-  Sar hogaya sheh ka tan se juda
-  Ek bekas maa deti hai sada
+  Maqtal meiṅ Rasheed ek hashr hua
+  Sar ho gaya shah ka tan se juda
+  Ek bekas maaṅ deti hai sada
 # source_id: nohayonline:67206b35068eaad12142
 # source_url: https://www.nohayonline.com/details_content.php?id=3262
 # raw_sha256: 18270390ae41154a2eccfb8a98c2db1e64a9a71078ae7959ea74d9ad1c16b4fc
 ---
-اجڑی ہوئی ہے اسے کیسے بساییں
-بکھرے ہوئے لاشوں پر سسکتی ہے ہواییں
-آتی ہے کہیں دور سے پر درد صداییں
+اجڑی ہوئی بستی ہے اسے کیسے بسائیں
+بکھرے ہوئے لاشوں پر سسکتی ہے ہوائیں
+آتی ہے کہیں دور سے پر درد صدائیں
 تنہا ہے دلارا زہرا کا
 
 ۱
-جنگل کی فضا سنی سنی
+جنگل کی فضا سونی سونی
 ہر سمت اداسی ہے کیسی
 کیسا ہے یہ منظر غربت کا
 
 ۲
 آیا تھی بھرے گھر کو لے کر
-پر ازم بہتر کا لشکر
-کوی نہ رہا کوئی نہ بچا
+پر عزم بہتر کا لشکر
+کوئی نہ رہا کوئی نہ بچا
 
 ۳
-سب ساقیء کوثر کے بچے
+سب ساقیٔ کوثر کے بچے
 دریا کے کنارے پیاسے رہے
-ایک بوندھ انہیں پانی نہ ملا
+ایک بوند انہیں پانی نہ ملا
 
 ۴
 ہمشکل پیمبر قتل ہوا
@@ -119,9 +120,9 @@ romanLyrics: |-
 اب کون اسے پرسہ دے گا
 
 ۷
-عباس علی سقاے حرم
+عباس علی سقائے حرم
 شانے ہوئے دونوں ان کے قلم
-ہے سامنے بھای کا لاشہ
+ہے سامنے بھائی کا لاشہ
 
 ۸
 پیاسا ششماہا رن کو گیا
@@ -129,12 +130,12 @@ romanLyrics: |-
 بے شیر مجاہد قتل ہوا
 
 ۹
-ہاتھوں میں لیےء کوزے خالی
+ہاتھوں میں لیے کوزے خالی
 بے چینی وہ پیاسے بچوں کی
-سقاے سکینہ بھی نہ رہا
+سقائے سکینہ بھی نہ رہا
 
 ۱۰
-کوی تو زرا اس سے پوچھے
+کوئی تو ذرا اس سے پوچھے
 یہ کس کی اٹھاتے ہیں لاشے
 دے کون اسے بڑھ کر پرسہ
 
