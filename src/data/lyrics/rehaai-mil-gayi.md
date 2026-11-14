@@ -1,10 +1,11 @@
 ---
-title: "رہائی مل گیء رہائی مل گیء"
+title: "رہائی مل گئی رہائی مل گئی"
 alternateTitle: "Rehaai Mil Gayi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -13,83 +14,83 @@ romanLyrics: |-
   Sakina jaag utho jaag utho
 
   1
-  Afsos baad e marg ke raahat tumhe mili
-  Sajjad ke pairon ki bhi bedi nikal gayi
+  Afsos baad-e-marg ke raahat tumheiṅ mili
+  Sajjad ke pairoṅ ki bhi beri nikal gayi
   Bibi utho ab apni rida hum ko mil gayi
 
   2
-  Kaano ka dard aur wo kurta jala hua
-  Rassi gale may bibi ke aur dam ruka hua
-  Chote se sin may bibi kya kya na seh gayi
+  Kaanoṅ ka dard aur wo kurta jala hua
+  Rassi gale mein Bibi ke aur dam ruka hua
+  Chhote se sin mein Bibi kya kya na seh gayi
 
   3
-  Baba ke liye roti to milti thi ghurkiyan
-  Zakhmi thay kaan shimr ne cheeni jo baaliyan
-  Raahat tujhe mil jayegi ab ghar chalo bibi
+  Baba ke liye roti to milti thi ghurkiyaaṅ
+  Zakhmi the kaan Shimr ne chhini jo baaliyaaṅ
+  Raahat tujhe mil jaayegi ab ghar chalo Bibi
 
   4
-  Wo dekh kar parindo ko ghar jaane ka armaan
-  Kehti thi ro ke jayenge kab ghar phupi amma
-  Chalne ki ab watan ko kyun zid nahi karti
+  Wo dekh kar parindoṅ ko ghar jaane ka armaan
+  Kehti thi ro ke jaayeṅge kab ghar phuphi ammaaṅ
+  Chalne ki ab watan ko kiuṅ zid nahiṅ karti
 
   5
-  Armaan tha tumko kitna ghar jaane ka bibi
-  Zaalim ke darr se tum na raaton ko soti thi
-  Tareek qaid khane may neend aa gayi kaisi
+  Armaan tha tum ko kitna ghar jaane ka Bibi
+  Zaalim ke dar se tum na raatoṅ ko soti thi
+  Taarik qaid khaane mein nind aa gayi kaisi
 
   6
-  Chal kar batana baba ko tum saari daastan
-  Kaise huwe masayab tum par sar e zindan
-  Ghurbat may tum jo baap se apne juda hui
+  Chal kar bataana Baba ko tum saari daastaaṅ
+  Kaise hue masaaib tum par sar-e-zindaaṅ
+  Ghurbat mein tum jo baap se apne juda hui
 
   7
-  Sughra hai muntazar ke kab aayenge ghar hum
-  Sun kar mere masayab niklega uska dam
-  Kya kehke mai samjhaun ke tum hi nahi rahi
+  Sughra hai muntazar ke kab aayeṅge ghar hum
+  Sun kar mere masaaib niklega us ka dam
+  Kya keh ke main samjhaauṅ ke tum hi nahiṅ rahi
 
   8
-  Nanhi si wo chadar teri asghar ke shalooke
-  Kaano ki baaliyan teri aur jhoole ke tukde
-  Yaadein mere bachon ki daaman may hai bandhi
+  Nanhi si wo chaadar teri Asghar ke shaluke
+  Kaanoṅ ki baaliyaaṅ teri aur jhule ke tukre
+  Yaadeiṅ mere bachchoṅ ki daaman mein hai bandhi
 # source_id: nohayonline:ae7021a9b4ab149f04fa
 # source_url: https://www.nohayonline.com/details_content.php?id=1772
 # raw_sha256: 2ab954343b42e06c710aa32f5607ffd76e789ad0ff19b4ca7de25456353f5b0b
 ---
-رہائی مل گیء رہائی مل گیء
+رہائی مل گئی رہائی مل گئی
 سکینہ جاگ اٹھو جاگ اٹھو
 
 ۱
 افسوس بعد مرگ کے راحت تمہیں ملی
-سجاد کے پیروں کی بھی بیڑی نکل گیء
-بی بی اٹھو اب اپنی ردا ہم کو مل گیء
+سجاد کے پیروں کی بھی بیڑی نکل گئی
+بی‌بی اٹھو اب اپنی ردا ہم کو مل گئی
 
 ۲
 کانوں کا درد اور وہ کرتہ جلا ہوا
-رسی گلے میں بی بی کے اور دم رکا ہوا
-چھوٹے سے سن میں بی بی کیا کیا نہ سہہ گیء
+رسی گلے میں بی‌بی کے اور دم رکا ہوا
+چھوٹے سے سن میں بی‌بی کیا کیا نہ سہہ گئی
 
 ۳
 بابا کے لئے روتی تو ملتی تھی گھڑیاں
 زخمی تھے کان شمر نے چھینی جو بالیاں
-راحت تجھے مل جاے گی اب گھر چلو بی بی
+راحت تجھے مل جائے گی اب گھر چلو بی‌بی
 
 ۴
 وہ دیکھ کر پرندوں کو گھر جانے کا ارمان
-کہتی تھی رو کے جاےنگے کب گھر پھپھی اماں
+کہتی تھی رو کے جائیں گے کب گھر پھپھی اماں
 چلنے کی اب وطن کو کیوں ضد نہیں کرتی
 
 ۵
-ارمان تھا تم کو کتنا گھر جانے کا بی بی
+ارمان تھا تم کو کتنا گھر جانے کا بی‌بی
 ظالم کے ڈر سے تم نہ راتوں کو سوتی تھی
-تاریک قید کھانے میں نیند آ گیء کیسی
+تاریک قید خانے میں نیند آ گئی کیسی
 
 ۶
 چل کر بتانا بابا کو تم ساری داستاں
-کیسے ہوے مصائب تم پر سر زنداں
-غربت میں تم جو باپ سے اپنے جدا ہوی
+کیسے ہوئے مصائب تم پر سرِ زنداں
+غربت میں تم جو باپ سے اپنے جدا ہوئی
 
 ۷
-صغریٰ ہے منتظر کے کا آےنگے گھر ہم
+صغریٰ ہے منتظر کہ کب آئیں گے گھر ہم
 سن کر میرے مصائب نکلے گا اس کا دم
 کیا کہکے میں سمجھاؤں کہ تم نہیں رہی
 
