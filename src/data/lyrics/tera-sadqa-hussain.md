@@ -1,73 +1,76 @@
 ---
 title: "یا حسینا حسینا حسینا"
-alternateTitle: "Tera Sadqa Hussain"
+alternateTitle: "Tera Sadqa Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Yawar"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
-aliases: []
+aliases: ["Tera Sadqa Hussain"]
 published: false
 romanLyrics: |-
-  Ya hussaina hussaina hussaina
-  Gir gir zameen pa teeron pa thehra jo jism e shaah
+  Ya Husaina Husaina Husaina
+
+  Gir gir zamin pa tiroṅ pa thehra jo jism-e-Shah
   Manzar ye dekh rote rahe saare ambiya
-  Besaakhta ye naara e takbeer ne kaha
-  Tera sadqa hussain tera sadqa hussain
+  Besaakhta ye naara-e-takbir ne kaha
+  Tera sadqa Husain tera sadqa Husain
 
   1
-  Roti rahi namaz musalla bhi ro pada
-  Pyasa hussain zeen se jab khaak par gira
-  Sar ko kata ke kar diya baland la ilaah
-  Arshe bari se khaaliq e akbar ne di sada
+  Roti rahi namaaz musalla bhi ro para
+  Pyaasa Husain zin se jab khaak par gira
+  Sar ko kata ke kar diya buland la ilaah
+  Arsh-e-bariṅ se Khaaliq-e-Akbar ne di sada
 
   2
-  Apne karam se rasme karam par karam kiya
-  Tu ne wo mezbaan ka haq hai adaa kiya
-  Karbobala ye kehti hai shabbir shukriya
-  Sehra ko tu ne arshe mo'alla bana diya
+  Apne karam se rasm-e-karam par karam kiya
+  Tu ne wo mezbaan ka haq hai ada kiya
+  Karbobala ye kehti hai Shabbir shukriya
+  Sehra ko tu ne arsh-e-moalla bana diya
 
   3
-  Aaine la-ilaah ki bunyad hai hussain
-  Khaaliq jo kar raha hai wo faryad hai hussain
-  Hurr ka zameer aaj bhi sarshaad hai hussain
-  Insaan tere dam se hi azaad hai hussain
+  Aaina la ilaah ki bunyaad hai Husain
+  Khaaliq jo kar raha hai wo faryaad hai Husain
+  Hurr ka zamir aaj bhi sarshaad hai Husain
+  Insaan tere dam se hi aazaad hai Husain
 
   4
-  Haq ko buland kar ke rukega ye karwan
-  Udti rahegi parcham e baatil ki dhajjiya
-  Qabee batool aaj bhi karti hai ye fughan
-  Haq ki baqa ke waaste bolegi har zaban
+  Haq ko buland kar ke rukega ye kaarwaaṅ
+  Urti rahegi parcham-e-baatil ki dhajjiyaaṅ
+  Qabi Batul aaj bhi karti hai ye fughaaṅ
+  Haq ki baqa ke waaste bolegi har zabaaṅ
 
   5
-  Binte ali zameen pe giri thaam kar jigar
-  Phaila ke dono haath buka e wo nauhagar
-  Qurban kar diye hai pisar dono bhai par
-  Zainab ye keh rahi thi bayaban mein nange sar
+  Bint-e-Ali zamin pe giri thaam kar jigar
+  Phaila ke dono haath buka-e-wo nauhagar
+  Qurbaan kar diye haiṅ pisar dono bhai par
+  Zainab ye keh rahi thi bayaabaaṅ mein nange sar
 
   6
-  Bikhra pada tha azmate tauheed ka quran
-  Bemaar e karbala pe ajab tha ye imtehan
-  Pehlu mein saath jiske sakina thi neem jaan
-  Naize pe sar hussain ka dekha to di azaan
+  Bikhra para tha azmat-e-tauhid ka Quraan
+  Bimaar-e-Karbala pe ajab tha ye imtihaaṅ
+  Pehlu mein saath jis ke Sakina thi nim jaaṅ
+  Naize pe sar Husain ka dekha to di azaaṅ
 
   7
-  Binte ali ne sabr ka har imtehan diya
-  Aankhon mein ashk aaye to ashkon ko pee liya
-  Kufa ki shaahzadi ne paidal safar kiya
-  Raahe khuda mein jo diya ye soch kar diya
+  Bint-e-Ali ne sabr ka har imtihaaṅ diya
+  Aankhoṅ mein ashk aaye to ashkoṅ ko pi liya
+  Kufa ki Shahzaadi ne paidal safar kiya
+  Raah-e-Khuda mein jo diya ye soch kar diya
 
   8
-  Yawar har ek gham ka madawa hai ya hussain
-  Momin ki zindagi ka asaasa hai ya hussain
-  Quran e karbala ka khulaasa hai ya hussain
-  Khaaliq jo pad raha hai wazeefa hai ya hussain
+  Yawar har ek gham ka mudaawa hai Ya Husain
+  Momin ki zindagi ka asaasa hai Ya Husain
+  Quraan-e-Karbala ka khulaasa hai Ya Husain
+  Khaaliq jo parh raha hai wazifa hai Ya Husain
 # source_id: nohayonline:84c397e5cd2844340002
 # source_url: https://www.nohayonline.com/details_content.php?id=2317
 # raw_sha256: f03d2b1c5ed1ca211c8256d3744887eaa3b0d757d041d567e45236d2bcdf0710
 ---
 یا حسینا حسینا حسینا
+
 گر گر زمین پہ تیروں پہ ٹہرا جو جسم شاہ
 منظر یہ دیکھ روتے رہے سارے انبیاء
 بے ساختہ یہ نعرۂ تکبیر نے کہا
@@ -93,14 +96,14 @@ romanLyrics: |-
 
 ۴
 حق کو بلند کر کے رکے گا یہ کارواں
-اڑتی رہے گی پرچم باطل کی دیجئے
+اڑتی رہے گی پرچم باطل کی دھجیاں
 قابی بتول آج بھی کرتی ہے یہ فغاں
 حق کی بقا کے واسطے بولے گی ہر زباں
 
 ۵
 بنت علی زمین پہ گری تھام کر جگر
 پھیلا کے دونوں ہاتھ بکاے وہ نوحہ گر
-قربان کر دیےء ہے پسر دونوں بھائی پر
+قربان کر دیے ہیں پسر دونوں بھائی پر
 زینب یہ کہہ رہی تھی بیاباں میں ننگے سر
 
 ۶
@@ -111,7 +114,7 @@ romanLyrics: |-
 
 ۷
 بنت علی نے صبر کا ہر امتحاں دیا
-آنکھوں میں اشک آے تو اشکوں کو پی لیا
+آنکھوں میں اشک آئے تو اشکوں کو پی لیا
 کوفہ کی شاہزادی نے پیدل سفر کیا
 راہ خدا میں جو دیا یہ سوچ کر دیا
 

@@ -1,96 +1,62 @@
 ---
 title: تیرا غم زندہ ہے ابھی تک
-alternateTitle: Tera Matam Shahe Deen
+alternateTitle: Tera Maatam Shah-e-Diṅ
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mazhar Abidi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Tera Matam Shahe Deen"]
 published: false
-romanLyrics: 'Tera gham zinda hai abhi tak soghwaron mein
+romanLyrics: |-
+  Tera gham zinda hai abhi tak sogwaroṅ mein
+  Tera maatam Shah-e-Diṅ bapa hai chaand taaroṅ mein
 
-  Tera matam shahe deen bapa hai chand taaron mein
-
-  Tera akbar seene pe jis ke
-
-  Maara tha naiza ahle jafa ne
-
-  Royi karbal ki zameen buka thi reg zaaron mein
-
+  Tera Akbar sine pe jis ke
+  Maara tha naiza ahl-e-jafa ne
+  Royi Karbal ki zamiṅ buka thi regzaaroṅ mein
 
   1
-
-  Tera qasim ghodon ne jis ko
-
-  Pamaal maqtal mein kar diya tha
-
-  Haye wo tanha tha sar e maqtal hazaron mein
-
+  Tera Qasim ghoroṅ ne jis ko
+  Paamaal maqtal mein kar diya tha
+  Haye wo tanha tha sar-e-maqtal hazaaroṅ mein
 
   2
-
-  Tera ghazi darya kanare
-
-  Sota hai haye shaane kataye
-
-  Rota hai darya falak hai soghwaron mein
-
+  Tera Ghazi darya kinaare
+  Sota hai haye shaane kataaye
+  Rota hai darya falak hai sogwaroṅ mein
 
   3
-
-  Tera asghar haathon pe tere
-
-  Maara gaya jab teer e sitam se
-
-  Chaayi maqtal mein khiza fughan thi ye baharon mein
-
+  Tera Asghar haathoṅ pe tere
+  Maara gaya jab tir-e-sitam se
+  Chhaayi maqtal mein khizaaṅ fughaaṅ thi ye bahaaroṅ mein
 
   4
-
-  Tere ghar ko ummat ne loota
-
-  Qaime jalaye cheeni ridayein
-
-  Deti thi zehra dilaase dilfigaron mein
-
+  Tere ghar ko ummat ne luta
+  Khaime jalaaye chhini ridaaeṅ
+  Deti thi Zehra dilaase dilfigaaroṅ mein
 
   5
-
-  Teri dukhtar daaghe yateemi
-
+  Teri dukhtar daagh-e-yatimi
   Paaya tha jis ne is kamsini mein
-
-  Aag daman mein lagi lahoo tha goshwaron mein
-
+  Aag daaman mein lagi lahu tha goshwaaroṅ mein
 
   6
-
-  Teri behne jab sar barehna
-
-  Bazaar e kufa se jaa rahi thi
-
-  Rote thay abid fughan thi ashk baaron mein
-
+  Teri behneṅ jab sar barehna
+  Baazaar-e-Kufa se jaa rahi thiṅ
+  Rote the Abid fughaaṅ thi ashkbaaroṅ mein
 
   7
-
-  Teri zainab beton ko apne
-
-  Royi nahi hai royi hai tujh par
-
-  Behna bulaati thi tujhe ashkon ke dhaaron mein
-
+  Teri Zainab betoṅ ko apne
+  Royi nahiṅ hai royi hai tujh par
+  Behna bulaati thi tujhe ashkoṅ ke dhaaroṅ mein
 
   8
-
-  Tera mazhar din raat nauhe
-
+  Tera Mazhar din raat nauhe
   Likhta hai tere purse ki khaatir
-
-  Deta hai wo bhi sadayein soghwaron mein'
-reciter: Farhan Ali
+  Deta hai wo bhi sadaaeṅ sogwaroṅ mein
+reciter: Farhan Ali Waris
 # source_id: nohayonline:050bf018a4044af5602c
 # source_url: https://www.nohayonline.com/details_content.php?id=2230
 # raw_sha256: 95c540ab44d627bee0f9cddb6e3c18c748f401ba58407c12d9a067f2cace4269
@@ -99,8 +65,9 @@ reciter: Farhan Ali
 # raw_sha256: 2110fb7311b3ed50cd8a90f5e3d20d6f12f1e57c155c048591926c13e128eebb
 ---
 
-تیرا غم زندہ ہے ابھی تک
+تیرا غم زندہ ہے ابھی تک سوگواروں میں
 تیرا ماتم شہہ دیں بپا ہے چاند تاروں میں
+
 تیرا اکبر سینے پہ جس کے
 مارا تھا نیزہ اہل جفا نے
 روئی کربل کی زمیں بُکا تھی ریگزاروں میں
@@ -137,10 +104,10 @@ reciter: Farhan Ali
 
 ۷
 تیری زینب بیٹوں کو اپنے
-روئ نہیں ہے روئ ہے تجھ پر
+روئی نہیں ہے روئی ہے تجھ پر
 بہنا بلاتی تھی تجھے اشکوں کے دھاروں میں
 
 ۸
 تیرا مظہر دن رات نوحے
 لکھتا ہے تیرے پرسے کی خاطر
-دیتا ہے وو بھی صداییں سوگواروں میں
+دیتا ہے وہ بھی صدائیں سوگواروں میں
