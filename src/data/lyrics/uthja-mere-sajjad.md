@@ -1,85 +1,87 @@
 ---
 title: "شامِ غریباں جلتے خیمے اُٹھتا دُھواں"
-alternateTitle: "Uthja Mere Sajjad"
+alternateTitle: "Uth Ja Mere Sajjad"
+aliases: ["Uthja Mere Sajjad"]
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
+reciter: "Irfan Haider"
 tags: ["noImage"]
-aliases: []
 published: false
 romanLyrics: |-
-  Shaam e ghariban jalte qaime uth'ta dhuaan
-  Aun o muhamed ki wo maa
-  Aayi sajjad ke qaime mein
-  Kaha shaana hila kar rote huwe
-  Aabaad rahegi karbobala
-  Chal shaam kare aabaad
-  Uth jaa mere sajjad
-  Mera maajaya nahi aaya
-  Sun zainab ki faryad
-  Uth jaa mere sajjad
+  Shaam-e-gharibaṅ jalte khaime uthta dhuaṅ
+  Aun o Muhammad ki maaṅ
+  Aayi Sajjad ke khaime mein
+  Kaha shaana hila kar rote hue
+  Aabaad rahegi Karb o Bala
+  Chal Shaam kareṅ aabaad
+  Uth ja mere Sajjad
+
+  Mera maaṅ jaaya nahiṅ aaya
+  Sun Zainab ki faryaad
+  Uth ja mere Sajjad
 
   1
-  Amma ka haath gale par tha
-  Door se dekha tha maine
-  Maqtal mein sookhi gardan par
-  Jab shimr ne tera waar kiye
-  Woh bhai mera wavaila
-  Maara gaya pyasa wavaila
-  Jis bhai par qurban hui
-  Pyasi meri aulaad
+  Ammaṅ ka haath gale par tha
+  Dur se dekha tha main ne
+  Maqtal mein sukhi gardan par
+  Jab Shimr ne tera waar kiye
+  Woh bhai mera waawaila
+  Maara gaya pyaasa waawaila
+  Jis bhai par qurbaan hui
+  Pyaasi meri aulaad
 
   2
-  Qaimon mein hi jal jaaye ya
-  Qaimon se nikal jaaye baahar
-  Kya hukm hai tera zainab ko
-  Ek baar bata de tu uth kar
-  Na qasim hai na asghar hai
-  Abbas hai aur na akbar hai
-  Bas tera sahara hai hum ko
-  Bhaiya shabbir ke baad
+  Khaimoṅ mein hi jal jaaye ya
+  Khaimoṅ se nikal jaayeṅ baahar
+  Kya hukm hai tera Zainab ko
+  Ik baar bata de tu uth kar
+  Na Qasim hai na Asghar hai
+  Abbas hai aur na Akbar hai
+  Bas tera sahaara hai hum ko
+  Bhaiya Shabbir ke baad
 
   3
-  Ye shaam e ghariban hai beta
-  Teri pehli shaam imamat ki
-  Teri saalaari mein shaam talak
-  Karna hai safar ban kar qaid?
-  Na mehmil hai na howdaj hai
-  Na lashkar ki wo saj dhaj hai
-  Jab haath bandhenge gardan se
+  Ye shaam-e-gharibaṅ hai beta
+  Teri pehli shaam imaamat ki
+  Teri saalaari mein Shaam talak
+  Karna hai safar ban kar qaidi
+  Na mahmil hai na haudaj hai
+  Na lashkar ki woh saj dhaj hai
+  Jab haath bandheṅ ge gardan se
   Ghazi aayega yaad
 
   4
   Be maqna o chaadar naaqe se
-  Hamay jaana hai sajjad jahan
-  Ay laal suno kaise hoga
-  Sadaat ka isteqbaal wahan
+  Hameṅ jaana hai Sajjad jahaaṅ
+  Ae laal suno kaise hoga
+  Saadaat ka istiqbaal wahaaṅ
   Baazaar mein aane se pehle
-  Rokenge hamay darwaze pe
-  Galiyon ko sajaaya jayega
-  Naye honge sitam eejaad
+  Rokeṅ ge hameṅ darwaaze pe
+  Galiyoṅ ko sajaaya jaayega
+  Naye hoṅ ge sitam ijaad
 
   5
-  Sajjad teri masoom behan
-  Zaalim ke tamache khayegi
-  Maangega kaneezi mein haakim
-  Darbaar mein jab wo jayegi
-  Mar jayegi durre kha kha kar
-  Zindan mein usko dafna kar
-  Tujhe rona hai chalees baras
-  Na honge kabhi hum shaad
+  Sajjad teri maasum bahan
+  Zaalim ke tamaache khaayegi
+  Maangega kanizi mein haakim
+  Darbaar mein jab woh jaayegi
+  Mar jaayegi durre kha kha kar
+  Zindaan mein us ko dafna kar
+  Tujhe rona hai chaalis baras
+  Na hoṅ ge kabhi hum shaad
 
   6
-  Ash shaam ash shaam ash shaam suna
-  Aur aankhein kholi abid ne
-  Zainab ne kaha ay zeeshan o
-  Irfan sahara dete huwe
-  Maqtal mein pade un laashon ka
-  Chehlum karne un pyason ka
-  Aayenge dobara karbobala
-  Jab honge hum azaad
+  Ash Shaam ash Shaam ash Shaam suna
+  Aur aankheṅ kholiṅ Abid ne
+  Zainab ne kaha ae Zeeshan o
+  Irfan sahaara dete hue
+  Maqtal mein pare un laashoṅ ka
+  Chehlum karne un pyaasoṅ ka
+  Aayeṅ ge dobaara Karb o Bala
+  Jab hoṅ ge hum aazaad
 # source_id: nohayonline:3556463ecda8870215b2
 # source_url: https://www.nohayonline.com/details_content.php?id=2829
 # raw_sha256: d3590b7d7a5112d010547d7415d7726cb38b1e4df02782be46e16ab8dc3dd380
@@ -87,11 +89,12 @@ romanLyrics: |-
 شامِ غریباں جلتے خیمے اُٹھتا دُھواں
 عون و محمد کی ماں
 آئی سجاد کے خیمے میں
-کہا شانہ ہلا کر رُوتے ہوئے
+کہا شانہ ہلا کر روتے ہوئے
 آباد رہے گی کرب و بلا
 چل شام کریں آباد
 اُٹھ جا میرے سجاد
-میرا ماںجایا نہیں آیا
+
+میرا ماں جایا نہیں آیا
 سُن زینب کی فریاد
 اُٹھ جا میرے سجاد
 
@@ -120,7 +123,7 @@ romanLyrics: |-
 تیری پہلی شام امامت کی
 تیری سالاری میں شام تلک
 کرنا ہے سفر بن کر قیدی
-نہ محمل ہے نہ ھودج ہے
+نہ محمل ہے نہ ہودج ہے
 نہ لشکر کی وہ سج دھج ہے
 جب ہاتھ بندھیں گے گردن سے
 غازی آئے گا یاد
@@ -140,7 +143,7 @@ romanLyrics: |-
 ظالم کے طماچے کھائے گی
 مانگے گا کنیزی میں حاکم
 دربار میں جب وہ جائے گی
-مرجائے گی دُرّے کھا کھا کر
+مر جائے گی دُرّے کھا کھا کر
 زندان میں اس کو دفنا کر
 تجھے رونا ہے چالیس برس
 نہ ہوں گے کبھی ہم شاد
@@ -153,4 +156,4 @@ romanLyrics: |-
 مقتل میں پڑے اُن لاشوں کا
 چہلم کرنے اُن پیاسوں کا
 آئیں گے دوبارہ کرب و بلا
-جب ہوںگے ہم آزاد
+جب ہوں گے ہم آزاد
