@@ -1,51 +1,52 @@
 ---
-title: "رونے کو جاے بانوے مضطر کہاں کہاں"
+title: "رونے کو جائے بانوئے مضطر کہاں کہاں"
 alternateTitle: "Rone Ko Jaye Bano"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Anees Pehersari"
+reciter: "Tableegh e Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Rone ko jaaye bano e muztar kahan kahan
-  Shauhar kahin pisar kahin dukhtar kahan kahan
+  Rone ko jaaye Baano-e-muztar kahaaṅ kahaaṅ
+  Shauhar kahiṅ pisar kahiṅ dukhtar kahaaṅ kahaaṅ
 
   1
-  Zainab ne poocha shaah se bhaiya tumhare baad
-  Tash'heer bhool jayegi khwahar kahan kahan
+  Zainab ne puchha Shaah se bhaiya tumhaare baad
+  Tashhir bhul jaayegi khwaahar kahaaṅ kahaaṅ
 
   2
-  Kufa baqi o maariya zindan e shaam mein
-  Roti hai jaa ke shaah ki khwahar kahan kahan
+  Kufa Baqi o Maariya zindaan Shaam mein
+  Roti hai jaa ke Shaah ki khwaahar kahaaṅ kahaaṅ
 
   3
-  Uth'te hai sholon qaimon se mehsoor hai haram
-  Pahunche madad ko dukhtare hyder kahan kahan
+  Uthte haiṅ sholoṅ khaimoṅ se mahshur hai haram
+  Pahuṅche madad ko dukhtar Haidar kahaaṅ kahaaṅ
 
   4
-  Qasim ki laash bikhri hai ran mein kuch is tarha
-  Pamaal tan ko dhoondenge sarwar kahan kahan
+  Qasim ki laash bikhri hai ran mein kuchh is tarah
+  Paamaal tan ko dhuṅrheṅge Sarwar kahaaṅ kahaaṅ
 
   5
-  Kar ke aseer aale mohamed ko be-khata
-  Le kar gaya yazeed ka lashkar kahan kahan
+  Kar ke asir Aal-e-Muhammad ko bekhata
+  Le kar gaya Yazid ka lashkar kahaaṅ kahaaṅ
 
   6
-  Is zindagi se maut hai behtar anees ko
-  Khaata hai kitne thokarein dar dar kahan kahan
+  Is zindagi se maut hai behtar Anees ko
+  Khaata hai thokareṅ kitne dar dar kahaaṅ kahaaṅ
 # source_id: nohayonline:812d2aea3d2474111e8c
 # source_url: https://www.nohayonline.com/details_content.php?id=3479
 # raw_sha256: 28ede8dc527bab4267d64b3582890f5cdfda75bd959203b6b8224a06e209392f
 ---
-رونے کو جاے بانوے مضطر کہاں کہاں
+رونے کو جائے بانوئے مضطر کہاں کہاں
 شوہر کہیں پسر کہیں دختر کہاں کہاں
 
 ۱
 زینب نے پوچھا شاہ سے بھیا تمہارے بعد
-تشہیر بھول جاے گی خواہر کہاں کہاں
+تشہیر بھول جائے گی خواہر کہاں کہاں
 
 ۲
 کوفہ بقیع و ماریہ زندان شام میں
@@ -61,7 +62,7 @@ romanLyrics: |-
 
 ۵
 کر کے اسیر آل محمد کو بے خطا
-لے کر گےء یزید کا لشکر کہاں کہاں
+لے کر گیا یزید کا لشکر کہاں کہاں
 
 ۶
 اس زندگی سے موت ہے بہتر انیس کو

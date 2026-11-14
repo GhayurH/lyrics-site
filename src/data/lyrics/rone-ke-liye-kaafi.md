@@ -6,47 +6,48 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Adil Malik"
+reciter: "Haji Ansar Party"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Rone ke liye kaafi hai sajjad tera naam
-  Tu shahensha e dard hai batla rahi hai shaam
+  Rone ke liye kaafi hai Sajjad tera naam
+  Tu shahanshaah-e-dard hai batla rahi hai Shaam
 
   1
-  Chala bekason ka kaarvan bemaar logo saarban
-  Hai sang sar e uriyan shahe la-fata ki betiyan
-  Karbobala ke dasht mein barpa hai kohraam
+  Chala bekasoṅ ka kaarwaaṅ bimaar logo saarbaaṅ
+  Hai sang sar uryaaṅ Shaah La Fata ki betiyaaṅ
+  Karb o bala ke dasht mein barpa hai kohraam
 
   2
-  Zainab pukari be-watan bhai mera hai be-kafan
-  Karde isay koi dafan mere haathon mein baandhi rasan
-  Haye kaise suna hoga bemaar ne paighaam
+  Zainab pukaari bewatan bhai mera hai bekafan
+  Kar de ise koi dafn mere haathoṅ mein baandhi rasan
+  Haae kaise suna hoga bimaar ne paighaam
 
   3
-  Mastooron mein ek mard hai ghairat se chehra zard hai
-  Karbal ki zameen gard hai zainab ka dil mein dard hai
-  Rota hai sar jhuka ke karta nahi kalaam
+  Masturoṅ mein ek mard hai ghairat se chehra zard hai
+  Karbal ki zamiṅ gard hai Zainab ke dil mein dard hai
+  Rota hai sar jhuka ke karta nahiṅ kalaam
 
   4
-  Mushkil thi badi wo ghadi darbar mein zainab khadi
-  Shabbir ke lab per chadi sajjad ne pehni kadi
-  Darbar e yazeedi ke larze thay dar o baam
+  Mushkil thi bari wo ghari darbaar mein Zainab khari
+  Shabbir ke lab par chhari Sajjad ne pehni kari
+  Darbaar Yazidi ke larze haiṅ dar o baam
 
   5
-  Kat jaate sayyadon ke sar zainab na jaati dar badar
-  Bemaar ka tukde jigar rota hai lahoo har nagar
-  Har manzilon pe tadapna sajjad tera kaam
+  Kat jaate Sayyadoṅ ke sar Zainab na jaati dar badar
+  Bimaar ka tukre jigar rota hai lahu har nagar
+  Har manziloṅ pe tarapna Sajjad tera kaam
 
   6
-  Zindan siyaah posh hai tanhaai ki aaghosh hai
-  Abid kahe na hosh hai dum toota hai khamosh hai
-  Ummat ne sakina ko diya maut ka inaam
+  Zindaan siyaah posh hai tanhaai ki aaghosh hai
+  Abid kahe na hosh hai dam tuta hai khaamosh hai
+  Ummat ne Sakina ko diya maut ka inaam
 
   7
-  Karbal ki soya khaak par aadil lahoo poshaak par
-  Charche huwe aflaak par sultan e loulaak par
-  Hai jin o malayak bhi sajjad ke khudaam
+  Karbal ki soya khaak par Adil lahu poshaak par
+  Charche hue aflaak par Sultaan Laulaak par
+  Hai jin o malaaik bhi Sajjad ke khuddaam
 # source_id: nohayonline:28d9bfb51af9d276af59
 # source_url: https://www.nohayonline.com/details_content.php?id=1696
 # raw_sha256: b343af2ff495b52566570ed7e87b299444a0ca1c1133f2a2a7aceec7fb19ec22
@@ -60,9 +61,9 @@ romanLyrics: |-
 کربوبلا کے دشت میں برپا ہے کہرام
 
 ۲
-زینب پکاری بے وطن بھای میرا ہے بیکفن
+زینب پکاری بے وطن بھائی میرا ہے بیکفن
 کردے اسے کوئی دفن میرے ہاتھوں میں باندھی رسن
-ہاے کیسے سنا ہوگا بیمار نے پیغام
+ہائے کیسے سنا ہوگا بیمار نے پیغام
 
 ۳
 مستوروں میں اک مرد ہے غیرت سے چہرہ زرد ہے
@@ -86,5 +87,5 @@ romanLyrics: |-
 
 ۷
 کربل کی سویا خاک پر عادل لہو پوشاک پر
-چرچے ہوے افلاک پر سلطان لولاک پر
+چرچے ہوئے افلاک پر سلطان لولاک پر
 ہے جن و ملایک بھی سجاد کے خدام

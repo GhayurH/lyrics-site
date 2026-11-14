@@ -1,70 +1,71 @@
 ---
-title: "روکے زنداں میں یہ کہتی تھی سکینہ بابا"
+title: "رو کے زنداں میں یہ کہتی تھی سکینہ بابا"
 alternateTitle: "Roke Zindan Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazher Abedi"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ro ke zindan mein ye kehti thi sakina baba
-  Aap ke baad gawara nahi jeena baba
+  Ro ke zindaaṅ mein ye kehti thi Sakina baaba
+  Aap ke baad gawaara nahiṅ jina baaba
 
   1
-  Neend aati nahi din raat yuhin roti hoon
-  Yaad aata hai mujhe aap ka seena baba
+  Nind aati nahiṅ din raat yuṅhi roti huṅ
+  Yaad aata hai mujhe aap ka sina baaba
 
   2
-  Bhai sajjad ka bistar mere gohar cheene
-  Kya yateemon ko yuhin dete hai pursa baba
+  Bhai Sajjad ka bistar mere gauhar chhine
+  Kya yatimoṅ ko yuṅhi dete haiṅ pursa baaba
 
   3
-  Kaan se khoon tapakta hai mere shaanon par
-  Is tarha shimr ne hogar mere cheene baba
+  Kaan se khun tapakta hai mere shaanoṅ par
+  Is tarah Shimr ne gauhar mere chhina baaba
 
   4
-  Karbala se jo chali shaam ke zindan talak
-  Mujhko jee bhar ke layeeno ne sataya baba
+  Karbala se jo chali Shaam ke zindaan talak
+  Mujhko ji bhar ke lainoṅ ne sataaya baaba
 
   5
-  Pusht par oont ki baandhe thay sitamgar mujhko
-  Us aziyat se hai zakhmi mera seena baba
+  Pusht par uṅt ki baandhe the sitamgar mujhko
+  Us aziyat se hai zakhmi mera sina baaba
 
   6
-  Mojiza dekh kar hairaan tha har ek baani e shar
-  Aak ka sar meri godh mein jo aaya baba
+  Maujiza dekh ke hairaaṅ tha har ek baani-e-shar
+  Aap ka sar meri god mein jo aaya baaba
 
   7
-  Aap ki beti pe us waqt qayamat guzri
-  Usko haakim ne kaneezi mein jo maanga baba
+  Aap ki beti pe us waqt qayaamat guzri
+  Us ko haakim ne kanizi mein jo maaṅga baaba
 
   8
-  Mere ammu se kaho aake chudayein jaldi
-  Mujhko kha jayega zindan ka andhera baba
+  Mere ammu se kaho aa ke chhuraaeṅ jaldi
+  Mujhko kha jaayega zindaaṅ ka andhera baaba
 
   9
-  Aap aajayein to zindan mein ujaala hoga
-  Mujhpe ehsaan ye bada aap ka hoga baba
+  Aap aa jaaeṅ to zindaaṅ mein ujaala hoga
+  Mujh pe ehsaaṅ ye bara aap ka hoga baaba
 
   10
-  Qalbe saber ko isay sun ke tasalli hogi
-  Jab padha jayega mazher ka ye nauha baba
+  Qalb-e-saabir ko ise sun ke tasalli hogi
+  Jab parha jaayega Mazher ka ye nauha baaba
 # source_id: nohayonline:78c2e7553a572a5026b7
 # source_url: https://www.nohayonline.com/details_content.php?id=3535
 # raw_sha256: efbd6d41c4f60daae1c2ac0ef95fd1d96391fb8d4e0561ab33c2bf0d74e59c77
 ---
-روکے زنداں میں یہ کہتی تھی سکینہ بابا
-آپ کے بعد گنوارا نہیں جینا بابا
+رو کے زنداں میں یہ کہتی تھی سکینہ بابا
+آپ کے بعد گوارا نہیں جینا بابا
 
 ۱
 نیند آتی نہیں دن رات یونہی روتی ہوں
 یاد آتا ہے مجھے آپ کا سینہ بابا
 
 ۲
-بھای سجاد کا بستر میرے گوہر چھینے
+بھائی سجاد کا بستر میرے گوہر چھینے
 کیا یتیموں کو یونہی دیتے ہیں پرسہ بابا
 
 ۳
@@ -80,16 +81,16 @@ romanLyrics: |-
 اس اذیت سے ہے زخمی میرا سینہ بابا
 
 ۶
-معجزہ دیکھ کے حیراں تھا ہر ایک بانیء شر
-آ پ کا سر میری گود میں جو آیا بابا
+معجزہ دیکھ کے حیراں تھا ہر ایک بانیِ شر
+آپ کا سر میری گود میں جو آیا بابا
 
 ۷
 آپ کی بیٹی پہ اس وقت قیامت گزری
 اس کو حاکم نے کنیزی میں جو مانگا بابا
 
 ۸
-میرے عمو سے کہو آ کے چھڑاییں جلدی
-مجھکو کھا جاے گا زنداں کا اندھیرا بابا
+میرے عمو سے کہو آ کے چھڑائیں جلدی
+مجھکو کھا جائے گا زنداں کا اندھیرا بابا
 
 ۹
 آپ آجائیں تو زنداں میں اجالا ہوگا
