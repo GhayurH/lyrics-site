@@ -15,10 +15,10 @@ This is an **unpublished source review branch** targeting `feat/import-overlap-r
 | Status | Source IDs | Interpretation |
 | --- | ---: | --- |
 | `unreviewed` | 937 | No user decision; never infer permission to import or delete |
-| `pending_manual_dedup` | 269 | User has classified the language/lyrics, but source-to-canonical reconciliation remains |
+| `pending_manual_dedup` | 268 | User has classified the language/lyrics, but source-to-canonical reconciliation remains |
 | `no_lyrics` | 59 | User-approved exclusions; no lyric Markdown; archive snapshots retained |
 | `duplicate_source` | 9 | Identical earlier source readings linked to retained edition |
-| `consolidated_existing` | 19 | Fully or substantially matched to a pre-existing Markdown, retained and linked |
+| `consolidated_existing` | 20 | Fully or substantially matched to a pre-existing Markdown, retained and linked |
 | `unpublished_source_draft` | 78 | New poem file staged from an explicitly approved lyric source; editorial work pending |
 | `consolidated_new_draft` | 16 | Eight duplicate pairs merged into eight newly staged canonical files |
 | **Total** | **1,387** | **No open explicitly flagged duplicate pairs** |
@@ -44,7 +44,7 @@ Keep *one canonical Markdown per distinct composition*. Do not merge by similar 
 - `dukhte-hain-mere-kaan.md`: source English translation removed from mistaken Roman track, genuine Roman transliteration supplied
 - `ajeeb-qaidi-hain-sare-quran-parhte-hain.md`: Urdu and Panjabi original-script versions kept in a single unpublished draft pending separate Panjabi-edition representation
 
-**Existing editions linked rather than duplicated:** `andhere-dasht-may.md`, `abbas-ay-shere-nayastan-e-haider.md`, `ay-bekafan-hussain.md`, `ajeeb-hai-dastane.md`, `darya-behta-raha.md` and `bibi-madina-aagaya.md`. The last still has a **source-specific stanza-5 variant** needing independent verification; its original canonical text was not replaced. Similarly titled but *different* lyrics are preserved separately as `aye-baade-saba-jake-ye-ammu.md`, `binte-zahra-ka-khula-sar-hai-khuda-khair-kare.md`, `ay-mere-baba-jan-darbar-e-sham.md`, and `dil-mein-karbala-hai.md`.
+**Existing editions linked rather than duplicated:** `andhere-dasht-may.md`, `abbas-ay-shere-nayastan-e-haider.md`, `ay-bekafan-hussain.md`, `ajeeb-hai-dastane.md`, `darya-behta-raha.md` `bibi-madina-aagaya.md` and `ay-maut-teher-ja.md`. The last still has a **source-specific stanza-5 variant** needing independent verification; its original canonical text was not replaced. Similarly titled but *different* lyrics are preserved separately as `aye-baade-saba-jake-ye-ammu.md`, `binte-zahra-ka-khula-sar-hai-khuda-khair-kare.md`, `ay-mere-baba-jan-darbar-e-sham.md`, and `dil-mein-karbala-hai.md`.
 
 ## Original TajPoints and NoHayOnline pass
 
@@ -59,6 +59,6 @@ The initial source-identity manifest contains **109 TajPoints/NoHayOnline record
 
 ## Remaining manual work
 
-**269 individually classified NohaWriteups sources** still need full comparisons against every relevant existing lyric edition, and **937 blank CSV records** have no classification yet. After deduplication, remaining valid poems need source-grounded stanza alignment, transliteration according to `docs/` conventions, Urdu completeness, metadata and original-source verification. No `published: false` draft has been automatically declared complete.
+**268 individually classified NohaWriteups sources** still need full comparisons against every relevant existing lyric edition, and **937 blank CSV records** have no classification yet. After deduplication, remaining valid poems need source-grounded stanza alignment, transliteration according to `docs/` conventions, Urdu completeness, metadata and original-source verification. No `published: false` draft has been automatically declared complete.
 
 Do not claim successful `npm run source:sync`, `npm run check`, or `npm run build` until the branch has actually been checked. The source archive in the import repository must remain untouched.
