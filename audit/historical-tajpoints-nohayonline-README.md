@@ -1,82 +1,64 @@
-# Historical manual-source reconciliation (working branch)
+# Historical TajPoints, NoHayOnline, and NohaWriteups source reconciliation
 
-This branch targets `feat/import-overlap-reconciliation-2026-11-05`, not published `main`. Review-only and unapproved source drafts remain `published: false`. Sources and their original compressed HTML/JSON belong to [`GhayurH/kalam-archive-imports` PR #3](https://github.com/GhayurH/kalam-archive-imports/pull/3); do not purge the original captures.
+This is an **unpublished source review branch** targeting `feat/import-overlap-reconciliation-2026-11-05`; it is not permission to publish or merge unfinished lyric editions. Historical original captures, metadata, URLs, and checksums remain in [`GhayurH/kalam-archive-imports`](https://github.com/GhayurH/kalam-archive-imports), under `snapshots/`. Do not purge the source archive.
 
-## Decisions and source-to-file mappings
+## Sole NohaWriteups status tracker
 
-| Historical source batch | Outcome | Records |
-| --- | --- | ---: |
-| TajPoints | Roman-only newly added drafts | 101 |
-| NoHayOnline | Bilingual drafts | 3 |
-| NoHayOnline | Roman-only drafts (false Roman-in-Urdu tracks removed) | 3 |
-| TajPoints | Sources consolidated into existing bilingual editions | 2 |
-| TajPoints/NoHayOnline | Existing duplicates/non-poetry excluded | 6 |
-| NohaWriteups, CSV `review-decisions-1.csv` | New, unpublished source drafts | 71 |
-| NohaWriteups | Additional source readings mapped to existing Markdown | 13 |
-| NohaWriteups | Repeated source captures mapped to a single retained Markdown | 9 |
-| NohaWriteups | User excluded “no lyrics” sources | 32 |
-| NohaWriteups | Broken historical extraction, successfully recovered | 2 |
+- **`audit/nohawriteups-review-status.csv`**: the **only** NohaWriteups status tracker. It has exactly one row for each of the **1,387** source IDs supplied in the latest upload, including source provenance, retained canonical filename (if assigned), status and review notes.
+- **`audit/nohawriteups-review-decisions-input.csv`**: a preserved exact copy of the latest user classifications, **not** a status tracker.
+- **`audit/nohawriteups-review-decisions-1-prepared.json`**: frozen initial 125-source materialization handoff, **not** a status tracker. `scripts/materialize_nohawriteups_batch.py` now only validates the original records against the one cumulative tracker and may not generate a new tracker.
+- **`audit/historical-tajpoints-nohayonline-staging.csv`**: separate TajPoints/NoHayOnline initial source-identity manifest, not a NohaWriteups review tracker.
+- **`audit/manual-md-review-tracker.csv`**: existing repository-wide lyric editorial review log for the broader 3,310-file integration, not a parallel NohaWriteups disposition tracker.
 
-The **109 TajPoints/NoHayOnline source-to-file staging records** included two sources already represented by canonical bilingual Markdown: the redundant `Mili Rihaai` extension file was removed and its new stanzas were merged; the accidental replacement of the existing `Ghazi Tere Baad` edition was reversed and its TajPoints source linked instead. There are now **107 newly added TajPoints/NoHayOnline lyric files** (101 + 6) and **71 new NohaWriteups drafts**: **178 newly added lyric MD files** in this PR, plus in-place updates to reviewed existing editions.
+### Current NohaWriteups dispositions
 
-- `audit/historical-tajpoints-nohayonline-staging.csv`: initial 109 source identities, with the extension source now linked to its original filename
-- `audit/nohawriteups-review-status.csv`: all 125 decisions, source checksums, and retained file paths
-- `audit/nohawriteups-review-decisions-1-prepared.json`: original one-time review handoff used to create 70 unpublished MDs; the 71st was created after independent raw-HTML recovery
-- The import repository's `review/historical-dispositions.csv` and `review/historical-md-staging.csv`: processed exclusions vs still-pending editorial records
+| Status | Source IDs | Interpretation |
+| --- | ---: | --- |
+| `unreviewed` | 937 | No user decision; never infer permission to import or delete |
+| `pending_manual_dedup` | 269 | User has classified the language/lyrics, but source-to-canonical reconciliation remains |
+| `no_lyrics` | 59 | User-approved exclusions; no lyric Markdown; archive snapshots retained |
+| `duplicate_source` | 9 | Identical earlier source readings linked to retained edition |
+| `consolidated_existing` | 19 | Fully or substantially matched to a pre-existing Markdown, retained and linked |
+| `unpublished_source_draft` | 78 | New poem file staged from an explicitly approved lyric source; editorial work pending |
+| `consolidated_new_draft` | 16 | Eight duplicate pairs merged into eight newly staged canonical files |
+| **Total** | **1,387** | **No open explicitly flagged duplicate pairs** |
 
-## Consolidated additions
+The 78 individual drafts and the eight merged-pair files constitute **86 newly staged NohaWriteups lyric files**, all `published: false`. These are **source staging**, not the completed manual Urdu, Roman transliteration, stanza identity, metadata, and audio/print verification passes.
 
-- **`src/data/lyrics/ghazi-tere-baad.md`:** The full vetted Urdu/Roman five-stanza edition was restored after its accidental replacement by a TajPoints Roman draft. The TajPoints source `a267e031f3ec6d147510` contains no extra substantive stanza; its original ID, URL and checksum are now recorded on the canonical file without creating a second file.
-- **`src/data/lyrics/mili-rihaai-to-abid-ye-kaam-kar-ke-chale.md`:** Five new three-line stanzas from `tajpoints:7c0ac3f77a854cef0b86` are now included in the **same original bilingual file**, with Roman and Urdu stanza labels **1–9**. The redundant `mili-rehai-tu-abid-ye-kam-kar-ke-chaley-extended.md` no longer exists. The source's garbled line ending “Yehi Husain Alh Aslam Kar Ke Chale” and its provisional Urdu require independent editorial verification before final approval.
-- **`src/data/lyrics/masjide-kufa-hai.md`:** The recovered full Urdu verses from `nohawriteups:165979e899de5445d1f4` correspond to the canonical five-stanza bilingual edition. Their source checksum and URL are attached to the original Markdown; no duplicate created.
-- **`src/data/lyrics/aawaaz-do-baba-mujhe-aawaaz-do-baba.md`:** The previously truncated Roman fragment `nohawriteups:4458c1687bfc8ea1e3b1` was re-extracted from its immutable gzip source and added as one nine-stanza unpublished draft. The source's “mamloos” phrase remains flagged as uncertain.
-- **`src/data/lyrics/logo-main-zainab-haan-meri-yasrab-wich-toqeer.md`:** Both repeated NohaWriteups Panjabi-in-Urdu-script sources (`3ac54d3a10213d8713e6` and `ba12d1e166cc26867e93`) are consolidated with the original TajPoints Roman text. No second poem file; final audio alignment is still pending.
-- The already represented **`Tum Bin Raaton Se`**, **`Aa Ali Asghar`**, **`Aa Dekh Mere Ghazi`**, **`Aa Sunawaaṅ Shaan Teno`**, **`Aabad Hui Karbobala`**, **`Aao Baba Ko Rukhsat Karo`**, **`Abbas Teri Behno`**, **`Abbas Ka Jab Zikre`**, and **`Aati Hai Gardoon Se`** retain one canonical poem each, with newly linked NohaWriteups source IDs, URLs and hashes.
+## Source-specific adjudication rules and exceptions
 
-## Previous TajPoints/NoHayOnline exclusions
+Keep *one canonical Markdown per distinct composition*. Do not merge by similar titles alone. Compare real verses, including stanza continuations and scripts. Keep every unique stanza, and record any unresolved conflicting readings without overwriting a previously reviewed Urdu or Roman line. Add source IDs, original URLs, and raw source hashes on the canonical file. Repeated refrains and explicitly duplicated x2 markers should not turn into extra stanza text. Do not confuse the English translation field with Roman transliteration. Panjabi Urdu-script verse is not a Roman Urdu translation; retain it even where the present site schema lacks a separate Panjabi edition.
 
-- `nohayonline:e1f435fbf6aacc9b96c9`: duplicate of existing `alwida-alwida-alwida-ay-hussain.md`
-- `nohayonline:f9a1909d4b7f66481997`: user-confirmed duplicate Marsiya; canonical filename not yet established
-- `nohayonline:6a6dbfa5b13110ddf127`: 21 numbered stanza groups already covered by `kabhi-kabhi-main-ye-sochta-hun.md`
-- `tajpoints:8d499841ad78e982aa3b`: no new source stanza beyond `aao-baba-ko-rukhsat-karo.md`
-- `tajpoints:32ea392a8195c4055d7b`: already represented as bilingual `ab-raat-ho-chuki.md`
-- `tajpoints:9ddbb94dcacdd2d88827`: Terms & Conditions, not a poem
+**Eight explicitly flagged pair consolidations:**
+- `Ay Musalman Kash Socha Hota`: two alternative sources, full six-stanza version kept, including two extra closing stanzas
+- `Ay Shaam Ke Logon Mein Binte Ali Hoon`: two matching eight-stanza Roman sources consolidated
+- `Bay Dard Musalamaan To Khushiyan`: the bilingual source and shorter Roman-only reading combined without discarding Urdu
+- `Abh Bhi Aati Hai Sakina Ki Sadain Logon`: two six-stanza Roman source readings consolidated
+- `Aajao Chaand Mere Teri Pyaas Mein`: fuller six-stanza source kept rather than the four-stanza abridgment
+- `Akhiyan Fazal Diyan Takdiyan Reh Gaiyan`: two Roman Panjabi sources consolidated
+- `Baba Jan Shimr Ne Jab`: same multi-section poem in two captures; original Farsi interlude retained once
+- `Bhare Darbar Mein Roti Rahi Khari Zehra`: bilingual source has an Urdu-only Murtaza-and-rope stanza absent from the shared Roman version; **all eight** retained in one bilingual draft
 
-## Editorial follow-up before publishing
+**Recovered broken or mislabeled extraction:**
+- `deeva-baleya-na-phul-paaey-eh.md`: six restored Roman Panjabi stanzas
+- `dukhte-hain-mere-kaan.md`: source English translation removed from mistaken Roman track, genuine Roman transliteration supplied
+- `ajeeb-qaidi-hain-sare-quran-parhte-hain.md`: Urdu and Panjabi original-script versions kept in a single unpublished draft pending separate Panjabi-edition representation
 
-Every newly staged source draft retains raw source identity and provenance, but the source text alone is **not** proof of finished stanza boundaries, complete Urdu/Roman alignment or canonical transliteration. In particular, nine TajPoints drafts have fewer than five source lines, and the 70 NohaWriteups records include source-level refrain repetitions or unusual spacing needing manual passes.
+**Existing editions linked rather than duplicated:** `andhere-dasht-may.md`, `abbas-ay-shere-nayastan-e-haider.md`, `ay-bekafan-hussain.md`, `ajeeb-hai-dastane.md`, `darya-behta-raha.md` and `bibi-madina-aagaya.md`. The last still has a **source-specific stanza-5 variant** needing independent verification; its original canonical text was not replaced. Similarly titled but *different* lyrics are preserved separately as `aye-baade-saba-jake-ye-ammu.md`, `binte-zahra-ka-khula-sar-hai-khuda-khair-kare.md`, `ay-mere-baba-jan-darbar-e-sham.md`, and `dil-mein-karbala-hai.md`.
 
-Three NoHayOnline bilingual sources had literal stray `<` or `r>` debris removed; `nohayonline:1a787a7d7e3008025ff6` may have a missing Urdu opening line and needs review. TajPoints and NoHayOnline alternative editions in `chore/remaining-5294-kalams-2026-11-14` must still be checked before final integration.
+## Original TajPoints and NoHayOnline pass
 
-**Do not merge as completed lyrics yet.** Nothing in this source staging means automatically accepted, reviewed or published. The historic queue continues to show unadjudicated works until the normal manual reviews and evidence-backed dispositions are complete.
+The initial source-identity manifest contains **109 TajPoints/NoHayOnline records**. Two additional historical captures were linked directly into pre-existing bilingual canonical poems; **107** individual lyric drafts were newly staged (101 TajPoints Roman only, three NoHayOnline bilingual, three Roman only). The initial NohaWriteups 125-source batch added 71 draft poems; total source staging continues in this branch.
 
-## Additional NohaWriteups decisions (2026-11-14)
+- `ghazi-tere-baad.md`: canonical bilingual Urdu/Roman restored; TajPoints `a267e031f3ec6d147510` linked without creating another lyric
+- `mili-rihaai-to-abid-ye-kaam-kar-ke-chale.md`: five additional stanzas merged into the *original* bilingual poem, now nine total. Its incoming corrupted source line **still requires independent verification**
+- `masjide-kufa-hai.md`: extra source `nohawriteups:165979e899de5445d1f4` independently recovered and linked to existing five-stanza bilingual edition
+- `aawaaz-do-baba-mujhe-aawaaz-do-baba.md`: nine-stanza Roman original re-extracted from archived HTML, with disputed source word pending proof
+- `logo-main-zainab-haan-meri-yasrab-wich-toqeer.md`: two NohaWriteups Urdu-script Panjabi source duplicates consolidated with the original TajPoints Roman, audio alignment still pending
+- `nohayonline:1a787a7d7e3008025ff6`: missing Urdu opening line suspected; remains editorial follow-up
 
-The new cumulative CSV contains 359 decisions, of which all 125 were already covered by `nohawriteups-review-decisions-1-status.csv`. The original uploaded cumulative decisions are preserved as `audit/nohawriteups-review-decisions-input.csv`; the 234 newly encountered source IDs appear in `audit/nohawriteups-review-status.csv` with pointers to their archived source metadata in `GhayurH/kalam-archive-imports`.
+## Remaining manual work
 
-Of the 234, 20 are excluded as no-lyrics sources; 214 have valid lyric content and seven user-identified duplicate pairs. The `Ay Musalman Kash Socha Hota` pair (`6837975942943b9d74ad` and `71fc831cabef614a2267`) is preserved in one unpublished Roman draft containing the two closing stanzas missing from the four-stanza source. Other new lyric sources are **not yet materialized**, and the other six duplicate pairs require manual comparison, not automatic deletion. The Urdu+Panjabi partially extracted entry still requires recovery. Source captures remain untouched; valid identification is not completion of editorial review.
+**269 individually classified NohaWriteups sources** still need full comparisons against every relevant existing lyric edition, and **937 blank CSV records** have no classification yet. After deduplication, remaining valid poems need source-grounded stanza alignment, transliteration according to `docs/` conventions, Urdu completeness, metadata and original-source verification. No `published: false` draft has been automatically declared complete.
 
-Further manual consolidation: both `Ay Shaam Ke Logon Mein Binte Ali Hoon` sources share all eight substantive three-line stanzas; one unpublished Roman draft retains both source IDs. `Bay Dard Musalamaan To Khushiyan` has a seven-stanza bilingual source alongside its Roman-only duplicate; one unpublished bilingual draft retains both, with source Urdu spelling awaiting review. The two pairs' four status entries are marked `consolidated_new_draft`.
-
-
-## Unified cumulative source review
-
-Latest uploaded `review-decisions.csv`: 1,387 unique NohaWriteups sources; 450 classified and 937 left blank/unreviewed. Includes 91 classifications added after the previous 359-record batch. `audit/nohawriteups-review-status.csv` is the **sole** NohaWriteups review status tracker. The latest uploaded source decisions are preserved separately as `audit/nohawriteups-review-decisions-input.csv` (input data, not status tracker). The previous two status CSVs have been removed to prevent divergence. Existing 359 processing outcomes and linked canonical paths remain intact. Blank rows cannot be considered authorized deletion or import. Further source-text recovery and manual deduplication are pending and must be explicitly updated in this tracker.
-
-## Additional manually compared duplicates
-
-Compared original archived HTML wordings for pairs `0c682c979a278cde270b`/`911cc2d083a76a5c2549` (six matching stanzas), `e3798be5d05969236a50`/`57de9f07642a7f0cab92` (six-stanza fuller source versus four-stanza shorter source), and `0f12489f72a6f0edff23`/`6b12adf581732b13adf1` (four Panjabi stanzas with orthographic variants). One unpublished MD per poem; source IDs and archive checksums linked. The fuller Aajao source retains the two closing stanzas absent in the shortened capture. Updated sole status tracker; canonical transliteration remains pending.
-
-## Recovered source exceptions
-
-- `nohawriteups:eb6d046a16e2f33a14e3`: all six originally lost Roman Panjabi stanzas staged in one unpublished MD.
-- `nohawriteups:3327dcfb0d905cc4b342`: the prose English translations previously mislabeled Roman have been **excluded**; the new Roman track transliterates the Urdu verses rather than translating them, with both editions in the same unpublished file.
-- `nohawriteups:7629074f8c13f4d2aad6`: source preserves Urdu and Panjabi versions in the original script. Both retained in a single unpublished source MD, separated by an explicit section divider until the site can represent the Panjabi text as its own edition. Not yet Roman-aligned.
-
-These are source recoveries, not finished editorial approval. All outcomes are recorded exclusively in `audit/nohawriteups-review-status.csv`.
-
-## First additional individually adjudicated sources
-
-- `03da03dcd5d2fb9bb961`: independently compared all five substantive couplets with `andhere-dasht-may.md` and linked its archived source to the existing bilingual poem; no second file.
-- `08fbcc33d079ca6d7fbb`: linked seven matching source verses to the fuller existing `abbas-ay-shere-nayastan-e-haider.md`, retaining the canonical poem's additional verses.
-- `0642440f6de94b5b0aa2`: a **different** poem despite its shared 'baad-e-saba' title motif. Kept separate as eight-stanza unpublished Roman draft addressing Abbas and Sakina; the pre-existing `ay-baade-saba-ja.md` is an Asghar poem and remains untouched.
+Do not claim successful `npm run source:sync`, `npm run check`, or `npm run build` until the branch has actually been checked. The source archive in the import repository must remain untouched.
