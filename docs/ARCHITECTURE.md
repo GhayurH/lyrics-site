@@ -40,7 +40,7 @@ The `scripts/source-workflow.mjs` command orchestrates source checks and sync. T
 
 `src/pages/` owns routes, static catalog JSON and source-specific endpoints. `src/components/` contains reusable Astro markup. `src/layouts/BaseLayout.astro` owns global HTML, metadata and theme initialization.
 
-- Individual lyrics: `/lyrics/[id]/`. The route delegates metadata/header and Pagefind indexing to `LyricHeader.astro` and `LyricSearchIndex.astro`.
+- Individual lyrics: `/lyrics/[id]/`. The route delegates metadata/header and Pagefind indexing to `LyricHeader.astro` and `LyricSearchIndex.astro`. Standalone lyric readers offer only available Urdu/Roman text editions; original scans are exclusive to Basta.
 - Basta: landing, printed pages (`/basta/[page]/`), index, continuous (`/basta/read/`), verified individual poem (`/basta/kalam/[id]/`). Unverified source mappings retain printed-page access but do **not** acquire verified poem URLs.
 - Catalog endpoints under `/data/` are generated from published sources. `lib/catalog.ts` owns lyric card and Recitation catalog adapters, including canonical identities.
 - Search: Pagefind is built from rendered pages; `lib/search-normalization.ts` adds search-only aliases without modifying displayed poetry.
