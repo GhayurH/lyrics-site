@@ -6,47 +6,48 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hassan hussain se pehle shaheed e kamsin hai
-  Wo koi aur nahi sayyeda ka mohsin hai
+  Hasan Husain se pehle shahid kamsin hai
+  Wo koi aur nahiṅ Sayyeda ka Mohsin hai
 
   1
-  Hua shaheed jo deewar o dar ke beech aa kar
-  Jise bachane se zakhmi hai pehlu e maadar
+  Hua shahid jo diwaar o dar ke bich aa kar
+  Jise bachaane se zakhmi hai pehlu-e-maadar
   Udaas is ke liye raat ghamzada din hai
 
   2
-  Wo jisne karbobala ka safar kiya hi nahi
-  Zaban se jisne abhi maa ko maa kaha hi nahi
-  Wo jhoolta kisi jhule mein kya ye mumkin hai
+  Wo jis ne Karb o Bala ka safar kiya hi nahiṅ
+  Zabaaṅ se jis ne abhi maaṅ ko maaṅ kaha hi nahiṅ
+  Wo jhulta kisi jhule mein kya ye mumkin hai
 
   3
-  Ali ne aisa janaza kahan uthaya hai
-  Shaheed ho ke jo maidan e gham mein aaya hai
-  Wo sheerkhwar jo na waaqif e qadh o sin hai
+  Ali ne aisa janaaza kahaaṅ uthaaya hai
+  Shahid ho ke jo maidaan-e-gham mein aaya hai
+  Wo shirkhwaar jo na waaqif qad o sin hai
 
   4
-  Wo jis ko ghusl o kafan ki kahan zaroorat thi
-  Wo jis ke tan pe ba-misle khuda taharat thi
-  Jo karbala ki zameen ka imam e zaamin hai
+  Wo jis ko ghusl o kafan ki kahaaṅ zarurat thi
+  Wo jis ke tan pe ba misl-e-Khuda tahaarat thi
+  Jo Karbala ki zamiṅ ka Imam-e-Zaamin hai
 
   5
-  Qasam khuda ki ba-misle hussain ibne ali
-  Shaheed hogaya lekin madad kisi ki na li
-  Malool iske liye qaum e zaafare jinn hai
+  Qasam Khuda ki ba misl-e-Husain Ibn-e-Ali
+  Shahid ho gaya lekin madad kisi ki na li
+  Malul is ke liye qaum-e-Zaafar-e-jinn hai
 
   6
-  Isi ke azm ki taqleed ki hai asghar ne
-  Isay shaheed kiya hai sitam ke lashkar ne
-  Malool taygh e ali is shaheed ke bin hai
+  Isi ke azm ki taqlid ki hai Asghar ne
+  Ise shahid kiya hai sitam ke lashkar ne
+  Malul tegh-e-Ali is shahid ke bin hai
 
   7
-  Firaaq e hazrate mohsin mein mar gayi zahra
-  Kisi bhi maa pe na utre ye be-amaan sadma
-  Ye dard samjhega rehaan jo bhi momin hai
+  Firaaq-e-Hazrat-e-Mohsin mein mar gayi Zahra
+  Kisi bhi maaṅ pe na utre ye beamaaṅ sadma
+  Ye dard samjhega Rehaan jo bhi momin hai
 # source_id: nohayonline:9bddb8f51ac82ce9149f
 # source_url: https://www.nohayonline.com/details_content.php?id=1828
 # raw_sha256: 20d391f52b858a03a11d3c23f8db9a2f3215ae96dc9307e734756b04a2f31142
@@ -56,7 +57,7 @@ romanLyrics: |-
 
 ۱
 ہوا شہید جو دیوار و دَر کے بیچ آ کر
-جسے بچانے سے زخمی ہے پہلوے‌ مادر
+جسے بچانے سے زخمی ہے پہلوئے مادر
 اداس اس کے لئے رات غمزدہ دن ہے
 
 ۲
@@ -72,7 +73,7 @@ romanLyrics: |-
 ۴
 وہ جس کو غسل و کفن کی کہاں ضرورت تھی
 وہ جس کے تن پہ بہ مثل خدا طہارت تھی
-جو کربلا کی زمیں کا أمام ضامن ہے
+جو کربلا کی زمیں کا امام ضامن ہے
 
 ۵
 قسم خدا کی بہ مثل حسین ابنِ علی
@@ -80,11 +81,11 @@ romanLyrics: |-
 ملول اس کے لئے قوم زعفر جن ہے
 
 ۶
-اسی کے عظم کی تقلید کی ہے اصغر نے
+اسی کے عزم کی تقلید کی ہے اصغر نے
 اسے شہید کیا ہے ستم کے لشکر نے
 ملول تیغ علی اس شہید کے بن ہے
 
 ۷
-فراق حضرت محسن میں مر گیء زہرا
+فراق حضرت محسن میں مر گئی زہرا
 کسی بھی ماں پہ نہ اترے یہ بے اماں صدمہ
 یہ درد سمجھے گا ریحان جو بھی مومن ہے

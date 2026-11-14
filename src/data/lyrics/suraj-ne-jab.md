@@ -5,56 +5,57 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Tableegh-e-Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Suraj ne jab sehar ka safar kar liya tamam
-  Qaimo ki samt badne laga phir ghuroore shaam
+  Suraj ne jab sehar ka safar kar liya tamaam
+  Khaimoṅ ki samt barhne laga phir ghurur-e-shaam
   Zulmat ne roshni se liya kaisa inteqaam
-  Jalne lage rasool ki aulaad ke qayaam
-  Shola fishaniyo ka nateeja ayan hua
-  Har arshe bari ki samt rawana dhuan hua
+  Jalne lage Rasul ki aulaad ke khiyaam
+  Shola fishaaniyoṅ ka natija ayaaṅ hua
+  Har arsh-e-bariṅ ki samt rawaana dhuaaṅ hua
 
   1
-  Ummat nabi ki loot rahi thi nabi ka ghar
-  Tareekh likh rahi thi ye rodaad khair o shar
-  Daman tha karbala ka shaheedo ke khoon se tar
-  Bikhra pada tha khaak pe quran idhar udhar
-  Kitne machal rahe thay fizaon ki godh mein
-  Bache dehal ke chup gaye maa'on ki godh mein
+  Ummat Nabi ki lut rahi thi Nabi ka ghar
+  Taarikh likh rahi thi ye rudaad khair o shar
+  Daaman tha Karbala ka shahidoṅ ke khuṅ se tar
+  Bikhra para tha khaak pe Quraaṅ idhar udhar
+  Kitne machal rahe the fizaaoṅ ki god mein
+  Bachche dihal ke chhup gaye maa'oṅ ki god mein
 
   2
-  Aise mein ek rasool ki bemisl yaadgaar
-  Qaimon ki aag jiski ghareebi se sharmsaar
-  Abid ki justuju mein bahattar ki soghwaar
-  Jaati thi qaimagah mein ghabrake baar baar
-  Paaya jo ghash mein hujjate parwar digaar ko
-  Zainab uthake laayi shariyat ke baar ko
+  Aise mein ek Rasul ki bemisl yaadgaar
+  Khaimoṅ ki aag jis ki gharibi se sharmsaar
+  Aabid ki justuju mein bahattar ki sogwaar
+  Jaati thi khaima gaah mein ghabra ke baar baar
+  Paaya jo ghash mein hujjat-e-Parwardigaar ko
+  Zainab utha ke laayi shariat ke baar ko
 
   3
-  Shana hila ke sayyede sajjad se kaha
-  Beta utho ke sar se mere chin chuki rida
-  Baaje baja rahe hai udhar dushmane khuda
-  Naize pe aa chuka hai sare shaahe karbala
-  Dhaaye hue ye raat qayamat ka roop hai
-  Ab iske baad subho aseeri ki dhoop hai
+  Shaana hila ke Sayyad-e-Sajjad se kaha
+  Beta utho ke sar se mere chhin chuki rida
+  Baaje baja rahe haiṅ udhar dushman-e-Khuda
+  Naize pe aa chuka hai sar-e-Shaah-e-Karbala
+  Dhaaye hue ye raat qayaamat ka rup hai
+  Ab is ke baad subh o asiri ki dhup hai
 
   4
-  Kitna kathin tha saani e zehra ka imtehan
-  Bhai ka gham raseeda liye ghar ki pasbaan
-  Qaime to jal chuke thay basad hoti shab kahan
-  Sehra ki khaak zere qadam sar pe aasman
-  Abbas ke amal ko fareeza bana liya
-  Zainab ne ab hussain ka parcham utha liya
+  Kitna kathin tha Saani-e-Zehra ka imtihaaṅ
+  Bhai ka gham rasida liye ghar ki paasbaaṅ
+  Khaime to jal chuke the basar hoti shab kahaaṅ
+  Sehra ki khaak zer-e-qadam sar pe aasmaaṅ
+  Abbas ke amal ko fariza bana liya
+  Zainab ne ab Husain ka parcham utha liya
 
   5
-  Maqtal se suye shaam hua khaafila rawan
-  Oonton pe ahle bayt thay sajjad saarban
-  Kaanton pe chal raha shariyat ka pasbaan
-  Gardan ka tauq paon ki zanjeer nauhakhan
-  Allah ki raza ko galay se lagaye tha
-  Bemaar baar aalame imkaan uthaye tha
+  Maqtal se su-e-Shaam hua qaafila rawaaṅ
+  Untoṅ pe Ahl-e-Bait the Sajjad saarbaaṅ
+  Kaantoṅ pe chal raha tha shariat ka paasbaaṅ
+  Gardan ka tauq paaoṅ ki zanjir nauha khwaaṅ
+  Allah ki raza ko gale se lagaaye tha
+  Bimaar baar aalam-e-imkaaṅ uthaaye tha
 # source_id: nohayonline:e1243dc1c79279556cc8
 # source_url: https://www.nohayonline.com/details_content.php?id=657
 # raw_sha256: fb754b126ac1768f74bc7effbb95319520671dd46b28c78a6fc3df04d1014b9c
