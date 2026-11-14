@@ -79,7 +79,7 @@ nohawriteups:53e7a105989fcabe4d1b,valid roman only,pending_manual_dedup,,,,snaps
 nohawriteups:54158ed49257c211b1f4,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/54158ed49257c211b1f4.json,
 nohawriteups:54a6fd427e515b8299f2,valid roman only,pending_pair_consolidation,,,,snapshots/nohawriteups/metadata/54a6fd427e515b8299f2.json,dup of prev; paired_source_id=nohawriteups:c555c61f06e54c04487b
 nohawriteups:54c4169528c7f002f0f7,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/54c4169528c7f002f0f7.json,
-nohawriteups:54ccb71cfe9ef47ffd86,valid roman only,pending_pair_consolidation,,,,snapshots/nohawriteups/metadata/54ccb71cfe9ef47ffd86.json,dup of prev; paired_source_id=nohawriteups:a63f6367e2c551c00d24
+nohawriteups:54ccb71cfe9ef47ffd86,valid roman only,consolidated_new_draft,src/data/lyrics/ay-shaam-ke-logon-mein-binte-ali-hoon.md,https://www.nohawriteups.org/ay-sham-ke-logon-mei-binte-ali-hoon/,6394a17b9801acbe70b9bada94f2965ad167d78100ae49981c07007f69b74776,snapshots/nohawriteups/metadata/54ccb71cfe9ef47ffd86.json,dup of prev; paired_source_id=nohawriteups:a63f6367e2c551c00d24; Two source readings consolidated into one unpublished lyric draft; final transliteration review pending
 nohawriteups:55182d2d4dae063fe2b9,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/55182d2d4dae063fe2b9.json,
 nohawriteups:55bec81ded6f68fce774,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/55bec81ded6f68fce774.json,
 nohawriteups:57c4fb7134afd3ba8665,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/57c4fb7134afd3ba8665.json,
@@ -160,7 +160,7 @@ nohawriteups:a556087ce3a8bc866374,valid roman only,pending_manual_dedup,,,,snaps
 nohawriteups:a5beb8096f7e30b065a3,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/a5beb8096f7e30b065a3.json,
 nohawriteups:a5e446d83094c370534f,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/a5e446d83094c370534f.json,
 nohawriteups:a5ee7f0a42699723b177,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/a5ee7f0a42699723b177.json,
-nohawriteups:a63f6367e2c551c00d24,valid roman only,pending_pair_consolidation,,,,snapshots/nohawriteups/metadata/a63f6367e2c551c00d24.json,dup of next; paired_source_id=nohawriteups:54ccb71cfe9ef47ffd86
+nohawriteups:a63f6367e2c551c00d24,valid roman only,consolidated_new_draft,src/data/lyrics/ay-shaam-ke-logon-mein-binte-ali-hoon.md,https://www.nohawriteups.org/ay-shaam-ke-logon-mein-binte-ali-hoon/,5df787bb64e243bad4931edd8c7dee482bc69eabb58102e3608cde844a7073e4,snapshots/nohawriteups/metadata/a63f6367e2c551c00d24.json,dup of next; paired_source_id=nohawriteups:54ccb71cfe9ef47ffd86; Two source readings consolidated into one unpublished lyric draft; final transliteration review pending
 nohawriteups:a6758b5cbf936d7668d7,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/a6758b5cbf936d7668d7.json,
 nohawriteups:a729803fc4319b86e6ad,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/a729803fc4319b86e6ad.json,
 nohawriteups:a741e9dca141e53285cf,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/a741e9dca141e53285cf.json,
@@ -202,7 +202,7 @@ nohawriteups:cc3f61d2a0063c277837,valid roman only,pending_manual_dedup,,,,snaps
 nohawriteups:cc9c66f27cfb972cac41,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/cc9c66f27cfb972cac41.json,
 nohawriteups:cceaf0c29c5f851c1bf4,valid urdu only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/cceaf0c29c5f851c1bf4.json,
 nohawriteups:ccef1d943c8b1c070940,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/ccef1d943c8b1c070940.json,
-nohawriteups:cd615484ed2bf27920e0,valid roman only,pending_pair_consolidation,,,,snapshots/nohawriteups/metadata/cd615484ed2bf27920e0.json,dup of next; paired_source_id=nohawriteups:fe67c71e34287514391b
+nohawriteups:cd615484ed2bf27920e0,valid roman only,consolidated_new_draft,src/data/lyrics/bay-dard-musalamaan-to-khushiyan.md,https://www.nohawriteups.org/bay-dard-musalamaan-to-khushiyan/,3cc8ffda876df6c1dce81995dd4520b61b94945f5de0a0ad306b41fe9f872779,snapshots/nohawriteups/metadata/cd615484ed2bf27920e0.json,dup of next; paired_source_id=nohawriteups:fe67c71e34287514391b; Two source readings consolidated into one unpublished lyric draft; final transliteration review pending
 nohawriteups:d21769d13da5c7556925,"no lyrics, delete",no_lyrics,,,,snapshots/nohawriteups/metadata/d21769d13da5c7556925.json,User-approved exclusion; no Markdown file created; original archive preserved
 nohawriteups:d39a18434f736ab2c881,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/d39a18434f736ab2c881.json,
 nohawriteups:d54c62089c90b22ae756,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/d54c62089c90b22ae756.json,
@@ -232,4 +232,4 @@ nohawriteups:fa4b20608903ab40d082,"no lyrics, delete",no_lyrics,,,,snapshots/noh
 nohawriteups:fbf99c0e937d4ca34d52,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/fbf99c0e937d4ca34d52.json,
 nohawriteups:fc05724581d60578abc9,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/fc05724581d60578abc9.json,
 nohawriteups:fe0c29f004b1a0223a07,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/fe0c29f004b1a0223a07.json,
-nohawriteups:fe67c71e34287514391b,valid roman+urdu,pending_pair_consolidation,,,,snapshots/nohawriteups/metadata/fe67c71e34287514391b.json,dup of prev; paired_source_id=nohawriteups:cd615484ed2bf27920e0
+nohawriteups:fe67c71e34287514391b,valid roman+urdu,consolidated_new_draft,src/data/lyrics/bay-dard-musalamaan-to-khushiyan.md,https://www.nohawriteups.org/bay-dard-musalamaan-tuh-khushiyan/,569e2d09501e299e18f9d800da7515a866d182ff5d6b67cbebd54e112ce21992,snapshots/nohawriteups/metadata/fe67c71e34287514391b.json,dup of prev; paired_source_id=nohawriteups:cd615484ed2bf27920e0; Two source readings consolidated into one unpublished lyric draft; final transliteration review pending
