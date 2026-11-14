@@ -6,84 +6,85 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Danish Mirza"
+reciter: "Mir Rehan Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jaane laga madine se jab sheh ka khaafila
-  Sughra ke paas aa ke ye maula ne tab kaha
+  Jaane laga Madine se jab Shah ka qaafila
+  Sughra ke paas aa ke ye Maula ne tab kaha
+  Ae meri laadli tera haafiz hai ab Khuda
+  Sar ko kataane jaata huṅ main su-e-Nainawa
 
   1
-  Ay meri laadli tera haafiz hai ab khuda
-  Sar ko katane jaata hoo mai suye nainawa
-  Hum jaa rahe hai sughra hafiz khuda tumhara
-  Rakhna khayal apna haafiz khuda tumhara
+  Hum jaa rahe haiṅ Sughra haafiz Khuda tumhaara
+  Rakhna khayaal apna haafiz Khuda tumhaara
 
   2
-  Ro kar hussain bole jab yaad aaye meri
-  Marqad pe nana jaan ke jaana tu meri beti
-  Tujhko sukoon milega haafiz khuda tumhara
+  Ro kar Husain bole jab yaad aaye meri
+  Marqad pe naana jaaṅ ke jaana tu meri beti
+  Tujh ko sukuṅ milega haafiz Khuda tumhaara
 
   3
-  Karbal ki sar zameen pe mera gala katega
-  Tere padar ko koi haye kafan na dega
-  Ye zulm mujhpe hoga haafiz khuda tumhara
+  Karbal ki sar zamiṅ pe mera gala katega
+  Tere padar ko koi haaye kafan na dega
+  Ye zulm mujh pe hoga haafiz Khuda tumhaara
 
   4
-  Tujhko sunaun sughra karbal ki mai kahani
-  Aale nabi pe hoga maqtal mein band pani
-  Pyaasa rahega kunba haafiz khuda tumhara
+  Tujh ko sunaauṅ Sughra Karbal ki main kahaani
+  Aal-e-Nabi pe hoga maqtal mein band paani
+  Pyaasa rahega kunba haafiz Khuda tumhaara
 
   5
-  Hasrat har ek dil ki bas aaj hi manalun
-  Akbar ko apne dulha beta abhi banalun
-  Bhaiya na phir milega haafiz khuda tumhara
+  Hasrat har ek dil ki bas aaj hi mana luṅ
+  Akbar ko apne dulha beta abhi bana luṅ
+  Bhaiya na phir milega haafiz Khuda tumhaara
 
   6
-  Waapas kabhi na haye aayega tera akbar
-  Gardan pe teer khaa kar pyaasa marega asghar
-  Naize pe sar rahega haafiz khuda tumhara
+  Waapas kabhi na haaye aayega tera Akbar
+  Gardan pe tir khaa kar pyaasa marega Asghar
+  Naize pe sar rahega haafiz Khuda tumhaara
 
   7
-  Tere chacha ke ran mein kat jayenge jo shaane
-  Bache sabhi haram ke haye rahenge pyase
-  Ye bhi sitam hai hona haafiz khuda tumhara
+  Tere chacha ke ran mein kat jaayeṅge jo shaane
+  Bachche sabhi haram ke haaye raheṅge pyaase
+  Ye bhi sitam hai hona haafiz Khuda tumhaara
 
   8
-  Chin jaayegi ridayein qaidi banegi itrat
-  Haalat pe bekason ki royegi haye ghurbat
-  Phekega koi sadqa haafiz khuda tumhara
+  Chhin jaayegi ridaaeṅ qaidi banegi itrat
+  Haalat pe bekasoṅ ki royegi haaye ghurbat
+  Pheṅkega koi sadqa haafiz Khuda tumhaara
 
   9
-  Rehan kya padhun mai ek baap ki wo ruqsat
-  Kaise likhega danish dono ke dil ki haalat
-  Rote thay keh ke maula haafiz khuda tumhara
+  Rehan kya parhuṅ main ek baap ki wo rukhsat
+  Kaise likhega Danish donoṅ ke dil ki haalat
+  Rote the keh ke Maula haafiz Khuda tumhaara
 # source_id: nohayonline:e243c82537cd737011bc
 # source_url: https://www.nohayonline.com/details_content.php?id=2117
 # raw_sha256: 37a24c3a33f6eb567683fca513ee02531b5472cecba99d5078a3617f14ffbcbd
 ---
 جانے لگا مدینے سے جب شہ کا قافلہ
 صغریٰ کے پاس آ کے یہ مولا نے تب کہا
+اے میری لاڈلی تیرا حافظ ہے اب خدا
+سر کو کٹانے میں جاتا ہوں میں سوئے نینوا
 
 ۱
-اے میری لاڈلی تیرا حافظ ہے اب خدا
-سر کو کٹانے میں جاتا ہوں میں سوے نینوا
 ہم جا رہے ہیں صغرا حافظ خدا تمہارا
 رکھنا خیال اپنا حافظ خدا تمہارا
 
 ۲
-رو کر حسین بولے جب یاد آے میری
+رو کر حسین بولے جب یاد آئے میری
 مرقد پہ نانا جاں کے جانا تو میری بیٹی
-تجھکو سکوں ملے گا حافظ خدا تمہارا
+تجھ کو سکوں ملے گا حافظ خدا تمہارا
 
 ۳
 کربل کی سر زمیں پہ میرا گلا کٹے گا
-تیرے پدر کو کوئی ہاے کفن نہ دے گا
+تیرے پدر کو کوئی ہائے کفن نہ دے گا
 یہ ظلم مجھ پہ ہو گا حافظ خدا تمہارا
 
 ۴
-تجھکو سناؤں صغرا کربل کی میں کہانی
-آل نبی پہ ہوگا مقتل میں بند پانی
+تجھ کو سناؤں صغرا کربل کی میں کہانی
+آلِ نبی پہ ہوگا مقتل میں بند پانی
 پیاسا رہے گا کنبہ حافظ خدا تمہارا
 
 ۵
@@ -92,18 +93,18 @@ romanLyrics: |-
 بھیا نہ پھر ملے گا حافظ خدا تمہارا
 
 ۶
-واپس کبھی نہ ہاے آے گا تیرا اکبر
+واپس کبھی نہ ہائے آئے گا تیرا اکبر
 گردن پہ تیر کھا کر پیاسا مرے گا اصغر
 نیزے پہ سر رہے گا حافظ خدا تمہارا
 
 ۷
-تیرے چچا کے رن میں کٹ جایینگے جو شانے
-بچے سبھی حرم کے ہاے رہیں گے پیاسے
+تیرے چچا کے رن میں کٹ جائیں گے جو شانے
+بچے سبھی حرم کے ہائے رہیں گے پیاسے
 یہ بھی ستم ہے ہونا حافظ خدا تمہارا
 
 ۸
-چھن جاے گی رداییں قیدی بنے گی عطرت
-حالت پہ بکسوں کی روے گی ہاے غربت
+چھن جائے گی ردائیں قیدی بنے گی عترت
+حالت پہ بے کسوں کی روئے گی ہائے غربت
 پھیکیں گے کوئی صدقہ حافظ خدا تمہارا
 
 ۹

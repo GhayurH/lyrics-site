@@ -6,46 +6,49 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Suraiya"
+reciter: "Ali Zia Rizvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sughra mai lut kar aayi hoo
-  Karbobala ki daastan
-  Kaise sunegi natawan
-  Bas ye samajh le neem jaan
-  Sughra mai lut kar aayi hoo
-  
+  Sughra main lut kar aayi huṅ
+
+  Karb o Bala ki daastaan
+  Kaise sunegi naatawaaṅ
+  Bas ye samajh le nim jaaṅ
+  Sughra main lut kar aayi huṅ
+
   1
-  Do thay mere shams o qamar
+  Do the mere shams o qamar
   Aise gaye aaye na ghar
-  Dono gaye suye jina
-  
+  Donoṅ gaye su-e-jinaaṅ
+
   2
-  Meri kamayi lut gayi
-  Tasveer e ahmed mit gayi
-  Maara gaya kadiyal jawan
-  
+  Meri kamaayi lut gayi
+  Tasvir-e-Ahmad mit gayi
+  Maara gaya karil jawaaṅ
+
   3
-  Sar kaat kar shabbir ka
-  Naize pa laaye ashkhiya
-  Kaise ho wo manzar bayan
-  
+  Sar kaat kar Shabbir ka
+  Naize pe laaye ashqiya
+  Kaise ho wo manzar bayaaṅ
+
   4
-  Mai thi bhara darbar tha
-  Wo shaam ka bazaar tha
-  Beparda thi sab bibiyan
-  
+  Main thi bhara darbaar tha
+  Wo Shaam ka baazaar tha
+  Beparda thiṅ sab Bibiyaaṅ
+
   5
-  Kyun kar suraiya ho bayan
-  Larze may tha kaun o makaan
-  Zainab jo karti thi bayan
+  Kiun kar Suraiya ho bayaaṅ
+  Larze mein tha kaun o makaaṅ
+  Zainab jo karti thiṅ bayaaṅ
 # source_id: nohayonline:567ce3f43765635cb151
 # source_url: https://www.nohayonline.com/details_content.php?id=260
 # raw_sha256: 2d82edd1b292358a921f27c715766a3fd690bbac61c392daaa6924663454abd9
 ---
 
 صغرا میں لٹ کر آئی ہوں
+
 کرب و بلا کی داستان
 کیسے سنے گی ناتواں
 بس یہ سمجھ لے نیم جاں
@@ -58,12 +61,12 @@ romanLyrics: |-
 
 ۲
 میری کمائی لٹ گئی
-تصویر احمد مٹ گئی
+تصویرِ احمد مٹ گئی
 مارا گیا کڑیل جواں
 
 ۳
 سر کاٹ کر شبیر کا
-نیزے پہ لائے اشقیائ
+نیزے پہ لائے اشقیا
 کیسے ہو وہ منظر بیاں
 
 ۴
