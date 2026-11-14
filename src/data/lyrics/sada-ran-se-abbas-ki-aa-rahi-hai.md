@@ -17,67 +17,66 @@ published: false
 # source_url: https://tajpoints.com/2018/01/sada-ran-se-abbas-ki-aa-rahi-hai-5-8.html
 # raw_sha256: c6038dbde2d177e9a9a265c6c329ab59574e71bb192c316a0310838f7df3ff88
 romanLyrics: |-
-  
-  Sada Ran Se Abbas Ki Aa Rahi Hai
-  Shujat Ki Tareekh Duhra Rahi Hai
-  Rajaz Sun Ke Shair-e-Khuda KePisar Ka
-  Jabeen-e-Do Aalam Jhuki Ja Rahi Hai
+  Sada ran se Abbas ki aa rahi hai
+  Shujaat ki taarikh duhra rahi hai
+  Rajaz sun ke Sher-e-Khuda ke pisar ka
+  Jabin-e-do aalam jhuki ja rahi hai
   
   1
-  Mera Naam Abbas Ghazi Laqab Hai
-  Mujhe Hukam-e-Sarwar Ka Paas-e-Adab Hai
-  Rajaz Ab Sune Mera Foaj-e-Sitamgar
-  Ali Ka Pisar Hoon Yeh Mera Nasab Hai
-  Jo Khaibar Shikan Hai Ameer-e-Arab Hai
+  Mera naam Abbas Ghaazi laqab hai
+  Mujhe hukm-e-Sarwar ka paas-e-adab hai
+  Rajaz ab sune mera fauj-e-sitamgar
+  Ali ka pisar huṅ ye mera nasab hai
+  Jo Khaibar shikan hai Amir-e-Arab hai
   
   2
-  Main Naize Pe Chahoon Zameen Ko Utha Loon
-  Ababeel Ka Bhi Main Lashkar Bula Loon
-  Falak Misal-e-Kagaz Zameen Par Ulat Kar
-  Khuda Ki Qasam Main Ali Se Dua Loon
-  Khuda Ka Ghazab Mera Qehar o Ghazab Hai
+  Main naize pe chaahuṅ zamiṅ ko utha luṅ
+  Abaabil ka bhi main lashkar bula luṅ
+  Falak misl-e-kaaghaz zamin par ulat kar
+  Khuda ki qasam main Ali se dua luṅ
+  Khuda ka ghazab mera qahr o ghazab hai
   
   3
-  Sharaf Hai Ghulam-e-Husain o Hasan Hoon
-  Sakhawat Ki Masnad Pe Jalwah Figan Hoon
-  Fana o Baqa Hain Meri Dastras Mein
-  Main Paband-e-Hukam-e-Imam-e-Zaman Hoon
-  Sheh-e-Deen Ki Chahat Hi Meri Talab Hai
+  Sharaf hai ghulaam-e-Husain o Hasan huṅ
+  Sakhaawat ki masnad pe jalwa figan huṅ
+  Fana o baqa haiṅ meri dastaras mein
+  Main paaband-e-hukm-e-Imaam-e-Zamaaṅ huṅ
+  Shah-e-din ki chaahat hi meri talab hai
   
   4
-  Ali Ki Jabeen Par Hai Jo Noor Main Hoon
-  Daleri Shujat Mein Mashoor Main Hoon
-  Wafa Ta Qayamat Hai Mansoob Mujh Se
-  Haram Ki Hifazat Pe Mamoor Main Hoon
-  Meri Khamshi Ka Faqat Yeh Sabab Hai
+  Ali ki jabiṅ par hai jo nur main huṅ
+  Daleri shujaat mein mashhur main huṅ
+  Wafa taa qayaamat hai mansub mujh se
+  Haram ki hifaazat pe maamur main huṅ
+  Meri khaamshi ka faqat ye sabab hai
   
   5
-  Suno Mera Mansab Hai Mushkil Kushai
-  Zamane Ki Karta Hoon Hajat Rawai
-  Main Zaat o Sifat Mein Ali Ki Tarha Hoon
-  Hai Mere Tasaruf Mein Sari Khudai
-  Keh Babul Hawaij Tu Mera Laqab Hai
+  Suno mera mansab hai mushkil kushaai
+  Zamaane ki karta huṅ haajat rawaai
+  Main zaat o sifaat mein Ali ki tarah huṅ
+  Hai mere tasarruf mein saari khudaai
+  Ke Baab-ul-Hawaaij to mera laqab hai
   
   6
-  Main Chahoon Tu Darya Se Fojein Hata Doon
-  Main Anbar Lashoon Ki Ran Mein Laga Doon
-  Faqat Aik Naize Ki Zarb-e-Giraan Se
-  Jo Chahoon Tu Foaj-e-Addo Ko Mita Doon
-  Hajoom-e-Addo Ki Mujhe Fikar Kab Hai
+  Main chaahuṅ to darya se faujeṅ hata duṅ
+  Main anbaar laashoṅ ki ran mein laga duṅ
+  Faqat ek naize ki zarb-e-giraaṅ se
+  Jo chaahuṅ to fauj-e-adu ko mita duṅ
+  Hujum-e-adu ki mujhe fikr kab hai
   
   7
-  Nabuwat Ko Mere Dada Ne Pala
-  Mere Baba Haider Ne Haq Ko Sanbhala
-  Rag-e-Deen-e-Haq Mein Hamara Laho Hai
-  Nasab Mein Hasab Mein Hoon Sab Se Main Aala
-  Keh Qatil Pe Rehmat Hamara Kasab Hai
+  Nabuwwat ko mere daada ne paala
+  Mere Baaba Haidar ne haq ko sambhaala
+  Rag-e-din-e-haq mein hamaara lahu hai
+  Nasab mein hasab mein huṅ sab se main aala
+  Ke qaatil pe rahmat hamaara kasb hai
   
   8
-  Muhib Ghaiz Mein Tha Ali Ka Ghazanfar
-  Rajaz Sun Ke Larzaan Thi Foaj-e-Sitamgar
-  Tarai Pe Qabza Tha Shair-e-Jari Ka
-  Faqat Yeh Rajaz Tha Jari Ke Labon Par
-  Hamare Sabab Se Wojod-e-Arab Hai
+  Muhib ghaiz mein tha Ali ka Ghazanfar
+  Rajaz sun ke larzaaṅ thi fauj-e-sitamgar
+  Taraai pe qabza tha sher-e-jari ka
+  Faqat ye rajaz tha jari ke laboṅ par
+  Hamaare sabab se wujud-e-Arab hai
 ---
 
 صدا رن سے عباس کی آ رہی ہے
