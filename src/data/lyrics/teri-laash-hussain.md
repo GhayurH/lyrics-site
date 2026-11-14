@@ -1,72 +1,75 @@
 ---
 title: "اتاروں کیسے میں تیروں سے لاش حسین"
-alternateTitle: "Teri Laash Hussain"
+alternateTitle: "Teri Laash Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shams Rizvi"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Utarun kaise mai teeron se teri laash hussain
-  Pisar ke pehlu may baithi ye kehti thi zehra
+  Utaaruṅ kaise main tiroṅ se teri laash Husain
+  Pisar ke pehlu mein baithi ye kehti thi Zehra
+  Utaaruṅ kaise main tiroṅ se teri laash Husain
 
   1
-  Ghira hai teeron ki tu teeragi may lakhte jigar
-  Madad ko apni mai kisko bulaun noore nazar
-  Samajh may kuch nahi aata mai kya karun beta
+  Ghira hai tiroṅ ki tu tiragi mein lakht-e-jigar
+  Madad ko apni main kis ko bulaauṅ nur-e-nazar
+  Samajh mein kuchh nahiṅ aata main kya karuṅ beta
 
   2
-  Nazar nahi mujhe aata hai tera tan beta
-  Dhuan dhuan meri nazro may hai ye ban beta
-  Ke mera qalb to ab ban gaya hai karbobala
+  Nazar nahiṅ mujhe aata hai tera tan beta
+  Dhuaaṅ dhuaaṅ meri nazroṅ mein hai ye ban beta
+  Ke mera qalb to ab ban gaya hai Karb o Bala
 
   3
-  Zamane walon ka ehsaas dekho mar bhi chuka
-  Tha jis pe naaz wo abbas dekho mar bhi chuka
-  Uthaye haathon ko kehti thi fatema zehra
+  Zamaane waaloṅ ka ehsaas dekho mar bhi chuka
+  Tha jis pe naaz wo Abbas dekho mar bhi chuka
+  Uthaae haathoṅ ko kehti thi Fatima Zehra
 
   4
-  Hai teer tan may ya teeron pe hai ye tan beta
-  Hazaraha yehi karti hoo bas jatan beta
-  Tadapta hai tu jo beta bilakti hai mamta
+  Hai tir tan mein ya tiroṅ pe hai ye tan beta
+  Hazaarha yehi karti huṅ bas jatan beta
+  Tarapta hai tu jo beta bilakti hai mamta
 
   5
-  Paraye des may tujhko qaza ne ghayra hai
-  Tujhe ghutan ne nahi is fiza ne ghayra hai
-  Mai kaise dekhun tujhe laal ab tadapta hua
+  Paraae des mein tujh ko qaza ne ghera hai
+  Tujhe ghutan ne nahiṅ is faza ne ghera hai
+  Main kaise dekhuṅ tujhe laal ab tarapta hua
 
   6
-  Ye kalmagoyo ne binte nabi ko ajr diya
-  Tujhe to naara e takbeer keh ke qatl kiya
-  Karungi hashr ke maidan may ab tera nauha
+  Ye kalma goyoṅ ne Bint-e-Nabi ko ajr diya
+  Tujhe to naara-e-takbir keh ke qatl kiya
+  Karuṅ gi hashr ke maidaan mein ab tera nauha
 
   7
-  Na tujhko aasman raas aaya na zameen beta
-  Jhuki hai teeron pe zakhmi teri jabeen beta
-  Ke jisko choomte thay subho shab mere baba
+  Na tujh ko aasmaan raas aaya na zamin beta
+  Jhuki hai tiroṅ pe zakhmi teri jabiṅ beta
+  Ke jis ko chumte the subh o shaam mere Baaba
 
   8
-  Jahan jahan se bhi mai kheenchti hoo teer o tabar
-  Wahan wahan nazar aata hai ek naya manzar
-  Kahin hai phasliyan tooti kahin chida seena
+  Jahaaṅ jahaaṅ se bhi main khinchti huṅ tir o tabar
+  Wahaaṅ wahaaṅ nazar aata hai ik naya manzar
+  Kahiṅ hai pasliyaaṅ tuti kahiṅ chhida sina
 
   9
-  Ay shams aur ay aamir dua karo rab se
-  Na is tarha se koi maa pisar ka gham dekhe
-  Mere to lab pe sada rahta hai yehi nauha
+  Ae Shams aur ae Aamir dua karo Rab se
+  Na is tarah se koi maaṅ pisar ka gham dekhe
+  Mere to lab pe sada rehta hai yehi nauha
 # source_id: nohayonline:00a8d78ee277975242cb
 # source_url: https://www.nohayonline.com/details_content.php?id=1799
 # raw_sha256: 7dbe7f3fca2f627fe82022dbea575d158b94171f66d0d7dd55633fce07a007b9
 ---
 اتاروں کیسے میں تیروں سے لاش حسین
 پسر کے پہلو میں بیٹھی یہ کہتی تھی زہرا
+اتاروں کیسے میں تیروں سے لاش حسین
 
 ۱
 گھرا ہے تیروں کی تو تیرگی میں لختِ جگر
-مدد کو اپنی میں کسکو بلاؤں نورِ نظر
+مدد کو اپنی میں کس کو بلاؤں نورِ نظر
 سمجھ میں کچھ نہیں آتا میں کیا کروں بیٹا
 
 ۲
@@ -77,7 +80,7 @@ romanLyrics: |-
 ۳
 زمانے والوں کا احساس دیکھو مر بھی چکا
 تھا جس پہ ناز وہ عباس دیکھو مر بھی چکا
-اٹھاے ہاتھوں کو کہتی تھی فاطمہ زہرا
+اٹھائے ہاتھوں کو کہتی تھی فاطمہ زہرا
 
 ۴
 ہے تیر تن میں یا تیروں پہ ہے یہ تن بیٹا
@@ -85,19 +88,19 @@ romanLyrics: |-
 تڑپتا ہے تو جو بیٹا بلکتی ہے ممتا
 
 ۵
-پراے دیس میں تجھکو قضا نے گھیرا ہے
+پرائے دیس میں تجھ کو قضا نے گھیرا ہے
 تجھے گھٹن نے نہیں اس فضا نے گھیرا ہے
 میں کیسے دیکھوں تجھے لال اب تڑپتا ہوا
 
 ۶
 یہ کلمہ گویوں نے بنت نبی کو اجر دیا
-تجھے تو نعرہء تکبیر کہہ کے قتل کیا
+تجھے تو نعرۂ تکبیر کہہ کے قتل کیا
 کروں گی حشر کے میدان میں اب تیرا نوحہ
 
 ۷
-نہ تجھکو آسمان راس آیا نہ زمین بیٹا
+نہ تجھ کو آسمان راس آیا نہ زمین بیٹا
 جھکی ہے تیروں پہ زخمی تیری جبیں بیٹا
-کہ جسکو چومتے تھے صبح و شام میرے بابا
+کہ جس کو چومتے تھے صبح و شام میرے بابا
 
 ۸
 جہاں جہاں سے بھی میں کھینچتی ہوں تیر و تبر

@@ -6,129 +6,124 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Imran Jatki"
+reciter: "Kazmi Brothers"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  As salam alaika ya mehrooma
-  As salamalaika ya mazlooma
-  Hasrat hai matamdaron ki
-  Ya mehrooma ya mazlooma
-  Teri qabr pe saaya ho jaye
+  Assalaam alaik ya mahruma
+  Assalaam alaik ya mazluma
+
+  Hasrat hai maatam daaroṅ ki
+  Ya mahruma ya mazluma
+  Teri qabr pe saaya ho jaae
   Ho pursa teri turbat pe
-  Aabad baqayya ho jaye
+  Aabaad Baqiya ho jaae
 
   1
-  Teri qabr ki ghurbat pe bibi
-  Bechain risalat roti hai
-  Hai baap ki turbat saaye mein
-  Aur dhoop mein beti soti hai
+  Teri qabr ki ghurbat pe Bibi
+  Bechain risaalat roti hai
+  Hai baap ki turbat saae mein
+  Aur dhup mein beti soti hai
   Din raat jo dard se jalta hai
-  Dil baap ka thanda ho jaye
+  Dil baap ka thanda ho jaae
 
   2
   Zakhmi hai badan zakhmi hai kafan
-  Ye ajre risalat choda hai
+  Ye ajr-e-risaalat chhora hai
   Pehle jo shikasta pehlu thi
-  Kyun uski qabr ko toda hai
+  Kiuṅ us ki qabr ko tora hai
+  Ab khatm-e-Rasul ke beti pe
+  Ye zulm Khudaaya ho jaae
 
   3
-  Ab khatm e rasool ke beti pe
-  Ye zulm khudaya ho jaye
-  Maqdooma shaam ke qaidi bhi
-  Teri qaid ka matam karte hai
+  Makhduma Shaam ke qaidi bhi
+  Teri qaid ka maatam karte haiṅ
+  Musa Kaazim aur Maasuma
+  Din raat ye nauha parhte haiṅ
+  Teri qabr pe hai jo muddat se
+  Ab khatm ye pehra ho jaae
 
   4
-  Musa kazim aur masooma
-  Din raat ye nauha padte hai
-  Teri qabr pe hai jo muddat se
-  Ab khatm ye pehra ho jaye
+  Darwaaza jala ik baar magar
+  Sadiyoṅ se turbat jalti hai
+  Tujh par jo shaam-e-gharibaaṅ hai
+  Bujhti hai aur na dhalti hai
+  Tujh par jo shab-e-Aashur ki hai
+  Ab us ka sawera ho jaae
 
   5
-  Darwaza jala ek baar magar
-  Sadiyon se turbat jalti hai
-  Tujh par jo shaam e ghariban hai
-  Bujhti hai aur na dhalti hai
-  Tujh par jo shab ashoor ki hai
-  Ab us ka savera ho jaye
+  Jis ne bhi tujhe tarpaaya hai
+  Ab us pe qaza ka waar chale
+  Har mujrim pe har zaalim pe
+  Tere Mehdi ki talwaar chale
+  Sadaat ka ujra ghar ab to
+  Aabaad dobaara ho jaae
 
   6
-  Jis ne bhi tujhe tadpaya hai
-  Ab us pe khaza ka waar chale
-  Har mujrim pe har zaalim pe
-  Tere mehdi ki talwaar chale
-
-  7
-  Sadaat ka ujda ghar ab to
-  Aabad dobara ho jaye
-  Qum karbobala mashad ki tarha
-  Tameer tera rauza dekhein
-
-  8
-  Teri zulmat pe girya dekhein
-  Tere rauze pe pursa dekhein
-  Mazloom imam e zamana ka
-  Armaan ye poora ho jaye
+  Qum Karb o Bala Mashhad ki tarah
+  Taamir tera rauza dekheṅ
+  Teri zulmat pe girya dekheṅ
+  Tere rauze pe pursa dekheṅ
+  Mazlum Imam-e-Zamaana ka
+  Armaan ye pura ho jaae
 # source_id: nohayonline:9ef0a690e1effec17684
 # source_url: https://www.nohayonline.com/details_content.php?id=2083
 # raw_sha256: f8de8953e7da6370d8470df27eb251cfda27fb3a4911a70d3ea017e59fc31280
 ---
 السلام علیک یا محرومہ
 السلام علیک یا مظلومہ
+
 حسرت ہے ماتم داروں کی
 یا محرومہ یا مظلومہ
-تیری قبر پہ سایہ ہو جاے
+تیری قبر پہ سایہ ہو جائے
 ہو پرسہ تیری تربت پہ
-آباد بقیہ ہو جاے
+آباد بقیہ ہو جائے
 
 ۱
-تیری قبر کی غربت پہ بی بی
+تیری قبر کی غربت پہ بی‌بی
 بے چین رسالت روتی ہے
-ہے باپ کی تربت ساے میں
+ہے باپ کی تربت سائے میں
 اور دھوپ میں بیٹی سوتی ہے
 دن رات جو درد سے جلتا ہے
-دل باپ کا ٹھنڈا ہو جاے
+دل باپ کا ٹھنڈا ہو جائے
 
 ۲
 زخمی ہے بدن زخمی ہے کفن
 یہ اجر رسالت چھوڑا ہے
 پہلے جو شکستہ پہلو تھی
-کیوں اسکی قبر کو توڑا ہے
+کیوں اس کی قبر کو توڑا ہے
+اب ختم رسول کے بیٹی پہ
+یہ ظلم خدایا ہو جائے
 
 ۳
-اب ختم رسول کے بیٹی پہ
-یہ ظلم خدایا ہو جاے
 مخدومہ شام کے قیدی بھی
 تیری قید کا ماتم کرتے ہیں
-
-۴
 موسیٰ کاظم اور معصومہ
 دن رات یہ نوحہ پڑھتے ہیں
 تیری قبر پہ ہے جو مدت سے
-اب ختم یہ پہرہ ہو جاے
+اب ختم یہ پہرہ ہو جائے
 
-۵
+۴
 دروازہ جلا اک بار مگر
 صدیوں سے تربت جلتی ہے
 تجھ پر جو شام غریباں ہے
 بجھتی ہے اور نہ ڈھلتی ہے
 تجھ پر جو شب عاشور کی ہے
-اب اس کا سویرا ہو جاے
+اب اس کا سویرا ہو جائے
 
-۶
+۵
 جس نے بھی تجھے تڑپایا ہے
 اب اس پہ قضا کا وار چلے
 ہر مجرم پہ ہر ظالم پہ
 تیرے مہدی کی تلوار چلے
-
-۷
 سادات کا اجڑا گھر اب تو
-آباد دوبارہ ہو جاے
+آباد دوبارہ ہو جائے
+
+۶
 قم کربوبلا مشہد کی طرح
 تعمیر تیرا روضہ دیکھیں
-
-۸
 تیری ظلمت پہ گریہ دیکھیں
 تیرے روضے پہ پرسہ دیکھیں
 مظلوم امام زمانہ کا
-ارمان یہ پورا ہو جاے
+ارمان یہ پورا ہو جائے
