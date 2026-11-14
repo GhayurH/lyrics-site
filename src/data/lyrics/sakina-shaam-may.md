@@ -1,45 +1,46 @@
 ---
-title: سکینہ شام میں مر کر یہی سمجھاگئی لوگو
-alternateTitle: Sakina Shaam May
+title: سکینہ شام میں مر کر یہی سمجھا گئی لوگو
+alternateTitle: Sakina Shaam Mein
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
-poet: "Shaukath"
+poet: "Shaukat"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
-aliases: []
+aliases: ["Sakina Shaam May"]
 published: false
 romanLyrics: |-
-  Sakina Shaam mein mar kar yehi samjha gayee logo
-  Judaai baap ke seene ki mujhko khaa gayi logon
-  
+  Sakina Shaam mein mar kar yehi samjha gayi logo
+  Judaai baap ke sine ki mujhko khaa gayi logo
+
   1
-  Khafas ghurbat udaasi shimr ka darr pyaas ki shiddat
-  Sitam itne huye masoom ko maut aa gayi logon
-  
+  Qafas ghurbat udaasi Shimr ka dar pyaas ki shiddat
+  Sitam itne hue maasum ko maut aa gayi logo
+
   2
-  Woh maa jo dhoop mein aksar Ali Asghar ko roti thi
-  Sakina ki qaza us par qayamat dhaa Gaye Logoon
-  
+  Wo maaṅ jo dhup mein aksar Ali Asghar ko roti thi
+  Sakina ki qaza us par qayaamat dhaa gayi logo
+
   3
-  Bandhay Haathoon pay ek beemar laya bahan ki mayyat
-  Yeh aulad-e-Nabi par kaisi gurbat chaa gaye logo
-  
+  Bandhe haathoṅ pe ek bimaar laaya behan ki mayyat
+  Ye aulaad-e-Nabi par kaisi ghurbat chhaa gayi logo
+
   4
-  Bahan ki laash haathoon pay liye Sajjad kehtay thay
-  Gulistan-e-Imamat ki kali murjhaa gaye logo
-  
+  Behan ki laash haathoṅ pe liye Sajjad kehte the
+  Gulistaan-e-Imaamat ki kali murjha gayi logo
+
   5
-  Padar ki khoon bhari gardan pay bachi nay jo lab rakhay
-  Yeh manzar daykh ker to khud qaza ghabra gaye logo
-  
+  Padar ki khuṅ bhari gardan pe bachchi ne jo lab rakhe
+  Ye manzar dekh kar to khud qaza ghabra gayi logo
+
   6
-  Chacha baba barader sab kay sab to Karbala soye
-  Sakina ko na jaanay Shaam kaisay bhaa gaye logo
-  
+  Chacha baba baraadar sab ke sab to Karbala soye
+  Sakina ko na jaane Shaam kaise bhaa gayi logo
+
   7
-  Likho Shaukat parho Sarwar battayo saari dunyia ko
-  Ali ki laadli poti shahadat paa gaye Logo
+  Likho Shaukat parho Sarwar bataao saari duniya ko
+  Ali ki laadli poti shahaadat paa gayi logo
 # source_id: nohayonline:4c372062faf0e00a6595
 # source_url: https://www.nohayonline.com/details_content.php?id=417
 # raw_sha256: abf82b7d6804a3f5be2929e2142ad64ffe88dac811e24d9f653feb0573c3db99
@@ -48,7 +49,7 @@ romanLyrics: |-
 # raw_sha256: 07c8f0ef0168b2122832324290461cd87cad509f378254790e0dbcb9336d4364
 # added_stanza_source: roman:kalam-nohayonline-4c372062faf0e00a6595
 ---
-سکینہ شام میں مر کر یہی سمجھاگئی لوگو
+سکینہ شام میں مر کر یہی سمجھا گئی لوگو
 جُدائی باپ کے سینے کی مجھکو کھا گئی لوگو
 
 ۱
@@ -60,7 +61,7 @@ romanLyrics: |-
 سکینہ کی قضا اُس پر قیامت ڈھا گئی لوگو
 
 ۳
-بندھے ہاتھون پہ اک بیمار لایا بہن کی میت
+بندھے ہاتھوں پہ اک بیمار لایا بہن کی میت
 یہ اولادِ نبی پر کیسی غربت چھا گئی لوگو
 
 ۴
@@ -76,5 +77,5 @@ romanLyrics: |-
 سکینہ کو نجانے شام کیسے بھا گئی لوگو
 
 ۷
-لکھو شوکت پڑھو سرور بتائو ساری دنیا کو
+لکھو شوکت پڑھو سرور بتاؤ ساری دنیا کو
 علی کی لاڈلی پوتی شہادت پا گئی لوگو

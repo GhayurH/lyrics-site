@@ -1,56 +1,57 @@
 ---
-title: "سکینہ شام کے زنداں میں سو گیء بابا"
-alternateTitle: "Sakina Shaam Ke Zindan"
+title: "سکینہ شام کے زنداں میں سو گئی بابا"
+alternateTitle: "Sakina Shaam Ke Zindaaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Mesum Abbas"
 tags: ["noImage"]
-aliases: []
+aliases: ["Sakina Shaam Ke Zindan"]
 published: false
 romanLyrics: |-
-  Sakina shaam ke zindan may so gayi baba
-  
+  Sakina Shaam ke zindaaṅ mein so gayi baba
+
   1
-  Tamache shimr se khaati thi jab bhi roti thi
-  Andheri raat may uth uth ke bas ye kehti thi
-  Meri aseeri pe roti hai bekasi baba
-  
+  Tamaanche Shimr se khaati thi jab bhi roti thi
+  Andheri raat mein uth uth ke bas ye kehti thi
+  Meri asiri pe roti hai bekasi baba
+
   2
-  Ay baba aap ke seene ki usko aadat thi
-  Zameen pe sone ki koshish may jaagti hi rahi
-  Teri yateema ko neendh aayi na kabhi baba
-  
+  Ae baba aap ke sine ki usko aadat thi
+  Zamiṅ pe sone ki koshish mein jaagti hi rahi
+  Teri yatima ko nind aayi na kabhi baba
+
   3
-  Phupi se kehti thi ro ro ke ye batado phupi
-  Sitam ki qaid se ghar apne ja sakenge kabhi
-  Usay rehaai na mar ke bhi mil saki baba
-  
+  Phuphi se kehti thi ro ro ke ye bata do phuphi
+  Sitam ki qaid se ghar apne ja sakeṅ ge kabhi
+  Use rihaai na mar ke bhi mil saki baba
+
   4
-  Banayi aap ne maqtal may qabr asghar ki
-  Lehad banayi hai zindan may maine muztar ki
-  Padi jo fateha roti thi hathkadi baba
-  
+  Banaayi aap ne maqtal mein qabr-e-Asghar ki
+  Lahad banaayi hai zindaan mein main ne muztar ki
+  Pari jo faatiha roti thi hathkari baba
+
   5
-  Kafan lahoo bhara kurta hi hai sakina ka
-  Diya hai ghusl bhi ashkon se ay mere baba
-  Kafan bhi rota tha aur mai bhi qabr bhi baba
-  
+  Kafan lahu bhara kurta hi hai Sakina ka
+  Diya hai ghusl bhi ashkoṅ se ae mere baba
+  Kafan bhi rota tha aur main bhi qabr bhi baba
+
   6
-  Nahi zara sa ujaala bhi us ki turbat par
+  Nahiṅ zara sa ujaala bhi us ki turbat par
   Andhere karne lage nauha us ki turbat par
-  Karega kaun yahan aa ke roshni baba
-  
+  Kare ga kaun yahaaṅ aa ke roshni baba
+
   7
-  Bayan kaise karenge ye mesum o mazhar
-  Jo bain baba se karte thay abid e muztar
-  Sakina shaam ke zindan may so gayi baba
+  Bayaaṅ kaise kareṅ ge ye Maisam o Mazhar
+  Jo bain baba se karte the Aabid-e-muztar
+  Sakina Shaam ke zindaan mein so gayi baba
 # source_id: nohayonline:5cf48e10cc5ade15197a
 # source_url: https://www.nohayonline.com/details_content.php?id=1322
 # raw_sha256: ac4bb5f28a68e0bdc1523e7f3ec07f7d248a5ac8d61967d2e588ec54a10b0cfc
 ---
-سکینہ شام کے زنداں میں سو گیء بابا
+سکینہ شام کے زنداں میں سو گئی بابا
 
 ۱
 طمانچے شمر سے کھاتی تھی جب بھی روتی تھی
@@ -60,7 +61,7 @@ romanLyrics: |-
 ۲
 اے بابا آپ کے سینے کی اسکو عادت تھی
 زمیں پہ سونے کی کوشش میں جاگتی ہی رہی
-تیری یتیمہ کو نیند آی نہ کبھی بابا
+تیری یتیمہ کو نیند آئی نہ کبھی بابا
 
 ۳
 پھپھی سے کہتی تھی رو رو کے یہ بتادو پھپھی
@@ -68,8 +69,8 @@ romanLyrics: |-
 اسے رہائی نہ مر کے بھی مل سکی بابا
 
 ۴
-بنای آپ نے مقتل میں قبر اصغر کی
-لحد بنای ہے زندان میں میں نے مضطر کی
+بنائی آپ نے مقتل میں قبرِ اصغر کی
+لحد بنائی ہے زندان میں میں نے مضطر کی
 پڑی جو فاتحہ روتی تھی ہتھکڑی بابا
 
 ۵
@@ -78,11 +79,11 @@ romanLyrics: |-
 کفن بھی روتا تھا اور میں بھی قبر بھی بابا
 
 ۶
-نہیں زرا سا اجالا بھی اس کی تربت پر
+نہیں ذرا سا اجالا بھی اس کی تربت پر
 اندھیرے کرنے لگے نوحہ اس کی تربت پر
 کرے گا کون یہاں آ کے روشنی بابا
 
 ۷
 بیاں کیسے کریں گے یہ میثم و مظہر
-جو بین بابا سے کرتے تھے عابد مضطر
-سکینہ شام کے زندان میں سو گیء بابا
+جو بین بابا سے کرتے تھے عابدِ مضطر
+سکینہ شام کے زندان میں سو گئی بابا

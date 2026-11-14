@@ -3213,10 +3213,10 @@ src/data/lyrics/sakina-phir-akeli.md,standalone_lyrics,imported,nohayonline,pend
 src/data/lyrics/sakina-phir-na.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,editorial-first-sweep-2026-11-13,,
 src/data/lyrics/sakina-qaid-hokar.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,editorial-first-sweep-2026-11-13,,
 src/data/lyrics/sakina-reh-gayi.md,standalone_lyrics,imported,nohayonline+ziyaraat,pending,partial_review,partial_review,reviewed,verified,reviewed,editorial-first-sweep-2026-11-13,,"Need audio/print: s1 میرے/مرے گوہر; s5 میری/مری غربت; s7 تیرا/ترا; s8 میرے/مرے بھائی and عمو; final ""گھٹ گھٹ کے"" (NoHayOnline Urdu) vs ""رو رو کے"" (Roman and Ziyaraat)."
-src/data/lyrics/sakina-ro-rahi-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/sakina-shaam-ke-zindan.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/sakina-shaam-may.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/sakina-sham-ke-zindan.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/sakina-ro-rahi-hai.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,editorial-first-sweep-2026-11-13,,
+src/data/lyrics/sakina-shaam-ke-zindan.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,editorial-first-sweep-2026-11-13,,"Need audio/print: s1 ""roti hai bekasi"" (Roman) vs ""roti bekasi"" (Urdu); s3 ""ja sakenge"" vs ""ja sake ga""; s4 ""pari jo faatiha"" and ""muztar"" in the grave verse."
+src/data/lyrics/sakina-shaam-may.md,standalone_lyrics,imported,nohayonline+ziyaraat,pending,reviewed,reviewed,reviewed,verified,reviewed,editorial-first-sweep-2026-11-13,,
+src/data/lyrics/sakina-sham-ke-zindan.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,editorial-first-sweep-2026-11-13,,"Need audio/print: s3 ""reesmaaṅ"" (ریسماں); s6 ""ae mera tashna dahaaṅ""; s8 ""aankhoṅ se mere"" vs ""meri""."
 src/data/lyrics/sakina-tum-nahi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/sakina-ye-pardes-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/sakina-zakhmi-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
