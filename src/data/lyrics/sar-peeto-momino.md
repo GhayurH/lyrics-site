@@ -1,49 +1,50 @@
 ---
 title: "سر پیٹو مومنوں ہے شہادت بتول کی"
-alternateTitle: "Sar Peeto Momino"
+alternateTitle: "Sar Pito Mominoṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Bober Ali"
+reciter: "Mirza Sikander Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sar peeto momino hai shahadat batool ki
-  Shab mein ali uthaate hai mayyat batool ki
+  Sar pito mominoṅ hai shahaadat Batul ki
+  Shab mein Ali uthaate haiṅ mayyat Batul ki
 
   1
-  Girne se dar ke toot gayi saari phasliyan
-  Kis dil se mai sunaaun musibat batool ki
+  Girne se dar ke tut gayi saari pasliyaaṅ
+  Kis dil se main sunaauṅ musibat Batul ki
 
   2
-  Seede teher na paayi wo is zulm ki wajah
-  Rukne ne paayi phir bhi ibadat batool ki
+  Sidhe thahar na paayi wo is zulm ki wajah
+  Rukne na paayi phir bhi ibaadat Batul ki
 
   3
-  Dushman ke saare zulm ko seh seh ke ay ghazab
-  Bilkul nidhaal hogayi haalat batool ki
+  Dushman ke saare zulm ko sah sah ke ae ghazab
+  Bilkul nidhaal ho gayi haalat Batul ki
 
   4
-  Mohsin shaheed pehlu shikasta pidar ka gham
-  Hogi rakhm ye kis tarha ghurbat batool ki
+  Mohsin shahid pahlu shikasta pidar ka gham
+  Hogi raqam ye kis tarah ghurbat Batul ki
 
   5
-  Athara saal mein hi wo dunya se chal basi
-  Tadpa rahi hai bachon ko rehlat batool ki
+  Athaara saal mein hi wo duniya se chal basi
+  Tarpa rahi hai bachchoṅ ko rehlat Batul ki
 
   6
-  Ahle haram mein ranj se mehshar bapa hua
-  Ghar se nikal rahi hai jo mayyat batool ki
+  Ahl-e-haram mein ranj se mahshar bapa hua
+  Ghar se nikal rahi hai jo mayyat Batul ki
 
   7
-  Bachon ko dekhte hi tadapne lage ali
-  Yaad aa gayi jo unko wasiyat batool ki
+  Bachchoṅ ko dekhte hi tarapne lage Ali
+  Yaad aa gayi jo un ko wasiyyat Batul ki
 
   8
-  Girya kuna hai zainab o kulsoom ay bober
-  Hasnain ko rulaati hai furqat batool ki
+  Girya kunaaṅ hai Zainab o Kulsum ae Bober
+  Hasnain ko rulaati hai furqat Batul ki
 # source_id: nohayonline:38a5e7c6b8e968928423
 # source_url: https://www.nohayonline.com/details_content.php?id=1945
 # raw_sha256: 9c3985034d4cf69070a582d0b0d4697d5a66be2f35f11b9c2a39253529341437
@@ -52,16 +53,16 @@ romanLyrics: |-
 شب میں علی اٹھاتے ہیں میت بتول کی
 
 ۱
-گرنے سے ڈر کے ٹوٹ گیء ساری پسلیاں
+گرنے سے ڈر کے ٹوٹ گئی ساری پسلیاں
 کس دل سے میں سناؤں مصیبت بتول کی
 
 ۲
-سیدھے ٹہر نہ پائی وہ اس ظلم کی وجہ
+سیدھے ٹھہر نہ پائی وہ اس ظلم کی وجہ
 رکنے نہ پائی پھر بھی عبادت بتول کی
 
 ۳
 دشمن کے سارے ظلم کو سہہ سہہ کے اے غضب
-بلکل نڈھال ہوگیء حالت بتول کی
+بالکل نڈھال ہو گئی حالت بتول کی
 
 ۴
 محسن شہید پہلو شکستہ پدر کا غم
@@ -72,12 +73,12 @@ romanLyrics: |-
 تڑپا رہی ہے بچوں کو رحلت بتول کی
 
 ۶
-أہل حرم میں رنج سے محشر بپا ہوا
+اہلِ حرم میں رنج سے محشر بپا ہوا
 گھر سے نکل رہی ہے جو میت بتول کی
 
 ۷
 بچوں کو دیکھتے ہی تڑپنے لگے علی
-یاد آ گیء جو انکو وصیت بتول کی
+یاد آ گئی جو ان کو وصیت بتول کی
 
 ۸
 گریہ کناں ہے زینب و کلثوم اے بوبر

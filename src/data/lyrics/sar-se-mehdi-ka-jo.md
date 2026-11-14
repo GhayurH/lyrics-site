@@ -6,47 +6,48 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Samar Zaidi"
+reciter: "Mazahir Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sar se mehdi ke jo baba ka utha hai saaya
-  Yaad maula ko sakina ka tadapna aaya
+  Sar se Mehdi ke jo baaba ka utha hai saaya
+  Yaad Maula ko Sakina ka tarapna aaya
   
   1
   Kamsini mein jo yateemi ki aziyat dekhi
-  Tha baras paanchwa jab baap ki mayyat dekhi
-  Khoon tapakta hua jab baap ka laasha paaya
+  Tha baras paanchwaaṅ jab baap ki mayyat dekhi
+  Khun tapakta hua jab baap ka laasha paaya
   
   2
-  Saamara mein bhi hui karbobala jaisi hawa
-  Be-khata maara gaya phir se ghareeb e zahra
-  Haye baba jo labon pe dam e girya aaya
+  Saamarra mein bhi hui Karb o Bala jaisi hawa
+  Bekhata maara gaya phir se gharib-e-Zahra
+  Haaye baaba jo laboṅ pe dam-e-girya aaya
   
   3
-  Askari ne jo aseeri mein shahadat paayi
-  Hujjate haq ko sakina ki bahot yaad aayi
-  Qaid se jis ka janaza bhi na koi laaya
+  Askari ne jo asiri mein shahaadat paayi
+  Hujjat-e-haq ko Sakina ki bahut yaad aayi
+  Qaid se jis ka janaaza bhi na koi laaya
   
   4
-  Roye sajjad ko jab qaid e padar yaad aayi
-  Yaad aate rahe sab shaam ke bekas qaidi
-  Shaam waalo ne aseero pe sitam kya dhaaya
+  Roye Sajjad ko jab qaid-e-pidar yaad aayi
+  Yaad aate rahe sab Shaam ke bekas qaidi
+  Shaam waaloṅ ne asiroṅ pe sitam kya dhaaya
   
   5
-  Kitne tanha rahe ghaibat mein zamane ke imam
-  Koi pursa na dilaasa na koi mehwe kalaam
-  Jab bhi tanhai mein dam seene mein ghut''ta paaya
+  Kitne tanha rahe ghaibat mein zamaane ke Imam
+  Koi pursa na dilaasa na koi mahw-e-kalaam
+  Jab bhi tanhaai mein dam sine mein ghutta paaya
   
   6
-  Baap ke baad jo maula pe sitam hone ko thay
-  Ghaib mein le liya allah ne mehfooz rahe
-  Neela rukhsaar sakina ka magar yaad aaya
+  Baap ke baad jo Maula pe sitam hone ko the
+  Ghaib mein le liya Allah ne mahfuz rahe
+  Nila rukhsaar Sakina ka magar yaad aaya
   
   7
-  Kaash hojaye samar hujjat e aakhir ka zahoor
-  Aur nazar dekhle majlis mein ke maula ke huzoor
-  Haye nauha ye mazahir jo labon par laaya
+  Kaash ho jaaye Samar Hujjat-e-aakhir ka zuhur
+  Aur nazar dekh le majlis mein ke Maula ke huzur
+  Haaye nauha ye Mazahir jo laboṅ par laaya
 # source_id: nohayonline:adf64b974270c08e0a88
 # source_url: https://www.nohayonline.com/details_content.php?id=1722
 # raw_sha256: df9894fc4735128510ad7348bb86f54ba85fbc96f73462241f781c2de77066f5
@@ -88,6 +89,6 @@ romanLyrics: |-
 نیلا رخسار سکینہ کا مگر یاد آیا
 
 ۷
-کاش ہوجاے ثمر حجت آخر کا ظہور
+کاش ہو جائے ثمر حجتِ آخر کا ظہور
 اور نظر دیکھیں مجلس میں کے مولا کے حضور
-ہاے نوحہ یہ مظاہر جو لبوں پر لایا
+ہائے نوحہ یہ مظاہر جو لبوں پر لایا
