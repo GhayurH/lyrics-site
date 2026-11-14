@@ -6,72 +6,80 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Mesum Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ay rozadaro aah o buka ke ye roz hai
-  Sadaat par nuzool e bala ke ye roz hai
-  Sartaj e ausiya ki aza ke ye roz hai
-  Tumse wida e sher e khuda ke ye roz hai
-  Rozadaro qayamat ke din hai
-  Ibne muljim ne hyder ko maara
-  Rozadaro qayamat ke din hai
+  Ae rozadaaroṅ aah o buka ke ye roz haiṅ
+  Sadaat par nuzul-e-bala ke ye roz haiṅ
+  Sartaaj-e-ausiya ki aza ke ye roz haiṅ
+  Tum se widaa-e-Sher-e-Khuda ke ye roz haiṅ
+
+  Rozadaaroṅ qayaamat ke din haiṅ
+  Ibn-e-Muljim ne Haidar ko maara
+  Rozadaaroṅ qayaamat ke din haiṅ
 
   1
-  Humse bichda hai maula hamara
-  Rozadaro qayamat ke din hai
-  Khaake bewaarisi hai saron par
-  Kaale parcham lagay hai gharon par
-  Hum se bichda hai maula hamara
+  Hum se bichhra hai Maula hamaara
+  Rozadaaroṅ qayaamat ke din haiṅ
 
   2
-  Shab ye uneeswi kaisi aayi
-  Khoon mein dooba mohamed ka bhai
-  Ro raha hai sehar ka sitara
-  Rozadaro qayamat ke din hai
+  Khaak-e-bewaarisi hai saroṅ par
+  Kaale parcham lage haiṅ gharoṅ par
+  Hum se bichhra hai Maula hamaara
 
   3
-  Ibne muljim sitam kaisa dhaaya
-  Qabr mein sayyeda ko rulaya
-  Kaise bachon ka hoga guzara
-  Rozadaro qayamat ke din hai
-  Taygh sar pe ali ke lagi hai
+  Shab ye unniswiṅ kaisi aayi
+  Khuṅ mein duba Muhammad ka bhaai
+  Ro raha hai sehar ka sitaara
+  Rozadaaroṅ qayaamat ke din haiṅ
 
   4
-  Aaj shamme imamat bujhi hai
-  Dil yateemo ka hai paara paara
-  Rozadaro qayamat ke din hai
-  Maa ke marne ka gham kam nahi tha
-  Ek kohe alam aur toota
+  Ibn-e-Muljim sitam kaisa dhaaya
+  Qabr mein Sayyeda ko rulaaya
+  Kaise bachchoṅ ka hoga guzaara
+  Rozadaaroṅ qayaamat ke din haiṅ
 
   5
-  Sogh mein ghar hai zehra ka saara
-  Rozadaro qayamat ke din hai
-  Ghar mein hyder ke aah o fughan hai
-  Eid nazdeek gham ka samaa hai
-  Aisa ramzan na aaye dubara
+  Tegh sar pe Ali ke lagi hai
+  Aaj shama-e-imaamat bujhi hai
+  Dil yatimoṅ ka hai paara paara
+  Rozadaaroṅ qayaamat ke din haiṅ
 
   6
-  Rozadaro qayamat ke din hai
-  Umme kulsoom zainab se boli
-  Aaj baba ne aankhein na kholi
-  Maine shaana hila kar pukara
-  Rozadaro qayamat ke din hai
+  Maaṅ ke marne ka gham kam nahiṅ tha
+  Ek koh-e-alam aur tuta
+  Sog mein ghar hai Zehra ka saara
+  Rozadaaroṅ qayaamat ke din haiṅ
 
   7
-  Seena kobi ko rehaan o mesum
-  Kyun na farshe aza pe chale hum
-  Ghamzada chaar soo hai nazara
-  Rozadaro qayamat ke din hai
+  Ghar mein Haidar ke aah o fughaaṅ hai
+  Eid nazdik gham ka samaaṅ hai
+  Aisa Ramzaaṅ na aaye dubaara
+  Rozadaaroṅ qayaamat ke din haiṅ
+
+  8
+  Umm-e-Kulsum Zainab se boliṅ
+  Aaj Baaba ne aaṅkheṅ na kholi
+  Main ne shaana hila kar pukaara
+  Rozadaaroṅ qayaamat ke din haiṅ
+
+  9
+  Sina kobi ko Rehaan o Mesum
+  Kiuṅ na farsh-e-aza pe chale hum
+  Ghamzada chaar suṅ hai nazaara
+  Rozadaaroṅ qayaamat ke din haiṅ
 # source_id: nohayonline:a42f49dc38de63e211ae
 # source_url: https://www.nohayonline.com/details_content.php?id=1321
 # raw_sha256: 5586dd16091d410d4b72f7374f479d61dfee6d619efe691871aaed92a791416e
 ---
+
 اے روزہ داروں آہ و بکا کے یہ روز ہیں
 سادات پر نزولِ بلا کے یہ روز ہیں
-سرتاج اوصیاء کی عزا کے یہ روز ہیں
-تم سے وداعِ شیر خدا کے یہ روز ہیں
+سرتاجِ اوصیاء کی عزا کے یہ روز ہیں
+تم سے وداعِ شیرِ خدا کے یہ روز ہیں
+
 روزہ داروں قیامت کے دن ہیں
 ابنِ ملجم نے حیدر کو مارا
 روزہ داروں قیامت کے دن ہیں
@@ -79,46 +87,50 @@ romanLyrics: |-
 ۱
 ہم سے بچھڑا ہے مولا ہمارا
 روزہ داروں قیامت کے دن ہیں
-خاک بے وارثی ہے سروں پر
+
+۲
+خاکِ بے وارثی ہے سروں پر
 کالے پرچم لگے ہیں گھروں پر
 ہم سے بچھڑا ہے مولا ہمارا
 
-۲
-شب یہ انیسویں کیسی آی
-خوں میں ڈوبا محمد کا بھای
+۳
+شب یہ انیسویں کیسی آئی
+خوں میں ڈوبا محمد کا بھائی
 رو رہا ہے سحر کا ستارہ
 روزہ داروں قیامت کے دن ہیں
 
-۳
+۴
 ابنِ ملجم ستم کیسا ڈھایا
 قبر میں سیدہ کو رلایا
 کیسے بچوں کا ہوگا گزارا
 روزہ داروں قیامت کے دن ہیں
-تیغ سر پہ علی کے لگی ہے
 
-۴
+۵
+تیغ سر پہ علی کے لگی ہے
 آج شمعِ امامت بجھی ہے
 دل یتیموں کا ہے پارہ پارہ
 روزہ داروں قیامت کے دن ہیں
-ماں کے مرنے کا غم کم نہیں تھا
-ایک کوہ الم اور ٹوٹا
-
-۵
-سوگ میں گھر ہے زہرا کا سارا
-روزہ داروں قیامت کے دن ہیں
-گھر میں حیدر کے آہ و فغاں ہے
-عید نزدیک غم کا سماں ہے
-ایسا رمضاں نہ آے دوبارہ
 
 ۶
+ماں کے مرنے کا غم کم نہیں تھا
+ایک کوہِ الم اور ٹوٹا
+سوگ میں گھر ہے زہرا کا سارا
 روزہ داروں قیامت کے دن ہیں
+
+۷
+گھر میں حیدر کے آہ و فغاں ہے
+عید نزدیک غم کا سماں ہے
+ایسا رمضاں نہ آئے دوبارہ
+روزہ داروں قیامت کے دن ہیں
+
+۸
 ام کلثوم زینب سے بولیں
 آج بابا نے آنکھیں نہ کھولی
 میں نے شانہ ہلا کر پکارا
 روزہ داروں قیامت کے دن ہیں
 
-۷
+۹
 سینہ کوبی کو ریحان و میثم
-کیوں نہ فرش عزا پہ چلے ہم
+کیوں نہ فرشِ عزا پہ چلے ہم
 غم زدہ چار سوں ہے نظارہ
 روزہ داروں قیامت کے دن ہیں
