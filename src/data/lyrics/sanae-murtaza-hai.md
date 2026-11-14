@@ -1,50 +1,51 @@
 ---
-title: "ثناے مرتظی ہے اور میں ہوں"
+title: "ثنائے مرتضیٰ ہے اور میں ہوں"
 alternateTitle: "Sanae Murtaza Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mirza Dabeer"
+reciter: "Raza Ali Khan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sana e murtuza hai aur mai hoo
-  Yehi ek mashghala hai aur mai hoo
+  Sanaa-e-Murtaza hai aur maiṅ huṅ
+  Yehi ik mashghala hai aur maiṅ huṅ
 
   1
-  Nabi kehte thay hyder tumhara
-  Shanasa ek khuda hai aur mai hoo
+  Nabi kehte the Haidar tumhaara
+  Shanaasa ek Khuda hai aur maiṅ huṅ
 
   2
-  Farishton qabr may aahista bolo
-  Yahan mushkil kusha hai aur mai hoo
+  Farishtoṅ qabr mein aahista bolo
+  Yahaaṅ mushkil kusha hai aur maiṅ huṅ
 
   3
-  Safeh dushman se hurr nikla yeh keh kar
-  Bus ab raahe khuda hai aur mai hoo
+  Saf-e-dushman se Hur nikla ye keh kar
+  Bas ab raah-e-Khuda hai aur maiṅ huṅ
 
   4
-  Khabar deta hai ran may husne akbar
-  Sada noor e khuda hai aur mai hoo
+  Khabar deta hai ran mein husn-e-Akbar
+  Sadaa nur-e-Khuda hai aur maiṅ huṅ
 
   5
-  Watan may haal sughra jis ne poocha
-  Kaha aah o buka hai aur mai hoo
+  Watan mein haal-e-Sughra jis ne puchha
+  Kaha aah o buka hai aur maiṅ huṅ
 
   6
-  Safar may aagayi shaam e ghariban
-  Layeeno ki jafa hai aur mai hoo
+  Safar mein aa gai Shaam-e-gharibaaṅ
+  Lainoṅ ki jafa hai aur maiṅ huṅ
 
   7
-  Tamanna daulat o hashmat ki bejaan
-  Dabeer aakhir fana hai aur mai hoo
+  Tamanna daulat o hashmat ki bejaaṅ
+  Dabir aakhir fana hai aur maiṅ huṅ
 # source_id: nohayonline:f1fc8917e153ae24cb78
 # source_url: https://www.nohayonline.com/details_content.php?id=2193
 # raw_sha256: 75cd4140df7d17a006629be1ba5b1b3e0c73c10955cf7ea5c25f26a59d53bd4f
 ---
-ثناے مرتظی ہے اور میں ہوں
+ثنائے مرتضیٰ ہے اور میں ہوں
 یہی اک مشغلہ ہے اور میں ہوں
 
 ۱
@@ -53,22 +54,22 @@ romanLyrics: |-
 
 ۲
 فرشتوں قبر میں آہستہ بولو
-یہاں مشکل کشاء ہے اور میں ہوں
+یہاں مشکل کشا ہے اور میں ہوں
 
 ۳
-صف دشمن سے حر نکلا یہ کہہ کر
-بس اب راہ خدا ہے اور میں ہوں
+صفِ دشمن سے حر نکلا یہ کہہ کر
+بس اب راہِ خدا ہے اور میں ہوں
 
 ۴
-خبر دیتا ہے رن میں حسن اکبر
-صدا نور خدا ہے اور میں ہوں
+خبر دیتا ہے رن میں حسنِ اکبر
+صدا نورِ خدا ہے اور میں ہوں
 
 ۵
-وطن میں حال صغرا جس نے پوچھا
+وطن میں حالِ صغرا جس نے پوچھا
 کہا آہ و بکا ہے اور میں ہوں
 
 ۶
-سفر میں آگیء شام غریباں
+سفر میں آ گئی شامِ غریباں
 لعینوں کی جفا ہے اور میں ہوں
 
 ۷

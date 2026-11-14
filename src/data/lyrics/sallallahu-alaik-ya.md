@@ -6,74 +6,82 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
+reciter: "Syed Taha Mehdi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sallallahu alaik ya fatimeh
-  
+  Sallallahu alaik ya Fatimeh
+
   1
-  Aansu mere dete hai tumko sada bibi
-  Bechain dil hai mera bibi
-  Qadmon mein dedo jagah bibi
-  Marzi hai darkaar ya marzia
-  Dedo mughe farshe gham ka sila
+  Aansu mere dete haiṅ tum ko sada Bibi
+  Bechain dil hai mera Bibi
+  Qadmoṅ mein de do jagah Bibi
+  Marzi hai darkaar ya Marziya
+  De do mujhe farsh-e-gham ka sila
   Shabbir ka tum ko hai waasta
-  Sunlo mere aansuon ki sada
-  
+  Sun lo mere aansuoṅ ki sada
+  Sallallahu alaik ya Fatimeh
+
   2
-  Ya sayyeda mushkil kusha ho ali ki tum
-  Ho haal dil ka samjhti tum
-  Faryaad sunlo hamari tum
-  Kar dijiye humpe apna karam
-  Dil mein rahe bus hussaini gham
-  Sab door hojaye ranj o alam
-  Toote dilon ka tum hi aasra
-  
+  Ya Sayyeda mushkil kusha ho ya Ali ki tum
+  Ho haal dil ka samajhti tum
+  Faryaad sun lo hamaari tum
+  Kar dijiye hum pe apna karam
+  Dil mein rahe bas Husaini gham
+  Sab dur ho jaae ranj o alam
+  Tute diloṅ ka tum hi aasra
+  Sallallahu alaik ya Fatimeh
+
   3
-  Ya fatema chadar ka humpe karo saaya
+  Ya Fatema chaadar ka hum pe karo saaya
   Hai dard o gham ne mujhe khaaya
-  Dar pe tumhare chala aaya
-  Allah o akbar ye teri rida
-  Deti rahi mustafa ko shifa
-  Hum par bhi nazre karam ho zara
+  Dar pe tumhaare chala aaya
+  Allahu Akbar ye teri rida
+  Deti rahi Mustafa ko shifa
+  Hum par bhi nazar-e-karam ho zara
   Kar dijiye dard o gham ki dawa
-  
+  Sallallahu alaik ya Fatimeh
+
   4
-  Hum ko mila jo kuch wo teri badolat hai
-  Hoo matami meri qismat hai
-  Hum par teri ye inayat hai
-  Allhamdolillah hai tera karam
-  Keh laaye jaate hai hussaini hum
+  Hum ko mila jo kuchh wo teri badaulat hai
+  Ho maatami meri qismat hai
+  Hum par teri ye inaayat hai
+  Alhamdulillah hai tera karam
+  Kehlaae jaate haiṅ Husaini hum
   Shabbir ka dil mein basa hai gham
-  Hum hai azadaar teri dua
-  
+  Hum haiṅ azaadaar teri dua
+  Sallallahu alaik ya Fatimeh
+
   5
-  Dil phat gaya yaad aaya phelu tera bibi
-  Dar jalta tumpe gira bibi
-  Kis tarha tumne saha bibi
-  Mohsin tumhara na zinda raha
-  Baaghe fidak tumse cheena gaya
-  Har zulm ummat ka tumne saha
-  Lekin wilayat ko zinda rakha
-  
+  Dil phat gaya yaad aaya pehlu tera Bibi
+  Dar jalta tum pe gira Bibi
+  Kis tarah tum ne saha Bibi
+  Mohsin tumhaara na zinda raha
+  Baagh-e-Fadak tum se chhina gaya
+  Har zulm ummat ka tum ne saha
+  Lekin wilaayat ko zinda rakha
+  Sallallahu alaik ya Fatimeh
+
   6
   Karbobala mein bas luta hai tera hi ghar
-  Pyasa raha hai tera sarwar
-  Be aasra thi teri dukhtar
-  Jis waqt chinti thi sar se rida
-  Akbar na qasim na abbas tha
+  Pyaasa raha hai tera Sarwar
+  Beaasra thi teri dukhtar
+  Jis waqt chhinti thi sar se rida
+  Akbar na Qaasim na Abbaas tha
   Ro ro ke deti rahi wo sada
-  Ya zahra ya zahra ya zahra
-  
+  Ya Zahra ya Zahra ya Zahra
+  Sallallahu alaik ya Fatimeh
+
   7
-  Hai muntazir zeeshan aur tera taha
-  Aa jaye jald tera beta
-  Dekhe taameer tera rauza
-  Hojaye ab jald unka zahoor
-  Ab hum na reh payenge unse door
-  Ay bibi dil mera gham se hai choor
-  Saanson ka ruk jaye na silsila
+  Hai muntazir Zeeshan aur tera Taha
+  Aa jaae jald tera beta
+  Dekhe taamir tera rauza
+  Ho jaae ab jald un ka zuhur
+  Ab hum na reh paaeṅge un se dur
+  Ae Bibi dil mera gham se chur
+  Saansoṅ ka ruk jaae na silsila
+  Sallallahu alaik ya Fatimeh
 # source_id: nohayonline:e6e7f824e5f66f1c1da9
 # source_url: https://www.nohayonline.com/details_content.php?id=1028
 # raw_sha256: 43073acafec9465222ed12738a29fd76b603cdc73e724a06d614866b3943047d
@@ -82,22 +90,24 @@ romanLyrics: |-
 صل اللہ علیک یا فاطمہ
 
 ۱
-آنسوں میرے دیتے ہیں تم کو صدا بی بی
-بے چین دل ہے میرا بی بی
-قدموں میں دیدو جگہ بی بی
+آنسو میرے دیتے ہیں تم کو صدا بی‌بی
+بے چین دل ہے میرا بی‌بی
+قدموں میں دے دو جگہ بی‌بی
 مرضی ہے درکار یا مرضیہ
-دیدو مجھے فرش غم کا صلہ
+دے دو مجھے فرشِ غم کا صلہ
 شبیر کا تم کو ہے واسطہ
 سن لو میرے آنسوؤں کی صدا
+صل اللہ علیک یا فاطمہ
 
 ۲
 یا سیدہ مشکل کشا ہو یا علی کی تم
 ہو حال دل کا سمجھتی تم
 فریاد سن لو ہماری تم
-کر دیجیۓ ہم پہ اپنا کرم
+کر دیجیے ہم پہ اپنا کرم
 دل میں رہے بس حسینی غم
-سب دور ہو جاے رنج و الم
+سب دور ہو جائے رنج و الم
 ٹوٹے دلوں کا تم ہی آسرا
+صل اللہ علیک یا فاطمہ
 
 ۳
 یا فاطمہ چادر کا ہم پہ کرو سایہ
@@ -105,26 +115,29 @@ romanLyrics: |-
 در پہ تمہارے چلا آیا
 اللہ اکبر یہ تیری ردا
 دیتی رہی مصطفیٰ کو شفا
-ہم پر بھی نظر کرم ہو زرا
-کر دیجیۓ درد و غم کی دوا
+ہم پر بھی نظرِ کرم ہو ذرا
+کر دیجیے درد و غم کی دوا
+صل اللہ علیک یا فاطمہ
 
 ۴
 ہم کو ملا جو کچھ وہ تیری بدولت ہے
 ہو ماتمی میری قسمت ہے
 ہم پر تیری یہ عنایت ہے
 الحمدللہ ہے تیرا کرم
-کہہ لاے جاتے ہیں حسینی ہم
+کہلائے جاتے ہیں حسینی ہم
 شبیر کا دل میں بسا ہے غم
-ہم ہے عزادار تیری دعا
+ہم ہیں عزادار تیری دعا
+صل اللہ علیک یا فاطمہ
 
 ۵
-دل پھٹ گیا یاد آیا پہلو تیرا بی بی
-در جلتا تم پہ گرا بی بی
-کس طرح تم نے سہا بی بی
+دل پھٹ گیا یاد آیا پہلو تیرا بی‌بی
+در جلتا تم پہ گرا بی‌بی
+کس طرح تم نے سہا بی‌بی
 محسن تمہارا نہ زندہ رہا
-باغ فدک تم سے چھینا گیا
+باغِ فدک تم سے چھینا گیا
 ہر ظلم امت کا تم نے سہا
 لیکن ولایت کو زندہ رکھا
+صل اللہ علیک یا فاطمہ
 
 ۶
 کربوبلا میں بس لٹا ہے تیرا ہی گھر
@@ -134,12 +147,14 @@ romanLyrics: |-
 اکبر نہ قاسم نہ عباس تھا
 رو رو کے دیتی رہی وہ صدا
 یا زہرا یا زہرا یا زہرا
+صل اللہ علیک یا فاطمہ
 
 ۷
-ہے منتظر زیشان اور تیرا تاہا
-آ جاے جلد تیرا بیٹا
+ہے منتظر ذیشان اور تیرا طٰہٰ
+آ جائے جلد تیرا بیٹا
 دیکھے تعمیر تیرا روضہ
-ہو جاے اب جلد ان کا ظہور
-اب ہم نہ رہ پاےنگے ان سے دور
-اے بی بی دل میرا غم سے چور
-سانسوں کا رک جاے نہ سلسلہ
+ہو جائے اب جلد ان کا ظہور
+اب ہم نہ رہ پائیں گے ان سے دور
+اے بی‌بی دل میرا غم سے چور
+سانسوں کا رک جائے نہ سلسلہ
+صل اللہ علیک یا فاطمہ
