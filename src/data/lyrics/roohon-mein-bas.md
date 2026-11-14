@@ -1,74 +1,75 @@
 ---
-title: "روحوں میں بس گیء ہے عقیدت حسین کی"
-alternateTitle: "Roohon Mein Bas"
+title: "روحوں میں بس گئی ہے عقیدت حسین کی"
+alternateTitle: "Ruhoṅ Meiṅ Bas"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
+reciter: "Tableegh e Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Roohon mein bas gayi hai aqeedat hussain ki
-  Seenon mein dil hai dil mein turbat hussain ki
+  Ruhoṅ meiṅ bas gayi hai aqidat Husain ki
+  Sinoṅ meiṅ dil hai dil meiṅ turbat Husain ki
 
   1
-  Yun deen e mustafa mein hai shirkat hussain ki
-  Allah ki azaan hai aqamat hussain ki
+  Yuṅ din-e-Mustafa meiṅ hai shirkat Husain ki
+  Allah ki azaaṅ hai iqaamat Husain ki
 
   2
-  Farshe aza hai mere liye gham ki janamaz
-  Ashkon se kar raha hoon ibadat hussain ki
+  Farsh-e-aza hai mere liye gham ki jaanamaaz
+  Ashkoṅ se kar raha huṅ ibaadat Husain ki
 
   3
-  Deen e mohamadi se nikal jaaye wo abhi
-  Jis ko nahi qubool qayadat hussain ki
+  Din-e-Muhammadi se nikal jaaye wo abhi
+  Jis ko nahiṅ qubul qiyaadat Husain ki
 
   4
-  Ruswa jagah jagah na musalman ho kabhi
-  Dil se nikaal de jo adawat hussain ki
+  Ruswa jagah jagah na musalmaan ho kabhi
+  Dil se nikaal de jo adaawat Husain ki
 
   5
-  Haathon mein hai hussain ke zulf e nabi muhaar
-  Marzi pe chal rahi hai risalat hussain ki
+  Haathoṅ meiṅ hai Husain ke zulf-e-Nabi mahaar
+  Marzi pe chal rahi hai risaalat Husain ki
 
   6
-  Sikka ali ka aur khuda ka nizaam ho
-  Ho mustafa ka mulk hukumat hussain ki
+  Sikka Ali ka aur Khuda ka nizaam ho
+  Ho Mustafa ka mulk hukumat Husain ki
 
   7
-  Pani ka jaam saamne aata hai jitni baar
-  Karta hoon itni baar ziyarat hussain ki
+  Paani ka jaam saamne aata hai jitni baar
+  Karta huṅ itni baar ziyaarat Husain ki
 
   8
-  Asghar ko laaye ran mein ye kehte huwe hussain
-  Nana bas aakhri hai ye khidmat hussain ki
+  Asghar ko laaye ran meiṅ ye kehte hue Husain
+  Naana bas aakhri hai ye khidmat Husain ki
 
   9
-  Cha chal ke ruk raha tha jo gardan pe baar baar
-  Khanjar tabhi garan thi aziyat hussain ki
+  Chal chal ke ruk raha tha jo gardan pe baar baar
+  Khanjar tabhi giraaṅ thi aziyat Husain ki
 
   10
-  Talwaar dushmano pe hai mehshar tera qalam
-  Tere qalam ki zarbat hai zarbat hussain ki
+  Talwaar dushmanoṅ pe hai Mehshar tera qalam
+  Tere qalam ki zarbat hai zarbat Husain ki
 # source_id: nohayonline:61e8ac699b37c9ecb462
 # source_url: https://www.nohayonline.com/details_content.php?id=3478
 # raw_sha256: 2dff7a1090f4e9e7611bd64e4cab67df02f3b924539f20aad947e0a4502d0043
 ---
-روحوں میں بس گیء ہے عقیدت حسین کی
+روحوں میں بس گئی ہے عقیدت حسین کی
 سینوں میں دل ہے دل میں تربت حسین کی
 
 ۱
-یوں دین مصطفیٰ میں ہے شرکت حسین کی
+یوں دینِ مصطفیٰ میں ہے شرکت حسین کی
 اللّٰہ کی اذاں ہے اقامت حسین کی
 
 ۲
-فرش عزا ہے میرے لیےء غم کی جانماز
+فرشِ عزا ہے میرے لیے غم کی جانماز
 اشکوں سے کر رہا ہوں عبادت حسین کی
 
 ۳
-دین محمدی سے نکل جائے وہ ابھی
+دینِ محمدی سے نکل جائے وہ ابھی
 جس کو نہیں قبول قیادت حسین کی
 
 ۴
@@ -76,7 +77,7 @@ romanLyrics: |-
 دل سے نکال دے جو عداوت حسین کی
 
 ۵
-ہاتھوں میں ہے حسین کے ذلف نبی مہار
+ہاتھوں میں ہے حسین کے زلفِ نبی مہار
 مرضی پہ چل رہی ہے رسالت حسین کی
 
 ۶
@@ -88,7 +89,7 @@ romanLyrics: |-
 کرتا ہوں اتنی بار زیارت حسین کی
 
 ۸
-اصغر کو لاے رن میں یہ کہتے ہوئے حسین
+اصغر کو لائے رن میں یہ کہتے ہوئے حسین
 نانا بس آخری ہے یہ خدمت حسین کی
 
 ۹

@@ -6,44 +6,45 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zair Naqvi"
+reciter: "Mukhtar Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Roti hai ali zaadi baba ke janaze par
-  Band aankhon se rote hai har bain par khud hyder
+  Roti hai Ali zaadi baaba ke janaaze par
+  Band aankhoṅ se rote haiṅ har bain par khud Haider
 
   1
-  Maa chod gayi pehle ab chod chale tum bhi
-  Ab tak mai nahi bhooli jalta hua baba dar
+  Maaṅ chhor gayi pehle ab chhor chale tum bhi
+  Ab tak main nahiṅ bhuli jalta hua baaba dar
 
   2
-  Ye kufe ki galiyon may hyder ka janaza hai
-  Ya mehmil e zainab hai ye shaam ke raste par
+  Ye Kufe ki galiyoṅ meiṅ Haider ka janaaza hai
+  Ya mahmil-e-Zainab hai ye Shaam ke raste par
 
   3
-  Hasnain ke rone ki chayi hai sada har soo
-  Sab dekhte hai baba ro ro ke tera bistar
+  Hasnain ke rone ki chhaayi hai sada har su
+  Sab dekhte haiṅ baaba ro ro ke tera bistar
 
   4
-  Har roz musalle par dhoondungi tujhe baba
-  Dekhungi bhala kaise ujda hua apna ghar
+  Har roz musalle par dhundungi tujhe baaba
+  Dekhungi bhala kaise ujra hua apna ghar
 
   5
-  Ashoor ke din baba pehchan sakay mujhko
-  Phailaya hai baalon ko ye soch ke chehre par
+  Aashur ke din baaba pehchaan sake mujh ko
+  Phailaaya hai baaloṅ ko ye soch ke chehre par
 
   6
-  Kohraam hua barpa us waqt janaze par
-  Ruqsat ki ijazat di zainab ne jo khud aa kar
+  Kohraam hua barpa us waqt janaaze par
+  Rukhsat ki ijaazat di Zainab ne jo khud aa kar
 
   7
-  Ehsaas yateemi ka kehta hai mujhe baba
-  Zaalim se bacha paye beti ye teri chadar
+  Ehsaas-e-yatimi ka kehta hai mujhe baaba
+  Zaalim se bacha paaye beti ye teri chaadar
 
   8
-  Zaair yehi legti tha taboot hai shaane pe
-  Maula ki shahadat ka likhta tha mai jab manzar
+  Zaair yahi legti tha taabut hai shaane pe
+  Maula ki shahaadat ka likhta tha main jab manzar
 # source_id: nohayonline:8af64a87e64ee685da99
 # source_url: https://www.nohayonline.com/details_content.php?id=2088
 # raw_sha256: b19b9af35a881a37d204097c78bac04ef9dd8d9ba319f84ee4f6ca9ff1867719
@@ -52,7 +53,7 @@ romanLyrics: |-
 بند آنکھوں سے روتے ہیں ہر بین پر خود حیدر
 
 ۱
-ماں چھوڑ گیء پہلے اب چھوڑ چلے تم بھی
+ماں چھوڑ گئی پہلے اب چھوڑ چلے تم بھی
 اب تک میں نہیں بھولی جلتا ہوا بابا در
 
 ۲
@@ -60,7 +61,7 @@ romanLyrics: |-
 یہ محمل زینب ہے یہ شام کے رستے پر
 
 ۳
-حسنین کے رونے کی چھای ہے صدا ہر سوں
+حسنین کے رونے کی چھائی ہے صدا ہر سوں
 سب دیکھتے ہیں بابا رو رو کے تیرا بستر
 
 ۴
@@ -68,7 +69,7 @@ romanLyrics: |-
 دیکھوں گی بھلا کیسے اجڑا ہوا اپنا گھر
 
 ۵
-عاشور کے دن بابا پہچان سکے مجھکو
+عاشور کے دن بابا پہچان سکے مجھ کو
 پھیلایا ہے بالوں کو یہ سوچ کے چہرے پر
 
 ۶
@@ -76,8 +77,8 @@ romanLyrics: |-
 رخصت کی اجازت دی زینب نے جو خود آ کر
 
 ۷
-احساس یتیمی کا کہتا ہے مجھے بابا
-ظالم سے بچا پاے بیٹی یہ تیری چادر
+احساسِ یتیمی کا کہتا ہے مجھے بابا
+ظالم سے بچا پائے بیٹی یہ تیری چادر
 
 ۸
 زاری یہی لگتی تھا تابوت ہے شانے پہ
