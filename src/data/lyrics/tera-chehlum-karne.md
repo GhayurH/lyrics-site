@@ -6,110 +6,125 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ya abbas ya abbas
-  Mai teri jaageer mein aayi hoo abbas
-  Mai shaam se lut kar aayi hoo
-  Saughaate masayeb laayi hoo
-  Tera chehlum karne aayi hoo
+  Ya Abbas ya Abbas
+  Main teri jaagir mein aayi huṅ Abbas
+
+  Main Shaam se lut kar aayi huṅ
+  Saughaat-e-masaaib laayi huṅ
+  Tera chehlum karne aayi huṅ
   Abbas
 
   1
-  Rudaad sunane ko mai shaam se aayi hoo
-  Ek daagh sakina ka is qalb mein laayi hoo
-  Zindan e sitam ki qaidi thi
+  Rudaad sunaane ko main Shaam se aayi huṅ
+  Ek daagh Sakina ka is qalb mein laayi huṅ
+  Zindaan-e-sitam ki qaidi thi
   Furqat mein padar ke roti thi
-  Ro ro ke sakina jaan se gayi
+  Ro ro ke Sakina jaaṅ se gayi
+  Abbas
 
   2
-  Laashon se juda ho kar jis waqt chali zainab
-  Khud ranj o masayeb ki tasweer bani zainab
-  Pathrayi hui ye aankhein thi
-  Pathreeli safar ki raahein thi
-  Raahon mein faqad ye aahein thi
+  Laashoṅ se juda ho kar jis waqt chali Zainab
+  Khud ranj o masaaib ki tasvir bani Zainab
+  Pathraayi hui ye aaṅkheṅ thi
+  Pathrili safar ki raaheṅ thi
+  Raahoṅ mein faqat ye aaheṅ thi
+  Abbas
 
   3
-  Mehmil na amaari thi na sar pe mere chadar
-  Mai shaam chali ghazi pabande rasan ho kar
+  Mahmil na amaari thi na sar pe mere chaadar
+  Main Shaam chali Ghaazi paaband-e-rasan ho kar
   Yaad aaye mujhe phir wo lamhe
   Hum log watan se jab nikle
-  Mehmil mein bithaya tha tu ne
+  Mahmil mein bithaaya tha tu ne
+  Abbas
 
   4
-  Kya sakht safar tha wo har gaam tadapti thi
-  Bhai mera naize par mai aag pe chalti thi
-  Thay ashk musalsal aankhon mein
-  Thi khaak e safar hi baalon mein
-  Aur naam tera tha naalon mein
+  Kya sakht safar tha wo har gaam tarapti thi
+  Bhai mera naize par main aag pe chalti thi
+  The ashk musalsal aaṅkhoṅ mein
+  Thi khaak-e-safar hi baaloṅ mein
+  Aur naam tera tha naaloṅ mein
+  Abbas
 
   5
-  Ye ajr risalat ka hum logo ne paaya tha
-  Aamad pe aseeron ki bazaar sajaya tha
-  Wo lamhe kabhi na bhuloongi
-  Darbar mein pahunche jab qaidi
-  Mai yaad tujhe hi karti thi
+  Ye ajr-e-risaalat ka hum logoṅ ne paaya tha
+  Aamad pe asiroṅ ki baazaar sajaaya tha
+  Wo lamhe kabhi na bhuluṅgi
+  Darbaar mein pahunche jab qaidi
+  Main yaad tujhe hi karti thi
+  Abbas
 
   6
-  Darbar mein ay ghazi hum par ye jafayein thi
-  Ek samt mera khutba ek samt azaane thi
-  Haakim ne shaki se ye poocha
-  Hai in mein zainab kaun bhala
-  Wo zainab jis ka bhai tha
+  Darbaar mein ae Ghaazi hum par ye jafaaeṅ thi
+  Ek samt mera khutba ek samt azaaneṅ thi
+  Haakim ne shaqi se ye puchha
+  Hai in mein Zainab kaun bhala
+  Wo Zainab jis ka bhai tha
+  Abbas
 
   7
-  Zindan mein aseeron ne ek saal guzara hai
+  Zindaaṅ mein asiroṅ ne ek saal guzaara hai
   Us saal ka har lamha ek saal ke jaisa hai
-  Jab hukm rehaai ka aaya
-  Aur loot ka sab saaman mila
-  Chaadar jo mili zainab ne kaha
+  Jab hukm rihaai ka aaya
+  Aur lut ka sab saamaaṅ mila
+  Chaadar jo mili Zainab ne kaha
+  Abbas
 
   8
   Farhan zara socho kya hashr bapa hoga
-  Jab mazhar e yazdan ki beti ne kaha hoga
-  Zindan se aayi hoo dekho
-  Ay sher e jari ek baar utho
-  Zainab ka isteqbaal karo
+  Jab mazhar-e-Yazdaaṅ ki beti ne kaha hoga
+  Zindaan se aayi huṅ dekho
+  Ae sher-e-jari ek baar utho
+  Zainab ka istiqbaal karo
+  Abbas
 # source_id: nohayonline:eb788a0d139a9d456069
 # source_url: https://www.nohayonline.com/details_content.php?id=2886
 # raw_sha256: 765fc4cac3e4ac1a8b9cb0571c24e30763c13d85a11f28733e42dda7d600a723
 ---
 یا عباس یا عباس
-میں تیری جاگیر میں آی ہوں عباس
-میں شام کے لٹ کر آی ہوں
-سوغات مصائب لای ہوں
-تیرا چہلم کرنے آی ہوں
+میں تیری جاگیر میں آئی ہوں عباس
+
+میں شام کے لٹ کر آئی ہوں
+سوغات مصائب لائی ہوں
+تیرا چہلم کرنے آئی ہوں
 عباس
 
 ۱
-روداد سنانے کو میں شام سے آی ہوں
-اک داغ سکینہ کا اس قلب میں لای ہوں
+روداد سنانے کو میں شام سے آئی ہوں
+اک داغ سکینہ کا اس قلب میں لائی ہوں
 زندان ستم کی قیدی تھی
 فرقت میں پدر کے روتی تھی
-رو رو کے سکینہ جاں سے گیء
+رو رو کے سکینہ جاں سے گئی
+عباس
 
 ۲
 لاشوں سے جدا ہو کر جس وقت چلی زینب
-خود رنج و مصایب کی تصویر بنی زینب
+خود رنج و مصائب کی تصویر بنی زینب
 پتھرائی ہوئی یہ آنکھیں تھی
 پتھریلی سفر کی راہیں تھی
 راہوں میں فقط یہ آہیں تھی
+عباس
 
 ۳
 محمل نہ عماری تھی نہ سر پہ میرے چادر
 میں شام چلی غازی پابند رسن ہو کر
-یاد آے مجھے پھر وہ لمحے
+یاد آئے مجھے پھر وہ لمحے
 ہم لوگ وطن سے جب نکلے
 محمل میں بٹھایا تھا تو نے
+عباس
 
 ۴
 کیا سخت سفر تھا وہ ہر گام تڑپتی تھی
-بھای میرا نیزے پر میں آگ پہ چلتی تھی
+بھائی میرا نیزے پر میں آگ پہ چلتی تھی
 تھے اشک مسلسل آنکھوں میں
 تھی خاک سفر ہی بالوں میں
 اور نام تیرا تھا نالوں میں
+عباس
 
 ۵
 یہ اجر رسالت کا ہم لوگوں نے پایا تھا
@@ -117,24 +132,28 @@ romanLyrics: |-
 وہ لمحے کبھی نہ بھولوں گی
 دربار میں پہنچے جب قیدی
 میں یاد تجھے ہی کرتی تھی
+عباس
 
 ۶
-دربار میں اے غازی ہم پر یہ جفاییں تھی
+دربار میں اے غازی ہم پر یہ جفائیں تھی
 ایک سمت میرا خطبہ ایک سمت اذان تھی
 حاکم نے شقی سے یہ پوچھا
 ہے ان میں زینب کون بھلا
 وہ زینب جس کا بھائی تھا
+عباس
 
 ۷
 زنداں میں اسیروں نے ایک سال گزارا ہے
 اس سال کا ہر لمحہ ایک سال کے جیسا ہے
-جب حکم رہای کا آیا
+جب حکم رہائی کا آیا
 اور لوٹ کا سب ساماں ملا
 چادر جو ملی زینب نے کہا
+عباس
 
 ۸
-فرحان زرا سوچو کیا حشر بپا ہوگا
+فرحان ذرا سوچو کیا حشر بپا ہوگا
 جب مظہر یزداں کی بیٹی نے کہا ہوگا
-زندان سے آی ہوں دیکھو
+زندان سے آئی ہوں دیکھو
 اے شیر جری اک بار اٹھو
 زینب کا استقبال کرو
+عباس
