@@ -1,61 +1,62 @@
 ---
 title: "شبیر کے ہاتھوں سے جو گھر میں بنا دولہا"
-alternateTitle: "Shabbir Ke Haaton Se"
+alternateTitle: "Shabbir Ke Haathoṅ Se"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ishrat Lakhnavi"
+reciter: "Afzal Mirza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shabbir ke haaton se jo ghar may bana dulha
-  Wo ghodon ki taapon se pamaal hua dulha
+  Shabbir ke haathoṅ se jo ghar meiṅ bana dulha
+  Wo ghoroṅ ki taapoṅ se paamaal hua dulha
 
   1
-  Ye maadar e qasim ne sar peet ke farmaya
-  Jaata hai suye maqtal be aab o ghiza dulha
+  Ye maadar-e-Qaasim ne sar pit ke farmaaya
+  Jaata hai su-e-maqtal beaab o ghiza dulha
 
   2
-  Kangna tha na badhdhi thi poshak purani thi
-  Is shaan se maidan may marne ko gaya dulha
+  Kangna tha na badhdhi thi poshaak puraani thi
+  Is shaan se maidaaṅ meiṅ marne ko gaya dulha
 
   3
-  Chauti thi na chale thay sukh gham ke hawale thay
-  Is tarz ka dunya ne dekha na suna dulha
+  Chauthi thi na chale the sukh gham ke hawaale the
+  Is tarz ka duniya ne dekha na suna dulha
 
   4
-  Maqtal may pahunchte hi teeron se hui daawat
-  Shaadi ka har ek tohfa ghar le ke chala dulha
+  Maqtal meiṅ pahunchte hi tiroṅ se hui daawat
+  Shaadi ka har ik tohfa ghar le ke chala dulha
 
   5
-  Sarwar ne padhe seeghe zainab ne balayein li
+  Sarwar ne parhe sighe Zainab ne balaaeṅ li
   Jab aqd ki masnad se khush ho ke utha dulha
 
   6
   Is shaan ki shaadi to dekhi na suni ab tak
-  Paaya nahi ek khatra be-aab raha dulha
+  Paaya nahiṅ ik khatra beaab raha dulha
 
   7
   Sar jis ka tha naize par aur jism tha reti par
-  Kubra tere qismat ko kya khoob mila dulha
+  Kubra tere qismat ko kya khub mila dulha
 
   8
-  Lo khoon ke darya may jaata hai nahane ko
-  Kubra ke muqqadar ka armaan bana dulha
+  Lo khun ke darya meiṅ jaata hai nahaane ko
+  Kubra ke muqaddar ka armaan bana dulha
 
   9
-  Kubra to galay mil kar baji se bahot royi
+  Kubra to gale mil kar baaji se bahut roi
   Sughra se watan aa kar khud mil na saka dulha
 
   10
-  Damaad ko seene se lipta liya sarwar ne
-  Jalti hui reti par jab ran may gira dulha
+  Daamaad ko sine se lipta liya Sarwar ne
+  Jalti hui reti par jab ran meiṅ gira dulha
 
   11
-  Kubra ko masayib ki zanjeer mili ishrat
-  Khud qaid e musibat se azaad hua dulha
+  Kubra ko masaaib ki zanjir mili Ishrat
+  Khud qaid-e-musibat se aazaad hua dulha
 # source_id: nohayonline:737b9638216e0bccc926
 # source_url: https://www.nohayonline.com/details_content.php?id=1873
 # raw_sha256: 8ee58fd362bb6035c375595e33a3610548d032d720ef76b7f8191b0d0e8bee16
@@ -64,8 +65,8 @@ romanLyrics: |-
 وہ گھوڑوں کی ٹاپوں سے پامال ہوا دولہا
 
 ۱
-یہ مادر قاسم نے سر پیٹ کے فرمایا
-جاتا ہے سوے مقتل بے آب و غذا دولہا
+یہ مادرِ قاسم نے سر پیٹ کے فرمایا
+جاتا ہے سوئے مقتل بے آب و غذا دولہا
 
 ۲
 کنگنا تھا نہ باندھی تھی پوشاک پرانی تھی
@@ -76,12 +77,12 @@ romanLyrics: |-
 اس طرز کا دنیا نے دیکھا نہ سنا دولہا
 
 ۴
-مقتل میں پہنچتے ہی تیروں سے ہی دعوت
+مقتل میں پہنچتے ہی تیروں سے ہوئی دعوت
 شادی کا ہر اک تحفہ گھر لے کے چلا دولہا
 
 ۵
-سرور نے پڑھے صیغے زینب نے بلاییں لی
-جب عقد کی مسند سےخوش ہو کے اٹھا دولہا
+سرور نے پڑھے صیغے زینب نے بلائیں لی
+جب عقد کی مسند سے خوش ہو کے اٹھا دولہا
 
 ۶
 اس شان کی شادی تو دیکھی نہ سنی اب تک
@@ -96,7 +97,7 @@ romanLyrics: |-
 کبرا کے مقدر کا ارمان بنا دولہا
 
 ۹
-کبرا تو گلے مل کر باجی سے بہت روی
+کبرا تو گلے مل کر باجی سے بہت روئی
 صغرا سے وطن آ کر خود مل نہ سکا دولہا
 
 ۱۰
@@ -105,4 +106,4 @@ romanLyrics: |-
 
 ۱۱
 کبرا کو مصائب کی زنجیر ملی عشرت
-خود قید مصیبت سے آزاد ہوا دولہا
+خود قیدِ مصیبت سے آزاد ہوا دولہا

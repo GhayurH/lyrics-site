@@ -6,62 +6,63 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Asif Bijnori"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Tasht se uth ke chala hazrate shabbir ka sar
-  Hasrat o yaas se daali jo sakina ne nazar
+  Tasht se uth ke chala Hazrat-e-Shabbir ka sar
+  Hasrat o yaas se daali jo Sakina ne nazar
 
   1
-  Imtehan baani e shar ne jo sakina ka liya
-  Ho gaya shaam ke darbar mein kohraam bapa
-  Dekh kar rone lage ahle nazar ye manzar
+  Imtihaaṅ baani-e-shar ne jo Sakina ka liya
+  Ho gaya Shaam ke darbaar meiṅ kohraam bapa
+  Dekh kar rone lage ahl-e-nazar ye manzar
 
   2
-  Sar jhukaye sare darbar khadi thi bacchi
-  Ye khuda jaane ke kya soch rahi thi bacchi
-  Ashk aankhon se gire jab ke zameen ke upar
+  Sar jhukaaye sar-e-darbaar khari thi bachchi
+  Ye Khuda jaane ke kya soch rahi thi bachchi
+  Ashk aankhoṅ se gire jab ke zamiṅ ke upar
 
   3
-  Neel ruksaar ka baba ko dikhaya hoga
-  Kitne khaaye hai tamache ye bataya hoga
-  Apne dukh dard kiye honge bayan ro ro kar
+  Nil rukhsaar ka Baaba ko dikhaaya ho ga
+  Kitne khaaye haiṅ tamaache ye bataaya ho ga
+  Apne dukh dard kiye hoṅ ge bayaaṅ ro ro kar
 
   4
-  Chup rahi bali sakina ne kahan kuch bola
-  Sirf ek baar jale kurte ka daaman khola
-  Koi shikwa ya shikayat nahi laayi lab par
+  Chup rahi baali Sakina ne kahaaṅ kuchh bola
+  Sirf ik baar jale kurte ka daaman khola
+  Koi shikwa ya shikaayat nahiṅ laai lab par
 
   5
-  Dekhte rote huwe kaise yateema ko hussain
-  Kar nahi sakte thay meinoos sakina ko hussain
-  Haath phailaye bulaane ke liye jab ro kar
+  Dekhte rote hue kaise yatima ko Husain
+  Kar nahiṅ sakte the maayus Sakina ko Husain
+  Haath phailaaye bulaane ke liye jab ro kar
 
   6
-  Chaahte kab ke sakina ko koi kuch bole
-  Kab gawara tha zaban apni sitamgar khole
-  Beridayi ka safar rakhte huwe madde nazar
+  Chaahte kab ke Sakina ko koi kuchh bole
+  Kab gawaara tha zabaaṅ apni sitamgar khole
+  Beridaai ka safar rakhte hue madd-e-nazar
 
   7
-  Baap shabbir sa aur beti sakina jaisi
-  Dhoondne se bhi kisi ko na mila aur na mili
-  Hum ne dekha sare darbar ye chaahat ka asar
+  Baap Shabbir sa aur beti Sakina jaisi
+  Dhundne se bhi kisi ko na mila aur na mili
+  Ham ne dekha sar-e-darbaar ye chaahat ka asar
 
   8
-  Jalwagar doshe hawa pe sare sarwar dekha
-  Jaane kin aankhon se zaalim ne ye manzar dekha
-  Sharm se apna utha paaya na sar baani e shar
+  Jalwagar dosh-e-hawa pe sar-e-Sarwar dekha
+  Jaane kin aankhoṅ se zaalim ne ye manzar dekha
+  Sharm se apna utha paaya na sar baani-e-shar
 
   9
-  Kaifiyat bali sakina ki bayan kaise karun
-  Dard jo dil mein hai chehre pe ayan kaise karun
-  Neel hi neel nazar aate thsy ruksaron par
+  Kaifiyat baali Sakina ki bayaaṅ kaise karuṅ
+  Dard jo dil meiṅ hai chehre pe ayaaṅ kaise karuṅ
+  Nil hi nil nazar aate the rukhsaaroṅ par
 
   10
-  Moo pe moo rakh ke sakina ne kiye bain asif
-  Chand lamhe hi yateema ko mila chain asif
-  Dayr tak roye mowarrikh bhi ye aamir likh kar
+  Muṅh pe muṅh rakh ke Sakina ne kiye bain Aasif
+  Chand lamhe hi yatima ko mila chain Aasif
+  Der tak roe muarrikh bhi ye Aamir likh kar
 # source_id: nohayonline:edfc2349d8896c8ba0f4
 # source_url: https://www.nohayonline.com/details_content.php?id=2145
 # raw_sha256: cb4ba0d0dec820e10e31041d61cf7f9a5b90a0be2e42021388d09ddd6f07e6f4
@@ -70,51 +71,51 @@ romanLyrics: |-
 حسرت و یاس سے ڈالی جو سکینہ نے نظر
 
 ۱
-امتحاں بانیء شر نے جو سکینہ کا لیا
+امتحاں بانیِ شر نے جو سکینہ کا لیا
 ہو گیا شام کے دربار میں کہرام بپا
 دیکھ کر رونے لگے اہلِ نظر یہ منظر
 
 ۲
-سر جھکائے سر دربار کھڑی تھی بچی
+سر جھکائے سرِ دربار کھڑی تھی بچی
 یہ خدا جانے کہ کیا سوچ رہی تھی بچی
 اشک آنکھوں سے گرے جب کہ زمیں کے اوپر
 
 ۳
 نیل رخسار کا بابا کو دکھایا ہو گا
-کتنے کھاے ہیں طمانچے یہ بتایا ہوگا
-اپنے دکھ درد کیےء ہونگے بیاں رو رو کر
+کتنے کھائے ہیں طمانچے یہ بتایا ہو گا
+اپنے دکھ درد کیے ہوں گے بیاں رو رو کر
 
 ۴
 چپ رہی بالی سکینہ نے کہاں کچھ بولا
 صرف اک بار جلے کرتے کا دامن کھولا
-کوئی شکوہ یا شکایت نہیں لای لب پر
+کوئی شکوہ یا شکایت نہیں لائی لب پر
 
 ۵
-دیکھتے روتے ہوے کیسے یتیمہ کو حسین
+دیکھتے روتے ہوئے کیسے یتیمہ کو حسین
 کر نہیں سکتے تھے مایوس سکینہ کو حسین
-ہاتھ پھیلائے بلانے کے لےء جب رو کر
+ہاتھ پھیلائے بلانے کے لیے جب رو کر
 
 ۶
 چاہتے کب کہ سکینہ کو کوئی کچھ بولے
 کب گوارا تھا زباں اپنی ستمگر کھولے
-بے ردائی کا سفر رکھتے ہوے مد نظر
+بے ردائی کا سفر رکھتے ہوئے مدِ نظر
 
 ۷
 باپ شبیر سا اور بیٹی سکینہ جیسی
 ڈھونڈنے سے بھی کسی کو نہ ملا اور نہ ملی
-ہم نے دیکھا سر دربار یہ چاہت کا اثر
+ہم نے دیکھا سرِ دربار یہ چاہت کا اثر
 
 ۸
-جلوہ گر دوش ہوا پہ سر سرور دیکھا
+جلوہ گر دوشِ ہوا پہ سرِ سرور دیکھا
 جانے کن آنکھوں سے ظالم نے یہ منظر دیکھا
-شرم سے اپنا اٹھا پایا نہ سر بانیء شر
+شرم سے اپنا اٹھا پایا نہ سر بانیِ شر
 
 ۹
-کیفیت بالی سکینہ کیبیاں کیسے کروں
+کیفیت بالی سکینہ کی بیاں کیسے کروں
 درد جو دل میں ہے چہرے پہ عیاں کیسے کروں
 نیل ہی نیل نظر آتے تھے رخساروں پر
 
 ۱۰
-منہ پہ منہ رکھ کے سکینہ نے کیےء بین آصف
+منہ پہ منہ رکھ کے سکینہ نے کیے بین آصف
 چند لمحے ہی یتیمہ کو ملا چین آصف
-دیر تک روے مؤرخ بھی یہ عامر لکھ کر
+دیر تک روئے مؤرخ بھی یہ عامر لکھ کر
