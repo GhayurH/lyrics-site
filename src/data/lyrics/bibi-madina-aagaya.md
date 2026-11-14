@@ -70,6 +70,12 @@ romanLyrics: |-
 # source_id: nohayonline:3f55baf4e4e97a402484
 # source_url: https://www.nohayonline.com/details_content.php?id=86
 # raw_sha256: 7c313c7d9ae1840ea2ccde33aed59a88d08ec65387c7143a2ee846f37299f160
+# additional_source_id: nohawriteups:1416257169a81a6ac186
+# additional_source_url: https://www.nohawriteups.org/bibi-madina-aagaya/
+# additional_raw_sha256: f8acf59cffd6877f78039b60280536e5729be5a4966814f206ba0b20adfbdaf3
+# additional_source_note: The source repeats eight already represented stanzas, with order differences. Existing bilingual source has one additional Basti Se Hat Kar stanza. The following variant line requires independent audio/printed verification.
+# additional_source_variant: In source stanza Beemaro Naghir Natawan, the ending is "Aal-e-Nabi ka karwan, kashti mein bheja jayega"; current canonical reads "Pehle naqeeb-e-karwan, basti mein bheja jayega". Do not replace the canonical text without independent evidence.
+
 ---
 فضّہ نے زینب سے کہا
 بی‌بی مدینہ آ گیا
