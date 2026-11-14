@@ -5,53 +5,54 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shabbir ka matam kiya zehra se dua li
-  Hum aaye nahi farshe aza se kabhi khaali
+  Shabbir ka maatam kiya Zehra se dua li
+  Ham aaye nahiṅ farsh-e-aza se kabhi khaali
 
   1
-  Khaake dar e zehra se jabeen kya hai sajali
-  Jannat hai khadi dar pe mere ban ke sawali
+  Khaak-e-dar-e-Zehra se jabiṅ kya hai saja li
+  Jannat hai khari dar pe mere ban ke sawaali
 
   2
-  Seene se sina khaynch ke farzandane nabi ne
-  Laash akbar e mehroo ki kaleje se lagaali
+  Sine se sinaaṅ khench ke farzandaan-e-Nabi ne
+  Laash Akbar-e-Mehru ki kaleje se laga li
 
   3
-  Hilne lagi maqtal ki zameen jab shahe deen ne
-  Barchi ali akbar ke kaleje se nikaali
+  Hilne lagi maqtal ki zamiṅ jab Shaah-e-diṅ ne
+  Barchhi Ali Akbar ke kaleje se nikaali
 
   4
-  Saahil pe tadapta hua chod aaya labe nehr
-  Ghazi ne nazar mudh ke bhi na pani pe na daali
+  Saahil pe tarapta hua chhor aaya lab-e-nehr
+  Ghaazi ne nazar mur ke bhi na paani pe na daali
 
   5
-  Murjha gaya zehra ka chaman dashte bala may
-  Maa'on ki bhari godh yahan hogayi khaali
+  Murjha gaya Zehra ka chaman dasht-e-bala meiṅ
+  Maaaoṅ ki bhari god yahaaṅ ho gayi khaali
 
   6
-  Lejate kahan mayyat e baysheer ko shabbir
-  Ek nanhi si turbat wahin maqtal may banadi
+  Le jaate kahaaṅ mayyat-e-beshir ko Shabbir
+  Ik nanhi si turbat wahiṅ maqtal meiṅ bana di
 
   7
-  Saahil pe tadapta raha abbas ka laasha
-  Qaime may tadapti rahi aaghosh ki paali
+  Saahil pe tarapta raha Abbas ka laasha
+  Khaime meiṅ tarapti rahi aaghosh ki paali
 # source_id: nohayonline:3edb8550c58a32d5e0cc
 # source_url: https://www.nohayonline.com/details_content.php?id=491
 # raw_sha256: ae112cb262141482c5421824abf54885ef27975ba40e26127ff11097b0a13964
 ---
 شبیر کا ماتم کیا زہرا سے دُعا لی
-ہم آئے نہیں فرشِ اعزائ سے کبھی خالی
+ہم آئے نہیں فرشِ عزا سے کبھی خالی
 
 ۱
 خاکِ درِ زہرا سے جبیں کیا ہے سجا لی
-جنت ہے کھڑی در پہ میرے بن کہ سوالی
+جنت ہے کھڑی در پہ میرے بن کے سوالی
 
 ۲
-سینے سے سناں کھینچ کہ فرزندِ نبی نے
+سینے سے سناں کھینچ کے فرزندِ نبی نے
 لاشِ اکبر محروو کی کلیجے سے لگا لی
 
 ۳
@@ -60,11 +61,11 @@ romanLyrics: |-
 
 ۴
 ساحل پہ تڑپتا ہوا چھوڑ آیا لبِ نہر
-غازی نے نظر مُڑ کہ بھی نہ پانی پہ ڈالی
+غازی نے نظر مُڑ کے بھی نہ پانی پہ ڈالی
 
 ۵
 مُرجھا گیا زہرا کا چمن دشتِ بلا میں
-مائوں کی بھری گود یہاں ہو گئی خالی
+ماؤں کی بھری گود یہاں ہو گئی خالی
 
 ۶
 لے جاتے کہاں میتِ بے شیر کو شبیر

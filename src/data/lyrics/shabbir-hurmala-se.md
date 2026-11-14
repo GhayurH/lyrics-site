@@ -6,48 +6,49 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Anwar Zahir"
+reciter: "Shareef Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shabbir hurmala se ye bole pukaar ke
-  Kya mil gaya bata mere bache ko maar ke
+  Shabbir Hurmala se ye bole pukaar ke
+  Kya mil gaya bata mere bachche ko maar ke
 
   1
-  Asghar ko ran mein lag gayi kuffaar ki nazar
-  Haalan ke maa ne bheja tha sadqa utaar ke
+  Asghar ko ran meiṅ lag gayi kuffaar ki nazar
+  Haalaaṅke maaṅ ne bheja tha sadqa utaar ke
 
   2
-  Shabbir ne hila diya fauje sitam ka dil
-  Asghar ke khoon se sabr ka chehra nikhaar ke
+  Shabbir ne hila diya fauj-e-sitam ka dil
+  Asghar ke khuṅ se sabr ka chehra nikhaar ke
 
   3
-  Jaise sajaaye jaate hai dulha isi tarha
-  Bheja gaya tha bachon ko ran mein sawaar ke
+  Jaise sajaaye jaate haiṅ dulha isi tarah
+  Bheja gaya tha bachchoṅ ko ran meiṅ sanwaar ke
 
   4
-  Zainab ki aarzoo thi ke akbar bacha rahe
-  Qurban bete kar diye akbar pe waar ke
+  Zainab ki aarzu thi ke Akbar bacha rahe
+  Qurbaan bete kar diye Akbar pe waar ke
 
   5
-  Akbar ke hosle pe malayak bhi dang hai
-  Barchi jigar pe khaayi hai seena ubhaar ke
+  Akbar ke hausle pe malaaik bhi dang haiṅ
+  Barchhi jigar pe khaayi hai sina ubhaar ke
 
   6
-  Ye kehke khat ko laasha e akbar pe rakh diya
-  Sughra watan mein ginti hai din itezaar ke
+  Ye keh ke khat ko laasha-e-Akbar pe rakh diya
+  Sughra watan meiṅ ginti hai din intezaar ke
 
   7
-  Bewa sehar ko hogayi shab mein bani dulhan
+  Bewa sehar ko ho gayi shab meiṅ bani dulhan
   Kubra ne chaar din bhi na dekhe bahaar ke
 
   8
-  Shauke wisaal rab mein thay shabbir be-khabar
-  Bosay galay ne le liye khanjar ki dhaar ke
+  Shauq-e-wisaal-e-Rab meiṅ the Shabbir bekhabar
+  Bose gale ne le liye khanjar ki dhaar ke
 
   9
-  Ye poochta hai aap se anwar basad adab
-  Rauze pe kab bulaoge maula pukaar ke
+  Ye puchhta hai aap se Anwar basad adab
+  Rauze pe kab bulaao ge Maula pukaar ke
 # source_id: nohayonline:3a2bb2f499a3bc122a55
 # source_url: https://www.nohayonline.com/details_content.php?id=1266
 # raw_sha256: 6d2b56922183bb9c4f9cf66f288949b37a05c65a4b70053acacaed27e543da9e
@@ -56,7 +57,7 @@ romanLyrics: |-
 کیا مل گیا بتا میرے بچے کو مار کے
 
 ۱
-اصغر کو رن میں لگ گیء کفار کی نظر
+اصغر کو رن میں لگ گئی کفار کی نظر
 حالانکہ ماں نے بھیجا تھا صدقہ اتار کے
 
 ۲
@@ -64,28 +65,28 @@ romanLyrics: |-
 اصغر کے خوں سے صبر کا چہرہ نکھار کے
 
 ۳
-جیسے سجاے جاتے ہیں دولہا اسی طرح
+جیسے سجائے جاتے ہیں دولہا اسی طرح
 بھیجا گیا تھا بچوں کو رن میں سنوار کے
 
 ۴
 زینب کی آرزو تھی کہ اکبر بچا رہے
-قربان بیٹے کر دیےء اکبر پہ وار کے
+قربان بیٹے کر دیے اکبر پہ وار کے
 
 ۵
-اکبر کے حوصلے پہ ملایک بھی دنگ ہیں
-برچی جگر پہ کھای ہے سینہ ابھار کے
+اکبر کے حوصلے پہ ملائک بھی دنگ ہیں
+برچھی جگر پہ کھائی ہے سینہ ابھار کے
 
 ۶
-یہ کہکے خط کو لاشہء اکبر پہ رکھ دیا
+یہ کہہ کے خط کو لاشۂ اکبر پہ رکھ دیا
 صغرا وطن میں گنتی ہے دن انتظار کے
 
 ۷
-بیوہ صحر کو ہوگیء شب میں بنی دلہن
-کبرا نے چار دن بھی نہ دیکھے بہار کے
+بیوہ سحر کو ہو گئی شب میں بنی دلہن
+کبریٰ نے چار دن بھی نہ دیکھے بہار کے
 
 ۸
-شوق وسال رب میں تھے شبیر بے خبر
-بوسے گلے نے لے لیےء خنجر کی دھار کے
+شوقِ وصالِ رب میں تھے شبیر بے خبر
+بوسے گلے نے لے لیے خنجر کی دھار کے
 
 ۹
 یہ پوچھتا ہے آپ سے انور بصد ادب

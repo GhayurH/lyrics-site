@@ -6,41 +6,42 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Jaweed Maqsood"
+reciter: "Anj. Parwane Shabbir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shabbir hai tanha mera abbas kahan hai
-  
+  Shabbir hai tanha mera Abbas kahaaṅ hai
+
   1
-  Do laakh ke narghe mein mohamed ka nashan hai
-  Hamdard kahan koi har ek dushman e jaan hai
-  Ab maut hi hyder ke dulaare ki amaan hai
-  Maqtal ki fazaon mein ye zehra ki fughan hai
-  
+  Do laakh ke narghe meiṅ Muhammad ka nishaaṅ hai
+  Hamdard kahaaṅ koi har ek dushman-e-jaaṅ hai
+  Ab maut hi Haidar ke dulaare ki amaaṅ hai
+  Maqtal ki fazaaoṅ meiṅ ye Zehra ki fughaaṅ hai
+
   2
-  Badte hai layeen haaton mein tayghon ko sambhale
-  Pathar hai baraste huwe chalte huwe bhaale
-  Mazloom ka ab koi nahi hai jo bachaale
-  Jis simt se nazar uth'ti hai khanjar hai sina hai
-  
+  Barhte hai laiṅ haathoṅ meiṅ teghoṅ ko sambhaale
+  Patthar hai baraste hue chalte hue bhaale
+  Mazlum ka ab koi nahiṅ hai jo bacha le
+  Jis simt se nazar uthti hai khanjar hai sinaaṅ hai
+
   3
-  Shabbir ki tanhaai pa haste hai sitamgar
-  Ab koi sahara nahi qasim hai na akbar
-  Sambhla nahi jaata mere bache se faras par
-  Pyase ki nigahon mein har ek simt dhuan hai
-  
+  Shabbir ki tanhaai pe hanste haiṅ sitamgar
+  Ab koi sahaara nahiṅ Qasim hai na Akbar
+  Sambhla nahiṅ jaata mere bachche se faras par
+  Pyaase ki nigaahoṅ meiṅ har ek simt dhuaaṅ hai
+
   4
-  Narghe mein sitamgaaron ke ghash hai mera dilbar
-  Khanjar liye aata hai idhar shimr e sitamgar
-  Ran mein nikal aayi hai udhar zainab e muztar
-  Qaimon mein nabi zaadiyon ki aah o fughan hai
-  
+  Narghe meiṅ sitamgaaroṅ ke ghash hai mera dilbar
+  Khanjar liye aata hai idhar Shimr-e-sitamgar
+  Ran meiṅ nikal aayi hai udhar Zainab-e-muztar
+  Khaimoṅ meiṅ nabi zaadiyoṅ ki aah o fughaaṅ hai
+
   5
-  Andaaz tasavvur mein jaga paa gaya kiska
-  Ye dard mere laal ko tadpa gaya kiska
-  Khanjar ke tale bhi ye khayal aa gaya kiska
-  Mazloom suye nehr ba hasrat nigaraan hai
+  Andaaz tasavvur meiṅ jagah paa gaya kis ka
+  Ye dard mere laal ko tarpa gaya kis ka
+  Khanjar ke tale bhi ye khayaal aa gaya kis ka
+  Mazlum su-e-nehr ba hasrat nigaraaṅ hai
 # source_id: nohayonline:b235afc7c1371da05b0c
 # source_url: https://www.nohayonline.com/details_content.php?id=1967
 # raw_sha256: 0ba0d3dd1dbda8c1fb6baef6517acb75cada2ae76fda7f47e34e2bdcdc5d5faa
@@ -56,8 +57,8 @@ romanLyrics: |-
 
 ۲
 بڑھتے ہے لعیں ہاتھوں میں تیغوں کو سنبھالے
-پتھر ہے برستے ہوے چلتے ہوے بھالے
-مظلوم کا اب کوئی نہیں ہے جو بچالے
+پتھر ہے برستے ہوئے چلتے ہوئے بھالے
+مظلوم کا اب کوئی نہیں ہے جو بچا لے
 جس سمت سے نظر اٹھتی ہے خنجر ہے سناں ہے
 
 ۳
@@ -68,12 +69,12 @@ romanLyrics: |-
 
 ۴
 نرغے میں ستمگاروں کے غش ہے میرا دلبر
-خنجر لیےء آتا ہے ادھر شمر ستمگر
-رن میں نکل آی ہے ادھر زینب مضطر
+خنجر لیے آتا ہے ادھر شمر ستمگر
+رن میں نکل آئی ہے ادھر زینب مضطر
 خیموں میں نبی زادیوں کی آہ و فغاں ہے
 
 ۵
-انداز تصور میں جگا پا گیا کس کا
+انداز تصور میں جگہ پا گیا کس کا
 یہ درد میرے لال کو تڑپا گیا کس کا
 خنجر کے تلے بھی یہ خیال آ گیا کس کا
-مظلوم سوے نہر با حسرت نگراں ہے
+مظلوم سوئے نہر با حسرت نگراں ہے
