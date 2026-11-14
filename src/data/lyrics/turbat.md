@@ -1,66 +1,67 @@
 ---
-title: "انا للہ و انا الیہ رجعون"
+title: "انا للہ و انا الیہ راجعون"
 alternateTitle: "Turbat"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Armaan"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Inna lillahi wa inna ilaihi rajeoon
+  Inna lillaahi wa inna ilaihi raajiun
   Sakina guzar gayi
-  Ab tak nahi soyi hoon sulaane chale aao
+  Ab tak nahiṅ soyi huṅ sulaane chale aao
   Turbat pe diya baba jalaane chale aao
 
   1
-  Baba mujhe matti ka makaan aisa mila hai
-  Andhera jahan tera pata pooch raha hai
+  Baba mujhe mitti ka makaaṅ aisa mila hai
+  Andhera jahaaṅ tera pata puchh raha hai
   Baba meri tanhaai mitaane chale aao
 
   2
-  Asghar ki tarha mujhko sulaane nahi aaye
-  Baba mera laasha bhi uthane nahi aye
-  Choti si sakina ko manaane chale aao
+  Asghar ki tarah mujh ko sulaane nahiṅ aaye
+  Baba mera laasha bhi uthaane nahiṅ aaye
+  Chhoti si Sakina ko manaane chale aao
 
   3
-  Kya aap koi basti basane gaye baba
-  Sughra se kiya waada nibhane gaye baba
-  Itna to sakina ko bataane chale aao
+  Kya aap koi basti basaane gaye baba
+  Sughra se kiya waada nibhaane gaye baba
+  Itna to Sakina ko bataane chale aao
 
   4
-  Daadi ki tarha mai bhi tere saath chali hoon
-  Baba mei tere sabr ke saaye mein pali hoon
-  Aansu jo chupate ho dikhane chale aao
+  Daadi ki tarah main bhi tere saath chali huṅ
+  Baba main tere sabr ke saaye mein pali huṅ
+  Aansu jo chhupaate ho dikhaane chale aao
 
   5
-  Jo teri ghareebi ka akela tha sahara
-  Pani ke liye maine usay kho diya baba
+  Jo teri gharibi ka akela tha sahaara
+  Paani ke liye main ne use kho diya baba
   Ye daagh kaleje ka mitaane chale aao
 
   6
-  Kuch aise jhuka bhai ke phir uth na saka hai
-  Baqir ka gala haye kamar se jo bandha hai
-  Bemaar se milne ke bahane chale aao
+  Kuchh aise jhuka bhaai ke phir uth na saka hai
+  Baaqir ka gala haaye kamar se jo bandha hai
+  Bimaar se milne ke bahaane chale aao
 
   7
-  Acha mujhe seene pe sulaana nahi baba
-  Kehti hoon jo amma ko batana nahi baba
-  Ehsaas yateemi ka mitane chale aao
+  Achchha mujhe sine pe sulaana nahiṅ baba
+  Kehti huṅ jo ammaṅ ko bataana nahiṅ baba
+  Ehsaas yatimi ka mitaane chale aao
 
   8
-  Armaan ye turbat se sakina ki sada hai
-  Ay baba mujhe tum ne bahot pyar kiya hai
-  Ab phoolon ki chadar hi chadhane chale aao
+  Armaan ye turbat se Sakina ki sada hai
+  Ae baba mujhe tum ne bahut pyaar kiya hai
+  Ab phuloṅ ki chaadar hi charhaane chale aao
 # source_id: nohayonline:51eff1dd8ddfa905b419
 # source_url: https://www.nohayonline.com/details_content.php?id=2787
 # raw_sha256: 80392f77a3569c702356a0eff909bd061399375ed245b21195f2ec74b44a68c8
 ---
-انا للہ و انا الیہ رجعون
-سکینہ گزر گیء
-اب تک نہیں سوی ہوں سلانے چلے آؤ
+انا للہ و انا الیہ راجعون
+سکینہ گزر گئی
+اب تک نہیں سوئی ہوں سلانے چلے آؤ
 تربت پہ دیا بابا جلانے چلے آؤ
 
 ۱
@@ -69,19 +70,19 @@ romanLyrics: |-
 بابا میری تنہائی مٹانے چلے آؤ
 
 ۲
-اصغر کی طرح مجھکو سلانے نہیں آے
-بابا میرا لاشہ بھی اٹھانے نہیں آے
+اصغر کی طرح مجھ کو سلانے نہیں آئے
+بابا میرا لاشہ بھی اٹھانے نہیں آئے
 چھوٹی سی سکینہ کو منانے چلے آؤ
 
 ۳
-کیا آپ کوئی بستی بسانے گےء بابا
-صغرا سے کیا وعدہ نبھانے گےء بابا
+کیا آپ کوئی بستی بسانے گئے بابا
+صغرا سے کیا وعدہ نبھانے گئے بابا
 اتنا تو سکینہ کو بتانے چلے آؤ
 
 ۴
 دادی کی طرح میں بھی تیرے ساتھ چلی ہوں
-بابا میں تیرے صبر کے ساے میں پلی ہوں
-آنسوں جو چھپاتے ہو دکھانے چلے آؤ
+بابا میں تیرے صبر کے سائے میں پلی ہوں
+آنسو جو چھپاتے ہو دکھانے چلے آؤ
 
 ۵
 جو تیری غریبی کا اکیلا تھا سہارا
@@ -89,8 +90,8 @@ romanLyrics: |-
 یہ داغ کلیجے کا مٹانے چلے آؤ
 
 ۶
-کچھ ایسے جھکا بھای کہ پھر اٹھ نہ سکا ہے
-باقر کا گلا ہاے کمر سے جو بندھا ہے
+کچھ ایسے جھکا بھائی کہ پھر اٹھ نہ سکا ہے
+باقر کا گلا ہائے کمر سے جو بندھا ہے
 بیمار سے ملنے کے بہانے چلے آؤ
 
 ۷

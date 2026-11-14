@@ -1,6 +1,6 @@
 ---
 title: "اُبلتا ہے سمندر خون کا اللہ کے گھر سے"
-alternateTitle: "Ubhalta Hai Samandar"
+alternateTitle: "Ubalta Hai Samandar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,36 +10,36 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ubhalta hai samandar khoon ka allah ke ghar se
-  Ali zakhmi huwe hai aaj shamsheer e sitamgar se
+  Ubalta hai samandar khun ka Allah ke ghar se
+  Ali zakhmi hue haiṅ aaj shamshir-e-sitamgar se
 
   1
   Ali ki bekali par zindagi aansu bahaati hai
-  Sada e al-feraq aati hai har ek tare bistar se
+  Sada-e-al-firaaq aati hai har ek taar-e-bistar se
 
   2
-  Pareshan surkh chehra sard hai aur surkh hai aankhein
-  Yateemi kya hai poocho aaj abbas e dilawar se
+  Pareshaan surkh chehra sard hai aur surkh haiṅ aankheṅ
+  Yatimi kya hai puchho aaj Abbaas-e-dilaawar se
 
   3
-  Dil e islam se hook uth'ti hai emaan rota hai
-  Musalle par jo behta hai namazi ka lahoo sar se
+  Dil-e-Islam se huk uthti hai imaan rota hai
+  Musalle par jo behta hai namaazi ka lahu sar se
 
   4
-  Dil e ummul baneen ko bewagi ka gham uthana hai
-  Suhagan zindagi khoon ro rahi hai deeda e tar se
+  Dil-e-Ummul Banin ko bewagi ka gham uthaana hai
+  Suhaagan zindagi khuṅ ro rahi hai dida-e-tar se
 
   5
-  Tadap ay fitrate islam moula jaane waale hai
-  Payam e irjaee aane ko hai allah ke ghar se
+  Tarap ae Fitrat-e-Islam Maula jaane waale haiṅ
+  Payaam-e-irjai aane ko hai Allah ke ghar se
 
   6
-  Suni hai jiske kaano ne hadees e raas karasi
-  Wo pooche gham ali ki mauth ka qabr e payambar se
+  Suni hai jis ke kaanoṅ ne hadis-e-raas karaasi
+  Wo puchhe gham Ali ki maut ka qabr-e-Payambar se
 
   7
-  Janaza kulle emaan ka ali fitrat jab uthega
-  Na jaane haal kya zainab ka hoga gham ke khanjar se
+  Janaaza kull-e-imaan ka Ali Fitrat jab uthega
+  Na jaane haal kya Zainab ka hoga gham ke khanjar se
 # source_id: nohayonline:91148adb0f00192a9630
 # source_url: https://www.nohayonline.com/details_content.php?id=1520
 # raw_sha256: 4ef1fc5c516a37714f2105ad2eab46c1b9a2ea5dee7c739f340b0e8c2d58475b
@@ -48,7 +48,7 @@ romanLyrics: |-
 علی زخمی ہوئے ہیں آج شمشیرِ ستمگر سے
 
 ۱
-علی کی بیک علی پر زندگی آنسُو بہاتی ہے
+علی کی بیکلی پر زندگی آنسُو بہاتی ہے
 صدا یہ اَل فراق آتی ہے ہر اک تارے بستر سے
 
 ۲
@@ -61,7 +61,7 @@ romanLyrics: |-
 
 ۴
 دلِ اُمُ البنین کو بیوگی کا غم اُٹھانا ہے
-سہاگن زندگی خوںرو رہی ہے دیدئہ تر سے
+سہاگن زندگی خوں رو رہی ہے دیدۂ تر سے
 
 ۵
 تڑپ اے فطرتِ اسلام مولا جانے والے ہیں
@@ -69,7 +69,7 @@ romanLyrics: |-
 
 ۶
 سُنی ہی جس کے کانوں سے حدیثِ راس کراسی
-وہ پوچھے غم علی کی موت کا قبرِ پیعمبر سے
+وہ پوچھے غم علی کی موت کا قبرِ پیمبر سے
 
 ۷
 جنازہ کُلِ ایمان کا علی فطرت جب اُٹھے گا
