@@ -5,32 +5,33 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Udhar laakhon ka lashkar hai idhar sarwar akele hai
-  Nahi baakhi koi nasir laday kyun kar akele hai
+  Udhar laakhoṅ ka lashkar hai idhar Sarwar akele haiṅ
+  Nahiṅ baaqi koi naasir lare kiuṅ kar akele haiṅ
 
   1
-  Dua laila ye karti thi elaahi tu madad karna
-  Hazaaron barchiyon waale hai aur akbar akele hai
+  Dua Laila ye karti thi Ilaahi tu madad karna
+  Hazaaroṅ barchhiyoṅ wale haiṅ aur Akbar akele haiṅ
 
   2
-  Rabab e khastatan ek ek se ro ro ke kehti thi
-  Andheri qabr hai jangal hai aur asghar akele hai
+  Rabaab-e-khasta tan ak ak se ro ro ke kehti thi
+  Andheri qabr hai jangal hai aur Asghar akele haiṅ
 
   3
-  Pukari zainab e muztar madad ko aaiye baba
-  Udoo nargha kiye hai sibte paighambar akele hai
+  Pukaari Zainab-e-muztar madad ko aaiye Baba
+  Adu nargha kiye hai Sibt-e-Payambar akele haiṅ
 
   4
-  Jawan bete ki mayyat hai sahara kaun de badkar
-  Sambhalte hai kabhi khaate hai sheh thokar akele hai
+  Jawaaṅ bete ki mayyat hai sahaara kaun de barh kar
+  Sambhalte haiṅ kabhi khaate haiṅ Shah thokar akele haiṅ
 
   5
-  Kaha zainab ne hinda se huwe qurban sab ran may
-  Hamare waarison may abid e muztar akele hai
+  Kaha Zainab ne Hinda se hue qurbaan sab ran mein
+  Hamaare waarisoṅ mein Aabid-e-muztar akele haiṅ
 # source_id: nohayonline:ff71f7704f2ff4634d3b
 # source_url: https://www.nohayonline.com/details_content.php?id=1112
 # raw_sha256: 48f151d3985a2d72bd4f116a7462c58635ddcecced90cc617d79d8bbd7e4d6ca
@@ -47,7 +48,7 @@ romanLyrics: |-
 اندھیری قبر ہے جنگل ہے اور اصغر اکیلے ہیں
 
 ۳
-پکاری زینب مضطر مدد کو آیے بابا
+پکاری زینب مضطر مدد کو آئیے بابا
 عدو نرغہ کیے ہے سبط پیمبر اکیلے ہیں
 
 ۴
@@ -55,5 +56,5 @@ romanLyrics: |-
 سنبھلتے ہیں کبھی کھاتے ہیں شہ ٹھوکر اکیلے ہیں
 
 ۵
-کہا زینب نے ہندہ سے ہوے قربان سب رن میں
+کہا زینب نے ہندہ سے ہوئے قربان سب رن میں
 ہمارے وارثوں میں عابد مضطر اکیلے ہیں

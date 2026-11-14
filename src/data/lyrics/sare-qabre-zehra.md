@@ -6,60 +6,61 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Andhere andhere yateemon se chup kar
-  Sare qabre zehra ali ro rahe hai
-  
+  Andhere andhere yatimoṅ se chhup kar
+  Sar-e-qabr-e-Zehra Ali ro rahe haiṅ
+
   1
-  Tumhari musibat bhulaunga kaise
-  Mai bachon se aansu chupaunga kaise
-  Tumhe yaad karke jo royenge bache
-  Mai bachon ko apne manaunga kaise
-  Tasavvur mein zehra se karke ye baatein
-  Jhukaye sar apna ali ro rahe he
-  
+  Tumhaari musibat bhulaauṅ ga kaise
+  Main bachchoṅ se aansu chhupaauṅ ga kaise
+  Tumheiṅ yaad karke jo royeṅ ge bachche
+  Main bachchoṅ ko apne manaauṅ ga kaise
+  Tasavvur mein Zehra se karke ye baateiṅ
+  Jhukaaye sar apna Ali ro rahe haiṅ
+
   2
-  Kabhi aansuon ko chupaati hai zainab
-  Kabhi bhaiyon ko uthaati hai zainab
-  Kabhi ghar ke aangan mein aati hai zainab
-  Kabhi maa ke hujre mein jaati hai zainab
+  Kabhi aansuoṅ ko chhupaati hai Zainab
+  Kabhi bhaaiyoṅ ko uthaati hai Zainab
+  Kabhi ghar ke aangan mein aati hai Zainab
+  Kabhi maaṅ ke hujre mein jaati hai Zainab
   Kabhi ro ke dukhiya ye karti hai nauha
-  Utho amma fizza ali ro rahe he
-  
+  Utho ammaaṅ Fizza Ali ro rahe haiṅ
+
   3
-  Utho shaahzadi hua hai andhera
-  Tumhare bina wo kahan so sakega
-  Mai jaunga wapas to bolega baba
-  Meri maa kahan hai bulaado khudara
-  Akele jala kar charaagh aansuon ka
-  Sare qabre zehra ali ro rahe he
-  
+  Utho shaahzaadi hua hai andhera
+  Tumhaare bina wo kahaaṅ so sake ga
+  Main jaauṅ ga waapas to bole ga Baba
+  Meri maaṅ kahaaṅ hai bulaado khudaara
+  Akele jala kar charaagh aansuoṅ ka
+  Sar-e-qabr-e-Zehra Ali ro rahe haiṅ
+
   4
-  Hai shehre nabi mein samaa karbala ka
+  Hai shahr-e-Nabi mein samaaṅ Karbala ka
   Na koi tasalli na koi dilaasa
-  Taraste hai ghar mein yateeman e zehra
-  Koi aa ke deta nahi inko pursa
-  Hussain o hassan ka kahin par hai girya
-  Kahin mere maua ali ro rahe he
-  
+  Taraste haiṅ ghar mein yatimaan-e-Zehra
+  Koi aa ke deta nahiṅ in ko pursa
+  Husain o Hasan ka kahiṅ par hai girya
+  Kahiṅ mere Maula Ali ro rahe haiṅ
+
   5
-  Kabhi is jagah ko na bhoolenge maula
-  Ye koocha hai maqtal dil e murtaza ka
-  Yahan se na guzre hassan baade zehra
-  Sitamgar ne maara tha yun taaziyana
-  Mohammad ki beti zameen par giri thi
-  Yahan baithe tanha ali ro rahe he
-  
+  Kabhi is jagah ko na bhuleṅ ge Maula
+  Ye kucha hai maqtal dil-e-Murtaza ka
+  Yahaaṅ se na guzre Hasan baad-e-Zehra
+  Sitamgar ne maara tha yuṅ taaziyaana
+  Mohammad ki beti zamiṅ par giri thi
+  Yahaaṅ baithe tanha Ali ro rahe haiṅ
+
   6
-  Wo lamhe hai mushkil ali ko bhulana
+  Wo lamhe haiṅ mushkil Ali ko bhulaana
   Wo pehlu pe jalte hue dar ka girna
-  Wo aahon ka bharna wo zakhmo ka risna
-  Shahadat wo mohsin ki zehra ka rona
+  Wo aahoṅ ka bharna wo zakhmoṅ ka risna
+  Shahaadat wo Mohsin ki Zehra ka rona
   Takallum abhi tak isi bekasi par
-  Lahad mein bhi maula ali ro rahe he
+  Lahad mein bhi Maula Ali ro rahe haiṅ
 # source_id: nohayonline:3cf541567cca086e9bb2
 # source_url: https://www.nohayonline.com/details_content.php?id=1029
 # raw_sha256: 6ae021a6635e4749e428324266457b0a38a5558d5ba105cacd512ceb01e863e7
@@ -69,15 +70,15 @@ romanLyrics: |-
 
 ۱
 تمہاری مصیبت بھلاؤں گا کیسے
-میں بچوں سے آنسوں چھپاؤں گا کیسے
-تمہیں یاد کرکے جو روےنگے بچے
+میں بچوں سے آنسو چھپاؤں گا کیسے
+تمہیں یاد کرکے جو روئیں گے بچے
 میں بچوں کو اپنے مناؤں گا کیسے
 تصور میں زہرا سے کرکے یہ باتیں
-جھکاے سر اپنا علی رو رہے ہیں
+جھکائے سر اپنا علی رو رہے ہیں
 
 ۲
 کبھی آنسوؤں کو چھپاتی ہے زینب
-کبھی بھاییوں کو اٹھاتی ہے زینب
+کبھی بھائیوں کو اٹھاتی ہے زینب
 کبھی گھر کے آنگن میں آتی ہے زینب
 کبھی ماں کے حجرے میں جاتی ہے زینب
 کبھی رو کے دکھیا یہ کرتی ہے نوحہ
@@ -101,7 +102,7 @@ romanLyrics: |-
 
 ۵
 کبھی اس جگہ کو نہ بھولیں گے مولا
-یہ کوچہ ہے مقتل دل مرتظی کا
+یہ کوچہ ہے مقتل دل مرتضیٰ کا
 یہاں سے نہ گزرے حسن بعد زہرا
 ستمگر نے مارا تھا یوں تازیانہ
 محمد کی بیٹی زمیں پر گری تھی
@@ -109,7 +110,7 @@ romanLyrics: |-
 
 ۶
 وہ لمحے ہیں مشکل علی کو بھلانا
-وہ پہلو پہ جلتے ہوے در کا گرنا
+وہ پہلو پہ جلتے ہوئے در کا گرنا
 وہ آہوں کا بھرنا وہ زخموں کا رسنا
 شہادت وہ محسن کی زہرا کا رونا
 تکلم ابھی تک اسی بے کسی پر
