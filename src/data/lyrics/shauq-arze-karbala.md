@@ -1,36 +1,37 @@
 ---
 title: "شوق ارض کربلا کا میرے آب و گِل میں ہے"
-alternateTitle: "Shauq Arze Karbala"
+alternateTitle: "Shauq Arz-e-Karbala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Nasir Jahan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shauq arz e karbala ka mere aab o dil mein hai
-  Jeete ji jannat mein pahunchun ye tamanna dil mein hai
-  Daaghe matam se hai raunaq mehfile shabbir ki
-  Jaisi ye mehfil hai waisi shamma bhi mehfil mein hai
+  Shauq arz-e-Karbala ka mere aab o gil mein hai
+  Jite ji jannat mein pahuṅchuṅ ye tamanna dil mein hai
+  Daagh-e-maatam se hai raunaq mehfil-e-Shabbir ki
+  Jaisi ye mehfil hai waisi shama bhi mehfil mein hai
 
   1
-  Bhar ke pani nehr se abbas pyase hi gaye
-  Ye unhi honton ki khushki aaj tak saahil mein hai
-  Bhej di naizon mein akbar se pisar ko khud hussain
-  Ummat e jad ki mohabbat hai ke barchi dil mein hai
+  Bhar ke paani nehr se Abbas pyaase hi gaye
+  Ye unhi hoṅtoṅ ki khushki aaj tak saahil mein hai
+  Bhej di naizoṅ mein Akbar se pisar ko khud Husain
+  Ummat-e-jad ki mohabbat hai ke barchhi dil mein hai
 
   2
-  Nikli padti hai ke qaime mein nahi padta kharaar
-  Gardan e asghar mein nawak zakhm maa ke dil mein hai
-  Aag hai qaimon ke andar aur baahar ahle naar
-  Pardadarane haram ki jaan kis mushkil mein hai
+  Nikli parti hai ke khaime mein nahiṅ parta qaraar
+  Gardan-e-Asghar mein naawak zakhm maaṅ ke dil mein hai
+  Aag hai khaimoṅ ke andar aur baahar ahl-e-naar
+  Pardaadaaraan-e-haram ki jaan kis mushkil mein hai
 
   3
-  Khushk pyase ka gala aur kund khanjar hai ghazab
-  Dil ye kaahe ko hai pathar seena e qaatil mein hai
-  Jamma hai ahle jina baabe jina par waqte asr
-  Intezar ek shamme kushta ka bhari mehfil mein hai
+  Khushk pyaase ka gala aur kund khanjar hai ghazab
+  Dil ye kaahe ko hai patthar sina-e-qaatil mein hai
+  Jama haiṅ ahl-e-jinaaṅ baab-e-jinaaṅ par waqt-e-asr
+  Intezaar ek shama-e-kushta ka bhari mehfil mein hai
 # source_id: nohayonline:11d3750f6d9e199c399f
 # source_url: https://www.nohayonline.com/details_content.php?id=1161
 # raw_sha256: ab4dc5cda3f1873cfeaf6dc0620ce6480c19d940d66e5c58b7aadd07b30fea29

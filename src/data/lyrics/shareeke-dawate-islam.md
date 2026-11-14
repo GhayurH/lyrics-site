@@ -1,142 +1,143 @@
 ---
 title: "شریکِ دعوتِ اسلام ہے ابو طالب"
-alternateTitle: "Shareeke Dawate Islam"
+alternateTitle: "Sharik-e-Daawat-e-Islam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shareeke daawate islam hai abu talib
-  
+  Sharik-e-daawat-e-Islam hai Abu Talib
+
   1
-  Nabi ko haq ka ek inaam hai abu talib
-  Hari mein wahi mein ilham hai abu talib
-  Haram ke azm ka ehram hai abu talib
-  Ye sunke laaye jo ghuncha wo phool ho jaye
-  Phir inki godh mein pal kar rasool ho jaye
-  
+  Nabi ko haq ka ek inaam hai Abu Talib
+  Harim mein wahi mein ilhaam hai Abu Talib
+  Haram ke azm ka ehraam hai Abu Talib
+  Ye sun ke laaye jo ghuncha wo phul ho jaaye
+  Phir un ki god mein pal kar Rasul ho jaaye
+
   2
-  Rasoole rab ke nigehban hai abu talib
-  Nabi hai deen to emaan hai abu talib
-  Nuzoole wahi ka unwan hai abu talib
-  Baghair lafzon ka quran hai abu talib
-  Inhi ke dam se hui ibtedae bismillah
-  Inhi ne nukta diya zere baa-e-bismillah
-  
+  Rasul-e-Rab ka nigehbaan hai Abu Talib
+  Nabi hai din to imaan hai Abu Talib
+  Nuzul-e-wahi ka unwaan hai Abu Talib
+  Baghair lafzoṅ ka Quraan hai Abu Talib
+  Inhi ke dam se hui ibtida-e-Bismillah
+  Inhi ne nuqta diya zer-e-baa-e-Bismillah
+
   3
-  Payambari ki bhala'on ka rad abu talib
-  Madad khuda ki hai shakle madad abu talib
-  Nabi ki dhaal dame jiddo kad abu talib
-  Nishana khatme rasul aur zad abu talib
-  Jihad inka hai pas manzare jihade ali
-  Ali hai baad mein inke ye pehle nade ali
-  
+  Payambari ki bhalaaoṅ ka rad Abu Talib
+  Madad Khuda ki hai shakl-e-madad Abu Talib
+  Nabi ki dhaal dam-e-jadd o kad Abu Talib
+  Nishaana khatm-e-Rusul aur zad Abu Talib
+  Jihaad un ka hai pas-e-manzar jihaad-e-Ali
+  Ali haiṅ baad mein un ke ye pehle naad-e-Ali
+
   4
-  Kahan hai tang nazar hum se bhi to aankh mila
-  Hai inke kufr ka daawa to kuch sabooot bhi la
-  Koi to rasm jihalat ki inke ghar mein dikha
-  Buton ke aage jhuka inka sar sar apna jhuka
-  Khuda ke noor pe o khaak daalne wale
-  Ye bud-shikan ko hai godhi mein paalne wale
-  
+  Kahaaṅ hai tang nazar ham se bhi to aankh mila
+  Hai un ke kufr ka daawa to kuchh subut bhi la
+  Koi to rasm jihaalat ki un ke ghar mein dikha
+  Butoṅ ke aage jhuka un ka sar sar apna jhuka
+  Khuda ke nur pe o khaak daalne waale
+  Ye but shikan ko haiṅ godi mein paalne waale
+
   5
-  Rasool inka bada ehteraam karte hai
-  Sawabe deed se tanzeem e aam karte hai
-  Sehr ko uth'te hi awwal ye kaam karte hai
-  Inhe namaz se pehle salam karte hai
-  Nabi agar kisi kaafir ko yun salami hai
-  To phir zaroor nabuwat mein koi khaami hai
-  
+  Rasul un ka bara ehtiraam karte haiṅ
+  Sawaab-e-did se tanzim-e-aam karte haiṅ
+  Sahar ko uthte hi awwal ye kaam karte haiṅ
+  Unheṅ namaaz se pehle salaam karte haiṅ
+  Nabi agar kisi kaafir ko yuṅ salaami hai
+  To phir zarur nabuwwat mein koi khaami hai
+
   6
   Inhi ke ghar mein khairul anaam salle alaa
-  Pisar nabi ka hai qaayam maqam salle alaa
-  Kisay naseeb hai ye ehteram salle alaa
-  Ke inke khurd hai saare imam salle alaa
-  Khata muaf ho ye bhi agar nahi momin
-  To phir jahan mein koi bashar nahi momin
-  
+  Pisar Nabi ka hai qaaim maqaam salle alaa
+  Kise nasib hai ye ehtiraam salle alaa
+  Ke un ke khurd haiṅ saare Imam salle alaa
+  Khata muaaf ho ye bhi agar nahiṅ momin
+  To phir jahaaṅ mein koi bashar nahiṅ momin
+
   7
-  Na jaanchiye ye rawayat na seerat o kirdar
-  Nabi ke ankh se ab inko dekiye ek baar
-  Ye baargah e risalat mein aap ka tha wiqar
-  Pachade khaake inhe roye ahmade mukhtar
-  Wo aam e huzn bana inka jab wisaal hua
-  Ye gham rasool ke ummat mein ek saal hua
-  
+  Na jaanchiye ye riwaayat na sirat o kirdaar
+  Nabi ki aankh se un ko dekhiye ek baar
+  Ye baargaah-e-risaalat mein aap ka tha waqaar
+  Pachaade khaa ke unheṅ roye Ahmad-e-Mukhtaar
+  Wo aam-e-huzn bana un ka jab wisaal hua
+  Ye gham Rasul ki ummat mein ek saal hua
+
   8
-  Ye marne waala gar emaan hi na laaya tha
-  To kya rasool ne kaafir ka gham manaya tha
-  Zaban pe wa-abata baar baar aaya tha
-  Wo khud bhi roye thay auron ko bhi rulaya tha
-  Jata diya tha ke jo mohsin e risalat hai
-  To usko rona rulana nabi ki sunnat hai
-  
+  Ye marne waala gar imaan hi na laaya tha
+  To kya Rasul ne kaafir ka gham manaaya tha
+  Zabaan pe wa abaata baar baar aaya tha
+  Wo khud bhi roye the auroṅ ko bhi rulaaya tha
+  Jata diya tha ke jo mohsin-e-risaalat hai
+  To us ko rona rulaana Nabi ki sunnat hai
+
   9
-  Ye baat agar ho ijazat to poochlun mai yahin
-  Hussain ibne ali kya nahi thay mohsin-e-deen
-  Ham inko roye to phir kyon ho koi chi bajabi
-  Bane thay inka to naaqa rasoole arsh nashin
-  Hussain soye shahe mursali ke seene par
-  Ghazab hai shimr ka zaanu unhi ke seene par
-  
+  Ye baat agar ho ijaazat to puchh luṅ main yahiṅ
+  Husain ibn-e-Ali kya nahiṅ the mohsin-e-diṅ
+  Ham un ko royeṅ to phir kiuṅ ho chiṅ ba jabiṅ
+  Bane the un ka to naaqa Rasul-e-arsh nashiṅ
+  Husain soye Shah-e-Mursal ke sine par
+  Ghazab hai Shimr ka zaanu unhiṅ ke sine par
+
   10
-  Bagoshe hosh ku jab haale karbala suniye
-  Suna jo mere tasavvur ne jo wo zara suniye
-  Bayan himmat o sabr e shahe huda suniye
-  Wo aati hai malakul maut ki sada suniye
-  Mila jo hukm ke sar se nikaal jaan e hussain
-  Kaha ke saqt hai ya rab ye imtehane hussain
-  
+  Bagosh-e-hosh kiuṅ jab haal-e-Karbala suniye
+  Suna jo mere tasawwur ne jo wo zara suniye
+  Bayaan himmat o sabr-e-Shah-e-Huda suniye
+  Wo aati hai Malakul Maut ki sada suniye
+  Mila jo hukm ke sar se nikaal jaan-e-Husain
+  Kaha ke sakht hai ya Rab ye imtihaan-e-Husain
+
   11
-  Laga hai zakhme tabar beh raha hai sar se lahoo
-  Bhare hai khoon mein jaane rasool ke gaysu
-  Khareeb jaake rakhun dil pe kis tarha khaboo
-  Ke is lahoo mein to hai fatema ke doodh ki boo
-  Nida ye aayi ke aankhein to daal aankhon mein
-  Kaha behan ka hai is dam khayal aankhon mein
-  
+  Laga hai zakhm tabar beh raha hai sar se lahu
+  Bhare haiṅ khun mein jaan-e-Rasul ke gesu
+  Qarib jaa ke rakhuṅ dil pe kis tarah qaabu
+  Ke is lahu mein to hai Fatima ke dudh ki bu
+  Nida ye aayi ke aankheṅ to daal aankhoṅ mein
+  Kaha behan ka hai is dam khayaal aankhoṅ mein
+
   12
-  Nida ye aayi ki gardan se khaynch jaan inki
-  Kaha mai kya karoon gardan pe chal rahi hai churi
-  Churi pakad ke ye chillati hai koi bibi
-  Na zibha kar mere bache ko mai dua doongi
-  Jahan rawan tere khanjar ki aab hai zaalim
-  Ye bosagah e risalat maab hai zaalim
-  
+  Nida ye aayi ke gardan se kheṅch jaan un ki
+  Kaha main kya karuṅ gardan pe chal rahi hai chhuri
+  Chhuri pakar ke ye chillaati hai koi Bibi
+  Na zabh kar mere bachche ko main dua duṅ gi
+  Jahaaṅ rawaaṅ tere khanjar ki aab hai zaalim
+  Ye bosagaah-e-risaalat-e-maab hai zaalim
+
   13
-  Nida ye aayi ki seene se qabz karle jaan
-  Kaha ke teero se chalni hai ay mere rehman
-  Abhi to maarke barchi hata hai ek shaitan
-  Aur ab to hai tahe zaanu e shimr ye quran
-  Ye karb hai ke rukhe paak gard hai ya rab
-  Tere hussain ke seene mein dard hai ya rab
-  
+  Nida ye aayi ke sine se qabz kar le jaan
+  Kaha ke tiroṅ se chhalni hai ae mere Rahmaan
+  Abhi to maar ke barchhi hata hai ek shaitaan
+  Aur ab to hai tah-e-zaanu-e-Shimr ye Quraan
+  Ye karb hai ke rukh-e-paak gard hai ya Rab
+  Tere Husain ke sine mein dard hai ya Rab
+
   14
-  Nida ye aayi ke mazloomiyat ke rutba shina
-  Kamar se khaynch le saabir ki jaan bewaswa
-  Kaha malak ne tadap kar ba dard o hasrat o yaas
-  Kamar to toot gayi jab se margaye abbas
-  Sada e ghaib ye aayi bahaal hai chehra
-  Kaha hai khoon se asghar ke laal hai chehra
-  
+  Nida ye aayi ke mazlumiyat ka rutba shinaas
+  Kamar se kheṅch le saabir ki jaan bewaswa
+  Kaha malak ne tarap kar ba dard o hasrat o yaas
+  Kamar to tut gayi jab se mar gaye Abbas
+  Sada-e-ghaib ye aayi bahaal hai chehra
+  Kaha hai khun se Asghar ke laal hai chehra
+
   15
-  Ye guftugu thi ke murjha gaya rasool ka phool
-  Falak se aagaye roohul ameen hazeeno malool
-  Kaha pukaar ke moo dhamp lo bara e-rasool
-  Pisar ki laash pe kholengi apne baal batool
-  Sada ye sunke usi simt chal padi zainab
-  Tadap ke qaime se bahar nikal padi zainab
-  
+  Ye guftugu thi ke murjha gaya Rasul ka phul
+  Falak se aa gaye Ruhul Amin hazin o malul
+  Kaha pukaar ke muṅh dhaaṅp lo baraa-e-Rasul
+  Pisar ki laash pe kholeṅ gi apne baal Batul
+  Sada ye sun ke us simt chal pari Zainab
+  Tarap ke khaime se baahar nikal pari Zainab
+
   16
-  Naseem udhar se to khudsi ki ye sada aayi
-  Idhar tadapti hui binte murtaza aayi
-  Khareeb e laash jo khaahar basad buka aayi
-  Aqi ke halqe bureeda se ye sada aayi
-  Koi buzurg na ab hai na khurd hai zainab
-  Nabi ki aal tumhare sipurd hai zainab
+  Nasim udhar se to Qudsi ki sada aayi
+  Idhar tarapti hui bint-e-Murtaza aayi
+  Qarib-e-laash jo khaahar basad buka aayi
+  Akhi ke halq-e-burida se ye sada aayi
+  Koi buzurg na ab hai na khurd hai Zainab
+  Nabi ki aal tumhaare sipurd hai Zainab
 # source_id: nohayonline:39f4cd34e8c8c609c124
 # source_url: https://www.nohayonline.com/details_content.php?id=515
 # raw_sha256: c238e767ab8440327f4c0862432c258da4074ee5c7787a3294f7ed96d63a5b94
@@ -153,11 +154,11 @@ romanLyrics: |-
 
 ۲
 رسولِرب کا نگہبان ہے ابوطالب
-ہے دین تو ایمان ہے ابوطالب نبی
+نبی ہے دین تو ایمان ہے ابوطالب
 نزولِ وحی کا عنوان ہے ابوطالب
 بغیر لفظوں کا قرآن ہے ابوطالب
-انہی کے دم سے ہوئی ابتدائ بسم اللہ
-انہی نے نقطہ دیا زیرِبا ئِ بسم اللہ
+انہی کے دم سے ہوئی ابتدائے بسم اللہ
+انہی نے نقطہ دیا زیرِ بائے بسم اللہ
 
 ۳
 پیعمبری کی بھلائوں کا رد ابوطالب
@@ -171,7 +172,7 @@ romanLyrics: |-
 کہاں ہے تنگ نظر ہم سے بھی تو آنکھ ملا
 ہے ان کے کُفر کا دعوہ تو کُچھ ثبوت بھی لا
 کوئی تو رسم جہالت کی ان کے گھر میں دِکھا
-بُتوں کے آگے جُھکا ا ن کاسر سر اپنا جُھکا
+بُتوں کے آگے جُھکا ان کا سر سر اپنا جُھکا
 خُدا کے نُور پہ او خاک ڈالنے والے
 یہ بُت شکن کو ہیں گودی میں پالنے والے
 
@@ -180,7 +181,7 @@ romanLyrics: |-
 ثوابِ دید سے تنظیمِ عام کرتے ہیں
 سحر کو اُٹھتے ہی اول یہ کام کرتے ہیں
 انہیں نماز سے پہلے سلام کرتے ہیں
-نبی کسی کافر کو یوں سلامی ہے
+نبی اگر کسی کافر کو یوں سلامی ہے
 تو پھر ضرور نبوت میں کوئی خامی ہے
 
 ۶
@@ -189,7 +190,7 @@ romanLyrics: |-
 کسے نصیب ہے یہ احترام صلے علیٰ
 کہ ان کے خُرد ہیں سارے امام صلے علیٰ
 خطا معاف ہو یہ بھی اگر نہیں مومن
-تو پھر جہاں میں کو ئی بشر نہیں مومن
+تو پھر جہاں میں کوئی بشر نہیں مومن
 
 ۷
 نہ جانچیئے یہ روایت نہ سیرت و کردار
@@ -210,7 +211,7 @@ romanLyrics: |-
 ۹
 یہ بات اگر ہو اجازت تو پُوچھ لوں میں یہیں
 حُسین ابنِ علی کیا نہیں تھے مُحسن ِدیں
-ہم ان کو روئیں تو پھر کیوںہو چیں با جبیں
+ہم ان کو روئیں تو پھر کیوں ہو چیں با جبیں
 بنے تھے ان کا تو ناقہ رسولِ عرشِ نشیں
 حُسین سوئے شہِ مُرسل کے سینے پر
 غضب ہے شمر کا زانوں اُنہیں کے سینے پر
@@ -228,13 +229,13 @@ romanLyrics: |-
 بھرے ہیں خون میں جانِ رسول کے گیسُو
 قریب جا کے رکھوں دل پہ کس طرح قابو
 کہ اس لہو میں تو ہے فاطمہ کے دودھ کی بُو
-ندا یہ آئی کہ آنکھیں تو ڈال آنکھو ں میں
+ندا یہ آئی کہ آنکھیں تو ڈال آنکھوں میں
 کہا بہن کا ہے اس دم خیال آنکھوں میں
 
 ۱۲
 ندا یہ آئی کہ گردن سے کھینچ جان ان کی
 کہا میں کیا کروں گردن پہ چل رہی ہے چُھری
-چُھری پکڑ کہ یہ چلاتی ہے کوئی بی بی
+چُھری پکڑ کے یہ چلاتی ہے کوئی بی‌بی
 نہ ذبح کر میرے بچے کو میں دُعا دوں گی
 جہاں رواں تیرے خنجر کی آب ہے ظالم
 یہ بوسہ گاہِ رسالتِ مآب ہے ظالم
@@ -244,7 +245,7 @@ romanLyrics: |-
 کہا کہ تیروں سے چھلنی ہے اے میرے رحمان
 ابھی تو مار کے برچھی ہٹا ہے اک شیطان
 اور اب تو ہے تہہِ زانوئے شمر یہ قرآن
-یہ کرب ہے کے رُخِ پاک گردہے یا رب
+یہ کرب ہے کے رُخِ پاک گرد ہے یا رب
 تیرے حُسین کے سینے میں درد ہے یا رب
 
 ۱۴
@@ -258,7 +259,7 @@ romanLyrics: |-
 ۱۵
 یہ گُفتگُو تھی کہ مُرجھا گیا رسول کا پُھول
 فلک سے آگئے رُوحُ الامین حزین و ملول
-کہا پُکار کے مُنہ ڈھانپ لوبرائے رسول
+کہا پُکار کے مُنہ ڈھانپ لو برائے رسول
 پسر کی لاش پہ کُھولیں گی اپنے بال بتول
 صدا یہ سُن کے اس سمت چل پڑی زینب
 تڑپ کے خیمے سے باہر نکل پڑی زینب
@@ -266,7 +267,7 @@ romanLyrics: |-
 ۱۶
 نسیم اُدھر سے تو قُدسی کی صدا آئی
 ادھر تڑپتی ہوئی بنتِ مُرتُضٰی آئی
-قریبِ لاش جوخواہر بصد بُقا آئی
+قریبِ لاش جو خواہر بصد بُقا آئی
 اخی کے حلقِ بُریدہ سے یہ صدا آئی
 کوئی بزرگ نہ اب ہے نہ خُرد ہے زینب
 نبی کی آل تمہارے سپرد ہے زینب
