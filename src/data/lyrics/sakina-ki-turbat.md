@@ -6,61 +6,64 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hai kaisa andhera ya kya hogaya hai
-  Hai kiska janaza qayamat bapa hai
-  Qayamat bapa hai
-  Bhala kaun qaidi hai kya dhoondta hai
-  Kahan par banaye lehad sochta hai
+  Hai kaisa andhera ye kya ho gaya hai
+  Hai kis ka janaaza qayaamat bapa hai
+  Qayaamat bapa hai
+  Bhala kaun qaidi hai kya dhundta hai
+  Kahaaṅ par banaaye lahad sochta hai
+  Qayaamat bapa hai qayaamat bapa hai
   
   1
-  Zaeefi mein abid ki badli jawani
-  Sakina ki turbat banate banate
+  Zaifi mein Aabid ki badli jawaani
+  Sakina ki turbat banaate banaate
   Kayi baar mar ke wo zinda hua hai
-  Behen ko zameen par sulaate sulaate
+  Behen ko zamiṅ par sulaate sulaate
   
   2
-  Kahin aankh barsi kahin dil chida hai
-  Kahin haath larze kahin dam ruka hai
-  Bahattar janazo se guzra hai abid
-  Behen ka janaza utha'te utha'te
+  Kahiṅ aaṅkh barsi kahiṅ dil chhida hai
+  Kahiṅ haath larze kahiṅ dam ruka hai
+  Bahattar janaazoṅ se guzra hai Aabid
+  Behen ka janaaza uthaate uthaate
   
   3
-  Huwe kaan zakhmi tamache lage thay
-  Sakina ki aankhon my aansoo bhare thay
-  Suye nehr takti thi hasrat se bachi
-  Jala apna daaman bujhate bujhate
+  Hue kaan zakhmi tamaache lage the
+  Sakina ki aaṅkhoṅ mein aaṅsu bhare the
+  Su-e-nehr takti thi hasrat se bachchi
+  Jala apna daaman bujhaate bujhaate
   
   4
-  Lahad ke liye mil gaya qaid khana
-  Reha khud na ho paayi bali sakina
-  Magar wo aseeron ko qaide sitam se
-  Rehaai dila kar gayi jaate jaate
+  Lahad ke liye mil gaya qaid khaana
+  Riha khud na ho paayi baali Sakina
+  Magar wo asiroṅ ko qaid-e-sitam se
+  Rihaai dila kar gayi jaate jaate
   
   5
-  Ye zahra ki poti hai ghazi ki pyari
-  Bahot laadli hai ye apne padar ki
+  Ye Zahra ki poti hai Ghaazi ki pyaari
+  Bahut laadli hai ye apne padar ki
+  Qayaamat bapa hai
   
   6
-  Ye darbar mein kya qayamat hui hai
-  Sakina phuphi se ye kya poochti hai
-  Kahi mar hi jaaye na zainab khudaya
-  Kaneezi ka matlab bataate bataate
+  Ye darbaar mein kya qayaamat hui hai
+  Sakina phuphi se ye kya puchhti hai
+  Kahiṅ mar hi jaaye na Zainab Khudaaya
+  Kanizi ka matlab bataate bataate
   
   7
-  Hai sakhte mein bano qayamat hai kaisi
-  Padar se wo baatein abhi kar rahi thi
-  Magar ab kabhi bhi na bolegi bachi
-  Ye maa ko yaqeen aayega aate aate
+  Hai sakte mein Baano qayaamat hai kaisi
+  Padar se wo baateṅ abhi kar rahi thi
+  Magar ab kabhi bhi na bolegi bachchi
+  Ye maaṅ ko yaqiṅ aayega aate aate
   
   8
-  Sakina ki jaanib se ay mere maula
-  Sada naame asghar pe hasrat hai meri
-  Guzar jaaye akbar ki ye umr saari
-  Sabeelo se pani pilaate pilaate
+  Sakina ki jaanib se ae mere Maula
+  Sada naam-e-Asghar pe hasrat hai meri
+  Guzar jaaye Akbar ki ye umr saari
+  Sabiloṅ se paani pilaate pilaate
 # source_id: nohayonline:2a272b7a00197f3a86ab
 # source_url: https://www.nohayonline.com/details_content.php?id=112
 # raw_sha256: 5217c752224f725a64ab2caf75996749db24e9c609ef07a144b1f7487b1574ed
@@ -70,6 +73,7 @@ romanLyrics: |-
 قیامت بپا ہے
 بھلا کون قیدی ہے کیا ڈھونڈتا ہے
 کہاں پر بنائے لحد سوچتا ہے
+قیامت بپا ہے قیامت بپا ہے
 
 ۱
 ضعیفی میں عابد کی بدلی جوانی
@@ -98,6 +102,7 @@ romanLyrics: |-
 ۵
 یہ زہرا کی پوتی ہے غازی کی پیاری
 بہت لاڈلی ہے یہ اپنے پدر کی
+قیامت بپا ہے
 
 ۶
 یہ دربار میں کیا قیامت ہوئی ہے
