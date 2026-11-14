@@ -1,65 +1,66 @@
 ---
-title: سب اجڑ جاے گا زہرا کا مکاں
+title: سب اجڑ جائے گا زہرا کا مکاں
 alternateTitle: Sab Ujad Jayega
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Nayyar Jalalpuri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sab ujarr jayega Zehra ka makaan asr k baad
-  Hoga Shabbir ke khaimo me dhuooan asr k baad
+  Sab ujar jaaye ga Zehra ka makaaṅ asr ke baad
+  Hoga Shabbir ke khaimoṅ mein dhuaaṅ asr ke baad
   
   1
-  Subhe ashoor toh de di ali Akbar ne azaan
-  Kaun dega bhala magrib Ki azaan asr k baad
+  Subh-e-Aashur to de di Ali Akbar ne azaaṅ
+  Kaun dega bhala maghrib ki azaaṅ asr ke baad
   
   2
-  Raakh pe qaimon ki rote huwe bache honge
-  Dasht mein hoga qayamat ka samaa
+  Raakh pe khaimoṅ ki rote hue bachche hoṅ ge
+  Dasht mein hoga qayaamat ka samaaṅ asr ke baad
   
   3
-  Ai sakina tere kaano se lahooo tapkega
-  Honge chehre pe tamcho k nishaan asr k baad
+  Ae Sakina tere kaanoṅ se lahu tapke ga
+  Hoṅ ge chehre pe tamaachoṅ ke nishaaṅ asr ke baad
   
   4
-  kaun masoom sakina pe taras khayega
-  Kaun samjhega yateemo Ki fugaaa asr k baad
+  Kaun maasum Sakina pe taras khaaye ga
+  Kaun samjhe ga yatimoṅ ki fughaaṅ asr ke baad
   
   5
-  laash Abbas Ki darya pe tadap jayegi
-  Jab bhi uthegi Sakina Ki fugaa asr k baad
+  Laash Abbas ki darya pe tarap jaaye gi
+  Jab bhi uthe gi Sakina ki fughaaṅ asr ke baad
   
   6
-  Haye kis shaan se ayi thi amaari meri
-  Yaad aane laga zainab ko samaan asr k baad
+  Haaye kis shaan se aayi thi amaari meri
+  Yaad aane laga Zainab ko samaaṅ asr ke baad
   
   7
-  kis tarha dil ko sambhalegi ali Ki beti
-  Ran me royegi Jo Shabbir ko maa asr k baad
+  Kis tarah dil ko sambhaale gi Ali ki beti
+  Ran mein roye gi jo Shabbir ko maaṅ asr ke baad
   
   8
-  kum se kum hai abhi bimaar ka bistaar baki
-  Warna taqdeer me araam kaha asr k baad
+  Kam se kam hai abhi bimaar ka bistar baaqi
+  Warna taqdir mein aaraam kahaaṅ asr ke baad
   
   9
-  Ay khuda sayyed e sajjad ko de khuwate zabt
-  Hoga shabbir ka sar aur sina
+  Ae Khuda Sayyid-e-Sajjad ko de quwwat-e-zabt
+  Hoga Shabbir ka sar aur sinaaṅ asr ke baad
   
   10
-  Khatm kardo yahan ay aamir o nayyar nauha
-  Kar sakoge na ghamon ka ye bayan
+  Khatm kar do yahaaṅ ae Aamir o Nayyar nauha
+  Kar sako ge na ghamoṅ ka ye bayaaṅ asr ke baad
   
   11
-  Laash Shabbir ki paamal karenge adaa
-  Khoon barsayega yeh sara jahan asr k baad
+  Laash Shabbir ki paamaal kareṅ ge aadaa
+  Khun barsaaye ga ye saara jahaaṅ asr ke baad
   
   12
-  Haye Shabbir ke sine pe Jo sojati thi
-  Usko mil payega araam kaha asr k baad
+  Haaye Shabbir ke sine pe jo so jaati thi
+  Us ko mil paaye ga aaraam kahaaṅ asr ke baad
 # source_id: nohayonline:3487a5b9da6faa0b5264
 # source_url: https://www.nohayonline.com/details_content.php?id=1291
 # raw_sha256: 725ba043a9eef71adb58a597e09723db350ddcdc5c5a5dc10aa61e15a1e32692
@@ -67,49 +68,50 @@ romanLyrics: |-
 # source_url: https://www.ziyaraat.net/api/noha/1720
 # raw_sha256: c4a872fb343e32e72c179f697af790d03f443aa0ebf65b99f68d5b0b384d2edb
 # added_stanza_source: roman:kalam-nohayonline-3487a5b9da6faa0b5264
+# source_variant_note: Existing stanza order retained. Ziyaraat supplies stanzas 6, 11 and 12; NoHayOnline supplies stanzas 2, 9 and 10. Readings in stanzas 4, 7, 10 and 11 await audio/print adjudication.
 ---
-سب اجڑ جاے گا زہرا کا مکاں عصر کے بعد
+سب اجڑ جائے گا زہرا کا مکاں عصر کے بعد
 ہوگا شبیر کے خیموں میں دھواں عصر کے بعد
 
 ۱
-صبح عاشور تو دیدی علی اکبر نے اذاں
-کون دے گا بھلا مغرب کی اذاں
+صبح عاشور تو دے دی علی اکبر نے اذاں
+کون دے گا بھلا مغرب کی اذاں عصر کے بعد
 
 ۲
-راخ پر خیموں کی روتے ہوئے بچے ہونگے
-دشت میں ہوگا قیامت کا سماں
+راکھ پر خیموں کی روتے ہوئے بچے ہوں گے
+دشت میں ہوگا قیامت کا سماں عصر کے بعد
 
 ۳
 اے سکینہ تیرے کانوں سے لہو ٹپکے گا
-ہونگے چہرے پہ طمانچوں کے نشاں
+ہوں گے چہرے پہ طمانچوں کے نشاں عصر کے بعد
 
 ۴
 کون معصوم سکینہ پہ ترس کھائے گا
-کون سمجھے گا یتیمی کی زباں
+کون سمجھے گا یتیمی کی زباں عصر کے بعد
 
 ۵
-لاش عباس کی دریا پہ تڑپ جاے گی
-جب بھی اٹھے گی سکینہ کی فغاں
+لاش عباس کی دریا پہ تڑپ جائے گی
+جب بھی اٹھے گی سکینہ کی فغاں عصر کے بعد
 
 ۶
 ہائے کس شان سے آئی تھی عماری میری
 یاد آنے لگا زینب کو سماں عصر کے بعد
 
 ۷
-اپنا دل کیسے سمبھالے گی علی کی بیٹی
-رن میں جب روے گی شبیر کی ماں
+اپنا دل کیسے سنبھالے گی علی کی بیٹی
+رن میں جب روئے گی شبیر کی ماں عصر کے بعد
 
 ۸
 کم سے کم ہے ابھی بیمار کا بستر باقی
-ورنہ تقدیر میں آرام کہاں
+ورنہ تقدیر میں آرام کہاں عصر کے بعد
 
 ۹
 اے خدا سید سجاد کو دے قوت ضبط
-ہوگا شبیر کا سر اور سناں
+ہوگا شبیر کا سر اور سناں عصر کے بعد
 
 ۱۰
-ختم کردو یہاں اے عامر و نیر نوحہ
-کر سکو گے نہ غموں کے یہ بیاں
+ختم کر دو یہاں اے عامر و نیر نوحہ
+کر سکو گے نہ غموں کے یہ بیاں عصر کے بعد
 
 ۱۱
 لاشِ شبیر کو پامال کریں گے اعدا
