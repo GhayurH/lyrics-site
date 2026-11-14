@@ -1,6 +1,6 @@
 ---
 title: صبحِ عاشور علی اکبر تیری اذاں
-alternateTitle: Subhe Ashoor Teri
+alternateTitle: Subh-e-Ashur Teri
 language: Urdu
 lang: ur
 direction: rtl
@@ -9,84 +9,52 @@ poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Subhe ashoor ali akbar teri azan
-
-  Kaleja thaam ke qaime mein royi maa
-
+romanLyrics: |-
+  Subh-e-Ashur Ali Akbar teri azaaṅ
+  Kaleja thaam ke khaime meiṅ royi maaṅ
+  Teri azaaṅ
 
   1
-
-  Teri azan
-
-  Salaam lehja e rasool ki shabahat
-
-  Salaam marzi e mabood par shahadat
-
-  Shahadaton ki zameen par thi aasman
-
-  Thi aasman teri azan
-
+  Salaam lehja-e-Rasul ki shabaahat
+  Salaam marzi-e-Maabud par shahaadat
+  Shahaadatoṅ ki zamiṅ par thi aasmaaṅ
+  Thi aasmaaṅ teri azaaṅ
 
   2
-
-  Wo tum jo ashadoan laillaha bole
-
-  Dariche khudsiyon ne khole
-
-  Khuda ke zikr se saji hui zaban
-
-  Saji zaban teri azan
-
+  Wo tum jo ashhadu an laa ilaaha bole
+  Dariche qudsiyoṅ ne khole
+  Khuda ke zikr se saji hui zabaaṅ
+  Saji zabaaṅ teri azaaṅ
 
   3
-
-  Hussain jisko sun ke roye
-
-  Parinde shaak par na soye
-
-  Sada e gham suni gayi kahan kahan
-
-  Kahan kahan teri azan
-
+  Husain jis ko sun ke roye
+  Parinde shaakh par na soye
+  Sadaa-e-gham suni gayi kahaaṅ kahaaṅ
+  Kahaaṅ kahaaṅ teri azaaṅ
 
   4
-
-  Wo qaimagaah tak jo aayi
-
-  Teri azan e karbalayi
-
-  Jigar ko thaam ke ye keh rahi thi maa
-
-  Rahi thi maa teri azan
-
+  Wo khaima gaah tak jo aayi
+  Teri azaan-e-Karbalaayi
+  Jigar ko thaam ke ye keh rahi thi maaṅ
+  Rahi thi maaṅ teri azaaṅ
 
   5
-
   Hawa ke dosh par watan tak
-
-  Azan pahunch gayi behen tak
-
-  Behan tadapne lagi le ke hichkiyan
-
-  Hichkiyan teri azan
-
+  Azaaṅ pahuṅch gayi behen tak
+  Behen tarapne lagi le ke hichkiyaaṅ
+  Hichkiyaaṅ teri azaaṅ
 
   6
-
-  Sina jigar pe tum ne khaayi
-
-  Azan ki aabru bachayi
-
-  Rahe na tum magar bachi rahi azan
-
-  Rahi azan, teri azan
-
+  Sinaaṅ jigar pe tum ne khaayi
+  Azaaṅ ki aabru bachaayi
+  Rahe na tum magar bachi rahi azaaṅ
+  Rahi azaaṅ teri azaaṅ
 
   7
-
-  Azan mein lehja e payambar
-
-  Ayan tha jab rehaan o sarwar'
+  Azaaṅ meiṅ lehja-e-Payambar
+  Ayaaṅ tha jab Rehaan o Sarwar
+  Kaleja thaam ke khaime meiṅ royi maaṅ
+  Royi maaṅ teri azaaṅ
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:ed0f6b31bc8731c46dea
 # source_url: https://www.nohayonline.com/details_content.php?id=3317
@@ -97,12 +65,12 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 ---
 
 صبحِ عاشور علی اکبر تیری اذاں
-کلیجہ تھام کے خیمے میں روی ماں
+کلیجہ تھام کے خیمے میں روئی ماں
+تیری اذاں
 
 ۱
-تیری اذاں
-سلام لہجہء رسول کی شباہت
-سلام مرضیء معبود پر شہادت
+سلام لہجۂ رسول کی شباہت
+سلام مرضیِ معبود پر شہادت
 شہادتوں کی زمیں پر تھی آسماں
 تھی آسماں تیری اذاں
 
@@ -113,29 +81,31 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 سجی زباں تیری اذاں
 
 ۳
-حسین جس کو سن‌ کے روے
-پرندے شاخ پر نہ سوے
-صداے غم سنی گیء کہاں کہاں
+حسین جس کو سن کے روئے
+پرندے شاخ پر نہ سوئے
+صدائے غم سنی گئی کہاں کہاں
 کہاں کہاں تیری اذاں
 
 ۴
-وہ خیمہ گاہ تک جو آی
-تیری اذان کربلای
+وہ خیمہ گاہ تک جو آئی
+تیری اذانِ کربلائی
 جگر کو تھام کے یہ کہہ رہی تھی ماں
 رہی تھی ماں تیری اذاں
 
 ۵
 ہوا کے دوش پر وطن تک
-اذاں پہنچ گیء بہن تک
+اذاں پہنچ گئی بہن تک
 بہن تڑپنے لگی لے کے ہچکیاں
 ہچکیاں تیری اذاں
 
 ۶
-سناں جگر پہ تم‌ نے کھای
-اذاں کی آبرو بچای
+سناں جگر پہ تم نے کھائی
+اذاں کی آبرو بچائی
 رہے نہ تم مگر بچی رہی اذاں
 رہی اذاں تیری اذاں
 
 ۷
-اذاں میں لہجہء پیمبر
+اذاں میں لہجۂ پیمبر
 عیاں تھا جب ریحان و سرور
+کلیجہ تھام کے خیمے میں روئی ماں
+روئی ماں تیری اذاں

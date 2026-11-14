@@ -1,60 +1,61 @@
 ---
-title: "روضے پہ مصطفیٰ کے صغریٰ دیےء جلاے"
+title: "روضے پہ مصطفیٰ کے صغریٰ دیے جلائے"
 alternateTitle: "Sughra Diye Jalaye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Baba Nisaar Haideri"
+reciter: "Mukhtar Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Rauze pe mustafa ke sughra diye jalaye
-  Ro ro ke nana jaan ko faryad bhi sunaye
+  Rauze pe Mustafa ke Sughra diye jalaaye
+  Ro ro ke nana jaan ko faryaad bhi sunaaye
 
   1
-  Kis ko mai dil dikhaun dukhda kise sunaun
-  Aise gaye hai baba phir laut kar na aaye
+  Kis ko main dil dikhaauṅ dukhra kise sunaauṅ
+  Aise gaye haiṅ baba phir laut kar na aaye
 
   2
-  Mai maanti hoo mannat sunlo dua ay nana
-  Lillaah kisi ka baba beti ko na bhulaye
+  Main maanti huṅ mannat sun lo dua ae nana
+  Lillaah kisi ka baba beti ko na bhulaaye
 
   3
-  Ghar mein hai koi mitti jo laal hogayi hai
-  Kehti hai umme salma sughra na dekh paaye
+  Ghar meiṅ hai koi mitti jo laal ho gayi hai
+  Kehti hai Umm-e-Salma Sughra na dekh paaye
 
   4
-  Sunti hoo ho chuki hai ibne hasaan ki shaadi
-  Mai reh gayi tarasti saare gaye bulaye
+  Sunti huṅ ho chuki hai Ibn-e-Hasan ki shaadi
+  Main reh gayi tarasti saare gaye bulaaye
 
   5
-  Behno ko aa rahe hai khat bhaiyon ke paiham
-  Meri dua hai nana akbar ka khat bhi aaye
+  Behnoṅ ko aa rahe haiṅ khat bhaaiyoṅ ke paiham
+  Meri dua hai nana Akbar ka khat bhi aaye
 # source_id: nohayonline:b719886da0c7d875279a
 # source_url: https://www.nohayonline.com/details_content.php?id=2084
 # raw_sha256: 229884751cc3d3edba6614b9923a2383dc7b6d45be40c56e056cb8064e007f84
 ---
-روضے پہ مصطفیٰ کے صغریٰ دیےء جلاے
-رو رو کے نانا جان کو فریاد بھی سناے
+روضے پہ مصطفیٰ کے صغریٰ دیے جلائے
+رو رو کے نانا جان کو فریاد بھی سنائے
 
 ۱
 کس کو میں دل دکھاؤں دکھڑا کسے سناؤں
-ایسے گےء ہیں بابا پھر لوٹ کر نہ آے
+ایسے گئے ہیں بابا پھر لوٹ کر نہ آئے
 
 ۲
 میں مانتی ہوں منت سن لو دعا اے نانا
-لللہ کسی کا بابا بیٹی کو نہ بھلاے
+للہ کسی کا بابا بیٹی کو نہ بھلائے
 
 ۳
-گھر میں ہے کوئی مٹی جو لال ہو گیء ہے
-کہتی ہے ام سلمہ صغرا نہ دیکھ پاے
+گھر میں ہے کوئی مٹی جو لال ہو گئی ہے
+کہتی ہے امِ سلمہ صغرا نہ دیکھ پائے
 
 ۴
 سنتی ہوں ہو چکی ہے ابنِ حسن کی شادی
-میں رہ گیء ترستی سارے گےء بلاے
+میں رہ گئی ترستی سارے گئے بلائے
 
 ۵
-بہنوں کو آ رہے ہیں خط بھاییوں کے پیہم
-میری دعا ہے نانا اکبر کا خط بھی آے
+بہنوں کو آ رہے ہیں خط بھائیوں کے پیہم
+میری دعا ہے نانا اکبر کا خط بھی آئے

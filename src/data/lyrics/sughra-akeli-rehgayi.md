@@ -6,48 +6,49 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Musaddiq Lakhani"
+reciter: "Rizwan Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jaa chuke sab karbala sughra akeli reh gayi
-  Bekas o be-aasra sughra akeli reh gayi
+  Jaa chuke sab Karbala Sughra akeli reh gayi
+  Bekas o beaasra Sughra akeli reh gayi
 
   1
-  Chod kar bhai gaye ammu gaye baba gaye
-  Haye lekin ghamzada sughra akeli reh gayi
+  Chhor kar bhaai gaye ammu gaye baba gaye
+  Haaye lekin ghamzada Sughra akeli reh gayi
 
   2
-  Teer ki maanind chubhti hai ye tanhaai isay
-  Saara ghar veeran hua sughra akeli reh gayi
+  Tir ki maanind chubhti hai ye tanhaai ise
+  Saara ghar viraaṅ hua Sughra akeli reh gayi
 
   3
-  Aalam e tanhaai hai koi nahi is ka yahan
-  Ay madine ki faza sughra akeli reh gayi
+  Aalam-e-tanhaai hai koi nahiṅ is ka yahaaṅ
+  Ae Madine ki faza Sughra akeli reh gayi
 
   4
-  Chod kar ghar baar ko jaana koi aasaan nahi
-  Phir ghazab ye bhi hui sughra akeli reh gayi
+  Chhor kar ghar baar ko jaana koi aasaaṅ nahiṅ
+  Phir ghazab ye bhi hua Sughra akeli reh gayi
 
   5
-  Door tak raste mein maula ki nazar kehti rahi
-  Haye meri mehlaqa sughra akeli reh gayi
+  Dur tak raste meiṅ Maula ki nazar kehti rahi
+  Haaye meri mah laqa Sughra akeli reh gayi
 
   6
-  Dekhte jaate thay akbar bas madine ki taraf
-  Dil mein in ke gham ye tha sughra akeli reh gayi
+  Dekhte jaate the Akbar bas Madine ki taraf
+  Dil meiṅ in ke gham ye tha Sughra akeli reh gayi
 
   7
-  So rahe hai chain se gardan kata kar sab magar
-  Ay zameen e karbala sughra akeli reh gayi
+  So rahe haiṅ chain se gardan kata kar sab magar
+  Ae zamin-e-Karbala Sughra akeli reh gayi
 
   8
-  Tu hi is ko de sahara is ke aansu poch le
-  Dekh qabre fatema sughra akeli reh gayi
+  Tu hi is ko de sahaara is ke aaṅsu poṅchh le
+  Dekh qabr-e-Fatema Sughra akeli reh gayi
 
   9
-  Ay musaddiq reh gayi tanha sakina shaam mein
-  Aur watan mein ghamzada sughra akeli reh gayi
+  Ae Musaddiq reh gayi tanha Sakina Shaam meiṅ
+  Aur watan meiṅ ghamzada Sughra akeli reh gayi
 # source_id: nohayonline:49ac9efe4d81c604bf77
 # source_url: https://www.nohayonline.com/details_content.php?id=3282
 # raw_sha256: 753d5967477cd780cd91676ee1480c424ba4326a1e979253c24f998f096c83ff
@@ -64,7 +65,7 @@ romanLyrics: |-
 سارا گھر ویراں ہوا صغرا اکیلی رہ گئی
 
 ۳
-عالم تنہائی ہے کوئی نہیں اس کا یہاں
+عالمِ تنہائی ہے کوئی نہیں اس کا یہاں
 اے مدینے کی فضا صغرا اکیلی رہ گئی
 
 ۴
