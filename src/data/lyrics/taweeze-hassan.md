@@ -1,129 +1,85 @@
 ---
 title: تعویذ حسن جب قاسم نے
-alternateTitle: Taweeze Hassan
+alternateTitle: Taweez-e-Hasan
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mazhar Abidi"
+reciter: "Mesum Abbas"
 tags: ["noImage"]
-aliases: []
+aliases: ["Taweeze Hassan", "Bhai Ko Bhai Yaad"]
 published: false
-romanLyrics: 'Taweez e hassan jab qasim ne
+romanLyrics: |-
+  Taweez-e-Hasan jab Qasim ne
+  Shabbir ko dikhlaaya
+  Bhai ko bhai yaad aaya
 
+  Khat bhai ka parh kar roye
+  Dil dard se tharraaya
+  Bhai ko bhai yaad aaya
 
   1
-
-  Shabbir ko dikhlaya
-
+  Ek pal ke liye nazroṅ mein phira
+  Bhai ki shahaadat ka manzar
+  Kya bain kiye the behnoṅ ne
+  Tha tasht mein tukre tukre jigar
+  Qasim ka kahiṅ ye haal na ho
+  Is baat ne tarpaaya
   Bhai ko bhai yaad aaya
-
-  Khat bhai ka pad kar roye
-
-  Dil dard se tharraya
-
-  Bhai ko bhai yaad aaya
-
-  Ek pal ke liye nazron mein phira
-
-  Bhai ki shahadat ka manzar
-
-  Kya bain kiye thay behno ne
-
-  Tha tasht mein tukde tukde jigar
-
-  Qasim ka kahin ye haal na ho
-
-  Is baat ne tadpaya
-
-  Bhai ko bhai yaad
-
 
   2
-
-  Tehreer mein shabbar ne ye kaha
-
-  Taskeen e mohabbat de dena
-
-  Maqtal ki ijazat jab maange
-
-  Qasim ko ijazat de dena
-
-  Tab nauha kiya aur qasim ko
-
-  Seene se liptaya
-
+  Tehrir mein Shabbar ne ye kaha
+  Taskin-e-mohabbat de dena
+  Maqtal ki ijaazat jab maange
+  Qasim ko ijaazat de dena
+  Tab nauha kiya aur Qasim ko
+  Sine se liptaaya
+  Bhai ko bhai yaad aaya
 
   3
-
-  Khat padh ke ijazat di sheh ne
-
-  Hathyaar sajaye qasim ne
-
+  Khat parh ke ijaazat di Sheh ne
+  Hathyaar sajaaye Qasim ne
   Talwaar laga kar patke mein
+  Jauhar wo dikhaaye Qasim ne
+  Sadqa jo utaara Zainab ne
+  Dil Shah ka bhar aaya
+  Bhai ko bhai yaad aaya
 
-  Jauhar wo dikhaye qasim ne
-
-  Sadqa jo utaara zainab ne
-
-  Dil shah ka bhar aaya
-
-  Ghode se gira jab ibne hassan
-
-  Maula ko pukara wawaila
-
-  Pahunche jo shah e deen maqtal mein
-
-  Pamaal badan tha qasim ka
-
-  Bhai ke pisar ko maula ne
-
+  Ghore se gira jab Ibn-e-Hasan
+  Maula ko pukaara waawaila
+  Pahunche jo Shah-e-diṅ maqtal mein
+  Paamaal badan tha Qasim ka
+  Bhai ke pisar ko Maula ne
   Is haal mein jab paaya
-
+  Bhai ko bhai yaad aaya
 
   4
-
-  Phir apni aba ke daaman mein
-
-  Qasim ko sameta maula ne
-
-  Kis tarha uthaun ye laasha
-
-  Ghazi ko pukara maula ne
-
-  Qasim ka sarapa tukdon mein
-
-  Taqdeer ne dikhlaya
-
+  Phir apni abaa ke daaman mein
+  Qasim ko sameta Maula ne
+  Kis tarah uthaauṅ ye laasha
+  Ghazi ko pukaara Maula ne
+  Qasim ka saraapa tukroṅ mein
+  Taqdir ne dikhlaaya
+  Bhai ko bhai yaad aaya
 
   5
-
-  Qaime mein junhi laaye laasha
-
-  Sar ahle haram ne peet liya
-
+  Khaime mein junhi laaye laasha
+  Sar ahl-e-haram ne pit liya
   Fizza ne kaleja thaam liya
-
-  Zainab ke labon par nauha tha
-
-  Farwa ki taraf dekha sheh ne
-
-  Aankhon mein lahoo aaya
-
+  Zainab ke laboṅ par nauha tha
+  Farwa ki taraf dekha Sheh ne
+  Aankhoṅ mein lahu aaya
+  Bhai ko bhai yaad aaya
 
   6
-
-  Mesum wo qayamat ka manzar
-
-  Tehreer mein laaya hai mazhar
-
-  Gathdi ko junhi khola sheh ne
-
-  Saadat huwe phir khaak basar
-
-  Ashkon ko ali ka beta bhi
-
-  Tab rok nahi paaya'
+  Mesum wo qayaamat ka manzar
+  Tehrir mein laaya hai Mazhar
+  Gathri ko junhi khola Sheh ne
+  Saadaat hue phir khaak basar
+  Ashkoṅ ko Ali ka beta bhi
+  Tab rok nahiṅ paaya
+  Bhai ko bhai yaad aaya
 # source_id: nohayonline:48dd146cd10b6e7b7af1
 # source_url: https://www.nohayonline.com/details_content.php?id=1325
 # raw_sha256: 90397269ce9d4cff7781a16ccbcb90f1aca7f49cdc7cbc5c07c7c08e267cb122
@@ -131,21 +87,22 @@ romanLyrics: 'Taweez e hassan jab qasim ne
 # source_url: https://www.nohayonline.com/details_content.php?id=2517
 # raw_sha256: 0a5ecce2b6e5313c2cb178fa6e1770933b4dc375d9d65ae9dc3a8b7977838474
 ---
-
 تعویذ حسن جب قاسم نے
+شبیر کو دکھلایا
+بھائی کو بھائی یاد آیا
+
+خط بھائی کا پڑھ کر روئے
+دل درد سے تھرایا
+بھائی کو بھائی یاد آیا
 
 ۱
-شبیر کو دکھلایا
-بھای کو بھای یاد آیا
-خط بھای کا پڑھ کر روے
-دل درد سے تھرایا
-بھای کو بھای یاد آیا
 اک پل کے لئے نظروں میں پھرا
-بھای کی شہادت کا منظر
-کیا بین کےء تھ بہنوں نے
+بھائی کی شہادت کا منظر
+کیا بین کیے تھے بہنوں نے
 تھا طشت میں ٹکڑے ٹکڑے جگر
 قاسم کا کہیں یہ حال نہ ہو
 اس بات نے تڑپایا
+بھائی کو بھائی یاد آیا
 
 ۲
 تحریر میں شبر نے یہ کہا
@@ -154,20 +111,24 @@ romanLyrics: 'Taweez e hassan jab qasim ne
 قاسم کو اجازت دے دینا
 تب نوحہ کیا اور قاسم کو
 سینے سے لپٹایا
+بھائی کو بھائی یاد آیا
 
 ۳
 خط پڑھ کے اجازت دی شہ نے
-ہتھیار سجاے قاسم نے
+ہتھیار سجائے قاسم نے
 تلوار لگا کر پٹکے میں
-جوہر وہ دکھاے قاسم نے
+جوہر وہ دکھائے قاسم نے
 صدقہ جو اتارا زینب نے
 دل شاہ کا بھر آیا
+بھائی کو بھائی یاد آیا
+
 گھوڑے سے گرا جب ابنِ حسن
 مولا کو پکارا واویلا
 پہنچے جو شہ دیں مقتل میں
 پامال بدن تھا قاسم کا
-بھای کے پسر کو مولا نے
+بھائی کے پسر کو مولا نے
 اس حال میں جب پایا
+بھائی کو بھائی یاد آیا
 
 ۴
 پھر اپنی عبا کے دامن میں
@@ -176,19 +137,22 @@ romanLyrics: 'Taweez e hassan jab qasim ne
 غازی کو پکارا مولا نے
 قاسم کا سراپا ٹکڑوں میں
 تقدیر نے دکھلایا
+بھائی کو بھائی یاد آیا
 
 ۵
-خیمے میں جونہی لاے لاشہ
-سر أہل حرم نے پیٹ لیا
+خیمے میں جونہی لائے لاشہ
+سر اہل حرم نے پیٹ لیا
 فضہ نے کلیجہ تھام لیا
 زینب کے لبوں پر نوحہ تھا
 فروہ کی طرف دیکھا شہ نے
 آنکھوں میں لہو آیا
+بھائی کو بھائی یاد آیا
 
 ۶
 میثم وہ قیامت کا منظر
 تحریر میں لایا ہے مظہر
-گھٹڑی کو جونہی کھولا شہ نے
-سادات ہوے پھر خاک بسر
+گٹھری کو جونہی کھولا شہ نے
+سادات ہوئے پھر خاک بسر
 اشکوں کو علی کا بیٹا بھی
 تب روک نہیں پایا
+بھائی کو بھائی یاد آیا

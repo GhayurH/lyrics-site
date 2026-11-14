@@ -6,64 +6,67 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ay mere bhai hussain
-  Ay maa ke dulaare baba ke laadle
-  Taweez mein hassan ne ye ro kar likha hussain
-  Qasim ko karbala mein nahi rokna hussain
-  Haye qasim haye haye qasim
+  Ae mere bhai Husain
+  Ae maaṅ ke dulaare baba ke laadle
+
+  Taweez mein Hasan ne ye ro kar likha Husain
+  Qasim ko Karbala mein nahiṅ rokna Husain
+  Haye Qasim haye haye Qasim
 
   1
   Akbar ko is se pehle na maqtal mein bhejna
-  Nana ka de raha hoon tumhe waasta hussain
+  Nana ka de raha huṅ tumheṅ waasta Husain
 
   2
   Lauta do aaj bhai amaanat mujhe meri
-  Tum ne bahot khayaal rakha shukriya hussain
+  Tum ne bahut khayaal rakha shukriya Husain
 
   3
-  Marne ki tum ne isko ijazat na di agar
-  Ghut ghut ke mera laadla mar jayega hussain
+  Marne ki tum ne isko ijaazat na di agar
+  Ghut ghut ke mera laadla mar jaayega Husain
 
   4
-  Dulhan banata kubra ko armaan reh gaya
-  Ho jaata beta aap ka beta mera hussain
+  Dulhan banaata Kubra ko armaan reh gaya
+  Ho jaata beta aap ka beta mera Husain
 
   5
-  Kamsin se ladne aaye jo arzaq sa pehelwan
-  Qasim ki jeet ke liye karna dua hussain
+  Kamsin se larne aaye jo Arzaq sa pehelwaaṅ
+  Qasim ki jit ke liye karna dua Husain
 
   6
-  Ghode tumhari laash pe daudaenge shaqi
-  Pamaal zinda hoga mera laadla hussain
+  Ghore tumhaari laash pe dauraaeṅge shaqi
+  Paamaal zinda hoga mera laadla Husain
 
   7
-  Qasim ki tooti phasliyan dekhoge jis ghadi
-  Maqtal mein yaad aayegi maa fatema hussain
+  Qasim ki tuti pasliyaaṅ dekhoge jis ghari
+  Maqtal mein yaad aayegi maaṅ Fatima Husain
 
   8
-  Maqtal mein gir ke maa ko pukarega mera laal
-  Zehmat na dega aap ko qasim mera hussain
+  Maqtal mein gir ke maaṅ ko pukaarega mera laal
+  Zehmat na dega aap ko Qasim mera Husain
 
   9
-  Honge nishan sumon ke na maa dekh payega
-  Chehre pe daal dena tum apni abaa hussain
+  Hoṅge nishaaṅ sumoṅ ke na maaṅ dekh paayega
+  Chehre pe daal dena tum apni abaa Husain
 
   10
-  Sajjad aansuon se tha aakhir mein ye likha
-  Laasha uthaane bete ka khud aaunga hussain
+  Sajjad aansuoṅ se tha aakhir mein ye likha
+  Laasha uthaane bete ka khud aauṅga Husain
 # source_id: nohayonline:c8e3a4ca777a4d7d123d
 # source_url: https://www.nohayonline.com/details_content.php?id=2788
 # raw_sha256: f75d4140d689a9eb647f3456304498a0b11e91920a144de59c1d40f2ad1c98a5
 ---
 اے میرے بھائی حسین
 اے ماں کے دلارے بابا کے لاڈلے
+
 تعویذ میں حسین نے یہ رو کر لکھا حسین
 قاسم کو کربلا میں نہیں روکنا حسین
-ہاے قاسم ہاے ہاے قاسم
+ہائے قاسم ہائے ہائے قاسم
 
 ۱
 اکبر کو اس سے پہلے نہ مقتل میں بھیجنا
@@ -86,19 +89,19 @@ romanLyrics: |-
 قاسم کی جیت کے لئے کرنا دعا حسین
 
 ۶
-گھوڑے تمہاری لاش پہ دوڑاییں گے شقی
+گھوڑے تمہاری لاش پہ دوڑائیں گے شقی
 پامال زندہ ہوگا میرا لاڈلا حسین
 
 ۷
 قاسم کی ٹوٹی پسلیاں دیکھو گے جس گھڑی
-مقتل میں یاد آے گی ماں فاطمہ حسین
+مقتل میں یاد آئے گی ماں فاطمہ حسین
 
 ۸
 مقتل میں گر کے ماں کو پکارے گا میرا لال
 زحمت نہ دے گا آپ کو قاسم میرا حسین
 
 ۹
-ہونگے نشاں سموں کے نہ ماں دیکھ پاے گی
+ہوں گے نشاں سموں کے نہ ماں دیکھ پائے گی
 چہرے پہ ڈال دینا تم اپنی عبا حسین
 
 ۱۰

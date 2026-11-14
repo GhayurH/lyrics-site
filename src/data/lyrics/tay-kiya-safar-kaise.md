@@ -6,40 +6,41 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Anees Pehersari"
+reciter: "Ali Zia Rizvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Tay kiya safar kaise pehne bediyan abid
-  Sar khule thi naaqon par saath bibiyan abid
+  Tay kiya safar kaise pehne beriyaaṅ Abid
+  Sar khule thiṅ naaqoṅ par saath Bibiyaaṅ Abid
 
   1
-  Teen din ke pyase thay aur shiddate tapti
-  Usne kar diya hoga kitna neemjaan abid
+  Tin din ke pyaase the aur shiddat-e-tapti
+  Us ne kar diya hoga kitna nimjaaṅ Abid
 
   2
-  Sar burida naizo par ran may bekafan laashe
-  Kaise dekha aankhon ne haye wo samaan abid
+  Sarburida nezoṅ par ran mein bekafan laashe
+  Kaise dekha aankhoṅ ne haye wo samaaṅ Abid
 
   3
-  Bekaja wa oonton par hai haram barehna sar
-  Sar jhukaye jaate hai banke saarban abid
+  Be kaja wa untoṅ par haiṅ haram barehna sar
+  Sar jhukaaye jaate haiṅ ban ke saarbaan Abid
 
   4
-  Jalte qaimon ka manzar phirta tha nigahon may
-  Ut'the dekh lete thay jab kahin dhuan abid
+  Jalte khaimoṅ ka manzar phirta tha nigaahoṅ mein
+  Uthte dekh lete the jab kahiṅ dhuaaṅ Abid
 
   5
-  Tauq hatkadi pehne kaise qabr khodi thi
-  Kis tarha se dafnayi shah-e-deen ki jaan abid
+  Tauq hathkari pehne kaise qabr khodi thi
+  Kis tarah se dafnaai Shah-e-diṅ ki jaaṅ Abid
 
   6
-  Jab bi jaam pani ka saamne nazar aaya
-  Rote thay wo pyason par leke hichkiyan abid
+  Jab bhi jaam paani ka saamne nazar aaya
+  Rote the wo pyaasoṅ par le ke hichkiyaaṅ Abid
 
   7
-  Zikr tashna-kaamon ka suboh shaam karta hai
-  Yun anees hai tujh par aaj mehrbaan abid
+  Zikr tashna kaamoṅ ka subh shaam karta hai
+  Yuṅ Anees hai tujh par aaj mehrbaan Abid
 # source_id: nohayonline:03039693c79a350e6dc1
 # source_url: https://www.nohayonline.com/details_content.php?id=274
 # raw_sha256: 25f6a25f2b0d0f84b0e4f6a5a0cb4815c7795a650b86cb9e8ded93a9f4ad9d87
