@@ -1,74 +1,75 @@
 ---
-title: "تیروں کے مُصلے پر وہ سجدئہ شکرانا"
-alternateTitle: "Teero Ke Musalle Par"
+title: "تیروں کے مُصلے پر وہ سجدۂ شکرانہ"
+alternateTitle: "Tiroṅ Ke Musalle Par"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nasir"
+reciter: "Anj. Sabile Masumeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Teeron ke musalle par wo sajdaye shukrana
-  Shabbir ne batlaya islam pe mar jana
+  Tiroṅ ke musalle par wo sajda-e-shukraana
+  Shabbir ne batlaaya Islaam pe mar jaana
 
   1
-  Ek teer ali asghar ki gardan pe laga aakar
-  Masoom ka has dena aur maut ka ghabrana
+  Ek tir Ali Asghar ki gardan pe laga aa kar
+  Maasum ka hans dena aur maut ka ghabraana
 
   2
-  Mayyat ali asghar ki haathon pe utha bole
-  Allah tere aage shabbir ka nazrana
+  Mayyat Ali Asghar ki haathoṅ pe utha bole
+  Allah tere aage Shabbir ka nazraana
 
   3
-  Hyder ki shuja'at ka andaz nazar aaya
-  Wo shaam e ghariban mein zainab ka na ghabrana
+  Haidar ki shujaat ka andaaz nazar aaya
+  Wo shaam-e-gharibaaṅ mein Zainab ka na ghabraana
 
   4
-  Sar ki thi bina chadar suraj bhi na nikla tha
-  Ye saani e zehra hai ummat ne na pehchana
+  Sar ki thi bina chaadar suraj bhi na nikla tha
+  Ye saani-e-Zehra hai ummat ne na pehchaana
 
   5
-  Ta hashr rulayega maula ki tarari par
-  Dul dul ki raqabon se beti ka lipat jaana
+  Taa hashr rulaayega Maula ki taraari par
+  Duldul ki raqaaboṅ se beti ka lipat jaana
 
   6
-  Kuch is tarha laash aayi ek raat ke byahe ki
-  Afsos ke maadar ne bete ko na pehchana
+  Kuchh is tarah laash aayi ek raat ke byahe ki
+  Afsos ke maadar ne bete ko na pehchaana
 
   7
-  Darbar mein fizza ne logon se kaha rokar
-  Aati hai nabi zadi tazeem ko jhuk jaana
+  Darbaar mein Fizza ne logoṅ se kaha ro kar
+  Aati hai Nabi zaadi taazim ko jhuk jaana
 
   8
-  Dunya to na bhoolegi abbas wafa teri
-  Talwar nahi khaynchi aaqa ka kaha maana
+  Dunya to na bhulegi Abbas wafa teri
+  Talwaar nahiṅ khenchi Aaqa ka kaha maana
 
   9
-  Barchi ali akbar ke seene se nikaali thi
-  Dekha na gaya shah se yun dil ka nikal aana
+  Barchhi Ali Akbar ke sine se nikaali thi
+  Dekha na gaya Shaah se yuṅ dil ka nikal aana
 
   10
-  Ye maa ki wasiyat thi abbas e dilawar ko
-  Jab deen pe ban aaye tum deen pe mar jaana
+  Ye maaṅ ki wasiyyat thi Abbas-e-dilaawar ko
+  Jab din pe ban aaye tum din pe mar jaana
 
   11
-  Socho to musalmano ye baat hi kya kam hai
-  Ahmed ki nawasi ka darbar mein aa jaana
+  Socho to Musalmaano ye baat hi kya kam hai
+  Ahmad ki nawaasi ka darbaar mein aa jaana
 
   12
-  Saydaniyo ka us waqt kya haal hua hoga
-  Masoom ka ro ro kar zindan mein mar jaana
+  Sayyidaaniyoṅ ka us waqt kya haal hua hoga
+  Maasum ka ro ro kar zindaaṅ mein mar jaana
 
   13
-  Dunya to na bhoolega manzar ye kabhi nasir
-  Saanche mein imamat ke quran ka dhal aana
+  Dunya to na bhulega manzar ye kabhi Nasir
+  Saanche mein imaamat ke Quraan ka dhal aana
 # source_id: nohayonline:4e3106b9c1c9756ec53b
 # source_url: https://www.nohayonline.com/details_content.php?id=713
 # raw_sha256: b7b8ed522745ff08c61adf71a20433b478e56c34c1186424578b8a23fff94803
 ---
-تیروں کے مُصلے پر وہ سجدئہ شکرانا
+تیروں کے مُصلے پر وہ سجدۂ شکرانہ
 شبیر نے بتلایا اسلام پہ مر جانا
 
 ۱
@@ -85,10 +86,10 @@ romanLyrics: |-
 
 ۴
 سر کی تھی بِنا چادر سورج بھی نہ نکلا تھا
-یہ ثانیئے زہرا ہے اُمت نے نہ پہچانا
+یہ ثانیِ زہرا ہے اُمت نے نہ پہچانا
 
 ۵
-تا ھشر رُلائے گا مولا کی تراری پر
+تا حشر رُلائے گا مولا کی تراری پر
 دُلدُل کی رقابوں سے بیٹی کا لپٹ جانا
 
 ۶
@@ -105,7 +106,7 @@ romanLyrics: |-
 
 ۹
 برچھی علی اکبر کے سینے سے نکالی تھی
-دیکھا نہ گیا شاہ سے یون دل کا نکل جانا
+دیکھا نہ گیا شاہ سے یوں دل کا نکل جانا
 
 ۱۰
 یہ ماں کی وصیّت تھی عباسِ دلاور کو

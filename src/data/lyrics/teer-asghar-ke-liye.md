@@ -1,78 +1,79 @@
 ---
 title: "تیر اصغر کے لئے"
-alternateTitle: "Teer Asghar Ke Liye"
+alternateTitle: "Tir Asghar Ke Liye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Anwar Zahir"
+reciter: "Shareef Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Teer asghar ke liye
-  Barchi akbar ke liye
-  Gardane shabbir thi
+  Tir Asghar ke liye
+  Barchhi Akbar ke liye
+  Gardan-e-Shabbir thi
   Kund khanjar ke liye
 
   1
-  Aaye laakhon aadmi
-  Sheh ke ek sar ke liye
+  Aaye laakhoṅ aadmi
+  Shah ke ek sar ke liye
 
   2
-  Sar kataya shaah ne
-  Deene yawar ke liye
+  Sar kataaya Shaah ne
+  Din-e-Yaawar ke liye
 
   3
   Sar bahattar laaye hai
-  Nazre daawar ke liye
+  Nazr-e-Daawar ke liye
 
   4
-  Aahni zanjeer aur
+  Aahani zanjir aur
   Ek laaghar ke liye
 
   5
-  Dafn zindan may hui
+  Dafn zindaaṅ mein hui
   Roti thi ghar ke liye
 
   6
-  Wo hamare hai faqat
-  Hum bahattar ke liye
+  Wo hamaare haiṅ faqat
+  Ham bahattar ke liye
 
   7
-  Daulate matam mili
+  Daulat-e-maatam mili
   Zindagi bhar ke liye
 
   8
-  Pyaas sheh ki bad gayi
-  Aab e khanjar ke liye
+  Pyaas Shah ki barh gayi
+  Aab-e-khanjar ke liye
 
   9
-  Halq ne shabbir ke
-  Bosay khanjar ke liye
+  Halq ne Shabbir ke
+  Bose khanjar ke liye
 
   10
   Ashk bhi bechain hai
-  Deedaye tar ke liye
+  Dida-e-tar ke liye
 
   11
-  Aankh pani laayi hai
-  Pyase asghar ke liye
+  Aankh paani laayi hai
+  Pyaase Asghar ke liye
 
   12
-  Maula kuch to sochiye
-  Apne anwar ke liye
+  Maula kuchh to sochiye
+  Apne Anwar ke liye
 # source_id: nohayonline:fe3a62c8952dc4b766ad
 # source_url: https://www.nohayonline.com/details_content.php?id=849
 # raw_sha256: df1d23b7f18bbfbffddf3644a12c6e6802315446749b07cfdd556747c1e96113
 ---
 تیر اصغر کے لئے
-برچی اکبر کے لئے
+برچھی اکبر کے لئے
 گردن شبیر تھی
 کند خنجر کے لئے
 
 ۱
-آے لاکھوں آدمی
+آئے لاکھوں آدمی
 شہ کے ایک سر کے لئے
 
 ۲
@@ -81,7 +82,7 @@ romanLyrics: |-
 
 ۳
 سر بہتر لایا ہے
-نزر داور کے لئے
+نذرِ داور کے لئے
 
 ۴
 آہنی زنجیر اور
@@ -108,13 +109,13 @@ romanLyrics: |-
 بوسے خنجر کے لئے
 
 ۱۰
-آشک بھی بے چین ہے
+اشک بھی بے چین ہے
 دیدۂ تر کے لئے
 
 ۱۱
-آنکھ پانی لای ہے
+آنکھ پانی لائی ہے
 پیاسے اصغر کے لئے
 
 ۱۲
-مولا کچھ تو سوچیےء
+مولا کچھ تو سوچیے
 اپنے انور کے لئے
