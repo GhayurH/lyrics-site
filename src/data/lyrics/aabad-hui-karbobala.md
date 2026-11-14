@@ -60,6 +60,9 @@ romanLyrics: |-
 # source_url: https://www.nohawriteups.org/aabad-hui-karbobala/
 # raw_sha256: b46df6519944018a0d88562e61e77b9dd3ce82e48cdadae43026c2f2ffcf4053
 # editorial_note: Archived HTML supplies the additional Paaband-e-rasan stanza before the closing takhallus. It remains unnumbered to preserve existing stanza labels. Notebook stanza 6 differs from the archived wording and needs audio/print confirmation. Complete barbaad hui main returns remain attached to their verses.
+# additional_source_id: nohawriteups:74ef16e7a4bd2c447336
+# additional_source_url: https://www.nohawriteups.org/aabad-hui-karbobala/
+# additional_raw_sha256: b46df6519944018a0d88562e61e77b9dd3ce82e48cdadae43026c2f2ffcf4053
 ---
 آباد ہوئی کربوبلا اجڑا مدینہ برباد ہوئی میں
 زینب کو نہ راس آیا محرم کا مہینہ برباد ہوئی میں

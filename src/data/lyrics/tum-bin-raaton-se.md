@@ -63,6 +63,12 @@ romanLyrics: |-
 # source_id: nohayonline:83b026e13744c78cf9b9
 # source_url: https://www.nohayonline.com/details_content.php?id=2679
 # raw_sha256: e846e3d8b2beb8406fb7ecb938d159611b2ee0dea6eb061e6caac0440c413fcc
+# additional_source_id: nohawriteups:793723b25eb4f5a36b3b
+# additional_source_url: https://www.nohawriteups.org/shorts-tum-bin-kai-raaton-se-main-soye-nahi-baba-syed-raza-abbas-zaidi-nohay-2025-1447-2/
+# additional_raw_sha256: d637c55923cab0379cf9dff8d7ccee0b1c32380c7c2de9ffafc0b736a47cd425
+# additional_source_id: nohawriteups:bcfca56cc3c777dcf7bd
+# additional_source_url: https://www.nohawriteups.org/shorts-tum-bin-kai-raaton-se-main-soye-nahi-baba-syed-raza-abbas-zaidi-nohay-2025-1447/
+# additional_raw_sha256: e9cc2a2d944a9cec9b15709c49139bb8ab064223f3df6f20012571437f638cf1
 ---
 طشت میں شاہ کا سر قید میں جب لایا گیا
 روکے چلای سکینہ در زنداں کھلا

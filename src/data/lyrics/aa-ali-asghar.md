@@ -73,6 +73,9 @@ romanLyrics: |-
 # source_id: nohayonline:8f3e27d76d05c6d53436
 # source_url: https://www.nohayonline.com/details_content.php?id=342
 # raw_sha256: aef49573a74bb5ac55504b482a63585c3a80a4ca323356e3b1d71d601c036d56
+# additional_source_id: nohawriteups:979020a6d22a8943293d
+# additional_source_url: https://www.nohawriteups.org/aa-ali-asghar/
+# additional_raw_sha256: b37257db89b767d9349616ed1da5fa6812c7775eaae330a4005f03da44eef3e2
 ---
 آ علی اصغر آ علی اصغر
 تُجھ کو جو پاؤں اے میرے اصغر

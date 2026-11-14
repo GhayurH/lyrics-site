@@ -48,6 +48,9 @@ romanLyrics: |-
 # source_id: nohayonline:aafc3c490260e46f08be
 # source_url: https://www.nohayonline.com/details_content.php?id=344
 # raw_sha256: b3ec165b44ddea61b3d40060de25a882df063d3ec1b603b58077a2694ec18af2
+# additional_source_id: nohawriteups:201218dbfd95424130c5
+# additional_source_url: https://www.nohawriteups.org/aa-dekh-mere-ghazi/
+# additional_raw_sha256: 99c11c86634533d821da77d84f6dbdc97bb3ec7370ccdc6510e7eaec845af372
 ---
 
 آ دیکھ میرے غازی اونچا ہے علم تیرا

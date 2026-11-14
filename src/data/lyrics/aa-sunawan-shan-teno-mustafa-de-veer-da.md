@@ -37,6 +37,9 @@ romanLyrics: |-
 # source_id: nohawriteups:9601f6d81b1ac7649bdd
 # source_url: https://www.nohawriteups.org/aa-sunawan-shan-teno-mustafa-de-veer-da/
 # raw_sha256: 989d2ae4f5b9a10467748958a07cd7050ac684367873b7a50194bab560c32cb3
+# additional_source_id: nohawriteups:9601f6d81b1ac7649bdd
+# additional_source_url: https://www.nohawriteups.org/aa-sunawan-shan-teno-mustafa-de-veer-da/
+# additional_raw_sha256: 989d2ae4f5b9a10467748958a07cd7050ac684367873b7a50194bab560c32cb3
 ---
 
 آ دساں واں شان تیکوں مصطفیٰ دے ویر دا  
