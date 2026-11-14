@@ -6,44 +6,45 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Izhaar"
+reciter: "Rizwan Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sitam baba ki ummat ka kabhi bhooli nahi zahra
-  Wo jalta ghar ka darwaza kabhi bhooli nahi zahra
+  Sitam baba ki ummat ka kabhi bhuliṅ nahiṅ Zahra
+  Wo jalta ghar ka darwaaza kabhi bhuliṅ nahiṅ Zahra
 
   1
-  Nabi zaadi ke baalon ki safedi ye bataati hai
-  Bhare darbar mein jaana kabhi bhooli nahi zahra
+  Nabi zaadi ke baaloṅ ki safedi ye bataati hai
+  Bhare darbaar mein jaana kabhi bhuliṅ nahiṅ Zahra
 
   2
-  Tamachon ke nishan shabbar na dekhe is liye apna
-  Chupana laal se chehra kabhi bhooli nahi zahra
+  Tamaanchoṅ ke nishaaṅ Shabbar na dekhe is liye apna
+  Chhupaana laal se chehra kabhi bhuliṅ nahiṅ Zahra
 
   3
-  Rasan dekhi galay mein murtaza ke haye bibi ne
-  Ali par zulm aada ka kabhi bhooli nahi zahra
+  Rasan dekhi gale mein Murtaza ke haaye Bibi ne
+  Ali par zulm aadaa ka kabhi bhuliṅ nahiṅ Zahra
 
   4
-  Thi inki phasliyan tooti hui aur zakhm e pehlu tha
-  Musalsal dard ka uthna kabhi bhooli nahi zahra
+  Thiṅ in ki pasliyaaṅ tuti huiṅ aur zakhm-e-pehlu tha
+  Musalsal dard ka uthna kabhi bhuliṅ nahiṅ Zahra
 
   5
-  Rahi jab tak bhi zinda bas usi ko roti rehti thi
-  Bichadna apne mohsin ka kabhi bhooli nahi zahra
+  Rahiṅ jab tak bhi zinda bas usi ko roti rehti thiṅ
+  Bichharna apne Mohsin ka kabhi bhuliṅ nahiṅ Zahra
 
   6
-  Khule thay jis ghadi bande kafan to maa ki mayyat se
-  Lipat kar laal ka rona kabhi bhooli nahi zahra
+  Khule the jis ghari band-e-kafan to maaṅ ki mayyat se
+  Lipat kar laal ka rona kabhi bhuliṅ nahiṅ Zahra
 
   7
-  Chale thay turbat e maadar se sheh karbobala jis dam
-  Shah e mazloom ka jaana kabhi bhooli nahi zahra
+  Chale the turbat-e-maadar se Shah Karb o Bala jis dam
+  Shah-e-mazlum ka jaana kabhi bhuliṅ nahiṅ Zahra
 
   8
-  Jise izhaar ban mein kar diya pamaal aada ne
-  Wo shah ka be-kafan laasha kabhi bhooli nahi zahra
+  Jise Izhaar ban mein kar diya paamaal aadaa ne
+  Wo Shah ka bekafan laasha kabhi bhuliṅ nahiṅ Zahra
 # source_id: nohayonline:9418f95676dc661e127e
 # source_url: https://www.nohayonline.com/details_content.php?id=3283
 # raw_sha256: daaad31a75097baaa7b87ffb747b0af57d90deeda5a828df086bd08b9200b64e
@@ -60,7 +61,7 @@ romanLyrics: |-
 چھپانا لعل سے چہرہ کبھی بُھولیں نہیں زہرا
 
 ۳
-رَسن دیکھی گلے میں مرتضیٰ کے ہائے بی بی نے
+رَسن دیکھی گلے میں مرتضیٰ کے ہائے بی‌بی نے
 علی پر ظلم اعدا کا کبھی بُھولیں نہیں زہرا
 
 ۴

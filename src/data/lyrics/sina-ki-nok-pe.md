@@ -6,44 +6,45 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ather Murshidabadi"
+reciter: "Muzammil Mirza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sina ki nok pe bhi shaah sar utha ke chale
-  Jahan ko taaqat e haq kya hai ye dikha ke chale
+  Sinaaṅ ki nok pe bhi Shaah sar utha ke chale
+  Jahaaṅ ko taaqat-e-haq kya hai ye dikha ke chale
 
   1
-  Hussain dasht may ghar apna go luta ke chale
-  Nabi ke deen ki qismat magar bana ke chale
+  Husain dasht mein ghar apna go luta ke chale
+  Nabi ke din ki qismat magar bana ke chale
 
   2
-  Usi ke qadmon se jannat lipat ke rehti hai
-  Misaal e hurr jo muqaddar ko khud bana ke chale
+  Usi ke qadmoṅ se jannat lipat ke rehti hai
+  Misaal-e-Hur jo muqaddar ko khud bana ke chale
 
   3
-  Jahan ne dekh liya teer e hurmula ka asar
-  Gale pe leke jo baysheer muskura ke chale
+  Jahaaṅ ne dekh liya tir-e-Hurmula ka asar
+  Gale pe le ke jo beshir muskura ke chale
 
   4
-  Hame kate hue baazu ki yaad aane lagi
-  Hum apne haath may jab bhi alam utha ke chale
+  Hameṅ kate hue baazu ki yaad aane lagi
+  Hum apne haath mein jab bhi alam utha ke chale
 
   5
-  Hussain kehte thay akbar hai ab andhera jahan
-  Tum apne seene pe zakhme sina jo khaake chale
+  Husain kehte the Akbar hai ab andhera jahaaṅ
+  Tum apne sine pe zakhm-e-sinaaṅ jo khaa ke chale
 
   6
-  Ghashi ke haal may abid ka jal gaya bistar
-  Jab aag qaime be-daar gar laga ke chale
+  Ghashi ke haal mein Aabid ka jal gaya bistar
+  Jab aag khaime bedaadgar laga ke chale
 
   7
-  Bandhe thay gardan o baazu haram ke rassi se
-  Sitam ki inteha ahle sitam dikha ke chale
+  Bandhe the gardan o baazu haram ke rassi se
+  Sitam ki inteha ahl-e-sitam dikha ke chale
 
   8
-  Yazeed naam zamane may ho gaya laanat
-  Hussain is tarha ather usay mita ke chale
+  Yazid naam zamaane mein ho gaya laanat
+  Husain is tarah Athar use mita ke chale
 # source_id: nohayonline:fa3acd78d762744d47cf
 # source_url: https://www.nohayonline.com/details_content.php?id=921
 # raw_sha256: a0e9ed8bb2f89c1a23927d07af7f0d750de4a93885ea58b87ca1147bf4ac19aa
@@ -57,28 +58,28 @@ romanLyrics: |-
 
 ۲
 اسی کے قدموں سے جنت لپٹ کے رہتی ہے
-مثال حر جو مقدر کو قد بنا کے چلے
+مثال حر جو مقدر کو خود بنا کے چلے
 
 ۳
 جہاں نے دیکھ لیا تیر حرملہ کا اثر
-گلے پہ لے کے جو بے شیر مسکراکے چلے
+گلے پہ لے کے جو بے شیر مسکرا کے چلے
 
 ۴
 ہمیں کٹے ہوئے بازو کی یاد آنے لگی
-ہم اپنے ہاتھ میں جب بھی الم اٹھا کے چلے
+ہم اپنے ہاتھ میں جب بھی علم اٹھا کے چلے
 
 ۵
 حسین کہتے تھے اکبر ہے اب اندھیرا جہاں
-تم اپنے سینے پہ زخم سناں جو کھاکے چلے
+تم اپنے سینے پہ زخم سناں جو کھا کے چلے
 
 ۶
 غشی کے حال میں عابد کا جل گیا بستر
-جب آگ خیمے بے داد گر لگا کے چلے
+جب آگ خیمے بے دادگر لگا کے چلے
 
 ۷
 بندھے تھے گردن و بازو حرم کے رسی میں
 ستم کی انتہا اہل ستم دکھا کے چلے
 
 ۸
-یزید نام زمانے میں ہوگیا لعنت
+یزید نام زمانے میں ہو گیا لعنت
 حسین اس طرح اطہر اسے مٹا کے چلے

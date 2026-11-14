@@ -6,53 +6,54 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Shah"
+reciter: "Kazmi Brothers"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Rakna meri amma se mera zakhm chupa kar
-  Baba mere seene mein sina toot gayi hai
+  Rakhna meri ammaaṅ se mere zakhm chhupa kar
+  Baba mere sine mein sinaaṅ tut gayi hai
 
   1
-  Seene pe rakha haath hataya nahi jaata
-  Wo dard hai seene mein bataya nahi jaata
-  Aur pyaas se aati hai meri jaan labon par
+  Sine pe rakha haath hataaya nahiṅ jaata
+  Wo dard hai sine mein bataaya nahiṅ jaata
+  Aur pyaas se aati hai meri jaan laboṅ par
 
   2
-  Khud aap wali ibne wali hai mere baba
-  Wallah zamane ke ali hai mere baba
-  Kis tarha se taazeem karoo aap ki uth kar
+  Khud aap Wali ibn-e-Wali hai mere baba
+  Wallaah zamaane ke Ali hai mere baba
+  Kis tarah se taazim karuṅ aap ki uth kar
 
   3
-  Us ko mere aa jaane ki umeed badi hai
-  Jeene ki dua usne mujhe khat mein likhi hai
-  Sughra se ye kehna ke miloonga labe kausar
+  Us ko mere aa jaane ki ummid bari hai
+  Jine ki dua us ne mujhe khat mein likhi hai
+  Sughra se ye kehna ke miluṅ ga lab-e-Kausar
 
   4
-  Armaan tha zainab ka banaati mujhe dulha
-  Ab dekhengi sehre ki jagah khoon bhara chehra
-  Dekha mujhe aise to na mar jaye tadap kar
+  Armaan tha Zainab ka banaati mujhe dulha
+  Ab dekheṅ gi sehra ki jagah khuṅ bhara chehra
+  Dekha mujhe aise to na mar jaaye tarap kar
 
   5
-  Dekhe se mujhe yaad tumhe aate thay nana
-  Ab aakhri ye tum se mulaqaat hai baba
-  Mil jayegi matti mein ye tasveer e payambar
+  Dekhe se mujhe yaad tumheṅ aate the nana
+  Ab aakhri ye tum se mulaaqaat hai baba
+  Mil jaaye gi matti mein ye tasvir-e-Payambar
 
   6
-  Is zakhm ke upar mai naye zakhm bhi khaa loo
-  Jaan apni fida kar ke shahe deen ko bacha loo
-  Ye dil ki tamanna thi magar haye muqaddar
+  Is zakhm ke upar main naye zakhm bhi khaa luṅ
+  Jaaṅ apni fida kar ke Shah-e-diṅ ko bacha luṅ
+  Ye dil ki tamanna thi magar haaye muqaddar
 
   7
-  Akbar ne raza apne padar se ye kaha tha
-  Sau baar mai ho jaata fida e shahe waala
-  Gham iska rulaata hai mujhe sibte payambar
+  Akbar ne Raza apne padar se ye kaha tha
+  Sau baar main ho jaata fidaa-e-Shah-e-waala
+  Gham is ka rulaata hai mujhe Sibt-e-Payambar
 # source_id: nohayonline:95c10d6c6b68641fb8b8
 # source_url: https://www.nohayonline.com/details_content.php?id=1624
 # raw_sha256: 3d2a5cd25b8f3dffe598df808d868ed0d14b827da49574d7b91026d0bcd61b66
 ---
 رکھنا میری اماں سے میرے زخم چھپا کر
-بابا میرے سینے میں سناں ٹوٹ گیء ہے
+بابا میرے سینے میں سناں ٹوٹ گئی ہے
 
 ۱
 سینے پہ رکھا ہاتھ ہٹایا نہیں جاتا
@@ -72,17 +73,17 @@ romanLyrics: |-
 ۴
 ارمان تھا زینب کا بناتی مجھے دولہا
 اب دیکھیں گی سہرا کی جگہ خوں بھرا چہرہ
-دیکھا مجھے ایسے تو نہ مر جاۓ تڑپ کر
+دیکھا مجھے ایسے تو نہ مر جائے تڑپ کر
 
 ۵
 دیکھے سے مجھے یاد تمہیں آتے تھے نانا
 اب آخری یہ تم سے ملاقات ہے بابا
-مل جاے گی مٹی میں یہ تصویر پیمبر
+مل جائے گی مٹی میں یہ تصویر پیمبر
 
 ۶
-اس زخم کے اوپر میں نےء زخم بھی کھا لو
-جاں اپنی فدا کر کے شہ دیں کو بچا لو
-یہ دل کی تمنا تھی مگر ہاے مقدر
+اس زخم کے اوپر میں نئے زخم بھی کھا لوں
+جاں اپنی فدا کر کے شہ دیں کو بچا لوں
+یہ دل کی تمنا تھی مگر ہائے مقدر
 
 ۷
 اکبر نے رضا اپنے پدر سے یہ کہا تھا
