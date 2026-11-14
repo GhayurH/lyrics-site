@@ -40,7 +40,7 @@ nohawriteups:073bf1e1ba106b231ae9,,unreviewed,,,,snapshots/nohawriteups/metadata
 nohawriteups:078f738f19291da8a384,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/078f738f19291da8a384.json,
 nohawriteups:0790bfa968f967f0db15,"no lyrics, delete",no_lyrics,,,,snapshots/nohawriteups/metadata/0790bfa968f967f0db15.json,User-approved exclusion; no Markdown file created; original archive preserved
 nohawriteups:07cddbdbc3baccfa5e7d,,unreviewed,,,,snapshots/nohawriteups/metadata/07cddbdbc3baccfa5e7d.json,No user decision yet; preserve source and do not import
-nohawriteups:07e4584beb9ff250f5f1,valid roman only,pending_pair_consolidation,,,,snapshots/nohawriteups/metadata/07e4584beb9ff250f5f1.json,dup of nohawriteups:db8157f37d9e90454c58
+nohawriteups:07e4584beb9ff250f5f1,valid roman only,consolidated_new_draft,src/data/lyrics/bhare-darbar-mein-roti-rahi-khari-zehra.md,https://www.nohawriteups.org/bharay-darbaar-mein-roti-rahi-khari-zahra/,fea365d3863954c5542a514d2bfe314804bb788756ae7024c362b29b0d0df514,snapshots/nohawriteups/metadata/07e4584beb9ff250f5f1.json,dup of nohawriteups:db8157f37d9e90454c58; Merged eight substantive stanzas from two source variants including extra Urdu-only Murtaza/rope stanza; both Urdu and Roman included for manual proofing
 nohawriteups:07f11c7e65fa4ef215ff,,unreviewed,,,,snapshots/nohawriteups/metadata/07f11c7e65fa4ef215ff.json,No user decision yet; preserve source and do not import
 nohawriteups:085c129f9548e76983a3,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/085c129f9548e76983a3.json,
 nohawriteups:08aca9c5f2cb9eb583d8,,unreviewed,,,,snapshots/nohawriteups/metadata/08aca9c5f2cb9eb583d8.json,No user decision yet; preserve source and do not import
@@ -1197,7 +1197,7 @@ nohawriteups:db10d5b798926078f6a0,"no lyrics, delete",no_lyrics,,,,snapshots/noh
 nohawriteups:db193c3589055c2a6320,,unreviewed,,,,snapshots/nohawriteups/metadata/db193c3589055c2a6320.json,No user decision yet; preserve source and do not import
 nohawriteups:db42f80ac15ec887da4d,,unreviewed,,,,snapshots/nohawriteups/metadata/db42f80ac15ec887da4d.json,No user decision yet; preserve source and do not import
 nohawriteups:db4fe8a7b47d825add8d,,unreviewed,,,,snapshots/nohawriteups/metadata/db4fe8a7b47d825add8d.json,No user decision yet; preserve source and do not import
-nohawriteups:db8157f37d9e90454c58,valid roman+urdu,pending_pair_consolidation,,,,snapshots/nohawriteups/metadata/db8157f37d9e90454c58.json,dup of nohawriteups:07e4584beb9ff250f5f1
+nohawriteups:db8157f37d9e90454c58,valid roman+urdu,consolidated_new_draft,src/data/lyrics/bhare-darbar-mein-roti-rahi-khari-zehra.md,https://www.nohawriteups.org/bharay-darbar-may-roti-rahi-khari-zehra/,72ec904238675f63decb008eaf09ae3e02f1fbafb9a1c5bf6c9222d8f8b84a6f,snapshots/nohawriteups/metadata/db8157f37d9e90454c58.json,dup of nohawriteups:07e4584beb9ff250f5f1; Merged eight substantive stanzas from two source variants including extra Urdu-only Murtaza/rope stanza; both Urdu and Roman included for manual proofing
 nohawriteups:dbe711b6ab8cd941f0be,,unreviewed,,,,snapshots/nohawriteups/metadata/dbe711b6ab8cd941f0be.json,No user decision yet; preserve source and do not import
 nohawriteups:dc8012b28b32e6b84d0e,,unreviewed,,,,snapshots/nohawriteups/metadata/dc8012b28b32e6b84d0e.json,No user decision yet; preserve source and do not import
 nohawriteups:dc9191f398c39b05bb58,,unreviewed,,,,snapshots/nohawriteups/metadata/dc9191f398c39b05bb58.json,No user decision yet; preserve source and do not import
