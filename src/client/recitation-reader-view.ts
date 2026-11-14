@@ -193,9 +193,9 @@ export function renderWork(work: HTMLElement, item: RecitationItem, index: numbe
     }
   } else {
     work.classList.add("recite-work-no-image");
-    image.append(node("p", "recite-empty-edition", "No original scan available for this kalam."));
   }
-  editions.append(image, roman, urdu);
+  if (scans.length) editions.append(image);
+  editions.append(roman, urdu);
   work.replaceChildren(header);
   if (item.reciter) work.append(node("p", "recite-work-note", "Reciter: " + item.reciter));
   if (item.note) work.append(node("p", "recite-work-note", item.note));
