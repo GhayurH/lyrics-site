@@ -19,7 +19,7 @@ nohawriteups:02dcca61c110671aa4b6,,unreviewed,,,,snapshots/nohawriteups/metadata
 nohawriteups:033f327af78b1693c2bf,,unreviewed,,,,snapshots/nohawriteups/metadata/033f327af78b1693c2bf.json,No user decision yet; preserve source and do not import
 nohawriteups:034d5c04c5f110a6f3c1,,unreviewed,,,,snapshots/nohawriteups/metadata/034d5c04c5f110a6f3c1.json,No user decision yet; preserve source and do not import
 nohawriteups:0370c767eab9cab2928d,,unreviewed,,,,snapshots/nohawriteups/metadata/0370c767eab9cab2928d.json,No user decision yet; preserve source and do not import
-nohawriteups:03da03dcd5d2fb9bb961,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/03da03dcd5d2fb9bb961.json,
+nohawriteups:03da03dcd5d2fb9bb961,valid roman only,consolidated_existing,src/data/lyrics/andhere-dasht-may.md,https://www.nohawriteups.org/andhere-dasht-may-dukhiya-sakina-kyon-chali-aayi/,bad2c5de5752a6306f1f2fb493450c252366ab031ac354fa7af38480fabef47d,snapshots/nohawriteups/metadata/03da03dcd5d2fb9bb961.json,"All 5 source couplets covered by existing complete bilingual poem; source provenance added, no duplicate"
 nohawriteups:048bc4c779b2bc0b0493,,unreviewed,,,,snapshots/nohawriteups/metadata/048bc4c779b2bc0b0493.json,No user decision yet; preserve source and do not import
 nohawriteups:04b332f239567e7c7cf3,,unreviewed,,,,snapshots/nohawriteups/metadata/04b332f239567e7c7cf3.json,No user decision yet; preserve source and do not import
 nohawriteups:04b4cc673d480c331ca8,,unreviewed,,,,snapshots/nohawriteups/metadata/04b4cc673d480c331ca8.json,No user decision yet; preserve source and do not import
@@ -28,7 +28,7 @@ nohawriteups:0551cb6a35c995b5c446,,unreviewed,,,,snapshots/nohawriteups/metadata
 nohawriteups:05989a5a5983e0039299,,unreviewed,,,,snapshots/nohawriteups/metadata/05989a5a5983e0039299.json,No user decision yet; preserve source and do not import
 nohawriteups:0599101e36cc03ac0ddc,,unreviewed,,,,snapshots/nohawriteups/metadata/0599101e36cc03ac0ddc.json,No user decision yet; preserve source and do not import
 nohawriteups:05cd3532d2b00d87ca64,,unreviewed,,,,snapshots/nohawriteups/metadata/05cd3532d2b00d87ca64.json,No user decision yet; preserve source and do not import
-nohawriteups:0642440f6de94b5b0aa2,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/0642440f6de94b5b0aa2.json,
+nohawriteups:0642440f6de94b5b0aa2,valid roman only,unpublished_source_draft,src/data/lyrics/aye-baade-saba-jake-ye-ammu.md,https://www.nohawriteups.org/aye-baade-saba-jake-ye-ammu-noha-lyrics/,5b687dc1854703965a4e50a7a6d15855cf93a83451130bbaed48b8aa04415ea5,snapshots/nohawriteups/metadata/0642440f6de94b5b0aa2.json,Title collision with ay-baade-saba-ja.md but substantive poem differs. Eight stanzas staged separately pending transliteration
 nohawriteups:0666482c6d850c4ff521,valid roman only,unpublished_source_draft,src/data/lyrics/abbas-na-ab-laut-ke.md,https://www.nohawriteups.org/abbas-a-s-na-ab-laut-ke/,10abaf4c56e6f88bef9086518170271d8d0a844c5fc145e99595eae7fc52c1c0,snapshots/nohawriteups/metadata/0666482c6d850c4ff521.json,Unpublished lyric source draft; not editorially completed or automatically acknowledged
 nohawriteups:06751af5a25a5a018040,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/06751af5a25a5a018040.json,
 nohawriteups:0677df76509833bc6caa,,unreviewed,,,,snapshots/nohawriteups/metadata/0677df76509833bc6caa.json,No user decision yet; preserve source and do not import
@@ -45,7 +45,7 @@ nohawriteups:07f11c7e65fa4ef215ff,,unreviewed,,,,snapshots/nohawriteups/metadata
 nohawriteups:085c129f9548e76983a3,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/085c129f9548e76983a3.json,
 nohawriteups:08aca9c5f2cb9eb583d8,,unreviewed,,,,snapshots/nohawriteups/metadata/08aca9c5f2cb9eb583d8.json,No user decision yet; preserve source and do not import
 nohawriteups:08f9c6ad5f1f29bf5c28,valid roman+urdu,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/08f9c6ad5f1f29bf5c28.json,
-nohawriteups:08fbcc33d079ca6d7fbb,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/08fbcc33d079ca6d7fbb.json,
+nohawriteups:08fbcc33d079ca6d7fbb,valid roman only,consolidated_existing,src/data/lyrics/abbas-ay-shere-nayastan-e-haider.md,https://www.nohawriteups.org/aye-sher-e-nayastan-e-haider-abbas/,2bbca019d590f0db07f54864e95fe92cf8d194548c8c568695b8fc593e1bb218,snapshots/nohawriteups/metadata/08fbcc33d079ca6d7fbb.json,"Source's substantive verses in fuller nine-stanza canonical; source provenance added, canonical extras retained"
 nohawriteups:0901f7e1f5f799c205de,,unreviewed,,,,snapshots/nohawriteups/metadata/0901f7e1f5f799c205de.json,No user decision yet; preserve source and do not import
 nohawriteups:0903828485a30036596a,,unreviewed,,,,snapshots/nohawriteups/metadata/0903828485a30036596a.json,No user decision yet; preserve source and do not import
 nohawriteups:092f325636fb63b910e3,,unreviewed,,,,snapshots/nohawriteups/metadata/092f325636fb63b910e3.json,No user decision yet; preserve source and do not import
