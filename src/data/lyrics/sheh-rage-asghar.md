@@ -1,70 +1,73 @@
 ---
-title: "شہ رگ اصغر پہ ہاے"
-alternateTitle: "Sheh Rage Asghar"
+title: "شہ رگِ اصغر پہ ہائے"
+alternateTitle: "Sheh-rag-e-Asghar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Tauseef"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sheh rage asghar pe haye
-  Hurmala ka teer hai
+  Sheh-rag-e-Asghar pe haaye
+  Hurmala ka tir hai
+
+  Dekh kar manzar hai naazaaṅ
+  Maadar-e-beshir hai
 
   1
-  Dekh kar manzar hai naazan
-  Maadar e baysheer hai
-  Mai bhi qasim ki tarha
-  Doongi asghar khwaab tha
-  Aaj tu ne laaj rakhli
-  Ye meri tabeer hai
+  Main bhi Qasim ki tarah
+  Duṅgi Asghar khwaab tha
+  Aaj tu ne laaj rakh li
+  Ye meri taabir hai
 
   2
-  Hurmala ka teer kha ke
-  Lab hilay masoom ke
-  Koi pooche hurmala se
-  Kya meri taqseer hai
+  Hurmala ka tir khaa ke
+  Lab hile Maasum ke
+  Koi puchhe Hurmala se
+  Kya meri taqsir hai
 
   3
-  Ro pade paikan kamane
+  Ro pare paikaaṅ kamaane
   Ghash mein saare ambiya
   Haath mein laasha pisar ka
-  Sajde mein shabbir hai
+  Sajde mein Shabbir hai
 
   4
-  Khoon mein doobe huwe
-  Laal se kehti thi maa
+  Khun mein dube hue
+  Laal se kehti thi maaṅ
   Uth tujhe milne hai aayi
-  Haye sakina dilgeer hai
+  Haaye Sakina dilgir hai
 
   5
-  Dhoop mein tauseef ro ro
-  Aal ajal ki de sada
-  Muntazir maula khadi hai
-  Aayat e tatheer hai
+  Dhup mein Tauseef ro ro
+  Al-ajal ki de sada
+  Muntazir Maula khari hai
+  Aayat-e-tathir hai
 # source_id: nohayonline:8213c1d409616a7c1aeb
 # source_url: https://www.nohayonline.com/details_content.php?id=3245
 # raw_sha256: c193de88b143540932dd7018c3e9faad6b58babed4cde5949dca6a94115f040b
 ---
 
-شہ رگ اصغر پہ ہاے
+شہ رگِ اصغر پہ ہائے
 حرملہ کا تیر ہے
 
-۱
 دیکھ کر منظر ہے نازاں
-مادر بے شیر ہے
+مادرِ بے شیر ہے
+
+۱
 میں بھی قاسم کی طرح
-دونگی اصغر خواب تھا
+دوں گی اصغر خواب تھا
 آج تو نے لاج رکھ لی
 یہ میری تعبیر ہے
 
 ۲
 حرملہ کا تیر کھا کے
 لب ہلے معصوم کے
-کوی پوچھے حرملہ سے
-کیا میری تقسیر ہے
+کوئی پوچھے حرملہ سے
+کیا میری تقصیر ہے
 
 ۳
 رو پڑے پیکاں کمانے
@@ -75,11 +78,11 @@ romanLyrics: |-
 ۴
 خون میں ڈوبے ہوئے
 لال سے کہتی تھی ماں
-اٹھ تجھے ملنے ہے آی
-ہاے سکینہ دلگیر ہے
+اٹھ تجھے ملنے ہے آئی
+ہائے سکینہ دلگیر ہے
 
 ۵
-دھوپ میں توسیف رو رو
-آلعجل کی دے صدا
+دھوپ میں توصیف رو رو
+العجل کی دے صدا
 منتظر مولا کھڑی ہے
-آیت تطہیر ہے
+آیتِ تطہیر ہے

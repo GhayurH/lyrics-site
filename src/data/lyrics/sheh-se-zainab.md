@@ -6,52 +6,53 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Kausar Zaidi"
+reciter: "Sajid Jafri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sheh se zainab ne kaha ran ko na jaana bhaiya
+  Sheh se Zainab ne kaha ran ko na jaana bhaiya
   Aur jaate ho to phir laut ke aana bhaiya
 
   1
-  Mai isi soch mein hoo kyun kiya aisa tumne
-  Aaj se pehle to mujhse nahi maanga tumne
-  Aaj kyun maang liya kurta purana bhaiya
+  Main isi soch mein huṅ kiuṅ kiya aisa tum ne
+  Aaj se pehle to mujh se nahiṅ maaṅga tum ne
+  Aaj kiuṅ maaṅg liya kurta puraana bhaiya
 
   2
-  Behan ko chor ke jaane ka irada to nahi
-  Aaj maqtal ko basane ka irada to nahi
-  Ye khayal apne kabhi dil mein na laana bhaiya
+  Behan ko chhor ke jaane ka iraada to nahiṅ
+  Aaj maqtal ko basaane ka iraada to nahiṅ
+  Ye khayaal apne kabhi dil mein na laana bhaiya
 
   3
-  Gham muqaddar ne har baar dikhaya ab tak
-  Ran se koi bhi palat kar nahi aaya ab tak
-  Is dukhi dil ko mere ab na dukhana bhaiya
+  Gham muqaddar ne to har baar dikhaaya ab tak
+  Ran se koi bhi palat kar nahiṅ aaya ab tak
+  Is dukhi dil ko mere ab na dukhaana bhaiya
 
   4
-  Khaali rahwaar ko dekhegi sakina kyun kar
-  Wo to bachi hai mai ho jaungi khud bhi muztar
+  Khaali rahwaar ko dekhegi Sakina kiuṅ kar
+  Wo to bachchi hai main ho jaauṅgi khud bhi muztar
   Ran se rahwaar pe tum laut ke aana bhaiya
 
   5
   Mere hote hue tanha na samajhna khud ko
-  Khud ko ghode se jo girta huwa mehsoos karo
-  Behan abbas ki hoo mujhko bulana bhaiya
+  Khud ko ghore se jo girte hue mahsus karo
+  Behan Abbas ki huṅ mujh ko bulaana bhaiya
 
   6
-  Shaam mein jaate hi baba ko sadayein doongi
-  Apne nana ki tarha naade ali pad loongi
-  Baba aajaye to tum mujhko batana bhaiya
+  Shaam mein jaate hi Baaba ko sadaaeṅ duṅgi
+  Apne Naana ki tarah Naad-e-Ali parh luṅgi
+  Baaba aa jaaye to tum mujh ko bataana bhaiya
 
   7
-  Be-rida koocha o bazaar mein jab aaungi
-  Ghamzada tumko agar paaya to mar jaungi
-  Ashk naize pe bahot tum na bahana bhaiya
+  Berida kucha o baazaar mein jab aauṅgi
+  Ghamzada tum ko agar paaya to mar jaauṅgi
+  Ashk neze pe bahut tum na bahaana bhaiya
 
   8
-  Itna ghamnaak tha ruqsat ka samaa ay kausar
-  Jab behan kehti thi dunya se chale jao agar
-  Jald paas apni behan ko bhi bulana bhaiya
+  Itna ghamnaak tha rukhsat ka samaaṅ Ae Kausar
+  Jab behan kehti thi dunya se chale jaao agar
+  Jald paas apni behan ko bhi bulaana bhaiya
 # source_id: nohayonline:46d08cf74d442209f9b8
 # source_url: https://www.nohayonline.com/details_content.php?id=807
 # raw_sha256: cad5385d0f770c29504452a486dcf4ce4beb7bb7f3f6ec0d262150116240f80a
@@ -62,7 +63,7 @@ romanLyrics: |-
 ۱
 میں اسی سوچ میں ہوں کیوں کیا ایسا تم نے
 آج سے پہلے تو مجھ سے نہیں مانگا تم نے
-آج کیوں مانگ لیا کرتا پرانہ بھیا
+آج کیوں مانگ لیا کرتا پرانا بھیا
 
 ۲
 بہن کو چھوڑ کے جانے کا ارادہ تو نہیں
@@ -76,23 +77,23 @@ romanLyrics: |-
 
 ۴
 خالی رہوار کو دیکھے گی سکینہ کیوں کر
-وہ تو بچی ہے میں ہو جاؤں گی قد بھی مضطر
+وہ تو بچی ہے میں ہو جاؤں گی خود بھی مضطر
 رن سے رہوار پہ تم لوٹ کے آنا بھیا
 
 ۵
-میرے ہوتے ہوئے تنہا نہ سمجھنا قد کو
-قد کو گھوڑے سے جو گرتے ہوئے محسوس کرو
-بہن عباس کی ہوں مجھکو بلانا بھیا
+میرے ہوتے ہوئے تنہا نہ سمجھنا خود کو
+خود کو گھوڑے سے جو گرتے ہوئے محسوس کرو
+بہن عباس کی ہوں مجھ کو بلانا بھیا
 
 ۶
-شام میں جاتے ہی بابا کو صدایں دونگی
-اپنے نانا کی طرح ناد علی پڑھ لونگی
-بابا آجائے تو تم مجھکو بتانا بھیا
+شام میں جاتے ہی بابا کو صدائیں دوں گی
+اپنے نانا کی طرح نادِ علی پڑھ لوں گی
+بابا آ جائے تو تم مجھ کو بتانا بھیا
 
 ۷
-بے ردا کوچہ و بازار میں جب آؤنگی
-غمزدہ تم کو اگر پایا تو مر جاؤنگی
-آشک نیزے پہ بہت تم نہ بہانا بھیا
+بے ردا کوچہ و بازار میں جب آؤں گی
+غمزدہ تم کو اگر پایا تو مر جاؤں گی
+اشک نیزے پہ بہت تم نہ بہانا بھیا
 
 ۸
 اتنا غمناک تھا رخصت کا سماں اے کوثر

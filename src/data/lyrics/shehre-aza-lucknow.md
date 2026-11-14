@@ -1,193 +1,194 @@
 ---
-title: "شہرِ عزاے لکھنؤ"
-alternateTitle: "Shehre Aza Lucknow"
+title: "شہرِ عزائے لکھنؤ"
+alternateTitle: "Shehr-e-Aza-e-Lucknow"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Yawar Lakhnavi"
+reciter: "Afzal Mirza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shehr e aza e lucknow
-  Hai sogh mein dooba hua
-  
+  Shehr-e-aza-e-Lucknow
+  Hai sog mein duba hua
+  Jis roz se Sheh ka hua
+
   1
-  Jis roz se sheh ka hua
-  Aelaan moharram ka kiya jis din nikal kar chand ne
-  Apna rukh e roshan dikhaya jab badal kar chand ne
-  Us din se hai badla hua shehr e aza e lucknow
-  
+  Aelaan Muharram ka kiya jis din nikal kar chaand ne
+  Apna rukh-e-roshan dikhaaya jab badal kar chaand ne
+  Us din se hai badla hua Shehr-e-aza-e-Lucknow
+
   2
-  Kirne padi jis roz se aa kar ghame shabbir ki
-  Ye baat meri hi tarha auron ne bhi tehreer ki
-  Us din se hai chamka hua hai shehr e aza e lucknow
-  
+  Kirneṅ pari jis roz se aa kar gham-e-Shabbir ki
+  Ye baat meri hi tarah auroṅ ne bhi tahrir ki
+  Us din se hai chamka hua hai Shehr-e-aza-e-Lucknow
+
   3
-  Jab se ghame shabbir ne tujhko chuna apne liye
-  Karbobala waalon ne jab apna liya apne liye
-  Pehle se tu acha hua shehr e aza e lucknow
-  
+  Jab se gham-e-Shabbir ne tujh ko chuna apne liye
+  Karb o Bala waaloṅ ne jab apna liya apne liye
+  Pehle se tu achchha hua Shehr-e-aza-e-Lucknow
+
   4
-  Dekha gaya jo shaam mein us ghamzada manzar ke baad
-  Jo shaam mein barpa hui us majlis e sarwar ke baad
-  Mohkam aza khana hua shehr e aza e lucknow
-  
+  Dekha gaya jo Shaam mein us ghamzada manzar ke baad
+  Jo Shaam mein barpa hui us majlis-e-Sarwar ke baad
+  Mohkam aza khaana hua Shehr-e-aza-e-Lucknow
+
   5
-  Matam yahan shabbir ka jab se kiya hum log ne
-  Parcham jari abbas ka jab se saja hum log ne
-  Jab se tera jalwa hua shehr e aza e lucknow
-  
+  Maatam yahaaṅ Shabbir ka jab se kiya hum log ne
+  Parcham Jari Abbas ka jab se saja hum log ne
+  Jab se tera jalwa hua Shehr-e-aza-e-Lucknow
+
   6
-  Shohrat mili izzat mili tehzeeb ki daulat mili
-  Mansab mila manzil mili mabood se azmat mili
-  Sarwar ka yun shayda hua shehr e aza e lucknow
-  
+  Shohrat mili izzat mili tahzib ki daulat mili
+  Mansab mila manzil mili maabud se azmat mili
+  Sarwar ka yuṅ shaida hua Shehr-e-aza-e-Lucknow
+
   7
-  Majlis hui matam hua jo bhi hua acha hua
+  Majlis hui maatam hua jo bhi hua achchha hua
   Apna liya har ek ne mere watan ka raasta
-  Mehwar yun is gham ka hua shehr e aza e lucknow
-  
+  Mehwar yuṅ is gham ka hua Shehr-e-aza-e-Lucknow
+
   8
-  Shehre aza jab se bana us roz se dunya mein tu
-  Hum ne nahi sab ne kaha us roz se dunya mein tu
-  Har aankh ka taara hua shehr e aza e lucknow
-  
+  Shehr-e-aza jab se bana us roz se dunya mein tu
+  Hum ne nahiṅ sab ne kaha us roz se dunya mein tu
+  Har aaṅkh ka taara hua Shehr-e-aza-e-Lucknow
+
   9
-  Rauze yahan ke deh kar ashkon ne ye mere kaha
-  Sarwar ke ghamkharon ko ye kehte huwe hum ne suna
-  Karbal se hai milta hua shehr e aza e lucknow
-  
+  Rauze yahaaṅ ke dekh kar ashkoṅ ne ye mere kaha
+  Sarwar ke ghamkhwaaroṅ ko ye kehte hue hum ne suna
+  Karbal se hai milta hua Shehr-e-aza-e-Lucknow
+
   10
-  Manzar yahan ka koi bhi hargiz bhul sakta nahi
-  Tareef ke alfaaz wo dil mein chupa sakta nahi
-  Jis ka bhi hai dekha hua shehr e aza e lucknow
-  
+  Manzar yahaaṅ ka koi bhi hargiz bhul sakta nahiṅ
+  Taarif ke alfaaz wo dil mein chhupa sakta nahiṅ
+  Jis ka bhi hai dekha hua Shehr-e-aza-e-Lucknow
+
   11
-  Do maah se zaaid yahan mehman rehte hai hussain
-  Mere liye aabaad hai apno se kehte hai hussain
-  Hai is liye nikhra hua shehr e aza e lucknow
-  
+  Do maah se zaaid yahaaṅ mehmaan rehte haiṅ Husain
+  Mere liye aabaad hai apnoṅ se kehte haiṅ Husain
+  Hai is liye nikhra hua Shehr-e-aza-e-Lucknow
+
   12
-  Din bhar sar e maqtal shahe mazloom ko jo gham mila
-  Baade zameen e karbala baade shahe karbobala
-  Us gham ka paimana hua shehr e aza e lucknow
-  
+  Din bhar sar-e-maqtal Shah-e-mazlum ko jo gham mila
+  Baad-e-zamin-e-Karbala baad-e-Shah-e-Karb o Bala
+  Us gham ka paimaana hua Shehr-e-aza-e-Lucknow
+
   13
-  Js roz se hissa bana sarwar ki tu jageer ka
-  Haasil hua sadqa tujhe jab se ghame shabbir ka
-  Tu saahib e rutba hua shehr e aza e lucknow
-  
+  Jis roz se hissa bana Sarwar ki tu jaagir ka
+  Haasil hua sadqa tujhe jab se gham-e-Shabbir ka
+  Tu saahib-e-rutba hua Shehr-e-aza-e-Lucknow
+
   14
-  Jab jis jagah bhi taaziya shabbir ka rakha gaya
-  Jhool saja kar jis jagah baysheer ka rakha gaya
-  Charcha wahan tera hua shehr e aza e lucknow
-  
+  Jab jis jagah bhi taaziya Shabbir ka rakha gaya
+  Jhula saja kar jis jagah beshir ka rakha gaya
+  Charcha wahaaṅ tera hua Shehr-e-aza-e-Lucknow
+
   15
-  Har ek sadi mein shaam se farshe aza bichta raha
-  Phir matam e sarwar yahan hota raha badta raha
-  Hai ye mera parkha hua shehr e aza e lucknow
-  
+  Har ek sadi mein Shaam se farsh-e-aza bichhta raha
+  Phir maatam-e-Sarwar yahaaṅ hota raha barhta raha
+  Hai ye mera parkha hua Shehr-e-aza-e-Lucknow
+
   16
-  Dunya mein ek bharat hai jo bhaaya shahe mazloom ko
-  Auron se tu acha nazar aaya shahe mazloom ko
-  Pathar se tab heera hua shehr e aza e lucknow
-  
+  Dunya mein ek Bhaarat hai jo bhaaya Shah-e-mazlum ko
+  Auroṅ se tu achchha nazar aaya Shah-e-mazlum ko
+  Patthar se tab hira hua Shehr-e-aza-e-Lucknow
+
   17
-  Ek baar jo shabbir ne apna kaha yawar to bas
-  Shabbir ke ansaar ne apna liya yawar to bas
-  Is mulk mein aala hua shehr e aza e lucknow
+  Ik baar jo Shabbir ne apna kaha Yawar to bas
+  Shabbir ke ansaar ne apna liya Yawar to bas
+  Is mulk mein aala hua Shehr-e-aza-e-Lucknow
 # source_id: nohayonline:5f6d0c8003a4f9e1c631
 # source_url: https://www.nohayonline.com/details_content.php?id=2267
 # raw_sha256: 6c6bbdabe941a64af822a54f3cdda9bbc4a6f5169ab2b43f159ec6dee2ba0991
 ---
 
-شہرِ عزاے لکھنؤ
+شہرِ عزائے لکھنؤ
 ہے سوگ میں ڈوبا ہوا
+جس روز سے شہ کا ہوا
 
 ۱
-جس روز سے شہ کا ہوا
 اعلان محرم کا کیا جس دن نکل کر چاند نے
 اپنا رخ روشن دکھایا جب بدل کر چاند نے
-اس دن سے ہے بدلا ہوا شہرِ عزاے لکھنؤ
+اس دن سے ہے بدلا ہوا شہرِ عزائے لکھنؤ
 
 ۲
 کرنیں پڑی جس روز سے آ کر غمِ شبیر کی
 یہ بات میری ہی طرح اوروں نے بھی تحریر کی
-اس دن سے ہے چمکا ہوا ہے شہرِ عزاے لکھنؤ
+اس دن سے ہے چمکا ہوا ہے شہرِ عزائے لکھنؤ
 
 ۳
-جب سے غمِ شبیر نے تجھکو چنا اپنے لےء
-کربوبلا والوں نے جب اپنا لیا اپنے لیےء
-پہلے سے تو اچھا ہوا شہرِ عزاے لکھنؤ
+جب سے غمِ شبیر نے تجھ کو چنا اپنے لیے
+کربوبلا والوں نے جب اپنا لیا اپنے لیے
+پہلے سے تو اچھا ہوا شہرِ عزائے لکھنؤ
 
 ۴
 دیکھا گیا جو شام میں اس غمزدہ منظر کے بعد
-جو شام میں برپا ہوی اس مجلس سرور کے بعد
-محکم عزا خانہ ہوا شہرِ عزاے لکھنؤ
+جو شام میں برپا ہوئی اس مجلس سرور کے بعد
+محکم عزا خانہ ہوا شہرِ عزائے لکھنؤ
 
 ۵
 ماتم یہاں شبیر کا جب سے کیا ہم لوگ نے
 پرچم جری عباس کا جب سے سجا ہم لوگ نے
-جب سے تیرا جلوہ ہوا شہرِ عزاے لکھنؤ
+جب سے تیرا جلوہ ہوا شہرِ عزائے لکھنؤ
 
 ۶
-شہرت ملی عزت ملی تہزیب کی دولت ملی
+شہرت ملی عزت ملی تہذیب کی دولت ملی
 منصب ملا منزل ملی معبود سے عظمت ملی
-سرور کا یوں شیدا ہوا شہرِ عزاے لکھنؤ
+سرور کا یوں شیدا ہوا شہرِ عزائے لکھنؤ
 
 ۷
-مجلس ہوی ماتم ہوا جو بھی ہوا اچھا ہوا
+مجلس ہوئی ماتم ہوا جو بھی ہوا اچھا ہوا
 اپنا لیا ہر ایک نے میرے وطن کا راستہ
-محور یوں اس غم کا ہوا شہرِ عزاے لکھنؤ
+محور یوں اس غم کا ہوا شہرِ عزائے لکھنؤ
 
 ۸
 شہر عزا جب سے بنا اس روز سے دنیا میں تو
 ہم نے نہیں سب نے کہا اس روز سے دنیا میں تو
-ہر آنکھ کا تارہ ہوا شہرِ عزاے لکھنؤ
+ہر آنکھ کا تارہ ہوا شہرِ عزائے لکھنؤ
 
 ۹
 روضے یہاں کے دیکھ کر اشکوں نے یہ میرے کہا
-سرور کے غم خواروں کو یہ کہتے ہوے ہم نے سنا
-کربل سے ہے ملتا ہوا شہرِ عزاے لکھنؤ
+سرور کے غم خواروں کو یہ کہتے ہوئے ہم نے سنا
+کربل سے ہے ملتا ہوا شہرِ عزائے لکھنؤ
 
 ۱۰
 منظر یہاں کا کوئی بھی ہر گز بھول سکتا نہیں
 تعریف کے الفاظ وہ دل میں چھپا سکتا نہیں
-جس کا بھی ہے دیکھا ہوا شہرِ عزاے لکھنؤ
+جس کا بھی ہے دیکھا ہوا شہرِ عزائے لکھنؤ
 
 ۱۱
-دو ماہ سے زید یہاں مہمان رہتے ہیں حسین
-میرے لےء آباد ہے اپنوں سے کہتے ہیں حسین
-ہے اس لےء نکھرا ہوا شہرِ عزاے لکھنؤ
+دو ماہ سے زائد یہاں مہمان رہتے ہیں حسین
+میرے لیے آباد ہے اپنوں سے کہتے ہیں حسین
+ہے اس لیے نکھرا ہوا شہرِ عزائے لکھنؤ
 
 ۱۲
 دن بھر سر مقتل شہ مظلوم کو جو غم ملا
 بعد زمینِ کربلا بعد شہ کربوبلا
-اس غم کا پیمانہ ہوا شہرِ عزاے لکھنؤ
+اس غم کا پیمانہ ہوا شہرِ عزائے لکھنؤ
 
 ۱۳
 جس روز سے حصہ بنا سرور کی تو جاگیر کا
 حاصل ہوا صدقہ تجھے جب سے غمِ شبیر کا
-تو صاحب رتبہ ہوا شہرِ عزاے لکھنؤ
+تو صاحب رتبہ ہوا شہرِ عزائے لکھنؤ
 
 ۱۴
 جب جس جگہ بھی تعزیہ شبیر کا رکھا گیا
 جھولا سجا کر جس جگہ بے شیر کا رکھا گیا
-چرچہ وہاں تیرا ہوا شہرِ عزاے لکھنؤ
+چرچہ وہاں تیرا ہوا شہرِ عزائے لکھنؤ
 
 ۱۵
 ہر ایک صدی میں شام سے فرش عزا بچھتا رہا
 پھر ماتم سرور یہاں ہوتا رہا بڑھتا رہا
-ہے یہ میرا پرکھا ہوا شہرِ عزاے لکھنؤ
+ہے یہ میرا پرکھا ہوا شہرِ عزائے لکھنؤ
 
 ۱۶
 دنیا میں ایک بھارت ہے جو بھایا شہ مظلوم کو
 اوروں سے تو اچھا نظر آیا شہ مظلوم کو
-پتھر سے تب ہیرا ہوا شہرِ عزاے لکھنؤ
+پتھر سے تب ہیرا ہوا شہرِ عزائے لکھنؤ
 
 ۱۷
 اک بار جو شبیر نے اپنا کہا یاور تو بس
 شبیر کے انصار نے اپنا لیا یاور تو بس
-اس ملک میں اعلیٰ ہوا شہرِ عزاے لکھنؤ
+اس ملک میں اعلیٰ ہوا شہرِ عزائے لکھنؤ
