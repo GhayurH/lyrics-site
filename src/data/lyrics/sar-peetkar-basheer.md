@@ -6,93 +6,94 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hilal Mirza"
+reciter: "Mir Rehan Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Logon madina rehne ke khaabil nahi raha
-  Sar peet kar basheer kehta hua chala
+  Logoṅ Madina rehne ke qaabil nahiṅ raha
+  Sar pit kar Bashir kehta hua chala
 
   1
-  Rote huwe basheer ne elaan ye kiya
-  Maare gaye hussain payambar ka ghar luta
-  Qaidi banaya aale mohamed ko bekhata
-  Wapas watan ko aaye hai bemaare karbala
+  Rote hue Bashir ne elaan ye kiya
+  Maare gaye Husain payambar ka ghar luta
+  Qaidi banaaya Aal-e-Muhammad ko bekhata
+  Waapas watan ko aaye haiṅ bimaar-e-Karbala
 
   2
-  Bedast nehr par huwe abbas e bawafa
-  Naiza shabiye ahmed-e-mukhtaar ko laga
-  Baysheer ke galay pe bhi teere sitam laga
-  Pamaal ran mein qasime naushaah ho gaya
+  Bedast nehr par hue Abbas baawafa
+  Naiza Shabih-e-Ahmad-e-Mukhtaar ko laga
+  Beshir ke gale pe bhi tir-e-sitam laga
+  Paamaal ran mein Qaasim-e-Naushaah ho gaya
 
   3
-  Jee bhar ke zaalimo ne sataya hussain ko
-  Pyasa kiya shaheed shahe mashraqain ko
-  Pani diya na fatema ke noor-e-ain ko
-  Pyase galay pa shimr ne khanjar chala diya
+  Ji bhar ke zaalimoṅ ne sataaya Husain ko
+  Pyaasa kiya shahid Shah-e-Mashriqain ko
+  Paani diya na Fatima ke nur-e-ain ko
+  Pyaase gale pe Shimr ne khanjar chala diya
 
   4
-  Shaam e ghariban ek qayamat hui bapa
-  Asbaab saara loot liya ghar bhi jala diya
-  Cheeni hai sar se zainab-o-kulsoom ki rida
-  Aale nabi ko qaid kiya wa musibata
+  Shaam-e-gharibaṅ ek qayaamat hui bapa
+  Asbaab saara lut liya ghar bhi jala diya
+  Chhini hai sar se Zainab o Kulsum ki rida
+  Aal-e-Nabi ko qaid kiya wa musibata
 
   5
-  Qaidi banaya zainab-e-muztar ko al-amaan
-  Aur be-kajawa oonton pe thi saari bibiyan
-  Pehne huwe thay sayyede sajjad bediyan
-  Ahle haram ka khaafla bazaar mein gaya
+  Qaidi banaaya Zainab-e-muztar ko al-amaaṅ
+  Aur bekajaawa untoṅ par thi saari Bibiyaṅ
+  Pehne hue the Sayyid-e-Sajjaad beriyaṅ
+  Ahl-e-haram ka qaafila baazaar mein gaya
 
   6
-  Qabre rasool hil gayi zainab ne jab kaha
-  Nana teri nawasi ke sar par na thi rida
-  Darbar e shaam mein hamein leja ke bekhata
-  Ummat ne khoob ajre risaalat ada kiya
+  Qabr-e-Rasul hil gayi Zainab ne jab kaha
+  Naana teri nawaasi ke sar par na thi rida
+  Darbaar-e-Shaam mein hameṅ le ja ke bekhata
+  Ummat ne khub ajr-e-risaalat ada kiya
 
   7
-  Maqbool ho hilal aur rehan ki dua
-  Naslon mein apne baakhi rahe gham hussain ka
-  Deti rahe duayein hamein binte mustafa
-  Saaman ho ye hashr mein apni nijaat ka
+  Maqbul ho Hilal aur Rehan ki dua
+  Nasloṅ mein apne baaqi rahe gham Husain ka
+  Deti rahe duaaeṅ hameṅ Bint-e-Mustafa
+  Saamaan ho ye hashr mein apni nijaat ka
 # source_id: nohayonline:49f6b2d056c18ecbcddd
 # source_url: https://www.nohayonline.com/details_content.php?id=723
 # raw_sha256: cb402c14785a4f8eba1fc6c1b4698dda0ccf11fea100384f9589c14eff6aad92
 ---
 لوگوں مدینہ رہنے کے قابل نہیں رہا
-سر پیٹ کر بشیر کہتا ہواچلا
+سر پیٹ کر بشیر کہتا ہوا چلا
 
 ۱
 روتے ہوئے بشیر نے اعلان یہ کیا
 مارے گئے حسین پیمبر کا گھر لٹا
 قیدی بنایا آل محمد کو بے خطا
-واپس وطن کو آے ہیں بیمار کربلا
+واپس وطن کو آئے ہیں بیمار کربلا
 
 ۲
-بے دست نہر پر ہوے عباس با وفا
+بے دست نہر پر ہوئے عباس با وفا
 نیزہ شبیہ احمد مختار کو لگا
 بے شیر کے گلے پہ بھی تیر ستم لگا
 پامال رن میں قاسم نوشاہ ہو گیا
 
 ۳
-جی بھر کے ظالموں نے ستایاحسین کو
+جی بھر کے ظالموں نے ستایا حسین کو
 پیاسا کیا شہید شہ مشرقین کو
 پانی دیا نہ فاطمہ کے نور عین کو
 پیاسے گلے پہ شمر نے خنجر چلا دیا
 
 ۴
-شام غریباں ایک قیامت ہوی بپا
+شام غریباں ایک قیامت ہوئی بپا
 اسباب سارا لوٹ لیا گھر بھی جلا دیا
 چھینی ہے سر سے زینب و کلثوم کی ردا
 آل نبی کو قید کیا وا مصیبتا
 
 ۵
 قیدی بنایا زینب مضطر کو الاماں
-اور بے کجاوا اونٹوں پر تھی ساری بی بیاں
+اور بے کجاوا اونٹوں پر تھی ساری بی‌بیاں
 پہنے ہوئے تھے سید سجاد بیڑیاں
 اہل حرم کا قافلہ بازار میں گیا
 
 ۶
-قبر رسول ہل گیء زینب نے جب کہا
+قبر رسول ہل گئی زینب نے جب کہا
 نانا تیری نواسی کے سر پر نہ تھی ردا
 دربار شام میں ہمیں لے جا کے بے خطا
 امت نے خوب اجر رسالت ادا کیا
