@@ -1,64 +1,65 @@
 ---
 title: "کیسے بھولے تجھے بھلا ام لیلیٰ اکبر"
-alternateTitle: "Umme Laila Akbar"
+alternateTitle: "Umm-e-Laila Akbar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
-aliases: []
+aliases: ["Umme Laila Akbar"]
 published: false
 romanLyrics: |-
-  Kaise bhoole tujhe bhala umme laila akbar
-  Koi dunya may hai kahan tere jaisa akbar
+  Kaise bhule tujhe bhala Umm-e-Laila Akbar
+  Koi dunya mein hai kahaaṅ tere jaisa Akbar
 
   1
   Mujhko hai ye khabar kya haal hai tera
   Tu laal hai mera
-  Maa hoo mai mujh se na chupa
-  Zakhm apna akbar
+  Maaṅ huṅ main tujh se na chhupa
+  Zakhm apna Akbar
 
   2
-  Girte thay baareha uth'te thay baareha
+  Girte the baaraha uthte the baaraha
   Dikhta hi kuch na tha
-  Sheh ne haathon se dayr tak
-  Ran may dhoonda akbar
+  Sheh ne haathoṅ se der tak
+  Ran mein dhunda Akbar
 
   3
-  Laila ki maamta zainab ki hasratein
-  Sughra ki mannatein
-  Qatl kitno ko kar gaya
-  Ek naiza akbar
+  Laila ki mamta Zainab ki hasrateṅ
+  Sughra ki mannateṅ
+  Qatl kitnoṅ ko kar gaya
+  Ik naiza Akbar
 
   4
   Kya din hai raat kya kya dard kya dawa
-  Kuch yaad kab raha
-  Yaad sughra ko reh gaya
-  Tera chehra akbar
+  Kuch der kab raha
+  Yaad Sughra ko reh gaya
+  Tera chehra Akbar
 
   5
-  Maa baap ki tarha behno ko bhi teri
+  Maaṅ baap ki tarah behnoṅ ko bhi teri
   Armaan reh gaya
-  Tere khoon se hi ban gaya
-  Tera sehra akbar
+  Tere khun se hi ban gaya
+  Tera sehra Akbar
 
   6
-  Uth dekh bekasi mushkil hai ye ghadi
-  Jageer se teri
-  Berida jaa rahi hai maa
-  Shaam o kufa akbar
+  Uth dekh bekasi mushkil hai ye ghari
+  Jaagir se teri
+  Berida jaa rahi hai maaṅ
+  Shaam o Kufa Akbar
 
   7
-  Kehti rahi ye maa uth kar salaam kar
+  Kehti rahi ye maaṅ uth kar salaam kar
   Aayi hai laash par
-  Jis ne atthara saal hai
-  Tujhko paala akbar
+  Jis ne athaarah saal hai
+  Tujhko paala Akbar
 
   8
-  Laasha tadap gaya akbar ye marsiya
-  Maa ke labon pe tha
+  Laasha tarap gaya Akbar ye marsiya
+  Maaṅ ke laboṅ pe tha
   Tere jaane se lut gayi
-  Maa ki dunya akbar
+  Maaṅ ki dunya Akbar
 # source_id: nohayonline:fd5b5a046b5fcc1b544e
 # source_url: https://www.nohayonline.com/details_content.php?id=2418
 # raw_sha256: 961a37931d48224157bb913a1c3fa4617b88974a2416924796a6b4d5c81ad272
@@ -73,7 +74,7 @@ romanLyrics: |-
 زخم اپنا اکبر
 
 ۲
-گرتے تھے بارہا اٹھتے تھے بار ہا
+گرتے تھے بارہا اٹھتے تھے بارہا
 دکھتا ہی کچھ نہ تھا
 شہ نے ہاتھوں سے دیر تک
 رن میں ڈھونڈا اکبر
@@ -103,13 +104,13 @@ romanLyrics: |-
 شام و کوفہ اکبر
 
 ۷
-کہتی رہی یہ ماں آٹھ کر سلام کر
-آی ہے لاش پر
+کہتی رہی یہ ماں اٹھ کر سلام کر
+آئی ہے لاش پر
 جس نے اٹھارہ سال ہے
 تجھکو پالا اکبر
 
 ۸
 لاشہ تڑپ گیا اکبر یہ مرثیہ
 ماں کے لبوں پہ تھا
-تیرے جانے سے لٹ گیء
+تیرے جانے سے لٹ گئی
 ماں کی دنیا اکبر

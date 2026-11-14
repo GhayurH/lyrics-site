@@ -1,90 +1,93 @@
 ---
 title: "جب بھی آیا کوئی عباس کا پرسہ دینے"
-alternateTitle: "Ummul Baneen"
+alternateTitle: "Ummul Banin"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ummul Baneen"]
 published: false
 romanLyrics: |-
-  Jab bhi aaya koi abbas ka pursa dene
-  Ro ro ke har ek se ye abbas ki maadar ne kaha
-  Mai ummul baneen hoon logon
-  Abbas ki mai maa hoon
+  Jab bhi aaya koi Abbas ka pursa dene
+  Ro ro ke har ek se ye Abbas ki maadar ne kaha
+
+  Main Ummul Banin huṅ logoṅ
+  Abbas ki maaṅ huṅ
 
   1
-  Abbas ko ek pal na royi
+  Abbas ko ek pal na roi
   Shabbir ko rone ki khaatir
-  Mai aaj talak zinda hoon
+  Main aaj talak zinda huṅ
 
   2
   Abbas to mera beta hai
-  Shabbir hai beta zehra ka
-  Sau bhi hote abbas agar
+  Shabbir hai beta Zahra ka
+  Sau bhi hote Abbas agar
   Shabbir pe kar deti sadqa
 
   3
-  Seekha hai in se dars e wafa
+  Sikha hai in se dars-e-wafa
   Hasnain ki khidmat farz mera
-  Zainab ke liye fizza hoon
+  Zainab ke liye Fizza huṅ
 
   4
-  Ye kam to nahi rutba mera
-  Mere qadmon talay khaliq ne
-  Us ghazi ki jannat rakh di
-  Jannat jo sabhi ko baante
+  Ye kam to nahiṅ rutba mera
+  Mere qadmoṅ tale Khaaliq ne
+  Us Ghaazi ki jannat rakh di
+  Jannat jo sabhi ko baaṅte
 
   5
   Wo jis ka parcham karta hai
-  Har ek zamane par saaya
-  Main us ke liye saaya hoon
+  Har ek zamaane par saaya
+  Main us ke liye saaya huṅ
 
   6
-  Ay kaash mai jaati karbobala
-  Mehshar mein naam jo hota
-  Ab saansein jab tak baaqi hai
+  Ae kaash main jaati Karbobala
+  Mahshar mein naam jo hota
+  Ab saaṅseṅ jab tak baaqi hai
   Mujhko ye rahega sadma
 
   7
-  Kyun saath ali ki beti ke
+  Kiuṅ saath Ali ki beti ke
   Baazu na rasan se mere bandhe
-  Zehra se mai sharminda hoon
+  Zahra se main sharminda huṅ
 
   8
-  Ek maa jo dhoop mein baithi hai
+  Ek maaṅ jo dhup mein baithi hai
   Saaya us par rota hai
-  Jab dekhti hoon ujdi godhi
+  Jab dekhti huṅ ujri godi
   Dil mera laraz jaata hai
 
   9
   Chalte hai mere dil par khanjar
-  Hai fazl ki maa bhi bewa magar
-  Bano ke liye dukhiya hoon
+  Hai Fazl ki maaṅ bhi bewa magar
+  Baano ke liye dukhiya huṅ
 
   10
-  Ay mir takallum wo bibi
+  Ae Mir Takallum wo Bibi
   Kehti hogi ye ro kar
-  Ghazi ke kate shaano ki qasam
-  Hai karz meri saanson par
+  Ghaazi ke kate shaanoṅ ki qasam
+  Hai qarz meri saaṅsoṅ par
 
   11
-  Pyasa gaya asghar dunya se
+  Pyaasa gaya Asghar dunya se
   Ye jab se suna hai us din se
-  Mai pyason ki saqqa hoon
+  Main pyaasoṅ ki saqqa huṅ
 # source_id: nohayonline:1489b8dd9924f317a29e
 # source_url: https://www.nohayonline.com/details_content.php?id=3308
 # raw_sha256: ff1c8f10d08d0fca4709679eb0b347aa6673481e8a2b552db5375ef2e3f9fde3
 ---
 جب بھی آیا کوئی عباس کا پرسہ دینے
 رو رو کے ہر ایک سے یہ عباس کی مادر نے کہا
+
 میں ام‌البنین ہوں لوگوں
 عباس کی ماں ہوں
 
 ۱
-عباس کو ایک پل نہ روی
+عباس کو ایک پل نہ روئی
 شبیر کو رونے کی خاطر
 میں آج تلک زندہ ہوں
 
@@ -95,7 +98,7 @@ romanLyrics: |-
 شبیر پہ کر دیتی صدقہ
 
 ۳
-سیکھا ہے ان سے درس وفا
+سیکھا ہے ان سے درسِ وفا
 حسنین کی خدمت فرض میرا
 زینب کے لئے فضہ ہوں
 
@@ -133,7 +136,7 @@ romanLyrics: |-
 بانو کے لئے دکھیا ہوں
 
 ۱۰
-اے میر تکلم وہ بی بی
+اے میر تکلم وہ بی‌بی
 کہتی ہوگی یہ رو کر
 غازی کے کٹے شانوں کی قسم
 ہے قرض میری سانسوں پر
@@ -141,4 +144,4 @@ romanLyrics: |-
 ۱۱
 پیاسا گیا اصغر دنیا سے
 یہ جب سے سنا ہے اس دن سے
-میں پیاسوں کی سقہ ہوں
+میں پیاسوں کی سقا ہوں
