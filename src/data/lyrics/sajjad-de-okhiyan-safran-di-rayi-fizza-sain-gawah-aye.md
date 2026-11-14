@@ -15,30 +15,29 @@ published: false
 # raw_sha256: 2ddba8d1912873b71a60df7439423574dfc80b70c0622294befb647911d0e3a2
 # soz_credit: Ali Raza Janjua
 romanLyrics: |-
-  
   1
-  Sajjad De Okhiyan Safran Di Rayi Fizza Sain Gawah Aye
-  Ban Nokar Habash Di Malka Ne Kita Syedaan Naal Nibah Aye
-  
+  Sajjad de okhiyaṅ safraṅ di rayi Fizza Saiṅ gawaah aye
+  Ban naukar Habash di malka ne kita Sayyadaaṅ naal nibaah aye
+
   2
-  Karbal Taun Le Ke Sham Taein Har Zulm Hai Bibi Sehndi Rayi
-  Beemar De Wangoon Hashar Taein Nahin Bhulne Sham De Rah Aye
-  
+  Karbal toṅ le ke Shaam taaiṅ har zulm hai Bibi sehndi rayi
+  Bimaar de waaṅguṅ hashar taaiṅ nahiṅ bhulne Shaam de raah aye
+
   3
-  Kisay Moor Te Zainab Ban Gayi Si Kisay Moor Te Ban Kulsoom Gayi
-  Kha Kha Ke Pathar Bachandi Rayi Aye Ban Ke Pak Panah Aye
-  
+  Kise mor te Zainab ban gayi si kise mor te ban Kulsum gayi
+  Khaa khaa ke pathar bachaandi rayi aye ban ke paak panaah aye
+
   4
-  Meri Sain Ne Qabar-e-Sakina Te Keeti Ainj Di Nokari Zindagi Bhar
-  Mar Ke V Sain Mojawar Hai Odi Qabar Te Pak Nigah Aye
-  
+  Meri Saiṅ ne qabar-e-Sakina te kiti ainj di naukari zindagi bhar
+  Mar ke vi Saiṅ mujaawar hai ohdi qabar te paak nigaah aye
+
   5
-  Jino Bhain Hai Aakhiya Zahra Ne Aate Maa Hasnain Bolanday Si
-  Taiyon Roza Bibi Zainab Da Fizza Di Sajdah Ga Aye
-  
+  Jinuṅ bhain hai aakhiya Zahra ne ate maaṅ Hasnain bolaande si
+  Taaiyoṅ rauza Bibi Zainab da Fizza di sajda gaah aye
+
   6
-  Ik Din Te Tur Gaye Dunya Taun Har Zulm De Jehray Shahid Si
-  Wich Sham De Fizza Tur Gayi Aye Wich Yasrab Deen Da Shah Aye
+  Ik din te tur gaye dunya toṅ har zulm de jehre shaahid si
+  Wich Shaam de Fizza tur gayi aye wich Yasrab din da Shaah aye
 ---
 
 ۱

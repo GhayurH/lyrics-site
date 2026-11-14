@@ -6,53 +6,54 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
+reciter: "Hasan Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sajde mein taygh khaa ke tadapte hai murtaza
-  
+  Sajde mein tegh khaa ke tarapte haiṅ Murtaza
+
   1
-  Tar aankh is azeem musibat pa hoti hai
-  Phir sar patak ke kaabe ki deewar roti hai
-  Daaman lahoo mein masjid e kufa bhigoti hai
-  Phir kayenaat ashkon ke moti pirothi hai
-  
+  Tar aaṅkh is azeem musibat pe hoti hai
+  Phir sar patak ke Kaabe ki diwaar roti hai
+  Daaman lahu mein Masjid-e-Kufa bhigoti hai
+  Phir kaainaat ashkoṅ ke moti piroti hai
+
   2
-  Moula sar e shigaafta thaame tadapte hai
-  Apne lahoo se sajde ki taareekh likhte hai
-  Hasnain sar pa baba ke roomal kaste hai
-  Phir bhi lahoo ke qatre musalsil tapakte hai
-  
+  Maula sar-e-shigaafta thaame tarapte haiṅ
+  Apne lahu se sajde ki taarikh likhte haiṅ
+  Hasnain sar pe baaba ke rumaal kaste haiṅ
+  Phir bhi lahu ke qatre musalsil tapakte haiṅ
+
   3
   Masjid mein phir to rone ka har simt ghul utha
-  Mushkil kusha ne hazrat e shabbar se ye kaha
-  Ghar jald le chalo mujhe ab deke aasra
-  Ghar se kahin nikal na pade binte fatema
-  
+  Mushkil Kusha ne Hazrat-e-Shabbar se ye kaha
+  Ghar jald le chalo mujhe ab de ke aasra
+  Ghar se kahiṅ nikal na pare Bint-e-Fatima
+
   4
-  Kehne lage ye dukhtar e zehra se murtuza
-  Tujh par musibaton ka hai ab taaza silsila
-  Tukde jigar ke uglega mazloom mujtaba
-  Beti katega sajde mein shabbir ka gala
-  
+  Kehne lage ye Dukhtar-e-Zehra se Murtaza
+  Tujh par musibatoṅ ka hai ab taaza silsila
+  Tukre jigar ke ugle ga mazlum Mujtaba
+  Beti kate ga sajde mein Shabbir ka gala
+
   5
-  Zainab banegi deen ki baqa ki tu aasra
-  Har gaam par dikhana hai meyaar sabr ka
-  Darbaar e aam mein tujhe jaana hai be rida
-  Zehra ki beti sunti hai roodaad e karbala
-  
+  Zainab banegi diṅ ki baqa ki tu aasra
+  Har gaam par dikhaana hai meyaar sabr ka
+  Darbaar-e-aam mein tujhe jaana hai berida
+  Zehra ki beti sunti hai rudaad-e-Karbala
+
   6
   Abbas ko bula ke gale se laga liya
-  Kehne lage na roye pidar tujh pa ho fida
-  Tujh par bada bharosa hai ay mere dilruba
-  Tu karbala mein hoga muhafiz hussain ka
-  
+  Kehne lage na roye pidar tujh pe ho fida
+  Tujh par bara bharosa hai ae mere dilruba
+  Tu Karbala mein hoga muhaafiz Husain ka
+
   7
-  Kufe ke bekason pa tha ye gham bada shadeed
-  Bait'ush sharaf pa aaye liye aarzoo e deed
-  Har simt phir to rone ka ek ghul utha rasheed
-  Allah ke mahine mein maula huwe shaheed
+  Kufe ke bekasoṅ pe tha ye gham bara shadid
+  Bait ush sharaf pe aaye liye aarzu-e-did
+  Har simt phir to rone ka ek ghul utha Rashid
+  Allah ke mahine mein Maula hue shahid
 # source_id: nohayonline:6d31947d7b8332347594
 # source_url: https://www.nohayonline.com/details_content.php?id=3046
 # raw_sha256: 7c36f12aec8518bd75a547b2821d940689833da6bdfec183b6e205f710d6fd6d
@@ -64,7 +65,7 @@ romanLyrics: |-
 تر آنکھ اس عظیم مصیبت پہ ہوتی ہے
 پھر سر پٹک کے کعبے کی دیوار روتی ہے
 دامن لہو میں مسجد کوفہ بھگوتی ہے
-پھر کاینات اشکوں کے موتی پروتی ہے
+پھر کائنات اشکوں کے موتی پروتی ہے
 
 ۲
 مولا سر شگافتہ تھامے تڑپتے ہیں
@@ -74,7 +75,7 @@ romanLyrics: |-
 
 ۳
 مسجد میں پھر تو رونے کا ہر سمت غل اٹھا
-مشکل کشاء نے حضرتِ شبیر سے یہ کہا
+مشکل کشا نے حضرتِ شبیر سے یہ کہا
 گھر جلد لے چلو مجھے اب دے کے آسرا
 گھر سے کہیں نکل نہ پڑے بنت فاطمہ
 
@@ -86,18 +87,18 @@ romanLyrics: |-
 
 ۵
 زینب بنے گی دیں کی بقا کی تو آسرا
-ہر گام پر دکھانا ہے میعار صبر کا
+ہر گام پر دکھانا ہے معیار صبر کا
 دربار عام میں تجھے جانا ہے بے ردا
 زہرا کی بیٹی سنتی ہے روداد کربلا
 
 ۶
 عباس کو بلا کے گلے سے لگا لیا
-کہنے لگے نہ روے پدر تجھ پہ ہو فدا
+کہنے لگے نہ روئے پدر تجھ پہ ہو فدا
 تجھ پر بڑا بھروسہ ہے اے میرے دلربا
 تو کربلا میں ہوگا محافظ حسین کا
 
 ۷
 کوفے کے بیکسوں پہ تھا یہ غم بڑا شدید
-بیت الشرف پہ آے لیےء آرزوے دید
+بیت الشرف پہ آئے لیے آرزوئے دید
 ہر سمت پھر تو رونے کا اک غل اٹھا رشید
 اللہ کے مہینے میں مولا ہوئے شہید
