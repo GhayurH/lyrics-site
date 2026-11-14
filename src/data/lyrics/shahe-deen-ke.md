@@ -1,40 +1,41 @@
 ---
 title: "شاہِ دین کے بچوں کی غمخوار زینب"
-alternateTitle: "Shahe Deen Ke"
+alternateTitle: "Shah-e-Din Ke"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Mirza Sikander Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shahe deen ke bachon ki ghamkhar zainab
-  Dilafgar zainab wafadar zainab
+  Shah-e-din ke bachchoṅ ki ghamkhwaar Zainab
+  Dilafgaar Zainab wafaadaar Zainab
 
   1
-  Ail ki wo beti wo zehra ki jaayi
-  Khudara e azmat wo khuddar zainab
+  Ali ki wo beti wo Zehra ki jaayi
+  Khudara-e-azmat wo khuddaar Zainab
 
   2
-  Kiye deen e ahmed pe kya kya ehsaan
-  Hai sharre nabi ki nigehdaar zainab
+  Kiye din-e-Ahmad pe kya kya ehsaan
+  Hai sharre Nabi ki nigahdaar Zainab
 
   3
-  Hai aafat raseeda badi dukh-zada hai
-  Falak ki satayi dilafgar zainab
+  Hai aafat rasida bari dukh zada hai
+  Falak ki sataayi dilafgaar Zainab
 
   4
-  Rahi tumse islam ki parda-dari
-  Mohamed ke deen ki alamdar zainab
+  Rahi tum se Islam ki parda daari
+  Muhammad ke din ki alamdaar Zainab
 
   5
-  Kahan se kafan apne bhai ko laaye
-  Wo majboor zainab wo lachaar zainab
+  Kahaaṅ se kafan apne bhaai ko laaye
+  Wo majbur Zainab wo laachaar Zainab
 
   6
-  Kaneez aapke dar pe aayi sada di
-  Madad kijo meri madadgar zainab
+  Kaniz aap ke dar par aayi sada di
+  Madad kijo meri madadgaar Zainab
 # source_id: nohayonline:06b047f1a85185657196
 # source_url: https://www.nohayonline.com/details_content.php?id=585
 # raw_sha256: 6193480af20599ed44e90f5577651940f44806238123ce798fb36fe1fd72628c
@@ -44,10 +45,10 @@ romanLyrics: |-
 
 ۱
 علی کی وہ بیٹی وہ زہرا کی جائی
-خُوداراِ عظمت وہ خودار زینب
+خُوداراِ عظمت وہ خوددار زینب
 
 ۲
-کیئے دینِ احمد پہ کیا کیا احسان
+کیے دینِ احمد پہ کیا کیا احسان
 ہے شارع نبی کی نگہدار زینب
 
 ۳
@@ -56,7 +57,7 @@ romanLyrics: |-
 
 ۴
 رہی تم سے اسلام کی پردہ داری
-محمد کے دیں کی علمدار زینب
+محمد کے دین کی علمدار زینب
 
 ۵
 کہاں سے کفن اپنے بھائی کا لائے

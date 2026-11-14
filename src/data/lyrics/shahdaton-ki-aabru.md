@@ -1,89 +1,90 @@
 ---
 title: "شہادتوں کی آبرو"
-alternateTitle: "Shahdaton Ki Aabru"
+alternateTitle: "Shahaadatoṅ Ki Aabru"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shahadaton ki aabru
-  Shaheede karbala hussain
+  Shahaadatoṅ ki aabru
+  Shahid-e-Karbala Husain
 
   1
-  Imame mashraqain hai
-  Imame maghrabain hai
-  Zameen se aasman tak
-  Hussain hi hussain hai
-  Qaraare qalbe mustafa
-  Sukoone fatema hussain
+  Imaam-e-mashraqain hai
+  Imaam-e-maghrabain hai
+  Zamiṅ se aasmaan tak
+  Husain hi Husain hai
+  Qaraar-e-qalb-e-Mustafa
+  Sukun-e-Faatima Husain
 
   2
-  Ibadaton ka aaeena
-  Yaqeen ki jalwagaah bhi
-  Hussain yani deen bhi
-  Hussain deen panaah bhi
+  Ibaadatoṅ ka aaina
+  Yaqiṅ ki jalwagaah bhi
+  Husain yaani din bhi
+  Husain din panaah bhi
   Bashar ki shakl mein hai tu
-  Khuda ka mojiza hussain
+  Khuda ka mojiza Husain
 
   3
-  Jo sheh rage yaqeen se
+  Jo shah rag-e-yaqin se
   Teri hayaat jil gayi
-  Tere lahoo ki dhaar se
-  Churi ki dhaar mud gayi
+  Tere lahu ki dhaar se
+  Chhuri ki dhaar mur gayi
   Sitam na qatl kar saka
-  Azaan ki sada hussain
+  Azaan ki sada Husain
 
   4
-  Hai sar darez paon par
-  Zamane bhar ki azmatein
+  Hai sar darez paaoṅ par
+  Zamaane bhar ki azmateṅ
   Udhar salaam ke liye
-  Khadi hui hai aayatein
-  Ke pal hai faqre innama
-  Viqare hal ataa hussain
+  Khari hui hai aayateṅ
+  Ke pal hai fakhr-e-innama
+  Waqaar-e-hal ataa Husain
 
   5
-  Wo tashnagi ke maarikein
-  Faraat ki kahaniyan
-  Wo phool jaise bachpane
-  Rasool si jawaniyan
-  Khuda ka deen kabhi tujhe
-  Bhula na payega hussain
+  Wo tashnagi ke maarkeṅ
+  Furaat ki kahaaniyaṅ
+  Wo phul jaise bachpane
+  Rasul si jawaaniyaṅ
+  Khuda ka din kabhi tujhe
+  Bhula na paayega Husain
 
   6
-  Hussain tujhse lad ke khud
-  Bikhar gayi hukumatein
-  Kahan gayi wo saltanat
-  Kahan gayi wo taaqatein
-  Har ek yazeed mil gaya
-  Magar na mit saka hussain
+  Husain tujh se lar ke khud
+  Bikhar gayi hukumateṅ
+  Kahaaṅ gayi wo saltanat
+  Kahaaṅ gayi wo taaqateṅ
+  Har ek Yazid mil gaya
+  Magar na mit saka Husain
 
   7
-  Hussain tere naam par
-  Fida hai saare bhaarti
-  Kahin hai tere taaziye
-  Kahin hai teri aarti
-  Barahmano ne bhi tujhe
-  Kaha hai devta hussain
+  Husain tere naam par
+  Fida hai saare Bhaarti
+  Kahiṅ hai tere taaziye
+  Kahiṅ hai teri aarti
+  Barahmanoṅ ne bhi tujhe
+  Kaha hai devta Husain
 
   8
-  Ghuroor e zulm tod do
-  Hawa ke rukh ko mod do
-  Utho hussainiyo utho
-  Dilon se dil ko jod do
+  Ghurur-e-zulm tor do
+  Hawa ke rukh ko mor do
+  Utho Husainiyoṅ utho
+  Diloṅ se dil ko jor do
   Banenge khud hi raaste
-  Kaho to milke ya hussain
+  Kaho to mil ke ya Husain
 
   9
-  Ye nayyar e alam naseeb
-  Aamir e aseer e gham
-  Firaaq e karbala mein dono
+  Ye Nayyar-e-alam nasib
+  Aamir-e-asir-e-gham
+  Firaaq-e-Karbala mein donoṅ
   Muztarib hai dam ba dam
-  Hai tera waasta inhe
-  Lehed pe phir bula hussain
+  Hai tera waasta inheṅ
+  Lahad pe phir bula Husain
 # source_id: nohayonline:abae2e9e866c6291501e
 # source_url: https://www.nohayonline.com/details_content.php?id=3675
 # raw_sha256: 6599e3fe02323c85ce3773bcc1ac62a1bd05ce62ebdb40ac4e89e9c2212fcfa4
@@ -103,15 +104,15 @@ romanLyrics: |-
 عبادتوں کا آیینہ
 یقیں کی جلوہ گاہ بھی
 حسین یعنی دین بھی
-حسین دیں پناہ بھی
+حسین دین پناہ بھی
 بشر کی شکل میں ہے تو
 خدا کا معجزہ حسین
 
 ۳
 جو شہ رگ یقین سے
-تیری حیات جل گیء
+تیری حیات جل گئی
 تیرے لہو کی دھار سے
-چھری کی دھار مڑ گیء
+چھری کی دھار مڑ گئی
 ستم نہ قتل کر سکا
 اذان کی صدا حسین
 
@@ -128,14 +129,14 @@ romanLyrics: |-
 فرات کی کہانیاں
 وہ پھول جیسے بچپنے
 رسول سے جوانیاں
-خدا کا دیں کبھی تجھے
+خدا کا دین کبھی تجھے
 بھلا نہ پائے گا حسین
 
 ۶
 حسین تجھ سے لڑ کے خود
-بکھر گیء حکومتیں
-کہاں گیء وہ سلطنت
-کہاں گیء وہ طاقتیں
+بکھر گئی حکومتیں
+کہاں گئی وہ سلطنت
+کہاں گئی وہ طاقتیں
 ہر ایک یزید مل گیا
 مگر نہ مٹ سکا حسین
 
@@ -145,7 +146,7 @@ romanLyrics: |-
 کہیں ہے تیرے تازیے
 کہیں ہے تیری آرتی
 برہمنوں نے بھی تجھے
-کہا‌ ہے دیوتا حسین
+کہا ہے دیوتا حسین
 
 ۸
 غرور ظلم توڑ دو

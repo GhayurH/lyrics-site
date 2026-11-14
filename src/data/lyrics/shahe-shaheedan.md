@@ -1,54 +1,55 @@
 ---
 title: "شاہ شہیداں شاہ شہیداں"
-alternateTitle: "Shahe Shaheedan"
+alternateTitle: "Shah-e-Shahidaaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
+reciter: "Ali Yazdan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shahe shaheedan shahe shaheedan
-  Roohe shariyat saahibe quran
-  Teri shahadat faqre rasoolan
-  
+  Shah-e-shahidaaṅ shah-e-shahidaaṅ
+  Ruh-e-shariat saahib-e-Quraan
+  Teri shahaadat fakhr-e-rasulaaṅ
+
   1
-  Gardan par shamsheer-e-sitamgar
-  Khoon may dooba asr ka manzar
-  Harfe tashakkur khushk labon par
-  Taygh talay bhi sajdaye yazdan
-  
+  Gardan par shamshir-e-sitamgar
+  Khun mein duba asr ka manzar
+  Harf-e-tashakkur khushk laboṅ par
+  Tegh tale bhi sajda-e-Yazdaaṅ
+
   2
-  Koi barchi ka phal kha kar
-  Koi galay par teer saja kar
+  Koi barchhi ka phal kha kar
+  Koi gale par tir saja kar
   Koi soye haath kata kar
-  Dashte bala may maut hai rakhsa
-  
+  Dasht-e-bala mein maut hai raqsaaṅ
+
   3
-  Phool se ruqsaron pe tamache
+  Phul se rukhsaaroṅ pe tamaanche
   Dekho zaalim aise maare
-  Bachi ka dam ruk ruk jaaye
-  Usko bulaye shaam ka zindan
-  
+  Bachchi ka dam ruk ruk jaaye
+  Us ko bulaaye Shaam ka zindaaṅ
+
   4
-  Suraj par andhiyare chaaye
-  Qaima qaima larza sholay
-  Sehme sehme pyase bache
-  Dekh rahe hai shaam e ghariban
-  
+  Suraj par andhiyaare chhaaye
+  Khaima khaima larza shole
+  Sahme sahme pyaase bachche
+  Dekh rahe haiṅ shaam-e-gharibaaṅ
+
   5
   Phail gaya jab shaam ka saaya
-  Maqsad ki takmeel ka beda
-  Teri hi khaahar ne uthaya
-  Ashoora ta hashr ka maidan
-  
+  Maqsad ki takmil ka bera
+  Teri hi khaahar ne uthaaya
+  Aashura ta hashr ka maidaan
+
   6
-  Khoon ki cheento se tha zinda
+  Khun ki chhintoṅ se tha zinda
   Shahid maqtal ka har zarra
   Apni khilqat par sharminda
-  Iksat hijri sar ba gireban
+  Iksat hijri sar ba girebaaṅ
 # source_id: nohayonline:2cc2f9953afc12257aea
 # source_url: https://www.nohayonline.com/details_content.php?id=705
 # raw_sha256: 98a6d342b6540147fed77239116c71fafc0f53db5239bd6dd8299f878d7f28a2
@@ -58,9 +59,9 @@ romanLyrics: |-
 تیری شہادت فخر رسولاں
 
 ۱
-گردں پہ شمشیر ستم گر
+گردن پہ شمشیر ستم گر
 خون میں ڈوبا اسر کا منظر
-حرفے تشکر خشک لبوں پر
+حرفِ تشکر خشک لبوں پر
 تیغ طالع بھی سجدئہ یزداں
 
 ۲
