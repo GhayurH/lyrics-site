@@ -6,76 +6,77 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Rauze pe nabi ke aa ke
-  Shaano ke neel dikaake
+  Rauze pe Nabi ke aa ke
+  Shaanoṅ ke nil dikha ke
   Zainab ye buka karti thi
-  Haye nana shaam ne maar diya hai
+  Haye Naana Shaam ne maar diya hai
 
   1
-  Dukh shaam e ghariban ke seh kar
-  Zinda rahi ghazi ki khwahar
-  Jab barse aseeron par pathar
-  Sar ghazi ka naize se gira
+  Dukh Shaam-e-gharibaṅ ke seh kar
+  Zinda rahi Ghaazi ki khwahar
+  Jab barse asiroṅ par pathar
+  Sar Ghaazi ka naize se gira
   Shaam ne maar diya hai
 
   2
-  Akbar ka jigar chalni dekha
+  Akbar ka jigar chhalni dekha
   Saabir ki behan ne sabr kiya
-  Durro se badan zakhmi tha mera
-  Mai chup thi magar mehboob e khuda
+  Durroṅ se badan zakhmi tha mera
+  Main chup thi magar Mehbub-e-Khuda
   Shaam ne maar diya hai
 
   3
-  Jab aun o mohamed qatl huwe
+  Jab Aun o Muhammad qatl hue
   Shabbir utha laaye laashe
-  Mai shukr ke karti thi sajde
-  Sar ooncha mera bachon ne kiya
+  Main shukr ke karti thi sajde
+  Sar uncha mera bachchoṅ ne kiya
   Shaam ne maar diya hai
 
   4
-  Daaman mein utha kar shaahe huda
-  Jab qasim ka laaye laasha
-  Chup chup ke kiya maine girya
+  Daaman mein utha kar Shah-e-Huda
+  Jab Qasim ka laaye laasha
+  Chhup chhup ke kiya main ne girya
   Gham apna kabhi zaahir na kiya
   Shaam ne maar diya hai
 
   5
-  Kyun mar na gayi ab sochti hoo
-  Abid ka baha jab aankh se khoon
-  Zinda rahi mai be-chain o sukoon
-  Shaam aagaya jis dam maine suna
+  Kiuṅ mar na gayi ab sochti huṅ
+  Aabid ka baha jab aankh se khuṅ
+  Zinda rahi main bechain o sukuṅ
+  Shaam aa gaya jis dam main ne suna
   Shaam ne maar diya hai
 
   6
-  Tar khoon mein hua asghar ka gala
-  Tha teer bhi uske khad se bada
-  Bano ko dilaasa maine diya
-  Karti rahi mai be-taygh wigha
+  Tar khuṅ mein hua Asghar ka gala
+  Tha tir bhi us ke qad se bara
+  Bano ko dilaasa main ne diya
+  Karti rahi main betegh wagha
   Shaam ne maar diya hai
 
   7
-  Us shehre sitam mein ay nana
-  Kya tum se kahoo kya haal hua
+  Us shahr-e-sitam mein ae Naana
+  Kya tum se kahuṅ kya haal hua
   Fizza ko kisi ne kuch na kaha
-  Durro ki mili zainab ko saza
+  Durroṅ ki mili Zainab ko saza
   Shaam ne maar diya hai
 
   8
-  Sughra ne sakina ko poocha
-  Mai kya kehti rone ke siwa
-  Jab us ne bahot majboor kiya
-  Tab sar ko jhukaye maine kaha
+  Sughra ne Sakina ko puchha
+  Main kya kehti rone ke siwa
+  Jab us ne bahut majbur kiya
+  Tab sar ko jhukaaye main ne kaha
   Shaam ne maar diya hai
 
   9
-  Jo sher e khuda ki beti thi
+  Jo Sher-e-Khuda ki beti thi
   Abbas ke tewar rakhti thi
-  Jo maut se bhi ek pal na dari
-  Us bibi ko rehaan o raza
+  Jo maut se bhi ik pal na dari
+  Us Bibi ko Rehaan o Raza
   Shaam ne maar diya hai
 # source_id: nohayonline:247d174f46b0667dca24
 # source_url: https://www.nohayonline.com/details_content.php?id=1827
@@ -85,10 +86,10 @@ romanLyrics: |-
 روضے پہ نبی کے آ کے
 شانوں کے نیل دکھا کے
 زینب یہ بکا کرتی تھی
-ہاے نانا شام نے مار دیا ہے
+ہائے نانا شام نے مار دیا ہے
 
 ۱
-دکھ شام غریباں کے سہہ کر
+دکھ شامِ غریباں کے سہہ کر
 زندہ رہی غازی کی خواہر
 جب برسے اسیروں پر پتھر
 سر غازی کا نیزے سے گرا
@@ -97,26 +98,26 @@ romanLyrics: |-
 ۲
 اکبر کا جگر چھلنی دیکھا
 صابر کی بہن نے صبر کیا
-دروں سے بدن زخمی تھا میرا
-میں چپ تھی مگر محبوب خدا
+دُرّوں سے بدن زخمی تھا میرا
+میں چپ تھی مگر محبوبِ خدا
 شام نے مار دیا ہے
 
 ۳
-جب عون و محمد قتل ہوے
-شبیر اٹھا لاے لاشے
+جب عون و محمد قتل ہوئے
+شبیر اٹھا لائے لاشے
 میں شکر کے کرتی تھی سجدے
 سر اونچا میرا بچوں نے کیا
 شام نے مار دیا ہے
 
 ۴
-دامن میں اٹھا کر شاہ ہدا
-جب قاسم کا لاے لاشہ
+دامن میں اٹھا کر شاہِ ہدیٰ
+جب قاسم کا لائے لاشہ
 چھپ چھپ کے کیا میں نے گریہ
 غم اپنا کبھی ظاہر نہ کیا
 شام نے مار دیا ہے
 
 ۵
-کیوں مر نہ گیء اب سونچتی ہوں
+کیوں مر نہ گئی اب سوچتی ہوں
 عابد کا بہا جب آنکھ سے خوں
 زندہ رہی میں بے چین و سکوں
 شام آ گیا جس دم میں نے سنا
@@ -130,10 +131,10 @@ romanLyrics: |-
 شام نے مار دیا ہے
 
 ۷
-اس شہر ستم میں اے نانا
+اس شہرِ ستم میں اے نانا
 کیا تم سے کہوں کیا حال ہوا
 فضہ کو کسی نے کچھ نہ کہا
-دروں کی ملی زینب کو سزا
+دُرّوں کی ملی زینب کو سزا
 شام نے مار دیا ہے
 
 ۸
@@ -144,8 +145,8 @@ romanLyrics: |-
 شام نے مار دیا ہے
 
 ۹
-جو شیر خدا کی بیٹی تھی
+جو شیرِ خدا کی بیٹی تھی
 عباس کے تیور رکھتی تھی
 جو موت سے بھی اک پل نہ ڈری
-اس بی بی کو ریحان و رضا
+اس بی‌بی کو ریحان و رضا
 شام نے مار دیا ہے

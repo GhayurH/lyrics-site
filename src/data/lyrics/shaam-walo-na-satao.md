@@ -1,52 +1,53 @@
 ---
-title: شام والوں نہ نہ ستائو
+title: شام والوں نہ ستاؤ
 alternateTitle: Shaam Walo Na Satao
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mir Takallum"
+reciter: "Mir Hasan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shaam walon na satao
-  Kehta tha muhari ghurbat pe hamari bas kar na rulao
+  Shaam waloṅ na sataao
+  Kehta tha muhaari ghurbat pe hamaari bas kar na rulaao
 
   1
   Sar chacha ka mere is waaste gir jaata hai
-  Inko behno ka khula sar jo nazar aata hai
-  Ghayoor ke sar ko lillaah na logo naize pe uthao
+  In ko behnoṅ ka khula sar jo nazar aata hai
+  Ghayur ke sar ko lillaah na logoṅ naize pe uthaao
 
   2
-  Kya kya na sitam dhaaye hai ham par tum ne
-  Hadh ye hai cheenli tatheer ki chadar tum ne
-  Ab tum wahi chadar naize pe utha kar humko na dikhao
+  Kya kya na sitam dhaaye haiṅ hum par tum ne
+  Had ye hai chhin li tathir ki chaadar tum ne
+  Ab tum wohi chaadar naize pe uthaa kar hum ko na dikhaao
 
   3
-  Hum ulil-amr hai shayad ye nahi tum ko khabar
-  Hum agar chaahe to barse abhi tum par pathar
-  Majboor samajhkar haye tum aale nabi par pathar na girao
+  Hum ulil-amr haiṅ shaayad ye nahiṅ tum ko khabar
+  Hum agar chaaheṅ to barseṅ abhi tum par pathar
+  Majbur samajh kar haye tum Aal-e-Nabi par pathar na giraao
 
   4
-  Kaise naize pe uthaya gaya sar asghar ka
-  Kaise pamaal kiya ibne-hassan ka laasha
-  Ye zulm ke kisse mat saamne jaa ke maa'on ko sunao
+  Kaise naize pe uthaaya gaya sar Asghar ka
+  Kaise paamaal kiya Ibn-e-Hasan ka laasha
+  Ye zulm ke qisse mat saamne jaa ke maaoṅ ko sunaao
 
   5
-  Shaam-e-ashoor se ye soyi nahi hai ab tak
-  Mai to roya hoo ye royi bhi nahi hai ab tak
-  Tum maarlo mujhko haye par meri phuphi ko durre na lagao
+  Shaam-e-Aashur se ye soyi nahiṅ hai ab tak
+  Main to roya huṅ ye royi bhi nahiṅ hai ab tak
+  Tum maar lo mujh ko haye par meri phuphi ko durre na lagaao
 
   6
-  Raaste bhar ye tadapte rahe pani ke liye
-  Tum ko maloom nahi kab se hai pyase bache
-  Bacho ko dikha kar is tarha zameen par pani na bahao
+  Raaste bhar ye tarapte rahe paani ke liye
+  Tum ko maalum nahiṅ kab se haiṅ pyaase bachche
+  Bachchoṅ ko dikha kar is tarah zamiṅ par paani na bahaao
 
   7
-  Aaj bat ti hai wahan naam pe zainab ke rida
-  Kal takallum wahan bemaar mera kehta raha
-  Ye aale nabi hai haye tum aise na inko be-parda phirao
+  Aaj bat ti hai wahaaṅ naam pe Zainab ke rida
+  Kal Takallum wahaaṅ bimaar mera kehta raha
+  Ye Aal-e-Nabi haiṅ haye tum aise na in ko beparda phiraao
 # source_id: nohayonline:b2601bc40aa2fe67fcc7
 # source_url: https://www.nohayonline.com/details_content.php?id=330
 # raw_sha256: 5eb6e48dcca008d9763483684265bf93e5073439c778fe45a0129881ae8ba50e
@@ -54,40 +55,40 @@ romanLyrics: |-
 # source_url: https://www.ziyaraat.net/api/noha/1531
 # raw_sha256: 93315aab825a6e25c2f1dec404130577812a81535ba5674ef624d009a2a38770
 ---
-شام والوں نہ نہ ستائو
-کہتاتھا مہاری غربت پہ ہماری بس کر نہ رلائو
+شام والوں نہ ستاؤ
+کہتا تھا مہاری غربت پہ ہماری بس کر نہ رلاؤ
 
 ۱
-سر چچا کا میرے اس واسطے گرجاتا ہے
-انکوبہنوں کا کھلا سر جو نظر آتا ہے
-غیور کے سر کو للہ نہ لوگوں نیزے پہ اُٹھائو
+سر چچا کا میرے اس واسطے گر جاتا ہے
+ان کو بہنوں کا کھلا سر جو نظر آتا ہے
+غیور کے سر کو للہ نہ لوگوں نیزے پہ اُٹھاؤ
 
 ۲
 کیا کیا نہ ستم ڈھائے ہیں ہم پر تم نے
-حد یہ ہے چھین لی تطہیرکی چادر تم نے
-اب تم وہی چادر نیزے پہ اُٹھاکر ہم کو نہ دکھائو
+حد یہ ہے چھین لی تطہیر کی چادر تم نے
+اب تم وہی چادر نیزے پہ اُٹھا کر ہم کو نہ دکھاؤ
 
 ۳
 ہم اُلِل امر ہیں شاید یہ نہیں تم کو خبر
-ہم اگر چاہیں تو برسیںابھی تم پر پتھر
-مجبور سمجھ کر ہائے تم آلِ نبی پر پتھر نہ گرائو
+ہم اگر چاہیں تو برسیں ابھی تم پر پتھر
+مجبور سمجھ کر ہائے تم آلِ نبی پر پتھر نہ گراؤ
 
 ۴
 کیسے نیزے پہ اُٹھایا گیا سر اصغر کا
 کیسے پامال کیا ابنِ حسن کا لاشہ
-یہ ظلم کے قصے مت سامنے جاکے مائوں کو سنائو
+یہ ظلم کے قصے مت سامنے جا کے ماؤں کو سناؤ
 
 ۵
 شامِ عاشور سے یہ سوئی نہیں ہے اب تک
-میں تو رویاہوں یہ روئی بھی نہیں ہے اب تک
-تم مارلو مجھ کو ہائے پر میری پھپی کو درے نہ لگائو
+میں تو رویا ہوں یہ روئی بھی نہیں ہے اب تک
+تم مار لو مجھ کو ہائے پر میری پھپھی کو دُرّے نہ لگاؤ
 
 ۶
-راستے بھر یہ ٹرپتے رہے پانی کے لئے
-تم کو معلوم نہیںکب سے ہیں پیاسے بچے
-بچوں کو دیکھاکر اس طرح زمیں پر پانی نہ بہائو
+راستے بھر یہ تڑپتے رہے پانی کے لئے
+تم کو معلوم نہیں کب سے ہیں پیاسے بچے
+بچوں کو دکھا کر اس طرح زمیں پر پانی نہ بہاؤ
 
 ۷
 آج بٹتی ہے وہاں نام پہ زینب کے ردا
 کل تکلم وہاں بیمار میرا کہتا رہا
-یہ آلِ نبی ہیں ہائے تم ایسے نہ ان کو بے پردہ پھرائو
+یہ آلِ نبی ہیں ہائے تم ایسے نہ ان کو بے پردہ پھراؤ

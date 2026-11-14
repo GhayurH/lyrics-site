@@ -6,69 +6,70 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Bilal Kazmi"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shaam waalon se ye zainab ne kaha ro ro kar
-  Mai mohamed ki nawasi hoo na cheeno chadar
+  Shaam waloṅ se ye Zainab ne kaha ro ro kar
+  Main Muhammad ki nawaasi huṅ na chhino chaadar
 
   1
-  Abhi kuch dayr mein aayenge najaf se baba
-  Sar khule jaaungi kis tarha mai pesh e hyder
+  Abhi kuch der mein aayeṅge Najaf se Baaba
+  Sar khule jaauṅgi kis tarah main pesh-e-Haider
 
   2
-  Taaziyano ki saza mujhpe badha do lekin
-  Mere bhai ke kate sar ko na maaro pathar
+  Taaziyaanoṅ ki saza mujh pe barhaa do lekin
+  Mere bhaai ke kate sar ko na maaro pathar
 
   3
-  Ek bemaar ko kab khaak pe neend aati hai
-  Zaalimon mere bathije ka na cheeno bistar
+  Ek bimaar ko kab khaak pe nind aati hai
+  Zaalimoṅ mere bhatije ka na chhino bistar
 
   4
-  Kaun ab mujhse dilayega tumhe ye bunde
-  Shimr kehta tha sakina ko dikha kar gauhar
+  Kaun ab mujh se dilaayega tumheṅ ye bunde
+  Shimr kehta tha Sakina ko dikha kar gauhar
 
   5
-  Kal to suraj na mere paas e adab mein nikla
-  Aaj har soo tamashayi mai hoo be-chadar
+  Kal to suraj na mere paas-e-adab mein nikla
+  Aaj har su tamaashaai main huṅ bechaadar
 
   6
-  Ye hai mamta ki nishani na jalao isko
-  Khelta tha isi gehware mein mera agshar
+  Ye hai mamta ki nishaani na jalaao is ko
+  Khelta tha isi gahwaare mein mera Asghar
 
   7
-  Ye to allah se waada hai jo khamosh hoo mai
-  Warna ay zaalimon mai bhi hoo ali ki dukhtar
+  Ye to Allah se waada hai jo khaamosh huṅ main
+  Warna ae zaalimoṅ main bhi huṅ Ali ki dukhtar
 
   8
-  Baith kar padti hai zindan mein namazein wo bilal
-  Tod di yun ghame abbas ne zainab ki kamar
+  Baith kar parhti hai zindaṅ mein namaazeṅ wo Bilal
+  Tor di yuṅ Gham-e-Abbas ne Zainab ki kamar
 # source_id: nohayonline:65b23eaf069e8184ac00
 # source_url: https://www.nohayonline.com/details_content.php?id=2636
 # raw_sha256: f5d9b9318790322f5680e3f8a347f8c534acbee29e5fe381ebee3380dd0ba260
 ---
 شام والوں سے یہ زینب نے کہا رو رو کر
-میں محمد کی نواسی ہوں‌ نہ چھینو چادر
+میں محمد کی نواسی ہوں نہ چھینو چادر
 
 ۱
-ابھی کچھ دیر میں آیینگے نجف سے بابا
-سر کھلے جاؤں گی کس طرح میں پیش حیدر
+ابھی کچھ دیر میں آئیں گے نجف سے بابا
+سر کھلے جاؤں گی کس طرح میں پیشِ حیدر
 
 ۲
-تبزیانوں کی سزا مجھ پہ بڑھا دو لیکن
-میرے بالوں کے کٹے سر کو نہ مارو پتھر
+تازیانوں کی سزا مجھ پہ بڑھا دو لیکن
+میرے بھائی کے کٹے سر کو نہ مارو پتھر
 
 ۳
 ایک بیمار کو کب خاک پہ نیند آتی ہے
 ظالموں میرے بھتیجے کا نہ چھینو بستر
 
 ۴
-کون‌ اب مجھ سے دلاے گا تمہیں یہ بوندیں
+کون اب مجھ سے دلائے گا تمہیں یہ بُندے
 شمر کہتا تھا سکینہ کو دکھا کر گوہر
 
 ۵
-کل تو سورج نہ میرے پاس ادب میں نکلا
+کل تو سورج نہ میرے پاسِ ادب میں نکلا
 آج ہر سو تماشائی میں ہوں بے چادر
 
 ۶
