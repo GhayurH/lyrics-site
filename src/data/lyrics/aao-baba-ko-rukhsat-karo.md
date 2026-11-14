@@ -87,6 +87,9 @@ romanLyrics: |-
   Jab janaza utha, ghar meiṅ kohraam tha
   Ro ke Abbas ne bhaiyoṅ se kaha
 
+# additional_source_id: nohawriteups:d97d7aa71ec589ebfbc2
+# additional_source_url: https://www.nohawriteups.org/21-ramzan-noha-2023-aao-baba-ko-rukhsat-karo-syed-raza-abbas-zaidi-lyrics/
+# additional_raw_sha256: 77dc6dc6b402ebe8a14f0e8f6fec451c927fd60687d3f3b94a65c76774857e61
 ---
 
 بیٹیاں تھیں، جنازہ تھا، احساس تھا

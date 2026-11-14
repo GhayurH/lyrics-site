@@ -66,6 +66,9 @@ romanLyrics: |-
 # source_id: ziyaraat:a09ac6c2b92cc04ff217
 # source_url: https://www.ziyaraat.net/api/noha/2456
 # raw_sha256: 1469383691fbafcf21b1ee7282452df799a65551e9df4bb79712ca9ab4eb4236
+# additional_source_id: nohawriteups:6a061263b0256e36117b
+# additional_source_url: https://www.nohawriteups.org/abbas-teri-behno/
+# additional_raw_sha256: 1ed795c5b1458ce34e2f16e3dad84972052f771f9a4c9498e202519cbf7df131
 ---
 
 

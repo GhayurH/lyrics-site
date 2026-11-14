@@ -35,6 +35,9 @@ romanLyrics: |-
 # source_id: nohayonline:b286da9a03add19aaf07
 # source_url: https://www.nohayonline.com/details_content.php?id=3
 # raw_sha256: 6998ec74ad2f7c4218cf7d81012b27880df73d94140bd24d182ab54b8e9e9611
+# additional_source_id: nohawriteups:851084d9fde4bf1a578a
+# additional_source_url: https://www.nohawriteups.org/abbas-ka-jab-zikr-e-wafa-karti-thi-sughra/
+# additional_raw_sha256: a4d16c62b9722d517d9866e7200b92b1d70378f2d3de23c768c10cc638de4921
 ---
 
 عباس کا جب ذکر وفا کرتی تھیں صغرا

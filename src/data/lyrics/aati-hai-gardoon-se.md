@@ -70,6 +70,9 @@ romanLyrics: |-
 # source_id: ziyaraat:624d61e4ef20609f42a6
 # source_url: https://www.ziyaraat.net/api/noha/292
 # raw_sha256: 404bac4b7c48ba720c58ae23f60cf06023e866db4aeb884efdeb5e0621c4ca80
+# additional_source_id: nohawriteups:f4c5ef4d4b1ea73c0e12
+# additional_source_url: https://www.nohawriteups.org/aati-hai-gardoon-se-ye-payham-sada/
+# additional_raw_sha256: 3f02d64b9fdd08d3cdfb331e1aefa022da3c4020fea8fe038dfd7cf443124fcf
 ---
 
 آتی ہے گردوں سے یہ پیہم صدا
