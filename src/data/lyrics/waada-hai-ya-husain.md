@@ -6,109 +6,118 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zinda hai hussain
+  Zinda hai Husain
   Sab ne jaana sab ne maana
-  Tu ek hi hai bas ek hi hai maula ek hi hai
-  Hussain hussain hussain
+  Tu ek hi hai bas ek hi hai Maula ek hi hai
+  Husain Husain Husain
 
   1
   Zinda tha tu ab bhi zinda hai
-  Zinda rahega tu maula hamesha
-  Waada hai waada hai imam hussain
-  Zinda rahega tera naam hussain
+  Zinda rahe ga tu Maula hamesha
+  Waada hai waada hai Imam Husain
+  Zinda rahe ga tera naam Husain
 
   2
-  Tu ruka nahi tu jhuka nahi
+  Tu ruka nahiṅ tu jhuka nahiṅ
   Kaha jo tu ne wo kar ke dikhaya
   Ghar luta diya sar kata diya
   Zulm ke aage na sar ko jhukaya
-  Ooncha rahega naam aisa kiya hai kaam
-  Karte hai khaas o aam
-  Tum pe laakhon salaam
-  Hoga labon pe subho shaam hussain
+  Uṅcha rahe ga naam aisa kiya hai kaam
+  Karte haiṅ khaas o aam
+  Tum pe laakhoṅ salaam
+  Ho ga laboṅ pe subh shaam Husain
+  Zinda rahe ga tera naam Husain
 
   3
-  Tujhse jo bhi takraye thay
-  Ho gaye wo dozakh ke hawale
-  Jhuk gaye tujh ko jhukane waale
-  Mit gaye tujh ko mitane waale
-  Us taraf jhoothe makkaar
-  Is taraf sayyed sardar
+  Tujh se jo bhi takraaye the
+  Ho gaye wo dozakh ke hawaale
+  Jhuk gaye tujh ko jhukaane wale
+  Mit gaye tujh ko mitaane wale
+  Us taraf jhuthe makkaar
+  Is taraf Sayyid sardaar
   Zulm udhar aur jabr udhar
-  Sayyed ter sabr idhar
-  Udhar thay naiza barchi waale
-  Idhar thay deen bachane waale
+  Sayyid ter sabr idhar
+  Udhar the neze barchhi wale
+  Idhar the din bachaane wale
   Saari duniya ek taraf
-  Aur ek taraf mera maula hussain
-  Tujhpe khuda ka hai salaam hussain
+  Aur ek taraf mera Maula Husain
+  Tujh pe Khuda ka hai salaam Husain
+  Zinda rahe ga tera naam Husain
 
   4
-  Ishq e man hussain jaane man hussain
-  Dil mein dhadakta hai naam tumhara
+  Ishq-e-man Husain jaan-e-man Husain
+  Dil mein dharakta hai naam tumhaara
   Hai teri qasam jab talak hai hum
-  Goonjega har soo ek hi naara
-  Sab ne ye maana hai tera zamana hai
-  Har dil deewana hai parcham lehrana hai
-  Jis pe likha ho tera naam hussain
+  Guṅje ga har su ek hi naara
+  Sab ne ye maana hai tera zamaana hai
+  Har dil diwaana hai parcham lehraana hai
+  Jis pe likha ho tera naam Husain
+  Zinda rahe ga tera naam Husain
 
   5
-  Apne bacchon ko shaahe karbala
-  Jaayenge de kar hum yehi wirsa
-  Yun sajate hai ghazi ka alam
-  Aise bichate hai farsh aza ka
-  Ye behne betiyan teri saydaniya
-  Bacche ho ya jawan saare ho nauhakhwan
-  Teri nishaniyan ho aam hussain
+  Apne bachchoṅ ko Shaah-e-Karbala
+  Jaayeṅ ge de kar hum yehi wirsa
+  Yuṅ sajaate hai Ghaazi ka alam
+  Aise bichhaate haiṅ farsh-e-aza ka
+  Ye behneṅ betiyaṅ teri Sayyidaaniyaṅ
+  Bachche ho ya jawaaṅ saare ho nauha khwaaṅ
+  Teri nishaaniyaṅ ho aam Husain
+  Zinda rahe ga tera naam Husain
 
   6
-  Farshe gham tera dil se gham tera
-  Waada hai ahle aza karte rahenge
-  Thaam ke alam yun hi har qadam
-  Kaale libason waale badte rahenge
-  Boodhe bacche jawan hai saare ek zaban
-  Dekhega ye jahan hai tera jalwa
-  Badta rahega gaam gaam hussain
+  Farsh-e-gham tera dil se gham tera
+  Waada hai ahl-e-aza karte raheṅ ge
+  Thaam ke alam yuṅ hi har qadam
+  Kaale libaasoṅ wale barhte raheṅ ge
+  Burhe bachche jawaaṅ hai saare ek zabaaṅ
+  Dekhe ga ye jahaaṅ hai tera jalwa
+  Barhta rahe gaam gaam Husain
+  Zinda rahe ga tera naam Husain
 
   7
-  Matam o sajda jo sang hai maula
-  Ye tere ishq ka rang hai maula
-  Hairat se saara jahan dang hai maula
-  Aur tera dushman tang hai maula
-  Kaisa liya hai inteqam hussain
+  Maatam o sajda jo sang hai Maula
+  Ye tere ishq ka rang hai Maula
+  Hairat se saara jahaaṅ dang hai Maula
+  Aur tera dushman tang hai Maula
+  Kaisa liya hai inteqaam Husain
+  Zinda rahe ga tera naam Husain
 
   8
-  Aandhiyon mein bhi barishon mein bhi
-  Hum ne kiya hai tera matam maula
+  Aandhiyoṅ mein bhi baarishoṅ mein bhi
+  Hum ne kiya hai tera maatam Maula
   Fatwagar uthe kitne shar uthe
-  Hum ne manaya hai muharram maula
+  Hum ne manaaya hai Muharram Maula
   Zehra ki hai dua deti hai hausla
   Hum ne to har jagah pursa tujhe diya
-  Rukte kahan hai ye ghulam hussain
+  Rukte kahaaṅ hai ye ghulaam Husain
+  Zinda rahe ga tera naam Husain
 
   9
-  Baad e karbala jab teri behen
-  Khafila le ke tera shaam gayi thi
-  Haath thay bandhe sar tha berida
-  Noke sina pe tujhe dekh rahi thi
-  Di thi ye buka qateel e nainawa
-  Waada hai ye mera dunya mein har jagah
-  Majlis ka hoga ehtemam hussain
+  Baad-e-Karbala jab teri behen
+  Qaafila le ke tera Shaam gayi thi
+  Haath the bandhe sar tha berida
+  Nok-e-sinaaṅ pe tujhe dekh rahi thi
+  Di thi ye buka Qatil-e-Nainawa
+  Waada hai ye mera duniya mein har jagah
+  Majlis ka ho ga ehtemaam Husain
+  Zinda rahe ga tera naam Husain
 
   10
-  Saara jahan ye bol raha hai
-  Raaz e aqeedat khol raha hai
-  Dil mein hamare dhadak raha hai
-  Dushman is se bhadak raha hai
-  Tera hi to raaj hai zameeno mein zamano mein
-  Tera hi tazkira hai dunya ki saari zabano mein
-  Charon jaanib karbobala ke baad se lekar aaj talak
-  Teri hi to jeet ka aelaan hai azaanon mein
-  Farhan o mazhar ki sada
-  Zinda rahega tera naam sada
+  Saara jahaaṅ ye bol raha hai
+  Raaz-e-aqidat khol raha hai
+  Dil mein hamaare dharak raha hai
+  Dushman is se bharak raha hai
+  Tera hi to raaj hai zaminoṅ mein zamaanoṅ mein
+  Tera hi tazkira hai duniya ki saari zabaanoṅ mein
+  Chaaroṅ jaanib Karbobala ke baad se le kar aaj talak
+  Teri hi to jit ka aelaan hai azaanoṅ mein
+  Farhan o Mazhar ki sada
+  Zinda rahe ga tera naam sada
 # source_id: nohayonline:50aa36a59ab6080bd069
 # source_url: https://www.nohayonline.com/details_content.php?id=3677
 # raw_sha256: 91de77c0e40193463f326127a79387d4a697cda1b8d7d8418976bc20e9c35b2f
@@ -128,18 +137,19 @@ romanLyrics: |-
 تو رکا نہیں تو جھکا نہیں
 کہا جو تو نے وہ کر کے دکھایا
 گھر لٹا دیا سر کٹا دیا
-ظلم کے آ گے نہ سر کو جھکایا
+ظلم کے آگے نہ سر کو جھکایا
 اونچا رہے گا نام ایسا کیا ہے کام
 کرتے ہیں خاص و عام
 تم پہ لاکھوں سلام
 ہو گا لبوں پہ صبح شام حسین
+زندہ رہے گا تیرا نام حسین
 
 ۳
-تجھ سے جو بھی ٹکراے تھے
-ہو گےء وہ دوزق کے حوالے
-جھک گےء تجھ کو جھکانے والے
-مٹ گےء تجھ کو مٹانے والے
-اس طرف جھوٹے مکار
+تجھ سے جو بھی ٹکرائے تھے
+ہو گئے وہ دوزخ کے حوالے
+جھک گئے تجھ کو جھکانے والے
+مٹ گئے تجھ کو مٹانے والے
+اُس طرف جھوٹے مکار
 اس طرف سید سردار
 ظلم ادھر اور جبر ادھر
 سید تر صبر ادھر
@@ -148,6 +158,7 @@ romanLyrics: |-
 ساری دنیا ایک طرف
 اور ایک طرف میرا مولا حسین
 تجھ پہ خدا کا ہے سلام حسین
+زندہ رہے گا تیرا نام حسین
 
 ۴
 عشق من حسین جان من حسین
@@ -157,15 +168,17 @@ romanLyrics: |-
 سب نے یہ مانا ہے تیرا زمانہ ہے
 ہر دل دیوانا ہے پرچم لہرانا ہے
 جس پہ لکھا ہو تیرا نام حسین
+زندہ رہے گا تیرا نام حسین
 
 ۵
 اپنے بچوں کو شاہ کربلا
-جاییں گے دے کر ہم یہی ورثہ
+جائیں گے دے کر ہم یہی ورثہ
 یوں سجاتے ہے غازی کا علم
 ایسے بچھاتے ہیں فرش عزا کا
 یہ بہنیں بیٹیاں تیری سیدانیاں
-بچے ہو یہ جواں سارے ہو نوحہ خواں
+بچے ہو یا جواں سارے ہو نوحہ خواں
 تیری نشانیاں ہو عام حسین
+زندہ رہے گا تیرا نام حسین
 
 ۶
 فرش غم تیرا دل سے غم تیرا
@@ -175,6 +188,7 @@ romanLyrics: |-
 بوڑھے بچے جواں ہے سارے ایک زباں
 دیکھے گا یہ جہاں ہے تیرا جلوہ
 بڑھتا رہے گام گام حسین
+زندہ رہے گا تیرا نام حسین
 
 ۷
 ماتم و سجدہ جو سنگ ہے مولا
@@ -182,33 +196,36 @@ romanLyrics: |-
 حیرت سے سارا جہاں دنگ ہے مولا
 اور تیرا دشمن تنگ ہے مولا
 کیسا لیا ہے انتقام حسین
+زندہ رہے گا تیرا نام حسین
 
 ۸
 آندھیوں میں بھی بارشوں میں بھی
-ہم‌ نے کیا ہے تیرا ماتم مولا
-فتوہ گر اٹھے کتنے شر اٹھے
-ہم‌ نے منایا ہے محرم مولا
+ہم نے کیا ہے تیرا ماتم مولا
+فتویٰ گر اٹھے کتنے شر اٹھے
+ہم نے منایا ہے محرم مولا
 زہرا کی ہے دعا دیتی ہے حوصلہ
 ہم نے تو ہر جگہ پرسہ تجھے دیا
 رکتے کہاں ہے یہ غلام حسین
+زندہ رہے گا تیرا نام حسین
 
 ۹
 بعد کربلا جب تیری بہن
-قافلہ لے کے تیرا شام گیء تھی
+قافلہ لے کے تیرا شام گئی تھی
 ہاتھ تھے بندھے سر تھا بے ردا
 نوک سناں پہ تجھے دیکھ رہی تھی
 دی تھی یہ بکا قتیل نینوا
 وعدہ ہے یہ میرا دنیا میں ہر جگہ
 مجلس کا ہوگا اہتمام حسین
+زندہ رہے گا تیرا نام حسین
 
 ۱۰
 سارا جہاں یہ بول رہا ہے
 راز عقیدت کھول رہا ہے
 دل میں ہمارے دھڑک رہا ہے
 دشمن اس سے بھڑک رہا ہے
-تیرا ہی تو راج زمینوں میں زمانوں میں
+تیرا ہی تو راج ہے زمینوں میں زمانوں میں
 تیرا ہی تذکرہ ہے دنیا کی ساری زبانوں میں
-چاروں جانب کربوبلا کے بعد سے لے کر تلک
+چاروں جانب کربوبلا کے بعد سے لے کر آج تلک
 تیری ہی تو جیت کا اعلان ہے اذانوں میں
 فرحان و مظہر کی صدا
 زندہ رہے گا تیرا نام سدا

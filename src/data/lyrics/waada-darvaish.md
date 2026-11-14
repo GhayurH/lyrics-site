@@ -6,63 +6,64 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ya fatema zehra
-  Kiya hai waada jo zehra se wo nibhana hai
+  Ya Fatima Zehra
+  Kiya hai waada jo Zehra se wo nibhaana hai
   Ye jaan jaaye to jaaye ye ghar jale to jale
 
   1
-  Hum apne bacchon ko lekar chalenge sholon par
-  Zamana aag ke maatam se ab jale to jale
+  Hum apne bachchoṅ ko le kar chaleṅ ge sholoṅ par
+  Zamaana aag ke maatam se ab jale to jale
 
   2
-  In aansuon ki khareed'daar hai hussain ki maa
-  Hamare rone pe dunya agar hase to hase
+  In aansuoṅ ki kharidaar hai Husain ki maaṅ
+  Hamaare rone pe duniya agar haṅse to haṅse
 
   3
-  Juloos ruk nahi sakta kisi bhi kheemat par
-  Hamari saanson ka chaahe safar ruke to ruke
+  Julus ruk nahiṅ sakta kisi bhi qimat par
+  Hamaari saaṅsoṅ ka chaahe safar ruke to ruke
 
   4
-  Misaal hurr ki hai mujood har bashar ke liye
-  Wo hurmala ke khabeele mein ab rahe to rahe
+  Misaal Hur ki hai maujud har bashar ke liye
+  Wo Hurmala ke qabile mein ab rahe to rahe
 
   5
-  Kisi yazeed ke aage wo jhuk nahi sakta
-  Hussainiyat ki baqa mein ye sar kate to kate
+  Kisi Yazid ke aage wo jhuk nahiṅ sakta
+  Husainiyat ki baqa mein ye sar kate to kate
 
   6
-  Kahin na jayenge maula ko chod kar ansaar
-  Charagh e qaima jale to jale bujhe to bujhe
+  Kahiṅ na jaayeṅ ge Maula ko chhor kar Ansaar
+  Charaagh-e-khaime jale to jale bujhe to bujhe
 
   7
-  Lahad pe zahra ki ummul baneen ki thi dua
-  Tumhara ghar na lute mera ghar lute to lute
+  Lahad pe Zahra ki Ummul Banin ki thi dua
+  Tumhaara ghar na lute mera ghar lute to lute
 
   8
-  Dua ye karti thi zainab hussain bach jaaye
-  Gale pe beton ke mere churi phire to phire
+  Dua ye karti thi Zainab Husain bach jaaye
+  Gale pe betoṅ ke mere chhuri phire to phire
 
   9
-  Karenge sajda ye aansu hussain ke dar par
-  Kisi ko mir takallum bura lage to lage
+  Kareṅ ge sajda ye aansu Husain ke dar par
+  Kisi ko Mir Takallum bura lage to lage
 # source_id: nohayonline:dacb5500aeeefba71ebb
 # source_url: https://www.nohayonline.com/details_content.php?id=3280
 # raw_sha256: b19b51550863e83bd2b00e8190e0590e09e4100c8104ad0bc54cb8ba6a6589b2
 ---
 یا فاطمہ زہرا
 کیا ہے وعدہ جو زہرا سے وہ نبھانا ہے
-یہ جان جاے تو جاے یہ گھر جلے تو جلے
+یہ جان جائے تو جائے یہ گھر جلے تو جلے
 
 ۱
-ہم‌ اپنے بچوں کو لے کر چلیں گے شعلوں پر
+ہم اپنے بچوں کو لے کر چلیں گے شعلوں پر
 زمانہ آگ کے ماتم سے اب جلے تو جلے
 
 ۲
-ان آنسوؤں کی خرید دار ہے حسین کی ماں
+ان آنسوؤں کی خریدار ہے حسین کی ماں
 ہمارے رونے پہ دنیا اگر ہنسے تو ہنسے
 
 ۳
@@ -78,7 +79,7 @@ romanLyrics: |-
 حسینیت کی بقا میں یہ سر کٹے تو کٹے
 
 ۶
-کہیں نہ جاییں گے مولا کو چھوڑ کر انصار
+کہیں نہ جائیں گے مولا کو چھوڑ کر انصار
 چراغ خیمے جلے تو جلے بجھے تو بجھے
 
 ۷
@@ -90,5 +91,5 @@ romanLyrics: |-
 گلے پہ بیٹوں کے میرے چھری پھرے تو پھرے
 
 ۹
-کریں گے سجدہ یہ آنسوں حسین کے در پر
+کریں گے سجدہ یہ آنسو حسین کے در پر
 کسی کو میر تکلم برا لگے تو لگے
