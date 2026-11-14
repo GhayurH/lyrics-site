@@ -5,57 +5,58 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Tha ye abbas ka nauha jab mere haath kate
-  Thi tasavvur mein sakina jab mere haath kate
+  Tha ye Abbas ka noha jab mere haath kate
+  Thi tasavvur mein Sakina jab mere haath kate
 
   1
-  Jis ghadi haath qalam hogaye mere aaqa
-  Maine mashkeeze ko daaton se sambhala maula
-  Mashk ko teer ne cheda jab mere haath kate
+  Jis ghari haath qalam ho gaye mere aaqa
+  Main ne mashkize ko daantoṅ se sambhaala Maula
+  Mashk ko tir ne chheda jab mere haath kate
 
   2
-  Zulm jo mujhpe huwe hai wo sunaun kaise
-  Ek shaqi gurze sitam maar ke sar par mere
-  Mujhko ghode se giraya jab mere haath kate
+  Zulm jo mujh pe hue haiṅ wo sunaauṅ kaise
+  Ek shaqi gurz-e-sitam maar ke sar par mere
+  Mujhko ghore se giraaya jab mere haath kate
 
   3
-  Kuch dikhayi nahi deta tha mujhe aankhon se
-  Zakmi karte thay layeen lafzon ki talwaron se
-  Ashqiyan dete thay taana jab mere haath kate
+  Kuchh dikhaai nahiṅ deta tha mujhe aankhoṅ se
+  Zakhmi karte the laiṅ lafzoṅ ki talwaaroṅ se
+  Ashqiya dete the taana jab mere haath kate
 
   4
   Dekh kar mujhko ye kehne lage ran mein aada
-  Lelo abbas e dilawar se ali ka badla
+  Le lo Abbas-e-Dilaawar se Ali ka badla
   Sab ne mil kar kiya hamla jab mere haath kate
 
   5
-  Koi naize se koi bhaale se maara mujhko
-  Naam shehzadiyon ka leke rulaaya mujhko
-  Yaad aaye mujhe baba jab mere haath kate
+  Koi neze se koi bhaale se maara mujhko
+  Naam shehzaadiyoṅ ka le ke rulaaya mujhko
+  Yaad aaye mujhe Baba jab mere haath kate
 
   6
-  Beh gaya mashke sakina se jo saara pani
-  Mujhko rulwane lage aur sitam ke baani
-  Maine dekha suye qaima jab mere haath kate
+  Beh gaya mashk-e-Sakina se jo saara paani
+  Mujhko rulwaane lage aur sitam ke baani
+  Main ne dekha su-e-khaima jab mere haath kate
 
   7
-  Lashkare shaam ka har zulm o sitam seh seh ke
-  Sar ke bal jalti zameen par mai gira ghode se
-  Na mila mujhko sahara jab mere haath kate
+  Lashkar-e-Shaam ka har zulm o sitam seh seh ke
+  Sar ke bal jalti zamiṅ par main gira ghore se
+  Na mila mujhko sahaara jab mere haath kate
 
   8
-  Barchiyon se jo hua pyaas mein zakhmi seena
-  Mujhko shamsheerein lagate thay musalsal aada
-  Mai bikharta gaya maula jab mere haath kate
+  Barchhiyoṅ se jo hua pyaas mein zakhmi sina
+  Mujhko shamshireṅ lagaate the musalsal aada
+  Main bikharta gaya Maula jab mere haath kate
 
   9
-  Arsh nauhe ki sada arsh talak jayegi
-  Gham zada hoyenge jannat mein bohat sabir bhi
-  Sun ke royenge ye nauha jab mere haath kate
+  Arsh nohe ki sada arsh talak jaayegi
+  Ghamzada hoeṅge jannat mein bahut Sabir bhi
+  Sun ke roeṅge ye noha jab mere haath kate
 # source_id: nohayonline:aec3aeaa01d9dae2df06
 # source_url: https://www.nohayonline.com/details_content.php?id=3267
 # raw_sha256: 6c257ab4591be2fc6cb6afa9275bb520ae8e8a68f9fa689b2aa2cde13b4059ba
@@ -64,13 +65,13 @@ romanLyrics: |-
 تھی تصور میں سکینہ جب میرے ہاتھ کٹے
 
 ۱
-جس گھڑی ہاتھ قلم ہو گےء میرے آقا
+جس گھڑی ہاتھ قلم ہو گئے میرے آقا
 میں نے مشکیزے کو دانتوں سے سنبھالا مولا
 مشک کو تیر نے چھیدا جب میرے ہاتھ کٹے
 
 ۲
 ظلم جو مجھ پہ ہوئے ہیں وہ سناؤں کیسے
-ایک شقی گزرے ستم مار کے سر پر میرے
+ایک شقی گرزِ ستم مار کے سر پر میرے
 مجھکو گھوڑے سے گرایا جب میرے ہاتھ کٹے
 
 ۳
@@ -84,14 +85,14 @@ romanLyrics: |-
 سب نے مل کر کیا حملہ جب میرے ہاتھ کٹے
 
 ۵
-کوی نیزے سے کوئی بھالے سے مارا مجھکو
+کوئی نیزے سے کوئی بھالے سے مارا مجھکو
 نام شہزادیوں کا لے کے رلایا مجھکو
-یاد آے مجھے بابا جب میرے ہاتھ کٹے
+یاد آئے مجھے بابا جب میرے ہاتھ کٹے
 
 ۶
 بہہ گیا مشک سکینہ سے جو سارا پانی
 مجھکو رلوانے لگے اور ستم کے بانی
-میں نے دیکھا سوے خیمہ جب میرے ہاتھ کٹے
+میں نے دیکھا سوئے خیمہ جب میرے ہاتھ کٹے
 
 ۷
 لشکر شام کا ہر ظلم و ستم سہہ سہہ کے
@@ -106,4 +107,4 @@ romanLyrics: |-
 ۹
 عرش نوحے کی صدا عرش تلک جائے گی
 غم زدہ ہویینگے جنت میں بہت صابر بھی
-سن کے رویینگے یہ نوحہ جب میرے ہاتھ کٹے
+سن کے روئیں گے یہ نوحہ جب میرے ہاتھ کٹے

@@ -1,53 +1,61 @@
 ---
 title: "تھے بین سکینہ کے میں مر جاؤں گی بابا"
-alternateTitle: "Thay Bain Sakina Ke"
+alternateTitle: "The Bain Sakina Ke"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
-aliases: []
+aliases: ["Thay Bain Sakina Ke"]
 published: false
 romanLyrics: |-
-  Thay bain sakina ke mai mar jaungi baba
-  Mai aap ki furqat mein na jee paungi baba
-  Baba baba zindan ka dar khulwado
+  The bain Sakina ke main mar jaauṅ gi Baba
+  Main aap ki furqat mein na ji paauṅ gi Baba
+  Baba Baba zindaan ka dar khulwa do
 
   1
-  Jeene nahi dega mujhe zindan ka andhera
-  Le jaaiye jald aa ke yahan se mujhe warna
-  Ghur ghut ke mai zindan mein mar jaungi baba
+  Jine nahiṅ dega mujhe zindaaṅ ka andhera
+  Le jaaiye jald aa ke yahaṅ se mujhe warna
+  Ghut ghut ke main zindaaṅ mein mar jaauṅ gi Baba
+  Baba Baba zindaan ka dar khulwa do
 
   2
-  Umeed rehaai ki dilaata nahi mujhko
-  Mai poochti hoo koi batata nahi mujhko
-  Kab laut ke mai apne watan jaungi baba
+  Ummid rihaai ki dilaata nahiṅ mujhko
+  Main puchhti huṅ koi bataata nahiṅ mujhko
+  Kab laut ke main apne watan jaauṅ gi Baba
+  Baba Baba zindaan ka dar khulwa do
 
   3
-  Na paas phupi hongi mere aap na bhaiya
-  Kehte hai adoo qaid karenge mujhe tanha
-  Tanhaai mein mai aur bhi ghabraungi baba
+  Na paas phuphi hoṅ gi mere aap na bhaiya
+  Kehte haiṅ adu qaid kareṅge mujhe tanha
+  Tanhaai mein main aur bhi ghabraauṅ gi Baba
+  Baba Baba zindaan ka dar khulwa do
 
   4
-  Bejurm mujhe shime ne maare hai tamache
-  Dikhlaungi jo neel hai ruqsaar pe mere
-  Mai jab bhi kabhi aap ke paas aaungi baba
+  Be jurm mujhe Shimr ne maare hai tamaanche
+  Dikhlaauṅ gi jo nil hai rukhsaar pe mere
+  Main jab bhi kabhi aap ke paas aauṅ gi Baba
+  Baba Baba zindaan ka dar khulwa do
 
   5
-  Aajaiye sunkar meri faryaad khudara
-  Ek baar lita lijiye seene pe dubara
-  Phir soungi aisi ke na uth paungi baba
+  Aa jaaiye sun kar meri faryaad khudaara
+  Ik baar lita lijiye sine pe dubaara
+  Phir souṅ gi aisi ke na uth paauṅ gi Baba
+  Baba Baba zindaan ka dar khulwa do
 
   6
-  Furqat meri is waqt rulaati nahi lekin
-  Is waqt meri yaadein sataati nahi lekin
-  Mar jaungi to aap ko yaad aaungi baba
+  Furqat meri is waqt rulaati nahiṅ lekin
+  Is waqt meri yaadeṅ sataati nahiṅ lekin
+  Mar jaauṅ gi to aap ko yaad aauṅ gi Baba
+  Baba Baba zindaan ka dar khulwa do
 
   7
-  Gohar meri shehzadi ko ek pal na mila chain
-  Jis waqt qaza aayi labon par thay yehi bain
-  Ghar jaungi mai apne watan jaungi baba
+  Gohar meri shehzaadi ko ik pal na mila chain
+  Jis waqt qaza aai laboṅ par the yehi bain
+  Ghar jaauṅ gi main apne watan jaauṅ gi Baba
+  Baba Baba zindaan ka dar khulwa do
 # source_id: nohayonline:025db5d3478c3ebf2155
 # source_url: https://www.nohayonline.com/details_content.php?id=1516
 # raw_sha256: 8fe3e23731d469b9d5372148216c1f6dd84ee3820ba7035e5cf4a9fd11a9279c
@@ -58,35 +66,42 @@ romanLyrics: |-
 
 ۱
 جینے نہیں دے گا مجھے زنداں کا اندھیرا
-لے جانیےء جلد آ کے یہاں سے مجھے ورنہ
+لے جائیے جلد آ کے یہاں سے مجھے ورنہ
 گھٹ گھٹ کے میں زنداں میں مر جاؤں گی بابا
+بابا بابا زندان کا در کھلوا دو
 
 ۲
 امید رہائی کی دلاتا نہیں مجھکو
 میں پوچھتی ہوں کوئی بتاتا نہیں مجھکو
 کب لوٹ کے میں اپنے وطن جاؤں گی بابا
+بابا بابا زندان کا در کھلوا دو
 
 ۳
-نہ پاس پھپھی ہونگی میرے آپ نہ بھیا
+نہ پاس پھپھی ہوں گی میرے آپ نہ بھیا
 کہتے ہیں عدو قید کریں گے مجھے تنہا
 تنہائی میں میں اور بھی گھبراؤں گی بابا
+بابا بابا زندان کا در کھلوا دو
 
 ۴
 بے جرم مجھے شمر نے مارے ہے طمانچے
 دکھلاؤں گی جو نیل ہے رخسار پہ میرے
-میں جب بھی کبھی آپ کے پاس آؤں بابا
+میں جب بھی کبھی آپ کے پاس آؤں گی بابا
+بابا بابا زندان کا در کھلوا دو
 
 ۵
-آجایےء سن کر میری فریاد خدارا
-اک بار لٹا لیجئے سینے پہ دوبارہ
-پھر سوونگی ایسی کہ نہ اٹھ پاؤں گی بابا
+آ جائیے سن کر میری فریاد خدارا
+اک بار لٹا لیجیے سینے پہ دوبارہ
+پھر سوؤں گی ایسی کہ نہ اٹھ پاؤں گی بابا
+بابا بابا زندان کا در کھلوا دو
 
 ۶
 فرقت میری اس وقت رلاتی نہیں لیکن
 اس وقت میری یادیں ستاتی نہیں لیکن
 مر جاؤں گی تو آپ کو یاد آؤں گی بابا
+بابا بابا زندان کا در کھلوا دو
 
 ۷
 گوہر میری شہزادی کو اک پل نہ ملا چین
-جس وقت فضا آی لبوں پر تھے یہی بین
-گھر جاؤں میں اپنے وطن جاؤں گی بابا
+جس وقت قضا آئی لبوں پر تھے یہی بین
+گھر جاؤں گی میں اپنے وطن جاؤں گی بابا
+بابا بابا زندان کا در کھلوا دو

@@ -6,61 +6,64 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Izhaar"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Thaame hai alam khoon mein dooba hai alamdaar
-  Narghe mein layeeno ke akela hai alamdaar
+  Thaame hai alam khun mein duba hai alamdaar
+  Narghe mein lainoṅ ke akela hai alamdaar
+  Thaame hai alam khun mein duba hai alamdaar
 
   1
-  Ab kaise sakina ko mai pahuncha'unga pani
-  Bas baat yehi sochke rota hai alamdaar
+  Ab kaise Sakina ko main pahunchaauṅ ga paani
+  Bas baat yehi soch ke rota hai alamdaar
 
   2
-  Dunya meri andher hai ay bhai tere baad
-  Tu hi meri aankhon ka ujala hai alamdaar
+  Dunya meri andher hai ae bhaai tere baad
+  Tu hi meri aankhoṅ ka ujaala hai alamdaar
 
   3
-  Kya hogaya sab tera badan teeron se chalni
-  Kyu khoon mein bhara tera pharera hai alamdaar
+  Kya ho gaya sab tera badan tiroṅ se chhalni
+  Kiuṅ khuṅ mein bhara tera pharera hai alamdaar
 
   4
-  Thi sheh ki sada koi usay de de sahara
-  Be-dast hai rehwaar se girta hai alamdaar
+  Thi Sheh ki sada koi use de de sahaara
+  Be dast hai rahwaar se girta hai alamdaar
 
   5
-  Ek shor qayamat ka tha sab ahle haram mein
-  Jab tera alam qaime mein aaya hai alamdaar
+  Ik shor qayaamat ka tha sab ahl-e-haram mein
+  Jab tera alam khaime mein aaya hai alamdaar
 
   6
-  Dil thaam ke roti hi rahi raahe sitam mein
-  Zainab ko bahot yaad tu aaya hai alamdaar
+  Dil thaam ke roti hi rahi raah-e-sitam mein
+  Zainab ko bahut yaad tu aaya hai alamdaar
 
   7
-  Jab jab bhi lage baali sakina ko tamache
-  Har baar sakina ne pukara hai alamdaar
+  Jab jab bhi lage baali Sakina ko tamaanche
+  Har baar Sakina ne pukaara hai alamdaar
 
   8
-  Zindan mein darr lagta hai kehti thi sakina
-  Jab bhi ye sada aayi hai tadpa hai alamdaar
+  Zindaan mein dar lagta hai kehti thi Sakina
+  Jab bhi ye sada aai hai tarpa hai alamdaar
 
   9
-  Izhaar wohi hashr ke din shadman hoga
-  Jiske bhi labon par tera nauha hai alamdaar
+  Izhaar wohi hashr ke din shaadmaaṅ hoga
+  Jis ke bhi laboṅ par tera noha hai alamdaar
 # source_id: nohayonline:aa95dfce99cb4e2e62af
 # source_url: https://www.nohayonline.com/details_content.php?id=2641
 # raw_sha256: 0d3a7f4e305f2888ffd3a523ed1924c533a0243e9cb124323e772916faaa81d4
 ---
 تھامے ہے علم خون میں ڈوبا ہے علمدار
 نرغے میں لعینوں کے اکیلا ہے علمدار
+تھامے ہے علم خون میں ڈوبا ہے علمدار
 
 ۱
 اب کیسے سکینہ کو میں پہنچاؤں گا پانی
-بس بات یہی سوچکے روتا ہے علمدار
+بس بات یہی سوچ کے روتا ہے علمدار
 
 ۲
-دنیا میری اندھیر ہے اے بھای تیرے بعد
+دنیا میری اندھیر ہے اے بھائی تیرے بعد
 تو ہی میری آنکھوں کا اجالا ہے علمدار
 
 ۳
@@ -85,7 +88,7 @@ romanLyrics: |-
 
 ۸
 زندان میں ڈر لگتا ہے کہتی تھی سکینہ
-جب بھی یہ صدا آی ہے تڑپا ہے علمدار
+جب بھی یہ صدا آئی ہے تڑپا ہے علمدار
 
 ۹
 اظہار وہی حشر کے دن شادماں ہوگا

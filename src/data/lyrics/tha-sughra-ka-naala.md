@@ -6,68 +6,69 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Suroor Lakhnavi"
+reciter: "Anj. Faroghe Islam"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Tha sughra ka naala bohat din huwe
-  Koi bhi na lauta bohat din huwe
+  Tha Sughra ka naala bahut din hue
+  Koi bhi na lauta bahut din hue
 
   1
   Kabhi ye mera ghar bhi aabaad tha
-  Sabhi kuch tha acha bohat din huwe
+  Sabhi kuchh tha achchha bahut din hue
 
   2
-  Behalti thi asghar ko behla ke mai
-  Jhulaati thi jhoola bohat din huwe
+  Behalti thi Asghar ko behla ke main
+  Jhulaati thi jhula bahut din hue
 
   3
   Na koi khabar lene aaya meri
-  Na khat koi bheja bohat din huwe
+  Na khat koi bheja bahut din hue
 
   4
   Na awaaz koi na aahat koi
-  Hai ghar jaise sehra bohat din huwe
+  Hai ghar jaise sehra bahut din hue
 
   5
   Juda ho gaye chaand suraj mere
-  Tha ghar mein ujaala bohat din huwe
+  Tha ghar mein ujaala bahut din hue
 
   6
   Tasavvur mein to sab mere paas hai
-  Magar mai hoon tanha bohut din huwe
+  Magar main huṅ tanha bahut din hue
 
   7
-  Na taroon se ghar mein hui roshni
-  Na suraj hi nikla bohat din huwe
+  Na taaroṅ se ghar mein hui roshni
+  Na suraj hi nikla bahut din hue
 
   8
-  Sataati hai mujhko ye tanhaiyan
-  Mujhe sab ne choda bohat din huwe
+  Sataati hai mujhko ye tanhaaiyaṅ
+  Mujhe sab ne chhora bahut din hue
 
   9
-  Ye sab jaante hai mai beemar hoon
-  Magar kaun aaya bohat din huwe
+  Ye sab jaante haiṅ main bimaar huṅ
+  Magar kaun aaya bahut din hue
 
   10
-  Andhere hamara muqqadar bane
-  Na dekha savera bohat din huwe
+  Andhere hamaara muqaddar bane
+  Na dekha savera bahut din hue
 
   11
-  Judaai ke gham mein lahoo ban gaya
-  In aankhon ka darya bohat din huwe
+  Judaai ke gham mein lahu ban gaya
+  In aankhoṅ ka darya bahut din hue
 
   12
-  Kabhi to sab aayenge is aas mein
-  Abhi tak hoon zinda bohat din huwe
+  Kabhi to sab aayeṅge is aas mein
+  Abhi tak huṅ zinda bahut din hue
 
   13
-  Khuda jaane waale salamat rahe
-  Safar mein hai kunba bohat din huwe
+  Khuda jaane waale salaamat rahe
+  Safar mein hai kunba bahut din hue
 
   14
-  Suroor uska khat aaj bhi yaad hai
-  Bas itna likha tha bohut din huwe
+  Suroor us ka khat aaj bhi yaad hai
+  Bas itna likha tha bahut din hue
 # source_id: nohayonline:e8ee1794ca0beb0e4d3e
 # source_url: https://www.nohayonline.com/details_content.php?id=3739
 # raw_sha256: daf5a79bb186f943fe7553c2745acef5a1dd0b21d8d8813f2e3e8648d75158e7
@@ -88,11 +89,11 @@ romanLyrics: |-
 نہ خط کوئی بھیجا بہت دن ہوئے
 
 ۴
-نہ آواز کوی نہ آہٹ کوئی
+نہ آواز کوئی نہ آہٹ کوئی
 ہے گھر جیسے صحرا بہت دن ہوئے
 
 ۵
-جدا ہو گےء چاند سورج میرے
+جدا ہو گئے چاند سورج میرے
 تھا گھر میں اجالا بہت دن ہوئے
 
 ۶
@@ -120,7 +121,7 @@ romanLyrics: |-
 ان آنکھوں کا دریا بہت دن ہوئے
 
 ۱۲
-کبھی تو سب آییں گے اس آس میں
+کبھی تو سب آئیں گے اس آس میں
 ابھی تک ہوں زندہ بہت دن ہوئے
 
 ۱۳
