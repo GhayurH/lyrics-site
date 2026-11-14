@@ -5,45 +5,46 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Mir Bober Ali"
 poet: "Mir Bober Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sare bazaar zainab ka guzar sajjad rota hai
-  Phata jaata hai sadme se jigar sajjad rota hai
+  Sar-e-baazaar Zainab ka guzar Sajjad rota hai
+  Phata jaata hai sadme se jigar Sajjad rota hai
 
   1
-  Sitamgar legaye jab shaam aur koofe ki galiyon se
-  Aseeron par rahi sab ki nazar sajjad rota hai
+  Sitamgar le gaye jab Shaam aur Kufe ki galiyoṅ se
+  Asiroṅ par rahi sab ki nazar Sajjad rota hai
 
   2
-  Wo shiddat dhoop ki jalti zameen aur paon may chaale
-  Sitam hai bekason par is khadar sajjad rota hai
+  Wo shiddat dhup ki jalti zamiṅ aur paaoṅ mein chhaale
+  Sitam hai bekasoṅ par is qadar Sajjad rota hai
 
   3
-  Kabhi suraj ne dekha hi nahi tha jiske chehre ko
-  Wo shehzadi ka beparda safar sajjad rota hai
+  Kabhi suraj ne dekha hi nahiṅ tha jis ke chehre ko
+  Wo shahzaadi ka beparda safar Sajjad rota hai
 
   4
   Sakina kehti thi bhaiya ghuta jaata hai dam mera
-  Tadapti hai wo gham se bepidar sajjad rota hai
+  Tarapti hai wo gham se bepidar Sajjad rota hai
 
   5
-  Rasan basta phuphi hai aur gala mera hai rassi may
-  Koi aakar hamari le khabar sajjad rota hai
+  Rasan basta phuphi hai aur gala mera hai rassi mein
+  Koi aa kar hamaari le khabar Sajjad rota hai
 
   6
-  Kisi soorat na tikta tha sare abbas naize par
-  Yehi haalat thi bas shaam-o-sehar sajjad rota hai
+  Kisi surat na tikta tha sar-e-Abbas naize par
+  Yehi haalat thi bas shaam o sehar Sajjad rota hai
 
   7
-  Ghazab hai saat sau kursi nasheen darbar zaalim ka
-  Ke jisme aale ahmed nange sar sajjad rota hai
+  Ghazab hai saat sau kursi nashiṅ darbaar zaalim ka
+  Ke jis mein Aal-e-Ahmad nange sar Sajjad rota hai
 
   8
-  Bober jab majlise shabbir hoti hai kisi ghar may
-  Koi roye ya na roye magar sajjad rota hai
+  Baabar jab majlis-e-Shabbir hoti hai kisi ghar mein
+  Koi roye ya na roye magar Sajjad rota hai
 # source_id: nohayonline:64522cbd0ddaad6a840e
 # source_url: https://www.nohayonline.com/details_content.php?id=806
 # raw_sha256: 2dbc21cc705d448a017a8349acdae961eab4dfbfcd3c85fdd655a05d1e7b3feb

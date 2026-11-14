@@ -3174,13 +3174,13 @@ src/data/lyrics/sajde-may-tere-sher.md,standalone_lyrics,imported,nohayonline,pe
 src/data/lyrics/sajde-mein-taygh.md,standalone_lyrics,imported,nohayonline,pending,partial_review,reviewed,partial_review,verified,reviewed,,,"Need audio/print: s2 ""خطرے"" vs Roman ""qatre""; s3 ""شبیر"" vs ""Shabbar""; s5 ""دیں"" vs ""deen""; s6 ""نہ روئے"" vs ""نہ رو""; s7 pronunciation of ""بیت الشرف""."
 src/data/lyrics/sajjad-de-okhiyan-safran-di-rayi-fizza-sain-gawah-aye.md,standalone_lyrics,imported,tajpoint,pending,partial_review,reviewed,reviewed,not_applicable,reviewed,2026-11-09-manual-urdu,f5206210ba8e391f4bcfab05fcb73253f8f2be6f,"Need Punjabi audio/poster review: s1 ""Okhiyan"" vs Shahmukhi ""اکھیاں"", ""Rayi"" pronunciation; s3 ""Kisay Moor ... ban Kulsoom gayi""; s5 ""Aate Maa"" pronunciation. Add Punjabi language classification support; current schema labels Shahmukhi as Urdu."
 src/data/lyrics/sajjad-ka-beta.md,standalone_lyrics,imported,nohayonline,pending,partial_review,reviewed,partial_review,verified,reviewed,,,"Need audio/print: s4 Urdu ""جلدی مسندیں"" vs Roman ""jali masnadein""; s6 ""ان شام کے گلیوں میں""; s7 ""نہ بھولوں گا میں حرم رو دیے""; s9 ""یہ کہنے لگی بہن آ گئی"" speaker/wording."
-src/data/lyrics/sajjad-ko-be-maut.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/sajjad-ko-be-maut.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
 src/data/lyrics/sajjad-ko-bemaut-ye-gham-maar-gaya-hai.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
 src/data/lyrics/sajjad-mai-zainab-hun-mere-sar-pe-rida-koi-nai-bazaare-jafa.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
-src/data/lyrics/sajjad-pe-wo-kaisi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/sajjad-rota-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/sajjad-se-poocho.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/sajjad-tere-gham.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/sajjad-pe-wo-kaisi.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
+src/data/lyrics/sajjad-rota-hai.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
+src/data/lyrics/sajjad-se-poocho.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
+src/data/lyrics/sajjad-tere-gham.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,,,"Need audio/print: s3 ""صاحبِ اعزار"" vs Roman ""aazaar"", ""عابد نہ کیسے روے"" and ""زخمی ہے کان جس کے ہمشیر""; s5 ""زندہ شکن جری"". Confirm exact words before aligning disputed readings."
 src/data/lyrics/sajjad-tujhe-khoon.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/sajjad-utho-bali-sakina.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/sajjad-ye-farmate.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,

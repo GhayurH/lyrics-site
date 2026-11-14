@@ -5,60 +5,68 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hai shaam ka bazaar aur abid e bemaar
-  Tareekh may gar shaam ka bazaar na hota
-  Shabbir ka beta kabhi bemaar na hota
+  Hai Shaam ka bazaar aur Abid bimaar
+
+  Taarikh mein gar Shaam ka bazaar na hota
+  Shabbir ka beta kabhi bimaar na hota
+  Sajjad ko be maut ye gham maar gaya hai
+
+  Beparda haram saath hai aur Shaam chala hai
   Sajjad ko be maut ye gham maar gaya hai
 
   1
-  Be parda haraam saath hai aur shaam chala hai
-  Sajjad ko be maut ye gham maar gaya hai
   Zainab ko koi dekh na paaye isi khaatir
-  Naize pe sar e sibte nabi bol raha hai
+  Naize pe sar-e-Sibt-e-Nabi bol raha hai
 
   2
-  Zainab na tamasha bane dekhe mujhe sab log
-  Ye soch ke sar ghazi ka naize se gira hai
+  Zainab na tamaasha bane dekhe mujhe sab log
+  Ye soch ke sar Ghaazi ka naize se gira hai
 
   3
-  Abid ko dawa aur na ghiza dete hai
-  Sote hai to zanjeer hila dete hai
-  Ay shimr e layeen kis pe tu barsata hai kode
-  Abid to badi dayr se behosh pada hai
+  Abid ko dawa aur na ghiza dete haiṅ
+  Sote haiṅ to zanjir hila dete haiṅ
+
+  Ae Shimr laiṅ kis pe tu barsaata hai kore
+  Abid to bari der se behosh para hai
 
   4
-  Ay shimr sakina ko na tu maar tamache
-  Ehsaas yateemi ki badi sakht saza hai
+  Ae Shimr Sakina ko na tu maar tamaanche
+  Ehsaas yatimi hi bari sakht saza hai
 
   5
-  Na tauq hai wazni na naqahat ka sabab hai
-  Sar sayyed e sajjad ka ghairat se jhuka hai
-  Fizza ki himayat may khinchi taygh hazaro
+  Na tauq hai wazni na naqaahat ka sabab hai
+  Sar Sayyid Sajjad ka ghairat se jhuka hai
 
   6
-  Zainab ki himayat may bas ek qaidi khara hai
-  Phir shimr ne napaak zaban se ye bataya
-  Ye laila ye kulsoom ye zainab be rida hai
+  Fizza ki himaayat mein khinchi tegh hazaaroṅ
+  Zainab ki himaayat mein bas ek qaidi khara hai
 
   7
-  Farhan ye zainab ke masayab ka asar hai
-  Chaalis baras maula mera rota raha hai
+  Phir Shimr ne naapaak zabaaṅ se ye bataaya
+  Ye Laila ye Kulsum ye Zainab berida hai
+
+  8
+  Farhan ye Zainab ke masaaib ka asar hai
+  Chaalis baras Maula mera rota raha hai
 # source_id: nohayonline:a7419656a672a1e9b02d
 # source_url: https://www.nohayonline.com/details_content.php?id=2380
 # raw_sha256: 1215b7f96bea63c71b7e24ea9b49251b4e3ee261d378d323d4751b2fe315b6a3
 ---
 ہے شام کا بازار اور عابد بیمار
+
 تاریخ میں گر شام کا بازار نہ ہوتا
 شبیر کا بیٹا کبھی بیمار نہ ہوتا
 سجاد کو بے موت یہ غم مار گیا ہے
 
-۱
 بے پردہ حرم ساتھ ہے اور شام چلا ہے
 سجاد کو بے موت یہ غم مار گیا ہے
+
+۱
 زینب کو کوئی دیکھ نہ پائے اسی خاطر
 نیزے پہ سر سبط نبی بول رہا ہے
 
@@ -69,6 +77,7 @@ romanLyrics: |-
 ۳
 عابد کو دوا اور نہ غذا دیتے ہیں
 سوتے ہیں تو زنجیر ہلا دیتے ہیں
+
 اے شمر لعیں کس پہ تو برساتا ہے کوڑے
 عابد تو بڑی دیر سے بیہوش پڑا ہے
 
@@ -79,13 +88,15 @@ romanLyrics: |-
 ۵
 نہ طوق ہے وزنی نہ نقاہت کا سبب ہے
 سر سیّد سجاد کا غیرت سے جھکا ہے
-فضہ کی حمایت میں کھنچی تیغ ہزاروں
 
 ۶
+فضہ کی حمایت میں کھنچی تیغ ہزاروں
 زینب کی حمایت میں بس اک قیدی کھڑا ہے
+
+۷
 پھر شمر نے ناپاک زباں سے یہ بتایا
 یہ لیلیٰ یہ کلثوم یہ زینب بے ردا ہے
 
-۷
+۸
 فرحان یہ زینب کے مصایب کا اثر ہے
 چالیس برس مولا میرا روتا رہا ہے
