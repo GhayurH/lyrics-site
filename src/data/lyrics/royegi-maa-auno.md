@@ -1,78 +1,79 @@
 ---
-title: "ہاے جب اہلِ حرم قید سے یثرب پہنچے"
+title: "ہائے جب اہلِ حرم قید سے یثرب پہنچے"
 alternateTitle: "Royegi Maa Auno"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye jab ahl e haram qaid se yasrab pahunche
-  Ladkhadate huwe zainab ne qadam ghar mein rakhe
+  Haye jab ahl-e-haram qaid se Yasrab pahunche
+  Larkharaate hue Zainab ne qadam ghar mein rakhe
+  Maaṅ ne jab Aun o Muhammad ke musalle dekhe
+  Sabr phir tut gaya boli ye Zainab ro ke
 
   1
-  Maa ne jab aun o mohamed ke musalle dekhe
-  Sabr phir toot gaya boli ye zainab ro ke
-  Aaj jee bhar ke tumhe royegi maa aun o mohamed
-  Ay mere dil ka sukoon ay meri jaan aun o mohamed
+  Aaj ji bhar ke tumheṅ royegi maaṅ Aun o Muhammad
+  Ae mere dil ka sukuṅ ae meri jaan Aun o Muhammad
 
   2
-  Jab se bhai pe tumhe sadqa kiya zainab ne
-  Phir tumhara kabhi pursa na liya zainab ne
-  Sabr ab hoga nahi mujhse yahan aun o mohamed
+  Jab se bhai pe tumheṅ sadqa kiya Zainab ne
+  Phir tumhaara kabhi pursa na liya Zainab ne
+  Sabr ab hoga nahiṅ mujh se yahaaṅ Aun o Muhammad
 
   3
-  Khud ko us waqt sambhala tha badi mushkil se
-  Kaise bheja tha tumhe poocho ye mere dil se
-  Tum thay is maa ke liye dono jahan aun o mohamed
+  Khud ko us waqt sambhaala tha bari mushkil se
+  Kaise bheja tha tumheṅ puchho ye mere dil se
+  Tum the is maaṅ ke liye donoṅ jahaaṅ Aun o Muhammad
 
   4
-  Saath jin bachon ke in galiyon mein tum khelte thay
-  Hai kahan aun o mohamed wo ye jab poochenge
-  Kya batayegi ye maa tum ho kahan aun o mohamed
+  Saath jin bachchoṅ ke in galiyoṅ mein tum khelte the
+  Hai kahaaṅ Aun o Muhammad wo ye jab puchheṅge
+  Kya bataayegi ye maaṅ tum ho kahaaṅ Aun o Muhammad
 
   5
-  Maa ke mamta ka bada maan rakha hai tum ne
-  Nehr par jaa ke bhi pani na piya hai tum ne
-  Kar diya qatl tumhe tishna dahan aun o mohamed
+  Maaṅ ke mamta ka bara maan rakha hai tum ne
+  Nehr par jaa ke bhi paani na piya hai tum ne
+  Kar diya qatl tumheṅ tishna dahaan Aun o Muhammad
 
   6
-  Bhai ke laash pe jaate huwe dekha mai ne
-  Haye qasim ki tarha dasht mein tum bikhre thay
-  Mai tumhare wo badan bhooli kahan aun o mohamed
+  Bhai ke laash pe jaate hue dekha main ne
+  Haye Qasim ki tarah dasht mein tum bikhre the
+  Main tumhaare wo badan bhuli kahaaṅ Aun o Muhammad
 
   7
-  Bas ye mai jaanti hoo kaise wahan sabr kiya
-  Dekh kar naizon pe sar jis ghadi laila ne kaha
-  Tum kahan aur kahan nok e sina aun o mohamed
+  Bas ye main jaanti huṅ kaise wahaaṅ sabr kiya
+  Dekh kar nezoṅ pe sar jis ghari Laila ne kaha
+  Tum kahaaṅ aur kahaaṅ nok-e-sinaaṅ Aun o Muhammad
 
   8
-  Jaise gustaakhi wo karte thay sar e asghar se
-  Shaam ke bachon ne khela hai tumhare sar se
-  Thokare maari gayi tum ko wahan aun o mohamed
+  Jaise gustaakhi wo karte the sar-e-Asghar se
+  Shaam ke bachchoṅ ne khela hai tumhaare sar se
+  Thokareṅ maari gayiṅ tum ko wahaaṅ Aun o Muhammad
 
   9
-  Haye zeeshan o raza boli ye zainab ro kar
-  Do hi bete thay jo qurban kiye bhai par
-  Kehne waala na raha ab koi maa aun o mohamed
+  Haye Zeeshan o Raza boli ye Zainab ro kar
+  Do hi bete the jo qurbaan kiye bhai par
+  Kehne waala na raha ab koi maaṅ Aun o Muhammad
 # source_id: nohayonline:0e7e43481f03f11199eb
 # source_url: https://www.nohayonline.com/details_content.php?id=1822
 # raw_sha256: cbce91d75a9a2b45ca30f7e5c9dba3cabe1f801f390792e995b96e5b10497529
 ---
-ہاے جب اہلِ حرم قید سے یثرب پہنچے
+ہائے جب اہلِ حرم قید سے یثرب پہنچے
 لڑکھڑاتے ہوئے زینب نے قدم گھر میں رکھے
-
-۱
 ماں نے جب عون و محمد کے مصلے دیکھے
 صبر پھر ٹوٹ گیا بولی یہ زینب رو کے
-آج جی بھر کے تمہیں روے گی ماں عون و محمد
+
+۱
+آج جی بھر کے تمہیں روئے گی ماں عون و محمد
 اے میرے دل کا سکوں اے میری جان عون و محمد
 
 ۲
-جب سے بھای پہ تمہیں صدقہ کیا زینب نے
+جب سے بھائی پہ تمہیں صدقہ کیا زینب نے
 پھر تمہارا کبھی پرسہ نہ لیا زینب نے
 صبر اب ہوگا نہیں مجھ سے یہاں عون و محمد
 
@@ -82,9 +83,9 @@ romanLyrics: |-
 تم تھے اس ماں کے لئے دونوں جہاں عون و محمد
 
 ۴
-ساتھ جن بچوں کے ان‌ گلیوں میں تم کھیلتے تھے
+ساتھ جن بچوں کے ان گلیوں میں تم کھیلتے تھے
 ہے کہاں عون و محمد وہ یہ جب پوچھیں گے
-کیا بتاے گی یہ ماں تم ہو کہاں عون و محمد
+کیا بتائے گی یہ ماں تم ہو کہاں عون و محمد
 
 ۵
 ماں کے مامتا کا بڑا مان رکھا ہے تم نے
@@ -92,21 +93,21 @@ romanLyrics: |-
 کر دیا قتل تمہیں تشنہ دہان عون و محمد
 
 ۶
-بھای کے لاش پہ جاتے ہوے دیکھا میں نے
-ہاے قاسم کی طرح دشت میں تم بکھرے تھے
+بھائی کے لاش پہ جاتے ہوئے دیکھا میں نے
+ہائے قاسم کی طرح دشت میں تم بکھرے تھے
 میں تمہارے وہ بدن بھولی کہاں عون و محمد
 
 ۷
 بس یہ میں جانتی ہوں کیسے وہاں صبر کیا
 دیکھ کر نیزوں پہ سر جس گھڑی لیلیٰ نے کہا
-تم نے کہاں اور کہاں نوک سناں عون و محمد
+تم نے کہاں اور کہاں نوکِ سناں عون و محمد
 
 ۸
-جیسے گستاخی وہ کرتے تھے سر اصغر سے
+جیسے گستاخی وہ کرتے تھے سرِ اصغر سے
 شام کے بچوں نے کھیلا ہے تمہارے سر سے
-ٹھوکریں ماری گیء تم کو وہاں عون و محمد
+ٹھوکریں ماری گئیں تم کو وہاں عون و محمد
 
 ۹
-ہاے زیشان و رضا بولی یہ زینب رو کر
-دو ہی بیٹے تھے جو قربان کیےء بھای پر
+ہائے زیشان و رضا بولی یہ زینب رو کر
+دو ہی بیٹے تھے جو قربان کیے بھائی پر
 کہنے والا نہ رہا اب کوئی ماں عون و محمد
