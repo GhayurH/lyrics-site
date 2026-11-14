@@ -6,47 +6,48 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shams Baltistani"
+reciter: "Mir Rehan Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Uthaye phir rahe hai aag qaimon ko jalaate hai
-  Sitamgar kuch saron ko nok e naiza par sajaate hai
-  Uthaye phir raha hai ek shaqi asghar ko naize par
-  Dikha kar zakhm chehre ke sakina kehti thi ro kar
-  Mere baba sakina phir na soyegi
-  Mujhe kuch dayr hi baba sulaalo zakhmi seene par
-  Mere baba sakina phir na soyegi
-  
+  Uthaaye phir rahe haiṅ aag khaimoṅ ko jalaate haiṅ
+  Sitamgar kuchh saroṅ ko nok-e-naiza par sajaate haiṅ
+  Uthaaye phir raha hai ik shaqi Asghar ko naize par
+  Dikha kar zakhm chehre ke Sakina kehti thi ro kar
+  Mere Baba Sakina phir na soye gi
+  Mujhe kuchh der hi Baba sula lo zakhmi sine par
+  Mere Baba Sakina phir na soye gi
+
   1
-  Musalsal jaagna hai shaam tak tujh par hi rona hai
-  Tumare baad mujhko shaam ke zindan may sona hai
-  Hai mere kaan zakhmi aur padhe hai neel chehre par
-  
+  Musalsal jaagna hai Shaam tak tujh par hi rona hai
+  Tumhaare baad mujh ko Shaam ke zindaaṅ mein sona hai
+  Haiṅ mere kaan zakhmi aur pare haiṅ nil chehre par
+
   2
-  Tumhare saath meri jaan nikal jaati to kya jaata
+  Tumhaare saath meri jaaṅ nikal jaati to kya jaata
   Mujhe bhi kaash tere saath hi dafna diya jaata
-  Layeen maarenge kal keh kar mujhe shabbir ki dukhtar
-  
+  Laiṅ maareṅ ge kal keh kar mujhe Shabbir ki dukhtar
+
   3
-  Sitam sab se bada baba teri beti pe tab hoga
-  Chacha abbas ki hoo laadli maloom jab hoga
-  Sitam mujh par karenge wo sar e abbas dikhla kar
-  
+  Sitam sab se bara Baba teri beti pe tab hoga
+  Chacha Abbas ki huṅ laadli maalum jab hoga
+  Sitam mujh par kareṅ ge wo sar-e-Abbas dikhla kar
+
   4
-  Ridayein chin gayi sar se qayamat phir bhi na aayi
-  Nahi abbas jaisa teri zainab ka koi bhai
-  Sirhane hai khadi tere phupi amma bhi be-chadar
-  
+  Ridaaeṅ chhin gayiṅ sar se qayaamat phir bhi na aayi
+  Nahiṅ Abbas jaisa teri Zainab ka koi bhai
+  Sirhaane hai khari tere phuphi Ammaṅ bhi bechaadar
+
   5
-  Saron ke saath naizon par ridayein bhi uthayenge
-  Hujoom e aam may hum ko barehna sar phirayenge
-  Chathon se aale ahmed par bhi wo barsayenge pathar
-  
+  Saroṅ ke saath naizoṅ par ridaaeṅ bhi uthaayeṅ ge
+  Hujum-e-aam mein ham ko barehna sar phiraayeṅ ge
+  Chhatoṅ se Aal-e-Ahmad par bhi wo barsaayeṅ ge patthar
+
   6
-  Fughan jiski buland hai shams wo bali sakina hai
-  Jo apne baap ki hai laadli taweez seena hai
-  Lipat kar laashe be-sar se yehi kehti thi ro ro kar
+  Fughaaṅ jis ki buland hai Shams wo baali Sakina hai
+  Jo apne baap ki hai laadli taawiz-e-sina hai
+  Lipat kar laash-e-be sar se yehi kehti thi ro ro kar
 # source_id: nohayonline:1264ebec81fe71512b4a
 # source_url: https://www.nohayonline.com/details_content.php?id=2024
 # raw_sha256: 7b401d66f3c414885c881c43449f59e62396599e6719fd4a6728505a86769341
@@ -85,6 +86,6 @@ romanLyrics: |-
 چھتوں سے آلِ احمد پر بھی وہ برسائیں گے پتھر
 
 ۶
-فغاں جسکی بلند ہے شمس وہ بالی سکینہ ہے
-جو اپنے باپ کی ہے لاڈلی تعویزِ سینہ ہے
+فغاں جس کی بلند ہے شمس وہ بالی سکینہ ہے
+جو اپنے باپ کی ہے لاڈلی تعویذِ سینہ ہے
 لپٹ کر لاشِ بے سر سے یہی کہتی تھی رو رو کر

@@ -6,68 +6,69 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Zeeshan Abidi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jab ahle haram ne shaam ke zindan se rehaai paayi
-  Sajjad tadap ke kehne lage jab sakina aayi
-  Tum kaise rahogi zindan mein ay baba ki sehdayi
-  Itna to bata do sughra ko kya jaa ke bataye bhai
-  
+  Jab ahl-e-haram ne Shaam ke zindaaṅ se rihaai paayi
+  Sajjad tarap ke kehne lage jab yaad Sakina aayi
+  Tum kaise raho gi zindaaṅ mein ae Baba ki shaidaai
+  Itna to bata do Sughra ko kya jaa ke bataaye bhai
+
   1
-  Suna jab naam sughra ka sada aayi suno bhaiya
-  Laga hai khoon jis par wo mere gohar dikha dena
-  Sakina reh gayi zindan mein bhai bata dena
-  
+  Suna jab naam Sughra ka, sada aayi suno bhaiya
+  Laga hai khun jis par wo mere gauhar dikha dena
+  Sakina reh gayi zindaan mein bhai bata dena
+
   2
-  Suno bhaiya shikayat hai mujhe in shaam waalon se
-  Kabhi durre lagaye hai kabhi khaincha hai baalon se
-  Tamache itne khaaye hai lahoo behta hai gaalon se
-  Bahot acha hua bhaiya watam mein reh gayi sughra
-  Kabhi wo shaam na aaye usay meri dua dena
-  
+  Suno bhaiya shikaayat hai mujhe in Shaam waaloṅ se
+  Kabhi durre lagaaye haiṅ kabhi khincha hai baaloṅ se
+  Tamaache itne khaaye haiṅ lahu behta hai gaaloṅ se
+  Bahut achchha hua bhaiya watan mein reh gayi Sughra
+  Kabhi wo Shaam na aaye use meri dua dena
+
   3
-  Hamein ahle sitam jab bhi sar e bazaar laate thay
-  Hamari bebasi ka wo tamasha yun dikhaate thay
-  Chacha ka sar giraane ke liye mujhko giraate thay
-  Chacha ke paas jaane par zameen se sar uthane par
-  Bahot maara layeeno ne ye sughra bata dena
-  
+  Hameṅ ahl-e-sitam jab bhi sar-e-baazaar laate the
+  Hamaari bebasi ka wo tamaasha yuṅ dikhaate the
+  Chacha ka sar giraane ke liye mujh ko giraate the
+  Chacha ke paas jaane par zamiṅ se sar uthaane par
+  Bahut maara lainoṅ ne ye Sughra ko bata dena
+
   4
-  Kahin dekhi nahi aisi mohabbat baap beti mein
-  Mujhe darbar mein maanga gaya jis dam kaneezi mein
-  Dilaasa mujhko ko dene aa gaya sar meri godhi mein
-  Mujhe haakim ne jab dekha ye keh kar shimr ko bheja
-  Chuda kar baap ka sar taaziyano ki saza dena
-  
+  Kahiṅ dekhi nahiṅ aisi mohabbat baap beti mein
+  Mujhe darbaar mein maanga gaya jis dam kanizi mein
+  Dilaasa mujh ko dene aa gaya sar meri godi mein
+  Mujhe haakim ne jab dekha ye keh kar Shimr ko bheja
+  Chhura kar baap ka sar taaziyaanoṅ ki saza dena
+
   5
-  Mujhe darbar mein baba se aise bhi milaaya tha
-  Sitamgar saamne khurme ka jab ek tasht laaya tha
-  Mai kitna royi thi jab tasht se kapda hataya tha
-  Wahan khurme nahi sar tha bata dena usay bhaiya
-  Wo roye to meri ghurbat ka usko waasta dena
-  
+  Mujhe darbaar mein Baba se aise bhi milaaya tha
+  Sitamgar saamne khurme ka jab ik tasht laaya tha
+  Main kitna royi thi jab tasht se kapra hataaya tha
+  Wahaaṅ khurme nahiṅ sar tha bata dena use bhaiya
+  Wo roye to miri ghurbat ka us ko waasta dena
+
   6
-  Koi beti na dekhe ran mein dekha mai ne jo manzar
-  Gayi laashon se takraate huwe baba ke laashe par
-  Kati ungli badan mein teer dekhe kat chuka tha sar
-  Nishan teeron ke ay bhaiya na dekhe fatema sughra
-  Pidar ka khoon bhara kurta watan jaa kar chupa dena
-  
+  Koi beti na dekhe ran mein dekha main ne jo manzar
+  Gayi laashoṅ se takraate hue Baba ke laashe par
+  Kati ungli badan mein tir dekhe kat chuka tha sar
+  Nishaaṅ tiroṅ ke ae bhaiya na dekhe Fatima Sughra
+  Pidar ka khuṅ bhara kurta watan jaa kar chhupa dena
+
   7
-  Sakina jaanti hai kaise dekha zakhm seene par
-  Usay kaise bataoge nahi aaye ali akbar
-  Behan mar jayegi bhai ke marne ki khabar sun kar
-  Bahot hassaas hai sughra galay se tum laga lena
-  Tera mai bhi to bhai hoo ye kehkar hausla dena
-  
+  Sakina jaanti hai kaise dekha zakhm sine par
+  Use kaise bataao ge nahiṅ aaye Ali Akbar
+  Behen mar jaaye gi bhai ke marne ki khabar sun kar
+  Bahut hassaas hai Sughra gale se tum laga lena
+  Tira main bhi to bhai huṅ ye keh kar hausla dena
+
   8
-  Chale abid to zeeshan o raza awaaz ye aayi
-  Watan jaate huwe karbala jaana mere bhai
-  Mere ammu se keh dena sakina mar gayi pyasi
-  Nahi pani ka gham haye chacha tum kyun nahi aaye
-  Andheri qaid mein ro ro ke maut aayi bata dena
+  Chale Abid to Zeeshan o Raza aawaaz ye aayi
+  Watan jaate hue jab Karbala jaana mire bhai
+  Mire ammu se keh dena Sakina mar gayi pyaasi
+  Nahiṅ paani ka gham haye Chacha tum kiuṅ nahiṅ aaye
+  Andheri qaid mein ghut ghut ke maut aayi bata dena
 # source_id: nohayonline:8a8779fe0489d8f151e1
 # source_url: https://www.nohayonline.com/details_content.php?id=1834
 # raw_sha256: 57807704e7d1d69503909e4cc0f7b0c090f52a882f631d3d4461cd8dfaf38238
@@ -90,46 +91,46 @@ romanLyrics: |-
 کبھی درے لگائے ہیں کبھی کھینچا ہے بالوں سے
 طمانچے اتنے کھائے ہیں لہو بہتا ہے گالوں سے
 بہت اچھا ہوا بھیا وطن میں رہ گئی صغرا
-کبھی وہ شام نا آئے اُسے میری دعا دینا
+کبھی وہ شام نہ آئے اُسے میری دعا دینا
 
 ۳
 ہمیں اہلِ ستم جب بھی سرِ بازار لاتے تھے
-ہماری بےبسی کا وہ تماشہ یوں دکھاتے تھے
-چچا کا سر گرانے کیلئے مجھکو گراتے تھے
+ہماری بے بسی کا وہ تماشہ یوں دکھاتے تھے
+چچا کا سر گرانے کے لئے مجھ کو گراتے تھے
 چچا کے پاس جانے پر زمیں سے سر اُٹھانے پر
-بہت مارا لعینوں نے یہ صغرا کو بتادینا
+بہت مارا لعینوں نے یہ صغرا کو بتا دینا
 
 ۴
 کہیں دیکھی نہیں ایسی محبت باپ بیٹی میں
 مجھے دربار میں مانگا گیا جس دم کنیزی میں
-دلاسہ مجھکو دینے آگیا سر میری گودی میں
-مجھے حاکم نے جب دیکھا یہ کہکر شمر کو بھیجا
+دلاسہ مجھ کو دینے آ گیا سر میری گودی میں
+مجھے حاکم نے جب دیکھا یہ کہہ کر شمر کو بھیجا
 چھڑا کر باپ کا سر تازیانوں کی سزا دینا
 
 ۵
 مجھے دربار میں بابا سے ایسے بھی ملایا تھا
-ستمگر سامنے خُرمے کاجب اک طشت لایا تھا
-میں کتنا روئی تھی جب طشت سےکپڑا ہٹایا تھا
-وہاں خرمے نہیں سر تھا بتادینا اُسے بھیا
-وہ روئے تو مری غربت کا اُسکو واسطہ دینا
+ستمگر سامنے خُرمے کا جب اک طشت لایا تھا
+میں کتنا روئی تھی جب طشت سے کپڑا ہٹایا تھا
+وہاں خرمے نہیں سر تھا بتا دینا اُسے بھیا
+وہ روئے تو مری غربت کا اُس کو واسطہ دینا
 
 ۶
 کوئی بیٹی نہ دیکھے رن میں دیکھا میں نے جو منظر
 گئی لاشوں سے ٹکراتے ہوئے بابا کے لاشے پر
 کٹی اُنگلی بدن میں تیر دیکھے کٹ چکا تھا سر
 نشاں تیروں کے اے بھیا نہ دیکھے فاطمہ صغرا
-پدر کا خوں بھرا کرتا وطن جاکر چھپادینا
+پدر کا خوں بھرا کرتا وطن جا کر چھپا دینا
 
 ۷
 سکینہ جانتی ہے کیسے دیکھا زخم سینے پر
-اُسے کیسے بتاؤگے نہیں آئے علی اکبر
-بہن مر جائیگی بھائی کے مرنے کی خبر سنکر
-بہت حساس ہے صغرا گلے سے تم لگالینا
-ترا میں بھی تو بھائی ہوں یہ کہکر حوصلہ دینا
+اُسے کیسے بتاؤ گے نہیں آئے علی اکبر
+بہن مر جائے گی بھائی کے مرنے کی خبر سن کر
+بہت حساس ہے صغرا گلے سے تم لگا لینا
+ترا میں بھی تو بھائی ہوں یہ کہہ کر حوصلہ دینا
 
 ۸
 چلے عابد تو ذیشان و رضا آواز یہ آئی
 وطن جاتے ہوئے جب کربلا جانا مرے بھائی
-مرے عمو سے کہدینا سکینہ مر گئی پیاسی
+مرے عمو سے کہہ دینا سکینہ مر گئی پیاسی
 نہیں پانی کا غم ہائے چچا تم کیوں نہیں آئے
-اندھیری قید میں گھٹ گھٹکے موت آئی بتادینا
+اندھیری قید میں گھٹ گھٹ کے موت آئی بتا دینا
