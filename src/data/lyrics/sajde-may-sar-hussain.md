@@ -1,36 +1,37 @@
 ---
 title: "سجدے میں سر حُسین کا تیروں کے درمیاں"
-alternateTitle: "Sajde May Sar Hussain"
+alternateTitle: "Sajde Mein Sar Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sajde may sar hussain ka teero ke darmiyan
-  Qaimon se aa raha tha ek shor al-amaan
+  Sajde mein sar Husain ka tiroṅ ke darmiyaaṅ
+  Khaimoṅ se aa raha tha ik shor al-amaaṅ
 
   1
-  Kaisa toofan aaya aale rasool par
-  Qaimon may keh rahi thi ro ro ke bibiyan
+  Kaisa tufaan aaya Aal-e-Rasul par
+  Khaimoṅ mein kah rahi thiṅ ro ro ke bibiyaaṅ
 
   2
-  Pani ko gaye ghazi aaye na laut kar
-  Bache bilak rahe thay le le ke hichkiyan
+  Paani ko gaye Ghaazi aaye na laut kar
+  Bachche bilak rahe the le le ke hichkiyaaṅ
 
   3
-  Nana teri ummat ke kuch log shaam may
-  Sar nange le ke aaye zahra ki betiyan
+  Naana teri ummat ke kuchh log Shaam mein
+  Sar nange le ke aaye Zahra ki betiyaaṅ
 
   4
-  Ek boond pani bhi na diya haye us ghadi
-  Asghar dikha raha tha sookhi hui zuban
+  Ek bund paani bhi na diya haaye us ghari
+  Asghar dikha raha tha sukhi hui zubaaṅ
 
   5
-  Qasim ka sehra haye pamaal hogaya
-  Bikhri padi thi rayth par phoolon ki pattiyan
+  Qasim ka sehra haaye paamaal ho gaya
+  Bikhri pari thiṅ ret par phuloṅ ki pattiyaaṅ
 # source_id: nohayonline:760016e2b445867938ed
 # source_url: https://www.nohayonline.com/details_content.php?id=614
 # raw_sha256: 266d3b94539721187b8e7a75ef14e5c057a0bd7976f4a8c9d775744dc372f302
@@ -52,7 +53,7 @@ romanLyrics: |-
 
 ۴
 ایک بوند پانی بھی نہ دیا ہائے اُس گھڑی
-اصغر دیکھا رہا تھا سوکھی ہوئی زباں
+اصغر دکھا رہا تھا سوکھی ہوئی زباں
 
 ۵
 قاسم کا سہرا ہائے پامال ہو گیا

@@ -1,86 +1,89 @@
 ---
-title: "سجدے میں تیرے شیر نے تلوار کھای ہے"
-alternateTitle: "Sajde May Tere Sher"
+title: "سجدے میں تیرے شیر نے تلوار کھائی ہے"
+alternateTitle: "Sajde Mein Tere Sher"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Yousuf Lakhnavi"
+reciter: "Faazil Lakhnavi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sajde may tere sher ne talwaar khaayi hai
-  
+  Sajde mein tere sher ne talwaar khaai hai
+
+  Haidar jahaaṅ se uthte haiṅ gham ki khudaai hai
+  Ye shor hai fiza mein Khuda ki duhaai hai
+
   1
-  Hyder jahan se uth'te hai gham ki khudaai hai
-  Ye shor hai fiza may khuda ki duhaai hai
-  Allah se ye kehti thi jannat may fatema
-  Bache mere yateem hue ay duhaai hai
-  
+  Allah se ye kahti thi jannat mein Fatima
+  Bachche mere yatim hue ae duhaai hai
+
   2
-  Aata nahi hai betiyon ko maut ka yaqeen
-  Zainab pukarti hai ke kya neend aayi hai
-  
+  Aata nahiṅ hai betiyoṅ ko maut ka yaqiṅ
+  Zainab pukaarti hai ke kya nind aai hai
+
   3
-  Abbas ka tadapna na zainab se poochiye
-  Kehta hai bachpana yehi pehli judaai hai
-  
+  Abbas ka tarapna na Zainab se puchhiye
+  Kahta hai bachpana yahi pahli judaai hai
+
   4
-  Boli hassan hussain se zainab shikast shikast
-  Sunti hoo mere baap ne talwaar khaayi hai
-  
+  Boli Hasan Husain se Zainab shikast shikast
+  Sunti huṅ mere baap ne talwaar khaai hai
+
   5
-  Afsos ibne muljim e maloon ki taygh ne
-  Kis tan ko malaal ki soorat dikhayi hai
-  
+  Afsos ibn-e-Muljim malun ki tegh ne
+  Kis tan ko malaal ki surat dikhaai hai
+
   6
-  Ekiswi ko uth gaya dunya ka baadshah
-  Mayyat hassan hussain ne kyun kar uthaai hai
-  
+  Ikiswiṅ ko uth gaya duniya se baadshaah
+  Mayyat Hasan Husain ne kiuṅkar uthaai hai
+
   7
-  Jibreel naala zan hai mohamed hai beqarar
-  Sab ambiya ne khaak saron par udaayi hai
-  
+  Jibril naala zan haiṅ Muhammad haiṅ beqaraar
+  Sab ambiya ne khaak saroṅ par urhaai hai
+
   8
-  Ay momino tumhara jo pehla imam tha
-  Usko layeen ne sajde may zarbat lagayi hai
-  
+  Ae mominoṅ tumhaara jo pahla imaam tha
+  Us ko laiṅ ne sajde mein zarbat lagaai hai
+
   9
-  Yusuf ka haal rehm ke kaabil hai al-madad
-  Maula e do jahan dam e mushkil kushayi hai
+  Yusuf ka haal rahm ke qaabil hai al-madad
+  Maula-e-do jahaaṅ dam-e-mushkil kushaai hai
 # source_id: nohayonline:c30318a06a2361ca55d2
 # source_url: https://www.nohayonline.com/details_content.php?id=1223
 # raw_sha256: a42454092e175156fe7b63d1b95f046878883a1ae5a1a6ba5566bbc75640bfe2
 ---
 
-سجدے میں تیرے شیر نے تلوار کھای ہے
+سجدے میں تیرے شیر نے تلوار کھائی ہے
 
-۱
 حیدر جہاں سے اٹھتے ہیں غم کی خدائی ہے
 یہ شور ہے فضا میں خدا کی دہائی ہے
+
+۱
 اللّٰہ سے یہ کہتی تھی جنت میں فاطمہ
-بچے میرے یتیم ہوے اے دہائی ہے
+بچے میرے یتیم ہوئے اے دہائی ہے
 
 ۲
 آتا نہیں ہے بیٹیوں کو موت کا یقیں
-زینب پکارتی ہے کہ کیا نیند آی ہے
+زینب پکارتی ہے کہ کیا نیند آئی ہے
 
 ۳
-عباس کا تڑپنا نہ زینب سے پوچھیےء
+عباس کا تڑپنا نہ زینب سے پوچھیے
 کہتا ہے بچپنا یہی پہلی جدائی ہے
 
 ۴
 بولی حسن حسین سے زینب شکست شکست
-سنتی ہوں میرے باپ نے تلوار کھای ہے
+سنتی ہوں میرے باپ نے تلوار کھائی ہے
 
 ۵
-افسوس ابنِ ملجم ملعوں کی تیغ نے
+افسوس ابنِ ملجم ملعون کی تیغ نے
 کس تن کو ملال کی صورت دکھائی ہے
 
 ۶
 اکیسویں کو اٹھ گیا دنیا سے بادشاہ
-میت حسن حسین نے کیونکر اٹھای ہے
+میت حسن حسین نے کیونکر اٹھائی ہے
 
 ۷
 جبریل نالہ زن ہیں محمد ہیں بیقرار
@@ -88,8 +91,8 @@ romanLyrics: |-
 
 ۸
 اے مومنوں تمہارا جو پہلا امام تھا
-اسکو لعیں نے سجدے میں ضربت لگائی ہے
+اس کو لعیں نے سجدے میں ضربت لگائی ہے
 
 ۹
 یوسف کا حال رحم کے قابل ہے المدد
-مولاے دو جہاں دم مشکل کشائی ہے
+مولائے دو جہاں دمِ مشکل کشائی ہے

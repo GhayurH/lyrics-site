@@ -1,54 +1,55 @@
 ---
-title: "سجدئہ امتیاز ہو جائے"
-alternateTitle: "Sajdaye Imtiyaz"
+title: "سجدۂ امتیاز ہو جائے"
+alternateTitle: "Sajda-e-Imtiyaaz"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mirza Murtaza Ali"
+reciter: "Mirza Sikander Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sajdaye imtiyaz hojaye
-  Zere khanjar namaz hojaye
+  Sajda-e-imtiyaaz ho jaaye
+  Zer-e-khanjar namaaz ho jaaye
 
   1
-  Koi pani pila ke qaatil ko
-  Tujhsa mehman-nawaz hojaye
+  Koi paani pila ke qaatil ko
+  Tujh sa mehmaaṅ nawaaz ho jaaye
 
   2
-  Jisne khaayi ho taygh sajde may
-  Ispe sadqe namaz hojaye
+  Jis ne khaai ho tegh sajde mein
+  Us pe sadqe namaaz ho jaaye
 
   3
-  Jis jagah tere naqshe pa baithe
-  Wo zameen sarfaraz hojaye
+  Jis jagah tere naqsh-e-pa baithe
+  Wo zamiṅ sarfaraaz ho jaaye
 
   4
-  Ek namazi ke khoone athar se
-  Surkh roo janamaz hojaye
+  Ik namaazi ke khun-e-athar se
+  Surkhru jaa namaaz ho jaaye
 
   5
-  Ek nazar teri ho agar maula
-  Misle hurr sarfaraz hojaye
+  Ik nazar teri ho agar Maula
+  Misl-e-Hur sarfaraaz ho jaaye
 
   6
-  Khul ke karna hai matame sarwar
-  Ye shabe gham daraaz hojaye
+  Khul ke karna hai maatam-e-Sarwar
+  Ye shab-e-gham daraaz ho jaaye
 
   7
   Dekhna tujh ko haq parasti hai
-  Bewazoo hi namaz hojaye
+  Bewuzu hi namaaz ho jaaye
 
   8
-  Aarzoo ya ali hai mirza ki
-  Tere dar ka ayaaz hojaye
+  Aarzu Ya Ali hai Mirza ki
+  Tere dar ka Ayaaz ho jaaye
 # source_id: nohayonline:ecd69200cc8126a98cc6
 # source_url: https://www.nohayonline.com/details_content.php?id=584
 # raw_sha256: 08c3c9d994d81f2a5b0f23cc5147e9f57be2528b018cd7661838d52726cd52cc
 ---
-سجدئہ امتیاز ہو جائے
+سجدۂ امتیاز ہو جائے
 زیرِ خنجر نماز ہو جائے
 
 ۱
