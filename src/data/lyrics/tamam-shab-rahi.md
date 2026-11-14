@@ -6,40 +6,41 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
+reciter: "Tabligh-e-Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Tamam shab rahi qaimon ki pasban zainab
-  Hazaar ranj o musibat mein natawan zainab
+  Tamaam shab rahi khaimoṅ ki paasbaaṅ Zainab
+  Hazaar ranj o musibat mein naatawaaṅ Zainab
 
   1
-  Ali ki beti ne chupne diya na khoone hussain
-  Sabab o himmat o jurrat ka hai bayan zainab
+  Ali ki beti ne chhupne diya na khun-e-Husain
+  Sabab o himmat o jurat ka hai bayaaṅ Zainab
 
   2
-  Wo daagh dil pe thay jeena muhaal tha lekin
-  Thi ek sahara aseeron ke darmiyan zainab
+  Wo daagh dil pe the jina muhaal tha lekin
+  Thi ek sahaara asiroṅ ke darmiyaaṅ Zainab
 
   3
-  Kabhi to koofa kabhi shaam aur kabhi darbar
-  Phiri aseeri mein dar dar kahan kahan zainab
+  Kabhi to Kufa kabhi Shaam aur kabhi darbaar
+  Phiri asiri mein dar dar kahaaṅ kahaaṅ Zainab
 
   4
-  Bhatije bhanje bete na koi bhai raha
-  Hai ek ranj o musibat ki daastan zainab
+  Bhatije bhaanje bete na koi bhai raha
+  Hai ek ranj o musibat ki daastaaṅ Zainab
 
   5
-  Guzar ke kufe se balon se moo chupaye huye
-  Chali hai shaam mein dene ko imtehan zainab
+  Guzar ke Kufe se baaloṅ se muṅh chhupaaye hue
+  Chali hai Shaam mein dene ko imtehaaṅ Zainab
 
   6
-  Nabi ka azm ali ka jalaal azme hussain
-  Thi shaam o kufe mein kis kis ki tarjuma zainab
+  Nabi ka azm Ali ka jalaal azm-e-Husain
+  Thi Shaam o Kufe mein kis kis ki tarjuma Zainab
 
   7
-  Urooj deen ka zikre hussain se hai urooj
-  Ye aam kar gayi paighame khastajan zainab
+  Uruj din ka zikr-e-Husain se hai Uruj
+  Ye aam kar gayi paighaam-e-khasta jaaṅ Zainab
 # source_id: nohayonline:4fee55b2ef2d985da82d
 # source_url: https://www.nohayonline.com/details_content.php?id=824
 # raw_sha256: 097bede7f9151c5555b1f1bf70d67fdcceff2b647ed898ec82a70847c52f8831
@@ -49,10 +50,10 @@ romanLyrics: |-
 
 ۱
 علی کی بیٹی نے چھُپنے دیا نہ خونِ حُسین
-سبب و ہمت و جرا،ت کا ہے بیاں زینب
+سبب و ہمت و جرأت کا ہے بیاں زینب
 
 ۲
-وہ داغ دل پہ تھے جینا محل تھا لیکن
+وہ داغ دل پہ تھے جینا محال تھا لیکن
 تھی اک سہارا اسیروں کے درمیاں زینب
 
 ۳

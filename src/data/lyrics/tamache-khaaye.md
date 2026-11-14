@@ -1,98 +1,101 @@
 ---
-title: "ہاے مظلوم ہاے سکینہ"
+title: "ہائے مظلوم ہائے سکینہ"
 alternateTitle: "Tamache Khaaye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye mazlooma haye sakina
-  Haye masooma haye sakina
-  Pani masooma ne maanga to tamache khaaye
-  Roke baba ko bulaya to tamache khaaye
-  Haye sakina haye sakina
+  Haye mazluma haye Sakina
+  Haye maasuma haye Sakina
+
+  Paani maasuma ne maanga to tamaache khaaye
+  Ro ke Baba ko bulaaya to tamaache khaaye
+  Haye Sakina haye Sakina
 
   1
-  Cheen ne aaya jo zainab ki rida bachi ne
-  Shimr ko rokna chaha to tamache khaaye
+  Chhinne aaya jo Zainab ki rida bachchi ne
+  Shimr ko rokna chaaha to tamaache khaaye
 
   2
-  Jalte qaime se nikalte huwe shehzadi ne
-  Raasta poocha najaf ka to tamache khaaye
+  Jalte khaime se nikalte hue shehzaadi ne
+  Raasta puchha Najaf ka to tamaache khaaye
 
   3
-  Dhoondti thi wo tamachon ki shikayat ke liye
-  Mil gaya baap ka laasha tamache khaaye
+  Dhundti thi wo tamaachoṅ ki shikaayat ke liye
+  Mil gaya baap ka laasha tamaache khaaye
 
   4
-  Gir gayi thi wo kahin chalte huwe naaqe se
-  Shimr jab dhoond ke laaya to tamache khaaye
+  Gir gayi thi wo kahiṅ chalte hue naaqe se
+  Shimr jab dhund ke laaya to tamaache khaaye
 
   5
-  Apne chehre ko tamachon se bachane ke liye
-  Nanhe haathon se chupaya to tamache khaaye
+  Apne chehre ko tamaachoṅ se bachaane ke liye
+  Nanhe haathoṅ se chhupaaya to tamaache khaaye
 
   6
-  Ye to acha hi huwa dil mein kaha karti thi
-  Na rahe jab mere baba to tamache khaaye
+  Ye to achchha hi hua dil mein kaha karti thi
+  Na rahe jab mere Baba to tamaache khaaye
 
   7
-  Khaaye zainab ne kayi durre bhatije ke liye
-  Isne baaqir to bachaya to tamache khaaye
+  Khaaye Zainab ne kayi durre bhatije ke liye
+  Is ne Baaqir to bachaaya to tamaache khaaye
 
   8
-  Kufa o shaam ke bazaron mein chalte chalte
-  Thak ke baithi jo sakina to tamache khaaye
+  Kufa o Shaam ke baazaaroṅ mein chalte chalte
+  Thak ke baithi jo Sakina to tamaache khaaye
 
   9
-  Mir sajjad sakina bhi hai zahra ki tarha
-  Ho gayi jab ye yateema to tamache khaaye
+  Mir Sajjad Sakina bhi hai Zahra ki tarah
+  Ho gayi jab ye yatima to tamaache khaaye
 # source_id: nohayonline:9b330c5881dd9dcf8d94
 # source_url: https://www.nohayonline.com/details_content.php?id=973
 # raw_sha256: c73c20ed0289edd1bc4b98589411348ec66dd72b12b8cef64f25ef77dabffb27
 ---
-ہاے مظلوم ہاے سکینہ
-ہاے معصومہ ہاے سکینہ
-پانی معصومہ نے مانگا تو طمانچے کھاے
-روکے بابا کو بلایا تو طمانچے کھاے
-ہاے سکینہ ہاے سکینہ
+ہائے مظلوم ہائے سکینہ
+ہائے معصومہ ہائے سکینہ
+
+پانی معصومہ نے مانگا تو طمانچے کھائے
+رو کے بابا کو بلایا تو طمانچے کھائے
+ہائے سکینہ ہائے سکینہ
 
 ۱
-چھین نے آیا جو زینب کی ردا بچی نے
-شمر کو روکنا چاہا تو طمانچے کھاے
+چھیننے آیا جو زینب کی ردا بچی نے
+شمر کو روکنا چاہا تو طمانچے کھائے
 
 ۲
 جلتے خیمے سے نکلتے ہوئے شہزادی نے
-راستہ پوچھا نجف کا تو طمانچے کھاے
+راستہ پوچھا نجف کا تو طمانچے کھائے
 
 ۳
-ڈھونڈتی تھی وہ طمانچوں کی شکایت کے لئے
-مل گیا باپ کا لاشہ تو طمانچے کھاے
+ڈھونڈتی تھی وہ طمانچوں کی شکایت کے لیے
+مل گیا باپ کا لاشہ تو طمانچے کھائے
 
 ۴
-گر گیء تھی وہ کہیں چلتے ہوئے ناقے سے
-شمر جب ڈھونڈ کے لایا تو طمانچے کھاے
+گر گئی تھی وہ کہیں چلتے ہوئے ناقے سے
+شمر جب ڈھونڈ کے لایا تو طمانچے کھائے
 
 ۵
-اپنے چہرے کو طمانچوں سے بچانے کے لیےء
-ننھے ہاتھوں سے چھپایا تو طمانچے کھاے
+اپنے چہرے کو طمانچوں سے بچانے کے لیے
+ننھے ہاتھوں سے چھپایا تو طمانچے کھائے
 
 ۶
 یہ تو اچھا ہی ہوا دل میں کہا کرتی تھی
-نہ رہے جب میرے بابا تو طمانچے کھاے
+نہ رہے جب میرے بابا تو طمانچے کھائے
 
 ۷
-کھاے زینب نے کیء درے بھتیجے کے لئے
-اس نے باقر تو بچایا تو طمانچے کھاے
+کھائے زینب نے کئی درے بھتیجے کے لیے
+اس نے باقر تو بچایا تو طمانچے کھائے
 
 ۸
 کوفہ و شام کے بازاروں میں چلتے چلتے
-تھک کے بیٹھی جو سکینہ تو طمانچے کھاے
+تھک کے بیٹھی جو سکینہ تو طمانچے کھائے
 
 ۹
 میر سجاد سکینہ بھی ہے زہرا کی طرح
-ہو گیء جب یہ یتیمہ تو طمانچے کھاے
+ہو گئی جب یہ یتیمہ تو طمانچے کھائے
