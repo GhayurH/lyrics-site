@@ -6,42 +6,49 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shahzada e akbara rasha pas e loona waqt nu bahaar de
-  Khat likhti hai sughra bhaiya watan aaja waqt nu bahaar de
+  Shahzada e Akbara rasha pas e loona waqt nu bahaar de
+  Khat likhti hai Sughra bhaiya watan aa ja waqt nu bahaar de
 
   1
-  Khat likhti hoo ashkon se bheega hai mera daaman
-  Aaja ke bahaar aayi soona hai mera aangan
-  Ay bhai khudara
+  Khat likhti huṅ ashkoṅ se bhiga hai mera daaman
+  Aa ja ke bahaar aayi suna hai mera aangan
+  Ae bhai khudaara
+  Rasha pas e loona waqt nu bahaar de
 
   2
-  Phir goonje azaan teri nana ke madine mein
-  Phir bhar de khuda bhaiya thandak mere seene mein
-  Poora karo waada
+  Phir gunje azaan teri Nana ke Madine mein
+  Phir bhar de Khuda bhaiya thandak mere sine mein
+  Pura karo waada
+  Rasha pas e loona waqt nu bahaar de
 
   3
-  Dekun mai tera sehra dulhan teri ghar aaye
-  Deedar tera bhaiya bas neg mein mil jaaye
+  Dekhuṅ main tera sehra dulhan teri ghar aaye
+  Didaar tera bhaiya bas neg mein mil jaaye
   Aanchal mera phaila
+  Rasha pas e loona waqt nu bahaar de
 
   4
-  Bemaar behan roye kya tum ko gawara hai
+  Bimaar behan roye kya tum ko gawaara hai
   Bhaiya teri furqat ne bin maut ke maara hai
-  Kehti hai ye behna
+  Kehti hai yeh behna
+  Rasha pas e loona waqt nu bahaar de
 
   5
   Gul khilne ki rut aayi pardesi mere bhai
-  Tum door watan se ho mai hoo meri tanhaai
-  Tadpao na bhaiya
+  Tum dur watan se ho main huṅ meri tanhaai
+  Tarpaao na bhaiya
+  Rasha pas e loona waqt nu bahaar de
 
   6
-  Rehaan bhi sarwar bhi kehte hai yehi sughra
-  Baithi hi rahi dar par akbar ki behan sughra
-  Lab par tha ye nauha
+  Rehaan bhi Sarwar bhi kehte haiṅ yehi Sughra
+  Baithi hi rahi dar par Akbar ki behan Sughra
+  Lab par tha yeh nauha
+  Rasha pas e loona waqt nu bahaar de
 # source_id: nohayonline:cbee3ed0b67973133213
 # source_url: https://www.nohayonline.com/details_content.php?id=2616
 # raw_sha256: 8a1c2a62ba06bc39dcd249fa719afc4a3281227032100b4fe5b269e2b305d25d
@@ -51,30 +58,36 @@ romanLyrics: |-
 
 ۱
 خط لکھتی ہوں اشکوں سے بھیگا ہے میرا دامن
-آجا کہ بہار آی سونا ہے میرا آنگن
-اے بھای خدارا
+آ جا کہ بہار آئی سونا ہے میرا آنگن
+اے بھائی خدارا
+راشہ پس لونا وقت نو بہار دے
 
 ۲
-پھر گونجے اذاں تیری نانا کے مدینے میں
+پھر گونجے اذان تیری نانا کے مدینے میں
 پھر بھر دے خدا بھیا ٹھنڈک میرے سینے میں
 پورا کرو وعدہ
+راشہ پس لونا وقت نو بہار دے
 
 ۳
-دیکھوں میں تیرا سہرا دلہن تیری گھر آے
-دیدار تیرا بھیا بس نیگ میں مل جاے
+دیکھوں میں تیرا سہرا دلہن تیری گھر آئے
+دیدار تیرا بھیا بس نیگ میں مل جائے
 آنچل میرا پھیلا
+راشہ پس لونا وقت نو بہار دے
 
 ۴
-بیمار بہن بھیا روے کیا تم کو گنوارا ہے
+بیمار بہن بھیا روئے کیا تم کو گوارا ہے
 بھیا تیری فرقت نے بن موت کے مارا ہے
 کہتی ہے یہ بہنا
+راشہ پس لونا وقت نو بہار دے
 
 ۵
-گل کھلنے کی رت آی پردیسی میرے بھائی
+گل کھلنے کی رت آئی پردیسی میرے بھائی
 تم دور وطن سے ہو میں ہوں میری تنہائی
-تڑپاو نہ بھیا
+تڑپاؤ نہ بھیا
+راشہ پس لونا وقت نو بہار دے
 
 ۶
 ریحان بھی سرور بھی کہتے ہیں یہی صغرا
 بیٹھی ہی رہی در پر اکبر کی بہن صغرا
 لب پر تھا یہ نوحہ
+راشہ پس لونا وقت نو بہار دے

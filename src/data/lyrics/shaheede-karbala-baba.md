@@ -1,30 +1,31 @@
 ---
 title: "شہیدِ کربلا بابا"
-alternateTitle: "Shaheede Karbala Baba"
+alternateTitle: "Shahid-e-Karbala Baba"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Mirza Sikander Ali"
 tags: ["noImage"]
-aliases: []
+aliases: ["Shaheede Karbala Baba"]
 published: false
 romanLyrics: |-
-  Shaheede karbala baba
-  Ghareeb ul be-watan baba
+  Shahid-e-Karbala baba
+  Gharib-ul-bewatan baba
   Hazaar afsos tum maare gaye
   Tashna dahan baba
-  
+
   1
-  Agar maqtal mein mai hoti
-  Tumhare laashe par roti
-  Gadayi kar ke pehnaati
-  Tumhe do gaz kafan baba
-  
+  Agar maqtal mein main hoti
+  Tumhaare laashe par roti
+  Gadaai kar ke pehnaati
+  Tumheṅ do gaz kafan baba
+
   2
-  Hassan ko zehr pilwaya
-  Tumhe tayghon se kaat paaya
-  Mitaya rafta rafta yun
-  Nashane panjetan baba
+  Hasan ko zehr pilwaaya
+  Tumheṅ teghoṅ se kaat paaya
+  Mitaaya rafta rafta yuṅ
+  Nishaan-e-Panjtan baba
 # source_id: nohayonline:7278fbe5be8e41cc8fe6
 # source_url: https://www.nohayonline.com/details_content.php?id=586
 # raw_sha256: c1ea79dcd4bede4d6ad95f789cdc73eee8c8afe718408fdcf1bf0cdba2a515a5
@@ -38,7 +39,7 @@ romanLyrics: |-
 اگر مقتل میں میں ہوتی
 تمہارے لاشے پر روتی
 گدائی کر کے پہناتی
-تمہیں دو گز کفن
+تمہیں دو گز کفن بابا
 
 ۲
 حسن کو زہر پلوایا

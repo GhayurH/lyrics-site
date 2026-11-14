@@ -1,52 +1,53 @@
 ---
 title: "شہید تیر ستم بے زباں علی اصغر"
-alternateTitle: "Shaheede Teere Sitam"
+alternateTitle: "Shahid-e-Tir-e-Sitam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Fareed Baig"
+poet: "Farid Baig"
+reciter: "Hasan Abbas"
 tags: ["noImage"]
-aliases: []
+aliases: ["Shaheede Teere Sitam"]
 published: false
 romanLyrics: |-
-  Shaheede teer e sitam bezaban ali asghar
-  
+  Shahid-e-tir-e-sitam bezabaaṅ Ali Asghar
+
   1
-  Chale hai qaime se phir laut kar na aayenge
-  Sawaale aab pa teere sitam ye khayenge
-  Na baade dafn bhi marqad mein chain payenge
-  Hussain dil ko bhala kis tarha manayenge
-  
+  Chale haiṅ khaime se phir laut kar na aayeṅge
+  Sawaal-e-aab pe tir-e-sitam yeh khaayeṅge
+  Na baad-e-dafn bhi marqad mein chain paayeṅge
+  Husain dil ko bhala kis tarah manaayeṅge
+
   2
-  Chala jo teer to kaampi zameene karbobala
-  Chidi jo gardane baysheer to falak larza
-  Faza e dasht mein ek hashr hogaya barpa
-  Magar hussain ka beta tha muskura utha
-  
+  Chala jo tir to kaanpi zamin-e-Karb o Bala
+  Chhidi jo gardan-e-beshir to falak larza
+  Fazaa-e-dasht mein ik hashr ho gaya barpa
+  Magar Husain ka beta tha muskura utha
+
   3
-  Jo dekha banu e muztar ne dil larazne laga
-  Kaha ye ro ro ke hae hae ye kya hua beta
-  Zara si dayr mein veeran kar gaye jhoola
-  Rahega honton pa ta umr bas yehi nauha
-  
+  Jo dekha Baanu-e-muztar ne dil larazne laga
+  Kaha yeh ro ro ke haaye haaye yeh kya hua beta
+  Zara si der mein viraan kar gaye jhula
+  Rahega hontoṅ pe taa umr bas yehi nauha
+
   4
-  Lahoo bhare huwe honton ko choom kar ye kaha
-  Ye kis ne teere sitam se tujhe shaheed kiya
-  Nazar na aaya usay kya ye phool sa chehra
-  Ye bain sun ke haram kar rahe thay aah o buka
-  
+  Lahu bhare hue hontoṅ ko chum kar yeh kaha
+  Yeh kis ne tir-e-sitam se tujhe shahid kiya
+  Nazar na aaya use kya yeh phul sa chehra
+  Yeh bain sun ke haram kar rahe the aah o buka
+
   5
-  Bana ke nanhi si turbat zameen e maqtal par
-  Ek aah e sard bhari aur uth gaye sarwar
-  Kahan hai qasim o abbas aur ali akbar
-  Falak ko dekh ke ek baar ye kaha ro kar
-  
+  Bana ke nanhi si turbat zamin-e-maqtal par
+  Ik aah-e-sard bhari aur uth gaye Sarwar
+  Kahaaṅ hai Qasim o Abbas aur Ali Akbar
+  Falak ko dekh ke ek baar yeh kaha ro kar
+
   6
-  Chale jo turbate baysheer se suye qaima
-  Hussain bekas o mazloom tashna lab tanha
-  Fareed koi na tha dashte nainawa ke siwa
-  Faza mein goonj rahi thi ye fatema ki sada
+  Chale jo turbat-e-beshir se su-e-khaima
+  Husain bekas o mazlum tashna lab tanha
+  Farid koi na tha dasht-e-Nainawa ke siwa
+  Faza mein gunj rahi thi yeh Fatima ki sada
 # source_id: nohayonline:351eed4a9f59d66721d5
 # source_url: https://www.nohayonline.com/details_content.php?id=3349
 # raw_sha256: 441f61e84cea609ae46c30d506397b1488d0c8cf29ca69f75823ba613d4a783a
@@ -55,21 +56,21 @@ romanLyrics: |-
 شہید تیر ستم بے زباں علی اصغر
 
 ۱
-چلے ہیں خیمے سے پھر لوٹ کر نہ آئینگے
-سوال آب پہ تیر ستم یہ کھایینگے
-نہ بعد دفن بھی مرقد میں چین پایینگے
-حسین دل کو بھلا کس طرح منایینگے
+چلے ہیں خیمے سے پھر لوٹ کر نہ آئیں گے
+سوال آب پہ تیر ستم یہ کھائیں گے
+نہ بعد دفن بھی مرقد میں چین پائیں گے
+حسین دل کو بھلا کس طرح منائیں گے
 
 ۲
-چلا جو تیر تو کانپی زمین کربوبلا
+چلا جو تیر تو کانپی زمین کرب و بلا
 چھدی جو گردن بے شیر تو فلک لرزا
-فضاے دشت میں اک حشر ہو گیا برپا
+فضائے دشت میں اک حشر ہو گیا برپا
 مگر حسین کا بیٹا تھا مسکرا اٹھا
 
 ۳
-جو دیکھا بانوے مضطر نے دل لرزنے لگا
-کہا یہ رو رو کے ہاے ہاے یہ کیا ہوا بیٹا
-زرا سی دیر میں ویران کر گےء جھولا
+جو دیکھا بانوئے مضطر نے دل لرزنے لگا
+کہا یہ رو رو کے ہائے ہائے یہ کیا ہوا بیٹا
+ذرا سی دیر میں ویران کر گئے جھولا
 رہے گا ہونٹوں پہ تا عمر بس یہی نوحہ
 
 ۴
@@ -80,12 +81,12 @@ romanLyrics: |-
 
 ۵
 بنا کے ننھی سی تربت زمین مقتل پر
-اک آہ سرد بھری اور اٹھ گےء سرور
+اک آہ سرد بھری اور اٹھ گئے سرور
 کہاں ہے قاسم و عباس اور علی اکبر
 فلک کو دیکھ کے ایک بار یہ کہا رو کر
 
 ۶
-چلے جو تربت بے شیر سے سوے خیمہ
+چلے جو تربت بے شیر سے سوئے خیمہ
 حسین بیکس و مظلوم تشنہ لب تنہا
-فرید کوی نہ تھا دشت نینوا کے سوا
+فرید کوئی نہ تھا دشت نینوا کے سوا
 فضا میں گونج رہی تھی یہ فاطمہ کی صدا

@@ -1,52 +1,53 @@
 ---
 title: "شہید کربلا بے شیر اصغر"
-alternateTitle: "Shaheede Karbala"
+alternateTitle: "Shahid-e-Karbala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
-aliases: []
+aliases: ["Shaheede Karbala"]
 published: false
 romanLyrics: |-
-  Shaheed e karbala baysheer asghar
-  Tabassum hai tera shamsheer asghar
+  Shahid-e-Karbala beshir Asghar
+  Tabassum hai tera shamshir Asghar
 
   1
-  Madine mein faqat kuch din ka sin tha
-  Ke tu ne chod'di aaghosh e sughra
-  Tha dil mein tere qurbani ka jazba
-  Tu hai jaan e dil e shabbir asghar
+  Madine mein faqat kuchh din ka sin tha
+  Ke tu ne chhor di aaghosh-e-Sughra
+  Tha dil mein tere qurbaani ka jazba
+  Tu hai jaan-e-dil-e-Shabbir Asghar
 
   2
-  Ye hai pyasa musafir aur kamsin
-  Hai uski mutthiyan bhi band lekin
-  Ye kar sakta hai na mumkin ko mumkin
-  Karega deen ki tameer asghar
+  Yeh hai pyaasa musaafir aur kamsin
+  Hai is ki mutthiyaṅ bhi band lekin
+  Yeh kar sakta hai naamumkin ko mumkin
+  Karega din ki taamir Asghar
 
   3
-  Akele ran mein thay sibte payambar
-  Magar kitna yaqeen tha unko tujhpar
-  Ke maqtal mein sada halmin ki de kar
-  Bulaate hai tujhe shabbir asghar
+  Akele ran mein the Sibt-e-Payambar
+  Magar kitna yaqin tha un ko tujh par
+  Ke maqtal mein sada hal min ki de kar
+  Bulaate haiṅ tujhe Shabbir Asghar
 
   4
-  Barasta khoon karbal ki hawa mein
-  Wo halmin ki sada dashte bala mein
-  Wo tera ran ko aana is faza mein
-  Bara e nusrate shabbir asghar
+  Barasta khun Karbal ki hawa mein
+  Woh hal min ki sada dasht-e-bala mein
+  Woh tera ran ko aana is faza mein
+  Baraa-e-nusrat-e-Shabbir Asghar
 
   5
-  Hai kaisi kamsini ya rab duhaai
-  Sada e al-atash lab par na aayi
-  Faqat sookhi zuban sab ko dikhayi
-  Mukammal sabr ki tasveer asghar
+  Hai kaisi kamsini ya Rab duhaai
+  Sadaa-e-al-atash lab par na aayi
+  Faqat sukhi zabaaṅ sab ko dikhaayi
+  Mukammal sabr ki tasvir Asghar
 
   6
-  Na bhoolega zamana tera ehsaan
-  Tabassum tera fathe haq ka aelaan
-  Tu hai baysheer magar mard e maidan
-  Atash ke kaarwan ke mir asghar
+  Na bhulega zamaana tera ehsaaṅ
+  Tabassum tera fath-e-haq ka aelaan
+  Tu hai beshir magar mard-e-maidaaṅ
+  Atash ke kaarwaaṅ ke mir Asghar
 # source_id: nohayonline:22629ad39bce6f34de50
 # source_url: https://www.nohayonline.com/details_content.php?id=3533
 # raw_sha256: 7a5db6c9bb69470d0b8cfee43634133e9ae23466fe2f0710b8ed8dd9ca27e919
@@ -57,19 +58,19 @@ romanLyrics: |-
 ۱
 مدینے میں فقط کچھ دن کا سن تھا
 کہ تو نے چھوڑ دی آغوش صغرا
-تھا دل میں تیرے قربانی کا جزبہ
+تھا دل میں تیرے قربانی کا جذبہ
 تو ہے جان دل شبیر اصغر
 
 ۲
 یہ ہے پیاسا مسافر اور کمسن
 ہے اس کی مٹھیاں بھی بند لیکن
-یہ کر سکتا ہے نا ممکن کو ممکن
+یہ کر سکتا ہے ناممکن کو ممکن
 کرے گا دین کی تعمیر اصغر
 
 ۳
 اکیلے رن میں تھے سبط پیمبر
 مگر کتنا یقین تھا ان کو تجھ پر
-کہ مقتل میں صدا ھل من کی دے کر
+کہ مقتل میں صدا ہل من کی دے کر
 بلاتے ہیں تجھے شبیر اصغر
 
 ۴
@@ -79,9 +80,9 @@ romanLyrics: |-
 برائے نصرت شبیر اصغر
 
 ۵
-ہے کیسی کمسن یا رب دہائی
-صداے العطش لب پر نہ آی
-فقط سوکھی زباں سب کو دکھای
+ہے کیسی کمسنی یا رب دہائی
+صدائے العطش لب پر نہ آئی
+فقط سوکھی زباں سب کو دکھائی
 مکمل صبر کی تصویر اصغر
 
 ۶
