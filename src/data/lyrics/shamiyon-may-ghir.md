@@ -1,61 +1,62 @@
 ---
 title: "شامیوں میں گھِر گیا ہے مہمانِ کربلا"
-alternateTitle: "Shamiyon May Ghir"
+alternateTitle: "Shaamiyoṅ Mein Ghir Gaya Hai Mehmaan-e-Karbala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Momin"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
-aliases: []
+aliases: ["Shamiyon May Ghir"]
 published: false
 romanLyrics: |-
-  Shamiyon mein ghir gaya hai mehmane karbala
+  Shaamiyoṅ mein ghir gaya hai mehmaan-e-Karbala
 
   1
-  Kalma e tauheed ka irfan bayane karbala
-  Imteyaz e haq o baatil daastane karbala
-  Peshwa e ahle emaan kushtagane karbala
+  Kalma-e-tauhid ka irfaaṅ bayaan-e-Karbala
+  Imtiyaaz-e-haq o baatil daastaan-e-Karbala
+  Peshwa-e-ahl-e-imaaṅ kushtagaan-e-Karbala
 
   2
-  Teen din se band hai pani nabi ki aal par
-  Kaun hai jo tars khaye bekason ke haal par
-  Khoob mehmani ada ki mezbane karbala
+  Tin din se band hai paani Nabi ki aal par
+  Kaun hai jo tars khaaye bekasoṅ ke haal par
+  Khub mehmani ada ki mezbaan-e-Karbala
 
   3
-  Yusufe karbobala hamshakle mehboobe khuda
-  Deen e haq par kar diya apni jawani go fida
-  Khaake seene par sina wo naujawane karbala
+  Yusuf-e-Karb o Bala hamshakl-e-mehbub-e-Khuda
+  Din-e-haq par kar diya apni jawaani go fida
+  Khaa ke sine par sinaaṅ wo naujawaan-e-Karbala
 
   4
-  Kaamp utha arsh e moalla hil gaye qalbe adoo
-  Seena e shabbir mein dil hogaya gham se lahoo
-  Teer khakar has diya jab bezubane karbala
+  Kaamp utha arsh-e-mualla hil gaye qalb-e-adu
+  Sina-e-Shabbir mein dil ho gaya gham se lahu
+  Tir khaa kar haṅs diya jab bezabaan-e-Karbala
 
   5
-  Phayr di halqe shahe deen par sitamgar ne churi
-  Peet'ti sar aagayi maidan mein binte ali
-  Tum bhi peeto apne sar ko aashiqan e karbala
+  Pher di halq-e-Shaah-e-diṅ par sitamgaar ne chhuri
+  Pitti sar aa gai maidaan mein bint-e-Ali
+  Tum bhi pito apne sar ko aashiqaan-e-Karbala
 
   6
-  Kis tarha jhuk jayega wo zore baatil se bhala
-  Baazu e abbas ka jisko sahara mil gaya
-  Hashr tak uncha rahega ab nashane karbala
+  Kis tarah jhuk jaayega wo zor-e-baatil se bhala
+  Baazu-e-Abbas ka jis ko sahaara mil gaya
+  Hashr tak uṅcha rahega ab nishaan-e-Karbala
 
   7
-  Jal gaye qaime chini chadar bandhe rassi mein haat
-  Ab nahi koi haram ke sar pe juz aabe kizaakh
-  Shaam ko jaata hai lutkar kaarwane karbala
+  Jal gaye khaime chhini chaadar bandhe rassi mein haath
+  Ab nahiṅ koi haram ke sar pe juz aab-e-kizaakh
+  Shaam ko jaata hai lut kar kaarwaan-e-Karbala
 
   8
-  Asr ka hamgaam aur wo shaahe deen ki kaarzaar
-  Tha qayamat ka saman jab chal rahi thi zulfiqar
-  Khoon mein tar thay zameen o aasman e karbala
+  Asr ka hamgaam aur wo Shaah-e-diṅ ki kaarzaar
+  Tha qayaamat ka samaaṅ jab chal rahi thi Zulfiqar
+  Khun mein tar the zamin o aasmaan-e-Karbala
 
   9
-  Allah allah subhe ashoora wo akbar ki sada
-  Chod kar baatil ka daman jaanibe haq hurr chala
-  Goonji jab momin fizaon mein azane karbala
+  Allah Allah subh-e-aashura wo Akbar ki sada
+  Chhor kar baatil ka daaman jaanib-e-haq Hur chala
+  Gunji jab Momin fazaaoṅ mein azaan-e-Karbala
 # source_id: nohayonline:25ca55ca64a6bdb001e4
 # source_url: https://www.nohayonline.com/details_content.php?id=788
 # raw_sha256: 678dbea5a5b756741c00ec2e006be09d45f206634039004acacfc1ae583ae381
@@ -63,12 +64,12 @@ romanLyrics: |-
 شامیوں میں گھِر گیا ہے مہمانِ کربلا
 
 ۱
-کلمئہ توحید کا عرفاں بیانِ کربلا
+کلمۂ توحید کا عرفاں بیانِ کربلا
 امتیازِ حق و باطل داستانِ کربلا
 پیشوائے اہلِ ایماں کُشتگانِ کربلا
 
 ۲
-تین دن سے بندھ ہے پانی نبی کی آل پر
+تین دن سے بند ہے پانی نبی کی آل پر
 کون ہے جو ترس کھائے بے کسوں کے حال پر
 خوب مہمانی ادا کی میزبانِ کربلا
 
@@ -79,7 +80,7 @@ romanLyrics: |-
 
 ۴
 کانپ اُٹھا عرشِ معلیٰ ہل گئے قلبِ عدو
-سینہِ شبیر میں دل ہو گیا غم سے لہو
+سینۂ شبیر میں دل ہو گیا غم سے لہو
 تیر کھا کر ہنس دیا جب بے زبانِ کربلا
 
 ۵
@@ -105,4 +106,4 @@ romanLyrics: |-
 ۹
 اللہ اللہ صبحِ عاشورہ وہ اکبر کی صدا
 چھوڑ کر باطل کا دامن جانبِ حق حُر چلا
-گونجی جب مومن فضائوں میں اذانِ کربلا
+گونجی جب مومن فضاؤں میں اذانِ کربلا

@@ -1,69 +1,70 @@
 ---
 title: "بکھرے لاشے مقتل دیکھو تارے ٹوٹے"
-alternateTitle: "Shame Ghariban Hai"
+alternateTitle: "Shaam-e-Gharibaṅ Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Iqbal Abedi"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
-aliases: []
+aliases: ["Shame Ghariban Hai"]
 published: false
 romanLyrics: |-
-  Bikhre laashe maqtal dekho taare toote
-  Pyase bacche hai
-  De do ali zainab ko sahara
-  Shaam e ghariban hai
+  Bikhre laashe maqtal dekho taare tute
+  Pyaase bachche haiṅ
+  De do Ali Zainab ko sahaara
+  Shaam-e-gharibaṅ hai
 
   1
-  Jalta kurta jalti masnad jalte qaime
+  Jalta kurta jalti masnad jalte khaime
   Aur andhera hai
-  Dard ka maara rab ko pukara
+  Dard ka maara Rab ko pukaara
 
   2
-  Barchi lagi aur gurz laga zakhmi kaleja
-  Dil bhi phat'ta hai
-  Doobta dil saahil pe pukara
+  Barchhi lagi aur gurz laga zakhmi kaleja
+  Dil bhi phatta hai
+  Dubta dil saahil pe pukaara
 
   3
-  Dard ka manzar khoon mein bhara hai manka dhala hai
-  Nanha mujahid hai
-  Teer ki zad par nanha dulaara
+  Dard ka manzar khuṅ mein bhara hai manka dhala hai
+  Nanha mujaahid hai
+  Tir ki zad par nanha dulaara
 
   4
-  Qaime hat'te to taa'ate sheh mein sar bhi jhukaya
-  Baazu kataya hai
-  Saqqa hai saahil ka kinara
+  Khaime hatte to taaat-e-Shah mein sar bhi jhukaaya
+  Baazu kataaya hai
+  Saqqa hai saahil ka kinaara
 
   5
-  Abre sitam sar par hai barasta shole bhadakte
+  Abr-e-sitam sar par hai barasta shole bharakte
   Aag ka darya hai
-  Haal hai kya zainab ka khudara
+  Haal hai kya Zainab ka khudaara
 
   6
-  Ban mein thi zehra ki sada ye kunba ujda
+  Ban mein thi Zehra ki sada ye kunba ujra
   Bikhri dunya hai
-  Koi nahi dunya mein hamara
+  Koi nahiṅ dunya mein hamaara
 
   7
-  Aun o mohamed o qasim o akbar bhai nahi hai
-  Tanha zainab hai
-  Karti hai qaimon ka talaaya
+  Aun o Muhammad o Qasim o Akbar bhai nahiṅ hai
+  Tanha Zainab hai
+  Karti hai khaimoṅ ka talaaya
 
   8
-  Zulm o sitam zainab par dhaaya aag lagayi
-  Gham ka sharara hai
-  Aagaya beti baap tumhara
+  Zulm o sitam Zainab par dhaaya aag lagaai
+  Gham ka sharaara hai
+  Aa gaya beti baap tumhaara
 
   9
-  Khoon ka darya dard ka toofan
-  Shaam e ghariban hai
-  Sakta zameen to arsh hai hairaan
+  Khun ka darya dard ka tufaaṅ
+  Shaam-e-gharibaṅ hai
+  Sakta zamiṅ to arsh hai hairaaṅ
 
   10
-  Bali sakina dhoondne nikli baap ko apne
-  Seena phat'ta hai
-  Lab pe hai iqbal ke nauha
+  Baali Sakina dhundne nikli baap ko apne
+  Sina phatta hai
+  Lab pe hai Iqbal ke nauha
 # source_id: nohayonline:3cf69754d9ccb1122af3
 # source_url: https://www.nohayonline.com/details_content.php?id=3532
 # raw_sha256: f4294ebc00900ac96ad673237f32aeb156a01c3d1639eec9caec2477ab655988
@@ -86,12 +87,12 @@ romanLyrics: |-
 ۳
 درد کا منظر خوں میں بھرا ہے منکا ڈھلا ہے
 ننھا مجاہد ہے
-تیر کید پر ننھا دلارا
+تیر کی زد پر ننھا دلارا
 
 ۴
 خیمے ہٹتے تو طاعت شہ میں سر بھی جھکایا
 بازو کٹایا ہے
-سقہ ہے ساحل کا کنارہ
+سقا ہے ساحل کا کنارہ
 
 ۵
 ابر ستم سر پر ہے برستا شعلے بھڑکتے
@@ -101,11 +102,11 @@ romanLyrics: |-
 ۶
 بن میں تھی زہرا کی صدا یہ کنبہ اجڑا
 بکھری دنیا ہے
-کوی نہیں دنیا میں ہمارا
+کوئی نہیں دنیا میں ہمارا
 
 ۷
-عون و محمد و قاسم و اکبر بھای نہیں ہے
-تنہا زنیب ہے
+عون و محمد و قاسم و اکبر بھائی نہیں ہے
+تنہا زینب ہے
 کرتی ہے خیموں کا تلایا
 
 ۸

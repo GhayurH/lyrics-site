@@ -1,65 +1,66 @@
 ---
 title: "اے شام غریباں"
-alternateTitle: "Shame Ghariban"
+alternateTitle: "Ae Shaam-e-Gharibaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Safdar Abbas"
 tags: ["noImage"]
-aliases: []
+aliases: ["Shame Ghariban"]
 published: false
 romanLyrics: |-
-  Ay shaam e ghariban
-  Har qaime se uth'ta hai dhuaan shaam e ghariban
-  Ab ahle haram jaaye kahan shaam e ghariban
-  
+  Ae shaam-e-gharibaṅ
+  Har khaime se uthta hai dhuaaṅ shaam-e-gharibaṅ
+  Ab ahl-e-haram jaaye kahaaṅ shaam-e-gharibaṅ
+
   1
-  Jis samt nazar jaaye wahan laashe hai be sar
-  Abbas e alamdar kahin qasim o akbar
-  Maare gaye sab peer o jawan shaam e ghariban
-  
+  Jis samt nazar jaaye wahaaṅ laashe hai be sar
+  Abbas-e-alamdaar kahiṅ Qasim o Akbar
+  Maare gaye sab pir o jawaaṅ shaam-e-gharibaṅ
+
   2
-  Seena mere baba ka nahi so'un kahan par
-  Zakhmi hai mere kaan lahoo se hai qaba tar
-  Hai baali sakina ki fughan shaam e ghariban
-  
+  Sina mere baba ka nahiṅ souṅ kahaaṅ par
+  Zakhmi hai mere kaan lahu se hai qaba tar
+  Hai baali Sakina ki fughaaṅ shaam-e-gharibaṅ
+
   3
-  Pehre pe alamdar nahi binte ali hai
-  Ab koi madadgaar nahi binte ali hai
-  Hai naade ali wird e zaban shaam e ghariban
-  
+  Pehre pe alamdaar nahiṅ bint-e-Ali hai
+  Ab koi madadgaar nahiṅ bint-e-Ali hai
+  Hai Naad-e-Ali wird-e-zabaaṅ shaam-e-gharibaṅ
+
   4
-  Qaime bhi jale aur rida sar pe nahi hai
-  Ujde huwe sadaat hai aur garm zameen hai
-  Pyase hai sabhi nauha kuna shaam e ghariban
-  
+  Khaime bhi jale aur rida sar pe nahiṅ hai
+  Ujre hue saadaat hai aur garm zamiṅ hai
+  Pyaase hai sabhi nauha kunaṅ shaam-e-gharibaṅ
+
   5
-  Kab jalne laga aag mein sajjad ka bistar
-  Bemaar ko sholon se behan laayi bacha kar
-  Hai halqe bureeda ki fughan shaam e ghariban
-  
+  Kab jalne laga aag mein Sajjad ka bistar
+  Bimaar ko sholoṅ se behan laai bacha kar
+  Hai halq-e-burida ki fughaaṅ shaam-e-gharibaṅ
+
   6
-  Bhai ko behan roye kahin beton ko maadar
-  Kehti hai koi bibi ke haye haye meri chadar
-  Kaisa hai qayamat ka samaan shaam e ghariban
-  
+  Bhai ko behan roye kahiṅ betoṅ ko maadar
+  Kehti hai koi Bibi ke haaye haaye meri chaadar
+  Kaisa hai qayaamat ka samaaṅ shaam-e-gharibaṅ
+
   7
-  Kya dard ka manzar tha bayan kaise ho safdar
-  Khoon roya hai likhte huwe har baat ko mazhar
-  Kyun bhoole nahi ahle jahan shaam e ghariban
+  Kya dard ka manzar tha bayaaṅ kaise ho Safdar
+  Khuṅ roya hai likhte hue har baat ko Mazhar
+  Kiuṅ bhule nahiṅ ahl-e-jahaaṅ shaam-e-gharibaṅ
 # source_id: nohayonline:cd34733bd72b6399d20c
 # source_url: https://www.nohayonline.com/details_content.php?id=2815
 # raw_sha256: fb812e237a0e059577b49a4d9eb724aed73a753fdb05732c7dfee8e81a35b565
 ---
 اے شام غریباں
 ہر خیمے سے اٹھتا ہے دھواں شام غریباں
-اب أہل حرم جاے کہاں
+اب اہل حرم جائے کہاں
 
 ۱
-جس سمت نظر جاے وہاں لاش ہے بے سر
+جس سمت نظر جائے وہاں لاش ہے بے سر
 عباس علمدار کہیں قاسم و اکبر
-مارے گےء سب پیر و جواں شام غریباں
+مارے گئے سب پیر و جواں شام غریباں
 
 ۲
 سینہ میرے بابا کا نہیں سوؤں کہاں پر
@@ -78,15 +79,15 @@ romanLyrics: |-
 
 ۵
 کب جلنے لگا آگ میں سجاد کا بستر
-بیمار کو شعلوں سے بہن لای بچا کر
+بیمار کو شعلوں سے بہن لائی بچا کر
 ہے حلق بریدہ کی فغاں شام غریباں
 
 ۶
-بھای کو بہن روے کہیں بیٹوں کو مادر
-کہتی ہے کوی بی بی کے ہاے ہاے میری چادر
+بھائی کو بہن روئے کہیں بیٹوں کو مادر
+کہتی ہے کوئی بی‌بی کے ہائے ہائے میری چادر
 کیسا ہے قیامت کا سماں شام غریباں
 
 ۷
 کیا درد کا منظر تھا بیاں کیسے ہو صفدر
 خوں رویا ہے لکھتے ہوئے ہر بات کو مظہر
-کیوں بھولے نہیں أہل جہاں شام غریباں
+کیوں بھولے نہیں اہل جہاں شام غریباں
