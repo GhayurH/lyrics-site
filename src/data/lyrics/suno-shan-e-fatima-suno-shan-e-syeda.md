@@ -1,6 +1,6 @@
 ---
 title: "سنو شانِ فاطمہ سنو شانِ سیدہ"
-alternateTitle: "Suno Shan-e-Fatima Suno Shan-e-Syeda"
+alternateTitle: "Suno Shaan-e-Fatima Suno Shaan-e-Syeda"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -13,90 +13,90 @@ published: false
 # source_id: tajpoints:fc045a7f616651ea2b4d
 # source_url: https://tajpoints.com/2019/01/suno-shan-e-fatima-suno-shan-e-syeda-1-6.html
 # raw_sha256: f8d5af12ca98fb6c49fcf2884f6de2e29cf939e7ca62ebab308279c9239a34ff
-# https://tajpoints.com/2019/01/suno-shan-e-fatima-suno-shan-e-syeda-7.html
+# continuation_source_id: tajpoints:6aafa2a4f900114b8e52
+# continuation_source_url: https://tajpoints.com/2019/01/suno-shan-e-fatima-suno-shan-e-syeda-7.html
 romanLyrics: |-
-  
-  Suno Shan-e-Fatima Suno Shan-e-Syeda
-  
+  Suno Shaan-e-Fatima Suno Shaan-e-Syeda
+
   1
-  Zahra Ki Baat Ho Gi Bari Aan Baan Se
-  Zeeshan Jis Ki Shan Hai Dono Jahan Se
-  Hai Jis Ke Ghar Ka Farsh Buland Aasman Se
-  Dulha Jise Mila Hai Khuda Ke Makan Se
-  Khairat Jis Ke Dar Se Har Ik Aali Jah Le
-  Be-Saya Jis Ke Saye Mein Aa Kar Panah Le
-  
+  Zahra ki baat ho gi bari aan baan se
+  Zishaan jis ki shaan hai donoṅ jahaan se
+  Hai jis ke ghar ka farsh buland aasmaan se
+  Dulha jise mila hai Khuda ke makaan se
+  Khairaat jis ke dar se har ik aali jaah le
+  Besaaya jis ke saaye mein aa kar panaah le
+
   2
-  Jo Do Jahan Ka Chain Hai Yeh Oss Ka Chain Hai
-  Zainab Ki Maa Hai Chehra-e-Yazdaan Ki Zain Hai
-  Rab-e-Hasan Hai Fatima Rab-e-Husain Hai
-  Yeh Ain-e-Haq Hai Iss Ka Addo Ain Gain Hai
-  Sun Kar Khuda Ke Deen Ki Cheekh o Pukar Ko
-  Pala Hai Iss Ne Sabar Ke Parwardigar Ko
-  
+  Jo do jahaaṅ ka chain hai ye us ka chain hai
+  Zainab ki maaṅ hai chehra-e-Yazdaaṅ ki zain hai
+  Rab-e-Hasan hai Fatima Rab-e-Husain hai
+  Ye ain-e-haq hai is ka adu ain ghain hai
+  Sun kar Khuda ke din ki chikh o pukaar ko
+  Paala hai is ne sabr ke parwardigaar ko
+
   3
-  Mazmoon Do Jahan Hain Unwan Fatima
-  Muhsin Khuda Ki Zaat Hai Ahsan Fatima
-  Quran Ko Parhati Hain Quran Fatima
-  Mushkil Ali Ki Karti Hain Aasan Fatima
-  Qaul-e-Nabi Hai Umm-e-Abeeha Batool Hain
-  Allah Ke Rasool Ki Zarha Rasool Hain
-  
+  Mazmun do jahaaṅ haiṅ unwaan Fatima
+  Muhsin Khuda ki zaat hai ehsaan Fatima
+  Quraan ko parhaati haiṅ Quraan Fatima
+  Mushkil Ali ki karti haiṅ aasaan Fatima
+  Qaul-e-Nabi hai Umm-e-Abiha Batul haiṅ
+  Allah ke Rasul ki Zahra Rasul haiṅ
+
   4
-  Roshan Hai Itna Syeda-e-Pak Ka Makaan
-  Batil Pe Iss Ka Noor Girata Hai Bijliyaan
-  Phaila Howa Hai Noor-e-Wila Ka Haseen Samaa
-  Jhuk Jhuk Ke Iss Ko Dekhta Rehta Hai Aasmaan
-  Arsh-e-Bareen Adab Se Qadam Boos Ho Gaya
-  Soraj Bhi Aa Gaya Tu Ujalon Mein Kho Gaya
-  
+  Roshan hai itna Syeda-e-paak ka makaaṅ
+  Baatil pe is ka nur giraata hai bijliyaaṅ
+  Phaila hua hai nur-e-wila ka hasiṅ samaaṅ
+  Jhuk jhuk ke is ko dekhta rehta hai aasmaaṅ
+  Arsh-e-bariṅ adab se qadam bos ho gaya
+  Suraj bhi aa gaya to ujaaloṅ mein kho gaya
+
   5
-  Sidra Se Bhi Azeem Hai Khair-ul-Nisa Ka Ghar
-  Karti Hain Sari Manilein Iss Ke Liye Safar
-  Achi Tarha Se Hazrat-e-Jibreel Ko Khabar
-  Poche Beghair Aaein Tu Jal Jaein Unn Ke Par
-  Pabandi Sab Ko Karni Hai Iss Ke Usool Ki
-  Aate Nahi Beghair Ijazat Rasool Bhi
-  
+  Sidra se bhi azim hai Khair-un-Nisa ka ghar
+  Karti haiṅ saari manzileṅ is ke liye safar
+  Achchhi tarah se Hazrat-e-Jibril ko khabar
+  Puchhe baghair aayeṅ to jal jaayeṅ un ke par
+  Paabandi sab ko karni hai is ke usul ki
+  Aate nahiṅ baghair ijaazat Rasul bhi
+
   6
-  Iss Ghar Mein Fatima Hain Ali Hain Hasan Husain
-  Aabad Hain Yahan Pe Zamane Ke Syedain
-  Makhdoom Inn Ka Ghar Hai Do Aalam Hain Khadmain
-  Milta Hai Iss Ko Dekh Ke Allah Ko Bhi Chain
-  Jalwaon Se Iss Ke Sara Jahan Jagmagaye Ga
-  Iss Ghar Se Jo Jale Ga Jahanum Mein Jaye Ga
-  
+  Is ghar mein Fatima haiṅ Ali haiṅ Hasan Husain
+  Aabaad haiṅ yahaaṅ pe zamaane ke Syedain
+  Makhdum in ka ghar hai do aalam haiṅ khaadimin
+  Milta hai is ko dekh ke Allah ko bhi chain
+  Jalwoṅ se is ke saara jahaaṅ jagmagaayega
+  Is ghar se jo jalega jahannam mein jaayega
+
   7
-  Aain Do Jahan Ka Banati Hain Fatima
-  Jhola Mashiyaton Ko Jhulati Hain Fatima
-  Nabiyon Ko Unn Ke Kam Batati Hain Fatima
-  Allah Ka Nizam Chalati Hain Fatima
-  Iss Shan Se Qayam Hai Arz-e-Yaqeen Par
-  Jab Chahein Aasman Bicha Dein Zameen Par
-  
+  Aain do jahaaṅ ka banaati haiṅ Fatima
+  Jhula mashiyyatoṅ ko jhulaati haiṅ Fatima
+  Nabiyoṅ ko un ke kaam bataati haiṅ Fatima
+  Allah ka nizaam chalaati haiṅ Fatima
+  Is shaan se qiyaam hai arz-e-yaqiṅ par
+  Jab chaaheṅ aasmaaṅ bichha deṅ zamiṅ par
+
   8
-  Jalway Ajab Dikhati Hain Khair-ul-Nisa Ki Zaat
-  Tasbeeh Aik Hath Mein Chaki Pe Aik Hath
-  Konain Ghomte Hain Isharon Ke Sath Sath
-  Inn Ki Kaneez Roz-e-Azal Se Hai Kainat
-  Kis Ki Majal Hai Keh Koi Baat Taal De
-  Yeh Jis Ko Chahe Kon o Makaan Se Nikal De
-  
+  Jalwe ajab dikhaati haiṅ Khair-un-Nisa ki zaat
+  Tasbih ek haath mein chakki pe ek haath
+  Kaunain ghumte haiṅ ishaaroṅ ke saath saath
+  In ki kaniz roz-e-azal se hai kaainaat
+  Kis ki majaal hai ke koi baat taal de
+  Ye jis ko chaahe kaun o makaaṅ se nikaal de
+
   9
-  Mansoob Woh Hadees-e-Kisa Hai Janab Se
-  Aajiz Hai Kufar Aaj Bhi Jis Ke Jawab Se
-  Roshan Dil o Dimag Hain Jis Aaftab Se
-  Hum Ne Yehi Suna Hai Risalat Maab Se
-  Ilm o Hunar Ka Moor Hadees-e-Kisa Mein Hai
-  Quran Ka Nichoor Hadees-e-Kisa Mein Hai
-  
+  Mansub wo hadis-e-kisa hai janaab se
+  Aajiz hai kufr aaj bhi jis ke jawaab se
+  Roshan dil o dimaagh haiṅ jis aaftaab se
+  Ham ne yahi suna hai Risaalat maab se
+  Ilm o hunar ka mor hadis-e-kisa mein hai
+  Quraan ka nichor hadis-e-kisa mein hai
+
   10
-  Gohar Yeh Bazm-e-Malka-e-Youm-e-Alasat Hai
-  Eman Ki Ghiza Ka Bara Bando Bast Hai
-  Har Shaks Aaj Ishq Ki Masti Mein Mast Hai
-  Zahra Ke Dushmano Ki Mukamil Shikast Hai
-  Mehfil Qalandrana Sada Hai Jo Saj Gayi
-  Lafzoon Ne Woh Dhmal Kiya Dhoom Mach Gayi
+  Gohar ye bazm-e-malka-e-yaum-e-alast hai
+  Imaan ki ghiza ka bara bandobast hai
+  Har shakhs aaj ishq ki masti mein mast hai
+  Zahra ke dushmanoṅ ki mukammal shikast hai
+  Mehfil qalandaraana sada hai jo saj gai
+  Lafzoṅ ne wo dhamaal kiya dhum mach gai
 ---
 
 سنو شانِ فاطمہ سنو شانِ سیدہ
