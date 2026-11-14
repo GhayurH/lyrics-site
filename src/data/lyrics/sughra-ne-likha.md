@@ -6,71 +6,72 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Alamdar Razvi"
+reciter: "Hadi Ali Khan Muslim"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Sughra ne likha baba kab laut ke aaoge
-  Dushwaar hua jeena kab laut ke aaoge
+  Dushwaar hua jina kab laut ke aaoge
 
   1
-  Roothi hai khushi mujhse har lamha naya gham hai
-  Dhadkan ki sada'on mein tanhaai ka matam hai
-  Bhaiya ali akbar ki furqat mein ye aalam hai
-  Har saas hai ek bhaala kab laut ke aaoge
+  Ruthi hai khushi mujh se har lamha naya gham hai
+  Dharkan ki sadaaoṅ mein tanhaai ka maatam hai
+  Bhaiya Ali Akbar ki furqat mein ye aalam hai
+  Har saaṅs hai ik bhaala kab laut ke aaoge
 
   2
-  Kya jaaniye aate hai kyun mujhko ye andeshe
-  Manzar nazar aate hai jalte huwe qaimon ke
-  Reh reh ke na jaane kyun girti hai rida sar se
-  Kya haal hai phupiyon ka kab laut ke aaoge
+  Kya jaaniye aate haiṅ kiuṅ mujh ko ye andeshe
+  Manzar nazar aate haiṅ jalte hue khaimoṅ ke
+  Reh reh ke na jaane kiuṅ girti hai rida sar se
+  Kya haal hai phuphiyoṅ ka kab laut ke aaoge
 
   3
-  Rehta hai tasawur mein chehra ali akbar ka
-  Phirta hai nigahon mein jhoola ali asghar ka
-  Allah muhafiz hai ab mere bhare ghar ka
+  Rehta hai tasawwur mein chehra Ali Akbar ka
+  Phirta hai nigaahoṅ mein jhula Ali Asghar ka
+  Allah muhaafiz hai ab mere bhare ghar ka
   Ghabrata hai dil mera kab laut ke aaoge
 
   4
-  Aafat ke musibat ke ghurbat ke manazir hai
-  Ghere huwe har lamha furqat ke manazir hai
-  Ab tak bhi nigahon mein rukhsat ke manazir hain
+  Aafat ke musibat ke ghurbat ke manaazir hai
+  Ghere hue har lamha furqat ke manaazir hai
+  Ab tak bhi nigaahoṅ mein rukhsat ke manaazir haiṅ
   Yaad aata hai ghar saara kab laut ke aaoge
 
   5
-  Kal aun o mohamed thay aur akbar o asghar thay
-  Qasim tha sakina thi abbas e dilawar thay
-  Saaman sukoon ke sab jis ghar mein meinassar thay
+  Kal Aun o Muhammad the aur Akbar o Asghar the
+  Qasim tha Sakina thi Abbas-e-Dilaawar the
+  Saamaan sukuṅ ke sab jis ghar mein muyassar the
   Us ghar mein hai sannata kab laut ke aaoge
 
   6
-  Bhaiya ali akbar ka jab byaah racha hoga
-  Socha na kisi ne bhi hai door bahot sughra
-  Hasrat hai ke dekhun mai bhai ko bane dulha
-  Koondhi hoo yahan sehra kab laut ke aaoge
+  Bhaiya Ali Akbar ka jab byaah racha hoga
+  Socha na kisi ne bhi hai dur bahut Sughra
+  Hasrat hai ke dekhuṅ main bhaai ko bane dulha
+  Gundhi huṅ yahaaṅ sehra kab laut ke aaoge
 
   7
-  Jab dekhti hoo pani aansu nikal aate hai
-  Waswaas mere dil ko har aan rulaate hai
-  Kya pyaas ki eeza bhi ghar waale uthaate hai
+  Jab dekhti huṅ paani aansu nikal aate haiṅ
+  Waswaas mere dil ko har aan rulaate haiṅ
+  Kya pyaas ki iza bhi ghar waale uthaate haiṅ
   Hai khushk gala mera kab laut ke aaoge
 
   8
-  Kyun jaane mujhe aksar aata hai khayaal aisa
-  Yun lagta hai jaise ke be-parda hai sab kunba
-  Allah rakhe parda zehra ke gharane ka
-  Dil kaampta hai mera kab laut ke aaoge
+  Kiuṅ jaane mujhe aksar aata hai khayaal aisa
+  Yuṅ lagta hai jaise ke beparda hai sab kunba
+  Allah rakhe parda Zehra ke gharaane ka
+  Dil kaaṅpta hai mera kab laut ke aaoge
 
   9
-  Shashmaaha mera bhai yaad aata hai reh reh kar
-  Kya ghutniyon chalta hai ab mera ali asghar
-  Ho pyar mera baba masoom ki aankhon par
-  Daali hoo mai gehwaara kab laut ke aaoge
+  Shashmaah mera bhaai yaad aata hai reh reh kar
+  Kya ghutniyoṅ chalta hai ab mera Ali Asghar
+  Ho pyaar mera baba maasum ki aankhoṅ par
+  Daali huṅ main gehwaara kab laut ke aaoge
 
   10
-  Kya yaas hai ay rizvi pahuncha hai khat e sughra
-  Reti pa rakha sheh ne laasha ali asghar ka
-  Rone lage beti ka khat pad ke shahe waala
+  Kya yaas hai ae Rizvi pahuncha hai khat-e-Sughra
+  Reti pe rakha Shah ne laasha Ali Asghar ka
+  Rone lage beti ka khat parh ke Shah-e-waala
   Khat mein yehi likha tha kab laut ke aaoge
 # source_id: nohayonline:f5165e0e95b29e1182b9
 # source_url: https://www.nohayonline.com/details_content.php?id=1966
@@ -83,11 +84,11 @@ romanLyrics: |-
 روٹھی ہے خوشی مجھ سے ہر لمحہ نیا غم ہے
 دھڑکن کی صداؤں میں تنہائی کا ماتم ہے
 بھیا علی اکبر کی فرقت میں یہ عالم ہے
-ہر سانس ہے اک بھالا کا لوٹ کے آؤ گے
+ہر سانس ہے اک بھالا کب لوٹ کے آؤ گے
 
 ۲
-کیا جانیےء آتے ہیں کیوں مجھکو یہ اندیشے
-منظر نظر آتے ہیں جلتے ہوے خیموں کے
+کیا جانیے آتے ہیں کیوں مجھ کو یہ اندیشے
+منظر نظر آتے ہیں جلتے ہوئے خیموں کے
 رہ رہ کے نہ جانے کیوں گرتی ہے ردا سر سے
 کیا حال ہے پھوپھیوں کا کب لوٹ کے آؤ گے
 
@@ -99,7 +100,7 @@ romanLyrics: |-
 
 ۴
 آفت کے مصیبت کے غربت کے مناظر ہے
-گھیرے ہوے ہر لمحہ فرقت کے مناظر ہے
+گھیرے ہوئے ہر لمحہ فرقت کے مناظر ہے
 اب تک بھی نگاہوں میں رخصت کے مناظر ہیں
 یاد آتا ہے گھر سارا کب لوٹ کے آؤ گے
 
@@ -112,14 +113,14 @@ romanLyrics: |-
 ۶
 بھیا علی اکبر کا جب بیاہ رچا ہو گا
 سوچا نہ کسی نے بھی ہے دور بہت صغرا
-حسرت ہے کہ دیکھوں میں بھای کو بنے دولہا
+حسرت ہے کہ دیکھوں میں بھائی کو بنے دولہا
 گوندھی ہوں یہاں سہرا کب لوٹ کے آؤ گے
 
 ۷
-جب دیکھتی ہوں پانی آنسوں نکل آتے ہیں
+جب دیکھتی ہوں پانی آنسو نکل آتے ہیں
 وسواس میرے دل کو ہر آن رلاتے ہیں
 کیا پیاس کی ایذا بھی گھر والے اٹھاتے ہیں
-ہیں خشک گلا میرا کب لوٹ کے آؤ گے
+ہے خشک گلا میرا کب لوٹ کے آؤ گے
 
 ۸
 کیوں جانے مجھے اکثر آتا ہے خیال ایسا
@@ -128,7 +129,7 @@ romanLyrics: |-
 دل کانپتا ہے میرا کب لوٹ کے آؤ گے
 
 ۹
-ششماہ میرا بھای یاد آتا ہے رہ رہ کر
+ششماہ میرا بھائی یاد آتا ہے رہ رہ کر
 کیوں گھٹنیوں چلتا ہے اب میرا علی اصغر
 ہو پیار میرا بابا معصوم کی آنکھوں پر
 ڈالی ہوں میں گہوارہ کب لوٹ کے آؤ گے

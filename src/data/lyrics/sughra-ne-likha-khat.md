@@ -5,68 +5,69 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sughra ne likha khat mein ke zehra ke dil o jaan
-  Aadaab baja laati hai beti shahe zeeshan
+  Sughra ne likha khat mein ke Zehra ke dil o jaaṅ
+  Aadaab baja laati hai beti Shah-e-Zishaaṅ
 
   1
-  Amma ki judaai ne mera chain hai loota
-  Hazrat ki judaai hai mere qatl ka samaan
+  Ammaaṅ ki judaai ne mera chain hai luta
+  Hazrat ki judaai hai mere qatl ka saamaaṅ
 
   2
-  Mai kaun tumhari hoo jiyun ya ke maroon mai
-  Ay bhoolne walon mera koi nahi pursa
+  Main kaun tumhaari huṅ jiyuṅ ya ke maruṅ main
+  Ae bhulne waalo mera koi nahiṅ pursaaṅ
 
   3
-  Bhaiya ali akbar to mujhe bhool hi baithe
-  Kya aap bhi beti ko bhula baithe chacha jaan
+  Bhaiya Ali Akbar to mujhe bhul hi baithe
+  Kya aap bhi beti ko bhula baithe chacha jaaṅ
 
   4
-  Aana ho to aajao abhi jaan hai baakhi
-  Surat ko taraste hai mere deedaye hairaan
+  Aana ho to aa jaao abhi jaan hai baaqi
+  Surat ko taraste haiṅ mere dida-e-hairaaṅ
 
   5
-  Farmaiye akbar se meri simt se baba
-  Bhaiya ye behan aap ki kuch din ki hai mehman
+  Farmaaiye Akbar se meri simt se baba
+  Bhaiya ye behan aap ki kuchh din ki hai mehmaaṅ
 
   6
-  Hasrat hai ke akbar ki bala leke maroon mai
-  Hangame nazha aap ka haathon mein ho daaman
+  Hasrat hai ke Akbar ki bala le ke maruṅ main
+  Hangaam-e-naza aap ka haathoṅ mein ho daaman
 
   7
-  Hathon pe chacha jaan ke ho mera janaza
-  Kaandha mere taboot ko de akbar e zeeshan
+  Haathoṅ pe chacha jaan ke ho mera janaaza
+  Kaandha mere taabut ko de Akbar-e-Zishaaṅ
 
   8
-  Afsos ke tab pahuncha magar qasid e sughra
-  Jab lut chuka tha khafilaye sarwar e zeeshan
+  Afsos ke tab pahuncha magar qaasid-e-Sughra
+  Jab lut chuka tha qaafila-e-Sarwar-e-Zishaaṅ
 
   9
-  Seene pe sina khaaye pade thay ali akbar
-  Hathon ko kataye tha pada baazu e sultan
+  Sine pe sinaaṅ khaaye pare the Ali Akbar
+  Haathoṅ ko kataaye tha para baazu-e-Sultaaṅ
 
   10
-  Ek teer se pehlu ali asghar ke laga tha
-  Turbat pe buka karte thay baithe shah e zeeshan
+  Ik tir se pehlu Ali Asghar ke laga tha
+  Turbat pe buka karte the baithe Shah-e-Zishaaṅ
 
   11
-  Khat padke jigar phat gaya farzande nabi ka
-  Qasid se kaha ayan hai mere qatl ka samaan
+  Khat parh ke jigar phat gaya Farzand-e-Nabi ka
+  Qaasid se kaha ayaaṅ hai mere qatl ka saamaaṅ
 
   12
-  Abbas o ali akbar o qasim gaye maare
-  Teeron ka sitam jhel gaya asghar e naadan
+  Abbas o Ali Akbar o Qasim gaye maare
+  Tiroṅ ka sitam jhel gaya Asghar-e-naadaaṅ
 
   13
-  Mai teen shab o roz ka pyasa hi marunga
-  Pani pe mera fateha dilwana meri jaan
+  Main tin shab o roz ka pyaasa hi maruṅ ga
+  Paani pe mera Faatiha dilwaana meri jaaṅ
 
   14
-  Ab saath tumhare hai duaye meri sughra
-  Ab tera khuda hafiz o nasir ho meri jaan
+  Ab saath tumhaare haiṅ duaaeṅ meri Sughra
+  Ab tera Khuda haafiz o naasir ho meri jaaṅ
 # source_id: nohayonline:2e9cf6acce54b47f078a
 # source_url: https://www.nohayonline.com/details_content.php?id=48
 # raw_sha256: edc54f2d1967ab7f295463a57e6b27682e832d2468e25f95612043c00d676e6c
@@ -87,24 +88,24 @@ romanLyrics: |-
 کیا آپ بھی بیٹی کو بُھلا بیٹھے چچا جاں
 
 ۴
-آنا ہو تو آ جائو ابھی جان ہے باقی
-صورت کو ترستے ہیں میرے دیدئہ حیراں
+آنا ہو تو آ جاؤ ابھی جان ہے باقی
+صورت کو ترستے ہیں میرے دیدۂ حیراں
 
 ۵
 فرمائیے اکبر سے میری سمت سے بابا
 بھیا یہ بہن آپ کی کچھ دن کی ہے مہماں
 
 ۶
-حسرت ہے کہ اکبر کی بلا لے کہ مروں میں
+حسرت ہے کہ اکبر کی بلا لے کے مروں میں
 ہنگامِ نزع آپ کا ہاتھوں میں ہو دامن
 
 ۷
-ہاتھوں پہ چچا جان کہ ہو میرا جنازہ
-کاندھا میرے تعبوت کو دے اکبرِ ذیشاں
+ہاتھوں پہ چچا جان کے ہو میرا جنازہ
+کاندھا میرے تابوت کو دے اکبرِ ذیشاں
 
 ۸
 افسوس کہ تب پہنچا مگر قاصدِ صُغریٰ
-جب لُٹ چُکا تھا قافلہِ سرورِ ذیشاں
+جب لُٹ چُکا تھا قافلۂ سرورِ ذیشاں
 
 ۹
 سینے پہ سِناں کھائے پڑے تھے علی اکبر
@@ -115,7 +116,7 @@ romanLyrics: |-
 تُربت پہ بُکا کرتے تھے بیٹھے شاہِ ذیشاں
 
 ۱۱
-خط پڑھ کہ جگر پھٹ گیا فرزندِ نبی کا
+خط پڑھ کے جگر پھٹ گیا فرزندِ نبی کا
 قاصد سے کہا عیاں ہے میرے قتل کا ساماں
 
 ۱۲
