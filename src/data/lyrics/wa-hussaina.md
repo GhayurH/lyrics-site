@@ -1,74 +1,79 @@
 ---
 title: "قلب زہرا کا ہے مرہم"
-alternateTitle: "Wa Hussaina"
+alternateTitle: "Wa Husaina"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
-aliases: []
+aliases: ["Wa Hussaina"]
 published: false
 romanLyrics: |-
-  Qalbe zehra ka hai marham
-  Wa hussaina wa hussaina
-  Ye ibadat se nahi kam
+  Qalb-e-Zehra ka hai marham
+  Wa Husaina wa Husaina
+
+  Ye ibaadat se nahiṅ kam
+  Wa Husaina wa Husaina
 
   1
-  Aankh ho gham mein ye purnam
-  Dam bhi nikle to nahi gham
-  Ye ibadat se nahi kam
+  Aaṅkh ho gham mein ye purnam
+  Dam bhi nikle to nahiṅ gham
+  Ye ibaadat se nahiṅ kam
 
   2
   Aaj har dil ki sada hai
-  Majlise aale aba hai
+  Majlis-e-Aal-e-Aba hai
   Kaise hoga kabhi ye kam
 
   3
-  Gham mein doobe hai payambar
-  Rote hai haider e safdar
-  Berida hote hai mehram
+  Gham mein dube haiṅ Payambar
+  Rote haiṅ Haidar-e-Safdar
+  Berida hote haiṅ mehram
 
   4
-  Kehte hai shaah e madina
-  Chid gayi mashk e sakina
-  Dekho abbas ka parcham
+  Kehte haiṅ Shah-e-Madina
+  Chhid gayi mashk-e-Sakina
+  Dekho Abbas ka parcham
 
   5
-  Pyase bachon ki sada hai
-  Ammu kya hum se khafa hai
-  Margaye shaah e zaman hum
+  Pyaase bachchoṅ ki sada hai
+  Ammu kya hum se khafa haiṅ
+  Mar gaye Shah-e-zaman hum
 
   6
-  Ali akbar ka hai matam
-  Ali asghar ka hai matam
-  Hai bahattar ka ye matam
+  Ali Akbar ka hai maatam
+  Ali Asghar ka hai maatam
+  Hai bahattar ka ye maatam
 
   7
-  Matame shaahe huda hai
-  Matame ahle wafa hai
-  Hai ye bemaar ka matam
+  Maatam-e-Shah-e-Huda hai
+  Maatam-e-ahl-e-wafa hai
+  Hai ye bimaar ka maatam
 
   8
-  Dekho roti hai sakina
-  Jaan khoti hai sakina
+  Dekho roti hai Sakina
+  Jaan khoti hai Sakina
   Qaid mein niklega kya dam
 
   9
-  Kaise jee paungi baba
-  Mar gayi bali sakina
-  Ab na zinda rahenge hum
+  Kaise ji paauṅgi baba
+  Mar gayi baali Sakina
+  Ab na zinda raheṅge hum
 
   10
-  Reh gayi fatema sughra
-  Kehti hai fatema zehra
-  Dil ki dhadkan mein hai har dam
+  Reh gayi Fatema Sughra
+  Kehti hai Fatema Zehra
+  Dil ki dharkan mein hai har dam
 # source_id: nohayonline:184dc7031f7d538ec452
 # source_url: https://www.nohayonline.com/details_content.php?id=789
 # raw_sha256: 95c909ae798018c227fd17afa6ca6b79d576320dfbd5b29b80a6dfc8125bbed2
 ---
 قلب زہرا کا ہے مرہم
 وا حُسینا وا حُسینا
+
 یہ عبادت سے نہیں کم
+وا حُسینا وا حُسینا
 
 ۱
 آنکھ ہو غم میں یہ پُرنم
@@ -81,7 +86,7 @@ romanLyrics: |-
 کیسے ہو گا کبھی یہ کم
 
 ۳
-غم میں ڈُوبے ہیں پیعمبر
+غم میں ڈُوبے ہیں پیمبر
 روتے ہیں حیدرِ صفدر
 بے ردا ہوتے ہیں محرم
 
@@ -92,7 +97,7 @@ romanLyrics: |-
 
 ۵
 پیاسے بچوں کی صدا ہے
-عموں کیا ہم سے خفا ہیں
+عمو کیا ہم سے خفا ہیں
 مر گئے شاہِ زمن ہم
 
 ۶
@@ -101,7 +106,7 @@ romanLyrics: |-
 ہے بہتر کا یہ ماتم
 
 ۷
-ماتمِ شاہِ ھُدیٰ ہے
+ماتمِ شاہِ ہدیٰ ہے
 ماتمِ اہلِ وفا ہے
 ہے یہ بیمار کا ماتم
 
@@ -111,11 +116,11 @@ romanLyrics: |-
 قید میں نکلے گا کیا دم
 
 ۹
-کیسے جی پائوں گی بابا
+کیسے جی پاؤں گی بابا
 مر گئی بالی سکینہ
 اب نہ زندہ رہیں گے ہم
 
 ۱۰
-رِہ گئی فاطمہ صغریٰ
+رہ گئی فاطمہ صغریٰ
 کہتی ہے فاطمہ زہرا
 دل کی دھڑکن میں ہے ہر دم

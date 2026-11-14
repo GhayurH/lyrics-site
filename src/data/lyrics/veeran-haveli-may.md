@@ -1,50 +1,51 @@
 ---
 title: "یہ کیسی اُداسی ہے"
-alternateTitle: "Veeran Haveli May"
+alternateTitle: "Viraan Haveli Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Jawad Jaffri"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
-aliases: []
+aliases: ["Veeran Haveli May"]
 published: false
 romanLyrics: |-
-  Ye kaise udaasi hai
-  Veeran haveli mein sughra ghabrati hai
-  Ab laut ke aa akbar bemaar bulati hai
+  Ye kaisi udaasi hai
+  Viraan haveli mein Sughra ghabraati hai
+  Ab laut ke aa Akbar bimaar bulaati hai
 
   1
-  Pardes gaye aise sughra ki na yaad aayi
-  Nana ke rouze pe faryad sunati hai
+  Pardes gaye aise Sughra ki na yaad aayi
+  Naana ke rauze pe faryaad sunaati hai
 
   2
-  Qadmon ke nishano ko kabhi dekh ke roti hai
-  Asghar ka kabhi jhoola bemaar jhulati hai
+  Qadmoṅ ke nishaanoṅ ko kabhi dekh ke roti hai
+  Asghar ka kabhi jhula bimaar jhulaati hai
 
   3
-  Khushiyon ki ghadi aayegi jab aaoge akbar
-  Sughra ye sada deti thi kab aaoge akbar
-  Bemaar ki saanson ka bhala kya hai bharosa
-  Dam mera nikal jayega kab aaoge akbar
-  Ab in deewaron mein dam ghut'ta hai sughra ka
-  Le ke naam akbar ka wo ashq bahati hai
+  Khushiyoṅ ki ghari aayegi jab aaoge Akbar
+  Sughra ye sada deti thi kab aaoge Akbar
+  Bimaar ki saaṅsoṅ ka bhala kya hai bharosa
+  Dam mera nikal jaayega kab aaoge Akbar
+  Ab in divaaroṅ mein dam ghutta hai Sughra ka
+  Le ke naam Akbar ka wo ashk bahaati hai
 
   4
-  Akbar ki shaadi ka layenge payaam chacha
-  Is aas pe wo sehre bhai ke banati hai
+  Akbar ki shaadi ka laayeṅge payaam chacha
+  Is aas pe wo sehre bhai ke banaati hai
 
   5
-  Qadmon ke nishan choom ke din kaat rahi hai
-  Akbar teri yaadon ki satayi hui sughra
-  Roti hai tere yaad mein soti nahi shab bhar
-  Bechain hai khabon ki taraai hui sughra
-  Uljha hua barchi mein akbar ka jigar dekha
-  Is khaab ki sughra ko tabeer rulaati hai
+  Qadmoṅ ke nishaaṅ chum ke din kaat rahi hai
+  Akbar teri yaadoṅ ki sataayi hui Sughra
+  Roti hai tere yaad mein soti nahiṅ shab bhar
+  Bechain hai khwaaboṅ ki taraayi hui Sughra
+  Uljha hua barchhi mein Akbar ka jigar dekha
+  Is khwaab ki Sughra ko taabir rulaati hai
 
   6
-  Jab shaam ke dhalte hi bad jaati hai tanhaai
-  Jawaad diye sughra ashkon ke jalati hai
+  Jab shaam ke dhalte hi barh jaati hai tanhaai
+  Jawaad diye Sughra ashkoṅ ke jalaati hai
 # source_id: nohayonline:d53cfca53d59b29f9064
 # source_url: https://www.nohayonline.com/details_content.php?id=680
 # raw_sha256: d8415d02eb533d3cfa22f266fad9804d457ceb7d82ed3269927fd92edac89392
@@ -62,10 +63,10 @@ romanLyrics: |-
 اصغر کا کبھی جھُولا بیمار جھُلاتی ہے
 
 ۳
-خوشیوں کی گھڑی آےگی جب آؤ گے اکبر
+خوشیوں کی گھڑی آئے گی جب آؤ گے اکبر
 صغرا یہ صدا دیتی تھی کب آؤ گے اکبر
 بیمار کی سانسوں کا بھلا کیا ہے بھروسہ
-دم میرا نکل جاے گا کب آؤ گے اکبر
+دم میرا نکل جائے گا کب آؤ گے اکبر
 اب ان دیواروں میں دم گھُٹتا ہے صغریٰ کا
 لے کے نام اکبر کا وہ اشک بہاتی ہے
 
@@ -75,12 +76,12 @@ romanLyrics: |-
 
 ۵
 قدموں کے نشاں چوم کے دن کاٹ رہی ہے
-اکبر تیری یادوں کی ستای ہوی صغرا
+اکبر تیری یادوں کی ستائی ہوئی صغرا
 روتی ہے تیرے یاد میں سوتی نہیں شب بھر
-بے چین ہے خوابوں کی ترای ہوی صغرا
+بے چین ہے خوابوں کی ترائی ہوئی صغرا
 اُلجھا ہوا برچھی میں اکبر کا جگر دیکھا
 اس خواب کی صغریٰ کو تعبیر رُلاتی ہے
 
 ۶
-شام کے ڈھلتے ہی بڑھ جاتی ہے تنہائیجب
+جب شام کے ڈھلتے ہی بڑھ جاتی ہے تنہائی
 جواد دیئے صغریٰ اشکوں کے جلاتی ہے

@@ -1,64 +1,65 @@
 ---
-title: "ہاے وہ بے کسی"
-alternateTitle: "Wa Hassan Sabz Qaba"
+title: "ہائے وہ بے کسی"
+alternateTitle: "Wa Hasan Sabz Qaba"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
-aliases: []
+aliases: ["Wa Hassan Sabz Qaba"]
 published: false
 romanLyrics: |-
-  Haye wo bekasi
-  Maqtal se aaya laasha e qasim
-  Bhai hassan ki yaad satane lagi
-  Zainab ne roke laasha e qasim pe ki buka
+  Haaye wo bekasi
+  Maqtal se aaya laasha-e-Qasim
+  Bhai Hasan ki yaad sataane lagi
+  Zainab ne ro ke laasha-e-Qasim pe ki buka
+  Wa Hasan sabz qaba bekhata Qasima
 
   1
-  Wa hassan sabz qaba be khata qasima
-  Kal tera jigar tukdon mein bata tha
-  Aaj tera qasim tukdon mein bat gaya
+  Kal tera jigar tukroṅ mein bata tha
+  Aaj tera Qasim tukroṅ mein bat gaya
 
   2
-  Dunya ne tujhko chain se rehne diya
-  Tujhko zehar diya ye sitam khatm na hua
-  Ye zulm chalte chalte qasim tak aa gaya
+  Dunya ne tujhko chain se rehne nahiṅ diya
+  Tujhko zehr diya ye sitam khatm na hua
+  Ye zulm chalte chalte Qasim tak aa gaya
 
   3
-  Ummat ne tere saath bada zulm ye kiya
-  Tukde hua kaleja tera wa musibata
-  Maqtal mein tera qasim tukdon mein batgaya
+  Ummat ne tere saath bara zulm ye kiya
+  Tukre hua kaleja tera wa musibata
+  Maqtal mein tera Qasim tukroṅ mein bat gaya
 
   4
-  Tha chand fatema ka sitam ki ghataon mein
-  Ghar se chala janaza to teero ki chaon mein
-  Qasim ka laasha dhoop mein pamaal hogaya
+  Tha chaand Fatema ka sitam ki ghataaoṅ mein
+  Ghar se chala janaaza to tiroṅ ki chhaaṅoṅ mein
+  Qasim ka laasha dhup mein paamaal ho gaya
 
   5
-  Tujhpar salaam ay mere mazloom tar aqi
+  Tujh par salaam ae mere mazlum tar akhi
   Qasim ki tarbiyat mein kami koi na rakhi
-  Akbar se pehle sheh pe qurban hogaya
+  Akbar se pehle Shah pe qurbaan ho gaya
 
   6
-  Lekin tujhe kafan to meinasar tha bhai jaan
-  Qasim to be-kafan hi gaya chod kar jahan
-  Kyunkar na mere lab pe har dam ho ye buka
+  Lekin tujhe kafan to muyassar tha bhai jaaṅ
+  Qasim to bekafan hi gaya chhor kar jahaaṅ
+  Kiunkar na mere lab par har dam ho ye buka
 
   7
-  Izne wigha hussain se jab mil nahi saka
-  Taveez tera saath mein laaya wo mehlaqa
-  Dil thaam kar hussain ne be-saakhta kaha
+  Izn-e-wagha Husain se jab mil nahiṅ saka
+  Taaviz tera saath mein wo laaya mah laqa
+  Dil thaam kar Husain ne besaakhta kaha
 
   8
-  Paywast jitne teer thay taboot mein tere
-  Utne hi zakhm qasim e dilgeer ko lage
+  Paivast jitne tir the taabut mein tere
+  Utne hi zakhm Qasim dilgir ko lage
   Farwa ke lab pe aaya is gham se marsiya
 
   9
-  Zainab ne roke mazhar o farhan ye kaha
-  Bhai hassan ka daaghe judaai hara hua
-  Ahle haram ne laasha e qasim pe ki buka
+  Zainab ne ro ke Mazhar o Farhan ye kaha
+  Bhai Hasan ka daagh-e-judaai hara hua
+  Ahl-e-haram ne laasha-e-Qasim pe ki buka
 # source_id: nohayonline:7494766c847d882b0e29
 # source_url: https://www.nohayonline.com/details_content.php?id=975
 # raw_sha256: 260adc28cf4dfc60a5079b2c41d41d5cef2df4de6309c2eb99cc64f23cd58f94
@@ -67,9 +68,9 @@ romanLyrics: |-
 مقتل سے آیا لاشہء قاسم
 بھائی حسن کی یاد ستانے لگی
 زینب نے روکے لاشہء قاسم پہ کی بکا
+وا حسن سبز قبا بے خطا قاسما
 
 ۱
-وا حسن سبز قبا بے خطا قاسما
 کل تیرا جگر ٹکڑوں میں بٹا تھا
 آج تیرا قاسم ٹکڑوں میں بٹ گیا
 
