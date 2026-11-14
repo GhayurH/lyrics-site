@@ -41,6 +41,10 @@ romanLyrics: |-
 # source_id: nohayonline:97df68aaee7852ea7793
 # source_url: https://www.nohayonline.com/details_content.php?id=3006
 # raw_sha256: cdb5bc53efff09bb69eabc17c190ff92ee6045c96ef917b2448d7052de21fe70
+# additional_source_id: nohawriteups:165979e899de5445d1f4
+# additional_source_url: https://www.nohawriteups.org/21-ramzan-noha-farhan-ali-waris-masjid-e-kufa-hai-rozadar-hai-lyrics/
+# additional_raw_sha256: 165979e899de5445ea0b13cd415f2ad59d9033cf95b681a32403
+# additional_source_note: Recovered entire Urdu track from standalone archived HTML fragment; same five substantive stanzas already present, repeated refrain removed.
 ---
 مسجد کوفہ ہے روزہ دار ہے
 فرق سے اونچی لہو کی دھار ہے
