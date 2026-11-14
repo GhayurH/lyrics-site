@@ -6,94 +6,108 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Salman Azmi"
+reciter: "Mesum Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Acha hai teri beenayi nahi
-  Tu dekh nahi paata jabir
-  Thi binte ali bazaron may
-  Be maqna o be parda jabir
+  Achchha hai teri binaai nahiṅ
+  Tu dekh nahiṅ paata Jabir
+
+  Thi Bint-e-Ali bazaaroṅ mein
+  Be maqna o be parda Jabir
+  Tu dekh nahiṅ paata Jabir
 
   1
-  Jabir ye zameen e karbobala
-  Zahra ka yahan gulshan bikhra
-  Jis jaa pe khade ho tum jabir
-  Ghode se yahin abbas gira
-  Pyasi thi bhatiji qaime may
-  Be baazu hua saqqa jabir
+  Jabir ye zamin-e-Karbobala
+  Zahra ka yahaaṅ gulshan bikhra
+  Jis jaa pe khare ho tum Jabir
+  Ghore se yahiṅ Abbas gira
+  Pyaasi thi bhatiji khaime mein
+  Be baazu hua saqqa Jabir
+  Tu dekh nahiṅ paata Jabir
 
   2
-  Athara baras ka bhai mera
-  Seene may lagi naize ki ani
-  Jabir ye sunoge kis tarha
-  Shabbir ki bhi beenayi gayi
-  Bas ek qadam hi chalte thay
-  Girte thay mere maula jabir
+  Athaara baras ka bhaai mera
+  Sine mein lagi naize ki ani
+  Jabir ye sunoge kis tarah
+  Shabbir ki bhi binaai gayi
+  Bas ek qadam hi chalte the
+  Girte the mere Maula Jabir
+  Tu dekh nahiṅ paata Jabir
 
   3
-  Akbar asghar qasim na rahe
-  Thay aun o mohamed ke laashe
-  Is par bhi ruki na jor o jafa
-  Sab ke laashe pamaal huwe
+  Akbar Asghar Qasim na rahe
+  The Aun o Muhammad ke laashe
+  Is par bhi ruki na jaur o jafa
+  Sab ke laashe paamaal hue
   Shabbir pe chalta tha khanjar
-  Zainab thi sar e qaima jabir
+  Zainab thi sar-e-khaima Jabir
+  Tu dekh nahiṅ paata Jabir
 
   4
-  Phir shaam e ghariban aa pahunchi
-  Qaimon ko jalaya aada ne
-  Phupiyon ki ridaon ko meri
-  Naizon se utaara aada ne
-  Jalta tha sakina ka kurta
-  Asghar ka kahin jhoola jabir
+  Phir shaam-e-gharibaaṅ aa pahunchi
+  Khaimoṅ ko jalaaya aada ne
+  Phuphiyoṅ ki ridaaoṅ ko meri
+  Naizoṅ se utaara aada ne
+  Jalta tha Sakina ka kurta
+  Asghar ka kahiṅ jhula Jabir
+  Tu dekh nahiṅ paata Jabir
 
   5
-  Aaghaz e imamat tha mera
-  Tohfe may milay zanjeer o rasan
-  Poshak yateemi ki pehne
-  Zakhmon se bhara tha mera badan
-  Gardan ka lahoo pairon se baha
-  Ye waqt bhi tha aaya jabir
+  Aaghaaz-e-imaamat tha mera
+  Tohfe mein mile zanjir o rasan
+  Poshaak-e-yatimi ki pehne
+  Zakhmoṅ se bhara tha mera badan
+  Gardan ka lahu pairoṅ se baha
+  Ye waqt bhi tha aaya Jabir
+  Tu dekh nahiṅ paata Jabir
 
   6
-  Bazaar ka haal suno jabir
-  Pathar thay kabhi sholay thay kabhi
-  Ummat thi tamashayi saari
-  Aur aale mohamed thay qaidi
-  Aur habshi ghulamon ki tarha
-  Bazaron may khayncha jabir
+  Baazaar ka haal suno Jabir
+  Patthar the kabhi shole the kabhi
+  Ummat thi tamaashaai saari
+  Aur Aal-e-Muhammad the qaidi
+  Aur habshi ghulaamoṅ ki tarah
+  Baazaaroṅ mein khincha Jabir
+  Tu dekh nahiṅ paata Jabir
 
   7
-  Bazaar hua jab khatm to phir
-  Darbar qayamat laaya tha
-  Darbari sharabi majme may
-  Zainab ko pukara jaata tha
-  Paigham e hussaini ki khaatir
-  Jaise wo rahi zinda jabir
+  Baazaar hua jab khatm to phir
+  Darbaar qayaamat laaya tha
+  Darbaari sharaabi majme mein
+  Zainab ko pukaara jaata tha
+  Paighaam-e-Husaini ki khaatir
+  Jaise wo rahi zinda Jabir
+  Tu dekh nahiṅ paata Jabir
 
   8
-  Hasrat thi rehaai ki jis ko
-  Zindan se reha wo ho na saki
-  Darti thi andhere se bacchi
-  Turbat bhi andhere may hi bani
-  Zindan may sakina ka haye
-  Haathon pe tha jab laasha jabir
+  Hasrat thi rihaai ki jis ko
+  Zindaṅ se riha wo ho na saki
+  Darti thi andhere se bachchi
+  Turbat bhi andhere mein hi bani
+  Zindaṅ mein Sakina ka haaye
+  Haathoṅ pe tha jab laasha Jabir
+  Tu dekh nahiṅ paata Jabir
 
   9
-  Salman karega kaise bayan
-  Mesum jo mere maula ne kaha
-  Beenayi meri ruqsat na hui
-  Aankhon se magar khoon itna baha
-  Aankhon ke lahoo se surkh hua
-  Tha shaam ka sab rasta jabir
+  Salman karega kaise bayaaṅ
+  Maisam jo mere Maula ne kaha
+  Binaai meri rukhsat na hui
+  Aaṅkhoṅ se magar khuṅ itna baha
+  Aaṅkhoṅ ke lahu se surkh hua
+  Tha Shaam ka sab rasta Jabir
+  Tu dekh nahiṅ paata Jabir
 # source_id: nohayonline:858c78c11afa8fcea6a0
 # source_url: https://www.nohayonline.com/details_content.php?id=2539
 # raw_sha256: c796770b07704e209437c29baf571cf3fcaf6a1f5054b33d823b56fc1f9c0105
 ---
 اچھا ہے تیری بینائی نہیں
 تو دیکھ نہیں پاتا جابر
+
 تھی بنت علی بازاروں میں
 بے مقنہ و بے پردہ جابر
+تو دیکھ نہیں پاتا جابر
 
 ۱
 جابر یہ زمین کربوبلا
@@ -102,22 +116,25 @@ romanLyrics: |-
 گھوڑے سے یہی عباس گرا
 پیاسی تھی بھتیجی خیمے میں
 بے بازو ہوا سقہ جابر
+تو دیکھ نہیں پاتا جابر
 
 ۲
-اٹھارہ برس کا بھای میرا
+اٹھارہ برس کا بھائی میرا
 سینے میں لگی نیزے کی انی
 جابر یہ سنو گے کس طرح
-شبیر کی بھی بینائی گیء
+شبیر کی بھی بینائی گئی
 بس ایک قدم ہی چلتے تھے
 گرتے تھے میرے مولا جابر
+تو دیکھ نہیں پاتا جابر
 
 ۳
 اکبر اصغر قاسم نہ رہے
-تھے عون و کے لاشے
+تھے عون و محمد کے لاشے
 اس پر بھی رکی نہ جور و جفا
-سب کے لاشے پامال ہوے
+سب کے لاشے پامال ہوئے
 شبیر پہ چلتا تھا خنجر
 زینب تھی سر خیمہ جابر
+تو دیکھ نہیں پاتا جابر
 
 ۴
 پھر شام غریباں آ پہنچی
@@ -126,6 +143,7 @@ romanLyrics: |-
 نیزوں سے اتارا اعدا نے
 جلتا تھا سکینہ کا کرتہ
 اصغر کا کہیں جھولا جابر
+تو دیکھ نہیں پاتا جابر
 
 ۵
 آغاز امامت تھا میرا
@@ -134,6 +152,7 @@ romanLyrics: |-
 زخموں سے بھرا تھا میرا بدن
 گردن کا لہو پیروں سے بہا
 یہ وقت بھی تھا آیا جابر
+تو دیکھ نہیں پاتا جابر
 
 ۶
 بازار کا حال سنو جابر
@@ -142,27 +161,31 @@ romanLyrics: |-
 اور آل محمد تھے قیدی
 اور حبشی غلاموں کی طرح
 بازاروں میں کھینچا جابر
+تو دیکھ نہیں پاتا جابر
 
 ۷
 بازار ہوا جب ختم تو پھر
 دربار قیامت لایا تھا
-درباری شرابی مجمے میں
+درباری شرابی مجمعے میں
 زینب کو پکارا جاتا تھا
 پیغام حسینی کی خاطر
 جیسے وہ رہی زندہ جابر
+تو دیکھ نہیں پاتا جابر
 
 ۸
 حسرت تھی رہائی کی جس کو
 زنداں سے رہا وہ ہو نہ سکی
 ڈرتی تھی اندھیرے سے بچی
 تربت بھی اندھیرے میں ہی بنی
-زنداں میں سکینہ کا ہاے
+زنداں میں سکینہ کا ہائے
 ہاتھوں پہ تھا جب لاشہ جابر
+تو دیکھ نہیں پاتا جابر
 
 ۹
 سلمان کرے گا کیسے بیاں
 میثم جو میرے مولا نے کہا
-بینائی میری رخصت نہ ہوی
+بینائی میری رخصت نہ ہوئی
 آنکھوں سے مگر خوں اتنا بہا
 آنکھوں کے لہو سے سرخ ہوا
 تھا شام کا سب رستہ جابر
+تو دیکھ نہیں پاتا جابر

@@ -1,77 +1,80 @@
 ---
 title: "مرحبا حسین مرحبا"
-alternateTitle: "Tu Jise Hussain"
+alternateTitle: "Tu Jise Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
-aliases: []
+aliases: ["Tu Jise Hussain"]
 published: false
 romanLyrics: |-
-  Marhaba hussain marhaba
+  Marhaba Husain marhaba
   Teri shaan marhaba
   Marhaba
-  Tu jise hussain mil gaya
-  Usko kainaat mil gayi
+  Tu jise Husain mil gaya
+  Us ko kaainaat mil gayi
+
   Mar ke bhi hayaat mil gayi
+  Tu jise Husain mil gaya
 
   1
-  Kibriya ka tu yaqeen hai
-  Tere har amal mein deen hai
-  Ismaton ka sheh nasheen hai
-  Ambiya ka janasheen hai
+  Kibriya ka tu yaqin hai
+  Tere har amal mein din hai
+  Ismatoṅ ka shah nashiṅ hai
+  Ambiya ka jaanashin hai
   Bas use nijaat mil gayi
 
   2
-  Martaba nabi se poochiye
-  Kya hai bandagi se poochiye
-  Aam aadmi se poochiye
-  Hurr ki zindagi se poochiye
-  Khuld haaton haath mil gayi
+  Martaba Nabi se puchhiye
+  Kya hai bandagi se puchhiye
+  Aam aadmi se puchhiye
+  Hurr ki zindagi se puchhiye
+  Khuld haathoṅ haath mil gayi
 
   3
-  Kul jahan ka kaarsaaz hai
-  Sar kata ke sarfaraz hai
-  Tera zikr bhi namaz hai
-  Tu shariyaton ka naaz hai
-  Saari deeniyat mil gayi
+  Kul jahaaṅ ka kaarsaaz hai
+  Sar kata ke sarfaraaz hai
+  Tera zikr bhi namaaz hai
+  Tu shariatoṅ ka naaz hai
+  Saari diniyaat mil gayi
 
   4
-  As salaam waaris e khaleel
-  Kyun na madhakhwan ho jibraeel
-  Hai tera karam bahot taweel
-  Hai mina ki raunaqein daleel
-  Noor ki baraat mil gayi
+  As salaam waaris-e-Khalil
+  Kiuṅ na madh khwaaṅ ho Jibrail
+  Hai tera karam bahut tawil
+  Hai Mina ki raunaqeṅ dalil
+  Nur ki baraat mil gayi
 
   5
-  Aaeena hai tu shauoor ka
-  Tarjumaan hai zaboor ka
-  Aks hai khuda ke noor ka
-  Fakhr hai kaleem e toor ka
+  Aaina hai tu shuur ka
+  Tarjumaan hai Zabur ka
+  Aks hai Khuda ke nur ka
+  Fakhr hai Kalim-e-Tur ka
   Kibriya ki zaat mil gayi
 
   6
   Tere ishq ne misaal di
   Sab ki zindagi sambhaal di
   Haq ne ye hayaat dhaal di
-  Bandagi mein jaan daaldi
-  Rooh e wajibaat mil gayi
+  Bandagi mein jaan daal di
+  Ruh-e-waajibaat mil gayi
 
   7
-  Jab tere khareeb aa gaya
-  Joun noor mein naha gaya
-  Yusufon ke dil pe cha gaya
-  Shehr e misr tilmila gaya
+  Jab tere qarib aa gaya
+  Jaun nur mein nahaa gaya
+  Yusufoṅ ke dil pe chhaa gaya
+  Shahr-e-Misr tilmila gaya
   Husn ko zakaat mil gayi
 
   8
-  Aamir akhtar aur tera gham
-  Dil mein karbala hai mohtaram
-  Be-hisaab hai tere karam
-  Kya darein kisi bala se hum
-  Radde mushkilaat mil gayi
+  Aamir Akhtar aur tera gham
+  Dil mein Karbala hai mohtaram
+  Behisaab hai tere karam
+  Kya dareṅ kisi bala se ham
+  Radd-e-mushkilaat mil gayi
 # source_id: nohayonline:f4f92e7185426b13f230
 # source_url: https://www.nohayonline.com/details_content.php?id=1800
 # raw_sha256: bc19e8408f6f673b2e5fa8652871e8e252d89ec115d704e3eda6124475fb26ba
@@ -80,61 +83,63 @@ romanLyrics: |-
 تیری شان مرحبا
 مرحبا
 تو جسے حسین مل گیا
-اسکو کاینات مل گیء
-مر کے بھی حیات مل گیء
+اس کو کائنات مل گئی
+
+مر کے بھی حیات مل گئی
+تو جسے حسین مل گیا
 
 ۱
 کبریا کا تو یقین ہے
 تیرے ہر عمل میں دین ہے
 عصمتوں کا شہ نشیں ہے
 انبیاء کا جانشین ہے
-بس اسے نجات مل گیء
+بس اسے نجات مل گئی
 
 ۲
-مرتبہ نبی سے پوچھیےء
-کیا ہے بندگی سے پوچھیےء
-آم آدمی سے پوچھیےء
-حر کی زندگی سے پوچھیےء
-خلد ہاتھوں ہاتھ مل گیء
+مرتبہ نبی سے پوچھیے
+کیا ہے بندگی سے پوچھیے
+عام آدمی سے پوچھیے
+حر کی زندگی سے پوچھیے
+خلد ہاتھوں ہاتھ مل گئی
 
 ۳
 کل جہاں کا کارساز ہے
 سر کٹا کے سرفراز ہے
 تیرا ذکر بھی نماز ہے
 تو شریعتوں کا ناز ہے
-ساری دینیات مل گیء
+ساری دینیات مل گئی
 
 ۴
 السلام وارث خلیل
-کیوں نہ مدح خواں ہو جبرییل
+کیوں نہ مدح خواں ہو جبرائیل
 ہے تیرا کرم بہت طویل
 ہے منا کی رونقیں دلیل
-نور کی برات مل گیء
+نور کی برات مل گئی
 
 ۵
-آیینہ ہے تو شعور کا
+آئینہ ہے تو شعور کا
 ترجمان ہے زبور کا
 عکس ہے خدا کے نور کا
-فقر ہے کلیم طور کا
-کبریا کی ذات مل گیء
+فخر ہے کلیم طور کا
+کبریا کی ذات مل گئی
 
 ۶
 تیرے عشق نے مثال دی
 سب کی زندگی سنبھال دی
 حق نے یہ حیات ڈھال دی
 بندگی میں جان ڈال دی
-روح واجبات مل گیء
+روح واجبات مل گئی
 
 ۷
 جب تیرے قریب آ گیا
 جون نور میں نہا گیا
 یوسف کے دل پہ چھا گیا
-شہر مصرتلملا گیا
-حسن کو زکات مل گیء
+شہر مصر تلملا گیا
+حسن کو زکات مل گئی
 
 ۸
 عامر اختر اور تیرا غم
 دل میں کربلا ہے محترم
 بے حساب ہے تیرے کرم
 کیا ڈریں کسی بلا سے ہم
-رد مشکلات مل گیء
+رد مشکلات مل گئی
