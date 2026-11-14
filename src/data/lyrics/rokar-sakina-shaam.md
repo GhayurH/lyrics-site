@@ -6,40 +6,41 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Muhammad Zaki"
+reciter: "Anj. Hyderi Ali Basti"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Rokar sakina shaam ke zindan mein mar gayi
-  Bano ke dil pe goya qayamat guzar gayi
+  Rokar Sakina Shaam ke zindaaṅ meiṅ mar gayi
+  Baano ke dil pe goya qayaamat guzar gayi
 
   1
-  Aale nabi pe tooti qayamat ye shaam mein
-  Abbas ki chaheeti sakina guzar gayi
+  Aal-e-Nabi pe tuti qayaamat ye Shaam meiṅ
+  Abbas ki chahiti Sakina guzar gayi
 
   2
-  Shimre layeen ne cheene thay gohar kuch is tarha
-  Nanhi kameez khoon mein sakina ki bhar gayi
+  Shimr-e-lain ne chhine the gauhar kuchh is tarah
+  Nanhi qamiz khun meiṅ Sakina ki bhar gayi
 
   3
-  Zainab tadap ke reh gayi poocha sakina ne
-  Sar se phupi tumhare rida kyun utar gayi
+  Zainab tarap ke reh gayi puchha Sakina ne
+  Sar se phuphi tumhaare rida kiuṅ utar gayi
 
   4
-  Naiza ruka pukara sare shaahe karbala
-  Zainab karo talaash sakina kidhar gayi
+  Naiza ruka pukaara sar-e-Shah-e-Karbala
+  Zainab karo talaash Sakina kidhar gayi
 
   5
-  Zindan mein jab sakina ne paaya sare hussain
-  Moo par padar ke moo ko rakha aur mar gayi
+  Zindaan meiṅ jab Sakina ne paaya sar-e-Husain
+  Muṅh par padar ke muṅh ko rakha aur mar gayi
 
   6
-  Ab to yazeed soyega raaton ko chayn se
-  Roti thi roz o shab jo wo bachi guzar gayi
+  Ab to Yazid soega raatoṅ ko chain se
+  Roti thi roz o shab jo wo bachchi guzar gayi
 
   7
-  Karbobala se shaam ke darbar tak zaki
-  Sabr o raza ke saath sakina guzar gayi
+  Karb o Bala se Shaam ke darbaar tak Zaki
+  Sabr o raza ke saath Sakina guzar gayi
 # source_id: nohayonline:4cb7b63e9cafaf550c7f
 # source_url: https://www.nohayonline.com/details_content.php?id=1045
 # raw_sha256: 7ff4ab2ec0f58246d898c212b4c715f1b0c96b9d36d419069331aa59a1f66b05
@@ -56,7 +57,7 @@ romanLyrics: |-
 
 ۲
 شمر لعین نے چھینے تھے گوہر کچھ اس طرح
-نننھی قمیض خون میں سکینہ کی بھر گئی
+ننھی قمیض خون میں سکینہ کی بھر گئی
 
 ۳
 زینب تڑپ کے رہ گئی پوچھا سکینہ نے
@@ -68,12 +69,12 @@ romanLyrics: |-
 
 ۵
 زندان میں جب سکینہ نے پایا سر حسین
-منہ پر پتھر کے منہ کو رکھا اور مر گئی
+منہ پر پدر کے منہ کو رکھا اور مر گئی
 
 ۶
-اب تو یزید سوے گا راتوں کو چین سے
+اب تو یزید سوئے گا راتوں کو چین سے
 روتی تھی روز و شب جو وہ بچی گزر گئی
 
 ۷
 کرب و بلا سے شام کے دربار تک زکی
-صبر و رضا کے ساتھ سکینہ گزر گئی۔۔۔
+صبر و رضا کے ساتھ سکینہ گزر گئی

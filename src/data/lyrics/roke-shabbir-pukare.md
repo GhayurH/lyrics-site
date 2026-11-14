@@ -6,59 +6,60 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mubarak Jalalpuri"
+reciter: "Mir Rehan Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Roke shabbir pukare ke khuda khair kare
-  
+  Ro ke Shabbir pukaare ke Khuda khair kare
+
   1
-  Tu ne islam pe ghar baar lutaaya apna
-  Ab to dunya mein tumhara nahi koi bhi bacha
-  Haye bahcon ki satane lage mujhko sadme
-  Ab nazar aate nahi aun o mohamed zainab
-  
+  Tu ne Islam pe ghar baar lutaaya apna
+  Ab to dunya meiṅ tumhaara nahiṅ koi bhi bachcha
+  Haaye bachchoṅ ki sataane lage mujh ko sadme
+  Ab nazar aate nahiṅ Aun o Muhammad Zainab
+
   2
-  Aarzu thi meri zinda rahe dono bache
-  Meri hamsheer gharana tera abaad rahe
-  Ye na dunya mein rahenge to jiyogi kaise
-  Ab nazar aate nahi aun o mohamed zainab
-  
+  Aarzu thi meri zinda rahe donoṅ bachche
+  Meri hamshir gharaana tera aabaad rahe
+  Ye na dunya meiṅ raheṅge to jiyogi kaise
+  Ab nazar aate nahiṅ Aun o Muhammad Zainab
+
   3
-  Jaane kyun dil mera seene mein dhadakta hai bahot
-  Ho bayan kaise kaleja mera phat'ta hai bahot
-  Chaahta hoo ke salamat rahe pyase bache
-  Ab nazar aate nahi aun o mohamed zainab
-  
+  Jaane kiuṅ dil mera sine meiṅ dharakta hai bahut
+  Ho bayaaṅ kaise kaleja mera phatta hai bahut
+  Chaahta huṅ ke salaamat rahe pyaase bachche
+  Ab nazar aate nahiṅ Aun o Muhammad Zainab
+
   4
-  Zinda phir aun o mohamed ko kahan payenge
-  Jab sitamgar sumein aspa se kuchal daalenge
-  Kamsini unki rulaati hai mujhe reh reh ke
-  Ab nazar aate nahi aun o mohamed zainab
-  
+  Zinda phir Aun o Muhammad ko kahaaṅ paaeṅge
+  Jab sitamgar sumeiṅ aspa se kuchal daaleṅge
+  Kamsini un ki rulaati hai mujhe reh reh ke
+  Ab nazar aate nahiṅ Aun o Muhammad Zainab
+
   5
-  Kamsini mein bhi wo maqtal ko sidhaare zainab
-  Ab na aayenge palat kar wo dulaare zainab
-  Haye sehra e atash mein tere bache hai giray
-  Ab nazar aate nahi aun o mohamed zainab
-  
+  Kamsini meiṅ bhi wo maqtal ko sidhaare Zainab
+  Ab na aaeṅge palat kar wo dulaare Zainab
+  Haaye sehra-e-atash meiṅ tere bachche hai gire
+  Ab nazar aate nahiṅ Aun o Muhammad Zainab
+
   6
-  Jis ghadi aun o mohamed ke khareeb ye pahunche
-  Dekhe jaate nahi shabbir se zakhmi laashe
-  Dono laashon se lipat kar shahe waala bolay
-  Ab nazar aate nahi aun o mohamed zainab
-  
+  Jis ghari Aun o Muhammad ke qarib ye pahunche
+  Dekhe jaate nahiṅ Shabbir se zakhmi laashe
+  Donoṅ laashoṅ se lipat kar Shah-e-waala bole
+  Ab nazar aate nahiṅ Aun o Muhammad Zainab
+
   7
-  Haye laashon se lipat kar shahe waala ne kaha
-  Maangi kyun aalam e tifli mein bhi marne ki riza
-  Mayyatein saani e zehra ko dikhaun kaise
-  Ab nazar aate nahi aun o mohamed zainab
-  
+  Haaye laashoṅ se lipat kar Shah-e-waala ne kaha
+  Maangi kiuṅ aalam-e-tifli meiṅ bhi marne ki raza
+  Mayyateiṅ Saani-e-Zehra ko dikhaauṅ kaise
+  Ab nazar aate nahiṅ Aun o Muhammad Zainab
+
   8
-  Bole kis tarha se zainab ko dikhaun mai bhala
-  Ay mubarak liye laashon ko chale shaahe huda
-  Dar talak pahunche ay rehan wo kehte kehte
-  Ab nazar aate nahi aun o mohamed zainab
+  Bole kis tarah se Zainab ko dikhaauṅ main bhala
+  Ae Mubarak liye laashoṅ ko chale Shah-e-Huda
+  Dar talak pahunche ae Rehan wo kehte kehte
+  Ab nazar aate nahiṅ Aun o Muhammad Zainab
 # source_id: nohayonline:e2567220a934941a219d
 # source_url: https://www.nohayonline.com/details_content.php?id=2100
 # raw_sha256: 253bf0d135a581009704a38247c2929694a7324b1b47fddf22ceda63dd1df535
@@ -69,7 +70,7 @@ romanLyrics: |-
 ۱
 تو نے اسلام پہ گھر بار لٹایا اپنا
 اب تو دنیا میں تمہارا نہیں کوئی بھی بچہ
-ہاے بچوں کی ستانے لگے مجھکو صدمے
+ہائے بچوں کی ستانے لگے مجھ کو صدمے
 اب نظر آتے نہیں عون و محمد زینب
 
 ۲
@@ -85,15 +86,15 @@ romanLyrics: |-
 اب نظر آتے نہیں عون و محمد زینب
 
 ۴
-زندہ پھر عون و محمد کو کہاں پاییں گے
+زندہ پھر عون و محمد کو کہاں پائیں گے
 جب ستمگر سمے اسپ سے کچل ڈالیں گے
 کمسن انکی رلاتی ہے مجھے رہ رہ کے
 اب نظر آتے نہیں عون و محمد زینب
 
 ۵
 کمسنی میں بھی وہ مقتل کو سدھارے زینب
-اب نہ آییں گے پلٹ کر وہ دلارے زینب
-ہاے صحرے عطش میں تیرے بچے ہے گرے
+اب نہ آئیں گے پلٹ کر وہ دلارے زینب
+ہائے صحرے عطش میں تیرے بچے ہے گرے
 اب نظر آتے نہیں عون و محمد زینب
 
 ۶
@@ -103,13 +104,13 @@ romanLyrics: |-
 اب نظر آتے نہیں عون و محمد زینب
 
 ۷
-ہاے لاشوں سے لپٹ کر شہ والا نے کہا
+ہائے لاشوں سے لپٹ کر شہ والا نے کہا
 مانگی کیوں عالم طفلی میں بھی مرنے کی رضا
-میتیں ثانیء زہرا کو دکھاؤں کیسے
+میتیں ثانیٔ زہرا کو دکھاؤں کیسے
 اب نظر آتے نہیں عون و محمد زینب
 
 ۸
 بولے کس طرح سے زینب کو دکھاؤں میں بھلا
-اے مبارک لےء لاشوں کو چلے شاہ ہدا
+اے مبارک لیے لاشوں کو چلے شاہ ہدیٰ
 در تلک پہنچے اے ریحان وہ کہتے کہتے
 اب نظر آتے نہیں عون و محمد زینب
