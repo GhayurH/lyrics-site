@@ -1,136 +1,125 @@
 ---
 title: "سجدے میں سر ہے حلق پہ خنجر کی دھار ہے"
-alternateTitle: "Sadr Shukr Mere"
+alternateTitle: "Sad Shukr Mere"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Sadr Shukr Mere"]
 published: false
+reciter: "Nadeem Sarwar"
 romanLyrics: |-
-  Sajde mein sar hai halq pe khanjar ki dhaar hai
-  Banda ye kaun aisa ibadat guzaar hai
+  Sajde meiṅ sar hai halq pe khanjar ki dhaar hai
+  Banda ye kaun aisa ibaadat guzaar hai
+  Khaamosh kaise tu mere Parwardigaar hai
+  Dar par behan hai pusht pe qaatil sawaar hai
+  Is haal meiṅ bhi lab pe yahi baar baar hai
+  Sad shukr sad shukr sad shukr mere ya Rab
 
   1
-  Khamosh kaise tu mere parwardigar hai
-  Dar par behen hai pusht pe qatil sawaar hai
-  Is haal mein bhi lab pe yehi baar baar hai
-  Sad shukr sad shukr sad shukr mere ya rab
+  Haaṅ ye wohi Husain alaihis salaam hai
+  Teri taraf se jis pe durud o salaam hai
+  Sibt-e-Nabi hai ye Shaah-e-Aali Maqaam hai
+  Jis ke laboṅ pe ek hi kalma mudaam hai
 
   2
-  Haan ye wohi hussain alahis salaam hai
-  Teri taraf se jis pe durood o salaam hai
-  Sibte nabi hai ye shahe aali maqaam hai
-  Jis ke labon pe ek hi kalma mudaam hai
+  Ye wo hai jis ke haath meiṅ zulf-e-Rasul thi
+  Tere Nabi ko is ki har ek zid qabul thi
+  Baaba Ali isi ka tha maadar Batul thi
+  Us ki zabaaṅ pe baat yahi misl-e-phul thi
 
   3
-  Ye wo hai jis kai haath mein zulf e rasool thi
-  Tere nabi ku iski har ek zid qabool thi
-  Baba ali isi ka tha maadar batool thi
+  Kehte hai dast-e-Fatima Zehra ke aable
+  Paala hai chakki pis ke maadar ne pyaar se
+  Jannat se kapre Eid pe bheje Khuda jise
+  Shukr-e-Khuda meiṅ baat wo kiun kar na ye kahe
 
   4
-  Uski zaban pe baat yehi misle phool thi
-  Kehte hai daste fatema zehra kai aabile
-  Paala hai chakki pees kai maadar ne pyar se
+  Aulaad waaloṅ tum hi karo dil se faisla
+  Wo shakhs jis ka beta ho hamshakl-e-Mustafa
+  Dekhe usi pisar ka wo sina chhida hua
+  Neza nikaalte hue sine se di sada
 
   5
-  Jannat se kapde eid pe bheje khuda jise
-  Shukre khuda mein baat wo kyun kar na ye kahe
-  Aulaad waalon tum hi karo dil se faisla
+  Rukh su-e-aasmaaṅ kiya Khaaliq ko di sada
+  Asghar shahid ho gaya Akbar guzar gaya
+  Lashkar kahaaṅ ka mera biraadar nahiṅ raha
+  Par bekas o malul ne shikwa nahiṅ kiya
 
   6
-  Wo shakhs jiska beta ho hamshakle mustafa
-  Dekhe usi pisar ka wo seena chida hua
-  Naiza nikaalte huwe seene se di sada
+  Naaraaz tu ho mujh se mujhe kab qabul hai
+  Tu khush ho Ae Karim mujhe sab qabul hai
+  Qaid-e-haram asiri-e-Zainab qabul hai
+  Kya tujh ko meri baat ye ya Rab qabul hai
 
   7
-  Rukh suye aasman kiya khaaliq ko di sada
-  Asghar shaheed ho gaya akbar guzar gaya
-  Lashkar kahan ka mera biradar nahi raha
-  Par bekas o malool ne shikwa nahi kiya
+  Zakhmoṅ se chur chur tha jab Fatima ka laal
+  Lakht-e-dil-e-Ali o Nabi gham se tha nidhaal
+  Chehre pe khun mal ke basad hasrat o malaal
+  Ki arz Shah ne shukr hai Ae Rabb-e-Zuljalaal
 
   8
-  Naraaz tu ho mujhse mujhe kab qubool hai
-  Tu khush ho ay kareem mujhe sab qubool hai
-  Qaide haram aseeri e zainab qubool hai
-
-  9
-  Kya tujhko meri baat ye ya rab qubool hai
-  Zakhmon se choor choor tha jab fatema ka laal
-  Lakhte dile ali o nabi gham se tha nidhal
-
-  10
-  Chehre pe khoon mal ke basad hasrat o malaal
-  Ki arz sheh ne shukr hai ay rabbe zuljalaal
-  Kaise kahun rehaan jo sheh par guzar gayi
-
-  11
-  Bete shaheed ho gaye bacchi bichad gayi
-  Zainab dayaar e shaam mein jab nange sar gayi
-  Nok e sina se suye falak ye khabar gayi
+  Kaise kahuṅ Rehaan jo Shah par guzar gayi
+  Bete shahid ho gaye bachchi bichhar gayi
+  Zainab dayaar-e-Shaam meiṅ jab nange sar gayi
+  Nok-e-sinaaṅ se su-e-falak ye khabar gayi
 # source_id: nohayonline:94fd9779465a8e19759e
 # source_url: https://www.nohayonline.com/details_content.php?id=3307
 # raw_sha256: ec46752c186b1a706be2ae585d14784b970d57193126a2c2713168cf1ab4ca4c
 ---
 سجدے میں سر ہے حلق پہ خنجر کی دھار ہے
 بندہ یہ کون ایسا عبادت گزار ہے
-
-۱
 خاموش کیسے تو میرے پروردگار ہے
 در پر بہن ہے پشت پہ قاتل سوار ہے
 اس حال میں بھی لب پہ یہی بار بار ہے
 صد شکر صد شکر صد شکر میرے یا رب
 
-۲
+۱
 ہاں یہ وہی حسین علیہ السلام ہے
 تیری طرف سے جس پہ درود و سلام ہے
-سبط نبی ہے یہ شاہ عالی مقام ہے
+سبطِ نبی ہے یہ شاہِ عالی مقام ہے
 جس کے لبوں پہ ایک ہی کلمہ مدام ہے
 
-۳
-یہ وہ ہے جس کے ہاتھ میں ذلف رسول تھی
+۲
+یہ وہ ہے جس کے ہاتھ میں زلفِ رسول تھی
 تیرے نبی کو اس کی ہر ایک ضد قبول تھی
 بابا علی اسی کا تھا مادر بتول تھی
+اس کی زباں پہ بات یہی مثلِ پھول تھی
+
+۳
+کہتے ہے دستِ فاطمہ زہرا کے آبلے
+پالا ہے چکی پیس کے مادر نے پیار سے
+جنت سے کپڑے عید پہ بھیجے خدا جسے
+شکرِ خدا میں بات وہ کیوں کر نہ یہ کہے
 
 ۴
-اس کی زباں پہ بات یہی مثل پھول تھی
-کہتے ہے دست فاطمہ زہرا کے آبلے
-پالا ہے چکی پیس کے مادر نے پیار سے
-
-۵
-جنت سے کپڑے عید پہ بھیجے خدا جسے
-شکر خدا میں بات وہ کیوں کر نہ یہ کہے
 اولاد والوں تم ہی کرو دل سے فیصلہ
-
-۶
-وہ شخص جس کا بیٹا ہو ہمشکل مصطفیٰ
+وہ شخص جس کا بیٹا ہو ہمشکلِ مصطفیٰ
 دیکھے اسی پسر کا وہ سینہ چھدا ہوا
 نیزہ نکالتے ہوئے سینے سے دی صدا
 
-۷
-رخ سوے آسماں کیا خالق کو دی صدا
+۵
+رخ سوئے آسماں کیا خالق کو دی صدا
 اصغر شہید ہو گیا اکبر گزر گیا
 لشکر کہاں کا میرا برادر نہیں رہا
 پر بیکس و ملول نے شکوہ نہیں کیا
 
-۸
-ناراض تو ہو مجھے کب قبول ہے
+۶
+ناراض تو ہو مجھ سے مجھے کب قبول ہے
 تو خوش ہو اے کریم مجھے سب قبول ہے
-قید حرم اسیریء زینب قبول ہے
+قیدِ حرم اسیریِ زینب قبول ہے
+کیا تجھ کو میری بات یہ یا رب قبول ہے
 
-۹
-کیا تجھکو میری بات یہ یا رب قبول ہے
+۷
 زخموں سے چور چور تھا جب فاطمہ کا لال
-لخت دل علی و نبی غم سے تھا نڈھال
-
-۱۰
+لختِ دلِ علی و نبی غم سے تھا نڈھال
 چہرے پہ خون مل کے بصد حسرت و ملال
-کی عرض شہ نے شکر ہے اے رب ذوالجلال
-کیسے کہوں ریحان جو شہ پر گزر گیء
+کی عرض شہ نے شکر ہے اے ربِ ذوالجلال
 
-۱۱
-بیٹے شہید ہو گےء بچی بچھڑ گیء
-زینب دیار شام میں جب ننگے سر گیء
-نوکِ سناں سے سوے فلک یہ خبر گیء
+۸
+کیسے کہوں ریحان جو شہ پر گزر گئی
+بیٹے شہید ہو گئے بچی بچھڑ گئی
+زینب دیارِ شام میں جب ننگے سر گئی
+نوکِ سناں سے سوئے فلک یہ خبر گئی
