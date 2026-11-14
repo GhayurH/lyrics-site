@@ -6,42 +6,43 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Fakhri Meerthi"
+reciter: "Shareef Husain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sakina ki sada thi jald aao ay mere ammu
-  Mujhe wo chand si surat dikao ay mere ammu
+  Sakina ki sada thi jald aao Ae mere ammu
+  Mujhe wo chaand si surat dikhaao Ae mere ammu
 
   1
-  Bahe khoon aap ka jis par wo pani kya karungi mai
-  Yuhin pyasi rahungi mai
-  Chale aao ke ab pani na lao ay mere ammu
+  Bahe khun aap ka jis par wo paani kya karuṅ gi main
+  Yuṅhi pyaasi rahuṅ gi main
+  Chale aao ke ab paani na laao Ae mere ammu
 
   2
-  Ye waada hai ke jab tak hai ragon may khoon ki tughyani
-  Na maangungi kabhi pani
-  Na rootho ab to mujhse maan jao ay mere ammu
+  Ye waada hai ke jab tak hai ragoṅ mein khuṅ ki tughyaani
+  Na maaṅguṅ gi kabhi paani
+  Na rutho ab to mujh se maan jaao Ae mere ammu
 
   3
-  Nahi ho tum to ye zaalim mujhe aakar darate hai
-  Tamache bhi lagate hai
-  Tamachon se mujhe aakar bachao ay mere ammu
+  Nahiṅ ho tum to ye zaalim mujhe aakar daraate haiṅ
+  Tamaache bhi lagaate haiṅ
+  Tamaachoṅ se mujhe aakar bachaao Ae mere ammu
 
   4
-  Bataun kya sitamgar ne mujhe kitna sataya hai
-  Mera daaman jalaya hai
-  Tadapti hoo kaleje se lagao ay mere ammu
+  Bataauṅ kya sitamgar ne mujhe kitna sataaya hai
+  Mera daaman jalaaya hai
+  Tarapti huṅ kaleje se lagaao Ae mere ammu
 
   5
-  Hui hai rote rote surkh aankhein dekhlo aakar
+  Hui hai rote rote surkh aaṅkheṅ dekh lo aakar
   Mila hai khaak ka bistar
-  Mujhe tum aake seene par sulao ay mere ammu
+  Mujhe tum aake sine par sulaao Ae mere ammu
 
   6
-  Na aaye hazrate abbas wapas nehr se fakhri
-  Ye kehti reh gayi bachi
-  Kahan ho jald aao jald aao ay mere ammu
+  Na aaye Hazrat-e-Abbas waapas nehr se Fakhri
+  Ye kehti reh gayi bachchi
+  Kahaaṅ ho jald aao jald aao Ae mere ammu
 # source_id: nohayonline:2d3c68665b1b2b0c6b75
 # source_url: https://www.nohayonline.com/details_content.php?id=847
 # raw_sha256: 94fa19a7398c73d17eaa489a7ec36b07a8bdba2f4492642c33990c596098a1dc
@@ -50,8 +51,8 @@ romanLyrics: |-
 مجھے وہ چاند سی صورت دکھاؤ اے میرے عمو
 
 ۱
-بہے خون آپکا جس پر وہ پانی کیا کرونگی میں
-یونہی پیاسی رہونگی میں
+بہے خون آپ کا جس پر وہ پانی کیا کروں گی میں
+یونہی پیاسی رہوں گی میں
 چلے آؤ کہ اب پانی نہ لاؤ اے میرے عمو
 
 ۲
@@ -60,7 +61,7 @@ romanLyrics: |-
 نہ روٹھو اب تو مجھ سے مان جاؤ اے میرے عمو
 
 ۳
-نہیں تو ہم تو یہ ظالم مجھے آکر ڈراتے ہیں
+نہیں ہو تم تو یہ ظالم مجھے آکر ڈراتے ہیں
 طمانچے بھی لگاتے ہیں
 طمانچوں سے مجھے آکر بچاؤ اے میرے عمو
 
@@ -70,11 +71,11 @@ romanLyrics: |-
 تڑپتی ہوں کلیجے سے لگاؤ اے میرے عمو
 
 ۵
-ہوی ہے روتے روتے سرخ آنکھیں دیکھلو آکر
+ہوئی ہے روتے روتے سرخ آنکھیں دیکھ لو آکر
 ملا ہے خاک کا بستر
 مجھے تم آکے سینے پر سلا لو اے میرے عمو
 
 ۶
-نہ حضرت عباس واپس نہر سے فقری
+نہ آئے حضرت عباس واپس نہر سے فخری
 یہ کہتی رہ گئی بچی
 کہاں ہو جلد آؤ جلد آؤ اے میرے عمو
