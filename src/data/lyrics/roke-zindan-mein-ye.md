@@ -6,55 +6,57 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Masroor"
+reciter: "Alamdar Razvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ro ke zindan mein boli bano
-  Meri bacchi ko na tanha chodo
-  
+  Ro ke zindaan mein boli Baano
+  Meri bachchi ko na tanha chhoro
+
   1
-  Saath maa ko bhi lehad may gaado
-  
+  Saath maaṅ ko bhi lahad mein gaaro
+  Meri bachchi ko na tanha chhoro
+
   2
-  Darr ke royegi jo naazon ki pali
-  Thaam legi ye naseebo ki jali
-  Khauf andhere may na howe isko
-  
+  Dar ke roye gi jo naazoṅ ki pali
+  Thaam le gi ye nasiboṅ ki jali
+  Khauf andhere mein na hove isko
+
   3
-  Chup hai wo bolne waali haye haye
-  Mera pehlu hua khaali haye haye
-  Haath mai jodh rahi hoo logon
-  
+  Chup hai wo bolne waali haaye haaye
+  Mera pehlu hua khaali haaye haaye
+  Haath main jor rahi huṅ logoṅ
+
   4
-  Kis tarha logon mai kafnane doo
-  Kis tarha gaadne le jaane doo
-  Maa hoo mai isko na mujhse cheeno
-  
+  Kis tarah logoṅ main kafnaane duṅ
+  Kis tarah gaarne le jaane duṅ
+  Maaṅ huṅ main isko na mujh se chhino
+
   5
-  Tehro kurta to badal loo uska
-  Poch loo kaano mein hai khoon jama
+  Thehro kurta to badal luṅ uska
+  Ponchh luṅ kaanoṅ mein hai khun jama
   Kuch khafa hai to mana lene do
-  
+
   6
-  Khol to loo mai galay se rassi
+  Khol to luṅ main gale se rassi
   Dam ke ghutne se na ho behoshi
-  Bibi shayad ke abhi zinda ho
-  
+  Bibi shaayad ke abhi zinda ho
+
   7
-  Godh se maa ki chudao na isay
-  Tang marqad mein sulaao na isay
-  Chup raho yunhi pade rehne do
-  
+  God se maaṅ ki chhuraao na ise
+  Tang marqad mein sulaao na ise
+  Chup raho yuṅ hi pare rehne do
+
   8
   Chaunk jaaye na wo soti soti
   Chup hui hai abhi roti roti
-  Baap ke seene pe sone ki hai jo
-  
+  Baap ke sine pe sone ki hai jo
+
   9
-  Baap ke zikr abhi hote thay
-  Abhi karti thi wo baatein mujhse
-  Neend shayad ke lagi hai usko
+  Baap ke zikr abhi hote the
+  Abhi karti thi wo baateṅ mujh se
+  Nind shaayad ke lagi hai usko
 # source_id: nohayonline:034c99e09abcb53cb2fa
 # source_url: https://www.nohayonline.com/details_content.php?id=2019
 # raw_sha256: 4479970a7eac98ff660a4e6f682eaa9357a4a2553c511b32e8602853390a770a
@@ -65,16 +67,17 @@ romanLyrics: |-
 
 ۱
 ساتھ ماں کو بھی لحد میں گاڑو
+میری بچی کو نہ تنہا چھوڑو
 
 ۲
-ڈر کے روے گی جو نازوں کی پلی
+ڈر کے روئے گی جو نازوں کی پلی
 تھام لے گی یہ نصیبوں کی جلی
-خوف اندھیرے میں نہ ہوے اسکو
+خوف اندھیرے میں نہ ہووے اسکو
 
 ۳
-چپ ہے وہ بولنے والی ہے ہے
-میرا پہلو ہوا خالی ہے ہے
-ہاتھ می جودھ رہی ہوں لوگوں
+چپ ہے وہ بولنے والی ہائے ہائے
+میرا پہلو ہوا خالی ہائے ہائے
+ہاتھ میں جوڑ رہی ہوں لوگوں
 
 ۴
 کس طرح لوگوں میں کفنانے دوں
@@ -82,14 +85,14 @@ romanLyrics: |-
 ماں ہوں میں اسکو نہ مجھ سے چھینو
 
 ۵
-ٹہرو کرتہ تو بدل لوں اس کا
+ٹھہرو کرتہ تو بدل لوں اس کا
 پونچھ لوں کانوں میں ہے خون جمع
 کچھ خفا ہے تو منا لینے دو
 
 ۶
 کھول تو لوں میں گلے سے رسی
 دم کے گھٹنے سے نہ ہو بے ہوشی
-بی بی شاید کے ابھی زندہ ہو
+بی‌بی شاید کہ ابھی زندہ ہو
 
 ۷
 گود سے ماں کی چھڑاؤ نہ اسے
@@ -97,11 +100,11 @@ romanLyrics: |-
 چپ رہو یونہی پڑے رہنے دو
 
 ۸
-چونک جاے نہ وہ سوتی سوتی
-چپ ہوی ہے ابھی روتی روتی
+چونک جائے نہ وہ سوتی سوتی
+چپ ہوئی ہے ابھی روتی روتی
 باپ کے سینے پہ سونے کی ہے جو
 
 ۹
 باپ کے ذکر ابھی ہوتے تھے
 ابھی کرتی تھی وہ باتیں مجھ سے
-نیند شاید کے لگی ہے اسکو
+نیند شاید کہ لگی ہے اسکو
