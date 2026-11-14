@@ -1,53 +1,55 @@
 ---
 title: "بعدِ حسین دشت میں محشر بپا ہوا"
-alternateTitle: "Shaame Ghariban"
+alternateTitle: "Shaam-e-Gharibaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zulfiqar Ahmed"
+reciter: "Mir Mohsin Ali"
 tags: ["noImage"]
-aliases: []
+aliases: ["Shaame Ghariban"]
 published: false
 romanLyrics: |-
-  Baad e hussain dasht mein mehshar bapa hua
-  Chane laga har simt se ghan ghor andhera
-  Qaime jale ridayein chini haye kya hua
-  Pardes mein loota gaya zahra ka gharana
-  Aayi shaam e ghariban
-  Kya gham ka hai samaa aayi shaam e ghariban
-  
+  Baad-e-Husain dasht mein mahshar bapa hua
+  Chhaane laga har simt se ghan ghor andhera
+  Khaime jale ridaaeṅ chhini haaye kya hua
+  Pardes mein luta gaya Zahra ka gharaana
+  Aayi shaam-e-gharibaṅ
+
+  Kya gham ka hai samaaṅ aayi shaam-e-gharibaṅ
+
   1
-  Laashe pe jawan laal ke kehti rahi bano
+  Laashe pe jawaaṅ laal ke kehti rahi Bano
   Sehra bhi tera dekh na paayi tu chal basa
-  
+
   2
-  Jalte hue qaimon se jo uth'ta raha dhuan
-  Hairan o pareshan tha shabbir ka kunba
-  
+  Jalte hue khaimoṅ se jo uthta raha dhuaaṅ
+  Hairaan o pareshaan tha Shabbir ka kunba
+
   3
-  Laashe ke tukde bikhre pade thay zameen par
-  Pamaal is tarha hua dulhe ka sarapa
-  
+  Laashe ke tukre bikhre pare the zamiṅ par
+  Paamaal is tarah hua dulhe ka saraapa
+
   4
-  Bhai ko apne dhoondti thi dashte bala mein
-  Haaton mein liye pani ke kooze ko sakina
-  
+  Bhai ko apne dhundti thi dasht-e-bala mein
+  Haathoṅ mein liye paani ke kuze ko Sakina
+
   5
-  Barsa rahe thay jism pe bemaar ke kode
-  Is aalam e ghurbat mein kiya shukr ka sajda
-  
+  Barsa rahe the jism pe bimaar ke kore
+  Is aalam-e-ghurbat mein kiya shukr ka sajda
+
   6
-  Ye keh rahi thi shaah ki khwahar labe furaat
-  Abbas dekho sar se meri chin gayi rida
-  
+  Ye keh rahi thi Shaah ki khwaahar lab-e-Furaat
+  Abbas dekho sar se meri chhin gayi rida
+
   7
-  Naize chubote jaate thay durre lagate thay
-  Aale nabi pe hoti rahi raat bhar jafa
-  
+  Naize chubhote jaate the durre lagaate the
+  Aal-e-Nabi pe hoti rahi raat bhar jafa
+
   8
-  Ahmed ye shaam roze qayamat se kam nahi
-  Mohsin jo qaid hogaya ahmed ka gharana
+  Ahmed ye shaam roz-e-qayaamat se kam nahiṅ
+  Mohsin jo qaid ho gaya Ahmed ka gharaana
 # source_id: nohayonline:bf0c1efd15304351c06c
 # source_url: https://www.nohayonline.com/details_content.php?id=691
 # raw_sha256: 7b7efd45b2cda287194fb7579c7d5c87e7cb6076173ab1b21d6e1f395bb79691
@@ -57,6 +59,7 @@ romanLyrics: |-
 خیمے جلے ردائیں چھِنی ہائے کیا ہوا
 پردیس میں لُوٹا گیا زہرا کا گھرانہ
 آئی شامِ غریباں
+
 کیا غم کا ہے سماں آئی شامِ غریباں
 
 ۱
@@ -72,7 +75,7 @@ romanLyrics: |-
 پامال اس طرح ہوا دولہے کا سراپا
 
 ۴
-بھائی کو اپنے ڈھونڈتی تھی دشتِ بھلا میں
+بھائی کو اپنے ڈھونڈتی تھی دشتِ بلا میں
 ہاتھوں میں لیے پانی کے کوزے کا سکینہ
 
 ۵

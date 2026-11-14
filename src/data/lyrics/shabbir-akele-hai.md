@@ -1,73 +1,53 @@
 ---
-title: شبیر ا کلیے ہیں کمر ٹو ٹ چُکی ہے
-alternateTitle: Shabbir Akele Hai
+title: شبیر اکیلے ہیں کمر ٹوٹ چکی ہے
+alternateTitle: Shabbir Akele Haiṅ
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Baba Nisaar Haideri"
 tags: ["noImage"]
-aliases: []
+aliases: ["Shabbir Akele Hai"]
 published: false
-romanLyrics: 'Shabbir akele hai kamar toot chuki hai
-
+romanLyrics: |-
+  Shabbir akele haiṅ kamar tut chuki hai
+  Aur laash jawaaṅ saal ki maqtal mein pari hai
 
   1
-
-  Aur laash jawan saal ki maqtal mein padi hai
-
-  Shabbir se ab zeen pe ab sambhla nahi jaata
-
-  Ye haal hai aur aakhri sajde ki ghadi hai
-
+  Shaah chur haiṅ zakhmoṅ se nahiṅ khun badan mein
+  Lab chipke hue aur zubaaṅ ka kaantoṅ bhari hai
 
   2
-
-  Kehte hai musalman ke maaro ise maaro
-
-  Koi na raha jiska wo shabbir yehi hai
-
+  Shabbir se ab zin pe sambhla nahiṅ jaata
+  Ye haal hai aur aakhri sajde ki ghari hai
 
   3
-
-  Shaah jaate hai asghar ka lahoo rukh pe laga kar
-
-  Aur maadare asghar dar e qaima pe khadi hai
-
+  Shaah jaate haiṅ Asghar ka lahu rukh pe laga kar
+  Aur maadar-e-Asghar dar-e-khaima pe khari hai
 
   4
-
-  Naizon se zameen zalimon kyun khod rahe ho
-
-  Kya tum ko zaroorat ali asghar ki padi hai
-
+  Kehte haiṅ musalmaan ke maaro ise maaro
+  Koi na raha jis ka wo Shabbir yehi hai
 
   5
-
-  Dil walon zara socho ke kya guzregi shaah par
-
-  Naize ki ani seena e akbar mein gadi hai
-
+  Naizoṅ se zamiṅ zaalimoṅ kiuṅ khod rahe ho
+  Kya tum ko zarurat Ali Asghar ki pari hai
 
   6
-
-  Shaah kehte hai akbar nazar aata nahi rasta
-
-  Kya saath ghareebi mein nazar chod gayi hai
-
+  Dil waalo zara socho ke kya guzregi Shaah par
+  Naize ki ani sina-e-Akbar mein gari hai
 
   7
-
-  Dil thaam ke kyun baith gayi maadar e akbar
-
-  Kya noke sina maa ke kaleje mein lagi hai
-
+  Dil thaam ke kiuṅ baith gayi maadar-e-Akbar
+  Kya nok-e-sinaaṅ maaṅ ke kaleje mein lagi hai
 
   8
+  Shaah kehte haiṅ Akbar nazar aata nahiṅ rasta
+  Kya saath gharibi mein nazar chhor chuki hai
 
-  Ye taaziadari hai mohabbat ki alamat
-
-  Aansu na nisar aaye to wo sang dili hai'
+  9
+  Ye taaziyadaari hai mohabbat ki alaamat
+  Aansuṅ na Nisaar aaeṅ to ye sangdili hai
 reciter: Rizwan Zaidi
 # source_id: nohayonline:de2798ebd9986fbe601a
 # source_url: https://www.nohayonline.com/details_content.php?id=898
@@ -77,41 +57,41 @@ reciter: Rizwan Zaidi
 # raw_sha256: 26da0fc7f2582061c631e93b8d3b7af0b4a438b1f628c23664fc439d602214ac
 ---
 
-شبیر ا کلیے ہیں کمر ٹو ٹ چُکی ہے
-اور لا ش جو ا ں سا ل کی مقتل میں پڑ ی ہے
+شبیر اکیلے ہیں کمر ٹوٹ چکی ہے
+اور لاش جواں سال کی مقتل میں پڑی ہے
 
 ۱
-شا ہ چُو ر ہیں زخموں سے نہیں خو ن بدن میں
-لب چپکے ہُوئے اور ذُ با ں کا کا نٹو ں بھر ی ہے
+شاہ چُور ہیں زخموں سے نہیں خون بدن میں
+لب چپکے ہوئے اور زباں کا کانٹوں بھری ہے
 
 ۲
-شبیر سے ا ب ذین پہ سمبھلا نہیں جا تا
-یہ حا ل ہے اور آخر ی سجدے کی گھڑی ہے
+شبیر سے اب زین پہ سنبھلا نہیں جاتا
+یہ حال ہے اور آخری سجدے کی گھڑی ہے
 
 ۳
-شا ہ جا تے ہیں اصغر کا لہو رخ پہ لگا کر
-اور ما درِ ا صغر درے خیمہ پہ گھڑی ہے
+شاہ جاتے ہیں اصغر کا لہو رخ پہ لگا کر
+اور مادرِ اصغر درِ خیمہ پہ کھڑی ہے
 
 ۴
-کہتے ہیں مسلما ن کہ ما رو ا ِ سے ما رو
-کوئی نہ جِس کا وُہ شبیر یہی ہے
+کہتے ہیں مسلمان کہ مارو اسے مارو
+کوئی نہ رہا جس کا وہ شبیر یہی ہے
 
 ۵
-نیزوں سے ذمیں ظا لِموں کیوں کُھود رہے ہو
-کیا تُم کو ضرورت علی ا صغر کی پٹر ی ہے
+نیزوں سے زمیں ظالموں کیوں کھود رہے ہو
+کیا تم کو ضرورت علی اصغر کی پڑی ہے
 
 ۶
-دل وا لو ذرا سو چو کہ کیا گزرے گی شا ہ پر
-نیزے کی ا نی سینہِ اکبر میں گٹر ی ہے
+دل والو ذرا سوچو کہ کیا گزرے گی شاہ پر
+نیزے کی انی سینہِ اکبر میں گڑی ہے
 
 ۷
-دل تھا م کے کیو ں بیٹھ گئی ما در اکبر
-کیا نو ک سنا ں ما ں کے کلیجہ میں لگی ہے
+دل تھام کے کیوں بیٹھ گئی مادرِ اکبر
+کیا نوکِ سناں ماں کے کلیجے میں لگی ہے
 
 ۸
-شا ہ کہتے ہیں اکبر نظر آتا نہیں رستہ
-کیا سا تھ غر یبی میں نظر چُھوڑ چکی ہے
+شاہ کہتے ہیں اکبر نظر آتا نہیں رستہ
+کیا ساتھ غریبی میں نظر چھوڑ چکی ہے
 
 ۹
-یہ تا زیہ دا ری ہے محبت کی علا مت
-آنسوں نہ نثا ر آہیں تو یہ سنگدلی ہے
+یہ تعزیہ داری ہے محبت کی علامت
+آنسوں نہ نثار آئیں تو یہ سنگدلی ہے

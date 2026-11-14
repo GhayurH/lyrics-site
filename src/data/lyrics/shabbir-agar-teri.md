@@ -6,45 +6,47 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Na dil rota, na gham hota, na aisa kahin matam hota
-  Shabbir agar teri Azadari na hoti
-  Mazloom ki duniya mein, tarafdari na hoti
+  Na dil rota, na gham hota, na aisa kahiṅ maatam hota
+
+  Shabbir agar teri azaadaari na hoti
+  Mazlum ki duniya mein, ye tarafdaari na hoti
 
   1
-  Shabbir ka maqsad jo, samajh layta zamanaa
-  Quran ko samjhnay mein, ye dushwari na hoti
+  Shabbir ka maqsad jo, samajh leta zamaana
+  Quraaṅ ko samajhne mein, ye dushwaari na hoti
 
   2
-  Kya fayeda ankhoon ka, reh jata zara socho
-  In ankhoon mein Mawla ki, jo gham khawari na hoti
+  Kya faaeda aankhoṅ ka, reh jaata zara socho
+  In aankhoṅ mein Maula ki, jo gham khwaari na hoti
 
   3
-  Shabbir ke rozay pe, kuch roz jo rehte
-  Tumko ko kabhi jannat ki, talab-gari na hoti
+  Shabbir ke rauze pe, kuch roz jo rehte
+  Tum ko kabhi jannat ki, talabgaari na hoti
 
   4
-  Do roz bhi jannat mein, rehna hamein mushkil tha
-  Zehra tere Bachoon ki, jo sardari na hoti
+  Do roz bhi jannat mein, rehna hameṅ mushkil tha
+  Zehra tere bachchoṅ ki, jo sardaari na hoti
 
   5
-  Ghazi teray jaisa jo, alamdar na hota
-  Dunya mein alam hotay, alamdari na hoti
+  Ghazi tere jaisa jo, alamdaar na hota
+  Duniya mein alam hote, alamdaari na hoti
 
   6
-  Sharminda Sakina se, agar hota na pani
-  Yeh rasm sabilo ki, kabi jaari na hoti
+  Sharminda Sakina se, agar hota na paani
+  Ye rasm sabiloṅ ki, kabhi jaari na hoti
 
   7
-  Namos-e-Muhammad ko, jo pehchanti dunya
-  Zainab ke khule sar pe, ye sang-bari na hoti
+  Naamus-e-Muhammad ko, jo pehchaanti duniya
+  Zainab ke khule sar pe, ye sang baari na hoti
 
   8
-  Jannat may qadam rakhtay nahi Sarwer-o-Rehan
-  Jannat may jo Mawla ki, Azadari na hoti
+  Jannat mein qadam rakhte nahiṅ Sarwar o Rehaan
+  Jannat mein jo Maula ki, azaadaari na hoti
 # source_id: nohayonline:2050b95060e446b28bda
 # source_url: https://www.nohayonline.com/details_content.php?id=420
 # raw_sha256: dbcb7cd35f86ecb99e9d3b07397561ed645f59d661c5d8e90d8cef9ccc625bc8
@@ -53,6 +55,7 @@ romanLyrics: |-
 # raw_sha256: c006d9e45206922f3d8e83a01332cbd7d92663fcf135807b52b821c12d9096cc
 ---
 نہ دل روتا نہ غم ہوتا نہ ایسا کہیں ماتم ہوتا
+
 شبیرؑ اگر تیری عزاداری نہ ہوتی
 مظلوم کی دنیا میں یہ طرفداری نہ ہوتی
 
@@ -81,7 +84,7 @@ romanLyrics: |-
 یہ رسم سبیلوں کی کبھی جاری نہ ہوتی
 
 ۷
-ناموس محمدۖ کو جو پہچانتی دنیا
+ناموسِ محمدۖ کو جو پہچانتی دنیا
 زینب کے کھلے سر پہ یہ سنگ باری نہ ہوتی
 
 ۸
