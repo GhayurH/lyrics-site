@@ -1,51 +1,52 @@
 ---
 title: "تھی عشق علی میں رسن و دار سے باتیں"
-alternateTitle: "Thi Ishqe Ali May"
+alternateTitle: "Thi Ishq-e-Ali Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Salik Lakhnavi"
+reciter: "Faazil Lakhnavi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Thi ishq e ali may rasan o daar se baatein
-  
+  Thi ishq-e-Ali mein rasan o daar se baateṅ
+
   1
-  Kya karti ajal meesam e tammaar se baatein
-  
+  Kya karti ajal Misam-e-Tammaar se baateṅ
+
   2
-  Ye nasir e shabbir hai peeche na hatenge
-  Fauje na kare aahani deewar se baatein
-  
+  Ye naasir-e-Shabbir hai pichhe na hateṅge
+  Faujeṅ na kareṅ aahani diwaar se baateṅ
+
   3
-  Har jang may talwar to khamosh rahi hai
-  Khyber may hui hyder e karrar se baatein
-  
+  Har jang mein talwaar to khaamosh rahi hai
+  Khaibar mein hui Haidar-e-Karraar se baateṅ
+
   4
-  Allah ki marzi ke liye shaah e shaheedan
-  Ab kaun karega tere deedar se baatein
-  
+  Allah ki marzi ke liye Shaah-e-Shahidaaṅ
+  Ab kaun karega tere didaar se baateṅ
+
   5
-  Is tezi se abbas suye nehr chale hai
-  Karti hai hawa ghode ki raftaar se baatein
-  
+  Is tezi se Abbas su-e-nehr chale haiṅ
+  Karti hai hawa ghore ki raftaar se baateṅ
+
   6
-  Abbas ka hamla hai ke hamla hai ali ka
-  Karti hai ajal lashkar e kuffar se baatein
-  
+  Abbas ka hamla hai ke hamla hai Ali ka
+  Karti hai ajal lashkar-e-kuffaar se baateṅ
+
   7
-  Talwar to abbas ka moo dekh rahi hai
-  Abbas bhi karte nahi talwar se baatein
-  
+  Talwaar to Abbas ka muṅh dekh rahi hai
+  Abbas bhi karte nahiṅ talwaar se baateṅ
+
   8
-  Zinda hua mar mar ke kayi baar nusairi
-  Bhooli na magar hyder e karrar se baatein
-  
+  Zinda hua mar mar ke kai baar Nusairi
+  Bhuli na magar Haidar-e-Karraar se baateṅ
+
   9
-  Kat'ti hai zaban hoti hai sachayi pa mohrein
-  Hyder ki suno meesam e tammar se baatein
+  Katti hai zabaaṅ hoti hai sachchaai pe mohreṅ
+  Haidar ki suno Misam-e-Tammaar se baateṅ
 # source_id: nohayonline:4782ed0b2952b8895da4
 # source_url: https://www.nohayonline.com/details_content.php?id=1225
 # raw_sha256: e656e2b46ba2789e7e12e5d53827b2f4073c0e7acb39fd676eeb7ebabe23e9d4
@@ -62,14 +63,14 @@ romanLyrics: |-
 
 ۳
 ہر جنگ میں تلوار تو خاموش رہی ہے
-خیبر میں ہوی حیدر کرّار سے باتیں
+خیبر میں ہوئی حیدر کرّار سے باتیں
 
 ۴
 اللّٰہ کی مرضی کے لئے شاہ شہیداں
 اب کون کرے گا تیرے دیدار سے باتیں
 
 ۵
-اس تیزی سے عباس سوے نہر چلے ہیں
+اس تیزی سے عباس سوئے نہر چلے ہیں
 کرتی ہے ہوا گھوڑے کی رفتار سے باتیں
 
 ۶
@@ -81,9 +82,9 @@ romanLyrics: |-
 عباس بھی کرتے نہیں تلوار سے باتیں
 
 ۸
-زندہ ہوا مر مر کے کیء بار نصیری
+زندہ ہوا مر مر کے کئی بار نصیری
 بھولی نہ مگر حیدر کرّار سے باتیں
 
 ۹
-کٹتی ہے زباں ہوتی ہے سچای پہ مہریں
+کٹتی ہے زباں ہوتی ہے سچائی پہ مہریں
 حیدر کی سنو میثم تمار سے باتیں

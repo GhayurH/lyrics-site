@@ -1,56 +1,100 @@
 ---
-title: "THI YE MAA’N KI SADA ALI ASGHAR"
-language: "Roman Urdu"
+title: "تھی یہ ماں کی صدا علی اصغر"
+alternateTitle: "Thi Ye Maaṅ Ki Sada Ali Asghar"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage", "noUrdu"]
+tags: ["noImage"]
 aliases: []
 published: false
+romanLyrics: |-
+  Mera Ali Asghar, mera Ali Asghar
+  Thi ye maaṅ ki sada Ali Asghar
+
+  1
+  Meri aaṅkhoṅ ke saamne haaye
+  Qatl ran mein hua Ali Asghar
+
+  2
+  Baade Shaah-e-Zamaaṅ ke hote hue
+  Bekafan reh gaya Ali Asghar
+
+  3
+  Main ne maani thiṅ mannateṅ phir bhi
+  Chhah mahin jiya Ali Asghar
+
+  4
+  Tin din tak sulagte sehra mein
+  Haaye pyaasa raha Ali Asghar
+
+  5
+  Dafn ho kar bhi apni turbat mein
+  Dafn reh na saka Ali Asghar
+
+  6
+  Ye qayaamat bhi main ne dekhi thi
+  Nok-e-naiza pe tha Ali Asghar
+
+  7
+  Is ka ehsaas bhi nahiṅ tha mujhe
+  Hoga mujh se juda Ali Asghar
+
+  8
+  Chhah mahine talak safar mein raha
+  Mera maasum sa Ali Asghar
+
+  9
+  Meri aaṅkhoṅ mein aa gaye aaṅsu
+  Tir khaa kar haṅsa Ali Asghar
+
+  10
+  Bakhwae tumheṅ Asad, Yaqub
+  Waaris-e-Murtaza Ali Asghar
 # source_id: ziyaraat:fd8482aa6f9e27df2a45
 # source_url: https://www.ziyaraat.net/api/noha/2739
 # raw_sha256: 0a0c7c60a5e3f90f837d0e649c8b63ecf9e2f0155d34cac7a16235c20b98f226
 ---
 
-MERA ALI ASGHAR, MERA ALI ASGHAR
-THI YE MAA’N KI SADA ALI ASGHAR
+میرا علی اصغر، میرا علی اصغر
+تھی یہ ماں کی صدا علی اصغر
 
-1
-MERI ANKHO’N KE SAMNE HAYE
-QATL RAN ME HUA ALI ASGHAR
+۱
+میری آنکھوں کے سامنے ہائے
+قتل رن میں ہوا علی اصغر
 
-2
-BAADE SHAHE ZAMAN KE HOTE HUE
-BEKAFAN REH GAYA ALI ASGHAR
+۲
+BAADE شاہِ زماں کے ہوتے ہوئے
+بےکفن رہ گیا علی اصغر
 
-3
-MAINE MANI THI MANNATE PHIR BHI
-CHHAH MAHEEN JIYA ALI ASGHAR
+۳
+میں نے مانی تھیں منتیں پھر بھی
+چھ مہین جیا علی اصغر
 
-4
-TEEN DIN TAK SULAGTE SEHRA ME
-HAYE PYASA RAHA ALI ASGHAR
+۴
+تین دن تک سلگتے صحرا میں
+ہائے پیاسا رہا علی اصغر
 
-5
-DAFN HOKAR BHI APNI TURBAT ME
-DAFN REH NA SAKA ALI ASGHAR
+۵
+دفن ہو کر بھی اپنی تربت میں
+دفن رہ نہ سکا علی اصغر
 
-6
-YE QAYAMAT BHI MAINE DEKHI THI
-NOKE NAIZA PET HA ALI ASGHAR
+۶
+یہ قیامت بھی میں نے دیکھی تھی
+نوکِ نیزہ پہ تھا علی اصغر
 
-7
-ISKA EHSAS BHI NAHI THA MUJHE
-HOGA MUJHSE JUDA ALI ASGHAR
+۷
+اس کا احساس بھی نہیں تھا مجھے
+ہوگا مجھ سے جدا علی اصغر
 
-8
-CHHAH MAHEENE TALAK SAFAR ME RAHA
-MERA MASOOM SA ALI ASGHAR
+۸
+چھ مہینے تلک سفر میں رہا
+میرا معصوم سا علی اصغر
 
-9
-MERI ANKHO’N ME AA GAYE AANSOO
-TEER KHA KAR HASA ALI ASGHAR
+۹
+میری آنکھوں میں آ گئے آنسو
+تیر کھا کر ہنسا علی اصغر
 
-10
-BAKHWAE TUMHE ASAD, YAQOOB
-WARISE MURTUZA ALI ASGHAR
+۱۰
+BAKHWAE تمہیں اسد، یعقوب
+وارثِ مرتضیٰ علی اصغر
