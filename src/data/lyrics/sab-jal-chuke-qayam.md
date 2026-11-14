@@ -1,53 +1,54 @@
 ---
 title: سب جل چکے خیام
-alternateTitle: Sab Jal Chuke Qayam
+alternateTitle: Sab Jal Chuke Khiyaam
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Ahmed Naved"
+reciter: "Ali Zia Rizvi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Sab Jal Chuke Qayam"]
 published: false
 romanLyrics: |-
-  Sab jal chuke qayam
-  Bikhri hui hai raat sisakta hai ban tamam
-  Suraj ke sar se khaynchli shab ne rida-e-shaam
+  Sab jal chuke khiyaam
+  Bikhri hui hai raat sisakta hai ban tamaam
+  Suraj ke sar se khinch li shab ne ridaa-e-shaam
   
   1
-  Qaimon ko apne laut chuki zulm ki sipaah
-  Khoon se zameen surq hui aag se siyaah
-  Uth''te hue dhuwein se falak hai siyaah faam
+  Khaimoṅ ko apne laut chali zulm ki sipaah
+  Khuṅ se zamiṅ surkh hui aag se siyaah
+  Uthte hue dhueṅ se falak hai siyaah faam
   
   2
-  Tareek raaston se dehelte hai bewatan
-  Kano may aa rahi hai sada-e-bizan bizan
-  Sab mehro maah leke kahin chup gayi hai shaam
+  Taarik raastoṅ se dehelte haiṅ bewatan
+  Kaanoṅ mein aa rahi hai sadaa-e-bizan bizan
+  Sab mehr o maah le ke kahiṅ chhup gayi hai shaam
   
   3
-  Qasim sa naujawan ali asghar sa maahroo
-  Abbas sa jari ali akbar sa khush guloo
-  Kya kya charaag thay jinhe roti rahegi shaam
+  Qaasim sa naujawaaṅ Ali Asghar sa mah ru
+  Abbas sa jari Ali Akbar sa khush gulu
+  Kya kya charaagh the jinheṅ roti rahegi shaam
   
   4
   Baithe hue raakh pe jhul se hue badan
-  Sehme hue thakay hue dukhte hue badan
-  Ay raat zakhm zakhm bilakte huon ko thaam
+  Sahme hue thake hue dukhte hue badan
+  Ae raat zakhm zakhm bilakte huoṅ ko thaam
   
   5
-  Ankhon ke saamne hi baha asr tak lahoo
-  Ankhon ke saamne hi lagi aaj chaar soo
-  Ye khoon ye aag jheylne bano tumhe salaam
+  Aankhoṅ ke saamne hi baha asr tak lahu
+  Aankhoṅ ke saamne hi lagaai aag chaar su
+  Ye khuṅ ye aag jhel li Bano tumheṅ salaam
   
   6
-  Aata hua sawaar jo dekha suye qayam
-  Goonji sada-e-dukhtare zehra-e-nayk naam
+  Aata hua sawaar jo dekha su-e-khiyaam
+  Gunji sadaa-e-dukhtar-e-Zehra-e-nek naam
   Baba mera salaam lo baba mera salaam
   
   7
-  Sar ko jhukaye khaakh par baitha hai ek jawan
-  Gardan may tauq paon se lipti hai bediyan
-  Hai zer ab naved ye awaaz e shaam shaam
+  Sar ko jhukaaye khaak par baitha hai ek jawaaṅ
+  Gardan mein tauq paaoṅ mein lipti haiṅ beriyaaṅ
+  Hai zer ab Naved ye aawaaz shaam shaam
 # source_id: nohayonline:1a1d0862ef70cc025cff
 # source_url: https://www.nohayonline.com/details_content.php?id=257
 # raw_sha256: 82b547b48932519c7b942f2cb8c37dbe2bbd95ddf43092311280a49c40508fa5
@@ -57,7 +58,7 @@ romanLyrics: |-
 ---
 سب جل چکے خیام
 بکھری ہوئی ہے رات سسکتا ہے بن تمام
-سورج کے سر سے کھینچالی شب نے ردائے شام
+سورج کے سر سے کھینچ لی شب نے ردائے شام
 
 ۱
 خیموں کو اپنے لوٹ چلی ظلم کی سپاہ
@@ -77,7 +78,7 @@ romanLyrics: |-
 ۴
 بیٹھے ہوئے راکھ پے جھل سے ہوئے بدن
 سہمے ہوئے تھکے ہوئے دکھتے ہوئے بدن
-اے رات زخم زخم بلکتے ہو وں کو تھام
+اے رات زخم زخم بلکتے ہوؤں کو تھام
 
 ۵
 آنکھوں کے سامنے ہی بہا عصر تک لہو
@@ -91,5 +92,5 @@ romanLyrics: |-
 
 ۷
 سر کو جھکائے خاک پر بیٹھا ہے ایک جواں
-گردن میں طوق پائوں میں لپٹی ہیں بیڑیاں
+گردن میں طوق پاؤں میں لپٹی ہیں بیڑیاں
 ہے زیر اب نوید یہ آواز شام شام
