@@ -53,6 +53,10 @@ romanLyrics: |-
 # source_id: ziyaraat:a8d6b65ac06ea4f94fc6
 # source_url: https://www.ziyaraat.net/api/noha/1853
 # raw_sha256: 7fc52df3e4bb7b67b0ace2f6671d40981c881b1d0f0bc2d76d4b8f8b1ed481f7
+# additional_source_id: nohawriteups:5ea3f818eb14c99bf2b9
+# additional_source_url: https://www.nohawriteups.org/bhaiya-ghareeb-zainab/
+# additional_raw_sha256: 6eec290522fddcefca6dfb2270afec325b00deff96236e8ddfe95a40585db672
+# additional_source_note: All seven substantive stanzas and opening match existing complete bilingual poem; recurring Bhaiya Ghareeb Zainab / Ay Mere Bhai Hussain source refrain intentionally not repeated at each stanza.
 ---
 بھیا غریب زینب تیرا کفن نہ لائی
 لاشِ حُسین پر ہے زینب کی یہ دُہائی
