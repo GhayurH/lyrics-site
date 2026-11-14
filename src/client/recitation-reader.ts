@@ -267,6 +267,12 @@ export async function initRecitationReader(): Promise<void> {
   };
   window.addEventListener("scroll", updateScrollPosition, { passive: true });
   root.addEventListener("scroll", updateScrollPosition, { passive: true });
+  // Lyric-only programmes have no scans at all. Mixed and Basta programmes
+  // retain the Image control so original Basta scans remain selectable.
+  if (!set.items.some((item) => item.kind === "basta")) {
+    document.querySelector<HTMLInputElement>('[data-reading-column][value="image"]')
+      ?.closest("label")?.remove();
+  }
   // Each poem is its own synchronization group, preventing cross-poem scrolling.
   initReadingControls();
   initVerseFitting();
