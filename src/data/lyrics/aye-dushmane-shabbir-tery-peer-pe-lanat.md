@@ -8,8 +8,6 @@ kalamType: "Manqabat"
 tags: []
 aliases:
   - "Aye Dushmane Shabbir Tery Peer Pe Lanat"
-cover: "/images/lyrics/aye-dushmane-shabbir-tery-peer-pe-lanat.png"
-coverAlt: "Cover image for Ae Dushmane Shabbir Tery Pir Pe Lanat"
 published: true
 romanLyrics: |-
 

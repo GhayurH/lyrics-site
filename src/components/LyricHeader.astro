@@ -12,7 +12,6 @@ const displayHaal = data.romanHaal?.trim() || data.haal;
 <header class="lyric-header">
       <ReaderSubnav ariaLabel="Lyric navigation" items={[
         { label: `← ${category}`, href: `/categories/${slugifyKalamType(category)}/` },
-        ...(data.cover ? [{ label: "Original lyric sheet", href: data.cover }] : []),
       ]} />
 
       <div class="lyric-header-title-row">

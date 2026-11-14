@@ -8,8 +8,6 @@ kalamType: "Salam"
 tags: []
 aliases:
   - "Aao Ro Lein Shahe Karbala Ko"
-cover: "/images/lyrics/aao-ro-lein-shahe-karbala-ko.png"
-coverAlt: "Cover image for Aao Ro Lein Shahe Karbala Ko"
 published: true
 romanLyrics: |-
   Aao ro leṅ Shah-e Karbala ko

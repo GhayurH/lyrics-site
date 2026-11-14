@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Qabr-E-Sarwar Par Kaha Zainab Ne Ro Kar Alwida"
-cover: "/images/lyrics/qabr-e-sarwar-par-kaha-zainab-ne-ro-kar-alwida.png"
-coverAlt: "Cover image for Qabr-e-Sarwar Par Kaha Zainab Ne Ro Kar Alwida"
 published: true
 romanLyrics: |-
   Qabr-e-Sarwar Par Kaha Zainab Ne Ro Kar, Alwida

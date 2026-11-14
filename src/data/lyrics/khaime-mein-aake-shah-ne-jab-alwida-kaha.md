@@ -9,8 +9,6 @@ tags: []
 aliases:
   - "Khaime Mein Aake Shah Ne Jab Alwida Kaha"
   - "Kohraam Mach Gaya"
-cover: "/images/lyrics/khaime-mein-aake-shah-ne-jab-alwida-kaha.png"
-coverAlt: "Cover image for Khaime Meiṅ Aake Shah Ne Jab Alwida Kaha"
 published: true
 romanLyrics: |-
   Khaime Meiṅ Aake Shah Ne Jab Alwida Kaha

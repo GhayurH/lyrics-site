@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Aa Ke Pursa Lo Apne Baba Ka"
-cover: "/images/lyrics/aa-ke-pursa-lo-apne-baba-ka.png"
-coverAlt: "Cover image for Aa Ke Pursa Lo Apne Baba Ka"
 published: true
 romanLyrics: |-
   Aa ke pursa lo apne Baba ka, al-ajal al-ajal Imam-e-Zamaṅ

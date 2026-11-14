@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Ibne Muljim Ne Hyder Ko Maara"
-cover: "/images/lyrics/ibne-muljim-ne-hyder-ko-maara.png"
-coverAlt: "Cover image for Ibne Muljim Ne Hyder Ko Maara"
 published: true
 romanLyrics: |-
   Ibne Muljim Ne Hyder Ko Maara, Rozadaron Qayamat Ke Din Haiṅ

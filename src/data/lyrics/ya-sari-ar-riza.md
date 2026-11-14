@@ -8,8 +8,6 @@ kalamType: "Manqabat"
 tags: []
 aliases:
   - "Ya Sari'ar-Riza"
-cover: "/images/lyrics/ya-sari-ar-riza.png"
-coverAlt: "Cover image for Ya Saria-r-Riza"
 published: true
 romanLyrics: |-
   Ya Saria-r-Riza Ya Saria-r-Riza

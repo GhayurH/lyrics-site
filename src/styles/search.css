@@ -11,7 +11,6 @@
 .search-secondary-filters { grid-template-columns: repeat(4, minmax(0, 1fr)); padding-top: 0.5rem; }
 .search-filter-control { min-width: 0; }
 .search-filter-label { display: block; margin-bottom: 0.35rem; color: var(--secondary-text); font-size: 0.75rem; font-weight: 800; letter-spacing: 0.04em; text-transform: uppercase; }
-pagefind-filter-dropdown { display: block; min-width: 0; }
 .search-more-filters { margin-top: 1rem; border: var(--ui-border); padding: 0.75rem 1rem; background: var(--surface-background); }
 .search-more-filters > summary { cursor: pointer; font-weight: 700; }
 .active-search-filters { margin-top: 1rem; }
@@ -70,9 +69,6 @@ pagefind-filter-dropdown { display: block; min-width: 0; }
   --pf-outline-focus: var(--accent-color);
 }
 
-/* The dropdown's trigger is a neutral label; the current selection is
-   reported separately so the view never says "All" after filtering. */
-.search-selected-filter { display: block; margin-top: .3rem; color: var(--primary-text); font-weight: 700; font-size: .8rem; }
 .search-collection-note { margin: 0 0 .9rem; color: var(--secondary-text); font-size: .88rem; }
 .search-no-results-help { margin-top: 1.2rem; border: var(--ui-border); border-radius: var(--ui-radius); padding: .9rem 1rem; background: var(--surface-background); }
 .search-no-results-help[hidden] { display: none; }
@@ -89,30 +85,44 @@ pagefind-filter-dropdown { display: block; min-width: 0; }
    (which gives them CanvasText/black instead of the theme foreground). */
 .search-page .search-result-collection { margin: 0 0 .25rem; color: var(--secondary-text); font-size: .77rem; font-weight: 750; }
 .search-page .search-result-roman-title { margin: .25rem 0; color: var(--secondary-text); font-size: .95rem; }
-.search-page .search-result-links { display: flex; flex-wrap: wrap; gap: .75rem; margin: .3rem 0; font-size: .83rem; }
-.search-page .search-result-links a { color: var(--primary-text); text-decoration: underline; text-underline-offset: .16em; }
 
-/* Pagefind v1.5 centres mobile menus on the trigger's narrow inline wrapper,
-   so a 100vw-wide popup can extend off-screen. Anchor the menu to a full-width
-   filter wrapper instead. !important is confined to these Pagefind internals:
-   its distributed stylesheet uses three synthetic ID selectors for specificity. */
+
+/* Multiple checkbox selections stay available in a native, keyboard-accessible
+   disclosure. Search limits the visible choices, not the values it can match. */
+.search-facet { position: relative; min-width: 0; }
+.search-facet > summary {
+  display: block; cursor: pointer; padding: .65rem .7rem;
+  border: var(--ui-border); border-radius: var(--ui-radius);
+  background: var(--surface-background); color: var(--primary-text);
+  font-size: .88rem; min-height: var(--ui-target);
+  overflow: hidden; white-space: nowrap; text-overflow: ellipsis;
+}
+.search-facet > summary::after { content: " ▾"; float: right; }
+.search-facet[open] > summary::after { content: " ▴"; }
+.search-facet > summary:focus-visible { outline: var(--focus-ring); outline-offset: 2px; }
+.search-facet-panel {
+  position: absolute; z-index: 20; inset-inline: 0; top: calc(100% + .2rem);
+  padding: .55rem; border: var(--ui-border); border-radius: var(--ui-radius);
+  background: var(--surface-background); box-shadow: 0 .45rem 1.4rem rgba(0, 0, 0, .16);
+  min-width: min(20rem, 84vw);
+}
+.search-facet-panel input[type="search"] {
+  box-sizing: border-box; width: 100%; padding: .6rem;
+  border: var(--ui-border); border-radius: var(--ui-radius);
+  background: var(--site-background); color: var(--primary-text);
+  font: inherit; margin-bottom: .4rem;
+}
+.search-facet-options { overflow-y: auto; max-height: min(45vh, 20rem); }
+.search-facet-choice {
+  display: flex; align-items: center; gap: .5rem; cursor: pointer;
+  min-height: 2.3rem; padding: .25rem .35rem; color: var(--primary-text);
+  overflow-wrap: anywhere;
+}
+.search-facet-choice:hover, .search-facet-choice:focus-within { background: var(--tag-background); }
+.search-facet-choice input { flex: 0 0 auto; accent-color: var(--accent-color); }
+.search-facet-choice span { flex: 1; }
+.search-facet-choice small { color: var(--secondary-text); }
+.search-facet-hint { margin: .35rem 0 0; font-size: .76rem; color: var(--secondary-text); }
 @media (max-width: 700px) {
-  .search-page pagefind-filter-dropdown { width: 100%; }
-  .search-page pagefind-filter-dropdown .pf-dropdown-wrapper {
-    width: 100% !important;
-    min-width: 0;
-  }
-  .search-page pagefind-filter-dropdown .pf-dropdown-trigger {
-    flex: 1 1 auto;
-    min-width: 0 !important;
-  }
-  .search-page pagefind-filter-dropdown .pf-dropdown-menu {
-    inset-inline-start: 0 !important;
-    left: 0 !important;
-    transform: none !important;
-    min-width: 0 !important;
-    width: 100% !important;
-    max-width: 100% !important;
-    max-height: min(var(--pf-dropdown-max-height, 50dvh), 50dvh);
-  }
+  .search-facet-panel { position: static; box-shadow: none; min-width: 0; margin-top: .25rem; }
 }

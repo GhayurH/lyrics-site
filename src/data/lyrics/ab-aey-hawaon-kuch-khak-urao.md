@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Ab Ae Hawaon Kuch Khak Urao"
-cover: "/images/lyrics/ab-aey-hawaon-kuch-khak-urao.png"
-coverAlt: "Cover image for Ab Ae Hawaoṅ Kuch Khak Urao"
 published: true
 romanLyrics: |-
   Ab Ae Hawaoṅ Kuch Khak Urao

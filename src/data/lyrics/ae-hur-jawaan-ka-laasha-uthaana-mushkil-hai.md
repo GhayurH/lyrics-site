@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Ae Hur Jawaan Ka Laasha Uthaana Mushkil Hai"
-cover: "/images/lyrics/ae-hur-jawaan-ka-laasha-uthaana-mushkil-hai.png"
-coverAlt: "Cover image for Ae Hur Jawaan Ka Laasha Uthaana Mushkil Hai"
 published: true
 romanLyrics: |-
   

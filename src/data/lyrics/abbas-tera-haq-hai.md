@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Abbas Tera Haq Hai"
-cover: "/images/lyrics/abbas-tera-haq-hai.png"
-coverAlt: "Cover image for Abbas Tera Haq Hai"
 published: true
 romanLyrics: |-
   abbas tera haq hai zamana tujhe roye

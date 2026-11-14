@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Karte Hain Matam Haram Abbas Ka"
-cover: "/images/lyrics/karte-hain-matam-haram-abbas-ka.png"
-coverAlt: "Cover image for Karte Haiṅ Matam Haram Abbas Ka"
 published: true
 romanLyrics: |-
   Karte Haiṅ Matam Haram Abbas Ka

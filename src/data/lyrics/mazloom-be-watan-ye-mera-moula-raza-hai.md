@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Mazloom Be Watan Ye Mera Moula Raza Hai"
-cover: "/images/lyrics/mazloom-be-watan-ye-mera-moula-raza-hai.png"
-coverAlt: "Cover image for Mazlum Be Watan Ye Mera Maula Raza Hai"
 published: true
 romanLyrics: |-
   Mazlum bewatan Ye Mera Maula Raza Hai

@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Kaash Abbas Na Maare Jaate"
-cover: "/images/lyrics/kaash-abbas-na-maare-jaate.png"
-coverAlt: "Cover image for Kaash Abbas Na Maare Jaate"
 published: true
 romanLyrics: |-
   Kaash Abbas Na Maare Jaate

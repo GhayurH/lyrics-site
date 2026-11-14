@@ -8,8 +8,6 @@ kalamType: "Manqabat"
 tags: []
 aliases:
   - "Ham Se Pucha Ke Kiya Zaruri Hai"
-cover: "/images/lyrics/ham-se-pucha-ke-kiya-zaruri-hai.png"
-coverAlt: "Cover image for Ham Se Pucha Ke Kiya Zaruri Hai"
 published: true
 romanLyrics: |-
   1

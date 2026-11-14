@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Kaash Akbar Tere Jaisa Tera Beta Hota"
-cover: "/images/lyrics/kaash-akbar-tere-jaisa-tera-beta-hota.png"
-coverAlt: "Cover image for Kaash Akbar Tere Jaisa Tera Beta Hota"
 published: true
 romanLyrics: |-
   Kaash Akbar Tere Jaisa Tera Beta Hota

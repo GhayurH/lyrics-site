@@ -8,8 +8,6 @@ kalamType: "Manqabat"
 tags: []
 aliases:
   - "Meri Basti Ke Musalman Bare Bhole Hain"
-cover: "/images/lyrics/meri-basti-ke-musalman-bare-bhole-hain.png"
-coverAlt: "Cover image for Meri Basti Ke Musalman Bare Bhole Haiṅ"
 published: true
 romanLyrics: |-
   1

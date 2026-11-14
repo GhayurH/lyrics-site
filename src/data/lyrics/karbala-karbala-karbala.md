@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Karbala Karbala Karbala"
-cover: "/images/lyrics/karbala-karbala-karbala.png"
-coverAlt: "Cover image for Karbala Karbala Karbala"
 published: true
 sixVerseLayout: "pairs"
 romanLyrics: |-

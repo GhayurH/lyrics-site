@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Tukre Nahin Chadar Mein, Farwa Tera Beta Hai"
-cover: "/images/lyrics/tukre-nahin-chadar-mein-farwa-tera-beta-hai.png"
-coverAlt: "Cover image for Tukre Nahiṅ Chadar Meiṅ, Farwa Tera Beta Hai"
 published: true
 romanLyrics: |-
   Tukre nahiṅ chadar meiṅ, farwa tera beta hai

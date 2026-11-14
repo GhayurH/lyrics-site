@@ -8,8 +8,6 @@ kalamType: "Manqabat"
 tags: []
 aliases:
   - "Lazim Thi Mujh Pe Rad E Bala"
-cover: "/images/lyrics/lazim-thi-mujh-pe-rad-e-bala.png"
-coverAlt: "Cover image for Lazim Thi Mujh Pe Rad E Bala"
 published: true
 romanLyrics: |-
   1

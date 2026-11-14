@@ -8,8 +8,6 @@ kalamType: "Manqabat"
 tags: []
 aliases:
   - "Parchame Ghazi Lehrata Ghar Ghar Dekha"
-cover: "/images/lyrics/parchame-ghazi-lehrata-ghar-ghar-dekha.png"
-coverAlt: "Cover image for Parchame Ghazi Lehrata Ghar Ghar Dekha"
 published: true
 romanLyrics: |-
   Parchame Ghazi Lehrata ghar ghar dekha

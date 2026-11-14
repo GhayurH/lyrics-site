@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Shama Se Shama Jale"
-cover: "/images/lyrics/shama-se-shama-jale.png"
-coverAlt: "Cover image for Shama Se Shama Jale"
 published: true
 romanLyrics: |-
   Shama se shama jale, silsila jari rahe,

@@ -8,8 +8,6 @@ kalamType: "Salam"
 tags: []
 aliases:
   - "Husain Al Ghareeb"
-cover: "/images/lyrics/hussain-al-ghareeb.png"
-coverAlt: "Cover image for Husain Al Gharib"
 published: true
 romanLyrics: |-
   Husain al-gharib al-gharib al-Husain

@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Duaein Roke Karta Tha Ridayen Maangne Wala"
-cover: "/images/lyrics/duaein-roke-karta-tha-ridayen-maangne-wala.png"
-coverAlt: "Cover image for Duaeiṅ Roke Karta Tha Ridayeṅ Maangne Wala"
 published: true
 romanLyrics: |-
   Duaeiṅ Roke Karta Tha Ridayeṅ Maangne Wala

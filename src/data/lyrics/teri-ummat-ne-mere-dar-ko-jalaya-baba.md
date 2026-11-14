@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Teri Ummat Ne Mere Dar Ko Jalaya Baba"
-cover: "/images/lyrics/teri-ummat-ne-mere-dar-ko-jalaya-baba.png"
-coverAlt: "Cover image for Teri Ummat Ne Mere Dar Ko Jalaya Baba"
 published: true
 romanLyrics: |-
   Teri Ummat Ne Mere Dar Ko Jalaya Baba

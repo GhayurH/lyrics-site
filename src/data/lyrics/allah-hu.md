@@ -8,8 +8,6 @@ kalamType: "Manqabat"
 tags: []
 aliases:
   - "Allah Hu, Allah Hu, Allah Hu"
-cover: "/images/lyrics/allah-hu.png"
-coverAlt: "Cover image for Allah Hu, Allah Hu, Allah Hu"
 published: true
 romanLyrics: |-
   Allah Hu, Allah Hu, Allah Hu

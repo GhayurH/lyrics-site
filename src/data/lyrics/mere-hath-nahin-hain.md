@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Mere Hath Nahin Hain"
-cover: "/images/lyrics/mere-hath-nahin-hain.png"
-coverAlt: "Cover image for Mere Hath Nahiṅ Haiṅ"
 published: true
 romanLyrics: |-
   Maiṅ kaise uthuṅ aaqa, mere haath nahiṅ haiṅ

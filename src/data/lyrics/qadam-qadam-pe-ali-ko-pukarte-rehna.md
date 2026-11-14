@@ -8,8 +8,6 @@ kalamType: "Manqabat"
 tags: []
 aliases:
   - "Qadam Qadam Pe Ali Ko Pukarte Rehna"
-cover: "/images/lyrics/qadam-qadam-pe-ali-ko-pukarte-rehna.png"
-coverAlt: "Cover image for Qadam Qadam Pe Ali Ko Pukarte Rehna"
 published: true
 romanLyrics: |-
   Qadam qadam pe Ali ko pukarte rehna

@@ -8,8 +8,6 @@ kalamType: "Manqabat"
 tags: []
 aliases:
   - "Na Pochiye Ke Kya Husain Hai"
-cover: "/images/lyrics/na-pochiye-ke-kya-hussain-hai.png"
-coverAlt: "Cover image for Na Pochiye Ke Kya Husain Hai"
 published: true
 romanLyrics: |-
   Khuda Ke Din Ka Na-Khuda

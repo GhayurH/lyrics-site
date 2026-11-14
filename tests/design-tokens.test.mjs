@@ -34,10 +34,10 @@ test("declared design tokens are used; Pagefind component inputs are external co
   }
 });
 
-test("semantic colors and dropdown sizing have safe fallbacks", () => {
+test("semantic colors and multi-select facet sizing have safe fallbacks", () => {
   assert.match(sheets["corrections.css"], /background:\s*var\(--site-background\)/);
   assert.doesNotMatch(allCss, /var\(--page-background\)/);
-  assert.match(sheets["search.css"], /var\(--pf-dropdown-max-height,\s*50dvh\)/);
+  assert.match(sheets["search.css"], /max-height:\s*min\(45vh,\s*20rem\)/);
   assert.match(sheets["tokens.css"], /--preset-sepia-ink:\s*#[0-9a-f]{6}/i);
   assert.match(sheets["theme-palettes.css"], /--primary-text:\s*var\(--preset-sepia-ink\)/);
   assert.match(sheets["appearance.css"], /--swatch-ink:\s*var\(--theme-foreground,\s*var\(--preset-sepia-ink\)\)/);

@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Jangal May Bhare Ghar Ko Luta Aayi Hai Zainab"
-cover: "/images/lyrics/jangal-may-bhare-ghar-ko-luta-aayi-hai-zainab.png"
-coverAlt: "Cover image for Jangal May Bhare Ghar Ko Luta Aayi Hai Zainab"
 published: true
 romanLyrics: |-
   Jangal may bhare ghar ko luta aayi hai Zainab ae Shehr-e-Madina

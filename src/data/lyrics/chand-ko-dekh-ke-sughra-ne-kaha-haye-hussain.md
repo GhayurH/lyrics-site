@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Chand Ko Dekh Ke Sughra Ne Kaha Haye Husain"
-cover: "/images/lyrics/chand-ko-dekh-ke-sughra-ne-kaha-haye-hussain.png"
-coverAlt: "Cover image for Chand Ko Dekh Ke Sughra Ne Kaha Haye Husain"
 published: true
 romanLyrics: |-
   

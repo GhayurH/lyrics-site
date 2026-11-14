@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Shehzada Mera Qasim Shehzada"
-cover: "/images/lyrics/shehzada-mera-qasim-shehzada.png"
-coverAlt: "Cover image for Shehzada Mera Qasim Shehzada"
 published: true
 romanLyrics: |-
   Shehzada Shehzada, mera Qasim Shehzada
