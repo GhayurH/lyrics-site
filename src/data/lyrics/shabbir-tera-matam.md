@@ -1,42 +1,45 @@
 ---
-title: ماتم کرو شبیر کا ہاے زینب دلگیر کا
-alternateTitle: Shabbir Tera Matam
+title: ماتم کرو شبیر کا ہائے زینب دلگیر کا
+alternateTitle: Shabbir Tera Maatam
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Jawad Jaffri"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Matam karo Shabbir ka haey Zainab-e-dilgir ka
-  Shabbir tera matam momin ki nishani hai
-  Bakhshish ki zamanat hai - jo ankh me pani hai
-  
+  Maatam karo Shabbir ka haaye Zainab-e-dilgir ka
+  Shabbir tera maatam momin ki nishaani hai
+
+  Bakhshish ki zamaanat hai jo aankh mein paani hai
+  Shabbir tera maatam momin ki nishaani hai
+
   1
-  Yeh dagh nahi logo hai moajza matam ka
-  Sine pe likhi mere Karbal ki kahani hai
-  
+  Ye daagh nahiṅ logoṅ hai moajiza maatam ka
+  Sine pe likhi mere Karbal ki kahaani hai
+
   2
-  Ghazi ka alam leke bazaar me aye hai
-  Rudaad aseeron ki duniya ko sonani hai
-  
+  Ghazi ka alam le ke baazaar mein aaye haiṅ
+  Rudaad asiroṅ ki dunya ko sunaani hai
+
   3
-  Zainab ne shuru ki thi zindaan me azadri
-  Sadiyon se chali ayi yeh reet purani hai
-  
+  Zainab ne shuru ki thi zindaaṅ mein azaadaari
+  Sadiyoṅ se chali ye rit puraani hai
+
   4
-  Aayi hai sada ab bhi Karbal ki fizaon se
-  Shabbir haqeeqat mei islam ke bani hai
-  
+  Aati hai sada ab bhi Karbal ki fazaaoṅ se
+  Shabbir haqiqat mein Islam ka baani hai
+
   5
-  De pursa bahatar ka Zahra ke lute ghar ka
-  Har saal muharram mei yeh yaad dilani hai
-  
+  De pursa bahattar ka Zahra ke lute ghar ka
+  Har saal Muharram mein ye yaad dilaani hai
+
   6
-  Mazloom ke matam me marna hi sa’adat hai
-  Waisay bhi jawan ek din yeh jaan to jani hai
+  Mazlum ke maatam mein marna hi saadat hai
+  Waise bhi Jawad ik din ye jaan to jaani hai
 # source_id: nohayonline:c132085119739b0c9752
 # source_url: https://www.nohayonline.com/details_content.php?id=2313
 # raw_sha256: 1bf0f25eff1f335faa1d42e29ad33ea8893697c8d45c89823885c193c97aabeb
@@ -44,16 +47,18 @@ romanLyrics: |-
 # source_url: https://www.ziyaraat.net/api/noha/34
 # raw_sha256: 25b5971a958b69cf1a417610d8b3c878731043eedaae3c5d4965c6d1d234e1ef
 ---
-ماتم کرو شبیر کا ہاے زینب دلگیر کا
+ماتم کرو شبیر کا ہائے زینب دلگیر کا
 شبیر تیرا ماتم مومن کی نشانی ہے
+
 بخشش کی ضمانت ہے جو آنکھ میں پانی ہے
+شبیر تیرا ماتم مومن کی نشانی ہے
 
 ۱
 یہ داغ نہیں لوگوں ہے معجزہ ماتم کا
 سینے پہ لکھی میرے کربل کی کہانی ہے
 
 ۲
-غازی کا علم لے کے بازار میں آے ہیں
+غازی کا علم لے کے بازار میں آئے ہیں
 روداد اسیروں کی دنیا کو سنانی ہے
 
 ۳

@@ -6,94 +6,95 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Sibte Jafar"
+reciter: "Sibte Jafar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Shabbir ye sab dunya tere naam se zinda hai
-  
+
   1
-  Ye deen mohamed ka tere naam se zinda hai
+  Ye din Muhammad ka tere naam se zinda hai
   Allah ka bhi kalma tere naam se zinda hai
-  
+
   2
-  Phaili hai zamane may tauheed ke tanveere
-  Goonji hai tere dam se kaunain may takbeere
+  Phaili haiṅ zamaane mein tauhid ki tanvireṅ
+  Gunji haiṅ tere dam se kaunain mein takbireṅ
   Haq is se hai paainda tere naam se zinda hai
-  
+
   3
-  Minni ki sanad bakshi tujhe sarware aalam ne
-  Phir ye bhi kaha mai hoo shabbir tere dam se
-  Shabbir tera nana tere naam se zinda hai
-  
+  Minni ki sanad bakhshi tujhe Sarwar-e-aalam ne
+  Phir ye bhi kaha main huṅ Shabbir tere dam se
+  Shabbir tera naana tere naam se zinda hai
+
   4
-  Fitrus to farishta tha hurr ko bhi aman di hai
-  Jaan ibne mazahir ko aur deen ko bakshi hai
-  Ye deene nabi haq ka tere naam se zinda hai
-  
+  Fitrus to farishta tha Hur ko bhi amaaṅ di hai
+  Jaaṅ Ibn-e-Mazahir ko aur din ko bakhshi hai
+  Ye din-e-Nabi haq ka tere naam se zinda hai
+
   5
-  Walfajr may tu shaamil tatheer may tu shaamil
-  Kausar ki mawaddat ki tafseer may tu shaamil
-  Wal-asr ka bhi soora tere naam se zinda hai
-  
+  Walfajr mein tu shaamil tathir mein tu shaamil
+  Kausar ki mawaddat ki tafsir mein tu shaamil
+  Wal-asr ka bhi sura tere naam se zinda hai
+
   6
-  Ahde nabawi alawi daure hasani ke baad
-  Islam tane bejaan ik'sat hijri ke baad
+  Ahd-e-Nabawi Alawi daur-e-Hasani ke baad
+  Islam tan-e-bejaaṅ iksath hijri ke baad
   Tere naam se zinda tha tere naam se zinda hai
-  
+
   7
-  Bayyat bhi na le paaya sar bhi na jhuka paaya
-  Zaalim ko kiya ruswa sarwar ne sare naiza
-  Quran bhi ay aaqa tere naam se zinda hai
-  
+  Baiat bhi na le paaya sar bhi na jhuka paaya
+  Zaalim ko kiya ruswa Sarwar ne sar-e-naiza
+  Quraan bhi ae aaqa tere naam se zinda hai
+
   8
-  Waise to shahadat hai meeras tere ghar ki
-  Yan asghar o akbar ki tafreeq nahi phir bhi
-  Mafhoom shahadat ka tere naam se zinda hai
-  
+  Waise to shahaadat hai miraas tere ghar ki
+  Yaaṅ Asghar o Akbar ki tafriq nahiṅ phir bhi
+  Mafhum shahaadat ka tere naam se zinda hai
+
   9
-  Ummat pa mohamed ki hua shaitano ka raaj
-  Makkah bhi madina bhi tere baad hue taraaj
-  Ye to laaje kaaba tere naam se zinda hai
-  
+  Ummat pe Muhammad ki hua shaitaanoṅ ka raaj
+  Makkah bhi Madina bhi tere baad hua taaraaj
+  Ye to laaj-e-Kaaba tere naam se zinda hai
+
   10
-  Ye jo ilm ka charcha hai shabbir ka sadqa hai
-  Ehsan tera haq par ye saani e zehra hai
-  Shabbir ka sajjada tere naam se zinda hai
-  
+  Ye jo ilm ka charcha hai Shabbir ka sadqa hai
+  Ehsaan tera haq par ye saani-e-Zehra hai
+  Shabbir ka sajda tere naam se zinda hai
+
   11
-  Sarwar ki nishani ab koi bhi nahi baakhi
-  Ek chod di jangal may ek shaam may dafna di
-  Dukh bano e muztar ka tere naam se zinda hai
-  
+  Sarwar ki nishaani ab koi bhi nahiṅ baaqi
+  Ik chhor di jangal mein ik Shaam mein dafna di
+  Dukh Baanu-e-muztar ka tere naam se zinda hai
+
   12
-  Saaye ki zaroorat hai na hi thande pani ki
-  Maa kehti thi asghar ki bulwa lo mujhe waali
-  Ye kaneez shahe wala tere naam se zinda hai
-  
+  Saaye ki zarurat hai na hi thande paani ki
+  Maaṅ kehti thi Asghar ki bulwa lo mujhe waali
+  Ye kaniz Shaah-e-waala tere naam se zinda hai
+
   13
-  Maa ka bhi na rakha maan na hi paalne waali ka
-  Din raat wazeefa aur noha tha ye laila ka
-  Akbar ye teri ayaat tere naam se zinda hai
-  
+  Maaṅ ka bhi na rakha maan na hi paalne waali ka
+  Din raat wazifa aur noha tha ye Laila ka
+  Akbar ye teri aayat tere naam se zinda hai
+
   14
-  Aayenge mujhe lene ek roz mere bhaiya
-  Phir byah rachaungi mai shauk se bhaiya ka
-  Akbar wo teri sughra tere naam se zinda hai
-  
+  Aayeṅ ge mujhe lene ik roz mere bhaiya
+  Phir byaah rachaauṅ gi main shauq se bhaiya ka
+  Akbar wo teri Sughra tere naam se zinda hai
+
   15
-  Shabbir ki laqte jigar ek raat ki wo byahi
-  Ruqsat bhi na ho paayi aur bewa kehlayi
+  Shabbir ki lakht-e-jigar ik raat ki wo byaahi
+  Rukhsat bhi na ho paayi aur bewa kehlaayi
   Qasim wo teri bewa tere naam se zinda hai
-  
+
   16
-  Ashoor se zindan tak rudaad mazalim ki
-  Tune hi sunayi hai shabbir ki shehzadi
-  Ye matam ye nauha tere naam se zinda hai
-  
+  Aashur se zindaaṅ tak rudaad mazaalim ki
+  Tu ne hi sunaayi hai Shabbir ki shehzaadi
+  Ye maatam ye noha tere naam se zinda hai
+
   17
-  Shabbir ka marsiakhan shabbir ka shayar bhi
-  Pehchan yehi hai ab tere sibte jafar ki
+  Shabbir ka marsiya khwaaṅ Shabbir ka shaayar bhi
+  Pehchaan yehi hai ab tere Sibt-e-Jafar ki
   Sad shukr tera banda tere naam se zinda hai
 # source_id: nohayonline:3f843a6dab1f8f238f8a
 # source_url: https://www.nohayonline.com/details_content.php?id=870
@@ -124,7 +125,7 @@ romanLyrics: |-
 ۵
 والفجر میں تُو شامل تطہیر میں تُو شامل
 کوثر کی مودت کی تفسیر میں تُو شامل
-والعصر کا بھی سورئہ تیرے نام سے زندہ ہے
+والعصر کا بھی سورہ تیرے نام سے زندہ ہے
 
 ۶
 عہدِ نبوی علوی دورِ حسنی کے بعد
@@ -142,7 +143,7 @@ romanLyrics: |-
 مفہوم شہادت کا تیرے نام سے زندہ ہے
 
 ۹
-اُمت پہ محمد کیہوا شیطانوں کا راج
+اُمت پہ محمد کی ہوا شیطانوں کا راج
 مکہ بھی مدینہ بھی تیرے بعد ہوا تاراج
 یہ تو لاجِ کعبہ تیرے نام سے زندہ ہے
 
@@ -168,7 +169,7 @@ romanLyrics: |-
 
 ۱۴
 آئیں گے مجھے لینے اک روز میرے بھّیا
-پھر بیاہ رچائوں گی میں شوق سے بھّیا کا
+پھر بیاہ رچاؤں گی میں شوق سے بھّیا کا
 اکبر وہ تیری صغریٰ تیرے نام سے زندہ ہے
 
 ۱۵

@@ -1,50 +1,59 @@
 ---
 title: شبِ عاشور خیمئہ کلثوم سے آتی تھی صدا
-alternateTitle: Shabe Ashoor Tha
+alternateTitle: Shab-e-Aashur Tha
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mir Takallum"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shabe ashoor qaima e kulsoom se aati thi sada
-  Haye haye haye
-  Mai bhi zainab ki tarha bhai ka deti sadqa
+  Shab-e-Aashur khaima-e-Kulsum se aati thi sada
+  Haaye haaye haaye
+  Main bhi Zainab ki tarah bhaai ka deti sadqa
   Kaash mera koi beta hota
-  Shabe ashoor tha Kulsoom ke lab par noha
-  
+
+  Shab-e-Aashur tha Kulsum ke lab par noha
+  Kaash mera koi beta hota
+
   1
-  Saath pardes may bhai ka barabar deti
-  Sheh ke baysheer pe qurbaan usay kar deti
-  Dil may hasrat hi rahi aun o mohamed jaisa
-  
+  Saath pardes mein bhaai ka baraabar deti
+  Sheh ke beshir pe qurbaan use kar deti
+  Dil mein hasrat hi rahi Aun o Muhammad jaisa
+  Kaash mera koi beta hota
+
   2
-  Daagh bete ki judai ka utha leti behen
-  Apne bhai ki nishani ko bacha leti behen
-  Sheh ke akbar ki jagah seene pe khata naiza
-  
+  Daagh bete ki judaai ka utha leti behen
+  Apne bhaai ki nishaani ko bacha leti behen
+  Sheh ke Akbar ki jagah sine pe khaata naiza
+  Kaash mera koi beta hota
+
   3
-  Haath ho jaate qalam ran may mere bete ke
-  Saare khoon apna baha deta wo pani ke liye
-  Leke ghazi se reza usko banaati saqqa
-  
+  Haath ho jaate qalam ran mein mere bete ke
+  Sar-e-khuṅ apna baha deta wo paani ke liye
+  Le ke Ghazi se raza us ko banaati saqqa
+  Kaash mera koi beta hota
+
   4
-  Saath shabbir ke jis tarha hai ghazi ki wafa
+  Saath Shabbir ke jis tarah hai Ghazi ki wafa
   Wo bhi aaqa ko kabhi apne na zehmat deta
-  Saath sajjad ka har mod pe deta wo sada
-  
+  Saath Sajjad ka har mor pe deta wo sada
+  Kaash mera koi beta hota
+
   5
-  Kehti shabbir se zehmat na uthao bhai
-  Ghar may sadaat ke sadqe ko na lao bhai
-  Uska qhaimo my kabhi aane na deti laasha
-  
+  Kehti Shabbir se zehmat na uthaao bhaai
+  Ghar mein saadaat ke sadqe ko na laao bhaai
+  Us ka khaimoṅ mein kabhi aane na deti laasha
+  Kaash mera koi beta hota
+
   6
-  Jab sunay bain ye takallum to ye ghazi ne kaha
-  Kal ye abbas fida teri taraf se hoga
-  Tujhko baba ki qasam ab nahi dena ye sada
+  Jab sune bain ye Takallum to ye Ghazi ne kaha
+  Kal ye Abbas fida teri taraf se ho ga
+  Tujh ko baaba ki qasam ab nahiṅ dena ye sada
+  Kaash mera koi beta hota
 # source_id: nohayonline:d83e9aad9f15f57d0149
 # source_url: https://www.nohayonline.com/details_content.php?id=2790
 # raw_sha256: 55b10ad39b72b74b388d02b811bcbba0fdcd07190da443c9e3b6144156372c32
@@ -56,34 +65,42 @@ romanLyrics: |-
 ہائے ہائے ہائے
 میں بھی زینب کی طرح بھائی کا دیتی صدقہ
 کاش میرا کوئی بیٹا ہوتا
+
 شبِ عاشور تھا کلثوم کے لب پر نوحہ
+کاش میرا کوئی بیٹا ہوتا
 
 ۱
 ساتھ پردیس میں بھائی کا برابر دیتی
 شہہ کے بے شیر پہ قربان اُسے کر دیتی
-دل میں حسرت ہی رہی عون ومحمد جیسا
+دل میں حسرت ہی رہی عون و محمد جیسا
+کاش میرا کوئی بیٹا ہوتا
 
 ۲
 داغ بیٹے کی جُدائی کا اُٹھا لیتی بہن
 اپنے بھائی کی نشانی کو بچا لیتی بہن
 شہہ کے اکبر کی جگہ سینے پہ کھاتا نیزہ
+کاش میرا کوئی بیٹا ہوتا
 
 ۳
 ہاتھ ہو جاتے قلم رَن میں میرے بیٹے کے
 سرِ خوں اپنا بہا دیتا وہ پانی کے لیے
 لے کے غازی سے رضا اُس کو بناتی سقہ
+کاش میرا کوئی بیٹا ہوتا
 
 ۴
 ساتھ شبیر کے جس طرح ہے غازی کی وفا
 وہ بھی آقا کو کبھی اپنے نہ زحمت دیتا
-ساتھ سجاد کا ہر موڑ پہ دیتاوہ صدا
+ساتھ سجاد کا ہر موڑ پہ دیتا وہ صدا
+کاش میرا کوئی بیٹا ہوتا
 
 ۵
-کہتی شبیر سے زحمت نہ اُٹھائو بھائی
-گھر میں سادات کے صدقے کو نہ لائو بھائی
+کہتی شبیر سے زحمت نہ اُٹھاؤ بھائی
+گھر میں سادات کے صدقے کو نہ لاؤ بھائی
 اُس کا خیموں میں کبھی آنے نہ دیتی لاشہ
+کاش میرا کوئی بیٹا ہوتا
 
 ۶
 جب سُنے بین یہ تکلم تو یہ غازی نے کہا
 کل یہ عباس فدا تیری طرف سے ہو گا
 تجھ کو بابا کی قسم اب نہیں دینا یہ صدا
+کاش میرا کوئی بیٹا ہوتا
