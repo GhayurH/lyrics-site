@@ -6,40 +6,41 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
+reciter: "Mir Hasan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sura e kahaf sunata hai ye sar kiska hai
-  Khoon aankhon se bahata hai ye sar kiska hai
+  Sura-e-Kahaf sunaata hai ye sar kis ka hai
+  Khun aaṅkhoṅ se bahaata hai ye sar kis ka hai
 
   1
-  Chalte chalte jo sakina kahin gir jaati hai
-  Khud ko naize se girata hai ye sar kiska hai
+  Chalte chalte jo Sakina kahiṅ gir jaati hai
+  Khud ko naize se giraata hai ye sar kis ka hai
 
   2
-  Jis taraf jaata hai bazaar may sar akbar ka
-  Us taraf dekhta jaata hai ye sar kiska hai
+  Jis taraf jaata hai baazaar mein sar Akbar ka
+  Us taraf dekhta jaata hai ye sar kis ka hai
 
   3
-  Jab bhi daakhil kisi bazaar may hote hai haram
-  Pehla pathar yehi khaata hai ye sar kiska hai
+  Jab bhi daakhil kisi baazaar mein hote haiṅ haram
+  Pehla patthar yehi khaata hai ye sar kis ka hai
 
   4
-  Raat hoti hai to masoom si ek bachi ko
-  Lori naize se sunata hai ye sar kiska hai
+  Raat hoti hai to maasum si ik bachchi ko
+  Lori naize se sunaata hai ye sar kis ka hai
 
   5
-  Padh ke quran ki aayaat sar e zainab se
-  Dhyan logon ka hata'ta hai ye sar kiska hai
+  Parh ke Quraan ki aayaat sar-e-Zainab se
+  Dhyaan logoṅ ka hataata hai ye sar kis ka hai
 
   6
-  Ye samaa kaash na dekhe koi khwaahar is ki
-  Shimr zulfon se uthaata hai ye sar kiska hai
+  Ye samaaṅ kaash na dekhe koi khwaahar is ki
+  Shimr zulfoṅ se uthaata hai ye sar kis ka hai
 
   7
-  Mir sajjad nahi kya koi waaris is ka
-  Isko har ek satata hai ye sar kiska hai
+  Mir Sajjad nahiṅ kya koi waaris is ka
+  Is ko har ek sataata hai ye sar kis ka hai
 # source_id: nohayonline:29e80d828618d0e7bcdd
 # source_url: https://www.nohayonline.com/details_content.php?id=1610
 # raw_sha256: 998694ae973e72b59a5b14ab3cfcb6674192e351f17963e1aa935697709d313b
@@ -73,4 +74,4 @@ romanLyrics: |-
 
 ۷
 میر سجاد نہیں کیا کوئی وارث اس کا
-اس کو ہر ستاتا ہے یہ سر کس کا ہے
+اس کو ہر ایک ستاتا ہے یہ سر کس کا ہے
