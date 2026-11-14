@@ -12,6 +12,10 @@ published: false
 # raw_sha256: 55bcbc31ab7443e612ff28de215b29766beba836ccd1a5626a2880863bd4c33f
 # source_title_original: Abbas Ay Shere Nayastan e Haider
 # editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
+# additional_source_id: nohawriteups:08fbcc33d079ca6d7fbb
+# additional_source_url: https://www.nohawriteups.org/aye-sher-e-nayastan-e-haider-abbas/
+# additional_raw_sha256: 2bbca019d590f0db07f54864e95fe92cf8d194548c8c568695b8fc593e1bb218
+# additional_source_note: Source verses match existing fuller Roman composition; canonical has additional Haal Shabbir and closing verses, retained.
 ---
 
 abbas ay shere nayastane hyder

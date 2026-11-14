@@ -36,6 +36,10 @@ romanLyrics: |-
 # source_id: nohayonline:b6feabd4d7575828f6f9
 # source_url: https://www.nohayonline.com/details_content.php?id=148
 # raw_sha256: ae3a5ce0d49a19e8a42dcb88206c0cfce06df3fc1c87eabfef8a010996780091
+# additional_source_id: nohawriteups:03da03dcd5d2fb9bb961
+# additional_source_url: https://www.nohawriteups.org/andhere-dasht-may-dukhiya-sakina-kyon-chali-aayi/
+# additional_raw_sha256: bad2c5de5752a6306f1f2fb493450c252366ab031ac354fa7af38480fabef47d
+# additional_source_note: All five source couplets match canonical bilingual poem; repeated title refrain omitted.
 ---
 اندھیرے دشت میں دکھیا سکینہ کیوں چلی آئیں
 تن بے سر یہ کہتا تھا سکینہ کیوں چلی آئیں

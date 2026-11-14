@@ -74,3 +74,9 @@ Compared original archived HTML wordings for pairs `0c682c979a278cde270b`/`911cc
 - `nohawriteups:7629074f8c13f4d2aad6`: source preserves Urdu and Panjabi versions in the original script. Both retained in a single unpublished source MD, separated by an explicit section divider until the site can represent the Panjabi text as its own edition. Not yet Roman-aligned.
 
 These are source recoveries, not finished editorial approval. All outcomes are recorded exclusively in `audit/nohawriteups-review-status.csv`.
+
+## First additional individually adjudicated sources
+
+- `03da03dcd5d2fb9bb961`: independently compared all five substantive couplets with `andhere-dasht-may.md` and linked its archived source to the existing bilingual poem; no second file.
+- `08fbcc33d079ca6d7fbb`: linked seven matching source verses to the fuller existing `abbas-ay-shere-nayastan-e-haider.md`, retaining the canonical poem's additional verses.
+- `0642440f6de94b5b0aa2`: a **different** poem despite its shared 'baad-e-saba' title motif. Kept separate as eight-stanza unpublished Roman draft addressing Abbas and Sakina; the pre-existing `ay-baade-saba-ja.md` is an Asghar poem and remains untouched.
