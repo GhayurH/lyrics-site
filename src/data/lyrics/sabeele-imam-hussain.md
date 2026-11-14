@@ -1,82 +1,83 @@
 ---
 title: "نہر رواں ہے فیض شاہ مشرقین کی"
-alternateTitle: "Sabeele Imam Hussain"
+alternateTitle: "Sabil-e-Imam Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Nehre rawan hai faize shahe mashraqain ki
-  Pyason piyo sabeel hai nazre hussain ki
-  Naame maula pe hai pani jo pilane waale
-  Haa yehi log hai firdaus may jaane waale
+  Nahr-e-rawaaṅ hai faiz-e-Shah-e-mashraqain ki
+  Pyaasoṅ piyo sabil hai nazr-e-Husain ki
+  Naam-e-Maula pe hai paani jo pilaane wale
+  Haaṅ yehi log haiṅ firdaus mein jaane wale
 
   1
-  Sirf shabbir ka dar hai jo ye phailaye hai haath
-  Warna ye log kahan maang ke khaane waale
+  Sirf Shabbir ka dar hai jo ye phailaaye hai haath
+  Warna ye log kahaaṅ maaṅg ke khaane wale
 
   2
-  Teri raahon may bichayenge farishte aankhein
-  Farsh mazloom ki majlis ka bichane waale
+  Teri raahoṅ mein bichhaayeṅge farishte aaṅkheṅ
+  Farsh mazlum ki majlis ka bichhaane wale
 
   3
-  Farwa deti hai duayein sada abaad rahe
-  Roke mehendi mere qasim ki uthane waale
+  Farwa deti hai duaaeṅ sada aabaad rahe
+  Ro ke mehndi mere Qasim ki uthaane wale
 
   4
-  Haath uthakar tujhe dete hai dua hurr e jari
-  Paon shabbir ke zaair ke dabane waale
+  Haath uthaakar tujhe dete haiṅ dua Hurr-e-jari
+  Paaoṅ Shabbir ke zaair ke dabaane wale
 
   5
-  Do kate haath tujhe girne nahi denge kabhi
-  Chote hazrat ka alam ghar pe lagane waale
+  Do kate haath tujhe girne nahiṅ deṅge kabhi
+  Chhote Hazrat ka alam ghar pe lagaane wale
 
   6
-  Hai yaqeeen khuld may wo jayenge sab se pehle
-  Rassiyan thaame julooson ko chalane waale
+  Hai yaqin khuld mein wo jaayeṅge sab se pehle
+  Rassiyaaṅ thaame julusoṅ ko chalaane wale
 
   7
-  Ek guzarish hai ke abbas ke laashe pe na jaaye
-  Chadare zahra ko naize pe uthane waale
+  Ek guzaarish hai ke Abbas ke laashe pe na jaaye
+  Chaadar-e-Zahra ko naize pe uthaane wale
 
   8
-  Dare zindan pe baithi hai sakina uth ja
-  Shaahzadi tere baba nahi aane waale
+  Dar-e-zindaaṅ pe baithi hai Sakina uth ja
+  Shahzaadi tere Baba nahiṅ aane wale
 
   9
-  Shaah kehte thay ke jao ali akbar jao
-  Hum nahi laasha e abbas se jaane waale
+  Shah kehte the ke jaao Ali Akbar jaao
+  Hum nahiṅ laasha-e-Abbas se jaane wale
 
   10
-  Aakhri waqt bhi aayi nahi saaye may rabab
-  Aise dekhe na kahin waada nibhane waale
+  Aakhri waqt bhi aayi nahiṅ saaye mein Rabaab
+  Aise dekhe na kahiṅ waada nibhaane wale
 
   11
-  Ban'ne kab dete thay zindan se baahar turbat
-  Neel chehre pe sakina ke banane waale
+  Banne kab dete the zindaan se baahar turbat
+  Nil chehre pe Sakina ke banaane wale
 
   12
-  Kya ijazat hai takallum bhi tere saath chale
-  Qabre zehra pe diya aake jalane waale
+  Kya ijaazat hai Takallum bhi tere saath chale
+  Qabr-e-Zehra pe diya aake jalaane wale
 # source_id: nohayonline:296923d24998c83ad939
 # source_url: https://www.nohayonline.com/details_content.php?id=1081
 # raw_sha256: 55eb1f37fef049f3b6d65e555c744a6c1b715ba1b905d4462035e52808a61e64
 ---
 نہر رواں ہے فیض شاہ مشرقین کی
-پیاسوں پیو سبیل ہے نظر حسین کی
+پیاسوں پیو سبیل ہے نذر حسین کی
 نام مولا پہ ہے پانی جو پلانے والے
-ہاں یہی لوگ ہے فردوس میں جانے والے
+ہاں یہی لوگ ہیں فردوس میں جانے والے
 
 ۱
-صرف شبیر کا در ہے جو یہ پھیلاے ہے ہاتھ
+صرف شبیر کا در ہے جو یہ پھیلائے ہے ہاتھ
 ورنہ یہ لوگ کہاں مانگ کے کھانے والے
 
 ۲
-تیری راہوں میں بچھاےنگے فرشتے آنکھیں
+تیری راہوں میں بچھائیں گے فرشتے آنکھیں
 فرش مظلوم کی مجلس کا بچھانے والے
 
 ۳
@@ -85,14 +86,14 @@ romanLyrics: |-
 
 ۴
 ہاتھ اٹھاکر تجھے دیتے ہیں دعا حر جری
-پاؤں شبیر کے زایر کے دبانے والے
+پاؤں شبیر کے زائر کے دبانے والے
 
 ۵
 دو کٹے ہاتھ تجھے گرنے نہیں دیں گے کبھی
-چھوٹے حضرت کا الم گھر پہ لگانے والے
+چھوٹے حضرت کا علم گھر پہ لگانے والے
 
 ۶
-ہے یقین خلد میں وہ جاے نگے سب سے پہلے
+ہے یقین خلد میں وہ جائیں گے سب سے پہلے
 رسیاں تھامے جلوس کو چلانے والے
 
 ۷
@@ -105,10 +106,10 @@ romanLyrics: |-
 
 ۹
 شاہ کہتے تھے کہ جاؤ علی اکبر جاؤ
-ہم نہیں لاشہء عباس سے جانے والے
+ہم نہیں لاشۂ عباس سے جانے والے
 
 ۱۰
-آخری وقت بھی آی نہیں ساے میں رباب
+آخری وقت بھی آئی نہیں سائے میں رباب
 ایسے دیکھے نہ کہیں وعدہ نبھانے والے
 
 ۱۱

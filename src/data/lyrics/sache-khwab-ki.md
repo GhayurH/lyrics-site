@@ -6,44 +6,45 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
+reciter: "Tableegh-e-Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sache khwab ki sach hogi tabeer zaroor
-  Haq par denge qurbani shabbir zaroor
+  Sachche khwaab ki sach hogi taabir zarur
+  Haq par deṅge qurbaani Shabbir zarur
 
   1
-  Ashke ghame shabbir hai jiski aankhon may
-  Usko milegi jannat ki jageer zaroor
+  Ashk-e-gham-e-Shabbir hai jis ki aaṅkhoṅ mein
+  Us ko milegi jannat ki jaagir zarur
 
   2
-  Khaake shafa ka noor hai mere maathe par
-  Roze qayamat chamkegi taqdeer zaroor
+  Khaak-e-shifa ka nur hai mere maathe par
+  Roz-e-qayaamat chamkegi taqdir zarur
 
   3
-  Kaaba dekhne waale karbobala bhi dekh
-  Padna hai quran to pad tafseer zaroor
+  Kaaba dekhne wale Karb o bala bhi dekh
+  Parhna hai Quraan to parh tafsir zarur
 
   4
-  Hum ko janab e fatema zehra ki hai dua
-  Karte rahenge zikre ghame shabbir zaroor
+  Hum ko Janaab-e-Faatima Zehra ki hai dua
+  Karte raheṅge zikr-e-gham-e-Shabbir zarur
 
   5
   Asghar ki jaanib jo chala tha keh dega
-  Mehshar may wo saari kahani teer zaroor
+  Mahshar mein wo saari kahaani tir zarur
 
   6
-  Hal min nasir ki jab denge shaah sada
-  Gir jayega jhoole se baysheer zaroor
+  Hal min naasir ki jab deṅge Shah sada
+  Gir jaayega jhule se beshir zarur
 
   7
-  Bheegi hui phir kyun hai lehad ye asghar ki
-  Qabr bana kar roye hai shabbir zaroor
+  Bhigi hui phir kiuṅ hai lahad ye Asghar ki
+  Qabr bana kar roye haiṅ Shabbir zarur
 
   8
-  Sabr agar ban jaata hai talwaar urooj
-  Kat jaati hai zulm ki har zanjeer zaroor
+  Sabr agar ban jaata hai talwaar Urooj
+  Kat jaati hai zulm ki har zanjir zarur
 # source_id: nohayonline:5f517e3411e2fb5c00aa
 # source_url: https://www.nohayonline.com/details_content.php?id=809
 # raw_sha256: f9fb02287a12d7208f6e2f32663ef643f0d1d9e7555545c052fb1ae9a1b1100d
@@ -56,12 +57,12 @@ romanLyrics: |-
 اُس کو ملے گی جنت کی جاگیر ضرور
 
 ۲
-خاکِ شفائ کا نور ہے میرے ماتھے پر
+خاکِ شفا کا نور ہے میرے ماتھے پر
 روزِ قیامت چمکے گی تقدیر ضرور
 
 ۳
-کعبہ دیکھنے والے کربو بلا بھی دیکھ
-پڑھنا ہے قرآن تو پڑ تفسیر ضرور
+کعبہ دیکھنے والے کرب و بلا بھی دیکھ
+پڑھنا ہے قرآن تو پڑھ تفسیر ضرور
 
 ۴
 ہم کو جنابِ فاطمہ زہرا کی ہے دُعا
@@ -72,7 +73,7 @@ romanLyrics: |-
 محشر میں وہ ساری کہانی تیر ضرور
 
 ۶
-ھَل مِن ناصر کی جب دیں گے شاہ صدا
+ہَل مِن ناصر کی جب دیں گے شاہ صدا
 گِر جائے گا جھُولے سے بے شیر ضرور
 
 ۷
