@@ -6,63 +6,65 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Goonjti hai kis ke rone ki sada
+  Gunjti hai kis ke rone ki sada
   Subbat alaiyya masayebun lau annaha
-  Ay madina hai ye kiska marsiya
+  Ae Madina hai ye kis ka marsiya
+  Subbat alaiyya masayebun lau annaha
 
   1
-  Mere baba kya bataun aap ko
+  Mere baba kya bataauṅ aap ko
   Ro na paayi ek beti baap ko
-  Khoob ummat ne diya mujhko sila
+  Khub ummat ne diya mujh ko sila
 
   2
-  Qabr mein le kar ye gham jaaungi mai
-  Kaise wo manzar bhula paaungi mai
-  Rassiyon mein abul hasan ka tha gala
+  Qabr meiṅ le kar ye gham jaauṅ gi main
+  Kaise wo manzar bhula paauṅ gi main
+  Rassiyoṅ meiṅ Abul Hasan ka tha gala
 
   3
-  Meri aankhon mein andhere cha gaye
-  Batn mein mohsin shahadat paa gaye
-  Mujhpe darwaza gira jalta hua
+  Meri aankhoṅ meiṅ andhere chhaa gaye
+  Batn meiṅ Mohsin shahaadat paa gaye
+  Mujh pe darwaaza gira jalta hua
 
   4
-  Kya kahun mujh par jo guzri sakhtiyan
-  Kis tarha dekhoge tooti phasliyan
-  Band karlo aankhein ay khyber kusha
+  Kya kahuṅ mujh par jo guzri sakhtiyaṅ
+  Kis tarah dekho ge tuti pasliyaṅ
+  Band kar lo aankheiṅ ae Khaibar Kusha
 
   5
-  Le ke bachon ko bhare darbar mein
-  Haq ki khaatir majma e aghiyaar mein
-  Jaa na sakti thi magar jaana pada
+  Le ke bachchoṅ ko bhare darbaar meiṅ
+  Haq ki khaatir Majma-e-Aghyaar meiṅ
+  Jaa na sakti thi magar jaana para
 
   6
-  Uff wo matam ab jo karna hai mujhe
-  Maqtalon se bhi guzarna hai mujhe
-  Mere khoon ko dekhna hai karbala
+  Uf wo maatam ab jo karna hai mujhe
+  Maqtaloṅ se bhi guzarna hai mujhe
+  Mere khuṅ ko dekhna hai Karbala
 
   7
-  Ay khuda dil kaun sa laaungi mai
-  Zabt aakhir kaise kar paaungi mai
-  Betiyan jab hongi meri berida
+  Ae Khuda dil kaun sa laauṅ gi main
+  Zabt aakhir kaise kar paauṅ gi main
+  Betiyaṅ jab hoṅ gi meri berida
 
   8
-  Koi gumbad aastan koi nahi
-  Qabr par bhi sayeban koi nahi
-  Ay musalmano yehi hota hai kya
+  Koi gumbad aastaaṅ koi nahiṅ
+  Qabr par bhi saaybaaṅ koi nahiṅ
+  Ae musalmaano yahi hota hai kya
 
   9
-  Apne baba ko mai royi dhoop mein
-  Sab kameini apni khoyi dhoop mein
-  Aaj be-saaya hai phir marqad mera
+  Apne baba ko main royi dhup meiṅ
+  Sab kamaai apni khoyi dhup meiṅ
+  Aaj besaaya hai phir marqad mera
 
   10
-  Bazm mein aamir hai ek shor e fughan
-  Wo asar nayyar magar mumkin kahan
-  Fatema zehra ke nauhe mein jo tha
+  Bazm meiṅ Aamir hai ek Shor-e-Fughaaṅ
+  Wo asar Nayyar magar mumkin kahaaṅ
+  Fatima Zehra ke nauhe meiṅ jo tha
 # source_id: nohayonline:915216430e0c5d529e24
 # source_url: https://www.nohayonline.com/details_content.php?id=1786
 # raw_sha256: 1bf9e816a50d3377e3506bdef706ec85efabd01c9f4c9f8dca054828a91ef15f
@@ -71,11 +73,12 @@ romanLyrics: |-
 گونجتی ہے کس کے رونے کی صدا
 سبت علیا مصائبن لو انھا
 اے مدینہ ہے یہ کس کا مرثیہ
+سبت علیا مصائبن لو انھا
 
 ۱
 میرے بابا کیا بتاؤں آپ کو
 رو نہ پائی اک بیٹی باپ کو
-خوب امت نے دیا مجھکو صلہ
+خوب امت نے دیا مجھ کو صلہ
 
 ۲
 قبر میں لے کر یہ غم جاؤں گی میں
@@ -83,18 +86,18 @@ romanLyrics: |-
 رسیوں میں ابوالحسن کا تھا گلا
 
 ۳
-میری آنکھوں میں اندھیرے چھا گےء
-بطن میں محسن شہادت پا گےء
+میری آنکھوں میں اندھیرے چھا گئے
+بطن میں محسن شہادت پا گئے
 مجھ پہ دروازہ گرا جلتا ہوا
 
 ۴
 کیا کہوں مجھ پر جو گزری سختیاں
 کس طرح دیکھو گے ٹوٹی پسلیاں
-بند کرلو آنکھیں اے خیبر کشا
+بند کر لو آنکھیں اے خیبر کشا
 
 ۵
 لے کے بچوں کو بھرے دربار میں
-حق کی خاطر مجمعہء اغیار میں
+حق کی خاطر مجمعِ اغیار میں
 جا نہ سکتی تھی مگر جانا پڑا
 
 ۶
@@ -105,7 +108,7 @@ romanLyrics: |-
 ۷
 اے خدا دل کون سا لاؤں گی میں
 ضبط آخر کیسے کر پاؤں گی میں
-بیٹیاں جب ہونگی میری بے ردا
+بیٹیاں جب ہوں گی میری بے ردا
 
 ۸
 کوئی گنبد آستاں کوئی نہیں
@@ -113,11 +116,11 @@ romanLyrics: |-
 اے مسلمانوں یہی ہوتا ہے کیا
 
 ۹
-اپنے بابا کو میں روی دھوپ میں
-سب کمای اپنی کھوئی دھوپ میں
+اپنے بابا کو میں روئی دھوپ میں
+سب کمائی اپنی کھوئی دھوپ میں
 آج بے سایہ ہے پھر مرقد میرا
 
 ۱۰
-بزم میں عامر‌ ہے کہ شور فغاں
+بزم میں عامر ہے اک شورِ فغاں
 وہ اثر نیر مگر ممکن کہاں
 فاطمہ زہرا کے نوحے میں جو تھا

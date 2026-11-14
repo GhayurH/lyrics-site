@@ -1,40 +1,86 @@
 ---
-title: "Soraj Ne Sitaron Se Kaha Sab Se Alag Hai"
-language: "Roman Urdu"
+title: "سورج نے ستاروں سے کہا سب سے الگ ہے"
+alternateTitle: "Suraj Ne Sitaaroṅ Se Kaha Sab Se Alag Hai"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu"]
+poet: "Mir Hasan Mir"
+reciter: "Mujawar Abbas"
+tags: ["noImage"]
 aliases: []
 published: false
+romanLyrics: |-
+  Suraj ne sitaaroṅ se kaha sab se alag hai
+  Shabbir ke khaime ka diya sab se alag hai
+
+  1
+  Jab Hur ne kaha meri khata sab se alag hai
+  Maula ne kaha meri ataa sab se alag hai
+
+  2
+  Jab puchha gaya kis ki ziya sab se alag hai
+  To Kaabe ne kaha Karb o Balaa sab se alag hai
+
+  3
+  Shabbir tere dar ki ataa kya ho bayaaṅ jab
+  Beshir ke jhule ki ataa sab se alag hai
+
+  4
+  Misam se kaha Ibn-e-Mazaahir ne kaha bhaai
+  Shabbir pe marne ka maza sab se alag hai
+
+  5
+  Mahshar meiṅ alag kar ke hameiṅ Rab ye kahe ga
+  Haaṅ Fatima Zahra ki dua sab se alag hai
+
+  6
+  Sajda use khud Sher-e-Ilaahi ne kiya hai
+  Naadaano jabhi mera Khuda sab se alag hai
+
+  7
+  Isa huṅ main murdoṅ ko shifa deta huṅ lekin
+  Ae Khaak-e-Shifa teri shifa sab se alag hai
+
+  8
+  Milni hai Nusairi ko bhi har haal meiṅ lekin
+  Mahshar meiṅ muqassir ki saza sab se alag hai
 # source_id: tajpoints:d371bac5df1c986202d3
 # source_url: https://tajpoints.com/2018/04/soraj-ne-sitaron-se-kaha-sab-se-alag-hai.html
 # raw_sha256: 62af04068601082627497df439ea0bb21cfc0675fb542bc468d0900d058f3d8f
 ---
 
-Soraj Ne Sitaron Se Kaha Sab Se Alag Hai
-Shabir Ke Khaime Ka Diya Sab Se Alag Hai
+سورج نے ستاروں سے کہا سب سے الگ ہے
+شبیر کے خیمے کا دیا سب سے الگ ہے
 
-1
-Jab Hur Ne Kaha Meri Khata Sab Se Alag Hai
-Mula Ne Kaha Meri Atta Sab Se Alag Hai
-Jab Pocha Gaya Kis Ki Zia Sab Se Alag Hai
-Tu Kabay Ne Kaha Karb-o-Bala Sab Se Alag Hai
+۱
+جب حر نے کہا میری خطا سب سے الگ ہے
+مولا نے کہا میری عطا سب سے الگ ہے
 
-2
-Shabir Tere Dar Ki Atta Kya Ho Biyan Jab
-Be-Sheer Ke Jholay Ki Atta Sab Se Alag Hai
-Meesum Se Kaha Ibn-e-Muzahir Ne Kaha Bhai
-Shabir Pe Marne Ka Maza Sab Se Alag Hai
+۲
+جب پوچھا گیا کس کی ضیا سب سے الگ ہے
+تو کعبے نے کہا کرب و بلا سب سے الگ ہے
 
-3
-Mehshar Mein Alag Kar Ke Humein Rab Yeh Kahe Ga
-Haan Fatima Zahra Ki Dua Sab Se Alag Hai
-Sajda Ossay Khud Shair-e-Ilahi Ne Kiya Hai
-Nadano Jabhi Mera Khuda Sab Se Alag Hai
+۳
+شبیر تیرے در کی عطا کیا ہو بیاں جب
+بے شیر کے جھولے کی عطا سب سے الگ ہے
 
-4
-Esa Hoon Main Murdoon Ko Shifa Deta Hoon Lekin
-Aye Khak-e-Shifa Teri Shifa Sab Se Alag Hai
-Milni Hai Nuseri Ko Bhi Har Haal Mein Lekin
-Mehshar Mein Muqassar Ki Saza Sab Se Alag Hai
+۴
+میثم سے کہا ابنِ مظاہر نے کہا بھائی
+شبیر پہ مرنے کا مزہ سب سے الگ ہے
+
+۵
+محشر میں الگ کر کے ہمیں رب یہ کہے گا
+ہاں فاطمہ زہرا کی دعا سب سے الگ ہے
+
+۶
+سجدہ اسے خود شیرِ الٰہی نے کیا ہے
+نادانو جبھی میرا خدا سب سے الگ ہے
+
+۷
+عیسیٰ ہوں میں مردوں کو شفا دیتا ہوں لیکن
+اے خاکِ شفا تیری شفا سب سے الگ ہے
+
+۸
+ملنی ہے نصیری کو بھی ہر حال میں لیکن
+محشر میں مقصر کی سزا سب سے الگ ہے

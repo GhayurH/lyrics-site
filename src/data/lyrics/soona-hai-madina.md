@@ -1,87 +1,63 @@
 ---
 title: سُونا ہے مدینہ سُونا ہے مدینہ
-alternateTitle: Soona Hai Madina
+alternateTitle: Suna Hai Madina
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
+reciter: Hadi Ali Khan Muslim
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Soona hai madina soona hai madina
+romanLyrics: |-
+  Suna hai Madina suna hai Madina
 
+  Aashur ko aaya ye Khat-e-Fatima Sughra
+  Suna hai Madina
+  Kab laut ke ghar aao ge ya Shaah-e-Madina
+  Suna hai Madina
 
   1
-
-  Ashoor ko aaya ye khathe fatima sughra
-
+  Main dar pe khari rehti huṅ ek aas lagaaye
+  Bhaiya nahiṅ aaye
+  Shikwa nahiṅ Akbar se hai taqdir se shikwa
+  Suna hai Madina
 
   2
-
-  Kab laut ke ghar aaoge ya shaahe madina
-
+  Do din se mere halq se paani nahiṅ utra
+  Qurbaan ho Sughra
+  Dil kehta hai pardes meiṅ tum pyaase ho baba
+  Suna hai Madina
 
   3
-
-  Mai dar pe khadi rehti hoo ek aas lagaye
-
-  Bhaiya nahi aaye
-
-  Shikwa nahi akbar se hai taqdeer se shikwa
-
+  Pardes meiṅ bhaiya ho agar byaah tumhaara
+  Armaan hai mera
+  Baandhe hue sehra meri turbat pe bhi aana
+  Suna hai Madina
 
   4
-
-  Do din se mere halq se pani nahi uthra
-
-  Qurban ho sughra
-
-  Dil kehta hai pardes mein tum pyase ho baba
-
+  Main raatoṅ ko soti huṅ to jaag uthti huṅ aksar
+  Kya baat hai aakhir
+  Bikhraaye hue baal nazar aati hai Zehra
+  Suna hai Madina
 
   5
-
-  Pardes mein bhaiya ho agar byah tumhara
-
-  Armaan hai mera
-
-  Baandhe huwe sehra meri turbat pe bhi aana
-
+  Ek shishe meiṅ kuchh khaak liye phirti hai daadi
+  Aur karti hai zaari
+  Mazlum Husaina mere mazlum Husaina
+  Suna hai Madina
 
   6
-
-  Mai raaton ko soti hoo to jaag uth''ti hoon aksar
-
-  Kya baat hai aakhir
-
-  Bhikraye huwe baal nazar aati hai zehra
-
+  Amma ki bhari god rahe maang na ujre
+  Khaaliq se dua hai
+  Ya Rab mere beshir ka aabaad ho jhula
+  Suna hai Madina
 
   7
-
-  Ek sheeshe mein kuch khaak liye phirti hai daadi
-
-  Aur karthi hai zaari
-
-  Mazloom hussaina mere mazloom hussaina
-
-
-  8
-
-  Amma ki bhari godh rahe, maang na ujde
-
-  Khaaliq se dua hai
-
-  Ya rab mere baysheer ka abaad ho jhoola
-
-
-  9
-
-  Khat padke hussain ibne ali khoob sa roye
-
-  Aur sar ko jhukaye
-
-  Qasid ke khareeb rakh diya ek nanha sa laasha'
+  Khat parh ke Husain Ibn-e-Ali khub sa roye
+  Aur sar ko jhukaaye
+  Qaasid ke qarib rakh diya ek nanha sa laasha
+  Suna hai Madina
 # source_id: nohayonline:4929ce80de0139909ab7
 # source_url: https://www.nohayonline.com/details_content.php?id=575
 # raw_sha256: 14e812901678d6b4aa5b06e33efd40191443d200d24ed1715b73b010d3d16244
@@ -92,43 +68,49 @@ romanLyrics: 'Soona hai madina soona hai madina
 
 سُونا ہے مدینہ سُونا ہے مدینہ
 
-۱
 عاشور کو آیا یہ خطِ فاطمہ صغریٰ
+سُونا ہے مدینہ
+کب لوٹ کے گھر آؤ گے یا شاہِ مدینہ
+سُونا ہے مدینہ
 
-۲
-کب لوٹ کے گھر آئو گے یا شاہِ مدینہ
-
-۳
+۱
 میں در پہ کھڑی رہتی ہوں اک آس لگائے
 بھّیا نہیں آئے
 شکوہ نہیں اکبر سے ہے تقدیر سے شکوہ
+سُونا ہے مدینہ
 
-۴
+۲
 دو دن سے میرے حلق سے پانی نہیں اُترا
 قربان ہو صغریٰ
 دل کہتا ہے پردیس میں تم پیاسے ہو بابا
+سُونا ہے مدینہ
 
-۵
+۳
 پردیس میں بھّیا ہو اگر بیاہ تمہارا
 ارمان ہے میرا
 باندھے ہوئے سہرا میری تُربت پہ بھی آنا
+سُونا ہے مدینہ
 
-۶
+۴
 میں راتوں کو سوتی ہوں تو جاگ اُٹھتی ہوں اکثر
 کیا بات ہے آخر
 بکھرائے ہوئے بال نظر آتی ہے زہرا
+سُونا ہے مدینہ
 
-۷
+۵
 اک شیشے میں کچھ خاک لیے پھرتی ہے دادی
 اور کرتی ہے زاری
 مظلوم حسینا میرے مظلوم حسینا
+سُونا ہے مدینہ
 
-۸
+۶
 اماں کی بھری گود رہے مانگ نہ اُجڑے
 خالق سے دُعا ہے
 یا رب میرے بے شیر کا آباد ہو جھولا
+سُونا ہے مدینہ
 
-۹
+۷
 خط پڑھ کے حسین ابنِ علی خوب سا روئے
 اور سر کو جھُکائے
 قاصد کے قریب رکھ دیا اک ننھا سا لاشہ
+سُونا ہے مدینہ

@@ -1,79 +1,82 @@
 ---
-title: "سبحان ربی الاعلی ا"
-alternateTitle: "Subhana Rabbi Al Aala"
+title: "سبحان ربی الاعلیٰ"
+alternateTitle: "Subhaana Rabbi Al Aalaa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Mir Hasan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Subhana rabbi al aala
-  Khanjar talay hussain ye dete rahe sada
+  Subhaana rabbi al aalaa
+  Khanjar tale Husain ye dete rahe sada
+  Subhaana rabbi al aalaa
 
   1
-  Asghar ko tere naam par qurban kar diya
-  Ghatri mein tere waaste qasim utha liya
-  Maine teri azan par akbar kiya fida
+  Asghar ko tere naam par qurbaan kar diya
+  Gathri meiṅ tere waaste Qaasim utha liya
+  Main ne teri azaan par Akbar kiya fida
 
   2
-  Jis dam hussain zeen se uthre zameen par
-  Zakhmon se choor choor thay sibte nabi magar
-  Pyase labon pe jaari thi tasbeeh e kibriya
+  Jis dam Husain zin se utre zamin par
+  Zakhmoṅ se chur chur the Sibt-e-Nabi magar
+  Pyaase laboṅ pe jaari thi Tasbih-e-Kibriya
 
   3
-  Kehta hai apne dil mein wo parwardigar se
-  Tha ye kabhi hamari sakina ke waaste
-  Ab seene par sawaar hai qaatil agar to kya
+  Kehta hai apne dil meiṅ wo Parwardigaar se
+  Tha ye kabhi hamaari Sakina ke waaste
+  Ab sine par sawaar hai qaatil agar to kya
 
   4
-  Baazu tadap rahe thay kisi ke labe faraat
-  Haste hue jo khooli ne mujhpar uthaya haath
-  Lekin labe hussain par jaari rahi sada
+  Baazu tarap rahe the kisi ke Lab-e-Furaat
+  Hanste hue jo Khauli ne mujh par uthaaya haath
+  Lekin Lab-e-Husain par jaari rahi sada
 
   5
-  Pyasa ho zibha dasht mein aur dekhein bibiyan
-  Manzoor ye tujhe hai agar rabbe do jahan
-  Raazi teri riza pe hai zahra ka laadla
+  Pyaasa ho zibh dasht meiṅ aur dekheiṅ Bibiyaṅ
+  Manzur ye tujhe hai agar Rabb-e-Do-Jahaaṅ
+  Raazi teri riza pe hai Zahra ka laadla
 
   6
-  Dete nahi ye pani jo zahra ke chain ko
-  Kya dukh hai tune baksha hai kausar hussain ko
-  Solah pehar ki pyaas ka shikwa nahi zara
+  Dete nahiṅ ye paani jo Zahra ke chain ko
+  Kya dukh hai tu ne bakhsha hai Kausar Husain ko
+  Solah pehar ki pyaas ka shikwa nahiṅ zara
 
   7
-  Tukde mere misaale alif laam meem ho
-  Lut jaye mera ghar mere bache yateem ho
-  Har haal mein kahega nawasa rasool ka
+  Tukre mere Misaal-e-Alif Laam Mim ho
+  Lut jaaye mera ghar mere bachche yatim ho
+  Har haal meiṅ kahe ga nawaasa Rasul ka
 
   8
-  Nana bhi aaye hai mere baba bhi aaye hai
-  Maadar ko meri bhai hassan saath laaye hai
-  Sadh shukr surkh-roo hai buzurgon se ho gaya
+  Naana bhi aaye haiṅ mere baba bhi aaye haiṅ
+  Maadar ko meri bhaai Hasan saath laaye haiṅ
+  Sad shukr surkhru hai buzurgoṅ se ho gaya
 
   9
-  Sheh par chali jo zarb takallum wo aakhri
-  Kat'ti hui ragon ki musalsal sada ye thi
-  Maine jo tujhse waada kiya tha nibha diya
+  Shah par chali jo zarb Takallum wo aakhri
+  Katti hui ragoṅ ki musalsal sada ye thi
+  Main ne jo tujh se waada kiya tha nibha diya
 # source_id: nohayonline:3a4ff4add37910ac06d8
 # source_url: https://www.nohayonline.com/details_content.php?id=1085
 # raw_sha256: 63606fa691af3abc8c57201b11ec98eb7709e1390f8d31b22352f1119f9dba9c
 ---
 
-سبحان ربی الاعلی ا
+سبحان ربی الاعلیٰ
 خنجر تلے حسین یہ دیتے رہے صدا
+سبحان ربی الاعلیٰ
 
 ۱
 اصغر کو تیرے نام پر قربان کر دیا
-گھٹڑی میں تیرے واسطے قاسم اٹھا لیا
-میں تیری اذان پر اکبر کیا فدا
+گٹھڑی میں تیرے واسطے قاسم اٹھا لیا
+میں نے تیری اذان پر اکبر کیا فدا
 
 ۲
 جس دم حسین زین سے اترے زمین پر
-زخموں سے چور چور تھے سبط نبی مگر
-پیاسے لبوں پہ جاری تھی تسبیح ء کبریا
+زخموں سے چور چور تھے سبطِ نبی مگر
+پیاسے لبوں پہ جاری تھی تسبیحِ کبریا
 
 ۳
 کہتا ہے اپنے دل میں وہ پروردگار سے
@@ -81,31 +84,31 @@ romanLyrics: |-
 اب سینے پر سوار ہے قاتل اگر تو کیا
 
 ۴
-بازو تڑپ رہے تھےکسی کے لب فرات
-ہنستے ہوے جو خولی نے ‌مجھ پر اٹھایا ہاتھ
-لیکن لب حسین پر جاری رہی صدا
+بازو تڑپ رہے تھے کسی کے لبِ فرات
+ہنستے ہوئے جو خولی نے مجھ پر اٹھایا ہاتھ
+لیکن لبِ حسین پر جاری رہی صدا
 
 ۵
-پیاسا ہو ذبح دشت میں اور دیکھیں بی بیاں
-منظور یہ تجھے ہے اگر رب دو جہاں
-راضی تیری رضا ہے زہرا کا لاڈلا
+پیاسا ہو ذبح دشت میں اور دیکھیں بیبیاں
+منظور یہ تجھے ہے اگر ربِ دو جہاں
+راضی تیری رضا پہ ہے زہرا کا لاڈلا
 
 ۶
 دیتے نہیں یہ پانی جو زہرا کے چین کو
-کیا دکھ ہے تونے بخشا ہے کوثر حسین کو
-سولہ پہر کی پیاس کا شکوہ نہیں زرا
+کیا دکھ ہے تو نے بخشا ہے کوثر حسین کو
+سولہ پہر کی پیاس کا شکوہ نہیں ذرا
 
 ۷
-ٹکڑے میرے مثال الف لام میم ہو
-لٹ جاے میرا گھر میرے بچے یتیم ہو
+ٹکڑے میرے مثالِ الف لام میم ہو
+لٹ جائے میرا گھر میرے بچے یتیم ہو
 ہر حال میں کہے گا نواسہ رسول کا
 
 ۸
-نانا بھی آے ہیں میرے بابا بھی آے ہیں
-مادر کو میری بھای حسن ساتھ لاے ہیں
-صد شکر سرخ رو ہے بزرگوں سے ہوگیا
+نانا بھی آئے ہیں میرے بابا بھی آئے ہیں
+مادر کو میری بھائی حسن ساتھ لائے ہیں
+صد شکر سرخ رو ہے بزرگوں سے ہو گیا
 
 ۹
 شہ پر چلی جو ضرب تکلم وہ آخری
-کٹتی ہوی رگوں کی مسلسل صدا یہ تھی
+کٹتی ہوئی رگوں کی مسلسل صدا یہ تھی
 میں نے جو تجھ سے وعدہ کیا تھا نبھا دیا
