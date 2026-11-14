@@ -6,54 +6,55 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Agha Anwar Ali"
+reciter: "Jawad ul Hassan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Uth'ta nahi hai laasha shabbir-e-natawan se
-  Abbas jald aao nehre rawan dawan se
+  Uthta nahiṅ hai laasha Shabbir-e-naatawaaṅ se
+  Abbas jald aao nahr-e-rawaaṅ dawaaṅ se
 
   1
-  Laila tadap ke boli ay mere laal mat ja
-  Ruqsat jo tujko karde la'un wo dil kahan se
+  Laila tarap ke boli ae mere laal mat ja
+  Rukhsat jo tujh ko kar de laauṅ woh dil kahaaṅ se
 
   2
-  Insaaf chahti hai ujhdi hui jawani
-  Har qam kamar pidar se har ek zaeef maa se
+  Insaaf chaahti hai ujri hui jawaani
+  Har kham kamar pidar se har ik zaif maaṅ se
 
   3
-  Dil be-tahasha karke fauje yazeed royi
-  Kay jaane kya kaha tha baysheer ne zaban se
+  Dil betahaasha kar ke fauj-e-Yazid royi
+  Kya jaane kya kaha tha beshir ne zabaaṅ se
 
   4
-  Kaamp ut'thi roohe insan nawak laga galay par
-  Yun muskura ke asghar ruqsat huwe jahan se
+  Kaaṅp uthti ruh-e-insaaṅ naawaq laga gale par
+  Yuṅ muskura ke Asghar rukhsat hue jahaaṅ se
 
   5
-  Laasha hai sheh ka uryan majboor hai behan bhi
-  Sar par rida nahi hai laaye kafan kahan se
+  Laasha hai Shah ka uryaaṅ majbur hai behan bhi
+  Sar par rida nahiṅ hai laaye kafan kahaaṅ se
 
   6
-  Itna to soch zaalim bhaari hai tauq-o-baydi
-  Rehwaar uthega kyon kar beemar-o-natawan se
+  Itna to soch zaalim bhaari hai tauq o beri
+  Rahwaar uthe ga kiuṅ kar bimaar o naatawaaṅ se
 
   7
-  Roti hai jab sakina baba ko yaad karke
-  Hilta hai qaid-khana masoom ki fughan se
+  Roti hai jab Sakina baba ko yaad kar ke
+  Hilta hai qaid khaana maasum ki fughaaṅ se
 
   8
-  Bakshish ki ek sanad hai nauha tumhara agha
-  Mil kar rahegi jannat haa maalike jina se
+  Bakhshish ki ik sanad hai noha tumhaara Agha
+  Mil kar rahe gi jannat haaṅ Maalik-e-jinaaṅ se
 # source_id: nohayonline:b398b0584089c9ab9b51
 # source_url: https://www.nohayonline.com/details_content.php?id=133
 # raw_sha256: d2607a2a5e8863900c65d90b6abe0d5974812e6ff9c08e0d80b7338c74d6982e
 ---
 اُٹھتا نہیں ہے لاشہ شبیرِ ناتواں سے
-عباس جلد آئو نہرِ رواں دواں سے
+عباس جلد آؤ نہرِ رواں دواں سے
 
 ۱
 لیلیٰ تڑپ کے بولی اے میرے لال مت جا
-رخصت جو تجھ کو کر دے لائوں وہ دل کہاں سے
+رخصت جو تجھ کو کر دے لاؤں وہ دل کہاں سے
 
 ۲
 انصاف چاہتی ہے اُجڑی ہوئی جوانی

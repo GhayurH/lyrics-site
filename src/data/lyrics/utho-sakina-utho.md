@@ -6,47 +6,48 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Irfan"
+reciter: "Nasir Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Utho Sakina utho jata hay karwan
-  Teray baghair jani kaisay jiye gi maa
+  Utho Sakina utho jaata hai kaarwaṅ
+  Tere baghair jaane kaise jiye gi maaṅ
 
   1
-  Zindan ka ye andhera chota sa aah sawera
-  Pardes may Sakina gham khawar kon tera
-  Zakhmi hain kan teray khali hain baliyan
+  Zindaaṅ ka ye andhera hota kahaaṅ sawera
+  Pardes mein Sakina ghamkhwaar kaun tera
+  Zakhmi haiṅ kaan tere chhini haiṅ baaliyaaṅ
 
   2
-  Qabr e Batool tanha veeran hay Madina
-  Karb o bala may Asghar zindan may Sakina
-  Dil ko hila rahi hain Akbar ki hichkiyan
+  Qabr-e-Batul tanha viraan hai Madina
+  Karbobala mein Asghar zindaan mein Sakina
+  Dil ko hila rahi hai Asghar ki hichkiyaaṅ
 
   3
-  Maa ja rahi hay bibi veeran goad le kar
-  Karb o bala ke ban may apna suhag de kar
-  Kaisay Madinay jaoon sab kuch to hay yahan
+  Maaṅ ja rahi hai Bibi viraan god le kar
+  Karbobala ke ban mein apna suhaag de kar
+  Kaise Madine jaauṅ sab kuchh to hai yahaaṅ
 
   4
-  Sughra ka samna may kaisay karoon bata day
-  Poochay gi jab woh mujh se may kia kahoon bata day
-  Amma meri Sakina kho aayi ho kahan
+  Sughra ka saamna main kaise karuṅ bata de
+  Puchhe gi jab woh mujh se main kya kahuṅ bata de
+  Ammaaṅ meri Sakina kho aayi ho kahaaṅ
 
   5
-  May is gharri se pehlay aey kash mar hi jaoon
-  Kis kis ko kia bataoon kis kis se munh chupaoon
-  Poochain gi mujh se aa kar jab sari bibyan
+  Main is ghari se pehle ae kaash mar hi jaauṅ
+  Kis kis ko kya bataauṅ kis kis se muṅh chhupaauṅ
+  Puchheṅ gi mujh se aa kar jab saari Bibiyaaṅ
 
   6
-  Dil gham se hay do para hamain Shamiyon ne mara
-  Abbas bhi nahi hain jo barrh ke dain sahara
-  Jangal may so rahi hain sari nishaniyan
+  Dil gham se hai do paara hameiṅ Shaamiyoṅ ne maara
+  Abbas bhi nahiṅ hai jo barh ke de sahaara
+  Jangal mein so rahi haiṅ saari nishaaniyaaṅ
 
   7
-  Irfan gham e Sakina hay dukh bhari kahani
-  Ye dukh bhari kahi Nasir ki hay zubani
-  May sochta hoon ab bhi kaisay karoon bayan
+  Irfan gham-e-Sakina hai dukh bhari kahaani
+  Ye dukh bhari kahaani Nasir ki hai zabaani
+  Main sochta huṅ ab bhi kaise karuṅ bayaaṅ
 # source_id: nohayonline:dc79001bd5ec0eeb3b3d
 # source_url: https://www.nohayonline.com/details_content.php?id=117
 # raw_sha256: 3b453f7a71892743cf304a773211c2236c4dcf03b1ead25e71e61886e04588b5
@@ -68,24 +69,24 @@ romanLyrics: |-
 دل کو ہلا رہی ہے اصغر کی ہچکیاں
 
 ۳
-ماں جا رہی ہے بی بی ویران گود لے کر
+ماں جا رہی ہے بی‌بی ویران گود لے کر
 کربوبلا کے بن میں اپنا سہاگ دے کر
-کیسے مدینے جائوں سب کچھ تو ہے یہاں
+کیسے مدینے جاؤں سب کچھ تو ہے یہاں
 
 ۴
-صغرا کاسامنامیں کیسے کروں بتادے
-پوچھے گی جب وہ مجھ سے میں کیا کہوں بتادے
+صغرا کا سامنا میں کیسے کروں بتا دے
+پوچھے گی جب وہ مجھ سے میں کیا کہوں بتا دے
 امّاں میری سکینہ کھو آئی ہو کہاں
 
 ۵
-میں اِس گھڑی سے پہلے اے کاش مر ہی جائوں
-کس کس کو کیا بتائوں کس کس سے منہ چھپائوں
+میں اِس گھڑی سے پہلے اے کاش مر ہی جاؤں
+کس کس کو کیا بتاؤں کس کس سے منہ چھپاؤں
 پوچھیں گی مجھ سے آکر جب ساری بیبیاں
 
 ۶
-دل غم سے ہے دوپارہ ہمیں شامیوں نے مارا
-عباس بھی نہیں ہے جو بڑکے دے سہارا
-جنگل میں سو رہی ہیںساری نشانیاں
+دل غم سے ہے دو پارہ ہمیں شامیوں نے مارا
+عباس بھی نہیں ہے جو بڑھ کے دے سہارا
+جنگل میں سو رہی ہیں ساری نشانیاں
 
 ۷
 عرفان غمِ سکینہ ہے دُکھ بھری کہانی
