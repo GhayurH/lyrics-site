@@ -6,80 +6,83 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jigar ko thaam ke dono jahan rote hai
-  Rasool zaadi ke bache yateem hote hai
-  Safar jahan se maula e kainaat ka hai
+  Jigar ko thaam ke donoṅ jahaan rote haiṅ
+  Rasul zaadi ke bachche yatim hote haiṅ
+
+  Safar jahaan se Maula-e-kaainaat ka hai
   Nabi ki aal pe ye waqt mushkilaat ka hai
 
   1
-  Lahoo may doob ke hum to huwe hai sarafraaz
-  Hassan tamaam karao namaziyon ki namaz
-  Khayaal kitna imamat ko wajibaat ka hai
+  Lahu mein dub ke ham to hue haiṅ sarfaraaz
+  Hasan tamaam karaao namaaziyoṅ ki namaaz
+  Khayaal kitna imaamat ko waajibaat ka hai
 
   2
-  Qayamat ek bapa ho rahi hai masjid may
-  Ke janamaz e ali ro rahi hai masjid may
-  Sahar tadapti hai chehra nidhaal raat ka hai
+  Qayaamat ek bapa ho rahi hai masjid mein
+  Ke jaanamaaz-e-Ali ro rahi hai masjid mein
+  Sahar tarapti hai chehra nidhaal raat ka hai
 
   3
-  Ye kaisa haye sitamgar ne zulm dhaaya hai
-  Isi ka masjid e kufa may khoon bahaya hai
-  Qadam qadam pe muhafiz wo deeniyat ka hai
+  Ye kaisa haaye sitamgar ne zulm dhaaya hai
+  Isi ka masjid-e-Kufa mein khun bahaaya hai
+  Qadam qadam pe muhaafiz wo diniyaat ka hai
 
   4
-  Ye kehke dete hai maula pisar ke haath may haath
-  Na chodna kabhi abbas tum hussain ka saath
-  Ye mera laal asaasa nabi ki zaat ka hai
+  Ye keh ke dete haiṅ Maula pisar ke haath mein haath
+  Na chhorna kabhi Abbaas tum Husain ka saath
+  Ye mera laal asaasa Nabi ki zaat ka hai
 
   5
-  Falak hilaati hai zainab ke shor o shain ki dhoom
-  Tadap rahi hai janaze pa baap ke kulsoom
-  Gila naseeb se be-aasra hayaat ka hai
+  Falak hilaati hai Zainab ke shor o shain ki dhum
+  Tarap rahi hai janaaze pe baap ke Kulsum
+  Gila nasib se beaasra hayaat ka hai
 
   6
-  Hassan hussain tadapte hai baap ke gham may
-  Shareek hazrat e abbas bhi hai matam may
-  Malaal sab ko yateemi ke hadsaat ka hai
+  Hasan Husain tarapte haiṅ baap ke gham mein
+  Sharik Hazrat-e-Abbaas bhi hai maatam mein
+  Malaal sab ko yatimi ke haadisaat ka hai
 
   7
-  Nikal raha hai nabi ke vazir ka taboot
-  Ke uth raha hai janabe ameer ka taboot
-  Ali ke sogh may kufa tasawuraat ka hai
+  Nikal raha hai Nabi ke wazir ka taabut
+  Ke uth raha hai Janaab-e-Amir ka taabut
+  Ali ke sog mein Kufa tasawwuraat ka hai
 
   8
-  Tadap rahe hai payambar bhi aamir o akhtar
-  Zameen pa chaayi hui hai udasiyan ghar ghar
-  Ye din muhaafiz e isam ki wafaat ka hai
+  Tarap rahe haiṅ Payambar bhi Aamir o Akhtar
+  Zamin pe chhaai hui hai udaasiyaaṅ ghar ghar
+  Ye din muhaafiz-e-isam ki wafaat ka hai
 # source_id: nohayonline:3c340821801ce470e4f6
 # source_url: https://www.nohayonline.com/details_content.php?id=1809
 # raw_sha256: 6af536931996dff78fe1e907b6b25ed1717971f3d95d1ca1b368336cd63fb302
 ---
 جگر کو تھام کے دونوں جہان روتے ہیں
 رسول زادی کے بچے یتیم ہوتے ہیں
-سفر جہان سے مولاے کاینات کا ہے
+
+سفر جہان سے مولائے کائنات کا ہے
 نبی کی آل پہ یہ وقت مشکلات کا ہے
 
 ۱
-لہو میں ڈوب کے ہم تو ہوے ہیں سرافراز
+لہو میں ڈوب کے ہم تو ہوئے ہیں سرفراز
 حسن تمام کراؤ نمازیوں کی نماز
 خیال کتنا امامت کو واجبات کا ہے
 
 ۲
 قیامت اک بپا ہو رہی ہے مسجد میں
 کہ مسجد علی رو رہی ہے مسجد میں
-سہر تڑپتی ہے چہرہ نڈھال رات کا ہے
+سحر تڑپتی ہے چہرہ نڈھال رات کا ہے
 
 ۳
-یہ کیسا ہاے ستمگر نے ظلم ڈھایا ہے
+یہ کیسا ہائے ستمگر نے ظلم ڈھایا ہے
 اسی کا مسجد کوفہ میں خوں بہایا ہے
 قدم قدم پہ محافظ وہ دینیات کا ہے
 
 ۴
-یہ کہکے دیتے ہیں مولا پسر کے ہاتھ میں ہاتھ
+یہ کہہ کے دیتے ہیں مولا پسر کے ہاتھ میں ہاتھ
 نہ چھوڑنا کبھی عباس تم حسین کا ساتھ
 یہ میرا لال اثاثہ نبی کی ذات کا ہے
 
@@ -100,5 +103,5 @@ romanLyrics: |-
 
 ۸
 تڑپ رہے ہیں پیمبر بھی عامر و اختر
-زمیں پہ چھائی ہوی ہے اداسیاں گھر گھر
+زمیں پہ چھائی ہوئی ہے اداسیاں گھر گھر
 یہ دن محافظ اسم کی وفات کا ہے
