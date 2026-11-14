@@ -1,64 +1,69 @@
 ---
 title: "المدد یا عباس"
-alternateTitle: "Tere Haathon Ka"
+alternateTitle: "Tere Haathoṅ Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Majid Raza Abidi"
+reciter: "Mukhtar Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Al madad ya abbas
-  Tere haathon ka jo mil jaaye sahara abbas
-  Phir jahan mein na rahe koi bhi pyasa abbas
-  Aap ko pyari bhatiji ki qasam hai maula
-  Na lage ab kisi bacchi ko tamacha abbas
+  Almadad ya Abbas
+
+  Tere haathoṅ ka jo mil jaae sahaara Abbas
+  Phir jahaaṅ mein na rahe koi bhi pyaasa Abbas
+
+  Aap ko pyaari bhatiji ki qasam hai Maula
+  Na lage ab kisi bachchi ko tamaancha Abbas
 
   1
   Na juda bhai se phir koi behen ho aise
-  Tum ko hai waasta e akbar o sughra abbas
+  Tum ko hai waasta-e-Akbar o Sughra Abbas
 
   2
-  Laash bhai ki na bhai ko khuda dikhlaye
-  Phir kisi bhai ke baazu na kate ya abbas
+  Laash bhai ki na bhai ko Khuda dikhlaae
+  Phir kisi bhai ke baazu na kate ya Abbas
 
   3
-  Tum ko zainab ke hai jalte huwe qaimon ki qasam
-  Sar pe behno ke rahe bhai ka saaya abbas
+  Tum ko Zainab ke hai jalte hue khaimoṅ ki qasam
+  Sar pe behnoṅ ke rahe bhai ka saaya Abbas
 
   4
-  Tum se dekha na gaya nok e sina se manzar
-  Balwe mein sar hai khula binte ali ka abbas
+  Tum se dekha na gaya nok-e-sinaaṅ se manzar
+  Balwe mein sar hai khula Bint-e-Ali ka Abbas
 
   5
-  Sab ke parde ke muhafiz ay alamdare haram
-  Berida koi behen yun na ho maula abbas
+  Sab ke parde ke muhaafiz ae Alamdaar-e-Haram
+  Berida koi behen yuṅ na ho Maula Abbas
 
   6
-  Thaam kar aap ka parcham jo duayein maangi
-  Sab ki haajaat ko karwaiye poora abbas
+  Thaam kar aap ka parcham jo duaaeṅ maangi
+  Sab ki haajaat ko karwaaiye pura Abbas
 
   7
-  Hai ye majid ki dua muntazim e karbobala
-  Hum ko mukhtar ke raste pe chalana abbas
+  Hai ye Majid ki dua muntazim-e-Karbobala
+  Ham ko Mukhtar ke raaste pe chalaana Abbas
 # source_id: nohayonline:599986cc2f62fabd9251
 # source_url: https://www.nohayonline.com/details_content.php?id=3698
 # raw_sha256: 38736284fffb06da46982d331150b5f46b92aad407041f78b60172792ef916dd
 ---
 المدد یا عباس
+
 تیرے ہاتھوں کا جو مل جائے سہارا عباس
 پھر جہاں میں نہ رہے کوئی بھی پیاسا عباس
+
 آپ کو پیاری بھتیجی کی قسم ہے مولا
 نہ لگے اب کسی بچی کو طمانچہ عباس
 
 ۱
 نہ جدا بھائی سے پھر کوئی بہن ہو ایسے
-تم کو ہے واسطہء اکبر و صغرا عباس
+تم کو ہے واسطۂ اکبر و صغرا عباس
 
 ۲
-لاش بھائی کی نہ بھای کو خدا دکھلاے
+لاش بھائی کی نہ بھائی کو خدا دکھلائے
 پھر کسی بھائی کے بازو نہ کٹے یا عباس
 
 ۳
@@ -66,17 +71,17 @@ romanLyrics: |-
 سر پہ بہنوں کے رہے بھائی کا سایہ عباس
 
 ۴
-تم سے دیکھا نہ گیا نوک سناں سے منظر
-بلوے میں سر ہے کھلا بنت علی کا عباس
+تم سے دیکھا نہ گیا نوکِ سناں سے منظر
+بلوے میں سر ہے کھلا بنتِ علی کا عباس
 
 ۵
-سب کے پردے کے محافظ اے علمدار حرم
+سب کے پردے کے محافظ اے علمدارِ حرم
 بے ردا کوئی بہن یوں نہ ہو مولا عباس
 
 ۶
 تھام کر آپ کا پرچم جو دعائیں مانگی
-سب کی حاجت کو کروایےء پورا عباس
+سب کی حاجات کو کروائیے پورا عباس
 
 ۷
-ہے یہ ماجد کی دعا منتظم کربوبلا
-ہم کو مختار کی رستے پہ چلانا عباس
+ہے یہ ماجد کی دعا منتظمِ کربوبلا
+ہم کو مختار کے رستے پہ چلانا عباس
