@@ -1,71 +1,84 @@
 ---
 title: "کیا غم ہو پھر"
-alternateTitle: "Tasbihate Hazrate Zahra"
+alternateTitle: "Tasbihaat-e-Hazrat-e-Zahra"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hussain Shakri"
+reciter: "Abuzar Jaffri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ya zahra
+  Ya Zahra
+
   Kya gham ho phir
-  Jeene ka hai jab ye nuskha
-  Ye roz-o-shab mera padna
-  Tasbeehaat-e-hazrat-e-zahra
+  Jine ka hai jab ye nuskha
+  Ye roz o shab mera parhna
+  Tasbihaat-e-Hazrat-e-Zahra
 
   1
-  Allahu akbar ye zikre khuda
-  Allahu akbar yeh ata e rabb
-  Allahu akbar ye rizqe jahan
-  Milta hai zahra bas tere sabab
+  Allahu akbar ye zikr-e-Khuda
+  Allahu akbar ye ataa-e-Rabb
+  Allahu akbar ye rizq-e-jahaaṅ
+  Milta hai Zahra bas tere sabab
+
+  Sallallaahu alaik ya Fatima
+  Sallallaahu alaik ya Fatima
+  Sallallaahu alaik ya Fatima
+  Sallallaahu alaik ya Fatima
 
   2
-  Kaise thaamun
-  Deewar aur dar ko mai fizza
-  Sholon mein ahmad ka tukda
+  Kaise thaamuṅ
+  Diwaar o dar ko main Fizza
+  Sholoṅ mein Ahmad ka tukra
   Zakhmi hai pehlu shikasta
-  Allahu akbar ye dard e duroon
-  Allahu akbar ye musibatein
+  Allahu akbar ye dard-e-daruṅ
+  Allahu akbar ye musibateṅ
   Allahu akbar ye zakhm mera
-  Khooni hai kausar ki sab aayatein
+  Khuni haiṅ Kausar ki sab aayateṅ
 
   3
   Aisa gham tha
-  Roshan din par bhi agar padta
+  Roshan din par bhi agar parta
   Har simt hota andhera
-  Lekin bibi zahra ke bas labon pe tha
-  Alhamdu lillah bar qaza e oo
+  Lekin Bibi Zahra ke bas laboṅ pe tha
+  Alhamdu lillah bar qazaa-e-u
   Alhamdu lillah har ranj o alam
-  Alhamdu lillah mai binte nabi
-  Thaame hoon tanha hyder ka alam
+  Alhamdu lillah main bint-e-Nabi
+  Thaame huṅ tanha Haidar ka alam
 
   4
   Sharminda hai
-  Baitullah ka haseen naqsha
-  Yasrab mein ahmad ka rauza
-  Ro ro ke padhta hai nauha
-  Subhan allah roshan hai raat din
-  Subhan allah ye rauza e rasool
-  Subhan allah raunaq hai chaar soo
-  Ujdi hui hai magar qabre batool
+  Baitullah ka hasiṅ naqsha
+  Yasrab mein Ahmad ka rauza
+  Ro ro ke parhta hai nauha
+  Subhaan Allah roshan hai raat din
+  Subhaan Allah ye rauza-e-Rasul
+  Subhaan Allah raunaq hai chaar su
+  Ujri hui hai magar qabr-e-Batul
 # source_id: nohayonline:86179a53ff48c4b93535
 # source_url: https://www.nohayonline.com/details_content.php?id=3075
 # raw_sha256: ae1df3b2d186968106cfae92ed30dd33185a5900c84f9eac64ec6a13bad4faab
 ---
-یا زھرا
+یا زہرا
+
 کیا غم ہو پھر
 جینے کا ہے جب یہ نسخہ
 یہ روز و شب میرا پڑھنا
-تسبیحات حضرت زھرا
+تسبیحات حضرت زہرا
 
 ۱
 اللہ اکبر یہ ذکر خدا
 اللہ اکبر یہ عطائے رب
 اللہ اکبر یہ رزق جہاں
-ملتا ہے زھرا بس تیرے سبب
+ملتا ہے زہرا بس تیرے سبب
+
+صلی اللہ علیک یا فاطمہ
+صلی اللہ علیک یا فاطمہ
+صلی اللہ علیک یا فاطمہ
+صلی اللہ علیک یا فاطمہ
 
 ۲
 کیسے تھاموں
@@ -73,7 +86,7 @@ romanLyrics: |-
 شعلوں میں احمد کا ٹکڑا
 زخمی ہے پہلو شکستہ
 اللہ اکبر یہ درد دروں
-اللہ اکبر یہ مصبتیں
+اللہ اکبر یہ مصیبتیں
 اللہ اکبر یہ زخم میرا
 خونی ہیں کوثر کی سب آیتیں
 
@@ -81,16 +94,16 @@ romanLyrics: |-
 ایسا غم تھا
 روشن دن پر بھی اگر پڑتا
 ہر سمت ہوتا اندھیرا
-لیکن بی بی زھرا کہ بس لبوں پہ تھا
-الحمد للّہ بر قضاے او
+لیکن بی‌بی زہرا کے بس لبوں پہ تھا
+الحمد للّہ بر قضائے او
 الحمد للّہ ہر رنج و الم
 الحمدللہ میں بنت نبی
 تھامے ہوں تنہا حیدر کا علم
 
 ۴
-شرمنده ہے
+شرمندہ ہے
 بیت اللہ کا حسیں نقشہ
-یثرب میں احمد ک روضہ
+یثرب میں احمد کا روضہ
 رو رو کے پڑھتا ہے نوحہ
 سبحان اللہ روشن ہے رات دن
 سبحان اللہ یہ روضہ رسول

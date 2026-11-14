@@ -1,37 +1,38 @@
 ---
 title: "تصویر میں حسین کا روضہ ہے تعزیہ"
-alternateTitle: "Tasveer May"
+alternateTitle: "Tasvir Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Fidwi Naqvi"
+reciter: "Irfan Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Tasveer mein hussain ka rauza hai taaziya
-  Karbobala ki yaad dilaata hai taaziya
+  Tasvir mein Husain ka rauza hai taaziya
+  Karb o bala ki yaad dilaata hai taaziya
 
   1
-  Khudrat ne taaziye ko ata ki hai khudratein
-  Bigde muqadaron ko banata hai taaziya
+  Qudrat ne taaziye ko ataa ki hai qudrateṅ
+  Bigre muqaddaroṅ ko banaata hai taaziya
 
   2
-  Laata hai apne saath mein kuch aisi raunaqein
-  Ujde huwe gharon ko basata hai taaziya
+  Laata hai apne saath mein kuchh aisi raunaqeṅ
+  Ujre hue gharoṅ ko basaata hai taaziya
 
   3
-  Mehsoos dil ko hoti hai is darja tafliyat
-  Mehman hoke ghar mein jab aata hai taaziya
+  Mahsus dil ko hoti hai is darja tafliyat
+  Mehmaan hoke ghar mein jab aata hai taaziya
 
   4
-  Milte hai iske sadqe mein bichde hue azeez
-  Pardes se watan jo bulata hai taaziya
+  Milte haiṅ is ke sadqe mein bichhre hue aziz
+  Pardes se watan jo bulaata hai taaziya
 
   5
-  Allah ki nigaah mein badta hai uska khad
-  Fidwi jo apne sar pa uthata hai taaziya
+  Allah ki nigaah mein barhta hai us ka qad
+  Fidwi jo apne sar pe uthaata hai taaziya
 # source_id: nohayonline:33d84003d60dea839989
 # source_url: https://www.nohayonline.com/details_content.php?id=923
 # raw_sha256: d97fbd8b8e9aa29d9bdf0adf1e793324ace19df69fcab405cb9f8cf69275c4a2

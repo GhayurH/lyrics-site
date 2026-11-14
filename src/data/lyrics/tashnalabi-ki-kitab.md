@@ -6,50 +6,51 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Raza Ali Khan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Khuli hai tashnalabi ki kitab pani mein
-  Wafa dikha gayi khyber ka baab pani mein
+  Khuli hai tashnalabi ki kitaab paani mein
+  Wafa dikha gayi Khaibar ka baab paani mein
 
   1
-  Jamaale hazrate abbas taygh o mashk o alam
-  Chamak rahe hai kayi aaftab pani mein
+  Jamaal-e-Hazrat-e-Abbas tegh o mashk o alam
+  Chamak rahe haiṅ kai aaftaab paani mein
 
   2
-  Sawaar pyasa raha rahwaar pyasa raha
-  Agarche bheeg chuki thi raqaab pani mein
+  Sawaar pyaasa raha rahwaar pyaasa raha
+  Agarche bhig chuki thi rikaab paani mein
 
   3
-  Idhar sabeel lagayi udhar mehakne lage
-  Gham e hussain ke taaza gulaab pani mein
+  Idhar sabil lagaai udhar mehakne lage
+  Gham-e-Husain ke taaza gulaab paani mein
 
   4
-  Labe sakina se jo pyaas ban ke ubhra tha
-  Simat ke aa gaya wo izteraab pani mein
+  Lab-e-Sakina se jo pyaas ban ke ubhra tha
+  Simat ke aa gaya wo iztiraab paani mein
 
   5
-  Agar hussain na hote to mil gaya hota
-  Tamaam kaar e risalat maab pani mein
+  Agar Husain na hote to mil gaya hota
+  Tamaam kaar-e-risaalat maab paani mein
 
   6
-  Tapakne laga hai dil khoon ho ke aankhon se
-  Na jaane dekhti kya hai rabab pani mein
+  Tapakne laga hai dil khun ho ke aaṅkhoṅ se
+  Na jaane dekhti kya hai Rabaab paani mein
 
   7
-  Bajuz shuja ke abbas e naamwar rehaan
-  Likha hai kis ne wafa ka nisaab pani mein
+  Bajuz Shuja ke Abbas-e-naamwar Rehaan
+  Likha hai kis ne wafa ka nisaab paani mein
 # source_id: nohayonline:8c541d758055e80926b4
 # source_url: https://www.nohayonline.com/details_content.php?id=2198
 # raw_sha256: 789fa83a933b3fa417c34c0d6d0da58ad20e013932a948ce8b7468e798169cbf
 ---
 کھلی ہے تشنہ لبی کی کتاب پانی میں
-وفا دکھا گیء خیبر کا باب پانی میں
+وفا دکھا گئی خیبر کا باب پانی میں
 
 ۱
 جمال حضرتِ عبّاس تیغ و مشک و علم
-چمک رہے ہیں کیء آفتاب پانی میں
+چمک رہے ہیں کئی آفتاب پانی میں
 
 ۲
 سرور پیاسا رہا رہوار پیاسا رہا
