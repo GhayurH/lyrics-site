@@ -6,84 +6,86 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Wo shaam ka zindan wo ghurbat wo andhera
-  Kurte ka kafan aur sakina ka janaza
-  Sajjad se jab laasha behan ka nahi utha
-  Laashe pe rabab aake ye karne lagi nauha
-  Ay bibiyon tum meri madad karne ko aao
-  Haye mazloom sakina ke janaze ko uthao
-  Sakina bibi ka hai janaza
-  Uthao zainab uthao fizza
-  Ye rone waali ka hai janaza
-  Uthao zainab uthao fizza
+  Wo Shaam ka zindaan wo ghurbat wo andhera
+  Kurte ka kafan aur Sakina ka janaaza
+  Sajjad se jab laasha behan ka nahiṅ utha
+  Laashe pe Rabab aa ke ye karne lagiṅ nauha
+  Ae bibiyoṅ tum meri madad karne ko aao
+  Haye mazlum Sakina ke janaaze ko uthao
+
+  Sakina Bibi ka hai janaaza
+  Uthao Zainab uthao Fizza
+  Ye rone waali ka hai janaaza
+  Uthao Zainab uthao Fizza
 
   1
-  Hai haath ab bhi rasan may iske
-  Hum hi hai ab is watan may iske
+  Haiṅ haath ab bhi rasan mein is ke
+  Hum hi haiṅ ab is watan mein is ke
   Na jaane kab se ye tashna lab hai
-  Nami nahi hai badan may iske
-  Ye meri pyasi ka hai janaza
-  Uthao zainab uthao fizza
+  Nami nahiṅ hai badan mein is ke
+  Ye meri pyaasi ka hai janaaza
+  Uthao Zainab uthao Fizza
 
   2
-  Yateem bekas ghareeb dukhiya
-  Thi kitni mazloom o be sahara
-  Chacha ke sar ke khareeb laa kar
-  Pakad ke baalon se jisko maara
-  Ye us bhatiji ka hai janaza
-  Uthao zainab uthao fizza
+  Yatim bekas gharib dukhiya
+  Thi kitni mazlum o besahaara
+  Chacha ke sar ke qarib laa kar
+  Pakar ke baaloṅ se jis ko maara
+  Ye us bhatiji ka hai janaaza
+  Uthao Zainab uthao Fizza
 
   3
-  Wo jiski sookhi hui ragon par
-  Chala tha karbobala may khanjar
-  Bhara tha teeron se uska seena
-  Hai jisko maara rula rula kar
-  Ye uski beti ka hai janaza
-  Uthao zainab uthao fizza
+  Wo jis ki sukhi hui ragoṅ par
+  Chala tha Karb o Bala mein khanjar
+  Bhara tha tiroṅ se us ka sina
+  Hai jis ko maara rula rula kar
+  Ye us ki beti ka hai janaaza
+  Uthao Zainab uthao Fizza
 
   4
-  Jala hai kurta hai kaan zakhmi
-  Galay may paywast hai rasan bhi
-  Kahin pe khaaya tha taziyana
-  Kahin ye naaqe se gir gayi thi
-  Ye gham ki maari ka hai janaza
-  Uthao zainab uthao fizza
+  Jala hai kurta haiṅ kaan zakhmi
+  Gale mein paiwast hai rasan bhi
+  Kahiṅ pe khaaya tha taaziyaana
+  Kahiṅ ye naaqe se gir gayi thi
+  Ye gham ki maari ka hai janaaza
+  Uthao Zainab uthao Fizza
 
   5
-  Mila jo pani to isne laa kar
-  Giraya abid ki bediyon par
-  Kahin se chadar mili to pehle
-  Hamay udhayi hai isne aakar
-  Ye sab ki pyari ka hai janaza
-  Uthao zainab uthao fizza
+  Mila jo paani to is ne laa kar
+  Giraaya Aabid ki beriyoṅ par
+  Kahiṅ se chaadar mili to pehle
+  Hameṅ urhaai hai is ne aa kar
+  Ye sab ki pyaari ka hai janaaza
+  Uthao Zainab uthao Fizza
 
   6
-  Hai iske baalon may bhi safedi
-  Kamar bhi kham ho chuki hai iski
-  Isay bhi darbar jab bulaya
-  Pakad ke deewar ye chali thi
-  Batool jaisi ka hai janaza
-  Uthao zainab uthao fizza
+  Hai is ke baaloṅ mein bhi safedi
+  Kamar bhi kham ho chuki hai is ki
+  Ise bhi darbaar jab bulaaya
+  Pakar ke diwaar ye chali thi
+  Batul jaisi ka hai janaaza
+  Uthao Zainab uthao Fizza
 
   7
-  Mai iski haalat bataun kaise
-  Ab aur ghurbat sunaun kaise
-  Tumhe khabar hai mai iski maa hoo
-  Madad karo mai uthaun kaise
-  Ye meri bacchi ka hai janaza
-  Uthao zainab uthao fizza
+  Main is ki haalat bataauṅ kaise
+  Ab aur ghurbat sunaauṅ kaise
+  Tumheṅ khabar hai main is ki maaṅ huṅ
+  Madad karo main uthaauṅ kaise
+  Ye meri bachchi ka hai janaaza
+  Uthao Zainab uthao Fizza
 
   8
-  Jise rehaai ki aarzoo thi
+  Jise rihaai ki aarzu thi
   Wo ab hamesha rahegi qaidi
   Madine waale bhi ro diye jab
-  Raza o zeeshan maa pukari
-  Ye shaam waali ka hai janaza
-  Uthao zainab uthao fizza
+  Raza o Zeeshan maaṅ pukaari
+  Ye Shaam waali ka hai janaaza
+  Uthao Zainab uthao Fizza
 # source_id: nohayonline:f66c4c4a8f7c43e19466
 # source_url: https://www.nohayonline.com/details_content.php?id=2662
 # raw_sha256: d5c5e693382f0d005dbfe31c36a133544bc32a0ba6917ed8104583e5b474854e
@@ -93,9 +95,10 @@ romanLyrics: |-
 کرتے کا کفن اور سکینہ کا جنازہ
 سجاد سے جب لاشہ بہن کا نہیں اُٹھا
 لاشے پہ رباب آکے یہ کرنے لگیں نوحہ
-اے بی بیوں تم میری مدد کرنےکو آؤ
-مظلوم سکینہ کے جنازے کو اُٹھاؤ
-سکینہ بی بی کا ہےجنازہ
+اے بی‌بیوں تم میری مدد کرنے کو آؤ
+ہائے مظلوم سکینہ کے جنازے کو اُٹھاؤ
+
+سکینہ بی‌بی کا ہے جنازہ
 اُٹھاؤ زینب اُٹھاؤ فضہ
 یہ رونے والی کا ہے جنازہ
 اُٹھاؤ زینب اُٹھاؤ فضہ
