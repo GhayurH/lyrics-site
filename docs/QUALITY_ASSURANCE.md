@@ -28,7 +28,7 @@ Verify bilingual source coverage, permitted exceptions and spelling against [Tra
 
 ## Journeys to protect
 
-1. **Standalone lyrics:** page content without JavaScript, Urdu/Roman stanza layout, title and poet roles, images, bookmarks, corrections and search aliases.
+1. **Standalone lyrics:** page content without JavaScript, Urdu/Roman-only stanza layout, title and poet roles, bookmarks, corrections and search aliases.
 2. **Basta:** frameless, uncropped original scans (preserving their printed borders) across page, individual-kalam, continuous and Focus readers; all eligible three-edition readers float scans beside text above 64rem and stack scans above two resizable texts below it; individual kalam pages use the same wide reader shell; adjustable bilingual width up to 85% Roman, 95%-triggered font growth with every verse justified, single-line fitting and shared scrolling, printed-page navigation, image-only/missing-Roman fallback, continuous chunk retry, `#page-N` direct links, Focus back/exit restoration, Urdu–Roman bookmark identity and verified individual-kalam scans (Previous/Next, one source visible, direct `#scan-page-N` links, Focus and mobile).
 3. **Recitation editor:** create/duplicate/reorder drafts, templates, 40-item cap, reciter/notes, borrowed/repeated Marsiya stanzas, source warnings and saved drafts after navigation.
 4. **Published programmes:** read-only public link, private capability, concurrent edit conflicts, expiry, authorized deletion, opt-in live follower, full offline HTML and browser print.
