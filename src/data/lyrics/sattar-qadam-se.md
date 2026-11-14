@@ -6,47 +6,48 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Kazmi Brothers"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Pyase galay pe bhai ke chalti rahi churi
+  Pyase gale pe bhai ke chalti rahi chhuri
   Sattar qadam se pyasi behan dekhti rahi
-  
+
   1
-  Kehti thi kya isi liye peesi thi chakkiyan
-  Chaadar se saaf karti thi zakhmon ko ro ke maa
-  Zakhmi sar e hussain tha zahra ki godh thi
-  
+  Kehti thi kya isi liye pisi thi chakkiyaaṅ
+  Chaadar se saaf karti thi zakhmoṅ ko ro ke maaṅ
+  Zakhmi sar-e-Husain tha Zahra ki god thi
+
   2
-  Roke huwe thay pyar may khanjar ki dhaar ko
-  Bete se kitna pyar tha duldul sawaar ko
-  Rakhe huwe thay sheh ke galay par gala ali
-  
+  Roke hue the pyaar mein khanjar ki dhaar ko
+  Bete se kitna pyaar tha Duldul sawaar ko
+  Rakhe hue the sheh ke gale par gala Ali
+
   3
-  Khanjar se sheh ki zulfein hatane laga layeen
-  Daadi ki simt haath badhane laga layeen
-  Aankhon pe haath rakhe huwe tha har ek nabi
-  
+  Khanjar se sheh ki zulfeṅ hataane laga laiṅ
+  Daarhi ki simt haath barhaane laga laiṅ
+  Aankhoṅ pe haath rakhe hue tha har ik nabi
+
   4
-  Maqtal may char saal ki zahra ko godh may
-  Ek baar phir uthaale sakina ko godh may
-  Afsos qaatilon se ijazat nahi mili
-  
+  Maqtal mein chaar saal ki Zahra ko god mein
+  Ik baar phir utha le Sakina ko god mein
+  Afsos qaatiloṅ se ijaazat nahiṅ mili
+
   5
-  Chehra watan ki simt wo karta that baar baar
-  Aankhon may tha bhara hua sughra ka intezaar
-  Haye ghareeb e zehra ki aankhein khuli rahi
-  
+  Chehra watan ki simt wo karta tha baar baar
+  Aankhoṅ mein tha bhara hua Sughra ka intezaar
+  Haaye gharib-e-Zehra ki aankheṅ khuli hui
+
   6
-  Kehta tha wo isharon may zainab se jao ghar
-  Aankhon ko bandh kar lo ke kat jaye mera sar
-  Seene pe sheh ke zaanu tha rakhe huwe shaqi
-  
+  Kehta tha wo ishaaroṅ mein Zainab se jaao ghar
+  Aankhoṅ ko band kar lo ke kat jaaye mera sar
+  Sine pe sheh ke zaanu tha rakhe hue shaqi
+
   7
-  Laasha furaat par kabhi utha kabhi gira
-  Karbobala may hashr takallum bapa hua
-  Abbas tum kahan ho sada jab ye sheh ne di
+  Laasha Furaat par kabhi utha kabhi gira
+  Karb o Bala mein hashr Takallum bapa hua
+  Abbas tum kahaaṅ ho sada jab ye sheh ne di
 # source_id: nohayonline:c1c99d901561e2dba020
 # source_url: https://www.nohayonline.com/details_content.php?id=1372
 # raw_sha256: 14d041e65682b25826f5f1cd9fe26d943474cca08ec88030ede0665e77d269fa

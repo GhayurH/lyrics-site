@@ -1,11 +1,12 @@
 ---
-title: "ستر قدم کا فاصلہ بھای بہن میں تھا"
+title: "ستر قدم کا فاصلہ بھائی بہن میں تھا"
 alternateTitle: "Sattar Qadam Ka Fasla"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -14,72 +15,72 @@ romanLyrics: |-
   Zainab lipat ke baap se deti rahi sada
 
   1
-  Zaalim mere hussain ke seene pe tha sawaar
-  Gin gin ke kar raha tha wo pyase galay pe waar
-  Hasta tha baar baar layeen mere bain par
+  Zaalim mere Husain ke sine pe tha sawaar
+  Gin gin ke kar raha tha wo pyase gale pe waar
+  Hansta tha baar baar laiṅ mere bain par
   Khanjar chala raha tha meri simt dekh kar
-  Aankhon ke saamne mere bhai ka sar kata
+  Aankhoṅ ke saamne mere bhai ka sar kata
 
   2
-  Har waar par sadayein di zehra ke chain ne
-  Ghazi ko tera baar pukara hussain ne
-  Jaan e batool ko bhi bachane na aaoge
+  Har waar par sadaaeṅ di Zehra ke chain ne
+  Ghaazi ko tera baar pukaara Husain ne
+  Jaan-e-Batul ko bhi bachane na aaoge
   Bhai hamari laash uthane na aaoge
-  Bhai ki har sada pe tadapta tha bawafa
+  Bhai ki har sada pe tarapta tha bawafa
 
   3
-  Kya kya na dekha aap ki zainab ne baba jaan
-  Khanjar rawan tha halq pe khoon halq se rawan
-  Takti thi apna rukh mai chupaye rida ke saath
+  Kya kya na dekha aap ki Zainab ne baba jaaṅ
+  Khanjar rawaaṅ tha halq pe khun halq se rawaaṅ
+  Takti thi apna rukh main chhupaye rida ke saath
   Khanjar wo saaf karta tha sheh ki abaa ke saath
-  Bhai tha mera khaak pe be-jaan pada hua
+  Bhai tha mera khaak pe bejaaṅ para hua
 
   4
-  Bosagah e rasool ko jab zibha kar chuka
-  Zulfon se sar utha liya mere hussain ka
-  Is baat par bhi zaalimon ke dil nahi bhare
-  Saydaniyo ki maut ke asbaab yun kiye
-  Sar ko dar e khayaam pe laa kar gira diya
+  Bosagaah-e-Rasul ko jab zibh kar chuka
+  Zulfoṅ se sar utha liya mere Husain ka
+  Is baat par bhi zaalimoṅ ke dil nahiṅ bhare
+  Sayyadaniyoṅ ki maut ke asbaab yuṅ kiye
+  Sar ko dar-e-qiyaam pe laa kar gira diya
 
   5
-  Seene mein uske pehlu mein aankhon mein teer thay
-  Peshani par bhi teer thay uske lage huwe
-  Baba najaf ki simt pukaara hai aap ko
-  Us waqt yaad karte thay hum dono baap ko
-  Mai kya kahoo ke kaise wo sajda adaa hua
+  Sine mein us ke pehlu mein aankhoṅ mein tir the
+  Peshaani par bhi tir the us ke lage hue
+  Baba Najaf ki simt pukaara hai aap ko
+  Us waqt yaad karte the hum donoṅ baap ko
+  Main kya kahuṅ ke kaise wo sajda adaa hua
 
   6
-  Jee bhar ke teer jis ghadi barsa chuke layeen
-  Baalon se jism shaah ka zakhma chuke layeen
-  Talwaar aazmate thay us tanha jaan par
-  Zakhmo pe garm rayt giraate thay aan kar
-  Pathar wo maarta raha pathar jise mila
+  Ji bhar ke tir jis ghari barsa chuke laiṅ
+  Baaloṅ se jism-e-Shaah ka zakhmaaṅ chuke laiṅ
+  Talwaar aazmaate the us tanha jaan par
+  Zakhmoṅ pe garm ret giraate the aan kar
+  Patthar wo maarta raha patthar jise mila
 
   7
-  Hoti thi zakhmi jis ghadi amma ki ungliyan
-  Ro kar ye bain karte the shabbir natawan
-  Ay shimr mera sar jo tu chaahe kaat le
-  Amma ka haath mujhko galay se hatane de
-  Lekin layeen shimr ka khanjar nahi ruka
+  Hoti thi zakhmi jis ghari amma ki ungliyaaṅ
+  Ro kar ye bain karte the Shabbir naatawaaṅ
+  Ae Shimr mera sar jo tu chaahe kaat le
+  Amma ka haath mujh ko gale se hataane de
+  Lekin laiṅ Shimr ka khanjar nahiṅ ruka
 
   8
-  Jaate huwe bhi dil mein sakina ka tha khayaal
+  Jaate hue bhi dil mein Sakina ka tha khayaal
   Waada ye hum se leke gaya tha tumhara laal
-  Rakhiyo sambhaal kar ye amanat hussain ki
-  Marte samein kuch aisi thi haalat hussain ki
-  Bas baar baar haye sakina pukaarta
+  Rakhiyo sambhaal kar ye amaanat Husain ki
+  Marte samay kuchh aisi thi haalat Husain ki
+  Bas baar baar haaye Sakina pukaarta
 
   9
-  Akbar ajeeb shaam e ghariban ki thi ghadi
-  Rokar ali se kehti thi zehra ki laadli
-  Baba mai chaah kar bhi na us waqt mar saki
-  Jis dam badan se rooh ki parwaaz dekhi thi
-  Mai dekhti rahi mera bhai chala gaya
+  Akbar ajib shaam-e-gharibaaṅ ki thi ghari
+  Ro kar Ali se kehti thi Zehra ki laadli
+  Baba main chaah kar bhi na us waqt mar saki
+  Jis dam badan se ruh ki parwaaz dekhi thi
+  Main dekhti rahi mera bhai chala gaya
 # source_id: nohayonline:cb6a77cc994306eefc13
 # source_url: https://www.nohayonline.com/details_content.php?id=1824
 # raw_sha256: 7ed479c9070c165bae47440bc230382ae91591f0d27b8d99c9b51f0c971cb490
 ---
-ستر قدم کا فاصلہ بھای بہن میں تھا
+ستر قدم کا فاصلہ بھائی بہن میں تھا
 زینب لپٹ کے باپ سے دیتی رہی صدا
 
 ۱
@@ -90,57 +91,57 @@ romanLyrics: |-
 آنکھوں کے سامنے میرے بھائی کا سر کٹا
 
 ۲
-ہر وار پر صداییں دی زہرا کے چین نے
+ہر وار پر صدائیں دی زہرا کے چین نے
 غازی کو تیرا بار پکارا حسین نے
-جان بتول کو بھی بچانے نہ آؤ گے
-بھای ہماری لاش اٹھانے نہ آؤ گے
-بھای کی ہر صدا پہ تڑپتا تھا با وفا
+جانِ بتول کو بھی بچانے نہ آؤ گے
+بھائی ہماری لاش اٹھانے نہ آؤ گے
+بھائی کی ہر صدا پہ تڑپتا تھا با وفا
 
 ۳
 کیا کیا نہ دیکھا آپ کی زینب نے بابا جاں
 خنجر رواں تھا حلق پہ خون حلق سے رواں
-تکتی تھی اپنا رخ میں چھپاے ردا کے ساتھ
+تکتی تھی اپنا رخ میں چھپائے ردا کے ساتھ
 خنجر وہ صاف کرتا تھا شہ کی عبا کے ساتھ
-بھای تھا میرا خاک پہ بے جاں پڑا ہوا
+بھائی تھا میرا خاک پہ بے جاں پڑا ہوا
 
 ۴
-بوسہ گاہ رسول کو جب ذبح کر چکا
-ذلفوں سے سر اٹھا لیا میرے حسین کا
+بوسہ گاہِ رسول کو جب ذبح کر چکا
+زلفوں سے سر اٹھا لیا میرے حسین کا
 اس بات پر بھی ظالموں کے دل نہیں بھرے
-سیدانیوں کی موت کے اسباب یوں کیےء
-سر کو در قیام پہ لا کر گرا دیا
+سیدانیوں کی موت کے اسباب یوں کیے
+سر کو درِ قیام پہ لا کر گرا دیا
 
 ۵
 سینے میں اس کے پہلو میں آنکھوں میں تیر تھے
-پیشانی پر بھی تیر تھے اسکے لگے ہوے
+پیشانی پر بھی تیر تھے اس کے لگے ہوئے
 بابا نجف کی سمت پکارا ہے آپ کو
 اس وقت یاد کرتے تھے ہم دونوں باپ کو
 میں کیا کہوں کہ کیسے وہ سجدہ ادا ہوا
 
 ۶
 جی بھر کے تیر جس گھڑی برسا چکے لعیں
-بالوں سے جسم شاہ کا زخماں چکے لعیں
+بالوں سے جسمِ شاہ کا زخماں چکے لعیں
 تلوار آزماتے تھے اس تنہا جان پر
 زخموں پہ گرم ریت گراتے تھے آن کر
 پتھر وہ مارتا رہا پتھر جسے ملا
 
 ۷
 ہوتی تھی زخمی جس گھڑی اماں کی انگلیاں
-روکر یہ بین کرتے تھے شبیر ناتواں
+رو کر یہ بین کرتے تھے شبیر ناتواں
 اے شمر میرا سر جو تو چاہے کاٹ لے
-اماں کا ہاتھ مجھکو گلے سے ہٹانے دے
+اماں کا ہاتھ مجھ کو گلے سے ہٹانے دے
 لیکن لعیں شمر کا خنجر نہیں رکا
 
 ۸
-جاتے ہوے بھی دل میں سکینہ کا تھا خیال
-وعدہ یہ ہم سے لیکے گیا تھا تمہارا لال
+جاتے ہوئے بھی دل میں سکینہ کا تھا خیال
+وعدہ یہ ہم سے لے کے گیا تھا تمہارا لال
 رکھیو سنبھال کر یہ امانت حسین کی
-مرتے سمےء کچھ ایسی تھی حالت حسین کی
-بس بار بار ہاے سکینہ پکارتا
+مرتے سمے کچھ ایسی تھی حالت حسین کی
+بس بار بار ہائے سکینہ پکارتا
 
 ۹
-اکبر عجیب شام غریباں کی تھی گھڑی
-روکر علی سے کہتی تھی زہرا کی لاڈلی
+اکبر عجیب شامِ غریباں کی تھی گھڑی
+رو کر علی سے کہتی تھی زہرا کی لاڈلی
 بابا میں چاہ کر بھی نہ اس وقت مر سکی
 جس دم بدن سے روح کی پرواز دیکھی تھی
-میں دیکھتی رہی میرا بھای چلا گیا
+میں دیکھتی رہی میرا بھائی چلا گیا

@@ -1,58 +1,58 @@
 ---
 title: "سیدہ فاطمہ زہرا و بتولِ عذرا"
-alternateTitle: "Sayyada Fatima Zehra o Batool-e-Azra"
+alternateTitle: "Sayyada Fatima Zehra o Batul-e-Azra"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 reciter: "Mir Hasan Mir"
 tags: ["noImage"]
-aliases: []
+aliases: ["Sayyada Fatima Zehra o Batool-e-Azra"]
 published: false
 romanLyrics: |-
   Ya Fatima Zehra
   Sayyada Fatima Zehra o Batul-e-Azra
-  Rab ke hone ki zamanat hai musalla tera
+  Rab ke hone ki zamaanat hai musalla tera
 
   1
   Koi tafsil se likhe jo teri azmat ko
-  Kam se kam Quran ho
+  Kam se kam Quraan ho
   Mukhtasar likhe to Kausar hai qasida tera
 
   2
-  Nisf iman ki hoti hai muhafiz zauja
-  Is se sabit ye hua
-  Kull-e-iman ka iman hai aadha tera
+  Nisf imaan ki hoti hai muhaafiz zauja
+  Is se saabit ye hua
+  Kull-e-imaan ka imaan hai aadha tera
 
   3
-  Ab samajh aaya ke Jibrail kiun aage na barhe
-  Taake dunya samjhe
-  Sarhad-e-Sidra se aage hai ilaqa tera
+  Ab samajh aaya ke Jibrail kiuṅ aage na barhe
+  Taake duniya samjhe
+  Sarhad-e-Sidra se aage hai ilaaqa tera
 
   4
-  Tune dozakh se bachana hai gunahgaron ko
-  Hum azadaron ko
-  Naam Allah ne yun Fatima rakha tera
+  Tu ne dozakh se bachaana hai gunahgaaroṅ ko
+  Hum azaadaaroṅ ko
+  Naam Allah ne yuṅ Fatima rakha tera
 
   5
   Nur hai ayat-e-Tathir ka mafhum hai woh
   Sach hai masum hai woh
-  Tune jab keh diya Abbas hai beta tera
+  Tu ne jab keh diya Abbas hai beta tera
 
   6
-  Teri Fizza ko abhi tak nahi samjha koi
+  Teri Fizza ko abhi tak nahiṅ samjha koi
   Ae meri shahzadi
-  Kaise dunya ko samajh aaega rutba tera
+  Kaise duniya ko samajh aayega rutba tera
 
   7
-  Tab kahin ja ke andheron mein ujale utre
-  Chand suraj chamke
-  Jab utara gaya aflak pe sadqa tera
+  Tab kahiṅ ja ke andheroṅ mein ujaale utre
+  Chaand suraj chamke
+  Jab utaara gaya aflaak pe sadqa tera
 
   8
-  Kya hai Allah ka kya hai tera malum nahi
-  Hai Takallum ko yaqin
-  Maslak-e-ishq mein hota nahi mera tera
+  Kya hai Allah ka kya hai tera maalum nahiṅ
+  Hai Takallum ko yaqiṅ
+  Maslak-e-ishq mein hota nahiṅ mera tera
 # source_id: personal_notebook:temp-import-odt-2026-11-08
 # editorial_note: Notebook transcription; newly supplied Urdu where the notebook contains Roman only
 ---
