@@ -6,56 +6,57 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Izzat Lakhnavi"
+reciter: "Izzat Lakhnavi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Talab ki manzil e maqsood karbala tak hai
-  Phir uske baad nazar arsh e kibriya tak hai
+  Talab ki manzil-e-maqsud Karbala tak hai
+  Phir us ke baad nazar arsh-e-kibriya tak hai
 
   1
   Wohi amal wohi fikr o nazar wohi andaaz
-  Nabi ke khoon ka asar shaah e nainawa tak hai
+  Nabi ke khun ka asar Shah-e-Nainawa tak hai
 
   2
-  Khiyaas kije wo kya hoga har amal jiska
-  Balandiyon ke tasavvur ki inteha tak hai
+  Qiyaas kijiye wo kya hoga har amal jis ka
+  Bulandiyoṅ ke tasavvur ki intiha tak hai
 
   3
-  Rasool paike khuda hai hussain paike rasool
-  Khuda se baat chali thi khuda-numa tak hai
+  Rasul paik-e-Khuda hai Husain paik-e-Rasul
+  Khuda se baat chali thi Khuda numa tak hai
 
   4
-  Wo dekh surkhiye afsana e urooj e bashar
-  Lakheer khoon ki kaabe se karbala tak hai
+  Wo dekh surkhi-e-afsaana-e-uruj-e-bashar
+  Lakir khuṅ ki Kaabe se Karbala tak hai
 
   5
-  Wo log daawar e maahol ke muqabil hai
-  Rasaayi jinki faqat khanjar e jafa tak hai
+  Wo log daawar-e-maahaul ke muqaabil hai
+  Rasaai jin ki faqat khanjar-e-jafa tak hai
 
   6
-  Na jaane kitne zamanon ki manzilon pa muheet
-  Safar madine se sehra e karbala tak hai
+  Na jaane kitne zamaanoṅ ki manziloṅ pe muhit
+  Safar Madine se sehra-e-Karbala tak hai
 
   7
-  Rukenge baap ke aansu na laashe akbar par
-  Ye zabte giriya faqat fursate wagha tak hai
+  Rukeiṅ ge baap ke aaṅsu na laasha-e-Akbar par
+  Ye zabt-e-giryaaṅ faqat fursat-e-wagha tak hai
 
   8
-  Hussain dhaamp lo daaman se gardane asghar
-  Ke ab to ashk fishan chashme hurmala tak hai
+  Husain dhaaṅp lo daaman se gardan-e-Asghar
+  Ke ab to ashk fishaaṅ chashm-e-Hurmala tak hai
 
   9
-  Fishaar de na girah go ke is rasan may shaqi
-  Bandha hua kisi masoom ka gala tak hai
+  Fishaar de na girah ko ke is rasan meiṅ shaqi
+  Bandha hua kisi maasum ka gala tak hai
 
   10
-  Yazeed maal e ghanimat dikha na logon ko
-  Ke is mein zainab e mazloom ki rida tak hai
+  Yazid maal-e-ghanimat dikha na logoṅ ko
+  Ke is meiṅ Zainab-e-mazlum ki rida tak hai
 
   11
-  Nuqooshe paaye mohamed talaash kar izzat
-  Ke haddhe fiqr musafir ki rehnuma tak hai
+  Nuqush-e-paa-e-Muhammad talaash kar Izzat
+  Ke hadd-e-fikr musaafir ki rehnuma tak hai
 # source_id: nohayonline:0fe1a450f673ef2ee4a9
 # source_url: https://www.nohayonline.com/details_content.php?id=3119
 # raw_sha256: cade992cb972700b44af68b0236fd666fd807c6b9fd8e4c7ae619a1af0be8877
@@ -71,15 +72,15 @@ romanLyrics: |-
 نبی کے خون کا اثر شاہ نینوا تک ہے
 
 ۲
-خیاص کیجئے وہ کیا ہوگا ہر عمل جس کا
+قیاس کیجیے وہ کیا ہوگا ہر عمل جس کا
 بلندیوں کے تصور کی انتہا تک ہے
 
 ۳
-رسول پاے کے خدا ہے حسین پاے کے رسول
+رسول پیکِ خدا ہے حسین پیکِ رسول
 خدا سے بات چلی تھی خدا نما تک ہے
 
 ۴
-وہ دیکھ سرخیء افسانہء عروج بشر
+وہ دیکھ سرخیِ افسانۂ عروج بشر
 لکیر خوں کی کعبے سے کربلا تک ہے
 
 ۵
@@ -91,21 +92,21 @@ romanLyrics: |-
 سفر مدینے سے صحرائے کربلا تک ہے
 
 ۷
-رکیں گے باپ کے آنسوں نہ لاشے اکبر پر
+رکیں گے باپ کے آنسو نہ لاشے اکبر پر
 یہ ضبط گریاں فقط فرصت وغا تک ہے
 
 ۸
 حسین ڈھانپ لو دامن سے گردن اصغر
-کہ اب تو آشک فشاں چشم حرملہ تک ہے
+کہ اب تو اشک فشاں چشم حرملہ تک ہے
 
 ۹
-فشار دے نہ گراہ کو کہ اس رسن میں شقی
-باندھا ہوا کسی معصوم کا گلا تک ہے
+فشار دے نہ گرہ کو کہ اس رسن میں شقی
+بندھا ہوا کسی معصوم کا گلا تک ہے
 
 ۱۰
 یزید مال غنیمت دکھا نہ لوگوں کو
 کہ اس میں زینب مظلوم کی ردا تک ہے
 
 ۱۱
-نقوش پاے محمد تلاش کر عزت
+نقوش پائے محمد تلاش کر عزت
 کہ حد فکر مسافر کی رہنما تک ہے

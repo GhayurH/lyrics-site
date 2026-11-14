@@ -6,72 +6,73 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Ali Khan Lakhnavi"
+reciter: "Zawwar Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Tadap ke ye poocha sakina ne maa se
-  Rihaai milegi hamein kab yahan se
+  Tadap ke ye puchha Sakina ne maaṅ se
+  Rihaai milegi hameiṅ kab yahaaṅ se
 
   1
-  Rabab e hazeen ne jo dekha ye manzar
+  Rabaab-e-haziṅ ne jo dekha ye manzar
   To phir reh gaya hai kaleja tadap kar
-  Chala teer jo hurmula ki kamaan se
+  Chala tir jo Hurmala ki kamaaṅ se
 
   2
-  Aseeri ki chadar yateemi ke saaye
-  Ye dushman ko bhi din khuda na dikhaye
-  Rahe phool kaise juda gulistan se
+  Asiri ki chaadar yatimi ke saaye
+  Ye dushman ko bhi din Khuda na dikhaaye
+  Rahe phul kaise juda gulistaaṅ se
 
   3
-  Khamoshi se in ke sitam hum uthaye
-  Magar koi shikwa na honton pa laaye
-  Pade taziyane jo bole zaban se
+  Khamoshi se in ke sitam hum uthaaye
+  Magar koi shikwa na hoṅtoṅ pe laaye
+  Pade taaziyaane jo bole zabaaṅ se
 
   4
-  Sukoon dil ko aakhir ho kaise meinassar
-  Mara teer khaake mera bhai asghar
-  Wo kilkaariyan ab sunoo mai kahan se
+  Sukuṅ dil ko aakhir ho kaise mayassar
+  Mara tir khaa ke mera bhai Asghar
+  Wo kilkaariyaaṅ ab sunuṅ main kahaaṅ se
 
   5
-  Madine ki yaadein sataati hai mujhko
-  Bahot khoon ke aansu rulaati hai mujhko
-  Rahe door kab tak koi aashiyan se
+  Madine ki yaadeiṅ sataati haiṅ mujh ko
+  Bahut khuṅ ke aaṅsu rulaati hai mujh ko
+  Rahe dur kab tak koi aashiyaaṅ se
 
   6
-  Tarayi se aati hui nam hawaein
-  Talab tashnagi ki badha kar sataye
-  Koi inse keh de na guzre yahan se
+  Taraai se aati hui nam hawaayeiṅ
+  Talab tishnagi ki barha kar sataaye
+  Koi in se keh de na guzre yahaaṅ se
 
   7
-  Chala halq e sheh par jo maqtal mein khanjar
-  Nashebon mein royi bahot ek maadar
-  Zameen royi barsa lahoo aasman se
+  Chala halq-e-Shah par jo maqtal meiṅ khanjar
+  Nashiboṅ meiṅ royi bahut ek maadar
+  Zamiṅ royi barsa lahu aasmaaṅ se
 
   8
-  Ke jo baaghe yasrab mein phoole phale hai
-  Wohi phool jalti zameen par pade hai
-  Bacha le unhe koi zaalim khiza se
+  Ke jo baagh-e-Yasrab meiṅ phule phale haiṅ
+  Wohi phul jalti zamiṅ par pade haiṅ
+  Bacha le unheiṅ koi zaalim khizaaṅ se
 
   9
-  Ye beemar bhai pa jor e jafa hai
-  Rasan baazupn mein gala bhi bandha hai
-  Lahoo ab bhi jaari hai tauq e garan se
+  Ye bimaar bhai pe jaur-e-jafa hai
+  Rasan baazuoṅ meiṅ gala bhi bandha hai
+  Lahu ab bhi jaari hai tauq-e-giraaṅ se
 
   10
-  Darindon ki basti ye karbobala hai
-  Inhe khoon insan ka moo ko laga hai
-  Nazar jis par uthi gaya apni jaan se
+  Darindoṅ ki basti ye Karb o Bala hai
+  Inheiṅ khun insaaṅ ka muṅh ko laga hai
+  Nazar jis par uthi gaya apni jaaṅ se
 
   11
-  Tassawur mein bhi bad-khayali na aaye
-  Ghulame ali zindagi yun bitaye
-  Ba-emaan ban kar uthe is jahan se
+  Tasavvur meiṅ bhi badkhayaali na aaye
+  Ghulaam-e-Ali zindagi yuṅ bitaaye
+  Baa imaan ban kar uthe is jahaaṅ se
 
   12
-  Gham e sheh salamat rahe chashme nam se
-  Magar gham jahan ka rahe door hum se
-  Raza ki dua hai imam e zaaman se
+  Gham-e-Shah salaamat rahe chashm-e-nam se
+  Magar gham jahaaṅ ka rahe dur hum se
+  Raza ki dua hai Imam-e-Zamaaṅ se
 # source_id: nohayonline:89927e4f2b5e1279287a
 # source_url: https://www.nohayonline.com/details_content.php?id=2001
 # raw_sha256: 850c1d8e41e575d92e948e1493c5773e946655a9b4010df3c193a27f213001c2
@@ -85,34 +86,34 @@ romanLyrics: |-
 چلا تیر جو حرملہ کی کماں سے
 
 ۲
-اسیری کی چادر یتیمی کے ساے
+اسیری کی چادر یتیمی کے سائے
 یہ دشمن کو بھی دن خدا نہ دکھائے
 رہے پھول کیسے جدا گلستاں سے
 
 ۳
-خموشی سے ان کے ستم ہم اٹھاے
-مگر کوئی شکوہ نہ ہونٹوں پہ لاے
+خموشی سے ان کے ستم ہم اٹھائے
+مگر کوئی شکوہ نہ ہونٹوں پہ لائے
 پڑے تازیانے جو بولے زباں سے
 
 ۴
 سکوں دل کو آخر ہو کیسے میسر
-مرا تیر کھا کے میرا بھای اصغر
-وہ کلکاریاں اب سنو میں کہاں سے
+مرا تیر کھا کے میرا بھائی اصغر
+وہ کلکاریاں اب سنوں میں کہاں سے
 
 ۵
-مدینے کی یادیں ستاتی ہیں مجھکو
-بہت خوں کے آنسوں رلاتی ہے مجھکو
+مدینے کی یادیں ستاتی ہیں مجھ کو
+بہت خوں کے آنسو رلاتی ہے مجھ کو
 رہے دور کب تک کوئی آشیاں سے
 
 ۶
-ترای سے آتی ہوی نم ہوائیں
-طلب تشنگی کی بڑھا کر ستاے
+ترائی سے آتی ہوئی نم ہوائیں
+طلب تشنگی کی بڑھا کر ستائے
 کوئی ان سے کہہ دے نہ گزرے یہاں سے
 
 ۷
 چلا حلق شہ پر جو مقتل میں خنجر
-نشیبوں میں روی بہت ایک مادر
-زمیں روی برسا لہو آسماں سے
+نشیبوں میں روئی بہت ایک مادر
+زمیں روئی برسا لہو آسماں سے
 
 ۸
 کہ جو باغ یثرب میں پھولے پھلے ہیں
@@ -120,7 +121,7 @@ romanLyrics: |-
 بچا لے انہیں کوئی ظالم قضا سے
 
 ۹
-یہ بیمار بھای پہ جور جفا ہے
+یہ بیمار بھائی پہ جور جفا ہے
 رسن بازوؤں میں گلا بھی بندھا ہے
 لہو اب بھی جاری ہے طوقِ گراں سے
 
@@ -130,8 +131,8 @@ romanLyrics: |-
 نظر جس پر اٹھی گیا اپنی جاں سے
 
 ۱۱
-تصور میں بھی بد خیالی نہ آے
-غلام علی زندگی یوں بتاے
+تصور میں بھی بد خیالی نہ آئے
+غلام علی زندگی یوں بتائے
 بے ایمان بن کر اٹھے اس جہاں سے
 
 ۱۲

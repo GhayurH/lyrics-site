@@ -6,53 +6,54 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Anwar Zahir"
+reciter: "Shareef Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Tadapti reh gayi laila chale gaye akbar
-  Kise banayegi dulha chale gaye akbar
+  Tadapti reh gayi Laila chale gaye Akbar
+  Kise banaayegi dulha chale gaye Akbar
 
   1
-  Ye aarzoo thi ke laila khilayegi pothay
-  Raha ye khwaab adhoora chale gaye akbar
+  Ye aarzu thi ke Laila khilaayegi pote
+  Raha ye khwaab adhura chale gaye Akbar
 
   2
-  Ajeeb zauf ka aalam hai utra utra hai
-  Batool dadi ka chehra chale gaye akbar
+  Ajib zof ka aalam hai utra utra hai
+  Batul zaadi ka chehra chale gaye Akbar
 
   3
-  Kisi ne poocha ke behosh kyun hai binte ali
-  To roke boli sakina chale gaye akbar
+  Kisi ne puchha ke behosh kiuṅ hai bint-e-Ali
+  To ro ke boli Sakina chale gaye Akbar
 
   4
-  Pisar bhi kar diye qurban behan ne bhai par
-  Ye maamta ka hai nauha chale gaye akbar
+  Pisar bhi kar diye qurbaaṅ behan ne bhai par
+  Ye mamta ka hai nauha chale gaye Akbar
 
   5
-  Hussain laasha e abbas par ye kehte thay
-  Suna kuch aap ne bhaiya chale gaye akbar
+  Husain laasha-e-Abbas par ye kehte the
+  Suna kuchh aap ne bhaiya chale gaye Akbar
 
   6
-  Tumhara daaghe judaai na seh sake bhai
-  Aur hum ko chod ke tanha chale gaye akbar
+  Tumhaara daagh-e-judaai na seh sake bhai
+  Aur hum ko chhor ke tanha chale gaye Akbar
 
   7
-  Hussain jaate hai maqtal may sar katane ko
-  Uthega kaise janaza chale gaye akbar
+  Husain jaate haiṅ maqtal meiṅ sar kataane ko
+  Uthega kaise janaaza chale gaye Akbar
 
   8
-  Hussain rote thay anwar ye kehte jaate thay
-  Jiyegi kis tarha laila chale gaye akbar
+  Husain rote the Anwar ye kehte jaate the
+  Jiyegi kis tarah Laila chale gaye Akbar
 # source_id: nohayonline:30c378bcb76d8d2ca27e
 # source_url: https://www.nohayonline.com/details_content.php?id=848
 # raw_sha256: b9a5c3caa7229cf9bad34a4b15ae30e4cfc3707aaa8d8178aceeedea4bfff164
 ---
 تڑپتی رہ گئی لیلیٰ چلے گئے اکبر
-کسے بناے گی دولہا چلے گےء اکبر
+کسے بنائے گی دولہا چلے گئے اکبر
 
 ۱
-یہ آرزو تھی کہ لیلیٰ کھلاے گی پوتے
+یہ آرزو تھی کہ لیلیٰ کھلائے گی پوتے
 رہا یہ خواب ادھورا چلے گئے اکبر
 
 ۲
@@ -60,19 +61,19 @@ romanLyrics: |-
 بتول زادی کا چہرہ چلے گئے اکبر
 
 ۳
-کسی نے پوچھا کہ بے حوش کیوں ہے بنت علی
-تو روکے بولی سکینہ چلے گئے اکبر
+کسی نے پوچھا کہ بے ہوش کیوں ہے بنت علی
+تو رو کے بولی سکینہ چلے گئے اکبر
 
 ۴
-پسر بھی کر دیےء قرباں بہن نے بھائی پر
-یہ مامتا کا ہے نوحہ چلے گےء اکبر
+پسر بھی کر دیے قرباں بہن نے بھائی پر
+یہ مامتا کا ہے نوحہ چلے گئے اکبر
 
 ۵
-حسین لاشہء عباس پر یہ کہتے تھے
+حسین لاشۂ عباس پر یہ کہتے تھے
 سنا کچھ آپ نے بھیا چلے گئے اکبر
 
 ۶
-تمہارا داغ جدائی نہ سہہ سکے بھائی
+تمہارا داغ جدائی نہ سہ سکے بھائی
 اور ہم کو چھوڑ کے تنہا چلے گئے اکبر
 
 ۷
@@ -81,4 +82,4 @@ romanLyrics: |-
 
 ۸
 حسین روتے تھے انور یہ کہتے جاتے تھے
-جیےء گی کس طرح لیلیٰ چلے گئے اکبر
+جیے گی کس طرح لیلیٰ چلے گئے اکبر

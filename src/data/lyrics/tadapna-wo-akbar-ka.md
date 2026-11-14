@@ -4,55 +4,56 @@ alternateTitle: "Tadapna Wo Akbar Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Noha"
+kalamType: "Salam"
+reciter: "Ali Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Tadapna wo akbar ka keh keh ke pani
-  Jhijhakti qaza aur ujadti jawani
+  Tadapna wo Akbar ka keh keh ke paani
+  Jhijhakti qaza aur ujarti jawaani
 
   1
-  Sarhane pisar ke pidar sun raha hai
-  Har hichki ki awaaz may pani pani
+  Sarhaane pisar ke pidar sun raha hai
+  Har hichki ki aawaaz meiṅ paani paani
 
   2
-  Na zainab ki dhaaras na maa ka sahara
-  Bhare ghar se ruqsat hui hai jawani
+  Na Zainab ki dhaaras na maaṅ ka sahaara
+  Bhare ghar se rukhsat hui hai jawaani
 
   3
-  Hai ab jalte qaimon may majboor abid
-  Bahot paas sholay bahot door pani
+  Hai ab jalte khaimoṅ meiṅ majbur Aabid
+  Bahut paas shole bahut dur paani
 
   4
-  Wo darbare haakim wo laakhon ka majma
-  Wo bhai ka khissa behen ki zubani
+  Wo darbaar-e-haakim wo laakhoṅ ka majma
+  Wo bhai ka qissa behan ki zabaani
 
   5
-  Qayamat hai ab inquilaab e zamana
-  Zaeefi ke haathon se uth'ti jawani
+  Qayaamat hai ab inqilaab-e-zamaana
+  Zaifi ke haathoṅ se uthti jawaani
 
   6
-  Ubalte hai abbas ke ran may aansu
-  Tapakta hai mashke sakina se pani
+  Ubalte haiṅ Abbas ke ran meiṅ aaṅsu
+  Tapakta hai mashk-e-Sakina se paani
 
   7
-  Jab asghar humakte hai haaton pe sheh ke
-  Ubhalta hai darya chalakta hai pani
+  Jab Asghar humakte haiṅ haathoṅ pe Shah ke
+  Ubalta hai darya chhalakta hai paani
 
   8
-  Lute dono ashoor ko karbala may
-  Nabi ka alam aur ali ki nashani
+  Lute donoṅ Aashur ko Karbala meiṅ
+  Nabi ka alam aur Ali ki nishaani
 
   9
-  Rahe neel baazu e zainab pe baaqi
-  Watan ko gayi karbala ki nashani
+  Rahe nil baazu-e-Zainab pe baaqi
+  Watan ko gayi Karbala ki nishaani
 # source_id: nohayonline:3eba02a19c46e286847a
 # source_url: https://www.nohayonline.com/content_salaam.php?id=15
 # raw_sha256: 759ce9a2094366437c67f0ded4d819bd4b6b0e5c2683a424474786e6ba2e257e
 ---
 تڑپنا وہ اکبر کا کہہ کہہ کے پانی
-جھجھکتی قضاء اور اجڑتی جوانی
+جھجھکتی قضا اور اجڑتی جوانی
 
 ۱
 سرہانے پسر کے پدر سن رہا ہے
@@ -60,7 +61,7 @@ romanLyrics: |-
 
 ۲
 نہ زینب کی ڈھارس نہ ماں کا سہارا
-بھرے گھر سے رخصت ہوی ہےجوانی
+بھرے گھر سے رخصت ہوئی ہے جوانی
 
 ۳
 ہے اب جلتے خیموں میں مجبور عابد
@@ -68,14 +69,14 @@ romanLyrics: |-
 
 ۴
 وہ دربار حاکم وہ لاکھوں کا مجمع
-وہ بھای کا قصہ بہن کی زبانی
+وہ بھائی کا قصہ بہن کی زبانی
 
 ۵
 قیامت ہے اب انقلاب زمانہ
 ضعیفی کے ہاتھوں سے اٹھتی جوانی
 
 ۶
-ابلتے ہیں عباس کے رن میں آنسوں
+ابلتے ہیں عباس کے رن میں آنسو
 ٹپکتا ہے مشک سکینہ سے پانی
 
 ۷
@@ -88,4 +89,4 @@ romanLyrics: |-
 
 ۹
 رہے نیل بازو پہ زینب کے باقی
-وطن کو گیء کربلا کی نشانی
+وطن کو گئی کربلا کی نشانی
