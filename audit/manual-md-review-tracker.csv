@@ -3217,10 +3217,10 @@ src/data/lyrics/sakina-ro-rahi-hai.md,standalone_lyrics,imported,nohayonline,pen
 src/data/lyrics/sakina-shaam-ke-zindan.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,editorial-first-sweep-2026-11-13,,"Need audio/print: s1 ""roti hai bekasi"" (Roman) vs ""roti bekasi"" (Urdu); s3 ""ja sakenge"" vs ""ja sake ga""; s4 ""pari jo faatiha"" and ""muztar"" in the grave verse."
 src/data/lyrics/sakina-shaam-may.md,standalone_lyrics,imported,nohayonline+ziyaraat,pending,reviewed,reviewed,reviewed,verified,reviewed,editorial-first-sweep-2026-11-13,,
 src/data/lyrics/sakina-sham-ke-zindan.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,editorial-first-sweep-2026-11-13,,"Need audio/print: s3 ""reesmaaṅ"" (ریسماں); s6 ""ae mera tashna dahaaṅ""; s8 ""aankhoṅ se mere"" vs ""meri""."
-src/data/lyrics/sakina-tum-nahi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/sakina-ye-pardes-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/sakina-zakhmi-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/sakina-zinda-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/sakina-tum-nahi.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-13-batch-sakina-01,,
+src/data/lyrics/sakina-ye-pardes-hai.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-13-batch-sakina-01,,
+src/data/lyrics/sakina-zakhmi-hai.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,2026-11-13-batch-sakina-01,,"Need audio/print: opening Urdu ""ہر قدم"" vs Roman ""har dam""."
+src/data/lyrics/sakina-zinda-hai.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,2026-11-13-batch-sakina-01,,"Need audio/print: s6 Urdu ""ہیں"" vs archived Roman ""hai""; s4 Urdu-only honorific ""ع"" after Asghar (spoken or annotation)."
 src/data/lyrics/salaam-e-aakhir.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/salaam-hussain.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/salaam-lo-amma.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,

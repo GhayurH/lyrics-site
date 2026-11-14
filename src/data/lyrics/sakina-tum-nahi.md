@@ -5,51 +5,53 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Tadap kar yun na tadpana
-  Sakina tum nahi rona
+  Tarap kar yuṅ na tarpana
+  Sakina tum nahiṅ rona
   
   1
   Suno baba ka ye kehna
-  Tumhe hai sabr se rehna
-  Badal jayegi ye dunya
+  Tumheṅ hai sabr se rehna
+  Badal jaayegi ye duniya
   
   2
-  Jalaane aayenge aada
-  Hamare baad ye qaime
+  Jalaane aayeṅge aadaa
+  Hamaare baad ye khaime
   Jalega jab tera kurta
   
   3
-  Daraane aayenge zaalim
-  Liye haaton may jab khanjar
-  Meri bacci na tum darna
+  Daraane aayeṅge zaalim
+  Liye haathoṅ meiṅ jab khanjar
+  Meri bachchi na tum darna
   
   4
-  Tamache maarega dushman
-  Tumhare cheen kar gauhar
+  Tamaanche maarega dushman
+  Tumhaare chhin kar gauhar
   Na hoga jab koi apna
   
   5
-  Badegi pyaas ki shiddat
+  Barhegi pyaas ki shiddat
   Jab hogi har nayi aafat
-  Na hoga bhai jab mera
+  Na hoga bhaai jab mera
   
   6
-  Tumhe kab neend aayegi
-  Na hoga jab mera seena
-  Tumhe kaanton pe hai sona
+  Tumheṅ kab nind aayegi
+  Na hoga jab mera sina
+  Tumheṅ kaantoṅ pe hai sona
   
   7
-  Andhere qaid khane may
-  Tumhe neend aayegi kyun kar
-  Na hoga baap ka seena
+  Andhere qaid khaane meiṅ
+  Tumheṅ nind aayegi kiuṅ kar
+  Na hoga baap ka sina
   
   8
-  Riza ho aap ki maula
-  Likha hai usne ye nauha
+  Raza ho aap ki Maula
+  Likha hai us ne ye nauha
+  Sakina tum nahiṅ rona
 # source_id: nohayonline:796681dc281b973fb43e
 # source_url: https://www.nohayonline.com/details_content.php?id=1773
 # raw_sha256: b757fea74a63c8ae271e76ae4db38141dc0ea1ec0dab81c5839257fb60102009
@@ -61,16 +63,16 @@ romanLyrics: |-
 ۱
 سنو بابا کا یہ کہنا
 تمہیں ہے صبر سے رہنا
-بدل جاے گی یہ دنیا
+بدل جائے گی یہ دنیا
 
 ۲
-جلانے آییںنگے اعدا
+جلانے آئیں گے اعدا
 ہمارے بعد یہ خیمے
 جلے گا جب تیرا کرتہ
 
 ۳
-ڈرانے آیینگے ظالم
-لیےء ہاتھوں میں جب خنجر
+ڈرانے آئیں گے ظالم
+لیے ہاتھوں میں جب خنجر
 میری بچی نہ تم ڈرنا
 
 ۴
@@ -79,20 +81,21 @@ romanLyrics: |-
 نہ ہوگا جب کوئی اپنا
 
 ۵
-بڑے گی پیاس کی شدت
-جب ہوگی ہر نیء آفت
-نہ ہوگا بھای جب میرا
+بڑھے گی پیاس کی شدت
+جب ہوگی ہر نئی آفت
+نہ ہوگا بھائی جب میرا
 
 ۶
-تمہیں کب نیند آے گی
+تمہیں کب نیند آئے گی
 نہ ہوگا جب میرا سینہ
 تمہیں کانٹوں پہ ہے سونا
 
 ۷
 اندھیرے قید خانے میں
-تمہیں نیند آے گی کیوں کر
+تمہیں نیند آئے گی کیوں کر
 نہ ہوگا باپ کا سینہ
 
 ۸
 رضا ہو آپ کی مولا
 لکھا ہے اس نے یہ نوحہ
+سکینہ تم نہیں رونا
