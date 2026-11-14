@@ -6,39 +6,40 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Fareed Baig"
+reciter: "Hyder Ali Qayam"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hogaya jab khana e zehra mein ek mehsher bapa
-  Thar'thara uthi zameen aur asmaan hilne laga
-  Aa rahi thi ye dar o deewar e kufa se sada
-  Uth gaya hai aaj baba zainab o kulsoom ka
+  Ho gaya jab khaana-e-Zehra mein ek mahshar bapa
+  Thar thara uthi zamiṅ aur aasmaaṅ hilne laga
+  Aa rahi thi ye dar o diwaar-e-Kufa se sada
+  Uth gaya hai aaj baaba Zainab o Kulsum ka
 
   1
-  Uth gaye moula jahan se hashr ka hangaam hai
-  Zindagi be aasra hai har taraf kohraam hai
-  Hai jahan ka zarra zarra sog mein dooba hua
+  Uth gaye Maula jahaaṅ se hashr ka hangaam hai
+  Zindagi beaasra hai har taraf kohraam hai
+  Hai jahaaṅ ka zarra zarra sog mein duba hua
 
   2
-  Hogaya khamosh jab se maalik e koun o makan
-  Chup hai mehrab e yakheen aur chup hai meenar e azan
-  Hai dayar e deen e ahmed par udaasi ki faza
+  Ho gaya khaamosh jab se maalik-e-kaun o makaaṅ
+  Chup hai mehraab-e-yaqiṅ aur chup hai minaar-e-azaaṅ
+  Hai dayaar-e-din-e-Ahmad par udaasi ki faza
 
   3
-  Bekas o mazloom ka haajat rawan koi nahi
-  Ab kise awaaz de mushkil kusha koi nahi
-  Kaun dega ab sahara be-saharon ko bhala
+  Bekas o mazlum ka haajat rawaaṅ koi nahiṅ
+  Ab kise aawaaz de mushkil kusha koi nahiṅ
+  Kaun dega ab sahaara besahaaroṅ ko bhala
 
   4
-  Ghar se baahar aa na jaaye bibiyan rota huwe
-  Koi suraj se ye kehde roshni roke rahe
-  Kar rahi hai sar khule saydaniya aah o buka
+  Ghar se baahar aa na jaaye Bibiyaaṅ rota hue
+  Koi suraj se ye keh de roshni roke rahe
+  Kar rahi hai sar khule Sayyidaaniyaaṅ aah o buka
 
   5
-  Surkh hai ekkeeswi ka subha ka chehra fareed
-  Waarise kaaba hua hai khaana e haq mein shaheed
-  Subhe mehsher ka samaan hai har tarf chaaya hua
+  Surkh hai ikkiswiṅ ka subh ka chehra Farid
+  Waaris-e-Kaaba hua hai khaana-e-Haq mein shahid
+  Subh-e-mahshar ka samaaṅ hai har taraf chhaaya hua
 # source_id: nohayonline:e2985fd4f7fe51188555
 # source_url: https://www.nohayonline.com/details_content.php?id=2943
 # raw_sha256: c89f335e6bce5b57b8239760973a47fae5330895659e766368456579e92c57ce
@@ -49,9 +50,9 @@ romanLyrics: |-
 اٹھ گیا ہے آج بابا زینب و کلثوم کا
 
 ۱
-اٹھ گےء مولا جہاں سے حشر کا ہنگام ہے
+اٹھ گئے مولا جہاں سے حشر کا ہنگام ہے
 زندگی بے آسرا ہے ہر طرف کہرام ہے
-ہے جہاں کا زرہ زرہ سوگ میں ڈوبا ہوا
+ہے جہاں کا ذرہ ذرہ سوگ میں ڈوبا ہوا
 
 ۲
 ہو گیا خاموش جب سے مالک کون و مکاں
@@ -59,13 +60,13 @@ romanLyrics: |-
 ہے دیار دین احمد پر اداسی کی فضا
 
 ۳
-بیکس و مظلوم کا حاجت رواں کوی نہیں
-اب کسے آواز دے مشکل کشا کوی نہیں
+بیکس و مظلوم کا حاجت رواں کوئی نہیں
+اب کسے آواز دے مشکل کشا کوئی نہیں
 کون دے گا اب سہارا بے سہاروں کا بھلا
 
 ۴
-گھر سے باہر آ نہ جائے بی بیاں روتا ہوے
-کوئی سورج سے یہ کہدے روشنی روکے رہے
+گھر سے باہر آ نہ جائے بی‌بیاں روتا ہوئے
+کوئی سورج سے یہ کہہ دے روشنی روکے رہے
 کر رہی ہے سر کھلے سیدانیاں آہ و بُکا
 
 ۵

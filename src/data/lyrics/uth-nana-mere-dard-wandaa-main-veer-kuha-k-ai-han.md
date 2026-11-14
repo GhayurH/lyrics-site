@@ -1,11 +1,13 @@
 ---
-title: "UTH NANA MERE DARD WANDAA MAIN VEER KUHA K AI HAN"
+title: "Uth Nana Mere Dard Wandaa Main Veer Kuha K Ai Han"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+haal: "واپسیِ مدینہ"
+romanHaal: "Waapsi-e-Madina"
 tags: ["noImage", "noUrdu"]
-aliases: []
+aliases: ["UTH NANA MERE DARD WANDAA MAIN VEER KUHA K AI HAN"]
 published: false
 # source_id: ziyaraat:986f199d7fcf6cee5422
 # source_url: https://www.ziyaraat.net/api/noha/2887
