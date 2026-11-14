@@ -6,36 +6,37 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Sachey Bhai"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ro ke kehti thi maa tujhko dhoondun kahan
-  Asghar e bezaban tujhko dhoondun kahan
+  Ro ke kehti thi maaṅ tujh ko dhunduṅ kahaaṅ
+  Asghar-e-bezabaaṅ tujh ko dhunduṅ kahaaṅ
 
   1
-  Ab to rote nahi bolte kyun nahi
-  So rahe ho kahan tujhko dhoondun kahan
+  Ab to rote nahiṅ bolte kiuṅ nahiṅ
+  So rahe ho kahaaṅ tujh ko dhunduṅ kahaaṅ
 
   2
-  Qaid hoti hoon mai kab se roti hoon mai
-  Bandh chuki reesman tujhko dhoondun kahan
+  Qaid hoti huṅ main kab se roti huṅ main
+  Bandh chuki resmaaṅ tujh ko dhunduṅ kahaaṅ
 
   3
-  Paas daadi ke ya sheh ki godhi mein ho
-  Kuch to de do nishan tujhko dhoondun kahan
+  Paas daadi ke ya Shah ki godhi mein ho
+  Kuchh to de do nishaaṅ tujh ko dhunduṅ kahaaṅ
 
   4
-  Qaime jalne lage shaah maare gaye
-  Lo uthi aandhiyan tujhko dhoondun kahan
+  Khaime jalne lage Shah maare gaye
+  Lo uthi aandhiyaaṅ tujh ko dhunduṅ kahaaṅ
 
   5
-  Khud bulaate nahi aap aate nahi
-  Lo chala kaarwan tujhko dhoondun kahan
+  Khud bulaate nahiṅ aap aate nahiṅ
+  Lo chala kaarwaaṅ tujh ko dhunduṅ kahaaṅ
 
   6
-  Ran se paltoge kab jalte qaimon se ab
-  Uth raha hai dhuaan tujhko dhoondun kahan
+  Ran se paltoge kab jalte khaimoṅ se ab
+  Uth raha hai dhuaaṅ tujh ko dhunduṅ kahaaṅ
 # source_id: nohayonline:c63dd9a4a4abd1d46781
 # source_url: https://www.nohayonline.com/details_content.php?id=3220
 # raw_sha256: 1b49f2878a2b0bf3aa6cde286a91d24521daf3559dec524d481a0e1bf9eca273
@@ -56,7 +57,7 @@ romanLyrics: |-
 کچھ تو دے دو نشاں تجھکو ڈھونڈوں کہاں
 
 ۴
-خیمے جلنے لگے شاہ مارے گےء
+خیمے جلنے لگے شاہ مارے گئے
 لو اٹھی آندھیاں تجھکو ڈھونڈوں کہاں
 
 ۵

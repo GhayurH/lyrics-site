@@ -5,36 +5,37 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Mir Hasan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ro raha hai khud andhera shaam ke zindan mein
-  Reh gayi tanha sakina shaam ke zindan mein
+  Ro raha hai khud andhera Shaam ke zindaan mein
+  Reh gayi tanha Sakina Shaam ke zindaan mein
 
   1
-  Mar gayi ye kehte kehte be-watan pardes mein
-  Kya nahi aayenge baba shaam ke zindan mein
+  Mar gayi ye kehte kehte bewatan pardes mein
+  Kya nahiṅ aaeiṅge Baaba Shaam ke zindaan mein
 
   2
-  Lehjaye shabbir mein lori sunane ke liye
-  Khuld se aati hai zehra shaam ke zindan mein
+  Lehja-e-Shabbir mein lori sunaane ke liye
+  Khuld se aati hai Zehra Shaam ke zindaan mein
 
   3
-  Bediyon ke shor mein zanjeer ki jhankaar mein
-  Uth raha hai ek janaza shaam ke zindan mein
+  Beriyoṅ ke shor mein zanjir ki jhankaar mein
+  Uth raha hai ek janaaza Shaam ke zindaan mein
 
   4
-  Saahibe aulaad jaa kar khud hi andaza kare
-  Moo ko aata hai kaleja shaam ke zindan mein
+  Saahib-e-aulaad jaa kar khud hi andaaza kare
+  Muṅh ko aata hai kaleja Shaam ke zindaan mein
 
   5
-  Dekh kar masoom ke rukh par tamachon ke nishan
-  Maut ko aaya pasina shaam ke zindan mein
+  Dekh kar maasum ke rukh par tamaachoṅ ke nishaaṅ
+  Maut ko aaya pasina Shaam ke zindaan mein
 
   6
-  Is tarha taqseem bano ki kameini ho gayi
-  Dasht mein asghar sakina shaam ke zindan mein
+  Is tarah taqsim Baano ki kamaai ho gayi
+  Dasht mein Asghar Sakina Shaam ke zindaan mein
 # source_id: nohayonline:6e8a2b08780982b165ad
 # source_url: https://www.nohayonline.com/details_content.php?id=327
 # raw_sha256: 7c93549313692d2b13e0a6c50cad870747960c0116f370650065653d614b0386
@@ -47,7 +48,7 @@ romanLyrics: |-
 کیا نہیں آئیں گے بابا شام کے زندان میں
 
 ۲
-لہجہئ شبیر میں لوری سنانے کے لیے
+لہجۂ شبیر میں لوری سنانے کے لیے
 خلد سے آتی ہے زہرا شام کے زندان میں
 
 ۳
@@ -55,7 +56,7 @@ romanLyrics: |-
 اُٹھ رہا ہے اک جنازہ شام کے زندان میں
 
 ۴
-صاحبِ اولاد جا کر خودہی اندازہ کرے
+صاحبِ اولاد جا کر خود ہی اندازہ کرے
 منہ کو آتا ہے کلیجہ شام کے زندان میں
 
 ۵
@@ -63,5 +64,5 @@ romanLyrics: |-
 موت کو آیا پسینہ شام کے زندان میں
 
 ۶
-اس طرح تقسیم بانو کی کمائی ہوگئی
-دشت میںاصغر سکینہ شام کے زندان میں
+اس طرح تقسیم بانو کی کمائی ہو گئی
+دشت میں اصغر سکینہ شام کے زندان میں
