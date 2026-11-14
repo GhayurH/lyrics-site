@@ -1,77 +1,78 @@
 ---
 title: "اے بہن زینب"
-alternateTitle: "Waada Karo Ay"
+alternateTitle: "Waada Karo Ae"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ay behen zainab
+  Ae behen Zainab
   Waada karo waada karo
 
   1
-  Ahle haram ko kal se behen
-  Abbas ban kar sambhalogi na
+  Ahl-e-haram ko kal se behen
+  Abbaas ban kar sambhaalogi na
 
   2
   Ehsaan mujh par itna karo
-  Mere sirhane baithi raho
+  Mere sirhaane baithi raho
   Kya sochti ho mujhse kaho
-  Meri wasiyat bhi sunti raho
+  Meri wasiyyat bhi sunti raho
   Tum mujhko ro lo mere saamne
-  Kal se ye aansu chupaogi na
+  Kal se ye aansu chhupaaogi na
 
   3
-  Jab bekasi ke mahol par
-  Shaam e ghariban chaane lage
-  Nana ki ummat jab ay behen
-  Qaime hamare jalane lage
+  Jab bekasi ke maahaul par
+  Shaam-e-gharibaaṅ chhaane lage
+  Naana ki ummat jab ae behen
+  Khaime hamaare jalaane lage
   Jal jaaye masnad meri magar
-  Abid ko mere bachaogi na
+  Aabid ko mere bachaaogi na
 
   4
-  Nazdeek mere aao zara
-  Dekho na sunle sakina kahin
-  Jaogi jab qaid khane mein tum
-  Bichdegi tumse ye bacchi wahin
-  Zindan mein tum bandhe haath se
-  Qabr e sakina banaogi na
+  Nazdik mere aao zara
+  Dekho na sun le Sakina kahiṅ
+  Jaaogi jab qaid khaane meiṅ tum
+  Bichhre gi tum se ye bachchi wahiṅ
+  Zindaan meiṅ tum bandhe haath se
+  Qabr-e-Sakina banaaogi na
 
   5
-  Be-gor hoga mera badan
-  Khaake shifa hogi mera kafan
-  Dekho rona nahi chain khona nahi
-  Tumko mil jaaye chadar ye hona nahi
-  Tum apni chadar pyari behen
-  Khaake shifa ko banaogi na
+  Begor hoga mera badan
+  Khaak-e-shifa hogi mera kafan
+  Dekho rona nahiṅ chain khona nahiṅ
+  Tum ko mil jaaye chaadar ye hona nahiṅ
+  Tum apni chaadar pyaari behen
+  Khaak-e-shifa ko banaaogi na
 
   6
-  Apne hi haathon pe laaya tha mai
-  Laasha hassan ka teeron bhara
-  Mayyat ki bhai se rote huwe
-  Tum ne nikaale thay teer e jafa
+  Apne hi haathoṅ pe laaya tha maiṅ
+  Laasha Hasan ka tiroṅ bhara
+  Mayyat ki bhaai se rote hue
+  Tum ne nikaale the tir-e-jafa
   Waise hi mere laashe se tum
-  Teeron ko aa kar nikalogi na
+  Tiroṅ ko aa kar nikaalogi na
 
   7
-  Aankhon mein uske kayi khwab hai
+  Aankhoṅ meiṅ us ke kai khwaab hai
   Tum jaanti ho wo hassaas hai
-  Jo muntazir hai dehleez par
-  Usko judaai ka ehsaas hai
-  Zainab hamari majbooriyan
-  Sughra ko jaa kar bataogi na
+  Jo muntazir hai dehliz par
+  Us ko judaai ke ehsaas hai
+  Zainab hamaari majburiyaaṅ
+  Sughra ko jaa kar bataaogi na
 
   8
-  Sun kar wasiyat shabbir ki
-  Haye takallum wo roti rahi
-  Armaan awaaz e ibne ali
+  Sun kar wasiyyat Shabbir ki
+  Haaye Takallum wo roti rahi
+  Armaan aawaaz-e-Ibn-e-Ali
   Ye kehte kehte tham si gayi
-  Pyason ko pani pilaogi na
-  Farshe aza tum bichaogi na
+  Pyaasoṅ ko paani pilaaogi na
+  Farsh-e-aza tum bichhaaogi na
 # source_id: nohayonline:395a915be49fbcab168f
 # source_url: https://www.nohayonline.com/details_content.php?id=3288
 # raw_sha256: 54d1e8be9e5c31fb0073fda4342f94d8917852288a732ca4cd50bf9ab281507c
@@ -80,7 +81,7 @@ romanLyrics: |-
 وعدہ کرو وعدہ کرو
 
 ۱
-أہل حرم کو کل سے بہن
+اہلِ حرم کو کل سے بہن
 عباس بن کر سنبھالو گی نہ
 
 ۲
@@ -89,52 +90,52 @@ romanLyrics: |-
 کیا سوچتی ہو مجھ سے کہو
 میری وصیت بھی سنتی رہو
 تم مجھ کو رو لو میرے سامنے
-کل سے یہ آنسوں چھپاؤ گی نہ
+کل سے یہ آنسو چھپاؤ گی نہ
 
 ۳
 جب بیکسی کے ماحول پر
-شام غریباں چھانے لگے
+شامِ غریباں چھانے لگے
 نانا کی امت جب اے بہن
 خیمے ہمارے جلانے لگے
 جل جائے مسند میری مگر
 عابد کو میرے بچاؤ گی نہ
 
 ۴
-نزدیک میرے آؤ زرا
-دیکھو نہ سن‌ لے سکینہ کہیں
+نزدیک میرے آؤ ذرا
+دیکھو نہ سن لے سکینہ کہیں
 جاؤ گی جب قید خانے میں تم
-بچھڑے گی تم سے یہ بچی وہی
+بچھڑے گی تم سے یہ بچی وہیں
 زندان میں تم بندھے ہاتھ سے
-قبر سکینہ بناؤ گی نہ
+قبرِ سکینہ بناؤ گی نہ
 
 ۵
 بے گور ہوگا میرا بدن
-خاک شفا ہو گی میرا کفن
+خاکِ شفا ہو گی میرا کفن
 دیکھو رونا نہیں چین کھونا نہیں
 تم کو مل جائے چادر یہ ہونا نہیں
 تم اپنی چادر پیاری بہن
-خاک شفا کو بناؤ گی نہ
+خاکِ شفا کو بناؤ گی نہ
 
 ۶
 اپنے ہی ہاتھوں پہ لایا تھا میں
 لاشہ حسن کا تیروں بھرا
-میت کی بھای سے روتے ہوئے
-تم نے نکالے تھے تیر جفا
+میت کی بھائی سے روتے ہوئے
+تم نے نکالے تھے تیرِ جفا
 ویسے ہی میرے لاشے سے تم
 تیروں کو آ کر نکالو گی نہ
 
 ۷
-آنکھوں میں اس کے کیء خواب ہے
+آنکھوں میں اس کے کئی خواب ہے
 تم جانتی ہو وہ حساس ہے
 جو منتظر ہے دہلیز پر
-اس کو جدای کے احساس ہے
+اس کو جدائی کے احساس ہے
 زینب ہماری مجبوریاں
-صغرا کو جا کر بتاؤ گی نہ
+صغریٰ کو جا کر بتاؤ گی نہ
 
 ۸
 سن کر وصیت شبیر کی
-ہاے تکلم وہ روتی رہی
-ارمان آواز ابنِ علی
-یہ کہتے کہتے تھم سے گیء
+ہائے تکلم وہ روتی رہی
+ارمان آوازِ ابنِ علی
+یہ کہتے کہتے تھم سی گئی
 پیاسوں کو پانی پلاؤ گی نہ
-فرش عزا تم بچھاؤ گی نہ
+فرشِ عزا تم بچھاؤ گی نہ

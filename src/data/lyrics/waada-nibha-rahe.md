@@ -6,95 +6,96 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Majid Raza Abidi"
+reciter: "Mukhtar Husain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jo tha khuda se wo waada nibha rahe hai hussain
-  Khud apne qadmon se maqtal ko jaa rahe hai hussain
+  Jo tha Khuda se wo waada nibha rahe haiṅ Husain
+  Khud apne qadmoṅ se maqtal ko jaa rahe haiṅ Husain
 
   1
-  Jab apne nana ki turbat ko alwida kaha
-  To aa rahi thi baqaiya se fatema ki sada
-  Utho lehad se ay baba wo jaa rahe hai hussain
+  Jab apne Naana ki turbat ko alwida kaha
+  To aa rahi thi Baqaiya se Fatima ki sada
+  Utho lahad se ae Baaba wo jaa rahe haiṅ Husain
 
   2
-  Khuda ki raah may sughra ko tanha chod diya
-  Wo laakh kehti rahi mujhko le chalo baba
-  Lipat ke beti se aansu baha rahe hai hussain
+  Khuda ki raah meiṅ Sughra ko tanha chhor diya
+  Wo laakh kehti rahi mujh ko le chalo Baaba
+  Lipat ke beti se aansu baha rahe haiṅ Husain
 
   3
-  Qayamat aa gayi jab aayi shaam e ashoora
-  Sagheer bachon may jab al atash ka shor badha
-  Galay laga ke unhe rote jaa rahe hai hussain
+  Qayaamat aa gai jab aai shaam-e-Aashura
+  Saghir bachchoṅ meiṅ jab al atash ka shor barha
+  Gale laga ke unheiṅ rote jaa rahe haiṅ Husain
 
   4
-  Tuloo hogayi karbal may subhe qatl e hussain
-  Utha raha tha har ek laash khud butool ka chain
-  Khud apne haathon se maqtal saja rahe hai hussain
+  Tulu ho gai Karbal meiṅ subh-e-qatl-e-Husain
+  Utha raha tha har ik laash khud Batul ka chain
+  Khud apne haathoṅ se maqtal saja rahe haiṅ Husain
 
   5
-  Shaheed jab hua ghazi hussain toot gaye
-  To laasha chod ke darya pe suye qaima chale
-  Alam ke saath do baazu bhi laa rahe hai hussain
+  Shahid jab hua Ghaazi Husain tut gaye
+  To laasha chhor ke darya pe su-e-khaima chale
+  Alam ke saath do baazu bhi laa rahe haiṅ Husain
 
   6
-  Phir ek zulm pe arsh e azeem kaamp gaya
-  Pidar ki gohd may baysheer ko jo teer laga
-  Wo dekho choti si turbat bana rahe hai hussain
+  Phir ek zulm pe arsh-e-azim kaamp gaya
+  Pidar ki god meiṅ beshir ko jo tir laga
+  Wo dekho chhoti si turbat bana rahe haiṅ Husain
 
   7
-  Haram may hashr tha jab waqt e asr aa pahuncha
-  Sakina dhoond rahi thi kidhar gaye baba
-  Khuda ke sajde may gardan kata rahe hai hussain
+  Haram meiṅ hashr tha jab waqt-e-asr aa pahuncha
+  Sakina dhundh rahi thi kidhar gaye Baaba
+  Khuda ke sajde meiṅ gardan kata rahe haiṅ Husain
 
   8
-  Tha nauha majid o mukhtar ran may zainab ka
-  Pada hai dhoop may laasha tumhara ay bhaiya
-  Haram tumhare suye shaam jaa rahe hai hussain
+  Tha nauha Maajid o Mukhtar ran meiṅ Zainab ka
+  Para hai dhup meiṅ laasha tumhaara ae bhaiyya
+  Haram tumhaare su-e-Shaam jaa rahe haiṅ Husain
 # source_id: nohayonline:2dabe8864407f368c0d5
 # source_url: https://www.nohayonline.com/details_content.php?id=2078
 # raw_sha256: 7a464de2fdf428f4330dd895cf4e9fe79cc5b27ade6bef8c623eb7a27bc6c2ec
 ---
 جو تھا خُدا سے وہ وعدہ نبھا رہے ہیں حسین
-خود اپنے قدموں سے مقتل کو جا رھے ھیں حسین
+خود اپنے قدموں سے مقتل کو جا رہے ہیں حسین
 
 ۱
-جب اپنے نا نا کی تربت کو الوداع کہا
+جب اپنے نانا کی تربت کو الوداع کہا
 تو آ رہی تھی بقیعہ سے فاطمہ کی صدا
-اُٹھو لحد سے اے بابا وہ جا رھے ھیں حسین
+اُٹھو لحد سے اے بابا وہ جا رہے ہیں حسین
 
 ۲
 خُدا کی راہ میں صغریٰ کو تنہا چھوڑ دیا
 وہ لاکھ کہتی رہی مُجھ کو لے چلو بابا
-لپٹ کے بیٹی سے آنسُو بہا رھے ہیں حسین
+لپٹ کے بیٹی سے آنسُو بہا رہے ہیں حسین
 
 ۳
 قیامت آ گئی جب آئی شام عاشورا
 صغیر بچّوں میں جب العطش کا شور بڑھا
-گلے لگا کے اُنہیں روتے جا رھے ھیں حسین
+گلے لگا کے اُنہیں روتے جا رہے ہیں حسین
 
 ۴
 طلوع ہو گئی کربل میں صبح قتلِ حسین
 اُٹھا رہا تھا ہر اِک لاش خود بتول کا چین
-خود اپنے ہاتھوں سے مقتل سجا رھے ہیں حسین
+خود اپنے ہاتھوں سے مقتل سجا رہے ہیں حسین
 
 ۵
 شہید جب ہوا غازی حسین ٹوٹ گئے
 تو لاشہ چھوڑ کے دریا پہ سوئے خیمہ چلے
-علم کے ساتھ دو بازو بھی لا رھے ھیں حسین
+علم کے ساتھ دو بازو بھی لا رہے ہیں حسین
 
 ۶
-پھر ایک ظلم پہ عرش عظیم کانپ گیا
+پھر ایک ظلم پہ عرشِ عظیم کانپ گیا
 پدر کی گود میں بیشیر کو جو تیر لگا
-وہ دیکھو چھوٹی سی تربت بنا رھے ھیں حسین
+وہ دیکھو چھوٹی سی تربت بنا رہے ہیں حسین
 
 ۷
 حرم میں حشر تھا جب وقتِ عصر آ پہنچا
 سکینہ ڈھونڈھ رہی تھی کدھر گئے بابا
-خدا کے سجدے میں گردن کٹا رھے ھیں حسین
+خدا کے سجدے میں گردن کٹا رہے ہیں حسین
 
 ۸
 تھا نوحہ ماجد و مختار رن میں زینب کا
 پڑا ہے دھوپ میں لاشہ تمہارا اے بھیّا
-حرم تمہارے سوئے شام جا رھے ھیں حسین
+حرم تمہارے سوئے شام جا رہے ہیں حسین

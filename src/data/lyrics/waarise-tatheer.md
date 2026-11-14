@@ -1,46 +1,47 @@
 ---
 title: "بابا نہ رہا بھائی نہ رہے"
-alternateTitle: "Waarise Tatheer"
+alternateTitle: "Waaris-e-Tathir"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Haider Khursheed"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Baba na raha bhai na rahe
+  Baaba na raha bhaai na rahe
   Bete na rahe kuch bhi na raha
 
   1
-  Waaris e tatheer hai karbobala mein berida
-  Jis ka koi na raha bemaar abid ke siwa
+  Waaris-e-tathir hai Karb o Bala meiṅ berida
+  Jis ka koi na raha bimaar Aabid ke siwa
 
   2
-  Karbala mein chaar soo hai be-kafan laashe pade
-  Shaam jaane ke liye paband qaidi hai khade
-  Siskiyon ki dab gayi shor e salasal mein sada
+  Karbala meiṅ chaar su haiṅ bekafan laashe pare
+  Shaam jaane ke liye paaband qaidi haiṅ khare
+  Siskiyoṅ ki dab gai shor-e-salaasil meiṅ sada
 
   3
-  Sar barehna hai khadi quran ki jo tafseer hai
-  Hai bandhe baara galay aur ek hi zanjeer hai
-  Is liye ruk ruk ke chalta jaa raha hai khaafila
+  Sar barehna haiṅ khari Quraaṅ ki jo tafsir hai
+  Haiṅ bandhe baarah gale aur ek hi zanjir hai
+  Is liye ruk ruk ke chalta jaa raha hai qaafila
 
   4
-  Dukhtare hyder tere khutbon ki ye taseer hai
-  Shaam mein tu ne badal di deen ki taqdeer hai
-  Zinda o painda tu ne kar diya hai la-ilaah
+  Dukhtar-e-Haider tere khutboṅ ki ye taasir hai
+  Shaam meiṅ tu ne badal di din ki taqdir hai
+  Zinda o paainda tu ne kar diya hai laa ilaah
 
   5
-  Koi abid ko sambhale aagaya jo shaam hai
-  Bheed hai bazariyon ki aur balwa aam hai
-  Kalmago dete nahi chalne ka unko rasta
+  Koi Aabid ko sambhaale aa gaya jo Shaam hai
+  Bhir hai baazaariyoṅ ki aur balwa aam hai
+  Kalma go dete nahiṅ chalne ka un ko raasta
 
   6
-  Hai muqadar ka sikandar tu ay khursheed e hazeen
-  Har kisi ko dehr mein taqdeer ye milti nahi
-  Ye qalam hai maadar e shabbir ki tujhko ataa
+  Hai muqaddar ka sikandar tu ae Khurshid-e-haziṅ
+  Har kisi ko dahr meiṅ taqdir ye milti nahiṅ
+  Ye qalam hai maadar-e-Shabbir ki tujh ko ata
 # source_id: nohayonline:4d47030cfec4f6f60c47
 # source_url: https://www.nohayonline.com/details_content.php?id=2965
 # raw_sha256: 2ea1e140543dea5e43a1cce52fb7e649047ee550f19a76ac96b164fa6dd809d0
@@ -53,19 +54,19 @@ romanLyrics: |-
 جس کا کوئی نہ رہا بیمار عابد کے سوا
 
 ۲
-کربلا میں چار سوُ ہیں بے کفن لاشے پڑے
-شام جانے کے لئیے پابند قیدی ہیں کھڑے
+کربلا میں چار سو ہیں بے کفن لاشے پڑے
+شام جانے کے لیے پابند قیدی ہیں کھڑے
 سسکیوں کی دب گئی شورِ سلاسل میں صدا
 
 ۳
 سر برہنہ ہیں کھڑی قرآں کی جو تفسیر ہے
 ہیں بندھے بارہ گلے اور ایک ہی زنجیر ہے
-اس لئیے رُک رُک کہ چلتا جا رہا ہے قافلہ
+اس لیے رُک رُک کے چلتا جا رہا ہے قافلہ
 
 ۴
 دخترِ حیدر تیرے خُطبوں کی یہ تاثیر ہے
-شام میں توُ نے بدل دی دین کی تقدیر ہے
-زندہ و پائندہ تونے کر دیا ہے لاالہ
+شام میں تو نے بدل دی دین کی تقدیر ہے
+زندہ و پائندہ تو نے کر دیا ہے لا الہ
 
 ۵
 کوئی عابد کو سنبھالے آگیا جو شام ہے
@@ -73,6 +74,6 @@ romanLyrics: |-
 کلمہ گو دیتے نہیں چلنے کا اُن کو راستہ
 
 ۶
-ہے مُقدر کا سکندر توُ اے خورشیدِ حزیں
+ہے مُقدر کا سکندر تو اے خورشیدِ حزیں
 ہر کسی کو دہر میں تقدیر یہ ملتی نہیں
 یہ قلم ہے مادرِ شبیر کی تجھ کو عطاء
