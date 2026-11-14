@@ -49,6 +49,10 @@ romanLyrics: |-
 # source_id: nohayonline:58ad1e8a8778db895553
 # source_url: https://www.nohayonline.com/details_content.php?id=347
 # raw_sha256: 059a878aabc7e41a3bdf4c225d2cef3cff948549a2b9c55393cd3da3c90eb007
+# additional_source_id: nohawriteups:33f05c8c1490406effba
+# additional_source_url: https://www.nohawriteups.org/ay-azadare-hussaini/
+# additional_raw_sha256: e01d4c9c233c58cc7e61fa96519eb9fe2849d656da2aea8fa985e251694f0fa0
+# additional_source_note: All seven numbered source verses and unnumbered introductory couplets are already present; minor source verse order and repeated refrain differ. No new lyric.
 ---
 زندہ رہے زندہ رہے زندہ رہے
 

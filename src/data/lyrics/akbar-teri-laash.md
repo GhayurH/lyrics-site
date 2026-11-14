@@ -85,6 +85,10 @@ romanLyrics: |-
 # source_id: ziyaraat:550955510e9341140953
 # source_url: https://www.ziyaraat.net/api/noha/2394
 # raw_sha256: 655e198e32fa0f0942b826ab86e4fb39c48d83a6303a4a6747152e9e977503bf
+# additional_source_id: nohawriteups:2fbec9b99c826e2c5ea3
+# additional_source_url: https://www.nohawriteups.org/akbar-teri-laash-uthaye-kaisay-hussain-a-s/
+# additional_raw_sha256: 7296a3d742adefe6135bd7ec383160b2d2dc491fff86c3680e01eba3cd73a3df
+# additional_source_note: All ten source stanzas already represented in complete bilingual edition; recurrent Akbar refrain omitted in original canon, no extra substantive stanza.
 ---
 اکبر تیری لاش اٹھائے کیسے حسین
 
