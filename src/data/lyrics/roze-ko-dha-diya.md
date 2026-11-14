@@ -1,66 +1,73 @@
 ---
 title: "زندگی میں تھے ستم اور قبر پہ بھی ہیں ستم"
-alternateTitle: "Roze Ko Dha Diya"
+alternateTitle: "Rauze Ko Dhaa Diya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Alamdar Hashmi"
+reciter: "Irfan Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zindagi mein thay sitam aur qabr pe bhi hai sitam
-  Zaalim ne fatema tere rauze ko dha diya
-  Dil mustafa ka toda ali ko rula diya
-  Khaaliq ne maangi sirf mawaddat thi doston
-  Ummat ne fatema ko ye kaisa sila diya
+  Zindagi mein the sitam aur qabr pe bhi haiṅ sitam
+
+  Zaalim ne Fatima tere rauze ko dhaa diya
+  Dil Mustafa ka tora Ali ko rula diya
 
   1
-  Dhaaya mazaar zulm ne zehra ka jis ghadi
-  Hyder ne aansuon ka musalla bicha diya
+  Khaaliq ne maaṅgi sirf mawaddat thi dostoṅ
+  Ummat ne Fatima ko ye kaisa sila diya
 
   2
-  Karke shaheed dehr mein mohsin ko bekhata
-  Karbal ki sarhadon se madina mila diya
+  Dhaaya mazaar zulm ne Zehra ka jis ghari
+  Haidar ne aaṅsuoṅ ka musalla bichha diya
 
   3
-  Tooti hui thi phasliyan zehra ki is liye
-  Bibi pa jalta dar jo layeen ne gira diya
+  Kar ke shahid dahr mein Mohsin ko bekhata
+  Karbal ki sarhadoṅ se Madina mila diya
 
   4
-  Zahra ke ghar ki misl sakina ka shaqi ne
-  Ghar jis tarha jalaya tha kurta jala diya
+  Tuti hui thi pasliyaaṅ Zehra ki is liye
+  Bibi pe jalta dar jo laiṅ ne gira diya
 
   5
-  Zahra ko kaaba kaabe ka batla ke hashmi
-  Khaaliq ne saari dunya ko sajda kara diya
+  Zehra ke ghar ki misl Sakina ka shaqi ne
+  Ghar jis tarah jalaaya tha kurta jala diya
+
+  6
+  Zehra ko Kaaba Kaabe ka batla ke Hashmi
+  Khaaliq ne saari duniya ko sajda kara diya
 # source_id: nohayonline:940942bde3cc7bda913c
 # source_url: https://www.nohayonline.com/details_content.php?id=1190
 # raw_sha256: c0d69eefdad5d9b0b93856b4657a882f21a3e121403b67e118bd333e934f45da
 ---
 زندگی میں تھے ستم اور قبر پہ بھی ہیں ستم
+
 ظالم نے فاطمہ تیرے روضے کو ڈھا دیا
 دل مصطفیٰ کا توڑا علی کو رلا دیا
+
+۱
 خالق نے مانگی صرف مودت تھی دوستوں
 امت نے فاطمہ کو یہ کیسا صلہ دیا
 
-۱
-ڈھایا مزار ظلم نے زہرا کا جس گھڑی
-حیدر نے آنسوؤں کا مصلی بچھا دیا
-
 ۲
-کرکے شہید دہر میں محسن کو بے خطا
-کربل کی سرحدوں سے مدینہ ملا دیا
+ڈھایا مزار ظلم نے زہرا کا جس گھڑی
+حیدر نے آنسوؤں کا مصلّٰی بچھا دیا
 
 ۳
-ٹوٹی ہوئ تھی پسلیاں زہرا کی اس لیئے
-بی بی پہ جلتا در جو لعیں نے گرا دیا
+کر کے شہید دہر میں محسن کو بے خطا
+کربل کی سرحدوں سے مدینہ ملا دیا
 
 ۴
+ٹوٹی ہوئی تھی پسلیاں زہرا کی اس لیے
+بی‌بی پہ جلتا در جو لعیں نے گرا دیا
+
+۵
 زہرا کے گھر کی مثل سکینہ کا شقی نے
 گھر جس طرح جلایا تھا کرتہ جلا دیا
 
-۵
+۶
 زہرا کو کعبہ کعبے کا بتلا کے ہاشمی
 خالق نے ساری دنیا کو سجدہ کرا دیا
