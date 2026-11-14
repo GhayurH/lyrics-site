@@ -1,76 +1,77 @@
 ---
 title: "شور ماتم ہے شہیدوں کے عزاداروں میں"
-alternateTitle: "Shore Matam Hai"
+alternateTitle: "Shor-e-Maatam Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shamsi"
+reciter: "Farhath Hussain"
 tags: ["noImage"]
-aliases: []
+aliases: ["Shore Matam Hai"]
 published: false
 romanLyrics: |-
-  Shor e matam hai shaheedon ke azadaron mein
-  Shaah mazloom ne sajde kiye talwaron mein
+  Shor-e-maatam hai shahidoṅ ke azaadaaroṅ mein
+  Shaah mazlum ne sajde kiye talwaaroṅ mein
 
   1
-  Jinke ghar se hua islam mein parda khayam
-  Unko sar nange phiraya gaya bazaron mein
+  Jin ke ghar se hua Islaam mein parda qaaim
+  Un ko sar nange phiraaya gaya baazaaroṅ mein
 
   2
-  Dekh lo dekh lo asghar ko zamane walon
-  Phir hasega na koi teeron ki baucharon mein
+  Dekh lo dekh lo Asghar ko zamaane waaloṅ
+  Phir haṅse ga na koi tiroṅ ki bauchhaaroṅ mein
 
   3
-  Qaid khane usay seene se lagaye rakhna
-  Mar gayi haye sakina tere deewaron mein
+  Qaid khaane use sine se lagaaye rakhna
+  Mar gayi haaye Sakina tere diwaaroṅ mein
 
   4
-  Kaun aaya hai ye maa behno ko lekar qaidi
-  Ek faryad hai zanjeeron ki jhankaron mein
+  Kaun aaya hai ye maaṅ bahnoṅ ko le kar qaidi
+  Ek faryaad hai zanjiroṅ ki jhankaaroṅ mein
 
   5
-  Dil ki tatheer se shayad hai zabane uryan
-  Haye wo parda nasheen shaam ke bazaron mein
+  Dil ki tathir se shaayad hai zabaan uryaaṅ
+  Haaye wo parda nashiṅ Shaam ke baazaaroṅ mein
 
   6
-  Haq o baatil ka abhi faisla ho jayega
-  Aake matam karo zanjeeron ka angaron mein
+  Haq o baatil ka abhi faisla ho jaaye ga
+  Aa ke maatam karo zanjiroṅ ka angaaroṅ mein
 
   7
-  Nazre aatish huwe sajjad ke qaime shamsi
-  Ghar mohamed ka ghazab aag ke angaron mein
+  Nazr-e-aatish hue Sajjad ke khaime Shamsi
+  Ghar Muhammad ka ghazab aag ke angaaroṅ mein
 # source_id: nohayonline:5f3151d78fd633a78887
 # source_url: https://www.nohayonline.com/details_content.php?id=1780
 # raw_sha256: 2bff01933e3d5ca963bab1937f9e8f1dfdcd8c3c52d0984db70a56c4247af5d5
 ---
 شور ماتم ہے شہیدوں کے عزاداروں میں
-شاہ مظلوم نے سجدے کیےء تلواروں میں
+شاہ مظلوم نے سجدے کیے تلواروں میں
 
 ۱
 جن کے گھر سے ہوا اسلام میں پردہ قائم
-انکو سر ننگے پھرایا گیا بازاروں میں
+ان کو سر ننگے پھرایا گیا بازاروں میں
 
 ۲
 دیکھ لو دیکھ لو اصغر کو زمانے والوں
 پھر ہنسے گا نہ کوئی تیروں کی بوچھاروں میں
 
 ۳
-قید خانے اسے سینے سے لگاے رکھنا
-مر گیء ہاے سکینہ تیرے دیواروں میں
+قید خانے اسے سینے سے لگائے رکھنا
+مر گئی ہائے سکینہ تیرے دیواروں میں
 
 ۴
-کون آیا ہے یہ ماں بہنوں کو لیکر قیدی
+کون آیا ہے یہ ماں بہنوں کو لے کر قیدی
 ایک فریاد ہے زنجیروں کی جھنکاروں میں
 
 ۵
 دل کی تطہیر سے شاید ہے زبان عریاں
-ہاے وہ پردہ نشیں شام کے بازاروں میں
+ہائے وہ پردہ نشیں شام کے بازاروں میں
 
 ۶
-حق و باطل کا ابھی فیصلہ ہوجائے گا
-آکے ماتم کرو زنجیروں کا انگاروں میں
+حق و باطل کا ابھی فیصلہ ہو جائے گا
+آ کے ماتم کرو زنجیروں کا انگاروں میں
 
 ۷
-نظر آتش ہوے سجاد کے خیمے شمسی
+نذرِ آتش ہوئے سجاد کے خیمے شمسی
 گھر محمد کا غضب آگ کے انگاروں میں

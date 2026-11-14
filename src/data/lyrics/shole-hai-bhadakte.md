@@ -1,50 +1,51 @@
 ---
 title: "شعلے ہیں بھڑکتے ہوئے ہر سمت دھواں ہے"
-alternateTitle: "Shole Hai Bhadakte"
+alternateTitle: "Shole Haiṅ Bharakte"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Jaweed Maqsood"
+reciter: "Hadi Ali Khan Muslim"
 tags: ["noImage"]
-aliases: []
+aliases: ["Shole Hai Bhadakte"]
 published: false
 romanLyrics: |-
-  Shole hai bhadakte huwe har simt dhuan hai
-  Zainab pa musibat hai qayamat ka samaa hai
-  Kehti hai muhafiz mere parde ka kahan hai
-  Hum gheerate hyder meri chadar to bachale
-  Abbas utho aag lagi jalte hai qaime
+  Shole haiṅ bharakte hue har simt dhuaaṅ hai
+  Zainab pe musibat hai qayaamat ka samaaṅ hai
+  Kehti hai muhaafiz mere parde ka kahaaṅ hai
+  Hum ghairat-e-Haider meri chaadar to bachaa le
+  Abbas utho aag lagi jalte haiṅ khaime
 
   1
-  Phir ghaiz e yadullah zamane ko dikhao
-  Faryad chaheeti ki hai imdaad ko aao
-  Gohar na chine aake bhatiji ko bachao
-  Daaman se sakina ke hai lipte huwe shole
+  Phir ghaiz-e-Yadullah zamaane ko dikhaao
+  Faryaad chahiti ki hai imdaad ko aao
+  Gauhar na chhine aa ke bhatiji ko bachaao
+  Daaman se Sakina ke haiṅ lipte hue shole
 
   2
   Tum aao to phir zulm ki taaqat na rahegi
-  Tum aao to zainab ki rida chin na sakegi
-  Tum aao to beemar ki masnad na jalegi
-  Tum aao to beemar pa barsenge na kode
+  Tum aao to Zainab ki rida chhin na sakegi
+  Tum aao to bimaar ki masnad na jalegi
+  Tum aao to bimaar pe barseṅ ge na kore
 
   3
-  Barchi ki ani par hai abhi tak dil e akbar
-  Aur baap ki aaghosh mein kumhla gaye asghar
-  Shabbir ki gardan pa chala shimr ka khanjar
-  Ab abid e beemar bhi sholon mein ghira hai
+  Barchhi ki ani par hai abhi tak dil-e-Akbar
+  Aur baap ki aaghosh mein kumhla gaye Asghar
+  Shabbir ki gardan pe chala Shimr ka khanjar
+  Ab Aabid-e-bimaar bhi sholoṅ mein ghira hai
 
   4
-  Jalti hui reti pa pade hai tan e besar
-  Ye aun o mohamed hai wo qasim hai wo akbar
-  Phir ek naye zulm pa tayyar hai lashkar
-  Paamali e shabbir ke hote hai iraade
+  Jalti hui reti pe pare haiṅ tan-e-besar
+  Ye Aun o Muhammad hai wo Qaasim hai wo Akbar
+  Phir ek naye zulm pe tayyaar hai lashkar
+  Paamaali-e-Shabbir ke hote haiṅ iraade
 
   5
-  Ab aale mohamed pa qayamat ki ghadi hai
-  Kya waaris e tatheer pa uftaad padi hai
-  Ye dukhtare zehra hai jo balwe mein khadi hai
-  Beemar sambhalta nahi kode hai baraste
+  Ab Aal-e-Muhammad pe qayaamat ki ghari hai
+  Kya waaris-e-tathir pe uftaad pari hai
+  Ye Dukhtar-e-Zehra hai jo balwe mein khari hai
+  Bimaar sambhalta nahiṅ kore haiṅ baraste
 # source_id: nohayonline:37d6c7b56d326e328701
 # source_url: https://www.nohayonline.com/details_content.php?id=2969
 # raw_sha256: 375cd0b399ecaeb1b19ccb715d987c4bdb56ba25e8a6da4211f57e4d58b3da3d
@@ -69,14 +70,14 @@ romanLyrics: |-
 
 ۳
 برچھی کی انی پر ہے ابھی تک دل اکبر
-اور باپ کی آغوش میں کمبلا گےء اصغر
+اور باپ کی آغوش میں کمھلا گئے اصغر
 شبیر کی گردن پہ چلا شمر کا خنجر
 اب عابد بیمار بھی شعلوں میں گھرا ہے
 
 ۴
 جلتی ہوئی ریتی پہ پڑے ہیں تن بے سر
 یہ عون و محمد ہے وہ قاسم ہے وہ اکبر
-پھر ایک نےء ظلم پہ تیار ہے لشکر
+پھر ایک نئے ظلم پہ تیار ہے لشکر
 پامالیء شبیر کے ہوتے ہیں ارادے
 
 ۵
