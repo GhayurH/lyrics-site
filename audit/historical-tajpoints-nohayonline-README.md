@@ -66,3 +66,11 @@ Latest uploaded `review-decisions.csv`: 1,387 unique NohaWriteups sources; 450 c
 ## Additional manually compared duplicates
 
 Compared original archived HTML wordings for pairs `0c682c979a278cde270b`/`911cc2d083a76a5c2549` (six matching stanzas), `e3798be5d05969236a50`/`57de9f07642a7f0cab92` (six-stanza fuller source versus four-stanza shorter source), and `0f12489f72a6f0edff23`/`6b12adf581732b13adf1` (four Panjabi stanzas with orthographic variants). One unpublished MD per poem; source IDs and archive checksums linked. The fuller Aajao source retains the two closing stanzas absent in the shortened capture. Updated sole status tracker; canonical transliteration remains pending.
+
+## Recovered source exceptions
+
+- `nohawriteups:eb6d046a16e2f33a14e3`: all six originally lost Roman Panjabi stanzas staged in one unpublished MD.
+- `nohawriteups:3327dcfb0d905cc4b342`: the prose English translations previously mislabeled Roman have been **excluded**; the new Roman track transliterates the Urdu verses rather than translating them, with both editions in the same unpublished file.
+- `nohawriteups:7629074f8c13f4d2aad6`: source preserves Urdu and Panjabi versions in the original script. Both retained in a single unpublished source MD, separated by an explicit section divider until the site can represent the Panjabi text as its own edition. Not yet Roman-aligned.
+
+These are source recoveries, not finished editorial approval. All outcomes are recorded exclusively in `audit/nohawriteups-review-status.csv`.
