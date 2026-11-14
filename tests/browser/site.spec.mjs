@@ -56,7 +56,7 @@ test("Search exposes primary and secondary filters accessibly @smoke", async ({ 
   await expect(page.locator(".search-primary-filters [data-search-facet]")).toHaveCount(4);
   const advanced = page.locator(".search-more-filters");
   await expect(advanced).not.toHaveAttribute("open", "");
-  await advanced.locator("summary").click();
+  await advanced.locator(":scope > summary").click();
   await expect(page.locator(".search-secondary-filters")).toBeVisible();
 });
 test("Search, Saved, and Basta provide usable no-JavaScript fallbacks", async ({ browser }) => {
