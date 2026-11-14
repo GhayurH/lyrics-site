@@ -1,92 +1,93 @@
 ---
-title: "جب طوق و سلاسل میں مسلسل ہوے عابد"
-alternateTitle: "Ujda Hua Khaafila"
+title: "جب طوق و سلاسل میں مسلسل ہوئے عابد"
+alternateTitle: "Ujra Hua Qaafila"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Dayam Najafi"
+reciter: "Ali Yazdan"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ujda Hua Khaafila"]
 published: false
 romanLyrics: |-
-  Jab tauq o salasil mein musalsal huwe abid
-  Aada to chade ghode pe paidal huwe abid
-  Phupiyan sar e naaqa nazar aati hai khule sar
+  Jab tauq o salaasil mein musalsal hue Aabid
+  Aada to charhe ghore pe paidal hue Aabid
+  Phuphiyaaṅ sar-e-naaqa nazar aati hai khule sar
   Aur saamne sar baap ka naize pe alam tha
 
   1
-  Ujda hua khaafila le chale zainul leba
-  Alwida shaah e zaman waqt e ruqsat aagaya
-  Bibiyan hai nange sar har taraf hai wavaila
-  Ujda hua khaafila le chale zainul leba
+  Ujra hua qaafila le chale Zainul Leba
+  Alwida Shaah-e-zaman waqt-e-rukhsat aa gaya
+  Bibiyaaṅ hai nange sar har taraf hai waawaila
+  Ujra hua qaafila le chale Zainul Leba
 
   2
-  Haye abbas e jari haye akbar na rahe
-  Koi bhi monis nahi aaj abid kya kare
-  Har taraf hai bebasi khatm lashkar hogaya
+  Haae Abbas-e-jari haae Akbar na rahe
+  Koi bhi munis nahiṅ aaj Aabid kya kare
+  Har taraf hai bebasi khatm lashkar ho gaya
 
   3
-  Aagayi bewon ki shaam jal chuke qaime tamaam
-  Shimr ki ha ghurkiyan binte shahe tishna kaam
-  Kya kare binte nabi zulm hai hadh se siwa
+  Aa gai bewaoṅ ki shaam jal chuke khaime tamaam
+  Shimr ki haaṅ ghurkiyaaṅ bint-e-Shah-e-tishna kaam
+  Kya kare bint-e-Nabi zulm hai had se siwa
 
   4
-  Odh ke kunbe ka gham sote hai shaahe umam
-  Jalti hui rayt par baithe hai ahle haram
-  Aise kathin waqt mein sajda e shukr e khuda
+  Orh ke kunbe ka gham sote haiṅ Shaah-e-umam
+  Jalti hui ret par baithe haiṅ ahl-e-haram
+  Aise kathin waqt mein sajda-e-shukr-e-Khuda
 
   5
-  Kya kare tashna jigar chin gaye uske gohar
-  Zakhmi hui hai lavein khoon se kurta hai tar
-  Shaah ki ghamkhwar ka haal hai sab se bura
+  Kya kare tishna jigar chhin gae us ke gauhar
+  Zakhmi hui hai laveṅ khun se kurta hai tar
+  Shaah ki gham khwaar ka haal hai sab se bura
 
   6
-  Kuch nahi bachon mein taab jaise maahi e be-aab
-  Dhoop mein kumla gaye baaghe nabi ke gulaab
-  Lut gaya baaghe nabi haye ghazab hogaya
+  Kuchh nahiṅ bachchoṅ mein taab jaise maahi-e-beaab
+  Dhup mein kumla gae baagh-e-Nabi ke gulaab
+  Lut gaya baagh-e-Nabi haae ghazab ho gaya
 
   7
-  Kya milay dukhiyon ko chain ab nahi baakhi hussain
-  Hai qayamat ka samaa chaar soo hai shor o shain
-  Roti hai sar khol ke dasht mein khairunnisa
+  Kya mile dukhiyoṅ ko chain ab nahiṅ baaqi Husain
+  Hai qayaamat ka samaaṅ chaar suṅ hai shor o shain
+  Roti hai sar khol ke dasht mein Khairun Nisa
 
   8
-  Haath mein hai hathkadi paaon mein hai bediyan
-  Halq mein tauq e garan pusht pe hai sayliyan
-  Kis tarha se le chale natawan ye khaafila
+  Haath mein hai hathkari paaoṅ mein hai beriyaaṅ
+  Halq mein tauq-e-garaaṅ pusht pe hai sailiyaaṅ
+  Kis tarah se le chale naatawaaṅ ye qaafila
 
   9
-  Bekas o nachaar ko shaah ke ghamkhwar ko
-  Maari gayi sayliyan abid e bemaar ko
-  Laaghar o nachaar pe rehm na khaaya gaya
+  Bekas o naachaar ko Shaah ke gham khwaar ko
+  Maari gai sailiyaaṅ Aabid-e-bimaar ko
+  Laaghar o naachaar pe rahm na khaaya gaya
 
   10
-  Saarbana e haram baad e shahe karbala
-  Dayam o yazdan ajab haal abid ka hua
-  Le chale hai khaafila wo bhi hai ujda hua
+  Saarbaana-e-haram baad-e-Shah-e-Karbala
+  Daaim o Yazdan ajab haal Aabid ka hua
+  Le chale haiṅ qaafila wo bhi hai ujra hua
 # source_id: nohayonline:ebb8f39540be352b913e
 # source_url: https://www.nohayonline.com/details_content.php?id=2509
 # raw_sha256: 950fec03d01cdaa231cb90ff0442e9acfdcf1bc474baeb46dff2c68f3e75b607
 ---
-جب طوق و سلاسل میں مسلسل ہوے عابد
-اعدا تو چڑھے گھوڑے پہ پیدل ہوے عابد
+جب طوق و سلاسل میں مسلسل ہوئے عابد
+اعدا تو چڑھے گھوڑے پہ پیدل ہوئے عابد
 پھوپھیاں سر ناقہ نظر آتی ہے کھلے سر
 اور سامنے سر باپ کا نیزے پہ علم تھا
 
 ۱
 اجڑا ہوا قافلہ لے چلے زین العباء
 الوداع شاہ زمن وقتِ رخصت آ گیا
-بی بیاں ہے ننگے سر ہر طرف ہے واویلا
+بی‌بیاں ہے ننگے سر ہر طرف ہے واویلا
 اجڑا ہوا قافلہ لے چلے زین العباء
 
 ۲
-ہاے عباس جری ہاے اکبر نہ رہے
+ہائے عباس جری ہائے اکبر نہ رہے
 کوئی بھی مونس نہیں آج عابد کیا کرے
 ہر طرف ہے بی بسی ختم لشکر ہو گیا
 
 ۳
-آ گیء بیوؤں کی شام جل چکے خیمے تمام
+آ گئی بیواؤں کی شام جل چکے خیمے تمام
 شمر کی ہاں گھرکیاں بنت شہ تشنہ کام
 کیا کرے بنت نبی ظلم ہے حد سے سوا
 
@@ -96,14 +97,14 @@ romanLyrics: |-
 ایسے کٹھن وقت میں سجدۂ شکر خدا
 
 ۵
-کیا کرے تشنہ جگر چھن گےء اس کے گوہر
-زخمی ہوی ہیں لبیں خون سے کرتہ ہے تر
+کیا کرے تشنہ جگر چھن گئے اس کے گوہر
+زخمی ہوئی ہیں لبیں خون سے کرتہ ہے تر
 شاہ کی غم خوار کا حال ہے سب سے برا
 
 ۶
-کچھ نہیں بچوں میں تاب جیسے ماہیء بے آب
-دھوپ میں کمبلا گےء باغ نبی کے گلاب
-لٹ گیا باغ نبی ہاے غضب ہو گیا
+کچھ نہیں بچوں میں تاب جیسے ماہیِ بے آب
+دھوپ میں کملا گئے باغ نبی کے گلاب
+لٹ گیا باغ نبی ہائے غضب ہو گیا
 
 ۷
 کیا ملے دکھیوں کو چین اب نہیں باقی حسین
@@ -117,7 +118,7 @@ romanLyrics: |-
 
 ۹
 بیکس و ناچار کو شاہ کے غم خوار کو
-ماری گیء سیلیاں عابد بیمار کو
+ماری گئی سیلیاں عابد بیمار کو
 لاغر و ناچار پہ رحم نہ کھایا گیا
 
 ۱۰

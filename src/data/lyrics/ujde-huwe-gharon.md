@@ -1,47 +1,48 @@
 ---
 title: "اجڑے ہوئے گھروں سے آواز آ رہی ہے"
-alternateTitle: "Ujde Huwe Gharon"
+alternateTitle: "Ujre Hue Gharoṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ujde Huwe Gharon"]
 published: false
 romanLyrics: |-
-  Ujde huwe gharon se awaaz aa rahi hai
-  Ab laut aa musafir zehra bula rahi hai
+  Ujre hue gharoṅ se aawaaz aa rahi hai
+  Ab laut aa musaafir Zehra bula rahi hai
 
   1
-  Ek saal yun guzaara takti rahi mai raahein
-  Bas dhoondti hai bhaiya tumko meri nigahein
-  Ab laut aao akbar sughra bula rahi hai
+  Ek saal yuṅ guzaara takti rahi main raaheṅ
+  Bas dhundti hai bhaiya tum ko meri nigaaheṅ
+  Ab laut aao Akbar Sughra bula rahi hai
 
   2
-  Mehendi lagaungi mai sehra sajaungi mai
-  Armaan hai ye maa ka dulhan bhi laaungi mai
-  Ab laut aao qasim farwa bula rahi hai
+  Mehndi lagaauṅ gi main sehra sajaauṅ gi main
+  Armaan hai ye maaṅ ka dulhan bhi laauṅ gi main
+  Ab laut aao Qaasim Farwa bula rahi hai
 
   3
-  Ay aun or mohamed tum jin mein khelte thay
-  Sooni hai ab wo galiyan veeran hai wo hujre
-  Ab laut aao pyaron dukhiya bula rahi hai
+  Ae Aun aur Muhammad tum jin mein khelte the
+  Suni hai ab wo galiyaaṅ wiraan hai wo hujre
+  Ab laut aao pyaaroṅ dukhiya bula rahi hai
 
   4
-  Maa dhoop mein rahegi faryad bhi karegi
-  Jab tak na aaoge tum pani nahi piyegi
-  Ab laut aao asghar mamta bula rahi hai
+  Maaṅ dhup mein rahe gi faryaad bhi kare gi
+  Jab tak na aao ge tum paani nahiṅ piye gi
+  Ab laut aao Asghar mamta bula rahi hai
 
   5
-  Ummul baneen ro kar ye kar rahi hai nauha
-  Tum dashte karbala mein kulsoom par thay fidya
-  Ab laut aao ghazi behna bula rahi hai
+  Ummul Banin ro kar ye kar rahi hai noha
+  Tum dasht-e-Karbala mein Kulsum par the fidya
+  Ab laut aao Ghaazi behna bula rahi hai
 
   6
-  Bas waarise ali se farhan aur mazhar
-  Karte hai dil ki baatein farshe aza bicha kar
-  Ab laut aao maula dunya bula rahi hai
+  Bas waaris-e-Ali se Farhan aur Mazhar
+  Karte haiṅ dil ki baateṅ farsh-e-aza bichha kar
+  Ab laut aao Maula duniya bula rahi hai
 # source_id: nohayonline:1f39f24b3c753c20497f
 # source_url: https://www.nohayonline.com/details_content.php?id=3017
 # raw_sha256: bf193faabad81aa32e68b18f8958ef81ba5d37df61afcbe971f3c757cc965715
@@ -55,18 +56,18 @@ romanLyrics: |-
 اب لوٹ آؤ اکبر صغرا بلا رہی ہے
 
 ۲
-مہندی لگاؤں گی میں صحرا سجاؤں گی میں
+مہندی لگاؤں گی میں سہرا سجاؤں گی میں
 ارمان ہے یہ ماں کا دلہن بھی لاؤں گی میں
 اب لوٹ آؤ قاسم فروہ بلا رہی ہے
 
 ۳
 اے عون اور محمد تم جن میں کھیلتے تھے
-سونی ہے اب وہ گلیاں ویران ہے وہ ہجرے
+سونی ہے اب وہ گلیاں ویران ہے وہ حجرے
 اب لوٹ آؤ پیاروں دکھیا بلا رہی ہے
 
 ۴
 ماں دھوپ میں رہے گی فریاد بھی کرے گی
-جب تک نہ آؤ گے تم پانی نہیں پیےء گی
+جب تک نہ آؤ گے تم پانی نہیں پیے گی
 اب لوٹ آؤ اصغر ممتا بلا رہی ہے
 
 ۵
