@@ -1,114 +1,123 @@
 ---
 title: "یا علی مولا حیدر مولا"
-alternateTitle: "Shaahe Mardan"
+alternateTitle: "Shaah-e-Mardaaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
+reciter: "Shadman Raza"
 tags: ["noImage"]
-aliases: []
+aliases: ["Shaahe Mardan"]
 published: false
 romanLyrics: |-
-  Ya ali maula hyder maula
-  Shaahe mardan shere yazdan quwwat e parwardigaar
-  La fatah illa ali la saif illa zulfiqar
-  Kis tarha chalti thi ran may taygh e shere kirdigaar
-  Ashqiyan may har taraf se al amaan ki thi pukar
-  Kar chuka jab zer marhab ko shahe dul dul sawaar
-  Aa rahi thi ye sada dewaar o dar se baar baar
+  Ya Ali Maula Haidar Maula
+
+  Shaah-e-mardaaṅ sher-e-Yazdaaṅ quwwat-e-Parwardigaar
+  La fata illa Ali la saif illa Zulfiqaar
 
   1
-  Jis tarha koi khuda e paak se bartar nahi
-  Jis tarha koi rasool allah ka humsar nahi
-  Ek hai dunya may hyder doosra hyder nahi
-  Misle hyder ye kisi ki taygh may jauhar nahi
-  Ek taraf saari ibadat ek taraf hyer ka waar
+  Kis tarah chalti thi ran meiṅ tegh-e-sher-e-Kirdigaar
+  Ashqiya meiṅ har taraf se al-amaan ki thi pukaar
+  Kar chuka jab zer Marhab ko shah-e-Duldul sawaar
+  Aa rahi thi ye sada diwaar o dar se baar baar
+  Shaah-e-mardaaṅ sher-e-Yazdaaṅ quwwat-e-Parwardigaar
 
   2
-  Yaad kar lo door kyun jaate ho kal ki baat hai
-  Jang ke maidan may kaam aaya wo kiski zaat hai
-  Mehwe hairat muttasil lashkar se kayenaat hai
-  Fatho nusrat aaj bhi naam e ali ke saath hai
-  Goonjta hai hyderi naaron se dashte kaar zaar
+  Jis tarah koi Khuda-e-paak se bartar nahiṅ
+  Jis tarah koi Rasul Allah ka hamsar nahiṅ
+  Ek hai duniya meiṅ Haidar dusra Haidar nahiṅ
+  Misl-e-Haidar ye kisi ki tegh meiṅ jauhar nahiṅ
+  Is taraf saari ibaadat ek taraf Haidar ka waar
 
   3
-  Kaam aaya phir wohi jab sakht aaya imtehan
-  Naam se jiske larazte hai zameen o aasman
-  Laakh jalta ho ali ke kaarnaamo se jahan
-  Sab se afzal aaj hai dunya may hyder ka nishan
-  Aaj bhi sajti hai seeno par yehi ek yaadgaar
+  Yaad kar lo dur kiuṅ jaate ho kal ki baat hai
+  Jang ke maidaaṅ meiṅ kaam aaya wo kis ki zaat hai
+  Mahw-e-hairat muttasil lashkar se kaainaat hai
+  Fath o nusrat aaj bhi naam-e-Ali ke saath hai
+  Guṅjta hai Haidari naaroṅ se dasht-e-kaarzaar
 
   4
-  Juz ali tha kaun haq ke waste seena sipar
-  Kaun uth'ta tha rasool allah ki awaaz par
-  Kis ne qurban kar diya raahe khuda may apna ghar
-  Is haqeeqat se bhala hum kis tarha phere nazar
-  Hai isi aawaaz par takbeer ka daar o madaar
+  Kaam aaya phir wohi jab sakht aaya imtihaaṅ
+  Naam se jis ke larazte haiṅ zamin o aasmaaṅ
+  Laakh jalta huṅ Ali ke kaarnaamoṅ se jahaaṅ
+  Sab se afzal aaj hai duniya meiṅ Haidar ka nishaaṅ
+  Aaj bhi sajti hai sinoṅ par yehi ek yaadgaar
 
   5
-  Kehte the aun o mohamed maadar e ghamkhwar se
-  Is tarha jang may ladenge lashkar e kuffaar se
-  Sab hame tashbeeh denge jaafar e tayyar se
-  Bach ke jaa payega koi kya hamare waar se
-  Khaynch denge taygh se hum badr ke naksh o nigaar
+  Juz Ali tha kaun haq ke waaste sina sipar
+  Kaun uthta tha Rasul Allah ki aawaaz par
+  Kis ne qurbaaṅ kar diya raah-e-Khuda meiṅ apna ghar
+  Is haqiqat se bhala ham kis tarah phere nazar
+  Hai isi aawaaz par takbir ka daar o madaar
 
   6
-  Kya koi rokega hum ko matam e shabbir se
-  Baandh de koi hame gar aahni zanjeer se
-  Muttasil ho jaaye gardan bhi agar shamsheer se
-  Kyun na ho mehshar aqeedat shaah e khyber geer se
-  Ya ali keh denge tab ruk jayegi khanjar ki dhaar
+  Kehte the Aun o Muhammad maadar-e-ghamkhwaar se
+  Is tarah jang meiṅ lareṅge lashkar-e-kuffaar se
+  Sab hameiṅ tashbih deṅge Jaafar-e-Tayyaar se
+  Bach ke jaa paaega koi kya hamaare waar se
+  Kheiṅch deṅge tegh se ham Badr ke naqsh o nigaar
+
+  7
+  Kya koi rokega ham ko maatam-e-Shabbir se
+  Baandh de koi hameiṅ gar aahani zanjir se
+  Muttasil ho jaae gardan bhi agar shamshir se
+  Kiuṅ na ho Mehshar aqidat shaah-e-Khaibar-gir se
+  Ya Ali keh deṅge tab ruk jaaegi khanjar ki dhaar
 # source_id: nohayonline:75055e4499a1b3a18a23
 # source_url: https://www.nohayonline.com/details_content.php?id=2635
 # raw_sha256: 2492347ecadbb0eced5e8a9968eeb33c2ddef3f99c9a28661c505f937e55a92e
 ---
 یا علی مولا حیدر مولا
+
 شاہ مرداں شیر یزداں قوت پروردگار
-لافتی الا علی لا سیف علی ذوالفقار
+لا فتیٰ الا علی لا سیف الا ذوالفقار
+
+۱
 کس طرح چلتی تھی رن میں تیغ شیر کردگار
 اشقیاء میں ہر طرف سے الامان کی تھی پکار
 کر چکا جب زیر مرحب کو شہ دلدل سوار
 آ رہی تھی یہ صدا دیوار و دَر سے بار بار
+شاہ مرداں شیر یزداں قوت پروردگار
 
-۱
-جس طرح کوئی خداے پاک سے بر تر نہیں
-جس طرح کوئی رسول اللّہ کا ہمسر نہیں
+۲
+جس طرح کوئی خدائے پاک سے برتر نہیں
+جس طرح کوئی رسول اللہ کا ہمسر نہیں
 ایک ہے دنیا میں حیدر دوسرا حیدر نہیں
 مثل حیدر یہ کسی کی تیغ میں جوہر نہیں
 اس طرف ساری عبادت ایک طرف حیدر کا وار
 
-۲
+۳
 یاد کر لو دور کیوں جاتے ہو کل کی بات ہے
 جنگ کے میداں میں کام آیا وہ کس کی ذات ہے
-محوِ حیرت متصل لشکر سے کاینات ہے
+محوِ حیرت متصل لشکر سے کائنات ہے
 فتح و نصرت آج بھی نام علی کے ساتھ ہے
-گونجتا ہے حیدری نعروں سے دشتِ کار زار
+گونجتا ہے حیدری نعروں سے دشتِ کارزار
 
-۳
+۴
 کام آیا پھر وہی جب سخت آیا امتحاں
 نام سے جس کے لرزتے ہیں زمین و آسماں
-لاکھ جلتا ہوں علی‌ کے کارناموں سے جہاں
+لاکھ جلتا ہوں علی کے کارناموں سے جہاں
 سب سے افضل آج ہے دنیا میں حیدر کا نشاں
 آج بھی سجتی ہے سینوں پر یہی ایک یادگار
 
-۴
+۵
 جز علی تھا کون حق کے واسطے سینہ سپر
-کون اٹھتا تھا رسول اللّٰہ کی آواز پر
+کون اٹھتا تھا رسول اللہ کی آواز پر
 کس نے قرباں کر دیا راہ خدا میں اپنا گھر
 اس حقیقت سے بھلا ہم کس طرح پھیرے نظر
 ہے اسی آواز پر تکبیر کا دار و مدار
 
-۵
+۶
 کہتے تھے عون و محمد مادر غمخوار سے
 اس طرح جنگ میں لڑیں گے لشکر کفار سے
 سب ہمیں تشبیہ دیں گے جعفر طیار سے
-بچ کے جا پاے گا کوئی کیا ہمارے وار سے
+بچ کے جا پائے گا کوئی کیا ہمارے وار سے
 کھینچ دیں گے تیغ سے ہم بدر کے نقش و نگار
 
-۶
+۷
 کیا کوئی روکے گا ہم کو ماتم شبیر سے
 باندھ دے کوئی ہمیں گر آہنی زنجیر سے
-متصل ہو جاے گردن بھی اگر شمشیر سے
+متصل ہو جائے گردن بھی اگر شمشیر سے
 کیوں نہ ہو محشر عقیدت شاہ خیبر گیر سے
-یا علی کہہ دیں گے تب رک جاے گی خنجر کی دھار
+یا علی کہہ دیں گے تب رک جائے گی خنجر کی دھار
