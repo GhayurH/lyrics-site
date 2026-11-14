@@ -6,61 +6,63 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Waiz Sultanpuri"
+reciter: "Ali Mohd. Sultanpuri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Tha qasim ke laashe pe kubra ka nauha
-  Ay sahab batao mai kya keh ke ro'un
+  Tha Qasim ke laashe pe Kubra ka noha
+  Ae saahab bataao main kya keh ke rouṅ
   Phata jaa raha hai jigar gham se mera
+  Ae saahab bataao main kya keh ke rouṅ
 
   1
-  Meri maang ujdi hai ek pal mein waali
-  Mai aayi hoon laashe pe ban ke sawali
-  Nahi aata rone ka mujhko kareena
+  Meri maaṅg ujri hai ek pal mein waali
+  Main aayi huṅ laashe pe ban ke sawaali
+  Nahiṅ aata rone ka mujh ko qarina
 
   2
-  Rahe dil ke armaan mere dil mein ghut kar
-  Ajab mod pe mujhko laaya muqaddar
+  Rahe dil ke armaaṅ mere dil mein ghut kar
+  Ajab mor pe mujh ko laaya muqaddar
   Bani kal suhagan hui aaj bewa
 
   3
-  Jo guzri mere dil pe kaise bataun
-  Ye rudaad e gham kisko ro kar sunaun
-  Mai ek shab ki byaahi karun kaise naala
+  Jo guzri mere dil pe kaise bataauṅ
+  Ye rudaad-e-gham kis ko ro kar sunaauṅ
+  Main ek shab ki byaahi karuṅ kaise naala
 
   4
-  Hua soona ek pal mein maathe ka teeka
-  Padha meri mehndi ka bhi rang pheeka
-  Bohat aa raha hai muqaddar pe rona
+  Hua suna ek pal mein maathe ka tika
+  Para meri mehndi ka bhi rang phika
+  Bahut aa raha hai muqaddar pe rona
 
   5
-  Koi raasta to dikha jaate sahab
-  Mai baithun kahan kuch bata jaate sahab
-  Na sasural baaqi rahi aur na mayka
+  Koi raasta to dikha jaate saahab
+  Main baithuṅ kahaaṅ kuchh bata jaate saahab
+  Na sasuraal baaqi rahi aur na maika
 
   6
   Khuda aisa din na kisi ko dikhaye
-  Main jaise luti koi loota na jaaye
-  Mere saamne aaya tukdon mein laasha
+  Main jaise luti koi luta na jaaye
+  Mere saamne aaya tukroṅ mein laasha
 
   7
   Muqaddar pe apne mujhe naaz hota
-  Uthaate agar aap mera janaza
-  Ajab mod pe aap ne saath choda
+  Uthaate agar aap mera janaaza
+  Ajab mor pe aap ne saath chhora
 
   8
-  Ay waiz qayamat ka manzar tha us dam
-  Kiya bibi kubra ne jis waqt matam
-  Tadapta tha tukdhon mein qasim ka laasha
+  Ae Waiz qayaamat ka manzar tha us dam
+  Kiya Bibi Kubra ne jis waqt maatam
+  Tarapta tha tukroṅ mein Qasim ka laasha
 
   9
-  Sahab batao mai tumhe rona mein kya kahun
-  Bekas kahun ke fidya e raahe khuda kahun
-  Pyasa kahun shaheed kahun ya bana kahun
-  Dulha kahun ki qasim e gulgun qaba kahun
-  Choda dulhan ko laash pe rone ke waaste
-  Dulha bane thay qabr mein sone ke waaste
+  Saahab bataao main tumheṅ rona mein kya kahuṅ
+  Bekas kahuṅ ke fidya-e-raah-e-Khuda kahuṅ
+  Pyaasa kahuṅ shahid kahuṅ ya bana kahuṅ
+  Dulha kahuṅ ki Qasim-e-gulguṅ qaba kahuṅ
+  Chhora dulhan ko laash pe rone ke waaste
+  Dulha bane the qabr mein sone ke waaste
 # source_id: nohayonline:8f3ab9b6d8ded1e9d339
 # source_url: https://www.nohayonline.com/details_content.php?id=3145
 # raw_sha256: 13ddd29622da33cdcc3e6ff1ee2c8aa4abeb7a31d970bf59becbe8f5c2f3e38b
@@ -68,35 +70,36 @@ romanLyrics: |-
 تھا قاسم کے لاشے پہ کبرا کا نوحہ
 اے صاحب بتاؤ میں کیا کہہ کے روؤں
 پھٹتا جا رہا ہے جگر غم سے میرا
+اے صاحب بتاؤ میں کیا کہہ کے روؤں
 
 ۱
 میری مانگ اجڑی ہے ایک پل میں والی
-میں آی ہوں لاشے پہ بن کے سوالی
+میں آئی ہوں لاشے پہ بن کے سوالی
 نہیں آتا رونے کا مجھکو قرینہ
 
 ۲
 رہے دل کے ارماں میرے دل میں گھٹ کر
 عجب موڑ پہ مجھکو لایا مقدر
-بنی کل سہاگ ہوی آج بیوہ
+بنی کل سہاگن ہوئی آج بیوہ
 
 ۳
 جو گزری میرے دل پہ کیسے بتاؤں
-یہ رواداد غم کس کو رو کر سناؤں
+یہ رودادِ غم کس کو رو کر سناؤں
 میں ایک شب کی بیاہی کروں کیسے نالہ
 
 ۴
 ہوا سونا ایک پل میں ماتھے کا ٹیکا
-پڑھا میری مہندی کا بھی رنگ پھیکا
+پڑا میری مہندی کا بھی رنگ پھیکا
 بہت آ رہا ہے مقدر پہ رونا
 
 ۵
-کوی راستہ تو دکھا جاتے صاحب
+کوئی راستہ تو دکھا جاتے صاحب
 میں بیٹھوں کہاں کچھ بتا جاتے صاحب
 نہ سسرال باقی رہی اور نہ میکا
 
 ۶
-خدا ایسا دن نہ کسی کو دکھاے
-میں سامنے لٹی کوی لوٹا نہ جائے
+خدا ایسا دن نہ کسی کو دکھائے
+میں سامنے لٹی کوئی لوٹا نہ جائے
 میرے سامنے آیا ٹکڑوں میں لاشہ
 
 ۷
@@ -105,8 +108,8 @@ romanLyrics: |-
 عجب موڑ پہ آپ نے ساتھ چھوڑا
 
 ۸
-اے وایض قیامت کا منظر تھا اس دم
-کیا بی بی کبرا نے جس وقت ماتم
+اے واعظ قیامت کا منظر تھا اس دم
+کیا بی‌بی کبرا نے جس وقت ماتم
 تڑپتا تھا ٹکڑوں میں قاسم کا لاشہ
 
 ۹
