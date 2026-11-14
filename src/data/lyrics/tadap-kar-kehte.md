@@ -1,118 +1,141 @@
 ---
-title: "ہاے حسین ہاے حسین"
+title: "ہائے حسین ہائے حسین"
 alternateTitle: "Tadap Kar Kehte"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Asif Bijnori"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye hussain haye hussain
-  Tadap kar kehte thay sarwar
-  Zara kuch dayr ruk ja
-  Ay zaalim kaat lena sar
-  Zara kuch dayr ruk ja
+  Haye Husain haye Husain
+
+  Tarap kar kehte the Sarwar
+  Zara kuch der ruk ja
+
+  Ae zaalim kaat lena sar
+  Zara kuch der ruk ja
 
   1
-  Kayi sou teer hai paywast tan mein
-  Ke ab taaqat nahi mere badan mein
-  Kahan jaunga mai uthkar
+  Kai sau tir haiṅ paiwast tan mein
+  Ke ab taaqat nahiṅ mere badan mein
+  Kahaaṅ jaauṅ ga main uth kar
+  Zara kuch der ruk ja
 
   2
-  Kahin aisa na ho ghabraye zainab
-  Shahadat gaah mein aajaye zainab
-  Khadi hai qaime ke dar par
+  Kahiṅ aisa na ho ghabraaye Zainab
+  Shahaadat gaah mein aa jaaye Zainab
+  Khari hai khaime ke dar par
+  Zara kuch der ruk ja
 
   3
   Behen ko bhai se hoti hai ulfat
-  Ke jaise phool ko khusboo se nisbat
-  Hatale halq se khanjar
+  Ke jaise phul ko khushbu se nisbat
+  Hata le halq se khanjar
+  Zara kuch der ruk ja
 
   4
-  Mai sar dene ko hoon tayyar lekin
-  Jo mumkin ho to phir dhal jaane de din
+  Main sar dene ko huṅ tayyaar lekin
+  Behen mumkin ho to phir dhal jaane de din
   Behen dekhe na ye manzar
+  Zara kuch der ruk ja
 
   5
   Badan dhak de mera meri abaa se
-  Tapakta hai lahoo meri qaba se
-  Mai hoon is waqt khoon se tar
+  Tapakta hai lahu meri qaba se
+  Main huṅ is waqt khun se tar
+  Zara kuch der ruk ja
 
   6
-  Tabaahi pe nazar rakhe huwe hai
-  Meri maa sar pe sar rakhe huwe
-  Rehem kuch dayr kar mujhpar
+  Tabaahi pe nazar rakhe hue hai
+  Meri maaṅ sar pe sar rakhe hue
+  Rehm kuch der kar mujh par
+  Zara kuch der ruk ja
 
   7
-  Mere bhai mere baba ka rona
-  Lipat kar dayr tak nana ka rona
+  Mere bhai mere baaba ka rona
+  Lipat kar der tak naana ka rona
   Asar karne laga dil par
+  Zara kuch der ruk ja
 
   8
-  Mere seene pe sone ko hazeena
-  Nikal aaye na qaime se sakina
-  Sataata hai mujhe ye darr sada
+  Mere sine pe sone ko hazina
+  Nikal aaye na khaime se Sakina
+  Sataata hai mujhe ye darr sadaa
+  Zara kuch der ruk ja
 
   9
-  Bayan aakhir karun asif mai kyun kar
-  Tadap kar kehte thay aamir ye sarwar
-  Dua e khair hai lab par
+  Bayaaṅ aakhir karuṅ Asif main kiuṅ kar
+  Tarap kar kehte the Aamir ye Sarwar
+  Duaa-e-khair hai lab par
+  Zara kuch der ruk ja
 
 # source_id: nohayonline:d8a125c40bc80e70f6f4
 # source_url: https://www.nohayonline.com/details_content.php?id=3658
 # raw_sha256: 3e16d7e410ee6be21d41f3b210e65ff87a9406a6dd61564ebe0b78034f4b42a6
 ---
 
-ہاے حسین ہاے حسین
+ہائے حسین ہائے حسین
+
 تڑپ کر کہتے تھے سرور
-زرا کچھ دیر رک جا
+ذرا کچھ دیر رک جا
+
 اے ظالم کاٹ لینا سر
-زرا کچھ دیر رک جا
+ذرا کچھ دیر رک جا
 
 ۱
-کیء سو تیر ہیں پیوست تن میں
+کئی سو تیر ہیں پیوست تن میں
 کہ اب طاقت نہیں میرے بدن میں
 کہاں جاؤں گا میں اٹھ کر
+ذرا کچھ دیر رک جا
 
 ۲
-کہیں ایسا نہ ہو گھبراے زینب
-شہادت گاہ میں آجائے زینب
+کہیں ایسا نہ ہو گھبرائے زینب
+شہادت گاہ میں آ جائے زینب
 کھڑی ہے خیمے کے در پر
+ذرا کچھ دیر رک جا
 
 ۳
-بہن کو بھای سے ہوتی ہے الفت
+بہن کو بھائی سے ہوتی ہے الفت
 کہ جیسے پھول کو خوشبو سے نسبت
 ہٹا لے حلق سے خنجر
+ذرا کچھ دیر رک جا
 
 ۴
 میں سر دینے کو ہوں تیار لیکن
 بہن ممکن ہو تو پھر ڈھل جانے دے دن
 بہن دیکھے نہ یہ منظر
+ذرا کچھ دیر رک جا
 
 ۵
 بدن ڈھک دے میرا میری عبا سے
 ٹپکتا ہے لہو میری قبا سے
 میں ہوں اس وقت خون سے تر
+ذرا کچھ دیر رک جا
 
 ۶
 تباہی پہ نظر رکھے ہوئے ہے
 میری ماں سر پہ سر رکھے ہوئے
 رحم کچھ دیر کر مجھ پر
+ذرا کچھ دیر رک جا
 
 ۷
 میرے بھائی میرے بابا کا رونا
 لپٹ کر دیر تک نانا کا رونا
 اثر کرنے لگا دل پر
+ذرا کچھ دیر رک جا
 
 ۸
 میرے سینے پہ سونے کو حزینہ
-نقل آے نہ خیمے سے سکینہ
+نکل آئے نہ خیمے سے سکینہ
 ستاتا ہے مجھے یہ ڈر سدا
+ذرا کچھ دیر رک جا
 
 ۹
 بیاں آخر کروں آصف میں کیوں کر
 تڑپ کر کہتے تھے عامر یہ سرور
 دعائے خیر ہے لب پر
+ذرا کچھ دیر رک جا

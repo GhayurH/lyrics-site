@@ -6,69 +6,71 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Mesum Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Paikaan baras rahe hai
-  Taboot par hassan ke
+  Paikaaṅ baras rahe haiṅ
+  Taabut par Hasan ke
   Ummat mita rahi hai
-  Aasaar panjetan ke
-  Haye hassan haye hassan
-  Teeron ne sajaya hai
-  Taboot hassan ka
+  Aasaar-e-Panjatan ke
+  Haye Hasan haye Hasan
+
+  Tiroṅ ne sajaaya hai
+  Taabut Hasan ka
   Ghar laut ke aaya hai
-  Taboot hassan ka
+  Taabut Hasan ka
 
   1
-  Shabbir ye kehte thay
-  Shabbar ke janaze par
-  Kyun khoon mein nahaya hai
+  Shabbir ye kehte the
+  Shabbar ke janaaze par
+  Kiuṅ khuṅ mein nahaaya hai
 
   2
   Ujla tha kafan lekin
-  Bedard layeeno ne
-  Khoon rang banaya hai
+  Bedard lainoṅ ne
+  Khuṅ rang banaaya hai
 
   3
-  Ek dunya mukhalif thi
-  Pooche koi sarwar se
-  Kis tarha uthaya hai
+  Ik duniya mukhaalif thi
+  Puchhe koi Sarwar se
+  Kis tarah uthaaya hai
 
   4
-  Jab teeron ki baarish thi
-  Ay shaahe najaf tum ne
-  Girne se bachaya hai
+  Jab tiroṅ ki baarish thi
+  Ae Shaah-e-Najaf tum ne
+  Girne se bachaaya hai
 
   5
-  Mehsoos ye hota hai
-  Taboot ki chadar se
-  Zainab ne banaya hai
+  Mehsus ye hota hai
+  Taabut ki chaadar se
+  Zainab ne banaaya hai
 
   6
-  Ay binte nabi tumne
-  Khud aa ke baqayya se
-  Aankhon se lagaya hai
+  Ae Bint-e-Nabi tum ne
+  Khud aa ke Baqiyya se
+  Aankhoṅ se lagaaya hai
 
   7
-  Pehlu mein mohamed ke
+  Pehlu mein Muhammad ke
   Rakhne na diya laasha
-  Baahar se dikhaya hai
+  Baahar se dikhaaya hai
 
   8
-  As'haab e nabi koi
-  Pahunche na janaze mein
+  Ashaab-e-Nabi koi
+  Pahunche na janaaze mein
   Jaise ke paraaya hai
 
   9
-  Amma ko salaami jo
-  Deni thi baqayya mein
+  Ammaaṅ ko salaami jo
+  Deni thi Baqiyya mein
   Rukta hua aaya hai
 
   10
-  Rehaan ka meesum ka
-  Ye dil hai azakhana
-  Is dil mein basaya hai
+  Rehaan ka Mesum ka
+  Ye dil hai azaakhaana
+  Is dil mein basaaya hai
 # source_id: nohayonline:b22c12c06771a4fcad6f
 # source_url: https://www.nohayonline.com/details_content.php?id=2536
 # raw_sha256: e2715686766706d7b6e480ae4ddee71386883a1cb4cd7b8cd23f6628ad618ca7
@@ -77,7 +79,8 @@ romanLyrics: |-
 تابوت پر حسن کے
 امت مٹا رہی ہے
 آثار پنجتن کے
-ہاے حسن ہاے حسن
+ہائے حسن ہائے حسن
+
 تیروں نے سجایا ہے
 تابوت حسن کا
 گھر لوٹ کے آیا ہے
@@ -109,7 +112,7 @@ romanLyrics: |-
 زینب نے بنایا ہے
 
 ۶
-اے بنت نبی تم‌ نے
+اے بنت نبی تم نے
 خود آ کے بقیہ سے
 آنکھوں سے لگایا ہے
 
