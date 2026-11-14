@@ -1,140 +1,145 @@
 ---
-title: "اٹھو حسین تم سے بہن ملنے آی ہے"
-alternateTitle: "Utho Hussain Tumse"
+title: "اٹھو حسین تم سے بہن ملنے آئی ہے"
+alternateTitle: "Utho Husain Tum Se"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Fazl Lakhnavi"
+reciter: "Irfan Hussain"
 tags: ["noImage"]
-aliases: []
+aliases: ["Utho Hussain Tumse"]
 published: false
 romanLyrics: |-
-  Utho hussain tumse bahan milne aayi hai
-  Mayyat nahi to qabr galay se lagayi hai
-  Ek bekasi fizaye haqeeqat mein chayi hai
-  Jangal pasand aagaya basti basayi hai
-  Khusboo lahoo ki khaak ke zarro mein paayi hai
-  Phir karbala se qaid mein taqdeer laayi hai
+  Utho Husain tum se bahan milne aayi hai
+  Mayyat nahiṅ to qabr gale se lagaayi hai
+
+  Ek bekasi faza-e-haqiqat mein chhaayi hai
+  Jangal pasand aa gaya basti basaayi hai
+  Khushbu lahu ki khaak ke zarroṅ mein paayi hai
+  Phir Karbala se qaid mein taqdir laayi hai
+  Mayyat nahiṅ to qabr gale se lagaayi hai
 
   1
-  Dooba hua lahoo mein hai maghrib ka aaftab
-  Har zarra karbala ka hai dunya e inquilaab
-  Laila ka chand aur wo zulfon mein paych o taab
-  Seene mein zakhm legaya ujda hua shabab
-  Qaatil ne dil ko dekh ke barchi lagayi hai
+  Duba hua lahu mein hai maghrib ka aaftaab
+  Har zarra Karbala ka hai dunya-e-inqilaab
+  Laila ka chaand aur wo zulfoṅ mein pech o taab
+  Sine mein zakhm le gaya ujra hua shabaab
+  Qaatil ne dil ko dekh ke barchhi lagaayi hai
 
   2
-  Ujdi hui zameen hai to be-noor aasman
-  Kab qatm dekho hota hai zainab ka imtehan
-  Sunte hai khul gayi thi muqaddar se reesma
-  Baazu mein aur galay mein hai ubhre huwe nishan
-  Kya jaane kitni qaid mein takleef uthaayi hai
+  Ujri hui zamiṅ hai to benur aasmaaṅ
+  Kab khatm dekho hota hai Zainab ka imtihaaṅ
+  Sunte haiṅ khul gayi thi muqaddar se resmaaṅ
+  Baazu mein aur gale mein haiṅ ubhre hue nishaaṅ
+  Kya jaane kitni qaid mein taklif uthaayi hai
 
   3
-  Jo dil ko taaza karta hai ban bhi nahi mila
-  Sookhe huwe gulon ko chaman bhi nahi mila
-  Shikwa nahi koi jo watan bhi nahi mila
-  Chadar nahi mili to kafan bhi nahi mila
-  Bete ne aake qaid se turbat banayi hai
+  Jo dil ko taaza karta hai ban bhi nahiṅ mila
+  Sukhe hue guloṅ ko chaman bhi nahiṅ mila
+  Shikwa nahiṅ koi jo watan bhi nahiṅ mila
+  Chaadar nahiṅ mili to kafan bhi nahiṅ mila
+  Bete ne aa ke qaid se turbat banaayi hai
 
   4
-  Mushkil bahot thi raah magar kaam kar gaye
-  Maa dekhti thi godh ke paale kidhar gaye
-  Ek daagh dil mein chod diya aur guzar gaye
-  Jhoola bhi khatm hogaya asghar bhi mar gaye
-  Bache ki qabr maa ne galay se lagayi hai
+  Mushkil bahut thi raah magar kaam kar gaye
+  Maaṅ dekhti thi god ke paale kidhar gaye
+  Ek daagh dil mein chhor diya aur guzar gaye
+  Jhula bhi khatm ho gaya Asghar bhi mar gaye
+  Bachche ki qabr maaṅ ne gale se lagaayi hai
 
   5
-  Jo lab pe aah thi wo dile zaar tak gayi
-  Gham ki umang aansuon ke dhaar tak gayi
-  Balon ko moo se dhaamp ke bazaar tak gayi
-  Kya kar kahoo yazeed ke darbar tak gayi
+  Jo lab pe aah thi wo dil-e-zaar tak gayi
+  Gham ki umang aansuoṅ ke dhaar tak gayi
+  Baaloṅ se muṅh ko dhaaṅp ke baazaar tak gayi
+  Kya kar kahuṅ Yazid ke darbaar tak gayi
   Gardish na jaane kaise muqaddar ne khaayi hai
 
   6
-  Ujde huwe qayam ka baakhi nahi nashaan
-  Hidday tasavvuraat se bhi khogaye makaan
-  Asghar hai ab na pyas se sookhi hui zaban
-  Nanhi lehad ko dhoondti phirti hai ran mein maa
-  Jo bach gaye hai ashk wo turbat pe laayi hai
+  Ujre hue qayaam ka baaqi nahiṅ nishaaṅ
+  Hadd-e-tasawwuraat se bhi kho gaye makaaṅ
+  Asghar hai ab na pyaas se sukhi hui zabaaṅ
+  Nanhi lahad ko dhundti phirti hai ran mein maaṅ
+  Jo bach gaye haiṅ ashk wo turbat pe laayi hai
 
   7
-  Mashkeeza apne saath fidaayi liye huwe
-  Dil mein behan ki yaad ko bhai liye huwe
-  Khabze mein apne saath khudaai liye huwe
-  Abbas so rahe hai taraayi liye huwe
-  Haibat ali ke sher ki darya pe chaayi hai
+  Mashkiza apne saath fidaayi liye hue
+  Dil mein bahan ki yaad ko bhai liye hue
+  Qabze mein apne saath khudaayi liye hue
+  Abbas so rahe haiṅ taraayi liye hue
+  Haibat Ali ke sher ki darya pe chhaayi hai
 
   8
-  Jis dil ko keh liye wo bahattar ki qabr hai
-  Qasim ki qabr hai kahin asghar ki qabr hai
-  Bhai se paainti dile muztar ki qabr hai
-  Laila se koi kehde ye akbar ki qabr hai
-  Mitti mein kisne chand si surat chupayi hai
+  Jis dil ko dekhiye wo bahattar ki qabr hai
+  Qasim ki qabr hai kahiṅ Asghar ki qabr hai
+  Bhai se paayinti dil-e-muztar ki qabr hai
+  Laila se koi keh de ye Akbar ki qabr hai
+  Mitti mein kis ne chaand si surat chhupaayi hai
 # source_id: nohayonline:72dbc19e5f1fdf67e93d
 # source_url: https://www.nohayonline.com/details_content.php?id=1192
 # raw_sha256: a8a86d5f5dbb2a8b58ac50f678cbb45af210ec55c0788c9c710d65a9dfec5666
 ---
-اٹھو حسین تم سے بہن ملنے آی ہے
-میت نہیں تو قبر گلے سے لگای ہے
-اک بیکسی فضاے حقیقت میں چھای ہے
-جنگل پسند آگیا بستی بسای ہے
-خوشبو لہو کی خاک کے ذروں میں پای ہے
-پھر کربلا سے قید میں تقدیر لای ہے
+اٹھو حسین تم سے بہن ملنے آئی ہے
+میت نہیں تو قبر گلے سے لگائی ہے
+
+اک بیکسی فضائے حقیقت میں چھائی ہے
+جنگل پسند آ گیا بستی بسائی ہے
+خوشبو لہو کی خاک کے ذروں میں پائی ہے
+پھر کربلا سے قید میں تقدیر لائی ہے
+میت نہیں تو قبر گلے سے لگائی ہے
 
 ۱
 ڈوبا ہوا لہو میں ہے مغرب کا آفتاب
-ہر زرہ کربلا کا ہے دنیاے انقلاب
-لیلیٰ کا چاند اور وہ ذلفوں میں پیچ و تاب
+ہر ذرہ کربلا کا ہے دنیائے انقلاب
+لیلیٰ کا چاند اور وہ زلفوں میں پیچ و تاب
 سینے میں زخم لے گیا اجڑا ہوا شباب
-قاتل نے دل کو دیکھ کے برچی لگای ہے
+قاتل نے دل کو دیکھ کے برچھی لگائی ہے
 
 ۲
-اجڑی ہوی زمیں ہے تو بے نور آسماں
+اجڑی ہوئی زمیں ہے تو بے نور آسماں
 کب ختم دیکھو ہوتا ہے زینب کا امتحاں
-سنتے ہیں کھل گئ تھی مقدر سے ریسماں
-بازو میں اور گلے میں ہیں ابھرے ہوے نشاں
+سنتے ہیں کھل گئی تھی مقدر سے ریسماں
+بازو میں اور گلے میں ہیں ابھرے ہوئے نشاں
 کیا جانے کتنی قید میں تکلیف اٹھائی ہے
 
 ۳
 جو دل کو تازہ کرتا ہے بن بھی نہیں ملا
-سوکھے ہوے گلوں کو چمن بھی نہیں ملا
+سوکھے ہوئے گلوں کو چمن بھی نہیں ملا
 شکوہ نہیں کوئی جو وطن بھی نہیں ملا
 چادر نہیں ملی تو کفن بھی نہیں ملا
-بیٹے نے آکے قید سے تربت بنائی ہے
+بیٹے نے آ کے قید سے تربت بنائی ہے
 
 ۴
-مشکل بہت تھی راہ مگر کام کر گےء
-ماں دیکھتی تھی گود کے پالے کدھر گےء
-اک داغ دل میں چھوڑ دیا اور گزر گےء
-جھولا بھی ختم ہوگیا اصغر بھی مر گےء
-بچے کی قبر ماں نے گلے سے لگای ہے
+مشکل بہت تھی راہ مگر کام کر گئے
+ماں دیکھتی تھی گود کے پالے کدھر گئے
+اک داغ دل میں چھوڑ دیا اور گزر گئے
+جھولا بھی ختم ہو گیا اصغر بھی مر گئے
+بچے کی قبر ماں نے گلے سے لگائی ہے
 
 ۵
-جو لب پہ آہ تھی وہ دل زار تک گیء
-غم کی امنگ آنسوؤں کے دھار تک گیء
-بالوں سے منہ کو ڈھانپ کے بازار تک گیء
-کیا کر کہوں یزید کے دربار تک گیء
-گردش نہ جانے کیسے مقدر نے کھای ہے
+جو لب پہ آہ تھی وہ دلِ زار تک گئی
+غم کی امنگ آنسوؤں کے دھار تک گئی
+بالوں سے منہ کو ڈھانپ کے بازار تک گئی
+کیا کر کہوں یزید کے دربار تک گئی
+گردش نہ جانے کیسے مقدر نے کھائی ہے
 
 ۶
-اجڑے ہوے قیام کا باقی نہیں نشاں
-حد تصورات سے بھی کھو گےء مکاں
-اصغر ہے اب نہ پیاس سے سوکھی ہوی زباں
+اجڑے ہوئے قیام کا باقی نہیں نشاں
+حدِ تصورات سے بھی کھو گئے مکاں
+اصغر ہے اب نہ پیاس سے سوکھی ہوئی زباں
 ننھی لحد کو ڈھونڈتی پھرتی ہے رن میں ماں
-جو بچ گےء ہیں آشک وہ تربت پہ لای ہے
+جو بچ گئے ہیں اشک وہ تربت پہ لائی ہے
 
 ۷
-مشکیزہ اپنے ساتھ فدائی لیےء ہوے
-دل میں بہن کی یاد کو بھای لیےء ہوے
-قبضے میں اپنے ساتھ خدای لیےء ہوے
-عباس سو رہے ہیں ترای لیےء ہوے
-حیبت علی کے شیر کی دریا پہ چھائی ہے
+مشکیزہ اپنے ساتھ فدائی لیے ہوئے
+دل میں بہن کی یاد کو بھائی لیے ہوئے
+قبضے میں اپنے ساتھ خدائی لیے ہوئے
+عباس سو رہے ہیں ترائی لیے ہوئے
+ہیبت علی کے شیر کی دریا پہ چھائی ہے
 
 ۸
-جس دل کو دیکھیےء وہ بہتر کی قبر ہے
+جس دل کو دیکھیے وہ بہتر کی قبر ہے
 قاسم کی قبر ہے کہیں اصغر کی قبر ہے
-بھای سے پایینتی دل مضطر کی قبر ہے
+بھائی سے پائینتی دلِ مضطر کی قبر ہے
 لیلیٰ سے کوئی کہہ دے یہ اکبر کی قبر ہے
-مٹی میں کس نے چاند سی صورت چھپای ہے
+مٹی میں کس نے چاند سی صورت چھپائی ہے

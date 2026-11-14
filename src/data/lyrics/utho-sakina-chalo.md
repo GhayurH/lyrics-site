@@ -6,53 +6,63 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Anees"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Lipat ke turbat se boli madar
-  Utho sakina chalo watan ko
-  Are rehayi zindan se paayi dil bar
+  Lipat ke turbat se boli maadar
+  Utho Sakina chalo watan ko
+  Rihaayi zindaaṅ se paayi dilbar
+  Utho Sakina chalo watan ko
 
   1
-  Yeh puchtithi bohot tha arman
-  Reha kab hoge yaha se amma
-  Woh waqt aab agaya mayyassar
+  Ye puchhti thi bahut tha armaaṅ
+  Riha kab hoṅge yahaaṅ se ammaaṅ
+  Wo waqt ab aa gaya mayassar
+  Utho Sakina chalo watan ko
 
   2
-  Yeh neend kesi hai ankhe kholo
-  Pukarti ho mei jab se bolo
-  Khudara khao taras ke maa par
+  Ye nind kaisi hai aankheṅ kholo
+  Pukaarti huṅ main kab se bolo
+  Khudaara khaao taras ye maaṅ par
+  Utho Sakina chalo watan ko
 
   3
-  Tumhare dukh se mariz bhai
-  Jukaye sare se kare duhaai
-  Phuphi bhi dekho hai kitni muztaar
+  Tumhaare dukh se mariz bhai
+  Jhukaaye sar deta hai duhaayi
+  Phuphi bhi dekho hai kitni muztar
+  Utho Sakina chalo watan ko
 
   4
-  Kaha pe hai dard kuch batao
-  Garib maa ko na yu rolao
-  Gale se lag jaao mere muztar
+  Kahaaṅ pe hai dard kuchh bataao
+  Gharib maaṅ ko na yuṅ rulaao
+  Gale se lag jaao mere uth kar
+  Utho Sakina chalo watan ko
 
   5
-  Safar yaha se hai karbala ka
-  Waha pe ammu se karna shikhwa
-  Wahi pe tumko milega asgher
+  Safar yahaaṅ se hai Karbala ka
+  Wahaaṅ pe ammu se karna shikwa
+  Wahiṅ pe tum ko milega Asghar
+  Utho Sakina chalo watan ko
 
   6
-  Hoyi ho jab se khamush beta
-  Na jane phutta hai kyo kaleja
-  Ajib zindan ka hai yeh manzar
+  Hui ho jab se khaamosh beta
+  Na jaane phatta hai kiuṅ kaleja
+  Ajib zindaaṅ ka hai ye manzar
+  Utho Sakina chalo watan ko
 
   7
-  Bagere tere ho kese jaana
-  Baseyenge hum bhi qaid khana
-  May kese jaongi pesh sarwar
+  Baghair tere ho kaise jaana
+  Basaayeṅge ham bhi qaid khaana
+  Main kaise jaauṅgi pesh-e-Sarwar
+  Utho Sakina chalo watan ko
 
   8
-  Anees kese sitam ki halat
-  Na puch barpa thi ek qayamat
-  A baba kehti thi jaa tadap kar
+  Anees qaid-e-sitam ki haalat
+  Na puchh barpa thi ek qayaamat
+  Rabaab kehti thi jab tarap kar
+  Utho Sakina chalo watan ko
 # source_id: nohayonline:8afe2fa16e22a66e3e34
 # source_url: https://www.nohayonline.com/details_content.php?id=428
 # raw_sha256: 35f137c7d2fcee83dbe5fd7da5143d9b73582d762af2742d5d7129c839d0c2bc
@@ -63,43 +73,52 @@ romanLyrics: |-
 لپٹ کے تُربت سے بولی مادر
 اُٹھو سکینہ چلو وطن کو
 رہائی زنداں سے پائی دلبر
+اُٹھو سکینہ چلو وطن کو
 
 ۱
 یہ پوچھتی تھی بہت تھا ارماں
-رہا کب ہونگے یہاں سے اماں
+رہا کب ہوں گے یہاں سے اماں
 وہ وقت اب آگیا میسر
+اُٹھو سکینہ چلو وطن کو
 
 ۲
 یہ نیند کیسی ہے آنکھیں کھولو
 پُکارتی ہوں میں کب سے بولو
-خدارا کھائو ترس یہ ماں پر
+خدارا کھاؤ ترس یہ ماں پر
+اُٹھو سکینہ چلو وطن کو
 
 ۳
 تمہارے دکھ سے مریض بھائی
 جھکائے سر دیتا ہے دُہائی
 پھُوپھی بھی دیکھو ہے کتنی مضطر
+اُٹھو سکینہ چلو وطن کو
 
 ۴
-کہاں پہ ہے درد کچھ بتائو
-گریب ماں کو نہ یوں رُلائو
-گلے سے لگ جائو میرے اُٹھ کر
+کہاں پہ ہے درد کچھ بتاؤ
+غریب ماں کو نہ یوں رُلاؤ
+گلے سے لگ جاؤ میرے اُٹھ کر
+اُٹھو سکینہ چلو وطن کو
 
 ۵
 سفر یہاں سے ہے کربلا کا
 وہاں پہ عموں سے کرنا شکوہ
-وہیں پہ تمکو ملے گا اصغر
+وہیں پہ تم کو ملے گا اصغر
+اُٹھو سکینہ چلو وطن کو
 
 ۶
 ہوئی ہو جب سے خاموش بیٹا
 نہ جانے پھٹتا ہے کیوں کلیجہ
 عجیب زنداں کا ہے یہ منظر
+اُٹھو سکینہ چلو وطن کو
 
 ۷
 بغیر تیرے ہو کیسے جانا
 بسائیں گے ہم بھی قید خانہ
-میں کیسے جائوں گی پیشِ سرور
+میں کیسے جاؤں گی پیشِ سرور
+اُٹھو سکینہ چلو وطن کو
 
 ۸
 انیس قیدِ ستم کی حالت
 نہ پُوچھ برپا تھی اک قیامت
 رباب کہتی تھی جب تڑپ کر
+اُٹھو سکینہ چلو وطن کو
