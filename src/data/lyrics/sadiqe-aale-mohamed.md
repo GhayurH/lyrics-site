@@ -1,57 +1,58 @@
 ---
 title: "صادق آل محمّد پر ستم کیسا ہوا"
-alternateTitle: "Sadiqe Aale Mohamed"
+alternateTitle: "Saadiq-e-Aal-e-Muhammad"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Hamid Jafri"
+reciter: "Ashfaq Marchant"
 tags: ["noImage"]
-aliases: []
+aliases: ["Sadiqe Aale Mohamed"]
 published: false
 romanLyrics: |-
-  Sadiq e aale muhammad par sitam kaisa hua
-  Ye zameen bhi ro padi ye aasman bhi ro pada
+  Saadiq-e-Aal-e-Muhammad par sitam kaisa hua
+  Ye zamiṅ bhi ro pari ye aasmaaṅ bhi ro para
 
   1
-  Pee ke pyala zehr ka noor e khuda bechain hai
-  Fatema bechain roohe murtuza bechain hai
-  Kayenat e mustafa mein ek andhera cha gaya
+  Pi ke pyaala zehr ka nur-e-Khuda bechain hai
+  Fatema bechain ruh-e-Murtaza bechain hai
+  Kaainaat-e-Mustafa mein ik andhera chha gaya
 
   2
-  Hogaye hai aaj haye musa e kazim yateem
-  Ambiya hai girya kun rote hai musa e kaleem
-  Tukde tukde ho gaya dil bolte quran ka
+  Ho gaye hai aaj haaye Musa Kaazim yatim
+  Ambiya hai girya kunaaṅ rote haiṅ Musa-e-Kaleem
+  Tukre tukre ho gaya dil bolte Quraan ka
 
   3
-  Zehr mansoor e dawaniqi ne wo qaatil diya
-  Haye lamhon mein hi maula ka kaleja kat gaya
-  Khaana e kaaba mein aaya zalzalon par zalzala
+  Zehr Mansur Dawaaniqi ne wo qaatil diya
+  Haaye lamhoṅ mein hi Maula ka kaleja kat gaya
+  Khaana-e-Kaaba mein aaya zalzaloṅ par zalzala
 
   4
-  Khushbuon par yun hawaye zulm o aafat dhaaye hai
-  Fatema ke baagh ka har phool masla jaaye hai
-  Gulshan e ismat pe hai zulm o sitam ki inteha
+  Khushbuoṅ par yuṅ hawa-e-zulm o aafat dhaaye haiṅ
+  Fatema ke baagh ka har phul masla jaaye hai
+  Gulshan-e-ismat pe hai zulm o sitam ki inteha
 
   5
-  Madrasa aal e mohammad ka hua veeran aaj
-  Baab e shehr e ilm ka khoon ho gaya armaan aaj
-  Haye shehr e ilm bhi gham se lahoo rone laga
+  Madrasa Aal-e-Muhammad ka hua viraan aaj
+  Baab-e-shahr-e-ilm ka khuṅ ho gaya armaan aaj
+  Haaye shahr-e-ilm bhi gham se lahu rone laga
 
   6
-  Ilm o hikmat qaid hone ko hai ab zindan mein
-  Kaise de khutbe ujaale ab khuda ki shaan mein
-  Noor ka suraj chupa tareek har manzar hua
+  Ilm o hikmat qaid hone ko hai ab zindaan mein
+  Kaise de khutbe ujaale ab Khuda ki shaan mein
+  Nur ka suraj chhupa taarik har manzar hua
 
   7
-  Kaun dunya ko sikhayega zamane ke fuloon
-  Kaun bakshega uloom e deen se dil ko sukoon
-  Bolta quran haye zehr pee kar chal basa
+  Kaun duniya ko sikhaayega zamaane ke fuloṅ
+  Kaun bakhshega ulum-e-din se dil ko sukuṅ
+  Bolta Quraan haaye zehr pi kar chal basa
 
   8
-  Shamme fiqh e jafar e sadiq pe haamid hai sitam
-  Har kiran zakhmi hai rote hai mohamed dam ba dam
-  Kalma goyon ne dukhaya dil rasool allah ka
+  Shama-e-fiqh-e-Jaafar Saadiq pe Haamid hai sitam
+  Har kiran zakhmi hai rote haiṅ Muhammad dam ba dam
+  Kalma goyoṅ ne dukhaaya dil Rasul Allah ka
 # source_id: nohayonline:fb1b432209fa22bb87dd
 # source_url: https://www.nohayonline.com/details_content.php?id=1466
 # raw_sha256: d0371b5e11b7ab7d8f240595843133fdd6038e83e32f3f215c88dec5162bca6b
@@ -62,27 +63,27 @@ romanLyrics: |-
 ۱
 پی کے پیالہ زہر کا نور خدا بے چین ہے
 فاطمہ بے چین روح مرتضیٰ بے چین ہے
-کاینات مصطفیٰ میں اک اندھیرا چھا گیا
+کائنات مصطفیٰ میں اک اندھیرا چھا گیا
 
 ۲
-ہو گیا ہے آج ہاے موسیٰ کاظم یتیم
-انبیاء ہے گریہ کناں روتے ہیں موساے کلیم
+ہو گیا ہے آج ہائے موسیٰ کاظم یتیم
+انبیاء ہے گریہ کناں روتے ہیں موسیٰٔ کلیم
 ٹکڑے ٹکڑے ہو گیا دل بولتے قرآن کا
 
 ۳
 زہر منصور دوانقی نے وہ قاتل دیا
-ہاے لمحوں میں ہی مولا کا کلیجہ کٹ گیا
+ہائے لمحوں میں ہی مولا کا کلیجہ کٹ گیا
 خانۂ کعبہ میں آیا زلزلوں پر زلزلہ
 
 ۴
-خوشبوؤں پر یوں ہواے ظلم و آفت ڈھاے ہیں
-فاطمہ کے باغ کا ہر پھول مسلا جاے ہے
+خوشبوؤں پر یوں ہوائے ظلم و آفت ڈھائے ہیں
+فاطمہ کے باغ کا ہر پھول مسلا جائے ہے
 گلشنِ عصمت پہ ہے ظلم و ستم کی انتہا
 
 ۵
 مدرسہ آل محمّد کا ہوا ویران آج
 باب شہر علم کا خوں ہو گیا ارمان آج
-ہاے شہر علم بھی غم سے لہو رونے لگا
+ہائے شہر علم بھی غم سے لہو رونے لگا
 
 ۶
 علم و حکمت قید ہونے کو ہے اب زندان میں
@@ -90,11 +91,11 @@ romanLyrics: |-
 نور کا سورج چھپا تاریک ہر منظر ہوا
 
 ۷
-کون دنیا کو سکھاے گا زمانے کے فلوں
+کون دنیا کو سکھائے گا زمانے کے فلوں
 کون بخشے گا علومِ دین سے دل کو سکوں
-بولتا قرآن ہاے زہر پی کر چل بسا
+بولتا قرآن ہائے زہر پی کر چل بسا
 
 ۸
 شمع فقہ جعفر صادق پہ حامد ہے ستم
 ہر کرن زخمی ہے روتے ہیں محمد دم بدم
-کلمہ گویوں نے دکھایا دل رسول اللّٰہ کا
+کلمہ گویوں نے دُکھایا دل رسول اللّٰہ کا

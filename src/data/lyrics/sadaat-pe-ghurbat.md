@@ -6,40 +6,41 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Kaleem Zafar"
+reciter: "Mukhtar Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Sadaat pe ghurbat mein ye shaam bhi aani thi
-  Jaan abid e muztar ki zainab ko bachani thi
+  Jaan Aabid-e-muztar ki Zainab ko bachaani thi
 
   1
-  Dil maadare asghar ka zaalim ko jalana tha
-  Baysheer ke jhoole ko kya aag lagani thi
+  Dil maadar-e-Asghar ka zaalim ko jalaana tha
+  Beshir ke jhule ko kya aag lagaani thi
 
   2
-  Choda na tha zaalim ne asghar ka nishan koi
-  Naize pe sar e asghar bas ek nishani thi
+  Chhora na tha zaalim ne Asghar ka nishaaṅ koi
+  Naize pe sar-e-Asghar bas ek nishaani thi
 
   3
-  Wo jis ki ziyarat bhi mursal ki ziyarat ho
-  Ummat ko sina par wo tasveer sajani thi
+  Wo jis ki ziyaarat bhi Mursal ki ziyaarat ho
+  Ummat ko sinaaṅ par wo tasvir sajaani thi
 
   4
-  Pani nahi maanga phir ek baar yateema ne
-  Aankhon mein sakina ke darya ki rawani thi
+  Paani nahiṅ maanga phir ek baar yatima ne
+  Aankhoṅ mein Sakina ke darya ki rawaani thi
 
   5
-  Zainab se koi pooche kis kis ko pukara tha
-  Daaman se sakina ke jab aag bujhani thi
+  Zainab se koi puchhe kis kis ko pukaara tha
+  Daaman se Sakina ke jab aag bujhaani thi
 
   6
-  Zainab ne kaha baba us waqt na aaye tum
-  Jab laashe jawan ran se bhai ko uthani thi
+  Zainab ne kaha Baba us waqt na aaye tum
+  Jab laash-e-jawaaṅ ran se bhaai ko uthaani thi
 
   7
-  Jaari hai kaleem ab tak zanjeer ki aankhon se
-  Sajjad ke zakhmon ki jo khoon fishani thi
+  Jaari hai Kaleem ab tak zanjir ki aankhoṅ se
+  Sajjad ke zakhmoṅ ki jo khuṅ fishaani thi
 # source_id: nohayonline:c28f0f4ae24bfa68c08a
 # source_url: https://www.nohayonline.com/details_content.php?id=3697
 # raw_sha256: a1192a5d015265424c6a02f8c1f32d8ca167411afe104317fa45952457b6012a
@@ -52,7 +53,7 @@ romanLyrics: |-
 بے شیر کے جھولے کو کیا آگ لگانی تھی
 
 ۲
-چھوڑا نہ تھا ظالم نے اصغر کا نشاں کوی
+چھوڑا نہ تھا ظالم نے اصغر کا نشاں کوئی
 نیزے پہ سر اصغر بس ایک نشانی تھی
 
 ۳
@@ -68,8 +69,8 @@ romanLyrics: |-
 دامن سے سکینہ کے جب آگ بجھانی تھی
 
 ۶
-زینب نے کہا بابا اس وقت نہ آے تم
-جب لاش جواں رن سے بھای کو اٹھانی تھی
+زینب نے کہا بابا اس وقت نہ آئے تم
+جب لاشِ جواں رن سے بھائی کو اٹھانی تھی
 
 ۷
 جاری ہے کلیم اب تک زنجیر کی آنکھوں سے
