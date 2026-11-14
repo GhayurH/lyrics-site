@@ -6,37 +6,40 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hasan Abbas Ahsan"
+reciter: "Anj. Parwane Shabbir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Sakina kehti thi ro kar
-  Mere bhaiya ali asghar
-  Hui hai raat aaja ghar
+  Mere bhaiya Ali Asghar
+
+  Hui hai raat aa jaa ghar
+  Mere bhaiya Ali Asghar
   
   1
-  Wo nanha sa gala cheda
-  Jise teer e sitamgar ne
+  Wo nanha sa gala chheda
+  Jise tir-e-sitamgar ne
   Usi par phir chala khanjar
   
   2
-  Sitamgaaron ne jhula bhi
-  Nahi choda jala daala
-  Pachadein khaati hai maadar
+  Sitamgaaroṅ ne jhula bhi
+  Nahiṅ chhora jalaa daala
+  Pachhaareṅ khaati hai maadar
   
   3
   Machalna pyaas ki shiddat se
-  Tera hichkiyan lena
-  Nighahon mein hai wo manzar
+  Tera hichkiyaaṅ lena
+  Nigaahoṅ mein hai wo manzar
   
   4
   Andheri qabr hai pehlu hai
-  Maa ka aur na jhoola hai
-  Tujhe neend aayegi kyun kar
+  Maaṅ ka aur na jhula hai
+  Tujhe nind aayegi kiuṅ kar
   
   5
-  Bohat samjhaya zainab ne
-  Sakina ko magar ahsan
+  Bahut samjhaaya Zainab ne
+  Sakina ko magar Ahsaaṅ
   Wo roti thi yehi keh kar
 # source_id: nohayonline:b6a2d1f1d3aeabacfbde
 # source_url: https://www.nohayonline.com/details_content.php?id=3353
@@ -44,7 +47,9 @@ romanLyrics: |-
 ---
 سکینہ کہتی تھی رو کر
 میرے بھیا علی اصغر
-ہوی ہے رات آجا گھر
+
+ہوئی ہے رات آ جا گھر
+میرے بھیا علی اصغر
 
 ۱
 وہ ننھا سا گلا چھیدا
@@ -64,7 +69,7 @@ romanLyrics: |-
 ۴
 اندھیری قبر ہے پہلو ہے
 ماں کا اور نہ جھولا ہے
-تجھے نیند آے گی کیوں کر
+تجھے نیند آئے گی کیوں کر
 
 ۵
 بہت سمجھایا زینب نے

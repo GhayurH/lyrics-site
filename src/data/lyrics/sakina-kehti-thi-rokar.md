@@ -1,82 +1,83 @@
 ---
-title: "سکینہ کہتی تھی رو کر کوی یتیم نہ ہو"
+title: "سکینہ کہتی تھی رو کر کوئی یتیم نہ ہو"
 alternateTitle: "Sakina Kehti Thi Rokar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Ali Khan Lakhnavi"
+reciter: "Ghadeer Fatima"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sakina kehti thi ro kar koi yateem na ho
-  Yehi dua hai labon par koi yateem na ho
+  Sakina kehti thi ro kar koi yatim na ho
+  Yehi dua hai laboṅ par koi yatim na ho
 
   1
-  Khata baghair tamache lagaye jaate hai
-  Aseer kar ke khule sar phiraye jaate hai
-  Rahun to kaise yahan par koi yateem na ho
+  Khata baghair tamaanche lagaaye jaate haiṅ
+  Asir kar ke khule sar phiraaye jaate haiṅ
+  Rahuṅ to kaise yahaṅ par koi yatim na ho
 
   2
-  Khabar nahi thi ke yateemon pa kya guzarti hai
-  Jo aarzu hai wo seene mein aah bharti hai
-  Na guzre aisi kisi par koi yateem na ho
+  Khabar nahiṅ thi ke yatimoṅ pe kya guzarti hai
+  Jo aarzu hai wo sine mein aah bharti hai
+  Na guzre aisi kisi par koi yatim na ho
 
   3
-  Bhulaun kaise ke nakhre mere uthaate thay
-  Mai rooth jaati thi baba mujhe manaate thay
-  Ye kehte hai wohi manzar koi yateem na ho
+  Bhulaauṅ kaise ke nakhre mere uthaate the
+  Main ruth jaati thi baba mujhe manaate the
+  Ye kehte haiṅ wohi manzar koi yatim na ho
 
   4
-  Bade sukoon se soti thi raat bhar jis par
-  Wo mere baba ka seena wo phoolon ka bistar
-  Nahi hai aaj meinassar koi yateem na ho
+  Bare sukun se soti thi raat bhar jis par
+  Wo mere baba ka sina wo phuloṅ ka bistar
+  Nahiṅ hai aaj muyassar koi yatim na ho
 
   5
-  Layeen se bachne ka ab koi raasta bhi nahi
-  Hai zakhm gehre meinassar koi dawa bhi nahi
-  Guzar rahi hai tadap kar koi yateem na ho
+  Laiṅ se bachne ka ab koi raasta bhi nahiṅ
+  Haiṅ zakhm gehre muyassar koi dawa bhi nahiṅ
+  Guzar rahi hai tarap kar koi yatim na ho
 
   6
-  Bhala dabaun kahan tak mai apni aahon ko
-  Taras gayi hoo mohabbat bhari nigahon ko
-  Har ek saans hai dubhar koi yateem na ho
+  Bhala dabaauṅ kahaaṅ tak main apni aahoṅ ko
+  Taras gayi huṅ mohabbat bhari nigaahoṅ ko
+  Har ek saans hai dubhar koi yatim na ho
 
   7
-  Ye sochti hoo ke baba ki jab rifaqat thi
-  Aseer karta mujhe kis mein itni himmat thi
-  Na dekhti mai ye manzar koi yateem na ho
+  Ye sochti huṅ ke baba ki jab rifaaqat thi
+  Asir karta mujhe kis mein itni himmat thi
+  Na dekhti main ye manzar koi yatim na ho
 
   8
-  Khiza ne ghayr liya shaah ki bahaaron ko
-  Kuch is tareekhe se cheena hai goshwaron ko
-  Hain kaan khoon se mere tar koi yateem na ho
+  Khizaaṅ ne gher liya Shaah ke bahaaroṅ ko
+  Kuchh is tariqe se chhina hai goshwaaroṅ ko
+  Haiṅ kaan khuṅ se mere tar koi yatim na ho
 
   9
-  Koi nigaah e mohabbat se dekhta hi nahi
-  Hai umr choti koi itna sochta bhi nahi
-  Hai sang dil ye sitamgar koi yateem na ho
+  Koi nigaah-e-mohabbat se dekhta hi nahiṅ
+  Hai umr chhoti koi itna sochta hi nahiṅ
+  Hai sang dil ye sitamgar koi yatim na ho
 
   10
-  Yateem hone ke ek ye bhi saza shayad
-  Mere naseeb mein ab ghar nahi bada shayad
-  Hai jeena marna yahin par koi yateem na ho
+  Yatim hone ke ek ye bhi saza shaayad
+  Mere nasib mein ab ghar nahiṅ bara shaayad
+  Hai jina marna yehi par koi yatim na ho
 
   11
-  Raza ye kehti thi dukhiya bahot hai hum par sitam
+  Raza ye kehti thi dukhiya bahut hai ham par sitam
   Madad ko aaiye baba nikal na jaaye dam
-  Yehi fughan thi labon par koi yateem na ho
+  Yehi fughaaṅ thi laboṅ par koi yatim na ho
 # source_id: nohayonline:015979fe35cdbdc6b8ab
 # source_url: https://www.nohayonline.com/details_content.php?id=2005
 # raw_sha256: e57724dff1c253fb941abd6201a50b1f16c66143c38eda19b84796827caff56b
 ---
-سکینہ کہتی تھی رو کر کوی یتیم نہ ہو
+سکینہ کہتی تھی رو کر کوئی یتیم نہ ہو
 یہی دعا ہے لبوں پر کوئی یتیم نہ ہو
 
 ۱
-خطا بغیر طمانچے لگاے جاتے ہیں
-اسیر کر کے کھلے سر پھراے جاتے ہیں
+خطا بغیر طمانچے لگائے جاتے ہیں
+اسیر کر کے کھلے سر پھرائے جاتے ہیں
 رہوں تو کیسے یہاں پر کوئی یتیم نہ ہو
 
 ۲
@@ -85,14 +86,14 @@ romanLyrics: |-
 نہ گزرے ایسی کسی پر کوئی یتیم نہ ہو
 
 ۳
-بھلاؤں کیسے کہ نکھرے میرے اٹھاتے تھے
+بھلاؤں کیسے کہ نخرے میرے اٹھاتے تھے
 میں روٹھ جاتی تھی بابا مجھے مناتے تھے
 یہ کہتے ہیں وہی منظر کوئی یتیم نہ ہو
 
 ۴
 بڑے سکون سے سوتی تھی رات بھر جس پر
 وہ میرے بابا کا سینہ وہ پھولوں کا بستر
-نہیں ہے آج میسر کوی یتیم نہ ہو
+نہیں ہے آج میسر کوئی یتیم نہ ہو
 
 ۵
 لعیں سے بچنے کا اب کوئی راستہ بھی نہیں
@@ -101,13 +102,13 @@ romanLyrics: |-
 
 ۶
 بھلا دباؤں کہاں تک میں اپنی آہوں کو
-ترس گیء ہوں محبت بھری نگاہوں کو
-ہر ایک سانس ہے دو بھر کوی یتیم نہ ہو
+ترس گئی ہوں محبت بھری نگاہوں کو
+ہر ایک سانس ہے دو بھر کوئی یتیم نہ ہو
 
 ۷
-یہ سونچتی ہوں کہ بابا کی جب رفاقت تھی
+یہ سوچتی ہوں کہ بابا کی جب رفاقت تھی
 اسیر کرتا مجھے کس میں اتنی ہمت تھی
-نہ دیکھتی میں یہ منظر کوی یتیم نہ ہو
+نہ دیکھتی میں یہ منظر کوئی یتیم نہ ہو
 
 ۸
 خزاں نے گھیر لیا شاہ کے بہاروں کو
@@ -116,7 +117,7 @@ romanLyrics: |-
 
 ۹
 کوئی نگاہ محبت سے دیکھتا ہی نہیں
-ہے عمر چھوٹی کوئی اتنا سونچتا ہی نہیں
+ہے عمر چھوٹی کوئی اتنا سوچتا ہی نہیں
 ہے سنگ دل یہ ستمگر کوئی یتیم نہ ہو
 
 ۱۰
@@ -126,5 +127,5 @@ romanLyrics: |-
 
 ۱۱
 رضا یہ کہتی تھی دکھیا بہت ہے ہم پر ستم
-مدد کو آیےء بابا نکل نہ جاے دم
+مدد کو آئیے بابا نکل نہ جائے دم
 یہی فغاں تھی لبوں پر کوئی یتیم نہ ہو
