@@ -6,69 +6,69 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Dayam Najafi"
+reciter: "Ali Yazdan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shaah kehte thay bahot zulm sakina hoga
-  Har taraf shaam e ghariban ka andhera hoga
+  Shaah kehte the bahut zulm Sakina hoga
+  Har taraf shaam-e-gharibaṅ ka andhera hoga
 
   1
-  Baade qatle shahe abraar qayamat hogi
-  Lootne qaimon ko aajayenge qaimon mein shaqi
-  Dashte khoon khaar mein sadaat ka pursa hoga
+  Baad-e-qatl-e-Shah-e-abraar qayaamat hogi
+  Lutne khaimoṅ ko aa jaaeṅge khaimoṅ mein shaqi
+  Dasht-e-khuṅ khaar mein Saadaat ka pursa hoga
 
   2
-  Ye sada dete thay maqtal meni hussain ibne ali
-  Aakhri baar mere seene pe so le bibi
-  Aaj ke baad padar honge na seena hoga
+  Ye sadaa dete the maqtal mein Husain Ibn-e-Ali
+  Aakhri baar mere sine pe so le Bibi
+  Aaj ke baad padar hoṅge na sina hoga
 
   3
-  Koi kaano se gohar cheenega aur koi rida
-  Koi maarega tamacha koi ghudki dega
-  Zulm kya kya na mere baad sakina hoga
+  Koi kaanoṅ se gohar chhine ga aur koi ridaa
+  Koi maarega tamaancha koi ghurki dega
+  Zulm kya kya na mere baad Sakina hoga
 
   4
-  Koi hamdard na hoga meri beti nashaad
-  Furqat e shaah mein ay jaane jigar asr ke baad
-  Baap ke hijr mein har aan tadapna hoga
+  Koi hamdard na hoga meri beti naashaad
+  Furqat-e-Shaah mein ae jaan-e-jigar asr ke baad
+  Baap ke hijr mein har aan tarapna hoga
 
   5
-  Shola sadaat ke qaimon se uthega bibi
-  Mere baysheer ka jhoola bhi jalega bibi
-  Kya bataun mai sitam aal pe kya kya hoga
+  Shola Saadaat ke khaimoṅ se uthe ga Bibi
+  Mere beshir ka jhula bhi jalega Bibi
+  Kya bataauṅ main sitam Aal pe kya kya hoga
 
   6
-  Ghaur se dekhlo ay tashana dhan khaak hai ye
-  Isko pehchaan lo ay baba ki jaan khaak hai ye
-  Aaj ke baad yehi khaak bichona hoga
+  Ghaur se dekh lo ae tishna dahan khaak hai ye
+  Is ko pehchaan lo ae Baaba ki jaaṅ khaak hai ye
+  Aaj ke baad yehi khaak bichhauna hoga
 
   7
-  Waqt raahat ka kahan ab na sukoon paogi
-  Har tamache pe sitamgar ke tadap jaogi
-  Baade shabbir ke saanson pe bhi pehra hoga
+  Waqt raahat ka kahaaṅ ab na sukuṅ paao gi
+  Har tamaanche pe sitamgar ke tarap jaao gi
+  Baad-e-Shabbir ke saaṅsoṅ pe bhi pehra hoga
 
   8
-  Dayam o yazdan bayan kaise ho wo waqte qaza
-  Ek kohraam macha jab shaah ne ro ke kaha
-  Apne chehre ko tumhe ashkon se dhona hoga
+  Daayam o Yazdaan bayaaṅ kaise ho wo waqt-e-qazaa
+  Ek kohraam macha jab Shaah ne ro ke kaha
+  Apne chehre ko tumheṅ ashkoṅ se dhona hoga
 # source_id: nohayonline:a7cb21372e232faefe3e
 # source_url: https://www.nohayonline.com/details_content.php?id=3738
 # raw_sha256: b2dbe610d51b155ba4358a9dbbd8fed36b41b2601e54034616019bf2ebcfa0d8
 ---
-
 شاہ کہتے تھے بہت ظلم سکینہ ہوگا
 ہر طرف شام غریباں کا اندھیرا ہوگا
 
 ۱
 بعد قتل شہ ابرار قیامت ہو گی
-لوٹنے خیموں کو آجاییں گے خیموں میں شقی
+لوٹنے خیموں کو آ جائیں گے خیموں میں شقی
 دشت خوں خار میں سادات کا پرسہ ہوگا
 
 ۲
 یہ صدا دیتے تھے مقتل میں حسین ابنِ علی
-آخری بار میرے سینے پہ سو لے بی بی
-آج کے بعد پدر ہونگے نہ سینہ ہوگا
+آخری بار میرے سینے پہ سو لے بی‌بی
+آج کے بعد پدر ہوں گے نہ سینہ ہوگا
 
 ۳
 کوئی کانوں سے گوہر چھینے گا اور کوئی ردا
@@ -76,13 +76,13 @@ romanLyrics: |-
 ظلم کیا کیا نہ میرے بعد سکینہ ہوگا
 
 ۴
-کوی ہمدرد نہ ہوگا میری بیٹی ناشاد
+کوئی ہمدرد نہ ہوگا میری بیٹی ناشاد
 فرقت شاہ میں اے جانِ جگر عصر کے بعد
 باپ کے ہجر میں ہر آن تڑپنا ہوگا
 
 ۵
-شعلہ سادات کے خیموں سے اٹھے گا بی بی
-میرے بے شیر کا جھولا بھی جلے گا بی بی
+شعلہ سادات کے خیموں سے اٹھے گا بی‌بی
+میرے بے شیر کا جھولا بھی جلے گا بی‌بی
 کیا بتاؤں میں ستم آل پہ کیا کیا ہو گا
 
 ۶

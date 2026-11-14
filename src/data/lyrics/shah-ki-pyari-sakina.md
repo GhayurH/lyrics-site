@@ -6,68 +6,71 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aksar namaz e shab mein dua karte thay shabbir
-  Ek phool si beti de mujhe kaatib e taqdeer
+  Aksar namaaz-e-shab mein dua karte the Shabbir
+  Ek phul si beti de mujhe kaatib-e-taqdir
+
+  Shabbir ko Khaaliq ne Sakina jo ataa ki
+  Zainab ki si surat thi sab us maah laqaa ki
+  Jis dam diya godi mein use laa ke chacha ki
+  Haathoṅ pe us ko le kar Ghaazi ne dua di
+  Rakhe tujhe ae laadli Allah salaamat
+  Duniya mein tere sar pe rahe Shaah salaamat
+
+  Sakina Sakina
+  Shaah ki pyaari Sakina laadli Abbaas ki
 
   1
-  Shabbir ko khaliq ne sakina jo ata ki
-  Zainab ki si surat thi sab us mahlaqa ki
-  Jis dam diya godhi mein usey laa ke chacha ki
-  Haathon pa us ko le kar ghazi ne dua di
-  Rakhe tujhe ay laadli allah salamat
-  Dunya mein tere sar pa rahe shaah salamat
-  Sakina sakina
-  Shaah ki pyari sakina laadli abbas ki
-  Seerat e zehra thi jis mein thi sakina wo kitaab
-  Godh mein lete thay ghazi aur kabhi umme rabab
-  Seena e shabbir par jo phool si khilti rahi
-  Zainab o kulsoom ke jo saaye mein palti rahi
+  Sirat-e-Zehra thi jis mein thi Sakina wo kitaab
+  God mein lete the Ghaazi aur kabhi Umm-e-Rabaab
+  Sina-e-Shabbir par jo phul si khilti rahi
+  Zainab o Kulsum ke jo saaye mein palti rahi
 
   2
   Na kisi gham ka tasavvur tha na ranj o yaas ka
-  Paaya is bacchi ne jhoola baazu e abbas ka
-  Naksh tha us naazneen ke dil pe naam abbas ka
-  Yun samjhlo pehne rehti thi wo taweez e wafa
+  Paaya is bachchi ne jhula baazu-e-Abbaas ka
+  Naqsh tha us naazniṅ ke dil pe naam Abbaas ka
+  Yuṅ samajh lo pehne rehti thi wo taawiz-e-wafaa
 
   3
-  Naaz uthathi thi sakina ke sabhi shehzadiyan
-  Kissa e khyber suna kar deti thi maa loriyan
-  Zaanu e maadar pe takiya tha kabhi taqdeer par
-  Chain se soti thi shab ko seena e shabbir par
+  Naaz uthaati thi Sakina ke sabhi shahzaadiyaaṅ
+  Qissa-e-Khaibar suna kar deti thi maaṅ loriyaaṅ
+  Zaanu-e-maadar pe takiya tha kabhi taqdir par
+  Chain se soti thi shab ko sina-e-Shabbir par
 
   4
-  Dekhti hi dekhti wo do baras ki hogayi
-  Bachiyon ke khelne ki umr hoti hai yehi
-  Khelti thi ghar ke aangan mein kabhi sughra ke saath
-  Ghoomne jaati kabhi akbar kabhi baba ke saath
+  Dekhte hi dekhte wo do baras ki ho gai
+  Bachchiyoṅ ke khelne ki umr hoti hai yehi
+  Khelti thi ghar ke aangan mein kabhi Sughra ke saath
+  Ghumne jaati kabhi Akbar kabhi Baaba ke saath
 
   5
-  Khel ke dauran lagti thi sakina ko jo pyaas
-  Daud ke jaati thi bacchi us ghadi ammu ke paas
-  Haye kya din the ke pani maanga ur pani mila
-  Ur ek wo waqt pyasi thi sar e karbobala
+  Khel ke dauraan lagti thi Sakina ko jo pyaas
+  Daur ke jaati thi bachchi us ghari Ammu ke paas
+  Haae kya din the ke paani maanga aur paani mila
+  Aur ek wo waqt pyaasi thi sar-e-Karbobalaa
 
   6
-  Algharaz behre safar jab ghar se nikle shaah e deen
-  Raah mein kitni aziyat seh gayi wo naazneen
-  Dasht mein pyasi rahi aur baap ki furqat sahi
-  Qaid ho kar phir wo bacchi shaam ke zindan gayi
+  Algharaz bahr-e-safar jab ghar se nikle Shaah-e-diṅ
+  Raah mein kitni aziyat sah gai wo naazniṅ
+  Dasht mein pyaasi rahi aur baap ki furqat sahi
+  Qaid ho kar phir wo bachchi Shaam ke zindaaṅ gai
 
   7
-  Umr ke baaqi jo din thay wo guzaare qaid mein
-  Kal talak aabaad tha ghar ab hai saare qaid mein
-  Qaid khane ke masayib qalb par sehti rahi
-  Haye baba haye baba raat din kehti rahi
+  Umr ke baaqi jo din the wo guzaare qaid mein
+  Kal talak aabaad tha ghar ab haiṅ saare qaid mein
+  Qaid khaane ke masaaib qalb par sahti rahi
+  Haae Baaba haae Baaba raat din kehti rahi
 
   8
-  Maar daala qaid khane mein usay uftaad ne
-  Qabr mein usko utara sayyade sajjad ne
-  Rauza e bali sakina par jo mazhar abidi
-  Jayega farhan lab par hoga nauha bas yehi
+  Maar daala qaid khaane mein use uftaad ne
+  Qabr mein us ko utaara Sayyad-e-Sajjaad ne
+  Rauza-e-baali Sakina par jo Mazhar Aabidi
+  Jaae ga Farhaan lab par hoga nauha bas yehi
 # source_id: nohayonline:154cee6060afd1869c4d
 # source_url: https://www.nohayonline.com/details_content.php?id=2765
 # raw_sha256: cd256600f6936c18f84adbf32453957188a9046e55c53ec838557451bddeced0
@@ -75,19 +78,21 @@ romanLyrics: |-
 اکثر نماز شب میں دعا کرتے تھے شبیر
 اک پھول سی بیٹی دے مجھے کاتب تقدیر
 
-۱
 شبیر کو خالق نے سکینہ جو عطا کی
 زینب کی سی صورت تھی سب اس ماہ لقا کی
 جس دم دیا گودی میں اسے لا کے چچا کی
 ہاتھوں پہ اس کو لے کر غازی نے دعا دی
 رکھے تجھے اے لاڈلی اللّٰہ سلامت
 دنیا میں تیرے سر پہ رہے شاہ سلامت
+
 سکینہ سکینہ
 شاہ کی پیاری سکینہ لاڈلی عباس کی
+
+۱
 سیرتِ زہرا تھی جس میں تھی سکینہ وہ کتاب
 گود میں لیتے تھے غازی اور کبھی ام رباب
 سینۂ شبیر پر جو پھول سی کھلتی رہی
-زینب و کلثوم کے جو ساے میں پلتی رہی
+زینب و کلثوم کے جو سائے میں پلتی رہی
 
 ۲
 نہ کسی غم کا تصور تھا نہ رنج و یاس کا
@@ -102,7 +107,7 @@ romanLyrics: |-
 چین سے سوتی تھی شب کو سینۂ شبیر پر
 
 ۴
-دیکھتے ہی دیکھتے وہ دو برس کی ہو گیء
+دیکھتے ہی دیکھتے وہ دو برس کی ہو گئی
 بچیوں کے کھیلنے کی عمر ہوتی ہے یہی
 کھیلتی تھی گھر کے آنگن میں کبھی صغرا کے ساتھ
 گھومنے جاتی کبھی اکبر کبھی بابا کے ساتھ
@@ -115,18 +120,18 @@ romanLyrics: |-
 
 ۶
 الغرض بہر سفر جب گھر سے نکلے شاہ دیں
-راہ میں کتنی اذیت سہہ گیء وہ نازنیں
+راہ میں کتنی اذیت سہہ گئی وہ نازنیں
 دشت میں پیاسی رہی اور باپ کی فرقت سہی
-قید ہو کر پھر وہ بچی شام سے زنداں گیء
+قید ہو کر پھر وہ بچی شام سے زنداں گئی
 
 ۷
 عمر کے باقی جو دن تھے وہ گزارے قید میں
 کل تلک آباد تھا گھر اب ہیں سارے قید میں
-قید خانے کے مصایب قلب پر سہتی رہی
+قید خانے کے مصائب قلب پر سہتی رہی
 ہاے بابا ہاے بابا رات بھر کہتی رہی
 
 ۸
 مار ڈالا قید خانے میں اسے افتاد نے
 قبر میں اس کو اتارا سید سجاد نے
 روضہء بالی سکینہ پر جو مظہر عابدی
-جاے گا فرحان لب پر ہوگا نوحہ بس یہی
+جائے گا فرحان لب پر ہوگا نوحہ بس یہی
