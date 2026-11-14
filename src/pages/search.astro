@@ -15,11 +15,6 @@ const resultTemplate = String.raw`
                 {{#if meta.roman_title}}
                 <p class="search-result-roman-title" dir="ltr">{{ meta.roman_title }}</p>
                 {{/if}}
-                {{#if meta.printed_page_url}}
-                <p class="search-result-links">
-                  <a href="{{ meta.printed_page_url | safeUrl }}">{{ meta.printed_page_label }}</a>
-                </p>
-                {{/if}}
                 {{#if excerpt}}
                 <p class="pf-result-excerpt" dir="auto">{{+ excerpt +}}</p>
                 {{/if}}
@@ -62,30 +57,85 @@ const resultTemplate = String.raw`
       <div class="search-primary-filters" aria-label="Search filters">
       <div class="search-filter-control search-filter-scope">
         <span class="search-filter-label">Search in</span>
-        <pagefind-filter-dropdown wrap filter="collection" label="Both archives" sort="alphabetical"></pagefind-filter-dropdown>
+        <details class="search-facet" data-search-facet="collection">
+          <summary>Both archives</summary>
+          <div class="search-facet-panel">
+            <input type="search" data-facet-query placeholder="Find archives…" aria-label="Find Archive filter options" autocomplete="off" />
+            <div class="search-facet-options" data-facet-options role="group" aria-label="Archive choices"></div>
+            <p class="search-facet-hint" data-facet-hint aria-live="polite"></p>
+          </div>
+        </details>
       </div>
       <div class="search-filter-control">
         <span class="search-filter-label">Kalam Type</span>
-        <pagefind-filter-dropdown wrap filter="kalamType" label="Kalam Type" sort="alphabetical"></pagefind-filter-dropdown>
-        <span id="search-kalam-type-current" class="search-selected-filter" aria-live="polite">All types</span>
+        <details class="search-facet" data-search-facet="kalamType">
+          <summary>All types</summary>
+          <div class="search-facet-panel">
+            <input type="search" data-facet-query placeholder="Find kalam types…" aria-label="Find Kalam Type filter options" autocomplete="off" />
+            <div class="search-facet-options" data-facet-options role="group" aria-label="Kalam Type choices"></div>
+            <p class="search-facet-hint" data-facet-hint aria-live="polite"></p>
+          </div>
+        </details>
       </div>
       <div class="search-filter-control">
         <span class="search-filter-label">Haal</span>
-        <pagefind-filter-dropdown wrap filter="haal" label="Any Haal" sort="alphabetical"></pagefind-filter-dropdown>
+        <details class="search-facet" data-search-facet="haal">
+          <summary>Any Haal</summary>
+          <div class="search-facet-panel">
+            <input type="search" data-facet-query placeholder="Find Haal values…" aria-label="Find Haal filter options" autocomplete="off" />
+            <div class="search-facet-options" data-facet-options role="group" aria-label="Haal choices"></div>
+            <p class="search-facet-hint" data-facet-hint aria-live="polite"></p>
+          </div>
+        </details>
       </div>
       <div class="search-filter-control">
         <span class="search-filter-label">Tags</span>
-        <pagefind-filter-dropdown wrap filter="tag" label="Any tag" sort="alphabetical"></pagefind-filter-dropdown>
+        <details class="search-facet" data-search-facet="tag">
+          <summary>Any tag</summary>
+          <div class="search-facet-panel">
+            <input type="search" data-facet-query placeholder="Find tags…" aria-label="Find Tag filter options" autocomplete="off" />
+            <div class="search-facet-options" data-facet-options role="group" aria-label="Tag choices"></div>
+            <p class="search-facet-hint" data-facet-hint aria-live="polite"></p>
+          </div>
+        </details>
       </div>
     </div>
 
     <details class="search-more-filters">
       <summary>More filters</summary>
       <div class="search-secondary-filters">
-        <pagefind-filter-dropdown wrap filter="language" label="Language" sort="alphabetical"></pagefind-filter-dropdown>
-        <pagefind-filter-dropdown wrap filter="occasion" label="Occasion" sort="alphabetical"></pagefind-filter-dropdown>
-        <pagefind-filter-dropdown wrap filter="poet" label="Poet" sort="alphabetical"></pagefind-filter-dropdown>
-        <pagefind-filter-dropdown wrap filter="reciter" label="Reciter" sort="alphabetical"></pagefind-filter-dropdown>
+        <details class="search-facet" data-search-facet="language">
+          <summary>Language</summary>
+          <div class="search-facet-panel">
+            <input type="search" data-facet-query placeholder="Find languages…" aria-label="Find Language filter options" autocomplete="off" />
+            <div class="search-facet-options" data-facet-options role="group" aria-label="Language choices"></div>
+            <p class="search-facet-hint" data-facet-hint aria-live="polite"></p>
+          </div>
+        </details>
+        <details class="search-facet" data-search-facet="occasion">
+          <summary>Occasion</summary>
+          <div class="search-facet-panel">
+            <input type="search" data-facet-query placeholder="Find occasions…" aria-label="Find Occasion filter options" autocomplete="off" />
+            <div class="search-facet-options" data-facet-options role="group" aria-label="Occasion choices"></div>
+            <p class="search-facet-hint" data-facet-hint aria-live="polite"></p>
+          </div>
+        </details>
+        <details class="search-facet" data-search-facet="poet">
+          <summary>Poet</summary>
+          <div class="search-facet-panel">
+            <input type="search" data-facet-query placeholder="Find poets…" aria-label="Find Poet filter options" autocomplete="off" />
+            <div class="search-facet-options" data-facet-options role="group" aria-label="Poet choices"></div>
+            <p class="search-facet-hint" data-facet-hint aria-live="polite"></p>
+          </div>
+        </details>
+        <details class="search-facet" data-search-facet="reciter">
+          <summary>Reciter</summary>
+          <div class="search-facet-panel">
+            <input type="search" data-facet-query placeholder="Find reciters…" aria-label="Find Reciter filter options" autocomplete="off" />
+            <div class="search-facet-options" data-facet-options role="group" aria-label="Reciter choices"></div>
+            <p class="search-facet-hint" data-facet-hint aria-live="polite"></p>
+          </div>
+        </details>
       </div>
     </details>
 
@@ -97,7 +147,7 @@ const resultTemplate = String.raw`
     </div>
 
     <div class="search-results-shell">
-      <p class="search-collection-note">Verified Basta kalams link to both the individual reader and their original printed pages. Unindexed material remains searchable by page.</p>
+      <p class="search-collection-note">Verified Basta kalams appear as individual kalams. Only unindexed material appears under printed pages.</p>
       <pagefind-summary></pagefind-summary>
       <pagefind-results>
         <script type="text/pagefind-template" is:inline set:html={resultTemplate}></script>
