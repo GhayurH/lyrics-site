@@ -5,16 +5,25 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Hasnain Akbar"
+reciter: "Raza Abbas Zaidi"
 tags: []
 aliases:
   - "Ae Hur Jawaan Ka Laasha Uthaana Mushkil Hai"
+  - "Ay Hurr Jawan Ka"
+  - "ay-hurr-jawan-ka"
+  - "جس گھڑی حر کا پسر زین سے مقتل میں گرا"
 cover: "/images/lyrics/ae-hur-jawaan-ka-laasha-uthaana-mushkil-hai.png"
 coverAlt: "Cover image for Ae Hur Jawaan Ka Laasha Uthaana Mushkil Hai"
 published: true
 romanLyrics: |-
-  
+  Jis ghari Hur ka pisar zin se maqtal mein gira
+  Laash par us ki gaye Hur se pehle Maula
+  Laash bete ki uthaane ke liye Hur jo barha
+  Hur ko sine se laga kar Shah-e-Waala ne kaha
+
   Ae Hur jawaan ka laasha uthaana mushkil hai
-  Pisar ke sine se barchhi churaana mushkil hai
+  Pisar ke sine se barchhi chhuraana mushkil hai
   
   1
   Dil-e-padar ki jo haalat hai Hur samajhta huṅ
@@ -28,7 +37,7 @@ romanLyrics: |-
   
   3
   Husain kehte the ro kar ye, Hur ke bete se
-  Samajh raha huṅ aziyat, teri mere bachche
+  Samajh raha huṅ aziyat, tiri mire bachche
   Burida halq se yuṅ muskurana mushkil hai
   
   4
@@ -39,28 +48,38 @@ romanLyrics: |-
   5
   Gharib baap ka ye imtihaaṅ nahiṅ lunga
   Tumhaare laal ko kandhoṅ pe maiṅ uthaaunga
-  Utha ke laash ko khemoṅ meiṅ jaana mushkil hai
+  Utha ke laash ko khaimoṅ mein jaana mushkil hai
   
   6
   Ye waqt kaisa hai tum ko khabar nahiṅ bhai
   Tumhaare saath tumhaari behan nahiṅ aayi
-  Jigar ka zakhm phuphi ko dikhana mushkil hai
+  Jigar ka zakhm phuphi ko dikhaana mushkil hai
   
   7
-  Tumhaari zawja ko Zainab sambhalti bhaiya
-  Ajib waqt hai maa ko bataayenge aada
-  Jo baap ke liye maa ko bataana mushkil hai
+  Tumhaari zauja ko Zainab sambhaalti bhaiya
+  Ajib waqt hai maaṅ ko bataayeṅ ge aada
+  Jo baap ke liye maaṅ ko bataana mushkil hai
   
   8
   Yuṅ zard chehra hai jaise ke jaaṅ nikalti hai
   Maiṅ dekhta huṅ kamar teri jhukti jaati hai
-  Tere liye ye shahadat bhulana mushkil hai
+  Tire liye ye shahaadat bhulaana mushkil hai
   
   9
   Sadaayeiṅ aati thiṅ Akbar ye Hur ke laashe se
   Akele laasha-e-Akbar uthaaoge kaise
   Kaha tha aap ne mayyat uthaana mushkil hai
+# source_id: nohayonline:f9d92852645450806b70
+# source_url: https://www.nohayonline.com/details_content.php?id=2396
+# raw_sha256: 6c1ed71f3271f77bf5c394ca3b08fc48577224c833fbdbf466edf7819094bb5c
+# Consolidated ay-hurr-jawan-ka: archived four-verse preamble precedes the existing refrain; stanza numbers retained.
+# Source stanza 7 (import stanza 8) has "maa ko bataayenge aada" / "ماں کو بتائیں گے اعدا"; retain pending audio/print.
 ---
+
+جس گھڑی حر کا پسر زین سے مقتل میں گرا
+لاش پر اس کی گئے حر سے پہلے مولا
+لاش بیٹے کی اٹھانے کے لیے حر جو بڑھا
+حر کو سینے سے لگا کر شہ والا نے کہا
 
 اے حر جوان کا لاشہ اٹھانا مشکل ہے
 پسر کے سینے سے برچھی چھڑانا مشکل ہے
@@ -104,7 +123,6 @@ romanLyrics: |-
 یوں زرد چہرہ ہے جیسے کہ جاں نکلتی ہے
 میں دیکھتا ہوں کمر تیری جھکتی جاتی ہے
 ترے لیے یہ شہادت بھلانا مشکل ہے
-
 
 ۹
 صدائیں آتی تھیں اکبر یہ حُر کے لاشے سے

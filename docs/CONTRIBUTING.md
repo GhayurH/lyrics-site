@@ -76,3 +76,20 @@ CI runs one build plus smoke for ordinary PRs. Full browser runs on the schedule
 ## PR review
 
 Describe the ownership change, canonical sources affected, validation performed and any relevant user-visible changes. Keep the change scoped and explain exceptions. Check responsive/no-JS behavior, source text diffs, identity-lock changes, accessibility/focus, security and build outputs. Review [Quality assurance](QUALITY_ASSURANCE.md) before merging.
+
+## Duplicate imported lyrics and Basta authority
+
+When importing a standalone poem, compare possible matches against complete published
+standalone poems **and existing printed Basta sections**. A mechanically suggested overlap
+is a lead, not proof; manually inspect full verses and section boundaries. If the imported
+poem is wholly represented by a reviewed standalone or Basta source and supplies **no
+unique verses or continuation**, **delete the redundant imported Markdown file**.
+Spelling variants, differing readings, new metadata, a missing Roman/Urdu counterpart,
+or different grouping do not by themselves make it a new composition. Record the imported
+source identity, source URL, variant readings, and comparison result in the CSV tracker
+as an `excluded_duplicate` tombstone. Record unique metadata to reconcile later, without
+modifying Basta. If genuine unique material is found, preserve it and flag additions to
+Basta for human adjudication. If identity or uniqueness remains uncertain, preserve the
+import, mark `partial_review`, and document the **specific** disputed verse/identity
+evidence required. Do not record "same poem with no unique verses" and retain a redundant
+standalone. Never alter `src/data/basta/pages/*.md` as part of importing lyrics.

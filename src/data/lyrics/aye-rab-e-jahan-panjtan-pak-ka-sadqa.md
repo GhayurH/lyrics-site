@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
+poet: "Mohsin Naqvi"
 tags: []
 aliases:
   - "Aye Rab-E-Jahan Panjtan Pak Ka Sadqa"

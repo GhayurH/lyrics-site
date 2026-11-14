@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Imran Jatki"
 tags: []
 aliases:
   - "Maan Dekh Rahi Hai"
@@ -56,6 +57,9 @@ romanLyrics: |-
   Kaise maiṅ likhu tir ke ye tir nahi hai
   Asghar ki taraf chal pari tezi se qaza hai
   Maaṅ dekh rahi hai
+# source_id: nohayonline:1b98f74d77535f25b83a
+# source_url: https://www.nohayonline.com/details_content.php?id=1004
+# raw_sha256: 015c0b2ba97e3f8985c98ac23c818b3d06d6262cdf44e1d16ecdfc7bd7974402
 ---
 چھ ماہ کا مجاہد، سوئے میدان چلا ہے، ماں دیکھ رہی ہے
 چہرہ بڑا نازک ہے، بڑی گرْم ہوا ہے، ماں دیکھ رہی ہے

@@ -1,0 +1,90 @@
+---
+title: "کربلا سے یہی آرہی ہے صدا"
+alternateTitle: "Ya Mehdi"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Hasnain Akbar"
+tags: ["noImage"]
+aliases: []
+published: false
+romanLyrics: |-
+  Karbala se yehi aa rahi hai sada
+  Al-ajal al-ajal warise karbala
+
+  1
+  Laashe shabbir par jo giraye gaye
+  Mai wo pathar hoo kab se sambhale hue
+  De inhi patharo se tu unko saza
+
+  2
+  Maa ki nazrein na dekhe yehi soch kar
+  Seena apna chupaye hue hai magar
+  Zakhm dikhlayega tujhko akbar tera
+
+  3
+  Inteqam aake zainab ki chadar ka le
+  Sar se pehle tu us haath ko kaat de
+  Binte zehra ki jisne rida ko chuva
+
+  4
+  Ek ziyarat chupaye hue hoo abhi
+  Tumko dikhlaungi aaoge jis ghadi
+  Khoon sakina ka jo khaak par tha gira
+
+  5
+  Sar juda tan juda dono baazu juda
+  Phir bhi ghazi ko armaan hai jang ka
+  Haath uthaye bina de raha hai sada
+
+  6
+  Saath qaimon ke har ek shay jal gayi
+  Zulm bhi thak gaya aag bhi bujh gayi
+  Jal raha hai magar ab bhi seena mera
+
+  7
+  Har azadar ye kar raha hai dua
+  Aisa ashoor ho ab ke akbar bapa
+  Karbala mein mile warise karbala
+# source_id: nohayonline:f2c80b16fa7828c479d4
+# source_url: https://www.nohayonline.com/details_content.php?id=662
+# raw_sha256: e7036b3606ad5685874176a606d6edce9a71c29ee6c83f468385ca58a8bad8af
+---
+کربلا سے یہی آرہی ہے صدا
+العجل العجل وارثِ کربلا
+
+۱
+لاشے شبیر پر جو گرائے گئے
+میںوہ پتھر ہوں کب سے سنبھالے ہوئے
+دے اِنہی پتھروں سے تُو اُن کو سزا
+
+۲
+ماںکی نظریں نہ دیکھیں یہی سوچ کر
+سینہ اپنا چھپائے ہوئے ہیں مگر
+زخم دکھلائے گا تجھکو اکبر تیرا
+
+۳
+انتقام آکے زینب کی چادر کا لے
+سر سے پہلے تو اُس ہاتھ کو کاٹ دے
+بنتِ زہرا کی جس نے ردا کو چھوا
+
+۴
+اک زیارت چھپائے ہوئے ہوںابھی
+تم کو دکھلائوں گی آئو گے جس گھڑی
+خوں سکینہ کا جو خاک پر تھا گرا
+
+۵
+سر جدا تن جدا دونوں بازو جدا
+پھر بھی غازی کو ارمان ہے جنگ کا
+ہاتھ اُٹھائے بِنادے رہا ہے صدا
+
+۶
+ساتھ خیموں کے ہر ایک شہ جل گئی
+ظلم بھی تھک گیا آگ بھی بجھ گئی
+جل رہا ہے مگر اب بھی سینہ میرا
+
+۷
+ہر عزادار یہ کررہا ہے دُعا
+ایسا عاشور ہو اب کہ اکبر بپا
+کربلا میں ملے وارثِ کربلا

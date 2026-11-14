@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Hamid"
 tags: []
 aliases:
   - "Haye Khadijatul Kubra"

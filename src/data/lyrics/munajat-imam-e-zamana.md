@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
+poet: "Mir Hilal Rizvi"
 tags: []
 aliases:
   - "Munajat Imam E Zamana"

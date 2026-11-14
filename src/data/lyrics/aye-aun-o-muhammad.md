@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Mir Takallum Mir"
 tags: []
 aliases:
   - "Aye Aun O Muhammad"

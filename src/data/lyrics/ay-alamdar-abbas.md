@@ -1,0 +1,104 @@
+---
+title: "اے علمدار علمدار علمدار عباس"
+alternateTitle: "Ae Alamdaar Abbas"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Akhtar"
+reciter: "Mir Mohsin Ali"
+tags: ["noImage"]
+aliases: []
+published: false
+romanLyrics: |-
+  Ae alamdaar alamdaar alamdaar Abbas
+
+  1
+  Tu ne qurbaaṅ dil o jaaṅ kiye Sarwar par
+  Bibi Zehra ke pisar lakht-e-dil-e-Haidar par
+  Tu hi bhaai tan-e-tanha tha har ek lashkar par
+  Lashkar-e-Shaam tha Abbas teri thokar par
+  Tu bhi hai misl-e-Ali haq ka wali sher-e-Khuda
+
+  2
+  Tujh ko beta kaha Zahra ne sharaf tera hai
+  Karbala teri Madina o Najaf tera hai
+  Jo bhi dushman hai Shaah-e-diṅ ka hadaf tera hai
+  Khelna tegh se khanjar se shafaq tera hai
+  Haidari waar hai Abbas har ek waar tera
+
+  3
+  Sabr ke taaj ka ek saaya meiṅ akkaas hai tu
+  Kitne jazboṅ ka hasin paikar o ehsaas hai tu
+  Khaima-e-Shaah meiṅ pyaasoṅ ke liye aas hai tu
+  Naaz tujh par hai shujaaat ko ke Abbas hai tu
+  Saahib-e-haq o yaqiṅ maalik-e-taslim o raza
+
+  4
+  Karbala kya hai wafaaoṅ ke samandar ke siwa
+  Sabr o isaar hai kya ek tere paikar ke siwa
+  Din-e-haq aur hai kya zarbat-e-Haidar ke siwa
+  Din ki bunyaad hai kya sajda-e-Sarwar ke siwa
+  Quwwat-e-baazu-e-Shabbir rukh-e-haq ki riza
+
+  5
+  Raah-e-Islam meiṅ haathoṅ ko kataaya tu ne
+  Zulm jhela kabhi sar na jhukaaya tu ne
+  Lafz-e-baiat ko zamaane se mitaaya tu ne
+  Parcham-e-din-e-ilaahi ko bachaaya tu ne
+  Tujh pe qurbaan dil o jaaṅ wafaaoṅ ke Khuda
+
+  6
+  Aabru pyaas ki rakh li hai tere hontoṅ ne
+  Haath Islam ko bakhshe haiṅ tere shaanoṅ ne
+  Alam o mashk sambhaala hai tere daantoṅ ne
+  Haq ko zakhmoṅ se bachaaya hai tere zakhmoṅ ne
+  Gunjti nauhe meiṅ hai Akhtar o Mohsin ki sada
+# source_id: nohayonline:b36827384ca1e6cf275b
+# source_url: https://www.nohayonline.com/details_content.php?id=686
+# raw_sha256: ff8c4d8fae59708ffc45b2cce5f445e8d915a9ffe5e40bae47e604a73577e726
+---
+
+اے علمدار علمدار علمدار عباس
+
+۱
+تُو نے قرباں دل و جاں کیے سرور پر
+بی‌بی زہرا کے پسر لختِ دلِ حیدر پر
+تُو ہی بھائی تنِ تنہا تھا ہر اک لشکر پر
+لشکرِ شام تھا عباس تیری ٹھوکر پر
+تُو بھی ہے مثلِ علی حق کا ولی شیرِ خدا
+
+۲
+تجھ کو بیٹا کہا زہرا نے شرف تیرا ہے
+کربلا تیری مدینہ و نجف تیرا ہے
+جو بھی دشمن ہے شاہِ دیں کا ہدف تیرا ہے
+کھیلنا تیغ سے خنجر سے شفق تیرا ہے
+حیدری وار ہے عباس ہر اک وار تیرا
+
+۳
+صبر کے تاج کا اک سایا میں عکاس ہے تُو
+کتنے جذبوں کا حسین پیکر و احساس ہے تُو
+خیمۂ شاہ میں پیاسوں کے لیے آس ہے تُو
+ناز تجھ پر ہے شجاعت کو کہ عباس ہے تُو
+صاحبِ حق و یقیں مالکِ تسلیم و رضا
+
+۴
+کربلا کیا ہے وفاؤں کے سمندر کے سوا
+صبر و ایثار ہے کیا ایک تیرے پیکر کے سوا
+دینِ حق اور ہے کیا ضربتِ حیدر کے سوا
+دین کی بنیاد ہے کیا سجدۂ سرور کے سوا
+قوتِ بازوئے شبیر رُخِ حق کی رضا
+
+۵
+راہِ اسلام میں ہاتھوں کو کٹایا تُو نے
+ظلم جھیلا کبھی سر نہ جھُکایا تُو نے
+لفظِ بیعت کو زمانے سے مٹایا تُو نے
+پرچمِ دینِ الٰہی کو بچایا تُو نے
+تجھ پہ قربان دل و جاں وفاؤں کے خدا
+
+۶
+آبرو پیاس کی رکھ لی ہے ہونٹوں نے
+ہاتھ اسلام کو بخشے ہیں تیرے شانوں نے
+علم و مشک سنبھالا ہے تیرے دانتوں نے
+حق کو زخموں سے بچایا ہے تیرے زخموں نے
+گونجتی نوحے میں ہے اختر و محسن کی صدا

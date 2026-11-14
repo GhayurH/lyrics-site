@@ -64,6 +64,12 @@ romanLyrics: |-
   Sughra ke nasiboṅ meiṅ, rona hi likha hai
   :sardar: masuma ko, mili kaisi saza hai
   Khat aaya na akbar ka, roti rahi Sughra.
+# source_id: nohayonline:fcb673db20a980ce3108
+# source_url: https://www.nohayonline.com/details_content.php?id=626
+# raw_sha256: 3e0b55c3cb25a06fd6d43771ec7e0ac0d79b97f86be3ff8c554aca394f5e88e4
+# source_id: ziyaraat:7d7a0b60e4d4704aad5a
+# source_url: https://www.ziyaraat.net/api/noha/472
+# raw_sha256: b5dd25b435cde5980055d2d40d8baac67a596d6a8806e81f2f7bd34fda9d7b69
 ---
 
 اے چاند محرم کے، تو بدلی میں چلا جا

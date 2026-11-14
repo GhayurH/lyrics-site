@@ -17,6 +17,12 @@ An intentionally untranscribed **whole Basta page** remains untranscribed. This 
 - The standalone Urdu vocative **اے** is **Ae** (or lowercase **ae** inside a lowercase verse); never standalone **E**, **Ay**, **Aye** or **Ey** for that word. Isolated Roman **e** can also indicate izafat and must be matched to the Urdu before replacement.
 - Roman typography: poem titles use Title Case; verses use sentence-initial capitals and proper-name capitals, not title case on every word. Keep source line breaks, verse sequence, stanza numbering and meaningful punctuation.
 
+## Stanza numbering and numeral script
+- **Roman `romanLyrics` stanza numbers use plain ASCII (Western) digits**: `1`, `2`, `3`, …, including numbered Roman editions of Basta pages. Never use Urdu digits in Roman stanza labels.
+- **Urdu Markdown stanza numbers use Urdu digits**: `۱`, `۲`, `۳`, … . Never use ASCII digits for Urdu stanza labels.
+- Place each number **alone on its own line immediately above the first verse of the stanza**, without a blank line after the number. Keep the normal blank line **between stanzas**.
+- The sequence of numbered stanzas must match between Urdu and Roman editions. Any opening preamble remains separate from stanza 1. Do not copy numeral characters between editions.
+
 ## Compounds and repetition
 - Izafat: `Gham-e-Husain`; retain it when the Urdu text has izafat.
 - Persian conjunction و: separate word **o**, e.g. `Shab o Roz` (not `Shab-o-Roz`).

@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Akhtar Hussain"
 tags: []
 aliases:
   - "Asghar Main Teri Maan Hun"
@@ -12,6 +13,8 @@ cover: "/images/lyrics/asghar-main-teri-maan-hun.png"
 coverAlt: "Cover image for Asghar Maiṅ Teri Maaṅ Huṅ"
 published: true
 romanLyrics: |-
+  Aaja asghar aaja asghar
+
   aajao chand mere
   teri pyaas mai bujhauṅ
   asghar maiṅ teri maaṅ huṅ
@@ -75,7 +78,12 @@ romanLyrics: |-
   phir god may lita kar
   Nade ali sunauṅ
   Asghar Maiṅ Teri Maaṅ Huṅ
+# source_id: nohayonline:f50bd24684ea2d124b02
+# source_url: https://www.nohayonline.com/details_content.php?id=19
+# raw_sha256: ad5714a7e0ea69ec5c8fd047542c17689c435e8daf464dc73dd6490fdac37b1d
 ---
+آجا اصغر آجا اصغر
+
 
 آجاؤ چاند میرے
 تیری پیاس میں بجھاؤں

@@ -1,0 +1,107 @@
+---
+title: "اہل حرم کا قافلہ کوفے میں دیکھ کے"
+alternateTitle: "Sare Muslim Ye"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Mir Sajjad Mir"
+reciter: "Mir Sajjad Mir"
+tags: ["noImage"]
+aliases: []
+published: false
+romanLyrics: |-
+  Ahl-e-haram ka qaafila Kufe mein dekh ke
+  Ek sar kalaam karta tha naize ki nok se
+
+  Sar-e-Muslim ye kehta tha sar-e-Shabbir se ro kar
+  Mere Maula hua ye kya kata kaise tumhaara sar
+
+  1
+  Ye Kufi kaisi baateiṅ kar rahe haiṅ ya mera Maula
+  Khari hai berida is bhir mein kya Saani-e-Zahra
+  Ye kya Zainab ke patthar lag rahe haiṅ baaghi keh keh kar
+
+  2
+  Main jab rukhsat hua tha haal kab aisa tha Hazrat ka
+  Safedi aa gayi baaloṅ mein kaise aap ke Maula
+  Suna hai laash-e-Akbar par zaifi aayi hai tum par
+
+  3
+  Meri ghairat gawaara kar nahiṅ sakti kabhi Maula
+  Khula sar dekh luṅ kaise bhala main Bint-e-Zehra ka
+  Main aankheiṅ band kar luṅ to guzar jaana behan le kar
+
+  4
+  Meri wo laadli beti teri beti ka hai sadqa
+  Dua karta huṅ ab jo sangbaari ho mere Maula
+  Na zakhm aaye Sakina ko Hamida ko lage patthar
+
+  5
+  Kaha main ne to Tawa jaam le aayi thi paani ka
+  Wahaaṅ nau laakh mein kya koi bhi insaaṅ na tha Maula
+  Suna hai aap ne paani bahut maanga tah-e-khanjar
+
+  6
+  Suna hai aap par hansta tha saare Shaam ka lashkar
+  Kamar kham ho gayi thi aap ki Ghaazi ke laashe par
+  Suna hai saath Zainab ke uthaaya laasha-e-Akbar
+
+  7
+  Ruqayya ne bataaya Aatika naaraaz thi mujh se
+  Use lagta tha main imdaad ko aauṅga Kufe se
+  Magar afsos gardan par tumhaari chal gaya khanjar
+
+  8
+  Kaha Sajjad us ne takti hai kya aap ki beti
+  Isi khwaahar ki gardan ki jaanib hai nazar us ki
+  Mujhe lagta hai shaayad hai wohi us baawafa ka sar
+# source_id: nohayonline:a7109049cb1ed5c14806
+# source_url: https://www.nohayonline.com/details_content.php?id=3673
+# raw_sha256: b6737b755dc4dba4420533026a6192c043c8a9bf31c76d115b0748b27570afbe
+---
+اہل حرم کا قافلہ کوفے میں دیکھ کے
+ایک سر کلام کرتا تھا نیزے کی نوک سے
+
+سر مسلم یہ کہتا تھا سر شبیر سے رو کر
+میرے مولا ہوا یہ کیا کٹا کیسے تمہارا سر
+
+۱
+یہ کوفی کیسی باتیں کر رہے ہیں یا میرا مولا
+کھڑی ہے بے ردا اس بھیڑ میں کیا ثانیِ زہرا
+یہ کیا زینب کے پتھر لگ رہے ہیں باغی کہہ کہہ کر
+
+۲
+میں جب رخصت ہوا تھا حال کب ایسا تھا حضرت کا
+سفیدی آ گئی بالوں میں کیسے آپ کے مولا
+سنا ہے لاشِ اکبر پر ضعیفی آئی ہے تم پر
+
+۳
+میری غیرت گوارا کر نہیں سکتی کبھی مولا
+کھلا سر دیکھ لوں کیسے بھلا میں بنت زہرا کا
+میں آنکھیں بند کر لوں تو گزر جانا بہن لے کر
+
+۴
+میری وہ لاڈلی بیٹی تیری بیٹی کا ہے صدقہ
+دعا کرتا ہوں اب جو سنگ باری ہو میرے مولا
+نہ زخم آئے سکینہ کو حمیدہ کو لگے پتھر
+
+۵
+کہا میں نے تو طوا جام لے آئی تھی پانی کا
+وہاں نو لاکھ میں کیا کوئی بھی انساں نہ تھا مولا
+سنا ہے آپ نے پانی بہت مانگا تہہ خنجر
+
+۶
+سنا ہے آپ پر ہنستا تھا سارے شام کا لشکر
+کمر خم ہو گئی تھی آپ کی غازی کے لاشے پر
+سنا ہے ساتھ زینب کے اٹھایا لاشۂ اکبر
+
+۷
+رقیہ نے بتایا آتکہ ناراض تھی مجھ سے
+اسے لگتا تھا میں امداد کو آؤں گا کوفے سے
+مگر افسوس گردن پر تمہاری چل گیا خنجر
+
+۸
+کہا سجاد اس نے تکتی ہے کیا آپ کی بیٹی
+اسی خواہر کی گردن کی جانب ہے نظر اس کی
+مجھے لگتا ہے شاید ہے وہی اس با وفا کا سر

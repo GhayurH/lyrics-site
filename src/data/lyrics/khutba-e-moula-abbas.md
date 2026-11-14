@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
+poet: "Ali Rizvi Sachey"
 tags: []
 aliases:
   - "Khutba E Moula Abbas"
@@ -67,6 +68,9 @@ romanLyrics: |-
   Hai zinda jab talak Abbas… tum kuchh kar nahi sakte
   Koi hasil nahi mansuba e batil ka ahle shar
   Khuda ka ghaiz tmpar aur tmhari saari naslo par
+# source_id: nohayonline:517729b2be8e4decf2a3
+# source_url: https://www.nohayonline.com/details_content.php?id=2972
+# raw_sha256: 8962099f33ab6c26b86e8c651472ca6f42618418bf65ce268abf8611c8a6dcb5
 ---
 ۱
 کہیں حرمت خدا کے گھر کی نہ پامال ہوجائے

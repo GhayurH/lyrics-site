@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Mohsin Riyaz Mohsin"
 tags: []
 aliases:
   - "Jab Mujhe Aap Ke Qatil Ne Hai Mara Baba"
