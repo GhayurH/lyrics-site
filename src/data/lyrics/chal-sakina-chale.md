@@ -77,6 +77,10 @@ romanLyrics: |-
 # source_id: nohayonline:b7c1ab0b33f7e5aa3837
 # source_url: https://www.nohayonline.com/details_content.php?id=73
 # raw_sha256: d9b34a304ff2af1d5129e38cc868e6523550d44a64b0ab3b624d89c285ed866d
+# additional_source_id: nohawriteups:651612d5e659d07d9fde
+# additional_source_url: https://www.nohawriteups.org/chal-sakina-chale-karbala/
+# additional_raw_sha256: f43c27fd80265ec9c95b7db81ff2c6b1a83b5111d8593cd98590155622f848b5
+# additional_source_note: All eight NohaWriteups stanzas and unnumbered dream preamble match the existing Mazhar Abidi/Farhan Ali Waris bilingual poem; only repeated refrain omitted.
 ---
 جاگو اے بالی سکینہ دیتے ہیں آواز بابا
 

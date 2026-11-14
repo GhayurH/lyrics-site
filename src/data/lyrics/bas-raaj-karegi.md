@@ -82,6 +82,10 @@ romanLyrics: |-
 # source_id: nohayonline:7c2d1f8c24fe6df428a9
 # source_url: https://www.nohayonline.com/details_content.php?id=984
 # raw_sha256: 4325415a165551f014ee9f82c8209869e57e35ba6373af8b10732499bd3d837e
+# additional_source_id: nohawriteups:6491a12699f28f52211e
+# additional_source_url: https://www.nohawriteups.org/bas-raaj-karegi/
+# additional_raw_sha256: 3920763676f7bb3f2c88f8241b5526fd99c0d31cfeaf861bfa4728f9e26ac860
+# additional_source_note: All nine source sections and prose preamble compared; complete Mir Takallum bilingual canonical already has them, including Khun Phir Khun Hai and closing Labbaik Ya Hussain.
 ---
 غیبت کا پردہ اٹھنے دو
 جو دیکھ رہے ہیں ہم لوگوں
