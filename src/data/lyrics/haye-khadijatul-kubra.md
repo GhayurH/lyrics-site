@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Haye Khadijatul Kubra"
-cover: "/images/lyrics/haye-khadijatul-kubra.png"
-coverAlt: "Cover image for Haye Khadijatul Kubra"
 published: true
 romanLyrics: |-
   do jahan meiṅ matam hai, rehlat-e-Khadija se

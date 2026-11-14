@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Husain Aaj Hai Tanha, Habib Aajao"
-cover: "/images/lyrics/hussain-aaj-hai-tanha-habib-aajao.png"
-coverAlt: "Cover image for Husain Aaj Hai Tanha, Habib Aajao"
 published: true
 romanLyrics: |-
   Husain aaj hai tanha, Habib aajao

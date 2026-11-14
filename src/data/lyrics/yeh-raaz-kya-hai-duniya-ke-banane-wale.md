@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Yeh Raaz Kya Hai Duniya Ke Banane Wale"
-cover: "/images/lyrics/yeh-raaz-kya-hai-duniya-ke-banane-wale.png"
-coverAlt: "Cover image for Yeh Raaz Kya Hai Duniya Ke Banane Wale"
 published: true
 romanLyrics: |-
   Yeh Raaz Kya Hai Duniya Ke Banane Wale

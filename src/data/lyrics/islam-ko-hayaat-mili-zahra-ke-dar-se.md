@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Islam Ko Hayaat Mili Zahra Ke Dar Se Aye Kalmago Suno"
-cover: "/images/lyrics/islam-ko-hayaat-mili-zahra-ke-dar-se.png"
-coverAlt: "Cover image for Islam Ko Hayaat Mili Zahra Ke Dar Se"
 published: true
 romanLyrics: |-
   Islam Ko Hayaat Mili Zahra Ke Dar Se Ae Kalmago Suno

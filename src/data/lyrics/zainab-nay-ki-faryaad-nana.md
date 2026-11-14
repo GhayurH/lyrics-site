@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Zainab Ne Ki Faryaad Nana"
-cover: "/images/lyrics/zainab-nay-ki-faryaad-nana.png"
-coverAlt: "Cover image for Zainab Ne Ki Faryaad Nana"
 published: true
 romanLyrics: |-
   Zainab Ne Ki Faryaad Nana, Faryaad Nana Faryaad Nana

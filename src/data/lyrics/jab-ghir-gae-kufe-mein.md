@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Jab Ghir Gae Kufe Mein"
-cover: "/images/lyrics/jab-ghir-gae-kufe-mein.png"
-coverAlt: "Cover image for Jab Ghir Gae Kufe Meiṅ"
 published: true
 romanLyrics: |-
   jab ghir gaye Kufe meiṅ Muslim ke dulare

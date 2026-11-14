@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Aao Baba Ko Rukhsat Karo"
-cover: "/images/lyrics/aao-baba-ko-rukhsat-karo.png"
-coverAlt: "Cover image for Aao Baba Ko Rukhsat Karo"
 published: true
 romanLyrics: |-
   Betiyaṅ thiṅ, janaza tha, ehsaas tha

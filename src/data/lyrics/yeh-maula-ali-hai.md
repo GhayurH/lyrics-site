@@ -8,8 +8,6 @@ kalamType: "Manqabat"
 tags: []
 aliases:
   - "Yeh Maula Ali Hai"
-cover: "/images/lyrics/yeh-maula-ali-hai.png"
-coverAlt: "Cover image for Yeh Maula Ali Hai"
 published: true
 romanLyrics: |-
   1

@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Ya Rab Koyi Masooma Zindan Main Na Tanha Ho"
-cover: "/images/lyrics/ya-rab-koyi-masooma-zindan-main-na-tanha-ho.png"
-coverAlt: "Cover image for Ya Rab Koyi Masuma, Zindan Meiṅ Na Tanha Ho"
 published: true
 romanLyrics: |-
   Ya Rab Koyi Masuma, Zindan Meiṅ Na Tanha Ho

@@ -8,8 +8,6 @@ kalamType: "Manqabat"
 tags: []
 aliases:
   - "Mushkil Ko Meri Hal Karo Mushkil Kusha Ali"
-cover: "/images/lyrics/mushkil-ko-meri-hal-karo-mushkil-kusha-ali.png"
-coverAlt: "Cover image for Mushkil Ko Meri Hal Karo Mushkil Kusha Ali"
 published: true
 romanLyrics: |-
   Ae Kul Ke Madadgar Sardaroṅ Ke Sardar

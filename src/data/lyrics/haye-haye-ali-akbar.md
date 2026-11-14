@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Haye Haye Ali Akbar"
-cover: "/images/lyrics/haye-haye-ali-akbar.png"
-coverAlt: "Cover image for Haye Haye Ali Akbar"
 published: true
 romanLyrics: |-
   Kehti thi yeh maaṅ khun bhari mayyat se lipat kar

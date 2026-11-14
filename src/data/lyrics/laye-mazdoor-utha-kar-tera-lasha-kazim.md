@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Laye Mazdoor Utha Kar Tera Lasha Kazim"
-cover: "/images/lyrics/laye-mazdoor-utha-kar-tera-lasha-kazim.png"
-coverAlt: "Cover image for Laye Mazdur Utha Kar Tera Lasha Kazim"
 published: true
 romanLyrics: |-
   laye mazdur utha kar tera laasha Kazim

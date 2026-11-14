@@ -8,8 +8,6 @@ kalamType: "Manqabat"
 tags: []
 aliases:
   - "Khabar La Makan Ke Makan"
-cover: "/images/lyrics/khabar-la-makan-ke-makan.png"
-coverAlt: "Cover image for Khabar La Makan Ke Makan"
 published: true
 romanLyrics: |-
   Khabar la-makaan ke makaan se uri hai

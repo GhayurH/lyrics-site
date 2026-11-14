@@ -8,8 +8,6 @@ kalamType: "Manqabat"
 tags: []
 aliases:
   - "Dil Thikana Mere Husain Ka Hai"
-cover: "/images/lyrics/dil-thikana-mere-hussain-ka-hai.png"
-coverAlt: "Cover image for Dil Thikana Mere Husain Ka Hai"
 published: true
 romanLyrics: |-
   1

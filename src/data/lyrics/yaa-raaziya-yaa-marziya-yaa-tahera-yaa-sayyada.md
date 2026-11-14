@@ -8,8 +8,6 @@ kalamType: "Manqabat"
 tags: []
 aliases:
   - "Yaa Raaziya Yaa Marziya Yaa Tahera Yaa Sayyada"
-cover: "/images/lyrics/yaa-raaziya-yaa-marziya-yaa-tahera-yaa-sayyada.png"
-coverAlt: "Cover image for Yaa Raaziya Yaa Marziya Yaa Tahera Yaa Sayyada"
 published: true
 romanLyrics: |-
   Yaa Raaziya Yaa Marziya Yaa Tahera Yaa Sayyada

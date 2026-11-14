@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Aye Aun O Muhammad"
-cover: "/images/lyrics/aye-aun-o-muhammad.png"
-coverAlt: "Cover image for Ae Aun o Muhammad"
 published: true
 romanLyrics: |-
 

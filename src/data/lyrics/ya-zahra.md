@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Ya Zahra"
-cover: "/images/lyrics/ya-zahra.png"
-coverAlt: "Cover image for Ya Zahra"
 published: true
 romanLyrics: |-
   Ya Zahra Ya Zahra

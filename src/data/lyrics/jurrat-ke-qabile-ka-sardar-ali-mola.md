@@ -8,8 +8,6 @@ kalamType: "Manqabat"
 tags: []
 aliases:
   - "Jurrat Ke Qabile Ka Sardar Ali Mola"
-cover: "/images/lyrics/jurrat-ke-qabile-ka-sardar-ali-mola.png"
-coverAlt: "Cover image for Jurrat Ke Qabile Ka Sardar Ali Mola"
 published: true
 romanLyrics: |-
   Jurrat ke qabile ka sardar Ali Maula

@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Abbas Pani Lao"
-cover: "/images/lyrics/abbas-pani-lao.png"
-coverAlt: "Cover image for Abbas Pani Lao"
 published: true
 romanLyrics: |-
   Abbas Abbas Abbas pani lao

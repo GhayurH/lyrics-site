@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Aik Tehreer Uthaye, Boli Darbar Mein Aa Kar Zahra, Logon Mein Bint-E-Nabi Hoon"
-cover: "/images/lyrics/aik-tehreer-uthaye-boli-darbar-mein-aa-kar-zahra.png"
-coverAlt: "Cover image for Aik Tehrir Uthaye, Boli Darbar Meiṅ Aa Kar Zahra, Logoṅ Meiṅ Bint-e-Nabi Huṅ"
 published: true
 romanLyrics: |-
   Aik Tehrir Uthaye, Boli Darbar Meiṅ Aa Kar Zahra, Logoṅ Meiṅ Bint-e-Nabi Huṅ

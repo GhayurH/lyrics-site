@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Haaye Abbas Haaye Abbas Haaye Abbas"
-cover: "/images/lyrics/haaye-abbas-haaye-abbas-haaye-abbas.png"
-coverAlt: "Cover image for Haaye Abbas Haaye Abbas Haaye Abbas"
 published: true
 romanLyrics: |-
   Haaye Abbas haaye Abbas haaye Abbas

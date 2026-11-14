@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Royi Jab Laadli Muhammad Ki Sara Darbar Muskuraya Hai"
-cover: "/images/lyrics/royi-jab-laadli-muhammad-ki-sara-darbar-muskuraya-hai.png"
-coverAlt: "Cover image for Royi Jab Laadli Muhammad Ki Sara Darbar Muskuraya Hai"
 published: true
 romanLyrics: |-
   Royi Jab Laadli Muhammad Ki Sara Darbar Muskuraya Hai

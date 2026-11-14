@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Aa Asghar Bin Tere"
-cover: "/images/lyrics/aa-asghar-bin-tere.png"
-coverAlt: "Cover image for Aa Asghar Bin Tere"
 published: true
 romanLyrics: |-
   Aa Asghar bin tere, mai chayn kahaṅ se paauṅ

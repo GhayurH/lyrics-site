@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Rab De Hawale"
-cover: "/images/lyrics/rab-de-hawale.png"
-coverAlt: "Cover image for Rab De Hawale"
 published: true
 romanLyrics: |-
   Rab de hawale Rab de hawale

@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Bay Khata Mara Gaya Sibt-E-Rasool-E-Dosara, Wa Hasan-E-Sabz Qaba"
-cover: "/images/lyrics/bay-khata-mara-gaya-sibt-e-rasool-e-dosara.png"
-coverAlt: "Cover image for Bekhata Mara Gaya Sibt-e-Rasul-e-Dosara, Wa Hasan-e-Sabz Qaba"
 published: true
 romanLyrics: |-
   Bekhata Mara Gaya Sibt-e-Rasul Dusra, Wa Hasan-e-Sabz Qaba
