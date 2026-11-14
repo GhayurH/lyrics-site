@@ -10,22 +10,24 @@ This branch targets `feat/import-overlap-reconciliation-2026-11-05`, not publish
 | NoHayOnline | Bilingual drafts | 3 |
 | NoHayOnline | Roman-only drafts (false Roman-in-Urdu tracks removed) | 3 |
 | TajPoints/NoHayOnline | Existing duplicates/non-poetry excluded | 6 |
-| NohaWriteups, CSV `review-decisions-1.csv` | New, unpublished source drafts | 70 |
-| NohaWriteups | Additional source readings mapped to existing Markdown | 12 |
+| NohaWriteups, CSV `review-decisions-1.csv` | New, unpublished source drafts | 71 |
+| NohaWriteups | Additional source readings mapped to existing Markdown | 13 |
 | NohaWriteups | Repeated source captures mapped to a single retained Markdown | 9 |
 | NohaWriteups | User excluded “no lyrics” sources | 32 |
-| NohaWriteups | Broken historical extraction, requires further recovery | 2 |
+| NohaWriteups | Broken historical extraction, successfully recovered | 2 |
 
-The **109 source drafts initially created** from TajPoints/NoHayOnline included a **second extension file** for `Mili Rihaai To Abid`. That file was removed; its additional stanzas were merged into the original file. There are now **108 original new draft files**, plus **70 new NohaWriteups drafts** (**178 newly added lyric MD files** in this PR), alongside changes to previously existing editions.
+The **109 source drafts initially created** from TajPoints/NoHayOnline included a **second extension file** for `Mili Rihaai To Abid`. That file was removed; its additional stanzas were merged into the original file. There are now **108 original new draft files**, plus **71 new NohaWriteups drafts** (**179 newly added lyric MD files** in this PR), alongside changes to previously existing editions.
 
 - `audit/historical-tajpoints-nohayonline-staging.csv`: initial 109 source identities, with the extension source now linked to its original filename
 - `audit/nohawriteups-review-decisions-1-status.csv`: all 125 decisions, source checksums, and retained file paths
-- `audit/nohawriteups-review-decisions-1-prepared.json`: immutable review handoff used to create 70 unpublished MDs
+- `audit/nohawriteups-review-decisions-1-prepared.json`: original one-time review handoff used to create 70 unpublished MDs; the 71st was created after independent raw-HTML recovery
 - The import repository's `review/historical-dispositions.csv` and `review/historical-md-staging.csv`: processed exclusions vs still-pending editorial records
 
 ## Consolidated additions
 
 - **`src/data/lyrics/mili-rihaai-to-abid-ye-kaam-kar-ke-chale.md`:** Five new three-line stanzas from `tajpoints:7c0ac3f77a854cef0b86` are now included in the **same original bilingual file**, with Roman and Urdu stanza labels **1–9**. The redundant `mili-rehai-tu-abid-ye-kam-kar-ke-chaley-extended.md` no longer exists. The source's garbled line ending “Yehi Husain Alh Aslam Kar Ke Chale” and its provisional Urdu require independent editorial verification before final approval.
+- **`src/data/lyrics/masjide-kufa-hai.md`:** The recovered full Urdu verses from `nohawriteups:165979e899de5445d1f4` correspond to the canonical five-stanza bilingual edition. Their source checksum and URL are attached to the original Markdown; no duplicate created.
+- **`src/data/lyrics/aawaaz-do-baba-mujhe-aawaaz-do-baba.md`:** The previously truncated Roman fragment `nohawriteups:4458c1687bfc8ea1e3b1` was re-extracted from its immutable gzip source and added as one nine-stanza unpublished draft. The source's “mamloos” phrase remains flagged as uncertain.
 - **`src/data/lyrics/logo-main-zainab-haan-meri-yasrab-wich-toqeer.md`:** Both repeated NohaWriteups Panjabi-in-Urdu-script sources (`3ac54d3a10213d8713e6` and `ba12d1e166cc26867e93`) are consolidated with the original TajPoints Roman text. No second poem file; final audio alignment is still pending.
 - The already represented **`Tum Bin Raaton Se`**, **`Aa Ali Asghar`**, **`Aa Dekh Mere Ghazi`**, **`Aa Sunawaaṅ Shaan Teno`**, **`Aabad Hui Karbobala`**, **`Aao Baba Ko Rukhsat Karo`**, **`Abbas Teri Behno`**, **`Abbas Ka Jab Zikre`**, and **`Aati Hai Gardoon Se`** retain one canonical poem each, with newly linked NohaWriteups source IDs, URLs and hashes.
 
