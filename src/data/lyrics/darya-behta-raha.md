@@ -55,6 +55,10 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: ziyaraat:b31cc385d4ad69d5472b
 # source_url: https://www.ziyaraat.net/api/noha/1012
 # raw_sha256: e795cfb83521c7a2e53f8ec2c2f64e9015d748679720fa113b37755fec258bb1
+# additional_source_id: nohawriteups:0fe03368cd6fa7499d2f
+# additional_source_url: https://www.nohawriteups.org/darya-behta-raha/
+# additional_raw_sha256: f8095831fc8b54c1a6d67ae4691f19c3bf8345190e0c362710813a5e9ac25f5e
+# additional_source_note: All five source stanzas correspond to existing complete bilingual poem; the source repeats the refrain.
 ---
 
 اے وائے نہرِ علقمہ

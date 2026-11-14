@@ -88,6 +88,10 @@ romanLyrics: |-
 # source_id: nohayonline:522a2eb0eb507b6b706c
 # source_url: https://www.nohayonline.com/details_content.php?id=462
 # raw_sha256: 9cbbfc46ee2d41d7f5cf18845d8212ca102781e72cc19cfe8a16962433f90c4e
+# additional_source_id: nohawriteups:11a80d64ae04fe4a08f9
+# additional_source_url: https://www.nohawriteups.org/ajeeb-hai-dastane-gham/
+# additional_raw_sha256: 67a85e4f88c08554e3f60f420278c7ad85b331afbeeb25e579c6b2926157a84f
+# additional_source_note: All nine source stanzas represented in the canonical bilingual poem.
 ---
 عجیب ہے داستانِ غم عجیب ہے
 نبی کی عترت پہ یہ ستم عجیب ہے

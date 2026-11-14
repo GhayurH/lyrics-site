@@ -44,6 +44,10 @@ romanLyrics: |-
 # source_id: nohayonline:0716a8272df882dd29e3
 # source_url: https://www.nohayonline.com/details_content.php?id=150
 # raw_sha256: eb8224e2d698c9c34fec78b015510697c2dc36625444b1152fe7017d01c0a970
+# additional_source_id: nohawriteups:0dcefff848d914d9ae01
+# additional_source_url: https://www.nohawriteups.org/ay-bekafan-hussain-ghareebul-watan-hussain/
+# additional_raw_sha256: 5474cd73e12acbb83286e1196ff5085b00c448c1bc776921d8c775b35df78051
+# additional_source_note: All six source stanzas covered by existing bilingual file; conflicting readings already editorially flagged in canonical.
 ---
 اے بےکفن حسین غریب الوطن حسین
 
