@@ -1,93 +1,102 @@
 ---
-title: "تڑپ کر سید سجاد روے"
+title: "تڑپ کر سید سجاد روئے"
 alternateTitle: "Tadap Kar Sayyede"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Asif Bijnori"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Tadap kar sayyed e sajjad roye
-  Dafn karne ke liye laashe shaheedan e wafa
-  Karbala aaye ba aejaz e imamat maula
-  Chaar soo bikhre huwe tukdo ko jis dum dekha
+  Tadap kar Sayyed-e-Sajjad roye
+
+  Dafn karne ke liye laash-e-shahidaan-e-wafa
+  Karbala aaye ba aijaaz-e-imamat Maula
+  Chaar su bikhre hue tukroṅ ko jis dam dekha
   Phat gaya qalb o jigar zabt ka yaara na raha
-  Lehed mein laasha e abbas rakh kar
-  Nigahon mein tha ashoora ka manzar
-  Tadap kar sayyad e sajjad roye
+
+  Lahad mein laasha-e-Abbas rakh kar
+  Tadap kar Sayyed-e-Sajjad roye
+
+  Nigaahoṅ mein tha Aashura ka manzar
+  Tadap kar Sayyed-e-Sajjad roye
 
   1
-  Kabhi laashe ke tukde choomte thay
-  Kabhi abbas ka sar dhoondhte thay
-  Tan e besar ko seene se laga kar
+  Kabhi laashe ke tukre chumte the
+  Kabhi Abbas ka sar dhundte the
+  Tan-e-besar ko sine se laga kar
 
   2
-  Shikasta jism ke boseeda shaane
-  Uthaye kis tarha allah jaane
+  Shikasta jism ke bosida shaane
+  Uthaaye kis tarah Allah jaane
   Chala jab qalb par furqat ka khanjar
 
   3
-  Sitam fauj e sitamgar dhaa rahi hai
-  Sakina bhi tamache khaa rahi hai
-  Chacha abbas se ye baat keh kar
+  Sitam fauj-e-sitamgar dhaa rahi hai
+  Sakina bhi tamaanche khaa rahi hai
+  Chacha Abbas se ye baat keh kar
 
   4
-  Jidhar le jaa rahe hai jaa raha hoo
-  Musalsal taaziyane khaa raha hoo
-  Taras khaate nahi mujh par sitamgar
+  Jidhar le jaa rahe haiṅ jaa raha huṅ
+  Musalsal taaziyaane khaa raha huṅ
+  Taras khaate nahiṅ mujh par sitamgar
 
   5
-  Badan par zakhm jitne thay dikhaye
-  Huwe hai zulm kya kya sab bataye
-  Bataya hai phuphi amma khule sar
+  Badan par zakhm jitne the dikhaaye
+  Hue haiṅ zulm kya kya sab bataaye
+  Bataaya hai phuphi amma khule sar
 
   6
   Chacha ki laash ko ek aah bhar ke
-  Bahot roye supurd e khaak kar ke
-  Bahot choti si ek turbat bana kar
+  Bahut roye supurd-e-khaak kar ke
+  Bahut chhoti si ik turbat bana kar
 
   7
-  Mukammal hogaya jis dum dafeena
-  Kiya talqeen mein zikr e sakina
-  Bataya chin gaye kaano se gauhar
+  Mukammal ho gaya jis dam dafina
+  Kiya talqin mein zikr-e-Sakina
+  Bataaya chhin gaye kaanoṅ se gauhar
 
   8
   Kabhi darya kabhi turbat ko dekha
-  Kabhi nazdeek se ghurbat ko dekha
-  Sar e maqtal taraayi se palat kar
+  Kabhi nazdik se ghurbat ko dekha
+  Sar-e-maqtal taraai se palat kar
 
   9
-  Dua maango ye asif sidq e dil se
+  Dua maango ye Asif sidq-e-dil se
   Koi dushman bhi aise din na dekhe
-  Ke jaise shadman haathon ko mal kar
+  Ke jaise Shaadmaṅ haathoṅ ko mal kar
 # source_id: nohayonline:5cbdbaadd34674bdebff
 # source_url: https://www.nohayonline.com/details_content.php?id=2640
 # raw_sha256: a565889575de66dd4faadef1fd9442ea29755a3f640916e9838a96c6c2fcf9ac
 ---
-تڑپ کر سید سجاد روے
-دفن کرنے کے لئے لاش شہیدانِ وفا
-کربلا آے بہ اعجازِ امامت مولا
-چار سو بکھرے ہوے ٹکڑوں کو جس دم دیکھا
+تڑپ کر سید سجاد روئے
+
+دفن کرنے کے لئے لاشِ شہیدانِ وفا
+کربلا آئے بہ اعجازِ امامت مولا
+چار سو بکھرے ہوئے ٹکڑوں کو جس دم دیکھا
 پھٹ گیا قلب و جگر ضبط کا یارا نہ رہا
-لحد میں لاشہء عباس رکھ کر
-تڑپ کر سید سجاد روے
+
+لحد میں لاشۂ عباس رکھ کر
+تڑپ کر سید سجاد روئے
+
 نگاہوں میں تھا عاشورہ کا منظر
+تڑپ کر سید سجاد روئے
 
 ۱
 کبھی لاشے کے ٹکڑے چومتے تھے
 کبھی عباس کا سر ڈھونڈتے تھے
-تن بے سر کو سینے سے لگا کر
+تنِ بے سر کو سینے سے لگا کر
 
 ۲
 شکستہ جسم کے بوسیدہ شانے
-اٹھاے کس طرح اللّٰہ جانے
+اٹھائے کس طرح اللّٰہ جانے
 چلا جب قلب پر فرقت کا خنجر
 
 ۳
-ستم فوج ستمگر ڈھا رہی ہے
+ستم فوجِ ستمگر ڈھا رہی ہے
 سکینہ بھی طمانچے کھا رہی ہے
 چچا عباس سے یہ بات کہہ کر
 
@@ -97,26 +106,26 @@ romanLyrics: |-
 ترس کھاتے نہیں مجھ پر ستمگر
 
 ۵
-بدن پر زخم جتنے تھے دکھاے
-ہوے ہیں ظلم کیا کیا سب بتاے
+بدن پر زخم جتنے تھے دکھائے
+ہوئے ہیں ظلم کیا کیا سب بتائے
 بتایا ہے پھپھی اماں کھلے سر
 
 ۶
 چچا کی لاش کو ایک آہ بھر کے
-بہت روے سپرد خاک کر کے
+بہت روئے سپردِ خاک کر کے
 بہت چھوٹی سی اک تربت بنا کر
 
 ۷
 مکمل ہو گیا جس دم دفینہ
 کیا تلقین میں ذکرِ سکینہ
-بتایا چھن گےء کانوں سے گوہر
+بتایا چھن گئے کانوں سے گوہر
 
 ۸
 کبھی دریا کبھی تربت کو دیکھا
 کبھی نزدیک سے غربت کو دیکھا
-سر مقتل ترای سے پلٹ کر
+سرِ مقتل ترائی سے پلٹ کر
 
 ۹
-دعا مانگو یہ آصف صدق دل سے
-کوئی دشمن بھی ایسے دن‌ نہ دیکھے
+دعا مانگو یہ آصف صدقِ دل سے
+کوئی دشمن بھی ایسے دن نہ دیکھے
 کہ جیسے شادماں ہاتھوں کو مل کر

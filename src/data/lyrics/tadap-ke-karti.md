@@ -1,114 +1,117 @@
 ---
-title: "تھا کربلا میں عجب امتحان تیغ علی"
+title: "تھا کربلا میں عجب امتحانِ تیغِ علی"
 alternateTitle: "Tadap Ke Karti"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar"
+reciter: "Irfan Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Tha karbala mein ajab imtehane tayghe ali
-  Wo ek nanhi si mayyat wo jaan tayghe ali
-  Thi dard naak bahot dastane tayghe ali
-  Fazayein roti thi sunkar bayane tayghe ali
-  Haye zulfeqar haye zulfeqar
-  Tadap ke karti thi maqtal mein zulfeqar ye bain
-  Mai kaise khodun lehad ek bezuban ki hussain
+  Tha Karbala mein ajab imtehaan-e-tegh-e-Ali
+  Wo ik nanhi si mayyat wo jaan-e-tegh-e-Ali
+  Thi dardnaak bahut daastaan-e-tegh-e-Ali
+  Fazaaeṅ roti thi sun kar bayaan-e-tegh-e-Ali
+
+  Haaye Zulfiqar haaye Zulfiqar
+  Tadap ke karti thi maqtal mein Zulfiqar ye bain
+  Main kaise khoduṅ lahad ik bezabaaṅ ki Husain
 
   1
-  Duayein do meri himmat ko aazmate hue
-  Dikhayi dete hai mujhko rasool aate hue
-  Hassan ka haath hai qabze pe kapkapate hue
-  Batool dekh rahi hai lehad banate hue
+  Duaaeṅ do meri himmat ko aazmaate hue
+  Dikhaai dete haiṅ mujh ko Rasul aate hue
+  Hasan ka haath hai qabze pe kapkapaate hue
+  Batul dekh rahi hai lahad banaate hue
 
   2
-  Ye soch soch ke aankhon se khoon jaari hai
-  Ke jiski jhoole mein maine nazar utaari hai
-  Usi ki qabr banane ki zimmedari hai
-  Ye imtehan to badr o ohad se bhaari hai
+  Ye soch soch ke aankhoṅ se khun jaari hai
+  Ke jis ki jhule mein main ne nazar utaari hai
+  Usi ki qabr banaane ki zimmedaari hai
+  Ye imtehaan to Badr o Uhud se bhaari hai
 
   3
-  Mai aaj nanhi si turbat agar banaungi
-  Tamaam umr ye manzar bhula na paungi
-  Palat ke qaime mein maqtal se jab mai jaungi
-  To kaise maadare asghar ko mai moo dikaungi
+  Main aaj nanhi si turbat agar banaauṅgi
+  Tamaam umr ye manzar bhula na paauṅgi
+  Palat ke khaime mein maqtal se jab main jaauṅgi
+  To kaise maadar-e-Asghar ko main muṅh dikhaauṅgi
 
   4
-  Ghareeb maa ki amanat ko kho nahi sakti
-  Mai apne kaandhon pa ye bojh dho nahi sakti
-  Kisi ke aankh ke aansu piro nahi sakti
-  Mai maamta ka safina dubo nahi sakti
+  Gharib maaṅ ki amaanat ko kho nahiṅ sakti
+  Main apne kaandhoṅ pe ye bojh dho nahiṅ sakti
+  Kisi ke aankh ke aansu piro nahiṅ sakti
+  Main mamta ka safina dubo nahiṅ sakti
 
   5
-  Ye yaadgar hai ek beqaraar jhoole ki
-  Bula rahi hai tadap baar baar jhoole ki
-  Hai lakdiyon ko bahot intezar jhoole ki
-  Zameen ko saump doo kaise bahaar jhoole ki
+  Ye yaadgaar hai ik beqaraar jhule ki
+  Bula rahi hai tadap baar baar jhule ki
+  Hai lakriyoṅ ko bahut intezaar jhule ki
+  Zamiṅ ko sauṅp duṅ kaise bahaar jhule ki
 
   6
-  Zameen e garm hai aur bezuban ka laasha hai
-  Lahoo galay ka na baasho ka doodh sookha hai
-  Mere khuda ye mera imtehan kaisa hai
-  Usi ki qabr banaun jo mujhse khela hai
+  Zamin-e-garm hai aur bezabaan ka laasha hai
+  Lahu gale ka na baashoṅ ka dudh sukha hai
+  Mere Khuda ye mera imtehaan kaisa hai
+  Usi ki qabr banaauṅ jo mujh se khela hai
 
   7
-  Lehad banane ka asghar ki kaam mat saumpo
-  Sulagte dasht mein ye intezaam mat saumpo
-  Jahan e sabr ka mujhko nizam mat saumpo
-  Jawab deti hai himmat imam mat saumpo
+  Lahad banaane ka Asghar ki kaam mat sauṅpo
+  Sulagte dasht mein ye intezaam mat sauṅpo
+  Jahaan-e-sabr ka mujh ko nizaam mat sauṅpo
+  Jawaab deti hai himmat Imam mat sauṅpo
 
   8
-  Rakhe hai nauhe mein akhtar ne lafz chun chun ke
-  Kaleja phat'ta hai irfan sab ka sun sun ke
-  Jigar ke khoon se masayab ke khwaab bun bun ke
-  Malak bhi rone lage aasman pa sar dhun ke
+  Rakhe haiṅ nauhe mein Akhtar ne lafz chun chun ke
+  Kaleja phatta hai Irfan sab ka sun sun ke
+  Jigar ke khuṅ se masaaib ke khwaab bun bun ke
+  Malak bhi rone lage aasmaaṅ pe sar dhun ke
 # source_id: nohayonline:ce72fec4be2f2023cf3f
 # source_url: https://www.nohayonline.com/details_content.php?id=946
 # raw_sha256: eb0200c65c772ef96171101df45611d5f629308e1dfd0ebe67e2c32563e5d9ac
 ---
-تھا کربلا میں عجب امتحان تیغ علی
-وہ ای ننھی سی میت وہ جان تیغ علی
-تھی درد ناک بہت داستان تیغ علی
-فضایں روتی تھی سن کر بیان تیغ علی
-ہاے ذوالفقار ہاے ذوالفقار
+تھا کربلا میں عجب امتحانِ تیغِ علی
+وہ اک ننھی سی میت وہ جانِ تیغِ علی
+تھی درد ناک بہت داستانِ تیغِ علی
+فضائیں روتی تھی سن کر بیانِ تیغِ علی
+
+ہائے ذوالفقار ہائے ذوالفقار
 تڑپ کے کرتی تھی مقتل میں ذوالفقار یہ بین
 میں کیسے کھودوں لحد اک بے زباں کی حسین
 
 ۱
 دعائیں دو میری ہمت کو آزماتے ہوئے
-دکھای دیتے ہیں مجھکو رسول آتے ہوئے
+دکھائی دیتے ہیں مجھ کو رسول آتے ہوئے
 حسن کا ہاتھ ہے قبضے پہ کپکپاتے ہوئے
 بتول دیکھ رہی ہے لحد بناتے ہوئے
 
 ۲
-یہ سونچ سونچ کے آنکھوں سے خون جاری ہے
+یہ سوچ سوچ کے آنکھوں سے خون جاری ہے
 کہ جس کی جھولے میں میں نے نظر اتاری ہے
 اسی کی قبر بنانے کی ذمہ داری ہے
 یہ امتحان تو بدر و احد سے بھاری ہے
 
 ۳
-میں آج ننھی سی تربت اگر بناؤنگی
+میں آج ننھی سی تربت اگر بناؤں گی
 تمام عمر یہ منظر بھلا نہ پاؤں گی
 پلٹ کے خیمے میں مقتل سے جب میں جاؤں گی
-تو کیسے مادر اصغر کو میں منہ دکھاؤں گی
+تو کیسے مادرِ اصغر کو میں منہ دکھاؤں گی
 
 ۴
 غریب ماں کی امانت کو کھو نہیں سکتی
 میں اپنے کاندھوں پہ یہ بوجھ ڈھو نہیں سکتی
-کسی کے آنکھ کے آنسوں پرو نہیں سکتی
+کسی کے آنکھ کے آنسو پرو نہیں سکتی
 میں مامتا کا سفینہ ڈبو نہیں سکتی
 
 ۵
-یہ یادگار ہے اک بیقرار جھولے کی
+یہ یادگار ہے اک بے قرار جھولے کی
 بلا رہی ہے تڑپ بار بار جھولے کی
-ہے لڑکیوں کو بہت انتظار جھولے کی
+ہے لکڑیوں کو بہت انتظار جھولے کی
 زمیں کو سونپ دوں کیسے بہار جھولے کی
 
 ۶
-زمین گرم ہے اور بے زبان کا لاشہ ہے
+زمینِ گرم ہے اور بے زبان کا لاشہ ہے
 لہو گلے کا نہ باشوں کا دودھ سوکھا ہے
 میرے خدا یہ میرا امتحان کیسا ہے
 اسی کی قبر بناؤں جو مجھ سے کھیلا ہے
@@ -116,11 +119,11 @@ romanLyrics: |-
 ۷
 لحد بنانے کا اصغر کی کام مت سونپو
 سلگتے دشت میں یہ انتظام مت سونپو
-جہان صبر کا مجھکو نظام مت سونپو
+جہانِ صبر کا مجھ کو نظام مت سونپو
 جواب دیتی ہے ہمت امام مت سونپو
 
 ۸
 رکھے ہیں نوحے میں اختر نے لفظ چن چن کے
 کلیجہ پھٹتا ہے عرفان سب کا سن سن کے
-جگر کے خوں سے مصایب کے خواب بن بن کے
+جگر کے خوں سے مصائب کے خواب بن بن کے
 ملک بھی رونے لگے آسماں پہ سر دھن کے
