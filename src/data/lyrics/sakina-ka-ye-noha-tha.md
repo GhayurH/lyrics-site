@@ -5,44 +5,45 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Baswari Anjuman"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sakina ka ye nauha tha mere bhaiya chale aao
-  Bahot zaalim hai ye aada mere bhaiya chale aao
+  Sakina ka ye noha tha mere bhaiya chale aao
+  Bahut zaalim hai ye aada mere bhaiya chale aao
 
   1
-  Tumhari muntazir hoon jab se tum ran ko sidhaare ho
-  Nigahon pe na ab rasta mere bhaiya chale aao
+  Tumhaari muntazir huṅ jab se tum ran ko sidhaare ho
+  Nigaahoṅ pe na ab rasta mere bhaiya chale aao
 
   2
-  Ridayein chin chuki hum lut chuke jalne lage qaime
+  Ridaaeṅ chhin chuki ham lut chuke jalne lage khaime
   Ye manzar dekhne bhaiya mere bhaiya chale aao
 
   3
-  Tumhare jaise kamsin raat ko baahar nahi jaate
-  Hai kitna ran mein sannata mere bhaiya chale aao
+  Tumhaare jaise kamsin raat ko baahar nahiṅ jaate
+  Hai kitna ran mein sannaata mere bhaiya chale aao
 
   4
-  Taras khaa kar to mere dushmano ne pani bheja hai
-  Piyun mai kis tarha tanha mere bhaiya chale aao
+  Taras khaa kar to mere dushmanoṅ ne paani bheja hai
+  Piyuṅ main kis tarah tanha mere bhaiya chale aao
 
   5
-  Phupi ka ab tadapna mujhse to dekha nahi jaata
+  Phuphi ka ab tarapna mujh se to dekha nahiṅ jaata
   Mera ye maan lo kehna mere bhaiya chale aao
 
   6
-  Liye jaate hai aada qaid kar ke shaam ki jaanib
-  Mai jaaungi nahi tanha mere bhaiya chale aao
+  Liye jaate haiṅ aada qaid kar ke Shaam ki jaanib
+  Main jaauṅ gi nahiṅ tanha mere bhaiya chale aao
 
   7
-  Ali akbar ne lad ke khoon armaano ka kar daala
-  Dikha doon ab tumhe sehra mere bhaiya chale aao
+  Ali Akbar ne lar ke khuṅ armaanoṅ ka kar daala
+  Dikha duṅ ab tumheṅ sehra mere bhaiya chale aao
 
   8
-  Andhera cha raha hai aa rahi hai raat ki kaali
-  Zaroori hogaya aana mere bhaiya chale aao
+  Andhera chhaa raha hai aa rahi hai raat ki kaali
+  Zaruri ho gaya aana mere bhaiya chale aao
 # source_id: nohayonline:505082588a47652ca64f
 # source_url: https://www.nohayonline.com/details_content.php?id=2935
 # raw_sha256: 440211914dd07d50dc83da4cfa610393caa51da8b9942e830d92313a7c5f84c1
@@ -55,7 +56,7 @@ romanLyrics: |-
 نگاہوں پہ نہ اب رستہ میرے بھیا چلے آؤ
 
 ۲
-رداییں چھن چکی ہم لٹ چکے جلنے لگے خیمے
+ردائیں چھن چکی ہم لٹ چکے جلنے لگے خیمے
 یہ منظر دیکھنے بھیا میرے بھیا چلے آؤ
 
 ۳
@@ -63,7 +64,7 @@ romanLyrics: |-
 ہے کتنا رن میں سناٹا میرے بھیا چلے آؤ
 
 ۴
-ترس کھا کر تو میرے دشمنوں نے پانی بھیج ہے
+ترس کھا کر تو میرے دشمنوں نے پانی بھیجا ہے
 پیوں میں کس طرح تنہا میرے بھیا چلے آؤ
 
 ۵
@@ -71,7 +72,7 @@ romanLyrics: |-
 میرا یہ مان لو کہنا میرے بھیا چلے آؤ
 
 ۶
-لیےء جاتے ہیں اعدا قید کر کے شام کی جانب
+لیے جاتے ہیں اعدا قید کر کے شام کی جانب
 میں جاؤں گی نہیں تنہا میرے بھیا چلے آؤ
 
 ۷

@@ -1,104 +1,103 @@
 ---
-title: "زنداں میں جبکہ دختر شبیر مر گیء"
+title: "زنداں میں جبکہ دخترِ شبیر مر گئی"
 alternateTitle: "Sakina Ka Shaana"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zindan may jab ke dukhtare shabbir mar gayi
-  Baazu hila ke bano e nashaad ne kaha
+  Zindaaṅ mein jabke dukhtar-e-Shabbir mar gayi
+  Baazu hila ke Bano-e-Naashaad ne kaha
+  Bibi padar ke sar se uthaao to sar zara
+  Baateṅ abhi to karti thi aaṅsu baha baha
+  Saakit hai nabz haaye ghazab sard dast o paa
+  Muṅh dekhte hi zist ka naqsha badal gaya
+  Kis waqt saaṅs ruk gayi kab dam nikal gaya
+
+  Maaṅ Sakina ka shaana hilaati rahi
 
   1
-  Bibi padar ke sar se uthao to sar zara
-  Baatein abhi to karti thi aansu baha baha
-  Saakit hai nabz haye ghazab sard dast o paa
-  Moo dekhte hi zeest ka naksha badal gaya
+  Maut bachchi ko lori sunaati rahi
+  Maaṅ Sakina ka shaana hilaati rahi
 
   2
-  Kis waqt saans ruk gayi kab dam nikal gaya
-  Maa sakina ka shaana hilaati rahi
-  Maut bacchi ko lori sunaati rahi
-  Maa sakina ka shaana hilaati rahi
+  Ab na kholegi aaṅkheṅ yatima kabhi
+  Jaanti hai Sakina ko nind aa gayi
+  Phir bhi taqdir ko aazmaati rahi
 
   3
-  Ab na kholegi aankhein yateema kabhi
-  Jaanti hai sakina ko neendh aagayi
-  Phir bhi taqdeer ko aazmati rahi
+  Beyaqini ki hai kaifiyat kis qadar
+  Sochti hai ke baaqi hai jaan se magar
+  Zindagi apna daaman chhuraati rahi
 
   4
-  Be yaqeeni ki hai kaifiyat kis qadar
-  Sochti hai kai baaqi hai jaan se magar
-  Zindagi apna daaman chudaati rahi
+  Paani laaye kahaaṅ se wo us ke liye
+  Tashna lab hai Sakina khabar hai use
+  Pyaase hoṅtoṅ pe aaṅsu giraati rahi
 
   5
-  Pani laaye kahan se wo us ke liye
-  Tashna lab hai sakina khabar hai usay
-  Pyase honton pe aansu giraati rahi
+  Apni godi mein mayyat uthaaye hue
+  Maujize ki umideṅ lagaaye hue
+  Sayyida ki kahaani sunaati rahi
 
   6
-  Apni godhi may mayyat uthaye huwe
-  Maujize ki umeedein lagaye huwe
-  Sayedda ki kahani sunaati rahi
+  Ro rahi thi zamiṅ ro raha tha falak
+  Waqt-e-Talqin se waqt-e-tadfin tak
+  Minnateṅ kar ke us ko uthaati rahi
 
   7
-  Ro rahi thi zameen ro raha tha falak
-  Waqte talqeen se waqte tadfeen tak
-  Minnatein kar ke us ko uthaati rahi
-
-  8
-  Thi takallum wo ghurbat ki kaisi ghadi
-  Jab andhere may bacchi ki mayyat uthi
-  Qabr nanhi si zainab banaati rahi
+  Thi Takallum wo ghurbat ki kaisi ghari
+  Jab andhere mein bachchi ki mayyat uthi
+  Qabr nanhi si Zainab banaati rahi
 # source_id: nohayonline:5a30d6f32d3496283d1e
 # source_url: https://www.nohayonline.com/details_content.php?id=2407
 # raw_sha256: 8334800ca9f3db78a6609bafe1149f9b304e96758007898d96a6590905248720
 ---
-زنداں میں جبکہ دختر شبیر مر گیء
-بازو ہلا کے بانوے ناشاد نے کہا
+زنداں میں جبکہ دخترِ شبیر مر گئی
+بازو ہلا کے بانوئے ناشاد نے کہا
+بی‌بی پدر کے سر سے اٹھاؤ تو سر ذرا
+باتیں ابھی تو کرتی تھی آنسو بہا بہا
+ساکت ہے نبض ہائے غضب سرد دست و پا
+منہ دیکھتے ہی زیست کا نقشہ بدل گیا
+کس وقت سانس رک گئی کب دم نکل گیا
+
+ماں سکینہ کا شانہ ہلاتی رہی
 
 ۱
-بی بی پدر کے سر سے اٹھاؤ تو سر زرا
-باتیں ابھی تو کرتی تھی آنسوں بہا بہا
-ساکت ہے نبض ہاے غضب سرد دست و پا
-منہ دیکھتے ہی زیست کا نقشہ بدل گیا
-
-۲
-کس وقت سانس رک گیء کب نکل گیا
-ماں سکینہ کا شانہ ہلاتی رہی
 موت بچی کو لوری سناتی رہی
 ماں سکینہ کا شانہ ہلاتی رہی
 
-۳
+۲
 اب نہ کھولے گی آنکھیں یتیمہ کبھی
-جانتی ہے سکینہ کو نیند آ گیء
+جانتی ہے سکینہ کو نیند آ گئی
 پھر بھی تقدیر کو آزماتی رہی
 
-۴
+۳
 بے یقینی کی ہے کیفیت کس قدر
 سوچتی ہے کہ باقی ہے جان سے مگر
 زندگی اپنا دامن چھڑاتی رہی
 
-۵
-پانی لاے کہاں سے وہ اس کے لیےء
+۴
+پانی لائے کہاں سے وہ اس کے لیے
 تشنہ لب ہے سکینہ خبر ہے اسے
-پیاسے ہونٹوں پہ آنسوں گراتی رہی
+پیاسے ہونٹوں پہ آنسو گراتی رہی
 
-۶
-اپنی گودی میں میت اٹھاے ہوے
-معجزے کی امیدیں لگاے ہوے
+۵
+اپنی گودی میں میت اٹھائے ہوئے
+معجزے کی امیدیں لگائے ہوئے
 سیدہ کی کہانی سناتی رہی
 
-۷
+۶
 رو رہی تھی زمیں رو رہا تھا فلک
-وقتِ تلقین سے وقت تدفین تک
+وقتِ تلقین سے وقتِ تدفین تک
 منتیں کر کے اس کو اٹھاتی رہی
 
-۸
+۷
 تھی تکلم وہ غربت کی کیسی گھڑی
 جب اندھیرے میں بچی کی میت اٹھی
 قبر ننھی سی زینب بناتی رہی

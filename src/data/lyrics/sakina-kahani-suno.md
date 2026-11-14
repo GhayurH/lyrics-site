@@ -6,201 +6,170 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Siyah raat may zindan ke dar pe ro ro ke
+  Siyaah raat mein zindaaṅ ke dar pe ro ro ke
   Sakina kehti hai baba ye shab sataati hai
+  Judaai aap ki us par ye khaak ka bistar
+  Kahiṅ andhere mein bachchoṅ ko nind aati hai
+  Ye sun ke Zainab-e-Mazlum boli gham na karo
+  Kahaani kehti huṅ main ik suno Sakina suno
+  Sakina kahaani suno Sakina kahaani suno
 
   1
-  Judaai aap ki us par ye khaak ka bistar
-  Kahin andhere may bachon ko neend aati hai
-  Ye sun ke zainab e mazloom boli gham na karo
-  Kahani kehti hoo may ek suno sakina suno
+  Ik shahanshaah tha Yasrab mein raha karta tha
+  Us ka ghar wo tha ke Quraan jahaaṅ utra tha
+  Dar pe Jibril sa darbaan raha karta tha
+  Us ka aaṅgan bhi sitaaroṅ se bhara rehta tha
+  Us ke darwaaze se khaali na koi jaata tha
+  Aasmaaṅ us ki sakhaawat ki qasam khaata tha
 
   2
-  Sakina kahani suno sakina kahani suno
-  Ek shahanshah tha yasrab may raha karta tha
-  Us ka ghar wo tha ke quran jahan utra tha
-  Dar pe jibreel sa darbaan raha karta tha
+  Us ke baba ko dar-e-ilm kaha jaata tha
+  Maaṅ ne shahzaadi-e-kaunain laqab paaya tha
+  Us ke betoṅ mein nazar aks-e-Nabi aata tha
+  Betiyoṅ ko gul-e-paakiza kaha jaata tha
+  Us ke ik bhaai ki rag rag mein wafa behti thi
+  Ik behan saath mein saaye ki tarah rehti thi
 
   3
-  Uska aangan bhi sitaron se bhara rehta tha
-  Uske darwaze se khaali na koi jaata tha
-  Aasman us ki sakhawat ki qasam khaata tha
+  Ek din kya hua wo ghar se safar par nikla
+  Us ka sab kunba bhi Quraaṅ ki hifaazat ko chala
+  Ashqiya ne use phir dasht-e-bala mein ghera
+  Tin din tak use paani bhi mayassar na hua
+  Ho gayi aam har ek jaur o jafa us ke liye
+  Aur phir jang ka maidaan saja us ke liye
 
   4
-  Uske baba ko dar e ilm kaha jaata tha
-  Maa ne shahzadi e kaunain laqab paaya tha
-  Uske beton may nazar aks e nabi aata tha
-  Betiyon ko gul e pakeeza kaha jaata tha
+  Us ke ik bete ke sine mein sinaaṅ tut gayi
+  Bhaai ke haath kate tir laga mashk chhidi
+  Laash paamaal bhatije ki bhi maqtal mein hui
+  Bezabaaṅ qatl hua us ka chhuri us pe chali
+  Us shahanshaah ke kunbe pe gharibi chhaai
+  Bujh gaye saare diye Shaam-e-Gharibaaṅ aayi
 
   5
-  Uske ek bhai ki rag rag may wafa behti thi
-  Ek bahan saath may saaye ki tarha rehti thi
-  Ek din kya hua wo ghar se safar par nikla
+  Khaime jalne lage nazdik sitamgar aaye
+  Us shahanshaah ki bachchi ne tamaanche khaaye
+  Kaan zakhmi hue khuṅ aaṅkhoṅ se tapka haaye
+  Dhundne baap ko maqtal mein wo kaise jaaye
+  Jalte daaman ko liye ganj-e-shahidaaṅ mein gayi
+  Rassi gardan mein bandhi Shaam ke zindaaṅ mein gayi
 
   6
-  Uska sab kunba bhi quran ki hifazat ko chala
-  Ashkiyan ne usay phir dashte bala may ghera
-  Teen din tak usay pani bhi mayassar na hua
-  Ho gayi aam har ek jor o jafa us ke liye
+  Phir Sakina ne kaha rehte haiṅ wo log kahaaṅ
+  Boli Zainab ke hue sab wo asir-e-zindaaṅ
+  Qissa aakhir hua nind aayi na tum ko meri jaaṅ
+  Boli ro ro ke Sakina phuphi ab nind kahaaṅ
+  Tum to kehti thi kahaani suno nind aati hai
+  Is kahaani se meri nind uri jaati hai
 
   7
-  Aur phir jang ka maidan saja us ke liye
-  Uske ek bete ke seene may sina toot gayi
-  Bhai ke haath kate teer laga mashk chidi
+  Boli ro ro ke Sakina ye mera qissa hai
+  Is kahaani ka shahanshaah mera baba hai
+  Neza jis ke laga sine mein mera bhaiya hai
+  Mera Asghar hai lainoṅ ne jise maara hai
+  Berida tum ho phuphi jaan meri jaati hai
+  Ye kahaani to mere ghar ki nazar aati hai
 
   8
-  Laash pamaal bhatije ki bhi maqtal may hui
-  Bezaban qatl hua uska churi us pe chali
-  Us shehanshah ke kunbe pe ghareebi chayi
-  Bujh gaye saare diye shaam e ghariban aayi
+  Jis ko sine pe shahanshaah ke nind aati thi
+  Dasht mein haaye chacha keh ke wo chillaati thi
+  Jis ke kaanoṅ se lahu behta tha jo pyaasi thi
+  Apne baba ki judaai mein mari jaati thi
+  Us shahanshaah ki beti wo Sakina main huṅ
+  Jis ka dushwaar hua qaid mein jina main huṅ
 
   9
-  Qaime jalne lage nazdeek sitamgar aaye
-  Us shahenshah ki bachi ne tamache khaye
-  Kaan zakhmi huwe khoon aankhon se tapka haye
-
-  10
-  Dhoondne baap ko maqtal may wo kaise jaaye
-  Jalte daaman ko liye ganje shaheedan may gayi
-  Rassi gardan may bandhi shaam ke zindan may gayi
-
-  11
-  Phir sakina ne kaha rehte hai wo log kahan
-  Boli zainab ke huwe sab wo aseer e zindan
-  Qissa aakhir hua neend aayi na tumko meri jaan
-  Boli ro ro ke sakina phuphi ab neend kahan
-
-  12
-  Tum to kehti thi kahani suno neend aati hai
-  Is kahani se meri neend udi jaati hai
-  Boli ro ro ke sakina ye mera qissa hai
-
-  13
-  Is kahani ka shahenshah mera baba hai
-  Naiza jiske laga seene may mera bhaiya hai
-  Mera asghar hai layeeno ne jise maara hai
-  Berida tum ho phuphi jaan meri jaati hai
-
-  14
-  Ye kahani to mere ghar ki nazar aati hai
-  Jisko seene pe shahenshah ke neend aati thi
-  Dasht may haye chacha keh ke jo chillati thi
-
-  15
-  Jiske kaano se lahoo behta tha jo pyasi thi
-  Apne baba ki judaai may mari jaati thi
-  Us shahenshah ki beti wo sakina mai hoo
-  Jis ka dushwar hua qaid may jeena mai hoo
-
-  16
-  Khatm jab sarwar o rehaan kahani ye hui
-  Wo jo sunti thi kahani wo sakina na rahi
-  Thaame zanjeer nakaahast se utha ek qaidi
-
-  17
-  Ek nanhi si lehad kaampte haathon se bani
-  Sar shahenshah ka godhi may lahoo rota tha
-  Wa hussaina ka bas ek shor bapa hota tha
+  Khatm jab Sarwar o Rehaan kahaani ye hui
+  Wo jo sunti thi kahaani wo Sakina na rahi
+  Thaame zanjir naqaahat se utha ik qaidi
+  Ek nanhi si lahad kaaṅpte haathoṅ se bani
+  Sar shahanshaah ka godi mein lahu rota tha
+  Wa Husaina ka bas ik shor bapa hota tha
 # source_id: nohayonline:64a740c3994e8f12f3c3
 # source_url: https://www.nohayonline.com/details_content.php?id=2056
 # raw_sha256: 56754f3f0cdfd90aea2320d1733e001f59e3c36124cc6804575449f439a19009
 ---
 سیاہ رات میں زنداں کے در پہ رو رو کے
 سکینہ کہتی ہے بابا یہ شب ستاتی ہے
-
-۱
 جدائی آپ کی اس پر یہ خاک کا بستر
 کہیں اندھیرے میں بچوں کو نیند آتی ہے
-یہ سن کے زینب مظلوم بولی نہ کرو
+یہ سن کے زینبِ مظلوم بولی غم نہ کرو
 کہانی کہتی ہوں میں اک سنو سکینہ سنو
-
-۲
 سکینہ کہانی سنو سکینہ کہانی سنو
+
+۱
 اک شہنشاہ تھا یثرب میں رہا کرتا تھا
 اس کا گھر وہ تھا کہ قرآن جہاں اترا تھا
 در پہ جبریل سا دربان رہا کرتا تھا
+اس کا آنگن بھی ستاروں سے بھرا رہتا تھا
+اس کے دروازے سے خالی نہ کوئی جاتا تھا
+آسماں اس کی سخاوت کی قسم کھاتا تھا
+
+۲
+اس کے بابا کو درِ علم کہا جاتا تھا
+ماں نے شہزادیِ کونین لقب پایا تھا
+اس کے بیٹوں میں نظر عکسِ نبی آتا تھا
+بیٹیوں کو گلِ پاکیزہ کہا جاتا تھا
+اس کے اک بھائی کی رگ رگ میں وفا بہتی تھی
+اک بہن ساتھ میں سائے کی طرح رہتی تھی
 
 ۳
-اس کا آنگن بھی ستاروں سے بھرا رہتا تھا
-اسکے دروازے سے خالی نہ کوئی جاتا تھا
-آسماں اسکی سخاوت کی قسم کھاتا تھا
-
-۴
-اسکے بابا کو در علم کہا جاتا تھا
-ماں نے شہزادیء کونین لقب پایا تھا
-اسکے بیٹوں میں نظر عکس نبی آتا تھا
-بیٹیوں کو گل پاکیزہ کہا جاتا تھا
-
-۵
-اسکے اک بھای کی رگ رگ میں وفا بہتی تھی
-اک بہن ساتھ میں ساے کی طرح رہتی تھی
 ایک دن کیا ہوا وہ گھر سے سفر پر نکلا
-
-۶
 اس کا سب کنبہ بھی قرآں کی حفاظت کو چلا
 اشقیاء نے اسے پھر دشتِ بلا میں گھیرا
 تین دن تک اسے پانی بھی میسر نہ ہوا
-ہو گیء عام ہر ایک جور و جفا اسکے لیۓ
+ہو گئی عام ہر ایک جور و جفا اس کے لیے
+اور پھر جنگ کا میدان سجا اس کے لیے
 
-۷
-اور پھر جنگ کا میدان سجا اس کے لئے
-اس کے اک بیٹے کے سینے میں سناں ٹوٹ گیء
-بھای کے ہاتھ کٹے تیر لگا مشک چھدی
-
-۸
-لاش پامال بھتیجے کی بھی مقتل میں ہوی
+۴
+اس کے اک بیٹے کے سینے میں سناں ٹوٹ گئی
+بھائی کے ہاتھ کٹے تیر لگا مشک چھدی
+لاش پامال بھتیجے کی بھی مقتل میں ہوئی
 بے زباں قتل ہوا اس کا چھری اس پہ چلی
-اس شہنشاہ کے کنبے پہ غریبی چھای
-بجھ گےء سارے دیےء شام غریباں آی
+اس شہنشاہ کے کنبے پہ غریبی چھائی
+بجھ گئے سارے دیے شامِ غریباں آئی
 
-۹
-خیمے جلنے لگے نزدیک ستمگر آے
-اس شہنشاہ کی بچی نے طمانچے کھاے
-کان زخمی ہوے خوں آنکھوں سے ٹپکا ہاے
+۵
+خیمے جلنے لگے نزدیک ستمگر آئے
+اس شہنشاہ کی بچی نے طمانچے کھائے
+کان زخمی ہوئے خوں آنکھوں سے ٹپکا ہائے
+ڈھونڈنے باپ کو مقتل میں وہ کیسے جائے
+جلتے دامن کو لیے گنجِ شہیداں میں گئی
+رسی گردن میں بندھی شام کے زنداں میں گئی
 
-۱۰
-ڈھونڈنے باپ کو مقتل میں وہ کیسے جاے
-جلتے دامن کو لیےء گنج شہیداں میں گیء
-رسی گردن میں بندھی شام کے زنداں میں گیء
-
-۱۱
+۶
 پھر سکینہ نے کہا رہتے ہیں وہ لوگ کہاں
-بولی زینب کے ہوے سب وہ اسیر زنداں
-قصہ آخر ہوا نیند آی نہ تم کو میری جاں
+بولی زینب کہ ہوئے سب وہ اسیرِ زنداں
+قصہ آخر ہوا نیند آئی نہ تم کو میری جاں
 بولی رو رو کے سکینہ پھپھی اب نیند کہاں
-
-۱۲
 تم تو کہتی تھی کہانی سنو نیند آتی ہے
 اس کہانی سے میری نیند اڑی جاتی ہے
-بولی رو رو کے سکینہ یہ میرا قصہ ہے
 
-۱۳
+۷
+بولی رو رو کے سکینہ یہ میرا قصہ ہے
 اس کہانی کا شہنشاہ میرا بابا ہے
 نیزہ جس کے لگا سینے میں میرا بھیا ہے
 میرا اصغر ہے لعینوں نے جسے مارا ہے
 بے ردا تم ہو پھپھی جان میری جاتی ہے
-
-۱۴
 یہ کہانی تو میرے گھر کی نظر آتی ہے
-جس کو سینے پہ شہنشاہ کے نیند آتی تھی
-دشت میں ہاے چچا کہہ کے وہ چلاتی تھی
 
-۱۵
+۸
+جس کو سینے پہ شہنشاہ کے نیند آتی تھی
+دشت میں ہائے چچا کہہ کے وہ چلاتی تھی
 جس کے کانوں سے لہو بہتا تھا جو پیاسی تھی
 اپنے بابا کی جدائی میں مری جاتی تھی
 اس شہنشاہ کی بیٹی وہ سکینہ میں ہوں
 جس کا دشوار ہوا قید میں جینا میں ہوں
 
-۱۶
-ختم جب سرور و ریحان کہانی یہ ہوی
+۹
+ختم جب سرور و ریحان کہانی یہ ہوئی
 وہ جو سنتی تھی کہانی وہ سکینہ نہ رہی
 تھامے زنجیر نقاہت سے اٹھا اک قیدی
-
-۱۷
 ایک ننھی سی لحد کانپتے ہاتھوں سے بنی
 سر شہنشاہ کا گودی میں لہو روتا تھا
 وا حسینا کا بس اک شور بپا ہوتا تھا
