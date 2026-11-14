@@ -5,52 +5,53 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Shaam haye shaam
   Teri ummat ke zevar pehan ke
-  Dekho nana chali hoo mai shaam
+  Dekho nana chali huṅ main Shaam
   
   1
-  Mai deti kafan tujhko bhaiya
+  Main deti kafan tujh ko bhaiya
   Gar sar pe rida meri hoti
-  Gar hotay khule haath mere
-  Tere zakhmo ko haaton se dhoti
-  Pabande rasan sar barehna
-  Dekho bhaiya chali hoo mai shaam
+  Gar hote khule haath mere
+  Tere zakhmoṅ ko haathoṅ se dhoti
+  Paaband-e-rasan sar barehna
+  Dekho bhaiya chali huṅ main Shaam
   
   2
-  Ay nana mai kaise sunaon
-  Darbare shaqi ka wo manzar
-  Sab qari o hafiz thay baithe
-  Aur sar pe mere na thi chadar
-  Ay nana teri betiyon ko
-  Kyun laaye hai sar nange aam
+  Ae nana main kaise sunaauṅ
+  Darbaar-e-shaqi ka wo manzar
+  Sab qaari o haafiz the baithe
+  Aur sar pe mere na thi chaadar
+  Ae nana teri betiyoṅ ko
+  Kiuṅ laaye hai sar nange aam
   
   3
-  Tere abid pe taari ghashi thi
-  Aur kulsoom sehmi khadi thi
-  Kabhi dekhun mai zakhmi sakina
-  Jiske daaman may aag lagi thi
-  Kabhi ro'un mai apni rida ko
-  Kabhi dekhun mai jalte qayaam
+  Tere Aabid pe taari ghashi thi
+  Aur Kulsum sehmi khari thi
+  Kabhi dekhuṅ main zakhmi Sakina
+  Jis ke daaman mein aag lagi thi
+  Kabhi rouṅ main apni rida ko
+  Kabhi dekhuṅ main jalte khiyaam
   
   4
-  Tere bachon ko le kar gayi mai
-  Shab bhar saari roti rahi hoo
-  Kabhi ghazi ka lehja badal ke
-  Mai pehre bhi deti rahi hoo
-  In bewa bahu betiyon se
-  Kyo karte nahi ho kalaam
+  Tere bachchoṅ ko le kar gayi main
+  Shab bhar saari roti rahi huṅ
+  Kabhi Ghazi ka lehja badal ke
+  Main pehre bhi deti rahi huṅ
+  In bewa bahu betiyoṅ se
+  Kiuṅ karte nahiṅ ho kalaam
   
   5
-  Jab roti thi bali sakina
+  Jab roti thi baali Sakina
   Aur baba ko apne bulaati
-  Mai deti thi usko tasalli
-  Aur seene pe apne sulaati
-  Roothi zindan may masoom bachi
+  Main deti thi us ko tasalli
+  Aur sine pe apne sulaati
+  Ruthi zindaan mein maasum bachchi
   Le le ke wo baba ka naam
 # source_id: nohayonline:418a9030114db6f80c46
 # source_url: https://www.nohayonline.com/details_content.php?id=605
@@ -66,10 +67,10 @@ romanLyrics: |-
 گر ہوتے کھُلے ہاتھ میرے
 تیرے زخموں کو ہاتھوں سے دھوتی
 پابندِ رسَن سر برہنہ
-دیکھو بھّیاچلی ہوں میں شام
+دیکھو بھّیا چلی ہوں میں شام
 
 ۲
-اے نانا میں کیسے سُنائوں
+اے نانا میں کیسے سناؤں
 دربارِ شقی کا وہ منظر
 سب قاری و حافظ تھے بیٹھے
 اور سر پہ میرے نہ تھی چادر
@@ -81,7 +82,7 @@ romanLyrics: |-
 اور کلثوم سہمی کھڑی تھی
 کبھی دیکھوں میں زخمی سکینہ
 جس کے دامن میں آگ لگی تھی
-کبھی روئوں میں اپنی رِدا کو
+کبھی روؤں میں اپنی رِدا کو
 کبھی دیکھوں میں جلتے خیام
 
 ۴
