@@ -5,47 +5,48 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Bikhre pade hai laashe sehra lahoo lahoo hai
-  Dashte bala mein sheh ka sajda lahoo lahoo hai
+  Bikhre pare haiṅ laashe sehra lahu lahu hai
+  Dasht-e-bala mein Shah ka sajda lahu lahu hai
 
   1
-  Lashkar yazeediyon ka qaime jala raha hai
-  Mehboobe kibriya ka wo dil dukha raha hai
-  Insaniyat ka dekho chehra lahoo lahoo hai
+  Lashkar Yazidiyoṅ ka khaime jala raha hai
+  Mehbub-e-Kibriya ka wo dil dukha raha hai
+  Insaaniyat ka dekho chehra lahu lahu hai
 
   2
-  Shehzadiyan falak ki qaidi bani hui hai
-  Aur chadarein saron se inke chini hui hai
-  Ba-parda bibiyon ka parda lahoo lahoo hai
+  Shahzaadiyaaṅ falak ki qaidi bani hui hai
+  Aur chaadareṅ saroṅ se in ke chhini hui hai
+  Ba parda Bibiyoṅ ka parda lahu lahu hai
 
   3
-  Jis dam kate thay baazu abbase ba-haya ke
-  Mashk o alam lahoo mein doobe thay bawafa ke
-  Pyason ki tishnagi par darya lahoo lahoo hai
+  Jis dam kate the baazu Abbaas ba haya ke
+  Mashk o alam lahu mein dube the ba wafa ke
+  Pyaasoṅ ki tishnagi par darya lahu lahu hai
 
   4
   Ek shab ki jo byaahi deti rahi duhaai
-  Kaisi khushi mili jo ek pal na raas aayi
-  Qasim ka haye ran mein sehra lahoo lahoo hai
+  Kaisi khushi mili jo ik pal na raas aai
+  Qasim ka haaye ran mein sehra lahu lahu hai
 
   5
-  Jab ran mein aaye hyder har bibi thi hazeena
-  Kehti thi dada jaan se ro ro ke ye sakina
-  Chipka hua badan se kurta lahoo lahoo hai
+  Jab ran mein aae Haidar har Bibi thi hazina
+  Kehti thi dada jaaṅ se ro ro ke ye Sakina
+  Chipka hua badan se kurta lahu lahu hai
 
   6
-  Ye cheekhti fazayein deti hai ye sadayein
-  Hai khaak o khoon ki sar par sadaat ke ridayein
-  Aulaad e mustafa ka rutba lahoo lahoo hai
+  Ye chikhti fizaaeṅ deti hai ye sadaaeṅ
+  Hai khaak o khuṅ ki sar par saadat ke ridaaeṅ
+  Aulaad Mustafa ka rutba lahu lahu hai
 
   7
-  Dushwaar raaste hai manzil kathan hai saari
-  Zakhmon se natawan ke taaza lahoo hai jaari
-  Karbal se shaam tak ka rasta lahoo lahoo hai
+  Dushwaar raaste haiṅ manzil kathan hai saari
+  Zakhmoṅ se naatawaaṅ ke taaza lahu hai jaari
+  Karbal se Shaam tak ka rasta lahu lahu hai
 # source_id: nohayonline:b9745ab15820ca31541b
 # source_url: https://www.nohayonline.com/details_content.php?id=2634
 # raw_sha256: 1822506ccb893a881d53193b71a33159c5e0bf27e3d0f8596e27edb1c156a43d
@@ -59,9 +60,9 @@ romanLyrics: |-
 انسانیت کا دیکھو چہرہ لہو لہو ہے
 
 ۲
-شہزادیاں فلک کی قیدی بنی ہوی ہے
-اور چادریں سروں سے انکے چھنی ہوی ہے
-با پردہ بی بیوں کا پردہ لہو لہو ہے
+شہزادیاں فلک کی قیدی بنی ہوئی ہے
+اور چادریں سروں سے ان کے چھنی ہوئی ہے
+با پردہ بی‌بیوں کا پردہ لہو لہو ہے
 
 ۳
 جس دم کٹے تھے بازو عباس با حیا کے
@@ -70,17 +71,17 @@ romanLyrics: |-
 
 ۴
 ایک شب کی جو بیاہی دیتی رہی دہائی
-کیسی خوشی ملی جو اک پل نہ راس آی
-قاسم کا ہاے رن میں صحرا لہو لہو ہے
+کیسی خوشی ملی جو اک پل نہ راس آئی
+قاسم کا ہائے رن میں صحرا لہو لہو ہے
 
 ۵
-جب رن میں آے حیدر ہر بی بی تھی حزینہ
+جب رن میں آئے حیدر ہر بی‌بی تھی حزینہ
 کہتی تھی دادا جاں سے رو رو کے یہ سکینہ
 چپکا ہوا بدن سے کرتہ لہو لہو ہے
 
 ۶
-یہ چیختی فضائیں دیتی ہے یہ صداییں
-ہے خاک و خوں کی سر پر سادات کے رداییں
+یہ چیختی فضائیں دیتی ہے یہ صدائیں
+ہے خاک و خوں کی سر پر سادات کے ردائیں
 اولاد مصطفیٰ کا رتبہ لہو لہو ہے
 
 ۷
