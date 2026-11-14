@@ -6,9 +6,10 @@ This branch targets `feat/import-overlap-reconciliation-2026-11-05`, not publish
 
 | Historical source batch | Outcome | Records |
 | --- | --- | ---: |
-| TajPoints | Roman-only source drafts | 103 |
+| TajPoints | Roman-only newly added drafts | 101 |
 | NoHayOnline | Bilingual drafts | 3 |
 | NoHayOnline | Roman-only drafts (false Roman-in-Urdu tracks removed) | 3 |
+| TajPoints | Sources consolidated into existing bilingual editions | 2 |
 | TajPoints/NoHayOnline | Existing duplicates/non-poetry excluded | 6 |
 | NohaWriteups, CSV `review-decisions-1.csv` | New, unpublished source drafts | 71 |
 | NohaWriteups | Additional source readings mapped to existing Markdown | 13 |
@@ -16,7 +17,7 @@ This branch targets `feat/import-overlap-reconciliation-2026-11-05`, not publish
 | NohaWriteups | User excluded “no lyrics” sources | 32 |
 | NohaWriteups | Broken historical extraction, successfully recovered | 2 |
 
-The **109 source drafts initially created** from TajPoints/NoHayOnline included a **second extension file** for `Mili Rihaai To Abid`. That file was removed; its additional stanzas were merged into the original file. There are now **108 original new draft files**, plus **71 new NohaWriteups drafts** (**179 newly added lyric MD files** in this PR), alongside changes to previously existing editions.
+The **109 TajPoints/NoHayOnline source-to-file staging records** included two sources already represented by canonical bilingual Markdown: the redundant `Mili Rihaai` extension file was removed and its new stanzas were merged; the accidental replacement of the existing `Ghazi Tere Baad` edition was reversed and its TajPoints source linked instead. There are now **107 newly added TajPoints/NoHayOnline lyric files** (101 + 6) and **71 new NohaWriteups drafts**: **178 newly added lyric MD files** in this PR, plus in-place updates to reviewed existing editions.
 
 - `audit/historical-tajpoints-nohayonline-staging.csv`: initial 109 source identities, with the extension source now linked to its original filename
 - `audit/nohawriteups-review-decisions-1-status.csv`: all 125 decisions, source checksums, and retained file paths
@@ -25,6 +26,7 @@ The **109 source drafts initially created** from TajPoints/NoHayOnline included 
 
 ## Consolidated additions
 
+- **`src/data/lyrics/ghazi-tere-baad.md`:** The full vetted Urdu/Roman five-stanza edition was restored after its accidental replacement by a TajPoints Roman draft. The TajPoints source `a267e031f3ec6d147510` contains no extra substantive stanza; its original ID, URL and checksum are now recorded on the canonical file without creating a second file.
 - **`src/data/lyrics/mili-rihaai-to-abid-ye-kaam-kar-ke-chale.md`:** Five new three-line stanzas from `tajpoints:7c0ac3f77a854cef0b86` are now included in the **same original bilingual file**, with Roman and Urdu stanza labels **1–9**. The redundant `mili-rehai-tu-abid-ye-kam-kar-ke-chaley-extended.md` no longer exists. The source's garbled line ending “Yehi Husain Alh Aslam Kar Ke Chale” and its provisional Urdu require independent editorial verification before final approval.
 - **`src/data/lyrics/masjide-kufa-hai.md`:** The recovered full Urdu verses from `nohawriteups:165979e899de5445d1f4` correspond to the canonical five-stanza bilingual edition. Their source checksum and URL are attached to the original Markdown; no duplicate created.
 - **`src/data/lyrics/aawaaz-do-baba-mujhe-aawaaz-do-baba.md`:** The previously truncated Roman fragment `nohawriteups:4458c1687bfc8ea1e3b1` was re-extracted from its immutable gzip source and added as one nine-stanza unpublished draft. The source's “mamloos” phrase remains flagged as uncertain.
