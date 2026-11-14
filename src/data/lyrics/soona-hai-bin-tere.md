@@ -1,51 +1,56 @@
 ---
 title: "اصغر ہو تم کہاں بھیا ہو تم کہاں"
-alternateTitle: "Soona Hai Bin Tere"
+alternateTitle: "Suna Hai Bin Tere"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Haider Khursheed"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
-aliases: []
+aliases: ["Soona Hai Bin Tere"]
 published: false
 romanLyrics: |-
-  Asghar ho tum kahan bhaiya ho tum kahan
-  Soona hai bin tere ye jahan ye jahan asghar
-  Mai tapti rayt mein dhoondun tumhe kahan
+  Asghar ho tum kahaaṅ bhaiya ho tum kahaaṅ
+  Suna hai bin tere ye jahaaṅ ye jahaaṅ Asghar
+
+  Main tapti ret mein dhunduṅ tumheṅ kahaaṅ
+  Suna hai bin tere ye jahaaṅ ye jahaaṅ Asghar
 
   1
-  Na misl teri koi dekhi hai tasveer e ali
-  Tere hi dam se ye islam ki mushkil hai tali
-  Deene ahmed ko tera yaad hai ehsaan asghar
+  Na misl teri koi dekhi hai tasvir-e-Ali
+  Tere hi dam se ye Islam ki mushkil hai tali
+  Din-e-Ahmad ko tera yaad hai ehsaan Asghar
 
   2
-  Bin tere kaise piye pani ye hamsheer teri
-  Mujhko pani mein nazar aati hai tasveer teri
-  Bhulaun kaise mai sookhi teri zaban asghar
+  Bin tere kaise piye paani ye hamshir teri
+  Mujh ko paani mein nazar aati hai tasvir teri
+  Bhulaauṅ kaise main sukhi teri zabaaṅ Asghar
 
   3
-  Loriyan di na tujhe godh mein khilaya nahi
-  Jhoola jee bhar ke teri behan ne jhulaya nahi
-  Huwe na poore mere dil ke ye armaan asghar
+  Loriyaaṅ di na tujhe god mein khilaaya nahiṅ
+  Jhula ji bhar ke teri bahan ne jhulaaya nahiṅ
+  Hue na pure mere dil ke ye armaaṅ Asghar
 
   4
-  Sun ke hal min ki sada jhoole se gir jaana tera
-  Haathon pe baba ke seh pehlu teer khaana tera
-  Kar gaya saare zamane ko tu hairaan asghar
+  Sun ke hal min ki sada jhule se gir jaana tera
+  Haathoṅ pe baba ke seh pahlu tir khaana tera
+  Kar gaya saare zamaane ko tu hairaaṅ Asghar
 
   5
-  Tere khursheed ko ek pal na chain aata hai
-  Haye wo pyasa gala tera yaad aata hai
-  Tu has ke tod gaya hurmal ki hai kamaan asghar
+  Tere Khurshid ko ek pal na chain aata hai
+  Haae wo pyaasa gala tera yaad aata hai
+  Tu hans ke tor gaya Hurmala ki hai kamaaṅ Asghar
 # source_id: nohayonline:f846d4b1956e8e3bd346
 # source_url: https://www.nohayonline.com/details_content.php?id=2789
 # raw_sha256: 1219dc030e8d900e9342b36041b91a7d7fcedee192bf06eda6154745caa43c25
 ---
 
 اصغر ہو تم کہاں بھیا ہو تم کہاں
-سونا ہے بن تیرے یہ جہاں یہ جہاں اصغر
+سُونا ہے بن تیرے یہ جہاں یہ جہاں اصغر
+
 میں تپتی ریت میں ڈھونڈوں تمہیں کہاں
+سُونا ہے بن تیرے یہ جہاں یہ جہاں اصغر
 
 ۱
 نہ مثل تیری کوئی دیکھی ہے تصویر علی
@@ -53,21 +58,21 @@ romanLyrics: |-
 دین احمد کو تیرا یاد ہے احسان اصغر
 
 ۲
-بن تیرے کیسے پیےء پانی یہ ہمشیر تیری
-مجھکو پانی میں نظر آتی ہے تصویر تیری
+بن تیرے کیسے پیے پانی یہ ہمشیر تیری
+مجھ کو پانی میں نظر آتی ہے تصویر تیری
 بھلاؤں کیسے میں سوکھی تیری زباں اصغر
 
 ۳
 لوریاں دی نہ تجھے گود میں کھلایا نہیں
 جھولا جی بھر کے تیری بہن نے جھلایا نہیں
-ہوے نہ پورے میرے دل کے یہ ارماں اصغر
+ہوئے نہ پورے میرے دل کے یہ ارماں اصغر
 
 ۴
-سن کے ھل من کی صدا جھولے سے گر جانا تیرا
-ہاتھوں پہ بابا کے سہہ پہلو تیر کھانا تیرا
+سن کے ہل من کی صدا جھولے سے گر جانا تیرا
+ہاتھوں پہ بابا کے سہ پہلو تیر کھانا تیرا
 کر گیا سارے زمانے کو تو حیراں اصغر
 
 ۵
 تیرے خورشید کو ایک پل نہ چین آتا ہے
-ہاے وہ پیاسا گلا تیرا یاد آتا ہے
+ہائے وہ پیاسا گلا تیرا یاد آتا ہے
 تو ہنس کے توڑ گیا حرملہ کی ہے کماں اصغر

@@ -1,63 +1,66 @@
 ---
 title: "اے ماں کے لاڈلے بابا کے سہارے"
-alternateTitle: "Sookha Gala Asghar"
+alternateTitle: "Sukha Gala Asghar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
-aliases: []
+aliases: ["Sookha Gala Asghar"]
 published: false
 romanLyrics: |-
-  Ay maa ke laadle baba ke sahare
-  Behno ke dulaare ay cheh mahine wale
-  Teer se aise chida sookha gala asghar ka
-  Moo khula reh gaya khoon behta raha asghar ka
+  Ae maaṅ ke laadle baba ke sahaare
+  Bahnoṅ ke dulaare ae chhe mahine waale
+
+  Tir se aise chhida sukha gala Asghar ka
+  Munh khula rah gaya khuṅ bahta raha Asghar ka
 
   1
-  Teer jab khayncha to moo phayr liya rote huwe
-  Zakhm shabbir se dekha na gaya asghar ka
+  Tir jab khencha to munh pher liya rote hue
+  Zakhm Shabbir se dekha na gaya Asghar ka
 
   2
-  Aasman kaamp gaya aur zameen rone lagi
-  Baap ne chehre pe jab khoon mala asghar ka
+  Aasmaaṅ kaanp gaya aur zamiṅ rone lagi
+  Baap ne chehre pe jab khun mala Asghar ka
 
   3
-  Pusht ke chaalon se tarr hone lagi jalti zameen
-  Shaah ne qabr may jab laasha rakha asghar ka
+  Pusht ke chhaaloṅ se tar hone lagi jalti zamiṅ
+  Shah ne qabr mein jab laasha rakha Asghar ka
 
   4
-  Teer ke baad lehad may usay naiza maara
-  Qatl ek roz may do baar hua asghar ka
+  Tir ke baad lahad mein use neza maara
+  Qatl ek roz mein do baar hua Asghar ka
 
   5
-  Saat baar aage badhay peeche hatay sheh lekin
-  Laasha qaimon may na le jaaya gaya asghar ka
+  Saat baar aage barhe pichhe hate Shah lekin
+  Laasha khaimoṅ mein na le jaaya gaya Asghar ka
 
   6
-  Khaycha naize se badan aur zameen par rakh kar
-  Has ke zaalim ne gala kaat liya asghar ka
+  Khencha neze se badan aur zamiṅ par rakh kar
+  Hans ke zaalim ne gala kaat liya Asghar ka
 
   7
-  Ek khilone ki tarha khela uchaala phaynka
-  Shaam ke bachon ko sar jab bhi mila asghar ka
+  Ek khilaune ki tarah khela uchhaala phenka
+  Shaam ke bachchoṅ ko sar jab bhi mila Asghar ka
 
   8
-  Kaise zeeshan bayan koi kare pyaas uski
-  Khushk lab hogaye jab naam liya asghar ka
+  Kaise Zeeshan bayaaṅ koi kare pyaas us ki
+  Khushk lab ho gaye jab naam liya Asghar ka
 # source_id: nohayonline:1b6c8b96454a3e1fe01c
 # source_url: https://www.nohayonline.com/details_content.php?id=2420
 # raw_sha256: dd7943ef58d5385e9c3a917dbff709ab6f8306fb9526a1c68c71fd61f69b7252
 ---
 اے ماں کے لاڈلے بابا کے سہارے
 بہنوں کے دُلارے اے چھ مہینے والے
+
 تیر سے ایسے چھدا سوکھا گلا اصغر کا
 منہ کھلا رہ گیا خوں بہتا رہا اصغر کا
 
 ۱
 تیر جب کھینچا تو منہ پھیر لیا روتے ہوئے
-زخم شبیر سے دیکھا نا گیا اصغر کا
+زخم شبیر سے دیکھا نہ گیا اصغر کا
 
 ۲
 آسماں کانپ گیا اور زمیں رونے لگی
@@ -69,11 +72,11 @@ romanLyrics: |-
 
 ۴
 تیر کے بعد لحد میں اُسے نیزا مارا
-قتل اک روز میں دو بار اصغر کا
+قتل اک روز میں دو بار ہوا اصغر کا
 
 ۵
-ساتھ بار آگے بڑھے پیچے ہٹے شہہ لیکن
-لاشہ خیموں میں نا لے جایا گیا اصغر کا
+سات بار آگے بڑھے پیچھے ہٹے شہ لیکن
+لاشہ خیموں میں نہ لے جایا گیا اصغر کا
 
 ۶
 کھینچا نیزے سے بدن اور زمیں پر رکھ کر

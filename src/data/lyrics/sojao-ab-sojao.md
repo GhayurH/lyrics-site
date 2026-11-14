@@ -5,66 +5,67 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sojao ab sojao pyase asghar sojao
-  Ro ro kar na tadpao pyare asghar sojao
+  Sojao ab sojao pyaase Asghar sojao
+  Ro ro kar na tarpaao pyaare Asghar sojao
 
   1
-  Maa ka dil hai ab bismil
-  Doob raha hai mera dil
-  Dil ko sukoon hoga haasil
+  Maaṅ ka dil hai ab bismil
+  Dub raha hai mera dil
+  Dil ko sukun hoga haasil
   Beta tum gar sojao
 
   2
-  Haste haste hai jeena
-  Mera kab hoga seena
-  Baap ke seene par beta
+  Hanste hanste hai jina
+  Mera kab hoga sina
+  Baap ke sine par beta
   Rakh kar tum sar sojao
 
   3
   Nusrat ko tum jaoge
   Laut ke ghar na aaoge
-  Kab tak tum tadpaoge
+  Kab tak tum tarpaaoge
   Chain se dilbar sojao
 
   4
-  Khaak ka bistar hoga wahan
-  Maa ka seena hoga kahan
-  Aate hai ab shaahe zaman
-  Qalb e sarwar sojao
+  Khaak ka bistar hoga wahaaṅ
+  Maaṅ ka sina hoga kahaaṅ
+  Aate hai ab Shah-e-zaman
+  Qalb-e-Sarwar sojao
 
   5
-  Kaamp rahi hai karbobala
+  Kaanp rahi hai Karb o Bala
   Roti hai teri behna
-  Dhoonte tum ko ay beta
+  Dhundte tum ko ae beta
   Aaya lashkar sojao
 
   6
   Maqtal mein jurrat dekhi
-  Bacchon mein himmat dekhi
+  Bachchoṅ mein himmat dekhi
   Mayyat par mayyat dekhi
-  Maa hai muztar sojao
+  Maaṅ hai muztar sojao
 
   7
-  Ahle haram aur maa teri
-  Saath sakina hogi meri
-  Maa hai beta kokh jali
+  Ahl-e-haram aur maaṅ teri
+  Saath Sakina hogi meri
+  Maaṅ hai beta kokh jali
   Hogi khule sar sojao
 
   8
-  Kaisa jeena hai jeena
+  Kaisa jina hai jina
   Sab ko rulaata hai rona
-  Sabir tum ho ay beta
+  Saabir tum ho ae beta
   Lori sun kar sojao
 # source_id: nohayonline:7db43fd6e817fb2e66dc
 # source_url: https://www.nohayonline.com/details_content.php?id=3265
 # raw_sha256: ecd0ca0d3d1730901ffcd679df226d6766f02a0ba93a34ccc9c6743b7e24b5f7
 ---
 سو جاؤ اب سو جاؤ پیاسے اصغر سو جاؤ
-رو رو کر نہ تڑپاو پیارے اصغر سو جاؤ
+رو رو کر نہ تڑپاؤ پیارے اصغر سو جاؤ
 
 ۱
 ماں کا دل ہے اب بسمل
@@ -81,7 +82,7 @@ romanLyrics: |-
 ۳
 نصرت کو تم جاؤ گے
 لوٹ کے گھر نہ آؤ گے
-کب تک تڑپاو گے
+کب تک تم تڑپاؤ گے
 چین سے دلبر سو جاؤ
 
 ۴
@@ -103,9 +104,9 @@ romanLyrics: |-
 ماں ہے مضطر سو جاؤ
 
 ۷
-أہل حرم اور ماں تیری
+اہل حرم اور ماں تیری
 ساتھ سکینہ ہوگی میری
-ماں ہے بیٹا کوک جلی
+ماں ہے بیٹا کوکھ جلی
 ہوگی کھلے سر سو جاؤ
 
 ۸

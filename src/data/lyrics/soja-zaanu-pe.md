@@ -6,53 +6,62 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Maa pasay shaam e gham ye pukari
-  Ab kahan sheh ka seena hai pyari
-  Soja zaanu pe soja sakina
+  Maaṅ pas-e-shaam-e-gham ye pukaari
+  Ab kahaaṅ Shah ka sina hai pyaari
+  Soja zaanu pe soja Sakina
 
   1
-  Khaak par tum ko sone na dungi
-  Saans jab tak mai leti rahungi
-  Go ke ujdi hai godhi hamari
+  Khaak par tum ko sone na duṅgi
+  Saaṅs jab tak main leti rahuṅgi
+  Go ke ujri hai godi hamaari
+  Soja zaanu pe soja Sakina
 
   2
   Aaj ki raat bhaari hai tum par
-  Bin padar shab ye guzregi kyun kar
-  Ab tamache hai qismat tumhari
+  Bin padar shab ye guzregi kiuṅ kar
+  Ab tamaanche hai qismat tumhaari
+  Soja zaanu pe soja Sakina
 
   3
-  Aag daaman ki aao bujhadun
-  Sookhe honton pe aansu giradun
+  Aag daaman ki aao bujha do
+  Sukhe hontoṅ pe aansuṅ gira do
   Pyaas se hai ghashi tum pe taari
+  Soja zaanu pe soja Sakina
 
   4
-  Hote abbas to ye tha mumkin
-  Unke parcham talay kaat'ti din
-  Ab to har shab hai taygh e do dhaari
+  Hote Abbas to ye tha mumkin
+  Unke parcham tale kaatti din
+  Ab to har shab hai tegh-e-do dhaari
+  Soja zaanu pe soja Sakina
 
   5
-  Reesma tum ko sone na degi
-  Misle khanjar galay may chubegi
-  Khoon bhi hoga kaano se jaari
+  Rismaaṅ tum ko sone na degi
+  Misl-e-khanjar gale mein chubhegi
+  Khun bhi hoga kaanoṅ se jaari
+  Soja zaanu pe soja Sakina
 
   6
-  Tum jo so'ogi zaanu pe mere
-  Lams paaungi mai bezuban ke
-  Mai to asghar ke sadme se haari
+  Tum jo soogi zaanu pe mere
+  Lams paauṅgi main bezubaaṅ ke
+  Main to Asghar ke sadme se haari
+  Soja zaanu pe soja Sakina
 
   7
-  Chain paaogi pehlu e jad may
-  Aaj ke baad sona lehad may
-  Aakhri hai ye khidmat hamari
+  Chain paaogi pahlu-e-jad mein
+  Aaj ke baad sona lahad mein
+  Aakhri hai ye khidmat hamaari
+  Soja zaanu pe soja Sakina
 
   8
-  Pad sakoonga raza kaise nauha
-  Ye to rehaan ka hausla tha
+  Parh sakuṅga Raza kaise nauha
+  Ye to Rehaan ka hausla tha
   Nauha lab se qalam ke hai jaari
+  Soja zaanu pe soja Sakina
 # source_id: nohayonline:721130ed2b574349b685
 # source_url: https://www.nohayonline.com/details_content.php?id=1830
 # raw_sha256: 83aa944c3c238eba8e6faaff50d94f1bf02a38842c01c6129c4b81589d00b607
@@ -66,38 +75,46 @@ romanLyrics: |-
 خاک پر تم کو سونے نہ دونگی
 سانس جب تک میں لیتی رہوں گی
 گو کے اجڑی ہے گودی ہماری
+سوجا زانوں پہ سوجا سکینہ
 
 ۲
 آج کی رات بھاری ہے تم پر
 بن پدر شب یہ گزرے گی کیوں کر
 اب طمانچے ہے قسمت تمہاری
+سوجا زانوں پہ سوجا سکینہ
 
 ۳
 آگ دامن کی آؤ بجھادو
 سوکھے ہونٹوں پہ آنسوں گرادو
 پیاس سے ہے غشی تم پہ طاری
+سوجا زانوں پہ سوجا سکینہ
 
 ۴
 ہوتے عباس تو یہ تھا ممکن
 انکے پرچم تلے کاٹتی دن
 اب تو ہر شب ہے تیغ دو دھاری
+سوجا زانوں پہ سوجا سکینہ
 
 ۵
 ریسماں تم کو سونے نہ دیگی
 مثل خنجر گلے میں چبھے گی
 خون بھی ہوگا کانوں سے جاری
+سوجا زانوں پہ سوجا سکینہ
 
 ۶
 تم جو سوو گی زانوں پہ میرے
 لمس پاؤں گی میں بے زباں کے
 میں تو اصغر کے صدمے سے ہاری
+سوجا زانوں پہ سوجا سکینہ
 
 ۷
 چین پاؤ گی پہلوے جد میں
 آج کے بعد سونا لحد میں
 آخری ہے یہ خدمت ہماری
+سوجا زانوں پہ سوجا سکینہ
 
 ۸
 پڑھ سکونگا رضا کیسے نوحہ
 یہ تو ریحان کا حوصلہ تھا
 نوحہ لب سے قلم کے ہے جاری
+سوجا زانوں پہ سوجا سکینہ
