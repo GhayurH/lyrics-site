@@ -161,7 +161,8 @@ export function renderWork(work: HTMLElement, item: RecitationItem, index: numbe
     originalBastaEdition(urdu, poem.basta!, "urdu", hasScan);
     originalBastaEdition(roman, poem.basta!, "roman", hasScan);
   } else {
-    addLyricText(urdu, poem.urdu, false, poem.sixVerseLayout);
+    if (poem.urdu) addLyricText(urdu, poem.urdu, false, poem.sixVerseLayout);
+    else urdu.append(node("p", "recite-empty-edition", "Urdu is not available for this kalam."));
     if (poem.roman) addLyricText(roman, poem.roman, true, poem.sixVerseLayout);
     else roman.append(node("p", "recite-empty-edition", romanUnavailable("kalam", hasScan)));
   }
