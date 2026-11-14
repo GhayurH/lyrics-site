@@ -6,41 +6,57 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Afzal Hussain Najfi"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haay hussain
-  Ro rahi hai aaj tak shabbir khak-e-karbala
-  Go mualla mei huwi, afsos tu zibha huwa
-  
+  Haaye Husain
+  Ro rahi hai aaj tak Shabbir khaak-e-Karbala
+  Go mualla mein hui afsos tu zibha hua
+  Ro rahi hai aaj tak Shabbir khaak-e-Karbala
+
   1
-  Jab chupaaya mene daman, mei tere besheer ko
-  Zaalimon ne nezon se, seena mera chalni kiya
-  
+  Jab chhupaaya main ne daaman mein tere beshir ko
+  Zaalimoṅ ne naizoṅ se sina mera chhalni kiya
+  Go mualla mein hui afsos tu zibha hua
+  Ro rahi hai aaj tak Shabbir khaak-e-Karbala
+
   2
-  Thartharayi khoob peeti, aur rowi khoob thi
-  Hassan ki bewa ke armaanon ka chehra jab luta
-  
+  Thar tharaai khub piti aur roi khub thi
+  Hasan ki bewa ke armaanoṅ ka sehra jab luta
+  Go mualla mein hui afsos tu zibha hua
+  Ro rahi hai aaj tak Shabbir khaak-e-Karbala
+
   3
-  Rubaru mere huwe the, ambhiyaa par zulm bhi
-  Lasha-e-Akbar tarapta, mujhe se na dekha gaya
-  
+  Rubaru mere hue the ambiya par zulm bhi
+  Laasha-e-Akbar tarapta mujh se na dekha gaya
+  Go mualla mein hui afsos tu zibha hua
+  Ro rahi hai aaj tak Shabbir khaak-e-Karbala
+
   4
-  Bachon ko ye aas di ke, chacha paani laayenga
-  Pani ka na pohnchna ghazi ke dil ko khaa gaya
-  
+  Bachchoṅ ko ye aas thi ke chacha paani laaeṅge
+  Paani ka na pahunchna Ghaazi ke dil ko khaa gaya
+  Go mualla mein hui afsos tu zibha hua
+  Ro rahi hai aaj tak Shabbir khaak-e-Karbala
+
   5
-  Go mei parda ban gayi thi, waris-e-tatheer ka
-  Khaak sar Zainab mei ya rab waqt kaisa aagaya
-  
+  Go main parda ban gai thi waaris-e-tathir ka
+  Khaak sar Zainab mein ya rab waqt kaisa aa gaya
+  Go mualla mein hui afsos tu zibha hua
+  Ro rahi hai aaj tak Shabbir khaak-e-Karbala
+
   6
-  Lasha-e-Aun-o-Muhammad, par koi waris na tha
-  Sabr Zainab dekh kar, mun ko kaleja aagaya
-  
+  Laasha-e-Aun o Muhammad par koi waaris na tha
+  Sabr-e-Zainab dekh kar muṅh ko kaleja aa gaya
+  Go mualla mein hui afsos tu zibha hua
+  Ro rahi hai aaj tak Shabbir khaak-e-Karbala
+
   7
-  Munkir-e-sajda-e-Adam, hoke shaytaan hogaya
-  Sajda-e-Shabbir "Najafi" azmat-e-yazdaan huwa
+  Munkir-e-sajda-e-Aadam ho ke Shaitaan ho gaya
+  Sajda-e-Shabbir Najfi azmat-e-Yazdaaṅ hua
+  Go mualla mein hui afsos tu zibha hua
+  Ro rahi hai aaj tak Shabbir khaak-e-Karbala
 # source_id: nohayonline:06df598f40805cf731ec
 # source_url: https://www.nohayonline.com/details_content.php?id=2299
 # raw_sha256: b72b40af584a104ef873c75e5a56d5527e5a1943a80da63abb59687d327bd77a
@@ -48,33 +64,49 @@ romanLyrics: |-
 # source_url: https://www.ziyaraat.net/api/noha/141
 # raw_sha256: 7261da6537788f6545cc7b2b71ceb2c5db9fe46a64514e98a8b43f89f92a86b0
 ---
+ہائے حسین
 رو رہی ہے آج تک شبیر خاک کربلا
-گو معلیٰ میں ہوی افسوس تو ذبح ہوا
+گو معلیٰ میں ہوئی افسوس تو ذبح ہوا
+رو رہی ہے آج تک شبیر خاک کربلا
 
 ۱
 جب چھپایا میں نے دامن میں تیرے بے شیر کو
 ظالموں نے نیزوں سے سینہ میرا چھلنی کیا
+گو معلیٰ میں ہوئی افسوس تو ذبح ہوا
+رو رہی ہے آج تک شبیر خاک کربلا
 
 ۲
-تھر تھرای خوب پیٹی اور روی خوب تھی
+تھر تھرائی خوب پیٹی اور روئی خوب تھی
 حسن کی بیوہ کے ارمانوں کا سہرا جب لٹا
+گو معلیٰ میں ہوئی افسوس تو ذبح ہوا
+رو رہی ہے آج تک شبیر خاک کربلا
 
 ۳
-روبرو میرے ہوے تھے انبیاء پر ظلم بھی
-لاشہء اکبر تڑپتا مجھ سے نہ دیکھا گیا
+روبرو میرے ہوئے تھے انبیاء پر ظلم بھی
+لاشۂ اکبر تڑپتا مجھ سے نہ دیکھا گیا
+گو معلیٰ میں ہوئی افسوس تو ذبح ہوا
+رو رہی ہے آج تک شبیر خاک کربلا
 
 ۴
-بچوں کو یہ آس تھی کہ چچا پانی لاینگے
+بچوں کو یہ آس تھی کہ چچا پانی لائیں گے
 پانی کا نہ پہنچنا غازی کے دل کو کھا گیا
+گو معلیٰ میں ہوئی افسوس تو ذبح ہوا
+رو رہی ہے آج تک شبیر خاک کربلا
 
 ۵
-گو میں پردہ بن گیء تھی وارث تطہیر کا
+گو میں پردہ بن گئی تھی وارث تطہیر کا
 خاک سر زینب میں یا رب وقت کیسا آ گیا
+گو معلیٰ میں ہوئی افسوس تو ذبح ہوا
+رو رہی ہے آج تک شبیر خاک کربلا
 
 ۶
-لاشہء عون و محمد پر کوی وارث نہ تھا
+لاشۂ عون و محمد پر کوئی وارث نہ تھا
 صبر زینب دیکھ کر منہ کو کلیجہ آ گیا
+گو معلیٰ میں ہوئی افسوس تو ذبح ہوا
+رو رہی ہے آج تک شبیر خاک کربلا
 
 ۷
 منکر سجدۂ آدم ہو کے شیطان ہو گیا
 سجدۂ شبیر نجفی عظمت یزداں ہوا
+گو معلیٰ میں ہوئی افسوس تو ذبح ہوا
+رو رہی ہے آج تک شبیر خاک کربلا

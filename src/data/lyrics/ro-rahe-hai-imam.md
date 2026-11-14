@@ -1,84 +1,85 @@
 ---
-title: "امام وقت ہے رنجیدہ کون سونچے گا"
-alternateTitle: "Ro Rahe Hai Imam"
+title: "امام وقت ہے رنجیدہ کون سوچے گا"
+alternateTitle: "Ro Rahe Haiṅ Imam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Noor"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Imame waqt hai ranjeeda kaun sochega
-  Aa kisi roz isi dukh pe ekhatte roye
-  
+  Imam-e-waqt hai ranjida kaun soche ga
+  Aa kisi roz isi dukh pe ikatthe roeṅ
+
   1
-  Yaad karke lutay ghar ka manzar
-  Ro rahe hai imame zamana
-  Khaake karbobala daale sar par
-  Ro rahe hai imame zamana
-  
+  Yaad kar ke lute ghar ka manzar
+  Ro rahe haiṅ Imam-e-zamaana
+  Khaak-e-Karb o Bala daale sar par
+  Ro rahe haiṅ Imam-e-zamaana
+
   2
-  Tayrta hai nazar may wo manzar
-  Chal raha hai namazi pe khanjar
-  Waar hota hai sookhe galay par
-  Ro rahe hai imame zamana
-  
+  Tairta hai nazar mein wo manzar
+  Chal raha hai namaazi pe khanjar
+  Waar hota hai sukhe gale par
+  Ro rahe haiṅ Imam-e-zamaana
+
   3
-  Bhool sakte nahi jalte qaime
-  Bhool sakte nahi taaziyane
-  Bhoole kaise wo zainab ki chadar
-  Ro rahe hai imame zamana
-  
+  Bhul sakte nahiṅ jalte khaime
+  Bhul sakte nahiṅ taaziyaane
+  Bhuleṅ kaise wo Zainab ki chaadar
+  Ro rahe haiṅ Imam-e-zamaana
+
   4
-  Yaad hai unko ab bhi wo manzar
-  Jab baraste thay pathar saron par
-  Bibiyan shaam may thi khule sar
-  Ro rahe hai imame zamana
-  
+  Yaad hai un ko ab bhi wo manzar
+  Jab baraste the patthar saroṅ par
+  Bibiyaaṅ Shaam mein thi khule sar
+  Ro rahe haiṅ Imam-e-zamaana
+
   5
-  Yaad karke luti chadaron ko
-  Yaad karke safar ke dukhon ko
-  Yaad karke sakina ke gowhar
-  Ro rahe hai imame zamana
-  
+  Yaad kar ke luti chaadaroṅ ko
+  Yaad kar ke safar ke dukhoṅ ko
+  Yaad kar ke Sakina ke gauhar
+  Ro rahe haiṅ Imam-e-zamaana
+
   6
-  Yaad karke wo ghazi ke baazu
-  Yaad karke wo akbar ke gaysu
-  Yaad karke wo zulme sitamgar
-  Ro rahe hai imame zamana
-  
+  Yaad kar ke wo Ghaazi ke baazu
+  Yaad kar ke wo Akbar ke gesu
+  Yaad kar ke wo zulm-e-sitamgar
+  Ro rahe haiṅ Imam-e-zamaana
+
   7
-  Zikre karbobala ho raha hai
-  Aaj saara jahan ro raha hai
-  Aake khud aaj farshe aza par
-  Ro rahe hai imame zamana
-  
+  Zikr-e-Karb o Bala ho raha hai
+  Aaj saara jahaaṅ ro raha hai
+  Aa ke khud aaj farsh-e-aza par
+  Ro rahe haiṅ Imam-e-zamaana
+
   8
-  Al ajal al ajal kehne walon
+  Al ajal al ajal kehne waaloṅ
   Apne aamaal ko bhi to dekho
-  Ba khuda ghaib may aaj tum par
-  Ro rahe hai imame zamana
-  
+  Ba khuda ghaib mein aaj tum par
+  Ro rahe haiṅ Imam-e-zamaana
+
   9
-  Ghaib may kar rahe hai duwayein
-  Jald ghaibat se baahar wo aayein
-  Badla karbal ka le jald aa kar
-  Ro rahe hai imame zamana
-  
+  Ghaib mein kar rahe haiṅ duaaeṅ
+  Jald ghaibat se baahar wo aaeṅ
+  Badla Karbala ka le jald aa kar
+  Ro rahe haiṅ Imam-e-zamaana
+
   10
-  Aankh mere qalam ki hui nam
-  Kar rahi hai ye tehreer matam
-  Noor nauha raqam ho ye kyunkar
-  Ro rahe hai imame zamana
+  Aaṅkh mere qalam ki hui nam
+  Kar rahi hai ye tahrir maatam
+  Noor nauha raqam ho ye kiunkar
+  Ro rahe haiṅ Imam-e-zamaana
 # source_id: nohayonline:29cf312206c1663827be
 # source_url: https://www.nohayonline.com/details_content.php?id=918
 # raw_sha256: 971c339c6af80d3e2e3d4568e4b6ddf4c861d06dd24b7aca2f793c494340746c
 ---
 
-امام وقت ہے رنجیدہ کون سونچے گا
-آ کسی روز اسی دکھ پہ اکھٹے رویں
+امام وقت ہے رنجیدہ کون سوچے گا
+آ کسی روز اسی دکھ پہ اکٹھے روئیں
 
 ۱
 یاد کرکے لٹے گھر کا منظر
@@ -99,9 +100,9 @@ romanLyrics: |-
 رو رہے ہیں امام زمانہ
 
 ۴
-یاد ہے انکو اب بھی وہ منظر
-جب برستے تھے پتھر سرور پر
-بی بیاں شام میں تھی کھلے سر
+یاد ہے ان کو اب بھی وہ منظر
+جب برستے تھے پتھر سروں پر
+بیبیاں شام میں تھی کھلے سر
 رو رہے ہیں امام زمانہ
 
 ۵
@@ -112,30 +113,30 @@ romanLyrics: |-
 
 ۶
 یاد کرکے وہ غازی کے بازو
-یاد کرکے وہ اکبر کے گیسوں
+یاد کرکے وہ اکبر کے گیسو
 یاد کرکے وہ ظلم ستمگر
 رو رہے ہیں امام زمانہ
 
 ۷
 ذکر کربوبلا ہو رہا ہے
 آج سارا جہاں رو رہا ہے
-آکے قد آج فرش عزا پر
+آ کے خود آج فرش عزا پر
 رو رہے ہیں امام زمانہ
 
 ۸
 العجل العجل کہنے والوں
-اپنے اعمال کو بھی دیکھو
+اپنے اعمال کو بھی تو دیکھو
 با خدا غیب میں آج تم پر
 رو رہے ہیں امام زمانہ
 
 ۹
 غیب میں کر رہے ہیں دعائیں
-جلد غیبت سے باہر وہ آیں
+جلد غیبت سے باہر وہ آئیں
 بدلہ کربلا کا لے جلد آ کر
 رو رہے ہیں امام زمانہ
 
 ۱۰
-آنکھ میرے قلم کی ہوی نم
+آنکھ میرے قلم کی ہوئی نم
 کر رہی ہے یہ تحریر ماتم
 نور نوحہ رقم ہو یہ کیونکر
 رو رہے ہیں امام زمانہ
