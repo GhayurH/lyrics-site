@@ -5,40 +5,41 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Musibat ki ghadi aur shaam ke badte hue saaye
-  Tadapti reh gayi maa aur ail akbar nahi aaye
+  Musibat ki ghari aur shaam ke barhte hue saaye
+  Tarapti reh gayi maaṅ aur Ali Akbar nahiṅ aaye
   
   1
-  Guzar jaana hi likha hai jawani mein agar ya rab
-  Guzarne se ali akbar ke pehle maa guzar jaye
+  Guzar jaana hi likha hai jawaani meiṅ agar ya Rab
+  Guzarne se Ali Akbar ke pehle maaṅ guzar jaati
   
   2
-  Wohi andaza kar sakta hai dard e qalbe laila ka
-  Nazar ke saamne jiske jawan beta sina khaaye
+  Wohi andaaza kar sakta hai dard-e-qalb-e-Laila ka
+  Nazar ke saamne jis ke jawaaṅ beta sinaaṅ khaaye
   
   3
-  Jawan ki laash peeri mein uthana ek qayamat hai
-  Ye din allah dunya mein kisi ko bhi na dikhlaye
+  Jawaaṅ ki laash piri meiṅ uthaana ek qayaamat hai
+  Ye din Allah dunya meiṅ kisi ko bhi na dikhlaaye
   
   4
-  Sambhal kar khenchiyega qalbe akbar se sina maula
-  Ulajh kar nauke naiza mein jigar bahar na aa jaye
+  Sambhal kar khinchiyega qalb-e-Akbar se sinaaṅ Maula
+  Ulajh kar nok-e-neza meiṅ jigar baahar na aa jaaye
   
   5
-  Zameen tharra gayi akbar ka laasha rakh ke reti par
-  Hussain ibne ali jab shukr ka sajda baja laaye
+  Zamiṅ tharra gayi Akbar ka laasha rakh ke reti par
+  Husain Ibn-e-Ali jab shukr ka sajda bajaa laaye
   
   6
-  Ze sar ta paon zakhmi hogaya lakhte dil e zehra
-  Layeeno ne tan e sarwar pe itne teer barsaye
+  Ze sar taa paaoṅ zakhmi ho gaya lakht-e-dil-e-Zehra
+  Lainoṅ ne tan-e-Sarwar pe itne tir barsaaye
   
   7
-  Mai zakir hoo hussain ibne ali ka ye dua kijay
-  Sharaf ye nasl se meri qayamat tak nahi jaaye
+  Main zaakir huṅ Husain Ibn-e-Ali ka ye dua kijiye
+  Sharaf ye nasl se meri qayaamat tak nahiṅ jaaye
 # source_id: nohayonline:6eb33d332ba3224a0298
 # source_url: https://www.nohayonline.com/details_content.php?id=516
 # raw_sha256: 4efdb53f4c2e2a1a6d414e77dc6687784d7c538f36aa0ad6a09acb9e9c50c48c
@@ -63,11 +64,11 @@ romanLyrics: |-
 اُلجھ کر نوکِ نیزہ میں جگر باہر نہ آ جائے
 
 ۵
-زمیں تھرا گئی اکبر کا لاشہ رکھ کہ ریتی پر
+زمیں تھرا گئی اکبر کا لاشہ رکھ کے ریتی پر
 حُسین ابنِ علی جب شکر کا سجدہ بجا لائے
 
 ۶
-زے سر تا پائوں زخمی ہو گیا لختِ دلِ زہرا
+زے سر تا پاؤں زخمی ہو گیا لختِ دلِ زہرا
 لعینوں نے تنِ سرور پہ اتنے تیر برسائے
 
 ۷

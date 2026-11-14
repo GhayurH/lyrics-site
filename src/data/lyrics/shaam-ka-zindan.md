@@ -1,74 +1,77 @@
 ---
-title: "قید جب شام کے زنداں میں ہوے آل عبا"
+title: "قید جب شام کے زنداں میں ہوئے آلِ عبا"
 alternateTitle: "Shaam Ka Zindan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Kumail Jafri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Qaid jab shaam ke zindan mein huwe aale abaa
-  Bibiyan shaam o sahar rehti thi masroof e aza
-  Ek bibi thi ke tha naam sakina jiska
-  Roz karti thi yehi shaam ke zindan mein buka
-  Mere bhaiya ali asghar ko bayaban mila
-  Mai sakina hoon mujhe shaam ka zindan mila
+  Qaid jab Shaam ke zindaaṅ meiṅ hue Aal-e-Abaa
+  Bibiyaaṅ shaam o sahar rehti thi masruf-e-azaa
+  Ek Bibi thi ke tha naam Sakina jis ka
+  Roz karti thi ye yahi Shaam ke zindaaṅ meiṅ bukaa
+
+  Mere bhaiya Ali Asghar ko bayaabaaṅ mila
+  Main Sakina huṅ mujhe Shaam ka zindaan mila
   
   1
-  Ek godhi ke paale hai ali asghar aur mai
-  Cheh mahino ke chale hai ali asghar aur mai
-  Usko sone ke liye khoon bhara maidan mila
+  Ek godi ke paale haiṅ Ali Asghar aur main
+  Chhe mahinoṅ ke chale haiṅ Ali Asghar aur main
+  Us ko sone ke liye khuṅ bhara maidaan mila
   
   2
-  Mujhko is qaid ki tanhaai se darr lagta hai
-  Koi aata hai to parchayi se darr lagta hai
-  Rehm dil mujhko na ab tak koi insan mila
+  Mujh ko is qaid ki tanhaai se dar lagta hai
+  Koi aata hai to parchhaai se dar lagta hai
+  Rahm dil mujh ko na ab tak koi insaan mila
   
   3
-  Hai nahi koi tarafdaar yahan par mera
-  Saans lena bhi hai dushwar yahan par mera
-  Door sab se ye mujhe hujra e veeran mila
+  Hai nahiṅ koi tarafdaar yahaaṅ par mera
+  Saaṅs lena bhi hai dushwaar yahaaṅ par mera
+  Dur sab se ye mujhe hujra-e-viraan mila
   
   4
-  Ye naya zakhm diya hai mere maajaye ko
-  Do dafa qatl kiya hai mere maajaaye ko
-  Uska nanha sa badan dasht mein bejaan mila
+  Ye naya zakhm diya hai mere maanjaaye ko
+  Do dafa qatl kiya hai mere maanjaaye ko
+  Us ka nanha sa badan dasht meiṅ bejaan mila
   
   5
-  Jab sitamgar ne mere kaano se bunde kheenche
-  Apne pyaron ko bulaati thi mai aankhein meeche
-  Par na koi bhi mujhe apna nigehban mila
+  Jab sitamgar ne mere kaanoṅ se bundeṅ khinche
+  Apne pyaaroṅ ko bulaati thi main aaṅkheṅ miche
+  Par na koi bhi mujhe apna nigahbaan mila
   
   6
-  Aediyan pyaas ki shiddat se ragadta tha sagheer
-  Garm reti pe jo dekha to tadapta tha sagheer
-  Jab bhi dekha to mera bhai pareshan mila
+  Eriyaaṅ pyaas ki shiddat se ragarte tha Saghir
+  Garm reti pe jo dekha to tarapta tha Saghir
+  Jab bhi dekha to mera bhaai pareshaan mila
   
   7
-  Pushte naaqa pe mujhe baandh ke laaye zaalim
+  Pusht-e-naaqa pe mujhe baandh ke laaye zaalim
   Jo na hamwaar thi us raah se laaye zaalim
-  Is safar mein na koi raasta aasaan mila
+  Is safar meiṅ na koi raasta aasaan mila
   
   8
-  Meri ghurbat ka is ummat ne banaya hai mazaakh
-  Shaam o kufa ke dayaron mein udaaya hai mazaakh
-  Humko ehsaan ke badle mein ye ehsaan mila
+  Meri ghurbat ka is ummat ne banaaya hai mazaaq
+  Shaam o Kufa ke dayaaroṅ meiṅ uraaya hai mazaaq
+  Ham ko ehsaan ke badle meiṅ ye ehsaan mila
   
   9
-  Roke kehti thi sakina ye kumail o aamir
-  Kitna dushwaar hai jeena ye kumail o aamir
-  Meri taqdeer se har ranj o mehan aan mila
+  Ro ke kehti thi Sakina ye Kumail o Aamir
+  Kitna dushwaar hai jina ye Kumail o Aamir
+  Meri taqdir se har ranj o mihan aan mila
 # source_id: nohayonline:1b1ea55800e5c63d2d60
 # source_url: https://www.nohayonline.com/details_content.php?id=2791
 # raw_sha256: 09017b014bac6b7bcdc96a1c865f1994230da2968f8453088ee4ad2fe0ca62dd
 ---
-قید جب شام کے زنداں میں ہوے آل عبا
-بی بیاں شام و سحر رہتی تھی مصروف عزا
-ایک بی بی تھی کہ تھا نام سکینہ جس کا
+قید جب شام کے زنداں میں ہوئے آلِ عبا
+بی‌بیاں شام و سحر رہتی تھی مصروفِ عزا
+ایک بی‌بی تھی کہ تھا نام سکینہ جس کا
 روز کرتی تھی یہ یہی شام کے زنداں میں بکا
+
 میرے بھیا علی اصغر کو بیاباں ملا
 میں سکینہ ہوں مجھے شام کا زندان ملا
 
@@ -85,11 +88,11 @@ romanLyrics: |-
 ۳
 ہے نہیں کوئی طرفدار یہاں پر میرا
 سانس لینا بھی ہے دشوار یہاں پر میرا
-دور سب سے یہ مجھے ہجرہء ویران ملا
+دور سب سے یہ مجھے حجرۂ ویران ملا
 
 ۴
 یہ نیا زخم دیا ہے میرے مانجاے کو
-دو دفا قتل کیا ہے میرے مانجاے کو
+دو دفعہ قتل کیا ہے میرے مانجاے کو
 اس کا ننھا سا بدن دشت میں بے جان ملا
 
 ۵
@@ -103,8 +106,8 @@ romanLyrics: |-
 جب بھی دیکھا تو میرا بھائی پریشان ملا
 
 ۷
-پشت ناقہ پہ مجھے باندھے‌کے لاے ظالم
-جو نہ ہموار تھی اس راہ سے لاے ظالم
+پشتِ ناقہ پہ مجھے باندھ کے لائے ظالم
+جو نہ ہموار تھی اس راہ سے لائے ظالم
 اس سفر میں نہ کوئی راستہ آسان ملا
 
 ۸
