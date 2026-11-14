@@ -1,38 +1,65 @@
 ---
-title: "Shimr Khaime Me Aana Jaaye Kahin"
-language: "Roman Urdu"
+title: "شمر خیمے میں آ نہ جائے کہیں"
+alternateTitle: "Shimr Khaime Mein Aa Na Jaaye Kahiṅ"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage", "noUrdu"]
-aliases: []
+occasion: "شامِ غریباں"
+tags: ["noImage"]
+aliases: ["Shimr Khaime Me Aana Jaaye Kahin"]
 published: false
+romanLyrics: |-
+  1
+  Shimr khaime mein aa na jaaye kahiṅ, ab to Ghaazi ko do sada Zainab
+  Keh rahi thi Fizza ye ro ro kar, ab to khaime bhi jal chuke Bibi
+  Zulm zaalim na aur dhaaye kahiṅ
+
+  2
+  Paak Zahra ka ghar jalaane ki, musalmaan ki puraani aadat hai
+  Paak Zahra ka ghar jalaane ki, phir ye ummat na ghar jalaaye kahiṅ
+
+  3
+  Ab Sakina na jaana maqtal mein, dur se Shimr dekhta hoga
+  Ab Sakina na jaana maqtal mein, phir tamaache na ye lagaaye kahiṅ
+
+  4
+  Ek hasrat thi paak Zainab ki, ke alamdaar us ko jite ji
+  Ek hasrat thi paak Zainab ki, behn keh kar kabhi bulaaye kahiṅ
+
+  5
+  So gaye nehr ke kinaare par, phir na khaime mein aa sake Ghaazi
+  So gaye nehr ke kinaare par, ke wafa pe na harf aaye kahiṅ
+
+  6
+  Mominoṅ mein jo hai girohbandi, Maula mazlum ke julusoṅ mein
+  Mominoṅ mein jo hai girohbandi, phir na Aabid ko khun rulaaye kahiṅ
 # source_id: ziyaraat:55c1fb2cbd7e1479a27c
 # source_url: https://www.ziyaraat.net/api/noha/2707
 # raw_sha256: d7a3ce5b957d38eb1375dc884f7f88c6575954643bf579979b44e687a69541ef
 ---
 
-1
-Shimr khaime me aana jaaye kahin, ab to ghazi ko do sada Zainab
-Keh rahi thi fizza ye roro kar, ab to khaime bhi jal chuke bibi
-Zulm zaalim naa aur dhaaye kahin
+۱
+شمر خیمے میں آ نہ جائے کہیں، اب تو غازی کو دو صدا زینب
+کہہ رہی تھی فضہ یہ رو رو کر، اب تو خیمے بھی جل چکے بی‌بی
+ظلم ظالم نہ اور ڈھائے کہیں
 
-2
-Paak Zahra ka ghar jalane ki, musalmaan ki pooraani aadat hai
-Paak Zahra ka ghar jalane ki, phir ye ummat na ghar jalaye kahin
+۲
+پاک زہرا کا گھر جلانے کی، مسلمان کی پرانی عادت ہے
+پاک زہرا کا گھر جلانے کی، پھر یہ امت نہ گھر جلائے کہیں
 
-3
-Ab sakina naa jana maqtal me, door se shimr dekhta hoga
-Ab sakina naa jana maqtal me, phir tamache naa ye laga ye kahin
+۳
+اب سکینہ نہ جانا مقتل میں، دور سے شمر دیکھتا ہوگا
+اب سکینہ نہ جانا مقتل میں، پھر طمانچے نہ یہ لگائے کہیں
 
-4
-Ek hasrat this paak Zainab ki, ke alamdaar usko jeete jee
-Ek hasrat thi paak Zainab ki, behn keh kar kabhi bulaaye kahin
+۴
+اک حسرت تھی پاک زینب کی، کہ علمدار اس کو جیتے جی
+اک حسرت تھی پاک زینب کی، بہن کہہ کر کبھی بلائے کہیں
 
-5
-So gaye nehr ke kinare par, phir na khaime me aa sake ghazi
-So gaye nehr ke kinare par, ke wafa pe naa hrf aaye kahin
+۵
+سو گئے نہر کے کنارے پر، پھر نہ خیمے میں آ سکے غازی
+سو گئے نہر کے کنارے پر، کہ وفا پہ نہ حرف آئے کہیں
 
-6
-Momino me jo hai girobandi, mola mazloom ke jalooson me
-Momino me jo hai girobandi, phir naa abid ko Khoon rulaaye kahin
+۶
+مومنوں میں جو ہے گروہ بندی، مولا مظلوم کے جلوسوں میں
+مومنوں میں جو ہے گروہ بندی، پھر نہ عابد کو خون رلائے کہیں

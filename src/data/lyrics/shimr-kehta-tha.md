@@ -6,44 +6,45 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Adil Nazar"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shimr kehta tha sakina ko sataate rehna
-  Sar dikha kar isay baba ka rulaate rehna
+  Shimr kehta tha Sakina ko sataate rehna
+  Sar dikha kar use baaba ka rulaate rehna
 
   1
   Khauf har waqt nazar aaye mujhe chehre par
-  Is qadar raah mein bachi ko daraate rehna
+  Is qadar raah mein bachchi ko daraate rehna
 
   2
-  Naaz ab is ke nahi koi uthaane waala
-  Ye tamachon isay yaad dilaate rehna
+  Naaz ab is ke nahiṅ koi uthaane waala
+  Ye tamaachoṅ use yaad dilaate rehna
 
   3
   Baap ka sar jo ye maange to na dena is ko
-  Dil e masoom ko is tarha dukhaate rehna
+  Dil-e-maasum ko is tarah dukhaate rehna
 
   4
-  Aankh mein teer tha aur haath nahi thay us ke
-  Kaise abbas gira zeen se bataate rehna
+  Aankh mein tir tha aur haath nahiṅ the us ke
+  Kaise Abbas gira ziṅ se bataate rehna
 
   5
   Ho agar pyaas ki shiddat to rulaane ke liye
-  Pani dikhla ke sakina ko bahaate rehna
+  Paani dikhla ke Sakina ko bahaate rehna
 
   6
-  Jab rasan khichti hai ghut'ta hai gala bachi ka
-  Bas yehi soch ke abid ko uthaate rehna
+  Jab rasan khinchti hai ghutta hai gala bachchi ka
+  Bas yehi soch ke Aabid ko uthaate rehna
 
   7
-  Kaise bardaasht kare yaad to aata hai usay
-  Jhoola baysheer ka aangan mein jhulaate rehna
+  Kaise bardaasht kare yaad to aata hai use
+  Jhula beshir ka aangan mein jhulaate rehna
 
   8
-  Shaam waalon se nazar ro ke ye zainab ne kaha
-  Ek diya roz yahan aa ke jalaate rehna
+  Shaam waaloṅ se Nazar ro ke ye Zainab ne kaha
+  Ek diya roz yahaaṅ aa ke jalaate rehna
 # source_id: nohayonline:cf222b62a3586164e13d
 # source_url: https://www.nohayonline.com/details_content.php?id=1660
 # raw_sha256: 4d3de77f966e29564dd6eb794c25d6f14f626456ce69faff51e7ce3eca2b4553
@@ -52,7 +53,7 @@ romanLyrics: |-
 سر دکھا کر اسے بابا کا رلاتے رہنا
 
 ۱
-خوف ہر وقت نظر آے مجھے چہرے پر
+خوف ہر وقت نظر آئے مجھے چہرے پر
 اس قدر راہ میں بچی کو ڈراتے رہنا
 
 ۲
@@ -80,5 +81,5 @@ romanLyrics: |-
 جھولا بے شیر کا آنگن میں جھلاتے رہنا
 
 ۸
-شام والوں سے نظر روکے یہ زینب نے کہا
+شام والوں سے نظر رو کے یہ زینب نے کہا
 اک دیا روز یہاں آ کے جلاتے رہنا

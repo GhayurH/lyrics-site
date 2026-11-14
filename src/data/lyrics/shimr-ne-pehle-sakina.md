@@ -6,44 +6,45 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shimr ne pehle sakina ko dikhaya khanjar
-  Baad may gardane sarwar pe chalaya khanjar
+  Shimr ne pehle Sakina ko dikhaaya khanjar
+  Baad mein gardan-e-Sarwar pe chalaaya khanjar
 
   1
-  Kabhi hyder ne gala rakha kabhi zehra ne
-  Kitne masoom pe zaalim ne chalaya khanjar
+  Kabhi Haidar ne gala rakha kabhi Zehra ne
+  Kitne maasum pe zaalim ne chalaaya khanjar
 
   2
-  Baap par waar to beti pe tamache barse
-  Jab bhi qaatil ka sakina ne hataya khanjar
+  Baap par waar to beti pe tamaache barse
+  Jab bhi qaatil ka Sakina ne hataaya khanjar
 
   3
-  Ek anghooti ke liye kaat di angushte hussain
-  Laash par sheh ki tujhe rehm na aaya khanjar
+  Ek anguthi ke liye kaat di angusht-e-Husain
+  Laash par Shah ki tujhe rehm na aaya khanjar
 
   4
-  Qatl zainab ko kiya cheen ke chadar sar se
-  Is tarha shimr ne naize ko banaya khanjar
+  Qatl Zainab ko kiya chhin ke chaadar sar se
+  Is tarah Shimr ne naize ko banaaya khanjar
 
   5
-  Ek sharabi ko aziyat ka kahan andaza
-  Jis tarha chaaha sitamgar ne chalaya khanjar
+  Ek sharaabi ko aziyat ka kahaaṅ andaaza
+  Jis tarah chaaha sitamgar ne chalaaya khanjar
 
   6
-  Aaye sajjad jo bazaar e madina may kabhi
-  To badke khassab ne jaldi se chupya khanjar
+  Aaye Sajjad jo baazaar-e-Madina mein kabhi
+  To barke qassaab ne jaldi se chhupaaya khanjar
 
   7
-  Phayr kar moo ko ali kehne lage ya zehra
-  Itni bedardi se zaalim ne phiraya khanjar
+  Pher kar muṅh ko Ali kehne lage ya Zehra
+  Itni bedardi se zaalim ne phiraaya khanjar
 
   8
-  Wa hussaina ka hua shor takallum barpa
-  Shimr mukhtar ke jab saamne laaya khanjar
+  Wa Husaina ka hua shor Takallum barpa
+  Shimr Mukhtar ke jab saamne laaya khanjar
 # source_id: nohayonline:1ed921460efaba830786
 # source_url: https://www.nohayonline.com/details_content.php?id=1084
 # raw_sha256: 22008a57812eb4f23e4f68e1ee57b6c22247dd31da092e4caef9f448dd9a6368
@@ -72,7 +73,7 @@ romanLyrics: |-
 جس طرح چاہا ستمگر نے چلایا خنجر
 
 ۶
-آے سجاد جو بازار مدینہ میں کبھی
+آئے سجاد جو بازار مدینہ میں کبھی
 تو بڑکے قصاب نے جلدی سے چھپایا خنجر
 
 ۷

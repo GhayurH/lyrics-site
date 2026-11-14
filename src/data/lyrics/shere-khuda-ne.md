@@ -6,40 +6,41 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Yawar Azmi"
+reciter: "Ali Rizvi Sachey"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sher e khuda ne sajde mein talwaar khaayi hai
-  Ummat yateem ho gayi ya rab duhaai hai
+  Sher-e-Khuda ne sajde mein talwaar khaayi hai
+  Ummat yatim ho gayi ya Rab duhaayi hai
 
   1
-  Jab se suni hai naala e jibreel ki sada
-  Be-chain ghar mein fatema zahra ki jaayi hai
+  Jab se suni hai naala-e-Jibril ki sada
+  Bechain ghar mein Fatima Zahra ki jaayi hai
 
   2
-  Larzan hai aasman zameen ko hai zalzala
-  Afraat e gham se qabre nabi thar tharayi hai
+  Larzaaṅ hai aasmaan zamiṅ ko hai zalzala
+  Ifraat-e-gham se qabr-e-Nabi thartharaayi hai
 
   3
-  Zakhmon se khoon jaari hai honton se zikre rab
-  Poshak saari khoon mein sar ki nahayi hai
+  Zakhmoṅ se khun jaari hai hoṅtoṅ se zikr-e-Rab
+  Poshaak saari khun mein sar ki nahaayi hai
 
   4
-  Faryad kar rahi hai janaze pe betiyan
-  Roohe janabe fatema rone ko aayi hai
+  Fariyaad kar rahi haiṅ janaaze pe betiyaaṅ
+  Ruh-e-janaab-e-Fatima rone ko aayi hai
 
   5
-  Islam ki nigaah mein andher hai jahan
-  Zaalim ne shamme qabre payambar bujhayi hai
+  Islaam ki nigaah mein andher hai jahaaṅ
+  Zaalim ne shama-e-qabr-e-Payambar bujhaayi hai
 
   6
-  Faryad kar rahe hai janaze pe mustafa
-  Beton ne apne baap ki mayyat uthaayi hai
+  Fariyaad kar rahe haiṅ janaaze pe Mustafa
+  Betoṅ ne apne baap ki mayyat uthaayi hai
 
   7
-  Yawar chalo janaze ko kaandhon pe le chalein
-  Shiyon ne ek shabihe janaza banayi hai
+  Yawar chalo janaaze ko kaandhoṅ pe le chaleṅ
+  Shioṅ ne ek shabiha-e-janaaza banaayi hai
 # source_id: nohayonline:b324c249412b2ba53df1
 # source_url: https://www.nohayonline.com/details_content.php?id=2915
 # raw_sha256: 155250e3f387c1d46293821a0273f001f3c7a3b15185f15cc01a87404748b482
@@ -48,15 +49,15 @@ romanLyrics: |-
 امت یتیم ہوگئی یا رب دہائی ہے
 
 ۱
-جب سے سنی ہے نالہِ جبرئیل کی صدا
+جب سے سنی ہے نالۂ جبرئیل کی صدا
 بے چین گھر میں فاطمہ زہرہ کی جائی ہے
 
 ۲
 لرزاں ہے آسمان زمیں کو ہے زلزلہ
-افراطِ غم سے قبرِنبی تھرتھرائی ہے
+افراطِ غم سے قبرِ نبی تھرتھرائی ہے
 
 ۳
-زخموں سے خون جاری ہے ہونٹوں سے ذکرِرب
+زخموں سے خون جاری ہے ہونٹوں سے ذکرِ رب
 پوشاک ساری خون میں سر کی نہائی ہے
 
 ۴
@@ -73,4 +74,4 @@ romanLyrics: |-
 
 ۷
 یاور چلو جنازے کو کاندھوں پہ لے چلیں
-شیعوں نے ایک شبیحہِ جنازہ بنائی ہے
+شیعوں نے ایک شبیحۂ جنازہ بنائی ہے
