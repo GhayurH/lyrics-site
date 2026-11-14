@@ -1,70 +1,71 @@
 ---
-title: "ہاے سادات"
+title: "ہائے سادات"
 alternateTitle: "Saadaat"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Salman Azmi"
+reciter: "Mesum Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye sadaat
-  Aise ujde ke na saadat phir aabad huwe
-  Ya nabi itne sitam haye tere baad huwe
+  Haye saadaat
+  Aise ujre ke na saadaat phir aabaad hue
+  Ya Nabi itne sitam haye tere baad hue
 
   1
-  Ro diye ahle haram shaam e ghariban ki qasam
-  Baad e abbas alamdar jo sajjad huwe
+  Ro diye Ahl-e-Haram Shaam-e-Gharibaṅ ki qasam
+  Baad-e-Abbas alamdaar jo Sajjad hue
 
   2
-  Roye chautees baras khoon ke aansu abid
-  Jab sakina ke bina qaid se azad huwe
+  Roye chauṅtis baras khun ke aaṅsu Abid
+  Jab Sakina ke bina qaid se aazaad hue
 
   3
-  Jis ke nana ne uthayi nahi talwar kabhi
-  Us ko dukh dene ko kitne sitam ejaad huwe
+  Jis ke naana ne uthaai nahiṅ talwaar kabhi
+  Us ko dukh dene ko kitne sitam ijaad hue
 
   4
-  Itne tukde to hassan ke bhi jigar ke na huwe
-  Jis qadar tukde tere qasim e nashaad huwe
+  Itne tukre to Hasan ke bhi jigar ke na hue
+  Jis qadar tukre tere Qasim-e-Naashaad hue
 
   5
-  Ye dua karti thi zainab ke yun ujde na koi
-  Jaise pardes mein hum log hai barbad huwe
+  Ye dua karti thi Zainab ke yuṅ ujre na koi
+  Jaise pardes mein ham log hai barbaad hue
 
   6
-  Kyun nahi mesum o salman karenge girya
-  Qatl darya pe hamare hi to ajdaad huwe
+  Kiuṅ nahiṅ Maisam o Salman kareṅ ge girya
+  Qatl darya pe hamaare hi to ajdaad hue
 # source_id: nohayonline:4bea7cef0ede1887a394
 # source_url: https://www.nohayonline.com/details_content.php?id=2158
 # raw_sha256: 460de29d235f5c6f3ae50fa228e63717d2c8605d5f0efc6f06f35d0cda75c346
 ---
-ہاے سادات
-ایسے اجڑے کہ نہ سادات پھر آباد ہوۓ
-یا نبی اتنے ستم ہاے تیرے بعد ہوے
+ہائے سادات
+ایسے اجڑے کہ نہ سادات پھر آباد ہوئے
+یا نبی اتنے ستم ہائے تیرے بعد ہوئے
 
 ۱
-رو دیےء اہلِ حرم شام غریباں کی قسم
-بعد عباس علمدار جو سجاد ہوے
+رو دیے اہلِ حرم شامِ غریباں کی قسم
+بعدِ عباس علمدار جو سجاد ہوئے
 
 ۲
-روے چونتیس برس خون کے آنسوں عابد
-جب سکینہ کے بنا قید سے آزاد ہوے
+روئے چونتیس برس خون کے آنسو عابد
+جب سکینہ کے بنا قید سے آزاد ہوئے
 
 ۳
-جس کے نانا نے اٹھای نہیں تلوار کبھی
-اس کو دکھ دینے کو کتنے ستم ایجاد ہوے
+جس کے نانا نے اٹھائی نہیں تلوار کبھی
+اس کو دکھ دینے کو کتنے ستم ایجاد ہوئے
 
 ۴
-اتنے ٹکڑے تو حسن کے بھی جگر کے نہ ہوے
-جس قدر ٹکڑے تیرے قاسم ناشاد ہوے
+اتنے ٹکڑے تو حسن کے بھی جگر کے نہ ہوئے
+جس قدر ٹکڑے تیرے قاسمِ ناشاد ہوئے
 
 ۵
 یہ دعا کرتی تھی زینب کے یوں اجڑے نہ کوئی
-جیسے پردیس میں ہم لوگ ہے برباد ہوے
+جیسے پردیس میں ہم لوگ ہے برباد ہوئے
 
 ۶
 کیوں نہیں میثم و سلمان کریں گے گریہ
-قتل دریا پہ ہمارے ہی تو اجداد ہوے
+قتل دریا پہ ہمارے ہی تو اجداد ہوئے
