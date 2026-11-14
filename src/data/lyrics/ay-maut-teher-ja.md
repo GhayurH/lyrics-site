@@ -77,6 +77,11 @@ romanLyrics: |-
 # source_id: ziyaraat:76451deecb0b7264dc4f
 # source_url: https://www.ziyaraat.net/api/noha/223
 # raw_sha256: 3a78b639d0d3761208210eb4c25544459a0cf2f6a68f010fb58bfa917c8e8cc1
+# additional_source_id: nohawriteups:09d7ee04d93811c46512
+# additional_source_url: https://www.nohawriteups.org/ay-maut-teher-ja/
+# additional_raw_sha256: a1b98bc09a247ed98d62bf945531a9b23facfc0db5971126d4ddeb19d6ae6c0e
+# additional_source_note: Checked all eleven stanzas against existing bilingual lyric; no new verses. Canonical is preserved without duplicate.
+
 ---
 
 ہچکیاں لیتے تھے علی اکبر
