@@ -1,83 +1,84 @@
 ---
 title: "سلام پہلی عزادار ثانیئے زہرا"
-alternateTitle: "Salam Pehli Azadar"
+alternateTitle: "Salaam Pehli Azaadaar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
+reciter: "Anj. Hyderi Ali Basti"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Salam pehli azadar saniye zehra
-  Hussainiyat ki nigehdar saani e zehra
+  Salaam pehli azaadaar Saani-e-Zehra
+  Husainiyat ki nigehdaar Saani-e-Zehra
 
   1
-  Hussain jiske liye zindagi tadapti hai
-  Wo ek naam ke jis par madaare hasti hai
-  Ke jiske zikr se baatil sipah darti hai
-  Usi hussain ka kirdar saani e zehra
+  Husain jis ke liye zindagi tarapti hai
+  Wo ek naam ke jis par maadar-e-hasti hai
+  Ke jis ke zikr se baatil sipaah darti hai
+  Usi Husain ka kirdaar Saani-e-Zehra
 
   2
-  Is ehde no mein bhi khabida jo musalman hai
-  Bajaye deen zaro maal ke wo khaaha hai
-  Magar wo log ke jo ab bhi ahle emaan hai
-  Tere sabab se hai kirdaar saani e zehra
+  Is ahd-e-nau mein khwaabida jo musalmaaṅ haiṅ
+  Bajaaye din zar o maal ke wo khwaahaaṅ haiṅ
+  Magar wo log ke jo ab bhi ahl-e-imaaṅ haiṅ
+  Tere sabab se hai kirdaar Saani-e-Zehra
 
   3
-  Baqae deen ka har ek raasta jo bandh hua
-  Ba waqte asr jab islam fiqr mand hua
-  Udhar se naize pe sar shaah ka balandh hua
-  Idhar se bangayi talwar saani e zehra
+  Baqaa-e-diṅ ka har ek rasta jo band hua
+  Bawaqt-e-asr jab Islaam fikrmand hua
+  Udhar se naize pe sar Shaah ka buland hua
+  Idhar se ban gayi talwaar Saani-e-Zehra
 
   4
-  Khadam mahaaz pe rakha to kamiyab rakha
-  Jalal-o-zabt mein andaaz e buturab rakha
-  Ali ke lehje se awaaz ka hijab rakha
-  Sanad hai wo teri guftar saani e zehra
+  Qadam mahaaz pe rakha to kaamyaab rakha
+  Jalaal o zabt mein andaaz-e-Buturaab rakha
+  Ali ke lehje se aawaaz ka hijaab rakha
+  Sanad hai wo teri guftaar Saani-e-Zehra
 
   5
   Samajh sake to samajh guftagu ka dhab kya hai
-  Zameen par teri taqleeq ka sabab kya hai
-  Yazeede nehes tera shajrae nasab kya hai
-  Sunayegi sare darbar saani e zehra
+  Zamiṅ par teri takhliq ka sabab kya hai
+  Yazid-e-nahas tera shajra-e-nasab kya hai
+  Sunaayegi sar-e-darbaar Saani-e-Zehra
 
   6
-  Badhe sawaar jo ahle haram ko dehlane
-  Ridayein cheenli jis dam saro se aada ne
-  Tadap ke reh gaye bedast ke kate shaane
-  Taras ke reh gayi lachaar saani e zehra
+  Barhe sawaar jo ahl-e-haram ko dehlaane
+  Ridaaeṅ chhin li jis dam saroṅ se aada ne
+  Tarap ke reh gaye bedast ke kate shaane
+  Taras ke reh gayi laachaar Saani-e-Zehra
 
   7
-  Tamam shehr mein ye har taraf manadi hai
-  Ke jisko shimr ne durro se bhi saza di hai
-  Suno suno isi koofe ki shahzadi hai
-  Ke zikr hai sar e bazaar saani e zehra
+  Tamaam shehr mein ye har taraf munaadi hai
+  Ke jis ko Shimr ne durroṅ se bhi saza di hai
+  Suno suno isi Kufe ki shahzaadi hai
+  Ke zikr hai sar-e-baazaar Saani-e-Zehra
 
   8
-  Yateeme shaah andhere mein khogayi aakhir
-  Lahoo ko apne hi ashkon se dho gayi aakhir
+  Yatim-e-Shaah andhere mein kho gayi aakhir
+  Lahu ko apne hi ashkoṅ se dho gayi aakhir
   Usi phate hue kurte mein so gayi aakhir
-  Kafan na de saki nagaar saani e zehra
+  Kafan na de saki naagaar Saani-e-Zehra
 
   9
-  Kabhi furaat nazar mein kabhi taraai hai
-  Nigah mein lehede shaahe karbalayi hai
-  Giri hai oonth se ghutno se chalke aayi hai
-  Ghareeb o bekas o nachaar saani e zehra
+  Kabhi Furaat nazar mein kabhi taraai hai
+  Nigaah mein lahd-e-Shaah-e-Karbalaai hai
+  Giri hai uṅt se ghutnoṅ se chal ke aai hai
+  Gharib o bekas o naachaar Saani-e-Zehra
 
   10
-  Watan hai shiddate girya hai aur zainab hai
-  Nabi ki qabr hai sughra hai aur zainab hai
-  Lahoo bhara hua kurta hai aur zainab hai
-  Luta ke aayi hai ghar baar saani e zehra
+  Watan hai shiddat-e-girya hai aur Zainab hai
+  Nabi ki qabr hai Sughra hai aur Zainab hai
+  Lahu bhara hua kurta hai aur Zainab hai
+  Luta ke aai hai ghar baar Saani-e-Zehra
 
   11
-  Udaas aangan o deewar dar lage ghar ke
-  Na bain ruk sake shahid ghareeb maadar ke
-  Wo pehli baar jo beton ko royi jee bhar ke
-  Aseere ranj o dilafgar saani e zehra
+  Udaas aangan o diwaar dar lage ghar ke
+  Na bain ruk sake Shahid gharib maadar ke
+  Wo pehli baar jo betoṅ ko roi ji bhar ke
+  Asir-e-ranj o dilafgaar Saani-e-Zehra
 # source_id: nohayonline:ce8f0ef422f61a338c2c
 # source_url: https://www.nohayonline.com/details_content.php?id=740
 # raw_sha256: ba660967e7a8849e8814c1ebfd3ab0e3354d1e942a4fc6743174e11f26c6b9df
@@ -93,7 +94,7 @@ romanLyrics: |-
 
 ۲
 اس عہدِ نو میں خوابیدہ جو مسلماں ہیں
-بجائے دین ذر و مال کے وہ خواہاں ہیں
+بجائے دین زر و مال کے وہ خواہاں ہیں
 مگر وہ لوگ کے جو اب بھی اہلِ ایماں ہیں
 تیرے سبب سے ہے کردار ثانیئے زہرا
 
@@ -111,12 +112,12 @@ romanLyrics: |-
 
 ۵
 سمجھ سکے تو سمجھ گفتگو کا دھب کیا ہے
-زمیں پر تیری تکلیق کا سبب کیا ہے
-یزیدِ نحس تیرا شجرئہ نصب کیا ہے
+زمیں پر تیری تخلیق کا سبب کیا ہے
+یزیدِ نحس تیرا شجرۂ نسب کیا ہے
 سُنائے گی سرِ دربار ثانیئے زہرا
 
 ۶
-بڑھے سرور جو اہلِ حرم کو دہلانے
+بڑھے سوار جو اہلِ حرم کو دہلانے
 ردائیں چھین لی جس دم سروں سے اعدا نے
 تڑپ کے رہ گئے بے دست کے کٹے شانے
 ترس کے رہ گئی لاچار ثانیئے زہرا
@@ -129,12 +130,12 @@ romanLyrics: |-
 
 ۸
 یتیمِ شاہ اندھیرے میں کھو گئی آخر
-لہوکو اپنے ہی اشکوں سے دھو گئی آخر
+لہو کو اپنے ہی اشکوں سے دھو گئی آخر
 اُسی پھٹے ہوئے کُرتے میں سو گئی آخر
 کفن نہ دے سکی ناگار ثانیئے زہرا
 
 ۹
-کبھی فرا،ت نظر میں کبھی ترائی ہے
+کبھی فرات نظر میں کبھی ترائی ہے
 نگاہ میں لحدِ شاہِ کربلائی ہے
 گری ہے اونٹ سے گھُٹنوں سے چل کے آئی ہے
 غریب و بے کس و ناچار ثانیئے زہرا

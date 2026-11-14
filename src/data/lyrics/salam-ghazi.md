@@ -1,73 +1,78 @@
 ---
 title: "با وفا یا عباس"
-alternateTitle: "Salam Ghazi"
+alternateTitle: "Salaam Ghaazi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar & J. Jaffri"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Bawafa ya abbas
-  Bawafa ghazi mere
-  Salam ghazi salam ghazi
-  Wafa ka tu hai imam ghazi
+  Bawafa ya Abbas
+  Bawafa Ghaazi mere
+  Bawafa ya Abbas
+
+  Salaam Ghaazi salaam Ghaazi
+  Wafa ka tu hai imaam Ghaazi
 
   1
-  Jagah jagah hai alam gawahi
-  Dilon pe teri hai baadshahi
-  Labon pe tera hi naam ghazi
-  Wafa ka tu hai imam ghazi
+  Jagah jagah hai alam gawaahi
+  Diloṅ pe teri hai baadshaahi
+  Laboṅ pe tera hi naam Ghaazi
+  Wafa ka tu hai imaam Ghaazi
 
   2
   Tere alam ka hai hum pe saaya
-  Alam pe saaya hai panjetan ka
-  Baland tera maqam ghazi
-  Wafa ka tu hai imam ghazi
+  Alam pe saaya hai Panjetan ka
+  Buland tera maqaam Ghaazi
+  Wafa ka tu hai imaam Ghaazi
 
   3
   Alam ka jab se hua hai saaya
-  Zameen e karbobala pe maula
-  Tera hai chalta nizam ghazi
-  Wafa ka tu hai imam ghazi
+  Zamin-e-Karbobala pe Maula
+  Tera hai chalta nizaam Ghaazi
+  Wafa ka tu hai imaam Ghaazi
 
   4
-  Tu bawafa hai tu lafata hai
-  Be-aasron ka tu aasra hai
-  Jahan mein charcha hai aam ghazi
-  Wafa ka tu hai imam ghazi
+  Tu bawafa hai tu la fata hai
+  Be aasroṅ ka tu aasra hai
+  Jahaaṅ mein charcha hai aam Ghaazi
+  Wafa ka tu hai imaam Ghaazi
 
   5
-  Hussain maula se pyar karna
-  Hussain par jaan nisaar karna
-  Yehi hai tera payaam ghazi
-  Wafa ka tu hai imam ghazi
+  Husain Maula se pyaar karna
+  Husain par jaaṅ nisaar karna
+  Yehi hai tera payaam Ghaazi
+  Wafa ka tu hai imaam Ghaazi
 
   6
   Jo tere baazu qalam na hote
-  Aseer ahle haram na hote
-  Na jaati zainab yun shaam ghazi
-  Wafa ka tu hai imam ghazi
+  Asir ahl-e-haram na hote
+  Na jaati Zainab yuṅ Shaam Ghaazi
+  Wafa ka tu hai imaam Ghaazi
 
   7
-  Ghulam sharminda hai ye maula
-  Na laasha qaimon mein le ke jaana
-  Tha lab pe tere kalaam ghazi
-  Wafa ka tu hai imam ghazi
+  Ghulaam sharminda hai ye Maula
+  Na laasha khaimoṅ mein le ke jaana
+  Tha lab pe tere kalaam Ghaazi
+  Wafa ka tu hai imaam Ghaazi
 
   8
-  Jawad o sarwar jab aaye sarwar
-  Bureeda baazu tha ibne hyder
-  To kaise karta salam ghazi
-  Wafa ka tu hai imam ghazi
+  Jawaad o Sarwar jab aaye Sarwar
+  Burida baazu tha Ibn-e-Haider
+  To kaise karta salaam Ghaazi
+  Wafa ka tu hai imaam Ghaazi
 # source_id: nohayonline:7ea63e51061f55e5a8a1
 # source_url: https://www.nohayonline.com/details_content.php?id=2989
 # raw_sha256: 1ca8b53b0206618c348b821c68b4c842f7b7310894d53a8b2992fb3ad28503eb
 ---
 با وفا یا عباس
 باوفا غازی میرے
+با وفا یا عباس
+
 سلام غازی سلام غازی
 وفا کا تو ہے امام غازی
 
@@ -90,7 +95,7 @@ romanLyrics: |-
 وفا کا تو ہے امام غازی
 
 ۴
-تو باوفا ہے تو لافتی ہے
+تو باوفا ہے تو لا فتیٰ ہے
 بے آسروں کا تو آسرا ہے
 جہاں میں چرچہ ہے عام غازی
 وفا کا تو ہے امام غازی
@@ -103,7 +108,7 @@ romanLyrics: |-
 
 ۶
 جو تیرے بازو قلم نہ ہوتے
-اسیر أہل حرم نہ ہوتے
+اسیر اہل حرم نہ ہوتے
 نہ جاتی زینب یوں شام غازی
 وفا کا تو ہے امام غازی
 
@@ -114,7 +119,7 @@ romanLyrics: |-
 وفا کا تو ہے امام غازی
 
 ۸
-جواد و سرور جب آے سرور
+جواد و سرور جب آئے سرور
 بریدہ بازو تھا ابنِ حیدر
 تو کیسے کرتا سلام غازی
 وفا کا تو ہے امام غازی
