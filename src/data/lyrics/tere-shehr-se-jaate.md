@@ -6,63 +6,65 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ya hussain ya hussain
-  Teray shahr se jate hain
+  Ya Husain ya Husain
+
+  Tere shehr se jaate haiṅ
+  De hum ko dua naana
+  Aabaad kareṅge hum
+  Haye ab Karbobala naana
 
   1
-  Day humko dua nana
-  Aabad karenge hum
-  Hae ab karbobala nana
-  Tera deen hai mushkil mein
-  Mai kaise rahun ghar mein
+  Tera din hai mushkil mein
+  Main kaise rahuṅ ghar mein
   Tifli mein koi waada
-  Tha tujhse kiya nana
+  Tha tujh se kiya naana
 
   2
-  Rauze pe tere aake hum
-  Shamme jalate thay
-  Ab kaun mujawir hai
-  Sughra ke siwa nana
+  Rauze pe tere aa ke hum
+  Yuṅ shama jalaate the
+  Ab kaun mujaawir hai
+  Sughra ke siwa naana
 
   3
-  Is tarha parinde bhi
-  Maskann se nahi jaate
+  Is tarah parinde bhi
+  Maskan se nahiṅ jaate
   Ghurbat mein mujhe jaise
-  Ab jaana pada nana
+  Ab jaana para naana
 
   4
-  Bacche hai bahot chote
-  Garmi ka zamana hai
-  Pahunchayega manzil par
-  Ab hum ko khuda nana
+  Bachche haiṅ bahut chhote
+  Garmi ka zamaana hai
+  Pahuṅchaayega manzil par
+  Ab hum ko Khuda naana
 
   5
-  Amma ki lehad chooti
-  Rauza bhi tera choota
+  Ammaaṅ ki lahad chhuti
+  Rauza bhi tera chhuta
   Is waqt kaleje par
-  Khanjar sa chala nana
+  Khanjar sa chala naana
 
   6
   Zainab tere rauze par
-  Beparda nahi aayi
-  Ab dekhegi sab dunya
-  Sar uska khula nana
+  Beparda nahiṅ aayi
+  Ab dekhegi sab duniya
+  Sar us ka khula naana
 
   7
   Mere saath mein jaati hai
-  Masoom sakina bhi
+  Maasum Sakina bhi
   Pardes mein howegi
-  Us par bhi jafa nana
+  Us par bhi jafa naana
 
   8
-  Rehaan larzta tha
+  Rehaan larazta tha
   Marqad bhi payambar ka
-  Shabbir jo kehte thay
-  Mai marne chala nana
+  Shabbir jo kehte the
+  Main marne chala naana
 # source_id: nohayonline:03f12aef0cf721dcb4ff
 # source_url: https://www.nohayonline.com/details_content.php?id=3320
 # raw_sha256: 477b3c281dd92c12100928662e5dfa7f23aa37c5605127cb8053642afe722b43
@@ -71,12 +73,13 @@ romanLyrics: |-
 # raw_sha256: bd8ba4101e01e9eec832c608d659ec6b8d5d161fd0b045d3a3bcbb56a0f497bb
 ---
 یا حسین یا حسین
-تیرے شہر سے جاتے ہیں
 
-۱
+تیرے شہر سے جاتے ہیں
 دے ہم کو دعا نانا
 آباد کریں گے ہم
-اب کربوبلا نانا
+ہائے اب کربوبلا نانا
+
+۱
 تیرا دین ہے مشکل میں
 میں کیسے رہوں گھر میں
 طفلی میں کوئی وعدہ
@@ -85,7 +88,7 @@ romanLyrics: |-
 ۲
 روضے پہ تیرے آ کے ہم
 یوں شمع جلاتے تھے
-اب کون‌ مجاور ہے
+اب کون مجاور ہے
 صغرا کے سوا نانا
 
 ۳
@@ -97,7 +100,7 @@ romanLyrics: |-
 ۴
 بچے ہیں بہت چھوٹے
 گرمی کا زمانہ ہے
-پہنچاے گا منزل پر
+پہنچائے گا منزل پر
 اب ہم کو خدا نانا
 
 ۵
@@ -108,14 +111,14 @@ romanLyrics: |-
 
 ۶
 زینب تیرے روضے پر
-بے پردہ نہیں آی
+بے پردہ نہیں آئی
 اب دیکھے گی سب دنیا
 سر اس کا کھلا نانا
 
 ۷
 میرے ساتھ میں جاتی ہے
 معصوم سکینہ بھی
-پردیس میں ہوے گی
+پردیس میں ہوئے گی
 اس پر بھی جفا نانا
 
 ۸
