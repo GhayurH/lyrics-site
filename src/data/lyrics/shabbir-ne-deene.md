@@ -5,44 +5,45 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Raza Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shabbir ne deene haq ke liye
-  Ghar bhar ko luta kar chod diya
-  Bano ke muqaddar ka taara
-  Turbat mein chupa kar chod diya
-  
+  Shabbir ne din-e-haq ke liye
+  Ghar bhar ko luta kar chhor diya
+  Baano ke muqaddar ka taara
+  Turbat mein chhupa kar chhor diya
+
   1
   Asghar ke liye betaab hui
-  Aur qaime ke dar tak jab aayi
-  Kya jaaniye maa ne kya dekha
-  Parde ko utha kar chod diya
-  
+  Aur khaime ke dar tak jab aayi
+  Kya jaaniye maaṅ ne kya dekha
+  Parde ko utha kar chhor diya
+
   2
-  Pehle to utha kar akbar ko
-  Shabbir ne zakhme dil dekha
-  Jab nana ki ummat yaad aayi
-  Seene se laga kar chod diya
-  
+  Pehle to utha kar Akbar ko
+  Shabbir ne zakhm-e-dil dekha
+  Jab Naana ki ummat yaad aayi
+  Sine se laga kar chhor diya
+
   3
-  Mashqeeza chida meinoos hui
-  Majboor thay aakhir kya karte
-  Abbas ne apne dil ka lahoo
-  Pani mein mila kar chod diya
-  
+  Mashkiza chhida maayus hui
+  Majbur the aakhir kya karte
+  Abbas ne apne dil ka lahu
+  Paani mein mila kar chhor diya
+
   4
-  Peedi mein jawan ke laashe ko
-  Shabbir kahan tak le jaayein
-  Suraj ki tarha jab dil dooba
-  Maqtal mein lita kar chod diya
-  
+  Piri mein jawaaṅ ke laashe ko
+  Shabbir kahaaṅ tak le jaayeṅ
+  Suraj ki tarah jab dil duba
+  Maqtal mein lita kar chhor diya
+
   5
-  Teeron se chamakte bhalon ne
-  Akbar ka kaleja cheer diya
-  Tasweer e nabi ko ummat ne
-  Rangeen bana kar chod diya
+  Tiroṅ se chamakte bhaaloṅ ne
+  Akbar ka kaleja chir diya
+  Tasvir-e-Nabi ko ummat ne
+  Rangin bana kar chhor diya
 # source_id: nohayonline:a5bba10faec2e4b80784
 # source_url: https://www.nohayonline.com/details_content.php?id=945
 # raw_sha256: b2b700d05665982cd6a28563f4eff0aed8671d5a3c1fa4a2c928874698197e97
@@ -53,31 +54,31 @@ romanLyrics: |-
 تربت میں چھپا کر چھوڑ دیا
 
 ۱
-اصغر کے لئے بےتاب ہوی
-اور خیمے کے در تک جب آی
+اصغر کے لئے بے تاب ہوئی
+اور خیمے کے در تک جب آئی
 کیا جانیے ماں نے کیا دیکھا
 پردے کو اٹھا کر چھوڑ دیا
 
 ۲
 پہلے تو اٹھا کر اکبر کو
 شبیر نے زخم دل دیکھا
-جب نانا کی امت یاد آی
+جب نانا کی امت یاد آئی
 سینے سے لگا کر چھوڑ دیا
 
 ۳
-مشکیزہ چھدا مایوس ہوی
+مشکیزہ چھدا مایوس ہوئی
 مجبور تھے آخر کیا کرتے
 عباس نے اپنے دل کا لہو
 پانی میں ملا کر چھوڑ دیا
 
 ۴
 پیڑی میں جواں کے لاشے کو
-شبیر کہاں تک لے جایں
+شبیر کہاں تک لے جائیں
 سورج کی طرح جب دل ڈوبا
 مقتل میں لٹا کر چھوڑ دیا
 
 ۵
-تیروں سے چمکتے بالوں نے
+تیروں سے چمکتے بھالوں نے
 اکبر کا کلیجہ چیر دیا
 تصویر نبی کو امت نے
 رنگین بنا کر چھوڑ دیا

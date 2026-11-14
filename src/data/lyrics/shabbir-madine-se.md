@@ -5,42 +5,43 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Do jag ke paalan haar kul hind ke autaar
-  Shabbir mere aaqa shabbir mere maula
-  Hirday may jaga paate jeevan may sama jaate
-  Shabbir madine se gar hind may aajate
+  Do jag ke paalan haar kul Hind ke autaar
+  Shabbir mere aaqa Shabbir mere Maula
+  Hirday mein jaga paate jivan mein sama jaate
+  Shabbir Madine se gar Hind mein aa jaate
 
   1
-  Kuch kaal na pad jaata sansar may pani ka
-  Do boondh agar zaalim asghar ko pila jaate
+  Kuchh kaal na par jaata sansaar mein paani ka
+  Do bundh agar zaalim Asghar ko pila jaate
 
   2
-  Un logon ne maula ko kaanto pe chalaya tha
-  Palkon ko bichate hum jis aur bhi wo jaate
+  Un logoṅ ne Maula ko kaantoṅ pe chalaaya tha
+  Palkoṅ ko bichhaate ham jis aur bhi wo jaate
 
   3
-  Ganga ke kanare par ghazi ka alam sajta
-  Is ganga ki shobha ko wo aake badha jaate
+  Ganga ke kinaare par Ghaazi ka alam sajta
+  Is Ganga ki shobha ko wo aa ke barha jaate
 
   4
-  Is desh may aa jata sundar sa parivartan
-  Har dharm ki janta ko khud kalma padha jaate
+  Is desh mein aa jaata sundar sa parivartan
+  Har dharm ki janta ko khud kalma parha jaate
 
   5
-  Shabbir ko janta ki chahat na agar hoti
-  Na godh ke paalon ko maati may mila jaate
+  Shabbir ko janta ki chaahat na agar hoti
+  Na god ke paaloṅ ko maati mein mila jaate
 
   6
-  Shabbir ke bachon ke yun naaz utha'te hum
-  Aakash ke taaron ko charno may bicha jaate
+  Shabbir ke bachchoṅ ke yuṅ naaz uthaate ham
+  Aakaash ke taaroṅ ko charnoṅ mein bichha jaate
 
   7
-  Baali na koi chinti chinti na koi chadar
-  Ravan ke pujari na qaimon ko jala jaate
+  Baali na koi chinti chinti na koi chaadar
+  Raavan ke pujaari na khaimoṅ ko jala jaate
 # source_id: nohayonline:38e9ffe6d5aa39cfdf58
 # source_url: https://www.nohayonline.com/details_content.php?id=972
 # raw_sha256: 81f6a706d721c43d7cb63eaa5665a4f6801a265d9366857853120ad6aff12ff6
@@ -48,7 +49,7 @@ romanLyrics: |-
 دو جگ کے پالن ہار کل ہند کے اوتار
 شبیر میرے آقا شبیر میرے مولا
 ہردے میں جگا پاتے جیون میں سما جاتے
-شبیر مدینے سے گر ہند میں آجاتے
+شبیر مدینے سے گر ہند میں آ جاتے
 
 ۱
 کچھ کال نہ پڑ جاتا سنسار میں پانی کا
@@ -59,19 +60,19 @@ romanLyrics: |-
 پلکوں کو بچھاتے ہم جس اور بھی وہ جاتے
 
 ۳
-گنگا کے کنارے پر غازی کا الم سجتا
-اس گنگا کی شوبھا کو وہ آکے بڑھا جاتے
+گنگا کے کنارے پر غازی کا علم سجتا
+اس گنگا کی شوبھا کو وہ آ کے بڑھا جاتے
 
 ۴
 اس دیش میں آ جاتا سندر سا پریورتن
-ہر دھرم کی جنتا کو قد کلمہ پڑھا جاتے
+ہر دھرم کی جنتا کو خود کلمہ پڑھا جاتے
 
 ۵
 شبیر کو جنتا کی چاہت نہ اگر ہوتی
 نہ گود کے پالوں کو ماٹی میں ملا جاتے
 
 ۶
-شبیر کے بچوں کے یوں ناز اٹھتے ہم
+شبیر کے بچوں کے یوں ناز اٹھاتے ہم
 آکاش کے تاروں کو چرنوں میں بچھا جاتے
 
 ۷
