@@ -147,6 +147,13 @@ export function reviewMarkdown(source: MarkdownSource): ReviewedMarkdown {
   }
 
   if (kind === "lyrics") {
+    // Standalone kalams are permanently text-only. Fail the editorial gate
+    // if a bulk import brings back obsolete scanned-cover metadata.
+    for (const field of ["cover", "coverAlt"]) {
+      if (Object.hasOwn(fields, field))
+        record(issues, path, 2, "obsolete-lyric-image",
+          field + " is not supported for standalone kalams");
+    }
     for (const field of ["title", "language", "lang", "direction", "kalamType"]) {
       if (!fields[field]) record(issues, path, 2, "missing-metadata", "Missing " + field + " field");
     }
