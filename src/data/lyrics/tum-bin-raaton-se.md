@@ -6,71 +6,74 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Tasht may shaah ka sar qaid may jab laaya gaya
-  Roke chillayi sakina dar e zindan khula
-  Nabz se haath hatao zara amma dekho
-  Mai na kehti thi ke aaye hai padar lene ko
-  Godh may baap ka sar leke sakina boli
-  Baba ek baar bhi tum ne na khabar li meri
-  Tum bin kayi raaton se mai soyi nahi baba
-  Kya yaad sakina tumhe aayi nahi baba
+  Tasht mein shaah ka sar qaid mein jab laaya gaya
+  Ro ke chillaayi Sakina dar-e-zindaaṅ khula
+  Nabz se haath hataao zara ammaaṅ dekho
+  Main na kehti thi ke aaye haiṅ padar lene ko
+  God mein baap ka sar le ke Sakina boli
+  Baba ik baar bhi tum ne na khabar li meri
+
+  Tum bin kai raatoṅ se main soyi nahiṅ Baba
+  Kya yaad Sakina tumheṅ aayi nahiṅ Baba
 
   1
-  Yaad aata hai wo aap ka seene pe sulana
-  Moo choomna aur godh may shafqat se bithana
-  Nanhe se mere haathon ko aankhon se lagana
-  Ab poochne waala mera koi nahi baba
+  Yaad aata hai wo aap ka sine pe sulaana
+  Muṅh chumna aur god mein shafqat se bithaana
+  Nanhe se mire haathoṅ ko aaṅkhoṅ se lagaana
+  Ab puchhne wala mira koi nahiṅ Baba
 
   2
-  Farmaya tha ye aap ne matti pe sula kar
-  Sojana jahan tujhko sulaye teri maadar
-  Ye dekhiye baithi hoo mai zindan ki zameen par
-  Mai aaj bhi is baat ko bhooli nahi baba
+  Farmaaya tha ye aap ne mitti pe sula kar
+  So jaana jahaaṅ tujh ko sulaaye tiri maadar
+  Ye dekhiye baithi huṅ main zindaaṅ ki zamiṅ par
+  Main aaj bhi is baat ko bhuli nahiṅ Baba
 
   3
-  Deta tha saza shimr yun baalon se pakad kar
-  Daudaye chala jaata tha rahwaar sitamgar
-  Majboor thi daudun yuhin ghodon ke barabar
-  Haalat wo meri aap ne dekhi nahi baba
+  Deta tha saza Shimr yuṅ baaloṅ se pakar kar
+  Dauraaye chala jaata tha rahwaar sitamgar
+  Majbur thi dauruṅ yuṅ hi ghoroṅ ke baraabar
+  Haalat wo miri aap ne dekhi nahiṅ Baba
 
   4
-  Mai kaise kahun kaisi thi us waqt ghareebi
-  Milne ko hamay aayi thi jab hind ki beti
-  Pehne huwe kaano may wo mere hi gauhar thi
-  Ramla se magar kuch bhi mai boli nahi baba
+  Main kaise kahuṅ kaisi thi us waqt gharibi
+  Milne ko hameṅ aayi thi jab Hind ki beti
+  Pehne hue kaanoṅ mein wo mere hi gauhar thi
+  Ramla se magar kuchh bhi main boli nahiṅ Baba
 
   5
-  Ek mod pe zaalim ne sataya mujhe aise
-  Le aaya mujhe wo sar e abbas ke aage
-  Aur saamne unke mujhe maare thay tamache
-  Sab seh gayi chup chaap mai royi nahi baba
+  Ik mor pe zaalim ne sataaya mujhe aise
+  Le aaya mujhe wo sar-e-Abbas ke aage
+  Aur saamne un ke mujhe maare the tamaache
+  Sab seh gayi chup chaap main royi nahiṅ Baba
 
   6
-  Poti hoo mai zahra ki bas ek baar kaha tha
-  Wo sang gire mujhpe lahoo itna baha tha
-  Chehra mera maa se bhi na pehchana gaya tha
-  Ab ghar ka hawala kabhi deti nahi baba
+  Poti huṅ main Zahra ki bas ek baar kaha tha
+  Wo sang gire mujh pe lahu itna baha tha
+  Chehra mera maaṅ se bhi na pehchaana gaya tha
+  Ab ghar ka hawaala kabhi deti nahiṅ Baba
 
   7
-  Akbar kaha bibi ne kamar kham hui meri
-  Daadi ki tarha chaayi hai baalon pe safedi
-  Fizza ki tarha chehre pe chaayi hai zaeefi
-  Ab jeene ki khwahish bhi to baaqi nahi baba
+  Akbar kaha Bibi ne kamar kham hui meri
+  Daadi ki tarah chhaayi hai baaloṅ pe safedi
+  Fizza ki tarah chehre pe chhaayi hai zaifi
+  Ab jine ki khwaahish bhi to baaqi nahiṅ Baba
 # source_id: nohayonline:83b026e13744c78cf9b9
 # source_url: https://www.nohayonline.com/details_content.php?id=2679
 # raw_sha256: e846e3d8b2beb8406fb7ecb938d159611b2ee0dea6eb061e6caac0440c413fcc
 ---
 طشت میں شاہ کا سر قید میں جب لایا گیا
-روکے چلای سکینہ در زنداں کھلا
-نبض سے ہاتھ ہٹاؤ زرا اماں دیکھو
-میں نہ کہتی تھی کہ آے ہیں پدر لینے کو
+رو کے چلائی سکینہ درِ زنداں کھلا
+نبض سے ہاتھ ہٹاؤ ذرا اماں دیکھو
+میں نہ کہتی تھی کہ آئے ہیں پدر لینے کو
 گود میں باپ کا سر لے کے سکینہ بولی
 بابا اک بار بھی تم نے نہ خبر لی میری
-تم بن کئ راتوں سے میں سوئی نہیں بابا
+
+تم بن کئی راتوں سے میں سوئی نہیں بابا
 کیا یاد سکینہ س تمھیں آئی نہیں بابا
 
 ۱
@@ -105,12 +108,12 @@ romanLyrics: |-
 
 ۶
 پوتی ہوں میں زہرا س کی فقط اتنا کہا تھا
-وہ سنگ گرے مجھے پہ لہو بہنے لگا تھا
+وہ سنگ گرے مجھ پہ لہو بہنے لگا تھا
 چہرہ مرا ماں سے بھی نہ پہچانا گیا تھا
 اب نام بھی میں اپنا بتاتی نہیں بابا
 
 ۷
-اکبر کہا بی بی س نے کمر خم ہوئی میری
+اکبر کہا بی‌بی س نے کمر خم ہوئی میری
 دادی س کی طرح چھائی ہے بالوں پہ سفیدی
 فضہ کی طرح چہرے پہ چھائی ہے ضعیفی
 اب جینے کی خواہش بھی تو باقی نہیں بابا

@@ -6,40 +6,41 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ahmed Naved"
+reciter: "Muslim Jafri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Tum chand ho is ghar ka na jao ali akbar
-  Sughra ki zaeefi na badhao ali akbar
+  Tum chaand ho is ghar ka na jaao Ali Akbar
+  Sughra ki zaifi na barhaao Ali Akbar
 
   1
-  Baithi hoo mai dehleez pe tum jab se gaye ho
-  Lene mujhe kab aaoge aao ali akbar
+  Baithi huṅ main dehliz pe tum jab se gaye ho
+  Lene mujhe kab aaoge aao Ali Akbar
 
   2
-  Doori ka na daagh do sughra ko khudara
-  Barchi to kalaje pe na khao ali akbar
+  Duri ka na daagh do Sughra ko khudaara
+  Barchhi to kaleje pe na khaao Ali Akbar
 
   3
-  Ek tum hi to sughra ki zaeefi ka asa ho
-  Sughra ko sahara do uthao ali akbar
+  Ek tum hi to Sughra ki zaifi ka asa ho
+  Sughra ko sahaara do uthaao Ali Akbar
 
   4
-  Mai chahun bhi to ghar ki ye veerani na kam ho
-  Tum chaaho to veerana basao ali akbar
+  Main chaahuṅ bhi to ghar ki ye viraani na kam ho
+  Tum chaaho to viraana basaao Ali Akbar
 
   5
-  Aao ke andhere ne mujhe ghayr liya hai
-  Jeene ki koi shakl dikhao ali akbar
+  Aao ke andhere ne mujhe gher liya hai
+  Jine ki koi shakl dikhaao Ali Akbar
 
   6
-  Tanhai may veerani may sannate may khud may
-  Mai kho gayi hoo dhoond ke lao ali akbar
+  Tanhaai mein viraani mein sannaate mein khud mein
+  Main kho gayi huṅ dhund ke laao Ali Akbar
 
   7
-  Nauha tha naved uske labon par yehi har dam
-  Dam seene may rukne laga aao ali akbar
+  Noha tha Naved us ke laboṅ par yehi har dam
+  Dam sine mein rukne laga aao Ali Akbar
 # source_id: nohayonline:3e49dcf685bb76291ae3
 # source_url: https://www.nohayonline.com/details_content.php?id=974
 # raw_sha256: 4d13b0809a7f349788d111316a634e4fc6358ed49158b87f3ea5c36ae4530a0d
@@ -48,8 +49,8 @@ romanLyrics: |-
 صغرا کی ضعیفی نہ بڑھاؤ علی اکبر
 
 ۱
-بیٹھی ہوں میں دہلیز پہ تم جب سے گےء ہو
-لینے مجھے کا آؤ گے آؤ علی اکبر
+بیٹھی ہوں میں دہلیز پہ تم جب سے گئے ہو
+لینے مجھے کب آؤ گے آؤ علی اکبر
 
 ۲
 دوری کا نہ داغ دو صغرا کو خدارا
@@ -64,12 +65,12 @@ romanLyrics: |-
 تم چاہو تو ویرانہ بساؤ علی اکبر
 
 ۵
-آؤ کے اندھیرے نے مجھے گھیر لیا ہے
+آؤ کہ اندھیرے نے مجھے گھیر لیا ہے
 جینے کی کوئی شکل دکھاؤ علی اکبر
 
 ۶
-تنہائی میں ویرانی میں سناٹے میں قد میں
-میں کھو گیء ہوں ڈھونڈ کے لاؤ علی اکبر
+تنہائی میں ویرانی میں سناٹے میں خود میں
+میں کھو گئی ہوں ڈھونڈ کے لاؤ علی اکبر
 
 ۷
 نوحہ تھا نوید اس کے لبوں پر یہی ہر دم
