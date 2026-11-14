@@ -12,6 +12,7 @@ interface Props {
   className?: string;
   modeGroupLabel?: string;
   showModes?: boolean;
+  hasUrdu?: boolean;
   hasImage?: boolean;
   imageOnly?: boolean;
   pageJump?: boolean;
@@ -26,6 +27,7 @@ const {
   className = "",
   modeGroupLabel = "Visible editions",
   showModes = true,
+  hasUrdu = true,
   hasImage = false,
   imageOnly = false,
   pageJump = false,
@@ -78,7 +80,7 @@ const {
           <span>Image</span>
         </label>
       )}
-      {!imageOnly && (
+      {!imageOnly && hasUrdu && (
         <label class="reading-column-choice">
           <input type="checkbox" value="urdu" data-reading-column checked />
           <span>Urdu</span>
