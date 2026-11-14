@@ -18,7 +18,6 @@ export function GET({ props }: { props: { item: CollectionEntry<"lyrics"> } }) {
       kalamType: item.data.kalamType,
       urdu: item.body || "", roman: item.data.romanLyrics || "",
       sixVerseLayout: item.data.sixVerseLayout,
-      cover: item.data.cover || null,
     },
   });
 }
