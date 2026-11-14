@@ -1,69 +1,74 @@
 ---
-title: "یتیم بچی ہے درد و علم کی ماری ہے"
-alternateTitle: "Sakina Par Khudara"
+title: "یتیم بچی ہے درد و الم کی ماری ہے"
+alternateTitle: "Sakina Par Khudaara"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
+reciter: "Shadman Raza"
 tags: ["noImage"]
-aliases: []
+aliases: ["Sakina Par Khudara"]
 published: false
 romanLyrics: |-
-  Yateem bacchi hai dard o alam ki maari hai
-  Koi ghareeb nahi hai ye shaahzadi hai
-  Sakina par khudara sitam itna na dhao
-  Yateemi ki ghadi hai bahot sehmi hui hai
-  Sitam itna na dhao
-  
+  Yatim bachchi hai dard o alam ki maari hai
+  Koi gharib nahiṅ hai ye shaahzaadi hai
+  Sakina par khudaara sitam itna na dhaao
+
+  Yatimi ki ghari hai bahut sehmi hui hai
+  Sitam itna na dhaao
+  Sakina par khudaara sitam itna na dhaao
+
   1
-  Abhi maara gaya hai iska baba
-  Arey is waqt do isko dilaasa
-  Tamache mat lagao
-  
+  Abhi maara gaya hai is ka baaba
+  Are is waqt do is ko dilaasa
+  Tamaache mat lagaao
+
   2
-  Bahot pyasi bahot pyasi hai haye
-  Kahin ye tashna lab hi mar na jaye
-  Isay pani pilao
-  
+  Bahut pyaasi bahut pyaasi hai haae
+  Kahiṅ ye tashna lab hi mar na jaae
+  Ise paani pilaao
+
   3
-  Ye saydani hai ye aala nasab hai
-  Arey ye dukhtare shaahe arab hai
-  Khareeb iske na jao
-  
+  Ye sayyidaani hai ye aala nasab hai
+  Are ye dukhtar-e-Shah-e-Arab hai
+  Qarib is ke na jaao
+
   4
-  Khadi hai itni laasho mein ye tanha
+  Khari hai itni laashoṅ mein ye tanha
   Andhera aur bala ka hai andhera
-  Zara himmat badhao
-  
+  Zara himmat barhaao
+
   5
-  Is aalam mein na jee payegi haye
-  Bina baba ke mar jayegi haye
-  Koi sheh ko bulao
-  
+  Is aalam mein na ji paaegi haae
+  Bina baaba ke mar jaaegi haae
+  Koi Shah ko bulaao
+
   6
-  Na ab baba hai na iska chacha hai
+  Na ab baaba hai na is ka chacha hai
   Lagi hai aag daaman jal raha hai
-  Koi aa kar bachao
-  
+  Koi aa kar bachaao
+
   7
-  Bade naazon mein ye bacchi pali hai
-  Bahot kamsin hai ye ghabra gayi hai
-  Zara sa rehm khao
-  
+  Bare naazoṅ mein ye bachchi pali hai
+  Bahut kamsin hai ye ghabra gai hai
+  Zara sa rehm khaao
+
   8
-  Sada ek laash se gohar ye aayi
-  Na tum ghabrao ay baba ki pyari
-  Hamare paas aao
+  Sada ek laash se Gohar ye aai
+  Na tum ghabraao ae baaba ki pyaari
+  Hamaare paas aao
 # source_id: nohayonline:9223daafa53028e9238a
 # source_url: https://www.nohayonline.com/details_content.php?id=2633
 # raw_sha256: 7860044809d373a93e92b077e17578515ee587a73b8200176fe1497ba6db8e2e
 ---
-یتیم بچی ہے درد و علم کی ماری ہے
+یتیم بچی ہے درد و الم کی ماری ہے
 کوئی غریب نہیں ہے یہ شاہ زادی ہے
 سکینہ پر خدارا ستم اتنا نہ ڈھاؤ
-یتیمی کی گھڑی ہے بہت سہمی ہوی ہے
+
+یتیمی کی گھڑی ہے بہت سہمی ہوئی ہے
 ستم اتنا نہ ڈھاؤ
+سکینہ پر خدارا ستم اتنا نہ ڈھاؤ
 
 ۱
 ابھی مارا گیا ہے اس کا بابا
@@ -71,8 +76,8 @@ romanLyrics: |-
 طمانچے مت لگاؤ
 
 ۲
-بہت پیاسی بہت پیاسی ہے ہاے
-کہیں یہ تشنہ لب ہی مر نہ جاے
+بہت پیاسی بہت پیاسی ہے ہائے
+کہیں یہ تشنہ لب ہی مر نہ جائے
 اسے پانی پلاؤ
 
 ۳
@@ -83,12 +88,12 @@ romanLyrics: |-
 ۴
 کھڑی ہے اتنی لاشوں میں یہ تنہا
 اندھیرے اور بلا کا ہے۔ اندھیرا
-زرا ہمت بڑھاؤ
+ذرا ہمت بڑھاؤ
 
 ۵
-اس عالم میں نہ جی پاے گی ہاے
-بنا بابا کے مر جاۓ گی ہاے
-کوی شہ کو بلاؤ
+اس عالم میں نہ جی پائے گی ہائے
+بنا بابا کے مر جائے گی ہائے
+کوئی شہ کو بلاؤ
 
 ۶
 نہ اب بابا ہے نہ اس کا چچا ہے
@@ -97,10 +102,10 @@ romanLyrics: |-
 
 ۷
 بڑے نازوں میں یہ بچی پلی ہے
-بہت کمسن ہے یہ گھبرا گیء ہے
-زرا سا رحم کھاؤ
+بہت کمسن ہے یہ گھبرا گئی ہے
+ذرا سا رحم کھاؤ
 
 ۸
-صدا اک لاش سے گوہر یہ آی
+صدا اک لاش سے گوہر یہ آئی
 نہ تم گھبراؤ اے بابا کی پیاری
 ہمارے پاس آؤ
