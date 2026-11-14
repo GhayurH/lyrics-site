@@ -1,45 +1,46 @@
 ---
-title: تجھے جھُولا جھُلائوں میں تجھے جھُولا جھُلائوں
-alternateTitle: Tujhe Jhoola Jhulaun
+title: تجھے جھُولا جھُلاؤں میں تجھے جھُولا جھُلاؤں
+alternateTitle: Tujhe Jhula Jhulaauṅ
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
-aliases: []
+aliases: ["Tujhe Jhoola Jhulaun"]
 published: false
 romanLyrics: |-
-  Mein jhoola jhulaon, mein tujhay jhoola jhulaon
-  Mein khuwaab mein Asghar tujhay, lori bhi sunaoon
+  Tujhe jhula jhulaauṅ main tujhe jhula jhulaauṅ
+  Main khwaab mein Asghar tujhe lori bhi sunaauṅ
 
   1
-  Laut aao safar sey ke badi deyr huwi hay
-  Betaab hu kabsey tujhay seenay sey lagaoon
+  Laut aao safar se ke bari der hui hai
+  Betaab huṅ kab se tujhe sine se lagaauṅ
 
   2
-  Koi mujhay batlata nahi teri nishani
-  Barsaat mein teeroon ki kahan dhoondnay jaon
+  Koi mujhe batlaata nahiṅ teri nishaani
+  Barsaat mein tiroṅ ki kahaaṅ dhundne jaauṅ
 
   3
-  Socha tha teri saalgirah ghar mein karoongi
-  Taqdeer yeh kehti hay tera soug manaoon
+  Socha tha teri saalgirah ghar mein karuṅ gi
+  Taqdir ye kehti hai tera sog manaauṅ
 
   4
-  Baba say teray tera janaza na uthayga
-  Ruk ja zara Abbas ko dariya sey bulaon
+  Baba se tere tera janaaza na uthe ga
+  Ruk jaa zara Abbas ko darya se bulaauṅ
 
   5
-  Yeh Khoon mein bhara kurta, yeh matti mein bharay baal
-  Seenay mein chupaon ke mein aankhoon sey lagaoon
+  Ye khuṅ bhara kurta ye mitti mein bhare baal
+  Sine mein chhupaauṅ ke main aankhoṅ se lagaauṅ
 
   6
-  Iss tarha Koi rooth ke maa sey nahi jata
-  Tu Khud he bata dey mein tujhay kaisay manaoon
+  Is tarah koi ruth ke maaṅ se nahiṅ jaata
+  Tu khud hi bataa de main tujhe kaise manaauṅ
 
   7
-  Rehan ke nohay sey sada baano ki ayee
-  Mein aankhoon sey askhkoon ke samander ko bahaoon
+  Rehaan ke nauhe pe sada Bano ki aayi
+  Main aankhoṅ se ashkoṅ ke samandar ko bahaauṅ
 # source_id: nohayonline:14da9c0342a3dd771485
 # source_url: https://www.nohayonline.com/details_content.php?id=624
 # raw_sha256: 337b3d81c5d7812221181817f35257c6af55a522e779965f0297d76bd8bb014a
@@ -52,7 +53,7 @@ romanLyrics: |-
 میں خواب میں اصغرؑ تجھے لوری بھی سُناؤں
 
 ۱
-لوٹ آئو سفر سے کہ بڑی دیر ہوئی ہے
+لوٹ آؤ سفر سے کہ بڑی دیر ہوئی ہے
 بیتاب ہوں کب سے تجھے سینے سے لگاؤں
 
 ۲
@@ -60,7 +61,7 @@ romanLyrics: |-
 برسات میں تیروں کی کہاں ڈھونڈنے جاؤں
 
 ۳
-سوچا تھا تیری سالگرہ ہر میں کروں گی
+سوچا تھا تیری سالگرہ گھر میں کروں گی
 تقدیر یہ کہتی ہے تیرا سوگ مناؤں
 
 ۴

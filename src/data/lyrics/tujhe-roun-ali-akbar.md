@@ -1,73 +1,74 @@
 ---
 title: "تجھے دولہا بناؤں یا تجھے روؤں علی اکبر"
-alternateTitle: "Tujhe Roun Ali Akbar"
+alternateTitle: "Tujhe Rouṅ Ali Akbar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Buknalvi"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
-aliases: []
+aliases: ["Tujhe Roun Ali Akbar"]
 published: false
 romanLyrics: |-
-  Tujhe dulha banaun ya tujhe roun ali akbar
-  Tera sehra sajaun ya tujhe roun ali akbar
+  Tujhe dulha banaauṅ ya tujhe rouṅ Ali Akbar
+  Tera sehra sajaauṅ ya tujhe rouṅ Ali Akbar
 
   1
-  Abhi attharwan tha saal teri zindagani ka
-  Qadam hota hai pehla bachpane se naujawani ka
+  Abhi athaarwaaṅ tha saal teri zindagaani ka
+  Qadam hota hai pehla bachpane se naujawaani ka
   Magar ab saamne mere hai laasha mere jaani ka
-  Mile sab khaak mein armaan tujhe dulha banane ke
-  Tere mehendi lagaun ya tujhe roun ali akbar
+  Mile sab khaak mein armaaṅ tujhe dulha banaane ke
+  Tere mehndi lagaauṅ ya tujhe rouṅ Ali Akbar
 
   2
-  Tujhe maa ne mere beta badi hasrat se paala tha
-  Padar ki jaan tha tu maa ki aankhon ka ujaala tha
-  Shabihe mustafa tha husn mein yusuf se aala tha
-  Mai teri chand si dulhan byaah ke ghar mein laungi
-  Teri shadi rachaun ya tujhe roun ali akbar
+  Tujhe maaṅ ne mere beta bari hasrat se paala tha
+  Padar ki jaan tha tu maaṅ ki aankhoṅ ka ujaala tha
+  Shabih-e-Mustafa tha husn mein Yusuf se aala tha
+  Main teri chaand si dulhan byaah ke ghar mein laauṅ gi
+  Teri shaadi rachaauṅ ya tujhe rouṅ Ali Akbar
 
   3
-  Kamar ko thaamte hai aur kabhi sar ko patakte hai
-  Zameen par baith kar shabbir phir dil ko masalte hai
-  Zaeefi ka sahara lut gaya keh kar tadapate hai
-  Jawan ki laash ko tanha badi muskhil se laaya hoon
-  Mai wo sadma uthaun ya tujhe roun ali akbar
+  Kamar ko thaamte haiṅ aur kabhi sar ko patakte haiṅ
+  Zamiṅ par baith kar Shabbir phir dil ko masalte haiṅ
+  Zaifi ka sahaara lut gaya keh kar tarapte haiṅ
+  Jawaaṅ ki laash ko tanha bari mushkil se laaya huṅ
+  Main wo sadma uthaauṅ ya tujhe rouṅ Ali Akbar
 
   4
-  Tamanna thi meri tujhko mai jab dulha banaungi
-  Balayein loongi teri tujhko seene se lagaungi
-  Karungi poore sab armaan har ek mannat badhaungi
-  He dil bechain ab mera tujhe dulha banane ko
-  Tujhe dil se lagaun ya tujhe roun ali akbar
+  Tamanna thi meri tujh ko main jab dulha banaauṅ gi
+  Balaaeṅ luṅ gi teri tujh ko sine se lagaauṅ gi
+  Karuṅ gi pure sab armaaṅ har ek mannat barhaauṅ gi
+  Hai dil bechain ab mera tujhe dulha banaane ko
+  Tujhe dil se lagaauṅ ya tujhe rouṅ Ali Akbar
 
   5
-  Teri shadi pe sughra ne kaha tha mai bhi aaungi
-  Mujhe lene nahi aaya to akbar rooth jaungi
-  Mai apane haathon se aakar teri dulhan sajaungi
-  Karo jab shadi ay bhai behen ko bhool na jaana
-  Mai sughra ko bulaun ya tujhe roun ali akbar
+  Teri shaadi pe Sughra ne kaha tha main bhi aauṅ gi
+  Mujhe lene nahiṅ aaya to Akbar ruth jaauṅ gi
+  Main apne haathoṅ se aa kar teri dulhan sajaauṅ gi
+  Karo jab shaadi ae bhai behen ko bhul na jaana
+  Main Sughra ko bulaauṅ ya tujhe rouṅ Ali Akbar
 
   6
-  Hai uljhi uljhi zulfein aur jami hai khaak chehre par
-  Nahi hai pani jo nehlaye maa tujhko ali akbar
-  Badi hasrat se aayi thi shahane jode ko le kar
-  Lagati mushk aur ambar shahana jode pehna kar
-  Ghame furqat bataun ya tujhe roun ali akbar
+  Hai uljhi uljhi zulfeṅ aur jami hai khaak chehre par
+  Nahiṅ hai paani jo nehlaaye maaṅ tujh ko Ali Akbar
+  Bari hasrat se aayi thi shahaane jore ko le kar
+  Lagaati mushk aur ambar shaahaana jora pehna kar
+  Gham-e-Furqat bataauṅ ya tujhe rouṅ Ali Akbar
 
   7
-  Utho beta khate sughra tumhare naam aaya hai
-  Karoge shadi kab akbar behen sughra ne likhha hai
-  Kayi din se mera dil ab bahot bechain rehta hai
-  Rahungi kab talak tanha batao to mere bhaiya
-  Jawabe khat likhaun ya tujhe roun ali akbar
+  Utho beta khat-e-Sughra tumhaare naam aaya hai
+  Karo ge shaadi kab Akbar behen Sughra ne likha hai
+  Kai din se mera dil ab bahut bechain rehta hai
+  Rahuṅ gi kab talak tanha bataao to mere bhaiya
+  Jawaab-e-Khat likhaauṅ ya tujhe rouṅ Ali Akbar
 
   8
-  Tadapti thi qamar buknalvi laashe ali akbar
-  Ay aamir umme laila ke bayan e gham ko sun sun kar
-  Mere noore nazar ab kya karegi maa teri jee kar
-  Jiyegi jab talak maadar karegi bas tera matam
-  Safe matam bichaun ya tujhe roun ali akbar
+  Tarapti thi Qamar Buknalvi laash-e-Ali Akbar
+  Ae Aamir Umm-e-Laila ke bayaan-e-gham ko sun sun kar
+  Mere nur-e-nazar ab kya kare gi maaṅ teri ji kar
+  Jiye gi jab talak maadar kare gi bas tera maatam
+  Saf-e-Maatam bichhaauṅ ya tujhe rouṅ Ali Akbar
 # source_id: nohayonline:c6e294ce32dba3fdbc7b
 # source_url: https://www.nohayonline.com/details_content.php?id=3659
 # raw_sha256: 8e72eba7d705d272406318853d0b16f83986d09cea64b2d1e9721af942ab53ff
@@ -97,8 +98,8 @@ romanLyrics: |-
 میں وہ صدمہ اٹھاؤں یا تجھے روؤں علی اکبر
 
 ۴
-تمنا تھی میری تجھکو میں جب دولہا بناؤں گی
-بلاییں لونگی تیری تجھکو سینے سے لگاؤں گی
+تمنا تھی میری تجھ کو میں جب دولہا بناؤں گی
+بلائیں لوں گی تیری تجھ کو سینے سے لگاؤں گی
 کروں گی پورے سب ارماں ہر ایک منت بڑھاؤں گی
 ہے دل بے چین اب میرا تجھے دولہا بنانے کو
 تجھے دل سے لگاؤں یا تجھے روؤں علی اکبر
@@ -107,26 +108,26 @@ romanLyrics: |-
 تیری شادی پہ صغرا نے کہا تھا میں بھی آؤں گی
 مجھے لینے نہیں آیا تو اکبر روٹھ جاؤں گی
 میں اپنے ہاتھوں سے آ کر تیری دلہن سجاؤں گی
-کرو جب شادی اے بھای بہن کو بھول نہ جانا
+کرو جب شادی اے بھائی بہن کو بھول نہ جانا
 میں صغرا کو بلاؤں یا تجھے روؤں علی اکبر
 
 ۶
-ہے الجھی الجھی ذولفیں اور جمی ہے خاک چہرے پر
-نہیں ہے پانی جو نہلاے ماں تجھکو علی اکبر
-بڑی حسرت سے آی تھی شہانے جوڑے کو لے کر
+ہے الجھی الجھی زلفیں اور جمی ہے خاک چہرے پر
+نہیں ہے پانی جو نہلائے ماں تجھ کو علی اکبر
+بڑی حسرت سے آئی تھی شہانے جوڑے کو لے کر
 لگاتی مشک اور امبر شاہانہ جوڑا پہنا کر
 غم فرقت بتاؤں یا تجھے روؤں علی اکبر
 
 ۷
 اٹھو بیٹا خط صغرا تمہارے نام آیا ہے
 کرو گے شادی کب اکبر بہن صغرا نے لکھا ہے
-کیء دن سے میرا دل اب بہت بے چین رہتا ہے
+کئی دن سے میرا دل اب بہت بے چین رہتا ہے
 رہوں گی کب تلک تنہا بتاؤ تو میرے بھیا
-جواب خط لکھاوں یا تجھے روؤں علی اکبر
+جواب خط لکھاؤں یا تجھے روؤں علی اکبر
 
 ۸
 تڑپتی تھی قمر بک نلوی لاشے علی اکبر
 اے عامر ام لیلیٰ کے بیان غم کو سن سن کر
 میرے نور نظر اب کیا کرے گی ماں تیری جی کر
-جیےء گی جب تلک مادر کرے گی بس تیرا ماتم
+جیے گی جب تلک مادر کرے گی بس تیرا ماتم
 صف ماتم بجھاؤں یا تجھے روؤں علی اکبر

@@ -1,106 +1,107 @@
 ---
-title: "میرے مانجاے تیری زینب کی"
-alternateTitle: "Tu Padta Ja Quran"
+title: "میرے ماں جائے تیری زینب کی"
+alternateTitle: "Tu Parhta Jaa Quraan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
-aliases: []
+aliases: ["Tu Padta Ja Quran"]
 published: false
 romanLyrics: |-
-  Mere maajaye teri zainab ki
-  Chadar tujhpar qurban
-  Tu padhta jaa quran
-  Har simt tamashayi hai khade
-  Meri aankhein hai hairaan
-  Tu padhta jaa quran
+  Mere maaṅ jaaye teri Zainab ki
+  Chaadar tujh par qurbaan
+  Tu parhta jaa Quraan
+  Har simt tamaashaai haiṅ khare
+  Meri aankheṅ haiṅ hairaaṅ
+  Tu parhta jaa Quraan
 
   1
   Himmat de sabr de taaqat de
-  Allah mere bhai tujhko
-  Tu sura e kehf jo padhta hai
-  Sunte hai tamashayi tujhko
-  Bat jaata hai kuch pal ke liye
-  Kufe waalon ka dhyaan
+  Allah mere bhai tujh ko
+  Tu Surah-e-Kahf jo parhta hai
+  Sunte haiṅ tamaashaai tujh ko
+  Bat jaata hai kuchh pal ke liye
+  Kufe waaloṅ ka dhyaan
 
   2
   Hai dil mein mere bas ek chubhan
-  Mai kaun hoo koi jaan na le
-  Baalon se chipaye hoo chehra
-  Kahin koi mujhe pehchaan na le
-  Lekin ye hai zehra ka kunba
+  Main kaun huṅ koi jaan na le
+  Baaloṅ se chhupaaye huṅ chehra
+  Kahiṅ koi mujhe pehchaan na le
+  Lekin ye hai Zehra ka kunba
   Koi karta hai aelaan
 
   3
-  Kis haal mein hai teri maajayi
+  Kis haal mein hai teri maaṅ jaai
   Zara dekh to le mujhe naize se
-  Meri pusht hai durron se chalni
-  Mere shaano par hai neel pade
-  Kal tak mai jahan shehzaadi thi
-  Wahin aaj hai meri ye shaan
+  Meri pusht hai durroṅ se chhalni
+  Mere shaanoṅ par hai nil pare
+  Kal tak main jahaaṅ shehzaadi thi
+  Wahiṅ aaj hai meri ye shaan
 
   4
-  Hamein zaalim patthar maarte hai
-  Sadqon ki khajurein phaynkte hai
-  Azaad kiya tha hum ne jinhe
-  Wohi aaj tamasha dekhte hai
-  Jis simt nigaah uthaati hoo
-  Meri maut ke hai saaman
+  Hameṅ zaalim patthar maarte haiṅ
+  Sadqoṅ ki khajureṅ pheṅkte haiṅ
+  Aazaad kiya tha hum ne jinheṅ
+  Wohi aaj tamaasha dekhte haiṅ
+  Jis simt nigaah uthaati huṅ
+  Meri maut ke haiṅ saamaaṅ
 
   5
-  Hum apne shikasta kaandho par
-  Sau karbobalayein leke chale
-  Ye zulm bhi koi kam to nahi
-  Ek rassi hai aur baara gale
-  Meri khaatir rab se maang dua
-  Mujhe jaana hai zindan
+  Hum apne shikasta kaandhoṅ par
+  Sau Karb o balaaeṅ le ke chale
+  Ye zulm bhi koi kam to nahiṅ
+  Ek rassi hai aur baarah gale
+  Meri khaatir Rab se maaṅg dua
+  Mujhe jaana hai zindaaṅ
 
   6
-  Ghazi ka alam mere saath mein hai
-  Akbar ki azan mere saath mein hai
-  Hai shaam e ghariban aankhon mein
-  Qaimon ka dhuan mere saath mein hai
+  Ghaazi ka alam mere saath mein hai
+  Akbar ki azaaṅ mere saath mein hai
+  Hai Shaam-e-Gharibaaṅ aankhoṅ mein
+  Khaimoṅ ka dhuaaṅ mere saath mein hai
   Pardes mein hum ko ummat ne
-  Kya khoob rakha mehmaan
+  Kya khub rakha mehmaaṅ
 
   7
-  Mere phool mere nauras gunche
-  Hai aaj sina ki shaakhon par
-  Wo qasim o akbar ke sar hai
-  Wo aun o mohamed wo asghar
-  Taqdeer ne khoob sajaaye hai
-  Naizon pe mere armaan
+  Mere phul mere nauras ghunche
+  Hai aaj sinaaṅ ki shaakhoṅ par
+  Wo Qasim o Akbar ke sar haiṅ
+  Wo Aun o Muhammad wo Asghar
+  Taqdir ne khub sajaaye haiṅ
+  Naizoṅ pe mere armaaṅ
 
   8
-  Awaaz ka parda reh jaaye
-  Bolungi ali ke lehje mein
-  Sab dekhle baatein karti hai
-  Zainab bhi wali ke lehje mein
-  Mil jayega teri tilaawat se
-  Mere khutbon ko unwaan
+  Aawaaz ka parda reh jaaye
+  Boluṅ gi Ali ke lehje mein
+  Sab dekh le baateṅ karti hai
+  Zainab bhi Wali ke lehje mein
+  Mil jaaye ga teri tilaawat se
+  Mere khutboṅ ko unwaaṅ
 
   9
-  Sajjad ke dil se pooche koi
-  Hai kaisi qayamat ki ye ghadi
-  Haathon mein hai jis ke hathkadiyan
-  Pairon mein hai dohri bedi padi
-  Bemaar ne langar pehna hai
-  Insaaf kare insaan
+  Sajjad ke dil se puchhe koi
+  Hai kaisi qayaamat ki ye ghari
+  Haathoṅ mein hai jis ke hathkariyaṅ
+  Pairoṅ mein hai dohri beri pari
+  Bimaar ne langar pehna hai
+  Insaaf kare insaaṅ
 
   10
-  Ay nayyar o aamir aati hai
-  Reh reh ke azakhano se sada
-  Zainab ki tamanna hai matam
-  Aur aansu hai zehra ki dua
-  Paigham tera pahunchayenge
-  Ghar ghar tere nauhakhwan
+  Ae Nayyar o Aamir aati hai
+  Reh reh ke azaakhaanoṅ se sada
+  Zainab ki tamanna hai maatam
+  Aur aansu hai Zehra ki dua
+  Paighaam tera pahuṅchaayeṅ ge
+  Ghar ghar tere nauha khwaaṅ
 # source_id: nohayonline:2065ef977230d857246e
 # source_url: https://www.nohayonline.com/details_content.php?id=2462
 # raw_sha256: 8378b4afebaee7abf5fa64b9524a8838b1afa6a06f94b777b22c7235a18085d2
 ---
-میرے مانجاے تیری زینب کی
+میرے ماں جائے تیری زینب کی
 چادر تجھ پر قربان
 تو پڑھتا جا قرآن
 ہر سمت تماشائی ہیں کھڑے
@@ -109,27 +110,27 @@ romanLyrics: |-
 
 ۱
 ہمت دے صبر دے طاقت دے
-اللّٰہ میرے بھائی تجھکو
-تو سورہء کہف جو پڑھتا ہے
-سنتے ہیں تماشائی تجھکو
+اللّٰہ میرے بھائی تجھ کو
+تو سورۂ کہف جو پڑھتا ہے
+سنتے ہیں تماشائی تجھ کو
 بٹ جاتا ہے کچھ پل کے لئے
 کوفے والوں کا دھیان
 
 ۲
-ہے دل میں میرے بس ایک چھبھن
-میں کون ہوں کوی جان نہ لے
-بالوں سے چھپاے ہوں چہرہ
+ہے دل میں میرے بس ایک چبھن
+میں کون ہوں کوئی جان نہ لے
+بالوں سے چھپائے ہوں چہرہ
 کہیں کوئی مجھے پہچان نہ لے
 لیکن یہ زہرا کا کنبہ
-کوی کرتا ہے اعلان
+کوئی کرتا ہے اعلان
 
 ۳
-کس حال میں ہے تیری مانجای
-زرا دیکھ تو لے مجھے نیزے سے
-میری پشت ہے دروں سے چھلنی
+کس حال میں ہے تیری ماں جائی
+ذرا دیکھ تو لے مجھے نیزے سے
+میری پشت ہے دُرّوں سے چھلنی
 میرے شانوں پر ہے نیل پڑے
 کل تک میں جہاں شہزادی تھی
-وہی آج ہے میری یہ شان
+وہیں آج ہے میری یہ شان
 
 ۴
 ہمیں ظالم پتھر مارتے ہیں
@@ -141,9 +142,9 @@ romanLyrics: |-
 
 ۵
 ہم اپنے شکستہ کاندھوں پر
-سو کربوبلاییں لے کے چلے
-یہ ظلم بھی کوی کم تو نہیں
-اس رسی ہے اور بارہ گلے
+سو کرب و بلائیں لے کے چلے
+یہ ظلم بھی کوئی کم تو نہیں
+ایک رسی ہے اور بارہ گلے
 میری خاطر رب سے مانگ دعا
 مجھے جانا ہے زنداں
 
@@ -160,19 +161,19 @@ romanLyrics: |-
 ہے آج سناں کی شاخوں پر
 وہ قاسم و اکبر کے سر ہیں
 وہ عون و محمد وہ اصغر
-تقدیر نے خوب سجاے ہیں
+تقدیر نے خوب سجائے ہیں
 نیزوں پہ میرے ارماں
 
 ۸
-آواز کا پردہ رہ جاے
+آواز کا پردہ رہ جائے
 بولوں گی علی کے لہجے میں
-سب دیکھلے باتیں کرتی ہے
+سب دیکھ لے باتیں کرتی ہے
 زینب بھی علی کے لہجے میں
-مل جاے گا تیری تلاوت سے
+مل جائے گا تیری تلاوت سے
 میرے خطبوں کو عنواں
 
 ۹
-سجاد کے دل سے پوچھو کوی
+سجاد کے دل سے پوچھو کوئی
 ہے کیسی قیامت کی یہ گھڑی
 ہاتھوں میں ہے جس کے ہتھکڑیاں
 پیروں میں ہے دوہری بیڑی پڑی
@@ -180,9 +181,9 @@ romanLyrics: |-
 انصاف کرے انساں
 
 ۱۰
-اے نیر و آمیر آتی ہے
+اے نیر و عامر آتی ہے
 رہ رہ کے عزاخانوں سے صدا
 زینب کی تمنا ہے ماتم
-اور آنسوں ہے زہرا کی دعا
+اور آنسو ہے زہرا کی دعا
 پیغام تیرا پہنچائیں گے
 گھر گھر تیرے نوحہ خواں
