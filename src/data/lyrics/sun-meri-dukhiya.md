@@ -6,128 +6,156 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Qaiser Kaleem"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sun meri dukhiya ay fatema sughra
-  Sughra se bayan karte thay ye syed e waala
-  Beti koi bemaar safar mein nahi jaata
+  Sun meri dukhiya ae Fatima Sughra
+
+  Sughra se bayaaṅ karte the ye Sayyid-e-waala
+  Ae Fatima Sughra
+  Beti koi bimaar safar meiṅ nahiṅ jaata
+  Ae Fatima Sughra
 
   1
   Aafat ka safar hai ye musibat ka safar hai
   Ghurbat ka safar hai
-  Jaaun to kahan jaaun samajh mein nahi aata
+  Jaauṅ to kahaaṅ jaauṅ samajh meiṅ nahiṅ aata
+  Ae Fatima Sughra
 
   2
-  Sab dar paye aazaar hai dushman hai zamana
-  Waada hai nibhana
-  Kya guzregi mujhpar ye bata bhi nahi sakta
+  Sab dar pai-e-aazaar hai dushman hai zamaana
+  Waada hai nibhaana
+  Kya guzregi mujh par ye bata bhi nahiṅ sakta
+  Ae Fatima Sughra
 
   3
-  Mai chod ke jaata hoon tujhe ay meri dukhtar
-  Kyun hoti ho muztar
-  Aayenge tujhe lene ko akbar tere bhaiya
+  Main chhor ke jaata huṅ tujhe ae meri dukhtar
+  Kiuṅ hoti ho muztar
+  Aaeiṅ ge tujhe lene ko Akbar tere bhaiya
+  Ae Fatima Sughra
 
   4
-  Sehra ki tapish mausam e garma ka safar hai
+  Sehra ki tapish mausam-e-garm ka safar hai
   Manzil pe nazar hai
-  Ab waqt wo aaya hai ke jaana hi padega
+  Ab waqt woh aaya hai ke jaana hi parega
+  Ae Fatima Sughra
 
   5
-  Jaata hoon mai aawara watan apne watan se
+  Jaata huṅ main aawaara watan apne watan se
   Aur ranj o mehan se
-  Ab sabr ki manzil se guzarna hi padega
+  Ab sabr ki manzil se guzarna hi parega
+  Ae Fatima Sughra
 
   6
-  Betaab hai dil sadma e furqat ke asar se
-  Aur dard e jigar se
-  Gham teri judaai ka gawara nahi hota
+  Betaab hai dil sadma-e-furqat ke asar se
+  Aur dard-e-jigar se
+  Gham teri judaai ka gawaara nahiṅ hota
+  Ae Fatima Sughra
 
   7
-  Ab mere tasavvur mein khuda jaane hai kya kya
-  Mai tujhse kahun kya
-  Mai karbobala mein hoon tera naama bar aaya
+  Ab mere tasavvur meiṅ Khuda jaane hai kya kya
+  Main tujh se kahuṅ kya
+  Main Karbobala meiṅ huṅ tera naama bar aaya
+  Ae Fatima Sughra
 
   8
-  Qasid se ye ro ro ke bayan karta hoon ehwaal
+  Qaasid se ye ro ro ke bayaaṅ karta huṅ ahwaal
   Hai gham se bura haal
-  Yawar hai na ab koi madadgaar hai mera
+  Yaawar hai na ab koi madadgaar hai mera
+  Ae Fatima Sughra
 
   9
-  Wo pyaas ki shiddath hai ye behta hua darya
-  Pani nahi milta
-  Do roz se pyasa hai mohamed ka nawasa
+  Woh pyaas ki shiddat hai ye behta hua darya
+  Paani nahiṅ milta
+  Do roz se pyaasa hai Muhammad ka nawaasa
+  Ae Fatima Sughra
 
   10
-  Sab mar gaye qasim hai na abbas na akbar
-  Taraaj hua ghar
-  Ab sajda e mabood mein sar mera katega
+  Sab mar gaye Qasim hai na Abbas na Akbar
+  Taaraaj hua ghar
+  Ab sajda-e-maabud meiṅ sar mera katega
+  Ae Fatima Sughra
 
   11
-  Sughra se ye kehte hai kaleem hazrate shabbir
-  Aur zainab e dilgeer
-  Marzi hai jo allah ki wo hoke rahega
+  Sughra se ye kehte haiṅ Kaleem Hazrat-e-Shabbir
+  Aur Zainab-e-dilgir
+  Marzi hai jo Allah ki woh ho ke rahega
+  Ae Fatima Sughra
 # source_id: nohayonline:3dd8cbaaaa1bf9735e0d
 # source_url: https://www.nohayonline.com/details_content.php?id=3263
 # raw_sha256: 06f5633135ef1625024264d634951089f77e95830a0b3f6b2f0df88e4934858e
 ---
-
 سن میری دکھیا اے فاطمہ صغرا
-صغرا سے بیاں کرتے تھے یہ سید والا
-بیٹی کوی بیمار سفر میں نہیں جاتا
+
+صغرا سے بیاں کرتے تھے یہ سیدِ والا
+اے فاطمہ صغرا
+بیٹی کوئی بیمار سفر میں نہیں جاتا
+اے فاطمہ صغرا
 
 ۱
 آفت کا سفر ہے یہ مصیبت کا سفر ہے
 غربت کا سفر ہے
 جاؤں تو کہاں جاؤں سمجھ میں نہیں آتا
+اے فاطمہ صغرا
 
 ۲
-سب در پیےء اعزار ہے دشمن ہے زمانہ
+سب در پئے آزار ہے دشمن ہے زمانہ
 وعدہ ہے نبھانا
 کیا گزرے گی مجھ پر یہ بتا بھی نہیں سکتا
+اے فاطمہ صغرا
 
 ۳
 میں چھوڑ کے جاتا ہوں تجھے اے میری دختر
 کیوں ہوتی ہو مضطر
-آییں گے تجھے لینے کو اکبر تیرے بھیا
+آئیں گے تجھے لینے کو اکبر تیرے بھیا
+اے فاطمہ صغرا
 
 ۴
-صحرا کی تپش موسم گرم کا سفر ہے
+صحرا کی تپش موسمِ گرم کا سفر ہے
 منزل پہ نظر ہے
 اب وقت وہ آیا ہے کہ جانا ہی پڑے گا
+اے فاطمہ صغرا
 
 ۵
 جاتا ہوں میں آوارہ وطن اپنے وطن سے
 اور رنج و محن سے
 اب صبر کی منزل سے گزرنا ہی پڑے گا
+اے فاطمہ صغرا
 
 ۶
-بیتاب ہے دل صدمہء فرقت کے اثر سے
-اور درد جگر سے
-غم تیری جدائی کا گنوارا نہیں ہوتا
+بیتاب ہے دل صدمۂ فرقت کے اثر سے
+اور دردِ جگر سے
+غم تیری جدائی کا گوارا نہیں ہوتا
+اے فاطمہ صغرا
 
 ۷
 اب میرے تصور میں خدا جانے ہے کیا کیا
 میں تجھ سے کہوں کیا
 میں کربوبلا میں ہوں تیرا نامہ بر آیا
+اے فاطمہ صغرا
 
 ۸
 قاصد سے یہ رو رو کے بیاں کرتا ہوں احوال
 ہے غم سے برا حال
 یاور ہے نہ اب کوئی مددگار ہے میرا
+اے فاطمہ صغرا
 
 ۹
 وہ پیاس کی شدت ہے یہ بہتا ہوا دریا
 پانی نہیں ملتا
 دو روز سے پیاسا ہے محمد کا نواسہ
+اے فاطمہ صغرا
 
 ۱۰
-سب مر گےء قاسم ہے نہ عباس نہ اکبر
+سب مر گئے قاسم ہے نہ عباس نہ اکبر
 تاراج ہوا گھر
 اب سجدۂ معبود میں سر میرا کٹے گا
+اے فاطمہ صغرا
 
 ۱۱
 صغرا سے یہ کہتے ہیں کلیم حضرتِ شبیر
-اور زینب دلگیر
+اور زینبِ دلگیر
 مرضی ہے جو اللہ کی وہ ہو کے رہے گا
+اے فاطمہ صغرا

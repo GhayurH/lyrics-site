@@ -1,71 +1,125 @@
 ---
-title: "SUN LO MADEENE WALON MADEENA UJAD GAYA, BASHEER NE KAHA"
-language: "Roman Urdu"
+title: "سن لو مدینے والو مدینہ اجڑ گیا، بشیر نے کہا"
+alternateTitle: "Sun Lo Madine Waaloṅ Madina Ujar Gaya, Bashir Ne Kaha"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage", "noUrdu"]
+tags: ["noImage"]
 aliases: []
 published: false
+romanLyrics: |-
+  Hokar riha Madine se aaya jo qaafila
+  Sajjad ne Bashir se ro ro ke ye kaha
+  Jaakar Madine waaloṅ ko kar do ye ittela
+  Ab to Madina rehne ke qaabil nahiṅ raha
+  Hokar asir aaya hai kunba Batul ka
+  Logo hua shahid nawaasa Rasul ka
+
+  Bashir ne kaha
+  Ghar Fatima ka Karbobala meiṅ bikhar gaya
+  Sun lo Madine waaloṅ Madina ujar gaya
+
+  1
+  Mehmaaṅ bula ke haaye sataaya Husain ko
+  Paani na ek bund pilaaya Husain ko
+  Sukhe gale pa khanjar-e-bedaad chal gaya
+
+  2
+  Logoṅ tumhaare Maula ko pyaasa kiya shahid
+  Tanha Ali ka laal tha aur zulm the shadid
+  Zahara ki god meiṅ sar-e-Shabbir kat gaya
+
+  3
+  Tasvir-e-Mustafa tha jo pyaara Husain ka
+  Atthaarah saal ka tha dulaara Husain ka
+  Sine pa barchhi kha ke jawaani meiṅ mar gaya
+
+  4
+  Abbas-e-baawafa ke bhi shaane qalam hue
+  Beaas pyaase bachche aur ahl-e-haram hue
+  Rokar kaha Husain ne Abbas mar gaya
+
+  5
+  Dulha bana ke bheja tha Qasim ko Shaah ne
+  Paamaal kar diya use zaalim sipaah ne
+  Shabbar ka laal dasht-e-bala meiṅ bikhar gaya
+
+  6
+  Tha shirkhwaar Asghar-e-naadaaṅ Husain ka
+  Maasum bezubaaṅ tha woh bachcha Husain ka
+  Nanhe gale pa tir-e-sitamgaar chal gaya
+
+  7
+  Zakhmoṅ se chur chur hai bimaar ka badan
+  Zanjir tauq beriyaaṅ bimaar khasta tan
+  Sajjad par har ek naya zulm par gaya
+
+  8
+  Rokar kaha Bashir ne logoṅ duhaai hai
+  Kho kar bahan Husain ko maqtal meiṅ aayi hai
+  Khanjar gale pa Shaah ke maqtal meiṅ chal gaya
+
+  9
+  Sunkar kalaam Naaz ka ghamkhwaar ro diye
+  Parh kar Shuja bhi roya azaadaar ro diye
+  Jab se suna Rasul ka kunba ujar gaya
 # source_id: ziyaraat:7385b2bee1537702c33e
 # source_url: https://www.ziyaraat.net/api/noha/2736
 # raw_sha256: 16e987714369bbbd30834cdb03875e9c3b71d043f65d61cb646d1b2ef105984e
 ---
+ہوکر رہا مدینے سے آیا جو قافلہ
+سجاد نے بشیر سے رو رو کے یہ کہا
+جاکر مدینے والوں کو کر دو یہ اطلاع
+اب تو مدینہ رہنے کے قابل نہیں رہا
+ہوکر اسیر آیا ہے کنبہ بتول کا
+لوگو ہوا شہید نواسہ رسول کا
 
-1
-HOKAR RIHA MADEENE SE AYA JO QAFILA
-SAJJAD NE BASHEER SE RO RO KE YE KAHA
-JAKAR MADEENE WALO KO KAR DO YE ITTELA
-AB TO MADEENA RAHNE K QABIL NAHI RAHA
-HOKAR ASEER AYA HAI KUNBA BATOOL KA
-LOGO HUA SHAHEED NAWASA RASOOL KA
+بشیر نے کہا
+گھر فاطمہ کا کرب و بلا میں بکھر گیا
+سن لو مدینے والو مدینہ اجڑ گیا
 
-2
-BASHEER NE KAHA
-GHAR FATIMA KA KARBOBALA ME BIKHAR GAYA
-SUN LO MADEENE WALON MADEENA UJAD GAYA
+۱
+مہماں بلا کے ہائے ستایا حسین کو
+پانی نہ ایک بوند پلایا حسین کو
+سوکھے گلے پہ خنجرِ بیداد چل گیا
 
-3
-MEHMAA’N BULA KE HAYE SATAYA HUSAIN KO
-PANI NA EK BOOND PILAYA HUSAIN KO
-SOOKHE GALE PA KHANJARE BEDAAD CHAL GAYA
+۲
+لوگوں تمہارے مولا کو پیاسا کیا شہید
+تنہا علی کا لال تھا اور ظلم تھے شدید
+زہرا کی گود میں سرِ شبیر کٹ گیا
 
-4
-LOGO’N TUMHARE MAULA KO PYASA KIYA SHAHEED
-TANHA ALI KA LAAL THA AUR ZULM THE SHADED
-ZAHARA KI GOD ME SARE SHABBIER KAT GAYA
+۳
+تصویرِ مصطفیٰ تھا جو پیارا حسین کا
+اٹھارہ سال کا تھا دلارا حسین کا
+سینے پہ برچھی کھا کے جوانی میں مر گیا
 
-5
-TASVEERE MUSTUFA THA JO PYARA HUSAIN KA
-ATHTHARAH SAAL KA THA DULARA HUSAIN KA
-SEENE PA BARCHI KHA KE JAWANI ME MAR GAYA
+۴
+عباسِ باوفا کے بھی شانے قلم ہوئے
+بے آس پیاسے بچے اور اہلِ حرم ہوئے
+روکر کہا حسین نے عباس مر گیا
 
-6
-ABBASE BAWAFA KE BHI SHAANE QALAM HUE
-BEAAS PYASE BACHCHE AUR AHLE HARAM HUE
-ROKAR KAHA HUSAIN NE ABBAS MAR GAYA
+۵
+دولہا بنا کے بھیجا تھا قاسم کو شاہ نے
+پامال کر دیا اسے ظالم سپاہ نے
+شبر کا لال دشتِ بلا میں بکھر گیا
 
-7
-DOOLHA BANA KE BHEJA THA QASIM KO SHAH NE
-PAMAAL KAR DIYA USE ZALIM SIPAAH NE
-SHABBAR KA LAAL DASHTE BALA ME BIKHAR GAYA
+۶
+تھا شیرخوار اصغرِ ناداں حسین کا
+معصوم بے زباں تھا وہ بچہ حسین کا
+ننھے گلے پہ تیرِ ستمگار چل گیا
 
-8
-THA SHEERKHWAAR ASGHARE NAADA’N HUSAIN KA
-MASOOM BEZUBAA’N THA WO BACHCHA HUSAIN KA
-NANHE GALE PA TEERE SITAMGAAR CHAL GAYA
+۷
+زخموں سے چور چور ہے بیمار کا بدن
+زنجیر طوق بیڑیاں بیمار خستہ تن
+سجاد پر ہر ایک نیا ظلم پڑ گیا
 
-9
-ZAKHMO’N SE CHOOR CHOOR HAI BEEMAR KA BADAN
-ZANJEER TAUQ BEDIYA’N BEEMAR KHASTA TAN
-SAJJAD PAR HAR EK NAYA ZULM PAD GAYA
+۸
+روکر کہا بشیر نے لوگوں دہائی ہے
+کھو کر بہن حسین کو مقتل میں آئی ہے
+خنجر گلے پہ شاہ کے مقتل میں چل گیا
 
-10
-ROKAR KAHA BASHEER NE LOGO’N DUHAI HAI
-KHO KAR BAHAN HUSAIN KO MAQTAL ME AYI HAI
-KHANJAR GALE PA SHAAH KE MAQTAL ME CHAL GAYA
-
-11
-SUNKAR KALAAM NAAZ KA GHAMKHWAAR RO DIYE
-PADH KAR SHUJA BHI ROYA AZADAAR RO DIYE
-JAB SE SUNA RASOOL KA KUNBA UJAD GAYA
+۹
+سن کر کلام ناز کا غمخوار رو دیے
+پڑھ کر شجاع بھی رویا عزادار رو دیے
+جب سے سنا رسول کا کنبہ اجڑ گیا
