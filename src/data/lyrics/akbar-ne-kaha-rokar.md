@@ -58,6 +58,10 @@ romanLyrics: |-
 # source_id: nohayonline:6fb6cd82043fb2ea1534
 # source_url: https://www.nohayonline.com/details_content.php?id=295
 # raw_sha256: 2f105fa8162801a8518b0ff52286cf54e78c21995de14fedb1b28ee7979c94ea
+# additional_source_id: nohawriteups:257f8ad3882806433b8a
+# additional_source_url: https://www.nohawriteups.org/akbar-ne-kaha-rokar/
+# additional_raw_sha256: faa7c785f268cca1eba6d7bda4774cd673bd1204192ad5f3a58dddea6ab88ee4
+# additional_source_note: All eight source stanzas and opening match Mir Takallum bilingual canonical. No unique verses beyond source refrain repetition.
 ---
 شبیہِ امامِ زماں کھینچتے ہیں
 تصور میں تصویرِ جاں کھینچتے ہیں

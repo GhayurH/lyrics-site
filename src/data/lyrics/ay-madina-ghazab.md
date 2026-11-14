@@ -72,6 +72,10 @@ romanLyrics: |-
 # source_id: nohayonline:7a50fc05b2824eefe3bf
 # source_url: https://www.nohayonline.com/details_content.php?id=357
 # raw_sha256: 3c7854b2dbad6d76cd04bb80d20458c337fa7065476804d1e432c73fb13248f4
+# additional_source_id: nohawriteups:28a3946b0848ca65140c
+# additional_source_url: https://www.nohawriteups.org/ay-madina-ghazab/
+# additional_raw_sha256: 84c69e894dd42f7e8889c3781148d9d5b34904d1c1f3af92c59ff70130d24779
+# additional_source_note: All eight numbered source stanzas and opening match Rehaan Azmi/Nadeem Sarwar bilingual canonical. Repeated Bibi Kulsum responses not unique verses.
 ---
 قافلہ جب وطن لوٹ آیا
 آ کے بابِ مدینہ پہ ٹھہرا

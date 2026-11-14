@@ -86,6 +86,10 @@ romanLyrics: |-
 # source_id: nohayonline:58da51455872e989cbd1
 # source_url: https://www.nohayonline.com/details_content.php?id=359
 # raw_sha256: 667614822848ce79ab12ee008afdd3e92ad904a361e0ae009707446839689d73
+# additional_source_id: nohawriteups:2421835804b17e3d9b2a
+# additional_source_url: https://www.nohawriteups.org/behan-mai-saath/
+# additional_raw_sha256: ce2ecaf7e7b346a992d668b0a191742e47776c9811fee1be7dbd1ca703bc424c
+# additional_source_note: All nine source stanzas match complete Rehaan Azmi/Nadeem Sarwar bilingual poem. NohaWriteups repeating refrain omitted; no extra verses.
 ---
 رسن میں بندھ چکا گلا
 لو چل پڑا وہ قافلہ
