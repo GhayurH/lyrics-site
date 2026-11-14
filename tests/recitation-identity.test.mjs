@@ -144,7 +144,7 @@ test("reviewed mode blocks moved anchors, renumbering and unapproved removals", 
   assert.throws(() => run(["A2", "B2"], ["stanza-001", "stanza-002"],
     new Set(["stanza-099"])), /Invalid or already retired retirement approval/);
   assert.throws(() => run(["A2", "B2"], ["stanza-001", "stanza-002"],
-    new Set(["stanza-003", "stanza-002"])), /Invalid or already retired retirement approval/);
+    new Set(["stanza-003", "stanza-002"])), /Invalid or retired edit approval/);
 });
 
 test("reviewed corrections can coexist with previously retired stanzas", () => {
