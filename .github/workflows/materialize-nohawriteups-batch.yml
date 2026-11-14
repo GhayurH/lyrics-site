@@ -1,0 +1,30 @@
+name: Materialize reviewed NohaWriteups source drafts
+on:
+  push:
+    branches:
+      - feat/historical-tajpoints-nohayonline-review-2026-11-14
+    paths:
+      - audit/nohawriteups-review-decisions-1-prepared.json
+permissions:
+  contents: write
+jobs:
+  stage:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          filter: blob:none
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: python scripts/materialize_nohawriteups_batch.py
+      - name: Commit only the source drafts and status tracker
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audit/nohawriteups-review-decisions-1-status.csv src/data/lyrics/
+          if ! git diff --cached --quiet; then
+            git commit -m "Stage 70 source-backed NohaWriteups drafts"
+            git push origin "HEAD:feat/historical-tajpoints-nohayonline-review-2026-11-14"
+          fi
