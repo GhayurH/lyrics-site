@@ -56,7 +56,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
 
 <BaseLayout
   title={`${data.title} | Kalam Archive`}
-  description={`Read ${data.title} in Urdu${data.romanLyrics ? " and Roman Urdu" : ""}.`}
+  description={`Read ${data.title} in ${isRomanOnly ? "Roman Urdu" : "Urdu" + (data.romanLyrics ? " and Roman Urdu" : "")}.`}
 >
   <article
     class="lyric-page"
@@ -94,7 +94,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
         <h2 class="lyric-version-heading">
           <span class="lyric-focus-title kalam-reading-title" lang={data.lang} dir={data.direction}>{data.title}</span>
         </h2>
-        <LyricVerses text={lyric.body ?? ""} className="lyrics-text" sixVerseLayout={data.sixVerseLayout} />
+        <LyricVerses text={lyric.body ?? ""} className={isRomanOnly ? "roman-lyrics-text" : "lyrics-text"} sixVerseLayout={data.sixVerseLayout} />
       </section>
 
       {
