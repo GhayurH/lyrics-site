@@ -1,130 +1,91 @@
 ---
 title: شبیہ پیمبر اکبر ذبح بہ میداں
-alternateTitle: Shabihe Payambar
+alternateTitle: Shabih-e-Payambar
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mehshar Lakhnavi"
+reciter: "Muhammad Naqi; Anjuman Al-Zulfiqar"
 tags: ["noImage"]
-aliases: []
+aliases: ["Shabihe Payambar"]
 published: false
-romanLyrics: 'Shabeeh e payambar akbar
-
-  Zibaah pa maidaan
-
+romanLyrics: |-
+  Shabih-e-Payambar Akbar zibh ba maidaaṅ
+  Shaah ka dilbar Akbar
+  Zibh ka maidaan
 
   1
-
-  1.Ye sibt e payambar ki laila ki kamaayi hai
-
-  Kya maadar e akbar ne takdeer ye paayi hai
-
-  Khaymo me bapa matam,
-
-  Ai mere jawa akbar
-
-  Ziba paa maidaan.
-
+  Ye Sibt-e-Payambar ki Laila ki kamaayi hai
+  Kya maadar-e-Akbar ne taqdir ye paayi hai
+  Khaimoṅ mein bapa maatam khaimoṅ mein bapa maatam
+  Ae mere jawaaṅ Akbar zibh ba maidaaṅ
 
   2
-
-  2.wo naazo ka paala hai atthaara baras waalaa
-
-  Zainab ka dulara hai atthara baras waalaa
-
-  Khaimo me bapa matam
-
-  Ai mere jawan akbar
-
-  Zibaa pa maidaan
-
+  Jo naazoṅ ka paala hai athaarah baras waala
+  Laila ka dulaara hai athaarah baras waala
+  Khaimoṅ mein bapa maatam khaimoṅ mein bapa maatam
+  Ae mere jawaaṅ Akbar zibh ba maidaaṅ
 
   3
-
-  3.Socha bhi na tha maa ne ye din kabhi aaega
-
-  Marne k liye akbar maidaaan me jaaega
-
-  Khaimo me bapa matam
-
-  Ai mere jawa akbar ziba pa maidan
-
+  Socha bhi na tha maaṅ ne ye din kabhi aayega
+  Marne ke liye Akbar maidaan mein jaayega
+  Khaimoṅ mein bapa maatam khaimoṅ mein bapa maatam
+  Ae mere jawaaṅ Akbar zibh ba maidaaṅ
 
   4
-
-  4.Khaaega kaleje par jis waqt sina akbar
-
-  Ye teri khabar sunke mar jaaegi maa akbar
-
-  Khai mo me bapa matam
-
+  Khaayega kaleje par jis waqt sinaaṅ Akbar
+  Ye teri khabar sun ke mar jaayegi maaṅ Akbar
+  Khaimoṅ mein bapa maatam khaimoṅ mein bapa maatam
+  Ae mere jawaaṅ Akbar zibh ba maidaaṅ
 
   5
-
-  5.Jaata hai jo maqtal me wapas wo nahi aata
-
-  Taqdeer dikhaaye na akbar ka kahi laasha
-
-  Khaymo me bapa matam
-
-  Ai mere jawan akbar ziba pa maidn
-
+  Jaata hai jo maqtal mein waapas woh nahiṅ aata
+  Taqdir dikhaaye na Akbar ka kahiṅ laasha
+  Khaimoṅ mein bapa maatam khaimoṅ mein bapa maatam
+  Ae mere jawaaṅ Akbar zibh ba maidaaṅ
 
   6
-
-  6.Akbar teri shaadi ka armaan tha khwahar ko
-
-  Poshaakh shaahani wo pehnaaye baradar ko
-
-  Khaimo me bapa matam
-
-  Ai mere jawan akbar,ziba pa maidn
-
+  Akbar teri shaadi ka armaan tha khwaahar ko
+  Poshaak shaahaani woh pehnaaye baraadar ko
+  Khaimoṅ mein bapa maatam khaimoṅ mein bapa maatam
+  Ae mere jawaaṅ Akbar zibh ba maidaaṅ
 
   7
-
-  *7.Teere hai nakaahat hai aur sibt e payambar hai
-
-  Farzand ki mayyat hai aur sibt e payambr hai
-
-  Ai mere jawan akbr ziba pa maidn
-
+  Piri hai naqaahat hai aur Sibt-e-Payambar hai
+  Farzand ki mayyat hai aur Sibt-e-Payambar hai
+  Khaimoṅ mein bapa maatam khaimoṅ mein bapa maatam
+  Ae mere jawaaṅ Akbar zibh ba maidaaṅ
 
   8
-
-  8.Phir kaun bachaega karti thi buka madar
-
-  Cheenenge laeen aake jab sar se mere chaadar
-
+  Phir kaun bachaayega karti thi buka maadar
+  Chhineṅ ge laiṅ aa ke jab sar se mere chaadar
+  Khaimoṅ mein bapa maatam khaimoṅ mein bapa maatam
+  Ae mere jawaaṅ Akbar zibh ba maidaaṅ
 
   9
-
-  9.Akbar ne dam e rukhsat jeene ki duaaen lee
-
-  Aur kaapte haatho se zainab ne balaaye lee
-
+  Akbar ne dam-e-rukhsat jine ki duaaeṅ li
+  Aur kaaṅpte haathoṅ se Zainab ne balaaeṅ li
+  Khaimoṅ mein bapa maatam khaimoṅ mein bapa maatam
+  Ae mere jawaaṅ Akbar zibh ba maidaaṅ
 
   10
-
-  10.Beta na kisi ka yoo mar jaae jawaani me
-
-  Matam ki sadaaye hai darya ki rawaani me
-
+  Beta na kisi ka yuṅ mar jaaye jawaani mein
+  Maatam ki sadaaeṅ hai darya ki rawaani mein
+  Khaimoṅ mein bapa maatam khaimoṅ mein bapa maatam
+  Ae mere jawaaṅ Akbar zibh ba maidaaṅ
 
   11
-
-  11.zehra ki inayat hai padhta hai naqi nauha
-
-  Ham shakl e payambr ka shabbir ko hai pursa
-
+  Zehra ki inaayat hai parhta hai Naqi nauha
+  Hamshakl-e-Payambar ka Shabbir ko hai pursa
+  Khaimoṅ mein bapa maatam khaimoṅ mein bapa maatam
+  Ae mere jawaaṅ Akbar zibh ba maidaaṅ
 
   12
-
-  12.miljaaye jo akbar ki tehreer mujhe mehshar
-
-  Din raat padhu nauha ye khaakh pe sar rakhkar'
-reciter: Anjuman Al-Zulfiqar
+  Mil jaaye jo Akbar ki dehliz mujhe Mehshar
+  Din raat parhuṅ nauha ye khaak pe sar rakh kar
+  Khaimoṅ mein bapa maatam khaimoṅ mein bapa maatam
+  Ae mere jawaaṅ Akbar zibh ba maidaaṅ
 # source_id: nohayonline:81e7b5fbf77f987d2182
 # source_url: https://www.nohayonline.com/details_content.php?id=1983
 # raw_sha256: ad8b0c69de817a878f7b45f9893ab4e543925116493eaeb34d1c0dbacebfbcdb
@@ -140,53 +101,77 @@ reciter: Anjuman Al-Zulfiqar
 ---
 
 شبیہ پیمبر اکبر ذبح بہ میداں
+شاہ کا دلبر اکبر
+ذبح کا میدان
 
 ۱
 یہ سبط پیمبر کی لیلیٰ کی کمائی ہے
-کیا مادر اکبر نے تقدیر یہ پای ہے
+کیا مادر اکبر نے تقدیر یہ پائی ہے
 خیموں میں بپا ماتم خیموں میں بپا ماتم
 اے میرے جواں اکبر ذبح بہ میداں
 
 ۲
 جو نازوں کا پالا ہے اٹھارہ برس والا
 لیلیٰ کا دلارا ہے اٹھارہ برس والا
+خیموں میں بپا ماتم خیموں میں بپا ماتم
+اے میرے جواں اکبر ذبح بہ میداں
 
 ۳
-سوچا بھی نہ تھا ماں نے یہ دن کبھی آے گا
-مرنے کے لئے اکبر میدان میں جاے گا
+سوچا بھی نہ تھا ماں نے یہ دن کبھی آئے گا
+مرنے کے لئے اکبر میدان میں جائے گا
+خیموں میں بپا ماتم خیموں میں بپا ماتم
+اے میرے جواں اکبر ذبح بہ میداں
 
 ۴
-کھاے گا کلیجے پر جس وقت سناں اکبر
-یہ تیری خبر سن کے مر جاۓ گی ماں اکبر
+کھائے گا کلیجے پر جس وقت سناں اکبر
+یہ تیری خبر سن کے مر جائے گی ماں اکبر
+خیموں میں بپا ماتم خیموں میں بپا ماتم
+اے میرے جواں اکبر ذبح بہ میداں
 
 ۵
 جاتا ہے جو مقتل میں واپس وہ نہیں آتا
-تقدیر دکھاے نہ اکبر کا کہیں لاشہ
+تقدیر دکھائے نہ اکبر کا کہیں لاشہ
+خیموں میں بپا ماتم خیموں میں بپا ماتم
+اے میرے جواں اکبر ذبح بہ میداں
 
 ۶
 اکبر تیری شادی کا ارمان تھا خواہر کو
-پوشاک شاہانی وہ پہناے برادر کو
+پوشاک شاہانی وہ پہنائے برادر کو
+خیموں میں بپا ماتم خیموں میں بپا ماتم
+اے میرے جواں اکبر ذبح بہ میداں
 
 ۷
 پیری ہے نقاہت ہے اور سبط پیمبر ہے
 فرزند کی میت ہے اور سبط پیمبر ہے
+خیموں میں بپا ماتم خیموں میں بپا ماتم
+اے میرے جواں اکبر ذبح بہ میداں
 
 ۸
-پھر کون بچاے گا کرتی تھی بکا مادر
-چھینے نگے لعیں آ کے جب سر سے میرے چادر
+پھر کون بچائے گا کرتی تھی بکا مادر
+چھینیں گے لعیں آ کے جب سر سے میرے چادر
+خیموں میں بپا ماتم خیموں میں بپا ماتم
+اے میرے جواں اکبر ذبح بہ میداں
 
 ۹
-اکبر نے دم رخصت جینے کی دعاییں لی
-اور کانپتے ہاتھوں سے زینب نے بلاییں لی
+اکبر نے دم رخصت جینے کی دعائیں لی
+اور کانپتے ہاتھوں سے زینب نے بلائیں لی
+خیموں میں بپا ماتم خیموں میں بپا ماتم
+اے میرے جواں اکبر ذبح بہ میداں
 
 ۱۰
-بیٹا نہ کسی کا یوں مر جاۓ جوانی میں
-ماتم کی صداییں ہے دریا کی روانی میں
+بیٹا نہ کسی کا یوں مر جائے جوانی میں
+ماتم کی صدائیں ہے دریا کی روانی میں
+خیموں میں بپا ماتم خیموں میں بپا ماتم
+اے میرے جواں اکبر ذبح بہ میداں
 
 ۱۱
 زہرا کی عنایت ہے پڑھتا ہے نقی نوحہ
 ہمشکل پیمبر کا شبیر کو ہے پرسہ
+خیموں میں بپا ماتم خیموں میں بپا ماتم
+اے میرے جواں اکبر ذبح بہ میداں
 
 ۱۲
-مل جاے جو اکبر کی دہلیز مجھے محشر
+مل جائے جو اکبر کی دہلیز مجھے محشر
 دن رات پڑھوں نوحہ یہ خاک پہ سر رکھ کر
+خیموں میں بپا ماتم خیموں میں بپا ماتم
+اے میرے جواں اکبر ذبح بہ میداں

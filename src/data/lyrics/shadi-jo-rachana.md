@@ -1,66 +1,67 @@
 ---
 title: "شادی جو رچانا میرے بھیا"
-alternateTitle: "Shadi Jo Rachana"
+alternateTitle: "Shaadi Jo Rachaana"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Bilal Kazmi"
+reciter: "Aqueel Abbas"
 tags: ["noImage"]
-aliases: []
+aliases: ["Shadi Jo Rachana"]
 published: false
 romanLyrics: |-
-  Shadi jo rachana mere bhaiya
-  
+  Shaadi jo rachaana mere bhaiya
+
   1
-  Sunti hoon ke ab ghar hai basane ka irada
-  Pardes mein hai byaah rachane ka irada
-  Sughra ko kahin bhool na jaana mere bhaiya
-  
+  Sunti huṅ ke ab ghar hai basaane ka iraada
+  Pardes mein hai byaah rachaane ka iraada
+  Sughra ko kahiṅ bhul na jaana mere bhaiya
+
   2
-  Sughra se zyada hai wo kunbe ko dulaari
-  Ammu ki chaheeti hai to baba ki hai pyari
-  Roothe jo sakina to manana mere bhaiya
-  
+  Sughra se ziyaada hai woh kunbe ko dulaari
+  Ammu ki chahiti hai to baba ki hai pyaari
+  Ruthe jo Sakina to manaana mere bhaiya
+
   3
-  Shaukat ho ayan yusufe dil bande nabi ki
-  Mehsoos ho shadi hai hamshakle nabi ki
-  Is shaan se baaraat sajana mere bhaiya
-  
+  Shaukat ho ayaaṅ Yusuf-e-dilband-e-Nabi ki
+  Mehsus ho shaadi hai hamshakl-e-Nabi ki
+  Is shaan se baraat sajaana mere bhaiya
+
   4
-  Jo dekhe usay chand sa tukda nazar aaye
+  Jo dekhe use chaand sa tukra nazar aaye
   Asghar bhi mera nanha sa dulha nazar aaye
-  Baysheer ko is tarha sajana mere bhaiya
-  
+  Beshir ko is tarah sajaana mere bhaiya
+
   5
   Shabbir ki jaani ho mujhe ye bhi khabar hai
-  Tum yusuf e saani ho mujhe ye bhi khabar hai
-  Malboos mai loongi shahana mere bhaiya
-  
+  Tum Yusuf-e-saani ho mujhe ye bhi khabar hai
+  Malbus main luṅgi shaahaana mere bhaiya
+
   6
-  Baaraat nazar aayegi firdaus ka naksha
-  Ho jayega raunaq mein bhi kuch aur izaafa
-  Dadi ko bhi jannat se bulana mere bhaiya
-  
+  Baraat nazar aayegi Firdaus ka naqsha
+  Ho jaayega raunaq mein bhi kuchh aur izaafa
+  Daadi ko bhi jannat se bulaana mere bhaiya
+
   7
-  Ahmed ki nishani ho to ye baat bhi sunlo
-  Tum yusufe saani ho to ye baat bhi sunlo
-  Laana to dulhan chand si laana mere bhaiya
-  
+  Ahmad ki nishaani ho to ye baat bhi sun lo
+  Tum Yusuf-e-saani ho to ye baat bhi sun lo
+  Laana to dulhan chaand si laana mere bhaiya
+
   8
-  Is aalame pardes mein tum byaah racha kar
-  Jis tarha abhi bhoole ho is tarha bhula kar
-  Ta umr na sughra ko rulaana mere bhaiya
-  
+  Is aalam-e-pardes mein tum byaah racha kar
+  Jis tarah abhi bhule ho is tarah bhula kar
+  Taa umr na Sughra ko rulaana mere bhaiya
+
   9
-  Bemaar hoon kamzor hoon chayi hai nakahat
-  Mar jaaun jo pehle to hai ye meri wasiyat
-  Bhabi ko meri qabr pe laana mere bhaiya
-  
+  Bimaar huṅ kamzor huṅ chhaayi hai naqaahat
+  Mar jaauṅ jo pehle to hai ye meri wasiyyat
+  Bhaabhi ko meri qabr pe laana mere bhaiya
+
   10
-  Irfan ki zaban ho ke bilal e ghame sarwar
-  Masroof e aza rehte hai ye dono barabar
-  Dono ko musibat se bachana mere bhaiya
+  Irfan ki zabaaṅ ho ke Bilal-e-gham-e-Sarwar
+  Masruf-e-aza rehte haiṅ ye donoṅ baraabar
+  Donoṅ ko musibat se bachaana mere bhaiya
 # source_id: nohayonline:398346ba7d8de44fd8ec
 # source_url: https://www.nohayonline.com/details_content.php?id=3474
 # raw_sha256: 4f3658d7a1a22ccaf5b1e684ab3773450da819965963c1f66e3b2e4709f59c37
@@ -74,7 +75,7 @@ romanLyrics: |-
 صغرا کو کہیں بھول نہ جانا میرے بھیا
 
 ۲
-صغرا سے ذیادہ ہے وہ کنبے کو دلاری
+صغرا سے زیادہ ہے وہ کنبے کو دلاری
 عمو کی چہیتی ہے تو بابا کی ہے پیاری
 روٹھے جو سکینہ تو منانا میرے بھیا
 
@@ -91,7 +92,7 @@ romanLyrics: |-
 ۵
 شبیر کی جانی ہو مجھے یہ بھی خبر ہے
 تم یوسف ثانی ہو مجھے یہ بھی خبر ہے
-ملبوس میں لونگی شاہانہ میرے بھیا
+ملبوس میں لوں گی شاہانہ میرے بھیا
 
 ۶
 بارات نظر آئے گی فردوس کا نقشہ
@@ -109,7 +110,7 @@ romanLyrics: |-
 تا عمر نہ صغرا کو رلانا میرے بھیا
 
 ۹
-بیمار ہوں کمزور ہوں چھای ہے کاینات
+بیمار ہوں کمزور ہوں چھائی ہے کائنات
 مر جاؤں جو پہلے تو ہے یہ میری وصیت
 بھابھی کو میری قبر پہ لانا میرے بھیا
 

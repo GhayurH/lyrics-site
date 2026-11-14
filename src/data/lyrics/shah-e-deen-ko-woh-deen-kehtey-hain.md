@@ -1,39 +1,91 @@
 ---
-title: "Shah E Deen Ko Woh Deen Kehtey Hain"
-language: "Roman Urdu"
+title: "شاہ دین کو وہ دین کہتے ہیں"
+alternateTitle: "Shaah-e-Din Ko Woh Din Kehte Haiṅ"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu"]
-aliases: []
+poet: "Kashif Abbas Kashif"
+tags: ["noImage"]
+aliases: ["Shah E Deen Ko Woh Deen Kehtey Hain"]
 published: false
+romanLyrics: |-
+  Pir Khwaaja Muin kehte haiṅ
+
+  1
+  Woh bhi yaum-e-Husain hi hoga
+  Sab jise yaum-e-din kehte haiṅ
+
+  2
+  He bhi Alhamd ki kaheṅ Shah ko
+  Aur Yasin ka sin kehte haiṅ
+
+  3
+  Karbala hai bahisht-e-arsh-e-bariṅ
+  Ham ise kab zamin kehte haiṅ
+
+  4
+  Jon kehti hai jis ko ye duniya
+  Ham use mahjabiṅ kehte haiṅ
+
+  5
+  Dastaras jis ki Hal Ataa tak ho
+  Ham usi ko zahin kehte haiṅ
+
+  6
+  Dar jo Kaaba mein ho to us ko ham
+  Ehtiraam-e-makiṅ kehte haiṅ
+
+  7
+  Kaakh-e-Karbal shifa ka maadan hai
+  Baat ye bilyaqin kehte haiṅ
+
+  8
+  Ham Ali ko Khuda nahiṅ kehte
+  Par Khuda se qarin kehte haiṅ
+
+  9
+  Ham Khuda-e-Husain ko Kashif
+  Karbala ka makiṅ kehte haiṅ
 # source_id: tajpoints:37b4afc85d00f71b07af
 # source_url: https://tajpoints.com/2018/05/shah-e-deen-ko-woh-deen-kehtey-hain.html
 # raw_sha256: c289770439dd73a349a2477eadf0e7f501f9d767af4966558fa53bb62b0661ad
 ---
 
-Peer Khuwaja Moeen Kehtey Hain
+پیر خواجہ معین کہتے ہیں
 
-1
-Woh Bhi Youm E Hussain Hi Hoga
-Sub Jisay Youm E Deen Kehtey Hain
-Hey Bhi Alhamd Ki Kahain Sheh Ko
-Or Yaseen Ka Seen Kehtey Hain
-Karbala Hai Bahisth E Arsh E Bareen
-Hum Isay Kab Zameen Kehtey Hain
+۱
+وہ بھی یوم حسین ہی ہوگا
+سب جسے یوم دین کہتے ہیں
 
-2
-Jon Kehti Hai Jis Ko Ye Dunia
-Hum Osay Mahjabeen Kehtey Hain
-Dastras Jis Ki Hal Ataa Tak Ho
-Hum Osi Ko Zaheen Kehtey Hain
-Dar Jo Kaaba Main Ho Tu Osko Hum
-Ehtraam E Makeen Kehtey Hain
+۲
+حے بھی الحمد کی کہیں شہ کو
+اور یٰسین کا سین کہتے ہیں
 
-3
-Kakh E Karbal Shifaa Ka Madin Hai
-Baat Ye Bilyakeen Kehtey Hain
-Hum Ali Ko Khuda Nahi Kehtey
-Per Khuda Se Kareen Kehtey Hain
-Hum Khuda E Hussain Ko Kashif
-Karbala Ka Makeen Kehtey Hain
+۳
+کربلا ہے بہشت عرش بریں
+ہم اسے کب زمین کہتے ہیں
+
+۴
+جون کہتی ہے جس کو یہ دنیا
+ہم اسے مہ جبیں کہتے ہیں
+
+۵
+دسترس جس کی ہل اتیٰ تک ہو
+ہم اسی کو ذہین کہتے ہیں
+
+۶
+در جو کعبہ میں ہو تو اس کو ہم
+احترام مکیں کہتے ہیں
+
+۷
+کاخ کربل شفا کا معدن ہے
+بات یہ بالیقین کہتے ہیں
+
+۸
+ہم علی کو خدا نہیں کہتے
+پر خدا سے قرین کہتے ہیں
+
+۹
+ہم خدائے حسین کو کاشف
+کربلا کا مکیں کہتے ہیں
