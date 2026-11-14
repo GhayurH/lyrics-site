@@ -1,55 +1,56 @@
 ---
 title: "دُنیا میں جب ظہور ہوا تھا حسین کا"
-alternateTitle: "Soja Mere Hussain"
+alternateTitle: "So Ja Mere Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Saqlain Akbar"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
-aliases: []
+aliases: ["Soja Mere Hussain"]
 published: false
 romanLyrics: |-
-  Dunya mein jab zahoor hua tha hussain ka
-  Har waqt apne godh mein rakhti thi sayyeda
-  Lori sunaye maa to wo sota tha laadla
-  Muddat ke baad phir sare maidan e karbala
+  Dunya meiṅ jab zuhur hua tha Husain ka
+  Har waqt apni god meiṅ rakhti thi Sayyeda
+  Lori sunaaye maaṅ to wo sota tha laadla
+  Muddat ke baad phir sar-e-maidaan-e-Karbala
+  Zahmat Husain ke liye maaṅ ne uthaayi hai
+  Lori sunaane bete ko turbat se aayi hai
 
   1
-  Zehmat hussain ke liye maa ne uthayi hai
-  Lori sunane bete ko turbat se aayi hai
-  Lori samajh ke aaj tu maadar ki siskiyan
-  Soja mere hussain
+  Lori samajh ke aaj tu maadar ki siskiyaaṅ
+  So ja mere Husain
 
   2
-  Kis tarha rehti fatema zehra mazaar mein
-  Baba se pooch laal tere intezar mein
-  Maqtal ke aake baithi kal shab se teri maa
+  Kis tarah rehti Fatima Zehra mazaar meiṅ
+  Baaba se puchh laal tere intezaar meiṅ
+  Maqtal ke aa ke baithi kal shab se teri maaṅ
 
   3
-  Aaghosh mein meri tera sar hai rakha hua
-  Kitne dino ke baad ye mauka mujhe mila
-  Yaad aa raha hai teesri shaban ka samaa
+  Aaghosh meiṅ meri tera sar hai rakha hua
+  Kitne dinoṅ ke baad ye mauqa mujhe mila
+  Yaad aa raha hai tisri Shaabaan ka samaaṅ
 
   4
-  Ay laal apni zaat mein khud karbala hai tu
-  Laashe utha utha ke bahot thak gaya hai tu
-  Kuch dayr maa ki godh mein aaram se yahan
+  Ae laal apni zaat meiṅ khud Karbala hai tu
+  Laashe utha utha ke bahut thak gaya hai tu
+  Kuchh der maaṅ ki god meiṅ aaraam se yahaaṅ
 
   5
-  Aankhein tadap ke kholta hai kis liye bhala
-  Akbar ki shakl phirti hai nazron mein teri kya
-  Bete ka dard kya hai ye bas jaanti hai maa
+  Aankheiṅ tarap ke kholta hai kis liye bhala
+  Akbar ki shakl phirti hai nazroṅ meiṅ teri kya
+  Bete ka dard kya hai ye bas jaanti hai maaṅ
 
   6
-  Mai jaanti hoo ye meri lori hai aakhri
+  Maiṅ jaanti huṅ ye meri lori hai aakhri
   Soyega aaj tu to na jaagega phir kabhi
-  Is dil se pooch kis tarha deti hoo loriyan
+  Is dil se puchh kis tarah deti huṅ loriyaaṅ
 
   7
-  Saqlain gehri neendh wo us waqt sogaya
-  Lori ke darmiyan jo madar ne ye kaha
-  Dekha na tujhse jayega zainab ka kaarwan
+  Saqlain gehri nind wo us waqt so gaya
+  Lori ke darmiyaaṅ jo maadar ne ye kaha
+  Dekha na tujh se jaayega Zainab ka kaarwaaṅ
 # source_id: nohayonline:3f0cf40e9824db91bd59
 # source_url: https://www.nohayonline.com/details_content.php?id=480
 # raw_sha256: b0fa234b7c2cd3f651e68dcbcd0d711194b6fed1092d12996364b478bcd81827
@@ -58,10 +59,10 @@ romanLyrics: |-
 ہر وقت اپنی گود میں رکھتی تھی سیدہ
 لوری سُنائے ماں تو وہ سوتا تھا لاڈلا
 مدت کے بعد پھر سرِ میدانِ کربلا
-
-۱
 زحمت حسین کے لیے ماں نے اُٹھائی ہے
 لوری سُنانے بیٹے کو تُربت سے آئی ہے
+
+۱
 لوری سمجھ کے آج تُو مادر کی سسکیاں
 سو جا میرے حسین
 

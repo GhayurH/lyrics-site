@@ -1,62 +1,63 @@
 ---
-title: "سو گےء مقتل میں سرور حشر کا ہنگام ہے"
-alternateTitle: "Sogaye Maqtal Mein"
+title: "سو گئے مقتل میں سرور حشر کا ہنگام ہے"
+alternateTitle: "So Gaye Maqtal Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Iqbal Abedi"
+reciter: "Akber Naqvi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Sogaye Maqtal Mein"]
 published: false
 romanLyrics: |-
-  Sogaye maqtal mein sarwar hashr ka hangaam hai
-  Ahlebait e mustafa par bekasi ki shaam hai
+  So gaye maqtal meiṅ Sarwar hashr ka hangaam hai
+  Ahl-e-Bait-e-Mustafa par bekasi ki shaam hai
 
   1
-  Shaam wo shaam e ghariban aagayi sau gham liye
-  Jal chuke qaime kahin par aur kahin kohraam hai
+  Shaam wo shaam-e-gharibaaṅ aa gayi sau gham liye
+  Jal chuke khaime kahiṅ par aur kahiṅ kohraam hai
 
   2
-  Hai tamache ek yateema par khudaya is khadar
-  Ummat e islam ka kya khoob ye inaam hai
+  Hai tamaache ek yatima par Khudaaya is qadar
+  Ummat-e-Islam ka kya khub ye inaam hai
 
   3
-  Baap ka seena milega ab kahan bibi tumhe
-  Khaak ke bistar pe sona ab tumhara kaam hai
+  Baap ka sina milega ab kahaaṅ Bibi tumheiṅ
+  Khaak ke bistar pe sona ab tumhaara kaam hai
 
   4
-  Kehti hai bano sakina se suno bibi zara
-  Ab yahan se ghar hamara dekho bas do gaam hai
+  Kehti hai Baano Sakina se suno Bibi zara
+  Ab yahaaṅ se ghar hamaara dekho bas do gaam hai
 
   5
-  Hai namaz o roza o hajj sirf majlis shaah ki
-  Kis jahan ke waaste hum par laga ilzaam hai
+  Hai namaaz o roza o hajj sirf majlis Shaah ki
+  Kis jahaaṅ ke waaste ham par laga ilzaam hai
 
   6
-  Roz o shab masroof rehte hai pare matam sada
-  Gham mein rona shaah e deen ke bas hamara kaam hai
+  Roz o shab masruf rehte hai pare maatam sada
+  Gham meiṅ rona Shaah-e-diṅ ke bas hamaara kaam hai
 
   7
-  Jab se dekhi naujawan ke dil mein barchi ki ani
-  Ume laila ki nazar mein aaj din bhi shaam hai
+  Jab se dekhi naujawaaṅ ke dil meiṅ barchhi ki ani
+  Umm-e-Laila ki nazar meiṅ aaj din bhi shaam hai
 
   8
-  Gham mein jeena gham mein marna hai muqaddar ya hussain
-  Ye hamari zindagi sarwar tumhare naam hai
+  Gham meiṅ jina gham meiṅ marna hai muqaddar ya Husain
+  Ye hamaari zindagi Sarwar tumhaare naam hai
 
   9
-  Aap ke nauhon se maula saber o iqbal hai
-  Nauha khwani nauha goyi dono ka ek kaam hai
+  Aap ke nauhoṅ se Maula Saaber o Iqbal hai
+  Nauha khwaani nauha goyi donoṅ ka ek kaam hai
 # source_id: nohayonline:52d665081d5b7e066bc3
 # source_url: https://www.nohayonline.com/details_content.php?id=2932
 # raw_sha256: 304a8e27f9fe0b3bff70a9b30ea3a0f8325b5989ea9bf426e18330e25b18f175
 ---
-سو گےء مقتل میں سرور حشر کا ہنگام ہے
+سو گئے مقتل میں سرور حشر کا ہنگام ہے
 اہلبیت مصطفیٰ پر بیکسی کی شام ہے
 
 ۱
-شام وہ شام غریباں آگیء سو غم‌ لیےء
+شام وہ شام غریباں آ گئی سو غم لیے
 جل چکے خیمے کہیں پر اور کہیں کہرام ہے
 
 ۲
@@ -64,11 +65,11 @@ romanLyrics: |-
 امت اسلام کا کیا خوب یہ انعام ہے
 
 ۳
-باپ کا سینہ ملے‌ گا اب کہاں بی بی تمہیں
+باپ کا سینہ ملے گا اب کہاں بی‌بی تمہیں
 خاک کے بستر پہ سونا اب تمہارا کام ہے
 
 ۴
-کہتی ہے بانو سکینہ سے سنو بی بی زرا
+کہتی ہے بانو سکینہ سے سنو بی‌بی ذرا
 اب یہاں سے گھر ہمارا دیکھو بس دو گام ہے
 
 ۵
@@ -89,4 +90,4 @@ romanLyrics: |-
 
 ۹
 آپ کے نوحوں سے مولا صابر و اقبال ہے
-نوحہ خوانی نوحہ گوی دونوں کا اک کام ہے
+نوحہ خوانی نوحہ گوئی دونوں کا اک کام ہے
