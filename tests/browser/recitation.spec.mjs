@@ -344,7 +344,7 @@ test("mobile builder progressively reveals optional fields and highlights the ac
   await expect(page.locator("#recite-publish")).toBeDisabled();
 });
 
-test("Roman-only recitation falls back explicitly to its original scan if text is absent", async ({ page }) => {
+test("Roman-only recitation shows missing text without a standalone scan", async ({ page }) => {
   const id = "0123456789abcdef01234567";
   await page.route("**/api/recitation-sets/" + id, (route) =>
     route.fulfill({contentType:"application/json",body:JSON.stringify({
@@ -355,13 +355,14 @@ test("Roman-only recitation falls back explicitly to its original scan if text i
   await page.route("**/data/recitation-lyrics/aa-asghar-bin-tere.json", (route) =>
     route.fulfill({contentType:"application/json",body:JSON.stringify({lyric:{
       id:"aa-asghar-bin-tere",title:"Test text",urdu:"سلام",roman:"",
-      lang:"ur",direction:"rtl",cover:"/images/lyrics/sample.png"
+      lang:"ur",direction:"rtl"
     }})}));
   await page.goto("/recite/read/?set=" + id);
   await expect(page.locator(".recite-work-no-roman")).toBeVisible();
   await page.locator('[data-reading-column][value="urdu"]').uncheck();
   await expect(page.locator("[data-reading-root]")).toHaveAttribute("data-reading-mode","roman");
-  await expect(page.locator(".recite-work-no-roman .lyric-reading-image")).toBeVisible();
+  await expect(page.locator('[data-reading-column][value="image"]')).toHaveCount(0);
+  await expect(page.locator(".recite-work-no-roman .lyric-reading-image")).toHaveCount(0);
   await expect(page.locator(".recite-work-no-roman .recite-empty-edition")).toContainText("Roman Urdu is not available");
 });
 
