@@ -1,71 +1,72 @@
 ---
 title: "سلام خاک نشینوں پہ سوگواروں کا"
-alternateTitle: "Salam E Aakhir"
+alternateTitle: "Salam-e-Aakhir"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Noha"
+kalamType: "Salam"
 poet: "Aale Raza"
+reciter: "Nasir Jahan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Salam khaak nasheeno pa sogwaron ka
-  Ghareeb dete hai pursa tumhare pyaro ka
+  Salam khaak nashinoṅ pe sogwaaroṅ ka
+  Gharib dete haiṅ pursa tumhaare pyaaroṅ ka
   
   1
-  Salam un pa jinhe sharm khaaye jaati hai
-  Khule saron pe aseeri ki khaak aati hai
-  Salam un pa jo zahmat kashe salaasil hai
-  Musibaton may imamat ki pehli manzil hai
+  Salam un par jinheiṅ sharm khaaye jaati hai
+  Khule saroṅ pe asiri ki khaak aati hai
+  Salam un par jo zahmat kash-e-salaasil hai
+  Musibatoṅ mein imaamat ki pehli manzil hai
   
   2
-  Salam bhejte hai apni shahzadi par
-  Ke jisko sawnp gaye marte waqt ghar sarwar
-  Musafirat ne jise bebasi ye dikhlayi
-  Nisar kar diye bache na bach saka bhai
+  Salam bhejte haiṅ apni shahzaadi par
+  Ke jis ko sauṅp gaye marte waqt ghar Sarwar
+  Musaafirat ne jise bebasi ye dikhlaai
+  Nisaar kar diye bachche na bach saka bhaai
   
   3
-  Aseer ho ke jise shamiyon ke narghe may
-  Husainiyat hai sikhana ali ke lehje may
-  Sakina bibi tumhare ghulam haazir hai
-  Bujhe jo pyaas to ashkon ke jaam haazir hai
+  Asir ho ke jise Shaamiyoṅ ke narghe mein
+  Husainiyat hai sikhaana Ali ke lehje mein
+  Sakina Bibi tumhaare ghulaam haazir haiṅ
+  Bujhe jo pyaas to ashkoṅ ke jaam haazir haiṅ
   
   4
-  Ye sin ye hashr ye sadme naye naye bibi
-  Kahan pa baithi ho qaime to jal gaye bibi
-  Pahaad raat bari dayr hai sawere may
-  Kahan ho shaam-e-ghariban ke ghup andhere may
+  Ye sin ye hashr ye sadme naye naye Bibi
+  Kahaaṅ pe baithi ho khaime to jal gaye Bibi
+  Pahaar raat bari der hai sawere mein
+  Kahaaṅ ho shaam-e-gharibaaṅ ke ghup andhere mein
   
   5
-  Zameen garm yateemi ki sakhtiyan bibi
-  Wo seena jis pa ke soti thi ab kahan bibi
-  Janaab e maadare baysheer ko bhi sab ka salam
-  Ajeeb waqt hai kya dein tasalliyon ka payam
+  Zamin hai garm yatimi ki sakhtiyaaṅ Bibi
+  Wo sina ke jis pe soti thi ab kahaaṅ Bibi
+  Janaab-e-maadar-e-beshir ko bhi sab ka salam
+  Ajib waqt hai kya deiṅ tasalliyoṅ ka payaam
   
   6
-  Abhi kaleje may ek aag si lagi hogi
-  Abhi to godh ki garmi na kam hui hogi
-  Nahi andhere may kuch soojhta kahan dhoonde
-  Tumhara chaand kahan chhup gaya kahan dhoonde
+  Abhi kaleje mein ek aag si lagi hogi
+  Abhi to god ki garmi na kam hui hogi
+  Nahiṅ andhere mein kuch sujhta kahaaṅ dhunreiṅ
+  Tumhaara chaand kahaaṅ chhup gaya kahaaṅ dhunreiṅ
   
   7
-  Na is tarah koi kheti hari bhari ujdi
-  Tumhari maang bhi ujdi hai godh bhi ujdi
-  Nahi layeeno may insan koi khuda hafiz
-  Darinde aur ye be-waarisi khuda hafiz
+  Na is tarah koi kheti hari bhari ujri
+  Tumhaari maaṅg bhi ujri hai god bhi ujri
+  Nahiṅ lainoṅ mein insaaṅ koi Khuda haafiz
+  Darinde aur ye bewaarsi Khuda haafiz
   
   8
-  Shareeke haqe darood o salam e payghambar
-  Salam sayyed e lawlaak ke lute ghar par
-  Salam mohsin-e-islam khasta tan laashon
-  Salam tum pe shaheedon ke be kafan laashon
+  Sharik-e-haq-e-durud o salam-e-Paighambar
+  Salam Sayyed-e-Laulaak ke lute ghar par
+  Salam mohsin-e-Islam khasta tan laashoṅ
+  Salam tum par shahidoṅ ke bekafan laashoṅ
   
   9
-  Salam tum pe rasool-o-batool ke pyaron
-  Salam mehr-e-shahadat ke gird sayyaron
-  Bache to agle baras ham hai aur ye gham phir hai
-  Jo chal basay to ye apna salaam-e-aakhir hai
+  Salam tum par Rasul o Batul ke pyaaroṅ
+  Salam mehr-e-shahaadat ke gird sayyaaroṅ
+  Bache to agle baras hum haiṅ aur ye gham phir hai
+  Jo chale base to ye apna salam-e-aakhir hai
 # source_id: nohayonline:d7ccbed0528dada4d12d
 # source_url: https://www.nohayonline.com/content_salaam.php?id=39
 # raw_sha256: af12e256515bb137e1bbb45c74252a2b26cd5722fb60d58caebd5a9c565f0cd6
@@ -75,46 +76,46 @@ romanLyrics: |-
 غریب دیتے ہیں پرسہ تمہارے پیاروں کا
 
 ۱
-سلام ان پر جنہیں شرم کھاۓ جاتی ہے
+سلام ان پر جنہیں شرم کھائے جاتی ہے
 کھلے سروں پہ اسیری کی خاک آتی ہے
 سلام ان پر جو زحمت کش سلاسل ہے
 مصیبتوں میں امامت کی پہلی منزل ہے
 
 ۲
 سلام بھیجتے ہیں اپنی شہزادی پر
-کہ جس کو سونپ گۓ مرتے وقت گھر سرور
-مسافرت نے جسے بے بسی یہ دکھلائ
-نثار کردیے بچے نہ بچ سکا بھائ
+کہ جس کو سونپ گئے مرتے وقت گھر سرور
+مسافرت نے جسے بے بسی یہ دکھلائی
+نثار کر دیے بچے نہ بچ سکا بھائی
 
 ۳
 اسیر ہو کے جسے شامیوں کے نرغے میں
 حسینیت ہے سکھانا علی کے لہجے میں
-سـکـینـہ بی بی تمہارے غلام حاضر ہیں
+سکینہ بی‌بی تمہارے غلام حاضر ہیں
 بجھے جو پیاس تو اشکوں کے جام حاضر ہیں
 
 ۴
-یہ سن یہ حشر یہ صدمے نۓ نۓ بی بی
-کہاں پہ بیٹھی ہو خیمے تو جل گۓ بی بی
+یہ سن یہ حشر یہ صدمے نئے نئے بی‌بی
+کہاں پہ بیٹھی ہو خیمے تو جل گئے بی‌بی
 پہاڑ رات بڑی دیر ہے سویرے میں
 کہاں ہو شام غریباں کے گھپ اندھیرے میں
 
 ۵
-زمین ہے گرم یتیمی کی سختیاں بی بی
-وہ سینہ کہ جس پہ سوتی تھی اب کہاں بی بی
+زمین ہے گرم یتیمی کی سختیاں بی‌بی
+وہ سینہ کہ جس پہ سوتی تھی اب کہاں بی‌بی
 جناب مادر بیشیر کو بھی سب کا سلام
-عجیب وقت ہے کیا دیں تسّـلیوں کا پیام
+عجیب وقت ہے کیا دیں تسلیوں کا پیام
 
 ۶
 ابھی کلیجے میں آگ سی لگی ہوگی
-ابھی تو گود کی گرمی نہ کم ہوئ ہوگی
+ابھی تو گود کی گرمی نہ کم ہوئی ہوگی
 نہیں اندھیرے میں کچھ سوجھتا کہاں ڈھونڈیں
-تمہارا چاند کہاں چھپ گيا کہاں ڈھونڈیں
+تمہارا چاند کہاں چھپ گیا کہاں ڈھونڈیں
 
 ۷
-نہ اس طرح کوئ کھیتی ہری بھری اجڑی
+نہ اس طرح کوئی کھیتی ہری بھری اجڑی
 تمہاری مانگ بھی اجڑی ہے کوکھ بھی اجڑی
-نہیں لعینوں میں انساں کوئ خداحافظ
-درندے اور یہ بے وارثی خداحافظ
+نہیں لعینوں میں انساں کوئی خدا حافظ
+درندے اور یہ بے وارثی خدا حافظ
 
 ۸
 شریک حق درود و سلام پیغمبر
