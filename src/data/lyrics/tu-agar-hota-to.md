@@ -6,71 +6,78 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ghazi mere ghazi
-  Aayi jab karbobala laut ke binte zahra
-  Qabr e abbas pe zainab ne kiya ye nauha
-  Tu agar hota to aisa nahi hota ghazi
-  Teri shehzadi yun dar dar na phirayi jaati
-  Qabr e abbas pe zainab ye sada deti thi
+  Ghaazi mere Ghaazi
+
+  Aayiṅ jab Karb o Bala laut ke bint-e-Zahra
+  Qabr-e-Abbas pe Zainab ne kiya ye nauha
+  Tu agar hota to aisa nahiṅ hota Ghaazi
+  Teri shahzaadi yuṅ dar dar na phiraai jaati
+
+  Tu agar hota to aisa nahiṅ hota Ghaazi
+  Qabr-e-Abbas pe Zainab ye sada deti thi
 
   1
-  Kabhi yasrab to kabhi suye najaf dekhte thay
-  Kabhi tere kate shaano ki taraf dekhte thay
-  Sheh ne akbar ke kaleje se nikaali barchi
+  Kabhi Yasrab to kabhi su-e-Najaf dekhte the
+  Kabhi tere kate shaanoṅ ki taraf dekhte the
+  Shah ne Akbar ke kaleje se nikaali barchhi
 
   2
-  Hogayi saani e zahra bhi zaeefa abbas
-  Saans leti hoo magar mai nahi zinda abbas
-  Tere tukdon ki qasam teri behan toot gayi
+  Ho gayi saani-e-Zahra bhi zaifa Abbas
+  Saans leti huṅ magar main nahiṅ zinda Abbas
+  Tere tukroṅ ki qasam teri behan tut gayi
 
   3
-  Pyaas may bhi tujhe awaaz diye jaate thay
-  Zer e khanjar bhi tera naam liye jaate thay
-  Gardan e shaah pe jab shimr chalata tha churi
+  Pyaas meiṅ bhi tujhe aawaaz diye jaate the
+  Zer-e-khanjar bhi tara naam liye jaate the
+  Gardan-e-Shah pe jab Shimr chalaata tha chhuri
 
   4
-  Mere haathon ko bhi rassi se gaya tha baandha
-  Mai bhi haathon ka na le paayi sahara bhaiya
-  Jaise tu zeen se gira waise mai naaqe se giri
+  Mere haathoṅ ko bhi rassi se gaya tha baandha
+  Main bhi haathoṅ ka na le paayi sahaara bhaiya
+  Jaise tu zin se gira waise main naaqe se giri
 
   5
-  Qaid khana bhi ghareebi pe meri rota hai
-  Laash mastoor uthaye ye kahan hota hai
-  Farz beton ka nibha aayi ali ki beti
+  Qaid khaana bhi gharibi pe meri rota hai
+  Laash mastur uthaaye ye kahaaṅ hota hai
+  Farz betoṅ ka nibha aayi Ali ki beti
 
   6
-  Kaise batlaun wo darbar ka manzar bhaiya
-  Khelta tha sar e sarwar se sitamgar bhaiya
-  Maarta tha mere mazloom ke honton pe chadi
+  Kaise batlaauṅ wo darbaar ka manzar bhaiya
+  Khelta tha sar-e-Sarwar se sitamgar bhaiya
+  Maarta tha mere mazlum ke hontoṅ pe chhari
 
   7
-  Qabr may chain se masoom ko sone na diya
-  Wo sitam dhaaya gaya kaamp gayi karbobala
-  Laash dhoondi gayi naizon se ali asghar ki
+  Qabr meiṅ chain se maasum ko sone nahiṅ diya
+  Wo sitam dhaaya gaya kaaṅp gayi Karb o Bala
+  Laash dhundi gayi nezoṅ se Ali Asghar ki
 
   8
-  Ladkhadate thay bahot paon to gir jaate thay
-  Ho kahan mere jawan ro ke ye farmate thay
-  Laash milti na thi bhaiya ko ali akbar ki
+  Larkharaate the bahut paaoṅ to gir jaate the
+  Ho kahaaṅ mere jawaaṅ ro ke ye farmaate the
+  Laash milti na thi bhaiya ko Ali Akbar ki
 
   9
-  Mir sajjad ye mehsoos karoge tum bhi
-  Aati hai rauza e ghazi pe sada sarwar ki
-  Aaj bhi qaid hai zindan may bacchi meri
+  Mir Sajjad ye mahsus karoge tum bhi
+  Aati hai rauza-e-Ghaazi pe sada Sarwar ki
+  Aaj bhi qaid hai zindaan meiṅ bachchi meri
 # source_id: nohayonline:1e722ddf18caa2d44908
 # source_url: https://www.nohayonline.com/details_content.php?id=2565
 # raw_sha256: 45921b0f05d0f82f2341c3f858f4ade56dda3888896601f9545f5c69a7043149
 ---
 غازی میرے غازی
+
 آئیں جب کرب و بلا لوٹ کے بنتِ زہرا
 قبرِ عباس پہ زینب نے کیا یہ نوحہ
 تو اگر ہوتا تو ایسا نہیں ہوتا غازی
-تیری شہ ذادی یوں در در نہ پھرائی جاتی
-قبرِ عباس پہ زینبیہ صدا دیتی تھی
+تیری شہزادی یوں در در نہ پھرائی جاتی
+
+تو اگر ہوتا تو ایسا نہیں ہوتا غازی
+قبرِ عباس پہ زینب یہ صدا دیتی تھی
 
 ۱
 کبھی یثرب تو کبھی سوئے نجف دیکھتے تھے
@@ -78,13 +85,13 @@ romanLyrics: |-
 شہ نے اکبر کے کلیجے سے نکالی برچھی
 
 ۲
-ہوگئی ثانیٔ زہرا بھی ضعیفہ عباس
+ہو گئی ثانیٔ زہرا بھی ضعیفہ عباس
 سانس لیتی ہوں مگر میں نہیں زندہ عباس
 تیرے ٹکڑوں کی قسم تیری بہن ٹوٹ گئی
 
 ۳
 پیاس میں بھی تجھے آواز دیئے جاتے تھے
-زیر خنجر بھی ترا نام لئے جاتے تھے
+زیرِ خنجر بھی ترا نام لئے جاتے تھے
 گردنِ شاہ پہ جب شمر چلاتا تھا چھری
 
 ۴
@@ -104,15 +111,15 @@ romanLyrics: |-
 
 ۷
 قبر میں چین سے معصوم کو سونے نہیں دیا
-وہ ستم ڈھایا گیا کانپگئی کرب وبلا
+وہ ستم ڈھایا گیا کانپ گئی کرب و بلا
 لاش ڈھونڈی گئی نیزوں سے علی اصغر کی
 
 ۸
 لڑکھڑاتے تھے بہت پاؤں تو گر جاتے تھے
-ہو کہاں میرے جواں روکے یہ فرماتے تھے
+ہو کہاں میرے جواں رو کے یہ فرماتے تھے
 لاش ملتی نہ تھی بھیّا کو علی اکبر کی
 
 ۹
 میر سجاد یہ محسوس کرو گے تم بھی
 آتی ہے روضۂ غازی پہ صدا سرور کی
-آج بھی قید ہے زندانمیں بچی میری
+آج بھی قید ہے زندان میں بچی میری

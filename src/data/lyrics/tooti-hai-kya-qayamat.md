@@ -1,86 +1,87 @@
 ---
-title: "ہاے اولاد مرتظی پر ٹوٹی ہے کیا قیامت"
-alternateTitle: "Tooti Hai Kya Qayamat"
+title: "ہائے اولادِ مرتضیٰ پر ٹوٹی ہے کیا قیامت"
+alternateTitle: "Tuti Hai Kya Qayaamat"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Dayam Najafi"
+reciter: "Ali Yazdan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye aulaad e murtaza par tooti hai kya qayamat
-  Bacche tadap rahe hai baba ka dekh kar sar
+  Haaye aulaad-e-Murtaza par tuti hai kya qayaamat
+  Bachche tarap rahe haiṅ Baba ka dekh kar sar
 
   1
-  Jibreel ye tadap kar awaaz de rahe hai
-  Maara gaya hai logon sajde may sher e daawar
+  Jibril ye tarap kar aawaaz de rahe haiṅ
+  Maara gaya hai logoṅ sajde meiṅ sher-e-Daawar
 
   2
-  Sar se lahoo musalsal behta hi jaa raha hai
-  Kaise sambhale shabbar baba ka jism e laaghar
+  Sar se lahu musalsal behta hi jaa raha hai
+  Kaise sambhaale Shabbar Baba ka jism-e-laaghar
 
   3
-  Itna bataye mujhko baba pe kya hai guzri
-  Ro ro ke poochti hai bhai se binte hyder
+  Itna bataaye mujh ko Baba pe kya hai guzri
+  Ro ro ke puchhti hai bhai se bint-e-Haider
 
   4
-  Tar khoon se jabeen hai dekha jo bawafa ne
-  Chauda baras ka ghazi roya bilak bilak kar
+  Tar khun se jabiṅ hai dekha jo baawafa ne
+  Chaudah baras ka Ghaazi roya bilak bilak kar
 
   5
-  Hyder ki chashme tar may kufe ka ek samaa hai
-  Majme may hogi zainab ek din yahin khule sar
+  Haider ki chashm-e-tar meiṅ Kufe ka ik samaaṅ hai
+  Majme meiṅ hogi Zainab ik din yahiṅ khule sar
 
   6
-  Mazloom ki himayat hargiz na tark karna
-  Dunya se jaate jaate ye keh rahe hai hyder
+  Mazlum ki himaayat hargiz na tark karna
+  Duniya se jaate jaate ye keh rahe haiṅ Haider
 
   7
-  Phir se yateem hum ko na kijiyo khudaya
-  Kufe ke sab yateemon ki hai dua ye lab par
+  Phir se yatim ham ko na kijiyo Khudaaya
+  Kufe ke sab yatimoṅ ki hai dua ye lab par
 
   8
-  Qadmon pe rakh ke sar ko zainab ye keh rahi hai
-  Bichde jo aap baba mar jayegi ye dukhtar
+  Qadmoṅ pe rakh ke sar ko Zainab ye keh rahi hai
+  Bichhre jo aap Baba mar jaayegi ye dukhtar
 
   9
-  Baba ke baad jeena dushwaar hai hamara
-  Ek pal sukoon na hoga ab aal ko mayassar
+  Baba ke baad jina dushwaar hai hamaara
+  Ik pal sukuṅ na hoga ab aal ko mayassar
 
   10
-  Ghash khaa rahi hai zainab bacche tadap rahe hai
-  Aale nabi may dayam barpa hai ek mehshar
+  Ghash khaa rahi hai Zainab bachche tarap rahe haiṅ
+  Aal-e-Nabi meiṅ Daayam barpa hai ek mahshar
 # source_id: nohayonline:a7fb9acf76fae6425f97
 # source_url: https://www.nohayonline.com/details_content.php?id=2514
 # raw_sha256: e1fa0c3eaea9391d4e3233e09b1636598d56ff08c3e41e3681edc971737982ce
 ---
-ہاے اولاد مرتظی پر ٹوٹی ہے کیا قیامت
-بچہ تڑپ رہے ہیں بابا کا دیکھ کر سر
+ہائے اولادِ مرتضیٰ پر ٹوٹی ہے کیا قیامت
+بچے تڑپ رہے ہیں بابا کا دیکھ کر سر
 
 ۱
 جبریل یہ تڑپ کر آواز دے رہے ہیں
-مارا گیا ہے لوگوں سجدے میں شیر داور
+مارا گیا ہے لوگوں سجدے میں شیرِ داور
 
 ۲
 سر سے لہو مسلسل بہتا ہی جا رہا ہے
-کیسے سنبھالے شبر بابا کا جسم لاغر
+کیسے سنبھالے شبر بابا کا جسمِ لاغر
 
 ۳
-اتنا بتاے مجھکو بابا پہ کیا ہے گزری
-رو رو کے پوچھتی ہے بھای سے بنت حیدر
+اتنا بتائے مجھ کو بابا پہ کیا ہے گزری
+رو رو کے پوچھتی ہے بھائی سے بنتِ حیدر
 
 ۴
 تر خون سے جبیں ہے دیکھا جو باوفا نے
 چودہ برس کا غازی رویا بلک بلک کر
 
 ۵
-حیدر کی چشم تر میں کوفے کا اک سماں ہے
-مجمے میں ہو گی زینب اک دن یہی کھلے سر
+حیدر کی چشمِ تر میں کوفے کا اک سماں ہے
+مجمعے میں ہو گی زینب اک دن یہیں کھلے سر
 
 ۶
-مظلوم کی حمیت ہر گز نہ ترک کرنا
+مظلوم کی حمایت ہرگز نہ ترک کرنا
 دنیا سے جاتے جاتے یہ کہہ رہے ہیں حیدر
 
 ۷
@@ -89,7 +90,7 @@ romanLyrics: |-
 
 ۸
 قدموں پہ رکھ کے سر کو زینب یہ کہہ رہی ہے
-بچھڑے جو آپ بابا مر جاے گی یہ دختر
+بچھڑے جو آپ بابا مر جائے گی یہ دختر
 
 ۹
 بابا کے بعد جینا دشوار ہے ہمارا
@@ -97,4 +98,4 @@ romanLyrics: |-
 
 ۱۰
 غش کھا رہی ہے زینب بچے تڑپ رہے ہیں
-آل نبی میں دایم برپا ہے ایک محشر
+آلِ نبی میں دائم برپا ہے ایک محشر
