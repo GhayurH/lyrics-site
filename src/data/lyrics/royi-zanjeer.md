@@ -1,80 +1,77 @@
 ---
-title: "سجاد سے قدموں سے لپٹ کر روی زنجیر"
-alternateTitle: "Royi Zanjeer"
+title: "سجاد سے قدموں سے لپٹ کر روئی زنجیر"
+alternateTitle: "Royi Zanjir"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sajjad se qadmon se lipat kar royi zanjeer
+  Sajjad se qadmoṅ se lipat kar royi zanjir
+  Jab hataayi gayi qadmoṅ se to hat kar royi zanjir
   
   1
-  Jab hatayi gayi qadmon se to hat kar royi zanjeer
+  Saath Aabid ke rahi ban ke azaadaar-e-Husain
+  Taare ashk-e-Gham-e-Sarwar mein simat kar royi zanjir
   
   2
-  Saath abid ke rahi banke azadare hussain
-  Taare ashke ghame sarwar may simat kar royi zanjeer
+  Sar khule dekh kar balwe mein Nabi ki itrat
+  Khun mein dub gayi khaak mein uth kar royi zanjir
   
   3
-  Sar khule dekh kar balwe may nabi ki itrat
-  Khoon may doob gayi khaak may ath kar royi zanjeer
+  Hashr tha ik bapa larza bar andaam tha kufr
+  Jis ghari halqa-e-zanjir se kat kar royi zanjir
   
   4
-  Hashr tha ek bapa larza bar andaam tha kufr
-  Jis ghadi halqa e zanjeer se kat kar royi zanjeer
+  De ke paighaam shahidoṅ ka lahu deti hui
+  Ek ik halqa-e-zanjir mein bat kar royi zanjir
   
   5
-  De ke paigham sheheedon ka lahoo deti hui
-  Ek ek halqa e zanjeer may bat kar royi zanjeer
+  Dekhne waala na tha koi jihaad-e-Aabid ka
+  Kufa o Shaam ka darbaar ulat kar royi zanjir
   
   6
-  Dekhne waala na tha koi jihad abid ka
-  Kufa o shaam ka darbar ulat kar royi zanjeer
+  Thartharaane laga Abbas-e-Jari ka laasha
+  Jaate jaate jo su-e-nehr palat kar royi zanjir
   
   7
-  Thar tharane laga abbas e jari ka laasha
-  Jaate jaate jo suye nehr palat kar royi zanjeer
-  
-  8
-  Jab banane laga bemaar behan ki turbat
-  Thar tharayi kabhi qadmon se lipat kar royi zanjeer
+  Jab banaane laga bimaar behan ki turbat
+  Thartharaayi kabhi qadmoṅ se lipat kar royi zanjir
 # source_id: nohayonline:0ed7eb7a049644f9f632
 # source_url: https://www.nohayonline.com/details_content.php?id=1111
 # raw_sha256: b943666e8bdbb1bbc061bc33999770d499c2680e78e62ba11ed3ee08397310c8
 ---
 
-سجاد سے قدموں سے لپٹ کر روی زنجیر
+سجاد سے قدموں سے لپٹ کر روئی زنجیر
+جب ہٹائی گئی قدموں سے تو ہٹ کر روئی زنجیر
 
 ۱
-جب ہٹای گیء قدموں سے تو ہٹ کر روی زنجیر
+ساتھ عابد کے رہی بن کے عزادارِ حسین
+تارے اشکِ غمِ سرور میں سمٹ کر روئی زنجیر
 
 ۲
-ساتھ عابد کے رہی بن کے عزادار حسین
-تارے آشک غمِ سرور میں سمٹ کر روی زنجیر
+سر کھلے دیکھ کر بلوے میں نبی کی عترت
+خون میں ڈوب گئی خاک میں اٹھ کر روئی زنجیر
 
 ۳
-سر کھلے دیکھ کر بلوے میں نبی کی عطرت
-خون میں ڈوب گیء خاک میں اٹھ کر روی زنجیر
+حشر تھا اک بپا لرزہ بر اندام تھا کفر
+جس گھڑی حلقۂ زنجیر سے کٹ کر روئی زنجیر
 
 ۴
-حشر تھا اک بپا لرزا بر اندام تھا کفر
-جس گھڑی حلقہء زنجیر سے کٹ کر روی زنجیر
+دے کے پیغام شہیدوں کا لہو دیتی ہوئی
+ایک اک حلقۂ زنجیر میں بٹ کر روئی زنجیر
 
 ۵
-دے کے پیغام شہیدوں کا لہو دیتی ہوی
-ایک اک حلقۂ زنجیر میں بٹ کر روی زنجیر
+دیکھنے والا نہ تھا کوئی جہادِ عابد کا
+کوفہ و شام کا دربار الٹ کر روئی زنجیر
 
 ۶
-دیکھنے والا نہ تھا کوئی جہاد عابد کا
-کوفہ و شام کا دربار الاٹ کر رویی زنجیر
+تھرتھرانے لگا عباسِ جری کا لاشہ
+جاتے جاتے جو سوئے نہر پلٹ کر روئی زنجیر
 
 ۷
-تھر ٹھرانے لگا عباس جری کا لاشہ
-جاتے جاتے جو سوے نہر پلٹ کر روی زنجیر
-
-۸
 جب بنانے لگا بیمار بہن کی تربت
-تھر تھرای کبھی قدموں سے لپٹ کر روی زنجیر
+تھرتھرائی کبھی قدموں سے لپٹ کر روئی زنجیر

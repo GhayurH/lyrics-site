@@ -6,45 +6,51 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mohsin"
+reciter: "Ali Zia Rizvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Royi sakina sar ne hudaye
-  Pani chacha kaahe naahi laaye
+  Royi Sakina sar ne huraaye
+  Paani chacha kaahe naahiṅ laaye
+  Dar pe khari huṅ aas lagaaye
+  Paani chacha kaahe naahiṅ laaye
   
   1
-  Dar pa khadi hoo aas lagaye
+  Khaali kuza haath ma thaame
+  Raah takat hai kab se bachi
+  Koi to us ki aas bandhaaye
+  Paani chacha kaahe naahiṅ laaye
   
   2
-  Khaali kooza haath ma thaame
-  Raah takat hai kabse bache
-  Koi to unki aas bandhaye
+  Kab ke gaye the lene paani
+  Bhul gaye ka hamri kahaani
+  Ab kaun hamri pyaas bujhaaye
+  Paani chacha kaahe naahiṅ laaye
   
   3
-  Kab ke gaye thay layne pani
-  Bhool gaye ka hamri kahani
-  Ab kaun hamri pyas bujhaye
+  Mashk o alam jab le ke gaye the
+  Bachche rasta dekh rahe the
+  Puchhat hai ham se kaun bataaye
+  Paani chacha kaahe naahiṅ laaye
   
   4
-  Mashk o alam jab leke gaye thay
-  Bache rasta dekh rahe thay
-  Poochat hai ham se kaun bataye
+  Binti karat huṅ koi ye keh de
+  Nehr pe jaa kar more ammu se
+  Saanj bahe ab tak nahiṅ aaye
+  Paani chacha kaahe naahiṅ laaye
   
   5
-  Binti karat hoo koi ye keh de
-  Nehr pa jaa kar moray ammu se
-  Saanj bahi ab tak nahi aaye
-  
-  6
   Qaime jalat hai chinat hai chaadar
   Laygawa mora bunda sitamgar
   Ammu ko mere koi goheye laye
+  Paani chacha kaahe naahiṅ laaye
   
-  7
-  Mohsin abhi tak khoon hai rulaati
-  Pyaas sakina aur asghar ki
-  Bas ye sada mora dil tadpaye
+  6
+  Mohsin abhi tak khuṅ hai rulaati
+  Pyaas Sakina aur Asghar ki
+  Bas ye sada mora dil tarpaaye
+  Paani chacha kaahe naahiṅ laaye
 # source_id: nohayonline:c722f1a377ecc052879e
 # source_url: https://www.nohayonline.com/details_content.php?id=285
 # raw_sha256: 65db7e88e0ec613ccb7f545da5e0179288676bdbd7d909413edf79ba69794d9e
@@ -52,36 +58,41 @@ romanLyrics: |-
 
 روئی سکینہ سر نہوڑائے
 پانی چچا کاہے ناہیں لائے
+در پہ کھڑی ہوں آس لگائے
+پانی چچا کاہے ناہیں لائے
 
 ۱
-در پہ کھڑی ہوں آس لگائے
-
-۲
 خالی کوزہ ہاتھ م تھامے
 راہ تکت ہے کب سے بچی
 کوئی تو اس کی آس بندھائے
+پانی چچا کاہے ناہیں لائے
 
-۳
+۲
 کب کے گئے تھے لینے پانی
 بھول گئے کا ہمری کہانی
 اب کون ہمری پیاس بجھائے
+پانی چچا کاہے ناہیں لائے
 
-۴
+۳
 مشک و علم جب لے کے گئے تھے
 بچے رستہ دیکھ رہے تھے
 پوچھت ہے ہم سے کون بتائے
+پانی چچا کاہے ناہیں لائے
 
-۵
+۴
 بنتی کرت ہوں کوئی یہ کہہ دے
 نہر پہ جا کر مورے عمو سے
 سانج بہے اب تک نہیں آئے
+پانی چچا کاہے ناہیں لائے
 
-۶
+۵
 خیمے جلت میں چھینٹ ہیں چادر
 لیگوا مورا بندہ ستمگر
 عموں کو میرے کوئی گھوئے لائے
+پانی چچا کاہے ناہیں لائے
 
-۷
+۶
 محسن ابھی تک خوں ہے رلاتی
 پیاس سکینہ اور اصغر کی
 بس یہ صدا مورا دل تڑپائے
+پانی چچا کاہے ناہیں لائے
