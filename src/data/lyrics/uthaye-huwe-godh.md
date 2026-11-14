@@ -6,62 +6,63 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"
+reciter: "Mukhtar Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Uthaye huwe godh mein sar pidar ka
-  Sakina ye kehti thi le kar balayein
-  Sunaati hoo mai qaid khane ki baatein
-  Mujhe aap maqtal ki baatein sunayein
+  Uthaye huwe god mein sar pidar ka
+  Sakina ye kehti thiṅ le kar balaaeṅ
+  Sunaati huṅ main qaid khaane ki baateṅ
+  Mujhe aap maqtal ki baateṅ sunaaeṅ
 
   1
-  Labon pe chadi aap ke jab lagi thi
-  Mai darbar mein saamne hi khadi thi
-  Lagaye tamache mujhe jab shaqi ne
+  Laboṅ pe chhari aap ke jab lagi thi
+  Main darbaar mein saamne hi khari thi
+  Lagaaye tamaaṅche mujhe jab shaqi ne
   Nazar aap ki meri jaanib uthi thi
-  Ye sab neel chehron ke shahid hai kaise
-  Hamein shaam waalon ne di hai sazayein
+  Ye sab nil chehroṅ ke shaahid haiṅ kaise
+  Hameṅ Shaam waaloṅ ne di haiṅ sazaaeṅ
 
   2
-  Mai naaqe pe thi aap naize pe baba
+  Main naaqe pe thi aap neze pe Baba
   Mere paas se sar kabhi jo guzarta
-  Mai naaqe se khud ko zameen par giraati
-  Layeen aa ke baalon se mujhko uthaata
-  Mera kaun tha jisko awaaz deti
-  Kise kehti zaalim se aa kar bachayein
+  Main naaqe se khud ko zamiṅ par giraati
+  Laiṅ aa ke baaloṅ se mujh ko uthaata
+  Mera kaun tha jis ko aawaaz deti
+  Kise kehti zaalim se aa kar bachaaeṅ
 
   3
-  Rasan ek thi aur baara galay thay
-  Yun hum log bazaar mein chal rahe thay
-  Mai kamsin thi humraah chalna tha mushkil
-  So ek mod pad gir padi ladkhadake ke
-  Badi mushkilon se uthaaya phupi ne
-  Layeeno ki khwahish thi bas rondh jaayein
+  Rasan ek thi aur baarah gale the
+  Yuṅ hum log baazaar mein chal rahe the
+  Main kamsin thi hamraah chalna tha mushkil
+  So ik mor par gir pari larkhara ke
+  Bari mushkiloṅ se uthaaya phuphi ne
+  Lainoṅ ki khwaahish thi bas raund jaaeṅ
 
   4
-  Musalsal sitam kar rahe thay sitamgar
-  Bahot khush thay wo kaat kar aap ka sar
-  Ajab aag thi shaam waalon ke dil mein
+  Musalsal sitam kar rahe the sitamgar
+  Bahut khush the wo kaat kar aap ka sar
+  Ajab aag thi Shaam waaloṅ ke dil mein
   Na thanda hua dil jo khanjar chala kar
-  Sataya hai yun aap ko zaalimon ne
-  Wahin sar rakha rakhi jis jaa ridayein
+  Sataaya hai yuṅ aap ko zaalimoṅ ne
+  Wahiṅ sar rakha rakhi jis jaa ridaaeṅ
 
   5
-  Kahin thi mai qaidan kahin thi yateema
+  Kahiṅ thi main qaidan kahiṅ thi yatima
   Naye shehr mein naam mera naya tha
-  Safar ne mujhe itne alqaab bakshe
-  Ke mai bhool baithi thi khud naam apna
-  Mai ye saare dukh bhool jaaungi baba
-  Sakina jo ek baar keh kar bulayein
+  Safar ne mujhe itne alqaab bakhshe
+  Ke main bhul baithi thi khud naam apna
+  Main ye saare dukh bhul jaauṅgi Baba
+  Sakina jo ik baar keh kar bulaaeṅ
 
   6
-  Lehad mein ye baba se boli wo akbar
-  Mujhe yaad hai karbala ka wo manzar
-  Ke seene pe thay teer paywast har jaa
-  Mai kis tarha soungi zakhmon ke upar
-  Mai kehti nahi mujhko seene lagayein
-  Mujhe aaj bas khaak par hi sulayein
+  Lahad mein ye Baba se boli wo Akbar
+  Mujhe yaad hai Karbala ka wo manzar
+  Ke sine mein the tir paiwast har jaa
+  Main kis tarah souṅgi zakhmoṅ ke upar
+  Main kehti nahiṅ mujh ko sine lagaaeṅ
+  Mujhe aaj bas khaak par hi sulaaeṅ
 # source_id: nohayonline:4c2e681b8d21c3e3eb6a
 # source_url: https://www.nohayonline.com/details_content.php?id=2079
 # raw_sha256: bf75467bff8ed7e71a31372c34c5f797b3a05ea71391aebb12ccb113cbb886cd
@@ -72,11 +73,11 @@ romanLyrics: |-
 مجھے آپ مقتل کی باتیں سنائیں
 
 ۱
-لبوں پہ چھڑی آپ کہ جب لگی تھی
+لبوں پہ چھڑی آپ کے جب لگی تھی
 میں دربار میں سامنے ہی کھڑی تھی
 لگائے طمانچے مجھے جب شقی نے
 نظر آپ کی میری جانب اٹھی تھی
-یہ سب نیل چہروں کہ شاہد ہیں کیسے
+یہ سب نیل چہروں کے شاہد ہیں کیسے
 ہمیں شام والوں نے دی ہیں سزائیں
 
 ۲
@@ -84,7 +85,7 @@ romanLyrics: |-
 میرے پاس سے سر کبھی جو گزرتا
 میں ناقے سے خود کو زمیں پر گراتی
 لعیں آ کے بالوں سے مجھ کو اٹھاتا
-میرا کون تھا جسکو آواز دیتی
+میرا کون تھا جس کو آواز دیتی
 کسے کہتی ظالم سے آ کر بچائیں
 
 ۳
@@ -96,7 +97,7 @@ romanLyrics: |-
 لعینوں کی خواہش تھی بس روند جائیں
 
 ۴
-مسلسل ستم کر رہے رھے تھے ستمگر
+مسلسل ستم کر رہے تھے ستمگر
 بہت خوش تھے وہ کاٹ کر آپ کا سر
 عجب آگ تھی شام والوں کے دل میں
 نہ ٹھنڈا ہوا دل جو خنجر چلا کر
@@ -109,12 +110,12 @@ romanLyrics: |-
 سفر نے مجھے اتنے القاب بخشے
 کہ میں بھول بیٹھی تھی خود نام اپنا
 میں یہ سارے دکھ بھول جاؤں گی بابا
-سکینہ جو اک بار کہ کر بلائیں
+سکینہ جو اک بار کہہ کر بلائیں
 
 ۶
 لحد میں یہ بابا سے بولی وہ اکبر
 مجھے یاد ہے کربلا کا وہ منظر
-کی سینے میں تھے تیر پیوست ہر جا
-میں کس طرح سوؤنگی زخموں کے اوپر
-میں کہتی نہیں مجھکو سینے لگائیں
+کہ سینے میں تھے تیر پیوست ہر جا
+میں کس طرح سوؤں گی زخموں کے اوپر
+میں کہتی نہیں مجھ کو سینے لگائیں
 مجھے آج بس خاک پر ہی سلائیں

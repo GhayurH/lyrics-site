@@ -6,93 +6,67 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Shams Jalalpuri"
+reciter: "Anj. Zulfiqaria Jafrabad"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Uthe kaise uthe kaise baali sakina ka laasha
-
-  Pareshan hai zindan mein saani e zehra
-
+romanLyrics: |-
+  Uthe kaise uthe kaise baali Sakina ka laasha
+  Pareshaaṅ hai zindaaṅ mein Saani-e-Zehra
 
   1
-
-  Musibat ki manzil ye kitni kadi hai
-
-  Yateema ki mayyat zameen par padi hai
-
-  Bane qabr kyun kar uthe kaise laasha
-
+  Musibat ki manzil ye kitni kari hai
+  Yatima ki mayyat zamiṅ par pari hai
+  Bane qabr kiuṅ kar uthe kaise laasha
+  Pareshaaṅ hai zindaaṅ mein Saani-e-Zehra
 
   2
-
-  Ye ghurbat ye tanhaai ye qaid khana
-
-  Hai zanjeer mein jakda bemaar bhaiya
-
-  Uthaye behan ka wo kaise janaza
-
+  Ye ghurbat ye tanhaai ye qaid khaana
+  Hai zanjir mein jakra bimaar bhaiya
+  Uthaaye behan ka wo kaise janaza
+  Pareshaaṅ hai zindaaṅ mein Saani-e-Zehra
 
   3
-
-  Sakina tujhe ab kahan paaun beti
-
-  Akeli kahan chod kar jaaun beti
-
-  Bahot tang o taareek hai qaid khana
-
+  Sakina tujhe ab kahaaṅ paauṅ beti
+  Akeli kahaaṅ chhor kar jaauṅ beti
+  Bahut tang o taarik hai qaid khaana
+  Pareshaaṅ hai zindaaṅ mein Saani-e-Zehra
 
   4
-
-  Kahan se kafan laa ke pehnaye zainab
-
-  Bhatiji ko kis tarha dafnaye zainab
-
-  Qayamat hai ek qaid khane mein barpa
-
+  Kahaaṅ se kafan laa ke pehnaaye Zainab
+  Bhatiji ko kis tarah dafnaaye Zainab
+  Qayaamat hai ek qaid khaane mein barpa
+  Pareshaaṅ hai zindaaṅ mein Saani-e-Zehra
 
   5
-
-  Madad karne aajao mere baradar
-
-  Kahan so gaye mere abbas jaa kar
-
-  Zara aake dedo janaze ko kaandha
-
+  Madad karne aa jaao mere baraadar
+  Kahaaṅ so gaye mere Abbas jaa kar
+  Zara aa ke de do janaze ko kaandha
+  Pareshaaṅ hai zindaaṅ mein Saani-e-Zehra
 
   6
-
-  Hai bemaar haathon mein hatkadiyan pehne
-
-  Galay mein hai tauq e garabaar uske
-
-  Utaare lehad mein bhala kaun laasha
-
+  Hai bimaar haathoṅ mein hathkariyaṅ pehne
+  Gale mein hai tauq-e-girebaan us ke
+  Utaare lahad mein bhala kaun laasha
+  Pareshaaṅ hai zindaaṅ mein Saani-e-Zehra
 
   7
-
-  Lehad mein to apni behan ko sula kar
-
-  Kaha ro ke abid ne shaana hila kar
-
-  Khudahafiz ay shaahzadi sakina
-
+  Lahad mein to apni behan ko sula kar
+  Kaha ro ke Abid ne shaana hila kar
+  Khuda haafiz Ae shaahzaadi Sakina
+  Pareshaaṅ hai zindaaṅ mein Saani-e-Zehra
 
   8
-
-  Sakine le laashe pe zainab ye boli
-
+  Sakina ke laasha pe Zainab ye boli
   Watan roz jaane ko kehti thi beti
-
-  Rehaai ke badle muqaddar tha marna
-
+  Rihaai ke badle muqaddar tha marna
+  Pareshaaṅ hai zindaaṅ mein Saani-e-Zehra
 
   9
-
-  Hai zindan mein shams kaisi musibat
-
+  Hai zindaan mein Shams kaisi musibat
   Rasan basta hai sab uthe kaise mayyat
-
-  Khuda jaane kaise hua dafn laasha'
+  Khuda jaane kaise hua dafn laasha
+  Pareshaaṅ hai zindaaṅ mein Saani-e-Zehra
 # source_id: nohayonline:302a1ea2693b04cfb7e2
 # source_url: https://www.nohayonline.com/details_content.php?id=2893
 # raw_sha256: 8ac64593e67acbb41ee7e184e705baed8a385c39ebee54fc9ae8991cfa6ab630
@@ -100,7 +74,6 @@ romanLyrics: 'Uthe kaise uthe kaise baali sakina ka laasha
 # source_url: https://www.ziyaraat.net/api/noha/1204
 # raw_sha256: 3eeb4feb6197faaf2f1053a791c1877ad3fb5c3b63693354a5143c05822056bb
 ---
-
 اٹھے کیسے اٹھے کیسے بالی سکینہ کا لاشہ
 پریشاں ہے زنداں میں ثانی زہرا
 
@@ -108,43 +81,52 @@ romanLyrics: 'Uthe kaise uthe kaise baali sakina ka laasha
 مصیبت کی منزل یہ کتنی کڑی ہے
 یتیمہ کی میت زمیں پر پڑی ہے
 بنے قبر کیوں کر اٹھے کیسے لاشہ
+پریشاں ہے زنداں میں ثانی زہرا
 
 ۲
 یہ غربت یہ تنہائی یہ قید خانہ
 ہے زنجیر میں جکڑا بیمار بھیا
-اٹھاے بہن کا وہ کیسے جنازہ
+اٹھائے بہن کا وہ کیسے جنازہ
+پریشاں ہے زنداں میں ثانی زہرا
 
 ۳
 سکینہ تجھے اب کہاں پاؤں بیٹی
 اکیلی کہاں چھوڑ کر جاؤں بیٹی
 بہت تنگ و تاریک ہے قید خانہ
+پریشاں ہے زنداں میں ثانی زہرا
 
 ۴
-کہاں سے کفن لا کے پہناے زینب
-بھتیجی کو کس طرح دفناے زینب
+کہاں سے کفن لا کے پہنائے زینب
+بھتیجی کو کس طرح دفنائے زینب
 قیامت ہے ایک قید خانے میں برپا
+پریشاں ہے زنداں میں ثانی زہرا
 
 ۵
 مدد کرنے آجاؤ میرے برادر
-کہاں سو گےء میرے عباس جا کر
-زرا آ کے دیدو جنازے کو کاندھا
+کہاں سو گئے میرے عباس جا کر
+ذرا آ کے دے دو جنازے کو کاندھا
+پریشاں ہے زنداں میں ثانی زہرا
 
 ۶
 ہے بیمار ہاتھوں میں ہتھکڑیاں پہنے
 گلے میں ہے طوق گریبان اس کے
 اتارے لحد میں بھلا کون لاشہ
+پریشاں ہے زنداں میں ثانی زہرا
 
 ۷
 لحد میں تو اپنی بہن کو سلا کر
 کہا رو کے عابد نے شانہ ہلا کر
 خدا حافظ اے شاہ زادی سکینہ
+پریشاں ہے زنداں میں ثانی زہرا
 
 ۸
 سکینہ کے لاشہ پہ زینب یہ بولی
 وطن روز جانے کو کہتی تھی بیٹی
 رہائی کے بدلے مقدر تھا مرنا
+پریشاں ہے زنداں میں ثانی زہرا
 
 ۹
 ہے زندان میں شمس کیسی مصیبت
 رسن بستہ ہے سب اٹھے کیسے میت
 خدا جانے کیسے ہوا دفن لاشہ
+پریشاں ہے زنداں میں ثانی زہرا

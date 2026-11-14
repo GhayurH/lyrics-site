@@ -5,36 +5,37 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Utha koi janaza phir sayyeda ke ghar se
+  Utha koi janaza phir Sayyeda ke ghar se
   Hasrat baras rahi hai ek ek baam o dar se
 
   1
-  Ye kisko ro rahi hai zainab tadap tadap kar
-  Jannat may sayyeda ne chadar gira di sar se
+  Ye kis ko ro rahi hai Zainab tarap tarap kar
+  Jannat mein Sayyeda ne chaadar gira di sar se
 
   2
-  Jisne khuda ke ghar ko bakshi thi aa ke zeenat
-  Wo aaj ho raha hai ruqsat khuda ke ghar se
+  Jis ne Khuda ke ghar ko bakhshi thi aa ke zinat
+  Wo aaj ho raha hai rukhsat Khuda ke ghar se
 
   3
-  Hai bandh aankh shayad aaram aa gaya hai
-  Maula tadap rahe thay unnees ki sehr se
+  Hai band aaṅkh shaayad aaraam aa gaya hai
+  Maula tarap rahe the unnis ki sahar se
 
   4
-  Zainab ke baazu'on ko shabbir choomte hai
-  Kya jaaniye ali ne kya keh diya pisar se
+  Zainab ke baazuoṅ ko Shabbir chumte haiṅ
+  Kya jaaniye Ali ne kya keh diya pisar se
 
   5
-  Qaatil ko apne thanda sharbat pilane waala
+  Qaatil ko apne thanda sharbat pilaane waale
   Bechain ho raha hai khud zehr ke asar se
 
   6
-  Koofe ka zarra zarra rota hai khoon ke aansu
-  Mehroom ho rahe hai hasnain ab pidar se
+  Kufe ka zarra zarra rota hai khuṅ ke aaṅsu
+  Mehrum ho rahe haiṅ Hasnain ab pidar se
 # source_id: nohayonline:1d33ebd795fcacec3847
 # source_url: https://www.nohayonline.com/details_content.php?id=512
 # raw_sha256: 82250828f51f71c0bd3274232f053492704413828a77a8a94b8ff1d85e463a9f
@@ -50,16 +51,16 @@ romanLyrics: |-
 جنت میں سیدہ نے چادر گِرا دی سر سے
 
 ۲
-جس نے خُدا کے گھر کو بخشی تھی آ کہ زینت
-وہ آج ہو ریا ہے رُخصت خُدا کے گھر سے
+جس نے خُدا کے گھر کو بخشی تھی آ کے زینت
+وہ آج ہو رہا ہے رُخصت خُدا کے گھر سے
 
 ۳
 ہے بند آنکھ شاید آرام آ گیا ہے
 مولا تڑپ رہے تھے اُنیس کی سحر سے
 
 ۴
-زینب کے بازوئوں کو شبیر چومتے ہیں
-کیا جانیئے علی نے کیا کہہ دیا پسر سے
+زینب کے بازوؤں کو شبیر چومتے ہیں
+کیا جانیے علی نے کیا کہہ دیا پسر سے
 
 ۵
 قاتل کو اپنے ٹھنڈا شربت پلانے والے
