@@ -79,6 +79,10 @@ reciter: Tanzeem-ul-Husaini (Nasir Zaidi)
 # source_id: ziyaraat:627a8ee47a26d6c9023d
 # source_url: https://www.ziyaraat.net/api/noha/2356
 # raw_sha256: db351479aa03ceb2d0212461b4652d9c860df27ba948ab15453c0f29678b233b
+# additional_source_id: nohawriteups:1e6d9a85b147190151f0
+# additional_source_url: https://www.nohawriteups.org/ay-sheh-ke-alamdar/
+# additional_raw_sha256: 174712ee891b9ce98b1feed9f1624323e3ade273d2f0ef6b66d99674d677c41e
+# additional_source_note: All twelve substantive stanzas align to complete existing bilingual Rehaan Azmi edition. Shorter refrain repetitions in source are not additional stanzas.
 ---
 اے شِہہؑ کے علمدارؑ، اے شِہہؑ کے علمدارؑ، اے شِہہؑ کے علمدارؑ علمدارؑ
 اے ضیغمِ حیدرؑ، اے ضیغمِ حیدرؑ، اے حیدری تلوار علمدارؑ

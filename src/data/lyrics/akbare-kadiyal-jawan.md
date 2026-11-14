@@ -45,6 +45,10 @@ romanLyrics: |-
 # source_id: ziyaraat:baf46e5d14ea7b32d226
 # source_url: https://www.ziyaraat.net/api/noha/1965
 # raw_sha256: ca9ad6d6bc63df798d096cee0617ba9a0ebaccb8e4f85eb7e93ff56baf586358
+# additional_source_id: nohawriteups:213503596ac4ad9f0b54
+# additional_source_url: https://www.nohawriteups.org/akbar-e-kadiyal-jawan-akbar-e-kadiyal-jawan/
+# additional_raw_sha256: 76c7cc0444f3108b34132846a6c95f3aa687b4aaf887aa71a172d4b8a6e66144
+# additional_source_note: Five source stanzas match akbare-kadiyal-jawan.md. Distinct from the similarly titled kadiyal-jawan-akbar.md poem (Gauhar Pakistani); keep that separate.
 ---
 اکبر کڑیل جواں اکبر کڑیل جواں
 سینے پہ اکبر نے جب ظلم کی کھائی سناں

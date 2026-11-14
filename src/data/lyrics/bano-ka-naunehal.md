@@ -61,6 +61,10 @@ romanLyrics: |-
 # source_id: nohayonline:b2470d926ccb7521ef9c
 # source_url: https://www.nohayonline.com/details_content.php?id=108
 # raw_sha256: d7244e3487b64f88edb373026b14f7a56bc1eac1b48a293bfb207c3ab0304fb4
+# additional_source_id: nohawriteups:1c488ce2f9eace45e2ca
+# additional_source_url: https://www.nohawriteups.org/bano-ka-naunehal/
+# additional_raw_sha256: 19738f9de6ece4c47596c004efd830de931bb577fe92a9129f4dfffa683f9557
+# additional_source_note: All nine substantive stanzas match complete existing bilingual Rehaan Azmi poem, including closing poet verse; refrain omitted as repeated source text.
 ---
 
 بے تیغ رن کو جاتا ہے بانو کا نونہال
