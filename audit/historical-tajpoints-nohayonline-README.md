@@ -62,3 +62,7 @@ Further manual consolidation: both `Ay Shaam Ke Logon Mein Binte Ali Hoon` sourc
 ## Unified cumulative source review
 
 Latest uploaded `review-decisions.csv`: 1,387 unique NohaWriteups sources; 450 classified and 937 left blank/unreviewed. Includes 91 classifications added after the previous 359-record batch. `audit/nohawriteups-review-status.csv` is the **sole** NohaWriteups review status tracker. The latest uploaded source decisions are preserved separately as `audit/nohawriteups-review-decisions-input.csv` (input data, not status tracker). The previous two status CSVs have been removed to prevent divergence. Existing 359 processing outcomes and linked canonical paths remain intact. Blank rows cannot be considered authorized deletion or import. Further source-text recovery and manual deduplication are pending and must be explicitly updated in this tracker.
+
+## Additional manually compared duplicates
+
+Compared original archived HTML wordings for pairs `0c682c979a278cde270b`/`911cc2d083a76a5c2549` (six matching stanzas), `e3798be5d05969236a50`/`57de9f07642a7f0cab92` (six-stanza fuller source versus four-stanza shorter source), and `0f12489f72a6f0edff23`/`6b12adf581732b13adf1` (four Panjabi stanzas with orthographic variants). One unpublished MD per poem; source IDs and archive checksums linked. The fuller Aajao source retains the two closing stanzas absent in the shortened capture. Updated sole status tracker; canonical transliteration remains pending.
