@@ -5,48 +5,49 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Shabbir se mohabbat hai mujhko
-  Ishq e shabbir meri daulat hai
+  Ishq-e-Shabbir meri daulat hai
 
   1
-  Saara aalam bana hua hai yazeed
-  Ek shabbir ki zaroorat hai
+  Saara aalam bana hua hai Yazid
+  Ek Shabbir ki zarurat hai
 
   2
-  Abu talib pe kufr ka ilzaam
-  Ye faqad jazba e raqabat hai
+  Abu Taalib pe kufr ka ilzaam
+  Ye faqat jazba-e-raqaabat hai
 
   3
-  Deen e haq may mulookiyat ka shumool
-  Nasl e sufiyan ki shararat hai
+  Din-e-haq mein mulukiyat ka shumul
+  Nasl-e-Sufiyaan ki sharaarat hai
 
   4
-  Kar gayi phir habeeb e sheh ko jawan
+  Kar gayi phir Habib-e-Shih ko jawaan
   Kitni maujiz numa mohabbat hai
 
   5
-  Isko naiza na maar ibne anas
-  Teri zad par nabi ki surat hai
+  Is ko neza na maar ibn-e-Anas
+  Teri zad par Nabi ki surat hai
 
   6
-  Kaise uthegi laash akbar ki
-  Baap boodha jawan ki mayyat hai
+  Kaise uthe gi laash Akbar ki
+  Baap burha jawaaṅ ki mayyat hai
 
   7
-  Rakhli tooti kamar pe laashe jawan
-  Shahe deen aap hi himmat hai
+  Rakh li tuti kamar pe laash-e-jawaan
+  Shaah-e-din aap hi ki himmat hai
 
   8
-  Ran se aati hai laash akbar ki
-  Qaima e shah may qayamat hai
+  Ran se aati hai laash Akbar ki
+  Khaima-e-Shih mein qayamat hai
 
   9
   Aa rahi hai chacha chacha ki sada
-  Qaid khane may kis ki turbat hai
+  Qaid khaane mein kis ki turbat hai
 # source_id: nohayonline:b6dd6fb5181c6a350116
 # source_url: https://www.nohayonline.com/details_content.php?id=517
 # raw_sha256: 578f5cb2061c99f1e410468d0a27537e9230831b055806e8a131c7797e2fed1a
@@ -60,7 +61,7 @@ romanLyrics: |-
 
 ۲
 ابو طالب پہ کُفر کا الزام
-یہ فقط جذبہِ رقابت ہے
+یہ فقط جذبۂ رقابت ہے
 
 ۳
 دینِ حق میں ملوکیت کا شمول
@@ -71,7 +72,7 @@ romanLyrics: |-
 کتنی معجز نما محبت ہے
 
 ۵
-اس کو نیزہ نہ ما ابنِ انس
+اس کو نیزہ نہ مار ابنِ انس
 تیری زد پر نبی کی صورت ہے
 
 ۶
@@ -84,7 +85,7 @@ romanLyrics: |-
 
 ۸
 رن سے آتی ہے لاش اکبر کی
-خیمہِ شِہ میں قیامت ہے
+خیمۂ شِہ میں قیامت ہے
 
 ۹
 آ رہی ہے چچا چچا کی صدا

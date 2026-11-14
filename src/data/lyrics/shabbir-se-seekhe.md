@@ -1,51 +1,52 @@
 ---
-title: "شبیر سے سیکھے کوی اسلام بچانا"
-alternateTitle: "Shabbir Se Seekhe"
+title: "شبیر سے سیکھے کوئی اسلام بچانا"
+alternateTitle: "Shabbir Se Sikhe"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shabbir se seekhe koi islam bachana
-  Aata hai jise naize pe quran sunana
+  Shabbir se sikhe koi Islam bachaana
+  Aata hai jise neze pe Quraan sunaana
   
   1
-  Shabbir ne allah ki har baat hai maani
-  Allah ne shabbir ki har baat ko maana
+  Shabbir ne Allah ki har baat hai maani
+  Allah ne Shabbir ki har baat ko maana
   
   2
-  Tujhko na diya rone jo kal ahle sitam ne
-  Zainab tere bhai ko ye rota hai zamana
+  Tujh ko na diya rone jo kal ahl-e-sitam ne
+  Zainab tere bhaai ko ye rota hai zamaana
   
   3
-  Shabbir ke seene se lahoo hogaya jaari
-  Tasveer sakina ki kahan dil mein aagayi
-  Awaaz uthi halqe bureeda se ke aao
-  Seene pe sone waali jo maqtal mein aagayi
-  Yaad aata hai wo manzar shabbir ka maqtal mein
-  Teeron bhare seene pe sakina ko sulana
+  Shabbir ke sine se lahu ho gaya jaari
+  Tasvir Sakina ki kahaaṅ dil mein aa gayi
+  Aawaaz uthi halq-e-burida se ke aao
+  Sine pe sone waali jo maqtal mein aa gayi
+  Yaad aata hai wo manzar Shabbir ka maqtal mein
+  Tiroṅ bhare sine pe Sakina ko sulaana
   
   4
-  Ye soch ke asghar ne liya teer galay par
-  Tha mohsin e islam ko teeron se bachana
+  Ye soch ke Asghar ne liya tir gale par
+  Tha mohsin-e-Islam ko tiroṅ se bachaana
   
   5
-  Hum nauha kuna aaye idhar farshe aza par
-  Purse ke liye fatema zehra chali aayi
-  Kal majlise shabbir ko zainab thi tarasti
-  Ab majlise shabbir mein dunya chali aayi
-  Zehra ki sada aati hai ye bazme azaa mein
-  Rehaan ye nauha sare mehshar bhi sunana
+  Ham nauha kunaaṅ aaye idhar farsh-e-aza par
+  Purse ke liye Faatima Zehra chali aayi
+  Kal majlis-e-Shabbir ko Zainab thi tarasti
+  Ab majlis-e-Shabbir mein dunya chali aayi
+  Zehra ki sada aati hai ye bazm-e-aza mein
+  Rehaan ye nauha sar-e-mahshar bhi sunaana
 # source_id: nohayonline:e1716da71c285d6eed6b
 # source_url: https://www.nohayonline.com/details_content.php?id=3496
 # raw_sha256: 85b32cbdc0304da023aae5a01a0677e89eb326b07fd41d0ed13d3aea2b54c3e5
 ---
 
-شبیر سے سیکھے کوی اسلام بچانا
+شبیر سے سیکھے کوئی اسلام بچانا
 آتا ہے جسے نیزے پہ قرآن سنانا
 
 ۱
@@ -53,23 +54,23 @@ romanLyrics: |-
 اللّٰہ نے شبیر کی ہر بات کو مانا
 
 ۲
-تجھکو نہ دیا رونے جو کل اہل ستم نے
+تجھ کو نہ دیا رونے جو کل اہل ستم نے
 زینب تیرے بھائی کو یہ روتا ہے زمانہ
 
 ۳
 شبیر کے سینے سے لہو ہو گیا جاری
-تصویر سکینہ کی کہاں دل میں آ گیء
+تصویر سکینہ کی کہاں دل میں آ گئی
 آواز اٹھی حلق بریدہ سے کہ آؤ
-سینے پہ سونے والی جو مقتل میں آ گیء
+سینے پہ سونے والی جو مقتل میں آ گئی
 یاد آتا ہے وہ منظر شبیر کا مقتل میں
 تیروں بھرے سینے پہ سکینہ کو سلانا
 
 ۴
-یہ سوچ کے اصفر نے لیا تیر گلے پر
+یہ سوچ کے اصغر نے لیا تیر گلے پر
 تھا محسن اسلام کو تیروں سے بچانا
 
 ۵
-ہم نوحہ کناں آے ادھر فرش عزا پر
+ہم نوحہ کناں آئے ادھر فرش عزا پر
 پرسے کے لئے فاطمہ زہرا چلی آئی
 کل مجلسِ شبیر کو زینب تھی ترستی
 اب مجلسِ شبیر میں دنیا چلی آئی
