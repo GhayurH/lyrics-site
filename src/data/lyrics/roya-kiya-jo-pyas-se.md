@@ -8,37 +8,38 @@ kalamType: Noha
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Raza Ali Khan"
 romanLyrics: |-
-  Roya kiya jo pyaas se asghar tamam raat
-  Tha qaima e hussain may mehshar tamam raat
+  Roya kiya jo pyaas se Asghar tamaam raat
+  Tha khaima-e-Husain mein mahshar tamaam raat
 
   1
-  Pyason ke ishtiyaq may maanind chasme tar
-  Chalka kiya bahisht may kausar tamam raat
+  Pyaasoṅ ke ishtiyaaq mein maanind-e-chashm-e-tar
+  Chhalka kiya bahisht mein Kausar tamaam raat
 
   2
-  Ro ro sakina kehti thi baba ki khair ho
-  Mai dekhti hoo khwaab may khanjar tamam raat
+  Ro ro ke Sakina kehti thi baba ki khair ho
+  Main dekhti huṅ khwaab mein khanjar tamaam raat
 
   3
-  Baba pe sar katayenge tum doodh baksh do
-  Kehte rahe ye bano se akbar tamam raat
+  Baba pe sar kataayeṅge tum dudh bakhsh do
+  Kehte rahe ye Bano se Akbar tamaam raat
 
   4
-  Roye jo chaunk chaunk ke asghar tamam raat
-  Sadqe utaarti rahi maadar tamam raat
+  Roye jo chauṅk chauṅk ke Asghar tamaam raat
+  Sadqe utaarti rahi maadar tamaam raat
 
   5
-  Kehti thi bano dasht may ajab haalat hai
-  Dar dar gaya hai khwaab may asghar tamam raat
+  Kehti thi Bano dasht mein ajab haalat hai
+  Dar dar gaya hai khwaab mein Asghar tamaam raat
 
   6
-  Sona tha kal jo godh may turbat ki chain se
-  Soye na maa ki godh may asghar tamam raat
+  Sona tha kal jo god mein turbat ki chain se
+  Soye na maaṅ ki god mein Asghar tamaam raat
 
   7
-  Zainab se shaah kehte thay kal qatl honge hum
-  Jee bhar ke dekhlo hamay khwahar tamam raat
+  Zainab se Shaah kehte the kal qatl hoṅge hum
+  Ji bhar ke dekh lo hameṅ khwaahar tamaam raat
 # source_id: nohayonline:ff286f98a333e892311d
 # source_url: https://www.nohayonline.com/details_content.php?id=2189
 # raw_sha256: 1434383fa9ed30b1d54105d141add66ebbe1c038735878ca71602e045c671f4b
@@ -47,10 +48,10 @@ romanLyrics: |-
 # raw_sha256: 69c97456960b97ffc4e3baf93816209d0169cc156006c6ea41850110e7c68a67
 ---
 رویا کیا جو پیاس سے اصغر تمام رات
-تھا خیمہء حسین میں محشر تمام رات
+تھا خیمۂ حسین میں محشر تمام رات
 
 ۱
-پیاسوں کے اشتیاق میں مانند چشمِ تر
+پیاسوں کے اشتیاق میں مانندِ چشمِ تر
 چھلکا کیا بہشت میں کوثر تمام رات
 
 ۲
@@ -58,11 +59,11 @@ romanLyrics: |-
 میں دیکھتی ہوں خواب میں خنجر تمام رات
 
 ۳
-بابا پہ سر کٹاییں گے تم دودھ بخش دو
+بابا پہ سر کٹائیں گے تم دودھ بخش دو
 کہتے رہے یہ بانو سے اکبر تمام رات
 
 ۴
-روے جو چونک چونک کے اصغر تمام رات
+روئے جو چونک چونک کے اصغر تمام رات
 صدقے اتارتی رہی مادر تمام رات
 
 ۵
@@ -71,8 +72,8 @@ romanLyrics: |-
 
 ۶
 سونا تھا کل جو گود میں تربت کی چین سے
-سوے نہ ماں کی گود میں اصغر تمام رات
+سوئے نہ ماں کی گود میں اصغر تمام رات
 
 ۷
-زینب سے شاہ کہتے تھے کل قتل ہونگے ہم
+زینب سے شاہ کہتے تھے کل قتل ہوں گے ہم
 جی بھر کے دیکھ لو ہمیں خواہر تمام رات
