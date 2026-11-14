@@ -1,70 +1,117 @@
 ---
-title: "Tu Ne Bakhsha Hai Sab Ko Sahara Har Payamber Ne Tujh Ko Pukara Ali Mula"
-language: "Roman Urdu"
+title: "تو نے بخشا ہے سب کو سہارا ہر پیمبر نے تجھ کو پکارا علی مولا"
+alternateTitle: "Tu Ne Bakhsha Hai Sab Ko Sahaara Har Payambar Ne Tujh Ko Pukaara Ali Maula"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu"]
+poet: "Allama Syed Zille Saqlain Zaidi"
+reciter: "Syed Wajhi Hasan Zaidi"
+tags: ["noImage"]
 aliases: []
 published: false
+romanLyrics: |-
+  Tu ne bakhsha hai sab ko sahaara har payambar ne tujh ko pukaara Ali Maula
+  Tu hi dunya ka mushkil kusha hai bina tere nahiṅ hai guzaara
+
+  1
+  Tu jise chaahe Qanbar bana de
+  Tu jise chaahe Buzar bana de
+  Teri qudrat ki hai ye karaamat
+  Jis ko chaahe qalandar bana de
+  Teri marzi pe sab munhasir hai
+  Saare aalam pe tera ijaara
+
+  2
+  Kaun hai aise rutboṅ pe pahuṅcha
+  Tu Muhammad ke kaandhoṅ pe pahuṅcha
+  Ek hi waqt meiṅ mera Maula
+  Puri chaalis jagahoṅ pe pahuṅcha
+  Laamakaaṅ tu faqat Kibriya hai
+  Kya kaheiṅ tum ko bolo khudaara
+
+  3
+  Nuh ki hai najaabat Ali hai
+  Aur Musa ki haibat Ali hai
+  Sirf taaqat nahiṅ hai Nabi ki
+  Hai Khuda ki bhi quwwat Ali se
+  Jab bhi mushkil meiṅ koi para hai
+  Kaam aaya Ali ka hi naara
+
+  4
+  Din ka bol baala hai tum se
+  Chaand meiṅ bhi ujaala hai tum se
+  De raha hai ye Quraan gawaahi
+  Naam Khaaliq ka aala hai tum se
+  Dube suraj ko palta de pal meiṅ
+  Tere abru ka ek ishaara
+
+  5
+  Rasm-e-tauhid tujh se chali hai
+  Tere ghar meiṅ ibaadat pali hai
+  Jis ko kehte haiṅ sab log jannat
+  Wo tumhaare hi ghar ki gali hai
+  Teri chaukhat ki hai ye bulandi
+  Sajda karne ko aaya sitaara
+
+  6
+  Tere dar pe jo pahuṅcha sawaali
+  Phir nahiṅ aaya wo haath khaali
+  Ye hadis-e-payambar bhi sun lo
+  Nahiṅ dushman Ali ka halaali
+  Zill-e-Saqlain keh do adu
+  Apna shajra wo dekhe dobaara
 # source_id: tajpoints:5b141017e97a509df970
 # source_url: https://tajpoints.com/2018/02/tu-ne-bakhsha-hai-sab-ko-sahara-har.html
 # raw_sha256: dd13eb58bf20455f49d06c0cc477a675948a3ff23be79217da66b2d3d46219d0
 ---
+تو نے بخشا ہے سب کو سہارا ہر پیمبر نے تجھ کو پکارا علی مولا
+تو ہی دنیا کا مشکل کشا ہے بنا تیرے نہیں ہے گزارا
 
-Tu Ne Bakhsha Hai Sab Ko Sahara Har Payamber Ne Tujh Ko Pukara Ali Mula
-Tu Hi Dunya Ka Mushkil Kusha Hai Bina Tere Nahi Hai Guzara
+۱
+تو جسے چاہے قنبر بنا دے
+تو جسے چاہے بوذر بنا دے
+تیری قدرت کی ہے یہ کرامت
+جس کو چاہے قلندر بنا دے
+تیری مرضی پہ سب منحصر ہے
+سارے عالم پہ تیرا اجارہ
 
-1
-Tu Jise Chahe Qanbar Bana De
-Tu Jise Chahe Buzar Bana De
-Teri Qurdat Ki Hai Yeh Karamat
-Jis Ko Chahe Qalandar Bana De
+۲
+کون ہے ایسے رتبوں پہ پہنچا
+تو محمد کے کاندھوں پہ پہنچا
+ایک ہی وقت میں میرا مولا
+پوری چالیس جگہوں پہ پہنچا
+لامکاں تو فقط کبریا ہے
+کیا کہیں تم کو بولو خدارا
 
-2
-Teri Marzi Pe Sab Munhisar Hai
-Saray Aalam Pe Tera Ijarah
-Koan Hai Aise Rutboon Pe Pohancha
-Tu Muhammad Ke Kandhoon Pe Pohancha
+۳
+نوح کی ہے نجابت علی ہے
+اور موسیٰ کی ہیبت علی ہے
+صرف طاقت نہیں ہے نبی کی
+ہے خدا کی بھی قوت علی سے
+جب بھی مشکل میں کوئی پڑا ہے
+کام آیا علی کا ہی نعرہ
 
-3
-Aik Hi Waqt Mein Mera Mula
-Pori Chalees Jagahoon Pe Pohancha
-La-Makaan Tu Faqat Kibriya Hai
-Kya Kahein Tum Ko Bolo Khudara
+۴
+دین کا بول بالا ہے تم سے
+چاند میں بھی اجالا ہے تم سے
+دے رہا ہے یہ قرآن گواہی
+نام خالق کا اعلیٰ ہے تم سے
+ڈوبے سورج کو پلٹا دے پل میں
+تیرے ابرو کا ایک اشارہ
 
-4
-Nooh Ki Hai Nijabat Ali Hai
-Our Musa Ki Haibat Ali Hai
-Sirf Taqat Nahi Hai Nabi Ki
-Hai Khuda Ki Bhi Qowat Ali Se
+۵
+رسم توحید تجھ سے چلی ہے
+تیرے گھر میں عبادت پلی ہے
+جس کو کہتے ہیں سب لوگ جنت
+وہ تمہارے ہی گھر کی گلی ہے
+تیری چوکھٹ کی ہے یہ بلندی
+سجدہ کرنے کو آیا ستارا
 
-5
-Jab Bhi Mushkil Mein Koi Para Hai
-Kam Aaya Ali Ka Hi Narah
-Deen Ka Bool Bala Hai Tum Se
-Chand Mein Bhi Ujala Hai Tum Se
-
-6
-De Raha Hai Yeh Quraan Gawahi
-Naam Khaliq Ka Aala Hai Tum Se
-Dobay Soraj Ko Palta De Pal Mein
-Tere Abro Ka Aik Ishara
-
-7
-Rasm-e-Tauheed Tujh Se Chali Hai
-Tere Ghar Mein Ibadat Pali Hai
-Jis Ko Kehte Hain Sab Loag Janat
-Woh Tumhare Hi Ghar Ki Ghali Hai
-
-8
-Teri Chokhat Ki Hai Yeh Bulandi
-Sajda Karne Ko Aaya Sitara
-Tere Dar Pe JO Pohancha Sawali
-Phir Nahi Aaya Woh Hath Khali
-
-9
-Yeh Hadees-e-Payamber Bhi Sun Lo
-Nahi Dushman Ali Ka Halali
-:ZILL-E-SAQLAIN: Kehdo Addo
-Apna Shajrah Woh Dekhe Dobara
+۶
+تیرے در پہ جو پہنچا سوالی
+پھر نہیں آیا وہ ہاتھ خالی
+یہ حدیث پیمبر بھی سن لو
+نہیں دشمن علی کا حلالی
+ظل ثقلین کہہ دو عدو
+اپنا شجرہ وہ دیکھے دوبارہ
