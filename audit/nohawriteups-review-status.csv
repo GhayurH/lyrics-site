@@ -195,7 +195,7 @@ nohawriteups:21dc49c51b5dd3175d78,valid roman only,pending_manual_dedup,,,,snaps
 nohawriteups:22273a7e72bd4c5ff67e,"no lyrics, delete",no_lyrics,,,,snapshots/nohawriteups/metadata/22273a7e72bd4c5ff67e.json,User confirmed no usable lyrics; original HTML retained
 nohawriteups:22334d8edca7c3f68dca,valid roman only,unpublished_source_draft,src/data/lyrics/aaj-chup-ho-gai-fatima.md,https://www.nohawriteups.org/aaj-chup-ho-gai-fatima-s-a-farhan-ali-waris-ayyam-e-fatmiyah-noha-2023-1445-lyrics/,4ff6b426374727cb7898763bdd5775a2817903b793990098c3d87b52bb300827,snapshots/nohawriteups/metadata/22334d8edca7c3f68dca.json,Unpublished lyric source draft; not editorially completed or automatically acknowledged
 nohawriteups:223cf6fe5e7b58d21a11,,unreviewed,,,,snapshots/nohawriteups/metadata/223cf6fe5e7b58d21a11.json,No user decision yet; preserve source and do not import
-nohawriteups:2242f15cca416e5ce357,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/2242f15cca416e5ce357.json,
+nohawriteups:2242f15cca416e5ce357,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/2242f15cca416e5ce357.json,"False positive: Baba Teri Zahra Nu Ik Payshi Maar source is a distinct work from chore/remaining teri-zahra-nu-tere-musalmana-maar-mukaya-aye-lyrics-2021-tajpoints-a2b5742a6f0ba5fa0d80.md; source verses differ, keep pending other checks."
 nohawriteups:2253ddd1fceb884a0414,,unreviewed,,,,snapshots/nohawriteups/metadata/2253ddd1fceb884a0414.json,No user decision yet; preserve source and do not import
 nohawriteups:22ab0f527823a5716c5a,,unreviewed,,,,snapshots/nohawriteups/metadata/22ab0f527823a5716c5a.json,No user decision yet; preserve source and do not import
 nohawriteups:22b98f48b91aad9c7bc6,,unreviewed,,,,snapshots/nohawriteups/metadata/22b98f48b91aad9c7bc6.json,No user decision yet; preserve source and do not import
@@ -253,7 +253,7 @@ nohawriteups:2a98e6e2cd5013eb233f,,unreviewed,,,,snapshots/nohawriteups/metadata
 nohawriteups:2b1ea62ac1d52abf1a9a,"no lyrics, delete",no_lyrics,,,,snapshots/nohawriteups/metadata/2b1ea62ac1d52abf1a9a.json,User-approved exclusion; no Markdown file created; original archive preserved
 nohawriteups:2b346e9bc7412dfe15be,,unreviewed,,,,snapshots/nohawriteups/metadata/2b346e9bc7412dfe15be.json,No user decision yet; preserve source and do not import
 nohawriteups:2b5770aaebcddc490dbd,,unreviewed,,,,snapshots/nohawriteups/metadata/2b5770aaebcddc490dbd.json,No user decision yet; preserve source and do not import
-nohawriteups:2bd06236155dd542c21e,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/2bd06236155dd542c21e.json,
+nohawriteups:2bd06236155dd542c21e,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/2bd06236155dd542c21e.json,"False positive: Abhi Khanjar Na Chala source (opening Jab Giray Ghode...) is a different poem from chore/remaining shimr-khanjar-na-chala-mir-hasan-mir-tajpoints-50f2d95c50f00c4a0e89.md, which opens Shimar Ne Gardan-e-Mazloom; do not merge."
 nohawriteups:2c2432ad372392c6169c,,unreviewed,,,,snapshots/nohawriteups/metadata/2c2432ad372392c6169c.json,No user decision yet; preserve source and do not import
 nohawriteups:2c42d9457a2b3a21a090,,unreviewed,,,,snapshots/nohawriteups/metadata/2c42d9457a2b3a21a090.json,No user decision yet; preserve source and do not import
 nohawriteups:2c5d3c760f8d9cb3e9dd,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/2c5d3c760f8d9cb3e9dd.json,
@@ -275,7 +275,7 @@ nohawriteups:2ea9f27a2e16fbca2a88,,unreviewed,,,,snapshots/nohawriteups/metadata
 nohawriteups:2eedb12584eb2353ad12,,unreviewed,,,,snapshots/nohawriteups/metadata/2eedb12584eb2353ad12.json,No user decision yet; preserve source and do not import
 nohawriteups:2f690394d7685283b479,,unreviewed,,,,snapshots/nohawriteups/metadata/2f690394d7685283b479.json,No user decision yet; preserve source and do not import
 nohawriteups:2f6ebe059f4fc89a084f,,unreviewed,,,,snapshots/nohawriteups/metadata/2f6ebe059f4fc89a084f.json,No user decision yet; preserve source and do not import
-nohawriteups:2fbec9b99c826e2c5ea3,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/2fbec9b99c826e2c5ea3.json,
+nohawriteups:2fbec9b99c826e2c5ea3,valid roman only,consolidated_existing,src/data/lyrics/akbar-teri-laash.md,https://www.nohawriteups.org/akbar-teri-laash-uthaye-kaisay-hussain-a-s/,7296a3d742adefe6135bd7ec383160b2d2dc491fff86c3680e01eba3cd73a3df,snapshots/nohawriteups/metadata/2fbec9b99c826e2c5ea3.json,Ten stanzas all represented in existing bilingual poem; provenance added ca7b8e0.
 nohawriteups:2fe1659509b39506da7d,,unreviewed,,,,snapshots/nohawriteups/metadata/2fe1659509b39506da7d.json,No user decision yet; preserve source and do not import
 nohawriteups:2fe522ebdf6a5a2401e2,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/2fe522ebdf6a5a2401e2.json,
 nohawriteups:2ff208c4e61945549c60,,unreviewed,,,,snapshots/nohawriteups/metadata/2ff208c4e61945549c60.json,No user decision yet; preserve source and do not import
@@ -297,7 +297,7 @@ nohawriteups:31fe531c531b6619938c,,unreviewed,,,,snapshots/nohawriteups/metadata
 nohawriteups:3202a8821e44dd22ff4b,,unreviewed,,,,snapshots/nohawriteups/metadata/3202a8821e44dd22ff4b.json,No user decision yet; preserve source and do not import
 nohawriteups:32073556bf94f21684c7,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/32073556bf94f21684c7.json,
 nohawriteups:32118e9284b7c777138c,,unreviewed,,,,snapshots/nohawriteups/metadata/32118e9284b7c777138c.json,No user decision yet; preserve source and do not import
-nohawriteups:32161b1d6b6b157ffcef,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/32161b1d6b6b157ffcef.json,
+nohawriteups:32161b1d6b6b157ffcef,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/32161b1d6b6b157ffcef.json,"False positive: shares 'Aey Waey Nehr-e-Alqama' title phrase with darya-behta-raha.md, but sources have different opening 'Pyaasa Raha Jaan-e-Nabi' and distinct verses; do not merge. Continue review of alternate titles."
 nohawriteups:3232a64a0b4e585dd4eb,,unreviewed,,,,snapshots/nohawriteups/metadata/3232a64a0b4e585dd4eb.json,No user decision yet; preserve source and do not import
 nohawriteups:324e06b3500f79ef1e67,,unreviewed,,,,snapshots/nohawriteups/metadata/324e06b3500f79ef1e67.json,No user decision yet; preserve source and do not import
 nohawriteups:3272dc76a21ee250b7bc,,unreviewed,,,,snapshots/nohawriteups/metadata/3272dc76a21ee250b7bc.json,No user decision yet; preserve source and do not import
@@ -307,7 +307,7 @@ nohawriteups:3327dcfb0d905cc4b342,"valid urdu only, trsnlation has been labelled
 nohawriteups:33288d91c91e70bdf808,,unreviewed,,,,snapshots/nohawriteups/metadata/33288d91c91e70bdf808.json,No user decision yet; preserve source and do not import
 nohawriteups:332bf3c33506840bebf3,,unreviewed,,,,snapshots/nohawriteups/metadata/332bf3c33506840bebf3.json,No user decision yet; preserve source and do not import
 nohawriteups:33ab653d112eb2973d25,"no lyrics, delete",no_lyrics,,,,snapshots/nohawriteups/metadata/33ab653d112eb2973d25.json,User confirmed no usable lyrics; original HTML retained
-nohawriteups:33f05c8c1490406effba,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/33f05c8c1490406effba.json,
+nohawriteups:33f05c8c1490406effba,valid roman only,consolidated_existing,src/data/lyrics/ay-azadare-hussaini-ye.md,https://www.nohawriteups.org/ay-azadare-hussaini/,e01d4c9c233c58cc7e61fa96519eb9fe2849d656da2aea8fa985e251694f0fa0,snapshots/nohawriteups/metadata/33f05c8c1490406effba.json,Seven numbered verses match existing complete bilingual canon; original source order differs only in existing intro stanza. Canonical provenance added ca7b8e0.
 nohawriteups:34a7e3cecdd274521386,valid roman only,unpublished_source_draft,src/data/lyrics/abbas-jo-zinda-hai.md,https://www.nohawriteups.org/abbas-a-s-jo-zinda-hai/,2513ea0523d7a0ac04ef583f2070188c0ebeaefa61e9970549aeb408d7fdbc16,snapshots/nohawriteups/metadata/34a7e3cecdd274521386.json,Unpublished lyric source draft; not editorially completed or automatically acknowledged
 nohawriteups:34bdc062c4f11dfc4604,valid roman only,pending_manual_dedup,,,,snapshots/nohawriteups/metadata/34bdc062c4f11dfc4604.json,
 nohawriteups:34d6f93de6ae44ffc925,,unreviewed,,,,snapshots/nohawriteups/metadata/34d6f93de6ae44ffc925.json,No user decision yet; preserve source and do not import
