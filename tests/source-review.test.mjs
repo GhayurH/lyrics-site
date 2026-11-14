@@ -91,6 +91,16 @@ test("does not confuse Roman curly apostrophes and punctuation with extended Lat
   assert(!issues.some(x => x.code === "extended-latin-in-roman"));
 });
 
+test("rejects obsolete standalone scan references without affecting Basta scans", () => {
+  const source = lyric("۱\nاردو", "1\nRoman").replace('kalamType: "Salam"',
+    'kalamType: "Salam"\ncover: "/images/lyrics/obsolete.png"\ncoverAlt: "Old cover"');
+  const result = reviewMarkdown({ path: "src/data/lyrics/old-scan.md", kind: "lyrics", text: source });
+  assert.equal(result.issues.filter(issue => issue.code === "obsolete-lyric-image").length, 2);
+  const printed = reviewMarkdown({ path: "src/data/basta/pages/200.md", kind: "basta-urdu",
+    text: basta(200, "۱\nاردو", "1\nRoman") });
+  assert(!printed.issues.some(issue => issue.code === "obsolete-lyric-image"));
+});
+
 test("reports empty/broken frontmatter and missing Roman text", () => {
   const noYaml = reviewMarkdown({ path: "src/data/lyrics/missing.md", kind: "lyrics", text: "سلام" });
   assert.equal(noYaml.issues[0].code, "frontmatter");
