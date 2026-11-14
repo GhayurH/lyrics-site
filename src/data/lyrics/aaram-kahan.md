@@ -69,6 +69,10 @@ romanLyrics: |-
 # source_id: ziyaraat:6b296ab46adcf064837e
 # source_url: https://www.ziyaraat.net/api/noha/1929
 # raw_sha256: 30915c0c4a07a4d2f284dc37313d12eed614a2276c59be5bd546fb559bcdeb2a
+# additional_source_id: nohawriteups:5cb58afd9095e4c00761
+# additional_source_url: https://www.nohawriteups.org/aram-kahan-haye-haye-aram/
+# additional_raw_sha256: eb12a8b1ec958a9f414abd22d5eaf733c75ca748c07a1ef6b2b5efb690b4bc6d
+# additional_source_note: All ten substantive source stanzas verified against original archived HTML, matching existing complete Rehaan Azmi bilingual poem. Repeated Aaram Kahan refrain not unique verse.
 ---
 آرام کہاں ہائے ہائے آرام کہاں
 کشتِ آلام میں زینبؑ کو بھلا، آرام کہاں

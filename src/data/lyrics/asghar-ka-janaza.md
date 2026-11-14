@@ -65,6 +65,10 @@ romanLyrics: |-
 # source_id: ziyaraat:808a4318f246d952d24f
 # source_url: https://www.ziyaraat.net/api/noha/1052
 # raw_sha256: da8bbfdc7caf9531f4ccf3ae0aa6ea5c87548a3949b814b013e3bcc39058ee1b
+# additional_source_id: nohawriteups:62da51f7c76c37881231
+# additional_source_url: https://www.nohawriteups.org/asghar-ka-janaza/
+# additional_raw_sha256: d4b438e593a59a22ddd3dab22643abec8bfa5a5adf8b693db8ae91f34b52ef00
+# additional_source_note: All eight source stanzas and the preamble compared against original archived HTML and match bilingual NoHayOnline/Ziyaraat canonical, only repeated refrain omitted.
 ---
 
 اے مومنوں جب خون میں ڈوبا ہوا آیا
