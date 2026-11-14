@@ -78,6 +78,11 @@ romanLyrics: |-
 # source_id: nohayonline:a2a6ce7cb2cd4a9850e2
 # source_url: https://www.nohayonline.com/details_content.php?id=89
 # raw_sha256: 4e146416c48a97940456a719648ead5df353f3c3e0893e737e7104ebe27b4524
+# additional_source_id: nohawriteups:3f3e6d11944370287810
+# additional_source_url: https://www.nohawriteups.org/bhai-bhai-pukaarti/
+# additional_raw_sha256: 6f34a7aa4f5e9d4f5870b6abf3e07573afadf83f44ac69ad600d6de9cd1ebdb1
+# additional_source_note: All eight source stanzas match the full bilingual edition, including closing Akbar verse. The source repeats Bhai Bhai Pukaarti after each stanza, omitted as duplicate refrain in canonical text.
+
 ---
 اماں رکا نہ شمر لعیں میرے بین سے
 ستر قدم تھی دور یہ زینب حسین سے
