@@ -26,14 +26,43 @@ romanLyrics: |-
   Use Hawala-e-Zindaan-e-Shaam Kar Ke Chale
   
   3
+  Sakina Shaam Ke Zindaan Meiṅ Reh Gayi Tanha
+  Chale Aseer Riha Ho Ke Su-e-Karbobala
+  Ye Marhala Bhi To Abid Tamaam Kar Ke Chale
+
+  4
+  Tamache Khati Rahi Sheh Ko Yaad Karti Rahi
+  Qadam Qadam Pe Sakina Ghareeb Marti Rahi
+  Aseer Iss Tarha Sar Shehr-e-Shaam Kar Ke Chale
+
+  5
+  Watan Bhi Ja Ke Ye Roeṅge Sheh Ke Gham Meiṅ
+  Ab In Ki Umr Basar Hogi Sheh Ke Matam Meiṅ
+  Jo Zeest Apni Bahattar Ke Naam Kar Ke Chale
+
+  6
+  Wo Kaise Bhuleṅge Jo Lag Gaye Judai Ke Daagh
+  Jalaye Qabr Pe Ro Ro Ke Aansuon Ke Charagh
+  Diloṅ Ke Sabr Ki Khatir Ye Kaam Kar Ke Chale
+
+  7
+  Kaha Tha Ghar Ko Lutaunga Deen Bachaunga
+  Maiṅ Apne Sar Ko Kataunga Deen Bachaunga
+  Yehi Husain Alh Aslam Kar Ke Chale
+
+  8
   Koi Hamara Mara To Kaha Husain Husain
   Aza Ka Farsh Bichha To Kaha Husain Husain
   Ye Intezaam Bhi Chauthe Imam Kar Ke Chale
   
-  4
+  9
   Zafar Sada Yehi Aati Thi Ae Mere Baba
   Sabhi Watan Gaye Maiṅ Qaid Meiṅ Rahi Tanha
   Lahad Pe Ahl-e-Haram Jab Salaam Kar Ke Chale
+# additional_source_id: tajpoints:7c0ac3f77a854cef0b86
+# additional_source_url: https://tajpoints.com/2026/09/abid-ye-kaam-kar-kay-chaly-syed-ali.html
+# additional_raw_sha256: f3827b9e0accc582a167a4b7c2797942645534dea7397c3895f1364868e1c096
+# editorial_uncertainty: Added stanzas 3-7 from TajPoints Roman-only source. The final line of new stanza 7 ("Yehi Husain Alh Aslam Kar Ke Chale") is garbled in the source; Urdu is a provisional reading and must be checked against an independent source before being declared reviewed.
 ---
 
 ملی رہائی تو عابدؑ یہ کام کر کے چلے
@@ -50,11 +79,36 @@ romanLyrics: |-
 اسے حوالۂ زندانِ شام کر کے چلے
 
 ۳
+سکینہ شام کے زندان میں رہ گئی تنہا
+چلے اسیر رہا ہو کے سوئے کرب و بلا
+یہ مرحلہ بھی تو عابد تمام کر کے چلے
+
+۴
+طمانچے کھاتی رہی شہ کو یاد کرتی رہی
+قدم قدم پہ سکینہ غریب مرتی رہی
+اسیر اس طرح سر شہرِ شام کر کے چلے
+
+۵
+وطن بھی جا کے یہ روئیں گے شہ کے غم میں
+اب ان کی عمر بسر ہوگی شہ کے ماتم میں
+جو زیست اپنی بہتر کے نام کر کے چلے
+
+۶
+وہ کیسے بھولیں گے جو لگ گئے جدائی کے داغ
+جلائے قبر پہ رو رو کے آنسوؤں کے چراغ
+دلوں کے صبر کی خاطر یہ کام کر کے چلے
+
+۷
+کہا تھا گھر کو لٹاؤں گا دین بچاؤں گا
+میں اپنے سر کو کٹاؤں گا دین بچاؤں گا
+یہی حسین علیہ السلام کر کے چلے
+
+۸
 کوئی ہمارا مرا تو کہا حسینؑ حسینؑ
 عزا کا فرش بچھا تو کہا حسینؑ حسینؑ
 یہ انتظام بھی چوتھے امامؑ کر کے چلے
 
-۴
+۹
 ظفرؔ صدا یہی آتی تھی اے مرے بابا
 سبھی وطن گئے میں قید میں رہی تنہا
 لحد پہ اہلِ حرم جب سلام کر کے چلے
