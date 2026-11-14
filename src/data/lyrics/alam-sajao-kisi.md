@@ -77,6 +77,10 @@ romanLyrics: |-
 # source_id: ziyaraat:d16e37c91c7319999b8d
 # source_url: https://www.ziyaraat.net/api/noha/975
 # raw_sha256: 6583ff484fe671ba43d703f09a0d4387a31eb57cf70eff0aa691de3fb4fc9ac6
+# additional_source_id: nohawriteups:6d4a3c1c51202637ac70
+# additional_source_url: https://www.nohawriteups.org/alam-sajao-kisi-berida/
+# additional_raw_sha256: 28faf3b05cddcace2b6a6f910488e8059140cb4c57c5d51a4506d1fa37b2f645
+# additional_source_note: All eleven NohaWriteups couplet stanzas match existing bilingual Mazhar Abidi/Irfan Haider canonical. No new verse; repeated Alam Sajao refrain excluded.
 ---
 بچھا کے فرشِ عزا فاطمہ کو یاد کرو
 علم سجاؤ کسی بے ردا کو یاد کرو

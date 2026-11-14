@@ -73,6 +73,10 @@ romanLyrics: |-
 # source_id: nohayonline:6f12ff7bddfe217e229e
 # source_url: https://www.nohayonline.com/details_content.php?id=336
 # raw_sha256: 5e0b6c61dc4e0a724dcbb80e8a102ccb8c7aab7e3df2a84ebe2330e5371c7870
+# additional_source_id: nohawriteups:6f4759aaff146df1990f
+# additional_source_url: https://www.nohawriteups.org/amma-baar-baar/
+# additional_raw_sha256: 7221320ec1cc86353c04888df75370c6b33f3132c238e846a2e5585ea02b8dda
+# additional_source_note: NohaWriteups repeated refrain and all nine substantive stanza groups matched against original full bilingual Rehaan Azmi poem; no unique stanza.
 ---
 زندانِ شام میں جہاں بی‌بی کا ہے مزار
 راتوں کو دھیمی دھیمی سی آتی ہے اک پُکار

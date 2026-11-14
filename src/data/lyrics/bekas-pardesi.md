@@ -73,6 +73,10 @@ romanLyrics: |-
 # source_id: ziyaraat:7cd25ab72247679dca9d
 # source_url: https://www.ziyaraat.net/api/noha/352
 # raw_sha256: af20bed5612826d23674e79193898e5140ddaba692cb60e452fa37b2669ea8c9
+# additional_source_id: nohawriteups:70a83b390a250d2c9458
+# additional_source_url: https://www.nohawriteups.org/bekas-pardesi/
+# additional_raw_sha256: 0f75dc14191d712a9252dc077149581197291a2eca010997d41fb10aa54c67a7
+# additional_source_note: Eight source stanzas are contained in existing nine-stanza bilingual canonical, which also has a unique Teri Pyari Sakina verse absent in shorter NohaWriteups text. Fuller canonical retained.
 ---
 شام جاتے ہوئے رو کے سجاد نے کہا
 السلام اے بے کس بابا بے کس بیٹے کا سلام

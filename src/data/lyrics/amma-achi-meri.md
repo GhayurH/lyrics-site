@@ -58,6 +58,10 @@ romanLyrics: |-
 # source_id: nohayonline:588647744c01ba769243
 # source_url: https://www.nohayonline.com/details_content.php?id=444
 # raw_sha256: 32085e2bf4f3f1001bca9ab3ea43eaffc08ea34465db9e2b8691c7110906ee34
+# additional_source_id: nohawriteups:6e104b8caa0d7947b0b1
+# additional_source_url: https://www.nohawriteups.org/amma-achi-meri-amma/
+# additional_raw_sha256: 8fb387a45b6bbc30fe4ef1d39266f344ad019aced695c3a1d901800b12479171
+# additional_source_note: All eight stanzas and the opening match the existing complete bilingual composition. Refrain repetition omitted.
 ---
 آخری اذان تو سُن لی
 اماں اچھی میری اماں
