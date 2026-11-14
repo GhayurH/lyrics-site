@@ -1,73 +1,76 @@
 ---
 title: "یہ مزارِ نبی سے آئی صدا"
-alternateTitle: "Sada E Nabi"
+alternateTitle: "Sada-e-Nabi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Danish Abbas"
+reciter: "Safdar Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ye mazaar e nabi se aayi sada
-  Haal kya hogaya tera zehra
+  Ye mazaar-e-Nabi se aayi sada
+  Haal kya ho gaya tera Zehra
+
   Baad mere tujhe rulaaya hai
-  Hai ye sadma mujhe bada zehra
+  Hai ye sadma mujhe bara Zehra
 
   1
-  Jaanta hoo mai teri khasta dili
-  Tu jo darbar mein gayi hogi
-  Tujhko jhutlaaya haq bhi cheen liya
+  Jaanta huṅ main teri khasta dili
+  Tu jo darbaar mein gayi hogi
+  Tujh ko jhutlaaya haq bhi chhin liya
   Meri tehreer bhi jala daali
-  Kya madine ke log bhool gaye
-  Tu hai siddiqa taahera zehra
+  Kya Madine ke log bhul gaye
+  Tu hai Siddiqa Taahira Zehra
 
   2
-  Aag jab dar pe tere laayi gayi
-  Kaamp kar reh gayi thi rooh meri
-  Jalta darwaza jab gira tujh par
-  Kaise bhoolun wo bebasi teri
+  Aag jab tere dar pe laayi gayi
+  Kaaṅp kar rah gayi thi ruh meri
+  Jalta darwaaza jab gira tujh par
+  Kaise bhuluṅ wo bebasi teri
   Tera pehlu shikasta kar daala
-  Qatl mohsin ko kar diya zehra
+  Qatl Mohsin ko kar diya Zehra
 
   3
   Mat ro itna ye gham sataata hai
   Tera rona mujhe rulaata hai
-  Haye baba ka marsiya tera
-  Dil pe khanjar mere chalata hai
-  Aasman phat ke gir na jaye kahin
-  Itna girya na kar tu ya zehra
+  Haye Baba ka marsiya tera
+  Dil pe khanjar mere chalaata hai
+  Aasmaaṅ phat ke gir na jaaye kahiṅ
+  Itna girya na kar tu ya Zehra
 
   4
-  Sabr dil ko zara nahi aata
-  Teri faryaad sun nahi paata
-  Din pe padte sitam jo mujhpe huwe
+  Sabr dil ko zara nahiṅ aata
+  Teri faryaad sun nahiṅ paata
+  Din pe parte sitam jo mujh pe hue
   Din siyaah raat mein badal jaata
-  Mai zaeefa hui jawani mein
-  Zulm sehti hai bekhata zehra
+  Main zaifa hui jawaani mein
+  Zulm sahti hai bekhata Zehra
 
   5
-  Inteqam e ghadeer hai bibi
-  Ye jafa tujhpe meri shahzadi
-  Itni takleef aur aziyat ki
-  Jaanta hoo ke tu nahi aadi
+  Intiqaam-e-Ghadir hai Bibi
+  Ye jafa tujh pe meri shahzaadi
+  Itni taklif aur aziyat ki
+  Jaanta huṅ ke tu nahiṅ aadi
   Aaja apne padar ke paas aaja
-  Teri ghurbat pe mai fida zehra
+  Teri ghurbat pe main fida Zehra
 
   6
-  Sayyeda kar gayi dunya se safar
-  Ek qayamat thi danish o safdar
-  Nauha karne lage hussain o hassan
-  Mehwe girya thi zainab e muztar
-  Thaam kar dil ali ye kehte thay
-  Mera veeran ghar hua zehra
+  Sayyeda kar gayiṅ duniya se safar
+  Ek qayaamat thi Danish o Safdar
+  Nauha karne lage Husain o Hasan
+  Mahw-e-girya thi Zainab-e-muztar
+  Thaam ke dil Ali ye kahte the
+  Mera viraan ghar hua Zehra
 # source_id: nohayonline:bfe9dacb94b82738cdd8
 # source_url: https://www.nohayonline.com/details_content.php?id=2274
 # raw_sha256: eca81e2b2a5f9786506a2353b8889f8efab6e71d6db946ea6e841dbb37ab48d8
 ---
 یہ مزارِ نبی سے آئی صدا
 حال کیا ہو گیا تیرا زہرا
+
 بعد میرے تجھے رلایا ہے
 ہے یہ صدمہ مُجھے بڑا زہرا
 
@@ -81,7 +84,7 @@ romanLyrics: |-
 
 ۲
 آگ جب تیرے در پہ لائی گئی
-کانپ کر رہہ گئی تھی روح میری
+کانپ کر رہ گئی تھی روح میری
 جلتا دروازہ جب گِرا تجھ پر
 کیسے بھولوں وہ بے بسی تیری
 تیرا پہلو شکستہ کر ڈالا
@@ -96,7 +99,7 @@ romanLyrics: |-
 اتنا گریہ نہ کر تو یا زہرا
 
 ۴
-صبر دل کو زرا نہیں آتا
+صبر دل کو ذرا نہیں آتا
 تیری فریاد سن نہیں پاتا
 دن پہ پڑتے ستم جو مجھ پہ ہوئے
 دن سیاہ رات میں بدل جاتا
@@ -104,7 +107,7 @@ romanLyrics: |-
 ظلم سہتی ہے بے خطا زہرا
 
 ۵
-انتقامِ غدیر ہے بیبی
+انتقامِ غدیر ہے بی‌بی
 یہ جفا تجھ پہ میری شہزادی
 اتنی تکلیف اور اذیت کی
 جانتا ہوں کہ تو نہیں عادی

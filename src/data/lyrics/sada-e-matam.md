@@ -1,74 +1,75 @@
 ---
 title: "صدائے ماتم گلی گلی سے"
-alternateTitle: "Sada E Matam"
+alternateTitle: "Sada-e-Maatam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hameed Abidi"
+reciter: "Safdar Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sada e matam gali gali se
+  Sada-e-maatam gali gali se
   Nagar nagar se jo aa rahi hai
-  Suno tumhe sheh ke pursadaron
-  Sada e hal min bula rahi hai
-  Ya hussain ya hussain
-  
+  Suno tumheṅ Shah ke pursadaaroṅ
+  Sada-e-hal min bula rahi hai
+  Ya Husain ya Husain
+
   1
-  Lo aagaya moharram nikla hilal e gham
-  Sab apne gham bhula kar allah ki qasam
-  Har ek bibi hamare ghar ki
-  Alam jari ka saja rahi hai
-  
+  Lo aa gaya Muharram nikla hilaal-e-gham
+  Sab apne gham bhula kar Allah ki qasam
+  Har ek Bibi hamaare ghar ki
+  Alam Jari ka saja rahi hai
+
   2
-  Farshe aza ki jaanib saare higaam zan
+  Farsh-e-aza ki jaanib saare higaam zan
   Kaale libaas pehne atfaal o mard o zan
-  Hamari tarha tamaam dunya
-  Hussain ka gham mana rahi hai
-  
+  Hamaari tarah tamaam duniya
+  Husain ka gham mana rahi hai
+
   3
-  Pyason ki ye sabeelein abbas ke alam
-  Taboot taaziye aur aaye sada e gham
-  Ye aah o zaari ye pusadaari
-  Zamane bhar ko hila rahi hai
-  
+  Pyaasoṅ ki ye sabileṅ Abbas ke alam
+  Taabut taaziye aur aaye sada-e-gham
+  Ye aah o zaari ye pursadaari
+  Zamaane bhar ko hila rahi hai
+
   4
-  Atfaal e karbala ki tasnhalabi ka gham
-  Ek matami ki maa ko hai yaad dam ba dam
-  Balayein le ke wo dekhein apne
+  Atfaal-e-Karbala ki tishna labi ka gham
+  Ek maatami ki maaṅ ko hai yaad dam ba dam
+  Balaaeṅ le ke wo dekheṅ apne
   Pisar ko saqqa bana rahi hai
-  
+
   5
   Aezaaz juz hamare haasil hai ye kise
-  Farshe aza ke sadqe chauda sau saal se
-  Hamare ghar dukhtare payambar
-  Ba-taur e mehman aa rahi hai
-  
+  Farsh-e-aza ke sadqe chaudah sau saal se
+  Hamaare ghar dukhtar-e-Payambar
+  Bataur mehmaan aa rahi hai
+
   6
-  Ghame shaahe karbala mein nauhon ka kaarwan
-  Hai zulm ki fiza mein mazloom ki azaan
-  Qasam khuda ki sada hamari
-  Tamaam aalam pe chaa rahi hai
-  
+  Gham-e-Shah-e-Karbala mein nauhoṅ ka kaarwaaṅ
+  Hai zulm ki fiza mein mazlum ki azaaṅ
+  Qasam Khuda ki sada hamaari
+  Tamaam aalam pe chhaa rahi hai
+
   7
-  Dar shaahe karbala ka har waqt hai khula
-  Darbaar e panjatan hai ye masnad e aza
-  Ke aasiyon ko mukhaalifon ko
-  Ye aaj bhi hurr bana rahi hai
-  
+  Dar Shah-e-Karbala ka har waqt hai khula
+  Darbaar-e-Panjatan hai ye masnad-e-aza
+  Ke aasiyoṅ ko mukhaalifoṅ ko
+  Ye aaj bhi Hur bana rahi hai
+
   8
-  Ashk e aza ke darya aankhon mein maujizan
-  Sar chashma ashke gham ka hai ek bekafan
+  Ashk-e-aza ke darya aankhoṅ mein maujizan
+  Sar chashma ashk-e-gham ka hai ek bekafan
   Karash ke gham ki hai kaat aisi
-  Ke zaalimon ko sata rahi hai
-  
+  Ke zaalimoṅ ko sata rahi hai
+
   9
-  Kaise hameed o safdar matam ki ye sada
-  Aiwaan zaalimon ke seh payenge bhala
-  Jo mujrimon ke thay rukh pe parde
-  Sada e matam hata rahi hai
+  Kaise Hameed o Safdar maatam ki ye sada
+  Aiwaan zaalimoṅ ke sah paaeṅge bhala
+  Jo mujrimoṅ ke the rukh pe parde
+  Sada-e-maatam hata rahi hai
 # source_id: nohayonline:ab3c9aff932cd781b03c
 # source_url: https://www.nohayonline.com/details_content.php?id=2281
 # raw_sha256: fe7c98a45b01466170c51fb81ad2360cd743041561388719720213590d14edc1
@@ -82,7 +83,7 @@ romanLyrics: |-
 ۱
 لو آ گیا محرم نکلا ہلال غم
 سب اپنے غم بھلا کر اللّٰہ کی قسم
-ہر ایک بی بی ہمارے گھر کی
+ہر ایک بی‌بی ہمارے گھر کی
 علم جری کا سجا رہی ہے
 
 ۲
@@ -100,7 +101,7 @@ romanLyrics: |-
 ۴
 اطفال کبریا کی تشنہ لبی کا غم
 اک ماتمی کی ماں کو ہے یاد دم بدم
-بلاییں لے کے وہ دیکھیں اپنے
+بلائیں لے کے وہ دیکھیں اپنے
 پسر کو سقہ بنا رہی ہے
 
 ۵
@@ -122,13 +123,13 @@ romanLyrics: |-
 یہ آج بھی حر بنا رہی ہے
 
 ۸
-اشک عزا کے دریا آنکھوں میں معجزاں
+اشک عزا کے دریا آنکھوں میں موجزن
 سر چشمہ اشک غم کا ہے ایک بیکفن
 کا رشک غم کی ہے رات ایسی
 کہ ظالموں کو ستا رہی ہے
 
 ۹
 کیسے حامد و صفدر ماتم کے یہ صدا
-ایوان ظالموں کے سہ پایینگے بھلا
+ایوان ظالموں کے سہ پائیں گے بھلا
 جو مجرموں کے تھے رخ پہ پردے
 صدائے ماتم ہٹا رہی ہے

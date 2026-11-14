@@ -1,56 +1,57 @@
 ---
 title: "صدائے کربلا حسین زباں زباں ہے یا حسین"
-alternateTitle: "Sada E Karbala"
+alternateTitle: "Sada-e-Karbala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sada e karbala hussain zaban zaban hai ya hussain
-  
+  Sada-e-Karbala Husain zabaaṅ zabaaṅ hai ya Husain
+
   1
-  Jahan na fikr jaa sake irad na jisko paa sake
-  Jo zehn mein na aa sake hai ek maujiza hussain
-  
+  Jahaaṅ na fikr jaa sake iraada na jis ko paa sake
+  Jo zehn mein na aa sake hai ek maujiza Husain
+
   2
   Nazar nazar palak palak bashar bashar malak malak
-  Zameen se aasman talak mila jagha jagha hussain
-  
+  Zamiṅ se aasmaaṅ talak mila jagah jagah Husain
+
   3
-  Nazar ka intekhab hai lahoo ka inqilaab hai
-  Hamara kul hisaab hai likha ali padha hussain
-  
+  Nazar ka intikhaab hai lahu ka inqilaab hai
+  Hamaara kul hisaab hai likha Ali parha Husain
+
   4
-  Kahin azan kahin bhajan kahin dua kahin naman
-  Kahin qasam kahin wachan kisi ka devta hussain
-  
+  Kahiṅ azaaṅ kahiṅ bhajan kahiṅ dua kahiṅ naman
+  Kahiṅ qasam kahiṅ wachan kisi ka devta Husain
+
   5
-  Sitam ki jumbishe hui lahoo ki barishe hui
-  Hazaar bandishe hui ruki na ye aza hussain
-  
+  Sitam ki jumbishe hui lahu ki baarishe hui
+  Hazaar bandisheṅ hui ruki na ye aza Husain
+
   6
   Sabeelona furaatona siraatona najaatona
-  Hayaatona mamaatona hamara na khuda hussain
-  
+  Hayaatona mamaatona hamaara na khuda Husain
+
   7
-  Malak ko baal o par diye khuda ke deen ko sar diye
-  Sabhi ke kaans bhar diye karam ki inteha hussain
-  
+  Malak ko baal o par diye Khuda ke din ko sar diye
+  Sabhi ke kaans bhar diye karam ki intiha Husain
+
   8
-  Ghamo ke saaye ghat gaye andhere saare chat gaye
-  Pahaad peeche hat gaye jahan bhi goonj utha hussain
-  
+  Ghamoṅ ke saaye ghat gaye andhere saare chhat gaye
+  Pahaar pichhe hat gaye jahaaṅ bhi gunj utha Husain
+
   9
   Wo innama ki shaan hai wo kul kafa ki aan hai
-  Wo fatema ki jaan hai waqaar e hal ata hussain
-  
+  Wo Fatima ki jaan hai waqaar-e-hal ataa Husain
+
   10
-  Suboot e nayyar e wafa wujood e aamir e aza
-  Sameinte hai jo karbala hai aisa marsiya hussain
+  Subut-e-Nayyar-e-wafa wujud-e-Aamir-e-aza
+  Samete hai jo Karbala hai aisa marsiya Husain
 # source_id: nohayonline:6deafcd6a674a8d49013
 # source_url: https://www.nohayonline.com/details_content.php?id=1796
 # raw_sha256: 30edc4393329c31be5cb7e5b35878e5c9accaafccfd83e5cd65a6a7e46239d10
@@ -59,7 +60,7 @@ romanLyrics: |-
 صدائے کربلا حسین زباں زباں ہے یا حسین
 
 ۱
-جہاں نہ فکر جا سکے ارادہ نہ جسکو پا سکے
+جہاں نہ فکر جا سکے ارادہ نہ جس کو پا سکے
 جو ذہن میں نہ آ سکے ہے ایک معجزہ حسین
 
 ۲
@@ -75,19 +76,19 @@ romanLyrics: |-
 کہیں قسم کہیں وچن کسی کا دیوتا حسین
 
 ۵
-ستم کی جنبشِ ہوی لہو کی بارش ہوی
-ہزار بندشیں ہوی رکی نہ یہ عزا حسین
+ستم کی جنبشِ ہوئی لہو کی بارش ہوئی
+ہزار بندشیں ہوئی رکی نہ یہ عزا حسین
 
 ۶
 سبیلونا قرأتوں صراتنا نجاتنا
 حیاتنا مماتنا ہمارا نہ خدا حسین
 
 ۷
-ملک کو بال و پَر دیےء خدا کے دیں کو سر دیےء
-سبھی کے کان بھر دیےء کرم کی انتہا حسین
+ملک کو بال و پَر دیے خدا کے دیں کو سر دیے
+سبھی کے کان بھر دیے کرم کی انتہا حسین
 
 ۸
-غموں کے ساے گھٹ گےء اندھیرے سارے چھٹ گےء
+غموں کے سائے گھٹ گئے اندھیرے سارے چھٹ گئے
 پہاڑ پیچھے ہٹ گئے جہاں بھی گونج اٹھا حسین
 
 ۹
