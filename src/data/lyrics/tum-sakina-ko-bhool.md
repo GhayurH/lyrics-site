@@ -1,107 +1,125 @@
 ---
 title: "جب ردا بیٹیوں کو پہنانا"
-alternateTitle: "Tum Sakina Ko Bhool"
+alternateTitle: "Tum Sakina Ko Bhul"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
+reciter: "Irfan Haider"
 tags: ["noImage"]
-aliases: []
+aliases: ["Tum Sakina Ko Bhool"]
 published: false
 romanLyrics: |-
-  Jab rida betiyon ko pehnana
-  Tum sakina ko bhool na jaana
-  Jab bhi tohfe mein baaliyan laana
+  Jab rida betiyoṅ ko pehnaana
+  Tum Sakina ko bhul na jaana
+
+  Jab bhi tohfe mein baaliyaaṅ laana
+  Tum Sakina ko bhul na jaana
 
   1
-  Jab moharram ki aatwi aaye
-  Haazri karna ghar mein ghazi ki
-  Yaad kar lena pyaas bachi ki
-  Nazr pani pe jab bhi dilwana
+  Jab Muharram ki aathwiṅ aaye
+  Haaziri karna ghar mein Ghaazi ki
+  Yaad kar lena pyaas bachchi ki
+  Nazr paani pe jab bhi dilwaana
+  Tum Sakina ko bhul na jaana
 
   2
   Bekafan baap ki wo beti hai
-  Khoon bahra kurta hai kafan jis ka
-  Zaairon waasta sakina ka
+  Khun bahra kurta hai kafan jis ka
+  Zaairoṅ waasta Sakina ka
   Karbala jaa ke jab kafan laana
+  Tum Sakina ko bhul na jaana
 
   3
-  Ek choti si mashk phir laa kar
-  Tum sajana alam pe ghazi ke
-  Door na ho chacha bhatiji se
-  Jab bhi ghar mein saje azakhana
+  Ik chhoti si mashk phir laa kar
+  Tum sajaana alam pe Ghaazi ke
+  Dur na ho chacha bhatiji se
+  Jab bhi ghar mein saje azaakhaana
+  Tum Sakina ko bhul na jaana
 
   4
   Chaahte ho agar rahe raazi
-  Tum se cheh maah ka ali asghar
-  Ay azadaron in sabeelon par
-  Naam pyason ke jab bhi likhwana
+  Tum se chhe maah ka Ali Asghar
+  Ae azaadaaroṅ in sabiloṅ par
+  Naam pyaasoṅ ke jab bhi likhwaana
+  Tum Sakina ko bhul na jaana
 
   5
-  Waqt e aakhir sakina bibi ne
-  Bas wasiyat mein ye kaha ro kar
-  Dekho zindan se reha ho kar
-  Bhaiya sajjad jab watan jaana
+  Waqt-e-aakhir Sakina Bibi ne
+  Bas wasiyyat mein ye kaha ro kar
+  Dekho zindaaṅ se rihaa ho kar
+  Bhaiya Sajjad jab watan jaana
+  Tum Sakina ko bhul na jaana
 
   6
-  Dekho darti hai ye andheron se
-  Tha ye umme rubab ka nauha
-  Shaam ki aurton karo waada
+  Dekho darti hai ye andheroṅ se
+  Tha ye Umm-e-Rubab ka nauha
+  Shaam ki auratoṅ karo waada
   Roz turbat pe ek diya laana
+  Tum Sakina ko bhul na jaana
 
   7
-  Choti zehra ka waasta zeeshan
-  Radh nahi karte shaahe karbobala
-  Dekho irfan ka hai ye daawa
-  Apne daaman ko jab bhi phailana
+  Chhoti Zehra ka waasta Zeeshan
+  Rad nahiṅ karte Shaah-e-Karb o Balaa
+  Dekho Irfan ka hai ye daawa
+  Apne daaman ko jab bhi phailaana
+  Tum Sakina ko bhul na jaana
 # source_id: nohayonline:f0beb5539e8438d10070
 # source_url: https://www.nohayonline.com/details_content.php?id=1717
 # raw_sha256: 6118e3a4951dd6c482cdfeaf7a7a546f4482636fd04210f40606f9e28acb0671
 ---
-
 جب ردا بیٹیوں کو پہنانا
 تم سکینہ کو بھول نہ جانا
+
 جب بھی تحفے میں بالیاں لانا
+تم سکینہ کو بھول نہ جانا
 
 ۱
-جب محرم کی آٹھویں آے
+جب محرم کی آٹھویں آئے
 حاضری کرنا گھر میں غازی کی
 یاد کر لینا پیاس بچی کی
 نذر پانی پہ جب بھی دلوانا
+تم سکینہ کو بھول نہ جانا
 
 ۲
-بیکفن باپ کی وہ بیٹی ہے
+بے کفن باپ کی وہ بیٹی ہے
 خون بہتا ہے کرتہ ہی کفن جس کا
-زایروں واسطہ سکینہ کا
+زائروں واسطہ سکینہ کا
 کربلا جا کے جب کفن لانا
+تم سکینہ کو بھول نہ جانا
 
 ۳
 اک چھوٹی سی مشک پھر لا کر
-تم سجانا الم پہ غازی کے
+تم سجانا علم پہ غازی کے
 دور نہ ہو چچا بھتیجی سے
 جب بھی گھر میں سجے عزاخانہ
+تم سکینہ کو بھول نہ جانا
 
 ۴
 چاہتے ہو اگر رہے راضی
 تم سے چھ ماہ کا علی اصغر
 اے عزاداروں ان سبیلوں پر
 نام پیاسوں کے جب بھی لکھوانا
+تم سکینہ کو بھول نہ جانا
 
 ۵
-وقت آخر سکینہ بی بی نے
+وقت آخر سکینہ بی‌بی نے
 بس وصیت میں یہ کہا رو کر
 دیکھو زنداں سے رہا ہو کر
 بھیا سجاد جب وطن جانا
+تم سکینہ کو بھول نہ جانا
 
 ۶
 دیکھو ڈرتی ہے یہ اندھیروں سے
 تھا یہ ام رباب کا نوحہ
 شام کی عورتوں کرو وعدہ
 روز تربت پہ ایک دیا لانا
+تم سکینہ کو بھول نہ جانا
 
 ۷
-چھوٹی زہرا کا واسطہ زیشان
-رد نہیں کرتے شاہ کربوبلا
+چھوٹی زہرا کا واسطہ ذیشان
+رد نہیں کرتے شاہ کرب و بلا
 دیکھو عرفان کا ہے یہ دعویٰ
 اپنے دامن کو جب بھی پھیلانا
+تم سکینہ کو بھول نہ جانا

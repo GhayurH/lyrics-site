@@ -1,112 +1,105 @@
 ---
-title: "زہرا سے حال پوچھنے جب آے مرتظی"
+title: "زہرا سے حال پوچھنے جب آئے مرتضیٰ"
 alternateTitle: "Tum Roz Meri Qabr Pe"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zehra se haal poochne jab aaye murtaza
-  Ro ro ke fatema ne wasiyat mein ye kaha
-  Mere hassan hussain ko laana abul hassan
-  Tum roz meri qabr pe aana abul hassan
+  Zehra se haal puchhne jab aaye Murtaza
+  Ro ro ke Fatema ne wasiyyat mein ye kaha
+  Mere Hasan Husain ko laana Abul Hasan
+  Tum roz meri qabr pe aana Abul Hasan
 
   1
-  Tishna labi mein usko aata nahi hai chain
-  Raaton ko maangta hai pani mera hussain
-  Uth uth ke us ko pani pilaana abul hassan
+  Tishna labi mein us ko aata nahiṅ hai chain
+  Raatoṅ ko maangta hai paani mera Husain
+  Uth uth ke us ko paani pilaana Abul Hasan
 
   2
-  Khaaya tha jab tamacha tha saamne hassan
+  Khaaya tha jab tamaacha tha saamne Hasan
   Rota hai mere gham mein wo mera gul badan
-  Tum usko paas apne bithana abul hassan
+  Tum us ko paas apne bithaana Abul Hasan
 
   3
-  Aayega jo mere ghar ban kar dua meri
-  Kurta siya hai uska ek haath se ali
+  Aayega jo mere ghar ban kar duaa meri
+  Kurta siya hai us ka ek haath se Ali
+  Abbas ko ye baat bataana Abul Hasan
 
   4
-  Abbas ko ye baat batana abul hassan
-  Jab betiyon ko meri yaad aaye ya ali
+  Jab betiyoṅ ko meri yaad aaye ya Ali
+  Parde mein shab ke haaye dekho kabhi kabhi
+  Un ko bhi meri qabr pe laana Abul Hasan
 
   5
-  Parde mein shab ke haye dekho kabhi kabhi
-  Unko bhi meri qabr pe laana abul hassan
+  Phir ro ke boli Zahra ae waqt ke Imaam
+  Tum ko main haath uthaa ke kaise karuṅ salaam
+  Uthta nahiṅ hai ab mera shaana Abul Hasan
 
   6
-  Phir roke boli zahra ay waqt ke imam
-  Tum ko mai haath utha ke kaise karun salaam
-  Uth'ta nahi hai ab mera shaana abul hassan
+  Jab mujh ko ghusl dene aaoge ya Ali
+  Kuchh aise zakhm haiṅ jo dekhoge us ghari
+  Bachchoṅ se mera haal chhupaana Abul Hasan
 
   7
-  Jab mujhko ghusl dene aaoge ya ali
-  Kuch aise zakhm hai jo dekhoge us ghadi
-  Bachon se mera haal chupana abul hassan
+  Mayyat se meri aa ke liptega jab Husain
+  Naazuk bahut hai dekho wo mere dil ka chain
+  Aahista us ko maaṅ se chhuraana Abul Hasan
 
   8
-  Mayyat se meri aa ke liptega jab hussain
-  Nazuk bahot hai dekho wo mere dil ka chain
-
-  9
-  Aahista us ko maa se chudana abul hassan
-  Zeeshan aur raza wo kehti thi ya ali
-
-  10
-  Zehra ka saath tumne choda nahi kabhi
-  Tanhaai mein bhi saath nibhana abul hassan
+  Zeeshan aur Raza wo kehti thi ya Ali
+  Zehra ka saath tum ne chhora nahiṅ kabhi
+  Tanhaai mein bhi saath nibhaana Abul Hasan
 # source_id: nohayonline:dbeedfe087bd6bf95ef6
 # source_url: https://www.nohayonline.com/details_content.php?id=1032
 # raw_sha256: b95d6e9bc4e1865ae96d64b432fa7590d01a0bfc6d29cb9f0cc6548e58c9df0a
 ---
-زہرا سے حال پوچھنے جب آے مرتظی
+زہرا سے حال پوچھنے جب آئے مرتضیٰ
 رو رو کے فاطمہ نے وصیت میں یہ کہا
 میرے حسن حسین کو لانا ابوالحسن
 تم روز میری قبر پہ آنا ابوالحسن
 
 ۱
-تشنہ لبی میں اسکو آتا نہیں ہے چین
+تشنہ لبی میں اس کو آتا نہیں ہے چین
 راتوں کو مانگتا ہے پانی میرا حسین
 اٹھ اٹھ کے اس کو پانی پلانا ابوالحسن
 
 ۲
 کھایا تھا جب طمانچہ تھا سامنے حسن
 روتا ہے میرے غم میں وہ میرا گل بدن
-تم اسکو پاس اپنے بٹھانا ابوالحسن
+تم اس کو پاس اپنے بٹھانا ابوالحسن
 
 ۳
-آے گا میرے گھر بن کر دعا میری
+آئے گا میرے گھر بن کر دعا میری
 کرتا سیا ہے اس کا ایک ہاتھ سے علی
+عباس کو یہ بات بتانا ابوالحسن
 
 ۴
-عباس کو یہ بات بتانا ابوالحسن
-جب بیٹیوں کو میری یاد آے یا علی
-
-۵
-پردے میں شب کے ہاے دیکھو کبھی کبھی
+جب بیٹیوں کو میری یاد آئے یا علی
+پردے میں شب کے ہائے دیکھو کبھی کبھی
 ان کو بھی میری قبر پہ لانا ابوالحسن
 
-۶
-پھر روکے بولی زہرا اے وقت کے امام
+۵
+پھر رو کے بولی زہرا اے وقت کے امام
 تم کو میں ہاتھ اٹھا کیسے کروں سلام
 اٹھتا نہیں ہے اب میرا شانہ ابوالحسن
 
-۷
-جب مجھکو غسل دینے آؤ گے یا علی
-کچھ ایسے زخم ہیں جو دیکھوگے اس گھڑی
+۶
+جب مجھ کو غسل دینے آؤ گے یا علی
+کچھ ایسے زخم ہیں جو دیکھو گے اس گھڑی
 بچوں سے میرا حال چھپانا ابوالحسن
 
-۸
+۷
 میت سے میری آ کے لپٹے گا جب حسین
 نازک بہت ہے دیکھو وہ میرے دل کا چین
-
-۹
 آہستہ اس کو ماں سے چھڑانا ابوالحسن
-زیشان اور رضا وہ کہتی تھی یا علی
 
-۱۰
+۸
+ذیشان اور رضا وہ کہتی تھی یا علی
 زہرا کا ساتھ تم نے چھوڑا نہیں کبھی
 تنہائی میں بھی ساتھ نبھایا ابوالحسن
