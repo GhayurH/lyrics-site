@@ -21,7 +21,7 @@ export async function fetchPoem(kind: "lyric" | "basta", id: string): Promise<Po
         return { kind, title: lyric.title, alternateTitle: lyric.alternateTitle,
           urdu: lyric.urdu, roman: lyric.roman || "",
           sourceUrl: lyric.sourceUrl || "/lyrics/" + encodeURIComponent(id) + "/",
-          image: lyric.cover || undefined, lang: lyric.lang || "ur",
+          lang: lyric.lang || "ur",
           direction: lyric.direction || "rtl",
           sixVerseLayout: lyric.sixVerseLayout === "pairs" ? "pairs" : undefined };
       }
