@@ -49,3 +49,9 @@ Every newly staged source draft retains raw source identity and provenance, but 
 Three NoHayOnline bilingual sources had literal stray `<` or `r>` debris removed; `nohayonline:1a787a7d7e3008025ff6` may have a missing Urdu opening line and needs review. TajPoints and NoHayOnline alternative editions in `chore/remaining-5294-kalams-2026-11-14` must still be checked before final integration.
 
 **Do not merge as completed lyrics yet.** Nothing in this source staging means automatically accepted, reviewed or published. The historic queue continues to show unadjudicated works until the normal manual reviews and evidence-backed dispositions are complete.
+
+## Additional NohaWriteups decisions (2026-11-14)
+
+The new cumulative CSV contains 359 decisions, of which all 125 were already covered by `nohawriteups-review-decisions-1-status.csv`. The original uploaded cumulative decisions are preserved as `audit/nohawriteups-review-decisions-2-input.csv`; the 234 newly encountered source IDs appear in `audit/nohawriteups-review-decisions-2-status.csv` with pointers to their archived source metadata in `GhayurH/kalam-archive-imports`.
+
+Of the 234, 20 are excluded as no-lyrics sources; 214 have valid lyric content and seven user-identified duplicate pairs. The `Ay Musalman Kash Socha Hota` pair (`6837975942943b9d74ad` and `71fc831cabef614a2267`) is preserved in one unpublished Roman draft containing the two closing stanzas missing from the four-stanza source. Other new lyric sources are **not yet materialized**, and the other six duplicate pairs require manual comparison, not automatic deletion. The Urdu+Panjabi partially extracted entry still requires recovery. Source captures remain untouched; valid identification is not completion of editorial review.
