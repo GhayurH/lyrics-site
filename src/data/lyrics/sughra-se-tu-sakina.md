@@ -6,67 +6,68 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sughra se tu sakina badi khush naseeb hai
-  Reh kar musafirat mein bhi sab ke khareeb hai
+  Sughra se tu Sakina bari khush nasib hai
+  Reh kar musaafirat mein bhi sab ke qarib hai
 
   1
-  Phupiyon ka tujhko saath mubarak ho ay behan
-  Baba ka sar pe haath mubarak ho ay behan
-  Mai sab se chut gayi meri qismat ajeeb hai
+  Phuphiyoṅ ka tujhko saath mubaarak ho ae behan
+  Baba ka sar pe haath mubaarak ho ae behan
+  Maiṅ sab se chhut gayi meri qismat ajib hai
 
   2
-  Is ranj o gham se mere maraz aur badh gaye
-  Ek din mein saare chaahne waale bichad gaye
-  Mera naseeb jaane ye kaisa naseeb hai
+  Is ranj o gham se mere maraz aur barh gaye
+  Ek din mein saare chaahne waale bichhar gaye
+  Mera nasib jaane ye kaisa nasib hai
 
   3
-  Khushiyan tamaam haye watan se chali gayi
-  Moo phayr kar bahaar chaman se chali gayi
-  Veeraniyo mein nauha kuna andaleeb hai
+  Khushiyaaṅ tamaam haaye watan se chali gayi
+  Muṅh pher kar bahaar chaman se chali gayi
+  Viraaniyoṅ mein nauha-kunaaṅ andalib hai
 
   4
-  Tanha watan mein teri behan jee na payegi
-  Ab to khabar tujhe mere marne ki jayegi
-  Baba ke hijr mein meri haalat ajeeb hai
+  Tanha watan mein teri behan ji na paayegi
+  Ab to khabar tujhe mere marne ki jaayegi
+  Baba ke hijr mein meri haalat ajib hai
 
   5
-  Bhaiya ko mere dard ka ehsaas bhi nahi
-  Mai hoo khareeb e marg koi paas bhi nahi
-  Teri behan watan mein bhi reh kar ghareeb hai
+  Bhaiyya ko mere dard ka ehsaas bhi nahiṅ
+  Maiṅ huṅ qarib-e-marg koi paas bhi nahiṅ
+  Teri behan watan mein bhi reh kar gharib hai
 
   6
-  Aata nahi hai koi mareeza ko thaamne
-  Rehte hai sab ke chehre nigahon ke saamne
-  Beemar e gham hoo aur na meinassar tabeeb hai
+  Aata nahiṅ hai koi mariza ko thaamne
+  Rehte haiṅ sab ke chehre nigaahoṅ ke saamne
+  Bimaar-e-gham huṅ aur na mayassar tabib hai
 
   7
-  Aa jao bhai jaan bas itna karam karo
-  Aa kar behan pe sura e yaseen dam karo
-  Dil doobta hai maut ki manzil khareeb hai
+  Aa jaao bhaai jaan bas itna karam karo
+  Aa kar behan pe Sura-e-Ya Sin dam karo
+  Dil dubta hai maut ki manzil qarib hai
 
   8
-  Baba kahan mareeza mein taaqat hai sabr ki
+  Baba kahaaṅ mariza mein taaqat hai sabr ki
   Is laash ko supurd karo aake qabr ki
-  Hamshakle mustafa ki judaai saleeb hai
+  Hamshakl-e-Mustafa ki judaai salib hai
 
   9
-  Meri taraf se bali sakina tere nisaar
-  Sadqa utaarna ali asghar ka baar baar
-  Pardes ka safar hai zamana raqeeb hai hai
+  Meri taraf se baali Sakina tere nisaar
+  Sadqa utaarna Ali Asghar ka baar baar
+  Pardes ka safar hai zamaana raqib hai hai
 
   10
-  Milwaye mujh ghareeb ko kunbe se phir khuda
+  Milwaaye mujh gharib ko kunbe se phir Khuda
   Rauze pe dada jaan ke kar dena ye dua
-  Sunti ho karbala se najaf bhi khareeb hai
+  Sunti ho Karbala se Najaf bhi qarib hai
 
   11
-  Akhtar ghamon mein doobe hai sughra ke waaqiyat
-  Aamir bayan karta hai roti hai kayenaat
-  Sughra ki daastan ajeeb o ghareeb hai
+  Akhtar ghamoṅ mein dube haiṅ Sughra ke waaqiaat
+  Aamir bayaan karta hai roti hai kaainaat
+  Sughra ki daastaan ajib o gharib hai
 # source_id: nohayonline:a69373fbc501d3372765
 # source_url: https://www.nohayonline.com/details_content.php?id=1787
 # raw_sha256: db6b388f6c7b9d8732d70207cc2a38dd7f58a87605539e4b9d31e85a654635ef
@@ -75,23 +76,23 @@ romanLyrics: |-
 رہ کر مسافرت میں بھی سب کے قریب ہے
 
 ۱
-پھوپھیوں کا تجھکو ساتھ مبارک ہو اے بہن
+پھوپھیوں کا تجھ کو ساتھ مبارک ہو اے بہن
 بابا کا سر پہ ہاتھ مبارک ہو اے بہن
-میں سب سے چھٹ گیء میری قسمت عجیب ہے
+میں سب سے چھٹ گئی میری قسمت عجیب ہے
 
 ۲
-اس رنج و غم سے میرے مرض اور بڑھ گےء
-اس دن میں سارے چاہنے والے بچھڑ گےء
+اس رنج و غم سے میرے مرض اور بڑھ گئے
+اس دن میں سارے چاہنے والے بچھڑ گئے
 میرا نصیب جانے یہ کیسا نصیب ہے
 
 ۳
-خوشیاں تمام ہاے وطن سے چلی گیء
-منہ پھیر کر بہار چمن سے چلی گیء
+خوشیاں تمام ہائے وطن سے چلی گئی
+منہ پھیر کر بہار چمن سے چلی گئی
 ویرانیوں میں نوحہ کناں اندلیب ہے
 
 ۴
-تنہا وطن میں تیری بہن جی نہ پاے گی
-اب تو خبر تجھے میرے مرنے کی جاے گی
+تنہا وطن میں تیری بہن جی نہ پائے گی
+اب تو خبر تجھے میرے مرنے کی جائے گی
 بابا کے ہجر میں تیری حالت عجیب ہے
 
 ۵
@@ -105,13 +106,13 @@ romanLyrics: |-
 بیمار غم ہوں اور نہ میسر طبیب ہے
 
 ۷
-آ جاؤ بھای جان بس اتنا کرم کرو
-آ کر بہن پہ سورہء یاسین دم کرو
+آ جاؤ بھائی جان بس اتنا کرم کرو
+آ کر بہن پہ سورۂ یاسین دم کرو
 دل ڈوبتا ہے موت کی منزل قریب ہے
 
 ۸
 بابا کہاں مریضہ میں طاقت ہے صبر کی
-اس لاش کو سپرد کرو آکے قبر کی
+اس لاش کو سپرد کرو آ کے قبر کی
 ہمشکل مصطفیٰ کی جدائی سلیب ہے
 
 ۹
@@ -120,11 +121,11 @@ romanLyrics: |-
 پردیس کا سفر ہے زمانہ رقیب ہے
 
 ۱۰
-ملواے مجھ غریب کو کنبے سے پھر خدا
+ملوائے مجھ غریب کو کنبے سے پھر خدا
 روضے پہ دادا جان کے کر دینا یہ دعا
 سنتی ہوں کربلا سے نجف بھی قریب ہے
 
 ۱۱
 اختر غموں میں ڈوبے ہیں صغرا کے واقعات
-عامر‌ بیان کرتا ہے روتی ہے کاینات
+عامر بیان کرتا ہے روتی ہے کائنات
 صغرا کی داستان عجیب و غریب ہے
