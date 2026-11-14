@@ -89,6 +89,8 @@ pagefind-filter-dropdown { display: block; min-width: 0; }
    (which gives them CanvasText/black instead of the theme foreground). */
 .search-page .search-result-collection { margin: 0 0 .25rem; color: var(--secondary-text); font-size: .77rem; font-weight: 750; }
 .search-page .search-result-roman-title { margin: .25rem 0; color: var(--secondary-text); font-size: .95rem; }
+.search-page .search-result-links { display: flex; flex-wrap: wrap; gap: .75rem; margin: .3rem 0; font-size: .83rem; }
+.search-page .search-result-links a { color: var(--primary-text); text-decoration: underline; text-underline-offset: .16em; }
 
 /* Pagefind v1.5 centres mobile menus on the trigger's narrow inline wrapper,
    so a 100vw-wide popup can extend off-screen. Anchor the menu to a full-width

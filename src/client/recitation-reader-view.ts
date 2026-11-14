@@ -12,6 +12,12 @@ import { node } from "./dom";
 function addBastaText(host: HTMLElement, text: string, prefaceOnly = false) {
   host.append(renderBastaTextBlock(text, true, "auto", prefaceOnly));
 }
+/** Programme numbers describe the displayed order, never the printed source ID. */
+function programmeStanzaNumber(position: number, language: "urdu" | "roman"): string {
+  const number = String(position + 1);
+  return language === "roman" ? number :
+    number.replace(/[0-9]/g, (digit) => "۰۱۲۳۴۵۶۷۸۹"[Number(digit)]);
+}
 function addLyricText(host: HTMLElement, text: string, isRoman = false, sixVerseLayout?: "pairs") {
   const block = node("div", "lyric-reading-text " + (isRoman ? "roman-lyrics-text" : "lyrics-text"));
   for (const stanza of layoutLyricStanzas(text)) {
@@ -46,8 +52,8 @@ function originalBastaEdition(parent: HTMLElement, kalam: BastaKalam, language: 
   }
   const opening = language === "urdu" ? kalam.preface : preface(source);
   if (opening) addBastaText(parent, opening, true);
-  for (const stanza of kalam.stanzas) {
-    addBastaText(parent, stanza.printedNumber + "\n" +
+  for (const [position, stanza] of kalam.stanzas.entries()) {
+    addBastaText(parent, programmeStanzaNumber(position, language) + "\n" +
       (language === "urdu" ? stanza.urdu : stanza.roman!));
   }
 }
@@ -74,7 +80,7 @@ function stanzaSection(parent: HTMLElement, poem: Poem, item: RecitationItem, la
   } else if (preface(original.roman || "")) {
     addBastaText(parent, preface(original.roman || ""), true);
   }
-  for (const ref of references) {
+  for (const [position, ref] of references.entries()) {
     const source = sources.get(ref.kalamId)?.basta;
     const stanza = source?.stanzas.find((s) => s.id === ref.stanzaId);
     if (!source || !stanza) {
@@ -85,20 +91,16 @@ function stanzaSection(parent: HTMLElement, poem: Poem, item: RecitationItem, la
       parent.append(warning);
       continue;
     }
-    if (source.id !== item.id) {
-      const attribution = node("p", "recite-stanza-source");
-      attribution.append("Stanza " + stanza.number + " from ");
-      const link = node("a");
-      link.href = "/basta/" + source.startPage + "/";
-      link.textContent = source.name;
-      attribution.append(link);
-      parent.append(attribution);
-    }
     if (language === "roman" && !stanza.roman) {
-      parent.append(node("p", "recite-empty-edition", romanUnavailable("stanza", hasScan, stanza.number)));
+      parent.append(node("p", "recite-empty-edition",
+        romanUnavailable("stanza", hasScan, position + 1)));
     } else {
-      addBastaText(parent, stanza.printedNumber + "\n" +
-        (language === "urdu" ? stanza.urdu : stanza.roman));
+      const block = renderBastaTextBlock(programmeStanzaNumber(position, language) + "\n" +
+        (language === "urdu" ? stanza.urdu : stanza.roman), true, "auto");
+      // Keep provenance in the document without interrupting recitation.
+      block.dataset.sourceKalam = ref.kalamId;
+      block.dataset.sourceStanza = ref.stanzaId;
+      parent.append(block);
     }
   }
 }

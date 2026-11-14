@@ -74,6 +74,11 @@ test("mobile header scroll lifecycle preserves navigation and keyboard focus", a
 
   // Once the menu is closed, keyboard focus still recovers a hidden header.
   await page.evaluate(() => window.scrollTo({ top: 0, behavior: "instant" }));
+  // The header's scroll handler is coalesced in requestAnimationFrame.
+  // Allow the upward scroll to be observed before the next downward move.
+  await expect.poll(() => page.evaluate(() => window.scrollY)).toBe(0);
+  await page.evaluate(() => new Promise((resolve) =>
+    requestAnimationFrame(() => requestAnimationFrame(resolve))));
   await page.evaluate(() => window.scrollTo({ top: 650, behavior: "instant" }));
   await expect(root).toHaveAttribute("data-mobile-header-hidden", "true");
   await page.evaluate(() => document.querySelector("#theme-toggle").focus({ preventScroll: true }));

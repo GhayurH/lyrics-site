@@ -111,7 +111,13 @@ test("search results index poetry without including metadata controls", async ({
   await expect(source).toHaveCount(1);
   await expect(source).not.toContainText("About this kalam");
   await expect(source).not.toContainText("Original lyric sheet");
+  // All text on page 328 belongs to a verified individual kalam, so
+  // its printed page stays browsable but is not indexed a second time.
   await page.goto("/basta/328/");
+  await expect(page.locator("[data-pagefind-body]")).toHaveCount(0);
+  // Page 140 has an unclaimed fragment alongside verified kalams:
+  // index only that remaining fragment, not the reader controls.
+  await page.goto("/basta/140/");
   const basta = page.locator("[data-pagefind-body]");
   await expect(basta).toHaveCount(1);
   await expect(basta).not.toContainText("Line Spacing");

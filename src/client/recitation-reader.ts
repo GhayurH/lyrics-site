@@ -154,13 +154,15 @@ export async function initRecitationReader(): Promise<void> {
     }
     try {
       const html = await snapshot();
-      // Preserve the complete standalone document (including its doctype)
-      // without the deprecated document.write API.
+      // The blank tab already has an <html> root. Chrome rejects a doctype
+      // inserted alongside it in a single replaceChildren call. Clear first,
+      // then insert doctype before the document element (no document.write).
       const snapshotDocument = new DOMParser().parseFromString(html, "text/html");
-      tab.document.replaceChildren(
-        tab.document.importNode(snapshotDocument.doctype!, true),
-        tab.document.importNode(snapshotDocument.documentElement, true),
-      );
+      const printDocument = tab.document;
+      printDocument.replaceChildren();
+      if (snapshotDocument.doctype)
+        printDocument.appendChild(printDocument.importNode(snapshotDocument.doctype, true));
+      printDocument.appendChild(printDocument.importNode(snapshotDocument.documentElement, true));
       // Printing before the embedded Nastaliq faces load causes silent fallback
       // to Naskh, even though the HTML declares the right font.
       await tab.document.fonts.ready;

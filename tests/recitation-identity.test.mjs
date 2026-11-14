@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { stanzaAnchor, applyRecitationIds, safeStanzaAnchorRefresh, stanzaPageLabel } from "../src/lib/recitation-identity.ts";
+import { stanzaAnchor, applyRecitationIds, safeStanzaAnchorRefresh, planReviewedStanzaChanges, stanzaPageLabel } from "../src/lib/recitation-identity.ts";
 import { bastaKalamId } from "../src/lib/basta-kalam-units.ts";
 
 test("printed Marsiya renumbering preserves locked IDs", () => {
@@ -84,4 +84,86 @@ test("source location labels are precise for multi-page stanzas", () => {
   assert.equal(stanzaPageLabel([212]), "page 212");
   assert.equal(stanzaPageLabel([], 212), "page 212");
   assert.equal(stanzaPageLabel([]), "page unknown");
+});
+
+test("reviewed multi-edit plan preserves exact IDs and does not mutate the lock", () => {
+  const locked = { id: "basta-marsiye-120", key: "Marsiye:120", stanzas:
+    ["A", "B", "C", "D", "E"].map((anchor, i) => ({
+      id: "stanza-" + String(i + 1).padStart(3, "0"), anchor,
+    })) };
+  const current = ["A", "B2", "C2", "D2"].map((anchor, i) => ({
+    id: "stanza-" + String(i + 1).padStart(3, "0"), anchor, pages: [287],
+  }));
+  const edits = new Set(["stanza-002", "stanza-003", "stanza-004"]);
+  const retirement = new Set(["stanza-005"]);
+  assert.deepEqual(planReviewedStanzaChanges(locked, current, edits, retirement), {
+    updates: [
+      { id: "stanza-002", previousAnchor: "B", anchor: "B2", pages: [287] },
+      { id: "stanza-003", previousAnchor: "C", anchor: "C2", pages: [287] },
+      { id: "stanza-004", previousAnchor: "D", anchor: "D2", pages: [287] },
+    ],
+    retiredIds: ["stanza-005"],
+  });
+  assert.equal(locked.stanzas[1].anchor, "B");
+  assert.equal(locked.stanzas[4].retired, undefined);
+});
+
+test("reviewed stanza approvals must account for exactly the changes", () => {
+  const original = ["A", "B", "C"].map((anchor, i) => ({
+    id: "stanza-00" + (i + 1), anchor,
+  }));
+  const lock = { id: "basta-marsiye-121", key: "Marsiye:121", stanzas: original };
+  const current = ["A2", "B2", "C"].map((anchor, i) => ({
+    id: "stanza-00" + (i + 1), anchor,
+  }));
+  assert.throws(() => planReviewedStanzaChanges(
+    lock, current, new Set(["stanza-001"]), new Set()), /Unapproved stanza edit/);
+  assert.throws(() => planReviewedStanzaChanges(
+    lock, current, new Set(["stanza-001", "stanza-002", "stanza-003"]), new Set()),
+  /Unchanged stanza was approved/);
+  assert.throws(() => planReviewedStanzaChanges(
+    lock, current, new Set(["stanza-001", "stanza-099"]), new Set()),
+  /Invalid or retired edit approval/);
+});
+
+test("reviewed mode blocks moved anchors, renumbering and unapproved removals", () => {
+  const original = ["A", "B", "C"].map((anchor, i) => ({
+    id: "stanza-00" + (i + 1), anchor,
+  }));
+  const lock = { id: "basta-marsiye-121", key: "Marsiye:121", stanzas: original };
+  const edits = new Set(["stanza-001", "stanza-002"]);
+  const run = (anchors, ids, removed = new Set()) =>
+    planReviewedStanzaChanges(lock, anchors.map((anchor, i) =>
+      ({ id: ids[i], anchor })), edits, removed);
+  assert.throws(() => run(["B", "A", "C"],
+    ["stanza-001", "stanza-002", "stanza-003"]), /belongs to historical/);
+  assert.throws(() => run(["A2", "B2"],
+    ["stanza-001", "stanza-002"]), /count or order changed/);
+  assert.throws(() => run(["A2", "B2", "C"],
+    ["stanza-001", "stanza-099", "stanza-003"]), /count or order changed/);
+  assert.throws(() => run(["A2", "B2"], ["stanza-001", "stanza-002"],
+    new Set(["stanza-099"])), /Invalid or already retired retirement approval/);
+  assert.throws(() => run(["A2", "B2"], ["stanza-001", "stanza-002"],
+    new Set(["stanza-003", "stanza-002"])), /Invalid or retired edit approval/);
+});
+
+test("reviewed corrections can coexist with previously retired stanzas", () => {
+  const lock = { id: "basta-marsiye-120", key: "Marsiye:120", stanzas: [
+    { id: "stanza-001", anchor: "A" },
+    { id: "stanza-002", anchor: "B" },
+    { id: "stanza-003", anchor: "C", retired: true },
+    { id: "stanza-004", anchor: "D" },
+  ] };
+  assert.deepEqual(planReviewedStanzaChanges(lock, [
+    { id: "stanza-001", anchor: "A2" },
+    { id: "stanza-002", anchor: "B2" },
+    { id: "stanza-004", anchor: "D" },
+  ], new Set(["stanza-001", "stanza-002"]), new Set()).updates.map(x => x.id),
+  ["stanza-001", "stanza-002"]);
+  assert.throws(() => planReviewedStanzaChanges(lock, [
+    { id: "stanza-001", anchor: "A2" },
+    { id: "stanza-002", anchor: "C" },
+    { id: "stanza-004", anchor: "D" },
+  ], new Set(["stanza-001", "stanza-002"]), new Set()),
+  /belongs to historical/);
 });
