@@ -6,56 +6,60 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shams Baltistani"
+reciter: "Mir Rehan Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sogaya asghar mera aur alqama behti rahi
-  Haye bekas bezuban par zindagi roti rahi
-  Haye asghar mere asghar keh ke maa roti rahi
+  So gaya Asghar mera aur Alqama behti rahi
+  Haaye bekas bezubaaṅ par zindagi roti rahi
+
+  Haaye Asghar mere Asghar keh ke maaṅ roti rahi
+  Haaye bekas bezubaaṅ par zindagi roti rahi
 
   1
-  Nanha tha masoom tha aur phool tha uska badan
-  Teer se bhi kam tha logon mere asghar ka wazan
-  Kar ke banoumr bhai ye gham bayan roti rahi
+  Nanha tha maasum tha aur phul tha us ka badan
+  Tir se bhi kam tha logoṅ mere Asghar ka wazan
+  Kar ke Banu umr bhar ye gham bayaaṅ roti rahi
 
   2
-  Teen din ki pyaas ko bhi muskara kar seh gaya
-  Baahon mein shabbir ke asghar tadap kar reh gaya
-  Hurmala maloon ke haathon mein kamaan roti rahi
+  Tin din ki pyaas ko bhi muskura kar seh gaya
+  Baahoṅ mein Shabbir ke Asghar tarap kar reh gaya
+  Hurmala malun ke haathoṅ mein kamaaṅ roti rahi
 
   3
-  Akbar o asghar ka gham us par qayamat kar gaya
-  Qasim e naushaah tukdon mein bikhar kar reh gaya
-  Sun ke zainab baad e karbal bhi azaan roti rahi
+  Akbar o Asghar ka gham us par qayaamat kar gaya
+  Qasim-e-naushaah tukroṅ mein bikhar kar reh gaya
+  Sun ke Zainab baad-e-Karbal bhi azaaṅ roti rahi
 
   4
-  Qabr nanhi si bana kar zakhmi haathon se rabab
-  Dafn kar deti thi aksar us mein ek nanha gulab
-  Hai mera asghar yahan ye keh ke maa roti rahi
+  Qabr nanhi si bana kar zakhmi haathoṅ se Rabaab
+  Dafn kar deti thi aksar us mein ek nanha gulaab
+  Hai mera Asghar yahaaṅ ye keh ke maaṅ roti rahi
 
   5
-  Shaam e ashoora nabi ki aal ka parda luta
-  Nok e naiza se zameen par bawafa ka sar gira
-  Zainab e dilgeer ki khaatir rida roti rahi
+  Shaam-e-Aashura Nabi ki aal ka parda luta
+  Nok-e-neza se zamiṅ par baawafa ka sar gira
+  Zainab-e-dilgir ki khaatir rida roti rahi
 
   6
-  Aayi jab shaam e ghariban zulm had se badh gaya
-  Ek gehwara tha ab wo bhi tumhara jal gaya
-  Dekh kar asghar ke jhoole ke nishan roti rahi
+  Aayi jab shaam-e-gharibaaṅ zulm had se barh gaya
+  Ek gehwaara tha ab wo bhi tumhaara jal gaya
+  Dekh kar Asghar ke jhule ke nishaaṅ roti rahi
 
   7
-  Shaam ke zindan mein maa ko sukoon aata nahi
-  Mera asghar mere pehlu ke bina sota nahi
-  Shams kar ke maa yehi aah o fughan roti rahi
+  Shaam ke zindaaṅ mein maaṅ ko sukuṅ aata nahiṅ
+  Mera Asghar mere pehlu ke bina sota nahiṅ
+  Shams kar ke maaṅ yehi aah o fughaaṅ roti rahi
 # source_id: nohayonline:763749f330feec3b9a57
 # source_url: https://www.nohayonline.com/details_content.php?id=2116
 # raw_sha256: 8b925e98dc0699801aed3691b6f23f1798a38b4f3c7a9c0e109d732d3b16ea1b
 ---
-
 سو گیا اصغر میرا اور علقمہ بہتی رہی
-ہاے بیکس بے زباں پر زندگی روتی رہی
-ہاے اصغر میرے اصغر کہہ کے ماں روتی رہی
+ہائے بیکس بے زباں پر زندگی روتی رہی
+
+ہائے اصغر میرے اصغر کہہ کے ماں روتی رہی
+ہائے بیکس بے زباں پر زندگی روتی رہی
 
 ۱
 ننھا تھا معصوم تھا اور پھول تھا اس کا بدن
@@ -83,7 +87,7 @@ romanLyrics: |-
 زینبِ دلگیر کی خاطر ردا روتی رہی
 
 ۶
-آی جب شام غریباں ظلم حد سے بڑھ گیا
+آئی جب شام غریباں ظلم حد سے بڑھ گیا
 ایک گہوارہ تھا اب وہ بھی تمہارا جل گیا
 دیکھ کر اصغر کے جھولے کے نشاں روتی رہی
 

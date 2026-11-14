@@ -6,36 +6,37 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"
+reciter: "Mukhtar Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sitam ye kya sar e baghdad dhaaya jaata hai
-  Janaza bediyon may bhi uthaya jaata hai
+  Sitam ye kya sar-e-Baghdad dhaaya jaata hai
+  Janaaza beriyoṅ mein bhi uthaaya jaata hai
 
   1
-  Aseer e shaam ka pota hai qaidi e baghdad
-  Ohad ka badla abhi tak chukaya jaata hai
+  Asir-e-Shaam ka pota hai qaidi-e-Baghdad
+  Ohad ka badla abhi tak chukaaya jaata hai
 
   2
-  Musfiron ke liye kya nahi hai qabrastan
-  Janaza kya kabhi pull pe padhaya jaata hai
+  Musaafiroṅ ke liye kya nahiṅ hai qabristaan
+  Janaaza kya kabhi pul pe parhaaya jaata hai
 
   3
   Hai naize seene ki jaanib to kuch hai pusht ki simt
-  Ruku chauda baras se nibhaya jaata hai
+  Ruku chauda baras se nibhaaya jaata hai
 
   4
-  Utha ke laaye hai mazdoor laash zindan se
-  Ghareebi kehte hai kis ko bataya jaata hai
+  Utha ke laaye haiṅ mazdur laash zindaaṅ se
+  Gharibi kehte haiṅ kis ko bataaya jaata hai
 
   5
-  Na betiyon hi ka baghdad aana hai mumkin
-  Na baap hi se madine ko jaaya jaata hai
+  Na betiyoṅ hi ka Baghdad aana hai mumkin
+  Na baap hi se Madine ko jaaya jaata hai
 
   6
-  Janabe zehra ke masoom bachon ko akbar
-  Bata ke deen ke baaghi sataya jaata hai
+  Janaab-e-Zehra ke maasum bachchoṅ ko Akbar
+  Bata ke din ke baaghi sataaya jaata hai
 # source_id: nohayonline:c504e3efa732ee15e459
 # source_url: https://www.nohayonline.com/details_content.php?id=2085
 # raw_sha256: 756ba4969cf7b7911e1c62316b884742ff5790b09babbc49e6189190bace2b0f
@@ -44,7 +45,7 @@ romanLyrics: |-
 جنازہ بیڑیوں میں بھی اٹھایا جاتا ہے
 
 ۱
-اسیر شام کا پوتا ہے قیدیء بغداد
+اسیرِ شام کا پوتا ہے قیدیِ بغداد
 عہد کا بدلہ ابھی تک چکایا جاتا ہے
 
 ۲
@@ -56,7 +57,7 @@ romanLyrics: |-
 رکوع چودہ برس سے نبھایا جاتا ہے
 
 ۴
-اٹھا کے لاے ہیں مزدور لاش زنداں سے
+اٹھا کے لائے ہیں مزدور لاش زنداں سے
 غریبی کہتے ہیں کس کو بتایا جاتا ہے
 
 ۵

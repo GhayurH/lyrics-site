@@ -6,57 +6,64 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Safdar Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Baithe thay jale qaimon mein sadaat be amaan
-  Sehmi hui thi bibiyan bache thay hirasan
-  Zainab ne sun ke dukhtar e shabbir ki fughan
-  Bachi ke ashk ponch ke di yun tasalliyan
+  Baithe the jale khaimoṅ mein saadaat beamaaṅ
+  Sehmi hui thi bibiyaaṅ bachche the hiraasaaṅ
+  Zainab ne sun ke dukhtar-e-Shabbir ki fughaaṅ
+  Bachchi ke ashk poṅchh ke di yuṅ tasalliyaaṅ
 
-  Baba ke badle mai tujhe seene pe sulaaun
-  So jao sakina
-  Tum band karo aankhein mai lori sunaaun
-  So jao sakina
-  Baba to nahi mai tumhe pehlu mein sulaaun
-  So jao sakina
+  Baba ke badle main tujhe sine pe sulaauṅ
+  So jaao Sakina
+  Tum band karo aaṅkheiṅ main lori sunaauṅ
+  So jaao Sakina
+  Baba to nahiṅ main tumheiṅ pehlu mein sulaauṅ
+  So jaao Sakina
 
   1
-  Aankhein ko karo band to phir khwaab dikhega
-  Aa jayenge phir khwaab mein milne tumhe baba
-  Wo aa nahi sakte yahan ye kaise bataaun
+  Aaṅkheiṅ ko karo band to phir khwaab dikhega
+  Aa jaayeṅge phir khwaab mein milne tumheiṅ Baba
+  Wo aa nahiṅ sakte yahaaṅ ye kaise bataauṅ
+  So jaao Sakina
 
   2
-  Maana ke bahot dard hai zakhmon mein tumhare
-  Zaalim ne gohar cheen ke kaano se utaare
-  Mai ashkon ka marham tere zakhmon pe lagaaun
+  Maana ke bahut dard hai zakhmoṅ mein tumhaare
+  Zaalim ne gohar chhin ke kaanoṅ se utaare
+  Main ashkoṅ ka marham tere zakhmoṅ pe lagaauṅ
+  So jaao Sakina
 
   3
-  Shehzadi yuhin ab tumhe karna hai guzara
-  Qaimon ki jali khaak hi bistar hai tumhara
-  Hai garm zameen is liye zaano pe litaaun
+  Shehzaadi yuṅhi ab tumheiṅ karna hai guzaara
+  Khaimoṅ ki jali khaak hi bistar hai tumhaara
+  Hai garm zamiṅ is liye zaanoṅ pe litaauṅ
+  So jaao Sakina
 
   4
-  Baba ke bina ab tumhe jeena hai meri jaan
+  Baba ke bina ab tumheiṅ jina hai meri jaan
   Gham baap ki furqat ka bhi sehna hai meri jaan
-  Khud apni yateemi ka mai ehwaal sunaaun
+  Khud apni yatimi ka main ahwaal sunaauṅ
+  So jaao Sakina
 
   5
-  Laayegi abhi zauja e hurr koozon mein pani
-  Mit jayegi kuch dayr mein ye tashna dahani
-  Phil waqt tujhe neend ka ehsaas dilaaun
+  Laayegi abhi zauja-e-Hur kuzoṅ mein paani
+  Mit jaayegi kuch der mein ye tashna dahaani
+  Phil waqt tujhe nind ka ehsaas dilaauṅ
+  So jaao Sakina
 
   6
-  Zainab ka bayan sunte hi ay safdar o mazhar
-  Kuch dayr ko neend aagayi bachi ko zameen par
-  Ye sheh ne kaha khwaab mein seene pe sulaaun
+  Zainab ka bayaaṅ sunte hi Ae Safdar o Mazhar
+  Kuch der ko nind aa gayi bachchi ko zamiṅ par
+  Ye Sheh ne kaha khwaab mein sine pe sulaauṅ
+  So jaao Sakina
 # source_id: nohayonline:45d48aca41f4e7f05af9
 # source_url: https://www.nohayonline.com/details_content.php?id=1716
 # raw_sha256: cc8ad3cfedaff4a95a15123b5c59996c63de83b885f4852667584bce08681abd
 ---
 بیٹھے تھے جلے خیموں میں سادات بے اماں
-سہمی ہوی تھی بی بیاںبچے تھے حراساں
+سہمی ہوئی تھی بیبیاں بچے تھے حراساں
 زینب نے سن کے دختر شبیر کی فغاں
 بچی کے اشک پونچھ کے دی یوں تسلیاں
 
@@ -69,30 +76,36 @@ romanLyrics: |-
 
 ۱
 آنکھیں تو کرو بند تو پھر خواب دکھے گا
-آ جاےنگے پھر خواب میں ملنے تمہیں بابا
+آ جائیں گے پھر خواب میں ملنے تمہیں بابا
 وہ آ نہیں سکتے یہاں یہ کیسے بتاؤں
+سو جاؤ سکینہ
 
 ۲
 مانا کے بہت درد ہے زخموں میں تمہارے
 ظالم نے گوہر چھین کے کانوں سے اتارے
-میں اشکوں کا مرحم تیرے زخموں پہ لگاؤں
+میں اشکوں کا مرہم تیرے زخموں پہ لگاؤں
+سو جاؤ سکینہ
 
 ۳
 شہزادی یونہی اب تمہیں کرنا ہے گزارا
 خیموں کی جلی خاک ہی بستر ہے تمہارا
-ہے گرم زمیں اس لےء زانوں پہ لٹاوں
+ہے گرم زمیں اس لیے زانوں پہ لٹاؤں
+سو جاؤ سکینہ
 
 ۴
 بابا کے بنا اب تمہیں جینا ہے میری جان
 غم باپ کی فرقت کا بھی سہنا ہے میری جان
 خود اپنی یتیمی کا میں احوال سناؤں
+سو جاؤ سکینہ
 
 ۵
-لاے گی ابھی زوجہء حر کوزوں میں پانی
-مٹ جاے گی کچھ دیر میں تشنہ دہانی
+لائے گی ابھی زوجۂ حر کوزوں میں پانی
+مٹ جائے گی کچھ دیر میں تشنہ دہانی
 پھر وقت تجھے نیند کا احساس دلاؤں
+سو جاؤ سکینہ
 
 ۶
 زینب کا بیاں سنتے ہی اے صفدر و مظہر
-کچھ دیر کو نیند آ گیء بچی کو زمیں پر
+کچھ دیر کو نیند آ گئی بچی کو زمیں پر
 یہ شہ نے کہا خواب میں سینے پہ سلاؤں
+سو جاؤ سکینہ
