@@ -54,6 +54,10 @@ romanLyrics: |-
 # source_id: nohayonline:74e91115846a4d3508dd
 # source_url: https://www.nohayonline.com/details_content.php?id=194
 # raw_sha256: 40bbb326ec41dd498750008600a8f65704a7b6e24d8463ac14e42930f5ffe23c
+# additional_source_id: nohawriteups:14828040abaa25b50a57
+# additional_source_url: https://www.nohawriteups.org/ay-mere-hussain-as-salam-ay-mere-imam-as-salam/
+# additional_raw_sha256: 59f5d9431879557273258be28dd50cfdc00b709f56b428ae3cc628cb17574e08
+# additional_source_note: All six stanzas match existing bilingual edition, with no substantive additions.
 ---
 
 اے میرے حسین السلام

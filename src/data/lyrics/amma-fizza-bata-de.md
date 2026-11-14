@@ -75,6 +75,10 @@ reciter: Mir Hassan Mir
 # source_id: ziyaraat:42d7fd263da2e273386c
 # source_url: https://www.ziyaraat.net/api/noha/446
 # raw_sha256: 559a0214b36fd633616e3252d74328515286d6fc4cf93812e476d815d6542c89
+# additional_source_id: nohawriteups:15f9fb261f68a96a26e1
+# additional_source_url: https://www.nohawriteups.org/amma-fizza-bata-day-mujhko-pathar-kyun-aa-rahay-hain/
+# additional_raw_sha256: 58037cab53e3a26bd16058ead403efdc9ee091810ea2902af21908d99959e555
+# additional_source_note: Six NohaWriteups stanzas are present in nine-stanza existing bilingual edition; canonical extra verses retained.
 ---
 
 اماں فضہ بتا دے مجھ کو پتھر کیوں آ رہے ہیں

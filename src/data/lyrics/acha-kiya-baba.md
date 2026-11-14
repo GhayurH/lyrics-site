@@ -64,6 +64,10 @@ romanLyrics: |-
 # source_id: nohayonline:a9bc16742df9b864ca1a
 # source_url: https://www.nohayonline.com/details_content.php?id=21
 # raw_sha256: 985327eaa1ddbce27ebf7129f4d3b1af74bdecce36b1129233c317498d5b6cd9
+# additional_source_id: nohawriteups:1624b3d5b1018132544d
+# additional_source_url: https://www.nohawriteups.org/acha-kiya-baba/
+# additional_raw_sha256: 70ed99bf0a015e3f982f984e6febe2468b174f57738ece598e82529463eeebb4
+# additional_source_note: All eight source stanzas match the existing bilingual poem, no extra unique verses.
 ---
 
 چاہت کا میری کیسا یہ مجھ کو صِلا دیا

@@ -40,6 +40,10 @@ romanLyrics: |-
 # source_id: nohayonline:7480fb3bb50bdc9a7439
 # source_url: https://www.nohayonline.com/details_content.php?id=531
 # raw_sha256: ac34f1008763b97adbd9096d869b4ee508b2a42f73f4a9abb72b173d2b1646c7
+# additional_source_id: nohawriteups:142493a6cb9826794897
+# additional_source_url: https://www.nohawriteups.org/dekhe-to-koi-raunaq-maqtal-may-zara-aake/
+# additional_raw_sha256: 86e07e38a2a56903d1a026ce3ee3ba064600bdfeb341b906adf93a7cff92d64c
+# additional_source_note: All six source couplets in existing bilingual poem; stanza five source has "Shabbir ne jab aa ke" vs canonical "Shabbir ne ghabraa ke" (editorial variant only).
 ---
 
 دیکھے تو کوئی رونق مقتل میں ذرا آکے
