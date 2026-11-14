@@ -6,48 +6,49 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Arsalan Azmi"
+reciter: "Kazmi Brothers"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Tu bekafan hai baba aur mai hoon berida
-  Naize pe sar tumhara rasan mein mera gala
+  Tu bekafan hai baba aur main huṅ berida
+  Naize pe sar tumhaara rasan mein mera gala
 
   1
-  Ruk jaane pe lagaye durre mujhe layeen ne
-  Chalti hoon to rasan se ghut'ta hai dam mera
+  Ruk jaane pe lagaaye durre mujhe laiṅ ne
+  Chalti huṅ to rasan se ghutta hai dam mera
 
   2
-  Hum sar se paaon tak hai zakhmon se choor dono
-  Patthar tumhe laga hai durra mujhe laga
+  Ham sar se paaoṅ tak hai zakhmoṅ se chur donoṅ
+  Patthar tumheiṅ laga hai durra mujhe laga
 
   3
-  Har ek qadam pe hum ko maare gaye tamache
+  Har ek qadam pe ham ko maare gaye tamaache
   Zakhmi hai gaal mere zakhmi hai sar tera
 
   4
-  Ungli tumhari kaati angushtari ki khaatir
-  Do baaliyon ki khaatir maara mujhe gaya
+  Ungli tumhaari kaati angushtari ki khaatir
+  Do baaliyoṅ ki khaatir maara mujhe gaya
 
   5
-  Zaalim ne jab pukara mujhko kaneez keh kar
-  Deti rahi mai baba ro kar tumhe sada
+  Zaalim ne jab pukaara mujh ko kaniz keh kar
+  Deti rahi main baba ro kar tumheiṅ sada
 
   6
-  Aisa safar na dekhein ab koi baap beti
-  Kaanton pe mai chali hoon naize pe tu chala
+  Aisa safar na dekheiṅ ab koi baap beti
+  Kaaṅtoṅ pe main chali huṅ naize pe tu chala
 
   7
   Naize se is liye bhi girta hai sar chacha ka
-  Mujhko gira gira ke haste hai ashqiya
+  Mujh ko gira gira ke haṅste haiṅ ashqiya
 
   8
-  Khaake shifa bana hai baba kafan tumhara
+  Khaak-e-shifa bana hai baba kafan tumhaara
   Mera kafan bana hai kurta jala hua
 
   9
-  Azlaan ye masayeb sajjad ne sune thay
-  Chalees saal uski aankhon se khoon baha
+  Azlaan ye masaaib Sajjad ne sune the
+  Chaalis saal us ki aaṅkhoṅ se khuṅ baha
 # source_id: nohayonline:df4e38e935d8358228e2
 # source_url: https://www.nohayonline.com/details_content.php?id=3637
 # raw_sha256: 97eef2b70c0f49ef4e172d4615fe262caa7f5959a2bf2a91b4c5d6098b8e94bb
@@ -56,15 +57,15 @@ romanLyrics: |-
 نیزے پہ سر تمہارا رسن میں میرا گلا
 
 ۱
-رک جانے پہ لگاے درے مجھے لعیں نے
-چلتی ہوں تو رسن سے گھٹتا ہے دم‌ میرا
+رک جانے پہ لگائے درے مجھے لعیں نے
+چلتی ہوں تو رسن سے گھٹتا ہے دم میرا
 
 ۲
 ہم سر سے پاؤں تک ہے زخموں سے چور دونوں
 پتھر تمہیں لگا ہے درہ مجھے لگا
 
 ۳
-ہر ایک قدم پہ ہم کو مارے گےء طمانچے
+ہر ایک قدم پہ ہم کو مارے گئے طمانچے
 زخمی ہے گلا میرے زخمی ہے سر تیرا
 
 ۴
@@ -72,7 +73,7 @@ romanLyrics: |-
 دو بالیوں کی خاطر مارا مجھے گیا
 
 ۵
-ظالم نے جب پکارا مجھکو کنیز کہہ کر
+ظالم نے جب پکارا مجھ کو کنیز کہہ کر
 دیتی رہی میں بابا رو کر تمہیں صدا
 
 ۶
@@ -80,11 +81,11 @@ romanLyrics: |-
 کانٹوں پہ میں چلی ہوں نیزے پہ تو چلا
 
 ۷
-نیزے سے اس لئے بھی گرتا ہے سر چچا کا
-مجھکو گرا گرا کے ہنستے ہیں اشقیاء
+نیزے سے اس لیے بھی گرتا ہے سر چچا کا
+مجھ کو گرا گرا کے ہنستے ہیں اشقیاء
 
 ۸
-خاک شفا بنا ہے بابا کفن تمہارا
+خاکِ شفا بنا ہے بابا کفن تمہارا
 میرا کفن بنا ہے کرتہ جلا ہوا
 
 ۹
