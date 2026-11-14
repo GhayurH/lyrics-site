@@ -16,147 +16,148 @@ published: false
 # source_id: tajpoints:94a06b153227ebe68791
 # source_url: https://tajpoints.com/2017/02/suno-siffeen-suno-7-12.html
 # raw_sha256: 3358d7b21cd81ae7978b3556b35a55f3829ffdce97fbec12a16f1bc07c89ebf4
-# https://tajpoints.com/2017/02/suno-siffeen-suno-13-17.html
+# source_id: tajpoints:de5932ec6caa8259f901
+# source_url: https://tajpoints.com/2017/02/suno-siffeen-suno-13-17.html
+# raw_sha256: b69851ee284c30834ff583dd4af23a7acd984a09e7714fd85f2491b2b0db2fa9
 romanLyrics: |-
-  
-  Quran-e-Shujat Se Main Yaseen Sunao
-  Dil Walo Safein Bandho Main Siffeen Sunao
-  
+  Quran-e-Shujaat se main Yaasin sunauṅ
+  Dil walo safeṅ baandho main Siffeen sunauṅ
+
   1
-  Kya Khaima-e-Haider Mein Hai Siffeen Ka Manzar
-  Jhurmat Mein Sitaron Ki Hai Ik Chand Zameen Par
-  Haider Ke Pisar Charon Taraf Beech Mein Haider
-  Yeh Dehk Ke Hairan Hai Khud Malik-e-Ashtar
-  Aina-e-Noor Aik Sabhi Aks-e-Jali Hain
-  Mula Kahon Kis Ko Yahan Sare Hi Ali Hain
-  
+  Kya khaima-e-Haider mein hai Siffeen ka manzar
+  Jhurmat mein sitaaroṅ ki hai ik chaand zamiṅ par
+  Haider ke pisar chaaroṅ taraf bich mein Haider
+  Yeh dekh ke hairaan hai khud Malik-e-Ashtar
+  Aaina-e-Nur ek sabhi aks-e-jali haiṅ
+  Maula kahuṅ kis ko yahaaṅ saare hi Ali haiṅ
+
   2
-  Beton Se Mukhatib Howa Imran Ka Beta
-  Dil Mujh Se Yeh Kehta Hai Mera Ae Bani Zarha
-  Yani Hai Yeh Khliq Ke Irade Ka Iradah
-  Maidaan Mein Lare Aaj Koi Beta Ali Ka
-  Khul Jaye Keh Waliyon Ka Wali Larta Hai Kaise
-  Main Bhi Tu Zara Dekho Ali Larta Hai Kaise
-  
+  Betoṅ se mukhaatib hua Imran ka beta
+  Dil mujh se yeh kehta hai mera Ae Bani Zahra
+  Yaani hai yeh Khaaliq ke iraade ka iraada
+  Maidaan mein lare aaj koi beta Ali ka
+  Khul jaaye ke waliyoṅ ka wali larta hai kaise
+  Main bhi to zara dekhuṅ Ali larta hai kaise
+
   3
-  Ik Goshe Se Sun Kar Yeh Utha Koi Dilawar
-  Qad Terah Baras Mein Abu Talib Ke Baraber
-  Soran Mein ALi Hamza Sifat Azam Mein Jaffar
-  Sar Tabaa Qadam Qudrat-e-Maboot Ka Paiker
-  Zahra Ki Sada Ayi Ke Almas Lare Ga
-  Hasnain Ke Baba Mera Abbas Lare Ga
-  
+  Ik goshe se sun kar yeh utha koi dilaawar
+  Qad terah baras mein Abu Talib ke baraabar
+  Soran mein Ali Hamza sifat azm mein Jafar
+  Sar taa ba qadam qudrat-e-Maboot ka paikar
+  Zahra ki sada aai ke almaas lare ga
+  Hasnain ke baba mera Abbas lare ga
+
   4
-  Goya Howa Phir Dast-e-Adab Joor Ke Zaigham
-  Ae Mehram-e-Asrar-e-Khuda Khaliq-e-Adam
-  Hasrat Hai Hamari Bhi Larai Yeh Larein Hum
-  Wadah Raha Yeh Aap Se Ae Qibla-e-Aalam
-  Zahra Ki Tamana ka Aakas Na Kehna
-  Dushman Na ALi Keh Dein Tu Abbas Na Kehna
-  
+  Goya hua phir dast-e-adab jor ke Zaigham
+  Ae mahram-e-asraar-e-Khuda Khaaliq-e-Adam
+  Hasrat hai hamaari bhi laraai yeh lareṅ hum
+  Waada raha yeh aap se Ae qibla-e-aalam
+  Zahra ki tamanna ka Aakas na kehna
+  Dushman na Ali keh deṅ to Abbas na kehna
+
   5
-  Saj Ban Giya Kaime Mein Jo Haider Ka Dulara
-  Sadqa Mere Ghazi Ka Wafaon Ne Utara
-  Chehre Pe Naqab Aap Yeh Karta Tha Ishara
-  Tareekh Ne Dekha Kahan Phir Aisa Nazara
-  Parde Mein Kuch Is Tarha Se Abbas-e-Jali The
-  Jaise Pas-e-Parda Mairaj Ali The
-  
+  Saj ban gaya khaime mein jo Haider ka dulaara
+  Sadqa mere Ghazi ka wafaaoṅ ne utaara
+  Chehre pe naqaab aap yeh karta tha ishaara
+  Taarikh ne dekha kahaaṅ phir aisa nazaara
+  Parde mein kuchh is tarah se Abbas-e-jali the
+  Jaise pas-e-parda Mairaaj Ali the
+
   6
-  Khaime Se Baramad Howa Haider ka Ghazanfar
-  Ghaiz o Ghazab o Roab o Jalal Aye Ghazab Par
-  Tiyar Nazar Aya Jo Lashkar Pas-e-Lashkar
-  Jibreel Ne Dam Nad-e-Ali Kar Li Paron Par
-  Haibat Thi Ajab Saans Farishton Ke Charhe The
-  Khud Maut Se Chup Kar Malakul Maut Khare The
-  
+  Khaime se baraamad hua Haider ka Ghazanfar
+  Ghaiz o ghazab o rob o jalaal aaye ghazab par
+  Taiyaar nazar aaya jo lashkar pas-e-lashkar
+  Jibril ne dam Naad-e-Ali kar li paroṅ par
+  Haibat thi ajab saans farishtoṅ ke charhe the
+  Khud maut se chhup kar Malakul Maut khare the
+
   7
-  Kis Shair Ki Aamad Hai Ke Ran Kanp Raha Hai
-  Ran Aik Taraf Charkh-e-Kahan Kanp Raha Hai
-  Rustam Ka Badan Zair-e-Kafan kanp Raha Hai
-  Har Qasar-e-Salateen-e-Zaman Kanp Raha Hai
-  Shamsheer Bakaf Dekh Ke Haider Ke Pisar Ko
-  Jibreel Larazte Hain Samete Howay Par Ko
-  
+  Kis sher ki aamad hai ke ran kaanp raha hai
+  Ran ek taraf charkh-e-kahan kaanp raha hai
+  Rustam ka badan zer-e-kafan kaanp raha hai
+  Har qasr-e-salaatin-e-zamaaṅ kaanp raha hai
+  Shamshir bakaf dekh ke Haider ke pisar ko
+  Jibril larazte haiṅ samete hue par ko
+
   8
-  Kis Shair Ka Maidaan Mein Utarta Hai Jigar Band
-  Adda Pe Kiya Muat Ne Har Zeest Ka Dar Band
-  Munh Kholein Hain Hairat Se Zubane Hain Magar Band
-  Lashkar Howa Nazron Mein Dilawar Ki Nazar Band
-  Tauba Ka Na Dar Rehmat-e-Aalam Ka Khula Hai
-  Sab Band Hain Bas Rasta Jahanum Ka Khula Hai
-  
+  Kis sher ka maidaan mein utarta hai jigar band
+  Aada pe kiya maut ne har zist ka dar band
+  Munh khole haiṅ hairat se zabaaneṅ haiṅ magar band
+  Lashkar hua nazroṅ mein dilaawar ki nazar band
+  Tauba ka na dar rahmat-e-aalam ka khula hai
+  Sab band haiṅ bas raasta jahannam ka khula hai
+
   9
-  Jis Samt Chala Taig Uthaye Wo Buhadur
-  Sab Tair Arwaah Urey Jismo Se Pur Pur
-  Dehshat Se Tha Har Aik Guru Bhole Howay Gur
-  Tha Taig Ki Jahnkar Mein Panchum Ka Ajab Sur
-  Awaz Yehi Ahl-e-Daga Detey The Bhago
-  Sab Raag Pahari Mein Sada Detey The Bhago
-  
+  Jis samt chala tegh uthaae woh bahaadur
+  Sab taair-e-arwaah ure jismoṅ se par par
+  Dahshat se tha har ek guru bhule hue gur
+  Tha tegh ki jhankaar mein pancham ka ajab sur
+  Aawaaz yehi ahl-e-dagha dete the bhaago
+  Sab raag pahaari mein sada dete the bhaago
+
   10
-  Yakbar Kiya Shair Ne Hamla Jo Jhapat Kar
-  Paton Ki Tarha Jism Ki Shakho Se Gire Sar
-  San San Jo Chali Taig Ulatne Lage Lashkar
-  Paigham Ali Ka Ye Hawa Ne Diya Aa Kar
-  Arey Dil Khool Ke Lar Lo Na Taradood Mein Raho Tum
-  Abbas Yahin Rook Doon Suraj Jo Kaho Tum
-  
+  Yak baar kiya sher ne hamla jo jhapat kar
+  Pattoṅ ki tarah jism ki shaakhoṅ se gire sar
+  San san jo chali tegh ulatne lage lashkar
+  Paighaam Ali ka yeh hawa ne diya aa kar
+  Are dil khol ke lar lo na taraddud mein raho tum
+  Abbas yahiṅ rok duṅ suraj jo kaho tum
+
   11
-  Talwar Se Dar Dar Ke Nidar Bhag Rahe The
-  Thi Maut Udhar Ran Mein Jidhar Bhag Rahe The
-  Bhaga Nahi Jata Tha Magar Bhag Rahe The
-  Jaldi Mein Badan Choor Ke Sar Bhag Rahe The
-  Sans Un Ke Ruke The Keh Jo Maidaan Mein Ruke The
-  Zindoon Ki Yeh Halat Thi Ke Murdoon Mein Chupe The
-  
+  Talwaar se dar dar ke nidar bhaag rahe the
+  Thi maut udhar ran mein jidhar bhaag rahe the
+  Bhaaga nahiṅ jaata tha magar bhaag rahe the
+  Jaldi mein badan chhor ke sar bhaag rahe the
+  Saans un ke ruke the ke jo maidaan mein ruke the
+  Zindoṅ ki yeh haalat thi ke murdoṅ mein chhupe the
+
   12
-  Kehti Thi Ajal Dasht Se Be-Jaan Samaito
-  Yeh Hath Yeh Sar Jism Yeh Dandaan Samaito
-  Ae Zakhmiyo Bikhre Howay Osaan Samaito
-  Ghar Jao Meri Maan Lo Saman Samaito
-  Marte Ho Jawani Mein Ajab Zauq Hai Tum Ko
-  Kya Khudkushi Karne Ka bohat Shauq Hai Tum Ko
-  
+  Kehti thi ajal dasht se bejaan sameto
+  Yeh haath yeh sar jism yeh dandaan sameto
+  Ae zakhmiyo bikhre hue ausaan sameto
+  Ghar jaao meri maan lo saamaan sameto
+  Marte ho jawaani mein ajab zauq hai tum ko
+  Kya khudkushi karne ka bahut shauq hai tum ko
+
   13
-  Tareekh Sunaati Hai Yeh Siffeen Ka Qisa
-  Maidaan Mein Jo Aye Pisran-e-Bin-e-Shasa
-  Nagan Ke Sapole The Magar Wah Reh Hamla
-  Musa Ke Assa Ki Tarha Sab Kha Giya Naiza
-  Saton Pe Bazurgon Ke Sabaq Kar Diye Roshan
-  Do Aise Kiye Chodah Tabaq Kar Diye Roshan
-  
+  Taarikh sunaati hai yeh Siffeen ka qissa
+  Maidaan mein jo aaye Pisran-e-Bin-e-Shasa
+  Naagan ke sapole the magar waah re hamla
+  Musa ke asa ki tarah sab kha gaya neza
+  Saatoṅ pe buzurgoṅ ke sabaq kar diye roshan
+  Do aise kiye chaudah tabaq kar diye roshan
+
   14
-  Dil Mein Yehi Kehta Raha Sarwar Ka Alamdar
-  Phir Moqa Mile Ya Na Mile Ae Meri Talwar
-  Taiz Our Zara Taiz Zara Taiz Ho Raftar
-  Ae Kash Mujhe Rokein Na Ab Haider-e-Karar
-  Haq Kar Doon Adda Fatima Zahra Ke Namak Ka
-  Arey Badla Abhi Le Loon Ga Main Inn Sab Se Fidaq Ka
-  
+  Dil mein yehi kehta raha Sarwar ka alamdaar
+  Phir mauqa mile ya na mile Ae meri talwaar
+  Tez aur zara tez zara tez ho raftaar
+  Ae kaash mujhe rokeṅ na ab Haider-e-Karraar
+  Haq kar duṅ ada Fatima Zahra ke namak ka
+  Are badla abhi le luṅ ga main in sab se Fadak ka
+
   15
-  Maidaan Se Utha Shoor Ali Hai Yeh Ali Hai
-  Kehte The Fidaq Khoor Ali Hai Yeh Ali Hai
-  Bole Yeh Woh Be-Door Ali Hai Yeh Ali Hai
-  Arey Bilkul Hai Wohi Zoor Ali Hai Yeh Ali Hai
-  Sar Oss Ka Urey Ga Jo Kabhi Iss Se Aray Ga
-  Allah Ki Taqat Se Bhala Kaun Lare Ga
-  
+  Maidaan se utha shor Ali hai yeh Ali hai
+  Kehte the Fadak khor Ali hai yeh Ali hai
+  Bole yeh woh bedur Ali hai yeh Ali hai
+  Are bilkul hai wohi zor Ali hai yeh Ali hai
+  Sar us ka ure ga jo kabhi is se are ga
+  Allah ki taaqat se bhala kaun lare ga
+
   16
-  Shabir Bhi Kehne Lage Kya Khoob Kiya Kaam
-  Do Hath Mein Hi Kar Diya Kuffar Mein Kuhram
-  In Hathon Se Hone Hain Abhi Our Bohat Kam
-  Bahi Hai Tere Waste Bahi Ka Yeh Inam
-  To Aye Ga Ae Shair Palat Kar Jo Hadaf Se
-  Main Bazoo Dabaon Ga Tere Maa Ki Taraf Se
-  
+  Shabbir bhi kehne lage kya khub kiya kaam
+  Do haath mein hi kar diya kuffaar mein kohraam
+  In haathoṅ se hone haiṅ abhi aur bahut kaam
+  Bhaai hai tere waaste bhaai ka yeh inaam
+  Tu aaye ga Ae sher palat kar jo hadaf se
+  Main baazu dabaauṅ ga teri maa ki taraf se
+
   17
-  Haider Ne Naqab Aa Ke Uthai Jo Takallum
-  Abbas Ke Honton Pe Nazar Aya Tabasum
-  Baqi Jo Bache The Wo Howay Dekh Ke Gum Sum
-  Maula Ne Kaha Sham Ke Lashkar Se Suno Tum
-  Yeh Fatima Zahra Ki Duaon Ka Asar Hai
-  Yeh Jan Lo Sab Yeh Bani Hashim Ka Qamar Hai
+  Haider ne naqaab aa ke uthaai jo Takallum
+  Abbas ke hontoṅ pe nazar aaya tabassum
+  Baaqi jo bache the woh hue dekh ke gum sum
+  Maula ne kaha Shaam ke lashkar se suno tum
+  Yeh Fatima Zahra ki duaaoṅ ka asar hai
+  Yeh jaan lo sab yeh Bani Hashim ka qamar hai
 ---
 
 قرآنِ شجاعت سے میں یٰسین سناؤں
