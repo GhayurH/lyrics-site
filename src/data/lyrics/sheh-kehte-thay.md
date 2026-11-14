@@ -6,58 +6,59 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Mir Rehan Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sheh kehte thay ye haath hatao akbar
-  Barchi kahan khaayi hai dikhao ali akbar
+  Sheh kehte the ye haath hataao Ali Akbar
+  Barchhi kahaaṅ khaayi hai dikhaao Ali Akbar
 
   1
-  Afsos hamein laash tumhari hai uthaani
-  Hum to ye jo chaaha tha mere yusuf e saani
-  Maa baap ka tum laasha uthao ali akbar
+  Afsos hameiṅ laash tumhaari hai uthaani
+  Hum to ye jo chaaha tha mere Yusuf-e-Saani
+  Maaṅ baap ka tum laasha uthaao Ali Akbar
 
   2
-  Ye zakhm nahi pehlu e maadar se to bad kar
-  Ghabrao na hum sabr karenge mere dilbar
-  Baba se na seene ko chupao ali akbar
+  Ye zakhm nahiṅ pehlu-e-maadar se to barh kar
+  Ghabraao na hum sabr kareiṅ ge mere dilbar
+  Baba se na sine ko chhupaao Ali Akbar
 
   3
-  Baazu se pakad kar hamein ghurbat yahan laayi
+  Baazu se pakar kar hameiṅ ghurbat yahaaṅ laayi
   Hum ne jo uthaani thi aziyat wo uthaayi
-  Sharminda na ho nazrein milao ali akbar
+  Sharminda na ho nazreiṅ milaao Ali Akbar
 
   4
-  Jeene nahi degi tumhe zaalim ki ye barchi
-  Maqtal mein tumhare zara bemaar behan ki
-  Kuch dayr to baatein kare aao ali akbar
+  Jine nahiṅ de gi tumheiṅ zaalim ki ye barchhi
+  Maqtal mein tumhaare zara bimaar behan ki
+  Kuchh der to baateiṅ kareiṅ aao Ali Akbar
 
   5
-  Jo dil mein thay zainab ke wo armaan badhaloon
-  Is khoon bhare chehre pe mai sehra to sajaloon
-  Tehro abhi dunya se na jao ali akbar
+  Jo dil mein the Zainab ke wo armaan barha luṅ
+  Is khuṅ bhare chehre pe main sehra to saja luṅ
+  Thehro abhi duniya se na jaao Ali Akbar
 
   6
-  Maine to sada di thi wo uth'ta nahi gulfaam
-  Nazdeek hai ay laal mere asr ka hangaam
-  Ghazi ko azan de kar bulaao ali akbar
+  Main ne to sada di thi wo uthta nahiṅ Gulfaam
+  Nazdik hai Ae laal mere asr ka hangaam
+  Ghaazi ko azaaṅ de kar bulaao Ali Akbar
 
   7
-  Tum hichkiyan lete ho nikalta hai mera dam
-  Baazu bhi shikasta huwe kaise karun matam
-  Mai kya karun ghurbat mein batao ali akbar
+  Tum hichkiyaaṅ lete ho nikalta hai mera dam
+  Baazu bhi shikasta hue kaise karuṅ maatam
+  Main kya karuṅ ghurbat mein bataao Ali Akbar
 
   8
-  Sheh bolay takallum ye qayamat ki ghadi thi
-  Dekha nahi jaata meri maa kab se khadi hai
-  Lene wo tumhe aayi hai jao ali akbar
+  Sheh bole Takallum ye qayaamat ki ghari thi
+  Dekha nahiṅ jaata meri maaṅ kab se khari hai
+  Lene wo tumheiṅ aayi hai jaao Ali Akbar
 # source_id: nohayonline:1eb473c22f02c3b7d3be
 # source_url: https://www.nohayonline.com/details_content.php?id=2098
 # raw_sha256: f1dd853758bf2d36c167e7ae54adfd6c2abdce97011cd627ead2280fd11aad5f
 ---
 شہ کہتے تھے یہ ہاتھ ہٹاؤ علی اکبر
-برچھی کہاں کھای ہے دکھاؤ علی اکبر
+برچھی کہاں کھائی ہے دکھاؤ علی اکبر
 
 ۱
 افسوس ہمیں لاش تمہاری ہے اٹھانی
@@ -65,24 +66,24 @@ romanLyrics: |-
 ماں باپ کا تم لاشہ اٹھاؤ علی اکبر
 
 ۲
-یہ زخم نہیں پہلوے مادر سے تو بڑھ کر
+یہ زخم نہیں پہلوئے مادر سے تو بڑھ کر
 گھبراؤ نہ ہم صبر کریں گے میرے دلبر
 بابا سے نہ سینے کو چھپاؤ علی اکبر
 
 ۳
-بازو سے پکڑ کر ہمیں غربت یہاں لای
-ہم نے جو اٹھانی تھی اذیت وہ اٹھای
+بازو سے پکڑ کر ہمیں غربت یہاں لائی
+ہم نے جو اٹھانی تھی اذیت وہ اٹھائی
 شرمندہ نہ ہو نظریں ملاؤ علی اکبر
 
 ۴
 جینے نہیں دے گی تمہیں ظالم کی یہ برچھی
-مقتل میں تمہارے زرا بیمار بہن کی
+مقتل میں تمہارے ذرا بیمار بہن کی
 کچھ دیر تو باتیں کریں آؤ علی اکبر
 
 ۵
 جو دل میں تھے زینب کے وہ ارمان بڑھا لوں
 اس خوں بھرے چہرے پہ میں سہرا تو سجا لوں
-ٹہرو ابھی دنیا سے نہ جاؤ علی اکبر
+ٹھہرو ابھی دنیا سے نہ جاؤ علی اکبر
 
 ۶
 میں نے تو صدا دی تھی وہ اٹھتا نہیں گلفام
@@ -91,10 +92,10 @@ romanLyrics: |-
 
 ۷
 تم ہچکیاں لیتے ہو نکلتا ہے میرا دم
-بازو بھی شکستہ ہوے کیسے کروں ماتم
+بازو بھی شکستہ ہوئے کیسے کروں ماتم
 میں کیا کروں غربت میں بتاؤ علی اکبر
 
 ۸
 شہ بولے تکلم یہ قیامت کی گھڑی تھی
 دیکھا نہیں جاتا میری ماں کب سے کھڑی ہے
-لینے وہ تمہیں آی ہے جاؤ علی اکبر
+لینے وہ تمہیں آئی ہے جاؤ علی اکبر

@@ -6,32 +6,33 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Qais Zangipuri"
+reciter: "Mir Mohsin Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sheh ne zainab se kaha maqtal may tum aana nahi
-  Ay behan khanjar talay bhai ko tadpana nahi
+  Sheh ne Zainab se kaha maqtal mein tum aana nahiṅ
+  Ae behan khanjar tale bhaai ko tarpaana nahiṅ
 
   1
-  Chup gaye thay is tarha teeron may sar taapa hussain
-  Aaye qaime may to ghar waalon ne pehchana nahi
+  Chhup gaye the is tarah tiroṅ mein sar ta pa Husain
+  Aaye khaime mein to ghar waaloṅ ne pehchaana nahiṅ
 
   2
-  Dekhiye milta hai kab tak laashe sarwar ko kafan
-  Waadi e ghurbat hai koi apna begana nahi
+  Dekhiye milta hai kab tak laash-e-Sarwar ko kafan
+  Waadi-e-ghurbat hai koi apna begaana nahiṅ
 
   3
-  Sheh ko seene se laga kar khuld may bole rasool
-  Kya meri ummat ne beta tujhe pehchana nahi
+  Sheh ko sine se laga kar khuld mein bole Rasul
+  Kya meri ummat ne beta tujhe pehchaana nahiṅ
 
   4
-  Qabr may moo choom kar baysheer ka bole hussain
-  Hum bhi aate hai abhi ay laal ghabrana nahi
+  Qabr mein munh chum kar beshir ka bole Husain
+  Hum bhi aate haiṅ abhi Ae laal ghabraana nahiṅ
 
   5
-  Qais jis bekas ke matamdar kal hote thay qatl
-  Aaj dekho kis jagah uska azakhana nahi
+  Qais jis bekas ke maatamdaar kal hote the qatl
+  Aaj dekho kis jagah us ka azaakhaana nahiṅ
 # source_id: nohayonline:b692105b890e2d5c5af8
 # source_url: https://www.nohayonline.com/details_content.php?id=2479
 # raw_sha256: 8bccc63f2b456e761a29fb9e161b0ea7a05547341d96eea6270b799c29c6293d
@@ -59,5 +60,5 @@ romanLyrics: |-
 ہم بھی آتے ہیں ابھی اے لال گھبرانا نہیں
 
 ۵
-کیسے جس بے کس کے ماتم دار کل ہوتے تھے قتل
-آج دیکھو کس جگہ ااس کا عزاخانہ نہیں
+قیس جس بے کس کے ماتم دار کل ہوتے تھے قتل
+آج دیکھو کس جگہ اس کا عزاخانہ نہیں

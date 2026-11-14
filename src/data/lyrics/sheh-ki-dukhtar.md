@@ -6,60 +6,61 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Aseem Lakhnavi"
+reciter: "Afzal Mirza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sheh ki dukhtar so rahi hai shaam ke zindan may
-  Ek saf e matam bichi hai shaam ke zindan may
+  Sheh ki dukhtar so rahi hai Shaam ke zindaan mein
+  Ik saf-e-maatam bichhi hai Shaam ke zindaan mein
 
   1
-  Shah ke seene par qaraar aata tha jis ghamkhwar ko
-  Khaak par soyi hui hai shaam ke zindan may
+  Shaah ke sine par qaraar aata tha jis ghamkhwaar ko
+  Khaak par soyi hui hai Shaam ke zindaan mein
 
   2
-  Abid e beemar ke haaton se ye mat poochiye
-  Kis tarha turbat bani hai shaam ke zindan may
+  Aabid-e-bimaar ke haathoṅ se ye mat puchhiye
+  Kis tarah turbat bani hai Shaam ke zindaan mein
 
   3
-  Sayyade sajjad ki aankhon se aansu hai rawan
-  Bekasi hi bekasi hai shaam ke zindan may
+  Sayyad-e-Sajjaad ki aankhoṅ se aansuṅ hai rawaaṅ
+  Bekasi hi bekasi hai Shaam ke zindaan mein
 
   4
-  Ya ali ahle haram ki aaiye imdaad ko
-  Kis qadar bechaargi hai shaam ke zindan may
+  Ya Ali ahl-e-haram ki aaiye imdaad ko
+  Kis qadar bechaargi hai Shaam ke zindaan mein
 
   5
-  Shab ke sannate may aksar sochti rehti hai maa
-  Ek bachi ro rahi hai shaam ke zindan may
+  Shab ke sannaate mein aksar sochti rehti hai maaṅ
+  Ek bachchi ro rahi hai Shaam ke zindaan mein
 
   6
-  Raat ki tareekiyon may dukhtar e shabbir ne
-  Gham ki chadar odhli hai shaam ke zindan may
+  Raat ki taarikiyoṅ mein dukhtar-e-Shabbir ne
+  Gham ki chaadar orh li hai Shaam ke zindaan mein
 
   7
-  Is liye qabr e sakina par udaasi chaayi hai
-  Teeragi hi teeragi hai shaam ke zindan may
+  Is liye qabr-e-Sakina par udaasi chhaayi hai
+  Tiragi hi tiragi hai Shaam ke zindaan mein
 
   8
-  Baad e shah mat poochiye kaisi qayamat aa gayi
-  Girya o seena zani hai shaam ke zindan may
+  Baad-e-Sheh mat puchhiye kaisi qayaamat aa gayi
+  Girya o sina zani hai Shaam ke zindaan mein
 
   9
-  Wa hussaina ki sadayein goonjti hai raat o din
-  Har taraf veerangi hai shaam ke zindan may
+  Wa Husaina ki sadaaeiṅ gunjti hai raat o din
+  Har taraf viraangi hai Shaam ke zindaan mein
 
   10
-  Raat bhar shabnam ka girya din may suraj ki tapish
-  Chaar soo afsurdagi hai shaam ke zindan may
+  Raat bhar shabnam ka girya din mein suraj ki tapish
+  Chaar suṅ afsurdagi hai Shaam ke zindaan mein
 
   11
-  Apni ashkon se dar o dewaar par sajjad ne
-  Daastane gham likhi hai shaam ke zindan may
+  Apni ashkoṅ se dar o diwaar par Sajjaad ne
+  Daastaan-e-gham likhi hai Shaam ke zindaan mein
 
   12
-  Hai aseem aale nabi par ek qayamat aa gayi
-  Bhook hai aur tashnagi hai shaam ke zindan may
+  Hai Asim Aal-e-Nabi par ik qayaamat aa gayi
+  Bhuk hai aur tashnagi hai Shaam ke zindaan mein
 # source_id: nohayonline:3330d3c7e5234b28a833
 # source_url: https://www.nohayonline.com/details_content.php?id=1872
 # raw_sha256: f51af1f6a6528c26f9203378adb8c7d8669b3d29800040d0178d19395bcfcd06
@@ -69,7 +70,7 @@ romanLyrics: |-
 
 ۱
 شاہ کے سینے پر قرار آتا تھا جس غم خوار کو
-خاک پر سوی ہوی ہے شام کے زندان میں
+خاک پر سوئی ہوئی ہے شام کے زندان میں
 
 ۲
 عابد بیمار کے ہاتھوں سے یہ مت پوچھئے
@@ -80,7 +81,7 @@ romanLyrics: |-
 بیکسی ہی بیکسی ہے شام کے زندان میں
 
 ۴
-یا علی أہل حرم کی آیےء امداد کو
+یا علی اہل حرم کی آئیے امداد کو
 کس قدر بے چارگی ہے شام کے زندان میں
 
 ۵
@@ -92,15 +93,15 @@ romanLyrics: |-
 غم کی چادر اوڑھ لی ہے شام کے زندان میں
 
 ۷
-اس لیئے قبر سکینہ پر اداسی چھائی ہے
+اس لیے قبر سکینہ پر اداسی چھائی ہے
 تیرگی ہی تیرگی ہے شام کے زندان میں
 
 ۸
-بعد شہ مت پوچھئے کیسی قیامت آ گیء
+بعد شہ مت پوچھئے کیسی قیامت آ گئی
 گریہ و سینہ زنی ہے شام کے زندان میں
 
 ۹
-وا حسینا کی صداییں گونجتی ہے رات و دن
+وا حسینا کی صدائیں گونجتی ہے رات و دن
 ہر طرف ویرانگی ہے شام کے زندان میں
 
 ۱۰
@@ -109,8 +110,8 @@ romanLyrics: |-
 
 ۱۱
 اپنی اشکوں سے در و دیوار پر سجاد نے
-داستانے غم لکھی ہے شام کے زندان می
+داستانِ غم لکھی ہے شام کے زندان میں
 
 ۱۲
-ہے اسیم آل نبی پر اک قیامت آ گیء
+ہے اسیم آل نبی پر اک قیامت آ گئی
 بھوک ہے اور تشنگی ہے شام کے زندان میں
