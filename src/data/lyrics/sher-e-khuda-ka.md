@@ -1,48 +1,49 @@
 ---
 title: "گونج رہی ہے یہی آواز جبرییل"
-alternateTitle: "Sher E Khuda Ka"
+alternateTitle: "Sher-e-Khuda Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Majid Raza Abidi"
+reciter: "Mukhtar Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Goonj rahi hai yehi awaaz e jibraeel
-  Sher e khuda ka logon taboot utha raha hai
-  Kufe mein charon jaanib matam hai aur aza hai
-  Unees maahe ramzan waqte sehar ka sajda
-  Abd e khuda ka sar aur sajda e khuda hai
+  Gunj rahi hai yehi aawaaz-e-Jibrail
+  Sher-e-Khuda ka logoṅ taabut utha raha hai
+  Kufe mein chaaroṅ jaanib maatam hai aur aza hai
+  Unnis maah-e-Ramzaaṅ waqt-e-sehar ka sajda
+  Abd-e-Khuda ka sar aur sajda-e-Khuda hai
 
   1
-  Sajde mein sher e haq ka sar hogaya do paara
-  Jibreel ki sada hai har ek ro raha hai
+  Sajde mein Sher-e-Haq ka sar ho gaya do paara
+  Jibrail ki sada hai har ek ro raha hai
 
   2
-  Maula hassan ne bad kar baba ko yun sambhala
-  Zaanu e mujtaba hai aur farq e murtaza hai
+  Maula Hasan ne barh kar baaba ko yuṅ sambhaala
+  Zaanu-e-Mujtaba hai aur farq-e-Murtaza hai
 
   3
-  Shabbir ke galay ke bosay diye ali ne
-  Chashme ali mein shayad is waqt karbala hai
+  Shabbir ke gale ke bose diye Ali ne
+  Chashm-e-Ali mein shaayad is waqt Karbala hai
 
   4
-  Saansein ruki ali ki hai shor e inal-lilaah
-  Ro kar ali ka kunba sab ko rula raha hai
+  Saanseṅ ruki Ali ki hai shor-e-inna lillaah
+  Ro kar Ali ka kunba sab ko rula raha hai
 
   5
-  Sher e khuda ki mayyat ab ghar se uth rahi hai
-  Suye najaf janaza hyder ka jaa raha hai
+  Sher-e-Khuda ki mayyat ab ghar se uth rahi hai
+  Su-e-Najaf janaaza Haidar ka jaa raha hai
 
   6
-  Abbas ro ke bolay amma yateem hoo mai
-  Baba ka mere saaya ab sar se uth raha hai
+  Abbas ro ke bole ammaaṅ yatim huṅ main
+  Baaba ka mere saaya ab sar se uth raha hai
 
   7
-  Hyder ko haye majid thi qabr to meinassar
-  Shabbir ka to laasha ran mein pada raha hai
+  Haidar ko haaye Majid thi qabr to mayassar
+  Shabbir ka to laasha ran mein para raha hai
 # source_id: nohayonline:8a1dc182ead8b1121f55
 # source_url: https://www.nohayonline.com/details_content.php?id=2086
 # raw_sha256: c70fcfc95b984c5d78287cf869eedb7485335de3084bde0c7292567cb106724e
@@ -51,7 +52,7 @@ romanLyrics: |-
 شیر خدا کا لوگوں تابوت اٹھا رہا ہے
 کوفے میں چاروں جانب ماتم ہے اور عزا ہے
 انیس ماہ رمضاں وقتِ سحر کا سجدہ
-ابد خدا کا سر اور سجدۂ خدا ہے
+عبد خدا کا سر اور سجدۂ خدا ہے
 
 ۱
 سجدے میں شیر حق کا سر ہو گیا دو پارہ
@@ -59,10 +60,10 @@ romanLyrics: |-
 
 ۲
 مولا حسن نے بڑھ کر بابا کو یوں سنبھالا
-زانوے مجتبیٰ ہے اور فرق مرتظی ہے
+زانوئے مجتبیٰ ہے اور فرق مرتضیٰ ہے
 
 ۳
-شبیر کے گلے کے بوسے دیےء علی نے
+شبیر کے گلے کے بوسے دیے علی نے
 چشمِ علی میں شاید اس وقت کربلا ہے
 
 ۴
@@ -71,12 +72,12 @@ romanLyrics: |-
 
 ۵
 شیر خدا کی میت اب گھر سے اٹھ رہی ہے
-سوے نجف جنازہ حیدر کا جا رہا ہے
+سوئے نجف جنازہ حیدر کا جا رہا ہے
 
 ۶
 عباس رو کے بولے اماں یتیم ہوں میں
 بابا کا میرے سایہ اب سر سے اٹھ رہا ہے
 
 ۷
-حیدر کو ہاے ماجد تھی قبر تو میسر
+حیدر کو ہائے ماجد تھی قبر تو میسر
 شبیر کا تو لاشہ رن میں پڑا رہا ہے

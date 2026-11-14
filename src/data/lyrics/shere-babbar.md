@@ -1,162 +1,163 @@
 ---
 title: "ولی ابن ولی سقی ابن سقی"
-alternateTitle: "Shere Babbar"
+alternateTitle: "Sher-e-Babbar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Wali ibne wali sakhi ibne sakhi
-  Jari ibne jari sher e jali nade ali
-  
+  Wali ibn-e-wali sakhi ibn-e-sakhi
+  Jari ibn-e-jari sher-e-jali naad-e-Ali
+
   1
   Darham barham hai lashkar saara
-  Alam dekh ke sab ne pukara
-  Qaza nahi hai jis ko gawara
-  Wo chod de darya ka kanara
-  Sar e karbala goonji sadayein
-  Qaza ki cha rahi hai ghatayein
-  Faras ko jaldi se bhagayein
-  Chalo apni jaanein bachayein
+  Alam dekh ke sab ne pukaara
+  Qaza nahiṅ hai jis ko gawaara
+  Wo chhor de darya ka kanaara
+  Sar-e-Karbala gunji sadaaeṅ
+  Qaza ki chhaa rahi hai ghataaeṅ
+  Faras ko jaldi se bhagaaeṅ
+  Chalo apni jaaneṅ bachaaeṅ
   Bhaag lo ab ran se aaj to sar tan se
-  Rooh ka jeevan se
+  Ruh ka jivan se
   Yani rishta tan man dhan se
-  Baaqi na rahega khoon sab ka bahega
-  Koi na bachega gar kar de hamla abbas
-  Hyder e karbala abbas
-  Hyder e karbala abbas
-  Hyder e karbala abbas
-  Hyder e karbobala abbas
-  Ya ibne hyder ya abbas
-  Ya sher e babbar abbas
-  Ya ibne hyder ya abbas
-  Ya sher e babbar abbas
-  Qadam qadam pe maut bicha ke
-  Saron se saara dasht saja ke
-  Sitamgaron ko khaak chata ke
+  Baaqi na rahega khuṅ sab ka bahega
+  Koi na bachega gar kar de hamla Abbas
+  Haidar-e-Karbala Abbas
+  Haidar-e-Karbala Abbas
+  Haidar-e-Karbala Abbas
+  Haidar-e-Karb o Bala Abbas
+  Ya ibn-e-Haidar ya Abbas
+  Ya sher-e-babbar Abbas
+  Ya ibn-e-Haidar ya Abbas
+  Ya sher-e-babbar Abbas
+  Qadam qadam pe maut bichhaa ke
+  Saroṅ se saara dasht saja ke
+  Sitamgaroṅ ko khaak chata ke
   Badal diye hai rang faza ke
-  Wo dekho darya cheen liya hai
-  Adoo ka pehra toot chuka hai
-  Fiza mein naara goonj raha hai
-  Alam jari ne gaad diya hai
+  Wo dekho darya chhin liya hai
+  Adu ka pehra tut chuka hai
+  Faza mein naara gunj raha hai
+  Alam jari ne gaar diya hai
   Alqama kar degi faisla
-  Ay fauj e ashqiya
+  Ae fauj-e-ashqiya
   Darya tha kal bhi mera aaj bhi mera
-  Maujon ne kaha hai saahil par likha hai
-  Waada jo kiya hai kar dega poora abbas
-  Pani par abbas ka qabza
+  Maujoṅ ne kaha hai saahil par likha hai
+  Waada jo kiya hai kar dega pura Abbas
+  Paani par Abbas ka qabza
   Kal bhi tha aur aaj bhi hai
-  Sun le jahan darya ye hamara
+  Sun le jahaaṅ darya ye hamaara
   Kal bhi tha aur aaj bhi
   Ghazi ke parcham ka panja
   Aaj bhi sab se kehta hai
-  Bayyat ke moo par ye tamacha
+  Baiat ke munh par ye tamaancha
   Kal bhi tha aur aaj bhi hai
-  Hyder e karbala abbas
-  Hyder e karbala abbas
-  Hyder e karbala abbas
-  Hyder e karbobala abbas
-  Ya ibne hyder ya abbas
-  Ya sher e babbar abbas
-  Ya ibne hyder ya abbas
-  Ya sher e babbar abbas
-  Shabab e murtaza abbas
-  Dua e fatema abbas
-  Alamdar e hussain abbas
-  Hassan ke dil ke chain abbas
-  Abal fazle ali abbas
-  Wali ibne wali abbas
-  Dile ummul baneen abbas
-  Haseeno mein haseen abbas
-  Bahadur aur nidarr
-  Ay sher e nar sheh ki sipar abbas
-  Wafa ki ibteda aur inteha
-  Haq ki sada abbas
-  Qaza hai tere sang abbas
-  Tera hamla dabang abbas
-  Dileron ka diler abbas
+  Haidar-e-Karbala Abbas
+  Haidar-e-Karbala Abbas
+  Haidar-e-Karbala Abbas
+  Haidar-e-Karb o Bala Abbas
+  Ya ibn-e-Haidar ya Abbas
+  Ya sher-e-babbar Abbas
+  Ya ibn-e-Haidar ya Abbas
+  Ya sher-e-babbar Abbas
+  Shabaab-e-Murtaza Abbas
+  Dua-e-Faatima Abbas
+  Alam daar-e-Husain Abbas
+  Hasan ke dil ke chain Abbas
+  Abal Fazl-e-Ali Abbas
+  Wali ibn-e-wali Abbas
+  Dil-e-Ummul Banin Abbas
+  Hasinoṅ mein hasiṅ Abbas
+  Bahaadur aur nidar
+  Ae sher-e-nar Shah ki sipar Abbas
+  Wafa ki ibtida aur intiha
+  Haq ki sada Abbas
+  Qaza hai tere sang Abbas
+  Tera hamla dabang Abbas
+  Dileroṅ ka diler Abbas
   Kare dushman ko dher
-  Abbas abbas abbas
-  Hyder e karbala abbas
-  Hyder e karbala abbas
-  Hyder e karbala abbas
-  Hyder e karbobala abbas
-  Ya ibne hyder ya abbas
-  Ya sher e babbar abbas
-  Ya ibne hyder ya abbas
-  Ya sher e babbar abbas
-  
+  Abbas Abbas Abbas
+  Haidar-e-Karbala Abbas
+  Haidar-e-Karbala Abbas
+  Haidar-e-Karbala Abbas
+  Haidar-e-Karb o Bala Abbas
+  Ya ibn-e-Haidar ya Abbas
+  Ya sher-e-babbar Abbas
+  Ya ibn-e-Haidar ya Abbas
+  Ya sher-e-babbar Abbas
+
   2
   Idhar udhar se lashkar aaye
-  Kahan hai himmat aankh milaye
-  Faras jo un par bijli giraye
-  Gire jo gir kar uth nahi paaye
-  Khata huwe ausaan shaqi ke
-  Jo dekhe tevar sher e ali ke
-  Hai ye manzar qehre jali ke
-  Qadam ukhde zameen se sabhi ke
+  Kahaaṅ hai himmat aankh milaae
+  Faras jo un par bijli giraae
+  Gire jo gir kar uth nahiṅ paaye
+  Khata hue ausaan shaqi ke
+  Jo dekhe tewar Sher-e-Ali ke
+  Hai ye manzar qahr-e-jali ke
+  Qadam ukhre zamin se sabhi ke
   Maimana ulta hai
   Maisara bikhra hai
   Har jagah dekha hai
-  Shiraza saari faujon ka
-  Qasim hai na akbar
-  Na hurr sa dilawar
-  Kehte hai ye sarwar
-  Kaafi hai tanha abbas
-  Hyder e karbala abbas
-  Hyder e karbala abbas
-  Hyder e karbala abbas
-  Hyder e karbbala abbas
-  Ya ibne hyder ya abbas
-  Ya sher e babbar abbas
-  Ya ibne hyder ya abbas
-  Ya sher e babbar abbas
+  Shiraaza saari faujoṅ ka
+  Qasim hai na Akbar
+  Na Hur sa dilaawar
+  Kehte hai ye Sarwar
+  Kaafi hai tanha Abbas
+  Haidar-e-Karbala Abbas
+  Haidar-e-Karbala Abbas
+  Haidar-e-Karbala Abbas
+  Haidar-e-Karb o Bala Abbas
+  Ya ibn-e-Haidar ya Abbas
+  Ya sher-e-babbar Abbas
+  Ya ibn-e-Haidar ya Abbas
+  Ya sher-e-babbar Abbas
   Darham barham hai lashkar saara
   Ye mashk o alam ye jaah o hasham
-  Kehte hai mujhe saqqa e haram
-  Maula ki qasam todunga bharam
-  Bhaagenge abhi ye ahle sitam
-  Wo hashr bapa mai kar dunga
-  Laashon se ye maqtal bhar dunga
+  Kehte haiṅ mujhe saqqa-e-haram
+  Maula ki qasam toruṅ ga bharam
+  Bhaageṅ ge abhi ye ahl-e-sitam
+  Wo hashr bapa main kar duṅ ga
+  Laashoṅ se ye maqtal bhar duṅ ga
   Gar mashk pe waar karoge tum
-  Mai jeena mushkil kar dunga
-  Jo kaha ghazi ne kar diya hyder ki hai sada tu ne to
-  Naqsha khayncha hai khyber ka
-  Har soo hai tabahi
-  Ay mere sipahi
-  Mai dunga gawahi
-  Ay mere beta abbas
-  Hyder e karbala abbas
-  Hyder e karbala abbas
-  Hyder e karbala abbas
-  Hyder e karbbala abbas
-  Ya ibne hyder ya abbas
-  Ya sher e babbar abbas
-  Ya ibne hyder ya abbas
-  Ya sher e babbar abbas
-  Darya pe alam ko gaad diya
-  Pyason ke liye mashkeeza bhara
-  Qaime ki taraf ghazi jo chala
-  Ghazi ko adoo ne ghayr liya
-  Wo teer chale wo mashk chidi
+  Main jina mushkil kar duṅ ga
+  Jo kaha Ghazi ne kar diya Haidar ki hai sada tu ne to
+  Naqsha khaincha hai Khaibar ka
+  Har su hai tabaahi
+  Ae mere sipaahi
+  Main duṅ ga gawaahi
+  Ae mere beta Abbas
+  Haidar-e-Karbala Abbas
+  Haidar-e-Karbala Abbas
+  Haidar-e-Karbala Abbas
+  Haidar-e-Karb o Bala Abbas
+  Ya ibn-e-Haidar ya Abbas
+  Ya sher-e-babbar Abbas
+  Ya ibn-e-Haidar ya Abbas
+  Ya sher-e-babbar Abbas
+  Darya pe alam ko gaar diya
+  Pyaasoṅ ke liye mashkiza bhara
+  Khaime ki taraf Ghazi jo chala
+  Ghazi ko adu ne gher liya
+  Wo tir chale wo mashk chhidi
   Baazu jo kate sambhla na jari
-  Thi gurz se zakhmi peshani
-  Maqtal mein tadapta tha ghazi
-  Ek aankh mein us ki teer laga
-  Qaimon mein idhar faryad ye thi
-  Wawaila wawaila wawaila al abbas
-  Wawaila wawaila wawaila al abbas
-  Wawaila al abbas wawaila al abbas
-  Wawaila al abbas
-  Qaimon mein alam aaya hai alam bardar nahi aaya
-  Ay mazhar aur farhan sakina ne ye farmaya
-  Wawaila wawaila wawaila al abbas
-  Wawaila wawaila wawaila al abbas
-  Wawaila al abbas wawaila al abbas
+  Thi gurz se zakhmi peshaani
+  Maqtal mein tarapta tha Ghazi
+  Ek aankh mein us ki tir laga
+  Khaimoṅ mein idhar faryaad ye thi
+  Waawaila waawaila waawaila al Abbas
+  Waawaila waawaila waawaila al Abbas
+  Waawaila al Abbas waawaila al Abbas
+  Waawaila al Abbas
+  Khaimoṅ mein alam aaya hai alam bardaar nahiṅ aaya
+  Ae Mazhar aur Farhan Sakina ne ye farmaaya
+  Waawaila waawaila waawaila al Abbas
+  Waawaila waawaila waawaila al Abbas
+  Waawaila al Abbas waawaila al Abbas
 # source_id: nohayonline:6f70666333b31f640c70
 # source_url: https://www.nohayonline.com/details_content.php?id=3676
 # raw_sha256: 0020782b707f0085748044d4c2dadeff8e7b946fc3419211c06dbdc9f1f48fea
@@ -170,9 +171,9 @@ romanLyrics: |-
 علم دیکھ کے سب نے پکارا
 قضا نہیں ہے جس کو گوارا
 وہ چھوڑ دے دریا کا کنارہ
-سر کربلا گونجی صداییں
-قضا کی چھا رہی ہے گھٹاییں
-فرس کو جلدی سے بگاییں
+سر کربلا گونجی صدائیں
+قضا کی چھا رہی ہے گھٹائیں
+فرس کو جلدی سے بھگائیں
 چلو اپنی جانیں بچائیں
 بھاگ لو اب رن سے آج تو سر تن سے
 روح کا جیون سے
@@ -190,7 +191,7 @@ romanLyrics: |-
 قدم قدم پہ موت بچھا کے
 سروں سے سارا دشت سجا کے
 ستمگروں کو خاک چٹا کے
-بدل دیےء ہے رنگ فضا کے
+بدل دیے ہے رنگ فضا کے
 وہ دیکھو دریا چھین لیا ہے
 عدو کے پہرہ ٹوٹ چکا ہے
 فضا میں نعرہ گونج رہا ہے
@@ -243,9 +244,9 @@ romanLyrics: |-
 یا شیر ببر عباس
 
 ۲
-ادھر ادھر سے لشکر آے
-کہاں ہے ہمت آنکھ ملاے
-فرس جو ان‌ پر بجلی گراے
+ادھر ادھر سے لشکر آئے
+کہاں ہے ہمت آنکھ ملائے
+فرس جو ان پر بجلی گرائے
 گرے جو گر کر اٹھ نہیں پائے
 خطا ہوئے اوسان شقی کے
 جو دیکھے تیور شیر علی کے
@@ -269,7 +270,7 @@ romanLyrics: |-
 یا شیر ببر عباس
 درہم برہم ہے لشکر سارا
 یہ مشک و علم یہ جاہ و ہشم
-کہتے ہیں مجھے سقاے حرم
+کہتے ہیں مجھے سقائے حرم
 مولا کی قسم توڑوں گا بھرم
 بھاگیں گے ابھی یہ اہلِ ستم
 وہ حشر بپا میں کر دوں گا
@@ -278,7 +279,7 @@ romanLyrics: |-
 میں جینا مشکل کر دوں گا
 جو کہا غازی نے کر دیا حیدر کی ہے صدا تو نے تو
 نقشہ کھینچا ہے خیبر کا
-ہر سوں ہے تباہی
+ہر سو ہے تباہی
 اے میرے سپاہی
 میں دوں گا گواہی
 اے میرے بیٹا عباس
@@ -304,7 +305,7 @@ romanLyrics: |-
 واویلا واویلا واویلا العباس
 واویلا واویلا واویلا العباس
 واویلا العباس
-خیموں میں علم آیا ہے علم برادر نہیں آیا
+خیموں میں علم آیا ہے علم بردار نہیں آیا
 اے مظہر اور فرحان سکینہ نے یہ فرمایا
 واویلا واویلا واویلا العباس
 واویلا واویلا واویلا العباس
