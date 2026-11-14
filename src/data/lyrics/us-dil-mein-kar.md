@@ -5,40 +5,41 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Us dil mein kar talaash na hargiz wafa ke phool
-  Khilte nahi hai jisme ali ki wila ke phool
+  Us dil mein kar talaash na hargiz wafa ke phul
+  Khilte nahiṅ haiṅ jis mein Ali ki wila ke phul
 
   1
-  Dhar aaye shauqe deed mein jannat ke gulsitaan
-  Mehke jo meri khabr mein khake shifa ke phool
+  Dhar aaye shauq-e-did mein jannat ke gulistaaṅ
+  Mehke jo meri qabr mein khaak-e-shifa ke phul
 
   2
-  Daste khuda ne yun dare khyber utha liya
-  Jaise uthale haath ko koi badha ke phool
+  Dast-e-Khuda ne yuṅ dar-e-Khaibar utha liya
+  Jaise utha le haath ko koi barha ke phul
 
   3
-  Naara kiya ali ke pisar ne labe furaat
-  Dehshat se haath pa'on gaye ashkiya ke phool
+  Naara kiya Ali ke pisar ne lab-e-Furaat
+  Dehshat se haath paaoṅ gaye ashqiya ke phul
 
   4
-  Abbas ne kata diye nusrat mein dono haath
-  Mehke labe furaat ali ki dua ke phool
+  Abbas ne kata diye nusrat mein donoṅ haath
+  Mehke lab-e-Furaat Ali ki dua ke phul
 
   5
-  Akbar sa gulbadan ali asghar sa gul adaa
-  Like thay ye naseeb mein karbobala ke phool
+  Akbar sa gul badan Ali Asghar sa gul ada
+  Likhe the ye nasib mein Karb o Bala ke phul
 
   6
-  Saara chaman rasool ka barbad hogaya
-  Tapti hui zameen hai aur sayyeda ke phool
+  Saara chaman Rasul ka barbaad ho gaya
+  Tapti hui zamin hai aur Sayyeda ke phul
 
   7
-  Ay maskane hussain mai hoo zakire hussain
-  Mujhko bhi kar le khaakh apni basa ke phool
+  Ae maskan-e-Husain main huṅ zaakir-e-Husain
+  Mujh ko bhi kar le khaak mein apni basaa ke phul
 # source_id: nohayonline:5efc0a9b1f806482b00c
 # source_url: https://www.nohayonline.com/details_content.php?id=158
 # raw_sha256: 6cc5a3ce70ac9bdaf509515966383737a77c8d617b55ff1d7f6dbd66be00ed32
@@ -47,20 +48,20 @@ romanLyrics: |-
 کھلتے نہیں ہیں جس میں علی کی ولا کے پھول
 
 ۱
-دھر آئے شوقِ دید مین جنت کے گُلستاں
-مہکے جو میری قبر میں خاکِ شفائ کے پھول
+دھر آئے شوقِ دید میں جنت کے گُلستاں
+مہکے جو میری قبر میں خاکِ شفا کے پھول
 
 ۲
 دستِ خُدا نے یوں درِ خیبر اُٹھا لیا
 جیسے اُٹھا لے ہاتھ کو کوئی بڑھا کے پھول
 
 ۳
-نعرئہ کیا علی کے پسر نے لبِ فرا،ت
-دہشت سے ہاتھ پائوں گئے اشقیا کے پھول
+نعرہ کیا علی کے پسر نے لبِ فرات
+دہشت سے ہاتھ پاؤں گئے اشقیا کے پھول
 
 ۴
 عباس نے کٹا دیئے نُصرت میں دونوں ہاتھ
-مہکے لبِ فرا،ت علی کی دُعا کے پھول
+مہکے لبِ فرات علی کی دُعا کے پھول
 
 ۵
 اکبر سا گُل بدن علی اصغر سا گُل ادا

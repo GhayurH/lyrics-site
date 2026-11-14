@@ -6,75 +6,76 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Syed Ramish Ul Hassan"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Uncha rahe apna alam
-  Jab tak hai daure aasman
-  Sunle ye har peer o jawaan
-  Awaaz par shabbir ki badta rahe ye kaarwan
-  Rukne na paaye ek qadam
+  Jab tak hai daur-e-aasmaaṅ
+  Sun le ye har pir o jawaaṅ
+  Aawaaz par Shabbir ki barhta rahe ye kaarwaaṅ
+  Rukne na paaeṅ ye qadam
 
   1
-  Har qalb par chaate chalo
+  Har qalb par chhaate chalo
   Dunya ko batlate chalo
-  Ek ek mahaaze zulm ki tasveer dikhlate chalo
-  Har dil mein bhar do sheh ka gham
+  Ek ek mahaaz-e-zulm ki taswir dikhlaate chalo
+  Har dil mein bhar do Shih ka gham
 
   2
   Kab tak na maanega koi
   Wo waqt aayega kabhi
-  Har qalb par cha jayega apna hussain ibne ali
-  Is dar pe har sar hoga qam
+  Har qalb par chhaa jaayega apna Husain ibn-e-Ali
+  Is dar pe har sar ho ga kham
 
   3
-  Jab bhi koi mushkil padi
+  Jab bhi koi mushkil pari
   Dunya isi dar par jhuki
-  Seeno se balkhaakar idhar uthi sadaye ya ali
+  Sinoṅ par bal khaa kar idhar uthi sadaa-e-Ya Ali
   Nikla udhar baatil ka dam
 
   4
-  Ye parchame abbas hai
-  Toote dilon ki aas hai
-  Ab tak isi parcham talay zinda kisi ki pyas hai
-  Jisne sahe laakhon sitam
+  Ye parcham-e-Abbas hai
+  Tute diloṅ ki aas hai
+  Ab tak isi parcham tale zinda kisi ki pyaas hai
+  Jis ne sahe laakhoṅ sitam
 
   5
-  Abbas hai naame wafa
-  Awaaz o anjaame wafa
-  Moo mod ke darya se jo peeta raha jaame wafa
+  Abbas hai naam-e-wafa
+  Aaghaaz o anjaam-e-wafa
+  Muṅh mor ke darya se jo pita raha jaam-e-wafa
   Hote rahe baazu qalam
 
   6
-  Wo teere baani e jafa
-  Masoom ka nanha gala
-  Islam zinda kargayi ashgar ke marne ki ada
-  Haskar saha teere sitam
+  Wo tir-e-baani-e-jafa
+  Maasum ka nanha gala
+  Islam zinda kar gayi Asghar ke marne ki ada
+  Haṅs kar saha tir-e-sitam
 
   7
-  Zinda hai halmin ki sada
-  Mit-ta nahi khoon ka likha
-  Shabbir ke haq ki qasam ek maujisa hai karbala
-  Jo silsila hoga na kam
+  Zinda hai hal min ki sada
+  Mitta nahiṅ khuṅ ka likha
+  Shabbir ke haq ki qasam ek moajiza hai Karbala
+  Jo silsila ho ga na kam
 
   8
-  Ay nowjawane azaa
+  Ae naujawaanan-e-aza
   Tum ho kisi dil ki dua
-  Ta hashr uth-ti hi rahe seeno se matam ki sada
-  Qaayam rahe akbar ka gham
+  Taa hashr uthti hi rahe sinoṅ se maatam ki sada
+  Qaaim rahe Akbar ka gham
 
   9
-  Jab karbala yaad aayegi
-  Insaniyat sharmeinegi
-  Mazloom ki awaaz hai dil mein utarti jaayegi
-  Palthenge phir behke qadam
+  Jab Karbala yaad aayegi
+  Insaaniyat sharmaayegi
+  Mazlum ki aawaaz hai dil mein utarti jaayegi
+  Palteṅge phir behke qadam
 
   10
   Zinda ye bedaari rahe
   Ye silsila jaari rahe
-  Hum ho na ho is bazm mein qaayam azadari rahe
-  Nikle isi chaukat pe dam
+  Hum hoṅ na hoṅ is bazm mein qaaim azaadaari rahe
+  Nikle isi chaukhat pe dam
 # source_id: nohayonline:18b972afdc44803abee9
 # source_url: https://www.nohayonline.com/details_content.php?id=49
 # raw_sha256: af7da25f399f88aa04d1df826f625ed9e9eadc6bc8a840d2889e35eef611766d
@@ -95,7 +96,7 @@ romanLyrics: |-
 ہر دل میں بھر دو شِہؑ کا غم
 
 ۲
-کب تک نہ مانیں گا کوئی
+کب تک نہ مانے گا کوئی
 وہ وقت آئے گا کبھی
 ہر قلب پر چھا جائے گا اپنا حُسین ابنِ علی
 اس در پہ ہر سر ہو گا خم
@@ -103,7 +104,7 @@ romanLyrics: |-
 ۳
 جب بھی کوئی مُشکل پڑی
 دُنیا اسی در پر جھُکی
-سینوں پر بل کھا کر ادھراُٹھی صدائے یا علی
+سینوں پر بل کھا کر ادھر اُٹھی صدائے یا علی
 نکلا اُدھر باطل کا دم
 
 ۴
