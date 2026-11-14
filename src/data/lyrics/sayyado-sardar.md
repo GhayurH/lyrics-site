@@ -1,89 +1,90 @@
 ---
 title: "سید و سردار علی الوداع"
-alternateTitle: "Sayyado Sardar"
+alternateTitle: "Sayyad o Sardar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Bilal Kazmi"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sayyado sardar ali alvida
-  Shion ke salaar ali alvida
+  Sayyad o sardaar Ali alvida
+  Shioṅ ke salaar Ali alvida
 
   1
-  Shaahe huda ke pidar
-  Jab chale waqt e sahar
-  Thaam ke bande kamar
-  Kehti thi zanjeer e dar
-  Ay mere sarkar ali alvida
+  Shaah-e-Huda ke pidar
+  Jab chale waqt-e-sahar
+  Thaam ke band-e-kamar
+  Kehti thi zanjeer-e-dar
+  Ae mere sarkaar Ali alvida
 
   2
-  Kufe may waqte sahar
-  Taygh chali farq par
-  Khoon se hua farsh tar
-  Rote hai sar peet kar
-  Saare azadaar ali alvida
+  Kufe mein waqt-e-sahar
+  Tegh chali farq par
+  Khuṅ se hua farsh tar
+  Rote haiṅ sar pit kar
+  Saare azaadaar Ali alvida
 
   3
   Hashr ka hangaam hai
   Girya hai kohraam hai
-  Rasme jafa aam hai
+  Rasm-e-jafa aam hai
   Kufa hi ab shaam hai
-  Gham may giraftar ali alvida
+  Gham mein giraftaar Ali alvida
 
   4
-  Jo tere ghamkhwar hai
-  Jeene se bezaar hai
-  Gham may giraftaar hai
-  Hashr ke aasaar hai
-  Kehte hai zawwar ali alvida
+  Jo tere ghamkhwaar haiṅ
+  Jine se bezaar haiṅ
+  Gham mein giraftaar hai
+  Hashr ke aasaar haiṅ
+  Kehte haiṅ zawwaar Ali alvida
 
   5
   Khutbe sunayega kaun
   Khaana khilayega kaun
-  Gham se chudayega kaun
+  Gham se chhuraayega kaun
   Murde jilayega kaun
-  Maalik o mukhtar ali alvida
+  Maalik o mukhtaar Ali alvida
 
   6
-  Ghash may hai deene ilaah
-  Peet ke sar apna shaah
+  Ghash mein hai din-e-Ilaah
+  Pit ke sar apna shaah
   Ro ke risaalat panaah
-  Kehte hai ba-dard o aah
-  Mere madadgaar ali alvida
+  Kehte haiṅ ba-dard o aah
+  Mere madadgaar Ali alvida
 
   7
-  Binte shahe behrobar
-  Dukhtare khairul bashar
-  Phasliyon ko thaam kar
-  Kehti hai baa chashme tar
-  Ay mere ghamkhwar ali alvida
+  Bint-e-shaah-e-bahr o bar
+  Dukhtar-e-khairul bashar
+  Pasliyoṅ ko thaam kar
+  Kehti hai baa chashm-e-tar
+  Ae mere ghamkhwaar Ali alvida
 
   8
-  Gham ki hai parchaiyan
-  Roye na kyon betiyan
-  Baandhenge ab shaamiyan
-  Baazuon may rassiyan
-  Lut gayi sarkar ali alvida
+  Gham ki hai parchhaaiyaaṅ
+  Roye na kiuṅ betiyaaṅ
+  Baandheṅge ab shaamiyaaṅ
+  Baazuoṅ mein rassiyaaṅ
+  Lut gayi sarkaar Ali alvida
 
   9
-  Haye imame mobin
-  Khoon may tar hai jabeen
-  Aamir e sultan e deen
-  Kahiye bilal e hazeen
-  Hyder e karrar ali alvida
+  Haaye imaam-e-mubiṅ
+  Khuṅ mein tar hai jabiṅ
+  Aamir-e-sultaan-e-diṅ
+  Kahiye Bilaal-e-haziṅ
+  Haidar-e-karraar Ali alvida
 # source_id: nohayonline:a87cfbc84cf65f61ccb5
 # source_url: https://www.nohayonline.com/details_content.php?id=2426
 # raw_sha256: eb2795092d63b0c18c909ef4c61224ec45feef9489d5a3b74e117938bf6912e2
 ---
 سید و سردار علی الوداع
-شعیوں کے سالار علی الوداع
+شیعوں کے سالار علی الوداع
 
 ۱
-شاہ ہدا کے پدر
+شاہِ ہدیٰ کے پدر
 جب چلے وقتِ سحر
 تھام کے بند کمر
 کہتی تھی زنجیر در
@@ -101,20 +102,20 @@ romanLyrics: |-
 گریہ ہے کہرام ہے
 رسم جفا عام ہے
 کوفہ ہی اب شام ہے
-غم‌ میں گرفتار علی الوداع
+غم میں گرفتار علی الوداع
 
 ۴
 جو تیرے غم خوار ہیں
 جینے سے بیزار ہیں
-غم‌ میں گرفتار ہے
+غم میں گرفتار ہے
 حشر کے آثار ہیں
 کہتے ہیں زوار علی الوداع
 
 ۵
-خطبے سناے گا کون
-خانہ کھلاے گا کون
-غم سے چھڑاے گا کون
-مردے جلاے گا کون
+خطبے سنائے گا کون
+خانہ کھلائے گا کون
+غم سے چھڑائے گا کون
+مردے جلائے گا کون
 مالک و مختار علی الوداع
 
 ۶
@@ -133,14 +134,14 @@ romanLyrics: |-
 
 ۸
 غم کی ہے پرچھائیاں
-روے نہ کیوں بیٹیاں
+روئے نہ کیوں بیٹیاں
 باندھیں گے اب شامیاں
 بازوؤں میں رسیاں
-لٹ گیء سرکار علی الوداع
+لٹ گئی سرکار علی الوداع
 
 ۹
-ہاے امام مبیں
+ہائے امام مبیں
 خوں میں تر ہے جبیں
 آمر سلطان دیں
-کہےء بلال حزیں
+کہیے بلال حزیں
 حیدر کرار علی الوداع

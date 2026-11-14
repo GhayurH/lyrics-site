@@ -1,36 +1,37 @@
 ---
 title: "نیزئہ ظلم نے کب سینہِ اکبر توڑا"
-alternateTitle: "Seena E Akbar Toda"
+alternateTitle: "Sina-e-Akbar Tora"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Naiza e zulm ne kab seena e akbar toda
-  Qalb e mehboobe elaahi dil e hyder toda
+  Naiza-e-zulm ne kab sina-e-Akbar tora
+  Qalb-e-mehbub-e-Ilaahi dil-e-Haidar tora
   
   1
-  Kar liya nehr pe qabza tan e tanha usne
-  Jiske baba ne akele dar e khyber toda
+  Kar liya nehr pe qabza tan-e-tanha us ne
+  Jis ke baba ne akele dar-e-Khaibar tora
   
   2
-  Pis gaya shimr ka dil dekh ke haale asghar
-  Aap ne sibte nabi sheeshe se pathar toda
+  Pis gaya Shimr ka dil dekh ke haal-e-Asghar
+  Aap ne Sibt-e-Nabi shishe se patthar tora
   
   3
-  Boli laila hui sarwar ki basarat zaahir
-  Tumne kis tarha se dam ay ali akbar toda
+  Boli Laila hui Sarwar ki basaarat zaahir
+  Tum ne kis tarah se dam ae Ali Akbar tora
   
   4
-  Saath ghodon se giray zainab e muztar ke pisar
-  Ran mein dam bhai ne bhai ke barabar toda
+  Saath ghoroṅ se gire Zainab-e-muztar ke pisar
+  Ran mein dam bhai ne bhai ke baraabar tora
   
   5
-  Maa ka kehna tha ke kyun laal mujhe bhool gaye
-  Baap ki godh mein dam ay ali asghar toda
+  Maaṅ ka kehna tha ke kiuṅ laal mujhe bhul gaye
+  Baap ki god mein dam ae Ali Asghar tora
 # source_id: nohayonline:2da82ccbd589c12edf1e
 # source_url: https://www.nohayonline.com/details_content.php?id=518
 # raw_sha256: e8eba3873fc880b5105562e1e4bdb54bb81eb8cdbfb72a1c91fb6ecbb95449fe
