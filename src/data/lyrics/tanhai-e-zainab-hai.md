@@ -1,70 +1,71 @@
 ---
-title: "تنہائیء زینب ہے اور شام غریباں ہے"
-alternateTitle: "Tanhai E Zainab Hai"
+title: "تنہائیِ زینب ہے اور شامِ غریباں ہے"
+alternateTitle: "Tanhaai-e-Zainab Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mujeeb Alipuri"
+reciter: "Mir Mohsin Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Tanhaai e zainab hai aur sham e ghariban hai
-  Jalte huwe qaime hai kunba sar e maidan hai
+  Tanhaai-e-Zainab hai aur shaam-e-gharibaṅ hai
+  Jalte hue khaime haiṅ kunba sar-e-maidaaṅ hai
 
   1
-  Imdad ko beti ki aajao mere baba
-  Be-deeno ka nargha hai aur dashte bayaban hai
+  Imdaad ko beti ki aa jaao mere baba
+  Bedinoṅ ka nargha hai aur dasht-e-bayaabaṅ hai
 
   2
-  Bacche to abhi thak kar sab khaak pe soye hai
+  Bachche to abhi thak kar sab khaak pe soye haiṅ
   Maqtal mein andhera hai dil khauf se larza hai
 
   3
-  Bin pani ke aada ne gardan pe churi pheri
-  Ye koi nahi jaana bhai mera mehman hai
+  Bin paani ke aada ne gardan pe chhuri pheri
+  Ye koi nahiṅ jaana bhai mera mehmaaṅ hai
 
   4
-  Baba wo zara dekho shabbir ke laashe ko
-  Aaza e badan zakhmi sar khoon mein ghaltan hai
+  Baba wo zara dekho Shabbir ke laashe ko
+  Aazaa-e-badan zakhmi sar khuṅ mein ghaltaaṅ hai
 
   5
-  Pardes mein zainab ki allah re majboori
-  Doo kaise kafan sheh ko sar mera bhi uryan hai
+  Pardes mein Zainab ki Allah re majburi
+  Duṅ kaise kafan Shah ko sar mera bhi uryaaṅ hai
 
   6
-  Pamaal shuda ran mein laashe hai shaheedon ke
-  Bikhri hui maqtal mein har aayat e quran hai
+  Paamaal shuda ran mein laashe haiṅ shahidoṅ ke
+  Bikhri hui maqtal mein har aayat-e-Quraaṅ hai
 
   7
-  Hum tashna dahano par wo zulm o sitam toote
-  Pani to hai sharminda khud zulm bhi hairan hai
+  Hum tashna dahaanoṅ par wo zulm o sitam tute
+  Paani to hai sharminda khud zulm bhi hairaaṅ hai
 
   8
-  Aankhon mein mujeeb apni hai karbobala roshan
-  Mohsin ki nigahon mein qabre shahe zeeshan hai
+  Aankhoṅ mein Mujeeb apni hai Karb o Bala roshan
+  Mohsin ki nigaahoṅ mein qabr-e-Shah-e-zishaaṅ hai
 # source_id: nohayonline:23e4ce8b85633e1c38fe
 # source_url: https://www.nohayonline.com/details_content.php?id=2480
 # raw_sha256: b162356dc7b76bdd040fc8c5ac49be32501ffcb4afb412b76862285540ce29e3
 ---
-تنہائیء زینب ہے اور شام غریباں ہے
-جلتے ہوے خیمے ہیں کنبہ سر میداں ہے
+تنہائیِ زینب ہے اور شامِ غریباں ہے
+جلتے ہوئے خیمے ہیں کنبہ سرِ میداں ہے
 
 ۱
 امداد کو بیٹی کی آ جاؤ میرے بابا
 بے دینوں کا نرغہ ہے اور دشتِ بیاباں ہے
 
 ۲
-بچے تو ابھی تھک کر سب خاک پہ سوے ہیں
+بچے تو ابھی تھک کر سب خاک پہ سوئے ہیں
 مقتل میں اندھیرا ہے دل خوف سے لرزا ہے
 
 ۳
 بن پانی کے اعدا نے گردن پہ چھری پھیری
-یہ کوی نہیں جانا بھای میرا مہماں ہے
+یہ کوئی نہیں جانا بھائی میرا مہماں ہے
 
 ۴
-بابا وہ زرا دیکھو شبیر کے لاشے کو
+بابا وہ ذرا دیکھو شبیر کے لاشے کو
 اعضائے بدن زخمی سر خوں میں غلطاں ہے
 
 ۵
@@ -73,12 +74,12 @@ romanLyrics: |-
 
 ۶
 پامال شدہ رن میں لاشے ہیں شہیدوں کے
-بکھری ہوی مقتل میں ہر آیت قرآں ہے
+بکھری ہوئی مقتل میں ہر آیتِ قرآں ہے
 
 ۷
 ہم تشنہ دہانوں پر وہ ظلم و ستم ٹوٹے
 پانی تو ہے شرمندہ خود ظلم بھی حیراں ہے
 
 ۸
-آنکھوں میں مجیب اپنی ہے کربوبلا رشن
-محسن کی نگاہوں میں قبر شہ زیشاں ہے
+آنکھوں میں مجیب اپنی ہے کرب و بلا روشن
+محسن کی نگاہوں میں قبرِ شہِ ذیشاں ہے
