@@ -1,110 +1,117 @@
 ---
 title: "اماں میری اماں میری اماں"
-alternateTitle: "Tod Kar Bande"
+alternateTitle: "Tor Kar Band-e-Kafan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
-aliases: []
+aliases: ["Tod Kar Bande"]
 published: false
 romanLyrics: |-
   Amma meri amma meri amma
-  Tod kar band e kafan mujhko bula lo amma
-  Karbala waale musafir ko sambhalo amma
-  Abhi kuch dayr to tehro mera phat'ta hai jigar
-  Paas tum bhi mere nana ke chali jaana magar
-  Aakhri baar kaleje se lagalo amma
+
+  Tor kar band-e-kafan mujh ko bula lo amma
+  Karbala waale musaafir ko sambhaalo amma
 
   1
-  Bin tumhare nahi manzoor ye jeena mujhko
-  Raas aayega kahan ab ye madina mujhko
-  Le chalo saath kafan mein hi chupalo amma
+  Abhi kuchh der to thahro mera phatta hai jigar
+  Paas tum ko bhi mere nana ke chali jaana magar
+  Aakhri baar kaleje se laga lo amma
 
   2
-  Jab se maara hai sitamgar ne tamacha tum ko
-  Aankh bhar kar nahi shabbar ne hai dekha tum ko
-  Ek nazar rote huwe bete pe daalo amma
+  Bin tumhaare nahiṅ manzur ye jina mujh ko
+  Raas aayega kahaaṅ ab ye Madina mujh ko
+  Le chalo saath kafan meiṅ hi chhupa lo amma
 
   3
-  Dil nahi maanta kis tarha ye bardasht karun
-  Dekh kar aap ke qatil ko mai khamosh rahun
-  Is aziyat se kisi tarha nikaalo amma
+  Jab se maara hai sitamgar ne tamaancha tum ko
+  Aankh bhar kar nahiṅ Shabbar ne hai dekha tum ko
+  Ik nazar rote hue bete pe daalo amma
 
   4
-  Jab talak tum na bulaogi na aayega hussain
-  Pyaar maa bete ka dunya ko dikhayega hussain
-  Aaj pehlu se zara haath haatalo amma
+  Dil nahiṅ maanta kis tarah ye bardaasht karuṅ
+  Dekh kar aap ke qaatil ko maiṅ khaamosh rahuṅ
+  Is aziyat se kisi tarah nikaalo amma
 
   5
-  Tum na hogi to mai dunya mein jiyunga kaise
-  Aaj maa beta ka ek saath janaza uthe
-  Ek jannat se kafan aur mangalo amma
+  Jab talak tum na bulaaogi na aayega Husain
+  Pyaar maaṅ bete ka dunya ko dikhaayega Husain
+  Aaj pehlu se zara haath hataa lo amma
 
   6
-  Qatl mohsin ka hua aur mai khamosh raha
-  Aap par zulm hua aur mai khamosh raha
-  Ab khamoshi se meri pehra uthaalo amma
-  Karbala waale musafir ko sambhalo amma
+  Tum na hogi to maiṅ dunya meiṅ jiyuṅ ga kaise
+  Aaj maaṅ beta ka ik saath janaaza uthe
+  Ek jannat se kafan aur maṅga lo amma
 
   7
-  Saath jayenge wahan saare behan bhai abhi
-  Jahan rone ki shikayat na karega koi
-  Door yasrab se koi basti basaalo amma
+  Qatl Mohsin ka hua aur maiṅ khaamosh raha
+  Aap par zulm hua aur maiṅ khaamosh raha
+  Ab khamoshi se meri pehra uthaa lo amma
+  Karbala waale musaafir ko sambhaalo amma
 
   8
-  Maa ki mayyat pe bhi rehwaar se girte dam bhi
-  Sheh ne awaaz takallum usi andaaz mein di
-  Apne mazloom ko godhi mein uthaalo amma
+  Saath jaayeṅge wahaaṅ saare behan bhai abhi
+  Jahaaṅ rone ki shikaayat na kareṅge koi
+  Dur Yasrab se koi basti basaa lo amma
+
+  9
+  Maaṅ ki mayyat pe bhi rahwaar se girte dam bhi
+  Shah ne aawaaz Takallum usi andaaz meiṅ di
+  Apne mazlum ko godi meiṅ uthaa lo amma
 # source_id: nohayonline:0bbc331476801cadc217
 # source_url: https://www.nohayonline.com/details_content.php?id=2076
 # raw_sha256: 1adffbfb6cbbfa48781c655bfb9f265ac172e29e01e62628b1b813e14fea26ee
 ---
 اماں میری اماں میری اماں
-توڑ کر بند کفن مجھکو بلا لو اماں
+
+توڑ کر بندِ کفن مجھ کو بلا لو اماں
 کربلا والے مسافر کو سنبھالو اماں
-ابھی کچھ دیر تو ٹہرو میرا پھٹتا ہے جگر
+
+۱
+ابھی کچھ دیر تو ٹھہرو میرا پھٹتا ہے جگر
 پاس تم کو بھی میرے نانا کے چلی جانا مگر
 آخری بار کلیجے سے لگا لو اماں
 
-۱
-بن تمہارے نہیں منظور یہ جینا مجھکو
-راس آے گا کہاں اب یہ مدینہ مجھکو
-لے چلو ساتھ کفن میں ہی چھپالو اماں
-
 ۲
-جب سے مارا ہے ستمگر نے طمانچہ تم کو
-آنکھ بھر کر نہیں شبر نے ہے دیکھا تم کو
-اک نظر روتے ہوے بیٹے پہ ڈالو اماں
+بن تمہارے نہیں منظور یہ جینا مجھ کو
+راس آئے گا کہاں اب یہ مدینہ مجھ کو
+لے چلو ساتھ کفن میں ہی چھپا لو اماں
 
 ۳
+جب سے مارا ہے ستمگر نے طمانچہ تم کو
+آنکھ بھر کر نہیں شبر نے ہے دیکھا تم کو
+اک نظر روتے ہوئے بیٹے پہ ڈالو اماں
+
+۴
 دل نہیں مانتا کس طرح یہ برداشت کروں
 دیکھ کر آپ کے قاتل کو میں خاموش رہوں
 اس اذیت سے کسی طرح نکالو اماں
 
-۴
-جب تلک تم‌ نہ بلاؤ گی نہ آے گا حسین
-پیار ماں بیٹے کا دنیا کو دکھاے گا حسین
-آج پہلو سے زرا ہاتھ ہٹا لو اماں
-
 ۵
-تم‌ نہ ہوگی تو میں دنیا میں جیوں گا کیسے
+جب تلک تم نہ بلاؤ گی نہ آئے گا حسین
+پیار ماں بیٹے کا دنیا کو دکھائے گا حسین
+آج پہلو سے ذرا ہاتھ ہٹا لو اماں
+
+۶
+تم نہ ہوگی تو میں دنیا میں جیوں گا کیسے
 آج ماں بیٹا کا اک ساتھ جنازہ اٹھے
 ایک جنت سے کفن اور منگا لو اماں
 
-۶
+۷
 قتل محسن کا ہوا اور میں خاموش رہا
 آپ پر ظلم ہوا اور میں خاموش رہا
 اب خموشی سے میری پہرہ اٹھا لو اماں
 کربلا والے مسافر کو سنبھالو اماں
 
-۷
-ساتھ جاینگے وہاں سارے بہن بھائی ابھی
+۸
+ساتھ جائیں گے وہاں سارے بہن بھائی ابھی
 جہاں رونے کی شکایت نہ کریں گے کوئی
 دور یثرب سے کوئی بستی بسا لو اماں
 
-۸
+۹
 ماں کی میت پہ بھی رہوار سے گرتے دم بھی
 شہ نے آواز تکلم اسی انداز میں دی
 اپنے مظلوم کو گودی میں اٹھا لو اماں
