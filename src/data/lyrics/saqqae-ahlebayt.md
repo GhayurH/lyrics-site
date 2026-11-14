@@ -1,50 +1,51 @@
 ---
 title: "سقائے اہلِبیتِ علمدار ہے کہاں"
-alternateTitle: "Saqqae Ahlebayt"
+alternateTitle: "Saqqa-e-Ahl-e-Bait"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Saqqa e ahlebayt e alamdar hai kahan
-  
+  Saqqa-e-Ahl-e-Bait-e-alamdaar hai kahaṅ
+
   1
-  Ahle haram ka khafila saalar hai kahan
-  Deene rasool e haq ka madadgaar hai kahan
-  Karbobala ka haider e karrar hai kahan
-  
+  Ahl-e-haram ka qaafila saalaar hai kahaṅ
+  Din-e-Rasul-e-haq ka madadgaar hai kahaṅ
+  Karb o Bala ka Haidar-e-Karraar hai kahaṅ
+
   2
-  Hamsheer se ye kehte hai mazloom e karbala
-  Ghurbat mein bekaso ka sahara nahi raha
-  Zainab hamara monis o ghamkhar hai kahan
-  
+  Hamshir se ye kehte haiṅ mazlum-e-Karbala
+  Ghurbat mein bekasoṅ ka sahaara nahiṅ raha
+  Zainab hamaara munis o ghamkhwaar hai kahaṅ
+
   3
-  Pyasi sakina kehti hai rokar ye baar baar
-  Shiddat ki tishnagi se mera dil hai beqarar
-  Baba mera chacha mera ghamkhar hai kahan
-  
+  Pyaasi Sakina kehti hai ro kar ye baar baar
+  Shiddat ki tishnagi se mera dil hai beqaraar
+  Baaba mera chacha mera ghamkhwaar hai kahaṅ
+
   4
-  Mashke sakina chid gayi shaane qalam huwe
-  Farzande bu turab pe kya kya sitam huwe
-  Zainab pukari haye wafadaar hai kahan
-  
+  Mashk-e-Sakina chhid gayi shaane qalam hue
+  Farzand-e-Bu Turaab pe kya kya sitam hue
+  Zainab pukaari haaye wafaadaar hai kahaṅ
+
   5
-  Qasim nahi raha ali akbar nahi raha
-  Shesh maah bezuban ali asghar nahi raha
-  Tanha hai ab hussain alamdar hai kahan
-  
+  Qaasim nahiṅ raha Ali Akbar nahiṅ raha
+  Shash maah bezubaaṅ Ali Asghar nahiṅ raha
+  Tanha hai ab Husain alamdaar hai kahaṅ
+
   6
-  Laaye jo ran se mashk o alam shaahe karbala
-  Fizza har ek qaime mein deti thi ye sada
-  Ay bibiyon hussain ka ghamkhar hai kahan
-  
+  Laaye jo ran se mashk o alam Shaah-e-Karbala
+  Fizza har ek khaime mein deti thi ye sada
+  Ae Bibiyoṅ Husain ka ghamkhwaar hai kahaṅ
+
   7
-  Charon taraf se teer thay saabir hussain par
-  Har zulm ho raha tha shahe mashraqain par
-  Lab par yehi sada thi alamdar hai kahan
+  Chaaroṅ taraf se tir the Saabir Husain par
+  Har zulm ho raha tha Shah-e-Mashriqain par
+  Lab par yehi sada thi alamdaar hai kahaṅ
 # source_id: nohayonline:94845c391f020485bbc3
 # source_url: https://www.nohayonline.com/details_content.php?id=803
 # raw_sha256: ddcee4716a0befbbd793c65ea84f301d3f6cd60b975a6835f43c4b91349eea54
@@ -60,7 +61,7 @@ romanLyrics: |-
 ۲
 ہمشیر سے یہ کہتے ہیں مظلومِ کربلا
 غربت میں بے کسوں کا سہارا نہیں رہا
-زینب ہمارا مونث و غمخوار ہے کہاں
+زینب ہمارا مونس و غمخوار ہے کہاں
 
 ۳
 پیاسی سکینہ کہتی ہے رو کر یہ بار بار
@@ -68,9 +69,9 @@ romanLyrics: |-
 بابا میرا چچا میرا غمخوار ہے کہاں
 
 ۴
-مشک سکینہ چھد گیء شان قلم ہوے
-فرزند بوتراب پہ کیا کیا ستم ہوئے
-زینب پکاری ہاے وفادار ہے کہاں
+مشکِ سکینہ چھد گئی شانے قلم ہوئے
+فرزندِ بو تراب پہ کیا کیا ستم ہوئے
+زینب پکاری ہائے وفادار ہے کہاں
 
 ۵
 قاسم نہیں رہا علی اکبر نہیں رہا
@@ -78,11 +79,11 @@ romanLyrics: |-
 تنہا ہے اب حسین علمدار ہے کہاں
 
 ۶
-لعیں جو رن سے مشک و علم شاہ کربلا
+لائے جو رن سے مشک و علم شاہِ کربلا
 فضہ ہر ایک خیمے میں دیتی تھی یہ صدا
-اے بی بیوں حسین کا غم خوار ہے کہاں
+اے بی‌بیوں حسین کا غم خوار ہے کہاں
 
 ۷
 چاروں طرف سے تیر تھے صابر حسین پر
-ہرظلم ہو رہا تھا شہ مشرقین پر
+ہر ظلم ہو رہا تھا شہِ مشرقین پر
 لب پر یہی صدا تھی علمدار ہے کہاں

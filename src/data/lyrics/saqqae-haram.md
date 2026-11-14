@@ -1,11 +1,12 @@
 ---
 title: "عباس عباس یا ابا لفضل العباس"
-alternateTitle: "Saqqae Haram"
+alternateTitle: "Saqqa-e-Haram"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Hasnain"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -14,61 +15,61 @@ romanLyrics: |-
 
   1
   Saqqa-e-Haram rakh lena bharam
-  Hum dar pe tumhare aaye haiṅ
-  Tum bhi nahi hum ko thukrana
-  Hum dunya ke thukraye haiṅ
+  Hum dar pe tumhaare aaye haiṅ
+  Tum bhi nahiṅ hum ko thukraana
+  Hum dunya ke thukraaye haiṅ
 
   2
-  Ab saare sahare tut chuke
-  Hamein apne paraye lut chuke
-  Tum apni panahon mein le lo
-  Hum gham se bahot ghabraye haiṅ
+  Ab saare sahaare tut chuke
+  Hameiṅ apne paraaye lut chuke
+  Tum apni panaahoṅ mein le lo
+  Hum gham se bahut ghabraaye haiṅ
 
   3
-  Ashkon ki zabaṅ pehchante ho
+  Ashkoṅ ki zabaaṅ pehchaante ho
   Jo dil mein hai woh jaante ho
-  Hum keh nahi sakte tum sun lo
-  Bas haathon ko phailaye haiṅ
+  Hum keh nahiṅ sakte tum sun lo
+  Bas haathoṅ ko phailaaye haiṅ
 
   4
   Har suni godi khil jaaye
   Har beti ko rishta mil jaaye
-  Un chehron ko raunaq de do
-  Jo gham ke sabab murjhaye haiṅ
+  Un chehroṅ ko raunaq de do
+  Jo gham ke sabab murjhaaye haiṅ
 
   5
-  Maula tum Bab-ul-Hawaij ho
-  Rauze pe unhein bhi bulwa lo
+  Maula tum Baab-ul-Hawaaij ho
+  Rauze pe unheiṅ bhi bulwa lo
   Ghurbat ke sabab jo aa na sake
   Hum un ke arize laaye haiṅ
 
   6
   Jo naam tumhara leta hai
   Allah bhi us ko deta hai
-  Khairat burida shanon ki
+  Khairaat burida shaanoṅ ki
   Lene ke liye hum aaye haiṅ
 
   7
-  Hote hain kitne zulm o shadid
-  Aur ahl-e-aza hote hain shahid
-  Jo khatm Yazidon ko kar de
-  Woh taqat maangne aaye haiṅ
+  Hote haiṅ kitne zulm o shadid
+  Aur ahl-e-aza hote haiṅ shahid
+  Jo khatm Yazidoṅ ko kar de
+  Woh taaqat maangne aaye haiṅ
 
   8
-  Maula hai aap se ek sawal
-  Allah hamein de rizq-e-halal
-  Ho lashkar-e-Mehdi mein shamil
-  Jitne bhi zair aaye haiṅ
+  Maula hai aap se ek sawaal
+  Allah hameiṅ de rizq-e-halaal
+  Ho lashkar-e-Mehdi mein shaamil
+  Jitne bhi zaair aaye haiṅ
 
   9
-  Kha kha ke tamache roti hai
-  Zindan ki khaak pe soti hai
+  Kha kha ke tamaache roti hai
+  Zindaan ki khaak pe soti hai
   Bujh jaaye pyaas Sakina ki
-  Hum aankh mein aansuṅ laaye haiṅ
+  Hum aaṅkh mein aansu laaye haiṅ
 
   10
-  Darbar Sakhi Abbas ka tha
-  Kuchh maangna tha lazim maanga
+  Darbaar Sakhi Abbas ka tha
+  Kuchh maangna tha laazim maanga
   Lekin ye haqiqat bhi hai Qamar
   Hum pursa dene aaye haiṅ
 # source_id: nohayonline:180f81cba2249707b6d0
@@ -80,22 +81,22 @@ romanLyrics: |-
 عباس عباس یا ابا لفضل العباس
 
 ۱
-سقاے حرم رکھ لینا بھرم
+سقائے حرم رکھ لینا بھرم
 ہم در پہ تمہارے آئے ہیں
-تم بھی نہیں ہم کو ٹھکرانہ
-ہم دنیا کے‌ٹھکراے ہیں
+تم بھی نہیں ہم کو ٹھکرانا
+ہم دنیا کے ٹھکرائے ہیں
 
 ۲
 اب سارے سہارے ٹوٹ چکے
-ہمیں اپنے پراے لوٹ چکے
+ہمیں اپنے پرائے لوٹ چکے
 تم اپنی پناہوں میں لے لو
-ہم غم سے بہت گھبراے ہیں
+ہم غم سے بہت گھبرائے ہیں
 
 ۳
 اشکوں کی زباں پہچانتے ہو
 جو دل میں ہے وہ جانتے ہو
-ہم‌ کہہ نہیں سکتے تم سن لو
-بس ہاتھوں کو پھیلاے ہیں
+ہم کہہ نہیں سکتے تم سن لو
+بس ہاتھوں کو پھیلائے ہیں
 
 ۴
 ہر سونی گودی کھل جائے
@@ -104,20 +105,20 @@ romanLyrics: |-
 جو غم کے سبب مرجھائے ہیں
 
 ۵
-مولا تم باب الحوایج ہو
-روضے پہ انہیں بھی بلواوالو
+مولا تم باب الحوائج ہو
+روضے پہ انہیں بھی بلوا لو
 غربت کے سبب جو آ نہ سکے
-ہم ان کے عریضے لاے ہیں
+ہم ان کے عریضے لائے ہیں
 
 ۶
 جو نام تمہارا لیتا ہے
 اللّٰہ بھی اس کو دیتا ہے
 خیرات بریدہ شانوں کی
-لینے کے لئے ہم آے‌ ہیں
+لینے کے لیے ہم آئے ہیں
 
 ۷
 ہوتے ہیں کتنے ظلم و شدید
-اور أہل عزا ہوتے ہیں شہید
+اور اہلِ عزا ہوتے ہیں شہید
 جو ختم یزیدوں کو کر دے
 وہ طاقت مانگنے آئے ہیں
 
@@ -131,10 +132,10 @@ romanLyrics: |-
 کھا کھا کے طمانچے روتی ہے
 زندان کی خاک پہ سوتی ہے
 بجھ جائے پیاس سکینہ کی
-ہم‌ آنکھ میں آنسوں لاے‌ ہیں
+ہم آنکھ میں آنسو لائے ہیں
 
 ۱۰
 دربار سخی عباس کا تھا
 کچھ مانگنا تھا لازم مانگا
-لیکن‌ یہ حقیقت بھی ہے قمر
-ہم‌ پرسہ دینے آے ہیں
+لیکن یہ حقیقت بھی ہے قمر
+ہم پرسہ دینے آئے ہیں
