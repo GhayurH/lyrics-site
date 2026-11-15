@@ -43,7 +43,7 @@ romanLyrics: |-
 
   6
   Karni hai jang aakhri bhaiya behan nisaar
-  Khun beh raha hai kaise chalaayeṅ ge Zulfiqaar
+  Khuṅ beh raha hai kaise chalaayeṅ ge Zulfiqaar
   Baazu ka zakhm baandh de behna to jaaiye
 
   7

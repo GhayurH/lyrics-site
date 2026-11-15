@@ -21,14 +21,14 @@ romanLyrics: |-
   Naamahramoṅ ka majma hai aur sar bhi hai khula
 
   2
-  Naaqe ki wo buland wo unchaai al amaaṅ
+  Naaqe ki wo buland wo uṅchaai al amaaṅ
   Taqdir kis maqaam pe le aayi al amaaṅ
   Beti Ali o Fatima Zehra ki mah laqa
 
   3
   Bhai behan meiṅ thi wo mohabbat na puchhiye
   Bandhwa diye haiṅ haath jo bhai ke kat gaye
-  Sar par laga jo gurz to Zainab hai be rida
+  Sar par laga jo gurz to Zainab hai berida
 
   4
   Haaye haaye sitam wo ho gaya ek naaznin par
@@ -53,7 +53,7 @@ romanLyrics: |-
   8
   Lafzoṅ meiṅ Aini kaise musibat likhe koi
   Aamir wo rassiyoṅ se kalaai bandhi hui
-  Girte hue zabaan pe Ali ya Ali hi tha
+  Girte hue zabaaṅ pe Ali ya Ali hi tha
 # source_id: nohayonline:fb6cc76d6eeafd4f922d
 # source_url: https://www.nohayonline.com/details_content.php?id=1296
 # raw_sha256: 5d7a5c20c7b30933743df8a996a4235e4a09a99750df8da173bd57dd47d43009
