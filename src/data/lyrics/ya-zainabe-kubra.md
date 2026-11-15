@@ -1,91 +1,92 @@
 ---
 title: "یا زینب کبرا"
-alternateTitle: "Ya Zainabe Kubra"
+alternateTitle: "Ya Zainab-e-Kubra"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ya Zainabe Kubra"]
 published: false
 romanLyrics: |-
-  Ya zainabe kubra
+  Ya Zainab-e-Kubra
 
   1
-  Ay bibi bani e aza paigham e karbala tera
-  Jisne suna yehi kaha
+  Ae Bibi baani-e-aza paighaam-e-Karbala tera
+  Jis ne suna yehi kaha
 
   2
-  Taygh khutbon ki bar sare darbar
-  Jaise chalti ho hyderi talwaar
-  Kat ke girte thay zalimon ke jigar
-  Jang e khyber thi ya teri lalkaar
-  Ay bibi baani e aza deen e rasool bach gaya
-  Quran ki thi ye sada
+  Tegh khutboṅ ki bar sar-e-darbaar
+  Jaise chalti ho Haidari talwaar
+  Kat ke girte the zaalimoṅ ke jigar
+  Jang-e-Khaibar thi ya teri lalkaar
+  Ae Bibi baani-e-aza din-e-Rasul bach gaya
+  Quraan ki thi ye sada
 
   3
-  Yaad aata hai shaam ka manzar
-  Bibi sar pe tere na thi chadar
-  Har taraf patharon ki baarish thi
-  Teri poshaak thi lahoo mein tar
-  Ay bibi baani e aza sadma tha ye bahot bada
-  Roya sar e shahe huda
+  Yaad aata hai Shaam ka manzar
+  Bibi sar pe tere na thi chaadar
+  Har taraf pattharoṅ ki baarish thi
+  Teri poshaak thi lahu mein tar
+  Ae Bibi baani-e-aza sadma tha ye bahut bara
+  Roya sar-e-Shah-e-Huda
 
   4
-  Tu ne bacchon ki di hai qurbani
-  Haye re tera zokh e emaani
-  Pyase bhai ki yaad mein tu ne
-  Khoon banaya hai aankh ka pani
-  Ay bibi baani e aza ye zabt hausla tera
-  Naize pe sar pukarta
+  Tu ne bachchoṅ ki di hai qurbaani
+  Haae re tera zauq-e-imaani
+  Pyaase bhaai ki yaad mein tu ne
+  Khuṅ bahaaya hai aankh ka paani
+  Ae Bibi baani-e-aza ye zabt hausla tera
+  Naize pe sar pukaarta
 
   5
-  Tere dar par ye isteghasa hai
-  Jo bhi farshe aza pe rota hai
-  Us pe saaya kare tera ghazi
+  Tere dar par ye istighaasa hai
+  Jo bhi farsh-e-aza pe rota hai
+  Us pe saaya kare tera Ghaazi
   Wo jo mushkil kusha ka beta hai
-  Ay bibi baani e aza hum momino ki ye dua
-  Ashk e azaa ka waasta
+  Ae Bibi baani-e-aza hum mominoṅ ki ye dua
+  Ashk-e-aza ka waasta
 
   6
-  Kitne makrooz matami hai tere
-  Karz tu ghaib se adaa kar de
-  Bibi tu to saqi ki beti hai
-  Tu to muflis ko badshaah kar de
-  Ay bibi baani e aza tu innama tu hal ataa
-  Kehta hai sar jhuka hua
+  Kitne maqruz maatami hai tere
+  Qarz tu ghaib se ada kar de
+  Bibi tu to saaqi ki beti hai
+  Tu to muflis ko baadshaah kar de
+  Ae Bibi baani-e-aza tu innama tu hal ata
+  Kehta hai sar sar jhuka hua
 
   7
-  Qaid bejurm jo hai matamdar
-  Misle mazloom abid e bemaar
-  Unko azadiyon ka tohfa de
-  Aaj tu misle hyder e karrar
-  Ay bibi baani e aza hum ko hai tera aasra
-  Ghairon se maangna hai kya
+  Qaid bejurm jo hai maatam daar
+  Misl-e-mazlum Aabid-e-bimaar
+  Un ko aazaadiyoṅ ka tohfa de
+  Aaj tu misl-e-Haidar-e-Karraar
+  Ae Bibi baani-e-aza hum ko hai tera aasra
+  Ghairoṅ se maangna hai kya
 
   8
-  Tere bhai ne jaise raahib ko
-  Saat bete ataa kiye phir to
-  Tu bhi hamsheer us saqi ki hai
-  De de aulaad chahiye jis ko
-  Ay bibi baani e aza aulaad aisi kar ataa
-  Ho wo bhi matami tera
+  Tere bhaai ne jaise raahib ko
+  Saat bete ata kiye phir to
+  Tu bhi hamshir us saaqi ki hai
+  De de aulaad chaahiye jis ko
+  Ae Bibi baani-e-aza aulaad aisi kar ata
+  Ho wo bhi maatami tera
 
   9
-  Waasta us aseer bacchi ka
-  Rassiyon mein bandha tha jiska gala
-  Wo jo pyasi thi mar gayi pyasi
-  Koi baccha na ab rahe pyasa
-  Ay bibi baani e aza hai har sabeel par likha
-  Kehta hai koi bawafa
+  Waasta us asir bachchi ka
+  Rassiyoṅ mein bandha tha jis ka gala
+  Wo jo pyaasi thi mar gai pyaasi
+  Koi bachcha na ab rahe pyaasa
+  Ae Bibi baani-e-aza hai har sabil par likha
+  Kehta hai koi baawafa
 
   10
-  Likh ke rehaan azmi nauha
-  Maine apne qalam ko jab dekha
-  Khoon tapakta tha uski aankhon se
-  Soz kaghaz ke qalb se utha
-  Ay bibi baani e aza hum se na haq adaa hua
+  Likh ke Rehaan Azmi nauha
+  Main ne apne qalam ko jab dekha
+  Khuṅ tapakta tha us ki aankhoṅ se
+  Soz kaaghaz ke qalb se utha
+  Ae Bibi baani-e-aza hum se na haq ada hua
   Kar de muaaf ye khata
 # source_id: nohayonline:e0130d6c57fa4f1a7f72
 # source_url: https://www.nohayonline.com/details_content.php?id=3301
@@ -94,7 +95,7 @@ romanLyrics: |-
 یا زینب کبرا
 
 ۱
-اے بی بی بانیء عزا پیغام کربلا تیرا
+اے بی‌بی بانیء عزا پیغام کربلا تیرا
 جس نے سنا یہی کہا
 
 ۲
@@ -102,23 +103,23 @@ romanLyrics: |-
 جیسے چلتی ہو حیدری تلوار
 کٹ کے گرتے تھے ظالموں کے جگر
 جنگ خیبر تھی یا تیری للکار
-اے بی بی بانیء عزا دین رسول بچ گیا
+اے بی‌بی بانیء عزا دین رسول بچ گیا
 قرآن کی تھی یہ صدا
 
 ۳
 یاد آتا ہے شام کا منظر
-بی بی سر پہ تیرے نہ تھی چادر
+بی‌بی سر پہ تیرے نہ تھی چادر
 ہر طرف پتھروں کی بارش تھی
 تیری پوشاک تھی لہو میں تر
-اے بی بی بانیء عزا صدمہ تھا یہ بہت بڑا
-رویا سر شہ ہدا
+اے بی‌بی بانیء عزا صدمہ تھا یہ بہت بڑا
+رویا سر شہ ہدیٰ
 
 ۴
 تو نے بچوں کی دی ہے قربانی
-ہاے رے تیرا زوق ایمانی
-پیاسے بھای کی یاد میں تو نے
+ہائے رے تیرا ذوق ایمانی
+پیاسے بھائی کی یاد میں تو نے
 خوں بہایا ہے آنکھ کا پانی
-اے بی بی بانیء عزا یہ ضبط حوصلہ تیرا
+اے بی‌بی بانیء عزا یہ ضبط حوصلہ تیرا
 نیزے پہ سر پکارتا
 
 ۵
@@ -126,45 +127,45 @@ romanLyrics: |-
 جو بھی فرش عزا پہ روتا ہے
 اس پہ سایہ کرے تیرا غازی
 وہ جو مشکل کشاء کا بیٹا ہے
-اے بی بی بانیء عزا ہم مومنوں کی یہ دعا
+اے بی‌بی بانیء عزا ہم مومنوں کی یہ دعا
 اشکِ عزا کا واسطہ
 
 ۶
 کتنے مقروض ماتمی ہے تیرے
 قرض تو غیب سے ادا کر دے
-بی بی تو تو سقی کی بیٹی ہے
+بی‌بی تو تو ساقی کی بیٹی ہے
 تو تو مفلس کو بادشاہ کر دے
-اے بی بی بانیء عزا تو انما تو ھل اتیٰ
+اے بی‌بی بانیء عزا تو انما تو ھل اتیٰ
 کہتا ہے سر سر جھکا ہوا
 
 ۷
 قید بے جرم جو ہے ماتم دار
 مثل مظلوم عابد بیمار
-انکو آزادیوں کا تحفہ دے
+ان کو آزادیوں کا تحفہ دے
 آج تو مثل حیدر کرار
-اے بی بی بانیء عزا ہم کو ہے تیرا آسرا
+اے بی‌بی بانیء عزا ہم کو ہے تیرا آسرا
 غیروں سے مانگنا ہے کیا
 
 ۸
-تیرے بھای نے جیسے راحب کو
-سات بیٹے عطا کیےء پھر تو
-تو بھی ہمشیر اس سقی کی ہے
-دے دے اولاد چاہیےء جس کو
-اے بی بی بانیء عزا اولاد ایسی کر عطا
+تیرے بھائی نے جیسے راہب کو
+سات بیٹے عطا کیے پھر تو
+تو بھی ہمشیر اس ساقی کی ہے
+دے دے اولاد چاہیے جس کو
+اے بی‌بی بانیء عزا اولاد ایسی کر عطا
 ہو وہ بھی ماتمی تیرا
 
 ۹
 واسطہ اس اسیر بچی کا
 رسیوں میں بندھا تھا جس کا گلا
-وہ جو پیاسی تھی مر گیء پیاسی
-کوی بچہ نہ اب رہے پیاسا
-اے بی بی بانیء عزا ہے ہر سبیل پر لکھا
-کہتا ہے کوی باوفا
+وہ جو پیاسی تھی مر گئی پیاسی
+کوئی بچہ نہ اب رہے پیاسا
+اے بی‌بی بانیء عزا ہے ہر سبیل پر لکھا
+کہتا ہے کوئی باوفا
 
 ۱۰
 لکھ کے ریحان اعظمی نوحہ
 میں نے اپنے قلم کو جب دیکھا
 خوں ٹپکتا تھا اس کی آنکھوں سے
 سوز کاغذ کے قلب سے اٹھا
-اے بی بی بانیء عزا ہم سے نہ حق ادا ہوا
+اے بی‌بی بانیء عزا ہم سے نہ حق ادا ہوا
 کر دے معاف یہ خطا

@@ -1,74 +1,77 @@
 ---
 title: "بیٹی کو میں نے اپنی سینے پہ جب سلایا"
-alternateTitle: "Yaad Aagayi Sakina"
+alternateTitle: "Yaad Aa Gai Sakina"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
-aliases: []
+aliases: ["Yaad Aagayi Sakina"]
 published: false
 romanLyrics: |-
-  Beti ko maine apni seene pe jab sulaya
-  Yaad aagayi sakina
-  Mai dayr tak khud apne aansu na rok paaya
+  Beti ko main ne apni sine pe jab sulaaya
+  Yaad aa gai Sakina
+  Main der tak khud apne aansu na rok paaya
+  Yaad aa gai Sakina
 
   1
-  Beti ne meri poocha kyun ro rahe ho baba
-  Ghamgeen kiske gham mein tum ho rahe ho baba
-  Kaampe huwe labon se maine usay bataya
+  Beti ne meri puchha kiuṅ ro rahe ho Baaba
+  Ghamgin kis ke gham mein tum ho rahe ho Baaba
+  Kaanpe hue laboṅ se main ne use bataaya
 
   2
-  Ehsaas e gham se mere dil par nahi tha qaabu
-  Haanton se nanhe nanhe jab pochti thi aansu
-  Beti ka pyar dekha to mera dil bhar aaya
+  Ehsaas-e-gham se mere dil par nahiṅ tha qaabu
+  Haathoṅ se nanhe nanhe jab ponchhti hai aansu
+  Beti ka pyaar dekha to mera dil bhar aaya
 
   3
-  Phir usne mujhse poocha ye kaun thi sakina
-  Baba batao uske baba ka naam kya tha
-  Aankhon ne meri sunkar khoon e jigar bahaya
+  Phir us ne mujh se puchha ye kaun thi Sakina
+  Baaba bataao us ke Baaba ka naam kya tha
+  Aankhoṅ ne meri sun kar khun-e-jigar bahaaya
 
   4
-  Phir meri laadli ne aisa sawaal poocha
-  Dil hil gaya sakina bibi ka haal poocha
-  Sehra e karbala ka mujhko khayaal aaya
+  Phir meri laadli ne aisa sawaal puchha
+  Dil hil gaya Sakina Bibi ka haal puchha
+  Sahra-e-Karbala ka mujh ko khayaal aaya
 
   5
-  Kab neend usko mere seene pe aa rahi thi
+  Kab nind us ko mere sine pe aa rahi thi
   Hamraah wo bhi mere aansu baha rahi thi
-  De de ke jab tasalli maine usay chupaya
+  De de ke jab tasalli main ne use chhupaaya
 
   6
-  Jab pyar se wo mere ruksaar choomti thi
-  Tasveer karbala ki nazron mein ghoomti thi
-  Bachi ne dil pe aisa koh e alam giraya
+  Jab pyaar se wo mere rukhsaar chumti thi
+  Tasvir-e-Karbala ki nazroṅ mein ghumti thi
+  Bachchi ne dil pe aisa koh-e-alam giraaya
 
   7
-  Jab meri laadli ne zid mujhse barmala ki
-  Baba mujhe sunao rudaad karbala ki
-  Aankhon se ashk barse kuch moo se kehna paaya
+  Jab meri laadli ne zid mujh se barmala ki
+  Baaba mujhe sunaao rudaad-e-Karbala ki
+  Aankhoṅ se ashk barse kuchh munh se kehna paaya
 
   8
-  Ahle aza tadap kar sun sun ke ro rahe thay
-  Gham ka samaa bandha tha sar dhun ke ro rahe thay
-  Akhtar ye tera nauha aamir ne jab sunaya
+  Ahl-e-aza tarap kar sun sun ke ro rahe the
+  Gham ka samaaṅ bandha tha sar dhun ke ro rahe the
+  Akhtar ye tera nauha Aamir ne jab sunaaya
 # source_id: nohayonline:0adb3819aedd7903cad5
 # source_url: https://www.nohayonline.com/details_content.php?id=1295
 # raw_sha256: 60977d08b0bbf42155d453c1d8df1610dc7a3bb3fb077ca3d451391e643d72ad
 ---
 بیٹی کو میں نے اپنی سینے پہ جب سلایا
 یاد آگئی سکینہ
-میں دیر تک خود اپنے آنسوں نہ رک پایا
+میں دیر تک خود اپنے آنسو نہ روک پایا
+یاد آگئی سکینہ
 
 ۱
 بیٹی نے میری پوچھا کیوں رو رہے ہو بابا
 غمگین کس کے غم میں تم ہو رہے ہو بابا
-کانپے ہوے لبوں سے میں نے اسے بتایا
+کانپے ہوئے لبوں سے میں نے اسے بتایا
 
 ۲
 احساس غم سے میرے دل پر نہیں تھا قابو
-ہاتھوں سے ننھے ننھے جب پونچتی ہے آنسوں
+ہاتھوں سے ننھے ننھے جب پونچھتی ہے آنسو
 بیٹی کا پیار دیکھا تو میرا دل بھر آیا
 
 ۳
@@ -78,13 +81,13 @@ romanLyrics: |-
 
 ۴
 پھر میری لاڈلی نے ایسا سوال پوچھا
-دل ہل گیا سکینہ بی بی کا حال پوچھا
-صحرائے کربلا کا مجھکو خیال آیا
+دل ہل گیا سکینہ بی‌بی کا حال پوچھا
+صحرائے کربلا کا مجھ کو خیال آیا
 
 ۵
 کب نیند اس کو میرے سینے پہ آ رہی تھی
-ہمراہ وہ بھی میرے آنسوں بہا رہی تھی
-دے دے کہ جب تسلی میں نے اسے چھپایا
+ہمراہ وہ بھی میرے آنسو بہا رہی تھی
+دے دے کے جب تسلی میں نے اسے چھپایا
 
 ۶
 جب پیار سے وہ میرے رخسار چومتی تھی
@@ -94,7 +97,7 @@ romanLyrics: |-
 ۷
 جب میری لاڈلی نے ضد مجھ سے برملا کی
 بابا مجھے سناؤ روداد کربلا کی
-آنکھوں سے آشک برسے کچھ منہ سے کہنا پایا
+آنکھوں سے اشک برسے کچھ منہ سے کہنا پایا
 
 ۸
 اہلِ عزا تڑپ کر سن سن کے رو رہے تھے
