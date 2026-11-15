@@ -1,0 +1,60 @@
+name: One-time import merge preparation
+on:
+  push:
+    branches:
+      - feat/import-overlap-reconciliation-2026-11-05
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  prepare:
+    if: github.event_name == 'workflow_dispatch' || contains(github.event.head_commit.message, '[prepare-merge]')
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+          cache: npm
+      - name: Ensure main is integrated
+        run: |
+          git fetch origin main
+          git merge-base --is-ancestor origin/main HEAD
+      - name: Normalize source metadata and build audit
+        run: |
+          python3 -m py_compile scripts/prepare-import-merge.py
+          python3 scripts/prepare-import-merge.py
+      - name: Admit Balti to the language schema
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          path=Path('src/content.config.ts')
+          source=path.read_text('utf-8')
+          assert '      "English",\n    ]),' in source
+          assert 'z.enum(["ur", "ar", "fa", "en"])' in source
+          source=source.replace('      "English",\n    ]),','      "English",\n      "Balti",\n    ]),',1)
+          source=source.replace('z.enum(["ur", "ar", "fa", "en"])','z.enum(["ur", "ar", "fa", "en", "bft"])',1)
+          path.write_text(source,'utf-8')
+          PY
+      - name: Install dependencies and lock permanent lyric IDs
+        run: |
+          npm ci
+          node --experimental-strip-types scripts/recitation-identities.mjs --sync
+      - name: Summarize editorial findings without editing verse text
+        continue-on-error: true
+        run: |
+          npm run content:review -- --summary
+      - name: Commit prepared Markdown, metadata and audit, remove one-time tools
+        run: |
+          rm -f scripts/prepare-import-merge.py .github/workflows/prepare-import-merge.yml
+          rm -rf scripts/__pycache__
+          git add -A src/data/lyrics src/data/recitation/identity-lock.json src/content.config.ts audit scripts/prepare-import-merge.py .github/workflows/prepare-import-merge.yml
+          git diff --cached --check
+          git diff --cached --stat | tail -n 20
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "Prepare imported lyric metadata and recitation identities"
+          git push origin "HEAD:feat/import-overlap-reconciliation-2026-11-05"
