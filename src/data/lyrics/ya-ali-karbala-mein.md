@@ -6,50 +6,51 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hilmi Afandi"
+reciter: "Mirza Sikander Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ya ali karbala mein aag lagi
-  Khana e mustufa mein aag lagi
+  Ya Ali Karbala meiṅ aag lagi
+  Khaana-e-Mustafa meiṅ aag lagi
 
   1
-  Jal rahi hai rasool ki masnat
-  Qalb e khairunnisa mein aag lagi
+  Jal rahi hai Rasul ki masnad
+  Qalb-e-Khairunnisa meiṅ aag lagi
 
   2
-  Sar barehna hai dil jali zainab
-  Chadare fatema mein aag lagi
+  Sar barahna hai dil jali Zainab
+  Chaadar-e-Faatima meiṅ aag lagi
 
   3
   Jal raha hai kisi ka pairahan
-  Aur kisi ki rida mein aag lagi
+  Aur kisi ki rida meiṅ aag lagi
 
   4
-  Roke kehti hai saani e zehra
-  Utho abid aba mein aag lagi
+  Ro ke kehti hai saani-e-Zehra
+  Utho Aabid aba meiṅ aag lagi
 
   5
-  Karbala se jo shaam mein pahunche
-  Qalb e zainulliban mein aag lagi
+  Karbala se jo Shaam meiṅ pahunche
+  Qalb-e-zainulliban meiṅ aag lagi
 
   6
-  Dekho aa kar najaf se ainullah
-  Kaisi ye nainawa mein aag lagi
+  Dekho aa kar Najaf se Ainullah
+  Kaisi ye Nainawa meiṅ aag lagi
 
   7
-  Yaad kar fatema ka dar hilmi
-  Dekh ab karbala mein aag lagi
+  Yaad kar Faatima ka dar Hilmi
+  Dekh ab Karbala meiṅ aag lagi
 # source_id: nohayonline:6707c857fff3815eb426
 # source_url: https://www.nohayonline.com/details_content.php?id=501
 # raw_sha256: a39826301f66104c041d704e23de630be1052c94ae8a71a65855d2c182ac7493
 ---
 یا علی کربلا میں آگ لگی
-خانئہ مصطفیٰ میں آگ لگی
+خانۂ مصطفیٰ میں آگ لگی
 
 ۱
 جل رہی ہے رسول کی مسند
-قلبِ خیرُالنسائ میں آگ لگی
+قلبِ خیر النساء میں آگ لگی
 
 ۲
 سر برہنہ ہے دل جلی زینب
@@ -60,7 +61,7 @@ romanLyrics: |-
 اور کسی کی ردا میں آگ لگی
 
 ۴
-رو کے کہتی ہے ثانیئے زہرا
+رو کے کہتی ہے ثانیٔ زہرا
 اُٹھو عابد عبا میں آگ لگی
 
 ۵
