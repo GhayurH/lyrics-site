@@ -6,43 +6,45 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zaaer Jaffri"
+reciter: "Kazmi Brothers"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ay wali e arz o samaa ya imam e raza
-  Ya raza ya raza maula ya ghareebal ghuraba
+  Ae wali-e-arz o samaaṅ ya Imam-e-Raza
+  Ya Raza ya Raza Maula ya Gharib al-Ghuraba
 
   1
-  Hai ab bhi baarwan maula ghurbat pe teri ro raha
+  Hai ab bhi baarahwaṅ Maula ghurbat pe teri ro raha
+  Ya Raza ya Raza Maula ya Gharib al-Ghuraba
 
   2
-  Tere jigar ke tukde kat kat ke jab giray
-  Turbat ko chod kar chali mashad ke simt fatema
+  Tere jigar ke tukre kat kat ke jab gire
+  Turbat ko chhor kar chaliṅ Mashhad ki simt Fatima
 
   3
-  Teri judaai bhi yun behno pe chaa gayi
-  Akbar ne gham ne sughra ko jaise zaeef kar diya
+  Teri judaai bhi yuṅ behnoṅ pe chha gayi
+  Akbar ke gham ne Sughra ko jaise zaif kar diya
 
   4
-  Hasrat jo leke aayi thi tujhse milne ki
-  Armaan us behan ko bhi maula nahi tu mil saka
+  Hasrat jo le ke aayi thi tujh se milne ki
+  Armaan us behan ko bhi Maula nahiṅ tu mil saka
 
   5
-  Guzri hai zindagani tanhaai may teri
+  Guzri hai zindagaani tanhaai mein teri
   Aur qabr ka watan se hai sab se zyada faasla
 
   6
-  Mashad may teri turbat yasrab se door hai
-  Taboot toos may tera sabse akela hai pada
+  Mashhad mein teri turbat Yasrab se dur hai
+  Taabut Tus mein tera sab se akela hai para
 
   7
-  Basta rahe tumhara khurasan har ghadi
-  Faryaad sun ghareebon ki humko hai tera aasra
+  Basta rahe tumhaara Khuraasaan har ghari
+  Faryaad sun ghariboṅ ki hum ko hai tera aasra
 
   8
-  Nauha kuna hai zaaer saara hi ye jahan
-  Maula raza ka matam jo arz o samaa may hai bapa
+  Nauha kunaṅ hai Zaaer saara hi ye jahaaṅ
+  Maula Raza ka maatam jo arz o samaaṅ mein hai bapa
 # source_id: nohayonline:83c59d5f886ccda6db61
 # source_url: https://www.nohayonline.com/details_content.php?id=1373
 # raw_sha256: bdd00b67b44de955a1ff306088edc50f679388de2efab7ebe4afad119d78e172
@@ -52,21 +54,22 @@ romanLyrics: |-
 
 ۱
 ہے اب بھی بارہواں مولا غُربت پے تیری رو رہا
+یا رضا یا رضا مولا یا غریب الغُربا
 
 ۲
 تیرے جِگر کے ٹُکڑے کٹ کٹ کے جب گِرے
 تُربت کو چھوڑ کر چلیں مشہد کی سِمت فاطمہ
 
 ۳
-تیری جُدائ بھی یوں بہنوں پے چھا گئ
+تیری جُدائی بھی یوں بہنوں پے چھا گئی
 اکبر کے غم نے صُغرا کو جیسے ضعیف کر دیا
 
 ۴
-حسرت جو لے کے آئ تھی تُجھ سے ملنے کی
+حسرت جو لے کے آئی تھی تُجھ سے ملنے کی
 ارمان اُس بہن کو بھی مولا نہیں تو مل سکا
 
 ۵
-گُزری ہے زندگانی تنہائ میں تیری
+گُزری ہے زندگانی تنہائی میں تیری
 اور قبر کا وطن سے ہے سب سے زیادہ فاصلہ
 
 ۶
@@ -78,5 +81,5 @@ romanLyrics: |-
 فریاد سُن غریبوں کی ہم کو ہے تیرا آسرا
 
 ۸
-نوحہ کُنا ں ہے زائر سارا ہی یہ جہاں
+نوحہ کُناں ہے زائر سارا ہی یہ جہاں
 مولا رضا کا ماتم جو عرض و سماں میں ہے بپا

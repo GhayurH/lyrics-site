@@ -1,59 +1,60 @@
 ---
 title: "لبیک لبیک لبیک لبیک"
-alternateTitle: "Ya Saaratul Hussain"
+alternateTitle: "Ya Saaratul Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nasir Zaidi"
+reciter: "Mir Rehan Abbas"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ya Saaratul Hussain"]
 published: false
 romanLyrics: |-
   Labbaik labbaik labbaik labbaik
-  Ya saraatul hussain
+  Ya saaratul Husain
 
   1
-  Gardon se aa rahi hai ye awaaze jibraeel
-  Be-gor o be-kafan hai wo islam ka qateel
-  Zainab hai berida to nahi zakhm ki sabeel
-  Ghurbat mein maara daala hai zehra ke noore ain
+  Garduṅ se aa rahi hai ye aawaaz-e-Jibrail
+  Begor o bekafan hai wo Islam ka qatil
+  Zainab hai berida to nahiṅ zakhm ki sabil
+  Ghurbat mein maara daala hai Zehra ke nur-e-ain
 
   2
-  Abbase naamwar ke lahoo se dhula hua
-  Ab bhi hussainiyat ka alam hai khula hua
-  Niklo gharon se matame sarwar bapa hua
-  Hone se paaye kam kabhi awaaze shor o shain
+  Abbas-e-naamwar ke lahu se dhula hua
+  Ab bhi Husainiyat ka alam hai khula hua
+  Niklo gharoṅ se maatam-e-Sarwar bapa hua
+  Hone se paaye kam kabhi aawaaz-e-shor o shain
 
   3
-  Dunya pe gir pada alam e sher e kirdigaar
-  Barchi sitam ki hogayi akbar ke dil ke paar
-  Umme rabab ghash mein sakina hai beqaraar
-  Asghar ko leke aa gaye maidan mein hussain
+  Dunya pe gir para aalam-e-Sher-e-Kirdigaar
+  Barchhi sitam ki ho gayi Akbar ke dil ke paar
+  Umm-e-Rabaab ghash mein Sakina hai beqaraar
+  Asghar ko le ke aa gaye maidaan mein Husain
 
   4
-  Allah re wo shimr ka khanjar wo sheh ka sar
-  Hilne lagay thay khaana e kaabe ke baam o dar
-  Dharti to kya falak ka bhi tukde hua jigar
-  Sakte mein maghrabain thay sakte mein mashraqain
+  Allah re wo Shimr ka khanjar wo Shah ka sar
+  Hilne lage the khaana-e-Kaaba ke baam o dar
+  Dharti to kya falak ka bhi tukre hua jigar
+  Sakte mein maghribain the sakte mein mashriqain
 
   5
-  Aale rasool qaid huwe wa musibata
-  Karbobala se lute ke chale wa musibata
-  Durre laga rahe hai layeen wa musibata
-  Paamaliyon ki zad pe hai zehra k noor e ain
+  Aal-e-Rasul qaid hue wa musibata
+  Karbobala se lut ke chale wa musibata
+  Durre laga rahe haiṅ lain wa musibata
+  Paamaaliyoṅ ki zad pe hai Zehra ke nur-e-ain
 
   6
-  Mauje furaat sharm se daaman bhigo gayi
-  Baali sakina hichkiyan le le ke sogayi
-  Qaime jale ridayein chini shaam aa gayi
-  Qabre nabi hilaste hai saydaniyon ke bain
+  Mauj-e-Furaat sharm se daaman bhigo gayi
+  Baali Sakina hichkiyaaṅ le le ke so gayi
+  Khaime jale ridaaeṅ chhiniṅ shaam aa gayi
+  Qabr-e-Nabi hilaate haiṅ sayyidaaniyoṅ ke bain
 
   7
-  Nasir hussain nusrate shabbir farz hai
-  Bachon pe azme asghar e baysheer farz hai
-  Maaon pe hukme zainab e dilgeer farz hai
-  Yaane bapa ho charon taraf matame hussain
+  Nasir Husain nusrat-e-Shabbir farz hai
+  Bachchoṅ pe azm-e-Asghar-e-beshir farz hai
+  Maaoṅ pe hukm-e-Zainab-e-dilgir farz hai
+  Yaani bapa ho chaaroṅ taraf maatam-e-Husain
 # source_id: nohayonline:6910f5ab83937160e7d7
 # source_url: https://www.nohayonline.com/details_content.php?id=2122
 # raw_sha256: e119e8e3bb6d39493578186c040d5faaeb488a0c56888b3423748bb821eac381
@@ -71,13 +72,13 @@ romanLyrics: |-
 عباس نامور کے لہو سے دھلا ہوا
 اب بھی حسینیت کا علم ہے کھلا ہوا
 نکلو گھروں سے ماتم سرور بپا ہوا
-ہونے سے پاے کم کبھی آواز شور و شین
+ہونے سے پائے کم کبھی آواز شور و شین
 
 ۳
 دنیا پہ گر پڑا عالم شیر کردگار
-برچھی ستم کی ہو گیء اکبر کے دل کے پار
+برچھی ستم کی ہو گئی اکبر کے دل کے پار
 ام رباب غش میں سکینہ ہے بیقرار
-اصغر کو لے کے آ گےء میدان میں حسین
+اصغر کو لے کے آ گئے میدان میں حسین
 
 ۴
 اللّٰہ رے وہ شمر کا خنجر وہ شہ کا سر
@@ -86,15 +87,15 @@ romanLyrics: |-
 سکتے میں مغربین تھے سکتے میں مشرقین
 
 ۵
-آل رسول قید ہوے وا مصیبتا
+آل رسول قید ہوئے وا مصیبتا
 کربوبلا سے لٹ کے چلے وا مصیبتا
 درے لگا رہے ہیں لعیں وا مصیبتا
 پامالیوں کی ضد پہ ہے زہرا کے نور عین
 
 ۶
-موج فرات شرم سے دامن بھگو گیء
-بالی سکینہ ہچکیاں لے لے کے سو گیء
-خیمے جلے رداییں چھنی شام آ گیء
+موج فرات شرم سے دامن بھگو گئی
+بالی سکینہ ہچکیاں لے لے کے سو گئی
+خیمے جلے ردائیں چھنی شام آ گئی
 قبر نبی ہلاتے ہیں سیدانیوں کے بین
 
 ۷
