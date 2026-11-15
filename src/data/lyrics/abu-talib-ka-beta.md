@@ -8,8 +8,6 @@ kalamType: "Manqabat"
 tags: []
 aliases:
   - "Abu Talib Ka Beta"
-cover: "/images/lyrics/abu-talib-ka-beta.png"
-coverAlt: "Cover image for Abu Talib Ka Beta"
 published: true
 romanLyrics: |-
   1

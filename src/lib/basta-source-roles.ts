@@ -22,7 +22,7 @@ export function isKnownByline(line: string): boolean {
  * Only classify a label in its own introductory block as a title. */
 export function isGenreHeading(line: string): boolean {
   const value = line.trim().replace(/^\[|\]$/gu, "").trim();
-  return /^(?:رباعی|قطعہ|قطعات|منقبت|مناجات|سوزخوانی|مختصر زیارات|[\p{L}\sِ]+ سے خطاب|Rubai|Ruba(?:i|yat)|Qit['’]a|Qita['’]?at|Manqabat|Munajat|(?:Soz|Soaz)khwani|Mukhtasar Ziarat|[A-Za-z\s-]+ se khitab)$/iu.test(value);
+  return /^(?:رباعی|قطعہ|قطعات|منقبت|مناجات|سوزخوانی|مختصر زیارات|[\p{L}\sِ]+ سے خطاب|Rubai|Ruba(?:i|yat)|Qit['’]?a|Qita['’]?at|Manqabat|Munajat|(?:Soz|Soaz)khwani|Mukhtasar Ziarat|[A-Za-z\s-]+ se khitab)$/iu.test(value);
 }
 
 /** Scan transcriptions can vary slightly between a printed heading and

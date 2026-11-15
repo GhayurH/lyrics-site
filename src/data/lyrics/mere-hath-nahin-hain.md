@@ -9,8 +9,6 @@ poet: "Rehaan Azmi"
 tags: []
 aliases:
   - "Mere Hath Nahin Hain"
-cover: "/images/lyrics/mere-hath-nahin-hain.png"
-coverAlt: "Cover image for Mere Hath Nahiṅ Haiṅ"
 published: true
 romanLyrics: |-
   Jab haath qalam ho chuke abbas e jari ke

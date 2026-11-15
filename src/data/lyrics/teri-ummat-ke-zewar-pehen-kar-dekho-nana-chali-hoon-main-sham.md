@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Teri Ummat Ke Zewar Pehen Kar Dekho Nana Chali Hoon Main Sham"
-cover: "/images/lyrics/teri-ummat-ke-zewar-pehen-kar-dekho-nana-chali-hoon-main-sham.png"
-coverAlt: "Cover image for Teri Ummat Ke Zewar Pehen Kar"
 published: true
 romanLyrics: |-
   Teri Ummat Ke Zewar Pehen Kar

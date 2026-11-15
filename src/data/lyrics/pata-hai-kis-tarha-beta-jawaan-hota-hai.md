@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Pata Hai Kis Tarha Beta Jawaan Hota Hai"
-cover: "/images/lyrics/pata-hai-kis-tarha-beta-jawaan-hota-hai.png"
-coverAlt: "Cover image for Pata Hai Kis Tarha Beta Jawaan Hota Hai"
 published: true
 romanLyrics: |-
   Tarap Ke Laasha-e-Akbar Pe Bole, Sibt-e-Nabi

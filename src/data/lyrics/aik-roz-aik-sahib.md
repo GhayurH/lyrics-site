@@ -8,8 +8,6 @@ kalamType: "Manqabat"
 tags: []
 aliases:
   - "Aik Roz Aik Sahib"
-cover: "/images/lyrics/aik-roz-aik-sahib.png"
-coverAlt: "Cover image for Aik Roz Aik Sahib"
 published: true
 romanLyrics: |-
   Ek roz ek sahib-e zulf-e daraaz ne

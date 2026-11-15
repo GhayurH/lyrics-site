@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Halchal Hay Fauj E Shaam Mein Abbas Atay Hain"
-cover: "/images/lyrics/halchal-hay-fauj-e-shaam-mein-abbas-atay-hain.png"
-coverAlt: "Cover image for Halchal Hai Fauj-e-Shaam Meiṅ Abbas Ate Haiṅ"
 published: true
 romanLyrics: |-
   Halchal hai fauj-e-shaam meiṅ Abbas ate haiṅ

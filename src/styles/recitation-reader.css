@@ -3,7 +3,7 @@
 
 .recite-reader-heading p { color: var(--secondary-text); }
 
-.recite-reading-root { container: reader-shell / inline-size; min-width: 0; }
+.recite-reading-root { container: reader-shell / inline-size; width: 100%; max-width: 100%; min-width: 0; }
 
 .recite-reader-toolbar { position: static; display: flex; flex-wrap: wrap; gap: .4rem; align-items: center; justify-content: center; background: var(--surface-background); border: var(--ui-border); border-radius: var(--ui-radius-card); padding: .5rem; margin-bottom: 1rem; }
 
@@ -13,9 +13,13 @@
 
 .recite-reader-view-label { display: flex; align-items: center; gap: .4rem; color: var(--secondary-text); font-size: .8rem; }
 
-.recite-works { display: grid; }
+.recite-works { display: grid; grid-template-columns: minmax(0, 1fr); width: 100%; min-width: 0; }
 
-.recite-work { border: var(--ui-border); border-radius: var(--ui-radius-card); background: var(--site-background); overflow: clip; }
+.recite-work {
+  width: 100%; max-width: 100%; min-width: 0;
+  border: var(--ui-border); border-radius: var(--ui-radius-card);
+  background: var(--site-background); overflow: clip;
+}
 
 .recite-work-header { border-bottom: var(--ui-border); }
 
@@ -23,7 +27,7 @@
 
 .recite-work-header p { color: var(--secondary-text); font-size: .82rem; margin: .15rem 0; }
 
-.recite-editions > .lyric-reading-panel { min-width: 0; }
+.recite-editions > .lyric-reading-panel { width: 100%; min-width: 0; max-width: 100%; }
 
 .recite-editions .lyric-reading-image img { width: 100%; height: auto; max-height: 80vh; object-fit: contain; }
 
@@ -42,10 +46,6 @@
 .recite-editions .recite-empty-edition { padding: 1rem; color: var(--secondary-text); font-size: .9rem; }
 
 .recite-work-placeholder { padding: 1.5rem; color: var(--secondary-text); }
-
-.recite-stanza-source { font-size: .73rem; padding: .35rem 0; color: var(--secondary-text); }
-
-.recite-stanza-source a { color: inherit; }
 
 .recite-work-note { padding: .55rem 1rem; margin: 0; border-bottom: var(--ui-border); color: var(--secondary-text); }
 
@@ -162,8 +162,8 @@ html[data-reading-focus="true"] .reading-controls-recitation .recite-reader-tool
   color: var(--secondary-text); font-size: .86rem; line-height: 1.6;
 }
 
-/* Programme poems inherit edition breakpoints; clip only their reading surface. */
-.recite-editions { width: 100%; overflow: clip; }
+/* Intrinsic verse widths must never expand the card beyond the controls. */
+.recite-editions { width: 100%; max-width: 100%; min-width: 0; overflow: clip; }
 
 .recite-reader-toolbar :is(#recite-previous,#recite-next) { font-weight: 700; }
 

@@ -8,8 +8,6 @@ kalamType: "Manqabat"
 tags: []
 aliases:
   - "Husain Kiya Hai Namaz Kiya Hai"
-cover: "/images/lyrics/hussain-kiya-hai-namaz-kiya-hai.png"
-coverAlt: "Cover image for Husain Kiya Hai Namaz Kiya Hai"
 published: true
 romanLyrics: |-
   tu ab bhi mujhse ye puchta hai

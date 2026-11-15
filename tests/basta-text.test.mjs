@@ -332,7 +332,7 @@ test("Basta generic headings and unlisted poet bylines use shared title/credit s
 });
 
 test("standalone genre headings are titles, standalone attribution lines are not", () => {
-  for (const heading of ["[قطعہ]", "[Qit'a]", "قطعہ", "Qit'a", "سوزخوانی", "Sozkhwani", "عزاداروں سے خطاب", "Azadaron se khitab"]) {
+  for (const heading of ["[قطعہ]", "[Qita]", "[Qit'a]", "قطعہ", "Qita", "Qit'a", "سوزخوانی", "Sozkhwani", "عزاداروں سے خطاب", "Azadaron se khitab"]) {
     const lines = layoutBastaKalam([heading, "", "Verse one", "Verse two", "Verse three", "Verse four"].join("\n"));
     assert.equal(lines[0].title, true, heading);
     assert.equal(lines[0].poet, undefined, heading);

@@ -8,8 +8,6 @@ kalamType: "Salam"
 tags: []
 aliases:
   - "Fatima Ke Chain Ne"
-cover: "/images/lyrics/fatima-ke-chain-ne.png"
-coverAlt: "Cover image for Fatima Ke Chain Ne"
 published: true
 romanLyrics: |-
   Fatima ke chain ne Ali ke nur-e-ain ne

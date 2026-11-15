@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Ran Ko Jaate Huwe Sar Jhukaye Hue"
-cover: "/images/lyrics/ran-ko-jaate-huwe-sar-jhukaye-hue.png"
-coverAlt: "Cover image for Ran Ko Jaate Huwe Sar Jhukaye Hue"
 published: true
 romanLyrics: |-
   ran ko jaate huwe sar jhukaye hue

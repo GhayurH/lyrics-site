@@ -35,6 +35,16 @@ Use actual reviewed page numbers; never bulk-approve uncertainty. The `fragment-
 
 Stable `recitationId`, Basta IDs and stanza anchors must never be regenerated to match a new filename or verse number. Ambiguous changes require an explicit editorial/identity review. See [Recitation Sets](RECITATION_SETS.md#permanent-source-identity).
 
+If **multiple numbered Basta stanzas** have verified source-wording corrections, provide exact permanent stanza IDs in the opt-in reviewed mode:
+
+```bash
+npm run source:sync -- \
+  --reviewed-multiple-edits=basta-marsiye-120/stanza-002,basta-marsiye-120/stanza-003,basta-marsiye-120/stanza-004,basta-marsiye-121/stanza-001,basta-marsiye-121/stanza-002,basta-marsiye-121/stanza-004,basta-marsiye-121/stanza-005 \
+  --reviewed-retirements=basta-marsiye-120/stanza-005
+```
+
+Use only the IDs you personally reviewed against the source images and the existing `identity-lock.json`. The first flag explicitly authorizes changed stanza anchors; the second explicitly retires a genuinely removed duplicate **without reusing its ID**. Approval fails if an ID is unchanged or unknown, if an edit/removal is omitted, or if remaining printed stanza IDs/count/order differ. Existing single-stanza automatic refresh still works without these flags. `source:check` never accepts approvals or writes changes. Inspect the identity-lock diff and referenced recitation arrangements before committing.
+
 Remove extra blank lines at the *end* of poetry Markdown only; keep one final newline and preserve all internal stanza spacing and source wording.
 
 ## Engineering standards

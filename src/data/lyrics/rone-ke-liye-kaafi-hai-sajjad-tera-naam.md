@@ -9,8 +9,6 @@ poet: "Ali Adil Malik"
 tags: []
 aliases:
   - "Rone Ke Liye Kaafi Hai Sajjad Tera Naam"
-cover: "/images/lyrics/rone-ke-liye-kaafi-hai-sajjad-tera-naam.png"
-coverAlt: "Cover image for Rone Ke Liye Kaafi Hai Sajjad Tera Naam"
 published: true
 romanLyrics: |-
   Rone Ke Liye Kaafi Hai Sajjad Tera Naam

@@ -151,7 +151,7 @@ const hardErrors = new Set([
   "missing-roman-title", "page-metadata", "frontmatter",
   "invalid-stanza-exception", "stale-stanza-exception",
   "legacy-basta-roman", "source-final-newline", "empty-basta-roman",
-  "missing-lyric-stanza-number", "invalid-six-verse-layout",
+  "missing-lyric-stanza-number", "invalid-six-verse-layout", "obsolete-lyric-image",
 ]);
 const regressions = [];
 if (baseline) {

@@ -9,8 +9,6 @@ poet: "Mohsin Riyaz Mohsin"
 tags: []
 aliases:
   - "Jab Mujhe Aap Ke Qatil Ne Hai Mara Baba"
-cover: "/images/lyrics/jab-mujhe-aap-ke-qatil-ne-hai-mara-baba.png"
-coverAlt: "Cover image for Jab Mujhe Aap Ke Qatil Ne Hai Mara Baba"
 published: true
 romanLyrics: |-
   Jab Mujhe Aap Ke Qatil Ne Hai Mara Baba

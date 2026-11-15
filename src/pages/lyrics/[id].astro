@@ -48,6 +48,7 @@ const {
 } = Astro.props as Props;
 const { data } = lyric;
 const category = getLyricKalamType(data);
+const isRomanOnly = data.language === "Roman Urdu" && !data.romanLyrics;
 function neighborTitle(entry: CollectionEntry<"lyrics">) {
   return entry.data.alternateTitle ?? entry.data.title;
 }
@@ -55,7 +56,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
 
 <BaseLayout
   title={`${data.title} | Kalam Archive`}
-  description={`Read ${data.title} in Urdu${data.romanLyrics ? " and Roman Urdu" : ""}.`}
+  description={`Read ${data.title} in ${isRomanOnly ? "Roman Urdu" : "Urdu" + (data.romanLyrics ? " and Roman Urdu" : "")}.`}
 >
   <article
     class="lyric-page"
@@ -69,29 +70,22 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
     <ReadingControls
       ariaLabel="Reading controls"
       modeGroupLabel="Lyric view"
-      showModes={Boolean(data.romanLyrics)}
-      hasImage={Boolean(data.cover)}
+      showModes={Boolean(data.romanLyrics) || isRomanOnly}
+      hasUrdu={!isRomanOnly}
     />
 
     <div
       class="lyric-reading-grid"
       data-reading-root
       data-reader-kind="lyrics"
-      data-has-roman={String(Boolean(data.romanLyrics))}
-      data-reading-mode={data.romanLyrics ? "parallel" : "urdu"}
-      data-reading-columns={data.romanLyrics ? "urdu roman" : "urdu"}
+      data-has-roman={String(Boolean(data.romanLyrics) || isRomanOnly)}
+      data-reading-mode={data.romanLyrics ? "parallel" : isRomanOnly ? "roman" : "urdu"}
+      data-reading-columns={data.romanLyrics ? "urdu roman" : isRomanOnly ? "roman" : "urdu"}
       data-line-spacing="default"
 
     >
-      {data.cover && (
-        <figure class="lyric-reading-image" data-synced-scroll-panel aria-label="Original lyric sheet">
-          <a class="scan-viewer-trigger" href={data.cover} aria-label="Enlarge original lyric sheet">
-            <img src={data.cover} alt={data.coverAlt || "Original lyric sheet"} data-pagefind-meta="image[src], image_alt[alt]" loading="lazy" decoding="async" />
-          </a>
-        </figure>
-      )}
       <section
-        class="lyric-reading-panel lyric-reading-urdu"
+        class:list={["lyric-reading-panel", isRomanOnly ? "lyric-reading-roman" : "lyric-reading-urdu"]}
 
         dir={data.direction}
         lang={data.lang}
@@ -100,7 +94,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
         <h2 class="lyric-version-heading">
           <span class="lyric-focus-title kalam-reading-title" lang={data.lang} dir={data.direction}>{data.title}</span>
         </h2>
-        <LyricVerses text={lyric.body ?? ""} className="lyrics-text" sixVerseLayout={data.sixVerseLayout} />
+        <LyricVerses text={lyric.body ?? ""} className={isRomanOnly ? "roman-lyrics-text" : "lyrics-text"} sixVerseLayout={data.sixVerseLayout} />
       </section>
 
       {
@@ -199,7 +193,6 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
       recordRecentLyric,
     } from "../../client/reader-state";
     import { initVerseFitting } from "../../client/verse-fitting";
-    import { initScanViewer } from "../../client/scan-viewer";
     import { initCorrectionDialog } from "../../client/corrections";
 
     const lyricPage = document.querySelector<HTMLElement>("[data-lyric-id]");
@@ -208,7 +201,6 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
     }
     initReadingControls();
     initVerseFitting();
-    initScanViewer();
     initCorrectionDialog();
   </script>
 </BaseLayout>

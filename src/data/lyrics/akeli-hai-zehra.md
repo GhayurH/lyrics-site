@@ -9,8 +9,6 @@ poet: "Allama Syed Akhtar Abbas Zaidi Al Arabi"
 tags: []
 aliases:
   - "Kahan Jaaye Aakhir Bayaban Har Soo"
-cover: "/images/lyrics/akeli-hai-zehra.png"
-coverAlt: "Cover image for Akeli Hai Zehra"
 published: true
 romanLyrics: |-
   Kahaṅ Jaaye Aakhir Bayabaṅ Har Su

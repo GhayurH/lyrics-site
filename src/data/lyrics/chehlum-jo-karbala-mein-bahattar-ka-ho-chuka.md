@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Chehlum Jo Karbala Mein Bahattar Ka Ho Chuka"
-cover: "/images/lyrics/chehlum-jo-karbala-mein-bahattar-ka-ho-chuka.png"
-coverAlt: "Cover image for Chehlum Jo Karbala Meiṅ Bahattar Ka Ho Chuka"
 bastaPage: 263
 bastaNote: original-selection
 published: true

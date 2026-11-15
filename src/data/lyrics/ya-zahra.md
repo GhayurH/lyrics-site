@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Ya Zahra"
-cover: "/images/lyrics/ya-zahra.png"
-coverAlt: "Cover image for Ya Zahra"
 published: true
 romanLyrics: |-
   Ya Zahra Ya Zahra
@@ -104,7 +102,7 @@ romanLyrics: |-
 
 ۲
 قرض مقروض کا ادا کر دے
-مفلسوں کا نصیب و ا کر دے
+مفلسوں کا نصیب وا کر دے
 جن کی گودی بھری نہیں بی‌بی
 اُنکو اولاد تو عطا کر دے
 

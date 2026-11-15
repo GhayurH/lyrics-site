@@ -8,8 +8,6 @@ kalamType: "Manqabat"
 tags: []
 aliases:
   - "Palaan Ki Hay Baat Ye Mimbar Ki Baat Hai"
-cover: "/images/lyrics/palaan-ki-hay-baat-ye-mimbar-ki-baat-hay.png"
-coverAlt: "Cover image for Palaan Ki Hai Baat Ye Mimbar Ki Baat Hai"
 published: true
 romanLyrics: |-
   Palaan ki hai baat ye mimbar ki baat hai

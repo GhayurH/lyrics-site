@@ -53,10 +53,10 @@ test("saving, revisiting, and clearing a lyric remains functional @smoke", async
 test("Search exposes primary and secondary filters accessibly @smoke", async ({ page }) => {
   await page.goto("/search/");
   await expect(page.locator("pagefind-input")).toBeAttached();
-  await expect(page.locator(".search-primary-filters pagefind-filter-dropdown")).toHaveCount(4);
+  await expect(page.locator(".search-primary-filters [data-search-facet]")).toHaveCount(4);
   const advanced = page.locator(".search-more-filters");
   await expect(advanced).not.toHaveAttribute("open", "");
-  await advanced.locator("summary").click();
+  await advanced.locator(":scope > summary").click();
   await expect(page.locator(".search-secondary-filters")).toBeVisible();
 });
 test("Search, Saved, and Basta provide usable no-JavaScript fallbacks", async ({ browser }) => {
@@ -111,7 +111,13 @@ test("search results index poetry without including metadata controls", async ({
   await expect(source).toHaveCount(1);
   await expect(source).not.toContainText("About this kalam");
   await expect(source).not.toContainText("Original lyric sheet");
+  // All text on page 328 belongs to a verified individual kalam, so
+  // its printed page stays browsable but is not indexed a second time.
   await page.goto("/basta/328/");
+  await expect(page.locator("[data-pagefind-body]")).toHaveCount(0);
+  // Page 140 has an unclaimed fragment alongside verified kalams:
+  // index only that remaining fragment, not the reader controls.
+  await page.goto("/basta/140/");
   const basta = page.locator("[data-pagefind-body]");
   await expect(basta).toHaveCount(1);
   await expect(basta).not.toContainText("Line Spacing");
@@ -213,4 +219,13 @@ test("empty correction can be cancelled and reopened without submitting", async 
   await expect(dialog.locator("[data-correction-message]")).toBeEmpty();
   await page.keyboard.press("Escape");
   await expect(dialog).toBeHidden();
+});
+
+test("standalone readers offer text only, Basta still retains image selection", async ({ page }) => {
+  await page.goto("/lyrics/aa-asghar-bin-tere/");
+  await expect(page.locator('[data-reading-column][value="image"]')).toHaveCount(0);
+  await expect(page.locator(".lyric-reading-image")).toHaveCount(0);
+  await expect(page.getByRole("link", { name: "Original lyric sheet" })).toHaveCount(0);
+  await page.goto("/basta/140/");
+  await expect(page.locator('[data-reading-column][value="image"]')).toHaveCount(1);
 });

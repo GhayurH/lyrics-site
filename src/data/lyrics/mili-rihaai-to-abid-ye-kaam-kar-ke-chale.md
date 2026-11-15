@@ -8,8 +8,6 @@ kalamType: "Salam"
 tags: []
 aliases:
   - "Mili Rihaai To Abid Ye Kaam Kar Ke Chale"
-cover: "/images/lyrics/mili-rihaai-to-abid-ye-kaam-kar-ke-chale.png"
-coverAlt: "Cover image for Mili Rihaai To Abid Ye Kaam Kar Ke Chale"
 published: true
 romanLyrics: |-
   Mili Rihaai To Abid Ye Kaam Kar Ke Chale

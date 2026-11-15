@@ -9,8 +9,6 @@ poet: "Hasan Imdad"
 tags: []
 aliases:
   - "Taqaddam Waladi"
-cover: "/images/lyrics/taqaddam-waladi.png"
-coverAlt: "Cover image for Karbala Ho Chuki Tayyar, Taqaddam Waladi"
 published: true
 romanLyrics: |-
   Fauj e aada thi udhar jang pe tayyar khadi

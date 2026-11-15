@@ -8,6 +8,7 @@ export async function getStaticPaths() {
 }
 export function GET({ props }: { props: { item: CollectionEntry<"lyrics"> } }) {
   const { item } = props;
+  const romanOnly = item.data.language === "Roman Urdu" && !item.data.romanLyrics;
   return Response.json({
     version: 1, lyric: {
       id: recitationLyricId(item), title: item.data.title,
@@ -16,9 +17,9 @@ export function GET({ props }: { props: { item: CollectionEntry<"lyrics"> } }) {
       language: item.data.language, lang: item.data.lang,
       direction: item.data.direction,
       kalamType: item.data.kalamType,
-      urdu: item.body || "", roman: item.data.romanLyrics || "",
+      urdu: romanOnly ? "" : item.body || "",
+      roman: romanOnly ? item.body || "" : item.data.romanLyrics || "",
       sixVerseLayout: item.data.sixVerseLayout,
-      cover: item.data.cover || null,
     },
   });
 }

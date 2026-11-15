@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Meri Marqad Bana Lena"
-cover: "/images/lyrics/meri-marqad-bana-lena.png"
-coverAlt: "Cover image for Meri Marqad Bana Lena"
 published: true
 romanLyrics: |-
   Ae bani asad walo,

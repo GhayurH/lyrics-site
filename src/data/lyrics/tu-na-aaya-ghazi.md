@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Tu Na Aaya Ghazi"
-cover: "/images/lyrics/tu-na-aaya-ghazi.png"
-coverAlt: "Cover image for Tu Na Aaya Ghazi"
 published: true
 romanLyrics: |-
   jab rida sar se chini mai sada deti rahi

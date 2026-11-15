@@ -1,4 +1,5 @@
 // File role: Pagefind search-page controller: URL synchronization, active-filter chips, filter removal, and clear-all behavior.
+import { toPagefindOrFilters } from "../lib/search-filters";
 const FILTER_KEYS = [
   "collection",
   "kalamType",
@@ -18,6 +19,13 @@ type PagefindInstance = {
   on(event: "results", callback: (result: { results?: unknown[] }) => void): void;
   triggerLoad(): Promise<void>;
   triggerSearchWithFilters(term: string, filters: SearchFilters): void;
+  // Pagefind Component UI v1.6 stores its underlying search adapter here.
+  // Its public filters state is arrays, so keep that state unchanged for the
+  // dropdowns and convert only the engine request to OR-within-each-facet.
+  __pagefind__?: {
+    search: (term: string | null, options?: { filters?: Record<string, unknown>; sort?: Record<string, string> }) => Promise<unknown>;
+    filters: () => Promise<Record<string, Record<string, number>>>;
+  };
 };
 
 declare global {
@@ -48,7 +56,7 @@ function normalizeFilters(raw: Record<string, unknown> = {}): SearchFilters {
     const strings = values.filter(
       (item): item is string => typeof item === "string" && item.trim().length > 0,
     );
-    if (strings.length) filters[key] = strings;
+    if (strings.length) filters[key] = [...new Set(strings)];
   }
 
   return filters;
@@ -60,7 +68,7 @@ function readUrlState(): { term: string; filters: SearchFilters } {
 
   for (const key of FILTER_KEYS) {
     const values = params.getAll(key).filter(Boolean);
-    if (values.length) filters[key] = values;
+    if (values.length) filters[key] = [...new Set(values)];
   }
 
   // Preserve old share links while keeping the current public vocabulary.
@@ -132,9 +140,18 @@ export async function initSearchPage(): Promise<void> {
   // The UI component may fail to load because of a blocked asset or network error.
   // Fail visibly rather than leaving a perpetual loading/empty search page.
   let instance: PagefindInstance;
+  let facetValues: Record<string, Record<string, number>>;
   try {
     instance = await getPagefindInstance();
     await instance.triggerLoad();
+    const engine = instance.__pagefind__;
+    if (!engine) throw Error("Pagefind filter adapter unavailable");
+    const originalSearch = engine.search.bind(engine);
+    engine.search = (term, options) => originalSearch(term, {
+      ...options,
+      filters: toPagefindOrFilters(options?.filters as SearchFilters ?? {}),
+    });
+    facetValues = await engine.filters();
   } catch (error) {
     console.error("Unable to initialize search:", error);
     const message = document.querySelector<HTMLElement>("#search-load-error");
@@ -148,17 +165,87 @@ export async function initSearchPage(): Promise<void> {
   let currentTerm = initial.term;
   let currentFilters = initial.filters;
 
+  const facets = Array.from(document.querySelectorAll<HTMLDetailsElement>("[data-search-facet]"));
+  const renderFacets = (filters: SearchFilters) => {
+    for (const facet of facets) {
+      const key = facet.dataset.searchFacet as FilterKey;
+      if (!FILTER_KEYS.includes(key)) continue;
+      const selected = new Set(filters[key] ?? []);
+      const summary = facet.querySelector<HTMLElement>("summary");
+      if (summary) {
+        const defaults: Partial<Record<FilterKey, string>> = {
+          collection: "Both archives", kalamType: "All types", haal: "Any Haal", tag: "Any tag",
+        };
+        summary.textContent = selected.size === 0 ? defaults[key] ?? FILTER_LABELS[key]
+          : selected.size === 1 ? [...selected][0] : selected.size + " selected";
+      }
+      const query = facet.querySelector<HTMLInputElement>("[data-facet-query]")?.value.trim().toLocaleLowerCase() ?? "";
+      const all = [...new Set([...Object.keys(facetValues[key] ?? {}), ...selected])]
+        .sort((a, b) => a.localeCompare(b));
+      const filtered = all.filter((value) => value.toLocaleLowerCase().includes(query));
+      // Bound option rendering when thousands of imports increase the taxonomy:
+      // the search input still matches the entire facet vocabulary.
+      const visible = filtered.slice(0, 80);
+      const list = facet.querySelector<HTMLElement>("[data-facet-options]");
+      if (!list) continue;
+      const items = visible.map((value) => {
+        const label = document.createElement("label");
+        label.className = "search-facet-choice";
+        const checkbox = document.createElement("input");
+        checkbox.type = "checkbox";
+        checkbox.value = value;
+        checkbox.checked = selected.has(value);
+        checkbox.dataset.facetChoice = key;
+        const name = document.createElement("span");
+        name.textContent = value;
+        const count = document.createElement("small");
+        const total = facetValues[key]?.[value];
+        count.textContent = typeof total === "number" ? String(total) : "";
+        label.append(checkbox, name, count);
+        return label;
+      });
+      list.replaceChildren(...items);
+      const hint = facet.querySelector<HTMLElement>("[data-facet-hint]");
+      if (hint) {
+        hint.textContent = filtered.length > 80
+          ? "Showing 80 of " + filtered.length + "; type to find more"
+          : filtered.length === 0 ? "No matching options" : "";
+      }
+    }
+  };
+
+  for (const facet of facets) {
+    facet.addEventListener("toggle", () => {
+      if (facet.open) for (const other of facets) if (other !== facet) other.open = false;
+    });
+    facet.querySelector<HTMLInputElement>("[data-facet-query]")?.addEventListener("input", () => renderFacets(currentFilters));
+    facet.addEventListener("change", (event) => {
+      const checkbox = event.target;
+      if (!(checkbox instanceof HTMLInputElement) || checkbox.dataset.facetChoice === undefined) return;
+      const key = checkbox.dataset.facetChoice as FilterKey;
+      if (!FILTER_KEYS.includes(key)) return;
+      const next = { ...currentFilters };
+      const selected = new Set(next[key] ?? []);
+      if (checkbox.checked) selected.add(checkbox.value);
+      else selected.delete(checkbox.value);
+      if (selected.size) next[key] = [...selected];
+      else delete next[key];
+      instance.triggerSearchWithFilters(currentTerm, next);
+    });
+    facet.addEventListener("keydown", (event) => {
+      if (event.key === "Escape" && facet.open) {
+        facet.open = false;
+        facet.querySelector<HTMLElement>("summary")?.focus();
+      }
+    });
+  }
+
   const apply = (term: string, filters: SearchFilters) => {
     currentTerm = term;
     currentFilters = filters;
     writeUrlState(term, filters);
     renderFilterChips(filters);
-    const selectedType = document.querySelector<HTMLElement>("#search-kalam-type-current");
-    if (selectedType) {
-      const choices = filters.kalamType ?? [];
-      selectedType.textContent = choices.length === 0 ? "All types" : choices.length === 1
-        ? `Selected: ${choices[0]}` : `${choices.length} types selected`;
-    }
+    renderFacets(filters);
   };
 
   instance.on("search", (term, rawFilters) => {

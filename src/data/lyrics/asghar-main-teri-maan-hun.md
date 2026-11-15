@@ -9,8 +9,6 @@ poet: "Akhtar Hussain"
 tags: []
 aliases:
   - "Asghar Main Teri Maan Hun"
-cover: "/images/lyrics/asghar-main-teri-maan-hun.png"
-coverAlt: "Cover image for Asghar Maiṅ Teri Maaṅ Huṅ"
 published: true
 romanLyrics: |-
   Aaja asghar aaja asghar

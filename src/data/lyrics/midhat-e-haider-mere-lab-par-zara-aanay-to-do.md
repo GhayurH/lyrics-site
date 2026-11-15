@@ -8,8 +8,6 @@ kalamType: "Manqabat"
 tags: []
 aliases:
   - "Midhat-E-Haider Mere Lab Par Zara Aanay To Do"
-cover: "/images/lyrics/midhat-e-haider-mere-lab-par-zara-aanay-to-do.png"
-coverAlt: "Cover image for Midhat-e-Haider Mere Lab Par Zara Aane To Do"
 published: true
 romanLyrics: |-
   1

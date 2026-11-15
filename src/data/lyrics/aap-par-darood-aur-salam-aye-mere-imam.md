@@ -9,8 +9,6 @@ poet: "Mir Hasan Mir"
 tags: []
 aliases:
   - "Aap Par Darood Aur Salam Aye Mere Imam"
-cover: "/images/lyrics/aap-par-darood-aur-salam-aye-mere-imam.png"
-coverAlt: "Cover image for Aap Par Darud Aur Salam Ae Mere Imam"
 published: true
 romanLyrics: |-
   Aap Par Darud Aur Salam Ae Mere Imam

@@ -9,8 +9,6 @@ poet: "Ali Rizvi Sachey"
 tags: []
 aliases:
   - "Khutba E Moula Abbas"
-cover: "/images/lyrics/khutba-e-moula-abbas.png"
-coverAlt: "Cover image for Khutba E Moula Abbas"
 published: true
 romanLyrics: |-
   1

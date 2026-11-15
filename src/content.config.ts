@@ -39,8 +39,6 @@ const lyrics = defineCollection({
 
     tags: z.array(z.string()).default([]),
     aliases: z.array(z.string()).default([]),
-    cover: z.string().optional(),
-    coverAlt: z.string().default(""),
     published: z.boolean().default(true),
     // Printed Basta page and the cross-reference wording (use both together).
     bastaPage: z.number().int().positive().optional(),

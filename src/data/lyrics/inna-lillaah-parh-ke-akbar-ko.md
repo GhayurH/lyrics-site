@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Inna Lillaah Parh Ke Akbar Ko"
-cover: "/images/lyrics/inna-lillaah-parh-ke-akbar-ko.png"
-coverAlt: "Cover image for Inna Lillaah Parh Ke Akbar Ko"
 published: true
 romanLyrics: |-
 

@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Shaam Aa Rahi Hai Dil Paar Hazaro, Sadme Uthaye Beti Ali Ki"
-cover: "/images/lyrics/shaam-aa-rahi-hai-dil-paar-hazaro-sadme-uthaye-beti-ali-ki.png"
-coverAlt: "Cover image for Shaam Aa Rahi Hai Dil Paar Hazaro, Sadme Uthaye Beti Ali Ki"
 published: true
 romanLyrics: |-
   Shaam aa rahi hai dil paar hazaro, sadme uthaye beti Ali ki

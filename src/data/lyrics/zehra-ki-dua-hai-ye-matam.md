@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Zehra Ki Dua Hai Ye Matam"
-cover: "/images/lyrics/zehra-ki-dua-hai-ye-matam.png"
-coverAlt: "Cover image for Zehra Ki Dua Hai Ye Matam"
 published: true
 romanLyrics: |-
   Zehra Ki Dua Hai Ye Matam, Ye Matam Kaise Ruk Jaye

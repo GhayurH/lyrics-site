@@ -8,8 +8,6 @@ kalamType: "Manqabat"
 tags: []
 aliases:
   - "Naazan Hai Hum Ke Hum Ko Dare Murtaza Milaa"
-cover: "/images/lyrics/naazan-hai-hum-ke-hum-ko-dare-murtaza-milaa.png"
-coverAlt: "Cover image for Naazaṅ Hai Hum Ke Hum Ko Dare Murtaza Milaa"
 published: true
 romanLyrics: |-
   1

@@ -23,7 +23,8 @@ const searchTerms = [
       <span data-pagefind-meta="searchTerms">{searchTerms}</span>
       <span data-pagefind-filter="collection">Lyrics</span>
       <span data-pagefind-meta="collection">Standalone kalam</span>
-      {data.alternateTitle && <span data-pagefind-meta="roman_title">{data.alternateTitle}</span>}
+      {data.alternateTitle && data.alternateTitle.trim().toLocaleLowerCase() !== data.title.trim().toLocaleLowerCase() &&
+        <span data-pagefind-meta="roman_title">{data.alternateTitle}</span>}
       <span data-pagefind-filter="kalamType">{category}</span>
       <span data-pagefind-filter="language">{data.language}</span>
 

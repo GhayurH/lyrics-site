@@ -5,16 +5,31 @@ import { spawnSync } from "node:child_process";
 import { fileURLToPath } from "node:url";
 
 const [mode, ...flags] = process.argv.slice(2);
-if (!["--check", "--sync"].includes(mode) ||
-    flags.length > 1 ||
-    flags.some(flag => !/^--approve-fragments=\d+(?:,\d+)*$/.test(flag)) ||
-    (mode === "--check" && flags.length)) {
-  console.error("Usage: npm run source:check | npm run source:sync [-- --approve-fragments=138,421]");
+const supported = {
+  "--approve-fragments": /^\d+(?:,\d+)*$/,
+  "--reviewed-multiple-edits": /^basta-[a-z0-9-]+\/stanza-\d{3}(?:,basta-[a-z0-9-]+\/stanza-\d{3})*$/,
+  "--reviewed-retirements": /^basta-[a-z0-9-]+\/stanza-\d{3}(?:,basta-[a-z0-9-]+\/stanza-\d{3})*$/,
+};
+const supplied = new Map();
+for (const flag of flags) {
+  const separator = flag.indexOf("=");
+  const key = flag.slice(0, separator);
+  const value = flag.slice(separator + 1);
+  if (separator < 0 || !supported[key]?.test(value) || supplied.has(key)) {
+    console.error("Invalid or duplicate source approval: " + flag);
+    process.exit(2);
+  }
+  supplied.set(key, value);
+}
+if (!["--check", "--sync"].includes(mode) || (mode === "--check" && flags.length)) {
+  console.error("Usage: npm run source:check | npm run source:sync [-- --approve-fragments=138,421] [--reviewed-multiple-edits=KALAM/stanza-001,...] [--reviewed-retirements=KALAM/stanza-005,...]");
   process.exit(2);
 }
 
 const root = fileURLToPath(new URL("../", import.meta.url));
-const approvedPages = flags[0]?.split("=")[1];
+const approvedPages = supplied.get("--approve-fragments");
+const reviewedFlags = [...supplied].filter(([key]) => key !== "--approve-fragments")
+  .map(([key, value]) => key + "=" + value);
 const review = ["Editorial and mapping regressions", "review-content.mjs", "--summary", "--regression"];
 const stages = mode === "--check"
   ? [
@@ -30,7 +45,7 @@ const stages = mode === "--check"
       ["Reconcile Basta title labels", "sync-basta-index.mjs"],
       ["Verify reviewed fragment openings", "refresh-basta-fragments.mjs",
         approvedPages ? "--pages=" + approvedPages : "--check"],
-      ["Synchronize permanent recitation identities", "recitation-identities.mjs", "--sync"],
+      ["Synchronize permanent recitation identities", "recitation-identities.mjs", "--sync", ...reviewedFlags],
       // Mutators validate their own output. Do not rerun all four source
       // checks; the final regression gate checks cross-file constraints.
       review,

@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Mursal Ko Rulata Hai Sadma Abu Talib Ka"
-cover: "/images/lyrics/mursal-ko-rulata-hai-sadma-abu-talib-ka.png"
-coverAlt: "Cover image for Mursal Ko Rulata Hai Sadma Abu Talib Ka"
 published: true
 romanLyrics: |-
   Mursal ko rulata hai sadma Abu Talib ka

@@ -8,8 +8,6 @@ kalamType: "Salam"
 tags: []
 aliases:
   - "Shareek-E-Dawat-E-Islam Hain Abu Talib"
-cover: "/images/lyrics/shareek-e-dawat-e-islam-hain-abu-talib.png"
-coverAlt: "Cover image for Sharik-e-Dawat-e-Islam Haiṅ Abu Talib"
 published: true
 romanLyrics: |-
   1

@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Haye Haye Zainab Haye Haye Shaam"
-cover: "/images/lyrics/haye-haye-zainab-haye-haye-shaam.png"
-coverAlt: "Cover image for Haye Haye Zainab Haye Haye Shaam"
 published: true
 romanLyrics: |-
   Haye Haye Zainab

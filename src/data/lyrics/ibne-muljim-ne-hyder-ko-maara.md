@@ -11,8 +11,6 @@ reciter: "Mesum Abbas"
 tags: []
 aliases:
   - "Ibne Muljim Ne Hyder Ko Maara"
-cover: "/images/lyrics/ibne-muljim-ne-hyder-ko-maara.png"
-coverAlt: "Cover image for Ibne Muljim Ne Hyder Ko Maara"
 published: true
 romanLyrics: |-
   Ae Rozadaro Aah o Buka Ke Ye Roz Hain

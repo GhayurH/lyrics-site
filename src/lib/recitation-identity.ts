@@ -81,6 +81,83 @@ export function safeStanzaAnchorRefresh(
   };
 }
 
+
+/**
+ * Opt-in review for multiple source corrections and deliberate stanza removals.
+ * Matches permanent IDs and the order of every surviving stanza exactly;
+ * it never infers an ID from a new anchor or silently renumbers verses.
+ * This function only plans changes; callers must validate and commit them.
+ */
+export function planReviewedStanzaChanges(
+  locked: LockedBasta,
+  current: Array<{ id: string; anchor: string; pages?: number[] }>,
+  approvedEdits: ReadonlySet<string>,
+  approvedRetirements: ReadonlySet<string>,
+): {
+  updates: Array<{ id: string; previousAnchor: string; anchor: string; pages: number[] }>;
+  retiredIds: string[];
+} {
+  const reject = (reason: string): never => { throw new Error(locked.id + ": " + reason); };
+  if (locked.retired) reject("Cannot modify a retired kalam");
+  if (!approvedEdits.size && !approvedRetirements.size)
+    reject("No stanza changes explicitly approved");
+
+  const byId = new Map<string, LockedStanza>();
+  const anchorOwner = new Map<string, string>();
+  for (const stanza of locked.stanzas) {
+    if (byId.has(stanza.id)) reject("Duplicate locked stanza ID " + stanza.id);
+    if (anchorOwner.has(stanza.anchor)) reject("Duplicate locked anchor " + stanza.anchor);
+    byId.set(stanza.id, stanza);
+    anchorOwner.set(stanza.anchor, stanza.id);
+  }
+
+  for (const id of approvedEdits) {
+    const stanza = byId.get(id);
+    if (!stanza || stanza.retired || approvedRetirements.has(id))
+      reject("Invalid or retired edit approval " + id);
+  }
+  for (const id of approvedRetirements) {
+    const stanza = byId.get(id);
+    if (!stanza || stanza.retired || approvedEdits.has(id))
+      reject("Invalid or already retired retirement approval " + id);
+  }
+
+  const expected = locked.stanzas.filter((stanza) =>
+    !stanza.retired && !approvedRetirements.has(stanza.id));
+  if (expected.length !== current.length ||
+      expected.some((stanza, index) => stanza.id !== current[index].id))
+    reject("Surviving stanza IDs, count or order changed; review mapping manually");
+
+  const seenIds = new Set<string>();
+  const seenAnchors = new Set<string>();
+  const updates: Array<{
+    id: string; previousAnchor: string; anchor: string; pages: number[];
+  }> = [];
+  for (const stanza of current) {
+    if (seenIds.has(stanza.id) || seenAnchors.has(stanza.anchor))
+      reject("Duplicate current stanza ID or anchor " + stanza.id);
+    seenIds.add(stanza.id);
+    seenAnchors.add(stanza.anchor);
+    const previous = byId.get(stanza.id)!;
+    const owner = anchorOwner.get(stanza.anchor);
+    if (owner && owner !== stanza.id)
+      reject("Anchor for " + stanza.id + " belongs to historical " + owner);
+    if (stanza.anchor === previous.anchor) {
+      if (approvedEdits.has(stanza.id))
+        reject("Unchanged stanza was approved: " + stanza.id);
+    } else {
+      if (!approvedEdits.has(stanza.id))
+        reject("Unapproved stanza edit: " + stanza.id);
+      updates.push({
+        id: stanza.id, previousAnchor: previous.anchor,
+        anchor: stanza.anchor, pages: stanza.pages ?? [],
+      });
+    }
+  }
+
+  return { updates, retiredIds: [...approvedRetirements] };
+}
+
 /** The source's actual stanza pages are more useful than its stable ID. */
 export function stanzaPageLabel(pages: number[], fallback?: number): string {
   const numbered = [...new Set(pages)].filter((page) => Number.isSafeInteger(page) && page > 0)

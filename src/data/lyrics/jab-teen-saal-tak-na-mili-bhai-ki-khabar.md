@@ -8,8 +8,6 @@ kalamType: "Marsiya"
 tags: []
 aliases:
   - "Jab Teen Saal Tak Na Mili Bhai Ki Khabar"
-cover: "/images/lyrics/jab-teen-saal-tak-na-mili-bhai-ki-khabar.png"
-coverAlt: "Cover image for Jab Tin Saal Tak Na Mili Bhai Ki Khabar"
 published: true
 romanLyrics: |-
   1

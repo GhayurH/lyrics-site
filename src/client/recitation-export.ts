@@ -24,21 +24,11 @@ function printUnits(panel: HTMLElement): HTMLElement[][] {
     return stanzas.map((stanza) => [stanza]);
   }
 
-  // Basta text is rendered in one numbered .basta-kalam-text per stanza.
-  // Source attribution and missing-text notices belong with the following
-  // stanza rather than becoming their own misaligned printed row.
-  const result: HTMLElement[][] = [];
-  let pending: HTMLElement[] = [];
-  for (const child of Array.from(panel.children)) {
-    if (!(child instanceof HTMLElement)) continue;
-    pending.push(child);
-    if (!child.classList.contains("recite-stanza-source")) {
-      result.push(pending);
-      pending = [];
-    }
-  }
-  if (pending.length) result.push(pending);
-  return result;
+  // Each Basta stanza or preface is a standalone block, already ordered and
+  // renumbered for this programme. Never append source-attribution rows.
+  return Array.from(panel.children)
+    .filter((child): child is HTMLElement => child instanceof HTMLElement)
+    .map((child) => [child]);
 }
 
 function makePrintRows(editions: HTMLElement): void {
@@ -164,7 +154,7 @@ header.programme p { margin: .25rem 0; } .hint { font-size: .8rem; color: #555; 
   margin: .5rem auto; border: 1px solid #777; border-radius: 50%;
   font-family: inherit; font-size: .76rem; line-height: 1;
 }
-.recite-stanza-source, .recite-missing-stanza { font-size: .8rem; background: #f2f2f2; padding: .35rem; }
+.recite-missing-stanza { font-size: .8rem; background: #f2f2f2; padding: .35rem; }
 @media (max-width: 700px) {
   body { padding: .65rem; }
   .recite-print-row { grid-template-columns: minmax(0,1fr); }

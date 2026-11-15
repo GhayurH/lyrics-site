@@ -9,8 +9,6 @@ tags: []
 aliases:
   - "Allah Hu, Allah Hu, Allah Hu"
   - "allah-hoo-allah-hoo-allah-hoo"
-cover: "/images/lyrics/allah-hu.png"
-coverAlt: "Cover image for Allah Hu, Allah Hu, Allah Hu"
 published: true
 # source_id: tajpoints:52fc41563315606f69ef
 # source_url: https://tajpoints.com/2019/04/allah-hoo-allah-hoo-allah-hoo-lyrics-in.html

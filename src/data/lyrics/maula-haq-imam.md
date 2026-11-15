@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Maula Haq Imam"
-cover: "/images/lyrics/maula-haq-imam.png"
-coverAlt: "Cover image for Maula Haq Imam"
 published: true
 romanLyrics: |-
   1

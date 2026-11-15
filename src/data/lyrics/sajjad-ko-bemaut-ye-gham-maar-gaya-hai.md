@@ -8,8 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases:
   - "Sajjad Ko Bemaut Ye Gham Maar Gaya Hai"
-cover: "/images/lyrics/sajjad-ko-bemaut-ye-gham-maar-gaya-hai.png"
-coverAlt: "Cover image for Sajjad Ko Bemaut Ye Gham Maar Gaya Hai"
 published: true
 romanLyrics: |-
   Sajjad ko bemaut ye gham maar gaya hai

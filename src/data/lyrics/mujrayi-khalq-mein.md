@@ -8,8 +8,6 @@ kalamType: "Salam"
 tags: []
 aliases:
   - "Mujrayi Khalq Mein"
-cover: "/images/lyrics/mujrayi-khalq-mein.png"
-coverAlt: "Cover image for Mujrayi Khalq Meiṅ"
 published: true
 romanLyrics: |-
   1

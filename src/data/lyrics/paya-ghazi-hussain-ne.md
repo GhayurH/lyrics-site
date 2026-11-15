@@ -8,8 +8,6 @@ kalamType: "Manqabat"
 tags: []
 aliases:
   - "Paya Ghazi Husain Ne"
-cover: "/images/lyrics/paya-ghazi-hussain-ne.png"
-coverAlt: "Cover image for Paya Ghazi Husain Ne"
 published: true
 romanLyrics: |-
   Paya Ghazi Husain ne, tasbihoṅ meiṅ wafa wafa keh ke
