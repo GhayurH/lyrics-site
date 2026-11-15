@@ -1,91 +1,106 @@
 ---
-title: "زینب کا یہ نوحہ تھا تم لوٹ کے آ جائو"
-alternateTitle: "Zainab Ka Ye Noha"
+title: "زینب کا یہ نوحہ تھا تم لوٹ کے آ جاؤ"
+alternateTitle: "Zainab Ka Ye Nauha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ashraf"
+reciter: "Tableegh e Imamia"
 tags: ["noImage"]
-aliases: []
+aliases: ["Zainab Ka Ye Noha"]
 published: false
 romanLyrics: |-
-  Zainab ka ye noha tha tum laut ke aajao
-  Abbas mere bhaiya tum laut ke aajao
+  Zainab ka ye nauha tha tum laut ke aa jaao
+  Abbas mere bhaiya tum laut ke aa jaao
 
   1
-  Ab shaam e ghariban ke aasaar numayan hai
-  Is dashte musibat may ghar lutne ke samaan hai
-  Kuch tumko khabar di hai hum jitne pareshan hai
+  Ab shaam-e-gharibaaṅ ke aasaar numaayaaṅ haiṅ
+  Is dasht-e-musibat mein ghar lutne ke saamaaṅ haiṅ
+  Kuchh tum ko khabar di hai ham jitne pareshaaṅ haiṅ
+  Abbas mere bhaiya tum laut ke aa jaao
 
   2
-  Jab shaam hui ban may ye bain thay zainab ke
-  Qaimon ko jalane ke hote hai yahan charche
-  Tum shimr se ye kehdo chadar na meri cheene
+  Jab shaam hui ban mein ye bain the Zainab ke
+  Khaimoṅ ko jalaane ke hote haiṅ yahaaṅ charche
+  Tum Shimr se ye keh do chaadar na meri chhine
+  Abbas mere bhaiya tum laut ke aa jaao
 
   3
-  Lo fauje yazeedi ne qaimon ko jala daala
-  Lo jalne laga kurta masoom sakina ka
-  Faryad ghaeerbon ki koi bhi nahi sunta
+  Lo fauj-e-Yazidi ne khaimoṅ ko jala daala
+  Lo jalne laga kurta maasum Sakina ka
+  Faryaad ghariboṅ ki koi bhi nahiṅ sunta
+  Abbas mere bhaiya tum laut ke aa jaao
 
   4
-  Ab cheenli aada ne ay bhai meri chadar
-  Is aalam e ghurbat may hai khaak mere sar par
-  Tum mere mohafiz ho batlado inhe aakar
+  Ab chhin li aada ne ae bhaai meri chaadar
+  Is aalam-e-ghurbat mein hai khaak mere sar par
+  Tum mere muhaafiz ho batla do unheṅ aa kar
+  Abbas mere bhaiya tum laut ke aa jaao
 
   5
-  Mai kitni akeli hoo tum aake zara dekho
-  Kis tarha sambhalungi sehme hue bachon ko
-  Ay bhai mere aakar zainab ko sahara do
+  Main kitni akeli huṅ tum aa ke zara dekho
+  Kis tarah sambhaaluṅ gi sehme hue bachchoṅ ko
+  Ae bhaai mere aa kar Zainab ko sahaara do
+  Abbas mere bhaiya tum laut ke aa jaao
 
   6
-  Abbas nahi aaye dukh sehti rahi zainab
-  Abbas nahi aaye roti hi rahi zainab
-  Abbas nahi aaye ye kehti rahi zainab
+  Abbas nahiṅ aaye dukh sehti rahi Zainab
+  Abbas nahiṅ aaye roti hi rahi Zainab
+  Abbas nahiṅ aaye ye kehti rahi Zainab
+  Abbas mere bhaiya tum laut ke aa jaao
 
   7
-  Sarwar ke mohibbo may mehshar hai bapa ashraf
-  Sar peet'te hai rokar sab ahle aza ashraf
-  Kano may jo aati hai zainab ki sada ashraf
+  Sarwar ke muhibboṅ mein mahshar hai bapa Ashraf
+  Sar pitte haiṅ ro kar sab ahl-e-aza Ashraf
+  Kaanoṅ mein jo aati hai Zainab ki sada Ashraf
+  Abbas mere bhaiya tum laut ke aa jaao
 # source_id: nohayonline:106a350785c75f5e7c0b
 # source_url: https://www.nohayonline.com/details_content.php?id=659
 # raw_sha256: cec650cf9465c3489100ec19c13067a4809a9b9f9bf55e320bea1d67b009f6bf
 ---
 
-زینب کا یہ نوحہ تھا تم لوٹ کے آ جائو
-عباس میرے بھیا تم لوٹ کے آ جائو
+زینب کا یہ نوحہ تھا تم لوٹ کے آ جاؤ
+عباس میرے بھیا تم لوٹ کے آ جاؤ
 
 ۱
 اب شامِ غریباں کے آثار نمایاں ہیں
-اس دشتِ مُصیبت میں گھر لوٹنے کے ساماں ہیں
+اس دشتِ مُصیبت میں گھر لٹنے کے ساماں ہیں
 کچھ تم کو خبر دی ہے ہم جتنے پریشاں ہیں
+عباس میرے بھیا تم لوٹ کے آ جاؤ
 
 ۲
 جب شام ہوئی بن میں یہ بین تھے زینب کے
 خیموں کو جلانے کے ہوتے ہیں یہاں چرچے
-تم شمر سے یہ کہہ دوچادر نہ میری چھینے
+تم شمر سے یہ کہہ دو چادر نہ میری چھینے
+عباس میرے بھیا تم لوٹ کے آ جاؤ
 
 ۳
 لو فوجِ یزیدی نے خیموں کو جلا ڈالا
 لو جلنے لگا کُرتا معصوم سکینہ کا
 فریاد غریبوں کی کوئی بھی نہیں سُنتا
+عباس میرے بھیا تم لوٹ کے آ جاؤ
 
 ۴
 اب چھین لی اعدا نے اے بھائی میری چادر
 اس عالمِ غربت میں ہے خاک میرے سر پر
 تم میرے محافظ ہو بتلا دو انہیں آ کر
+عباس میرے بھیا تم لوٹ کے آ جاؤ
 
 ۵
-میں اکیلی ہوں تم آ کے ذرا دیکھو
-کس طرح سنبھا لوں گی سہمے ہوئے بچوں کو
+میں کتنی اکیلی ہوں تم آ کے ذرا دیکھو
+کس طرح سنبھالوں گی سہمے ہوئے بچوں کو
 اے بھائی میرے آ کر زینب کو سہارا دو
+عباس میرے بھیا تم لوٹ کے آ جاؤ
 
 ۶
 عباس نہیں آئے دُکھ سہتی رہی زینب
 عباس نہیں آئے روتی ہی رہی زینب
 عباس نہیں آئے یہ کہتی رہی زینب
+عباس میرے بھیا تم لوٹ کے آ جاؤ
 
 ۷
 سرور کے محبوں میں محشر ہے بپا اشرف
-سر پیٹتے ہیںرو کر سب اہلِ اعزا اشرف
+سر پیٹتے ہیں رو کر سب اہلِ عزا اشرف
 کانوں میں جو آتی ہے زینب کی صدا اشرف
+عباس میرے بھیا تم لوٹ کے آ جاؤ

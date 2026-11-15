@@ -6,44 +6,45 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Jawad Jaffri"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zainab ke saath fizza haye shaam ja rahi hai
-  Har gaam par zaeefa sadme utha rahi hai
+  Zainab ke saath Fizza haaye Shaam ja rahi hai
+  Har gaam par zaifa sadme utha rahi hai
 
   1
-  Ho shaam ho ya kufa ghazi ke baad fizza
-  Zehra ki betiyon ka parda bana rahi hai
+  Ho Shaam ho ya Kufa Ghaazi ke baad Fizza
+  Zehra ki betiyoṅ ka parda bana rahi hai
 
   2
-  Is din ke waaste hi maangi thi zindagani
-  Yun kehke taaziane mazloom kha rahi hai
+  Is din ke waaste hi maaṅgi thi zindagaani
+  Yuṅ keh ke taaziyaane mazlum kha rahi hai
 
   3
-  Paband e rasan hoke chali karbobala se
-  Sang zainab o kulsoom ke bazaar may aayi
-  Sau zulm sahe sadqe magar saath na choda
-  Fizza ne zaeefi may wafa khoob nibhayi
-  Choda na zulm seh kar zainab ka saath is ne
+  Paaband-e-rasan ho ke chali Karb o Bala se
+  Sang-e-Zainab o Kulsum ke baazaar mein aai
+  Sau zulm sahe sadqe magar haath na chhora
+  Fizza ne zaifi mein wafa khub nibhaai
+  Chhora na zulm seh kar Zainab ka saath is ne
   Zehra se jo kiya tha waada nibha rahi hai
 
   4
-  Bazaar shaam ka hai zainab ka sar khula hai
-  Sar ko jhukaye fizza aansu baha rahi hai
+  Baazaar Shaam ka hai Zainab ka sar khula hai
+  Sar ko jhukaaye Fizza aaṅsu baha rahi hai
 
   5
-  Yaad aata hai zehra ke janaze ko uthana
-  Zainab ko wo gustakh nigahon se bachana
-  Ye shaam ke bazaar se aati hai sadayein
-  Fizza ki wafaon ko na bhoolega zamana
-  Kaandhe pe kal isi ke zahra ka tha janaza
-  Sang aaj qaid hoke zainab ke jaa rahi hai
+  Yaad aata hai Zehra ke janaaze ko uthaana
+  Zainab ko wo gustaakh nigaahoṅ se bachaana
+  Ye Shaam ke baazaar se aati haiṅ sadaaeṅ
+  Fizza ki wafaaoṅ ko na bhulega zamaana
+  Kandhe pe kal isi ke Zahra ka tha janaaza
+  Sang aaj qaid ho ke Zainab ke ja rahi hai
 
   6
-  Jawaad ashk khoon ke sajjad kyun na roye
-  Mulke wafa ki malika dunya se jaa rahi hai
+  Jawaad ashk khun ke Sajjad kiuṅ na roye
+  Mulk-e-wafa ki malika dunya se ja rahi hai
 # source_id: nohayonline:312568fb94f67537e54a
 # source_url: https://www.nohayonline.com/details_content.php?id=682
 # raw_sha256: beef7689f762ba301227ead2e92eb0342943cff7c15c2b7a7bedb79776f97a69
@@ -57,14 +58,14 @@ romanLyrics: |-
 
 ۲
 اس دن کے واسطے ہی مانگی تھی زندگانی
-یوں کہہ کے تعزیانے مظلوم کھا رہی ہے
+یوں کہہ کے تازیانے مظلوم کھا رہی ہے
 
 ۳
-پابند رسن ہوکے چلی کربوبلا سے
-سنگ زینب و کلثوم کے بازار میں آی
+پابندِ رسن ہو کے چلی کربوبلا سے
+سنگِ زینب و کلثوم کے بازار میں آئی
 سو ظلم سہے صدقے مگر ہاتھ نہ چھوڑا
-فضہ نے ضعیفی میں وفا خوب نبھای
-چھوڑا نہ ظلم سہہ کر زینب کا ساتھ اس نے
+فضہ نے ضعیفی میں وفا خوب نبھائی
+چھوڑا نہ ظلم سہ کر زینب کا ساتھ اس نے
 زہرا سے جو کیا تھا وعدہ نبھا رہی ہے
 
 ۴
