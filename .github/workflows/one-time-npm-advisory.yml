@@ -1,0 +1,43 @@
+name: One-time dependency security diagnosis
+on:
+  push:
+    branches:
+      - feat/import-overlap-reconciliation-2026-11-05
+permissions:
+  contents: read
+jobs:
+  audit:
+    if: contains(github.event.head_commit.message, '[inspect-npm-advisory]')
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+      - name: Identify exact advisory and nonbreaking fix without modifications
+        shell: bash
+        run: |
+          npm --version
+          npm audit --json > /tmp/npm-audit.json || true
+          node --input-type=module <<'JS'
+          import fs from "node:fs";
+          const data = JSON.parse(fs.readFileSync("/tmp/npm-audit.json","utf8"));
+          console.log("SECURITY_METADATA", JSON.stringify(data.metadata?.vulnerabilities));
+          for (const [name,issue] of Object.entries(data.vulnerabilities || {}))
+            console.log("VULNERABILITY", JSON.stringify({
+              name, severity:issue.severity, range:issue.range, isDirect:issue.isDirect,
+              via:issue.via, effects:issue.effects, nodes:issue.nodes, fixAvailable:issue.fixAvailable
+            }));
+          JS
+          npm audit fix --package-lock-only --dry-run --json > /tmp/npm-fix-preview.json || true
+          node --input-type=module <<'JS'
+          import fs from "node:fs";
+          const data = JSON.parse(fs.readFileSync("/tmp/npm-fix-preview.json","utf8"));
+          console.log("FIX_PREVIEW", JSON.stringify({
+            added:data.added,removed:data.removed,changed:data.changed,
+            audit:data.audit?.metadata?.vulnerabilities,
+            error:data.error?.message,
+          }));
+          JS
+          git status --short
