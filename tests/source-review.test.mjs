@@ -281,18 +281,31 @@ test("English nohas remain English originals without Roman Urdu requirements", a
   }
 });
 
-test("Roman Panjabi is language pa, not Roman Urdu or a missing Urdu edition", async () => {
+test("manual Shahmukhi Panjabi edition aligns with its preserved Roman reading", async () => {
   const { readFile } = await import("node:fs/promises");
   const filename = "uth-nana-mere-dard-wandaa-main-veer-kuha-k-ai-han.md";
   const path = "src/data/lyrics/" + filename;
   const text = await readFile(new URL("../" + path, import.meta.url), "utf8");
-  const result = reviewMarkdown({ path, kind: "lyrics", text });
-  assert.equal(result.fields.language, "Panjabi");
-  assert.equal(result.fields.lang, "pa");
-  assert.equal(result.fields.direction, "ltr");
-  assert.equal(result.roman, undefined);
-  assert(!result.issues.some(issue => issue.code === "missing-roman"));
-  assert(!result.issues.some(issue => issue.code === "stanza-order"));
+  const file = reviewMarkdown({ path, kind: "lyrics", text });
+  assert.equal(file.fields.language, "Panjabi");
+  assert.equal(file.fields.lang, "pa");
+  assert.equal(file.fields.direction, "rtl");
+  assert.match(file.fields.title, /[\u0600-\u06FF]/u);
+  assert(file.body.includes("اٹھ نانا، میرے درد ونڈا"));
+  assert(file.roman?.includes("Uth Nana, mere dard wanda"));
+  assert.deepEqual([...file.body.matchAll(/^([۱-۵])$/gm)].map(m => m[1]),
+    ["۱", "۲", "۳", "۴", "۵"]);
+  assert.deepEqual([...file.roman.matchAll(/^([1-5])$/gm)].map(m => m[1]),
+    ["1", "2", "3", "4", "5"]);
+  assert.deepEqual(compareEditions(file.body, file.roman, path, path), []);
+  assert.deepEqual(file.issues, []);
+  assert.deepEqual(reviewPublicationConventions(file, text), []);
+});
+
+test("Shahmukhi Panjabi sources require a separate Roman edition", () => {
+  const text = "---\\ntitle: پنجابی\\nlanguage: Panjabi\\nlang: pa\\ndirection: rtl\\nkalamType: Noha\\n---\\n۱\\nپہلا مصرع\\n".replaceAll("\\n", "\n");
+  const file = reviewMarkdown({ path: "src/data/lyrics/panjabi.md", kind: "lyrics", text });
+  assert(file.issues.some(issue => issue.code === "missing-roman"));
 });
 
 test("Balti source has a manually numbered Roman edition without Arabic script contamination", async () => {
