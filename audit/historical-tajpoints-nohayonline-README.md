@@ -15,13 +15,13 @@ This is an **unpublished source review branch** targeting `feat/import-overlap-r
 | Status | Source IDs | Interpretation |
 | --- | ---: | --- |
 | `unreviewed` | 362 | No user decision; never infer permission to import or delete |
-| `pending_manual_dedup` | 1075 | User has classified the language/lyrics, but source-to-canonical reconciliation remains |
+| `pending_manual_dedup` | 1068 | User has classified the language/lyrics, but source-to-canonical reconciliation remains |
 | `no_lyrics` | 136 | User-approved exclusions; no lyric Markdown; archive snapshots retained |
 | `duplicate_source` | 9 | Identical earlier source readings linked to retained edition |
 | `consolidated_other_branch` | 21 | Canonical kalam retained on `chore/remaining-5294-kalams-2026-11-14` with source IDs and hashes added there |
 | `consolidated_existing` | 47 | Fully or substantially matched to a pre-existing Markdown, retained and linked |
 | `unpublished_source_draft` | 78 | New poem file staged from an explicitly approved lyric source; editorial work pending |
-| `consolidated_new_draft` | 20 | Ten duplicate pairs merged into ten newly staged canonical files |
+| `consolidated_new_draft` | 27 | Ten duplicate pairs merged into ten newly staged canonical files |
 | `excluded_user` | 1 | User requested exclusion without identifying duplicate or no-lyric reason; no lyric draft created |
 | **Total** | **1,387** | **No open explicitly flagged duplicate pairs** |
 
@@ -63,7 +63,7 @@ The initial source-identity manifest contains **109 TajPoints/NoHayOnline record
 
 ## Remaining manual work
 
-**1,075 individually classified NohaWriteups sources** still need full comparisons against every relevant existing lyric edition, and **0 blank CSV records** have no classification yet. After deduplication, remaining valid poems need source-grounded stanza alignment, transliteration according to `docs/` conventions, Urdu completeness, metadata and original-source verification. No `published: false` draft has been automatically declared complete.
+**1,068 individually classified NohaWriteups sources** still need full comparisons against every relevant existing lyric edition, and **0 blank CSV records** have no classification yet. After deduplication, remaining valid poems need source-grounded stanza alignment, transliteration according to `docs/` conventions, Urdu completeness, metadata and original-source verification. No `published: false` draft has been automatically declared complete.
 
 Do not claim successful `npm run source:sync`, `npm run check`, or `npm run build` until the branch has actually been checked. The source archive in the import repository must remain untouched.
 
@@ -87,7 +87,7 @@ Eleven other source readings were newly linked with already complete bilingual p
 
 **Avoid false merges:** `Ay Mere Bhai Raza` differs from the similarly titled complete poem in this branch; `Aey Waey Nehr-e-Alqama` is *not* `Darya Behta Raha`; `Abhi Khanjar Na Chala` differs from the `Shimr Khanjar Na Chala` chore version; `Baba Teri Zahra Nu Ik Payshi Maar` is a different poem from `Teri Zahra Nu Tere Musalmana Maar Mukaya Aye`. Those individual records have source-supported notes but are still pending a full alternate-title search.
 
-**Outstanding:** 1,075 classified source IDs require full manual source-to-branch deduplication; 0 lack a user disposition. Existing remaining-branch imports often have incorrectly packed stanza groups; linking a source does **not** certify editorial completeness. No second NohaWriteups status tracker was generated. Builds/CI have not been run on unfinished source staging.
+**Outstanding:** 1,068 classified source IDs require full manual source-to-branch deduplication; 0 lack a user disposition. Existing remaining-branch imports often have incorrectly packed stanza groups; linking a source does **not** certify editorial completeness. No second NohaWriteups status tracker was generated. Builds/CI have not been run on unfinished source staging.
 
 
 ### Additional cross-branch pass (source-backed verification)
@@ -121,4 +121,13 @@ All six linked source IDs have canonical path, original URL, archived SHA, and s
 
 All **1,387 source IDs** now have user classifications; latest upload supplied **362** new classifications while preserving the earlier **1,025**. Of the 362, **31** explicitly have no lyrics; **331** are lyric sources or unverified duplicate candidates requiring manual cross-branch dedup. User's newly highlighted three-source group and duplicate pairs are retained as explicit review notes; one source has an extraction that appears to belong to the wrong composition rather than its reported metadata. **No extracted text was treated as authoritative in such cases.**
 
-The sole cumulative status tracker remains `audit/nohawriteups-review-status.csv`; `audit/nohawriteups-review-decisions-input.csv` is an immutable copy of the latest input, not an alternative tracker. Existing linked original sources, canonical files, reviewed wording, and archive snapshots are preserved. All **1,075** unpaired classified lyric sources require further individual, real-verse comparisons before staging or consolidation. This count is a task count, not a claim that 1,075 duplicate kalams exist.
+The sole cumulative status tracker remains `audit/nohawriteups-review-status.csv`; `audit/nohawriteups-review-decisions-input.csv` is an immutable copy of the latest input, not an alternative tracker. Existing linked original sources, canonical files, reviewed wording, and archive snapshots are preserved. All **1,068** unpaired classified lyric sources require further individual, real-verse comparisons before staging or consolidation. This count is a task count, not a claim that 1,075 duplicate kalams exist.
+
+
+### Verified new source-to-source consolidation (November 15, 2026)
+
+- `raitaan-ch-dul-gaye-qasim-di-mehndi.md`: 3 original NohaWriteups captures of the same seven-stanza Roman Panjabi noha; all distinct verses preserved, alternative stanza-six ending documented.
+- `ranj-na-ho-mera-bhira.md`: two Roman Panjabi captures; the fuller five-stanza version includes the Asghar/Rubab stanza omitted by the shorter four-stanza reading.
+- `zahra-tere-ghulshan-may.md`: two Roman noha captures of the same four-stanza composition; variants documented.
+
+These seven source records are `consolidated_new_draft`, leaving **1,068** classified sources for manual dedup. All three canonical Markdown drafts are `published: false`, have source IDs, URLs and archived hashes, and require further transliteration/Urdu/editorial review; no assertion of publication readiness.
