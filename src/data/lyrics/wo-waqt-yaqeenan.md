@@ -1,106 +1,113 @@
 ---
-title: "وہ وقت یقیناً آے گا"
-alternateTitle: "Wo Waqt Yaqeenan"
+title: "وہ وقت یقیناً آئے گا"
+alternateTitle: "Woh Waqt Yaqinan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Hussain Gohar"
+poet: "Husain Gohar"
+reciter: "Mir Hasan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Wo waqt yaqeenan aayega
-  Kabhi ay haqeeqat e muntazar
-  Nazar aa libas e majaaz mein
-  Ke hazaron sajde tadap rahe hai
-  Meri jabeen e niaaz mein
+  Woh waqt yaqinan aayega
+
+  Kabhi Ae haqiqat-e-muntazar
+  Nazar aa libaas-e-majaaz mein
+  Keh hazaaroṅ sajde tarap rahe haiṅ
+  Meri jabin-e-niyaaz mein
+
+  Woh waqt yaqinan aayega
 
   1
-  Jab hujjate daur ke haathon mein
-  Ghazi ka alam lehrayega
-  Alam lehraye ga
+  Jab hujjat-e-daur ke haathoṅ mein
+  Ghaazi ka alam lehraayega
+  Woh waqt yaqinan aayega
 
   2
-  Jis din sajjad ke ashkon ki tadaad batayi jayegi
-  Aur un ashkon ke badle mein talwaar chalayi jayegi
-  Us sar se jism juda hoga talwaar se jo takrayega
+  Jis din Sajjad ke ashkoṅ ki taadaad bataai jaayegi
+  Aur un ashkoṅ ke badle mein talwaar chalaai jaayegi
+  Us sar se jism juda hoga talwaar se jo takraayega
 
   3
-  Har ek mazloom ki aas hai ye hujjat ka shams tulu hoga
-  Phir shaam jigar se utregi sajjad ka khatm ruku hoga
-  Phir noor e aman yun phailega har zulm ko rondha jayega
+  Har ek mazlum ki aas hai yeh hujjat ka shams tulu hoga
+  Phir shaam jigar se utregi Sajjad ka khatm ruku hoga
+  Phir nur-e-aman yuṅ phailega har zulm ko raunda jaayega
 
   4
-  Daadi ka haq wo maangega apni talwaar ke saath kabhi
-  Jo haath ridayein loot’te hai kat jayenge wo haath sabhi
-  Tatheer ke ghar ki surat phir koi ghar na loota jayega
+  Daadi ka haq woh maangega apni talwaar ke saath kabhi
+  Jo haath ridaaeṅ lutte haiṅ kat jaayeṅge woh haath sabhi
+  Tathir ke ghar ki surat phir koi ghar na luta jaayega
 
   5
-  Abaad baqayya tha jis jaa wo rauza kaise toota hai
-  Kis kis ne yahan kaise kaise sadaat ke ghar ko loota hai
-  Talwaar bataati jayegi wo khoon behta jayega
+  Aabaad baqayya tha jis jaa woh rauza kaise tuta hai
+  Kis kis ne yahaaṅ kaise kaise saadaat ke ghar ko luta hai
+  Talwaar bataati jaayegi woh khuṅ behta jaayega
 
   6
-  Baaghi ki beti jisne bhi choti bibi ko bola tha
-  Namoos e nabi ko raahon mein durron se jisne maara tha
-  Un sab ko bana kar qaidi wo bazaar e shaam mein layega
+  Baaghi ki beti jis ne bhi chhoti Bibi ko bola tha
+  Naamus-e-Nabi ko raahoṅ mein durroṅ se jis ne maara tha
+  Un sab ko bana kar qaidi woh baazaar-e-Shaam mein laayega
 
   7
-  Phir ahlebait madine mein abaad karenge ghar apna
-  Aur lenge bani hashim mil kar kuch pardedaron ka badla
-  Abbas ki chup bhi tootegi baysheer bhi taygh uthayega
+  Phir Ahl-e-Bait Madine mein aabaad kareṅge ghar apna
+  Aur leṅge Bani Haashim mil kar kuchh parda daaroṅ ka badla
+  Abbas ki chup bhi tutegi beshir bhi tegh uthaayega
 
   8
-  Gohar mulkon ki sarhad se insan taqseem nahi hoga
-  Naam nehaad mazahib mein quran taqseem nahi hoga
-  Wo aadil sari dunya ko ek adl ka shehr banayega
+  Gohar mulkoṅ ki sarhad se insaan taqsim nahiṅ hoga
+  Naam nihaad mazaahib mein Quraan taqsim nahiṅ hoga
+  Woh aadil saari duniya ko ek adl ka shehr banaayega
 # source_id: nohayonline:c6638ca1ba91fd99af77
 # source_url: https://www.nohayonline.com/details_content.php?id=2598
 # raw_sha256: 6b5317c63158dd963c5167e709ee5ee4a3f333a115362c8328b6909ef3e2711e
 ---
-وہ وقت یقیناً آے گا
+وہ وقت یقیناً آئے گا
+
 کبھی اے حقیقتِ منتظر
 نظر آ لباسِ مجاز میں
 کہ ہزاروں سجدے تڑپ رہے ہیں
 میری جبینِ نیاز میں
 
+وہ وقت یقیناً آئے گا
+
 ۱
-جب حجت دور کے ہاتھوں میں
-غازی کا علم لہراے گا
-علم لہراے گا
+جب حجتِ دور کے ہاتھوں میں
+غازی کا علم لہرائے گا
+وہ وقت یقیناً آئے گا
 
 ۲
-جس دن سجاد کے اشکوں کی تعداد بتائی جاے گی
-اور ان اشکوں کے بدلے میں تلوار چلای جاے گی
-اس سر سے جسم جدا ہوگا تلوار سے جو ٹکراے گا
+جس دن سجاد کے اشکوں کی تعداد بتائی جائے گی
+اور ان اشکوں کے بدلے میں تلوار چلائی جائے گی
+اس سر سے جسم جدا ہوگا تلوار سے جو ٹکرائے گا
 
 ۳
 ہر ایک مظلوم کی آس ہے یہ حجت کا شمس طلوع ہو گا
 پھر شام جگر سے اترے گی سجاد کا ختم رکوع ہو گا
-پھر نور امن یوں پھیلے گا ہر ظلم کو روندھا جاے گا
+پھر نورِ امن یوں پھیلے گا ہر ظلم کو روندا جائے گا
 
 ۴
 دادی کا حق وہ مانگے گا اپنی تلوار کے ساتھ کبھی
-جو ہاتھ رداییں لوٹتے ہیں کٹ جایینگے وہ ہاتھ سبھی
-تطہیر کے گھر کی صورت پھر کوئی گھر نہ لوٹا جاے گا
+جو ہاتھ ردائیں لوٹتے ہیں کٹ جائیں گے وہ ہاتھ سبھی
+تطہیر کے گھر کی صورت پھر کوئی گھر نہ لوٹا جائے گا
 
 ۵
 آباد بقیہ تھا جس جا وہ روضہ کیسے ٹوٹا ہے
 کس کس نے یہاں کیسے کیسے سادات کے گھر کو لوٹا ہے
-تلوار بتاتی جاے گی وہ خوں بہتا جاے گا
+تلوار بتاتی جائے گی وہ خوں بہتا جائے گا
 
 ۶
-باغی کی بیٹی جس نے بھی چھوٹی بی بی کو بولا تھا
-ناموس نبی کو راہوں میں دروں سے جس نے مارا تھا
-ان سب کو بنا کر قیدی وہ بازار شام میں لاے گا
+باغی کی بیٹی جس نے بھی چھوٹی بی‌بی کو بولا تھا
+ناموسِ نبی کو راہوں میں دُرّوں سے جس نے مارا تھا
+ان سب کو بنا کر قیدی وہ بازارِ شام میں لائے گا
 
 ۷
 پھر اہلِ بیت مدینے میں آباد کریں گے گھر اپنا
-اور لینگے بنی ہاشم مل کر کچھ پردہ داروں کا بدلہ
-عباس کی چھپ بھی ٹوٹے گی بے شیر بھی تیغ اٹھاے گا
+اور لیں گے بنی ہاشم مل کر کچھ پردہ داروں کا بدلہ
+عباس کی چپ بھی ٹوٹے گی بے شیر بھی تیغ اٹھائے گا
 
 ۸
 گوہر ملکوں کی سرحد سے انسان تقسیم نہیں ہو گا
-نام نیحاد مذاہب میں قرآن تقسیم نہیں ہو گا
-وہ عادل ساری دنیا کو ایک عدل کا شہر بناے گا
+نام نہاد مذاہب میں قرآن تقسیم نہیں ہو گا
+وہ عادل ساری دنیا کو ایک عدل کا شہر بنائے گا
