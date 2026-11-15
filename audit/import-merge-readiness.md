@@ -31,6 +31,15 @@ Permanent recitation IDs were appended from `main`'s latest `src/data/recitation
 
 The two duplicate *search alias* pairs were checked against actual Urdu text and source credits and are **different poems**, not duplicate routes: `hussain-o-minni` versus `hussaino-minni`, and `shaam-e-ghariban` versus `shaame-ghariban`. Their filename-based URLs and permanent recitation IDs are distinct. No literal source URL duplicate was identified in the initial provenance scan.
 
-## Merge gate
+## Merge gate — NOT READY
 
-The final full suite (Astro/TypeScript, unit tests, source checks, production build, assets, full browser regression) is requested by the next `[check-ci] [full-ci]` commit. A green check is mandatory before merge. Editorial warnings from `npm run content:review` remain an independent review queue; they must not be mistaken for passing merge validation. Preserve all `main` Basta content and IDs.
+Validation on 2026-11-15 is **blocked**. The `[check-ci] [full-ci]` run [43724585532](https://github.com/GhayurH/lyrics-site/actions/runs/43724585532) passed the Astro/TypeScript schema check and **164/164 unit tests**. Its production build stopped at source validation on one malformed Bibi ZWNJ sequence, which was then fixed in `zehra-hasan-hussain-ki-parwardigar-hai.md`.
+
+The independent source-stage run [43724776310](https://github.com/GhayurH/lyrics-site/actions/runs/43724776310) after that correction found:
+
+- **PASS**: canonical Bibi/ZWNJ spellings (0 files); Basta-index source labels; permanent Recitation Set identity lock.
+- **BLOCKING**: Roman normalization would change **2,962 files** out of 3,891 scanned. These are source-aligned orthographic proposals and **were not automatically applied** because transliteration is under manual editorial review. Audit approved changes before modifying those verses.
+- **BLOCKING**: editorial regression gate shows **103 new or structural findings**; overall content review reports **132 findings in 54 files**. Categories: invisible/control characters (42), Roman honorific/name spellings (37), unverified imported text (29), Latin characters in Urdu titles (12) and verse lines (8), unexpected script (2), a missing Roman edition (1), and invalid Roman formatting (1). Some intentional Urdu ZWNJs require review rather than blanket deletion.
+- Until both source stages pass, the primary workflow cannot run the production build or its browser suite. A separate production/browser diagnostic was requested in [43725061261](https://github.com/GhayurH/lyrics-site/actions/runs/43725061261) so rendering can be assessed independently; this does not waive source validation.
+
+**Do not merge yet.** Manually reconcile the Roman normalization proposals and investigate the editorial warnings; rerun the full green PR validation afterwards. Keep `main`'s Basta content and permanent IDs unchanged.
