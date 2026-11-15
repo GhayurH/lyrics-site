@@ -6,75 +6,80 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ay shere khuda hyder e karrar duhaai
+  Ae sher-e-Khuda Haidar-e-Karraar duhaai
   Ye aakhri shab hai ye aakhri shab hai
-  Kal subha ko lut jayegi zehra ki kamayi
+
+  Kal subh ko lut jaayegi Zehra ki kamaai
+  Ye aakhri shab hai ye aakhri shab hai
 
   1
-  Bacchon se kaho qaime mein wo chain se soye
-  Darr darr ke na roye
-  Zinda hai abhi zainab o kulsoom ka bhai
+  Bachchoṅ se kaho khaime mein wo chain se soye
+  Dar dar ke na roye
+  Zinda hai abhi Zainab o Kulsum ka bhaai
 
   2
-  Mil jayega asghar ko sukoon ran ki hawa se
-  Ek teer e qaza se
-  Ho jayegi baysheer ki kal doodh badhayi
+  Mil jaayega Asghar ko sukuṅ ran ki hawa se
+  Ek tir-e-qaza se
+  Ho jaayegi beshir ki kal dudh barhaai
 
   3
-  Laila se kaho dekhle wo chehra e akbar
+  Laila se kaho dekh le wo chehra-e-Akbar
   Bas aaj ki shab bhar
-  Ho jayegi hamshakle payambar se judaai
+  Ho jaayegi hamshakl-e-Payambar se judaai
 
   4
-  Maa shamma liye baithi hai qasim ke sarhane
-  Mamta ke bahane
-  Ho jayega kal khoon ye kangna ye kalayi
+  Maaṅ shama liye baithi hai Qasim ke sarhaane
+  Mamta ke bahaane
+  Ho jaayega kal khuṅ ye kangna ye kalaai
 
   5
-  Zainab se kaha bacchon ne hum aisa ladenge
-  Peeche na hatenge
-  Yaad aayegi phir hamza o jafar ki ladayi
+  Zainab se kaha bachchoṅ ne hum aisa lareṅge
+  Pichhe na hateṅge
+  Yaad aayegi phir Hamza o Jafar ki laraai
 
   6
-  Saqqa e haram ghaat pe so jayega jaa kar
-  Shaano ko kata kar
-  Abbas ko mil jayegi darya ki tarayi
+  Saqqa-e-haram ghaat pe so jaayega jaa kar
+  Shaanoṅ ko kata kar
+  Abbas ko mil jaayegi darya ki taraai
 
   7
-  Baba mujhe ek baar kaleje se lagalo
-  Seene pe sulalo
-  Shabbir se kehti hai ye shabbir ki jaayi
+  Baba mujhe ek baar kaleje se laga lo
+  Sine pe sula lo
+  Shabbir se kehti hai ye Shabbir ki jaai
 
   8
-  Ho jayega zanjeer e sitam mein wo giraftaar
-  Hai ghash jo bemaar
-  Jal jayegi kal sholon mein abid ki chatayi
+  Ho jaayega zanjir-e-sitam mein wo giraftaar
+  Hai ghash jo bimaar
+  Jal jaayegi kal sholoṅ mein Abid ki chataai
 
   9
-  Kal khoon mein naha jayega shabbir ka lashkar
-  Ay aamir o nayyar
-  Ab hashr talak royegi pyason ko khudayi
+  Kal khuṅ mein naha jaayega Shabbir ka lashkar
+  Ae Aamir o Nayyar
+  Ab hashr talak royegi pyaasoṅ ko khudaai
 # source_id: nohayonline:ecfadd4ce4e9158fe432
 # source_url: https://www.nohayonline.com/details_content.php?id=3500
 # raw_sha256: 1f6f8614fd04dde2614f43a7d07c3322a6fc4e6df0221a19e3ee22f4c402d5de
 ---
 اے شیر خدا حیدر کرار دہائی
 یہ آخری شب ہے یہ آخری شب ہے
+
 کل صبح کو لٹ جائے گی زہرا کی کمائی
+یہ آخری شب ہے یہ آخری شب ہے
 
 ۱
-بچوں سے کہو خیمے میں وہ چین سے سوے
-ڈر ڈر کے نہ روے
+بچوں سے کہو خیمے میں وہ چین سے سوئے
+ڈر ڈر کے نہ روئے
 زندہ ہے ابھی زینب و کلثوم کا بھائی
 
 ۲
-مل جاے گا اصغر کو سکوں رن کی ہوا سے
+مل جائے گا اصغر کو سکوں رن کی ہوا سے
 اک تیر قضا سے
-ہو جائے گی بے شیر کی کل دودھ بڑھای
+ہو جائے گی بے شیر کی کل دودھ بڑھائی
 
 ۳
 لیلیٰ سے کہو دیکھ لے وہ چہرۂ اکبر
@@ -82,31 +87,31 @@ romanLyrics: |-
 ہو جائے گی ہمشکل پیمبر سے جدائی
 
 ۴
-ماں شمع لیےء بیٹھی ہے قاسم کے سرہانے
+ماں شمع لیے بیٹھی ہے قاسم کے سرہانے
 ممتا کے بنانے
-ہو جائے گا کل خوں یہ کنگنا یہ کلای
+ہو جائے گا کل خوں یہ کنگنا یہ کلائی
 
 ۵
 زینب سے کہا بچوں نے ہم ایسا لڑیں گے
 پیچھے نہ ہٹیں گے
-یاد آے گی پھر ہمزہ و جعفر کی لڑائی
+یاد آئے گی پھر حمزہ و جعفر کی لڑائی
 
 ۶
-سقاے حرم گھاٹ پہ سو جاے گا جا کر
+سقائے حرم گھاٹ پہ سو جائے گا جا کر
 شانوں کو کٹا کر
-عباس کو مل جائے گی دریا کی ترای
+عباس کو مل جائے گی دریا کی ترائی
 
 ۷
 بابا مجھے ایک بار کلیجے سے لگا لو
 سینے پہ سلا لو
-شبیر سے کہتی ہے یہ شبیر کی جای
+شبیر سے کہتی ہے یہ شبیر کی جائی
 
 ۸
 ہو جائے گا زنجیر ستم میں وہ گرفتار
 ہے غش جو بیمار
-جل جائے گی کل شعلوں میں عابد کی چٹای
+جل جائے گی کل شعلوں میں عابد کی چٹائی
 
 ۹
-کل خوں میں نہا جاے گا شبیر کا لشکر
+کل خوں میں نہا جائے گا شبیر کا لشکر
 اے عامر و نیر
-اب حشر تلک روے گی پیاسوں کو خدای
+اب حشر تلک روئے گی پیاسوں کو خدائی

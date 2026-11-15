@@ -6,36 +6,42 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Irfan Akbar Abidi"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Bemisl hai do jahan mein jo hai sher e karbala
-  Kar gaya deen e nabi pe dono baazu jo fida
+  Bemisl hai do jahaaṅ mein jo hai sher-e-Karbala
+  Kar gaya din-e-Nabi pe donoṅ baazu jo fida
 
   1
-  Ye alam abbas ka deen ki pehchaan hai
-  Adam o eesa nabi sab ambiya ki shaan hai
+  Ye alam Abbas ka din ki pehchaan hai
+  Aadam o Isa Nabi sab ambiya ki shaan hai
 
   2
-  Hashr mein aayenge momin is alam ke saaye mein
-  Qayam e mehdi hamara waaris e eeman hai
+  Hashr mein aayeṅge momin is alam ke saaye mein
+  Qayaam-e-Mehdi hamaara waaris-e-imaan hai
+  Aadam o Isa Nabi sab ambiya ki shaan hai
 
   3
-  Dekha na jaanbaz aisa lashkare islam mein
-  Dono baazu kar gaya jo deen pe qurban hai
+  Dekha na jaanbaaz aisa lashkar-e-Islam mein
+  Donoṅ baazu kar gaya jo din pe qurbaan hai
+  Aadam o Isa Nabi sab ambiya ki shaan hai
 
   4
-  Lo khabar behno ki ghazi chadarein bhi lut gayi
-  Fatema zahra ka ghar jo ho gaya veeran hai
+  Lo khabar behnoṅ ki Ghazi chaadareṅ bhi lut gayiṅ
+  Fatima Zahra ka ghar jo ho gaya wiraan hai
+  Aadam o Isa Nabi sab ambiya ki shaan hai
 
   5
-  Dekh kar abbas ko mehsoos karte thay hussain
-  Ye jalaal e sher e yazdan sayyeda ki jaan hai
+  Dekh kar Abbas ko mahsus karte the Husain
+  Ye jalaal-e-sher-e-Yazdaaṅ Sayyeda ki jaan hai
+  Aadam o Isa Nabi sab ambiya ki shaan hai
 
   6
-  Ye sharaf zahra ke dar se mil gaya hubdaar ko
-  Matam e shabbir mein ye nauhagar irfan hai
+  Ye sharaf Zahra ke dar se mil gaya hubdaar ko
+  Maatam-e-Shabbir mein ye nauhagar Irfan hai
+  Aadam o Isa Nabi sab ambiya ki shaan hai
 # source_id: nohayonline:bc67b23369d55a9818c3
 # source_url: https://www.nohayonline.com/details_content.php?id=3357
 # raw_sha256: e59a1fdc09cb054a0fecbf37a51f5a2a2e61ba1b00638c96ef2db6e9dc11ccd9
@@ -45,24 +51,29 @@ romanLyrics: |-
 
 ۱
 یہ علم عباس کا دین کی پہچان ہے
-آدم و عیسا نبی سب انبیاء کی شان ہیں
+آدم و عیسیٰ نبی سب انبیاء کی شان ہیں
 
 ۲
-حشر میں آیینگے مومن اس علم کے ساے میں
+حشر میں آئیں گے مومن اس علم کے سائے میں
 قیام مہدی ہمارا وارث ایمان ہے
+آدم و عیسیٰ نبی سب انبیاء کی شان ہیں
 
 ۳
 دیکھا نہ جانباز ایسا لشکر اسلام میں
 دونوں بازو کر گیا جو دین پر قربان ہے
+آدم و عیسیٰ نبی سب انبیاء کی شان ہیں
 
 ۴
-لو خبر بہنوں کی غازی چادریں بھی لٹ گیء
+لو خبر بہنوں کی غازی چادریں بھی لٹ گئیں
 فاطمہ زہرا کا گھر جو ہو گیا ویران ہے
+آدم و عیسیٰ نبی سب انبیاء کی شان ہیں
 
 ۵
 دیکھ کر عباس کو محسوس کرتے تھے حسین
 یہ جلال شیر یزداں سیدہ کی جان ہے
+آدم و عیسیٰ نبی سب انبیاء کی شان ہیں
 
 ۶
 یہ شرف زہرا کے در سے مل گیا حبدار کو
 ماتم شبیر میں یہ نوحہ گر عرفان ہے
+آدم و عیسیٰ نبی سب انبیاء کی شان ہیں

@@ -5,40 +5,41 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Yateemon pe kabhi logon sitam dhaaya nahi karte
-  Kabhi tareek zindan mein unhe laaya nahi karte
+  Yatimoṅ pe kabhi logoṅ sitam dhaaya nahiṅ karte
+  Kabhi taarik zindaaṅ mein unheṅ laaya nahiṅ karte
 
   1
-  Rida sar pe na ho aur haath baandhe ho pase gardan
-  Kisi ko baap ke laashe pe yun laaya nahi karte
+  Rida sar pe na ho aur haath baandhe ho pas-e-gardan
+  Kisi ko baap ke laashe pe yuṅ laaya nahiṅ karte
 
   2
-  Lahoo kano se ho jaari lagi ho aag kurte mein
-  Is haalat mein kisi bacchi ko tadpaya nahi karte
+  Lahu kaanoṅ se ho jaari lagi ho aag kurte mein
+  Is haalat mein kisi bachchi ko tarpaaya nahiṅ karte
 
   3
-  Khaaye pani ke badle jo tamache wo sakina ne
-  Kisi pyasi ko pani yun to pilwaya nahi karte
+  Khaaye paani ke badle jo tamaache wo Sakina ne
+  Kisi pyaasi ko paani yuṅ to pilwaaya nahiṅ karte
 
   4
-  Mohamed ke nawase ko kiya hai qatl sajde mein
-  Pidar ke sar ko sang beti ke le jaaya nahi karte
+  Muhammad ke nawaase ko kiya hai qatl sajde mein
+  Pidar ke sar ko sang beti ke le jaaya nahiṅ karte
 
   5
-  Darakhton ke talay ghode khade ho shamiyon ke beech
-  Safar mein kyun sakina pe layeen saaya nahi karte
+  Darakhtoṅ ke tale ghore khare ho Shaamiyoṅ ke bich
+  Safar mein kiuṅ Sakina pe laiṅ saaya nahiṅ karte
 
   6
-  Yateemi ki saron pe khaak ho jin ke muslamano
-  Kabhi patthar saron pe unke barsaya nahi karte
+  Yatimi ki saroṅ pe khaak ho jin ke Musalmaanoṅ
+  Kabhi patthar saroṅ pe un ke barsaaya nahiṅ karte
 
   7
-  Jinhe masooma bulwaye wo aashiq shaam jaate hai
-  Sabhi sharfe ziyarat bakhuda paaya nahi karte
+  Jinheṅ Maasuma bulwaaye wo aashiq Shaam jaate haiṅ
+  Sabhi sharf-e-ziyaarat ba Khuda paaya nahiṅ karte
 # source_id: nohayonline:960b457b5e6f6281c49a
 # source_url: https://www.nohayonline.com/details_content.php?id=3248
 # raw_sha256: 6307f51bf93f6f7d1d350d3a2b760fe85c95956211a37b95a85c897272115648
@@ -55,7 +56,7 @@ romanLyrics: |-
 اس حالت میں کسی بچی کو تڑپایا نہیں کرتے
 
 ۳
-کھاے پانی کے بدلے جو طمانچے وہ سکینہ نے
+کھائے پانی کے بدلے جو طمانچے وہ سکینہ نے
 کسی پیاسی کو پانی یوں تو پلوایا نہیں کرتے
 
 ۴
@@ -71,5 +72,5 @@ romanLyrics: |-
 کبھی پتھر سروں پہ ان کے برسایا نہیں کرتے
 
 ۷
-جنہیں معصوم بلواے وہ عاشق شام جاتے ہیں
+جنہیں معصوم بلوائے وہ عاشق شام جاتے ہیں
 سبھی شرف زیارت با خدا پایا نہیں کرتے
