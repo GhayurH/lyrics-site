@@ -81,6 +81,13 @@ romanLyrics: |-
 # source_id: ziyaraat:32637c8b87041465369d
 # source_url: https://www.ziyaraat.net/api/noha/548
 # raw_sha256: 0250c0a19e28b5e5c42db9b80e016a1de900b0fc279d5415dd51c377ff69d21e
+# additional_source_id: nohawriteups:25a2890e24e4c64cf2f3
+# additional_source_url: https://www.nohawriteups.org/ooncha-rahe-apna-alam/
+# additional_raw_sha256: 606bff765d8338701ad00528505b28b2e6faa2803d90373f37609da1062b52b5
+# additional_source_id: nohawriteups:5d29ac174d3f7a7fc0d0
+# additional_source_url: https://www.nohawriteups.org/ooncha-rahe-apna-alam-2/
+# additional_raw_sha256: 7b8f4e5e048c9333c01c9f828b58050473d6968f6247bb8d87a46352d1effa10
+# additional_source_note: Both original Roman sources are the same Ooncha Rahe Apna Alam composition; canonical retains all ten stanzas, including verses omitted by one witness. Variants and refrain repetitions left for later editorial review.
 ---
 اونچا رہے اپنا علم
 جب تک ہے دورِ آسماں

@@ -43,6 +43,13 @@ romanLyrics: |-
 # source_id: nohayonline:f464355dcd608ff5e8c0
 # source_url: https://www.nohayonline.com/details_content.php?id=1511
 # raw_sha256: 3054f271cef0f22170ba6665ccc08bd1e20d2af939b13ce61adefeda3277ef82
+# additional_source_id: nohawriteups:b692e690bba58cb5499b
+# additional_source_url: https://www.nohawriteups.org/kalma-go-ye-tho-batha-hum/
+# additional_raw_sha256: c4e45ec7671130b5847638ce0e1942d3553c550450fb36d5cd3c028050d6d6eb
+# additional_source_id: nohawriteups:65603711b7c3ca60ef21
+# additional_source_url: https://www.nohawriteups.org/kalma-go-ye-tuh-bata-hum-teri/
+# additional_raw_sha256: ea27907ca82d9ee4c7001eedea63b5428873eee5eeb9d4169396ad341f0a3286
+# additional_source_note: Two shorter six-couplet NohaWriteups Roman sources agree with canonical bilingual composition; existing seven-stanza version has extra Zainab/Abbas verse. Original Urdu and Roman unchanged.
 ---
 کلمہ گو یہ بتا ہم تیری کیا بات کرے
 تو نے جو آل محمّد پہ ستم ڈھائے ہیں
