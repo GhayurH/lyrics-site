@@ -1,31 +1,64 @@
 ---
-title: "Yeh Soch Hoon Keh Abid Ka Haal Kya Ho Ga"
-language: "Roman Urdu"
+title: "یہ سوچ ہوں کہ عابد کا حال کیا ہوگا"
+alternateTitle: "Yeh Soch Huṅ Keh Abid Ka Haal Kya Hoga"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Salam"
-tags: ["noImage", "noUrdu"]
-aliases: []
+poet: "Nawab Arif Husain"
+reciter: "Ustad Fateh Ali Khan"
+tags: ["noImage"]
+aliases: ["Yeh Soch Hoon Keh Abid Ka Haal Kya Ho Ga"]
 published: false
+romanLyrics: |-
+  1
+  Yeh soch huṅ keh Abid ka haal kya hoga
+  Asir ho ke woh jab Shaam meiṅ gaya hoga
+
+  2
+  Suna hai Shaam meiṅ jaate hi khun rone laga
+  Na jaane Shimr ne us waqt kya kaha hoga
+
+  3
+  Gale ke tauq ne Abid ko kya jhukaana tha
+  Woh apne khoe hue laal dhundta hoga
+
+  4
+  Woh zulm dekhe haiṅ Sajjad ne Husain ke baad
+  Mujhe yaqin hai keh ab tak bhi ro raha hoga
+
+  5
+  Woh yaad karta to hoga watan ki shaahi ko
+  Behan ko dafan jo pardes meiṅ kiya hoga
+
+  6
+  Jo ghaur kijiye to Abid bashar nahiṅ lagta
+  Mere khayaal meiṅ dukh dard ka khuda hoga
 # source_id: tajpoints:95b00579bdef40f7ab56
 # source_url: https://tajpoints.com/2022/02/yeh-soch-hoon-keh-abid-ka-haal-kya-ho.html
 # raw_sha256: 4cc9ceb1163852416d97a11ed39231bd8cd03b9a6fee2e87b5236e40dde231ef
 ---
 
-1
-Yeh Soch Hoon Keh Abid Ka Haal Kya Ho Ga
-Aseer Ho Ke Woh Jab Sham Mein Gaya Hoga
-Suna Hai Sham Mein Jate Hi Khon Roney Laga
-Na Jane Shimar Ne Oss Waqt Kya Kaha Ho Ga
+۱
+یہ سوچ ہوں کہ عابد کا حال کیا ہوگا
+اسیر ہو کے وہ جب شام میں گیا ہوگا
 
-2
-Galay Ke Tauq Ne Abid Ko Kya Jhokana Tha
-Woh Apne Khoye Hoye Lal Dhondta Hoga
-Woh Zulm Dekhey Hain Sajjad Ne Hussain Ke Baad
-Mujhe Yaqeen Hai Keh Ab Tak Bhi Ro Raha Hoga
+۲
+سنا ہے شام میں جاتے ہی خون رونے لگا
+نہ جانے شمر نے اس وقت کیا کہا ہوگا
 
-3
-Woh Yaad Karta Tu Ho Ga Watan Ki Shahi Ko
-Behan Ko Dafan Jo Pardais Mein Kiya Hoga
-Jo Ghoor Kijiye Tu Abid Bashar Nahi Lagta
-Mere Khiyal Mein Dukh Dard Ka Khuda Hoga
+۳
+گلے کے طوق نے عابد کو کیا جھکانا تھا
+وہ اپنے کھوئے ہوئے لال ڈھونڈتا ہوگا
+
+۴
+وہ ظلم دیکھے ہیں سجاد نے حسین کے بعد
+مجھے یقین ہے کہ اب تک بھی رو رہا ہوگا
+
+۵
+وہ یاد کرتا تو ہوگا وطن کی شاہی کو
+بہن کو دفن جو پردیس میں کیا ہوگا
+
+۶
+جو غور کیجیے تو عابد بشر نہیں لگتا
+میرے خیال میں دکھ درد کا خدا ہوگا

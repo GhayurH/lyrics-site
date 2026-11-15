@@ -1,37 +1,80 @@
 ---
-title: "Yeh Baat Maan Lijiye Takrar Ke Bagair"
-language: "Roman Urdu"
+title: "یہ بات مان لیجیے تکرار کے بغیر"
+alternateTitle: "Yeh Baat Maan Lijiye Takraar Ke Baghair"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu"]
-aliases: []
+poet: "Mir Takallum Mir"
+reciter: "Mir Hasan Mir"
+tags: ["noImage"]
+aliases: ["Yeh Baat Maan Lijiye Takrar Ke Bagair"]
 published: false
+romanLyrics: |-
+  1
+  Yeh baat maan lijiye takraar ke baghair
+  Mahshar na hoga baarhveṅ Sarkaar ke baghair
+
+  2
+  Woh dekho jaa raha hai ariza su-e-Imam
+  Kaaghaz ki naao chalti hai patwaar ke baghair
+
+  3
+  Qaaim wahaaṅ sajaaeṅ ge Abbas ka alam
+  Kaaba bana hai is liye minaar ke baghair
+
+  4
+  Aankheṅ khuli raheṅ gi tere intezaar meiṅ
+  Mar bhi gaya jo main tere didaar ke baghair
+
+  5
+  Maula munaafiqin ko samjha liya bohat
+  Yeh log ab na maane ge talwaar ke baghair
+
+  6
+  Chaahe Ali Ali kar chaaho parho namaaz
+  Dono adhure lagte haiṅ kirdaar ke baghair
+
+  7
+  Dil kehta hai woh aate hi pahoncheṅ ge Karbala
+  Mehdi nahiṅ lareṅ ge Alamdaar ke baghair
+
+  8
+  Baad-e-zuhur Mir Takallum yaqin hai
+  Mehfil na hoṅ gi Misam-e-Tammaar ke baghair
 # source_id: tajpoints:f344810208b14752fa43
 # source_url: https://tajpoints.com/2017/02/yeh-baat-maan-lijiye-takrar-ke-bagair.html
 # raw_sha256: fc19fa9e6034242856360d107b970494c9438da03b06b041ce6701ebb3a79eb1
 ---
 
-1
-Yeh Baat Maan Lijiye Takrar Ke Bagair
-Mehshar Na Ho Ga Barhwein Sarkar Ke Bagair
-Wo Dekho Ja Raha Hai Areeza Soye Imam
-Kagaz Ki Nao Chalti Hai Patwar Ke Bagair
+۱
+یہ بات مان لیجیے تکرار کے بغیر
+محشر نہ ہوگا بارھویں سرکار کے بغیر
 
-2
-Qaim Wahan Sajaein Gay Abbas Ka Alam
-Kaba Bana Hai Iss Liye Minar Ke Bagair
-Aankhein Khuli Rahein Gi Tere Intezaar Mein
-Mar Bhi Giya Jo Main Tere Deedar Ke Bagair
+۲
+وہ دیکھو جا رہا ہے عریضہ سوئے امام
+کاغذ کی ناؤ چلتی ہے پتوار کے بغیر
 
-3
-Maula Munafiqeen Ko Samjha Liya Bohat
-Yeh Loag Ab Na Mane Ge Talwar Ke Bagair
-Chahe Ali Ali Kar Chaho Parho Namaz
-Dono Adhore Lagte Hain Kirdar Ke Bagair
+۳
+قائم وہاں سجائیں گے عباس کا علم
+کعبہ بنا ہے اس لیے مینار کے بغیر
 
-4
-Dill Kehta Hai Wo Aate Hi Pohanchein Gay Karbala
-Mehdi Nahi Larein Gay Alamdar Ke Bagair
-Baad-e-Zahoor:MIR TAKALLUM: Yaqeen Hai
-Mehfil Na Hoon Gi Meesum-e-Tammar Ke Baair
+۴
+آنکھیں کھلی رہیں گی تیرے انتظار میں
+مر بھی گیا جو میں تیرے دیدار کے بغیر
+
+۵
+مولا منافقین کو سمجھا لیا بہت
+یہ لوگ اب نہ مانے گے تلوار کے بغیر
+
+۶
+چاہے علی علی کر چاہو پڑھو نماز
+دونوں ادھورے لگتے ہیں کردار کے بغیر
+
+۷
+دل کہتا ہے وہ آتے ہی پہنچیں گے کربلا
+مہدی نہیں لڑیں گے علمدار کے بغیر
+
+۸
+بعدِ ظہور میر تکلم یقین ہے
+محفل نہ ہوں گی میثمِ تمار کے بغیر
