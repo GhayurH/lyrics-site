@@ -6,40 +6,43 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ameer Hussain Mashadi"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  As salaam ya zahra
-  Yunhi dar e zahra pe malayek nahi jhukte
-  Mahboob e khuda khud bhi thay azeem ko uth'te
+  As salaam ya Zahra
+
+  Yuṅhi dar-e-Zahra pe malaaik nahiṅ jhukte
+  Mahbub-e-Khuda khud bhi the taazim ko uthte
 
   1
-  Salman zaeefi mein khuda jaane ke kaise
-  Chunte rahe sarwar ki tehreer ke purze
+  Salman zaifi mein Khuda jaane ke kaise
+  Chunte rahe Sarwar ki tahrir ke purze
 
   2
-  Afsos musalman ne usi ghar ko jalaya
-  Jis dar pe to allah ke payambar bhi thay rukte
+  Afsos Musalmaan ne usi ghar ko jalaaya
+  Jis dar pe to Allah ke payambar bhi the rukte
 
   3
-  Islam ka mafhoom kabhi poora na hota
-  Tatheer ke gulshan mein agar phool na khilte
+  Islam ka mafhum kabhi pura na hota
+  Tathir ke gulshan mein agar phul na khilte
 
   4
-  Islam ki wahdat ka taqaza to nahi tha
-  Ay kaash kabhi musalman firkon mein na bat'te
+  Islam ki wahdat ka taqaaza to nahiṅ tha
+  Ae kaash kabhi Musalmaan firqoṅ mein na batte
 
   5
-  Maqdooma ko ameer wo haq dete na dete
-  Wajib tha musalman par tazeem to karte
+  Makhduma ko Amir wo haq dete na dete
+  Waajib tha Musalmaan par taazim to karte
 # source_id: nohayonline:5f4ad636af7eff4c95e8
 # source_url: https://www.nohayonline.com/details_content.php?id=3356
 # raw_sha256: 65494feab3007754c8b92f2040a2a0040510366f23afbe3c961074c4d2de5291
 ---
 السلام یا زہرا
-یونہی در زہرا پہ ملایک نہیں جھکتے
-محبوب خدا خود بھی تھے تعظیم کو اٹھتے
+
+یونہی درِ زہرا پہ ملائک نہیں جھکتے
+محبوبِ خدا خود بھی تھے تعظیم کو اٹھتے
 
 ۱
 سلمان ضعیفی میں خدا جانے کہ کیسے
@@ -55,8 +58,8 @@ romanLyrics: |-
 
 ۴
 اسلام کی وحدت کا تقاضا تو نہیں تھا
-اے کاش کبھی مسلمان فکروں میں نہ بٹتے
+اے کاش کبھی مسلمان فرقوں میں نہ بٹتے
 
 ۵
-مخدومہ کو آمیر وہ حق دیتے نہ دیتے
+مخدومہ کو امیر وہ حق دیتے نہ دیتے
 واجب تھا مسلمان پر تعظیم تو کرتے

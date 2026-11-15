@@ -6,46 +6,47 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Yun ro rahe hai dekh ke zainab ko murtaza
-  Shayad khayal aaya ho bazaar e shaam ka
+  Yuṅ ro rahe haiṅ dekh ke Zainab ko Murtaza
+  Shaayad khayaal aaya ho baazaar-e-Shaam ka
 
   1
-  Zainab ke the ye bain madine chalo hussain
-  Kufa hamare rehne ke qaabil nahi raha
+  Zainab ke the ye bain Madine chalo Husain
+  Kufa hamaare rehne ke qaabil nahiṅ raha
 
   2
-  Sajjad bain karte hai dada hai khush naseeb
-  Beton ne mil ke baap ko ghusl o kafan diya
+  Sajjad bain karte haiṅ daada haiṅ khush nasib
+  Betoṅ ne mil ke baap ko ghusl o kafan diya
 
   3
-  Pehla ye imtehan hai ghazi ke sabr ka
+  Pehla ye imtehaan hai Ghaazi ke sabr ka
   Abbas chup hai saamne qaatil hai baap ka
 
   4
-  Zainab na ro abhi mujhe aa jayega sukoon
-  Rumaal laa ke baandh do sar par batool ka
+  Zainab na ro abhi mujhe aa jaayega sukuṅ
+  Rumaal laa ke baandh do sar par Batul ka
 
   5
-  Ek bibi chal rahi hai janaze ke saath saath
-  Lagta hai qabr chod ke aayi hai fatema
+  Ik Bibi chal rahi hai janaaze ke saath saath
+  Lagta hai qabr chhor ke aayi hai Fatima
 
   6
-  Maula kyun khaak aap ne daali hai zakhm par
-  Kya yaad agayi hai musalle pe karbala
+  Maula kiuṅ khaak aap ne daali hai zakhm pe
+  Kya yaad aa gayi hai musalle pe Karbala
 
   7
-  Darbar e shaam jaaunga zainab mai tere saath
-  Akbar ye keh ke hogaye khamosh murtaza
+  Darbaar-e-Shaam jaauṅ ga Zainab main tere saath
+  Akbar ye keh ke ho gaye khaamosh Murtaza
 # source_id: nohayonline:40a2772959d66dc9cb37
 # source_url: https://www.nohayonline.com/details_content.php?id=2580
 # raw_sha256: 2ab6ad966abd90b37195117873c7740e3e753214ad8d88127fe2801d179127d1
 ---
 یوں رو رہے ہیں دیکھ کے زینب کو مرتظی
-شاید خیال آیا ہو بازار شام کا
+شاید خیال آیا ہو بازارِ شام کا
 
 ۱
 زینب کے تھے یہ بین مدینے چلو حسین
@@ -60,17 +61,17 @@ romanLyrics: |-
 عباس چپ ہے سامنے قاتل ہے باپ کا
 
 ۴
-زینب نہ رو ابھی مجھے آ جاے گا سکوں
+زینب نہ رو ابھی مجھے آ جائے گا سکوں
 رومال لا کے باندھ دو سر پر بتول کا
 
 ۵
-اک بی بی چل رہی ہے جنازے کے ساتھ ساتھ
-لگتا ہے قبر چھوڑ کے آی ہے فاطمہ
+اک بی‌بی چل رہی ہے جنازے کے ساتھ ساتھ
+لگتا ہے قبر چھوڑ کے آئی ہے فاطمہ
 
 ۶
 مولا کیوں خاک آپ نے ڈالی ہے زخم پہ
-کیا یاد آگیء ہے مصلے پہ کربلا
+کیا یاد آ گئی ہے مصلے پہ کربلا
 
 ۷
-دربار شام جاؤں گا زینب میں تیرے ساتھ
-اکبر یہ کہہ کے ہو گےء خاموش مرتظی
+دربارِ شام جاؤں گا زینب میں تیرے ساتھ
+اکبر یہ کہہ کے ہو گئے خاموش مرتظی

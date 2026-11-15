@@ -10,111 +10,111 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Yun halq se naawak takraya
-  Baysheer ko dunya maan gayi
-  Hasta hi raha rone waala
-  Aakhir ko hasi mein jaan gayi
+  Yuṅ halq se naawak takraaya
+  Beshir ko dunya maan gayi
+  Haṅsta hi raha rone waala
+  Aakhir ko haṅsi mein jaan gayi
 
   1
-  Kuch baap ki khusboo si paayi
+  Kuch baap ki khushbu si paayi
   Nana ki mehak si kuch aayi
-  Maqtal ke khareeb aayi jo behan
-  Bhai ka lahoo pehchaan gayi
+  Maqtal ke qarib aayi jo behan
+  Bhaai ka lahu pehchaan gayi
 
   2
-  Girte huwe pani se poocho
-  Thi roohe wafa mashkeeze mein
-  Ek boondh bhi jab baakhi na rahi
+  Girte hue paani se puchho
+  Thi ruh-e-wafa mashkize mein
+  Ik bund bhi jab baaqi na rahi
   Abbas tumhari jaan gayi
 
   3
   Zainab ne suna din dhalte hi
-  Rota hai koi maqtal ke khareeb
-  Beti se bhala kya chup sakti
+  Rota hai koi maqtal ke qarib
+  Beti se bhala kya chhup sakti
   Wo maa ki sada pehchaan gayi
 
   4
-  Haathon ki rasan dheeli na hui
-  Dil kaamp gaya aansu barse
-  Kya jaaniye kya kismat ne kaha
+  Haathoṅ ki rasan dhili na hui
+  Dil kaaṅp gaya aaṅsu barse
+  Kya jaaniye kya qismat ne kaha
   Maa nanhi lehad pehchaan gayi
 
   5
-  Aakhar ko sehm kar darya ne
-  Jaldi se bhara mashkeeze ko
+  Aakhir ko seham kar darya ne
+  Jaldi se bhara mashkize ko
   Abbas ke bigde tewar ko
   Jo mauj thi wo pehchaan gayi
 
   6
   Shabbir ke sajde ki azmat
-  Pasti mein malak ke hai sajde
-  Ab aage koi manzil hi nahi
+  Pasti mein malak ke haiṅ sajde
+  Ab aage koi manzil hi nahiṅ
   Kaabe ki bulandi jaan gayi
 
   7
-  Abbas e ali ka parcham tha
-  Kis tarha se phaila aalam mein
+  Abbas-e-Ali ka parcham tha
+  Kis tarah se phaila aalam mein
   Dushman ki nazar bhi aakhir ko
   Talwaar ka loha maan gayi
 
   8
-  Shabbir ki chaukat tak aa kar
-  Ulfat ne jhukaya sar mera
+  Shabbir ki chaukhat tak aa kar
+  Ulfat ne jhukaaya sar mera
   Markaz to yehi hai sajde ka
-  Ay fazl jabeen pehchaan gayi
+  Ae Fazl jabiṅ pehchaan gayi
 # source_id: nohayonline:d60e92fd3c6fdee479ce
 # source_url: https://www.nohayonline.com/details_content.php?id=1467
 # raw_sha256: accd0f2df0c98621aee750f87410473d1db5e56ff83c1934b9c690d8ecb5a577
 ---
 یوں حلق سے ناوک ٹکرایا
-بے شیر کو دنیا مان گیء
+بے شیر کو دنیا مان گئی
 ہنستا ہی رہا رونے والا
-آخر کو ہنسی میں جان گیء
+آخر کو ہنسی میں جان گئی
 
 ۱
-کچھ باپ کی خوشبو سی پای
-نانا کی مہک سی کچھ آی
-مقتل کے قریب آی بہن
-بھای کا لہو پہچان گیء
+کچھ باپ کی خوشبو سی پائی
+نانا کی مہک سی کچھ آئی
+مقتل کے قریب آئی بہن
+بھائی کا لہو پہچان گئی
 
 ۲
-گرتے ہوے پانی سے پوچھو
-تھی روح وفا مشکیزے میں
-اک بوندھ بھی جب باقی نہ رہی
-عباس تمہاری جان گیء
+گرتے ہوئے پانی سے پوچھو
+تھی روحِ وفا مشکیزے میں
+اک بوند بھی جب باقی نہ رہی
+عباس تمہاری جان گئی
 
 ۳
 زینب نے سنا دن ڈھلتے ہی
 روتا ہے کوئی مقتل کے قریب
 بیٹی سے بھلا کیا چھپ سکتی
-وہ ماں کی صدا پہچان گیء
+وہ ماں کی صدا پہچان گئی
 
 ۴
-ہاتھوں کی رسن ڈھیلی نہ ہوی
-دل کانپ گیا آنسوں برسے
-کیا جانیےء کیا قسمت نے کہا
-ماں ننھی لحد پہچان گیء
+ہاتھوں کی رسن ڈھیلی نہ ہوئی
+دل کانپ گیا آنسو برسے
+کیا جانیے کیا قسمت نے کہا
+ماں ننھی لحد پہچان گئی
 
 ۵
 آخر کو سہم کر دریا نے
 جلدی سے بھرا مشکیزے کو
 عباس کے بگڑے تیور کو
-جو موج تھی وہ پہچان گیء
+جو موج تھی وہ پہچان گئی
 
 ۶
 شبیر کے سجدے کی عظمت
 پستی میں ملک کے ہیں سجدے
 اب آگے کوئی منزل ہی نہیں
-کعبے کی بلندی جان گیء
+کعبے کی بلندی جان گئی
 
 ۷
 عباس علی کا پرچم تھا
 کس طرح سے پھیلا عالم میں
 دشمن کی نظر بھی آخر کو
-تلوار کا لوہا مان گیء
+تلوار کا لوہا مان گئی
 
 ۸
 شبیر کی چوکھٹ تک آ کر
 الفت نے جھکایا سر میرا
 مرکز تو یہی ہے سجدے کا
-اے فضل جبیں پہچان گیء
+اے فضل جبیں پہچان گئی

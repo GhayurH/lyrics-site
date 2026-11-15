@@ -1,102 +1,119 @@
 ---
-title: "یوسف لیلیٰ اکبر"
-alternateTitle: "Yusufe Laila Akbar"
+title: "یوسفِ لیلیٰ اکبر"
+alternateTitle: "Yusuf-e-Laila Akbar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nadeem Sultanpuri"
+reciter: "Ali Mohd. Sultanpuri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Yusuf e laila akbar
-  Meri tamanna akbar
-  Ay mere beta akbar
+  Yusuf-e-Laila Akbar
+  Meri tamanna Akbar
+  Ae mere beta Akbar
 
   1
-  Yusuf e lalila akbar meri tamanna akbar
-  Tu hi bata de beta kaise jiyegi maadar
+  Yusuf-e-Laila Akbar meri tamanna Akbar
+  Tu hi bata de beta kaise jiye gi maadar
   Lut gayi dunya meri khaak hua mera ghar
+  Tu hi bata de beta kaise jiye gi maadar
 
   2
-  Daagh pisar ka lekar jeena bhi kaisa jeena
-  Baad tere ay beta khaak hai mera jeena
-  Saansein bhi ab chalti hai ban ke jigar pe khanjar
+  Daagh-e-pisar ka le kar jina bhi kaisa jina
+  Baad tere ae beta khaak hai mera mera jina
+  Saaṅseṅ bhi ab chalti haiṅ ban ke jigar pe khanjar
+  Tu hi bata de beta kaise jiye gi maadar
 
   3
-  Arz e bala ne looti saari kamayi meri
-  Maang bhi ujdi meri kok bhi ujdi meri
-  Umr guzaare laila kiske sahare dilbar
+  Arz-e-bala ne luti saari kamaai meri
+  Maaṅg bhi ujri meri kok bhi ujri meri
+  Umr guzaare Laila kis ke sahaare dilbar
+  Tu hi bata de beta kaise jiye gi maadar
 
   4
   Kya thi tamanna meri aur sitam kya dekha
   Na teri dulhan dekhi na tera sehra dekha
-  Mehendi lagati jispar haath wo hai khoon mein tar
+  Mehndi lagaati jis par haath wo hai khun mein tar
+  Tu hi bata de beta kaise jiye gi maadar
 
   5
-  Lutf mujhe jeene ka us ghadi aata akbar
-  Tera pisar jab dadi kwhke bulaata akbar
-  Dil ki tamannayein sab reh gayi dil mein ghut kar
+  Lutf mujhe jine ka us ghari aata Akbar
+  Tera pisar jab daadi keh ke bulaata Akbar
+  Dil ki tamannaaeiṅ sab reh gayiṅ dil mein ghut kar
+  Tu hi bata de beta kaise jiye gi maadar
 
   6
-  Din ye kisi dushman ko bhi na khuda dikhlaye
-  Rab na kare jeete ji maa se pisar chin jaaye
-  Kaise mai rakhlun akbar apne jigar pe pathar
+  Din ye kisi dushman ko bhi na Khuda dikhlaaye
+  Rab na kare jite ji maaṅ se pisar chhin jaaye
+  Kaise main rakh luṅ Akbar apne jigar pe patthar
+  Tu hi bata de beta kaise jiye gi maadar
 
   7
-  Usko bhala kaise ho jeene ki chaahat beta
-  Jisne jawan bete ki dekhi ho mayyat beta
-  Ye bhi koi jeena hai maut hai is se behtar
+  Us ko bhala kaise ho jine ki chaahat beta
+  Jis ne jawaan bete ki dekhi ho mayyat beta
+  Ye bhi koi jina hai maut hai is se behtar
+  Tu hi bata de beta kaise jiye gi maadar
 
   8
-  Haal nadeem us maa ka mujhse bayan kya hoga
-  Jeeti rahi wo jab tak padhti rahi ye nauha
-  Door hua tu jab se chain nahi hai pal bhar
+  Haal Nadeem us maaṅ ka mujh se bayaan kya hoga
+  Jiti rahi wo jab tak parhti rahi ye nauha
+  Dur hua tu jab se chain nahiṅ hai pal bhar
+  Tu hi bata de beta kaise jiye gi maadar
 # source_id: nohayonline:f814a116b78844dc4a72
 # source_url: https://www.nohayonline.com/details_content.php?id=2867
 # raw_sha256: 6fbe026883d47be354d7c5170d327d8eac0e48a305d407bcece599884fb3c28c
 ---
-یوسف لیلیٰ اکبر
+یوسفِ لیلیٰ اکبر
 میری تمنا اکبر
 اے میرے بیٹا اکبر
 
 ۱
-یوسف لیلیٰ اکبر میری تمنا اکبر
-تو ہی بتا دے بیٹا کیسے جیےء گی مادر
-لٹ گیء دنیا میری خاک ہوا میرا گھر
+یوسفِ لیلیٰ اکبر میری تمنا اکبر
+تو ہی بتا دے بیٹا کیسے جیے گی مادر
+لٹ گئی دنیا میری خاک ہوا میرا گھر
+تو ہی بتا دے بیٹا کیسے جیے گی مادر
 
 ۲
-داغ پسر کا لے کر جینا بھی کیسا جینا
+داغِ پسر کا لے کر جینا بھی کیسا جینا
 بعد تیرے اے بیٹا خاک ہے میرا میرا جینا
 سانسیں بھی اب چلتی ہیں بن کے جگر پہ خنجر
+تو ہی بتا دے بیٹا کیسے جیے گی مادر
 
 ۳
-عرضِ بلا نے لوٹی ساری کمای میری
+عرضِ بلا نے لوٹی ساری کمائی میری
 مانگ بھی اجڑی میری کوک بھی اجڑی میری
 عمر گزارے لیلیٰ کس کے سہارے دلبر
+تو ہی بتا دے بیٹا کیسے جیے گی مادر
 
 ۴
 کیا تھی تمنا میری اور ستم کیا دیکھا
 نہ تیری دلہن دیکھی نہ تیرا سہرا دیکھا
 مہندی لگاتی جس پر ہاتھ وہ ہے خون میں تر
+تو ہی بتا دے بیٹا کیسے جیے گی مادر
 
 ۵
 لطف مجھے جینے کا اس گھڑی آتا اکبر
 تیرا پسر جب دادی کہہ کے بلاتا اکبر
-دل کی تمناییں سب رہ گیء دل میں گھٹ کر
+دل کی تمنائیں سب رہ گئیں دل میں گھٹ کر
+تو ہی بتا دے بیٹا کیسے جیے گی مادر
 
 ۶
-دن یہ کسی دشمن کو بھی نہ خدا دکھلاے
+دن یہ کسی دشمن کو بھی نہ خدا دکھلائے
 رب نہ کرے جیتے جی ماں سے پسر چھن جائے
 کیسے میں رکھ لوں اکبر اپنے جگر پہ پتھر
+تو ہی بتا دے بیٹا کیسے جیے گی مادر
 
 ۷
 اس کو بھلا کیسے ہو جینے کی چاہت بیٹا
 جس نے جوان بیٹے کی دیکھی ہو میت بیٹا
-یہ بھی کوی جینا ہے موت ہے اس سے بہتر
+یہ بھی کوئی جینا ہے موت ہے اس سے بہتر
+تو ہی بتا دے بیٹا کیسے جیے گی مادر
 
 ۸
 حال ندیم اس ماں کا مجھ سے بیان کیا ہوگا
 جیتی رہی وہ جب تک پڑھتی رہی یہ نوحہ
 دور ہوا تو جب سے چین نہیں ہے پل بھر
+تو ہی بتا دے بیٹا کیسے جیے گی مادر
