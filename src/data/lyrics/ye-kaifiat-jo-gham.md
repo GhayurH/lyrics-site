@@ -6,61 +6,62 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nadeem"
+reciter: "Sajid Jafri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Ye kaifiat jo gham o alam ki
-  Tamam aalam pe cha rahi hai
-  Nabi ki dilbar ke khoon ki kushboo
-  Fiza mein ab tak sama rahi hai
+  Tamaam aalam pe chhaa rahi hai
+  Nabi ki dilbar ke khuṅ ki khushbu
+  Fizaa mein ab tak samaa rahi hai
 
   1
-  Nabi se dunya ki zeb o zeenat
+  Nabi se dunya ki zeb o zinat
   Nabi ki jaanib bula rahi hai
-  Hussain ki yaad dil se lekin
-  Har ek har khwahish mita rahi hai
+  Husain ki yaad dil se lekin
+  Har ek har khwaahish mita rahi hai
 
   2
-  Ye chaah hai gham dilon pe chaaye
-  Khayal e baatil dilon se jaaye
+  Ye chaah hai gham diloṅ pe chhaaye
+  Khayaal-e-baatil diloṅ se jaaye
   Nabi ki itrat hamare khaatir
   Har ek musibat utha rahi hai
 
   3
-  Furaat ki simt dekh kar yun
-  Sakina kehti thi pyare ammu
+  Furaat ki simt dekh kar yuṅ
+  Sakina kehti thi pyaare ammu
   Zara bhatiji ko aa ke dekho
   Sitam ke sadme utha rahi hai
 
   4
-  Sakina kehti thi bhaiya asghar
+  Sakina kehti thi bhaiya Asghar
   Na aaye tum laut kar abhi tak
   Lo ab to aao behan tumhari
-  Ye khaali jhoola jhula rahi hai
+  Ye khaali jhula jhula rahi hai
 
   5
-  Hussain ki laadli sakina
-  Padar ke seene pe sone waali
-  Chacha se chooti padar se bichdi
-  Tamache zaalim ke kha rahi hai
+  Husain ki laadli Sakina
+  Padar ke sine pe sone waali
+  Chacha se chhuti padar se bichhri
+  Tamaache zaalim ke khaa rahi hai
 
   6
-  Har ek sheh is ke hukm mein hai
-  Magar ye eesaar allah allah
+  Har ek shai is ke hukm mein hai
+  Magar ye isaar Allah Allah
   Ali ki beti hamare khaatir
   Rasan mein baazu bandha rahi hai
 
   7
-  Habeeb e rab ki nawasiyan jo
+  Habib-e-Rab ki nawaasiyaṅ jo
   Barehna sar izdahaam mein hai
-  Hawa musalsal ghubaar uda kar
-  Saron pe chadar udha rahi hai
+  Hawaa musalsal ghubaar ura kar
+  Saroṅ pe chaadar orhaa rahi hai
 
   8
-  Asad wo keena ke ghasbe haq se
-  Har ek burayi se bas hamesha
-  Hussain ki yaad haq ki jaanib
+  Asad wo kina ke ghasb-e-haq se
+  Har ek buraai se bas hamesha
+  Husain ki yaad haq ki jaanib
   Nadeem tujhko bula rahi hai
 # source_id: nohayonline:518eee4833dc8fcc99a3
 # source_url: https://www.nohayonline.com/details_content.php?id=1694
@@ -78,20 +79,20 @@ romanLyrics: |-
 ہر ایک خواہش مٹا رہی ہے
 
 ۲
-یہ چاند ہے غم دلوں پہ چھاے
-خیال باطل دلوں سے جاے
-نبی کی عطرت ہمارے خاطر
+یہ چاند ہے غم دلوں پہ چھائے
+خیالِ باطل دلوں سے جائے
+نبی کی عترت ہمارے خاطر
 ہر ایک مصیبت اٹھا رہی ہے
 
 ۳
 فرات کی سمت دیکھ کر یوں
 سکینہ کہتی تھی پیارے عمو
-زرا بھتیجی کو آ کے دیکھو
+ذرا بھتیجی کو آ کے دیکھو
 ستم کے صدمے اٹھا رہی ہے
 
 ۴
 سکینہ کہتی تھی بھیا اصغر
-نہ آے تم لوٹ کر ابھی تک
+نہ آئے تم لوٹ کر ابھی تک
 لو اب تو آؤ بہن تمہاری
 یہ خالی جھولا جھلا رہی ہے
 
@@ -102,19 +103,19 @@ romanLyrics: |-
 طمانچے ظالم کے کھا رہی ہے
 
 ۶
-ہر ایک شہ اس کے حکم میں ہے
-مگر یہ اثار اللّٰہ اللّٰہ
+ہر ایک شے اس کے حکم میں ہے
+مگر یہ ایثار اللّٰہ اللّٰہ
 علی کی بیٹی ہمارے خاطر
 رسن میں بازو بندھا رہی ہے
 
 ۷
-حبیب رب کی نواسیاں جو
-برہنہ سر اژدھام میں ہیں
+حبیبِ رب کی نواسیاں جو
+برہنہ سر ازدحام میں ہیں
 ہوا مسلسل غبار اڑا کر
-سروں پہ چادر اڑھا رہے ہیں
+سروں پہ چادر اوڑھا رہے ہیں
 
 ۸
-اسد وہ کینہ کے غصب حق سے
-ہر ایک برای سے بس ہمیشہ
+اسد وہ کینہ کے غصبِ حق سے
+ہر ایک برائی سے بس ہمیشہ
 حسین کی یاد حق کی جانب
-ندیم تجھکو بلا رہی ہے
+ندیم تجھ کو بلا رہی ہے

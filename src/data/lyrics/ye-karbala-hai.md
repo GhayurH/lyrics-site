@@ -6,74 +6,75 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Mir Hasan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Karbala awaaz meri dil mera hai karbala
-  Karbala karbala karbala
+  Karbala aawaaz meri dil mera hai Karbala
+  Karbala Karbala Karbala
 
   1
-  Yahan sambhalkar qadam uthana
-  Ye karbala hai ye karbala hai
-  Ye baat hargiz na bhool jaana
-  Ye karbala hai ye karbala hai
+  Yahaṅ sambhal kar qadam uthaana
+  Ye Karbala hai ye Karbala hai
+  Ye baat hargiz na bhul jaana
+  Ye Karbala hai ye Karbala hai
 
   2
-  Jahan mein sabr o riza yehi hai
-  Khudaye sabr o riza yehi hai
-  Yahan pe aate hai chalke mehdi
-  Ye ishte zahra ye sar zameen hai
-  Yahan hai zahra ka aana jaana
+  Jahaaṅ mein sabr o riza yahi hai
+  Khudaa-e-sabr o riza yahi hai
+  Yahaṅ pe aate haiṅ chal ke Mehdi
+  Ye ishte Zahra ye sar zamiṅ hai
+  Yahaṅ hai Zahra ka aana jaana
 
   3
-  Duayein denge hussain tum ko
-  Yahan pe aansu agar bahaye
-  Jahan pe beti ne be-watan ki
-  Sitamgaron se tamache khaaye
-  Yahan pe khushiyon ko bhool jaana
+  Duaaeṅ deṅge Husain tum ko
+  Yahaṅ pe aansu agar bahaaye
+  Jahaaṅ pe beti ne bewatan ki
+  Sitamgaroṅ se tamaache khaaye
+  Yahaṅ pe khushiyoṅ ko bhul jaana
 
   4
-  Yahan pe guzri hai wo qayamat
-  Mila na usko sukoon ab tak
-  Ridayein chin-ne ke gham mein abid
-  Lehad mein rota hai khoon ab tak
-  Yahan pe hargiz na muskurana
+  Yahaṅ pe guzri hai wo qayaamat
+  Mila na us ko sukun ab tak
+  Ridaaeṅ chhinne ke gham mein Aabid
+  Lahad mein rota hai khun ab tak
+  Yahaṅ pe hargiz na muskuraana
 
   5
-  Yahan pe hurr bhi tha hurmala bhi
-  Kitaabe hasti to padhke dekho
-  Sadayein hal min jo aa rahi hai
+  Yahaṅ pe Hur bhi tha Hurmala bhi
+  Kitaab-e-hasti to parh ke dekho
+  Sadaa-e-hal min jo aa rahi hai
   Tum is taraf ho ya is taraf ho
-  Tumhein amal se hai ab batana
+  Tumheṅ amal se hai ab bataana
 
   6
-  Yahin pe qasim huwe hai tukde
-  Yahin pe zeen se giray thay maula
-  Yahin sakina sumon se lipti
-  Yahin pe asghar ne teer khaaya
-  Yahin ghareebi ka hai thikana
+  Yahiṅ pe Qaasim hue haiṅ tukre
+  Yahiṅ pe ziṅ se gire the Maula
+  Yahiṅ Sakina sumoṅ se lipti
+  Yahiṅ pe Asghar ne tir khaaya
+  Yahiṅ gharibi ka hai thikaana
 
   7
-  Sawari aayegi ek wahan se
+  Sawaari aayegi ik wahaaṅ se
   Najaf ki jaanib nigaah rakhna
-  Jab aaye sham-e-ghariban us dam
-  Ali ko zainab ka pursa dena
-  Tum aansuon ke diye jalana
+  Jab aaye Shaam-e-Gharibaaṅ us dam
+  Ali ko Zainab ka pursa dena
+  Tum aansuoṅ ke diye jalaana
 
   8
   Kisi ke dil mein lagi hai barchi
-  Kisi ke baazu katay yahin par
-  Haye ali ki beti ke kitne yusuf
-  Lahoo mein doobe hai is zameen par
-  Luta hai sadaat ka gharana
+  Kisi ke baazu kate yahiṅ par
+  Haaye Ali ki beti ke kitne Yusuf
+  Lahu mein dube haiṅ is zamiṅ par
+  Luta hai Saadaat ka gharaana
 
   9
-  Rahe kahin bhi jahan mein jaa kar
-  Hussain waale ye jaante hai
-  Ham ahle matam ke dil takallum
-  Yahan ki mitti se hi bane hai
-  Yahan hai wapas palat ke aana
+  Raheṅ kahiṅ bhi jahaaṅ mein jaa kar
+  Husain waale ye jaante haiṅ
+  Ham ahl-e-maatam ke dil Takallum
+  Yahaṅ ki mitti se hi bane haiṅ
+  Yahaṅ hai waapas palat ke aana
 # source_id: nohayonline:8f93e662713bd2c1b8e9
 # source_url: https://www.nohayonline.com/details_content.php?id=101
 # raw_sha256: 67310b0cea7b7b0d7e53237934234168b6a4e12ac298870642eb6d538b25dc40
@@ -89,50 +90,50 @@ romanLyrics: |-
 
 ۲
 جہاں میں صبر و رضا یہی ہے
-خداے صبر و رضا یہی ہے
-یہاں پہ آتے ہیں چلکے مہدی
+خدائے صبر و رضا یہی ہے
+یہاں پہ آتے ہیں چل کے مہدی
 یہ عشت زہرا یہ سر زمیں ہے
 یہاں ہے زہرا کا آنا جانا
 
 ۳
-دعاءیں دیں گے حسین تم کو
-یہاں پہ آنسوں اگر بہاے
+دعائیں دیں گے حسین تم کو
+یہاں پہ آنسو اگر بہائے
 جہاں پہ بیٹی نے بے وطن کی
-ستمگروں کے طمانچے کھاے
+ستمگروں کے طمانچے کھائے
 یہاں پہ خوشیوں کو بھول جانا
 
 ۴
 یہاں پہ گزری ہے وہ قیامت
-ملا نہ اسکو سکون اب تک
-رداءیں چھن نے کے غم میں عابد
+ملا نہ اس کو سکون اب تک
+ردائیں چھننے کے غم میں عابد
 لحد میں روتا ہے خون اب تک
 یہاں پہ ہر گز نہ مسکرانا
 
 ۵
 یہاں پہ حر بھی تھا حرملہ بھی
-کتاب ہستی تو پڑھکے دیکھو
-صدائے ھل من جو آرہی ہے
+کتابِ ہستی تو پڑھ کے دیکھو
+صدائے ہل من جو آ رہی ہے
 تم اس طرف ہو یا اس طرف ہو
 تمہیں عمل سے ہے اب بتانا
 
 ۶
-یہں پہ قاسم ہوئے ہیں ٹکڑے
-یہی پہ زیں سے گرے تھے مولا
-یہی سکینہ سموں سے لپٹی
-یہی پہ اصغر نے تیر کھایا
-یہی غریبی کا ہے ٹھکانہ
+یہیں پہ قاسم ہوئے ہیں ٹکڑے
+یہیں پہ زیں سے گرے تھے مولا
+یہیں سکینہ سموں سے لپٹی
+یہیں پہ اصغر نے تیر کھایا
+یہیں غریبی کا ہے ٹھکانہ
 
 ۷
-سواری آےگی اک وہاں سے
+سواری آئے گی اک وہاں سے
 نجف کی جانب نگاہ رکھنا
-جب آے شام غریباں اس دم
+جب آئے شامِ غریباں اس دم
 علی کو زینب کا پرسہ دینا
-تم آنسوؤں کے دیےء جلانا
+تم آنسوؤں کے دیے جلانا
 
 ۸
 کسی کے دل میں لگی ہے برچی
-کسی کے بازو کٹے یہی پر
-ہاے علی کی بیٹی کے کتنے یوسف
+کسی کے بازو کٹے یہیں پر
+ہائے علی کی بیٹی کے کتنے یوسف
 لہو میں ڈوبے ہیں اس زمیں پر
 لٹا ہے سادات کا گھرانہ
 
