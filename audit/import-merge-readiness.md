@@ -31,6 +31,13 @@ The original `audit/manual-md-review-tracker.csv` records all thirteen round-one
 - The Roman Urdu normalizer now also leaves Balti and Panjabi native editions untouched. Readers distinguish English native originals and bilingual Shahmukhi/Roman Panjabi and Balti without mislabelling English as Roman Urdu. Targeted tests use these five actual files.
 - The older unrelated full-corpus source-check blockers remain open.
 
+## Ana Ali Yabnul manual source reconciliation (2026-11-15)
+
+- Removed the unused `toolbar` locator in `tests/browser/recitation.spec.mjs` so Astro/TypeScript no longer reports its ts(6133) hint.
+- `ana-ali-yabnul.md` previously had **57 Roman versus 46 Urdu physical verse lines**. The Roman stream included six repeated lines already present in the matching stanzas, and a separate repeat of the Arabic opening chant that enclosed three source-only Arabic rajaz lines. Preserved the three *unique* lines and manually transcribed their Arabic-script counterparts instead of discarding unique material.
+- Both editions now have **49 verse lines**, with equivalent preamble/intro blocks of four and seven lines and **nine identically numbered stanzas** (4, 4, 4, 6, 4, 4, 4, 4, 4 lines). All preexisting 46 Urdu verse lines and all non-duplicate Roman lines are retained. Source differences were compared to the NoHayOnline poem and the supplemental 2013 Roman source; the three restored Arabic lines require a further recitation or native-language spelling check, so transliteration and Urdu completeness remain `partial_review` rather than claiming verified wording.
+- Updated the existing manual tracker without creating a new status register; added a source-aware structural regression test while keeping the unchanged original recitation identity.
+
 ## Metadata and stanza preparation
 
 - All 3,309 initial round-one additions were changed to `published: true`; one has since been consolidated. Original publication flags were preserved.
