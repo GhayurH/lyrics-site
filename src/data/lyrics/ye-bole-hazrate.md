@@ -6,96 +6,97 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Fikr Lakhnavi"
+reciter: "Afzal Mirza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ye bole hazrate abbas aa ke sarwar se
-  Ke sabr ho nahi sakta hai ab is ahqar se
+  Ye bole Hazrat-e-Abbas aa ke Sarwar se
+  Ke sabr ho nahiṅ sakta hai ab is ahqar se
   
   1
-  Hai bache tashna dahani se jaan balab maula
-  Sada e al'atash aati hai qaimon ke dar se
-  Jo izn e jang nahi laane dijiye pani
-  Ke meri pyari sakina na aab ko tarse
+  Hai bachche tashna dahaani se jaaṅ balab Maula
+  Sadaa-e-alatash aati hai khaimoṅ ke dar se
+  Jo izn-e-jang nahiṅ laane dijiye paani
+  Ke meri pyaari Sakina na aab ko tarse
   
   2
-  Ye sunke hazrate shabbir ne jhukaya sar
-  Samajhli bhai ki marzi sukoote sarwar se
-  Utha ke mashk o alam aur le ke ek naiza
-  Chala dilayr raza paate hi baradar se
+  Ye sun ke Hazrat-e-Shabbir ne jhukaaya sar
+  Samajh li bhai ki marzi sukut-e-Sarwar se
+  Utha ke mashk o alam aur le ke ek neza
+  Chala diler raza paate hi baraadar se
   
   3
-  Bhaga ke fauje sitam aur bhar ke nehr se mashk
-  Suye khayaam phire ladte fauje akfar se
-  Thi mashk dosh par aur dast e raast mein naiza
-  Jo ek layeen ne kiya us pa waar khanjar se
+  Bhaga ke fauj-e-sitam aur bhar ke nehr se mashk
+  Su-e-khayaam phire larte fauj-e-akfaar se
+  Thi mashk dosh par aur dast-e-raast mein neza
+  Jo ek laiṅ ne kiya us pe waar khanjar se
   
   4
-  Sambhala mashk o alam baaye haath se lekin
-  Tamaam fauj ki thi jang ek dilawar se
-  Bil aakhir us pe bhi talwaar ek shaqi ki padi
-  Lahoo ka beh gaya darya tan e mutaahar se
+  Sambhaala mashk o alam baayeṅ haath se lekin
+  Tamaam fauj ki thi jang ek dilaawar se
+  Bilaakhir us pe bhi talwaar ek shaqi ki pari
+  Lahu ka beh gaya darya tan-e-mutahhar se
   
   5
-  Magar thi koshishe abbas pani bach jaye
-  Ke surkh roo hoo pilaakar mai binte sarwar se
-  Daba ke daanton mein tasma badhe thay aap abhi
-  Ke aa ke teer pada lashkare sitamgar se
+  Magar thi koshish-e-Abbas paani bach jaaye
+  Ke surkh ru huṅ pila kar main bint-e-Sarwar se
+  Daba ke daantoṅ mein tasma barhe the aap abhi
+  Ke aa ke tir para lashkar-e-sitamgar se
   
   6
-  Idhar to mashk chidi dhaar nikli pani ki
-  Ek aah sard udhar nikli qalb e muztar se
-  Kuch aur aage bade thay ke sar pa gurz pada
-  Khitaab kar ke kaha tab jari ne sarwar se
+  Idhar to mashk chhidi dhaar nikli paani ki
+  Ek aah sard udhar nikli qalb-e-muztar se
+  Kuchh aur aage barhe the ke sar pe gurz para
+  Khitaab kar ke kaha tab jari ne Sarwar se
   
   7
-  Ke jaan apni fida ki ghulam ne maula
-  Dua hai sayr hoo ab deede roohe anwar se
-  Sada ye sun ke kamar thaam ke chale hazrat
-  Ye kehte jaate thay ro ro ke shaah akbar se
+  Ke jaaṅ apni fida ki ghulaam ne Maula
+  Dua hai ser huṅ ab did-e-ruh-e-anwar se
+  Sada ye sun ke kamar thaam ke chale Hazrat
+  Ye kehte jaate the ro ro ke shaah Akbar se
   
   8
   Kidhar se aayi nida jald le chalo beta
-  Ke marte waqt galay mil loo mai baradar se
-  Gharaz ke pahunche to ghaltan thay khoon mein abbas
-  Na dekhi jaati thi haalat jari ki sarwar se
+  Ke marte waqt gale mil luṅ main baraadar se
+  Gharaz ke pahunche to ghaltaaṅ the khun mein Abbas
+  Na dekhi jaati thi haalat jari ki Sarwar se
   
   9
-  Utha ke sar rakha zaanu pa aur ro ke kaha
-  Agar ho koi tamanna kaho baradar se
-  Kaha ye hazrate abbas ne ke ay aaqa
-  Tha dil mein shauq e ziyarat magar muqadar se
+  Utha ke sar rakha zaanu pe aur ro ke kaha
+  Agar ho koi tamanna kaho baraadar se
+  Kaha ye Hazrat-e-Abbas ne ke ae Aaqa
+  Tha dil mein shauq-e-ziyaarat magar muqaddar se
   
   10
-  Ek aankh teer se zakhmi hai aur doosri par
-  Jama hai khoon nikal kar shigaafta sar se
-  Aba ka daaman utha kar wo khoon shahe deen ne
-  Chudaya dasht mein ro ro ke daste athar se
+  Ek aaṅkh tir se zakhmi hai aur dusri par
+  Jama hai khun nikal kar shigaafta sar se
+  Aba ka daaman utha kar wo khun Shaah-e-din ne
+  Chhuraaya dasht mein ro ro ke dast-e-athar se
   
   11
-  Rukhe hussain ko hasrat se dekh kar ek baar
-  Khareeb apne bula kar kaha ye akbar se
-  Mujhe yaqeen hai pase qatle fauje kufa o shaam
-  Karengi be adabi jism e shaahe safdar se
+  Rukh-e-Husain ko hasrat se dekh kar ek baar
+  Qarib apne bula kar kaha ye Akbar se
+  Mujhe yaqiṅ hai pas-e-qatl-e-fauj-e-Kufa o Shaam
+  Kareṅ gi beadabi jism-e-Shaah-e-Safdar se
   
   12
-  Sipurd kar ke meri laash ibne saad ko tum
-  Meri taraf se ye keh dena baaniye shar se
-  Ewaz hussain ke pamaal kar de laash meri
-  Ke roz e hashr khijaalat na ho payambar se
+  Sipurd kar ke meri laash Ibn-e-Saad ko tum
+  Meri taraf se ye keh dena baani-e-shar se
+  Iwaz Husain ke paamaal kar de laash meri
+  Ke roz-e-hashr khijaalat na ho Payambar se
   
   13
   Khitaab sheh se kiya phir ke mere laashe ko
-  Huzoor uthaye na lillaah is jagah par se
-  Kiya tha waada sakina se pani laane ka
-  Hoo sharmsaar mai aaqa ki pyari dukhtar se
+  Huzur uthaaye na lillaah is jagah par se
+  Kiya tha waada Sakina se paani laane ka
+  Huṅ sharmsaar main Aaqa ki pyaari dukhtar se
   
   14
-  Ye kehte kehte sidhaare suye jinaa abbas
-  Hussain roye lipat kar tan e baradar se
-  Dua karo bas ab ay fikr tum ke ya abbas
-  Khareeb qabr milay rauza e munawar se
+  Ye kehte kehte sidhaare su-e-jinaaṅ Abbas
+  Husain roye lipat kar tan-e-baraadar se
+  Dua karo bas ab ae Fikr tum ke ya Abbas
+  Qarib qabr mile rauza-e-munawwar se
 # source_id: nohayonline:710e65f23d736a1ed8ba
 # source_url: https://www.nohayonline.com/details_content.php?id=1871
 # raw_sha256: a0f6a65433ae6a4326051588597771bc116200bb9fa654408332b05b338fc6d5
@@ -107,13 +108,13 @@ romanLyrics: |-
 ۱
 ہے بچے تشنہ دہانی سے جاں بلب مولا
 صدائے العطش آتی ہے خیموں کے دور سے
-جو اذن جنگ نہیں لانے دیجیےء پانی
+جو اذن جنگ نہیں لانے دیجیے پانی
 کہ میری پیاری سکینہ نہ آب کو ترسے
 
 ۲
 یہ سن کے حضرتِ شبیر نے جھکایا سر
-سمجھ لی بھای کی مرضی سکوت سرور سے
-اٹھا کے مشک و الم اور لے کے اک نیزہ
+سمجھ لی بھائی کی مرضی سکوت سرور سے
+اٹھا کے مشک و علم اور لے کے اک نیزہ
 چلا دلیر رضا پاتے ہی برادر سے
 
 ۳
@@ -123,13 +124,13 @@ romanLyrics: |-
 جو اک لعیں نے کیا اس پہ وار خنجر سے
 
 ۴
-سنبھالا مشک و الم باے ہاتھ سے لیکن
+سنبھالا مشک و علم بائیں ہاتھ سے لیکن
 تمام فوج کی تھی جنگ اک دلاور سے
-بلآخر اس پہ بھی تلوار اک شقی کی پڑی
-لہو کا بہہ گیا دریا تن مطاہر سے
+بالآخر اس پہ بھی تلوار اک شقی کی پڑی
+لہو کا بہہ گیا دریا تن مطہر سے
 
 ۵
-مگر تھی کوشش عباس پانی بچ جاے
+مگر تھی کوشش عباس پانی بچ جائے
 کہ سرخ رو ہوں پلا کر میں بنت سرور سے
 دبا کے دانتوں میں تسما بڑھے تھے آپ ابھی
 کہ آ کے تیر پڑا لشکر ستمگر سے
@@ -147,7 +148,7 @@ romanLyrics: |-
 یہ کہتے جاتے تھے رو رو کے شاہ اکبر سے
 
 ۸
-کدھر سے آی ندا جلد لے چلو بیٹا
+کدھر سے آئی ندا جلد لے چلو بیٹا
 کہ مرتے وقت گلے مل لو میں برادر سے
 غرض کے پہنچے تو غلطاں تھے خون میں عباس
 نہ دیکھی جاتی تھی حالت جری کی سرور سے
@@ -172,18 +173,18 @@ romanLyrics: |-
 
 ۱۲
 سپرد کر کے میری لاش ابنِ سعد کو تم
-میری طرف سے یہ کہہ دینا بانیء شر سے
+میری طرف سے یہ کہہ دینا بانیِ شر سے
 عوض حسین کے پامال کر دے لاش میری
 کہ روز حشر خجالت نہ ہو پیمبر سے
 
 ۱۳
 خطاب شہ سے کیا پھر کے میرے لاشے کو
-حضور اٹھاے نہ لللہ اس جگہ پر سے
+حضور اٹھائے نہ للہ اس جگہ پر سے
 کیا تھا وعدہ سکینہ سے پانی لانے کا
 ہوں شرمسار میں آقا کی پیاری دختر سے
 
 ۱۴
 یہ کہتے کہتے سدھارے سوے جناں عباس
-حسین روے لپٹ کر تن برادر سے
-دعا کرو بس اب اے فکر تم کے اے عباس
-قریب قبر ملے روضہء منور سے
+حسین روئے لپٹ کر تن برادر سے
+دعا کرو بس اب اے فکر تم کہ اے عباس
+قریب قبر ملے روضۂ منور سے

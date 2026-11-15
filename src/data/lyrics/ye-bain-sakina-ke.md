@@ -6,54 +6,55 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Urooj Bijnori"
+reciter: "Tableegh-e-Imamia; Mukhtar Husain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ye bain sakina ke thay baba nahi aaye
-  Kyun ay phupi amma mere baba nahi aaye
+  Ye bain Sakina ke the baba nahiṅ aaye
+  Kiuṅ ae phuphi ammaṅ mere baba nahiṅ aaye
 
   1
-  Kehti thi ke dunya se guzar jaungi baba
-  Aur shaam ke zindan hi may mar jaungi baba
-  Ab tum se juda hoke kidhar jaungi baba
-  Paara hai jigar phir bhi tehar jaungi baba
+  Kehti thi ke duniya se guzar jaauṅ gi baba
+  Aur Shaam ke zindaan hi mein mar jaauṅ gi baba
+  Ab tum se juda ho ke kidhar jaauṅ gi baba
+  Paara hai jigar phir bhi thehar jaauṅ gi baba
 
   2
-  Ya rab mere baba pe na maqtal may jafa ho
-  Mai soch rahi hoo kahin aisa na hua ho
-  Baba ko na lashkar ne kahin ghayr liya ho
-  Kismat may mere daaghe yateemi na likha ho
+  Ya Rab mere baba pe na maqtal mein jafa ho
+  Main soch rahi huṅ kahiṅ aisa na hua ho
+  Baba ko na lashkar ne kahiṅ gher liya ho
+  Qismat mein meri daagh-e-yatimi na likha ho
 
   3
-  Ye kehke gaye thay ke abhi aata hoo bibi
-  Pani kahin mil jaye to mai laata hoo bibi
-  Mai khoone jigar peeta hoo gham khaata hoo bibi
-  Allah nigehban hai mai jaata hoo bibi
+  Ye keh ke gaye the ke abhi aata huṅ Bibi
+  Paani kahiṅ mil jaaye to main laata huṅ Bibi
+  Main khun-e-jigar pita huṅ gham khaata huṅ Bibi
+  Allah nigehbaan hai main jaata huṅ Bibi
 
   4
-  Ab tak to har ek ranj o musibat may guzar ki
+  Ab tak to har ek ranj o musibat mein guzar ki
   Is ranj o musibat ki kisi ko na khabar ki
-  Ab jaana yateemi may mohabbat ko pidar ki
-  Ek yaas ka aalam hai jigar maine nazar ki
+  Ab jaana yatimi mein mohabbat ko pidar ki
+  Ek yaas ka aalam hai jidhar main ne nazar ki
 
   5
-  Allah kisi ko na kare be-sar o saaman
-  Jis tarha se hum aale mohamed hai pareshan
-  Aisa ho jahan may na pareshan koi insan
-  Pamaal na is tarha se ho koi gulistaan
+  Allah kisi ko na kare besar o saamaaṅ
+  Jis tarah se hum Aal-e-Muhammad haiṅ pareshaaṅ
+  Aisa ho jahaaṅ mein na pareshaan koi insaaṅ
+  Paamaal na is tarah se ho koi gulistaaṅ
 
   6
-  Rukh badle hue ahle gulsitan hai phupi jaan
-  Ye ummate ahmed ye musalman hai phupi jaan
-  Baba ke na aane ke ye samaan hai phupi jaan
-  Aasaar yateemi ki numayan hai phupi jaan
+  Rukh badle hue ahl-e-gulistaaṅ haiṅ phuphi jaaṅ
+  Ye ummat-e-Ahmad ye musalmaaṅ haiṅ phuphi jaaṅ
+  Baba ke na aane ke ye saamaaṅ haiṅ phuphi jaaṅ
+  Aasaar yatimi ke numaayaaṅ haiṅ phuphi jaaṅ
 
   7
-  Zikre ghame shabbir may ab aah o buka kar
-  Aur aankhon may ashke ghame shabbir saja kar
-  Hai sheh ka wafadaar to phir zikre wafa kar
-  Maqtal may urooj har ek apne gham ko bhula kar
+  Zikr-e-gham-e-Shabbir mein ab aah o buka kar
+  Aur aankhoṅ mein ashk-e-gham-e-Shabbir saja kar
+  Hai sheh ka wafaadaar to phir zikr-e-wafa kar
+  Maqtal mein Urooj har ek apne gham ko bhula kar
 # source_id: nohayonline:12863dd2b7027eabceff
 # source_url: https://www.nohayonline.com/details_content.php?id=825
 # raw_sha256: fd6564f7b5c0c3a99d92d27abc729e660f837dd247b4712b6e2f5289543c1d22
@@ -65,10 +66,10 @@ romanLyrics: |-
 کیوں اے پھُوپھی اماں میرے بابا نہیں آئے
 
 ۱
-کہتی تھی کے دُنیا سے گزر جائوں گی بابا
-اور شام کے زندان ہی میں مر جائوں گی بابا
-اب تم سے جُدا ہو کہ کدھر جائوں گی بابا
-پاراہے جگر پھر بھی ٹھہر جائوں گی بابا
+کہتی تھی کہ دُنیا سے گزر جاؤں گی بابا
+اور شام کے زندان ہی میں مر جاؤں گی بابا
+اب تم سے جُدا ہو کے کدھر جاؤں گی بابا
+پارہ ہے جگر پھر بھی ٹھہر جاؤں گی بابا
 
 ۲
 یا رب میرے بابا پہ نہ مقتل میں جفا ہو
@@ -77,10 +78,10 @@ romanLyrics: |-
 قسمت میں میری داغِ یتیمی نہ لکھا ہو
 
 ۳
-یہ کہہ کے گئے تھے کے ابھی آتا ہوں بی بی
-پانی کہیں مل جائے تو میں لاتا ہوں بی بی
-میں خونِ جگر پیتا ہوں غم کھاتا ہوں بی بی
-اللہ نگہبان ہے میں جاتا ہوں بی بی
+یہ کہہ کے گئے تھے کہ ابھی آتا ہوں بی‌بی
+پانی کہیں مل جائے تو میں لاتا ہوں بی‌بی
+میں خونِ جگر پیتا ہوں غم کھاتا ہوں بی‌بی
+اللہ نگہبان ہے میں جاتا ہوں بی‌بی
 
 ۴
 اب تک تو ہر اک رنج و مصیبت میں گُزر کی
@@ -98,7 +99,7 @@ romanLyrics: |-
 رُخ بدلے ہوئے اہلِ گلستاں ہیں پھُوپھی جاں
 یہ اُمتِ احمد یہ مسلماں ہیں پھُوپھی جاں
 بابا کے نہ آنے کے یہ ساماں ہیں پھُوپھی جاں
-آسار یتیمی کے نمایاں ہیں پھُوپھی جاں
+آثار یتیمی کے نمایاں ہیں پھُوپھی جاں
 
 ۷
 ذکرِ غمِ شبیر میں اب آہ و بقا ہو
