@@ -9,6 +9,7 @@ poet: "Rehan Azmi"
 reciter: "Nadeem Sarwar"
 tags: []
 aliases: ["Ana Ibne Makkah", "ana-ibne-makkah"]
+recitationId: "ana-ibn-e-makka-o-mina"
 published: true
 romanLyrics: |-
   Bayaaṅ karta huṅ darbar-e-Shaam ka manzar

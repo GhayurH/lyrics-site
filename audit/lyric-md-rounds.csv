@@ -238,10 +238,10 @@ src/data/lyrics/abid-ghareeb-bekas.md,round_1,present,nohayonline,nohayonline:72
 src/data/lyrics/abid-ki-kahani.md,round_1,present,nohayonline,nohayonline:64b2dfb023e409f31955,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/abid-ki-nigahon-may.md,round_1,present,nohayonline,nohayonline:644892f58e7dfa021e18,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/abid-ki-zanjeer.md,round_1,present,nohayonline,nohayonline:2a2e005156003d395b26,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/abid-ko-dawa-aur.md,round_1,present,nohayonline,nohayonline:a675bfb01db84de8eb5d,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/abid-ko-dawa-aur.md,round_1,removed_duplicate,nohayonline,nohayonline:a675bfb01db84de8eb5d,feat/import-overlap-reconciliation-2026-11-05,Deleted in 31f4244f1b41; provisional identity purged before merge.
 src/data/lyrics/abid-ko-jahan-ghash.md,round_1,present,nohayonline,nohayonline:1e019e004076ad33f066,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/abid-ko-saath-lekar.md,round_1,present,nohayonline,nohayonline:0b340d72c29dd8435250,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/abid-na-kabhi-ranj.md,round_1,present,nohayonline,nohayonline:d68ac0c9950f18d18b5f,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/abid-na-kabhi-ranj.md,round_1,removed_duplicate,nohayonline,nohayonline:d68ac0c9950f18d18b5f,feat/import-overlap-reconciliation-2026-11-05,Deleted in 3aa15fe141ce; provisional identity purged before merge.
 src/data/lyrics/abid-udaas-hai.md,round_1,present,nohayonline,nohayonline:07ef268e23f0b310cc22,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/abid-utha-rahe-hai.md,round_1,present,nohayonline;ziyaraat,nohayonline:16381207398d65c08aec;ziyaraat:f3b28d0d1ceba39aafff,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/abide-bemaar-ka.md,round_1,present,nohayonline,nohayonline:b6928817608f9def5066,feat/import-overlap-reconciliation-2026-11-05,
@@ -452,7 +452,8 @@ src/data/lyrics/ammu-mujhe-bachalo.md,round_1,present,nohayonline,nohayonline:2b
 src/data/lyrics/ammu-nahi-aaye.md,round_1,present,nohayonline,nohayonline:028a289719968ce0f0c3,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ammu-ne-akela.md,round_1,present,nohayonline,nohayonline:48fff3fd173d879595d9,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ana-ali-yabnul.md,round_1,present,nohayonline;ziyaraat,nohayonline:a512e098bc70ad69eebd;ziyaraat:1b73def919ac566d9dae;ziyaraat:ec53f63911a6f9db3ede,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/ana-ibne-makkah.md,round_1,consolidated,nohayonline,nohayonline:e9120f4824d9991acad1,feat/import-overlap-reconciliation-2026-11-05,merged_into:src/data/lyrics/bayaan-karta-hun-darbar-e-shaam-ka-manzar.md
+src/data/lyrics/ana-ibn-e-makka-o-mina.md,round_1,present,nohayonline,nohayonline:e9120f4824d9991acad1,feat/import-overlap-reconciliation-2026-11-05,Renamed from src/data/lyrics/bayaan-karta-hun-darbar-e-shaam-ka-manzar.md; new provisional recitationId=ana-ibn-e-makka-o-mina; contains merged lyrics/provenance from ana-ibne-makkah.md.
+src/data/lyrics/ana-ibne-makkah.md,round_1,consolidated,nohayonline,nohayonline:e9120f4824d9991acad1,feat/import-overlap-reconciliation-2026-11-05,merged_into:src/data/lyrics/ana-ibn-e-makka-o-mina.md | Old provisional recitation ID purged; survivor src/data/lyrics/ana-ibn-e-makka-o-mina.md.
 src/data/lyrics/ana-qateeul-abra.md,round_1,present,nohayonline,nohayonline:c98ac94c8ff0657f8cfd,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/andhere-ban-mein.md,round_1,present,nohayonline,nohayonline:83c595adf1026bedaed2,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/andhere-dasht-may.md,round_1,present,nohayonline,nohayonline:b6feabd4d7575828f6f9,feat/import-overlap-reconciliation-2026-11-05,
@@ -527,7 +528,7 @@ src/data/lyrics/awaaz-al-amaan-ki.md,round_1,present,nohayonline,nohayonline:db4
 src/data/lyrics/awaaz-do-ali-akbar.md,round_1,present,nohayonline,nohayonline:d7961e2d215b88f6fb84,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ay-aasman.md,round_1,present,nohayonline,nohayonline:32656ca4b62def7f3170,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ay-abbas-teri-zainab.md,round_1,present,nohayonline,nohayonline:d9b6422315bd5cb78047,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/ay-ahle-aza.md,round_1,present,nohayonline,nohayonline:509488efe5bb50eef81b,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/ay-ahle-aza.md,round_1,removed_duplicate,nohayonline,nohayonline:509488efe5bb50eef81b,feat/import-overlap-reconciliation-2026-11-05,Deleted in 31f4244f1b41; provisional identity purged before merge.
 src/data/lyrics/ay-akbar-ye-sehra.md,round_1,present,nohayonline,nohayonline:1c0fd0f79e7e5e31ae6e,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ay-alamdar-abbas.md,round_1,present,nohayonline,nohayonline:b36827384ca1e6cf275b,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ay-alamdar-e-wafa.md,round_1,present,nohayonline,nohayonline:05d1d3891f455479f823,feat/import-overlap-reconciliation-2026-11-05,
@@ -815,7 +816,7 @@ src/data/lyrics/batlaiye-ye-kaisi.md,round_1,present,nohayonline,nohayonline:368
 src/data/lyrics/batlao-mar-gayi.md,round_1,present,nohayonline,nohayonline:cd3f9160cd593802d244,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/bawafa-bawafa.md,round_1,present,nohayonline,nohayonline:be6dd78dab7994bb6e85,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/bay-khata-mara-gaya-sibt-e-rasool-e-dosara.md,original,present,,,main,
-src/data/lyrics/bayaan-karta-hun-darbar-e-shaam-ka-manzar.md,round_1,present,nohayonline,nohayonline:e9120f4824d9991acad1,feat/import-overlap-reconciliation-2026-11-05,received_provenance_and_credits_from:ana-ibne-makkah.md
+src/data/lyrics/bayaan-karta-hun-darbar-e-shaam-ka-manzar.md,round_1,renamed,nohayonline,nohayonline:e9120f4824d9991acad1,feat/import-overlap-reconciliation-2026-11-05,received_provenance_and_credits_from:ana-ibne-makkah.md | Renamed to src/data/lyrics/ana-ibn-e-makka-o-mina.md; old provisional identity purged before merge.
 src/data/lyrics/baysheer-mere-aaja.md,round_1,present,nohayonline,nohayonline:227b39a64d55b3b829db,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/bazaar-aa-raha-hai.md,round_1,present,nohayonline,nohayonline:17779da14984cb32072e,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/bazaar-aagaya-hai.md,round_1,present,nohayonline,nohayonline:9a920954defc6cadc6a7,feat/import-overlap-reconciliation-2026-11-05,

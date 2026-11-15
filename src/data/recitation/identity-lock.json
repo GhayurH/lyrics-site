@@ -958,20 +958,12 @@
       "path": "abid-ki-zanjeer.md"
     },
     {
-      "id": "abid-ko-dawa-aur",
-      "path": "abid-ko-dawa-aur.md"
-    },
-    {
       "id": "abid-ko-jahan-ghash",
       "path": "abid-ko-jahan-ghash.md"
     },
     {
       "id": "abid-ko-saath-lekar",
       "path": "abid-ko-saath-lekar.md"
-    },
-    {
-      "id": "abid-na-kabhi-ranj",
-      "path": "abid-na-kabhi-ranj.md"
     },
     {
       "id": "abid-udaas-hai",
@@ -1810,9 +1802,8 @@
       "path": "ana-ali-yabnul.md"
     },
     {
-      "id": "ana-ibne-makkah",
-      "path": "ana-ibne-makkah.md",
-      "retired": true
+      "id": "ana-ibn-e-makka-o-mina",
+      "path": "ana-ibn-e-makka-o-mina.md"
     },
     {
       "id": "ana-qateeul-abra",
@@ -2109,10 +2100,6 @@
     {
       "id": "ay-abbas-teri-zainab",
       "path": "ay-abbas-teri-zainab.md"
-    },
-    {
-      "id": "ay-ahle-aza",
-      "path": "ay-ahle-aza.md"
     },
     {
       "id": "ay-akbar-ye-sehra",
@@ -3257,10 +3244,6 @@
     {
       "id": "bay-khata-mara-gaya-sibt-e-rasool-e-dosara",
       "path": "bay-khata-mara-gaya-sibt-e-rasool-e-dosara.md"
-    },
-    {
-      "id": "bayaan-karta-hun-darbar-e-shaam-ka-manzar",
-      "path": "bayaan-karta-hun-darbar-e-shaam-ka-manzar.md"
     },
     {
       "id": "baysheer-mere-aaja",
