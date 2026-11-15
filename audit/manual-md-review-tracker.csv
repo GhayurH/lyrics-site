@@ -3849,10 +3849,10 @@ src/data/lyrics/zara-rok-le-khanjar.md,standalone_lyrics,imported,nohayonline,pe
 src/data/lyrics/zara-sa-pani.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-15-batch-zara-01,,
 src/data/lyrics/zard-hai-chehra.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-15-batch-zara-01,,
 src/data/lyrics/zarre-ko-sheh-ne.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,2026-11-15-batch-zara-01,,"Need audio/print: s1 ""مرقدِ ایماں""; s3 ""کم ہے یہ کارنامہ""; s5 ""گھر کو لُٹا کے مانیئے ذبح عظیم نے"" (wording and izafat)."
-src/data/lyrics/zawaar-e-hussain.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/zehr-se-tukde.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/zehra-hasan-hussain-ki-parwardigar-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/zehra-ka-ye-nauha.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/zawaar-e-hussain.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s1 ""قلعہ معلی"" vs Roman ""khul e moalla""; s3 ""خوب لکھا ہے عبادت کا مزہ""; s4 ""یہ جہاں والے کجا اور کجا""; s5 ""کہہ چکے ہے"" and ""شفا خاک شفا""; s6 ""صدا"" vs ""سدا""."
+src/data/lyrics/zehr-se-tukde.md,standalone_lyrics,imported,nohayonline+ziyaraat,pending,reviewed,reviewed,reviewed,verified,reviewed,first_sweep,,
+src/data/lyrics/zehra-hasan-hussain-ki-parwardigar-hai.md,standalone_lyrics,imported,tajpoints,pending,partial_review,partial_review,reviewed,not_applicable,reviewed,first_sweep,,"Need Urdu poster/audio: couplet 2 ""Ho ke buland dekhti hai Masjid-e-Nabi / Aye Bi Bibi"", especially extra ""Bi""; confirm ""Fidak"" pronunciation in couplet 6 and Zehra/Zahra pronunciation."
+src/data/lyrics/zehra-ka-ye-nauha.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: preamble ""زہرا کا تھا نوحہ تھا""; s1 ""اکبر لے لہو"" vs ""اکبر کے لہو""; s3 ""کبرا کے باندھی گئی""; s4 ""سیدانیاں روتی تھی""."
 src/data/lyrics/zehra-kaisi-ho-meri.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/zehra-karegi-hashr.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/zehra-ke-bhare-ghar.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,

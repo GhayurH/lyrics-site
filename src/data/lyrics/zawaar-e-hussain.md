@@ -1,71 +1,73 @@
 ---
 title: "جو سوے کربوبلا بننے چلا"
-alternateTitle: "Zawaar E Hussain"
+alternateTitle: "Zawwar-e-Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 tags: ["noImage"]
-aliases: []
+aliases: ["Zawaar E Hussain"]
 published: false
+reciter: "Shadman Raza"
 romanLyrics: |-
-  Jo suye karbobala ban'ne chala
-  Zawware hussain
+  Jo suye Karbobala banne chala
+  Zawwar-e-Husain
 
   1
-  Pehle sun hazrate jaabir ka maqam
-  Unka hai khul e moalla may qayam
-  Naymatein hogayi sab unpe tamam
-  Unko bheja hai imamo ne salaam
-  Sab se phele hai khitaab unko mila
+  Pehle sun Hazrat-e-Jaabir ka maqaam
+  Un ka hai qila-e-mualla mein qayaam
+  Nemateṅ ho gaiṅ sab un pe tamaam
+  Un ko bheja hai Imaamoṅ ne salaam
+  Sab se pehle hai khitaab un ko mila
 
   2
-  Barsi rehmat ki ghata deep jale
-  Muskura uthi wafa mil ke galay
-  Khuld bichne lagi qadmon ke talay
+  Barsi rehmat ki ghata dip jale
+  Muskura uthi wafa mil ke gale
+  Khuld bichhne lagi qadmoṅ ke tale
   Ambiya auliya sab saath chale
+  Jo suye Karbobala banne chala
 
   3
-  Sar dar e shaah pe kham karta hai
-  Apni aankhon ko bhi nam karta hai
-  Matame shaah e umam karta hai
-  Uspe allah karam karta hai
-  Khoob likha hai ibadat ka maza
+  Sar dar-e-Shaah pe kham karta hai
+  Apni aankhoṅ ko bhi nam karta hai
+  Maatam-e-Shaah-e-umam karta hai
+  Us pe Allah karam karta hai
+  Khub likha hai ibaadat ka maza
 
   4
-  Uspe hoti hai ataein naazil
-  Wo nahi rehta aza se ghaafil
-  Uski azmat ke farishte qaail
-  Naam hai ahle aza may shaamil
-  Ye jahan waale kuja aur kuja
+  Us pe hoti hai ataaeṅ naazil
+  Wo nahiṅ rehta aza se ghaafil
+  Us ki azmat ke farishte qaail
+  Naam hai ahl-e-aza mein shaamil
+  Ye jahaaṅ waale kuja aur kuja
 
   5
-  Door ho jaati hai har ek ghutan
-  Khil chuka hota hai kismat ka chaman
-  Keh chuke hai ye shehenshaahe sukhan
+  Dur ho jaati hai har ek ghutan
+  Khil chuka hota hai qismat ka chaman
+  Keh chuke hai ye Shahanshaah-e-sukhan
   Laut kar aata hai jab apne watan
-  Saath laata hai shifa khaake shifa
+  Saath laata hai shifa khaak-e-shifa
 
   6
-  Wo zamane may ho aabaad kahin
-  Ban ke rehta ibadat ka ameen
-  Apne sajdon se sajata hai zameen
-  Jag magati hai sada uski jabeen
-  Usko deti hai laqab karbobala
+  Wo zamaane mein ho aabaad kahiṅ
+  Ban ke rehta hai ibaadat ka amiṅ
+  Apne sajdoṅ se sajaata hai zamiṅ
+  Jagmagaati hai sada us ki jabiṅ
+  Us ko deti hai laqab Karbobala
 
   7
-  Tu har ek jaaye shahadat pe gaya
-  Yaad kar kar ke unhe rota raha
-  Tere honton pe nazar aayi sada
-  Ya hussain haye hussaina ki sada
-  Tujhko mazloom behan degi dua
+  Tu har ek jaaye shahaadat pe gaya
+  Yaad kar kar ke unheṅ rota raha
+  Tere hoṅtoṅ pe nazar aai sada
+  Ya Husain haaye Husaina ki sada
+  Tujh ko mazlum behan degi dua
 
   8
-  Rauza e sibte payamanar pe gaya
-  Tune abbas ka dar choom liya
-  Tune sajde kiye matam bhi kiya
-  Gohar e haq ki hidayat pe chala
-  Tujhse raazi hai mohamed ka khuda
+  Rauza-e-Sibt-e-Payambar pe gaya
+  Tu ne Abbas ka dar chum liya
+  Tu ne sajde kiye maatam bhi kiya
+  Gohar-e-haq ki hidaayat pe chala
+  Tujh se raazi hai Muhammad ka Khuda
 # source_id: nohayonline:d2c89110269b76f4166d
 # source_url: https://www.nohayonline.com/details_content.php?id=1586
 # raw_sha256: b0b695a707a5c73d879de0ecd39015e03a408ef4a6cb0d344e6056cdfbc57936
@@ -77,15 +79,16 @@ romanLyrics: |-
 ۱
 پہلے سن حضرتِ جابر کا مقام
 ان کا ہے قلعہ معلی میں قیام
-نعمتیں ہو گیء سب ان پہ تمام
-انکو بھیجا ہے اماموں نے سلام
-سب سے پہلے ہے خطاب انکو ملا
+نعمتیں ہو گئیں سب ان پہ تمام
+ان کو بھیجا ہے اماموں نے سلام
+سب سے پہلے ہے خطاب ان کو ملا
 
 ۲
 برسی رحمت کی گھٹا دیپ جلے
 مسکرا اٹھی وفا مل کے گلے
 خلد بچھنے لگی قدموں کے تلے
 انبیاء اولیاء سب ساتھ چلے
+جو سوے کربوبلا بننے چلا
 
 ۳
 سر در شاہ پہ خم کرتا ہے
@@ -95,9 +98,9 @@ romanLyrics: |-
 خوب لکھا ہے عبادت کا مزہ
 
 ۴
-اس پہ ہوتی ہے عطاییں نازل
+اس پہ ہوتی ہے عطائیں نازل
 وہ نہیں رہتا عزا سے غافل
-اسکی عظمت کے فرشتے قایل
+اس کی عظمت کے فرشتے قائل
 نام ہے اہلِ عزا میں شامل
 یہ جہاں والے کجا اور کجا
 
@@ -110,21 +113,21 @@ romanLyrics: |-
 
 ۶
 وہ زمانے میں ہو آباد کہیں
-بن‌ کے رہتا ہے عبادت کا امیں
+بن کے رہتا ہے عبادت کا امیں
 اپنے سجدوں سے سجاتا ہے زمیں
-جگمگاتی ہے صدا اسکی جبیں
-اسکو دیتی ہے لقب کربوبلا
+جگمگاتی ہے صدا اس کی جبیں
+اس کو دیتی ہے لقب کربوبلا
 
 ۷
-تو ہر ایک جاے شہادت پہ گیا
+تو ہر ایک جائے شہادت پہ گیا
 یاد کر کر کے انہیں روتا رہا
-تیرے ہونٹوں پہ نظر آی صدا
-یا حسین ہاے حسینا کی صدا
-تجھکو مظلوم بہن دیگی دعا
+تیرے ہونٹوں پہ نظر آئی صدا
+یا حسین ہائے حسینا کی صدا
+تجھ کو مظلوم بہن دے گی دعا
 
 ۸
-روضہء سبط پیمبر پہ گیا
+روضۂ سبطِ پیمبر پہ گیا
 تو نے عباس کا در چوم لیا
-تو نے سجدے کیےء ماتم بھی کیا
+تو نے سجدے کیے ماتم بھی کیا
 گوہر حق کی ہدایت پہ چلا
 تجھ سے راضی ہے محمد کا خدا

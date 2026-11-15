@@ -1,5 +1,5 @@
 ---
-title: "واویلا ہاے واویلا"
+title: "واویلا ہائے واویلا"
 alternateTitle: "Zehra Ka Ye Nauha"
 language: "Urdu"
 lang: "ur"
@@ -9,73 +9,78 @@ poet: "Mir Takallum"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: "Mir Hasan Mir"
 romanLyrics: |-
-  Wavaila haye wavaila
+  Wavaila haaye wavaila
+
   Zehra ka tha nauha tha
-  Mera kunba ujad gaya
+  Mera kunba ujar gaya
+  Wavaila haaye wavaila
 
   1
-  Rukh kar ke madine ka bano
+  Rukh kar ke Madine ka Baano
   Sughra ko bulaati hai
-  Akbar le lahoo se baalon mein
-  Maa mehndi lagaati hai
-  Kohraam tha qaime mein
+  Akbar le lahu se baaloṅ mein
+  Maaṅ mehndi lagaati hai
+  Kohraam tha khaime mein
   Laila ka ye nauha tha
 
   2
-  Khud kaampte haathon se sheh ne
-  Bete ki lehad khodi
+  Khud kaampte haathoṅ se Shah ne
+  Bete ki lahad khodi
   Shabbir ki ghurbat pe us dam
   Roti thi khudaai bhi
-  Jab khoon bhare kurte mein
-  Asgahr ko dafan kiya
+  Jab khuṅ bhare kurte mein
+  Asghar ko dafn kiya
 
   3
-  Jo shab ko bani qasim ki dulhan
-  Wo subho ko bewa hui
-  Haathon mein rasan kangne ki jagah
-  Kubra ke baandhi gayi
+  Jo shab ko bani Qaasim ki dulhan
+  Wo subh ko bewa hui
+  Haathoṅ mein rasan kangne ki jagah
+  Kubra ke baandhi gai
   Farwa ne kaha ro kar
-  Pamaal hua dulha
+  Paamaal hua dulha
 
   4
-  Bemaar musafir ke dil par
-  Ek taaza qayamat thi
-  Bazaar ke raste mein jis dam
-  Naaqe se sakina giri
-  Saydaniya roti thi
+  Bimaar musaafir ke dil par
+  Ek taaza qayaamat thi
+  Baazaar ke raste mein jis dam
+  Naaqe se Sakina giri
+  Sayyidaaniyaaṅ roti thi
   Kohraam tha ek barpa
 
   5
-  Pehre pe ali ki beti hai
+  Pehre pe Ali ki beti hai
   Har simt andhera hai
-  Athara baradar thay jis ke
+  Athaara baraadar the jis ke
   Wo dasht mein tanha hai
   Aur us pe sitam ye hai
   Baaqi na raha parda
 
   6
-  Us khoon bhare manzar ko maadar
-  Bhoolegi bhala kaise
-  Bete ko zibha hote dekha
-  Khud apni nigahon se
+  Us khuṅ bhare manzar ko maadar
+  Bhulegi bhala kaise
+  Bete ko zibh hote dekha
+  Khud apni nigaahoṅ se
   Khanjar na chala zaalim
-  Kehti hi rahi zehra
+  Kehti hi rahi Zehra
 
   7
-  Ay mir takallum yasrab mein
-  Mehshar ka samaa hoga
-  Jab haal safar ka zainab ne
+  Ae Mir Takallum Yasrib mein
+  Mahshar ka samaaṅ hoga
+  Jab haal safar ka Zainab ne
   Sughra se kaha hoga
-  Sar peet ke dukhiya ne
-  Ye nauha padha hoga
+  Sar pit ke dukhiya ne
+  Ye nauha parha hoga
 # source_id: nohayonline:e398b1ba25a3c7c56a3b
 # source_url: https://www.nohayonline.com/details_content.php?id=2603
 # raw_sha256: 3851be66df16ac5a4a2d0cc7ff30bdaf9d6de0497a07d8996c8476a2d557394f
 ---
-واویلا ہاے واویلا
+واویلا ہائے واویلا
+
 زہرا کا تھا نوحہ تھا
 میرا کنبہ اجڑ گیا
+واویلا ہائے واویلا
 
 ۱
 رخ کر کے مدینے کا بانو
@@ -89,15 +94,15 @@ romanLyrics: |-
 خود کانپتے ہاتھوں سے شہ نے
 بیٹے کی لحد کھودی
 شبیر کی غربت پہ اس دم
-روتی تھی خدای بھی
+روتی تھی خدائی بھی
 جب خوں بھرے کرتے میں
 اصغر کو دفن کیا
 
 ۳
 جو شب کو بنی قاسم کی دلہن
-وہ صبح کو بیوہ ہوی
+وہ صبح کو بیوہ ہوئی
 ہاتھوں میں رسن کنگنے کی جگہ
-کبرا کے باندھی گیء
+کبرا کے باندھی گئی
 فروہ نے کہا رو کر
 پامال ہوا دولہا
 
