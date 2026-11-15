@@ -6,63 +6,103 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar, J. Jaffri & H. Naqvi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jaan e sakina bhi alamdar bhi
-  Chadar e zainab ka nigehdar bhi
-  Aale mohamed ka wafadar bhi
-  Sabr e hussaini bhi zulfeqar bhi
+  Jaan-e-Sakina bhi alamdar bhi
+  Chadar-e-Zainab ka nigehdar bhi
+  Aal-e-Muhammad ka wafadar bhi
+  Sabr-e-Husaini bhi Zulfiqar bhi
   Aisa na koi dekha na hai na koi hoga
-  Bas ek hai bas ek hai jeedaar alamdar
-  Zinda rahe zinda rahe abbas alamdar
-  Har dam hai sadaon mein alamdar alamdar
-  Zinda rahe zinda rahe abbas alamdar
-  Ay sabre dashte karbala jalaale lashkare khuda
+  Bas ek hai bas ek hai jidaar alamdar
+  Zinda rahe zinda rahe Abbas alamdar
+  Har dam hai sadaoṅ mein alamdar alamdar
+  Zinda rahe zinda rahe Abbas alamdar
+  Ae sabr-e-dasht-e-Karbala jalaal-e-lashkar-e-Khuda
   Alamdar alamdar alamdar alamdar
 
   1
   Abbas salamat rahe ye naam tumhara
   Ye naam jahan jis ne bhi jab jab hai pukara
   Har baar ye dil tez dhadakta hai hamara
-  Ye naam hi aisa hai hyder ke hi jaisa hai
-  Is naam se kitna hai hamein pyar alamdar
+  Ye naam hi aisa hai Haidar ke hi jaisa hai
+  Is naam se kitna hai hameṅ pyaar alamdar
+  Zinda rahe zinda rahe Abbas alamdar
+  Zinda rahe zinda rahe Abbas alamdar
+
+  Har dam hai sadaoṅ mein alamdar alamdar
+  Zinda rahe zinda rahe Abbas alamdar
+  Alamdar alamdar alamdar alamdar
 
   2
-  Kis shaan se abbas alam tum ne uthaya
-  Kya khoob alamdari ka hai farz nibhaya
+  Kis shaan se Abbas alam tum ne uthaya
+  Kya khub alamdari ka hai farz nibhaya
   Phir aisa alamdar zamane mein na aaya
-  Goonjega sada naara abbas alam waala
-  Tareekh pukaregi alamdar alamdar
+  Guṅjega sada naara Abbas alam waala
+  Taarikh pukaregi alamdar alamdar
+  Zinda rahe zinda rahe Abbas alamdar
+  Zinda rahe zinda rahe Abbas alamdar
+
+  Har dam hai sadaoṅ mein alamdar alamdar
+  Zinda rahe zinda rahe Abbas alamdar
+  Ae sabr-e-dasht-e-Karbala jalaal-e-lashkar-e-Khuda
+  Alamdar alamdar alamdar alamdar
 
   3
-  Hai kaun jo shabbir ka har dam hai wafadar
-  Awaaz fizaon se ye aati hai ba-takraar
-  Abbas e alamdar hai abbas e alamdar
+  Hai kaun jo Shabbir ka har dam hai wafadar
+  Aawaaz fazaoṅ se ye aati hai ba takraar
+  Abbas alamdar hai Abbas alamdar
   Kya tu ne hasham paaya maula se alam paaya
   Har hukm pe aaqa ke hai tayyaar
+  Zinda rahe zinda rahe Abbas alamdar
+  Zinda rahe zinda rahe Abbas alamdar
+
+  Har dam hai sadaoṅ mein alamdar alamdar
+  Zinda rahe zinda rahe Abbas alamdar
+  Alamdar alamdar alamdar alamdar
 
   4
-  Kehti thi ye zainab ke khuda is se hai raazi
+  Kehti thi ye Zainab ke Khuda is se hai raazi
   Ye hai meri chadar ka muhafiz mera ghazi
   Is ke liye ek khel hai ye jaan ki baazi
-  Ye jaan lutadega faujon ko hatadega
-  Ban jayega qaimon ki ye dewaar alamdar
+  Ye jaaṅ luta dega faujoṅ ko hata dega
+  Ban jaaega khaimoṅ ki ye diwar alamdar
+  Zinda rahe zinda rahe Abbas alamdar
+  Zinda rahe zinda rahe Abbas alamdar
+
+  Har dam hai sadaoṅ mein alamdar alamdar
+  Zinda rahe zinda rahe Abbas alamdar
+  Ae sabr-e-dasht-e-Karbala jalaal-e-lashkar-e-Khuda
+  Alamdar alamdar alamdar alamdar
 
   5
-  Darya pe to laakhon hai khade zulm ke baani
-  Lekin isay mashkeeze mein laana bhi hai pani
-  Ab jaan se bad kar hai sakina ki nishani
-  Darya pe to jaana hai mashkeeza to bharna hai
+  Darya pe to laakhoṅ hai khare zulm ke baani
+  Lekin ise mashkize mein laana bhi hai paani
+  Ab jaan se barh kar hai Sakina ki nishani
+  Darya pe to jaana hai mashkiza to bharna hai
   Ab jo bhi ho dekhega wafadaar
+  Zinda rahe zinda rahe Abbas alamdar
+  Zinda rahe zinda rahe Abbas alamdar
+
+  Har dam hai sadaoṅ mein alamdar alamdar
+  Zinda rahe zinda rahe Abbas alamdar
+  Alamdar alamdar alamdar alamdar
 
   6
-  Bhoolenge na abbas tera nehr pe aana
-  Darya pe alam gaad ke naara ye lagana
+  Bhuleṅge na Abbas tera nehr pe aana
+  Darya pe alam gaar ke naara ye lagana
   Darya ye hamara hai sune saara zamana
-  Kya kaam kiya wallah abbas subhanallah
+  Kya kaam kiya wallah Abbas Subhan Allah
   Ye hai teri shaahi teri sarkar alamdar
+  Zinda rahe zinda rahe Abbas alamdar
+  Zinda rahe zinda rahe Abbas alamdar
+
+  Har dam hai sadaoṅ mein alamdar alamdar
+  Zinda rahe zinda rahe Abbas alamdar
+  Ae sabr-e-dasht-e-Karbala jalaal-e-lashkar-e-Khuda
+  Alamdar alamdar alamdar alamdar
 # source_id: nohayonline:08c85c7417a0dc942bba
 # source_url: https://www.nohayonline.com/details_content.php?id=2786
 # raw_sha256: 0c1ef4480ee7cc4bb786a8b95194c74bed45d08b1c7c0723b2f5c140b87d2f56
@@ -85,6 +125,12 @@ romanLyrics: |-
 ہر بار یہ دل تیز دھڑکتا ہے ہمارا
 یہ نام ہی ایسا ہے حیدر کے ہی جیسا ہے
 اس نام سے کتنا ہے ہمیں پیار علمدار
+زندہ رہے زندہ رہے عباس علمدار
+زندہ رہے زندہ رہے عباس علمدار
+
+ہر دم ہے صداؤں میں علمدار علمدار
+زندہ رہے زندہ رہے عباس علمدار
+علمدار علمدار علمدار علمدار
 
 ۲
 کس شان سے عباس علم تم نے اٹھایا
@@ -92,6 +138,13 @@ romanLyrics: |-
 پھر ایسا علمدار زمانے میں نہ آیا
 گونجے گا صدا نعرہ عباس علم والا
 تاریخ پکارے گی علمدار علمدار
+زندہ رہے زندہ رہے عباس علمدار
+زندہ رہے زندہ رہے عباس علمدار
+
+ہر دم ہے صداؤں میں علمدار علمدار
+زندہ رہے زندہ رہے عباس علمدار
+اے صبر دشت کربلا جلال لشکرِ خدا
+علمدار علمدار علمدار علمدار
 
 ۳
 ہے کون جو شبیر کا ہر دم ہے وفادار
@@ -99,20 +152,39 @@ romanLyrics: |-
 عباس علمدار ہے عباس علمدار
 کیا تو نے ہشم پایا مولا سے علم پایا
 ہر حکم پہ آقا کے ہے تیار
+زندہ رہے زندہ رہے عباس علمدار
+زندہ رہے زندہ رہے عباس علمدار
+
+ہر دم ہے صداؤں میں علمدار علمدار
+زندہ رہے زندہ رہے عباس علمدار
+علمدار علمدار علمدار علمدار
 
 ۴
 کہتی تھی یہ زینب کے خدا اس سے ہے راضی
 یہ ہے میری چادر کا محافظ میرا غازی
-اس کے لیےء ایک کھیل ہے یہ جان کی بازی
+اس کے لیے ایک کھیل ہے یہ جان کی بازی
 یہ جاں لٹا دے گا فوجوں کو ہٹا دے گا
 بن جائے گا خیموں کی یہ دیوار علمدار
+زندہ رہے زندہ رہے عباس علمدار
+زندہ رہے زندہ رہے عباس علمدار
+
+ہر دم ہے صداؤں میں علمدار علمدار
+زندہ رہے زندہ رہے عباس علمدار
+اے صبر دشت کربلا جلال لشکرِ خدا
+علمدار علمدار علمدار علمدار
 
 ۵
 دریا پہ تو لاکھوں ہے کھڑے ظلم کے بانی
 لیکن اسے مشکیزے میں لانا بھی ہے پانی
-اب جان سے بڑھکر ہے سکینہ کی نشانی
+اب جان سے بڑھ کر ہے سکینہ کی نشانی
 دریا پہ تو جانا ہے مشکیزہ تو بھرنا ہے
 اب جو بھی ہو دیکھے گا وفادار
+زندہ رہے زندہ رہے عباس علمدار
+زندہ رہے زندہ رہے عباس علمدار
+
+ہر دم ہے صداؤں میں علمدار علمدار
+زندہ رہے زندہ رہے عباس علمدار
+علمدار علمدار علمدار علمدار
 
 ۶
 بھولیں گے نہ عباس تیرا نہر پہ آنا
@@ -120,3 +192,10 @@ romanLyrics: |-
 دریا یہ ہمارا ہے سنے سارا زمانہ
 کیا کام کیا واللہ عباس سبحان اللہ
 یہ ہے تیری شاہی تیری سرکار علمدار
+زندہ رہے زندہ رہے عباس علمدار
+زندہ رہے زندہ رہے عباس علمدار
+
+ہر دم ہے صداؤں میں علمدار علمدار
+زندہ رہے زندہ رہے عباس علمدار
+اے صبر دشت کربلا جلال لشکرِ خدا
+علمدار علمدار علمدار علمدار

@@ -1,65 +1,66 @@
 ---
 title: "زندہ رہے حسین تیرا غم منائیں گے"
-alternateTitle: "Zinda Rahe Hussain"
+alternateTitle: "Zinda Rahe Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hilal Naqvi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zinda rahe hussain tera gham manayenge
-  Ay fatema ke laal ye waada nibhayenge
+  Zinda rahe Husain tera gham manaeṅge
+  Ae Fatima ke laal ye waada nibhaeṅge
 
   1
-  Ghar mein hamare aayengi majlis mein fatema
-  Farshe aza ke saath ye dil bhi bichayenge
+  Ghar mein hamare aaeṅgi majlis mein Fatima
+  Farsh-e-aza ke saath ye dil bhi bichhaeṅge
 
   2
-  Jhoole amariyan ye shabihe ye taaziye
-  Tehzeeb e gham se dard ke manzar sajayenge
+  Jhule amaariyaṅ ye shabiheṅ ye taaziye
+  Tehzib-e-gham se dard ke manzar sajaeṅge
 
   3
-  Ye unka hai juloos jo pyase hue shaheed
-  Hum iske raaste mein sabilay lagayenge
+  Ye un ka hai julus jo pyaase hue shahid
+  Hum is ke raaste mein sabileṅ lagaeṅge
 
   4
-  Kehte hai chote chote se bache ye baap se
-  Ek roz baba jaan ye alam hum uthayenge
+  Kehte haiṅ chhote chhote se bachche ye baap se
+  Ik roz baba jaan ye alam hum uthaeṅge
 
   5
-  Kuch dayr zuljana mera ghar pe rok do
-  Pyase ki is sawari ko pani pilayenge
+  Kuchh der Zuljanah mere ghar pe rok do
+  Pyaase ki is sawari ko paani pilaeṅge
 
   6
-  Bachpan se hai dua ke bana'yenge ghar jahan
-  Ashoor-khana ghar mein wahan hum sajayenge
+  Bachpan se hai dua ke banaeṅge ghar jahaaṅ
+  Aashur khana ghar mein wahaaṅ hum sajaeṅge
 
   7
-  Ghar mein agar ho nazre sakina to hai yaqeen
-  Us nazr mein sakina ke ammu bhi aayenge
+  Ghar mein agar ho nazr-e-Sakina to hai yaqiṅ
+  Us nazr mein Sakina ke ammu bhi aaeṅge
 
   8
-  Kis shan ke milay hai namazi hussain ko
-  Teero ke saamne ye musalle bichayenge
+  Kis shaan ke mile haiṅ namazi Husain ko
+  Tiroṅ ke saamne ye musalle bichhaeṅge
 
   9
-  Bachon ke apne sajdaye shabbir ki qasam
-  Matam ke saath saath namazein sikhayenge
+  Bachchoṅ ko apne sajda-e-Shabbir ki qasam
+  Maatam ke saath saath namazeṅ sikhaeṅge
 
   10
-  Raahe hussainiat ke shaheedon salam lo
-  Inko na apne dil se kabhi hum bhulayenge
+  Rah-e-Husainiyat ke shahido salaam lo
+  In ko na apne dil se kabhi hum bhulaeṅge
 
   11
-  Baade zahoor hoga moharam ka ye hasham
-  Hum karbala imam ke ham-raah jayenge
+  Baad-e-zuhur hoga Muharram ka ye hasham
+  Hum Karbala Imam ke hamraah jaaeṅge
 
   12
-  Nauha bhi hai safeer e aza sarwar o hilal
-  Jis des bhi jayenge nauha sunayenge
+  Noha bhi hai safir-e-aza Sarwar o Hilal
+  Jis des bhi jaaeṅge noha sunaeṅge
 # source_id: nohayonline:82c9e657693a63d5ed41
 # source_url: https://www.nohayonline.com/details_content.php?id=163
 # raw_sha256: 44e9155461316c881b0f27de4c3aa537a01907aecf9e8ed35713e0e366b38dca
@@ -69,10 +70,10 @@ romanLyrics: |-
 
 ۱
 گھر میں ہمارے آئیں گی مجلس میں فاطمہ
-فرشِ اعزا کے ساتھ یہ دل بھی بچھائیں گے
+فرشِ عزا کے ساتھ یہ دل بھی بچھائیں گے
 
 ۲
-جھولے عماریاں یہ شبیہہِ یہ تعزیئے
+جھولے عماریاں یہ شبیہیں یہ تعزیے
 تہذیبِ غم سے درد کے منظر سجائیں گے
 
 ۳
@@ -92,15 +93,15 @@ romanLyrics: |-
 عاشور خانہ گھر میں وہاں ہم سجائیں گے
 
 ۷
-گھر میں اگر ہو نظرِ سکینہ تو ہے یقیں
-اُس نظر میں سکینہ کے عموں بھی آئیں گے
+گھر میں اگر ہو نذرِ سکینہ تو ہے یقیں
+اُس نذر میں سکینہ کے عمو بھی آئیں گے
 
 ۸
 کس شان کے ملے ہیں نمازی حسین کو
 تیروں کے سامنے یہ مُصلے بچھائیں گے
 
 ۹
-بچوں کو اپنے سجدئہ شبیر کی قسم
+بچوں کو اپنے سجدۂ شبیر کی قسم
 ماتم کے ساتھ ساتھ نمازیں سکھائیں گے
 
 ۱۰
@@ -112,5 +113,5 @@ romanLyrics: |-
 ہم کربلا امام کے ہمراہ جائیں گے
 
 ۱۲
-نوحہ بھی ہے سفیرِ اعزا سرور و ہلال
+نوحہ بھی ہے سفیرِ عزا سرور و ہلال
 جس دیس بھی جائیں گے نوحہ سُنائیں گے

@@ -1,67 +1,68 @@
 ---
-title: "تم ہو گےء بیجاں پدر زندہ ہے اکبر"
+title: "تم ہو گئے بے جاں پدر زندہ ہے اکبر"
 alternateTitle: "Zinda Hai Akbar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Shah"
+reciter: "Mesum Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Tum ho gaye bejaan padar zinda hai akbar
-  Aisa bhi zamane mein kahin hota hai akbar
+  Tum ho gaye bejaaṅ padar zinda hai Akbar
+  Aisa bhi zamane mein kahiṅ hota hai Akbar
 
   1
-  Maqtal se janaze ko tere kaise uthayein
-  Jin haathon se maangi tere jeene ki duayien
-  Un haathon pe ab haye tera laasha hai akbar
+  Maqtal se janaze ko tere kaise uthaeṅ
+  Jin haathoṅ se maaṅgi tere jine ki duaeṅ
+  Un haathoṅ pe ab haaye tera laasha hai Akbar
 
   2
-  Dil apna sambhalun to sina dil se nikalun
-  Phir kaampte haathon se tera laasha uthaalun
-  Kis haal mein dekho to tera baba hai akbar
+  Dil apna sambhaluṅ to sinaaṅ dil se nikaluṅ
+  Phir kaaṅpte haathoṅ se tera laasha utha luṅ
+  Kis haal mein dekho to tera baba hai Akbar
 
   3
-  Tum aankhein phira lete ho jab dard ke maare
-  Jab saans nahi lete ho haathon pe hamare
-  Dam saath mein mera bhi nikal jaata hai akbar
+  Tum aaṅkheṅ phira lete ho jab dard ke maare
+  Jab saaṅs nahiṅ lete ho haathoṅ pe hamare
+  Dam saath mein mera bhi nikal jaata hai Akbar
 
   4
-  Socha tha tumhe shaan se hum dulha banate
-  Afsos magar laash pe hai aansu bahate
-  Ab khoon ka maathe pe tere sehra hai akbar
+  Socha tha tumheṅ shaan se hum dulha banate
+  Afsos magar laash pe hai aaṅsu bahate
+  Ab khuṅ ka maathe pe tere sehra hai Akbar
 
   5
-  Chut'ta hai zaeefi mein jo bete ka sahara
-  Ab saath nahi deti hai beenayi hamara
-  Uthta hai padar aur kabhi girta hai akbar
+  Chhutta hai zaifi mein jo bete ka sahara
+  Ab saath nahiṅ deti hai binaai hamara
+  Uthta hai padar aur kabhi girta hai Akbar
 
   6
-  Zainab ko tera haal ye dikhlaun to kaise
-  Mai apne galay se tujhe liptaun to kaise
-  Lipta hua barchi mein tera seena hai akbar
+  Zainab ko tera haal ye dikhlauṅ to kaise
+  Main apne gale se tujhe liptauṅ to kaise
+  Lipta hua barchhi mein tera sina hai Akbar
 
   7
-  Nauha ali akbar ka hai mesam ki zabani
-  Aankhon se raza hoti hai ashkon ki rawani
-  Ehsaas tere gham ka badha jaata hai akbar
+  Noha Ali Akbar ka hai Maisam ki zabani
+  Aaṅkhoṅ se Raza hoti hai ashkoṅ ki rawani
+  Ehsaas tere gham ka barha jaata hai Akbar
 # source_id: nohayonline:c4d9543733467a1e26f6
 # source_url: https://www.nohayonline.com/details_content.php?id=2544
 # raw_sha256: aba5371faaa51e2bb5ce8b4871f454860aa346e6ce70940b19516250428a4091
 ---
-تم ہو گےء بیجاں پدر زندہ ہے اکبر
+تم ہو گئے بے جاں پدر زندہ ہے اکبر
 ایسا بھی زمانے میں کہیں ہوتا ہے اکبر
 
 ۱
-مقتل سے جنازے کو تیرے کیسے اٹھاییں
+مقتل سے جنازے کو تیرے کیسے اٹھائیں
 جن ہاتھوں سے مانگی تیرے جینے کی دعائیں
-ان ہاتھوں پہ اب ہاے تیرا لاشہ ہے اکبر
+ان ہاتھوں پہ اب ہائے تیرا لاشہ ہے اکبر
 
 ۲
 دل اپنا سنبھالوں تو سناں دل سے نکالوں
-پھر کانپتے ہاتھوں سے تیرا لاشہ اٹھالوں
+پھر کانپتے ہاتھوں سے تیرا لاشہ اٹھا لوں
 کس حال میں دیکھو تو تیرا بابا ہے اکبر
 
 ۳
@@ -71,8 +72,8 @@ romanLyrics: |-
 
 ۴
 سوچا تھا تمہیں شان سے ہم دولہا بناتے
-افسوس مگر لاش پہ ہے آنسوں بہاتے
-اب خوں کا ماتھے پہ تیرے صحرا ہے اکبر
+افسوس مگر لاش پہ ہے آنسو بہاتے
+اب خوں کا ماتھے پہ تیرے سہرا ہے اکبر
 
 ۵
 چھٹتا ہے ضعیفی میں جو بیٹے کا سہارا
@@ -81,7 +82,7 @@ romanLyrics: |-
 
 ۶
 زینب کو تیرا حال یہ دکھلاؤں تو کیسے
-میں اپنے گلے سے تجھے لپٹاوں تو کیسے
+میں اپنے گلے سے تجھے لپٹاؤں تو کیسے
 لپٹا ہوا برچھی میں تیرا سینہ ہے اکبر
 
 ۷
