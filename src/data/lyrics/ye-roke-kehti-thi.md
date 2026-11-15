@@ -6,78 +6,80 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Ali Khan Lakhnavi"
+reciter: "Ghadeer Fatima"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ye ro ke kehti thi binte hyder
-  Najaf se baba madad to aao
-  Hai ran mein tanha mera baradar
+  Ye ro ke kehti thi bint-e-Haider
+  Najaf se Baba madad to aao
+  Hai ran mein tanha mera baraadar
+  Najaf se Baba madad to aao
 
   1
-  Ajeeb chehre pa bekali hai
-  Jigar mein tooti hui ani hai
-  Tadap raha hai zameen par akbar
+  Ajib chehre pa bekali hai
+  Jigar mein tuti hui ani hai
+  Tarap raha hai zamiṅ par Akbar
 
   2
-  Tamaam qaime jale huwe hai
-  Ye nanhe bache dare huwe hai
-  Bahot hi purhaul hai ye manzar
+  Tamaam khaime jale hue haiṅ
+  Ye nanhe bachche dare hue haiṅ
+  Bahut hi purhaul hai ye manzar
 
   3
   Luta hai asbaab ran mein saara
-  Hai charkh ab saibaan hamara
-  Haram hai nauha kuna khule sar
+  Hai charkh ab saaybaaṅ hamaara
+  Haram hai nauha kunaṅ khule sar
 
   4
   Bhala rahe dil par kaise qaabu
-  Ke apna ghazi kata ke baazu
-  Wo so gaya nehre alqama par
+  Ke apna Ghaazi kata ke baazu
+  Wo so gaya nehr-e-Alqama par
 
   5
-  Lehad banaate hai bezuban ki
-  Ye sheh ki manzil hai imtehan ki
-  Malay hai chehre par khoon e asghar
+  Lahad banaate haiṅ bezabaaṅ ki
+  Ye Shah ki manzil hai imtihaaṅ ki
+  Male hai chehre par khun-e-Asghar
 
   6
   Jo ek shab ka bana tha dulha
-  Pada hai tukdon mein us ka laasha
-  Lage hai kubra ke dil pa nashtar
+  Para hai tukroṅ mein us ka laasha
+  Lage hai Kubra ke dil pa nashtar
 
   7
-  Suno to fariyad ab khudara
-  Ke jeena mushkil hua hamara
-  Pukarti hoo tumhe barabar
+  Suno to faryaad ab khudaara
+  Ke jina mushkil hua hamaara
+  Pukaarti huṅ tumheṅ baraabar
 
   8
-  Sukoon maadar ko kaise aaye
-  Zameen pa asghar pada hai haye
-  Labon pa sookhi zaban phira kar
+  Sukun maadar ko kaise aaye
+  Zamiṅ pa Asghar para hai haaye
+  Laboṅ pa sukhi zabaaṅ phira kar
 
   9
   Hai zakhm dil mein safar hai jaari
-  Ye bediyan aur ye tauq bhaari
-  Wo mera abid chale to kyun kar
+  Ye beriyaaṅ aur ye tauq bhaari
+  Wo mera Aabid chale to kiuṅ kar
 
   10
-  Sakina asghar ko dhoondti hai
-  Kahan hai bhaiya ye poochti hai
-  Pata mai usko bataun kyun kar
+  Sakina Asghar ko dhundti hai
+  Kahaaṅ hai bhaiya ye puchhti hai
+  Pata main us ko bataauṅ kiuṅ kar
 
   11
   Atash ka hamla hai ab bhi jaari
-  Yateem bachon par ghash hai taari
-  Na koi hamdam na koi yawar
+  Yatim bachchoṅ par ghash hai taari
+  Na koi hamdam na koi yaawar
 
   12
-  Nahi hai apna koi sahara
-  Khayaal kuch to karo hamara
-  Dikhao mushkil kushayi aa kar
+  Nahiṅ hai apna koi sahaara
+  Khayaal kuchh to karo hamaara
+  Dikhaao mushkil kushaai aa kar
 
   13
-  Raza bahatar ke zakm kha kar
-  Hai sar ba-sajda mera baradar
-  Liye hai haaton mein shimr khanjar
+  Raza bahattar ke zakhm khaa kar
+  Hai sar ba sajda mera baraadar
+  Liye hai haathoṅ mein Shimr khanjar
 # source_id: nohayonline:ddbbdd9754553b025ea5
 # source_url: https://www.nohayonline.com/details_content.php?id=2018
 # raw_sha256: e67de774d18fb10a6d436402dc7a2db9d0b111c972b4f5ba2f8fe576aa41d634
@@ -85,20 +87,21 @@ romanLyrics: |-
 یہ رو کے کہتی تھی بنت حیدر
 نجف سے بابا مدد کو آؤ
 ہے رن میں تنہا میرا برادر
+نجف سے بابا مدد کو آؤ
 
 ۱
 عجیب چہرے پہ بے کلی ہے
-جگر میں ٹوٹی ہوی انی ہے
+جگر میں ٹوٹی ہوئی انی ہے
 تڑپ رہا ہے زمیں پر اکبر
 
 ۲
-تمام خیمے جلے ہوے ہیں
-یہ ننھے بچے ڈرے ہوے ہیں
-بہت ہی پرحول ہے یہ منظر
+تمام خیمے جلے ہوئے ہیں
+یہ ننھے بچے ڈرے ہوئے ہیں
+بہت ہی پرہول ہے یہ منظر
 
 ۳
 لٹا ہے اسباب رن میں سارا
-ہے چرخ اب سایباں ہمارا
+ہے چرخ اب سائباں ہمارا
 حرم ہے نوحہ کناں کھلے سر
 
 ۴
@@ -114,7 +117,7 @@ romanLyrics: |-
 ۶
 جو ایک شب کا بنا تھا دولہا
 پڑا ہے ٹکڑوں میں اس کا لاشہ
-لگے ہے کبرا کے دل پہ نشتر
+لگے ہے کبریٰ کے دل پہ نشتر
 
 ۷
 سنو تو فریاد اب خدارا
@@ -122,8 +125,8 @@ romanLyrics: |-
 پکارتی ہوں تمہیں برابر
 
 ۸
-سکون مادر کو کیسے آے
-زمیں پہ اصغر پڑا ہے ہاے
+سکون مادر کو کیسے آئے
+زمیں پہ اصغر پڑا ہے ہائے
 لبوں پہ سوکھی زباں پھرا کر
 
 ۹
@@ -134,7 +137,7 @@ romanLyrics: |-
 ۱۰
 سکینہ اصغر کو ڈھونڈتی ہے
 کہاں ہے بھیا یہ پوچھتی ہے
-پتہ میں اسکو بتاؤں کیوں کر
+پتہ میں اس کو بتاؤں کیوں کر
 
 ۱۱
 عطش کا حملہ ہے اب بھی جاری
@@ -144,9 +147,9 @@ romanLyrics: |-
 ۱۲
 نہیں ہے اپنا کوئی سہارا
 خیال کچھ تو کرو ہمارا
-دکھاؤ مشکل کشای آ کر
+دکھاؤ مشکل کشائی آ کر
 
 ۱۳
 رضا بہتر کا زخم کھا کر
 ہے سر بہ سجدہ میرا برادر
-لیےء ہے ہاتھوں میں شمر خنجر
+لیے ہے ہاتھوں میں شمر خنجر
