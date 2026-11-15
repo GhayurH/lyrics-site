@@ -23,6 +23,14 @@ The original `audit/manual-md-review-tracker.csv` records all thirteen round-one
 - The user edited Basta pages **363, 380, 381, 388, 389, 391**. An independent catalog comparison found ten affected Basta kalams, all with **zero individually locked stanzas**, so no stanza IDs or Basta kalam IDs need changing. All Basta identity-lock records remain identical to `main`. The Basta index titles are synchronized to the edited Urdu/Roman pages, including the individually verified Muhammad-e-Baqir title on page 381; index section numbers and printed page assignments are unchanged.
 - Both existing CSV trackers retain all removed paths as historical review records and preserve provenance, prior review notes, and the distinction between original and round-one source files.
 
+## Language-specific editions (2026-11-15)
+
+- Manually added four stanza-aligned Roman Balti blocks in `abbas-alamdar-balti.md`; original Balti untouched. Source pronunciations still require a native-speaker verification (partial review).
+- Manually reformatted the existing Roman-only Panjabi source `uth-nana-mere-dard-wandaa-main-veer-kuha-k-ai-han.md` to five numbered three-verse sections, corrected language to Panjabi/pa, and kept noUrdu. Uncertain original phonetics require source/audio review.
+- Confirmed `heart-of-hussain.md`, `karbala-karbala-english.md`, and `the-one-and-only-hussain.md` were already correctly marked English/en/ltr. No Roman Urdu edition is expected: English is now exempt from Roman Urdu source lint and normalization, without weakening generic text checks or adding noRoman tags.
+- The Roman Urdu normalizer now also leaves Balti and Panjabi native editions untouched. Readers distinguish English native originals, Latin-script Panjabi and two-script Balti without mislabelling English as Roman Urdu. Targeted tests use these five actual files.
+- The older unrelated full-corpus source-check blockers remain open.
+
 ## Metadata and stanza preparation
 
 - All 3,309 initial round-one additions were changed to `published: true`; one has since been consolidated. Original publication flags were preserved.
