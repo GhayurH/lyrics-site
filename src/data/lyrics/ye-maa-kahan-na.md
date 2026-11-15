@@ -1,68 +1,70 @@
 ---
-title: یثرب میں آی خواب میں زینب کے یوں بتول
+title: یثرب میں آئی خواب میں زینب کے یوں بتول
 alternateTitle: Ye Maa Kahan Na
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mirza Dabeer"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Yasrab mein aayi khwaab mein zainab ke yun batool
-  Maatha bhara tha khoon mein sar par rida na thi
+  Yasrab mein aai khwaab mein Zainab ke yuṅ Batul
+  Maatha bhara tha khun mein sar par rida na thi
 
   1
-  Zainab ne poocha kis ke lahoo se jabeen hai laal
-  Amma tum par to aafat e safar e karbala na thi
-  Ro kar kaha batool ne tum yaad to karo
+  Zainab ne puchha kis ke lahu se jabiṅ hai laal
+  Ammaaṅ tum par to aafat-e-safar-e-Karbala na thi
+  Ro kar kaha Batul ne tum yaad to karo
   Tum apni yaad ko zara aabaad to karo
 
   2
-  Kis waqt kis jagah mai shareek-e-aza na thi
-  Ye maa kahan na thi
-  Zainab safar mein saath tere maa kahan na thi
+  Kis waqt kis jagah main sharik-e-aza na thi
+  Ye maaṅ kahaaṅ na thi
+  Zainab safar mein saath tere maaṅ kahaaṅ na thi
+  Ye maaṅ kahaaṅ na thi
 
   3
-  Royi tumhare saath bahattar ki laash par
-  Akbar ki laash par ali asghar ki laash par
-  Zainab mai kis shaheed ki saahib aza na thi
+  Roi tumhaare saath bahattar ki laash par
+  Akbar ki laash par Ali Asghar ki laash par
+  Zainab main kis shahid ki saahib-e-aza na thi
 
   4
-  Jhaada tha kis ne baalon se sehra e karbala
-  Kis ne bichaya aa ke musalla e karbala
-  Haye haye mai karbala mein shabe qatl kya na thi
+  Jhaara tha kis ne baaloṅ se sahraa-e-Karbala
+  Kis ne bichhaaya aa ke musalla-e-Karbala
+  Haae haae main Karbala mein shab-e-qatl kya na thi
 
   5
-  Rakht e kohan hussain ne maanga tha jis ghadi
-  Qaime mein bibi tum ko ghash aaya tha jis ghadi
-  Qaime ke peeche rone ki meri sada na thi
+  Rakht-e-kohan Husain ne maaṅga tha jis ghari
+  Khaime mein Bibi tum ko ghash aaya tha jis ghari
+  Khaime ke pichhe rone ki meri sada na thi
 
   6
-  Rukhsat ko aaya qaime mein jab ibne bu turab
-  Thaami thi tum ne jis ghadi mazloom ki rakaab
-  Kya saath saath ghode ke mai nange paa na thi
+  Rukhsat ko aaya khaime mein jab Ibn-e-Bu Turaab
+  Thaami thi tum ne jis ghari mazlum ki rakaab
+  Kya saath saath ghore ke main nange paa na thi
 
   7
-  Jab tum giri thi bhai ke laashe pe oont se
-  Naaqe pe tum sawaar thi baazu rasan mein thay
-  Kya baal khole laash pe khairunnisa na thi
+  Jab tum giri thi bhaai ke laashe pe uṅt se
+  Naaqe pe tum sawaar thi baazu rasan mein the
+  Kya baal khole laash pe Khairunnisa na thi
 
   8
-  Yasrab se taa'ba maariya aur wan se taa'ba shaam
-  Humraah thi qadam ba qadam saath gaam gaam
-  Zainab kahin hussain se zahra juda na thi
+  Yasrab se taa ba Maariya aur waaṅ se taa ba Shaam
+  Hamraah thi qadam ba qadam saath gaam gaam
+  Zainab kahiṅ Husain se Zahra juda na thi
 
   9
-  Zainab ne arz ki ke baja kehti hai janab
-  Mai sun rahi hoon jo ba-khuda kehti hai janab
-  Ay waalida mujhe khabar e dast o paa na thi
+  Zainab ne arz ki ke baja kahti haiṅ janaab
+  Main sun rahi huṅ jo bakhuda kahti haiṅ janaab
+  Ae waalida mujhe khabar-e-dast o paa na thi
 
   10
-  Imsaal bhi najaf ka iraada tha ay dabeer
-  Aur karbala bhi jaaun ye socha tha ay dabeer
-  Par reh gaye tadap ke ke qismat rasa na thi
+  Imsaal bhi Najaf ka iraada tha ae Dabir
+  Aur Karbala bhi jaauṅ ye socha tha ae Dabir
+  Par rah gaye tarap ke ke qismat rasa na thi
 # source_id: nohayonline:cafe823512a3caa848fd
 # source_url: https://www.nohayonline.com/details_content.php?id=3322
 # raw_sha256: f4f397a18ecf4c23e67d862c1ef9fdb1d18393d4c411ed93039346d13e71ede2
@@ -70,42 +72,43 @@ romanLyrics: |-
 # source_url: https://www.ziyaraat.net/api/noha/1232
 # raw_sha256: 84189467b6f3e11cd156c32e317f844cc0912e5b6d99474786210df381d06ee7
 ---
-یثرب میں آی خواب میں زینب کے یوں بتول
+یثرب میں آئی خواب میں زینب کے یوں بتول
 ماتھا بھرا تھا خون میں سر پر ردا نہ تھی
 
 ۱
 زینب نے پوچھا کس کے لہو سے جبیں ہے لال
 اماں تم پر تو آفت سفر کربلا نہ تھی
 رو کر کہا بتول نے تم یاد تو کرو
-تم اپنی یاد کو زرا آباد تو کرو
+تم اپنی یاد کو ذرا آباد تو کرو
 
 ۲
 کس وقت کس جگہ میں شریک عزا نہ تھی
 یہ ماں کہاں نہ تھی
 زینب سفر میں ساتھ تیرے ماں کہاں نہ تھی
+یہ ماں کہاں نہ تھی
 
 ۳
-روی تمہارے ساتھ بہتر کی لاش پر
+روئی تمہارے ساتھ بہتر کی لاش پر
 اکبر کی لاش پر علی اصغر کی لاش پر
 زینب میں کس شہید کی صاحب عزا نہ تھی
 
 ۴
-جھاڑا تھا کس نے بالوں سے سہراے کربلا
-کس نے بچھایا آ کے مصلہء کربلا
-ہاے ہاے میں کربلا میں شب قتل کیا نہ تھی
+جھاڑا تھا کس نے بالوں سے صحرائے کربلا
+کس نے بچھایا آ کے مصلائے کربلا
+ہائے ہائے میں کربلا میں شب قتل کیا نہ تھی
 
 ۵
 رخت کہن حسین نے مانگا تھا جس گھڑی
-خیمے میں بی بی تم کو غش آیا تھا جس گھڑی
+خیمے میں بی‌بی تم کو غش آیا تھا جس گھڑی
 خیمے کے پیچھے رونے کی میری صدا نہ تھی
 
 ۶
 رخصت کو آیا خیمے میں جب ابنِ بو تراب
-تھامی تھی تم نے جس گھڑی مظلومی کی رکاب
+تھامی تھی تم نے جس گھڑی مظلوم کی رکاب
 کیا ساتھ ساتھ گھوڑے کے میں ننگے پا نہ تھی
 
 ۷
-جب تم گری تھی کہ لاش پہ اونٹ سے
+جب تم گری تھی بھائی کے لاشے پہ اونٹ سے
 ناقے پہ تم سوار تھی بازو رسن میں تھے
 کیا بال کھولے لاش پہ خیرالنسا نہ تھی
 
@@ -115,11 +118,11 @@ romanLyrics: |-
 زینب کہیں حسین سے زہرا جدا نہ تھی
 
 ۹
-زینب نے عرض کی کہ بجا کہتی ہے جانب
-میں سن رہی ہوں جو با خدا کہتی ہے جانب
+زینب نے عرض کی کہ بجا کہتی ہیں جناب
+میں سن رہی ہوں جو بخدا کہتی ہیں جناب
 اے والدہ مجھے خبر دست و پا نہ تھی
 
 ۱۰
 امسال بھی نجف کا ارادہ تھا اے دبیر
 اور کربلا بھی جاؤں یہ سوچا تھا اے دبیر
-پر رہ گےء تڑپ کے کہ قسمت رسا نہ تھی
+پر رہ گئے تڑپ کے کہ قسمت رسا نہ تھی
