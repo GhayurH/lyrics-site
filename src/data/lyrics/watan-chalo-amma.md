@@ -6,47 +6,48 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Sachey Bhai"
+reciter: "Ali Rizvi Sachey"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sakina kehti thi ro kar watan chalo amma
-  Bahot hai dil mera muztar watan chalo amma
+  Sakina kehti thi ro kar watan chalo ammaṅ
+  Bahut hai dil mera muztar watan chalo ammaṅ
 
   1
-  Galay mein daal ke nani ke sab ke sab baahein
-  Har ek shaheed ko jis tarha jis qadar chaahein
-  Wahin pe royenge khul kar watan chalo amma
+  Gale mein daal ke naani ke sab ke sab baaheṅ
+  Har ik shahid ko jis tarah jis qadar chaaheṅ
+  Wahiṅ pe royeṅge khul kar watan chalo ammaṅ
 
   2
-  Batayein jhelenge aakhir ye sakthiyan kab tak
-  Pade rahenge yuhin zer e aasman kab tak
-  Watan se door khule sar watan chalo amma
+  Bataaeṅ jheleṅge aakhir ye sakhtiyaṅ kab tak
+  Pare raheṅge yunhi zer-e-aasmaaṅ kab tak
+  Watan se dur khule sar watan chalo ammaṅ
 
   3
-  Chupaye baithe hai seene mein jaane kitne gham
-  Lipat ke royenge abid ki bediyon se hum
-  Baraye sibte payambar watan chalo amma
+  Chhupaae baithe haiṅ sine mein jaane kitne gham
+  Lipat ke royeṅge Aabid ki beriyoṅ se hum
+  Baraa-e-Sibt-e-Payambar watan chalo ammaṅ
 
   4
-  Na jaane kaisi adawat hai hum se aada ko
-  Tamache khaaye kiya jab bhi yaad baba ko
-  Na ro sake kabhi khul kar watan chalo amma
+  Na jaane kaisi adaawat hai hum se aada ko
+  Tamaache khaae kiya jab bhi yaad baba ko
+  Na ro sake kabhi khul kar watan chalo ammaṅ
 
   5
-  Sina kaleje mein akbar ke dekhli hum ne
-  Chacha guzar gaye jaan se na aah ki hum ne
-  Hai ek bojh sa dil par watan chalo amma
+  Sina kaleje mein Akbar ke dekh li hum ne
+  Chacha guzar gae jaaṅ se na aah ki hum ne
+  Hai ek bojh sa dil par watan chalo ammaṅ
 
   6
-  Ye khatm honge bhala kab sitam zamane ke
-  Hai kaat'te dar o deewar qaid khaane ke
-  Mai mar na jaaun yahin par watan chalo amma
+  Ye khatm hoṅge bhala kab sitam zamaane ke
+  Haiṅ kaatte dar o diwaar qaid khaane ke
+  Main mar na jaauṅ yahaaṅ par watan chalo ammaṅ
 
   7
-  Ab aur jhelne hai hum ko kitne aakhir gham
-  Watan se door bayabane karbala mein hum
-  Luta chuke hai bhara ghar watan chalo amma
+  Ab aur jhelne haiṅ hum ko kitne aakhir gham
+  Watan se dur bayaabaan-e-Karbala mein hum
+  Luta chuke haiṅ bhara ghar watan chalo ammaṅ
 # source_id: nohayonline:c5987d5a4404f26de621
 # source_url: https://www.nohayonline.com/details_content.php?id=2921
 # raw_sha256: 1a7df971b4e44d350f9d6d7074098f080ee855f1e62749de32ad50fa3dd0bd0a
@@ -55,18 +56,18 @@ romanLyrics: |-
 بہت ہے دل میرا مضطر وطن چلو اماں
 
 ۱
-گلے میں ڈال کہ نانی کے سب کے سب باہیں
-ہر اِک شہید کو جسطرح جسقدر چاہیں
-وہیں پہ روئیگے کھُل کر وطن چلو اماں
+گلے میں ڈال کے نانی کے سب کے سب باہیں
+ہر اِک شہید کو جس طرح جس قدر چاہیں
+وہیں پہ روئیں گے کھُل کر وطن چلو اماں
 
 ۲
-بتائیں جھیلینگے آخر یہ سختیاں کب تک
-پڑے رہینگے یونہی زیرِ آسماں کب تک
+بتائیں جھیلیں گے آخر یہ سختیاں کب تک
+پڑے رہیں گے یونہی زیرِ آسماں کب تک
 وطن سے دور کھُلے سر وطن چلو اماں
 
 ۳
-چھپائے بیٹھیں ہیں سینے میں جانے کتنے غم
-لپٹ کے روینگے عابد کی بیڑیوں سے ہم
+چھپائے بیٹھے ہیں سینے میں جانے کتنے غم
+لپٹ کے روئیں گے عابد کی بیڑیوں سے ہم
 برائے سبطِ پیمبر وطن چلو اماں
 
 ۴
@@ -80,9 +81,9 @@ romanLyrics: |-
 ہے ایک بوجھ سا دل پر وطن چلو اماں
 
 ۶
-یہ ختم ہونگے بھلا کب ستم زمانے کے
-ہیں کاٹتے در و دیوار قیدخانے کے
-میں مر نہ جاوں یہاں پر وطن چلو اماں
+یہ ختم ہوں گے بھلا کب ستم زمانے کے
+ہیں کاٹتے در و دیوار قید خانے کے
+میں مر نہ جاؤں یہاں پر وطن چلو اماں
 
 ۷
 اب اور جھیلنے ہیں ہم کو کتنے آخر غم

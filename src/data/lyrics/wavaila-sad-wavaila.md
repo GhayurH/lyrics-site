@@ -6,82 +6,83 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rafi"
+reciter: "Mir Rehan Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Wawaila sad wawaila wawaila
-  Shiyon karo tum aah o buka wawaila
 
   1
-  Qabr mai roti hai zehra wawaila
-  Ahle watan se haal safar
-  Karti hai bayan zainab dukhiya wawaila
+  Shioṅ karo tum aah o buka wawaila
+  Qabr mein roti hai Zehra wawaila
+  Ahl-e-watan se haal-e-safar
+  Karti hai bayaaṅ Zainab dukhiya wawaila
 
   2
-  Maine sahe andoo o alam wawaila
-  Mujhpe huwe hai zulm o sitam wawaila
-  Roo baroo mere shimre layeen ne
+  Main ne sahe andoh o alam wawaila
+  Mujh pe hue haiṅ zulm o sitam wawaila
+  Ru ba ru mere Shimr-e-laiṅ ne
   Bhai ka mere kaata gala wawaila
 
   3
-  Dhoop mein thay laashe saare wawaila
+  Dhup mein the laashe saare wawaila
   Jaise falak par ho taare wawaila
-  Jalti zameen par tan thay sabhon ke
-  Naize pe sar tha hae sab ka wawaila
+  Jalti zamiṅ par tan the sabhoṅ ke
+  Naize pe sar tha haae sab ka wawaila
 
   4
-  Qatl huwe jab bhai hussain wawaila
-  Sakht thay hum sab hai bechain wawaila
-  Kehte thay sab bache ro ro kar
-  Haye chacha hai na baba wawaila
+  Qatl hue jab bhai Husain wawaila
+  Sakht the hum sab haiṅ bechain wawaila
+  Kehte the sab bachche ro ro kar
+  Haae chacha hai na baba wawaila
 
   5
-  Tauq pinhaya abid ko wawaila
+  Tauq pehnaaya Aabid ko wawaila
   Aur sataaya zaahid ko wawaila
-  Jism mein taap aur paon mein chaale
+  Jism mein tap aur paaoṅ mein chhaale
   Dil mein gham sab kunbe ka wawaila
 
   6
-  Chal nahi sakta tha bemaar wawaila
+  Chal nahiṅ sakta tha bimaar wawaila
   Aada se tha wo lachaar wawaila
   Ro ke wo har dam kehta tha baba
   Ka utha sar se saaya wawaila
 
   7
-  Pusht thi zakhmi naizo pe wawaila
-  Khoon ke naale tan se bahe wawaila
-  Likhna rafi ab shaam ki raah mein
-  Zulm jo abid sehta tha wawaila
+  Pusht thi zakhmi naizoṅ pe wawaila
+  Khun ke naale tan se bahe wawaila
+  Likhna Rafi ab Shaam ki raah mein
+  Zulm jo Aabid sehta tha wawaila
 # source_id: nohayonline:d7246163947f86184e50
 # source_url: https://www.nohayonline.com/details_content.php?id=2120
 # raw_sha256: 3e34eecf5d1717257d62983a92e661376ddf324d2ad9492fab1280f54816c4fc
 ---
 واویلا صد واویلا واویلا
-شیعوں کرو تم آہ و بکا واویلا
 
 ۱
+شیعوں کرو تم آہ و بکا واویلا
 قبر میں روتی ہے زہرا واویلا
-اہلِ وطن سے حال سفر
+اہلِ وطن سے حالِ سفر
 کرتی ہے بیاں زینب دکھیا واویلا
 
 ۲
 میں نے سہے اندوہ الم واویلا
-مجھ پہ ہوے ہیں ظلم و ستم واویلا
+مجھ پہ ہوئے ہیں ظلم و ستم واویلا
 رو برو میرے شمر لعیں نے
-بھای کا میرے کاٹا گلا واویلا
+بھائی کا میرے کاٹا گلا واویلا
 
 ۳
 دھوپ میں تھے لاشے سارے واویلا
 جیسے فلک پہ ہو تارے واویلا
 جلتی زمیں پر تن تھے سبھوں کے
-نیزے پہ سر تھا ہاے سب کا واویلا
+نیزے پہ سر تھا ہائے سب کا واویلا
 
 ۴
-قتل ہوے جب بھای حسین واویلا
+قتل ہوئے جب بھائی حسین واویلا
 سخت تھے ہم سب ہیں بے چین واویلا
 کہتے تھے سب بچے رو رو کر
-ہاے چچا ہے نہ بابا واویلا
+ہائے چچا ہے نہ بابا واویلا
 
 ۵
 طوق پہنایا عابد کو واویلا

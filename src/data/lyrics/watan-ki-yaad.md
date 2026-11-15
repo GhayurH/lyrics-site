@@ -6,75 +6,77 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shabab Jalalpuri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Yaad aati hai watan ki yaad aati hai
-  Muharram mein hame apne watan ki yaad aati hai
+  Muharram mein hameṅ apne watan ki yaad aati hai
 
   1
-  Kare kis se gila pardes mein ay fatema zahra
+  Kareṅ kis se gila pardes mein ae Fatima Zahra
+  Muharram mein hameṅ apne watan ki yaad aati hai
 
   2
-  Ay bibi majlis o matam ka mausam aane wala hai
-  Tadapte hai ke ab maah e muharram aane wala hai
-  Ghutan hoti hai is pardes mein ab dil nahi lagta
+  Ae Bibi majlis o maatam ka mausam aane waala hai
+  Tarapte haiṅ ke ab maah-e-Muharram aane waala hai
+  Ghutan hoti hai is pardes mein ab dil nahiṅ lagta
 
   3
-  Sada jab majlis o matam ki in kano mein aati hai
-  Watan ki yaad humko khoon ke aansu rulaati hai
-  Tadap jaata hai dil tanhaion mein ham gareebon ka
+  Sada jab majlis o maatam ki in kaanoṅ mein aati hai
+  Watan ki yaad hum ko khun ke aansu rulaati hai
+  Tarap jaata hai dil tanhaaiyoṅ mein hum ghariboṅ ka
 
   4
-  Manaye kis tarha ye gham bahot majboor hai bibi
-  Phata jaata hai dil apne watan se door hai bibi
-  Labon par dam ba dam aata hai shehzadi yehi fiqra
+  Manaaeṅ kis tarah ye gham bahut majbur haiṅ Bibi
+  Phata jaata hai dil apne watan se dur haiṅ Bibi
+  Laboṅ par dam ba dam aata hai shehzaadi yehi fiqra
 
   5
-  Kare bhi kis tarha khul kar shahe waala ka hum matam
-  Manaye kis tarah pardes mein un bekason ka gham
-  Wo ghar zindan lagta hai jahan matam nahi hota
+  Kareṅ bhi kis tarah khul kar Shah-e-Waala ka hum maatam
+  Manaaeṅ kis tarah pardes mein un bekasoṅ ka gham
+  Wo ghar zindaan lagta hai jahaaṅ maatam nahiṅ hota
 
   6
-  Tamanna thi ke ghar jaa kar azakhana sajayenge
-  Alam abbas ka khud apne haathon se uthayenge
-  Chadhayenge jari ki mashk par phoolon ka ek sehra
+  Tamanna thi ke ghar jaa kar aza khaana sajaaeṅge
+  Alam Abbaas ka khud apne haathoṅ se uthaaeṅge
+  Charhaaeṅge jari ki mashk par phuloṅ ka ek sehra
 
   7
-  Ziarat ke liye ashoor ki shab hum nikalte thay
-  To apne gaon ke har taziya-khane mein jaate thay
-  Kuch is andaaz se dete thay hum mazloom ko pursa
+  Ziyaarat ke liye Aashur ki shab hum nikalte the
+  To apne gaaoṅ ke har taaziya khaane mein jaate the
+  Kuchh is andaaz se dete the hum mazlum ko pursa
 
   8
-  Pilaate thay jo hum naam e sakina par wahan pani
-  Kuch is andaz se karte thay pyason ki nigehbani
-  Watan mein ehtemaam is tarha karte thay sabeelon ka
+  Pilaate the jo hum naam-e-Sakina par wahaaṅ paani
+  Kuchh is andaaz se karte the pyaasoṅ ki nigehbaani
+  Watan mein ehtemaam is tarah karte the sabiloṅ ka
 
   9
-  Kaleja hoga uski yaad mein ek bar phir zakhmi
-  Uthegi jis ghadi farwa tumhare laal ki mehndi
-  Karenge zabt kaise saatvi ko hum mere aaqa
+  Kaleja hoga us ki yaad mein ik baar phir zakhmi
+  Uthegi jis ghari Farwa tumhaare laal ki mehndi
+  Kareṅge zabt kaise saatviṅ ko hum mere aaqa
 
   10
-  Mere maula ye sab majbooriyan jeene nahi deti
-  Paraye des mein ye dooriyan jeene nahi deti
-  Bula lije hamein apne watan ab jald ay maula
+  Mere Maula ye sab majburiyaaṅ jine nahiṅ deti
+  Paraae des mein ye duriyaaṅ jine nahiṅ deti
+  Bula lijiye hameṅ apne watan ab jald ae Maula
 
   11
-  Duayein maangte hai roz hum apne musalle par
-  Ke hum pardes se kab laut ke jayenge apne ghar
-  Na jaane kab sajayenge ali asghar ka gehwara
+  Duaaeṅ maangte haiṅ roz hum apne musalle par
+  Ke hum pardes se kab laut ke jaaeṅge apne ghar
+  Na jaane kab sajaaeṅge Ali Asghar ka gehwaara
 
   12
-  Bhara ghar lut gaya zehra ka ek pardes mein aa kar
-  Kahin asghar ki mayyat hai kahin hai laasha e akbar
-  Bikhar ke reh gaya dashte bala mein shaah ka kunba
+  Bhara ghar lut gaya Zehra ka ek pardes mein aa kar
+  Kahiṅ Asghar ki mayyat hai kahiṅ hai laasha-e-Akbar
+  Bikhar ke reh gaya dasht-e-bala mein shaah ka kunba
 
   13
-  Na roya hai shabab itna kabhi pardes mein koi
-  Watan ki yaad mein aamir sakina jis qadar royi
-  Wo bachi aaj bhi zindan mein padti hai yehi nauha
+  Na roya hai Shabab itna kabhi pardes mein koi
+  Watan ki yaad mein Aamir Sakina jis qadar roi
+  Wo bachchi aaj bhi zindaaṅ mein parhti hai yehi nauha
 # source_id: nohayonline:405c895768511f86c35c
 # source_url: https://www.nohayonline.com/details_content.php?id=1294
 # raw_sha256: f150b2f209139bf5a3c967f8cb3d349acd5dd33ce13eca323d99df7b5fa0029a
@@ -83,32 +85,33 @@ romanLyrics: |-
 محرم میں ہمیں اپنے وطن کی یاد آتی ہے
 
 ۱
-کرے کس سے گلا پردیس میں اے فاطمہ زہرا
+کریں کس سے گلا پردیس میں اے فاطمہ زہرا
+محرم میں ہمیں اپنے وطن کی یاد آتی ہے
 
 ۲
-اے بی بی مجلس و ماتم کا موسم آنے والا ہے
+اے بی‌بی مجلس و ماتم کا موسم آنے والا ہے
 تڑپتے ہیں کہ اب ماہ محرم آنے والا ہے
 گھٹن ہوتی ہے اس پردیس میں اب دل نہیں لگتا
 
 ۳
 صدا جب مجلس و ماتم کی ان کانوں میں آتی ہے
-وطن کی یاد ہمکو خون کے آنسوں رلاتی ہے
+وطن کی یاد ہم کو خون کے آنسو رلاتی ہے
 تڑپ جاتا ہے دل تنہائیوں میں ہم غریبوں کا
 
 ۴
-مناے کس طرح یہ غم بہت مجبور ہے بی بی
-پھٹا جاتا ہے دل اپنے وطن سے دور ہے بی بی
+منائیں کس طرح یہ غم بہت مجبور ہیں بی‌بی
+پھٹا جاتا ہے دل اپنے وطن سے دور ہیں بی‌بی
 لبوں پر دم بہ دم آتا ہے شہزادی یہی فقرہ
 
 ۵
-کرے بھی کس طرح کھل کر شہ والا کا ہم ماتم
-مناے کس طرح پردیس میں ان بے کسوں کا غم
+کریں بھی کس طرح کھل کر شہِ والا کا ہم ماتم
+منائیں کس طرح پردیس میں ان بے کسوں کا غم
 وہ گھر زندان لگتا ہے جہاں ماتم نہیں ہوتا
 
 ۶
-تمنا تھی کہ گھر جا کر عزاخانہ سجاینگے
-الم عباس کا خود اپنے ہاتھوں سے اٹھاینگے
-چڑھاینگے جری کی مشک پر پھولوں کی کا ایک سہرا
+تمنا تھی کہ گھر جا کر عزا خانہ سجائیں گے
+علم عباس کا خود اپنے ہاتھوں سے اٹھائیں گے
+چڑھائیں گے جری کی مشک پر پھولوں کا ایک سہرا
 
 ۷
 زیارت کے لئے عاشور کی شب ہم نکلتے تھے
@@ -122,25 +125,25 @@ romanLyrics: |-
 
 ۹
 کلیجہ ہوگا اس کی یاد میں اک بار پھر زخمی
-اٹھے گی جس گھڑی فروا تمہارے لال کی مہندی
+اٹھے گی جس گھڑی فروہ تمہارے لال کی مہندی
 کریں گے ضبط کیسے ساتویں کو ہم میرے آقا
 
 ۱۰
 میرے مولا یہ سب مجبوریاں جینے نہیں دیتی
-پراے دیس میں یہ دوریاں جینے نہیں دیتی
+پرائے دیس میں یہ دوریاں جینے نہیں دیتی
 بلا لیجیے ہمیں اپنے وطن اب جلد اے مولا
 
 ۱۱
 دعائیں مانگتے ہیں روز ہم اپنے مصلے پر
-کہ ہم پردیس سے کب لوٹ کے جاینگے اپنے گھر
-نہ جانے کب سجاینگے علی اصغر کا گہوارا
+کہ ہم پردیس سے کب لوٹ کے جائیں گے اپنے گھر
+نہ جانے کب سجائیں گے علی اصغر کا گہوارا
 
 ۱۲
 بھرا گھر لٹ گیا زہرا کا ایک پردیس میں آ کر
-کہیں اصغر کی میت ہے کہیں ہے لاشہء اکبر
+کہیں اصغر کی میت ہے کہیں ہے لاشۂ اکبر
 بکھر کے رہ گیا دشت بلا میں شاہ کا کنبہ
 
 ۱۳
 نہ رویا ہے شباب اتنا کبھی پردیس میں کوئی
-وطن کی یاد میں عامر سکینہ جس قدر روی
+وطن کی یاد میں عامر سکینہ جس قدر روئی
 وہ بچی آج بھی زنداں میں پڑھتی ہے یہی نوحہ
