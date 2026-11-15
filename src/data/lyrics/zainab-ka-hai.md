@@ -6,50 +6,53 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Ali Shanawar, Ali Jee"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hussain hussain maula
-  Zainab ka hai armaan hussain ka matam
-  Chauda so baras se hai dunya may qaayam
+  Husain Husain Maula
+
+  Zainab ka hai armaan Husain ka maatam
+  Chaudah sau baras se hai dunya mein qaayam
 
   1
-  Sajde may sar kataya islam ko bachaya
-  Shabbir ne jaan de ke waade ko hai nibhaya
+  Sajde mein sar kataaya Islam ko bachaaya
+  Shabbir ne jaaṅ de ke waade ko hai nibhaaya
 
   2
-  Ahmad ka nawasa tha zehra ka dulaara tha
-  Nau laakh layeeno ne pyasa jise maara tha
+  Ahmad ka nawaasa tha Zehra ka dulaara tha
+  Nau laakh lainoṅ ne pyaasa jise maara tha
 
   3
-  Eksat sane hijri ko dasween ki qayamat ko
-  Chauda so baras beete maula ki shahadat ko
+  Eksath san Hijri ko daswiṅ ki qayaamat ko
+  Chaudah sau baras bite Maula ki shahaadat ko
 
   4
   Islam ke mohsin ka sar naize pe aaya hai
-  Sadaat ke qaimon ko aada ne jalaya hai
+  Saadaat ke khaimoṅ ko aada ne jalaaya hai
 
   5
-  Har saal moharam may ek sogh ke aalam may
-  Masroof zamana hai mazloom ke matam may
+  Har saal Muharram mein ik sog ke aalam mein
+  Masruf zamaana hai mazlum ke maatam mein
 
   6
-  Ashoor zamane may paigham ye laata hai
+  Aashur zamaane mein paighaam ye laata hai
   Shabbir ki ghurbat par jo ashk bahaata hai
 
   7
-  Zindan ke andhere may ghurbat ke savere may
-  Dafnaya sakina ko abid ne jo kurte may
+  Zindaaṅ ke andhere mein ghurbat ke sawere mein
+  Dafnaaya Sakina ko Aabid ne jo kurte mein
 
   8
-  Rehaan o shanawar ne sarwar ne ali jee ne
-  Nauhon ki ibadat se aabaad rakhe seene
+  Rehaan o Shanawar ne Sarwar ne Ali Ji ne
+  Nauhoṅ ki ibaadat se aabaad rakhe sine
 # source_id: nohayonline:eee8334be67cbf94850b
 # source_url: https://www.nohayonline.com/details_content.php?id=2507
 # raw_sha256: 8f2497fa7915ef8674b0de456bb38e8956de59e4be970f377323330dc65f74b5
 ---
 حسین حسین مولا
+
 زینب کا ہے ارمان حسین کا ماتم
 چودہ سو برس سے ہے دنیا میں قائم
 

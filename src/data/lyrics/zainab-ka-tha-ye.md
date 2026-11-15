@@ -1,116 +1,117 @@
 ---
-title: "زینب کا تھا یہ نوحہ میں کیا جواب دونگی"
+title: "زینب کا تھا یہ نوحہ میں کیا جواب دوں گی"
 alternateTitle: "Zainab Ka Tha Ye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Lakhnavi"
+reciter: "Afzal Mirza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zainab ka tha ye nauha mai kya jawab doongi
-  Poochengi jab ke sughra mai kya jawab doongi
+  Zainab ka tha ye nauha main kya jawaab duṅgi
+  Puchheṅgi jab ke Sughra main kya jawaab duṅgi
 
   1
-  Maqtal mein so rahe hai sab godhiyon ke paale
-  Jaa kar watan mein bhaiya mai kya jawab doongi
+  Maqtal mein so rahe haiṅ sab godiyoṅ ke paale
+  Jaa kar watan mein bhaiya main kya jawaab duṅgi
 
   2
-  Akbar ki mere shaadi kis des mein rachayi
-  Baandha hai kis ne sehra mai kya jawab doongi
+  Akbar ki mere shaadi kis des mein rachaai
+  Baandha hai kis ne sehra main kya jawaab duṅgi
 
   3
-  Waada kiya tha jis ne lene ko aayenge hum
-  Ab tak to wo na aaya mai kya jawab doongi
+  Waada kiya tha jis ne lene ko aayeṅge hum
+  Ab tak to wo na aaya main kya jawaab duṅgi
 
   4
-  Qasim hamara bhai ibne hassan kahan hai
-  Jo hum ko chaahta tha mai kya jawab doongi
+  Qasim hamaara bhai ibn-e-Hasan kahaaṅ hai
+  Jo hum ko chaahta tha main kya jawaab duṅgi
 
   5
-  Afsos aun o jafar ab tak na milne aaye
-  Ab tak na maine dekha mai kya jawab doongi
+  Afsos Aun o Jaafar ab tak na milne aaye
+  Ab tak na main ne dekha main kya jawaab duṅgi
 
   6
-  Asghar hamara bhai ab kis ki godh mein hai
-  Aankhon ka hai jo taara mai kya jawab doongi
+  Asghar hamaara bhai ab kis ki god mein hai
+  Aankhoṅ ka hai jo taara main kya jawaab duṅgi
 
   7
-  Seene pa sone waali wo laadli kahan hai
-  Meri behan sakina mai kya jawab doongi
+  Sine pe sone waali wo laadli kahaaṅ hai
+  Meri behan Sakina main kya jawaab duṅgi
 
   8
-  Akbar se aayenge jab milne ko unke saathi
-  Qaabu mein dil na hoga mai kya jawab doongi
+  Akbar se aayeṅge jab milne ko un ke saathi
+  Qaabu mein dil na hoga main kya jawaab duṅgi
 
   9
-  Roodaad karbakla ki aa kar madine waale
-  Har ek pata karega mai kya jawab doongi
+  Rudaad Karbala ki aa kar Madine waale
+  Har ek pata karega main kya jawaab duṅgi
 
   10
-  Karbobala se wapas ummul baneen ka beta
-  Abbas kyun na aaya mai kya jawab doongi
+  Karbobala se waapas Ummul Banin ka beta
+  Abbas kiuṅ na aaya main kya jawaab duṅgi
 
   11
-  Baazu ko dekhte hi poochegi meri nani
-  Ye hai nishan kaisa mai kya jawab doongi
+  Baazu ko dekhte hi puchhegi meri naani
+  Ye hai nishaan kaisa main kya jawaab duṅgi
 
   12
-  Jab daakhila watan mein hoga qamar haram ka
-  Zainab ka dil kahega mai kya jawab doongi
+  Jab daakhila watan mein hoga Qamar haram ka
+  Zainab ka dil kahega main kya jawaab duṅgi
 # source_id: nohayonline:f2b94cb1cbd562d0bded
 # source_url: https://www.nohayonline.com/details_content.php?id=1869
 # raw_sha256: 74655c090f2013133c717007307dafd40ad5fe5adbdf335e4f9d446ae5cff9c7
 ---
-زینب کا تھا یہ نوحہ میں کیا جواب دونگی
-پوچھیں گی جب کے صغریٰ میں کیا جواب دونگی
+زینب کا تھا یہ نوحہ میں کیا جواب دوں گی
+پوچھیں گی جب کے صغریٰ میں کیا جواب دوں گی
 
 ۱
 مقتل میں سو رہے ہیں سب گودیوں کے پالے
-جا کر وطن میں بھیا میں کیا جواب دونگی
+جا کر وطن میں بھیا میں کیا جواب دوں گی
 
 ۲
-اکبر کی میرے شادی کس دیس میں رچای
-باندھا ہے کس نے سہرا میں کیا جواب دونگی
+اکبر کی میرے شادی کس دیس میں رچائی
+باندھا ہے کس نے سہرا میں کیا جواب دوں گی
 
 ۳
-وعدہ کیا تھا جس نے لینے کو آینگے ہم
-اب تک تو وہ نہ آیا میں کیا جواب دونگی
+وعدہ کیا تھا جس نے لینے کو آئیں گے ہم
+اب تک تو وہ نہ آیا میں کیا جواب دوں گی
 
 ۴
-قاسم ہمارا بھای ابنِ حسن کہاں ہے
-جو ہم کو چاہتا تھا میں کیا جواب دونگی
+قاسم ہمارا بھائی ابنِ حسن کہاں ہے
+جو ہم کو چاہتا تھا میں کیا جواب دوں گی
 
 ۵
-افسوس عون و جعفر اب تک نہ ملنے آے
-اب تک نہ میں نے دیکھا میں کیا جواب دونگی
+افسوس عون و جعفر اب تک نہ ملنے آئے
+اب تک نہ میں نے دیکھا میں کیا جواب دوں گی
 
 ۶
-اصغر ہمارا بھای اب کس کی گود میں ہے
-آنکھوں کا ہے جو تارہ میں کیا جواب دونگی
+اصغر ہمارا بھائی اب کس کی گود میں ہے
+آنکھوں کا ہے جو تارہ میں کیا جواب دوں گی
 
 ۷
 سینے پہ سونے والی وہ لاڈلی کہاں ہے
-میری بہن سکینہ میں کیا جواب دونگی
+میری بہن سکینہ میں کیا جواب دوں گی
 
 ۸
-اکبر سے آیینگے جب ملنے کو انکے ساتھی
-قابو میں دل نہ ہوگا میں کیا جواب دونگی
+اکبر سے آئیں گے جب ملنے کو ان کے ساتھی
+قابو میں دل نہ ہوگا میں کیا جواب دوں گی
 
 ۹
 روداد کربلا کی آ کر مدینے والے
-ہر ایک پتہ کریں گے میں کیا جواب دونگی
+ہر ایک پتہ کریں گے میں کیا جواب دوں گی
 
 ۱۰
 کربوبلا سے واپس ام البنین کا بیٹا
-عباس کیوں نہ آیا میں کیا جواب دونگی
+عباس کیوں نہ آیا میں کیا جواب دوں گی
 
 ۱۱
 بازو کو دیکھتے ہی پوچھے گی میری نانی
-یہ ہے نشان کیسا میں کیا جواب دونگی
+یہ ہے نشان کیسا میں کیا جواب دوں گی
 
 ۱۲
 جب داخلہ وطن میں ہوگا قمر حرم کا
-زینب کا دل کہے گا میں کیا جواب دونگی
+زینب کا دل کہے گا میں کیا جواب دوں گی

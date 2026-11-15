@@ -3785,10 +3785,10 @@ src/data/lyrics/zainab-hoo-mai.md,standalone_lyrics,imported,nohayonline,pending
 src/data/lyrics/zainab-jidhar-khuda.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,2026-11-15-editorial-zainab-four,,"Need audio/print: s6 ""حافظ سامت"" (saamit); s9 ""خاک اثر"" (khaak asar). Confirm these source readings and spellings."
 src/data/lyrics/zainab-jigar-figaar.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-15-editorial-zainab-four,,
 src/data/lyrics/zainab-ka-dil.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-15-editorial-zainab-four,,
-src/data/lyrics/zainab-ka-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/zainab-ka-jo-abbas.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/zainab-ka-tha-ye-noha.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/zainab-ka-tha-ye.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/zainab-ka-hai.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-15-batch-zainab-01,,
+src/data/lyrics/zainab-ka-jo-abbas.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,2026-11-15-batch-zainab-01,,"Need audio/print: s1 Roman ""jab"" absent in Urdu; s5 ""tadfin sar-e-dasht ki tukroṅ ke baraabar""; s8 ""sahab"" / ""صحاب"" (poet takhallus or other reading)."
+src/data/lyrics/zainab-ka-tha-ye-noha.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,2026-11-15-batch-zainab-01,,"Need audio/print: s5 ""pehlu mein beh ke darya""."
+src/data/lyrics/zainab-ka-tha-ye.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,2026-11-15-batch-zainab-01,,"Need audio/print: s2 ""Akbar ki mere shaadi""; s8 ""Akbar se aayeṅge""; s9 Roman ""har ek pata karega"" versus Urdu ""ہر ایک پتہ کریں گے""."
 src/data/lyrics/zainab-ka-waada.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/zainab-ka-ye-noha.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/zainab-ke-saath.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,

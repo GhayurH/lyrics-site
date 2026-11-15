@@ -5,36 +5,37 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Mirza Sikander Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zainab ka tha ye nauha bhai hai bhuka pyasa
-  Ay shimr tu teher ja bhai hai bhuka pyasa
+  Zainab ka tha ye nauha bhai hai bhuka pyaasa
+  Ae Shimr tu thahar ja bhai hai bhuka pyaasa
 
   1
-  Sookhe gale pe khanjar mat phayr ay sitamgar
-  Pani pilade thoda bhai hai bhuka pyasa
+  Sukhe gale pe khanjar mat pher ae sitamgar
+  Paani pila de thora bhai hai bhuka pyaasa
 
   2
-  Seene se tu utar ja zaqmon may dard hoga
-  Mazloom par taraz kha bhai hai bhuka pyasa
+  Sine se tu utar ja zakhmoṅ mein dard hoga
+  Mazlum par taras kha bhai hai bhuka pyaasa
 
   3
-  Khoya hai naujawan ko gaada hai bezaban ko
-  Koi nahi hai us ka bhai hai bhuka pyasa
+  Khoya hai naujawaaṅ ko gaara hai bezabaaṅ ko
+  Koi nahiṅ hai us ka bhai hai bhuka pyaasa
 
   4
-  Chadar ko cheenle tu qaimon ko loot le tu
-  Us ki nahi hai parwa bhai hai bhuka pyasa
+  Chaadar ko chhin le tu khaimoṅ ko lut le tu
+  Us ki nahiṅ hai parwa bhai hai bhuka pyaasa
 
   5
-  Arz o samaa ke waali dena hai tu gawahi
-  Pehlu may beh ke darya bhai hai bhuka pyasa
+  Arz o samaa ke waali dena hai tu gawaahi
+  Pehlu mein beh ke darya bhai hai bhuka pyaasa
 
   6
-  Ya fatema ab aao ya murtaza ab aao
-  Dam todta hai beta bhai hai bhuka pyasa
+  Ya Fatima ab aao ya Murtaza ab aao
+  Dam torta hai beta bhai hai bhuka pyaasa
 # source_id: nohayonline:c8a92449d08e6c0de422
 # source_url: https://www.nohayonline.com/details_content.php?id=588
 # raw_sha256: d14be9664295ec5454080d3e381458ba00c3fd0c7ad4b89093722417624c3855
@@ -48,20 +49,20 @@ romanLyrics: |-
 
 ۲
 سینے سے تُو اُتر جا زخموں میں درد ہو گا
-مظلوم پر ترس کھابھائی ہے بھوکا پیاسا
+مظلوم پر ترس کھا بھائی ہے بھوکا پیاسا
 
 ۳
-کھویا ہے نوجواں کو گاڑھا ہے بے زباں کو
-کوئی نہیں ہے اُس کابھائی ہے بھوکا پیاسا
+کھویا ہے نوجواں کو گاڑا ہے بے زباں کو
+کوئی نہیں ہے اُس کا بھائی ہے بھوکا پیاسا
 
 ۴
 چادر کو چھین لے تُو خیموں کو لُوٹ لے تُو
-اُس کی نہیں ہے پروابھائی ہے بھوکا پیاسا
+اُس کی نہیں ہے پروا بھائی ہے بھوکا پیاسا
 
 ۵
 ارض و سما کے والی دینا ہے تُو گواہی
 پہلو میں بہ کے دریا بھائی ہے بھوکا پیاسا
 
 ۶
-یا فاطمہ اب آئو یا مرتضیٰ اب آئو
-دم توڑتا ہے بیٹابھائی ہے بھوکا پیاسا
+یا فاطمہ اب آؤ یا مرتضیٰ اب آؤ
+دم توڑتا ہے بیٹا بھائی ہے بھوکا پیاسا
