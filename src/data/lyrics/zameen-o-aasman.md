@@ -1,6 +1,6 @@
 ---
 title: "زمین و آسمان دونوں ہے لرزاں ظلم پیکاں سے"
-alternateTitle: "Zameen O Aasman"
+alternateTitle: "Zamin o Aasmaan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,36 +10,36 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zameen o aasman dono hai larza zulm e paikaa se
-  Bujhe ja rahi hai pyaas asghar ki rag e jaan se
+  Zamin o aasmaan donoṅ hai larzaaṅ zulm-e-paikaaṅ se
+  Bujhe ja rahi hai pyaas Asghar ki rag-e-jaaṅ se
 
   1
-  Tazbazab mein khade hai darmiyan e qaima o maqtal
-  Shah e deen soch mein hai ke kya kahe baysheer ki maadar se
+  Tazabzub mein khare haiṅ darmiyaan-e-khaima o maqtal
+  Shaah-e-din soch mein haiṅ ke kya kaheṅ beshir ki maadar se
 
   2
-  Madaar e karbala hai tum pa ay asghar chale aao
-  Ajal awaaz deti hai musalsal aaj maidan se
+  Madaar-e-Karbala hai tum pa ae Asghar chale aao
+  Ajal aawaaz deti hai musalsal aaj maidaaṅ se
 
   3
-  Koi bacha humak kar baap ke haathon pe marta hai
-  Bagole uth rahe hai har taraf khaak e bayaban se
+  Koi bachcha humak kar baap ke haathoṅ pe marta hai
+  Bagole uth rahe haiṅ har taraf khaak-e-bayaabaaṅ se
 
   4
-  Usi ke khoon se chehra hua hai surkh sarwar ka
-  Ulat kar aasteenein jiski le aaye thay armaan se
+  Usi ke khun se chehra hua hai surkh Sarwar ka
+  Ulat kar aastineṅ jis ki le aaye the armaaṅ se
 
   5
-  Rahegi ta-qayamat alqama sharminda sharminda
-  Lipat kar tashnagi roti rahegi us ke daaman se
+  Rahegi taa-qayaamat Alqama sharminda sharminda
+  Lipat kar tashnagi roti rahegi us ke daamaaṅ se
 
   6
-  Rabab e qastatan ko daag bachon ka bhi sehna hai
-  Koi chutega karbal mein koi bichdega zindan se
+  Rabaab-e-khasta-tan ko daagh bachchoṅ ka bhi sehna hai
+  Koi chhutega Karbal mein koi bichhrega zindaaṅ se
 
   7
-  Ali asghar hai mehve khwaab shahid seena e sheh par
-  Badal kar nainawa ko karbala jaise gulistan se
+  Ali Asghar hai mahv-e-khwaab Shahid sina-e-Shah par
+  Badal kar Nainawa ko Karbala jaise gulistaaṅ se
 # source_id: nohayonline:09ae386cde613c88e247
 # source_url: https://www.nohayonline.com/details_content.php?id=1492
 # raw_sha256: e4b5e5e19523ef7d921ae95c04fc4efa7ca6c2248fde1282cd5ff66ec69e93ba
@@ -52,7 +52,7 @@ romanLyrics: |-
 شاہ دین سوچ میں ہیں کہ کیا کہیں بشیر کی مادر
 
 ۲
-مدار کربلا تم پہ اے اصغر چلے آئو
+مدار کربلا تم پہ اے اصغر چلے آؤ
 اجل آواز دیتی ہے مسلسل آج میداں سے
 
 ۳
@@ -64,7 +64,7 @@ romanLyrics: |-
 الٹ کر آستین جس کی لے آئے تھے ارماں سے
 
 ۵
-رہے گی تاقیامت القامہ شرمندہ شرمندہ
+رہے گی تا قیامت علقمہ شرمندہ شرمندہ
 لپٹ کر تشنگی روتی رہے گی اس کے داماں سے
 
 ۶
