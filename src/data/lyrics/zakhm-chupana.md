@@ -1,131 +1,154 @@
 ---
-title: "اکبر نے سناں کھای ہے انکو نہ بتانا"
-alternateTitle: "Zakhm Chupana"
+title: "اکبر نے سناں کھائی ہے ان کو نہ بتانا"
+alternateTitle: "Zakhm Chhupaana"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
-aliases: []
+aliases: ["Zakhm Chupana"]
 published: false
 romanLyrics: |-
-  Akbar ne sina khaayi hai unko na batana
-  Baba phupi amma se mera zakhm chupana
+  Akbar ne sinaaṅ khaayi hai un ko na bataana
+  Baba phupi ammaaṅ se mera zakhm chhupaana
 
   1
-  Kis tarha se dekhengi wo hum dono ki ghurbat
-  Wo royi to aajayegi qaimon may qayamat
-  Mai zakhm chupa leta hoo tum aansu chupana
+  Kis tarah se dekheṅ gi wo hum donoṅ ki ghurbat
+  Wo royi to aa jaaye gi khaimoṅ mein qayaamat
+  Main zakhm chhupa leta huṅ tum aansu chhupaana
+  Baba phupi ammaaṅ se mera zakhm chhupaana
 
   2
-  Tasveer e muhammad hai bade naazon se paali
-  Mar jaaye na qaime may meri paalne waali
-  Hargiz ye mera haath na seene se hatana
+  Tasvir-e-Muhammad hai bare naazoṅ se paali
+  Mar jaaye na khaime mein meri paalne waali
+  Hargiz ye mera haath na sine se hataana
+  Baba phupi ammaaṅ se mera zakhm chhupaana
 
   3
-  Maari hai sina seene pe ye kehke layeen ne
-  Phoolon ki tarha paala hai akbar ko phupi ne
-  Laashe pe abaa qaimon se pehle hi udhana
+  Maari hai sinaaṅ sine pe ye keh ke laiṅ ne
+  Phuloṅ ki tarah paala hai Akbar ko phuphi ne
+  Laashe pe abaa khaimoṅ se pehle hi urhaana
+  Baba phupi ammaaṅ se mera zakhm chhupaana
 
   4
-  Is baar shahadat ko uthalegi imamat
-  Bhai se chupana nahi ek bahi ki ghurbat
-  Sajjad ko tafseer shahadat ki sunana
+  Is baar shahaadat ko utha le gi imaamat
+  Bhai se chhupaana nahiṅ ik bhai ki ghurbat
+  Sajjad ko tafsir-e-shahaadat ki sunaana
+  Baba phupi ammaaṅ se mera zakhm chhupaana
 
   5
-  Mamta unhe laashe pe mere laayegi baba
-  Be-saakhta wo mujhse lipat jayegi baba
-  Mumkin ho to laashe se unhe door hatana
+  Mamta unheṅ laashe pe mere laaye gi baba
+  Besaakhta wo mujh se lipat jaaye gi baba
+  Mumkin ho to laashe se unheṅ dur hataana
+  Baba phupi ammaaṅ se mera zakhm chhupaana
 
   6
-  Jo khaak bhari hai mere baalon se chudhado
-  Chehre pe lahoo hai mere daaman se hatado
-  Wo zid jo zyada kare bas chehra dikhana
+  Jo khaak bhari hai mere baaloṅ se chhura do
+  Chehre pe lahu hai mere daaman se hata do
+  Wo zid jo ziyaada kare bas chehra dikhaana
+  Baba phupi ammaaṅ se mera zakhm chhupaana
 
   7
-  Yun naiza sitamgaar ne maara mere baba
-  Pehlu bhi shikasta hai hamara mere baba
-  Yaad aayega dadi ka unhe zakhm purana
+  Yuṅ neza sitamgaar ne maara mere baba
+  Pehlu bhi shikasta hai hamaara mere baba
+  Yaad aaye ga daadi ka unheṅ zakhm puraana
+  Baba phupi ammaaṅ se mera zakhm chhupaana
 
   8
-  Is haal may de sabr khuda binte ali ko
-  Akbar ka salaam aakhri keh dena phupi ko
-  Zinda bada mushkil hai mera qaime may jaana
+  Is haal mein de sabr Khuda bint-e-Ali ko
+  Akbar ka salaam aakhri keh dena phuphi ko
+  Zinda bara mushkil hai mera khaime mein jaana
+  Baba phupi ammaaṅ se mera zakhm chhupaana
 
   9
-  Har baat meri aap ki behno ke liye hai
-  Bas ek wasiyat meri sughra ke liye hai
-  Laa kar khate sughra mere laashe pe sunana
+  Har baat meri aap ki behnoṅ ke liye hai
+  Bas ek wasiyyat meri Sughra ke liye hai
+  Laa kar khat-e-Sughra mere laashe pe sunaana
+  Baba phupi ammaaṅ se mera zakhm chhupaana
 
   10
-  Dam tod'te akbar ko na pahunche koi sadma
-  Moo phayr ke yun rote ho maloom hai baba
-  Par saamne sadaat ke aansu na bahana
+  Dam torte Akbar ko na pahunche koi sadma
+  Muṅh pher ke yuṅ rote ho maalum hai baba
+  Par saamne Saadaat ke aansu na bahaana
+  Baba phupi ammaaṅ se mera zakhm chhupaana
 
   11
-  Us aakhri hichki may takallum hua mehshar
-  Akbar ne kaha haath jo peshani pe rakh kar
-  Lo humko ijazat do hamay door hai jaana
+  Us aakhri hichki mein Takallum hua mahshar
+  Akbar ne kaha haath jo peshaani pe rakh kar
+  Lo hum ko ijaazat do hameṅ dur hai jaana
+  Baba phupi ammaaṅ se mera zakhm chhupaana
 # source_id: nohayonline:90a1a115a5329d0f71f9
 # source_url: https://www.nohayonline.com/details_content.php?id=1086
 # raw_sha256: f87c8cdb2bbe32591a9c2c3da833a42ff23e3434d74c6549416fd385f959aa87
 ---
 
-اکبر نے سناں کھای ہے انکو نہ بتانا
+اکبر نے سناں کھائی ہے ان کو نہ بتانا
 بابا پھوپی امّاں سے میرا زخم چھپانا
 
 ۱
 کس طرح سے دیکھیں گی وہ ہم دونوں کی غربت
-وہ روی تو آجاے گی خیموں میں قیامت
-میں زخم چھپا لیتا ہوں تم آنسوں چھپانا
+وہ روئی تو آ جائے گی خیموں میں قیامت
+میں زخم چھپا لیتا ہوں تم آنسو چھپانا
+بابا پھوپی امّاں سے میرا زخم چھپانا
 
 ۲
-تصویر محمد ہے بڑے نازوں سے پالی
-مر جاۓ نہ خیمے میں میری پالنے والی
-ہر گز یہ میرا ہاتھ نہ سینے سے ہٹانا
+تصویرِ محمد ہے بڑے نازوں سے پالی
+مر جائے نہ خیمے میں میری پالنے والی
+ہرگز یہ میرا ہاتھ نہ سینے سے ہٹانا
+بابا پھوپی امّاں سے میرا زخم چھپانا
 
 ۳
-ماری ہے سناں سینے پہ یہ کہکے لعیں نے
+ماری ہے سناں سینے پہ یہ کہہ کے لعیں نے
 پھولوں کی طرح پالا ہے اکبر کو پھپھی نے
 لاشے پہ عبا خیموں سے پہلے ہی اڑھانا
+بابا پھوپی امّاں سے میرا زخم چھپانا
 
 ۴
-اس بار شہادت کو اٹھالے گی امامت
-بھای سے چھپانا نہیں اک بھای کی غربت
-سجاد کو تفسیر شہادت کی سنانا
+اس بار شہادت کو اٹھا لے گی امامت
+بھائی سے چھپانا نہیں اک بھائی کی غربت
+سجاد کو تفسیرِ شہادت کی سنانا
+بابا پھوپی امّاں سے میرا زخم چھپانا
 
 ۵
-ممتا انہیں لاشے پہ میرے لاے گی بابا
-بے ساختہ وہ مجھ سے لپٹ جاے گی بابا
+ممتا انہیں لاشے پہ میرے لائے گی بابا
+بے ساختہ وہ مجھ سے لپٹ جائے گی بابا
 ممکن ہو تو لاشے سے انہیں دور ہٹانا
+بابا پھوپی امّاں سے میرا زخم چھپانا
 
 ۶
-جو خاک بھری ہے میرے بالوں سے چھڑادو
+جو خاک بھری ہے میرے بالوں سے چھڑا دو
 چہرے پہ لہو ہے میرے دامن سے ہٹا دو
 وہ ضد جو زیادہ کرے بس چہرہ دکھانا
+بابا پھوپی امّاں سے میرا زخم چھپانا
 
 ۷
 یوں نیزہ ستمگار نے مارا میرے بابا
 پہلو بھی شکستہ ہے ہمارا میرے بابا
-یاد آے گا دادی کا انہیں زخم پرانا
+یاد آئے گا دادی کا انہیں زخم پرانا
+بابا پھوپی امّاں سے میرا زخم چھپانا
 
 ۸
-اس حال میں دے صبر خدا بنت علی کو
+اس حال میں دے صبر خدا بنتِ علی کو
 اکبر کا سلام آخری کہہ دینا پھپھی کو
 زندہ بڑا مشکل ہے میرا خیمے میں جانا
+بابا پھوپی امّاں سے میرا زخم چھپانا
 
 ۹
-ہر بات میری آپ کی بہنوں کے لئے
+ہر بات میری آپ کی بہنوں کے لئے ہے
 بس ایک وصیت میری صغرا کے لئے ہے
-لا کر خط صغرا میرے لاشے پہ سنانا
+لا کر خطِ صغرا میرے لاشے پہ سنانا
+بابا پھوپی امّاں سے میرا زخم چھپانا
 
 ۱۰
 دم توڑتے اکبر کو نہ پہنچے کوئی صدمہ
 منہ پھیر کے یوں روتے ہو معلوم ہے بابا
-پر سامنے سادات کے آنسوں نہ بہانا
+پر سامنے سادات کے آنسو نہ بہانا
+بابا پھوپی امّاں سے میرا زخم چھپانا
 
 ۱۱
 اس آخری ہچکی میں تکلم ہوا محشر
 اکبر نے کہا ہاتھ جو پیشانی پہ رکھ کر
-لو ہمکو اجازت دو ہمیں دور ہے جانا
+لو ہم کو اجازت دو ہمیں دور ہے جانا
+بابا پھوپی امّاں سے میرا زخم چھپانا
