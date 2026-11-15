@@ -122,7 +122,7 @@ romanLyrics: |-
   Paas aakar kahan kya poochti hai ay dukhiya
 
   19
-  Boli ye khwahare shabbir ke ay mard e khuda
+  Boli ye khwahar-e-Shabbir ke ae mard-e-khuda
   Kisi bacche ko to dekha nahi tu ne ye bata
   Tashna lab hai watan awaara hai dikh paye hai
   Choot kar saath se jangal mein chale aaye hai
@@ -351,7 +351,7 @@ romanLyrics: |-
 پاس آ کر کہاں کیا پوچھتی ہے اے دکھیا
 
 ۱۹
-بولی یہ خواہر شبیر کہ اے مرد خدا
+بولی یہ خواہرِ شبیر کہ اے مردِ خدا
 کسی بچے کو تو دیکھا نہیں تو نے بتا
 تشنہ لب ہے وطن آوارہ ہے دکھ پاے ہیں
 چھوٹ کر ساتھ سے جنگل میں چلے آے ہیں
