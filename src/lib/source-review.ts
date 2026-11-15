@@ -163,7 +163,10 @@ export function reviewMarkdown(source: MarkdownSource): ReviewedMarkdown {
       if (fields.title && /[A-Za-z]/u.test(fields.title))
         record(issues, path, 2, "latin-in-urdu-title", "Latin letters in Urdu title");
       checkLines(path, body, bodyLine, "urdu", issues);
-    } else if (fields.direction === "ltr" && (fields.lang === "ur" || fields.lang === "en")) checkLines(path, body, bodyLine, "roman", issues);
+    } else if (fields.direction === "ltr" && (fields.lang === "ur" || fields.lang === "pa"))
+      checkLines(path, body, bodyLine, "roman", issues);
+    else if (fields.language === "English" && fields.lang === "en" && fields.direction === "ltr")
+      checkLines(path, body, bodyLine, "english", issues);
 
     if (isUrdu && !roman?.trim()) record(issues, path, 2, "missing-roman", "No Roman Urdu edition found");
     if (roman !== undefined && romanLine !== undefined) {
