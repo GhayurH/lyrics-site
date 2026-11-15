@@ -1,6 +1,6 @@
 ---
-title: "بیاں کرتا ہوں دربارِ شام کا منظر"
-alternateTitle: "Bayaaṅ Karta Huṅ Darbar-e-Shaam Ka Manzar"
+title: "انا ابنِ مکہ و منیٰ"
+alternateTitle: "Ana ibn-e-Makka o Mina"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -8,7 +8,7 @@ kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Nadeem Sarwar"
 tags: []
-aliases: ["Ana Ibne Makkah", "ana-ibne-makkah", "jis-ka-mimbar-tha-wohi-bar-sar-e-mimbar-aaya"]
+aliases: ["Ana Ibne Makkah", "ana-ibne-makkah"]
 published: true
 romanLyrics: |-
   Bayaaṅ karta huṅ darbar-e-Shaam ka manzar
