@@ -1,38 +1,89 @@
 ---
-title: "Zamin E Aaho Mola Reza"
-language: "Roman Urdu"
+title: "ضامنِ آہو مولا رضا"
+alternateTitle: "Zaamin-e-Aahu Maula Raza"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu"]
-aliases: []
+poet: "Mir Sajjad Mir"
+reciter: "Mir Sajjad Mir"
+tags: ["noImage"]
+aliases: ["Zamin E Aaho Mola Reza", "Zamin e Aaho Mola Reza Mola Reza"]
 published: false
+romanLyrics: |-
+  Zaamin-e-Aahu Maula Raza
+
+  1
+  Ek shikaari jangal tha us ne hirni ko dekha
+  Karne laga us ka pichhaa bhaagna us ne jab chaaha
+  Bhaag nahiṅ paai hirni ho gai qaid wo bechaari
+
+  2
+  Hirni ko wo pakre hue jaane laga phir ghar apne
+  Guzra shikaari us ja se Maula jahaaṅ par baithe the
+
+  3
+  Dekh ke Maula ko hirni karne lagi faryaad apni
+  Kehne lagi Maula mere bachche haiṅ saare bhuke
+
+  4
+  Maula mujhe chhurwaa dije meri zamaanat le lije
+  Aur kahiṅ na jaauṅ gi waada hai aa jaauṅ gi
+
+  5
+  Maula shikaari se bole chhor de mere kehne se
+  Hoga wohi jo kehta huṅ sachchi maaṅ ka beta huṅ
+
+  6
+  Guzri thi kuchh der abhi aa gai waapas wo hirni
+  Dekh ke saare hairaan the saath mein us ke the bachche
+
+  7
+  Chum ke qadmoṅ ko ye kaha shukriya ae Ibn-e-Zahra
+  Mujh ko shikaari ko dije bachche mere khud rakh lije
+
+  8
+  Ro ke shikaari kehne laga chhor diya is ko Maula
+  Ishq mein tere Ibn-e-Ali ye aazaad haiṅ main qaidi
+
+  Pyaare bachcho jab hamaare Imaam ne ek maasum jaanwar ki madad ki to Imaam-e-Rauf aur Zaamin-e-Aahu Imaam hamaari madad kiuṅ nahiṅ kareṅ ge. Aao mil kar dua kareṅ apne aathweṅ Imaam ke huzur ke wo hamaari tamaam mushkilaat ko aasaan farmaaeṅ. Aur ham ko apne darbaar mein jald az jald talab farmaaeṅ (Ilaahi aamin).
 # source_id: tajpoints:7b09ea1ad638a29a1548
 # source_url: https://tajpoints.com/2020/07/zamin-e-aaho-mola-reza-lyrics-in-urdu.html
 # raw_sha256: 00cc40b0cbf3eb995547c64adf83afaa8d26af314a15b8d07c5e18a554405db3
 ---
+ضامنِ آہو مولا رضا
 
-1
-Zamin e Aaho Mola Reza Mola Reza
-Zamin-e-Aaho Maula Raza
-Aik Shikari Jangal Tha Oss Ne Hirni Ko Dekha
-Karne Laga Oss Ka Peecha Bhagna Oss Ne Jab Chaha
-Bhag Nahi Payi Hirni Ho Gayi Qaid Woh Bechari
-Hirni Ko Woh Pakray Hoye Jane Laga Phir Ghar Apne
-Guzra Shikari Oss Ja Se Maula Jahan Par Baithay They
-Dekh Ke Maula Ko Hirni Karne Lagi Faryad Apni
-Kehne Lagi Maula Mere Bachay Hain Sare Bhokay
-Maula Mujhe Churwa Dijay Meri Zamanat Le Lijay
-Our Kahin Na Jaon Gi Wadah Hai Aa Jaon Gi
-Maula Shikari Se Bolay Chor De Mere Kehne Se
-Hoga Wohi Jo Kehta Hoon Sachi Maa Ka Beta Hoon
-Guzri Thi Kuch Dair Abhi Aa Gayi Wapis Woh Hirni
-Dekh Ke Sare Hairaan They Sath Mein Oss Ke They Bachay
-Chom Ke Qadmo Ko Yeh Kaha Shukriya Aye Ibn-e-Zahra
-Mujh Ko Shikari Ko Dijay Bachay Mere Khud Rakh Lijay
-Ro Ke Shikari Kehne Laga Chor Diya Iss Ko Maula
-Ishq Mein Tere Ibn-e-Ali Yeh Aazad Hain Main Qaidi
-Pyaray Bacho Jab Hamarey Imam Ne Aik Masoom Janwar Ki Madad Ki Tu Imam-e-Rauf Our Zamin-e-Aaho Imam Hamari Madad Kyun Nahi Karein Gaue. Aao Mil Kar Dua Karein Apne Aathwein Imam Ke Hazoor Keh Woh Hamari Tamam Mushkilaat Ko Aasan Farmaein. Our Hum Ko Apne Darbar Mein Jald Az Jald Talab Farmaein(Elahi Aameen)
-Poet and Reciter::Mir Sajjad Mir:
-Manqabat Volume::Mir Sajjad Mir 2020-21:
-New Kids Poem
+۱
+ایک شکاری جنگل تھا اس نے ہرنی کو دیکھا
+کرنے لگا اس کا پیچھا بھاگنا اس نے جب چاہا
+بھاگ نہیں پائی ہرنی ہو گئی قید وہ بیچاری
+
+۲
+ہرنی کو وہ پکڑے ہوئے جانے لگا پھر گھر اپنے
+گزرا شکاری اس جا سے مولا جہاں پر بیٹھے تھے
+
+۳
+دیکھ کے مولا کو ہرنی کرنے لگی فریاد اپنی
+کہنے لگی مولا میرے بچے ہیں سارے بھوکے
+
+۴
+مولا مجھے چھڑوا دیجے میری ضمانت لے لیجے
+اور کہیں نہ جاؤں گی وعدہ ہے آ جاؤں گی
+
+۵
+مولا شکاری سے بولے چھوڑ دے میرے کہنے سے
+ہوگا وہی جو کہتا ہوں سچی ماں کا بیٹا ہوں
+
+۶
+گزری تھی کچھ دیر ابھی آ گئی واپس وہ ہرنی
+دیکھ کے سارے حیران تھے ساتھ میں اس کے تھے بچے
+
+۷
+چوم کے قدموں کو یہ کہا شکریہ اے ابنِ زہرا
+مجھ کو شکاری کو دیجے بچے میرے خود رکھ لیجے
+
+۸
+رو کے شکاری کہنے لگا چھوڑ دیا اس کو مولا
+عشق میں تیرے ابنِ علی یہ آزاد ہیں میں قیدی
+
+پیارے بچو جب ہمارے امام نے ایک معصوم جانور کی مدد کی تو امامِ رؤف اور ضامنِ آہو امام ہماری مدد کیوں نہیں کریں گے۔ آؤ مل کر دعا کریں اپنے آٹھویں امام کے حضور کہ وہ ہماری تمام مشکلات کو آسان فرمائیں۔ اور ہم کو اپنے دربار میں جلد از جلد طلب فرمائیں (الٰہی آمین)۔

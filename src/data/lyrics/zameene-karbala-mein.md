@@ -5,32 +5,33 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zameene karbala mein dafn hai gul pairahan kitne
-  Tadap kar mar gaye seene pe iske khastatan kitne
+  Zameen-e-Karbala mein dafn haiṅ gul pairahan kitne
+  Tarap kar mar gaye sine pe is ke khasta tan kitne
 
   1
-  Koi zainab se pooche to masayib kis khadar jhele
-  Uthaye karbala se shaam tak ranj o mehan kitne
+  Koi Zainab se puchhe to masaaib kis qadar jhele
+  Uthaaye Karbala se Shaam tak ranj o mehan kitne
 
   2
-  Raza e shaahe waala tha har ek ek daam zainab ka
-  Zamane mein hai aisay bawafa bhai behan kitne
+  Razaa-e-Shaah-e-Waala tha har ek ek daam Zainab ka
+  Zamaane mein haiṅ aise baawafa bhaai behan kitne
 
   3
-  Pisar zainab ke dono qasim o akbar ali asghar
-  Diye hai karbala ko shahe deen ne gulbadan kitne
+  Pisar Zainab ke donoṅ Qaasim o Akbar Ali Asghar
+  Diye haiṅ Karbala ko Shaah-e-Diṅ ne gul badan kitne
 
   4
-  Fida islam par laakhon huwe tareekh kehti hai
-  Magar hai karbala walon ke jaise bekafan kitne
+  Fidaa Islaam par laakhoṅ hue taarikh kehti hai
+  Magar haiṅ Karbala waaloṅ ke jaise bekafan kitne
 
   5
-  Wo jisme qasim o akbar se gul asghar se ho ghunche
-  Khiza loote hai tune sach bata aise chaman kitne
+  Wo jis mein Qaasim o Akbar se gul Asghar se hoṅ ghunche
+  Khizaaṅ lute haiṅ tuṅ ne sach bata aise chaman kitne
 # source_id: nohayonline:6f8777d8dc887940c495
 # source_url: https://www.nohayonline.com/details_content.php?id=504
 # raw_sha256: b8a8afd5aa671401973ef1fb76a1435c27a43226d1a500ebac88d1fce0705b72

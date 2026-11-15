@@ -6,47 +6,48 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Salamat Feroz"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ek laasha utha hai zanjeer bandhe haathon se
-  Kano se rawan khoon hai jurta bhi jala hai
+  Zanjir bandhe haathoṅ se ek laasha utha hai
+  Kaanoṅ se rawaaṅ khun hai, kurta bhi jala hai
 
   1
-  Ay shimr zara soch kiya zulm hai kis par
-  Ruqsaar nahi warq tha quran ka jis par
-  Haathon se tu ne zulm ka unwaan likha hai
+  Ae Shimr zara soch, kya zulm hai kis par
+  Rukhsaar nahiṅ waraq tha, Quraan ka jis par
+  Haathoṅ se tu ne zulm ka unwaan likha hai
 
   2
-  Dunya ya kisi deen ka qanoon dikhao
-  Ke baap ko rona hai koi jurm batao
-  Sajjad musalmanon se ye pooch raha hai
+  Dunya ya kisi din ka qaanun dikhaao
+  Ke baap ko rona hai koi jurm bataao
+  Sajjad musalmaanoṅ se ye puchh raha hai
 
   3
-  Nazron ke aage baap ki gardan bhi kati ho
-  Khaaye tamache rayt garam par bhi chali ho
-  Is kamsini may itna sitam kis ne saha hai
+  Nazroṅ ke aage baap ki gardan bhi kati ho
+  Khaaye tamaanche ret-e-garam par bhi chali ho
+  Is kamsini mein itna sitam kis ne saha hai
 
   4
-  Us maa ko bhala kaise wo ye laash dikhaye
-  Baithi ho jo pehle hi se asghar ko ganwaye
-  Abid sar e zindan yehi soch raha hai
+  Us maaṅ ko bhala kaise wo ye laash dikhaaye
+  Baithi ho jo pehle hi se Asghar ko ganwaaye
+  Aabid sar-e-zindaan ye hi soch raha hai
 
   5
-  Wo kehti rahi baba ka sar de do khudara
-  Zindan may bane koi to jeene ka sahara
-  Ummat ne tamachon ke siwa kuch na diya hai
+  Wo kehti rahi Baaba ka sar de do khudaara
+  Zindaaṅ mein bane koi to jine ka sahaara
+  Ummat ne tamaanchoṅ ke siwa kuchh na diya hai
 
   6
-  Quran e masayab ki wo masoom si aayat
-  Ghairat ka khuda seene lagaye huwe mayyat
-  Zindan ki dehleez pe khamosh khada hai
+  Quraan-e-masaaib ki wo maasum si aayat
+  Ghairat ka khuda sine lagaaye hue mayyat
+  Zindaan ki dehliz pe khaamosh khara hai
 
   7
-  Ye baat ahle dard hi samjhenge salamat
-  Sajjad ne ta-umr kabhi dekhi na raahat
-  Chalees baras aankhon se bas khoon baha hai
+  Ye baat ahl-e-dard hi samjheṅ ge Salamat
+  Sajjad ne taa umr kabhi dekhi na raahat
+  Chaalis baras aaṅkhoṅ se bas khun baha hai
 # source_id: nohayonline:1747505b92247dffe638
 # source_url: https://www.nohayonline.com/details_content.php?id=2291
 # raw_sha256: c2d403a220eaa422bb9cd2944bb190b6bcfd900020bd9fd72a5dbf11058f6059
@@ -63,8 +64,8 @@ romanLyrics: |-
 ہاتھوں سے تو نے ظلم کا عنوان لکھا ہے
 
 ۲
-دنیا یا کسی دین کا قانون دکھاﺅ
-کہ باپ کو رونا ہے کوئی جرم بتاﺅ
+دنیا یا کسی دین کا قانون دکھاؤ
+کہ باپ کو رونا ہے کوئی جرم بتاؤ
 سجاد مسلمانوں سے یہ پوچھ رہا ہے
 
 ۳

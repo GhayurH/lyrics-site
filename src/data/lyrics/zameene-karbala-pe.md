@@ -6,44 +6,45 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Syeda Naqvi"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zameen e karbala pe dil tadapta chod aaya hoo
-  Gham e shabeer mein rota bilakta chod aaya hoo
+  Zameen-e-Karbala pe dil tarapta chhor aaya huṅ
+  Gham-e-Shabbir mein rota bilakta chhor aaya huṅ
 
   1
-  Mujhe mehsoos hota hai sar e maidan mein jaise
-  Sakina ko andhere mein sisakta chod aaya hoo
+  Mujhe mehsus hota hai sar-e-maidaan mein jaise
+  Sakina ko andhere mein sisakta chhor aaya huṅ
 
   2
-  Zaeefi mein uthaye shaah to laashe ali akbar
-  Kabhi ghirta khabi phir se sambhalta chod aaya hoo
+  Zaifi mein uthaaye Shaah to laashe Ali Akbar
+  Kabhi girta kabhi phir se sambhalta chhor aaya huṅ
 
   3
-  Dhuwan phaila hua har soo tha us shaam e ghariban mein
-  Mai ek bemaar ka bistar dehekta chod aaya hoo
+  Dhuaaṅ phaila hua har suṅ tha shaam-e-gharibaaṅ mein
+  Main ek bimaar ka bistar dehekta chhor aaya huṅ
 
   4
-  Gulu e asghar e baysheer ko haathon pe syed ke
-  Mai ran mein teer e sehpal se ulajta chod aaya hoo
+  Gulu-e-Asghar-e-beshir ko haathoṅ pe Sayyid ke
+  Main ran mein tir seh pal se ulajhta chhor aaya huṅ
 
   5
-  Shabe ghurbat mein maadar doondti thi gumshuda bache
-  Usay tareek jangal mein bhatakta chod aaya hoo
+  Shab-e-ghurbat mein maadar dhundti thi gumshuda bachche
+  Use taarik jangal mein bhatakta chhor aaya huṅ
 
   6
-  Jise maadar ki turbat pe ali shab mein thay le jaate
-  Usay bazaar se din mein guzarta chod aaya hoo
+  Jise maadar ki turbat pe Ali shab mein the le jaate
+  Use baazaar se din mein guzarta chhor aaya huṅ
 
   7
-  Sada halmin ki ab har pal mujhe wapas bulaati hai
-  Ali ke laal ko tanha mai ladta chod aaya hoo
+  Sadaa hal min ki ab har pal mujhe waapas bulaati hai
+  Ali ke laal ko tanha main larta chhor aaya huṅ
 
   8
-  Bohat dushwaar tha karbobala ko alwida kehna
-  Rawan saason ko seene mein atakta chod aaya hoo
+  Bohat dushwaar tha Karbobala ko alwida kehna
+  Rawaaṅ saaṅsoṅ ko sine mein atakta chhor aaya huṅ
 # source_id: nohayonline:9c13ba352e38c3c09be5
 # source_url: https://www.nohayonline.com/details_content.php?id=1585
 # raw_sha256: 147a14e04c089a5c88f0ff054c4a546c4b5f3a8358e48ab8ef520867922ab43b
