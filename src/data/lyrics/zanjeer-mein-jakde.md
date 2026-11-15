@@ -1,77 +1,78 @@
 ---
 title: زنجیر میں جکڑے ہوئے بیمار کا ماتم
-alternateTitle: Zanjeer Mein Jakde
+alternateTitle: Zanjir Mein Jakre
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rasheed Shaheedi"
+reciter: "Hadi Ali Khan Muslim; Mir Rehan Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zanjeer mein jakde huwe bemaar ka matam
-  Hum karte hai karbal ke azadar ka matam
+  Zanjir mein jakre hue bimaar ka maatam
+  Hum karte haiṅ Karbal ke azaadaar ka maatam
 
   1
-  Wo khoon mein dooba hua shabbir ka laasha
-  Be-gor o kafan dhoop mein reti pa pada tha
-  Manzar ye jigar thaam ke sajjad ne dekha
-  Har soo hai bapa ab usi ghamkhwar ka matam
+  Wo khun mein duba hua Shabbir ka laasha
+  Be gor o kafan dhup mein reti pe para tha
+  Manzar ye jigar thaam ke Sajjad ne dekha
+  Har su hai bapa ab usi ghamkhwaar ka maatam
 
   2
-  Sajjad ne dekhe hai ajab dard ke manzar
-  Naizon ki balandi pa shaheedon ke kate sar
-  Maa behne thi bazaron mein be maqna o chadar
-  Shabbir ke maqsad ke madadgaar ka matam
+  Sajjad ne dekhe haiṅ ajab dard ke manzar
+  Naizoṅ ki bulandi pe shahidoṅ ke kate sar
+  Maaṅ behneṅ thi bazaaroṅ mein be maqna o chaadar
+  Shabbir ke maqsad ke madadgaar ka maatam
 
   3
-  Pabande rasan ho gayi kubra ki kalayi
-  Chadar bhi na thi sar pa ghata zulm ki chaayi
-  Ek bewa behan saath thi majboor tha bhai
-  Hai aaj usi bekas o nachaar ka matam
+  Paaband-e-rasan ho gai Kubra ki kalaai
+  Chaadar bhi na thi sar pe ghata zulm ki chhaai
+  Ek bewa behan saath thi majbur tha bhaai
+  Hai aaj usi bekas o naachaar ka maatam
 
   4
-  Rassi mein bandha pyasi sakina ka gala tha
-  Kehti thi mujhe godh mein le lijiye bhaiya
-  Kis tarha se dete usay sajjad dilaasa
-  Hai tauq o salasil ke giraftaar ka matam
+  Rassi mein bandha pyaasi Sakina ka gala tha
+  Kehti thi mujhe god mein le lijiye bhaiya
+  Kis tarah se dete use Sajjad dilaasa
+  Hai tauq o salasil ke giraftaar ka maatam
 
   5
-  Be parda wo na mehramon mein waarise tatheer
-  Wo tauqe giran pehne huwe sabr ki tasweer
-  Aazadi ka paigham sunaati rahi zanjeer
-  Hota hai usi khafela salaar ka matam
+  Be parda wo na mahramoṅ mein waaris-e-tathir
+  Wo tauq-e-giraaṅ pehne hue sabr ki tasvir
+  Aazaadi ka paighaam sunaati rahi zanjir
+  Hota hai usi qaafila saalaar ka maatam
 
   6
-  Paon mein waram pusht par durron ke nashan thay
-  Zakhmi huwe sab raaste jab aabile phoote
-  Bemaar tadapta hi raha zakhme gulu se
-  Hai khafela e sabr ke sardar ka matam
+  Paaoṅ mein waram pusht par durroṅ ke nishaaṅ the
+  Zakhmi hue sab raaste jab aable phute
+  Bimaar tarapta hi raha zakhm-e-gulu se
+  Hai qaafila-e-sabr ke sardaar ka maatam
 
   7
-  Aata kabhi jab saamne sajjad ke pani
-  Yaad aati thi asghar ki usay tashna dahani
-  Tadpaati thi paiham ali akbar ki jawani
-  Aao kare pyason ke azadaar ka matam
+  Aata kabhi jab saamne Sajjad ke paani
+  Yaad aati thi Asghar ki use tishna dahaani
+  Tarpaati thi paiham Ali Akbar ki jawaani
+  Aao kareṅ pyaasoṅ ke azaadaar ka maatam
 
   8
-  Jab poochta koi to ajab hota tha kohraam
-  Toote hai kahan sab se zyada gham o aalaam
-  Dil thaam ke sajjad kaha karte the az-shaam
-  Bazaar ka zindan ka darbar ka matam
+  Jab puchhta koi to ajab hota tha kohraam
+  Tute haiṅ kahaaṅ sab se ziyaada gham o aalaam
+  Dil thaam ke Sajjad kaha karte the Ash-Shaam
+  Baazaar ka zindaan ka darbaar ka maatam
 
   9
-  Roye hai tere gham mein ali aur hassan bhi
-  Tadpe hai tere gham mein shahe tashna dahan bhi
-  Be chain hui fatema sarwar ki behan bhi
-  Matam hai tera ahmad e mukhtar ka matam
+  Roye haiṅ tere gham mein Ali aur Hasan bhi
+  Tarpe haiṅ tere gham mein Shah-e-tishna dahan bhi
+  Bechain hui Fatima Sarwar ki behan bhi
+  Maatam hai tera Ahmad-e-Mukhtaar ka maatam
 
   10
-  Mazloom ke hisse mein bhi zehr e sitam aaya
-  Ek hashr rasheed ahle madine mein tha barpa
-  Lo sogaya islam ke zakhmon ka maseeha
-  Ashkon ki fazaon mein hai bemaar ka matam
+  Mazlum ke hisse mein bhi zahr-e-sitam aaya
+  Ek hashr Rashid ahl-e-Madine mein tha barpa
+  Lo so gaya Islam ke zakhmoṅ ka masiha
+  Ashkoṅ ki fazaaoṅ mein hai bimaar ka maatam
 # source_id: nohayonline:75f5c2be9ecfe3a39cb5
 # source_url: https://www.nohayonline.com/details_content.php?id=2125
 # raw_sha256: 797b2101f6b10cbe60249d63ee80e35d2db0f8a3e9c7fca0274670016ff8fec3
@@ -95,14 +96,14 @@ romanLyrics: |-
 شبیر کے مقصد کے مددگار کا ماتم
 
 ۳
-پابند رسن ہو گیء کبرا کی کلای
-چادر بھی نہ تھی سر پہ گھٹا ظلم کی چھای
+پابند رسن ہو گئی کبرا کی کلائی
+چادر بھی نہ تھی سر پہ گھٹا ظلم کی چھائی
 ایک بیوہ بہن ساتھ تھی مجبور تھا بھائی
 ہے آج اسی بیکس و ناچار کا ماتم
 
 ۴
-رسی میں باندھا پیاسی سکینہ کا گلا تھا
-کہتی تھی مجھے گود میں لے لیجیئے بھیا
+رسی میں بندھا پیاسی سکینہ کا گلا تھا
+کہتی تھی مجھے گود میں لے لیجیے بھیا
 کس طرح سے دیتے اسے سجاد دلاسہ
 ہے طوق و سلاسل کے گرفتار کا ماتم
 
@@ -114,26 +115,26 @@ romanLyrics: |-
 
 ۶
 پاؤں میں ورم پشت پر دروں کے نشاں تھے
-زخمی ہوئے سب راستہ جب آبلے پھوٹے
+زخمی ہوئے سب راستے جب آبلے پھوٹے
 بیمار تڑپتا ہی رہا زخم گلو سے
 ہے قافلہء صبر کے سردار کا ماتم
 
 ۷
-آتا کبھی جب جب سامنے سجاد کے پانی
-یاد آتی ہے اصغر کی اسے تشنہ دہانی
+آتا کبھی جب سامنے سجاد کے پانی
+یاد آتی تھی اصغر کی اسے تشنہ دہانی
 تڑپاتی تھی پیہم علی اکبر کی جوانی
-آؤ کرے پیاسوں کے عزادار کا ماتم
+آؤ کریں پیاسوں کے عزادار کا ماتم
 
 ۸
-جب پوچھا کوی تو عجب ہوتا تھا کہرام
-ٹوٹے ہے کہاں سب سے ذیادہ غم و آلام
+جب پوچھتا کوئی تو عجب ہوتا تھا کہرام
+ٹوٹے ہیں کہاں سب سے زیادہ غم و آلام
 دل تھام کے سجاد کہا کرتے تھے الشام
-بازار کے زندان کا دربار ماتم
+بازار کا زندان کا دربار کا ماتم
 
 ۹
-روے ہیں تیرے غم میں علی اور حسن بھی
+روئے ہیں تیرے غم میں علی اور حسن بھی
 تڑپے ہیں تیرے غم میں شہ تشنہ دہن بھی
-بے چین ہوی فاطمہ سرور کی بہن بھی
+بے چین ہوئی فاطمہ سرور کی بہن بھی
 ماتم ہے تیرا احمد مختار کا ماتم
 
 ۱۰

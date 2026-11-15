@@ -1,59 +1,62 @@
 ---
-title: "زرا آہستہ چل"
+title: "ذرا آہستہ چل"
 alternateTitle: "Zara Aahista Chal"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Salman"
+reciter: "Mir Mohsin Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Zara aahista chal
-  Maqtal ki taraf ay ahmed ki tasveer
-  Ay sura e yusuf ki roshan tafseer
+
+  Maqtal ki taraf ae Ahmad ki tasvir
+  Ae sura-e-Yusuf ki roshan tafsir
 
   1
-  Qaimon ki taraf aada jo badhe
-  Ghutno se lage chalne sarwar
-  Zakhmon ki chuban ne thaam liya shabbir
+  Khaimoṅ ki taraf aada jo barhe
+  Ghutnoṅ se lage chalne Sarwar
+  Zakhmoṅ ki chubhan ne thaam liya Shabbir
 
   2
-  Seene pe mere sone waali
-  Reh jaaye na peeche manzil se
-  Aati thi bureeda sar se sada hamsheer
+  Sine pe mere sone waali
+  Reh jaaye na pichhe manzil se
+  Aati thi burida sar se sada hamshir
 
   3
-  Jab thokar khaa kar girte thay
-  Awaaz mina se aati thi
-  Ay khwab e khaleel e daawar ki tabeer
+  Jab thokar khaa kar girte the
+  Aawaaz Mina se aati thi
+  Ae khwaab-e-Khalil-e-Daawar ki taabir
 
   4
-  Ek zarb e tabassum se tera
-  Maidan se mita sakta hoo nishan
-  Mai sher e khuda ka pota hoo ay teer
+  Ik zarb-e-tabassum se tera
+  Maidaaṅ se mita sakta huṅ nishaaṅ
+  Main Sher-e-Khuda ka pota huṅ ae tir
 
   5
-  Ye qissa e husn o ishq nahi
+  Ye qissa-e-husn o ishq nahiṅ
   Salman ye gham ka daftar hai
-  Mohsin ye qalam se kehti hai tehreer
+  Mohsin ye qalam se kehti hai tahrir
 # source_id: nohayonline:ca9dda73e4e93c07cfe9
 # source_url: https://www.nohayonline.com/details_content.php?id=2483
 # raw_sha256: 9f7a00ad023581eedf396113051d05dff677d5facf698d501d22cd11faab10b0
 ---
-زرا آہستہ چل
+ذرا آہستہ چل
+
 مقتل کی طرف اے احمد کی تصویر
 اے سورہء یوسف کی روشن تفسیر
 
 ۱
 خیموں کی طرف اعدا جو بڑھے
 گھٹنوں سے لگے چلنے سرور
-زخموں کی چھبھن نے تھام لیا شبیر
+زخموں کی چبھن نے تھام لیا شبیر
 
 ۲
 سینے پہ میرے سونے والی
-رو جاے نہ پیچھے منزل سے
+رہ جائے نہ پیچھے منزل سے
 آتی تھی بریدہ سر سے صدا ہمشیر
 
 ۳
