@@ -6,98 +6,105 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Hilal"
+reciter: "Mesum Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shaahe khurasan waarise quran ya maula raza jaan
+  Shaah-e-Khurasaaṅ waaris-e-Quraaṅ ya Maula Raza jaan
+
+  Ye sahn-e-Shifa hai aur lab pe dua hai
+  Darbaan banuṅ main bhi kar dijiye ehsaaṅ
 
   1
-  Ye sehn e shifa hai aur lab pe dua hai
-  Darbaan banun mai bhi kar dijiye ehsaan
   Jab dar pe tere aaye bala tal gayi maula
-  Ek hirz e elaahi hai tera naam bhi maula
-  Hum log salamat hai tere dum se hi maula
-  Shahe mashhad tera hai saron par saaya
-  Kis baat ka darr hum ko jan tu hai nigehban
+  Ek hirz-e-Ilaahi hai tera naam bhi maula
+  Ham log salaamat haiṅ tere dam se hi maula
+  Shaah-e-Mashhad tera hai saroṅ par saaya
+  Kis baat ka dar ham ko jaan tu hai nigehbaan
 
   2
-  Maqrooz e karam hai tere dar ka ye zamana
+  Maqruz-e-Karam hai tere dar ka ye zamaana
   Hai teri sakhawat ka sakhawat mein bhi charcha
-  Iran hi kya khaati hai dunya tera sadqa
+  Iran hi kya khaati hai duniya tera sadqa
   Tere darbar talak maangne aaye malak
   Khaaliq ne tere ghar ko bakhshi hai alag shaan
 
   3
-  Masooma e qum ki qasam aejaz dekha do
-  Tum khwaab mein hi apna deedar kara do
+  Maasuma-e-Qum ki qasam ejaaz dikha do
+  Tum khwaab mein hi apna didaar kara do
   Rukhsaar mere qabr ki jaali se laga do
-  Noor e ain e musa mere aaqa maula
-  Faryaad meri sunlo mai tumpe hoon qurban
+  Nur-e-Ain-e-Musa mere aaqa maula
+  Faryaad meri sun lo main tum pe huṅ qurbaan
+
+  Ye sahn-e-Shifa hai aur lab pe dua hai
+  Darbaan banuṅ main bhi kar dijiye ehsaan
 
   4
-  Jo ishq hai tujhse usi inaam ka sikka
-  Hai zaamin e aahu ye bade kaam ka sikka
+  Jo ishq hai tujh se usi inaam ka sikka
+  Hai zaamin-e-Aahu ye bare kaam ka sikka
   Baazu pe jo baandha hai tere naam ka sikka
-  Surat e naade ali hai asr is ka bhi
-  Mushkil ho safar jitna kar dete ho asaan
+  Surat-e-Naad-e-Ali hai asar is ka bhi
+  Mushkil ho safar jitna kar dete ho aasaan
 
   5
-  Tum toos ke madfoon shahenshah e ajam ho
-  Tum saare zaaane pe hi maail ba karam ho
-  Sarkar tum hi khaak nasheeno ka bharam ho
-  Ya mughees as shia tum ho wo darwaza
-  Bakshish ka banaya hai rab ne jise meezan
-  Maula raza maula raza maula raza
+  Tum Tus ke madfun shaahanshaah-e-Ajam ho
+  Tum saare zamaane pe hi maail ba karam ho
+  Sarkaar tum hi khaak nashinoṅ ka bharam ho
+  Ya Mughis ash Shia tum ho wo darwaaza
+  Bakhshish ka banaaya hai Rab ne jise mizaaṅ
+
+  Maula Raza Maula Raza Maula Raza
 
   6
-  Salaamalaika ya ghareebul watan ghareeb imam
-  Salaam aap pe ay dilbare rasool e anaam
-  Salaam aap pe syed rauf shaah e zaman
-  Salaam aap pe pursaane haal e khastaye tan
-  Salaam aap pe ay sogware karbobala
-  Salaam aap pe ay beqarar o karb zada
-  Salaamalaika anees an nafoos ya maula
-  Salaam aap pe shams as shamoos ya maula
-  Salaam maula raza
+  Salaam alaika ya Gharibul Watan Gharib Imam
+  Salaam aap pe ae dilbar-e-Rasul-e-Anaam
+  Salaam aap pe Sayyid Rauf shaah-e-Zamaaṅ
+  Salaam aap pe pursaan-e-Haal-e-Khasta-e-Tan
+  Salaam aap pe ae sogwaar-e-Karb o Bala
+  Salaam aap pe ae beqaraar o karb zada
+  Salaam alaika Anis an Nufus ya maula
+  Salaam aap pe Shams ash Shumus ya maula
+  Salaam Maula Raza
 
   7
-  Monis ho zaeefon ke moeen uz zuafa ho
-  Haami ho ghareebon ke ghareebul ghuraba ho
-  Tum bhi to azadar e qateelal abara ho
-  Har ghadi har lamha rahe mehwe girya
-  Tum ne bhi rahe haq mein sab kar diya qurban
+  Monis ho zaifoṅ ke Muin uz Zuafa ho
+  Haami ho ghariboṅ ke Gharibul Ghuraba ho
+  Tum bhi to azaadaar-e-Qatilal Abra ho
+  Har ghari har lamha rahe mahw-e-Girya
+  Tum ne bhi raah-e-Haq mein sab kar diya qurbaaṅ
 
   8
-  Mamoon layeen ne ye ajab zulm kiya hai
-  Angoor mein maula ko mere zehr diya hai
-  Neela hai badan paas bohat waqte qaza hai
-  Dard ka aalam hai har taraf matam hai
-  Bechainiya badhti han kuch pal ke hai mehman
+  Maamun laiṅ ne ye ajab zulm kiya hai
+  Angur mein maula ko mere zehr diya hai
+  Nila hai badan paas bohat waqt-e-Qaza hai
+  Dard ka aalam hai har taraf maatam hai
+  Bechainiyaaṅ barhti hai kuchh pal ke hai mehmaaṅ
 
   9
-  Bibi koi thaame huwe pehlu e shakista
-  Ro ro ke khurasan mai padti hai ye nauha
-  Aulaad e payambar ka hai dushman ye zamana
-  Haal shabbar sa hua khoon ugalta hai raza
-  Phir aaj hua mera pardes mein nuqsan
+  Bibi koi thaame hue pahlu-e-Shikasta
+  Ro ro ke Khurasaan mein parhti hai ye noha
+  Aulaad-e-Payambar ka hai dushman ye zamaana
+  Haal Shabbar sa hua khuṅ ugalta hai Raza
+  Phir aaj hua mera pardes mein nuqsaaṅ
 
   10
-  Ay mir hilal aaj bhi daawa hai ye mohkam
-  Har saahib e irfan ko maloom hai mesum
-  Ay saakin e mashad teri matti mein hai aalam
-  Wajd mein rehta hoon jab ali kehta hoon
-  Phir khatm kiya maine dil kehta hai quran
+  Ae Mir Hilal aaj bhi daawa hai ye mohkam
+  Har saahib-e-Irfaan ko maalum hai Mesum
+  Ae saakin-e-Mashhad teri mitti mein hai aalam
+  Wajd mein rehta huṅ jab Ali kehta huṅ
+  Phir khatm kiya main ne dil kehta hai Quraaṅ
 # source_id: nohayonline:63848a873ec878815a7a
 # source_url: https://www.nohayonline.com/details_content.php?id=3679
 # raw_sha256: f66c415dc1981784f6c5994cc1c01034b2dadf4bde94de5b74ff33b7080d63fb
 ---
 شاہ خراساں وارث قرآں یا مولا رضا جان
 
-۱
 یہ صحن شفا ہے اور لب پہ دعا ہے
-دربان بنوں میں بھی کر دیجیۓ احساں
-جب در پہ تیرے آے بلا ٹل گیء مولا
+دربان بنوں میں بھی کر دیجیے احساں
+
+۱
+جب در پہ تیرے آئے بلا ٹل گئی مولا
 ایک حرز الہی ہے تیرا نام مولا
 ہم لوگ سلامت ہیں تیرے دم سے ہی مولا
 شاہِ مشہد تیرا ہے سروں پر سایہ
@@ -107,7 +114,7 @@ romanLyrics: |-
 مقروض کرم ہے تیرے در کا یہ زمانہ
 ہے تیری سخاوت کا سخاوت میں بھی چرچہ
 ایران ہی کیا کھاتی ہے دنیا تیرا صدقہ
-تیرے دربار تلک مانگنے آے ملک
+تیرے دربار تلک مانگنے آئے ملک
 خالق نے تیرے گھر کو بخشی الگ شان
 
 ۳
@@ -117,19 +124,23 @@ romanLyrics: |-
 نور عین موسیٰ میرے آقا مولا
 فریاد میری سن لو میں تم پہ ہوں قربان
 
+یہ صحنِ شفا ہے اور لب پہ دعا ہے
+دربان بنوں میں بھی کر دیجیے احسان
+
 ۴
 جو عشق ہے تجھ سے اسی انعام کا سکہ
 ہے ضامن آہو یہ بڑے کام کا سکہ
-بازو پہ جو باندھا ہے تیرے نام‌ کا سکہ
+بازو پہ جو باندھا ہے تیرے نام کا سکہ
 صورت ناد علی ہے اثر اس کا بھی
 مشکل ہو سفر جتنا کر دیتے ہو آسان
 
 ۵
-تم طوس کے مدفون شاہنشاہ اجم ہو
-تم سارے زمانے پہ ہی مایل بہ کرم ہو
+تم طوس کے مدفون شاہنشاہ عجم ہو
+تم سارے زمانے پہ ہی مائل بہ کرم ہو
 سرکار تم ہی خاک نشینوں کا بھرم ہو
 یہ مغیش الشیعہ تم ہو وہ دروازہ
 بخشش کا بنایا ہے رب نے جسے میزاں
+
 مولا رضا مولا رضا مولا رضا
 
 ۶
@@ -151,21 +162,21 @@ romanLyrics: |-
 تم نے بھی رہے حق میں سب کر دیا قرباں
 
 ۸
-مامون‌ لعیں نے یہ عجب ظلم کیا ہے
+مامون لعیں نے یہ عجب ظلم کیا ہے
 انگور میں مولا کو میرے زہر دیا ہے
 نیلا ہے بدن پاس بہت وقت قضاء ہے
 درد کا عالم ہے ہر طرف ماتم ہے
 بے چینیاں بڑھتی ہے کچھ پل کے ہے میہماں
 
 ۹
-بی بی کوی تھامے ہوئے پہلوے شکستہ
+بی‌بی کوئی تھامے ہوئے پہلوئے شکستہ
 رو رو کے خراسان میں پڑھتی ہے یہ نوحہ
 اولاد پیمبر کا ہے دشمن یہ زمانہ
 حال شبر سا ہوا خوں اگلتا ہے رضا
 پھر آج ہوا میرا پردیس میں نقصاں
 
 ۱۰
-اے میر ہلال آج بھی دعوہ ہے یہ محکم
+اے میر ہلال آج بھی دعویٰ ہے یہ محکم
 ہر صاحبِ عرفان کو معلوم ہے میثم
 اے ساکن مشہد تیری مٹی میں ہے عالم
 وجد میں رہتا ہوں جب علی کہتا ہوں

@@ -6,78 +6,79 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shehre madina mein phir hogaya mehshar bapa
-  Aaya hai ghar laut kar ujda hua khafila
+  Shehr-e-Madina mein phir ho gaya mahshar bapa
+  Aaya hai ghar laut kar ujra hua qaafila
+  Lut gayi Aal-e-Nabi bas gayi Karb o Bala
+  Gunjta hai farsh se arsh talak marsiya
 
   1
-  Lut gayi aale nabi bas gayi karbobala
-  Goonjta hai farsh se arsh talak marsiya
   Ya madinato jaddena la takbaleena
-  Ya mustafa haye ya mustafa
+  Ya Mustafa haaye ya Mustafa
 
   2
-  Hazrate kulsoom ke bain bhi kya bain hai
-  Roti hai ummul baneen fatema bechain hai
-  Zer e lehed ghamzada sayyed e kaunain hai
-  Aaj mazaar e nabi ban gaya maam kadha
+  Hazrat-e-Kulsum ke bain bhi kya bain hai
+  Roti hai Ummul Banin Fatima bechain hai
+  Zer-e-lahad ghamzada Sayyid-e-Kaunain hai
+  Aaj mazaar-e-Nabi ban gaya maam karha
 
   3
-  Haye jo ruqsat mein tha aaj wo manzar nahi
-  Farwa hai qasim nahi laila hai akbar nahi
-  Ujdi hui godh hai maa hai to asghar nahi
-  Poochegi sughra agar usko bataungi kya
+  Haaye jo rukhsat mein tha aaj wo manzar nahiṅ
+  Farwa hai Qaasim nahiṅ Laila hai Akbar nahiṅ
+  Ujri hui god hai, maaṅ hai to Asghar nahiṅ
+  Puchhegi Sughra agar us ko bataauṅgi kya
 
   4
-  Bichde huon se galay milna to dastoor hai
-  Ek musafir magar dard se majboor hai
-  Durron ki bauchaar se saara badan choor hai
-  Aaye hai milne chacha kya kare zainul leba
+  Bichhre huoṅ se gale milna to dastur hai
+  Ek musaafir magar dard se majbur hai
+  Durroṅ ki bauchhaar se saara badan chur hai
+  Aaye haiṅ milne chacha kya kare Zainul Aba
 
   5
-  Milne sakina se sab aayi hai hum jholiyan
-  Bibiyan khamosh hai goonjti hai siskiyan
-  Hazrate sughra udhar lene lagi hichkiyan
-  Kaun bataye bhala dard bhara maajera
+  Milne Sakina se sab aayi hai hamjoliyaaṅ
+  Bibiyaaṅ khaamosh haiṅ gunjti hai siskiyaaṅ
+  Hazrat-e-Sughra udhar lene lagi hichkiyaaṅ
+  Kaun bataaye bhala dard bhara maajra
 
   6
-  Dasht mein kaate gaye khushk galay kis tarha
-  Kis tarha kadki kamaan teer chale kis tarha
-  Kaise ridayein chini qaime jale kis tarha
-  Abid e bemaar ki aankhon mein hai sab likha
+  Dasht mein kaate gaye khushk gale kis tarah
+  Kis tarah karki kamaaṅ tir chale kis tarah
+  Kaise ridaaeṅ chhiniṅ, khaime jale kis tarah
+  Aabid-e-Bimaar ki aankhoṅ mein hai sab likha
 
   7
-  Kaun bataye ye kya guzri hai bazaar mein
-  Kitne tamashayi thay shaam ke darbar mein
-  Majma e aghiyaar mein nargha e kuffar mein
-  Fatema ki betiyan kaisi gayi berida
+  Kaun bataaye ye kya guzri hai baazaar mein
+  Kitne tamaashaai the Shaam ke darbaar mein
+  Majma-e-Aghyaar mein nargha-e-Kuffaar mein
+  Fatima ki betiyaaṅ kaisi gayi berida
 
   8
-  Maadar e abbas ko kaise sunani sunayein
-  Kurta hai shabbir ka nana ko kyunkar dikhayein
-  Marsiya barson ka hai lamhon mein kaise sunayein
-  Ya ali batlaiye kya kare zainab bhala
+  Maadar-e-Abbas ko kaise sunaani sunaayeṅ
+  Kurta hai Shabbir ka naana ko kiunkar dikhaayeṅ
+  Marsiya barsoṅ ka hai lamhoṅ mein kaise sunaayeṅ
+  Ya Ali batlaaiye kya kare Zainab bhala
 
   9
-  Kaun bayan kar sake nayyar o aamir wo bain
-  Chashme tasavvur mein hai aaj bhi wo shor o shain
+  Kaun bayaaṅ kar sake Nayyar o Aamir wo bain
+  Chashm-e-Tasavvur mein hai aaj bhi wo shor o shain
   Kaise ye aansu ruke kaise mile dil ko chain
-  Goonjti hai kaan mein aaj talak wo sada
+  Gunjti hai kaan mein aaj talak wo sada
 # source_id: nohayonline:eb390d3d2056296821dd
 # source_url: https://www.nohayonline.com/details_content.php?id=3600
 # raw_sha256: cf02bed3c8cb565b9c8b93074709dbe52ba66a50002ef0acab63edb8d84ad52f
 ---
 شہر مدینہ میں پھر ہو گیا محشر بپا
 آیا ہے گھر لوٹ کر اجڑا ہوا قافلہ
+لٹ گئی آل نبی بس گئی کربوبلا
+گونجتا ہے فرش سے عرش تلک مرثیہ
 
 ۱
-لٹ گیء آل نبی بس گیء کربوبلا
-گونجتا ہے فرش سے عرش تلک مرثیہ
 یا مدینتہ و جدنا لا تکبلینا
-یا مصطفیٰ ہاے یا مصطفیٰ
+یا مصطفیٰ ہائے یا مصطفیٰ
 
 ۲
 حضرتِ کلثوم کے بین بھی کیا بین ہے
@@ -86,7 +87,7 @@ romanLyrics: |-
 آج مزار نبی بن گیا مام کڑھا
 
 ۳
-ہاے جو رخصت میں تھا آج وہ منظر نہیں
+ہائے جو رخصت میں تھا آج وہ منظر نہیں
 فروہ ہے قاسم نہیں لیلیٰ ہے اکبر نہیں
 اجڑی ہوئی گود ہے، ماں ہے تو اصغر نہیں
 پوچھے گی صغرا اگر اس کو بتاؤں گی کیا
@@ -95,34 +96,34 @@ romanLyrics: |-
 بچھڑے ہوؤں سے گلے ملنا تو دستور ہے
 ایک مسافر مگر درد سے مجبور ہے
 دروں کی بوچھار سے سارا بدن چور ہے
-آے ہیں ملنے چچا کیا کرے زین العباء
+آئے ہیں ملنے چچا کیا کرے زین العباء
 
 ۵
-ملنے سکینہ سے سب آی ہے ہم جولیاں
-بی بیاں خاموش ہیں گونجتی ہے سسکیاں
+ملنے سکینہ سے سب آئی ہے ہم جولیاں
+بی‌بیاں خاموش ہیں گونجتی ہے سسکیاں
 حضرتِ صغرا ادھر لینے لگی ہچکیاں
-کون‌ بتاے بھلا درد بھرا ماجرا
+کون بتائے بھلا درد بھرا ماجرا
 
 ۶
-دشت میں کاٹے گےء خشک گلے کس طرح
+دشت میں کاٹے گئے خشک گلے کس طرح
 کس طرح کڑکی کماں تیر چلے کس طرح
 کیسے ردائیں چھنیں، خیمے جلے کس طرح
 عابد بیمار کی آنکھوں میں ہے سب لکھا
 
 ۷
-کون بتاے یہ کیا گزری ہے بازار میں
+کون بتائے یہ کیا گزری ہے بازار میں
 کتنے تماشائی تھے شام کے دربار میں
 مجمعہء اغیار میں نرغہء کفار میں
-فاطمہ کی بیٹیاں کیسی گیء بے ردا
+فاطمہ کی بیٹیاں کیسی گئی بے ردا
 
 ۸
-مادر عباس کو کیسے سنانی سناییں
+مادر عباس کو کیسے سنانی سنائیں
 کرتا ہے شبیر کا نانا کو کیونکر دکھائیں
 مرثیہ برسوں کا ہے لمحوں میں کیسے سنائیں
-یا علی بتلایےء کیا کرے زینب بھلا
+یا علی بتلائیے کیا کرے زینب بھلا
 
 ۹
 کون بیاں کر سکے نیر و عامر وہ بین
 چشمِ تصور میں ہے آج بھی وہ شور و شین
-کیسے یہ آنسوں رکے کیسے ملے دل کو چین
+کیسے یہ آنسو رکے کیسے ملے دل کو چین
 گونجتی ہے کان میں آج تلک وہ صدا
