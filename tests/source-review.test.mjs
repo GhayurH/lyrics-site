@@ -255,3 +255,55 @@ test("Roman ṅ is the sole accepted Latin diacritic, including in Roman metadat
     text: raw.replaceAll("ṅ", "ā") });
   assert(disallowed.issues.some(x => x.code.includes("extended-latin")));
 });
+
+
+test("English nohas remain English originals without Roman Urdu requirements", async () => {
+  const { readFile } = await import("node:fs/promises");
+  for (const filename of [
+    "heart-of-hussain.md",
+    "karbala-karbala-english.md",
+    "the-one-and-only-hussain.md",
+  ]) {
+    const path = "src/data/lyrics/" + filename;
+    const text = await readFile(new URL("../" + path, import.meta.url), "utf8");
+    const result = reviewMarkdown({ path, kind: "lyrics", text });
+    assert.equal(result.fields.language, "English");
+    assert.equal(result.fields.lang, "en");
+    assert.equal(result.fields.direction, "ltr");
+    assert.equal(result.roman, undefined);
+    for (const forbidden of [
+      "missing-roman", "roman-name-style", "roman-repeat-notation",
+      "arabic-in-roman", "extended-latin-in-roman",
+    ]) {
+      assert(!result.issues.some(issue => issue.code === forbidden),
+        filename + " should not be linted as Roman Urdu: " + forbidden);
+    }
+  }
+});
+
+test("Roman Panjabi is language pa, not Roman Urdu or a missing Urdu edition", async () => {
+  const { readFile } = await import("node:fs/promises");
+  const filename = "uth-nana-mere-dard-wandaa-main-veer-kuha-k-ai-han.md";
+  const path = "src/data/lyrics/" + filename;
+  const text = await readFile(new URL("../" + path, import.meta.url), "utf8");
+  const result = reviewMarkdown({ path, kind: "lyrics", text });
+  assert.equal(result.fields.language, "Panjabi");
+  assert.equal(result.fields.lang, "pa");
+  assert.equal(result.fields.direction, "ltr");
+  assert.equal(result.roman, undefined);
+  assert(!result.issues.some(issue => issue.code === "missing-roman"));
+  assert(!result.issues.some(issue => issue.code === "stanza-order"));
+});
+
+test("Balti source has a manually numbered Roman edition without Arabic script contamination", async () => {
+  const { readFile } = await import("node:fs/promises");
+  const filename = "abbas-alamdar-balti.md";
+  const path = "src/data/lyrics/" + filename;
+  const text = await readFile(new URL("../" + path, import.meta.url), "utf8");
+  const result = reviewMarkdown({ path, kind: "lyrics", text });
+  assert.equal(result.fields.language, "Balti");
+  assert.equal(result.fields.lang, "bft");
+  assert(result.roman?.includes("Abbas Abbas Alamdar"));
+  assert.deepEqual([...result.roman.matchAll(/^\d+$/gm)].map(m => Number(m[0])), [1,2,3,4]);
+  assert(!result.issues.some(issue => issue.code === "arabic-in-roman"));
+});
