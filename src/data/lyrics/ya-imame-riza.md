@@ -1,71 +1,74 @@
 ---
 title: "یا امام رضا"
-alternateTitle: "Ya Imame Riza"
+alternateTitle: "Ya Imam-e-Riza"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Salman Azmi"
+reciter: "Mesum Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ya imame riza
-  Ay ghareebul watan ya imame riza
-  Waarise bekafan ya imame riza
+  Ya Imam-e-Riza
+
+  Ae Gharib-ul-Watan ya Imam-e-Riza
+  Waaris-e-Bekafan ya Imam-e-Riza
 
   1
-  Haye sitam zeher ka dono sehkar gaye
-  Bil yaqeen laadle dono zehra ke thay
-  Ek imame hassan ya imame riza
+  Haae sitam zeher ka donoṅ seh kar gaye
+  Bil-yaqiṅ laadle donoṅ Zehra ke the
+  Ik Imam-e-Hasan ya Imam-e-Riza
 
   2
-  Shaahe karbobala se ye nisbat teri
-  Unke laashe pe bhi tere laashe pe bhi
-  Ro na paayi behen ya imame riza
+  Shaah-e-Karbobala se ye nisbat teri
+  Un ke laashe pe bhi tere laashe pe bhi
+  Ro na paayi behen ya Imam-e-Riza
 
   3
-  Tere baba ka taboot uth na saka
-  Pul pe baghdad ke laasha rakha raha
-  Tha kafan pairahan ya imame riza
+  Tere baaba ka taabut uth na saka
+  Pul pe Baghdad ke laasha rakha raha
+  Tha kafan pairahan ya Imam-e-Riza
 
   4
-  Jo chubhan tere seene mein thi zeher ki
-  Ab bhi mehsoos karte hai wo matami
-  Apne dil mein chubhan ya imame riza
+  Jo chubhan tere sine meiṅ thi zeher ki
+  Ab bhi mehsus karte haiṅ wo maatami
+  Apne dil meiṅ chubhan ya Imam-e-Riza
 
   5
-  Ay bine sayyeda ay bine murtaza
-  Mushkilon mein hamein hai tera aasra
-  Baadshahe zaman ya imame riza
+  Ae bin-e-Sayyeda ae bin-e-Murtaza
+  Mushkiloṅ meiṅ hameiṅ hai tera aasra
+  Baadshaah-e-Zaman ya Imam-e-Riza
 
   6
-  Haq e ajdaad ko tujhse cheena gaya
-  Haye madina tera tujhse chudwa diya
-  Ay aseer e mehan ya imame riza
+  Haq-e-Ajdaad ko tujh se chhina gaya
+  Haae Madina tera tujh se chhurwa diya
+  Ae asir-e-mehan ya Imam-e-Riza
 
   7
-  Jaaye salman o mesum khurasan mein
-  Tere rauze pe jaa kar ye nauha padhe
-  Dede izn e sukhan ya imame riza
+  Jaae Salman o Mesum Khuraasaan meiṅ
+  Tere rauze pe jaa kar ye nauha parhe
+  De de izn-e-sukhan ya Imam-e-Riza
 # source_id: nohayonline:f999072b75a558706410
 # source_url: https://www.nohayonline.com/details_content.php?id=2524
 # raw_sha256: 033785f1f57c9d33655f0f7b9432d35e04271afcda15f62073f17d395fbb50f8
 ---
 
 یا امام رضا
+
 اے غریب الوطن یا امام رضا
 وارث بیکفن یا امام رضا
 
 ۱
-ہاے ستم زہر کا دونو سہہ کر گےء
+ہائے ستم زہر کا دونوں سہہ کر گئے
 بالیقیں لاڈلے دونوں زہرا کے تھے
 اک امام حسن یا امام رضا
 
 ۲
 شاہ کربوبلا سے یہ نسبت تیری
 ان کے لاشے پہ بھی تیرے لاشے پہ بھی
-رو نہ پای بہن یا امام رضا
+رو نہ پائی بہن یا امام رضا
 
 ۳
 تیرے بابا کا تابوت اٹھ نہ سکا
@@ -73,21 +76,21 @@ romanLyrics: |-
 تھا کفن پیرہن یا امام رضا
 
 ۴
-جو چھبھن تیرے سینے میں تھی زہر کی
+جو چبھن تیرے سینے میں تھی زہر کی
 اب بھی محسوس کرتے ہیں وہ ماتمی
-اپنے دل میں چھبھن یا امام رضا
+اپنے دل میں چبھن یا امام رضا
 
 ۵
 اے بن سیدہ اے بن مرتضیٰ
-مشکلوں میں ہمارے ہے تیرا آسرا
+مشکلوں میں ہمیں ہے تیرا آسرا
 بادشاہ زمن یا امام رضا
 
 ۶
 حق اجداد کو تجھ سے چھینا گیا
-ہاے مدینہ تیرا تجھ سے چھڑوا دیا
+ہائے مدینہ تیرا تجھ سے چھڑوا دیا
 اے اسیر محن یا امام رضا
 
 ۷
-جاے سلمان و میثم خراسان میں
+جائے سلمان و میثم خراسان میں
 تیرے روضے پہ جا کر یہ نوحہ پڑھے
-دیدے اذن سخن یا امام رضا
+دے دے اذن سخن یا امام رضا

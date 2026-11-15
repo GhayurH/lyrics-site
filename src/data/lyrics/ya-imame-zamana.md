@@ -1,10 +1,11 @@
 ---
 title: "العجل العجل العجل العجل"
-alternateTitle: "Ya Imame Zamana"
+alternateTitle: "Ya Imam-e-Zamana"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -12,52 +13,52 @@ romanLyrics: |-
   Al ajal al ajal al ajal al ajal
 
   1
-  Sun raha hoon sada aa hi jaunga magar
-  Dil mein jadh ka gham liye mai
-  Parda e ghaibat mein hoon
+  Sun raha huṅ sada aa hi jaauṅ ga magar
+  Dil meiṅ jad ka gham liye main
+  Parda-e-ghaibat meiṅ huṅ
+  Ya Imam-e-Zamana ya Imam-e-Zamana
 
   2
-  Ya imame zamana ya imame zamana
-  Inteqam e karbala ho
-  Parda e ghaibat uthe
-  Aas ye har dam liye mai
-  Parda e ghaibat mein hoon
+  Inteqaam-e-Karbala ho
+  Parda-e-ghaibat uthe
+  Aas ye har dam liye main
+  Parda-e-ghaibat meiṅ huṅ
 
   3
-  Har shaheed e karbala pe
+  Har shahid-e-Karbala pe
   Girya karne ke liye
-  Ashke khoon ka nam liye mai
-  Parda e ghaibat mein hoon
+  Ashk-e-khuṅ ka naam liye main
+  Parda-e-ghaibat meiṅ huṅ
 
   4
-  Daadi zahra jin se barham
-  Thi unhi ke waaste
-  Jazba e barham liye mai
-  Parda e ghaibat mein hoon
+  Daadi Zahra jis se barham
+  Thi unhiṅ ke waaste
+  Jazba-e-barham liye main
+  Parda-e-ghaibat meiṅ huṅ
 
   5
-  Jo kata ke haath ghazi ne
-  Nahi jhukne diya
-  Deen ka parcham liye mai
-  Parda e ghaibat mein hoon
+  Jo kata ke haath Ghaazi ne
+  Nahiṅ jhukne diya
+  Din ka parcham liye main
+  Parda-e-ghaibat meiṅ huṅ
 
   6
-  Tishnangi masoom zahra ki
+  Tishnagi maasum-e-Zahra ki
   Mitaane ke liye
-  Aabe chashme nam liye mai
-  Parda e ghaibat mein hoon
+  Aab-e-chashm-e-nam liye main
+  Parda-e-ghaibat meiṅ huṅ
 
   7
-  Chadare zainab ke gham mein
-  Har ghadi sar peet'te
-  Eesa o adam liye mai
-  Parda e ghaibat mein hoon
+  Chaadar-e-Zainab ke gham meiṅ
+  Har ghari sar pitte
+  Isa o Aadam liye main
+  Parda-e-ghaibat meiṅ huṅ
 
   8
-  Cheer daale jis sina ne
-  Meri do maaon ke dil
-  Zakhm wo paiham liye mai
-  Parda e ghaibat mein hoon
+  Chir daale jis sinaṅ ne
+  Meri do maaoṅ ke dil
+  Zakhm wo paiham liye main
+  Parda-e-ghaibat meiṅ huṅ
 # source_id: nohayonline:b79e1bb1edb1a139c67c
 # source_url: https://www.nohayonline.com/details_content.php?id=3247
 # raw_sha256: 126675fe90a016ae5a219216f67aefcfd3a0ace98d11a0a37720660b8ffb24c3
@@ -67,47 +68,47 @@ romanLyrics: |-
 ۱
 سن رہا ہوں صدا آ ہی جاؤں گا مگر
 دل میں جد کا غم لئے میں
-پردہء غیبت میں ہوں
+پردۂ غیبت میں ہوں
+یا امام زمانہ یا امام زمانہ
 
 ۲
-یا امام زمانہ یا امام زمانہ
 انتقام کربلا ہو
-پردہء غیبت اٹھے
-آس یہ ہر دم لیےء میں
-پردہء غیبت میں ہوں
+پردۂ غیبت اٹھے
+آس یہ ہر دم لیے میں
+پردۂ غیبت میں ہوں
 
 ۳
 ہر شہید کربلا پہ
 گریہ کرنے کے لئے
-اشک خوں کا نام لیےء میں
-پردہء غیبت میں ہوں
+اشک خوں کا نام لیے میں
+پردۂ غیبت میں ہوں
 
 ۴
 دادی زہرا جس سے برہم
 تھی انہیں کے واسطے
-جزبہء برہم لئے میں
-پردہء غیبت میں ہوں
+جذبۂ برہم لئے میں
+پردۂ غیبت میں ہوں
 
 ۵
 جو کٹا کے ہاتھ غازی نے
 نہیں جھکنے دیا
-دین کا پرچم لیےء میں
-پردہء غیبت میں ہوں
+دین کا پرچم لیے میں
+پردۂ غیبت میں ہوں
 
 ۶
 تشنگی معصوم زہرا کی
 مٹانے کے لئے
-آب چشم نم لیےء میں
-پردہء غیبت میں ہوں
+آب چشم نم لیے میں
+پردۂ غیبت میں ہوں
 
 ۷
 چادر زینب کے غم میں
 ہر گھڑی سر پیٹتے
-عیسا و آدم لئے میں
-پردہء غیبت میں ہوں
+عیسیٰ و آدم لئے میں
+پردۂ غیبت میں ہوں
 
 ۸
 چیر ڈالے جس سناں نے
 میری دو ماؤں کے دل
 زخم وہ پیہم لئے میں
-پردہء غیبت میں ہوں
+پردۂ غیبت میں ہوں

@@ -1,69 +1,70 @@
 ---
 title: "یا ہمشیر رضا"
-alternateTitle: "Ya Kareema"
+alternateTitle: "Ya Karima"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ya hamsheer e raza
-  Assalamo alaika ya kareema
+  Ya hamshir-e-Raza
+  Assalaamo alaika ya Karima
 
   1
-  Tera bhai imame zaamin hai
-  Tera baba dar e hawaij hai
+  Tera bhaai Imam-e-Zaamin hai
+  Tera baaba dar-e-hawaaij hai
 
   2
-  Tu ne paaya hai zainabi rutba
-  Kazmi hai hasab nasab tera
-  Hai raza ki riza teri marzi
-  Hai gilaaf e haram tera parda
+  Tu ne paaya hai Zainabi rutba
+  Kaazmi hai hasab nasab tera
+  Hai Raza ki riza teri marzi
+  Hai ghilaaf-e-haram tera parda
 
   3
-  Sar pe ahle kisa ka hai saaya
-  Aap ne naam fatema paaya
-  Aap zeenat hai apne baba ki
-  Aur rakhti hai zainabi lehja
+  Sar pe Ahl-e-Kisa ka hai saaya
+  Aap ne naam Fatema paaya
+  Aap zinat hai apne baaba ki
+  Aur rakhti hai Zainabi lehja
 
   4
-  Tere rauze ko ye sa'adat hai
-  Marqade fatema se nisbat hai
-  Farq do marqadon mein itna hai
-  Wo baqiyya ye qum ki jannat hai
+  Tere rauze ko ye saadat hai
+  Marqad-e-Fatema se nisbat hai
+  Farq do marqadoṅ meiṅ itna hai
+  Wo baqiyya ye Qum ki jannat hai
 
   5
-  Shaahzadi jo tere rauze par
-  Motariz ho rahe hai sajde par
-  Ehteraman hai shukr ka sajda
-  Aur wo bhi khuda ke kehne par
+  Shaahzaadi jo tere rauze par
+  Moatariz ho rahe haiṅ sajde par
+  Ehteraaman hai shukr ka sajda
+  Aur wo bhi Khuda ke kehne par
 
   6
-  Saath dono jahan aate hai
-  Jab bhi wo jamkaraan aate hai
-  Tujhse milne ko tere rauze par
-  Khud imame zamaan aate hai
+  Saath donoṅ jahaan aate haiṅ
+  Jab bhi wo Jamkaraan aate haiṅ
+  Tujh se milne ko tere rauze par
+  Khud Imam-e-Zamaan aate haiṅ
 
   7
-  Pahunchi jo qum ajeeb manzar tha
-  Kaale parcham lage thay har ek jaa
-  Aise matam kiya hai bhai ka
-  Qum ko tu ne banaya karbobala
+  Pahunchi jo Qum ajib manzar tha
+  Kaale parcham lage the har ek jaa
+  Aise maatam kiya hai bhaai ka
+  Qum ko tu ne banaaya Karbobala
 
   8
   Ilm o idraak aagahi de de
-  Misle behlol zindagi de de
-  Naqsh bardaar e zayareen bana
-  Apne rauze pe naukri dede
+  Misl-e-Behlul zindagi de de
+  Naqsh bardaar-e-zaairin bana
+  Apne rauze pe naukri de de
 
   9
-  Hai ye rehaan ki dua bibi
-  Fikre darwesh par nazar ho teri
-  Haath bechain hai ye matam ko
-  Qabre zehra pe ho azadari
+  Hai ye Rehaan ki dua Bibi
+  Fikr-e-darwesh par nazar ho teri
+  Haath bechain hai ye maatam ko
+  Qabr-e-Zehra pe ho azaadaari
 # source_id: nohayonline:054d81dca1a12d78da66
 # source_url: https://www.nohayonline.com/details_content.php?id=3304
 # raw_sha256: 0951d930a4c88618d67a131df58860e0f3d7fc6ea080345bed2fd3b449961438
@@ -73,7 +74,7 @@ romanLyrics: |-
 
 ۱
 تیرا بھائی امامِ ضامن ہے
-تیرا بابا در حوایج ہے
+تیرا بابا در حوائج ہے
 
 ۲
 تو نے پایا ہے زینبی رتبہ
@@ -82,7 +83,7 @@ romanLyrics: |-
 ہے غلاف حرم تیرا پردہ
 
 ۳
-سر پہ أہل کساء کا ہے سایہ
+سر پہ اہل کساء کا ہے سایہ
 آپ نے نام فاطمہ پایا
 آپ زینت ہے اپنے بابا کی
 اور رکھتی ہے زینبی لہجہ
@@ -108,17 +109,17 @@ romanLyrics: |-
 ۷
 پہنچی جو قم عجیب منظر تھا
 کالے پرچم لگے تھے ہر ایک جا
-ایسے ماتم کیا ہے بھای کا
+ایسے ماتم کیا ہے بھائی کا
 قم کو تو نے بنایا کربوبلا
 
 ۸
 علم و ادراک آگہی دے دے
 مثل بہلول زندگی دے دے
-نقش بردار زایرین بنا
+نقش بردار زائرین بنا
 اپنے روضے پہ نوکری دے دے
 
 ۹
-ہے یہ ریحان کی دعا بی بی
+ہے یہ ریحان کی دعا بی‌بی
 فکر درویش پر نظر ہو تیری
 ہاتھ بے چین ہے یہ ماتم کو
 قبر زہرا پہ ہو عزاداری
