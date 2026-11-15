@@ -1,103 +1,110 @@
 ---
 title: "دن تھا عاشور کا شبیر پہ تنہائی تھی"
-alternateTitle: "Wehab E Kalbi"
+alternateTitle: "Wehab-e-Kalbi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Wehab E Kalbi"]
 published: false
 romanLyrics: |-
-  Din tha ashoor ka shabbir pe tanhai thi
-  Har taraf girya o matam ki ghata chayi thi
-  Ek baraat kisi dulha ki wan se guzri
-  Naam naushah ka mehzar may tha wehab-e-kalbi
+  Din tha Aashur ka Shabbir pe tanhaai thi
+  Har taraf girya o maatam ki ghata chhaai thi
+  Ik baaraat kisi dulha ki wahaaṅ se guzri
+  Naam naushaah ka mahzar mein tha Wehab-e-Kalbi
 
   1
-  Ruk gaya dasht may ek saaneha aisa dekha
-  Haath se kangna gira sar se zameen par sehra
-  Wehab-e-kalbi ne kaha kiske hai farzand janab
-  Bole shabbir hai khatoone jina maa ka khitaab
+  Ruk gaya dasht mein ik saaneha aisa dekha
+  Haath se kangna gira sar se zamin par sehra
+  Wehab-e-Kalbi ne kaha kis ke haiṅ farzand janaab
+  Bole Shabbir haiṅ Khaatun-e-jinaaṅ maaṅ ka khitaab
+  Baap mera hai Ali naana Nabi-e-do sara
+  Wehab-e-Kalbi ka ye sunte hi badan kaamp gaya
 
   2
-  Baap mera hai ali nana nabi-e-do sara
-  Wehab-e-kalbi ka ye sunte hi badan kaamp gaya
-  Roke shabbir se kehta tha ye wehab-e-kalbi
-  Zindagi aap pe sadqe meri farzand e nabi
+  Ro ke Shabbir se kehta tha ye Wehab-e-Kalbi
+  Zindagi aap pe sadqe mere farzand-e-Nabi
 
   3
-  Sheh ne farmaya uroosi ka hai joda tan par
-  Ek dulha ke to mai ro chuka tukde chunkar
-  Mera farzand jawan haye wo mera akbar
-  Uski shadi ka tha arman wo mera noor e nazar
+  Sheh ne farmaaya urusi ka hai jora tan par
+  Ik dulha ke to main ro chuka tukre chun kar
 
   4
-  Khake phal barchi ka rone ko mujhe chod gaya
-  Apne malboos e uroosi ko kafan tu na bana
-  Wehab-e-kalbi ne kaha mujhko hai hukm e madar
-  Jaa mere laal tu maidan may dulha ban kar
+  Mera farzand jawaaṅ haaye wo mera Akbar
+  Us ki shaadi ka tha armaan wo mera nur-e-nazar
+  Khaa ke phal barchhi ka rone ko mujhe chhor gaya
+  Apne malbus-e-urusi ko kafan tu na bana
 
   5
-  Tera shehbala hai farzand e rabab e muztar
-  Sehra akbar pe tu abbas pe tu waar de sar
-  Teri dulhan koi kubra ke barabar to nahi
-  Uska aanchal sar e kulsoom ki chadar to nahi
+  Wehab-e-Kalbi ne kaha mujh ko hai hukm-e-maadar
+  Jaa mere laal tu maidaan mein dulha ban kar
 
   6
-  Bole sheh tu mera mehman hai wehab-e-kalbi
-  Le baraat ko tu apni nikal jaa jaldi
-  Utne waali hai abhi dashte bala may aandhi
-  Mera allah mubarak kare tujh ko shadi
+  Tera shehbaala hai farzand-e-Rabaab-e-muztar
+  Sehra Akbar pe tu Abbas pe tu waar de sar
+  Teri dulhan koi Kubra ke baraabar to nahiṅ
+  Us ka aanchal sar-e-Kulsum ki chaadar to nahiṅ
 
   7
-  Mai teri laash pe ro'un mujhe manzoor nahi
-  Aale imran hoo mai ye mera dastoor nahi
-  Wehab kehne laga imran ke emaan ki qasam
-  Ab meri raah e shahadat se na paltenge qadam
+  Bole Sheh tu mera mehmaan hai Wehab-e-Kalbi
+  Le baaraat ko tu apni nikal jaa jaldi
 
   8
-  Aap ko chod ke is dasht may ya shaah e umam
-  Laut jaun to khafa honge rasool-e-akram
-  Pad liya kalma e tauheed musalman hoo mai
-  Aap ki ghurbat o mazloomi pe qurban hoo mai
+  Uthne waali hai abhi dasht-e-bala mein aandhi
+  Mera Allah mubaarak kare tujh ko shaadi
+  Main teri laash pe rouṅ mujhe manzur nahiṅ
+  Aal-e-Imraan huṅ main ye mera dastur nahiṅ
 
   9
-  Jazba e shauq e shahadat pe hussain ibne ali
-  Bole aa seene se lagja mere wehab-e-kalbi
-  Muntazir hai dar e jannat pe tere haq ke nabi
-  Tere baraati bhi tu bhi hai muqaddar ka dhani
+  Wehab kehne laga Imraan ke imaan ki qasam
+  Ab meri raah-e-shahaadat se na palteṅge qadam
 
   10
-  Meri nusrat may agar sar tera kat jayega
-  Mujhse pehle bhi tu jannat may chala jayega
-  Wehab-e-kalbi ne kaha khuld nahi hai darkaar
-  Khuld to aap ke qadmon may padi hai sarkar
+  Aap ko chhor ke is dasht mein ya Shaah-e-Umam
+  Laut jaauṅ to khafa hoṅge Rasul-e-Akram
+  Parh liya kalma-e-tauhid musalmaaṅ huṅ main
+  Aap ki ghurbat o mazlumi pe qurbaan huṅ main
 
   11
-  Aap raazi hai to jannat ki talab hai bekaar
-  Dije marne ki ijazat ke ye sar tan pe hai baar
-  Khuld to aap ke maqtal ko bana dega khuda
-  Wehab-e-kalbi ka watan aaj se hai karbobala
+  Jazba-e-shauq-e-shahaadat pe Husain ibn-e-Ali
+  Bole aa sine se lag jaa mere Wehab-e-Kalbi
 
   12
-  Mil gaya izne wigha ran may qayamat aayi
-  Jaun aur hur ki tarha usne shahadat paayi
-  Sheh puakre mera maara gaya ek aur bhai
-  Ghar may zainab ne udhar farsh e aza bichwayi
+  Muntazir hai dar-e-jannat pe tere haq ke Nabi
+  Tere baaraati bhi tu bhi hai muqaddar ka dhani
+  Meri nusrat mein agar sar tera kat jaayega
+  Mujh se pehle bhi tu jannat mein chala jaayega
 
   13
-  Shiddat e gham se chacha keh ke sakina royi
-  Bola shehzadi na rona laasha e wehab-e-kalbi
-  Ay raza naar se noori hua wehab-e-kalbi
-  Maasiyat dhal gayi jab royi ali ki beti
+  Wehab-e-Kalbi ne kaha khuld nahiṅ hai darkaar
+  Khuld to aap ke qadmoṅ mein pari hai sarkaar
 
   14
-  Zaujaye wehab se zainab ne kaha ay bibi
-  Umr bhar wehab ki laazim hui pursa dari
-  Haye rehaan bayan kaise karoo wo manzar
-  Zaujaye wehab ko zainab ne udhayi chadar
+  Aap raazi haiṅ to jannat ki talab hai bekaar
+  Dijiye marne ki ijaazat ke ye sar tan pe hai baar
+  Khuld to aap ke maqtal ko bana dega Khuda
+  Wehab-e-Kalbi ka watan aaj se hai Karb o Bala
+
+  15
+  Mil gaya izn-e-wagha ran mein qayaamat aayi
+  Jaun aur Hur ki tarah us ne shahaadat paayi
+  Sheh pukaare mera maara gaya ek aur bhaai
+  Ghar mein Zainab ne udhar farsh-e-aza bichhwaai
+  Shiddat-e-gham se chacha keh ke Sakina royi
+  Bola shehzaadi na rona laasha-e-Wehab-e-Kalbi
+
+  16
+  Ae Raza naar se nuri hua Wehab-e-Kalbi
+  Maasiyat dhal gayi jab royi Ali ki beti
+
+  17
+  Zauja-e-Wehab se Zainab ne kaha ae Bibi
+  Umr bhar Wehab ki laazim hui pursa daari
+  Haaye Rehaan bayaaṅ kaise karuṅ wo manzar
+  Zauja-e-Wehab ko Zainab ne urhaai chaadar
 # source_id: nohayonline:3757216cd2f228c7a205
 # source_url: https://www.nohayonline.com/details_content.php?id=179
 # raw_sha256: 718cbe1ec9f8314d84b82326bb97a5b8730a614adc970b2cce164b659269c86d
@@ -112,81 +119,87 @@ romanLyrics: |-
 ہاتھ سے کنگنا گرا سر سے زمین پر سہرا
 وھبِ قلبی نے کہا کس کے ہیں فرزند جناب
 بولے شبیر ہیں خاتونِ جناں ماں کا خطاب
-
-۲
 باپ میرا ہے علی نانا نبیِ دوسرا
 وحبِ قلبی کا یہ سُنتے ہی بدن کانپ گیا
-روکے شبیر سے کہتا تھا یہ وحبِ قلبی
+
+۲
+رو کے شبیر سے کہتا تھا یہ وحبِ قلبی
 زندگی آپ پہ صدقے میرے فرزندِ نبی
 
 ۳
 شہہ نے فرمایا عروسی کا ہے جوڑا تن پر
 اک دولہا کے تو میں رو چُکا ٹکڑے چُن کر
-میرا فرزند جواں ہائے وہ میرا اکبر
-اُسکی شادی کا تھا ارمان وہ میرا نورِ نظر
 
 ۴
-کھا کے پھل برچھی کارونے کو مجھے چھوڑ گیا
+میرا فرزند جواں ہائے وہ میرا اکبر
+اُس کی شادی کا تھا ارمان وہ میرا نورِ نظر
+کھا کے پھل برچھی کا رونے کو مجھے چھوڑ گیا
 اپنے ملبوسِ عروسی کو کفن تُو نہ بنا
+
+۵
 وحبِ قلبی نے کہا مجھ کو ہے حکمِ مادر
 جا میرے لال تُو مدینے میں دولہا بن کر
 
-۵
+۶
 تیرا شہہ بالا ہے فرزندِ ربابِ مضطر
 سہرا اکبر پہ تُو عباس پہ تُو وار دے سر
 تیری دولہن کوئی کبریٰ کے برابر تو نہیں
-اُسکا آنچل سرِ کلثوم کی چادر تو نہیں
-
-۶
-بولے شہہ تُو میرا مہمان ہے وحبِ قلبی
-لے برات کو تُو اپنی نکل جا جلدی
-اُٹھنے والی ہے ابھی دشتِ بلا میں آندھی
-میرا اللہ مبارک کرے تجھ کو شادی
+اُس کا آنچل سرِ کلثوم کی چادر تو نہیں
 
 ۷
-میں تیری لاش پہ روئوں مجھے منظور نہیں
+بولے شہہ تُو میرا مہمان ہے وحبِ قلبی
+لے برات کو تُو اپنی نکل جا جلدی
+
+۸
+اُٹھنے والی ہے ابھی دشتِ بلا میں آندھی
+میرا اللہ مبارک کرے تجھ کو شادی
+میں تیری لاش پہ روؤں مجھے منظور نہیں
 آلِ عمران ہوں میں یہ میرا دستور نہیں
+
+۹
 وحب کہنے لگا عمران کے ایمان کی قسم
 اب میرے راہِ شہادت سے نہ پلٹیں گے قدم
 
-۸
+۱۰
 آپ کو چھوڑ کے اس دشت میں یا شاہِ اُمم
-لوٹ جائوں تو خفا ہو نگے رسولِ اکرم
-پڑھ لیا کلمئہ توحید مسلماں ہوں میں
+لوٹ جاؤں تو خفا ہوں گے رسولِ اکرم
+پڑھ لیا کلمۂ توحید مسلماں ہوں میں
 آپ کی غربت و مظلومی پہ قرباں ہوں میں
 
-۹
-جذبئہ شوقِ شہادت پہ حسین ابنِ علی
+۱۱
+جذبۂ شوقِ شہادت پہ حسین ابنِ علی
 بولے آ سینے سے لگ جا میرے وحبِ قلبی
+
+۱۲
 منتظر ہے درِ جنت پہ تیرے حق کے نبی
 تیرے باراتی بھی ہیں مقدر کا دہانی
-
-۱۰
 میری نصرت میں اگر سر تیرا کٹ جائے گا
 مجھ سے پہلے بھی تُو جنت میں چلا جائے گا
+
+۱۳
 وحبِ قلبی نے کہا خلد نہیں ہے درکار
 خلد تو آپ کے قدموں میں پڑی ہے سرکار
 
-۱۱
+۱۴
 آپ راضی ہیں تو جنت کی طلب ہے بے کار
-دیجیئے مرنے کی اجازت کے یہ سر تن پہ ہے بار
+دیجیے مرنے کی اجازت کے یہ سر تن پہ ہے بار
 خلد تو آپ کے مقتل کو بنا دے گا خدا
 وحبِ قلبی کا وطن آج سے ہے کرب و بلا
 
-۱۲
-مل گیا عزنِ وغا رن میں قیامت آئی
-جائوں اور حر کی طرح اُس نے شہادت پائی
+۱۵
+مل گیا اذنِ وغا رن میں قیامت آئی
+جون اور حر کی طرح اُس نے شہادت پائی
 شہہ پُکارے میرا مارا گیا ایک اور بھائی
 گھر میں زینب نے اُدھر فرشِ عزا بچھوائی
+شدتِ غم سے چچا کہہ کے سکینہ روئی
+بولا شہزادی نہ رونا لاشۂ وحبِ قلبی
 
-۱۳
-شدتِ غم سے چچا کہکے سکینہ روئی
-بولا شہزادی نہ رونا لاشئہ وحبِ قلبی
-اے رضا نارسے نوری ہوا وحبِ قلبی
-معسیعت ڈھل گئی جب روئی علی کی بیٹی
+۱۶
+اے رضا نار سے نوری ہوا وحبِ قلبی
+معصیت ڈھل گئی جب روئی علی کی بیٹی
 
-۱۴
-زوجہِ وحب سے زینب نے کہا اے بی بی
+۱۷
+زوجۂ وحب سے زینب نے کہا اے بی‌بی
 عمر بھر وحب کی لازم ہوئی پُرسہ داری
 ہائے ریحان بیاں کیسے کروں وہ منظر
-زوجہِ وحب کو زینب نے اُڑھائی چادر
+زوجۂ وحب کو زینب نے اُڑھائی چادر
