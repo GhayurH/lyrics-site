@@ -1,0 +1,54 @@
+name: One-time Basta identity diagnostics
+on:
+  push:
+    branches:
+      - feat/import-overlap-reconciliation-2026-11-05
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  inspect:
+    if: github.event_name == 'workflow_dispatch' || contains(github.event.head_commit.message, '[audit-basta-ids]')
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+      - name: Inspect active Basta stanzas and old lock without editing either
+        shell: bash
+        run: |
+          node --experimental-strip-types --input-type=module <<'JS'
+          import { readFile } from "node:fs/promises";
+          import { markdownFiles, readSourceMarkdown, frontmatterScalar, romanLyricsFromHeader } from "./scripts/lib/source-files.mjs";
+          import { buildBastaKalamCatalog, bastaKalamId } from "./src/lib/basta-kalam-units.ts";
+          import { stanzaAnchor } from "./src/lib/recitation-identity.ts";
+          const index = JSON.parse(await readFile("src/data/basta/index.json", "utf8")).filter(x => x.sectionRoman !== "Mazameen");
+          const roles = JSON.parse(await readFile("src/data/basta/fragment-roles.json", "utf8"));
+          const paths = await markdownFiles("src/data/basta/pages", true);
+          const pages = (await Promise.all(paths.map(async path => {
+            const {header, body} = await readSourceMarkdown(path);
+            if(frontmatterScalar(header,"published")==="false" ||
+               frontmatterScalar(header,"imageOnly")==="true" ||
+               frontmatterScalar(header,"contentKind")!==undefined) return null;
+            return {page:Number(frontmatterScalar(header,"page")),urdu:body,roman:romanLyricsFromHeader(header)};
+          }))).filter(Boolean);
+          const {kalams} = buildBastaKalamCatalog(index,pages,roles.fragments);
+          const lock = JSON.parse(await readFile("src/data/recitation/identity-lock.json", "utf8"));
+          const map = new Map(lock.basta.map(x=>[x.id,x]));
+          const affected = kalams.filter(k=>k.pages.some(p=>[363,380,381,388,389,391].includes(p)));
+          console.log("AFFECTED KALAMS " + affected.length);
+          for(const k of affected){
+            const before=map.get(k.id);
+            if(!before){console.log("NEW_KALAM",k.id,k.pages);continue;}
+            const active=(k.status==="ready"?k.stanzas:[]).map(s=>({id:s.id,anchor:stanzaAnchor(s.urdu),pages:s.pages,opening:s.urdu.split("\n").filter(Boolean).slice(0,2).join(" | ").slice(0,160)}));
+            const old=before.stanzas;
+            console.log("KALAM",JSON.stringify({id:k.id,pages:k.pages,status:k.status,oldCount:old.length,newCount:active.length,oldStanzas:old.map(s=>({id:s.id,anchor:s.anchor,retired:s.retired||false})),newStanzas:active,aligned:old.length===active.length&&old.every((s,i)=>s.id===active[i]?.id)}));
+          }
+          JS
+      - name: Run strict identity check as diagnostic
+        shell: bash
+        run: |
+          node --experimental-strip-types scripts/recitation-identities.mjs --check > /tmp/ids.log 2>&1 || true
+          cat /tmp/ids.log
