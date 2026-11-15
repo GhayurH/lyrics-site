@@ -1,5 +1,6 @@
 ---
-title: "Aa Sunawaaṅ Shaan Teno Mustafa De Vir Da"
+title: "آ دساں واں شان تیکوں مصطفیٰ دے ویر دا"
+alternateTitle: "Aa dasaaṅ waaṅ shaan tekoṅ Mustafa de vir da"
 language: "Panjabi"
 lang: "pa"
 direction: "rtl"
