@@ -6,36 +6,41 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar & J. Jaffri"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hussain jab ke chale baade do pahar ran ko
-  Na tha koi ke jo thaame rakaab e tousan ko
+  Husain jab ke chale baad do pahar ran ko
+  Na tha koi ke jo thaame rikaab-e-tausan ko
   Sakina thaam rahi thi abaa ke daaman ko
-  Hussain chup ke khade huwe hai
+
+  Husain chup ke khare hue haiṅ
   Wa ghurbata wa musibata
 
   1
-  Nazar alam par gadi hui hai
+  Husain chup ke khare hue haiṅ
+  Nazar alam par gari hui hai
   Sakina thaame abaa ka daaman
-  Ye apne baba se keh rahi hai
-  Ay pyare baba qasam tumhari
-  Mai tishnalab hoo zara sa pani
+  Ye apne baaba se keh rahi hai
+  Ae pyaare baaba qasam tumhaari
+  Main tishna lab huṅ zara sa paani
 
   2
-  Chacha se ay baba jaan keh de
-  Sakina pyasi hai teen din se
-  Zaban pe kaante pade huwe hai
-  Ye mashk khaali hai teen din se
-  Lo baba dekho ye mashk khaali
+  Chacha se ae baaba jaan keh de
+  Sakina pyaasi hai tin din se
+  Zabaaṅ pe kaante pare hue haiṅ
+  Ye mashk khaali hai tin din se
+  Lo baaba dekho ye mashk khaali
+  Main tishna lab huṅ zara sa paani
 
   3
-  Mujhe hai ehsaas mere baba
-  Ke hum se pyase ho tum zyada
-  Karungi tum se na phir taqaza
-  Hai baba beti ka tumse waada
-  Mai tum pe sadqe mai tum pe waari
+  Mujhe hai ehsaas mere baaba
+  Ke ham se pyaase ho tum ziyaada
+  Karuṅ gi tum se na phir taqaaza
+  Hai baaba beti ka tum se waada
+  Main tum pe sadqe main tum pe waari
+  Main tishna lab huṅ zara sa paani
 # source_id: nohayonline:028d95c74bfe612c2115
 # source_url: https://www.nohayonline.com/details_content.php?id=2055
 # raw_sha256: 75b862bff502eb31021af74ee6a660402ee68fbdc1b279b47055309a8ff49b1f
@@ -43,26 +48,30 @@ romanLyrics: |-
 حسین جب کہ چلے بعد دو پہر رن کو
 نہ تھا کوئی کہ جو تھامے رکاب توسن کو
 سکینہ تھام رہی تھی عبا کے دامن کو
-حسین چپ کے کھڑے ہوے ہیں
+
+حسین چپ کے کھڑے ہوئے ہیں
 وا غربتا وا مصیبتا
 
 ۱
-نظر علم پر گڑی ہوی ہے
+حسین چپ کے کھڑے ہوئے ہیں
+نظر علم پر گڑی ہوئی ہے
 سکینہ تھامے عبا کا دامن
 یہ اپنے بابا سے کہہ رہی ہے
 اے پیارے بابا قسم تمہاری
-میں تشنہ لب ہوں زرا سا پانی
+میں تشنہ لب ہوں ذرا سا پانی
 
 ۲
 چچا سے اے بابا جان کہہ دے
 سکینہ پیاسی ہے تین دن سے
-زباں پہ کانٹے پڑے ہوے ہیں
+زباں پہ کانٹے پڑے ہوئے ہیں
 یہ مشک خالی ہے تین دن سے
 لو بابا دیکھو یہ مشک خالی
+میں تشنہ لب ہوں ذرا سا پانی
 
 ۳
 مجھے ہے احساس میرے بابا
-کہ ہم سے پیاسے ہو تم ذیادہ
+کہ ہم سے پیاسے ہو تم زیادہ
 کروں گی تم سے نہ پھر تقاضا
 ہے بابا بیٹی کا تم سے وعدہ
 میں تم پہ صدقے میں تم پہ واری
+میں تشنہ لب ہوں ذرا سا پانی
