@@ -1,150 +1,155 @@
 ---
 title: "زینب نے خطبہ دیا دربار ہلنے لگا"
-alternateTitle: "Zainab Hoo Mai"
+alternateTitle: "Zainab Huṅ Main"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Safdar Abbas"
 tags: ["noImage"]
-aliases: []
+aliases: ["Zainab Hoo Mai"]
 published: false
 romanLyrics: |-
   Zainab ne khutba diya darbar hilne laga
-  Khutbaat ki taygh se ye kehke hamla kiya
-  Zainab hoo mai mera baba ali meri maa sayyeda
-  Ay shaamiyon ghaur se tum suno aaj khutba mera
+  Khutbaat ki tegh se ye keh ke hamla kiya
+  Zainab huṅ main mera baaba Ali meri maaṅ Sayyeda
+
+  Ae Shaamiyoṅ ghaur se tum suno aaj khutba mera
+  Zainab huṅ main mera baaba Ali meri maaṅ Sayyeda
 
   1
-  Ye na samjho ke majboor o lachaar hoo
-  Azme shabbir haider ki talwaar hoo
-  Marzi e rab se gham mein giraftaar hoo
-  Baad e abbas mai hi alamdar hoo
-  Pehchan lo sunke lehja mera kaun hoo ba-khuda
+  Ye na samjho ke majbur o laachaar huṅ
+  Azm-e-Shabbir Haider ki talwaar huṅ
+  Marzi-e-Rab se gham mein giraftaar huṅ
+  Baad-e-Abbas main hi alamdaar huṅ
+  Pehchaan lo sun ke lehja mera kaun huṅ ba Khuda
 
   2
-  Jaan jaoge tum mera naam o nasab
-  Jisne paaya hai sher e khuda ka lakhab
-  Uski beti hoo mai jaante hai ye sab
+  Jaan jaao ge tum mera naam o nasab
+  Jis ne paaya hai Sher-e-Khuda ka laqab
+  Us ki beti huṅ main jaante haiṅ ye sab
   Aaj dekhoge tum mera ghaiz o ghazab
-  Mai shaam ko jeet kar jaungi azm hai ye mera
+  Main Shaam ko jit kar jaauṅgi azm hai ye mera
 
   3
-  Meri rag rag mein hai khoone khyber shikan
-  Kya mujhe qaid kar payegi ye rasan
-  Sher jaise baradar ki hoo mai bahan
-  Kaamp jayenge lehje se kyun ho daman
-  Waada wafa mai karoongi yahan bhai shabbir ka
+  Meri rag rag mein hai khun-e-Khaibar shikan
+  Kya mujhe qaid kar paayegi ye rasan
+  Sher jaise baraadar ki huṅ main bahan
+  Kaanp jaayeṅge lehje se kiuṅ ho daman
+  Waada wafa main karuṅgi yahaaṅ bhai Shabbir ka
 
   4
-  Ibne marjan jaisa najis aadmi
-  Ye samajtha hai fatha usay milgayi
-  Qatl hokar bhi zinda hai mera aqi
-  Hai dilon par hukoomat mere bhai ki
-  Baad'az hussain bangayi mai hussain ye rajaz hai mera
+  Ibn-e-Marjaan jaisa najis aadmi
+  Ye samajhta hai fath use mil gayi
+  Qatl ho kar bhi zinda hai mera akhi
+  Hai diloṅ par hukumat mere bhai ki
+  Baad az Husain ban gayi main Husain ye rajaz hai mera
 
   5
-  Dekhna kaam aisa mai kar jaungi
-  Hogi is shehr par bhi hukoomat meri
-  Hogi majlis yahan par mere bhai ki
-  Mai mita doongi zehno se yun teeragi
-  Hoga wohi maine jo keh diya ye hai daawa mera
+  Dekhna kaam aisa main kar jaauṅgi
+  Hogi is shehr par bhi hukumat meri
+  Hogi majlis yahaaṅ par mere bhai ki
+  Main mita duṅgi zehnoṅ se yuṅ tiragi
+  Hoga wohi main ne jo keh diya ye hai daawa mera
 
   6
-  Mere khutbon se goonjengi ye wadiyan
-  Lehja e hyderi hoga sab pe ayan
-  Yun gira doongi khutbaat ki bijliyan
-  Ab ye aywaan e zulmat rahenge kahan
-  Reh jayega is faza mein asar meri awaaz ka
+  Mere khutboṅ se gunjeṅgi ye waadiyaaṅ
+  Lehja-e-Haideri hoga sab pe ayaaṅ
+  Yuṅ gira duṅgi khutbaat ki bijliyaaṅ
+  Ab ye aiwaan-e-zulmat raheṅge kahaaṅ
+  Reh jaayega is faza mein asar meri aawaaz ka
 
   7
-  Shaam walon suno baat meri mazeed
-  Jitna chaho karo zulm hum par shadeed
-  Mujhko khud par bharosa hai rab par umeed
-  Bhool jayega bayyat ki baatein yazeed
-  Ye azm hai aur aelaan hai karke dekho wigha
+  Shaam waaloṅ suno baat meri mazid
+  Jitna chaaho karo zulm hum par shadid
+  Mujh ko khud par bharosa hai Rab par ummid
+  Bhul jaayega baiat ki baateṅ Yazid
+  Ye azm hai aur aelaan hai kar ke dekho wagha
 
   8
-  Tum kahan aur zehra ki beti kahan
-  Rok payengi kya mujhko ye sakhtiyan
-  Tod daalungi mai saari pabandiyan
-  Jitni chaahe bhi pehnado tum bediyan
-  Jaana nahi tum ne shayad mujhe sunlo ahle jafa
+  Tum kahaaṅ aur Zehra ki beti kahaaṅ
+  Rok paayeṅgi kya mujh ko ye sakhtiyaaṅ
+  Tor daaluṅgi main saari paabandiyaaṅ
+  Jitni chaahe bhi pehna do tum beriyaaṅ
+  Jaana nahiṅ tum ne shaayad mujhe sun lo ahl-e-jafa
 
   9
-  Binte haider ka safdar ye elaan tha
-  Apne bhai se maine jo waada kiya
-  Sunlo ahle jafa sunlo ahle jafa
-  Jaan de kar karoongi wo waada wafa
-  Muztar hoo mai aur qaidi bhi hoo phir bhi hai hosla
+  Bint-e-Haider ka Safdar ye aelaan tha
+  Apne bhai se main ne jo waada kiya
+  Sun lo ahl-e-jafa sun lo ahl-e-jafa
+  Jaan de kar karuṅgi wo waada wafa
+  Muztar huṅ main aur qaidi bhi huṅ phir bhi hai hausla
 # source_id: nohayonline:3c9073025929e73988b9
 # source_url: https://www.nohayonline.com/details_content.php?id=901
 # raw_sha256: 08ab1110565114efe2b6e2c304f776540d509bd588d71d8cd3171983b59443ff
 ---
 زینب نے خطبہ دیا دربار ہلنے لگا
-خطبات کی تیغ سے یہ کہکے حملہ کیا
+خطبات کی تیغ سے یہ کہہ کے حملہ کیا
 زینب ہوں میں میرا بابا علی میری ماں سیدہ
-اے شامیوں گوہر سے تم سنو آج خطبہ میرا
+
+اے شامیوں غور سے تم سنو آج خطبہ میرا
+زینب ہوں میں میرا بابا علی میری ماں سیدہ
 
 ۱
 یہ نہ سمجھو کہ مجبور و لاچار ہوں
-عظم شبیر حیدر کی تلوار ہوں
-مرضیء رب سے غم میں گرفتار ہوں
+عزم شبیر حیدر کی تلوار ہوں
+مرضیِ رب سے غم میں گرفتار ہوں
 بعد عباس میں ہی علمدار ہوں
 پہچان لو سن کے لہجہ میرا کون ہوں با خدا
 
 ۲
-جان جاؤ گے تم میرا نام و نصب
+جان جاؤ گے تم میرا نام و نسب
 جس نے پایا ہے شیر خدا کا لقب
 اس کی بیٹی ہوں میں جانتے ہیں یہ سب
 آج دیکھو گے تم میرا غیض و غضب
-میں شام کو جیت کر جاؤنگی عظم ہے یہ میرا
+میں شام کو جیت کر جاؤں گی عزم ہے یہ میرا
 
 ۳
 میری رگ رگ میں ہے خون خیبر شکن
-کیا مجھے قید کر پاے گی یہ رسن
+کیا مجھے قید کر پائے گی یہ رسن
 شیر جیسے برادر کی ہوں میں بہن
-کانپ جاے نگے لہجے سے کیوں ہو دمن
-وعدہ وفا میں کرونگی یہاں بھائی شبیر کا
+کانپ جائیں گے لہجے سے کیوں ہو دمن
+وعدہ وفا میں کروں گی یہاں بھائی شبیر کا
 
 ۴
 ابن مرجان جیسا نجس آدمی
 یہ سمجھتا ہے فتح اسے مل گئی
 قتل ہوکر بھی زندہ ہے میرا اخی
 ہے دلوں پر حکومت میرے بھائی کی
-بعد از حسین بن گیء میں حسین یہ رجز ہے میرا
+بعد از حسین بن گئی میں حسین یہ رجز ہے میرا
 
 ۵
-دیکھنا کام ایسا میں کر جاؤنگی
+دیکھنا کام ایسا میں کر جاؤں گی
 ہوگی اس شہر پر بھی حکومت میری
 ہوگی مجلس یہاں پر میرے بھائی کی
-میں مٹا دونگی زہنوں سے یوں تیرگی
+میں مٹا دوں گی ذہنوں سے یوں تیرگی
 ہوگا وہی میں نے جو کہہ دیا یہ ہے دعویٰ میرا
 
 ۶
-میرے خطبوں سے گونجے گی یہ وادیاں
-لہجہء حیدری ہوگا سب پہ عیاں
+میرے خطبوں سے گونجیں گی یہ وادیاں
+لہجۂ حیدری ہوگا سب پہ عیاں
 یوں گرا دوں گی خطبات کی بجلیاں
 اب یہ ایوان ظلمت رہیں گے کہاں
-رہ جاے نگے اس فضا میں اثر میری آواز کا
+رہ جائے گا اس فضا میں اثر میری آواز کا
 
 ۷
 شام والوں سنو بات میری مزید
-جتنا چاہو کرو ظلم ہم پر شہید
-مجھکو خود پر بھروسہ ہے رب پر امید
+جتنا چاہو کرو ظلم ہم پر شدید
+مجھ کو خود پر بھروسہ ہے رب پر امید
 بھول جائے گا بیعت کی باتیں یزید
-یہ عزم ہے اور علان ہے کرکے دیکھو وغا
+یہ عزم ہے اور اعلان ہے کر کے دیکھو وغا
 
 ۸
 تم کہاں اور زہرا کی بیٹی کہاں
-روک پائیں گے کیا مجھکو یہ سختیاں
-توڑ ڈالونگی میں پہنادو تم بیڑیاں
-جتنی چاہے بھی پہنادو تم بیڑیاں
-جانا نہیں تم نے شاید مجھے سن‌لو اہل جفا
+روک پائیں گی کیا مجھ کو یہ سختیاں
+توڑ ڈالوں گی میں ساری پابندیاں
+جتنی چاہے بھی پہنا دو تم بیڑیاں
+جانا نہیں تم نے شاید مجھے سن لو اہل جفا
 
 ۹
-بنت حیدر کا صفدر یہ علان تھا
+بنت حیدر کا صفدر یہ اعلان تھا
 اپنے بھائی سے میں نے جو وعدہ کیا
 سن لو اہل جفا سن لو اہل جفا
-جان دیکر کرونگی وہ وعدہ وفا
+جان دے کر کروں گی وہ وعدہ وفا
 مضطر ہوں میں اور قیدی بھی ہوں پھر بھی ہے حوصلہ
