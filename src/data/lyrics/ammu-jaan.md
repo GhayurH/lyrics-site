@@ -12,17 +12,17 @@ published: false
 romanLyrics: |-
   Ammu jaan ammu jaan
   Waadi-e-ghurbat ke mehmaan
-  
+
   1
   Shaah ki dukhtar laash-e-chacha par
   Nehr kinaare thi naalaaṅ
   Ammu jaan ammu jaan
   Waadi-e-ghurbat ke mehmaan
-  
+
   2
   Dilbar-e-Haider saani-e-Jafar
   Sher dilaawar tashna dahaaṅ
-  
+
   3
   Baagh Nabi gulzaar Ali
   Paamaal kiye ran mein aada
@@ -30,7 +30,7 @@ romanLyrics: |-
   Ret hai ban mein laashoṅ ka
   Jaye taraai dil ko kushaai
   Kar gaye kunbe ko veeraan
-  
+
   4
   Chhin ke darya paani ko roka
   Pyaasoṅ ko paani bhi na diya
@@ -38,7 +38,7 @@ romanLyrics: |-
   Aah na kuch bhi paas kiya
   Dard ye utha dil hai tarapta
   Kiski dawa hai na darmaan
-  
+
   5
   Kaisi dagha hai kaisi jafa hai
   Haath juda haiṅ shaanoṅ se
@@ -46,7 +46,7 @@ romanLyrics: |-
   Tir o tabar shamshiroṅ se
   Qalb hai muztar jaan laboṅ par
   Dekh ke tum ko lahu lahaan
-  
+
   6
   Bekas utho bebas utho
   Ghere haiṅ khaimoṅ ko naari
@@ -54,7 +54,7 @@ romanLyrics: |-
   Bibiyaaṅ karte haiṅ zaari
   Maah munawwar fidya-e-Daawar
   Nind se jaago o naalaan
-  
+
   7
   Shayda mere saqqa
   Mere jangal mein huṅ uftaada
@@ -62,7 +62,7 @@ romanLyrics: |-
   Haye sajjada la takiya
   Ret pe jalti laash hai tapti
   Dhup kari suna maidaan
-  
+
   8
   Pehlu-e-anwar aah sitamgar
   Gurz giraaṅ se chur kiya
@@ -70,7 +70,7 @@ romanLyrics: |-
   Behne laga khuṅ ka darya
   Nehr kinaare laash ko chhore
   Sar hai charhaaya nok-e-sinaaṅ
-  
+
   9
   Shimr bad akhtar kheṅch ke khanjar
   Khauf na laa kar kaata gala
@@ -78,7 +78,7 @@ romanLyrics: |-
   Daagh mujhe kam sini mein diya
   Maare sadaqaat maah imaamat
   Ho gaya mitti mein viraan
-  
+
   10
   Sina-e-Sarwar haye sitamgar
   Haif na rutba ruk jaana
@@ -132,7 +132,7 @@ romanLyrics: |-
 بے کس اٹھو بے بس اٹھو
 گھیرے ہیں خیموں کو ناری
 ہاے خاری دکھیاری
-بی بیاں کرتے ہیں زاری
+بی‌بیاں کرتے ہیں زاری
 ماہ منور فدیہء داور
 نیند سے جاگو او نالان
 

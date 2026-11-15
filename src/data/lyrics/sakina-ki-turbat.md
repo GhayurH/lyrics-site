@@ -17,48 +17,48 @@ romanLyrics: |-
   Bhala kaun qaidi hai kya dhundta hai
   Kahaaṅ par banaaye lahad sochta hai
   Qayaamat bapa hai qayaamat bapa hai
-  
+
   1
   Zaifi mein Aabid ki badli jawaani
   Sakina ki turbat banaate banaate
   Kayi baar mar ke wo zinda hua hai
   Behen ko zamiṅ par sulaate sulaate
-  
+
   2
   Kahiṅ aaṅkh barsi kahiṅ dil chhida hai
   Kahiṅ haath larze kahiṅ dam ruka hai
   Bahattar janaazoṅ se guzra hai Aabid
   Behen ka janaaza uthaate uthaate
-  
+
   3
   Hue kaan zakhmi tamaache lage the
   Sakina ki aaṅkhoṅ mein aaṅsu bhare the
   Su-e-nehr takti thi hasrat se bachchi
   Jala apna daaman bujhaate bujhaate
-  
+
   4
   Lahad ke liye mil gaya qaid khaana
   Riha khud na ho paayi baali Sakina
   Magar wo asiroṅ ko qaid-e-sitam se
   Rihaai dila kar gayi jaate jaate
-  
+
   5
   Ye Zahra ki poti hai Ghaazi ki pyaari
   Bahut laadli hai ye apne padar ki
   Qayaamat bapa hai
-  
+
   6
   Ye darbaar mein kya qayaamat hui hai
   Sakina phuphi se ye kya puchhti hai
   Kahiṅ mar hi jaaye na Zainab Khudaaya
   Kanizi ka matlab bataate bataate
-  
+
   7
   Hai sakte mein Baano qayaamat hai kaisi
   Padar se wo baateṅ abhi kar rahi thi
   Magar ab kabhi bhi na bolegi bachchi
   Ye maaṅ ko yaqiṅ aayega aate aate
-  
+
   8
   Sakina ki jaanib se ae mere Maula
   Sada naam-e-Asghar pe hasrat hai meri

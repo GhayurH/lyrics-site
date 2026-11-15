@@ -13,37 +13,37 @@ published: false
 romanLyrics: |-
   Qaidi huṅ main Baba jaaṅ
   Ab shaahzaadi kahaaṅ
-  
+
   1
   Na apna wo ghar hai na apna Madina
   Wo baaheṅ chacha ki tumhaara wo sina
   Bolo Khudaara tum ho kahaaṅ main kahaaṅ
-  
+
   2
   Jis din se tum se juda ho gayi huṅ
   Dekho to Baba main kya ho gayi huṅ
   Ujra makaan hai rehti huṅ ab main jahaaṅ
-  
+
   3
   Kehti na thi dekho na jaao Baba
   Taras khaao mujh par taras khaao Baba
   Tum kya gaye ho mujh par gira aasmaaṅ
-  
+
   4
   Jaise hi naize pe tum aaye Baba
   Main ne tamaache bahut khaaye Baba
   Rukhsaar par hai abhi tak sitam ke nishaaṅ
-  
+
   5
   Maanga kanizi mein Baba kisi ne
   Phenka meri samt sadqa kisi ne
   Paidal chali huṅ kaantoṅ ke main darmiyaaṅ
-  
+
   6
   Milne ko ham se chale aao Baba
   Ik baar chehra dikha jaao Baba
   Ae pyaare Baba phir ham kahaaṅ tum kahaaṅ
-  
+
   7
   Chalo Shaam chalte haiṅ Rehaan o Sarwar
   Wahaaṅ dekhna kya hai chehlum ka manzar

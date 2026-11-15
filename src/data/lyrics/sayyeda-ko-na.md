@@ -16,43 +16,43 @@ romanLyrics: |-
 
   Ik yatima ko khudaara na rulaao
   Sayyeda ko na satao
-  
+
   1
   Kya tumheṅ daagh-e-yatimi ka kuchh andaaza hai
   Zakhm baba ki judaai ka abhi taaza hai
   Gham ki maari pe ae logoṅ rahm khaao
   Sayyeda ko na satao
-  
+
   2
   Ye wohi dar hai salaami jahaaṅ dete the Rasul
   Ye wo gulshan hai jahaaṅ rehte haiṅ Hasnain se phul
   Lakriyaaṅ le ke tum is dar pe na aao
   Sayyeda ko na satao
-  
+
   3
   Tum ko kya khauf nahiṅ qahr-e-Khuda ka logoṅ
   Yuṅ ghariboṅ ko sataana nahiṅ achchha logoṅ
   Hai payambar ka ye gulshan na jalao
   Sayyeda ko na satao
-  
+
   4
   Malka-e-sharm o haya par ye sitam kya kam tha
   Apna haq maangne darbaar mein aayi Zahra
   Ab na tum in ke dukhe dil ko dukhao
   Sayyeda ko na satao
-  
+
   5
   Kya khabar tum ko ki kya tum ne sitam dhaaya hai
   Bhare darbaar mein Siddiqa ko jhutlaaya hai
   Dard ke tir na ab aur chalao
   Sayyeda ko na satao
-  
+
   6
   Daastaaṅ zulm o tashaddud ki wo karte haiṅ bayaaṅ
   Abhi rukhsaar pe baaqi hai tamaachoṅ ke nishaaṅ
   Waasta tum ko Khuda ka laut jao
   Sayyeda ko na satao
-  
+
   7
   Ae Nadim aag lainoṅ ne lagaayi jis dam
   Apna sar pit ke kehne lagi Fizza us dam

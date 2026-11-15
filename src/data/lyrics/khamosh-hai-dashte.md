@@ -21,19 +21,19 @@ romanLyrics: |-
   Boleṅ ge lab-e-qudrat khud hi
   Ik bakhshish-e-ummat ki khaatir
   Shabbir ne kya kuch de daala
-  
+
   2
   Hai mashk-e-Sakina kaandhe par
   Hoshiyaar taraai se aada
   Khaali na phirega darya se
   Darya ki taraf aane waala
-  
+
   3
   Shabbir ki nusrat meiṅ tu ne
   Beshir ki himmat dekhi hai
   Ae tir-e-sitam ye sach kehna
   Roya to nahiṅ haṅsne waala
-  
+
   4
   Shabbir ki nazreṅ piri meiṅ
   Kis tarah ye manzar dekhe gi

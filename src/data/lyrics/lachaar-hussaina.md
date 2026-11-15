@@ -12,11 +12,11 @@ published: false
 romanLyrics: |-
   Lachaar Husaina beyaar Husaina
   Ae bekasoṅ ke qaafila saalaar Husaina
-  
+
   1
   Aadam Safiullah se ta'eesie dauraaṅ
   Aisi na luti thi koi sarkaar Husaina
-  
+
   2
   Darra na adu beadab o na hue daakhil
   Ghar Fatema ka ho gaya baazaar Husaina

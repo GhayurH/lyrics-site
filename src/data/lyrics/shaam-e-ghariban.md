@@ -21,7 +21,7 @@ romanLyrics: |-
   Kya shaam thi wo shaam-e-gharibaṅ
   Jalte khaime aur dhuaṅ
   Kya shaam kya shaam
-  
+
   1
   Jalti zamiṅ par Aal-e-Abaa thi
   Karbobala bhi mahv-e-buka thi
@@ -29,7 +29,7 @@ romanLyrics: |-
   Alamdaar
   Thi Zainab-e-tashna kaam kya shaam
   Kya shaam thi wo shaam-e-gharibaṅ
-  
+
   2
   Zer-e-alam baithi thi Sakina
   Dhund rahi thi baba ka sina
@@ -37,7 +37,7 @@ romanLyrics: |-
   Alamdaar
   Thi Zainab-e-tashna kaam kya shaam
   Kya shaam thi wo shaam-e-gharibaṅ
-  
+
   3
   Ranj o alam ka bojh utha kar
   Aabid ko sholoṅ se bacha kar
@@ -45,7 +45,7 @@ romanLyrics: |-
   Alamdaar
   Thi Zainab-e-tashna kaam kya shaam
   Kya shaam thi wo shaam-e-gharibaṅ
-  
+
   4
   Jal gaye khaime chhin gayi chaadar
   Is aalam mein aa gaye Haider
@@ -53,7 +53,7 @@ romanLyrics: |-
   Alamdaar
   Thi Zainab-e-tashna kaam kya shaam
   Kya shaam thi wo shaam-e-gharibaṅ
-  
+
   5
   Ek sinaṅ par behen ki chaadar
   Ek naize par bhai ka sar
@@ -61,7 +61,7 @@ romanLyrics: |-
   Alamdaar
   Thi Zainab-e-tashna kaam kya shaam
   Kya shaam thi wo shaam-e-gharibaṅ
-  
+
   6
   Mil ke gale Sajjad aur Baqir
   Rone lage Sajjad aur Baqir
@@ -69,7 +69,7 @@ romanLyrics: |-
   Alamdaar
   Thi Zainab-e-tashna kaam kya shaam
   Kya shaam thi wo shaam-e-gharibaṅ
-  
+
   7
   Majlis mein sab mahv-e-buka hai
   Mazhar aur Irfan-e-aza hai

@@ -12,23 +12,23 @@ published: false
 romanLyrics: |-
   Naiza-e-zulm ne kab sina-e-Akbar tora
   Qalb-e-mehbub-e-Ilaahi dil-e-Haidar tora
-  
+
   1
   Kar liya nehr pe qabza tan-e-tanha us ne
   Jis ke baba ne akele dar-e-Khaibar tora
-  
+
   2
   Pis gaya Shimr ka dil dekh ke haal-e-Asghar
   Aap ne Sibt-e-Nabi shishe se patthar tora
-  
+
   3
   Boli Laila hui Sarwar ki basaarat zaahir
   Tum ne kis tarah se dam ae Ali Akbar tora
-  
+
   4
   Saath ghoroṅ se gire Zainab-e-muztar ke pisar
   Ran mein dam bhai ne bhai ke baraabar tora
-  
+
   5
   Maaṅ ka kehna tha ke kiuṅ laal mujhe bhul gaye
   Baap ki god mein dam ae Ali Asghar tora

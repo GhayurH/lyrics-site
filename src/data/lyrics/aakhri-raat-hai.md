@@ -15,49 +15,49 @@ romanLyrics: |-
   Aakhri raat hai Sakina ki
   Jaa rahi hai Husain ki beti
   Aakhri raat hai Sakina ki
-  
+
   1
   Ye jo gardan pe haiṅ rasan ke nishaṅ
   Saath turbat mein iske jayega
   Koi Umm-e-Rubab se keh de
   Ab ye chehra nazar na aayega
   Aaj ji bhar ke dekh lo Bibi
-  
+
   2
   Paas baba ke jaane wali hai
   Ab tamache na koi maarega
   Qabr mein to ghamoṅ ki maari ke
   Koi gohar nahiṅ utarega
   Jaake turbat mein chain payegi
-  
+
   3
   Hai Janab-e-Amir ki poti
   Inteha ispe hai ghareebi ki
   Aalam-e-naza ho gaya taari
   Saans rukne lagi hai bachi ki
   Resman ab to khol do iski
-  
+
   4
   Rone wali ki chalti saansoṅ ko
   Aaj is tarha roka jaata hai
   Band ho jaaye shor-e-girya ka
   Sar-e-Shabbir laaya jaata hai
   Hai mulaqaat baap beti ki
-  
+
   5
   Shor ye beriyoṅ ka kehta hai
   Koi uthta hai koi girta hai
   Hai khabar ye ghareeb bhai ko
   Dam behan ka nikalne wala hai
   Abhi legi ye aakhri hichki
-  
+
   6
   Ro ke Sajjad khud se kehte thay
   Kaise mayyat uthauṅ ga iski
   Qaid zanjeer mein hai haath mere
   Qabr kaise banauṅ ga iski
   Bekafan jayegi behan meri
-  
+
   7
   Kaisa manzar tha qaid mein Akbar
   Chaar jaanib tha shor-e-giryaṅ ka

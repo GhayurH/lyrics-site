@@ -16,43 +16,43 @@ romanLyrics: |-
   Kaisa ye waqt qayamat ka
   Aulaad-e-Nabi par aaya hai
   Ali ya Ali ya Ali
-  
+
   1
   Us zakhm se zarb-e-Muljim ke
   Zainab ka kaleja chhalni hai
   Is qaum ki khaatir sajde meiṅ
   Jo zakhm Ali ne khaaya hai
-  
+
   2
   Masjid meiṅ hue zakhmi Haider
   Baba ki jabiṅ hai khun meiṅ tar
   Ye Masjid-e-Kufa meiṅ nauha
   Abbas ke lab par aaya hai
-  
+
   3
   Wo jis ka badan pamaal hua
   Wo jis ko kafan ran mein na mila
   Mazloom wo apne baba ka
   Tabut utha kar laaya hai
-  
+
   4
   Hasnain ne sar ko pita hai
   Zainab pe yatimi aayi hai
   Kufe meiṅ udaasi chhayi hai
   Aflaak ka dil tharraya hai
-  
+
   5
   Zehra ki judaai ke gham ko
   Ab tak na bhula wo paayi thi
   Phir aaj Ali ki beti par
   Ghurbat ka zamana aaya hai
-  
+
   6
   Hasnain ke baba qatl hue
   Jibril sada ye deta hai
   Abbas ke aansu behte haiṅ
   Shabbir ka dil bhar aaya hai
-  
+
   7
   Tarikh gawahi deti hai
   Wo Kufa ho ya Karbobala

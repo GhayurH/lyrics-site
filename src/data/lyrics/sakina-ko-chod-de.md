@@ -15,42 +15,42 @@ romanLyrics: |-
   Zaalim meri yatim Sakina ko chhor de
   Kiuṅ maarta hai is ne bigaara hai kya tera
   Zaalim meri yatim Sakina ko chhor de
-  
+
   1
   Pehle hi ghamzada ne sahe haiṅ bare sitam
   Bichhra hai kamsini mein pidar kam hai kya ye gham
   Bahr-e-Khuda ghamoṅ ki sataayi ko na sata
-  
+
   2
   Is ghamzada ko baap ka pursa na de laiṅ
   Deta nahiṅ gar is ko dilaasa na de laiṅ
   Lillaah is ke rukh pe tamaache to na laga
-  
+
   3
   Hai dushmani laiṅ teri gar Husain se
   Tu taaziyaane mere kate sar pe maar le
   Durre na maar is ko hai maasum bekhata
-  
+
   4
   Behaal ho chuki hai ye shiddat se pyaas ki
   Durroṅ ka waar sehne ki quwwat nahiṅ bachi
   Iza na de ab aur ise bahr-e-Kibriya
-  
+
   5
   Dekha hai jab se baap ka katta hua gala
   Dar yuṅ basa hai dil mein larazti hai ghamzada
   Mar jaayegi seham ke ise aur na dara
-  
+
   6
   Naazuk hai kaan chhin na bunde yuṅ khench ke
   Beti hai ye karim ki de degi maaṅg le
   Tarpa ke is yatim ko kya haath aayega
-  
+
   7
   Iza na de behen ko baraadar ke saamne
   Kore na maar Aabid-e-laaghar ke saamne
   Ghairat pe ek bhaai ki ye zakhm na laga
-  
+
   8
   Ho kya bayaan Nadim wo ghurbat wo bekasi
   Mehsus qaid-e-Shaam mein hota hai aaj bhi

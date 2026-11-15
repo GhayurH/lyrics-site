@@ -17,7 +17,7 @@ romanLyrics: |-
 
   Qaid se chhut ke aai hai Zainab
   Sadme dil par uthaai hai Zainab
-  
+
   1
   Main huṅ Zainab falak sataai huṅ
   Tum se milne yahaaṅ main aai huṅ
@@ -25,7 +25,7 @@ romanLyrics: |-
   Bhai kya kya sitam uthaai huṅ
   Shaam tak nange sar gayi Zainab
   Kiuṅ na pahle hi mar gayi Zainab
-  
+
   2
   Uth ke dekho to ik nazar bhai
   Tukre sadmoṅ se hai jigar bhai
@@ -33,7 +33,7 @@ romanLyrics: |-
   Jhuk gayi hai meri kamar bhai
   Waada pura main kar ke aai huṅ
   Pusht par taaziyaane khaai huṅ
-  
+
   3
   Saare kunbe ko saath laai thi
   Mehnatoṅ se ye ghar basaai thi
@@ -41,7 +41,7 @@ romanLyrics: |-
   Ho gayi dafn jo kamaai thi
   Ab ho kiuṅ kar meri basar bhai
   Haae kis muṅh se jaauṅ ghar bhai
-  
+
   4
   Thi muqaddar mein meri ruswaai
   Kiuṅ na darbaar hi mein maut aai
@@ -49,7 +49,7 @@ romanLyrics: |-
   Ghussa aaya tha pi gayi bhai
   Jo hue zulm sah gayi Zainab
   Sab ke rone ko rah gayi Zainab
-  
+
   5
   Kya bataauṅ jo guzre ranj o mihan
   Baazuoṅ mein mere bandhi thi rasan
@@ -57,7 +57,7 @@ romanLyrics: |-
   Lut gayi lut gayi main Shah-e-Zaman
   Phiri baazaar-e-Shaam mein Zainab
   Gayi darbaar-e-aam mein Zainab
-  
+
   6
   Jab kiya ham ko daakhil-e-zindaaṅ
   Naam ko bhi na roshni thi wahaaṅ
@@ -65,7 +65,7 @@ romanLyrics: |-
   Yaaṅ se le kar chalo phuphi ammaaṅ
   Mujh se bardaasht ho nahiṅ sakti
   Main andhere mein so nahiṅ sakti
-  
+
   7
   Maarte the tamaanche baani-e-shar
   Kaan se us ke chhin kar gauhar

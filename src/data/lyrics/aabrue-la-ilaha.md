@@ -16,7 +16,7 @@ romanLyrics: |-
 
   Ya Husain Husain Ya Husain
   Ya Husain Husain Ya Husain
-  
+
   1
   Likh diya khun se Husaina parcham-e-Islam par
   Sar katana rah-e-haq mein din ki tauqir hai

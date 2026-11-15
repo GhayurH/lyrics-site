@@ -21,7 +21,7 @@ romanLyrics: |-
   Bani Hashim ka hasham Bait-e-Haram tak pahuncha
   Aayi aawaz-e-jali Rab ka wali aata hai
   Kaba diwar ko dar kar ke Ali aata hai
-  
+
   2
   Sun Ae Kaba haram-e-Hazrat-e-Imran hai yeh
   Dekh aaina-e-wahdat ka ik imkan hai yeh
@@ -29,7 +29,7 @@ romanLyrics: |-
   Yaad rakh Kaba ke Allah ki mehman hai yeh
   Hamil-e-nur hai Nur-e-Azali ki maaṅ hai
   Sar ko qadmoṅ mein jhuka de yeh Ali ki maaṅ hai
-  
+
   3
   Yaad rakh Kaba yeh khatun Ali ki maaṅ hai
   Do jahaṅ is ke haiṅ mamnun Ali ki maaṅ hai
@@ -37,7 +37,7 @@ romanLyrics: |-
   Kya raqam ho koi mazmun Ali ki maaṅ hai
   Apne hathoṅ se imamat ka gohar dhale gi
   Yeh woh maaṅ hai jo Nuseri ka Khuda pale gi
-  
+
   4
   Dekh Ae Kaba yeh hai qibla numayi ka jawaz
   Lene aayi hai yahaṅ yeh meri tauhid ka raaz
@@ -45,7 +45,7 @@ romanLyrics: |-
   Aaj se Khana-e-Rab tujh pe bhi wajib hai namaz
   Baam o dar tere sabhi waqf-e-tawalla hoṅ ge
   Is ke qadmoṅ ke nishaṅ tera musalla hoṅ ge
-  
+
   5
   Dekh Kaba teri azmat ke nishaṅ haiṅ yeh qadam
   Woh jagah Arsh-e-Mualla hai jahaṅ haiṅ yeh qadam
@@ -53,7 +53,7 @@ romanLyrics: |-
   Jahaṅ Qausain ki manzil hai wahaṅ haiṅ yeh qadam
   Rab-e-Akbar ne har ik maaṅ ko ata ki jannat
   In ke niche hai Nuseri ke Khuda ki jannat
-  
+
   6
   Martaba tera barhane yeh qadam aaye haiṅ
   Raaz-e-tauhid batane yeh qadam aaye haiṅ
@@ -61,7 +61,7 @@ romanLyrics: |-
   Tujh ko ab qibla banane yeh qadam aaye haiṅ
   Yeh nahiṅ aate to phir soch zara kya hota
   Jis jagah aate Ali phir wohi Kaba hota
-  
+
   7
   Kalma-e-Rab-e-Jali hai yeh kalmoṅ ki hai maaṅ
   Yeh durodoṅ ki hai maaṅ aur salamoṅ ki hai maaṅ
@@ -69,7 +69,7 @@ romanLyrics: |-
   Bas Ali ki nahiṅ yeh barah Imamoṅ ki hai maaṅ
   Sare aalam ki Amma apni Amma kehta hai
   Soch woh kya hai Muhammad jise maaṅ kehta hai
-  
+
   8
   Nur-e-Allah ka maskan bana is maaṅ ka wujud
   Maryam o Sarah kareṅ naqsh-e-kaf-e-pa pe sujud
@@ -77,7 +77,7 @@ romanLyrics: |-
   Is ke farzandoṅ pe khud parhta hai Allah durud
   Beniyazana sar-e-ku-e-niyaz aati hai
   Yuṅ samajh lijiye Kabe mein namaz aati hai
-  
+
   9
   Kul-e-iman ka iman hai is ki jholi
   Parda-e-wahdat-e-imkan hai is ki jholi
@@ -85,7 +85,7 @@ romanLyrics: |-
   Khud mein dhaṅpe hue Quran hai is ki jholi
   Yeh woh mumkin jise imkan ki zarurat hi nahiṅ
   Us ki maaṅ hai ke jise maaṅ ki zarurat hi nahiṅ
-  
+
   10
   Sun ke aawaz yeh Kabe ne naya dar khola
   Dar jo khola to woh diwar ke andar khola
@@ -93,7 +93,7 @@ romanLyrics: |-
   Wali Allah ne Allah ka yuṅ ghar khola
   Aayi aawaz-e-Khuda ghar ke makin aate haiṅ
   Woh jo pardoṅ mein nihaṅ the woh yahiṅ aate haiṅ
-  
+
   11
   Dar-e-Kaba ne kaha Bint-e-Asad Bismillah
   Layi haiṅ sath Khudayi ki sanad Bismillah
@@ -101,7 +101,7 @@ romanLyrics: |-
   Qab-e-Qausain se ab mil gayi had Bismillah
   Aamad-e-Nur-e-Mubiṅ aaj yahaṅ honi hai
   Aaj meraj ko meraj yahaṅ honi hai
-  
+
   12
   Boli diwar-e-haram aap pe hoṅ lakh salam
   Aap ka hai yeh karam aap pe hoṅ lakh salam

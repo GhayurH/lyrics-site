@@ -24,43 +24,43 @@ romanLyrics: |-
   Kitna gharib baaba hai
   Haṅste hai barchhiyoṅ waale Akbar nahiṅ uthta
   Khaamosh hai Maula
-  
+
   2
   Zainab na dekh le aa kar ye ran meiṅ kaisa manzar hai
   Bete ka god meiṅ sar hai
   Ek haath meiṅ kaleja hai ek haath meiṅ naiza
   Khaamosh hai Maula
-  
+
   3
   Athaara saal waale ke chehre pe kuch nishaaṅ bhi hai
   Aur tuti pasliyaaṅ bhi hai
   Bete ka haal dekh ke yaad aati hai Zahra
   Khaamosh hai Maula
-  
+
   4
   Tum sabr karna ae baaba sine se kheṅch kar barchhi
   Akbar ki ye wasiyyat thi
   Sine se kheṅch li barchhi pura hua waada
   Khaamosh hai Maula
-  
+
   5
   Apne zaif kaandhe par laash-e-jawaaṅ uthaate haiṅ
   Uthte haiṅ baith jaate haiṅ
   Ghaazi ki yaad aati hai uthta nahiṅ laasha
   Khaamosh hai Maula
-  
+
   6
   Khaime meiṅ Shaah le aaye karyal jawaan ka laasha
   Kohraam ho gaya barpa
   Bhai ke zakhmi sine se lipti hai Sakina
   Khaamosh hai Maula
-  
+
   7
   Kya bebasi ka aalam tha aaya jo khat Madine se
   Maula jawaab kya dete
   Akbar ke zakhmi sine par rakh kar khat-e-Sughra
   Khaamosh hai Maula
-  
+
   8
   Tha Fatema ki beti ka kitna khayaal donoṅ ko
   Zishaan Abidi dekho

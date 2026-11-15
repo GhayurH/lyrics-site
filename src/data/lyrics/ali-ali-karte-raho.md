@@ -17,7 +17,7 @@ romanLyrics: |-
   Ya Ali maula ya Ali maula karte raho
   Ali Ali Ali Ali karte raho
   Ya Ali maula ya Ali maula karte raho
-  
+
   1
   Nuqta-e-baa hai Ali Ali Ali Ali
   Rab ne kaha hai Ali Ali Ali Ali
@@ -26,7 +26,7 @@ romanLyrics: |-
   Saaz-e-wila hai Ali Ali
   Raaz-e-Khuda hai Ali Ali
   Bete ne jis ke ja ke parha hai neze par Quran
-  
+
   2
   Mushkil ka hal Ali Ali Ali Ali
   Karam ka baadal Ali Ali Ali Ali
@@ -35,7 +35,7 @@ romanLyrics: |-
   Shaan-e-jali hai Ali Ali
   Rab ka wali hai Ali Ali
   Hijrat ki shab us ko mili hai marzi-e-Rahmaṅ
-  
+
   3
   Hilm ka ghar hai Ali Ali Ali Ali
   Ilm ka dar hai Ali Ali Ali Ali
@@ -44,7 +44,7 @@ romanLyrics: |-
   Gyaan ka suraj Ali Ali
   Dhyaan ki saj dhaj Ali Ali
   Naam-e-Ali ki maala japna momin ki pehchaan
-  
+
   4
   Makki Madani Ali Ali Ali Ali
   Ajami Arabi Ali Ali Ali Ali
@@ -53,7 +53,7 @@ romanLyrics: |-
   Kahiṅ saqi hai Ali Ali
   Kahiṅ aqi hai Ali Ali
   Naam se us ke ho jaati hai har mushkil aasaan
-  
+
   5
   Haq ka qasida Ali Ali Ali Ali
   Fath ka surah Ali Ali Ali Ali
@@ -62,7 +62,7 @@ romanLyrics: |-
   Ran ki sada hai Ali Ali
   Sher-e-Khuda hai Ali Ali
   Zarb se jis ki gunj raha hai Khandaq ka maidaan
-  
+
   6
   Jaan-e-haram hai Ali Ali Ali Ali
   Shaan-e-haram hai Ali Ali Ali Ali
@@ -71,7 +71,7 @@ romanLyrics: |-
   Nuh ka taqwa Ali Ali
   Khizr ka jalwa Ali Ali
   Koi kahe Allah ka banda koi kahe Bhagwan
-  
+
   7
   Auj-e-fasaahat Ali Ali Ali Ali
   Nahj-e-balaaghat Ali Ali Ali Ali
@@ -80,7 +80,7 @@ romanLyrics: |-
   Tum hi mashiyat Ali Ali
   Tum hi shariyat Ali Ali
   Sajde meiṅ tum ne khaayi hai zarbat ae kull-e-imaan
-  
+
   8
   Dhup mita do Ali Ali Ali Ali
   Dhup saja do Ali Ali Ali Ali
@@ -89,7 +89,7 @@ romanLyrics: |-
   Hum ko asar do Ali Ali
   Daaman bhar do Ali Ali
   Apne karam se qayaam kar do dahr meiṅ amn o amaan
-  
+
   9
   Nayyar ka gun Ali Ali Ali Ali
   Aamir ki dhun Ali Ali Ali Ali

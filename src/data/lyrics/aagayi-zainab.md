@@ -19,31 +19,31 @@ romanLyrics: |-
   1
   Tik ke baithe hoṅ ge Abid haye jis deewar se
   Bad gayi hoṅ gi daraareiṅ haye us deewar mein
-  
+
   2
   Ae Khuda-e-lam-yazal ye teri aankheiṅ to nahiṅ
   Kis ki aankheiṅ ro rahi hai dida-e-khuṅ baar mein
-  
+
   3
   Waaris-e-kul ambiya ki is liye waaris hai tu
   Jalwa-e-tauhid hai Zainab tere asrar mein
-  
+
   4
   Baad-e-qatl-e-Shaah-e-waala ek zamane par khula
   Himmat-e-Zainab thi shamil Shah ke inkar mein
-  
+
   5
   Sab the razi sar katane par bajuz Sajjad ke
   Jaane kya mushkil chhupi thi tauq ke aazaar mein
-  
+
   6
   Sar ba-sajda haibat-e-Musa sawali hai jahaṅ
   Kaun si haibat khuda jaane hai us bemaar mein
-  
+
   7
   Jis karhe mein baaqi hai Sajjad ke girye ki dhaar
   Is qadar tezi kahaṅ ho gi kisi talwaar mein
-  
+
   8
   Baad-e-qatl-e-Shaah-e-diṅ ye waqt ruk jaata Naved
   Haye Abid gar na hote waqt ki raftar mein

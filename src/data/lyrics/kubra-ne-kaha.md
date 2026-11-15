@@ -15,42 +15,42 @@ romanLyrics: |-
   Kis sune ban meiṅ sote ho
   Bachpan ka randaapa dekho zara
   Kis sune ban meiṅ sote ho
-  
+
   1
   Sehra hai kahiṅ kangna hai kahiṅ
   Masnad ke ewaz hai khaak nashiṅ
   Hai raand bani mahbus-e-jafa
-  
+
   2
   Dekho to zara ham shaan-e-Ali
   Ye maang hamari khaak bhari
   Kis se maiṅ karuṅ qismat ka gila
-  
+
   3
   Paazeb ki jaa beri hai pari
   Kangne ke ewaz rassi hai bandhi
   Kya khub bani kya haal bana
-  
+
   4
   Thaama tha jo tum ne haath mera
   Dena tha lahad tak saath mera
   Ek shab ki bani se ho ke khafa
-  
+
   5
   Mazlum bane be yaar bane
   Marti hai bani ghamkhwaar bane
   Batlao to apna haal zara
-  
+
   6
   Maatam meiṅ garebaaṅ phaaruṅ gi
   Baaloṅ se lahad ko jhaaruṅ gi
   Lillaah mujhe do apna pata
-  
+
   7
   Shaadi ka naya qillat ye mila
   Hai sar pe mere ik kaali rida
   Dekho to dulhan ka haal zara
-  
+
   8
   Ho jaata tha Shaukat hashr bapa
   Hilti thi zamin-e-Karb o Bala

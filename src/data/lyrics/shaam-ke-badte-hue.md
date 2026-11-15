@@ -12,31 +12,31 @@ published: false
 romanLyrics: |-
   Musibat ki ghari aur shaam ke barhte hue saaye
   Tarapti reh gayi maaṅ aur Ali Akbar nahiṅ aaye
-  
+
   1
   Guzar jaana hi likha hai jawaani meiṅ agar ya Rab
   Guzarne se Ali Akbar ke pehle maaṅ guzar jaati
-  
+
   2
   Wohi andaaza kar sakta hai dard-e-qalb-e-Laila ka
   Nazar ke saamne jis ke jawaaṅ beta sinaaṅ khaaye
-  
+
   3
   Jawaaṅ ki laash piri meiṅ uthaana ek qayaamat hai
   Ye din Allah dunya meiṅ kisi ko bhi na dikhlaaye
-  
+
   4
   Sambhal kar khinchiyega qalb-e-Akbar se sinaaṅ Maula
   Ulajh kar nok-e-neza meiṅ jigar baahar na aa jaaye
-  
+
   5
   Zamiṅ tharra gayi Akbar ka laasha rakh ke reti par
   Husain Ibn-e-Ali jab shukr ka sajda bajaa laaye
-  
+
   6
   Ze sar taa paaoṅ zakhmi ho gaya lakht-e-dil-e-Zehra
   Lainoṅ ne tan-e-Sarwar pe itne tir barsaaye
-  
+
   7
   Main zaakir huṅ Husain Ibn-e-Ali ka ye dua kijiye
   Sharaf ye nasl se meri qayaamat tak nahiṅ jaaye

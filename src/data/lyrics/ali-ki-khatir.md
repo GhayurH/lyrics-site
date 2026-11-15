@@ -17,39 +17,39 @@ published: false
 romanLyrics: |-
   Banayi Khaaliq ne saari dunya Ali ki khatir
   Ye bahas ab chhor do hai kya kya Ali ki khatir
-  
+
   1
   Wo arsh par hai Rajab ki terah Ali ki khatir
   Ali hai Kabe mein aane waala Ali Jalla Jalalahu ki khatir
-  
+
   2
   Wahaṅ talak hai zarur chaukhat Ali ke ghar ki
   Jahaṅ se suraj palat ke aaya Ali ki khatir
-  
+
   3
   Kuchh is tarah daar par tha Mesam ka chehra roshan
   Ke jaise ho aik chaand nikla Ali ki khatir
-  
+
   4
   Are muqassir na parh tu Quran dekh is mein
   Jagah jagah hai likha qasida Ali ki khatir
-  
+
   5
   Nahiṅ ke bas Jibril Quran hi tha laata
   Kabhi kabhi tha faqat wo aata Ali ki khatir
-  
+
   6
   Ali ka hai ikhtiyar kitna ye un se puchho
   Jo mar ke zinda hue dobara Ali ki khatir
-  
+
   7
   Wo seb jis mein tha nisf Nur-e-Batool wo bhi
   Hai ban ke phir Zulfiqar utra Ali ki khatir
-  
+
   8
   Banaya jab us ne Fizza ko Fatima ki khatir
   Khuda ne Salman bhi banaya Ali ki khatir
-  
+
   9
   Ali ka Shia banega kab tak khud apni khair
   Asad bas ab ban Ali ka Shia Ali ki khair

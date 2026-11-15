@@ -15,43 +15,43 @@ romanLyrics: |-
   Ab jaan nikalne wali hai
   Allah re mujh par jaur o jafa
   Ab jaan nikalne wali hai
-  
+
   1
   Hai Shimr-e-sitamgar maahile shaar
   Hai zulm se us ke chhalni jigar
   Padte hai tamazhe subho masa
   Ab jaan nikalne wali hai
-  
+
   2
   Maaṅ phuphiyoṅ ki hasrat tum se kahuṅ
   Ya apni musibat tum se kahuṅ
   Har roz hai hum par zulm naya
   Ab jaan nikalne wali hai
-  
+
   3
   Akbar bhi hue aankhoṅ se nihaaṅ
   Qasim ka bhi kuchh paaya na nishaaṅ
   Baba ka bhi milta hai na pata
   Ab jaan nikalne wali hai
-  
+
   4
   Dunya ki nigaaheṅ hum se phiri
   Sayyidaaniyaṅ sab nazroṅ se giri
   Kya tum bhi hue ho hum se khafa
   Ab jaan nikalne wali hai
-  
+
   5
   Zindaan ki wo girti diwareṅ
   Ranjur diloṅ ki wo aaheṅ
   Dehshat se jigar phatta hai mera
   Ab jaan nikalne wali hai
-  
+
   6
   Shaam aati hai zindaan mein jis dam
   Ghabrata hai dil mera us dam
   Chillaati huṅ keh kar aao chacha
   Ab jaan nikalne wali hai
-  
+
   7
   Haidar bas rok apna qalam
   Majlis mein hui har chashm hai nam

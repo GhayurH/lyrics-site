@@ -13,37 +13,37 @@ published: false
 romanLyrics: |-
   Sar se Mehdi ke jo baaba ka utha hai saaya
   Yaad Maula ko Sakina ka tarapna aaya
-  
+
   1
   Kamsini mein jo yateemi ki aziyat dekhi
   Tha baras paanchwaaṅ jab baap ki mayyat dekhi
   Khun tapakta hua jab baap ka laasha paaya
-  
+
   2
   Saamarra mein bhi hui Karb o Bala jaisi hawa
   Bekhata maara gaya phir se gharib-e-Zahra
   Haaye baaba jo laboṅ pe dam-e-girya aaya
-  
+
   3
   Askari ne jo asiri mein shahaadat paayi
   Hujjat-e-haq ko Sakina ki bahut yaad aayi
   Qaid se jis ka janaaza bhi na koi laaya
-  
+
   4
   Roye Sajjad ko jab qaid-e-pidar yaad aayi
   Yaad aate rahe sab Shaam ke bekas qaidi
   Shaam waaloṅ ne asiroṅ pe sitam kya dhaaya
-  
+
   5
   Kitne tanha rahe ghaibat mein zamaane ke Imam
   Koi pursa na dilaasa na koi mahw-e-kalaam
   Jab bhi tanhaai mein dam sine mein ghutta paaya
-  
+
   6
   Baap ke baad jo Maula pe sitam hone ko the
   Ghaib mein le liya Allah ne mahfuz rahe
   Nila rukhsaar Sakina ka magar yaad aaya
-  
+
   7
   Kaash ho jaaye Samar Hujjat-e-aakhir ka zuhur
   Aur nazar dekh le majlis mein ke Maula ke huzur

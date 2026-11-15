@@ -14,67 +14,67 @@ romanLyrics: |-
   Kis liye chup ho mujhe itna bata do Fatema
   Ya Ali ek baar bas keh ke bula do Fatema
   Haaye ya Zehra haaye ya Zehra
-  
+
   1
   Pasliyaaṅ tuti hui haiṅ is ki hai mujh ko khabar
   Dil phata jaata hai gham se bas ye manzar dekh kar
   Meri khaatir haath pehlu se hata do Fatema
   Haaye ya Zehra haaye ya Zehra
-  
+
   2
   Fatema tuta hai pehlu haaye ye zulm o sitam
   Rukh pe saili ke nishaaṅ haiṅ haath mein bhi hai waram
   Ji rahi thi kis tarah itna bata do Fatema
   Haaye ya Zehra haaye ya Zehra
-  
+
   3
   Koi deta hai jawab ab aur na karta hai salaam
   Aisi ghurbat mein nahiṅ karti ho kiuṅ mujh se kalaam
   Mujh se tum baateṅ karo kuch gham mita do Fatema
   Haaye ya Zehra haaye ya Zehra
-  
+
   4
   Fatema pal bhar judaai seh nahiṅ paauṅga main
   Dard-e-dil apna kisi se keh nahiṅ paauṅga main
   Mujh ko jine ka zara sa hausla do Fatema
   Haaye ya Zehra haaye ya Zehra
-  
+
   5
   Fatema faryaad ye Hasnain ki sun lo zara
   Keh rahe haiṅ hum na kuch khaaeṅge ammaaṅ ke bina
   Apne haathoṅ se inheṅ khaana khila do Fatema
   Haaye ya Zehra haaye ya Zehra
-  
+
   6
   Yaad kar ke ro raha hai ek goshe mein Husain
   Uth ke tum paani pilaati thiṅ use milta tha chain
   Laal pyaasa hai utho paani pila do Fatema
   Haaye ya Zehra haaye ya Zehra
-  
+
   7
   Aao bachchoṅ aakhri didaar ab maaṅ ka karo
   Betiyoṅ khud ko sambhaalo maaṅ ka chehra chum lo
   Jaate jaate apne bachchoṅ ko dua do Fatema
   Haaye ya Zehra haaye ya Zehra
-  
+
   8
   Waqt-e-rukhsat aisa lagta hai ke main mar jaauṅga
   Apne haathoṅ se tumheṅ main kis tarah dafnaauṅga
   Sakht mushkil hai miri himmat barha do Fatema
   Haaye ya Zehra haaye ya Zehra
-  
+
   9
   Ye jo chehre par abhi tak aansuoṅ ke haiṅ nishaaṅ
   Kar rahe haiṅ ye tumhaari saari ghurbat ko bayaaṅ
   Kuch to apne gham mujhe khud se suna do Fatema
   Haaye ya Zehra haaye ya Zehra
-  
+
   10
   Dekho muṅh par muṅh rakhe kaise Hasan karta hai bain
   Ro raha hai nanhe haathoṅ se kafan thaame Husain
   In ke aansu poṅchh kar in ko sula do Fatema
   Haaye ya Zehra haaye ya Zehra
-  
+
   11
   Ro rahe haiṅ sun ke sab ahl-e-aza gham ka bayaaṅ
   Kaash khud keh deṅ Payambar ye Dabeer o Shadmaaṅ

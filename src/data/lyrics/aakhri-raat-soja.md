@@ -15,7 +15,7 @@ romanLyrics: |-
   Hai ye aakhri raat so ja Sakina
   Meri zindagi mein hi aaram kar le
   Abhi to muyassar hai baba ka sina
-  
+
   1
   Ae jaan-e-padar mujhko maloom hai ye
   Tujhe kal se bedard sone na deṅge
@@ -23,7 +23,7 @@ romanLyrics: |-
   Tujhe ye sitamgaar rone na deṅge
   Tu ji bhar ke mujh se mulaqat kar le
   Yehi chand lamhe haiṅ meri hazina
-  
+
   2
   Tujhe is liye hi to maanga tha maine
   Shaboṅ ki namazoṅ mein apne Khuda se
@@ -31,7 +31,7 @@ romanLyrics: |-
   Judaai teri main sahuṅ Karbala se
   Karuṅ sabr teri yatimi pe main bhi
   Kare sabr maqtal mein tu bhi Sakina
-  
+
   3
   Ye raunaq bhi kal shaam tak hai Sakina
   Ke barh jayegi teri tashna dahani
@@ -39,7 +39,7 @@ romanLyrics: |-
   Dikha kar tujhe Shimr phenkega paani
   Meri tashnagi yaad kar lena beta
   Ke raahoṅ mein jab bhi kabhi paani pina
-  
+
   4
   Safar ki thaki hai kuch aaram kar le
   Ae shehzadi ye raat dhalne se pehle
@@ -47,7 +47,7 @@ romanLyrics: |-
   Katega gala dam nikalne se pehle
   Mujhe bekhata qatl hona hai ran mein
   Meri laal ab mera mushkil hai jina
-  
+
   5
   Inheṅ ye khabar hai meri laadli hai
   Tujhe bhi satayeṅge ye Shaam wale
@@ -55,7 +55,7 @@ romanLyrics: |-
   Tujhe kar raha huṅ Khuda ke hawale
   Bahut mushkileṅ hoṅ giṅ Ashur ke din
   Musibat mein ye ghir gaya hai safina
-  
+
   6
   Gharib-ul-watan ki yehi aarzu hai
   Phuphi ki tarah zulm par sabr karna
@@ -63,7 +63,7 @@ romanLyrics: |-
   Yatimi ko le kar jahaṅ se guzarna
   Tujhe Kufa o Shaam ke raaste mein
   Bahut yaad aayega shahr-e-Madina
-  
+
   7
   Zafar der tak Shah-e-Diṅ aur Sakina
   Shab-e-gham mein karte rahe aah o zaari

@@ -17,27 +17,27 @@ romanLyrics: |-
   1
   Sar apna jhukaye baithi hai
   Bhai ka pehla chehlum hai
-  
+
   2
   Wo nazr dilaaye kis tarah
   Paani bhi nahiṅ hai ek khatra
   Ghazi ki bahut yaad aati hai
-  
+
   3
   Dil khol ke rone na paayi
   Apne bhai ko maajaayi
   Rone pe bhi paabandi hai
-  
+
   4
   Is tarah koi majbur na ho
   Aur itne ghamoṅ se chur na ho
   Zahra ki dulaari qaidi hai
-  
+
   5
   Kulsum ke dil pe kya guzri
   Ye jaan nahiṅ paaya koi
   Chehre pe bahut maayusi hai
-  
+
   6
   Athaara baraadar ki khwaahar
   Kis tarah rakhe dil par patthar

@@ -17,55 +17,55 @@ romanLyrics: |-
   1
   Ghore ke qadam thaam ke kehti thi Sakina
   Baba ho mujhe chhor chale kis ke sahare
-  
+
   2
   Ye tera hi dil hai ke sinaṅ khinchi hai tu ne
   Sadqe tere Shabbir Ibrahim pukare
-  
+
   3
   Baithi hai yatimoṅ ko jale khaime mein le kar
   Sayyidaaniyaaṅ tanha hai ke waaris gaye maare
-  
+
   4
   Main aakhri rukhsat ke liye aayi huṅ bhaiya
   Ghazi ko pukaro hameṅ mehmil se utare
-  
+
   5
   Bhaiya tere baazu mujhe raste mein mile haiṅ
   Ye kya hai yahaaṅ tum ho wahaaṅ baazu tumhare
-  
+
   6
   Haathoṅ pe utha ke kaha Shabbir ne logoṅ
   Baccha mera dam todta hai pyaas ke maare
-  
+
   7
   Khat likhti hai shikwoṅ ke use kaun bataaye
   Tu lut gayi Sughra tere bhaiya gaye maare
-  
+
   8
   Zainab ne diya bosa jo bhai ke gale par
   Shabbir chale khaime se rone lage saare
-  
+
   9
   Likha hai mujhe sadqe mein Asghar ke bula lo
   Dam ghutta hai bhaiya mere tanhaai ke maare
-  
+
   10
   Maare haiṅ tamaache mujhe baaloṅ se pakar kar
   Dur khinch ke zaalim ne haiṅ kaanoṅ se utaare
-  
+
   11
   Shabbir lahad khod ke ye soch rahe haiṅ
   Ab kis se kahe qabr mein Asghar ko utaare
-  
+
   12
   Baba mujhe ek pal ko hi sine se laga lo
   Din bhar se huṅ bechain bahut dard ke maare
-  
+
   13
   Hurmal ne kaha tir chala kar shaah-e-diṅ se
   Aata hai abhi jaam-e-qaza paas tumhare
-  
+
   14
   Dekhe to Nisar aaj koi Hurr ka muqaddar
   Dozakh se chala aa gaya Kausar ke kinaare

@@ -12,42 +12,42 @@ aliases: []
 published: false
 romanLyrics: |-
   Aa ke maqtal mein saf-e-matam bichhao Fatima
-  
+
   1
   Dushmanoṅ mein ghir gaya hai aap ka pyara Husain
   Jaaṅ-ba-lab hai Karbala mein bekas o tanha Husain
   Tashna lab bete ko seene se laga lo Fatima
-  
+
   2
   Ab na Qasim hai na Akbar hai na Abbas-e-Jari
   Khanjar-e-zulm o sitam hai gardan-e-sibt-e-Nabi
   Asr ka hangaam hai baaliṅ pe aao Fatima
-  
+
   3
   Garm reti par tadapta hai Nabi ka laadla
   Gunjti hai Karbala mein wa Husaina ki sada
   Berida maqtal mein Zainab hai sambhalo Fatima
-  
+
   4
   Kya musibat ki ghari hai kya qayamat ka samaaṅ
   Aaye haiṅ Karbobala mein sarwar-e-kaun o makaaṅ
   Gham ki ye rudaad baba ko sunao Fatima
-  
+
   5
   Allah Allah ibn-e-Haider bekhata maara gaya
   Reh gayi Zainab tadap kar aur gala kaata gaya
   Bhai ka pursa behen ko dene aao Fatima
-  
+
   6
   Ro rahi pit ke sar gham ki maari bibiyaaṅ
   Baap ke gham mein Sakina le rahi hai hichkiyaaṅ
   Aa ke seene se Sakina ko laga lo Fatima
-  
+
   7
   Arsh wale ro rahe haiṅ ro raha hai aasmaaṅ
   Ranj o gham se kaaṅpta hai ek mariz-e-naatawaaṅ
   Abid-e-muztar ko pursa dene aao Fatima
-  
+
   8
   Ae Takallum ahl-e-sitam ab ghar jalane aaye haiṅ
   Ahl-e-Bait-e-Mustafa par zulm dhaane aaye haiṅ
@@ -85,7 +85,7 @@ romanLyrics: |-
 بھائی کا پرسہ بہن کو دینے آؤ فاطمہ
 
 ۶
-رو رہی پیٹ کے سر غم کی ماری بیبیاں
+رو رہی پیٹ کے سر غم کی ماری بی‌بیاں
 باپ کے غم میں سکینہ لے رہی ہے ہچکیاں
 آ کے سینے سے سکینہ کو لگا لو فاطمہ
 
@@ -97,4 +97,4 @@ romanLyrics: |-
 ۸
 اے تکلم اہلِ ستم اب گھر جلانے آئے ہیں
 اہلِ بیت مصطفیٰ پر ظلم ڈھانے آئے ہیں
-بیبیوں کو اس مصیبت سے بچاؤ فاطمہ
+بی‌بیوں کو اس مصیبت سے بچاؤ فاطمہ

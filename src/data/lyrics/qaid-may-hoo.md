@@ -20,7 +20,7 @@ romanLyrics: |-
   Main aaj bhi huṅ tanha tanha
   Sab riha hue main qaid mein huṅ
   Main qaid mein huṅ
-  
+
   1
   Maaeṅ phuphiyaaṅ bhai bahneṅ
   Abbas chacha baba Sarwar
@@ -30,7 +30,7 @@ romanLyrics: |-
   Yasrab bhi chhuta kunba bhi chhuta
   Sab riha hue main qaid mein huṅ
   Main qaid mein huṅ
-  
+
   2
   Zindaaṅ se meri tanhaai par
   Sab karte hue faryaad gaye
@@ -40,7 +40,7 @@ romanLyrics: |-
   Main aaj bhi huṅ tanha tanha
   Sab riha hue main qaid mein huṅ
   Main qaid mein huṅ
-  
+
   3
   Is qaid mein huṅ din raat jahaaṅ
   Wahshat ka basera rahta hai
@@ -50,7 +50,7 @@ romanLyrics: |-
   Ek dip jala de aa ke zara
   Sab riha hue main qaid mein huṅ
   Main qaid mein huṅ
-  
+
   4
   Nazroṅ mein phira karta hai meri
   Har ek ki chaahat ka manzar
@@ -60,7 +60,7 @@ romanLyrics: |-
   Aur khaak bani bistar mera
   Sab riha hue main qaid mein huṅ
   Main qaid mein huṅ
-  
+
   5
   Har samt parindoṅ se aksar
   Kahti thi Sakina ro ro kar
@@ -70,7 +70,7 @@ romanLyrics: |-
   Us sher se itna kah dena
   Sab riha hue main qaid mein huṅ
   Main qaid mein huṅ
-  
+
   6
   Haathoṅ ko utha ke su-e-Najaf
   Dada se duaaeṅ maaṅgte haiṅ
@@ -80,7 +80,7 @@ romanLyrics: |-
   Chaudah sadiyoṅ se ahl-e-aza
   Sab riha hue main qaid mein huṅ
   Main qaid mein huṅ
-  
+
   7
   Har waqt andhere baste haiṅ
   Har aan mujhe darr lagta hai
@@ -90,7 +90,7 @@ romanLyrics: |-
   Kul chaar baras hai sin mera
   Sab riha hue main qaid mein huṅ
   Main qaid mein huṅ
-  
+
   8
   Nana ka Madina chhut gaya
   Kuch aisa laga qismat ko gahan
@@ -100,7 +100,7 @@ romanLyrics: |-
   Kuch bhi to nahiṅ hai meri khata
   Sab riha hue main qaid mein huṅ
   Main qaid mein huṅ
-  
+
   9
   Shabbir ke maatam daaroṅ ko
   Ye dard o alam tarpaate haiṅ

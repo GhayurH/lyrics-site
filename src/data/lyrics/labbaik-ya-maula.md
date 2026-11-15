@@ -12,7 +12,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Labbaika ya Maula
-  
+
   1
   Hal min ki sada ran mein Shabbir lagaate haiṅ
   Rukh kar su-e-darya bhai ko bulaate haiṅ
@@ -20,7 +20,7 @@ romanLyrics: |-
   Abbas pukaare ya Maula
   Huṅ nehr kinaare ya Maula
   Sadqe mein tumhaare ya Maula
-  
+
   2
   Ab koi nahiṅ mera maidaan mein tanha huṅ
   Laakhoṅ hai mere dushman ae bhai akela huṅ
@@ -28,7 +28,7 @@ romanLyrics: |-
   Khwaahish hai ke aauṅ ya Maula
   Tera saath nibhaauṅ ya Maula
   Aaqa ko bachaauṅ ya Maula
-  
+
   3
   Tum quwwat-e-baazu the lakht-e-dil-e-Zehra the
   Tuti hai kamar meri bhaiya tere marne se
@@ -36,7 +36,7 @@ romanLyrics: |-
   Sab kehte haiṅ ran se ya Maula
   Har zakhmi badan se ya Maula
   Abbas ke tan se ya Maula
-  
+
   4
   Jab dard bhara lehja main aap ka sunta huṅ
   Darya pe tarapta huṅ kuchh kar nahiṅ sakta huṅ
@@ -44,7 +44,7 @@ romanLyrics: |-
   Paani na pilaaya ya Maula
   Darya se na lauta ya Maula
   Phatta hai kaleja ya Maula
-  
+
   5
   De dete agar mujhko aap izn-e-wagha Maula
   Is lashkar-e-aada ko mitti mein mila deta
@@ -52,7 +52,7 @@ romanLyrics: |-
   Phir dil hai machalta ya Maula
   Ho jaauṅ zinda ya Maula
   Dushman ko sikhaata ya Maula
-  
+
   6
   Ho jaata agar zinda nusrat ke liye aata
   Is baar bhi Aaqa par qurbaan main ho jaata
@@ -60,7 +60,7 @@ romanLyrics: |-
   Phir aap na jaate ya Maula
   Hum tegh chalaate ya Maula
   Aur khun mein nahaate ya Maula
-  
+
   7
   Maula ki sada sun kar sab laasheṅ tarapte haiṅ
   Sab apni kati gardan se chikh ke kehte haiṅ
@@ -68,7 +68,7 @@ romanLyrics: |-
   Goya hue Jafar ya Maula
   Tarpe Ali Akbar ya Maula
   Gehwaare mein Asghar ya Maula
-  
+
   8
   Agar maut mujhe Aaqa majbur nahiṅ karti
   Is fauj-e-Yazidi mein itni kahaaṅ jurat thi
@@ -76,7 +76,7 @@ romanLyrics: |-
   Majbur hai khaadim ya Maula
   Tukre hue Qasim ya Maula
   Soye Bani Hashim ya Maula
-  
+
   9
   Yaad aap ki ae Aaqa Zainab ko sataayegi
   Kulsum o Ruqayya ko bhi khun rulaayegi
@@ -84,7 +84,7 @@ romanLyrics: |-
   Bolegi tarap kar ya Maula
   Baba mere Sarwar ya Maula
   Bechain hai dukhtar ya Maula
-  
+
   10
   Shafqat ye sada aayi darya ki taraai se
   Aamir jo madad maaṅgi ek bhai ne bhai se

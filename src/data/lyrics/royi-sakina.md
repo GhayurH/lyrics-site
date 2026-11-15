@@ -15,37 +15,37 @@ romanLyrics: |-
   Paani chacha kaahe naahiṅ laaye
   Dar pe khari huṅ aas lagaaye
   Paani chacha kaahe naahiṅ laaye
-  
+
   1
   Khaali kuza haath ma thaame
   Raah takat hai kab se bachi
   Koi to us ki aas bandhaaye
   Paani chacha kaahe naahiṅ laaye
-  
+
   2
   Kab ke gaye the lene paani
   Bhul gaye ka hamri kahaani
   Ab kaun hamri pyaas bujhaaye
   Paani chacha kaahe naahiṅ laaye
-  
+
   3
   Mashk o alam jab le ke gaye the
   Bachche rasta dekh rahe the
   Puchhat hai ham se kaun bataaye
   Paani chacha kaahe naahiṅ laaye
-  
+
   4
   Binti karat huṅ koi ye keh de
   Nehr pe jaa kar more ammu se
   Saanj bahe ab tak nahiṅ aaye
   Paani chacha kaahe naahiṅ laaye
-  
+
   5
   Qaime jalat hai chinat hai chaadar
   Laygawa mora bunda sitamgar
   Ammu ko mere koi goheye laye
   Paani chacha kaahe naahiṅ laaye
-  
+
   6
   Mohsin abhi tak khuṅ hai rulaati
   Pyaas Sakina aur Asghar ki

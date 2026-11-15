@@ -13,85 +13,85 @@ published: false
 romanLyrics: |-
   Ye bole Hazrat-e-Abbas aa ke Sarwar se
   Ke sabr ho nahiṅ sakta hai ab is ahqar se
-  
+
   1
   Hai bachche tashna dahaani se jaaṅ balab Maula
   Sadaa-e-alatash aati hai khaimoṅ ke dar se
   Jo izn-e-jang nahiṅ laane dijiye paani
   Ke meri pyaari Sakina na aab ko tarse
-  
+
   2
   Ye sun ke Hazrat-e-Shabbir ne jhukaaya sar
   Samajh li bhai ki marzi sukut-e-Sarwar se
   Utha ke mashk o alam aur le ke ek neza
   Chala diler raza paate hi baraadar se
-  
+
   3
   Bhaga ke fauj-e-sitam aur bhar ke nehr se mashk
   Su-e-khayaam phire larte fauj-e-akfaar se
   Thi mashk dosh par aur dast-e-raast mein neza
   Jo ek laiṅ ne kiya us pe waar khanjar se
-  
+
   4
   Sambhaala mashk o alam baayeṅ haath se lekin
   Tamaam fauj ki thi jang ek dilaawar se
   Bilaakhir us pe bhi talwaar ek shaqi ki pari
   Lahu ka beh gaya darya tan-e-mutahhar se
-  
+
   5
   Magar thi koshish-e-Abbas paani bach jaaye
   Ke surkh ru huṅ pila kar main bint-e-Sarwar se
   Daba ke daantoṅ mein tasma barhe the aap abhi
   Ke aa ke tir para lashkar-e-sitamgar se
-  
+
   6
   Idhar to mashk chhidi dhaar nikli paani ki
   Ek aah sard udhar nikli qalb-e-muztar se
   Kuchh aur aage barhe the ke sar pe gurz para
   Khitaab kar ke kaha tab jari ne Sarwar se
-  
+
   7
   Ke jaaṅ apni fida ki ghulaam ne Maula
   Dua hai ser huṅ ab did-e-ruh-e-anwar se
   Sada ye sun ke kamar thaam ke chale Hazrat
   Ye kehte jaate the ro ro ke shaah Akbar se
-  
+
   8
   Kidhar se aayi nida jald le chalo beta
   Ke marte waqt gale mil luṅ main baraadar se
   Gharaz ke pahunche to ghaltaaṅ the khun mein Abbas
   Na dekhi jaati thi haalat jari ki Sarwar se
-  
+
   9
   Utha ke sar rakha zaanu pe aur ro ke kaha
   Agar ho koi tamanna kaho baraadar se
   Kaha ye Hazrat-e-Abbas ne ke ae Aaqa
   Tha dil mein shauq-e-ziyaarat magar muqaddar se
-  
+
   10
   Ek aaṅkh tir se zakhmi hai aur dusri par
   Jama hai khun nikal kar shigaafta sar se
   Aba ka daaman utha kar wo khun Shaah-e-din ne
   Chhuraaya dasht mein ro ro ke dast-e-athar se
-  
+
   11
   Rukh-e-Husain ko hasrat se dekh kar ek baar
   Qarib apne bula kar kaha ye Akbar se
   Mujhe yaqiṅ hai pas-e-qatl-e-fauj-e-Kufa o Shaam
   Kareṅ gi beadabi jism-e-Shaah-e-Safdar se
-  
+
   12
   Sipurd kar ke meri laash Ibn-e-Saad ko tum
   Meri taraf se ye keh dena baani-e-shar se
   Iwaz Husain ke paamaal kar de laash meri
   Ke roz-e-hashr khijaalat na ho Payambar se
-  
+
   13
   Khitaab sheh se kiya phir ke mere laashe ko
   Huzur uthaaye na lillaah is jagah par se
   Kiya tha waada Sakina se paani laane ka
   Huṅ sharmsaar main Aaqa ki pyaari dukhtar se
-  
+
   14
   Ye kehte kehte sidhaare su-e-jinaaṅ Abbas
   Husain roye lipat kar tan-e-baraadar se

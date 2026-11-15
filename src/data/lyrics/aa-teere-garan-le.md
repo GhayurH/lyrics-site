@@ -20,37 +20,37 @@ romanLyrics: |-
   Ab baat na karna lori ki
   Hona hai hamesha hi ke liye
   Tujhe apni maaṅ se dur Asghar
-  
+
   2
   Ek baar shahadat sab ke liye
   Do baar shahadat tere liye
   Ek tir-e-giraaṅ aur ek naiza
   Is gaam pe hai mamur Asghar
-  
+
   3
   Hum pyas liye haiṅ zabaanoṅ par
   Wo qabza kiye haiṅ darya par
   Mansur ye hum mazlumoṅ ka
   Wo zaalim ka Mansur Asghar
-  
+
   4
   Ye Shami Kufi patthar dil
   Kuch der mein ye sab royeṅge
   Mumkin jo na tha ho jayega
   Hansne se tere wo zarur Asghar
-  
+
   5
   Shaamil hai azal ke waade mein
   Chehre pe mere ho tera lahu
   Aabaad ho teri tajalli se
   Aaghosh ka mere Tur Asghar
-  
+
   6
   Kuch din hi jiyegi baad tere
   Tujhe god mein paalne waali maaṅ
   Bachchoṅ ki judaai ke zakhmoṅ se
   Us ka dil hoga chur Asghar
-  
+
   7
   Abid tere gham ka kaatib hai
   Abid tere dar ka sajid hai

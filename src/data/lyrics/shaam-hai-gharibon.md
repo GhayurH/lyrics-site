@@ -14,42 +14,42 @@ romanLyrics: |-
   Shaam hai ghariboṅ ki dardnaak manzar hai
   Behavaas maidaan mein itrat-e-Payambar hai
   Dardnaak manzar hai
-  
+
   1
   Tiragi hai dehshat hai haye kya qayaamat hai
   Hai haram ki nigraani aur Ali ki dukhtar hai
   Dardnaak manzar hai
-  
+
   2
   Chhaa chuki hai taariki phir bhi zulm hai jaari
   Shimr ke tamaanche hai Shaah-e-diṅ ki dukhtar hai
   Dardnaak manzar hai
-  
+
   3
   Ek yatim bachchi ko haye yuṅ mila pursa
   Kaan ho gaye zakhmi pusht khuṅ mein tar hai
   Dardnaak manzar hai
-  
+
   4
   Haye kya bhara ghar tha aur ab hai sannaata
   Subha ka tha wo manzar shaam ka ye manzar hai
   Dardnaak manzar hai
-  
+
   5
   Jal chuke hai sab khaime bibiyaṅ hui beaas
   Ab na koi waaris hai aur na sar pe chaadar hai
   Dardnaak manzar hai
-  
+
   6
   Kya likhe bhala koi haal-e-Aabid-e-muztar
   Aasmaan saaya hai aur zamin bistar hai
   Dardnaak manzar hai
-  
+
   7
   Fatema ke gulshan ko kis tarah kiya taaraaj
   Ab na koi Akbar hai aur na koi Asghar hai
   Dardnaak manzar hai
-  
+
   8
   Sar hai sajde mein Sajid bahr-e-shukr bete ka
   Saamne hi naize par baap ka kata sar hai
@@ -83,7 +83,7 @@ romanLyrics: |-
 درد ناک منظر ہے
 
 ۵
-جل چکے ہے سب خیمے بیبیاں ہوئی بے آس
+جل چکے ہے سب خیمے بی‌بیاں ہوئی بے آس
 اب نہ کوئی وارث ہے اور نہ سر پہ چادر ہے
 درد ناک منظر ہے
 

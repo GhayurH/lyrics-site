@@ -12,79 +12,79 @@ published: false
 romanLyrics: |-
   Haae kis bekas o mazlum ka ye maatam hai
   Fatima aayi haiṅ rone ko ye kis ka gham hai
-  
+
   1
   Nange sar saath haiṅ hureṅ bhi ajab aalam hai
   Rone waaloṅ se ye irshaad bhi to ye paiham hai
   Rone waaloṅ tumheṅ rone ka sila dene ko
   Fatima aayi haiṅ tum sab ko dua dene ko
-  
+
   2
   Ae azaadaaroṅ tumheṅ Khaaliq-e-Akbar ki qasam
   Kaun mazlum hai woh tum ko Payambar ki qasam
   Naam lo us ka zabaaṅ se tumheṅ Haidar ki qasam
   Bezabaaṅ hasliyoṅ waale Ali Asghar ki qasam
-  
+
   3
   Ro ke keh do ke koi bekas o maghmum nahiṅ
   Juz Husain ibn-e-Ali aur koi mazlum nahiṅ
   Yehi mazlum Madine ka hai rehne waala
   Ek saiyyadaani ne faaqoṅ mein use tha paala
-  
+
   4
   Nayyar-e-burj-e-imaamat ka hai yehi hai haala
   Ek bekas pa sitam hai ye falak ne daala
   Subh se asr talak ghar ko lutaaya is ne
   Mar gaye sab to gala apna kataaya is ne
-  
+
   5
   Shab-e-haftum se hua band is par paani
   Isi mazlum ke qismat mein ye thi hairaani
   Zibh jab hota tha ran mein jo Ali ka jaani
   Pitti phirti thi maqtal mein koi saiyyadaani
-  
+
   6
   Kaun saiyyadaani wohi Fatima ki jaani thi
   Bhai ke pyaar mein sar nange nikal aayi thi
   Haaṅ Payambar ke Madine ka musaafir hai yehi
   Apne nana ki lahad ka bhi mujaawir hai yehi
-  
+
   7
   Jis ko paani na mila tha dam-e-aakhir hai yehi
   Jis pe sadqe hue Ayyub woh sarwar haiṅ yehi
   Bekas o bewatan o tashna dahan kehte haiṅ
   Isi mazlum ko mohtaaj-e-kafan kehte haiṅ
-  
+
   8
   Ya Husain aap ki mazlumi o ghurbat ke nisaar
   Sar ko katwa diya kis shaan se himmat ke nisaar
   Tah-e-khanjar bhi kiya sajda ibaadat ke nisaar
   Nange sar dekha na hamsheer ko ghurbat ke nisaar
-  
+
   9
   Hoṅ fida aap pe muṅh ashkoṅ se dhone waale
   Ya Husain aap pe sadqe hoṅ ye rone waale
   Dekha is bekas o mazlum ki shaan-e-ghurbat
   Chhote bete ki lahad khodi hai uf ye himmat
-  
+
   10
   Kaampte haathoṅ se Aaqa ne banaayi turbat
   Kya kaheṅ kis se kaheṅ qalb ki apni haalat
   Chaand ko apne tah-e-khaak chhupaaya hai abhi
   Hansliyoṅ waale ko turbat mein sulaaya hai abhi
-  
+
   11
   Kis qadar bekas o mazlum tha ye shaah-e-gharib
   Na kafan chhote se saiyyad ko hua us ke nasib
   Sar ko katwaaye hue sote haiṅ sab us ke habib
   Pyaas se tin shab o roz se haalat hai ajib
-  
+
   12
   Ya Ali keh ke sambhaala hai dil-e-muztar ko
   Khuṅ bhare kurte mein dafnaaya Ali Asghar ko
   Ro ke dete haiṅ sada maah-e-anwar bolo
   Ae mere chhote shahid ae mere dilbar bolo
-  
+
   13
   Baap ko chhor ke tanha gaye kiuṅ kar bolo
   Dard kaisa hai gale mein Ali Asghar bolo

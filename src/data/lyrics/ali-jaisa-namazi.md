@@ -16,37 +16,37 @@ published: false
 romanLyrics: |-
   Ali jaisa namazi torta hai dam musalle par
   Manati hai namazeṅ Murtaza ka gham musalle par
-  
+
   1
   Bujha kar zehr mein shamshir apni Ibn-e-Muljim ne
   Lagayi us ghari zarbat lagayi Ibn-e-Muljim ne
   Ali-e-Murtaza ne jab kiya sar kham musalle par
-  
+
   2
   Shaqi ne war Shah par ain sajde mein kiya aisa
   Sar-e-Haider hua do nim ubla khun ka darya
   Tarapta reh gaya Sultan-e-Do-Aalam musalle par
-  
+
   3
   Khuda jane ye himmat kaisi dikhlayi hai Shabbar ne
   Namaz-e-fajr ki takmil phir bhi ki hai Shabbar ne
   Ali ke sar se behta tha lahu paiham musalle par
-  
+
   4
   Sada deta hai Kufa keh raha hai Bait-e-Dawar bhi
   Gawahi de rahe haiṅ masjid o mehrab o mimbar bhi
   Hai ab bhi mahw-e-sajda Waris-e-Adam musalle par
-  
+
   5
   Jabiṅ sajde mein hai aur zehn mein Kufa ka manzar hai
   Nazar mein zakhmi sar hai nauha-e-Haider laboṅ par
   Ke aaṅsu kar rahe haiṅ Shah ka matam musalle par
-  
+
   6
   Rulati hai hamesha Shah-e-Khaibargir ki yadeṅ
   Sada tarpati rehti hai hameṅ Shabbir ki yadeṅ
   Namazoṅ ke liye aate haiṅ jab bhi hum musalle par
-  
+
   7
   Lahu Rehaan roe Waris-e-Kaba ki furqat mein
   Mujeeb Afkar ne nauhe parhe roze ki halat mein

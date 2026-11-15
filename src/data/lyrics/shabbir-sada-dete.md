@@ -14,23 +14,23 @@ romanLyrics: |-
 
   Jaane kis haal mein Shabbir sada dete haiṅ
   Ran mein soye hue laashe bhi utha dete haiṅ
-  
+
   1
   Hausle se wo har ek laash uthaate hi rahe
   Jaane Akbar pe kiuṅ wo khud ko gira dete haiṅ
-  
+
   2
   Koi neza koi talwaar koi tiroṅ se
   Is tarah ajr-e-risaalat ka sila dete haiṅ
-  
+
   3
   Puchha Farwa ne kahaaṅ hai mera Qaasim Maula
   Khol ke Maula use gathri dikha dete haiṅ
-  
+
   4
   Kahiṅ paamaal na ho jaaye Asghar-e-maasum
   Tapti reti pe wo moti ko chhupa dete haiṅ
-  
+
   5
   De ke sadqa Ali Akbar ka Husain ibn-e-Ali
   Dard saare Salaamat ko rika dete haiṅ

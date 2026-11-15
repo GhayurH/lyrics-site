@@ -15,57 +15,57 @@ romanLyrics: |-
   Dam ghuta jaata hai mera qaid meiṅ
   Aao ammu tum ko mera waasta
   Dam ghuta jaata hai mera qaid meiṅ
-  
+
   1
   Main karuṅ kab tak tumhaara intizaar
   Pyaasi aaṅkheṅ har ghari hai ashkbaar
   Lene aaoge mujhe tum kab bhala
-  
+
   2
   Laakh apne dil ko behlaati huṅ main
   Par andheroṅ se dari jaati huṅ main
   Mil rahi hai mujh ko ye kaisi saza
-  
+
   3
   Karbala se shaam tak ka ye safar
   Sakhtiyaaṅ jheli hai main ne raah bhar
   Aur is par zulm ye zindan ka
-  
+
   4
   Zindagi meiṅ har ghari thi roshni
   Dekhte hi dekhte shaam aa gayi
   Ab andheroṅ se faqat hai waasta
-  
+
   5
   Kya karuṅ kuchh aql meiṅ aata nahiṅ
   Koi dukhiya par taras khaata nahiṅ
   Kab rukega zulm ka ye silsila
-  
+
   6
   Nil chehre par hai kurta khuṅ se tar
   Main bahut royi huṅ ammu raat bhar
   Puchhta koi nahiṅ hai kya hua
-  
+
   7
   Umr chhoti hai bahut main kya karuṅ
   Aur kab tak zulm se tanha laruṅ
   Ho na aisa dam nikal jaaye mera
-  
+
   8
   Qaid khaane meiṅ har ek shaam o sahar
   Dil ko tarpaati rahi yaad-e-padar
   Aaj tak tuta nahiṅ ye silsila
-  
+
   9
   Jaane kab ho mujh ko mera ghar nasib
   Main khari huṅ maut se itna qarib
   Dijiye dhaaras mujhe aa kar chacha
-  
+
   10
   Dil meiṅ jine ki tamanna hi nahiṅ
   Meri turbat ab bane shaayad yahi
   Muntazir hai dil faqat ab maut ka
-  
+
   11
   Jab sitam ko sehte sehte thak chuki
   Qaid khaane meiṅ Sakina mar gayi

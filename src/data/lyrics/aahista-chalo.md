@@ -15,24 +15,24 @@ romanLyrics: |-
   Na mehmil na kajawa hai na haudaj hai koi
   Asir sab the magar ek hi rasan mein bandhe
   Gala Sakina ka hai shaan-e-haram ke jakre hue
-  
+
   Rasan jo khinchti hai karti hai Sakina nale
   Thehro aahista chalo
   Aahista chalo ae phuphi ammaṅ
   Rassi se gala dukhta hai mera
-  
+
   1
   Hai ammaṅ gala is tarah jakra hai rasan mein
   Do gaam bhi chalne ki nahiṅ jaan badan mein
   Khulwado rasan kardo ye ehsaan
   Rassi se gala dukhta hai mera
-  
+
   2
   Kis shaan se nikli thi sawari mere ghar se
   Ammu mujhe khud laye the mehmil mein bitha ke
   Ek ye hai safar haye phuphi jaan
   Rassi se gala dukhta hai mera
-  
+
   3
   Ye dekh ke rote haiṅ mere baba sinaṅ par
   Rone pe mujhe durre lagata hai sitamgar
@@ -44,19 +44,19 @@ romanLyrics: |-
   Ammaṅ meri saansoṅ ka bharosa nahiṅ koi
   Chehre se aziyat hai numayaṅ
   Rassi se gala dukhta hai mera
-  
+
   5
   Main aap ke zakhmoṅ se bhi waaqif huṅ phuphi jaan
   Kuch waade nibhane haiṅ mujhe bar sar-e-zindaṅ
   Bas kehti huṅ main ba haal-e-pareshan
   Rassi se gala dukhta hai mera
-  
+
   6
   Mar jaye gi mar jaye gi is raah mein muztar
   Dada ko sada deti huṅ har gaam tarap kar
   Ya Shaah-e-Najaf Sayyad-e-Zishan
   Rassi se gala dukhta hai mera
-  
+
   7
   Ae ammaṅ kaleje mein ulajhne lagi saanseiṅ
   Ab aur safar karne ki taqat nahiṅ mujh mein

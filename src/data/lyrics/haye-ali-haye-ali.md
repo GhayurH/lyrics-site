@@ -12,32 +12,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Haye Ali haye Ali haye Ali haye
-  
+
   1
   Zainab ne jis ghari suni purdard ye sada
   Aai tarap ke dar ke qarib ye deti hui nida
   Khaana-e-Khaaliq mein hui kaisi jafa haye
-  
+
   2
   Hasnain ko pukaara wo aae to ye kaha
   Masjid mein jaa ke dekho to ye maajra hai kya
   Kaisi ye awaaz hai jo arsh ko hilaye
-  
+
   3
   Hasnain daure jaanib-e-Masjid barahna paa
   Dekha to nim ho gaya hai farq-e-Murtaza
   Baith ke pahlu mein sukhan lab pe yehi laae
-  
+
   4
   Halqe khaai gilim pe zakhmi pidar hua
   Le ke hue rawaaṅ su-e-Bait-e-Faatima
   Aae dar-e-Zehra pe ye waqt ke sataae
-  
+
   5
   Ghar mein Nabi ke jab hue daakhil Hasan Husain
   Ahl-e-Haram ne halqa kiya aur kiye ye bain
   Zainab o Kulsum ke lab par ye sukhan aae
-  
+
   6
   Waqt-e-Madad hai ab faqat aap is ki kijiye
   Maula Anis-e-Gham ki khabar jald lijiye

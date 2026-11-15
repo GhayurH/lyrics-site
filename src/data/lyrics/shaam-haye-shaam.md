@@ -13,7 +13,7 @@ romanLyrics: |-
   Shaam haye shaam
   Teri ummat ke zevar pehan ke
   Dekho nana chali huṅ main Shaam
-  
+
   1
   Main deti kafan tujh ko bhaiya
   Gar sar pe rida meri hoti
@@ -21,7 +21,7 @@ romanLyrics: |-
   Tere zakhmoṅ ko haathoṅ se dhoti
   Paaband-e-rasan sar barehna
   Dekho bhaiya chali huṅ main Shaam
-  
+
   2
   Ae nana main kaise sunaauṅ
   Darbaar-e-shaqi ka wo manzar
@@ -29,7 +29,7 @@ romanLyrics: |-
   Aur sar pe mere na thi chaadar
   Ae nana teri betiyoṅ ko
   Kiuṅ laaye hai sar nange aam
-  
+
   3
   Tere Aabid pe taari ghashi thi
   Aur Kulsum sehmi khari thi
@@ -37,7 +37,7 @@ romanLyrics: |-
   Jis ke daaman mein aag lagi thi
   Kabhi rouṅ main apni rida ko
   Kabhi dekhuṅ main jalte khiyaam
-  
+
   4
   Tere bachchoṅ ko le kar gayi main
   Shab bhar saari roti rahi huṅ
@@ -45,7 +45,7 @@ romanLyrics: |-
   Main pehre bhi deti rahi huṅ
   In bewa bahu betiyoṅ se
   Kiuṅ karte nahiṅ ho kalaam
-  
+
   5
   Jab roti thi baali Sakina
   Aur baba ko apne bulaati

@@ -13,55 +13,55 @@ published: false
 romanLyrics: |-
   Mehmaan hai chand roz ki Zehra Abalhasan
   Hai aap ke hawaale ye kunba Abalhasan
-  
+
   1
   Ranj o alam masaaib o furqat wo siskiyaaṅ
   Sab khatm hone waali hai Zehra ki sakhtiyaaṅ
   Lene ko aane wale haiṅ Baaba Abalhasan
   Hai aap ke hawaale ye kunba Abalhasan
-  
+
   2
   Taklif mere rone se ummat ko thi bari
   Shikwa tha sab ko girya-e-Zehra se ya Ali
   Soyega ab sukuṅ se Madina Abalhasan
   Hai aap ke hawaale ye kunba Abalhasan
-  
+
   3
   Dar par lagi thi aag har ek samt tha dhuaaṅ
   Diwaar o dar ke Fatema Zehra thi darmiyaaṅ
   Meri madad ko koi na aaya Abalhasan
   Hai aap ke hawaale ye kunba Abalhasan
-  
+
   4
   Jab ho raha tha mujh pe musalsal sitam shadid
   Pehlu shikasta ho gaya Mohsin hue shahid
   Maaṅ bhi na keh saka mera bachcha Abalhasan
   Hai aap ke hawaale ye kunba Abalhasan
-  
+
   5
   Lagti hai pyaas sakht mere dil ke chain ko
   Raatoṅ mein uth ke paani pilaana Husain ko
   Hove na us pe pyaas ka ghalba Abalhasan
   Hai aap ke hawaale ye kunba Abalhasan
-  
+
   6
   Shahzaadiyoṅ se mere na hargiz ho bekhabar
   Meri judaai ka kabhi un par na ho asar
   Samjhe na khud ko wo kabhi tanha Abalhasan
   Hai aap ke hawaale ye kunba Abalhasan
-  
+
   7
   Kamsin hai ghar mein maaṅ ki jo mahsus ho kami
   Taarikiyoṅ mein shab ki khudaara kabhi kabhi
   Bachchoṅ ko meri qabr pe laana Abalhasan
   Hai aap ke hawaale ye kunba Abalhasan
-  
+
   8
   Ye iltijaa hai aap se ae sher-e-Zuljalaal
   Ghusl o kafan ke saath ho is baat ka khayaal
   Shab mein hi uthe mera janaaza Abalhasan
   Hai aap ke hawaale ye kunba Abalhasan
-  
+
   9
   Altaf ye wasiyyateṅ Zehra ka tha bayaaṅ
   Safdar jo sun ke rote the Maula-e-Do Jahaaṅ

@@ -16,7 +16,7 @@ romanLyrics: |-
   Ab na barsaao pusht par kore
   Mar na jaaye kahiṅ mera bemaar
   Qaidi hai bemaar qaidi hai bemaar
-  
+
   1
   Har lamha koroṅ ki aziyat
   Durroṅ ki uftaad
@@ -24,7 +24,7 @@ romanLyrics: |-
   Kis se kareṅ faryaad
   Sab raste kaantoṅ se bhare haiṅ
   Chalna hai dushwaar
-  
+
   2
   Tauq-e-garaaṅ hai gardan mein
   Aur pairoṅ mein zanjir
@@ -32,7 +32,7 @@ romanLyrics: |-
   Ibn-e-shah-e-dilgir
   Saath haram haiṅ beparda
   Aur shaam ka hai bazaar
-  
+
   3
   Sabr kiye Ayub tumhaare
   Paas kahaaṅ tasvireṅ
@@ -40,7 +40,7 @@ romanLyrics: |-
   Lohe ki zanjireṅ
   Saare badan mein par gaye chhaale
   Haaye mera bemaar
-  
+
   4
   Qaid-e-sitam mein maut jo aayi
   Bint-e-shah-e-muztar ko
@@ -48,7 +48,7 @@ romanLyrics: |-
   Dafn kiya khwahar ko
   Tujhko kafan bhi de nahiṅ sakta
   Bhai hai laachar
-  
+
   5
   Thaam ke beri waqt-e-safar
   Ro ro ke kaha maula ne
@@ -56,7 +56,7 @@ romanLyrics: |-
   Ye to khuda hi jaane
   Aisi hai kuchh zauf o naqaahat
   Chalna hai dushwaar
-  
+
   6
   Mumkin hai maula ne kaha ho
   Laash-e-jari ke paas
@@ -64,7 +64,7 @@ romanLyrics: |-
   Mere chacha Abbas
   Aap ka beta ban ke chala hai
   Kunbe ka salaar
-  
+
   7
   Sharm mujhe khaaye jaati hai
   Kaash abhi mar jaauṅ
@@ -72,7 +72,7 @@ romanLyrics: |-
   Taab kahaaṅ se laauṅ
   Beparda hai maaṅ behneṅ
   Aur shaam ka hai darbar
-  
+
   8
   Shaam ke jaanib kaise chali thi
   Paigambar ki aal

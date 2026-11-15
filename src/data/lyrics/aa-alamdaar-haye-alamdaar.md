@@ -71,7 +71,7 @@ romanLyrics: |-
   Aankhoṅ ka taara mera, Sher-e-Jawaaṅ mar gaya
   Chand ka tukra mera, Sher-e-Jawaaṅ mar gaya
   Ghar ka ujala mera, Sher-e-Jawaaṅ mar gaya
-  
+
   Ruh-e-Ali jaan-e-Nabi alvida
   Aashiq o shaida-e-akhi alvida
   Laasha-e-Abbas-e-Ali alvida

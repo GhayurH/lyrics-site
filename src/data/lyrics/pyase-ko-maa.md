@@ -15,37 +15,37 @@ romanLyrics: |-
 
   Paani mila to pyase ko maaṅ dhundti rahi
   Asghar ki qabr ka wo nishaan dhundti rahi
-  
+
   1
   Uthti thi aah bharti thi phir baith jaati thi
   Dil ka sukun nauha-kunaaṅ dhundti rahi
   Asghar ki qabr ka wo nishaaṅ dhundti rahi
-  
+
   2
   Aaghosh mein samet ke jhule ki raakh ko
   Abbas ke alam ki amaa dhundti rahi
   Asghar ki qabr ka wo nishaaṅ dhundti rahi
-  
+
   3
   Khaima to jal chuka jale khaime mein jaa ke wo
   Hasrat se ghutniyoṅ ke nishaaṅ dhundti rahi
   Asghar ki qabr ka wo nishaaṅ dhundti rahi
-  
+
   4
   Rakha hai tute kuze ko maaṅ ne sambhaal kar
   Un kirchiyoṅ mein nanha jawaaṅ dhundti rahi
   Asghar ki qabr ka wo nishaaṅ dhundti rahi
-  
+
   5
   Ghash se uthi to ujre hue qaidiyoṅ ke bich
   Umm-e-Rabaab teer giraaṅ dhundti rahi
   Asghar ki qabr ka wo nishaaṅ dhundti rahi
-  
+
   6
   Paani gale ko maaṅ ke laga teer ki tarah
   Wo phir kisi ki sukhi zabaaṅ dhundti rahi
   Asghar ki qabr ka wo nishaaṅ dhundti rahi
-  
+
   7
   Karb o Bala ke dasht mein zindaan-e-Shaam mein
   Abid wo apna khoya jahaaṅ dhundti rahi

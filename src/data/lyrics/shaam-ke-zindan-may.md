@@ -15,55 +15,55 @@ romanLyrics: |-
   Mar gayi bimaar ki chhoti behan
   Chhin gaya jab zindagaani ka maza
   Mar gayi bimaar ki chhoti behan
-  
+
   1
   Maamta rakhe hue thi dil pe haath
   Sochti thi chhut gaya beti ka saath
   Qaid-e-gham meiṅ aur sannaata hua
   Mar gayi bimaar ki chhoti behan
-  
+
   2
   Keh rahe the zindagi ke tin saal
   Kar gayi Sarwar ki dukhtar intiqaal
   Kamsini meiṅ zulm hai kitna bara
   Mar gayi bimaar ki chhoti behan
-  
+
   3
   Aap haiṅ masruf-e-girya is taraf
   Aur qayaamat aa chuki hai is taraf
   Hazrat-e-Zainab se behnoṅ ne kaha
   Mar gayi bimaar ki chhoti behan
-  
+
   4
   Bhaai ki baahoṅ meiṅ baaheṅ daal kar
   Maut ka tay kar liya aakhir safar
   Dekhti Baaba ka kab tak raasta
   Mar gayi bimaar ki chhoti behan
-  
+
   5
   Di kisi ne jaa ke Zainab ko khabar
   Koi ye kehte hue aaya nazar
   Is qadar shiddat se yaad aaye chacha
   Mar gayi bimaar ki chhoti behan
-  
+
   6
   Waqt-e-aakhir is liye tha intizaar
   Dekh le surat to aa jaaye qaraar
   Karbala ke baad se dekha na tha
   Mar gayi bimaar ki chhoti behan
-  
+
   7
   Did ki khwaahish thi puri ho gayi
   Maaṅ kaleja thaam ke rone lagi
   Jab sar-e-Sibt-e-Payambar aa gaya
   Mar gayi bimaar ki chhoti behan
-  
+
   8
   Haddiyaaṅ thi pyaas se sukhi hui
   Thi phuphi ki god meiṅ baithi hui
   Dard ki shiddat ne jab hamla kiya
   Mar gayi bimaar ki chhoti behan
-  
+
   9
   Ek hi Ishrat sada thi har taraf
   Ya Ali Murtaza Shaah-e-Najaf

@@ -14,32 +14,32 @@ romanLyrics: |-
   Haye bimaar haye darbaar
   Saamne darbaar ke Ghairat-e-Sajjad ka hai ye kaisa imtihaaṅ
   Tin din guzre khari hai Fatima ki betiyaṅ
-  
+
   1
   Shaam waale haṅs rahe haiṅ bekasoṅ ko dekh kar
   Hai charaaghaaṅ chaar su aur saj rahe haiṅ baam o dar
   Baab-e-Saaat par ruka hai bekasoṅ ka kaarwaaṅ
-  
+
   2
   Sar Ali Akbar ka neze par uthaate haiṅ shaqi
   Sun chuki satrah azaaneṅ be rida Bint-e-Ali
   Ro rahi hai har azaaṅ sun kar Ali Akbar ki maaṅ
-  
+
   3
   Misl-e-Zehra sar jhukaaye shaamiyoṅ mein aa gayi
   Chaar barsoṅ mein Sakina par zaifi chhaa gayi
   Kaan bhi zakhmi hai gaaloṅ par tamaachoṅ ke nishaaṅ
-  
+
   4
   Khun ke aaṅsu tapakte haiṅ sar-e-Shabbir se
   Puchhti hai jab Sakina Zainab-e-Dilgir se
   Ae phuphi amma yahaaṅ se kab chale ga kaarwaaṅ
-  
+
   5
   Sab se mushkil marhala Sajjad pe Yawar ye tha
   Shaam ke darbaar mein jab qaafila jaane laga
   Parh rahi thi inna lillah us ghari sab bibiyaṅ
-  
+
   6
   Khun rota hai jo Abid us ko ye ehsaas hai
   Fatima Zehra ki chaadar shaamiyoṅ ke paas hai

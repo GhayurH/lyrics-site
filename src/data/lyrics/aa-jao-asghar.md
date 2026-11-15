@@ -18,52 +18,52 @@ romanLyrics: |-
   Gham mein tumhare marti huṅ
   Har dam aaheṅ bharti huṅ
   Ab to taras khao dilbar
-  
+
   2
   Sannaatoṅ ka ye mausam
   Chaaroṅ taraf hu ka aalam
   Kitna daraauna hai manzar
-  
+
   3
   Dur talak saaya bhi nahiṅ
   Tapta sehra jalti zamiṅ
   Nind tumheṅ aayi kiuṅ kar
-  
+
   4
   Sach kehti huṅ ae beta
   Maaṅ se nahiṅ rutha jaata
   Maan bhi jao ae dilbar
-  
+
   5
   Nind ye aayi hai kaisi
   Sunte nahiṅ aawaaz meri
   Kab se bulaati hai maadar
-  
+
   6
   Chaunkoge jab raatoṅ ko
   Jhula bana ke haathoṅ ko
   Tujhko jhulayegi maadar
-  
+
   7
   Bint-e-shaah-e-dilgir hai ye
   Teri bhi hamshir hai ye
   Le ke Sakina ke gauhar
-  
+
   8
   Dil mein balaaeṅ leti hai
   Tujhko sadaaeṅ deti hai
   Bekas dukhiya ye maadar
-  
+
   9
   Kaise main jaauṅ Shaam bhala
   Sar hai khula aati hai haya
   Maaṅ ke liye le kar chaadar
-  
+
   10
   Lut gayi chaahat ki dunya
   Uth gayi waali ka saaya
   Ruth gaye tum bhi jaa kar
-  
+
   11
   Aamir jaaṅ khota hai Bilal
   Saara jahaaṅ rota hai Bilal

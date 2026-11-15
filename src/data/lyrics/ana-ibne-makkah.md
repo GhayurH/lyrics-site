@@ -13,140 +13,140 @@ published: false
 romanLyrics: |-
   Bayan karta huṅ darbar-e-Shaam ka manzar
   Jahaṅ the saat sau kursi nashiṅ fitnagar
-  
+
   1
   Yazid jhum raha tha sharab pi pi kar
   Aur aisi bazm mein afsos aale paighambar
   Tha unke saamne ek badh kalaam mimbar par
   Bayan karta tha jhuthe Yazid ke jauhar
-  
+
   2
   Jab usne khatm ki taqreer bad kalami par
   Khateebe jehel se bole ye abide muztar
   Ke tu ne khusk kiya makhluq ko zarur magar
   Kharida qahr-e-Khuda tu ne mukhtasar zar par
-  
+
   3
   Jahaṅ ho zikr-e-bad-atwar wo mimbar kab hai
   Lakdiyon ka hai ambaar wo mimbar kab hai
   Kaha Yazid se kuch main kahuṅ ijazat de
   Yazeed chup tha do darbari saare kehne lage
-  
+
   4
   Yazeed dede ijazat isay bhi kehne de
   Ye kya kahega larazta hai jo naqahath se
   Sambhale tauq o rasan shan-e-Kirdigar aayi
   Imam aaye ke mimbar pe Zulfiqar aayi
-  
+
   5
   Jis ka mimbar tha wohi bar sar-e-mimbar aaya
   Wo akela tha magar surat se lashkar aaya
   Lab kusha surat-e-Quran wo Haider aaya
   Jab wo khamosh zabaṅ bar sar-e-darbar chali
-  
+
   6
   Karbala mein na chali thi jo wo talwaar chali
   Ana ibn-e-Makkah o Mina ana ibn-e-Zamzam o Safa
   Ana ibn-e-Ali o Fatima
   Lehja-e-nur mein Maula ne kaha Bismillah
-  
+
   7
   Laiq-e-hamd o sana hai to wohi ek Khuda
   Jis ne hum aale mohamed ko hai takhleek kiya
   Jis ko maloom hai maloom hai mera shajra
   Jo nahi jaanta wo sun le taaruf mera
-  
+
   8
   Hum ko allah ne cheh khoobiyan bakshi bakhuda
   Ilm aur hilm diya aur dil e momin mein rakha
   Hai samahat o fasahat o shujaat wirsa
-  
+
   9
   Kam na thi khoobiyan cheh jo ke ye izzat ke liye
   Sifatein saath mili aur fazeelat ke liye
   Hum mein awwal jo thay wo ahmad e mukhtar huwe
-  
+
   10
   Koi hamza to koi jafar e tayyar huwe
   Hum hi hyder huwe abbas e alamdar huwe
   Hum ko meraaj e risalat bhi imamat bhi mili
   Hum ko mehrab e ibadat mein shahadat bhi mili
-  
+
   11
   Us ka farzand huṅ seh roz raha jo pyasa
   Darmiyan zeen o zameen jiska raha tha laasha
   Jiske sajde ke sabab khaak bani khaak e shifa
-  
+
   12
   Khaak aur khoon mein dooba tha amaama jiska
   Sumein uspa talay ronda gaya laasha jiska
   Ahle insaf ab insaf se itna kehde
-  
+
   13
   Jiski chaukat pe salami ko farishte utre
   Noke naiza se layeen unki ridayein loote
   Tum ne qaime nahi allah ka ghar khaak kiya
   Kalma pad pad ke mohamed ka jigar chaak kiya
-  
+
   14
   Jiske parde ke liye aayat e tatheer aaye
   Sang barsaate huwe un pe yahan tak laaye
   Haif hai roohe mohamed se na tum sharmeine
-  
+
   15
   Hum ne paband e rasan hoke tujhe maara hai
   Ibne marjaana tu jeeta to nahi haara hai
   Baat jab khul gayi sadaat e mohamed hai yahan
-  
+
   16
   Ro diye ahle jafa ubhra baghawat ka samaan
   Aur isi shor mein haakim ne diya hukme azaan
   Saat afraad jo yek musht azaan dene lage
   Haq mein sajjad ke darbari bayan dene lage
-  
+
   17
   Jab muazzin ne kiya kalma-e-takbir ada
   Bole Sajjad buzurgi hai usi ko zeba
   Jaise hi naam mohamed ka mo'azzin ne liya
-  
+
   18
   Mud ke haakim se kaha tere iraade badh hai
   Ye mohamed hai tumhare ke hamare jadh hai
   Aib kiuṅ apne chhupata hai azaneṅ de kar
-  
+
   19
   The agar tere Muhammad to sitam kiuṅ hum par
   Daal is tauq pe zanjeer pe ek baar nazar
   Zakhm jo tu ne diye sab dil e bemaar mein hai
   Betiyaan hai ye mohamed ki jo darbar mein hai
-  
+
   20
   Tu to kehta hai ke hai dhong nauzobillah
   Na payambar na wahi aayi na quran utra
   Phir azanein bhi tu darbar mein hai dilwaata
-  
+
   21
   Le munaafiq tere chehre se utarti hai naqaab
   Jiska munkir hai wo quran tera lega hisaab
   Is shaqawat pe bhi hum haare nahi jeet gaye
-  
+
   22
   Naam azaano mein tumhaare nahi hum jeet gaye
   Kya ye khudrat ke ishaare nahi hum jeet gaye
   Yak ba yak fathe mubeen sab ko nazar aane lagi
   Marhaba sayyade sajjaad sada chaane lagi
-  
+
   23
   Bole phir abide bemaar ye izzat dekhi
   Dekhi ye takhte sitamgaar ye izzat dekhi
   Phir gaya tujhse ye darbar ye izzat dekhi
-  
+
   24
   Jiska haami ho khuda kaun usay zillat de
   Izzatein uski hai allah jise izzat de
   Haye hussaina waye hussaina
   Utre mimbar se to baba ke kate sar ne kaha
-  
+
   25
   Marhaba ae mere Sajjad gharib-e-Zehra
   Maujiza sarwar o rehaan falak ne dekha

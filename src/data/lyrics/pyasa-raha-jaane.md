@@ -15,67 +15,67 @@ romanLyrics: |-
   Ae waae Nahr-e-Alqama
   Uthti rahi maujeṅ teri
   Ae waae Nahr-e-Alqama
-  
+
   1
   Wo khushk lab sukha gala
   Sher-e-Khuda ki aal ka
   Wo tere hoṅtoṅ par tari
   Ae waae Nahr-e-Alqama
-  
+
   2
   Tufaaṅ uthana tha tujhe
   Ya sukh jaana tha tujhe
   Kuch tum ne khidmat hi na ki
   Ae waae Nahr-e-Alqama
-  
+
   3
   Ek mashk paani le liye
   Abbas ke shaane kate
   Nadi lahu ki beh gayi
   Ae waae Nahr-e-Alqama
-  
+
   4
   Dube lahu mein yak qalam
   Kya kya ghazaalaan-e-haram
   Dekhi ye kashti dubti
   Ae waae Nahr-e-Alqama
-  
+
   5
   Ek chaadar-e-aab-e-rawaaṅ
   Orhe hue tu nauhakhwaaṅ
   Zainab ki ye bechaadari
   Ae waae Nahr-e-Alqama
-  
+
   6
   Qabze mein tere aab ho
   Aur pyaas se betaab ho
   Sheh ke chaman ki har kali
   Ae waae Nahr-e-Alqama
-  
+
   7
   Ashk-e-Sakina beh gaye
   Muṅh dekhte sab reh gaye
   Tu aur teri daryadili
   Ae waae Nahr-e-Alqama
-  
+
   8
   Yeh kaunsa dastoor tha
   Mehmaan kitni door tha
   Kya paaoṅ mein zanjir thi
   Ae waae Nahr-e-Alqama
-  
+
   9
   Khaima rahe Shabbir ka
   Yuṅ dhup mein jalta hua
   Saahil pe ho fauj-e-shaqi
   Ae waae Nahr-e-Alqama
-  
+
   10
   Hasrat ki ek tahrir thi
   Khud tere dil par teer thi
   Jo mauj uthi aisi uthi
   Ae waae Nahr-e-Alqama
-  
+
   11
   Aata hai usko yaad jab
   Wo kaarwaan-e-tashnalab

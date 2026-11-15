@@ -13,42 +13,42 @@ published: false
 romanLyrics: |-
   Deti thi Sughra ye duhaai
   Laut ke aaja mere bhai
-  
+
   1
   Tum mujhe le jaaoge ye waada kiya tha
   Kiuṅ mujhe le jaane nahiṅ aaye hua kya
   Haaye bohat der lagaai
-  
+
   2
   Raasta takti hui mar jaayegi behna
   Tere bina ab nahiṅ ji paayegi behna
   Seh nahiṅ sakti main judaai
-  
+
   3
   Baithi hui dar pe kabhi karti ye nauha
   Haaye mera bhai abhi tak nahiṅ aaya
   Koi khabar bhi nahiṅ aayi
-  
+
   4
   Phirta hai in aankhoṅ mein ab tak tera chehra
   Ek bhi pal aisa nahiṅ guzra hai bhaiya
   Jab ke teri yaad na aayi
-  
+
   5
   Main to har ek waqt tere gham mein huṅ roti
   Mujh ko mere bhai khabar hi nahiṅ hoti
   Kab hua din raat kab aayi
-  
+
   6
   Rota hua aisa mujhe chhor gaya tu
   Rukte nahiṅ bhai meri aankhoṅ se aansu
   Aisi ghata dard ki chhaayi
-  
+
   7
   Jine ki ab koi mujhe aas nahiṅ hai
   Koi bhi ae bhai mere paas nahiṅ hai
   Mujh pe taras khaa mere bhai
-  
+
   8
   Gohar-e-Dilgir yehi lab pe tha nauha
   Haaye yehi kehte hue mar gayi Sughra

@@ -15,43 +15,43 @@ romanLyrics: |-
   Qaidi chhurane waali Zainab
   Kaise bachaye khud ko sitam se
   Din bachane waali Zainab
-  
+
   1
   Din-e-Khuda marhun hai tera
   Khaaliq khud mamnun hai tera
   Apni rida se din-e-Khuda ka
   Parda banane waali Zainab
-  
+
   2
   Khaak pe baithi soch rahi hai
   Kaise apne baal chhupaye
   Bikhre hue baaloṅ se apna
   Chehra chhupane waali Zainab
-  
+
   3
   Aankh mein aansu paaoṅ mein chhaale
   Baaloṅ mein hai khaak safar ki
   Ranj o alam sehne aayi hai
   Dard batane waali Zainab
-  
+
   4
   Aaj use sab Kufe waale
   Baaghi ki hamshir kaheṅge
   Kal Kufe mein thi shehzaadi
   Jo kehlane waali Zainab
-  
+
   5
   Karbobala ka sog manaati
   Shaam ke bazaaroṅ mein aayi
   Apne watan mein beaasoṅ ki
   Aas bandhaane waali Zainab
-  
+
   6
   Ek sahare baat rahi thi
   Ek sahara dhund rahi hai
   Dasht mein aane waali Zainab
   Dasht se jaane waali Zainab
-  
+
   7
   Nur Ali ab is se barh kar
   Aur qayamat kya guzregi

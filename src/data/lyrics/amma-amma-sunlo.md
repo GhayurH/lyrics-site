@@ -11,27 +11,27 @@ aliases: []
 published: false
 romanLyrics: |-
   Amma amma sunlo duhaai amma
-  
+
   1
   Ranj o gham o musibat kya kya uthayi amma
   Karbobala mein ujdi teri kamayi amma
   Saughaat ek safar se beti ye laayi amma
-  
+
   2
   Marqad pe Fatema ki Zainab ne kaha ro kar
   Karbobala ke ban mein bhai ko apne kho kar
   Lut kar safar se aayi ye teri jaayi amma
-  
+
   3
   Baazu pe resmaaṅ ke dekho nishaaṅ haiṅ ubhre
   Zakhmi hai pusht meri seene mein dil hai tukde
   Ashkoṅ ke badle khuṅ ke aansu bahaaye amma
-  
+
   4
   Mere wo donoṅ pyaare aankhoṅ ke the wo taare
   Bhai pe donoṅ bachche sadqe mein the utaare
   Phir bhi na bach saka jab maqtal mein bhai amma
-  
+
   5
   Dulha tha Ibn-e-Shabbar aur Bint-e-Shaah dulhan
   Paamaal ho gaya jab dulha ka phul sa tan

@@ -18,47 +18,47 @@ romanLyrics: |-
 
   Mere bhaiya Ali Asghar ko bayaabaaṅ mila
   Main Sakina huṅ mujhe Shaam ka zindaan mila
-  
+
   1
   Ek godi ke paale haiṅ Ali Asghar aur main
   Chhe mahinoṅ ke chale haiṅ Ali Asghar aur main
   Us ko sone ke liye khuṅ bhara maidaan mila
-  
+
   2
   Mujh ko is qaid ki tanhaai se dar lagta hai
   Koi aata hai to parchhaai se dar lagta hai
   Rahm dil mujh ko na ab tak koi insaan mila
-  
+
   3
   Hai nahiṅ koi tarafdaar yahaaṅ par mera
   Saaṅs lena bhi hai dushwaar yahaaṅ par mera
   Dur sab se ye mujhe hujra-e-viraan mila
-  
+
   4
   Ye naya zakhm diya hai mere maanjaaye ko
   Do dafa qatl kiya hai mere maanjaaye ko
   Us ka nanha sa badan dasht meiṅ bejaan mila
-  
+
   5
   Jab sitamgar ne mere kaanoṅ se bundeṅ khinche
   Apne pyaaroṅ ko bulaati thi main aaṅkheṅ miche
   Par na koi bhi mujhe apna nigahbaan mila
-  
+
   6
   Eriyaaṅ pyaas ki shiddat se ragarte tha Saghir
   Garm reti pe jo dekha to tarapta tha Saghir
   Jab bhi dekha to mera bhaai pareshaan mila
-  
+
   7
   Pusht-e-naaqa pe mujhe baandh ke laaye zaalim
   Jo na hamwaar thi us raah se laaye zaalim
   Is safar meiṅ na koi raasta aasaan mila
-  
+
   8
   Meri ghurbat ka is ummat ne banaaya hai mazaaq
   Shaam o Kufa ke dayaaroṅ meiṅ uraaya hai mazaaq
   Ham ko ehsaan ke badle meiṅ ye ehsaan mila
-  
+
   9
   Ro ke kehti thi Sakina ye Kumail o Aamir
   Kitna dushwaar hai jina ye Kumail o Aamir

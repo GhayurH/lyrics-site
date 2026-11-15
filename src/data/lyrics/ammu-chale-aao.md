@@ -12,52 +12,52 @@ aliases: []
 published: false
 romanLyrics: |-
   Ammu chale aao ammu chale aao
-  
+
   1
   Meri khabar lene aaye na palat kar
   Bhul gaye mujh ko tum nehr pe jaa kar
   Kaisi mohabbat hai ye kaisi wafa hai
-  
+
   2
   Rone nahiṅ deta hai Shimr sitamgar
   Saans ka lena bhi ab ho gaya dubhar
   Gham ki satayi par ye kaisi jafa hai
-  
+
   3
   Aap bhatiji se yuṅ ruthe haiṅ kiuṅ kar
   Kiuṅ nahiṅ aate haiṅ darya se palat kar
   Itna bata dijiye kya meri khata hai
-  
+
   4
   Ahl-e-haram girya hai khaak pe baithe
   Dub chuka suraj aur jal chuke khaime
   Chhaayi hui har su ab gham ki ghata hai
-  
+
   5
   Jal gaya sholoṅ mein bimaar ka bistar
   Ab na raha baaqi gehwaara-e-Asghar
   Aur mere kurte ka daaman bhi jala hai
-  
+
   6
   Bahr-e-Khuda sun lo faryaad-e-Sakina
   Apni bhatiji ko pahuncha do Madina
   Gham se yahaaṅ jina dushwaar hua hai
-  
+
   7
   Aal payambar ka jina hua dubhar
   Un ko phiraate haiṅ balwe mein khule sar
   Sar hai khule sab ke maqna na rida hai
-  
+
   8
   Kaun uthaaye ga godi mein bula ke
   Kaun pinhayega bunde mujhe laa ke
   Shimr mere gohar bhi chhin raha hai
-  
+
   9
   Bas yehi hasrat hai ammu mere dil ki
   Dekh le tum ko bas ek baar bhatiji
   Pyaas ka shikwa na paani ka gila hai
-  
+
   10
   Aaj bhi us gham sab girya kunaaṅ hai
   Ab bhi Bilal aankhoṅ se ashk rawaaṅ hai

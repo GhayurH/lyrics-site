@@ -12,37 +12,37 @@ aliases: []
 published: false
 romanLyrics: |-
   Kya so rahe ho nehr pe Abbas ba wafa
-  
+
   1
   Zainab ke bain the mere saqqa-e-Karbala
   Is bekasi mein koi hamaara nahiṅ raha
   Jo tum nahiṅ to hum pe har ek gaam hai jafa
   Hum bekasoṅ ko aa ke do ab jald aasra
-  
+
   2
   Tuti kamar Husain ki jab tum nahiṅ rahe
   Aaṅkhoṅ ka nur ja chuka Akbar jo chal base
   Bewaoṅ ko aas tum se thi Sher-e-jari mere
   Bekas Husain dasht mein ab kis ko de sada
-  
+
   3
   Bhaiya jo tum nahiṅ to hai beaas Bibiyaṅ
   Khaimoṅ mein Shah ke ek qayaamat ka hai samaaṅ
   Tashna labi se bachche sabhi karte haiṅ fughaaṅ
   Ro kar Sakina kehti hai jald aaiye Chacha
-  
+
   4
   Sab jal chuke khayaam ridaaeṅ bhi chhin gayiṅ
   Tab se para hai ghash mein mera Abid-e-haziṅ
   Saaya hai aasmaaṅ ka aur farsh hai zamiṅ
   Zainab talaaya karti hai jalte khayaam ka
-  
+
   5
   Ro kar Sakina kehti hai Ammu ab aaiye
   In zaalimoṅ ke zulm se hum ko bachaaiye
   Bahr-e-Khuda na is tarah mujh ko rulaaiye
   Gauhar bhi chhine jaa chuke kurta bhi hai phata
-  
+
   6
   Mashk o alam ko le ke luta qaafila chala
   Haamil alam ka pyaasoṅ ka saqqa nahiṅ raha
@@ -68,7 +68,7 @@ romanLyrics: |-
 بیکس حسین دشت میں اب کس کو دے صدا
 
 ۳
-بھیا جو تم نہیں تو ہے بے آس بیبیاں
+بھیا جو تم نہیں تو ہے بے آس بی‌بیاں
 خیموں میں شہ کے ایک قیامت کا ہے سماں
 تشنہ لبی سے بچے سبھی کرتے ہیں فغاں
 رو کر سکینہ کہتی ہے جلد آئیے چچا

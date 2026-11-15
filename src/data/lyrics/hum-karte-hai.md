@@ -12,73 +12,73 @@ aliases: []
 published: false
 romanLyrics: |-
   Hum karte haiṅ maatam Asghar ka
-  
+
   1
   Beshir mujaahid shashmaaha
   Tha saaqi-e-Kausar ka pota
   Kya sabr tha jhule wale ka
   Darya ke kinaare pyaasa tha
-  
+
   2
   Wo dhup wo sehra garm hawa
   Gunji ran meiṅ hal min ki sada
   Khaimoṅ se utha ghul rone ka
   Gehwaare se Asghar ran ko chala
-  
+
   3
   Kya pyaas thi jhule wale ki
   Aur dekh ke uski tashna labi
   Khud zulm ka lashkar rone laga
   Asghar ki tabassum salle alaa
-  
+
   4
   Sarwar ne sawaal-e-aab kiya
   Asghar ke gale par tir chala
   Aur dhal gaya manka pyaase ka
   Shabbir ki ghurbat waawaila
-  
+
   5
   The sibt-e-Nabi kitne bechain
   Ye sochte the mazlum Husain
   Baano se kaheṅge jaa kar kya
   Chhe maah ka beta qatl hua
-  
+
   6
   Ye aah o buka aur ye aansu
   Ye majliseṅ aur ye behta lahu
   Gham khwaaroṅ ka hai nazraana
   Mazlum ki nusrat ka jazba
-  
+
   7
   Shabbir karam farmaate haiṅ
   Abbas madad ko aate haiṅ
   Hum parhte haiṅ Asghar ka nauha
   Aur Zehra karti hai girya
-  
+
   8
   Har dil ki dhadkan kehti hai
   Yaaṅ yaad-e-Asghar rehti hai
   Har dil hai Asghar ka jhula
   Har lab pa rahega ye nauha
-  
+
   9
   Wo nok-e-sinaaṅ wo phul sa sar
   Tha maaṅ ki nazar meiṅ ye manzar
   Parwaane dete haiṅ pursa
   Palkoṅ pe sajaaye ashk-e-aza
-  
+
   10
   Jis tir se Asghar zabah hua
   Wo zakhm kahaaṅ tak hai phaila
   Kis kis ka kaleja is se chhida
   Puchhe ye koi Aabid se zara
-  
+
   11
   Parwaane haiṅ Shabbir ke hum
   Abbas ka hai hum par ye karam
   Beshir pe hum royeṅge sada
   Zehra deti hai hum ko dua
-  
+
   12
   Ae jaan-e-Ali jaan-e-Zehra
   Karta hai Rashid ab maaruza

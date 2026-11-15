@@ -16,7 +16,7 @@ romanLyrics: |-
   1
   Mazloom Husaina mazloom Husaina
   Lachaar Husaina lachaar Husaina
-  
+
   2
   Jo kar na saki bhai ka deedar wo behna
   Mazloom Husaina mazloom Husaina
@@ -24,7 +24,7 @@ romanLyrics: |-
   Mazloom Husaina mazloom Husaina
   Har gaam pe thi bhai ki ghamkhwar wo behna
   Mazloom Husaina mazloom Husaina
-  
+
   3
   Mazloom Husaina mazloom Husaina
   Lachaar Husaina lachaar Husaina

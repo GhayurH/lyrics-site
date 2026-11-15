@@ -16,25 +16,25 @@ published: false
 romanLyrics: |-
   Ali Asghar tu hai mushkil mein Ali
   Karbala mein jise dushman ne kaha Sher-e-Jali
-  
+
   1
   Tere dada ne to Khaibar ko ukhara Asghar
   Tu ne Islam ko Karbal mein bachaya Asghar
   Tujh ko Shabbir ne maidan mein bulaya Asghar
   Jaise Khaibar mein Nabi ne bhi pukara tha Ali
-  
+
   2
   Hum to Abbas ke parcham se dua karte haiṅ
   Apni jaaneṅ Ali Asghar pe fida karte haiṅ
   Donoṅ haajaat ke dar hum ko ata karte haiṅ
   Donoṅ Haider ki shabahat haiṅ Khuda ke haiṅ Wali
-  
+
   3
   Saaṅs le pae na dushman jo ishara kar duṅ
   Haath uthauṅ bhi na mitti ko sitara kar duṅ
   Tum agar chaho jahaaṅ sara tumhara kar duṅ
   Baat ye maan lo hum chhote bare sab haiṅ Ali
-  
+
   4
   Chacha Abbas ke jaisa na jawaṅ huṅ Baba
   Bhai Akbar ki tarah na hi bara huṅ Baba

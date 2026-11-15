@@ -13,7 +13,7 @@ published: false
 romanLyrics: |-
   Ta surat-e-paywand-e-jahaṅ bud Ali bud
   Ta naqsh-e-zamiṅ bud zamaṅ bud Ali bud
-  
+
   1
   Shaahi ke wali bud o wasi bud Ali bud
   Sultan-e-sakha o karam o jud Ali bud
@@ -21,20 +21,20 @@ romanLyrics: |-
   Ham Yusuf o ham Yunus o ham Hud Ali bud
   Ham Musa o ham Isa o ham Khizr o ham Ilyas
   Ham Saalih-e-Payghambar o Dawud Ali bud
-  
+
   2
   Taroṅ ne abhi aankh na kholi thi Ali tha
   Na amn ka paigham na holi thi Ali tha
   Daata tha duaaeṅ thi na jholi thi Ali tha
   Khaliq ki zabaṅ kun bhi na boli thi Ali tha
-  
+
   3
   Ali Maulana Ali Ali Maulana Ali
   Tute diloṅ ki sada Ali Maulana Ali
   Taaj-e-wilayat tera Ali Maulana Ali
   Haq ne kiya faisla khuld mein wo jaega
   Jo bhi muhib hai tera
-  
+
   4
   Angusht pe darwaza-e-Khaibar ko utha le
   Jo dubte suraj ko ishare se bula le
@@ -43,7 +43,7 @@ romanLyrics: |-
   Kull-e-iman hai tu
   Rab ki pehchan hai tu
   Din ki jaan hai tu
-  
+
   5
   Teri jo fazilat hai wo afsana nahiṅ hai
   Munkir hai jise teri taraf aana nahiṅ hai
@@ -52,7 +52,7 @@ romanLyrics: |-
   Ye tera jaah o hasham
   Sahib-e-tegh-e-do dam
   Hai tera sab pe karam
-  
+
   6
   Tu sab se bari Khaliq-e-Akbar ki nishani
   Na us ka koi saani na tera koi saani
@@ -61,7 +61,7 @@ romanLyrics: |-
   Aayatullah bhi tu
   Wajhullah bhi tu
   Asadullah bhi tu
-  
+
   7
   Ham tere muqallid hai tu hi rehbar-e-aazam
   Hai nur tera nur-e-Khudawand-e-do aalam
@@ -70,19 +70,19 @@ romanLyrics: |-
   Hai tu hi aala nasb
   Sher-e-Haq tera laqab
   Keh rahe haiṅ yehi sab
-  
+
   8
   Dubte suraj ne kaha
   Chand sitaroṅ ne kaha
   Laal Qalandar ne kaha
   Tere liye hamd o sana
-  
+
   9
   Na Nuh the na un ka safina tha Ali tha
   Yasrab tha na Makka na Madina tha Ali tha
   Aabid na ibadat ka qarina tha Ali tha
   Jis waqt pe marna tha na jina tha na Ali tha
-  
+
   10
   Taskin-e-dil o jaaṅ to ibadat se milegi
   Tasdiq ibadat ko mawaddat se milegi
@@ -91,7 +91,7 @@ romanLyrics: |-
   Jo tujhe maane Khuda
   Wo bhi munkir hai tera
   Ye aqida hai mera
-  
+
   11
   Parhta hai teri shaan mein Quran qaside
   Alhamd se wan-naas talak hai tere charche
@@ -100,7 +100,7 @@ romanLyrics: |-
   Aql mein aata nahiṅ
   Qalb se jaata nahiṅ
   Kya hai samajh aata nahiṅ
-  
+
   12
   Juz tere kiya jis ne saluni ka ye daawa
   Jo puchhna chahoge jawab us ka milega
@@ -109,7 +109,7 @@ romanLyrics: |-
   Kun fayakun ka safar
   Ye sitaroṅ ka nagar
   Kya hai ye shams o qamar
-  
+
   13
   Ummat ne tere baad yatimoṅ ko sataya
   Maula teri aulaad ko hai khun rulaya
@@ -118,7 +118,7 @@ romanLyrics: |-
   Roi thi Karbobala
   Aaiye Sher-e-Khuda
   Lut gai Aal-e-Aba
-  
+
   14
   Jab shaam-e-gharibaṅ ki rida dasht pe chhai
   Ghazi ki behan ranj o masaib ki satai
@@ -127,7 +127,7 @@ romanLyrics: |-
   Chhin gai meri rida
   Bhai bhi qatl hua
   Aaiye Karbobala
-  
+
   15
   Kehte haiṅ zamane se yehi Mesum o Mazhar
   Ham Haider-e-Karrar ki dehliz ke naukar

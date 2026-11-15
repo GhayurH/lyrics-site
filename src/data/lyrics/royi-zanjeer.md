@@ -12,31 +12,31 @@ published: false
 romanLyrics: |-
   Sajjad se qadmoṅ se lipat kar royi zanjir
   Jab hataayi gayi qadmoṅ se to hat kar royi zanjir
-  
+
   1
   Saath Aabid ke rahi ban ke azaadaar-e-Husain
   Taare ashk-e-Gham-e-Sarwar mein simat kar royi zanjir
-  
+
   2
   Sar khule dekh kar balwe mein Nabi ki itrat
   Khun mein dub gayi khaak mein uth kar royi zanjir
-  
+
   3
   Hashr tha ik bapa larza bar andaam tha kufr
   Jis ghari halqa-e-zanjir se kat kar royi zanjir
-  
+
   4
   De ke paighaam shahidoṅ ka lahu deti hui
   Ek ik halqa-e-zanjir mein bat kar royi zanjir
-  
+
   5
   Dekhne waala na tha koi jihaad-e-Aabid ka
   Kufa o Shaam ka darbaar ulat kar royi zanjir
-  
+
   6
   Thartharaane laga Abbas-e-Jari ka laasha
   Jaate jaate jo su-e-nehr palat kar royi zanjir
-  
+
   7
   Jab banaane laga bimaar behan ki turbat
   Thartharaayi kabhi qadmoṅ se lipat kar royi zanjir

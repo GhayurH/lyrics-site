@@ -11,55 +11,55 @@ published: false
 romanLyrics: |-
   Jo suye karbobala ban'ne chala
   Zawware hussain
-  
+
   1
   Pehle sun hazrate jaabir ka maqam
   Unka hai khul e moalla may qayam
   Naymatein hogayi sab unpe tamam
   Unko bheja hai imamo ne salaam
   Sab se phele hai khitaab unko mila
-  
+
   2
   Barsi rehmat ki ghata deep jale
   Muskura uthi wafa mil ke galay
   Khuld bichne lagi qadmon ke talay
   Ambiya auliya sab saath chale
-  
+
   3
   Sar dar e shaah pe kham karta hai
   Apni aankhon ko bhi nam karta hai
   Matame shaah e umam karta hai
   Uspe allah karam karta hai
   Khoob likha hai ibadat ka maza
-  
+
   4
   Uspe hoti hai ataein naazil
   Wo nahi rehta aza se ghaafil
   Uski azmat ke farishte qaail
   Naam hai ahle aza may shaamil
   Ye jahan waale kuja aur kuja
-  
+
   5
   Door ho jaati hai har ek ghutan
   Khil chuka hota hai kismat ka chaman
   Keh chuke hai ye shehenshaahe sukhan
   Laut kar aata hai jab apne watan
   Saath laata hai shifa khaake shifa
-  
+
   6
   Wo zamane may ho aabaad kahin
   Ban ke rehta ibadat ka ameen
   Apne sajdon se sajata hai zameen
   Jag magati hai sada uski jabeen
   Usko deti hai laqab karbobala
-  
+
   7
   Tu har ek jaaye shahadat pe gaya
   Yaad kar kar ke unhe rota raha
   Tere honton pe nazar aayi sada
   Ya hussain haye hussaina ki sada
   Tujhko mazloom behan degi dua
-  
+
   8
   Rauza e sibte payamanar pe gaya
   Tune abbas ka dar choom liya

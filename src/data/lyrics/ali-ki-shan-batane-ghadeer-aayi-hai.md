@@ -17,31 +17,31 @@ romanLyrics: |-
   Munafiqoṅ ko jalane Ghadeer aayi hai
   Rasul kar do wo ailan jo farz hai tujh par
   Diya ye hukm Khuda ne Ghadeer aayi hai
-  
+
   1
   Hai aaj khatre mein kaar-e-risalat-e-Mursal
   Nabuwatoṅ ko bachane Ghadeer aayi hai
   Ali Wali ki wilayat ka ho gaya ailan
   Wila ki khushiyaṅ manane Ghadeer aayi hai
-  
+
   2
   Rasul Maula haiṅ jis ke haiṅ us ke Maula Ali
   Samaṅ ye aaj dikhane Ghadeer aayi hai
   Ali se ishq hai kis ko hai kis ko bughz-e-Ali
   Naqab sab ke hatane Ghadeer aayi hai
-  
+
   3
   Ye bole Qanbar o Miqdad Buzar o Salman
   Khushi ke aaye zamane Ghadeer aayi hai
   Kahiṅ pe aag giri to siyah chehre hue
   Lo aaj un ko jalane Ghadeer aayi hai
-  
+
   4
   Bakhin bakhin to kaha par diloṅ pe tir lage
   Qulub un ke dukhane Ghadeer aayi hai
   Mare be maut kayi log sun ke hukm-e-Rasul
   Lapeta un ko qaza ne Ghadeer aayi hai
-  
+
   5
   Ghadeer walo piyo ishq-e-Murtaza ki sharab
   Sharab-e-ishq pilane Ghadeer aayi hai

@@ -12,37 +12,37 @@ published: false
 romanLyrics: |-
   Zainab ka ye noha tha tum laut ke aajao
   Abbas mere bhaiya tum laut ke aajao
-  
+
   1
   Ab shaam e ghariban ke aasaar numayan hai
   Is dashte musibat may ghar lutne ke samaan hai
   Kuch tumko khabar di hai hum jitne pareshan hai
-  
+
   2
   Jab shaam hui ban may ye bain thay zainab ke
   Qaimon ko jalane ke hote hai yahan charche
   Tum shimr se ye kehdo chadar na meri cheene
-  
+
   3
   Lo fauje yazeedi ne qaimon ko jala daala
   Lo jalne laga kurta masoom sakina ka
   Faryad ghaeerbon ki koi bhi nahi sunta
-  
+
   4
   Ab cheenli aada ne ay bhai meri chadar
   Is aalam e ghurbat may hai khaak mere sar par
   Tum mere mohafiz ho batlado inhe aakar
-  
+
   5
   Mai kitni akeli hoo tum aake zara dekho
   Kis tarha sambhalungi sehme hue bachon ko
   Ay bhai mere aakar zainab ko sahara do
-  
+
   6
   Abbas nahi aaye dukh sehti rahi zainab
   Abbas nahi aaye roti hi rahi zainab
   Abbas nahi aaye ye kehti rahi zainab
-  
+
   7
   Sarwar ke mohibbo may mehshar hai bapa ashraf
   Sar peet'te hai rokar sab ahle aza ashraf

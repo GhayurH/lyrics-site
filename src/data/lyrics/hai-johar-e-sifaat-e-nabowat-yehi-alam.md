@@ -24,7 +24,7 @@ romanLyrics: |-
   Hai Rehnumaye Mulk-e-Shifat Yehi Alam
   Mehshar Mein Dast-e-Shafa-e-Mehshar Pe Aaye Ga
   Panje Se Iss Ke Kya Koi Panja Milaye Ga
-  
+
   2
   Washams Walqamar Ka Bhi Panje Mein Noor Hai
   Walfajar Ki Sehar Ka Bhi Panje Mein Noor Hai
@@ -32,7 +32,7 @@ romanLyrics: |-
   Walail Ke Safar Ka Bhi Panje Mein Noor Hai
   Panja Shabeeh-e-Dast-e-Imam-e-Anam Hai
   Matlab Yeh Hai Ke Bait-e-Fasiq Haram Hai
-  
+
   3
   Sibt-e-Rasool Waris-e-Aousaf-e-Anbiya
   Kehte The Har Nabi Ki Wirasat Hai Yeh Lawa
@@ -40,7 +40,7 @@ romanLyrics: |-
   Jis Mein HO Zabt Josh Zakawat Haya Wafa
   Islam Ke Waqar Ka Akas Hai Alam
   Matlab Yeh Tha Wirasat-e-Abbas Hai Alam
-  
+
   4
   Ghazi Hai Noor-e-Alam Ujala Hai Yeh Alam
   Woh Mah-e-Hashmi Hain Tu Hala Hai Yeh Alam
@@ -48,7 +48,7 @@ romanLyrics: |-
   Ab Shair Ke Pisar Ne Sanbhala Hai Yeh Alam
   Panje Mein Hai Chamak Dil-e-Ghazi Ke Noor Se
   Boo-e-Wafa Phareray Mein Aati Hai Door Se
-  
+
   5
   Anwar-e-Ahl-e-Bait Ki Tanveer Hai Alam
   Do Bazo-e-Buredah Ki Tameer Hai Alam
@@ -56,7 +56,7 @@ romanLyrics: |-
   Abbas-e-Naamdar Ki Tasveer Hai Alam
   Har Qalb-e-Haq Pasand Ka Akas Ho Giya
   Ab Tu Alam Ka Nam Hi Abbas Ho Giya
-  
+
   6
   Makhzan Atta Ka Manba-e-Jood o Sakha Alam
   Maskeeno Ka Ghareebon Ka Hai Aasra Alam
@@ -64,7 +64,7 @@ romanLyrics: |-
   Har Toote Dill Ki Aas Ghamo Ki Dawa Alam
   Thama Alam Tu Dill Mein Yeh Ahsas Aa Giya
   Hathon Mein Jaise Daman-e-Abbas Aa Giya
-  
+
   7
   Abbas Azm o Himat o Zabt-e-Waga Ka Naam
   Abbas Itba-e-Sheh-e-Karbala Ka Naam
@@ -72,7 +72,7 @@ romanLyrics: |-
   Abbas Mudua-e-Dill-e-Fatima Ka Naam
   Taat Guzar Bad Sheh-e-Mashreqain Hai
   Abbas Fatima Ki Nazar Mein Husain Hai
-  
+
   8
   Hai Parcham-e-Shaoor Ki Har Soo Kahaniyaan
   Amrica Aur Jazair-e-Euorup Ki Kehkishaan

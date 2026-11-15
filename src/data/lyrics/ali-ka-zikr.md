@@ -16,39 +16,39 @@ published: false
 romanLyrics: |-
   Ali ka zikr Muhammad ka naam baaqi hai
   Husain tum se Khuda ka kalaam baaqi hai
-  
+
   1
   Mitaane wale imaamat ke mit gaye lekin
   Khuda ke fazl se ab bhi Imam baaqi hai
-  
+
   2
   Ali ke laal ke dunya mein naam baaqi hai
   Yazid mit gaya zikr-e-anaam baaqi hai
-  
+
   3
   Mitaaye laakh zamaana miteṅge hum kaise
   Hamaare sar pe hamaara Imam baaqi hai
-  
+
   4
   Hamaara un se kabhi faisla nahiṅ hoga
   Yazid mar gaya kuchh rishtedaar baaqi hai
-  
+
   5
   Wo aur hoṅge yatimaan-e-mazhab o millat
   Hamaare sar pe hamaara Imam baaqi hai
-  
+
   6
   Qarib jhule ke aa kar ye ro ke bole Husain
   Abhi shahidoṅ mein Asghar ka naam baaqi hai
-  
+
   7
   Zara Ae Maut thehar ja kaha ye Akbar ne
   Zaif baap ka thora sa kaam baaqi hai
-  
+
   8
   Ba waqt-e-aakhri Zainab se ro ke bole Husain
   Tumhaare waaste Darbaar-e-Shaam baaqi hai
-  
+
   9
   Mujib ko bhi bulaayeṅge apne rauze par
   Isi ummid mein ab tak ghulaam baaqi hai

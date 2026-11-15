@@ -20,55 +20,55 @@ romanLyrics: |-
   Jalwa-e-Fauj-e-Khuda waqt-e-sahar
   Haṅ Ali-un Bashar-un Kaifa Bashar
   Ali Asadullah Ali Waliullah
-  
+
   1
   Saqi-e-Kaun o Makaṅ qibla-e-jaaṅ
   Qasim-e-Ilm o Adab nar o jinaṅ
   Sahib-e-Lauh o Qalam ruh-e-rawaṅ
   Mashal-e-Nur-e-Rukan shams o qamar
-  
+
   2
   Hamil-e-Qudrat-e-Qum bi izni
   Kul-e-Iman iradoṅ ka dhani
   Us ke jaisa na sakhi aur ghani
   Khak-e-Nalain-e-Ali durr o gauhar
-  
+
   3
   Hasti-e-Haider-e-Karrar Khuda ka lashkar
   Pech ammame ke aflak o zamin ka chakkar
   Rasta khuld ka hai jae namaz-e-Haider
   Maskan-e-Haider-e-Karrar hai Allah ka ghar
-  
+
   4
   Nashir-e-Fuztu bi Rabbil Kaba
   Ye zamin jis ka nishan-e-sajda
   Jis ka saya nahiṅ us ka saya
   Rabbahu fihi tajalla-e-zahar
-  
+
   5
   Pae Haider se jo masrah ka patthar hoga
   Sang wo Durr-e-Najaf surat-e-gauhar hoga
   Aisa gauhar jo kabhi Mesam o Qambar hoga
   Aur kabhi surat-e-Salman o Abuzar hoga
-  
+
   6
   Ishq-e-Haider ba Khuda lutf-e-Khuda
   Sahib-e-zarf ko hota hai ata
   Ishq-e-Haider mein ibadat ka maza
   Jis ke maddah sabhi barg o shajar
-  
+
   7
   Khub Haider ne diya jam-e-qaza
   Apne qatil ko jaga kar ye kaha
   Kam kar dushman-e-Rabb-e-Kaba
   Allah Allah Ali ka ye jigar
-  
+
   8
   Aalam-e-Karb hai tanhayi teri
   Karbala kha gayi binayi teri
   Tere bachchoṅ mein thi danayi teri
   Utra maidan mein ye keh kar Akbar
-  
+
   9
   Fikr-e-Rehaan o Nadeem-e-Sarwar
   Hai dua-e-dil-e-Zehra ka asar

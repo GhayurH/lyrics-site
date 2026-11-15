@@ -11,31 +11,31 @@ aliases: []
 published: false
 romanLyrics: |-
   Zainab manane aayi hai bhai ka arbaeen
-  
+
   1
   Karbobala mein shaam e ghariban ka hai samaan
   Baithi hui hai khaak basar saari bibiyan
   Bhai ke hai mazaar pa khwahar ki ye fughan
   Hum thay sitam tha aur thi afwaaje ahle keen
-  
+
   2
   Bazaar e shaam aur wo tamashayi al-amaan
   Rukta tha har jagah pa aseeron ka kaarwan
   Hum sar khule thay aur thi baazu mein reesma
   Tauq e garan tha aur mera abid e hazeen
-  
+
   3
   Laila ka haal bibiyon mein sab se ghair tha
   Ek ek se kehti thi mera akbar kahan gaya
   Mai dhoondti hoon koi bhi deta nahi pata
   Naize liye huwe use ghere thay kuch layeen
-  
+
   4
   Abbas ka wajood hamara sahara tha
   Nikla tha teri simt wo saqqa sakina ka
   Kyun saahile furaat tu aage na aa saka
   Ahle haram ke bain se hilne lagi zameen
-  
+
   5
   Mehshar talak sawaar di dono ne raahe haq
   Baatil ka sar na uthega aisa diya sabaq
@@ -50,7 +50,7 @@ romanLyrics: |-
 
 ۱
 کربوبلا میں شام غریباں کا ہے سماں
-بیٹھی ہوئی ہے خاک بسر ساری بی بیاں
+بیٹھی ہوئی ہے خاک بسر ساری بی‌بیاں
 بھای کے ہے مزار پہ خواہر کی یہ فغاں
 ہم تھے ستم تھا اور تھی افواج اہلِ کیں
 
@@ -61,7 +61,7 @@ romanLyrics: |-
 طوق گراں تھا اور میرا عابد حزیں
 
 ۳
-لیلیٰ کا بی بیوں میں سب سے غیر تھا
+لیلیٰ کا بی‌بیوں میں سب سے غیر تھا
 ایک ایک سے کہتی تھی میرا اکبر کہاں گیا
 میں ڈھونڈتی ہوں کوی بھی دیتا نہیں پتہ
 نیزے لیےء ہوئے اسے گھیرے تھے کچھ لعیں

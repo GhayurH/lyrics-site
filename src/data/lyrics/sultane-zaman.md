@@ -21,49 +21,49 @@ romanLyrics: |-
   Aa pahunche musafir
   Aate hi ghira Ahmad-e-Mukhtaar ka kunba
   Andoh o bala mein
-  
+
   2
   Khulne lage hathyaar shujaaan-e-Arab ke
   Paa band-e-adab ke
   Abbas-e-alamdaar lagaane lage khaima
   Darya ki fiza mein
-  
+
   3
   Har ek namazi ka hai khaaliq ki taraf dil
   Taaat pe hai maail
   Masruf hai paighambar-e-aalam ka nawaasa
   Ummat ki dua mein
-  
+
   4
   Jangal ki hawaaoṅ se maras mein hai taraqqi
   Aankheṅ nahiṅ khulti
   Pukaarta hai jigar zehr ka hai zaaiqa sa
   Aabid ko dawa mein
-  
+
   5
   Shabbir ke chehre pe bahaali ke haiṅ aasaar
   Hans dete haiṅ har baar
   Farmaate haiṅ ab kaahe ko hone laga arsa
   Waade ki wafa mein
-  
+
   6
   Jhonke jo kabhi garm hawaaoṅ ke haiṅ chalte
   Bachche haiṅ dehelte
   Sayyidaaniyoṅ ka waqt har ek dam hai guzarta
   Faryaad o buka mein
-  
+
   7
   Garmi se dil-e-Asghar-e-naadaaṅ hai dharakta
   Taalu hai lapakta
   Ik hasrat o andoh ka andaaz hai paida
   Ghungru ki sada mein
-  
+
   8
   Kuchh soch ke karti hai fughaaṅ Zainab-e-naachaar
   Kehti hai ye har baar
   Ye kya hua hum bekasoṅ ka qaafila utra
   Kis dasht-e-bala mein
-  
+
   9
   Mohsin ke jigar bandoṅ se sab phir gaye kuffaar
   Ho laanat-e-Ghaffaar

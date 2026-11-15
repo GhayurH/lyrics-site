@@ -15,42 +15,42 @@ romanLyrics: |-
   Paaoṅ mein chhaale hai paaoṅ mein chhaale haiṅ
   Dushman hai raste ka manzar
   Paaoṅ mein chhaale hai paaoṅ mein chhaale haiṅ
-  
+
   1
   Kitni aziyat kitni bechaini hai kahe kis se
   Parti hai har gaam pe thokar
   Paaoṅ mein chhaale hai paaoṅ mein chhaale haiṅ
-  
+
   2
   Haathoṅ mein hathkariyaṅ hai aur tauq hai gardan mein
   Saath mein hai beparda bhara ghar
   Paaoṅ mein chhaale hai paaoṅ mein chhaale haiṅ
-  
+
   3
   Pair utha kar rakhte haiṅ to hoti hai taklif
   Jalti reti aur baraabar
   Paaoṅ mein chhaale hai paaoṅ mein chhaale haiṅ
-  
+
   4
   Kaise rasta chalte haiṅ Sajjad zara socho
   Durroṅ ki choteṅ hai badan par
   Paaoṅ mein chhaale hai paaoṅ mein chhaale haiṅ
-  
+
   5
   Ek badan hai do taklifeṅ aur akele hum
   Dard kisi se dil ke andar
   Paaoṅ mein chhaale hai paaoṅ mein chhaale haiṅ
-  
+
   6
   Kitni pareshani hoti hai rasta chalne mein
   Chaaroṅ taraf kaantoṅ ki chaadar
   Paaoṅ mein chhaale hai paaoṅ mein chhaale haiṅ
-  
+
   7
   Karb o bala se Shaam ki raaheṅ kitni mushkil hai
   Dhup ki garmi tapte patthar
   Paaoṅ mein chhaale hai paaoṅ mein chhaale haiṅ
-  
+
   8
   Kaise kare Sajjad ki kaifiyat ko raqam Ishrat
   Pet pe durre jism hai laaghar

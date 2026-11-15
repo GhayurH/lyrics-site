@@ -18,42 +18,42 @@ romanLyrics: |-
   Sang ki barsaat hai qahqahe haiṅ chaar suṅ
   Berida hai bibiyaṅ sar se behta hai lahu
   Hans rahe haiṅ Ahl-e-Shaam aa gaya bazaar-e-Shaam
-  
+
   2
   Ahl-e-shar hai har taraf haath mein pathar liye
   Hai koi naiza liye hai koi nashtar liye
   Har taraf hai ek kohraam aa gaya bazaar-e-Shaam
-  
+
   3
   Tauq hai nauha kunaṅ ro rahi hai beriyaṅ
   Haye rassi mein bandhi dekhti hai bibiyaṅ
   Taaziyane aur Imam aa gaya bazaar-e-Shaam
-  
+
   4
   Chhin gayi teri rida bach gaya hai la ilaah
   Ab tujhe darbaar mein hai bachaana Karbala
   Ab hai Zainab tera kaam aa gaya bazaar-e-Shaam
-  
+
   5
   Aasmaṅ haye zamiṅ par tut kar girne ko hai
   Dekh kar bemaar ko khaak par girne ko hai
   Hai koi Zainab ko thaam aa gaya bazaar-e-Shaam
-  
+
   6
   Tere baazu chum kar roye the jis ko Ali
   Jis ko rote aaye haiṅ aaj tak saare wali
   Haye yehi hai wo maqaam aa gaya bazaar-e-Shaam
-  
+
   7
   Ro diye Ahl-e-haram tauq ke aazaar par
   Shaam ke bazaar mein haye ek bemaar par
   Ho gayi mushkil tamaam aa gaya bazaar-e-Shaam
-  
+
   8
   Rassiyaṅ haiṅ baazuoṅ mein aur naaqe tez tar
   God se maaoṅ ke bachche gir rahe haiṅ khaak par
   Hashr hai har ek gaam aa gaya bazaar-e-Shaam
-  
+
   9
   Khun-e-dil mein dub kar tu ne jo likha Naved
   Jab talak hai Karbala hai tera nauha Naved

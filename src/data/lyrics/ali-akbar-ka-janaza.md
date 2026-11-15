@@ -16,31 +16,31 @@ published: false
 romanLyrics: |-
   Umm-e-Laila Ali Akbar ka janaza aaya
   Khun mein duba hua lal ka sehra aaya
-  
+
   1
   Fatima Sughra ka khat parh kar ye bole Shabbir
   Naam tere Ali Akbar khat-e-Sughra aaya
-  
+
   2
   Baith kar sochti rehti thi ye Sughra ghar mein
   Mere bhayi ka na shadi ka bulawa aaya
-  
+
   3
   Le to aaye Shah-e-Din lasha-e-jawaaṅ khaime tak
   Aisa lagta tha ke Shabbir ka lasha aaya
-  
+
   4
   Jis ne atharah baras pala tha us se puchho
   Kis tarah barchhi mein Akbar ka kaleja aaya
-  
+
   5
   Naujawaaṅ lal ke sine se nikali barchhi
   Waqt mazlum musafir pe ye kaisa aaya
-  
+
   6
   Jis ko armaan tha shadi ka wo maaṅ kya karti
   Jis ki taqdir mein taa umr tarapna aaya
-  
+
   7
   Ab na Akbar hai na Abbas na koi nasir
   Ae Zafar ye lab-e-Shabbir pe nauha aaya

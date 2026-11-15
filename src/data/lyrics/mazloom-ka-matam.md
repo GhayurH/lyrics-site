@@ -17,11 +17,11 @@ romanLyrics: |-
   1
   Rukhsaar-e-Yazidi pe lagega wo tamaancha
   Jo haath azaadaar ke sine pe parega
-  
+
   2
   Sheh bole ye haathoṅ pe utha kar sar-e-maqtal
   Hai kaun jo Asghar se mere baad karega
-  
+
   3
   Sada rahega Husain ka gham
   Ye shor-e-girya ye shor-e-matam
@@ -29,15 +29,15 @@ romanLyrics: |-
   Ye matam kaise ruk jaye
   Seh roz ke pyaasoṅ se ye paani ka hai waada
   Kaunain mein ab koi bhi pyasa na rahega
-  
+
   4
   Hur ban ke koi aaye to Shabbir ki jaanib
   Ye aisa gharana hai jo maangoge milega
-  
+
   5
   Akbar ne kaha sheh se ulat duṅga main lashkar
   Baba mujhe do ghuṅt agar paani milega
-  
+
   6
   Baadshaah-e-Karbala din ka hai aasra
   Teri majlis tera matam zindagi hai ye Husain

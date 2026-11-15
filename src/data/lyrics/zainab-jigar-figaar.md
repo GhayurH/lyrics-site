@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Zainab jigar figaar jahan se guzar gayi
-  
+
   1
   Beton ko jisne bhai pa qurban kar diya
   Laashe jab aaye shukr ka sajda adaa kiya
   Aisa muzahira kabhi dekha na sabr ka
   Sarwar ki gham gusaar jahan se guzar gayi
-  
+
   2
   Baazu thay reesma mein bandhe bad'dua na ki
   Bhai bhatije qatl huwe bad'dua na ki
   Ahle haram ke qaime jale bad'dua na ki
   Bhai ki jaan nisaar jahan se guzar gayi
-  
+
   3
   Ho kar aseer koocha o bazaar mein gayi
   Kunbe ko leke majlise ghaddaar mein gayi
   Sar nange jo yazeed ke darbar mein gayi
   Mehzoon o dil figaar jahan se guzar gayi
-  
+
   4
   Khutba ali ke lehje mein jis ne suna diya
   Darbar ko yazeed ke jis ne hila diya
   Tha haq pa kaun jis ne jahan ko bata diya
   Haq bain o haq sheyaar jahan se guzar gayi
-  
+
   5
   Hamshakle mustafa ka jo matam na kar saki
   Abbase bawafa ka jo matam na kar saki
   Mazloom e karbala ka jo matam na kar saki
   Kunbe ki soghwar jahan se guzar gayi
-  
+
   6
   Thi hyderi jalaal ki tasweer shaam mein
   Ki maqsade hussain ki tash’heer shaam mein
   Rakhi bina e majlise shabbir shaam mein
   Matam ki zimmedaar jahan se guzar gayi
-  
+
   7
   Zaalim ne baylche se jise kar diya shaheed
   Kaise kahun jo uspa mazalim huwe shadeed

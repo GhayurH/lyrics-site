@@ -36,7 +36,7 @@ romanLyrics: |-
 
   Waada hai hamara ya Fatima Zahra
   Nahiṅ bhuleṅge Husaina
-  
+
   1
   Usne hum ko na bhulaya hum ne usko na bhulaya
   Husainul hubhul yamhul khataya
@@ -49,7 +49,7 @@ romanLyrics: |-
   Waada hai ye wallah ya Fatima zahra
   Waada hai hamara ya Fatima Zahra
   Nahiṅ bhuleṅge Husaina
-  
+
   2
   Qasam Allah ki wo jis ne hameṅ khalq kiya
   Aur hameṅ Karbobala ke liye makhsus kiya
@@ -64,7 +64,7 @@ romanLyrics: |-
   Waada hai ye wallah ya Fatima zahra
   Waada hai hamara ya Fatima Zahra
   Nahiṅ bhuleṅge Husaina
-  
+
   3
   Azam allaho lakal ajra ali
   Bil musiba ya Haider ya ali
@@ -84,7 +84,7 @@ romanLyrics: |-
   Waada hai ye wallah ya Fatima zahra
   Waada hai hamara ya Fatima Zahra
   Nahiṅ bhuleṅge Husaina
-  
+
   4
   Ek waada hai jo Shabbir se hum sab ne kiya
   Ek waada hai jo Shabbir ne bachpan mein liya

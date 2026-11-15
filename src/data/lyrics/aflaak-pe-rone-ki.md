@@ -12,52 +12,52 @@ aliases: []
 published: false
 romanLyrics: |-
   Aflaak pe rone ki matam ki sada jaye
-  
+
   1
   Mohtaj hai ye dunya dunya tumheṅ kya degi
   Shabbir ki madar hi bas tum ko dua degi
   Shabbir ka hai gham ye sauda na kiya jaye
-  
+
   2
   Matam hai Shah-e-din ka aaye haiṅ Anbiya bhi
   Mushkil kusha ke hamrah aaye haiṅ Mustafa bhi
   Matam ke taqaddus ko malhooz rakha jaye
-  
+
   3
   Rumal Fatima ka phir paaeṅge ye aansu
   Taskin-e-dil-e-Zehra ban jaaeṅge ye aansu
   Ashkoṅ ke samandar ka nazrana diya jaye
-  
+
   4
   Dar pesh aayi mushkil sabr o rahe wafa mein
   Islam gir raha tha Maidan-e-Karbala mein
   Abbas ne kaha jab haathoṅ ko diya jaye
-  
+
   5
   Zainab ki Fatima ki Kulsum ki sada hai
   Sabir dil-e-haziṅ ki masum ki sada hai
   Shabbir ka hai matam ji bhar ke kiya jaye
-  
+
   6
   Aankhoṅ se ashk jari sinoṅ se lahu jari
   Shabbir ke matam mein maut aaye to hai pyari
   Matam pe harf aaye to sar bhi diya jaye
-  
+
   7
   Maqtal mein sar kataye Ansar sab sidhare
   Mayyat jawan ki hai Shabbir haiṅ akele
   Lasha Ali Akbar ka kis tarah utha jaye
-  
+
   8
   Hal min ki ek sada ne maidaṅ mein us ko laya
   Gardan pe teer kha kar Asghar ne muskuraya
   Pursa Ali Asghar ka Zehra ko diya jaye
-  
+
   9
   Dil chhor aaye Ghazi pehlu-e-Sakina mein
   Abbas sar jhukaye haiṅ Nehr-e-Alqama mein
   Pyasoṅ ko kis tarah se sairab kiya jaye
-  
+
   10
   Mazlum ke nauhe ko ro ro ke parha jaye
   Shabbir ki madar ko pursa yuṅ diya jaye

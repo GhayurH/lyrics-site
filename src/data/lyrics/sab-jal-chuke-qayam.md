@@ -14,37 +14,37 @@ romanLyrics: |-
   Sab jal chuke khiyaam
   Bikhri hui hai raat sisakta hai ban tamaam
   Suraj ke sar se khinch li shab ne ridaa-e-shaam
-  
+
   1
   Khaimoṅ ko apne laut chali zulm ki sipaah
   Khuṅ se zamiṅ surkh hui aag se siyaah
   Uthte hue dhueṅ se falak hai siyaah faam
-  
+
   2
   Taarik raastoṅ se dehelte haiṅ bewatan
   Kaanoṅ mein aa rahi hai sadaa-e-bizan bizan
   Sab mehr o maah le ke kahiṅ chhup gayi hai shaam
-  
+
   3
   Qaasim sa naujawaaṅ Ali Asghar sa mah ru
   Abbas sa jari Ali Akbar sa khush gulu
   Kya kya charaagh the jinheṅ roti rahegi shaam
-  
+
   4
   Baithe hue raakh pe jhul se hue badan
   Sahme hue thake hue dukhte hue badan
   Ae raat zakhm zakhm bilakte huoṅ ko thaam
-  
+
   5
   Aankhoṅ ke saamne hi baha asr tak lahu
   Aankhoṅ ke saamne hi lagaai aag chaar su
   Ye khuṅ ye aag jhel li Bano tumheṅ salaam
-  
+
   6
   Aata hua sawaar jo dekha su-e-khiyaam
   Gunji sadaa-e-dukhtar-e-Zehra-e-nek naam
   Baba mera salaam lo baba mera salaam
-  
+
   7
   Sar ko jhukaaye khaak par baitha hai ek jawaaṅ
   Gardan mein tauq paaoṅ mein lipti haiṅ beriyaaṅ

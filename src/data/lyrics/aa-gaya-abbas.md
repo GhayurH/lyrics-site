@@ -27,7 +27,7 @@ romanLyrics: |-
   Abu Talib ka jigar Hashmi rashk-e-qamar
   Kaatne zulm ka sar aa gaya Abbas
   Ya Abbas Ya Abbas
-  
+
   2
   Khair maqdam ko barhi Alqama su-e-jari
   Shor saahil se utha aa gaya ibn-e-Ali
@@ -35,7 +35,7 @@ romanLyrics: |-
   Dekho ab saans na lo sher garja hai suno
   Saathiyoṅ se ye kaho aa gaya Abbas
   Ya Abbas Ya Abbas
-  
+
   3
   Aks-e-Haider hai yehi misl-e-Jafar hai yehi
   Zarb-e-Hamza ki qasam mas'ad-e-narr hai yehi
@@ -43,7 +43,7 @@ romanLyrics: |-
   Karne aaya hai wigha chahiye jisko qaza
   Saamne aaye zara aa gaya Abbas
   Ya Abbas Ya Abbas
-  
+
   4
   Haath mein tegh nahiṅ phir bhi larza hai zamiṅ
   Sang sab khaak hue chhup gaye dar ke laiṅ
@@ -51,7 +51,7 @@ romanLyrics: |-
   Main Sakina ka chacha khaadim-e-shaah-e-huda
   Aayi garduṅ se sada aa gaya Abbas
   Ya Abbas Ya Abbas
-  
+
   5
   Dhaaras-e-tishna-labaṅ baazu-e-shaah-e-zaman
   Pyaase bachchoṅ ke liye mustaqil nauha kunaṅ
@@ -59,7 +59,7 @@ romanLyrics: |-
   Jaanib-e-khaima chala aayi parcham ki hawa
   Pyaase bachchoṅ ne kaha aa gaya Abbas
   Ya Abbas Ya Abbas
-  
+
   6
   Aayi aawaaz-e-jari ya Husain ibn-e-Ali
   Dam hai sine mein ruka chhid gayi mashk meri
@@ -67,7 +67,7 @@ romanLyrics: |-
   Aankh mein tir chubha sar bhi do nim hua
   Ro ke Sarwar ne kaha aa gaya Abbas
   Ya Abbas Ya Abbas
-  
+
   7
   Thaame Shabbir kamar nauhagar khasta jigar
   Bole ae sher mere ye na thi hum ko khabar
@@ -75,7 +75,7 @@ romanLyrics: |-
   Dil pe jab tir laga aayi na hum ko qaza
   Bas alam khun bhara aa gaya Abbas
   Ya Abbas Ya Abbas
-  
+
   8
   Ek kohraam utha jab alam khuṅ mein bhara
   Aaya khaimoṅ ki taraf bint-e-Zehra ne kaha
@@ -83,7 +83,7 @@ romanLyrics: |-
   Par yaqiṅ mujhko na tha kis ko ab duṅ main sada
   Lashkar-e-jaur o jafa aa gaya Abbas
   Ya Abbas Ya Abbas
-  
+
   9
   Haaye Rehaan o Raza din wo Aashur ka tha
   Lut gaye ahl-e-haram kat gaya shah ka gala

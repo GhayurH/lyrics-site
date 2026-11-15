@@ -18,37 +18,37 @@ romanLyrics: |-
   Maaṅ ki ummideṅ tut gayi hai
   Tujhko jo paauṅ dil se lagaauṅ
   Aa mere Asghar
-  
+
   2
   Kaise sahuṅ ye zakhm-e-judaai
   Tir se tu ne pyaas bujhaai
   Ashk pilaauṅ pyaas bujhaauṅ
   Aa mere Asghar
-  
+
   3
   Mil bhi gaya agar pani meri jaaṅ
   Kaise piyegi baali Sakina
   Pani jo paauṅ tujhko pilaauṅ
   Aa mere Asghar
-  
+
   4
   Tu hi bata ae mere gul-e-tar
   Dhundhe kahaaṅ ye maadar-e-muztar
   Maidaaṅ mein aauṅ darya pe jaauṅ
   Aa mere Asghar
-  
+
   5
   Koi khushi ab raas nahiṅ hai
   Lakht-e-jigar jo paas nahiṅ hai
   Paas bulaauṅ nir bahaauṅ
   Aa mere Asghar
-  
+
   6
   Saaye mein kaise jayegi maadar
   Teri lahad hai dhup mein Asghar
   Saaye mein jaauṅ main mar na jaauṅ
   Aa mere Asghar
-  
+
   7
   Koi khushi ka din bhi na aaya
   Laal mere tu khuṅ mein nahaya

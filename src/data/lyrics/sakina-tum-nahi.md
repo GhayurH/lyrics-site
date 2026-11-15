@@ -12,42 +12,42 @@ published: false
 romanLyrics: |-
   Tarap kar yuṅ na tarpana
   Sakina tum nahiṅ rona
-  
+
   1
   Suno baba ka ye kehna
   Tumheṅ hai sabr se rehna
   Badal jaayegi ye duniya
-  
+
   2
   Jalaane aayeṅge aadaa
   Hamaare baad ye khaime
   Jalega jab tera kurta
-  
+
   3
   Daraane aayeṅge zaalim
   Liye haathoṅ meiṅ jab khanjar
   Meri bachchi na tum darna
-  
+
   4
   Tamaanche maarega dushman
   Tumhaare chhin kar gauhar
   Na hoga jab koi apna
-  
+
   5
   Barhegi pyaas ki shiddat
   Jab hogi har nayi aafat
   Na hoga bhaai jab mera
-  
+
   6
   Tumheṅ kab nind aayegi
   Na hoga jab mera sina
   Tumheṅ kaantoṅ pe hai sona
-  
+
   7
   Andhere qaid khaane meiṅ
   Tumheṅ nind aayegi kiuṅ kar
   Na hoga baap ka sina
-  
+
   8
   Raza ho aap ki Maula
   Likha hai us ne ye nauha

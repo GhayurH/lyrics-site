@@ -13,19 +13,19 @@ published: false
 romanLyrics: |-
   Zulm kya kya na hue mere Nabi aap ke baad
   Chain se Aal-e-Nabi reh na saki aap ke baad
-  
+
   1
   Zul Ashira ke lage zakhm Saqifa mein khule
   Saamne aa gaye naasur-e-khafi aap ke baad
-  
+
   2
   Tera minbar teri mehraab gawaahi deiṅge
   Sayyeda bar sar-e-darbaar gayi aap ke baad
-  
+
   3
   Qabr-e-Zahra pe faqat zabt ka daaman chhuta
   Roe bas ek dafa Maula Ali aap ke baad
-  
+
   4
   Khun jis ka tha tera khun badan tera badan
   Khuṅ mein hai gharq wohi farq-e-Ali aap ke baad

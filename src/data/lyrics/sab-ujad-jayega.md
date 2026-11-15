@@ -13,51 +13,51 @@ published: false
 romanLyrics: |-
   Sab ujar jaaye ga Zehra ka makaaṅ asr ke baad
   Hoga Shabbir ke khaimoṅ mein dhuaaṅ asr ke baad
-  
+
   1
   Subh-e-Aashur to de di Ali Akbar ne azaaṅ
   Kaun dega bhala maghrib ki azaaṅ asr ke baad
-  
+
   2
   Raakh pe khaimoṅ ki rote hue bachche hoṅ ge
   Dasht mein hoga qayaamat ka samaaṅ asr ke baad
-  
+
   3
   Ae Sakina tere kaanoṅ se lahu tapke ga
   Hoṅ ge chehre pe tamaachoṅ ke nishaaṅ asr ke baad
-  
+
   4
   Kaun maasum Sakina pe taras khaaye ga
   Kaun samjhe ga yatimoṅ ki fughaaṅ asr ke baad
-  
+
   5
   Laash Abbas ki darya pe tarap jaaye gi
   Jab bhi uthe gi Sakina ki fughaaṅ asr ke baad
-  
+
   6
   Haaye kis shaan se aayi thi amaari meri
   Yaad aane laga Zainab ko samaaṅ asr ke baad
-  
+
   7
   Kis tarah dil ko sambhaale gi Ali ki beti
   Ran mein roye gi jo Shabbir ko maaṅ asr ke baad
-  
+
   8
   Kam se kam hai abhi bimaar ka bistar baaqi
   Warna taqdir mein aaraam kahaaṅ asr ke baad
-  
+
   9
   Ae Khuda Sayyid-e-Sajjad ko de quwwat-e-zabt
   Hoga Shabbir ka sar aur sinaaṅ asr ke baad
-  
+
   10
   Khatm kar do yahaaṅ ae Aamir o Nayyar nauha
   Kar sako ge na ghamoṅ ka ye bayaaṅ asr ke baad
-  
+
   11
   Laash Shabbir ki paamaal kareṅ ge aadaa
   Khun barsaaye ga ye saara jahaaṅ asr ke baad
-  
+
   12
   Haaye Shabbir ke sine pe jo so jaati thi
   Us ko mil paaye ga aaraam kahaaṅ asr ke baad

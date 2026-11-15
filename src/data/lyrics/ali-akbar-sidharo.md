@@ -19,55 +19,55 @@ romanLyrics: |-
   Ali Akbar sidharo
   Baqa-e-Haq ki khatir baandh lo beta kafan sar par
   Ali Akbar sidharo
-  
+
   1
   Wo dekho wo barhe aate haiṅ aada janib-e-khaima
   Barho aur barh ke beta rok do barhta hua lashkar
-  
+
   2
   Gala kat jae lekin Haq pe aaṅch aane nahiṅ pae
   Hifazat din ki hum pe hai hum haiṅ Aal-e-Payambar
-  
+
   3
   Jo rah-e-Haq mein maut aae to mar jana shahadat hai
   Shahadat ka ye saghar shahd se shiriṅ hai Ae dilbar
-  
+
   4
   Tumhare bazuoṅ mein quwwat-e-bazu-e-Haider hai
   Tumhare samne kya hai bhala ye fauj ye lashkar
-  
+
   5
   Ani khud barh ke barchhi ki laga lo apne sine se
   Jigar par khao ab zakhm-e-sinaan o tir hans hans kar
-  
+
   6
   Ijazat maaṅ se haaṅ ab ja ke khaime mein zara le lo
   Phuphi se hum ijazat khud dila deṅge tumheṅ chal kar
-  
+
   7
   Pisar ko barchhiyoṅ mein bhejna aasaaṅ nahiṅ beta
   Hai fitrat ka taqaza ghash bhi ho sakti hai maaṅ sun kar
-  
+
   8
   Phuphi ke sath hi Ae lal hai bimar ka khaima
   Ye rakhna dhyan chaunk uthe na ghash se Abid-e-Muztar
-  
+
   9
   Shikayat pyas ki ab ja ke Dada jaan se karna
   Tumheṅ serab beta ab kareṅge Saqi-e-Kausar
-  
+
   10
   Sinaṅ kha kar jo girna khak par gir kar sada dena
   Tumhari lash pe sajda karuṅga shukr ka dilbar
-  
+
   11
   Jawaaṅ bete ka lasha kis tarah late haiṅ maqtal se
   Zamana dekh lega daur-e-Ibn-e-Fatih-e-Khaibar
-  
+
   12
   Ye lamha dard ka chha jaega yuṅ zehn-e-aalam par
   Na bhulega zamana hashr tak ye dasht ye manzar
-  
+
   13
   Jo sun lega mera bhayi tumheṅ jane nahiṅ dega
   Wo bebas mujh ko kar dega mere qadmoṅ pe sar rakh kar

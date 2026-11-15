@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Zainab madine jaati hai kya kya liye huwe
-  
+
   1
   Ankhon mein karbala ka nazara liye huwe
   Ehsaas mein hussain ka laasha liye huwe
   Ashkon mein khoon e zakhm e tamanna liye huwe
   Abbas ke alam ka pharera liye huwe
-  
+
   2
   Teero se chaak chaak hai sarwar ka pairahan
   Abbas ka libaas wo akbar ka pairahan
   Dooba huwa hai khoon mein asghar ka pairahan
   Bano ke sheer-khaar ka jhoola liye huwe
-  
+
   3
   Gardan ka tauq abid e muztar ki bediyan
   Kuch bediyon ke daagh to durro ke kuch nashan
   Cheeni huwi sakina ke kaano ki baliyaan
   Nanhi si ek bachi ka sadma liye huwe
-  
+
   4
   Karbobala mein lut gaya gulzar e panjetan
   Pamaal dasht e kee mein hua dilbare hassan
   Pehne huwe hai bewa ki poshak ek dulhan
   Qasim bane ke maathe ka sehra liye huwe
-  
+
   5
   Abbas e jaane hyder e safdar ki yaad hai
   Qasim ki yaad hai ali akbar ki yaad hai
   Seene mein ek dil ha bahattar ki yaad hai
   Ujda huwa hussain ka kunba liye huwe
-  
+
   6
   Daaghon mein aag aag mein ghut’ta hua dhuan
   Maanind e mauj aankh se aansu rawan rawan
   Baazu pa reesma ke ubhre huwe nashan
   Seene mein zakhme marg e sakina liye huwe
-  
+
   7
   Zindan se chut kar bhi nahi ranj se firaagh
   Roshan hai daaghe qalbe jigar surate charaagh

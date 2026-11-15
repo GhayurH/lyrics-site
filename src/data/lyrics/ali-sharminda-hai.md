@@ -18,47 +18,47 @@ romanLyrics: |-
   Ali sharminda hai Zehra
   Bahot dunya ne tarapaya Ali kuchh bhi na kar paaya
   Ali sharminda hai Zehra
-  
+
   1
   Suni kab dard meiṅ dubi tumhari siskiyaaṅ main ne
   Na dekhi haaye jite ji shikasta pasliyaaṅ main ne
   Na kuchh tum ne hi batlaya
-  
+
   2
   Mujhe khud bhi na tha us waqt apne gham ka andaza
   Gira jab haaye pehlu par tumhare jalta darwaza
   Madad ko bhi nahiṅ aaya
-  
+
   3
   Bhare darbar meiṅ ummat ke jhutlaya gaya tum ko
   Ali ke saamne dunya meiṅ tarapaya gaya tum ko
   Tumhara haq na dilwaya
-  
+
   4
   Utaara qabr meiṅ jis dam Nabi-zaadi ki mayyat ko
   Kabhi Hasnain ko dekha kabhi Zehra ki surat ko
   Yehi ro ro ke farmaya
-  
+
   5
   Lahu royega dil shaam o sahar tum se juda ho kar
   Rahega ye khalaq-e-kaunain ka mushkil-kusha ho kar
   Na Mohsin ko bacha paaya
-  
+
   6
   Shikasta pasliyoṅ ka dard bhi kuchh kam na kar paaya
   Masiha ko yehi gham hai ilaaj-e-gham na kar paaya
   Isi aalam meiṅ dafnaya
-  
+
   7
   Kabhi jab qabr par aaye baraye fateha-khwani
   Yehi kehte the rakh kar turbat pe peshani
   Koi khaatir na kar paaya
-  
+
   8
   Najaf se jab Ali ne qabr-e-Zehra par nazar daali
   Lahad ujri hui dekhi tarap kar reh gaya Waali
   Ye jumla phir se dohraya
-  
+
   9
   Wo dekho aaj bhi saaya nahiṅ hai qabr-e-Zehra par
   Kisi ki ye sadaaeiṅ aa rahi haiṅ Aamir o Akhtar

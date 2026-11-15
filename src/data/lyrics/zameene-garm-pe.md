@@ -11,49 +11,49 @@ aliases: []
 published: false
 romanLyrics: |-
   Zameene garm pa laasha pada hai akbar ka
-  
+
   1
   Salaam e ruqsat e aakhir hussain tak pahuncha
   Hai sakht aalam e ghurbat mein laal zehra ka
   Koi nahi jo bataye ke hai kahan laasha
   Hussain dhoond rahe hai pisar nahi milta
-  
+
   2
   Zaeef baap ki nazrein jawan ka laasha
   Hai gham se surkh hussain e ghareeb ka chehra
   Sirhane baith ke paiham ye de rahe hai sada
   Hussain aaya hai milne jawab do beta
-  
+
   3
   Khuda hi jaane ke shabbir kitne hai be-aas
   Na koi bhai na beta hai ab ghareeb ke paas
   Shadeed dhoop mein reh reh ke bad rahi hai pyaas
   Hussain kitne hai tanha bichad gaye abbas
-  
+
   4
   Na jaane sakte mein kya sochta hai dil maa ka
   Jawan bete ka kya haal hai suno laila
   Nikaala bete ke seene se sheh ne jab naiza
   Lahoo mein zarkh hai laasha tumhare bete ka
-  
+
   5
   Jigar ko thaame tadapti hai zainab e muztar
   Zameen pa baithi hai sakte mein ghamzada maadar
   Ye sochti hai kahan kho gaya mera dilbar
   Nazar ke saamne hai sirf soorat e akbar
-  
+
   6
   Hai qaimagah mein har simt hashr ka samaan
   Shabihe husne payambar tha akbare zeeshan
   Behan ke dil mein tha bhai ke byaah ka armaan
   Sakina kehti hai bhaiya kahan gaye amma
-  
+
   7
   Kaleja dekh ke bete ka dil tadapta tha
   Hussain dekhte thay aur ghar ujadta tha
   Tha aaftaab falak pa abhi ujaala tha
   Magar hussain ki aankhon mein bas andhera tha
-  
+
   8
   Qadam hussain ke akhtar zamana choomega
   Maqam e arsh pa dekhegi sabr ko dunya

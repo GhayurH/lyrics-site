@@ -15,49 +15,49 @@ romanLyrics: |-
   Ae phuphi Sakina mar gayi
   Kehte kehte baaba baaba jaan
   Ae phuphi Sakina mar gayi
-  
+
   1
   Kaise main ye gham karuṅ sehan
   Bolti nahiṅ meri behen
   Ho gayi khaamosh nim jaaṅ
   Ae phuphi Sakina mar gayi
-  
+
   2
   Karbala se jis ki bekhata
   Ae phuphi hui thi ibtida
   Khatm ho gayi wo daastaaṅ
   Ae phuphi Sakina mar gayi
-  
+
   3
   Zindagi tamaam ho gayi
   Shaam mein hi shaam ho gayi
   Band ho gayi haiṅ siskiyaaṅ
   Ae phuphi Sakina mar gayi
-  
+
   4
   Baaba jaaṅ ke sar pe rakh ke sar
   Keh rahi thi ro ke nauhagar
   Kab talak sahuṅ main sakhtiyaaṅ
   Ae phuphi Sakina mar gayi
-  
+
   5
   Ghamzada behen ki taa hayaat
   Yaad aayegi har ek baat
   Kar na paauṅga jinheṅ bayaan
   Ae phuphi Sakina mar gayi
-  
+
   6
   Baad-e-qatl-e-Shaah-e-Karbala
   Zindagi se tha jise gila
   So gayi wo aaj nauha khwan
   Ae phuphi Sakina mar gayi
-  
+
   7
   Hathkari hai mere haath mein
   Koi bhi nahiṅ hai saath mein
   Dafn kaise main karuṅ yahaaṅ
   Ae phuphi Sakina mar gayi
-  
+
   8
   Aasif-e-haziṅ ba shor o shain
   Aamir-e-haziṅ ye sun ke bain

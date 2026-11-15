@@ -13,19 +13,19 @@ published: false
 romanLyrics: |-
   Haye Ali Ali Ali
   Haye Ali Ali Ali
-  
+
   1
   Qatl hue Shaah-e-Zamaaṅ
   Ran mein hai mahshar ka samaaṅ
   Khaimoṅ se uthta hai dhuaaṅ
   Jaae kahaaṅ Aal-e-Nabi
-  
+
   2
   Aabid-e-Betaab o Tawaaṅ
   Qaid hue aa ke kahaaṅ
   Haathoṅ mein hai hathkariyaṅ
   Paaoṅ mein beri hai pari
-  
+
   3
   Kaun ye bejaan hua
   Besar o saamaaṅ hua
@@ -35,7 +35,7 @@ romanLyrics: |-
   Gunjti hai kis ki fughaaṅ
   Roti hai shaayad koi maaṅ
   Khasta jigar kokh jali
-  
+
   4
   Naazish-e-Khatm-e-Ambiya
   Waaris-e-Fakhr-e-Ausiya
@@ -45,7 +45,7 @@ romanLyrics: |-
   Bosa-gaah-e-Khatm-e-Rusul
   Khun se hui kul
   Haye kahaaṅ tegh lagi
-  
+
   5
   Shaah-e-Zaman paas nahiṅ
   Pahre pe Abbas nahiṅ
@@ -55,7 +55,7 @@ romanLyrics: |-
   Chalti hai tham tham ke hawa
   Maut ki chaayi hai ghata
   Nind na aaegi kabhi
-  
+
   6
   Uff ye yateemi ye sitam
   Haye ye saili ye waram
@@ -65,7 +65,7 @@ romanLyrics: |-
   Kis se kahe jaan-e-Pidar
   Chhin gai kaanoṅ se gohar
   Kurte mein bhi aag lagi
-  
+
   7
   Waaris-e-Mazlum utho
   Maadar-e-Maasum utho
@@ -75,7 +75,7 @@ romanLyrics: |-
   Dhundne ko baap ka sar
   Chhor ke ujra hua ghar
   Tanha su-e-Dasht chali
-  
+
   8
   Qaasim o Akbar bhi nahiṅ
   Aun bhi Jafar bhi nahiṅ
@@ -85,7 +85,7 @@ romanLyrics: |-
   Ban gai haathoṅ mein rasan
   Baap to tha qila-shikan
   Beti hai laachaar khari
-  
+
   9
   Sah ke sitamgar ka ghazab
   Bachche mere soeṅge jab
@@ -95,7 +95,7 @@ romanLyrics: |-
   Gham mein giraftaar rahuṅ
   Apni fughaaṅ kis se kahuṅ
   Aaoge kab Baaba Ali
-  
+
   10
   Bikhre haiṅ laashe ran mein
   Nikli huṅ tanha ban mein
@@ -105,7 +105,7 @@ romanLyrics: |-
   Beti ki faryad suno
   Aao kuchh imdaad karo
   Dekho ye Khaibar-shikani
-  
+
   11
   Nayyar o Aamir kiuṅ kar
   Hum se bayaaṅ ho manzar

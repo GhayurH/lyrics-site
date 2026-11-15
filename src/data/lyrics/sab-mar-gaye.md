@@ -15,7 +15,7 @@ romanLyrics: |-
   Sab mar gaye ammaaṅ
   Tha naaz mujhe jin pe wo athaarah baraadar
   Sab mar gaye ammaaṅ
-  
+
   1
   Jitne bhi Madine se mere saath gaye the
   Wo saath na aaye
@@ -23,7 +23,7 @@ romanLyrics: |-
   Sab khuṅ mein nahaaye
   Wo mere muhaafiz wo mere monis o yaawar
   Sab mar gaye ammaaṅ
-  
+
   2
   Mardoṅ mein faqat Aabid-e-muztar hai ya Baaqir
   Ye mera muqaddar
@@ -31,7 +31,7 @@ romanLyrics: |-
   Dekhe haiṅ zamiṅ par
   Kis tarah bataauṅ mera taaraaj hua ghar
   Sab mar gaye ammaaṅ
-  
+
   3
   Kitne hi makaanoṅ ke makiṅ saath mein ujre
   Ahbaab se bichhre
@@ -39,7 +39,7 @@ romanLyrics: |-
   Tukroṅ mein badan the
   Tiroṅ pe kahiṅ jism the nezoṅ pe kahiṅ sar
   Sab mar gaye ammaaṅ
-  
+
   4
   Chhe maah ke bachche ko bhi afsos na chhora
   Sar us ka bhi kaata
@@ -47,7 +47,7 @@ romanLyrics: |-
   Phatta hai kaleja
   Chehre pe mala bhaai ne khun-e-Ali Asghar
   Sab mar gaye ammaaṅ
-  
+
   5
   Zindaaṅ se Sakina ko na mil paayi rihaai
   Wo bhi nahiṅ aayi
@@ -55,7 +55,7 @@ romanLyrics: |-
   Tab qabr banaayi
   Din raat kaha karti thi bachchi meri ro kar
   Sab mar gaye ammaaṅ
-  
+
   6
   Main zinda rahi haaye mujhe maut na aayi
   Maare gaye bhaai
@@ -63,7 +63,7 @@ romanLyrics: |-
   Dafna bhi na paayi
   Chalte haiṅ mere qalb pe ye soch ke khanjar
   Sab mar gaye ammaaṅ
-  
+
   7
   Kis kis ko nishaaṅ rassi ke ammaaṅ main dikhaauṅ
   Rudaad sunaauṅ
@@ -71,7 +71,7 @@ romanLyrics: |-
   Sine se lagaauṅ
   Kis dil se kahuṅ gi mere gulshan ke gul-e-tar
   Sab mar gaye ammaaṅ
-  
+
   8
   Aasif jo parha Zainab-e-muztar ne ye nauha
   Behosh thi Sughra

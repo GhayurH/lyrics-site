@@ -12,31 +12,31 @@ aliases: ["Kufa Udaas Hogaya"]
 published: false
 romanLyrics: |-
   Kufa udaas ho gaya Maula khaamosh hai
-  
+
   1
   Surkhi rukh-e-falak pe hai Kaaba khaamosh hai
   Meraaj ki hayaat ka lehja khaamosh hai
   Unnisviṅ ki subh ka taara khaamosh hai
   Mehraab ashk baar hai ajra khaamosh hai
-  
+
   2
   Tanzim-e-kaaenaat ki surat bigar gayi
   Beaasra hayaat ki basti ujar gayi
   Chehre udaas ho gaye raunaq bichhar gayi
   Bechain zindagi ka masiha khaamosh hai
-  
+
   3
   Maula ne jo kaha tha haqiqat bayaaṅ hui
   Ahl-e-haram pe subh-e-qayaamat ayaaṅ hui
   Zainab se Karbala ki musibat ayaaṅ hui
   Dekha behan ne bhaai ka chehra khaamosh hai
-  
+
   4
   Bechain hai ghulaam ke aaqa nahiṅ rahe
   Rote haiṅ sab yatim ke Maula nahiṅ rahe
   Hasnain beqaraar haiṅ Baba nahiṅ rahe
   Ruh-e-Rasul o Fatema Zehra khaamosh hai
-  
+
   5
   Zakhmi jabiṅ Fareed jo dekhi Husain ne
   Zainab se ik nigaah uthaayi Husain ne

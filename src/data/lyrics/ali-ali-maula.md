@@ -16,48 +16,48 @@ published: false
 romanLyrics: |-
   Ali Ali maula maulana Ali
   Ali Ali maula maula maulana Ali
-  
+
   1
   Quwwat-e-Parwardigaar la fata illa Ali
   Shah-e-mardaan sher-e-Yazdaṅ
   Quwwat-e-Parwardigaar ya Ali ya Ali ya Ali
   Ali maula Ali maula Ali maula Ali maula
-  
+
   2
   Tu dil meiṅ hai basa hua tu dharkanoṅ meiṅ gunjta
   Tu ruh ka hai rehnuma tu nafs hai aasra
   Hai lab pe meri ye sada hai tu Khuda ka aaina
-  
+
   3
   Ye zindagi tere liye ye bandagi tere liye
   Ye dosti tere liye ye dushmani tere liye
   Rasul-e-haq ne sach kaha hai tu sach ka tarjuma
-  
+
   4
   Ibaadatoṅ ke dil meiṅ tu sadaaqatoṅ ke dil meiṅ tu
   Hidaayatoṅ ke dil meiṅ tu hai aayatoṅ ke dil meiṅ tu
   Shariyatoṅ ka saayabaṅ Khuda ke din ka paasbaṅ
-  
+
   5
   Tu hi Khuda ka nur hai ye kehta koh-e-Tur hai
   Jise na ye shaur hai wo haq se kosoṅ dur hai
   Hai tujh se haq ki ibtida hai tujh pe haq ki inteha
-  
+
   6
   Jahaṅ meiṅ guftagu teri samaṅ meiṅ guftagu teri
   Makaaṅ meiṅ guftagu teri azaaṅ meiṅ guftagu teri
   Tu saajidoṅ ka naaz hai na tere bin namaaz hai
-  
+
   7
   Shifa hai teri khaak meiṅ dawa hai teri khaak meiṅ
   Baqa hai teri khaak meiṅ wafa hai teri khaak meiṅ
   Hai dar pe tere ae Ali har ek nabi ki naukri
-  
+
   8
   Ye kaisa waqt aa gaya Ali pe haaye Kibriya
   Lahu hai sar se beh raha hai khuṅ meiṅ tar Ali tera
   Hai ranj tujh pe tiragi bujhaayi tu ne roshni
-  
+
   9
   Bayaan kaise ho bhala wo zakhm Bu Turaab ka
   Na taab-e-zakhm la saka zamaane se guzar gaya

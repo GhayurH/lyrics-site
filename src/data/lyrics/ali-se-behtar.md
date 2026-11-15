@@ -15,56 +15,56 @@ romanLyrics: |-
   Magar jo aql-e-salim rakhta hai jaanta hai
   Siwa Nabi ke nahiṅ hai koi Ali se behtar
   Koi nahiṅ hai koi nahiṅ
-  
+
   1
   Hunain o Badr o Uhud se puchho
   Amal ke do nim sar se puchho
   Ali ki do ungliyoṅ ki taaqat
   Hai kya ye Khaibar ke dar se puchho
   Qasam Khuda ki misl-e-Haider
-  
+
   2
   Ghadir se jab ke main ne puchha
   Hai tujh ko malum saara qissa
   Siwa Ali ke hai aur koi
   Banaya jis ko Nabi ne Maula
   Tarap ke bola ye Khum ka mimbar
-  
+
   3
   Ali ki talwaar chal rahi hai
   Nabi ka chehra damak raha hai
   Koi data hai Uhud meiṅ koi
   Nazar bacha kar sarak raha hai
   Nabi ke paas ab siwaye Haider
-  
+
   4
   Lagaye wo naara-e-Saluni
   Madina-e-ilm ka jo dar ho
   Nabi ke farmaan ke mutabiq
   Jidhar ko mur jaaye haq udhar ho
   Siwaye Haider ke aisa rehbar
-  
+
   5
   Chali jo Bint-e-Asad ko barh kar
   Deewar-e-Kaaba ye boli hans kar
   Isi tarah aur isi jagah par
   Khari thi ek din ek aur maadar
   Magar tumhare sharaf se barh kar
-  
+
   6
   Patakh rahi haiṅ sar apna maujeiṅ
   Kataye baazu para hai saqqa
   Ajeeb aalam hai bekasi ka
   Husain ran meiṅ khare haiṅ tanha
   Alam alamdaar aur lashkar
-  
+
   7
   Sinaaṅ kaleje pe khaaye beta
   Pyasa karwat badal raha hai
   Husain hasrat se dekhte haiṅ
   Jawan ka dam nikal raha hai
   Sahara de de zara jo barh kar
-  
+
   8
   Tamaam bhai bhatije bete
   Pare haiṅ maqtal meiṅ sar kataye

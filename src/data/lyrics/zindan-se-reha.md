@@ -19,55 +19,55 @@ romanLyrics: |-
   Kya reh gaya zindan mein ke har qaidi hai rota
   Haa apni sakina se juda hote hai sadaat
   Allah mere allah
-  
+
   2
   Ay shamiyon ab chayn se aaraam se sona
   Be-chain karega na kisi bachi ka rona
   Jo shab ko buka karti thi royegi kabhi na
   Allah mere allah
-  
+
   3
   Zainab ne kaha qaid mein hai mera khazana
   Ay aurton jab shaam dhale is taraf aana
   Turbat pe sakina ki bhi aaye janana
   Allah mere allah
-  
+
   4
   Sajjad ne zevar jo aseeri ke utaare
   Sookhe hue sab zakhm hare hogaye saare
   Sar dekh ke baba ka tadap kar wo pukare
   Allah mere allah
-  
+
   5
   Zainab ne rida pa ke kaha shukre khuda hai
   Abbas mere bhai magar sadma bada hai
   Sar nange hamein saara jahan dekh chuka hai
   Allah mere allah
-  
+
   6
   Kulsoom jo ek lafz abhi tak na thi boli
   Jis waqt rasan baazu se sajjad ne kholi
   Kehne lagi kya jaaye watan khaali hai jholi
   Allah mere allah
-  
+
   7
   Ye khaafila jab karbobala laut ke aaya
   Dekha ke pada dhoop mein hai bhai ka laasha
   Zainab ne sare khakhe bala khud ko giraya
   Allah mere allah
-  
+
   8
   Kya shaan thi sadaat ki jab ghar se chale thay
   Mehmil thi amaari bhi thi mashkeeze bhare thay
   Abbas-e-alamdar alam khole huwe thay
   Allah mere allah
-  
+
   9
   Galiyon mein madine ki ajab shor bapa hai
   Sughra se abhi aake kisi ne ye kaha hai
   Aa sughra tera baba watan laut raha hai
   Allah mere allah
-  
+
   10
   Roze pe muhamad ke jo saydania pahunchi
   Ay sarwar o rehan nigaahe bhi jhuki thi

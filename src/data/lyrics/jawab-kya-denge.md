@@ -20,42 +20,42 @@ romanLyrics: |-
   Yahaaṅ pe raqs o ghinahai wahaaṅ pe ashk-e-azaa
   Ye behayaai ki daldal wo nusratoṅ ki fazaa
   Hum apni nasl ko aakhir nisaab kya denge
-  
+
   2
   Na jaane kab se hai masruf ghibatoṅ mein lab
   Namaaz o roza o hajj se nahiṅ koi matlab
   Zakaat o khums ke hum ho gayi hai mujrim sab
   Bula rahe haiṅ Imam-e-Zaman ko hum yaa Rab
   Amal ki ruh se khaali habaab kya denge
-  
+
   3
   Ghazab Khuda wo kaisi khushi ki mehfil thi
   Ke maaoṅ behnoṅ ki bepardagi wahaaṅ dekhi
   Abhi hadis-e-Kisaa thi wahaaṅ kisi ne pari
   Phir us ke baad wahiṅ par hai raqs o mausiqi
   Ghinaa ki lai pe ye chang o rabaab kya denge
-  
+
   4
   Bahut bara hai ye karb-e-Imam-e-arsh-waqaar
   Ali ki betiyaaṅ balwe mein itrat-e-athaar
   Nazar se jaata nahiṅ un ke Shaam ka baazaar
   Wo hai zahur ko tayyaar hum nahiṅ tayyaar
   Shahaadatoṅ ke bina inqilaab kya denge
-  
+
   5
   Gharoṅ mein hoṅge jo iblisiyat ke rang o nishaaṅ
   Na paida hoṅge wahaaṅ naasiraan-e-Shaah-e-Zaman
   Kareṅge majliseṅ bepardagi bhi hogi yahaaṅ
   Azaa ke farsh pe aayegi jab Husain ki maaṅ
   Subut-e-ishq-e-Risaalat-maab kya denge
-  
+
   6
   Ab aur kitni jahaalat ki pairawi hogi
   Chamak nigaah mein aur dil mein tiragi hogi
   Iza fakaul mein kirdaar mein kami hogi
   Wo jin ki fikr mein dimak lagi hui hogi
   Hum un ke haath mein din ki kitaab kya denge
-  
+
   7
   Agar kaheṅge wo shama-e-wafa jalaani hai
   Jo zindagi ki kamaai hai wo lutaani hai

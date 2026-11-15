@@ -17,49 +17,49 @@ romanLyrics: |-
   Jis ghari pahuncha tha fauj-e-ashqiya ke darmiyaaṅ
   Har taraf se aa rahi thi bas sadaa-e-alamaaṅ
   Naara-e-Abbas tha aur thi farishtoṅ ki zabaaṅ
-  
+
   1
   Is alam ke saath hai chhota sa mashkiza bandha
   Baazu-e-Abbas par jaise ho taawiz-e-wafa
   Na alam is se juda hai na alam se ye juda
   Is alam pe saaya afgan hai dua-e-Sayyida
-  
+
   2
   Tha yehi parcham Ali ke haath mein har jang mein
   Karbala pahuncha dua-e-Sayyida ke rang mein
   Hai isi parcham ko gaara tha Ali ne sang mein
   Daurta hai khun is ko dekh kar rang rang mein
-  
+
   3
   Haa isi parcham se aaya Karbala mein inqilaab
   Le ke is ko jab gaya darya pe Ibn-e-Bu Turaab
   Chum li maujoṅ ne barh kar aspe Ghazi ki rakaab
   Is ke panje ki chamak se roshni le aaftaab
-  
+
   4
   Jab talak uncha raha Karbala mein Ghazi ka alam
   Aa sake na khaima-e-Sarwar mein aada ke qadam
   Ye alam thanda hua rone lage Shaah-e-umam
   Ro ke kehte the yehi tha mere lashkar ka bharam
-  
+
   5
   Ye alam dhaaras tha Zainab aur Sakina ke liye
   Dhup mein ek chhaaoṅ tha ye Shaah-e-waala ke liye
   Is ka girna maut se barh kar tha Aaqa ke liye
   Maut ka paigham ye parcham tha aada ke liye
-  
+
   6
   Aaj har ghar par alam hai mere Ghazi ka saja
   Hazrat-e-Zainab ki puri ho gayi aakhir dua
   Marhaba Abbas-e-Ghazi marhaba sad marhaba
   Aasmaaṅ to jhuk gaya tera alam uncha raha
-  
+
   7
   Is alam ki shaan to us roz dekhega jahaaṅ
   Aayega jis roz is parcham ka waaris baarahwaaṅ
   Kufr ki basti pe tuteṅ gi hazaaroṅ bijliyaaṅ
   Mominoṅ ke sar pe hoga is alam ka saaibaaṅ
-  
+
   8
   Ye alam ab tak Husaini fauj ki hai yaadgaar
   Hashr tak qaaim rahega aitibaar o ikhtiyaar

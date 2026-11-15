@@ -16,31 +16,31 @@ published: false
 romanLyrics: |-
   Ali ke shahr-e-Kufa mein samaṅ Zainab pe kya aaya
   Kuja burqa-e-shariat ka rida ka bhi nahiṅ saaya
-  
+
   1
   Janaza jis ki maadar ka utha tha parda-e-shab mein
   Zamana us ki beti ko sar-e-baazaar le aaya
-  
+
   2
   Kaha ro kar Sakina ne Chacha Muslim duhayi hai
   Wo dekho phir mujhe zaalim tamaache maarne aaya
-  
+
   3
   Daraazi manziloṅ ki ret ke tapte hue raste
   Anokha saarbaṅ hai beriyaṅ pehne hue aaya
-  
+
   4
   Saje haiṅ baam o dar Kufa mein aamad hai asiroṅ ki
   Tamasha Aal-e-Ahmad ka Musalmaṅ dekhne aaya
-  
+
   5
   Wo khutba tha ke haibat chha gayi darbar sare par
   Ali ki sher dil beti mein Haider sa jalaal aaya
-  
+
   6
   Kaha Sajjad se Zainab ne ro ke kuchh to batlao
   Najaf se le ke chadar kiuṅ mera Baba nahiṅ aaya
-  
+
   7
   Jahaṅ Baba ki shaahi thi usi darbar mein Zainab
   Nisaar aayi barehna sar ye kaisa inqilaab aaya

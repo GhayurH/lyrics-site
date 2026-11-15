@@ -13,49 +13,49 @@ published: false
 romanLyrics: |-
   Pehlu bhi shikasta hai, turbat bhi shikasta hai
   Kya haal yeh ummat ne, Zehra ka banaaya hai
-  
+
   1
   Khaatun koi gham se yuṅ chur nahiṅ dekhi,
   Aisi koi duniya mein, mastur nahiṅ dekhi,
   Athaara baras mein hi, lagti jo zaifa hai
   Pehlu bhi shikasta hai, turbat bhi shikasta hai
-  
+
   2
   Darbaar mein zaalim ne, ki aisi paziraai,
   Kis tarah se tu Bibi, phir laut ke ghar aayi,
   Baaloṅ ki safedi ne, sab haal sunaaya hai
   Pehlu bhi shikasta hai, turbat bhi shikasta hai
-  
+
   3
   Tu roti rahi ghar mein, Haider se bhi chhup chhup ke,
   Ismat ki tarah dukh bhi, parde mein rahe tere,
   Kuchh dard tere Bibi, bas jaanti Fizza hai
   Pehlu bhi shikasta hai, turbat bhi shikasta hai
-  
+
   4
   Do aise janaaze haiṅ, taariki mein jo uthe,
   Bas ghar ke hi logoṅ ne, donoṅ ko diye kaandhe,
   Ik Fatima Zehra haiṅ, ik baali Sakina hai
   Pehlu bhi shikasta hai, turbat bhi shikasta hai
-  
+
   5
   Marham tere zakhmoṅ ka, Bibi na mila ab tak,
   Aulaad-e-Umayya ki, baaqi hai jafa ab tak,
   Rone pe bhi pehra tha, turbat pe bhi pehra hai
   Pehlu bhi shikasta hai, turbat bhi shikasta hai
-  
+
   6
   Mismaar tera rauza, ummat ne kiya jab se,
   Baba tera rehta hai, turbat pe teri tab se,
   Kab gumbad-e-Khizra mein, baba tera rehta hai
   Pehlu bhi shikasta hai, turbat bhi shikasta hai
-  
+
   7
   Mehdi se koi puchhe, kya us pe guzarti hai,
   Aawaaz Baqayya se, jab rone ki aati hai,
   Aankhoṅ se lahu ro kar, woh bhi yehi kehta hai
   Pehlu bhi shikasta hai, turbat bhi shikasta hai
-  
+
   8
   Tasvir haqiqat ki, khwaaboṅ ko bana dije,
   Ae Bibi Takallum ko, taabir dekha dije,

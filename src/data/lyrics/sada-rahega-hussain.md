@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Sada rahega Husain ka gham
-  
+
   1
   Ye shor-e-girya ye shor-e-maatam
   Suni hui daastaan-e-paiham
   Ek aah ban kar ubhar rahi hai
   Wo Karbala ki sada-e-purgham
-  
+
   2
   Uthe jo zulm o sitam ke jhoṅke
   Sawaal ye tha ke kaun roke
   Husain ibn-e-Ali ke dar par
   Jami hui thi nigaah-e-aalam
-  
+
   3
   Barha jo had se ghurur-e-baatil
   Tarap utha phir Husain ka dil
   Chala haram ko watan se le kar
   Rida-e-Zainab bana ke parcham
-  
+
   4
   Usul-e-fikr o amal ko mora
   Yazidiyat ke fasuh ko tora
   Har ek diwaar-e-zulm dha kar
   Bana gaya din ka qasr-e-mohkam
-  
+
   5
   Jafaaoṅ ka dil hila ke utha
   Jo qabr-e-Asghar bana ke utha
   Jawaaṅ ki mayyat pe muskura kar
   Badal gaya fikr-e-nasl-e-Aadam
-  
+
   6
   Sambhal ke toke hameṅ zamaana
   Guzar gaya daur-e-taaziyaana
   Baghaur sun leṅ jahaan waale
   Ab is aalam ke haiṅ paasbaan ham
-  
+
   7
   Na ruk saki hai na ruk sake gi
   Aza-e-mazlum kya ruke gi

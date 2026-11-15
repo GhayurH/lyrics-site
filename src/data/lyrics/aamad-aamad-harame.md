@@ -11,7 +11,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Aamad aamad haram-e-Shah ki darbar mein hai
-  
+
   Subh se jashn ka ghul Shaam ke bazaar mein hai
   Shor-e-faryad o buka Itrat-e-Athar mein hai
 

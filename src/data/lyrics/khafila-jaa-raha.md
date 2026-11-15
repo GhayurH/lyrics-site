@@ -25,55 +25,55 @@ romanLyrics: |-
   Aun o Jafar the Akbar the Abbas the
   Jaa rahi huṅ Madine to koi nahiṅ
   Ab musibat faqat hai behan ke liye
-  
+
   2
   Koi chaadar na thi kaisi bedaad thi
   Haath hote hue bhi na aazaad thi
   Kitni majbur kar di gayi thi behan
   Apne bhai ke dafn o kafan ke liye
-  
+
   3
   Apni barbaadiyoṅ ko gawaara kiya
   Khuṅ meiṅ dube guloṅ ka nazaara kiya
   De diya Fatema ka bhara gulsitaaṅ
   Karbala tere ujde chaman ke liye
-  
+
   4
   Qabr-e-Sarwar pe jaa ke behan ne kaha
   Kya bataauṅ ke bhaiya sitam kya hua
   Kufa o Shaam meiṅ huṅ phiri berida
   Aap mohtaaj yaaṅ the kafan ke liye
-  
+
   5
   Qabr-e-Qaasim se hai yuṅ mukhaatib phuphi
   Teri shaadi kuch is tarah ban meiṅ hui
   Koi sehre ka bhi phul baaqi nahiṅ
   Warna le jaati qabr-e-Hasan ke liye
-  
+
   6
   Bain karti thi ye baanu-e-Shaah-e-diṅ
   Main kahiṅ reh gayi mera Asghar kahiṅ
   God khaali hai meri Sakina nahiṅ
   Mar gayi qaid meiṅ wo watan ke liye
-  
+
   7
   Chhe mahine ki jaaṅ Asghar-e-bezubaaṅ
   Ho gaye Karbala ki zamiṅ meiṅ nehaaṅ
   Sune jangal meiṅ ab jaa ke dhunduṅ kahaaṅ
   Maaṅ tarapti hai us gulbadan ke liye
-  
+
   8
   Zainab-e-dil-haziṅ seh ke ranj o mehan
   Jab Madine meiṅ pahuṅche gi ye khasta tan
   Umr bhar haath malti rahe gi behan
   Bhai Abbas se saf shikan ke liye
-  
+
   9
   Qasr-e-zaalim kabhi qaid khaana kabhi
   Nok-e-naiza kabhi taaziyaana kabhi
   Kaun si thi aziyyat jo di na gayi
   Har jafa thi asir-e-mehan ke liye
-  
+
   10
   Naala-e-gham sehelta hai charkh-e-kohan
   Qabr-e-Qaasim pe aati hai bewa dulhan

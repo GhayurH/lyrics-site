@@ -14,57 +14,57 @@ romanLyrics: |-
   Sab ke lab par siskiyaaṅ haiṅ Karbala se shaam tak
   Baazuoṅ mein rassiyaaṅ hai Karbala se shaam tak
   Berida Sayyedaaniyaaṅ hai Karbala se shaam tak
-  
+
   1
   Asghar o Abbas o Akbar yaad aate jab yahaaṅ
   Qaafila mein ro pari hai chikh kar sab Bibiyaaṅ
   Hichkiyaaṅ hi hichkiyaaṅ hai Karbala se shaam tak
-  
+
   2
   Aabid-e-bimaar ki gardan mein hai tauq-e-garaaṅ
   Aur us par taaziyaanoṅ se hai zakhmi naatawaaṅ
   Paaoṅ mein bhi beriyaaṅ hai Karbala se shaam tak
-  
+
   3
   Paaoṅ mein chhaale pare haiṅ chur zakhmoṅ se badan
   Bekas o mazlum Aabid besahaara bewatan
   Har qadam dushwaariyaaṅ haiṅ Karbala se shaam tak
-  
+
   4
   Ek bhi apna nahiṅ koi yahaaṅ puchhe jo haal
   Zaalimoṅ ke khauf se hai tashna lab bachche nidhaal
   Pyaas hai aur siskiyaaṅ haiṅ Karbala se shaam tak
-  
+
   5
   Zulm Ahmad ke gharaane par hue haiṅ beshumaar
   Chaadareṅ sab ki chhini haiṅ kya Ruqayya kya Rabaab
   Sar jhukaaye Bibiyaaṅ haiṅ Karbala se shaam tak
-  
+
   6
   Bekasoṅ ka haal koi puchhne waala nahiṅ
   Ab koi parda nahiṅ hai ab koi saaya nahiṅ
   Sar khule Sayyedaaniyaaṅ haiṅ Karbala se shaam tak
-  
+
   7
   Bachche bachche ne uthaae haiṅ yahaaṅ ranj o alam
   Kaun hai kis ne kiya hai in ghariboṅ par sitam
   Har taraf khaamoshiyaaṅ haiṅ Karbala se shaam tak
-  
+
   8
   Nargha-e-aada mein itrat hai Shah-e-mazlum ki
   Jis taraf uthti hai nazreṅ Zainab o Kulsum ki
   Maut ki parchhaaiyaaṅ haiṅ Karbala se shaam tak
-  
+
   9
   Qaafile ki sarparasti kar rahi hai gham gusaar
   Baad mein Abbas ke Zainab bani hai zimmedaar
   Ab ye zimmedaariyaaṅ haiṅ Karbala se shaam tak
-  
+
   10
   Taaziyaanoṅ ki sadaaeṅ gunjti haiṅ dam ba dam
   Zindagi ki saaṅs le sakte nahiṅ ahl-e-haram
   Kis qadar paabandiyaaṅ haiṅ Karbala se shaam tak
-  
+
   11
   Kis tarah qirtaas pe likhega Nazmi ka qalam
   Bekasi mein tashna lab jaage hue haiṅ ahl-e-haram

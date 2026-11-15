@@ -13,23 +13,23 @@ published: false
 romanLyrics: |-
   Aaj bhi sab se numayaṅ hai alam Abbas ka
   Dekh lo dunya pe chhaya hai alam Abbas ka
-  
+
   1
   Log miloṅ dur se pehchan leṅ ghar ko mere
   Is liye ghar pe sajaya hai alam Abbas ka
-  
+
   2
   Yuṅ laga jaise utha li kaainat-e-Kibriya
   Haath mein jab bhi uthaya hai alam Abbas ka
-  
+
   3
   Koi parcham bhi hamari aaṅkh ko bhata nahiṅ
   Zehn mein apne samaya hai alam Abbas ka
-  
+
   4
   Khwab dekha hai yeh main ne Rab isse taabir de
   Chaand par ja ke lagaya hai alam Abbas ka
-  
+
   5
   Yeh jo Sehwan mein laga hai Laal ke darbar par
   Tair kar paani pe aaya hai alam Abbas ka

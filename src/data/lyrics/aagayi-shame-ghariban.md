@@ -18,27 +18,27 @@ romanLyrics: |-
   Sura-e-Hamd ki tamhid jise thame hai
   Ye wo daaman hai ke tauhid jise thame hai
   Jal raha hai wohi daaman kahaṅ jaye Zainab
-  
+
   2
   Aur hi rang tha jangal mein jab aayi thi yahaṅ
   Phul hi phul the aanchal mein jab aayi thi yahaṅ
   Haye ab khaak badawaṅ kahaṅ jaye Zainab
-  
+
   3
   Sab se Zainab ko jo pyara tha wo bhai na bacha
   Reh gayi Aun o Muhammad ko bhi wo kar ke fida
   Karne is dard ka darmaṅ kahaṅ jaye Zainab
-  
+
   4
   Maangti hai wo qaza par na qaza aati hai
   Gar Sakina ko bachaye to rida jaati hai
   Aise aalam mein pareshan kahaṅ jaye Zainab
-  
+
   5
   Khaak par girta hai koi koi ghash khaata hai
   Koi bachcha kahiṅ sholoṅ mein ghira jata hai
   Ek hai sab ki nigehbaan kahaṅ jaye Zainab
-  
+
   6
   Haye ye shaam-e-gharibaṅ kahaṅ le aayi Naved
   Shaah ka sar rota hai Zainab ki hai tanhaai Naved

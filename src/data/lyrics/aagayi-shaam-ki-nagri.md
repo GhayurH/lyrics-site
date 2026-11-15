@@ -17,31 +17,31 @@ romanLyrics: |-
   1
   Is liye zaalimoṅ ne aur bhi pathar maare
   Jaante the ke hai Abbas ki khwahar Zainab
-  
+
   2
   Karwateiṅ lene lagi laasha Husain ibn-e-Ali
   Bhai ki laash pe aayi jo khule sar Zainab
-  
+
   3
   Band ho jati thi khud naize pe chashm-e-Abbas
   Jab nazar aati thi naaqe pe khule sar Zainab
-  
+
   4
   Yaad aa jaati thi us waqt usay nana ki
   Naize pe dekhti thi jab sar-e-Akbar Zainab
-  
+
   5
   Tujhko chadar na di kam zarf musalmanoṅ ne
   Gard ne daal di sar par tere chadar Zainab
-  
+
   6
   Thi sar-e-shaam-e-gharibaṅ wo misaal-e-Zehra
   Ban gayi Shaam ke darbar mein Haider Zainab
-  
+
   7
   Haal ye tha ke na pehchana usay shauhar ne
   Shaam ki qaid se aayi jo palat kar Zainab
-  
+
   8
   Ro diya Kufe ke darbar mein Majid Mukhtar
   Sar-e-darbar sitamgar thi khule sar Zainab

@@ -17,43 +17,43 @@ romanLyrics: |-
   Kaun waaris hai tera kaun mera waaris hai
   Aao ae ahl-e-jahaaṅ hum tumheiṅ samjhate haiṅ
   Ali Waaris Ali Waaris
-  
+
   1
   Naara darvesh ka har ghari har jagah
   Ali Waaris Ali Waaris
   Main kahuṅ tum kaho jo Nabi ne kaha
   Ali Waaris Ali Waaris
-  
+
   2
   Koi mushkil jab bhi aayi lab pe thi Naad-e-Ali
   Raah mein aayi rukawat barh gayi jab bekali
   Ek sahara mil gaya maine dil se keh diya
-  
+
   3
   Mustafa bhi mil gaye aur mil gaya us ko Khuda
   Ilm jis ko ho gaya ke hai Ali mushkil-kusha
   Tal gayi har ek bala jis ne mushkil mein kaha
-  
+
   4
   Har namaz-e-ishq apni naara-e-Haider mein hai
   Ye jo tughra naam-e-Haider ka hamare ghar mein hai
   Ishq ne samjha diya is ka matlab ye hua
-  
+
   5
   Deti hai tareekh hum ko ye gawahi dam pe dam
   Jang-e-Khaibar mein Nabi ne de ke Haider ko alam
   Rakh ke maidan mein qadam apne lashkar se kaha
-  
+
   6
   Hai hamari mehfiloṅ ki aabru zikr-e-Ali
   Ye dua-e-Sayyeda se manzilat hum ko mili
   Aakhirat ki fikr kya fikr ho dunya ki kya
-  
+
   7
   Ho wali Ajmer koi Bu Ali ho ya Nizam
   Ho koi Shehbaz ya ho Rabia Basri ka naam
   Sab ka maslak ek tha sab ka naara ek tha
-  
+
   8
   Hum hote nahi pareshan Ali Waaris hai
   Mushkileiṅ hoti haiṅ aasaan Ali Waaris hai
@@ -66,32 +66,32 @@ romanLyrics: |-
   Dushman tera kuchh na kar payega
   Saaya-fagan tujh pe hai ye dua
   Fath tera naseeb aur teri baqa
-  
+
   9
   Mashwara hai ye hamara aaj har insaan ko
   Dushmanoṅ se gar bachana chaho Pakistan ko
   Hai nizam-e-Mustafa har taraf ho ye sada
-  
+
   10
   Deen bola Karbala mein aasra ab kaun hai
   Hai bhanwar mein ye safina naakhuda ab kaun hai
   Deen ki sun kar sada keh uthi Karbobala
-  
+
   11
   Mashk de kar ye Sakina ne kaha Abbas se
   Khushk hai mera gala main mar na jaauṅ pyas se
   Dam karo Naad-e-Ali paani le aao ae chacha
-  
+
   12
   Aakhri rukhsat ko khaime mein junhi aaye Imam
   Dekh ke bhai ka chehra tha ye Zainab ka kalaam
   Gham na khao tum mera jao bhai alvida
-  
+
   13
   Berida Sayyedaniyoṅ se Shimr ne jab ye kaha
   Ab hifazat ko tumhaari kaun aayega bhala
   Bekasoṅ ko dekh kar ro ke Zainab ne kaha
-  
+
   14
   Har ghari ishq-e-Ali mein lab-kusha Farhan hai
   Aur Mazhar Abidi ka bas yehi imaan hai

@@ -13,15 +13,15 @@ published: false
 romanLyrics: |-
   Shabbir se sikhe koi Islam bachaana
   Aata hai jise neze pe Quraan sunaana
-  
+
   1
   Shabbir ne Allah ki har baat hai maani
   Allah ne Shabbir ki har baat ko maana
-  
+
   2
   Tujh ko na diya rone jo kal ahl-e-sitam ne
   Zainab tere bhaai ko ye rota hai zamaana
-  
+
   3
   Shabbir ke sine se lahu ho gaya jaari
   Tasvir Sakina ki kahaaṅ dil mein aa gayi
@@ -29,11 +29,11 @@ romanLyrics: |-
   Sine pe sone waali jo maqtal mein aa gayi
   Yaad aata hai wo manzar Shabbir ka maqtal mein
   Tiroṅ bhare sine pe Sakina ko sulaana
-  
+
   4
   Ye soch ke Asghar ne liya tir gale par
   Tha mohsin-e-Islam ko tiroṅ se bachaana
-  
+
   5
   Ham nauha kunaaṅ aaye idhar farsh-e-aza par
   Purse ke liye Faatima Zehra chali aayi

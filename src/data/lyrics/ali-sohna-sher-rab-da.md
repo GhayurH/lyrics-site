@@ -17,13 +17,13 @@ romanLyrics: |-
   Agar Ya Ali Madad kehna ghalat hai
   To puchho mere Muhammad se
   Khaibar mein bulaya Kiuṅ tha
-  
+
   1
   Butkhane nu Kaaba banraya
   Ghar Rab da hai jis ne sajaya
   Jihne Kaabe nu Kaaba banraya
   Oh Ali sohna sher Rab da
-  
+
   2
   Ain Ali Ali karna nahi khera
   Har mazhab andar aakhan Ali Ali
@@ -32,13 +32,13 @@ romanLyrics: |-
   Dunya te har paase Ali Ali hoyi ae
   Noor di subah aj Kaabe vich hoyi ae
   Jihne Kaabe chon sajda karaya
-  
+
   3
   Ali ki maaṅ jo na aati haram sajane ko
   Tere haram ki tabiyat bhi theek ho jaati
   Agar na hota Ali ka aqd jo Zahra se
   Batool Rab ki tarah lasharik ho jaati
-  
+
   4
   Dindiyan mubarakaan horaan thalle aa ke
   Vehre Imran vich jashan mana ke

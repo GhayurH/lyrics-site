@@ -12,37 +12,37 @@ aliases: ["Koun O Makan May"]
 published: false
 romanLyrics: |-
   Kaun o makaaṅ meiṅ barpa maatam hai Fatema ka
-  
+
   1
   Maghmum hai fazaaeṅ rota hai zarra zarra
   Bechain haiṅ hawaaeṅ aur kar rahi hai girya
   Har simt hai udaasi har simt hai andhera
   Chashm-e-falak hai purnam viraaṅ hua Madina
-  
+
   2
   Baad-e-Rasul-e-Akram kya waqt aa para tha
   Har lamha the masaaib dil tukre ho raha tha
   Athaara saal ka sin aur haath meiṅ asa tha
   In aafatoṅ meiṅ jina Zehra ka hausla tha
-  
+
   3
   Sehti rahi musibat paiham Nabi ki beti
   Karti thi sabr har dam mazlum shaahzaadi
   Pehlu shikasta Bibi khud pisti thi chakki
   Dunya se jaa rahi hai khidmat meiṅ Mustafa ki
-  
+
   4
   Ghurbat ka hai zamaana kaisi ye bekasi hai
   Maula-e-do jahaaṅ par uftaad ye nayi hai
   Mushkil kusha pe kaisi mushkil ki ye ghari hai
   Tanhaai Murtaza ki aansu baha rahi hai
-  
+
   5
   Dekha janaaza maaṅ ka roye Husain muztar
   Aayi sadaa-e-Zehra ye maaṅ nisaar tujh par
   Rona tera gawaara kaise karegi maadar
   Sine se maiṅ laga luṅ aa jaa Husain dilbar
-  
+
   6
   Zehra ka to janaaza taarik shab meiṅ utha
   Yaad aate haiṅ Rasheed ab baazaar-e-Shaam o Kufa

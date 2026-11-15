@@ -12,7 +12,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Ashoor ka suraj dekhega
-  
+
   1
   Abbas-e-Dilawar maqtal mein
   Be izn-e-wigha jab aayega
@@ -20,7 +20,7 @@ romanLyrics: |-
   Aur darya se takrayega
   Maqtal ki fazaoṅ ko phir se
   Ik baar Ali yaad aayega
-  
+
   2
   Ashoor ka suraj dekhega
   Shaane pe sajaye mashkiza
@@ -28,7 +28,7 @@ romanLyrics: |-
   Bas ek alam aur ik naiza
   Jab ghaat ka pehra tutega
   Dil zaalim ka ghabrayega
-  
+
   3
   Saahil ki hawa ki thandak mein
   Ghore ka badan jab haanpega
@@ -36,7 +36,7 @@ romanLyrics: |-
   Jab darya thar thar kaanpega
   Jab abr ki surat darya pe
   Ik tashna dahan chhaa jayega
-  
+
   4
   Jab maujeṅ behte darya ki
   Uth uth ke rakaabeṅ chumeṅ gi
@@ -44,7 +44,7 @@ romanLyrics: |-
   Khaimoṅ ki tamaaweṅ chumeṅ gi
   Jab aab-e-rawaaṅ ke sine pe
   Ghazi ka alam lehrayega
-  
+
   5
   Pani mein girega mashkiza
   Jab kaatne wale haathoṅ se
@@ -52,7 +52,7 @@ romanLyrics: |-
   Na hatne wale haathoṅ se
   Jab fart-e-nidaamat se darya
   Mashkize mein aa jaaeṅ ge
-  
+
   6
   Gham dil mein sambhaale bachchoṅ ke
   Haathoṅ ke larazte kuzoṅ ka
@@ -60,7 +60,7 @@ romanLyrics: |-
   Khaimoṅ ki taraf sardaar-e-wafa
   Be tegh jari ke sine pe
   Har samt se hamla aayega
-  
+
   7
   Jab gurz lagega chehre pe
   Jab shaane gireṅ ge kat kat kar
@@ -68,7 +68,7 @@ romanLyrics: |-
   Jab laash bahegi matti par
   Jab mashk chhidegi tiroṅ se
   Dil saqqa ka phat jaayega
-  
+
   8
   Jab Ghazi kahega Maula se
   Ik baar hamiyat hai aaqa
@@ -76,7 +76,7 @@ romanLyrics: |-
   Bas itni wasiyat hai aaqa
   Gar laash gayi khaimoṅ ki taraf
   Sar Zainab ka khul jaayega
-  
+
   9
   Jab Maula tanha lauteṅ ge
   Aankhoṅ mein lahu ke ashk liye
@@ -84,7 +84,7 @@ romanLyrics: |-
   Tiroṅ se chhidi ik mashk liye
   Jab kuze gireṅ ge haathoṅ se
   Kulsum ko ghash aa jaayega
-  
+
   10
   Maasum Sakina puchhegi
   Hai mashk o alam pe kis ka lahu
@@ -92,7 +92,7 @@ romanLyrics: |-
   Kiuṅ laaye nahiṅ pani ammu
   Ye sun ke ammaaṅ Fizza ki
   Aankhoṅ mein lahu aa jaayega
-  
+
   11
   Dil apna dharakta hai Mazhar
   Naqvi jo ishq-e-Karbal mein

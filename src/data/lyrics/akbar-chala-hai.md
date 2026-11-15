@@ -13,32 +13,32 @@ reciter: "Anj. Masoomeen"
 romanLyrics: |-
   Akbar chala hai marne ko
   Koi barh ke us ko rok lo
-  
+
   1
   Zainab ne us ko paala hai
   Laila ka chaand nikla hai
   Athaarah saal wale ko
-  
+
   2
   Bhaiya nazar na us ko lage
   Shaadi ho us ki phule phale
   Armaan pure hone do
-  
+
   3
   Sadqa utaar luṅ us ka
   De waqt mujh ko mere Khuda
   Ruk jae us ko itna kahuṅ
-  
+
   4
   Shabbir ka hai nur-e-nazar
   Zinda haiṅ khwahisheṅ maadar
   Zainab ki aarzu hai wo
-  
+
   5
   Maaṅ ghamzada ye kehti hai
   Zainab duhaai deti hai
   Lab apne koi to kholo
-  
+
   6
   Laila ke dil ki hai dharkan
   Iqbal ke haiṅ lab pe sukhan
