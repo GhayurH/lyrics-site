@@ -5,38 +5,39 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zere qadam hai qabr ki manzil
-  Aagay hashr ka maidan hai
-  Zeest ke lehro soch ke badna
-  Haath mein kiska daaman hai
+  Zer-e-qadam hai qabr ki manzil
+  Aage hashr ka maidaaṅ hai
+  Zist ke lehro soch ke barhna
+  Haath meiṅ kis ka daaman hai
 
   1
-  Kehte thay ansare shahe deen aaj hai din qurbani ka
-  Jisne lagadi jaan ki baazi haath usi ke maidan hai
+  Kehte the ansaar-e-Shah-e-diṅ aaj hai din qurbaani ka
+  Jis ne laga di jaan ki baazi haath usi ke maidaaṅ hai
 
   2
-  Sirf gala bache ka nahi hai tera nishana ay zaalim
-  Teer chalane wale sunle teer ki zad par quran hai
+  Sirf gala bachche ka nahiṅ hai tera nishaana ae zaalim
+  Tir chalaane waale sun le tir ki zad pe Quraaṅ hai
 
   3
-  Shesh mahe ki qabr bana kar aankh mein aansu aa hi gaye
-  Zabt ki koi had hoti hai insan aakhir insan hai
+  Shash maahe ki qabr bana kar aankh meiṅ aansu aa hi gaye
+  Zabt ki koi had hoti hai insaaṅ aakhir insaaṅ hai
 
   4
-  Kaamp raha hai uska kaleja teer hai jiski chutki mein
-  Honton par hai uske tabassum jiske galay mein paika hai
+  Kaanp raha hai us ka kaleja tir hai jis ki chutki meiṅ
+  Hontoṅ par hai us ke tabassum jis ke gale meiṅ paika hai
 
   5
-  Kehti thi bano ay mere asghar tu jo nahi kya chain aaye
-  Jhoola khaali godi ujdi ghar soona dil veeran hai
+  Kehti thi Bano ae mere Asghar tu jo nahiṅ kya chain aaye
+  Jhula khaali godi ujri ghar suna dil viraaṅ hai
 
   6
-  Aah ye majboori ka aalam uff ye aseeri ye ghurbat
-  Sar pe rida khwahar ke nahi hai laashe baradar uryan hai
+  Aah ye majburi ka aalam uf ye asiri ye ghurbat
+  Sar pe rida khwaahar ke nahiṅ hai laash-e-baraadar uryaaṅ hai
 # source_id: nohayonline:23e55fde6b46ab693e27
 # source_url: https://www.nohayonline.com/details_content.php?id=502
 # raw_sha256: a7ccce3625493e0d6fa7de74043c1376c6b1e6f89cdaf5548b780633ef3598ef

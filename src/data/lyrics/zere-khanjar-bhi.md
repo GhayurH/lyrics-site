@@ -6,40 +6,41 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
+reciter: "Tabligh-e-Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zere khanjar bhi sajda kiya kaun hai
-  Juz tere ay shahe karbala kaun hai
+  Zer-e-khanjar bhi sajda kiya kaun hai
+  Juz tere ae Shah-e-Karbala kaun hai
 
   1
-  Kashtiye deen se takrake mauje bala
-  Fikr mein pad gayi na khuda kaun hai
+  Kashti-e-diṅ se takra ke mauj-e-bala
+  Fikr meiṅ par gayi naakhuda kaun hai
 
   2
-  Wo na manzil pe pahunche jo poocha kiye
-  Jisne chode hai ye naqshe pa kaun hai
+  Wo na manzil pe pahunche jo puchha kiye
+  Jis ne chhore hai ye naqsh-e-paa kaun hai
 
   3
-  Gardishe waqt kya tu nahi jaanti
-  Hum ghaeerbon ka mushkil kusha kaun hai
+  Gardish-e-waqt kya tu nahiṅ jaanti
+  Ham ghariboṅ ka mushkil kusha kaun hai
 
   4
-  Kiska kirdaar shabbir ko mil gaya
-  Ye pasay pardaye karbala kaun hai
+  Kis ka kirdaar Shabbir ko mil gaya
+  Ye pas-e-parda-e-Karbala kaun hai
 
   5
-  Yaad aaye jo abbas sheh ne kaha
-  Kisko doo ab mai daade wafa kaun hai
+  Yaad aaye jo Abbas Sheh ne kaha
+  Kis ko duṅ ab maiṅ daad-e-wafa kaun hai
 
   6
-  Sheh ka kehna ye zainab se jaate hai hum
-  Ab hamare siwa doosra kaun hai
+  Sheh ka kehna ye Zainab se jaate haiṅ ham
+  Ab hamaare siwa dusra kaun hai
 
   7
-  Jisko gham ho shahe karbala ka urooj
-  Wo nahi hai to gham aashna kaun hai
+  Jis ko gham ho Shah-e-Karbala ka Uruj
+  Wo nahiṅ hai to gham aashna kaun hai
 # source_id: nohayonline:0839a294af0cabaebb73
 # source_url: https://www.nohayonline.com/details_content.php?id=660
 # raw_sha256: b5b1cd27563a3cfa485e9c39f6b1e40144e7fdb5ef44527c51a3100e9f37bf48
@@ -49,15 +50,15 @@ romanLyrics: |-
 
 ۱
 کشتیِ دیں سے ٹکرا کے موجِ بلا
-فکر میں پڑ گئی نا خُدا کون ہے
+فکر میں پڑ گئی ناخُدا کون ہے
 
 ۲
-وہ نہ منزل پہ پہنچے جو پوچھا کیئے
+وہ نہ منزل پہ پہنچے جو پوچھا کیے
 جس نے چھوڑیں ہیں یہ نقشے پا کون ہے
 
 ۳
-گردشِ وقت کیا تو ں نہیں جانتی
-ہم غریبوں کا مشکل کشائ کون ہے
+گردشِ وقت کیا تو نہیں جانتی
+ہم غریبوں کا مشکل کشا کون ہے
 
 ۴
 کس کا کردار شبیر کو مل گیا
@@ -65,7 +66,7 @@ romanLyrics: |-
 
 ۵
 یاد آئے جو عباس شہ نے کہا
-کس کو دوںاب میں دادِ وفا کون ہے
+کس کو دوں اب میں دادِ وفا کون ہے
 
 ۶
 شہ کا کہنا یہ زینب سے جاتے ہیں ہم

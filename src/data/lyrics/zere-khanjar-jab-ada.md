@@ -6,43 +6,45 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shahe karbala sajda kiya sar dediya uff na kiya
+  Sheh-e-Karbala sajda kiya sar de diya uf na kiya
 
   1
-  Zer-e-khanjar jab ada sajda kiya shabbir ne
-  Di sada e marhaba quran ki tafseer ne
+  Zer-e-khanjar jab ada sajda kiya Shabbir ne
+  Di sada-e-marhaba Quraan ki tafsir ne
+  Sheh-e-Karbala sajda kiya sar de diya uf na kiya
 
   2
-  Noke naiza par tilawat kar chuke shabbir jab
-  Zindagi paayi dubara nara e takbeer ne
+  Nok-e-naiza par tilaawat kar chuke Shabbir jab
+  Zindagi paayi dubaara naara-e-takbir ne
 
   3
-  Karbala ka maarka shabbir ne sar kar liya
-  Shaam ko sar kar liya shabbir ki hamsheer ne
+  Karbala ka maaraka Shabbir ne sar kar liya
+  Shaam ko sar kar liya Shabbir ki hamshir ne
 
   4
-  Ek beta tha hassan ka hogaya shah par fida
-  Kar diye do laal qurban zainab e dilgeer ne
+  Ik beta tha Hasan ka ho gaya Sheh par fida
+  Kar diye do laal qurbaaṅ Zainab-e-dilgir ne
 
   5
-  Be-zabani mein ali asghar hue mehve kalaam
-  Bolna seekha ho jaise haideri tasveer nay
+  Bezabaani meiṅ Ali Asghar hue mahv-e-kalaam
+  Bolna sikha ho jaise Haidari tasvir ne
 
   6
-  Shaam ke darbar mein abid ne jab khutba diya
-  Pao choome abid-e-beemar ke zanjeer ne
+  Shaam ke darbaar meiṅ Aabid ne jab khutba diya
+  Paauṅ chume Aabid-e-bimaar ke zanjir ne
 
   7
-  Phaynk kar teer e tabassum ashkiyan ki fauj par
-  Karbala ki jang jeeti asghar-e-baysheer ne
+  Phenk kar tir-e-tabassum ashqiya ki fauj par
+  Karbala ki jang jiti Asghar-e-beshir ne
 
   8
-  Hashr mein rehaan suraj jab sawa naize pe tha
-  Leliya saaye mein mujhko chaadar-e-tatheer ne
+  Hashr meiṅ Rehaan suraj jab sawa naize pe tha
+  Le liya saaye meiṅ mujh ko chaadar-e-tathir ne
 # source_id: nohayonline:1022a5669dc9b87bfc5a
 # source_url: https://www.nohayonline.com/details_content.php?id=665
 # raw_sha256: c2366db65d605b3066c9e44992b1745bca1a7ee9832dbd520fc3d4990643fcaa
@@ -50,32 +52,33 @@ romanLyrics: |-
 شہِ کربلا سجدہ کیا سر دے دیا اُف نہ کیا
 
 ۱
-زرِخنجر جب ادا سجدہ کیا شبیر نے
-دی سدائے مرحبہ قرآن کی تفسیر نے
+زیرِ خنجر جب ادا سجدہ کیا شبیر نے
+دی صدائے مرحبا قرآن کی تفسیر نے
+شہِ کربلا سجدہ کیا سر دے دیا اُف نہ کیا
 
 ۲
 نوکِ نیزہ پر تلاوت کر چکے شبیر جب
-زندگی پائی دوبارہ نعرئہ تکبیر نے
+زندگی پائی دوبارہ نعرۂ تکبیر نے
 
 ۳
-کربلا کامعرکہ شبیر نے سر کرلیا
-شام کو سر کرلیا شبیر کی ہمشیرنے
+کربلا کا معرکہ شبیر نے سر کر لیا
+شام کو سر کر لیا شبیر کی ہمشیر نے
 
 ۴
-اِک بیٹا تھا حسن کا ہوگیا شہ پر فدا
-کردیئے دو لال قرباں زینبِ دلگیر نے
+اِک بیٹا تھا حسن کا ہو گیا شہ پر فدا
+کر دیے دو لال قرباں زینبِ دلگیر نے
 
 ۵
-بے زبانی میںعلی اصغر ہوئے محوے کلام
+بے زبانی میں علی اصغر ہوئے محوِ کلام
 بولنا سیکھا ہو جیسے حیدری تصویر نے
 
 ۶
 شام کے دربار میں عابد نے جب خطبہ دیا
-پائوںچومے عابدِبیمارکے زنجیر نے
+پاؤں چومے عابدِ بیمار کے زنجیر نے
 
 ۷
-پھینک کر تیرِ تبسم اشقیائ کی فوج پر
-کربلا کی جنگ جیتی اصغرِ بے چیر نے
+پھینک کر تیرِ تبسم اشقیا کی فوج پر
+کربلا کی جنگ جیتی اصغرِ بے شیر نے
 
 ۸
 حشر میں ریحان سورج جب سوا نیزے پہ تھا

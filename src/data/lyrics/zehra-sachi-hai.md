@@ -6,56 +6,57 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
+reciter: "Mir Sajjad Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Sache ho to sab ko batana zehra sachi hai
-  Jhoota hai ye saara zamana zehra sachi hai
+  Sache ho to sab ko bataana Zehra sachi hai
+  Jhuta hai ye saara zamaana Zehra sachi hai
 
   1
-  Fakhre maryam hukm jo deti ghasib ke darbar mein bhi
-  Aate falak se kehne isa zehra sachi hai
+  Fakhr-e-Maryam hukm jo deti ghaasib ke darbaar meiṅ bhi
+  Aate falak se kehne Isa Zehra sachi hai
 
   2
-  Fizza ne poocha maine suna hai aap falak par thay masroof
-  Bole ali has kar ay fizza zehra sachi hai
+  Fizza ne puchha maiṅ ne suna hai aap falak par the masruf
+  Bole Ali hans kar ae Fizza Zehra sachi hai
 
   3
-  Aakhri matamdar kahega jaate huwe ye jannat mein
-  Poora kiya hai apna waada zehra sachi hai
+  Aakhri maatamdaar kahega jaate hue ye jannat meiṅ
+  Pura kiya hai apna waada Zehra sachi hai
 
   4
-  Kitne anpad jaahil thay tum samjhe nahi tehreer-e-nabi
-  Tum ko nabi ne likh ke diya tha zehra sachi hai
+  Kitne anparh jaahil the tum samjhe nahiṅ tahrir-e-Nabi
+  Tum ko Nabi ne likh ke diya tha Zehra sachi hai
 
   5
-  Maa se dulhan ki maut ye boli malka e kun hai ye bibi
-  Beti ho jayegi zinda zehra sachi hai
+  Maaṅ se dulhan ki maut ye boli malka-e-kun hai ye Bibi
+  Beti ho jaayegi zinda Zehra sachi hai
 
   6
-  Eid ke kapde aa jayenge kab aur kaise rab jaane
-  Beton ko to itna pata tha zehra sachi hai
+  Eid ke kapre aa jaayeṅge kab aur kaise Rab jaane
+  Betoṅ ko to itna pata tha Zehra sachi hai
 
   7
-  Zehra ko jhutlaya jis dam chup thay madine waale magar
-  Cheekh raha tha rauza e nabi ka zehra sachi hai
+  Zehra ko jhutlaaya jis dam chup the Madine waale magar
+  Chikh raha tha rauza-e-Nabi ka Zehra sachi hai
 
   8
-  Khwaab mein jaane kaunsa manzar dekha kamsin shabbar ne
-  Chaunk ke kehta tha shehzada zehra sachi hai
+  Khwaab meiṅ jaane kaunsa manzar dekha kamsin Shabbar ne
+  Chaunk ke kehta tha shehzaada Zehra sachi hai
 
   9
-  Honton par tatheer ki aayat qabr ki matti haathon mein
-  Kehte thay ro ro kar maula zehra sachi hai
+  Hontoṅ par tathir ki aayat qabr ki mitti haathoṅ meiṅ
+  Kehte the ro ro kar Maula Zehra sachi hai
 
   10
-  Waada kiya tha bete se mai zibha ke waqt aa jaungi
-  Dekho nibhaya apna waada zehra sachi hai
+  Waada kiya tha bete se maiṅ zibh ke waqt aa jaauṅgi
+  Dekho nibhaaya apna waada Zehra sachi hai
 
   11
-  Daud ke maatha choom liya beti ne ali ki ay sajjad
-  Ghazi ne pehli baar jo bola zehra sachi hai
+  Daur ke maatha chum liya beti ne Ali ki ae Sajjad
+  Ghaazi ne pehli baar jo bola Zehra sachi hai
 # source_id: nohayonline:16eeb5c556a449e6d10d
 # source_url: https://www.nohayonline.com/details_content.php?id=3074
 # raw_sha256: c54740285901f725cfd134a04d9767dee400e5ef8d6a039001d9fd3bc5da085b
