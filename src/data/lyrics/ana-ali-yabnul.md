@@ -10,8 +10,7 @@ poet: "Rehan Azmi"
 tags: []
 aliases: []
 published: true
-romanLyrics: 'Yaa Ali
-
+romanLyrics: |-
   Aise aaye Ali Akbar sar-e-maidan-e-wigha
   Jaise badli se naya chaand namudaar hua
   Jaise taswir-e-Mohammed se utha ho parda
@@ -84,7 +83,7 @@ romanLyrics: 'Yaa Ali
   Kya kare ab tera baba ji kar
   Khaak duniya hai tere baad Akbar
   Nauha jaari tha Rehaan o Sarwar
-  Ran mein roti thi sada-e-zakhmi'
+  Ran mein roti thi sada-e-zakhmi
 # source_id: nohayonline:a512e098bc70ad69eebd
 # source_url: https://www.nohayonline.com/details_content.php?id=802
 # raw_sha256: 1405165f2a3d3fed3c5ae70ed61d83920c08949ea139b15db9a896bb05ec5ab5
