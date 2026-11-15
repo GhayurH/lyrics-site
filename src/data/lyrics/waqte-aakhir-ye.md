@@ -1,45 +1,46 @@
 ---
 title: "وقتِ آخر یہ مصیبت کی گھڑی ہے بابا"
-alternateTitle: "Waqte Aakhir Ye"
+alternateTitle: "Waqt-e-Aakhir Yeh"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Syed Hassan"
+reciter: "Ali Yazdan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Waqt e aakhir ye musibat ki ghadi hai baba
-  Baithi ummat hai teri zehra khadi hai baba
+  Waqt-e-aakhir yeh musibat ki ghari hai baaba
+  Baithi ummat hai teri Zehra khari hai baaba
 
   1
-  Kalmagoyon ne kiya hai shaheed mohsin ko
-  Qatl e mohsin se kamar toot chuki hai baba
+  Kalma goyoṅ ne kiya hai shahid Mohsin ko
+  Qatl-e-Mohsin se kamar tut chuki hai baaba
 
   2
-  Phasliyan tooti hui aur liye jalta daaman
-  Aise zehra teri darbar gayi hai baba
+  Pasliyaaṅ tuti hui aur liye jalta daaman
+  Aise Zehra teri darbaar gayi hai baaba
 
   3
-  Qasam allah ki mai jhoot nahi bolti hoo
-  Teri siddiqa ye ab bol rahi hai baba
+  Qasam Allah ki main jhut nahiṅ bolti huṅ
+  Teri Siddiqa yeh ab bol rahi hai baaba
 
   4
-  Saans leti hoo to takleef mujhe hoti hai
-  Kyun ke har phasli meri toot chuki hai baba
+  Saans leti huṅ to taklif mujhe hoti hai
+  Kiuṅ ke har pasli meri tut chuki hai baaba
 
   5
-  Apne rukhsaron ki surkhi ko chupaun kaise
-  Saamne mere meri beti khadi hai baba
+  Apne rukhsaaroṅ ki surkhi ko chhupaauṅ kaise
+  Saamne mere meri beti khari hai baaba
 
   6
-  Mere shabbir ki gardan pe churi thi jo rawan
-  Wo churi haath pe mere bhi chali hai baba
+  Mere Shabbir ki gardan pe chhuri thi jo rawaaṅ
+  Woh chhuri haath pe mere bhi chali hai baaba
 
   7
-  Meri turbat pe padhe nauha hassan aur yazdan
-  Sab duaaon may dua unki yehi hai baba
+  Meri turbat pe parhe nauha Hasan aur Yazdaaṅ
+  Sab duaaoṅ mein dua un ki yehi hai baaba
 # source_id: nohayonline:fa17f5fa711a3108b34f
 # source_url: https://www.nohayonline.com/details_content.php?id=2521
 # raw_sha256: f9289232ba695a88dd755ec66f3d365b92900956f6a4cba878d975c37a8df0ba
@@ -52,8 +53,8 @@ romanLyrics: |-
 قتلِ محسن سے کمر ٹوٹ چکی ہے بابا
 
 ۲
-پسلیاں ٹوٹی ہوی اور لیےء جلتا دامن
-ایسے زہرا تیری دربار گیء ہے بابا
+پسلیاں ٹوٹی ہوئی اور لیے جلتا دامن
+ایسے زہرا تیری دربار گئی ہے بابا
 
 ۳
 قسم اللّٰہ کی میں جھوٹ نہیں بولتی ہوں

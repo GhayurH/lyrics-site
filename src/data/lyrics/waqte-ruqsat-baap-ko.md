@@ -1,67 +1,68 @@
 ---
 title: وقتِ رُخصت باپ کو بیٹے کا مُڑ کر دیکھنا
-alternateTitle: Waqte Ruqsat Baap Ko
+alternateTitle: Waqt-e-Rukhsat Baap Ko
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Waqte ruqsat baap ko bete ka mud kar dekhna
-  Karbala ab imtehane sabr e sarwar dekhna
+  Waqt-e-rukhsat baap ko bete ka mur kar dekhna
+  Karbala ab imtehaan-e-sabr-e-Sarwar dekhna
 
   1
-  Door tak jaate huwe dekha kiye kaise hussain
-  Thokarein khaa khaa ke khud sambhla kiye kaise hussain
-  Ay ali akbar zara peeche palat kar dekhna
+  Dur tak jaate hue dekha kiye kaise Husain
+  Thokareiṅ khaa khaa ke khud sambhla kiye kaise Husain
+  Ae Ali Akbar zara pichhe palat kar dekhna
 
   2
-  Maa ke armaano ki chadar ka amama sar pe hai
-  Fatema sughra ki aankhon ka ujaala sar pe hai
-  Bigdega ek pal mein kitno ka muqaddar dekhna
+  Maaṅ ke armaanoṅ ki chaadar ka amaama sar pe hai
+  Faatima Sughra ki aankhoṅ ka ujaala sar pe hai
+  Bigre ga ik pal mein kitnoṅ ka muqaddar dekhna
 
   3
-  Dosh par bikhri hui zulfein udaati thi hawa
-  Bikhri zulfon se nikharti jaa rahi thi karbala
-  Maut ki jurrat nahi thi aankh bhar kar dekhna
+  Dosh par bikhri hui zulfeiṅ uraati thi hawa
+  Bikhri zulfoṅ se nikharti jaa rahi thi Karbala
+  Maut ki jurat nahiṅ thi aankh bhar kar dekhna
 
   4
-  Uth raha hai gir raha hai ek parda baar baar
-  Umme laila ka ye qaima hai mere parwardigar
-  Laash jab aayi to mar jaayegi maadar dekhna
+  Uth raha hai gir raha hai ik parda baar baar
+  Umm-e-Laila ka yeh khaima hai mere Parwardigaar
+  Laash jab aayi to mar jaaye gi maadar dekhna
 
   5
-  Haye maqtal ghutniyo ke bal chala hai ek padar
-  Kehta hai aawaz de mujhko mere noore nazar
-  Khogayi beenayi meri mere dilbar dekhna
+  Haaye maqtal ghutniyoṅ ke bal chala hai ik pidar
+  Kehta hai aawaaz de mujh ko mere nur-e-nazar
+  Kho gayi binaayi meri mere dilbar dekhna
 
   6
-  Ay hussain ibne ali jao na akbar ke khareeb
-  Zulm aisa hogaya hai taab laa sakte nahi
-  Kya gawara hai sina seene ke andar dekhna
+  Ae Husain ibn-e-Ali jaao na Akbar ke qarib
+  Zulm aisa ho gaya hai taab laa sakte nahiṅ
+  Kya gawaara hai sinaaṅ sine ke andar dekhna
 
   7
-  Imtehan hai boode kaandho ka jawan bete ki laash
-  Khoon mein doobi kis tarha dekhegi maa bete ki laash
-  Is jagah aulad waalon khud ko rakh kar dekhna
+  Imtehaaṅ hai burhe kaandhoṅ ka jawaaṅ bete ki laash
+  Khun mein dubi kis tarah dekhe gi maaṅ bete ki laash
+  Is jagah aulaad waalo khud ko rakh kar dekhna
 
   8
-  Marte dam akbar ko darr hai maa na aajaye kahin
-  Beh raha hai khoon mere seene se rangeen hai zameen
-  Keh do amma se mujhe yun na tadap kar dekhna
+  Marte dam Akbar ko dar hai maaṅ na aa jaaye kahiṅ
+  Beh raha hai khun mere sine se rangiṅ hai zamiṅ
+  Keh do ammaaṅ se mujhe yuṅ na tarap kar dekhna
 
   9
-  Baba meri ma meray gham ko utha sakti nahi
-  Neend aisey arahi hai, ma jaga sakti nahi
-  Zakhm mera ma ki nazro say bacha kar dekhna
+  Baaba meri maaṅ mere gham ko utha sakti nahiṅ
+  Nind aisi aa rahi hai maaṅ jagaa sakti nahiṅ
+  Zakhm mera maaṅ ki nazroṅ se bachaa kar dekhna
 
   10
-  Khoon hota hai jigar rehaan o sarwar us ghadi
-  Sochte hai hazrate shabbir ki jab bekasi
-  Baap ka ruk ruk ke aur bete ka mud kar dekhna
+  Khun hota hai jigar Rehaan o Sarwar us ghari
+  Sochte haiṅ Hazrat-e-Shabbir ki jab bekasi
+  Baap ka ruk ruk ke aur bete ka mur kar dekhna
 # source_id: nohayonline:a644445594b3abaa4c05
 # source_url: https://www.nohayonline.com/details_content.php?id=30
 # raw_sha256: 8633bee1d3920e2c00eeabb3f1f02fc83b838ed0ca2f7e34ed736a8d74fc26e3
@@ -74,8 +75,8 @@ romanLyrics: |-
 کربلا اب امتحانِ صبرِ سرور دیکھنا
 
 ۱
-دور تک جاتے ہوئے، دیکھا کیئے کیسے حسین
-ٹھوکریں کھا کھا کے خود، سنبھلا کیئے کیسے حسین
+دور تک جاتے ہوئے، دیکھا کیے کیسے حسین
+ٹھوکریں کھا کھا کے خود، سنبھلا کیے کیسے حسین
 اے علی اکبر ذرا، پیچھے پلٹ کر دیکھنا
 
 ۲
@@ -86,7 +87,7 @@ romanLyrics: |-
 ۳
 دوش پر بکھری ہوئی، زُلفیں اُڑاتی تھی ہوا
 بکھری زُلفوں سے نکھرتی، جا رہی تھی کربلا
-موت کی جُرا،ت نہیں تھی، آنکھ بھر کر دیکھنا
+موت کی جرأت نہیں تھی، آنکھ بھر کر دیکھنا
 
 ۴
 اُٹھ رہا ہے گِر رہا ہے، اک پردہ بار بار
@@ -101,11 +102,11 @@ romanLyrics: |-
 ۶
 اے حسین ابنِ علیؑ، جاؤ نہ اکبرؑ کے قریب
 ظلم ایسا ہو گیا ہے، تاب لا سکتے نہیں
-کیا گوارہ ہے سِنا، سینے کے اندر دیکھنا
+کیا گوارہ ہے سِناں، سینے کے اندر دیکھنا
 
 ۷
 امتحاں ہے بوڑھے کاندھوں، کا جواں بیٹے کی لاش
-خون میں ڈوبی کس طرح، دیکھی گی ماں بیٹے کی لاش
+خون میں ڈوبی کس طرح، دیکھے گی ماں بیٹے کی لاش
 اس جگہ اولاد والو، خود کو رکھ کر دیکھنا
 
 ۸
