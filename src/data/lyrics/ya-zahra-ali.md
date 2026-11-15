@@ -6,86 +6,87 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Momino kissa e sadaat suno
+  Mominoṅ qissa-e-Sadaat suno
   Thaam kar dil ye meri baat suno
-  Khoon se likhe huwe halaat suno
-  Ya zahra ya zahra ya zahra
+  Khuṅ se likhe hue haalaat suno
+  Ya Zahra ya Zahra ya Zahra
 
   1
-  Noor e kaunain madina hai jahan
-  Ek mehalla bani hashim hai wahan
-  Us mehelle ke hai ek ghar ka bayan
-  Jis se behtar nahi dunya mein makan
-  Deen o emaan ke kirdaar ka ghar
-  Panjetan paak ke anwaar ka ghar
-  Dukhtar e ahmed e mukhtar ka ghar
-  Fatema hyder e karrar ka ghar
-  Laadle inke hassan aur hussain
-  Aur do betiyan thi noor e ain
-  Ek kulssom thi ek baap ka zain
-  Aur abbas dil o jaan ka chain
-  Ghar ye tha bait e khuda
-  Jisme quran uthra
-  Aur kis tarha luta
-  Inka rutba na zamana samjha
+  Nur-e-kaunain Madina hai jahaaṅ
+  Ik mohalla Bani Hashim hai wahaaṅ
+  Us mohalle ke hai ik ghar ka bayaaṅ
+  Jis se behtar nahiṅ dunya mein makaaṅ
+  Din o imaan ke kirdaar ka ghar
+  Panjtan paak ke anwaar ka ghar
+  Dukhtar-e-Ahmad-e-Mukhtaar ka ghar
+  Fatima Haider-e-Karraar ka ghar
+  Laadle in ke Hasan aur Husain
+  Aur do betiyaaṅ thiṅ nur-e-ain
+  Ek Kulsum thi ik baap ka zain
+  Aur Abbas dil o jaan ka chain
+  Ghar ye tha bait-e-Khuda
+  Jis mein Quraan utra
+  Aur kis tarah luta
+  In ka rutba na zamaana samjha
 
   2
-  Kaisi mazloom magar thi zahra
+  Kaisi mazlum magar thiṅ Zahra
   Baap ke gham mein bhi rone na diya
-  Haq se mehroom kiya wa abata
-  Aaj bhi jiski lehad be-saaya
-  Jispe jalta hua darwaza gira
-  Hogayi pehlu shakista zahra
-  Qatl mohsin bhi hua wavaila
-  Baad e zehra wo ali ka girya
-  Masjid e koofa mein phi shor utha
-  Haye hyder pe chali taygh e jafa
-  Thi sada fuzto be rabbil kaaba
-  Ghar mein zehra ke qayamat thi bapa
+  Haq se mehrum kiya wa abata
+  Aaj bhi jis ki lahad besaaya
+  Jis pe jalta hua darwaaza gira
+  Ho gayi pehlu shikasta Zahra
+  Qatl Mohsin bhi hua waawaila
+  Baad-e-Zehra wo Ali ka girya
+  Masjid-e-Kufa mein phir shor utha
+  Haaye Haider pe chali tegh-e-jafa
+  Thi sada fuztu bi rabbil Kaaba
+  Ghar mein Zehra ke qayaamat thi bapa
   Sar se saaya jo utha
-  Ghar ye veeran hua
-  Thi yateemo ki buka
-  Haye baba haye baba baba
+  Ghar ye wiraan hua
+  Thi yatimoṅ ki buka
+  Haaye baba haaye baba baba
 
   3
-  Baad e hyder ye sitam aur hua
-  Khoon mein shabbar ka janaza dooba
-  Aur phir deen jo mushkil mein ghira
-  Tab hussain ibne ali ghar se chala
+  Baad-e-Haider ye sitam aur hua
+  Khuṅ mein Shabbar ka janaaza duba
+  Aur phir din jo mushkil mein ghira
+  Tab Husain ibn-e-Ali ghar se chala
   Karbala jaise hi pahuncha kunba
-  Phir to kya zulm na sayyed pe hua
-  Milke laakhon ne unhe ghayr liya
-  Teen din pehle to pani na diya
-  Aur phir maqtale sadaat saja
+  Phir to kya zulm na Sayyad pe hua
+  Mil ke laakhoṅ ne unheiṅ gher liya
+  Tin din pehle to paani na diya
+  Aur phir maqtal-e-Sadaat saja
   Bhaanje bete bhatija na raha
-  Na wo lashkar na alamdar bacha
+  Na wo lashkar na alamdaar bacha
   Asr se pehle wo hal min ki sada
-  Chalgayi taygh e jafa
-  Khoon bekas ka baha
-  Sar suye naiza gaya
-  Tan ko aagosh mein zehra ne liya
+  Chal gayi tegh-e-jafa
+  Khun bekas ka baha
+  Sar su-e-naiza gaya
+  Tan ko aaghosh mein Zehra ne liya
 
   4
-  Aagayi shaam e ghariban haye haye
-  Aur phir aag lagi qaime jale
-  Ghash se jab abid e bemaar uthe
+  Aa gayi shaam-e-gharibaaṅ haaye haaye
+  Aur phir aag lagi khaime jale
+  Ghash se jab Aabid-e-bimaar uthe
   Qaidi kunbe ke wo salaar bane
-  Haye sajjad ne kya kya dekha
-  Sar khule shaam mein kunba dekha
-  Jashn darbar mein hota dekha
-  Choti hamsheer ka laasha dekha
-  Qaid se chutke chale karbobala
-  Sab ka chehlum kiya matam bhi kiya
-  Khafila jab ye madine pahuncha
-  Ab bayan sarwar o rehan ho kya
-  Haye matam tha bapa
-  Jab ye zainab ne kaha
+  Haaye Sajjad ne kya kya dekha
+  Sar khule Shaam mein kunba dekha
+  Jashn darbaar mein hota dekha
+  Chhoti hamshir ka laasha dekha
+  Qaid se chhut ke chale Karb o Bala
+  Sab ka chehlum kiya maatam bhi kiya
+  Qaafila jab ye Madina pahuncha
+  Ab bayaaṅ Sarwar o Rehaan ho kya
+  Haaye maatam tha bapa
+  Jab ye Zainab ne kaha
   Na rahi meri rida
-  Amma mai aagayi bhai na raha
+  Amma main aa gayi bhai na raha
 # source_id: nohayonline:0686399d5b08f34830e3
 # source_url: https://www.nohayonline.com/details_content.php?id=177
 # raw_sha256: ee462e0f98ab9d05f1059b642eb0bbe745b38bcad7d0087f9e4b7590deaaa392
@@ -119,17 +120,17 @@ romanLyrics: |-
 حق سے محروم کیا وا ابتا
 آج بھی جس کی لحد بے سایہ
 جس پہ جلتا ہوا دروازہ گرا
-ہوگیء پہلو شکستہ زہرا
+ہو گئی پہلو شکستہ زہرا
 قتل محسن بھی ہوا واویلا
 بعد زہرا وہ علی کا گریہ
 مسجد کوفہ میں پھر شور اٹھا
-ہاے حیدر پہ چلی تیغ جفا
-تھی صدا فزت و بے ربل کعبہ
+ہائے حیدر پہ چلی تیغ جفا
+تھی صدا فزت برب الکعبہ
 گھر میں زہرا کے قیامت تھی بپا
 سر سے سایہ جو اٹھا
 گھر یہ ویران ہوا
 تھی یتیموں کی بکا
-ہاےء بابا ہاے بابا بابا
+ہائے بابا ہائے بابا بابا
 
 ۳
 بعد حیدر یہ ستم اور ہوا
@@ -143,18 +144,18 @@ romanLyrics: |-
 اور پھر مقتل سادات سجا
 بھانجے بیٹے بھتیجا نہ رہا
 نہ وہ لشکر نہ علمدار بچا
-عصر سے پہلے وہ ھل من کی صدا
+عصر سے پہلے وہ ہل من کی صدا
 چل گئی تیغ جفا
 خون بیکس کا بہا
-سر سوےء نیزہ گیا
+سر سوئے نیزہ گیا
 تن کو آغوش میں زہرا نے لیا
 
 ۴
-آگیء شام غریباں ہاے ہاے
+آ گئی شام غریباں ہائے ہائے
 اور پھر آگ لگی خیمے جلے
 غش سے جب عابد بیمار اٹھے
 قیدی کنبے کے وہ سالار بنے
-ہاےء سجاد نے کیا کیا دیکھا
+ہائے سجاد نے کیا کیا دیکھا
 سر کھلے شام میں کنبہ دیکھا
 جشن دربار میں ہوتا دیکھا
 چھوٹی ہمشیر کا لاشہ دیکھا
@@ -162,7 +163,7 @@ romanLyrics: |-
 سب کا چہلم کیا ماتم بھی کیا
 قافلہ جب یہ مدینہ پہنچا
 اب بیاں سرور و ریحان ہو کیا
-ہاے ماتم تھا بپا
+ہائے ماتم تھا بپا
 جب یہ زینب نے کہا
 نہ رہی میری ردا
-اماں میں آگیء بھائی نہ رہا
+اماں میں آ گئی بھائی نہ رہا

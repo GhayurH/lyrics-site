@@ -10,61 +10,61 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ya zahra maadar jaan
+  Ya Zahra maadar jaan
 
   1
-  Bizzate qalbe nabi umme abiha zahra
-  Tere baba ne tujhe rutba diya maa jaisa
-  Jab utha shab ki siyahi mein janaza tera
-  Qabre sarkare do aalam se ye aati thi sada
+  Bizat-e-qalb-e-Nabi Umm-e-Abiha Zahra
+  Tere baba ne tujhe rutba diya maaṅ jaisa
+  Jab utha shab ki siyaahi mein janaaza tera
+  Qabr-e-Sarkaar-e-do aalam se ye aati thi sada
 
   2
-  Ye sada dete hai khud haath ke chaale tere
-  Tu ne hasnain ko paala hai badi mehnat se
-  Zehr shabbar ko mila yun mila mehnat ka sila
-  Khoon ugalte huwe kehte thay jigar ke tukde
+  Ye sada dete haiṅ khud haath ke chhaale tere
+  Tu ne Hasnain ko paala hai bari mehnat se
+  Zehr Shabbar ko mila yuṅ mila mehnat ka sila
+  Khuṅ ugalte hue kehte the jigar ke tukre
 
   3
-  Phir wo din aaya ke sarwar ne madina choda
-  Teri turbat hui veeran basi karbobala
-  Roze ashoor azan e ali akbar sun kar
-  Ghar ki dehleez pa baith hui sughra ne kaha
+  Phir wo din aaya ke Sarwar ne Madina chhora
+  Teri turbat hui wiraan basi Karb o Bala
+  Roz-e-Aashur azaan-e-Ali Akbar sun kar
+  Ghar ki dehliz pe baith hui Sughra ne kaha
 
   4
-  Hogaya jang ka aaghaz sar e karbobala
-  Sab se pehle gaya maidan mein hurr ka beta
-  Bhai maara gaya phir hurr bhi gaya suye jina
+  Ho gaya jang ka aaghaaz sar-e-Karb o Bala
+  Sab se pehle gaya maidaan mein Hur ka beta
+  Bhai maara gaya phir Hur bhi gaya su-e-jinaaṅ
   Zakhm pe shaah ne rumaal jo bandha to kaha
 
   5
-  Us taraf zainab e dilgeer ye karti thi dua
-  Mere farzand ho pyase mere bhai pe fida
-  Pur asar saani e zahra ki dua hoke rahi
-  Laash bacchon ki jo dekhi to ye zainab ne kaha
+  Us taraf Zainab-e-dilgir ye karti thi dua
+  Mere farzand hoṅ pyaase mere bhai pe fida
+  Pur asar saani-e-Zahra ki dua ho ke rahi
+  Laash bachchoṅ ki jo dekhi to ye Zainab ne kaha
 
   6
-  Laut kar aaya na saqqa e haram darya se
-  Ho gaye haath qalam teer kaleje mein lage
-  Ho gaya thanda alam sheh ki kamar toot gayi
-  Tod kar kooza sakina ne kaha rote huwe
+  Laut kar aaya na saqqa-e-haram darya se
+  Ho gaye haath qalam tir kaleje mein lage
+  Ho gaya thanda alam shah ki kamar tut gayi
+  Tor kar kuza Sakina ne kaha rote hue
 
   7
-  Ek kohraam bapa qaima e sarwar mein hua
-  Ghar se athara baras waala jo maqtal ko chala
-  Barchi akbar ke kaleje se jo sheh ne khaynchi
-  Haath seene pe rakha aur ye akbar ne kaha
+  Ek kohraam bapa khaima-e-Sarwar mein hua
+  Ghar se athaarah baras waala jo maqtal ko chala
+  Barchhi Akbar ke kaleje se jo shah ne khenchi
+  Haath sine pe rakha aur ye Akbar ne kaha
 
   8
-  Door bano se hua haye wo nanha baccha
-  Loriyan deti hai baysheer ko ab khaake shifa
-  Cheh mahine ke mujahid pe qayamat guzri
-  Teer khaa kar ali asghar ke tabassum ne kaha
+  Dur Bano se hua haaye wo nanha bachcha
+  Loriyaaṅ deti hai beshir ko ab khaak-e-shifa
+  Chhe mahine ke mujaahid pe qayaamat guzri
+  Tir khaa kar Ali Asghar ke tabassum ne kaha
 
   9
-  Sheh ne rehaan rakha sajda e mabood mein sar
-  Shimr ka chalne laga sookhe gale par khanjar
-  Yaad aane lagi maa aalam e tanhaai mein
-  Rukh baqiyya ki taraf kar ke pukare sarwar
+  Shah ne Rehaan rakha sajda-e-maabud mein sar
+  Shimr ka chalne laga sukhe gale par khanjar
+  Yaad aane lagi maaṅ aalam-e-tanhaai mein
+  Rukh Baqiyya ki taraf kar ke pukaare Sarwar
 reciter: Shahid Baltistani
 # source_id: nohayonline:436c7891035287ddeb9f
 # source_url: https://www.nohayonline.com/details_content.php?id=3302
@@ -79,37 +79,37 @@ reciter: Shahid Baltistani
 ۱
 بضعت قلب نبی ام ابیہا زہرا
 تیرے بابا نے تجھے رتبہ دیا ماں جیسا
-جب اٹھا شب کی سیاہ میں جنازہ تیرا
+جب اٹھا شب کی سیاہی میں جنازہ تیرا
 قبر سرکار دو عالم سے یہ آتی تھی صدا
 
 ۲
-یہ صدا دیتے ہے خود ہاتھ کے چھالے تیرے
+یہ صدا دیتے ہیں خود ہاتھ کے چھالے تیرے
 تو نے حسنین کو پالا ہے بڑی محنت سے
 زہر شبر کو ملا یوں ملا محنت کا صلہ
 خوں اگلتے ہوئے کہتے تھے جگر کے ٹکڑے
 
 ۳
 پھر وہ دن آیا کے سرور نے مدینہ چھوڑا
-تیری تربت ہوی ویران بسی کربوبلا
+تیری تربت ہوئی ویران بسی کربوبلا
 روز عاشور اذان علی اکبر سن کر
-گھر کی دہلیز پہ بیٹھ ہوی صغرا نے کہا
+گھر کی دہلیز پہ بیٹھ ہوئی صغرا نے کہا
 
 ۴
 ہو گیا جنگ کا آغاز سر کربوبلا
 سب سے پہلے گیا میدان میں حر کا بیٹا
-بھای مارا گیا پھر حر بھی گیا سوے جناں
-زخم پہ شاہ نے رومال جو بڑھا تو کہا
+بھائی مارا گیا پھر حر بھی گیا سوئے جناں
+زخم پہ شاہ نے رومال جو باندھا تو کہا
 
 ۵
-اس طرف زینب و دلگیر یہ کرتی تھی دعا
-میرے فرزند ہو پیاسے میرے بھائی پہ فدا
-پر اثر ثانیء زہرا کی دعا ہو کے رہی
+اس طرف زینبِ دلگیر یہ کرتی تھی دعا
+میرے فرزند ہوں پیاسے میرے بھائی پہ فدا
+پر اثر ثانیٔ زہرا کی دعا ہو کے رہی
 لاش بچوں کی جو دیکھی تو یہ زینب نے کہا
 
 ۶
-لوٹ کر آیا نہ سقاے حرم دریا سے
-ہو گےء ہاتھ قلم تیر کلیجے میں لگے
-ہو گیا ٹھنڈا علم شہ کی کمر ٹوٹ گیء
+لوٹ کر آیا نہ سقائے حرم دریا سے
+ہو گئے ہاتھ قلم تیر کلیجے میں لگے
+ہو گیا ٹھنڈا علم شہ کی کمر ٹوٹ گئی
 توڑ کر کوزہ سکینہ نے کہا روتے ہوئے
 
 ۷
@@ -119,13 +119,13 @@ reciter: Shahid Baltistani
 ہاتھ سینے پہ رکھا اور یہ اکبر نے کہا
 
 ۸
-دور بانو سے ہوا ہاے وہ ننھا بچہ
+دور بانو سے ہوا ہائے وہ ننھا بچہ
 لوریاں دیتی ہے بے شیر کو اب خاک شفا
 چھ مہینے کے مجاہد پہ قیامت گزری
-تیر کھا کر علی اصغر کے تبسم نے ‌کہا
+تیر کھا کر علی اصغر کے تبسم نے کہا
 
 ۹
 شہ نے ریحان رکھا سجدۂ معبود میں سر
 شمر کا چلنے لگا سوکھے گلے پر خنجر
-یاد آنے لگی ماں عالم تنہای میں
+یاد آنے لگی ماں عالم تنہائی میں
 رخ بقیہ کی طرف کر کے پکارے سرور
