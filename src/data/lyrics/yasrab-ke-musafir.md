@@ -1,46 +1,47 @@
 ---
 title: "یثرب کے مسافر سے قریب موت کا بن ہے"
-alternateTitle: "Yasrab Ke Musafir"
+alternateTitle: "Yasrab Ke Musaafir"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Alamdar Razvi"
 tags: ["noImage"]
-aliases: []
+aliases: ["Yasrab Ke Musafir"]
 published: false
 romanLyrics: |-
-  Yasrab ke musafir se khareeb maut ka ban hai
-  Humraah e qaza sayyade aawara watan hai
+  Yasrab ke musaafir se qarib maut ka ban hai
+  Hamraah-e-qaza Sayyad-e-aawaara watan hai
 
   1
-  Manzil se hai nazdeek mohamed ka nawasa
-  Ab khatm safar ho chuka shaahe shohada ka
-  Reh reh ke dehel jaaata hai zainab ka kaleja
-  Moo dekh ke bhai ka pareshan behan hai
+  Manzil se hai nazdik Muhammad ka nawaasa
+  Ab khatm safar ho chuka Shaah-e-shuhada ka
+  Rah rah ke dahal jaata hai Zainab ka kaleja
+  Muṅh dekh ke bhaai ka pareshaan bahan hai
 
   2
-  Karta hai koi raaton ko jangal may ye naale
-  Qurban ho maa tujh pa mere naazon ke paale
-  Bache tujhe karti hoo mai khaaliq ke hawale
-  Darr tha mujhe lutne ka jahan ye wohi ban hai
+  Karta hai koi raatoṅ ko jangal mein ye naale
+  Qurbaan ho maaṅ tujh pe mere naazoṅ ke paale
+  Bachche tujhe karti huṅ main Khaaliq ke hawaale
+  Dar tha mujhe lutne ka jahaaṅ ye wohi ban hai
 
   3
-  Is dasht may payega tu har tarha ki eeza
-  Is dasht may dushman teri ho jayegi dunya
-  Laayi hai tujhe maut yahan khaynch ke beta
+  Is dasht mein paaega tu har tarah ki iza
+  Is dasht mein dushman teri ho jaaegi duniya
+  Laayi hai tujhe maut yahaaṅ kheṅch ke beta
   Shabbir ye tera hi bas ab tera watan hai
 
   4
-  Pyasa tujhe jab zibha kare ye sitam aara
-  Laashe ka bhi hoga na koi gaadne waala
-  Beta teri mazloomi ke qurban ye dukhiiya
-  Ne ghusl qismat may teri aur na kafan hai
+  Pyaasa tujhe jab zibh kare ye sitam aara
+  Laashe ka bhi hoga na koi gaarne waala
+  Beta teri mazlumi ke qurbaan ye dukhiya
+  Ne ghusl qismat mein teri aur na kafan hai
 
   5
-  Lut jayega pyasa tera ye chota sa lashkar
-  Ek boond bhi pani ki na dega koi khudsar
-  Chillayega bayseer ko tu haathon pa le kar
-  Logon mera masoom bahot tashna dahan hai
+  Lut jaaega pyaasa tera ye chhota sa lashkar
+  Ek bund bhi paani ki na dega koi khudsar
+  Chillaaega be shir ko tu haathoṅ pe le kar
+  Logoṅ mera maasum bahut tashna dahan hai
 # source_id: nohayonline:a74bc3886b62590ea84f
 # source_url: https://www.nohayonline.com/details_content.php?id=2021
 # raw_sha256: 55cad98a81dc25954a623004409007785fd0b949f2b0bf56e9117931eecbb08b
@@ -61,9 +62,9 @@ romanLyrics: |-
 ڈر تھا مجھے لٹنے کا جہاں یہ وہی بن ہے
 
 ۳
-اس دشت میں پاے گا تو ہر طرح کی ایذا
-اس دشت میں دشمن تیری ہو جاے گی دنیا
-لای ہے تجھے موت یہاں کھینچ کے بیٹا
+اس دشت میں پائے گا تو ہر طرح کی ایذا
+اس دشت میں دشمن تیری ہو جائے گی دنیا
+لائی ہے تجھے موت یہاں کھینچ کے بیٹا
 شبیر یہ تیرا ہی بس اب تیرا وطن ہے
 
 ۴
@@ -73,7 +74,7 @@ romanLyrics: |-
 نے غسل قسمت میں تیری اور نہ کفن ہے
 
 ۵
-لٹ جاے گا پیاسا تیرا یہ چھوٹا سا لشکر
-اک بوندھ بھی پانی کی نہ دیگا کوئی خود سر
-چلاے گا بے شیر کو تو ہاتھوں پہ لے کر
+لٹ جائے گا پیاسا تیرا یہ چھوٹا سا لشکر
+اک بوند بھی پانی کی نہ دے گا کوئی خود سر
+چلائے گا بے شیر کو تو ہاتھوں پہ لے کر
 لوگوں میرا معصوم بہت تشنہ دہن ہے

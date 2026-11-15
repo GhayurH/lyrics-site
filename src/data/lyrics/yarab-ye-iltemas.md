@@ -1,49 +1,50 @@
 ---
 title: "یا رب یہ التماس ہے تیری جناب میں"
-alternateTitle: "Yarab Ye Iltemas"
+alternateTitle: "Ya Rab Ye Iltimaas"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
+reciter: "Tableegh e Imamia"
 tags: ["noImage"]
-aliases: []
+aliases: ["Yarab Ye Iltemas"]
 published: false
 romanLyrics: |-
-  Ya rab ye iltemas teri janab may
-  Mujhko milaade khaake dare bu turab may
+  Ya Rab ye iltimaas hai teri janaab mein
+  Mujh ko mila de khaak-e-dar-e-Bu Turaab mein
 
   1
-  Haasil nahi hai misle ali sab ko martaba
-  Garche baargahe risalat maab may
+  Haasil nahiṅ hai misl-e-Ali sab ko martaba
+  Garche baargaah-e-risaalat maab mein
 
   2
-  Noore ali may noore mohamed may farq kya
-  Hai aaftab hai ke deha mahtaab may
+  Nur-e-Ali mein nur-e-Muhammad mein farq kya
+  Hai aaftaab hai ke deha maahtaab mein
 
   3
-  Jhoole may keh rahe thay ye tewar sagheer ke
-  Zinda rahe to dekhna ahde shabab may
+  Jhule mein kah rahe the ye tewar saghir ke
+  Zinda rahe to dekhna ahd-e-shabaab mein
 
   4
-  Qasim ke jisme paak se jo ran may beh gaya
-  Wo khoon aagaya hai simat kar gulab may
+  Qasim ke jism-e-paak se jo ran mein bah gaya
+  Wo khun aa gaya hai simat kar gulaab mein
 
   5
-  Ek teer to nikal gaya asghar ke halq se
-  Paywast ek teer hai qalbe rabab may
+  Ek tir to nikal gaya Asghar ke halq se
+  Paiwast ek tir hai qalb-e-Rabaab mein
 
   6
-  Ahle haram ke pyas may shiddat thi is khadar
-  Itni tapish na hogi kabhi aaftab may
+  Ahl-e-haram ki pyaas mein shiddat thi is qadar
+  Itni tapish na hogi kabhi aaftaab mein
 
   7
-  Zehra ke ghar ko yaad kare roye zaar zaar
-  Jiska tabaah ghar ho kisi inquilaab may
+  Zehra ke ghar ko yaad kare roe zaar zaar
+  Jis ka tabaah ghar ho kisi inqilaab mein
 
   8
-  Bas wo fishare qabr se mehshar bachayega
-  Jisne shagaaf daal diya maahtab may
+  Bas wo fishaar-e-qabr se Mahshar bachaaega
+  Jis ne shigaaf daal diya maahtaab mein
 # source_id: nohayonline:82d9440e507b82d92fb2
 # source_url: https://www.nohayonline.com/details_content.php?id=641
 # raw_sha256: 52c51f6b043d5ff16225ac34245b646054a6e286a21d5ed75780296b52265c36

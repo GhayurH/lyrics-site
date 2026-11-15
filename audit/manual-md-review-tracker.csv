@@ -3676,11 +3676,11 @@ src/data/lyrics/yaad-aaogi-zahra.md,standalone_lyrics,imported,nohayonline,pendi
 src/data/lyrics/yaad-aayi-na-tumhe.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,first_sweep,,"Need audio/print: s1 ""likhi huṅ ye naama""; s3 Urdu ""waalid"" vs Roman ""waalida""."
 src/data/lyrics/yaad-e-sehwan.md,standalone_lyrics,imported,tajpoints,pending,partial_review,partial_review,reviewed,not_applicable,reviewed,first_sweep,,"Need Urdu poster/audio: s3 ""moti ikattha the""; s9 ""takhayyul mein khalal wala"" and ""meri naa ummidi ko ummid mein badla"". Confirm these source readings and their Urdu transcription."
 src/data/lyrics/yaad-zainab-ko.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,first_sweep,,
-src/data/lyrics/yaade-shabbir-mein.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/yaqeen-nahi-aate.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/yarab-ye-iltemas.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/yasrab-ke-musafir.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/yasrab-nu-jawana-aye-lyrics-in-punjabi-2003-mir-hasan-mir.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/yaade-shabbir-mein.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,,,"Need audio/print: s3 ""mein thi tauq-e-giraan"" / ""میں تھی طوق گراں""; confirm thi vs tha."
+src/data/lyrics/yaqeen-nahi-aate.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
+src/data/lyrics/yarab-ye-iltemas.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,,,"Need audio/print: s1 second line ""گرجے بارگاہِ رسالت مآب میں"" vs Roman ""garche"" appears incomplete; s2 ""ہے آفتاب ہے کے دیہا مہتاب میں"" / ""hai aaftab hai ke deha mahtaab may"" is corrupt. Supply both full lines."
+src/data/lyrics/yasrab-ke-musafir.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
+src/data/lyrics/yasrab-nu-jawana-aye.md,standalone_lyrics,imported,tajpoints,pending,partial_review,partial_review,reviewed,not_applicable,reviewed,,,"Need Punjabi reader with audio/poster: confirm s1 ""lariyaan"", s3 ""Kulla"" and ""gut"", s5 ""janj layi te khana lasan"", s6 ""Rah Rokiya ... Ghali Da"", s7 ""Ghairat-e-Mawali"" and final ""Kainat Khawana Aye""; verify corresponding Shahmukhi spellings."
 src/data/lyrics/yateemo-ka-sahara.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/yateemon-pe-kabhi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/ye-aakhri-shab-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
