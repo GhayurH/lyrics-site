@@ -161,7 +161,10 @@ text = text.replace(section,
     "- The user edited Basta pages **363, 380, 381, 388, 389, 391**. "
     "An independent catalog comparison found ten affected Basta kalams, all with "
     "**zero individually locked stanzas**, so no stanza IDs or Basta kalam IDs "
-    "need changing. All Basta identity-lock records remain identical to @@main@@.\n"
+    "need changing. All Basta identity-lock records remain identical to @@main@@. "
+    "The Basta index titles are synchronized to the edited Urdu/Roman pages, "
+    "including the individually verified Muhammad-e-Baqir title on page 381; "
+    "index section numbers and printed page assignments are unchanged.\n"
     "- Both existing CSV trackers retain all removed paths as historical "
     "review records and preserve provenance, prior review notes, and the "
     "distinction between original and round-one source files.\n\n" + section)
