@@ -29,7 +29,7 @@ jobs:
               entries=sorted(records[key].items(),key=lambda x:(-len(x[1]),x[0]))
               print('CENSUS',key,'UNIQUE',len(entries))
               for v,files in entries[:130]:
-                  print('VALUE',key,repr(v),'COUNT',len(files),'EXAMPLE',files[0])
+                  print('VALUE',key,repr(v),'COUNT',len(files),'FILES',','.join(files) if key in ('language','lang','tags','kalamType') and (key!='kalamType' or v=='Salaam') else files[0])
           for key in ('poet','reciter'):
               entries=sorted(records[key].items(),key=lambda x:(-len(x[1]),x[0]))
               print('CENSUS',key,'UNIQUE',len(entries),'TOP',[(k,len(v)) for k,v in entries[:25]])
