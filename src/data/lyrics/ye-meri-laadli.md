@@ -6,68 +6,69 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
+reciter: "Raza Abbas Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ye meri laadli haye sakina
-  Chale jab aakhri ruqsat ko sarwar
+  Ye meri laadli haaye Sakina
 
   1
-  Kaha zainab se ay mazloom khwahar
-  Zara le aao tum baqar ko jaa kar
-  Jab aaya ibne abid hukm paa kar
-  Kaha baqar se sheh ne gham na karna
-  Ke tere saath hai meri sakina
+  Chale jab aakhri rukhsat ko Sarwar
+  Kaha Zainab se ae mazlum khwaahar
+  Zara le aao tum Baaqir ko jaa kar
+  Jab aaya ibn-e-Aabid hukm paa kar
+  Kaha Baaqir se Shah ne gham na karna
+  Ke tere saath hai meri Sakina
 
   2
-  Ye khud pyasi rahegi dukh sahegi
-  Magar pyasa tumhe rehne na degi
+  Ye khud pyaasi rahegi dukh sahegi
+  Magar pyaasa tumheiṅ rahne na degi
   Ye khud ro kar tujhe rone na degi
-  Ye raahe shaam mein saaya karegi
-  Tujhe ek pal na chodegi akela
+  Ye raah-e-Shaam meiṅ saaya karegi
+  Tujhe ek pal na chhoregi akela
 
   3
-  Kaha zainab se phir ay meri khwahar
-  Chinegi jab tumhare sar se chadar
-  Tamache kha ke bhi ye meri dukhtar
-  Kabhi hone na degi tumko muztar
-  Ye balon se karegi tum pe saaya
+  Kaha Zainab se phir ae meri khwaahar
+  Chhinegi jab tumhaare sar se chaadar
+  Tamaache khaa ke bhi ye meri dukhtar
+  Kabhi hone na degi tum ko muztar
+  Ye baaloṅ se karegi tum pe saaya
 
   4
-  Jaga kar ghash se ye abid ko bole
-  Hussain ibne ali ay laal mere
-  Jab hongi bediyan pairon mein tere
-  Sitamgar jab tujhe sone na denge
-  Karegi tauq ko ashkon se thanda
+  Jagaa kar ghash se ye Aabid ko bole
+  Husain ibn-e-Ali ae laal mere
+  Jab hoṅgi beriyaaṅ pairoṅ meiṅ tere
+  Sitamgaar jab tujhe sone na deṅge
+  Karegi tauq ko ashkoṅ se thanda
 
   5
-  Agarche kaan honge uske zakhmi
-  Bandhi hongi galay mein uske rassi
-  Kayi din aur kayi shab ki ye jaagi
+  Agarche kaan hoṅge us ke zakhmi
+  Bandhi hoṅgi gale meiṅ us ke rassi
+  Kai din aur kai shab ki ye jaagi
   Kisi pe dukh na ye zaahir karegi
-  Har ek pal dhyan rakhegi tumhara
+  Har ek pal dhyaan rakhegi tumhaara
 
   6
-  Isay seene pe tum apne sulana
-  Sare naiza mera sar na dikhana
-  Hamari laash pe isko na laana
-  Na dil iska kabhi zainab dukhana
-  Na dekhe zakhmi akbar ka kaleja
+  Ise sine pe tum apne sulaana
+  Sar-e-naiza mera sar na dikhaana
+  Hamaari laash pe is ko na laana
+  Na dil is ka kabhi Zainab dukhaana
+  Na dekhe zakhmi Akbar ka kaleja
 
   7
-  Ali asghar jo tha chota sa bhaiya
-  Hai sar uska sina par ye na kehna
-  Mila hai khaak ka isko bichono
-  Tadap kar jaan dedegi sakina
-  Bhala dekhegi kyun asghar ka laasha
+  Ali Asghar jo tha chhota sa bhaiya
+  Hai sar us ka sinaaṅ par ye na kahna
+  Mila hai khaak ka is ko bichhauna
+  Tarap kar jaan de degi Sakina
+  Bhala dekhegi kiuṅ Asghar ka laasha
 
   8
-  Ye keh kar rodiye khud shaahe wala
-  Likho rehaan us manzar pe noha
-  Raza jisko padhe qarya ba qarya
-  Har ek ahle aza ho mehve girya
-  Kahe maula dua degi hamesha
+  Ye kah kar ro diye khud shaah-e-waala
+  Likho Rehaan us manzar pe nauha
+  Raza jis ko parhe qarya ba qarya
+  Har ek ahl-e-azaa ho mahv-e-girya
+  Kahe Maula dua degi hamesha
 # source_id: nohayonline:cea98b048358d5e41583
 # source_url: https://www.nohayonline.com/details_content.php?id=544
 # raw_sha256: 0cc33bbaedfda38b472b159c479a3070e81492e859c220b9ca0109a185df3b82
@@ -76,14 +77,14 @@ romanLyrics: |-
 # raw_sha256: 5cac67abc562a4233d03fa3769fa098193c8c088fad458e858e6c9f3fb4bc555
 ---
 یہ میری لاڈلی ہائے سکینہ
-چلے جب آخری رُخصت کو سرور
 
 ۱
+چلے جب آخری رُخصت کو سرور
 کہا زینب سے اے مظلوم خواہر
-ذرا لے آئو تم باقر کو جا کر
+ذرا لے آؤ تم باقر کو جا کر
 جب آیا ابنِ عابد حکم پا کر
-کہا باقر سے شہہ نے غم نہ کرنا
-کے تیرے ساتھ ہے میری سکینہ
+کہا باقر سے شہ نے غم نہ کرنا
+کہ تیرے ساتھ ہے میری سکینہ
 
 ۲
 یہ خود پیاسی رہے گی دُکھ سہے گی
@@ -102,22 +103,22 @@ romanLyrics: |-
 ۴
 جگا کر غش سے یہ عابد کو بولے
 حسین ابنِ علی اے لال میرے
-جب ہونگی بیڑیاں پیروں میں تیرے
-ستمگار جب تجھے سونے نہ دینگے
+جب ہوں گی بیڑیاں پیروں میں تیرے
+ستمگار جب تجھے سونے نہ دیں گے
 کرے گی طوق کو اشکوں سے ٹھنڈا
 
 ۵
-اگرچہ کان ہونگے اُس کے زخمی
-بندھی ہو گی گلے میں اُس کے رسی
+اگرچہ کان ہوں گے اُس کے زخمی
+بندھی ہوگی گلے میں اُس کے رسی
 کئی دن اور کئی شب کی یہ جاگی
 کسی پہ دُکھ نہ یہ ظاہر کرے گی
 ہر اک پل دھیان رکھے گی تمہارا
 
 ۶
 اسے سینے پہ تم اپنے سُلانا
-سرِ نیزہ میرا سر نہ دیکھانا
+سرِ نیزہ میرا سر نہ دکھانا
 ہماری لاش پہ اس کو نہ لانا
-نہ دل اسکا کبھی زینب دُکھانا
+نہ دل اس کا کبھی زینب دُکھانا
 نہ دیکھے زخمی اکبر کا کلیجہ
 
 ۷
@@ -130,6 +131,6 @@ romanLyrics: |-
 ۸
 یہ کہہ کر رو دیئے خود شاہِ والا
 لکھو ریحان اُس منظر پہ نوحہ
-رضا جس کو پڑھے کریہ با کریہ
+رضا جس کو پڑھے قریہ بہ قریہ
 ہر اک اہلِ عزا ہو محوِ گریہ
 کہے مولا دعا دے گی ہمیشہ

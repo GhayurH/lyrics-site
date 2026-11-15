@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Sirsvi"
+reciter: "Ali Jee"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -13,51 +14,67 @@ romanLyrics: |-
   Ye meri dua hai
 
   1
-  Zehra ne kaha matame sarwar na rukega
+  Zehra ne kaha maatam-e-Sarwar na rukega
   Ye meri dua meri dua meri dua hai
-  Islam sada zinda o pa'inda rahega
+  Zehra ne kaha maatam-e-Sarwar na rukega
+  Islam sadaa zinda o paainda rahega
+  Ye meri dua meri dua meri dua hai
 
   2
-  Ek pyase ne sajda jo tahe taygh kiya hai
-  Tab jaake kahin deen payambar ka bacha hai
-  Ye aur kisi ne nahi zehra ne kaha hai
-  Paighame hussain ibne ali zinda rahega
+  Ek pyaase ne sajda jo tah-e-tegh kiya hai
+  Tab jaa ke kahiṅ din Payambar ka bachaa hai
+  Ye aur kisi ne nahiṅ Zehra ne kaha hai
+  Paighaam-e-Husain ibn-e-Ali zinda rahega
+  Islam sadaa zinda o paainda rahega
+  Ye meri dua meri dua meri dua hai
 
   3
-  Hum matami shabbir ke hum ahle aza hai
-  Hum qalbe payambar ke dhadakne ki sada hai
-  Hum maadare shabbir ki maqsoos dua hai
-  Haathon mein sada parchame abbas rahega
+  Ham maatami Shabbir ke ham ahl-e-azaa haiṅ
+  Ham qalb-e-Payambar ke dharakne ki sadaa haiṅ
+  Ham maadar-e-Shabbir ki makhsus dua haiṅ
+  Haathoṅ meiṅ sadaa parcham-e-Abbas rahega
+  Islam sadaa zinda o paainda rahega
+  Ye meri dua meri dua meri dua hai
 
   4
-  Hai ulfate shabbir meri maa ki amanat
-  Ghutti mein pilaai hai shahe deen ki mohabbat
-  Hai taziyadari meri maqsoos ibadat
-  Har daur mein sikka ghame sarwar ka chalega
+  Hai ulfat-e-Shabbir meri maaṅ ki amaanat
+  Ghutti meiṅ pilaai hai shaah-e-diṅ ki mohabbat
+  Hai taaziyaadaari meri makhsus ibaadat
+  Har daur meiṅ sikka gham-e-Sarwar ka chalega
+  Islam sadaa zinda o paainda rahega
+  Ye meri dua meri dua meri dua hai
 
   5
-  Khush honge nabi majlise shabbir mein aao
-  Hurr banke chalo bigde muqaddar ko banao
-  Mazloom ke matam mein zara ashk bahao
-  Ghazi ka alam dhoop mein saaya tumhe dega
+  Khush hoṅge Nabi majlis-e-Shabbir meiṅ aao
+  Hur ban ke chalo bigre muqaddar ko banaao
+  Mazlum ke maatam meiṅ zara ashk bahaao
+  Ghaazi ka alam dhup meiṅ saaya tumheiṅ dega
+  Islam sadaa zinda o paainda rahega
+  Ye meri dua meri dua meri dua hai
 
   6
-  Hum amn ka paigham sunaate hai jahan ko
-  Ashoor ko kya guzri bataate hai jahan ko
-  Farshe ghame sarwar pe bulaate hai jahan ko
+  Ham amn ka paighaam sunaate haiṅ jahaaṅ ko
+  Aashur ko kya guzri bataate haiṅ jahaaṅ ko
+  Farsh-e-gham-e-Sarwar pe bulaate haiṅ jahaaṅ ko
   Is dar pe jo aaya hai wo izzat se jiyega
+  Islam sadaa zinda o paainda rahega
+  Ye meri dua meri dua meri dua hai
 
   7
-  Baakhi hai azan akbar e dilgeer ke dam se
-  Sajda hai bacha hazrate shabbir ke dam se
-  Baakhi hai haya zainab e dilgeer ke dam se
-  Aandhi mein charaghe ghame shabbir jalega
+  Baaqi hai azaaṅ Akbar-e-dilgir ke dam se
+  Sajda hai bachaa Hazrat-e-Shabbir ke dam se
+  Baaqi hai hayaa Zainab-e-dilgir ke dam se
+  Aandhi meiṅ charaagh-e-gham-e-Shabbir jalega
+  Islam sadaa zinda o paainda rahega
+  Ye meri dua meri dua meri dua hai
 
   8
-  Mehsoos ye hota hai raza kehti hai zehra
-  Padte raho yuhin mere shabbir ka nauha
-  Khud aaungi mai sun ne ali jee jo padhega
-  Jo royega jannat mein mere saath rahega
+  Mahsus ye hota hai Raza kahti haiṅ Zehra
+  Parhte raho yuṅhi mere Shabbir ka nauha
+  Khud aauṅgi maiṅ sunne Ali Jee jo parhega
+  Jo royega jannat meiṅ mere saath rahega
+  Islam sadaa zinda o paainda rahega
+  Ye meri dua meri dua meri dua hai
 # source_id: nohayonline:394655322bda41ab8033
 # source_url: https://www.nohayonline.com/details_content.php?id=850
 # raw_sha256: 7a59f4fcfc4bf5eb680c9eb796249d4ee1279bcd2fbcc7ffe585982658eebf14
@@ -67,46 +84,62 @@ romanLyrics: |-
 ۱
 زہرا نے کہا ماتم سرور نہ رکے گا
 یہ میری دعا میری دعا میری دعا ہے
-اسلام صدا زندہ و پائندہ رہے گا
+زہرا نے کہا ماتم سرور نہ رکے گا
+اسلام سدا زندہ و پائندہ رہے گا
+یہ میری دعا میری دعا ہے میری دعا ہے
 
 ۲
 اک پیاسے نے سجدہ تو تہہ تیغ کیا ہے
 تب جاکے کہیں دین پیمبر کا بچا ہے
 یہ اور کسی نے نہیں زہرا نے کہا ہے
 پیغام حسین ابن علی زندہ رہے گا
+اسلام سدا زندہ و پائندہ رہے گا
+یہ میری دعا میری دعا میری دعا ہے
 
 ۳
 ہم ماتمی شبیر کے ہم اہل عزا ہیں
 ہم قلب پیمبر کے دھڑکنے کی صدا ہیں
 ہم مادر شبیر کی مخصوص دعا ہیں
-ہاتھوں میں صدا پرچم عباس رہے گا
+ہاتھوں میں سدا پرچم عباس رہے گا
+اسلام سدا زندہ و پائندہ رہے گا
+یہ میری دعا میری دعا میری دعا ہے
 
 ۴
 ہے الفت شبیر میری ماں کی امانت
-گھٹی میں پلای ہے شہ دیں کی محبت
+گھٹی میں پلائی ہے شہ دیں کی محبت
 ہے تعزیہ داری میری مخصوص عبادت
 ہر دور میں سکہ غم سرور کا چلے گا
+اسلام سدا زندہ و پائندہ رہے گا
+یہ میری دعا میری دعا میری دعا ہے
 
 ۵
-خوش ہونگے نبی مجلسِ شبیر میں آؤ
+خوش ہوں گے نبی مجلسِ شبیر میں آؤ
 حر بن کے چلو بگڑے مقدر کو بناؤ
-مظلوم کے ماتم میں زرا آشک بہاؤ
-غازی کا علم دھوپ میں سایہ تمہیں دیگا
+مظلوم کے ماتم میں ذرا اشک بہاؤ
+غازی کا علم دھوپ میں سایہ تمہیں دے گا
+اسلام سدا زندہ و پائندہ رہے گا
+یہ میری دعا میری دعا میری دعا ہے
 
 ۶
-ہم امن کا پیغام سناتے جہاں کو
+ہم امن کا پیغام سناتے ہیں جہاں کو
 عاشور کو کیا گزری بتاتے ہیں جہاں کو
 فرش غم سرور پہ بلاتے ہیں جہاں کو
 اس در پہ جو آیا ہے وہ عزت سے جیے گا
+اسلام سدا زندہ و پائندہ رہے گا
+یہ میری دعا میری دعا میری دعا ہے
 
 ۷
 باقی ہے اذاں اکبر دلگیر کے دم سے
 سجدہ ہے بچا حضرت شبیر کے دم سے
 باقی ہے حیا زینب دلگیر کے دم سے
 آندھی میں چراغ غم شبیر جلے گا
+اسلام سدا زندہ و پائندہ رہے گا
+یہ میری دعا میری دعا میری دعا ہے
 
 ۸
 محسوس یہ ہوتا ہے رضا کہتی ہیں زہرا
 پڑھتے رہو یونہی میرے شبیر کا نوحہ
-قد آؤنگی میں سننے علی جی جو پڑھے گا
-جو روے گا جنت میں میرے ساتھ رہے گا
+خود آؤں گی میں سننے علی جی جو پڑھے گا
+جو روئے گا جنت میں میرے ساتھ رہے گا
+اسلام سدا زندہ و پائندہ رہے گا
+یہ میری دعا میری دعا میری دعا ہے
