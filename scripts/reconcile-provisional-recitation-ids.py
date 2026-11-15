@@ -142,8 +142,15 @@ note(merged_row, "Consolidated into " + full(renamed_to) +
 old_path, new_path = full(renamed_from), full(renamed_to)
 old_review = next((row for row in review_rows if row["path"] == old_path), None)
 new_review = next((row for row in review_rows if row["path"] == new_path), None)
-assert not (old_review and new_review), "Review tracker contains both old and new rename paths"
-if old_review:
+if old_review and new_review:
+    # Both paths were independently tracked in the pre-merge editorial review.
+    # Keep the old row as a historical rename record, and keep the new row's
+    # already documented review rather than overwriting it.
+    old_review["duplicate_pass"] = "renamed"
+    note(old_review, "Renamed to " + new_path +
+         "; previous provisional ID purged, not retired.")
+    row = new_review
+elif old_review:
     old_review["path"] = new_path
     row = old_review
 else:
@@ -189,7 +196,8 @@ round_check = open_csv(ROUNDS)[1]
 assert len(review_check) == len(review_rows)
 assert len(round_check) == len(round_rows)
 review_map = {row["path"]: row for row in review_check}
-assert new_path in review_map and old_path not in review_map
+assert new_path in review_map
+assert old_path not in review_map or review_map[old_path]["duplicate_pass"] == "renamed"
 assert all(review_map[full(name)]["duplicate_pass"] == "removed_duplicate"
            for name in deleted)
 assert review_map[full(merged)]["duplicate_pass"] == "consolidated"
