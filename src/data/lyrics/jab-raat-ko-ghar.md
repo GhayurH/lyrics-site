@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aaja Ali Akbar aaja Ali Akbar
   Jab raat ko ghar mein na tumheṅ paayegi Sughra

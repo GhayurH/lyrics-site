@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Salman Azmi"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Safar E Ishq"]
-published: false
+published: true
 romanLyrics: |-
   Lo aa gaya bulaawa Sultaan-e-Karbala ka
   Jaaga hai muqaddar phir mehmaan-e-Karbala ka

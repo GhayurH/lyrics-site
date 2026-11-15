@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Sibte Jafar"
 reciter: "Sibte Jafar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jo zer-e-kisaa parwaan charhe
   Zainab aisi hasti hai

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Naqvi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ya Zahra maadar jaan
 

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shaukath Bilgrami"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Teri shaadi ka armaan Sughra ko tha
   Us ke lab par hai shaam o sehar ye dua

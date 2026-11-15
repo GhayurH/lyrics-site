@@ -84,7 +84,6 @@ romanLyrics: |-
   Ae Raza haal Zishan kaise likhe
   Jab janaza utha, ghar meiṅ kohraam tha
   Ro ke Abbas ne bhaiyoṅ se kaha
-
 ---
 
 بیٹیاں تھیں، جنازہ تھا، احساس تھا

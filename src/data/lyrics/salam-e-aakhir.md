@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Salam"
 poet: "Aale Raza"
 reciter: "Nasir Jahan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Salam khaak nashinoṅ pe sogwaaroṅ ka
   Gharib dete haiṅ pursa tumhaare pyaaroṅ ka

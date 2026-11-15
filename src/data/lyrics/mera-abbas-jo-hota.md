@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Yuṅ rasan basta na hoti kabhi Bint-e-Zehra
   Mera Abbas jo hota mera Abbas jo hota

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sadaaeṅ de rahi hai aaj tak ye Karbala
   Husain tum nahiṅ rahe tumhara ghar nahiṅ raha

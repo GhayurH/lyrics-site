@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Qaiser Kaleem"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ibn-e-Hasan ka laasha paamaal ho gaya hai
   Tukre uthaane ran meiṅ Shabbir ki abaa hai

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ahmed Naved"
 reciter: "Kazmi Brothers"
-tags: ["noImage"]
+tags: []
 aliases: ["Kufe Ke Shehriyo Ko"]
-published: false
+published: true
 romanLyrics: |-
   Keh do koi hawa se khaak is tarah uraaye
   Kufe ke shehriyoṅ ko Zainab nazar na aaye

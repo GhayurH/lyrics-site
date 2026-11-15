@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Nasir Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jari diler-e-alamdaar baawafa Abbas
 

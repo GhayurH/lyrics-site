@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anees"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: ["Ya Rab Hussain Jaisa"]
-published: false
+published: true
 romanLyrics: |-
   Ya Rab Husain jaisa koi bewatan na ho
   Zainab ki tarah koi asir-e-mihan na ho

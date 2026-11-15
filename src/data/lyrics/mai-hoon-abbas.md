@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
 reciter: "Mir Sajjad Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Main huṅ Abbas mere dar pe tum aise aana
   Naam mera hai zamaane ko adab sikhlaana

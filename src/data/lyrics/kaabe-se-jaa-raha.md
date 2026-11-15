@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ainee Rizvi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jis waqt ye zamaana Makka mein aa raha hai
   Tera Husain tere Kaabe se jaa raha hai

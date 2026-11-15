@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Jawad Mir & Mir Qasim Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Jeete Raho Auno"]
-published: false
+published: true
 romanLyrics: |-
   Ae mere pyaaroṅ raaj dulaaroṅ
   Raazi hui maaṅ khuld sidhaaro

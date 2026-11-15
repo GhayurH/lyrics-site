@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Tableegh-e-Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Pukari shaana hila ke maadar
   Utho Sakina sehar hui hai

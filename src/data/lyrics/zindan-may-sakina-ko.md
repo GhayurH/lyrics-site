@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Yusuf Sardar"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: ["Zindan May Sakina Ko"]
-published: false
+published: true
 romanLyrics: |-
   Zindaaṅ mein Sakina ko yaad aaya woh sina
   Jis sine pe soti thi maasum Sakina

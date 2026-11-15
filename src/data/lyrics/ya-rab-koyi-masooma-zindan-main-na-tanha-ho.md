@@ -13,19 +13,19 @@ published: true
 romanLyrics: |-
   Ya Rab Koyi Masuma, Zindan Meiṅ Na Tanha Ho
   Paband Na Hoṅ Aaheiṅ, Rone Pe Na Pehra Ho
-  
+
   1
   Thi Jis Ko Nind Aati, Shabbir Ke Sine Par
   Zinda Dar-e-Zindaṅ, Uske Liye Qaza Ho
-  
+
   2
   Zindanoṅ Se Aati Thi, Awaaz Sisakne Ki
   Jaise Ke Sakina Ko, Har Zindaṅ Ro Raha Ho
-  
+
   3
   Takraye Na Woh Kiuṅ Kar, Zindan Ki Diwaroṅ Se
   Bhai Se Aur Phuphi Se, Jisko Juda Kiya Ho
-  
+
   4
   Zindan Maiṅ Ae Najafi, Yaad Aayi Sakina Ki
   Dil Ro Ro Keh Raha Hai, Ab Na Ujala Ho

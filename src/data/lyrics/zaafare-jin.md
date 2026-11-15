@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Majid Raza Abidi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jo pahuncha asr ko dasht-e-bala mein Zaafar-e-jinn
   Ghira ajib gham-e-naarwaaṅ mein Zaafar-e-jinn

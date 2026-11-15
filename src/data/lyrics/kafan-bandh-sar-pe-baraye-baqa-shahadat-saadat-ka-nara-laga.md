@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Yasir Raza Yasir"
 reciter: "Syed Wajhi Hasan Zaidi; Mir Hasan Mir; Mukhtar Husain Fatehpuri; Ali Safdar; Rizwan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Kafan Bandh Sar Pe Baraye Baqa Shahadat Saadat Ka Nara Laga"]
-published: false
+published: true
 romanLyrics: |-
   Kafan baandh sar pe baraaye baqa shahaadat saaadat ka naara laga
   Ye kaar-e-shujaaat hai kar ibtida shahaadat saaadat ka naara laga

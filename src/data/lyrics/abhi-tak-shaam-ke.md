@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Hasnain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Shadman Raza"
 romanLyrics: |-
   Janaza jis ka chhupaae the shab ki tariki

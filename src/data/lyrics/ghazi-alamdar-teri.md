@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ghazi alamdar teri qasam
   Jhukne nahiṅ denge tera alam

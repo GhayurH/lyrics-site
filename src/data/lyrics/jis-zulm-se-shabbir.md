@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Faazil Lakhnavi"
 poet: "Salik Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jis zulm se Shabbir ke khaimoṅ mein lagi aag
   Aisi to kisi daur mein dekhi na suni aag

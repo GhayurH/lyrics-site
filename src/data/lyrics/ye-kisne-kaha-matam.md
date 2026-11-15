@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Izzat Lakhnavi"
 reciter: "Izzat Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sadaa-e-maatam-e-Shabbir aaj tak na dabi
   Ghurur tut gaya kis ne kab suna hoga

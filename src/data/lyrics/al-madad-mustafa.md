@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Naat"
 poet: "Mohsin Naqvi"
-tags: ["noImage"]
+tags: []
 aliases: ["al-madad-mustafa-naat-mohsin-naqvi"]
-published: false
+published: true
 romanLyrics: |-
   Jal rahe haiṅ badan dard ki dhup mein
   Zindagi dhal gayi zakhm ke rup mein

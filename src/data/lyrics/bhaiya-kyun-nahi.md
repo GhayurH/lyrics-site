@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Bhaiya Kyun Nahi"]
-published: false
+published: true
 romanLyrics: |-
   Puchh rahi hai Karbobala ke rastoṅ se bemaar
   Bhaiya kiuṅ nahiṅ aaye

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Imran Jatki"
 reciter: "Kazmi Brothers"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Assalaam alaik ya mahruma
   Assalaam alaik ya mazluma

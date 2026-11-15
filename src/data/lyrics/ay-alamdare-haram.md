@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar & J. Jaffri"
 reciter: "Ali Jee"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Alamdare Haram"]
-published: false
+published: true
 romanLyrics: |-
   Ae alamdar-e-haram
 

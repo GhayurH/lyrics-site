@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Sajjad Zaidi"
 poet: "Gohar Jarchvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Amma main jaa raha huṅ deen-e-Khuda bachaane
   Phir aauṅ ya na aauṅ waapas Khuda hi jaane

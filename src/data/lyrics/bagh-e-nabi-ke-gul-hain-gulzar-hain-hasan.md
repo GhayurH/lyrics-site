@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Farman Zaki"
-tags: ["noImage"]
+tags: []
 aliases: ["Bagh-e-Nabi Ke Gul Hain Gulzar Hain Hasan"]
-published: false
+published: true
 romanLyrics: |-
   Baagh-e-Nabi ke gul haiṅ gulzaar haiṅ Hasan
   Beshaq ke imamat ke taajdaar haiṅ Hasan

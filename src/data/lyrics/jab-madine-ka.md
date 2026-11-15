@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ameer Hussain Mashadi"
 reciter: "Nasir Jahan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jab Madine ka musaafir koi paa jaata huṅ
   Hasrat aati hai ye pahuncha main raha jaata huṅ

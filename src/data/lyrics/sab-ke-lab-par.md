@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Moosi Raza Nazmi"
 reciter: "Afzal Mirza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sab ke lab par siskiyaaṅ haiṅ Karbala se shaam tak
   Baazuoṅ mein rassiyaaṅ hai Karbala se shaam tak

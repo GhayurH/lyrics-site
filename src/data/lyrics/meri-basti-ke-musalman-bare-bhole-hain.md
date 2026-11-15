@@ -13,43 +13,43 @@ romanLyrics: |-
   1
   Haq ke baato se haiṅ anjaan bare bhole haiṅ
   meri basti ke musalman bare bhole haiṅ
-  
+
   2
   Haiṅ tabbarre se pareshan bare bhole haiṅ
   Lanatieṅ kiuṅ Na Ho qurban bare bhole Haiṅ
-  
+
   3
   Ghar se nikale thai kharidaar-e-Jannat ke liye
   Bech kar aa gaye imaan bare bhole Haiṅ
-  
+
   4
   Roz parhte Haiṅ Magar ghaur nahi kar paate
   Aaj ke Hafiz-e-Quran bare bhole haiṅ
-  
+
   5
   Ae Khadija tere tukroṅ pe ye palne wale
   Are bhul baithe tere ahsaan bare bhole haiṅ
-  
+
   6
   Inko aashur ke faqe se nhi rabt koyi
   Naam hai maulvi ramzan bare bhole haiṅ
-  
+
   7
   bughz-e-haider meiṅ suwe naar chale jaate haiṅ
   haye bechare musalmaan bare bhole haiṅ
-  
+
   8
   meiṅ likhuṅ unka taarruf ye mere bas meiṅ kahaṅ
   unki hai bas ye pehchan bare bhole haiṅ
-  
+
   9
   Ghar meiṅ khaliq ke saqifah ke Khalifa ki tarah
   Yeh tarashe hue Bhagwan bare bhole haiṅ
-  
+
   10
   nargha-e-kufr meiṅ mehbub-e-khuda ko tanha
   chor aaye sar-e-maidan bare bhole haiṅ
-  
+
   11
   karke bethe haiṅ gham-e-shah-e-huda ka sauda
   are qaum o millat ke nighehbaan bare bhole haiṅ

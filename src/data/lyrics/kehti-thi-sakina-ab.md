@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kehti thi Sakina aa jaao Baaba ab aa jaao
   Lillaah na itna tarpaao

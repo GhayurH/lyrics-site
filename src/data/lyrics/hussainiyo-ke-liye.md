@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Azhar"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Hussainiyo Ke Liye"]
-published: false
+published: true
 romanLyrics: |-
   Husainiyoṅ ke liye josh o walwala Abbas
   Yazidiyoṅ ke liye qahr-e-kibriya Abbas

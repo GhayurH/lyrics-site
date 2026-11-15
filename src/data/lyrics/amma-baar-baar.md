@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zindan-e-Shaam mein jahaaṅ Bibi ka hai mazaar
   Raatoṅ ko dhimi dhimi si aati hai ek pukaar

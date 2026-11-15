@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: ["Jalte Hue Qaime Hai"]
-published: false
+published: true
 romanLyrics: |-
   Hai Dukhtar-e-Sher-e-Khuda jo Karbala mein hai berida
 

@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "N. Sarwar & J. Jaffri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Har dam har dam ku ba ku Ya Ali Ya Ali Ya Ali
 

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Hukm-e-Shabbir se jo zabt ki diwaar hua
   Shakl-e-Haidar mein wohi Haidar-e-Karraar hua

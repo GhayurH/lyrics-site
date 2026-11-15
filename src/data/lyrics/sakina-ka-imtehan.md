@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ammu jaan ae Ammu jaan
 

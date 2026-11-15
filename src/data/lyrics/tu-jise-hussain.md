@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Tu Jise Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Marhaba Husain marhaba
   Teri shaan marhaba

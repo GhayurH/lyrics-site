@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Zainab Hoo Mai"]
-published: false
+published: true
 romanLyrics: |-
   Zainab ne khutba diya darbar hilne laga
   Khutbaat ki tegh se ye keh ke hamla kiya

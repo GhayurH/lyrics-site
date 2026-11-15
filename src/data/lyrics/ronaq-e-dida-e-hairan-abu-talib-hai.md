@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Iftikhar Haider"
-tags: ["noImage"]
+tags: []
 aliases: ["ronaq-e-dida-e-hairan-abu-talib-hai-lyrics-2023"]
-published: false
+published: true
 romanLyrics: |-
   Ronaq-e-dida-e-hairaaṅ Abu Talib hai
   Roshni taa hadd-e-imkaan Abu Talib hai

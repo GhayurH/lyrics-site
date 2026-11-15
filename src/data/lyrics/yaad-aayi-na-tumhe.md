@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hilmi Afandi"
 reciter: "Alamdar Razvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Yaad aayi na tumheṅ Fatima Sughra Baba
   Karbala jaa ke mujhe bhul gaye kya Baba

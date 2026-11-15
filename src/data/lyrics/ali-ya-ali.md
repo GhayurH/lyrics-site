@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mohib Fazli"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Afsos Ali ka ummat ne
   Sajde meiṅ khun bahaya hai

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Dilawar Hasan"
 poet: "Ishrat Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bata rahi hai diloṅ ki barhi hui dharkan
   Atash ki aag se ab tak jhulas raha hai badan

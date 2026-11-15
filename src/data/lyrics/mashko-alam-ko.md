@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 sixVerseLayout: "pairs"
 reciter: "Mustufa Mirza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   1
   Mashk o alam ko le ke jo waapas hue Husain

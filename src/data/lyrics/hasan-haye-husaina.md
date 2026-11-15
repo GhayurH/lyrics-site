@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anees Pehersari"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haaye Husaina
   Hasan haaye Husaina

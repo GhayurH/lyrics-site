@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ya Zehra ya Zehra ya Zehra aa jaao
   Bichh gaya farsh-e-aza Fatema Zehra aao

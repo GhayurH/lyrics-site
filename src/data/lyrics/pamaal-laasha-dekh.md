@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Paamaal laasha dekh ke kehti haiṅ Bibiyaaṅ
   Zahra ki tarah tuti haiṅ Qasim ki pasliyaaṅ

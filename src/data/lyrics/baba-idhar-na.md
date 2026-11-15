@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Raza Surani"
 reciter: "Ali Mohd. Sultanpuri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Hua ye shor ke ghore se gir gaye Akbar
   Husain aaye hain maqtal mein ghutniyoṅ chal kar

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Mukhtar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: ["Faryad Hai Baba"]
-published: false
+published: true
 romanLyrics: |-
   Zainab ye buka aaj bhi karti hai khule sar
   Faryaad hai Baba

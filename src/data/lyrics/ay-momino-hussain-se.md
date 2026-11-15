@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Marsiya"
 poet: "Mirza Dabeer"
 reciter: "Himayath Ali Taha"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Momino Hussain Se"]
-published: false
+published: true
 romanLyrics: |-
   Ae mominoṅ Husain se maqtal qarib hai
   Aakhir hai umr manzil-e-awwal qarib hai

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zafar Abbas"
 reciter: "Sajid Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Masjid-e-Kufa mein zakhmi ho gaya ek rozadaar
   Zainab o Kulsum ki ab khair ho Parwardigaar

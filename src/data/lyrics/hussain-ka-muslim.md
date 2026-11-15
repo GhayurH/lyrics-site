@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Naqsh Kazmi"
 reciter: "Karbalai Brothers"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Gharib ho gaya kitna Husain ka Muslim
   Hua hai Kufe mein tanha Husain ka Muslim

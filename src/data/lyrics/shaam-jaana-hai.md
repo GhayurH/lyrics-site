@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Irfan Haider"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Labbaik ya Zainab labbaik ya Zainab
   Labbaik ya Zainab labbaik ya Zainab

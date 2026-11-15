@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Tauqeer Zaidi"
 reciter: "Nasir Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bano kahaaṅ talaash kare apne laal ko
   Jangal mein maar daala hai Zehra ki aal ko

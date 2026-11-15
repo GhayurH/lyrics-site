@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anees"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jab Shaam ke zindaaṅ mein hui shaam haram ko
   Ek aan na raahat thi na aaraam haram ko

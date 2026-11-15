@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Nur Ali Nur"
 reciter: "Sajjad o Mesum Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["tiflan-e-muslim-sajjad-o-mesum-zaidi", "Tiflan E Muslim Sajjad O Mesum Zaidi"]
-published: false
+published: true
 romanLyrics: |-
   Muslim ke dono laal nawaase Ali ke haiṅ
 

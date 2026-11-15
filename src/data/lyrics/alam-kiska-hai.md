@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mohib Fazli"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Sachey Bhai"
 romanLyrics: |-
   Dabdaba kis ka hasham kis ka alam kis ka hai

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anees Pehersari"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: ["Hilale Mahe Moharam"]
-published: false
+published: true
 romanLyrics: |-
   Hilaal-e-maah-e-Muharram pe par gayi jo nazar
   To yaad aa gaya Zehra ke laal ka wo safar

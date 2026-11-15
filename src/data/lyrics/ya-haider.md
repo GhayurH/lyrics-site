@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nadeem Sarwar"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["من کنت و مولا فھازا علی یون مولا"]
-published: false
+published: true
 romanLyrics: |-
   Man kunto maula fa haza Ali un maula
   Jis ka main maula us ka tu Ali maula

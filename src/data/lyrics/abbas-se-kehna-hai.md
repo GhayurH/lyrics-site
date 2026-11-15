@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar & J. Jaffri"
 reciter: "Ali Jee"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ae Ishq-e-Husaini mujhe aijaz dikha de
   Tu meri aqidat ka mujhe aisa sila de

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Naize se Asghar ko nazar aayi jo maadar
   Dekha khula sar hai pareshaan hai muztar

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Salam"
 reciter: "Pyare Khan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Chala hai Karbala ko kaarwaaṅ aahista aahista
   Alam ki chhaa rahi hai badliyaaṅ aahista aahista

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Mita ke rakh diya baatil ka naam Zainab ne
   Payambarana kiya hai ye kaam Zainab ne

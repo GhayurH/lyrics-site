@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Kumail Jafri"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ye kahti thi baali Sakina tarap kar
   Udhar bezabaaṅ ko na le jaao baaba

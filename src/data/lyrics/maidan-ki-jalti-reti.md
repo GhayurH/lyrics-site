@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Israar"
 reciter: "Ashraf Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maidan ki jalti reti par
   Ek pyaase ki peshaani hai

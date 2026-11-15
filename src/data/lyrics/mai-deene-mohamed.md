@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Tauqeer Kamalvi"
 reciter: "Mukhtar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: ["Mai Deene Mohamed"]
-published: false
+published: true
 romanLyrics: |-
   Main din-e-Muhammad ko baqa dene chali huṅ
   Bimaar hai wo us ko shifa dene chali huṅ

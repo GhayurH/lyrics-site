@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hasan Abbas Ahsan"
 reciter: "Hadi Ali Khan Muslim"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Asr ka hangaam hai aur Zainab dilgir hai
 

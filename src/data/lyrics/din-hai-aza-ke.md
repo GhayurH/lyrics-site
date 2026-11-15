@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Zaidi"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: ["Din Hai Aza Ke"]
-published: false
+published: true
 romanLyrics: |-
   Din hai azaa ke logoṅ farsh-e-azaa bichhaao
   Gham apne bhul ke gham-e-Shah-e-diṅ manaao

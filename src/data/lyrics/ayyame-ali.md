@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Ayyame Ali"]
-published: false
+published: true
 romanLyrics: |-
   Shioṅ mein aaj kal ye qayaamat ke roz haiṅ
   Duniya se Bu Turaab ke rukhsat ke roz haiṅ

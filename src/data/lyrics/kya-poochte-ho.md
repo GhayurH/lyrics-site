@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: ["Kya Poochte Ho"]
-published: false
+published: true
 romanLyrics: |-
   Kya puchhte ho Abid-e-khasta jigar ka haal
 

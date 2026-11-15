@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zafar Abbas"
 reciter: "Nasir Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 # source_id: nohayonline:e07b1dbe10b634625f27
 # source_url: https://www.nohayonline.com/details_content.php?id=1884
 # raw_sha256: 9b4e9ee62d922c2f91dd038af7ab1626eb4c420951a4b0df8a170a2479120528

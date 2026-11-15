@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 reciter: "Raza Abbas Zaidi"
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Uth jaao Ali Asghar
   Aankheiṅ to zara kholo aise to nahiṅ rutho

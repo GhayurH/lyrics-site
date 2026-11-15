@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Raza Ali Meerza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Mayyat jawaaṅ pisar ki uthaai Husain ne
   Saari kamaai apni lutaai Husain ne

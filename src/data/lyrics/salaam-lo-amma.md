@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hasan Abidi"
 reciter: "Hadi Ali Khan Muslim"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ye boli beti ba-hasrat salaam lo ammaṅ
   Suno hamaari musibat salaam lo ammaṅ

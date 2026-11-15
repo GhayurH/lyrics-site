@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mahir Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Faazil Lakhnavi"
 romanLyrics: |-
   Ajal se bachane ko aansu bahae

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Hadi Ali Khan Muslim"
 poet: "Hasan Abbas Ahsan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Amma tumhaara lut gaya jangal mein saara ghar
   Zainab tarap ke kehti thi qabr-e-Batul par

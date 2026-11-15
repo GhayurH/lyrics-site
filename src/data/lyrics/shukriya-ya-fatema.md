@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Baltistani"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Abad wallah ya Zahra maaninsa Husaina
 

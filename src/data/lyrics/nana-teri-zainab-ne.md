@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Nana teri Zainab ne wo dard uthaye haiṅ
   Zaalim ka zulm dekha aaṅsu nikal aaye haiṅ

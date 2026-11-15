@@ -12,10 +12,10 @@ published: true
 romanLyrics: |-
   Laa raha huṅ maiṅ lasha e Akbar
   Umme Laila sambhaal Zainab ko
-  
+
   Bole honge Husain ye rokar
   Umme Laila sambhaal Zainab ko
-  
+
   1
   Naujawaṅ laash hai zaifi hai
   Meri nazroṅ se dekh manzar ko
@@ -23,7 +23,7 @@ romanLyrics: |-
   Mai sambhale hue huṅ Akbar ko
   Tera ehsaan hoga ye mujh par
   Umme Laila Sambhaal Zainab Ko
-  
+
   2
   Iske sine se kehke naam-e-Ali
   Maiṅ ne barchi abhi nikaali hai
@@ -31,7 +31,7 @@ romanLyrics: |-
   Ab teri bekasi ki baari hai
   Tu bhi is waqt ya Ali keh kar
   Umme Laila Sambhaal Zainab Ko
-  
+
   3
   Do nagine the iski jholi may
   Dono Akbar pe kar diye sadqa
@@ -39,7 +39,7 @@ romanLyrics: |-
   Maiṅ ne rote ise nahi dekha
   Hai magar ab ye lasha e Akbar
   Umme Laila Sambhaal Zainab Ko
-  
+
   4
   Rok rakha hai apne ashkoṅ ko
   Sab se chhup chhup ke aaheṅ bharti hai
@@ -47,7 +47,7 @@ romanLyrics: |-
   Teri mamta pe jo guzarti hai
   Rakh ke apne kaleje par pathar
   Umme Laila Sambhaal Zainab Ko
-  
+
   5
   Kaise laash-e-jawaṅ uthaye huṅ
   Aeriyaṅ khat banati aati hai
@@ -55,7 +55,7 @@ romanLyrics: |-
   Amma Zehra mitati aati hai
   Uski nazreiṅ na dekheiṅ ye manzar
   Umme Laila Sambhaal Zainab Ko
-  
+
   6
   Ae takallum wo shaam o kufa ka
   Te hua hoga is tarah se safar

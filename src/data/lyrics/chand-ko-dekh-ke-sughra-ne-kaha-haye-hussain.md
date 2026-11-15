@@ -10,42 +10,42 @@ aliases:
   - "Chand Ko Dekh Ke Sughra Ne Kaha Haye Husain"
 published: true
 romanLyrics: |-
-  
+
   Chand ko dekh ke Sughra ne kaha haye Husain
   Aageya mah e muharram haan nahi aaye Husain
-  
+
   1
   Yaad pardais maiṅ aati hai lahad ammaṅ ki
   Dil ka ahwal sunane ko kahaṅ jaye Husain
-  
+
   2
   Aap aaye na khabar aayi na Akbar aaye
   Kaise is haal maiṅ Sughra se jiya jaye Husain
-  
+
   3
   Jab se ye chand muharram ka nazar aaya hai
   Amma roti hai tujhe ae mere maa jaye Husain
-  
+
   4
   Koi taswir to Zahra ki rahi parde maiṅ
   Ye to acha huwa Sughra ko nahi laye Husain
-  
+
   5
   Naam par Shah ne Akbar ke kharidi hai zamiṅ
   Kaise jaagir tujhe bhai ki dikhlaye Husain
-  
+
   6
   Eid bhi sog ke aalam maiṅ guzari us ne
   Haye Akbar kabhi kahti thi kabhi haye Husain
-  
+
   7
   Mustaqil Shah ki aankhoṅ se the aansuṅ jari
   Khat-e-Sughra ko mukammal nahi parh paye Husain
-  
+
   8
   Aik ik beti se rukhsat huwe khamein maiṅ magar
   Haye afsos ke Sughra se na mil paye Husain
-  
+
   9
   Likh ke noha ye takallum ne dua magi hai
   Har azadar ko aashur pe bulwaye Husain

@@ -7,9 +7,9 @@ direction: "rtl"
 poet: "Hasnain Akbar"
 reciter: "Mir Hasan Mir"
 kalamType: "Manqabat"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 # source_id: tajpoints:68e5b47384cd849e4f5c
 # source_url: https://tajpoints.com/2017/04/likh-qalam-sani-e-zahra-ki-sana.html
 # raw_sha256: 924f0b4d9e30664637d288aa909df15e3a8810c29b3702edab93e50c988519a5

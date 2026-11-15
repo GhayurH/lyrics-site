@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Fazl Lakhnavi"
 reciter: "Faazil Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Iman ke ujaale haiṅ Ashoor ki garmi hai
   Shabbir ki qismat hai aur god ke paale haiṅ

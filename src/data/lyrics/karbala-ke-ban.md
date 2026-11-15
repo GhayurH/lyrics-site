@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Musaddiq Lakhani"
 reciter: "Rizwan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Karbala Ke Ban"]
-published: false
+published: true
 romanLyrics: |-
   Karbala ke ran mein jab gardan kati Shabbir ki
   Jang is ke baad Zainab ne lari Shabbir ki

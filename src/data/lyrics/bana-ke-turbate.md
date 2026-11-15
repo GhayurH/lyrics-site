@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mukhtar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bana ke turbat-e-Asghar Husain rote haiṅ
   Dil-e-Rubab chhupa kar Husain rote haiṅ

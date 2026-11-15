@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Zeeshan Abidi"
 reciter: "Joan Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: ["yousuf-e-zahra-ajao-joan-rizvi", "Yousuf E Zahra Ajao Joan Rizvi"]
-published: false
+published: true
 romanLyrics: |-
   Ae Yousuf-e-Zahra kahaaṅ ho aa jao
 

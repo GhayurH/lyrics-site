@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nasir Hussain"
 reciter: "Irfan Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Shabbir ke zakhmoṅ par Mehdi
   Aankhoṅ se khuṅ bahaate haiṅ

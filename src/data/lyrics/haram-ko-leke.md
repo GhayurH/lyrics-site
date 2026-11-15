@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Ansar"
 reciter: "Ali Rizvi Sachey"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haram ko le ke su-e-Shaam jab bari Zainab
   Kabhi Husain bani aur kabhi Ali Zainab

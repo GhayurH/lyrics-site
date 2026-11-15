@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Bilal Kazmi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tanha sar-e-dasht-e-bala dar saf-e-aada
   Farzand-e-Nabi jaan o dil-e-Fatima Zehra

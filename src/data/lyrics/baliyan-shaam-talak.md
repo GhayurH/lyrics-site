@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mubarak Jalalpuri"
 reciter: "Irfan Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Afsos sad afsos Sakina qaidi hai
   Haathoṅ mein hathkariyaṅ pairoṅ mein beriyaṅ

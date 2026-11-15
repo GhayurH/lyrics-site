@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zafar Abbas"
 reciter: "Sajid Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Qaid hokar chale to ye bole haram
   Laash-e-shah-e-zaman alwida alwida

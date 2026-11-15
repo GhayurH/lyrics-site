@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Salman Azmi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ye fakhr-e-Panjatan hai ye aks-e-Murtaza hai
   Qaayam inhi ke dam se is dehr mein wafa hai

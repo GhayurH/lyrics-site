@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Mujpe Kyon Bandh"]
-published: false
+published: true
 romanLyrics: |-
   Mujh pe kiuṅ band karte ho paani
   Kya Muhammad ka pyaara nahiṅ huṅ

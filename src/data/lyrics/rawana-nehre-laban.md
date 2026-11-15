@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Marsiya"
 reciter: "Mir Momin Ali Qaisar"
-tags: ["noImage"]
+tags: []
 aliases: ["Rawana Nehre Laban"]
-published: false
+published: true
 romanLyrics: |-
   1
   Rawaana nehr-e-laban ko jo shir khwaar hua

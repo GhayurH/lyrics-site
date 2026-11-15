@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ye Waqia Hai Moharam"]
-published: false
+published: true
 romanLyrics: |-
   1
   Ye waaqia hai Muharram ki gyaarah ka ba Khuda

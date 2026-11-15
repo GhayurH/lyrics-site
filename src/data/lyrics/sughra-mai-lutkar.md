@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Suraiya"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sughra main lut kar aayi huṅ
 

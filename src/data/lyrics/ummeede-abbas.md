@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Ummeede Abbas"]
-published: false
+published: true
 romanLyrics: |-
   Umideṅ Abbas ki tuti
   Mashk se saara beh gayi paani

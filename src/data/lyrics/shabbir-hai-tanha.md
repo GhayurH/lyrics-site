@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Jaweed Maqsood"
 reciter: "Anj. Parwane Shabbir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Shabbir hai tanha mera Abbas kahaaṅ hai
 

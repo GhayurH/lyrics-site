@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Musibat ki ghari aur shaam ke barhte hue saaye
   Tarapti reh gayi maaṅ aur Ali Akbar nahiṅ aaye

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Jaweed Maqsood"
 reciter: "Hadi Ali Khan Muslim"
-tags: ["noImage"]
+tags: []
 aliases: ["Shole Hai Bhadakte"]
-published: false
+published: true
 romanLyrics: |-
   Shole haiṅ bharakte hue har simt dhuaaṅ hai
   Zainab pe musibat hai qayaamat ka samaaṅ hai

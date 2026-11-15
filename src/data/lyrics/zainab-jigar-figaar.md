@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Saeed Shaheedi"
 reciter: "Anj. Parwane Shabbir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zainab jigar figaar jahaaṅ se guzar gayi
 

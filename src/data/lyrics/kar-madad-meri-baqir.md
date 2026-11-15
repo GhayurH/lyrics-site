@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Hasnain Akbar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sakina mar gayi zindaan mein jab ye shor utha
   Alam se zard tha us dam har ek ka chehra

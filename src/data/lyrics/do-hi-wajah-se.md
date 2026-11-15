@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mohib Fazli"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Do hi wajah se baatil haq na chhupa saka
   Ek hai ridaa-e-Zainab Asghar hai dusra

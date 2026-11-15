@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Abbas Abbas Abbas
   Abal Fazl Abal Fazl Abal Fazl alamdaar

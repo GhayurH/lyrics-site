@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Waiz Sultanpuri"
 reciter: "Ali Mohammad Sultanpuri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aawaaz de rahi hai yeh Zahra utho utho
   Phir gham ka chaand arsh pe nikla utho utho

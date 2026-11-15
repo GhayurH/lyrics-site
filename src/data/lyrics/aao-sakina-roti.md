@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Iqbal Abedi"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aao Sakina roti hai
   Abbas Abbas aao Sakina roti hai

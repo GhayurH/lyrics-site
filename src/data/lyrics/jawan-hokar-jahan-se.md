@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anjum Zaidi"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jawaan ho kar jahaaṅ se tum sidhaare ae Ali Akbar
   Jiye ab maaṅ bata kis ke sahaare Ali Akbar

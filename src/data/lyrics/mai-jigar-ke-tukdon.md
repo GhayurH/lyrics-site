@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Mai Jigar Ke Tukdon"]
-published: false
+published: true
 romanLyrics: |-
   Main jigar ke tukroṅ ko chhor ke jaauṅ kahaaṅ
   Ek hai zindaan mein ek bayaabaan mein

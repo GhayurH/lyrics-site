@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Anj. Sabile Masumeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zainab Ali Akbar ke jine ki dua maango
   Bach jaaye mera bachcha bas us ki dua maango

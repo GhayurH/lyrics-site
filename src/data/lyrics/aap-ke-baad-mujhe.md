@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mohsin Jaffri"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aap ke baad mujhe Shimr ne baba maara
   Chur zakhmoṅ se hui teri Sakina baba

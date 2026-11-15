@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Azaadaari-e-Shabbir Zehra ki amaanat hai
   Azaadaari-e-Shabbir Zainab ki inaayat hai

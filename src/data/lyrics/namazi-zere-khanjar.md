@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Salik Lakhnavi"
 reciter: "Faazil Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Namaazi zer-e-khanjar aa raha hai
   Zamiṅ se aasmaaṅ takra raha hai

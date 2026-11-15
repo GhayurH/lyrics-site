@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Zakir Hussain Yousufi"
-tags: ["noImage"]
+tags: []
 aliases: ["kis-tarha-likhon-main-kya-rutba-abu-talib-ka-hai-lyrics-2018"]
-published: false
+published: true
 romanLyrics: |-
   Kis tarha likhuṅ main kya rutba Abu Taalib ka hai
   Mustafa jis ka parheṅ kalma Abu Taalib ka hai

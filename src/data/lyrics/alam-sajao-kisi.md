@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mazhar Abidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Irfan Haider"
 romanLyrics: |-
   Bichha ke farsh-e-aza Fatima ko yaad karo

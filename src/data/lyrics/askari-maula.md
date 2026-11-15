@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Arsalan Azmi"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ye gham wo gham hai ke donoṅ jahaan rote haiṅ
   Yatim aaj Imam-e-Zamaan hote haiṅ

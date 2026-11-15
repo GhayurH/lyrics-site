@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ya Husain ya Husain
   Ya qatil-e-jafa haaye gharib Husain

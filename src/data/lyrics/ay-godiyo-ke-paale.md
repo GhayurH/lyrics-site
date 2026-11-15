@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Faazil Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Godiyo Ke Paale"]
-published: false
+published: true
 romanLyrics: |-
   Ae godiyoṅ ke paale Laila ke dil ki dhaaras
   Islam ki tajalli imaan ke ujaale

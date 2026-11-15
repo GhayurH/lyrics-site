@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Yasir Raza Yasir"
 reciter: "Syed Wajhi Hasan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Khuda ki azmat bata raha hai Ali ka sajda
   Jahaaṅ ko shar se bacha raha hai Ali ka sajda

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Hai mominoṅ pe farz itaaat Husain ki
 

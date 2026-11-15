@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
-tags: ["noImage"]
+tags: []
 aliases: ["Ek Zuljana Ek Zulfiqar"]
-published: false
+published: true
 romanLyrics: |-
   Ek Zuljanaah hai ek Zulfiqaar hai
   Haiṅ ek tegh-e-Imaam ki ek rahwaar hai

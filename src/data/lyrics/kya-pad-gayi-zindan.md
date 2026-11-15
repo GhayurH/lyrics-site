@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Fitrat"
 reciter: "Mir Arif Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Kya Pad Gayi Zindan"]
-published: false
+published: true
 romanLyrics: |-
   Kya par gayi zindaan mein uftaad Sakina
   Sab se judaa ho gayi naashaad Sakina

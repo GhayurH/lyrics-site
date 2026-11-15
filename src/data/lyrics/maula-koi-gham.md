@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Salman Azmi"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maulaaiyoṅ Husainiyoṅ Rab ka hai ye karam
   Tum ho dua-e-Fatima Shabbir ki qasam

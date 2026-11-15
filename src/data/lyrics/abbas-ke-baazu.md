@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Aqeel Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Khaime mein jo Sheh laate hain Abbas ke baazu
   Kulsum ko tarpate hain Abbas ke baazu

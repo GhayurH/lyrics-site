@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Afzal Mirza"
 romanLyrics: |-
   Akbar hue jawaṅ jo bachpan guzaar ke

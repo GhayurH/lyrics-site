@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Asif Bijnori"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Be maqna o chaadar sar-e-bazaar hai Zainab
   Abbas khule sar sar-e-bazaar hai Zainab

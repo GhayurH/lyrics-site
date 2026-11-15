@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zulfiqar Ahmed"
 reciter: "Mir Mohsin Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Viraan udaas ghar mein Sughra ki ye sada hai
   Tanhaaiyoṅ mein baba dam mera ghut raha hai

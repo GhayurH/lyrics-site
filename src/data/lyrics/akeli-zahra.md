@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mohsin Jaffri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Shahid Baltistani"
 romanLyrics: |-
   Kalma goyoṅ mein hui haye akeli Zahra

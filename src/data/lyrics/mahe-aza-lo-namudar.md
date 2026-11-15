@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Mahe Aza Lo Namudar"]
-published: false
+published: true
 romanLyrics: |-
   Arsh ke taare Husain
   Zehra ke pyaare Husain

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mohsin Riyaz"
 reciter: "Kazmi Brothers"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Chand qadmoṅ se Sakina ne ye manzar dekha
   Shimr ka Baba pe chalta hua khanjar dekha

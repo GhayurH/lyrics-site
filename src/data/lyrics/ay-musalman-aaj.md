@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ameer Hussain Mashadi"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tera Husain mera Husain
   Rab ka Husain sab ka Husain

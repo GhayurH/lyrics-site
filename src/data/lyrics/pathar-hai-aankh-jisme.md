@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mohib Fazli"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: ["Pathar Hai Aankh Jisme"]
-published: false
+published: true
 romanLyrics: |-
   Patthar hai aankh jis mein ke ashk-e-aza nahiṅ
   Wo dil nahiṅ ke jis mein Ali ki wila nahiṅ

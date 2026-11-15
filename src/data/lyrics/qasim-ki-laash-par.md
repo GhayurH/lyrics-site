@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ishrat Lakhnavi"
 reciter: "Dilawar Hasan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Qasim ki laash par kabhi Asghar ki laash par
   Abbas jaise nek baraadar ki laash par

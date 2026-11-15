@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Irfan Haider"
-tags: ["noImage"]
+tags: []
 aliases: ["Ye Khafla Leja Zainab"]
-published: false
+published: true
 romanLyrics: |-
   Aal-e-Nabi ka qaafila jab Shaam ko chala
   Kehne lagi Husain se hamshir alwida

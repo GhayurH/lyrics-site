@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Hasnain"
-tags: ["noImage"]
+tags: []
 aliases: ["Aaqa Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Qadam barhta rahe aao Karbala ki taraf
   Aaqa Husain Maula Husain

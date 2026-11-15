@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Raza Ali Sohail"
 reciter: "Hasan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ro ro ke ye Zainab ne kaha Aun o Muhammad
   Ghar kar gaye wiraan mera Aun o Muhammad

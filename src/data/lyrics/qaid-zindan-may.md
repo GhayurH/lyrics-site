@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: ["Qaid Zindan May"]
-published: false
+published: true
 romanLyrics: |-
   Qaid zindaaṅ mein chhoti si ek hai qaidan
   Ek hai qaidan

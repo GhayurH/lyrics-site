@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   In shab shab-e-matam-e-Husaina
   Lachaar lachaar lachaar Husaina

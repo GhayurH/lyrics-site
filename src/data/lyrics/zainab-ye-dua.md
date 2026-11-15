@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Aashiq Irani"
 reciter: "Murtaza Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zainab ye dua maangi haathoṅ ko utha kar
   Ya Rab mere Abbas ko tu sabr ata kar

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Kumail Jafri"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ba waqt-e-rukhsat-e-Haider jo roi ruh-e-Batul
   Tarap ke boli mere hamsafar Wasi-e-Rasul

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sibte Jafar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jab na aada se kisi tarah safaai thehri
   Subh-e-aashur Muharram ko laraai thehri

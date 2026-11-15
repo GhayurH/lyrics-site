@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Danish Mirza"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ek roz roke fizza se zehra ne ye kaha
   Pehlu shikasta ho gaya tumko hai bas pata

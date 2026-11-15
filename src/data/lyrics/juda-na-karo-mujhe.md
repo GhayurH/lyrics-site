@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Baba ke liye qaid mein roti thi Sakina
   Ye kaun hai kya naam hai haakim ne ye puchha

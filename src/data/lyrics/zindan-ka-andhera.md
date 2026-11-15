@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zindaaṅ ka andhera mujhe sone nahiṅ deta
   Roti huṅ to zaalim mujhe rone nahiṅ deta

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Raza Ali Khan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Agarche ran mein sar apna kata gaya hai Husain
   Magar Yazid ki gardan jhuka gaya hai Husain

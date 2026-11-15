@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Danish Abbas Danish"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 # source_id: tajpoints:3f38518c1c95338d9938
 # source_url: https://tajpoints.com/2019/08/ali-ki-shan-batane-ghadeer-aayi-hai.html
 # raw_sha256: 11d87e40a22d530f7471cda450e4aae3ebca129a393e0befc4d2bcba672d046e

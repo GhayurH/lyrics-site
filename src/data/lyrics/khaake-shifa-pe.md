@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Ahsan Husain"
-tags: ["noImage"]
+tags: []
 aliases: ["Khaake Shifa Pe"]
-published: false
+published: true
 romanLyrics: |-
   Khaak-e-shifa pe farz jo sajda hai ae Husain
 

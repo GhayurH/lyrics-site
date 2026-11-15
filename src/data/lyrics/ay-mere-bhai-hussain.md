@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Mere Bhai Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Suno suno Shab-e-Ashur ka ye manzar hai
   Sirhane bhai ke baithi Ali ki dukhtar hai

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Sachey Bhai"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Quran aur Husain
   Wallah sar-e-mu farq nahiṅ hai

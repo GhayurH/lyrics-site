@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Jaweed Maqsood"
 reciter: "Raza Ali Khan"
-tags: ["noImage"]
+tags: []
 aliases: ["Hamsheer Ko Chadar"]
-published: false
+published: true
 romanLyrics: |-
   Hamshir ko chaadar hai na bhai ko kafan hai
   Shabbir sa bhai hai na Zainab si behan hai

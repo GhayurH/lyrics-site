@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Asad Azmi"
-tags: ["noImage"]
+tags: []
 aliases: ["Kyun Chaar Soo Na Ho Yeh Ojala Ghadeer Ka"]
-published: false
+published: true
 romanLyrics: |-
   Kiuṅ chaar su na ho yeh ujaala Ghadir ka
   Din hai dinoṅ mein sab se yeh aala Ghadir ka

@@ -6,9 +6,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Zeeshan Abidi, Iftikhar Haider"
 reciter: "Syed Raza Abbas Zaidi"
-tags: ["noImage", "Panjabi"]
+tags: ["Panjabi"]
 aliases: ["ali-ka-raaj-syed-raza-abbas-zaidi"]
-published: false
+published: true
 # source_id: tajpoints:20230c299a62f8bfb0ab
 # source_url: https://tajpoints.com/2023/02/ali-ka-raaj-syed-raza-abbas-zaidi.html
 # raw_sha256: b58544965fda3f43103b158729facafbc7c8b6f1abe106d748b3858a1d9c50d6

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: ["Wa Hussaina"]
-published: false
+published: true
 romanLyrics: |-
   Qalb-e-Zehra ka hai marham
   Wa Husaina wa Husaina

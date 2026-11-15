@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Raza"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maaṅ ne rote hue Asghar ka jhulaaya jhula
   Kabhi chuma kabhi sine se lagaaya jhula

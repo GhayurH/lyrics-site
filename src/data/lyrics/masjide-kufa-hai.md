@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Sachey Bhai"
 reciter: "Ali Rizvi Sachey; Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Masjid-e-Kufa hai rozadaar hai
   Farq se uṅchi lahu ki dhaar hai

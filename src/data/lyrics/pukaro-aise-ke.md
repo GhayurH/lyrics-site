@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Hasnain"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Pukaaro aise ke mera Imam aa jaaye
 

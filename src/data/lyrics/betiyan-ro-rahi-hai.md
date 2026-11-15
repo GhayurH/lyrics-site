@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Adil Nazar"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Khuṅ se tar ho gaya hai musalla
   Betiyaaṅ ro rahi haiṅ Ali ki

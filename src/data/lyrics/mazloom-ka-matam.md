@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Kazmi Brothers"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Mazloom ka matam hai ruka hai na rukega
   Ye aisa diya hai jo hawaaoṅ mein jalega

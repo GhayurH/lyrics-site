@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Fazl Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Madad Husain ki karne Habib aaye haiṅ
   Qadam qadam pe wafa ke nuqush paaye haiṅ

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Abbas"
 reciter: "Sajid Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kahaaṅ Batul ki ghurbat ko hum samajh paaye
   Hamaari saaṅs ruki aur na hum ghash khaaye

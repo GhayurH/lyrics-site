@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shafqat Taqi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Labbaika ya Maula
 

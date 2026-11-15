@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ahmed Naved"
 reciter: "Sajid Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zainab jidhar Khuda tha udhar dekhti rahi
   Katte hue Husain ka sar dekhti rahi

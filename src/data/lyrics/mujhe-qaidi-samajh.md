@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Safdar Abbas"
 romanLyrics: |-
   Mujhe qaidi samajh nahiṅ Shiriṅ

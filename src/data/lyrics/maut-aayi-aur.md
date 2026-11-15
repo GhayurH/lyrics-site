@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Surur Lakhnavi"
 reciter: "Anj. Grohe Husain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maut aayi aur Ali Asghar ko behla le gayi
   Haaye wo bhi tin din ka bhuka pyaasa le gayi

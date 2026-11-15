@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Irfan Haider"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aaye jo qabr-e-Faatima pe Sayyid-e-inaam
   Rukhsaar rakh ke qabr pe ro kar kiya kalaam

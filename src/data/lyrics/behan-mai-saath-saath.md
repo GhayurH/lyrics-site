@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Behan Mai Saath Saath"]
-published: false
+published: true
 romanLyrics: |-
   Rasan mein bandh chuka gala
   Lo chal para wo qaafila

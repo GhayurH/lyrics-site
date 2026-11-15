@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: ["Hum Zinda Hai"]
-published: false
+published: true
 romanLyrics: |-
   Hum zinda haiṅ maatam-e-Shabbir ke liye
 

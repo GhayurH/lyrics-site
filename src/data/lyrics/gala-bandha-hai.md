@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anees Pehersari"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Gala baandha hai rasan mein malul o muztar hai
   Yehi Husain ki pyaari Sakina dukhtar hai

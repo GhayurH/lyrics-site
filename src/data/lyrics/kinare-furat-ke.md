@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Sachey Bhai"
 reciter: "Ali Rizvi Sachey"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kat kar gire the kal jo kinaare Furaat ke
   Wo haath aasra haiṅ hamaari nijaat ke

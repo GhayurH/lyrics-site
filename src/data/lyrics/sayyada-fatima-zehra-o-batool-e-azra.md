@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Sayyada Fatima Zehra o Batool-e-Azra"]
-published: false
+published: true
 romanLyrics: |-
   Ya Fatima Zehra
   Sayyada Fatima Zehra o Batul-e-Azra

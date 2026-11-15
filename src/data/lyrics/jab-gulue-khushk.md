@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Faraaz Lakhnavi"
 reciter: "Dilawar Hasan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jab gulu-e-khushk par khanjar chalaaya jaayega
   Kis tarah se Zainab se ye sadma uthaaya jaayega

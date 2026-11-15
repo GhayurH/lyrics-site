@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Abid Zaidi"
 reciter: "Ahsan Hussain"
-tags: ["noImage"]
+tags: []
 aliases: ["Bhare Darbar May"]
-published: false
+published: true
 romanLyrics: |-
   Bhare darbaar mein Zainab ne sada di Ghaazi
 

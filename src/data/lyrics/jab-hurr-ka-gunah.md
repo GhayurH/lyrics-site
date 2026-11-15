@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sibte Jafar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jab Hur ka gunaah Shaah-e-Umam ne bakhsha
   Qatre ko sharaf bahr-e-karam ne bakhsha

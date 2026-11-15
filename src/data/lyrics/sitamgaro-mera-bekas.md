@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Jaweed Maqsood"
 reciter: "Hadi Ali Khan Muslim"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ghira hai chaand Ali ka sitam ke baadal mein
   Amaaṅ kahiṅ nahiṅ tegh o sinaaṅ ke jangal mein

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Rehan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kitaab-e-azm o shujaat haiṅ Sayyid-e-Sajjaad
   Khuda-e-sabr ki aayat haiṅ Sayyid-e-Sajjaad

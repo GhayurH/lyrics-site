@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Sachey Bhai"
 reciter: "Ali Rizvi Sachey"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sakina kehti thi ro kar watan chalo ammaṅ
   Bahut hai dil mera muztar watan chalo ammaṅ

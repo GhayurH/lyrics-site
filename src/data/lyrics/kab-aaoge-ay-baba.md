@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Samar Zaidi"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Kab Aaoge Ay Baba"]
-published: false
+published: true
 romanLyrics: |-
   More baba
   Dil ghar mein nahiṅ lagta kab aaoge ae baba

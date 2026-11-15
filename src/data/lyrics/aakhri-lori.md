@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aakhri lori hai meri jaan kar bejaan huṅ main
   Ae Khuda Taala na mujh ko aazmana maaṅ huṅ main

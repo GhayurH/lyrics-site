@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Haider Khursheed"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Har dam Husain tera gham Husain
   Hai yehi dua har momin ki

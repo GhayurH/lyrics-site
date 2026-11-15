@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anwar Zahir"
 reciter: "Shareef Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tir Asghar ke liye
   Barchhi Akbar ke liye

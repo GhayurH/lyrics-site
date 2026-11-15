@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Beshir mere aa ja tujhe lori sunaauṅ gi
   Apne Ali Asghar ko godi mein sulaauṅ gi

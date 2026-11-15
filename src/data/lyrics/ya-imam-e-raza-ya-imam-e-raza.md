@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Allama Dr Majid Raza Abidi"
 reciter: "Syed Wajhi Hasan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ya Imam-e-Raza ya Imam-e-Raza
 

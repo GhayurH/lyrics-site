@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Wahab-e-Kalbi Isa ke ummati
   Tum par salaam ho

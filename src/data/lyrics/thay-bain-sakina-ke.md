@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: ["Thay Bain Sakina Ke"]
-published: false
+published: true
 romanLyrics: |-
   The bain Sakina ke main mar jaauṅ gi Baba
   Main aap ki furqat mein na ji paauṅ gi Baba

@@ -8,8 +8,8 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
-published: false
+tags: []
+published: true
 romanLyrics: |-
   Pyaasi mazlum yatima haaye maasum Sakina
   Haaye maasum Sakina haaye maasum Sakina

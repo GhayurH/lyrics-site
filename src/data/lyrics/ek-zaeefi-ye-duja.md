@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ek Zaeefi Ye Duja"]
-published: false
+published: true
 romanLyrics: |-
   Haaye Akbar haaye Akbar
 

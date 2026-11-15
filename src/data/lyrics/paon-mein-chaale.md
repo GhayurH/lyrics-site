@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ishrat Lakhnavi"
 reciter: "Dilawar Hasan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kehte the ye Aabid-e-muztar
   Paaoṅ mein chhaale hai paaoṅ mein chhaale haiṅ

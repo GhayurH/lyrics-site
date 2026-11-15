@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Salaam
 poet: "Rehaan Azmi"
 reciter: "Zargham Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Asghar ko qatl gaah mein laaye Husain jab
   Rote hue Furaat ne dekhe wo sukhe lab

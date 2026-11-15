@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Marsiya"
 reciter: "Zaki Abedi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Insaaṅ ke liye maut hai gham bewatani ka
   Jaankah hai andoh wo aalam bewatani ka

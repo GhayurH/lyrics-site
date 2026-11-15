@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nasir Zaidi"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Ya Saaratul Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Labbaik labbaik labbaik labbaik
   Ya saaratul Husain

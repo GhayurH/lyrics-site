@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Faqera"
 reciter: "Faazil Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Chhut ke ab na phir Akbar mileṅ ge
   Keh rahi hai Shah ki himmat tut ke

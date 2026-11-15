@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tuti hai kamar kaise bataauṅ Ali Akbar
   Main kaise teri laash uthaauṅ Ali Akbar

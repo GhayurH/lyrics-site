@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Salman Azmi"
 reciter: "Ali Shanawar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ya Ali ya madad ya Ali ya madad
   Ya Ali ya madad

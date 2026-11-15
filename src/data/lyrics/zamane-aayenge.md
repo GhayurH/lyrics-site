@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bayan kaise ho Kufe ka manzar
   Ye kehte hoṅge jab beti se Haidar

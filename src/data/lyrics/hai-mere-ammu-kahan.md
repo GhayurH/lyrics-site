@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Anees Pehersari"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Baali Sakina yehi karti thi ro ro fughaaṅ
   Hai mere ammu kahaaṅ hai mere baaba kahaaṅ

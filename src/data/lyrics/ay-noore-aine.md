@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Sadat Ali Khan"
 reciter: "Hadi Ali Khan Muslim"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ae nur-e-ain-e-Fatema Zehra na jaaiye
   Hum bekasoṅ ko chhor ke aaqa na jaaiye

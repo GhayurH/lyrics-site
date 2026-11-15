@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Dabeer Akhter"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kis liye chup ho mujhe itna bata do Fatema
   Ya Ali ek baar bas keh ke bula do Fatema

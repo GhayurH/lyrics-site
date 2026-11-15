@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kehti thi Bano Asghar jaani
   Kab tum ghar meiṅ aaoge

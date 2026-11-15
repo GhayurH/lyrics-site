@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Jawad Jaffri"
 reciter: "Sajid Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kiuṅ baad-e-Nabi tujhko sataaya gaya Zahra
   Jalta hua dar tujh pe giraaya gaya Zahra

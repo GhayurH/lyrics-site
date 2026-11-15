@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Asif Akhter Zaidi"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Karbala mein roz-e-Aashura faza thehri rahi
   Wo tishna lab ka maujiza thehri rahi

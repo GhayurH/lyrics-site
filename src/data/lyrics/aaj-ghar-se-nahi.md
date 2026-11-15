@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Arslan Azmi"
 reciter: "Rizwan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Aaj Ghar Se Nahi"]
-published: false
+published: true
 romanLyrics: |-
   Kya ajab si sehar ye aayi hai
   Jis taraf dekhiye udaasi hai

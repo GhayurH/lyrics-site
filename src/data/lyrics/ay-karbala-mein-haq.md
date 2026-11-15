@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Sajjad Hussain"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Karbala Mein Haq"]
-published: false
+published: true
 romanLyrics: |-
   Ae Karbala mein haq ke safiroṅ salaam lo
   Ae bekasoṅ yatimoṅ asiroṅ salaam lo

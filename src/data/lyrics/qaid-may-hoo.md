@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Bilal Kazmi"
 reciter: "Afzal Mirza"
-tags: ["noImage"]
+tags: []
 aliases: ["Qaid May Hoo"]
-published: false
+published: true
 romanLyrics: |-
   Zindaan-e-sitam se ahl-e-aza
   Aati hai kisi Bibi ki sada

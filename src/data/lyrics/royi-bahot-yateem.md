@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Waiz Sultanpuri"
 reciter: "Abbas Ali Arfi"
-tags: ["noImage"]
+tags: []
 aliases: ["Royi Bahot Yateem"]
-published: false
+published: true
 romanLyrics: |-
   Sunsaan ban wo raat wo uthta hua dhuaaṅ
   Nikli padar ko dhundne nanhi si ek jaaṅ

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Asghar"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kaha Abbas ne ik aan mein naqsha palat jaaye
   Ho izn-e-Shah to nehr-e-Alqama laashoṅ se pat jaaye

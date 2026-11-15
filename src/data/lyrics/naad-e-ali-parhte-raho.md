@@ -12,34 +12,34 @@ published: true
 romanLyrics: |-
   Hai mashwara Ae mohataram
   Naad-e-Ali parhte raho
-  
+
   Paas askenge phr na gham
   Naad-e-Ali parhte raho
-  
+
   1
   Kesi bhi ho mushkil ghari
   Sar pe musibat ho kari
   Tal jayenge ranj o alam
   Naad-e-Ali parhte raho
-  
+
   2
   Kashti giri Jb Nuh ki
   Hatif ne yuṅ awaz di
   Tufan jayega ye tham
   Naad-e-Ali parhte raho
-  
+
   3
   Jab maarka khaiber ka tha
   Ahmad se khaliq ne kaha
   Puhnchenge Haider Ek dam
   Naad-e-Ali parhte raho
-  
+
   4
   Turbat se hum darte nahi
   Jannat talab karte nahi
   Parhte hue nikle ye dam
   Naad-e-Ali parhte raho
-  
+
   5
   Zikr-e-Ali Ibadat Teri
   Ban jaye ek aadat Teri

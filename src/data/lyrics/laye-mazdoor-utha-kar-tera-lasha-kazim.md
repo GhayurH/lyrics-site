@@ -12,15 +12,15 @@ published: true
 romanLyrics: |-
   laye mazdur utha kar tera laasha Kazim
   pul pe Baghdad ke rakha hai janaza Kazim
-  
+
   1
   jism par lipti haiṅ zanjireiṅ rihayi kaisi
   mar ke bhi qaid raha tera sarapa Kazim
-  
+
   2
   is qadar chhota hai zindan aziyyat hai bari
   sar utha sakte nahi Maula Musa Kazim
-  
+
   3
   misl-e-Sughra woh tarapti rahi furqat meiṅ teri
   betiyaṅ takti rahiṅ tera rasta Kazim

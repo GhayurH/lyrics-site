@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Nisaar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Rauze pe Mustafa ke udaasi si chhaai hai
   Kunbe ko kho ke Zainab-e-naashaad aayi hai

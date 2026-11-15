@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Garm reti pe sar-e-dasht ajab hai manzar
   Koi saaya hai jo deta hai sada ro ro kar

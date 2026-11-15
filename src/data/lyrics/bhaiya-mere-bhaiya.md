@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Nasir Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bhaiya mere bhaiya, bhaiya mere bhaiya
   Main duṅgi kafan aap ko dafnaauṅgi laasha

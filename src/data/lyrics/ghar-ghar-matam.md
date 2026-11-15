@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ghar Ghar Matam"]
-published: false
+published: true
 romanLyrics: |-
   Ghar ghar maatam dar dar maatam
   Tera hota rahe Maula maatam

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anees Pehersari"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Gar haq ki justuju hai to bazm-e-aza mein aa
   Batlaauṅ tujh ko majlis o maatam hai kiuṅ bapa

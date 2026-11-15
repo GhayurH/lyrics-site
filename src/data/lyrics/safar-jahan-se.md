@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jigar ko thaam ke donoṅ jahaan rote haiṅ
   Rasul zaadi ke bachche yatim hote haiṅ

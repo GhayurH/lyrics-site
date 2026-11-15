@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Bahot Akeli Hoo"]
-published: false
+published: true
 romanLyrics: |-
   Ye bain karti thi Sughra bahot akeli huṅ
   Safar mein hai mera kunba bahot akeli huṅ

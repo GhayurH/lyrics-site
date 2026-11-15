@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Irfan Haider"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Dimashq ka hai safar berida hai Aal-e-Nabi
   Na mehmil na kajawa hai na haudaj hai koi

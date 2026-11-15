@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
 reciter: "Mir Sajjad Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jo Muhammad ka nawaasa hai ye sar uska hai
   Jisko nau laakh ne maara hai ye sar uska hai

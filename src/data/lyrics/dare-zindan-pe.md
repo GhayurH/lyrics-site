@@ -8,8 +8,8 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Aijaz Rizvi"
 reciter: "Ahsan Husain"
-tags: ["noImage"]
-published: false
+tags: []
+published: true
 romanLyrics: |-
   Dar-e-zindaaṅ pe Sakina yehi karti thi buka
   Shaam hone ko hai ab laut ke aao Baba

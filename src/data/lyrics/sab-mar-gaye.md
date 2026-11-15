@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Asif Bijnori"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zainab ne kaha turbat-e-Zehra se lipat kar
   Sab mar gaye ammaaṅ

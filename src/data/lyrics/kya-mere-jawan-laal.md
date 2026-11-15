@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jiti hai wo maaṅ jis ke guzar jaane ke din the
   Kya mere jawaaṅ laal ke mar jaane ke din the

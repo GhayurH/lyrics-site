@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zulfiqar Ahmed"
 reciter: "Jawad ul Hassan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bazaar-e-Shaam meiṅ darbaar-e-aam meiṅ
   Qaidi rahi Naana roti rahi Naana

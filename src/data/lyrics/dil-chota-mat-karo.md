@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
 reciter: "Mir Jawad Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Dil chhota mat karo wo bulaayeṅ ge Karbala
   Maula Husain sab ko dikhaayeṅ ge Karbala

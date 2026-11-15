@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ishrat Lakhnavi"
 reciter: "Dilawar Hasan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maqtal mein gunjti hai sadaa tishna lab Husain
   Wo tishna lab sadaa jo rahaa tishna lab Husain

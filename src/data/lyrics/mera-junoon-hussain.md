@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nasir Hussain"
 reciter: "Irfan Hussain"
-tags: ["noImage"]
+tags: []
 aliases: ["Mera Junoon Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Tu meri tamanna main tujh se huṅ zinda
   Ab de de sahaara ae ishq ke qibla

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Mushkil May Hai"]
-published: false
+published: true
 romanLyrics: |-
   Mushkil mein hai Husain musibat mein hai Husain
   Baba madad ko aaiye mushkil mein hai Husain

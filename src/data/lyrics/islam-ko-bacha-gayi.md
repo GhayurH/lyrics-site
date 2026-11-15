@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Iqbal Abedi"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Islam ko bacha gayi Kulsum Fatema
   Zainab ke saath saath thi Kulsum Fatema

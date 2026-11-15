@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Aseem Lakhnavi"
 reciter: "Afzal Mirza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sheh ki dukhtar so rahi hai Shaam ke zindaan mein
   Ik saf-e-maatam bichhi hai Shaam ke zindaan mein

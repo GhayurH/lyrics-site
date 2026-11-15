@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar"
 reciter: "Raza Ali Khan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Salaami Karbala mein jab hue Shabbir ke tukre
   Ure Quraan ke purze hue tafsir ke tukre

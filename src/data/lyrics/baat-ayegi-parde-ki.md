@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Anees Pehersari"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Baat aayegi parde ki to yaad aayegi Zainab
   Taarikh gham o dard ko dohraayegi Zainab

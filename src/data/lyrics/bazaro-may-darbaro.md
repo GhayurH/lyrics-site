@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   In jakre hue haathoṅ ki qasam
   Ghazi ki behan ka waada hai

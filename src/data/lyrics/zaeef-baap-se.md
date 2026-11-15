@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Baquer Mohsin"
 reciter: "Hadi Ali Khan Muslim"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zaif baap se laash-e-pisar nahiṅ uthti
 

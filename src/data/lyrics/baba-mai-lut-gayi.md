@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: ["Baba Mai Lut Gayi"]
-published: false
+published: true
 romanLyrics: |-
   Haye shaam-e-gharibaṅ
 

@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rasheed Shaheedi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Hasan Abbas Ahsan"
 romanLyrics: |-
   Abid utha rahe haiṅ apni behan ka laasha

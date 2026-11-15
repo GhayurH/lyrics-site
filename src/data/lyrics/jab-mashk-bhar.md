@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sibte Jafar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jab mashk bhar kar nehr se Abbas Ghazi ghar chale
   Ik jaam-e-Kausar bhar liya aur khuld se Haidar chale

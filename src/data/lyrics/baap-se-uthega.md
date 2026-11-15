@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Izhaar"
 reciter: "Rizwan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Boli Laila ke tu marne ko jo aamaada hai
   Tu ne humshakl-e-Nabi ye bhi zara socha hai

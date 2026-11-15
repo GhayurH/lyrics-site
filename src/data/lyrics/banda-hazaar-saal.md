@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sibte Jafar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Banda hazaar saal ibaadat agar kare
   Aur zar baqadr-e-koh-e-Uhud raah-e-haq mein de

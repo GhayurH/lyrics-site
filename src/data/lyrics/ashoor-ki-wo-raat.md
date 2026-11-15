@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Kazim Banarsi"
 reciter: "Anj. Parwane Shabbir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aashur ki wo raat wo sannate ka aalam
   Fitrat ki khamoshi mein farishtoṅ ka wo matam

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Shaam ki qaid mein Sayyidaaniyaaṅ asir huiṅ
   Rasul zaadiyaaṅ haakim ki dastagir huiṅ

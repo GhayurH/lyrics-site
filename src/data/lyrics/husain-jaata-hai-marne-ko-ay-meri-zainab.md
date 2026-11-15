@@ -13,38 +13,38 @@ romanLyrics: |-
   Husain jaata hai marne ko ae meri Zainab
   Qarib aa gaya ab waqt-e-aakhri Zainab
   Salam tum pe ae Baba ki laadli Zainab
-  
+
   Zainab ne kaha kaun hai pardes meiṅ mera
   Kiuṅ jaate ho tum chhor ke bhaiya mujhe tanha
-  
+
   Zainab ko har ek mor pe tarpayegi dunya
   Yaad aaoge bhaiya
-  
+
   1
   Baad aap ke hoga meri ghurbat ka ye aalam
   Us waqt gharibi bhi karegi mera matam
   Sadaat ko jab raah meiṅ dega koi sadqa
-  
+
   2
   Yaad aayega bhaiya mujhe armaan tumhara
   Tum dekh nahi paaye ho Akbar ka jo sehra
   Dawat koi shaadi ki Madine meiṅ jo dega
-  
+
   3
   Is maah se mansub thi bhaiya meri khushiyaṅ
   Thi sab se bari Eid meri tisri Shabaṅ
   Shaban ke jab chand ko dekhegi ye behna
-  
+
   4
   Itna tha khayaal aap ko parde ka baradar
   Le jaate the tum raat ko Amma ki lehad par
   Ab dekhegi Zainab ke khule sar ko ye dunya
-  
+
   5
   Didar bhi ho jayega beti ke bahane
   Kya Shaam ke zindaṅ meiṅ aaoge sulane
   Soyegi nahi jab meri lori se Sakina
-  
+
   6
   Hota tha Takallum yuṅ juda bhai behan se
   Jis tarha koi ruh nikalti ho badan se

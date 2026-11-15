@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Jaweed Maqsood"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zamiṅ par laasha-e-Sarwar para hai
   Sar-e-mazlum naize par charha hai

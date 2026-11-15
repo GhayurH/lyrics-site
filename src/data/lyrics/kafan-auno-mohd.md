@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Buknalvi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Paraaya des hai ghurbat hai maaṅ ye seh na paayegi
   Kafan Aun o Muhammad tum ko Zainab de na paayegi

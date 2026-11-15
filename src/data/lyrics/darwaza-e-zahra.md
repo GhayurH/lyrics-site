@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Sajjad Mir"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Darwaza E Zahra Mesum Abbas", "darwaza-e-zahra-mesum-abbas"]
-published: false
+published: true
 romanLyrics: |-
   1
   Darwaaza-e-Zahra se ata hoti rahe gi

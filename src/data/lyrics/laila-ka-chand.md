@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Yawar Azmi"
 reciter: "Ali Rizvi Sachey"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Laila ka chaand dub gaya qatl gaah mein
   Ab roshni nahiṅ shah-e-diṅ ki nigaah mein

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Hasnain"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: ["Aa Rahe Hai Teri Janib"]
-published: false
+published: true
 romanLyrics: |-
   Aa rahe haiṅ teri jaanib ae zamin-e-Karbala
   Mashk-e-nusrat ke liye hai Arbain-e-Karbala

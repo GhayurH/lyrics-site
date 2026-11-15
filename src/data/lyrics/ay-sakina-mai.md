@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Sakina Mai"]
-published: false
+published: true
 romanLyrics: |-
   Zindan mein Sajjad buka karte the ro kar
 

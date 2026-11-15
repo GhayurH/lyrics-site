@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mohamed Ali Wafa"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Is baat se zaahir hai rutba Ali Akbar ka
   Hota hai azaanoṅ mein charcha Ali Akbar ka

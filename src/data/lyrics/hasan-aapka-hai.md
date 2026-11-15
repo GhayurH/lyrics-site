@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Zill-e-Raza Zaidi"
 reciter: "Zill-e-Raza Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["hassan-apka-hai-syed-zill-e-raza-zaidi"]
-published: false
+published: true
 romanLyrics: |-
   Ye jo kuchh bhi maa bain arz o sama hai
   Khuda ki qasam ye Khuda keh raha hai

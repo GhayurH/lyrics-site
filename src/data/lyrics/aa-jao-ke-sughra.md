@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mahir Lakhnavi"
 reciter: "Faazil Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Furqat mein Sakina ki roye
   Beshir ka jhula yaad kare

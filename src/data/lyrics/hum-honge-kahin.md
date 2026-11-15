@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anees"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Hum Honge Kahin"]
-published: false
+published: true
 romanLyrics: |-
   Sheh kehte the Bibi hameiṅ ab jaane do ghar se
   Wo kehti thi saaya jo ye uth jaaye ga sar se

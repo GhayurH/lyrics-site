@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Arsalan Azmi"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Abbas Abbas Abbas Abbas
   Saqqa-e-Sakina Abbas Abbas

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maa kehti thi sine se laga luṅ tujhe aa ja
   Ik baar to phir laut ke Asghar mere aa ja

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Noor Ali"
 reciter: "Rizwan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Qaidi bani maqtal mein khari hai
   Qaidi chhurane waali Zainab

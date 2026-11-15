@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Anees"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jab aakhri rukhsat ko Husain aaye haram se
   Sab bibiyaaṅ lipti Shaah-e-waala ke qadam se

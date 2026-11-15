@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Shadman Raza"
 poet: "Nawab Cholasvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haye ya Husain Ae ya Husain
   Chal rahi hai meri gardan pe chhuri

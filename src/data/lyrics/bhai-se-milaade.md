@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Toosi Zangipuri"
 reciter: "Mir Mohsin Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Nana bhai se mila de
 

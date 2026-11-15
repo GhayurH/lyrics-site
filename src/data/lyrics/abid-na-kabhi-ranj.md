@@ -5,9 +5,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Sibte Jafar"
 romanLyrics: |-
   Abid na kabhi ranj o mihan se nikla

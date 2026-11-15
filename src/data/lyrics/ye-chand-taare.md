@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Ye Chand Taare"]
-published: false
+published: true
 romanLyrics: |-
   Ye chaand taare ye phul kaliyaaṅ
   Husain ka gham mana rahe haiṅ

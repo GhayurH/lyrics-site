@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Apne nazdik jo Zehra ko tarapta dekha
   Jor kar haath Husain ibn-e-Ali ne ye kaha

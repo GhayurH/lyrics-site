@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Bilal Kazmi"
 reciter: "Anjuman-e-Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Amma bas ek raat ka mehmaan hai Husain
 

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Hasnain"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Maa Bata"]
-published: false
+published: true
 romanLyrics: |-
   Ek roz maaṅ se puchha tha ye Shadman ne
   Guzre isi aza mein hai sadiyoṅ ke rat jage

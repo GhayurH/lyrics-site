@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
 reciter: "Nadeem Sarwar / Ali Safdar Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Quran wo kitaab hai jo dars-e-inqilaab hai
   Hamaari darsgaah hai sidha raasta

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Mir Azhar Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Bole Beti Se Sibte"]
-published: false
+published: true
 romanLyrics: |-
   Bole beti se Sibt-e-Payambar
   Baad mere na rona Sakina

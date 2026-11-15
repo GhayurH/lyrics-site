@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Mera sukun bolta hai kabhi junun bolta hai
   Aza jo hai hamara wirsa kabhi ye khun bolta hai

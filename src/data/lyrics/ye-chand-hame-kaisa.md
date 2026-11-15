@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar"
 reciter: "Rizwan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ye Chand Hame Kaisa"]
-published: false
+published: true
 romanLyrics: |-
   Ye chaand hameṅ kaisa garduṅ pe nazar aaya
   Jis ne gham-e-Zehra mein khuṅ aaṅkhoṅ ko rulwaaya

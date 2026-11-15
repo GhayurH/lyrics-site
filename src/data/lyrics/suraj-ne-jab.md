@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Tableegh-e-Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Suraj ne jab sehar ka safar kar liya tamaam
   Khaimoṅ ki samt barhne laga phir ghurur-e-shaam

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Masjid-e-Kufa se le kar ta ba khaak-e-Karbobala
   Qatl sajdoṅ mein hua hai Mustafa ki Aal ka

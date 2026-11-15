@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Viqar"
 reciter: "Aqueel Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Matful tujh pe jaan-e-Payambar hai Karbala
   Kitna buland tera muqaddar hai Karbala

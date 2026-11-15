@@ -9,7 +9,7 @@ poet: "Ishrat Lakhnavi"
 reciter: "Dilawar Hasan"
 tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maqtal mein tha jab chaaroṅ taraf maut ka pehra
   Ashoor ka din tha

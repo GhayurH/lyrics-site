@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Husain Gohar"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Woh waqt yaqinan aayega
 

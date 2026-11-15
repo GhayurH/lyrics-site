@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Aseem Lakhnavi"
 reciter: "Afzal Mirza"
-tags: ["noImage"]
+tags: []
 aliases: ["Kehte Thay Shaah"]
-published: false
+published: true
 romanLyrics: |-
   Kehte the Shaah ae Ali Akbar kahaaṅ ho tum
   Ae mere laal ae mere dilbar kahaaṅ ho tum

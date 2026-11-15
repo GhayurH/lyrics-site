@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Iqbal Abedi"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aflaak pe rone ki matam ki sada jaye
 

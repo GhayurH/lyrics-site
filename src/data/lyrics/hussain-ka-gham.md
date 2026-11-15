@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Hasnain"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: ["Hussain Ka Gham"]
-published: false
+published: true
 romanLyrics: |-
   Labbaik ya Husain
   Husain ka gham manaane waaloṅ

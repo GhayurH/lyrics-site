@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Yawar Azmi"
 reciter: "Ali Rizvi Sachey"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sher-e-Khuda ne sajde mein talwaar khaayi hai
   Ummat yatim ho gayi ya Rab duhaayi hai

@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 reciter: "Nadeem Sarwar, Ali Shanawar, Ali Jee"
 year: 2021
-tags: ["noImage"]
+tags: []
 aliases: ["Nara Ali Da Nadeem Sarwar Ali Shanawar Ali Jee Lyrics 2021", "nara-ali-da-nadeem-sarwar-ali-shanawar-ali-jee-lyrics-2021"]
-published: false
+published: true
 # Punjabi and Urdu wording; the schema has no Punjabi language value.
 # Source credits additional verses to Jawad Jafri and Nadeem Sarwar; principal poet unknown.
 romanLyrics: |-

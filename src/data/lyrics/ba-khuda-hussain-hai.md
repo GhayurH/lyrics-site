@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Kazmi Brothers"
-tags: ["noImage"]
+tags: []
 aliases: ["Ba Khuda Hussain Hai"]
-published: false
+published: true
 romanLyrics: |-
   Ya Husain ya Husain
   Ya Husain Husain Husain

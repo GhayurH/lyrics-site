@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Asad Ali Asad"
 reciter: "Abbas Haider Lalji, Yusuf Okera"
-tags: ["noImage"]
+tags: []
 aliases: ["ali-ki-khatir-abbas-haider-lalji-and-yusuf-okera"]
-published: false
+published: true
 # source_id: tajpoints:35c0cc9100df5d33e628
 # source_url: https://tajpoints.com/2024/01/ali-ki-khatir-abbas-haider-lalji-and.html
 # raw_sha256: 8074a18413d4a743bb98208717eff257e4004f21e224fd2158c795ac928dc0f9

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Zaamine Ghariban"]
-published: false
+published: true
 romanLyrics: |-
   Ae zaamin-e-gharibaṅ
   Laajpaal Raza Maula sarkaar Raza Maula

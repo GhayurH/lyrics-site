@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kaisi hai ye Islaam ke suraj ki ziya dekh
 

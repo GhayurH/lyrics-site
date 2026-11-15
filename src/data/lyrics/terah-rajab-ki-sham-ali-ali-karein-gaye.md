@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Meer Momin"
 reciter: "Syeda Amber Naqvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Terah Rajab ki shaam Ali Ali kareṅ ge
   Maula tere ghulaam Ali Ali kareṅ ge

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jangal pahaar karte haiṅ naad-e-Ali Ali
   Mushkil ko meri hal karo mushkil kusha Ali

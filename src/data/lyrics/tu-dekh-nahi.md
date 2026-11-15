@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Salman Azmi"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Achchha hai teri binaai nahiṅ
   Tu dekh nahiṅ paata Jabir

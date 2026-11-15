@@ -13,31 +13,31 @@ romanLyrics: |-
   1
   Mazhar-e-Rab-e-Zuljalal ALI
   kibriyaayi ka hai kamaal ali
-  
+
   2
   Khana e Kaaba jhilmila utha
   Dekh kr apka jamaal Ali
-  
+
   3
   Bola Din-e-khuda ye mushkil meiṅ
   Ghir raha huṅ mujhe sambhal ALI
-  
+
   4
   Jis ka koi sawaal mil na ska
   Hai khudai ka wo sawaal ali
-  
+
   5
   jab bhi socha khuda ke baare me
   Aagayaa apka khayal ALI
-  
+
   6
   Gaa rahy haiṅ wo git ghairoṅ ke
   aur khaate haiṅ tera maal ALI
-  
+
   7
   Pucha kisne azaan sikhlaiii
   Bole ye hazrat-e-bilal ALI
-  
+
   8
   Aik abbas haiṅ zamane me
   warna teri kahaṅ misaal ALI

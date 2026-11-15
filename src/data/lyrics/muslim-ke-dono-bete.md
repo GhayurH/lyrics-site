@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
 reciter: "Sajjad & Meesum Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Muslim ke donoṅ bete jahaaṅ se guzar gaye
   Do shaahzaade aalam-e-ghurbat meiṅ mar gaye

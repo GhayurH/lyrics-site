@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar, H. Naqvi & Z. Abbas"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Ya Mazoom Imam", "ya-mazoom-imam"]
-published: false
+published: true
 romanLyrics: |-
   Ya mazlum Imam
   Sab ke aansuṅ haiṅ rawaaṅ

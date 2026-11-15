@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Zindan May Sakina Ye"]
-published: false
+published: true
 romanLyrics: |-
   Zindaaṅ mein Sakina ye buka karti thi ro kar
   Dam ghutta hai ammaaṅ mera ab yaaṅ se chalo ghar

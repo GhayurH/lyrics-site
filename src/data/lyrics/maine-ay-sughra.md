@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Najaf Murshidabadi"
 reciter: "Munawar Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Main ne ae Sughra andheroṅ se rifaaqat kar li
   Qaid-e-zindaaṅ meiṅ Sakina yeh sada deti thi

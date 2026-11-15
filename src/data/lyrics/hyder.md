@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Hyder"]
-published: false
+published: true
 romanLyrics: |-
   Khana-e-Haider mein bapa shor-e-buka Haider
   Wavaila haye wavaila

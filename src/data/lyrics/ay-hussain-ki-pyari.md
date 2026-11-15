@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Jaweed Maqsood"
 reciter: "Hadi Ali Khan Muslim"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Hussain Ki Pyari"]
-published: false
+published: true
 romanLyrics: |-
   Ae Husain ki pyari ae Sakina jaaṅ Bibi
 

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: ["Jhoola Ali Asghar Ka"]
-published: false
+published: true
 romanLyrics: |-
   Jhula Ali Asghar ka bhul na paai maadar
 

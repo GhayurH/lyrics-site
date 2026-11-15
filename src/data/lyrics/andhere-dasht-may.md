@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Ali Zia Rizvi"
 poet: "Anees Pehersari"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Andhere dasht mein dukhiya Sakina kiuṅ chali aayeṅ
   Tan be sar ye kehta tha Sakina kiuṅ chali aayeṅ

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: ["Farmate Thay"]
-published: false
+published: true
 romanLyrics: |-
   Farmaate the ye Sayyid-e-Abraar
   Abbas alamdaar

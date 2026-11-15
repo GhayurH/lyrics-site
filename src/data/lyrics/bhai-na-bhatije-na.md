@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Fakhri Jafri"
 reciter: "Khurshid Alam"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bhai na bhatije na pisar laayi huṅ ammaṅ
   Bas ghar ke ujarne ki khabar laayi huṅ ammaṅ

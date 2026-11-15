@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Sajjad Mir"
 reciter: "Mir Sajjad Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Zamin E Aaho Mola Reza", "Zamin e Aaho Mola Reza Mola Reza"]
-published: false
+published: true
 romanLyrics: |-
   Zaamin-e-Aahu Maula Raza
 

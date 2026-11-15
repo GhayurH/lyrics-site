@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Mazhar Abidi"
 reciter: "Irfan Haider"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Maut Teher Ja"]
-published: false
+published: true
 romanLyrics: |-
   Hichkiyaaṅ lete the Ali Akbar
   Umm-e-Laila ye bain karti thi

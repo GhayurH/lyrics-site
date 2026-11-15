@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jo shaamil bazm-e-gham-e-Shabbir nahiṅ hai
   Haasil use imaan ki jaagir nahiṅ hai

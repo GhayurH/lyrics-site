@@ -6,9 +6,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Bilal Kazmi"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Ba Khuda Hakima-e-Kon-o-Makaan Hain Zahra"]
-published: false
+published: true
 # source_id: tajpoints:0a5ad2720381ec8249d4
 # source_url: https://tajpoints.com/2017/03/ba-khuda-hakima-e-kon-o-makaan-hain.html
 # raw_sha256: adfe1bcff2b7e09fd1d1bf37e2cbbfb9d8b9c8b9b7d3df8fbfa298fc626322d9

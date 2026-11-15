@@ -5,9 +5,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage"]
+tags: []
 aliases: ["NA BHUL JANA WASIYAT MERI, MERE QASIM (a.s.)"]
-published: false
+published: true
 romanLyrics: |-
   Shahid hone ka duniya mein waqt jab aaya
   Farishta maut ka paighaam jis ghari laaya

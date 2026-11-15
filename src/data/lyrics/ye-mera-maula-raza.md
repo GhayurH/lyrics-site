@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Lal Hussain Hyderi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haaye Raza Maula Raza
 

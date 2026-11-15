@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Namak se roti kha ke khwaahishoṅ ko chhor kar
   Hazaar sakhtiyoṅ ke baawajud ye safar

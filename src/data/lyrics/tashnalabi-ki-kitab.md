@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Raza Ali Khan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Khuli hai tashnalabi ki kitaab paani mein
   Wafa dikha gayi Khaibar ka baab paani mein

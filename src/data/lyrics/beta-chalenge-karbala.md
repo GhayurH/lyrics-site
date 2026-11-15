@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zainab ne Abid se kaha beta chaleṅ ge Karbala
   Zindaaṅ mein sab kuchh kho gaya beta chaleṅ ge Karbala

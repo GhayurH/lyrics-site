@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: ["Wegha Ko Abbas"]
-published: false
+published: true
 romanLyrics: |-
   Wagha ko Abbas aa rahe haiṅ
   Ke hashr giti meiṅ aa raha hai

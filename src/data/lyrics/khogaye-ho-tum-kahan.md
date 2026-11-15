@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Hassan"
 reciter: "Mir Sumeair Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kho gaye ho tum kahaaṅ dhundti maadar
 

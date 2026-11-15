@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Dilshad Zaidi"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jaanta hai bas Khuda kaise sambhal paaye Husain
   Qatl-gaah mein laash par Akbar ki jab aaye Husain

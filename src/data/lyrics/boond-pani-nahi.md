@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Jawad Jaffri"
-tags: ["noImage"]
+tags: []
 aliases: ["Boond Pani Nahi"]
-published: false
+published: true
 reciter: "Hasan Sadiq"
 romanLyrics: |-
   Bund paani nahiṅ bhaiya na hawa aati hai

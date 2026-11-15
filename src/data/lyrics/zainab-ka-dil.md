@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Shaam aaya Zainab ka dil ghabraaya
   Bin chaadar Bibi ne chehra baaloṅ se chhupaaya

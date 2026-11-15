@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Salam"
 reciter: "Alamdar Razvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kehti thi yehi Zainab dukhiya
   Mere biranwa mujra lo mera

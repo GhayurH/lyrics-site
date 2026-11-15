@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rashid Shahidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Anj. Masumin"
 romanLyrics: |-
   Di sada Zainab ne ammaṅ ghar luta kar aayi huṅ

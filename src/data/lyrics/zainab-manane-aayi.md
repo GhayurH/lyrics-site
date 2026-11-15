@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Moosavi"
 reciter: "Hadi Ali Khan Muslim"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zainab manaane aayi hai bhai ka arbain
 

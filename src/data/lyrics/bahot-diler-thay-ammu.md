@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Bahot Diler Thay Ammu"]
-published: false
+published: true
 romanLyrics: |-
   Khayaal aata hai wo waqt kya raha hoga
   Asir qaafila darbaar jab gaya hoga

@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Rasheed Shaheedi"
 reciter: "Hadi Ali Khan Muslim; Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zanjir mein jakre hue bimaar ka maatam
   Hum karte haiṅ Karbal ke azaadaar ka maatam

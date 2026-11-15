@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ishrat Lakhnavi"
 reciter: "Dilawar Hasan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Qasim Qasim ka noha hai ghar mein qayaamat hai
   Umm-e-Farwa ka girya hai ghar mein qayaamat hai

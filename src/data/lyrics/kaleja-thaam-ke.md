@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Ali Khan Lakhnavi"
 reciter: "Zawwar Husain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kaleja thaam ke Shah ne pukaara ae Ali Akbar
   Main dekhuṅ kis tarah jaana tumhaara ae Ali Akbar

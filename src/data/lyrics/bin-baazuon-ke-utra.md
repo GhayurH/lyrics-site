@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Bin Baazuon Ke Utra"]
-published: false
+published: true
 romanLyrics: |-
   Kulsum ro ke kehti hai Ummul Banin se
   Bin baazuoṅ ke utra hai Abbas zin se

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Rakh ke sar sina-e-Sarwar pe Sakina boli
   Chhor kar ammu gaye aur gaye sab bhaai

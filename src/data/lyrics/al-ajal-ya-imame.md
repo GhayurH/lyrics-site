@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Fareed Baig"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Anj. Masoomeen"
 romanLyrics: |-
   Al ajal al ajal Ya Imam-e-Zamaṅ

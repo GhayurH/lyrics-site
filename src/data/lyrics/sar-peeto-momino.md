@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Bober Ali"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sar pito mominoṅ hai shahaadat Batul ki
   Shab mein Ali uthaate haiṅ mayyat Batul ki

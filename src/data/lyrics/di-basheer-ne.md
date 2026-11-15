@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Baqar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Aastaana-e-Zehra"
 romanLyrics: |-
   Di Bashir ne ro ke ye sada

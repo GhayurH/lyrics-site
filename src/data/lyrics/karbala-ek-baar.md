@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Majid Raza Abidi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Misl-e-Hurr qismat jaga kar dekhna
   Karbala ek baar jaa kar dekhna

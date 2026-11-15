@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Raza Ali Khan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Mujraee paida hua tha sam Hasan ke waaste
   Aur bana khanjar shah-e-tashna dahan ke waaste

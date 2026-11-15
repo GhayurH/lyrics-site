@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Haider Khursheed"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: ["Matam Karo Hussainyo"]
-published: false
+published: true
 romanLyrics: |-
   Ho salaam ya Imaam ya Imaam ho salaam
 

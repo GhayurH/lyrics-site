@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
 reciter: "Ali Murtaza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ye baat Shaah ne maqtal mein khun se likh di hai
   Rag-e-gulu bhi to khanjar ko kaat deti hai

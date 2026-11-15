@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
 reciter: "Irfan Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Baba ka sar Sakina aaghosh mein utha ke
   Faryaad kar rahi hai rudaad-e-gham suna ke

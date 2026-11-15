@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Nadeem Sarwar"
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bayan karta huṅ darbar-e-Shaam ka manzar
   Jahaṅ the saat sau kursi nashiṅ fitnagar

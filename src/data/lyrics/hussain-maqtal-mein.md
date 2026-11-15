@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Raza"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Husain maqtal mein chup khare hai
 

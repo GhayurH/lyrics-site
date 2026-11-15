@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
 reciter: "Tabligh-e-Imamia"
-tags: ["noImage"]
+tags: []
 aliases: ["Bunyade Lailaah"]
-published: false
+published: true
 romanLyrics: |-
   Bunyaad-e-la ilaaha wujud-e-azaan-e-Husain
   Qad qaamatis salaat ke ruh-e-rawaan-e-Husain

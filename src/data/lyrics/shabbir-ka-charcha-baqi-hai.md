@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Payam Azmi"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["shabbir-ka-charcha-baqi-hai-mir-hasan-mir"]
-published: false
+published: true
 romanLyrics: |-
   1
   Chaudah sadiyaaṅ bit gayiṅ Shabbir ka charcha baaqi hai

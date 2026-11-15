@@ -53,7 +53,6 @@ romanLyrics: |-
   Ahmad ki baat baat meiṅ Haider ki baat hai
   Bole ke zikr auroṅ ka aata nahiṅ hai kiuṅ
   Maiṅ ne kaha ke yeh to muqaddar ki baat hai
-
 ---
 
 ایک روز ایک صاحبِ زلفِ دراز نے

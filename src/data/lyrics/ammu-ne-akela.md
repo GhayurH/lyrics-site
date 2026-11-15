@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Dilawar Hasan"
 poet: "Ishrat Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Har dam tha Sakina ka nauha
   Ammu ne akela chhor diya

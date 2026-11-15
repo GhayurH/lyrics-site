@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Baatil ka zehr phail raha hai hawaaoṅ mein
   Rahiye wilaa-e-Aal-e-Muhammad ki chhaaoṅ mein

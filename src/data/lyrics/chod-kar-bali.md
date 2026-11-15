@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mujeeb Alipuri"
 reciter: "Mir Mohsin Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kya Nabi ki aal par aayi musibat ki ghari
   Tha qayaamat ka samaaṅ aur Bibiyoṅ mein khalbali

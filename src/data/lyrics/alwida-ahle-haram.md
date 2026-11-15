@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Ahmed Naved"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Asr ka waqt qarib aa gaya lo jaate haiṅ hum
   Alwida ahl-e-haram alwida alwida

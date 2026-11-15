@@ -12,57 +12,57 @@ published: true
 romanLyrics: |-
   Bazaar Ke Manzar Ko Aur Apne Khule Sar Ko Bhuli Nahi Meiṅ
   Apne Bandhe Hathoṅ Ko Bimar Ke Zewar Ko Bhuli Nahi Meiṅ
-  
+
   1
   Uthti Hui Aandhi Ko Mahshar Ko Bayabaaṅ Ko
   Chhupte Hue Suraj Ko Taariki Ko Maidaaṅ Ko
   Chalte Hue Khanjar Ko Neze Pe Tere Sar Ko Bhuli Nahi Meiṅ
-  
+
   2
   Ek Chand Tha Badli Meiṅ Chhupta Tha Nikalta Tha
   Parda Dar-e-Khaima Ka Uthta Kabhi Girta Tha
   Woh Khaima-e-Laila Se Haye Rukhsat-e-Akbar Ko Bhuli Nahi Meiṅ
-  
+
   3
   Yaad Aata Hai Dulhan Ko Ghash Kis Tarha Aaye The
   Ek Gathri Shah-e-Wala Jab Kandhoṅ Pe Laye The
   Us Laash Ki Gathri Ko Us Khuṅ Bhari Chadar Ko Bhuli Nahi Meiṅ
-  
+
   4
   Fizza Ko Mera Bhai Maaṅ Keh Ke Bulata Tha
   Dam Us Ka Mere Bhai Ke Naam Pe Jata Tha
   Rutbe Meiṅ Jo Maaṅ Ban Kar Aayi Us Madar Ko Bhuli Nahi Meiṅ
-  
+
   5
   Lehrata Hua Neza Haye Shimr Ka Woh Barhna
   Aa Aa Ke Mere Pichhe Har Bibi Ka Woh Chhupna
   Sholoṅ Meiṅ Ghire Ghar Ko Chhinti Hui Chadar Ko Bhuli Nahi Meiṅ
-  
+
   6
   Yaad Aata Hai Ek Maaṅ Ka Woh Khaak Meiṅ Dhas Jana
   Aur Aag Ke Sholoṅ Meiṅ Woh Maaṅ Ka Jhulas Jana
   Jalte Hue Jhule Se Lipti Hui Madar Ko Bhuli Nahi Meiṅ
-  
+
   7
   Masum Sakina Ko Barhte Hue Nezoṅ Ko
   Riste Hue Gaaloṅ Ko beRehm Tamachoṅ Ko
   Dukhte Hue Kaanoṅ Ko Khinchte Hue Gohar Ko Bhuli Nahi Meiṅ
-  
+
   8
   Jis Raat Meiṅ Tanha Thi Us Raat Ke Dhalne Ko
   Tute Hue Neze Ko Us Raat Ke Pehre Ko
   Bachoṅ Ke Sisakne Ko Aur Raakh Ke Bistar Ko Bhuli Nahi Meiṅ
-  
+
   9
   Un Shaam Ki Galiyoṅ Ko Jin Se Khule Sar Guzre
   Jis Dar Se Guzarne Meiṅ Yeh Solah Pehar Guzre
   Darbar Ke Us Dar Ko Aur Shamiyoṅ Ke Shar Ko Bhuli Nahi Meiṅ
-  
+
   10
   Hai Aaj Bhi Woh Girya Hai Aaj Bhi Woh Zari
   Hai Aaj Bhi Patthar Ke Sine Se Lahu Jari
   Rote Hue Patthar Ko Patthar Pe Rakhe Sar Ko Bhuli Nahi Meiṅ
-  
+
   11
   Aati Hai Navid Ab Bhi Aawaz Yeh Zainab Ki
   Hai Mujh Ko Qasam Sadiyoṅ Se Sukhe Hue Lab Ki

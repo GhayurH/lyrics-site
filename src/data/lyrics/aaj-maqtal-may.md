@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Marsiya"
 reciter: "Sibte Jafar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aaj maqtal mein ajab be saro samaan hai haram
   Dil hai majrooh khule sar hai pareshan hai haram

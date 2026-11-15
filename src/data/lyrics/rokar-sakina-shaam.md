@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Muhammad Zaki"
 reciter: "Anj. Hyderi Ali Basti"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Rokar Sakina Shaam ke zindaaṅ meiṅ mar gayi
   Baano ke dil pe goya qayaamat guzar gayi

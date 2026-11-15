@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Takallum Mir"
 reciter: "Master Syed Muhammad Shah"
-tags: ["noImage"]
+tags: []
 aliases: ["mere-laboon-pe-seerat-e-akbar-ki-baat-hai-lyrics-2019"]
-published: false
+published: true
 romanLyrics: |-
   Mere laboṅ pe sirat-e-Akbar ki baat hai
   Duniya samajh rahi hai Payambar ki baat hai

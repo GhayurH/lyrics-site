@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mujahid Lakhnavi"
 reciter: "Ali Rizvi Sachey"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Husain tum pe jo imaan laa nahiṅ sakta
   Qasam Khuda ki wo jannat mein jaa nahiṅ sakta

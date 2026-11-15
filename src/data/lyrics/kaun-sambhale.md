@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Kumail Jafri"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Kaun Sambhale"]
-published: false
+published: true
 romanLyrics: |-
   Girte huwe naaqe se zamin par
   Kaun sambhaale Zainab ko

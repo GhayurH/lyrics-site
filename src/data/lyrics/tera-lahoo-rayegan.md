@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ameer Hussain Mashadi"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: ["Tera Lahoo Rayegan"]
-published: false
+published: true
 romanLyrics: |-
   Husain tera lahu raaigaaṅ na jaayega
   Behen ka waada hai ye rang zarur laayega

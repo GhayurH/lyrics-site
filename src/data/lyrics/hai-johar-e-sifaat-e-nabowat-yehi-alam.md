@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Allama Dr Majid Raza Abidi"
 reciter: "Syed Wajhi Hasan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["hai-johar-e-sifaat-e-nabowat-yehi-alam-1-4"]
-published: false
+published: true
 # source_id: tajpoints:09718452d2507fad4b90
 # source_url: https://tajpoints.com/2017/12/hai-johar-e-sifaat-e-nabowat-yehi-alam.html
 # raw_sha256: 4ffd0f67da928788db408cfc9cd38b0c926127dba52aa682ada6ec5bb962edcf

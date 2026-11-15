@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 reciter: "Asim Lilan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Raaj dulaara Zehra ka zakhmi hai aur pyaasa hai
   Bund nahiṅ hai paani ki khun ka darya behta hai

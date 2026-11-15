@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 reciter: "Hadi Ali Khan Muslim"
 poet: "Fareed Baig"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Arbaeen karna hai Shah-e-Karbalaayi ka
 

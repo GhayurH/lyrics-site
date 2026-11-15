@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Bismil Bilgrami"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Abbas se kehti thi ye fauj-e-sitam aara
   Darya hai hamaara

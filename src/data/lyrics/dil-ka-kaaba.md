@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Ammar Rizvi"
 reciter: "Musayyab Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Makke mein Kaaba meri jabiṅ ka
   Hai dil ka Kaaba Karbala mein

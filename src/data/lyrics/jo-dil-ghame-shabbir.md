@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jo dil gham-e-Shabbir meiṅ maghmum bahut haiṅ
   Goya wo qarib-e-Shaah-e-mazlum bahut haiṅ

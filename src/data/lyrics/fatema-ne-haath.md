@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Abbas"
 reciter: "Muslim Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Fatema ne haath pehlu par rakha hai aaj bhi
   Pasliyaaṅ tuti hai aur khuṅ ris raha hai aaj bhi

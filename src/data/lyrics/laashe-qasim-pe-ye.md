@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
 reciter: "Irfan Husain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Laash Qaasim pe ye kehte the Shehenshaah-e-zaman
   Kaise le jaauṅ main mayyat teri farzand-e-Hasan

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Salam"
 reciter: "Alamdar Razvi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ghar Ko Choda"]
-published: false
+published: true
 romanLyrics: |-
   Ghar ko chhora Shaah ne jangal basaane ke liye
   Karbala mein aaye the jannat mein jaane ke liye

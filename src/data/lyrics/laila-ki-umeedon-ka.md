@@ -5,9 +5,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage"]
+tags: []
 aliases: ["Laila Ki Umeedon Ka"]
-published: false
+published: true
 romanLyrics: |-
   Laila ki ummidoṅ ka kya haal hua hoga
   Jab ghar se jawaaṅ beta marne ko chala hoga

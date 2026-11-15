@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Danish Mirza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bekafan baap ki mayyat se guzaara mujh ko
   Kitna ummat ne mere Baba sataaya mujh ko

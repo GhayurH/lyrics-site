@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Aijaz Rizvi"
 reciter: "Ishtiaq Husain"
-tags: ["noImage"]
+tags: []
 aliases: ["Ye Azadari E Sarwar"]
-published: false
+published: true
 romanLyrics: |-
   Ye azadaari-e-Sarwar hai hamaari zindagi
   Is azadaari se paayi raah-e-haq ki roshni

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Shah-e-shahidaaṅ shah-e-shahidaaṅ
   Ruh-e-shariat saahib-e-Quraan

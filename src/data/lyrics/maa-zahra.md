@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Hasan Husain ki zakhmi gharib maaṅ Zahra
   Tamaanche khaati hai betoṅ ke darmiyaaṅ Zahra

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shams Tabrez"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Muslim se koi puchhe Zainab ki beridaai
   Kufe mein jab behan ne rudaad-e-gham sunaai

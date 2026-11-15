@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Sibte Jafar"
 reciter: "Sibte Jafar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Yehi hai Sakina yehi Fatema hai
   Yehi dukhtar-e-Shaah-e-Karb o Bala hai

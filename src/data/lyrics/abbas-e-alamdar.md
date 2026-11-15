@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zulfiqar Ahmed"
 reciter: "Mir Mohsin Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kis sher ki aamad hai ke ran kaanp raha hai
   Ran ek taraf charkh-e-kohan kaanp raha hai

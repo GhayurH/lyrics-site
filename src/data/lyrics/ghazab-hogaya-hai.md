@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Baqar Hussain"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Suno rozadaaroṅ Ali Murtaza ke
   Chali tegh sar par ghazab ho gaya hai

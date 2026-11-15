@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Saaye May Sayyeda"]
-published: false
+published: true
 romanLyrics: |-
   Saaye mein Sayyeda ke azaadaar raheṅge
   Jab hoga sawa naize pe khurshid o qayaamat

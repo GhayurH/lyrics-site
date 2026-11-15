@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Waiz Sultanpuri"
 reciter: "Ali Mohd. Sultanpuri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ummul Banin roti hai sar pit pit kar
   Kohram hai barpa kohram hai barpa

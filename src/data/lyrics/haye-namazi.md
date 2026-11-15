@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Bober Ali"
 reciter: "Mir Arif Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ik shor utha haye namaazi
   Hai qatl hua haye namaazi

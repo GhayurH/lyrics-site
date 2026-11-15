@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Hamd"
 poet: "Rehan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: ["har-aik-waqt-mein-apna-nishan-deta-hai-rehan-azmi-lyrics-2024"]
-published: false
+published: true
 recitationId: "har-aik-waqt-mein-apna-nishan-deta-hai-rehan-azmi-lyrics-2024"
 romanLyrics: |-
   Har aik waqt mein apna nishaan deta hai

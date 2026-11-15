@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Aspe Wafadar"]
-published: false
+published: true
 romanLyrics: |-
   Jab aakhri rukhsat ko chale Sayyid-e-waala
   Hamsheer ko dukhtar ko bhi Allah ko sauṅpa

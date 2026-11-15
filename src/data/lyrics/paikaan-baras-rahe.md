@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Baba Nisaar Haideri"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Paikaan Baras Rahe"]
-published: false
+published: true
 romanLyrics: |-
   Paikaaṅ baras rahe haiṅ taabut par Hasan ke
   Ummat mita rahi hai aasaar-e-Panjatan ke

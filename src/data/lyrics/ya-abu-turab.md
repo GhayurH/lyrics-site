@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ya Aeliya ya Murtaza ya Abul Hasan mushkil kusha
   Ya Abu Turaab ya Abu Turaab ya Abu Turaab ya Abu Turaab

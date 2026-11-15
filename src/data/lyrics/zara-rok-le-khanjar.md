@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zainab ko dekha Sheh ne jo nazdik-e-qatlgaah
   Us dam gharib-e-Zehra ne qaatil se ye kaha

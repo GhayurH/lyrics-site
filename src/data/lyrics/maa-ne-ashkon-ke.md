@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Irtaza Johnpuri"
 reciter: "Asif Ali Abir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maa ne ashkoṅ ke musalle pe sajaayi mehndi
   Dast-e-Qasim pe tasavvur mein lagaayi mehndi

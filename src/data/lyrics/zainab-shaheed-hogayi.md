@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Rizwan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Zainab Shaheed Hogayi"]
-published: false
+published: true
 romanLyrics: |-
   Na Karbala na Kufa na darbaar-e-aam mein
   Zainab shahid ho gayi baazaar-e-Shaam mein

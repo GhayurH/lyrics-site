@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Syeda Naqvi"
 reciter: "Ahmed Raza Nasiri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Mehdi ke sar se saaya baaba ka uth gaya hai
   Ranj o alam meiṅ duba Narjis ka laadla hai

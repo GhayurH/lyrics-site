@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: ["Aagaya Mahe Moharam"]
-published: false
+published: true
 romanLyrics: |-
   Chaand Muharram ka nazar aa gaya
   Chha gayi gham ki fiza

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Kumail Akbarabadi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Dard mein dube haiṅ sabhi maatami
   Sab ki zabaanoṅ pe hai nauha yehi

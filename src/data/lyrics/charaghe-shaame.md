@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zafar Abbas"
 reciter: "Irfan Haider"
-tags: ["noImage"]
+tags: []
 aliases: ["Charaghe Shaame"]
-published: false
+published: true
 romanLyrics: |-
   Charagh-e-shaam-e-gharibaṅ ki roshni Zainab
   Sharik-e-maqsad-e-Shabbir ban gayi Zainab

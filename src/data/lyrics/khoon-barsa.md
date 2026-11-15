@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 reciter: "Ali Shanawar, Ali Ji"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Khuṅ barsa khuṅ barsa
 

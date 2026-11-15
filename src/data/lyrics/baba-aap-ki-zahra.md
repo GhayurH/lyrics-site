@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nadeem Sultanpuri"
 reciter: "Ali Mohd. Sultanpuri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Baba aap ki Zahra par kya waqt ye aaya hai
   Rone pe bhi paabandi hai bin baap ke beti ko yuṅ

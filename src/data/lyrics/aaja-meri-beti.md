@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Asif Bijnori"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zahra meri bachchi aaja meri beti
   Aaja meri Zahra

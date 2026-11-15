@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Naseem Buknalvi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Abbas qatl ho gaye Akbar juda hua
   Hum se kisi ne ye bhi na puchha ke kya hua

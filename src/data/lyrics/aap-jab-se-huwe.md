@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Najam Azmi"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ya Rasul Allah
   Apni tanhaai mein Zehra yaad karti hai tumheṅ

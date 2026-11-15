@@ -5,10 +5,10 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Salam"
-tags: ["noImage"]
+tags: []
 aliases: []
 recitationId: "afsos-nabi-zadiyon-ka-sham-mein-jana-sajjad-se-pocho-mir-hasan-mir"
-published: false
+published: true
 reciter: "Mir Hassan Mir"
 romanLyrics: |-
   Afsos Nabi zadiyoṅ ka Shaam mein jaana Sajjad se puchho

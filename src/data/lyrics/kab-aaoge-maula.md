@@ -7,9 +7,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   1
   Jaage hue fitnoṅ ko sulaane chale aao

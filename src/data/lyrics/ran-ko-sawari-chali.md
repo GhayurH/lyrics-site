@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Ran Ko Sawari Chali"]
-published: false
+published: true
 romanLyrics: |-
   Jaanib-e-darya chala Abbas tishna laboṅ ki aas
 

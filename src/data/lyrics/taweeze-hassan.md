@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Mazhar Abidi"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Taweeze Hassan", "Bhai Ko Bhai Yaad"]
-published: false
+published: true
 romanLyrics: |-
   Taweez-e-Hasan jab Qasim ne
   Shabbir ko dikhlaaya

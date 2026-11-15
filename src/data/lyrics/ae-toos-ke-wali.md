@@ -5,10 +5,10 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage"]
+tags: []
 aliases: []
 recitationId: "aey-toos-k-waali-mir-hasan-mir"
-published: false
+published: true
 poet: "Mir Hasan Mir"
 reciter: "Mir Hasan Mir"
 romanLyrics: |-

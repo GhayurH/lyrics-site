@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Hasnain"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kaha kisi ne Sakina se tum dua ye karo
   Koi bhi beti tumhaari tarah yatim na ho

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Mohammad Alvi"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: ["Baba Ke Shehr May"]
-published: false
+published: true
 romanLyrics: |-
   Zahra gharib ho gayi baba ke shehr mein
   Ghut ghut ke zindagi kati baba ke shehr mein

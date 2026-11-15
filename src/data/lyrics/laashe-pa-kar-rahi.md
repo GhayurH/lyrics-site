@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Irfan Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Laashe pe kar rahi hai Laila ye noha khwaani
   Nazroṅ mein phir rahi hai Akbar teri jawaani

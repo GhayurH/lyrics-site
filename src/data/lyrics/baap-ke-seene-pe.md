@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Jamal Meerthi"
 reciter: "Sharif Husain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Baap ke sine pe sona ab kahaaṅ
   Ae Sakina wo bichhona ab kahaaṅ

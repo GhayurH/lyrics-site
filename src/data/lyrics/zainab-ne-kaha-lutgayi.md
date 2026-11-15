@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Muhammad Zaki"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zainab ne kaha lut gayi pardes mein aakar
   Ae saaqi-e-Kausar

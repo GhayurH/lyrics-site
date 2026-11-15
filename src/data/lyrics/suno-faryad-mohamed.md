@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Dayam Najafi"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Baqaa-e-la ilaha Husain hai
   Farmaan-e-Mustafa hai yeh qaul-e-Rasul hai

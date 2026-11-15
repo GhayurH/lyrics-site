@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Izhaar"
 reciter: "Rizwan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sitam baba ki ummat ka kabhi bhuliṅ nahiṅ Zahra
   Wo jalta ghar ka darwaaza kabhi bhuliṅ nahiṅ Zahra

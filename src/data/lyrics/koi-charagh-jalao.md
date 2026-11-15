@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mirza Murtaza Ali"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Koi charagh jalao bahot andhera hai
   Sakina ko na jagao bahot andhera hai

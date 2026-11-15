@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zulfiqar Ahmed"
 reciter: "Mir Mohsin Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Sakina Sham Ke Zindan"]
-published: false
+published: true
 romanLyrics: |-
   Sakina Shaam ke zindaan mein ro ro ke karti thi bayaaṅ
   Ji nahiṅ sakti tumhaare bin ae mere baba jaaṅ

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Rifat Sultan"
-tags: ["noImage"]
+tags: []
 aliases: ["Zulmat Nishaan Hai Dahar Tu Hai Roshni Ali"]
-published: false
+published: true
 romanLyrics: |-
   Zulmat nishaaṅ hai dahr tu hai roshni Ali
   Larzaaṅ hai jis se maut bhi woh zindagi Ali

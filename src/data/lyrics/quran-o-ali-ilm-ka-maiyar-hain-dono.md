@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Takallum Mir"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["quran-o-ali-ilm-ka-maiyar-hain-dono-mir-hasan-lyrics-2007"]
-published: false
+published: true
 romanLyrics: |-
   Allah o Payambar ke madadgaar haiṅ donoṅ
   Quran o Ali ilm ka maiyaar haiṅ donoṅ

@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Akhtar Sirsvi"
 reciter: "Irfan Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Na ji paayegi Fizza
   Zainab na tujhe chhor ke ji paayegi Fizza

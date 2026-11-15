@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Bober Ali"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aaj matam bapa hai Maula ka
   Zikr ghar ghar hua hai Maula ka

@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Anees Pehersari"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ali Akbar Ali Akbar
   Sughra ne khat mein likha dil muztarib hai mera

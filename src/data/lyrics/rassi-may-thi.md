@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Majid Raza Abidi"
 reciter: "Mukhtar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: ["Rassi May Thi"]
-published: false
+published: true
 romanLyrics: |-
   Ho kar asir-e-zulm junhi dukhtar-e-Ali
   Kufe ki simt gyaarah Muharram ko jab chali

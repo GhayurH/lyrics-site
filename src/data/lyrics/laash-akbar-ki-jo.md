@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hasan Abbas Rizvi"
 reciter: "Ahsan Husain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Laash Akbar ki jo maqtal se uthaa laaye Husain
   Par lahu sine ka maaṅ se na chhupaa paaye Husain

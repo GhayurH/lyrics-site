@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Hasnain Akbar"
-tags: ["noImage"]
+tags: []
 aliases: ["Hum Kaise Chale Jaye"]
-published: false
+published: true
 romanLyrics: |-
   Ashur ki shab karte the ashaab ye noha
   Hum kaise chale jaaeṅ tumheṅ chhor ke Maula

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mohib Fazli"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: ["Maare Gaye Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Ya Husain ya Husain ya Husain ya Husain
 

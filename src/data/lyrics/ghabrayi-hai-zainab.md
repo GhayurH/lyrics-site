@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mazhar Abidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ghabraayi hai Zainab aaya hai Madina
   Labrez hai gham se har Bibi ka sina

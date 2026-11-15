@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Ahmed Naved"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: ["Sab Jal Chuke Qayam"]
-published: false
+published: true
 romanLyrics: |-
   Sab jal chuke khiyaam
   Bikhri hui hai raat sisakta hai ban tamaam

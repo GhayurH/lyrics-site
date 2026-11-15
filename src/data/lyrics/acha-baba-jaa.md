@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Samar Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Raza Abbas Zaidi"
 romanLyrics: |-
   Aakhri rukhsat ko aae jab Shah-e-Karbobala

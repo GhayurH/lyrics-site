@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Safdar Abbas"
 poet: "Baaqir Husain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Dhup mein hai qabr-e-Zehra gumbad-e-Khizra ke paas
   Ye Nabi karte haiṅ nauha gumbad-e-Khizra ke paas

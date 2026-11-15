@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Shahid Jafer"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: Ali Zia Rizvi
 romanLyrics: |-
   Karbala walon pe jo guzri wo qayaamat aur hai

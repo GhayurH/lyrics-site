@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mubarak Jalalpuri"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haye jis kurte meiṅ zindaan talak laai gayi
   Ae Sakina tu usi kurte meiṅ dafnaai gayi

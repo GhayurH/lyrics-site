@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Abbas Aurangabadi"
 reciter: "Sahib-e-Aalam"
-tags: ["noImage"]
+tags: []
 aliases: ["Ruqsat Jahan Se Aaj"]
-published: false
+published: true
 romanLyrics: |-
   Rukhsat jahaaṅ se aaj Ali Naqi ki hai
   Ye shab gham o alam ki hai sina zani ki hai

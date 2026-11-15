@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mohib Fazli"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: ["Watan Mai Aagayi"]
-published: false
+published: true
 romanLyrics: |-
   Haae nana teri Zainab phiri dar dar rasan basta
 

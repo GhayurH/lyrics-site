@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Jameel Moosavi"
 reciter: "Hassan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aashur ki ye shab hai shahadat ki raat hai
   Matam bapa karo ke qayamat ki raat hai

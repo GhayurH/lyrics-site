@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Hasan Sadiq"
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sajjad tere gham mein zanjir ro rahi hai
   Aankhoṅ mein khwaab chup haiṅ taabir ro rahi hai

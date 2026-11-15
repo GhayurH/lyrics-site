@@ -5,9 +5,9 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Ali Zia Rizvi"
 romanLyrics: |-
   Akbar karyal jawaṅ, Akbar karyal jawaṅ

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Majid Raza Abidi"
 reciter: "Mukhtar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ek maa ki aa rahi hai sada ae mere Husain
   Aa jaa tu meri god mein aa ae mere Husain

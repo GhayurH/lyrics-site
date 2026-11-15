@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Hussainun"]
-published: false
+published: true
 romanLyrics: |-
   Hamaare lahu ki sada Karbala
   Diloṅ par hai likha hua Karbala

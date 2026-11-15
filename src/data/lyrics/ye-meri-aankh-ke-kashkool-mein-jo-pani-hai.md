@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Salam"
 poet: "Irfan Sahil Gujranwala"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ye meri aaṅkh ke kashkul mein jo paani hai
   Azaa-e-Aal-e-Payambar ki meharbaani hai

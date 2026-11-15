@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Farhan Ali Waris"
 romanLyrics: |-
   Jab Shimr-e-laiṅ shuhadaa ke sar kaat ke laaya

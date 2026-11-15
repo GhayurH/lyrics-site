@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Aye Wallah"]
-published: false
+published: true
 romanLyrics: |-
   Dasht-e-Karbala mein kehti thi Zehra
   Ae wallah wallah ae wallah

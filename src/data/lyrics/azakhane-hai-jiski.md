@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nayab Balyavi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Azakhane hai jiski shaan ye mera mulk mera emaan
   Mere Maula ki khwahish ka naam hai Hindustan

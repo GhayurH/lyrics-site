@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Bober Ali"
 reciter: "Mir Bober Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Aagaya Maahe Aza", "غم کی چھای ہے گھٹا آنسوں بہالو مومنوں"]
-published: false
+published: true
 romanLyrics: |-
   Gham ki chhaayi hai ghata aansu baha lo mominoṅ
   Aa gaya maah-e-aza aansu baha lo mominoṅ

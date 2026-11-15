@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Itrat-e-Athaar ke ghamkhwaar ashaab-e-Husain
   Lashkar-e-Abbaas ke jarraar ashaab-e-Husain

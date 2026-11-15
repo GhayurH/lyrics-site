@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Kumail Jafri"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jo bichhaate haiṅ Muharram mein sadaa farsh-e-azaa
   Fatima un ki hifaazat ki duaa karti hai

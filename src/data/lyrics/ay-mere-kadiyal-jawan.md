@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Noor Ali"
 reciter: "Nasir Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Mere Kadiyal Jawan"]
-published: false
+published: true
 romanLyrics: |-
   Ae mere kariyal jawaaṅ ae mere kariyal jawaaṅ
   Ae pisar-e-naujawaaṅ ae pisar-e-naujawaaṅ

@@ -7,10 +7,10 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Bilal Kazmi"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Bandagi Ki Laaj Jo Rakh Le Mir Hasan Mir"]
 recitationId: "bandagi-ki-laaj-jo-rakh-le-mir-hasan-mir"
-published: false
+published: true
 romanLyrics: |-
   Bandagi ki laaj jo rakh le woh banda aur hai
   Jo tah-e-khanjar kiya jaaye woh sajda aur hai

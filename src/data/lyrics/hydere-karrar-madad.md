@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: ["Hydere Karrar Madad"]
-published: false
+published: true
 romanLyrics: |-
   Ye kis ne kaha zinda rahenge to kahenge
   Ham naam-e-Ali le ke mareṅ ge to jiyeṅ ge

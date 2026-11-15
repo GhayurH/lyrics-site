@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anees Pehersari"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tay kiya safar kaise pehne beriyaaṅ Abid
   Sar khule thiṅ naaqoṅ par saath Bibiyaaṅ Abid

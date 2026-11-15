@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aap ki Zehra pe ye kaise zamane aaye
   Dekhiye log mere ghar ko jalane aaye

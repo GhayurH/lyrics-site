@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nadeem Naqvi"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Zainab Ke Ujadne Ke"]
-published: false
+published: true
 romanLyrics: |-
   Jibril khabar-e-gham ki falak se laaye
   Zainab ke ujarne ke zamaane aaye

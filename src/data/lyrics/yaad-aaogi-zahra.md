@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Waiz Sultanpuri"
 reciter: "Ali Mohd. Sultanpuri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kaandhe pe liye bint-e-Payambar ka janaaza
   Jab jaane lage su-e-Baqayya mere Maula

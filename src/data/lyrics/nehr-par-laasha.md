@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Musaddiq Lakhani"
 reciter: "Rizwan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Nehr par laasha para hai bawafa Abbas ka
   Uth gaya behnoṅ ke sar se aasra Abbas ka

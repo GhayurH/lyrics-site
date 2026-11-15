@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Suroor Lakhnavi"
 reciter: "Anj. Muhibbane Husain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sakina ki ye sada hai chacha nahiṅ aaye
   Andhera barhne laga hai chacha nahiṅ aaye

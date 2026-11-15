@@ -10,10 +10,10 @@ reciter: "Izan Abbas Khan Group Sialkot"
 year: 2025
 occasion: "13 Safar"
 # Punjabi in Arabic script; language/lang retain the site's available schema values.
-tags: ["noImage"]
+tags: []
 aliases: ["masooma-aakhay-veran-nu-aye-pyas-di-had-ki-hondi-aye-lyrics-new-noha-1"]
 recitationId: "masooma-aakhay-veran-nu-aye-pyas-di-had-ki-hondi-aye-lyrics-new-noha-1"
-published: false
+published: true
 romanLyrics: |-
   Masuma aakhe viraaṅ nu ae pyaas di had ki hondi ae
   Rang zard piya lab zakhmi ne puchhdi behosh payi hondi ae

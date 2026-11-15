@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sibt-e-Jafar"
-tags: ["noImage"]
+tags: []
 aliases: ["Jab Imam Ayenge", "Jab Imam Ayenge 1-6", "Jab Imam Ayenge 7-12"]
-published: false
+published: true
 romanLyrics: |-
   Haal-e-gham sunaayeṅ ge jab Imam aayeṅ ge
   Zakhm-e-dil dikheṅ ge jab Imam aayeṅ ge

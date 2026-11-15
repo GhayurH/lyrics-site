@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Shadman Raza"
 romanLyrics: |-
   Akbar ne kaha zakhm kaleje ka chhupa do

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Azam Hussain"
 reciter: "Ahsan Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ho tasawwur aur gham-e-Shabbir ho
   Haath ho sine pe zehn pe beshir ho

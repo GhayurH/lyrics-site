@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Thi Karbala mein haq ko zarurat Husain ki
   Lagti watan mein kaise haaye tabiat Husain ki

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Yawar Yusufi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Shahid Baltistani"
 romanLyrics: |-
   Ana ibn ul Abbas

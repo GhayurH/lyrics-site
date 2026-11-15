@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anwar Zahir"
 reciter: "Shareef Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Shabbir Hurmala se ye bole pukaar ke
   Kya mil gaya bata mere bachche ko maar ke

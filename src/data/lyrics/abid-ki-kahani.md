@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Armaan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Shahid Baltistani"
 romanLyrics: |-
   Haye bimar haye bimar

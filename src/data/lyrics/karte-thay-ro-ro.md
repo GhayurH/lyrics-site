@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Alamdar Razvi"
-tags: ["noImage"]
+tags: []
 aliases: ["Karte Thay Ro Ro"]
-published: false
+published: true
 romanLyrics: |-
   Karte the ro ro ke ye Hazrat bayaaṅ
   Tor gaye meri kamar bhaai jaaṅ

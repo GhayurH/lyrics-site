@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Main Karbala mein khara huṅ libaas-e-sog mein huṅ
   Hai Arbaeen Husain aur Husaini lashkar ka

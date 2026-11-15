@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Bilal Kazmi"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tere marne se kamar tut gayi hai Abbas
   Marsiya Shaah ke hoṅtoṅ pe yahi hai Abbas

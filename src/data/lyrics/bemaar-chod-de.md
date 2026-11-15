@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Samar Zaidi"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bemaar chhor de
 

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Bilal Kazmi"
 reciter: "Irfan Husain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Mere raaj dulaare Qasim
   Haaye Qasim haaye Qasim

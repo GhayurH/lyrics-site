@@ -11,52 +11,52 @@ aliases:
 published: true
 romanLyrics: |-
   Kaash Abbas Na Maare Jaate
-  
+
   1
   Dono Baazu Wo Shehenshah-e-Wafa Ke Thaame
   Laash-e-Abbas Pe Shabbir Buka Karte The
   Bhai Tum Baad Hamare Jaate
-  
+
   2
   Is Tarha Lagti Na Akbar Ke Kaleje Pe Sinaaṅ
   Is Tarha Hoti Na Sadaat Ke Khaimoṅ Meiṅ Fughaaṅ
   Yuṅ Na Zainab Ke Sahare Jaate
-  
+
   3
   Kaash Hote To Utha Laate Alamdaar Ki Laash
   Saath Shabbir Ke Dafnate Alamdaar Ki Laash
   Gar Na Zainab Ke Dulare Jaate
-  
+
   4
   Gardan-e-Shah Pe Yuṅ Ran Meiṅ Na Khanjar Chalta
   Yuṅ Na Khurshid-e-Imamat Sar-e-Maqtal Dhalta
   Yuṅ Na Sar Naizoṅ Pe Saare Jaate
-  
+
   5
   Hote Abbas To Chinti Na Rida Zainab Ki
   Paaoṅ Meiṅ Abid-e-Muztar Ke Na Beri Dalti
   Taziyane Bhi Na Maare Jaate
-  
+
   6
   Ho Ke Paband-e-Rasan Sayyed-e-Sajjad Chale
   Nehr Ko Dekh Ke Rote Huye Yeh Kehne Lage
   Sab Watan Saath Hamare Jaate
-  
+
   7
   Hote Abbas-e-Dilawar To Na Khaime Jalte
   Shaam-e-Ghurbat Na Sakina Ko Tamache Lagte
   Goshware Na Utare Jaate
-  
+
   8
   Kabhi Chehra Kabhi Baazu Kabhi Sina Pita
   Qaidkhane Se Watan Aayi To Zainab Ne Kaha
   Din Na Yuṅ Gham Meiṅ Guzare Jaate
-  
+
   9
   Aaj Bhi Aati Hai Yeh Qabr-e-Sakina Se Sada
   Ae Chacha Aati Na Zindaan Meiṅ Hum Ko Yuṅ Qaza
   Saath Gar Hum Bhi Tumhare Jaate
-  
+
   10
   Haal-e-Karbal Jo Koi Puchta Tha Nur-e-Ali
   Ro Ke Zainab Yehi Deti Thi Sada Nur-e-Ali

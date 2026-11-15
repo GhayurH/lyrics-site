@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Sahir"
 reciter: "Faiyaz"
-tags: ["noImage"]
+tags: []
 aliases: ["Faryad Hai Faryad"]
-published: false
+published: true
 romanLyrics: |-
   Karti thi ye ro ro ke fughaaṅ Zainab-e-naashaad
   Faryaad hai faryaad

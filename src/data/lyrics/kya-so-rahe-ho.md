@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Raza Ali Sohail"
 reciter: "Anj. Parwane Shabbir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kya so rahe ho nehr pe Abbas ba wafa
 

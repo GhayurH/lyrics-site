@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Mohib Fazli"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sadme utha rahi huṅ maiṅ baba tumhare baad
   Darbar ja rahi huṅ maiṅ baba tumhare baad

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sibte Jafar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ek daur salaami dunya ka sadiyoṅ mein aisa aata hai
   Jab koi payambar uthta hai ya koi shahaadat paata hai

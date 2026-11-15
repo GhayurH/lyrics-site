@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Khaali Jhoola Bulata"]
-published: false
+published: true
 romanLyrics: |-
   Khaali jhula bulaata hai kab aaoge Asghar
   Maaṅ ka dil ghabraata hai kab aaoge Asghar

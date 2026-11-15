@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Waiz Sultanpuri"
 reciter: "Ali Mohd. Sultanpuri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tha Qasim ke laashe pe Kubra ka noha
   Ae saahab bataao main kya keh ke rouṅ

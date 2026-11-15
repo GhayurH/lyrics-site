@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Altaf Hussain"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Asghar ka laasha dhundte phirte the jab adu
   Naize chubho chubho ke sar-e-dasht chaar suṅ

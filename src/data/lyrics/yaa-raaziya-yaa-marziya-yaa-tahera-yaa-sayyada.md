@@ -12,7 +12,7 @@ published: true
 romanLyrics: |-
   Yaa Raaziya Yaa Marziya Yaa Tahera Yaa Sayyada
   Ye Fakhr-e-Aamina, Sarmaya-e-Rasul Bhi Hai
-  
+
   1
   Har Ek Sawaal Ka Behtar Jawaab Zinda Hai
   Sadaaqatoṅ Ka Mukammal Nisaab Zinda Hai
@@ -20,7 +20,7 @@ romanLyrics: |-
   Khuda Ke Bando, Khuda Ki Kitaab Zinda Hai
   Bayaan Azmat-e-Khatun-e-Kaaenaat Suno
   Mubahele Ki Zubaaṅ Se Khuda Ki Baat Suno
-  
+
   2
   Kaha Jo Bizato Minni To Ho Gaya Maalum
   Dil-e-Rasul Ki Surat Hai Fatema Maasum
@@ -28,7 +28,7 @@ romanLyrics: |-
   Nasib Ho Gaye Gyarah Imaamatoṅ Ke Nuzul
   Waqaar-e-Bint-e-Nabi Meiṅ Na Kuch Kami Aaye
   Khuda Ke Ghar Meiṅ Isi Waaste Ali Aaye
-  
+
   3
   Ali Ne Shukr Se Mazduriyoṅ Meiṅ Din Kaate
   Nabi Ki Beti Ne Chakki Meiṅ Khushk Jao Pise
@@ -36,7 +36,7 @@ romanLyrics: |-
   Nabi Ki Beti Ne Faaqoṅ Meiṅ Bhar Diye Sajde
   Jihaad-e-Nafs Ka Maidaaṅ Ali Ke Haath Raha
   Kamaal-e-Sabr o Riza Fatema Ke Saath Raha
-  
+
   4
   Wo Ek Chhota Sa Ghar Puri Kaaenaat Ka Dil
   Wo Ek Hujra Imaamat Ke Nur Ki Manzil
@@ -44,7 +44,7 @@ romanLyrics: |-
   Wo Ek Nakhl Ke Saaye Meiṅ Khuld Ki Mehfil
   Adab Ke Saath Bulandi Ka Har Nishaaṅ Jhuke
   Jahaṅ Kaniz Ke Rutbe Pe Aasmaaṅ Jhuke
-  
+
   5
   Ba-Naam-e-Fatema Ummat Ki Betiyaṅ Jaageiṅ
   Nigaah-e-Aql Se Raftaar-e-Zindagi Dekheiṅ
@@ -52,7 +52,7 @@ romanLyrics: |-
   Kise Milegi Jagah Fatema Ki Mehfil Meiṅ
   Khuda Kare Wo Tamaasha-e-Rozgaar Na Ho
   Rasul-e-Paak Ki Beti Se Sharmsaar Na Ho
-  
+
   6
   Dhuaaṅ Tanur Se Uttha To Saaeloṅ Ke Liye
   Khamir Ho Gaya Aata Musaafiroṅ Ke Liye
@@ -60,7 +60,7 @@ romanLyrics: |-
   Ghiza-e-Sabr o Riza Apne Kamsinon Ke Liye
   Isi Maqaam Pe Khair-ul-Amal Ke Jalwe Haiṅ
   Yahi Wo Ghar Hai Jahaṅ Inqilaab Palte Haiṅ
-  
+
   7
   Ali Ke Chehra-e-Aqdas Pe Ambiya Ka Jalaal
   Wujud-e-Fatema Zahra Pe Mustafa Ka Jamaal

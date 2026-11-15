@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Alamdar Hashmi"
 reciter: "Irfan Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ek bimaar ko tum itna rulaaya na karo
   Zaalimoṅ Aal-e-Muhammad ko sataaya na karo

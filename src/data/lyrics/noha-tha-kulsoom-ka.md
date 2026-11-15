@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shaukath"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Nauha tha Kulsum ka haaye qayaamat hui
   Bhaai ko zibh kiya haaye qayaamat hui

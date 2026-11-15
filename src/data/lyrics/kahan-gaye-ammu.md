@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Anwar Zahir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Sharif Husain"
 romanLyrics: |-
   Bataao ae baba kahaaṅ gaye Ammu

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Warise Adam"]
-published: false
+published: true
 romanLyrics: |-
   Ae waaris-e-Aadam teri qurbaniyaṅ
   Farzand-e-Fatema teri qurbaniyaṅ

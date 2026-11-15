@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hilal Naqvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Nadeem Sarwar"
 romanLyrics: |-
   Aaj bhi ye alam hamara hai

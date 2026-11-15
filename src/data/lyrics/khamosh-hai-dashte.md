@@ -6,10 +6,10 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Alamdar Razvi"
-tags: ["noImage"]
+tags: []
 aliases:
   - "Khamosh Hai Dashte"
-published: false
+published: true
 romanLyrics: |-
   Khaamosh hai dasht-e-Karbobala
   Ab koi nahiṅ rone waala

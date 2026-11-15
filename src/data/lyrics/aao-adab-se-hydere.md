@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mahir Lakhnavi"
 reciter: "Faazil Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aao adab se Haider-e-Safdar ke shahr meiṅ
   Jaana agar ho izn-e-Payambar ke shahr meiṅ

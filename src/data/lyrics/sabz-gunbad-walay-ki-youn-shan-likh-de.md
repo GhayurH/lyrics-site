@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Naat"
 poet: "Zeeshan Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   1
   Sabz gunbad wale ki yuṅ shaan likh de

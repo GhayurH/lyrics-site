@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mahir Lakhnavi"
 reciter: "Faazil Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jo bijli tegh-e-Haider ki sar-e-Khaibar nazar aayi
   Sar-e-Marhab pe chamki shahpar-e-Jibril par aayi

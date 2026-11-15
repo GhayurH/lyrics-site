@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nisar Nagri"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kaunsa ranj tha jo Sheh se uthaaya na gaya
   Par koi shikwa zabaan par kabhi laaya na gaya

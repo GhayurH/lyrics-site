@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: ["Haye Hassan Maula"]
-published: false
+published: true
 romanLyrics: |-
   Zehra ka jigar paara Haidar ka dulaara
   Haye Hasan Maula

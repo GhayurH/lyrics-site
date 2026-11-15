@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zafar Abbas"
 reciter: "Rizwan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Qayamat Kyun Nahi"]
-published: false
+published: true
 romanLyrics: |-
   Pukaari ghurbat-e-Zahra qayamat kiuṅ nahiṅ aayi
   Madine mein hua kya kya qayamat kiuṅ nahiṅ aayi

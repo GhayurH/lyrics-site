@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anees"
 reciter: "Nasir Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zainab lipat ke royi Abbas ke alam se
   Sayyidaaniyaṅ thi muztar chehre the zard gham se

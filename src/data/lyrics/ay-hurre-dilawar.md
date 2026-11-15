@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Bober Ali"
 reciter: "Mir Bober Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Hurre Dilawar"]
-published: false
+published: true
 romanLyrics: |-
   Laashe ko utha kar ke ye kehne lage Sarwar
   Ae Hurr-e-Dilaawar ae Hurr-e-Dilaawar

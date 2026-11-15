@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 reciter: Hadi Ali Khan Muslim
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Suna hai Madina suna hai Madina
 

@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mazhar Abidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Barsa falak se khun larazne lagi zamiṅ
   Aandhi siyaah dasht-e-bayaabaan mein chali

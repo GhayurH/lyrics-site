@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Iqbal Abedi"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Din ko Aabid-e-bimaar ne sone na diya
 

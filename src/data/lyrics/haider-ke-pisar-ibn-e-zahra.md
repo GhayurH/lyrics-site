@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Azlan Azmi – Arsalan Azmi"
 reciter: "Sibtain Haider"
-tags: ["noImage"]
+tags: []
 aliases: ["ya-mola-raza-sibtain-haider", "Ya Mola Raza Sibtain Haider"]
-published: false
+published: true
 romanLyrics: |-
   Haider ke pisar Ibn-e-Zahra ya Maula Raza, ya Maula Raza
   Mashhad ke wali hamraaz-e-Khuda ya Maula Raza, ya Maula Raza

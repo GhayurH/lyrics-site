@@ -15,31 +15,31 @@ romanLyrics: |-
   Shikasta Hai Pehlu, Akeli Hai Zehra
   Rone Pe Pehra, Masaib Ka Sehra
   Akeli Hai Zehra
-  
+
   1
   Dar-e-Fatema Ko Jalaya Hai Tumne
   Kiya Wada Apna Bhulaya Hai Tumne
   Tamache Na Maaro, Musalmano Jao
   Ali Ko Bulao, Akeli Hai Zehra
-  
+
   2
   Bayaṅ Kis Se Ja Kar Karuṅ Dard Apna
   Hai Ghairoṅ Ki Dunya, Nahiṅ Koi Apna
   Koi Ja Ke Baba Se Ja Kar Ye Kehdo
   Ke Le Jao Aa Kar, Akeli Hai Zehra
-  
+
   3
   Ae Lakhte Jigar, Ae Hasan Ibne Hyder
   Ye Nana Ke Pehlu Meiṅ Sone Na De Gar
   Tum Aa Jana Pehlu Meiṅ So Jana Maaṅ Ke
   Baqi Meiṅ Yahaṅ Par, Akeli Hai Zehra
-  
+
   4
   Shahe Karbala Ne Kaha Ro Ke Maaṅ Se
   Ye Mazlum Bete Ne Mazlum Maaṅ Se
   Akela Huṅ Maiṅ Bhi, Akeli Hai Zainab
   Akele Haiṅ Baba, Akeli Hai Zehra
-  
+
   5
   Sare Marg Akhtar Tha Zehra Ka Nauha
   Kab Aaoge Mehdi, Kab Aaoge Beta

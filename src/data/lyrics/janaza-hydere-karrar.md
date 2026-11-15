@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Majid Raza Abidi"
 reciter: "Mukhtar Husain"
-tags: ["noImage"]
+tags: []
 aliases: ["Janaza Hydere Karrar"]
-published: false
+published: true
 romanLyrics: |-
   Ghul par gaya ke Sayyid-e-Abraar mar gaye
   Maatam karo ke Haider-e-Karraar mar gaye

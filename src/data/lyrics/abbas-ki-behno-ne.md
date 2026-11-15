@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Mir Sajjad Mir"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Wa Hijaba Wa Hijaba
   Haaye Abbas ki behnoṅ ne na paayi chadar

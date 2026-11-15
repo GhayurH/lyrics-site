@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nusrat"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Hussain O Minni"]
-published: false
+published: true
 romanLyrics: |-
   Husain o minni wa ana minal Husain
 

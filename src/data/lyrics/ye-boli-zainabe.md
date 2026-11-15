@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Ali Khan Lakhnavi"
 reciter: "Ghadeer Fatima"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ye boli Zainab-e-muztar Ali Akbar Ali Akbar
   Phuphi hai teri nauhagar Ali Akbar Ali Akbar

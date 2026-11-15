@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar & J. Jaffri"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Hasan imam-e-Hasan yabnaz Zahra
   Maula Hasan sabz qaba sayyidi Maula

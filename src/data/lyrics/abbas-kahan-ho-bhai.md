@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Abbas mere bhai ye dekh meri tanhai
   Haaye Shaam-e-Gharibaṅ aayi

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Bilal Kazmi"
 reciter: "Mukhtar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Nau laakh ke lashkar ki hum nind ura denge
   Ghazi hai bata denge

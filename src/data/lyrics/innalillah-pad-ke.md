@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Shah"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Innalillaah parh ke Akbar ko
   Haaye Shah ne amaama baandha hai

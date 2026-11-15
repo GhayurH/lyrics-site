@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mahir Lakhnavi"
 reciter: "Faazil Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jab tak hai is jahaaṅ mein Husain o Hasan ka naam
   Hai kaun jo mitaaye Rasul-e-zaman ka naam

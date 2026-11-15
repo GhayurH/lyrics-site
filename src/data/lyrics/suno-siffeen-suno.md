@@ -7,9 +7,9 @@ direction: "rtl"
 poet: "Mir Takallum Mir"
 reciter: "Mir Hasan Mir"
 kalamType: "Manqabat"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 # source_id: tajpoints:576880b30748a0f285b6
 # source_url: https://tajpoints.com/2017/02/suno-siffeen-suno-1-6.html
 # raw_sha256: c7cc18a4dc388b6e8aaffbb4f419c762f36b9722beffd877650395efd52ba56d

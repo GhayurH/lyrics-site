@@ -65,7 +65,6 @@ romanLyrics: |-
   Jab ek halka sa tabassum, bana shamshir-e jalalat
   To phir Fayyaz na jane, woh hoti kaisi qayamat
   Agar khul kar hans deta, Abu Talib ka beta
-
 ---
 ۱
 علی مردوں کو جلائے، علی سورج پلٹائے

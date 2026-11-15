@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Musawwir"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ho Ali Akbar Kahan"]
-published: false
+published: true
 romanLyrics: |-
   Kehti thi ro kar ye maaṅ sine meiṅ dil hai tapaaṅ
   Ek hai karyal jawaaṅ dusra hai bezabaaṅ

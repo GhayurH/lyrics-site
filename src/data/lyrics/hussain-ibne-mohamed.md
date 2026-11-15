@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: ["Hussain Ibne Mohamed"]
-published: false
+published: true
 romanLyrics: |-
   Aao aao aashiqaan-e-Mustafa ye maah-e-aza hai
   Is zamiṅ taa arsh-e-bariṅ chaaroṅ taraf

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Tusi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aa gayi shaam-e-gharibaaṅ Karbala khaamosh hai
   Ho gaya maqtul Quraaṅ Karbala khaamosh hai

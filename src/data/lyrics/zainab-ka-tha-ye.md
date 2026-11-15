@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Lakhnavi"
 reciter: "Afzal Mirza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zainab ka tha ye nauha main kya jawaab duṅgi
   Puchheṅgi jab ke Sughra main kya jawaab duṅgi

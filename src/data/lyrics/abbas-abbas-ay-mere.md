@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: ["Abbas Abbas Ay Mere"]
-published: false
+published: true
 romanLyrics: |-
   Abbas Abbas ae mere bhai
 

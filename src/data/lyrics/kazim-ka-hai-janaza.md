@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Arsalan Azmi"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Kazim Ka Hai Janaza"]
-published: false
+published: true
 romanLyrics: |-
   Kaazim ka hai janaaza Baghdad ke pul par
   Rone ko aayi Zehra Baghdad ke pul par

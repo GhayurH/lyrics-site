@@ -8,8 +8,8 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Yawar Abbas"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
-published: false
+tags: []
+published: true
 romanLyrics: |-
   Aa raha hai Karbala se
   Qaafla Saadaat ka

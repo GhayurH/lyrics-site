@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aal-e-Nabi ka qaafila bazaar jo pahuncha
   Chehre the zard gham se saroṅ par na thi rida

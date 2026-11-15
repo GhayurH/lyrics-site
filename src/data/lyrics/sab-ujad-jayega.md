@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Nayyar Jalalpuri"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sab ujar jaaye ga Zehra ka makaaṅ asr ke baad
   Hoga Shabbir ke khaimoṅ mein dhuaaṅ asr ke baad

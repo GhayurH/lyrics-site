@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ishrat Lakhnavi"
 reciter: "Dilawar Hasan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Qaid khaane mein ye kehti thi Sakina bhaai
   Zulm aadaa ne kiya hum pe ye kaisa bhaai

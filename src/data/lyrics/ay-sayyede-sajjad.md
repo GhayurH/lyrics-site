@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zafar Abbas"
 reciter: "Nasir Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Sayyede Sajjad"]
-published: false
+published: true
 romanLyrics: |-
   Hoti hai ayaaṅ dasht mein ab shaam-e-gharibaṅ
   Ae Sayyed-e-Sajjad ae Sayyed-e-Sajjad

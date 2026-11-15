@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Fazl Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 # source_id: nohayonline:c6692280068404dac98a
 # source_url: https://www.nohayonline.com/details_content.php?id=1463
 # raw_sha256: eb44b67d440466ebfb53fdbab16c6e895557fc0b74f20b4574eabe1b4b44f1a5

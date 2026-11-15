@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Urooj Bijnori"
 reciter: "Tableegh-e-Imamia; Mukhtar Husain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ye bain Sakina ke the baba nahiṅ aaye
   Kiuṅ ae phuphi ammaṅ mere baba nahiṅ aaye

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 reciter: "Rahat Fateh Ali Khan"
-tags: ["noImage"]
+tags: []
 aliases: ["Woh Ali The Woh Ali Hain Ali Rahein Gaye Sada"]
-published: false
+published: true
 romanLyrics: |-
   Woh Ali the woh Ali haiṅ Ali raheṅ ge sada
   Na koi tha na koi hai na hoga Sher-e-Khuda

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maaṅ karti thi ye naale Karbala ke biyaabaaṅ meiṅ
   Asghar mere Asghar jaani Asghar mere Asghar jaani

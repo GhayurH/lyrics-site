@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Noor Ali Noor"
 reciter: "Syed Mudassir Mehdi"
-tags: ["noImage"]
+tags: []
 aliases: ["Dar E Hussain Pe Kasa Utha Ke Le Aaya Syed Mudassir Mehdi"]
-published: false
+published: true
 romanLyrics: |-
   Dar-e-Husain pe kaasa utha ke le aaya
   Wahaaṅ se kaase mein dunya utha ke le aaya

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Fareed Baig"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: ["Hussain Shahe Karbala"]
-published: false
+published: true
 romanLyrics: |-
   Husain Shah-e-Karbala
   Husain din-e-Mustafa

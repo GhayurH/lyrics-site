@@ -5,9 +5,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Allah mujhe lashkar-e-Mehdi se mila de
   Aisa na ho Aaqa mera Hal Min ki sada de

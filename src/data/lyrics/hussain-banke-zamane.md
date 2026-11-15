@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Husain ban ke zamaane pe chhaa gayi Zainab
   Zubaan-e-tegh se Kufa hila gayi Zainab

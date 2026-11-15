@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sibte Jafar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sarhaane laasha-e-Hur ke taan Shimr ne ki
   Saza mohabbat-e-Ibn-e-Ali ki khub mili

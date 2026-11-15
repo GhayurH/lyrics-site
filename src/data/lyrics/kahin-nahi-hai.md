@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ahmed Naved"
 reciter: "Sajid Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kahiṅ nahiṅ hai safar mein qayaam Zainab ko
   Abhi to jaana hai maqtal se Shaam Zainab ko

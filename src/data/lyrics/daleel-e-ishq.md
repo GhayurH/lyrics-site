@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Noor Ali Noor"
-tags: ["noImage"]
+tags: []
 aliases: ["Daleel-e-Ishq"]
-published: false
+published: true
 romanLyrics: |-
   1
   Zindagi ne atraaf-e-auj-e-Haider kar liya

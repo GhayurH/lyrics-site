@@ -6,9 +6,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage"]
+tags: []
 aliases: ["Bain Ul Haramain Sajjad Ashraf Taqvi", "bain-ul-haramain-sajjad-ashraf-taqvi"]
-published: false
+published: true
 poet: "Noor Ali Noor"
 reciter: "Sajjad Ashraf Taqvi"
 sixVerseLayout: "pairs"

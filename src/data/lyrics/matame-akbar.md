@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Irfan Haider"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Husain laasha-e-Akbar jo laaye khaimoṅ meiṅ
   Phuphi ne sina o sar pit kar kiya nauha

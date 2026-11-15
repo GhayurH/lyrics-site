@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ahsan Mujtaba"
 reciter: "Kazmi Brothers"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jis ne sada se pehle hamesha ata kiya
   Beti usi ki ban ke sawaali khari rahi

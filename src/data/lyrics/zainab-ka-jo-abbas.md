@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Arif Sahab"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zainab ka jo Abbas tha lashkar ke baraabar
   Us ki bhi lahad ban gayi Asghar ke baraabar

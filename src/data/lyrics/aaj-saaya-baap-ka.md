@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Dayam Najafi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Uth gaya Zainab ke sar se aaj saaya baap ka
   Ab na dekhegi kabhi ghamkhaar chehra baap ka

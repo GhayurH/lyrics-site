@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Shaam ka bazaar Ae qaafila saalaar Ae Aabid bimaar
   Sayyid-e-Sajjad tera Shaam jaana yaad hai

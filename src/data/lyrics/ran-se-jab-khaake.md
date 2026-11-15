@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Marsiya"
 poet: "Mir Anees"
 reciter: "Himayath Ali Taha"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   1
   Ran se jab kha ke sinaaṅ Akbar-e-Zi Shaan aaye

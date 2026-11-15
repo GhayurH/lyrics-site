@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Abbas Zaidi"
 reciter: "Irfan Haider"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Mera Husain hai sab kuch nasib kuch bhi nahiṅ
   Sayyed zaada Husain shahzaada Husain

@@ -5,9 +5,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kaha Sakina ne ro kar kahaaṅ gaye Ammu
   Hai meri jaan laboṅ par kahaaṅ gaye Ammu

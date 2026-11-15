@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Nasir Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Raat Na Dhalna"]
-published: false
+published: true
 romanLyrics: |-
   Ae raat na dhalna ke ujar jaayegi Zainab
   Bhai se dam-e-subh bichhar jaayegi Zainab

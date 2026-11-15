@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Aijaaz Ali"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 # source_id: nohayonline:5847be05b45dca7fac65
 # source_url: https://www.nohayonline.com/details_content.php?id=2307
 # raw_sha256: 94d82682cc3ad2fd74e09cf2ac840cf2995fa45371ddfb907dcb5b5be57658fe

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Rizwan Zaidi Party"
-tags: ["noImage"]
+tags: []
 aliases: ["Baab E Saat Par"]
-published: false
+published: true
 romanLyrics: |-
   Baab-e-saaat par khari hai Fatema ki betiyaṅ
   Shaam ke darbaar mein hai jashn ki tayyaariyaṅ

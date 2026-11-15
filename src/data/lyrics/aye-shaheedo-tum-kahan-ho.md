@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Aye Shaheedo Tum Kahan Ho"]
-published: false
+published: true
 romanLyrics: |-
   Fasl-e-gul hai ab jahaaṅ mein ae shahido tum kahaaṅ ho
   Taazgi hai gulistaaṅ mein ae shahido tum kahaaṅ ho

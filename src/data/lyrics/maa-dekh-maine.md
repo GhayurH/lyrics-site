@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mazhar Abidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ghore se jab zamin par aaye Shah-e-zaman
   Dekha ke ban mein Fatema Zehra hai maujizan

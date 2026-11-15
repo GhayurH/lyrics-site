@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Musadiq Lakhani"
 reciter: "Rizwan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Aza E Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Hikayat-e-ishq ki jaari rahegi
   Shuur o ruh par taari rahegi

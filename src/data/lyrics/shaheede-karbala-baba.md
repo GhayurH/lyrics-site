@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Shaheede Karbala Baba"]
-published: false
+published: true
 romanLyrics: |-
   Shahid-e-Karbala baba
   Gharib-ul-bewatan baba

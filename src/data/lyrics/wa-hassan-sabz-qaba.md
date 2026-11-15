@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: ["Wa Hassan Sabz Qaba"]
-published: false
+published: true
 romanLyrics: |-
   Haaye wo bekasi
   Maqtal se aaya laasha-e-Qasim

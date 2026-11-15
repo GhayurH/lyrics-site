@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Bilal Kazmi"
 reciter: "Aqueel Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Shadi Jo Rachana"]
-published: false
+published: true
 romanLyrics: |-
   Shaadi jo rachaana mere bhaiya
 

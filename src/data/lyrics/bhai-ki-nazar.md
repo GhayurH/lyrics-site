@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
 reciter: "Akbar Husain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bhai ki nazar kehti hai bhai ki nazar se
   Gar izn ho darya idhar aa jaaye udhar se

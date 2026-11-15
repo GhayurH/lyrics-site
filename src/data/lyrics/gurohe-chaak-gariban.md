@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Salaam
 reciter: Nasir Jahan
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jo Faatima ki rag-e-jaan Ali ka hai dilbar
   Husain minni kahe jis ko Shaafi-e-Mahshar

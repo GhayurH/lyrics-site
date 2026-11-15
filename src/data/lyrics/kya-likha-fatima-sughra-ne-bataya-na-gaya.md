@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["kya-likha-fatima-sughra-ne-bataya-na-gaya-lyrics-2016"]
-published: false
+published: true
 romanLyrics: |-
   Kya likha Fatima Sughra ne bataaya na gaya
   Sheh se khat laasha-e-Akbar pe sunaaya na gaya

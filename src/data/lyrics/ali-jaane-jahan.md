@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 # source_id: nohayonline:15abe51a6642e38988a3
 # source_url: https://www.nohayonline.com/details_content.php?id=2372
 # raw_sha256: 1abc322baed46b865023fa11c626a3ef45defdcddbe2ac04748f28e460817df9

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Asif Bijnori"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tasht se uth ke chala Hazrat-e-Shabbir ka sar
   Hasrat o yaas se daali jo Sakina ne nazar

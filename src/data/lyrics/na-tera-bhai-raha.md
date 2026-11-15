@@ -6,10 +6,10 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
-tags: ["noImage"]
+tags: []
 aliases: []
 reciter: "Raza Abbas Zaidi"
-published: false
+published: true
 romanLyrics: |-
   Jab suna Sughra ne laut aaya watan mein qaafila
   Haaye jab pahuṅchiṅ to manzar dekh kar ro ke kaha

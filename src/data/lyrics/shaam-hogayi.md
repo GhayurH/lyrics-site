@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ahmed Naved"
 reciter: "Sajid Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Suna para hai dasht-e-bala shaam ho gayi
   Khuṅ ro rahi hai baad-e-saba shaam ho gayi

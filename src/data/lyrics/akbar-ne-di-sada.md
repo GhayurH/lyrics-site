@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Mazhar Abidi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Akbar ne di sada sine mein hai neza
   Ghore se gir raha huṅ Baba sambhalna

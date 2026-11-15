@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Jameel Moosavi"
 reciter: "Hadi Ali Khan Muslim"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Marqad pe bayaaṅ karti thi ye Zainab-e-dukhiya
   In aaṅkhoṅ ne dekha

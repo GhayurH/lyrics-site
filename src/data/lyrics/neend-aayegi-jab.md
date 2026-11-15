@@ -6,10 +6,10 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Anis"
-reciter: "Nadim Sarwar"
-tags: ["noImage"]
+reciter: "Nadeem Sarwar"
+tags: []
 aliases: ["Neend Aayegi Jab"]
-published: false
+published: true
 romanLyrics: |-
   Jab khaime meiṅ rukhsat ko Shaah-e-bahr o bar aaye
   Chillaai Sakina mere bekas padar aaye

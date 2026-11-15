@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Syed Aimaad Naqvi"
 reciter: "Syed Mudassir Mehdi"
-tags: ["noImage"]
+tags: []
 aliases: ["woh-matmi-hai-syed-mudassir-mehdi", "Woh Matmi Hai Syed Mudassir Mehdi"]
-published: false
+published: true
 romanLyrics: |-
   Sukun-e-qalb-e-Rasul ka jo sukun bana hai woh maatami hai
   Qasam hai dil ki woh jis ki dharkan mein Karbala hai woh maatami hai

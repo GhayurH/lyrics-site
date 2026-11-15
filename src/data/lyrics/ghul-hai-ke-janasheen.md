@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Fayyaz Lakhnavi"
 reciter: "Dilawar Hasan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ghul hai ke jaanashin-e-Payambar hua shahid
   Girya karo Batul ka shauhar hua shahid

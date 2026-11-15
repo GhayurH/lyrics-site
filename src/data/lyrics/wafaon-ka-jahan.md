@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Irfan Akbar Abidi"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zehra ki hai dua mujhe Ghaazi ho ataa
 

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazher Abedi"
 reciter: "Anjuman-e-Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 # source_id: nohayonline:d0f460726df6562dfd35
 # source_url: https://www.nohayonline.com/details_content.php?id=1757
 # raw_sha256: 6392188ccd1e1448d8b4eea9c44b1bce92b1759a4a61f77c9f4aab74c5e4edf8

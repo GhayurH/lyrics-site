@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Fareed Baig"
 reciter: "Hyder Ali Qayam"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ho gaya jab khaana-e-Zehra mein ek mahshar bapa
   Thar thara uthi zamiṅ aur aasmaaṅ hilne laga

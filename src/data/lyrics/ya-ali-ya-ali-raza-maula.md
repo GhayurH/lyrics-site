@@ -7,9 +7,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Faqeer Arif Imam"
-tags: ["noImage"]
+tags: []
 aliases: ["ya-ali-ya-ali-raza-mola-faqeer-arif-imam-lyrics-2023"]
-published: false
+published: true
 romanLyrics: |-
   Mazhar-e-shaan-e-Kibriya Maula
   Ya Ali, ya Ali Raza Maula

@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Urooj Bijnori"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Shame Ghariban"]
-published: false
+published: true
 romanLyrics: |-
   Ae shaam-e-gharibaaṅ mujhe kuch haal suna de
   Kufe mein asiroṅ pe jo guzri hai bata de

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shumaila Erum"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Ya Hussain Habeebi"]
-published: false
+published: true
 romanLyrics: |-
   Tu meri tamanna ya Husain
   Tu mera sahaara ya Husain

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Aaj Baghdad May"]
-published: false
+published: true
 romanLyrics: |-
   Aaj Baghdad mein koi qaidi
   Ho gaya hai riha Raza Maula

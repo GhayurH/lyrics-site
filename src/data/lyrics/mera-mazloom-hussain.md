@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nadeem Sarwar"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Gir para ghore se jab ran mein Shah-e-Karb o Balaa
   Saare aalam mein qayamat ka tha ek shor bapa

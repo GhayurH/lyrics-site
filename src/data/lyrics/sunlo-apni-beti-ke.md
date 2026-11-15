@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Meer Nazir Baqari"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sun lo apni beti ke aakhri bayaaṅ baba
   Band hone wali hai ab meri zabaaṅ baba

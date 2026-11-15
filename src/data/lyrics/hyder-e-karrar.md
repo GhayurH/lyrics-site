@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Hyder E Karrar"]
-published: false
+published: true
 romanLyrics: |-
   Ya Ali Maula Ali Ali Ali Ali
   Ali Ali Maula Ali ya Ali ya Ali

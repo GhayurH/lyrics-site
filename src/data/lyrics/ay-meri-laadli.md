@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Meri Laadli"]
-published: false
+published: true
 romanLyrics: |-
   Barhne lage jab Shaam-e-Gharibaaṅ ke andhere
   Zainab ne kisi shakhs ko aate hue dekha

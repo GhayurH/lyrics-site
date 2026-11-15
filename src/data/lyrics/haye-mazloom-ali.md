@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Baltistani"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bain karti hi rahi qabr se yeh Bint-e-Nabi
   Haye mazlum Ali mere mazlum Ali

@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Qamar Hasnain"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jab qaafila pahuncha tha Madine ke zara paas
   Maqtal mein hua kya ye suna us ne basad yaas

@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Yawar Abbas"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Shaam jaate hue ro ke Sajjad ne kaha
   Assalaam ae bekas baba bekas bete ka salaam

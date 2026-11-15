@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Ali Jee"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Shabih-e-Payambar haaye haaye Ali Akbar
   Kaise jiyegi tere bin haaye ye maadar

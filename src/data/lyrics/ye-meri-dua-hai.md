@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Sirsvi"
 reciter: "Ali Jee"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ye meri dua hai
 

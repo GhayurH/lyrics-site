@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Aijaz Rizvi"
 reciter: "Arshia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Pukaari ro ke Sakina bachaa lo ae ammu
   Asir hote haiṅ hum ko chhuraa lo ae ammu

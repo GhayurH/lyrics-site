@@ -6,10 +6,10 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Hasnain Akbar"
-tags: ["noImage"]
+tags: []
 aliases: []
 recitationId: "aandhi-kabhi-barish-kabhi-tofaan-ka-lyrics-2017"
-published: false
+published: true
 romanLyrics: |-
   Aandhi kabhi barish kabhi tufaṅ ka aalam
   Har daur mein mausam ke taghayyur se lari hai

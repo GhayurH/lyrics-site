@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Masjid bhi ro rahi hai Kaaba bhi ro raha hai
   Haidar ka qatl kya hai aaghaaz-e-Karbala hai

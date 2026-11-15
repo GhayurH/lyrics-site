@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Alam Sultanpuri"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Hai dunya mein beti bahot aise bachche
   Sada baap nahiṅ jite haiṅ kisi ke

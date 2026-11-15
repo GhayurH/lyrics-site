@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Irfan Akbar Abidi"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: ["Quwwate Shere Khuda"]
-published: false
+published: true
 romanLyrics: |-
   Zainab ki hai yehi dua uncha rahe parcham tera
 

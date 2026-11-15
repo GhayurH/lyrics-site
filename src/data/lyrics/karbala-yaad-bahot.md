@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Karbala Yaad Bahot"]
-published: false
+published: true
 romanLyrics: |-
   Salaam aaqa
 

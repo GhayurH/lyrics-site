@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
 reciter: "Ali Shanawar, Ali Jee"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Pyare Nabi ki pyari nawasi
   Shaam ko qaidi ban ke chali hai

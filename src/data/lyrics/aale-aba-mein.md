@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Sadiq"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aal-e-Aba meiṅ maatam-e-Sher-e-Khuda hai aaj
   Roz-e-wida-e-Hazrat-e-Mushkilkusha hai aaj

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Wila Hallauri"
 reciter: "Ashfaq Marchant"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Baghdad ki zamin pe maatam Taqi ka hai
   Zahra jigar figaar haiṅ wo gham Taqi ka hai

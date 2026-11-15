@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Wasi"
 reciter: "Tabligh-e-Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Azal se dil hai gham-e-Sibt-e-Mustafa ke liye
   Ye aaina to bana tha isi jila ke liye

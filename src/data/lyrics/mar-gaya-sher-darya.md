@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Dayam Najafi"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Mar gaya sher darya pe jaa kar
   Ran meiṅ kis ko pukaaregi Zainab

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nasir Hussain"
 reciter: "Mir Arif Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zahra pe sitam ye kaisa hua
   Zainab ne ye puchha Haidar se

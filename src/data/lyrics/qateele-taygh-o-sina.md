@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: ["Qateele Taygh O Sina"]
-published: false
+published: true
 romanLyrics: |-
   Qatil-e-tegh o sinaaṅ la ilaha illallah
   Tere baghair kahaaṅ la ilaha illallah

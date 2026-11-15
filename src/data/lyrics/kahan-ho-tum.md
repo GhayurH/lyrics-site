@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Haider Khursheed"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kahaṅ ho tum mere Ghaazi zara chale aana
   Main qaid ho ke chali aur watan hai begaana

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: ["Lashkare Shahe Deen"]
-published: false
+published: true
 romanLyrics: |-
   Lashkar-e-Shaah-e-diṅ udaas nahiṅ
   Kul bahattar haiṅ aur hai raas nahiṅ

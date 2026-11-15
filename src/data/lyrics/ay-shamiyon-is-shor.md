@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Hassan Mir"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Shamiyon Is Shor"]
-published: false
+published: true
 romanLyrics: |-
   Ae shaamiyoṅ is shor ki aadi nahiṅ Zainab
   Kiuṅ jashn manaate ho ke baaghi nahiṅ Zainab

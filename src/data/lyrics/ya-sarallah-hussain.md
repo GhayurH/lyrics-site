@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: ["Ya Sarallah Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Ya Saarallah Husain ya Saarallah Husain
   Husain ya Husain Husain ya Husain

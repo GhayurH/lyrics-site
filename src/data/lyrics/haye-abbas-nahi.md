@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mohib Fazli"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Dasht-e-purkhaar mein Fizza ne kaha ye ro kar
   Haye Abbas nahiṅ aaj Abbas nahiṅ

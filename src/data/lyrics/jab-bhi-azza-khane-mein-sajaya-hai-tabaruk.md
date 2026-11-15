@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Dr Abbas Raza Nayyar Jalalpuri"
 reciter: "Syed Wajhi Hasan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Mere liye Firdaus se aaya hai tabarruk.
 

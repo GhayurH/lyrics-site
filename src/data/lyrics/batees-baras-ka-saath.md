@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Batees Baras Ka Saath"]
-published: false
+published: true
 romanLyrics: |-
   Shabbir ke khaime mein qayaamat ka tha manzar
   Rukhsat ke liye aaye jo Abbas dilaawar

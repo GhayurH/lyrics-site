@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazher Abedi"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ro ke zindaaṅ mein ye kehti thi Sakina baaba
   Aap ke baad gawaara nahiṅ jina baaba

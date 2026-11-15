@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Muntaqim Hasnain"
 reciter: "Ashraf Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Abbas tere khun se rangiṅ hai alam tera
   Dil sine mein jab tak hai jaayega na gham tera

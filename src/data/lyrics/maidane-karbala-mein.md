@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: Tanzeem-ul-Husaini (Nasir Zaidi)
 # source_id: nohayonline:90c282d6398de56fffae
 # source_url: https://www.nohayonline.com/details_content.php?id=798

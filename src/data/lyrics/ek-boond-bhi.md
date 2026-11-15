@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Jawad"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maaṅ ne di sada Ae mere beta
 

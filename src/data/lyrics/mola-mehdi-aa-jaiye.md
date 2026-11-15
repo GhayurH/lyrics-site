@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sibt-e-Jafar"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Muntazir kab talak main rahuṅ Ae Imam
   Meri saanseṅ kahiṅ ho na jaaeṅ tamaam

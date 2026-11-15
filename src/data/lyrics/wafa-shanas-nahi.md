@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Salamat Feroz"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Wafa shanaas nahiṅ Rabb-e-Wafa hai Abbas
   Duaa-e-Zahra ka anmol sila hai Abbas

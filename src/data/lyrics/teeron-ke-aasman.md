@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mubarak Jalalpuri"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Teeron Ke Aasman"]
-published: false
+published: true
 romanLyrics: |-
   Ae bhai main to dosh-e-Nabi ka makiṅ tha
   Ae bhai main to Fatema ka mahjabin tha

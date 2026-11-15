@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ye kis shahid ki mayyat Husain laate haiṅ
   Zamiṅ larazti hai aflaak thar tharaate haiṅ

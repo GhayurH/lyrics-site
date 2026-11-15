@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Irfan"
 reciter: "Nasir Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Utho Sakina utho jaata hai kaarwaṅ
   Tere baghair jaane kaise jiye gi maaṅ

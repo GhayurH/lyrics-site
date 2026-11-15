@@ -5,9 +5,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: Sachey Bhai
 romanLyrics: |-
   Tum se bichhar ke maaṅ mushkil bahut hai jina

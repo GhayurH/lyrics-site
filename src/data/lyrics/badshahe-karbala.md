@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Irfan Haider"
-tags: ["noImage"]
+tags: []
 aliases: ["Badshahe Karbala"]
-published: false
+published: true
 romanLyrics: |-
   Karbala ae Karbala
 

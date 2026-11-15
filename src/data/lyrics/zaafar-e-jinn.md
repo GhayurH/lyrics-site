@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Salman Azmi"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ghulaam-e-Faateh-e-Bir-ul-Alam main Zaafar huṅ
   Qaum-e-jinnaat ka shaah-e-umam main Zaafar huṅ

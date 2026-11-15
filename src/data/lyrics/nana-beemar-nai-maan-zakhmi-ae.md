@@ -16,54 +16,54 @@ romanLyrics: |-
   Teri Dhi Tere Dil Da Chain
   Atuṅ Apne Zulm Chupaon Layi Darbari Aehon Kehan
   Bimar Taiyuṅ Kardi Ae Dhi Paak Nabi Di Ven
-  
+
   Nana Bimar Nai Maaṅ Zakhmi Ae
   Jis Roz Tuṅ Buha Dugya Ae
   Hath Paase Te Rakh Ke
   Bas Rondi Rehndi Ae
-  
+
   1
   Zainab Diyaṅ Banwaṅ Te Umri
   De De Ke Bose Aakhe
   Ae Si Darbar Madine Da
   U Sham Ae Zainab
   Teri Peshi Ukhi Ae
-  
+
   2
   Ki Haal Dasa Tuṅ Janda Aen
   Darwaze Heath Si Umri
   Bas Ae Das Daaṅ Teri Ummat
   Darwaze Tuṅ Nana
   Turdi Hui Guzri Ae
-  
+
   3
   Raataṅ Di Khamoshi De Ander
   Jiveṅ Gunjan Azanaaṅ
   Udhi Pasliyaṅ De Do Howan Di
   Awaaz Vi Nana
   Yasrab Vich Gunji Ae
-  
+
   4
   Ae Ven Si Mere Babe Da
   Haye Kaash Ali Mar Janda
   Umri Nal Hui Gustakhi
   Tere Vir Ali Ne
   Ankhiyaṅ Nal Wekhi Ae
-  
+
   5
   Tehrir De Tukre Jis Din Di
   Darbaroṅ Naal Liyai
   Rab Jane Kis Taiyari Layi
   Har Tukre Di Sitraṅ
   Zainab Nuṅ Sunandi Ae
-  
+
   6
   Jaduṅ Putar De Samne Umri De
   Chehre Te Aya Nil Ae
   Is Roz Tuṅ Izzataṅ Wali Maaṅ
   Mere Vir Hasan De
   Nai Samne Aandi Ae
-  
+
   7
   Akbar Shabbir Ne Ven Kita
   Yaqub Vi Khun Si Roya

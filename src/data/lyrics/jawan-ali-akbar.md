@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar & J. Jaffri"
 reciter: "Ali Shanawar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Raahat-e-jaaṅ wird-e-zabaaṅ
   Saaat-e-azaaṅ jaan Ali Akbaram

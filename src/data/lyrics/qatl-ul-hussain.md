@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Aarzu"
 reciter: "Tabligh-e-Imamia"
-tags: ["noImage"]
+tags: []
 aliases: ["Qatl Ul Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Qutl al Husain o be Karbala
 

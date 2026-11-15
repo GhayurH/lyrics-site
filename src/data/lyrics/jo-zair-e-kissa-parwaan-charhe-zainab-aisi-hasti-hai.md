@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sibt-e-Jafar"
-tags: ["noImage"]
+tags: []
 aliases: ["Jo Zair-e-Kissa Parwaan Charhe Zainab Aisi Hasti Hai"]
-published: false
+published: true
 romanLyrics: |-
   Jo zer-e-kisa parwaan charhe Zainab aisi hasti hai
   Jo zin-e-aab o jad ban ke rahe Zainab aisi hasti hai

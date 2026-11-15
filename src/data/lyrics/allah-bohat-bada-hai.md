@@ -6,10 +6,10 @@ lang: ur
 direction: rtl
 kalamType: Hamd
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: ["allah-bohat-bara-hai", "allah-bohat-bara-hai-nadeem-sarwar"]
 recitationId: "allah-bohat-bara-hai-nadeem-sarwar"
-published: false
+published: true
 romanLyrics: |-
   Sab ne yehi kaha hai Allah bohat bara hai
   Quran mein likha hai Allah bohat bara hai

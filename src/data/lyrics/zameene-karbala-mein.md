@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zameen-e-Karbala mein dafn haiṅ gul pairahan kitne
   Tarap kar mar gaye sine pe is ke khasta tan kitne

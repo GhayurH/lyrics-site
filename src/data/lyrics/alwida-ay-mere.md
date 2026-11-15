@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Asif Bijnori"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Alwida Ay Mere"]
-published: false
+published: true
 romanLyrics: |-
   Waqt-e-aakhir tha Haider ka nauha
   Alwida ae mere sogwaaroṅ

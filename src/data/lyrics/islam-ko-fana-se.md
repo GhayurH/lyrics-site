@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Viqar Nagri"
 reciter: "Viqar Nagri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Islam ko fana se bachaaya Husain ne
   Qasr-e-Yazidiyat ko giraaya Husain ne

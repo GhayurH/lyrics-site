@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Kijiye Iss Ko Qabool Aaqa Dar-e-Abbas Par"]
-published: false
+published: true
 romanLyrics: |-
   Kijiye is ko qubul aaqa dar-e-Abbas par
   Kar raha huṅ main jo sajda dar-e-Abbas par

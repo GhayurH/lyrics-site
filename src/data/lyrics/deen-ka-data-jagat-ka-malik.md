@@ -5,9 +5,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Din ka daata jagat ka maalik sab ka paalanhaar
   Maula Ali Ali Maula Ali Ali

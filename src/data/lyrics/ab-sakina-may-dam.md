@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hilmi Afandi"
 reciter: "Mir Azhar Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ab Sakina mein dam kahaaṅ Amma
   Ab to khulwao resmaṅ Amma

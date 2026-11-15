@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Karbala hai naqsh-e-saani Kaaba-e-Islam ka
   Shakl o surat ek jaisi farq hai bas naam ka

@@ -8,8 +8,8 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Irfan Haider"
-tags: ["noImage"]
-published: false
+tags: []
+published: true
 romanLyrics: |-
   Shaam-e-gharibaṅ jalte khaime uthta dhuaṅ
   Aun o Muhammad ki maaṅ

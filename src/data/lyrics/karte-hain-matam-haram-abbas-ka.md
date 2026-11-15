@@ -14,52 +14,52 @@ romanLyrics: |-
   Ho Gaya Marna Sitam Abbas Ka
   Aata Hai Zakhmi Alam Abbas Ka
   Ho Gaya Marna Sitam Abbas Ka
-  
+
   1
   Haye Lab-e-Neher Hua Kya Ghazab
   Tir Laga Mashk-e-Sakina Pe Jab
   Aa Gaya Hontoṅ Pe Dam Abbas Ka
-  
+
   2
   Kehte Haiṅ Ro Ro Ke Yeh Ahle Haram
   Jaah o Hasham, Sabr o Raza o Karam
   Kis Tarah Bhulenge Gham Abbas Ka
-  
+
   3
   Leke Shehenshah-e-Wafa Se Hayat
   Chumne Qadmoṅ Ko Barhi Khud Furaat
   Dekh Ke Jaah o Hasham Abbas Ka
-  
+
   4
   Shah Ke Ghamkhwaar Pe Har Ek Pal
   Sheh Ke Azadaar Pe Har Ek Pal
   Rehta Hai Ab Bhi Karam Abbas Ka
-  
+
   5
   Phir Mere Maula Se Na Sambhla Alam
   Paani Baha, Ho Gaya Thanda Alam
   Mashk Meiṅ Shayad Tha Dam Abbas Ka
-  
+
   6
   Ab Bhi Hai Beshir Ke Maqtal Ki Yaad
   Ab Bhi Hai Baqi Shahe Karbal Ki Yaad
   Karte Haiṅ Uncha Alam Abbas Ka
-  
+
   7
   Nafs-e-Sakina To Wahiṅ Ruk Gayi
   Shahe Madina Ki Kamar Jhuk Gayi
   Jab Hua Baazu Qalam Abbas Ka
-  
+
   8
   Ab Kahaṅ Bujh Payegi Dukhya Ki Pyaas
   Tut Gayi Baali Sakina Ki Aas
   Ho Gaya Baazu Qalam Abbas Ka
-  
+
   9
   Ashq-e-Lahu Ro Diya Charkh-e-Gohar
   Ro Diye Besaakhta Shahe Zamaṅ
   Dekh Ke Chhalni Alam Abbas Ka
-  
+
   10
   Naize Pe Us Qaari-e-Quran Ke Saath
   Daaem-e-Ghamkhwaar Bhi Yazdaaṅ Ke Saath

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar, J. Jaffri & H. Naqvi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Janam Ya Hussain", "مولا یا حسین مولا یا حسین"]
-published: false
+published: true
 # source_id: nohayonline:6def97f4cb9876a6dcb1
 # source_url: https://www.nohayonline.com/details_content.php?id=1731
 # raw_sha256: c53c407a8a5813e661629e5234a1dfa8967935bb592a17c090ffa7ffc64075b0

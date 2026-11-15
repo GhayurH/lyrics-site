@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ahmed Naved"
 reciter: "Sajid Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Paal kar Zainab ne sab ko Karbala tayyaar ki
   Din ki hurmat par lutaane ko rida tayyaar ki

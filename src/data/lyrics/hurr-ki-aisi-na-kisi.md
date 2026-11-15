@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sibte Jafar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Hurr ki aisi na kisi aur ko taqdir mili
   Jis ko dozakh ke iwaz khuld ki jaagir mili

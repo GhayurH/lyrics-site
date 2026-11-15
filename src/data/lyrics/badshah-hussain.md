@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Badshah Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Baadshah Husain Husain
   Baadshah Husain

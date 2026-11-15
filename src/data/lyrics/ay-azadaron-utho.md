@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Dayam Najafi"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Azadaron Utho"]
-published: false
+published: true
 romanLyrics: |-
   Ae azadaroṅ utho Shah ke ansaar bano
   Pairawi Hur ki karo waqt ko jaane na do

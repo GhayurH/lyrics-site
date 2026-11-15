@@ -7,10 +7,10 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Hasnain Akbar"
 reciter: "Mir Hasan Mir"
-tags: ["noImage", "Panjabi"]
+tags: ["Panjabi"]
 aliases: []
 recitationId: "ali-ali-karna-zaroor-chahiye-mir-hasan-mir-lyrics-2021"
-published: false
+published: true
 # source_id: tajpoints:e1ca933fb3aa198fd78b
 # source_url: https://tajpoints.com/2022/02/ali-ali-karna-zaroor-chahiye-mir-hasan.html
 # raw_sha256: c3b6cbd497152db5e5de7de5799c48bc6a01d0ce5b8a459ee224912e73493a66

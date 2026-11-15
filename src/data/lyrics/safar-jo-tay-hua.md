@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "John"
 reciter: "Irfan Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Safar jo tay hua zaanu ba zaanu ro ro kar
   Pidar khamida kamar aaya laash-e-Akbar par

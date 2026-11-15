@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Haider Khursheed"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maqtal mein dhundti hai Asghar ko Sakina
   Jhulaa bhi milaa khaali Asghar thaa kahiṅ na

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mazhar Abidi"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Deewanae Hyder"]
-published: false
+published: true
 romanLyrics: |-
   Ali Ali Ali Ali Ali Ali ya Ali
   Asadullah Yadullah Saifullah Wajhullah

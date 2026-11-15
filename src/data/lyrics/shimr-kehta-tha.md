@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Adil Nazar"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Shimr kehta tha Sakina ko sataate rehna
   Sar dikha kar use baaba ka rulaate rehna

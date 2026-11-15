@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Yawar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bazaar-e-Shaam aa gaya
   Akbar mere jawaaṅ kis ko bulaaye maaṅ

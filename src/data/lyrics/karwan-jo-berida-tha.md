@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Naqvi Najaf"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Karwaaṅ jo berida tha Karbala se Shaam tak
   Aayatoṅ ka qaafila tha Karbala se Shaam tak

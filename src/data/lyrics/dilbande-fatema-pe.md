@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Gulzar Jafri"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Dilband-e-Fatima pe zaalim reham na aaya
   Tashna labi mein tu ne mehmaan ka khun bahaaya

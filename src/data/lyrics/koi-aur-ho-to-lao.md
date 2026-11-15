@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Dil o jaan-e-Mir-e-Kausar koi aur ho to laao
   Ke Husain ibn-e-Haider koi aur ho to laao

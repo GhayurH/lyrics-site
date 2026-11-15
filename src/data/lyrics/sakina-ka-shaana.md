@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zindaaṅ mein jabke dukhtar-e-Shabbir mar gayi
   Baazu hila ke Bano-e-Naashaad ne kaha

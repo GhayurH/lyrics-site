@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Alamdar Hashmi"
 reciter: "Irfan Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zulm jab bhi tha ab bhi hai mujh par yahaaṅ
   Baaba jaaṅ baaba jaaṅ

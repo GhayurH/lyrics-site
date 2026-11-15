@@ -7,9 +7,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mohsin Naqvi"
-tags: ["noImage"]
+tags: []
 aliases: ["yeh-oliya-ka-gharor-sehra-mohsin-naqvi", "Yeh Oliya Ka Gharor Sehra Mohsin Naqvi"]
-published: false
+published: true
 romanLyrics: |-
   1
   Yeh Auliya ka ghurur sehra, yeh Anbiya ka waqaar sehra

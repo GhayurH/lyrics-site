@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shaheed Lakhnavi"
 reciter: "Afzal Mirza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ae Husain-e-Karbala ae mehmaan-e-Lucknow
   Tere qadmoṅ ki badaulat ab hai shaan-e-Lucknow

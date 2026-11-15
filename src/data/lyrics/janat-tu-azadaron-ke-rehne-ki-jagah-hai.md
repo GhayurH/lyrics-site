@@ -7,9 +7,9 @@ direction: "rtl"
 poet: "Yasir Raza Yasir"
 reciter: "Syed Wajhi Hasan Zaidi"
 kalamType: "Manqabat"
-tags: ["noImage"]
+tags: []
 aliases: ["Janat To Azadaron Ke Rehne Ki Jagah Hai", "janat-tu-azadaron-ke-rehne-ki-jagah-hai-1-4"]
-published: false
+published: true
 # source_id: tajpoints:8a5099c68c0da0a814bd
 # source_url: https://tajpoints.com/2018/02/janat-tu-azadaron-ke-rehne-ki-jagah-hai.html
 # raw_sha256: c41b88f9f898eea848c23b7f8d9204294712e298d618d8569003d342b5c24f98

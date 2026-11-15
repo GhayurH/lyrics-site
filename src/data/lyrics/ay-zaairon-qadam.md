@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mubarak Jalalpuri"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Zaairon Qadam"]
-published: false
+published: true
 romanLyrics: |-
   Azaadaaroṅ sogwaaroṅ rone waaloṅ pursadaaroṅ
   Ae zaairoṅ qadam ko rakho dekh bhaal kar

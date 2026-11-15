@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Rizvi Sachey"
 reciter: "Ali Rizvi Sachey"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aaj bhi aati hai Zehra ki baqayye se sada
   Baad baba ke kiye ummat ne kya jor o jafa

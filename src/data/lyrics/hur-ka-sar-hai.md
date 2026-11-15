@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mujahid Lakhnavi"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Hur ka sar hai zaanu-e-Shabbir hai
   Marne waale kya teri taqdir hai

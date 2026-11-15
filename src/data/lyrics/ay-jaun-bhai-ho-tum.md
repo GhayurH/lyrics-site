@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Jaun Bhai Ho Tum", "اے جون بھای ہو تم میرے"]
-published: false
+published: true
 romanLyrics: |-
   Ae Jaun bhai ho tum mere
   Abbas ki qasam tumheṅ lag jaao na gale

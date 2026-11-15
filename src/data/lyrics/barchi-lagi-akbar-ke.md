@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Barchi lagi Akbar ke to maaṅ kehti thi ro kar
   Armaan mere khaak mein sab mil gaye Akbar

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Fitrat"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Gham mein be shir ke hota hai kaleja paani
   Jab bhi sunte haiṅ ke Shabbir ne maaṅga paani

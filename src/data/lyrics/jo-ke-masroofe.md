@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mirza Dabeer"
 reciter: "Raza Ali Khan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jo ke masruf-e-salaam-e-shuhada rehta hai
   Go wo rehta nahiṅ par naam sada rehta hai

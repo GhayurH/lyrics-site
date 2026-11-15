@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Sirsvi"
 reciter: "Ali Shanawar, Ali Jee"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Gulshan-e-Zahra gulshan-e-Zahra
   Fatema Zahra

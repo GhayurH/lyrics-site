@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Phir Fatima ke ghar mein farsh-e-aza bichha hai
   Bimaar-e-Karbala ka taabut uth raha hai

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Marsiya"
 poet: "Mir Anees"
 reciter: "Himayath Ali Taha"
-tags: ["noImage"]
+tags: []
 aliases: ["Darbar May Jab Katke"]
-published: false
+published: true
 romanLyrics: |-
   1
   Darbaar mein jab kat ke yatimoṅ ke sar aae

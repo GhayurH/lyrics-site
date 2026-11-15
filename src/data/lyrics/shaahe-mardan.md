@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: ["Shaahe Mardan"]
-published: false
+published: true
 romanLyrics: |-
   Ya Ali Maula Haidar Maula
 

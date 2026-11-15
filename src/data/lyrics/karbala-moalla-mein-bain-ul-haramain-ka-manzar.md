@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Raqib Hassnain Raqib"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   1
   Ik simt haiṅ Abbaas to ik simt haiṅ Shabbir

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Jawad Jaffri"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Shaah ast Husain baadshaah ast Husain
   Diṅ ast Husain diṅ panaah ast Husain

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shajaat Zaidi"
 reciter: "Ahsan Husain"
-tags: ["noImage"]
+tags: []
 aliases: ["Goonj Uthi Allahu"]
-published: false
+published: true
 romanLyrics: |-
   Sheh ne kaha bete se utho Akbar jawaaṅ
   Uth jaao do azaan Allahu Akbar Allahu Akbar

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Rizvi Sachey"
 reciter: "Ali Rizvi Sachey"
-tags: ["noImage"]
+tags: []
 aliases: ["Lakhte Dile Hasan"]
-published: false
+published: true
 romanLyrics: |-
   Lakht-e-dil-e-Hasan ke tukre utha utha ke
   Daaman mein rakh rahe haiṅ Sarwar saja saja ke

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Najm Afandi"
 reciter: "Anj. Parwane Shabbir"
-tags: ["noImage"]
+tags: []
 aliases: ["Parwanae Shabbir"]
-published: false
+published: true
 romanLyrics: |-
   Sinoṅ mein yehi dil hai aza-khaana-e-Shabbir
   Sar hai yehi sang-e-dar-e-kaashaana-e-Shabbir

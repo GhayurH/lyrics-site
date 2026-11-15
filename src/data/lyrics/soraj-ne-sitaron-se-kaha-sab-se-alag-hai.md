@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Hasan Mir"
 reciter: "Mujawar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Suraj ne sitaaroṅ se kaha sab se alag hai
   Shabbir ke khaime ka diya sab se alag hai

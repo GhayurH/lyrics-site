@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
 reciter: "Tabligh-e-Imamia"
-tags: ["noImage"]
+tags: []
 aliases: ["Hamay Ye Husne"]
-published: false
+published: true
 romanLyrics: |-
   Hameiṅ ye husn-e-aqidat bahut hai kya kam hai
   Agar Husain nahiṅ hai Husain ka gham hai

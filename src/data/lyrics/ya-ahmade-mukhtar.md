@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hameed Abidi"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Ya Ahmade Mukhtar"]
-published: false
+published: true
 romanLyrics: |-
   Haaye lut gaya Zahra ka pariwaar
   Ya Ahmed-e-Mukhtaar

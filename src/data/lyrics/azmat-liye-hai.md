@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Azmat liye hai khuld ki daaman-e-Karbala
   Khun-e-shahid-e-haq se baandhi shaan-e-Karbala

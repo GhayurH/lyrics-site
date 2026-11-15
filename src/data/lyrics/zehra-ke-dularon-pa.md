@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 reciter: "Ali Zia Rizvi"
 poet: "Mohsin Mamoor"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zehra ke dulaaroṅ pe ajab zulm o jafa hai
   Tufaan-e-gham o dard hai aur Aal-e-Aba hai

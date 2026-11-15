@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ujri hui basti hai ise kaise basaaeṅ
   Bikhre hue laashoṅ par sisakti hai hawaaeṅ

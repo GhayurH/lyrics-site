@@ -6,10 +6,10 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage"]
+tags: []
 aliases: []
 recitationId: "aye-shaheedo-aye-haider-ke-pyaro-mir-hasan-mir"
-published: false
+published: true
 # source_id: tajpoints:9c83250980e7a5398e85
 # source_url: https://tajpoints.com/2022/10/aye-shaheedo-aye-haider-ke-pyaro-mir.html
 # raw_sha256: 80622c11ec178495d03abe9e933302525ec9b01d11e6a6bc3265c6d3c46d73d6

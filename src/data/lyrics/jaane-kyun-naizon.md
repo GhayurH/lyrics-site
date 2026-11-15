@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nadeem Raza"
 reciter: "Kazmi Brothers"
-tags: ["noImage"]
+tags: []
 aliases: ["Jaane Kyun Naizon"]
-published: false
+published: true
 romanLyrics: |-
   Jalte jhule ki raakh pe baithi
   Maaṅ ki nazreiṅ haiṅ naize waaloṅ par

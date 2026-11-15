@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Kumail Jafri"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ro kar pukaare Saiyyad-e-waala yahiṅ kahiṅ
   Qasim ka tha para hua laasha yahiṅ kahiṅ

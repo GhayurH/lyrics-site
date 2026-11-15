@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Lakhnavi"
 reciter: "Afzal Mirza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jangal mein mujhko chhor kar Akbar kahaaṅ gaye
   Chilla rahi hai der se maadar kahaaṅ gaye

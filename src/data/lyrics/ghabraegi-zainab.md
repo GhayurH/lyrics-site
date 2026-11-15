@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Munshi Channulal"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ghabraaegi Zainab ghabraaegi Zainab
   Bhaiya tumheṅ ghar jaa ke kahaaṅ paaegi Zainab

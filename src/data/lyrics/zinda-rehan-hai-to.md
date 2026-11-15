@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Hasnain"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: ["Zinda Rehan Hai To"]
-published: false
+published: true
 romanLyrics: |-
   Mustaqil khun-e-shahaadat se nikharna hoga
   Zinda rehna hai to Shabbir pe marna hoga

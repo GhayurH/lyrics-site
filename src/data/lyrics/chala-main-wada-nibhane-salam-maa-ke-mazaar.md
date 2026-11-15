@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Salam"
 poet: "Rehan Azmi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Chala Main Wada Nibhane Salam Maa Ke Mazaar"]
-published: false
+published: true
 romanLyrics: |-
   Chala main waada nibhaane salaam maaṅ ke mazaar
   Salaam Nana ke roze salaam maaṅ ke mazaar

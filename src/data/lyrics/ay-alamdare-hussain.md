@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
 reciter: "Ali Murtaza"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Alamdare Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Ae Yadullah ke be dast pisar ae Abbas
   Ae alamdar-e-Husain

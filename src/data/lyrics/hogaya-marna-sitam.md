@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Dayam Najafi"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Karte haiṅ maatam haram Abbaas ka
   Ho gaya marna sitam Abbaas ka

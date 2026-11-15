@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Nadeem Sarwar"
 poet: "Anees"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jis dam jale qayaam-e-shahanshaah-e-bahr o bar
   Ek bachchi nikli khaime se us dam barehna sar

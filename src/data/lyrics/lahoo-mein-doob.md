@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Fareed Baig"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: ["Lahoo Mein Doob"]
-published: false
+published: true
 romanLyrics: |-
   Lahu mein dub gaya jab shabih-e-Paighambar
   Zamin-e-Karbobala par tha hashr ka manzar

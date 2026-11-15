@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Amood Peryanivi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Har gali Abbas ki hai har nagar Abbas ka
   Dushman-e-din ko laga rehta hai dar Abbas ka

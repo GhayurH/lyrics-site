@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Najaf Murshidabadi"
 reciter: "Munawar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: ["Laut Kar Aajao"]
-published: false
+published: true
 romanLyrics: |-
   Khaime ke darwaaze se ye di Sakina ne sada
   Laut kar aa jaao waapas ho kahaaṅ ammu

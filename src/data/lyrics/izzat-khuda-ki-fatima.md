@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 reciter: "Rahat Fateh Ali Khan"
-tags: ["noImage"]
+tags: []
 aliases: ["izzat-khuda-ki-fatima-rahat-fateh-ali-khan"]
-published: false
+published: true
 romanLyrics: |-
   Izzat Khuda ki Fatima bint-e-Nabi Batul haiṅ
   Woh jis ke ehtiraam mein dar pe khare Rasul haiṅ

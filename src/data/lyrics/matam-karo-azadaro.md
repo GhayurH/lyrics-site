@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hasan Abbas"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Matam Karo Azadaro"]
-published: false
+published: true
 romanLyrics: |-
   Ujre Muhammad ke ghar ka maatam karo azaadaaroṅ
   Karbal ki shaam o sehar ka maatam karo azaadaaroṅ

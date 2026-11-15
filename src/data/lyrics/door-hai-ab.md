@@ -5,9 +5,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Raza Ali Khan"
 romanLyrics: |-
   Dur hai ab dastgaah-e-jabr o istibdaad se

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Afraz Jafri"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: ["Zainab Tumhara Baba"]
-published: false
+published: true
 romanLyrics: |-
   Zakhmi Baba ke ghar mein jab aamad hui
   Bint-e-Zehra yuṅ faryaad karne lagi

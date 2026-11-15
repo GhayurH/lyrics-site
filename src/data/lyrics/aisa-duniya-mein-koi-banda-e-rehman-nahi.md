@@ -7,10 +7,10 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Hasan Mir"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
 recitationId: "aisa-duniya-mein-koi-banda-e-rehman-nahi-lyrics-2013"
-published: false
+published: true
 romanLyrics: |-
   Aisa dunya mein koi banda-e-Rehman nahiṅ
   Jis pe Sultan-e-Khurasan ka ehsan nahiṅ

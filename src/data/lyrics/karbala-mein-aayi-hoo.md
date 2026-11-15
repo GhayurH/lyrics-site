@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Majid Raza Abidi"
 reciter: "Mukhtar Husain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Main chhut ke Shaam se ab Karbala mein aayi huṅ
   Tumhaari qabr pe ashkoṅ ka tohfa laayi huṅ

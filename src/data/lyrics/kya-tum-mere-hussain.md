@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Kya Tum Mere Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Patthar hata ke laash se Zainab ne di sada
   Kya tum mere Husain ho

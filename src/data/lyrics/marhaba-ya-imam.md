@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sadiyoṅ ki masaafat tai kar ke ummid ka suraj nikla hai
   Ummid ka suraj dunya ke manzar ko badalne waala hai

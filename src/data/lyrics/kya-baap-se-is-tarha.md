@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Zeeshan Abidi"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maqtal ki zamiṅ aur qayaamat ka wo manzar
   The god mein Shabbir ki zakhmi Ali Akbar

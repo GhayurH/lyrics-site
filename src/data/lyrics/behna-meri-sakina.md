@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kaisa hai qaid khaana dam tutta hai kis ka
   Zanjir dhundhta hai zindaan ka andhera

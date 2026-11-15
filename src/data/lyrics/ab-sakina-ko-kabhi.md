@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Noor Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Khun ke ashk yatimi use rulvaegi
   Ab Sakina ko kabhi nind nahiṅ aaegi

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Abbas Aa Rahe Hai"]
-published: false
+published: true
 romanLyrics: |-
   Ek shor hai al-aman
   Abbas aa rahe haiṅ Abbas aa rahe haiṅ

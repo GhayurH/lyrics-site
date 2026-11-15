@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Mohsin Riyaz"
 reciter: "Kazmi Brothers"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jab mujhe aap ke qaatil ne hai maara Baba
   Har tamaache pe Sakina ne pukaara Baba

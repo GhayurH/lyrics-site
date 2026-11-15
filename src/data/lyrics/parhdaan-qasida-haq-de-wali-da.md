@@ -9,9 +9,9 @@ kalamType: "Qasida"
 poet: "Ghulam Raza Jhandvi; Jawad Jafri"
 reciter: "Nadeem Sarwar"
 year: 2009
-tags: ["noImage"]
+tags: []
 aliases: ["parhdaan-qasida-haq-de-wali-da-lyrics-nadeem-sarwar-2009", "Parhdaan Qasida Haq De Wali Da Lyrics Nadeem Sarwar 2009"]
-published: false
+published: true
 # Punjabi/Saraiki source wording is retained in both scripts; language uses the available schema label.
 romanLyrics: |-
   Parhdaaṅ qasida Haq de Wali da

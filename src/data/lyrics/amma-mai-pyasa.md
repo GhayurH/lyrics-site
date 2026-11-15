@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Mir Mohsin Ali"
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Farzand-e-payambar pe wo Aashur ki raat
   Munh chhupaane lagi ghabraane lagi nahr-e-Furaat

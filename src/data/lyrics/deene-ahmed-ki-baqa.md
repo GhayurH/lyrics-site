@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
 reciter: "Hadi Ali Khan Muslim"
-tags: ["noImage"]
+tags: []
 aliases: ["Deene Ahmed Ki Baqa"]
-published: false
+published: true
 romanLyrics: |-
   Din-e-Ahmed ki baqaa hai Karbala
   Sajdagaah-e-ambiya hai Karbala

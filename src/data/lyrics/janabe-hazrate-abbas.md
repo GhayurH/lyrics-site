@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Janabe Hazrate Abbas"]
-published: false
+published: true
 romanLyrics: |-
   Maula Abbas Maula Abbas
 

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Le Chal Hussain Ko"]
-published: false
+published: true
 romanLyrics: |-
   Himmat na haarna abhi
 

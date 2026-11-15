@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Afzal Hussain Najfi"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haye bimaar chale paauṅ mein zanjir liye
   Nange sar Haidar-e-Karraar ki jaagir liye

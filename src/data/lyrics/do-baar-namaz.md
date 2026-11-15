@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Do Baar Namaz"]
-published: false
+published: true
 romanLyrics: |-
   Do baar namaaz shahid hui
   Ek masjid mein ek maqtal mein

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   So jaate the sukun se bistar pe ahl-e-Shaam
   Ek bachchi roti rehti thi zindaaṅ ki khaak par

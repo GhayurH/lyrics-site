@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Hassan Abbas Ahsan"
 poet: "Ali Mohsin Khan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zindaan mein karti thi fughaaṅ shaah ki dukhtar
   Jald aaiye Baba

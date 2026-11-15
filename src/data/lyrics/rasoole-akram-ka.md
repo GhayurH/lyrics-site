@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Badar Faqeer, Jawad Jaffri"
 reciter: "Ali Shanawar"
-tags: ["noImage"]
+tags: []
 aliases: ["Rasoole Akram Ka"]
-published: false
+published: true
 romanLyrics: |-
   Wavaila sad wavaila wavaila sad wavaila
 

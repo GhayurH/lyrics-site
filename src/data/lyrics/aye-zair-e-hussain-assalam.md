@@ -6,9 +6,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Takallum Mir"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Aye Zair-e-Hussain Assalam"]
-published: false
+published: true
 # source_id: tajpoints:5ca9e6dcaceea15d2a99
 # source_url: https://tajpoints.com/2020/11/aye-zair-e-hussain-assalam-1-4-lyrics.html
 # raw_sha256: 7fc3e30029450a5efb08928732752579bbb5301170c2f0cd92e436275080fe99

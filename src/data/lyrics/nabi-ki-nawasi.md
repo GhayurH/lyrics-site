@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Qurban Jaffri"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: ["Nabi Ki Nawasi"]
-published: false
+published: true
 romanLyrics: |-
   Risaalat ka logoṅ sila maangti hai
   Nabi ki nawaasi ridaa maangti hai

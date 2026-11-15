@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Majid Raza Abidi"
 reciter: "Mukhtar Husain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aati hai masjid-e-Kufa se sada haye Ali
   Qatl sajde mein hua sher-e-Khuda haye Ali

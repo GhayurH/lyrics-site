@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Bober Ali"
 reciter: "Mir Bober Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Laashae Abbas Tanha"]
-published: false
+published: true
 romanLyrics: |-
   Laasha-e-Abbas tanha reh gaya
   Dekh kar darya tadapta reh gaya

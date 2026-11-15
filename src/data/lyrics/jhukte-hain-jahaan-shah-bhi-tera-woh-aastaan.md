@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 reciter: "Rahat Fateh Ali Khan"
-tags: ["noImage"]
+tags: []
 aliases: ["Jhukte Hain Jahaan Shah Bhi Tera Woh Aastaan"]
-published: false
+published: true
 romanLyrics: |-
   Jhukte haiṅ jahaaṅ shaah bhi tera woh aastaaṅ
   Abbas tere dar sa duniya meiṅ dar kahaaṅ

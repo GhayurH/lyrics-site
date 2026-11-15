@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar, J. Jaffri & M. Abdollahi"
 reciter: "Ali Jee"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Baba kujaai baba kujaai
   Kahaaṅ ho baba

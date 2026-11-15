@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: ["Haan Tha Mera Baba"]
-published: false
+published: true
 romanLyrics: |-
   Rasan mein gale baarah aur barehna sar
   Jab aaye Shaam ke darbaar mein darida jigar

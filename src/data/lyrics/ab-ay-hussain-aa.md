@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Mir Mohsin Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Ab Ay Hussain Aa"]
-published: false
+published: true
 romanLyrics: |-
   Aayi ye arsh-e-paak se Allah ki sada
   Ab ae Husain aa ab ae Husain aa

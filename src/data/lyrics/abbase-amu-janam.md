@@ -5,9 +5,9 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jaan-e-Wafa-e-Alam
   Abbas-e-Ammu Janam

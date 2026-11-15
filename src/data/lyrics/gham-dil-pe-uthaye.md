@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Abbas Jarchvi"
 reciter: "Mesum Zaidi & Sajjad Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haaye Zahra haaye darbaar
 

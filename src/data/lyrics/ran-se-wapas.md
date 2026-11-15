@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"
 reciter: "Mukhtar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ran se waapas mere baabaa nahiṅ aane wale
   Mujh pe ab saaye yatimi ke haiṅ chhaane wale

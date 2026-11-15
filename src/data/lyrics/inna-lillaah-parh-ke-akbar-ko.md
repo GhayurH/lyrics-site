@@ -13,40 +13,40 @@ romanLyrics: |-
 
   Inna lillaah parh ke akbar ko
   haye sheh ne amaama baandha hai
-  
+
   ghar se nikle hain is tarha akbar
   jaise koi janaza jaata hai
-  
+
   1
   maut jine ki kar rahi hai dua
   aur akbar chale hai marne ko
   umm-e-laila ka mustafa beta
   zakhm sine pe khaane jaata hai
-  
+
   2
   jaise dil jaa raha ho maqtal may
   jaise jaati ho jaan sine se
   aise apne jawaṅ ke piche
   ek mazlum baap chalta hai
-  
+
   3
   kitna pyara hai shaah ko akbar
   saare zaalim ye baat jaante hai
   taygh akbar pe chal rahi ha yahaṅ
   ibne zahra wahaṅ tarapta hai
-  
+
   4
   quwwat-e-murtaza ye puchti hai
   sabr-e-shabbir itna batla de
   wo to khyber ke dar se wazni tha
   kaise laasha jawaṅ uthaya hai
-  
+
   5
   ran may rahwaar se gire akbar
   shah khaime ke dar se uth na sake
   aise dil thaam ke gire maula
   Arsh jaise zamiṅ pe girta hai
-  
+
   6
   ae raza is jawan ke sine se
   khun rukta nahi hai roke se

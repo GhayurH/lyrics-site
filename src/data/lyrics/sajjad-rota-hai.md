@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Mir Bober Ali"
 poet: "Mir Bober Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sar-e-baazaar Zainab ka guzar Sajjad rota hai
   Phata jaata hai sadme se jigar Sajjad rota hai

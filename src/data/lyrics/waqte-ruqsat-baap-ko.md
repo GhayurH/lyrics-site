@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Waqt-e-rukhsat baap ko bete ka mur kar dekhna
   Karbala ab imtehaan-e-sabr-e-Sarwar dekhna

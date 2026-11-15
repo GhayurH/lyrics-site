@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Marsiya"
 poet: "Syed Aimaad Naqvi"
 reciter: "Saleem Mastan Wa Bradran"
-tags: ["noImage"]
+tags: []
 aliases: ["maqtale-bibi-sakina-jaab-hogaye-tamam-saleem-mastan-wa-bradran", "Maqtale Bibi Sakina Jaab Hogaye Tamam Saleem Mastan Wa Bradran"]
-published: false
+published: true
 romanLyrics: |-
   1
   Jab ho gaye tamaam madadgaar-e-Haq shahid

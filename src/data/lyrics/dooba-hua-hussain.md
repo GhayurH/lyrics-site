@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Jabaz Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Dooba Hua Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Duba hua Husain ka laasha lahu mein hai
   Ya Mustafa ke qalb ka tukra lahu mein hai

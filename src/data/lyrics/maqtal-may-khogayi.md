@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maqtal mein kho gayi hai Akbar ki jawaani
   Soyi hai sinaaṅ khaa ke Paighambar ki nishaani

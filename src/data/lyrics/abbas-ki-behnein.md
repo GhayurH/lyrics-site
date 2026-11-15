@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Rizwan Zaidi"
 poet: "Mazhar Naqvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kha gaya Shahzadiyoṅ ko gham isi ehsas ka
   Haaye tha rahwar ki gardan mein sar Abbas ka

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Najm Afandi"
 reciter: "Jafer Kazmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ae jaan o dil-e-Haider-e-Karrar Alamdar
   Zinda hai jahaaṅ mein tere aasar Alamdar

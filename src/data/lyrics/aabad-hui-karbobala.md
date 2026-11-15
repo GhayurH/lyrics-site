@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shaukat Bilgrami"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aabad hui Karbobala ujra Madina barbaad hui main
   Zainab ko na raas aaya Muharram ka mahina barbaad hui main

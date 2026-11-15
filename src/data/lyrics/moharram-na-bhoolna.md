@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Salman Azmi"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Moharram Na Bhoolna"]
-published: false
+published: true
 romanLyrics: |-
   Dua-e-Fatema Zehra ka tum pe saaya hai
   Imam-e-Jafar-e-Sadiq ne ye bataaya hai

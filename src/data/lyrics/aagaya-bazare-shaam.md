@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ahmed Naved"
 reciter: "Sajid Jafri"
-tags: ["noImage"]
+tags: []
 aliases: ["Aagaya Bazare Shaam"]
-published: false
+published: true
 romanLyrics: |-
   Aa gaya bazaar-e-Shaam aa gaya bazaar-e-Shaam
   Bibiyoṅ mein hai kohraam aa gaya bazaar-e-Shaam

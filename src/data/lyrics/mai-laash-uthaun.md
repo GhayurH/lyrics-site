@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Buknalvi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Hai jalti zamiṅ tu hi bata Ae mere Asghar
   Main laash uthauṅ ya teri qabr banauṅ

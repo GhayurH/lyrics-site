@@ -8,8 +8,8 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Saleem Lakhnavi"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
-published: false
+tags: []
+published: true
 romanLyrics: |-
   1
   Dar-e-Najaf se hatuṅ ga na sang-e-dar ki tarah

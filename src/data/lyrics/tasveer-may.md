@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Fidwi Naqvi"
 reciter: "Irfan Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tasvir mein Husain ka rauza hai taaziya
   Karb o bala ki yaad dilaata hai taaziya

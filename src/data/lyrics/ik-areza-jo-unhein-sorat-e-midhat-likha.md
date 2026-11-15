@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Rehan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ik ariza jo unheiṅ surat-e-midhat likha
   Aik ik harf ko az ru-e-muhabbat likha

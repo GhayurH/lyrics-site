@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Shah"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tum ho gaye bejaaṅ padar zinda hai Akbar
   Aisa bhi zamane mein kahiṅ hota hai Akbar

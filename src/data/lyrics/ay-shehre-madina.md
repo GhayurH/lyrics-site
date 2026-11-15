@@ -7,63 +7,63 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Shehre Madina"]
-published: false
+published: true
 romanLyrics: |-
   Jangal mein bhare ghar ko luta aayi hai Zainab
   Ae Shehr-e-Madina
   Abid ko kisi tarah bacha laayi hai Zainab
 
-  ۱
+  1
   Na Qasim o Akbar rahe bhai bhi sidhaare
   Sab hi gaye maare
   Be gor unheiṅ dasht mein chhor aayi hai Zainab
   Ae Shehr-e-Madina
 
-  ۲
+  2
   Wo shaam-e-gharibaṅ ho ya wo Shaam ka bazaar
   Abid rahe laachaar
   Sab zakhm isi qalb mein bhar laayi hai Zainab
   Ae Shehr-e-Madina
 
-  ۳
+  3
   Kya kya na sitam raah mein saadaat ne jhela
   Main tujh se kahuṅ kya
   Baaghi ki behan Shaam mein kehlaayi hai Zainab
   Ae Shehr-e-Madina
 
-  ۴
+  4
   Parda jo sikhaati rahi wo Bibi khule sar
   Phirti rahi dar dar
   Bazaaroṅ mein darbaaroṅ mein ho aayi hai Zainab
   Ae Shehr-e-Madina
 
-  ۵
+  5
   Aa ja tu kanizi mein meri bola sitamgar
   Ae shaah ki dukhtar
   Ye lamha wohi tha jahaṅ ghabraayi hai Zainab
   Ae Shehr-e-Madina
 
-  ۶
+  6
   Zindaṅ mein kahiṅ kho gaya bhai ka nagina
   Maasum Sakina
   Do baaliyaṅ zindaan se le aayi hai Zainab
   Ae Shehr-e-Madina
 
-  ۷
+  7
   Zindaṅ se riha hoke bhi baaqi hai asiri
   Matam kar tu bhi
   Rassi ke nishaaṅ is liye le aayi hai Zainab
   Ae Shehr-e-Madina
 
-  ۸
+  8
   Ye zakhm mere qalb ka jine nahiṅ dega
   Hai zulm hi aisa
   Shabbir sar-e-dasht hai ghar aayi hai Zainab
   Ae Shehr-e-Madina
 
-  ۹
+  9
   Puchhegi yehi Fatema Sughra abhi mujh se
   Akbar nahiṅ aaye
   Dukhiya ke sawaaloṅ se hi ghabraayi hai Zainab

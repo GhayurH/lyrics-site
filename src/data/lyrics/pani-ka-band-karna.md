@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kis qaum mein rawaaṅ hai paani ka band karna
   Aal-e-Nabi ko pyaasa kis ne zabh kiya hai

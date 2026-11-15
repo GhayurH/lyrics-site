@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Raaz Meerthi"
 reciter: "Shareef Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ro ke kehti thi ye Zainab mere bhaai Abbas
   Kiuṅ tumheiṅ bhaa gayi darya ki taraai Abbas

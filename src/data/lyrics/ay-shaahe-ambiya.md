@@ -7,29 +7,29 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Tauqeer Kamalvi"
 reciter: "Mesum Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Shaahe Ambiya"]
-published: false
+published: true
 romanLyrics: |-
   Ae Shaah-e-Ambiya ye musalmaaṅ ne kya kiya
   Minbar pe Fatema ka mujrim bitha diya
 
-  ۱
+  1
   Jis dar pe aap rukte the lene ijaazateṅ
   Aate farishte arsh se karne ziyaarateṅ
   Ik behaya ne aag se wo dar jala diya
 
-  ۲
+  2
   Hansne laga lain jo rone lagiṅ Batul
   Ghaasib ne Sayyeda ki gawaahi na ki qabul
   Khud sachcha ban ke Bibi ko jhuta bana diya
 
-  ۳
+  3
   Utri haiṅ jin ki shaan mein aayaat baar baar
   Jin ki raza ko rad na kare Rabb-e-Kirdgaar
   Haq maangne gayi wo to khaali lauta diya
 
-  ۴
+  4
   Jis shakhs ne di aap ko hizyaan ki saughaat
   Jis se mila na aap ko kaghaz qalam dawaat
   Darbaar mein Batul ko us ne rula diya

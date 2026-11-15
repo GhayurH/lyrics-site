@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Saeed Sadiq"
 reciter: "Kazmi Brothers"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haath pehlu se hataaya nahiṅ jaata baba
   Dard ne kar diya Zahra ko zaifa baba

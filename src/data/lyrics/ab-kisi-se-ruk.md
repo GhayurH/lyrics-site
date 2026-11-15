@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ab kisi se ruk nahiṅ sakta bayan-e-Karbala
   Likh gaye Abbas khuṅ se daastaan-e-Karbala

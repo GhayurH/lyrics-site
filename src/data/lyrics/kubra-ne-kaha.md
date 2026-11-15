@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shaukath Bilgrami"
 reciter: "Hasan Abbas Ahsan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kubra ne kaha Qaasim dulha
   Kis sune ban meiṅ sote ho

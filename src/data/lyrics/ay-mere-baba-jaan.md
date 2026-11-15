@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Mere Baba Jaan"]
-published: false
+published: true
 romanLyrics: |-
   Maqtal ke sannaate mein
   Nauha karti hai naadaaṅ

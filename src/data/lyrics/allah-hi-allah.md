@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Kashmiri"
 reciter: "Abul Fazl Sangat"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sarwar ki shahaadat ka andaaz niraala hai
   Allah hi Allah Maula hi Maula

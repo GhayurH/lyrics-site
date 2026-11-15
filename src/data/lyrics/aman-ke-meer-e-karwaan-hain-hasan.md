@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Rehan Azmi"
 reciter: "Syed Wajhi Hasan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aman ke mir-e-kaarvaaṅ hain Hasan
   Maalik-e-Kausar o jinaaṅ hain Hasan

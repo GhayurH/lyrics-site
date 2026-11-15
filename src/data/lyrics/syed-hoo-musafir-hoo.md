@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Rizwan Zaidi Party"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sayyad huṅ musaafir huṅ gharib-ul-ghuraba huṅ
   Pyaasa huṅ kai roz se bejurm o khata huṅ

@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 reciter: "Hamid Baltistani"
 poet: "Mir Takallum"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bazaar mein ye Zainab Fizza se keh rahi hai
   Amma mujhe chhupa lo

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Tauqeer Zaidi"
 reciter: "Nasir Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Gham ki maari ye boli Sakina
   Koi ab to nahiṅ haaye apna

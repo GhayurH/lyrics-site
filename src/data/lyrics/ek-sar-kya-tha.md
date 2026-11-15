@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
 reciter: "Tabligh-e-Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ek sar kya tha shahid-e-Karbala ke saamne
   Rakh diye Shah ne bahattar sar Khuda ke saamne

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: ["Baba Mai Teri Zainab"]
-published: false
+published: true
 romanLyrics: |-
   Haye Ali haye haye Zainab
 

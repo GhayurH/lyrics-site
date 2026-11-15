@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: ["Karbala Wale Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Fatima Zehra ke dilbar Karbala wale Husain
   Kushta-e-tegh-e-sitamgar Karbala wale Husain

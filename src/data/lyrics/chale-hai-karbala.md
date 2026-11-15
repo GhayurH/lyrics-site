@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Suroor Lakhnavi"
 reciter: "Anj. Dasta e Hussaini"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Chale hai Karbala Sarwar aza ka aakhri din hai
   Azaakhaana barhaaya jaa raha hai dil pareshaaṅ hai

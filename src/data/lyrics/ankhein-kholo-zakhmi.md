@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Mir Hassan Mir"
 poet: "Mir Takallum"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zainab ka tha nauha baba mere baba
   Main Zainab huṅ pehchaano zara

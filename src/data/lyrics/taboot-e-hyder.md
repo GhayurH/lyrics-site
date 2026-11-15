@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Sirsvi"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Taboot E Hyder"]
-published: false
+published: true
 romanLyrics: |-
   Ye kaisa hai shor-e-girya hai
   Kaisa maatam hai kaisa nauha

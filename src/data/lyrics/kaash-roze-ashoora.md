@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Waiz Sultanpuri"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Kaash Roze Ashoora"]
-published: false
+published: true
 romanLyrics: |-
   Haaye yatimi haaye asiri
 

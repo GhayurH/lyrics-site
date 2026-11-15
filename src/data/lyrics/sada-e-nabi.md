@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Danish Abbas"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ye mazaar-e-Nabi se aayi sada
   Haal kya ho gaya tera Zehra

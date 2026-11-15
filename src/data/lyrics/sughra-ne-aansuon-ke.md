@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Hussain"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kabhi khaali hujroṅ mein kabhi dehliz par jaa kar
   Sughra ne aaṅsuoṅ ke kitne diye jalaaye

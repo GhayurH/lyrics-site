@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Izhaar"
 reciter: "Rizwan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Baqia Mujhe"]
-published: false
+published: true
 romanLyrics: |-
   Ae Baqia mujhe tera gham hai
   Is liye to ye aankh purnam hai

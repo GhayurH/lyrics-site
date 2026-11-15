@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Yaqeen Nahi Aate"]
-published: false
+published: true
 romanLyrics: |-
   Jab aayi bete ki turbat pe maadar-e-Abbas
   Bithaaya Zainab o Sajjad ne lahad ke paas

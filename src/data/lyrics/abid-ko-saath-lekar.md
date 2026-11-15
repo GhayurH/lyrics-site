@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Sajid Razvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Anj. Masoomeen"
 romanLyrics: |-
   Abid ko saath le kar Zainab Madine aai

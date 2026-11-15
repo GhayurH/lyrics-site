@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Dariya"]
-published: false
+published: true
 romanLyrics: |-
   Pyaase khaimoṅ meiṅ musalsal hai fughaaṅ ae dariya
   Tu ne Ghaazi ko chhupaaya hai kahaaṅ ae dariya

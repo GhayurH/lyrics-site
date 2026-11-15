@@ -10,9 +10,9 @@ bastaPage: 326
 bastaNote: "additional-stanzas"
 # Source comparison: Basta pp. 326–327 contain a shorter variant, attributed there
 # to Maulana Syed Faragh Ali Rizvi. Retain this source's extra verses and readings.
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Soghwaro Aaho"]
-published: false
+published: true
 romanLyrics: |-
   Ae sogwaroṅ aah o buka ka maqam hai
   Ab rukhsat-e-Husain alaihissalaam hai

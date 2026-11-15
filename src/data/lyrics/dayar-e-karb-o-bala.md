@@ -9,9 +9,9 @@ kalamType: "Manqabat"
 poet: "Nur Ali Nur"
 reciter: "Syed Mudassir Mehdi"
 sixVerseLayout: "pairs"
-tags: ["noImage"]
+tags: []
 aliases: ["dayar-e-karb-o-bala-syed-mudassir-mehdi", "Dayar E Karb O Bala Syed Mudassir Mehdi"]
-published: false
+published: true
 romanLyrics: |-
   1
   Diyaar-e-Karb o Bala mein makin ho jaauṅ

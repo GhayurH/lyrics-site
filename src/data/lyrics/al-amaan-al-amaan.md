@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Mir Hassan Mir"
 romanLyrics: |-
   Al amaṅ al amaṅ Ya Sahib-az-Zaman

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Izzat Lakhnavi"
 reciter: "Izzat Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haram sara-e-Husaini ke paasbaaṅ Abbas
 

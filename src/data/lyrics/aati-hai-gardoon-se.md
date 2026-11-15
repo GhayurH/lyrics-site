@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Anees Pehersari"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aati hai garduṅ se ye paiham sada
   Qatl huwe sajde mein Sher-e-Khuda

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Marsiya"
 poet: "Mir Anees"
 reciter: "Shadaab Amrohvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   1
   Husain jab ke chale baad do pahar ran ko

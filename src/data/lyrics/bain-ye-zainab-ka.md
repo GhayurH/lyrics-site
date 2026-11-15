@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Ali Khan Lakhnavi"
 reciter: "Zawwar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bain yeh Zainab ka tha Shaam-e-gharibaaṅ bata
   Kya hua kunba mera Shaam-e-gharibaaṅ bata

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Mere Chand"]
-published: false
+published: true
 romanLyrics: |-
   Ye ro ke kehti thi Umm-e-Rabab maqtal mein
   Kahaṅ pe sote ho maaṅ ke baghair jangal mein

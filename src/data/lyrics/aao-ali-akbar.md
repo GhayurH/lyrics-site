@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Hyder"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Girta hai pidar ran mein sambhaalo Ali Akbar
   Aao Ali Akbar aao Ali Akbar

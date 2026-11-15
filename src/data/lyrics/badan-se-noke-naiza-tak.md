@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ahsan Zaidi"
 reciter: "Kazmi Brothers"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sar jo chhe maah ke beshir ka naize pe charha
   Nok-e-naiza se ye Asghar ki sada aane lagi

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Iqbal Abedi"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: ["Shame Ghariban Hai"]
-published: false
+published: true
 romanLyrics: |-
   Bikhre laashe maqtal dekho taare tute
   Pyaase bachche haiṅ

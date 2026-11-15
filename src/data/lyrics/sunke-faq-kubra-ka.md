@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anwar Zahir"
 reciter: "Shareef Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sun ke faq Kubra ka chehra ho gaya
   Tukre tukre ran meiṅ dulha ho gaya

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zafar Azmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Mir Rehan Abbas"
 romanLyrics: |-
   Reh gaya jab sina-e-Akbar mein neza der tak

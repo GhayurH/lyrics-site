@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sughra ko Muharram ka jab chaand nazar aaya
   Yaad-e-Shah-e-Waala ne dil aur bhi tarpaaya

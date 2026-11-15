@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Mir Rehan Abbas"
 poet: "Anwar Raebarelwi"
-tags: ["noImage"]
+tags: []
 aliases: ["Khoon Mein Dooba"]
-published: false
+published: true
 romanLyrics: |-
   Khun mein duba jalti zamiṅ par
   Laasha-e-Sarwar para hua hai

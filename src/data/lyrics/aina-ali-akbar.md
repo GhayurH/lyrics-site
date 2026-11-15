@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Rizvi Sachey"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Ali Rizvi Sachey"
 romanLyrics: |-
   Ghore se ran mein jab gire hamshakl-e-Mustafa

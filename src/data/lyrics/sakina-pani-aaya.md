@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Sakina Pani Aaya"]
-published: false
+published: true
 romanLyrics: |-
   Utho Asghar mere pyaase wo dekho paani aaya hai
   Sakina paani aaya hai Sakina paani aaya hai

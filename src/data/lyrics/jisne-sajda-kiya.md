@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jis ne sajda kiya chaand Zehra ka tha khanjar tale
   Jis ka koi na raha chaand Zehra ka tha khanjar tale

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Turabi"
 reciter: "Ashraf Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Hai yehi waqt un ka daaman thaam le
   Girne waale ab Ali ka naam le

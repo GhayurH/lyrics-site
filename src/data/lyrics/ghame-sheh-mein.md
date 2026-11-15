@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Tabligh-e-Imamia"
 romanLyrics: |-
   Gham-e-Sheh mein jo aankhoṅ se rawaaṅ hai

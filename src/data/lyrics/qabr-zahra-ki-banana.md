@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Surani/Shahid Baltistani"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Qabr Zahra ki banaana koi aasaan na tha
   Phir nishaaṅ us ka mitaana koi aasaan na tha

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Agha Abbasi Hashr"
 reciter: "Hadi Ali Khan Muslim"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Hussaine Bekas"]
-published: false
+published: true
 romanLyrics: |-
   Ae Husain-e-bekas ki ghamzada bahan Zainab
 

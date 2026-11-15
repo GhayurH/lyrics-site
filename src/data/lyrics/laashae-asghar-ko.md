@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Alamdar Razvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Laasha-e-Asghar ko rakh kar qabr mein sheh ne kaha
   Ae zamin-e-Karbala

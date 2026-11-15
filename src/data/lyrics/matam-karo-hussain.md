@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Arsalan Azmi"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Matam Karo Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Maatam karo Husain alaihis salaam ka
   Ek din mein ghar ujar gaya logoṅ Imaam ka

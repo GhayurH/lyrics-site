@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Manqabat
 poet: Sibt-e-Jafar
 reciter: Syed Wajhi Hasan Zaidi
-tags: ["noImage"]
+tags: []
 aliases: ["Mula Ab Aa Bhi Jaein Kab Se Bula Rahe Hain"]
-published: false
+published: true
 romanLyrics: |-
   Maula ab aa bhi jaaeiṅ kab se bula rahe haiṅ
   Jaur o sitam jahaaṅ ke barhte hi ja rahe haiṅ

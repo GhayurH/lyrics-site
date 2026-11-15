@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haq kar gaye maadar ke ada saare ke saare
   Maamuṅ pe fida ho gaye Zainab ke dulaare

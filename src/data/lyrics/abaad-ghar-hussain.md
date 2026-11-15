@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hasan Abbas Ahsan"
 reciter: "Anj. Parwane Shabbir"
-tags: ["noImage"]
+tags: []
 aliases: ["Abaad Ghar Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Aabad ghar Husain ka viran ho gaya
   Shahr-e-Rasul-e-Haq bara sunsan ho gaya

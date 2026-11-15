@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Utho Hussain Bahan Ko"]
-published: false
+published: true
 romanLyrics: |-
   Ye main huṅ main meri tanhaai, ye tamaashaai
   Lo aayi gyaarah Muharram hai kya khabar laayi

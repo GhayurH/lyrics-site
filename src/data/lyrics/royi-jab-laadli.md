@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Abbas and Mohsin"
 reciter: "Kazmi Brothers"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Royi jab laadli Muhammad ki
   Saara darbaar muskuraaya hai

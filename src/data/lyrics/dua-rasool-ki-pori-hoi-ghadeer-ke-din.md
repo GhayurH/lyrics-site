@@ -6,10 +6,10 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Rehan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: ["Dua Rasool Ki Pori Hoi Ghadeer Ke Din Rehan Azmi Lyrics 2023"]
 recitationId: "dua-rasool-ki-pori-hoi-ghadeer-ke-din-rehan-azmi-lyrics-2023"
-published: false
+published: true
 romanLyrics: |-
   1
   Dua Rasul ki puri hui Ghadir ke din

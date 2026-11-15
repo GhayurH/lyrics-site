@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Taqi Abedi"
 reciter: "Raza Ali Khan"
-tags: ["noImage"]
+tags: []
 aliases: ["Nahi Dekha"]
-published: false
+published: true
 romanLyrics: |-
   Aankhoṅ se rawaaṅ ashk ka darya nahiṅ dekha
   Har bachche ne jalta hua khaima nahiṅ dekha

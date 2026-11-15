@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Afzal Hussain"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Qutelal Husaino be Karbala
   Karbala Karbala Karbala

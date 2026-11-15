@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Safdar Abbas"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Baba mera maara gaya aaye nahiṅ kiuṅ dada jaan
   Baba pe jab khanjar chala aaye nahiṅ kiuṅ dada jaan

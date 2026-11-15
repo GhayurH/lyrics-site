@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: ["Mohamed Hamare", "صل علٰی نبیینا صلی علی محمدن"]
-published: false
+published: true
 romanLyrics: |-
   Salli ala nabiyyina salli ala Muhammadin
   Sallallahu alaihi wa sallam

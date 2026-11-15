@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Marsiya"
 poet: "Syed Aimaad Naqvi"
 reciter: "Saleem Mastan Wa Bradran"
-tags: ["noImage"]
+tags: []
 aliases: ["ghurbat-e-sajjad-saleem-mastan-wa-bradran"]
-published: false
+published: true
 romanLyrics: |-
   1
   Kaise ho bayaaṅ Aabid-e-bimaar ki ghurbat

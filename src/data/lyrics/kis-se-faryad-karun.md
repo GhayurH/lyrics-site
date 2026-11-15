@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Zaidi"
 reciter: "Hassan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Khwaahar-e-Shaah tarap kar yehi deti thi sada
   Kis se faryaad karuṅ

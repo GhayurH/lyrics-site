@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: ["Baba Ko Sadayein"]
-published: false
+published: true
 romanLyrics: |-
   Baba ko sadaaeṅ deti hai
   Jangal meiṅ Sakina raat gaye

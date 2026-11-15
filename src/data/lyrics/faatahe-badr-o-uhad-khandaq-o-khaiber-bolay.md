@@ -13,43 +13,43 @@ romanLyrics: |-
   1
   Faatahe Badr o Uhad, Khandaq o khaibar bole
   Fard hai eik zamana ise lashkar bole
-  
+
   2
   Gaarh kar run meiṅ Alam, Faatah-e-khyber bole
   Hai Ali naam mera maaṅ mujhe Haider bole
-  
+
   3
   Ayi mushkil abhi asaan kiye dete hai
   Tan pe acha nahi lagta ho jise sir bole
-  
+
   4
   wo alag log the jo dekh ke dar laut gaye
   haye marhab hai kahaṅ ab koi antar bole
-  
+
   5
   *aaj to arsh-e-mualla pe hai rindoṅ ka dimaagh
   aaj pine ke liye ke liye saqi-e-kauthar bole
-  
+
   6
   *Baakhuda is meiṅ nusairi ki nahiṅ koyi khataa
   Madh-e-Hyder meiṅ payambar haiṅ sambhal kar bole
-  
+
   7
   ye zacha khaana-e-farzand-e-abu talib hai
   ye zamana jise allah ka hai ghar bole
-  
+
   8
   khaana-e-kaaba azal hi se ali ka ghar hai
   saamne aaye kisi aur ka ho ghar bole
-  
+
   9
   dekh kar aate huwe Faatah-e-khyber ke qadam
   muskurati huwi diwaar barhi dar bole
-  
+
   10
   Hamil-e-wahi-e-illahi ne chusaayi hai zabaṅ
   Ilm ka shehr ise Ilm ka hai dar bole
-  
+
   11
   ye ghulaamaan-e-ali ibn-e-abi talib haiṅ
   has ke rizwan ko ishaare se payambar bole

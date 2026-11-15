@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Manzar Aelia"
 reciter: "Hadi Ali Khan Muslim"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Abbas behan aayi hai darbar mein jaa kar
 

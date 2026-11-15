@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Farhan Banarasi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aayi jo chhut ke qaid se Zehra ki laadli
   Aa kar mazaar-e-Ahmad-e-Mukhtaar par giri

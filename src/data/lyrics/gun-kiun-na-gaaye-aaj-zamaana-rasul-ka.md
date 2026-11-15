@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Naat"
 poet: "Yasir Raza Yasir"
 reciter: "Syed Wajhi Hasan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["gun-kyun-na-gaye-aaj-zamana-rasool-ka-naat-wajhi-hasan-zaidi", "Gun Kyun Na Gaye Aaj Zamana Rasool Ka Naat Wajhi Hasan Zaidi"]
-published: false
+published: true
 romanLyrics: |-
   1
   Gun kiuṅ na gaaye aaj zamaana Rasul ka

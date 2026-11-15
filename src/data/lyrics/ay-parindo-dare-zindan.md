@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Suroor Lakhnavi"
 reciter: "Anj. Muhibbane Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ae parindoṅ dar-e-zindaaṅ se guzra na karo
   Ek yatima ko sar-e-shaam se sataaya na karo

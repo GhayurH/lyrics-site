@@ -5,10 +5,10 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage"]
+tags: []
 reciter: "Nasir Jahan"
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aal-e-Ahmad ki khuni kahani
   Lo suno Karbala ki zabani

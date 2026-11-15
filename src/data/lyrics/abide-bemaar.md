@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Anj. Masoomeen"
 romanLyrics: |-
   Abid-e-Bimar

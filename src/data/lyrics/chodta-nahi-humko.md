@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Ashraf Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Chhorta nahiṅ hum ko Karbala ka gham tanha
   Varna chal nahiṅ sakte hum to do qadam tanha

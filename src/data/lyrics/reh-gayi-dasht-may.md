@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Kausar Zaidi"
 reciter: "Muslim Jafri"
-tags: ["noImage"]
+tags: []
 aliases: ["Reh Gayi Dasht May"]
-published: false
+published: true
 romanLyrics: |-
   Reh gayi dasht mein tanha to watan yaad aaya
   Paani piya to har ek tishna dahan yaad aaya

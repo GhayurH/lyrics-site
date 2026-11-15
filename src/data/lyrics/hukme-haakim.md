@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sibte Jafar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Hukm-e-haakim hai kisi ke na rahe sar baaqi
   Koi duniya mein na Haidar ka rahe ghar baaqi

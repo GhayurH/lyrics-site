@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Hasan ke laal ka laasha utha rahe haiṅ Husain
   Zamin garm pe chaadar bichha rahe haiṅ Husain

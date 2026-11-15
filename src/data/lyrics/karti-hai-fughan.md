@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
 reciter: "Anj. Parwane Shabbir"
-tags: ["noImage"]
+tags: []
 aliases: ["Karti Hai Fughan"]
-published: false
+published: true
 romanLyrics: |-
   Karti thi fughaṅ Fatima Zehra mere baba
   Beti hui ab aap ki tanha mere baba

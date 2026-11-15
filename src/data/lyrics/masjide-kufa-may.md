@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Dayam Najafi"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Masjid-e-Kufa mein mehbub-e-Khuda zakhmi hua
   Baad-e-Ahmad jo tha din ka peshwa zakhmi hua

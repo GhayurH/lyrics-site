@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: ["Sadr Shukr Mere"]
-published: false
+published: true
 reciter: "Nadeem Sarwar"
 romanLyrics: |-
   Sajde meiṅ sar hai halq pe khanjar ki dhaar hai

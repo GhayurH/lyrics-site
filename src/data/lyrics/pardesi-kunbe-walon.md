@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 reciter: Ashraf Abbas
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Pardesi kunbe waloṅ ki yaad jo tir chubhoti hai
   Naana ke rauze par Sughra chupke chupke roti hai

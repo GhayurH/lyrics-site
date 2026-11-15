@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Bilal Kazmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Ameer Hasan Aamir"
 romanLyrics: |-
   Oqado zaleelan fi damishqa qa annani

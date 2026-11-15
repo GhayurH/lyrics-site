@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Imame Raza"]
-published: false
+published: true
 romanLyrics: |-
   Ya Imam-e-Raza ya Imam-e-Raza
   Ae Shahanshah-e-Khurasaaṅ

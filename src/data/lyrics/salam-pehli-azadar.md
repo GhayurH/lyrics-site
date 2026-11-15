@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
 reciter: "Anj. Hyderi Ali Basti"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Salaam pehli azaadaar Saani-e-Zehra
   Husainiyat ki nigehdaar Saani-e-Zehra

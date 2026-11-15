@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: ["Chal Sakina Chale"]
-published: false
+published: true
 romanLyrics: |-
   Jaago ae baali Sakina dete haiṅ aawaaz Baba
 

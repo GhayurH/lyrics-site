@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
 reciter: "Murtaza-Riaz"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Main jihaad kar raha huṅ meri tegh chashm-e-tar hai
   Mere dushmanoṅ ko har dam mere aansuoṅ se dar hai

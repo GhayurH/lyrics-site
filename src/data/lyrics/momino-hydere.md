@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Fazal Elahi Jaffri"
 reciter: "Nadeem Sarwar; Jawad ul Hassan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Momino Haider-e-Karraar ka maatam kar lo
   Haaṅ Muhammad ke alamdaar ka maatam kar lo

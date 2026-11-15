@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Qata"
 poet: "Syeda Fakhira Batool Naqvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   1
   Wafa bhi jhum uthe yuṅ wafa kare koi

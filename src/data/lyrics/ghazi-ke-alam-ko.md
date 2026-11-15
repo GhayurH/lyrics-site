@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sadiyoṅ se utha rakha hai Ghazi ke alam ko
   Baatil na jhuka sakta alam ko hai na hum ko

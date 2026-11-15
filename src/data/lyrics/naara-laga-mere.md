@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nasir Hussain"
 reciter: "Mir Arif Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Labbaik ya Husain
   Husain Saarallah Aba Abdillah

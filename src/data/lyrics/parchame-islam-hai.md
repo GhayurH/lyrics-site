@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 reciter: "Hasan Sadiq"
 poet: "Ameer Hussain Mashadi"
-tags: ["noImage"]
+tags: []
 aliases: ["Parchame Islam Hai"]
-published: false
+published: true
 romanLyrics: |-
   Parcham-e-Islam tujh par salaam
   Maula Ghazi ka alam hi parcham-e-Islam hai

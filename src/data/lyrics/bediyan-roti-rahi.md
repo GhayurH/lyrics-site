@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hassan Mujtaba"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Beriyaṅ roti rahi Aabid-e-bimaar ke saath
   Khun behta raha zanjir ki jhankaar ke saath

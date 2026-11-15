@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Anees"
 reciter: "Raza Ali Khan"
-tags: ["noImage"]
+tags: []
 aliases: ["Dunya May Aaj"]
-published: false
+published: true
 romanLyrics: |-
   Dunya mein aaj hashr ka din aashkaar hai
   Sibt-e-Nabi ke sine pe qaatil sawaar hai

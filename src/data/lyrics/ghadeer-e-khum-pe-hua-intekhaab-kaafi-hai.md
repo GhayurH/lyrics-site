@@ -7,9 +7,9 @@ lang: ur
 direction: rtl
 kalamType: Manqabat
 poet: "Ammar Yasir Magsi"
-tags: ["noImage"]
+tags: []
 aliases: ["ghadeer-e-khum-pe-howa-intehab-kafi-hai-ammar-yasir-magsi"]
-published: false
+published: true
 romanLyrics: |-
   Hameiṅ hadis-e-risaalat maab kaafi hai
   Ghadeer-e-Khum pe hua intekhaab kaafi hai

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zulfiqar Ahmed"
 reciter: "Mir Mohsin Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Ho Kahan Ay Laal"]
-published: false
+published: true
 romanLyrics: |-
   Haaye Asghar ki sada aati hai ab bhi raat ko
   Gunjta hai naala-e-qalb-e-Rabaab-e-Karbala

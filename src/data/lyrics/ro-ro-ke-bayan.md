@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ro ro ke bayaṅ karti thi ye Zainab-e-naashaad
   Ae Sayyad-e-Sajjaad ae Sayyad-e-Sajjaad

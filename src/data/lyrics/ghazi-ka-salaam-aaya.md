@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Fizza teri wafa ko Ghazi ka salaam aaya
   Zahra ki betiyoṅ ka tu ne qadam qadam par

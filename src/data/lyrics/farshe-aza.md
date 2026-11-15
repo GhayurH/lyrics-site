@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Farshe Aza"]
-published: false
+published: true
 romanLyrics: |-
   Khul gaya mera nasib jab ghar aashur khaana saja
   Do jahaaṅ ki mili neamateiṅ aur maaṅguṅ main kya

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Waiz Sultanpuri"
 reciter: "Ali Mohd. Sultanpuri"
-tags: ["noImage"]
+tags: []
 aliases: ["Kaata Gaya Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Kaata gaya Husain ka maqtal mein jab gala
   Bas kuchh hi faasle se behan dekhti rahi

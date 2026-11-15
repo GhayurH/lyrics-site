@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ek Mehr-e-Karbala aur us ki tanvireṅ bahot
   Aaine mein yuṅ nazar aati haiṅ tasvireṅ bahot

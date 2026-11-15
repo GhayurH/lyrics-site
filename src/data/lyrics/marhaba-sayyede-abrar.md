@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Marhaba Sayyed-e-Abraar Husain Ibn-e-Ali
   Pisar-e-Faatima Zehra haiṅ Husain Ibn-e-Ali

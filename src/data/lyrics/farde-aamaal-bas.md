@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Sachey Bhai"
 reciter: "Ali Rizvi Sachey"
-tags: ["noImage"]
+tags: []
 aliases: ["Farde Aamaal Bas"]
-published: false
+published: true
 romanLyrics: |-
   Fard-e-aamaal meiṅ bas ashk hamare hoṅge
   Hashr ke din yehi bakhshish ke sahare hoṅge

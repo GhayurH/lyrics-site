@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mahir Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: ["Aaqa E Do Jahan Bhi"]
-published: false
+published: true
 romanLyrics: |-
   Aaqa-e-do jahaaṅ hai Mushkilkusha bhi hai
   Haider ba-qaul-e-qaum-e-Nusairi Khuda bhi hai

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Ameer Hasan Aamir"
 poet: "Nayyar Jalalpuri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aa gaya Shaam ka bazaar kahaaṅ ho Abbas
   Mere monis mere ghamkhwaar kahaaṅ ho Abbas

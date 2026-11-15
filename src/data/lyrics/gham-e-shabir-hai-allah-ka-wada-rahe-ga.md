@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Bilal Kazmi"
 reciter: "Syed Wajhi Hasan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Gham-e-Shabbir hai Allah ka waada rahe ga
   Hawa chalti rahe gi yeh diya jalta rahe ga

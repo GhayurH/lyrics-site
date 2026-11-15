@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Arif Sahab"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ro ke Shabbir sada dete the sada haaye Muslim
   Kaun Kufe mein tera laasha uthaaye Muslim

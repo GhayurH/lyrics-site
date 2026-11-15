@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Asif Bijnori"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haae shaam-e-gharibaaṅ
   Kar rahi hai daastaan-e-gham bayaaṅ khaimoṅ ki raakh

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Haider Khursheed"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Baaqir ke laadle ka taabut utha hai
   Batlaao musalmaanoṅ kya is ki khata hai

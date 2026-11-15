@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: ["Chane Lagi Shame"]
-published: false
+published: true
 romanLyrics: |-
   Chhaane lagi shaam-e-gharibaṅ
   Haye qayamat ka hai samaaṅ

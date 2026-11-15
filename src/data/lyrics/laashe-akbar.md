@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Laash Akbar ko liye soch rahe haiṅ Sarwar
   Qatl-e-Akbar ki khabar kaise sunegi maadar

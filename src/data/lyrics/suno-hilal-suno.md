@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Kaleem Bijnori"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Nazar mein leke bahattar shahaadatoṅ ka nizaam
   Hilal se shab-e-Aashur keh rahe haiṅ Imam

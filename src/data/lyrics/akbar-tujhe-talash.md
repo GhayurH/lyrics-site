@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Ali Khan Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Ghadeer Fatima"
 romanLyrics: |-
   Akbar tujhe talash karuṅ kis dayar mein

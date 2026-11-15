@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Majid Raza Abidi"
 reciter: "Mukhtar Husain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jo tha Khuda se wo waada nibha rahe haiṅ Husain
   Khud apne qadmoṅ se maqtal ko jaa rahe haiṅ Husain

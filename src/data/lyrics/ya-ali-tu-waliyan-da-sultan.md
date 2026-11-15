@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Syed Aimaad Naqvi"
 reciter: "Wajhi Hasan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["ya-ali-tu-waliyan-da-sultan-wajhi-hasan-zaidi-son"]
-published: false
+published: true
 romanLyrics: |-
   Sab tauṅ uchchiyaaṅ sab tauṅ wadhya shaan
   Ya Ali tu waliyaaṅ da sultaan

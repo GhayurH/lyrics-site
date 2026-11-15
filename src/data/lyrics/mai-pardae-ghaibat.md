@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Hussain Gohar"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Imam parda-e-ghaibat se de rahe haiṅ sada
   Ana ibn-e-Zahra

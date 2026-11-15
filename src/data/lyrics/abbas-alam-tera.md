@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Mir Bober Ali"
 reciter: "Mir Bober Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Shabbir ka paigham sunate hi raheṅge
   Abbas alam tera uthate hi raheṅge

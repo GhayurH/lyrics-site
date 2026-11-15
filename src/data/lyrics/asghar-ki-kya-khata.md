@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Irfan Hussain"
 poet: "Shaukath & Nasir Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kehte thay Shah bata de Asghar ki kya khata thi
   Kiuṅ Hurmala hamaare Asghar ki kya khata thi

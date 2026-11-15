@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Hadi Ali Khan Muslim"
 poet: "Zaki Bilgrami"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Marqad pe maaṅ ki Zainab faryaad kar rahi hai
   Amma teri kamaai jangal mein lut gayi hai

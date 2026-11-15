@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mir Takallum"
-tags: ["noImage"]
+tags: []
 aliases: ["Khate Sughra"]
-published: false
+published: true
 reciter: Shahid Baltistani
 romanLyrics: |-
   Karbala mein jo khat-e-Fatema Sughra aaya

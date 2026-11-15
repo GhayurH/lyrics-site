@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Marsiya"
 poet: "Mirza Dabeer"
 reciter: "Imtiaz Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Musafirane Musibat"]
-published: false
+published: true
 romanLyrics: |-
   1
   Musafiran-e-musibat watan meiṅ aate haiṅ

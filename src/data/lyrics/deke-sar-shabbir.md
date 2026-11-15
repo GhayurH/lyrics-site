@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Jawad Jaffri"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: ["Deke Sar Shabbir"]
-published: false
+published: true
 romanLyrics: |-
   De ke sar Shabbir ne Islaam zinda kar diya
   Karbala ko jis ke sajde ne mualla kar diya

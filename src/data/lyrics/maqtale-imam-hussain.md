@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Maqtale Imam Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Gharib-e-Zehra ki ghurbat suno ae ahl-e-aza
 

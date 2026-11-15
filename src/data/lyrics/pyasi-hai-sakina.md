@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Anwar Allahbadi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: Farhan Ali Waris
 romanLyrics: |-
   Ae baad-e-saba ja ke ye ammu ko bataana

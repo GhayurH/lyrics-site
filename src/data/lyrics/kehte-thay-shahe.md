@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anees"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Kehte Thay Shahe"]
-published: false
+published: true
 romanLyrics: |-
   Assalaam alaika ae Zainab o Umm-e-Kulsum
   Assalaam alaika ae Ruqayya o Sakina

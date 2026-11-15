@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Anees"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aaj Shabbir pe kya aalam-e-tanhai hai
   Zulm ki chaand pe Zehra ke ghata chaayi hai

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Azhar"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ae parcham-e-Abbas pharere ki hawa de
   Bas jaaye jo saansoṅ mein woh khushbu-e-wafa de

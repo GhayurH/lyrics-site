@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Laash Akbar ki jo maqtal se uthaa laaye Husain
   Ek kohraam tha khaime meiṅ jo Maula ne kahaa

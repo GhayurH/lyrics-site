@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Hasnain"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Arsa-e-hashr mein jis waqt ke aaeṅgi Batul
   Keh ke farzandoṅ ka gham sab ko rulaaeṅgi Batul

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mirza Dabeer"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aaye jo is jahaṅ mein hamshakl-e-Mustafa
   Aisa laga ke chand zamiṅ par utar gaya

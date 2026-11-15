@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anees Pehersari"
 reciter: "Tabligh-e-Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Wafa ke shehr ke mehmaan Hazrat-e-Abbas
   Husaini fauj ke salaar Hazrat-e-Abbas

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ghulam Abbas"
 reciter: "Mir Bober Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Allah ki riza hai mohabbat Husain ki
   Puchho Rasul-e-Pak se azmat Husain ki

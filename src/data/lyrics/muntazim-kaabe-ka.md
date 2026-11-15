@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Qamar Jalalvi"
 reciter: "Sibt-e-Jafar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Muntazim Kaabe ka aa pahuṅcha safaai ke liye
   Ae butoṅ ab aur ghar dhundo khudaai ke liye

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Ya Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Ya Husain, haaye shaam-e-gharibaaṅ, ya Husain
 

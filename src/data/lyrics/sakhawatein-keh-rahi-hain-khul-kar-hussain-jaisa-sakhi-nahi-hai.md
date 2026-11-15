@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Yasir Raza Yasir"
 reciter: "Syed Wajhi Hasan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sakhaawateṅ keh rahi haiṅ khul kar Husain jaisa sakhi nahiṅ hai
   Sakhi bahut haiṅ jahaaṅ mein par Husain jaisa sakhi nahiṅ hai

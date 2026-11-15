@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Marsiya"
 poet: "Mirza Dabeer"
 reciter: "Alamdar Razvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   1
   Chehlum jo Karbala mein bahattar ka ho chuka

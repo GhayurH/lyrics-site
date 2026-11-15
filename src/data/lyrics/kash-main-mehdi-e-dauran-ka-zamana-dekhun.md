@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Arsalan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kaash main Mehdi-e-dauraṅ ka zamana dekhuṅ
   Barhweṅ Haider-e-Karrar ka chehra dekhuṅ

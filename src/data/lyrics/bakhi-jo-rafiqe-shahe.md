@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Marsiya"
 reciter: "Zeeshan Taqvi"
-tags: ["noImage"]
+tags: []
 aliases: ["Bakhi Jo Rafiqe Shahe"]
-published: false
+published: true
 romanLyrics: |-
   1
   Baaqi jo rafiq-e-Shaah-e-din reh gaye do chaar

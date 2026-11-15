@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Tauqeer Kamalvi"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Zainab Sare Uryan"]
-published: false
+published: true
 romanLyrics: |-
   Zainab sar-e-uryaaṅ hai Abbas chale aao
   Makhduma pareshaaṅ hai Abbas chale aao

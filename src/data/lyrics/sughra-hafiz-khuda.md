@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Danish Mirza"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jaane laga Madine se jab Shah ka qaafila
   Sughra ke paas aa ke ye Maula ne tab kaha

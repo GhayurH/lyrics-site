@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Feroz Aalam"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Husain aap ka Karbobala chala ammaaṅ
   Badal rahi hai zamaane ki ye fiza ammaaṅ

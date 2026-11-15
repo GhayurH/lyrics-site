@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Aashiq Irani"
 reciter: "Munawar Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ae Hasan ke laadle Qasim kahaaṅ ho tum
   Qasim kahaaṅ ho tum Qasim kahaaṅ ho tum

@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Mazhar Naqvi"
 reciter: "Rizwan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Har ek jaanib udaasi hai, aza ki ruh pyaasi hai
   Fazaaoṅ mein lahu ki phir wohi maanus khushbu hai

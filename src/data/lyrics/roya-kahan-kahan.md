@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Waiz Sultanpuri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Ali Mohd. Sultanpuri"
 romanLyrics: |-
   Roya kahaaṅ kahaaṅ sar-e-mazlum-e-Karbala

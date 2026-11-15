@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mirza Murtaza Ali"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Baano ye boli ro kar jhule ke sone wale
   Sadqe gayi ye maadar jhule ke sone wale

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Rizwan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Bin Bhai Ke Ab"]
-published: false
+published: true
 romanLyrics: |-
   Ae bhaiya mere bhaiya
   Haaye Husain pyaase Husain

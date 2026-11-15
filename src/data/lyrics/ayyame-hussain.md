@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: ["Ayyame Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Ayyaam-e-Husain
 

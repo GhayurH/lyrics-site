@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Irfan Haider"
-tags: ["noImage"]
+tags: []
 aliases: ["Mere Ghareeb Hussain"]
-published: false
+published: true
 romanLyrics: |-
   As salaamun alaik ya gharib Husaina
 

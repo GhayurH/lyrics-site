@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Qudsi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maatam hai Saamara mein Imam-e-Hasan ka aaj
   Saaya saroṅ se uth gaya Shah-e-Zaman ka aaj

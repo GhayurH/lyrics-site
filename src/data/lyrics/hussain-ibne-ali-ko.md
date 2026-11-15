@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mirza Murtaza Ali"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Husain ibn-e-Ali ko pukaarte jaao
   Qadam qadam pe muqaddar sanwaarte jaao

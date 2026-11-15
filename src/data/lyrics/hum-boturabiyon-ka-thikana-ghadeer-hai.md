@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Faqir Aarif Imam"
-tags: ["noImage"]
+tags: []
 aliases: ["Hum Boturabiyon Ka Thikana Ghadeer Hai"]
-published: false
+published: true
 romanLyrics: |-
   1
   Hum Buturaabiyoṅ ka thikaana Ghadir hai

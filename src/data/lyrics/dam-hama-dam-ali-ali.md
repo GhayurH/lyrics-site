@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Sajjad Mir"
 reciter: "Mir Sajjad Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Dam Hama Dam Ali Ali Mir Sajjad Mir"]
-published: false
+published: true
 romanLyrics: |-
   Shah-e-shariatam Ali
   Pir-e-tariqam Ali

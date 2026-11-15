@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Dayam Najafi"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Thi yehi dasht-e-musibat mein sada-e-Sarwar
   Hai koi jo ke sune aaj nida-e-Sarwar

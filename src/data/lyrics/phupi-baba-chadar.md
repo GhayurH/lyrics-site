@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shams Rizvi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Phupi Baba Chadar"]
-published: false
+published: true
 romanLyrics: |-
   Shahid ho gaya Farwa ka laal jab ran mein
   Rakha khizaaṅ ne qadam ko Hasan ke gulshan mein

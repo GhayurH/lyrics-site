@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Abbas"
 reciter: "Sajid Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Main arz-e-Karbala huṅ mera ishq ya Husain
   Main aashiq-e-aza huṅ mera ishq ya Husain

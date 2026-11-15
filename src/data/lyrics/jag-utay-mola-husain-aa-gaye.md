@@ -7,9 +7,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 reciter: "Abida Parveen"
-tags: ["noImage", "Punjabi"]
+tags: ["Punjabi"]
 aliases: ["jag-utay-mola-hussain-aa-gaye-lyrics-in-punjabi-2017", "Jag Utay Mola Hussain Aa Gaye Lyrics In Punjabi 2017"]
-published: false
+published: true
 romanLyrics: |-
   Jag utay Mola Husain aa gaye
 

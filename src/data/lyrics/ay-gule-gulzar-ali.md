@@ -10,9 +10,9 @@ reciter: "Safdar Abbas"
 # The archive gives no sixth Urdu verse in stanza 1; Roman has the full refrain.
 # Later Urdu refrains say Maaṅ teri qurbaan, where Roman says Maah-e-taabaaṅ.
 stanzaLineExceptions: [1]
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Gule Gulzar Ali"]
-published: false
+published: true
 romanLyrics: |-
   Shabih-e-Payambar Akbar
 

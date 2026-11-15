@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Maisam Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Duba lahu mein laut ke aaya hai Zuljana
   Samjhi Sakina baba ko laaya hai Zuljana

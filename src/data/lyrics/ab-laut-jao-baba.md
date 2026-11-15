@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Fakhri Meerthi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Khaime se ran ke liye jab Ali Akbar nikle
   Pichhe bete ke jigar thaam ke Sarwar nikle

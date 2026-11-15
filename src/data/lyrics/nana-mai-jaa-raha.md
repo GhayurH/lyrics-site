@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: ["Nana Mai Jaa Raha"]
-published: false
+published: true
 romanLyrics: |-
   Nana main jaa raha huṅ
 

@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Shaukat"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Sakina Shaam May"]
-published: false
+published: true
 romanLyrics: |-
   Sakina Shaam mein mar kar yehi samjha gayi logo
   Judaai baap ke sine ki mujhko khaa gayi logo

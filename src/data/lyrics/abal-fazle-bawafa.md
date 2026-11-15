@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: ["abl-fazle-bawafa"]
-published: false
+published: true
 reciter: "Nadeem Sarwar"
 romanLyrics: |-
   Abal Fazl Abal Fazl Abal Fazl

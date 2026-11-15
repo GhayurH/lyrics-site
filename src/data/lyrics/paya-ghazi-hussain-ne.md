@@ -36,7 +36,6 @@ romanLyrics: |-
   Tere roze pe sar jhukana hai
   Roz Mahin mangti hai dua
   Mujh ko Ghazi bula bula keh ke
-
 ---
 
 پایا غازی حسین نے، تسبیحوں میں وفا وفا کہ کے

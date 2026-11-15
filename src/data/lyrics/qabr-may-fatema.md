@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Qabr May Fatema"]
-published: false
+published: true
 romanLyrics: |-
   Qabr mein Fatema Zehra ko rulaate kiuṅ ho
   Bhare darbar mein Zainab ko bulaate kiuṅ ho

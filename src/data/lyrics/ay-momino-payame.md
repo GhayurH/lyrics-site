@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Mehshar Lakhnavi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Momino Payame"]
-published: false
+published: true
 romanLyrics: |-
   Le ga na jaane kitni ye karwateṅ zamaana
   Chaahe har ek shai ko dunya ki bhul jaana

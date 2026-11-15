@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Anj. Sabile Masumeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bajuz Husain kisi se ye kaam ho na saka
   Jawaan bete ko haathoṅ se koi kho na saka

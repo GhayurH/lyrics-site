@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Dhundti phirti hai Zainab laashoṅ mein Abbas ko
   Karti hai mehsus ro ke aahoṅ mein Abbas ko

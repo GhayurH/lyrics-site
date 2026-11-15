@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Majid Raza Abidi"
 reciter: "Mukhtar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Khaimoṅ meiṅ bapa ahl-e-haram ki ye buka hai
   Lo baazu-e-Shabbir bhi marne ko chala hai

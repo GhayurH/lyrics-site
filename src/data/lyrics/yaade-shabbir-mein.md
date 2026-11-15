@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
 reciter: "Hassan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Yaade Shabbir Mein"]
-published: false
+published: true
 romanLyrics: |-
   Yaad-e-Shabbir mein Zainab yahi karti thi fughaaṅ
   Bas tera gham hai mere saath main jaati huṅ jahaaṅ

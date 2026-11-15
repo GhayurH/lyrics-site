@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Bilal Kazmi"
 reciter: "Mukhtar Hussain Fatehpuri"
-tags: ["noImage"]
+tags: []
 aliases: ["jo-haq-e-sana-hai-mukhtar-hussain-fatehpuri"]
-published: false
+published: true
 romanLyrics: |-
   Jo haq-e-sana hai woh ada ho nahiṅ sakta
   Quraan sa lehja to mera ho nahiṅ sakta

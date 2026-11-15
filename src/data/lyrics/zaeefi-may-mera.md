@@ -8,9 +8,9 @@ kalamType: "Noha"
 poet: "Adil Nazar"
 reciter: "Shadman Raza"
 sixVerseLayout: "pairs"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Girte the zin se jis dam zamin par Akbar
   Tarap rahe the yehi waaṅ soch kar Akbar

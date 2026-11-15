@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
 reciter: "Mir Sajjad Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Sakina Ke Chacha"]
-published: false
+published: true
 romanLyrics: |-
   Ae Sakina ke chacha ae mere bhai Abbas
   Maar daalegi hameiṅ teri judaai Abbas

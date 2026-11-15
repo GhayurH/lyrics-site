@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Akhtar Zaidi"
 reciter: "Qamar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maa kehti thi uth jaag meri jaan Sakina
   Uth ghar ko chale khul gaya zindaan Sakina

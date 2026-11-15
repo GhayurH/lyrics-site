@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Kyun Chod Jaati Hai"]
-published: false
+published: true
 romanLyrics: |-
   Gir chuka dar Fatima par
   Ab hai zakhmi Muhammad ki beti

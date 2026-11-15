@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Aale Raza"
 reciter: "Nasir Jahan"
-tags: ["noImage"]
+tags: []
 aliases: ["Dil Ki Zeenat"]
-published: false
+published: true
 romanLyrics: |-
   Dil ki zinat dard-e-Husaini
   Sar ki zinat paa-e-Husain

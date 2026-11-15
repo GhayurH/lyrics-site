@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
 reciter: "Tabligh-e-Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tamaam shab rahi khaimoṅ ki paasbaaṅ Zainab
   Hazaar ranj o musibat mein naatawaaṅ Zainab

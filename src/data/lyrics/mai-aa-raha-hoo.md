@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Mai Aa Raha Hoo"]
-published: false
+published: true
 romanLyrics: |-
   Main aa raha huṅ Sakina
 

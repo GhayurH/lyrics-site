@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bekasoṅ ka qaafila hai Shaam ka baazaar hai
   Khwaahar-e-Abbas-e-Ghazi qaafila saalaar hai

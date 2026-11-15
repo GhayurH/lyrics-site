@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ishrat Lakhnavi"
 reciter: "Dilawar Hasan"
-tags: ["noImage"]
+tags: []
 aliases: ["Kehti Thi Rokar Zainab"]
-published: false
+published: true
 romanLyrics: |-
   Kehti thi ro kar Zainab-e-Kubra
   Ik dukhyaari meri Sakina

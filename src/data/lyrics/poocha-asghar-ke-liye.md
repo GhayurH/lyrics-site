@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anees Pehersari"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Puchha Asghar ke liye Shah ne kya maaṅgte haiṅ
   Ro ke Baano ne kaha aab-e-baqa maaṅgte haiṅ

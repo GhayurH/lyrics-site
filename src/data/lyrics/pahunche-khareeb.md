@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zeya Jalalpuri"
 reciter: "Alamdar Saahil"
-tags: ["noImage"]
+tags: []
 aliases: ["Pahunche Khareeb"]
-published: false
+published: true
 romanLyrics: |-
   Pahunche qarib shahr-e-Madina to ro diye
   Aabid ka dil dukhoṅ se bhar aaya to ro diye

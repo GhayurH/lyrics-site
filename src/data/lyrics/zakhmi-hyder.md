@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: ["Zakhmi Hyder"]
-published: false
+published: true
 romanLyrics: |-
   Masjid mein huwe zakhmi Haidar
   Zainab pe qayaamat tuti hai

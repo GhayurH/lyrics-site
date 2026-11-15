@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Momin"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: ["Shamiyon May Ghir"]
-published: false
+published: true
 romanLyrics: |-
   Shaamiyoṅ mein ghir gaya hai mehmaan-e-Karbala
 

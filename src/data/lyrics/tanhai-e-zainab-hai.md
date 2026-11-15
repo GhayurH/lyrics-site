@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mujeeb Alipuri"
 reciter: "Mir Mohsin Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tanhaai-e-Zainab hai aur shaam-e-gharibaṅ hai
   Jalte hue khaime haiṅ kunba sar-e-maidaaṅ hai

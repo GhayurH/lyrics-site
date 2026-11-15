@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Naat"
 poet: "Khalique Hussain Mumtaz"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   1
   Aghaaz-e-zikr-e-wasf-e-Sheh-e-Anbiya karuṅ

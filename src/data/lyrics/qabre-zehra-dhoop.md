@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Misl-e-pehlu hai shikasta qabr-e-Zehra dhup mein
   Saaye mein baba ka rauza qabr-e-Zehra dhup mein

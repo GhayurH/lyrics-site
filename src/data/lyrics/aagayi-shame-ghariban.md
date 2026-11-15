@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Naved"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aa gayi shaam-e-gharibaṅ kahaṅ jaye Zainab
   Hua sunsaṅ bayabaṅ kahaṅ jaye Zainab

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar, J. Jaffri & A. Shanawar"
 reciter: "Ali Shanawar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Hai hamaari darsgaah Karbala Karbala
   Haq ka sidha raasta Karbala Karbala

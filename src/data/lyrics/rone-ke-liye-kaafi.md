@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Adil Malik"
 reciter: "Haji Ansar Party"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Rone ke liye kaafi hai Sajjad tera naam
   Tu shahanshaah-e-dard hai batla rahi hai Shaam

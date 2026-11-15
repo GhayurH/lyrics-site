@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ameer Hussain Mashadi"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jaise hi ghar se nikla taabut Mujtaba ka
   Tiroṅ mein ghir gaya tha farzand Murtaza ka

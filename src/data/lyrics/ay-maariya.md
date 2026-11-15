@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Maariya"]
-published: false
+published: true
 romanLyrics: |-
   Ae Maariya ae Nainawa ae dasht-e-Karbala
   Ye kya hua ae Karbala ye kya hua ae Karbala

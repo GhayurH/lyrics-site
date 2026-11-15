@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Najmi"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bekafan hai laasha-e-Sibt-e-Payambar khaak par
   Ro rahi hai Fatima baithi khule sar khaak par

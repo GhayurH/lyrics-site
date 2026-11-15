@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Alamdar Hashmi"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maqtal mein ro ke kehti thi Zehra mere Husain
   Aa god mein aa jaa mere Husain

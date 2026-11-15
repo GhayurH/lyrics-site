@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
-tags: ["noImage"]
+tags: []
 aliases: ["Ek Luta Khafela Safar"]
-published: false
+published: true
 romanLyrics: |-
   Ek luta qaafila safar mein hai
   Har qadam Karbala nazar mein hai

@@ -6,10 +6,10 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Hasnain Akbar"
-tags: ["noImage"]
+tags: []
 aliases: []
 recitationId: "ishq-e-abbas-jo-ik-baar-asar-karta-hai-lyrics-2017"
-published: false
+published: true
 romanLyrics: |-
   1
   Ishq-e-Abbas jo ik baar asar karta hai

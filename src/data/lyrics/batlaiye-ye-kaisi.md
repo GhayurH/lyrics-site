@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ahmed Naved"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Batlaiye ye kaisi asiri hai phuphi jaaṅ
   Kya mere muqaddar mein tha ye Shaam ka zindaaṅ

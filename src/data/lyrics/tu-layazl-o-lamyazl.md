@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
 reciter: "Anj. Hyderi Ali Basti"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tu laayazaal o lamyazal hai aadil o qadim hai
   Saghir hai khabir hai hasib hai karim hai

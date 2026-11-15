@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tanha ab tak ashk bahaaye Akbar ki bimaar behen
   Diwaaroṅ se sar takraaye Akbar ki bimaar behen

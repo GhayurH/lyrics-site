@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Arsalan Azmi"
 reciter: "Kazmi Brothers"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tu bekafan hai baba aur main huṅ berida
   Naize pe sar tumhaara rasan mein mera gala

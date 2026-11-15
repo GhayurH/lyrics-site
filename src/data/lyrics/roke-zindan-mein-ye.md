@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Masroor"
 reciter: "Alamdar Razvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ro ke zindaan mein boli Baano
   Meri bachchi ko na tanha chhoro

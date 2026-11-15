@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shakeel Kazmi"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Karbobala ke dasht mein gunji hai ye sada
   Haye Ghaazi Abbas haye Ghaazi Abbas

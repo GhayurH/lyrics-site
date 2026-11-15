@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: ["Haye Zindan Tera"]
-published: false
+published: true
 romanLyrics: |-
   Meri mazlum behna Sakina
   Meri maasum behna Sakina

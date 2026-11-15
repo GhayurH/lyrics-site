@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Mir Takallum"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ya Hasan haaye Hasan Askari
   Bhejiye bete ko Maula muntazir haiṅ maatami

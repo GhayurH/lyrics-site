@@ -11,33 +11,33 @@ aliases:
 published: true
 romanLyrics: |-
   Halchal hai fauj-e-shaam meiṅ Abbas ate haiṅ
-  
+
   Tiroṅ pe tir naizoṅ pe naize chalaty haiṅ
-  
+
   1
   Kya waqt parr gaya hai Muhammad ki aal par
   Chadar nahi hai baaloṅ se mun ko chhupate haiṅ
-  
+
   2
   Asghar ko maa chhupati hai jhuk jhuk ke goud me
   Khaimoṅ ko torr torr ke jab tir ate haiṅ
-  
+
   3
   Dil pani pani hota hai bachoṅ ki pyas se
   Sukhi zubaan hontoṅ par Asghar phiraty haiṅ
-  
+
   4
   Ghore doraye shaam ke lashkar jo ate haiṅ
   Kam umr bache khaimoṅ me ghabraye jate haiṅ
-  
+
   5
   Dunya ko de diya hai sabaq ye Husain ne
   Raah-e-khuda me is tarhan sar ko kataty haiṅ
-  
+
   6
   Allah re sabar sayed-e-waala ka dekhiye
   Rann me jawan bete ka laasha uthaty haiṅ
-  
+
   7
   Jis waqt ye suna ke mai marti huṅ pyas se
   Mashkiza le haathoṅ me Abbas jate haiṅ

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Imon Rizvi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: ["Chadare Fatema"]
-published: false
+published: true
 romanLyrics: |-
   Rizq hai junbish-e-chaadar-e-Fatema
   Rozi-e-aalamin chaadar-e-Sayyeda

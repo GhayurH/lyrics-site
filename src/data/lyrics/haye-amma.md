@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Alam Sultanpuri"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haye amma meri amma
   Amma na hameiṅ chhor ke jaao

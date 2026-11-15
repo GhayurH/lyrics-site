@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: ["Hum Hussaini Hai"]
-published: false
+published: true
 reciter: Nadeem Sarwar
 romanLyrics: |-
   Husain Husain Husain

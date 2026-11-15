@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: ["Ujde Huwe Gharon"]
-published: false
+published: true
 romanLyrics: |-
   Ujre hue gharoṅ se aawaaz aa rahi hai
   Ab laut aa musaafir Zehra bula rahi hai

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Suroor Lakhnavi"
 reciter: "Anj. Grohe Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haram ko kushta-e-khanjar ki yaad aayegi
   Watan ko ho ke bhare ghar ki yaad aayegi

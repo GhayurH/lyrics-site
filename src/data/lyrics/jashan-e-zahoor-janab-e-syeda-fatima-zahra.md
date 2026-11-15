@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Khalique Hussain Mumtaz Sialkot"
-tags: ["noImage"]
+tags: []
 aliases: ["Jashan-e-Zahoor Janab-e-Syeda Fatima Zahra"]
-published: false
+published: true
 romanLyrics: |-
   Sad tehniyat hai aamad Khair-un-Nisa ka jashn
   Dil mein mawaaliyoṅ ke hai husn-e-wila ka jashn

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Naqvi Najaf"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maatam gham-e-Shabbir mein elaan-e-wafa hai
   Ye mit nahiṅ sakta hai ye Zehra ki dua hai

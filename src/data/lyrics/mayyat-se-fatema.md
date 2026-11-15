@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Sayib Zaidi"
 reciter: "Mukhtar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bebasi hum ko chhor ke girya chali gayi
   Allah ne bulaa liya ammaaṅ chali gayi

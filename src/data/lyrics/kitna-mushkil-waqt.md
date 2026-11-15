@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Abid Zaidi"
 reciter: "Aqif Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kitna mushkil waqt qaidi saarbaaṅ par aa gaya
   Qaafila le kar kahiṅ se wo kahaaṅ par aa gaya

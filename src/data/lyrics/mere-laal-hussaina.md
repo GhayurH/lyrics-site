@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Mohib Fazli"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maaṅ aayi hai mazlum mere laal Husaina
   Aaja meri aaghosh mein behaal Husaina

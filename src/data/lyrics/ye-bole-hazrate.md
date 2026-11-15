@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Fikr Lakhnavi"
 reciter: "Afzal Mirza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ye bole Hazrat-e-Abbas aa ke Sarwar se
   Ke sabr ho nahiṅ sakta hai ab is ahqar se

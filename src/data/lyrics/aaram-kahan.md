@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Rehan Azmi"
 reciter: "Nasir Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Aaram Kahan"]
-published: false
+published: true
 romanLyrics: |-
   Aaram kahaṅ haye haye aaram kahaṅ
   Kasht-e-aalaam meiṅ Zainab ko bhala, aaram kahaṅ

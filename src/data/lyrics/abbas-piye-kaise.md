@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Anwar Zahir"
 reciter: "Shareef Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Abbas piye kaise pani Abbas ka Aaqa pyasa hai
   Khaime mein Sakina pyasi hai aur bachcha bachcha pyasa hai

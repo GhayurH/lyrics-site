@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Khaak Par Neendh"]
-published: false
+published: true
 romanLyrics: |-
   Khaak par nind nahiṅ aati Baba
   Maiṅ zamiṅ par huṅ bahut garm hawa hai

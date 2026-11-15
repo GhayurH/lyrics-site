@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Azam Hussain"
 reciter: "Aqif Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ya Gharib-e-Karbala
   Ya Gharib-e-Nainawa

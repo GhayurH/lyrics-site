@@ -2,11 +2,11 @@
 title: "Main Is Tarah Se Huṅ Ya Rab Teri Sana Ke Baghair"
 language: "Urdu"
 direction: "rtl"
-tags: ["noImage"]
+tags: []
 aliases: []
 lang: "ur"
 kalamType: "Naat"
-published: false
+published: true
 # source_id: tajpoints:8744ce361584278e2667
 # source_url: https://tajpoints.com/2018/11/main-iss-tarha-se-hoon-ya-rab-teri-sana.html
 # raw_sha256: 5988b19a192adcfe1fab3308bfa0e5cdc44ae543af4c87dd676e8c8a7af54649

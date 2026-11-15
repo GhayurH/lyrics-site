@@ -7,10 +7,10 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Hasnain Akbar"
 reciter: "Syed Wajhi Hasan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
 recitationId: "abbas-hoon-haider-ki-ibadat-ki-jaza-hoon-lyrics-2015"
-published: false
+published: true
 romanLyrics: |-
   Abbas huṅ Haider ki ibadat ki jaza huṅ
   Maaṅ naaz se kehti hai ke Zahra ki dua huṅ

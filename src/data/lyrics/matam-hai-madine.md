@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
 reciter: "Anjuman Parwane Shabbir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maatam hai Madine mein Shabbar ki shahaadat ka
   Shabbir pe aaya hai kya waqt ye ghurbat ka

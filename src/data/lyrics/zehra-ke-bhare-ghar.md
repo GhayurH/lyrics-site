@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Anjuman Al Abbas"
 poet: "Fareed Baig"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zehra ke bhare ghar ka maatam hai azaadaaroṅ
   Karbal ke bahattar ka maatam hai azaadaaroṅ

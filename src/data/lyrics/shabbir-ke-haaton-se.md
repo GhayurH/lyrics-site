@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ishrat Lakhnavi"
 reciter: "Afzal Mirza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Shabbir ke haathoṅ se jo ghar meiṅ bana dulha
   Wo ghoroṅ ki taapoṅ se paamaal hua dulha

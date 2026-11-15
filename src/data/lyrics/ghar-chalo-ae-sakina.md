@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zulfiqar Ahmed"
 reciter: "Mir Mohsin Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["ghar-chalo-ay"]
-published: false
+published: true
 romanLyrics: |-
   Ghar chalo ghar chalo ae Sakina
   Qabr-e-zindaaṅ pe Zainab pukaari

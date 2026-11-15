@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ainee Rizvi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Koi majbur nahiṅ koi majbur nahiṅ
   Zikr-e-Shah ke liye hargiz koi majbur nahiṅ

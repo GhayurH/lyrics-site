@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Irteza Zaidi"
 reciter: "Ahsan Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ya Zahra ya Zahra ya Zahra ya Zahra
   Aap ki chaukhat pe hai ye ilteja

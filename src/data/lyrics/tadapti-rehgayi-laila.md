@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anwar Zahir"
 reciter: "Shareef Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tadapti reh gayi Laila chale gaye Akbar
   Kise banaayegi dulha chale gaye Akbar

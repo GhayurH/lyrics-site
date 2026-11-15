@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Izhaar"
 reciter: "Rizwan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Hussain Waala"]
-published: false
+published: true
 romanLyrics: |-
   Husain wala har ek lamha
   Husain ka gham mana raha hai

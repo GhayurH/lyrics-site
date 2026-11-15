@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hilal Mirza"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Mere Baradar"]
-published: false
+published: true
 romanLyrics: |-
   Abbas ke laashe par bayaaṅ karte the Sarwar
   Ae mere baradar

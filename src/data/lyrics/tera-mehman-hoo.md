@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Khursheed"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Tera Mehman Hoo"]
-published: false
+published: true
 romanLyrics: |-
   Tera mehmaan huṅ Shiriṅ tera mehmaan huṅ
 

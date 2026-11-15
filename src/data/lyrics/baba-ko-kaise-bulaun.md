@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Izhaar"
 reciter: "Rizwan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Baba Ko Kaise Bulaun"]
-published: false
+published: true
 romanLyrics: |-
   Sochte the ye maqtal mein Akbar
   Ran mein baba ko kaise bulaauṅ

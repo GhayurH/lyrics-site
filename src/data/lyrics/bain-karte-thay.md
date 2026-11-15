@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Raza Ali Sohail"
 reciter: "Hasan Abbas Ahsan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bain karte the Sarwar haaye naujawaaṅ Akbar
 

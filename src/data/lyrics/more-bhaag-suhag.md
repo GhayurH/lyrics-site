@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Ali Khan Lakhnavi"
 reciter: "Zawwar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   More bhaag suhaag mein aag lagi
   Akbar bhi nahiṅ Asghar bhi nahiṅ

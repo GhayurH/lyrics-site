@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hasan Abbas Ahsan"
 reciter: "Anj. Parwane Shabbir"
-tags: ["noImage"]
+tags: []
 aliases: ["Baba Ko Mere Chod"]
-published: false
+published: true
 romanLyrics: |-
   Baba ko mere chhor ke aaye ho tum kahaaṅ
 

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shaukath"
 reciter: "Irfan Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Huṅ main aafat mein giraftaar mujhe rone do
   Kehte the Aabid-e-Bimaar mujhe rone do

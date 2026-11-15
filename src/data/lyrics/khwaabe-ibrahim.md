@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Irfan"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Khwaab-e-Ibrahim ki taabir di Shabbir ne
   Ibteda bhai ne ki aur inteha hamshir ne

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Baqar"
 reciter: "Alamdar Razvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aayi Hatif ki aawaz Sheh ko
   Utro Shabbir ye Karbala hai

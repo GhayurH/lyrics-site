@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Salaam"
 poet: "Mir Anees"
 reciter: "Sibte Jafar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Guzar gaye the kayi din ke ghar mein aab na tha
   Magar Husain se saabir ko iztiraab na tha

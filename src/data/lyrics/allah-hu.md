@@ -15,7 +15,7 @@ published: true
 # raw_sha256: 746017461d4f1eda0ed7dd091cef00428dd3edb77584f44d9acee28d2cd0ef57
 romanLyrics: |-
   Allah Hu, Allah Hu, Allah Hu
-  
+
   1
   Chand Taroṅ Ki Shan-e-Jamali Meiṅ Tu
   Sabz Pattoṅ Meiṅ Pholoṅ Ki Lali Meiṅ Tu
@@ -23,7 +23,7 @@ romanLyrics: |-
   Tehni Tehni Meiṅ Tu, Dali Dali Meiṅ Tu
   Bute Bute Meiṅ Gul, Gul Meiṅ Bu, Bu Meiṅ Tu
   Allah Hu, Allah Hu, Allah Hu
-  
+
   2
   Youṅ Tu Har Ik Nabi Tujh Se Mansub Hai
   Tera Bheja Howa Hai Bohat Khub Hai
@@ -31,7 +31,7 @@ romanLyrics: |-
   Jis Ki Har Ik Ada Tujh Ko Margub Hai
   Tera Mehbub Woh, Us Ka Mehbub Tu
   Allah Hu, Allah Hu, Allah Hu
-  
+
   3
   Dakhl Mumkin Nahiṅ Tere Asrar Meiṅ
   Kis Ko Yara Bhala Teri Sarkar Meiṅ
@@ -39,7 +39,7 @@ romanLyrics: |-
   Husn-e-Yousuf Sa Bik Jaye Bazar Meiṅ
   Aur Nafs-e-Nabi Ka Kharidar Tu
   Allah Hu, Allah Hu, Allah Hu
-  
+
   4
   Did Kis Ko Muyassar Teri Zaat Ki
   Lakh Musa Ne Tujh Se Munajaat Ki
@@ -47,7 +47,7 @@ romanLyrics: |-
   Chhup Ke Parde Meiṅ Ki Jab Kabhi Baat Ki
   Aur Muhammad Se Ki Do-Ba-Do Guftagu
   Allah Hu, Allah Hu, Allah Hu
-  
+
   5
   Har Fazilat Muhammad Ke Ghar Bhaij Di
   Thi Jo She Khub Se Khub Tar Bhaij Di
@@ -55,7 +55,7 @@ romanLyrics: |-
   Aur Malak Se Phir Us Ki Khabar Bhaij Di
   La-Fata Ki Sada Ab Bhi Hai Chaar Su
   Allah Hu, Allah Hu, Allah Hu
-  
+
   6
   Jin Ko Apne Buzurgoṅ Se Pasti Mili
   Ilm o Irfan Ki Faqa Masti Mili

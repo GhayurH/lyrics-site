@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shams Rizvi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tarap ke Fatima Zehra se shaah ne ye kaha
   Nikaal do mere pehlu se tir ae ammaṅ

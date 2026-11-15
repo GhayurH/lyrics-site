@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Baswari Anjuman"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sakina ka ye noha tha mere bhaiya chale aao
   Bahut zaalim hai ye aada mere bhaiya chale aao

@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 reciter: "Nadeem Sarwar"
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ae mominoṅ jab khun mein duba hua aaya
   Asghar ka janaaza Asghar ka janaaza

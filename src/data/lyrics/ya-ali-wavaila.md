@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Irfan Haider"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Mushkil kusha sher-e-Khuda haajat rawa maara gaya
   Ali Haider-e-Karraar Ali kul ka madadgaar

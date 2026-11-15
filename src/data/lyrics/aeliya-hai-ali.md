@@ -5,9 +5,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Tableegh e Imamia"
 romanLyrics: |-
   Ali Aeliya hai Ali

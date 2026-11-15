@@ -5,9 +5,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Pukaari Zainab-e-Kubra - Ae mire Baaba
   Na chhor jaaiye tanha - Ae mire Baaba

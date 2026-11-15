@@ -6,10 +6,10 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: []
 reciter: "Nadeem Sarwar"
-published: false
+published: true
 romanLyrics: |-
   Shaam-e-Gharibaaṅ Zainab tanha
   Ghor andhera maut ka saaya

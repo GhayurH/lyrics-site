@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
 reciter: "Mukhtar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: ["Maarfate Karbobala"]
-published: false
+published: true
 romanLyrics: |-
   Wo jise maarifat-e-Karbobala ho jaaye
   Us ko Salman ki binaayi ata ho jaaye

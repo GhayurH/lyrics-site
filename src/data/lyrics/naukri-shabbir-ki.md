@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: ["حیا علی خیر العمل"]
-published: false
+published: true
 romanLyrics: |-
   Hayya ala khair al-amal
 

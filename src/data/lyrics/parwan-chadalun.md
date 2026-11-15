@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shaukath Bilgrami"
 reciter: "Askar Ali Khan"
-tags: ["noImage"]
+tags: []
 aliases: ["Parwan Chadalun"]
-published: false
+published: true
 romanLyrics: |-
   Parwaan charhaa luṅ koi armaan nikaaluṅ
   Thahro Ali Akbar tumheṅ dulha to bana luṅ

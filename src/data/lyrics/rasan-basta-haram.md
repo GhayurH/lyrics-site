@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hayat Amrohi"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Rasan basta haram majbur aur laachaar phirte haiṅ
   Barehna sar barehna pa sar-e-baazaar phirte haiṅ

@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Ameer Hussain Mashadi"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: ["Koi Hussain Sa Sajda"]
-published: false
+published: true
 romanLyrics: |-
   Koi Husain sa sajda bhala ada to kare
   Keh rashk jis pe sada khaak-e-Karbala to kare

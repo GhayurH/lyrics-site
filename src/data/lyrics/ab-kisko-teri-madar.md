@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ab kis ko teri maadar lori sunae Asghar
   Raatoṅ ko uth ke kis ka jhula jhulae Asghar

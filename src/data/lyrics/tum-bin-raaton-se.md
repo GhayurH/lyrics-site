@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tasht mein shaah ka sar qaid mein jab laaya gaya
   Ro ke chillaayi Sakina dar-e-zindaaṅ khula

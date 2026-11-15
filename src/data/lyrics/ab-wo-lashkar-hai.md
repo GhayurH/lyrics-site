@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Bilal Kazmi"
 reciter: "Afzal Mirza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sar jhuka kar Shah-e-Wala se ye Ghazi ne kaha
   Ab woh lashkar hai kahaaṅ jis ka Alamdar huṅ main

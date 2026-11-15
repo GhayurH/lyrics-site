@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Tauqeer Zaidi"
 reciter: "Nasir Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Bibi Madina Aagaya"]
-published: false
+published: true
 romanLyrics: |-
   Fizza ne Zainab se kaha
   Bibi Madina aa gaya

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shakir Hussain"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sheh ne kaha jab Shaam se ghar jaaiyo Zainab
   Sughra ko meri sine se liptaaiyo Zainab

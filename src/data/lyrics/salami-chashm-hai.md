@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Anees"
 reciter: "Raza Ali Khan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Salaami chashm hai rone ko dil buka ke liye
   Zabaaṅ hai waqf Shahanshaah-e-Karbala ke liye

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ghurur-e-fauj-e-sitamgar ko tor sakta huṅ
   Rukh-e-Furaat nigaahoṅ se mor sakta huṅ

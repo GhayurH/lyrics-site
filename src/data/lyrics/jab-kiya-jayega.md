@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: ["Jab Kiya Jayega"]
-published: false
+published: true
 romanLyrics: |-
   Jab kiya jaaye ga mahshar mein ibaadat ka sawaal
   Aaye ga Aal-e-Payambar ki mohabbat ka sawaal

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Raza"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Karbala ke dasht mein ek laa makaaṅ aabaad hai
   Nur-e-Haq aur Maalik-e-kaun o makaaṅ aabaad hai

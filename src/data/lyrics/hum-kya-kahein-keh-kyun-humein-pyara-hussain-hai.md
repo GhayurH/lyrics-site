@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Banda-e-Momin"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Hum kya kaheiṅ keh kiuṅ hameiṅ pyaara Husain hai
   Socho to yeh Quraan hi saara Husain hai

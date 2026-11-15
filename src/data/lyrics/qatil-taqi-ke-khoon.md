@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mohammad Jamani"
 reciter: "Syeda Isha Haider"
-tags: ["noImage"]
+tags: []
 aliases: ["Qatil Taqi Ke Khoon"]
-published: false
+published: true
 romanLyrics: |-
   Qaatil Taqi ke khuṅ ka talabgaar ho gaya
   Ghar Sayyeda ka phir se azaadaar ho gaya

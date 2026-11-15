@@ -14,52 +14,52 @@ romanLyrics: |-
 
   Kehti thi yeh Zainab, yuṅ maa ka maan nibhana
   Ae Aun o Muhammad
-  
+
   Shabbir ka tum sadqa ho, ab kheme meiṅ beta
   Tum laut kar na aana
-  
+
   1
   Hai maaṅ ko yaqin, tum maa ki baat rakhoge
   Yeh yaad rahe, khemoṅ meiṅ hain pyaase bachche
   Darya pe agar jaana ho, seh roz ke pyaasoṅ
   Tum pyaas na bujhana
-  
+
   2
   Har haal meiṅ tum par, laazim hai shukr
   Khuda ka Ae shehzadoṅ, hai sabr tumhara virsa
   Farzand ho tum Zainab ke, shikwa nahiṅ karna
   Jab zakhm koi khana
-  
+
   3
   Kab hum pe sitam, karne ke liye aaye haiṅ
   Yeh Badr o Uhud ke, badle ke liye aaye haiṅ
   Laazim hai rajaz se pehle, maidan meiṅ tum par
   Madh-e-Ali sunaana
-  
+
   4
   Jab saans tumhari, bachoṅ ho ukharne wali
   Us waqt sarhaane, aayeṅgi madar meri
   Dil ki yeh meri khwaahish hai, us dam meri maa se
   Zakhmoṅ ko tum chhupaana
-  
+
   5
   Qaatil pe karam, nana ki tarah kar dena
   Yuṅ laaj mere, bhai ke naam ki rakhna
   Jo waasta de bhai ka, maidan meiṅ us par
   Tum tegh na chalana
-  
+
   6
   Jab laashe utha kar, kheme meiṅ laye
   Sarwar Zainab yeh boli, ashkoṅ ko apne chupa kar
   Maiṅ bhi na tumhe rungi, aur mere liye bhi
   Aansu na tum bahaana
-  
+
   7
   Tazim ki khatir, kyoṅ uthte nahiṅ ab beta
   Dekho to sarhaane, aaye haiṅ mere bhaiya
   Jago mere shehzadoṅ, kya bhul gaye ho
   Qadmoṅ pe sar jhukaana
-  
+
   8
   Shabash mere bachoṅ, huṅ maiṅ tum se raazi
   Yeh keh ke takallum, khamosh hui Shehzadi

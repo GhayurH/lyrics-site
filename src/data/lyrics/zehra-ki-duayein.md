@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Azhar"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zehra ki duaaeṅ lo maatam karo Sarwar ka
   Azadaar-e-Husain

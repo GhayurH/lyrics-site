@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mazhar Abidi"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["karbala-karbala-tere-do-badshah-mesum-abbas"]
-published: false
+published: true
 romanLyrics: |-
   Ya Husain ya Abbas, ya Abbas ya Husain
   Badshah, Badshah, Badshah, Badshah

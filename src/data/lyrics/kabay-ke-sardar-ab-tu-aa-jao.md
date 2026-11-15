@@ -7,10 +7,10 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage"]
+tags: []
 aliases: []
 recitationId: "kabay-ke-sardar-ab-tu-aa-jao-mir-hasan-mir"
-published: false
+published: true
 romanLyrics: |-
   Kaabe ke sardaar ab to aa jaao
   Haidari wirsa daar ab to aa jaao

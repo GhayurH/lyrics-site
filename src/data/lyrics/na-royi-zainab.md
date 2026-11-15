@@ -6,10 +6,10 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mir Takallum"
-tags: ["noImage"]
+tags: []
 aliases: []
 reciter: "Shahid Baltistani"
-published: false
+published: true
 romanLyrics: |-
   Haaye Zainab... Zainab
   Haaye Zainab... Haaye Zainab

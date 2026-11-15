@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: ["Yarab Ye Iltemas"]
-published: false
+published: true
 romanLyrics: |-
   Ya Rab ye iltimaas hai teri janaab mein
   Mujh ko mila de khaak-e-dar-e-Bu Turaab mein

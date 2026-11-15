@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Abbas Zaidi"
 reciter: "Irfan Haider"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Qaafila ho gaya jab Shaam ke zindaaṅ se riha
   Karbala aane hi waali thi suno Ahl-e-Aza

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mirza Murtaza Ali"
 reciter: "Mir Raza Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Azan Do Ay Mere Dilbar"]
-published: false
+published: true
 romanLyrics: |-
   Azaan do ae mere dilbar sawera hone wala hai
   Tumhare baad aalam mein andhera hone wala hai

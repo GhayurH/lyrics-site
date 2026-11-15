@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Khursheed"
 reciter: "Ali Mohd. Sultanpuri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Waqt-e-naza kehta raha Shah ka alamdaar
   Haye Sakina meri haye Sakina

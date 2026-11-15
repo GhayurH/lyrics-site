@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Shah-e-din ke bachchoṅ ki ghamkhwaar Zainab
   Dilafgaar Zainab wafaadaar Zainab

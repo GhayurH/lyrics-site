@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Naqvi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Beti se kaha Sheh ne meri jaan Sakina
   Baba tera ek shab ka hai mehmaan Sakina

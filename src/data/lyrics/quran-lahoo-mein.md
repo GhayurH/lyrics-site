@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
 reciter: "Rizwan Zaidi Party"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Quran lahu mein dub gaya
   Aal-e-Nabi hai bin chaadar haae nauha kunaṅ hai Kaaba

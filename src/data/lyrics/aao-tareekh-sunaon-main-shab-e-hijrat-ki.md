@@ -7,10 +7,10 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Sajjad Mir"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Aao Tareekh Sunaon Main Shab-e-Hijrat Ki Mir Hasan Mir", "Aao Tarikh Sunaun Main Shab-e-Hijrat Ki"]
 recitationId: "aao-tareekh-sunaon-main-shab-e-hijrat-ki-mir-hasan-mir"
-published: false
+published: true
 romanLyrics: |-
   Aao tarikh sunauṅ main Shab-e-Hijrat ki
   Kis tarha saaye mein talwaaroṅ ke soye the Ali
@@ -58,7 +58,6 @@ romanLyrics: |-
 # source_url: https://tajpoints.com/2018/03/aao-tareekh-sunaon-main-shab-e-hijrat-ki.html
 # raw_sha256: ad2e22a9c8196256be510ad55e5a5f82410c53f516c9a49cba1a340d5f418482
 # supplemental_roman_source: https://www.humaliwalayazadar.com/2018/03/aao-tareekh-sunaon-main-shab-e-hijrat.html
-
 ---
 
 آؤ تاریخ سناؤں میں شبِ ہجرت کی

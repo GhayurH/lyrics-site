@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nasir Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Mir Hassan Mir"
 romanLyrics: |-
   Akbar ka lahu Sheh ki aba tak pahunch gaya

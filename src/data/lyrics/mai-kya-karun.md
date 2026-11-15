@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Mai Kya Karun"]
-published: false
+published: true
 romanLyrics: |-
   Tanhaai mein Kulsum parha karti thi nauha
   Main kya karuṅ main saahib-e-aulaad nahiṅ huṅ

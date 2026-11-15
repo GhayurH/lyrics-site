@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Irfan Haider"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Baba Hussaina"]
-published: false
+published: true
 romanLyrics: |-
   Jab Shaam-e-Gharibaṅ mein yaad-e-padar aayi
   Ghabra ke Sakina sar-e-maqtal chali aayi

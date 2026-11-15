@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ashraf"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: ["Zainab Ka Ye Noha"]
-published: false
+published: true
 romanLyrics: |-
   Zainab ka ye nauha tha tum laut ke aa jaao
   Abbas mere bhaiya tum laut ke aa jaao

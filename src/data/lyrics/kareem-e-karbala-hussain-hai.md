@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Sajjad Mir"
 reciter: "Mir Sajjad Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["kareem-e-karbala-hussain-hai-mir-sajjad-mir-lyrics-2022"]
-published: false
+published: true
 romanLyrics: |-
   1
   Pukaara khaana-e-Khuda

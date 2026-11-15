@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Allama Syed Zille Saqlain Zaidi"
 reciter: "Syed Wajhi Hasan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tu ne bakhsha hai sab ko sahaara har payambar ne tujh ko pukaara Ali Maula
   Tu hi dunya ka mushkil kusha hai bina tere nahiṅ hai guzaara

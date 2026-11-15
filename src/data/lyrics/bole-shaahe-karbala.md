@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Saahil"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bole Shah-e-Karbala
   Qasim-e-gulgu qabaa

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Gire jo ghore se maqtal mein Shaah-e-Karbobala
   Hazaaroṅ zakhm the saara badan lahu se bhara

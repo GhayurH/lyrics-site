@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Samar Zaidi"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Khwaab-e-Sughra
   Behan ne khwaab ye kal shab hai dekha

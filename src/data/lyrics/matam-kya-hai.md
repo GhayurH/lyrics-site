@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maatam kya hai dunya waaloṅ zulm se nafrat ka aelaan
   Majlis kya hai Shah se mohabbat aur aqidat ka aelaan

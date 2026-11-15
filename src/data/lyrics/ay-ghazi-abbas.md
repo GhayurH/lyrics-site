@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ainee Rizvi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Ghazi Abbas"]
-published: false
+published: true
 romanLyrics: |-
   Ab nahiṅ jine ki kuchh aas ae Ghazi Abbas
   Main bhi aata huṅ tere paas ae Ghazi Abbas

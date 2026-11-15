@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sibte Jafar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Shimr saffaak ne ye Hazrat-e-Zainab se kaha
   Uzr karta huṅ ke ab bakhsh do tum meri khata

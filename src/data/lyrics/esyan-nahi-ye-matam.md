@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Afzal Hussain Najfi"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maatam ki sadaaoṅ se hum arsh hila deṅ ge
   Maatam hai ye ibaadat duniya ko bata deṅ ge

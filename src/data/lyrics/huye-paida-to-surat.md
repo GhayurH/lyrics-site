@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Nasir Jahan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Hue paida to surat dekhne har sheh khushaab aaya
   Jawaani in pe kya aayi Madine ka shabaab aaya

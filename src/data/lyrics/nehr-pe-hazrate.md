@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Sachey Bhai"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: ["Nehr Pe Hazrate"]
-published: false
+published: true
 romanLyrics: |-
   1
   Nehr pe Hazrat-e-Abbas ke laashe ke qarib

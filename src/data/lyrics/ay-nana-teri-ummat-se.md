@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Ahmed Naved"
 reciter: "Sajid Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ae naana teri ummat se tera din bacha kar laayi hai
   Teri beghar Zainab aayi hai

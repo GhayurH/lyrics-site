@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Iftikhar Arif"
 reciter: "Ashraf Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Ghar Hussain Ka Hai"]
-published: false
+published: true
 romanLyrics: |-
   Sharaf ke shehr mein har baam o dar Husain ka hai
   Zamaane bhar ke gharaanoṅ mein ghar Husain ka hai

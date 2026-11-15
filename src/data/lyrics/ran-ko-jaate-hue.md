@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Gohar Jarchvi"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ran ko jaate hue sar jhukaaye hue
   Sheh ne ro kar kaha alwida alwida

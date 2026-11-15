@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
 reciter: "Zakir Imam"
-tags: ["noImage"]
+tags: []
 aliases: ["Pabasta E Zanjeer"]
-published: false
+published: true
 romanLyrics: |-
   Paabasta-e-zanjir ke chehre ko bhi dekho
   Ae Shaam ke baazaariyo lehje ko bhi dekho

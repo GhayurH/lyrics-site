@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Farhan Ali Waris"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jawaaṅ ki laash uthaana bahot hi mushkil hai
   Phir usko khaime mein laana bahot hi mushkil hai

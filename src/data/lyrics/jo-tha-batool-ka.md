@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Dayam Najafi"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jo tha Batul ka woh azaadaar uth gaya
   Bewaaoṅ ka yatimoṅ ka ghamkhwaar uth gaya

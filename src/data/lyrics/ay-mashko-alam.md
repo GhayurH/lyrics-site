@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
 reciter: "Anj. Hyderi Ali Basti"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Mashko Alam"]
-published: false
+published: true
 romanLyrics: |-
   Ae mashk o alam Hazrat-e-Abbas kahaaṅ haiṅ
   Saqqa-e-haram Hazrat-e-Abbas kahaaṅ haiṅ

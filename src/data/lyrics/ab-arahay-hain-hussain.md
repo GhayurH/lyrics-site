@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Allama Dr Majid Raza Abidi"
 reciter: "Mukhtar Hussain Fatehpuri"
-tags: ["noImage"]
+tags: []
 aliases: ["Ab Arahay Hain Hussain Mukhtar Hussain Fatehpuri"]
-published: false
+published: true
 romanLyrics: |-
   1
   Khuda ke le ke khazane ab aa rahe haiṅ Husain

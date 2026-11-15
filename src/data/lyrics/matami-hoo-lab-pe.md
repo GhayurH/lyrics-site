@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Abid Zaidi"
 reciter: "Sajid Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Matami huṅ lab pe mere ya Husain aa jaayega
   Qabr meiṅ ik pal lagega mujh ko chain aa jaayega

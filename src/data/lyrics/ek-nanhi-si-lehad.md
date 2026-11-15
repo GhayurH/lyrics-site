@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mir Takallum"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ek nanhi si lahad ran mein banaate haiṅ Husain
   Khaak mein dusre Mohsin ko chhupaate haiṅ Husain

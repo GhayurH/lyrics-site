@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Baqar Hussain"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Koi surat ho magar narm hi lehja rakhna
   Apni beti ka agar naam Sakina rakhna

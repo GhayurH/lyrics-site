@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
 reciter: "Tabligh-e-Imamia"
-tags: ["noImage"]
+tags: []
 aliases: ["Dil Mein Ghame"]
-published: false
+published: true
 romanLyrics: |-
   Dil meiṅ gham-e-Husain basaaye hue haiṅ hum
   Yuṅ saari kaainaat pe chhaaye hue haiṅ hum

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Shimr ne pehle Sakina ko dikhaaya khanjar
   Baad mein gardan-e-Sarwar pe chalaaya khanjar

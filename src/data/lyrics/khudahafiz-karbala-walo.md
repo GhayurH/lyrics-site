@@ -5,9 +5,9 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Khuda hafiz hai rukhsat ki ghari
   Ae Karbala walo Khuda hafiz

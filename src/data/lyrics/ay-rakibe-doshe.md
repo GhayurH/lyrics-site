@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Alamdar Razvi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Rakibe Doshe"]
-published: false
+published: true
 romanLyrics: |-
   Ae raakib-e-dosh-e-Shah-e-lau laak
   Ba izz o waqaar wa Husaina

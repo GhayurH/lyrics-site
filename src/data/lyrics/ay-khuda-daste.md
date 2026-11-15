@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Yaad-e-Abbas sar-e-shaam-e-gharibaaṅ aayad
   Dukhtar-e-Hazrat-e-Shabbir hiraasaaṅ aayad
@@ -21,7 +21,7 @@ romanLyrics: |-
   Ae Khuda dast-e-karam
   Shaam-e-gharibaaṅ shaam-e-gharibaaṅ
 
-  ۱
+  1
   Qasim o Akbar o Abbas kuja raftand aah
   Haaye dar dasht-e-bala yaad-e-shahidaaṅ aayad
   Qasim o Akbar o Abbas nahiṅ
@@ -29,7 +29,7 @@ romanLyrics: |-
   Ab to jine ki bhi kuchh aas nahiṅ
   Saaya afgan nahiṅ Ghazi ka alam
 
-  ۲
+  2
   Yaaṅ kase nist ke aayad pay-e-imdaad-e-haram
   Iṅ safina taraf-e-yurish-e-tufaaṅ aayad
   Koi imdaad ko aaye kiun kar
@@ -37,7 +37,7 @@ romanLyrics: |-
   Gham ka tufaan hai aur yaad-e-padar
   Chaar jaanib se bare ranj o alam
 
-  ۳
+  3
   Sili-e-Shimr bah rukhsaar-e-Sakina sad haif
   Chuṅ bah zulm o sitam aaṅ dushman-e-imaaṅ aayad
   Haaye wo phul se rukhsaar tere
@@ -45,7 +45,7 @@ romanLyrics: |-
   Nil rukhsaar ke dekhe na gaye
   Roya naize pe sar-e-Shaah-e-umam
 
-  ۴
+  4
   Haif aaṅ aalam-e-ghurbat ke Sakina girya
   Yaad-e-altaaf-e-padar bah gham o hirmaaṅ aayad
   Dasht-e-ghurbat mein Sakina ki fughaaṅ
@@ -53,7 +53,7 @@ romanLyrics: |-
   Jald aao ke nikal jaaye na jaaṅ
   Aap ki yaad mein mar jaayeṅge ham
 
-  ۵
+  5
   Mi kashad naala ze hasrat sar-e-darbaar-e-Yazid
   Be muhaabaana khayaal-e-dar-e-zindaaṅ aayad
   Sar-e-darbaar fughaaṅ Zainab ki
@@ -61,7 +61,7 @@ romanLyrics: |-
   Lahad-e-Shaah-e-Najaf hilne lagi
   Ashk Zainab ke jo barse paiham
 
-  ۶
+  6
   Tohfa-e-ashk-e-aza pesh konam man bah khulus
   Aah iṅ nauha-e-gham bar lab-e-Rehaaṅ aayad
   Hai bhi kya Sarwar o Rehaan ke paas

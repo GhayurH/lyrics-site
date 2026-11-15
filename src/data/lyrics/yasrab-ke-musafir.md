@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Alamdar Razvi"
-tags: ["noImage"]
+tags: []
 aliases: ["Yasrab Ke Musafir"]
-published: false
+published: true
 romanLyrics: |-
   Yasrab ke musaafir se qarib maut ka ban hai
   Hamraah-e-qaza Sayyad-e-aawaara watan hai

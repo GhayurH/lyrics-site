@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Dayam Najafi"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: ["Ujda Hua Khaafila"]
-published: false
+published: true
 romanLyrics: |-
   Jab tauq o salaasil mein musalsal hue Aabid
   Aada to charhe ghore pe paidal hue Aabid

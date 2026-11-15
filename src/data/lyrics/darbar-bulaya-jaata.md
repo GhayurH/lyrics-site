@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mohib Fazli"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Afsos ke Zainab ko darbaar bulaaya jaata hai
   Kaisa ye sitam haaye saadaat pe dhaaya jaata hai

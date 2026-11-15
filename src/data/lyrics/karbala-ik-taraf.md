@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Syed Zain Raza Zaidi"
 reciter: "Syed Mohammad Shah – Syed Abutalib"
-tags: ["noImage"]
+tags: []
 aliases: ["karbala-ik-taraf-syed-mohammad-shah-syed-abutalib", "Karbala Ik Taraf Syed Mohammad Shah Syed Abutalib"]
-published: false
+published: true
 romanLyrics: |-
   Ishq ne kar diya faisla ik taraf
   Do jahaaṅ ik taraf Karbala ik taraf

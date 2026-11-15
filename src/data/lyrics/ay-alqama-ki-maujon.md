@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Alqama Ki Maujon"]
-published: false
+published: true
 romanLyrics: |-
   Ae Alqama ki maujoṅ khaamosh kiuṅ ho bolo
   Kya raaz-e-tashnagi tha kuch to zubaan kholo

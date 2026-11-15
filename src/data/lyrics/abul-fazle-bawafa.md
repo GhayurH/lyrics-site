@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Nasir Zaidi"
 romanLyrics: |-
   Abul Fazl-e-Bawafa Alamdar-e-Lashkaram

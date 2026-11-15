@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 occasion: "شامِ غریباں"
-tags: ["noImage"]
+tags: []
 aliases: ["Shimr Khaime Me Aana Jaaye Kahin"]
-published: false
+published: true
 romanLyrics: |-
   1
   Shimr khaime mein aa na jaaye kahiṅ, ab to Ghaazi ko do sada Zainab

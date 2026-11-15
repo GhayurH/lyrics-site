@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
 reciter: "Hadi Ali Khan Muslim"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Fatema Ke Laal"]
-published: false
+published: true
 romanLyrics: |-
   Ae Fatema ke laal tujhe aakhri salaam
   Tujhko wida karne ko aaye haiṅ ye ghulaam

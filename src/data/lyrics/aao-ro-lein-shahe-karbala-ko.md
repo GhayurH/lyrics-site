@@ -65,7 +65,6 @@ romanLyrics: |-
   Nil ab tak bhi chhuta nahiṅ hai
 # merged_import_source_id: nohayonline:3f32e6e8ce2488f36975
 # merged_import_source_url: https://www.nohayonline.com/details_content.php?id=2835
-
 ---
 
 آؤ رولیں شہِ کربلا کو

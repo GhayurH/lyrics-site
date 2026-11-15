@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar, J. Jaffri & A. Shanawar"
 reciter: "Ali Shanawar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kehte haiṅ jab bhi jis ko bhi jaana ho Karbala
   Zawwaar jis ko banna ho Maula Husain ka

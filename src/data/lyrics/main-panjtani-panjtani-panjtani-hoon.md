@@ -5,12 +5,12 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage"]
+tags: []
 aliases: ["main-panjtani-panjtani-panjtani-hoon-mir-hasan-mir"]
 recitationId: "main-panjtani-panjtani-panjtani-hoon-mir-hasan-mir"
 poet: "Gohar Jarchvi"
 reciter: "Pyaray Khan; Mir Hasan Mir"
-published: false
+published: true
 # source_id: tajpoints:84b42bfde0bc57a6ad51
 # source_url: https://tajpoints.com/2022/10/main-panjtani-panjtani-panjtani-hoon.html
 # raw_sha256: 4ebb44b180b57a3c7fc370de59d006eb44669899a84229638f8392af84d905c5

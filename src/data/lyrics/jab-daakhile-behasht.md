@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Marsiya"
 reciter: "Naseemul Hasan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jab daakhil-e-behisht Rasul-e-Khuda hue
   Yaani jahaaṅ se raahi-e-mulk-e-baqa hue

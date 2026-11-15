@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Safdar Abbas"
 romanLyrics: |-
   Uncha rahega alam sine mein hai jab tak hai dam

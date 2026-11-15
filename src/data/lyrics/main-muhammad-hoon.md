@@ -2,11 +2,11 @@
 title: "Main Muhammad Huṅ"
 language: "Urdu"
 direction: "rtl"
-tags: ["noImage"]
+tags: []
 aliases: ["main-muhammad-hoon-imran-abbas"]
 lang: "ur"
 kalamType: "Manqabat"
-published: false
+published: true
 # source_id: tajpoints:b33a161afbb5b6c11e3a
 # source_url: https://tajpoints.com/2023/02/main-muhammad-hoon-imran-abbas-lyrics.html
 # raw_sha256: 4b9aa85578589f5e491d277b8eb053797d15a8c73f010ed13a883465286b9394

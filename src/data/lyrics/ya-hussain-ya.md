@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Ya Hussain Ya"]
-published: false
+published: true
 romanLyrics: |-
   Bichh gaya farsh-e-aza ho gaya maatam bapa
   Aati hai dil se sada haaye Shaah-e-Karbala

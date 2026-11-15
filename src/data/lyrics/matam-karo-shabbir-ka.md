@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Jawad Jaffri"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: ["Matam Karo Shabbir Ka", "حیٰؔ علیٰ خیرالعمل"]
-published: false
+published: true
 romanLyrics: |-
   Hayya ala khairil amal
 

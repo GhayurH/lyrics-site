@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shams Tabrez"
 reciter: "Irfan Husain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sar-e-Kufa yatimoṅ ki duaaeṅ gunjti hai
   Badal kar siskiyaaṅ ab bhi aaheṅ gunjti hai

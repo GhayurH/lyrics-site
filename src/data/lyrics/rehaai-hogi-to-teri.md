@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Tauqeer Kamalvi"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Rehaai hogi to teri qabar pe aauṅgi
   Husain haal tumheiṅ Shaam ka sunaauṅgi

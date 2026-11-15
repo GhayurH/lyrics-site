@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
 reciter: "Tableegh-e-Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jo naam-e-Husain Ibn-e-Ali le ke guzar jaaye
   Tufaan ka paani bhi agar ho to thehar jaaye

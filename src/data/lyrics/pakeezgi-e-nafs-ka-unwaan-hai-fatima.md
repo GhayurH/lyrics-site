@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Raza Sirsivi"
 reciter: "Syed Wajhi Hasan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Pakeezgi-e-Nafs Ka Unwaan Hai Fatima"]
-published: false
+published: true
 romanLyrics: |-
   1
   Paakizgi-e-nafs ka unwaan hai Fatima

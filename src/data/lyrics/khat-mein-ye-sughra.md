@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Suroor Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: Anj. Grohe Hussain
 romanLyrics: |-
   Khat mein ye Sughra ne likha kya hua

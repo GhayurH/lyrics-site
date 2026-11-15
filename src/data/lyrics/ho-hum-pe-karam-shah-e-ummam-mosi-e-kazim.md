@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sibt-e-Jafar"
 reciter: "Syed Wajhi Hasan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ho Hum Pe Karam Shah-e-Ummam Mosi-e-Kazim"]
-published: false
+published: true
 romanLyrics: |-
   Rakh lijiye hum sab ka bharam Musa-e-Kazim
   Hai tum ko Muhammad ki qasam Musa-e-Kazim

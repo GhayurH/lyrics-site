@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sajid Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ro ke zanjir pukaari ke ye kaisa hai safar
   Qaid jab ho ke chala Sayyid-e-waala ka pisar

@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Bari Nizami"
 reciter: "Nusrat Fateh Ali Khan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Dam dam Ali Ali Ali Ali kar har dam Ali Ali Ali Ali kar
   Naam-e-Ali da wird paka leh rakh na roz-e-hashar da dar

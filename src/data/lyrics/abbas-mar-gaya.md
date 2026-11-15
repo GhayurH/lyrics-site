@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Izhaar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Khaime mein aaye maqtal-e-Ghazi se jab Husain
   Khali alam uthaye the aur the zabaṅ pe bain

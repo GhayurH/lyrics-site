@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Bhaiya Mujhe Bhool"]
-published: false
+published: true
 romanLyrics: |-
   Sab phuloṅ ke gehne mein sanwaari dulhan aaye
   Tum jaise ho bas waisi hi pyaari dulhan aaye

@@ -13,31 +13,31 @@ romanLyrics: |-
   1
   Naazaṅ hai hum ke hum ko dare murtaza Milaa
   Yei dar hummay Milla to dare murtaza Milaa
-  
+
   2
   Jab mustafa mile to khuda ka pataa mila
   Phir sari kainat ka parda uthaa mila
-  
+
   3
   Aalam tamam bol rahaa thaa Ali Ali
   Mai bhi sadaaeiṅ deta huwa un se ja mila
-  
+
   4
   Chayra jahaṅ Ali ki wilaayat ka tazkera
   Murjhaa gayaa koyi koyi Chehra khila mila
-  
+
   5
   Sajda furu-e-din hai Shabbir asl-e-din
   Shabbir mil gaye jise usko khudaa mila
-  
+
   6
   laakhoṅ hazarzoṅ saal ke sajde hawa huwe
   iblis ko batao to sajdoṅ se kiya mila
-  
+
   7
   dunya ki chah meiṅ huwi dunya bhi uski ghair
   haider ki dushmani meiṅ bhala usko kiya mila
-  
+
   8
   Himmat hai shart aik qadam ka hai faaslaa
   jannat se kerbala ka hai rastaa mila mila

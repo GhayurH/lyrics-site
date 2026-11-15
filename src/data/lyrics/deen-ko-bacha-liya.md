@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: ["Deen Ko Bacha Liya"]
-published: false
+published: true
 romanLyrics: |-
   Fatema ke chain ne Ali ke nur-e-ain ne
   Bakhuda Husain ne din ko bacha diya

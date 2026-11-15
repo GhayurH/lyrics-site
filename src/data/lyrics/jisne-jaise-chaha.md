@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zille Raza Zaidi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Asr ka waqt hai Shabbir hai tanhaai hai
   Ek maaṅ dasht-e-musibat mein chali aai hai

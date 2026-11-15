@@ -7,9 +7,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Afraz Jafri"
-tags: ["noImage"]
+tags: []
 aliases: ["zahir-howa-hai-iss-se-hamayat-raza-ki-hai-lyrics-2019"]
-published: false
+published: true
 romanLyrics: |-
   Zahir hua hai is se himaayat Raza ki hai
   Hai mehfil-e-Maasuma sadaarat Raza ki hai

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Nasir Jahan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Karbal ki kahaani jab koi bhi sunaayega
   Dil waaloṅ ki aaṅkhoṅ se ik darya bahaayega

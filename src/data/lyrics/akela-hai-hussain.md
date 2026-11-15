@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Arsalan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: ["Akela Hai Hussain"]
-published: false
+published: true
 reciter: "Mesum Zaidi & Sajjad Zaidi"
 romanLyrics: |-
   Jab girne laga jab Hazrat-e-Abbas ka parcham

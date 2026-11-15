@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sibt-e-Jafar"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["midhat-e-shabir-tera-shukriya-mir-hasan-mir"]
-published: false
+published: true
 romanLyrics: |-
   Midhat-e-Shabbir tera shukriya
   Kaatib-e-Taqdir tera shukriya

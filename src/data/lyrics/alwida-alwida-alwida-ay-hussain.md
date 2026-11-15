@@ -11,31 +11,31 @@ aliases:
 published: true
 romanLyrics: |-
   alwida alwida alwida ae Husain
-  
+
   1
   ye sadaaye fughaṅ aur yeh majliseiṅ
   matam o nauha o gham ki yeh zinateiṅ
   chahta hai yeh dil yunhi qaim rahe
   aah phatta hai dil kis tarah yeh kahe
-  
+
   2
   mere mehmaan hai aakhri yeh salam
   tujh pe qurbaan hai aakhri yeh salam
   shah-e-zishan hai aakhri yeh salam
   dil hai viran hai aakhri yeh salam
-  
+
   3
   bakhsh de ho gayi ho jo koi khata
   haq-e-khidmat na hum se ada ho saka
   gham yahi hai na ji bhar ke matam kiya
   teri khatir na kiuṅ apna sar de diya
-  
+
   4
   gar jiye saal bhar phir kareṅge yeh gham
   royenge phir tere gham meiṅ mil kar baham
   aur agar mar gaye to yeh hoga alam
   haaye afsos ji bhar ke roye na hum
-  
+
   5
   alwida ae Husain ae Husain alwida
   alwida ae shah-e-mashriqain alwida

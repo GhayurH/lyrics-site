@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mujahid Lakhnavi"
 reciter: "Ali Rizvi Sachey"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jab ran mein alamdaar ki shamshir chali hai
   Aayi hui baaliṅ pe qaza kis ki tali hai

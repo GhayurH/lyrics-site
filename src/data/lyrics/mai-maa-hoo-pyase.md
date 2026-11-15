@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jab tarapne ki bhi taaqat na rahi Sarwar ko
   Ghul hua ke ghash aaya khalaf-e-Haider ko

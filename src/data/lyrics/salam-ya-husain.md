@@ -6,9 +6,9 @@ direction: rtl
 kalamType: Salam
 poet: "Rehaan Azmi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["salam-ya-hussain-nadeem-sarwar"]
-published: false
+published: true
 alternateTitle: Salam Ya Husain
 romanLyrics: |-
   Salaam salaam salaam ya Husain

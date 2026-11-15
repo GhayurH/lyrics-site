@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Zaidi"
 reciter: "Hadi Ali Khan Muslim"
-tags: ["noImage"]
+tags: []
 aliases: ["Berida Zainab Khadi"]
-published: false
+published: true
 romanLyrics: |-
   Berida Zainab khari hai Shaam ka darbar hai
 

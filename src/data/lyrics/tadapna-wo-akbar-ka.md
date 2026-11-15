@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Salam"
 reciter: "Ali Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tadapna wo Akbar ka keh keh ke paani
   Jhijhakti qaza aur ujarti jawaani

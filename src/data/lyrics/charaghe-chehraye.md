@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: ["Charaghe Chehraye"]
-published: false
+published: true
 romanLyrics: |-
   Charaagh-e-chehra-e-Akbar na ghul ho ye dua hai
   Lahu aankhoṅ se Laila ki musalsal beh raha hai

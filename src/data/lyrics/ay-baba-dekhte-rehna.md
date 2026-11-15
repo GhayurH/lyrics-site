@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Asif Bijnori"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Baba Dekhte Rehna"]
-published: false
+published: true
 romanLyrics: |-
   Sakina kehti jaati thi sar-e-Shabbir se ro kar
   Bithaata hai mujhe Shimr-e-sitamgar pusht-e-naaqa par

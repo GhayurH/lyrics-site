@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ae rozadaaroṅ aah o buka ke ye roz haiṅ
   Sadaat par nuzul-e-bala ke ye roz haiṅ

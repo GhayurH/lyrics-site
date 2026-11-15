@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Zaidi"
 reciter: "Kazmi Brothers"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Subh-e-aashur pukaare ye Shah-e-Karbobala
   Kahaaṅ ho baazu-e-Shabbir Sakina ke chacha

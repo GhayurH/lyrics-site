@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Dar jal chuka hai Yusuf-e-Zahra kab aaoge
   Zahra sadaaeṅ deti haiṅ Maula kab aaoge

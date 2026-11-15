@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anees"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Din dhal gaya shaam aa gayi Abbas Abbas na laute
   Shaam aur ghazab dha gayi Abbas Abbas na laute

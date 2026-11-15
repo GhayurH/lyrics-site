@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Takallum Mir"
 reciter: "Syed Wajhi Hasan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["kahan-ahl-e-azza-apna-fareeza-bhool-jate-hain-lyrics-2008", "Kahan Ahl-e-Azza Apna Fareeza Bhool Jate Hain Lyrics 2008"]
-published: false
+published: true
 romanLyrics: |-
   Kahaaṅ ahl-e-aza apna fariza bhul jaate haiṅ
   Gham-e-Shabbir mein ham dard-e-duniya bhul jaate haiṅ

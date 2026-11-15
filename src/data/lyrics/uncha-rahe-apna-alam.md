@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Syed Ramish Ul Hassan"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Uncha rahe apna alam
   Jab tak hai daur-e-aasmaaṅ

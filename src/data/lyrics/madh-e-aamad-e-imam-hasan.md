@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Asad Ali Asad"
 reciter: "Asad Ali Asad"
-tags: ["noImage"]
+tags: []
 aliases: ["madh-e-aamad-e-imam-hassan-asad-ali-asad"]
-published: false
+published: true
 romanLyrics: |-
   Maah-e-siyaam ka hai wast aur aamad-e-Hasan
   Jinaaṅ mein jashn ki saji hui hai aaj anjuman

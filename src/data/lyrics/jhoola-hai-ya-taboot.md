@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Jhoola Hai Ya Taboot"]
-published: false
+published: true
 romanLyrics: |-
   Jhula hai ya taabut tumhaara Ali Asghar
   Maadar ke laboṅ par hai ye nauha Ali Asghar

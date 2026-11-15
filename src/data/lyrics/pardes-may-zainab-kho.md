@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Alamdar Razvi"
-tags: ["noImage"]
+tags: []
 aliases: ["Pardes May Zainab Kho"]
-published: false
+published: true
 romanLyrics: |-
   Pardes mein Zainab kho baithi
   Athaara baras ke paale ko

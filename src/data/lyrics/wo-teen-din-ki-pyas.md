@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: ["Wo Teen Din Ki Pyas"]
-published: false
+published: true
 romanLyrics: |-
   Wo tin din ki pyaas wo tishna laboṅ ki shaam
   Apne gharoṅ se dur wo un begharoṅ ki shaam

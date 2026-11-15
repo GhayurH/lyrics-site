@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Rehaan Azmi"
 reciter: "Syed Wajhi Hasan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Mili Hai Deen-e-Nabi Ko Hayat Zainab Se"]
-published: false
+published: true
 romanLyrics: |-
   Mili hai din-e-Nabi ko hayaat Zainab se
   Husainiyat ki saji kaainaat Zainab se

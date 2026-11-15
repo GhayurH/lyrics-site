@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Hasnain"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: ["Sadiyon Se Ek Raat"]
-published: false
+published: true
 romanLyrics: |-
   Kehte haiṅ ye Imam-e-Zamaaṅ Ae Karbala
   Sadiyoṅ se ik raat bhi soya nahiṅ huṅ main

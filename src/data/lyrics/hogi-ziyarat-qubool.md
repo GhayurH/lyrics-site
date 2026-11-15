@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Irfan Haider"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Suno zawwar-e-Husain Ibn-e-Ali
   Ek mazlum ki aawaaz bulaati hai tumheiṅ

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Sirsvi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Rehaai paa ke jo zindaaṅ se bewatan aayi
   Ye keh ke gir gayi naaqe se ro ke chillaayi

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Syed Abu Turab"
 reciter: "Joan Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: ["Hayya Alal Ghadeer"]
-published: false
+published: true
 romanLyrics: |-
   Hayya Alal Ghadir
 

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Khaafila Ek Mai Laaya"]
-published: false
+published: true
 romanLyrics: |-
   Ae Zainab meri behna
   Qaafila ek maiṅ laaya tha

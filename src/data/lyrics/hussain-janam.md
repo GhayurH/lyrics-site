@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Aijaz Rizvi"
 reciter: "Aqif Hussain"
-tags: ["noImage"]
+tags: []
 aliases: ["Hussain Janam"]
-published: false
+published: true
 romanLyrics: |-
   Husain jaanam Husain jaanam
   Maqtal mein khule sar yehi kehti rahi maadar

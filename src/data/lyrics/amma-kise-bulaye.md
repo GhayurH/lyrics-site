@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Shadman Raza"
 poet: "Mazhar Abidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Dekha jo dasht-e-khuni mein Zehra ke chain ne
   Faryaad amma Zehra se yuṅ ki Husain ne

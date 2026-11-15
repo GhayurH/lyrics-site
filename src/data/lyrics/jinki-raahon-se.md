@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jin ki raahoṅ se payambar ne hataaye kaante
   Har qadam par unhi logoṅ ne bichhaaye kaante

@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Sardar"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kehti rahi Sakina bimaar saarbaaṅ se
   Hogi rihaayi mar ke bhaiya meri zindaaṅ se

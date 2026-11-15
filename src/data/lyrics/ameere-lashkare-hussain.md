@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Hasan Imdad"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Hizabr-e-dasht-e-Nainawa Amir-e-lashkar-e-Husain
 

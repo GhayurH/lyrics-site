@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Kaleem"
 reciter: "Mir Mohsin Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Mere Husain ko rote raho dua duṅ gi
   Har ek chaahne waale ko bakhshwa duṅ gi

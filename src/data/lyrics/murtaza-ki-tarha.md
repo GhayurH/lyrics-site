@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Naseer Turabi"
 reciter: "Mukhtar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Nahiṅ hai koi bhi dunya meiṅ Murtaza ki tarah
   Kahiṅ bashar ki tarah hai kahiṅ Khuda ki tarah

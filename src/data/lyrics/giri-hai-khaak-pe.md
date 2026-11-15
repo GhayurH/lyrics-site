@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Noor Ali"
 reciter: "Rizwan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Giri hai khaak pe Zainab sambhaal ae Fizza
   Ali ki beti ka sadqa nikaal ae Fizza

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Abid Zaidi"
 reciter: "Sajid Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haathoṅ mein rassiyaṅ haiṅ sar par rida nahiṅ hai
   Zainab tera muhaafiz Abbas kya nahiṅ hai

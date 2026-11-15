@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Syed Waqar Husain Naqvi"
 reciter: "Baqir, Daniyal, Ali Shanwar, Ali Jee"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tu Ali ki karta hai hamsari yeh tere zamir ki bhul hai
   Tujh mein Ali ki wila nahiṅ teri bandagi bhi fazul hai

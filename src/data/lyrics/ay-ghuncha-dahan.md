@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ghayour"
 reciter: "Alamdar Razvi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Ghuncha Dahan"]
-published: false
+published: true
 romanLyrics: |-
   Ae ghuncha dahan bekas dulha
   Ae sim badan bekas dulha

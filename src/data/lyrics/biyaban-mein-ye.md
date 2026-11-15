@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: ["Biyaban Mein Ye"]
-published: false
+published: true
 romanLyrics: |-
   Biyaabaaṅ mein ye kis ka ghar luta hai
 

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
 reciter: "Hadi Ali Khan Muslim"
-tags: ["noImage"]
+tags: []
 aliases: ["Deene Mohamed Ki"]
-published: false
+published: true
 romanLyrics: |-
   Din-e-Muhammad ki baqa ya Husain
   Bas wo tera aakhri sajda Husain

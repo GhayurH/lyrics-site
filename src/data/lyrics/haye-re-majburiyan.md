@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Jamal Meerthi"
 reciter: "Shareef Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haye re majburiyaaṅ Abbas ki majburiyaaṅ
   Ik bahaadur par laga di jang ki paabandiyaaṅ

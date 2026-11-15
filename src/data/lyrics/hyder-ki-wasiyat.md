@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Abbas"
 reciter: "Muslim Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Hyder ki wasiyat hai ye saare zamaane ko
   Zainab ko nahiṅ aaye koi bhi rulaane ko

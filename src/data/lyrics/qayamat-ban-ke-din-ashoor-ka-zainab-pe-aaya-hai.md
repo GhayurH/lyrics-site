@@ -5,9 +5,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage"]
+tags: []
 aliases: ["Qayamat Ban Ke Din Ashoor Ka Zainab Pe Aaya Hai"]
-published: false
+published: true
 romanLyrics: |-
   Qayaamat ban ke din Aashur ka Zainab pe aaya hai
   Hazaaroṅ qaatiloṅ ke darmiyaaṅ Zahra ka jaaya hai

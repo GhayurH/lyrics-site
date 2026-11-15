@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Husain Husain shahid-e-Karbala Husain
   Ye ran meiṅ kehti thi Zehra Husain wavaila wavaila

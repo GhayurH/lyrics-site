@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mazhar Abidi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 # source_id: tajpoints:695d24bf0e017a908b3b
 # source_url: https://tajpoints.com/2018/03/ali-ali-mula-haider-mula.html
 # raw_sha256: 7efbc2da1875f9a0a8051c70a831f1e29af9f71d33c3f38e20340864bc66400c

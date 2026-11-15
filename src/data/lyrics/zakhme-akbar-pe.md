@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hilal Rizvi"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Keh rahe the ye ro ro ke Sarwar
   Zakhm-e-Akbar pe Laila rida daal do

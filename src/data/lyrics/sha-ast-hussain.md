@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Nisar Irani"
-tags: ["noImage"]
+tags: []
 aliases: ["Sha Ast Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Shah ast Husain baadshah ast Husain
   Diṅ ast Husain diṅ panaah ast Husain

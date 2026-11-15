@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: ["Godhiyon May Sone"]
-published: false
+published: true
 romanLyrics: |-
   Godiyoṅ meiṅ sone waali
   So gayi zindaaṅ meiṅ

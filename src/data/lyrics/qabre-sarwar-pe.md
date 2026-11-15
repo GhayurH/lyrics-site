@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Qabr-e-Sarwar pe kaha Zainab ne ro kar alwidaa
   Kuchh khabar hai ham pe kya guzri baraadar alwidaa

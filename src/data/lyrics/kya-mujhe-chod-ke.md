@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Shaukat"
-tags: ["noImage"]
+tags: []
 aliases: ["Kya Mujhe Chod Ke"]
-published: false
+published: true
 romanLyrics: |-
   Haaye ammaaṅ are suno ammaaṅ
   Are aap se main bayaan dil ka haal karuṅ

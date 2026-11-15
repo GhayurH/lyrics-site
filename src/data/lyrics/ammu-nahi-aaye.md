@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
 poet: "Yawar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kehti thi ye ro ro ke Sakina mere baba
   Ammu nahiṅ aaye

@@ -77,7 +77,6 @@ romanLyrics: |-
   17
   Ginayeṅ kya kya fazail in ke, yeh kehna kafi hai Sibt-e Jafar
   Agar na hotiṅ Janab-e Zainab, na jane kya hota kya na hota
-
 ---
 
 ۱

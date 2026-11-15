@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anwar Zahir"
 reciter: "Sharif Husain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sajjad ye kehte thay jigar dekho hamara
   Kis haal mein hai jaari safar dekho hamara

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Majid"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: ["Kufe Ka Nagar Logon"]
-published: false
+published: true
 romanLyrics: |-
   Hai betiyaṅ Zahra ki Kufe ka nagar logoṅ
   Chaadar ki jagah sar par hai khaak-e-safar logoṅ

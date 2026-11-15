@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ameer Hussain Mashadi"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zikr jab Zainab-e-muztar ka bayaaṅ hota hai
   Khun Sajjaad ki aankhoṅ se rawaaṅ hota hai

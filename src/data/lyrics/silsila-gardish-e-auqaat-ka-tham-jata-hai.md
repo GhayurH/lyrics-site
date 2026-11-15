@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Salam"
 poet: "Faqeer Arif Imam"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Silsila gardish-e-auqaat ka tham jaata hai
   Qaidi zanjir hilaata hai to dam jaata hai

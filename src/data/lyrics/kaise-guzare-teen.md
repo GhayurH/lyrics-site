@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Ameer Hasan Aamir"
 poet: "Ainee Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Yasrab mein haaye tuti hui pasliyoṅ ke saath
   Kaise guzaare tin mahine Batul ne

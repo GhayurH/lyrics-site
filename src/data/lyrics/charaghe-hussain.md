@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Kumail Jafri"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Charaghe Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Charagh-e-Husain
   Phaili hui hai khushbueṅ baagh-e-Husain ki

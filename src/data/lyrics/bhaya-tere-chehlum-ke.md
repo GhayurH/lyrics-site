@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 occasion: "Chehlum"
-tags: ["noImage"]
+tags: []
 aliases: ["Bhaya Tere Chehlum Ke"]
-published: false
+published: true
 romanLyrics: |-
   Aayi hai Zainab
   Bhaiya tere chehlum ke liye aayi hai Zainab

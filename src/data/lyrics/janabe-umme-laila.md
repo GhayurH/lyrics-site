@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Waiz Sultanpuri"
 reciter: "Ali Mohd. Sultanpuri"
-tags: ["noImage"]
+tags: []
 aliases: ["Janabe Umme Laila"]
-published: false
+published: true
 romanLyrics: |-
   Aayi jawaaṅ laal ke marne ki jab khabar
   Maaṅ royi donoṅ haathoṅ se dil apna thaam kar

@@ -5,9 +5,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage"]
+tags: []
 aliases: ["Koi Misal Mil Nahi Sakti Hussain Ki"]
-published: false
+published: true
 poet: Hasnain Akbar
 reciter: Master Syed Muhammad Shah
 romanLyrics: |-

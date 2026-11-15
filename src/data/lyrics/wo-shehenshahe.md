@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Wo Shehenshahe"]
-published: false
+published: true
 romanLyrics: |-
   Hote rehte the jise hulla-e-Firdaus ata
   Wo shahenshaah-e-zaman, jis ko kafan bhi na mila

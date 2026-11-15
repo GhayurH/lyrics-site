@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Yawar Abbas"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haye bimaar haye darbaar
   Saamne darbaar ke Ghairat-e-Sajjad ka hai ye kaisa imtihaaṅ

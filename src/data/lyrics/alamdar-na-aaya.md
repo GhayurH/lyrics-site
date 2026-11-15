@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 # source_id: nohayonline:6231230682152661755e
 # source_url: https://www.nohayonline.com/details_content.php?id=2590
 # raw_sha256: 8495401ec8affb191b03ad82a6fe016e4b691a6ad62da200fee660202f3b9c96

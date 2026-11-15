@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Noor Ali"
 reciter: "Rizwan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Har ek tukre se tukra mila rahe hai Husain
   Hasan ka laal dobara bana rahe haiṅ Husain

@@ -5,9 +5,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Nasir Asghar Party (SM)"
 romanLyrics: |-
   Akbar ko Fajr Shah ko Asr roti hai

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Karbala Ay Karbala"]
-published: false
+published: true
 romanLyrics: |-
   Ae Karbala ae Karbala
   Qatl hui Aal-e-Nabi ghar ujar gaya

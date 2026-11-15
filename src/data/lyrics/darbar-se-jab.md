@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Darbar se jab aayi ghar beti Nabi ki roti rahi
   Ek din nahiṅ phir umr bhai beti Nabi ki roti rahi

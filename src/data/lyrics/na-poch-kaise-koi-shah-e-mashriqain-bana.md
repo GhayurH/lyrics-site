@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mohsin Naqvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bashar ka husn aqidat ka zeb o zain bana
   Ali ka khun luaab-e-Rasul shir-e-Batul

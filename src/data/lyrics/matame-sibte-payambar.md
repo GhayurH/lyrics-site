@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Matam-e-Sibt-e-Payambar ki nishaani ho kar
   Khun-e-dil ki aankh se behne laga paani ho kar

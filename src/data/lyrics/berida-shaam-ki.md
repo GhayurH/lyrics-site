@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mohsin"
 reciter: "Nasir Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Berida Shaam ki galiyoṅ se guzar Zainab ka
   Phir se Aabid pe hai tahrir safar Zainab ka

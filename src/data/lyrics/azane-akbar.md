@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zafar Abbas"
 reciter: "Nasir Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Umm-e-Laila na bhul paayi azaaṅ Akbar ki
   Ghut ke roti rahi zindaaṅ mein maaṅ Akbar ki

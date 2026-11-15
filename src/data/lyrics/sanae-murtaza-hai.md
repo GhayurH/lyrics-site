@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mirza Dabeer"
 reciter: "Raza Ali Khan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sanaa-e-Murtaza hai aur maiṅ huṅ
   Yehi ik mashghala hai aur maiṅ huṅ

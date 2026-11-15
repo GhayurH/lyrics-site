@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Baqer Amanatkhani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Khaak par laashe pare haiṅ Karbala khaamosh hai
   Ek sakta hai biyaabaaṅ ki fiza khaamosh hai

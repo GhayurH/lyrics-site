@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Sachey Bhai"
 reciter: "Ali Rizvi Sachey"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zainab ne kaha ye ro ro kar
   Main qaidi huṅ

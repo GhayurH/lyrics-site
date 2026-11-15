@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Hussain Pe Ye Waqt"]
-published: false
+published: true
 romanLyrics: |-
   Aayi jo le ke god mein Shabbir ko Batul
   Bachche ko dekha khush hue phir ro diye Rasul

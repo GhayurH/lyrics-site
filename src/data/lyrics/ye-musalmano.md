@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ameer Hussain Mashadi"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ye musalmaanoṅ Rasul-e-paak ka farmaan hai
   Tum meiṅ chhore jaa raha huṅ aal aur Quraan hai

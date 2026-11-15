@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Ashhar Mehdi"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Inhiṅ se chali thi Khuda ki khudaai inhiṅ par khudaai ki had ho gayi hai
   Do aalam mein Aal-e-Nabi haiṅ ke jin par Khuda aashnaai ki had ho gayi hai

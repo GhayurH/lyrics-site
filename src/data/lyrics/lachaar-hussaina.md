@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Nasir Jahan"
-tags: ["noImage"]
+tags: []
 aliases: ["Lachaar Hussaina"]
-published: false
+published: true
 romanLyrics: |-
   Lachaar Husaina beyaar Husaina
   Ae bekasoṅ ke qaafila saalaar Husaina

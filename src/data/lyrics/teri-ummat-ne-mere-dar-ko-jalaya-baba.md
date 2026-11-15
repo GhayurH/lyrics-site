@@ -13,47 +13,47 @@ published: true
 romanLyrics: |-
   Teri Ummat Ne Mere Dar Ko Jalaya Baba
   Phir Woh Jalta Hua Dar Mujh Pe Giraya Baba
-  
+
   1
   Raakh Thi, Shole The, Sehme Hue Bache Ya Dhuaṅ
   Mere Aangan Meiṅ Tha Ek Shaam-e-Gharibaṅ Ka Samaaṅ
   Dar Hata Kar Mujhe Fizza Ne Uthaya Baba
-  
+
   2
   Laut Kar Aayi To Chehra Bhi Mera Zakhmi Tha
   Meri Zainab Ko Meri Peshi Ka Pehla Nauha
   Mere Baaloṅ Ki Safedi Ne Sunaya Baba
-  
+
   3
   Le Chale Qaidi Bana Kar Jo Ali Ko Dushman
   Maiṅ ne Chhora Nahi Haider Ki Aba Ka Daaman
   Taaziyano Ne Magar Mujhse Chhuraya Baba
-  
+
   4
   Baith Kar Parhti Huṅ Mushkil Se Namaz-e-Shab Bhi
   Phir Bhi Abbas Ki Khilqat Ki Dua Bhuli Nahi
   Jab Bhi Zakhmi Hue Haathoṅ Ko Uthaya Baba
-  
+
   5
   Zakhmi Haalat Meiṅ Bhi Dehliz Se Bahar Aayi
   Aur Aliyun Waliullah Bacha Kar Laayi
   Ehd Jo Maiṅ ne Kiya Tha Woh Nibhaya Baba
-  
+
   6
   Kaun Sa Dar Hai Jahaṅ Aap Ki Beti Na Gayi
   Baat Sunna To Kuja, Yuṅ Hui Izzat Meri
   Koi Darwaze Se Bahar Nahi Aaya Baba
-  
+
   7
   Khud Yeh Dekha Hai Tere Shehr Ki Diwaroṅ Ne
   Aisi Ghurbat Thi Ke Haathoṅ Meiṅ Sitamgaaroṅ Ne
   Rassiyaṅ Baandh Ke Haider Ko Phiraya Baba
-  
+
   8
   Jis Jagah Aap Ne Ruk Ruk Ke Ijazat Maangi
   Wahaṅ Ghustaakh Musalmano Ne Baiat Maangi
   Koi Shole To Koi Lakriyaṅ Laya Baba
-  
+
   9
   Arsh Aur Farsh Pe Mohsin Hua Kohraam Bapa
   Jis Ghari Ro Ke Wilayat Ki Shahida Ne Kaha

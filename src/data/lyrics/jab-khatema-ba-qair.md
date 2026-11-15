@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Marsiya"
 poet: "Mir Anis"
 reciter: "Mir Murtaza Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Jab Khatema Ba Qair"]
-published: false
+published: true
 romanLyrics: |-
   1
   Jab khaatima bakhair hua fauj-e-Shaam ka

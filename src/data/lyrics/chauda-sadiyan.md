@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Payam Azmi"
 reciter: "Ashraf Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Chauda Sadiyan"]
-published: false
+published: true
 romanLyrics: |-
   Chauda sadiyaṅ bit gayiṅ Shabbir ka charcha baaqi hai
 

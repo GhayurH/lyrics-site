@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Wila Hallauri"
 reciter: "Sahil Jaunpuri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haye Naqi Maula
 

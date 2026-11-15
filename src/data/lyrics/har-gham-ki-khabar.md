@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
 reciter: "Abul Fazl Sangat"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Baba ko Sakina tere har gham ki khabar hai
   Naize ki ani par hai magar tujh pe nazar hai

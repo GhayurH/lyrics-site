@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Kazmi Brothers"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ikkiswiṅ Ramzaan hai Aashur-e-Muharram
   Hota hai bapa Haidar-e-Karraar ka maatam

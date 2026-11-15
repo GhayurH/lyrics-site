@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Alamdar Saahil"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ghazi Abbas ke parcham ko uthaate rehna
   Ham Husaini haiṅ zamaane ko bataate rehna

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Danish Mirza"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["پہلو شکستہ فاطمہ فاطمہ کس سے کرے بیاں"]
-published: false
+published: true
 romanLyrics: |-
   Pehlu shikasta Fatema kis se kare bayaaṅ
   Dar is tarah giraaya ke tuti hai pasliyaaṅ

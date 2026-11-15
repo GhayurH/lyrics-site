@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Sachey Bhai"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Laash-e-Akbar utha rahe haiṅ Husain
 

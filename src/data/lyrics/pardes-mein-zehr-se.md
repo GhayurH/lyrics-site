@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ishrat Bilgrami"
 reciter: "Ishrat Bilgrami"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Pardes mein zehr se maara hai Naqi ko
   Jis tarah is se pehle Raza aur Taqi ko

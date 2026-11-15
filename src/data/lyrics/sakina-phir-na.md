@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shams Baltistani"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Uthaaye phir rahe haiṅ aag khaimoṅ ko jalaate haiṅ
   Sitamgar kuchh saroṅ ko nok-e-naiza par sajaate haiṅ

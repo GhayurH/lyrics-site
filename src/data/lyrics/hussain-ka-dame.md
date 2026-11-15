@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Aqeel"
 reciter: "Hasan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Hussain Ka Dame"]
-published: false
+published: true
 romanLyrics: |-
   Haaye Husain haaye gharib
   Husain ka dam-e-rukhsat ye tha sukhan Zainab

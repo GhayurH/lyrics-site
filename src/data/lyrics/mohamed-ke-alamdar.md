@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Buknalvi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: ["Mohamed Ke Alamdar"]
-published: false
+published: true
 romanLyrics: |-
   Zakhmi hue sajde meiṅ Muhammad ke alamdaar
   Haidar-e-Karraar Haidar-e-Karraar

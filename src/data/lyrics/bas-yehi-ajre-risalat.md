@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ghulam Abbas"
 reciter: "Mir Bober Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ye jo itrat se mohabbat hai zamaane waaloṅ
   Bas yehi ajr-e-risaalat hai zamaane waaloṅ

@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Soz"
 poet: "Madad Ali Joan"
 reciter: "Sheraz Khan and Shahid Khan Sialkot"
-tags: ["noImage", "Punjabi"]
+tags: ["Punjabi"]
 aliases: ["kazim-da-lasha-jadoon-pul-baghdad-te-aya-soz-sheraz-khan-lyrics-punjab", "Kazim Da Lasha Jadoon Pul Baghdad Te Aya Soz Sheraz Khan Lyrics Punjabi 2013"]
-published: false
+published: true
 romanLyrics: |-
   Kaazim da laasha jadoṅ pul Baghdad te aaya
   Haaye ais laashe Fatima Zahra nuṅ paase da dard pulaaya

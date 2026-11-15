@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 reciter: "Ali Shanawar, Ali Jee"
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: 'Yaa Ali
 
   Aise aaye Ali Akbar sar-e-maidan-e-wigha

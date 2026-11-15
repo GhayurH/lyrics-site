@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Raza"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Mere Beta Mere"]
-published: false
+published: true
 romanLyrics: |-
   Ae mere beta mere pyare Ali Asghar
   Nur-e-nazar maaṅ ke dulare Ali Asghar

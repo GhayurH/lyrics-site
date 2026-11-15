@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Noor Ali"
 reciter: "Rizwan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Chacha Mai Tera"]
-published: false
+published: true
 romanLyrics: |-
   Ae chacha main tera Sajjad huṅ pehchaan mujhe
   Khaa gaye haaye sitam Shaam ke zindaan mujhe

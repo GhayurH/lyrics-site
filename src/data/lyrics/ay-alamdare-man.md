@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Alamdare Man"]
-published: false
+published: true
 romanLyrics: |-
   Ae alamdar-e-man
   Ae sipaah daar-e-man

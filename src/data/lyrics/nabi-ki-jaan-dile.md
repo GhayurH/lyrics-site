@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Ali Khan Lakhnavi"
 reciter: "Ghadeer Fatima"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Nabi ki jaan dil-e-Haidar ka aaj chehlum hai
   Makin-e-dosh-e-Payambar ka aaj chehlum hai

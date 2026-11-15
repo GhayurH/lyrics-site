@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Amir Husain Mashadi"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zainab ne jis ko paala nuri hijaab mein
   Wo qatl ho gaya hai ahd-e-shabaab mein

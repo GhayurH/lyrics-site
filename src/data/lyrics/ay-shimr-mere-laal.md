@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mubarak Jalalpuri"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Shimr Mere Laal"]
-published: false
+published: true
 romanLyrics: |-
   Bole Shabbir ke Sarwar ko sambhaalo amma
   Aakhri baar kaleje se laga lo amma

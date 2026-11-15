@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Sadat Ali Khan Sadiq"
 reciter: "Askar Ali Khan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kehti Bano ye maqtal mein aayi
   Mere Asghar ki hai qabr kis jaa

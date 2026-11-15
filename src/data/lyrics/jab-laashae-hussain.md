@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Jauhar"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Jab Laashae Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Jab laasha-e-Husain na khaime mein jaa sake
   Khud Bibiyaaṅ Husain ke laashe pe aa gayiṅ

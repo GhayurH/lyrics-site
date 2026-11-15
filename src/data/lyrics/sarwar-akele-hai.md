@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Udhar laakhoṅ ka lashkar hai idhar Sarwar akele haiṅ
   Nahiṅ baaqi koi naasir lare kiuṅ kar akele haiṅ

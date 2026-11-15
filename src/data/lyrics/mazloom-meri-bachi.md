@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mujahid Hussain"
 reciter: "Hadi Ali Khan Muslim"
-tags: ["noImage"]
+tags: []
 aliases: ["Mazloom Meri Bachi"]
-published: false
+published: true
 romanLyrics: |-
   Mazlum meri bachi kaise ho dafn tera
   Kehti thi ro ke Bano dil muztarib hai mera

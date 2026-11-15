@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Shere Nayastane"]
-published: false
+published: true
 romanLyrics: |-
   Abbas ae sher-e-nayastan-e-Haider
   Deti thi sada Zainab ro kar

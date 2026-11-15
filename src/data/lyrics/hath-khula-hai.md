@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Noor Ali Noor"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Lehraata alam dekh ke yuṅ lagta hai mujh ko
   Jaise ke koi baab-e-munaajaat khula hai

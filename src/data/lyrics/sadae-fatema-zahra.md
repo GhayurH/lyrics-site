@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: ["Sadae Fatema Zahra"]
-published: false
+published: true
 romanLyrics: |-
   Ya Imam-e-zamaana
 

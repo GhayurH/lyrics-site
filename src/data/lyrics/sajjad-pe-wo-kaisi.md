@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Hasan Sadiq"
 poet: "Najm"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Naatavaaṅ aur qaid mein
   Haaye bimaar haaye haaye Sajjad

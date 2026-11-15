@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Gauhar Pakistani"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kariyal jawaan Akbar marne ko jaa raha hai
   Khaamosh hai khudaai sakte mein Karbala hai

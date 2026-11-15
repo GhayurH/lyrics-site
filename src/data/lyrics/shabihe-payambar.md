@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Mehshar Lakhnavi"
 reciter: "Muhammad Naqi; Anjuman Al-Zulfiqar"
-tags: ["noImage"]
+tags: []
 aliases: ["Shabihe Payambar"]
-published: false
+published: true
 romanLyrics: |-
   Shabih-e-Payambar Akbar zibh ba maidaaṅ
   Shaah ka dilbar Akbar

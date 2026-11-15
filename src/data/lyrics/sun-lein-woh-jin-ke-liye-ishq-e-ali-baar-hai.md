@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Banda-e-Momin"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["sun-lein-woh-jin-ke-liye-ishq-e-ali-baar-hai-mir-hasan-mir"]
-published: false
+published: true
 romanLyrics: |-
   Sun leiṅ woh jin ke liye ishq-e-Ali baar hai
   Aaj bhi parde meiṅ ik Haider-e-Karrar hai

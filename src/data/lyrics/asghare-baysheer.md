@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Mir Hassan Mir"
 poet: "Mir Takallum Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ro rahi hai soch kar Ummul Banin ye aaj bhi
   Asghar-e-Beshir jaisi qabr hai Abbas ki

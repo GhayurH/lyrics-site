@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Yaad Aagayi Sakina"]
-published: false
+published: true
 romanLyrics: |-
   Beti ko main ne apni sine pe jab sulaaya
   Yaad aa gai Sakina

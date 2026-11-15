@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Qaisar Jafri"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kufe ki shahzaadiyaaṅ Shaam ke bazaar meiṅ
   Zainab o Kulsum haiṅ majma-e-maikhwaar meiṅ

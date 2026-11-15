@@ -2,12 +2,12 @@
 title: "Main Huṅ Abbas-e-Ali"
 language: "Urdu"
 direction: "rtl"
-tags: ["noImage"]
+tags: []
 aliases: []
 lang: "ur"
 kalamType: "Manqabat"
 recitationId: "main-hoon-abbas-e-ali-mir-hasan-mir"
-published: false
+published: true
 # source_id: tajpoints:27f96277acde3775dfb5
 # source_url: https://tajpoints.com/2022/10/main-hoon-abbas-e-ali-mir-hasan-mir.html
 # raw_sha256: b515b9b00556ae3cb25ab874c2664ff035ee9ee3517ef1307f6e830e8a0ee466

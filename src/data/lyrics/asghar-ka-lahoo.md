@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Safdar Abbas"
 poet: "Sibtain Kazmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Asghar ka lahu jab na liya arz o samaaṅ ne haaye
   Chehre pe mala khun Shah-e-Karbobala ne

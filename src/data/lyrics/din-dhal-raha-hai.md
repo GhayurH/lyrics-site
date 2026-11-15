@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Mohib Fazli"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Din dhal raha hai pyaasi Sakina udaas hai
   Mashk o alam ki ab bhi yatimoṅ ko aas hai

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Mir Mohsin Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Parchame Abbas"]
-published: false
+published: true
 romanLyrics: |-
   Parcham-e-Abbas hai ye parcham-e-Abbas
 

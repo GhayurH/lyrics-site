@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Noor"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Imam-e-waqt hai ranjida kaun soche ga
   Aa kisi roz isi dukh pe ikatthe roeṅ

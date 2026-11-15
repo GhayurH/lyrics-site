@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ameer Hussain Mashadi"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: ["Sibte Nabi Ka Matam"]
-published: false
+published: true
 romanLyrics: |-
   Sibt-e-Nabi ka maatam manshur-e-zindagi hai
   Maatam hi zindagi hai maatam hi bandagi hai

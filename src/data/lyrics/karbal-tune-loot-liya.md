@@ -5,9 +5,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage"]
+tags: []
 aliases: ["Karbal Tune Loot Liya"]
-published: false
+published: true
 romanLyrics: |-
   Karbal tu ne lut liya ghar Zehra ka
   Nehr rawaaṅ hai aur pyaasa ghar Zehra ka

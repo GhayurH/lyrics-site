@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Dayam Najafi"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haaye aulaad-e-Murtaza par tuti hai kya qayaamat
   Bachche tarap rahe haiṅ Baba ka dekh kar sar

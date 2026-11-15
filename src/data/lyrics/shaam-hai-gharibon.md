@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Sajid Razvi"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Shaam hai ghariboṅ ki dardnaak manzar hai
   Behavaas maidaan mein itrat-e-Payambar hai

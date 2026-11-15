@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ainee Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jab khaak mein chhupa chuke beti Rasul ki
   Muṅh rakh ke apna qabr pe rote rahe Ali

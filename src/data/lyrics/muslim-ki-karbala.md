@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Arsalan Azmi"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Logoṅ ye shehr-e-Kufa Muslim ki Karbala hai
   Ek bewatan yahaaṅ bhi faujoṅ mein ghir gaya hai

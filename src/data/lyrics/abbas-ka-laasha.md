@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 sixVerseLayout: "pairs"
 poet: "Mir Sajjad Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ab tak hai zabanoṅ pe Alamdar Alamdar
   Maara gaya Sarwar ka madadgar Alamdar

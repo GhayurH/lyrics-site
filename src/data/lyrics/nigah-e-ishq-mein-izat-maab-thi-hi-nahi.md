@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Faqeer Arif Imam"
-tags: ["noImage"]
+tags: []
 aliases: ["Nigah-e-Ishq Mein Izat Maab Thi Hi Nahi"]
-published: false
+published: true
 romanLyrics: |-
   Nigaah-e-ishq mein izzat maab thi hi nahiṅ
   Abu Turaab se pehle turaab thi hi nahiṅ

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Tabligh-e-Imamia"
 poet: "Urooj Bijnori"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jis ko kehte haiṅ zindagi ki sada
   Hai jigar gosha-e-Nabi ki sada

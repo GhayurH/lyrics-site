@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Salaam"
 poet: "Ali Naqvi Najaf"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ummat ne baad-e-Ahmad-e-Mursal ye kya kiya
   Bekhauf un ki beti ke ghar ko jala diya

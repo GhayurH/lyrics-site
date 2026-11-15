@@ -12,48 +12,48 @@ published: true
 romanLyrics: |-
   Haaye Abbas haaye Abbas haaye Abbas
   Haaye Abbas haaye Abbas haaye Abbas haaye Abbas
-  
+
   Jalte khaimoṅ se sada aai sar Karb o Bala
   Haaye Abbas haaye Abbas haaye Abbas haaye Abbas
-  
+
   Lo khabar jald ke ab bistar-e-Sajjad jala
   Haaye Abbas haaye Abbas haaye Abbas haaye Abbas
-  
+
   1
   Tanha athara baradar ki bahan hai ban meiṅ
   Nind kyoṅ aagai hai bhai batao ran meiṅ
   Nind se jago chhini Zainab-e-muztar ki rida
-  
+
   2
   Mere Ghazi mere Safdar, mere Mir-e-lashkar
   Dekh beaas hai pardes meiṅ teri khwahar
   Kat gaya sibt-e-payambar ka bhi sajde meiṅ gala
-  
+
   3
   Bain karti hui lashe pe chali aaoṅ gi
   Kitne nasur kaleje meiṅ hai dikhlauṅ gi
   Meri taqdir meiṅ kuchh bhi nahiṅ ashkoṅ ke siwa
-  
+
   4
   Mera Akbar mera Qasim mera Asghar na raha
   Do mere laal the donoṅ meiṅ se koi na bacha
   Na koi bhai bhatija na koi hai beta
-  
+
   5
   Bhaiyoṅ se to bari aas hua karti hai
   Har bahan bhai ke haq meiṅ yeh dua karti hai
   Umar lag jaaye meri zinda rahe bhai mera
-  
+
   6
   Ji ke ab kya karuṅ ae bhai tumhare gham meiṅ
   Zindagi guzre gi Zainab ki tere maatam meiṅ
   Mujh ko tarpaye gi ae bhai teri yaad sada
-  
+
   7
   Khali kuze liye bacche haiṅ dar-e-khaima par
   Soe darya hai lagi bali Sakina ki nazar
   Kehti hai bachoṅ se aate haiṅ abhi mere chacha
-  
+
   8
   Noha Rehan yeh Zainab ka tha baad-e-Abbas
   Kiuṅ nahiṅ karte ho Abbas hamara ehsaas

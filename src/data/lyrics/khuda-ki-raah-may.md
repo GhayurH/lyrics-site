@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Najm Afandi"
 reciter: "Nasir Jahan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Khuda ki raah mein kaar-e-numaayaaṅ aise hote haiṅ
   Tah-e-khanjar kiye sajde musalmaan aise hote haiṅ

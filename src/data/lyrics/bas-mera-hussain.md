@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Rawaaṅ dawaaṅ tha jaanib-e-Dimashq qaafila
   Kalaam-e-haq suna raha tha sar Husain ka

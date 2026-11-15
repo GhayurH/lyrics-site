@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: ["Aza E Sarwar"]
-published: false
+published: true
 romanLyrics: |-
   Aza-e-Sarwar kareṅge har dam
   Dua-e-Zehra wujud apna

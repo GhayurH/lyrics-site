@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Aijaz Rizvi"
 reciter: "Aqif Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sarwar ke dil se puchhiye ulfat Sakina ki
   Aati hai Karbala se kiuṅ nikhat Sakina ki

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Shah"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Laash Akbar ki mere saath uthaao ammaaṅ
   Aa ke maqtal mein mera haath bataao ammaaṅ

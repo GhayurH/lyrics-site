@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: ["Umme Laila Akbar"]
-published: false
+published: true
 romanLyrics: |-
   Kaise bhule tujhe bhala Umm-e-Laila Akbar
   Koi dunya mein hai kahaaṅ tere jaisa Akbar

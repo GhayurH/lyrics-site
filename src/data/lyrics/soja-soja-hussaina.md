@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Soja Soja Hussaina"]
-published: false
+published: true
 romanLyrics: |-
   Jab girne lage jalti zamiṅ par Shaah-e-waala
   Ye kehte hue Zahra ne godi meiṅ sambhaala

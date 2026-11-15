@@ -53,7 +53,6 @@ romanLyrics: |-
   11
   Dar-e Batul nahiṅ jal raha tha ae Majid
   Woh ho raha tha dhuaṅ La ilaha illa Allah
-
 ---
 
 ۱

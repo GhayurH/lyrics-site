@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Dayam Najafi"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tanha tanha na guzar paaya jahaaṅ se koi
   Saath kunbe ke wahaaṅ se dil-e-Zehra guzra

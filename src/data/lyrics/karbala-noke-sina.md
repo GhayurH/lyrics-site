@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Karbala nok-e-sinaaṅ se ye khabar laayi hai
   Zindagi maut ki sehra se guzar aayi hai

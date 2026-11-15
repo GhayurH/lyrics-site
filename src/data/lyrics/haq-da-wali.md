@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sajjad Ali Turab"
 reciter: "Syeda Amber Naqvi & Rida Karbalai (Karbalai Sisters); Shujat Ali Zubi"
-tags: ["noImage", "Punjabi"]
+tags: ["Punjabi"]
 aliases: ["haq-da-wali-karbalai-sisters-syeda-amber-naqvi-rida-karbalai-lyrics-20"]
-published: false
+published: true
 recitationId: "haq-da-wali-karbalai-sisters-syeda-amber-naqvi-rida-karbalai-lyrics-20"
 # Source language: Punjabi; the Arabic-script edition retains Punjabi wording.
 romanLyrics: |-

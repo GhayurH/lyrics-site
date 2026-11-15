@@ -7,10 +7,10 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Allama Syed Zille Saqlain Zaidi"
 reciter: "Syed Wajhi Hasan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["ay-mere-mola-hussain-wajhi-hasan-zaidi", "Ay Mere Mola Hussain Wajhi Hasan Zaidi"]
 recitationId: "ay-mere-mola-hussain-wajhi-hasan-zaidi"
-published: false
+published: true
 romanLyrics: |-
   1
   Ab is se jaan lo keh hai kya kya Husain ka

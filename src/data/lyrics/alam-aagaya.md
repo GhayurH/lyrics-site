@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zafar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Nasir Zaidi"
 romanLyrics: |-
   Shabbir ki aahoṅ mein pyasoṅ ki ye gunji sada

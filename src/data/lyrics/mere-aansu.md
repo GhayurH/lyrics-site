@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Kaleem Zafar"
 reciter: "Ali Rizvi Sachey"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Moti hai shafaaat ke shifa hai mere aansuṅ
   Naazaaṅ huṅ ke Zahra ki dua hai mere aansuṅ

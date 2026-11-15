@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Kausar Zaidi"
 reciter: "Sajid Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sheh se Zainab ne kaha ran ko na jaana bhaiya
   Aur jaate ho to phir laut ke aana bhaiya

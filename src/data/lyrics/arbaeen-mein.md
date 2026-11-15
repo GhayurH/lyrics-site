@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Ameer Hasan Aamir"
 poet: "Kumail Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maula bula lo Karbobala Arbaeen mein
   Karte haiṅ sogwaar dua Arbaeen mein

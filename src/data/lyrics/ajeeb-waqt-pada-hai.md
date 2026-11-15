@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Nasir Asghar Party (SM)"
 romanLyrics: |-
   Ajeeb waqt para hai yatim bachchi par

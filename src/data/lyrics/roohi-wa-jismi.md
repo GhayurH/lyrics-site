@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Mir Takallum"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ya Gharib, ya Husain
   As salaamu alaika ya Aba Abdillah

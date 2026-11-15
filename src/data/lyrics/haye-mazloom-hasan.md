@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Saeed Aqil"
 reciter: "Aneem Shah"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haye mazlum Hasan Askari
   Mere Imam Hasan Askari

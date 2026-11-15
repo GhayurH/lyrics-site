@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Mushtaq Hussain"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aaghaz ho raha hai Karbal ki kahani ka
   Logoṅ ye janaza hai Islam ke baani ka

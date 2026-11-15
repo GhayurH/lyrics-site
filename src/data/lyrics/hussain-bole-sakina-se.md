@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Suroor Lakhnavi"
 reciter: "Anjuman Muhibbaan-e-Husain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Husain bole Sakina se tum na ghabraana
   Jo nind aaye to maqtal mein tum chali aana

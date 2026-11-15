@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Anj. Masoomeen"
 poet: "Iqbal Abedi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Khanjar tale Ali ka laal
   Pyaasa tarapta reh gaya

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kaise ho Musalmaan charaaghoṅ ko bujha do
   Shahzaadi-e-kaunain khule sar hai rida do

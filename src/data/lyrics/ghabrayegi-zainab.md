@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ghabraaegi Zainab ghabraaegi Zainab
   Bhaiya tumheṅ ghar jaa ke kahaaṅ paaegi Zainab

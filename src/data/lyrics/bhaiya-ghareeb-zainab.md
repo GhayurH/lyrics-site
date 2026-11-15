@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bhaiya gharib Zainab tera kafan na laayi
   Laash-e-Husain par hai Zainab ki ye duhaai

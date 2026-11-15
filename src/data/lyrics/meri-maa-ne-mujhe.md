@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Haider Khurshid"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Meri maaṅ ne mujhe god meiṅ ye wird sikhaaya
   Kaha ya Husain ya Husain ya Husain

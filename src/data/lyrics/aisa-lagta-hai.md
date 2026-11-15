@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Asif Bijnori"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Ameer Hasan Aamir"
 romanLyrics: |-
   Aisa lagta hai Hasan do baar kafnae gaye

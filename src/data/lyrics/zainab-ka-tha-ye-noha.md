@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zainab ka tha ye nauha bhai hai bhuka pyaasa
   Ae Shimr tu thahar ja bhai hai bhuka pyaasa

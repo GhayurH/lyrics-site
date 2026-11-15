@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Anj. Masoomeen"
 poet: "Parvez"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Khanjar hai sitamgaar ka pyaase ka gala hai
   Zainab gharib dasht mein mashghul-e-buka hai

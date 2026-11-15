@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Irfan Haider"
-tags: ["noImage"]
+tags: []
 aliases: ["Ek Khafela Laaya"]
-published: false
+published: true
 romanLyrics: |-
   Sula ke qabr mein beshir ko Husain-e-Gharib
   Har ek shahid ke laashe pe aaye rote hue

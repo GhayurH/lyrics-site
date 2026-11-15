@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Sharar Naqvi"
 reciter: "Irfan Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ro ke Zehra ne kaha pasliyaaṅ tut gayiṅ
   Mera Mohsin na raha pasliyaaṅ tut gayiṅ

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Raza"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Laash Abbas ki Sarwar se uthaai na gayi
   Laash tukroṅ mein thi ek jaa pe samaai na gayi

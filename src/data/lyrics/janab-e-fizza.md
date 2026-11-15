@@ -7,10 +7,10 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Takallum Mir"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Janab E Fizza Manqabat Mir Hasan Mir"]
 recitationId: "janab-e-fizza-manqabat-mir-hasan-mir"
-published: false
+published: true
 romanLyrics: |-
   1
   Qulzum-e-sabr o itaat ki rawaani Fizza

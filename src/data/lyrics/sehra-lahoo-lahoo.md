@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bikhre pare haiṅ laashe sehra lahu lahu hai
   Dasht-e-bala mein Shah ka sajda lahu lahu hai

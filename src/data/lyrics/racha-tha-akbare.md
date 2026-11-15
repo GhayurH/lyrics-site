@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Izzat Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Racha tha Akbar-e-mehru pe kya shabaab ka rang
   Kahaaṅ hai gulshan-e-hasti mein is gulaab ka rang

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Jaweed Maqsood"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Hasan Abbas Ahsan"
 romanLyrics: |-
   Abbas-e-Ali Sheh ke alamdaar sidharo

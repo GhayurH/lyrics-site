@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Abbas"
 reciter: "Kazmi Brothers"
-tags: ["noImage"]
+tags: []
 aliases: ["Fatema Hoo Mai"]
-published: false
+published: true
 romanLyrics: |-
   Ya Sayyeda ya Taahira ya Umm-e-Abiha
 

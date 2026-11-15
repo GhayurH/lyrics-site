@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anwar Zahir"
 reciter: "Shareef Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jal gaye Zainul Aba ke ghar nazar ke saamne
   Chhin gaye hamshir ke gauhar nazar ke saamne

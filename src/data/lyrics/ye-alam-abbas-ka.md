@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Irfan Akbar Abidi"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bemisl hai do jahaaṅ mein jo hai sher-e-Karbala
   Kar gaya din-e-Nabi pe donoṅ baazu jo fida

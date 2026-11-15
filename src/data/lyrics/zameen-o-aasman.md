@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zamin o aasmaan donoṅ hai larzaaṅ zulm-e-paikaaṅ se
   Bujhe ja rahi hai pyaas Asghar ki rag-e-jaaṅ se

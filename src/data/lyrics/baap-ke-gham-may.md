@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Akbar"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: ["Baap Ke Gham May"]
-published: false
+published: true
 romanLyrics: |-
   Baap ke gham mein Sakina yuṅ dilaase paayegi
   Jab bhi baba ko pukaaregi tamaanche khaayegi

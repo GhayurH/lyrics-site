@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Baba tere baghair bhala kaise jiyuṅ gi
   Tanha rahuṅ gi qaid mein zindaaṅ mein maruṅ gi

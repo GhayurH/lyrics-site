@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Naat"
 poet: "Hasnain Akbar"
-tags: ["noImage"]
+tags: []
 aliases: ["jo-mushkil-ghari-mein-pukara-muhammad-2017"]
-published: false
+published: true
 romanLyrics: |-
   Jo mushkil ghari meiṅ pukaara Muhammad
   Madad ko chale aaye baarah Muhammad

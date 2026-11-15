@@ -25,7 +25,6 @@ romanLyrics: |-
   Kis meiṅ hai dam shaan us ki ghataye
   Kaabe ka yeh kehna hai, iman hai Kaabe ki
   Mehrab Abu Talib, minar Ali Maula
-
 ---
 
 جرات کے قبیلے کا سردار علی مولا

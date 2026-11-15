@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Hilal Naqvi"
-tags: ["noImage"]
+tags: []
 aliases: ["Karbala Aam Kare"]
-published: false
+published: true
 romanLyrics: |-
   Ae mere des ke logoṅ meri aawaaz suno
   Meri aawaaz mein maqtal ka ye aaghaaz suno

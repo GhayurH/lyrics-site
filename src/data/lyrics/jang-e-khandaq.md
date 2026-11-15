@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Takallum Mir"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haider ki Zulfiqaar ke jauhar dikhaauṅ ga
   Khundak na khaaeṅ aap main Khandaq sunaauṅ ga

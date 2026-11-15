@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Sajida Jamal Rizvi"
 reciter: "Ali Rizvi Sachey"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jab kat gaye darya pe alamdaar ke baazu
   Shaanoṅ se juda ho gaye Karraar ke baazu

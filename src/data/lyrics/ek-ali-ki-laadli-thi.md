@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Parh ke mehzar jab Madine se chala wo qaafila
   Qaasim o Abbas o Akbar aur Sibt-e-Mustafa

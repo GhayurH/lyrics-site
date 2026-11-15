@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Anees"
 reciter: "Sajid Jafri"
-tags: ["noImage"]
+tags: []
 aliases: ["Chalees Baras Rote"]
-published: false
+published: true
 romanLyrics: |-
   Chaalis baras rote na kiuṅ Aabid-e-muztar
   Taa umr samaaya raha aankhoṅ meiṅ wo manzar

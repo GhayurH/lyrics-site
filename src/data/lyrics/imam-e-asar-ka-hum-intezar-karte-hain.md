@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Rehan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: ["Imam E Asar Ka Hum Intezar Karte Hain"]
-published: false
+published: true
 romanLyrics: |-
   Imam-e-Asr ka ham intezaar karte haiṅ
   Ye intezaar ibaadat guzaar karte haiṅ

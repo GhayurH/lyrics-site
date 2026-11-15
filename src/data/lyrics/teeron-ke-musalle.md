@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nasir"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Teeron Ke Musalle"]
-published: false
+published: true
 romanLyrics: |-
   Tiroṅ ke musalle par wo sajda-e-shukraana
   Shabbir ne batlaaya Islam pe mar jaana

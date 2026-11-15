@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Wehab E Kalbi"]
-published: false
+published: true
 romanLyrics: |-
   Din tha Aashur ka Shabbir pe tanhaai thi
   Har taraf girya o maatam ki ghata chhaai thi

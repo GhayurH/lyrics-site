@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Irfan Haider"
-tags: ["noImage"]
+tags: []
 aliases: ["Saaqi Altash", "اے سقی باب الحویج اے سکینہ کے چچا"]
-published: false
+published: true
 romanLyrics: |-
   Ae saaqi Baab-ul-Hawaaij ae Sakina ke chacha
   Zainab o Kulsum ki chaadar haram ka aasra

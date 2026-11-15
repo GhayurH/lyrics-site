@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Hasan Sadiq"
 romanLyrics: |-
   Nok-e-sinaaṅ pe kehta tha ye sar Husain ka

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sajid Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Dekha jo zer-e-tegh gala apne bhai ka
   Dil paash paash ho gaya Zehra ki jaayi ka

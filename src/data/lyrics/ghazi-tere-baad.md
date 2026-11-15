@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "N. Sarwar & J. Jaffri"
 reciter: "Ali Shanawar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Pardes mein Husain ki basti ujar gayi
   Ghazi tere baad qayaamat guzar gayi

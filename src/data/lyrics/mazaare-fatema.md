@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Raza, Majid & Shabbir"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Dekho mazaar-e-Fatema kitna udaas hai
   Ya mazluma ya masuma ya Zahra

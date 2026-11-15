@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Salaam
 poet: "Ghayur"
 reciter: "Mukhtar Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Darona Jangal", "دارونا جنگل ہے رات اندھیری"]
-published: false
+published: true
 romanLyrics: |-
   Darauna jangal hai raat andheri
   Sitaare kuchh jhilmila rahe haiṅ

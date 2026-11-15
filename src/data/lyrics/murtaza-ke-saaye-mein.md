@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Syed Aimaad Naqvi"
 reciter: "Syeda Amber Naqvi"
-tags: ["noImage"]
+tags: []
 aliases: ["Murtaza Kai Sai Mai Syeda Amber Naqvi", "murtaza-kai-sai-mai-syeda-amber-naqvi"]
-published: false
+published: true
 recitationId: "murtaza-kai-sai-mai-syeda-amber-naqvi"
 romanLyrics: |-
   Mustafa ke saaye meiṅ aur Kibriya ke saaye meiṅ

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Sachey Bhai"
 romanLyrics: |-
   Ajib hai dastaan-e-gham ajib hai

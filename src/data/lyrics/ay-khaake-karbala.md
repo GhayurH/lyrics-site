@@ -7,44 +7,44 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Abid"
 reciter: "Sajid Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ae khaak-e-Karbala tu har khaak se juda hai
   Shabbir ka kafan hai Zainab ki tu rida hai
 
-  ۱
+  1
   Hai kalma go se afzal kitna maqaam tera
   Dargaah-e-shifa hai duniya mein naam tera
   Tu Sheh ke khuṅ mein tar wo diṅ se juda hai
 
-  ۲
+  2
   Sine pe teri likhi hai daastaaṅ un ki
   Shimr-e-laiṅ ke Sheh par dhaaye gaye sitam ki
   Maaṅ aayi hai lahad se aur us ka haal kya hai
 
-  ۳
+  3
   Beti ne Fatema ki rakhe qadam hai tujh par
   Pehre pe aayi ban kar wo hu bahu dilaawar
   Jo kuchh kiya hai bas wo Zainab ka hausla hai
 
-  ۴
+  4
   Khidmat mein Sheh ki Hur ka aana to yaad hoga
   Maqtal mein us ka pehle jaana to yaad hoga
   Is ka sila yaqinan rumaal-e-Fatema hai
 
-  ۵
+  5
   Akbar ke dil pe barchhi tu hai gawaah us ki
   Khaima-e-Shaah-e-diṅ mein ghash maaṅ ki aah us ki
   Lagta tha Umm-e-Laila khud aap se khafa se
 
-  ۶
+  6
   Tujh pe ae khaak baitha sar ko jhukaaye qaidi
   Aankhoṅ ko apne khuṅ ka darya banaaye qaidi
   Kaandhoṅ pe jis ke haaye kul wazn-e-Karbala hai
 
-  ۷
+  7
   Abid Husainiyoṅ ka ye khaak aasmaaṅ hai
   Sajdoṅ mein lahad mein ye un sab ki nigehbaan hai
   Dar asl nur-e-zaahir ye khaak-e-Karbala hai

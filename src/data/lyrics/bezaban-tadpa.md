@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: ["Bezaban Tadpa"]
-published: false
+published: true
 romanLyrics: |-
   Bezabaan tarpa jo kha ke tir-e-sitam ran meiṅ
   Zamin kaaṅp uthi ro ke aasmaan tarpa

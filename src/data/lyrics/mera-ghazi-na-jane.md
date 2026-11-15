@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Irfan Haider"
-tags: ["noImage"]
+tags: []
 aliases: ["Mera Ghazi Na Jane"]
-published: false
+published: true
 romanLyrics: |-
   Jab hue maqtul Ghaazi zulm ki shamshir se
   Marsiya nikla tha logoṅ ye dil-e-Shabbir se

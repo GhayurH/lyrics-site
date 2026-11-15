@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Asad Ali Asad"
 reciter: "Intezar Hussain Khan"
-tags: ["noImage", "Punjabi"]
+tags: ["Punjabi"]
 aliases: ["haq-nara-hyderi-ya-ali-intezar-hussain-khan-lyrics-punjabi-2025"]
-published: false
+published: true
 recitationId: "haq-nara-hyderi-ya-ali-intezar-hussain-khan-lyrics-punjabi-2025"
 # Source language: Punjabi; the Arabic-script edition retains Punjabi wording.
 romanLyrics: |-

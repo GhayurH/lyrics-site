@@ -6,9 +6,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zikr-e-Shah karke muhibboṅ ko rulaaya main ne
   Apna ghar mujraee jannat mein banaaya main ne

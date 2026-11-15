@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Waiz Sultanpuri"
-tags: ["noImage"]
+tags: []
 aliases: ["Boodha Baap"]
-published: false
+published: true
 reciter: "Ali Mohd. Sultanpuri"
 romanLyrics: |-
   Barchhi ki ani khench chuke jab Shah-e-waala

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Sayib Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Mukhtar Hussain"
 romanLyrics: |-
   Akbar jawaṅ ki laash pe maadar ke haiṅ ye bain

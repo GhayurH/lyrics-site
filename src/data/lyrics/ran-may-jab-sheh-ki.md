@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Marsiya"
 poet: "Mir Anees"
 reciter: "Sarfaraz Husain Khan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ran meiṅ jab Sheh ki taraf se Hur-e-dindaar aaya
   Kis bashaashat se uraata hua rahwaar aaya

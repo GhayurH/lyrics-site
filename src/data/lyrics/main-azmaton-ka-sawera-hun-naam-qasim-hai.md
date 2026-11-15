@@ -57,7 +57,6 @@ romanLyrics: |-
   Jidhar tha Azraq-e Shami udhar barhe Qasim
   Kuch is tarah se lain ko supurd-e naar kiya
   Ke ek waar meiṅ do aur do ko chaar kiya
-
 ---
 
 ۱

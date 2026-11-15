@@ -5,9 +5,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Najaf se Karb o Bala chal ke ja raha huṅ main
   Ali ke laal ke rauze pa ja raha huṅ main

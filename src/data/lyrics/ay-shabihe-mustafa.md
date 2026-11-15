@@ -7,48 +7,48 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zulfiqar Ahmed"
 reciter: "Jawad ul Hassan"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Shabihe Mustafa"]
-published: false
+published: true
 romanLyrics: |-
   Ae Shabih-e-Mustafa Akbar mere tum ho kahaaṅ
 
-  ۱
+  1
   Baad tere Karbala mein ik qayaamat aa gayi
   Qatl Sarwar ho gaye aur shaam-e-ghurbat aa gayi
   Har taraf phaila hua tha jalte khaimoṅ ka dhuaaṅ
 
-  ۲
+  2
   Waqt kaisa aa gaya Aal-e-Nabi hai be rida
   Durroṅ se bimaar par zaalim bhi karte haiṅ jafa
   Gham mein tere ro rahi hai ye zamin o aasmaaṅ
 
-  ۳
+  3
   Kaanoṅ se behna ke tere ab talak hai khuṅ rawaaṅ
   Chhini haiṅ zaalim ne us ke kaanoṅ se jo baaliyaaṅ
   Nil haiṅ gaaloṅ pe us ke hai gale mein resmaaṅ
 
-  ۴
+  4
   Tha bahut armaan mujh ko laauṅ ghar teri dulhan
   Tere sar pe sehra baandhuṅ ae mere tashna dahan
   Koi bhi armaan mera pura na ho paaya yahaaṅ
 
-  ۵
+  5
   Baandh kar baarah galoṅ ko ik rasan mein be haya
   Qaid kar ke le gaye hum logoṅ ko Ahl-e-jafa
   Dil mera phatta hai jab bhi sochti huṅ wo samaaṅ
 
-  ۶
+  6
   Likha tha Sughra ne khat mein ae mere Akbar jawaaṅ
   Lene kiuṅ aate nahiṅ mujh ko mere ae bhai jaaṅ
   Puchhe gi Sughra tujhe to kya kahe gi use maaṅ
 
-  ۷
+  7
   Paala tha jis ne wo Zainab gham mein tere roti hai
   Haaye Akbar haaye Akbar haaye Akbar kehti hai
   Tu bata de aake mujh ko kaise samjhaaye gi maaṅ
 
-  ۸
+  8
   Ye teri mujh se judaai hai bara mujh pe sitam
   Hashr tak bhule gi na duniya ae beta tera gham
   Hai tera shaair ye Ahmed aur Hasan hai nauha khwaaṅ

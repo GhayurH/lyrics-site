@@ -7,42 +7,42 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mohib Fazli"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Shaam Ke Musafir"]
-published: false
+published: true
 romanLyrics: |-
   Ae Shaam ke musaafir manzil teri kahaaṅ hai
   Zanjir hai badan par zakhmoṅ se khuṅ rawaaṅ hai
 
-  ۱
+  1
   Be parda aaj Zainab darbaar jaa rahi hai
   Sajjad par Khudaaya ye kaisa imtihaaṅ hai
 
-  ۲
+  2
   Ae shehr-e-bewafa ye hai inqilaab kaisa
   Kufe ki shaahzaadi Kufe mein be amaaṅ hai
 
-  ۳
+  3
   Sad haif ke musalmaaṅ baithe haiṅ kursiyoṅ par
   Jakra hua rasan mein bimaar saarbaaṅ hai
 
-  ۴
+  4
   Hum gir gaye zamiṅ par ammaaṅ bachaao hum ko
   Uṅtoṅ se girne waale bachchoṅ ki ye fughaaṅ hai
 
-  ۵
+  5
   Main Shaam ki musaafat tai kar ke aa gaya huṅ
   Rauze pe Mustafa ke Sajjad ka bayaaṅ hai
 
-  ۶
+  6
   Zainab ki be ridaai pe chup hai kiuṅ zamaana
   Is waqt kalma go ki insaaniyat kahaaṅ hai
 
-  ۷
+  7
   Chalta rahe ga yuṅ hi ye qaafila aza ka
   Hargiz na chhup sake gi ye ran ki daastaaṅ hai
 
-  ۸
+  8
   Hai ye dua Mohib ki is par karam ho Maalik
   Aulaad-e-Mustafa ka ye Mir nauha khwaaṅ hai
 # source_id: nohayonline:b544afbc598aba051865

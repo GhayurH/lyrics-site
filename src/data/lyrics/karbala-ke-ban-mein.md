@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 reciter: "Anj. Sabile Masumeen; Ashraf Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Karbala ke ban mein koi qaafila luta gaya
   Ae aziz o khandaan-e-Mustafa luta gaya

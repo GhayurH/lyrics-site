@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Naiza-e-zulm ne kab sina-e-Akbar tora
   Qalb-e-mehbub-e-Ilaahi dil-e-Haidar tora

@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sar Ali ka sajda-e-Khaaliq mein zarbat ke liye
   Hashr tak ik daagh-e-ruswaai hai ummat ke liye

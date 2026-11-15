@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Kumail Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Ameer Hasan Aamir"
 romanLyrics: |-
   Neze pe gaye jab Shah-e-Umam

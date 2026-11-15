@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 reciter: "Mazahir Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Majbur huṅ behna tumheiṅ dafna nahiṅ sakta
   Qaidi huṅ Sakina main kafan laa nahiṅ sakta

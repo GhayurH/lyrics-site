@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Anees"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Anj. Masoomeen"
 romanLyrics: |-
   Aina Aina Ae Ali Akbar

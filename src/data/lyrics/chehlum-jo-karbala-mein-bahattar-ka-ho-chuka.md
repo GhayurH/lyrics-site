@@ -19,7 +19,7 @@ romanLyrics: |-
   Qabroṅ Pe Shor Aal-e-Payambar Ka Ho Chuka
   Matam Meiṅ Tin Roz Rahe Shor o Shain Se
   Roye Lipat Lipat Ke Mazar-e-Husain Se
-  
+
   2
   Misle Charagh Gor-e-Gharibaṅ Pe Dil Jalaye
   Phuloṅ Ke Badle Qabroṅ Pe Lakht-e-Jigar Charhaye
@@ -27,7 +27,7 @@ romanLyrics: |-
   Besakhta Pukare Kaleja Pakar Ke Haye
   Kunbe Ke Saath Dakhla-e-Karbala Hua
   Laya Jo Tha Madine Se Hum Ko Wo Kya Hua
-  
+
   3
   Mar Jayeṅ Sab Yatimoṅ Ke Sar Par Rahuṅ To Maiṅ
   Bachpan Meiṅ Unki Qaid Ki Iza Sahuṅ To Maiṅ
@@ -35,7 +35,7 @@ romanLyrics: |-
   Maaṅ Huṅ To Maiṅ, Phuphi Huṅ To Maiṅ, Baap Huṅ To Maiṅ
   In Ka Bhi Daagh Aaj Mile Ya Ke Kal Mile
   Aise Nahiṅ Nasib Ke Khidmat Ka Phal Mile
-  
+
   4
   Maiṅ Jaanti Thi Shehr Basa Hoga Bhai Ka
   Hoga Hujum Qabr Pe Saari Khudai Ka
@@ -43,7 +43,7 @@ romanLyrics: |-
   Pursaṅ Bhi Yaaṅ Nahiṅ Koi Zahra Ki Jayi Ka
   Mun Dhanpne Ko Aap Hi Palla Bhi Leti Huṅ
   Aur Apne Dil Ko Aap Hi Pursa Bhi Deti Huṅ
-  
+
   5
   Chehlum To Kar Chuki Maiṅ Dil-Afgar Ya Husain
   Ab Rauza Kis Tarha Se Ho Tayyar Ya Husain
@@ -51,7 +51,7 @@ romanLyrics: |-
   Aakhir Kabhi To Aayeṅge Zawwar Ya Husain
   Takya Hai Kaar-Sazi-e-Parwardigar Par
   Is Dam To Sayebaṅ Bhi Nahiṅ Hai Mazar Par
-  
+
   6
   Hazrat Ki Qabr Hil Gayi Zainab Ke Bain Se
   Aa Kar Kaha Bashir Ne Ibn-e-Husain Se
@@ -59,7 +59,7 @@ romanLyrics: |-
   Chaliye Watan Ko Qabr-e-Shah-e-Mashraqain Se
   Abid Ne Pucha Kiuṅ Phuphi Amma Qubul Hai
   Wo Boliṅ Ikhtiyar Hai Kya, Haaṅ Qubul Hai
-  
+
   7
   Aaye The Kis Tarha Se Watan, Kis Tarha Chale
   Na Sheh Rahe Na Godiyoṅ Meiṅ God Ke Pale
@@ -67,7 +67,7 @@ romanLyrics: |-
   Ye Waqt Wo Tha Phirte The Sab Aankh Ke Tale
   Abid Se Bano Kehti Thiṅ Muhlat Qalil Hai
   Kuch Khaak-e-Paak Lelo Ke Sughra Alil Hai
-  
+
   8
   Ae Karbala-e-Sarwar-e-Dilgir Alwida
   Ae Qatl-Gah-e-Hazrat-e-Shabbir Alwida
@@ -75,7 +75,7 @@ romanLyrics: |-
   Ae Bhai Jaan, Jaati Hai Humshir, Alwida
   Kya Gham Nasib Hai Ye Nawasi Rasul Ki
   Tum Ne Mujawiri Na Hamari Qubul Ki
-  
+
   9
   Bhaiyya Utho Kujave Meiṅ Mujh Ko Tumhi Bithao
   Bhaiyya Maiṅ beNaqab Huṅ, Rehgiroṅ Ko Hatao
@@ -83,7 +83,7 @@ romanLyrics: |-
   Khaali Hai God Bhabhi Ki, Asghar Ko Lete Aao
   Sardar Sare Qafile Ke Aage Hote Haiṅ
   Tayyar Karwaṅ Hua Aur Aap Sote Haiṅ
-  
+
   10
   Kab Se Tumheiṅ Pukar Rahi Huṅ Maiṅ Khasta-Tan
   Haye Haye Jawab Bhi Nahiṅ Dete Shah-e-Zamaṅ

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Baba Nisaar Haideri"
 reciter: "Mukhtar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Rauze pe Mustafa ke Sughra diye jalaaye
   Ro ro ke nana jaan ko faryaad bhi sunaaye

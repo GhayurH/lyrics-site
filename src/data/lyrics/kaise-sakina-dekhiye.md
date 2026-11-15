@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"
 reciter: "Mukhtar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ji rahi hai Baaba jaan kaise Sakina dekhiye
   Nil chehre par haiṅ kitne mera chehra dekhiye

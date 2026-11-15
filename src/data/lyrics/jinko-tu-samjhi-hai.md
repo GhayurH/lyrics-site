@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anees Pehersari"
 reciter: "Tableegh-e-Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jin ko tuṅ samjhi hai Ae Hind yahaaṅ wo to nahiṅ
   Ham to aawaara watan qaidi haiṅ aur khaak nashiṅ

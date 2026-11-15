@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
 reciter: "Mir Sajjad Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Labbaik Ya Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Labbaik ya Husain labbaik ya Husain
 

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Jaun"
 reciter: "Irfan Husain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Roz-e-jaza adaalat-e-Parwardigaar mein
   Haazir haiṅ jo bhi muztarib hai ashk baar mein

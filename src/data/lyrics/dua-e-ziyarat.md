@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Azam Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Ahsan Hussain"
 romanLyrics: |-
   Ya Rab hameṅ bhi ziyaarat-e-Karbobala nasib ho

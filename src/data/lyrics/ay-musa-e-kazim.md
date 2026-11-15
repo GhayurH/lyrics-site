@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Rizwan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Musa E Kazim"]
-published: false
+published: true
 romanLyrics: |-
   Ae Musa-e-Kazim ae mere Baab-e-Hawaaij
   Mohtaaj-e-dua huṅ main tere dar ka gada huṅ

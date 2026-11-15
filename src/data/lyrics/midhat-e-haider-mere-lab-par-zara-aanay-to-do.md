@@ -41,7 +41,6 @@ romanLyrics: |-
   8
   Asliyat khul jayegi Khyber meiṅ sheikhoṅ ki, huzur
   Jo Payambar keh rahe haiṅ un ko farmane to do
-
 ---
 
 ۱

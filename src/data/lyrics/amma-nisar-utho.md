@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hilmi Afandi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Amma nisaar utho baaba ki jaan Sakina
   Gardan se kholti hai maaṅ resmaaṅ Sakina

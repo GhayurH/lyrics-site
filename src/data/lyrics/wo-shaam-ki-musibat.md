@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Sabina Jafri"
 reciter: "Mubarak"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Wo shaam ki musibat Zainab ke dil se puchho
   Darbaar ki wo aafat Zainab ke dil se puchho

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Anj. Sabile Masumeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jab Sakina ko qaza qaid mein aayi hogi
   Haye Aabid ne lahad kaise banaayi hogi

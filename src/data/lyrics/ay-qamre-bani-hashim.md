@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Taha Istefa"
 reciter: "Mir Arif Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Qamre Bani Hashim"]
-published: false
+published: true
 romanLyrics: |-
   Ae qamr-e-Bani Hashim gham kaise ho kam tera
   Sadiyoṅ se rulaata hai Abbas alam tera

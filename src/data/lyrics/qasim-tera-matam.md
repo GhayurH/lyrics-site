@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rafia Azeez"
 reciter: "Mir Arif Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Itihaas ke pannoṅ par Qasim tera maatam hai
   Karb o Bala ke ban mein Qasim tera maatam hai

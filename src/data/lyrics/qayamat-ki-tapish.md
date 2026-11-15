@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Qais Zangipuri"
 reciter: "Hadi Ali Khan Muslim"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Qayamat ki tapish hai Karbala ka dasht jalta hai
   Madine ka musaafir khaak par karwat badalta hai

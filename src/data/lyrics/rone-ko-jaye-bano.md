@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anees Pehersari"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Rone ko jaaye Baano-e-muztar kahaaṅ kahaaṅ
   Shauhar kahiṅ pisar kahiṅ dukhtar kahaaṅ kahaaṅ

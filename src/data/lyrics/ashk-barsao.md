@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Ghadeer Fatima"
 poet: "Raza Ali Khan Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Mominoṅ ke lab pe hai aah o buka
   Ashk barsaao Muharram aa gaya

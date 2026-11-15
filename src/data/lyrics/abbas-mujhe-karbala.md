@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Is gham ne azadaroṅ bahot mujhko rulaya
   Is saal bhi zawwaroṅ mein jab naam na aaya

@@ -1,12 +1,12 @@
 ---
 title: "Abbas Alamdar Balti Noha"
-language: "Roman Urdu"
-lang: "ur"
+language: "Balti"
+lang: bft
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage", "noUrdu"]
+tags: ["noUrdu"]
 aliases: ["abbas-alamdar-balti-noha"]
-published: false
+published: true
 # The API's writeup_roman contains incomplete Balti in Arabic script, not Roman Urdu; writeup_ur is empty.
 # Balti is preserved in its original script; the schema has no Balti language option.
 # A complete Balti Roman edition requires a Balti-qualified reviewer and the missing source text.

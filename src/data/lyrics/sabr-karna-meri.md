@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Najaf Murshidabadi"
 reciter: "Ali Bahadar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haaye Sakina haaye Sakina
   Sabr karna meri jaan Sakina

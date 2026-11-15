@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Mir Hassan Mir"
 romanLyrics: |-
   Ghurbat ki ghari ye aai aankhoṅ se chali binaai

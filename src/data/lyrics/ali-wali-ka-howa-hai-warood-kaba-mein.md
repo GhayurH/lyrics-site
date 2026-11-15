@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Khalique Hussain Mumtaz"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ali wali ka hua hai wurud Kaabe mein
   Falak se pahunchi sada-e-durud Kaabe mein

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Kaleem Bijnori"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ya Rab mere Ya Rab
   Saqi Abbas jari Ya Ilaahi mujhe Abbas sa beta de de

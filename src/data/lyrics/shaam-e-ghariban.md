@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Irfan Haider"
-tags: ["noImage"]
+tags: []
 aliases: ["Shaam E Ghariban"]
-published: false
+published: true
 romanLyrics: |-
   Haye shaam-e-gharibaṅ
   Ae shaam-e-gharibaṅ

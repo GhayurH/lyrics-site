@@ -7,9 +7,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sibt-e-Jaafar Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["muhammad-e-baqir-sibt-e-jafar", "Muhammad E Baqir Sibt E Jafar"]
-published: false
+published: true
 romanLyrics: |-
   1
   Imaam-e-har do sara the Muhammad-e-Baaqir

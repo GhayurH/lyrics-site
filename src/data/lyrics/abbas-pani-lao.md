@@ -11,37 +11,37 @@ aliases:
 published: true
 romanLyrics: |-
   Abbas Abbas Abbas pani lao
-  
+
   1
   Zainab ye roke boli bhaiya na dil dukhao
   Kya der ka sabab hai ye to hame batao
   Mashkiza bhar ke jaldi darya se laut aao
   Bachi ki tashnagi ko tum aake khud bujhao
-  
+
   2
   Wo ghamzada yakinan yaadoṅ may kho gayi hai
   Baba ko rote rote khud thak ke sogayi hai
   Yaṅ tashnalab sakina behosh ho gayi hai
   Pani ka deke chinta tum hi use jagao
-  
+
   3
   Hathoṅ may khaali kuze bache liye hue hai
   Gird-e-Sakina dekho halqa kiye hue haiṅ
   Bache na jaane kab ka pani piye hue haiṅ
   Bin aab mar na jaaye pani unhe pilao
-  
+
   4
   is bekasi pe haaye aata hai mujko rona
   Purhaul hai andhera aur khaak ka bichona
   Sine pe soni wali kya jaane aise sona
   Pyasi hai mustarib hai aakar use sulao
-  
+
   5
   Kanoṅ may al-atash ki awaaz aa rahi hai
   Aur uspe fauj-e-aada ye zulm dha rahi hai
   Unko dikha dikha kar pani baha raha hai
   Bache hai sheh ke pyase aada ko ye batao
-  
+
   6
   Ulfat ki aag dil may payham lagi hui hai
   Rouza tumhara dekhe ye hasrat-e-dili ha

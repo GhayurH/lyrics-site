@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: ["Ye Baade Nabi Ro"]
-published: false
+published: true
 romanLyrics: |-
   Ye baad-e-Nabi ro ke kehti thi Zehra
   Ke ek haath pehlu se uthta nahiṅ hai

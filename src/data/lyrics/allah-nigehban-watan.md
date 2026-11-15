@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Saeed Shaheedi"
 reciter: "Hasan Abbas Ahsan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Allah nigehban watan jati huṅ bhai
 

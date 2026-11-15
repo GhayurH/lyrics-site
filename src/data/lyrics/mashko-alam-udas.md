@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Asif Akhter Zaidi"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Mashk o alam udaas hai saqqa udaas hai
   Bint-e-shah-e-umam ko kai din ki pyas hai

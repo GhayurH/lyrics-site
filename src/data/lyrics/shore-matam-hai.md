@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shamsi"
 reciter: "Farhath Hussain"
-tags: ["noImage"]
+tags: []
 aliases: ["Shore Matam Hai"]
-published: false
+published: true
 romanLyrics: |-
   Shor-e-maatam hai shahidoṅ ke azaadaaroṅ mein
   Shaah mazlum ne sajde kiye talwaaroṅ mein

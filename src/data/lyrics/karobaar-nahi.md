@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Main azaadaar huṅ daulat se mujhe pyaar nahiṅ
   Gham-e-Husain ibaadat hai kaarobaar nahiṅ

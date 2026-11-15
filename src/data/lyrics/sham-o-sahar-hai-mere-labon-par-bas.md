@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Hasan Mir"
 reciter: "Mir Hasan Mir; Sajjad Naqvi"
-tags: ["noImage"]
+tags: []
 aliases: ["sham-o-sahar-hai-mere-laboon-par-bas-lyrics-2018", "Sham O Sahar Hai Mere Laboon Par Bas Lyrics 2018"]
-published: false
+published: true
 romanLyrics: |-
   Shaam o sahar hai mere laboṅ par bas yeh wazifa Mola Raza
   Mola Raza ya Mola Raza ya Mola Raza ya Mola Raza

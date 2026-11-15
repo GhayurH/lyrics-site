@@ -4,9 +4,9 @@ language: "English"
 lang: "en"
 direction: "ltr"
 kalamType: "Noha"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 # source_id: ziyaraat:aea377cac408fe9e60ca
 # source_url: https://www.ziyaraat.net/api/noha/2431
 # raw_sha256: 7b1ced0ad3acf1af722f1de4280fde8e7a988dd856671257b5b6382b600432f0

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Suroor Lakhnavi"
 reciter: "Anj. Muhibbane Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jaata hai Madine se Muhammad ka gharaana
   Sughra ko diye jaata hai zakhmoṅ ka khazaana

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Tauqeer Zaidi"
 reciter: "Nasir Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Bhai Hussaina"]
-published: false
+published: true
 romanLyrics: |-
   Shabbir se milne ke liye aayi hai Zainab
   Ae bhai Husaina

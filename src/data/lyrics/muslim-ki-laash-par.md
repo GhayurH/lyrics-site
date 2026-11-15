@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Yaqoob Jarchvi"
 reciter: "Ali Raza Irani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Muslim ki laash par ye Zehra ka marsiya hai
   Muslim teri shahaadat tamhid-e-Karbala hai

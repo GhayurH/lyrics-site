@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Naseer Turabi"
 reciter: "Raza Ali Khan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jo bandagan-e-Khuda naam par Khuda ke chale
   Furaat o Nil meiṅ bhi raasta bana ke chale

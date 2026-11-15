@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Afzal Ajiz"
 reciter: "Ali Haider Moon; Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: ["Zindan May Nahi Aati"]
-published: false
+published: true
 romanLyrics: |-
   Zindaaṅ mein nahiṅ aati kiuṅ taaza hawa bhaiya
   Sajjad Sakina ko marne se bacha bhaiya

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: ["Dukhtare Shabbir Ki"]
-published: false
+published: true
 romanLyrics: |-
   Dukhtar-e-Shabbir ki tashna dahaani dekh kar
   Khun aankhoṅ mein utar aata hai paani dekh kar

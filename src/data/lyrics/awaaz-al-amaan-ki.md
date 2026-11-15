@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Sardar"
-tags: ["noImage"]
+tags: []
 aliases: ["awaaz-allamaa-ki"]
-published: false
+published: true
 romanLyrics: |-
   Awaz al-amaan ki khaimoṅ se aa rahi hai
   Ghar Fatima ka mil kar ummat jala rahi hai

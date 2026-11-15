@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Aini Rizvi"
 reciter: "Amir Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zainab giri hai naaqe se Abbas ki tarah
   Haathoṅ ka girte waqt sahaara liye bina

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Arsalan Azmi"
 reciter: "Kazmi Brothers"
-tags: ["noImage"]
+tags: []
 aliases: ["Hydere Karar Tanha"]
-published: false
+published: true
 romanLyrics: |-
   Ali ki aankh mein aansu the aur hontoṅ pe ye nauha
   Jo dil ka haal hai mere kabhi ummat na samjhegi

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Moosi Raza Nazmi"
 reciter: "Afzal Mirza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Utho mere baba zamiṅ jal rahi hai
 

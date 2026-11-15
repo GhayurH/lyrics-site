@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Haider Khursheed"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Din-e-Ahmad ki baqa tu kiuṅ na Ghazi ye kahuṅ
   Karbala mein kar diya hai tu ne batil sar-niguṅ

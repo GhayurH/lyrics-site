@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: ["Mehendi Qasim Tere"]
-published: false
+published: true
 romanLyrics: |-
   Mehendi Qaasim tere haathoṅ meiṅ rachaaye maadar
   Aa jaa aa jaa tujhe sine se lagaaye maadar

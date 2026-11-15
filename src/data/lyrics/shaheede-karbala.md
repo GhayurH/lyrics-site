@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: ["Shaheede Karbala"]
-published: false
+published: true
 romanLyrics: |-
   Shahid-e-Karbala beshir Asghar
   Tabassum hai tera shamshir Asghar

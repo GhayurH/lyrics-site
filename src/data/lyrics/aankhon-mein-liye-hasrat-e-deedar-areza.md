@@ -6,9 +6,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Fakhri Meeruthi"
 reciter: "Wajhi Hasan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Aankhon Mein Liye Hasrat-e-Deedar Areza"]
-published: false
+published: true
 # source_id: tajpoints:a40c67d3900890cdfacf
 # source_url: https://tajpoints.com/2018/05/aankhon-mein-liye-hasrat-e-deedar-areza.html
 # raw_sha256: d2eecb2393c83780e447e55fb5f168de0961bbd90f55177225fd573b26d3c198

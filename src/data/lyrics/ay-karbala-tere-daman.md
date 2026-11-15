@@ -6,30 +6,30 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ae Karbala tere daaman mein daastaaṅ hai koi
   Husain ban na sakega na Karbala hai koi
 
-  ۱
+  1
   Ali ki beti huṅ naana hai Mustafa mere
   Main berida huṅ mere sar pe na rida hai koi
 
-  ۲
+  2
   Na laash-e-baaba pe jaauṅgi chhor de zaalim
   Ye keh ke nanhe se haathoṅ ko jorta hai koi
 
-  ۳
+  3
   Na puchh maadar-e-Asghar ke dil ki bechaini
   Tamaam raat gayi jhula jhula raha hai koi
 
-  ۴
+  4
   Khayaal aaya tha baazaar-e-Shaam ka shaayad
   Behen ne sar ko jo chuma to ro diya hai koi
 
-  ۵
+  5
   Sahaara meri zaifi ka kho gaya ya Rab
   Zamiṅ pe jhuk ke jawaani ko dhundta hai koi
 # source_id: nohayonline:e8d5d1ecb021e37708f1

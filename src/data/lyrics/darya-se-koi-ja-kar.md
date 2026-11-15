@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Darya se koi jaa kar Ghazi ko bula laaye
   Aisa na ho ghurbat mein ghar Zehra ka lut jaaye

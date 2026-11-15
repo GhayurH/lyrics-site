@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Raza Abbas Zaidi"
 romanLyrics: |-
   Shabbir aa rahe haiṅ maqtal mein

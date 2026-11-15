@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Naize pe kahaaṅ Shaam gaya hai sar-e-Abbas
   Rahwaar ke gardan mein bandha hai sar-e-Abbas

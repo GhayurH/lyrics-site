@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Jawad Jaffri"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aao Khalil dekho aaghaz hai fughaṅ ka
   Kaandhe zaif ke par, laasha hai naujawaṅ ka

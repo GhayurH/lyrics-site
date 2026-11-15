@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maaṅ dua karti thi Akbar tera sehra dekhuṅ
   Chaand chhup jaaye tera chaand sa chehra dekhuṅ

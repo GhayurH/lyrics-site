@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Agha Sarosh"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Saqqa-e-Sakina Abbas-e-alamdaar
   Haae Abbas haae Abbas haae Abbas

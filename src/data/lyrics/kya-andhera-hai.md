@@ -5,9 +5,9 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ae phuphi ammaaṅ meri kya andhera hai phuphi
 

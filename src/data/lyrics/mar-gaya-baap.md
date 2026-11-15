@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ajeeb waqt hai ye Fatima ke betoṅ pe
   Janaaza Baba ka ghar se uthaaeṅ wo kaise

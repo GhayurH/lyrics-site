@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Us dil mein kar talaash na hargiz wafa ke phul
   Khilte nahiṅ haiṅ jis mein Ali ki wila ke phul

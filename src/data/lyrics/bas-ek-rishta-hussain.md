@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Majid Raza Abidi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kashti-e-din-e-Khuda ka naakhuda Husain
   Ya Husain ya Husain Husain Husain

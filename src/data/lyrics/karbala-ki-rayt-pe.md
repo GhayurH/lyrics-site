@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hashim Bahadar"
 reciter: "Hashim Bahadar"
-tags: ["noImage"]
+tags: []
 aliases: ["Karbala Ki Rayt Pe"]
-published: false
+published: true
 romanLyrics: |-
   Karbala ki ret pe pyaasoṅ ki hai ye daastaan
   Hai Sakina ki sada pe tham gai nehr-e-rawaaṅ

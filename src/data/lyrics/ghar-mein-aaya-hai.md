@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Shiddat-e-sabr se mar jaaye na maaṅ Akbar ki
   Din Madine mein wo taqdir ne dikhlaaya hai

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Ijaz Azai Sialkot"
-tags: ["noImage"]
+tags: []
 aliases: ["Tera Rajab Ki Taza Hawa Ko Mubarkein"]
-published: false
+published: true
 romanLyrics: |-
   1
   Tabdil jo hui hai fiza ko mubaarakeṅ

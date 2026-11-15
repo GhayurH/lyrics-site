@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Hasan Mir"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["wo-mola-raza-hai-mir-hasan-mir", "Wo Mola Raza Hai Mir Hasan Mir"]
-published: false
+published: true
 romanLyrics: |-
   Woh jis ki Riza Khaaliq-e-Akbar ki Riza hai
   Jannat ki sanad jis ki ziyaarat ka sila hai

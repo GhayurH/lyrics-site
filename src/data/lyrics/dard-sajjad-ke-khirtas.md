@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Afzal Hussain Najfi"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Dard Sajjad ke qirtaas pe laauṅ kaise
   Haaye rota hai qalam lafz banaauṅ kaise

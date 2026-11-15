@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Zahra Ke Baba"]
-published: false
+published: true
 romanLyrics: |-
   Ae Zahra ke baba ae Shah-e-Madina
   Yuṅ beti ko teri sataaya gaya hai

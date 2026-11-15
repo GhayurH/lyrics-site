@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Aijaz Rizvi"
 reciter: "Aqif Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kis sher ki aamad hai ke ran kaaṅp raha hai
   Ran ek taraf charkh-e-kohan kaaṅp raha hai

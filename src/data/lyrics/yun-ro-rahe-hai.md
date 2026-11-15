@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Yuṅ ro rahe haiṅ dekh ke Zainab ko Murtaza
   Shaayad khayaal aaya ho baazaar-e-Shaam ka

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Irfan Haider, Zeeshan Abidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Raza Abbas Zaidi"
 romanLyrics: |-
   Akbar teri behna ko teri yaad sataati hai

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Safdar Abbas"
 poet: "Altaf Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ghar se jo Zehra ki mayyat uthi
   Ghar mein Ali ki qayaamat hui

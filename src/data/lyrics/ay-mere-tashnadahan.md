@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hassan"
 reciter: "Muslim Jafri"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Mere Tashnadahan"]
-published: false
+published: true
 romanLyrics: |-
   Tha ye Baano ka bayaaṅ
   Ae mere tashna dahaaṅ

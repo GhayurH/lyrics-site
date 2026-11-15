@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Pahunche sarhaane bhaai ke jab Shaah-e-Karbala
   Ghaazi ne apni aakhri saaṅsoṅ mein di sada

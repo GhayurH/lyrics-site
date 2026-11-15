@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Bilal Kazmi"
 reciter: "Mukhtar Hussain Fatehpuri"
-tags: ["noImage"]
+tags: []
 aliases: ["ye-khushbu-aur-ye-saya-bolta-hai-mukhtar-hussain-fatehpuri"]
-published: false
+published: true
 romanLyrics: |-
   Ye khushbu aur ye saaya bolta hai
   Ali guzre haiṅ raasta bolta hai

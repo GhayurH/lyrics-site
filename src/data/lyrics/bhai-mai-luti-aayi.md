@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Naqvi Najaf"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: ["Bhai Mai Luti Aayi"]
-published: false
+published: true
 romanLyrics: |-
   Bhai main luti aayi huṅ Zainab ki sada hai
   Rassi ke nishaaṅ laayi huṅ Zainab ki sada hai

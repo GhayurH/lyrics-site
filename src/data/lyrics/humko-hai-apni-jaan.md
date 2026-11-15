@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Hum ko hai apni jaan se pyaara gham-e-Husain
   Qaaim rahe jahaaṅ mein Khudaaya gham-e-Husain

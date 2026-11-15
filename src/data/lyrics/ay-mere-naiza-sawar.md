@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Mazhar Abidi"
 reciter: "Irfan Haider"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Mere Naiza Sawar"]
-published: false
+published: true
 romanLyrics: |-
   Ek bachchi phul si jis ka Sakina naam tha
   Ro rahi thi Shaam ki raahoṅ mein wo kar ke buka

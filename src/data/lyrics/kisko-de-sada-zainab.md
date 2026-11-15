@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anees"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jab laasha-e-farzand-e-Nabi ho gaya paamaal
   Us waqt ajab haal mein thi Faatima ki aal

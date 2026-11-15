@@ -9,9 +9,9 @@ kalamType: "Manqabat"
 poet: "Banda-e-Momin"
 reciter: "Mir Hasan Mir; Hub-e-Ali"
 year: 2003
-tags: ["noImage", "Punjabi"]
+tags: ["Punjabi"]
 aliases: ["Yasrab Nu Jawana Aye", "Yasrab Nu Jawana Aye Lyrics In Punjabi 2003 Mir Hasan Mir", "yasrab-nu-jawana-aye-lyrics-in-punjabi-2003-mir-hasan-mir"]
-published: false
+published: true
 romanLyrics: |-
   Yasrab nu jaawna ae ral sehra gaawna ae
   Sarwar de ghar Ali di baraat aawna ae

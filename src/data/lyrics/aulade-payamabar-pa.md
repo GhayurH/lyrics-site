@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Taqi Abedi"
 reciter: "Raza Ali Khan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aulaad-e-Payambar pe ajab jaur o jafa hai
   Zanjir mein jakri hui ab Aal-e-Aba hai

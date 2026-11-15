@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: ["Sookha Gala Asghar"]
-published: false
+published: true
 romanLyrics: |-
   Ae maaṅ ke laadle baba ke sahaare
   Bahnoṅ ke dulaare ae chhe mahine waale

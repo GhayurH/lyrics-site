@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Irfan Haider"
-tags: ["noImage"]
+tags: []
 aliases: ["Aagaya Qafla", "Aagaya Khafela"]
-published: false
+published: true
 romanLyrics: |-
   Sadaat watan aa gaye
   Bibi Fizza ka hai marsiya

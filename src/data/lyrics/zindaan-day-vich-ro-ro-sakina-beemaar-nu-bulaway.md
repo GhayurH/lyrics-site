@@ -6,9 +6,9 @@ lang: "pa"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Khan Tassaduq Khan"
-tags: ["noImage"]
+tags: []
 aliases: ["Zindaan Day Vich Ro Ro Sakina Beemaar Nu Bulaway"]
-published: false
+published: true
 romanLyrics: |-
   Zindaan de vich ro ro Sakina bimaar nuṅ bulaawe
   Kaleyaaṅ qaid di kothi vich darni aaṅ main viraa kithay Shimr naa aa jaawe

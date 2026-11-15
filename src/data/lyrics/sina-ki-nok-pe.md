@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ather Murshidabadi"
 reciter: "Muzammil Mirza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sinaaṅ ki nok pe bhi Shaah sar utha ke chale
   Jahaaṅ ko taaqat-e-haq kya hai ye dikha ke chale

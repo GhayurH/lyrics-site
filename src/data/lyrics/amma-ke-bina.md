@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Ameer Hasan Aamir"
 poet: "Ainee Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ek roz shahzaadi ne Asma se ye kaha
   Main jaa rahi huṅ hujre mein karne ko ab dua

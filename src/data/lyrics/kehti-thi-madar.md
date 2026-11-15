@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Mohsin Shakeeb"
 reciter: Ali Zia Rizvi
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kehti thi maadar Ae Ali Akbar
   Ran se do awaaz mujhe

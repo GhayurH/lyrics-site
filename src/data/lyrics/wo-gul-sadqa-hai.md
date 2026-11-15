@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Salik Lakhnavi"
 reciter: "Faazil Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Wo gul sadqa hai tera ye kali teri badaulat hai
   Bahaar-e-baagh-e-imaan ae Ali teri badaulat hai

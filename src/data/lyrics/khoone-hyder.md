@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Salman Azmi"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Behta hai khun-e-Haider Kufe mein Karbala mein
   Zehra ka ghar luta hai haaye raah-e-Khuda mein

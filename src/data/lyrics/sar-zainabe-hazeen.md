@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Asif Mehdi"
 reciter: "Mustafa Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sar Zainab-e-haziṅ ka baazaar mein khula hai
   Is gham se sar Jari ka naize se gir raha hai

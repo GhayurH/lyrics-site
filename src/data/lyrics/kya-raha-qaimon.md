@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Shaam-e-gham aa gayi, shaam-e-gham aa gayi
   Kya raha khaimoṅ mein Shah ke ak udaasi reh gayi

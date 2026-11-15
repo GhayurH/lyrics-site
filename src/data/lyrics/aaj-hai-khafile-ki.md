@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Mir Mohsin Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Aaj Hai Khafile Ki"]
-published: false
+published: true
 romanLyrics: |-
   Aaj hai qaafile ki qaafila saalaar behan
   Utho bhaiya ke watan jaati hai lachaar behan

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sajjad se qadmoṅ se lipat kar royi zanjir
   Jab hataayi gayi qadmoṅ se to hat kar royi zanjir

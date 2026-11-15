@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Dilawar Hasan"
 poet: "Ishrat Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Apna sar pit ke kehti thi ye Laila Akbar
   Mar gaye tum hui wiraan meri dunya Akbar

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Salman Azmi"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Hussaina Hussaina"]
-published: false
+published: true
 romanLyrics: |-
   Husain Husain Husain Husain
   Husaina Husaina Husaina Husaina

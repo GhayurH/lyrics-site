@@ -7,9 +7,9 @@ lang: ur
 direction: rtl
 kalamType: Manqabat
 poet: "Iftekhar Haider"
-tags: ["noImage"]
+tags: []
 aliases: ["ghadeer-e-khum-mein-iftekhar-haider"]
-published: false
+published: true
 romanLyrics: |-
   Bar sar-e-mimbar-e-palaan Ghadeer-e-Khum mein
   Kis bulandi pe hai insaan Ghadeer-e-Khum mein

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Naqi Abbas"
 poet: "Najaf Murshidabadi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kahaaṅ hai Ghazi madad ko aa ja
   Husain tujh ko bula raha hai

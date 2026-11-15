@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Muneer Lakhnavi"
 reciter: "Afzal Mirza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jab hum ne suni masjid se azaaṅ
   Hamshakl-e-Payambar yaad aaye

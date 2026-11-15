@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aao Ae ahl-e-jahaaṅ aao Ae tifl o jawaaṅ
   Main sunaata huṅ tumheiṅ ek pyaase ki kahaani

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Izhaar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Shadman Raza"
 romanLyrics: |-
   Khinchi pisar ke sine se barchhi jo Shah ne

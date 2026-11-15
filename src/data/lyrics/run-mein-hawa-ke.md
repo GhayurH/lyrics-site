@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Iqbal Abedi"
 reciter: "Anj. Masumin"
-tags: ["noImage"]
+tags: []
 aliases: ["Run Mein Hawa Ke"]
-published: false
+published: true
 romanLyrics: |-
   Ran mein hawa ke jhoṅke nauha suna rahe haiṅ
   Chaliye Husain chaliye Qasim bula rahe haiṅ

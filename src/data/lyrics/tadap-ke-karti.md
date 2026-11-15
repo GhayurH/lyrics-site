@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar"
 reciter: "Irfan Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tha Karbala mein ajab imtehaan-e-tegh-e-Ali
   Wo ik nanhi si mayyat wo jaan-e-tegh-e-Ali

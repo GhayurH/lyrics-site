@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Haider Khursheed"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: ["Qabre Ali Asghar"]
-published: false
+published: true
 romanLyrics: |-
   Aaj tak masumiyat ko ro rahi taqdir hai
   Karbala mein qabr-e-Asghar sina-e-Shabbir hai

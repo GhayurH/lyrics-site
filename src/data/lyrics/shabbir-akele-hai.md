@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Baba Nisaar Haideri"
-tags: ["noImage"]
+tags: []
 aliases: ["Shabbir Akele Hai"]
-published: false
+published: true
 romanLyrics: |-
   Shabbir akele haiṅ kamar tut chuki hai
   Aur laash jawaaṅ saal ki maqtal mein pari hai

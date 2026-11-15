@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ghulam Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Mir Bober Ali"
 romanLyrics: |-
   Bhulo na mominoṅ kabhi Sarwar ki pyas ko

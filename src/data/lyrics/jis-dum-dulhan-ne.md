@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Raza Ali Khan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jis dam dulhan ne laash ke tukroṅ pe ki nigaah
   Nikli lahu mein dubi hui ek jigar se aah

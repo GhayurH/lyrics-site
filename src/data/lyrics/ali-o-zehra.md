@@ -7,10 +7,10 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Sajjad Mir"
 reciter: "Mir Sajjad Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["ali-o-zehra-mir-sajjad-mir"]
 recitationId: "ali-o-zehra-mir-sajjad-mir"
-published: false
+published: true
 romanLyrics: |-
   Fatima kya haiṅ ye darain ke Maula se suneiṅ
   Aur Haider ki sana Fatima Zahra se suneiṅ

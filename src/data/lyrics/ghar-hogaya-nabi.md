@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
 reciter: "Irfan Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ghar ho gaya Nabi ka barbaad Karbala mein
   Mardoṅ mein bas bache haiṅ Sajjad Karbala mein

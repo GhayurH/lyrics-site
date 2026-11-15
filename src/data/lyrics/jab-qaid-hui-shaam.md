@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ashraf"
 reciter: "Tableegh-e-Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jab qaid hui Shaam ke zindaaṅ mein Sakina
   Kehti thi ye ro kar mere Baba mere Baba

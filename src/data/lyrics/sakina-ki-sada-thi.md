@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Fakhri Meerthi"
 reciter: "Shareef Husain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sakina ki sada thi jald aao Ae mere ammu
   Mujhe wo chaand si surat dikhaao Ae mere ammu

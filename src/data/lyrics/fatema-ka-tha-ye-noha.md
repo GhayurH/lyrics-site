@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Ali Mohammed"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Fatema ka tha ye noha mere mazlum Husain
   Mujh ko aawaaz do beta mere mazlum Husain

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zulfiqar Ahmed"
 reciter: "Mir Mohsin Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Laashe pe kehti thi maaṅ ae mere Akbar jawaaṅ
   Hamshakl-e-payambar Ali Akbar Ali Akbar

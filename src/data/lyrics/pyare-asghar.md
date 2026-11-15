@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Yawar Yusufi"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maaṅ pukare laut aao mere pyare Asghar
   Jina mushkil hai mera ae maaṅ ke dulare Asghar

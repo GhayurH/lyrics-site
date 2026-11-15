@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: ["Bhool Paayi Sakina"]
-published: false
+published: true
 romanLyrics: |-
   Tanhaaiyaaṅ sarghoshiyaaṅ
   Haaṅ Sakina ki hai ye fughaaṅ

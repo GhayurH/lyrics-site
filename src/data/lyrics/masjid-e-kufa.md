@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sajid Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Masjid-e-Kufa se logoṅ aa rahi hai ye sada
   Jo Nabi ka jaanashiṅ tha wo Ali maara gaya

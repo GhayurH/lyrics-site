@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aarzu-e-dil-e-man mahram-e-dard-e-dil-e-man
   Ae gharib-e-Zahra jaan-e-Ali khun-e-Khuda

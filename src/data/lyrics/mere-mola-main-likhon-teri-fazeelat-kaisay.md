@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Nayab Hallauri"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Mere Maula main likhuṅ teri fazilat kaise
   Bara mushkil teri midhat ka safar lagta hai

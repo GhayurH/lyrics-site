@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nadeem Sarwar, Jawad Jaffri & Hilal Naqvi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kaisa pyaara naara hai ye
   Har dil ne pukaara hai ye

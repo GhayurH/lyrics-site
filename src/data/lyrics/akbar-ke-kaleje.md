@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Sajid Jafri"
 romanLyrics: |-
   Kis tarah kahe Maadar-e-Akbar se ye Sarwar

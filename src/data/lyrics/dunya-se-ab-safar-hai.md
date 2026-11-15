@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zaheer Jaffery"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Dunya se ab safar hai bimaar-e-Karbala ka
   Badla hua hai aalam gulzaar-e-Karbala ka

@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Javaid Mirza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Nasir Zaidi"
 romanLyrics: |-
   Akbar-e-naujawaṅ tujh ko dhundhuṅ kahaṅ

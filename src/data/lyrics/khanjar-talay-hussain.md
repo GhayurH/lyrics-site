@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Khanjar tale Husain hai tiroṅ ki jhari hai
   Aisi namaaz kis ne zamaane mein parhi hai

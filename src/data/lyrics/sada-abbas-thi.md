@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Dayam Najafi"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Waqt-e-aakhir pyaase hontoṅ ki sada Abbas thi
   Bhai tha khanjar ki zad par aur behen beaas thi

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Meer Nazeer Baqari"
 reciter: "Akhtar Lucknowi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Thi kisi ki dasht mein sada
   Haaye ham yatim ho gaye

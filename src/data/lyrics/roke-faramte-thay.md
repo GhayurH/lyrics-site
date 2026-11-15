@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Azadari Murshidabad"
-tags: ["noImage"]
+tags: []
 aliases: ["Roke Faramte Thay"]
-published: false
+published: true
 romanLyrics: |-
   Roke farmaate the har Bibi se Sarwar alwida
   Ae meri baali Sakina meri dukhtar alwida

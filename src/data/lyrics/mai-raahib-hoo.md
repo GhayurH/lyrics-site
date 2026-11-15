@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Arsalan Azmi"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Mai Raahib Hoo"]
-published: false
+published: true
 romanLyrics: |-
   Main raahib huṅ main raahib huṅ
 

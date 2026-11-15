@@ -11,37 +11,37 @@ aliases:
 published: true
 romanLyrics: |-
   Shaam aa rahi hai dil paar hazaro, sadme uthaye beti Ali ki
-  
+
   Haste hai saare baazar waale, roti hai haaye beti Ali ki
-  
+
   1
   Tha jis ka bhayi Abbas-e-Ghazi, hai aaj qaidi wo shahazadi
   Ye shor sun kar ghairat ke maare, kahiṅ mar na jaaye beti Ali ki
-  
+
   2
   Chaaro taraf hai mahaul aisa, jaise laga ho koyi tamasha
   Abbas aaja chadar urha jaa, ghabraa na jaaye beti Ali ki
-  
+
   3
   Barsaa rahe hai pathar sitamgar, lagte hai pathar Bibi ke sar per
   Bazu bandhe hai bebas hai khud ko, kaise bachaaye beti Ali ki
-  
+
   4
   Zulfe pakar kar Shimr-e layiṅ ne, maare tamaache tarpi Sakina
   Zainab ke dono bazu bandhe hai, kaise churaaye beti Ali ki
-  
+
   5
   Wada kiya tha usne khuda se, roshan karegi tera naam chahe
   Bazaar jaye darbaar jaye, zindan jaye beti ali ki
-  
+
   6
   Sajde bachaye kaaba bachaye, quran bachaye diṅ ko bachaye
   Farsh-e-aza par ashk-e-aza ko, Gohar banaye beti Ali ki
-  
+
   7
   Jana hai usko darbar shami, chaaro taraf hai majma sharabi
   Zainab ke sar par chadar nahi hai, kis tarha jaye beti ali ki
-  
+
   8
   Jo ke pali thi tukro pe unke, azaad hai wo adnaa kanizeiṅ
   Kaisi qayamat aayi hai Ya Rab, qaidi hai haaye beti ali ki

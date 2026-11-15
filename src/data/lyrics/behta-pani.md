@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Saqlain Akbar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aag sine mein lagaata raha behta paani
   Baad-e-aashur asiroṅ ne jo dekha paani

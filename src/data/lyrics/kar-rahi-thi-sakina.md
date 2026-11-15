@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Fakhri Meerthi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kar rahi thi Sakina fughaaṅ
   Kiuṅ nahiṅ aaye ae Baba jaaṅ

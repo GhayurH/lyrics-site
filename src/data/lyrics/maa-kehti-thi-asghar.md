@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maaṅ kehti thi Asghar tujhe sine mein chhupa luṅ
   Barsaat hai tiroṅ ki tujhe kaise bacha luṅ

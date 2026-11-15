@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zafar"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Ujde Huwe Kunbe"]
-published: false
+published: true
 romanLyrics: |-
   Ujre hue kunbe ki azaadaar hai Zainab
   Ae shaam-e-gharibaṅ teri saalaar hai Zainab

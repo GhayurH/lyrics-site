@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"
 reciter: "Parveiz Asghar Khan Party Sialkot"
-tags: ["noImage"]
+tags: []
 aliases: ["zindan-sakina-de-baba-dard-wadha-gaye-lyrics-punjabi-2011-bibi-sakina"]
-published: false
+published: true
 romanLyrics: |-
   Zindaaṅ Sakina de Baba dard wadhaa gaye
   Kannaaṅ de haaye zakhm mere rukhsaaraaṅ te aa gaye

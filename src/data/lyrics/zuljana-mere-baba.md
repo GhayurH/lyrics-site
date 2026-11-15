@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Zulfiqar Ahmed"
 reciter: "Jawad ul Hasan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zuljana Zuljana
 

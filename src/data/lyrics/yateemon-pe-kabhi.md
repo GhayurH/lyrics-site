@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Yatimoṅ pe kabhi logoṅ sitam dhaaya nahiṅ karte
   Kabhi taarik zindaaṅ mein unheṅ laaya nahiṅ karte

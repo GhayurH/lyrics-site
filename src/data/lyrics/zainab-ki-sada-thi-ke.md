@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Izzat Lakhnavi"
 reciter: "Izzat Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zainab ki sada thi ke na tarpao Sakina
   Lillaah jahaaṅ bhi ho chali aao Sakina

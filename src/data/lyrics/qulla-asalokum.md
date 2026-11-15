@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Bilal Kazmi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Qulla Asalokum"]
-published: false
+published: true
 romanLyrics: |-
   Qul laa asalukum alaihi ajran
   Illal mawaddata fil qurba

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hasan"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: ["Chala Jab Khafile"]
-published: false
+published: true
 romanLyrics: |-
   Chala jab qaafile ko le ke su-e-Kufa o Shaam
   Mera mazlum Imam

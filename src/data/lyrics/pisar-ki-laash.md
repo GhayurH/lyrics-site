@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Fitrat"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ba haale zaar Shah-e-Mashriqain aate haiṅ
   Sar apna pitte baa shor-e-shain aate haiṅ

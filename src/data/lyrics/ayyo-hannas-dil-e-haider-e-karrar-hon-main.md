@@ -6,10 +6,10 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Bilal Kazmi"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Ayyo Hannas Dil E Haider E Karrar Hon Main Mir Hasan Mir"]
 recitationId: "ayyo-hannas-dil-e-haider-e-karrar-hon-main-mir-hasan-mir"
-published: false
+published: true
 # source_id: tajpoints:cdd46f12d3820b337b2f
 # source_url: https://tajpoints.com/2025/02/ayyo-hannas-dil-e-haider-e-karrar-hon.html
 # raw_sha256: 42f6cb147efea3b5f8ac73804c4b99782db29074ee474c20038826a8b40f400e

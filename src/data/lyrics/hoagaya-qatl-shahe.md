@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Bober Ali"
 reciter: "Mir Bober Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Hoagaya Qatl Shahe"]
-published: false
+published: true
 romanLyrics: |-
   Ho gaya qatl shah-e-Karbobala waavaila
   Rote haiṅ pit ke sar ahl-e-aza waavaila

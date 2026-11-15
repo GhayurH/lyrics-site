@@ -8,9 +8,9 @@ kalamType: "Manqabat"
 poet: "Gohar Jarchvi"
 reciter: "Mukhtar Hussain Fatehpuri"
 recitationId: "khuwab-mein-jalwa-numa-mukhtar-hussain-fatehpuri"
-tags: ["noImage"]
+tags: []
 aliases: ["Khuwab Mein Jalwa Numa Mukhtar Hussain Fatehpuri", "khuwab-mein-jalwa-numa-mukhtar-hussain-fatehpuri"]
-published: false
+published: true
 romanLyrics: |-
   Khwaab mein jalwa numa jalwa-e-Sarkaar hua
   Main jo soya to muqaddar mera bedaar hua

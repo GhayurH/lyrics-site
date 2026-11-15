@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Hasan Imdad"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ghar Fatema Zehra ka ajab shaan ka ghar hai
   Ye wahi ki manzil hai ye Quraan ka ghar hai

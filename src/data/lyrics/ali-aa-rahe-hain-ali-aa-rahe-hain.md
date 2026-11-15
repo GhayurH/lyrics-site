@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Syed Hameed Abidi"
 reciter: "Minhaj Hasan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["ali-aa-rahe-hain-ali-aa-rahe-hain-1-4"]
-published: false
+published: true
 # source_id: tajpoints:5c06cfa3fa6befc83883
 # source_url: https://tajpoints.com/2018/03/ali-aa-rahe-hain-ali-aa-rahe-hain-1-4.html
 # raw_sha256: ad3629522698d1ad2107c402b61efd5a783ea368892620b57bc37f567405f637

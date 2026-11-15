@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Sajjad Mir"
 reciter: "Mir Sajjad Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["kehte-ho-haider-e-karrar-ki-batein-na-lyrics-2018"]
-published: false
+published: true
 romanLyrics: |-
   Kehte ho Haider-e-Karraar ki baateṅ na karo
   Sheikh ji ham se ye bekaar ki baateṅ na karo

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Sirsvi"
 reciter: "Kazmi Brothers"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jal chuke khaime yatimoṅ ke andhera reh gaya
   Raat roti reh gayi rota savera reh gaya

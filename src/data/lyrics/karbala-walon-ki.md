@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Gulzaar Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: Hasan Sadiq
 romanLyrics: |-
   Karbala walon ki zindaaṅ se rihaai ho gayi

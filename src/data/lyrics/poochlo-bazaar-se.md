@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Salamat Feroz"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Puchh lo baazaar se darbaar se zindaan se
   Kis tarah takraai Fizza zulm ke tufaan se

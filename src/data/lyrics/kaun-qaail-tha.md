@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Meer Nazeer Baqari"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ya Husain, ya Husain
   Kaun qaail tha salaami ke jinaaṅ aur bhi hai

@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Mir Takallum"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Shaam waloṅ na sataao
   Kehta tha muhaari ghurbat pe hamaari bas kar na rulaao

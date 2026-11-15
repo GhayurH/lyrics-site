@@ -12,27 +12,27 @@ published: true
 romanLyrics: |-
   Wo khun ro ke kehta raha zamane se
   Ridaeiṅ chino naa, logo mere gharane se
-  
+
   1
   Sawal-e-aab pe sone pe us ke rone pe
   Wo maarte the, sakina ko her bahaane se
-  
+
   2
   Bulaey kis tarha abbas ko madad kai liyai
   Wo berida thi, jhijhakti rahi bulane se
-  
+
   3
   Sulaya jaata tha bayhosh ker ke durroṅ se
   Jagaya jata tha, abid ko taaziane se
-  
+
   4
   Kuch is terha sar-e-kerbobala wo ujre the
   Ke dar rahe haiṅ, abhi tak wo ghar basaane se
-  
+
   5
   Kaha ye ganj-e-shahidaṅ mei baap ke sar ne
   Mujhai sakina, bulati hai qaid khaane se
-  
+
   6
   Rida-e-saani-e-zehra mei dhal gaya akbar
   Ghubaar utha jo laashoṅ ke thar tharaane se

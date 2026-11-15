@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Meer Nazeer Baqari"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Din dhala to rulaane ko shaam aa gayi
   Zulm Zainab pe dhaane ko shaam aa gayi

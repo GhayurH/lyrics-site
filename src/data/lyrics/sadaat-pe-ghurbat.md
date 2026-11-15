@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Kaleem Zafar"
 reciter: "Mukhtar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sadaat pe ghurbat mein ye shaam bhi aani thi
   Jaan Aabid-e-muztar ki Zainab ko bachaani thi

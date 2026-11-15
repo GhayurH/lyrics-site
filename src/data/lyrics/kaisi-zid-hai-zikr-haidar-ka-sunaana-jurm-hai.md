@@ -7,9 +7,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Saqlain Akbar"
-tags: ["noImage"]
+tags: []
 aliases: ["kaisi-zid-hai-zikar-haider-ka-sunana-jurm-hai-lyrics-2017", "Kaisi Zid Hai Zikar Haider Ka Sunana Jurm Hai Lyrics 2017"]
-published: false
+published: true
 romanLyrics: |-
   Kaisi zid hai zikr-e-Haidar ka sunaana jurm hai
   Tum kaho kya aayateṅ parhna parhaana jurm hai?

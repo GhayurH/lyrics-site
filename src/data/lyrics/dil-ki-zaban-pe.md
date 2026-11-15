@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Viqar Nagri"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Dil Ki Zaban Pe"]
-published: false
+published: true
 romanLyrics: |-
   Dil ki zabaaṅ pe naam rahega Husain ka
   Har ashk-e-gham sunaayega nauha Husain ka

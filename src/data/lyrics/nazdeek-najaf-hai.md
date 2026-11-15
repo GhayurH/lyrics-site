@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mujaahid Husain"
 reciter: "Hasan Abbaas Ahsan"
-tags: ["noImage"]
+tags: []
 aliases: ["Nazdeek Najaf Hai"]
-published: false
+published: true
 romanLyrics: |-
   Nazdik Najaf hai koi Haidar ko bula le
 

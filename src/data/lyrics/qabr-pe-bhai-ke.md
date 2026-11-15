@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Zeya Jalalpuri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Qabr pe bhai ke kehti thi ye ro kar Zainab
   Aayi hai Shaam ke zindan se chhut kar Zainab

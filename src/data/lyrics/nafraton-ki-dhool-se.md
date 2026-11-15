@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: ["Nafraton Ki Dhool Se"]
-published: false
+published: true
 romanLyrics: |-
   Nafratoṅ ki dhul se chehra hata dekhe ga kaun
   Ham haiṅ misl-e-aaina ham ko bhala dekhe ga kaun

@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akhtar Sirsivi"
 reciter: "Sajjad Ashraf Taqvi"
-tags: ["noImage"]
+tags: []
 aliases: ["Shadi Hai Syeda Se Janab E Ameer Ki Sajjad Ashraf Taqvi", "shadi-hai-syeda-se-janab-e-ameer-ki-sajjad-ashraf-taqvi"]
-published: false
+published: true
 romanLyrics: |-
   Shaadi hai Syeda se Janaab-e-Amir ki
   Baraat aa rahi hai Nabi ke wazir ki

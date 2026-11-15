@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Anees"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Toot Gayi Aas Meri"]
-published: false
+published: true
 romanLyrics: |-
   Tut gayi aas
   Tut gayi aas meri tut gayi aas

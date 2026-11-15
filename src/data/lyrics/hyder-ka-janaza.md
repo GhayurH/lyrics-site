@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Izhaar"
 reciter: "Sajjad & Mesum Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Wasi-e-Mustafa ka kul ke Maula ka janaaza hai
   Amaama jis ka khuṅ mein bhar gaya us ka janaaza hai

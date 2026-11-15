@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sibte Jafar"
-tags: ["noImage"]
+tags: []
 aliases: ["Ye Kaunsi Mastoor Hai"]
-published: false
+published: true
 romanLyrics: |-
   Ye kaunsi mastur hai
   Kya maang rahi hai

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: ["Jhoola Tera Khaali"]
-published: false
+published: true
 romanLyrics: |-
   Jhula tera khaali hai pareshaaṅ hai maadar
   Maiṅ haathoṅ ko phailaati huṅ aa ja Ali Asghar

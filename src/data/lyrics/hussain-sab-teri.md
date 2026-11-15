@@ -5,9 +5,9 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Salaam
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Husain sab teri qurbaaniyoṅ ka sadqa hai
   Ke aaj tak dil-e-insaaniyat dharakta hai

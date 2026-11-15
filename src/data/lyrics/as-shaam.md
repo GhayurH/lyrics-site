@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Anjuman-e-Hyderi Ali Basti"
 poet: "Shahid Jafer"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kisi bimaar ke hontoṅ pe raha ek hi naam
   Haaye ash-Shaam haaye ash-Shaam haaye ash-Shaam

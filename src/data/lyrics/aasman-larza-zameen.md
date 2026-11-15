@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Mir Takallum"
 reciter: "Mukhtar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: ["Aasman Larza Zameen"]
-published: false
+published: true
 romanLyrics: |-
   Aasman larza zamiṅ kaanpi samandar roe
   Qabr meiṅ maaṅ ke liye jab Ali Asghar roe

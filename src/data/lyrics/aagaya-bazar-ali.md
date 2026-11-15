@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ahmed Naved"
 reciter: "Sajid Jafri"
-tags: ["noImage"]
+tags: []
 aliases: ["Aagaya Bazar Ali"]
-published: false
+published: true
 romanLyrics: |-
   Aa gaya bazaar Ali Akbaram
   Ghash mein hai bimar Ali Akbaram

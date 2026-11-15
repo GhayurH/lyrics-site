@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hilal Rizvi"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Laasha-e-Akbar utha rahe haiṅ Husain
   Ya Ali kehte jaa rahe haiṅ Husain

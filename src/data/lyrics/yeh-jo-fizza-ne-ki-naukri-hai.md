@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Imdad Husain"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["yeh-jo-fizza-nay-ki-nokri-hai-mir-hasan-mir", "Yeh Jo Fizza Nay Ki Nokri Hai Mir Hasan Mir"]
-published: false
+published: true
 romanLyrics: |-
   Yeh jo Fizza ne ki naukri hai shahanshaahi se bhi qimati hai
   Habash ko chhor kar us se muṅh mor kar Sayyida ki yeh jo Fizza ne ki naukri hai

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Jawad Jaffri"
 reciter: "Rizwan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Deti hai zanjir gawaahi kis ka hai taabut utha
   Chaudah saal ke baad hua hai zindaaṅ se mazlum riha

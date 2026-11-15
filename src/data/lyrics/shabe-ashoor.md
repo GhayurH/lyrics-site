@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Khursheed Asri"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: ["Shabe Ashoor"]
-published: false
+published: true
 romanLyrics: |-
   Haye haye haye
   Ghabraegi Zainab ghabraegi Zainab

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Tu Padta Ja Quran"]
-published: false
+published: true
 romanLyrics: |-
   Mere maaṅ jaaye teri Zainab ki
   Chaadar tujh par qurbaan

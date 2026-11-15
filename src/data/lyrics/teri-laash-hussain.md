@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shams Rizvi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Utaaruṅ kaise main tiroṅ se teri laash Husain
   Pisar ke pehlu mein baithi ye kehti thi Zehra

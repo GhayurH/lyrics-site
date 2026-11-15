@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
 reciter: "Mir Sajjad Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Tum Na Aana Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Zakhmoṅ se chur chur safir-e-Husain tha
   Phir bhi kate laboṅ pe ye Muslim ke thi sadaa

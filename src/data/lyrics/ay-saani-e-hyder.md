@@ -5,9 +5,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Saani E Hyder"]
-published: false
+published: true
 romanLyrics: |-
   Ae saani-e-Haider-e-Karraar
   Alamdar Alamdar Alamdar

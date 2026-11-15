@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Qambar"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jhutlaai gayi Fatima Zahra ki gawaahi
   Ya Ahmad-e-Mukhtaar duhaai hai duhaai

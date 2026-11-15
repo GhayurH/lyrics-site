@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Ali Khan Lakhnavi"
 reciter: "Ghadeer Fatima"
-tags: ["noImage"]
+tags: []
 aliases: ["Mayyat Hassan Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Mayyat Hasan Husain padar ki uthaate haiṅ
   Ahl-e-Madina khaak saroṅ par uraate haiṅ

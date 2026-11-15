@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Manqabat
 poet: Mohsin Naqvi
-tags: ["noImage"]
+tags: []
 aliases: ["Mukhtar E Aal E Muhammad Mohsin Naqvi", "mukhtar-e-aal-e-muhammad-mohsin-naqvi"]
-published: false
+published: true
 romanLyrics: |-
   1
   Khurshid-e-shujaat ki kiran hai mera Mukhtar

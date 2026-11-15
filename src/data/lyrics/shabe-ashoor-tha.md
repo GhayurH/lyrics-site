@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Mir Takallum"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Shab-e-Aashur khaima-e-Kulsum se aati thi sada
   Haaye haaye haaye

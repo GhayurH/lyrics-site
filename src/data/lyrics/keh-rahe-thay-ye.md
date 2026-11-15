@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ishrat Lakhnavi"
 reciter: "Dilawar Hasan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Keh rahe the ye Sarwar khat likha hai Sughra ne
   Ae jamaal-e-Paigambar khat likha hai Sughra ne

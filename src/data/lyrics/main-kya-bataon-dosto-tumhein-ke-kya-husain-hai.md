@@ -2,11 +2,11 @@
 title: "Main Kya Batauṅ Dosto Tumheiṅ Ke Kya Husain Hai"
 language: "Urdu"
 direction: "rtl"
-tags: ["noImage"]
+tags: []
 aliases: ["main-kya-bataon-dosto-tumhein-ke-kya-hussain-hai-mir-hasan-mir"]
 lang: "ur"
 kalamType: "Manqabat"
-published: false
+published: true
 # source_id: tajpoints:34a5841924b579fc6175
 # source_url: https://tajpoints.com/2022/10/main-kya-bataon-dosto-tumhein-ke-kya.html
 # raw_sha256: 1b7ebfd68bacd3c781a0fbaad1be774546df9f365978202d02cee495b010bd54

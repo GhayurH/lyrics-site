@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Najam Azmi"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Bali Sakina Ki Ye"]
-published: false
+published: true
 romanLyrics: |-
   Bali Sakina ki thi ye fughaaṅ
   Ae mere Baba ae mere Baba

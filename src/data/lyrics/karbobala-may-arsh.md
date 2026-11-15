@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Uruj Bijnori"
 reciter: "Tabligh-e-Imamia"
-tags: ["noImage"]
+tags: []
 aliases: ["Karbobala May Arsh"]
-published: false
+published: true
 romanLyrics: |-
   Karb o Bala mein arsh ke taare bikhar gaye
   Maqtal mein bhuk o pyaas ke maare bikhar gaye

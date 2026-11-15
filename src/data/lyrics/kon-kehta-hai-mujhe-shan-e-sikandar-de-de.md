@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Naat"
 poet: "Sibt-e-Jafar"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kaun kehta hai mujhe shaan-e-Sikandar de de
   Mere Maabud mujhe faqr-e-Abu Zar de de

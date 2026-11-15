@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Kashif Abbas Kashif"
-tags: ["noImage"]
+tags: []
 aliases: ["Shah E Deen Ko Woh Deen Kehtey Hain"]
-published: false
+published: true
 romanLyrics: |-
   Pir Khwaaja Muin kehte haiṅ
 

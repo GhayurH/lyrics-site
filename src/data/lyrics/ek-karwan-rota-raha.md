@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Irtaza Johnpuri"
 reciter: "Ahsan Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Berida beaasra ek kaarwaaṅ rota raha
   Kaarwaaṅ kya kaarwaaṅ ka saarbaaṅ rota raha

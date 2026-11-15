@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: ["Mai Kaise Doongi"]
-published: false
+published: true
 romanLyrics: |-
   Main kaise duṅgi yatimoṅ ko hausla Baba
   Bujha rahi hai diye Shaam ki hawa Baba

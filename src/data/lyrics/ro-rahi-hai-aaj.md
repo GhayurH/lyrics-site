@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Afzal Hussain Najfi"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haaye Husain
   Ro rahi hai aaj tak Shabbir khaak-e-Karbala

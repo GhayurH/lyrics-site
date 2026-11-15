@@ -7,10 +7,10 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Takallum Mir"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
 recitationId: "faqeer-ki-sada-hussain-hai-mir-hasan-mir"
-published: false
+published: true
 romanLyrics: |-
   Jo bandagi ka naaz hai haqiqat-e-namaaz hai wo banda-e-Khuda Husain hai
 

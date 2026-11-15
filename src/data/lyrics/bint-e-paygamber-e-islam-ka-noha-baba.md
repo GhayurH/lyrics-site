@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Kamran Haider"
 reciter: "Syed Askari Hassan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Bint E Payambar E Islam Ka Noha Askari Hassan", "bint-e-payambar-e-islam-ka-noha-askari-hassan"]
-published: false
+published: true
 romanLyrics: |-
   Bint-e-Paygamber-e-Islam ka noha Baba
   Zakhm pehlu ka dikhaaye kise Zahra Baba

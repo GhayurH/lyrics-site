@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Sada e Gham"
 reciter: "Hasan Ayaz Jafri"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Ghairat-e-maryam"]
-published: false
+published: true
 romanLyrics: |-
   Ae ghairat-e-Maryam tera baazaar mein aana
   Na bhul sake ga tujhe taa hashr zamaana

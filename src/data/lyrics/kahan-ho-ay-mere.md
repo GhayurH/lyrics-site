@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Ahsan Hussain"
 poet: "Azam Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zainab ko jo bazaar mein zaalim ne phiraaya
   Us waqt lab pe tha ye kahaaṅ ho ae mere Ghazi

@@ -6,9 +6,9 @@ direction: "ltr"
 kalamType: "Noha"
 haal: "واپسیِ مدینہ"
 romanHaal: "Waapsi-e-Madina"
-tags: ["noImage", "noUrdu"]
+tags: ["noUrdu"]
 aliases: ["UTH NANA MERE DARD WANDAA MAIN VEER KUHA K AI HAN"]
-published: false
+published: true
 # source_id: ziyaraat:986f199d7fcf6cee5422
 # source_url: https://www.ziyaraat.net/api/noha/2887
 # raw_sha256: 82982ba04a5d909215d6bf6f4a1251f11b09c7dd45f2e979e231e2dbd28a6492

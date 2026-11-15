@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hasan Ali Fughan"
 reciter: "Hadi Ali Khan Muslim"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Beti Ali ki turbat-e-Zehra pe aai hai
   Kurta lahu bhara hua bhaai ka laai hai

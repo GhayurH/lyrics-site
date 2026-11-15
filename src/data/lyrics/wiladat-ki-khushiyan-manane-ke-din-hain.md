@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sibt-e-Jafar"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["wiladat-ki-khushiyan-manane-ke-din-hain-mir-hasan-mir", "Wiladat Ki Khushiyan Manane Ke Din Hain Mir Hasan Mir"]
-published: false
+published: true
 romanLyrics: |-
   Wilaadat ki khushiyaaṅ manaane ke din haiṅ
   Yehi to muqaddar banaane ke din haiṅ

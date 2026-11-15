@@ -7,9 +7,9 @@ lang: ur
 direction: rtl
 kalamType: Manqabat
 poet: "Mohsin Naqvi"
-tags: ["noImage"]
+tags: []
 aliases: ["ghadeer-e-khum-mohsin-naqvi"]
-published: false
+published: true
 romanLyrics: |-
   Woh Ghadeer-e-Khum mein azaaṅ hui woh saji khayaal ki anjuman
   Woh rukh-e-shuur pe zu pari woh barha hayaat ka baaṅkpan

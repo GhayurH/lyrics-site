@@ -12,42 +12,42 @@ published: true
 romanLyrics: |-
   Kaash Akbar Tere Jaisa Tera Beta Hota
   Tujhko Andaza Mere Dard-e-Jigar Ka Hota
-  
+
   1
   Maangne Aata Jawani Meiṅ Woh Marne Ki Riza
   Aur Beta Bhi Tera Hota Mohammad Jaisa
   Puch Kar Dil Se Bata Haal Tera Kya Hota
-  
+
   2
   Kis Tarha Karta Jawaṅ Laal Ko Rukhsat Beta
   Kaise Deta Use Marne Ki Ijazat Beta
   Teri Behno Ne Jise Naaz Se Paala Hota
-  
+
   3
   Kaampte Haath Larazte Hue Saansoṅ Ke Qadam
   Kis Tarha Dekhta Aankhoṅ Se Nikalte Hue Dam
   Pyaar Bhi Us Se Tujhe Sab Se Zyada Hota
-  
+
   4
   Tere Hisse Meiṅ Meri Jaisi Gharibi Aati
   Waqt Se Pehle Mere Laal Zaifi Aati
   Woh Pisar Saamne Jab Khun Meiṅ Duba Hota
-  
+
   5
   Dekhta Aankhoṅ Se Jab Nur-e-Nazar Ke Tukre
   Baap Ke Munh Se Nikal Aate Jigar Ke Tukre
   Saath Barchi Ke Jo Haathoṅ Pe Kaleja Hota
-  
+
   6
   Khaak Par Khuṅ Meiṅ Tarapti Ho Nabi Ki Tasvir
   Sabr Kar Leta Bata Haath Meiṅ Rakh Ke Shamshir
   Jab Ke Haste Hue Qaatil Ko Bhi Dekha Hota
-  
+
   7
   Tujhko Maalum Bhi Hota Na Uthega Ye Pisar
   Kya Tere Dil Pe Guzarti Ye Bata De Akbar
   Uski Sughra Ka Bhi Khat Aane Hi Waala Hota
-  
+
   8
   Bas Ye Kehte The Takallum Shah-e-Waala Ro Kar
   Hoti Akbar Teri Aulaad Zamane Meiṅ Agar

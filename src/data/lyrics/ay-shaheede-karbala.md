@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Kausar"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Shaheede Karbala"]
-published: false
+published: true
 romanLyrics: |-
   Ae shaheed-e-Karbala tujh par salaam
   Ae zabih-e-Nainawa tujh par salaam

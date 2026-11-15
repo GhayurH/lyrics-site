@@ -7,10 +7,10 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Zain Azmi"
 reciter: "Mukhtar Hussain Fatehpuri"
-tags: ["noImage"]
+tags: []
 aliases: []
 recitationId: "abbas-dekhtay-hain-mukhtar-hussain-fatehpuri"
-published: false
+published: true
 romanLyrics: |-
   Ghazi Jari Ghazanfar
   Sher-e-Khuda ke dilbar

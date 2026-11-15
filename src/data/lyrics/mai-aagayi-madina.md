@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Mai Aagayi Madina"]
-published: false
+published: true
 romanLyrics: |-
   Ro ro ke pukaari naana ki dulaari
   Naana ae mere naana main aa gayi Madina

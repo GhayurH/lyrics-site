@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Baba Nisaar Haideri"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 # source_id: nohayonline:558a6476cdf55e3b6617
 # source_url: https://www.nohayonline.com/details_content.php?id=3230
 # raw_sha256: 8125a06969992674eac1f091bbf4d37b2c6b8f22730ea25ffa4b905821749e2e

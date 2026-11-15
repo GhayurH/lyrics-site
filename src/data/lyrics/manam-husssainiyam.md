@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Abbas"
 reciter: "Muslim Jafri"
-tags: ["noImage"]
+tags: []
 aliases: ["Manam Husssainiyam"]
-published: false
+published: true
 romanLyrics: |-
   Husainiyam qalandaram mastam
   Banda-e-Shaah-e-Karbala hastam

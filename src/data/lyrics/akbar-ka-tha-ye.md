@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Ameer Hasan Aamir"
 romanLyrics: |-
   Akbar ka tha ye noha Sughra maaf karna

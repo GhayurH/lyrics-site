@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Khat Fatema Sughra ne ye baba ko likha hai
   Bimaar huṅ marti huṅ ye sab tum ko pata hai

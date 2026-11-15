@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sajid Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Khinchti hui zamiṅ pa jo zanjir-e-paa chali
   Likhti hui mazaalim-e-jaur o jafa chali

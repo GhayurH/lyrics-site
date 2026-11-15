@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Majid Raza Abidi"
 reciter: "Mukhtar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Be rida Bibiyoṅ ki qaafila saalaari hai
   Paaoṅ mein aable haiṅ aur safar jaari hai

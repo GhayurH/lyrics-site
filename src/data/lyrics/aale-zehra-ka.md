@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Jaffer Tashna"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aaram kahaṅ hai aaram kahaṅ hai
   Zainab o Kulsum ko aaram kahaṅ hai

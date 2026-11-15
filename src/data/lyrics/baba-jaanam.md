@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar, R. Azmi & M. Qasemi"
 reciter: "Ali Shanawar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Baba jaanam baba jaanam baba jaanam
   Main su-e-zindaan chali aap ki naazoṅ ki pali

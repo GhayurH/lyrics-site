@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: ["Bewarison Ka Kya"]
-published: false
+published: true
 romanLyrics: |-
   Bewarisoṅ ka kya hai thikaana bataaiye
   Jaate ho kis pe chhor ke Maula bataaiye

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Farhan Ali Waris"
 romanLyrics: |-
   Akbar ka lasha dekh ke khud mar gaye Husain

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Sahir Faizabadi"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Karbala waaloṅ meiṅ dekho hausla Islaam ka
   Sar kata ke sar kiya hai maaraka Islaam ka

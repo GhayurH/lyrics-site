@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Ali Khan Lakhnavi"
 reciter: "Ghadeer Fatima"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tha Bano ka yehi naala meri dukhiya Khuda haafiz
   Lahad hai ab tera hujra meri dukhiya Khuda haafiz

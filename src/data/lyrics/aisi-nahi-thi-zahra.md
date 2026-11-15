@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Nasir Asghar Party (SM)"
 romanLyrics: |-
   Dekho Madine waloṅ zakhmi hai jis ka chehra

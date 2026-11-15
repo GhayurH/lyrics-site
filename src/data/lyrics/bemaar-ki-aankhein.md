@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bimaar ki aankheṅ haiṅ Akbar tere raahoṅ par
   Divaareṅ bhi roti haiṅ Sughra ki karaahoṅ par

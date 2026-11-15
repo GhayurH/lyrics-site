@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Iqbal Abedi"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: ["Pamaal Hoke Hazrate"]
-published: false
+published: true
 romanLyrics: |-
   Paamaal ho ke Hazrat-e-Qasim guzar gaye
   Phuloṅ ki tarah dasht-e-bala mein bikhar gaye

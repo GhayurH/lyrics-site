@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Maut Ki Lori Usay"]
-published: false
+published: true
 romanLyrics: |-
   Maut ki lori use ran mein qaza deti hai
   Aur maaṅ khaimoṅ mein jine ki dua deti hai

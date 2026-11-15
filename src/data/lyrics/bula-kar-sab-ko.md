@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Alamdar Razvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bula kar sab ko Hazrat ne kaha ae Karbala waloṅ
   Hameṅ darkaar hai thori si jaa ae Karbala waloṅ

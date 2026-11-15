@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Anj. Sabile Masumeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tiroṅ pe tir nezoṅ par neze chalaate haiṅ
   Halchal hai fauj-e-Shaam mein Abbas aate haiṅ

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Asad Ali Asad"
 reciter: "Abbas Haider Lalji, Yusuf Ali Okera, Shaan, Rizwan Hussain"
-tags: ["noImage"]
+tags: []
 aliases: ["Nara E Haideri"]
-published: false
+published: true
 romanLyrics: |-
   Ya Ali ya Ali ya Ali Murtaza
   La fata sher-e-Yazdaan ya Iliya

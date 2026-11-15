@@ -5,9 +5,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage"]
+tags: []
 aliases: ["Karbobala May Shah E Zaman"]
-published: false
+published: true
 romanLyrics: |-
   Karb o Bala mein Shaah-e-zamaan ghar ko lutaane aaye haiṅ
   Ummat-e-jad ke bigre kaam banaane aaye haiṅ

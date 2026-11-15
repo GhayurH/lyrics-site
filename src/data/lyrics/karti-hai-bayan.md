@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hilal Mirza"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Karti Hai Bayan"]
-published: false
+published: true
 romanLyrics: |-
   Karti hai bayaaṅ Umm-e-Laila
   Ae laal Ali Akbar ho kahaaṅ

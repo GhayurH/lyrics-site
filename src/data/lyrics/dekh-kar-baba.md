@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Ishrat Lakhnavi"
 reciter: "Afzal Mirza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Dekh kar baba ka laasha ek beta ro diya
   Reh gaya jis dam akela ek beta ro diya

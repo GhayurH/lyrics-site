@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mir Sajjad Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kya likha Fatema Sughra ne bataaya na gaya
   Sheh se khat laasha-e-Akbar pe sunaaya na gaya

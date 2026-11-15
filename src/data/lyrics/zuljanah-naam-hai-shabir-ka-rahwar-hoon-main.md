@@ -7,9 +7,9 @@ direction: "rtl"
 poet: "Noor Ali Noor"
 reciter: "Syed Wajhi Hasan Zaidi"
 kalamType: "Manqabat"
-tags: ["noImage"]
+tags: []
 aliases: ["zuljanah-naam-hai-shabir-ka-rahwar-hoon-main-1-6"]
-published: false
+published: true
 # source_id: tajpoints:6dce6de17ef2c8272b3e
 # source_url: https://tajpoints.com/2018/01/zuljanah-naam-hai-shabir-ka-rahwar-hoon.html
 # raw_sha256: 270eea4be67a7d89a2439964bfcba8ee0b2bdfcb466f59f4d2ad998f8b48de0d

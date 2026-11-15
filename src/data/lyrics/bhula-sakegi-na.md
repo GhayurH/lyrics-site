@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Mushtaq Hussain"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bhula sake gi na duniya teri wafa Ghaazi
   Haiṅ donoṅ baazu tere din ki baqa Ghaazi

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Dua"
 poet: "Mirza Asadullah Khan Ghalib"
-tags: ["noImage"]
+tags: []
 aliases: ["Gar Tujh Ko Hai Yaqeen-e-Ejabat Dua Na Maang"]
-published: false
+published: true
 romanLyrics: |-
   1
   Yaani baghair-e-yak dil be mudua na maang

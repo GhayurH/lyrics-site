@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Suno Husainiyoṅ suno Husainiyoṅ
   Husain wo jo zer-e-tegh hans ke so gaya

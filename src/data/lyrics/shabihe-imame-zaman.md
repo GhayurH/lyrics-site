@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Anees"
 reciter: "Mohammed Jaffer"
-tags: ["noImage"]
+tags: []
 aliases: ["Shabihe Imame Zaman"]
-published: false
+published: true
 romanLyrics: |-
   Shabih-e-Imam-e-zamaaṅ khinchte haiṅ
   Tasavvur mein tasvir-e-jaaṅ khinchte haiṅ

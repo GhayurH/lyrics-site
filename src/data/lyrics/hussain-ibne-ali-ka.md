@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mustafa Jauhar"
 reciter: "Ashraf Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Husain Ibn-e-Ali ka gham dil-e-muztar meiṅ rehta hai
   Bahar unwaan jaise ghar ka maalik ghar meiṅ rehta hai

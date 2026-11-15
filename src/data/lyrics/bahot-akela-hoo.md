@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shams Rizvi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Bahot Akela Hoo"]
-published: false
+published: true
 romanLyrics: |-
   Husain kehte haiṅ bhaiya bahot akela huṅ
   Na jaao chhor ke tanha bahot akela huṅ

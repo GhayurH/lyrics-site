@@ -7,10 +7,10 @@ direction: "rtl"
 kalamType: "Manqabat"
 reciter: "Mir Hasan Mir"
 poet: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Arbaab Raza Maula Mir Hasan Mir"]
 recitationId: "arbaab-raza-maula-mir-hasan-mir"
-published: false
+published: true
 romanLyrics: |-
   1
   Arbaab, Arbaab, Arbaab, Raza Maula

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Abid se jab watan mein kisi ne kiya kalaam
   Guzre qalaq zyaada kahaaṅ tum pe ya Imam

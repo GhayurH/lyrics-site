@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Shadman Raza"
 poet: "Majid Raza Abdi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Gardan se sheh ki khanjar-e-qaatil qarib tha
   Zahra sirhaane aa gayi karti hui buka

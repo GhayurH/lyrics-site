@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zamane mein koi ho nafs-e-Paighambar to hum jaaneṅ
   Ali ki baat kya ho le koi Qambar to hum jaaneṅ

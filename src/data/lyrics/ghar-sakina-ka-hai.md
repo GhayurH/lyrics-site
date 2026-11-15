@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Surur Lakhnavi"
 reciter: "Anj. Muhibbane Husain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ghar Sakina ka hai qaid khaana
   Ab na ho ga watan us ka jaana

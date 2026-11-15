@@ -5,9 +5,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ek Nusairi ne bare pyaar se kal mujh se kaha
   Lafz Maula ke takalluf mein na par keh de Khuda

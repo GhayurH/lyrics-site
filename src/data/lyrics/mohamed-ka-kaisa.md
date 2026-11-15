@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Muhammad Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Mohamed Ka Kaisa"]
-published: false
+published: true
 romanLyrics: |-
   Muhammad ka kaisa gharaana hai dekho
   Shah-e-diṅ ko jangal basaana hai dekho

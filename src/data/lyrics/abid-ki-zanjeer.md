@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Ameer Hasan Aamir"
 romanLyrics: |-
   Ye kaisi rehai hai

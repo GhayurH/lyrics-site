@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Qaid Se Chut Ke"]
-published: false
+published: true
 romanLyrics: |-
   Qabr-e-Shah ki banaai hai Zainab
   Kuch yatimoṅ ko laai hai Zainab

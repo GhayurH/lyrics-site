@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Najaf Murshidabadi"
 reciter: "Munawar Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sughra ne kaha ro kar aajao Ali Akbar
   Dil lagta nahiṅ ghar par aajao Ali Akbar

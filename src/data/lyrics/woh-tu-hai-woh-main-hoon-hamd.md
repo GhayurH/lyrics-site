@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Hamd"
 poet: "Mir Ahmed Navaid (Naveed)"
 sixVerseLayout: "pairs"
-tags: ["noImage"]
+tags: []
 aliases: ["Woh Tu Hai Woh Main Hoon Hamd"]
-published: false
+published: true
 romanLyrics: |-
   1
   Sine mein jo ik dard sa hota hai woh tu hai

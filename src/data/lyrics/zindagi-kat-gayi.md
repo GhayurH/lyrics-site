@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nawab Cholasvi"
 reciter: "Ali Mohd. Sultanpuri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kufa o Shaam ka nikla nahiṅ dil se manzar
   Zindagi kat gayi Sajjad ki rote rote

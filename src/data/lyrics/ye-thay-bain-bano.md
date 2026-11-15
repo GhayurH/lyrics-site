@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Sibte Jafar"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ye the bain Bano ke shaam-e-gharibaṅ
   Kahaṅ kho gaye ho mere pyaare Asghar

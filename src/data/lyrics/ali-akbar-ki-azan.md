@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 # source_id: nohayonline:17924b5806b2b19ef801
 # source_url: https://www.nohayonline.com/details_content.php?id=1070
 # raw_sha256: 0233b82afeb30eb070a745e5daf976d4e7ea5f28fb004f7b2dd2ef15d7285106

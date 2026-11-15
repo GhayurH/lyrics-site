@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Qaiser Kaleem"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Faateh-e-Karb o Bala Ae Sibt-e-Paighambar Husain
   Tuṅ binaa-e-la ilaah Ae Sibt-e-Paighambar Husain

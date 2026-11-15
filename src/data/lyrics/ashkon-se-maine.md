@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Mirza Sikander Ali"
 poet: "Viqar Nagri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ashkoṅ se main ne Shaam ka darbaar likh diya
   Phir khun-e-dil Abid-e-bimaar likh diya

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Hadi Ali Khan Muslim"
-tags: ["noImage"]
+tags: []
 aliases: ["Binte Zehra Ne"]
-published: false
+published: true
 romanLyrics: |-
   Bint-e-Zehra ne bhare ghar ka ujarna dekha
   Apne pyaaroṅ ka tah-e-tegh tarapna dekha

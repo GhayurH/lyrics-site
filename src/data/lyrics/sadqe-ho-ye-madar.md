@@ -5,9 +5,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage"]
+tags: []
 aliases: ["Sadqe Ho Ye Madar"]
-published: false
+published: true
 reciter: "Sachey Bhai"
 romanLyrics: |-
   Mayyat pe Sakina ki ye maaṅ kehti thi ro kar

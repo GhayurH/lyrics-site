@@ -9,9 +9,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Faraz Haider Kazmi"
 reciter: "Sibtain Haider"
-tags: ["noImage"]
+tags: []
 aliases: ["Dam Dam Ali Sibtain Haider"]
-published: false
+published: true
 romanLyrics: |-
   Dam dam Ali ae, har dam Ali ae
 

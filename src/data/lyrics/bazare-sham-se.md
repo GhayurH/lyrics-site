@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ek zaair Shaam se jab aaya tha us ke laboṅ par nauha
   Puchha jo kisi ne ae zaair kya tu ne wahaaṅ par dekha

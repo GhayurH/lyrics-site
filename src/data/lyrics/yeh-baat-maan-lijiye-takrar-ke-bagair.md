@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Takallum Mir"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Yeh Baat Maan Lijiye Takrar Ke Bagair"]
-published: false
+published: true
 romanLyrics: |-
   1
   Yeh baat maan lijiye takraar ke baghair

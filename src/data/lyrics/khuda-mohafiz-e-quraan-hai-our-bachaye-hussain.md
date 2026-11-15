@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Hasnain Akbar"
 reciter: "Muzammil Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Khuda muhaafiz-e-Quraan hai aur bachaaye Husain
   Khuda ke waade Khuda ki tarah nibhaaye Husain

@@ -61,7 +61,6 @@ romanLyrics: |-
   Yeh Asif Khuda ne kaha mere pyare
   Yeh chaha ke dil meiṅ sukuṅ ho tumhare
   Sada jis ki bahr-e takallum chuni hai
-
 ---
 
 خبر لامکان کے مکان سے اڑی ہے

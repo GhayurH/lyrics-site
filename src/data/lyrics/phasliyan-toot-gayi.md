@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Izhaar"
 reciter: "Rizwan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Phasliyan Toot Gayi"]
-published: false
+published: true
 romanLyrics: |-
   Zakhm pehlu ke jo bachchoṅ se chhupaaye the wohi
   Waqt-e-rukhsat Ali Maula se bhi dekhe na gaye

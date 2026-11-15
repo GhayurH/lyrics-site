@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
 reciter: "Ali Zia Rizvi / Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: ["Ya Ababdillah", "السلام ائے شہہ مظلوم غریب الغرباء"]
-published: false
+published: true
 romanLyrics: |-
   As salaam ae Shaah-e-mazlum gharibul ghuraba
   Ya Aba Abdillah

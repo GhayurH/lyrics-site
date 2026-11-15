@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Khadim"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Ruqsat Ka Waqt"]
-published: false
+published: true
 romanLyrics: |-
   Shabbir ro rahe haiṅ Zainab bhi ro rahi hai
 

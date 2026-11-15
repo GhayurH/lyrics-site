@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
 reciter: "Murtaza-Riaz"
-tags: ["noImage"]
+tags: []
 aliases: ["Ye Baat Areeze May"]
-published: false
+published: true
 romanLyrics: |-
   Sadiyoṅ ke har ek zulm ko kaise likhuṅ
   Jo dard hai sine mein nahiṅ likh sakta

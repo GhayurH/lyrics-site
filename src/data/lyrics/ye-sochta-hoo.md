@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Salaam
 poet: "Zakir Nawab Arif"
 reciter: "Fateh Ali Khan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ye sochta huṅ ke Aabid ka haal kya hoga
   Asir ho ke wo jab Shaam mein gaya hoga

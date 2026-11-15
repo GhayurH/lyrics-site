@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Viqar Nagri"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Mohibboṅ mushkil kusha ki rehlat
   Ka waqt nazdik aa raha hai

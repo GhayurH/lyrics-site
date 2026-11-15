@@ -9,9 +9,9 @@ poet: "Gohar Jarchvi"
 reciter: "Rizwan Zaidi"
 bastaPage: 106
 bastaNote: "additional-stanzas"
-tags: ["noImage"]
+tags: []
 aliases: ["Bada Andhera Hai"]
-published: false
+published: true
 romanLyrics: |-
   Sakina qaid ho kar Sham ke zindaan meiṅ jab aayi
   Wo bachchi us andhere ghar ki taariki se ghabraayi

@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Marsiya"
 poet: "Dr Abrar Hussain Zaidi"
 reciter: "Saleem Mastan"
-tags: ["noImage"]
+tags: []
 aliases: ["jab-uth-gaye-ali-ke-padar-is-jahan-se-saleem-mastan", "Jab Uth Gaye Ali Ke Padar Is Jahan Se Saleem Mastan"]
-published: false
+published: true
 romanLyrics: |-
   1
   Jab uth gaye Ali ke padar is jahaaṅ se

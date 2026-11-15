@@ -7,10 +7,10 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Majid Raza Abidi"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Behar-e-Khushnodi-e-Zahra Ho Sana-e-Abbas Mir Hasan Mir"]
 recitationId: "behar-e-khushnodi-e-zahra-ho-sana-e-abbas-mir-hasan-mir"
-published: false
+published: true
 romanLyrics: |-
   1
   Behar-e-Khushnudi-e-Zahra ho sana-e-Abbas

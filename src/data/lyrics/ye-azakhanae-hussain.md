@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Irfan Haider"
-tags: ["noImage"]
+tags: []
 aliases: ["Ye Azakhanae Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Ae azaadaaroṅ suno
   Ae naunihaaloṅ suno

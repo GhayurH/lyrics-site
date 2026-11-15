@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Ashraf Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haye wo asr ka hangaam wo maidan-e-bala
   Haye wo tauq o rasan uff wo ghariboṅ ka gala

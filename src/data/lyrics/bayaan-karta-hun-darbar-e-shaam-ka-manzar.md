@@ -5,9 +5,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bayaaṅ karta huṅ darbar-e-Shaam ka manzar
   Jahaaṅ the saat sau kursi nashiṅ fitnagar

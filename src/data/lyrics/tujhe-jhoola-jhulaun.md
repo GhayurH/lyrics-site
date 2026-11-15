@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: ["Tujhe Jhoola Jhulaun"]
-published: false
+published: true
 romanLyrics: |-
   Tujhe jhula jhulaauṅ main tujhe jhula jhulaauṅ
   Main khwaab mein Asghar tujhe lori bhi sunaauṅ

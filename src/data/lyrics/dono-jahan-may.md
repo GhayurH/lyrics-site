@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Najaf Murshidabadi"
 reciter: "Afzal Hussain"
-tags: ["noImage"]
+tags: []
 aliases: ["Dono Jahan May"]
-published: false
+published: true
 romanLyrics: |-
   Donoṅ jahaaṅ mein aaj hai charcha Husain ka
   Har shakhs parh raha hai qasida Husain ka

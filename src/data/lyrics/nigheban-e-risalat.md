@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mohsin Naqvi"
-tags: ["noImage"]
+tags: []
 aliases: ["nigheban-e-risalat-mohsin-naqvi-lyrics-2023"]
-published: false
+published: true
 romanLyrics: |-
   1
   Woh haqiqi mard-e-momin, paikar-e-azm o sabaat

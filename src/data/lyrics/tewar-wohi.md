@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tewar wohi shabaab wohi wohi baaṅkpan tamaam
   Abbas ko mile haiṅ Ali ke chalan tamaam

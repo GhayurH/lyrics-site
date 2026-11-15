@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Tauqeer Kamalvi"
 reciter: "Mukhtar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Gham se dil-e-Rasul-e-Zaman kat raha hai aaj
   Dunya mein Fatima ka chaman kat raha hai aaj

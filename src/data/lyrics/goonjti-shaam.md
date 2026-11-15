@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: ["Goonjti Shaam"]
-published: false
+published: true
 romanLyrics: |-
   Ujar gayi haaye main ujar gayi
 

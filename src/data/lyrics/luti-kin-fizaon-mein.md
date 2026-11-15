@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Viqar Nagri"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Luti kin fizaoṅ mein Aal-e-Payambar
   Na main keh sakuṅ ga na tum sun sakogi

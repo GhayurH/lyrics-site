@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Qais Zangipuri"
 reciter: "Mir Mohsin Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Zuljana"]
-published: false
+published: true
 romanLyrics: |-
   Ae Zuljanah kya kiya apne sawaar ko
   Dilband-e-Mustafa Shah-e-gardo waqaar ko

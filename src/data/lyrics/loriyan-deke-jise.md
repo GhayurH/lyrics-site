@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Jawad Jaffri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Loriyaṅ de ke jise zindaaṅ ne sulaaya hoga
   Sina baba ka tujhe yaad to aaya hoga

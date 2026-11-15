@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Iqbal Abedi"
 reciter: "Akber Naqvi"
-tags: ["noImage"]
+tags: []
 aliases: ["Sogaye Maqtal Mein"]
-published: false
+published: true
 romanLyrics: |-
   So gaye maqtal meiṅ Sarwar hashr ka hangaam hai
   Ahl-e-Bait-e-Mustafa par bekasi ki shaam hai

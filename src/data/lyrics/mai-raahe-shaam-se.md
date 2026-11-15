@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Mazhar"
 reciter: "Jarrar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Main raah-e-Shaam se guzri huṅ be rida baaba
   Asir-e-zulm huṅ roti huṅ be rida baaba

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
 reciter: "Anj. Hyderi Ali Basti"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Wehshat hai udaasi hai zindaaṅ ka andhera hai
   Har lamha Sakina par bas aakhri lamha hai

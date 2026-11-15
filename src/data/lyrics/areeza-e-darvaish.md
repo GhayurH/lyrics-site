@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Shahid Baltistani"
 poet: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Soz-e-dilam Kaaba-e-man Karbobalaai
   Na mikhuaham jahaan Husain Husain

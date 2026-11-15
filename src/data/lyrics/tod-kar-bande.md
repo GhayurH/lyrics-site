@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Tod Kar Bande"]
-published: false
+published: true
 romanLyrics: |-
   Amma meri amma meri amma
 

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Siraj"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Subh-e-Ashur aane waali hai
   Kya qayaamat uthaane waali hai

@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Utha koi janaza phir Sayyeda ke ghar se
   Hasrat baras rahi hai ek ek baam o dar se

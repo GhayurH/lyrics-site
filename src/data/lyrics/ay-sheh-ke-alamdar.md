@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Sheh Ke Alamdar"]
-published: false
+published: true
 romanLyrics: |-
   Ae Sheh ke alam daar, ae Sheh ke alam daar, ae Sheh ke alam daar alam daar
   Ae Zaigham-e-Haidar, ae Zaigham-e-Haidar, ae Haidari talwaar alam daar

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Suroor Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Guzar gayi jo qayaamat kisi ko kya maalum
   Yatim ho gaye Hasnain o Zainab o Kulsum

@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Qamar Hasnain"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Baba Mai Kaise"]
-published: false
+published: true
 romanLyrics: |-
   Ae baba
   Baba, baba, baba mere baba

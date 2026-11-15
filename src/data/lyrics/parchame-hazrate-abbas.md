@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: ["Parchame Hazrate Abbas"]
-published: false
+published: true
 romanLyrics: |-
   Parcham-e-Hazrat-e-Abbas sajaaye rakhna
 

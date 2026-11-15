@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Faraz Hyder Kazmi"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aaj Zainab karegi maqtal mein
   Pehla sajda baghair chadar ke

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Izhaar"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 # source_id: nohayonline:678b72a060ee53ef6cac
 # source_url: https://www.nohayonline.com/details_content.php?id=3057
 # raw_sha256: d5c8002b4f656bbc0a9da7d62e4abd87f7a48c90d6139475e983bc08b9557c06

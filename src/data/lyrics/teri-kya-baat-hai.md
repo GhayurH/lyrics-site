@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Sajjad Mir"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sun ke Zainab ke khutbaat darbaar mein bole Shah-e-Zaman teri kya baat hai
   Laaj rakh li hai tu ne bare bhaai ki meri chhoti behan teri kya baat hai

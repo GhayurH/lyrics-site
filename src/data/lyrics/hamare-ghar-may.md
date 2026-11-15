@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Hasnain"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: ["Hamare Ghar May"]
-published: false
+published: true
 romanLyrics: |-
   Maula aa rahe haiṅ
   Hamare ghar mein Maula aa rahe haiṅ

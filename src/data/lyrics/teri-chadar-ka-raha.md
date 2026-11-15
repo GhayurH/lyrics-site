@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Iqbal Abedi"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jo kabhi soyi na thi aaṅkheṅ wo ab soyeṅgi
   Baad marne ke tere Aal-e-Aba royeṅgi

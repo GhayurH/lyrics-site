@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Alamdar Razvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bikhre pare haiṅ laashe aulaad-e-Murtaza ke
   Zainab ujar gayi hai Karbobala mein aa ke

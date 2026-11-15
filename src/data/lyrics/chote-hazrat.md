@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Chote Hazrat"]
-published: false
+published: true
 romanLyrics: |-
   Abbas Alamdar
   Kya hua kiuṅ udaas baitha hai

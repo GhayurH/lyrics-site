@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Sajid Jafri"
 poet: "Yasir Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Shabbir ki yateema ro ro ke keh rahi hai
   Ammu mujhe bacha lo

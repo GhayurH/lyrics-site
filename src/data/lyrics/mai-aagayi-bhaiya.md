@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Majid Raza Abidi"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: ["Mai Aagayi Bhaiya"]
-published: false
+published: true
 romanLyrics: |-
   Alqissa pahunche Karb o Bala mein wo nauhagar
   Zainab tarap ke reh gayi bhai ki qabr par

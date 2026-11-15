@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Fareed Baig"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: ["Qayame Shah Mein"]
-published: false
+published: true
 romanLyrics: |-
   Mahshar ka hai manzar
   Haaye haaye haaye haaye

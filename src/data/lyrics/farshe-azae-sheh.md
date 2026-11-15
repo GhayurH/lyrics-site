@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Abbas"
 reciter: "Muslim Jafri"
-tags: ["noImage"]
+tags: []
 aliases: ["Farshe Azae Sheh"]
-published: false
+published: true
 romanLyrics: |-
   Farsh-e-aza-e-Sheh ki azaaṅ ya Husain hai
   Yaani Khuda jahaaṅ hai wahaaṅ ya Husain hai

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bain ye shaam-e-gharibaaṅ mein Sakina ne kiya
   Nind kya aayegi ke bistar hai na takiya na rida

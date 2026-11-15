@@ -7,10 +7,10 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Banda-e-Momin"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
 recitationId: "hujjat-e-kibriya-salamun-alaik-mir-hasan-mir"
-published: false
+published: true
 romanLyrics: |-
   Hujjat-e-Kibriya salamun alaik
   Nayab-e-Mustafa salamun alaik

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Muslim Jafri"
 reciter: "Jawad Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Hameiṅ jaan se hai pyaara Ghazi alam tumhaara
   Abbas ye alam hai qaumi nishaaṅ hamaara

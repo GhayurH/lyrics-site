@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ainee Rizvi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Muslim ke pyaare bachoṅ ka sar tan se kat gaya
   Darya meiṅ jaa ke laashe se laasha lipat gaya

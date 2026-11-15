@@ -16,11 +16,11 @@ romanLyrics: |-
   aajao chand mere
   teri pyaas mai bujhauṅ
   asghar maiṅ teri maaṅ huṅ
-  
+
   mere laadle kahaṅ ho
   sine tumheiṅ lagauṅ
   asghar maiṅ teri maaṅ huṅ
-  
+
   1
   beta tumhara qatil
   mere saamne khara hai
@@ -28,7 +28,7 @@ romanLyrics: |-
   chadar bhi lut chuki hai
   Mun kis tarha chupauṅ
   Asghar Maiṅ Teri Maaṅ Huṅ
-  
+
   2
   tere jhule ko sakina
   ro ro ke chumti hai
@@ -36,7 +36,7 @@ romanLyrics: |-
   teri maut ki khabar maiṅ
   kaise ise sunauṅ
   Asghar Maiṅ Teri Maaṅ Huṅ
-  
+
   3
   meri jaan ja rahi hai
   ye soch soch asghar
@@ -44,7 +44,7 @@ romanLyrics: |-
   ye tir kaise jhayla
   Behno ko kya batauṅ
   Asghar Maiṅ Teri Maaṅ Huṅ
-  
+
   4
   naize se gir raha hai
   nanha sa sar tumhara
@@ -52,7 +52,7 @@ romanLyrics: |-
   mere haath to bandhe haiṅ
   sar kis tarha uthauṅ
   Asghar Maiṅ Teri Maaṅ Huṅ
-  
+
   5
   jhule ke saath beta
   mere haath jal gaye haiṅ
@@ -60,7 +60,7 @@ romanLyrics: |-
   teri aakhri nishani
   Kis tarha se bachauṅ
   Asghar Maiṅ Teri Maaṅ Huṅ
-  
+
   6
   jab raat hogi ran meiṅ
   hojayega andhera
@@ -68,7 +68,7 @@ romanLyrics: |-
   dadi kaheṅgi tumse
   aa maiṅ tujhe sulaauṅ
   Asghar Maiṅ Teri Maaṅ Huṅ
-  
+
   7
   tum raat ko hamesha
   sunte thai maaṅ se lori

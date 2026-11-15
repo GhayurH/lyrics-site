@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Sabz Qaba Maula"]
-published: false
+published: true
 romanLyrics: |-
   Ae sabz qaba Maula ae surkh kafan Maula
   Barsaat hai tiroṅ ki kiuṅ tujh pe Hasan Maula

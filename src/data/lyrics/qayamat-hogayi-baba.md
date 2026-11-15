@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Fareed Baig"
 reciter: "Anjuman Al Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sakina bain karti thi sar-e-Sarwar se ye ro kar
   Nahiṅ ab aas jine ki hue itne sitam hum par

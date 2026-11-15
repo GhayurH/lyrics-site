@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Momin"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Shaheede Jafa"]
-published: false
+published: true
 romanLyrics: |-
   Ae shaheed-e-jafa ya Imam-e-Raza
   Kya sitam ho gaya ya Imam-e-Raza

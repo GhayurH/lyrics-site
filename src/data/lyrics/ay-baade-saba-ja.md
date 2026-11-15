@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Kazim"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Baade Saba Ja"]
-published: false
+published: true
 romanLyrics: |-
   Ae baad-e-saba jaa jaa baad-e-saba jaa
 

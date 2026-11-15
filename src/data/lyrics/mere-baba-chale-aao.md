@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sajid Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Mere baba chale aao Sakina yaad karti hai
   Kabhi zindaaṅ mein roti hai kabhi faryaad karti hai

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Viqar Nagri"
 reciter: "Viqar Nagri"
-tags: ["noImage"]
+tags: []
 aliases: ["Baaghe Shabbar Ke"]
-published: false
+published: true
 romanLyrics: |-
   Baagh-e-Shabbar ke mehekte hue armaaṅ Qasim
   Ye teri laash ke tukre biyaabaaṅ Qasim

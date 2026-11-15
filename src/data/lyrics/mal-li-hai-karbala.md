@@ -5,9 +5,9 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Mal li hai Karbala ki jabiṅ par utha ke khaak
   Puchhega mujh se qabr meiṅ ab koi aa ke khaak

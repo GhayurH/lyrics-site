@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Jawad Jaffri"
 reciter: "Sajid Jafri"
-tags: ["noImage"]
+tags: []
 aliases: ["Jab Huwe Abbas Ke"]
-published: false
+published: true
 romanLyrics: |-
   Jab hue baazu-e-Abbas qalam darya par
   Gir ke thanda hua Hazrat ka alam darya par

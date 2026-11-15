@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Bilal Kazmi"
 reciter: "Afzal Mirza"
-tags: ["noImage"]
+tags: []
 aliases: ["Zindan May Sakina"]
-published: false
+published: true
 romanLyrics: |-
   Zindaaṅ mein Sakina ka tha noha mere baba
   Dasta hai mere dil ko andhera mere baba

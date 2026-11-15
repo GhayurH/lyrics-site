@@ -8,9 +8,9 @@ kalamType: Noha
 reciter: "Ali Zia Rizvi"
 # alternate_source_reciter: Anjuman Karwan-e-Aza (Irfan Haider)
 poet: "Anees Pehersari"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Asghar haye Asghar
   Ae chhe mahine waale tujh ko mera salaam

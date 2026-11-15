@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sadaat hai pardes hai aur shaam-e-gharibaṅ
   Kya waqt hai Ghaazi nahiṅ Zainab hai nigehbaṅ

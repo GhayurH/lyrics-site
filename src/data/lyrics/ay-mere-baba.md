@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Irfan Haider"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Mere Baba"]
-published: false
+published: true
 romanLyrics: |-
   Ae mere baba
   Aap gharibul watan main bhi gharibul watan

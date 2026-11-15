@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sajjad utho pyaasi Sakina ko sambhaalo
   Ye shaam-e-gharibaṅ hai ghariboṅ ko bacha lo

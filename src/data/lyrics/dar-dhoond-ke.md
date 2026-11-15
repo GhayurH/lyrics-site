@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zulqarnain"
 reciter: "Rizwan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Dar dhund ke zindaaṅ ka ye kehti hai Sakina
   Baaba mujhe sine pe sulaane chale aao

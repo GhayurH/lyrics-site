@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Haye Zindane Shaam"]
-published: false
+published: true
 romanLyrics: |-
   Meri to aas mere sine mein mar jaati hai
   Dekheṅ is qaid se kab milti hai rukhsat Ammaaṅ

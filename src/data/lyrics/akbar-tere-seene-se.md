@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Danish Mirza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Mir Rehan Abbas"
 romanLyrics: |-
   Dar hai nikal aae na sine se kaleja

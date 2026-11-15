@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Sheerkhar Asghar"]
-published: false
+published: true
 romanLyrics: |-
   Ae shir khwaar Asghar ae tashna lab Sakina
   Hum nanhe zaakiroṅ ka pursa qubul karna

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ahmed Naved"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Sajid Jafri"
 romanLyrics: |-
   Akbar ko sada deti thi maaṅ sholoṅ mein ghir kar

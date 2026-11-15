@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Gohar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ghazi ka alam aaya to Sheh bole ye ro kar
   Abbas kahan ho Abbas kahan ho

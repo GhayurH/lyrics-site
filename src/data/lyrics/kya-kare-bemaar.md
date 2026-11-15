@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Jalalvi"
 reciter: "Shareef Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kya kare bimaar Sughra dil jo ghabraaya kare
   Baap maaṅ bhai behen ki yaad tarpaaya kare

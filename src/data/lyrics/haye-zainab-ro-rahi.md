@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haye Zainab ro rahi hai Karbala khaamosh hai
   Jal gaye haiṅ saare khaime Alqama khaamosh hai

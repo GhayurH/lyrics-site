@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Ghareebe Zehra"]
-published: false
+published: true
 romanLyrics: |-
   Safar tamaam hua dekh chuka Karbobala
   Alvida kehne jo maula ke haram mein pahuncha

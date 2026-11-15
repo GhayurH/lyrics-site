@@ -7,10 +7,10 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sarwar Shakir"
 reciter: "Tahseen Sakina"
-tags: ["noImage", "Panjabi"]
+tags: ["Panjabi"]
 aliases: []
 recitationId: "ali-sohna-sher-rab-da-tahseen-sakina-lyrics-in-punjabi-2022"
-published: false
+published: true
 romanLyrics: |-
   Kaabe mein kandhe par uthaya Kiuṅ tha
   Baazu pakar kar Khum pe dikhaya Kiuṅ tha

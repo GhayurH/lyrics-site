@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ishrat Lakhnavi"
 reciter: "Dilawar Hasan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Husain ibn-e-Ali ki chhoti beti qaid khaane mein
   Abhi tak ro rahi hai ik bachchi qaid khaane mein

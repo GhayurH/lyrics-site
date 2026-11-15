@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Astaana e Zehra"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zindan se Kazim ko mili kaisi rihaai
   Zanjir bhi hai tan pe hai aur saath sipaahi

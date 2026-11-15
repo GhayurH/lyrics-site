@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Agha Anwar Ali"
 reciter: "Jawad ul Hassan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Uthta nahiṅ hai laasha Shabbir-e-naatawaaṅ se
   Abbas jald aao nahr-e-rawaaṅ dawaaṅ se

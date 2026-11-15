@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Waiz Sultanpuri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Ali Mohammad Sultanpuri"
 romanLyrics: |-
   Ya akhi ho kahaṅ

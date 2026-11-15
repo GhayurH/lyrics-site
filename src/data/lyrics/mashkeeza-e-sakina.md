@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
 reciter: "Kashif Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Mashkiza-e-Sakina kehta hai Alqama se
   Khaimoṅ mein tishnagi hai Asghar bahut haiṅ pyase

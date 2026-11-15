@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Raza"
 reciter: "Markazi Matami Dasta Chan Pear Party Behlol Dana Parveiz Asghar Group Sialkot"
-tags: ["noImage"]
+tags: []
 aliases: ["zainab-ko-chehra-baba-ka-abbas-dikhao-lyrics-new-noha-parveiz-asghar-k"]
-published: false
+published: true
 romanLyrics: |-
   Zainab ko chehra Baba ka Abbas dikhaao
   Baba ke chehre se kafan ik baar hataao

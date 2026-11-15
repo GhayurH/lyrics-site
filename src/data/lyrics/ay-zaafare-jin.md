@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
 reciter: "Mir Sajjad Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Zaafare Jin"]
-published: false
+published: true
 romanLyrics: |-
   Zaafar main lut gaya mera koi nahiṅ bacha
   Main ji ke kya karuṅ mera ab kaun hai raha

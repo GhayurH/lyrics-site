@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Syeda Naqvi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zamin-e-qalb pe sheh ki aza ka mausam hai
   Khata-e-Hur pe Husaini ata ka mausam hai

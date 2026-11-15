@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Fareed Baig"
 reciter: "Hadi Ali Khan Muslim"
-tags: ["noImage"]
+tags: []
 aliases: ["Zainabe Muztar Hai"]
-published: false
+published: true
 romanLyrics: |-
   Hai sitamgaaroṅ ka nargha ya Ali ab aaiye
   Har taraf mahshar hai barpa ya Ali ab aaiye

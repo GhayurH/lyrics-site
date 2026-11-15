@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Jaweed Maqsood"
 reciter: "Hadi Ali Khan Muslim"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Fatahe Karbobala"]
-published: false
+published: true
 romanLyrics: |-
   Ae Faateh-e-Karbobala
 

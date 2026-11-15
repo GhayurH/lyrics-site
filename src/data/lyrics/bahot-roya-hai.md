@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ainee Rizvi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Daair-e-raahib mein jo Sarwar ka kata sar aaya
   Nur chehre ka jo dekha to bahot ghabraaya

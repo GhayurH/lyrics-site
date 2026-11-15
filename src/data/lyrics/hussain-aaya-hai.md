@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Rizvi Sachey"
 reciter: "Ali Rizvi Sachey"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Husain aaya hai dekho to ek nazar ammaaṅ
   Sadaaeṅ deta hai kab se tera pisar ammaaṅ

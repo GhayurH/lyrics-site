@@ -7,9 +7,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shuja"
-tags: ["noImage"]
+tags: []
 aliases: ["sughra-s-a-ka-tha-yenauha-baba-aey-mere-baba"]
-published: false
+published: true
 romanLyrics: |-
   Baba mera baba – baba mere baba
   Sughra ka tha ye nauha – baba ae mere baba

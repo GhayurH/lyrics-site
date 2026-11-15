@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shakeeb"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Nange sar jab kabhi naamus-e-giraftaar chale
   Parda daari ke liye saaya-e-diwaar chale

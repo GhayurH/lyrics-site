@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Faheem"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Hal min naasir hal min naasir
   Kaun hai meri madad ko haazir

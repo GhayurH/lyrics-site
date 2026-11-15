@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Altaf Hussain"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Mehmaan hai chand roz ki Zehra Abalhasan
   Hai aap ke hawaale ye kunba Abalhasan

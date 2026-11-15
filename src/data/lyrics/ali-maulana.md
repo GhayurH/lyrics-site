@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ta surat-e-paywand-e-jahaṅ bud Ali bud
   Ta naqsh-e-zamiṅ bud zamaṅ bud Ali bud

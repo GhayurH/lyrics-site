@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 reciter: Nasir Asghar Party (SM)
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Behan ye Ghazi ki ro ro ke bain karti hai
   Chale bhi aao ke ab shaam hone waali hai

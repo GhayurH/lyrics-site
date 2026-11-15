@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Marsiya
 poet: Syed Zeyaul Hasnain
-tags: ["noImage"]
+tags: []
 aliases: ["rubab-roti-rahin-urdu", "Rubab Roti Rahin (Urdu)"]
-published: false
+published: true
 romanLyrics: |-
   Rubaab roti rahiṅ aur ye bain karti rahiṅ
   Mera bachcha hai tapti reti pe leta soya

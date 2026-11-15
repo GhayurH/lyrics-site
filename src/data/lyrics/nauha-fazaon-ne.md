@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Jaweed Maqsood"
 reciter: "Raza Ali Khan"
-tags: ["noImage"]
+tags: []
 aliases: ["Nauha Fazaon Ne"]
-published: false
+published: true
 romanLyrics: |-
   Nauha fazaaoṅ ne sunaaya Furaat ka
   Saahil pe qatl ho gaya saqqa Furaat ka

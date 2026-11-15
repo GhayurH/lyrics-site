@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Marsiya"
 poet: "Mirza Dabeer"
 reciter: "Mir Momin Ali Qaisar"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Rozedaro Aaho Buka"]
-published: false
+published: true
 romanLyrics: |-
   Ae rozedaaro aah o buka ke ye roz haiṅ
   Sadaat par nuzul-e-bala ke ye roz haiṅ

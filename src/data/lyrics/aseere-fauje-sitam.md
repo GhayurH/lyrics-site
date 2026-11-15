@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Hadi Ali Khan Muslim"
 poet: "Ali Jaweed Maqsood"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aseer-e-fauj-e-sitam qaidi-e-mehan Zainab
 

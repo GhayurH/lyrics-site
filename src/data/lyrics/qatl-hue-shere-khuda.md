@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Qatl Hue Shere Khuda"]
-published: false
+published: true
 romanLyrics: |-
   Karte the Jibril ye noha qatl huwe Sher-e-Khuda
   Haye Ali haye

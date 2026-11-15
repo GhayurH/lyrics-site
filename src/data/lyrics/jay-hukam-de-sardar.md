@@ -10,9 +10,9 @@ kalamType: "Qasida"
 poet: "Zakir Amanat Ali Jafri"
 reciter: "Sundas Batool"
 year: 2026
-tags: ["noImage"]
+tags: []
 aliases: ["jay-hukam-de-sardar-sundas-batool-lyrics-in-punjabi-2026", "Jay Hukam De Sardar Sundas Batool Lyrics In Punjabi 2026"]
-published: false
+published: true
 romanLyrics: |-
   1
   Jay hukam de sardaar karaṅ ik waar, waar nu lakh tera dewaaṅ maar

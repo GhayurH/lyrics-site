@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Zeeshan Abidi"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Rauza Nahi Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Ae kaash ab ki baar main jab jaauṅ Karbala
   Rauza nahiṅ Husain nazar aayeṅ saamne

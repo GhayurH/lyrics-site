@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zafar Abbas"
 reciter: "Muslim Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Nauha kunaṅ hai Zainab-e-Muztar Ali ke baad
   Kohraam hai macha hua ghar ghar Ali ke baad

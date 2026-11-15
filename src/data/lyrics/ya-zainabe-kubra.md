@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: ["Ya Zainabe Kubra"]
-published: false
+published: true
 romanLyrics: |-
   Ya Zainab-e-Kubra
 

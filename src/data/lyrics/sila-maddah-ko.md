@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mustafa Jauhar"
 reciter: "Ashraf Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sila maddaah ko ye midhat-e-Haidar se milta hai
   Ke jannat mein use ghar Mustafa ke ghar se milta hai

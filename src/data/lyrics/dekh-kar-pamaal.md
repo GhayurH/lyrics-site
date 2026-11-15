@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Jawad Jaffri"
 reciter: "Sajid Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Dekh kar pamaal laashe Karbala roti rahi
   Ban ke laashoṅ ka kafan khaak-e-shifa roti rahi

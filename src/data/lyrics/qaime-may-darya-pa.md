@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Sibte Jafar"
 sixVerseLayout: "pairs"
-tags: ["noImage"]
+tags: []
 aliases: ["Qaime May Darya Pa"]
-published: false
+published: true
 romanLyrics: |-
   Khaime mein darya pe kiye jab ke shah-e-waala ne
   Ghera Shabbir ko tab fauj-e-sitam aara ne

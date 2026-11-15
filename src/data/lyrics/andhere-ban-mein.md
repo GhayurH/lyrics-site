@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Tableegh-e-Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Andhere ban mein hai baba Sakina kiuṅ chali aayi
   Lahu mein duba hai laasha Sakina kiuṅ chali aayi

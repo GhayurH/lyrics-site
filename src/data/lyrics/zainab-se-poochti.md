@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Irfan Akbar Abidi"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: ["Zainab Se Poochti"]
-published: false
+published: true
 romanLyrics: |-
   Jab chal raha tha qaafila Aal-e-Rasul ka
 

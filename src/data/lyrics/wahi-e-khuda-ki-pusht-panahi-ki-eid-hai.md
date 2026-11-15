@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Hasnain Akbar"
-tags: ["noImage"]
+tags: []
 aliases: ["wahi-e-khuda-ki-pusht-panahi-ki-eid-hai-lyrics-2024"]
-published: false
+published: true
 romanLyrics: |-
   Wahi-e-Khuda ki pusht panaahi ki eid hai
   Yeh baab-e-shehar ilm ke raahi ki eid hai

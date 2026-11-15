@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Bober Ali"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Tha Madine May Ek"]
-published: false
+published: true
 romanLyrics: |-
   Tha Madine mein ek shor-e-girya
   Ho gayi haaye rukhsat Khadija

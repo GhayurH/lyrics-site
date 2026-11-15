@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Viqar Nagri"
-tags: ["noImage"]
+tags: []
 aliases: ["Hogaye Baazu Qalam", "ہو گئے بازو قلم مشک بچائی نہ گئی"]
-published: false
+published: true
 romanLyrics: |-
   Ho gaye haath qalam mashk bachaai na gayi
   Pyaas saqqa se Sakina ki bujhaai na gayi

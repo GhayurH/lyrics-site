@@ -8,9 +8,9 @@ kalamType: "Manqabat"
 poet: "Allama Syed Zill-e-Saqlain Zaidi"
 reciter: "Syed Wajhi Hasan Zaidi"
 year: 2009
-tags: ["noImage"]
+tags: []
 aliases: ["Shaheed Ki Jo Maut Hai Woh Qaum Ki Hayat Hai"]
-published: false
+published: true
 romanLyrics: |-
   Shahid ki jo maut hai woh qaum ki hayaat hai
 

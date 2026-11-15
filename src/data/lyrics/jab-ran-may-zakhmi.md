@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sibte Jafar"
-tags: ["noImage"]
+tags: []
 aliases: ["Jab Ran May Zakhmi"]
-published: false
+published: true
 romanLyrics: |-
   Jab ran mein zakhmi ho gaye sultaan-e-bahr o bar
   Shafqat se haath ghore ki gardan mein daal kar

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sajid Jafri"
-tags: ["noImage"]
+tags: []
 aliases: ["Yun Bhi Karte Hai"]
-published: false
+published: true
 romanLyrics: |-
   Yuṅ bhi karte haiṅ juda Quraan ko tafsir se
   Jis tarah Shabbir bichhra Zainab-e-dilgir se

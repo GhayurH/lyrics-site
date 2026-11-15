@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Nasir Zaidi"
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zindaaṅ se ghul utha hai Sakina guzar gayi
   Thi laadli jo shaah-e-shahidaaṅ ki mar gayi

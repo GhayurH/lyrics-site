@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Faheem"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Chhorna tanha beti mariza
   Kitna mushkil hai kitna mushkil hai

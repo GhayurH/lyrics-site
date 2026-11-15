@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Baba Nisaar Haideri"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Raahoṅ mein saarbaaṅ ko chhaaṅw na mila saaya
   Betaab dhup mein hai zanjir ka sataaya

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hur Hyderabadi"
 reciter: "Anjuman Rasool-e-Khuda"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jafar ki shahadat jo Madine mein hui hai
   Phir Aal-e-Muhammad pe qayamat ki ghari hai

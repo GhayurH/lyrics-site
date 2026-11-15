@@ -7,10 +7,10 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Qamar Jalalvi, Mohsin Naqvi, Mir Takallum Mir, Gohar Jarchvi"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["ali-kay-sath-hai-zehra-ki-shadi"]
 recitationId: "ali-kay-sath-hai-zehra-ki-shadi-mir-hasan-mir"
-published: false
+published: true
 # source_id: tajpoints:395e0fec1a77b74b5657
 # source_url: https://tajpoints.com/2023/01/ali-kay-sath-hai-zehra-ki-shadi-mir.html
 # raw_sha256: 263ec0666aa4df096016e0649bd40c5a1139e760383363873060c2707d9048c7

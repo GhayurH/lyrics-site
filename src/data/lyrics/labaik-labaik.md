@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
 reciter: "Irfan Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aa jaane do ghaibat se waaris ko shahidoṅ ke
   Ur jaayeṅge dunya mein khud hosh Yazidoṅ ke

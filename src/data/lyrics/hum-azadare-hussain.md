@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Faheem"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: ["Hum Azadare Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Hum azaadaar-e-Husain ibn-e-Ali
   Hum tarafdaar-e-Husain ibn-e-Ali

@@ -8,9 +8,9 @@ kalamType: Noha
 poet: "Sibte Jafar"
 reciter: "Sibte Jafar"
 bastaPage: 138
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Chand Karbala Ke"]
-published: false
+published: true
 romanLyrics: |-
   Ae chaand Karbala ke tu ne to dekhe hoṅge
   Utre the is zamiṅ par

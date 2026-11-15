@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Laasha-e-Abbas pe pahunche jo gharib-e-Zahra
   Bhai ki laash pe ek bhai ne noha ye kiya

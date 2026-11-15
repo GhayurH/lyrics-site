@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hameed Abidi"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Bahot Gham Milay"]
-published: false
+published: true
 romanLyrics: |-
   Bahot gham mile baba jaaṅ
   Zindan mein baba ka sar jo mila

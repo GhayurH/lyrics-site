@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Nasir Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Be tegh ran ko jaata hai Bano ka naunihaal
   Kamsin hai bhuka pyaasa hai Bano ka naunihaal

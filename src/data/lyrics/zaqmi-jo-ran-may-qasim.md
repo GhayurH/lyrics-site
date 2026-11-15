@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Marsiya"
 poet: "Mir Anees"
 reciter: "Mir Fateh Ali Afsar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   1
   Zakhmi jo ran mein Qasim-e-gul pairahan hua

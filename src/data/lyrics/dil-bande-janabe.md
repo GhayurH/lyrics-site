@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mirza Murtaza Ali"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Dilband-e-Janaab-e-Zahra is des mein gar aa jaata
   Ghar ghar mein amaaṅ mil jaati har dil mein jagah paa jaata

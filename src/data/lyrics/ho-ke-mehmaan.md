@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shamsi"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ho ke mehmaan Muhammad ka nawaasa aaya
   Dasht-e-khuṅ khaar mein lakht-e-dil-e-Zehra hai

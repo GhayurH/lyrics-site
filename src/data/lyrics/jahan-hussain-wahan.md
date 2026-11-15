@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Jahan Hussain Wahan", "حسین حسین حسین"]
-published: false
+published: true
 romanLyrics: |-
   Husain Husain Husain
 

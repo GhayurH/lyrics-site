@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Hasan Mir"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Abal Hasan Mola Shah E Khurasan Mir Hasan Lyrics 2024"]
-published: false
+published: true
 romanLyrics: |-
   Zaamin-e-Aahu Raza, Shaafi-e-Roz-e-Jaza, aashiq-e-Karb o Bala, jaan o dil-e-Fatima
   Abal Hasan Maula, Abal Hasan Maula, Abal Hasan Maula Shah-e-Khurasan

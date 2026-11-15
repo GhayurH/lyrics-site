@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: ["Lashkare Aada Mein"]
-published: false
+published: true
 romanLyrics: |-
   Lashkar-e-aada meiṅ jitne the sabhi kehne lage
   Dekh kar Abbas ke tewar Ali kehne lage

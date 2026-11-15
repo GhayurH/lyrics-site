@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Rizwan Zaidi"
 poet: "Syeda Naqvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zamin-e-ishq pe guṅji azaan-e-Arbaeen
   Jigar figaar hua Karbala ki huk uthi

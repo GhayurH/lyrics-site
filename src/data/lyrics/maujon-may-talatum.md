@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
 reciter: "Ali Haider"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maujoṅ mein talaatum hai aur shor hai mahshar ka
   Andaaza hai darya ko Abbas ke tewar ka

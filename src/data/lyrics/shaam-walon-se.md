@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Bilal Kazmi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Shaam waloṅ se ye Zainab ne kaha ro ro kar
   Main Muhammad ki nawaasi huṅ na chhino chaadar

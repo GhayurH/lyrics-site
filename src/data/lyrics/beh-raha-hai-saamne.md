@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Anj. Sabile Masumeen"
-tags: ["noImage"]
+tags: []
 aliases: ["Beh Raha Hai Saamne"]
-published: false
+published: true
 romanLyrics: |-
   Beh rahi hai saamne nehr-e-Furaat
   Mustafa ki aal tishna kaam hai

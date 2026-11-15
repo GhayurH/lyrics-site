@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Yasir Raza Yasir"
 reciter: "Rajab Ali Khan"
-tags: ["noImage"]
+tags: []
 aliases: ["reza-kay-sikke-se-rajab-ali-khan", "Reza Kay Sikke Se Rajab Ali Khan"]
-published: false
+published: true
 romanLyrics: |-
   Suno suno mere Maula Raza ke sikke se
   Nizaam banta hai kya kya Raza ke sikke se

@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Shaukath"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: ["Mai Chal Bhi Nahi"]
-published: false
+published: true
 romanLyrics: |-
   Haaye Sajjad, haaye bimaar
 

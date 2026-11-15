@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Zaeefa Meri"]
-published: false
+published: true
 romanLyrics: |-
   Dekha Zainab ko to Abdullah ne ro kar puchha
   Ae zaifa meri Zainab ko kahiṅ dekha hai

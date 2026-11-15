@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mohsin Riyaz"
 reciter: "Kazmi Brothers"
-tags: ["noImage"]
+tags: []
 aliases: ["Utho Baba Mai Zainab"]
-published: false
+published: true
 romanLyrics: |-
   Reh gayi tanha betiyaaṅ baba haaye Kufa shehr mein
   Utho baba main Zainab huṅ ye Bibi ki sada hogi

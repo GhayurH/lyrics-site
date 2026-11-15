@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Gohar Jarchvi"
 reciter: "Nasir Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Karti thi bain ran mein ro ro ke haaye Zainab
   Ae bhai tera laasha kaise uthaye Zainab

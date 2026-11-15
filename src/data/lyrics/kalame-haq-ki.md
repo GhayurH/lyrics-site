@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
 reciter: "Tabligh-e-Imamia"
-tags: ["noImage"]
+tags: []
 aliases: ["Kalame Haq Ki"]
-published: false
+published: true
 romanLyrics: |-
   Kalaam-e-haq ki tilaawat hai saani-e-Zehra
   Ke tarjumaane-risaalat hai saani-e-Zehra

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Naqvi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Roti hai ab bhi Fatima Zahra yahiṅ kahiṅ
   Tiroṅ pe tha Husain ka laasha yahiṅ kahiṅ

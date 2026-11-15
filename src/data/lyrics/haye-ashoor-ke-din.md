@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Anees"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aaya kya daur-e-bala haye Aashur ke din
   Khul gaya baab-e-jafa haye Aashur ke din

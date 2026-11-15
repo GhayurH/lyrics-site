@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Saeed Shaheedi"
 reciter: "Alamdar Razvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Mujhe matlub hoga jaam lena jab bhi Kausar ka
   Salaam aisa parhuṅ ga dil bhar aaye ga Payambar ka

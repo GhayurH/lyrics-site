@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: ["Holay Holay Chal"]
-published: false
+published: true
 romanLyrics: |-
   Chal para Karbobala se jab Husaini qaafila
   Ek rasan mein pusht-e-Abid aur tha Baqar ka gala

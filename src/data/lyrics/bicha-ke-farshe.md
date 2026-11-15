@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Majid Raza Abidi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bichha ke farsh-e-aza Sayyeda ko yaad karo
   Lahu bahaao to Zain-ul-Aba ko yaad karo

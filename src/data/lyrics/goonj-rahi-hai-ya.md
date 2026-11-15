@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: ["Goonj Rahi Hai Ya"]
-published: false
+published: true
 romanLyrics: |-
   Mere lahu ke har qatre mein gunj raha hai ya Husain
   Ab to sab ka wird-e-zabaaṅ bhi rehne laga hai ya Husain

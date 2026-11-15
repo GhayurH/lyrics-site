@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mohib Fazli"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jab ada khanjar tale Shabbir ka sajda hua
   Karbala ka dasht Ahl-e-zarf ka Kaaba hua

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Noor"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Le kar janaaza dosh pe Sher-e-Khuda chale
   Daar-e-fana ko chhor ke jab Mustafa chale

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Izzat Lakhnavi"
 reciter: "Izzat Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maaṅ hai Akbar ki khush jamaali hai
   Shaam se shama ik jala di hai

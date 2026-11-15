@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Banda-e-Momin"
 reciter: "Chakwal Party"
-tags: ["noImage"]
+tags: []
 aliases: ["jo-tere-dil-mein-wilaye-abu-turab-nahi-chakwal-party"]
-published: false
+published: true
 romanLyrics: |-
   Jo tere dil meiṅ wilaaye Abu Turaab nahiṅ
   Mare to Kaabe meiṅ phir bhi koi sawaab nahiṅ

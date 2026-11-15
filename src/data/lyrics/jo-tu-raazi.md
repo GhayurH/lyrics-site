@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
 reciter: "Mir Sajjad Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["یہ کون ذی وقار ہے بلا کا شہ سوار ہے"]
-published: false
+published: true
 romanLyrics: |-
   Yeh kaun zi waqaar hai balaa ka shahsawaar hai
   Yeh kis jari ke haath meiṅ Ali ki Zulfiqaar hai

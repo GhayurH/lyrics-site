@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mujahid Lakhnavi"
 reciter: "Ali Rizvi Sachey"
-tags: ["noImage"]
+tags: []
 aliases: ["Dil Se Ghame Husain"]
-published: false
+published: true
 romanLyrics: |-
   Dil se gham-e-Husain na ho kam Khuda kare
   Le jaauṅ maiṅ lahad meiṅ yehi gham Khuda kare

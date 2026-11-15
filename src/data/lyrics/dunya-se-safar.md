@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Azeem Azmi"
 reciter: "Shajar Naqvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Dunya se safar jaanib-e-uqba hai Naqi ka
   Ghamgin har ek chaahne waala hai Naqi ka

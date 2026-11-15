@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zulfiqar Ahmed"
 reciter: "Jawad ul Hassan"
-tags: ["noImage"]
+tags: []
 aliases: ["Jhoola Hai Jala"]
-published: false
+published: true
 romanLyrics: |-
   Haathoṅ mein liye nanhe se jhule ko ye maadar
   Bikhraae apne baaloṅ ko kehti rahi Asghar

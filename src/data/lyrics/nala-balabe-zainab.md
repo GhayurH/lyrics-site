@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mohsin Shakeeb"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Naala ba-lab-e-Zainab-e-laachaar Husaina
   Maujud hai asbaab na ansaar Husaina

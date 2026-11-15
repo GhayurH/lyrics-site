@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Ameer Hasan Aamir"
 poet: "Alam Sultanpuri"
-tags: ["noImage"]
+tags: []
 aliases: ["Khoone Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Haaye mazlum Husain
   Mera mazlum Husain

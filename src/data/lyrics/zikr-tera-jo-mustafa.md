@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Naat"
 poet: "Asif Ali Asif"
 reciter: "Sarwar Raza Karbalai"
-tags: ["noImage"]
+tags: []
 aliases: ["zikr-tera-jo-mustafa-sarwar-raza-karbalai-naat"]
-published: false
+published: true
 romanLyrics: |-
   Un ki dehliz pe hai sar mera
   Zikr hota hai arsh par mera

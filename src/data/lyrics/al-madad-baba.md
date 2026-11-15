@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Arsalan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Kazmi Brothers"
 romanLyrics: |-
   Ek shor ka alam hai Madine ki gali hai

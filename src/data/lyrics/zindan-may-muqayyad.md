@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Marsiya"
 poet: "Mirza Dabeer"
 reciter: "Alamdar Razvi"
-tags: ["noImage"]
+tags: []
 aliases: ["Zindan May Muqayyad"]
-published: false
+published: true
 romanLyrics: |-
   Zindaaṅ mein muqayyad hue jis dam haram-e-Shaah
   Amboh-e-khalaaiq hua darwaaze pa naagaah

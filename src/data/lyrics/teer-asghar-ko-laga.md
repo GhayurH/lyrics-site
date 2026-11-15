@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ashhar Mehdi"
 reciter: "Rizwan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tir Asghar ko laga Karb o Bala tharra gayi
   Ye musibat wo hai jo maaṅ ka kaleja kha gayi

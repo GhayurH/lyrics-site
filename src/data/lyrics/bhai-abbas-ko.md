@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Asif Bijnori"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Qatl karne ke iraade se sitamgar jo barha
   Ho gayi dasht-e-bayaabaaṅ ki khaamosh fiza

@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Zeeshan Abidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ek Yateem Aisi Bhi"]
-published: false
+published: true
 romanLyrics: |-
   Raah mein naaqe se jab gir gayi chhoti Zahra
   God mein ek zaifa ne use thaam liya

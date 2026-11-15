@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Ishrat Lakhnavi"
 reciter: "Dilawar Hasan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Keh rahi thi ye baali Sakina
   Koi mera sahaara nahiṅ hai

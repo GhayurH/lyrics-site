@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hilal Naqvi"
 reciter: "Irfan Hussain"
-tags: ["noImage"]
+tags: []
 aliases: ["Haye Imam Jafare Sadiq"]
-published: false
+published: true
 romanLyrics: |-
   Haye Imam-e-Jafar-e-Sadiq
 

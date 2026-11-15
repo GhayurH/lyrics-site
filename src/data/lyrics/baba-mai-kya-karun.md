@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Izzat Lakhnavi"
 reciter: "Ashraf Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Baba Mai Kya Karun"]
-published: false
+published: true
 romanLyrics: |-
   Ro ro ke baba jaan se kehti thi Fatema
   Baba main kya karuṅ

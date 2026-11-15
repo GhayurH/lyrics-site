@@ -5,9 +5,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Salam"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Karbal ki kahaani jab koi bhi sunaaye ga
   Dil waaloṅ ki aankhoṅ se ik darya bahaaye ga

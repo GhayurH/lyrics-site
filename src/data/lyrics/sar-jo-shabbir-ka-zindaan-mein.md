@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Marsiya"
 poet: "Shadan Dehlvi"
 reciter: "Saleem Mastan Wa Bradran"
-tags: ["noImage"]
+tags: []
 aliases: ["sar-jo-shabbir-ka-zindan-main-saleem-mastan"]
-published: false
+published: true
 romanLyrics: |-
   1
   Sar jo Shabbir ka zindaan mein laaye khuddaam

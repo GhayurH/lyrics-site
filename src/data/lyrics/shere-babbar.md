@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Wali ibn-e-wali sakhi ibn-e-sakhi
   Jari ibn-e-jari sher-e-jali naad-e-Ali

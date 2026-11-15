@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Gir kar kabhi uthe kabhi rakha zamiṅ pe sar
   Ubla lahu kabhi to sambhaala kabhi jigar

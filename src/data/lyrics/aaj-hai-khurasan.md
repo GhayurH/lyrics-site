@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
 reciter: "Hadi Ali Khan Muslim"
-tags: ["noImage"]
+tags: []
 aliases: ["Aaj Hai Khurasan"]
-published: false
+published: true
 romanLyrics: |-
   Aaj hai Khurasaṅ meiṅ ek gharib ka matam
 

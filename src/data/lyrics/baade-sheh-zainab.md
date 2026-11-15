@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ahmed Naved"
 reciter: "Muslim Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Baad-e-Sheh Zainab-e-muztar ko kahaaṅ nind aati
   Waaris-e-laasha-e-besar ko kahaaṅ nind aati

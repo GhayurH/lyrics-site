@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Malik Shahid"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: ["Chal Pade Shabbir"]
-published: false
+published: true
 romanLyrics: |-
   Chal pare Shabbir Karbala ho gaya viraaṅ Madina
   Roti Akbar tujh ko Sughra reh gayi tanha Madina

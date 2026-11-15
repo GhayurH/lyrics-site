@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Mirza Murtaza Ali"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ashoor ka suraj jalta hai
   Har khaak ka zarra jalta hai

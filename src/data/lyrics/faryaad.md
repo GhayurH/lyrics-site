@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hasan Raza Rizvi"
 reciter: "Ali Rizvi Sachey"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zulm kya kya na hue mere Nabi aap ke baad
   Chain se Aal-e-Nabi reh na saki aap ke baad

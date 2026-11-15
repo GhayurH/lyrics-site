@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Hasnain Akbar"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["ہاے حسین ہاے حسین"]
-published: false
+published: true
 romanLyrics: |-
   Haaye Hasan haaye Husain
 

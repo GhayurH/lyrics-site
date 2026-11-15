@@ -12,52 +12,52 @@ published: true
 romanLyrics: |-
   Ye khat meiṅ Shah ne likha, Habib aajaao
   Tumhara dost hai tanha, Habib aajaao
-  
+
   1
   Shahid kaise huwa wo bataaogey aakar
   Tum haal-e-Muslim-e-baikas sunaaogey aakar
   Ruqayya takti hai rastaa Habib aajaao
-  
+
   2
   Lagaao is se bhi andaaze meri ghurbat ke
   Jahaaṅ pey ibn-e-Ali likhna tha wahaaṅ meiṅ ne
   Diya hai maaṅ ka hawala, Habib aajaao
-  
+
   3
   Bata raha tha use koi bhi nahi hai mera
   To boli Thaaniy-e-Zehra Habib aayega
   Hai usko tumpey bharosa, Habib aajaao
-  
+
   4
   Wo jab ye sunti hai Kufe se aarahe haiṅ shaqi
   To puchti hai hamaara bhi aayega koi
   Duaaeiṅ deygi Sakina, Habib aajaao
-  
+
   5
   Gawara kar nahiṅ sakti Husain ki ghairat
   Tumhari zauja ki chaadar ko lutley ummat
   Tum usko chorhkey Kufa Habib aajaao
-  
+
   6
   Mujhe hai yaad wo lamha Jo rab ki marzi se
   Tum ho ke zinda Meri baat sunne aaye the
   Bula raha huṅ dubara Habib aajaao
-  
+
   7
   Dar-e-Batul dobaara jalaaya jaayega
   Tumhaare dost pey khanjar chalaaya jaayega
   Nahiṅ hai waqt zyaada Habib aajaao
-  
+
   8
   Chamakte chaand ki humko bhi did hojaaye
   Tum aao to mere bachoṅ meiṅ Eid hojaaye
   Bohat udaas hai kunba Habib aajaao
-  
+
   9
   Ye khat nahiṅ ise behnoṅ ki aarzu samjho
   Hamaare lafzoṅ ko Zainab ki guftagu samjho
   Behan ye kehti hai bhayya Habib aajaao
-  
+
   10
   Bahan ne usko takallum Jo bhai samjhaa tha
   Pukaari sham-e-gharibaṅ meiṅ Thaaniy-e-Zehra

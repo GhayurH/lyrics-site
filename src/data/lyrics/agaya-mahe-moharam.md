@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Jawad Jaffri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Sajid Jafri"
 romanLyrics: |-
   Ae azadaroṅ Sheh ke pursadaroṅ

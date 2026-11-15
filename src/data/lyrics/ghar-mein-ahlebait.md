@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Ali Rizvi Sachey"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ghar meiṅ Ahl-e-Bait ke maatam hai Khaibar-gir ka
   Ho gaya suraj ghurub Islam ki taqdir ka

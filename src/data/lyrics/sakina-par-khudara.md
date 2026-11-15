@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: ["Sakina Par Khudara"]
-published: false
+published: true
 romanLyrics: |-
   Yatim bachchi hai dard o alam ki maari hai
   Koi gharib nahiṅ hai ye shaahzaadi hai

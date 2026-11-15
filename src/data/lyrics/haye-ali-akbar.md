@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Aashiq Irani"
 reciter: "Nazeer Irani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Baap se maange ijaazat ran ki jab karyal jawaaṅ
   Thaam kar dil Shaah bole pehle do Akbar azaaṅ

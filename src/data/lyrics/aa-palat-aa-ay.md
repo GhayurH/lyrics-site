@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
 reciter: "Irfan Hussain"
-tags: ["noImage"]
+tags: []
 aliases: ["Aa Palat Aa Ay"]
-published: false
+published: true
 romanLyrics: |-
   Ghaib se aayi sada aa palat aa ae Husain
   Tujhse raazi hai Khuda aa palat aa ae Husain

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Ali Khan Lakhnavi"
 reciter: "Ghadeer Fatima"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Diloṅ ki ghair hai haalat kaho Khuda haafiz
   Luta ke ashkoṅ ki daulat kaho Khuda haafiz

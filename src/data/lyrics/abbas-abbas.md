@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Majid Raza Abdi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Hai bekasoṅ ka ghariboṅ ka aasra Abbas
   Wafa hai mulk to us mulk ka Khuda Abbas

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Kumail Jafri"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Qaid jab Shaam ke zindaaṅ meiṅ hue Aal-e-Abaa
   Bibiyaaṅ shaam o sahar rehti thi masruf-e-azaa

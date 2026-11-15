@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Irtaza Johnpuri"
 reciter: "Ahsan Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bano ye sada deti hai kahaaṅ ho beta
   Asghar tujhe maiṅ ran meiṅ lori suna na paayi

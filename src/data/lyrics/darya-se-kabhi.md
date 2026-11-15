@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
 reciter: "Murtaza-Riaz"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Darya se kabhi khaime ko jaaeṅ ge na Abbas
   Chehra bhi Sakina ko dikhaaeṅ ge na Abbas

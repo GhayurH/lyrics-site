@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Ali Khan Lakhnavi"
 reciter: "Zawwar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Laashe pe Murtaza ke thi Jibril ki fughaaṅ
   Haaye haaye shahid ho gaye Maula-e-do jahaaṅ

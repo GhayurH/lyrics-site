@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Marsiya"
 reciter: "Sarfaraz Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haae kis bekas o mazlum ka ye maatam hai
   Fatima aayi haiṅ rone ko ye kis ka gham hai

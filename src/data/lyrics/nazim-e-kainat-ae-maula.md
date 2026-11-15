@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Syed Aimaad Naqvi"
 reciter: "Syed Wajhi Hasan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["ya-mehdi-syed-wajhi-hasan", "Ya Mehdi Syed Wajhi Hasan"]
-published: false
+published: true
 romanLyrics: |-
   Nazim-e-Kainat ae Maula sahib-e-iqtidaar ya Mehdi
   Ham to kya haiṅ ke khud Khuda ko bhi hai tera intezaar ya Mehdi

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anwar Zahir"
 reciter: "Shareef Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Lut gaya aap ka ghar aap kahaaṅ the baba
   Kat gaya shaah ka sar aap kahaaṅ the baba

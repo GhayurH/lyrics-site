@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mujeeb Alipuri"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 # source_id: nohayonline:dc3edda69e375695eda5
 # source_url: https://www.nohayonline.com/details_content.php?id=1379
 # raw_sha256: cf83a6182980a656d1e3e01c3266c926fa0a26818f21b731f2f7394f21a16403

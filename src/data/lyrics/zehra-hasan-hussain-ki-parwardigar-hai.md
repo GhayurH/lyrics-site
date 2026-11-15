@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Gohar Jarchvi"
 reciter: "Rizwan Zaidi, Sajjad Zaidi, Mesum Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Zehra Hasan Hussain Ki Parwardigar Hai"]
-published: false
+published: true
 romanLyrics: |-
   Kya manzilat hai martaba kya shaandaar hai
   Zahra Hasan Husain ki parwardigaar hai

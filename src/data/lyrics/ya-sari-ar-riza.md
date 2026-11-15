@@ -15,7 +15,7 @@ romanLyrics: |-
   Fa-Innaka Faaalun Lima Tashaa
   Ya Man Ismuhu Dawaaun Wa Zikruhu Shifaaun
   Wa Taaatuhu Ghina
-  
+
   1
   Tu Hi Kabir Tu Hi Kibriya Tu Rahnuma
   Rag-e-Gulu Se Bhi Nazdik Tu Har Ek Lamha
@@ -23,7 +23,7 @@ romanLyrics: |-
   Hai Tere Zikr Meiṅ Poshida Mere Haq Meiṅ Shifa
   Baghair Maange Hi Karta Hai Tu Ata Pe Ata
   Sada Se Pehle Hi Sunta Hai Sailoṅ Ki Sada
-  
+
   2
   Ali Wasila Bane Aur Kumail Paaye Shifa
   Usi Ke Naam Se Mansub Ho Gayi Ye Dua
@@ -31,7 +31,7 @@ romanLyrics: |-
   Ye Ibtida Hai Tu Hai Inteha Hadith-e-Qissa
   Ilahi Teri Riza Ke Siwa Kuch Aur Nahiṅ
   Ke Mere Paas Dua Ke Siwa Kuch Aur Nahiṅ
-  
+
   3
   Mere Khuda Wo Zabaneiṅ Jo Teri Hamd Kareiṅ
   Wo Tere Panjtan-e-Pak Ki Dua Meiṅ Raheiṅ
@@ -39,7 +39,7 @@ romanLyrics: |-
   Pul-e-Siraat Se beKhauf o beKhatar Guzreiṅ
   Gunahgaron Ko Ye Aasra Hai Subh o Masa
   Khula Hua Hai Musalsal Tera Dar-e-Tauba
-  
+
   4
   Rasul-e-Pak Ke Sadqe Meiṅ Aaye Khuda Ghar Ghar
   Shua-e-Ilm Ki Kirnoṅ Ka Mustaqil Ho Guzar
@@ -47,7 +47,7 @@ romanLyrics: |-
   Rahe Jawano Ki Har Dam Teri Riza Pe Nazar
   Teri Riza Ke Bina Rizq-e-Ilm Kya Ho Ata
   Jo Tu Na Chahe Dar-e-Ilm Khul Nahiṅ Sakta
-  
+
   5
   Tu Mere Aib Chhupata Hai Daal Kar Parda
   Ilahi Deta Huṅ Maiṅ Tujh Ko Wasta Us Ka
@@ -55,7 +55,7 @@ romanLyrics: |-
   Nahiṅ Hai Kuch Bhi Mere Paas Is Rida Ke Siwa
   Rasulzadi Ke Parde Ki Laaj Rakh Lena
   Bharam Duaoṅ Ka Meri Bhi Aaj Rakh Lena
-  
+
   6
   Shikasta Pehlu-e-Zahra Ka Wasta Ae Khuda
   Jo Waqt-e-Ghusl Ali Ne Basad Buka Dekha
@@ -63,7 +63,7 @@ romanLyrics: |-
   Khuda Ka Sher Bhi Ek Chikh Maar Kar Roya
   Usi Rasul Ki Beti Ka Wasta Ae Khuda
   Ho Walidain Ko Sehat Ke Sath Umr Ata
-  
+
   7
   Wo Ek Mariz Jo Ash-Shaam Keh Ke Rota Tha
   Jhukaye Sar Wo Hayadar Rota Jata Tha
@@ -71,7 +71,7 @@ romanLyrics: |-
   Usi Mariz Ke Sadqe Se Maangte Haiṅ Shifa
   Maraz Se Pehle Dawa Khalq Tu Ne Ki Hai Khuda
   Baraye Syed-e-Sajjad De Hameiṅ Bhi Shifa
-  
+
   8
   Ilahi Sayyidi Maulaya Ya Aziz o Hakim
   Jalil o Qadir o Jabbar-il-Ali o Azim

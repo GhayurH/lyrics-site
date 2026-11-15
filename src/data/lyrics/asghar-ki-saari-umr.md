@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Ali Rizvi Sachey"
 poet: "Ali Rizvi Sachey"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Asghar ki saari umr safar meiṅ guzar gayi
   Taarikiyoṅ meiṅ haq ki ziya jis se bhar gayi

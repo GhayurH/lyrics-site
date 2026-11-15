@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
 reciter: "Riaz Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["بی آیےء زمبن قتیلت"]
-published: false
+published: true
 romanLyrics: |-
   Bee aayi-ye zambin khutilat
   Kis jurm par maara use Ae zabt gaah-e-Nainawa

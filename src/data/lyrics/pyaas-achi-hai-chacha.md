@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aap achhe haiṅ chacha par ye zamaana nahiṅ achha
   Pyaas achhi hai magar aap ka jaana nahiṅ achha

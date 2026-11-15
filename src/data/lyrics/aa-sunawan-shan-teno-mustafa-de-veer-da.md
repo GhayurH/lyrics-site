@@ -4,9 +4,9 @@ language: "Punjabi"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage"]
+tags: []
 aliases: ["Aa Sunawan Shan Teno Mustafa De Veer Da"]
-published: false
+published: true
 romanLyrics: |-
   Aa dasaaṅ waaṅ shaan tekoṅ Mustafa de vir da
   Khud Khuda parhda ae qasida mede Maula Amir da

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Baba Nisaar Haideri"
 reciter: "Rizwan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Chal diye Shabbir ya Rab sar kataane ke liye
   Kaun hai ab chaadar-e-Zainab ko bachaane ke liye

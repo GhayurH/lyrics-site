@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Agha Ali Hussain"
 reciter: "Hadi Ali Khan Muslim"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Shabbir ka chehlum hai Shabbir ka chehlum hai
 

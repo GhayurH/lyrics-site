@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Takallum Mir"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["ya-shah-e-khurasan-mir-hasan-mir-lyrics-2006"]
-published: false
+published: true
 romanLyrics: |-
   Jin ko sab log gharib-ul-ghuraba kehte haiṅ
   Naam hai in ka Ali un ko Raza kehte haiṅ

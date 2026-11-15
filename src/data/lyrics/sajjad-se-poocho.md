@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Safdar Abbas"
 poet: "Nasir Jahan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Afsos Nabi zaadiyoṅ ka Shaam mein jaana
   Sajjad se puchho

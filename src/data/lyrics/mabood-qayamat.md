@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Asif Bijnori"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Mabood Qayamat"]
-published: false
+published: true
 romanLyrics: |-
   Maabud qayaamat ye mujh pe na guzar jaaye
   Ghairat se kahiṅ mera Sajjad na mar jaaye

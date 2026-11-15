@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: ["Khoon Ke Aansu"]
-published: false
+published: true
 romanLyrics: |-
   Khun ke aansu lahu lahu ye manzar tere naam
   Tapti reti besar laasha-e-Sarwar tere naam

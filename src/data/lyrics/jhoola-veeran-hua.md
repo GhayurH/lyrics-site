@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zulfiqar Ahmed"
 reciter: "Mir Mohsin Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Jhoola Veeran Hua"]
-published: false
+published: true
 romanLyrics: |-
   Jhula viraan hua hai mera Asghar na raha
   Dil pe sadma hai bara mera Asghar na raha

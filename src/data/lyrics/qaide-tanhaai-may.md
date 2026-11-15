@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Akhtar Hussain"
 reciter: "Sangat Imam Hasan Askari"
-tags: ["noImage"]
+tags: []
 aliases: ["Qaide Tanhaai May"]
-published: false
+published: true
 romanLyrics: |-
   Qaid-e-tanhaai mein dam ghutne laga hai mera
   Aa ke sine se lagaao Baba

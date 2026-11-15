@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Najm Afandi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Ashraf Abbas"
 romanLyrics: |-
   Kya sakht maajra hai kahaani Husain ki

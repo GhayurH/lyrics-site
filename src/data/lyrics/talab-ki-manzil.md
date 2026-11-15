@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Izzat Lakhnavi"
 reciter: "Izzat Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Talab ki manzil-e-maqsud Karbala tak hai
   Phir us ke baad nazar arsh-e-kibriya tak hai

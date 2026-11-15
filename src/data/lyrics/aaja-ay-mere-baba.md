@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Azam Hussain"
 reciter: "Aqif Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aaja ae mere baba jaan
   Haye masum Sakina ne tadap kar ye kaha

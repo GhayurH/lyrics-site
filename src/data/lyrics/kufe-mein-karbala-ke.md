@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kufe mein Karbala ke haiṅ aasaar Ya Husain
   Sher-e-Khuda pe chal gayi talwaar Ya Husain

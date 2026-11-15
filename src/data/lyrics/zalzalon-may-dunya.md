@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Anj. Sabile Masumeen"
-tags: ["noImage"]
+tags: []
 aliases: ["Zalzalon May Dunya"]
-published: false
+published: true
 romanLyrics: |-
   Zalzaloṅ mein duniya thi aasmaan larza tha
   Reg-e-garm sahra par Shah-e-Diṅ ka laasha tha

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Salam"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Mazloome Karbala Tak"]
-published: false
+published: true
 romanLyrics: |-
   Mazlum-e-Karbala tak mera salaam le jaa
 

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Haa Ye Mere Bete"]
-published: false
+published: true
 romanLyrics: |-
   Sher hue do waarid-e-lashkar
   Maqtal mein barpa tha mahshar

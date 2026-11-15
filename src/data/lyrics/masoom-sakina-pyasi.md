@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Zameer Akhtar"
 reciter: "Ali Yazdan; Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Masum Sakina pyaasi hai
 

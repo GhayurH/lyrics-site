@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Amma Fizza bata de mujhko patthar kiuṅ aa rahe hain
   Kaisa hai ye charaaghaṅ dil dube ja rahe hain

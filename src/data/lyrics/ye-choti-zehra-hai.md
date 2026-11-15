@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: ["Ye Choti Zehra Hai"]
-published: false
+published: true
 romanLyrics: |-
   Ae Shimr zara kuchh rahm to kha ye chhoti Zehra hai
   Maasum Sakina hai maasum Sakina hai

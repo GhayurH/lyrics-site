@@ -7,9 +7,9 @@ direction: "rtl"
 poet: "Payam Azmi"
 reciter: "Mir Hasan Mir"
 kalamType: "Manqabat"
-tags: ["noImage"]
+tags: []
 aliases: ["suno-bad-e-zahoor-kya-ho-ga-1-4"]
-published: false
+published: true
 # source_id: tajpoints:380caddd928aceaddb1b
 # source_url: https://tajpoints.com/2019/04/suno-bad-e-zahoor-kya-ho-ga-1-4-lyrics.html
 # raw_sha256: 49f4ad83023daf183487e31d2ef03a0a0abd6b4839fda6d15568836771b38d4b

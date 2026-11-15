@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: ["Jawani To Ali Akbar"]
-published: false
+published: true
 romanLyrics: |-
   Jawaani to Ali Akbar luta di
   Magar Islam ki quwwat barha di

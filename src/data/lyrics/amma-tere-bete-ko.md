@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Mir Rehan Abbas"
 poet: "Shumaila Erum"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Amma tere bete ko sitamgaroṅ ne maara
   Sajde mein hua qatl bhara ghar tera pyaasa

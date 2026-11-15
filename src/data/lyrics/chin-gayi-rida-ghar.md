@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ahmed Naved"
 reciter: "Muslim Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Dhalne lagi jo raat mein bewaarisoṅ ki shaam
   Aata hua sawaar jo dekha su-e-qiyaam

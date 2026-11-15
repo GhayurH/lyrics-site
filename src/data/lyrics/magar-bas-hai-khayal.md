@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hasan Imdad"
 reciter: "Ali Rizvi Sachey"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Dabe jab hum na agloṅ se to in ki kya haqiqat hai
   Magar bas hai khayal is ka ke ye nana ki ummat hai

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ehsaas-e-yatimi hai viraaṅ hai Ali ka ghar
   Bin baap ke ye pehli raat aayi hai bachchoṅ par

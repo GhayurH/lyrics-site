@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Naqvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Abbas ka jab zikr-e-wafa karti thiṅ Sughra
   Bas khair ki us waqt dua karti thiṅ Sughra

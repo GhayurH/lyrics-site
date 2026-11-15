@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Buknalvi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Tujhe Roun Ali Akbar"]
-published: false
+published: true
 romanLyrics: |-
   Tujhe dulha banaauṅ ya tujhe rouṅ Ali Akbar
   Tera sehra sajaauṅ ya tujhe rouṅ Ali Akbar

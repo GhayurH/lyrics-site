@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Marsiya"
 reciter: "Alamdar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: ["Jab Sadre Zeen Se Gir"]
-published: false
+published: true
 romanLyrics: |-
   Jab sadr-e-ziṅ se gir pare Abbas bawafa
   Jangal se aayi girya-e-Zehra ki bhi sada

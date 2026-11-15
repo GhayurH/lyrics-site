@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Majid Raza Abidi"
 reciter: "Mukhtar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: ["Haye Hydere Karrar"]
-published: false
+published: true
 romanLyrics: |-
   Jibril ro ke kehte haiṅ haq ki duhaai hai
   Zarbat Ali ne sajda-e-Khaaliq meiṅ khaai hai

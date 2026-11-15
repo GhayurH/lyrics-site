@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hilal Mirza"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ahl-e-haram ko Kufi o Shaami sataate haiṅ
   Mushkil kusha ke pote ko qaidi banaate haiṅ

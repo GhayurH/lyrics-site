@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mirza Dabeer"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Aaj Hai Chaliswan"]
-published: false
+published: true
 romanLyrics: |-
   Shaam se jab Ahl-e-Bait bar-sar-e-uryaaṅ chale
   Yaani su-e-Karbobala chaak girebaaṅ chale

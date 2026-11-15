@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Masroor"
 reciter: "Alamdar Razvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sultan-e-zaman aa gaye wa hasrat o darda
   Maidaan-e-bala mein

@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Mushtaq Hussain"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: ["Bhoola Hai Na"]
-published: false
+published: true
 romanLyrics: |-
   Bhula hai na bhule ga taa hashr zamaana
   Darbaar-e-Yazidi mein tera khutba sunaana

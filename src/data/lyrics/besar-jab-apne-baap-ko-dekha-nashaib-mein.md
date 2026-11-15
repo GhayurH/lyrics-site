@@ -22,10 +22,10 @@ romanLyrics: |-
   ek laash bol uthi meri beti meiṅ huṅ yahaṅ
   lekar usi sada ka sahara puhanch gayi
   roti hui nashaib mieṅ dukhiya puhanch gayi
-  
+
   besar jo apne baap ko dekha nashaib meiṅ
   royi bohat yatim sakina nashaib meiṅ
-  
+
   1
   maqtal may laash baap ki jab sar kati mili
   thi umr char saal ki bachi tarap gayi
@@ -41,7 +41,7 @@ romanLyrics: |-
   haalat pidar ki dekh ke royi bohat gharib
   beti ke saath baap bhi roya nashaib meiṅ
   royi bohat yatim sakina...
-  
+
   3
   aage barhi husain ki mazlum ghamzada
   tiroṅ se jism baap ka dekha bhara hua
@@ -57,7 +57,7 @@ romanLyrics: |-
   rukhsaar apne baap ke talwoṅ pe rakh diya
   le kar padar ke paaoṅ ka bosa nashaib meiṅ
   royi bohat yatim sakina...
-  
+
   5
   apne pidar ki laash pe le le ke siskiyaṅ
   wo apne dard baap se karne lagi bayaṅ

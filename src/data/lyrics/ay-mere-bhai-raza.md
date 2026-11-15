@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Mere Bhai Raza", "اے غریب الغربا اے میرے بھای رضا"]
-published: false
+published: true
 romanLyrics: |-
   Ae Gharib-ul-ghurba ae mere bhai Raza
   Ro ke Masuma-e-Qum Qum se deti hai sada

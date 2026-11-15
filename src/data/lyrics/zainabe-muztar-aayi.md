@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Mohd. Sultanpuri"
 reciter: "Ali Mohd. Sultanpuri"
-tags: ["noImage"]
+tags: []
 aliases: ["Zainabe Muztar Aayi"]
-published: false
+published: true
 romanLyrics: |-
   Karbobala se lut ke ammaaṅ
   Zainab-e-muztar aayi hai

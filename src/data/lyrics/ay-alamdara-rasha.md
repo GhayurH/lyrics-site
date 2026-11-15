@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Alamdara Rasha"]
-published: false
+published: true
 romanLyrics: |-
   Ae alamdara Ghazi Abbasa
   Ae alamdara raasha zama ro ra

@@ -12,27 +12,27 @@ published: true
 romanLyrics: |-
   Sajjad Mai Zainab Huṅ, Mere Sar Pe Rida Koi Nai, Bazaare Jafa
   Majma Hai Kufiyoṅ Ka, Mere Chalne Ki Jaa Koi Nai, Bazaare Jafa
-  
+
   1
   Sajjad Mere Sar Se Aadaa Ne Chini Chadar
   Balwe Mai Nabi Zadi Phirwayi Gayi Dar Dar
   Mil Jaye Rida Mujhko, Aur Meri Dua Koi Nai, Bazaare Jafa
-  
+
   2
   Sajjad Mere Dil Ko Ye Dard Satata Hai
   Sar Ghazi Ka Naize Se Jab Khaak Pe Aata Hai
   Sar Mere Khula Dekh Ke Gham Is Se Bara Koi Nai, Bazaare Jafa
-  
+
   3
   Sajjad Chaluṅ Kaise, Lakhoṅ Haiṅ Tamashayi
   Yaad Aata Hai Reh Reh Ke Abbas Mera Bhai
   Faryad Karuṅ Tujhse, Ab Tere Siwa Koi Nai, Bazaare Jafa
-  
+
   4
   Malum Hai Aada Ko Ghazi Ki Behan Huṅ Mai
   beDast Hai Wo Ghazi, Pabande Rasan Huṅ Mai
   Yaad Aayi Wafa Uski Jab Paas Raha Koi Nai, Bazaare Jafa
-  
+
   5
   Majbur huṅ bebas huṅ maiṅ ro bhi nahiṅ sakti
   durroṅ ki aziyat se maiṅ so bhi nahiṅ sakti
@@ -42,17 +42,17 @@ romanLyrics: |-
   Sajjad Teri Haalat Dekhi Nahi Jati Hai
   beParda Mujhe Dekhe, Ye Baat Rulati Hai
   Sajjad Teri Tarha Kantoṅ Pe Chala Koi Nai, Bazaare Jafa
-  
+
   7
   Jata Hai Suye Zindaṅ Ab Kunba Mohamed Ka
   Rassi Mai Bandhe Qaidi, Kantoṅ Se Bhara Rasta
   Ummat Ne Sitam Dhaye, Kismat Se Gila Koi Nai, Bazaare Jafa
-  
+
   8
   Maut Aayegi Zindaṅ Mai Meri Bali Sakina Ko
   Kya Jake Bataungi Bemaare Madina Ko
   Gham Dil Ke Uthane Ko Ab Baqi Bacha Koi Nai, Bazaare Jafa
-  
+
   9
   Bazaare Sitam Mai Tha Zainab Ka Ajab Aalam
   Mazhar Mai Likhuṅ Kaise, Zalim Ne Kaha Jis Dam

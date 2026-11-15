@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Subh-e-Ashur Ali Akbar teri azaaṅ
   Kaleja thaam ke khaime meiṅ royi maaṅ

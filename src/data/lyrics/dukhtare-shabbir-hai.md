@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: ["Dukhtare Shabbir Hai", "ہاے سکینہ ہاے ہاے سکینہ"]
-published: false
+published: true
 romanLyrics: |-
   Haaye Sakina haaye haaye Sakina
 

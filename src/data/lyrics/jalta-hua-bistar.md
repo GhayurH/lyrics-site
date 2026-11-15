@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Kaleem Zafar"
 reciter: "Mukhtar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jalta hua bistar koi bimaar na dekhe
   Bejurm o khata tauq-e-giraaṅ baar na dekhe

@@ -6,9 +6,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage"]
+tags: []
 aliases: ["Aa Teere Garan Le"]
-published: false
+published: true
 romanLyrics: |-
   Aa tir-e-giraaṅ le gardan par
   Ab pura kar Ashur Asghar

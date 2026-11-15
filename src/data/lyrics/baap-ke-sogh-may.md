@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Fakhri Meerthi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Baap Ke Sogh May"]
-published: false
+published: true
 romanLyrics: |-
   Baap ke sog mein chaalis baras roye haiṅ
   Aaj Sajjad hamesha ke liye soye haiṅ

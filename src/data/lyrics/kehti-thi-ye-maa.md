@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Mehshar Lakhnavi"
 reciter: "Tabligh-e-Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kehti thi ye maaṅ khuṅ bhari mayyat se lipat kar
   Haaye haaye Ali Akbar haaye haaye Ali Akbar

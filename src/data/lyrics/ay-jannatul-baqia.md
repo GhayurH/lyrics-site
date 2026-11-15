@@ -9,9 +9,9 @@ poet: "Sibte Jafar"
 reciter: "Sibte Jafar"
 bastaPage: 420
 bastaNote: "NoHayOnline کا مختصر متن؛ اسی کلام کا مفصل متن بستہ صفحات ۴۲۰–۴۲۱ پر ہے۔"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Jannatul Baqia"]
-published: false
+published: true
 romanLyrics: |-
   Ye zindagi hai tujh se ae Jannatul Baqia
   Gham aur khushi hai tujh se ae Jannatul Baqia

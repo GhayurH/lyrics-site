@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Abbas"
 reciter: "Muslim Jafri"
-tags: ["noImage"]
+tags: []
 aliases: ["Jee Nahi Payegi Maa"]
-published: false
+published: true
 romanLyrics: |-
   Laasha-e-Akbar pe hai ye Umm-e-Laila ki fughaaṅ
   Ji nahiṅ paaegi maaṅ

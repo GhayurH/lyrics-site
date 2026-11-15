@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mahir Lakhnavi"
 reciter: "Faazil Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: ["Phool Sehraon May"]
-published: false
+published: true
 romanLyrics: |-
   Phul sahraaoṅ mein Aabid ne khila daale hai
   Kitne wiraan bahaaroṅ ne basa daale haiṅ

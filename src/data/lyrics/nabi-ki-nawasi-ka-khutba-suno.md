@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Shaukat Raza Shaukat"
 reciter: "Syed Wajhi Hasan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Nabi Ki Nawasi Ka Khutba Suno"]
-published: false
+published: true
 romanLyrics: |-
   Nabi Ki Nawaasi Ka Khutba Suno
 

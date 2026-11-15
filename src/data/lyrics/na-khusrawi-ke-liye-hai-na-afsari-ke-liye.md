@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Razi Mir"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["na-khusrawi-ke-liye-hai-na-afsari-ke-liye-mir-hasan-mir-lyrics-2010"]
-published: false
+published: true
 romanLyrics: |-
   Na khusrawi ke liye hai na afsari ke liye
   Zabaan waqf hai bas madh-e-Askari ke liye

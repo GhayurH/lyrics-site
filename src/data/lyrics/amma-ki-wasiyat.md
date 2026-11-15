@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Shadman Raza"
 poet: "Qamar Hasnain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zainab utho Shabbir barho
   Zainab utho bhai ke gale ko bosa do

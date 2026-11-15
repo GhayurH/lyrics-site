@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Taha Istefa"
 reciter: "Mir Arif Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kehta hai tum se maah-e-Muharram Husainiyoṅ
   Mazlum-e-Karbala ka hai ye gham Husainiyoṅ

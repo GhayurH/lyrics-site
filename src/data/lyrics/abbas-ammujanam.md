@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jab aa gayi Shaam-e-Gharibaṅ bapa hua matam
   Khiyam-e-Shah se aati thi ek sada paiham

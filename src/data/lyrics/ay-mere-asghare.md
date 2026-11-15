@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mirza Murtaza Ali"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Mere Asghare"]
-published: false
+published: true
 romanLyrics: |-
   Ae mere Asghar-e-bezabaaṅ
   Tujhe dhundne jaauṅ kahaaṅ

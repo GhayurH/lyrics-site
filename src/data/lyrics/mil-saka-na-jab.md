@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Mil saka na jab Ali Akbar ka laasha der tak
   Ghutniyoṅ chalte rahe maqtal mein Maula der tak

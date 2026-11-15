@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ye madar-e-Asghar ne kaha khaak ura kar
   Asghar tujhe dhunduṅ main kahaaṅ dasht mein jaa kar

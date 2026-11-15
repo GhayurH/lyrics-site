@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Toosi Zangipuri"
 reciter: "Mir Mohsin Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Amma Fizza main thak gayi chal ke
   Zaalim baithne na deta hai

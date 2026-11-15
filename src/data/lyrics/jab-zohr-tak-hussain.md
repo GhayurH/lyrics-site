@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Sibte Jafar"
 sixVerseLayout: "pairs"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jab zohr tak Husain bahattar ko ro chuke
   Ek do pahar mein chhote se lashkar ko ro chuke

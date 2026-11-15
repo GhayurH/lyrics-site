@@ -20,50 +20,50 @@ romanLyrics: |-
 
   Maiṅ kaise uthuṅ aaqa, mere haath nahiṅ haiṅ
   Mere haath nahiṅ haiṅ
-  
+
   Paauṅ nhi chu sakta, mere haath nahiṅ haiṅ
   Mere haath nahiṅ hai
-  
+
   1
   Aaqa ye ghulaami ka sila kaisa diya hai
   Kis pyaar se sar aapne zaanu pa rakha hai
   Uthkar salaam karta, mere haath nahiṅ hai
-  
+
   2
   Jo haath tere kaam na aye mere maula
   Bachpan me hi kat jate to hota bohot acha
   Tum inko nahiṅ chuna, mere haath nahiṅ haiṅ
-  
+
   3
   Aaza-e-badan tum ho to paikar nahiṅ hota
   Maazur pe gharwala bhi muztar nahiṅ hota
   Ghar mujhko na le jana, mere haath nahiṅ hai
-  
+
   4
   Dil rota hai marte hue, kiya beadabi hai,
   Jin haatho ke katne se qamar Sheh ki jhuki hai
   Sidhi nahiṅ kar sakta, mere haath nahiṅ haiṅ
-  
+
   5
   Bhaari hai alam tum na uthao ise maula
   Tuti hai qamar dekhiye tanha na uthega
   Aqa maiṅ huṅ sharminda, mere haath nahiṅ hai
-  
+
   6
   Godi maiṅ Sakina ko uthauga maiṅ kaise
   Kis tarha nibhaunga ghulaami ke tarike
   Ye kam to nahiṅ sadma, mere haath nahiṅ haiṅ
-  
+
   7
   Maiṅ zaamin-e-chaadar tha, muhaafiz tha haram ka
   Ab zinda bhi reh jauṅ to kya faida Aaqa
   Zainab ko bata dena, mere haath nahiṅ haiṅ
-  
+
   8
   Jab ziṅ se zamiṅ ki taraf aane laga maula
   Na koi madadgaar tha, na koi sahara
   Us waqt khayaal aya, mere haath nahiṅ haiṅ
-  
+
   9
   Ye nauha-e-Ghazi sar-e-majlis jo Raza hai
   Rehan-e-aza kehta hai ye maujiza kya hai

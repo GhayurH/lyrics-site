@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Majid Raza Abidi"
 reciter: "Mukhtar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: ["Mai Jaa Rahi Hoo"]
-published: false
+published: true
 romanLyrics: |-
   Ye keh rahi thi Fatema
   Hai aakhri meri sada

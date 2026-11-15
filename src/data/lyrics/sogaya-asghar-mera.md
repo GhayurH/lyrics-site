@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shams Baltistani"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   So gaya Asghar mera aur Alqama behti rahi
   Haaye bekas bezubaaṅ par zindagi roti rahi

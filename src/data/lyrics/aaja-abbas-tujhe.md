@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Khursheed Haider"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aaja Abbas tujhe ro ro bulaye Zainab
   Kaise paaband-e-rasan Shaam mein jaaye Zainab

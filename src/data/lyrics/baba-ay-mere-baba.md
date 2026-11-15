@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Suroor Lakhnavi"
 reciter: "Anj. Grohe Hussain"
-tags: ["noImage"]
+tags: []
 aliases: ["Baba Ay Mere Baba"]
-published: false
+published: true
 romanLyrics: |-
   Baba ae mere baba aao dhal gaya suraj
   Har taraf hai sannaata aao dhal gaya suraj

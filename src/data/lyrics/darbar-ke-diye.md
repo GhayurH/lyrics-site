@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Qaisar Barhvi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Chhaaya hayaat-e-Bint-e-Nabi par wo intizaar
   Tarpe tah-e-mazaar bhi mahbub-e-Kirdigaar

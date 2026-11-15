@@ -7,10 +7,10 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Takallum Mir"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
 recitationId: "bain-ul-harmain-1-2-mir-hasan-mir"
-published: false
+published: true
 # source_id: tajpoints:94bc25ae0ee9217f8321
 # source_url: https://tajpoints.com/2017/05/bain-ul-harmain-1-2.html
 # raw_sha256: f9c87c1d208333c9ad39fa977f62f1f38aed2330f54692a2a629aba667603e56

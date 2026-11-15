@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Salman Azmi"
 reciter: "Ali Jee"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tanhaai-e-man
   Man Zulfiqaar-e-Haidaram

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nasir Hussain"
 reciter: "Mir Arif Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Rab Ka Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Maula Husain aaqa Husain
   Aaqa Husain qibla Husain

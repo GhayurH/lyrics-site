@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Shaukat Raza Shaukat"
-tags: ["noImage"]
+tags: []
 aliases: ["Yousuf E Aal E Muhammad Shehzada Ali Akbar"]
-published: false
+published: true
 romanLyrics: |-
   1
   Jahaan-e-husn meiṅ hai yeh waqaar Akbar ka

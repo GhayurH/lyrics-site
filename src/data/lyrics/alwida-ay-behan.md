@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mehshar Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: ["Alwida Ay Behan"]
-published: false
+published: true
 romanLyrics: |-
   Alwida ae behan alwida
   Bole Shah-e-Zamaṅ alwida

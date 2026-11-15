@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Izhaar"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Dunya mein jo bedaari ki aawaaz hai har jaa
   Hai bint-e-Payambar tere Shabbir ka sadqa

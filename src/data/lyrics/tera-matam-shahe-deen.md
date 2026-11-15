@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mazhar Abidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Tera Matam Shahe Deen"]
-published: false
+published: true
 romanLyrics: |-
   Tera gham zinda hai abhi tak sogwaroṅ mein
   Tera maatam Shah-e-Diṅ bapa hai chaand taaroṅ mein

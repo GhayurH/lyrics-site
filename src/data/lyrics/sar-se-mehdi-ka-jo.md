@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Samar Zaidi"
 reciter: "Mazahir Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sar se Mehdi ke jo baaba ka utha hai saaya
   Yaad Maula ko Sakina ka tarapna aaya

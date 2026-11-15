@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Mukhtar Husain"
 poet: "Hasnain Akbar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Deti rahi bachchoṅ ko Sakina ye dilaase
   Paani ka main keh aayi huṅ Abbas chacha se

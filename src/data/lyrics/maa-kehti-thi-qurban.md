@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Zahid"
 reciter: "Mukhtar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maa kehti thi qurbaan tumhare Ali Asghar
   Pyaare Ali Asghar mere pyaare Ali Asghar

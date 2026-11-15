@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Fida Ali"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: ["Sehra May Paara"]
-published: false
+published: true
 romanLyrics: |-
   Sehra mein paara paara naushaah-e-Karbala hai
 

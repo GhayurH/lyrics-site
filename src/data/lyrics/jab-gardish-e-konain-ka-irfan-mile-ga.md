@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Faqeer Arif Imam"
-tags: ["noImage"]
+tags: []
 aliases: ["jab-gardish-e-konain-ka-irfan-mile-ga-lyrics-2024-best-manqabat"]
-published: false
+published: true
 romanLyrics: |-
   Jab gardish-e-Konain ka irfaan mile ga
   Har daaira Haider ka sana khwaaṅ mile ga

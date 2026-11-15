@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Shab-e-ikkiswiṅ Ramzaan aur rukhsat ka wo manzar
   Ali ne alwida bola to boli betiyaṅ ro kar

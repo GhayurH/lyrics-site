@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Jawad Haqir"
 reciter: "Kumail Husain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Muslim ka qatl hona aaghaaz-e-Karbala hai
   Sayyid ka khuṅ bahaana aaghaaz-e-Karbala hai

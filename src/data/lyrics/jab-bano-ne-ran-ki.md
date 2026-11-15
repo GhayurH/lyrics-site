@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Sibte Jafar"
 sixVerseLayout: "pairs"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   1
   Jab Bano ne ran ki Ali Akbar ko raza di

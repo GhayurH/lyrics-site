@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Aamir Sahib India"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["mola-mola-bol-musalaman-mola-mola-bol-mir-hasan-mir"]
-published: false
+published: true
 romanLyrics: |-
   Mola Mola bol Musalmaan Mola Mola bol
 

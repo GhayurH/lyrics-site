@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Sharib"
 reciter: "Mir Afsar Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ye kehta hua dub gaya subh ka taara
   Aaj uth gaya dunya se ghariboṅ ka sahaara

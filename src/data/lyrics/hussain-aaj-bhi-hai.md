@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Salam"
 poet: "Mir Takallum"
 reciter: "Mukhtar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Hai Karbala ka ye daawa Husain aaj bhi hai
   Ye kis ne keh diya kal tha Husain aaj bhi hai

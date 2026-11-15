@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Yasir Raza Yasir"
 reciter: "Syed Wajhi Hasan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Anna Majnoonal Ali Faqeer-e-Mula 1-6"]
-published: false
+published: true
 romanLyrics: |-
   1
   Meri masti mein Qalandar ki raza shaamil hai

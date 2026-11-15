@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Khaali Jhoola Hai"]
-published: false
+published: true
 romanLyrics: |-
   Jhule mein khelne waale
 

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ainee Rizvi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: ["Hussain Mara Gaya"]
-published: false
+published: true
 romanLyrics: |-
   Farmaati hai ye Hazrat-e-Salma jigar figaar
   Ek roz mere khwaab mein aaye falak waqaar

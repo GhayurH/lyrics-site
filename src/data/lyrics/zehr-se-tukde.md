@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Qais Zangipuri"
-tags: ["noImage"]
+tags: []
 aliases: ["Zehr Se Tukde"]
-published: false
+published: true
 reciter: "Syed Rashid Abbas"
 romanLyrics: |-
   Zehr se tukre kaleja ho gaya

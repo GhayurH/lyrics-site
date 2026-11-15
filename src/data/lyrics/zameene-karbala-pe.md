@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Syeda Naqvi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zameen-e-Karbala pe dil tarapta chhor aaya huṅ
   Gham-e-Shabbir mein rota bilakta chhor aaya huṅ

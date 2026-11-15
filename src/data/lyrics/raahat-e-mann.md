@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Mohd. Sultanpuri"
 reciter: "Ali Mohd. Sultanpuri"
-tags: ["noImage"]
+tags: []
 aliases: ["Raahat E Mann"]
-published: false
+published: true
 romanLyrics: |-
   Raahat-e-man Akbar
 

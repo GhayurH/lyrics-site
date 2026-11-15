@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Shahzada e Akbara rasha pas e loona waqt nu bahaar de
   Khat likhti hai Sughra bhaiya watan aa ja waqt nu bahaar de

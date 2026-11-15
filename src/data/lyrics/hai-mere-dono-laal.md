@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anees Pehersari"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Hawa ke dosh pe gunji jo ik nai sada
   Salaam alaik ibn-e-Rasul-e-Shaah-e-huda

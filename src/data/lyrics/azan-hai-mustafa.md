@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
 reciter: "Tabligh-e-Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Azaaṅ hai Mustafa aur Murtaza meri iqaamat hai
   Yehi mazhab hai mera aur yehi meri ibaadat hai

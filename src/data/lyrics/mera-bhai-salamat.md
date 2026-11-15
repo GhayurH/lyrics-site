@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: ["Mera Bhai Salamat"]
-published: false
+published: true
 romanLyrics: |-
   Ik khun ka rishta hai yehi bol raha hai
   Bhai behan ka ye rishta anmol raha hai

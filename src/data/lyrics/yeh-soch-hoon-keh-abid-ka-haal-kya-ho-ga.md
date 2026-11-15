@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Salam"
 poet: "Nawab Arif Husain"
 reciter: "Ustad Fateh Ali Khan"
-tags: ["noImage"]
+tags: []
 aliases: ["Yeh Soch Hoon Keh Abid Ka Haal Kya Ho Ga"]
-published: false
+published: true
 romanLyrics: |-
   1
   Yeh soch huṅ keh Abid ka haal kya hoga

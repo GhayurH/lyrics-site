@@ -7,9 +7,9 @@ direction: "rtl"
 poet: "Hasnain Akbar"
 reciter: "Mir Hasan Mir"
 kalamType: "Manqabat"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 # source_id: tajpoints:9b77fcc00b4e76d690e4
 # source_url: https://tajpoints.com/2017/02/suno-suno-qamber-ki-our-fizza-ki-guftgu.html
 # raw_sha256: 123f2bc32dbd5be08fc14c1282d1adfaa68f8b778f05c971840c0e5fce352f1e

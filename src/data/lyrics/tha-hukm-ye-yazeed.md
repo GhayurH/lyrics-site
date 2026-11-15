@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Sibte Jafar"
 sixVerseLayout: "pairs"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tha hukm ye Yazeed ka paani bashar piyeṅ
   Ghore piyeṅ sawaar piyeṅ aur shutar piyeṅ

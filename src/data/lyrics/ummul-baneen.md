@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: ["Ummul Baneen"]
-published: false
+published: true
 romanLyrics: |-
   Jab bhi aaya koi Abbas ka pursa dene
   Ro ro ke har ek se ye Abbas ki maadar ne kaha

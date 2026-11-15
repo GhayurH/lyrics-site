@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Anees Pehersari"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Nanhe mujaahid ran mein jaa kar
   Tum nahiṅ aaye

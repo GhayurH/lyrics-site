@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Abbas"
 reciter: "Sajid Jafri"
-tags: ["noImage"]
+tags: []
 aliases: ["Farshe Majlis Pe"]
-published: false
+published: true
 romanLyrics: |-
   Ae azaadaar-e-Shaah-e-Karbobala
   Farsh-e-majlis pe aa gayi Zehra

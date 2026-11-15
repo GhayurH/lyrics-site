@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Majid Raza Abidi"
 reciter: "Mukhtar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Bhaiya Abbas"]
-published: false
+published: true
 romanLyrics: |-
   Kehte the Hazrat-e-Shabbir ae bhaiya Abbas
   Bachche pyaase haiṅ unheṅ paani pilaana Abbas

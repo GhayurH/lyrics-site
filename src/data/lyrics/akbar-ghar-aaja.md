@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Irfan Haider"
 romanLyrics: |-
   Andhere ghar mein Sughra diye jalaati hai

@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Salaam
 reciter: "Alamdar Razvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Arbaeen ke sogwaaro alwida
   Aakhri majlis hai yaaro alwida

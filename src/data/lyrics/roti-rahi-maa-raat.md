@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Bober Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Mir Bober Ali"
 romanLyrics: |-
   Aaja Asghar god mein kehti rahi maaṅ raat bhar

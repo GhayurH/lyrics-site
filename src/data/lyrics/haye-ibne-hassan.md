@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Sirsvi"
 reciter: "Irfan Hussain"
-tags: ["noImage"]
+tags: []
 aliases: ["Haye Ibne Hassan"]
-published: false
+published: true
 romanLyrics: |-
   Haye Ibn-e-Hasan pe kya guzri
 

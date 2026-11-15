@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sada ye deti thi bint-e-Ali Husain ke baad
   Nahiṅ hai maut se kam zindagi Husain ke baad

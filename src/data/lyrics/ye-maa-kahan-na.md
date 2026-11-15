@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Mirza Dabeer"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Yasrab mein aai khwaab mein Zainab ke yuṅ Batul
   Maatha bhara tha khun mein sar par rida na thi

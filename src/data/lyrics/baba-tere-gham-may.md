@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Irfan"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: ["Baba Tere Gham May"]
-published: false
+published: true
 romanLyrics: |-
   Baba tere gham meiṅ ye bechain Sakina hai
   Zindaṅ ke andhere meiṅ mushkil mera jina hai

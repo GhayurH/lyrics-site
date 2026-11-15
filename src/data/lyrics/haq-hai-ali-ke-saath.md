@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haq hai Ali ke saath Ali hai Nabi ke saath
   Ye jis ke saath hai hai Khuda bhi unhiṅ ke saath

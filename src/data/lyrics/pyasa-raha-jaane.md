@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Najm Afandi"
 reciter: "Nasir Jahan"
-tags: ["noImage"]
+tags: []
 aliases: ["Pyasa Raha Jaane"]
-published: false
+published: true
 romanLyrics: |-
   Pyasa raha jaan-e-Nabi
   Ae waae Nahr-e-Alqama

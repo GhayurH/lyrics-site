@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mirza Murtaza Ali"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Qayamat hai ke laash-e-Shaah-e-din karwat badalti hai
   Khule sar ran meiṅ Bint-e-Fatima Zehra nikalti hai

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mujahid Lakhnavi"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Hontoṅ pe mere naam-e-Ali naam-e-Ali hai
   Sun kar jise mushkil bari mushkil meiṅ pari hai

@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Zeeshan Abidi"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jab ahl-e-haram ne Shaam ke zindaaṅ se rihaai paayi
   Sajjad tarap ke kehne lage jab yaad Sakina aayi

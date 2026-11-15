@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Irfan Haider"
-tags: ["noImage"]
+tags: []
 aliases: ["Tum Sakina Ko Bhool"]
-published: false
+published: true
 romanLyrics: |-
   Jab rida betiyoṅ ko pehnaana
   Tum Sakina ko bhul na jaana

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Saqlain Akbar"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: ["Soja Mere Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Dunya meiṅ jab zuhur hua tha Husain ka
   Har waqt apni god meiṅ rakhti thi Sayyeda

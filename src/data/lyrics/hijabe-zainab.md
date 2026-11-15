@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Jaun"
 reciter: "Shakir Hussain"
-tags: ["noImage"]
+tags: []
 aliases: ["Hijabe Zainab"]
-published: false
+published: true
 romanLyrics: |-
   Alam jhuka to hijaab-e-Zainab
   Pe mushkiloṅ ke sairaab chhaaye

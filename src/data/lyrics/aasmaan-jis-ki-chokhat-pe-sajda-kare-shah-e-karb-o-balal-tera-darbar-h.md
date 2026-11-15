@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Allama Dr Majid Raza Abidi"
 reciter: "Syed Wajhi Hasan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Aasmaan Jis Ki Chokhat Pe Sajda Kare Shah-e-Karb o Bala Tera Darbar Hai"]
-published: false
+published: true
 romanLyrics: |-
   Aasmaṅ jis ki chokhat pe sajda kare Shah-e-Karb o Bala tera darbar hai
   Jis meiṅ aansu bhare hoṅ tere naam ke bakhuda bas wohi aankh bedar hai

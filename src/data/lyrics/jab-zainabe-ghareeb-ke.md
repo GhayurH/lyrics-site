@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Marsiya"
 reciter: "Mustafa Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jab Zainab-e-Ghareeb ke ran mein pisar lare
   Tanha lare ye aah wo sab ahl-e-shar lare

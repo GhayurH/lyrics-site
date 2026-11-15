@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ahsan Mujtaba"
 reciter: "Kazmi Brothers"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Mila nahiṅ tera sina Sakina zinda hai
   Tamaanche khaa ke bhi Baba Sakina zinda hai

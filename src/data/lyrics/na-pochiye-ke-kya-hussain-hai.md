@@ -14,67 +14,67 @@ romanLyrics: |-
   Khuda Ke Din Ka Na-Khuda
   Har Ibtida Ki Ibtida
   Karam Ki Inteha Husain Hai
-  
+
   1
   Kare Jo Humsari Kisi Ki Kya Majal Hai
   Jahaṅ Meiṅ Har Lehaz Se Husain beMisal Hai
   Yeh Ho Chuka Hai Faisla, Na Koi Dosra Khuda
   Na Koi Dosra Husain Hai
-  
+
   2
   Asir-e-Sham Par Nigah Ki To Hurr Bana Diya
   Jo Mar Rahe The Unko Zindagi Ka Gur Sikha Diya
   Husain Hai Hayat Gar, Husain Azmatoṅ Ka Ghar
   Azim Rehnuma Husain Hai
-  
+
   3
   Karo Ge Gar Mukhalifat Gham-e-Husain Ki Yahaṅ
   Woh Hashar Hoga Hashar Meiṅ Ke Al-Hafiz o Al-Amaaṅ
   Jahaṅ Bhi Chupne Jao Ge, Kahiṅ Pe Bach Na Pao Ge
   Ke Har Jagah Mera Husain Hai
-  
+
   4
   Miyan-e-Dasht-e-Nainwa Ulatne Fauj-e-Ashqiya
   Barha Jo Shah-e-Karbala Utha Ke Taig-e-La-Fatah
   Lagi Jo Sar Utarne, Kaha Yeh Zulfiqar Ne
   Ghazab Ka Sorma Husain Hai
-  
+
   5
   Qaza Ke Baad Phir Mujhe Nayi Hayat Mil Gayi
   Fishar Se Azab Se Mujhe Nijat Mil Gayi
   Sawal Jab Kiya Gaya Hai, Kaun Tera Rehnuma
   To Maiṅ Ne Keh Diya Husain Hai
-  
+
   6
   Hai Jis Ki Fikr Karbala, Husain Woh Dimagh Hai
   Yeh Panjtan Ki Anjuman Ka Panchwaṅ Charagh Hai
   Hasan Ka Pehla Humsafar, Ali Ka Dosra Pisar
   Imam Tisra Husain Hai
-  
+
   7
   Shahid-e-Karbala Ka Gham Jise Bhi Na-Gawar Hai
   Woh Bad-Amal Hai, Bad-Nasab, Usi Pe beShumar Hai
   Are O Dushman-e-Aza, Tu Mar Zara Lehad Meiṅ Ja
   Pata Chalega Kya Husain Hai
-  
+
   8
   Woh Jis Ne Baandh Kar Hawa, Jala Diya Bujha Diya
   Zamin Ko Jis Ne Arsh Se Buland Martaba Diya
   Woh Jis Ne Kainat Ka Nizam Hi Badal Diya
   Ek Aisa Mojiza Husain Hai
-  
+
   9
   Kisi Ko Hosla Diya, Kisi Ko Bakhsh Di Sehar
   Diye Kisi Ko Baal o Par, Kisi Ko De Diye Pisar
   Pukari Banda-Parwari, Lughat Meiṅ Ahl-e-Ishq Ki
   Madad Ka Tarjuma Husain Hai
-  
+
   10
   Hidayat-e-Husain Par Amal Karo Husainiyo
   Rahenge Hum Bahisht Meiṅ, Yaqin Rakho Husainiyo
   Qabul Hogi Har Dua, Kisi Se Kiuṅ Dareiṅ Bhala
   Hamara Wasta Husain Hai
-  
+
   11
   Surur Gohar-e-Hunar Hua Yeh Khwab Dekh Kar
   Saje Huye Haiṅ Khuld Meiṅ Tamam Momino Ke Ghar

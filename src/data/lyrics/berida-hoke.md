@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Sadiq"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Berida ho ke Payambar ke gharaane waale
   Aaj darbaar meiṅ zaalim ke haiṅ aane waale

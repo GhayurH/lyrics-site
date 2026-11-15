@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: ["Lashkar May Badi"]
-published: false
+published: true
 romanLyrics: |-
   Sher-e-Ali ki aamad hai ye
   Aate haiṅ darya pe alamdaar

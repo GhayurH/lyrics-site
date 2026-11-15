@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Qais Zangipuri"
 reciter: "Mir Mohsin Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sheh ne Zainab se kaha maqtal mein tum aana nahiṅ
   Ae behan khanjar tale bhaai ko tarpaana nahiṅ

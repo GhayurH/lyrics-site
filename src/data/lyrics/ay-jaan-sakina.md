@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Hilmi Afandi"
 reciter: "Abbas Mirza"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Jaan Sakina"]
-published: false
+published: true
 romanLyrics: |-
   Ae jaan Sakina naadaan Sakina
   Ae Shaam ke zindaan ki mehmaan Sakina

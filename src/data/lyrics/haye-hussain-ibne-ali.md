@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar & J. Jaffri"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Haye Hussain Ibne Ali"]
-published: false
+published: true
 romanLyrics: |-
   Husaina Husaina mazlum Karbobala
 

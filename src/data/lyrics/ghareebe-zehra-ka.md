@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ghareebe Zehra Ka"]
-published: false
+published: true
 romanLyrics: |-
   Kiya hai paamaal is ko ran mein
   Haiṅ zakhm hi zakhm is badan mein

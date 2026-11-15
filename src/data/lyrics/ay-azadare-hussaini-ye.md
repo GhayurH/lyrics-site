@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hilal Naqvi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Azadare Hussaini Ye"]
-published: false
+published: true
 romanLyrics: |-
   Zinda rahe zinda rahe zinda rahe
 

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Abid Jafri"
 reciter: "Mukhtar Husain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Husain god mein laasha-e-pisar jo laate haiṅ
   Wo baar ho hai ke har gaam dagmagaate haiṅ

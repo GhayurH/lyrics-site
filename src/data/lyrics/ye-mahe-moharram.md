@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Ali Shanawar, Ali Jee"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Arz-e-Karbala arz-e-Nainawa
   Ye maah-e-Muharram hai ye ayyaam-e-aza hai

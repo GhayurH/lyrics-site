@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
 reciter: "Tabligh-e-Imamia"
-tags: ["noImage"]
+tags: []
 aliases: ["Qamare Fatema Ki"]
-published: false
+published: true
 romanLyrics: |-
   Qamar-e-Fatema ki yaad dilaane ke liye
   Chaand nikla hai Muharram ka rulaane ke liye

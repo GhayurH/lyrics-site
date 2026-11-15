@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: ["La Fata Illah Ali"]
-published: false
+published: true
 romanLyrics: |-
   Shaah-e-mardaaṅ sher-e-yazdaaṅ quwwat-e-parwardigaar
   La fata illa Ali la saif illa Zulfiqaar

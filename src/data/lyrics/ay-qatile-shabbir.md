@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Tauqeer Kamalvi"
 reciter: "Katri Bawa"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Qatile Shabbir"]
-published: false
+published: true
 romanLyrics: |-
   Ae Shimr-e-laiṅ tu kya kaat raha hai
   Ae qaatil-e-Shabbir tu kya kaat raha hai

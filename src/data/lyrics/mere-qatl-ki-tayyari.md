@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Din hai Aashur ka aur asr ki aayi hai ghari
   Gird laashoṅ ke akela hai Husain Ibn-e-Ali

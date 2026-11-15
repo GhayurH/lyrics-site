@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nadeem Sultanpuri"
 reciter: "Ali Mohd. Sultanpuri"
-tags: ["noImage"]
+tags: []
 aliases: ["Sakina Ko Chod De"]
-published: false
+published: true
 romanLyrics: |-
   Naize pe sar Husain ka ye keh ke ro para
   Zaalim meri yatim Sakina ko chhor de

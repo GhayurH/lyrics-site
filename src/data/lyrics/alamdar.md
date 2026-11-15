@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 # source_id: nohayonline:2a5d22e6442233175c58
 # source_url: https://www.nohayonline.com/details_content.php?id=2782
 # raw_sha256: 79142dda0442512f1db9b6ab7d5fd7d07e9c1d33da8467bfd94c0a5750043977

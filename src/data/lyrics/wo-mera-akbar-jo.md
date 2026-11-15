@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mubarak Jalalpuri"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   So gaye sine pe barchhi khaa ke ab karyal jawaaṅ
   Umm-e-Laila ab Ali Akbar ko paayegi kahaaṅ

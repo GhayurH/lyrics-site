@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Qaimon Ko Jalaya"]
-published: false
+published: true
 romanLyrics: |-
   Khaimoṅ ko jalaaya gaya Abbas na aaye
   Maqtal mein dhuaaṅ chhaa gaya Abbas na aaye

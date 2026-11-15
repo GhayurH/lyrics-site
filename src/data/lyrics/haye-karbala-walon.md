@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Najm Afandi"
 reciter: "Anj. Parwane Shabbir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ae Khuda ke bandoṅ mein muntakhab Khuda waloṅ
   Takht-e-innama waloṅ taaj-e-hal ataa waloṅ

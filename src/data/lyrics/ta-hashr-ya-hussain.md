@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mirza Murtaza Ali"
 reciter: "Mir Raza Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Ta Hashr Ya Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Ta hashr ya Husain tera naam zindaabaad
 

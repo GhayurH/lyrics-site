@@ -7,10 +7,10 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Syed Aimaad Naqvi"
 reciter: "Mehdi Rizvi, Hadi Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: ["ali-un-ala-kulle-shayin-qadeer-mehdi-rizvi-hadi-rizvi"]
 recitationId: "ali-un-ala-kulle-shayin-qadeer-mehdi-rizvi-hadi-rizvi"
-published: false
+published: true
 romanLyrics: |-
   De rahi hai ye qudrat sada Aliun ala kull-e-shayin qadir
   Yehi kehna hai Allah ka Aliun ala kull-e-shayin qadir

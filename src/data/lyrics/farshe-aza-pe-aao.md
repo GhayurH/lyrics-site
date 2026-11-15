@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Salaam"
 poet: "Ali Naqvi Najaf"
 reciter: "Musa Naqvi"
-tags: ["noImage"]
+tags: []
 aliases: ["Farshe Aza Pe Aao"]
-published: false
+published: true
 romanLyrics: |-
   Farsh-e-aza pe aao sar ko jhuka jhuka ke
   Zehra ko pursa dena aaṅsu baha baha ke

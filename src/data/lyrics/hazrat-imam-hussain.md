@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar, J. Jaffri & H. Naqvi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Daaye Hasan baaye jari pusht panaahi ko Nabi
   Sar pe Khudaawand-e-jali sina sipar Zehra Ali

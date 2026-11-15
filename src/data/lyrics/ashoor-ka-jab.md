@@ -9,7 +9,7 @@ poet: "Ansar"
 reciter: "Nasir Zaidi"
 tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aaja Asghar aaja aaja Asghar aaja
   Ashoor ka jab suraj duba

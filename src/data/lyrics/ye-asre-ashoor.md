@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Irfan Haider"
-tags: ["noImage"]
+tags: []
 aliases: ["Ye Asre Ashoor"]
-published: false
+published: true
 romanLyrics: |-
   Maare gaye sab ansaar-e-Husaini
   Faraat behti hai bala ki garmi hai

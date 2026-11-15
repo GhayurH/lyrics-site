@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Salam"
 poet: "Baba Nisaar Haideri"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zia-e-khun-e-shahidaaṅ ki dilkashi Zainab
   Husainiyat ke charaaghoṅ ki raushni Zainab

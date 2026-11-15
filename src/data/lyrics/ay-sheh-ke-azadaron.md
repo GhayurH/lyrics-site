@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Sheh Ke Azadaron"]
-published: false
+published: true
 romanLyrics: |-
   Taarikh ke kirdaaroṅ kis baat mein tum kam ho
   Ae sheh ke azaadaaroṅ kis baat mein tum kam ho
@@ -19,98 +19,98 @@ romanLyrics: |-
   Tum Hur ka qabila ho tum Jaun ka lashkar ho
   Ae gham ke alamdaaro kis baat mein tum kam ho
 
-  ۱
+  1
   Rasta nahiṅ manzil ho dharkan nahiṅ tum dil ho
   Mazlum ke tum haami har zulm ke qaatil ho
   Insaan ki azmat ke har baat mein shaamil ho
   Zulmat ke samandar mein tum nur ka saahil ho
   Matam ke talabgaaroṅ kis baat mein tum kam ho
 
-  ۲
+  2
   Nisbat hai payambar se nisbat tumheiṅ Haidar se
   Is nisbat-e-maula se tum dur rahe shar se
   Tum aankh milaate ho har waqt sitamgar se
   Jo dars mila tum ko Salman se Buzar se
   Tum rup wohi dhaaro kis baat mein tum kam ho
 
-  ۳
+  3
   Abbas ke parcham se sikhi hai wafaadaari
   Aankhoṅ mein tumhaare hai imaan ki bedaari
   Qismat se mili tum ko mazlum ki ghamkhwaari
   Zaalim ke liye ab bhi tum tegh ho do dhaari
   Mazlum ke ghamkhwaaroṅ kis baat mein tum kam ho
 
-  ۴
+  4
   Zainab ki rida tum se karti hai sawaal aisa
   Kis gham mein bahaate ho aankhoṅ se lahu apna
   Kya ghar mein tumhaare bhi paighaam mera pahuncha
   Jis din ke laashe ke kaam aaya mera parda
   Laaj uski rakho dekho kis baat mein tum kam ho
 
-  ۵
+  5
   Kya dars liya tum ne Akbar ki jawaani se
   Kya sikha bataao to Karbal ki kahaani se
   Mat behlo khatiboṅ ke alfaaz o maaani se
   Mehfuz haqiqat ko rakhna hai kahaani se
   Ae ilm ke meyaaroṅ kis baat mein tum kam ho
 
-  ۶
+  6
   Masjid ke musalmaanoṅ maidaan ke bano ghaazi
   Tum Hur ki tarah maango ek raat mein aazaadi
   Darbaar mein zaalim ke Kiuṅ bante ho faryaadi
   Sajjad ne jis tarah diwaar-e-sitam dhaa di
   Diwaar-e-sitam dhaa do kis baat mein tum kam ho
 
-  ۷
+  7
   Tum Nahj-e-Balaagha ki tafsir mein dhal jaao
   Haidar ki ghulaami ka andaaz to apnaao
   Mazlum ko mat chhero zaalim se na ghabraao
   Haq baat jo kehna hai suli pe bhi dohraao
   Allah ke naqqaaroṅ kis baat mein tum kam ho
 
-  ۸
+  8
   Shabbir ke matam mein imaaṅ ki haraarat hai
   Ye ain-e-ibaadat hai ye ain-e-shariat hai
   Shabbir ke paikar mein Islam ki nusrat hai
   Khanjar ke tale dekho qaaim jo ibaadat hai
   Maula ke tarafdaaroṅ kis baat mein tum kam ho
 
-  ۹
+  9
   Socho to zara manzar tum shaam-e-gharibaṅ ka
   Ghar jalta tha jab ran mein us waaris-e-Quraaṅ ka
   Paamaal tha jab laasha ek be sar o saamaaṅ ka
   Kirdaar magar kya tha us waaris-e-Quraaṅ ka
   Samjho to samajhdaaroṅ kis baat mein tum kam ho
 
-  ۱۰
+  10
   Pyaasa tha lab-e-darya wo lakht-e-dil-e-Zahra
   Aankhoṅ se barasta tha ghurbat mein lahu jiska
   Wo waqt bhi tha kaisa chhe maah ka ek bachcha
   Haathoṅ pe tarapta tha paani ka na qatra
   Us waqt ke jaanbaaroṅ kis baat mein tum kam ho
 
-  ۱۱
+  11
   Hal min ki sada ab bhi hum se hai yehi kehti
   Shabbir ki nusrat ki dil mein jo tamanna thi
   Kya ab bhi hai wo baaqi jo chaah thi maula ki
   Aawaaz wohi dil ki ehsaas mein hai ab bhi
   Dehke hue angaaroṅ kis baat mein tum kam ho
 
-  ۱۲
+  12
   Tum raah-e-sadaaqat se imaaṅ ki haraarat se
   Kirdaar-e-imaamat se afkaar-e-risaalat se
   Tum shauq-e-shahaadat se maula ki inaayat se
   Islam ki khidmat se meyaar-e-mohabbat se
   Taarikh nayi likh do kis baat mein tum kam ho
 
-  ۱۳
+  13
   Imaaṅ hai azaadaari hai din ki bedaari
   Jarraari o karraari hai azm-e-wafaadaari
   Himmat na agar haari zinda rahi khuddaari
   Mil jaayegi sardaari Haidar ki tarafdaari
   Kar ke to zara dekho kis baat mein tum kam ho
 
-  ۱۴
+  14
   Rehaan pe Sarwar pe maula ki inaayat hai
   Nauhe ki azaanoṅ mein matam ki iqaamat hai
   Sach puchho to donoṅ ki har saans ibaadat hai

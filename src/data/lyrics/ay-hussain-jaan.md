@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Fareed Baig"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Hussain Jaan"]
-published: false
+published: true
 romanLyrics: |-
   Ae Husain jaan ae Husain jaan
 

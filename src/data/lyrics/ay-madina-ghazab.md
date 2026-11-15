@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Madina Ghazab"]
-published: false
+published: true
 romanLyrics: |-
   Qaafila jab watan laut aaya
   Aa ke baab-e-Madina pe thahra

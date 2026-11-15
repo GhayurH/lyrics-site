@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Rizwan Rizvi"
 reciter: "Taqi Raza Alipuri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Askari ki Saamra mein haye shahadat ho gayi
   Aaj phir se Fatima ke ghar qayamat ho gayi

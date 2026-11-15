@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Kashif Abbas Kashif"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jo munkir-e-Haider meiṅ wafa dhund raha hai
   Kaantoṅ meiṅ woh phuloṅ ki ada dhund raha hai

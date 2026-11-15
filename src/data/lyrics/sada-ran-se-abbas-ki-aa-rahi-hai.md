@@ -7,9 +7,9 @@ direction: "rtl"
 poet: "Muhib Fazli"
 reciter: "Syed Wajhi Hasan Zaidi"
 kalamType: "Manqabat"
-tags: ["noImage"]
+tags: []
 aliases: ["sada-ran-se-abbas-ki-aa-rahi-hai-1-4"]
-published: false
+published: true
 # source_id: tajpoints:bd7e1064fe3899248d8f
 # source_url: https://tajpoints.com/2018/01/sada-ran-se-abbas-ki-aa-rahi-hai-1-4.html
 # raw_sha256: 74f369f7d22821e689a3ad92fc01e89306a2f4850b64b1a579dcf0819415fcb8

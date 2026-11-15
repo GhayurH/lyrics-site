@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Samar Zaidi"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Laasha jari ka khaime mein laaya na ja saka
   Pyaasoṅ ki tashnagi ko bujhaaya na ja saka

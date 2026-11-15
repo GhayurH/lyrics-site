@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Sibte Jafar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Mukhtar Hussain"
 romanLyrics: |-
   Mominoṅ ye hai janaaza Abid-e-Bimar ka

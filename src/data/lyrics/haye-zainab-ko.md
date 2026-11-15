@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haye Zainab ko zamaane ne khule sar dekha
   Jis ko Ghaazi ne bhi nazreṅ na uthaa kar dekha

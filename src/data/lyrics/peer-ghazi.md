@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar & J. Jaffri"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Peer Ghazi"]
-published: false
+published: true
 romanLyrics: |-
   Bawafa Abbas alamaaṅ waale mere alamaaṅ waale
   Alamaaṅ waale mere mashkaaṅ waale

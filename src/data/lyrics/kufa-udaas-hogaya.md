@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Fareed Baig"
 reciter: "Ali Haider"
-tags: ["noImage"]
+tags: []
 aliases: ["Kufa Udaas Hogaya"]
-published: false
+published: true
 romanLyrics: |-
   Kufa udaas ho gaya Maula khaamosh hai
 

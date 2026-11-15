@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Ashraf Abbas"
 bastaPage: 277
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Doston Kami Na"]
-published: false
+published: true
 romanLyrics: |-
   Ae dostoṅ kami na ho ab shor o shain meiṅ
   Zainab bhi hai aza-e-Shah-e-mashraqain meiṅ

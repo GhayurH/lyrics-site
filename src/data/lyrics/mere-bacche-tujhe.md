@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Farsh majlis ka kahiṅ bichhta hai jab bhi Zainab
   Mere bachche tujhe dete haiṅ salaami Zainab

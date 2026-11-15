@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Khud baap jawaaṅ laal ki mayyat ko uthaaye
   Ya Rab kisi dushman pe bhi ye waqt na aaye

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Shahid Baltistani"
 romanLyrics: |-
   Kaha Sughra ne meri jaan Ali Akbar-e-man

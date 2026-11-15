@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Jawad Jaffri"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maatam karo Shabbir ka haaye Zainab-e-dilgir ka
   Shabbir tera maatam momin ki nishaani hai

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: ["Nahi Tha Kuch Bhi"]
-published: false
+published: true
 romanLyrics: |-
   Nahiṅ tha kuch bhi Husain tab hai
 

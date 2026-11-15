@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sughra ne likha khat mein ke Zehra ke dil o jaaṅ
   Aadaab baja laati hai beti Shah-e-Zishaaṅ

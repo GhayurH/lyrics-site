@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anees"
 reciter: "Nasir Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bole Sheh kya main jawab-e-khat-e-dukhtar likhuṅ
   Naamawar dekh le jo haal hai kiuṅ kar likhuṅ

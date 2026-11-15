@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Hasnain Akbar"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ro ro ke Ali, kiuṅ lete haiṅ
   Zainab ka naam musalle par

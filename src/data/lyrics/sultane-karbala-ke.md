@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Likha hai ya Husain Muharram ke chaand par
   Zahra bhi aa gaiṅ haiṅ Baqia ko chhor kar

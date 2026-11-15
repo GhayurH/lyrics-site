@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Masroor"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Bekafan Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Ae bekafan Husain gharib-ul-watan Husain
 

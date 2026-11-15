@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Baqar Alavi"
 reciter: "Mir Arif Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zakhmi sitam ki tegh se haq ka wali hua
   Ghamgin aaj arsh pe Rab-e-jali hua

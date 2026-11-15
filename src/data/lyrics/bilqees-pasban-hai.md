@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Marsiya"
 poet: "Mirza Dabeer"
 reciter: "Mir Fateh Ali Afsar"
-tags: ["noImage"]
+tags: []
 aliases: ["Bilqees Pasban Hai"]
-published: false
+published: true
 romanLyrics: |-
   1
   Bilqis paasbaaṅ hai ye kis ki janaab hai

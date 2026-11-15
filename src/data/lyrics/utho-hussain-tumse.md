@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Fazl Lakhnavi"
 reciter: "Irfan Hussain"
-tags: ["noImage"]
+tags: []
 aliases: ["Utho Hussain Tumse"]
-published: false
+published: true
 romanLyrics: |-
   Utho Husain tum se bahan milne aayi hai
   Mayyat nahiṅ to qabr gale se lagaayi hai

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zafar"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 # source_id: nohayonline:c9b7db04b59986978865
 # source_url: https://www.nohayonline.com/details_content.php?id=1569
 # raw_sha256: a82744e7d9649d85d622a946bca823818e5b307577b692c9a68decdd1db3a469

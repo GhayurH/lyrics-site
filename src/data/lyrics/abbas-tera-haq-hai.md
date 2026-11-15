@@ -12,39 +12,39 @@ published: true
 romanLyrics: |-
   abbas tera haq hai zamana tujhe roye
   jab sham o sahar fatema zahra tujhe roye
-  
+
   1
   durra liye pehre pe sitamgaar khara hai
   Kaise tere laashe pe sakina tujhe roye
-  
+
   2
   jis waqt uthaya na gaya laasha jawaṅ ka
   sheh us ghari akbar se zyada tujhe roye
-  
+
   3
   zainab ne kaha sham-e-gharibaṅ may ae ghazi
   beparda mujhe dekh ke baba tujhe roye
-  
+
   4
   sajde ke liye jab liya haathoṅ ka sahara
   to sajjad musalle pe hamesha tujhe roye
-  
+
   5
   bin haathoṅ ke kis tarha tu ghore se gira tha
   ye sunke bahot ahle madina tujhe roye
-  
+
   6
   mashkiza kahiṅ jism kahiṅ haath kahiṅ hai
   jaa jaa ke kahaṅ fatema zahra tujhe roye
-  
+
   7
   armaan sakina ka tha jitna tujhe roti
   sajjad teri qabr pe utna tujhe roye
-  
+
   8
   hashim ke qamar kiuṅ na tera chahne waala
   wa shams ka parte huwe sura tujhe roye
-  
+
   9
   hasrat hai ke ghazi ho lahu aankh se jaari
   ye mir takallum kabhi aisa tujhe roye

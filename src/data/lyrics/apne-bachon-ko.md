@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Shadman Raza"
 poet: "Ali Izhaar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haaye Akbar haaye Zainab
   Apne bachchoṅ ko kahaaṅ Zainab-e-muztar roi

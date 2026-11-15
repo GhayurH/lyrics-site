@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Hamid Jafri"
 reciter: "Ashfaq Marchant"
-tags: ["noImage"]
+tags: []
 aliases: ["Sadiqe Aale Mohamed"]
-published: false
+published: true
 romanLyrics: |-
   Saadiq-e-Aal-e-Muhammad par sitam kaisa hua
   Ye zamiṅ bhi ro pari ye aasmaaṅ bhi ro para

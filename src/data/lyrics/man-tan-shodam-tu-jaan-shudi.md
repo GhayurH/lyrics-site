@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Raza Shah"
 reciter: "Rajab Ali Khan"
-tags: ["noImage"]
+tags: []
 aliases: ["ya-mola-raza-rajab-ali-khan", "Ya Mola Raza Rajab Ali Khan"]
-published: false
+published: true
 romanLyrics: |-
   Man tan shodam tu jaan shudi
   Maula Raza, Maula Raza

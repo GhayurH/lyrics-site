@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
 reciter: "Ali Shanawar, Ali Jee"
-tags: ["noImage"]
+tags: []
 aliases: ["Qaidi Hoo Mai"]
-published: false
+published: true
 romanLyrics: |-
   Qaidi huṅ main Baba jaaṅ
   Ab shaahzaadi kahaaṅ

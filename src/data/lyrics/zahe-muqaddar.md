@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Naat"
 poet: "Jary Raza"
 reciter: "Syed Mudassir Mehdi"
-tags: ["noImage"]
+tags: []
 aliases: ["zahe-muqaddar-syed-mudassir-mehdi"]
-published: false
+published: true
 romanLyrics: |-
   Zahe muqaddar huzur-e-Haq se salaam aaya payaam aaya
   Jhukaao nazreṅ bichhaao palkeṅ adab ka aala maqaam aaya

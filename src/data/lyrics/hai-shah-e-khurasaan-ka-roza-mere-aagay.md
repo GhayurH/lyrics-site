@@ -8,10 +8,10 @@ kalamType: "Manqabat"
 poet: "Mir Hasan Mir"
 reciter: "Mir Hasan Mir"
 year: 2015
-tags: ["noImage"]
+tags: []
 aliases: ["Hai Shah E Khurasaan Ka Roza Mere Aagay Lyrics 2015"]
 recitationId: "hai-shah-e-khurasaan-ka-roza-mere-aagay-lyrics-2015"
-published: false
+published: true
 romanLyrics: |-
   Hai Shah-e-Khurasaaṅ ka rauza mere aage
   Main pichhe huṅ sajde mein hai Kaaba mere aage

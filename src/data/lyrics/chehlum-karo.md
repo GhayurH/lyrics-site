@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Nasir Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Chehlum karo mominoṅ Karbal ke mehmaaṅ ka
   Maatam karo mominoṅ Shaah-e-Shahidaaṅ ka

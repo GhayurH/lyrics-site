@@ -11,39 +11,39 @@ aliases:
 published: true
 romanLyrics: |-
   Parchame Ghazi Lehrata ghar ghar dekha
-  
+
   1
   mehkhaanon meiṅ aaj ajab manzar dekha
   Paimanoṅ maiṅ jaam nahiṅ Kausar dekha
-  
+
   2
   socho zara kiya hoga jawaani ka aalam
   chirte jisko bachpan meiṅ ajdar dekha
-  
+
   3
   jese utha leiṅ haath barha kar phul koyi
   dast-e-ali par aise dar-e-khaibar dekha
-  
+
   4
   qaul-e-nabi hai donoṅ meiṅ kuch farq nahiṅ
   kaaba dekha ya ke rukh-e-haider dekha
-  
+
   5
   paighambar ke yaar baneiṅ jo phirte thai
   bhaagte unko maidan se aksar dekha
-  
+
   6
   waqt-e-nusrat kon raha hai sina sipar
   pusht pe kisne khonp diya khanjar dekha
-  
+
   7
   bakhkhin bakhkhin kehne lage kuch dar dar ke
   aate huwe haaris par jo kankar dekha
-  
+
   8
   haq-e-haider chinne wale dunya meiṅ
   naam tere ruswayi ka daftar dekha
-  
+
   9
   karbobala ki jit ka ik ailan hai ye
   parcham-e-ghazi lehrata ghar ghar dekha

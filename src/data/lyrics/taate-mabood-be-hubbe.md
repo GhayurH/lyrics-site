@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mahir Lakhnavi"
 reciter: "Faazil Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: ["Taate Mabood Be Hubbe"]
-published: false
+published: true
 romanLyrics: |-
   Taaat-e-maabud be hubb-e-Ali achchhi nahiṅ
   Ho haram mein bhi to aisi bandagi achchhi nahiṅ

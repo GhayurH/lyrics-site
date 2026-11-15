@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sibte Jafar"
-tags: ["noImage"]
+tags: []
 aliases: ["Muslamano Pa Farz"]
-published: false
+published: true
 romanLyrics: |-
   1
   Musalmanoṅ pe farz-e-Haj ayaaṅ hai

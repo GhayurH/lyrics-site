@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Shah"
 reciter: "Kazmi Brothers"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Rakhna meri ammaaṅ se mere zakhm chhupa kar
   Baba mere sine mein sinaaṅ tut gayi hai

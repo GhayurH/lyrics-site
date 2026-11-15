@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Abid Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Ahsan Husain"
 romanLyrics: |-
   Maqtal se besawaar jo rahwaar aa gaya

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sibt-e-Jafar"
 reciter: "Mir Hasan Mir, Mir Qasim Mir, Mir Jawad Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["waqt-e-zahoor-mir-hasan-mir"]
-published: false
+published: true
 romanLyrics: |-
   Zuhur ka waqt aa gaya hai Imaam se lau lagaaye rakhna
   Zuhur ka waqt aa gaya hai haram pe nazreiṅ jamaaye rakhna

@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Gohar Jarchvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Tableegh e Imamia"
 romanLyrics: |-
   Al madad al madad Ya Ali

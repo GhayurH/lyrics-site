@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Syed Hassan"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Waqt-e-aakhir yeh musibat ki ghari hai baaba
   Baithi ummat hai teri Zehra khari hai baaba

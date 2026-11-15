@@ -12,22 +12,22 @@ published: true
 romanLyrics: |-
   Mili Rihaai To Abid Ye Kaam Kar Ke Chale
   Sab Aansu Qabr-e-Sakina Ke Naam Kar Ke Chale
-  
+
   1
   Ye Ahl-e-Shaam Se Bole Agar Na Ho Zehmat
   Diya Jala Diya Karna Agar Mile Fursat
   Behan Ke Waste Ye Ehtemaam Kar Ke Chale
-  
+
   2
   Dua Jo Karti Thi Ro Ro Ke Wo Bhi Din Aaye
   Wo Jis Ke Dil Meiṅ Ye Armaan Tha Watan Jaye
   Use Hawala-e-Zindaan-e-Shaam Kar Ke Chale
-  
+
   3
   Koi Hamara Mara To Kaha Husain Husain
   Aza Ka Farsh Bichha To Kaha Husain Husain
   Ye Intezaam Bhi Chauthe Imam Kar Ke Chale
-  
+
   4
   Zafar Sada Yehi Aati Thi Ae Mere Baba
   Sabhi Watan Gaye Maiṅ Qaid Meiṅ Rahi Tanha

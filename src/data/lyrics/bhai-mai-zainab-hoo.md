@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: ["Bhai Mai Zainab Hoo"]
-published: false
+published: true
 romanLyrics: |-
   Wo zaair-e-Husain wo Jaabir wo Karbala
   Wo Shaam se palat ke jab aaya tha qaafila

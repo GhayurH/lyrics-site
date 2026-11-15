@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Najm Afandi"
 reciter: "Nasir Jahan"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Maarkae Quwwate"]
-published: false
+published: true
 romanLyrics: |-
   Ae maarka-e-quwwat-e-Islam ke jauhar
   Chhe maah ki muddat mein qayaamat ke baraabar

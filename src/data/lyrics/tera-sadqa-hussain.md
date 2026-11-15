@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Yawar"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: ["Tera Sadqa Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Ya Husaina Husaina Husaina
 

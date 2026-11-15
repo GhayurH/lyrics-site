@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Anees"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Lipat ke turbat se boli maadar
   Utho Sakina chalo watan ko

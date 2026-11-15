@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Marsiya"
 reciter: "Mir Momin Ali Qaisar"
-tags: ["noImage"]
+tags: []
 aliases: ["Kehti Thi Ran May"]
-published: false
+published: true
 romanLyrics: |-
   Kehti thi ran mein aa ke Sakina jawaab do
   Jaan-e-Nabi o Fatema Zehra jawaab do

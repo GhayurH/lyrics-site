@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Buland Hote Hai"]
-published: false
+published: true
 romanLyrics: |-
   Buland hote haiṅ shole Batul ke ghar se
   Yehi wafa hai Madine ki kya Payambar se

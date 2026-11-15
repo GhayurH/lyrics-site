@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar, J. Jaffri & A. Jee"
 reciter: "Ali Jee"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aflaak pukaare ya Abbas azaadaar pukaare ya Abbas
   Hum sab haiṅ tumhaare ya Abbas

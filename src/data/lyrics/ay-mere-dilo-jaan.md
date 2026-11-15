@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Mere Dilo Jaan"]
-published: false
+published: true
 romanLyrics: |-
   Ae mere dil o jaan Ali Asghar Ali Asghar
   Maaṅ tujh pe ho qurbaan Ali Asghar Ali Asghar

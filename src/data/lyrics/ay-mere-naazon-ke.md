@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Abid"
 reciter: "Sajid Jafri"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Mere Naazon Ke"]
-published: false
+published: true
 romanLyrics: |-
   Ae mere naazoṅ ke paale khaak uraane ke liye
   Chhor kar apni lahad maaṅ Karbala jaayegi

@@ -8,8 +8,8 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nisar Nagri"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
-published: false
+tags: []
+published: true
 romanLyrics: |-
   Pyaasoṅ se zyaada dur na tha
   Behte hue darya ka paani

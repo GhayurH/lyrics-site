@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Adeel Zaidi"
 reciter: "Raza Ali Khan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ata-e-Kibriya hai aur main huṅ
   Dua-e-Fatima hai aur main huṅ

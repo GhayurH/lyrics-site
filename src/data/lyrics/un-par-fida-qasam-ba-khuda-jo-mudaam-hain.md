@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Rehan Azmi"
 reciter: "Askari Hasan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Un Par Fida Qasam Ba-Khuda Jo Mudaam Hain"]
-published: false
+published: true
 romanLyrics: |-
   Un par fida qasam bakhuda jo mudaam haiṅ
   Un ke liye bahisht mein Kausar ke jaam haiṅ

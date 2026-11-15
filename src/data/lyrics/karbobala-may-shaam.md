@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: ["Karbobala May Shaam"]
-published: false
+published: true
 romanLyrics: |-
   Karb o Bala mein shaam hui
 

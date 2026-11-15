@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Jawad Jafri, Nadeem Sarwar"
 reciter: "Ali Shanawar"
-tags: ["noImage"]
+tags: []
 aliases: ["Maula Hussain Jaan Nadeem Sarwar Ali Shanawar Ali Jee", "maula-hussain-jaan-nadeem-sarwar-ali-shanawar-ali-jee"]
-published: false
+published: true
 romanLyrics: |-
   Jaanam Husaina
   Ae jaanaan-e-Mustafa

@@ -8,9 +8,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage"]
+tags: []
 aliases: ["sukoon-yani-hussain-mir-hasan-mir"]
-published: false
+published: true
 romanLyrics: |-
   Sukun yaani Husain
 

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Fitrat"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ubalta hai samandar khun ka Allah ke ghar se
   Ali zakhmi hue haiṅ aaj shamshir-e-sitamgar se

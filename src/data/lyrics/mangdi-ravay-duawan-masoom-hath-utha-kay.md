@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Katri Bawa"
-tags: ["noImage"]
+tags: []
 aliases: ["Mangdi Ravay Duawan Masoom Hath Utha Kay"]
-published: false
+published: true
 # Punjabi wording retained in Shahmukhi; the language field uses the site's Urdu-script category.
 romanLyrics: |-
   Mangdi rave duaawaṅ maasum hath utha ke

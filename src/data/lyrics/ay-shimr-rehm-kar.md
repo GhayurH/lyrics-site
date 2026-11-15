@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
 reciter: "Mir Sajjad Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Shimr Rehm Kar"]
-published: false
+published: true
 romanLyrics: |-
   Kis tarah se bayaaṅ ho ghurbat Husain ki
   Chalne lagi jo halq pe mazlum ke chhuri

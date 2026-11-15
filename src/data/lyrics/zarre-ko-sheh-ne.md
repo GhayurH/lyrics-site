@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Sachey Bhai"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zarre ko Sheh ne mehr-e-darakhshaaṅ bana diya
   Hur ki khataaeṅ bakhsh ke Salmaaṅ bana diya

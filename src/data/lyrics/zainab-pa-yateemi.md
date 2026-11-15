@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
 reciter: "Hadi Ali Khan Muslim"
-tags: ["noImage"]
+tags: []
 aliases: ["Zainab Pa Yateemi"]
-published: false
+published: true
 romanLyrics: |-
   Zainab pa yatimi ki ghari aa gayi baba
   Bin baap ki kehlaati hai beti teri baba

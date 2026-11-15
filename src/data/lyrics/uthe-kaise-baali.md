@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Shams Jalalpuri"
 reciter: "Anj. Zulfiqaria Jafrabad"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Uthe kaise uthe kaise baali Sakina ka laasha
   Pareshaaṅ hai zindaaṅ mein Saani-e-Zehra

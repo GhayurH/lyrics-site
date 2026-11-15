@@ -6,9 +6,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage"]
+tags: []
 aliases: ["Veerna Main Teri Qabr Banawan Ya Shaam Nu Jaawan"]
-published: false
+published: true
 romanLyrics: |-
   Veerna main teri qabar banaawaaṅ ya Shaam nu jaawaaṅ
   Kave Zainab ujri jang Karbala di mukk gayi luttiyaaṅ gayiyaaṅ ridaawaaṅ

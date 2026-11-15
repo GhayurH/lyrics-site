@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Majid Raza Abidi"
 reciter: "Mukhtar Husain"
-tags: ["noImage"]
+tags: []
 aliases: ["Aao Zaware Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Karbala tumko bulaati hai azadar-e-Husain
   Aao zawwar-e-Husain

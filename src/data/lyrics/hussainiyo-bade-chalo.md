@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Salik Lakhnavi"
 reciter: "Faazil Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: ["Hussainiyo Bade Chalo"]
-published: false
+published: true
 romanLyrics: |-
   Husainiyoṅ bare chalo hayaat ko jhinjhor do
   Sitam-shiaar jo barhe kalaaiyaaṅ mor do

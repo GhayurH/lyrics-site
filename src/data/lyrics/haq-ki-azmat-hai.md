@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Tableegh e Imamia"
 poet: "Wasi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haq ki azmat hai azal se gham-e-Shabbir ke haath
   Jaao aur kar do qalam kaatib-e-taqdir ke haath

@@ -60,7 +60,6 @@ romanLyrics: |-
   Ro diya falak bhi bekasi-e tashna-kaam par
   Apne mahjabiṅ ko dilbar-e hasin ko
   Khinch kar gale se tir jab gale laga liya
-
 ---
 
 فاطمہ کے چین نے علی کے نورِ عین نے

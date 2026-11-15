@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zulfiqar Ahmed"
 reciter: "Mir Mohsin Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Shaame Ghariban"]
-published: false
+published: true
 romanLyrics: |-
   Baad-e-Husain dasht mein mahshar bapa hua
   Chhaane laga har simt se ghan ghor andhera

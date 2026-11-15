@@ -5,9 +5,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage"]
+tags: []
 aliases: ["NAIZE SE GIRTA KHAK PA SAR HAI"]
-published: false
+published: true
 romanLyrics: |-
   Naize se girta khaak pa sar hai
   Abbas ka ye kaisa safar hai

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kalmago ye to bata ham teri kya baat kare
   Tu ne jo Aal-e-Muhammad pe sitam dhaae haiṅ

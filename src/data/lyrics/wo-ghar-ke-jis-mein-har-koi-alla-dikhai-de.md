@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Hasnain Akbar"
-tags: ["noImage"]
+tags: []
 aliases: ["wo-ghar-ke-jis-mein-har-koi-alla-dikhai-de-lyrics-2017", "Wo Ghar Ke Jis Mein Har Koi Alla Dikhai De Lyrics 2017"]
-published: false
+published: true
 romanLyrics: |-
   Us ghar mein bhi bas ek hi Zahra dikhaai de
 

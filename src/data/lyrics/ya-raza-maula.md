@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zaaer Jaffri"
 reciter: "Kazmi Brothers"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ae wali-e-arz o samaaṅ ya Imam-e-Raza
   Ya Raza ya Raza Maula ya Gharib al-Ghuraba

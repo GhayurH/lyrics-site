@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anees Pehersari"
 reciter: "Tabligh-e-Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Azaaṅ ki kokh ujri maaṅ ko jab aawaaz aati hai
   To har takbir par Laila pachhaareṅ gham se khaati hai

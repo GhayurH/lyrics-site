@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Saeed Shaheedi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bain tha Sakina ka shaam hone waali hai
   Kab tak aaoge Baba shaam hone waali hai

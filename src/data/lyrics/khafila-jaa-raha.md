@@ -7,11 +7,11 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Sachey Bhai"
 reciter: "Ali Rizvi Sachey"
-tags: ["noImage"]
+tags: []
 aliases:
   - "Khafila Ja Raha Hai"
   - "Khafila Jaa Raha"
-published: false
+published: true
 romanLyrics: |-
   Qaafila jaa raha hai watan ke liye
   Karbala meiṅ qayaamat ka ek shor hai

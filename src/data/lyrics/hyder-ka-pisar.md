@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mehboob"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Abbas jari faateh-e-Khaibar ki tarah hai
   Hyder ka pisar shaan mein Hyder ki tarah hai

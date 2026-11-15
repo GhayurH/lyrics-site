@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Aashiq Irani / Nazeer Irani"
 reciter: "Azadari Murshidabad"
-tags: ["noImage"]
+tags: []
 aliases: ["Nadan Ali Asghar"]
-published: false
+published: true
 romanLyrics: |-
   Naadaaṅ Ali Asghar mere
   Tanhaai mein hona na pareshaaṅ Ali Asghar

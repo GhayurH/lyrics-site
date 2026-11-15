@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Abbas"
 reciter: "Sajid Jafri"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Ghareebe Zahra"]
-published: false
+published: true
 romanLyrics: |-
   Ae gharib-e-Zahra ae gharib-e-Zahra
   Asr-e-Ashur ye ek maaṅ ki hai maqtal mein sada

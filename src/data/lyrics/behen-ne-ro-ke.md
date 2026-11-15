@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Suroor Lakhnavi"
 reciter: "Anj. Grohe Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Behen ne ro ke pukaara mujhe sahaara do
   Main bediyaar huṅ bhaiya mujhe sahaara do

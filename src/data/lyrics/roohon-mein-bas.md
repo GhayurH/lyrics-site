@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ruhoṅ meiṅ bas gayi hai aqidat Husain ki
   Sinoṅ meiṅ dil hai dil meiṅ turbat Husain ki

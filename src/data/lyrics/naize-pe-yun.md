@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Dilshad Zaidi"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: ["Naize Pe Yun"]
-published: false
+published: true
 romanLyrics: |-
   Shabbir ne haq se ulfat ka
   Naize pe yuṅ izhaar kiya

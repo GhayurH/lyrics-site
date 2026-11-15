@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Sachey Bhai"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ro ke kehti thi maaṅ tujh ko dhunduṅ kahaaṅ
   Asghar-e-bezabaaṅ tujh ko dhunduṅ kahaaṅ

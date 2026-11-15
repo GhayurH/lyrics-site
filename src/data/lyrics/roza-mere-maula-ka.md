@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sibt-e-Jafar Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["roza-mere-mola-ka-sibt-e-jafar"]
-published: false
+published: true
 romanLyrics: |-
   Marja hai khalaaiq ka roza mere Maula ka
   Yuṅ hi to nahiṅ jag mein charcha mere Maula ka

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Rahwaar-e-Husaini jab thehra aur ek qadam aage na barha
   Kuchh khaak utha ke haathoṅ meiṅ Abbas se ye Maula ne kaha

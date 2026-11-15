@@ -7,10 +7,10 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases:
   - "Khamosh Hai Maula"
-published: false
+published: true
 romanLyrics: |-
   Haae haae Ali Akbar
   Laasha jawaan bete ka hai saamne para

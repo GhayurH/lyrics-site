@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Shareef Hussain"
 poet: "Anwar Zahir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Hua jab qatl Ahmad ka nawaasa
   Lainoṅ ne har ek khaima jala diya

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Mehdi & Shahid Baltistani"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ali ke ghar meiṅ barpa hai qayamat Eid se pehle
   Hui Zainab ke baba ki shahadat Eid se pehle

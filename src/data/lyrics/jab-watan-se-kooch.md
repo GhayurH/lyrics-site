@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Sibte Jafar"
 sixVerseLayout: "pairs"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jab watan se kuch ki Muslim ki tayyaari hui
   Khaana-e-Aal-e-Aba mein girya o zaari hui

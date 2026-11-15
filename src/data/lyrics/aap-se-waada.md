@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shanawar Makanpuri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zehra ke dil ke chain Shah-e-Mashriqain se
   Aao ye waada hum kareiṅ mil kar Husain se

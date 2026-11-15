@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Suroor Lakhnavi"
 reciter: "Anj. Muhibbane Hussain"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Teen Din Ke Pyase", "Ya Hussain Ya Mazloom"]
-published: false
+published: true
 romanLyrics: |-
   Ya Husain ya Husain ya Husain ya mazlum
 

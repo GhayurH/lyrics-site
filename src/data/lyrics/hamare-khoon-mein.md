@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zafar Abbas"
 reciter: "Ali Rizvi Sachey"
-tags: ["noImage"]
+tags: []
 aliases: ["Hamare Khoon Mein"]
-published: false
+published: true
 romanLyrics: |-
   Hamare khun meiṅ shaamil hai ye aza-e-Husain
   Khuda ne khalq kiya hai hameiṅ baraaye Husain

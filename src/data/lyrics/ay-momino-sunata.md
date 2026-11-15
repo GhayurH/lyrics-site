@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Momino Sunata"]
-published: false
+published: true
 romanLyrics: |-
   Suno suno ae momino
 

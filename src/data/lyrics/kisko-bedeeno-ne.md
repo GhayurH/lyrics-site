@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kis ko bedinoṅ ne maara ae zamin-e-Karbala
   Hai Payambar ka dulaara ae zamin-e-Karbala

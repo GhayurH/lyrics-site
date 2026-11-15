@@ -10,9 +10,9 @@ kalamType: "Noha"
 poet: "Fida Husain Ravi Road"
 reciter: "Ravi Road Lahore Party & Izan Abbas Group Sialkot"
 year: 2025
-tags: ["noImage", "Punjabi"]
+tags: ["Punjabi"]
 aliases: ["haye-raza-veran-aye-rahwaan-takdi-rendi-masooma-lyrics-new-noha-24-rab", "Haye Raza Veran Aye Rahwaan Takdi Rendi Masooma Lyrics New Noha 24 Rabi Ul Sani 2025 Ravi Road"]
-published: false
+published: true
 romanLyrics: |-
   Haye Raza veraaṅ ae raahwaaṅ takdi rehndi Maasuma
   Yaad tainu kardi kardi naale ro ro haawaaṅ bhardi payi si kaindi Maasuma

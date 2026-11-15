@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Naqvi Najaf"
 reciter: "Mir Kausar Ali Razvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haye Sakina shehzaadi Sakina
   Daarain ka sultaan tera baaba hai Sakina

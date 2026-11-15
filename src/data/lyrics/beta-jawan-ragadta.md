@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Jaweed Maqsood"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Beta jawaaṅ ragarta hua aeriyaṅ mila
   Shabbir ko zamiṅ pe gira aasmaaṅ mila

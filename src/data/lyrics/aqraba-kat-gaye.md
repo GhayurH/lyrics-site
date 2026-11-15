@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Salaam"
 reciter: "Sibte Jafar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aqraba kat gaye jab Shaah ke baari baari
   Aur adam chalne ki us Shaah ne ki tayyaari

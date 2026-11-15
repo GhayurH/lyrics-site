@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shaoor"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Abid gharib bekas o nachaar mar gaya
   Sadaat khaak uraaeṅ ke sardaar mar gaya

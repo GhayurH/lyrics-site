@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Andhere andhere yatimoṅ se chhup kar
   Sar-e-qabr-e-Zehra Ali ro rahe haiṅ

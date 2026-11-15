@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Anees"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Baad-e-Sheh Zainab-e-dilgir ne kya kya dekha
   Sumein aspoṅ ke tale bhai ka laasha dekha

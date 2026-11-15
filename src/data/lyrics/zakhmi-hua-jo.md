@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Mukhtar Husain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zakhmi hua jo sajde mein damaad-e-Mustafa
   Ek hashr sa namaaziyoṅ mein ho gaya bapa

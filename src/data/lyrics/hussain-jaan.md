@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: ["Hussain Jaan"]
-published: false
+published: true
 romanLyrics: |-
   Ae Karbala khayaal rakhiyo
   Teri aaghosh meiṅ sota hai Husain

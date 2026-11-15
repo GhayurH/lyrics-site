@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Bilal Kazmi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Bekaso Muztar"]
-published: false
+published: true
 romanLyrics: |-
   Ae bekas o muztar ke wafadaar Alamdar
   Ae jaan o dil-e-Haider-e-Karrar Alamdar

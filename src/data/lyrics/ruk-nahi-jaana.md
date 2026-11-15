@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Ruk Nahi Jaana"]
-published: false
+published: true
 romanLyrics: |-
   Bano ye pukaari Asghar maaṅ tujh pe hai waari Asghar
 

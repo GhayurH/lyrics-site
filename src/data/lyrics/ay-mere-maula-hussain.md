@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Bilal Kazmi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Mere Maula Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Ae mere Maula Husain ae mere aaqa Husain
 

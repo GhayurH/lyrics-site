@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Bilal Kazmi"
 reciter: "Irfan Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bahaar simt se ahl-e-sitam ne ghera hai
   Kahaaṅ ho ae mere sheroṅ Husain tanha hai

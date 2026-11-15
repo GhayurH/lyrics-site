@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Sharar Naqvi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: ["Mai Bahot Pyasi Hoon"]
-published: false
+published: true
 romanLyrics: |-
   Zindaaṅ se aa rahi hai yehi aaj bhi sada
   Sadiyaaṅ guzar gayi mujhe paani nahiṅ mila

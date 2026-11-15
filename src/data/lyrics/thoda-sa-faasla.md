@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Salman Azmi"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Thoda Sa Faasla"]
-published: false
+published: true
 romanLyrics: |-
   Thora sa faasla hai khanjar meiṅ aur gale meiṅ
   Zainab ka dam ruka hai bas itne faasle meiṅ

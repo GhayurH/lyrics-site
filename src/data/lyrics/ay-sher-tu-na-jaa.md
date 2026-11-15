@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ahmed Naved"
 reciter: "Kazmi Brothers"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Sher Tu Na Jaa"]
-published: false
+published: true
 romanLyrics: |-
   Ae alamdaar-e-wafa
   Saqqa-e-haram behnoṅ ka bharam

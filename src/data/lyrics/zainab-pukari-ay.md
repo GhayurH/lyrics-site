@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Ali Khan Lakhnavi"
 reciter: "Ghadeer Fatima"
-tags: ["noImage"]
+tags: []
 aliases: ["Zainab Pukari Ay"]
-published: false
+published: true
 romanLyrics: |-
   Zainab pukaari ae mere Akbar kahaaṅ ho tum
   Dushman mein ghir gaya hai baraadar kahaaṅ ho tum

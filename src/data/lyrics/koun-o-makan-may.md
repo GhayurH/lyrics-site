@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
 reciter: "Hadi Ali Khan Muslim"
-tags: ["noImage"]
+tags: []
 aliases: ["Koun O Makan May"]
-published: false
+published: true
 romanLyrics: |-
   Kaun o makaaṅ meiṅ barpa maatam hai Fatema ka
 

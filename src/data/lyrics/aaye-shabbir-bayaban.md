@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Gulzaar Jafri"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aaye Shabbir bayabaṅ ko basane ke liye
   Diṅ ki raah mein bhare ghar ko lutane ke liye

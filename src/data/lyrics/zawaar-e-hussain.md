@@ -5,9 +5,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage"]
+tags: []
 aliases: ["Zawaar E Hussain"]
-published: false
+published: true
 reciter: "Shadman Raza"
 romanLyrics: |-
   Jo suye Karbobala banne chala

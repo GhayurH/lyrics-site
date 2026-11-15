@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ainee Rizvi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Hurr Hato Jawan"]
-published: false
+published: true
 romanLyrics: |-
   Waqt-e-aakhir Hurr ke jo bete ne di sada
   Daure Husain Hurr se bhi pehle basad buka

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Bilal Kazmi"
 reciter: "Wajhi Hasan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Batil Ko Taraj Karein Ge"]
-published: false
+published: true
 romanLyrics: |-
   Nusrat ko ham jaaeṅ ge
   Jab bhi Maula aaeṅ ge

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anees"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aabid ne kaha aa ke qarib Bint-e-Ali se
   Ab su-e-watan chaliye phuphi jaan main sadqe

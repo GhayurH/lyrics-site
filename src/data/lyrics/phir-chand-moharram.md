@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Akhtar Zaidi"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: ["Phir Chand Moharram"]
-published: false
+published: true
 romanLyrics: |-
   Phir chaand Moharram ka namudaar hua hai
   Phir chaak dil-e-Ahmad-e-Mukhtaar hua hai

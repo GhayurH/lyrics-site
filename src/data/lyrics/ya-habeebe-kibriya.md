@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Aashiq Irani"
 reciter: "Nazeer Irani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ya Habib-e-Kibriya Zainab hui beaasra
   Shaah ke sukhe gale par Shimr ka khanjar chala

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Raza Abbas Zaidi"
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sayyeda Sayyeda Sayyeda
   Ya Taahera Raazia Marzia Fatema

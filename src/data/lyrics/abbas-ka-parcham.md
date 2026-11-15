@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Sibte Jafar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Nishaan-e-lashkar-e-fauj-e-Khuda Abbas ka parcham
   Shujaan-e-Arab ka silsila Abbas ka parcham

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Majid Raza Abidi"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: ["Janabe Fatema"]
-published: false
+published: true
 romanLyrics: |-
   Khari hai masjid-e-Nabawi mein ho kar
   Bekas o muztar Janab-e-Fatima Zahra

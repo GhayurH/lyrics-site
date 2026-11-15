@@ -7,10 +7,10 @@ direction: "rtl"
 kalamType: "Qasida"
 poet: "Amir Ali Najfi"
 reciter: "Ch Faiyaz Party"
-tags: ["noImage"]
+tags: []
 aliases: []
 recitationId: "ali-ki-hai-aamad-qasida-ch-faiyaz-party-lyrics-13-rajab"
-published: false
+published: true
 # source_id: tajpoints:2af32e517a3ea30ad9f0
 # source_url: https://tajpoints.com/2024/01/ali-ki-hai-aamad-qasida-ch-faiyaz-party.html
 # raw_sha256: c1147f2cbf1b37711480f1d46ea67634a8f24df6385bf7f98a1f16a522e80840

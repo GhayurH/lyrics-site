@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: ["Faryad E Zainab"]
-published: false
+published: true
 romanLyrics: |-
   Saamne behen ki aankhoṅ ke
   Gardan pe khanjar chalaaya

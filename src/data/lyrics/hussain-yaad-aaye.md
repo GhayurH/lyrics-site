@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
 reciter: "Mir Sajjad Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Hussain Yaad Aaye"]
-published: false
+published: true
 romanLyrics: |-
   Utha jo koi janaaza Husain yaad aaye
   Jo dekha koi bhi pyaasa Husain yaad aaye

@@ -19,7 +19,7 @@ romanLyrics: |-
   Ehsan Tha Jis Ka Josh Wo Darya The Askari
   Abr-e-Karam The Bahr-e-Sakha The Zamane Meiṅ
   Waise Hi Jaise Hote Rahe Is Gharane Meiṅ
-  
+
   2
   Tha Kaun Iss Kharabe Meiṅ Ghamkhwar-e-Ahl-e-Bait
   Kis Ghar Meiṅ Thi Luti Hui Sarkar-e-Ahl-e-Bait
@@ -27,7 +27,7 @@ romanLyrics: |-
   Majbur Tha Para Hua Mukhtar-e-Ahl-e-Bait
   Bistar Zamin-e-Sakht Ka, Takiya Tha Khisht Ka
   Virane Meiṅ Asir Tha Maalik Behisht Ka
-  
+
   3
   Mauqa Mila To Zehr Diya Shah Ko beGunah
   Lakht-e-Dil-e-Rasul Ki Halat Hui Tabah
@@ -35,7 +35,7 @@ romanLyrics: |-
   Makkar Mutamid Sa Na Hoga Khuda Gawah
   Bheje Tabib Us Ne Dawa Karne Ke Liye
   Poshida Apna Haal-e-Jafa Karne Ke Liye
-  
+
   4
   Shiddat Wo Tap Ki Zehr Ka Wo Sadma-e-Giraaṅ
   Aisa Tha Zof Kanpta Tha Jism-e-Natawaaṅ
@@ -43,7 +43,7 @@ romanLyrics: |-
   Tha Dusra Baras, Koi Kehta Hai Panchwaṅ
   Jaan-e-Nabi Ne Bar-e-Imamat Utha Liya
   Is Kam Sini Meiṅ Koh-e-Musibat Utha Liya
-  
+
   5
   Jab Zehr Se Shahid Huye Gyarhwiṅ Imam
   Samarra Wale Khaak Urane Lage Tamam
@@ -51,7 +51,7 @@ romanLyrics: |-
   Matam Meiṅ Askari Ke Huye Mahv Khaas o Aam
   Darwaza-e-Imam Pe Aisi Fughaṅ Hui
   Samarra Meiṅ Qayamat-e-Sughra Ayaṅ Hui
-  
+
   6
   Jis Ghar Meiṅ Thi Bani Hui Qabr-e-Ali Naqi
   Us Meiṅ Hi Dafn Laash-e-Hasan Askari Hui
@@ -59,7 +59,7 @@ romanLyrics: |-
   Untis Saal Bhi Na Hui Umr-e-Askari
   Madfun Khub Askari-e-, beWatan Huwa
   Pyase Husain Ko Na Mayassar Kafan Huwa
-  
+
   7
   Ab Is Qalaq Se Hote Haiṅ Tukre Dil o Jigar
   Zulm Ahl-e-Bait Par Kiye Aada Ne Is Qadar
@@ -67,7 +67,7 @@ romanLyrics: |-
   Yuṅ Hi Na Roya Askari Ki Laash Par Pisar
   Durre Uthaye Gard Wahaṅ Nabkaar The
   Aamada-e-Qatl Par Yahaṅ Bidat-Shiar The
-  
+
   8
   Maula Imam-e-Asr Huye Aap To Nihaṅ
   Bachte To Kaise Abid-e-Bimar o Natawaṅ

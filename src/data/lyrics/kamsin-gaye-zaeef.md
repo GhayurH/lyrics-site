@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anwar Zahir"
 reciter: "Sharif Husain"
-tags: ["noImage"]
+tags: []
 aliases: ["Kamsin Gaye Zaeef"]
-published: false
+published: true
 romanLyrics: |-
   Kamsin gaye zaif gaye naujawaaṅ gaye
   Manzil bahut kathin thi magar naatawaaṅ gaye

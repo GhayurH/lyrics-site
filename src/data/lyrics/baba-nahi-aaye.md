@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Anees Pehersari"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Khaimoṅ mein aag lag gayi baba nahiṅ aaye
   Chaadar phuphi ki chhin li baba nahiṅ aaye

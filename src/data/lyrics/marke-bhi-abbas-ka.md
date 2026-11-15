@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Mar ke bhi Abbas ka saahil pe laasha reh gaya
   Hashr tak qabze mein pyaase ke darya reh gaya

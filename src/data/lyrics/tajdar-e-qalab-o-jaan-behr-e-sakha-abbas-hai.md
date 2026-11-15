@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mohsin Naqvi"
-tags: ["noImage"]
+tags: []
 aliases: ["Tajdar-e-Qalab-o-Jaan Behr-e-Sakha Abbas Hai"]
-published: false
+published: true
 romanLyrics: |-
   1
   Paasdaar-e-fateh-e-arz o sama Abbas hai

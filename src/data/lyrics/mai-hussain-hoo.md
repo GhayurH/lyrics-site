@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Raza Sirsvi"
 reciter: "Mir Hassan Mir; Ali Shanawar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Gunji bawaqt-e-asr sada main Husain huṅ
   Kaato na mera khushk gala main Husain huṅ

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nisar Nagri"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Nezoṅ mein shabaab-e-Ali Akbar nazar aaya
   Uljha hua khaaroṅ mein gul-e-tar nazar aaya

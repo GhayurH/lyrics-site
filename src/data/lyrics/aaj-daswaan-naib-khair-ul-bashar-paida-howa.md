@@ -5,9 +5,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage"]
+tags: []
 aliases: ["Aaj Daswaan Naib Khair-ul-Bashar Paida Howa"]
-published: false
+published: true
 romanLyrics: |-
   Aaj daswaaṅ Naib-e-Khair-ul-Bashar paida hua
   Haiṅ laqab Hadi Naqi jis ke Ali hai jis ka naam

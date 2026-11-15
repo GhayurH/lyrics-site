@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Ali Zia Rizvi"
 poet: "Anees Pehersari"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ammu bhi nahiṅ aaye baba bhi nahiṅ aaye
   Kya baat hai darya par jo jaaye wo reh jaaye

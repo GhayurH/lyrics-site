@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Anjuman-e-Masoomeen"
 poet: "Iqbal Abedi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Arbaeen dasht-e-bala mein hai manaana Zainab
   Maaṅ se waada jo kiya tha wo nibhaana Zainab

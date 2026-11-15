@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Chaadare Maangi To"]
-published: false
+published: true
 romanLyrics: |-
   Chaadareṅ maaṅgiṅ to har shehr se aaye patthar
   Bint-e-Zehra ne kahaaṅ par nahiṅ khaaye patthar

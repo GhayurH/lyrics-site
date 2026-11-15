@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
 reciter: "Ali Raza Baqri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Azaa-e-ahl-e-haram ke din haiṅ
   Ye zikr-e-daur-e-sitam ke din haiṅ

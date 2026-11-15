@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Dayam Najafi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Ali Yazdan"
 romanLyrics: |-
   Aamad hui jo bar sar-e-maidaṅ Husain ki

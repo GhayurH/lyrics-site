@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Tabligh-e-Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Waaris-e-chaadar-e-tathir hai Bint-e-Zehra
   Baad Shabbir ke Shabbir hai Bint-e-Zehra

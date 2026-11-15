@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Yasir Abbas"
 reciter: "Sajid Jafri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ek taraf Ghazi ka laasha ek taraf Shabbir ka
   Aur guzar hai darmiyaaṅ se berida hamshir ka

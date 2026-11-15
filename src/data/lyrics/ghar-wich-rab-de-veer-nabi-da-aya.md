@@ -10,10 +10,10 @@ poet: "Amir Ali Najfi, Sialkot"
 reciter: "Faiyaz Party Sialkot"
 occasion: "13 Rajab"
 # source_sangat: Anjuman-e-Sipah-e-Ahl-e-Bait (AS), Sialkot
-tags: ["noImage"]
+tags: []
 aliases: []
 recitationId: "ghar-wich-rab-de-veer-nabi-da-aya-lyrics-13-rajab"
-published: false
+published: true
 romanLyrics: |-
   Ghar wich Rab de vir Nabi da aaya
   Haq nu chhupaeiṅ naa ainu chhad jaeiṅ naa Rab ne shaan Ali da aap wadhaaya

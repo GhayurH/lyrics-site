@@ -5,9 +5,9 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Teri Zainab ne tera din bachaaya Naana
   Tere Islaam pe chaadar ko lutaaya Naana

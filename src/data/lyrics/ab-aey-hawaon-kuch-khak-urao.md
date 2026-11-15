@@ -12,43 +12,43 @@ published: true
 romanLyrics: |-
   Ab Ae Hawaoṅ Kuch Khak Urao
   Laut Aayi Ran Se Sheh Ki Sawaari
-  
+
   Zainab Sambhalna Hai Zin Khali
   Zakhmi Badan Se Hai Khun Jari
-  
+
   1
   Zainab Ki Ran Meiṅ Aah o Fughaṅ Hai
   Mazlum Bhai Batla Kahaṅ Hai
   Kya Haal Hai Tera Ye Murtajiz Hai
   Aankhoṅ Se Kiuṅ Ye Aansun Rawaṅ Hai
-  
+
   Tiroṅ Se Chhalni Sara Badan Hai
   Sare Badan Se Hai Khun Jari
-  
+
   2
   Tere Badan Se Bhayya Ki Mujhko
   Taza Lahu Ki Aati Hai Khushbu
   Hai Surkh Kiuṅkar Ye Jism Tera
   Kiuṅkar Hai Teri Aankoṅ Meiṅ Aansu
-  
+
   Aankheiṅ Phati Haiṅ Raasheiṅ Kati Haiṅ
   Kiuṅ Sar Pe Tere Hai Zakhm Tari
-  
+
   3
   Ae Zuljana-e-Sibt-e-Payambar
   Batala Kahaṅ Hai Mera Biradar
   Pyasi Sakina Karti Hai Noha
   Baba Na Aaye Maqtal Se Kiuṅkar
-  
+
   Mara Gaya Kiya Mazlum Bhai
   Karti Hai Zainab Ye Aah o Zari
-  
+
   4
   Har Sham Sughra Roz-e-Nabi Par
   Shamma Jalane Ko Jati Hogi
   Aashur Guzra Baba Na Aaye
   Ye Soch Kar Wo Ghabrati Hogi
-  
+
   Viran Ghar Ki Chaukhat Pe Ab Tak
   Behthi Ho Shayad Wo Gham Ki Maari
 ---

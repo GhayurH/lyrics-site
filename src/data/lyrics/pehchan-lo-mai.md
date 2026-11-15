@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Iqbal Abedi"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: ["Pehchan Lo Mai"]
-published: false
+published: true
 romanLyrics: |-
   Pehchaan lo main Zainab huṅ
   Kya sunte ho ae Abdullah

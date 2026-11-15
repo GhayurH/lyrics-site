@@ -7,9 +7,9 @@ direction: "rtl"
 poet: "Gohar Jarchvi"
 reciter: "Rizwan Zaidi"
 kalamType: "Manqabat"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 # source_id: tajpoints:fc045a7f616651ea2b4d
 # source_url: https://tajpoints.com/2019/01/suno-shan-e-fatima-suno-shan-e-syeda-1-6.html
 # raw_sha256: f8d5af12ca98fb6c49fcf2884f6de2e29cf939e7ca62ebab308279c9239a34ff

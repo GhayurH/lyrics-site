@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"
 reciter: "Mukhtar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Qaza ki aakhri hichki bari namehrbaan nikli
   Idhar Sughra ka khat aaya idhar Akbar ki jaaṅ nikli

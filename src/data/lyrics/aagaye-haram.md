@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: ["Aagaye Haram", "آگےء حرم ہوگا اربعین"]
-published: false
+published: true
 romanLyrics: |-
   Aa gaye haram hoga Arbaeen
 

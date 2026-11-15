@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Raza"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: ["Shabbir Hai Safar May"]
-published: false
+published: true
 romanLyrics: |-
   Shabbir hai safar mein aur saath Zahra saani
   Dohraayi hasbuna ki ummat ne phir kahaani

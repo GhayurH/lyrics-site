@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Hasan Mir"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["waqar-e-deen-e-khuda-hai-hussain-ka-matam-mir-hasan-mir"]
-published: false
+published: true
 romanLyrics: |-
   Waqaar-e-din-e-Khuda hai Husain ka maatam
   Payambaroṅ ne kiya hai Husain ka maatam

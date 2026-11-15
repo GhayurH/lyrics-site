@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Meri Jaan Akbar"]
-published: false
+published: true
 romanLyrics: |-
   Jab ran ko chale khaime se hamshakl-e-Payambar
   Laila ne kaha bete ko sine se laga kar

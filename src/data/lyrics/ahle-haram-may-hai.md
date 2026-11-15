@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Fazl Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Faazil Lakhnavi"
 romanLyrics: |-
   Ahl-e-Haram mein hai rone ki dhum

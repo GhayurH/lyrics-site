@@ -6,9 +6,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage"]
+tags: []
 aliases: ["Nazb Darya Par"]
-published: false
+published: true
 romanLyrics: |-
   Nasb darya par Shah-e-bekas ka khaima ho chuka
   Manzileṅ aafat pe pardesi ka dera ho chuka

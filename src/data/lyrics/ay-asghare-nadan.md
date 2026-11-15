@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Asghare Nadan"]
-published: false
+published: true
 romanLyrics: |-
   Ae Asghar-e-naadaaṅ
 

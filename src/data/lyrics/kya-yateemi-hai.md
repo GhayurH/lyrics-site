@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Jaffer Tashna"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: ["Kya Yateemi Hai"]
-published: false
+published: true
 romanLyrics: |-
   Haae jab shaam-e-gharibaaṅ ka andhera chhaaya
   Dhundne baap ko maqtal mein gayi ek dukhiya

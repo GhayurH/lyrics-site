@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Hasan Kamran"
 reciter: "Ahsan Hussain"
-tags: ["noImage"]
+tags: []
 aliases: ["Pyase Ko Maa"]
-published: false
+published: true
 romanLyrics: |-
   Asghar mere kahaaṅ ho
 

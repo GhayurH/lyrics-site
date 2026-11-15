@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ishrat Bilgrami"
 reciter: "Ishrat Bilgrami"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Mominoṅ sar pit lo qatl hue haiṅ Naqi
   Saamra mein zehr se qatl hue haiṅ Naqi

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Haider Sultanpuri"
 reciter: "Mir Rehan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Mere Bhaiya Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Gir gayi laash pe bahan aa ke
   Mere bhaiya Husain uth jaao

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Takallum & Shams"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Al ajal Ae Yusuf-e-Zahra
 

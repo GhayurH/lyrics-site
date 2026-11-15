@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Akhtar Sirsvi"
 reciter: "Ameer Hasan Aamir; Irfan Husain"
-tags: ["noImage"]
+tags: []
 aliases: ["Ye Kehke Gire", "ابا الفضل ابا الفضل ابا الفضل ابا الفضل", "Ye Dono Kate Haat"]
-published: false
+published: true
 romanLyrics: |-
   Abal Fazl Abal Fazl Abal Fazl Abal Fazl
   Abbas kahaaṅ ho mere Abbas kahaaṅ ho

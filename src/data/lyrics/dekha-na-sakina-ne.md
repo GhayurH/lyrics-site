@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Salman Awais Khan"
 reciter: "Kazmi Brothers"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Chehra na tera saamne gar paauṅ gi Baba
   Taariki-e-zindaan mein ghabraauṅ gi Baba

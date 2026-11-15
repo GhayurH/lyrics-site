@@ -13,37 +13,37 @@ published: true
 romanLyrics: |-
   Rone Ke Liye Kaafi Hai Sajjad Tera Naam
   Tu Shahenshah-e-Dard Hai, Batla Rahi Hai Shaam
-  
+
   1
   Chala Bekasoṅ Ka Kaarvaṅ, Bemaar Logo Saarbaṅ
   Hai Sang Sar-e-Uriyaṅ, Sheh-e-La-Fata Ki Betiyaṅ
   Karb o Bala Ke Dasht Meiṅ Barpa Hai Kohraam
-  
+
   2
   Zainab Pukari beWatan, Bhai Mera Hai beKafan
   Kar De Ise Koi Dafan, Mere Haathoṅ Meiṅ Bandhi Rasan
   Haye Kaise Suna Hoga Bemaar Ne Paighaam
-  
+
   3
   Masturoṅ Meiṅ Ek Mard Hai, Ghairat Se Chehra Zard Hai
   Karbal Ki Zamiṅ Gard Hai, Zainab Ke Dil Meiṅ Dard Hai
   Rota Hai Sar Jhuka Ke, Karta Nahi Kalaam
-  
+
   4
   Mushkil Thi Bari Woh Ghari, Darbar Meiṅ Zainab Khari
   Shabbir Ke Lab Par Chhari, Sajjad Ne Pehni Kari
   Darbar-e-Yazidi Ke Larze The Dar o Baam
-  
+
   5
   Kat Jaate Sayyadoṅ Ke Sar, Zainab Na Jaati Dar Badar
   Bemaar Ka Tukre Jigar, Rota Hai Lahu Har Nagar
   Har Manziloṅ Pe Tarapna, Sajjad Tera Kaam
-  
+
   6
   Zindan Siyaah Posh Hai, Tanhai Ki Aaghosh Hai
   Abid Kahe Na Hosh Hai, Dum Tuta Hai Khamosh Hai
   Ummat Ne Sakina Ko Diya Maut Ka Inaam
-  
+
   7
   Karbal Ki Siyaah Khaak Par, Adil Lahu Poshaak Par
   Charche Hue Aflaak Par, Sultan-e-Loulaak Par

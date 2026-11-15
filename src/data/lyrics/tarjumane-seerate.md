@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Nasir Jahan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tarjuman-e-sirat-e-Aal-e-Abaa Zainab hui
   Shaahra-e-ahkaam-e-din-e-Mustafa Zainab hui

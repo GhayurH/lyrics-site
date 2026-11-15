@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aap se aap yuṅhi jab zikr kahiṅ Sheh ka chhira
   Aa gayi khinch ke wahiṅ Karb o Bala

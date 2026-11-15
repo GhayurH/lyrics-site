@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Dayam Najafi"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: ["Manzar Pase Manzar"]
-published: false
+published: true
 romanLyrics: |-
   Manzar pas-e-manzar
   Wo Husain Ibn-e-Ali aur wo Shimr ka khanjar

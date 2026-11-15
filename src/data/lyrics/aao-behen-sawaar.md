@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Shah"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jab aakhri rukhsat ko Husain aaye haram se
   Sab bibiyaaṅ lipti Shah-e-Waala ke qadam se

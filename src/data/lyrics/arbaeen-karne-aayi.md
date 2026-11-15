@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Mir Bober Ali"
 poet: "Mir Bober Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Arbaeen karne aayi hai Zainab
   Zakhm par zakhm khaayi hai Zainab

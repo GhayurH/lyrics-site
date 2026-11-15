@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Hasan Mir"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["zikr-e-hasan-mir-hasan-mir"]
-published: false
+published: true
 romanLyrics: |-
   Hasan ke zikr mein jab zikr-e-Kirdgaar kiya
   Mere Khuda ne use hamd mein shumaar kiya

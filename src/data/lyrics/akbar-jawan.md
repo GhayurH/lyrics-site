@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Mir Sajjad Mir"
 romanLyrics: |-
   Haye Haye jawaṅ Akbar jawaṅ Akbar jawaṅ Akbar jawaṅ

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Tabligh-e-Imamia"
-tags: ["noImage"]
+tags: []
 aliases: ["Bahot Kareeb Hai"]
-published: false
+published: true
 romanLyrics: |-
   Bahot qarib hai Kausar se Karbala-e-Husain
   Wasila haq ka koi nahiṅ siwaaye Husain

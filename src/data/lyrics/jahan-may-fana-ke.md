@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Baaqi raha hai kaun jahaaṅ mein fana ke baad
   Zinda magar Husain hai qatl-e-jafa ke baad

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shanawar Makanpuri"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Hussain Raazi Rahe"]
-published: false
+published: true
 romanLyrics: |-
   Bas Husain raazi rahe Husain raazi rahe
 

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mirza Murtaza Ali"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Ghareebo Bekaso"]
-published: false
+published: true
 romanLyrics: |-
   Gharib o bekas o laachaar aawaara watan Zainab
   Muqaddar ho chuke tere liye ranj o mihan Zainab

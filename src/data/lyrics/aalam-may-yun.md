@@ -5,10 +5,10 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage"]
+tags: []
 reciter: "Pyare Khan"
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aalam meiṅ yuṅ sharik-e-risalat hai Fatima
   Rehmat Nabi hai saya-e-rehmat hai Fatima

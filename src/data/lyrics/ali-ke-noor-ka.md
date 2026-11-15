@@ -7,10 +7,10 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Takallum Mir"
 reciter: "Mukhtar Hussain Fatehpuri"
-tags: ["noImage"]
+tags: []
 aliases: []
 recitationId: "ali-ke-noor-ka-mukhtar-hussain-fatehpuri-lyrics-2022"
-published: false
+published: true
 # source_id: tajpoints:d6c316102178198964bc
 # source_url: https://tajpoints.com/2022/02/ali-ke-noor-ka-mukhtar-hussain.html
 # raw_sha256: 29eab36864133ef05b0ef1f205cd3323a34912614a7fa9eef56f7f86ed806ded

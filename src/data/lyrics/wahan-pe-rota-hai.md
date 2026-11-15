@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
 reciter: "Rizwan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Wahaaṅ pe rota hai khuṅ ab bhi aasmaan Husain
   Jahaaṅ pe luta gaya tera kaarwaan Husain

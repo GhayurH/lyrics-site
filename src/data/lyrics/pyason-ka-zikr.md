@@ -7,8 +7,8 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Fazl Lakhnavi"
-tags: ["noImage"]
-published: false
+tags: []
+published: true
 romanLyrics: |-
   Pyaasoṅ ka zikr tashna dahaani ke saath hai
   Naam-e-Husain aaj bhi paani ke saath hai

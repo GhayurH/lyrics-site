@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Dayam Najafi"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Daagh-e-jawaan dekh ke Shabbir ne kaha
   Dushman ko bhi Khuda na dikhaaye pisar ka daagh

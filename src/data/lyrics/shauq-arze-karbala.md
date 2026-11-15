@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Nasir Jahan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Shauq arz-e-Karbala ka mere aab o gil mein hai
   Jite ji jannat mein pahuṅchuṅ ye tamanna dil mein hai

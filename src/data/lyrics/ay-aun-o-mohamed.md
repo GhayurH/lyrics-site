@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Aun O Mohamed"]
-published: false
+published: true
 romanLyrics: |-
   Ae Aun o Muhammad mere
 

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Raza Ali Sohail"
 reciter: "Hadi Ali Khan Muslim"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tha ran mein Shah ka ye nauha mere Ali Akbar
   Husain ho gaya tanha mere Ali Akbar

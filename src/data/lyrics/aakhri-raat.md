@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Armaan Baltistani"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Aakhri raat Sakina ki
   Haye haye haye

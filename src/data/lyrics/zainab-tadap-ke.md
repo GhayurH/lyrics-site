@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Ali Khan Lakhnavi"
 reciter: "Ghadeer Fatima"
-tags: ["noImage"]
+tags: []
 aliases: ["Zainab Tadap Ke"]
-published: false
+published: true
 romanLyrics: |-
   Zainab tarap ke roti thi aayi jo ye khabar
   Abbas qatl ho gaye nehr-e-Furaat par

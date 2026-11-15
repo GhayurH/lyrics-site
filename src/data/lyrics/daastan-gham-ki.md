@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ameer Hussain Mashadi"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: ["Daastan Gham Ki"]
-published: false
+published: true
 romanLyrics: |-
   Daastaaṅ gham ki raqam kuchh yuṅ Sakina kar gayi
   Rang wo tasvir-e-diṅ meiṅ apne khuṅ se bhar gayi

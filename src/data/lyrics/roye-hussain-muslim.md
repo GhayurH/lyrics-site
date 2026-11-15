@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Roye Hussain Muslim"]
-published: false
+published: true
 romanLyrics: |-
   Haye turbat mein ro pari Zehra
   Aise roye Husain Muslim ko

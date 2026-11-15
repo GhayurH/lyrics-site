@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Yasir Raza Yasir"
 reciter: "Syed Wajhi Hasan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Aaj Bhi Sab Se Numaya Hai Alam Abbas Ka"]
-published: false
+published: true
 romanLyrics: |-
   Aaj bhi sab se numayaṅ hai alam Abbas ka
   Dekh lo dunya pe chhaya hai alam Abbas ka

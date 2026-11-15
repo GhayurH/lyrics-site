@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: ["Goonji Hai Karbala"]
-published: false
+published: true
 romanLyrics: |-
   Gunji hai Karbala mein Akbar teri azaaṅ
   Shabbir ki nigaah mein hai ab dhuaaṅ dhuaaṅ

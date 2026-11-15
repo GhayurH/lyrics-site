@@ -5,9 +5,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Tableegh e Imamia"
 romanLyrics: |-
   Al atash ki dar-e-khaime se sada aane lagi

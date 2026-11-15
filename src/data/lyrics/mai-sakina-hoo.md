@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Baltistani"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: ["Mai Sakina Hoo"]
-published: false
+published: true
 romanLyrics: |-
   Main Sakina huṅ mera dard hai itna baba
   Mujhko zaalim ne kanizi mein hai maanga baba

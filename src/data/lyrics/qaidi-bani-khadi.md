@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Irfan Haider"
-tags: ["noImage"]
+tags: []
 aliases: ["Qaidi Bani Khadi"]
-published: false
+published: true
 romanLyrics: |-
   Haaye haaye Zainab makhduma
   Haaye haaye Zainab mazluma

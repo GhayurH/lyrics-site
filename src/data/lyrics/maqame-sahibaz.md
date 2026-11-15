@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Maqame Sahibaz"]
-published: false
+published: true
 romanLyrics: |-
   Suno ae ahl-e-aza dardnaak ye manzar
   Kisi ne puchha jo qaayim Imam se ro kar

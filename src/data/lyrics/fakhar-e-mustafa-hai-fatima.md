@@ -7,10 +7,10 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Yasir Raza Yasir"
 reciter: "Yasir Raza Yasir, Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
 recitationId: "fakhar-e-mustafa-hai-fatima-mir-hasan-mir-yasir-raza-yasir"
-published: false
+published: true
 romanLyrics: |-
   Fakhr-e-Mustafa hai Fatima
   Zauj-e-Murtaza hai Fatima

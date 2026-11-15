@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Shame Ghariban"]
-published: false
+published: true
 romanLyrics: |-
   Ae shaam-e-gharibaṅ
   Har khaime se uthta hai dhuaaṅ shaam-e-gharibaṅ

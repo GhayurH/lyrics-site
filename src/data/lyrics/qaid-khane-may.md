@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Mirza Dabeer"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Haae Saadaat aur zindaan, haae Saadaat aur ye zindaan
   Haae Saadaat haae zindaan haae Saadaat haae zindaan

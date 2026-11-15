@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Safdar Abbas"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Darya kanare teri aal pyasi
   Ghar ko luta ke pardes aa ke

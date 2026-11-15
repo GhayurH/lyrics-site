@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Aale Raza"
 reciter: "Nasir Jahan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Pukaari laash pe Zehra mere Husain Husain
   Kafan bhi tu nahiṅ paaya mere Husain Husain

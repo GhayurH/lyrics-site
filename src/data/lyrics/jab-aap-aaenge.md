@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Bilal Kazmi"
 reciter: "Mukhtar Hussain Fatehpuri"
-tags: ["noImage"]
+tags: []
 aliases: ["jab-ap-ayeinge-mukhtar-hussain-fatehpuri"]
-published: false
+published: true
 romanLyrics: |-
   Gale milo sab durud parh kar hasad ki diwaar tor waalo.
   Diloṅ mein bughz o hasad raha to Husain ka gham kahaaṅ rahe ga.

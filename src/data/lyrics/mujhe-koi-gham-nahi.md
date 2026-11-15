@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sibt-e-Jafar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Mujhe koi gham nahiṅ hai magar ae Husain tera
   Meri fikr ki hai manzil safar ae Husain tera

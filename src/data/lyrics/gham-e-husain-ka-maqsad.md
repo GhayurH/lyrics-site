@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Salam"
 poet: "Syed Waheed Ul Hasan Hashmi"
 reciter: "Piaray Khan"
-tags: ["noImage"]
+tags: []
 aliases: ["gham-e-hussain-ka-maqsad-piaray-khan"]
-published: false
+published: true
 romanLyrics: |-
   1
   Gham-e-Husain ka maqsad badal nahiṅ sakta

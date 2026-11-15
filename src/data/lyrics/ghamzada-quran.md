@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Altaf Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Safdar Abbas"
 romanLyrics: |-
   Ya Fatema Zehra ya Umm-e-Abiha

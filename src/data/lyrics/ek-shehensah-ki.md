@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Safdar Abbas"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Ek Shehensah Ki"]
-published: false
+published: true
 romanLyrics: |-
   Bachpan mein buzurgoṅ ne bataayi thi Karbala
   Ek saahib-e-aalam ne basaayi thi Karbala

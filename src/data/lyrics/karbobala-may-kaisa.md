@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Naqvi Najaf"
 reciter: "Anj. Masumin"
-tags: ["noImage"]
+tags: []
 aliases: ["Karbobala May Kaisa"]
-published: false
+published: true
 romanLyrics: |-
   Karb o Bala mein kaisa ye manzar Zainab ne dekha
   Sar bhaai ka zer-e-khanjar Zainab ne dekha

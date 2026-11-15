@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Irfan"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ashoor ki sehar hai Akbar ki azaaṅ hai
   Shabbir ke lashkar mein ek shor-e-fughaaṅ hai

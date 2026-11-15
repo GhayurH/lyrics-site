@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Najaf Murshidabadi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Shehzad Qudar"
 romanLyrics: |-
   Boli ye Bint-e-Murtaza Abid udaas hai

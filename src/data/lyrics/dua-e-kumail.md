@@ -5,10 +5,10 @@ lang: ur
 direction: rtl
 kalamType: Dua
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: []
 recitationId: "dua-e-kumail-nadeem-sarwar"
-published: false
+published: true
 alternateTitle: Dua-e-Kumail
 romanLyrics: |-
   Ya sari ar-reza

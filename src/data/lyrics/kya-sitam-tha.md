@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Bahadur"
 reciter: "Mir Raza Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kya sitam tha Karbala mein
 

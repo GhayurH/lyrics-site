@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Zakhm Chupana"]
-published: false
+published: true
 romanLyrics: |-
   Akbar ne sinaaṅ khaayi hai un ko na bataana
   Baba phupi ammaaṅ se mera zakhm chhupaana

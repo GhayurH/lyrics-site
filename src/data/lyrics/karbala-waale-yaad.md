@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: ["Karbala Waale Yaad"]
-published: false
+published: true
 romanLyrics: |-
   Paani pyaasoṅ ko jab pilaao ge
   Karbala wale yaad aayeṅ ge

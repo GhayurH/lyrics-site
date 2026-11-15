@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Irfan"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: ["Aabrue La Ilaha"]
-published: false
+published: true
 romanLyrics: |-
   Aabru-e-La Ilaha sajda-e-Shabbir hai
   Tere dam se Ya Husaina naara-e-takbir hai

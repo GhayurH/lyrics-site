@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Aarzoo E Azadar"]
-published: false
+published: true
 romanLyrics: |-
   Zindagi meiṅ ho karam mujh pe bhi mere sarkar
   Chhote Hazrat se kahe mujhko bana de zawwar

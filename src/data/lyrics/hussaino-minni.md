@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Irfan Haider"
-tags: ["noImage"]
+tags: []
 aliases: ["Hussaino Minni"]
-published: false
+published: true
 romanLyrics: |-
   Sada-e-Rab-e-jahaaṅ
   Jabiṅ kushada Husain

@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Zafar"
 reciter: "Mirza Sikander Ali; Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Kya Dhoond Rahi Hai"]
-published: false
+published: true
 romanLyrics: |-
   Kya dhund rahi hai jangal mein Sakina
   Abbas ke baazu ya Baba ka sina

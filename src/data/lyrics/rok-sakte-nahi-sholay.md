@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mohib Fazli"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: ["Rok Sakte Nahi Sholay"]
-published: false
+published: true
 romanLyrics: |-
   Rok sakte nahiṅ shole bhi azaadaaroṅ ko
   Apne talwoṅ se bujha dete haiṅ angaaroṅ ko

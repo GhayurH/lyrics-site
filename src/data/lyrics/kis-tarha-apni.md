@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Meer Nazeer Baqari"
 reciter: "Mir Hassan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kis tarha apni tabaahi ki khabar le jaaye
   Paas Zainab ke bacha kya hai jo ghar le jaaye

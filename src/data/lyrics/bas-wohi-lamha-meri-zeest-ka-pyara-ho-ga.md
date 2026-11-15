@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Naat"
 poet: "Raqib Hasnain Raqib"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Bas wohi lamha meri zist ka pyaara ho ga
   Jis ghari Gunbad-e-Khazra ka nazaara ho ga

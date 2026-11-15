@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Salamat Feroz"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Zanjir bandhe haathoṅ se ek laasha utha hai
   Kaanoṅ se rawaaṅ khun hai, kurta bhi jala hai

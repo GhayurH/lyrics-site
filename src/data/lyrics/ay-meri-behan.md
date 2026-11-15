@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Meri Behan"]
-published: false
+published: true
 romanLyrics: |-
   Ae meri behan dukhiya Zainab
 

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Maaṅ dhund rahi hai kab se Asghar aa jaao aa jaao
   Chhaaya hai har simt andhera dilbar aa jaao

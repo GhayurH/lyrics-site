@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Raza Surani"
 reciter: "Ali Mohd. Sultanpuri"
-tags: ["noImage"]
+tags: []
 aliases: ["Kya Ye Wo Chand"]
-published: false
+published: true
 romanLyrics: |-
   Hilaal-e-maah-e-gham hilaal-e-maah-e-aza
 

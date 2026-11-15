@@ -13,35 +13,35 @@ romanLyrics: |-
   1
   Har sanam kabe maiṅ hairaan nazar aata hai
   kiya ise maut ka samaan nazar aata hai
-  
+
   2
   maaṅ akeli thiṅ Ali roye nahiṅ kaabe meiṅ
   ghaar meiṅ kis liye tufaan nazar aata hai
-  
+
   3
   Fatima bint-e-Asad se kaha Ka‘bemeiṅ chaleṅ
   beAli ghar mera sunsaaṅ nazar aata hai
-  
+
   4
   aaj haathoṅ pe uthaye haiṅ ali ko ahmad
   yani quran pa quraṅ nazar aata hai
-  
+
   5
   Mezbaṅ arsh pe ik roz yahi to hoga
   Aaj Ka‘bay meiṅ jo mehman nazar aata hai
-  
+
   6
   naara-e-haideri mastoṅ ki zabaaṅ se sunkar
   maulvi sakht pareshaan nazar aata hai
-  
+
   7
   Fakhr-e-Adam se jo jalta hai to us par laanat
   Kab yeh insaan hai shaitan nazar aata hai
-  
+
   8
   jisne makkar siyasat ko diya din ka naam
   khaandan-e-abu sufyan nazar aata hai
-  
+
   9
   Pa ke har bait ke badle meiṅ Asar bait-e-jinaṅ
   Milk meiṅ mulk-e-Suleman nazar aata hai

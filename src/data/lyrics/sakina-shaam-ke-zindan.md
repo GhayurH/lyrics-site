@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Sakina Shaam Ke Zindan"]
-published: false
+published: true
 romanLyrics: |-
   Sakina Shaam ke zindaaṅ mein so gayi baba
 

@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Afzal Hussain Najfi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Husain zulmatoṅ meiṅ gauhar-e-taabinda hai
   Ke jis ke hone se insaaniyat paainda hai

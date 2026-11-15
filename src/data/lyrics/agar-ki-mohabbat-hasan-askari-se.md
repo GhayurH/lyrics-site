@@ -5,9 +5,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage"]
+tags: []
 aliases: ["agar-ki-mohabbat-hasan-askari-say-ali-adil"]
-published: false
+published: true
 poet: "Areeb Hadi"
 reciter: "Ali Adil"
 romanLyrics: |-

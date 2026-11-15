@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Mir Sajjad Mir"
 poet: "Mir Sajjad Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Abbas ke naukar hain pani to pilaeṅge
   Badle mein duaeṅ hum Shabbir se paeṅge

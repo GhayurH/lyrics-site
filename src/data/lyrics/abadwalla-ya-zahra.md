@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Nadeem Sarwar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tin Shaban sada-e-kaunain marhaba sall-e-ala ho gaya zuhur-e-Maula Husain
   Aaghosh-e-Fatima se Husain aaghosh-e-risalat mein aaye

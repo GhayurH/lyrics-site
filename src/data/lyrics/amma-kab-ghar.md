@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Shareef Hussain"
 poet: "Anwar Zahir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Amma kab ghar jaayeṅge
   Qaid mein kya mar jaayeṅge

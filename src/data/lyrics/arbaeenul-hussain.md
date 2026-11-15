@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Shahid Baltistani"
 poet: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Arbaiṅ Arbaiṅ Arbain-ul-Husain
   Labbaik ya Ibn-e-Zehra labbaik ya Husain

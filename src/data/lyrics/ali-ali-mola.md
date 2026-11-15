@@ -6,9 +6,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Hilal Rizvi"
 reciter: "Syed Wajhi Hasan Zaidi, Syed Sabeeh Hasan Zaidi, Syed Askari Hasan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["ali-ali-mola-syed-wajhi-sabeeh-askari-hasan-zaidi"]
-published: false
+published: true
 # source_id: tajpoints:11274161c101f82dcfa4
 # source_url: https://tajpoints.com/2023/02/ali-ali-mola-syed-wajhi-sabeeh-askari.html
 # raw_sha256: 1c1bdd6c1bb8bf1410b8e864c2be3a5a374f5aacf9dd215cdb65b6b5dd17fa8a

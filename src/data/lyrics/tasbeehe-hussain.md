@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Raza Ali Khan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Tasbih-e-Husain ibn-e-Ali qaidi bani hai
   Kaanoṅ se lahu jaari hai aur Shaam chali hai

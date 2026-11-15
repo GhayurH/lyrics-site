@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zair Naqvi"
 reciter: "Mukhtar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Roti hai Ali zaadi baaba ke janaaze par
   Band aankhoṅ se rote haiṅ har bain par khud Haider

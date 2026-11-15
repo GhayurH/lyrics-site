@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hasan Abbas Ahsan"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Hadi Ali Khan Muslim"
 romanLyrics: |-
   Bain the ye Bano ke mere bezabaaṅ Asghar

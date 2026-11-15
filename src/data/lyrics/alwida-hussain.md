@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nadeem"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Qaid ho kar jo su-e-Shaam chali Bint-e-Ali
   Pahunch kar laash-e-baradar pe buka karne lagi

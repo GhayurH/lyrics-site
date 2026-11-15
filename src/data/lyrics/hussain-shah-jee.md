@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Irfan Haider"
-tags: ["noImage"]
+tags: []
 aliases: ["Hussain Shah Jee"]
-published: false
+published: true
 romanLyrics: |-
   Baadshah-e-Karbala salaam
   Tu ne kar diya azim kaam

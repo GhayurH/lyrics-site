@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Sibte Jafar"
 sixVerseLayout: "pairs"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jab Yazid apne gunaahoṅ se pashemaan hua
   Haṅs ke pehle sifat-e-zakhm-e-bo ke yaaṅ hua

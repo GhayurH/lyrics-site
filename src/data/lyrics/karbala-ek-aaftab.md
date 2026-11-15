@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Izzat Lakhnavi"
 reciter: "Izzat Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Karbala ek aaftaab aur uski tanwireṅ bahut
   Ek kitaab-e-aagahi jiski hai tafsireṅ bahut

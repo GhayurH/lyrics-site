@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Nadeem Sarwar"
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jab kat gaya Zehra ka chaman dasht-e-bala mein
   Shaamil hua pyaasoṅ ka lahu khaak-e-shifa mein

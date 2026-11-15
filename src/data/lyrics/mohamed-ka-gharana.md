@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Salman Azmi"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Mohamed Ka Gharana"]
-published: false
+published: true
 romanLyrics: |-
   Muhammad ka gharaana Muhammad ka gharaana
 

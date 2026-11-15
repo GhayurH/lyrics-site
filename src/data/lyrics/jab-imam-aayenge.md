@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sibt-e-Jafar"
 reciter: "Syed Wajhi Hasan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["jab-imam-aayenge-wajhi-hasan-zaidi", "Jab Imam Aayenge Wajhi Hasan Zaidi"]
-published: false
+published: true
 romanLyrics: |-
   Haal-e-gham sunaayeṅ ge jab Imam aayeṅ ge
   Zakhm-e-dil dikhaayeṅ ge jab Imam aayeṅ ge

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 sixVerseLayout: "pairs"
 reciter: "Sibte Jafar"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 # source_id: nohayonline:383385cc5fa2b3288a7b
 # source_url: https://www.nohayonline.com/details_content.php?id=2668
 # raw_sha256: d6df866a6152c1468f942f9d13bbcca7ad79a3a9add0749404ccdd3f39fcc17a

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Iqbal"
 reciter: "Anj. Masoomeen"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Seem Tana"]
-published: false
+published: true
 romanLyrics: |-
   Chaandi sa badan phul sa tan khaak hua hai
   Zainab ka jigar rashk-e-qamar chaak hua hai
@@ -19,59 +19,59 @@ romanLyrics: |-
   Ae sim tana gulbadana Aun o Muhammad
   Zainab hai kahaaṅ aur kahaaṅ Aun o Muhammad
 
-  ۱
+  1
   Pyaase rahe darya ki taraf ki na nigaaheṅ
   De aaye the Zainab ko zabaaṅ Aun o Muhammad
 
-  ۲
+  2
   Ek dard ki duniya hai basi dasht-e-bala mein
   Kaafur hue donoṅ jahaaṅ Aun o Muhammad
 
-  ۳
+  3
   Khaime mein the jab tak to faqat donoṅ the bachche
   Maidaaṅ mein hue jaake jawaaṅ Aun o Muhammad
 
-  ۴
+  4
   Wo maut ke sehra mein raha manzar-e-mehshar
   Angraaiyaaṅ lete the wahaaṅ Aun o Muhammad
 
-  ۵
+  5
   Wo maqsad-e-Sarwar pe fida donoṅ ka hona
   Tum jaise kahaaṅ dida waraaṅ Aun o Muhammad
 
-  ۶
+  6
   Laashoṅ pe kiye hai Zainab-e-dilgir ne sajde
   Un sajdoṅ ke raushan hai nishaaṅ Aun o Muhammad
 
-  ۷
+  7
   Aashur ko dulhan thi bani Aashur ko bewa
   Paamaal hua ran mein jawaaṅ Aun o Muhammad
 
-  ۸
+  8
   Beshir ki gardan par chala tir-e-sitamgar
   Hontoṅ pe jo pheri hai zabaaṅ Aun o Muhammad
 
-  ۹
+  9
   Barchhi ki ani jo dhans gayi khud mere jigar mein
   Ab hai meri aaṅkhoṅ mein dhuaaṅ Aun o Muhammad
 
-  ۱۰
+  10
   Darya ko bhi Abbas ne darya nahiṅ samjha
   Tha husn-e-wafa se ye ayaaṅ Aun o Muhammad
 
-  ۱۱
+  11
   Abbas-e-jari so gaye darya ke kinaare
   Bedast hue sher-e-jawaaṅ Aun o Muhammad
 
-  ۱۲
+  12
   Akbar bhi nahiṅ Abbas nahiṅ tum bhi nahiṅ ho
   Bhai ke bina hum haiṅ yahaaṅ Aun o Muhammad
 
-  ۱۳
+  13
   Ek nusrat-e-haq ke siwa maaṅ ne na socha
   Ae jaan-e-dileraan-e-jawaaṅ Aun o Muhammad
 
-  ۱۴
+  14
   Iqbal ke nauhe ye sada haq ki sada hai
   Dhundeṅge tumheṅ haq talabaaṅ Aun o Muhammad
 # source_id: nohayonline:7176c37b7353e5e2d9ab

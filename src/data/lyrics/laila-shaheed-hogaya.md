@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Jaweed Maqsood"
 reciter: "Mir Mohsin Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Laila Shaheed Hogaya"]
-published: false
+published: true
 romanLyrics: |-
   Laila shahid ho gaya tera jawaaṅ pisar
 

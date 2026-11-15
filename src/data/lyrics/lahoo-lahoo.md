@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Lahoo Lahoo"]
-published: false
+published: true
 romanLyrics: |-
   Lahu lahu dasht-e-Karbala hai
 

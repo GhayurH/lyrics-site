@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Afzal Mirza"
 poet: "Ishrat Lakhnavi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Asghar ke baad chain na aaya Rabab ko
   Dekha tamaam umr tarapta Rabab ko

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Karbala mein kya bataayeṅ hum ne kya kya dekha
   Hum ne laakhoṅ mein hai Shabbir ko tanha dekha

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Baba Nisaar Haideri"
 reciter: "Rizwan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Raat Sughra ne ajab khwaab pareshaaṅ dekha
   Dasht meiṅ khun meiṅ duba hua Quraaṅ dekha

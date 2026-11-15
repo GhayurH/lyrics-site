@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
 reciter: "Raza Abbas Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Saarban"]
-published: false
+published: true
 romanLyrics: |-
   Ae saarbaaṅ ae saarbaaṅ
   Aahista chal ae naatawaaṅ

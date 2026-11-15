@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
 reciter: "Mir Sajjad Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["Jab Mai Bhi Karbala"]
-published: false
+published: true
 romanLyrics: |-
   Jab main bhi Karbala ki ziyaarat ko jaauṅ ga
   Pyaasoṅ ke zaairin ko paani pilaauṅ ga

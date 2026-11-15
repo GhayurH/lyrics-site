@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Dayam Najafi"
 reciter: "Ali Yazdan"
-tags: ["noImage"]
+tags: []
 aliases: ["Ran Kampne Laga"]
-published: false
+published: true
 romanLyrics: |-
   Jab Hurmala ne tir kamaaṅ se kiya riha
   Beshir ka chhida sar-e-maidaan jab gala

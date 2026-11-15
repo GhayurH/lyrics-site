@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
 reciter: "Tableegh-e-Imamia"
-tags: ["noImage"]
+tags: []
 aliases: ["Karbala Aagaye"]
-published: false
+published: true
 romanLyrics: |-
   Karbala aa gaye Islam bachaane waale
 

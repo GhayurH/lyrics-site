@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Farid Baig"
 reciter: "Hasan Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Shaheede Teere Sitam"]
-published: false
+published: true
 romanLyrics: |-
   Shahid-e-tir-e-sitam bezabaaṅ Ali Asghar
 

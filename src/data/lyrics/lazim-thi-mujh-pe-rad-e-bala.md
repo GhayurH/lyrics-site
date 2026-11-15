@@ -45,7 +45,6 @@ romanLyrics: |-
   9
   Leni thi mujh ko daulat-e zikr-e Husain ki
   Sar kham Ali ke dar pe kiya, kya bura kiya
-
 ---
 
 ۱

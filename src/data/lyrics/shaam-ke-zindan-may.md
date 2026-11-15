@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Ishrat Lakhnavi"
 reciter: "Dilawar Hasan"
-tags: ["noImage"]
+tags: []
 aliases: ["Shaam Ke Zindan May"]
-published: false
+published: true
 romanLyrics: |-
   Shaam ke zindaan meiṅ ye ghul hua
   Mar gayi bimaar ki chhoti behan

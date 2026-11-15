@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mohsin Shakeeb"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Mere Hussain"]
-published: false
+published: true
 romanLyrics: |-
   Ae mere Husain as-salaam
   Ae mere Imam as-salaam

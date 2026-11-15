@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Tableegh e Imamia"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sar nange jab haram gaye darbaar-e-Shaam mein
   Shor o fughaaṅ tha marqad-e-Khairul Anaam mein

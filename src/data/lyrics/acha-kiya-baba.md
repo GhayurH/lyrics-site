@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Nadeem Sarwar"
 romanLyrics: |-
   Chaahat ka meri kaisa ye mujh ko sila diya

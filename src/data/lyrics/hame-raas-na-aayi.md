@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Mir Mohsin Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Hame Raas Na Aayi"]
-published: false
+published: true
 romanLyrics: |-
   Aashur ko maqtal meiṅ thi sada
   Hameiṅ raas na aayi Karb o Bala

@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shanawar Makanpuri"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Shamiyoṅ Zehra ki haiṅ ye betiyaṅ ab rehne do
   Kar chuke in par bahot hi sakhtiyaṅ ab rehne do

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ghayour"
 reciter: "Alamdar Razvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jhuka jaata hai ab jism-e-figaar aahista aahista
   Zamiṅ par aa raha hai ik sawaar aahista aahista

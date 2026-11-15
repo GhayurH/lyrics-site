@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Hamid Jafri"
 reciter: "Ashfaq Merchant"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Gunji faryaad Jibril ki
   Haye Maula Ali un Naqi

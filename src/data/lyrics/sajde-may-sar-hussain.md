@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sajde mein sar Husain ka tiroṅ ke darmiyaaṅ
   Khaimoṅ se aa raha tha ik shor al-amaaṅ

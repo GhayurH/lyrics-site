@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Tajammul Lakhnavi"
 reciter: "Sachey Bhai"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kise naasir mile aise Shaah-e-dilgir se pehle
   Wafa ki laaj rakh li mar gaye Shabbir se pehle

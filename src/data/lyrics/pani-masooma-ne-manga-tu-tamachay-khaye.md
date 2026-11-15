@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Salam"
 poet: "Mir Sajjad Mir"
 reciter: "Mir Sajjad Mir"
-tags: ["noImage"]
+tags: []
 aliases: ["pani-masooma-ne-manga-tu-tamachay-khaye-lyrics-2018"]
-published: false
+published: true
 romanLyrics: |-
   Paani Masuma ne maanga to tamaanche khaae
   Roi baaba ko Sakina to tamaanche khaae

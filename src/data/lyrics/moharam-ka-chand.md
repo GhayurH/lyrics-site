@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Waiz Sultanpuri"
 reciter: "Ali Mohd. Sultanpuri"
-tags: ["noImage"]
+tags: []
 aliases: ["Moharam Ka Chand"]
-published: false
+published: true
 romanLyrics: |-
   Ye hai hilaal-e-gham
   Ye gham ka chaand hai

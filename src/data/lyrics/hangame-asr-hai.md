@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "Sajid Jafri"
 poet: "Ahmed Naved"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Hangaam-e-asr hai ye Shah khuṅ ugal rahe haiṅ
   Aur tir chal rahe haiṅ

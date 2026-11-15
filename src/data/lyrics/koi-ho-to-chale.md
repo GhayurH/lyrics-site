@@ -6,9 +6,9 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Hilal Naqvi"
-tags: ["noImage"]
+tags: []
 aliases: ["کوئی ہو تو چلیں"]
-published: false
+published: true
 romanLyrics: |-
   Khudaya khudaya khudaya khudaya
   Hal min naasirin yansurna

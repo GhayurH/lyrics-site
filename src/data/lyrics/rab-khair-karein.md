@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zulfiqar Ahmed"
 reciter: "Mir Mohsin Ali"
-tags: ["noImage"]
+tags: []
 aliases: ["Rab Khair Karein"]
-published: false
+published: true
 romanLyrics: |-
   Rab khair kareiṅ mere baba ki
   Sughra ki sada ye hai

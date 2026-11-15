@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Ishrat Lakhnavi"
 reciter: "Ali Zia Rizvi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Akbar ka janaaza
   Athara baras ke Ali Akbar ka janaaza

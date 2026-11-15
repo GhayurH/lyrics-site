@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shams Rizvi"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: ["Ghusl Kaise Mai Doo"]
-published: false
+published: true
 romanLyrics: |-
   Boli ghassaala Bano se ro kar
   Ghusl kaise maiṅ duṅ Sakina ko

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Armaan"
 reciter: "Shahid Baltistani"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Inna lillaahi wa inna ilaihi raajiun
   Sakina guzar gayi

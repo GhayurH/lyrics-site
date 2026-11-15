@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Salam
 poet: "Mir Munis Lakhnavi"
 reciter: "Asad Amanat Ali Khan"
-tags: ["noImage"]
+tags: []
 aliases: ["Mujraee Qalq May"]
-published: false
+published: true
 romanLyrics: |-
   Mujraee khalq meiṅ in aankhoṅ ne kya kya dekha
   Par kahiṅ Sibt-e-Payambar sa na aaqa dekha

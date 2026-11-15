@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Mesum Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Muhabbatoṅ ki inteha hai tujh se Ibn-e-Sayyeda
   Hamaari ruh mein basa ajab hai rishta-e-wafa

@@ -8,9 +8,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mir Takallum Mir"
 reciter: "Syed Wajhi Hasan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["zahra-ke-dar-ki-nukari"]
-published: false
+published: true
 romanLyrics: |-
   Karte haiṅ sab wali Nabi Zahra ke dar ki naukari
   Shaahi se barh ke qimati Zahra ke dar ki naukari

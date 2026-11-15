@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Musaddiq Lakhani"
 reciter: "Rizwan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jaa chuke sab Karbala Sughra akeli reh gayi
   Bekas o beaasra Sughra akeli reh gayi

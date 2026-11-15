@@ -15,7 +15,7 @@ romanLyrics: |-
   haaye qiyamat ka hai samaaṅ
   Khaima e sadaat se utha dhuaaṅ,
   haaye qiyamat ka hai samaaṅ
-  
+
   1
   Dhal gaya din khatam larai hui,
   maut ki khamoshi hai chaai hui
@@ -23,7 +23,7 @@ romanLyrics: |-
   khaak basar Fatima jaai hui
   Larzi zamiṅ kanp utha aasmaṅ,
   haaye qiyamat ka hai samaaṅ
-  
+
   2
   Nur-e-nazar raaj dulare gaye,
   Zainab dilgir ke pyaare gaye
@@ -31,7 +31,7 @@ romanLyrics: |-
   aas thi jin par woh sahaare gaye
   Lut liya maut ne yeh karwaṅ,
   haaye qiyamat ka hai samaaṅ
-  
+
   3
   Khuṅ meiṅ hai tar sher-e-jari ka alam,
   ho gaya Shabbir ka sar bhi qalam
@@ -39,7 +39,7 @@ romanLyrics: |-
   gham se tabaah haal haiṅ ahl-e-haram
   Lut gayiṅ konain ki shehzadiyaṅ,
   haaye qiyamat ka hai samaaṅ
-  
+
   4
   Aun o Muhammad nahiṅ Akbar nahiṅ,
   Sarwar o Abbas-e-dilawar nahiṅ
@@ -47,7 +47,7 @@ romanLyrics: |-
   khaima nahiṅ maqna o chadar nahiṅ
   Dasht meiṅ behaiṅ aal-e-nabi beamaan,
   haaye qiyamat ka hai samaaṅ
-  
+
   5
   Madar-e-Akbar ka ajab haal hai,
   deta hai jab koi tasalli use
@@ -55,7 +55,7 @@ romanLyrics: |-
   khogaye is ban meiṅ sahaare mere
   Mar gaya haaye mera karyal jawaaṅ,
   haaye qiyamat ka hai samaaṅ
-  
+
   6
   Maaṅ huṅ har ek ranj uthauṅ gi maiṅ,
   rote hue khud chali jauṅ gi maiṅ
@@ -63,7 +63,7 @@ romanLyrics: |-
   is ke bina ji nahiṅ paauṅ gi maiṅ
   Reh gaya haaye mera bachcha kahaṅ,
   haaye qiyamat ka hai samaaṅ
-  
+
   7
   Haaye yeh bechargi yeh bekasi,
   deta nahiṅ is ko dalasa koi
@@ -71,7 +71,7 @@ romanLyrics: |-
   kahti hai bachchi koi sehmi hui
   Dhundne jauṅ tujhe baba kahaṅ,
   haaye qiyamat ka hai samaaṅ
-  
+
   8
   Hai ye Gohar azmat-e-bint-e-Ali,
   sab ko sambhala bhi hifazat bhi ki

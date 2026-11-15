@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Zameer Hussain"
 reciter: "Nasir Asghar Party (SM)"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Alwida khairul wara main jaa raha huṅ Karbala
   Tujh se ab hone juda main jaa raha huṅ Karbala

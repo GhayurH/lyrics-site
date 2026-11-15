@@ -5,9 +5,9 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Nikla hai janaaza koi Allah ke ghar se
   Aflaak meiṅ ik shor hai maatam ke asar se

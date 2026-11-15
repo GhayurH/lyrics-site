@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Ay Shaheedon"]
-published: false
+published: true
 romanLyrics: |-
   Lo salaami raah-e-haq ke jaanisaaroṅ ae shahidoṅ
   Bekafan aur sar burida bemazaaroṅ ae shahidoṅ

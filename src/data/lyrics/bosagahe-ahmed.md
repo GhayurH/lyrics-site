@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Urooj Bijnori"
-tags: ["noImage"]
+tags: []
 aliases: ["Bosagahe Ahmed"]
-published: false
+published: true
 reciter: "Tableegh e Imamia"
 romanLyrics: |-
   Bosa-gaah-e-Ahmad par shamshir nazar aayi

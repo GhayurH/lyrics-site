@@ -9,7 +9,7 @@ poet: "Mazhar Abidi"
 reciter: "Safdar Abbas"
 tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sajjad ki aankhoṅ mein Sughra
   Ashoor ka manzar dekhegi

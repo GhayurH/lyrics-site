@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 reciter: "S. M. Naqi"
 poet: "Shahid Jafer"
-tags: ["noImage"]
+tags: []
 aliases: ["Khoon Rulwati"]
-published: false
+published: true
 romanLyrics: |-
   Zainab-e-muztar hai aur manzar pe manzar Karbala
   Khun rulwaati rahe gi zindagi bhar Karbala

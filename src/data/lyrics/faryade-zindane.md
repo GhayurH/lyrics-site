@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Noor Ali"
 reciter: "Rizwan Zaidi"
-tags: ["noImage"]
+tags: []
 aliases: ["Faryade Zindane"]
-published: false
+published: true
 romanLyrics: |-
   Faryaad-e-zindaan-e-Shaam
   Main huṅ zindaan-e-Shaam

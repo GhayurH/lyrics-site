@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Hamd"
 poet: "Ijaz Azai"
-tags: ["noImage"]
+tags: []
 aliases: ["Chale Ga Tera Karm Ishara Tera Chale Ga"]
-published: false
+published: true
 romanLyrics: |-
   Chale ga tera karam ishaara tera chale ga
   Jahaaṅ ko Khaaliq faqat sahaara tera chale ga

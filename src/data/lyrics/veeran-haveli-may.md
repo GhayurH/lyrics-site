@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Jawad Jaffri"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: ["Veeran Haveli May"]
-published: false
+published: true
 romanLyrics: |-
   Ye kaisi udaasi hai
   Viraan haveli mein Sughra ghabraati hai

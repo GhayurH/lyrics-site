@@ -7,9 +7,9 @@ direction: rtl
 kalamType: Noha
 poet: "Hyder"
 reciter: "Mirza Sikander Ali"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Dard angez ye kahaani hai
   Mehmaanoṅ pe bandh paani hai

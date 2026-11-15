@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Shadman Raza"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Khuda ne jab Malak-ul-maut ko ye izn diya
   Ke ruh-e-Hazrat-e-Sarwar nikaal kar le aa

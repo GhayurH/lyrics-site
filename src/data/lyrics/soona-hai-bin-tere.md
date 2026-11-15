@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Haider Khursheed"
 reciter: "Hasan Sadiq"
-tags: ["noImage"]
+tags: []
 aliases: ["Soona Hai Bin Tere"]
-published: false
+published: true
 romanLyrics: |-
   Asghar ho tum kahaaṅ bhaiya ho tum kahaaṅ
   Suna hai bin tere ye jahaaṅ ye jahaaṅ Asghar

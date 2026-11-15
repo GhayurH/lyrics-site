@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
 reciter: "Kumayl Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Kis qadar tha wazn aakhir Hurmala ke tir ka
   Zakhm hai taaza abhi tak gardan-e-beshir ka

@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Alamdar Hashmi"
 reciter: "Mir Sumeair Abbas"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ye namaaz ye kalma la ilaaha illallaah
   Hai Husain ka sadqa la ilaaha illallaah

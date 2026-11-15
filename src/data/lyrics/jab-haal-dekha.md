@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Saayib Zaidi"
 reciter: "Mukhtar Hussain"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Jigar ko thaam ke jab haal dekha Akbar ka
   Ani ke saath mein nikla kaleja Akbar ka

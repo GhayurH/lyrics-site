@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Zill-e-Raza Zaidi"
 reciter: "Farhan Ali Waris"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 # source_id: tajpoints:67ef88820987030819cf
 # source_url: https://tajpoints.com/2018/03/ali-ali-haider.html
 # raw_sha256: 998df005eebe9a261e4459e50dbe2ea215d865617fa771a674bcdafb1ec7ebb3

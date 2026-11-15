@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Safdar Abbas"
-tags: ["noImage"]
+tags: []
 aliases: ["Hussain Ya Maula"]
-published: false
+published: true
 romanLyrics: |-
   Jis ne bhi dhunda tujhe Rab ko hai paaya
   Tu hai zamiṅ pe Muhammad ka saaya

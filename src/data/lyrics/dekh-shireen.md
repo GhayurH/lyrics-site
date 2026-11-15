@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
 reciter: "Ameer Hasan Aamir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Ran mein laashe haiṅ pare nezoṅ pe sar aaye haiṅ
   Dekh Shiriṅ tere aaqa tere ghar aaye haiṅ

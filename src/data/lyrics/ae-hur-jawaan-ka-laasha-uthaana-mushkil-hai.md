@@ -22,47 +22,47 @@ romanLyrics: |-
 
   Ae Hur jawaan ka laasha uthaana mushkil hai
   Pisar ke sine se barchhi chhuraana mushkil hai
-  
+
   1
   Dil-e-padar ki jo haalat hai Hur samajhta huṅ
   Tumhaare sabr ki lekin maiṅ daad deta huṅ
   Ke jaise tum yahaṅ aaye ho aana mushkil hai
-  
+
   2
   Jo haal hona hai Qasim ka us ka haal na ho
   Ke tere laal ki mayyat to paayemaal na ho
   Maiṅ jaanta huṅ ke tukre uthaana mushkil hai
-  
+
   3
   Husain kehte the ro kar ye, Hur ke bete se
   Samajh raha huṅ aziyat, tiri mire bachche
   Burida halq se yuṅ muskurana mushkil hai
-  
+
   4
   Pukaara Hur ka pisar ro ke ae Shah-e-Ismat
   Salaam ke liye uthne ki bhi nahiṅ himmat
   Ke pyaase hontoṅ se Maula bulaana mushkil hai
-  
+
   5
   Gharib baap ka ye imtihaaṅ nahiṅ lunga
   Tumhaare laal ko kandhoṅ pe maiṅ uthaaunga
   Utha ke laash ko khaimoṅ mein jaana mushkil hai
-  
+
   6
   Ye waqt kaisa hai tum ko khabar nahiṅ bhai
   Tumhaare saath tumhaari behan nahiṅ aayi
   Jigar ka zakhm phuphi ko dikhaana mushkil hai
-  
+
   7
   Tumhaari zauja ko Zainab sambhaalti bhaiya
   Ajib waqt hai maaṅ ko bataayeṅ ge aada
   Jo baap ke liye maaṅ ko bataana mushkil hai
-  
+
   8
   Yuṅ zard chehra hai jaise ke jaaṅ nikalti hai
   Maiṅ dekhta huṅ kamar teri jhukti jaati hai
   Tire liye ye shahaadat bhulaana mushkil hai
-  
+
   9
   Sadaayeiṅ aati thiṅ Akbar ye Hur ke laashe se
   Akele laasha-e-Akbar uthaaoge kaise

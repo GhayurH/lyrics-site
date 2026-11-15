@@ -6,9 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar & J. Jaffri & A. Jee"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 reciter: "Ali Jee"
 romanLyrics: |-
   Wawaila haye Wawaila

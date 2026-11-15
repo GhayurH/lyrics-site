@@ -7,9 +7,9 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
 reciter: "Mir Hasan Mir"
-tags: ["noImage"]
+tags: []
 aliases: []
-published: false
+published: true
 romanLyrics: |-
   Sura-e-Kahaf sunaata hai ye sar kis ka hai
   Khun aaṅkhoṅ se bahaata hai ye sar kis ka hai
