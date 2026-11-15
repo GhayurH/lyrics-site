@@ -6,98 +6,101 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Dil mein saja ke rakha hai
-  Ya ali maula hyder maula
+  Ya Ali Maula Haider Maula
   Har maulaai kehta hai
+  Ya Ali Maula Haider Maula
 
   1
-  Bigdi bana de aaye sawali koi na jaaye khaali
-  Aaj ghadeeri jaam pila de ay waliyom ke waali
-  Teri aankhein mere maula sab ko dekhne waali
-  Chashme karam ne teri maula gham se bacha ke rakha hai
+  Bigri bana de aaye sawaali koi na jaaye khaali
+  Aaj Ghadiri jaam pila de ae waliyoṅ ke waali
+  Teri aankheiṅ mere Maula sab ko dekhne waali
+  Chashm-e-karam ne teri Maula gham se bacha ke rakha hai
 
   2
-  Nagri nagri tere mawali tere qalandar maula
-  Dharti dharti tere gadagar fakhre tawangar maula
-  Be-zar tere dar pe aa kar hogaye buzar maula
-  Apna wazeefa nade ali ko sab ne bana ke rakha hai
+  Nagri nagri tere mawaali tere qalandar Maula
+  Dharti dharti tere gadaagar fakhr-e-tawangar Maula
+  Bezar tere dar pe aa kar ho gaye Buzar Maula
+  Apna wazifa Naad-e-Ali ko sab ne bana ke rakha hai
 
   3
-  Phir fakeer malang mawali aur qalandar sayeen
-  Qambar mesum buzar salman maalik e ashtar sayeen
-  Karte rahe hai karte rahenge hyder hyder sayeen
-  Aaj bhi sind ne maula qadam ko sar pe utha ke rakha hai
+  Pir faqir malang mawaali aur qalandar saaiṅ
+  Qambar Maisam Buzar Salmaṅ Maalik-e-Ashtar saaiṅ
+  Karte raheiṅ hai karte raheiṅ ge Haider Haider saaiṅ
+  Aaj bhi Sindh ne Maula qadam ko sar pe utha ke rakha hai
 
   4
-  Tera naara sun kar mushkil mushkil mein pad jaaye
-  Dushman e emaan dekh kar tujhko dharti mein gad jaaye
-  Laakhon ke lashkar se maula tanha tu lad jaaye
-  Tere khuda ne tujhko apni taygh bana ke rakha hai
+  Tera naara sun kar mushkil mushkil mein par jaaye
+  Dushman-e-imaaṅ dekh ke tujh ko dharti mein gar jaaye
+  Laakhoṅ ke lashkar se Maula tanha tu lar jaaye
+  Tere Khuda ne tujh ko apni tegh bana ke rakha hai
 
   5
-  Tera ghar noorani maula ghar hai tera noorani
-  Tere ghar mein jo surat hai surat hai qurani
-  Tu kulle emaan hai maula zikr tera emaani
+  Tera ghar nuraani Maula ghar hai tera nuraani
+  Tere ghar mein jo surat hai surat hai Quraani
+  Tu kull-e-imaan hai Maula zikr tera imaani
   Rab ne tere naam se apna naam mila ke rakha hai
 
   6
-  Tere saqi darbar hai maula saari dunya jaane
-  Koi khuda kehta hai koi saaqi e kausar maane
-  Koi nahi pehchana tujhko sirf nabi pehchane
-  Shehr ilm ne tujhko apna dar jo bana ke rakha hai
+  Tere saqi darbaar hai Maula saari dunya jaane
+  Koi Khuda kehta hai koi saaqi-e-Kausar maaneiṅ
+  Koi nahiṅ pehchaana tujh ko sirf Nabi pehchaane
+  Shehr-e-ilm ne tujh ko apna dar jo bana ke rakha hai
 
   7
-  Maalik e kausar maalik e jannat waaris e quran hoke
-  Ek ek boondh ko nehr kanare tere bacche tarse
-  Jal gaye qaime lut gaya saaman chin gayi chadar sar se
-  Dil ko tere karbobala ne haye dukha ke rakha hai
+  Maalik-e-Kausar maalik-e-jannat waaris-e-Quraaṅ ho ke
+  Ek ek bund ko nehr kinaare tere bachche tarse
+  Jal gaye khaime lut gaya saamaaṅ chhin gayi chaadar sar se
+  Dil ko tere Karbobala ne haaye dukha ke rakha hai
 
   8
-  Karbobala ne aat peher mein kya manzar dikhlaya
-  Fatema zehra ne marqad mein ek pal chain na paaya
-  Laash pe tere laal ki maula ghodon ko daudaya
-  Naize par tere pyaron ke sar ko utha ke rakha hai
+  Karbobala ne aath pehar mein kya manzar dikhlaaya
+  Fatima Zehra ne marqad mein ek pal chain na paaya
+  Laash pe tere laal ki Maula ghoroṅ ko dauraaya
+  Neze par tere pyaaroṅ ke sar ko utha ke rakha hai
 
   9
-  Rabbe zidni ilma keh kar shehre najaf mein aaye
-  Hum ne to rehaan o sarwar ilm ke moti paaye
-  Ya ali maula hyder maula tujhse aas lagaye
-  Shukre maula shukre maula lab pe saja ke rakha hai
+  Rab zidni ilma keh kar shehr-e-Najaf mein aaye
+  Hum ne to Rehaan o Sarwar ilm ke moti paaye
+  Ya Ali Maula Haider Maula tujh se aas lagaaye
+  Shukr Maula shukr Maula lab pe saja ke rakha hai
 # source_id: nohayonline:af38f4e485d1b9d29145
 # source_url: https://www.nohayonline.com/details_content.php?id=3043
 # raw_sha256: 721cf9c385be8db0a71eaa6896dafc1523a84ad34c50d250309713e91e42155b
 ---
 دل میں سجا کے رکھا ہے
 یا علی مولا حیدر مولا
-ہر مولای کہتا ہے
+ہر مولائی کہتا ہے
+یا علی مولا حیدر مولا
 
 ۱
-بگڑی بنا دے آے سوالی کوئی نہ جائے خالی
+بگڑی بنا دے آئے سوالی کوئی نہ جائے خالی
 آج غدیری جام پلا دے اے ولیوں کے والی
 تیری آنکھیں میرے مولا سب کو دیکھنے والی
 چشمِ کرم نے تیری مولا غم سے بچا کے رکھا ہے
 
 ۲
-نگری نگری تیرے موالی تیرے قلند مولا
+نگری نگری تیرے موالی تیرے قلندر مولا
 دھرتی دھرتی تیرے گداگر فخر تونگر مولا
-بے زر تیرے در پہ آ کر ہو گےء بوزر مولا
-اپنا وظیفہ ناد علی کو سب نے بنا کے رکھا ہے
+بے زر تیرے در پہ آ کر ہو گئے بوزر مولا
+اپنا وظیفہ نادِ علی کو سب نے بنا کے رکھا ہے
 
 ۳
-پیر فقیر ملنگ موالی اور قلند ساییں
-قمبر میثم بوزر سلماں مالک اشتر ساییں
-کرتے رہیں ہے کرتے رہیں گے حیدر حیدر ساییں
+پیر فقیر ملنگ موالی اور قلندر سائیں
+قمبر میثم بوزر سلماں مالک اشتر سائیں
+کرتے رہیں ہے کرتے رہیں گے حیدر حیدر سائیں
 آج بھی سندھ نے مولا قدم کو سر پہ اٹھا کے رکھا ہے
 
 ۴
 تیرا نعرہ سن کر مشکل مشکل میں پڑ جائے
-دشمن ایماں دیکھ کے تجھکو دھرتی میں گڑھ جاے
-لاکھوں کے لشکر سے مولا تنہا تو لڑ جاے
-تیرے خدا نے تجھکو اپنی تیغ بنا کے رکھا ہے
+دشمن ایماں دیکھ کے تجھ کو دھرتی میں گڑ جائے
+لاکھوں کے لشکر سے مولا تنہا تو لڑ جائے
+تیرے خدا نے تجھ کو اپنی تیغ بنا کے رکھا ہے
 
 ۵
 تیرا گھر نورانی مولا گھر ہے تیرا نورانی
@@ -107,15 +110,15 @@ romanLyrics: |-
 
 ۶
 تیرا سقی دربار ہے مولا ساری دنیا جانے
-کوئی خدا کہتا ہے کوی ثاقیء کوثر مانیں
-کوئی نہیں پہچانا تجھکو صرف نبی پہچانے
-شہر علم نے تجھکو اپنا در جو بنا کے رکھا ہے
+کوئی خدا کہتا ہے کوئی ساقیِ کوثر مانیں
+کوئی نہیں پہچانا تجھ کو صرف نبی پہچانے
+شہر علم نے تجھ کو اپنا در جو بنا کے رکھا ہے
 
 ۷
 مالک کوثر مالک جنت وارث قرآں ہو کے
-ایک ایک بوندھ کو نہر کنارے تیرے بچے ترسے
-جل گےء خیمے لٹ گیا ساماں چھن گیء چادر سر سے
-دل کو تیرے کربوبلا نے ہاے دکھا کے رکھا ہے
+ایک ایک بوند کو نہر کنارے تیرے بچے ترسے
+جل گئے خیمے لٹ گیا ساماں چھن گئی چادر سر سے
+دل کو تیرے کربوبلا نے ہائے دکھا کے رکھا ہے
 
 ۸
 کربوبلا نے آٹھ پہر میں کیا منظر دکھلایا
@@ -124,7 +127,7 @@ romanLyrics: |-
 نیزے پر تیرے پیاروں کے سر کو اٹھا کے رکھا ہے
 
 ۹
-رب زدنی علما کہہ کر شہر نجف میں آے
-ہم نے تو ریحان و سرور علم کے موتی پاے
-یا علی مولا حیدر مولا تجھ سے آس لگاے
+رب زدنی علما کہہ کر شہر نجف میں آئے
+ہم نے تو ریحان و سرور علم کے موتی پائے
+یا علی مولا حیدر مولا تجھ سے آس لگائے
 شکر مولا شکر مولا لب پہ سجا کے رکھا ہے
