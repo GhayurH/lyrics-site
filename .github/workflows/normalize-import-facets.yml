@@ -1,0 +1,91 @@
+name: One-time Panjabi and filter metadata reconciliation
+on:
+  push:
+    branches: [feat/import-overlap-reconciliation-2026-11-05]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  reconcile:
+    if: github.event_name == 'workflow_dispatch' || contains(github.event.head_commit.message, '[normalize-facets]')
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+          cache: npm
+      - name: Normalize language and filter vocabularies
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import collections, json, re
+          changed=collections.Counter()
+          for p in sorted(Path('src/data/lyrics').rglob('*.md')):
+              text=p.read_text('utf-8')
+              m=re.match(r'\A---\n(.*?)\n---\n',text,re.S)
+              assert m,p
+              header=m.group(1)
+              lang=re.search(r'(?m)^language:\s*(.+)$',header)
+              assert lang,p
+              label=lang.group(1).strip().strip('"').strip("'")
+              tags=re.search(r'(?m)^tags:\s*(\[.*\])\s*$',header)
+              assert tags,p
+              values=json.loads(tags.group(1))
+              has_panjabi_tag=any(t in ('Punjabi','Panjabi') for t in values)
+              is_panjabi=(label in ('Punjabi','Panjabi') or has_panjabi_tag)
+              if is_panjabi:
+                  header=re.sub(r'(?m)^language:.*$', 'language: "Panjabi"',header,count=1)
+                  header=re.sub(r'(?m)^lang:.*$', 'lang: "pa"',header,count=1)
+                  # The language filter now expresses Panjabi; an identical tag is redundant.
+                  values=[t for t in values if t not in ('Punjabi','Panjabi')]
+                  header=re.sub(r'(?m)^tags:\s*\[.*\]\s*$', 'tags: '+json.dumps(values,ensure_ascii=False),header,count=1)
+                  header=header.replace(
+                    '# Punjabi Shahmukhi; the collection uses Urdu as its Arabic-script language label.',
+                    '# Panjabi text in Shahmukhi script.')
+                  header=header.replace('# Source language: Punjabi;', '# Source language: Panjabi;')
+                  changed['panjabi_language_files']+=1
+              header,new_count=re.subn(r'(?m)^kalamType:\s*["' + "'" + r']?Salaam["' + "'" + r']?\s*$','kalamType: Salam',header)
+              changed['salaam_to_salam']+=new_count
+              # Both names occur in the corpus for the same credited reciter.
+              header,new_count=re.subn(r'(?m)^reciter:\s*["' + "'" + r']?Mir Hassan Mir["' + "'" + r']?\s*$', 'reciter: "Mir Hasan Mir"',header)
+              changed['mir_hasan_mir_credits']+=new_count
+              candidate='---\n'+header+'\n---\n'+text[m.end():]
+              if candidate!=text:
+                  p.write_text(candidate,'utf-8')
+                  changed['changed_files']+=1
+          schema=Path('src/content.config.ts')
+          text=schema.read_text('utf-8')
+          assert '      "Balti",\n' in text
+          assert 'z.enum(["ur", "ar", "fa", "en", "bft"])' in text
+          schema.write_text(text.replace('      "Balti",\n','      "Balti",\n      "Panjabi",\n',1).replace('z.enum(["ur", "ar", "fa", "en", "bft"])','z.enum(["ur", "ar", "fa", "en", "bft", "pa"])',1),'utf8')
+          source=Path('src/lib/source-review.ts')
+          text=source.read_text('utf8')
+          old='    const isUrdu = fields.direction === "rtl" && (fields.lang === "ur" || fields.language === "Urdu");'
+          assert old in text
+          source.write_text(text.replace(old, '    const isUrdu = fields.language === "Urdu" && fields.direction === "rtl";',1),'utf8')
+          page=Path('src/pages/lyrics/[id].astro')
+          text=page.read_text('utf8')
+          old='isRomanOnly ? "Roman Urdu" : "Urdu" + (data.romanLyrics ? " and Roman Urdu" : "")'
+          assert old in text
+          new='isRomanOnly ? "Roman Urdu" : data.language + (data.romanLyrics ? (data.language === "Urdu" ? " and Roman Urdu" : " and Roman transliteration") : "")'
+          page.write_text(text.replace(old,new,1),'utf8')
+          print(dict(changed))
+          assert changed['panjabi_language_files']==13,changed
+          assert changed['salaam_to_salam']==10,changed
+          PY
+      - name: Verify schema and source-review compatibility
+        run: |
+          npm ci
+          npm run check
+          node --experimental-strip-types scripts/recitation-identities.mjs --check
+      - name: Commit and remove one-time actions
+        run: |
+          rm -f .github/workflows/import-language-census.yml .github/workflows/normalize-import-facets.yml
+          git add -A src/data/lyrics src/content.config.ts src/lib/source-review.ts src/pages/lyrics/'[id].astro' .github/workflows/import-language-census.yml .github/workflows/normalize-import-facets.yml
+          git diff --cached --check
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "Normalize Panjabi language and canonical searchable facets"
+          git push origin "HEAD:feat/import-overlap-reconciliation-2026-11-05"
