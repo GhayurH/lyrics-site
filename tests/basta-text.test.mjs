@@ -1,6 +1,8 @@
 // Pure stanza-layout contracts; source-specific editorial examples are covered by content validation.
 import test from "node:test";
 import assert from "node:assert/strict";
+import { readFile } from "node:fs/promises";
+import { romanLyricsFromHeader } from "../scripts/lib/source-files.mjs";
 import { normalizePrintedStanzaNumber } from "../src/lib/basta-kalam-units.ts";
 import { extractBastaStanzas } from "../src/lib/basta-stanzas.ts";
 import { isStanzaNumber, isCreditLine, isGenreHeading, matchesOpeningTitle } from "../src/lib/basta-source-roles.ts";
@@ -385,4 +387,61 @@ test("printed source role classifiers respect standalone numerals and headings",
   assert.equal(isCreditLine("(بشکریہ شاعر)"), true);
   assert.equal(isGenreHeading("[قطعہ]"), true);
   assert.equal(matchesOpeningTitle("گھر سے جب بہر سفر", "گھر سے جب بہر سفر"), true);
+});
+
+
+test("Basta 391 Roman kalam 34 title is the opening verse, not a later verse", async () => {
+  const [source, indexText] = await Promise.all([
+    readFile(new URL("../src/data/basta/pages/391.md", import.meta.url), "utf8"),
+    readFile(new URL("../src/data/basta/index.json", import.meta.url), "utf8"),
+  ]);
+  const entry = JSON.parse(indexText).find(item =>
+    item.sectionRoman === "Hamd, Naat-o-Manaqib" && item.number === 34);
+  assert.equal(entry?.page, 391);
+  const match = /^---\n([\s\S]*?)\n---\n([\s\S]*)$/u.exec(source);
+  assert(match, "Source must have frontmatter and body");
+  const roman = splitBastaKalams(romanLyricsFromHeader(match[1]))[0];
+  const urdu = splitBastaKalams(match[2])[0];
+  assert.equal(entry.romanName, roman.split("\n")[0].trim(),
+    "An index title must be the Roman opening heading, never a matching later verse");
+  assert.equal(entry.name, urdu.split("\n")[0].trim());
+  assert.notEqual(entry.romanName, roman.split("\n").find(
+    line => line.includes("ummatiyoṅ ka parda rakhe")));
+});
+
+test("Basta 420 Jannat-ul-Baqi has four three-verse blocks in Urdu and Roman", async () => {
+  const source = await readFile(
+    new URL("../src/data/basta/pages/420.md", import.meta.url), "utf8");
+  const match = /^---\n([\s\S]*?)\n---\n([\s\S]*)$/u.exec(source);
+  assert(match, "Source must have frontmatter and body");
+  const roman = splitBastaKalams(romanLyricsFromHeader(match[1]))[1];
+  const urdu = splitBastaKalams(match[2])[1];
+  assert(roman && urdu, "Jannat-ul-Baqi must be the second poem of page 420");
+  for (const [edition, text] of [["Roman", roman], ["Urdu", urdu]]) {
+    const blocks = text.trim().split(/\n[ \t]*\n/u).map(block =>
+      block.split("\n").map(line => line.trim()).filter(Boolean));
+    assert.deepEqual(blocks.map(block => block.length), [2, 3, 3, 3, 3],
+      edition + " must have a two-line title/byline and four tercets");
+    const layout = layoutBastaKalam(text);
+    const poems = layout.filter(line => line.verse);
+    assert.equal(poems.length, 12, edition + " must render all twelve source verses");
+    assert(poems.every(line => !line.indent && !line.reverseIndent &&
+      !line.sixClosingStart && !line.coupletSeparator),
+      edition + " tercets must not inherit couplet or six-line layout");
+  }
+});
+
+test("Basta 421 keeps source-backed three-verse groups and does not invent its opening line", async () => {
+  const source = await readFile(
+    new URL("../src/data/basta/pages/421.md", import.meta.url), "utf8");
+  const match = /^---\n([\s\S]*?)\n---\n([\s\S]*)$/u.exec(source);
+  assert(match);
+  const roman = splitBastaKalams(romanLyricsFromHeader(match[1]))[0];
+  const urdu = splitBastaKalams(match[2])[0];
+  for (const text of [roman, urdu]) {
+    const counts = text.trim().split(/\n[ \t]*\n/u).map(block =>
+      block.split("\n").filter(line => line.trim()).length);
+    assert.deepEqual(counts, [2, 3, 3, 3, 3, 3, 3, 3],
+      "Two opening source verses are preserved; remaining stanzas are tercets");
+  }
 });
