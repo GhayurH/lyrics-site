@@ -3768,8 +3768,8 @@ src/data/lyrics/zahe-muqaddar.md,standalone_lyrics,imported,tajpoints,pending,pa
 src/data/lyrics/zahir-hua-hai-is-se-himaayat-raza-ki-hai.md,standalone_lyrics,imported,tajpoints,pending,partial_review,partial_review,reviewed,not_applicable,reviewed,2026-11-15-five-zaeef-zahra,,"Need Urdu poster/audio: s2 ""Mazar-e-Masoom-e-Qum"" (معصوم vs معصومہ); s6 ""Mehshar Mein Ho Ga Saya-e-Daman-e-Ali Mein"" and ""Qaboli""; s7 ""Yeh Jashan Qum Ki Malka Ka Afraz Jafri"" (apparently incomplete syntax)."
 src/data/lyrics/zahoor-ka-waqt-aa-gaya-hai.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
 src/data/lyrics/zahra-ke-dar-ki-naukari.md,standalone_lyrics,imported,tajpoints,pending,partial_review,partial_review,reviewed,not_applicable,reviewed,2026-11-15-five-zaeef-zahra,,"Need Urdu poster/audio: s4 ""Arman Hai Batool Ka""; s7 ""Madah Khuwab Ko"" (مداح خواب vs possible مدح خواں). Source readings retained."
-src/data/lyrics/zahra-se-kiya-wada.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/zahra-utho-utho.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/zahra-se-kiya-wada.md,standalone_lyrics,imported,nohayonline+ziyaraat,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-15-editorial-zahra,,
+src/data/lyrics/zahra-utho-utho.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-15-editorial-zahra,,
 src/data/lyrics/zainab-aisi-hasti-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/zainab-ali-akbar-ke.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/zainab-aseer-hai.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,

@@ -6,52 +6,53 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Waiz Sultanpuri"
+reciter: "Ali Mohammad Sultanpuri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Awaaz de rahi hai ye zahra utho utho
-  Phir gham ka chand arsh pe nikla utho utho
+  Aawaaz de rahi hai yeh Zahra utho utho
+  Phir gham ka chaand arsh pe nikla utho utho
 
   1
-  Is chand mein hamara bhara ghar ujad gaya
-  Naiza ghamon ka mere kaleje mein gad gaya
-  Mera hussain mar gaya pyasa utho utho
+  Is chaand mein hamaara bhara ghar ujar gaya
+  Naiza ghamoṅ ka mere kaleje mein gar gaya
+  Mera Husain mar gaya pyaasa utho utho
 
   2
-  Utho karo hussain ki majlis ka ehtemam
-  Karna hai tumko maahe muharram ka intezam
+  Utho karo Husain ki majlis ka ehtimaam
+  Karna hai tum ko maah-e-Muharram ka intizaam
   Dekho yehi hai meri tamanna utho utho
 
   3
-  Utho ki aa gaya hai wohi gham ka mahina
-  Jis mein yateem ho gayi masoom sakina
-  Aayi hai mere saath yateema utho utho
+  Utho ke aa gaya hai wohi gham ka mahina
+  Jis mein yatim ho gayi maasum Sakina
+  Aayi hai mere saath yatima utho utho
 
   4
-  Rona hai usko jis pe layeeno ne ki jafa
-  Dashte bala mein jisko kafan bhi na mil saka
-  Mai uska lene aayi hoon pursa utho utho
+  Rona hai us ko jis pe lainoṅ ne ki jafa
+  Dasht-e-bala mein jis ko kafan bhi na mil saka
+  Main us ka lene aayi huṅ pursa utho utho
 
   5
-  Godhi mein meri kaata gaya hai sar e hussain
-  Batlao kaise aaye bhala maa ke dil ko chain
-  Phat'ta hai mera gham se kaleja utho utho
+  Godi mein meri kaata gaya hai sar-e-Husain
+  Batlaao kaise aaye bhala maaṅ ke dil ko chain
+  Phatta hai mera gham se kaleja utho utho
 
   6
-  Mai uski maa hoon maara gaya hai jo tishna kaam
-  Waqte akheer bhi jo tumhe keh gaya salaam
-  Tum ho usi ghareeb ke shia utho utho
+  Main us ki maaṅ huṅ maara gaya hai jo tishna kaam
+  Waqt-e-akhir bhi jo tumheiṅ keh gaya salaam
+  Tum ho usi gharib ke shia utho utho
 
   7
-  Is khair ke ewaz mein tumhe bakhshwaungi
-  Tum ko liye bina mai na jannat mein jaaungi
-  Zahra ye tumse karti hai waada utho utho
+  Is khair ke iwaz mein tumheiṅ bakhshwaauṅgi
+  Tum ko liye bina main na jannat mein jaauṅgi
+  Zahra yeh tum se karti hai waada utho utho
 
   8
-  Waiz khareeb e maahe muharram yehi sada
-  Aati hai mere kaano mein reh reh ke baareha
-  Likhna hai mere laal ka nauha utho utho
+  Waaiz qarib-e-maah-e-Muharram yehi sada
+  Aati hai mere kaanoṅ mein reh reh ke baarha
+  Likhna hai mere laal ka noha utho utho
 # source_id: nohayonline:9b8341412bd30413f6aa
 # source_url: https://www.nohayonline.com/details_content.php?id=3147
 # raw_sha256: 53ef46a0139efbab3432ce2f5c77f3d88d082b8e2264e39fa52d6eaad26d48e8
@@ -61,27 +62,27 @@ romanLyrics: |-
 
 ۱
 اس چاند میں ہمارا بھرا گھر اجڑ گیا
-نیزہ غموں کا میرے کلیجے میں گڑھ گیا
+نیزہ غموں کا میرے کلیجے میں گڑ گیا
 میرا حسین مر گیا پیاسا اٹھو اٹھو
 
 ۲
 اٹھو کرو حسین کی مجلس کا اہتمام
-کرنا ہے تم کو ماہ محرم کا انتظام
+کرنا ہے تم کو ماہِ محرم کا انتظام
 دیکھو یہی ہے میری تمنا اٹھو اٹھو
 
 ۳
-اٹھو کی آ گیا ہے وہی غم کا مہینہ
-جس میں یتیم ہو گیء معصوم سکینہ
-آی ہے میرے ساتھ یتیمہ اٹھو اٹھو
+اٹھو کہ آ گیا ہے وہی غم کا مہینہ
+جس میں یتیم ہو گئی معصوم سکینہ
+آئی ہے میرے ساتھ یتیمہ اٹھو اٹھو
 
 ۴
 رونا ہے اس کو جس پہ لعینوں نے کی جفا
-دشت بلا میں جس کو کفن بھی نہ ملا سکا
-میں اس کا لینے آی ہوں پرسہ اٹھو اٹھو
+دشتِ بلا میں جس کو کفن بھی نہ مل سکا
+میں اس کا لینے آئی ہوں پرسہ اٹھو اٹھو
 
 ۵
-گودی میں میری کاٹا گیا ہے سر حسین
-بتلاؤ کیسے آے بھلا ماں کے دل کو چین
+گودی میں میری کاٹا گیا ہے سرِ حسین
+بتلاؤ کیسے آئے بھلا ماں کے دل کو چین
 پھٹتا ہے میرا غم سے کلیجہ اٹھو اٹھو
 
 ۶
@@ -90,11 +91,11 @@ romanLyrics: |-
 تم ہو اسی غریب کے شیعہ اٹھو اٹھو
 
 ۷
-اس خیر کے وایض میں تمہیں بخشواوں گی
-تم کو لیےء بنا میں نہ جنت میں جاؤں گی
+اس خیر کے عوض میں تمہیں بخشواؤں گی
+تم کو لیے بنا میں نہ جنت میں جاؤں گی
 زہرا یہ تم سے کرتی ہے وعدہ اٹھو اٹھو
 
 ۸
-وایض قریب ماہ محرم یہی صدا
-آتی ہے میرے کانوں میں رہ رہ کے بار ہا
+واعظ قریبِ ماہِ محرم یہی صدا
+آتی ہے میرے کانوں میں رہ رہ کے بارہا
 لکھنا ہے میرے لال کا نوحہ اٹھو اٹھو

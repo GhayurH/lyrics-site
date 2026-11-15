@@ -6,42 +6,43 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mir Takallum"
+reciter: "Mir Hasan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haey Fizza haey haey Fizza
-  Fizza tujhe salam
-  Zehra se kiya wada nibhati rahi Fizza
-  Har modh pe zainab ko bachati rahi Fizza
+  Haae Fizza haae haae Fizza
+  Fizza tujhe salaam
+  Zehra se kiya waada nibhaati rahi Fizza
+  Har mor pe Zainab ko bachaati rahi Fizza
 
   1
-  Jo saniye Zehra ko bachane me lage the
-  Sajjad se wo zakhm chupati rahi Fizza
+  Jo Saani-e-Zehra ko bachaane mein lage the
+  Sajjaad se woh zakhm chhupaati rahi Fizza
 
   2
-  Jab pucha kaha reh gaye amma mere baba
-  Sughra se bohot der chupati rahi Fizza
+  Jab puchha kahaaṅ reh gaye ammaaṅ mere baaba
+  Sughra se bahut der chhupaati rahi Fizza
 
   3
-  Aaya jo mulaqaat ko abbas ka beta
-  Bus shano ko ankho se lagati rahi Fizza
+  Aaya jo mulaaqaat ko Abbaas ka beta
+  Bas shaanoṅ ko aankhoṅ se lagaati rahi Fizza
 
   4
   Shabbir ki beti ho ya beti ho Nabi ki
-  Har umr ki Zehra ko bachati rahi Fizza
+  Har umr ki Zehra ko bachaati rahi Fizza
 
   5
-  Darwaza e Zehra kabhi, khaimo se haram ke
-  Uthte hue sholon ko bujhati rahi Fizza
+  Darwaaza-e-Zehra kabhi, khaimoṅ se haram ke
+  Uthte hue sholoṅ ko bujhaati rahi Fizza
 
   6
-  Bacho se lipat kar kabhi Zainab se lipat kar
-  Patthar jo baraste rahe khati rahi Fizza
+  Bachchoṅ se lipat kar kabhi Zainab se lipat kar
+  Patthar jo baraste rahe khaati rahi Fizza
 
   7
-  Kha kar kabhi patthar kabhi durre aey takallum
-  Qarz aale Mohammad ka chukati rahi Fizza
+  Khaa kar kabhi patthar kabhi durre ae Takallum
+  Qarz Aal-e-Mohammad ka chukaati rahi Fizza
 # source_id: nohayonline:b1e22a1189595ceb4617
 # source_url: https://www.nohayonline.com/details_content.php?id=2581
 # raw_sha256: 08e3dfb03481ebd015ae48c508f4b431d25ac9e6476179a1771ca31bca60d3d0
@@ -55,11 +56,11 @@ romanLyrics: |-
 ہر موڑ پہ زینب کو بچاتی رہی فضہ
 
 ۱
-جو ثانیء زہرا کو بچانے میں لگے تھے
+جو ثانیِ زہرا کو بچانے میں لگے تھے
 سجاد سے وہ زخم چھپاتی رہی فضہ
 
 ۲
-جب پوچھا کہاں رہ گےء اماں میرے بابا
+جب پوچھا کہاں رہ گئے اماں میرے بابا
 صغرا سے بہت دیر چھپاتی رہی فضہ
 
 ۳
@@ -71,13 +72,13 @@ romanLyrics: |-
 ہر عمر کی زہرا کو بچاتی رہی فضہ
 
 ۵
-دروازہء زہرا کبھی خیموں سے حرم کے
-اٹھتے ہوے شعلوں کو بجھاتی رہی فضہ
+دروازۂ زہرا کبھی، خیموں سے حرم کے
+اٹھتے ہوئے شعلوں کو بجھاتی رہی فضہ
 
 ۶
 بچوں سے لپٹ کر کبھی زینب سے لپٹ کر
 پتھر جو برستے رہے کھاتی رہی فضہ
 
 ۷
-کھا کر کبھی پتھر کبھی درے اے تکلم
-قرض آل محمد کا چکاتی رہی فضہ
+کھا کر کبھی پتھر کبھی درّے اے تکلم
+قرض آلِ محمد کا چکاتی رہی فضہ
