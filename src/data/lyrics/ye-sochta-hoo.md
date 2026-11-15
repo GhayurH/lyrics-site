@@ -1,37 +1,38 @@
 ---
-title: یہ سونچتا ہوں کہ عابد کا حال کیا ہوگا
-alternateTitle: Ye Sochta Hoo
+title: یہ سوچتا ہوں کہ عابد کا حال کیا ہوگا
+alternateTitle: Ye Sochta Huṅ
 language: Urdu
 lang: ur
 direction: rtl
-kalamType: Noha
+kalamType: Salaam
 poet: "Zakir Nawab Arif"
+reciter: "Fateh Ali Khan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Yeh sochta hun kay Abid ka haal kia ho ga
+  Ye sochta huṅ ke Aabid ka haal kya hoga
+  Asir ho ke wo jab Shaam mein gaya hoga
 
   1
-  Aseer ho kay woh jab Shaam may gaya ho ga
-  Suna hay Shaam may jaatay hi khoon ronay laga
-  Na janay Shimr nay us waqt kya kahaa ho ga
+  Suna hai Shaam mein jaate hi khun rone laga
+  Na jaane Shimr ne us waqt kya kaha hoga
 
   2
-  Galay kay touq nay Abid ko kya jhukana tha
-  Woh apnay khoye huway laal dhoondta ho ga
+  Gale ke tauq ne Aabid ko kya jhukaana tha
+  Wo apne khoye hue laal dhundta hoga
 
   3
-  Woh zulam dekhay hain Sajjad nay Hussain kay baad
-  Mujhe yaqeen hay kay ab tak bhi ro raha ho ga
+  Wo zulm dekhe haiṅ Sajjad ne Husain ke baad
+  Mujhe yaqin hai ab tak bhi ro raha hoga
 
   4
-  Woh yaad karta toh hoga watan ki shahi ko
-  Behan ko dafan jo pardes main kiya ho ga
+  Wo yaad karta to hoga watan ki shaahi ko
+  Behan ko dafn jo pardes mein kiya hoga
 
   5
-  Jo ghour keejye toh Abid bashar nahi lagta
-  Meray khayal may dukh dard ka khuda ho ga
+  Jo ghaur kijiye to Aabid bashar nahiṅ lagta
+  Mere khayaal mein dukh dard ka khuda hoga
 # source_id: nohayonline:15cc0eefea0a52e78040
 # source_url: https://www.nohayonline.com/content_salaam.php?id=7
 # raw_sha256: 7af12de23390cd9537774e199207d2f4bea53ce35ad962209cbc677f73baea91
@@ -40,10 +41,10 @@ romanLyrics: |-
 # raw_sha256: 34ed86f585b27f2107e5eb9d5e51afae9ab9fbd5c8b494a7cf72266112026306
 ---
 
-یہ سونچتا ہوں کہ عابد کا حال کیا ہوگا
+یہ سوچتا ہوں کہ عابد کا حال کیا ہوگا
+اسیر ہوکے وہ جب شام سے گیا ہوگا
 
 ۱
-اسیر ہوکے وہ جب شام سے گیا ہوگا
 سنا ہے شام میں جاتے ہی خون رونے لگا
 نہ جانے شمر نے اس وقت کیا کہا ہوگا
 

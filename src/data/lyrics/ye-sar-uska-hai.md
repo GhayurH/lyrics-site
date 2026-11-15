@@ -6,53 +6,54 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
+reciter: "Mir Sajjad Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jo mohamed ka nawasa hai ye sar uska hai
+  Jo Muhammad ka nawaasa hai ye sar uska hai
   Jisko nau laakh ne maara hai ye sar uska hai
 
   1
-  Sar uthaye huwe khooli ye sada deta hai
-  Ali akbar ko jo rota hai ye sar uska hai
+  Sar uthaye hue Khuli ye sada deta hai
+  Ali Akbar ko jo rota hai ye sar uska hai
 
   2
-  Pani peeta raha khud saamne qaatil jiske
-  Zibha ho kar bhi jo pyasa hai ye sar uska hai
+  Paani pita raha khud saamne qaatil jis ke
+  Zabh ho kar bhi jo pyaasa hai ye sar uska hai
 
   3
-  Hurmala ne jise ghode se giraane ke liye
-  Teer peshani pe maara hai ye sar uska hai
+  Hurmala ne jise ghore se giraane ke liye
+  Tir peshaani pe maara hai ye sar uska hai
 
   4
-  Sheh ke honton pe chadi maar ke zaalim ne kaha
-  Jis ki maa fatema zehra hai ye sar uska hai
+  Sheh ke hoṅtoṅ pe chhari maar ke zaalim ne kaha
+  Jis ki maaṅ Fatema Zehra hai ye sar uska hai
 
   5
-  Zakhmi chehre ki taraf dekh ke zehra boli
-  Patharon se jisay maara hai ye sar uska hai
+  Zakhmi chehre ki taraf dekh ke Zehra boliṅ
+  Pattharoṅ se jise maara hai ye sar uska hai
 
   6
-  Jis ne aulaad ata ki thi madine may mujhe
+  Jis ne aulaad ata ki thi Madine mein mujhe
   Ro ke raahib yehi kehta hai ye sar uska hai
 
   7
-  Jis ki beti ko abhi haste huwe zaalim ne
-  Chale naaqe se giraya hai ye sar uska hai
+  Jis ki beti ko abhi haṅste hue zaalim ne
+  Chalte naaqe se giraaya hai ye sar uska hai
 
   8
-  Mir sajjad jise dafn bhi hone na diya
-  Be-kafan jis ka janaza hai ye sar uska hai
+  Mir Sajjad jise dafn bhi hone na diya
+  Bekafan jis ka janaaza hai ye sar uska hai
 # source_id: nohayonline:beff516120a49ace33a1
 # source_url: https://www.nohayonline.com/details_content.php?id=1539
 # raw_sha256: 26879c76bf77a46db255df39b019d493a5663e1e1737e9da60f99b16621e183d
 ---
 جو محمد کا نواسہ ہے یہ سر اس کا ہے
-جسکو نو لاکھ نے مارا ہے یہ سر اس کا ہے
+جس کو نو لاکھ نے مارا ہے یہ سر اس کا ہے
 
 ۱
-سر اٹھاے ہوے قولی یہ صدا دیتا ہے
+سر اٹھائے ہوئے قولی یہ صدا دیتا ہے
 علی اکبر کو جو روتا ہے یہ سر اس کا ہے
 
 ۲
@@ -73,10 +74,10 @@ romanLyrics: |-
 
 ۶
 جس نے اولاد عطا کی تھی مدینے میں مجھے
-روکے راحب یہی کہتا‌ ہے یہ سر اس کا ہے
+رو کے راہب یہی کہتا ہے یہ سر اس کا ہے
 
 ۷
-جس کی بیٹی کو ابھی ہنستے ہوے ظالم نے
+جس کی بیٹی کو ابھی ہنستے ہوئے ظالم نے
 چلتے ناقے سے گرایا ہے یہ سر اس کا ہے
 
 ۸
