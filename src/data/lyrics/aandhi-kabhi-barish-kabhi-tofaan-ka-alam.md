@@ -11,6 +11,7 @@ aliases: []
 recitationId: "aandhi-kabhi-barish-kabhi-tofaan-ka-lyrics-2017"
 published: true
 romanLyrics: |-
+  1
   Aandhi kabhi barish kabhi tufaṅ ka aalam
   Har daur mein mausam ke taghayyur se lari hai
   Chaudah sau baras bit gaye ishq-e-Ali mein
@@ -19,7 +20,7 @@ romanLyrics: |-
 # source_url: https://tajpoints.com/2017/02/aandhi-kabhi-barish-kabhi-tofaan-ka.html
 # raw_sha256: 43ac80799ef019682575083441732db0b361e75ca50a04fc0efe47c4141042f8
 ---
-
+۱
 آندھی کبھی بارش کبھی طوفاں کا عالم
 ہر دور میں موسم کے تغیر سے لڑی ہے
 چودہ سو برس بیت گئے عشقِ علی میں

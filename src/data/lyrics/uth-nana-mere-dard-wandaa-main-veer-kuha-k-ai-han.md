@@ -1,6 +1,6 @@
 ---
 title: "Uth Nana Mere Dard Wandaa Main Veer Kuha K Ai Han"
-language: "Roman Urdu"
+language: Urdu
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

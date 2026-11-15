@@ -36,7 +36,7 @@ romanLyrics: |-
   Maisam Salman aur Abuzar sab ham ko pehchaane haiṅ
   Teri gali ke bhikshu haiṅ ham Qanbar ham ko jaane haiṅ
   Bhej de Maula bhej de ab Hasnain ka sadqa kar de bera paar
-# source_id: personal_notebook:temp-import-odt-2026-11-08
+# source_note: personal notebook ODT import on 2026-11-08; no unique source record ID
 # editorial_note: Notebook transcription; newly supplied Urdu where the notebook contains Roman only
 ---
 دین کا داتا جگت کا مالک سب کا پالنہار

@@ -51,7 +51,7 @@ romanLyrics: |-
   Shaukat sar-e-maqtal ye kaha bint-e-Ali ne
   Zehra ki pali ne
   Bhaiya tere bin khaak teri behna ka jina barbaad hui main
-# source_id: personal_notebook:temp-import-odt-2026-11-08
+# source_note: personal notebook ODT import on 2026-11-08; no unique source record ID
 # editorial_note: Notebook transcription; newly supplied Urdu where the notebook contains Roman only
 # source_id: nohayonline:78bf73957132f492d3aa
 # source_url: https://www.nohayonline.com/details_content.php?id=345

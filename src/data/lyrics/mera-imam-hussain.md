@@ -23,6 +23,7 @@ romanLyrics: |-
   Mil kar kaho momino mera hai mera Husain
   Har qaum ki hai sada apna hai apna Husain
 
+  1
   Paak Muhammad ka nawaasa mera Maula
   Haidar-e-Karraar ka beta mera Maula
   Kitnoṅ ki dharkan mein dharakta mera Maula
@@ -38,6 +39,7 @@ romanLyrics: |-
   Haaṅ mera dil hai mera saara jahaaṅ Maula Husain
   Imam Husain ya Husain Imam Husain ya Husain
 
+  2
   Karb o bala saltanat-e-ishq-e-Khuda hai
   Sayyid o saadaat ki mehnat ka sila hai
   Jab se qadam Aal-e-Muhammad ne rakha hai
@@ -52,6 +54,7 @@ romanLyrics: |-
   Mil kar kaho momino mera hai mera Husain
   Har qaum ki hai sada apna hai apna Husain
 
+  3
   Yaad hai na Karbala Aashur wo sehra
   Saamna laakhoṅ se bahattar ka hua tha
   Kaam wo Shabbir ne phir kar ke dikhaaya
@@ -67,6 +70,7 @@ romanLyrics: |-
   Haaṅ mera dil hai mera saara jahaaṅ Maula Husain
   Imam Husain ya Husain Imam Husain ya Husain
 
+  4
   Jis tarah Shabbir ne waade ko nibhaaya
   Rab ki riza ke liye ghar baar lutaaya
   Pyaare fida kar diye kuchh bhi na bachaaya
@@ -81,6 +85,7 @@ romanLyrics: |-
   Mil kar kaho momino mera hai mera Husain
   Har qaum ki hai sada apna hai apna Husain
 
+  5
   Aap sa rutba to koi paa nahiṅ sakta
   Ban ke Husain aur koi aa nahiṅ sakta
   Aisi misaal aur koi laa nahiṅ sakta
@@ -96,6 +101,7 @@ romanLyrics: |-
   Haaṅ mera dil hai mera saara jahaaṅ Maula Husain
   Imam Husain ya Husain Imam Husain ya Husain
 
+  6
   Maula ko sadmoṅ se guzarte hue dekha
   Bhaai ko betoṅ ko bichharte hue dekha
   Jaan se pyaaroṅ ko tarapte hue dekha
@@ -106,6 +112,7 @@ romanLyrics: |-
   Yaad rahega sada haaṅ mera Imam Husain
   Haaṅ mera Imam Husain haaṅ mera Imam Husain
 
+  7
   Haaye sar-e-Karb o bala jis ko sukun mila nahiṅ
   Jis ka to kuchh raha nahiṅ jis ka to kuchh bacha nahiṅ
   Laakhoṅ se jo daba nahiṅ maut se jo dara nahiṅ
@@ -113,6 +120,7 @@ romanLyrics: |-
   Haaṅ mera Imam Husain haaṅ mera Imam Husain
   Imam Husain ya Husain Imam Husain ya Husain
 
+  8
   Wo bekafan
   Wo bewatan
   Wo khasta tan
@@ -138,6 +146,7 @@ romanLyrics: |-
 مل کر کہو مومنو میرا ہے میرا حسین
 ہر قوم کی ہے صدا اپنا ہے اپنا حسین
 
+۱
 پاک محمد کا نواسہ میرا مولا
 حیدر کرار کا بیٹا میرا مولا
 کتنوں کی دھڑکن میں دھڑکتا میرا مولا
@@ -153,6 +162,7 @@ romanLyrics: |-
 ہاں میرا دل ہے میرا سارا جہاں مولا حسین
 امام حسین یا حسین امام حسین یا حسین
 
+۲
 کرب و بلا سلطنتِ عشق خدا ہے
 سیدوں سادات کی محنت کا صلہ ہے
 جب سے قدم آل محمد نے رکھا ہے
@@ -167,6 +177,7 @@ romanLyrics: |-
 مل کر کہو مومنو میرا ہے میرا حسین
 ہر قوم کی ہے صدا اپنا ہے اپنا حسین
 
+۳
 یاد ہے نا کربلا عاشور وہ صحرا
 سامنا لاکھوں سے بہتر کا ہوا تھا
 کام وہ شبیرؑ نے پھر کر کے دکھایا
@@ -182,6 +193,7 @@ romanLyrics: |-
 ہاں میرا دل ہے میرا سارا جہاں مولا حسین
 امام حسین یا حسین امام حسین یا حسین
 
+۴
 جس طرح شبیر نے وعدے کو نبھایا
 رب کی رضا کے لئے گھر بار لٹایا
 پیارے فدا کر دیے کچھ بھی نہ بچایا
@@ -196,6 +208,7 @@ romanLyrics: |-
 مل کر کہو مومنو میرا ہے میرا حسین
 ہر قوم کی ہے صدا اپنا ہے اپنا حسین
 
+۵
 آپ سا رتبہ کوئی پا نہیں سکتا
 بن کر حسین اور کوئی آ نہیں سکتا
 ایسی مثال اور کوئی لا نہیں سکتا
@@ -211,6 +224,7 @@ romanLyrics: |-
 ہاں میرا دل ہے میرا سارا جہاں مولا حسین
 امام حسین یا حسین امام حسین یا حسین
 
+۶
 مولا کو صدموں سے گزرتے ہوئے دیکھا
 بھائی کو بیٹوں کو بچھڑتے ہوئے دیکھا
 جان سے پیاروں کو تڑپتے ہوئے دیکھا
@@ -221,6 +235,7 @@ romanLyrics: |-
 یاد رہے گا صدا ہاں میرا امام حسین
 ہاں میرا امام حسین ہاں میرا امام حسین
 
+۷
 ہائے سر کرب و بلا جس کو سکون ملا نہیں
 جس کا تو کچھ رہا نہیں جس کا تو کچھ بچا نہیں
 لاکھوں سے جو دبا نہیں موت سے جو ڈرا نہیں
@@ -228,6 +243,7 @@ romanLyrics: |-
 ہاں میرا امام حسین ہاں میرا امام حسین
 امام حسین یا حسین امام حسین یا حسین
 
+۸
 وہ بے کفن
 وہ بے وطن
 وہ خستہ تن

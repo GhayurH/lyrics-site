@@ -17,27 +17,32 @@ romanLyrics: |-
   Jaanam Husaina
   Marhaba Husain Maula
 
+  1
   Uncha tumhaara muqaam, Maula Husain jaan
   Tum par durud o salaam, Maula Husain jaan
   Pyaara, pyaara hai yeh naam, Maula Husain jaan
 
+  2
   Baadshaahoṅ mein bara hai kaun aisa baadshaah
   Jis ke naukar hoṅ farishte auliya jis ke gada
   Arsh wale farsh wale hoṅ sabhi jis par fida
   Har dil mein jis ka qiyaam Maula Husain jaan
   Hum sab haiṅ jis ke ghulaam Maula Husain jaan
 
+  3
   Jis ka shajra wah Khuda saare ka saara nur ka
   Baap, bhaai, maaṅ bhi nuri aur naana nur ka
   Bachcha bachcha nur ka saara gharaana nur ka
   Kis ka hai yeh ehtimaam Maula Husain jaan
   Roshan hai kis ka yeh naam Maula Husain jaan
 
+  4
   Ya Husain itna duaaoṅ mein asar tu de de
   Apne naukar ko ghulaami ka samar tu de de
   Main samandar bhi kisi ghair ke haathoṅ se na luṅ
   Aur qatra bhi samandar hai agar tu de de
 
+  5
   Sab ka hai saaiṅ sarkaar, Ya Husain
   Ishq-e-Khuda mein sarshaar, Ya Husain
   Kehta hai saara sansaar, Ya Husain
@@ -48,6 +53,7 @@ romanLyrics: |-
   Pyaara Husain mera pyaara Husain
   Mera Maula Husain, mera Maula Husain
 
+  6
   Aasmaan par chaand nikla tisri Shaabaan ka
   Ghar mein Zahra ke khila hai phul yeh imaan ka
   Aa gaya dekho nawaasa din ke sultaan ka
@@ -55,6 +61,7 @@ romanLyrics: |-
   Rab ka hai hum ko inaam, Maula Husain jaan
   Pyaara pyaara hai yeh naam, Maula Husain jaan
 
+  7
   Saltanat hai ishq ki, sultaan Shaah-e-Karbala
   Dharkanoṅ mein gunjta hai naam jis ka ba Khuda
   Ja baja saare jahaaṅ mein kaam jis ka chha gaya
@@ -62,6 +69,7 @@ romanLyrics: |-
   Zinda rahe ga yeh naam, Maula Husain jaan
   Pyaara pyaara hai yeh naam, Maula Husain jaan
 
+  8
   Woh jo laakhoṅ se na haara kaun hai? Bas Ya Husain
   Maut ko jis ne hai maara kaun hai? Bas Ya Husain
   Jo na ban paaya dobaara kaun hai? Bas Ya Husain
@@ -69,6 +77,7 @@ romanLyrics: |-
   Hazrat Alh Aslam, Maula Husain jaan
   Pyaara pyaara hai yeh naam, Maula Husain jaan
 
+  9
   Tere ishq mein jo bhi dub gaya
   Bas us ka bera paar hua
   Jis dil mein basa hai pyaar tera
@@ -86,27 +95,32 @@ romanLyrics: |-
 جانم حسینا
 مرحبا حسین مولا
 
+۱
 اونچا تمہارا مقام، مولا حسین جان
 تم پر درود و سلام، مولا حسین جان
 پیارا، پیارا ہے یہ نام، مولا حسین جان
 
+۲
 بادشاہوں میں بڑا ہے کون ایسا بادشاہ
 جس کے نوکر ہوں فرشتے اولیا جس کے گدا
 عرش والے فرش والے ہوں سبھی جس پر فدا
 ہر دل میں جس کا قیام مولا حسین جان
 ہم سب ہیں جس کے غلام مولا حسین جان
 
+۳
 جس کا شجرہ واہ خدا سارے کا سارا نور کا
 باپ، بھائی، ماں بھی نوری اور نانا نور کا
 بچہ بچہ نور کا سارا گھرانا نور کا
 کس کا ہے یہ اہتمام مولا حسین جان
 روشن ہے کس کا یہ نام مولا حسین جان
 
+۴
 یا حسین اتنا دعاؤں میں اثر تو دے دے
 اپنے نوکر کو غلامی کا ثمر تو دے دے
 میں سمندر بھی کسی غیر کے ہاتھوں سے نہ لوں
 اور قطرہ بھی سمندر ہے اگر تو دے دے
 
+۵
 سب کا ہے سائیں سرکار، یا حسین
 عشقِ خدا میں سرشار، یا حسین
 کہتا ہے سارا سنسار، یا حسین
@@ -117,6 +131,7 @@ romanLyrics: |-
 پیارا حسین میرا پیارا حسین
 میرا مولا حسین، میرا مولا حسین
 
+۶
 آسمان پر چاند نکلا تیسری شعبان کا
 گھر میں زہرا کے کھلا ہے پھول یہ ایمان کا
 آ گیا دیکھو نواسہ دین کے سلطان کا
@@ -124,6 +139,7 @@ romanLyrics: |-
 رب کا ہے ہم کو انعام، مولا حسین جان
 پیارا پیارا ہے یہ نام، مولا حسین جان
 
+۷
 سلطنت ہے عشق کی، سلطان شاہِ کربلا
 دھڑکنوں میں گونجتا ہے نام جس کا بخدا
 جا بجا سارے جہاں میں کام جس کا چھا گیا
@@ -131,6 +147,7 @@ romanLyrics: |-
 زندہ رہے گا یہ نام، مولا حسین جان
 پیارا پیارا ہے یہ نام، مولا حسین جان
 
+۸
 وہ جو لاکھوں سے نہ ہارا کون ہے؟ بس یا حسین
 موت کو جس نے ہے مارا کون ہے؟ بس یا حسین
 جو نہ بن پایا دوبارہ کون ہے؟ بس یا حسین
@@ -138,6 +155,7 @@ romanLyrics: |-
 حضرت الہ اسلم، مولا حسین جان
 پیارا پیارا ہے یہ نام، مولا حسین جان
 
+۹
 تیرے عشق میں جو بھی ڈوب گیا
 بس اس کا بیڑا پار ہوا
 جس دل میں بسا ہے پیار تیرا

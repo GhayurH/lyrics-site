@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-reciter: "Tableegh e Imamia"
+reciter: "Tableegh-e-Imamia"
 tags: []
 aliases: ["Nafraton Ki Dhool Se"]
 published: true

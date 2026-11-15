@@ -10,6 +10,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
+  1
   Hua jo Shaah ke lashkar meiṅ qaht paani ka
   Ajib haal hua Faatima ke jaani ka
   Kabhi khayaal tha Akbar ki naujawaani ka
@@ -20,7 +21,7 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1237
 # raw_sha256: cfd58b8c024ad9becb8e6d8d6fcd863714886bada1877835d56f59d00fc22b82
 ---
-
+۱
 ہوا جو شاہ کے لشکر میں قحط پانی کا
 عجیب حال ہوا فاطمہ کے جانی کا
 کبھی خیال تھا اکبر کی نوجوانی کا

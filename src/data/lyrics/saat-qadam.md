@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Zille Raza Zaidi"
+poet: "Zill-e-Raza Zaidi"
 reciter: "Farhan Ali Waris"
 tags: []
 aliases: []

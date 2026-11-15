@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-reciter: "Sibt-e-Jafar"
+reciter: "Sibte Jafar"
 tags: []
 aliases: []
 published: true

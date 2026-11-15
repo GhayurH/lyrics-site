@@ -5,7 +5,7 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Hamd
-poet: "Rehaan Azmi"
+poet: "Rehan Azmi"
 tags: []
 aliases: ["allah-bohat-bara-hai", "allah-bohat-bara-hai-nadeem-sarwar"]
 recitationId: "allah-bohat-bara-hai-nadeem-sarwar"

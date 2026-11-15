@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
-poet: "Sibt-e-Jafar"
+poet: "Sibte Jafar"
 tags: []
 aliases: ["Jab Imam Ayenge", "Jab Imam Ayenge 1-6", "Jab Imam Ayenge 7-12"]
 published: true

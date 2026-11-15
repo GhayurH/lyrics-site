@@ -53,7 +53,7 @@ romanLyrics: |-
   Kya hai Allah ka kya hai tera maalum nahiṅ
   Hai Takallum ko yaqiṅ
   Maslak-e-ishq mein hota nahiṅ mera tera
-# source_id: personal_notebook:temp-import-odt-2026-11-08
+# source_note: personal notebook ODT import on 2026-11-08; no unique source record ID
 # editorial_note: Notebook transcription; newly supplied Urdu where the notebook contains Roman only
 ---
 یا فاطمہ زہرا

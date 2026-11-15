@@ -5,7 +5,7 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Salaam
-poet: "Rehaan Azmi"
+poet: "Rehan Azmi"
 reciter: "Zargham Abbas"
 tags: []
 aliases: []

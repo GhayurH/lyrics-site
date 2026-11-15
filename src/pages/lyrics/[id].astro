@@ -48,7 +48,7 @@ const {
 } = Astro.props as Props;
 const { data } = lyric;
 const category = getLyricKalamType(data);
-const isRomanOnly = data.language === "Roman Urdu" && !data.romanLyrics;
+const isRomanOnly = data.lang === "ur" && data.direction === "ltr" && !data.romanLyrics;
 function neighborTitle(entry: CollectionEntry<"lyrics">) {
   return entry.data.alternateTitle ?? entry.data.title;
 }

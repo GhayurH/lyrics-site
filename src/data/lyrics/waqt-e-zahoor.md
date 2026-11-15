@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
-poet: "Sibt-e-Jafar"
+poet: "Sibte Jafar"
 reciter: "Mir Hasan Mir, Mir Qasim Mir, Mir Jawad Mir"
 tags: []
 aliases: ["waqt-e-zahoor-mir-hasan-mir"]

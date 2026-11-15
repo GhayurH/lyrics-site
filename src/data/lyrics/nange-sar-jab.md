@@ -6,7 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shakeeb"
-reciter: "Tableegh e Imamia"
+reciter: "Tableegh-e-Imamia"
 tags: []
 aliases: []
 published: true

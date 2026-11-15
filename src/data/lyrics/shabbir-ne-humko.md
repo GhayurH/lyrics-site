@@ -14,16 +14,20 @@ romanLyrics: |-
   Dunya mein jo bedaari ki aawaaz hai har jaa
   Hai bint-e-Payambar tere Shabbir ka sadqa
 
+  1
   Ae Fatima Zahra tere Shabbir ke jaisa
   Tha koi nahiṅ hai bhi nahiṅ aur na hoga
 
+  2
   Shabbir ne hum ko sikhaaya hai
   Haq baat pe sar bhi kata dena
   Labbaik ya Husain labbaik ya Husain
 
+  3
   Chaahe ye jaaṅ chali jaaye
   Ghar baar bhi apna luta dena
 
+  4
   Paighaam-e-Husaini phailaaya
   Ye Karbobala ne samjhaaya
   Jab zulmat har suṅ chhaane lage
@@ -35,6 +39,7 @@ romanLyrics: |-
   Haq baat pe sar bhi kata dena
   Labbaik ya Husain labbaik ya Husain
 
+  5
   Maatam ka safar jo jaari hai
   Darasal yehi bedaari hai
   Labbaik ya Husain labbaik ya Husain
@@ -47,6 +52,7 @@ romanLyrics: |-
   Haq baat pe sar bhi kata dena
   Labbaik ya Husain labbaik ya Husain
 
+  6
   Sar jab bhi uthaaye kufr kahiṅ
   Haq baat bataana tum bhi wahiṅ
   Labbaik ya Husain labbaik ya Husain
@@ -59,6 +65,7 @@ romanLyrics: |-
   Haq baat pe sar bhi kata dena
   Labbaik ya Husain labbaik ya Husain
 
+  7
   Hai ye bhi faraaiz mein shaamil
   Aur hai ye ibaadat bhi kaamil
   Labbaik ya Husain labbaik ya Husain
@@ -71,6 +78,7 @@ romanLyrics: |-
   Haq baat pe sar bhi kata dena
   Labbaik ya Husain labbaik ya Husain
 
+  8
   Ghaazi ki inaayat mil jaaye
   Jab izn-e-ziyaarat mil jaaye
   Labbaik ya Husain labbaik ya Husain
@@ -83,6 +91,7 @@ romanLyrics: |-
   Haq baat pe sar bhi kata dena
   Labbaik ya Husain labbaik ya Husain
 
+  9
   Mehdi ke ghulaamoṅ yaad rakho
   Jine ka yehi ik maqsad ho
   Labbaik ya Husain labbaik ya Husain
@@ -95,6 +104,7 @@ romanLyrics: |-
   Haq baat pe sar bhi kata dena
   Labbaik ya Husain labbaik ya Husain
 
+  10
   Ae ahl-e-aza ye yaad rahe
   Ghaazi ke alam ke saaye tale
   Labbaik ya Husain labbaik ya Husain
@@ -107,6 +117,7 @@ romanLyrics: |-
   Haq baat pe sar bhi kata dena
   Labbaik ya Husain labbaik ya Husain
 
+  11
   Jab shish maaha yaad aa jaaye
   Aur pyaas bhi us ki tarpaaye
   Tum apne gharoṅ mein sharbat par
@@ -118,6 +129,7 @@ romanLyrics: |-
   Haq baat pe sar bhi kata dena
   Labbaik ya Husain labbaik ya Husain
 
+  12
   Zainab ko rulaata hai ab bhi
   Gham aur barhaata hai ab bhi
   Wo neza khaa kar Akbar ka
@@ -129,6 +141,7 @@ romanLyrics: |-
   Haq baat pe sar bhi kata dena
   Labbaik ya Husain labbaik ya Husain
 
+  13
   Hum ko hai sikhaaya maatam bhi
   Aur ishq-e-Ali ki daulat bhi
   Labbaik ya Husain labbaik ya Husain
@@ -147,16 +160,20 @@ romanLyrics: |-
 دنیا میں جو بیداری کی آواز ہے ہر جا
 ہے بنتِ پیمبر تیرے شبیر کا صدقہ
 
+۱
 اے فاطمہ زہرا تیرے شبیر کے جیسا
 تھا کوئی نہیں ہے بھی نہیں اور نہ ہوگا
 
+۲
 شبیر نے ہم کو سکھایا ہے
 حق بات پہ سر بھی کٹا دینا
 لبیک یا حسین لبیک یا حسین
 
+۳
 چاہے یہ جاں چلی جائے
 گھر بار اپنا لٹا دینا
 
+۴
 پیغامِ حسینی پھیلایا
 یہ کربوبلا نے سمجھایا
 جب ظلمت ہر سوں چھانے لگے
@@ -168,6 +185,7 @@ romanLyrics: |-
 حق بات پہ سر بھی کٹا دینا
 لبیک یا حسین لبیک یا حسین
 
+۵
 ماتم کا سفر جو جاری ہے
 دراصل یہی بیداری ہے
 لبیک یا حسین لبیک یا حسین
@@ -180,6 +198,7 @@ romanLyrics: |-
 حق بات پہ سر بھی کٹا دینا
 لبیک یا حسین لبیک یا حسین
 
+۶
 سر جب بھی اٹھائے کفر کہیں
 حق بات بتانا تم بھی وہیں
 لبیک یا حسین لبیک یا حسین
@@ -192,6 +211,7 @@ romanLyrics: |-
 حق بات پہ سر بھی کٹا دینا
 لبیک یا حسین لبیک یا حسین
 
+۷
 ہے یہ بھی فرائض میں شامل
 اور ہے یہ عبادت بھی کامل
 لبیک یا حسین لبیک یا حسین
@@ -204,6 +224,7 @@ romanLyrics: |-
 حق بات پہ سر بھی کٹا دینا
 لبیک یا حسین لبیک یا حسین
 
+۸
 غازی کی عنایت مل جائے
 جب اذنِ زیارت مل جائے
 لبیک یا حسین لبیک یا حسین
@@ -216,6 +237,7 @@ romanLyrics: |-
 حق بات پہ سر بھی کٹا دینا
 لبیک یا حسین لبیک یا حسین
 
+۹
 مہدی کے غلاموں یاد رکھو
 جینے کا یہی اک مقصد ہو
 لبیک یا حسین لبیک یا حسین
@@ -228,6 +250,7 @@ romanLyrics: |-
 حق بات پہ سر بھی کٹا دینا
 لبیک یا حسین لبیک یا حسین
 
+۱۰
 اے اہلِ عزا یہ یاد رہے
 غازی کے علم کے سائے تلے
 لبیک یا حسین لبیک یا حسین
@@ -240,6 +263,7 @@ romanLyrics: |-
 حق بات پہ سر بھی کٹا دینا
 لبیک یا حسین لبیک یا حسین
 
+۱۱
 جب ششماہ یاد آ جائے
 اور پیاس بھی اس کی تڑپائے
 تم اپنے گھروں میں شربت پر
@@ -251,6 +275,7 @@ romanLyrics: |-
 حق بات پہ سر بھی کٹا دینا
 لبیک یا حسین لبیک یا حسین
 
+۱۲
 زینب کو رلاتا ہے اب بھی
 غم اور بڑھاتا ہے اب بھی
 وہ نیزہ کھا کر اکبر کا
@@ -262,6 +287,7 @@ romanLyrics: |-
 حق بات پہ سر بھی کٹا دینا
 لبیک یا حسین لبیک یا حسین
 
+۱۳
 ہم کو ہے سکھایا ماتم بھی
 اور عشقِ علی کی دولت بھی
 لبیک یا حسین لبیک یا حسین

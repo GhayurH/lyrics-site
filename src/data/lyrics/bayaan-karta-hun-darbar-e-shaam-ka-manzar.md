@@ -134,7 +134,7 @@ romanLyrics: |-
   Maujiza Sarwar o Rehaan falak ne dekha
   Khutba-e-Zainab o Sajjad ne wo kaam kiya
   Hashr tak zikr-e-Husain ibn-e-Ali aam kiya
-# source_id: personal_notebook:temp-import-odt-2026-11-08
+# source_note: personal notebook ODT import on 2026-11-08; no unique source record ID
 # editorial_note: Long recitation manually separated from notebook paragraphs; review uncertain phrases against audio
 ---
 بیاں کرتا ہوں دربارِ شام کا منظر

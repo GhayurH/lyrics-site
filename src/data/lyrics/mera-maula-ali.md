@@ -13,12 +13,14 @@ published: true
 romanLyrics: |-
   Ali Asadullah Ali Asadullah Ali Asadullah
 
+  1
   Ilzaam ye hai ishq mein diwana huṅ
   Ali Ali Ali ya Maula Ali Ali Ali ya Maula
   Ilzaam ye hai khud se main begana huṅ
   Ali Ali Ali ya Maula Ali Ali Ali ya Maula
   Ilzaam hai maulaai huṅ mastana huṅ
 
+  2
   Iqraar hai mujh ko meri fitrat hai malangaana
   Andaaz yagaana meri sohbat bhi faqiraana
   Haaṅ naaz se kehta huṅ main huṅ Haideri parwana
@@ -33,10 +35,12 @@ romanLyrics: |-
   Haaṅ mera Maula Ali
   Haaṅ mera Maula Ali
 
+  3
   Leh dil aur dil mein Ali
   Ali Ali Ali ya Maula
   Ali Ali Ali ya Maula
 
+  4
   Mujh se suno kis ne hai diwana banaaya
   Haaṅ kis ne mere qalb pe hai dera jamaaya
   Aur kis ne wila ka hai mujhe jaam pilaaya
@@ -44,6 +48,7 @@ romanLyrics: |-
   Maula-e-bashar ilm ka dar fakhr-e-bani Aadam
   Baad-e-Khuda baad-e-Nabi sab se bara Ali Ali
 
+  5
   Haaṅ mera Maula Ali
   Haaṅ mera Maula Ali
   Haaṅ mera Maula Ali
@@ -53,6 +58,7 @@ romanLyrics: |-
   Ali Ali Ali ya Maula
   Ali Ali Ali ya Maula
 
+  6
   Kya zaat mere pir ki Allah ne banaai
   Aisi to koi zaat zamaane mein na aayi
   Haaṅ jis ki parastaar hai ye saari khudaai
@@ -69,6 +75,7 @@ romanLyrics: |-
   Haaṅ mera Maula Ali
   Haaṅ mera Maula Ali
 
+  7
   Ye mera junuṅ hosh ki deta hai gawaahi
   Ek do nahiṅ chaudah ki mere dil pe hai shaahi
   Wallah dar-e-ilm ki karta huṅ ghulaami
@@ -76,16 +83,19 @@ romanLyrics: |-
   Qambar ne sikhaaye mujhe aadaab-e-malangaana
   Ishq mera aql meri hosh mera Ali Ali
 
+  8
   Ali Maula Ali Ali
   Ali Maula Ali Ali
   Ali Ali ya Maula leh dil
   Ali Ali ya Maula
   Ali Ali ya Maula
 
+  9
   Qalandaroṅ ke mazaaroṅ ko chumne waaloṅ
   Qalandaroṅ ki sada bhi kabhi suno kya hai
   Sada-e-malang-e-Ali sada-e-faqir-e-Ali
 
+  10
   Har naara-e-Haider mein Ali bol raha hai
   Dam mast qalandar mein Ali bol raha hai
   Momin huṅ mere ghar mein Ali bol raha hai
@@ -93,6 +103,7 @@ romanLyrics: |-
   Sine mein hai dil dil mein dharakta hai Ali Maula
   Waliyoṅ ka faqiroṅ ka hai wazifa hai Ali Maula
 
+  11
   Ashhadu anna Ali an waliullah
   Ali Ali haaṅ mera Maula Ali
   Haaṅ mera Maula Ali
@@ -103,6 +114,7 @@ romanLyrics: |-
   Ali Ali ya Maula
   Ali Ali ya Maula
 
+  12
   Afsos tere ghar ko zamaane ne sataaya
   Afsos tere saamne Zehra ko rulaaya
   Afsos musalle pe lahu tera bahaaya
@@ -110,8 +122,10 @@ romanLyrics: |-
   Aur betiyaṅ darbaar mein paaband-e-jafa Maula
   Haar gaye ahl-e-jafa jit gaya Ali Ali
 
+  13
   Haaṅ mera Maula Ali
 
+  14
   Maula mera wazifa
   Maula mera aqida
   Maula mera wazifa
@@ -122,6 +136,7 @@ romanLyrics: |-
   Waliullah Ali
   Asadullah Ali
 
+  15
   Mera murshid mera aaqa mera sultan Ali
   Mera waaris mera Maula mera imaan Ali
   Kitne anmol hai aala hai muqaddar un ke
@@ -132,6 +147,7 @@ romanLyrics: |-
   Waliullah Ali
   Asadullah Ali
 
+  16
   Qaahir al adu Haider
   Waali al wali Haider
   Ishq-e-Fatima Haider
@@ -145,14 +161,17 @@ romanLyrics: |-
   Naasir-e-Nabi Haider
   Waliyoṅ ka wali Haider
 
+  17
   Haaṅ mera Maula Ali
   Haaṅ mera Maula Ali
 
+  18
   Ya Ali kehti hai dunya mujhe naukar tera
   Ab mujhe daulat-e-dunya ki tamanna hi nahiṅ
   Shaahiyaṅ chhor ke aate haiṅ shahanshah yahaṅ
   Aur faqir aap ka dar chhor ke jaata hi nahiṅ
 
+  19
   Haaṅ mera Maula Ali
   Haaṅ mera Maula Ali
   Haaṅ mera Maula Ali
@@ -163,12 +182,14 @@ romanLyrics: |-
 ---
 علی اسد اللّٰہ علی اسد اللّٰہ علی اسد اللّٰہ
 
+۱
 الزام یہ ہے عشق میں دیوانہ ہوں
 علی علی علی یا مولا علی علی علی یا مولا
 الزام یہ ہے خود سے میں بیگانہ ہوں
 علی علی علی یا مولا علی علی علی یا مولا
 الزام ہے مولائی ہوں مستانہ ہوں
 
+۲
 اقرار ہے مجھ کو میری فطرت ہے ملنگانہ
 انداز یگانہ میری صحبت بھی فقیرانہ
 ہاں ناز سے کہتا ہوں میں ہوں حیدری پروانہ
@@ -183,10 +204,12 @@ romanLyrics: |-
 ہاں میرا مولا علی
 ہاں میرا مولا علی
 
+۳
 لہ دل اور دل میں علی
 علی علی علی یا مولا
 علی علی علی یا مولا
 
+۴
 مجھ سے سنو کس نے ہے دیوانہ بنایا
 ہاں کس نے میرے قلب پہ ہے ڈیرا جمایا
 اور کس نے ولا کا ہے مجھے جام پلایا
@@ -194,6 +217,7 @@ romanLyrics: |-
 مولائے بشر علم کا در فخر بنی آدم
 بعد خدا بعد نبی سب سے بڑا علی علی
 
+۵
 ہاں میرا مولا علی
 ہاں میرا مولا علی
 ہاں میرا مولا علی
@@ -203,6 +227,7 @@ romanLyrics: |-
 علی علی علی یا مولا
 علی علی علی یا مولا
 
+۶
 کیا ذات میرے پیر کی اللّٰہ نے بنائی
 ایسی تو کوئی ذات زمانے میں نہ آئی
 ہاں جس کی پرستار ہے یہ ساری خدائی
@@ -219,6 +244,7 @@ romanLyrics: |-
 ہاں میرا مولا علی
 ہاں میرا مولا علی
 
+۷
 یہ میرا جنوں ہوش کی دیتا ہے گواہی
 اک دو نہیں چودہ کی میرے دل پہ ہے شاہی
 واللہ در علم کی کرتا ہوں غلامی
@@ -226,16 +252,19 @@ romanLyrics: |-
 قمبر نے سکھائے مجھے آدابِ ملنگانہ
 عشق میرا عقل میری ہوش میرا علی علی
 
+۸
 علی مولا علی علی
 علی مولا علی علی
 علی علی علی یا مولا لہ دل
 علی علی یا مولا
 علی علی یا مولا
 
+۹
 قلندروں کے مزاروں کو چومنے والوں
 قلندروں کی صدا بھی کبھی سنو کیا ہے
 صدائے ملنگ علی صدائے فقیر علی
 
+۱۰
 ہاں نعرۂ حیدر میں علی بول رہا ہے
 دم مست قلندر میں علی بول رہا ہے
 مؤمن ہوں میرے گھر میں علی بول رہا ہے
@@ -243,6 +272,7 @@ romanLyrics: |-
 سینے میں ہے دل دل میں دھڑکتا ہے علی مولا
 ولیوں کا فقیروں کا وظیفہ ہے علی مولا
 
+۱۱
 اشہد انا علی ولی اللّٰہ
 علی علی ہاں میرا مولا علی
 ہاں میرا مولا علی
@@ -253,6 +283,7 @@ romanLyrics: |-
 علی علی یا مولا
 علی علی یا مولا
 
+۱۲
 افسوس تیرے گھر کو زمانے نے ستایا
 افسوس تیرے سامنے زہرا کو رلایا
 افسوس مصلے پہ لہو تیرا بہایا
@@ -260,8 +291,10 @@ romanLyrics: |-
 اور بیٹیاں دربار میں پابند جفا مولا
 ہار گئے اہلِ جفا جیت گیا علی علی
 
+۱۳
 ہاں میرا مولا علی
 
+۱۴
 مولا میرا وظیفہ
 مولا میرا عقیدہ
 مولا میرا وظیفہ
@@ -272,6 +305,7 @@ romanLyrics: |-
 ولی اللّٰہ علی
 اسد اللّٰہ علی
 
+۱۵
 میرا مرشد میرا آقا میرا سلطان علی
 میرا وارث میرا مولا میرا ایمان علی
 کتنے انمول ہے اعلیٰ ہے مقدر ان کے
@@ -282,6 +316,7 @@ romanLyrics: |-
 ولی اللّٰہ علی
 اسد اللّٰہ علی
 
+۱۶
 قاہر العدو حیدر
 والی الولی حیدر
 عشقِ فاطمہ حیدر
@@ -295,14 +330,17 @@ romanLyrics: |-
 ناصر نبی حیدر
 ولیوں کا ولی حیدر
 
+۱۷
 ہاں میرا مولا علی
 ہاں میرا مولا علی
 
+۱۸
 یا علی کہتی ہے دنیا مجھے نوکر تیرا
 اب مجھے دولتِ دنیا کی تمنا ہی نہیں
 شاہیاں چھوڑ کے آتے ہیں شہنشاہ یہاں
 اور فقیر آپ کا در چھوڑ کے جاتا ہی نہیں
 
+۱۹
 ہاں میرا مولا علی
 ہاں میرا مولا علی
 ہاں میرا مولا علی

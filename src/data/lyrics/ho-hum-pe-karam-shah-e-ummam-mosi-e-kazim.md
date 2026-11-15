@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
-poet: "Sibt-e-Jafar"
+poet: "Sibte Jafar"
 reciter: "Syed Wajhi Hasan Zaidi"
 tags: []
 aliases: ["Ho Hum Pe Karam Shah-e-Ummam Mosi-e-Kazim"]

@@ -4,7 +4,7 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Salam
-poet: "Rehaan Azmi"
+poet: "Rehan Azmi"
 reciter: "Nadeem Sarwar"
 tags: []
 aliases: ["salam-ya-hussain-nadeem-sarwar"]

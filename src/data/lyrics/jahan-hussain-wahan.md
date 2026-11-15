@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Rehaan Azmi"
+poet: "Rehan Azmi"
 reciter: "Nadeem Sarwar"
 tags: []
 aliases: ["Jahan Hussain Wahan", "حسین حسین حسین"]
@@ -13,6 +13,7 @@ published: true
 romanLyrics: |-
   Husain Husain Husain
 
+  1
   Charaagh jalta raha
   Jo qaafila tha rawaaṅ wo qaafila hai rawaaṅ
   Safar ba nok-e-sinaaṅ sinaaṅ ke saath azaaṅ
@@ -22,6 +23,7 @@ romanLyrics: |-
   Dinoṅ mein raat mein jangal mein kohsaaroṅ se
   Sadaaeṅ aane lagiṅ ashhadu an la ilaha illallah
 
+  2
   Ye ek baar hua aur la zawaal hua
   Sinaaṅ ki nok pe subhaana rabbi al aala
   Pukaara kalma-e-tauhid bhi jazaak Allah
@@ -29,6 +31,7 @@ romanLyrics: |-
   Jahaṅ Husain wahaṅ la ilaha illallah
   Khatib-e-nok-e-sinaaṅ la ilaha illallah
 
+  3
   Husain din bhi hai aur diniyaat bhi hai
   Husain kalma-e-tauhid ki hayaat bhi hai
   Husain ramz-e-Khuda bhi Khuda sifaat bhi hai
@@ -38,6 +41,7 @@ romanLyrics: |-
   Jahaṅ Husain wahaṅ la ilaha illallah
   Khatib-e-nok-e-sinaaṅ la ilaha illallah
 
+  4
   Wo god Faatima Zehra ki ho ke reg-e-tapaaṅ
   Wo sehn-e-Kaaba ho pusht-e-Rasul ya ke sinaaṅ
   Faza-e-jang ho ya ho payaam-e-amn o amaan
@@ -47,6 +51,7 @@ romanLyrics: |-
   Jahaṅ Husain wahaṅ la ilaha illallah
   Khatib-e-nok-e-sinaaṅ la ilaha illallah
 
+  5
   Husain waaloṅ ki pehchaan hai azaadaari
   Husain waaloṅ ki to jaan hai azaadaari
   Husain waaloṅ ka imaan hai azaadaari
@@ -56,6 +61,7 @@ romanLyrics: |-
   Jahaṅ Husain wahaṅ la ilaha illallah
   Khatib-e-nok-e-sinaaṅ la ilaha illallah
 
+  6
   Basi hai Karb o Bala to koi jawaaz bhi hai
   Luta hai gulshan-e-Zehra to koi raaz bhi hai
   Ye raaz wo hai ke khaaliq ko is pe naaz bhi hai
@@ -65,6 +71,7 @@ romanLyrics: |-
   Jahaṅ Husain wahaṅ la ilaha illallah
   Khatib-e-nok-e-sinaaṅ la ilaha illallah
 
+  7
   Namaaz nafs ki izzat hai auliya ki qasam
   Namaaz din ki hurmat hai ausiya ki qasam
   Namaaz husn-e-sharaafat hai ambiya ki qasam
@@ -76,8 +83,10 @@ romanLyrics: |-
   Yehi namaaz gunaahoṅ se bhi bachaati hai
   Namaaz qabr talak saath saath jaati hai
 
+  8
   La ilaha illallah
 
+  9
   Namaaz wo hai jo faaqoṅ mein Mustafa ne parhi
   Jaga ke apne hi qaatil ko Murtaza ne parhi
   Jo chakkiyoṅ ki mashaqqat mein Faatima ne parhi
@@ -98,6 +107,7 @@ romanLyrics: |-
   Jahaṅ Husain wahaṅ la ilaha illallah
   Khatib-e-nok-e-sinaaṅ la ilaha illallah
 
+  10
   Wo khaima gaah wo sayyidaaniyaṅ wo zikr-e-Khuda
   Jahaṅ musalle pe Zainab Rabaab aur Fizza
   Hasan ki bewa Ruqayya Sakina ka sajda
@@ -109,6 +119,7 @@ romanLyrics: |-
   Jahaṅ Husain wahaṅ la ilaha illallah
   Khatib-e-nok-e-sinaaṅ la ilaha illallah
 
+  11
   Magar namaaz se puchho ke Karbala kya hai
   Husain aur tera rishta-e-wafa kya hai
   Kaha namaaz ne sun lo meri baqa kya hai
@@ -132,9 +143,11 @@ romanLyrics: |-
   Ghazab ki tegh chali koi rokta kaise
   Imam-e-waqt the Allah ki riza pe ruke
 
+  12
   Azaan-e-asr suni dekha aalam-e-baala
   Kaha Husain ne subhaana rabbi al aala
 
+  13
   Aayi sadaa-e-ghaib ibaadat ka waqt hai
   Ae Faatima ke laal tilaawat ka waqt hai
   Jannat mein saf bandhi hai imaamat ka waqt hai
@@ -146,6 +159,7 @@ romanLyrics: |-
   Dube hue the khun mein gesu Husain ke
   Tiroṅ ne chhaan daale the pehlu Husain ke
 
+  14
   Neze ka bine Wahaab ne pehlu pe kiya waar
   Kaandhe pe chali saath Zaraara ki bhi talwaar
   Naawak bin Kaahil ka kaleje ke hua waar
@@ -153,6 +167,7 @@ romanLyrics: |-
   Tegheṅ upi hui jo baraabar se chal gayiṅ
   Ghash aa gaya qadam se rikaabeṅ nikal gayiṅ
 
+  15
   Kiuṅ kar kahuṅ ke arsh-e-Khuda khaak par gira
   Khairunnisa ka maah laqa khaak par gira
   Reti pe Mustafa ke jigar ka lahu gira
@@ -164,6 +179,7 @@ romanLyrics: |-
   Jaari thi ye sada ke Nabi ka nawaasa huṅ
   Ammaaṅ pilaao paani main pyaasa huṅ
 
+  16
   Ajab ada se jab namaazi namaaz parh ke gaya
   Behen ke saamne nok-e-sinaaṅ pe charh ke gaya
   Nazar mein bhaai ke sajde ki aab o taab jo thi
@@ -176,9 +192,9 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2622
 # raw_sha256: 4b9ebe2beafd67aa58f5fd7879b57b6f3746df864a4f930f80c0f032e7c9a649
 ---
-
 حسین حسین حسین
 
+۱
 چراغ جلتا رہا
 جو قافلہ تھا رواں وہ قافلہ ہے رواں
 سفر بہ نوکِ سِناں سناں کے ساتھ اذاں
@@ -188,6 +204,7 @@ romanLyrics: |-
 دنوں میں رات میں جنگل میں کوہساروں سے
 صدائیں آنے لگیں اشہد ان لا الٰہ الا اللّٰہ
 
+۲
 یہ ایک بار ہوا اور لا زوال ہوا
 سناں کی نوک پہ سبحان ربی الاعلیٰ
 پکارا کلمۂ توحید بھی جزاک اللہ
@@ -195,6 +212,7 @@ romanLyrics: |-
 جہاں حسین وہاں لا الٰہ الا اللّٰہ
 خطیبِ نوکِ سِناں لا الٰہ الا اللّٰہ
 
+۳
 حسین دین بھی ہے اور دینیات بھی ہے
 حسین کلمۂ توحید کی حیات بھی ہے
 حسین رمزِ خدا بھی خدا صفات بھی ہے
@@ -204,6 +222,7 @@ romanLyrics: |-
 جہاں حسین وہاں لا الٰہ الا اللّٰہ
 خطیبِ نوکِ سِناں لا الٰہ الا اللّٰہ
 
+۴
 وہ گود فاطمہ زہرا کی ہو کے ریگِ تپاں
 وہ صحنِ کعبہ ہو پشتِ رسول یا کہ سناں
 فضائے جنگ ہو یا ہو پیامِ امن و امان
@@ -213,6 +232,7 @@ romanLyrics: |-
 جہاں حسین وہاں لا الٰہ الا اللّٰہ
 خطیبِ نوکِ سِناں لا الٰہ الا اللّٰہ
 
+۵
 حسین والوں کی پہچان ہے عزاداری
 حسین والوں کی تو جان ہے عزاداری
 حسین والوں کا ایمان ہے عزاداری
@@ -222,6 +242,7 @@ romanLyrics: |-
 جہاں حسین وہاں لا الٰہ الا اللّٰہ
 خطیبِ نوکِ سِناں لا الٰہ الا اللّٰہ
 
+۶
 بسی ہے کرب و بلا تو کوئی جواز بھی ہے
 لٹا ہے گلشنِ زہرا تو کوئی راز بھی ہے
 یہ راز وہ ہے کہ خالق کو اس پہ ناز بھی ہے
@@ -231,6 +252,7 @@ romanLyrics: |-
 جہاں حسین وہاں لا الٰہ الا اللّٰہ
 خطیبِ نوکِ سِناں لا الٰہ الا اللّٰہ
 
+۷
 نماز نفس کی عزت ہے اولیاء کی قسم
 نماز دین کی حرمت ہے اوصیاء کی قسم
 نماز حسنِ شرافت ہے انبیاء کی قسم
@@ -242,8 +264,10 @@ romanLyrics: |-
 یہی نماز گناہوں سے بھی بچاتی ہے
 نماز قبر تلک ساتھ ساتھ جاتی ہے
 
+۸
 لا الٰہ الا اللّٰہ
 
+۹
 نماز وہ ہے جو فاقوں میں مصطفیٰ نے پڑھی
 جگا کے اپنے ہی قاتل کو مرتضیٰ نے پڑھی
 جو چکیوں کی مشقت میں فاطمہ نے پڑھی
@@ -264,6 +288,7 @@ romanLyrics: |-
 جہاں حسین وہاں لا الٰہ الا اللّٰہ
 خطیبِ نوکِ سِناں لا الٰہ الا اللّٰہ
 
+۱۰
 وہ خیمہ گاہ وہ سیدانیاں وہ ذکرِ خدا
 جہاں مصلے پہ زینب رباب اور فضہ
 حسن کی بیوہ رقیہ سکینہ کا سجدہ
@@ -275,6 +300,7 @@ romanLyrics: |-
 جہاں حسین وہاں لا الٰہ الا اللّٰہ
 خطیبِ نوکِ سِناں لا الٰہ الا اللّٰہ
 
+۱۱
 مگر نماز سے پوچھو کہ کربلا کیا ہے
 حسین اور تیرا رشتۂ وفا کیا ہے
 کہا نماز نے سن لو میری بقا کیا ہے
@@ -298,9 +324,11 @@ romanLyrics: |-
 غضب کی تیغ چلی کوئی روکتا کیسے
 امامِ وقت تھے اللّٰہ کی رضا پہ رکے
 
+۱۲
 اذانِ عصر سنی دیکھا عالمِ بالا
 کہا حسین نے سبحان ربی الاعلیٰ
 
+۱۳
 آئی صدائے غیب عبادت کا وقت ہے
 اے فاطمہ کے لال تلاوت کا وقت ہے
 جنت میں صف بندھی ہے امامت کا وقت ہے
@@ -312,6 +340,7 @@ romanLyrics: |-
 ڈوبے ہوئے تھے خون میں گیسو حسین کے
 تیروں نے چھان ڈالے تھے پہلو حسین کے
 
+۱۴
 نیزے کا بنے وحاب نے پہلو پہ کیا وار
 کاندھے پہ چلی ساتھ زرارا کی بھی تلوار
 ناوک بن کاہل کا کلیجے کے ہوا وار
@@ -319,6 +348,7 @@ romanLyrics: |-
 تیغیں اپی ہوئی جو برابر سے چل گئیں
 غش آ گیا قدم سے رکابیں نکل گئیں
 
+۱۵
 کیوں کر کہوں کہ عرشِ خدا خاک پر گرا
 خیرالنسا کا ماہ لقا خاک پر گرا
 ریتی پہ مصطفیٰ کے جگر کا لہو گرا
@@ -330,6 +360,7 @@ romanLyrics: |-
 جاری تھی یہ صدا کہ نبی کا نواسا ہوں
 اماں پلاؤ پانی میں پیاسا ہوں
 
+۱۶
 عجب ادا سے جب نمازی نماز پڑھ کے گیا
 بہن کے سامنے نوکِ سِناں پہ چڑھ کے گیا
 نظر میں بھائی کے سجدے کی آب و تاب جو تھی

@@ -26,7 +26,7 @@ romanLyrics: |-
   Meri lahad mein kaise malakut aa sakeṅge
   Munkar Nakir kaise mujh ko dara sakeṅge
   Jab ke meri lahad mein mera Imam hoga
-# source_id: personal_notebook:temp-import-odt-2026-11-08
+# source_note: personal notebook ODT import on 2026-11-08; no unique source record ID
 # source_notes: Transcribed from personal notebook; original Roman/Urdu checked against notebook
 ---
 جب میری زندگی کا لبریز جام ہوگا

@@ -14,6 +14,7 @@ published: true
 # source_url: https://www.nohayonline.com/details_content.php?id=2668
 # raw_sha256: d6df866a6152c1468f942f9d13bbcca7ad79a3a9add0749404ccdd3f39fcc17a
 romanLyrics: |-
+  1
   Ali ki betiyaṅ jab zindan mein asir huiṅ
   Musibateṅ haram-e-Shah par kasir huiṅ
   Rasulzadiyaṅ hakim ki dastgir huiṅ
@@ -21,7 +22,7 @@ romanLyrics: |-
   Kayi dinoṅ se mayassar na aab o dana tha
   Andheri raat thi tuta sa qaidkhana tha
 ---
-
+۱
 علی کی بیٹیاں جب زندان میں اسیر ہوئیں
 مصیبتیں حرمِ شاہ پر کثیر ہوئیں
 رسول زادیاں حاکم کی دستگیر ہوئیں

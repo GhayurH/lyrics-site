@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
-poet: "Rehaan Azmi"
+poet: "Rehan Azmi"
 reciter: "Nadeem Sarwar"
 tags: []
 aliases: []

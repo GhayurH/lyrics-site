@@ -19,6 +19,7 @@ romanLyrics: |-
   One jannat da hona haq daar nayi
   Lao nara Ali da ku ba ku
 
+  1
   Nara Ali da yaani Haq de wali da
   Ku ba ku lao nara Ali da
   Haq da imaam Ali naayaab-e-Rasul ae
@@ -26,17 +27,21 @@ romanLyrics: |-
   Kaabe di ae shaan Ali zinat-e-azaan Ali
   Din te imaan Ali Haq di hai jaan Ali
 
+  2
   Jehnda murshid Ali Sarkaar nayi
   One jannat da hona haq daar nayi
 
+  3
   Ali Ali kehn waale wali ban jaande ne
   Shams Bhattai Laal Bari ban jaande ne
   Le ke sohna naam Ali aakho sar-e-aam Ali
   Haq da payaam Ali bolo subh o shaam Ali
 
+  4
   Jehra manda Ali choṅ sardaar nayi
   One jannat da hona haq daar nayi
 
+  5
   Dil mein sajaaya hua nuri darbaar hai
   Mere aas paas mera Ali Sarkaar hai
   Jaisa huṅ jahaaṅ bhi huṅ Ali hi sang sang hai
@@ -50,17 +55,21 @@ romanLyrics: |-
   Nabi da ae vir Ali jag da amir Ali
   Mominaaṅ da pir Ali saada dastgir Ali
 
+  6
   Jehnde dil wich Ali da pyaar nayi
   One jannat da hona haq daar nayi
 
+  7
   Majma si haajiyaaṅ da Khum da maidaan si
   Man kuntu Maula kita Nabi ne ailaan si
   Maula-e-jahaaṅ Ali Nabi di ae jaan Ali
   Sher-e-Yazdaan Ali shaah-e-mardaaṅ Ali
 
+  8
   Jehra karda Ali da iqraar nayi
   One jannat da hona haq daar nayi
 
+  9
   Allah jaane wasda ae Ali saade saahwaaṅ wich
   Zindagi guzardi hai Ali diyaaṅ chhaawaaṅ wich
   Ali da ae pyaar asaaṅ mangiya duaawaaṅ wich
@@ -77,6 +86,7 @@ romanLyrics: |-
 اونے جنت دا ہونا حق دار نئیں
 لاؤ نعرہ علی دا کو بہ کو
 
+۱
 نعرہ علی دا یعنی حق دے ولی دا
 کو بہ کو لاؤ نعرہ علی دا
 حق دا امام علی نایاب رسول اے
@@ -84,17 +94,21 @@ romanLyrics: |-
 کعبے دی اے شان علی زینت اذان علی
 دین تے ایمان علی حق دی ہے جان علی
 
+۲
 جیہندا مرشد علی سرکار نئیں
 اونے جنت دا ہونا حق دار نئیں
 
+۳
 علی علی کہن والے ولی بن جاندے نے
 شمس بھٹائی لال بری بن جاندے نے
 لے کے سوہنا نام علی آکھو سر عام علی
 حق دا پیام علی بولو صبح و شام علی
 
+۴
 جیہڑا مندا علی چوں سردار نئیں
 اونے جنت دا ہونا حق دار نئیں
 
+۵
 دل میں سجایا ہوا نوری دربار ہے
 میرے آس پاس میرا علی سرکار ہے
 جیسا ہوں جہاں بھی ہوں علی ہی سنگ سنگ ہے
@@ -108,17 +122,21 @@ romanLyrics: |-
 نبی دا اے ویر علی جگ دا امیر علی
 مومناں دا پیر علی ساڈا دستگیر علی
 
+۶
 جیہندے دل وچ علی دا پیار نئیں
 اونے جنت دا ہونا حق دار نئیں
 
+۷
 مجمع سی حاجیاں دا خم دا میدان سی
 من کنت مولا کیتا نبی نے اعلان سی
 مولا جہاں علی نبی دی اے جان علی
 شیر یزداں علی شاہ مرداں علی
 
+۸
 جیہڑا کردا علی دا اقرار نئیں
 اونے جنت دا ہونا حق دار نئیں
 
+۹
 اللہ جانے وسدا اے علی ساڈے ساہواں وچ
 زندگی گزردی ہے علی دیاں چھاواں وچ
 علی دا اے پیار اساں منگیا دعاواں وچ

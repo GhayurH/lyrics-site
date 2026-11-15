@@ -10,6 +10,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
+  1
   Ae Ahl-e-Aza aza ke din aa pahunche
   Gham ki raateṅ buka ke din aa pahunche
   Faryaad ke Fatima ki basti ujri
@@ -18,7 +19,7 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1234
 # raw_sha256: a1194bc57424ede811d62346fe1e4c1f27b85c53461c68c0e8480ce71e965e16
 ---
-
+۱
 اے اہلِ عزا عزا کے دن آ پہنچے
 غم کی راتیں بکا کے دن آ پہنچے
 فریاد کہ فاطمہ کی بستی اُجڑی

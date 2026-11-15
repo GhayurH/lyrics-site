@@ -1,7 +1,7 @@
 ---
 title: "کب آؤ گے مولا"
 alternateTitle: "Kab Aaoge Maula"
-poet: "Sibt-e-Jafar"
+poet: "Sibte Jafar"
 reciter: "Mir Hasan Mir"
 language: "Urdu"
 lang: "ur"

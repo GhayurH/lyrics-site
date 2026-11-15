@@ -8,7 +8,7 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: true
-reciter: "Tableegh e Imamia"
+reciter: "Tableegh-e-Imamia"
 romanLyrics: |-
   Al atash ki dar-e-khaime se sada aane lagi
 

@@ -6,7 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Nasir Zaidi"
-poet: "Rehaan Azmi"
+poet: "Rehan Azmi"
 tags: []
 aliases: []
 published: true

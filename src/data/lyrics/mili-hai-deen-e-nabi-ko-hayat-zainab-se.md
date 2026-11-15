@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
-poet: "Rehaan Azmi"
+poet: "Rehan Azmi"
 reciter: "Syed Wajhi Hasan Zaidi"
 tags: []
 aliases: ["Mili Hai Deen-e-Nabi Ko Hayat Zainab Se"]

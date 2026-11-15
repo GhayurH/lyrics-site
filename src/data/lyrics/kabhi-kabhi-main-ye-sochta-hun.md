@@ -220,7 +220,7 @@ romanLyrics: |-
   Falak ki bahein khuli hui hain
   Ye kaf o kaun o makan pe chha ja
   Tu nur hai nur mein sama ja
-# source_id: personal_notebook:temp-import-odt-2026-11-08
+# source_note: personal notebook ODT import on 2026-11-08; no unique source record ID
 # editorial_note: Notebook has divergent Roman and Urdu stanzas; both reconciled by meaning and full wording needs independent audio confirmation
 ---
 کبھی کبھی میں یہ سوچتا ہوں، یہ سوچتا ہوں کبھی کبھی میں

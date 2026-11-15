@@ -16,7 +16,6 @@ const lyrics = defineCollection({
     recitationId: z.string().regex(/^[\\p{L}\\p{N}_/\\-]{1,160}$/u).optional(),
     language: z.enum([
       "Urdu",
-      "Roman Urdu",
       "Arabic",
       "Persian",
       "English",

@@ -18,6 +18,7 @@ romanLyrics: |-
   Ya Husain ya Husain ya Husain ya Husain
   Maula ya Husain maula ya Husain
 
+  1
   Husain ka jo sog hai na khatm hoga ba Khuda
   Muharram o Safar na ho to gham na hoga saath kya
   Zindagi ke saath bhi zindagi ke baad bhi
@@ -35,8 +36,10 @@ romanLyrics: |-
   Aap ka saath ho aap ki baat ho
   Dil mera apna azakhana bana do
 
+  2
   Maula maula Husain ya maula Husain
 
+  3
   Zindagi ke saath bhi zindagi ke baad bhi
   Baadshah hamara ya Husain
   Husain
@@ -46,6 +49,7 @@ romanLyrics: |-
   Jaanam ya Husain jaanam ya Husain
   Jaanam ya Husain Husain Husain
 
+  4
   Zinda wafadari rahe farsh-e-azadari rahe
   Tujh pe jiye tujh pe mare naukri ye chalti rahe
   Hum rahe na rahe hum jiye na jiye hum chale ya ruke
@@ -63,6 +67,7 @@ romanLyrics: |-
   Zindagi ke saath bhi zindagi ke baad bhi
   Baadshah hamara ya Husain
 
+  5
   Tera ye gham saath rahe tera karam saath rahe
   Chalte rahe ahl-e-aza aur alam saath rahe
   Har qadam dam badam saath ho tera gham
@@ -87,6 +92,7 @@ romanLyrics: |-
   Zindagi ke saath bhi zindagi ke baad bhi
   Baadshah hamara ya Husain
 
+  6
   Maula mere dil ki sada maang raha huṅ ye dua
   Maula tere naam rahe jina mera marna mera
   Ae Khuda sun sada hai yehi ilteja tu dikha Karbala
@@ -104,6 +110,7 @@ romanLyrics: |-
   Zindagi ke saath bhi zindagi ke baad bhi
   Baadshah hamara ya Husain
 
+  7
   Aaqa Shah-e-Karbobala tu ne bara kaam kiya
   Din pe sab waar diya phir bhi tera sar na jhuka
   Ghar diya sar diya bach gaya la ilaah saj gayi Karbala
@@ -127,6 +134,7 @@ romanLyrics: |-
   Zindagi ke saath bhi zindagi ke baad bhi
   Baadshah hamara ya Husain
 
+  8
   Jite raho ahl-e-aza dil mein rahe Karbobala
   Shaad raho chalte raho pehne hue shaal-e-aza
   Hai dua ho sada har jagah ye aza ye sada ye nawa
@@ -150,6 +158,7 @@ romanLyrics: |-
   Zindagi ke saath bhi zindagi ke baad bhi
   Baadshah hamara ya Husain
 
+  9
   Nabi Ali o Fatima Hasan ke chain marhaba
   Maula maula Husain ya maula Husain
   Khuda ke nur Panjetan ke nur-e-ain marhaba
@@ -172,11 +181,11 @@ romanLyrics: |-
   Husain ya Husain
   Husain ya Husain
 ---
-
 مولا یا حسین مولا یا حسین
 یا حسین یا حسین یا حسین یا حسین
 مولا یا حسین مولا یا حسین
 
+۱
 حسین کا جو سوگ ہے نہ ختم ہوگا با خدا
 محرم و صفر نہ ہو تو غم نہ ہو گا ساتھ کیا
 زندگی کے ساتھ بھی زندگی کے بعد بھی
@@ -194,8 +203,10 @@ romanLyrics: |-
 آپ کا ساتھ ہو آپ کی بات ہو
 دل میرا اپنا عزاخانہ بنا دو
 
+۲
 مولا مولا حسین یا مولا حسین
 
+۳
 زندگی کے ساتھ بھی زندگی کے بعد بھی
 بادشاہ ہمارا یا حسین
 حسین
@@ -205,6 +216,7 @@ romanLyrics: |-
 جانم یا حسین جانم یا حسین
 جانم یا حسین حسین حسین
 
+۴
 زندہ وفاداری رہے فرشِ عزاداری رہے
 تجھ پہ جیے تجھ پہ مرے نوکری یہ چلتی رہے
 ہم رہے نہ رہے ہم جیے نہ جیے ہم چلے یا رکے
@@ -222,6 +234,7 @@ romanLyrics: |-
 زندگی کے ساتھ بھی زندگی کے بعد بھی
 بادشاہ ہمارا یا حسین
 
+۵
 تیرا یہ غم ساتھ رہے تیرا کرم ساتھ رہے
 چلتے رہے اہلِ عزا اور الم ساتھ رہے
 ہر قدم دم بدم ساتھ ہو تیرا غم
@@ -246,6 +259,7 @@ romanLyrics: |-
 زندگی کے ساتھ بھی زندگی کے بعد بھی
 بادشاہ ہمارا یا حسین
 
+۶
 مولا میرے دل کی صدا مانگ رہا ہوں یہ دعا
 مولا تیرے نام رہے جینا میرا مرنا میرا
 اے خدا سن صدا ہے یہی التجا تو دکھا کربلا
@@ -263,6 +277,7 @@ romanLyrics: |-
 زندگی کے ساتھ بھی زندگی کے بعد بھی
 بادشاہ ہمارا یا حسین
 
+۷
 آقا شہِ کربوبلا تو نے بڑا کام کیا
 دین پہ سب وار دیا پھر بھی تیرا سر نہ جھکا
 گھر دیا سر دیا بچ گیا لا الٰہ بچ گئی کربلا
@@ -286,6 +301,7 @@ romanLyrics: |-
 زندگی کے ساتھ بھی زندگی کے بعد بھی
 بادشاہ ہمارا یا حسین
 
+۸
 جیتے رہو اہلِ عزا دل میں رہے کربوبلا
 شاد رہو چلتے رہو پہنے ہوئے شالِ عزا
 ہے دعا ہو صدا ہر جگہ یہ عزا یہ صدا یہ نوا
@@ -309,6 +325,7 @@ romanLyrics: |-
 زندگی کے ساتھ بھی زندگی کے بعد بھی
 بادشاہ ہمارا یا حسین
 
+۹
 نبی علی و فاطمہ حسن کے چین مرحبا
 مولا مولا حسین یا مولا حسین
 خدا کے نور پنجتن کے نورِ عین مرحبا

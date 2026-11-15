@@ -5,7 +5,7 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
-poet: "Rehaan Azmi"
+poet: "Rehan Azmi"
 tags: []
 aliases: ["Mohamed Hamare", "صل علٰی نبیینا صلی علی محمدن"]
 published: true

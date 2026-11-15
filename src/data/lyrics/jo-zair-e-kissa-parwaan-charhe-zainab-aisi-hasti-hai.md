@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
-poet: "Sibt-e-Jafar"
+poet: "Sibte Jafar"
 tags: []
 aliases: ["Jo Zair-e-Kissa Parwaan Charhe Zainab Aisi Hasti Hai"]
 published: true

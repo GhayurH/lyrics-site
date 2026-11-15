@@ -41,7 +41,7 @@ romanLyrics: |-
   Sarwar ne uthaaye the sab saathiyoṅ ke laashe
   Shabbir tera laasha ab kaun uthaaye ga
   Zahra Zahra Shabbir ka pursa lo
-# source_id: personal_notebook:temp-import-odt-2026-11-08
+# source_note: personal notebook ODT import on 2026-11-08; no unique source record ID
 # source_notes: Transcribed from personal notebook; original Roman/Urdu checked against notebook
 ---
 کربل کی کہانی جب کوئی بھی سنائے گا

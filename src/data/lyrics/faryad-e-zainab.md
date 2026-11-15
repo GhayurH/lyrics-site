@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Rehaan Azmi"
+poet: "Rehan Azmi"
 reciter: "Shahid Baltistani"
 tags: []
 aliases: ["Faryad E Zainab"]

@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Rehaan Azmi"
+poet: "Rehan Azmi"
 reciter: "Shadman Raza"
 tags: []
 aliases: ["Godhiyon May Sone"]

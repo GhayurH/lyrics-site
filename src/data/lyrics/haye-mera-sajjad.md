@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "N.Sarwar & J. Jaffri"
+poet: "N. Sarwar & J. Jaffri"
 reciter: "Nadeem Sarwar"
 tags: []
 aliases: []

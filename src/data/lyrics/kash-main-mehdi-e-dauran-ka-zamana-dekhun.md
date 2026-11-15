@@ -32,7 +32,7 @@ romanLyrics: |-
   5
   Arsalan Azmi karta hai Karim ek dua
   Turbat-e-Fatima Zehra pe main rauza dekhuṅ
-# source_id: personal_notebook:temp-import-odt-2026-11-08
+# source_note: personal notebook ODT import on 2026-11-08; no unique source record ID
 # editorial_note: Notebook transcription; newly supplied Urdu where the notebook contains Roman only
 ---
 کاش میں مہدیِ دوراں کا زمانہ دیکھوں

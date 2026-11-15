@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
-poet: "Sibt-e-Jafar"
+poet: "Sibte Jafar"
 reciter: "Syed Wajhi Hasan Zaidi"
 tags: []
 aliases: ["jab-imam-aayenge-wajhi-hasan-zaidi", "Jab Imam Aayenge Wajhi Hasan Zaidi"]

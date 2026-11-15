@@ -4,7 +4,7 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Dua
-poet: "Rehaan Azmi"
+poet: "Rehan Azmi"
 tags: []
 aliases: []
 recitationId: "dua-e-kumail-nadeem-sarwar"

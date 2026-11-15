@@ -6,7 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hasan"
-reciter: "Tableegh e Imamia"
+reciter: "Tableegh-e-Imamia"
 tags: []
 aliases: ["Chala Jab Khafile"]
 published: true

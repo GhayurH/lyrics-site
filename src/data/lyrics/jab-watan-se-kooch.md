@@ -11,6 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
+  1
   Jab watan se kuch ki Muslim ki tayyaari hui
   Khaana-e-Aal-e-Aba mein girya o zaari hui
   Donoṅ betoṅ ki jo rukhsat maaṅ se yak baari hui
@@ -21,6 +22,7 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2700
 # raw_sha256: 8242a39e920eba0eee489d9e3b7d4ff97aebeaa5fff66e34c4be4705cc4fc5b3
 ---
+۱
 جب وطن سے کوچ کی مسلم کی تیاری ہوئی
 خانۂ آلِ عبا میں گریہ و زاری ہوئی
 دونوں بیٹوں کی جو رخصت ماں سے یک باری ہوئی

@@ -5,7 +5,7 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Manqabat
-poet: Sibt-e-Jafar
+poet: "Sibte Jafar"
 reciter: Syed Wajhi Hasan Zaidi
 tags: []
 aliases: ["Mula Ab Aa Bhi Jaein Kab Se Bula Rahe Hain"]

@@ -157,13 +157,13 @@ export function reviewMarkdown(source: MarkdownSource): ReviewedMarkdown {
     for (const field of ["title", "language", "lang", "direction", "kalamType"]) {
       if (!fields[field]) record(issues, path, 2, "missing-metadata", "Missing " + field + " field");
     }
-    const isUrdu = fields.lang === "ur" || fields.language === "Urdu";
+    const isUrdu = fields.direction === "rtl" && (fields.lang === "ur" || fields.language === "Urdu");
     if (isUrdu) {
       if (fields.direction && fields.direction !== "rtl") record(issues, path, 2, "direction", "Urdu direction is not rtl");
       if (fields.title && /[A-Za-z]/u.test(fields.title))
         record(issues, path, 2, "latin-in-urdu-title", "Latin letters in Urdu title");
       checkLines(path, body, bodyLine, "urdu", issues);
-    } else if (fields.lang === "en") checkLines(path, body, bodyLine, "roman", issues);
+    } else if (fields.direction === "ltr" && (fields.lang === "ur" || fields.lang === "en")) checkLines(path, body, bodyLine, "roman", issues);
 
     if (isUrdu && !roman?.trim()) record(issues, path, 2, "missing-roman", "No Roman Urdu edition found");
     if (roman !== undefined && romanLine !== undefined) {

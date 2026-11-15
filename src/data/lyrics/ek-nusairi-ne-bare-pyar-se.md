@@ -72,7 +72,7 @@ romanLyrics: |-
   Us ki hatdharmi pe aakhir mujhe kehna hi para
   Is se pehle ke tu ho jaaye giraftaar-e-bala
   Tu bhi meri tarah Shia ho ja
-# source_id: personal_notebook:temp-import-odt-2026-11-08
+# source_note: personal notebook ODT import on 2026-11-08; no unique source record ID
 # editorial_note: Notebook transcription; newly supplied Urdu where the notebook contains Roman only
 ---
 ایک نصیری نے بڑے پیار سے کل مجھ سے کہا

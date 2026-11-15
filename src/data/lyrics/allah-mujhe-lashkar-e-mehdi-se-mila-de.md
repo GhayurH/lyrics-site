@@ -41,7 +41,7 @@ romanLyrics: |-
   Dekhuṅ na agar uthte huwe parda-e-ghaibat
   Aaeṅ jo mere baad yahaṅ Hazrat-e-Hujjat
   Turbat mein aa kar koi mera shana hila de
-# source_id: personal_notebook:temp-import-odt-2026-11-08
+# source_note: personal notebook ODT import on 2026-11-08; no unique source record ID
 # source_notes: Transcribed from personal notebook; original Roman/Urdu checked against notebook
 ---
 اللہ مجھے لشکرِ مہدی سے ملا دے

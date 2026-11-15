@@ -11,6 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
+  1
   Tha hukm ye Yazeed ka paani bashar piyeṅ
   Ghore piyeṅ sawaar piyeṅ aur shutar piyeṅ
   Jo tashna lab jahaaṅ ke haiṅ sab bekhatar piyeṅ
@@ -21,6 +22,7 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1252
 # raw_sha256: 13d72bb5a063a005ef837c16ee43fdcbab366e1898cc993132042a4486e69092
 ---
+۱
 تھا حکم یہ یزید کا پانی بشر پیئیں
 گھوڑے پیئیں سوار پیئیں اور شتر پیئیں
 جو تشنہ لب جہان کے ہیں سب بے خطر پیئیں

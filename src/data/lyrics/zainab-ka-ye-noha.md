@@ -6,7 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ashraf"
-reciter: "Tableegh e Imamia"
+reciter: "Tableegh-e-Imamia"
 tags: []
 aliases: ["Zainab Ka Ye Noha"]
 published: true

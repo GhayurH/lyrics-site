@@ -9,7 +9,7 @@ poet: "Urooj Bijnori"
 tags: []
 aliases: ["Bosagahe Ahmed"]
 published: true
-reciter: "Tableegh e Imamia"
+reciter: "Tableegh-e-Imamia"
 romanLyrics: |-
   Bosa-gaah-e-Ahmad par shamshir nazar aayi
   Yuṅ khwaab-e-Khalili ki taabir nazar aayi

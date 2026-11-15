@@ -6,7 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Qamar Jalalvi"
-reciter: "Sibt-e-Jafar"
+reciter: "Sibte Jafar"
 tags: []
 aliases: []
 published: true

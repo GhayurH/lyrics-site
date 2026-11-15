@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Naat"
-poet: "Sibt-e-Jafar"
+poet: "Sibte Jafar"
 reciter: "Mir Hasan Mir"
 tags: []
 aliases: []

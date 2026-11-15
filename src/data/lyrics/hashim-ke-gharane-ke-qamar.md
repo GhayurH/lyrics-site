@@ -19,7 +19,7 @@ romanLyrics: |-
   2
   Majbur huṅ laachaar huṅ beyaar o madadgaar
   Abbas kate haathoṅ se taqdir bana do
-# source_id: personal_notebook:temp-import-odt-2026-11-08
+# source_note: personal notebook ODT import on 2026-11-08; no unique source record ID
 # source_notes: Transcribed from personal notebook; original Roman/Urdu checked against notebook
 ---
 ہاشم کے گھرانے کے قمر ہے میری فریاد

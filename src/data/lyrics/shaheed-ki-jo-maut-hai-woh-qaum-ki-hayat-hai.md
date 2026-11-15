@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
-poet: "Allama Syed Zill-e-Saqlain Zaidi"
+poet: "Allama Syed Zille Saqlain Zaidi"
 reciter: "Syed Wajhi Hasan Zaidi"
 year: 2009
 tags: []

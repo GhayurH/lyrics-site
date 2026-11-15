@@ -9,7 +9,7 @@ poet: "Gohar Jarchvi"
 tags: []
 aliases: []
 published: true
-reciter: "Tableegh e Imamia"
+reciter: "Tableegh-e-Imamia"
 romanLyrics: |-
   Al madad al madad Ya Ali
   Berida ho ke Zainab chali

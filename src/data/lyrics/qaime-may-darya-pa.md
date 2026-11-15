@@ -11,6 +11,7 @@ tags: []
 aliases: ["Qaime May Darya Pa"]
 published: true
 romanLyrics: |-
+  1
   Khaime mein darya pe kiye jab ke shah-e-waala ne
   Ghera Shabbir ko tab fauj-e-sitam aara ne
   Lab-e-darya na utarne diya jab aada ne
@@ -21,6 +22,7 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1247
 # raw_sha256: 0a7fee17c6d971566435cd6f8745ae8368bde71a10dc34c6b6d5bda7fbe661a1
 ---
+۱
 خیمے میں دریا پہ کیے جب کہ شہ والا
 گھیرا شبیر کو تب فوج ستم آرا نے
 لبِ دریا نہ اترنے دیا جب اعدا نے
