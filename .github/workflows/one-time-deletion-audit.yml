@@ -29,6 +29,30 @@ jobs:
         run: |
           npm ci
           node --experimental-strip-types scripts/recitation-identities.mjs --check
+          node scripts/sync-basta-index.mjs
+          python3 - <<'PY'
+          import json
+          import subprocess
+          from pathlib import Path
+          path = Path("src/data/basta/index.json")
+          original = json.loads(subprocess.check_output(
+              ["git", "show", "HEAD:src/data/basta/index.json"], text=True))
+          current = json.loads(path.read_text("utf-8"))
+          assert len(original) == len(current)
+          found = [x for x in current if
+                   x["sectionRoman"] == "Hamd, Naat-o-Manaqib" and x["number"] == 23]
+          assert len(found) == 1 and found[0]["page"] == 381
+          assert found[0]["romanName"] == "Imam har dusra the Muhammad Baqir"
+          found[0]["romanName"] = "Imaam-e-har do sara the Muhammad-e-Baaqir"
+          changed = [(a, b) for a, b in zip(original, current) if a != b]
+          assert len(changed) >= 2 and len(changed) <= 8, changed
+          for a, b in changed:
+              assert a["page"] in {363, 380, 381, 388, 389, 391}, a
+              assert a["sectionRoman"] == b["sectionRoman"] and a["number"] == b["number"]
+              assert {key for key in a if a[key] != b[key]} <= {"name", "romanName"}, a
+          path.write_text(json.dumps(current, ensure_ascii=False, indent=2) + "\n", "utf-8")
+          print("Verified source-derived Basta title labels:", len(changed), "entries.")
+          PY
           node scripts/sync-basta-index.mjs --check
           npm run check
           npm test
@@ -37,7 +61,7 @@ jobs:
           rm -f scripts/apply-2026-11-15-deletion-audit.py
           rm -f .github/workflows/one-time-basta-id-diagnostics.yml .github/workflows/one-time-deletion-audit.yml
           rm -rf scripts/__pycache__
-          git add -A src/data/recitation/identity-lock.json audit/manual-md-review-tracker.csv audit/lyric-md-rounds.csv audit/import-merge-readiness.md scripts/apply-2026-11-15-deletion-audit.py .github/workflows/one-time-basta-id-diagnostics.yml .github/workflows/one-time-deletion-audit.yml
+          git add -A src/data/basta/index.json src/data/recitation/identity-lock.json audit/manual-md-review-tracker.csv audit/lyric-md-rounds.csv audit/import-merge-readiness.md scripts/apply-2026-11-15-deletion-audit.py .github/workflows/one-time-basta-id-diagnostics.yml .github/workflows/one-time-deletion-audit.yml
           git diff --cached --check
           git diff --cached --stat
           git config user.name 'github-actions[bot]'
