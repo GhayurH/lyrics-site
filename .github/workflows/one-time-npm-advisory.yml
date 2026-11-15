@@ -1,43 +1,59 @@
-name: One-time dependency security diagnosis
+name: One-time Astro vulnerability patch validation
 on:
   push:
     branches:
       - feat/import-overlap-reconciliation-2026-11-05
 permissions:
-  contents: read
+  contents: write
 jobs:
-  audit:
-    if: contains(github.event.head_commit.message, '[inspect-npm-advisory]')
+  patch:
+    if: contains(github.event.head_commit.message, '[apply-npm-advisory]')
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
       - uses: actions/setup-node@v7
         with:
           node-version: '24'
-      - name: Identify exact advisory and nonbreaking fix without modifications
+          cache: npm
+      - name: Patch only the Astro 7 dependency constraint and lockfile
         shell: bash
         run: |
-          npm --version
-          npm audit --json > /tmp/npm-audit.json || true
+          npm install astro@7.4.7 --save --save-prefix='^' --package-lock-only --ignore-scripts --no-audit
           node --input-type=module <<'JS'
-          import fs from "node:fs";
-          const data = JSON.parse(fs.readFileSync("/tmp/npm-audit.json","utf8"));
-          console.log("SECURITY_METADATA", JSON.stringify(data.metadata?.vulnerabilities));
-          for (const [name,issue] of Object.entries(data.vulnerabilities || {}))
-            console.log("VULNERABILITY", JSON.stringify({
-              name, severity:issue.severity, range:issue.range, isDirect:issue.isDirect,
-              via:issue.via, effects:issue.effects, nodes:issue.nodes, fixAvailable:issue.fixAvailable
-            }));
-          JS
-          npm audit fix --package-lock-only --dry-run --json > /tmp/npm-fix-preview.json || true
-          node --input-type=module <<'JS'
-          import fs from "node:fs";
-          const data = JSON.parse(fs.readFileSync("/tmp/npm-fix-preview.json","utf8"));
-          console.log("FIX_PREVIEW", JSON.stringify({
-            added:data.added,removed:data.removed,changed:data.changed,
-            audit:data.audit?.metadata?.vulnerabilities,
-            error:data.error?.message,
+          import fs from 'node:fs';
+          const root = JSON.parse(fs.readFileSync('package.json','utf8'));
+          const lock = JSON.parse(fs.readFileSync('package-lock.json','utf8'));
+          if(root.dependencies.astro !== '^7.4.7' ||
+             lock.packages[''].dependencies.astro !== '^7.4.7' ||
+             lock.packages['node_modules/astro'].version !== '7.4.7')
+            throw Error('Astro minimum version or lockfile not updated to patched 7.4.7');
+          console.log('ASTRO_PATCH',JSON.stringify({
+            minimum:root.dependencies.astro,
+            installed:lock.packages['node_modules/astro'].version
           }));
           JS
-          git status --short
+          git diff --stat
+          git diff --check
+      - name: Test clean npm install, verify no audit warnings, and check source compatibility
+        shell: bash
+        run: |
+          npm ci
+          npm audit --audit-level=low
+          npm run check
+          npm test
+          node --experimental-strip-types scripts/recitation-identities.mjs --check
+          node scripts/sync-basta-index.mjs --check
+      - name: Commit dependency patch and remove one-time workflow
+        shell: bash
+        run: |
+          rm -f .github/workflows/one-time-npm-advisory.yml
+          git add package.json package-lock.json .github/workflows/one-time-npm-advisory.yml
+          git diff --cached --check
+          git diff --cached --stat
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "Patch Astro 7.4.7 security advisories and lockfile [skip ci]"
+          git push origin HEAD:feat/import-overlap-reconciliation-2026-11-05
