@@ -17,7 +17,7 @@ romanLyrics: |-
 
   2
   Ho ke buland dekhti hai Masjid-e-Nabi
-  Ae bi Bibi tera kitna muqaddas mazaar hai
+  Ae Bibi tera kitna muqaddas mazaar hai
 
   3
   Utheṅ na kiuṅ Rasul bhi taazim ke liye
@@ -64,7 +64,7 @@ romanLyrics: |-
 
 ۲
 ہو کے بلند دیکھتی ہے مسجدِ نبی
-اے بی‌بی‌بی تیرا کتنا مقدس مزار ہے
+اے بی‌بی تیرا کتنا مقدس مزار ہے
 
 ۳
 اٹھیں نہ کیوں رسول بھی تعظیم کے لیے
