@@ -6,60 +6,61 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
+reciter: "Ali Murtaza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ye baat shaah ne maqtal mein khoon se likh di hai
-  Ragay gulu bhi to khanjar ko kaat deti hai
+  Ye baat Shaah ne maqtal mein khun se likh di hai
+  Rag-e-gulu bhi to khanjar ko kaat deti hai
 
   1
-  Dayare karbobala se ubhar gayi tauheed
-  Sipaahe kufr ko be aas kar gayi tauheed
-  Bas ek sajde se dil mein utar gayi tauheed
-  Hussainiyat wo jo baatil ko maat deti hai
+  Diyaar-e-Karb o Bala se ubhar gai tauhid
+  Sipaah-e-kufr ko beaas kar gai tauhid
+  Bas ek sajde se dil mein utar gai tauhid
+  Husainiyat wo jo baatil ko maat deti hai
 
   2
-  Uloohiyat se khulaase jamaal adl hai kya
-  Ali ne sab ko sikhaya amaane asl hai kya
-  Koi hussain se pocche misaale adl hai kya
-  Kahenge aamade hurr khud misaal banti hai
+  Uluhiyat se khulaase jamaal adl hai kya
+  Ali ne sab ko sikhaaya amaan-e-asl hai kya
+  Koi Husain se puchhe misaal-e-adl hai kya
+  Kaheṅ ge aamad-e-Hur khud misaal banti hai
 
   3
-  Khuda ka adl nabuwat se aashkaar hua
-  Khuda ka deen nabuwat se ba-bakhaar hua
-  Magar jo kaare nabuwat ka virsadaar hua
-  Hadees e minniyat usko salaam karti hai
+  Khuda ka adl nabuwwat se aashkaar hua
+  Khuda ka din nabuwwat se ba-bahaar hua
+  Magar jo kaar-e-nabuwwat ka wirsadaar hua
+  Hadis-e-minniyat us ko salaam karti hai
 
   4
-  Hidayaton ke tasalsul mein ab imamat hai
-  Khaleel teri dua ka sabab imamat hai
-  So teri nasl mein aali nasab imamat hai
-  Wohi to khaab ko tabeer baksh deti hai
+  Hidaayatoṅ ke tasalsul mein ab imaamat hai
+  Khalil teri dua ka sabab imaamat hai
+  So teri nasl mein aali nasab imaamat hai
+  Wohi to khwaab ko taabir bakhsh deti hai
 
   5
-  Imame waqt teri muntazir qayamat hai
-  Aur inteqam pe ab muntasir qayamat hai
-  Tu inteqam jo lele to phir qayamat hai
-  Wo inteqam jo har qalb ki tasalli hai
+  Imam-e-waqt teri muntazir qayaamat hai
+  Aur inteqaam pe ab muntasir qayaamat hai
+  Tu inteqaam jo le le to phir qayaamat hai
+  Wo inteqaam jo har qalb ki tasalli hai
 
   6
-  Chale hussain qayamat utha ke qaime se
-  Qadam uthane ke mushkil mein gar qadam na ruke
-  Jigar ko thaam ke ahle haram bahot tadpe
-  Hussain ro diye fizza ne jab dua di hai
+  Chale Husain qayaamat utha ke khaime se
+  Qadam uthaane ke mushkil mein gar qadam na ruke
+  Jigar ko thaam ke ahl-e-haram bahut tarpe
+  Husain ro diye Fizza ne jab dua di hai
 
   7
-  Chali jo taygh hussaini to asr tak na ruki
-  Ye baat taygh ne abbas se kahi hogi
-  Tere hussain ne abbas teri jang ladi
-  Magar ye taygh bhi bas ab niyam honi hai
+  Chali jo tegh-e-Husaini to asr tak na ruki
+  Ye baat tegh ne Abbas se kahi hogi
+  Tere Husain ne Abbas teri jang lari
+  Magar ye tegh bhi bas ab niyaam honi hai
 
   8
-  Utha ke laashae be-sar ko zainabe nachaar
-  Kaha khuda se ke ye hadya e shahe abraar
-  Qubool karle mohamed ka ye jigar afgaar
-  Ye waada bhi shahid shahe huda ki hai
+  Utha ke laasha-e-besar ko Zainab-e-naachaar
+  Kaha Khuda se ke ye hadya-e-Shah-e-abraar
+  Qubul kar le Muhammad ka ye jigar afgaar
+  Ye waada bhi Shahid Shah-e-huda ki hai
 # source_id: nohayonline:ab6157de30a5e416b872
 # source_url: https://www.nohayonline.com/details_content.php?id=765
 # raw_sha256: 03a58fe164c307edae600fde4fd4fb505f89a47884fc212fc976446a313eb4a3
@@ -68,15 +69,15 @@ romanLyrics: |-
 رگ گلو بھی تو خنجر کو کاٹ دیتی ہے
 
 ۱
-دیار کربوبلا سے ابھر گیء توحید
-سپاہ کفر کو بے آس کر گیء توحید
+دیار کرب و بلا سے ابھر گئی توحید
+سپاہ کفر کو بے آس کر گئی توحید
 بس ایک سجدے سے دل میں اتر گئی توحید
 حسینیت وہ جو باطل کو مات دیتی ہے
 
 ۲
 علوعیت سے خلاصے جمال عدل ہے کیا
 علی نے سب کو سکھایا امان اصل ہے کیا
-کوی حسین سے پوچھے مثال عدل ہے کیا
+کوئی حسین سے پوچھے مثال عدل ہے کیا
 کہیں گے آمد حر قد مثال بنتی ہے
 
 ۳
@@ -88,7 +89,7 @@ romanLyrics: |-
 ۴
 ہدایتوں کے تسلسل میں اب امامت ہے
 خلیل تیری دعا کا سبب امامت ہے
-سو تیری نسل میں عالی نصب امامت ہے
+سو تیری نسل میں عالی نسب امامت ہے
 وہی تو خواب کو تعبیر بخش دیتی ہے
 
 ۵
@@ -101,7 +102,7 @@ romanLyrics: |-
 چلے حسین قیامت اٹھا کے خیمے سے
 قدم اٹھانے کے مشکل میں گر قدم نہ رکے
 جگر کو تھام کے اہل حرم بہت تڑپے
-حسین رودیےء فضہ نے جب دعا دی ہے
+حسین رو دیے فضہ نے جب دعا دی ہے
 
 ۷
 چلی جو تیغ حسینی تو عصر تک نہ رکی
@@ -110,7 +111,7 @@ romanLyrics: |-
 مگر یہ تیغ بھی بس اب نیام ہونی ہے
 
 ۸
-اٹھا کے لاشہء بے سر کو زینب ناچار
-کہا خدا سے کہ یہ ہدیہء شہ ابرار
+اٹھا کے لاشۂ بے سر کو زینب ناچار
+کہا خدا سے کہ یہ ہدیۂ شہ ابرار
 قبول کرلے محمد کا یہ جگر افگار
 یہ وعدہ بھی شہید شاہ ہدا کی ہے

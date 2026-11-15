@@ -1,88 +1,89 @@
 ---
 title: "صدیوں کے ہر اک ظلم کو کیسے لکھوں"
-alternateTitle: "Ye Baat Areeze May"
+alternateTitle: "Ye Baat Arize Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shahid Jafer"
+reciter: "Murtaza-Riaz"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ye Baat Areeze May"]
 published: false
 romanLyrics: |-
-  Sadiyon ke har ek zulm ko kaise likhoo
-  Jo dard hai seene mein nahi likh sakta
-  Aap aaye to qadmon pa giroo arz karoo
-  Har baat areeze mein nahi likh sakta
-  Ya imam ya imam ya imam ya imam
-  Ye baat areeze mein nahi likh sakta
+  Sadiyoṅ ke har ek zulm ko kaise likhuṅ
+  Jo dard hai sine mein nahiṅ likh sakta
+  Aap aaeṅ to qadmoṅ pa giruṅ arz karuṅ
+  Har baat arize mein nahiṅ likh sakta
+  Ya Imam ya Imam ya Imam ya Imam
+  Ye baat arize mein nahiṅ likh sakta
 
   1
-  Dukh ye hai ke ghairon ke ilawa humne
-  Apno se bhi hum saaye mein paaya humne
-  Ye mimbar-o-mehrab ke saudagar log
-  Jinke liye khud ko bhi mitaya humne
+  Dukh ye hai ke ghairoṅ ke ilaawa hum ne
+  Apnoṅ se bhi hum saaye mein paaya hum ne
+  Ye minbar o mihraab ke saudaagar log
+  Jin ke liye khud ko bhi mitaaya hum ne
 
   2
-  Is tarha se is deen ki khidmat ki hai
-  Majlis mein dil-o-jaan se khitabat ki hai
-  Aur bait ke mimbar pe bade faqr ke saath
-  Is zikr ki laakhon mein tijarat ki hai
+  Is tarah se is din ki khidmat ki hai
+  Majlis mein dil o jaan se khitaabat ki hai
+  Aur baith ke minbar pe bare fakhr ke saath
+  Is zikr ki laakhoṅ mein tijaarat ki hai
 
   3
-  Fankaar bhi shayar bhi sadakaar bhi hum
-  Ehsaas nahi hai ke adakar bhi hum
-  Naghmon ko bhi nauhon mein badalte hai humhi
-  Kehne ko shah-e-deen ke azadar bhi hum
+  Fankaar bhi shaayar bhi sadaakaar bhi hum
+  Ehsaas nahiṅ hai ke adaakaar bhi hum
+  Naghmoṅ ko bhi nauhoṅ mein badalte haiṅ hum hi
+  Kehne ko Shaah-e-diṅ ke azaadaar bhi hum
 
   4
-  Aur doosri jaanib ye rawayya barta
-  Matam ki sakhawat ko bhi tabdeel kiya
-  Aur maang ke isnad e kisa apno se
-  Khud aaya e tatheer ko mashkook kiya
+  Aur dusri jaanib ye rawayya barta
+  Maatam ki sakhaawat ko bhi tabdil kiya
+  Aur maaṅg ke asnaad-e-kisa apnoṅ se
+  Khud aaya-e-tathir ko mashkuk kiya
 
   5
-  Lekin ye haqeeqat hai ke ay amre khuda
-  Kam wo hai jinhe daulat-o-shohrat ne dasa
-  Ay aksariyat qaum ki mukhlis ke jisay
-  Maqsad he hata hi nahi sakte wallah
+  Lekin ye haqiqat hai ke ae amr-e-Khuda
+  Kam wo haiṅ jinheṅ daulat o shohrat ne dasa
+  Ae aksariyat qaum ki mukhlis ke jise
+  Maqsad he hata hi nahiṅ sakte wallaah
 
   6
-  Hum log namazi bhi azadar bhi hai
-  Aur apni shahadat ke talabgaar bhi hai
-  Ye dushmane hyder se bhi kehde koi
-  Har tarha se jaan dene pe tayyar bhi hai
+  Hum log namaazi bhi haiṅ azaadaar bhi haiṅ
+  Aur apni shahaadat ke talabgaar bhi haiṅ
+  Ye dushman-e-Haidar se bhi keh de koi
+  Har tarah se jaan dene par tayyaar bhi haiṅ
 
   7
-  Nazron mein hai wo karbobala ka manzar
-  Barchi mein tha jis dam ali akbar ka jigar
-  Maqtal ki zameen surkh hui jaati thi
-  Dam tod'ta tha baap ke haathon pa pisar
+  Nazroṅ mein hai wo Karb o Bala ka manzar
+  Barchhi mein tha jis dam Ali Akbar ka jigar
+  Maqtal ki zamin surkh hui jaati thi
+  Dam torta tha baap ke haathoṅ pa pisar
 
   8
-  Chalta ha wo ek teer jo seh-shoba hai
-  Is zulm pe tareekh bhi sharminda hai
-  Wo teer jo asghar ke galay par hai laga
-  Wo teer har ek qalb mein paywasta hai
+  Chalta hai wo ek tir jo seh-shoba hai
+  Is zulm pe taarikh bhi sharminda hai
+  Wo tir jo Asghar ke gale par hai laga
+  Wo tir har ek qalb mein paiwasta hai
 
   9
-  Bedasti ke aankhon mein jo ye aansu hai
-  Jazbaat alamdar ke bekaabu hai
-  Shabbir uthaate hai jinhe ro ro kar
-  Saqqaye sakina ke kate baazu hai
+  Bedasti ke aankhoṅ mein jo ye aansu haiṅ
+  Jazbaat Alamdar ke beqaabu haiṅ
+  Shabbir uthaate haiṅ jinheṅ ro ro kar
+  Saqqa-e-Sakina ke kate baazu haiṅ
 
   10
-  Phir waqt ne shahid na ye manzar dekha
-  Kat'ta hua sajde mein koi sar dekha
-  Bemaar ne qaime ka hata kar parda
-  Shabbir ka sar noke sina par dekha
+  Phir waqt ne Shahid na ye manzar dekha
+  Katta hua sajde mein koi sar dekha
+  Bimaar ne khaime ka hata kar parda
+  Shabbir ka sar nok-e-sinaaṅ par dekha
 # source_id: nohayonline:2a86282b50af72abeb39
 # source_url: https://www.nohayonline.com/details_content.php?id=746
 # raw_sha256: 39343cb7a3dc63f62eadbbaf9279ad5feeee7ca804896c7482aabfadd1cfb0de
 ---
 صدیوں کے ہر اک ظلم کو کیسے لکھوں
 جو ہے درد سینے میں نہیں لکھ سکتا
-آک آئیں تو قدموں میں گروں عرض کروں
+آپ آئیں تو قدموں میں گروں عرض کروں
 ہر بات عریضے میں نہیں لکھ سکتا
 یا امام یا امام یا امام یا امام
 یہ بات عریضے میں نہیں لکھ سکتا
@@ -108,8 +109,8 @@ romanLyrics: |-
 ۴
 اور دوسری جانب یہ رویہ برتا
 ماتم کی تقاوت کو بھی تبدیل کیا
-اور مانگ کے اسناد کسائ اپنوں سے
-خود آئیہ تطہیر کو مشکوک کیا
+اور مانگ کے اسناد کسا اپنوں سے
+خود آیہ تطہیر کو مشکوک کیا
 
 ۵
 لیکن یہ حقیقت ہے کہ یہ امر خدا
