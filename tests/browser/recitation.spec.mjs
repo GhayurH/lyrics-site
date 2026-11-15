@@ -406,7 +406,6 @@ test("mobile recitation text card stays inside the controls with long verses", a
     } }) }));
   await page.goto("/recite/read/?draft=" + id);
   const card = page.locator(".recite-work");
-  const toolbar = page.locator(".reading-controls-recitation");
   await expect(card).toBeVisible();
   await expect(card.locator(".lyric-reading-urdu .poetry-stanza-number")).toHaveText("۱");
   await expect(card.locator(".lyric-reading-roman .poetry-stanza-number")).toHaveText("1");
