@@ -6,97 +6,101 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Tujhse waada hai ye shahe karbobala
-  Zinda rakhenge hum karbala
-  Karbala karbala karbala ya husain
+  Tujh se waada hai ye Shah-e-Karbobala
+  Zinda rakheṅge hum Karbala
 
-  Apni aawaz mein apne andaaz mein
-  Apne anjaam mein apne aghaaz mein
+  Karbala Karbala Karbala ya Husain
+  Zinda rakheṅge hum Karbala
+
+  Apni aawaaz meiṅ apne andaaz meiṅ
+  Apne anjaam meiṅ apne aaghaaz meiṅ
   Hum sada
+  Zinda rakheṅge hum Karbala
 
   1
-  Apni naslon ko paigham de hum yehi
-  Matame shaahe deen karz hai har ghadi
-  Maqsade karbala aam karte raho
-  Wakf kar do ghame shaah mein zindagi
-  Apne paigham mein apne ehkaam mein
-  Apne aaraam mein apne har kaam mein
+  Apni nasloṅ ko paighaam de hum yehi
+  Maatam-e-Shaah-e-Diṅ qarz hai har ghari
+  Maqsad-e-Karbala aam karte raho
+  Waqf kar do gham-e-Shaah meiṅ zindagi
+  Apne paighaam meiṅ apne ehkaam meiṅ
+  Apne aaraam meiṅ apne har kaam meiṅ
   Hum sada
 
   2
-  Suraton mein takaza ye karta rahe
+  Suratoṅ meiṅ taqaaza ye karta rahe
   Tum raho na raho haq to zinda rahe
-  Saans ruk jaye kat jaye chaahe zaban
-  Khoon behta rahe aur ye kehta rahe
-  Apne tash'heer mein apni tafseer mein
-  Apni tehreer mein apni taqreer mein
+  Saaṅs ruk jaaye kat jaaye chaahe zabaaṅ
+  Khun behta rahe aur ye kehta rahe
+  Apne tashhir meiṅ apni tafsir meiṅ
+  Apni tahrir meiṅ apni taqrir meiṅ
   Hum sada
 
   3
-  Maa ne gutthi mein hum ko pilaya hai kya
-  Karbala karbala karbala karbala
-  Bolna yun sikhaya ke bolo zara
-  Karbala karbala karbala karbala
-  Apne azhaan mein apne wajdaan mein
-  Apne eemaan mein apne aelaan mein
+  Maaṅ ne ghutti meiṅ hum ko pilaaya hai kya
+  Karbala Karbala Karbala Karbala
+  Bolna yuṅ sikhaaya ke bolo zara
+  Karbala Karbala Karbala Karbala
+  Apne azhaan meiṅ apne wajdaan meiṅ
+  Apne imaan meiṅ apne aelaan meiṅ
   Hum sada
 
   4
-  Zuljana ho amaari alam taaziye
-  Ye alamaat hai mit na jaaye kahin
-  Mannati hathkadi aur kalawe jo hai
-  Saari dunya mein ye apni pehchan hai
-  Apni aasaar mein apni guftaar mein
-  Apne eesaar mein apne kirdaar mein
+  Zuljanaah ho amaari alam taaziye
+  Ye alaamaat hai mit na jaaye kahiṅ
+  Mannati hathkari aur kalaawe jo hai
+  Saari dunya meiṅ ye apni pehchaan hai
+  Apni aasaar meiṅ apni guftaar meiṅ
+  Apne isaar meiṅ apne kirdaar meiṅ
   Hum sada
 
   5
-  Nauha khwani ka mansab mila hai jise
-  Uspe wajib hua bas ye paigham de
-  Tere lehje mein ghazi ki lalkaar ho
-  Aur chehre pe ho karb sajjad ke
-  Apni faryad mein apni uftad mein
-  Apni har yaad mein apne aulaad mein
+  Nauha khwaani ka mansab mila hai jise
+  Us pe waajib hua bas ye paighaam de
+  Tere lehje meiṅ Ghaazi ki lalkaar ho
+  Aur chehre pe ho karb Sajjad ke
+  Apni faryaad meiṅ apni uftaad meiṅ
+  Apni har yaad meiṅ apne aulaad meiṅ
   Hum sada
 
   6
-  Sab ke laashon pe shabbir rote rahe
-  Laashe shabbir par koi ro na saka
-  Ye sitam dekh kar boli sajjad se
-  Binte khyber shikan saani e sayyeda
-  Apne aelaan mein gham ke aewaan mein
-  Gham ke toofan mein jaa ke zindan mein
+  Sab ke laashoṅ pe Shabbir rote rahe
+  Laash-e-Shabbir par koi ro na saka
+  Ye sitam dekh kar boli Sajjad se
+  Bint-e-Khaibar shikan Saani-e-Sayyeda
+  Apne aelaan meiṅ gham ke aiwaan meiṅ
+  Gham ke tufaan meiṅ jaa ke zindaan meiṅ
   Hum sada
 
   7
-  Jab aseeran e gham shaam jaane lage
-  Chashme sajjad se ashk behne lage
-  Bekafan baap ki laash par gir pade
+  Jab asiraan-e-gham Shaam jaane lage
+  Chashm-e-Sajjad se ashk behne lage
+  Bekafan baap ki laash par gir pare
   Mera waada hai ye ro ke kehne lage
-  Apne aazaar mein raahe pur khaar mein
-  Jaa ke bazaar mein aur darbar mein
+  Apne aazaar meiṅ raah-e-purkhaar meiṅ
+  Jaa ke baazaar meiṅ aur darbaar meiṅ
   Hum sada
 
   8
-  Kamsino ki judaai mein asghar ka gham
-  Aur jawano ke gham mein ho akbar ka gham
-  Baap se koi beti bichad jaaye gar
-  Hum manayenge bali sakina ka gham
-  Apne pyaron ka gham bhool jayenge hum
-  Har jagah har qadam maula teri qasam
+  Kamsinoṅ ki judaai meiṅ Asghar ka gham
+  Aur jawaanoṅ ke gham meiṅ ho Akbar ka gham
+  Baap se koi beti bichhar jaaye gar
+  Hum manaaeṅge baali Sakina ka gham
+  Apne pyaaroṅ ka gham bhul jaaeṅge hum
+  Har jagah har qadam Maula teri qasam
   Hum sada
 
   9
-  Jo qalam aur awaaz par karz hai
-  Karz ho wo adaa al madad sayyeda
-  Kaam farhan o mazhar ye karte rahe
-  Qarya qarya sada al madad sayyeda
-  Maqsade karbala chup nahi payega
-  Tujhse waada raha jaan kar ke fida
+  Jo qalam aur aawaaz par qarz hai
+  Qarz ho wo ada Almadad Sayyeda
+  Kaam Farhan o Mazhar ye karte rahe
+  Qarya qarya sada Almadad Sayyeda
+  Maqsad-e-Karbala chhup nahiṅ paayega
+  Tujh se waada raha jaan kar ke fida
   Hum sada
 # source_id: nohayonline:f606362b7a6acbcd1058
 # source_url: https://www.nohayonline.com/details_content.php?id=3429
@@ -104,11 +108,14 @@ romanLyrics: |-
 ---
 تجھ سے وعدہ ہے یہ شہ کربوبلا
 زندہ رکھیں گے ہم کربلا
+
 کربلا کربلا کربلا یا حسین
+زندہ رکھیں گے ہم کربلا
 
 اپنی آواز میں اپنے انداز میں
 اپنے انجام میں اپنے آغاز میں
 ہم صدا
+زندہ رکھیں گے ہم کربلا
 
 ۱
 اپنی نسلوں کو پیغام دے ہم یہی
@@ -131,7 +138,7 @@ romanLyrics: |-
 ۳
 ماں نے گھٹی میں ہم کو پلایا ہے کیا
 کربلا کربلا کربلا کربلا
-بولنا یوں سکھایا کہ بولو زرا
+بولنا یوں سکھایا کہ بولو ذرا
 کربلا کربلا کربلا کربلا
 اپنے اذہان میں اپنے وجدان میں
 اپنے ایمان میں اپنے اعلان میں
@@ -176,18 +183,17 @@ romanLyrics: |-
 ۸
 کمسنوں کی جدائی میں اصغر کا غم
 اور جوانوں کے غم میں ہو اکبر کا غم
-باپ سے کوئی بیٹی بچھڑ جاے گر
-ہم‌ منایینگے بالی سکینہ کا غم
+باپ سے کوئی بیٹی بچھڑ جائے گر
+ہم منائیں گے بالی سکینہ کا غم
 اپنے پیاروں کا غم بھول جائیں گے ہم
 ہر جگہ ہر قدم مولا تیری قسم
 ہم صدا
-
 
 ۹
 جو قلم اور آواز پر قرض ہے
 قرض ہو وہ ادا المدد سیدہ
 کام فرحان و مظہر یہ کرتے رہے
 قریہ قریہ صدا المدد سیدہ
-مقصد کربلا چھپ نہیں پاے گا
+مقصد کربلا چھپ نہیں پائے گا
 تجھ سے وعدہ رہا جان کر کے فدا
 ہم صدا
