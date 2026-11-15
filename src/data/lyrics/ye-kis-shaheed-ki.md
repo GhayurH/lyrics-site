@@ -5,56 +5,57 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ye kis shaheed ki mayyat hussain laate hai
-  Zameen larazti hai aflaak thar tharate hai
+  Ye kis shahid ki mayyat Husain laate haiṅ
+  Zamiṅ larazti hai aflaak thar tharaate haiṅ
 
   1
-  Padi hai bikhri hui tan pe sehre ki ladiyan
-  Ye phool zakhmon ke tan pe sajaye aate hai
+  Pari hai bikhri hui tan pe sehre ki lariyaaṅ
+  Ye phul zakhmoṅ ke tan pe sajaae aate haiṅ
 
   2
-  Khadi hai dar pe jo maa peet'ti hui sar ko
-  Dikhaye laashe ko kaise ye soche jaate hai
+  Khari hai dar pe jo maaṅ pitti hui sar ko
+  Dikhaae laashe ko kaise ye soche jaate haiṅ
 
   3
-  Lipat ke laate hai chadar ke goshe may rakh kar
-  Saron pe khaak baraati sabhi udaate hai
+  Lipat ke laate haiṅ chaadar ke goshe mein rakh kar
+  Saroṅ pe khaak baraati sabhi uraate haiṅ
 
   4
-  Dulhan na aaye kahin shor e girya ko sun kar
-  Jo baar baar abaa may isay chipaate hai
+  Dulhan na aae kahiṅ shor-e-girya ko sun kar
+  Jo baar baar aba mein ise chhupaate haiṅ
 
   5
-  Ye kaisi laash hai baandhi hui hai gathdi may
-  Bata rahe hai kisi ko kabhi chipaate hai
+  Ye kaisi laash hai baandhi hui hai gathri mein
+  Bata rahe haiṅ kisi ko kabhi chhupaate haiṅ
 
   6
-  Utha ke laate hai shabbir laash dulha ki
-  Laraz raha hai badan paon thar tharate hai
+  Utha ke laate haiṅ Shabbir laash dulha ki
+  Laraz raha hai badan paaoṅ thar tharaate haiṅ
 
   7
-  Khade hai qaime ke dar par jo aake ahle haram
-  Baraat dekh ke dulha ki rote jaate hai
+  Khare haiṅ khaime ke dar par jo aa ke ahl-e-haram
+  Baraat dekh ke dulha ki rote jaate haiṅ
 
   8
-  Macha hai qaimon may kohraam haye qasim ka
-  Hussain laash se chadar ko ab hataate hai
+  Macha hai khaimoṅ mein kohraam haae Qasim ka
+  Husain laash se chaadar ko ab hataate haiṅ
 
   9
-  Le aayi laash pe baazu ko thaam kar maadar
-  Dulhan ko dulha ka deedaar ab karaate hai
+  Le aai laash pe baazu ko thaam kar maadar
+  Dulhan ko dulha ka didaar ab karaate haiṅ
 
   10
-  Sajaye thay abhi sandal se maang haye ghazab
-  Usi ko bewa ka ab pairahan pinhaate hai
+  Sajaae the abhi sandal se maaṅg haae ghazab
+  Usi ko bewa ka ab pairahan pinhaate haiṅ
 
   11
-  Saron pe khaak udao mujaab peeto sar
-  Ye aisa gham hai ke is gham may khoon bahate hai
+  Saroṅ pe khaak uraao Mujaab pito sar
+  Ye aisa gham hai ke is gham mein khuṅ bahaate haiṅ
 # source_id: nohayonline:216ebea6d0f44e5d698b
 # source_url: https://www.nohayonline.com/details_content.php?id=1776
 # raw_sha256: 9a09021f5c10ace24d09b77edfc0f5348d4fc73e46d8f050d622e2d1dfc95741
@@ -63,23 +64,23 @@ romanLyrics: |-
 زمیں لرزتی ہے افلاک تھر تھراتے ہیں
 
 ۱
-پڑی ہے بکھری ہوی تن پہ سہرے کی لڑیاں
-یہ پھول زخموں کے تن پہ سجاے آتے ہیں
+پڑی ہے بکھری ہوئی تن پہ سہرے کی لڑیاں
+یہ پھول زخموں کے تن پہ سجائے آتے ہیں
 
 ۲
-کھڑی ہے در پہ جو ماں پیٹتی ہوی سر کو
-دکھاے لاشے کو کیسے یہ سونچے جاتے ہیں
+کھڑی ہے در پہ جو ماں پیٹتی ہوئی سر کو
+دکھائے لاشے کو کیسے یہ سوچے جاتے ہیں
 
 ۳
 لپٹ کے لاتے ہیں چادر کے گوشے میں رکھ کر
 سروں پہ خاک براتی سبھی اڑاتے ہیں
 
 ۴
-دلہن نہ آے کہیں شور گریہ کو سن کر
+دلہن نہ آئے کہیں شورِ گریہ کو سن کر
 جو بار بار عبا میں اسے چھپاتے ہیں
 
 ۵
-یہ کیسی لاش ہے باندھی ہوی ہے گھٹڑی میں
+یہ کیسی لاش ہے باندھی ہوئی ہے گھٹڑی میں
 بتا رہے ہیں کسی کو کبھی چھپاتے ہیں
 
 ۶
@@ -87,11 +88,11 @@ romanLyrics: |-
 لرز رہا ہے بدن پاؤں تھر تھراتے ہیں
 
 ۷
-کھڑے ہیں خیمے کے در پر جو آکے أہل حرم
+کھڑے ہیں خیمے کے در پر جو آ کے اہلِ حرم
 بارات دیکھ کے دولہا کی روتے جاتے ہیں
 
 ۸
-مچا ہے خیموں میں کہرام ہاے قاسم کا
+مچا ہے خیموں میں کہرام ہائے قاسم کا
 حسین لاش سے چادر کو اب بہاتے ہیں
 
 ۹
@@ -99,7 +100,7 @@ romanLyrics: |-
 دلہن کو دولہا کا دیدار اب کراتے ہیں
 
 ۱۰
-سجاے تھے ابھی صندل سے مانگ ہاے غضب
+سجائے تھے ابھی صندل سے مانگ ہائے غضب
 اسی کو بیوہ کا اب پیرہن پہناتے ہیں
 
 ۱۱
