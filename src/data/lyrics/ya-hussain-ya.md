@@ -1,69 +1,70 @@
 ---
 title: "بچھ گیا فرش عزا ہوگیا ماتم بپا"
-alternateTitle: "Ya Hussain Ya"
+alternateTitle: "Ya Husain Ya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Safdar Abbas"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ya Hussain Ya"]
 published: false
 romanLyrics: |-
-  Bich gaya farshe aza hogaya matam bapa
+  Bichh gaya farsh-e-aza ho gaya maatam bapa
+  Aati hai dil se sada haaye Shaah-e-Karbala
+  Karte haiṅ maatam tera haaye qatil-e-jafa
+  Chaand falak par dikha aa gaya maah-e-aza
 
   1
-  Aati hai dil se sada haye shahe karbala
-  Karte hai matam tera haye qateel e jafa
-  Chand falak par dikha aagaya maahe aza
-  Phir safay bich gayi matam ki sada goonj uthi
+  Phir safeṅ bichh gayi maatam ki sada gunj uthi
   Naam lene se mere dil ko aata hai chain
-  Ya hussain ya hussain ya ababdillah
+  Ya Husain ya Husain Aba Abdillah
 
   2
-  Char jaanib ye julooson ki sabeelon ki fiza
-  Aaj har ghar mein azakhana saja hai maula
-  Saari dunya mein bapa hogaya matam tera
-  Phir safay bich gayi matam ki sada goonj uthi
+  Chaar jaanib ye julusoṅ ki sabiloṅ ki fiza
+  Aaj har ghar mein aza khaana saja hai Maula
+  Saari duniya mein bapa ho gaya maatam tera
+  Phir safeṅ bichh gayi maatam ki sada gunj uthi
   Naam lene se mere dil ko aata hai chain
 
   3
-  Saal bhar gham mein tere yun bhi nahi dil ko chain
-  Chand dekha jo moharram ka utha shor o shain
-  Sab azadaron ke lab par hai buka haye hussain
-  Phir safay bich gayi matam ki sada goonj uthi
+  Saal bhar gham mein tere yuṅ bhi nahiṅ dil ko chain
+  Chaand dekha jo Muharram ka utha shor o shain
+  Sab azaadaaroṅ ke lab par hai buka haaye Husain
+  Phir safeṅ bichh gayi maatam ki sada gunj uthi
   Naam lene se mere dil ko aata hai chain
 
   4
-  Mere maula meri har saans tere gham pe nisaar
-  Hai hawa sog mein doobe hue parcham pe nisaar
-  Hai tere matami maula tere matam pe nisaar
-  Phir safay bich gayi matam ki sada goonj uthi
+  Mere Maula meri har saaṅs tere gham pe nisaar
+  Hai hawa sog mein dube hue parcham pe nisaar
+  Hai tere maatami Maula tere maatam pe nisaar
+  Phir safeṅ bichh gayi maatam ki sada gunj uthi
   Naam lene se mere dil ko aata hai chain
 
   5
-  Haye ye chashme tasavvur jo gayi karbobala
+  Haaye ye chashm-e-tasawwur jo gayi Karb o Bala
   Teri gardan pe jo chalta hua khanjar dekha
-  Khaak udaate hai isi gham mein sabhi ahle aza
-  Phir safay bich gayi matam ki sada goonj uthi
+  Khaak uraate haiṅ isi gham mein sabhi ahl-e-aza
+  Phir safeṅ bichh gayi maatam ki sada gunj uthi
   Naam lene se mere dil ko aata hai chain
 
   6
-  Jab bhi hirtaas pe mazhar ne likha haye hussain
-  Maine rote huwe safdar ye kaha haye hussain
-  Yun laga saare jahan mein hai sada haye hussain
-  Phir safay bich gayi matam ki sada goonj uthi
+  Jab bhi qirtaas pe Mazhar ne likha haaye Husain
+  Maine rote hue Safdar ye kaha haaye Husain
+  Yuṅ laga saare jahaaṅ mein hai sada haaye Husain
+  Phir safeṅ bichh gayi maatam ki sada gunj uthi
   Naam lene se mere dil ko aata hai chain
 # source_id: nohayonline:4298ffed594dd6b92356
 # source_url: https://www.nohayonline.com/details_content.php?id=900
 # raw_sha256: f8ec5b5222bfcd3972aa1edff536e594a03205702cea2e83755121bb8ff46c50
 ---
 بچھ گیا فرش عزا ہوگیا ماتم بپا
-
-۱
 آتی ہے دل سے صدا ہاے شہ کربلا
 کرتے ہیں ماتم تیرا ہاے قتیل جفا
 چاند فلک پر دکھا آگیا ماہ عزا
+
+۱
 پھر صفیں بچھ گئی ماتم کی صدا گونج اٹھی
 نام لینے سے میرے دل کو آتا ہے چین
 یا حسین یا حسین ابا عبداللہ
@@ -90,7 +91,7 @@ romanLyrics: |-
 نام لینے سے میرے دل کو آتا ہے چین
 
 ۵
-ہاے یہ چشم تصور جو گیء کربو بلا
+ہاے یہ چشم تصور جو گئی کرب و بلا
 تیری گردن پہ جو چلتا ہوا خنجر دیکھا
 خاک اڑاتے ہیں اسی غم میں سبھی اہل عزا
 پھر صفیں بچھ گئی ماتم کی صدا گونج اٹھی
@@ -98,7 +99,7 @@ romanLyrics: |-
 
 ۶
 جب بھی قرطاس پہ مظہر نے لکھا ہاے حسین
-میں روتے ہوئے صفدر یہ کہا ہاے حسین
+میں نے روتے ہوئے صفدر یہ کہا ہاے حسین
 یوں لگا سارے جہاں میں ہے صدا ہاے حسین
 پھر صفیں بچھ گئی ماتم کی صدا گونج اٹھی
 نام لینے سے میرے دل کو آتا ہے چین

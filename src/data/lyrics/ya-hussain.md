@@ -1,80 +1,81 @@
 ---
 title: "یا حسین, ہاے شام غریباں, یا حسین"
-alternateTitle: "Ya Hussain"
+alternateTitle: "Ya Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ya Hussain"]
 published: false
 romanLyrics: |-
-  Ya hussain, haye sham e ghariban, ya hussain
-  
+  Ya Husain, haaye shaam-e-gharibaaṅ, ya Husain
+
   1
-  Chagayi shaam e ghariban e haram
-  Ab na ghazi hai na ghazi ka alam
-  Ek bemaar hai wo bhi labe dam
-  Saare aalam mein bapa hai matam
-  Jal chuke qaime layeen loot chuke sar se rida
-  Dasht mein aati hai sadaat ke rone ki sada
-  
+  Chhaa gayi shaam-e-gharibaan-e-haram
+  Ab na Ghaazi hai na Ghaazi ka alam
+  Ek bimaar hai wo bhi lab-e-dam
+  Saare aalam mein bapa hai maatam
+  Jal chuke khaime laiṅ lut chuke sar se rida
+  Dasht mein aati hai Saadaat ke rone ki sada
+
   2
-  Ya hussain kushta e tayghe jafa
-  Ya hussain sibte rasool e khuda
-  Haye sar bar sare naiza tera
-  Dar badar legayi fauje aada
-  Be-kafan laashaye be-sar hai ghareeb e zahra
-  Hai badan ghodon se pamaal tera wavaila
-  
+  Ya Husain kushta-e-tegh-e-jafa
+  Ya Husain Sibt-e-Rasul-e-Khuda
+  Haaye sar bar sar-e-neza tera
+  Dar badar le gayi fauj-e-aada
+  Bekafan laasha-e-besar hai gharib-e-Zahra
+  Hai badan ghoroṅ se paamaal tera waawaila
+
   3
-  Nainawa dashte bala karbala
-  Kyun hui jor o jafa karbala
-  Kya thi pyason ki khata karbala
-  Kuch to keh kuch to bata karbala
-  Apne mehmani pe ye bandishe pani kyun kar
-  Jiski maadar ko mehar mein mila hauze kausar
-  
+  Nainawa dasht-e-bala Karbala
+  Kiuṅ hui jaur o jafa Karbala
+  Kya thi pyaasoṅ ki khata Karbala
+  Kuchh to keh kuchh to bata Karbala
+  Apne mehmaani pe ye bandish-e-paani kiuṅ kar
+  Jis ki maadar ko mehr mein mila hauz-e-Kausar
+
   4
   Ek maqtal mein bahattar laashe
-  Bhanje bete bhatije pyase
+  Bhaanje bete bhatije pyaase
   Paara paara huwe saare aise
-  Ek quran ke paare jaise
-  Khaak udh udh ke shaheedo ka kafan banti thi
-  Khuld se fatema zehra ki sada aati thi
-  
+  Ek Quraan ke paare jaise
+  Khaak ur ur ke shahidoṅ ka kafan banti thi
+  Khuld se Faatima Zehra ki sada aati thi
+
   5
-  Ek taraf behta tha darya e furaat
-  Ek taraf pyason pe mushkil thi hayaat
-  Baad e shabbir aseeron ki ye raat
-  Kaise guzri tan e sad paash ke saath
-  Koi bhai ko koi roti thi beton ke liye
-  Bekasi wo thi ke aansu na thay aankhon ke liye
-  
+  Ek taraf behta tha daryaa-e-Furaat
+  Ek taraf pyaasoṅ pe mushkil thi hayaat
+  Baad-e-Shabbir asiroṅ ki ye raat
+  Kaise guzri tan-e-sadpaash ke saath
+  Koi bhaai ko koi roti thi betoṅ ke liye
+  Bekasi wo thi ke aaṅsu na the aaṅkhoṅ ke liye
+
   6
-  Fatema zehra ye deti hai dua
-  Ta qayamat rahe ye farshe aza
-  Yuhin aati rahe matam ki sada
-  Ho har ek lab pe hussaini nauha
-  Hashr mein sheh ke azadaron se pursa loongi
-  Mai azadaron ko jannat ki basharat doongi
-  
+  Faatima Zehra ye deti haiṅ dua
+  Ta qayaamat rahe ye farsh-e-aza
+  Yuṅhi aati rahe maatam ki sada
+  Ho har ek lab pe Husaini noha
+  Hashr mein Shah ke azaadaaroṅ se pursa luṅgi
+  Main azaadaaroṅ ko jannat ki bashaarat duṅgi
+
   7
-  Alwida laashe ghareebul ghuraba
-  Alwida laashe jameel ul shohada
-  Alwida be-kafan o be-watana
-  Alwida aale ghareeb e zehra
-  Zindagi hai to ye seene ye aansu haazir
-  Warna maula hai hamara ye salaame aakhir
-  
+  Alwida laash-e-gharib-ul-ghuraba
+  Alwida laash-e-jamil-ul-shuhada
+  Alwida bekafan o bewatana
+  Alwida aal-e-gharib-e-Zehra
+  Zindagi hai to ye sine ye aaṅsu haazir
+  Warna Maula hai hamaara ye salaam-e-aakhir
+
   8
-  Karte hai sarwar o rehaan dua
-  Hamse raazi ho janabe zehra
-  Dil ki dhadkan mein hai matam ki sada
-  Saare aalam mein biche farshe aza
-  Nasl dar nasl ye matam ye azadaar rahe
-  Panjetan kaar sada inke madadgaar rahe
+  Karte haiṅ Sarwar o Rehaan dua
+  Ham se raazi hoṅ Janaab-e-Zehra
+  Dil ki dharkan mein hai maatam ki sada
+  Saare aalam mein bichhe farsh-e-aza
+  Nasl dar nasl ye maatam ye azaadaar rahe
+  Panjetan kaar sada in ke madadgaar rahe
 # source_id: nohayonline:41b3c0ae0529dcd03b3c
 # source_url: https://www.nohayonline.com/details_content.php?id=187
 # raw_sha256: d825c0df48ebe6e82f544ed3ecfd267327ddfb174d2306741896613ec1e3d422
@@ -83,8 +84,8 @@ romanLyrics: |-
 یا حسین, ہاے شام غریباں, یا حسین
 
 ۱
-چھا گیء شام غریبان حرم
-اب نہ غازی ہے نہ غازی کا الم
+چھا گئی شام غریبان حرم
+اب نہ غازی ہے نہ غازی کا علم
 ایک بیمار ہے وہ بھی لب دم
 سارے عالم میں بپا ہے ماتم
 جل چکے خیمے لعیں لوٹ چکے سر سے ردا
@@ -93,18 +94,18 @@ romanLyrics: |-
 ۲
 یا حسین کشتۂ تیغ جفا
 یا حسین سبط رسول خدا
-ہاےء سر بر سرِ نیزہ تیرا
-دربدر لے گےء بانیء جفا
-بے کفن لاشہء بے سر ہے غریب زہرا
+ہائے سر بر سرِ نیزہ تیرا
+دربدر لے گئے بانیٔ جفا
+بے کفن لاشۂ بے سر ہے غریب زہرا
 ہے بدن گھوڑوں سے پامال تیرا واویلا
 
 ۳
 نینوا دشت بلا کربلا
-کیوں ہویء جورو جفا کربلا
+کیوں ہوئی جور و جفا کربلا
 کیا تھی پیاسوں کی خطا کربلا
 کچھ تو کہہ کچھ تو بتا کربلا
 اپنے مہمانی پہ یہ بندش پانی کیوں کر
-جسکی مادر کو مہر میں ملا حوض کوثر
+جس کی مادر کو مہر میں ملا حوض کوثر
 
 ۴
 ایک مقتل میں بہتر لاشے
@@ -120,22 +121,22 @@ romanLyrics: |-
 بعد شبیر اسیروں کی یہ رات
 کیسے گزری تن صدپاش کے ساتھ
 کوئی بھائی تو کوئی روتی تھی بیٹوں کے لئے
-بیکسی وہ تھی کہ آنسوں نہ تھے رونے کے لئے
+بیکسی وہ تھی کہ آنسو نہ تھے رونے کے لئے
 
 ۶
 فاطمہ زہرا یہ دیتی ہیں دعا
 تا قیامت رہے یہ فرش عزا
 یونہی آتی رہے ماتم کی صدا
 ہو ہر اک لب پہ حسینی نوحہ
-حشر میں شہ کے عزاداروں سے پرسہ لونگی
-میں عزاداروں کو جنت کی بشارت دونگی
+حشر میں شہ کے عزاداروں سے پرسہ لوں گی
+میں عزاداروں کو جنت کی بشارت دوں گی
 
 ۷
 الوداع لاشے غریب الغربا
 الوداع لاشے جمیع الشہداء
 الوداع بیکفن و بیوطنا
 الوداع آل غریب زہرا
-زندگی ہے تو یہ سینے یہ آنسوں حاضر
+زندگی ہے تو یہ سینے یہ آنسو حاضر
 ورنہ مولا ہے ہمارا یہ سلام آخر
 
 ۸
@@ -144,4 +145,4 @@ romanLyrics: |-
 دل کی دھڑکن میں ہے ماتم کی صدا
 سارے عالم میں بچھے فرش عزا
 نسل در نسل یہ ماتم یہ عزادار رہے
-پنجتن کار صدا انکے مددگار رہے
+پنجتن کار سدا ان کے مددگار رہے
