@@ -75,6 +75,17 @@ jobs:
           assert changed['panjabi_language_files']==13,changed
           assert changed['salaam_to_salam']==10,changed
           PY
+      - name: Fix published ID validation pattern
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          path=Path('src/content.config.ts')
+          text=path.read_text('utf8')
+          old=r'regex(/^[\\p{L}\\p{N}_/\\-]{1,160}$/u)'
+          new=r'regex(/^[\p{L}\p{N}_/-]{1,160}$/u)'
+          assert old in text, 'expected pre-existing escaped regex not found'
+          path.write_text(text.replace(old,new,1),'utf8')
+          PY
       - name: Verify schema and source-review compatibility
         run: |
           npm ci
