@@ -6,80 +6,81 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Sibte Jafar"
+reciter: "Tableegh e Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ye thay bain bano ke shaame ghariban
-  Kahan kho gaye ho mere pyare asghar
+  Ye the bain Bano ke shaam-e-gharibaṅ
+  Kahaṅ kho gaye ho mere pyaare Asghar
 
   1
-  Kahin darr na jaana is aafat ke ban mein
-  Kahan jaa chupe ho mere pyare asghar
-  Mai kyun kar tumhe dhoondun andhiyari shab mein
-  Kahan so gaye ho mere pyare asghar
+  Kahiṅ dar na jaana is aafat ke ban mein
+  Kahaṅ jaa chhupe ho mere pyaare Asghar
+  Main kiuṅ kar tumheṅ dhunduṅ andhiyaari shab mein
+  Kahaṅ so gaye ho mere pyaare Asghar
 
   2
-  Suna hai koi hurmala tha sitamgar
-  Chalaya tha teer e sitam jis ne sheh par
-  Humak kar liya tum ne apne galay par
-  Bahot khush hai is par tumhari ye maadar
-  Mujhe surkh roo pesh e binte payambar
-  Tum hi kar gaye ho mere pyare asghar
+  Suna hai koi Hurmala tha sitamgar
+  Chalaaya tha tir-e-sitam jis ne Shah par
+  Humak kar liya tum ne apne gale par
+  Bahut khush hai is par tumhaari ye maadar
+  Mujhe surkh ru pesh-e-bint-e-Payambar
+  Tum hi kar gaye ho mere pyaare Asghar
 
   3
-  Gila to nahi hai tumhe apni maa se
-  Tumhe pani peene ko bheja tha maine
-  Tum aa bhi gaye to sambhalungi kaise
-  Suna hai rasan basta jaana hai yan se
-  Na majboor hoti to jaane na deti
-  Sabhi jaante ho mere pyare asghar
+  Gila to nahiṅ hai tumheṅ apni maaṅ se
+  Tumheṅ paani pine ko bheja tha main ne
+  Tum aa bhi gaye to sambhaaluṅ gi kaise
+  Suna hai rasan basta jaana hai yaaṅ se
+  Na majbur hoti to jaane na deti
+  Sabhi jaante ho mere pyaare Asghar
 
   4
-  Tumhe sheh ne pani pilaya to hoga
-  Tumhe paas apne sulayenge baba
-  Tum ab apne baba ke seene pe sona
-  Na ab koi zid apne baba se karna
-  Na hoga sitam koi is se zyada
-  Jo tum seh chuke ho mere pyare asghar
+  Tumheṅ Shah ne paani pilaaya to hoga
+  Tumheṅ paas apne sulaaeṅ ge baaba
+  Tum ab apne baaba ke sine pe sona
+  Na ab koi zid apne baaba se karna
+  Na hoga sitam koi is se ziyaada
+  Jo tum sah chuke ho mere pyaare Asghar
 
   5
-  Mujhe shaam o kufa bhi jaana hai beta
-  Isi karbala tak tha saath apna beta
+  Mujhe Shaam o Kufa bhi jaana hai beta
+  Isi Karbala tak tha saath apna beta
   Isi ko ab apna muqaddar samajhna
-  Mere paas soyengi bali sakina
-  Qayamat talak ab wahin sote rehna
-  Jahan so rahe ho mere pyare asghar
+  Mere paas soeṅ gi baali Sakina
+  Qayaamat talak ab wahiṅ sote rahna
+  Jahaṅ so rahe ho mere pyaare Asghar
 
   6
-  Wahin ban mein aun o mohamed bhi honge
-  Yaqeenan yateemane muslim bhi honge
-  Tumhari tasalli ko qasim bhi honge
-  Tumhe denge abbas o akbar dilaase
-  Yahan mard sirf ek hai sajjade muztar
-  Jo tum dekhte ho mere pyare asghar
+  Wahiṅ ban mein Aun o Muhammad bhi hoṅ ge
+  Yaqinan yatimaan-e-Muslim bhi hoṅ ge
+  Tumhaari tasalli ko Qasim bhi hoṅ ge
+  Tumheṅ deṅ ge Abbas o Akbar dilaase
+  Yahaṅ mard sirf ek hai Sajjad-e-muztar
+  Jo tum dekhte ho mere pyaare Asghar
 
   7
-  Jalaya layeeno ne qaimon ko aisa
-  Na jhoola tera mai bacha paayi beta
-  Tadapti hai qaime mein bali sakina
-  Wahan muntazir hai madine mein sughra
-  Kisi ki khabar kuch nahi tumko beta
-  Kahan jaa base ho mere pyare asghar
+  Jalaaya lainoṅ ne khaimoṅ ko aisa
+  Na jhula tera main bacha paai beta
+  Tarapti hai khaime mein baali Sakina
+  Wahaṅ muntazir hai Madine mein Sughra
+  Kisi ki khabar kuchh nahiṅ tum ko beta
+  Kahaṅ jaa base ho mere pyaare Asghar
 
   8
-  Sa'adat hai mere liye sibte jafar
-  Likha behre tableegh o nazim jo nauha
-  Nahi daawa fankari aur shayari ka
-  Hai ye bain dar asl dukhiyari maa ka
-  Rahe ta-qayamat ye matam ye nauha
-  Jo tum sun rahe ho mere pyare asghar
+  Saadat hai mere liye Sibt-e-Jafar
+  Likha bahr-e-Tabligh o naazim jo nauha
+  Nahiṅ daawa fankaari aur shaairi ka
+  Hai ye bain dar asl dukhiyaari maaṅ ka
+  Rahe taa qayaamat ye maatam ye nauha
+  Jo tum sun rahe ho mere pyaare Asghar
 # source_id: nohayonline:7677db0f962458194ef0
 # source_url: https://www.nohayonline.com/details_content.php?id=3457
 # raw_sha256: f394f16443b611df81ecd43e50edb771ba0d75c8cfaff3c6071bef129a4b67a2
 ---
 یہ تھے بین بانو کے شام غریباں
-کہاں کھو گےء ہو میرے پیارے اصغر
+کہاں کھو گئے ہو میرے پیارے اصغر
 
 ۱
 کہیں ڈر نہ جانا اس آفت کے بن میں
@@ -88,48 +89,48 @@ romanLyrics: |-
 کہاں سو گئے ہو میرے پیارے اصغر
 
 ۲
-سنا ہے کوی حرملہ تھا ستمگر
+سنا ہے کوئی حرملہ تھا ستمگر
 چلایا تھا تیر ستم جس نے شہ پر
 ہمک کر لیا تم نے اپنے گلے پر
 بہت خوش ہے اس پر تمہاری یہ مادر
 مجھے سرخ رو پیش بنت پیمبر
-تمہیں کر گےء ہو میرے پیارے اصغر
+تمہیں کر گئے ہو میرے پیارے اصغر
 
 ۳
 گلہ تو نہیں ہے تمہیں اپنی ماں سے
 تمہیں پانی پینے کو بھیجا تھا میں نے
-تم آ بھی گےء تو سنبھالوں گی کیسے
+تم آ بھی گئے تو سنبھالوں گی کیسے
 سنا ہے رسن بستہ جانا ہے یاں سے
 نہ مجبور ہوتی تو جانے نہ دیتی
 سبھی جانتے ہو میرے پیارے اصغر
 
 ۴
 تمہیں شہ نے پانی پلایا تو ہوگا
-تمہیں پاس اپنے سلایینگے بابا
+تمہیں پاس اپنے سلائیں گے بابا
 تم اب اپنے بابا کے سینے پہ سونا
 نہ اب کوئی ضد اپنے بابا سے کرنا
-نہ اب کوئی اس سے ذیادہ
+نہ ہوگا ستم کوئی اس سے زیادہ
 جو تم سہہ چکے ہو میرے پیارے اصغر
 
 ۵
 مجھے شام و کوفہ بھی جانا ہے بیٹا
 اسی کربلا تک تھا ساتھ اپنا بیٹا
 اسی کو اب اپنا مقدر سمجھنا
-میرے پاس سوینگی بالی سکینہ
-قیامت تلک اب وہی سوتے رہنا
+میرے پاس سوئیں گی بالی سکینہ
+قیامت تلک اب وہیں سوتے رہنا
 جہاں سو رہے ہو میرے پیارے اصغر
 
 ۶
-وہی بن میں عون و محمد بھی ہونگے
-یقیناً یتیمان مسلم بھی ہونگے
-تمہاری تسلی کو قاسم بھی ہونگے
-تمہیں دینگے عباس و اکبر دلاسے
+وہیں بن میں عون و محمد بھی ہوں گے
+یقیناً یتیمان مسلم بھی ہوں گے
+تمہاری تسلی کو قاسم بھی ہوں گے
+تمہیں دیں گے عباس و اکبر دلاسے
 یہاں مرد صرف ایک ہے سجاد مضطر
 جو تم دیکھتے ہو میرے پیارے اصغر
 
 ۷
 جلایا لعینوں نے خیموں کو ایسا
-نہ جھولا تیرا میں بچا پای بیٹا
+نہ جھولا تیرا میں بچا پائی بیٹا
 تڑپتی ہے خیمے میں بالی سکینہ
 وہاں منتظر ہے مدینے میں صغرا
 کسی کی خبر کچھ نہیں تم کو بیٹا
@@ -138,7 +139,7 @@ romanLyrics: |-
 ۸
 سعادت ہے میرے لئے سبط جعفر
 لکھا بحر تبلیغ و نازم جو نوحہ
-نہیں دعوہ فنکری اور شاعری کا
+نہیں دعویٰ فنکاری اور شاعری کا
 ہے یہ بین در اصل دکھیاری ماں کا
 رہے تا قیامت یہ ماتم یہ نوحہ
 جو تم سن رہے ہو میرے پیارے اصغر
