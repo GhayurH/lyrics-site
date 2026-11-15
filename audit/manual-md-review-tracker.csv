@@ -3807,11 +3807,11 @@ src/data/lyrics/zainab-nay-ki-faryaad-nana.md,standalone_lyrics,preexisting,not_
 src/data/lyrics/zainab-ne-jisko-paala.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
 src/data/lyrics/zainab-ne-kaha-lutgayi.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,,,"Need audio/print: opening and repeated refrain ""ساقیِ کوثر"" (Roman) vs archived Urdu ""ثانی کوثر""."
 src/data/lyrics/zainab-ne-kaha-ye.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
-src/data/lyrics/zainab-ne-kiye-bain.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/zainab-pa-yateemi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/zainab-pukari-ay.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/zainab-sare-uryan.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/zainab-se-poochti.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/zainab-ne-kiye-bain.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,2026-11-15-editorial-zainab-five,,"Need audio/print: s1 ""بحل / bahal""; s3 ""کے جو""; s4 ""ہم سب کہ نگہبار"" vs ""Ham sab ka nigehdaar""; s6 ""جھکے ہے"" vs ""jhukaaye hue""; s7 ""فدیاں"" vs ""fidiya""."
+src/data/lyrics/zainab-pa-yateemi.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,2026-11-15-editorial-zainab-five,,"Need audio/print: s6 Urdu ""اب مجھے زمانے نے"" vs Roman ""Ab mujh se zamaane ne""."
+src/data/lyrics/zainab-pukari-ay.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,2026-11-15-editorial-zainab-five,,"Need audio/print: s4 ""مقنہ / makhna"" and ""ہے اندھیروں کی ردا ہے""; s6 ""کیسے ہے امتی"" (hai vs haiṅ); s9 ""برادر"" vs Roman source ""barabar""; s10 ""سو گئے"" vs Roman source ""so gaya""."
+src/data/lyrics/zainab-sare-uryan.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,2026-11-15-editorial-zainab-five,,"Need audio/print: s1 ""قیامِ حسینی / qayyam e hussaini"" (qiyaam vs khiyaam); s4 Urdu ""معصوم کے در"" vs Roman ""masooma ke durr""."
+src/data/lyrics/zainab-se-poochti.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,2026-11-15-editorial-zainab-five,,
 src/data/lyrics/zainab-shaheed-hogayi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/zainab-tadap-ke.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/zainab-ye-boli.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,

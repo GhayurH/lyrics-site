@@ -1,102 +1,123 @@
 ---
-title: "زینب نے کے بین یہ مرقد سے لپٹ کر"
+title: "زینب نے کیے بین یہ مرقد سے لپٹ کر"
 alternateTitle: "Zainab Ne Kiye Bain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Anees Pehersari"
+reciter: "Ali Zia Rizvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Zainab ne kiye bain ye marqad se lipat kar
+  Utho mere bhaiya, utho mere bhaiya
+
+  Hum aaye haiṅ baazaaroṅ mein darbaaroṅ mein ho kar
   Utho mere bhaiya utho mere bhaiya
-  Hum aaye hai bazaron mein darbaron mein hokar
 
   1
-  Kardije bahal meri khata itni thi majboor
-  Mai bekas o ranjoor
-  Gum hogayi zindan mein amanat teri dukhtar
+  Kar dijiye bahal meri khata itni thi majbur
+  Main bekas o ranjur
+  Gum ho gayi zindaan mein amaanat teri dukhtar
+  Utho mere bhaiya utho mere bhaiya
 
   2
-  Sharminda hoo ye daagh jigar par hai numeinan
-  Ay sayyede zeeshan
-  Purse ke liye aayi hoo bhaiya mai lehad par
+  Sharminda huṅ ye daagh jigar par hai numaayaaṅ
+  Ae Sayyad-e-Zishaan
+  Purse ke liye aayi huṅ bhaiya main lahad par
+  Utho mere bhaiya utho mere bhaiya
 
   3
-  Kis ja pe hai turbat ali asghar ki bata do
+  Kis ja pe hai turbat Ali Asghar ki bata do
   Awaaz suna do
-  Ho koi to surat ke jo tehre dil e madar
+  Ho koi to surat ke jo thehre dil-e-maadar
+  Utho mere bhaiya utho mere bhaiya
 
   4
-  Wo mera wafadar wo jaraar wo ghamkhar
+  Wo mera wafaadaar wo jarraar wo ghamkhwaar
   Ham sab ka nigehdaar
-  Kis ja hai batao mera abbas-e-dilawar
+  Kis ja hai bataao mera Abbas dilaawar
+  Utho mere bhaiya utho mere bhaiya
 
   5
-  Abbas ko batladun sakina ne khaza ki
-  Pyasi hi sidhaari
-  Tum saath chalo mujhse na samhlega ye sun kar
+  Abbas ko batla duṅ Sakina ne qaza ki
+  Pyaasi hi sidhaari
+  Tum saath chalo mujh se na sambhlega ye sun kar
+  Utho mere bhaiya utho mere bhaiya
 
   6
-  Kuch pooch to lo haal e safar kya hui bedaad
-  Batlayega sajjad
-  Baitha hai jhukaye hue sar paas hi dilbar
+  Kuchh puchh to lo haal-e-safar kya hui bedaad
+  Batlaayega Sajjad
+  Baitha hai jhukaaye hue sar paas hi dilbar
+  Utho mere bhaiya utho mere bhaiya
 
   7
-  Kuch boliye mai unko nahi poochungi bhaiya
-  Wo dono thay fidiya
-  Thay aun o mohamad ali akbar se na bad kar
+  Kuchh boliye main unko nahiṅ puchhuṅgi bhaiya
+  Wo donoṅ the fidiya
+  The Aun o Muhammad Ali Akbar se na barh kar
+  Utho mere bhaiya utho mere bhaiya
 
   8
-  Koi na anees aur na humdam na sahara
-  Faryaad khudara
-  Hai waqte madad kijiye halaat ko behtar
+  Koi na Anees aur na hamdam na sahaara
+  Faryaad Khudaara
+  Hai waqt-e-madad kijiye haalaat ko behtar
+  Utho mere bhaiya utho mere bhaiya
 # source_id: nohayonline:400f28532d69663da24e
 # source_url: https://www.nohayonline.com/details_content.php?id=266
 # raw_sha256: 776bef9130b847900935d0a2122a0ab2f6e7d05bdc4a2f101a541ed9c15d1e82
 ---
-زینب نے کے بین یہ مرقد سے لپٹ کر
+زینب نے کیے بین یہ مرقد سے لپٹ کر
 اٹھو میرے بھیا، اٹھو میرے بھیا
-ہم آۓ ہیں بازاروں میں درباروں میں ہو کر
+
+ہم آئے ہیں بازاروں میں درباروں میں ہو کر
+اٹھو میرے بھیا اٹھو میرے بھیا
 
 ۱
 کردیجئے بحل میری خطا اتنی تھی مجبور
 میں بیکس و رنجور
 گم ہوگئی زندان میں امانت تیری دختر
+اٹھو میرے بھیا اٹھو میرے بھیا
 
 ۲
 شرمندہ ہوں یہ داغ جگر پر ہے نمایاں
 اے سید ذیشان
-پرسے کے لئے آی ہوں بھیا میں لحد پر
+پرسے کے لیے آئی ہوں بھیا میں لحد پر
+اٹھو میرے بھیا اٹھو میرے بھیا
 
 ۳
 کس جا پہ ہے تربت علی اصغر کی بتا دو
 آواز سنا دو
-ہو کوئی تو صورت کے جو ٹھرے دل مادر
+ہو کوئی تو صورت کے جو ٹھہرے دل مادر
+اٹھو میرے بھیا اٹھو میرے بھیا
 
 ۴
 وہ میرا وفادار وہ جرار وہ غمخوار
 ہم سب کہ نگہبار
 کس جا ہے بتاؤ میرا عبّاس دلاور
+اٹھو میرے بھیا اٹھو میرے بھیا
 
 ۵
 عباس کو بتلادوں سکینہ نے قضا کی
 پیاسی ہی سدھاری
 تم ساتھ چلو مجھ سے نہ سنبھلے گا یہ سن کر
+اٹھو میرے بھیا اٹھو میرے بھیا
 
 ۶
 کچھ پوچھ تو لو حال سفر کیا ہوئی بیداد
-بتلےیگا سجاد
+بتلائے گا سجاد
 بیٹھا ہے جھکے ہے سر پاس ہی دلبر
+اٹھو میرے بھیا اٹھو میرے بھیا
 
 ۷
-کچھ بولیے می انکو نہیں پوچھونگی بھیا
-وہ دونو تھے فدیاں
-تھے عون و محمد علی اکبر سے نہ بڑھکر
+کچھ بولیے میں ان کو نہیں پوچھوں گی بھیا
+وہ دونوں تھے فدیاں
+تھے عون و محمد علی اکبر سے نہ بڑھ کر
+اٹھو میرے بھیا اٹھو میرے بھیا
 
 ۸
 کوئی نہ انیس اور نہ ہمدم نہ سہارا
 فریاد خدارا
 ہے وقت مدد کیجئے حالات کو بہتر
+اٹھو میرے بھیا اٹھو میرے بھیا

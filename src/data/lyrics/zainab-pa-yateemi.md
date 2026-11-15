@@ -1,71 +1,72 @@
 ---
-title: "زینب پہ یتیمی کی گھڑی آ گیء بابا"
-alternateTitle: "Zainab Pa Yateemi"
+title: "زینب پہ یتیمی کی گھڑی آ گئی بابا"
+alternateTitle: "Zainab Pa Yatimi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rasheed Shaheedi"
+reciter: "Hadi Ali Khan Muslim"
 tags: ["noImage"]
-aliases: []
+aliases: ["Zainab Pa Yateemi"]
 published: false
 romanLyrics: |-
-  Zainab pa yateemi ki ghadi aagayi baba
+  Zainab pa yatimi ki ghari aa gayi baba
   Bin baap ki kehlaati hai beti teri baba
 
   1
-  Amma nahi nana nahi aur tum bhi sidhaare
-  Kis mod pa le aayi hamay zindagi baba
+  Ammaaṅ nahiṅ naana nahiṅ aur tum bhi sidhaare
+  Kis mor pa le aayi hameṅ zindagi baba
 
   2
-  Kitne hi yateemon ko diya tum ne dilaasa
-  Ab hum ko dilaasa nahi deta koi baba
+  Kitne hi yatimoṅ ko diya tum ne dilaasa
+  Ab ham ko dilaasa nahiṅ deta koi baba
 
   3
-  Ab kaun hamay pyar se paas apne bithaye
-  Yaad aati hai shafqat ye hamay aap ki baba
+  Ab kaun hameṅ pyaar se paas apne bithaaye
+  Yaad aati hai shafqat ye hameṅ aap ki baba
 
   4
-  Har aan teri yaad mein rote hai baradar
-  Zainab unhe kis tarha se samjhayegi baba
+  Har aan teri yaad mein rote haiṅ baraadar
+  Zainab unheṅ kis tarah se samjhaayegi baba
 
   5
-  Zakhmi hua sar aap ka allah ke ghar mein
-  Raas aap ko aayi na faza kufe ki baba
+  Zakhmi hua sar aap ka Allah ke ghar mein
+  Raas aap ko aayi na faza Kufe ki baba
 
   6
-  Ek aap ke dam se mere jeene ka maza tha
-  Ab mujhse zamane ne khushi cheenli baba
+  Ek aap ke dam se mere jine ka maza tha
+  Ab mujh se zamaane ne khushi chhin li baba
 
   7
-  Zainab yehi kehti thi rasheed ashk baha kar
-  Ab hogayi veeran faza kufe ki baba
+  Zainab yehi kehti thi Rasheed ashk baha kar
+  Ab ho gayi viraan faza Kufe ki baba
 # source_id: nohayonline:6455ff9ab73a01e261ad
 # source_url: https://www.nohayonline.com/details_content.php?id=3040
 # raw_sha256: 1959ed3dcff1ad0005da19993c46f601a9dc6188def3a33443d8fb1a1ea32cee
 ---
-زینب پہ یتیمی کی گھڑی آ گیء بابا
+زینب پہ یتیمی کی گھڑی آ گئی بابا
 بن باپ کی کہلاتی ہے بیٹی تیری بابا
 
 ۱
 اماں نہیں نانا نہیں اور تم بھی سدھارے
-کس موڑ پہ لے آی ہمیں زندگی بابا
+کس موڑ پہ لے آئی ہمیں زندگی بابا
 
 ۲
 کتنے ہی یتیموں کو دیا تم نے دلاسہ
-اب ہم کو دلاسہ نہیں دیتا کوی بابا
+اب ہم کو دلاسہ نہیں دیتا کوئی بابا
 
 ۳
-اب کون ہمیں پیار سے پاس اپنے بٹھاے
+اب کون ہمیں پیار سے پاس اپنے بٹھائے
 یاد آتی ہے شفقت یہ ہمیں آپ کی بابا
 
 ۴
 ہر آن تیری یاد میں روتے ہیں برادر
-زینب انہیں کس طرح سے سمجھاے گی بابا
+زینب انہیں کس طرح سے سمجھائے گی بابا
 
 ۵
 زخمی ہوا سر آپ کا اللہ کے گھر میں
-راس آپ کو آی نہ فضا کوفے کی بابا
+راس آپ کو آئی نہ فضا کوفے کی بابا
 
 ۶
 ایک آپ کے دم سے میرے جینے کا مزہ تھا
@@ -73,4 +74,4 @@ romanLyrics: |-
 
 ۷
 زینب یہی کہتی تھی رشید اشک بہا کر
-اب ہو گیء ویران فضا کوفے کی بابا
+اب ہو گئی ویران فضا کوفے کی بابا

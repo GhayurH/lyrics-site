@@ -1,41 +1,42 @@
 ---
 title: "زینب سر عریاں ہے عباس چلے آؤ"
-alternateTitle: "Zainab Sare Uryan"
+alternateTitle: "Zainab Sar-e-Uryaaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Tauqeer Kamalvi"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
-aliases: []
+aliases: ["Zainab Sare Uryan"]
 published: false
 romanLyrics: |-
-  Zainab sare uryan hai abbas chale aao
-  Makhdooma pareshan hai abbas chale aao
+  Zainab sar-e-uryaaṅ hai Abbas chale aao
+  Makhduma pareshaaṅ hai Abbas chale aao
 
   1
-  Qayyam e hussaini ko afwaaj ne ghera hai
-  Ghar lutne ka imkan hai abbas chale aao
+  Qiyaam-e-Husaini ko afwaaj ne ghera hai
+  Ghar lutne ka imkaaṅ hai Abbas chale aao
 
   2
-  Shabbir ke laashe par jaane bhi nahi deta
-  Pehre pe musalman hai abbas chale aao
+  Shabbir ke laashe par jaane bhi nahiṅ deta
+  Pehre pe musalmaaṅ hai Abbas chale aao
 
   3
-  Main kaise bachaungi sajjad ko sholon se
-  Aajao to ehsaan hai abbas chale aao
+  Main kaise bachaauṅgi Sajjad ko sholoṅ se
+  Aa jaao to ehsaaṅ hai Abbas chale aao
 
   4
-  Masooma ke durr cheene mere bhai ke qaatil ne
-  Wo khoon may ghaltan hai abbas chale aao
+  Masuma ke durr chhine mere bhaai ke qaatil ne
+  Wo khun mein ghaltaaṅ hai Abbas chale aao
 
   5
-  Mastooron ne haathon may pehni hai rasan ghazi
-  Jaana suye zindan hai abbas chale aao
+  Masturoṅ ne haathoṅ mein pehni hai rasan Ghazi
+  Jaana su-e-zindaaṅ hai Abbas chale aao
 
   6
-  Hota hai jahan matam aate hai wahan ghazi
-  Tauqeer ka emaan hai abbas chale aao
+  Hota hai jahaaṅ maatam aate haiṅ wahaaṅ Ghazi
+  Tauqeer ka imaaṅ hai Abbas chale aao
 # source_id: nohayonline:3e9bfa976592e111a505
 # source_url: https://www.nohayonline.com/details_content.php?id=1613
 # raw_sha256: 0875e250339aec3e7e21f6f55ddbdc70e1d84a7b3105275f8a7b4693619d4385
@@ -53,7 +54,7 @@ romanLyrics: |-
 
 ۳
 میں کیسے بچاؤں گی سجاد کو شعلوں سے
-آجاؤ تو احساں ہے عباس چلے آؤ
+آ جاؤ تو احساں ہے عباس چلے آؤ
 
 ۴
 معصوم کے در چھینے میرے بھائی کے قاتل نے
@@ -61,7 +62,7 @@ romanLyrics: |-
 
 ۵
 مستوروں نے ہاتھوں میں پہنی ہے رسن غازی
-جانا سوے زنداں ہے عباس چلے آؤ
+جانا سوئے زنداں ہے عباس چلے آؤ
 
 ۶
 ہوتا ہے جہاں ماتم آتے ہیں وہاں غازی
