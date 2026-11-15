@@ -6,53 +6,62 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mir Takallum"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hussain jaata hai marne ko ay meri zainab
-  Khareeb aa gaya ab waqt e aakhri zainab
-  Salam tumpe ay baba ki laadli zainab
+  Husain jaata hai marne ko ae meri Zainab
+  Qarib aa gaya ab waqt-e-aakhri Zainab
+  Salaam tum pe ae Baba ki laadli Zainab
 
   1
   Zainab ne kaha kaun hai pardes mein mera
-  Kyun jaate ho tum chor ke bhaiya mujhe tanha
-  Zainab ko har ek mod pe tadpayegi dunya
+  Kiuṅ jaate ho tum chhor ke bhaiya mujhe tanha
+  Zainab ko har ek mor pe tarpaayegi dunya
+  Yaad aaoge bhaiya
 
   2
   Baad aap ke hoga meri ghurbat ka ye aalam
-  Us waqt ghareebi bhi karegi mera matam
+  Us waqt gharibi bhi karegi mera maatam
   Sadaat ko jab raah mein dega koi sadqa
+  Yaad aaoge bhaiya
 
   3
   Yaad aayega bhaiya mujhe armaan tumhara
-  Tum dekh nahi paaye ho akbar ka jo sehra
-  Dawaat koi shadi ki madine mein jo dega
+  Tum dekh nahiṅ paaye ho Akbar ka jo sehra
+  Daawat koi shaadi ki Madine mein jo dega
+  Yaad aaoge bhaiya
 
   4
-  Is maah se mansoob thi bhaiya meri khushiyan
-  Thi sab se badi eid meri teesri shaban
-  Shaban ke jab chand ko dekhegi ye behna
+  Is maah se mansub thiṅ bhaiya meri khushiyaṅ
+  Thi sab se bari Eid meri tisri Shaabaaṅ
+  Shaabaan ke jab chaand ko dekhegi ye behna
+  Yaad aaoge bhaiya
 
   5
-  Itna tha khayaal aap ko parde ka baradar
-  Le jaate thay tum raat ko amma ki lehad par
-  Ab dekhegi zainab ke khule sar ko ye dunya
+  Kitna tha khayaal aap ko parde ka baraadar
+  Le jaate the tum raat ko Amma ki lahad par
+  Ab dekhegi Zainab ke khule sar ko ye dunya
+  Yaad aaoge bhaiya
 
   6
-  Deedar bhi ho jayega beti ke bahane
-  Kya shaam ke zindan mein aaoge sulaane
-  Soyegi nahi jab meri lori se sakina
+  Didaar bhi ho jaayega beti ke bahaane
+  Kya Shaam ke zindaan mein aaoge sulaane
+  Soyegi nahiṅ jab meri lori se Sakina
+  Yaad aaoge bhaiya
 
   7
-  Kis tarha bhulaungi mai wo dard ka manzar
-  Wo sookhe gale par tere chalta hua khanjar
+  Kis tarah bhulaauṅgi main wo dard ka manzar
+  Wo sukhe gale par tere chalta hua khanjar
   Zainab ko nazar aayega jab bhi koi pyasa
+  Yaad aaoge bhaiya
 
   8
-  Hota tha takallum yun juda bhai behan se
-  Jis tarha koi rooh nikalti ho badan se
-  Sheh ran ko chale kehti rahi saniye zehra
+  Hota tha Takallum yuṅ juda bhai behan se
+  Jis tarah koi ruh nikalti ho badan se
+  Shah ran ko chale kehti rahi saani Zehra
+  Yaad aaoge bhaiya
 # source_id: nohayonline:ee091016b377f00bb723
 # source_url: https://www.nohayonline.com/details_content.php?id=110
 # raw_sha256: d4c1fb1c5c5ad49098b74560369bdf3d0ad7d0156665569c4c63f3701c8935b7
@@ -61,45 +70,53 @@ romanLyrics: |-
 # raw_sha256: a62c1b544c9f8355feae0a68b2fe990645f07ef9e899a26525224f0674c43662
 ---
 حسینؑ جاتا ہے مرنے کو اے میری زینبؑ
-قریب آگیااب وقت آخری زینبؑ
+قریب آ گیا اب وقتِ آخری زینبؑ
 سلام تم پہ اے بابا کی لاڈلی زینبؑ
 
 ۱
 زینبؑ نے کہا کون ہے پردیس میں میرا
 کیوں جاتے ہو تم چھوڑ کے بھیا مجھے تنہا
 زینبؑ کو ہر اک موڑ پہ تڑپائے گی دنیا
+یاد آؤ گے بھیا
 
 ۲
 بعد آپ کے ہوگا میری غربت کا یہ عالم
 اُس وقت غریبی بھی کرے گی میرا ماتم
 سادات کو جب راہ میں دے گا کوئی صدقہ
+یاد آؤ گے بھیا
 
 ۳
 یاد آئے گا بھیا مجھے ارمان تمھارا
 تم دیکھ نہیں پائے ہو اکبرؑ کا جو سہرا
 دعوت کوئی شادی کی مدینے میں جو دے گا
+یاد آؤ گے بھیا
 
 ۴
-اس ماہ سے منصوب تھیں بھیا میری خوشیاں
+اس ماہ سے منسوب تھیں بھیا میری خوشیاں
 تھی سب سے بڑی عید میری تیسری شعباں
 شعبان کے جب چاند کو دیکھے گی یہ بہنا
+یاد آؤ گے بھیا
 
 ۵
 کتنا تھا خیال آپ کو پردے کا برادر
 لے جاتے تھے تم رات کو اماں کی لحد پر
 اب دیکھے گی زینبؑ کے کُھلے سر کو یہ دنیا
+یاد آؤ گے بھیا
 
 ۶
-دیدار بھی ہو جائے گابیٹی کے بہانے
+دیدار بھی ہو جائے گا بیٹی کے بہانے
 کیا شام کے زندان میں آؤ گے سُلانے
 سوئے گی نہیں جب میری لوری سے سکینہؑ
+یاد آؤ گے بھیا
 
 ۷
-کسطرح بھلاؤں گی میں وہ درد کا منظر
+کس طرح بھلاؤں گی میں وہ درد کا منظر
 وہ سوکھے گلے پر تیرے چلتا ہوا خنجر
 زینبؑ کو نظر آئے گا جب بھی کوئی پیاسا
+یاد آؤ گے بھیا
 
 ۸
 ہوتا تھا تکلّم یوں جدا بھائی بہن سے
 جس طرح کوئی روح نکلتی ہو بدن سے
 شہہؑ رن کو چلے کہتی رہی ثانی زہراؑ
+یاد آؤ گے بھیا

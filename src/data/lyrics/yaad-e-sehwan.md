@@ -1,47 +1,103 @@
 ---
-title: "Yaad E Sehwan"
-language: "Roman Urdu"
+title: "یادِ سہون"
+alternateTitle: "Yaad-e-Sehwan"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu"]
+poet: "Mir Sajjad Mir"
+reciter: "Mir Sajjad Mir"
+tags: ["noImage"]
 aliases: []
 published: false
+romanLyrics: |-
+  1
+  Guzashta saal diwaanoṅ ke ye parwaaz ke din the
+  Tha un ka urs yaani Hazrat-e-Shahbaaz ke din the
+
+  2
+  Har ik Maulaai ka tha in dinoṅ goya hadaf Sehwan
+  Thi aisi gunj naaroṅ ki ke jaise ho Najaf Sehwan
+
+  3
+  Tha misl-e-shama rauza aur sabhi parwaane yakja the
+  Ali ke laal ke dar par kayi moti ikattha the
+
+  4
+  Kahiṅ maatam kahiṅ naubat kahiṅ majlis kahiṅ nauhe
+  Dhamaaloṅ ki kahiṅ aawaaz par lagte hue naare
+
+  5
+  Magar is saal ae mere Khuda sunsaan hai rauza
+  Nahiṅ hai ek bhi zaair bahut wiraan hai rauza
+
+  6
+  Jo dil mein raaz the hamraaz ko apne bataane the
+  Bahut se masale main ne Qalandar ko sunaane the
+
+  7
+  Mera har zakhm-e-dil un ke shifa khaane mein silta tha
+  Hamesha hausla mujh ko mere Saaeiṅ se milta tha
+
+  8
+  Mere Maalik bata de ab shifa paane kahaaṅ jaauṅ
+  Wo dar to band hai ab haath phailaane kahaaṅ jaauṅ
+
+  9
+  Achaanak dil ki dharkan ne takhayyul mein khalal waala
+  Achaanak meri naa ummidi ko ummid mein badla
+
+  10
+  Kaha dil ne ke har ik qalb pe qudrat hai Sehwan ki
+  Ise dharkan nahiṅ samjho ke ye naubat hai Sehwan ki
+
+  11
+  Balaaoṅ se sada aazaad tha aazaad hai Sehwan
+  Malangoṅ ke diloṅ mein aaj bhi aabaad hai Sehwan
 # source_id: tajpoints:e6bc4102c2ec72d307e0
 # source_url: https://tajpoints.com/2020/04/yaad-e-sehwan-lyrics-in-urdu-and-roman.html
 # raw_sha256: 79b5d0215a37925db630bcc5df4f5d789a757f7ff96ff66af1123fbc79c5d150
 ---
+۱
+گزشتہ سال دیوانوں کے یہ پرواز کے دن تھے
+تھا اُن کا عرس یعنی حضرتِ شہباز کے دن تھے
 
-Yaad e Sehwan
+۲
+ہر اک مولائی کا تھا ان دنوں گویا ہدف سہون
+تھی ایسی گونج نعروں کی کہ جیسے ہو نجف سہون
 
-1
-Guzashta Saal Dewano Ke Yeh Parwaz Ke Din They
-Tha Unn Ka Urs Yani Hazrat-e-Shahbaz Ke Din They
-Har Ik Molai Ka Tha Inn Dino Goya Hadaf Sehwan
-Thi Aisi Gaunj Naron Ki Keh Jaisay Ho Najaf Sehwan
-Tha Misal-e-Shama Roza Our Sabhi Parwaney Yakja They
-Ali Ke Lal Ke Dar Par Kayi Moti Ikatha They
+۳
+تھا مثلِ شمع روضہ اور سبھی پروانے یکجا تھے
+علی کے لال کے در پر کئی موتی اکٹھا تھے
 
-2
-Kahin Matam Kahin Nobat Kahin Majlis Kahin Nohay
-Dhamalon Ki Kahin Aawaz Par Lagtay Hoye Narey
-Magar Iss Saal Aye Mere Khuda Sunsaan Hai Roza
-Nahi Hai Aik Bhi Zair Bohat Veeran Hai Roza
-Jo Dil Mein Raaz They Hum Raaz Ko Apne Bataney They
-Bohat Se Maslay Main Ne Qalandar Ko Sunanay They
+۴
+کہیں ماتم کہیں نوبت کہیں مجلس کہیں نوحے
+دھمالوں کی کہیں آواز پر لگتے ہوئے نعرے
 
-3
-Mera Har Zakhm-e-Dil Unn Ke Shifa Khane Mein Silta Tha
-Hamesha Hosla Mujh Ko Mere Saein Se Milta Tha
-Mere Malik Bata De Ab Shifa Paney Kahan Jaon
-Woh Dar Tu Band Hai Ab Hath Phailanay Kahan Jaon
-Achanak Dil Ki Dharkan Ne Takhayul Mein Khalal Wala
-Achanak Meri Na Umeedi Ko Umeed Mein Badla
+۵
+مگر اس سال اے میرے خدا سنسان ہے روضہ
+نہیں ہے ایک بھی زائر بہت ویران ہے روضہ
 
-4
-Kaha Dil Ne Keh Har Ik Qalb Pe Qudrat Hai Sehwan Ki
-Issay Dharkan Nahi Samjho Keh Yeh Nobat Hai Sehwan Ki
-Balaon Se Sada Aazad Tha Aazad Hai Sehwan
-Malangon Ke Dilon Mein Aaj Bhi Aabad Hai Sehwan
-Poet and Reciter::Mir Sajjad Mir:
-Manqabat Volume::Mir Sajjad Mir 2020-21:
+۶
+جو دل میں راز تھے ہمراز کو اپنے بتانے تھے
+بہت سے مسئلے میں نے قلندر کو سنانے تھے
+
+۷
+میرا ہر زخمِ دل اُن کے شفا خانے میں سلتا تھا
+ہمیشہ حوصلہ مجھ کو میرے سائیں سے ملتا تھا
+
+۸
+میرے مالک بتا دے اب شفا پانے کہاں جاؤں
+وہ در تو بند ہے اب ہاتھ پھیلانے کہاں جاؤں
+
+۹
+اچانک دل کی دھڑکن نے تخیل میں خلل والا
+اچانک میری نا امیدی کو امید میں بدلا
+
+۱۰
+کہا دل نے کہ ہر اک قلب پہ قدرت ہے سہون کی
+اسے دھڑکن نہیں سمجھو کہ یہ نوبت ہے سہون کی
+
+۱۱
+بلاؤں سے سدا آزاد تھا آزاد ہے سہون
+ملنگوں کے دلوں میں آج بھی آباد ہے سہون
