@@ -1,36 +1,94 @@
 ---
-title: "Yousuf E Aal E Muhammad Shehzada Ali Akbar"
-language: "Roman Urdu"
+title: "یوسفِ آلِ محمد شہزادہ علی اکبر"
+alternateTitle: "Yousuf-e-Aal-e-Muhammad Shehzada Ali Akbar"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu"]
-aliases: []
+poet: "Shaukat Raza Shaukat"
+tags: ["noImage"]
+aliases: ["Yousuf E Aal E Muhammad Shehzada Ali Akbar"]
 published: false
+romanLyrics: |-
+  1
+  Jahaan-e-husn meiṅ hai yeh waqaar Akbar ka
+  Bare baroṅ meiṅ bara hai shumaar Akbar ka
+
+  2
+  Hazaar baar kareiṅ baat husn-e-Yousuf ki
+  To naam leiṅ kahiṅ phir ek baar Akbar ka
+
+  3
+  Habib se hi banaaya Habib sa us ne
+  Isi sabab se tha Akbar se pyaar Akbar ka
+
+  4
+  Hameiṅ to Jaun bhi Yousuf se kuch hasin laga
+  Yeh husn par hai sahi iqtidaar Akbar ka
+
+  5
+  Kaha karo na ise chaand bekhiyaali meiṅ
+  Kahiṅ pe husn na ho daaghdaar Akbar ka
+
+  6
+  Hasin nur se chehre pe kham, siyaah zulfeiṅ
+  Tawaaf karte haiṅ lail o nahaar Akbar ka
+
+  7
+  Mere Husain ka parwardigaar Allah hai
+  Magar Husain hai parwardigaar Akbar ka
+
+  8
+  Hui shikaar Zulekha to husn-e-Yousuf ki
+  Suno keh ho gaya Yousuf shikaar Akbar ka
+
+  9
+  Husain o Asghar o Abbas o Muslim o Qasim
+  Hasin kitna hai qurb o jawaar Akbar ka
+
+  10
+  Kahaaṅ yeh Shaukat-e-alfaaz aur kahaaṅ mujh sa
+  Qalam ki nok meiṅ hai yeh nikhaar Akbar ka
 # source_id: tajpoints:d48e35ec5dd59c083825
 # source_url: https://tajpoints.com/2023/02/yousuf-e-aal-e-muhammad-shehzada-ali.html
 # raw_sha256: 31d4901278c4b33de8ba27a28a41cdae8fce96e9be4bf3ddb321ab92ed885d05
 ---
+۱
+جہانِ حسن میں ہے یہ وقار اکبر کا
+بڑے بڑوں میں بڑا ہے شمار اکبر کا
 
-1
-Yousuf e Aal e Muhammad Shehzada Ali Akbar
-Jahan-e-Husan Mein Hai Yeh Waqar Akbar Ka
-Barey Baron Mein Bara Hai Shumar Akbar Ka
-Hazar Bar Karein Baat Husan-e-Yousuf Ki
-Tu Naam Lein Kahin Phir Aik Bar Akbar Ka
-Habib Se Hi Banaya Habib Sa Oss Ne
-Issi Sabab Se Tha Akbar Se Pyar Akbar Ka
-Humein Tu Jaun Bhi Yousuf Se Kuch Hasen Laga
-Yeh Husan Par Hai Sahi Iqtidar Akbar Ka
-Kaha Karo Na Issay Chand Be Khiyali Mein
-Kahin Pe Husan Na Ho Dagh Daar Akbar Ka
-Hasen Noor Se Chehray Pe Kham, Siyah Zulfein
-Tawaf Kartay Hain Lail-o-Nihar Akbar Ka
-Mere Hussain Ka Parwardigar ALLAH Hai
-Magar Hussain Hai Parwardigar Akbar Ka
-Hoi Shikar Zolekha Tu Husan-e-Yousuf Ki
-Suno Keh Ho Gaya Yousuf Shikar Akbar Ka
-Hussain-o-Asghar-o-Abbas-o-Muslim-o-Qasim
-Hasen Kitna Hai Qarb-o-Jawar Akbar Ka
-Kahan Yeh:SHAUKAT E: Alfaz Our Kahan Mujh Sa
-Qalam Ki Nook Mein Hai Yeh Nikhar Akbar Ka
+۲
+ہزار بار کریں بات حسنِ یوسف کی
+تو نام لیں کہیں پھر ایک بار اکبر کا
+
+۳
+حبیب سے ہی بنایا حبیب سا اس نے
+اسی سبب سے تھا اکبر سے پیار اکبر کا
+
+۴
+ہمیں تو جون بھی یوسف سے کچھ حسین لگا
+یہ حسن پر ہے صحیح اقتدار اکبر کا
+
+۵
+کہا کرو نہ اسے چاند بےخیالی میں
+کہیں پہ حسن نہ ہو داغدار اکبر کا
+
+۶
+حسین نور سے چہرے پہ خم، سیاہ زلفیں
+طواف کرتے ہیں لیل و نہار اکبر کا
+
+۷
+میرے حسین کا پروردگار اللہ ہے
+مگر حسین ہے پروردگار اکبر کا
+
+۸
+ہوئی شکار زلیخا تو حسنِ یوسف کی
+سنو کہ ہو گیا یوسف شکار اکبر کا
+
+۹
+حسین و اصغر و عباس و مسلم و قاسم
+حسین کتنا ہے قرب و جوار اکبر کا
+
+۱۰
+کہاں یہ شوکتِ الفاظ اور کہاں مجھ سا
+قلم کی نوک میں ہے یہ نکھار اکبر کا

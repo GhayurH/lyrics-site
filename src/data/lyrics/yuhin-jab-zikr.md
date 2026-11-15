@@ -5,58 +5,59 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aap se aap yuhin jab zikr kahin sheh ka chida
-  Aa gayi khinchke wahin karbobala
+  Aap se aap yuṅhi jab zikr kahiṅ Sheh ka chhira
+  Aa gayi khinch ke wahiṅ Karb o Bala
 
   1
-  Behre talqeen ali aayenge baali pe meri
-  Qabr may aayegi jannat ki hawa
+  Bahr-e-talqin Ali aaeṅ ge baali pe meri
+  Qabr meiṅ aae gi jannat ki hawa
 
   2
-  Wo chali binte asad khil uthi deewar e haram
-  Dar naya kaabe may tayyaar hua
+  Woh chali Bint-e-Asad khil uthi diwaar-e-haram
+  Dar naya Kaabe meiṅ taiyaar hua
 
   3
-  Haq kahin cheen ke milti hai jahan may iqlaq
-  Yun to ban baitha tha firaun khuda
+  Haq kahiṅ chhin ke milti hai jahaaṅ meiṅ iqlaaq
+  Yuṅ to ban baitha tha Firaun Khuda
 
   4
-  Ittefaqan jo hati chehra e akbar se niqab
-  Ashkiyan padne lagay salle alaa
+  Ittifaaqan jo hati chehra-e-Akbar se niqaab
+  Ashqiya parhne lage salle alaa
 
   5
-  Allah allah wo asghar ka jihad e akbar
-  Rakh diya nok pe nawak ka gala
+  Allah Allah woh Asghar ka jihaad-e-akbar
+  Rakh diya nok pe naawak ka gala
 
   6
-  Us taraf ghode se abbas taraai may gire
-  Is taraf gir gayi zainab ki rida
+  Us taraf ghore se Abbas taraai meiṅ gire
+  Is taraf gir gayi Zainab ki rida
 # source_id: nohayonline:3566d51e55af6d0ba0db
 # source_url: https://www.nohayonline.com/details_content.php?id=508
 # raw_sha256: c3faa05f7f3d81b271f323bcc6f710387c1fe829490560af9bccb1c3b1e8ffd5
 ---
 آپ سے آپ یونہی جب ذکر کہیں شِہ کا چھڑا
-آگئی کھنچ کہ وہیں کر ب و بلا
+آ گئی کھنچ کے وہیں کرب و بلا
 
 ۱
-بحرِ تلقین علی آ ئیں گے بالی پہ میری
+بحرِ تلقین علی آئیں گے بالی پہ میری
 قبر میں آئے گی جنت کی ہوا
 
 ۲
 وہ چلی بنتِ اسد کِھل اُٹھی دیوارِ حرم
-در نیا کعبے میں تیا ر ہوا
+در نیا کعبے میں تیار ہوا
 
 ۳
 حق کہیں چھین کے ملتی ہے جہاں میں اقلاق
 یوں تو بن بیٹھا تھا فرعون خُدا
 
 ۴
-اتفاقاً جو ہٹی چہرئہ اکبر سے نقاب
-اشقیائ پڑھنے لگے صلے علٰی
+اتفاقاً جو ہٹی چہرۂ اکبر سے نقاب
+اشقیا پڑھنے لگے صلے علیٰ
 
 ۵
 اللہ اللہ وہ اصغر کا جہادِ اکبر
