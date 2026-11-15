@@ -1,90 +1,93 @@
 ---
 title: "عجیب ضد ہے کہ ذکر حیدر نہ ہونے دیں گے"
-alternateTitle: "Zikre Hyder"
+alternateTitle: "Ajib Zid Hai Ke Zikr-e-Haider Na Hone Deṅ Ge"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Dayam Najafi"
+reciter: "Ali Yazdan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ajeeb zid hai ke zikr-e-hyder na hone denge
-  Hasad jo hai habeeb-e-haq ka
-  Wo zikre athar na hone denge
+  Ajib zid hai ke zikr-e-Haider na hone deṅ ge
+
+  Hasad jo hai habib-e-Haq ka
+  Wo zikr-e-athar na hone deṅ ge
 
   1
-  Khuda ne azm e ali ki surat
-  Rakhi hai quran ke aaene mein
+  Khuda ne azm-e-Ali ki surat
+  Rakhi hai Quraan ke aaine mein
   Magar ye baatil musir hai is pe
-  Ke haq ujaagar na hone denge
+  Ke haq ujaagar na hone deṅ ge
 
   2
-  Khuda kare zikre maula hyder
-  Magar ye insan kuch kahe hai
+  Khuda kare zikr-e-Maula Haider
+  Magar ye insaan kuch kahe hai
   Kisi bhi surat baland azme
-  Ameer taasar na hone denge
+  Amir taasar na hone deṅ ge
 
   3
-  Falak pe zikre ali ki bazme
-  Sajaye baithe hai arsh waale
-  Zameen waale ye zid kiye hai
-  Ke hum zameen par na hone denge
+  Falak pe zikr-e-Ali ki bazm-e
+  Sajaae baithe haiṅ arsh waale
+  Zamin waale ye zid kiye haiṅ
+  Ke ham zamiṅ par na hone deṅ ge
 
   4
-  Hamara bhi ek faisla hai
-  Yuhin uthaate rahenge parcham
-  Sukoon kisi gaam ahle baatil
-  Ko hum meinassar na hone denge
+  Hamaara bhi ek faisla hai
+  Yuṅhi uthaate raheṅ ge parcham
+  Sukuṅ kisi gaam ahl-e-baatil
+  Ko ham muyassar na hone deṅ ge
 
   5
-  Ye keh ke zehra ne aansuon ko
-  Ata ki rumaal mein sukoona
-  Tumhare ashkon ko hum kabhi bhi
-  Sharaf se baahar na hone denge
+  Ye keh ke Zehra ne aansuoṅ ko
+  Ata ki rumaal mein sukuṅ na
+  Tumhaare ashkoṅ ko ham kabhi bhi
+  Sharaf se baahar na hone deṅ ge
 
   6
-  Aza-e-sarwar hai ab bhi baaqi
-  Wo khud hi dunya se mit gaye hai
-  Jo keh rahe thay dehr mein hum
-  Aza-e-sarwar na hone denge
+  Aza-e-Sarwar hai ab bhi baaqi
+  Wo khud hi duniya se mit gae haiṅ
+  Jo keh rahe the dahr mein ham
+  Aza-e-Sarwar na hone deṅ ge
 
   7
-  Yazeediyat dekh aaj ghar ghar
-  Bicha hai farshe aza-e-sarwar
-  Tumhara ye faisla tha zikre
-  Hussain ghar ghar na hone denge
+  Yazidiyat dekh aaj ghar ghar
+  Bichha hai farsh-e-aza-e-Sarwar
+  Tumhaara ye faisla tha zikr-e
+  Husain ghar ghar na hone deṅ ge
 
   8
-  Ye shor zanjeer aur qama ka
-  Ye keh raha hai zamana sunle
+  Ye shor zanjir aur qama ka
+  Ye keh raha hai zamaana sun le
   Asar kisi mausami hawa ka
-  Aza-e-sarwar par na hone denge
+  Aza-e-Sarwar par na hone deṅ ge
 
   9
-  Pukari zainab mere baradar
-  Mai shaam o kufa ko sar karungi
-  Tumhare maqsad ko zehne
-  Insaniyat se baahar na hone denge
+  Pukaari Zainab mere baraadar
+  Main Shaam o Kufa ko sar karuṅ gi
+  Tumhaare maqsad ko zehn-e
+  Insaaniyat se baahar na hone deṅ ge
 
   10
-  Labon pe rakh kar ali ka charcha
-  Ye kehte hai dayam aur yazdan
-  Ho koi mushkil ali ki ulfat
-  Ko dil se baahar na hone denge
+  Laboṅ pe rakh kar Ali ka charcha
+  Ye kehte haiṅ Daayam aur Yazdaaṅ
+  Ho koi mushkil Ali ki ulfat
+  Ko dil se baahar na hone deṅ ge
 # source_id: nohayonline:59041585e262bda68b5e
 # source_url: https://www.nohayonline.com/details_content.php?id=2510
 # raw_sha256: 3795a642bd04bfecf7434937129a40da9e8f4f5bf98c3a2395566fb4ef4c59d2
 ---
 عجیب ضد ہے کہ ذکر حیدر نہ ہونے دیں گے
+
 حسد جو ہے حبیب حق کا
 وہ ذکر اطہر نہ ہونے دیں گے
 
 ۱
 خدا نے ازم علی کی صورت
-رکھی ہے قرآن کے آیینے میں
-مگر یہ باتی مسافر ہے اس پہ
+رکھی ہے قرآن کے آئینے میں
+مگر یہ باطل مصر ہے اس پہ
 کہ حق اجاگر نہ ہونے دیں گے
 
 ۲
@@ -95,8 +98,8 @@ romanLyrics: |-
 
 ۳
 فلک پہ ذکرِ علی کی بزمِ
-سجاے بیٹھے ہے عرش والے
-زمین والے یہ ضد کےء ہیں
+سجائے بیٹھے ہیں عرش والے
+زمین والے یہ ضد کیے ہیں
 کہ ہم زمیں پر نہ ہونے دیں گے
 
 ۴
@@ -112,31 +115,31 @@ romanLyrics: |-
 شرف سے باہر نہ ہونے دیں گے
 
 ۶
-عزاے سرور ہے اب بھی باقی
-وہ خود ہی دنیا سے مٹ گےء ہیں
+عزائے سرور ہے اب بھی باقی
+وہ خود ہی دنیا سے مٹ گئے ہیں
 جو کہہ رہے تھے دہر میں ہم
-عزاے سرور نہ ہونے دیں گے
+عزائے سرور نہ ہونے دیں گے
 
 ۷
-یزیدیت دیکھ آجا گھر گھر
-بچھا ہے فرش عزاے سرور
+یزیدیت دیکھ آج گھر گھر
+بچھا ہے فرشِ عزائے سرور
 تمہارا یہ فیصلہ تھا ذکر
 حسین گھر گھر نہ ہونے دیں گے
 
 ۸
-یہ شور زنجیر اور خمہ کا
+یہ شور زنجیر اور قمہ کا
 یہ کہہ رہا ہے زمانہ سن لے
 اثر کسی موسمی ہوا کا
-عزاے سرور پر نہ ہونے دیں گے
+عزائے سرور پر نہ ہونے دیں گے
 
 ۹
 پکاری زینب میرے برادر
 میں شام و کوفہ کو سر کروں گی
-تمہارے مقصد کو ذہن
-انسانیت سے باہر نہ ہونے دینگے
+تمہارے مقصد کو ذہنِ
+انسانیت سے باہر نہ ہونے دیں گے
 
 ۱۰
 لبوں پہ رکھ کر علی کا چرچہ
-یہ کہتے ہیں دایم اور یزداں
-ہو کوی مشکل علی کی الفت
-کو دل سے باہر نہ ہونے دینگے
+یہ کہتے ہیں دائم اور یزداں
+ہو کوئی مشکل علی کی الفت
+کو دل سے باہر نہ ہونے دیں گے

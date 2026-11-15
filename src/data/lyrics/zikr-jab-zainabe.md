@@ -1,41 +1,42 @@
 ---
 title: "ذکر جب زینب مضطر کا بیاں ہوتا ہے"
-alternateTitle: "Zikr Jab Zainabe"
+alternateTitle: "Zikr Jab Zainab-e-Muztar Ka Bayaaṅ Hota Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ameer Hussain Mashadi"
+reciter: "Hasan Sadiq"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zikr jab zainabe muztar ka bayan hota hai
-  Khoon sajjad ki aankhon se rawan hota hai
+  Zikr jab Zainab-e-muztar ka bayaaṅ hota hai
+  Khun Sajjaad ki aankhoṅ se rawaaṅ hota hai
 
   1
-  Daste shabbir pe baysheer ne saabit ye kiya
-  Hashmi khoon to bachpan se jawan hota hai
+  Dast-e-Shabbir pe beshir ne saabit ye kiya
+  Haashmi khun to bachpan se jawaaṅ hota hai
 
   2
-  Noke naiza se lehad mein se nikaale laasha
-  Zulm aisa ye zamane mein kahan hota hai
+  Nok-e-naiza se lahad mein se nikaale laasha
+  Zulm aisa ye zamaane mein kahaaṅ hota hai
 
   3
-  Bhai beton ke ho be-gor o kafan laashe pade
-  Aise aalam mein qayamat ka samaa hota hai
+  Bhaai betoṅ ke ho begor o kafan laashe pare
+  Aise aalam mein qayaamat ka samaaṅ hota hai
 
   4
-  Fatema zehra wahan khud hi pahunch jaati hai
-  Zikre hasnain shareefain jahan hota hai
+  Faatima Zehra wahaaṅ khud hi pahunch jaati hai
+  Zikr-e-Hasnain sharifain jahaaṅ hota hai
 
   5
-  Aao sajjad ki aankhon ke lahoo ko dekho
-  Manzar e karbobala saara ayan hota hai
+  Aao Sajjaad ki aankhoṅ ke lahu ko dekho
+  Manzar-e-Karbobala saara ayaaṅ hota hai
 
   6
-  Tu ameer ek nahi shaah ke gham mein shaamil
-  Mehwe gham aaj to har kon o makan hota hai
+  Tu Amir ek nahiṅ Shaah ke gham mein shaamil
+  Mahw-e-gham aaj to har kaun o makaaṅ hota hai
 # source_id: nohayonline:115cf0e9393aabd693b2
 # source_url: https://www.nohayonline.com/details_content.php?id=3354
 # raw_sha256: eca683e575bbd217322b3312423970d40589e00e38c79ed7f980986792bc6c5a
@@ -46,14 +47,14 @@ romanLyrics: |-
 
 ۱
 دست شبیر پہ بے شیر نے ثابت یہ کیا
-ہاشم خون تو بچپن سے جواں ہوتا ہے
+ہاشمی خون تو بچپن سے جواں ہوتا ہے
 
 ۲
 نوکِ نیزہ سے لحد میں سے نکالے لاشہ
 ظلم ایسا یہ زمانے میں کہاں ہوتا ہے
 
 ۳
-بھای بیٹوں کے ہو بے گور و کفن لاشے پڑے
+بھائی بیٹوں کے ہو بے گور و کفن لاشے پڑے
 ایسے عالم میں قیامت کا سماں ہوتا ہے
 
 ۴
@@ -65,5 +66,5 @@ romanLyrics: |-
 منظر کربوبلا سارا عیاں ہوتا ہے
 
 ۶
-تو آمیر ایک نہیں شاہ کے غم میں شامل
+تو امیر ایک نہیں شاہ کے غم میں شامل
 محو غم آج تو ہر کون و مکاں ہوتا ہے

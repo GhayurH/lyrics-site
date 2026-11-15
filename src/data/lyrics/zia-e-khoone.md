@@ -1,54 +1,55 @@
 ---
-title: "ضیاے خونِ شہیداں کی دلکشی زینب"
-alternateTitle: "Zia E Khoone"
+title: "ضیائے خونِ شہیداں کی دلکشی زینب"
+alternateTitle: "Zia-e-Khun-e-Shahidaaṅ Ki Dilkashi Zainab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Noha"
+kalamType: "Salam"
 poet: "Baba Nisaar Haideri"
+reciter: "Mir Hasan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zia e khoon e shaheedan ki dilkashi zainab
-  Husainiyat ke charaghon ki raushni zainab
+  Zia-e-khun-e-shahidaaṅ ki dilkashi Zainab
+  Husainiyat ke charaaghoṅ ki raushni Zainab
 
   1
-  Kiya wo raah may bartao kalma goyo ne
-  Ke jaise thi na nawasi rasool ki zainab
+  Kiya wo raah mein bartaao kalma goyoṅ ne
+  Ke jaise thi na nawaasi Rasul ki Zainab
 
   2
-  Aza e shaah may hi zindagi tamaam hui
-  Na apne aun o mohamed ko ro saki zainab
+  Aza-e-Shaah mein hi zindagi tamaam hui
+  Na apne Aun o Muhammad ko ro saki Zainab
 
   3
-  Ali ke laal ka laasha tadap utha us dam
-  Tumhare baazu may jis dam rasan bandhi zainab
+  Ali ke laal ka laasha tarap utha us dam
+  Tumhaare baazu mein jis dam rasan bandhi Zainab
 
   4
-  Kisi ne maara jo pathar to chup rahi lekin
-  Kaha jo baaghi kisi ne to ro padi zainab
+  Kisi ne maara jo patthar to chup rahi lekin
+  Kaha jo baaghi kisi ne to ro pari Zainab
 
   5
-  Lahoo may doobi hui bediyan muhaari ki
-  Safar may thaam ke dil dekhti rahi zainab
+  Lahu mein dubi hui beriyaaṅ muhaari ki
+  Safar mein thaam ke dil dekhti rahi Zainab
 
   6
-  Hussain choor thay zakhmon se phir bhi uth baithe
-  Kaha jo shimr ne qaime se aa gayi zainab
+  Husain chur the zakhmoṅ se phir bhi uth baithe
+  Kaha jo Shimr ne khaime se aa gai Zainab
 
   7
-  Hijab may bhi jahan se guzar na mushkil tha
-  Wahan pe kaise khule sar khadi rahi zainab
+  Hijaab mein bhi jahaaṅ se guzarna mushkil tha
+  Wahaaṅ pe kaise khule sar khari rahi Zainab
 
   8
-  Husainiyat ko baqa is liye nisaar mili
-  Yazeediyat ke muqabil nahi jhuki zainab
+  Husainiyat ko baqa is liye Nisaar mili
+  Yazidiyat ke muqaabil nahiṅ jhuki Zainab
 # source_id: nohayonline:b00e475be0936722eef0
 # source_url: https://www.nohayonline.com/content_salaam.php?id=43
 # raw_sha256: 36178883bdb24f4be8ca70dc417cec5163bc4158ffd83d689d21c86063da2d0d
 ---
-ضیاے خونِ شہیداں کی دلکشی زینب
+ضیائے خونِ شہیداں کی دلکشی زینب
 حسینیت کے چراغوں کی روشنی زینب
 
 ۱
@@ -56,7 +57,7 @@ romanLyrics: |-
 کہ جیسے تھی نہ نواسی رسول کی زینب
 
 ۲
-عزاے شاہ میں ہی زندگی تمام ہوی
+عزائے شاہ میں ہی زندگی تمام ہوئی
 نہ اپنے عون و محمد کو رو سکی زینب
 
 ۳
@@ -64,21 +65,21 @@ romanLyrics: |-
 تمہارے بازو میں جس دم رسن بندھی زینب
 
 ۴
-کس نے مارا جو پتھر تو چپ رہی لیکن
+کسی نے مارا جو پتھر تو چپ رہی لیکن
 کہا جو باغی کسی نے تو رو پڑی زینب
 
 ۵
-لہو میں ڈوبی ہوی بیڑیاں مہاری کی
+لہو میں ڈوبی ہوئی بیڑیاں مہاری کی
 سفر میں تھام کے دل دیکھتی رہی زینب
 
 ۶
 حسین چور تھے زخموں سے پھر بھی اٹھ بیٹھے
-کہا جو شمر نے خیمے سے آ گیء زینب
+کہا جو شمر نے خیمے سے آ گئی زینب
 
 ۷
-ہجاب میں بھی جہاں سے گزر نہ مشکل تھا
+حجاب میں بھی جہاں سے گزرنا مشکل تھا
 وہاں پہ کیسے کھلے سر کھڑی رہی زینب
 
 ۸
-حسینیت کو بقا اس لےء نثار ملی
+حسینیت کو بقا اس لیے نثار ملی
 یزیدیت کے مقابل نہیں جھکی زینب
