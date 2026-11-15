@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Mir Sajjad Mir"
 poet: "Mir Sajjad Mir"
 tags: ["noImage"]
 aliases: []
@@ -12,47 +13,49 @@ published: false
 romanLyrics: |-
   Zehra kaisi ho meri beti
   Baba baba baba baba
+  Mushkil mein hai teri beti
 
   1
-  Mushkil may hai teri beti
-  Godhi ki aadat hai usko
-  Kaise mai usko uthaaun
-  Kulsoom choti hai meri
+  Godi ki aadat hai us ko
+  Kaise main us ko uthauṅ
+  Baba baba baba baba
+  Kulsum chhoti hai meri
 
   2
   Zaalim ne taaqat se apni
-  Maara hai aise tamacha
+  Maara hai aise tamaancha
   Chehra dekho chehra dekho
-  Paywast hai meri baali
+  Paiwast hai meri baali
 
   3
-  Karbobala yaad aayi
-  Jab ye hussain aa ke bola
-  Amma mat ro amma mat ro
-  Dekho mai laaya hoo pani
+  Karb o bala yaad aayi
+  Jab ye Husain aa ke bola
+  Ammaṅ mat ro ammaṅ mat ro
+  Dekho main laaya huṅ paani
 
   4
-  Maara hai zauja ko unki
-  Ye baat khaati hai unko
-  Baba dekhein baba dekhein
-  Gardan jhuki hai ali ki
+  Maara hai zauja ko un ki
+  Ye baat khaati hai un ko
+  Baba dekheṅ baba dekheṅ
+  Gardan jhuki hai Ali ki
 
   5
-  Ab kis se baatein karungi
+  Ab kis se baateṅ karuṅ gi
   Mohsin mera mar gaya hai
-  Baba dekhein baba dekhein
-  Veeran hai meri godhi
+  Baba dekheṅ baba dekheṅ
+  Viraaṅ hai meri godi
 # source_id: nohayonline:c7c60b65aadd81487a8f
 # source_url: https://www.nohayonline.com/details_content.php?id=2096
 # raw_sha256: 7a6885f492f86fa37d4b908c24f997dd1c78c19964d265ab6d524c978c48134d
 ---
 زہرا کیسی ہو میری بیٹی
 بابا بابا بابا بابا
+مشکل میں ہے تیری بیٹی
 
 ۱
-مشکل میں ہے تیری بیٹی
-گودی کی عادت ہے اسکو
-کیسے میں اسکو اٹھاؤں
+گودی کی عادت ہے اس کو
+کیسے میں اس کو اٹھاؤں
+بابا بابا بابا بابا
 کلثوم چھوٹی ہے میری
 
 ۲
@@ -62,13 +65,13 @@ romanLyrics: |-
 پیوست ہے میری بالی
 
 ۳
-کربوبلا یاد آی
+کرب و بلا یاد آئی
 جب یہ حسین آ کے بولا
 اماں مت رو اماں مت رو
 دیکھو میں لایا ہوں پانی
 
 ۴
-مارا ہے زوجہ کو انکی
+مارا ہے زوجہ کو ان کی
 یہ بات کھاتی ہے ان کو
 بابا دیکھیں بابا دیکھیں
 گردن جھکی ہے علی کی

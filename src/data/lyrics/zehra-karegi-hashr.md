@@ -5,36 +5,37 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zehra karegi hashr mein daawa hussain ka
-  Parwardigar de mujhe badla hussain ka
+  Zehra karegi hashr mein daawa Husain ka
+  Parwardigaar de mujhe badla Husain ka
 
   1
-  Pyase gale pe teer e jafa ran mein chal gaya
-  Moo se lahoo ugalta hai baccha hussain ka
+  Pyaase gale pe tir-e-jafa ran mein chal gaya
+  Muṅh se lahu ugalta hai bachcha Husain ka
 
   2
-  Seena phata jo ran mein nabi ka nashan tha
-  Barchi se chid gaya hai kaleja hussain ka
+  Sina phata jo ran mein Nabi ka nishaan tha
+  Barchhi se chhid gaya hai kaleja Husain ka
 
   3
-  Maqtal mein aayi fatema ya rab duhaai hai
-  Baalon se jhaadti hai musalla hussain ka
+  Maqtal mein aayi Fatima ya Rab duhaai hai
+  Baaloṅ se jhaarti hai musalla Husain ka
 
   4
-  Arshe bareen bhi hil gaya zehra ke bain se
-  Maa ek chaahti hai ye badla hussain ka
+  Arsh-e-bariṅ bhi hil gaya Zehra ke bain se
+  Maaṅ ek chaahti hai ye badla Husain ka
 
   5
-  Hairat zada khamosh falak dekhta raha
-  Kul ambiya ne dekha hai sajda hussain ka
+  Hairat zada khaamosh falak dekhta raha
+  Kul ambiya ne dekha hai sajda Husain ka
 
   6
-  Matam ke daagh aur phir ashke ghame hussain
-  Saabir ko kaafi hai ye waseela hussain ka
+  Maatam ke daagh aur phir ashk-e-gham-e-Husain
+  Saabir ko kaafi hai ye wasila Husain ka
 # source_id: nohayonline:5487e6bb18807b0b89cf
 # source_url: https://www.nohayonline.com/details_content.php?id=2888
 # raw_sha256: f5af480306c194978257421ecc0474fccfb13d5a869e47f8eaf84bdb6513c3ba
@@ -43,7 +44,7 @@ romanLyrics: |-
 پروردگار دے مجھے بدلہ حسین کا
 
 ۱
-پیاسے گلے پہ تیر جفا رن میں چل گیا
+پیاسے گلے پہ تیرِ جفا رن میں چل گیا
 منہ سے لہو اگلتا ہے بچہ حسین کا
 
 ۲
@@ -51,11 +52,11 @@ romanLyrics: |-
 برچھی سے چھد گیا ہے کلیجہ حسین کا
 
 ۳
-مقتل میں آی فاطمہ یا رب دہائی ہے
-بالوں سے جھاڑتی ہے مصلی حسین کا
+مقتل میں آئی فاطمہ یا رب دہائی ہے
+بالوں سے جھاڑتی ہے مصلیٰ حسین کا
 
 ۴
-عرش بریں بھی ہل گیازہرا کے بین سے
+عرشِ بریں بھی ہل گیا زہرا کے بین سے
 ماں ایک چاہتی ہے یہ بدلہ حسین کا
 
 ۵
@@ -63,5 +64,5 @@ romanLyrics: |-
 کل انبیاء نے دیکھا ہے سجدہ حسین کا
 
 ۶
-ماتم کے داغ اور پھر اشک غم حسین
+ماتم کے داغ اور پھر اشکِ غمِ حسین
 صابر کو کافی ہے یہ وسیلہ حسین کا

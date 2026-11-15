@@ -5,49 +5,50 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Anjuman Al Abbas"
 poet: "Fareed Baig"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zehra ke bhare ghar ka matam hai azadaron
-  Karbal ke bahattar ka matam hai azadaron
+  Zehra ke bhare ghar ka maatam hai azaadaaroṅ
+  Karbal ke bahattar ka maatam hai azaadaaroṅ
 
   1
-  Ye aah o buka kya hai ye farshe aza kya hai
-  Ye sibte payambar ka matam hai azadaron
+  Ye aah o buka kya hai ye farsh-e-aza kya hai
+  Ye sibt-e-Payambar ka maatam hai azaadaaroṅ
 
   2
-  Pamaal hua ran mein jo ghodon ki taapon se
-  Us dilbare shabbar ka matam hai azadaron
+  Paamaal hua ran mein jo ghoroṅ ki taapoṅ se
+  Us dilbar-e-Shabbar ka maatam hai azaadaaroṅ
 
   3
-  Shabbir bahot roye laashe pe baradar ke
-  Abbas e dilawar ka matam hai azadaron
+  Shabbir bahut roye laashe pe baraadar ke
+  Abbas-e-dilaawar ka maatam hai azaadaaroṅ
 
   4
-  Bhoolegi bhala kaise dunya ali akbar ko
-  Hamshakle payambar ka matam hai azadaron
+  Bhulegi bhala kaise duniya Ali Akbar ko
+  Hamshakl-e-Payambar ka maatam hai azaadaaroṅ
 
   5
-  Haathon pe shahe deen ke jo teere sitam khaya
-  Us nahne se asghar ka matam hai azadaron
+  Haathoṅ pe Shah-e-diṅ ke jo tir-e-sitam khaaya
+  Us nanhe se Asghar ka maatam hai azaadaaroṅ
 
   6
-  Islam pe ehsaan hai jis laasha e be-sar ka
-  Us laasha e be-sar ka matam hai azadaron
+  Islam pe ehsaan hai jis laasha-e-besar ka
+  Us laasha-e-besar ka maatam hai azaadaaroṅ
 
   7
-  Zindan mein soti hai laadon ki pali bacchi
-  Shabbir ki dukhtar ka matam hai azadaron
+  Zindaan mein soti hai laadoṅ ki pali bachchi
+  Shabbir ki dukhtar ka maatam hai azaadaaroṅ
 
   8
-  Tatheer ke waaris ke thay log tamashayi
-  Zainab ke khule sar ka matam hai azadaron
+  Tathir ke waaris ke the log tamaashaai
+  Zainab ke khule sar ka maatam hai azaadaaroṅ
 
   9
-  Roti hai fareed ab tak zehra jise maqtal mein
-  Us kushta e khanjar ka matam hai azadaron
+  Roti hai Farid ab tak Zehra jise maqtal mein
+  Us kushta-e-khanjar ka maatam hai azaadaaroṅ
 # source_id: nohayonline:81f60224f6e075d29e7f
 # source_url: https://www.nohayonline.com/details_content.php?id=2946
 # raw_sha256: 550ab85a9b837fe714c8ab9c18c52db02dd11c7035a66cfa674a053afac1dcb7
@@ -56,31 +57,31 @@ romanLyrics: |-
 کربل کے بہتر کا ماتم ہے عزاداروں
 
 ۱
-یہ آہ و بکا کیا ہے یہ فرش عزا کیا ہے
-یہ سبط پیمبر کا ماتم ہے عزاداروں
+یہ آہ و بکا کیا ہے یہ فرشِ عزا کیا ہے
+یہ سبطِ پیمبر کا ماتم ہے عزاداروں
 
 ۲
 پامال ہوا رن میں جو گھوڑوں کی ٹاپوں سے
-اس دلبر شبر کا ماتم ہے عزاداروں
+اس دلبرِ شبر کا ماتم ہے عزاداروں
 
 ۳
-شبیر بہر روے لاشے پہ برادر کے
-عباس دلاور کا ماتم ہے عزاداروں
+شبیر بہت روئے لاشے پہ برادر کے
+عباسِ دلاور کا ماتم ہے عزاداروں
 
 ۴
 بھولے گی بھلا کیسے دنیا علی اکبر کو
-ہمشکل پیمبر کا ماتم ہے عزاداروں
+ہمشکلِ پیمبر کا ماتم ہے عزاداروں
 
 ۵
-ہاتھوں پہ شہ دیں کے جو تیر ستم کھایا
+ہاتھوں پہ شہِ دیں کے جو تیرِ ستم کھایا
 اس ننھے سے اصغر کا ماتم ہے عزاداروں
 
 ۶
-اسلام پہ احسان ہے جس لاشہء بے سر کا
-اس لاشہء بے سر کا ماتم ہے عزاداروں
+اسلام پہ احسان ہے جس لاشۂ بے سر کا
+اس لاشۂ بے سر کا ماتم ہے عزاداروں
 
 ۷
-زندان میں سوتی ہے لاڈوں کی پلی ہے
+زندان میں سوتی ہے لاڈوں کی پلی بچی
 شبیر کی دختر کا ماتم ہے عزاداروں
 
 ۸
