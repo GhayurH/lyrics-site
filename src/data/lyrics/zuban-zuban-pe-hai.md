@@ -1,108 +1,109 @@
 ---
-title: "زباں زباں پہ ہے نوحہ علی شہید ہوے"
-alternateTitle: "Zuban Zuban Pe Hai"
+title: "زباں زباں پہ ہے نوحہ علی شہید ہوئے"
+alternateTitle: "Zubaaṅ Zubaaṅ Pe Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Ali Khan Lakhnavi"
+reciter: "Afzal Mirza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zuban zuban pa hai nauha ali shaheed huwe
-  Har ek aankh hai darya ali shaheed huwe
+  Zubaaṅ zubaaṅ pe hai nauha Ali shahid hue
+  Har ek aankh hai darya Ali shahid hue
 
   1
-  Nabi ke baad ye nafs e nabi ki ruqsat hai
-  Hai soghwaar madina ali shaheed huwe
+  Nabi ke baad ye nafs-e-Nabi ki rukhsat hai
+  Hai sogwaar Madina Ali shahid hue
 
   2
-  Lagayi sajde may zarbat jo ibne muljim ne
-  Laraz ke reh gaya kaaba ali shaheed huwe
+  Lagaai sajde mein zarbat jo Ibn-e-Muljim ne
+  Laraz ke reh gaya Kaaba Ali shahid hue
 
   3
-  Ye kaisa zulm kiya tu ne zarbat e qatil
-  Lahoo lahoo hai musalla ali shaheed huwe
+  Ye kaisa zulm kiya tu ne zarbat-e-qaatil
+  Lahu lahu hai musalla Ali shahid hue
 
   4
-  Hassan hussain par toota musibaton ka pahaad
-  Utha rahe hai janaza ali shaheed huwe
+  Hasan Husain par tuta musibatoṅ ka pahaar
+  Utha rahe haiṅ janaaza Ali shahid hue
 
   5
-  Pachade khaati hai ghar bhar may zainab o kulsoom
-  Utha hai baap ka saaya ali shaheed huwe
+  Pachhaareṅ khaati hai ghar bhar mein Zainab o Kulsum
+  Utha hai baap ka saaya Ali shahid hue
 
   6
-  Khuda ke baad sahara tha jis se wo na raha
-  Hai gibraeel ko sadma ali shaheed huwe
+  Khuda ke baad sahaara tha jis se wo na raha
+  Hai Jibraail ko sadma Ali shahid hue
 
   7
-  Lipat ke maa se ye abbas ne kaha ro kar
-  Ghazab hua mere baba ali shaheed huwe
+  Lipat ke maaṅ se ye Abbas ne kaha ro kar
+  Ghazab hua mere Baba Ali shahid hue
 
   8
-  Namaziyon ki hai aankhon may khoon ke aansu
-  Udaas udaas hai sajda ali shaheed huwe
+  Namaaziyoṅ ki hai aankhoṅ mein khun ke aansu
+  Udaas udaas hai sajda Ali shahid hue
 
   9
-  Hai aaj hoor o malak ki siyah poshakein
-  Hai kayenaat ko sadma ali shaheed huwe
+  Hai aaj hur o malak ki siyaah poshaakeṅ
+  Hai kaainaat ko sadma Ali shahid hue
 
   10
-  Jabeen se khoon jo tapka to ro diya ramzan
-  Tadap ke bola ye qibla ali shaheed huwe
+  Jabiṅ se khun jo tapka to ro diya Ramzaaṅ
+  Tarap ke bola ye qibla Ali shahid hue
 
   11
   Raza jo likh chuke nauha to ye qalam ne kaha
-  Hassan ko dijiye pursa ali shaheed huwe
+  Hasan ko dijiye pursa Ali shahid hue
 # source_id: nohayonline:8400f4a29164a7b63cb7
 # source_url: https://www.nohayonline.com/details_content.php?id=1870
 # raw_sha256: 7dbc37f59290ff0c1d671c7c3a409b336718c6681d78979fd4cc7a7d36490310
 ---
-زباں زباں پہ ہے نوحہ علی شہید ہوے
-ہر ایک آنکھ ہے دریا علی شہید ہوے
+زباں زباں پہ ہے نوحہ علی شہید ہوئے
+ہر ایک آنکھ ہے دریا علی شہید ہوئے
 
 ۱
-نبی کے بعد یہ نفس نبی کی رخصت ہے
-ہے سوگ وار مدینہ علی شہید ہوے
+نبی کے بعد یہ نفسِ نبی کی رخصت ہے
+ہے سوگ وار مدینہ علی شہید ہوئے
 
 ۲
-لگای سجدے میں ضربت جو ابنِ ملجم نے
-لرز کے رہ گیا کعبہ علی شہید ہوے
+لگائی سجدے میں ضربت جو ابنِ ملجم نے
+لرز کے رہ گیا کعبہ علی شہید ہوئے
 
 ۳
-یہ کیسا ظلم کیا تو نے ضربت قاتل
-لہو لہو ہے مصلہ علی شہید ہوے
+یہ کیسا ظلم کیا تو نے ضربتِ قاتل
+لہو لہو ہے مصلّیٰ علی شہید ہوئے
 
 ۴
 حسن حسین پر ٹوٹا مصیبتوں کا پہاڑ
-اٹھا رہے ہیں جنازہ علی شہید ہوے
+اٹھا رہے ہیں جنازہ علی شہید ہوئے
 
 ۵
 پچھاڑیں کھاتی ہے گھر بھر میں زینب و کلثوم
-اٹھا ہے باپ کا سایہ علی شہید ہوے
+اٹھا ہے باپ کا سایہ علی شہید ہوئے
 
 ۶
 خدا کے بعد سہارا تھا جس سے وہ نہ رہا
-ہے جبرییل کو صدمہ علی شہید ہوے
+ہے جبرائیل کو صدمہ علی شہید ہوئے
 
 ۷
 لپٹ کے ماں سے یہ عباس نے کہا رو کر
-غضب ہوا میرے بابا علی شہید ہوے
+غضب ہوا میرے بابا علی شہید ہوئے
 
 ۸
-نمازیوں کی ہے آنکھوں میں خون کے آنسوں
-اداس اداس ہے سجدہ علی شہید ہوے
+نمازیوں کی ہے آنکھوں میں خون کے آنسو
+اداس اداس ہے سجدہ علی شہید ہوئے
 
 ۹
 ہے آج حور و ملک کی سیاہ پوشاکیں
-ہے کاینات کو صدمہ علی شہید ہوے
+ہے کائنات کو صدمہ علی شہید ہوئے
 
 ۱۰
 جبیں سے خون جو ٹپکا تو رو دیا رمضاں
-تڑپ کے بولا یہ قبلہ علی شہید ہوے
+تڑپ کے بولا یہ قبلہ علی شہید ہوئے
 
 ۱۱
 رضا جو لکھ چکے نوحہ تو یہ قلم نے کہا
-حسن کو دیجئے پرسہ علی شہید ہوے
+حسن کو دیجئے پرسہ علی شہید ہوئے

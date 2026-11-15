@@ -6,73 +6,74 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zindan se reha hogaye sadaat
-  Allah ye kya hogaye sadaat
-  Khud karbobala hogaye sadaat
+  Zindan se riha ho gaye saadaat
+  Allah ye kya ho gaye saadaat
+  Khud Karb o Bala ho gaye saadaat
 
   1
-  Ye kaisi rehaai hai ke dil khush nahi hota
+  Ye kaisi rihaai hai ke dil khush nahiṅ hota
   Kya reh gaya zindan mein ke har qaidi hai rota
-  Haa apni sakina se juda hote hai sadaat
-  Allah mere allah
+  Haa apni Sakina se juda hote haiṅ saadaat
+  Allah mere Allah
 
   2
-  Ay shamiyon ab chayn se aaraam se sona
-  Be-chain karega na kisi bachi ka rona
-  Jo shab ko buka karti thi royegi kabhi na
-  Allah mere allah
+  Ae Shaamiyo ab chain se aaraam se sona
+  Bechain karega na kisi bachchi ka rona
+  Jo shab ko bukaa karti thi royegi kabhi na
+  Allah mere Allah
 
   3
-  Zainab ne kaha qaid mein hai mera khazana
-  Ay aurton jab shaam dhale is taraf aana
-  Turbat pe sakina ki bhi aaye janana
-  Allah mere allah
+  Zainab ne kaha qaid mein hai mera khazaana
+  Ae auratoṅ jab shaam dhale is taraf aana
+  Turbat pe Sakina ki bhi aaye janaana
+  Allah mere Allah
 
   4
-  Sajjad ne zevar jo aseeri ke utaare
-  Sookhe hue sab zakhm hare hogaye saare
-  Sar dekh ke baba ka tadap kar wo pukare
-  Allah mere allah
+  Sajjad ne zevar jo asiri ke utaare
+  Sukhe hue sab zakhm hare ho gaye saare
+  Sar dekh ke Baba ka tarap kar wo pukaare
+  Allah mere Allah
 
   5
-  Zainab ne rida pa ke kaha shukre khuda hai
-  Abbas mere bhai magar sadma bada hai
-  Sar nange hamein saara jahan dekh chuka hai
-  Allah mere allah
+  Zainab ne rida paa ke kaha shukr-e-Khuda hai
+  Abbas mere bhai magar sadma bara hai
+  Sar nange hameṅ saara jahaan dekh chuka hai
+  Allah mere Allah
 
   6
-  Kulsoom jo ek lafz abhi tak na thi boli
-  Jis waqt rasan baazu se sajjad ne kholi
+  Kulsum jo ek lafz abhi tak na thi boli
+  Jis waqt rasan baazu se Sajjad ne kholi
   Kehne lagi kya jaaye watan khaali hai jholi
-  Allah mere allah
+  Allah mere Allah
 
   7
-  Ye khaafila jab karbobala laut ke aaya
-  Dekha ke pada dhoop mein hai bhai ka laasha
-  Zainab ne sare khakhe bala khud ko giraya
-  Allah mere allah
+  Ye qaafila jab Karb o Bala laut ke aaya
+  Dekha ke para dhup mein hai bhai ka laasha
+  Zainab ne sar-e-khaak-e-bala khud ko giraaya
+  Allah mere Allah
 
   8
-  Kya shaan thi sadaat ki jab ghar se chale thay
-  Mehmil thi amaari bhi thi mashkeeze bhare thay
-  Abbas-e-alamdar alam khole huwe thay
-  Allah mere allah
+  Kya shaan thi saadaat ki jab ghar se chale the
+  Mahmil thi amaari bhi thi mashkize bhare the
+  Abbas-e-alamdaar alam khole hue the
+  Allah mere Allah
 
   9
-  Galiyon mein madine ki ajab shor bapa hai
-  Sughra se abhi aake kisi ne ye kaha hai
-  Aa sughra tera baba watan laut raha hai
-  Allah mere allah
+  Galiyoṅ mein Madine ki ajab shor bapa hai
+  Sughra se abhi aa ke kisi ne ye kaha hai
+  Aa Sughra tera Baba watan laut raha hai
+  Allah mere Allah
 
   10
-  Roze pe muhamad ke jo saydania pahunchi
-  Ay sarwar o rehan nigaahe bhi jhuki thi
-  Dikhlake nishan rassi ke zainab ye pukari
-  Allah mere allah
+  Rauze pe Muhammad ke jo Sayyidaaniyaaṅ pahunchi
+  Ae Sarwar o Rehaan nigaaheṅ bhi jhuki thi
+  Dikhlaa ke nishaaṅ rassi ke Zainab ye pukaari
+  Allah mere Allah
 # source_id: nohayonline:adf87984599c34824637
 # source_url: https://www.nohayonline.com/details_content.php?id=164
 # raw_sha256: 30e9711695ddfa1dc976e9b1e080ac8eeeea90cfbad8766b770f1723fc497969
@@ -83,8 +84,8 @@ romanLyrics: |-
 خود کرب و بلا ہو گئے سادات
 
 ۱
-یہ کیسی رہائی ہے کے دل خوش نہیں ہوتا
-کیا رِہ گیا زندان میں کے ہر شہہ بھی ہے روتا
+یہ کیسی رہائی ہے کہ دل خوش نہیں ہوتا
+کیا رِہ گیا زندان میں کہ ہر شہہ بھی ہے روتا
 ہا اپنی سکینہ سے جُدا ہوتے ہیں سادات
 اللہ میرے اللہ
 
@@ -107,9 +108,9 @@ romanLyrics: |-
 اللہ میرے اللہ
 
 ۵
-زینب نے ردا پا کے کہا شکر ِ خدا ہے
+زینب نے ردا پا کے کہا شکرِ خدا ہے
 عباس میرے بھائی مگر صدمہ بڑا ہے
-سر ننگے ہمیںسارا جہان دیکھ چُکا ہے
+سر ننگے ہمیں سارا جہان دیکھ چُکا ہے
 اللہ میرے اللہ
 
 ۶
@@ -126,7 +127,7 @@ romanLyrics: |-
 
 ۸
 کیا شان تھی سادات کی جب گھر سے چلے تھے
-مہمل تھی عماری بھی تھی مشکیزے بھرے تھے
+محمل تھی عماری بھی تھی مشکیزے بھرے تھے
 عباسِ علمدار علم کھولے ہوئے تھے
 اللہ میرے اللہ
 
