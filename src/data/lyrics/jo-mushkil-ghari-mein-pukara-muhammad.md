@@ -19,7 +19,7 @@ romanLyrics: |-
 
   2
   Ae Asmaa-e-Hasna ijaazat hai keh duṅ
-  Ali (JJL) ne zamin par utaara Muhammad
+  Ali ne zamin par utaara Muhammad
 
   3
   Zubaanoṅ ke kham tegh-e-Haider ne nikle
@@ -49,7 +49,7 @@ romanLyrics: |-
 
 ۲
 اے اسمائے حسنیٰ اجازت ہے کہہ دوں
-علی (JJL) نے زمین پر اتارا محمد
+علی نے زمین پر اتارا محمد
 
 ۳
 زبانوں کے خم تیغِ حیدر نے نکلے
