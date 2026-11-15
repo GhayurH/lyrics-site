@@ -157,3 +157,29 @@ test("Source scope prevents overwriting missing Basta translations or English ap
   assert.equal(changed.paired, 1);
   assert(changed.text.endsWith("---\n" + urdu + "\n"), "never edit authoritative Urdu");
 });
+
+
+test("English originals and Balti/Panjabi readings are not Roman Urdu normalization targets", async () => {
+  const { readFile } = await import("node:fs/promises");
+  for (const filename of [
+    "heart-of-hussain.md",
+    "karbala-karbala-english.md",
+    "the-one-and-only-hussain.md",
+    "abbas-alamdar-balti.md",
+    "uth-nana-mere-dard-wandaa-main-veer-kuha-k-ai-han.md",
+  ]) {
+    const path = "src/data/lyrics/" + filename;
+    const original = await readFile(new URL("../" + path, import.meta.url), "utf8");
+    const result = normalizeRomanMarkdown(original, path);
+    assert.equal(result.text, original, filename + " must not be modified by Urdu orthography");
+    assert.equal(result.changed, false);
+    assert.deepEqual(result.findings, [], filename + " must not be required to add Roman Urdu");
+  }
+});
+
+test("Roman-only Urdu doesn't require a second Roman edition", () => {
+  const source = "---\\nlanguage: Urdu\\nlang: ur\\ndirection: ltr\\n---\\nRoman-only Urdu\\n".replaceAll("\\n", "\n");
+  const result = normalizeRomanMarkdown(source, "src/data/lyrics/roman-only.md");
+  assert.equal(result.changed, false);
+  assert.deepEqual(result.findings, []);
+});
