@@ -8,7 +8,7 @@ export async function getStaticPaths() {
 }
 export function GET({ props }: { props: { item: CollectionEntry<"lyrics"> } }) {
   const { item } = props;
-  const romanOnly = item.data.lang === "ur" && item.data.direction === "ltr" && !item.data.romanLyrics;
+  const romanOnly = item.data.direction === "ltr" && item.data.language !== "English" && !item.data.romanLyrics;
   return Response.json({
     version: 1, lyric: {
       id: recitationLyricId(item), title: item.data.title,
