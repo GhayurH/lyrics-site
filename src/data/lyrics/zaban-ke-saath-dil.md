@@ -1,62 +1,63 @@
 ---
 title: "علی کی بادشاہی ہے"
-alternateTitle: "Zaban Ke Saath Dil"
+alternateTitle: "Zabaaṅ Ke Saath Dil"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Noha"
+kalamType: "Manqabat"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ali ki badshahi hai
-  Ali ism e ilaahi hai
+  Ali ki baadshaahi hai
+  Ali ism-e-ilaahi hai
   Har ek mizaan mein tola
-  Zaban ke saath dil bola
-  Ali maula ali maula
+  Zabaaṅ ke saath dil bola
+  Ali Maula Ali Maula
 
   1
-  Lage jab hyderi naara
-  Ali maula ali maula
-  Jahan mein goonj hoti hai
-  Ali maula ali maula
+  Lage jab Haidari naara
+  Ali Maula Ali Maula
+  Jahaaṅ mein gunj hoti hai
+  Ali Maula Ali Maula
 
   2
-  Kabhi naade ali pad kar
-  Kaho ya faathe khyber
+  Kabhi naad-e-Ali parh kar
+  Kaho ya faatih-e-Khaibar
   To mushkil hogi mushkil mein
   Ali ka naam hi sun kar
 
   3
-  Nusairi ne khuda maana
-  Khuda ne la-fata jaana
+  Nusairi ne Khuda maana
+  Khuda ne laafata jaana
   Khuda ko wohi samjhega
   Ali ko jis ne pehchana
 
   4
   Ali suraj ko palta de
-  Ali darya ko tehra de
+  Ali darya ko thahra de
   Ali chaahe to munkir par
-  Qaza ki aag barsaade
+  Qaza ki aag barsa de
 
   5
   Ali aamil ali kaamil
   Ali kashti ali saahil
-  Agar insaaf se poocho
-  Ali islam ka hai dil
+  Agar insaaf se puchho
+  Ali Islam ka hai dil
 
   6
-  Ali hai mazhare yazdan
-  Ali hai bolta quran
-  Nabuwat jism ki surat
-  Ali us jism mein hai jaan
+  Ali hai mazhar-e-Yazdaaṅ
+  Ali hai bolta Quraaṅ
+  Nabuwwat jism ki surat
+  Ali us jism mein hai jaaṅ
 
   7
-  Salooni ki sada ban kar
-  Kabhi rehaan aur sarwar
+  Saluni ki sada ban kar
+  Kabhi Rehaan aur Sarwar
   Koi awaaz aati hai
-  Jo chaho pooch lo aa kar
+  Jo chaaho puchh lo aa kar
 # source_id: nohayonline:853c4e2a0c5487d96480
 # source_url: https://www.nohayonline.com/details_content.php?id=2061
 # raw_sha256: 6b99dd1d9c548415c14bd392fcbb5beeb4fad5677cb36faa43124b8108b77fee
@@ -87,9 +88,9 @@ romanLyrics: |-
 
 ۴
 علی سورج پلٹا دے
-علی دریا کو ٹہرا دے
+علی دریا کو ٹھہرا دے
 علی چاہے تو منکر پر
-قضا کی آگ برسادے
+قضا کی آگ برسا دے
 
 ۵
 علی عامل علی کامل
