@@ -1,112 +1,115 @@
 ---
-title: "مارے گےء سب انصار حسینی"
-alternateTitle: "Ye Asre Ashoor"
+title: "مارے گئے سب انصارِ حسینی"
+alternateTitle: "Ye Asr-e-Ashur"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Irfan Haider"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ye Asre Ashoor"]
 published: false
 romanLyrics: |-
-  Maare gaye sab ansaar e hussaini
+  Maare gaye sab ansaar-e-Husaini
   Faraat behti hai bala ki garmi hai
+  Hai mutmain tin din ka pyaasa
+  Qayaam-e-sadaat se musalsal
+  Sada ye aati hai
+  Husain ya Husain Husain ya Husain
 
   1
-  Hai mutmain teen din ka pyasa
-  Qayaam e sadaat se musalsal
-  Sada ye aati hai
-  Hussain ya hussain hussain ya hussain
-  Hai karbala mein hussain tanha
-  Khuda khair kare khuda khair kare
-  Hai karbala mein hussain tanha
-  Ye asr e ashoor hai ye asr e ashoor hai
+  Hai Karbala mein Husain tanha
+  Khuda khair kare Khuda khair kare
+  Hai Karbala mein Husain tanha
+  Ye asr-e-Ashur hai ye asr-e-Ashur hai
+  Husain ya Husain Husain ya Husain
 
   2
-  Takte hai suye aasman
-  Jaari hai kuch wirde zaban
-  Chehre pe asghar ka lahoo
-  Ab mar chuke shaah e zaman
-  Hai dhoop sar par nahi hai saaya
+  Takte haiṅ su-e-aasmaaṅ
+  Jaari hai kuch wird-e-zabaaṅ
+  Chehre pe Asghar ka lahu
+  Ab mar chuke Shah-e-zaman
+  Hai dhup sar par nahiṅ hai saaya
 
   3
   Abbas ke baazu kate
-  Qasim ke tukde hogaye
-  Akbar ka seena chid gaya
-  Aun o mohamed na rahe
-  Kise pukare ghareeb e zehra
+  Qasim ke tukre ho gaye
+  Akbar ka sina chhid gaya
+  Aun o Muhammad na rahe
+  Kise pukaare gharib-e-Zehra
 
   4
-  Teer o tabar ke waar se
+  Tir o tabar ke waar se
   Maara kabhi talwaar se
-  Haye qayamat hogayi
+  Haaye qayaamat ho gayi
   Jab wo gira rahwaar se
-  Na zeen par na zameen par tha
-  Nabi ka shehzada
+  Na zin par na zamin par tha
+  Nabi ka shehzaada
 
   5
   Laashe utha kar thak chuka
-  Laakhon ne hai ghera hua
-  Hai khoon ke pyaase sabhi
-  Aa kar bacha lo fatema
-  Lahoo mein tar hai tumhara beta
+  Laakhoṅ ne hai ghera hua
+  Hai khun ke pyaase sabhi
+  Aa kar bacha lo Fatima
+  Lahu mein tar hai tumhaara beta
 
   6
-  Jab shimr ka khanjar chala
-  Kat kar gira sookha gala
-  Tha bhai aur hamsheer mein
+  Jab Shimr ka khanjar chala
+  Kat kar gira sukha gala
+  Tha bhai aur hamshir mein
   Sattar qadam ka faasla
-  Na jaane zainab ne kaise dekha
+  Na jaane Zainab ne kaise dekha
 
   7
   Ye arsh se aayi sada
-  Raazi hoo mai aa laut aa
+  Raazi huṅ main aa laut aa
   Talwaar rakh kar niyam mein
-  Palte jo shaah e karbala
+  Palte jo Shah-e-Karbala
   Ali ke bete ko sab ne maara
 
   8
-  Zeeshan o irfan e aza
-  Royi zameen e karbala
-  Jab shimr sar shabbir ka
-  Qaimon ki jaanib le chala
-  Tadap raha tha zameen pe laasha
+  Zishaan o Irfan-e-aza
+  Royi zamin-e-Karbala
+  Jab Shimr sar-e-Shabbir ka
+  Khaimoṅ ki jaanib le chala
+  Tarap raha tha zamiṅ pe laasha
 # source_id: nohayonline:5138e6cce0097afb91bf
 # source_url: https://www.nohayonline.com/details_content.php?id=2200
 # raw_sha256: 93c791aaff3e8df53825ab65e633175da42d92f5782b509d1b9aa3a487212c2b
 ---
-مارے گےء سب انصار حسینی
+مارے گئے سب انصارِ حسینی
 فرات بہتی ہے بلا کی گرمی ہے
-
-۱
 ہے مطمئن تین دن کا پیاسا
 قیامِ سادات سے مسلسل
 صدا یہ آتی ہے
 حسین یا حسین حسین یا حسین
+
+۱
 ہے کربلا میں حسین تنہا
 خدا خیر کرے خدا خیر کرے
 ہے کربلا میں حسین تنہا
-یہ عصر عاشور ہے یہ عصر عاشور ہے
+یہ عصرِ عاشور ہے یہ عصرِ عاشور ہے
+حسین یا حسین حسین یا حسین
 
 ۲
-تکتے ہیں سوے آسماں
-جاری ہے کچھ ورد زباں
+تکتے ہیں سوئے آسماں
+جاری ہے کچھ وردِ زباں
 چہرے پہ اصغر کا لہو
-اب مر چکے شاہ زمن
+اب مر چکے شاہِ زمن
 ہے دھوپ سر پر نہیں ہے سایہ
 
 ۳
 عباس کے بازو کٹے
-قاسم کے ٹکڑے ہو گےء
+قاسم کے ٹکڑے ہو گئے
 اکبر کا سینہ چھد گیا
 عون و محمد نہ رہے
-کسے پکارے غریب زہرا
+کسے پکارے غریبِ زہرا
 
 ۴
 تیر و تبر کے وار سے
 مارا کبھی تلوار سے
-ہاے قیامت ہو گیء
+ہائے قیامت ہو گئی
 جب وہ گرا رہوار سے
 نہ زین پر نہ زمین پر تھا
 نبی کا شہزادہ
@@ -121,20 +124,20 @@ romanLyrics: |-
 ۶
 جب شمر کا خنجر چلا
 کٹ کر گرا سوکھا گلا
-تھا بھای اور ہمشیر میں
+تھا بھائی اور ہمشیر میں
 ستر قدم کا فاصلہ
 نہ جانے زینب نے کیسے دیکھا
 
 ۷
-یہ عرش سے آی صدا
+یہ عرش سے آئی صدا
 راضی ہوں میں آ لوٹ آ
 تلوار رکھ کر نیم میں
-پلٹے جو شاہ کربلا
+پلٹے جو شاہِ کربلا
 علی کے باوجود بیٹے کو سب نے مارا
 
 ۸
 زیشان و عرفانِ عزا
-روی زمین کربلا
-جب شمر سر شبیر کا
+روئی زمینِ کربلا
+جب شمر سرِ شبیر کا
 خیموں کی جانب لے چلا
 تڑپ رہا تھا زمیں پہ لاشہ
