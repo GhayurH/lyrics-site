@@ -1,39 +1,64 @@
 ---
-title: "Woh Tu Hai Woh Main Hoon Hamd"
-language: "Roman Urdu"
+title: "وہ تو ہے وہ میں ہوں"
+alternateTitle: "Woh Tu Hai Woh Main Huṅ"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Hamd"
-tags: ["noImage", "noUrdu"]
-aliases: []
+poet: "Mir Ahmed Navaid (Naveed)"
+sixVerseLayout: "pairs"
+tags: ["noImage"]
+aliases: ["Woh Tu Hai Woh Main Hoon Hamd"]
 published: false
+romanLyrics: |-
+  1
+  Sine mein jo ik dard sa hota hai woh tu hai
+  Jo dard ki shiddat se bikharta hai woh main huṅ
+  Jo baagh ko shabnam se bhigota hai woh tu hai
+  Jo gul ki tarah dhul ke nikharta hai woh main huṅ
+  Har shai mein jo aaina pirota hai woh tu hai
+  Jo aaina khaanoṅ mein sanwarta hai woh main huṅ
+
+  2
+  Jangal ko jo khushbu se bhigota hai woh tu hai
+  Jangal se jo har shaam guzarta hai woh main huṅ
+  Daaghoṅ ko mere dil se jo dhota hai woh tu hai
+  Daaghoṅ ki tamanna mein jo marta hai woh main huṅ
+  Mujh dil ko jo rangoṅ mein dubota hai woh tu hai
+  Jo dub ke rangoṅ mein ubharta hai woh main huṅ
+
+  3
+  Maati mein jo darya ko dubota hai woh tu hai
+  Maati se jo qatra sa natharta hai woh main huṅ
+  Mujh khaak mein ik tukhm jo bota hai woh tu hai
+  Saaya sa sar-e-dahr jo karta hai woh main huṅ
+  Jo tha, woh jo hona hai, jo hota hai, woh tu hai
+  Hone ke dukhoṅ se jo guzarta hai woh main huṅ
 # source_id: tajpoints:b199764eaa38178006dc
 # source_url: https://tajpoints.com/2023/03/woh-tu-hai-woh-main-hoon-hamd-lyrics-in.html
 # raw_sha256: ce3edf609d8418c0d8d79f4052ad8ae502247816c85b4cb2d623802cabd51e4d
 ---
 
-Woh Tu Hai Woh Main Hoon Hamd Lyrics
+۱
+سینے میں جو اک درد سا ہوتا ہے وہ تو ہے
+جو درد کی شدت سے بکھرتا ہے وہ میں ہوں
+جو باغ کو شبنم سے بھگوتا ہے وہ تو ہے
+جو گل کی طرح دھل کے نکھرتا ہے وہ میں ہوں
+ہر شے میں جو آئینہ پروتا ہے وہ تو ہے
+جو آئینہ خانوں میں سنورتا ہے وہ میں ہوں
 
-1
-Seene Mein Jo Ik Dard Sa Hota Hai Woh Tu Hai
-Jo Dard Ki Shiddat Se Bikharta Hai Woh Main Hoon
-Jo Bagh Ko Shabnam Se Bhegota Hai Woh Tu Hai
-Jo Gul Ki Tarha Dhul Ke Nikharta Hai Woh Main Hoon
-Har Shey Mein Jo Aaina Pirota Hai Woh Tu Hai
-Jo Aaina Khano Mein Sanwarta Hai Woh Main Hoon
+۲
+جنگل کو جو خوشبو سے بھگوتا ہے وہ تو ہے
+جنگل سے جو ہر شام گزرتا ہے وہ میں ہوں
+داغوں کو میرے دل سے جو دھوتا ہے وہ تو ہے
+داغوں کی تمنا میں جو مرتا ہے وہ میں ہوں
+مجھ دل کو جو رنگوں میں ڈبوتا ہے وہ تو ہے
+جو ڈوب کے رنگوں میں ابھرتا ہے وہ میں ہوں
 
-2
-Jangal Ko Jo Khushbo Se Bhegota Hai Woh Tu Hai
-Jangal Se Jo Har Sham Guzarta Hai Woh Main Ho
-Dagoon Ko Mere Dil Se Jo Dhota Hai Woh Tu Hai
-Dagoon Ki Tamana Mein Jo Marta Hai Woh Main Hoon
-Mujh Dil Ko Jo Rangon Mein Dabota Hai Woh Tu Hai
-Jo Doob Ke Rangon Mein Ubharta Hai Woh Main Hoon
-
-3
-Mati Mein Jo Darya Ko Dabota Hai Woh Tu Hai
-Mati Se Jo Qatra Sa Natharta Hai Woh Main Hoon
-Mujh Khak Mein Ik Tukham Jo Bota Hai Woh Tu Hai
-Saya Sa Sar-e-Dehar Jo Karta Hai Woh Main Hoon
-Jo Tha, Woh Jo Hona Hai, Jo Hota Hai, Woh Tu Hai
-Hone Ke Dukhon Se Jo Guzarta Hai Woh Main Hoon
+۳
+ماٹی میں جو دریا کو ڈبوتا ہے وہ تو ہے
+ماٹی سے جو قطرہ سا نتھرتا ہے وہ میں ہوں
+مجھ خاک میں اک تخم جو بوتا ہے وہ تو ہے
+سایہ سا سرِ دہر جو کرتا ہے وہ میں ہوں
+جو تھا، وہ جو ہونا ہے، جو ہوتا ہے، وہ تو ہے
+ہونے کے دکھوں سے جو گزرتا ہے وہ میں ہوں
