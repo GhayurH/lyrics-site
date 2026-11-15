@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar, H. Naqvi & Z. Abbas"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
@@ -14,48 +15,92 @@ romanLyrics: |-
   Maula maula maula alamdar
 
   1
-  Sar taapa wafa hai ye
-  Sheron mein bala hai ye
-  Hyder ki sada hai abbas
+  Sar taa paa wafa hai ye
+  Sheroṅ mein bala hai ye
+  Haidar ki sada hai Abbas
   Jauhar wo dikha dega
   Baatil ko mita dega
-  Toofan bhi utha de abbas
-  Ye hai mera abbas
+  Tufaaṅ bhi uthaa de Abbas
+  Ye hai mera Abbas
   Salaari alamdar
   Sardari alamdar
   Jarrari alamdar
   Karrari alamdar
   Alamdar maula alamdar
+  Alamdar maula alamdar
+  Maula maula maula alamdar
+  Maula maula maula alamdar
 
   2
-  Abbas ki hai is liye dunya ye deewani
-  Abbas ke hai khoon mein hyder ki jawani
-  Abbas dua e dil e zehra ki nishani
-  Abbas pe hasnain ke jazbon ki rawani
-  Lagta hai ali aagaye dunya mein dubara
-  Ya maula abal fazlil abbas
+  Abbas ki hai is liye dunya ye diwaani
+  Abbas ke hai khun mein Haidar ki jawaani
+  Abbas dua-e-dil-e-Zehra ki nishaani
+  Abbas pe Hasnain ke jazboṅ ki rawaani
+  Lagta hai Ali aa gaye dunya mein dubaara
+  Ye hai mera Abbas
+
+  Salaari alamdar
+  Sardari alamdar
+  Jarrari alamdar
+  Karrari alamdar
+
+  Alamdar maula alamdar
+  Alamdar maula alamdar
+  Ya Maula Abal Fazlil Abbas
+  Alamdar alamdar alamdar
 
   3
-  Dekha na jahan waalon ne is shaan ka ghazi
-  Ye legaya dunya ke dileron se bhi baazi
-  Karte hai salaam iski ibadat ko namazi
-  Kya kam hai ye rutba ke hussain is se hai raazi
-  Wo sher e jari hai jo kise se nahi haara
+  Dekha na jahaaṅ waaloṅ ne is shaan ka Ghaazi
+  Ye le gaya dunya ke dileroṅ se bhi baazi
+  Karte haiṅ salaam is ki ibaadat ko namaazi
+  Kya kam hai ye rutba ke Husain is se hai raazi
+  Wo sher-e-jari hai jo kisi se nahiṅ haara
+  Ye hai mera Abbas
+
+  Salaari alamdar
+  Sardari alamdar
+  Jarrari alamdar
+  Karrari alamdar
+
+  Alamdar maula alamdar
+  Alamdar maula alamdar
+  Maula maula maula alamdar
+  Maula maula maula alamdar
 
   4
   Hai kaun jo har tarha mukammal nazar aaye
-  Hai kaun jo har rishta e ehsaas nibhaye
-  Hai kaun jo maqtal ko wafaon se sajaye
-  Kiska hai alam jiske hai phaile huwe saaye
-  Baazu bhi nahi phir bhi hai dunya ka sahara
+  Hai kaun jo har rishta-e-ehsaas nibhaaye
+  Hai kaun jo maqtal ko wafaaoṅ se sajaaye
+  Kis ka hai alam jis ke hai phaile huwe saaye
+  Baazu bhi nahiṅ phir bhi hai dunya ka sahaara
+  Ye hai mera Abbas
+
+  Salaari alamdar
+  Sardari alamdar
+  Jarrari alamdar
+  Karrari alamdar
+
+  Alamdar maula alamdar
+  Alamdar maula alamdar
+  Ya Maula Abal Fazlil Abbas
   Alamdar alamdar alamdar
 
   5
-  Jab ghere tha abbas ko wo lashkar e keena
-  Abbas ke seene mein dhadakti thi sakina
-  Seene pe kabhi mashk kabhi mashk pe seena
-  Jab pani hi beh jaaye to phir kaahe ka jeena
-  Ab zinda palatna nahi ghazi ko gawara
+  Jab ghere tha Abbas ko wo lashkar-e-kina
+  Abbas ke sine mein dharakti thi Sakina
+  Sine pe kabhi mashk kabhi mashk pe sina
+  Jab paani hi beh jaaye to phir kaahe ka jina
+  Ab zinda palatna nahiṅ Ghaazi ko gawaara
+  Ye hai mera Abbas
+
+  Salaari alamdar
+  Sardari alamdar
+  Jarrari alamdar
+  Karrari alamdar
+
+  Maula maula maula alamdar
+  Maula maula maula alamdar
+  Ye hai mera Abbas
 # source_id: nohayonline:61aaad01ff1bcd854af5
 # source_url: https://www.nohayonline.com/details_content.php?id=3640
 # raw_sha256: 9fc4ba5968f710881ecc35b23544d9eb14b49ee4e455820a9ee433b06fff99d4
@@ -76,28 +121,62 @@ romanLyrics: |-
 جراری علمدار
 کراری علمدار
 علمدار مولا علمدار
+علمدار مولا علمدار
+مولا مولا مولا علمدار
+مولا مولا مولا علمدار
 
 ۲
 عباس کی ہے اس لئے دنیا یہ دیوانی
 عباس کے ہے خون میں حیدر کی جوانی
-عباس دعاے دل زہرا کی نشانی
-عباس پہ حسنین کے جزبوں کی روانی
-لگتا ہے علی آ گےء دنیا میں دوبارہ
+عباس دعائے دلِ زہرا کی نشانی
+عباس پہ حسنین کے جذبوں کی روانی
+لگتا ہے علی آ گئے دنیا میں دوبارہ
+یہ ہے میرا عباس
+
+سالاری علمدار
+سرداری علمدار
+جراری علمدار
+کراری علمدار
+
+علمدار مولا علمدار
+علمدار مولا علمدار
 یا مولا ابالفضل العباس
+مولا مولا مولا علمدار
 
 ۳
 دیکھا نہ جہاں والوں نے اس شان کا غازی
 یہ لے گیا دنیا کے دلیروں سے بھی بازی
 کرتے ہیں سلام اس کی عبادت کو نمازی
-کیا کم ہے یہ رتبہ کہ حسین اس سے ہے رازی
+کیا کم ہے یہ رتبہ کہ حسین اس سے ہے راضی
 وہ شیر جری ہے جو کسی سے نہیں ہارا
+یہ ہے میرا عباس
+
+سالاری علمدار
+سرداری علمدار
+جراری علمدار
+کراری علمدار
+
+علمدار مولا علمدار
+علمدار مولا علمدار
+مولا مولا مولا علمدار
+مولا مولا مولا علمدار
 
 ۴
-ہے کون جو ہر طرح مکمل نظر آے
-ہے کون جو ہر رشتہء احساس نبھاے
-ہے کون جو مقتل کو وفاؤں سے سجاے
-کس کا علم جس کے ہے پھیلاے ہوئے ساے
+ہے کون جو ہر طرح مکمل نظر آئے
+ہے کون جو ہر رشتۂ احساس نبھائے
+ہے کون جو مقتل کو وفاؤں سے سجائے
+کس کا علم جس کے ہے پھیلائے ہوئے سائے
 بازو بھی نہیں پھر بھی ہے دنیا کا سہارا
+یہ ہے میرا عباس
+
+سالاری علمدار
+سرداری علمدار
+جراری علمدار
+کراری علمدار
+
+علمدار مولا علمدار
+علمدار مولا علمدار
+مولا مولا مولا علمدار
 علمدار علمدار علمدار
 
 ۵
@@ -106,3 +185,13 @@ romanLyrics: |-
 سینے پہ کبھی مشک کبھی مشک پہ سینہ
 جب پانی ہی بہہ جائے تو پھر کاہے کا جینا
 اب زندہ پلٹنا نہیں غازی کو گوارا
+یہ ہے میرا عباس
+
+سالاری علمدار
+سرداری علمدار
+جراری علمدار
+کراری علمدار
+
+مولا مولا مولا علمدار
+مولا مولا مولا علمدار
+یہ ہے میرا عباس

@@ -1,58 +1,59 @@
 ---
 title: "یہ حسین مقتل سے کس کی لاش لاتے ہیں"
-alternateTitle: "Ye Hussain Maqtal"
+alternateTitle: "Ye Husain Maqtal"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Afandi"
+reciter: "Hadi Ali Khan Muslim"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ye hussain maqtal se kis ki laash laate hai
-  
+  Ye Husain maqtal se kis ki laash laate haiṅ
+
   1
-  Kyun gulon ki khushboo se saara ran mehekta hai
+  Kiuṅ guloṅ ki khushbu se saara ran mehekta hai
   Pairahan moattar hai kya ye koi dulha hai
-  Chaand sa haseen chehra dhoop mein chamakta hai
-  Aur lahoo ki dhaaron ka uske rukh pa sehra hai
-  
+  Chaand sa hasiṅ chehra dhup mein chamakta hai
+  Aur lahu ki dhaaroṅ ka us ke rukh pe sehra hai
+
   2
-  Jab lagayi thi mehendi us ko pyari behna ne
-  Maa libaase nau lekar aayi usko pehnane
-  Sab baratiyon ke thay aansuon ke nazrane
-  Subha ki thi ye baatein shaam ki khuda jaane
-  
+  Jab lagaai thi mehndi us ko pyaari behna ne
+  Maaṅ libaas-e-nau le kar aai us ko pehnaane
+  Sab baraatiyoṅ ke the aansuoṅ ke nazraane
+  Subh ki thi ye baateṅ shaam ki Khuda jaane
+
   3
   Tashnagi ke sehra mein aag si barasti hai
-  Boond boond pani ko zindagi tarasti hai
-  Tashna kaam dulha hai aur dulhan bhi pyasi hai
-  Haye kaisi shaadi hai har taraf udaasi hai
-  
+  Bund bund paani ko zindagi tarasti hai
+  Tishna kaam dulha hai aur dulhan bhi pyaasi hai
+  Haaye kaisi shaadi hai har taraf udaasi hai
+
   4
-  Subha se kayi laashein leke aaye maidan se
+  Subh se kai laasheṅ le ke aaye maidaaṅ se
   Par ye laash laane ki shaan hi niraali hai
-  Ek aba ke goshe mein jiski laash aa jaaye
-  Us ke jism e athar par guzri kya khuda jaane
-  
+  Ek abaa ke goshe mein jis ki laash aa jaaye
+  Us ke jism-e-athar par guzri kya Khuda jaane
+
   5
-  Ran mein laash dulha ki khaak o khoon mein ghaltan hai
-  Wan dulhan ke qaime mein hashr jaisa saaman hai
-  Sar pa khaak daali hai maang uski veeran hai
-  Bain uske sun sun kar maa ka dil pareshan hai
-  
+  Ran mein laash dulha ki khaak o khuṅ mein ghaltaaṅ hai
+  Waaṅ dulhan ke khaime mein hashr jaisa saamaaṅ hai
+  Sar pe khaak daali hai maang us ki viraaṅ hai
+  Bain us ke sun sun kar maaṅ ka dil pareshaaṅ hai
+
   6
-  Tha dulhan ka ye nauha gardishe zamana hai
-  Tum gaye suye maqtal hum ko qaid khana hai
-  Yaad ke sahare hi zindagi bitaana hai
-  Kaash hum hi mar jaate ye bhi koi jeena hai
-  
+  Tha dulhan ka ye nauha gardish-e-zamaana hai
+  Tum gaye su-e-maqtal hum ko qaid khaana hai
+  Yaad ke sahaare hi zindagi bitaana hai
+  Kaash hum hi mar jaate ye bhi koi jina hai
+
   7
-  Hogayi dulhan bewa sheh ka dil tadapta hai
-  Har nafas wohi manzar chashme nam mein rehta hai
-  Ghash mein umme farwa hai aur dulhan ko sakta hai
-  Ab raza qayamat hai aasman larazta hai
+  Ho gai dulhan bewa Sheh ka dil tarapta hai
+  Har nafas wohi manzar chashm-e-nam mein rehta hai
+  Ghash mein Umm-e-Farwa hai aur dulhan ko sakta hai
+  Ab Raza qayaamat hai aasmaaṅ larazta hai
 # source_id: nohayonline:3cfac154a30c16a0a299
 # source_url: https://www.nohayonline.com/details_content.php?id=3016
 # raw_sha256: 40d54243d1da97b2d46f846fc9e5d7deb0c96cc79a377d7fdcbc1bfcbf32f825
@@ -62,27 +63,27 @@ romanLyrics: |-
 
 ۱
 کیوں گلوں کی خوشبو سے سارا رن مہکتا ہے
-پیرہن معتر ہے کیا یہ کوی دولہا ہے
+پیرہن معطر ہے کیا یہ کوئی دولہا ہے
 چاند سا حسیں چہرہ دھوپ میں چمکتا ہے
 اور لہو کی دھاروں کا اس کے رخ پہ سہرا ہے
 
 ۲
-جب لگای تھی مہندی اس کو پیاری بہنا نے
-ماں لباس نو لے کر آی اسکو پہنانے
-سب براتیوں کے تھے آنسوؤں کے نظرانے
-صبح کی تھی‌ یہ باتیں شام کی خدا جانے
+جب لگائی تھی مہندی اس کو پیاری بہنا نے
+ماں لباسِ نو لے کر آئی اس کو پہنانے
+سب براتیوں کے تھے آنسوؤں کے نذرانے
+صبح کی تھی یہ باتیں شام کی خدا جانے
 
 ۳
 تشنگی کے صحرا میں آگ سی برستی ہے
-بوندھ بوندھ پانی کو زندگی ترستی ہے
+بوند بوند پانی کو زندگی ترستی ہے
 تشنہ کام دولہا ہے اور دلہن بھی پیاسی ہے
-ہاے کیسی شادی ہے ہر طرف اداسی ہے
+ہائے کیسی شادی ہے ہر طرف اداسی ہے
 
 ۴
-صبح سے کیء لاشیں لے کے آے میداں سے
+صبح سے کئی لاشیں لے کے آئے میداں سے
 پر یہ لاش لانے کی شان ہی نرالی ہے
 ایک عبا کے گوشے میں جس کی لاش آ جائے
-اس کے جسم اطہر پر گزری کیا خدا جانے
+اس کے جسمِ اطہر پر گزری کیا خدا جانے
 
 ۵
 رن میں لاش دولہا کی خاک و خوں میں غلطاں ہے
@@ -91,13 +92,13 @@ romanLyrics: |-
 بین اس کے سن سن کر ماں کا دل پریشاں ہے
 
 ۶
-تھا دلہن کا یہ نوحہ کا یہ نوحہ گردش زمانہ ہے
-تم گےء سوے مقتل ہم کو قید خانہ ہے
+تھا دلہن کا یہ نوحہ گردشِ زمانہ ہے
+تم گئے سوئے مقتل ہم کو قید خانہ ہے
 یاد کے سہارے ہی زندگی بتانا ہے
 کاش ہم ہی مر جاتے یہ بھی کوئی جینا ہے
 
 ۷
-ہو گیء دلہن بیوہ شہ کا دل تڑپتا ہے
+ہو گئی دلہن بیوہ شہ کا دل تڑپتا ہے
 ہر نفس وہی منظر چشمِ نم میں رہتا ہے
-غش میں ام فروہ ہے اور دلہن کو سکتہ ہے
+غش میں امِ فروہ ہے اور دلہن کو سکتہ ہے
 اب رضا قیامت ہے آسماں لرزتا ہے
