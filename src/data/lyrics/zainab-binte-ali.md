@@ -1,73 +1,74 @@
 ---
-title: اخی تلعرب
+title: عقیلۃ العرب
 alternateTitle: Zainab Binte Ali
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Aqeelatul arab
+  Aqilatul Arab
 
   1
-  Ay munkir o nakeer sunlo meri sada
-  Tum ko nahi pata zainab ka hoon fakeer
-  Ye qabr nahi hai uska hai azakhana
-  Jo binte murtaza hai shabbir ki hamsheer
-  Zainab binte ali
+  Ae Munkar o Nakir sun lo meri sada
+  Tum ko nahiṅ pata Zainab ka huṅ faqir
+  Ye qabr nahiṅ hai us ka hai azaakhaana
+  Jo bint-e-Murtaza hai Shabbir ki hamshir
+  Zainab bint-e-Ali
 
   2
-  Ay nakirayn sawalon ki na bharmaar karo
-  Farshe majlis hai yahan aao adab se baitho
-  Sheh ki majlis ho bapa hukm deti hai yehi
+  Ae Nakirain sawaaloṅ ki na bharmaar karo
+  Farsh-e-majlis hai yahaaṅ aao adab se baitho
+  Shah ki majlis ho bapa hukm deti hai yehi
 
   3
-  Tum bhi aate thay dar e binte ali pe aksar
-  Sajda e shukr kiya maine bhi us chaukhat par
-  Jab bhi sajde mein jabeen mai bhi kehta tha yehi
+  Tum bhi aate the dar-e-bint-e-Ali pe aksar
+  Sajda-e-shukr kiya maiṅ ne bhi us chaukhat par
+  Jab bhi sajde meiṅ jabiṅ maiṅ bhi kehta tha yehi
 
   4
-  Kaun hai maula mera tum ko batata hoon abhi
-  Aao baitho tumhe talqeen sunata hoon abhi
-  Kya tumhe yaad nahi hai madadgaar meri
+  Kaun hai Maula mera tum ko bataata huṅ abhi
+  Aao baitho tumheṅ talqin sunaata huṅ abhi
+  Kya tumheṅ yaad nahiṅ hai madadgaar meri
 
   5
-  Daaghe matam jo hai tehreer mere seene par
-  Saath aaya hai mere mera hawala ban kar
-  Haan kafan par bhi mere ye ibarat hai likhi
+  Daagh-e-maatam jo hai tahrir mere sine par
+  Saath aaya hai mere mera hawaala ban kar
+  Haaṅ kafan par bhi mere ye ibaarat hai likhi
 
   6
-  Tumko batlata hoon mai ashk e aza ki qeemat
-  Ek aansu ki barabar nahi baaghe jannat
-  Rone waalon ke liye padti hai naade ali
+  Tum ko batlaata huṅ maiṅ ashk-e-aza ki qimat
+  Ek aaṅsu ki baraabar nahiṅ baagh-e-jannat
+  Rone waaloṅ ke liye parhti hai Naad-e-Ali
 
   7
-  Sun ke ye baat nakirayn ne khaalik se kaha
-  Ai khuda-wanda e zainab hai ye banda tera
-  Kya sawaal is se kare iske lab par hai abhi
+  Sun ke ye baat Nakirain ne Khaaliq se kaha
+  Ae Khudaawand-e-Zainab hai ye banda tera
+  Kya sawaal is se kare is ke lab par hai abhi
 
   8
-  Hum sawalaat ke khatir to nahi aate hai
-  Khairiyat pooch ke momin ki chale jaate hai
-  Khuch nahi kehte use jis ki zaamin ho bani
+  Ham sawaalaat ke khaatir to nahiṅ aate haiṅ
+  Khairiyat puchh ke momin ki chale jaate haiṅ
+  Kuchh nahiṅ kehte use jis ki zaamin ho bani
 
   9
-  Phir nakirayn ne aapas mein ye tay kar ke kaha
-  Chod do saare sawalaat sunao nauha
+  Phir Nakirain ne aapas meiṅ ye tai kar ke kaha
+  Chhor do saare sawaalaat sunaao nauha
   Aur musalsal ye sada qabr se aati rahi
 
   10
-  Ay nakirayn wo abbas e ali ki khwahar
-  Majma e ahle sitam mein ye pukari ro kar
-  Mai wohi bibi hoon jisko kehte hai nabi
+  Ae Nakirain wo Abbas-e-Ali ki khwaahar
+  Majma-e-ahl-e-sitam meiṅ ye pukaari ro kar
+  Maiṅ wohi Bibi huṅ jis ko kehte haiṅ Nabi
 
   11
-  Baat darvaish ne rehaan ye saabit kar di
-  Qabr mein unse sawalaat nakirayn kabhi
-  Aake kar denge nahi jis se bhi ho raazi
+  Baat Darvesh ne Rehaan ye saabit kar di
+  Qabr meiṅ un se sawaalaat Nakirain kabhi
+  Aa ke kar deṅ ge nahiṅ jis se bhi ho raazi
 # source_id: nohayonline:c2696c5f62a175a309a2
 # source_url: https://www.nohayonline.com/details_content.php?id=3300
 # raw_sha256: 5b1042bda64c12044a3773951fce661f4e05716a9ba17fa0b41e8e1c4cde095e
@@ -75,13 +76,13 @@ romanLyrics: |-
 # source_url: https://www.ziyaraat.net/api/noha/1154
 # raw_sha256: 11c2a49e9dc02d46a6181c5d7aaf2399c7539e4cf0e1a1e5488076a91d908cd3
 ---
-اخی تلعرب
+عقیلۃ العرب
 
 ۱
-اے منکر و نکیر سن لو صدا
+اے منکر و نکیر سن لو میری صدا
 تم کو نہیں پتہ زینب کا ہوں فقیر
-یہ خبر نہیں ہے اس کا ہے عزاخانہ
-جو بنت مرتظی ہے شبیر کی ہمشیر
+یہ قبر نہیں ہے اس کا ہے عزاخانہ
+جو بنت مرتضیٰ ہے شبیر کی ہمشیر
 زینب بنتِ علی
 
 ۲
@@ -105,13 +106,13 @@ romanLyrics: |-
 ہاں کفن پر بھی میرے یہ عبارت ہے لکھی
 
 ۶
-تم کو بتلاتا ہوں میں میں اشک عزا کی قیمت
-ایک آنسوں کی برابر نہیں باغ جنت
+تم کو بتلاتا ہوں میں اشک عزا کی قیمت
+ایک آنسو کی برابر نہیں باغ جنت
 رونے والوں کے لئے پڑھتی ہے ناد علی
 
 ۷
 سن کے یہ بات نکیرین نے خالق سے کہا
-اے خدا وندہء زینب ہے یہ بندہ تیرا
+اے خداوندِ زینب ہے یہ بندہ تیرا
 کیا سوال اس سے کرے اس کے لب پر ہے ابھی
 
 ۸
@@ -120,14 +121,14 @@ romanLyrics: |-
 کچھ نہیں کہتے اسے جس کی ضامن ہو بنی
 
 ۹
-پھر نکیرین نے آپس میں یہ طےء کر کے کہا
+پھر نکیرین نے آپس میں یہ طے کر کے کہا
 چھوڑ دو سارے سوالات سناؤ نوحہ
 اور مسلسل یہ صدا قبر سے آتی رہی
 
 ۱۰
 اے نکیرین وہ عباس علی کی خواہر
-مجمہء أہل ستم میں یہ پکاری رو کر
-میں وہی بی بی ہوں جس کو کہتے ہیں نبی
+مجمعِ اہل ستم میں یہ پکاری رو کر
+میں وہی بی‌بی ہوں جس کو کہتے ہیں نبی
 
 ۱۱
 بات درویش نے ریحان یہ ثابت کر دی

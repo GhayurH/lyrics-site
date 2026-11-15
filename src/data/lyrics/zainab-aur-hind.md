@@ -6,53 +6,54 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Shaukath Bilgrami"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zainab aur hind aur shaam ka wo qaid khana tha
-  
+  Zainab aur Hind aur Shaam ka wo qaid khaana tha
+
   1
-  Arey hind mere jo do laal thay
-  Haye karbobala mein maine wo bhai pe qurban kiye
-  Ye boli hind thay aun o mohamed to abhi kamsin
-  Kaha zainab ne moo mehshar mein amma ko dikhana tha
-  
+  Are Hind mere jo do laal the
+  Haae Karb o Bala meiṅ maiṅ ne wo bhaai pe qurbaaṅ kiye
+  Ye boli Hind the Aun o Muhammad to abhi kamsin
+  Kaha Zainab ne muṅh mahshar meiṅ ammaaṅ ko dikhaana tha
+
   2
-  Arey hind mera phool sa qasim
-  Raat ko dulha bana subho shahadat paayi
-  Ye boli hind qasim sa wo nazuk phool kyun laayi
-  Kaha zainab ne shabbar ki wasiyat ko nibhana tha
-  
+  Are Hind mera phul sa Qaasim
+  Raat ko dulha bana subh shahaadat paai
+  Ye boli Hind Qaasim sa wo naazuk phul kiuṅ laai
+  Kaha Zainab ne Shabbar ki wasiyyat ko nibhaana tha
+
   3
-  Arey hind mera naazon ka paala wo akbar
-  Hai seene pe sina khaake tadapta tha rayt par
-  Ye boli hind hamshakle payambar ko nahi laati
-  Kaha zainab ne us ki laash ko dulha banana tha
-  
+  Are Hind mera naazoṅ ka paala wo Akbar
+  Hai sine pe sinaaṅ khaa ke tarapta tha ret par
+  Ye boli Hind hamshakl-e-Payambar ko nahiṅ laati
+  Kaha Zainab ne us ki laash ko dulha banaana tha
+
   4
-  Arey hind mera cheh maah ka
-  Asghar jo tha teeron se cheda gaya uska gala
-  Ye boli hind sheh asghar ko maidan mein kyun le aaye
-  Kaha zainab ne ummat ko nabi ki aazmana tha
-  
+  Are Hind mera chhe maah ka
+  Asghar jo tha tiroṅ se chheda gaya us ka gala
+  Ye boli Hind Shah Asghar ko maidaan meiṅ kiuṅ le aae
+  Kaha Zainab ne ummat ko Nabi ki aazmaana tha
+
   5
-  Arey hind wo bemaar sajjad mera
-  Haye is aalam e ghurbat mein kunbe ka saarban tha
-  Ye boli hind tap mein sayyed e sajjad kyun aaye
-  Kaha zainab ne gham inko bahatar ka uthana tha
-  
+  Are Hind wo bimaar Sajjad mera
+  Haae is aalam-e-ghurbat meiṅ kunbe ka saarbaaṅ tha
+  Ye boli Hind tap meiṅ Sayyid-e-Sajjad kiuṅ aae
+  Kaha Zainab ne gham in ko bahattar ka uthaana tha
+
   6
-  Arey hind hum karbala se shaam o kufa gaye
-  Hai darbaron mein nabi zadiyan ba-rehna sar gayi
-  Ye boli hind kya ye sab hua abbas ke hote
-  Kaha zainab ne wo hota to thokar pe zamana tha
-  
+  Are Hind ham Karbala se Shaam o Kufa gae
+  Hai darbaaroṅ meiṅ Nabi zaadiyaaṅ barahna sar gai
+  Ye boli Hind kya ye sab hua Abbas ke hote
+  Kaha Zainab ne wo hota to thokar pe zamaana tha
+
   7
-  Arey hind zamane ne aisi nazrein badli
-  Haye nana ka bhara ghar ummat ne loot liya
-  Ye boli hind kyun bibi luti wo shaan aur shaukat
-  Kaha zainab ne sarwar ki zameen ko jo sajana tha
+  Are Hind zamaane ne aisi nazreṅ badli
+  Haae naana ka bhara ghar ummat ne lut liya
+  Ye boli Hind kiuṅ Bibi luti wo shaan aur shaukat
+  Kaha Zainab ne Sarwar ki zamiṅ ko jo sajaana tha
 # source_id: nohayonline:809b3db21cf74c37a40a
 # source_url: https://www.nohayonline.com/details_content.php?id=3431
 # raw_sha256: 2f1634ccd0052522e6dff36d381f78f2f897354fb77837736c87c4b87fa05cda
@@ -62,14 +63,14 @@ romanLyrics: |-
 
 ۱
 ارے ہند میرے جو دو لال تھے
-ہاے کربوبلا میں میں نے وہ بھای پہ قرباں کےء
+ہائے کرب و بلا میں میں نے وہ بھائی پہ قرباں کیے
 یہ بولی ہند تھے عون و محمد تو ابھی کمسن
 کہا زینب نے منہ محشر میں اماں کو دکھانا تھا
 
 ۲
 ارے ہند میرا پھول سا قاسم
 رات کو دولہا بنا صبح شہادت پائی
-یہ بولی ہند قاسم سا وہ نازک پھول کیوں لای
+یہ بولی ہند قاسم سا وہ نازک پھول کیوں لائی
 کہا زینب نے شبر کی وصیت کو نبھانا تھا
 
 ۳
@@ -86,18 +87,18 @@ romanLyrics: |-
 
 ۵
 ارے ہند وہ بیمار سجاد میرا
-ہاے اس عالم غربت میں کنبے کا سارباں تھا
+ہائے اس عالم غربت میں کنبے کا سارباں تھا
 یہ بولی ہند تپ میں سید سجاد کیوں آئے
 کہا زینب نے غم ان کو بہتر کا اٹھانا تھا
 
 ۶
-ارے ہند ہم کربلا سے شام و کوفہ گےء
-ہے درباروں میں نبی زادیاں برہنہ سر گیء
+ارے ہند ہم کربلا سے شام و کوفہ گئے
+ہے درباروں میں نبی زادیاں برہنہ سر گئی
 یہ بولی ہند کیا یہ سب ہوا عباس کے ہوتے
 کہا زینب نے وہ ہوتا تو ٹھوکر پہ زمانہ تھا
 
 ۷
 ارے ہند زمانے نے ایسی نظریں بدلی
-ہاے نانا کا بھرا گھر امت نے لوٹ لیا
-یہ بولی ہند کیوں بی بی لٹی وہ شان اور شوکت
+ہائے نانا کا بھرا گھر امت نے لوٹ لیا
+یہ بولی ہند کیوں بی‌بی لٹی وہ شان اور شوکت
 کہا زینب نے سرور کی زمیں کو جو سجانا تھا

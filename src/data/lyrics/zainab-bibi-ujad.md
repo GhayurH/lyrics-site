@@ -6,111 +6,144 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ay shame ghariban
-  Ek shor hua khana e hyder hua taaraz
-  Namoose nabi ka zar o zewar hua taaraz
-  Jalte hue qaime hai ye shame ghariban hai
-  Be goro kafan laashe ye shame ghariban hai
-  Zainab bibi ujad gayi hai
-  Al atash al atash kehti hai sakina
-  Allah allah ye shaan nabi ki ujad gayi hai
+  Ae Shaam-e-gharibaaṅ
+  Ik shor hua khaana-e-Haidar hua taaraaj
+  Naamus-e-Nabi ka zar o zewar hua taaraaj
+  Jalte hue khaime haiṅ ye Shaam-e-gharibaaṅ hai
+  Be gor o kafan laashe ye Shaam-e-gharibaaṅ hai
+  Ae Shaam-e-gharibaaṅ
+  Zainab Bibi ujar gai hai
+  Ae Shaam-e-gharibaaṅ
+  Al atash al atash kehti hai Sakina
+  Allah Allah ye shaan Nabi ki ujar gai hai
 
   1
-  Lo raakh hue qaime ek shor e qayamat hai
-  Ujdi hai abhi zainab aaghaz e musibat hai
-  Pardes mein be-parda zehra ki shabahat hai
-  Veeran madina veeran madina
+  Lo raakh hue khaime ik shor-e-qayaamat hai
+  Ujri hai abhi Zainab aaghaaz-e-musibat hai
+  Pardes meiṅ beparda Zehra ki shabaahat hai
+  Viraan Madina viraan Madina
+  Allah Allah ye shaan Nabi ki ujar gai hai
 
   2
-  Ye fatema zehra ki haa laadli beti hai
-  Ujdi hui ek maa ki ujdi hui beti hai
-  Naazon ki pali zainab ab khaak pe baithi hai
+  Ye Fatima Zehra ki haaṅ laadli beti hai
+  Ujri hui ik maaṅ ki ujri hui beti hai
+  Naazoṅ ki pali Zainab ab khaak pe baithi hai
+  Viraan Madina viraan Madina
+  Allah Allah ye shaan Nabi ki ujar gai hai
 
   3
-  Abbas chale aao zainab ka ye noha hai
-  Be-aas tera kunba sehra mein akela hai
-  Zainab ki sada'on se maidan larazta hai
+  Abbas chale aao Zainab ka ye nauha hai
+  Beaas tera kunba sahra meiṅ akela hai
+  Zainab ki sadaaoṅ se maidaan larazta hai
+  Viraan Madina viraan Madina
+  Allah Allah ye shaan Nabi ki ujar gai hai
 
   4
-  Koi na raha baakhi shabbir ke lashkar ka
-  Halqa hai bibiyon ka matam hai bhare ghar ka
+  Koi na raha baaqi Shabbir ke lashkar ka
+  Halqa hai Bibiyoṅ ka maatam hai bhare ghar ka
   Zainab ne liya pursa ro ro ke bahattar ka
+  Viraan Madina viraan Madina
+  Allah Allah ye shaan Nabi ki ujar gai hai
 
   5
-  Bechain sakina hai reh reh ke jo roti hai
-  De de ke sadaye wo ammu ko bulaati hai
-  Zainab liye godi mein masooma ko baithi hai
+  Bechain Sakina hai reh reh ke jo roti hai
+  De de ke sadaaeṅ wo ammu ko bulaati hai
+  Zainab liye godi meiṅ Maasuma ko baithi hai
+  Viraan Madina viraan Madina
+  Allah Allah ye shaan Nabi ki ujar gai hai
 
   6
-  Tanhai ka aalam hai aur ghor andhera hai
-  Zainab ko masaib ke sailaab ne ghera hai
-  Ya shahe najaf aao ke door savera hai
+  Tanhaai ka aalam hai aur ghor andhera hai
+  Zainab ko masaaib ke sailaab ne ghera hai
+  Ya Shah-e-Najaf aao ke ab dur savera hai
+  Viraan Madina viraan Madina
+  Allah Allah ye shaan Nabi ki ujar gai hai
 
   7
-  Ya ali maula ya fatema zehra
-  Maqtal ke andhere mein badne laga ek saaya
-  Ujdi hui zainab ka dil seene mein ghabraya
-  Zainab ne bahot roka lekin wo badha aaya
-  Shehzadi ne kya dekha ye to hai mera baba
-  Beti ko kaleje se hyder ne jo liptaya
-  Nauha labe zainab par be-saakhta ye aaya
+  Ya Ali Maula ya Fatima Zehra
+  Maqtal ke andhere meiṅ barhne laga ik saaya
+  Ujri hui Zainab ka dil sine meiṅ ghabraaya
+  Zainab ne bahut roka lekin wo barha aaya
+  Shahzaadi ne kya dekha ye to hai mera baaba
+  Beti ko kaleje se Haidar ne jo liptaaya
+  Nauha lab-e-Zainab par besaakhta ye aaya
+  Viraan Madina viraan Madina
+  Allah Allah ye shaan Nabi ki ujar gai hai
 
   8
-  Ghar lut gaya ay baba dekho meri tanhai
-  Na godh mein bache hai na sar pe raha bhai
-  Chadar na bacha paayi mai ro bhi nahi paayi
+  Ghar lut gaya ae baaba dekho meri tanhaai
+  Na god meiṅ bachche haiṅ na sar pe raha bhaai
+  Chaadar na bacha paai maiṅ ro bhi nahiṅ paai
+  Viraan Madina viraan Madina
+  Allah Allah ye shaan Nabi ki ujar gai hai
 
   9
-  Zainab ke tadapne par maqtal mein qayamat thi
-  Ye soch ke rote hai rehaan bhi sarwar bhi
-  Kya guzri thi zainab par jab shaame alam aayi
+  Zainab ke tarapne par maqtal meiṅ qayaamat thi
+  Ye soch ke rote haiṅ Rehaan aur Sarwar bhi
+  Kya guzri thi Zainab par jab Shaam-e-alam aai
+  Viraan Madina viraan Madina
+  Allah Allah ye shaan Nabi ki ujar gai hai
 # source_id: nohayonline:154e691c4c82717e0c18
 # source_url: https://www.nohayonline.com/details_content.php?id=159
 # raw_sha256: 6b5f7cd0608a9d66bd5ded9c54c5740c7f0b95e01715dd879492fc2fddf91519
 ---
 اے شام غریباں
 اک شور ہوا خانۂ حیدر ہوا تاراج
-ناموسِ نبی کا زرو زیور ہوا تاراج
+ناموسِ نبی کا زر و زیور ہوا تاراج
 جلتے ہوئے خیمے ہیں یہ شام غریباں ہے
-بے گورو کفن لاشے یہ شام غریباں ہے
-زینب بی بی اجڑ گیء ہے
+بے گور و کفن لاشے یہ شام غریباں ہے
+اے شام غریباں
+زینب بی‌بی اجڑ گئی ہے
+اے شام غریباں
 العطش العطش کہتی ہے سکینہ
-اللہ اللہ یہ شان نبی کی اجڑ گیء ہے
+اللہ اللہ یہ شان نبی کی اجڑ گئی ہے
 
 ۱
-لو راخ ہوئے خیمے اک شور قیامت ہے
+لو راکھ ہوئے خیمے اک شور قیامت ہے
 اجڑی ہے ابھی زینب آغاز مصیبت ہے
 پردیس میں بے پردہ زہرا کی شباہت ہے
 ویران مدینہ ویران مدینہ
+اللہ اللہ یہ شان نبی کی اجڑ گئی ہے
 
 ۲
 یہ فاطمہ زہرا کی ہاں لاڈلی بیٹی ہے
 اجڑی ہوئی اک ماں کی اجڑی ہوئی بیٹی ہے
 نازوں کی پلی زینب اب خاک پہ بیٹھی ہے
+ویران مدینہ ویران مدینہ
+اللہ اللہ یہ شان نبی کی اجڑ گئی ہے
 
 ۳
 عباس چلے آؤ زینب کا یہ نوحہ ہے
-بے آس تیرا کنبہ سحرا میں اکیلا ہے
+بے آس تیرا کنبہ صحرا میں اکیلا ہے
 زینب کی صداؤں سے میدان لرزتا ہے
+ویران مدینہ ویران مدینہ
+اللہ اللہ یہ شان نبی کی اجڑ گئی ہے
 
 ۴
 کوئی نہ رہا باقی شبیر کے لشکر کا
-حلقہ ہے بیبیوں کا ماتم ہے بھرے گھر کا
+حلقہ ہے بی‌بیوں کا ماتم ہے بھرے گھر کا
 زینب نے لیا پرسہ رو رو کے بہتر کا
+ویران مدینہ ویران مدینہ
+اللہ اللہ یہ شان نبی کی اجڑ گئی ہے
 
 ۵
 بے چین سکینہ ہے رہ رہ کے جو روتی ہے
-دے دیکے صداءیں وہ عمو کو بلاتی ہے
-زینب لےء گودی میں معصومہ کو بیٹھی ہے
+دے دے کے صدائیں وہ عمو کو بلاتی ہے
+زینب لیے گودی میں معصومہ کو بیٹھی ہے
+ویران مدینہ ویران مدینہ
+اللہ اللہ یہ شان نبی کی اجڑ گئی ہے
 
 ۶
 تنہائی کا عالم ہے اور گھور اندھیرا ہے
-زینب کو مصایب کے سیلاب نے گھیرا ہے
+زینب کو مصائب کے سیلاب نے گھیرا ہے
 یا شاہ نجف آؤ کہ اب دور سویرا ہے
+ویران مدینہ ویران مدینہ
+اللہ اللہ یہ شان نبی کی اجڑ گئی ہے
 
 ۷
 یا علی مولا یا فاطمہ زہرا
@@ -120,13 +153,19 @@ romanLyrics: |-
 شہزادی نے کیا دیکھا یہ تو ہے میرا بابا
 بیٹی کو کلیجے سے حیدر نے جو لپٹایا
 نوحہ لب زینب پر بے ساختہ یہ آیا
+ویران مدینہ ویران مدینہ
+اللہ اللہ یہ شان نبی کی اجڑ گئی ہے
 
 ۸
 گھر لٹ گیا اے بابا دیکھو میری تنہائی
 نہ گود میں بچے ہیں نہ سر پہ رہا بھائی
-چادر نہ بچا پایء میں رو بھی نہیں پائی
+چادر نہ بچا پائی میں رو بھی نہیں پائی
+ویران مدینہ ویران مدینہ
+اللہ اللہ یہ شان نبی کی اجڑ گئی ہے
 
 ۹
 زینب کے تڑپنے پر مقتل میں قیامت تھی
 یہ سوچ کے روتے ہیں ریحان اور سرور بھی
-کیا گزری تھی زینب پر جب شام الم آیء
+کیا گزری تھی زینب پر جب شام الم آئی
+ویران مدینہ ویران مدینہ
+اللہ اللہ یہ شان نبی کی اجڑ گئی ہے

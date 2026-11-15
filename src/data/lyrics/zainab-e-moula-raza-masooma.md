@@ -1,48 +1,130 @@
 ---
-title: "Zainab-e-Moula Raza Masooma"
-language: "Roman Urdu"
+title: "زینبِ مولا رضا معصومہ"
+alternateTitle: "Zainab-e-Maula Raza Maasuma"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
-tags: ["noImage", "noUrdu"]
+poet: "Mir Hasan Mir"
+reciter: "Mir Hasan Mir"
+tags: ["noImage"]
 aliases: []
 published: false
+romanLyrics: |-
+  Ya Fatima ya Taahira
+  Ya khwaahar-e-Maula Raza
+  Ya Sayyida ya Shaafia
+  Ya bint-e-Rasul-e-Khuda
+  Ya Aalima ya Zaahida
+  Ya Saaliha ukht ur Raza
+  Tasvir-e-rukh-e-Fatima
+  Maasuma Maasuma
+
+  1
+  Dukhtar-e-Sher-e-Khuda Maasuma
+  Zainab-e-Maula Raza Maasuma
+
+  2
+  Tere khuddaam mujhe jaante haiṅ
+  Hai ye aezaaz mera Maasuma
+
+  3
+  Jis ko kehta hai Khuda baab-e-muraad
+  Aap haiṅ us ki dua Maasuma
+
+  4
+  Aaj bhi baantta hai bait-e-nur
+  Chaand suraj ko ziya Maasuma
+
+  5
+  Mukhtasar Naad-e-Ali hai ye bhi
+  Dekh keh kar zara ya Maasuma
+
+  6
+  Chumne aati haiṅ Bibi Maryam
+  Aap ke sar ki rida Maasuma
+
+  7
+  Us ne Mashhad se dua li jis ne
+  Naam beti ka rakha Maasuma
+
+  8
+  Baad meiṅ Zahra likha hai maiṅ ne
+  Pehle kaaghaz pe likha Maasuma
+
+  9
+  Saare Maasumoṅ ne ae Shahzaadi
+  Tum ko Maasuma kaha Maasuma
+
+  10
+  Paas parde ka hai jin behnoṅ ko
+  Un ko deti haiṅ dua Maasuma
+
+  11
+  Baap bhi bhaai bhatija bhi wali
+  Haiṅ wilaayat ka pata Maasuma
+
+  12
+  Kuchh nahiṅ kuchh bhi nahiṅ Mir Hasan
+  Tere khaadim ke siwa Maasuma
 # source_id: tajpoints:a3f89bdc37c04984238a
 # source_url: https://tajpoints.com/2020/06/zainab-e-moula-raza-masooma-lyrics-in.html
 # raw_sha256: 6cc4490547f5a54211b56689b93f21b5e825ef9365a691f478e511721c499b99
 ---
 
-1
-Zainab-e-Moula Raza Masooma Lyrics
-Ya Fatima Ya Tahira
-Ya Khwahar-e-Maula Raza
-Ya Syeda Ya Shafea
-Ya Bint-e-Rasool-e-Khuda
-Ya Alima Ya Zahida
-Ya Saleha Ukht Ur Raza
-Tasveer-e-Rukh-e-Fatima
-Masooma Masooma
-Dukhtar-e-Shair-e-Khuda Masooma
-Zainab-e-Maula Raza Masooma
-Tere Khudaam Mujhe Jantay Hain
-Hai Yeh Aizaz Mera Masooma
-Jis Ko Kehta Hai Khuda Baab-e-Murad
-Aap Hain Oss Ki Dua Masooma
-Aaj Bhi Bantta Hai Bait-e-Noor
-Chand Soraj Ko Zia Masooma
-Mukhtasir Nad-e-Ali Hai Yeh Bhi
-Dekh Keh Kar Zara Ya Masooma
-Chomney Aati Hain BiBi Mariyam
-Aap Ke Sar Ki Rida Masooma
-Oss Ne Mashhad Se Dua Li Jis Ne
-Naam Beti Ka Rakha Masooma
-Baad Mein Zahra Likha Hai Main Ne
-Pehle Kagaz Pe Likha Masooma
-Sare Masoomo Ne Aye Shehzadi
-Tum Ko Masooma Kaha Masooma
-Pas Parday Ka Hai Jin Behno Ko
-Unn Ko Deti Hain Dua Masooma
-Baap Bhi Bhai Bhatija Bhi Wali
-Hain Wilayat Ka Pata Masooma
-Kuch Nahi Kuch Bhi Nahi:MIR HASAN:
-Tere Khadim Ke Siwa Masooma
+یا فاطمہ یا طاہرہ
+یا خواہرِ مولا رضا
+یا سیدہ یا شافعہ
+یا بنتِ رسولِ خدا
+یا عالمہ یا زاہدہ
+یا صالحہ اخت الرضا
+تصویرِ رخِ فاطمہ
+معصومہ معصومہ
+
+۱
+دخترِ شیرِ خدا معصومہ
+زینبِ مولا رضا معصومہ
+
+۲
+تیرے خدام مجھے جانتے ہیں
+ہے یہ اعزاز میرا معصومہ
+
+۳
+جس کو کہتا ہے خدا بابِ مراد
+آپ ہیں اس کی دعا معصومہ
+
+۴
+آج بھی بانٹتا ہے بیتِ نور
+چاند سورج کو ضیا معصومہ
+
+۵
+مختصر نادِ علی ہے یہ بھی
+دیکھ کہہ کر ذرا یا معصومہ
+
+۶
+چومنے آتی ہیں بی‌بی مریم
+آپ کے سر کی ردا معصومہ
+
+۷
+اس نے مشہد سے دعا لی جس نے
+نام بیٹی کا رکھا معصومہ
+
+۸
+بعد میں زہرا لکھا ہے میں نے
+پہلے کاغذ پہ لکھا معصومہ
+
+۹
+سارے معصوموں نے اے شہزادی
+تم کو معصومہ کہا معصومہ
+
+۱۰
+پاس پردے کا ہے جن بہنوں کو
+ان کو دیتی ہیں دعا معصومہ
+
+۱۱
+باپ بھی بھائی بھتیجا بھی ولی
+ہیں ولایت کا پتہ معصومہ
+
+۱۲
+کچھ نہیں کچھ بھی نہیں میر حسن
+تیرے خادم کے سوا معصومہ
