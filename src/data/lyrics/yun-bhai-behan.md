@@ -6,30 +6,31 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Asif Bijnori"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zaalim ne ba-dashte karbobala
-  Yun bhai behan ka qatl kiya
+  Zaalim ne ba-dasht-e-Karb o Bala
+  Yuṅ bhai behan ka qatl kiya
   Sarwar ka kiya sar tan se juda
   Zainab ki utaari sar se rida
 
   1
-  Shabbir ka sar zainab ko diya
-  Zainab ki rida abbas ko di
-  Ye kaisa sitam zainab pe kiya
-  Ye kaisi saza abbas ko di
+  Shabbir ka sar Zainab ko diya
+  Zainab ki rida Abbas ko di
+  Ye kaisa sitam Zainab pe kiya
+  Ye kaisi saza Abbas ko di
   Ghairat pe hua jis dam hamla
   Abbas ka sar naize se gira
 
   2
-  Zainab ki chuwega koi rida
+  Zainab ki chhue ga koi rida
   Aisa to kabhi socha bhi na tha
-  Wo behan kare faryad o buka
+  Wo behan kare faryaad o buka
   Abbas sa bhai ho jis ka
   Wallah ke ye hai fikr ki jaa
-  Sad wavaila sad wavaila
+  Sad waavaila sad waavaila
 
   3
   Zainab ki rida se sarwar ka
@@ -37,61 +38,61 @@ romanLyrics: |-
   Fizza ne ye manzar dekh liya
   Zainab se magar dekha na gaya
   Bhai ke jo qaatil ko dekha
-  Kulsoom ne sar ko peet liya
+  Kulsum ne sar ko pit liya
 
   4
-  Lahrate huwe shabbir ka sar
-  Dikhlata tha zaalim has has kar
-  Kaise ho bayan phat'ta hai jigar
-  Kin aankhon se dekha ye manzar
+  Lahraate hue Shabbir ka sar
+  Dikhlaata tha zaalim hans hans kar
+  Kaise ho bayaaṅ phatta hai jigar
+  Kin aankhoṅ se dekha ye manzar
   Kis dil se na jaane zabt kiya
-  Kis tarha rahee jaane zinda
+  Kis tarah rahi jaane zinda
 
   5
-  Faryad o fughan thi honton par
-  Khaati thi pachaade tashna jigar
+  Faryaad o fughaaṅ thi hoṅtoṅ par
+  Khaati thi pachhaareṅ tashna jigar
   Karti rahi minnat ro ro kar
   De de mujhe mere bhai ka sar
   Zaalim ne magar phir bhi na diya
-  Chillaati rahi binte zehra
+  Chillaati rahi Bint-e-Zehra
 
   6
-  Roti rahi malka e sharm o haya
-  Afos na di zaalim ne rida
-  Pardes mein yun be jurm o khata
-  Pardesiyon pe hoti thi jafa
+  Roti rahi malka-e-sharm o haya
+  Afsos na di zaalim ne rida
+  Pardes meiṅ yuṅ bejurm o khata
+  Pardesiyoṅ pe hoti thi jafa
   Karti bhi to karti kis se gila
   Chalti thi mukhalif ran ki hawa
 
   7
-  Shaano mein bandhi jis waqt rasan
+  Shaanoṅ meiṅ bandhi jis waqt rasan
   Bhai ko sada deti thi behan
-  Thay zabt se baahar ranj o mehan
-  Kya jaane kiya jis tarha sehan
-  Mehsoos kare har baabe wafa
-  Kya haal bayan hoi zainab ka
+  The zabt se baahar ranj o mehan
+  Kya jaane kiya jis tarah sehan
+  Mahsus kare har baab-e-wafa
+  Kya haal bayaaṅ ho Zainab ka
 
   8
-  Pardes mein zehra ke ghar ka
-  Khoon beh gaya faatahe kyber ka
-  Teeron pe tha laasha sarwar ka
-  Naaqe pe tha laasha khwahar ka
+  Pardes meiṅ Zehra ke ghar ka
+  Khuṅ beh gaya Faatah-e-Khaibar ka
+  Tiroṅ pe tha laasha Sarwar ka
+  Naaqe pe tha laasha khwaahar ka
   Ye kaisa sitam ye kaisi jafa
   Ummat ne diya ye kaisa sila
 
   9
-  Maqtal mein rasan basta thay haram
-  Har sog nasheen ki aankh thi nam
-  Phat'ta hai jigar rota hai qalam
-  Asif mai karun kis tarha raqam
-  Hai bhai behan maqtool e jafa
-  Tareekh ne bas aamir ye likha
+  Maqtal meiṅ rasan basta the haram
+  Har sog nashiṅ ki aankh thi nam
+  Phatta hai jigar rota hai qalam
+  Asif main karuṅ kis tarah raqam
+  Hai bhai behan maqtul-e-jafa
+  Taarikh ne bas Aamir ye likha
 # source_id: nohayonline:10414fe0c937be4a8ec9
 # source_url: https://www.nohayonline.com/details_content.php?id=2463
 # raw_sha256: 9d0abc4f005413587ad4fa26cc2e352071e3aa751562665d8dc8a21043884a31
 ---
 ظالم نے بہ دشت کربوبلا
-یوں بھای بہن کا قتل کیا
+یوں بھائی بہن کا قتل کیا
 سرور کا کیا سر تن سے جدا
 زینب کی اتاری سر سے ردا
 
@@ -100,27 +101,27 @@ romanLyrics: |-
 زینب کی ردا عباس کو دی
 یہ کیسا ستم زینب پہ کیا
 یہ کیسی سزا عباس کو دی
-غیرت پہ ہوا جس دم‌ حملہ
+غیرت پہ ہوا جس دم حملہ
 عباس کا سر نیزے سے گرا
 
 ۲
-زینب کی چھوے گا کوی ردا
+زینب کی چھوئے گا کوئی ردا
 ایسا تو کبھی سوچا بھی نہ تھا
 وہ بہن کرے فریاد و بکا
-عباس سا بھای ہو جس کا
+عباس سا بھائی ہو جس کا
 واللہ کہ یہ ہے فکر کی جا
 صد واویلا صد واویلا
 
 ۳
-زینب کی ردا سے سرور‌ کا
+زینب کی ردا سے سرور کا
 خنجر پہ جو خون تھا صاف کیا
 فضہ نے یہ منظر دیکھ لیا
 زینب سے مگر دیکھا نہ گیا
-بھای کے جو قاتل کو دیکھا
+بھائی کے جو قاتل کو دیکھا
 کلثوم نے سر کو پیٹ لیا
 
 ۴
-لہراتے ہوے شبیر کا سر
+لہراتے ہوئے شبیر کا سر
 دکھلاتا تھا ظالم ہنس ہنس کر
 کیسے ہو بیاں پھٹتا ہے جگر
 کن آنکھوں سے دیکھا یہ منظر
@@ -131,12 +132,12 @@ romanLyrics: |-
 فریاد و فغاں تھی ہونٹوں پر
 کھاتی تھی پچھاڑیں تشنہ جگر
 کرتی رہی منت رو رو کر
-دے دے مجھے میرے بھائی سر
+دے دے مجھے میرے بھائی کا سر
 ظالم نے مگر پھر بھی نہ دیا
-چلاتی رہی بنت زہرا
+چلاتی رہی بنتِ زہرا
 
 ۶
-روتی رہی ملکۂ شام و حیا
+روتی رہی ملکۂ شرم و حیا
 افسوس نہ دی ظالم نے ردا
 پردیس میں یوں بے جرم و خطا
 پردیسیوں پہ ہوتی تھی جفا
@@ -145,7 +146,7 @@ romanLyrics: |-
 
 ۷
 شانوں میں بندھی جس وقت رسن
-بھای کو صدا دیتی تھی بہن
+بھائی کو صدا دیتی تھی بہن
 تھے ضبط سے باہر رنج و محن
 کیا جانے کیا جس طرح سحن
 محسوس کرے ہر باب وفا
@@ -164,5 +165,5 @@ romanLyrics: |-
 ہر سوگ نشیں کی آنکھ تھی نم
 پھٹتا ہے جگر روتا ہے قلم
 آصف میں کروں کس طرح رقم
-ہے بھای بہن مقتول جفا
+ہے بھائی بہن مقتولِ جفا
 تاریخ نے بس آمر یہ لکھا
