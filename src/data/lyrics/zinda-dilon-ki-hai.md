@@ -6,69 +6,70 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hasan Raza"
+reciter: "Ali Yazdan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Mushkil mein sahara ya hussain
-  Doobon ko kanara ya hussain
-  Nabiyon ne pukara ya hussain
-  Zinda dilon ki hai sada
-  Ya hussain ya hussain ya hussain ya hussain
+  Mushkil mein sahaara ya Husain
+  Duboṅ ko kinaara ya Husain
+  Nabiyoṅ ne pukaara ya Husain
+  Zinda diloṅ ki hai sada
+  Ya Husain ya Husain ya Husain ya Husain
 
   1
-  Kehti hai ye karbobala rutba hai mera yun juda
-  Rehte hai yan aaqa hussain
+  Kehti hai ye Karb o Bala rutba hai mera yuṅ juda
+  Rehte haiṅ yaaṅ Aaqa Husain
 
   2
-  Nana nabi baba ali maadar hai jiski fatema
-  Ek bhai hai maula hassan aur doosra hai bawafa
-  Tere hi dam se hi bacha islam ki tu hai baqa
+  Naana Nabi Baaba Ali maadar hai jis ki Fatima
+  Ik bhaai hai Maula Hasan aur dusra hai baawafa
+  Tere hi dam se hi bacha Islaam ki tu hai baqa
 
   3
-  Karrar hai jarrar hai kya khoob tera waar hai
-  Ye keh gaye hai mustafa jannat ka tu sardar hai
-  Jannat ho jisko dekhni wo dekhle rauza tera
+  Karraar hai jarraar hai kya khub tera waar hai
+  Ye keh gae haiṅ Mustafa jannat ka tu sardaar hai
+  Jannat ho jis ko dekhni wo dekh le rauza tera
 
   4
-  Tu naatiq e quran hai tu fatema ki jaan hai
-  Teri sana karta hai rab kya khoob teri shaan hai
-  Jis se bhi tu raazi hua bas us se raazi hai khuda
+  Tu naatiq-e-Quraan hai tu Fatima ki jaan hai
+  Teri sana karta hai Rab kya khub teri shaan hai
+  Jis se bhi tu raazi hua bas us se raazi hai Khuda
 
   5
-  Cheh maah ka wo laadla maqtal mein is tarha lada
-  Saara hi lashkar darr gaya asghar ne wo hamla kiya
-  Abbas bole marhaba ibne shahe karbobala
+  Chhe maah ka wo laadla maqtal mein is tarah lara
+  Saara hi lashkar dar gaya Asghar ne wo hamla kiya
+  Abbas bole marhaba Ibn-e-Shah-e-Karb o Bala
 
   6
-  Bole ye zehra se nabi ek qaum aisi aayegi
-  Qarya ba qarya har gali shabbir ko wo royegi
-  Karte hai jo majlis bapa wo sab hai zehra ki dua
+  Bole ye Zehra se Nabi ik qaum aisi aae gi
+  Qarya ba qarya har gali Shabbir ko wo roe gi
+  Karte haiṅ jo majlis bapa wo sab hai Zehra ki dua
 
   7
-  Phir aaya mushkil marhala beti ko karna tha wida
-  Samjhate hai shabbir ye hum howenge tum se juda
-  Rona nahi tum meri jaan jab shimr cheenega rida
+  Phir aaya mushkil marhala beti ko karna tha widaa
+  Samjhaate haiṅ Shabbir ye ham howeṅ ge tum se juda
+  Rona nahiṅ tum meri jaaṅ jab Shimr chhine ga rida
 
   8
-  Aankhon se hai aansu rawan hai saamne kadiyal jawan
-  Naade ali padte huwe seene se khaynchi hai sina
-  Yun baap ke haathon pe hi kadiyal jawan ruqsat hua
+  Aankhoṅ se hai aansu rawaaṅ hai saamne karyal jawaaṅ
+  Naad-e-Ali parhte hue sine se khainchi hai sinaaṅ
+  Yuṅ baap ke haathoṅ pe hi karyal jawaaṅ rukhsat hua
 
   9
-  Zakhmi badan sookha gala aur koi na yawar raha
-  Allah hi jaane kis tarha shabbir ladta hi raha
-  Sattar qadam pe zainab thi aur kat'ta tha bhai ka gala
+  Zakhmi badan sukha gala aur koi na yaawar raha
+  Allah hi jaane kis tarah Shabbir larta hi raha
+  Sattar qadam pe Zainab thi aur katta tha bhaai ka gala
 
   10
-  Hai bekafan laasha tera sajjad hai bebas khada
-  Manzar ye dekhe kis tarha karta hai rab se ye dua
-  Ye din kisi par aaye na mere khuda mere khuda
+  Hai bekafan laasha tera Sajjad hai bebas khara
+  Manzar ye dekhe kis tarah karta hai Rab se ye dua
+  Ye din kisi par aae na mere Khuda mere Khuda
 
   11
-  Rota rahega ye jahan gham mein tere shaahe zaman
-  Kehdo hassan yazdan se ye jitne bhi hai ye nauhakhwan
-  Is ki tijaarat na kare ye zikr hai mazloom ka
+  Rota rahe ga ye jahaaṅ gham mein tere Shah-e-Zaman
+  Keh do Hasan Yazdan se ye jitne bhi haiṅ ye nauha khwaaṅ
+  Is ki tijaarat na kare ye zikr hai mazlum ka
 # source_id: nohayonline:d07d81e43d132f3ff4ea
 # source_url: https://www.nohayonline.com/details_content.php?id=2676
 # raw_sha256: 0691a545ba455e0cf809701af1c7592f9b1d618fadbac6c484500f727f3b276b
@@ -85,12 +86,12 @@ romanLyrics: |-
 
 ۲
 نانا نبی بابا علی مادر ہے جس کی فاطمہ
-اک بھای ہے مولا حسن اور دوسرا ہے با وفا
+اک بھائی ہے مولا حسن اور دوسرا ہے با وفا
 تیرے ہی دم سے ہی بچا اسلام کی تو ہے بقا
 
 ۳
 کرار ہے جرار ہے کیا خوب تیرا وار ہے
-یہ کہہ گےء ہیں مصطفیٰ جنت کا تو سردار ہے
+یہ کہہ گئے ہیں مصطفیٰ جنت کا تو سردار ہے
 جنت ہو جس کو دیکھنی وہ دیکھ لے روضہ تیرا
 
 ۴
@@ -104,8 +105,8 @@ romanLyrics: |-
 عباس بولے مرحبا ابنِ شاہ کربوبلا
 
 ۶
-بولے یہ زہرا سے نبی اک قوم ایسی آے گی
-قریہ با قریہ ہر گلی شبیر کو وہ روے گی
+بولے یہ زہرا سے نبی اک قوم ایسی آئے گی
+قریہ با قریہ ہر گلی شبیر کو وہ روئے گی
 کرتے ہیں جو مجلس بپا وہ سب ہے زہرا کی دعا
 
 ۷
@@ -114,21 +115,21 @@ romanLyrics: |-
 رونا نہیں تم میری جاں جب شمر چھینے گا ردا
 
 ۸
-آنکھوں سے ہے آنسوں رواں ہے سامنے کڑیل جواں
-ناد علی پڑتے ہوے سینے سے کھینچی ہے سناں
+آنکھوں سے ہے آنسو رواں ہے سامنے کڑیل جواں
+ناد علی پڑھتے ہوئے سینے سے کھینچی ہے سناں
 یوں باپ کے ہاتھوں پہ ہی کڑیل جواں رخصت ہوا
 
 ۹
 زخمی بدن سوکھا گلا اور کوئی نہ یاور رہا
 اللّٰہ ہی جانے کس طرح شبیر لڑتا ہی رہا
-ستر قدم پہ زینب تھی اور کٹتا تھا بھای کا گلا
+ستر قدم پہ زینب تھی اور کٹتا تھا بھائی کا گلا
 
 ۱۰
 ہے بیکفن لاشہ تیرا سجاد ہے بے بس کھڑا
 منظر یہ دیکھے کس طرح کرتا ہے رب سے یہ دعا
-یہ دن کسی پر آے نہ میرے خدا میرے خدا
+یہ دن کسی پر آئے نہ میرے خدا میرے خدا
 
 ۱۱
 روتا رہے گا یہ جہاں غم میں تیرے شاہ زمن
-کہہ دو حسن یزداں سے یہ جتنے بھی ہے یہ نوحہ خواں
+کہہ دو حسن یزداں سے یہ جتنے بھی ہیں یہ نوحہ خواں
 اس کی تجارت نہ کرے یہ ذکر ہے مظلوم کا
