@@ -1,0 +1,44 @@
+name: One-time provisional import identity reconciliation
+on:
+  push:
+    branches:
+      - feat/import-overlap-reconciliation-2026-11-05
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  reconcile:
+    if: github.event_name == 'workflow_dispatch' || contains(github.event.head_commit.message, '[reconcile-ids]')
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+          cache: npm
+      - name: Confirm main baseline and reconcile provisional IDs
+        run: |
+          git fetch origin main
+          git merge-base --is-ancestor origin/main HEAD
+          python3 -m py_compile scripts/reconcile-provisional-recitation-ids.py
+          python3 scripts/reconcile-provisional-recitation-ids.py
+      - name: Verify identity registry, schema and existing unit tests
+        run: |
+          npm ci
+          node --experimental-strip-types scripts/recitation-identities.mjs --check
+          npm run check
+          npm test
+      - name: Commit only identity and audit reconciliation
+        run: |
+          rm -f scripts/reconcile-provisional-recitation-ids.py .github/workflows/reconcile-provisional-ids.yml
+          rm -rf scripts/__pycache__
+          git add -A src/data/recitation/identity-lock.json src/data/lyrics/ana-ibn-e-makka-o-mina.md audit/manual-md-review-tracker.csv audit/lyric-md-rounds.csv scripts/reconcile-provisional-recitation-ids.py .github/workflows/reconcile-provisional-ids.yml
+          git diff --cached --check
+          git diff --cached --stat
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "Reconcile provisional import IDs and duplicate deletion audit [skip ci]"
+          git push origin "HEAD:feat/import-overlap-reconciliation-2026-11-05"
