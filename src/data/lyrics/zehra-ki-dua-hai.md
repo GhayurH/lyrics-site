@@ -6,67 +6,84 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Hasnain"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Zehra ki dua hai
-  Ghaibat se nikal aaye khudaya mera beta
-  Koi to uthaale mere shabbir ka laasha
+
+  Ghaibat se nikal aaye Khudaaya mera beta
+  Zehra ki dua hai
+  Koi to uthaale mere Shabbir ka laasha
+  Zehra ki dua hai
 
   1
-  Nanhe ali asghar ka lahoo abh bhi rawan hai
-  Ab tak ali akbar ke kaleje mein sina hai
-  Mehdi mera aa jaaye to seene se laga le
+  Nanhe Ali Asghar ka lahu ab bhi ravaaṅ hai
+  Ab tak Ali Akbar ke kaleje mein sinaaṅ hai
+  Mehdi mera aa jaaye to sine se laga le
+  Zehra ki dua hai
 
   2
   Khanjar se gala kat gaya wo gurz wo bhaale
-  Is laash pe ghode hai abhi daudne waale
-  Koi mere shabbir ke laashe ko uthaale
+  Is laash pe ghore haiṅ abhi daurne waale
+  Koi mere Shabbir ke laashe ko uthaale
+  Zehra ki dua hai
 
   3
-  Wo darbadari kufe ke darbar ka badla
-  Baaqi hai abhi shaam ke darbar ka badla
+  Wo darbadari Kufe ke darbaar ka badla
+  Baaqi hai abhi Shaam ke darbaar ka badla
   Allah mere laal ko ghaibat se nikaale
+  Zehra ki dua hai
 
   4
-  Pyasa mera shabbir hai ghaibat mein hai beta
+  Pyaasa mere Shabbir hai ghaibat mein hai beta
   Wo khatm ho ab jaisi musibat mein hai beta
   Har ek azadaar agar dil se bulaale
+  Zehra ki dua hai
 
   5
-  Kehti hai qamar pyare hai ye maatami saare
-  Laashon ko uthaate hai azadaar hamaare
-  Allah azadaaron ki naslo ko bachaale
+  Kehti hai Qamar pyaare haiṅ ye maatami saare
+  Laashoṅ ko uthaate haiṅ azadaar hamaare
+  Allah azadaaroṅ ki nasloṅ ko bachaale
+  Zehra ki dua hai
 # source_id: nohayonline:059c734c2a9bf08136a3
 # source_url: https://www.nohayonline.com/details_content.php?id=1587
 # raw_sha256: 8691a020f5daa0b576c927b05ff9eb5da3f8b115749bb7406c648dda1c387c09
 ---
 زہرا کی دعا ہے
+
 غیبت سے نکل آئے خدایا میرا بیٹا
+زہرا کی دعا ہے
 کوئی تو اٹھالے میرے شبیر کا لاشہ
+زہرا کی دعا ہے
 
 ۱
 ننھے علی اصغر کا لہو اب بھی رواں ہے
 اب تک علی اکبر کے کلیجے میں سناں ہے
-مہدی میرا آ جاے تو سینے سے لگا لے
+مہدی میرا آ جائے تو سینے سے لگا لے
+زہرا کی دعا ہے
 
 ۲
 خنجر سے گلا کٹ گیا وہ گرز وہ بھالے
 اس لاش پہ گھوڑے ہیں ابھی دوڑنے والے
 کوئی میرے شبیر کے لاشے کو اٹھالے
+زہرا کی دعا ہے
 
 ۳
 وہ دربدری کوفے کے دربار کا بدلہ
 باقی ہے ابھی شام کے دربار کا بدلہ
 اللّٰہ میرے لال کو غیبت سے نکالے
+زہرا کی دعا ہے
 
 ۴
 پیاسا میرے شبیر ہے غیبت میں ہے بیٹا
 وہ ختم ہو اب جیسی مصیبت میں ہے بیٹا
 ہر ایک عزادار اگر دل سے بلا لے
+زہرا کی دعا ہے
 
 ۵
 کہتی ہے قمر پیارے ہیں یہ ماتمی سارے
 لاشوں کو اٹھاتے ہیں عزادار ہمارے
 اللّٰہ عزاداروں کی نسلوں کو بچالے
+زہرا کی دعا ہے

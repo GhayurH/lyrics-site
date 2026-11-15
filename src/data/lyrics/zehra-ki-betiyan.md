@@ -1,92 +1,109 @@
 ---
-title: "خیمے جلا دیےء گےء جایینگی اب کہاں"
+title: "خیمے جلا دیے گئے جائیں گی اب کہاں"
 alternateTitle: "Zehra Ki Betiyan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Mukhtar Husain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Qaime jala diye gaye jayengi ab kahan
-  Zehra ki betiyan
-  Baithi hui hai khaak pe maqtal may be-amaan
+  Khaime jala diye gaye jaayeṅ gi ab kahaaṅ
+  Zehra ki betiyaaṅ
+  Baithi hui hai khaak pe maqtal mein beamaaṅ
+  Zehra ki betiyaaṅ
 
   1
-  Jaaye kidhar na paas may basti na koi ghar
-  Sar se ridayein le gaye kuffaar cheen kar
-  Ghazi ko yaad karti hai le le ke hichkiyan
+  Jaaye kidhar na paas mein basti na koi ghar
+  Sar se ridaaeṅ le gaye kuffaar chhin kar
+  Ghaazi ko yaad karte hai le le ke hichkiyaaṅ
+  Zehra ki betiyaaṅ
 
   2
-  Sadaat ke khayaam se uth'ta hua dhuaan
-  Wo aag may ghire huwe bachon ki siskiyan
-  Bhoolengi kaise shaam e ghariban ka ye samaa
+  Saadaat ke khayaam se uthta hua dhuaaṅ
+  Wo aag mein ghire hue bachchoṅ ki siskiyaaṅ
+  Bhuleṅ gi kaise Shaam-e-Gharibaaṅ ka ye samaaṅ
+  Zehra ki betiyaaṅ
 
   3
-  Koi nahi jo ajre risaalat ada kare
-  Pani na de ridayein to de de koi usay
-  Le ker chala hai dasht se beemar natawan
+  Koi nahiṅ jo ajr-e-risaalat ada kare
+  Paani na de ridaaeṅ to de de koi use
+  Le kar chala hai dasht se bimaar naatavaaṅ
+  Zehra ki betiyaaṅ
 
   4
-  Mushkil hai jeena sayyed e sajjad ke liye
-  Kaun aayega gharee ki imdaad ke liye
-  Be parda hai khadi hui logon ke darmiyan
+  Mushkil hai jina Sayyid-e-Sajjaad ke liye
+  Kaun aayega gharib ki imdaad ke liye
+  Beparda hai khari hui logoṅ ke darmiyaaṅ
+  Zehra ki betiyaaṅ
 
   5
-  Ashoor ki wo subho nigahon may phir gayi
-  Rote huwe azaan suni jab jahan suni
-  Akbar ke baad khaati rahi gham ki barchiyan
+  Aashur ki wo subh nigaahoṅ mein phir gayi
+  Rote hue azaan suni jab jahaaṅ suni
+  Akbar ke baad khaati rahi gham ki barchhiyaaṅ
+  Zehra ki betiyaaṅ
 
   6
-  Khoon ro raha hai naize pe ibn e ali ka sar
-  Logon ka ek hujoom hai kanton pe hai safar
-  Durre bhi khaaye raah may ek pal ruki jahan
+  Khuṅ ro raha naize pe Ibn-e-Ali ka sar
+  Logoṅ ka ik hujum hai kaaṅtoṅ pe hai safar
+  Durre bhi khaaye raah mein ik pal ruki jahaaṅ
+  Zehra ki betiyaaṅ
 
   7
-  Saydaniyon ke sar hai takallum jhuke huwe
-  Haye khadi hai maadar e abbas saamne
-  Kaise chupaye baazu pe rassi ke ye nishan
+  Sayyidaaniyoṅ ke sar hai Takallum jhuke hue
+  Haaye khari hai Maadar-e-Abbaas saamne
+  Kaise chhupaaye baazu pe rassi ke ye nishaaṅ
+  Zehra ki betiyaaṅ
 # source_id: nohayonline:1eebcab5effa3de56f80
 # source_url: https://www.nohayonline.com/details_content.php?id=2081
 # raw_sha256: 9f052d3d18e34d60693c5ca2f719bbc22603a088c52ca7b69f57dfa9aea82490
 ---
-خیمے جلا دیےء گےء جایینگی اب کہاں
+خیمے جلا دیے گئے جائیں گی اب کہاں
 زہرا کی بیٹیاں
-بیٹھی ہوی ہے خاک پہ مقتل میں بے اماں
+بیٹھی ہوئی ہے خاک پہ مقتل میں بے اماں
+زہرا کی بیٹیاں
 
 ۱
-جاے کدھر نہ پاس میں بستی نہ کوئی گھر
-سر سے رداییں لے گےء کفار چھین کر
+جائے کدھر نہ پاس میں بستی نہ کوئی گھر
+سر سے ردائیں لے گئے کفار چھین کر
 غازی کو یاد کرتے ہے لے لے کے ہچکیاں
+زہرا کی بیٹیاں
 
 ۲
-سادات کے قیام سے اٹھتا ہوا دھواں
-وہ آگ میں گھرے ہوے بچوں کی سسکیاں
-بھولیں گی کیسے شام غریباں کا یہ سماں
+سادات کے خیام سے اٹھتا ہوا دھواں
+وہ آگ میں گھرے ہوئے بچوں کی سسکیاں
+بھولیں گی کیسے شامِ غریباں کا یہ سماں
+زہرا کی بیٹیاں
 
 ۳
-کوئی نہیں جو اجر رسالت ادا کرے
-پانی نہ دے رداییں تو دے دے کوئی اسے
+کوئی نہیں جو اجرِ رسالت ادا کرے
+پانی نہ دے ردائیں تو دے دے کوئی اسے
 لے کر چلا ہے دشت سے بیمار ناتواں
+زہرا کی بیٹیاں
 
 ۴
-مشکل ہے جینا سید سجاد کے لئے
-کون آے گا غریب کی امداد کے لئے
-بے پردہ ہے کھڑی ہوی لوگوں کے درمیاں
+مشکل ہے جینا سیدِ سجاد کے لئے
+کون آئے گا غریب کی امداد کے لئے
+بے پردہ ہے کھڑی ہوئی لوگوں کے درمیاں
+زہرا کی بیٹیاں
 
 ۵
-عاشور کی وہ صبح نگاہوں میں پھر گیء
-روتے ہوے اذان سنی جب جہاں سنی
+عاشور کی وہ صبح نگاہوں میں پھر گئی
+روتے ہوئے اذان سنی جب جہاں سنی
 اکبر کے بعد کھاتی رہی غم کی برچھیاں
+زہرا کی بیٹیاں
 
 ۶
 خوں رو رہا نیزے پہ ابنِ علی کا سر
 لوگوں کا اک ہجوم ہے کانٹوں پہ ہے سفر
-درے بھی کھاے راہ میں اک پل رکی جہاں
+درے بھی کھائے راہ میں اک پل رکی جہاں
+زہرا کی بیٹیاں
 
 ۷
-سیدانیوں کے سر ہے تکلم جھکے ہوے
-ہاے کھڑی ہے مادر عباس سامنے
-کیسے چھپاے بازو پہ رسی کے یہ نشاں
+سیدانیوں کے سر ہے تکلم جھکے ہوئے
+ہائے کھڑی ہے مادرِ عباس سامنے
+کیسے چھپائے بازو پہ رسی کے یہ نشاں
+زہرا کی بیٹیاں
