@@ -5,83 +5,84 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shabe zarbate maahe ramzan
+  Shab-e-zarbat maah-e-Ramzaan
   Ali ka ye kehna hai
 
   1
-  Ye zindagi baad e zehra
-  Ba khuda shakista hai
-  Aah tere baad ay zehra
-  Mai dil soz o shakista
-  Mai dil zaar o girafta
-  Khuda nigehdar ke mai musafire shab zinda daar
-  Khuda nigehdar ki mai paykare dil figaar
+  Ye zindagi baad-e-Zehra
+  Ba Khuda shikasta hai
+  Aah tere baad Ae Zehra
+  Main dil soz o shikasta
+  Main dil zaar o girafta
+  Khuda nigahdaar ke main musaafir-e-shab zinda daar
+  Khuda nigahdaar ke main paikar-e-dilfigaar
 
   2
-  Roz o shab e veerani
-  Zindagi ye zindani
-  Zindagi ye baad e zehra
-  Ba khuda nahi kat'ti
-  Khuda nigehdar ke mai musafire shab zinda daar
-  Khuda nigehdar ki mai paykare dil figaar
+  Roz o shab-e-viraani
+  Zindagi ye zindaani
+  Zindagi ye baad-e-Zehra
+  Ba Khuda nahiṅ katti
+  Khuda nigahdaar ke main musaafir-e-shab zinda daar
+  Khuda nigahdaar ke main paikar-e-dilfigaar
 
   3
-  Haye dard e dil mere
-  Jo ali na keh paaya
+  Haaye dard-e-dil mere
+  Jo Ali na keh paaya
   Raaz wo liye dil mein
-  Ja raha hai ay dunya
-  Kal na salooni sunoge
-  Kal na salooni kahunga
-  Mai chala suye kirdigaar
-  Khuda nigehdar ke mai musafire shab zinda dar
-  Khuda nigehdar ki mai paykare dil figaar
+  Ja raha hai Ae duniya
+  Kal na saluni sunoge
+  Kal na saluni kahuṅ ga
+  Main chala su-e-Kirdigaar
+  Khuda nigahdaar ke main musaafir-e-shab zinda daar
+  Khuda nigahdaar ke main paikar-e-dilfigaar
 
   4
-  Wo ali hoon jangon mein
-  Jisne maut ko ghera
-  Fatima ki furqat mein zabt khogaya mera
-  Haye tere baad ay zahra
-  Haye veeran hai dunya
-  Mai chala suye kirdigaar
-  Khuda nigehdar ke mai musafire shab zinda daar
-  Khuda nigehdar ki mai paykare dil figaar
+  Wo Ali huṅ jangoṅ mein
+  Jis ne maut ko ghera
+  Fatima ki furqat mein zabt kho gaya mera
+  Haaye tere baad Ae Zahra
+  Haaye viraan hai duniya
+  Main chala su-e-Kirdigaar
+  Khuda nigahdaar ke main musaafir-e-shab zinda daar
+  Khuda nigahdaar ke main paikar-e-dilfigaar
 
   5
-  Haye fatema zehra
+  Haaye Fatema Zehra
   Sabr kaisa paaya tha
   Raaz zakhmi pehlu ka
-  Mujhse bhi chupaya tha
-  Mai kabhi bhool na paaya wo
-  Tera pehlu shakista
-  Mai chala suye kirdigaar
-  Khuda nigehdar ke mai musafire shab zinda daar
-  Khuda nigehdar ki mai paykare dil figaar
+  Mujh se bhi chhupaaya tha
+  Main kabhi bhul na paaya wo
+  Tera pehlu shikasta
+  Main chala su-e-Kirdigaar
+  Khuda nigahdaar ke main musaafir-e-shab zinda daar
+  Khuda nigahdaar ke main paikar-e-dilfigaar
 
   6
-  Is sitam ne ay zahra
-  Kitna mujhko rulwaya
-  Mai ali tha aur tera
-  Haq na mai dila paaya
-  Haye tu dukhtar e aaqa
-  Aur darbar mein jaana
-  Mai chala suye kirdigaar
-  Khuda nigehdar ke mai musafire shab zinda daar
-  Khuda nigehdar ki mai paykare dil figaar
+  Is sitam ne Ae Zahra
+  Kitna mujh ko rulwaaya
+  Main Ali tha aur tera
+  Haq na main dila paaya
+  Haaye tu dukhtar-e-Aaqa
+  Aur darbaar mein jaana
+  Main chala su-e-Kirdigaar
+  Khuda nigahdaar ke main musaafir-e-shab zinda daar
+  Khuda nigahdaar ke main paikar-e-dilfigaar
 
   7
-  Aa raha hoo ay zahra
-  Mai bhi jaanib e manzil
+  Aa raha huṅ Ae Zahra
+  Main bhi jaanib-e-manzil
   Khuda haafiz o naasir
-  Mai chala suye qaatil
+  Main chala su-e-qaatil
   Kal mera aakhri kalma
-  Fuzto be rabbil kaaba
-  Mai chala suye kirdigaar
-  Khuda nigehdar ke mai musafire shab zinda daar
-  Khuda nigehdar ki mai paykare dil figaar
+  Fuzto be rabbil Kaaba
+  Main chala su-e-Kirdigaar
+  Khuda nigahdaar ke main musaafir-e-shab zinda daar
+  Khuda nigahdaar ke main paikar-e-dilfigaar
 # source_id: nohayonline:c49d1ace45f2ed5faacb
 # source_url: https://www.nohayonline.com/details_content.php?id=432
 # raw_sha256: e53d08abefafb41f98e3a05dfb3afe0f42c931f190b00686820d5e7cb6aa602a
@@ -110,9 +111,9 @@ romanLyrics: |-
 ہائے دردِ دل میرے
 جو علی نہ کہہ پایا
 راز وہ لیے دل میں
-جا رہاہے اے دنیا
+جا رہا ہے اے دنیا
 کل نہ سلونی سُنو گے
-کل نہ سُلونی کہو ں گا
+کل نہ سُلونی کہوں گا
 میں چلا سوئے کردگار
 خدا نگہدار کے میں مسافرِ شب زندہ دار
 خدا نگہدار کے میں پیکرِ دلفگار

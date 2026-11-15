@@ -1,148 +1,127 @@
 ---
-title: "میرا سکون بولتا ہےکبھی جنون بولتا ہے"
+title: "میرا سکون بولتا ہے کبھی جنون بولتا ہے"
 alternateTitle: "Ya Ali Ya Fatema"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Safdar Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Mera sukoon bolta hai kabhi junoon bolta hai
-  Aza jo hai hamara wirsa kabhi ye khoon bolta hai
+  Mera sukun bolta hai kabhi junun bolta hai
+  Aza jo hai hamara wirsa kabhi ye khun bolta hai
+  Ye maah-e-Muharram ka hashm zinda rahega
+
+  Bas aap ke Shabbir ka gham zinda rahega
+  Ya Ali ya Fatema
 
   1
-  Ye maahe moharam ka hashm zinda rehga
-  Bas aap ke shabbir ka gham zinda rahega
-  Ya ali ya fatema
-  Hum ahle aza haq ke tarafdaar rahenge
+  Hum ahl-e-aza haq ke tarafdaar raheṅge
+  Bas aap ke bachchoṅ ke wafadaar raheṅge
+  Hum majlis o maatam ke talabgaar raheṅge
+  Ghazi ka alam le ke alamdaar raheṅge
+  Maatam ki fazaaoṅ mein alam zinda rahega
 
   2
-  Bas aap ke bachon ke wafadaar rahenge
-  Hum majlis o matam ke talabgaar rahenge
-  Ghazi ka alam le ke alamdar rahenge
-  Matam ki fazaon mein alam zinda rahega
+  Zehnoṅ pe asar karta rahega gham-e-Shabbir
+  Nasloṅ mein safar karta rahega gham-e-Shabbir
+  Dil baar-e-digar karta rahega gham-e-Shabbir
+  Har qalb mein ghar karta rahega gham-e-Shabbir
+  Is qaum pe Ghazi ka karam zinda rahega
 
   3
-  Zehno pe asar karta rahega ghame shabbir
-  Naslon mein safar karta rahega ghame shabbir
+  Ghaafil gham-e-Shabbir se ek pal nahiṅ hoṅge
+  Baatil ke kabhi khwaab mukammal nahiṅ hoṅge
+  Ye haath jo maatam ko uthe shal nahiṅ hoṅge
+  Ye maana ke hum aaj haiṅ par kal nahiṅ hoṅge
+  Qaayim se bharm se ye bharm zinda rahega
 
   4
-  Dil baar digar karta rahega ghame shabbir
-  Har qalb mein ghar karta rahega ghame shabbir
-  Is qaum pe ghazi ka karam zinda rahega
+  Hum zehnoṅ se Aashur utarne nahiṅ deṅge
+  Hum maqsad-e-Shabbir ko marne nahiṅ deṅge
+  Tasbih-e-aza jo hai bikharne nahiṅ deṅge
+  Ab zulm se takraayeṅge dharne nahiṅ deṅge
+  Ye zikr-e-Shahanshah-e-umam zinda rahega
 
   5
-  Ghaafil ghame shabbir se ek pal nahi honge
-  Baatil ke kabhi khwaab mukammal nahi honge
-  Ye haath jo matam ko uthe shar nahi honge
+  Har baras Arbaiṅ Aashur manaane ke liye
+  Karbala jaayeṅge hum farsh bichhaane ke liye
+  Jo lahu par hai wohi qarz chukaane ke liye
+  Haram-e-Shah mein khuṅ apna bahaane ke liye
 
   6
-  Ye maana ke hum aaj hai par kal nahi honge
-  Qaayim se bahram se ye bharam zinda rahega
+  Bhul sakte hi nahiṅ asr ka hangaam kabhi
+  Halq-e-Shabbir pe jis waqt chali kund chhuri
+  Surkh aandhi ka wo chalna wo qayaamat ki ghari
+  Gunj uthi gham ki azaaṅ har taraf aag dhuaaṅ
+  Kar rahi thi ye fughaaṅ qabr-e-beshir pe ye maaṅ
+  Ye gham Ali Asghar ki qasam zinda rahega
 
   7
-  Hum zehno se ashoor utarne nahi denge
-  Hum maqsade shabbir ko marne nahi denge
-  Tasbeeh e aza jo hai bikharne nahi denge
-  Ab zulm se takrayenge dharne nahi denge
-
-  8
-  Ye zikre shehenshahe umam zinda rahega
-  Har baras arbaeen ashoor manaane ke liye
-
-  9
-  Karbala jayenge hum farsh bichane ke liye
-  Jo lahoo par hai wohi karz chukane ke liye
-  Haram e shaah mein khoon apna bahane ke liye
-
-  10
-  Bhool sakte hi nahi asr ka hangaam kabhi
-  Halqe shabbir pe jis waqt chali kund churi
-  Surkh aandhi ka wo chalna wo qayamat ki ghadi
-
-  11
-  Goonj uthi gham ki azan har taraf aag dhuan
-  Kar rahi thi ye fughan qabre baysheer pe ye maa
-  Ye gham ali asghar ki qasam zinda rahega
-
-  12
-  Awaaz e azadaar hai maaninsa hussaina
-  Dil maail e guftaar hai maaninsa hussaina
-  Mazhar bhi garafgaar hai maaninsa hussaina
-
-  13
-  Safdar ka ye izhaar hai maaninsa hussaina
+  Aawaaz-e-azaadaar hai maaninsa Husaina
+  Dil maail-e-guftaar hai maaninsa Husaina
+  Mazhar bhi dilfigaar hai maaninsa Husaina
+  Safdar ka ye izhaar hai maaninsa Husaina
   Haq baat jo likhe wo qalam zinda rahega
 # source_id: nohayonline:7433b4611191aec3f24b
 # source_url: https://www.nohayonline.com/details_content.php?id=1719
 # raw_sha256: 67ae9feca2ca705a93182d9a57d3970d0ca42f68d8683d9c30812fd0ce750dd0
 ---
-میرا سکون بولتا ہےکبھی جنون بولتا ہے
+میرا سکون بولتا ہے کبھی جنون بولتا ہے
 عزا جو ہے ہمارا ورثہ کبھی یہ خون بولتا ہے
+یہ ماہِ محرم کا ہشم زندہ رہے گا
 
-۱
-یہ ماہ محرم کا ہشم زندہ رہے گا
 بس آپ کے شبیر کا غم زندہ رہے گا
 یا علی یا فاطمہ
-ہم اہلِ عزا حق کے طرفدار رہیں گے
 
-۲
+۱
+ہم اہلِ عزا حق کے طرفدار رہیں گے
 بس آپ کے بچوں کے وفادار رہیں گے
 ہم مجلس و ماتم کے طلبگار رہیں گے
-غازی کا الم لے کے علمدار رہیں گے
-ماتم کی فضاؤں میں الم زندہ رہے گا
+غازی کا علم لے کے علمدار رہیں گے
+ماتم کی فضاؤں میں علم زندہ رہے گا
 
-۳
-زہنوں پہ اثر کرتا رہے گا غم شبیر
-نسلوں میں سفر کرتا رہے گا غم شبیر
-
-۴
-دل بار دگر کرتا رہے گا غمِ شبیر
+۲
+ذہنوں پہ اثر کرتا رہے گا غمِ شبیر
+نسلوں میں سفر کرتا رہے گا غمِ شبیر
+دل بارِ دگر کرتا رہے گا غمِ شبیر
 ہر قلب میں گھر کرتا رہے گا غمِ شبیر
 اس قوم پہ غازی کا کرم زندہ رہے گا
 
-۵
-غافل غمِ شبیر سے اک پل نہیں ہونگے
-باطل کے کبھی خواب مکمل نہیں ہونگے
-یہ ہاتھ جو ماتم کو اٹھے شل نہیں ہونگے
-
-۶
-یہ مانا کہ ہم آج ہیں پر کل نہیں ہونگے
+۳
+غافل غمِ شبیر سے اک پل نہیں ہوں گے
+باطل کے کبھی خواب مکمل نہیں ہوں گے
+یہ ہاتھ جو ماتم کو اٹھے شل نہیں ہوں گے
+یہ مانا کہ ہم آج ہیں پر کل نہیں ہوں گے
 قایم سے بھرم سے یہ بھرم زندہ رہے گا
 
-۷
-ہم ذہنوں سے عاشور اترنے نہیں دینگے
-ہم‌ مقصد شبیر کو مرنے نہیں دیںگے
-تسبیح عزا جو ہے بکھرنے نہیں دیںگے
-اب ظلم سے ٹکراینگے دھرنے نہیں دینگے
+۴
+ہم ذہنوں سے عاشور اترنے نہیں دیں گے
+ہم مقصدِ شبیر کو مرنے نہیں دیں گے
+تسبیحِ عزا جو ہے بکھرنے نہیں دیں گے
+اب ظلم سے ٹکرائیں گے دھرنے نہیں دیں گے
+یہ ذکرِ شہنشاہِ امم زندہ رہے گا
 
-۸
-یہ ذکر شہنشاہِ امم زندہ رہے گا
-ہر برس اربعیں عاشور منانے کے لئے
+۵
+ہر برس اربعیں عاشور منانے کے لیے
+کربلا جائیں گے ہم فرش بچھانے کے لیے
+جو لہو پر ہے وہی قرض چکانے کے لیے
+حرمِ شاہ میں خوں اپنا بہانے کے لیے
 
-۹
-کربلا جاینگے ہم فرش بچھانے کے لئے
-جو لہو پر ہے وہی قرض چکانے کے لئے
-حرم شاہ میں خوں اپنا بہانے کے لئے
-
-۱۰
+۶
 بھول سکتے ہی نہیں عصر کا ہنگام کبھی
-حلق شبیر پہ جس وقت چلی کند چھری
+حلقِ شبیر پہ جس وقت چلی کند چھری
 سرخ آندھی کا وہ چلنا وہ قیامت کی گھڑی
-
-۱۱
 گونج اٹھی غم کی اذاں ہر طرف آگ دھواں
-کر رہی تھی یہ فغاں قبر بے شیر پہ یہ ماں
+کر رہی تھی یہ فغاں قبرِ بے شیر پہ یہ ماں
 یہ غم علی اصغر کی قسم زندہ رہے گا
 
-۱۲
+۷
 آوازِ عزادار ہے ماننسا حسینا
 دل مالی گفتار ہے ماننسا حسینا
 مظہر بھی دلفگار ہے ماننسا حسینا
-
-۱۳
 صفدر کا یہ اظہار ہے ماننسا حسینا
 حق بات جو لکھے وہ قلم زندہ رہے گا
