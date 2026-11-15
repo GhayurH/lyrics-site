@@ -1,5 +1,5 @@
 ---
-title: "آجا عباس تجھے رو رو بلاے زینب"
+title: "آجا عباس تجھے رو رو بلائے زینب"
 alternateTitle: "Aaja Abbas Tujhe"
 language: "Urdu"
 lang: "ur"
@@ -11,12 +11,12 @@ aliases: []
 published: false
 romanLyrics: |-
   Aaja Abbas tujhe ro ro bulaye Zainab
-  Kaise paband-e-rasan Shaam mein jaaye Zainab
+  Kaise paaband-e-rasan Shaam mein jaaye Zainab
 
   1
   Kya karuṅ ye to bata bhai nahiṅ sar pe rida
   Sar pe baba bhi nahiṅ kaun sune meri sada
-  Hukm zaalim ka hai darbar mein aaye Zainab
+  Hukm zaalim ka hai darbaar mein aaye Zainab
 
   2
   Mera baba hai Ali aur mera nana Nabi
@@ -25,7 +25,7 @@ romanLyrics: |-
 
   3
   Baad Shabbir ke saaye mein nahiṅ aayi Rubab
-  Ghamzada behen ko is baat ka de bhai jawab
+  Ghamzada behen ko is baat ka de bhai jawaab
   Dhoop se usko bata kaise uthaye Zainab
 
   4
@@ -41,30 +41,30 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=3166
 # raw_sha256: 94e409836e32ba3150ac189ff49527912d802e08e5e4d8d8d5afff633376dc6d
 ---
-آجا عباس تجھے رو رو بلاے زینب
-کیسے پابند رسن شام میں جاے زینب
+آجا عباس تجھے رو رو بلائے زینب
+کیسے پابند رسن شام میں جائے زینب
 
 ۱
 کیا کروں یہ بتا بھائی نہیں سر پہ ردا
 سر پہ بابا بھی نہیں کون سنے میری صدا
-حکم ظالم کا ہے دربار میں آے زینب
+حکم ظالم کا ہے دربار میں آئے زینب
 
 ۲
 میرا بابا ہے علی اور میرا نانا نبی
 درد و غم سہہ کے بھی میں دین بچا کر ہوں چلی
-شام میں گونج رہی تھی یہ صداے زینب
+شام میں گونج رہی تھی یہ صدائے زینب
 
 ۳
-بعد شبیر کے ساے میں نہیں آی رباب
-غمزدہ بہن کو اس بات کا دے بھای جواب
-دھوپ سے اس کو بتا کیسے اٹھاے زینب
+بعد شبیر کے سائے میں نہیں آئی رباب
+غمزدہ بہن کو اس بات کا دے بھائی جواب
+دھوپ سے اس کو بتا کیسے اٹھائے زینب
 
 ۴
-شام منزل ہے میری بھای ہے بے گور و کفن
+شام منزل ہے میری بھائی ہے بے گور و کفن
 نہ ہی ماتم ہے کیا نہ ہی کیا اس کو دفن
-بات یہ تو ہی بتا کیسے بھلاے زینب
+بات یہ تو ہی بتا کیسے بھلائے زینب
 
 ۵
-کیا ہے‌ آسان یہ خورشید بھلا نوحہ گری
+کیا ہے آسان یہ خورشید بھلا نوحہ گری
 جانتے ہے یہ سخنور کے یہ منزل ہے کڑی
-بات بنتی ہے جو ہو جائے عطاے زینب
+بات بنتی ہے جو ہو جائے عطائے زینب
