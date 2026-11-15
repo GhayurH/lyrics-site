@@ -6,81 +6,84 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Dayam Najafi"
+reciter: "Ali Yazdan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ya maula ya ghazi abbas alamdar
-  Saqqa e sakina ay jaan e hazeena
+  Ya Maula ya Ghazi Abbas alamdar
+  Saqqa-e-Sakina ae jaan-e-hazina
+  Abbas alamdar
 
   1
   Darya ke kanare so gaya
-  Dhoonda to kahan wo kho gaya
-  Ek shor hai aale zehra mein
-  Ashoor ko ye kya hogaya
+  Dhunda to kahaaṅ wo kho gaya
+  Ik shor hai Aal-e-Zehra mein
+  Aashur ko ye kya ho gaya
   Shabbir ke ghamkhwar
-  Dukhiyon ke madad gaar
+  Dukhiyaroṅ ke madadgar
 
   2
-  Rota hai falak hilti hai zameen
-  Amma ko lehad mein chain nahi
+  Rota hai falak hilti hai zamiṅ
+  Amma ko lahad mein chain nahiṅ
   Ye asr qayamat waala hai
-  Hai seena e sheh pe shimr e layeen
+  Hai sina-e-Shah pe Shimr laiṅ
   Lutne ko hai sarkar aajao bas ek baar
 
   3
-  Aati hai sakina ki ye sada
-  Surat hamein dikhla jao chacha
+  Aati hai Sakina ki ye sada
+  Surat hameiṅ dikhla jaao chacha
   Aafat pe hai aafat aayi hui
   Durr le gaye zaalim aur rida
-  Pani nahi darkaar
-  Kunbe se khabar daar
+  Paani nahiṅ darkaar
+  Kunbe se khabardar
 
   4
-  Naizon pa hai naize aaye huwe
-  Sayyed pe sitamgar chaaye huwe
-  Ye lashkare aada ke haiwan
-  Bhai pe mazaalim dhaaye huwe
-  Har soo hai sitamgaar
+  Naizoṅ pa hai naize aaye hue
+  Sayyid pe sitamgar chhaaye hue
+  Ye lashkar-e-aada ke haiwan
+  Bhai pe mazaalim dhaaye hue
+  Har suṅ hai sitamgaar
   Manzil hai ye dushwaar
 
   5
-  Sab sote hai ran mein ho ke juda
-  Ab koi nahi abid ke siwa
-  Majboor samajh kar pyase ko
-  Dete hai aziyat ahle jafa
-  Hai narghaye aghiyaar
-  Mushkil mein hai bemaar
+  Sab sote haiṅ ran mein ho ke juda
+  Ab koi nahiṅ Aabid ke siwa
+  Majbur samajh kar pyaase ko
+  Dete haiṅ aziyat ahl-e-jafa
+  Hai nargha-e-aghyaar
+  Mushkil mein hai bimaar
 
   6
-  Kis tarha sambhale dil maadar
-  Phir tukde hua jaata hai jigar
-  Hai shor sipaahe baatil mein
-  Dhoondo hai kahan qabre asghar
-  Phir niaze hai tayyaar
-  Ache nahi aasaar
+  Kis tarah sambhaale dil-e-maadar
+  Phir tukre hua jaata hai jigar
+  Hai shor sipaah-e-baatil mein
+  Dhundo hai kahaaṅ qabr-e-Asghar
+  Phir naize hai tayyaar
+  Achchhe nahiṅ aasaar
 
   7
-  Chinti hai sar e zainab se rida
+  Chhinti hai sar-e-Zainab se rida
   Deti hai behan kab se ye sada
-  Parda hai ghareebon ka tum se
-  Aajao bachane behre khuda
-  Ay saani e karraar
-  Hyder ke dilafgaar
+  Parda hai ghariboṅ ka tum se
+  Aajao bachaane bahr-e-Khuda
+  Ae saani-e-Karrar
+  Haidar ke dil afgaar
 
   8
-  Dayam wo fughan e aale nabi
-  Yazdan ho bayan kaise wo ghadi
-  Qaidi ban kar suye zindan
+  Dayam wo fughaan-e-Aal-e-Nabi
+  Yazdaaṅ ho bayaaṅ kaise wo ghari
+  Qaidi ban kar su-e-zindaaṅ
   Ye kehti hui ghamkhwar chali
   Kunbe ke tarafdaar
-  Sarwar se khabardaar
+  Sarwar se khabardar
 # source_id: nohayonline:7b6771cf62af89afe8ba
 # source_url: https://www.nohayonline.com/details_content.php?id=2677
 # raw_sha256: 017e5672473a5efc0af41b5d84e78c0c455e63b14db52f65b5cfd6ad66486a27
 ---
 یا مولا یا غازی عباس علمدار
 سقاے سکینہ اے جانِ حزینہ
+عباس علمدار
 
 ۱
 دریا کے کنارے سو گیا
@@ -100,16 +103,16 @@ romanLyrics: |-
 ۳
 آتی ہے سکینہ کی یہ صدا
 صورت ہمیں دکھلا جاؤ چچا
-آفت پہ ہے آفت آی ہوی
-در لے گےء ظالم اور ردا
+آفت پہ ہے آفت آئی ہوئی
+در لے گئے ظالم اور ردا
 پانی نہیں درکار
 کنبے سے خبر دار
 
 ۴
-نیزوں پہ ہے نیزے آے ہوے
-سید پہ ستمگر چھاے ہوے
+نیزوں پہ ہے نیزے آئے ہوئے
+سید پہ ستمگر چھائے ہوئے
 یہ لشکرِ اعدا کے حیوان
-بھای پہ مظالم ڈھاے ہوے
+بھائی پہ مظالم ڈھائے ہوئے
 ہر سوں ہے ستمگار
 منزل ہے یہ دشوار
 
@@ -141,6 +144,6 @@ romanLyrics: |-
 دایم وہ فغان آل نبی
 یزداں ہو بیاں کیسے وہ گھڑی
 قیدی بن کر سوے زنداں
-یہ کہتی ہوی غم خوار چلی
+یہ کہتی ہوئی غم خوار چلی
 کنبے کے طرفدار
 سرور سے خبر دار

@@ -1,51 +1,54 @@
 ---
 title: "یا مظلوم امام"
-alternateTitle: "Ya Mazoom Imam"
+alternateTitle: "Ya Mazlum Imam"
+recitationId: "ya-mazoom-imam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar, H. Naqvi & Z. Abbas"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ya Mazoom Imam", "ya-mazoom-imam"]
 published: false
 romanLyrics: |-
-  Ya mazloom imam
-  Sab ke aansu hai rawan
-  Sab ke lab par hai fughan
-  Ay dil e ya fatema
+  Ya mazlum Imam
+  Sab ke aansuṅ haiṅ rawaaṅ
+  Sab ke lab par hai fughaaṅ
+  Ae dil ya Fatima
+  Ya mazlum Imam
 
   1
-  Hussain hussain hussain
+  Husain Husain Husain
   Assalaam
-  Hussain jaan hussain jaan hussain jaan
-  Ya imam
-  Hussain jaan hussain jaan hussain jaan
-  Ya hussain ya hussain ya hussain
+  Husain jaaṅ Husain jaaṅ Husain jaaṅ
+  Ya Imam
+  Husain jaaṅ Husain jaaṅ Husain jaaṅ
+  Ya Husain ya Husain ya Husain
 
   2
-  Nauha hai matam hai dil girya kuna hai
-  Har lamha har lab par ek aah o fughan hai
-  Darya hai pani hai sab kuch to rawan hai
-  Ek ghar tha zehra ka ab ghar wo kahan hai
-  Dil e zehra hai bada tanha hai
-  Bada pyasa hai bada pyasa hai
+  Noha hai maatam hai dil girya kunaaṅ hai
+  Har lamha har lab par ek aah o fughaaṅ hai
+  Darya hai paani hai sab kuchh to rawaaṅ hai
+  Ek ghar tha Zehra ka ab ghar wo kahaaṅ hai
+  Dil Zehra hai bara tanha hai
+  Bara pyaasa hai bara pyaasa hai
 
   3
-  Na lashkar na yawar na koi sahara
+  Na lashkar na yaawar na koi sahaara
   Na bhai na bete ghar lut gaya saara
-  Naizo mein teghon mein zahra ka dulhara
-  Kis dil se ghurbat mein pyaron ko pukara
-  Kahan ho akbar kahan ho asghar
+  Naizoṅ mein teghoṅ mein Zehra ka dulaara
+  Kis dil se ghurbat mein pyaaroṅ ko pukaara
+  Kahaaṅ ho Akbar kahaaṅ ho Asghar
   Sada do dilbar sada do dilbar
 
   4
-  Mehshar ka manzar hai rota hai bayaban
-  Shole hai qaime hai aur shaam e ghariban
-  Na ghazi na chadar zainab hai pareshan
-  Behno ka bacchon ka ab kaun nigheban
-  Hussain aajao na ab tadpao
-  Rida bhi lao rida bhi lao
+  Mahshar ka manzar hai rota hai bayaabaaṅ
+  Shole haiṅ khaime hai aur Shaam-e-Gharibaaṅ
+  Na Ghazi na chaadar Zainab hai pareshaaṅ
+  Bahnoṅ ka bachchoṅ ka ab kaun nigahbaan
+  Husain aajao na ab tarpaao
+  Rida bhi laao rida bhi laao
 # source_id: nohayonline:02c714034adae40347d2
 # source_url: https://www.nohayonline.com/details_content.php?id=3638
 # raw_sha256: a36eb921650960575b068d7e6c338301cbc8ee0736e983beccf53819db01a5c4
@@ -54,6 +57,7 @@ romanLyrics: |-
 سب کے آنسوں ہیں رواں
 سب کے لب پر ہے فغاں
 اے دل یا فاطمہ
+یا مظلوم امام
 
 ۱
 حسین حسین حسین
@@ -73,7 +77,7 @@ romanLyrics: |-
 
 ۳
 نہ لشکر نہ یاور نہ کوئی سہارا
-نہ بھای نہ بیٹے گھر لٹ گیا سارا
+نہ بھائی نہ بیٹے گھر لٹ گیا سارا
 نیزوں میں تیغوں میں زہرا کا دلارا
 کس دل سے غربت میں پیاروں کو پکارا
 کہاں ہو اکبر کہاں ہو اصغر
@@ -84,5 +88,5 @@ romanLyrics: |-
 شعلے ہیں خیمے ہے اور شام غریباں
 نہ غازی نہ چادر زینب ہے پریشاں
 بہنوں کا بچوں کا اب کون نگہبان
-حسین آجاؤ نہ اب تڑپاو
+حسین آجاؤ نہ اب تڑپاؤ
 ردا بھی لاؤ ردا بھی لاؤ

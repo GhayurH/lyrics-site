@@ -6,47 +6,48 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Karbala se yehi aa rahi hai sada
-  Al-ajal al-ajal warise karbala
+  Al-ajal al-ajal waaris-e-Karbala
 
   1
-  Laashe shabbir par jo giraye gaye
-  Mai wo pathar hoo kab se sambhale hue
-  De inhi patharo se tu unko saza
+  Laash-e-Shabbir par jo giraaye gaye
+  Main wo patthar huṅ kab se sambhaale hue
+  De inhiṅ pattharoṅ se tu un ko saza
 
   2
-  Maa ki nazrein na dekhe yehi soch kar
-  Seena apna chupaye hue hai magar
-  Zakhm dikhlayega tujhko akbar tera
+  Maaṅ ki nazreiṅ na dekheiṅ yehi soch kar
+  Sina apna chhupaaye hue hai magar
+  Zakhm dikhlaayega tujh ko Akbar tera
 
   3
-  Inteqam aake zainab ki chadar ka le
+  Inteqam aake Zainab ki chaadar ka le
   Sar se pehle tu us haath ko kaat de
-  Binte zehra ki jisne rida ko chuva
+  Bint-e-Zehra ki jis ne rida ko chhua
 
   4
-  Ek ziyarat chupaye hue hoo abhi
-  Tumko dikhlaungi aaoge jis ghadi
-  Khoon sakina ka jo khaak par tha gira
+  Ik ziyarat chhupaaye hue huṅ abhi
+  Tum ko dikhlaauṅ gi aaoge jis ghari
+  Khuṅ Sakina ka jo khaak par tha gira
 
   5
-  Sar juda tan juda dono baazu juda
-  Phir bhi ghazi ko armaan hai jang ka
+  Sar juda tan juda donoṅ baazu juda
+  Phir bhi Ghazi ko armaan hai jang ka
   Haath uthaye bina de raha hai sada
 
   6
-  Saath qaimon ke har ek shay jal gayi
+  Saath khaimoṅ ke har ek shay jal gayi
   Zulm bhi thak gaya aag bhi bujh gayi
   Jal raha hai magar ab bhi seena mera
 
   7
-  Har azadar ye kar raha hai dua
-  Aisa ashoor ho ab ke akbar bapa
-  Karbala mein mile warise karbala
+  Har azaadar ye kar raha hai dua
+  Aisa Aashur ho ab ke Akbar bapa
+  Karbala mein mile waaris-e-Karbala
 # source_id: nohayonline:f2c80b16fa7828c479d4
 # source_url: https://www.nohayonline.com/details_content.php?id=662
 # raw_sha256: e7036b3606ad5685874176a606d6edce9a71c29ee6c83f468385ca58a8bad8af
@@ -56,13 +57,13 @@ romanLyrics: |-
 
 ۱
 لاشے شبیر پر جو گرائے گئے
-میںوہ پتھر ہوں کب سے سنبھالے ہوئے
+میں وہ پتھر ہوں کب سے سنبھالے ہوئے
 دے اِنہی پتھروں سے تُو اُن کو سزا
 
 ۲
-ماںکی نظریں نہ دیکھیں یہی سوچ کر
+ماں کی نظریں نہ دیکھیں یہی سوچ کر
 سینہ اپنا چھپائے ہوئے ہیں مگر
-زخم دکھلائے گا تجھکو اکبر تیرا
+زخم دکھلائے گا تجھ کو اکبر تیرا
 
 ۳
 انتقام آکے زینب کی چادر کا لے
@@ -70,21 +71,21 @@ romanLyrics: |-
 بنتِ زہرا کی جس نے ردا کو چھوا
 
 ۴
-اک زیارت چھپائے ہوئے ہوںابھی
-تم کو دکھلائوں گی آئو گے جس گھڑی
+اک زیارت چھپائے ہوئے ہوں ابھی
+تم کو دکھلاؤں گی آؤ گے جس گھڑی
 خوں سکینہ کا جو خاک پر تھا گرا
 
 ۵
 سر جدا تن جدا دونوں بازو جدا
 پھر بھی غازی کو ارمان ہے جنگ کا
-ہاتھ اُٹھائے بِنادے رہا ہے صدا
+ہاتھ اُٹھائے بِنا دے رہا ہے صدا
 
 ۶
-ساتھ خیموں کے ہر ایک شہ جل گئی
+ساتھ خیموں کے ہر ایک شے جل گئی
 ظلم بھی تھک گیا آگ بھی بجھ گئی
 جل رہا ہے مگر اب بھی سینہ میرا
 
 ۷
-ہر عزادار یہ کررہا ہے دُعا
+ہر عزادار یہ کر رہا ہے دُعا
 ایسا عاشور ہو اب کہ اکبر بپا
 کربلا میں ملے وارثِ کربلا
