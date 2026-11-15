@@ -9,7 +9,8 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Kabhi kabhi maiṅ ye sochta huṅ, ye sochta huṅ kabhi kabhi maiṅ
+  Kabhi kabhi maiṅ ye sochta huṅ
+  ye sochta huṅ kabhi kabhi maiṅ
 
   1
   Adam ko jis ne wujud bakhsha
@@ -223,7 +224,8 @@ romanLyrics: |-
 # source_note: personal notebook ODT import on 2026-11-08; no unique source record ID
 # editorial_note: Notebook has divergent Roman and Urdu stanzas; both reconciled by meaning and full wording needs independent audio confirmation
 ---
-کبھی کبھی میں یہ سوچتا ہوں، یہ سوچتا ہوں کبھی کبھی میں
+کبھی کبھی میں یہ سوچتا ہوں
+یہ سوچتا ہوں کبھی کبھی میں
 
 ۱
 عدم کو جس نے وجود بخشا
