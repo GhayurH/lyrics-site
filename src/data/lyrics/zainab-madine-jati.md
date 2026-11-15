@@ -6,53 +6,54 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mehdi Nazmi"
+reciter: "Hadi Ali Khan Muslim"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zainab madine jaati hai kya kya liye huwe
+  Zainab Madine jaati hai kya kya liye huwe
 
   1
-  Ankhon mein karbala ka nazara liye huwe
-  Ehsaas mein hussain ka laasha liye huwe
-  Ashkon mein khoon e zakhm e tamanna liye huwe
+  Aankhoṅ mein Karbala ka nazaara liye huwe
+  Ehsaas mein Husain ka laasha liye huwe
+  Ashkoṅ mein khun-e-zakhm-e-tamanna liye huwe
   Abbas ke alam ka pharera liye huwe
 
   2
-  Teero se chaak chaak hai sarwar ka pairahan
-  Abbas ka libaas wo akbar ka pairahan
-  Dooba huwa hai khoon mein asghar ka pairahan
-  Bano ke sheer-khaar ka jhoola liye huwe
+  Tiroṅ se chaak chaak hai Sarwar ka pairahan
+  Abbas ka libaas wo Akbar ka pairahan
+  Duba huwa hai khun mein Asghar ka pairahan
+  Bano ke shir khwaar ka jhula liye huwe
 
   3
-  Gardan ka tauq abid e muztar ki bediyan
-  Kuch bediyon ke daagh to durro ke kuch nashan
-  Cheeni huwi sakina ke kaano ki baliyaan
-  Nanhi si ek bachi ka sadma liye huwe
+  Gardan ka tauq Aabid-e-muztar ki beriyaṅ
+  Kuch beriyoṅ ke daagh to durroṅ ke kuch nishaaṅ
+  Chhini hui Sakina ke kaanoṅ ki baaliyaṅ
+  Nanhi si ek bachchi ka sadma liye huwe
 
   4
-  Karbobala mein lut gaya gulzar e panjetan
-  Pamaal dasht e kee mein hua dilbare hassan
-  Pehne huwe hai bewa ki poshak ek dulhan
+  Karb o bala mein lut gaya gulzaar-e-Panjatan
+  Paamaal dasht-e-ki mein hua dilbar-e-Hasan
+  Pehne huwe hai bewa ki poshaak ek dulhan
   Qasim bane ke maathe ka sehra liye huwe
 
   5
-  Abbas e jaane hyder e safdar ki yaad hai
-  Qasim ki yaad hai ali akbar ki yaad hai
-  Seene mein ek dil ha bahattar ki yaad hai
-  Ujda huwa hussain ka kunba liye huwe
+  Abbas-e-jaan-e-Haider-e-Safdar ki yaad hai
+  Qasim ki yaad hai Ali Akbar ki yaad hai
+  Sine mein ek dil hai bahattar ki yaad hai
+  Ujra huwa Husain ka kunba liye huwe
 
   6
-  Daaghon mein aag aag mein ghut’ta hua dhuan
-  Maanind e mauj aankh se aansu rawan rawan
-  Baazu pa reesma ke ubhre huwe nashan
-  Seene mein zakhme marg e sakina liye huwe
+  Daaghoṅ mein aag aag mein ghutta hua dhuaaṅ
+  Maanind-e-mauj aankh se aansu rawaaṅ rawaaṅ
+  Baazu pa resmaaṅ ke ubhre huwe nishaaṅ
+  Sine mein zakhm-e-marg-e-Sakina liye huwe
 
   7
-  Zindan se chut kar bhi nahi ranj se firaagh
-  Roshan hai daaghe qalbe jigar surate charaagh
-  Karbobala mein lut gaya sibte nabi ka baagh
-  Qalbe figaar chaak kaleja liye huwe
+  Zindaaṅ se chhut kar bhi nahiṅ ranj se faraagh
+  Roshan hai daagh-e-qalb-e-jigar surat-e-charaagh
+  Karb o bala mein lut gaya Sibt-e-Nabi ka baagh
+  Qalb-e-figaar chaak kaleja liye huwe
 # source_id: nohayonline:3023aaa7253092ef881a
 # source_url: https://www.nohayonline.com/details_content.php?id=189
 # raw_sha256: 92edd3b2c612c1653565a7fa5029d786fe32bcc3763e0a89bf1094de26afb623
@@ -88,16 +89,16 @@ romanLyrics: |-
 عباس جان حیدر صفدر کی یاد ہے
 قاسم کی یاد ہے علی اکبر کی یاد ہے
 سینے میں ایک دل ہے بہتر کی یاد ہے
-اجڑا ہوا حسین کا کنبہ لئے ہوئے
+اجڑا ہوا حسین کا کنبہ لیے ہوئے
 
 ۶
 داغوں میں آگ آگ میں گھٹتا ہے دھواں
-مانند موج آنکھ سے آنسوں رواں رواں
-بازو پہ ریسماں کے ابھرے ہوی نشاں
-سینے میں زخم مرگ سکینہ لیےء ہوے
+مانند موج آنکھ سے آنسو رواں رواں
+بازو پہ ریسماں کے ابھرے ہوئے نشاں
+سینے میں زخم مرگ سکینہ لیے ہوئے
 
 ۷
 زنداں سے چھٹ کر بھی نہیں رنج سے فراغ
 روشن ہے داغ قلب جگر صورت چراغ
 کربوبلا میں لٹ گیا سبط نبی کا باغ
-قلب فگار چاک کلیجہ لےء ہوے
+قلب فگار چاک کلیجہ لیے ہوئے
