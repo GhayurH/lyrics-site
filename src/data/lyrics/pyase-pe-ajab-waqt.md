@@ -9,45 +9,46 @@ poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
+reciter: Nadeem Sarwar
 romanLyrics: |-
-  Pyase pe ajab waqt qayamat ka pada hai
+  Pyase pe ajab waqt qayamat ka para hai
   Ek laash abhi laaya hai ek lene chala hai
 
   1
-  Ye hurr ka hai wo bhai ka ye bete ka laasha
-  Zahra ka pisar ganje shaheeda mein khada hai
+  Ye Hur ka hai wo bhai ka ye bete ka laasha
+  Zahra ka pisar ganj-e-shahidaaṅ mein khara hai
 
   2
-  Zainab teri chadar ka khuda haafiz o nasir
-  Lashkar na alam aur na alamdar bacha hai
+  Zainab teri chaadar ka Khuda haafiz o naasir
+  Lashkar na alam aur na alamdaar bacha hai
 
   3
-  Ye aakhri hadya tha hussain ibne ali ka
-  Yeh bacha abhi teer se jo maara gaya hai
+  Ye aakhri hadiya tha Husain ibn-e-Ali ka
+  Ye bachcha abhi tir se jo maara gaya hai
 
   4
-  Moo dhaamp lo amma ke nazar aaye na naize
-  Naizon se yehi aun o mohamed ki sada hai
+  Muṅh dhaaṅp lo ammaṅ ke nazar aayeṅ na neze
+  Nezoṅ se yehi Aun o Muhammad ki sada hai
 
   5
-  Chup chup ke usay royegi ek raat ki byahi
-  Wo dulha jo be-goro kafan ran mein pada hai
+  Chhup chhup ke use royegi ek raat ki byaahi
+  Wo dulha jo begor o kafan ran mein para hai
 
   6
-  Laila tere akbar ne nahi khaya hai naiza
-  Ye naiza dil e sibte payambar mein laga hai
+  Laila tere Akbar ne nahiṅ khaaya hai neza
+  Ye neza dil-e-sibt-e-Payambar mein laga hai
 
   7
-  Maa jhoola jhulaati hai khayalon mein abhi tak
-  Ab jhoolne waala nahi baakhi ye pata hai
+  Maaṅ jhula jhulaati hai khayaaloṅ mein abhi tak
+  Ab jhulne waala nahiṅ baaqi ye pata hai
 
   8
-  Jis khaak pe khoon beh gaya zehra ke jigar ka
-  Woh khaakh faqad khaak nahi khaak e shifa hai
+  Jis khaak pe khuṅ bah gaya Zehra ke jigar ka
+  Wo khaak faqat khaak nahiṅ khaak-e-shifa hai
 
   9
-  Hai majlise shabbir mein abbas ka matam
-  Rehaan ye ghazi ki wafaon ka sila hai
+  Hai majlis-e-Shabbir mein Abbas ka maatam
+  Rehaan ye Ghaazi ki wafaaoṅ ka sila hai
 # source_id: nohayonline:82dc9a8460074073ac48
 # source_url: https://www.nohayonline.com/details_content.php?id=414
 # raw_sha256: 3318b32d33ae6ff5a92d007a4df720459c86b476aa971e20e0422f4fb4acf12d
@@ -68,19 +69,19 @@ romanLyrics: |-
 
 ۳
 یہ آخری ہدیہ تھا حسین ابنِ علی کا
-یہ بچا ابھی تیر سے جو مارا گیا ہے
+یہ بچہ ابھی تیر سے جو مارا گیا ہے
 
 ۴
 منہ ڈھانپ لو اماں کہ نظر آئیں نہ نیزے
 نیزوں سے یہی عون و محمد کی صدا ہے
 
 ۵
-چھُپ چھُپ کے اُسے روےگی اک رات کی بیاہی
-وہ دُلہا جو بے گورو کفن رن میں پڑا ہے
+چھُپ چھُپ کے اُسے روئے گی اک رات کی بیاہی
+وہ دُلہا جو بے گور و کفن رن میں پڑا ہے
 
 ۶
 لیلیٰ تیرے اکبر نے نہیں کھایا ہے نیزہ
-یہ نیزہ دلِ سبطِ پیعمبر میں لگا ہے
+یہ نیزہ دلِ سبطِ پیمبر میں لگا ہے
 
 ۷
 ماں جھُولا جھُلاتی ہے خیالوں میں ابھی تک
@@ -88,8 +89,8 @@ romanLyrics: |-
 
 ۸
 جس خاک پہ خوں بہہ گیا زہرا کے جگر کا
-وہ خاک فقط خاک نہیں خاکِ شفائ ہے
+وہ خاک فقط خاک نہیں خاکِ شفا ہے
 
 ۹
 ہے مجلسِ شبیر میں عباس کا ماتم
-ریحان یہ غازی کی وفائوں کا صلہ ہے
+ریحان یہ غازی کی وفاؤں کا صلہ ہے
