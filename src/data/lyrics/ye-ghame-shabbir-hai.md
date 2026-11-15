@@ -1,76 +1,77 @@
 ---
 title: "یہ غمِ شبیر ہے دُنیا کو بتاتے چلو"
-alternateTitle: "Ye Ghame Shabbir Hai"
+alternateTitle: "Ye Gham-e-Shabbir Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Qaiser Kaleem"
+reciter: "Anj. Masoomeen"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ye ghame shabbir hai dunya ko batate chalo
-  
+  Ye gham-e-Shabbir hai dunya ko bataate chalo
+
   1
-  Is ghame shabbir ko kaise bhulayenge hum
-  Hashr tak ahle jahan isko sunayenge hum
-  Daagh jo matam ke hai sab ko dikhayenge hum
-  Karke bayan zikre gham sab ko rulaate chalo
-  
+  Is gham-e-Shabbir ko kaise bhulaayeṅge hum
+  Hashr tak ahl-e-jahaaṅ is ko sunaayeṅge hum
+  Daagh jo maatam ke haiṅ sab ko dikhaayeṅge hum
+  Kar ke bayaaṅ zikr-e-gham sab ko rulaate chalo
+
   2
-  Ashke aza e hussain hashr mein kaam aayenge
-  Saamne zehra ke hum rote hue jayenge
-  Shaafaye mehshar se hum iska ajar payenge
-  Karke bayan zikre gham sab ko rulaate chalo
-  
+  Ashk-e-aza-e-Husain hashr mein kaam aayeṅge
+  Saamne Zehra ke hum rote hue jaayeṅge
+  Shaafi-e-mahshar se hum is ka ajr paayeṅge
+  Kar ke bayaaṅ zikr-e-gham sab ko rulaate chalo
+
   3
-  Ahle aza aap ko deti hai zehra dua
-  Inko to abaad rak paalne waale khuda
-  Ye mere farzand par rote rahenge sada
-  Karke bayan zikre gham sab ko rulaate chalo
-  
+  Ahl-e-aza aap ko deti hai Zehra dua
+  In ko to aabaad rakh paalne wale Khuda
+  Ye mere farzand par rote raheṅge sada
+  Kar ke bayaaṅ zikr-e-gham sab ko rulaate chalo
+
   4
-  Kitna alamnaak hai maareka e karbala
-  Iska har ek baab hai khoon mein dooba hua
-  Kehte thay khud jibraeel zulm tha hadh se siwa
-  Karke bayan zikre gham sab ko rulaate chalo
-  
+  Kitna alamnaak hai maaraka-e-Karbala
+  Is ka har ek baab hai khun mein duba hua
+  Kehte the khud Jibrail zulm tha had se siwa
+  Kar ke bayaaṅ zikr-e-gham sab ko rulaate chalo
+
   5
-  Arz o samaa roye hai roye hai kul ambiya
-  Rote hue aaye hai karbala mein mustufa
-  Is liye ahle aza karte hai aah o buka
-  Karke bayan zikre gham sab ko rulaate chalo
-  
+  Arz o samaa roye haiṅ roye haiṅ kul ambiya
+  Rote hue aaye haiṅ Karbala mein Mustafa
+  Is liye ahl-e-aza karte haiṅ aah o buka
+  Kar ke bayaaṅ zikr-e-gham sab ko rulaate chalo
+
   6
-  Fatema ke laal par yun rishe taygh o tabar
-  Aaj tak hairaan hai quwate fikre bashar
-  Hum usi mazloom par rote hai shaam o sehar
-  Karke bayan zikre gham sab ko rulaate chalo
-  
+  Fatima ke laal par yuṅ rish-e-tegh o tabar
+  Aaj tak hairaan haiṅ quwwat-e-fikr-e-bashar
+  Hum usi mazlum par rote haiṅ shaam o sahar
+  Kar ke bayaaṅ zikr-e-gham sab ko rulaate chalo
+
   7
-  Saani e zehra ke laal haq pe fida hogaye
-  Qasim e naushah bhi maa se juda hogaye
-  Qatl alamdar bhi ahle aza hogaye
-  Karke bayan zikre gham sab ko rulaate chalo
-  
+  Saani-e-Zehra ke laal haq pe fida ho gaye
+  Qasim-e-naushaah bhi maaṅ se juda ho gaye
+  Qatl Alamdaar bhi ahl-e-aza ho gaye
+  Kar ke bayaaṅ zikr-e-gham sab ko rulaate chalo
+
   8
-  Kya sabakh aamoz hai saaniha baysheer ka
-  Kya khata bache ki thi koi batade zara
-  Asghare masoom ko teer se maara gaya
-  Karke bayan zikre gham sab ko rulaate chalo
-  
+  Kya sabaq aamoz hai saaniha be shir ka
+  Kya khata bachche ki thi koi bata de zara
+  Asghar-e-maasum ko tir se maara gaya
+  Kar ke bayaaṅ zikr-e-gham sab ko rulaate chalo
+
   9
-  Dekh ke akbar ko ye kehte thay ibne ali
-  Ye mera farzand hai hoo bahoo shakle nabi
-  Aise jawan bete ke seene mein barchi lagi
-  Karke bayan zikre gham sab ko rulaate chalo
-  
+  Dekh ke Akbar ko ye kehte the Ibn-e-Ali
+  Ye mera farzand hai hubahu shakl-e-Nabi
+  Aise jawaaṅ bete ke sine mein barchhi lagi
+  Kar ke bayaaṅ zikr-e-gham sab ko rulaate chalo
+
   10
-  Sirf bahattar thay wo laakh thi fauje sitam
-  Aise bahattar thay wo rakh liye khud ka bharam
-  Mit nahi sakta kaleem aise bahattar ka gham
-  Karke bayan zikre gham sab ko rulaate chalo
+  Sirf bahattar the wo laakh thi fauj-e-sitam
+  Aise bahattar the wo rakh liye khud ka bharam
+  Mit nahiṅ sakta Kaleem aise bahattar ka gham
+  Kar ke bayaaṅ zikr-e-gham sab ko rulaate chalo
 # source_id: nohayonline:90bf2328a9069a383438
 # source_url: https://www.nohayonline.com/details_content.php?id=791
 # raw_sha256: ada8d349c40c88ae17f5baa5e6f6cbfd8af132c655d16309865b1c54e30f0d72
@@ -81,43 +82,43 @@ romanLyrics: |-
 ۱
 اس غمِ شبیر کو کیسے بھُلائیں گے ہم
 حشر تک اہلِ جہاں اس کو سُنائیں گے ہم
-داغ جو ماتم کے ہیں سب کو دیکھائیں گے ہم
+داغ جو ماتم کے ہیں سب کو دکھائیں گے ہم
 کر کے بیاں ذکرِ غم سب کو رُلاتے چلو
 
 ۲
-اشکِ اعزا ئے حسین حشر میں کام آئیں گے
+اشکِ عزائے حسین حشر میں کام آئیں گے
 سامنے زہرا کے ہم روتے ہوئے جائیں گے
 شافعِ محشر سے ہم اس کا اجر پائیں گے
 کر کے بیاں ذکرِ غم سب کو رُلاتے چلو
 
 ۳
-اہلِ اعزا آپ کو دیتی ہے زہرا دُعا
-ان کوتُوں آباد رکھ پالنے والے خدا
-یہ میرے فرزند پر روتے رہیں گے صدا
+اہلِ عزا آپ کو دیتی ہے زہرا دُعا
+ان کو تو آباد رکھ پالنے والے خدا
+یہ میرے فرزند پر روتے رہیں گے سدا
 کر کے بیاں ذکرِ غم سب کو رُلاتے چلو
 
 ۴
-کتنا آلمناک ہے معرکئہ کر بلا
+کتنا المناک ہے معرکۂ کربلا
 اس کا ہر اک باب ہے خون میں ڈُوبا ہوا
 کہتے تھے خود جبرائیل ظلم تھا حد سے سِوا
 کر کے بیاں ذکرِ غم سب کو رُلاتے چلو
 
 ۵
-ارض و سما روئے ہیں کُل انبیائ
+ارض و سما روئے ہیں روئے ہیں کُل انبیا
 روتے ہوئے آئے ہیں کربلا میں مصطفیٰ
-اس لیے اہلِ اعزا کرتے ہیں آہ و بُکا
+اس لیے اہلِ عزا کرتے ہیں آہ و بُکا
 کر کے بیاں ذکرِ غم سب کو رُلاتے چلو
 
 ۶
 فاطمہ کے لال پر یوں رِشِ تیغ و تبر
 آج تک حیران ہیں قوتِ فکرِ بشر
-ہم اُسی مظلوم پرروتے ہیں شام و سحر
+ہم اُسی مظلوم پر روتے ہیں شام و سحر
 کر کے بیاں ذکرِ غم سب کو رُلاتے چلو
 
 ۷
 ثانیئے زہرا کا لال حق پہ فدا ہو گئے
 قاسمِ نوشاہ بھی ماں سے جُدا ہو گئے
-قتل علمدار بھی اہلِ اعزا ہو گئے
+قتل علمدار بھی اہلِ عزا ہو گئے
 کر کے بیاں ذکرِ غم سب کو رُلاتے چلو
 
 ۸

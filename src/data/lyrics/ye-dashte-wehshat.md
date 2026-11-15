@@ -1,65 +1,66 @@
 ---
 title: "یہ دشتِ وحشت یہ شامِ غربت"
-alternateTitle: "Ye Dashte Wehshat"
+alternateTitle: "Ye Dasht-e-Wehshat"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Mirza Sikander Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ye dashte wehshat ye shame ghurbat
+  Ye dasht-e-wehshat ye shaam-e-ghurbat
   Ye kaun darya se aa raha hai
-  Hai ali ki beti hai taygh bar kar
-  Jalaal chehre pe cha raha hai
+  Hai Ali ki beti hai tegh bar kar
+  Jalaal chehre pe chhaa raha hai
 
   1
-  Jale pade ek taraf hai qaime
-  Hai ek taraf bekason ki zaari
-  Hai godiyon may bilakte bache
-  Samaa wo unko dara raha hai
+  Jale pare ek taraf hai khaime
+  Hai ek taraf bekasoṅ ki zaari
+  Hai godiyoṅ mein bilakte bachche
+  Samaaṅ wo un ko dara raha hai
 
   2
-  Bahot se sadme utha chuke hai
-  Nayeef aur zaar ho gaye hai
-  Hai saamne waarison ke laashe
-  Ye gham bahot un ko kha raha hai
+  Bahut se sadme utha chuke haiṅ
+  Naeef aur zaar ho gaye haiṅ
+  Haiṅ saamne waarisoṅ ke laashe
+  Ye gham bahut un ko khaa raha hai
 
   3
-  Us aane waale pe sab hai hairaan
+  Us aane wale pe sab haiṅ hairaaṅ
   Ke uske aane ka kya hai maqsad
-  Ye aur kya loot lega aa kar
-  Yahan bhala kya dhara raha hai
+  Ye aur kya lut lega aa kar
+  Yahaaṅ bhala kya dhara raha hai
 
   4
-  Idhar ye sab baithe sochte hai
-  Udhar wo badta hai badne waala
-  Sawaar aspe safayd pe hai
-  Niqaab se rukh chupa raha hai
+  Idhar ye sab baithe sochte haiṅ
+  Udhar wo barhta hai barhne wala
+  Sawaar asp-e-safed pe hai
+  Niqaab se rukh chhupa raha hai
 
   5
-  Ali ki beti ye poochti hai
+  Ali ki beti ye puchhti hai
   Us aane wale ki hai gharaz kya
-  Magar wo khamosh ho ke
-  Rehwaar apna aage bada raha hai
+  Magar wo khaamosh ho ke
+  Rahwaar apna aage barha raha hai
 
   6
-  Ghazab ke aalam may keh rahi hai
-  Ke badne wale zara sambhal ja
-  Mai binte khilla shikan hoo sunle
+  Ghazab ke aalam mein keh rahi hai
+  Ke barhne wale zara sambhal ja
+  Main bint-e-khilla shikan huṅ tu sun le
   Mujhe bhala tu dara raha hai
 
   7
-  Wo aane waala niqaab ulat kar
-  Ye keh raha hai ke dekh zainab
+  Wo aane wala niqaab ulat kar
+  Ye keh raha hai ke dekh Zainab
   Ye baap tera hai meri beti
   Teri hifazat ko aa raha hai
 
   8
-  Ye sunke zainab tadap gayi hai
-  Ye keh rahi hai ke haye baba
-  Hussain dunya se jaa chuke hai
+  Ye sun ke Zainab tarap gayi hai
+  Ye keh rahi hai ke haaye Baba
+  Husain dunya se jaa chuke haiṅ
   Hamare nazdeek kya raha hai
 # source_id: nohayonline:d30a55182f8e3cd4f0e3
 # source_url: https://www.nohayonline.com/details_content.php?id=587
@@ -84,9 +85,9 @@ romanLyrics: |-
 
 ۳
 اُس آنے والے پہ سب ہیں حیراں
-کے اُس کے آنے کا کیا ہے مقصد
+کہ اُس کے آنے کا کیا ہے مقصد
 یہ اور کیا لُوٹ لے گا آکر
-یہاں بھلا کیا دھرا رہاہے
+یہاں بھلا کیا دھرا رہا ہے
 
 ۴
 ادھر یہ سب بیٹھے سوچتے ہیں
@@ -102,13 +103,13 @@ romanLyrics: |-
 
 ۶
 غضب کے عالم میں کہہ رہی ہے
-کے بڑھنے والے ذرا سنبھل جا
+کہ بڑھنے والے ذرا سنبھل جا
 میں بنتِ خلاشکن ہوں تُو سُن لے
 مجھے بھلا تُو ڈرا رہا ہے
 
 ۷
 وہ آنے والا نقاب اُلٹ کر
-یہ کہہ رہا ہے کے دیکھ زینب
+یہ کہہ رہا ہے کہ دیکھ زینب
 یہ باپ تیرا ہے میری بیٹی
 تیری حفاظت کو آ رہا ہے
 
