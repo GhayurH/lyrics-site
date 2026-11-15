@@ -1,75 +1,80 @@
 ---
 title: "یہ چاند تارے یہ پھول کلیاں"
-alternateTitle: "Ye Chand Taare"
+alternateTitle: "Ye Chaand Taare"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
-aliases: []
+aliases: ["Ye Chand Taare"]
 published: false
 romanLyrics: |-
-  Ye chand taare ye phool kaliyan
-  Hussain ka gham mana rahe hai
-  Jahan mein saare hussain wale
+  Ye chaand taare ye phul kaliyaaṅ
+  Husain ka gham mana rahe haiṅ
+  Jahaaṅ mein saare Husain waale
+  Husain ka gham mana rahe haiṅ
 
   1
-  Khaleel e kaaba kahan ho aao
-  Khaleel e karbobala ko dekho
-  Hussain jalti hui zameen se
-  Pisar ki mayyat utha rahe hai
+  Khalil-e-Kaaba kahaaṅ ho aao
+  Khalil-e-Karbobala ko dekho
+  Husain jalti hui zamin se
+  Pisar ki mayyat utha rahe haiṅ
 
   2
-  Hussain ke ye jigar ki taaqat
-  Hai jis se ayyub ko bhi hairat
-  Galay pe khanjar rawan hai lekin
-  Hussain kalma suna rahe hai
+  Husain ke ye jigar ki taaqat
+  Hai jis se Ayyub ko bhi hairat
+  Gale pe khanjar rawaaṅ hai lekin
+  Husain kalma suna rahe haiṅ
 
   3
-  Kahin pe akbar sa gul badan hai
-  Kahin pe qasim gul e hassan hai
-  Jigar ke tukdo se shaahe waala
-  Zameen e maqtal saja rahe hai
+  Kahiṅ pe Akbar sa gulbadan hai
+  Kahiṅ pe Qaasim gul-e-Hasan hai
+  Jigar ke tukroṅ se Shah-e-waala
+  Zamin-e-maqtal saja rahe haiṅ
 
   4
-  Na jaane zainab ne kaise dekha
-  Ajeeb manzar wo karbala ka
-  Hussain gir gir ke uth rahe hai
-  Tadap ke akbar bula rahe hai
+  Na jaane Zainab ne kaise dekha
+  Ajib manzar wo Karbala ka
+  Husain gir gir ke uth rahe haiṅ
+  Tarap ke Akbar bula rahe haiṅ
 
   5
-  Charagh e qaima bujha ke sarwar
-  Bana gaye hai ek aisa lashkar
-  Inhi charaghon ki roshni se
-  Charagh sab jag-maga rahe hai
+  Charaagh-e-khaima bujha ke Sarwar
+  Bana gaye haiṅ ek aisa lashkar
+  Inhiṅ charaaghoṅ ki roshni se
+  Charaagh sab jagmaga rahe haiṅ
 
   6
-  Ye udte badal ye behte darya
-  Suno zara kya bata rahe hai
-  Jahan khuda hai wahan hussaini
+  Ye urte baadal ye behte darya
+  Suno zara kya bata rahe haiṅ
+  Jahaaṅ Khuda hai wahaaṅ Husaini
+  Husain ka gham mana rahe haiṅ
 
   7
-  Padar ke seene pe sone waali
-  Sumon se rehwaar ke hai lipti
-  Sakina shayad samajh gayi hai
-  Ke baba marne ko ja rahe hai
+  Padar ke sine pe sone waali
+  Sumoṅ se rahwaar ke hai lipti
+  Sakina shaayad samajh gayi hai
+  Ke Baba marne ko ja rahe haiṅ
 
   8
-  Jahan jahan bhi hussainiyat hai
-  Rehaan o sarwar ye baat sach hai
-  Hussain waale alam utha kar
+  Jahaaṅ jahaaṅ bhi Husainiyat hai
+  Rehaan o Sarwar ye baat sach hai
+  Husain waale alam utha kar
+  Husain ka gham mana rahe haiṅ
 # source_id: nohayonline:ddaa31928730af1a72d9
 # source_url: https://www.nohayonline.com/details_content.php?id=188
 # raw_sha256: 60a9bc4d495b18e78c61fabc7e7a30e0dccd4011ae2af202f29adfc12cba85bf
 ---
 یہ چاند تارے یہ پھول کلیاں
-حسین کا غم منارہے ہیں
+حسین کا غم منا رہے ہیں
 جہاں میں سارے حسین والے
+حسین کا غم منا رہے ہیں
 
 ۱
-قلیل کعبہ کہاں ہو آؤ
-قلیل کربوبلا کو دیکھو
+خلیل کعبہ کہاں ہو آؤ
+خلیل کربوبلا کو دیکھو
 حسین جلتی ہوئی زمیں پر
 پسر کی میت اٹھا رہے ہیں
 
@@ -93,22 +98,24 @@ romanLyrics: |-
 
 ۵
 چراغ خیمہ بجھا کے سرور
-بنا گےء ہیں ایک ایسا لشکر
-انہیں چراغوں کی روشنی سے
+بنا گئے ہیں ایک ایسا لشکر
+انہی چراغوں کی روشنی سے
 چراغ سب جگمگا رہے ہیں
 
 ۶
 یہ اڑتے بادل یہ بہتے دریا
-سنو زرا کیا بتا رہے ہیں
+سنو ذرا کیا بتا رہے ہیں
 جہاں خدا ہے وہاں حسینی
+حسین کا غم منا رہے ہیں
 
 ۷
 پدر کے سینے پہ سونے والی
 سموں سے رہوار کے ہے لپٹی
-سکینہ شاید سمجھ گیء ہے
+سکینہ شاید سمجھ گئی ہے
 کہ بابا مرنے کو جا رہے ہیں
 
 ۸
 جہاں جہاں بھی حسینیت ہے
 ریحان و سرور یہ بات سچ ہے
-حسین والے الم اٹھا کر
+حسین والے علم اٹھا کر
+حسین کا غم منا رہے ہیں

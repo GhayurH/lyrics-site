@@ -6,40 +6,41 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Raza Ali Khan Lakhnavi"
+reciter: "Ghadeer Fatima"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ye boli zainab e muztar ali akbar ali akbar
-  Phupi hai terI nauhagar ali akbar ali akbar
+  Ye boli Zainab-e-muztar Ali Akbar Ali Akbar
+  Phuphi hai teri nauhagar Ali Akbar Ali Akbar
 
   1
-  Kisi takleef ko beta phupi se kyun chupate ho
-  Yeh hai kyun haath seene par ali akbar ali akbar
+  Kisi taklif ko beta phuphi se kiuṅ chhupaate ho
+  Ye hai kiuṅ haath sine par Ali Akbar Ali Akbar
 
   2
-  Tumhari laash par dil ko haram nauha kuna yun hai
-  Ke jaise ho koi mehshar ali akbar ali akbar
+  Tumhaari laash par dil ko haram nauha kunaṅ yuṅ hai
+  Ke jaise ho koi mahshar Ali Akbar Ali Akbar
 
   3
-  Tamanna thi mere dil mein teri shaadi rachaungi
-  Basaungi mai tera ghar ali akbar ali akbar
+  Tamanna thi mere dil mein teri shaadi rachaauṅgi
+  Basaauṅgi main tera ghar Ali Akbar Ali Akbar
 
   4
-  Tumhari maut se ab to yakeen hone laga mujhko
-  Chinegi ab meri chadar ali akbar ali akbar
+  Tumhaari maut se ab to yaqiṅ hone laga mujhko
+  Chhinegi ab meri chaadar Ali Akbar Ali Akbar
 
   5
-  Madine mein tera ehwaal kya usko bataungi
-  Jo poochegi teri khwahar ali akbar ali akbar
+  Madine mein tera ahwaal kya usko bataauṅgi
+  Jo puchhegi teri khwaahar Ali Akbar Ali Akbar
 
   6
-  Mere maajaye ki tashna labi ka haal keh dena
-  Mile jab saaqi e kausar ali akbar ali akbar
+  Mere maaṅ jaaye ki tashna labi ka haal keh dena
+  Mile jab saaqi-e-Kausar Ali Akbar Ali Akbar
 
   7
-  Raza zainab ke naale aaj bhi aate hai sehra se
-  Ali akbar ali akbar ali akbar ali akbar
+  Raza Zainab ke naale aaj bhi aate hai sehra se
+  Ali Akbar Ali Akbar Ali Akbar Ali Akbar
 # source_id: nohayonline:c9033c35e3c9ab9db01d
 # source_url: https://www.nohayonline.com/details_content.php?id=2016
 # raw_sha256: 6a2a9a569c98c3d7c583d92f8690ea512d2186b7e5b248141e983e4aebe03411
@@ -60,16 +61,16 @@ romanLyrics: |-
 بساؤں گی میں تیرا گھر علی اکبر علی اکبر
 
 ۴
-تمہاری موت سے اب تو یقیں ہونے لگا مجھکو
+تمہاری موت سے اب تو یقیں ہونے لگا مجھ کو
 چھنے گی اب میری چادر علی اکبر علی اکبر
 
 ۵
-مدینے میں تیرا احوال کیا اسکو بتاؤں گی
+مدینے میں تیرا احوال کیا اس کو بتاؤں گی
 جو پوچھے گی تیری خواہر علی اکبر علی اکبر
 
 ۶
-میرے مانجاے کی تشنہ لبی کا حال کہہ دینا
-ملے جب ساقیء کوثر علی اکبر علی اکبر
+میرے ماں جائے کی تشنہ لبی کا حال کہہ دینا
+ملے جب ساقیِ کوثر علی اکبر علی اکبر
 
 ۷
 رضا زینب کے نالے آج بھی آتے ہے سہرا سے
