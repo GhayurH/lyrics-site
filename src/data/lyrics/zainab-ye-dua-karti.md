@@ -5,36 +5,37 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zainab ye dua karti thi har ek dua may
-  Ya rab ho mere laal fida karbobala may
+  Zainab ye dua karti thi har ek dua mein
+  Ya Rab hoṅ mere laal fida Karb o bala mein
 
   1
-  Bach jaye mera bhai mere laal guzar jaye
-  Ujde na chaman fatema ka dashte bala may
+  Bach jaaye mera bhai mere laal guzar jaayeṅ
+  Ujre na chaman Fatima ka dasht-e-bala mein
 
   2
-  Bad bad ke kaleje pe sina khaye to khush hoo
-  Naam inke raqam karde shaheedane wafa may
+  Barh barh ke kaleje pe sinaṅ khaayeṅ to khush huṅ
+  Naam in ke raqam kar de shahidaan-e-wafa mein
 
   3
-  Seeno pe sina khaake giray khaak pe jis dam
-  Khush ho ke karoo sajdaye shukrana ada mai
+  Sinoṅ pe sinaṅ khaa ke gireṅ khaak pe jis dam
+  Khush ho ke karuṅ sajda-e-shukraana ada main
 
   4
-  Maqbool hui zainabe muztar ki duayein
-  Zainab ke pisar maare gaye karbobala may
+  Maqbul huiṅ Zainab-e-muztar ki duaaeṅ
+  Zainab ke pisar maare gaye Karb o bala mein
 
   5
-  Tehro sare zainab se rida cheen'ne walon
-  Tatheer ki lipti hui aayat hai kisa hai
+  Thehro sar-e-Zainab se rida chhinne waaloṅ
+  Tathir ki lipti hui aayat hai kisa hai
 
   6
-  Ta shaam khule sar gayi ahmed ki nawasi
-  Sar apna jhukaye hue khaaliq ki raza may
+  Ta Shaam khule sar gayi Ahmad ki nawaasi
+  Sar apna jhukaaye hue Khaaliq ki raza mein
 # source_id: nohayonline:70d10ea47a3557a85941
 # source_url: https://www.nohayonline.com/details_content.php?id=505
 # raw_sha256: ac41823423ff79b1ae74d375b60e97148bb3ae491793d8eaf20ae6b227db7936
@@ -51,8 +52,8 @@ romanLyrics: |-
 نام ان کے رقم کر دے شہیدانِ وفا میں
 
 ۳
-سینوں پہ سناں کھا کہ گریں خاک پہ جس دم
-خوش ہو کہ کروں سجدئہ شُکرانہ ادا میں
+سینوں پہ سناں کھا کے گریں خاک پہ جس دم
+خوش ہو کے کروں سجدۂ شُکرانہ ادا میں
 
 ۴
 مقبول ہوئیں زینبِ مُضطر کی دُعائیں
