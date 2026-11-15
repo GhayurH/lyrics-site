@@ -15,7 +15,7 @@ romanLyrics: |-
   Ek hai ridaa-e-Zainab Asghar hai dusra
 
   1
-  Do bhaaiyoṅ ke laashe ran mein pare hue
+  Do bhaaiyoṅ ke laashe ran meiṅ pare hue
   Zainab ke laadloṅ ka aakhir hai jurm kya
 
   2
@@ -23,8 +23,8 @@ romanLyrics: |-
   Nok-e-sinaaṅ pe zinda Quraan bolne laga
 
   3
-  Kufe mein beamaaṅ hai Muslim ke donoṅ laal
-  Donoṅ ke kamsini mein aisa sitam hua
+  Kufe meiṅ beamaaṅ hai Muslim ke donoṅ laal
+  Donoṅ ke kamsini meiṅ aisa sitam hua
 
   4
   Beshir ke lainoṅ ne jhule ke saath saath

@@ -32,7 +32,7 @@ romanLyrics: |-
   Us se hai tujhko pyaar ae Abbas-e-Alamdar
 
   3
-  Hai ashk-fishaṅ aaj bhi gham mein tere pani
+  Hai ashk-fishaṅ aaj bhi gham meiṅ tere pani
   Ye mashk Sakina ki alam teri nishani
   Rota hai jahaṅ sun ke tere gham ki kahani
   Ae fauj ke sardar ae Abbas-e-Alamdar
@@ -40,13 +40,13 @@ romanLyrics: |-
   4
   Haider ki duaoṅ ka sila hai mere Abbas
   Zahra ne tujhe beta kaha hai mere Abbas
-  Har daur mein har dil ki sada hai mere Abbas
+  Har daur meiṅ har dil ki sada hai mere Abbas
   Zainab ke madadgar ae Abbas-e-Alamdar
 
   5
   Tum ko na pukareṅ to bhala kis ko pukareṅ
   Hai khushk bhatiji ka gala pyaas ke maare
-  Roti hai Sakina jo kabhi gham mein tumhare
+  Roti hai Sakina jo kabhi gham meiṅ tumhare
   Hanste the sitamgar ae Abbas-e-Alamdar
 
   6

@@ -11,43 +11,43 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Main arz-e-Karbala huṅ mera ishq ya Husain
-  Main aashiq-e-aza huṅ mera ishq ya Husain
+  Maiṅ arz-e-Karbala huṅ mera ishq ya Husain
+  Maiṅ aashiq-e-aza huṅ mera ishq ya Husain
 
   1
   Tum jaao ambiya ke arizoṅ se puchh lo
   Dunya ke laa ilaaj marizoṅ se puchh lo
-  Main markaz-e-shifa huṅ mera ishq ya Husain
+  Maiṅ markaz-e-shifa huṅ mera ishq ya Husain
 
   2
   Mujh par karam Khuda ka zamaane se hai juda
   Mera bharam hai rauza-e-Abbas-e-baawafa
-  Main qibla-e-wafa huṅ mera ishq ya Husain
+  Maiṅ qibla-e-wafa huṅ mera ishq ya Husain
 
   3
-  Patthar taraash kar main banaati huṅ durr use
+  Patthar taraash kar maiṅ banaati huṅ durr use
   Naabin koi jo ho to banaati huṅ Hurr use
   Bakhshish ka aasra huṅ mera ishq ya Husain
 
   4
   Aankhoṅ ke nur aur dil o jaan-e-Sayyeda
-  Madfan hai meri zaat mein armaan-e-Sayyeda
-  Main qabr-e-Fatema mera ishq ya Husain
+  Madfan hai meri zaat meiṅ armaan-e-Sayyeda
+  Maiṅ qabr-e-Fatema mera ishq ya Husain
 
   5
-  Dekhi hai main ne gardan-e-Sarwar kati hui
-  Dekhi hai main ne chaadar-e-Zainab luti hui
-  Main gham mein mubtala huṅ mera ishq ya Husain
+  Dekhi hai maiṅ ne gardan-e-Sarwar kati hui
+  Dekhi hai maiṅ ne chaadar-e-Zainab luti hui
+  Maiṅ gham meiṅ mubtala huṅ mera ishq ya Husain
 
   6
-  Aabid ki bebasi mein basaai gayi huṅ main
-  Sar ki ridaaeṅ de ke bachaai gayi huṅ main
-  Zainab ki main sada huṅ mera ishq ya Husain
+  Aabid ki bebasi meiṅ basaai gayi huṅ maiṅ
+  Sar ki ridaaeṅ de ke bachaai gayi huṅ maiṅ
+  Zainab ki maiṅ sada huṅ mera ishq ya Husain
 
   7
   Wo pasliyoṅ ko thaam kar ab tak hai nauhagar
   Yasir jo keh rahi hai ke pyaasa mera pisar
-  Us maaṅ ki main buka huṅ mera ishq ya Husain
+  Us maaṅ ki maiṅ buka huṅ mera ishq ya Husain
 # source_id: nohayonline:7f8b9f845d566cf66d88
 # source_url: https://www.nohayonline.com/details_content.php?id=1688
 # raw_sha256: ce0782bf99fd946e5a495ffd59a4c3dd1d55310263117e4fca767bd04f5ad3c0

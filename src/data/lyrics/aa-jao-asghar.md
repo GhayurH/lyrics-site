@@ -15,7 +15,7 @@ romanLyrics: |-
   Ae mere Asghar aajao
 
   1
-  Gham mein tumhare marti huṅ
+  Gham meiṅ tumhare marti huṅ
   Har dam aaheṅ bharti huṅ
   Ab to taras khao dilbar
 
@@ -50,12 +50,12 @@ romanLyrics: |-
   Le ke Sakina ke gauhar
 
   8
-  Dil mein balaaeṅ leti hai
+  Dil meiṅ balaaeṅ leti hai
   Tujhko sadaaeṅ deti hai
   Bekas dukhiya ye maadar
 
   9
-  Kaise main jaauṅ Shaam bhala
+  Kaise maiṅ jaauṅ Shaam bhala
   Sar hai khula aati hai haya
   Maaṅ ke liye le kar chaadar
 

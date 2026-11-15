@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Utha kohraam ghar mein Fatema ke
+  Utha kohraam ghar meiṅ Fatema ke
   Chali hai tegh sar par Murtaza ke
 
   1
@@ -20,13 +20,13 @@ romanLyrics: |-
   Mere ghar aa gaye phir din aza ke
 
   2
-  Ali ko ghar mein jab Hasnain laaye
+  Ali ko ghar meiṅ jab Hasnain laaye
   Pukaari Zainab o Kulsum haaye
   Ghashi taari hui ye gham utha ke
 
   3
   Na jaaye chhor ke yuṅ hum ko baaba
-  Abhi to maaṅ ka gham hai dil mein taaza
+  Abhi to maaṅ ka gham hai dil meiṅ taaza
   Ke hai mohtaaj zakhm-e-dil dawa ke
 
   4
@@ -42,7 +42,7 @@ romanLyrics: |-
   6
   Chala jab ghar se maula ka janaza
   Lab-e-Zainab pe tha bas ek nauha
-  Nigaahoṅ mein hai manzar Karbala ke
+  Nigaahoṅ meiṅ hai manzar Karbala ke
 
   7
   Sukuṅ Zainab ko ek pal na aaya
@@ -51,7 +51,7 @@ romanLyrics: |-
 
   8
   Bayaaṅ kya Safdar o Mazhar kareṅge
-  Wo manzar kaise lafzoṅ mein likheṅge
+  Wo manzar kaise lafzoṅ meiṅ likheṅge
   Qalam jab ruk gaya aaṅsu bahaa ke
 # source_id: nohayonline:5c2eeb8c3e93a550ce7c
 # source_url: https://www.nohayonline.com/details_content.php?id=3472

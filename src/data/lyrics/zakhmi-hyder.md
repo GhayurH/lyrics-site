@@ -11,7 +11,7 @@ tags: []
 aliases: ["Zakhmi Hyder"]
 published: true
 romanLyrics: |-
-  Masjid mein huwe zakhmi Haidar
+  Masjid meiṅ huwe zakhmi Haidar
   Zainab pe qayaamat tuti hai
 
   Ye fajr Ali ki beti ko
@@ -38,19 +38,19 @@ romanLyrics: |-
   4
   Ek baar shahaadat baba ki
   Ek baar shahaadat shauhar ki
-  Afsos ke shahr-e-Kufa mein
+  Afsos ke shahr-e-Kufa meiṅ
   Do baar Ruqayya ujri hai
 
   5
   Wo jis ne apne qaatil ko
-  Sharbat se nawaaza Kufe mein
+  Sharbat se nawaaza Kufe meiṅ
   Aulaad usi ki ummat ne
-  Sahra mein pyaasi maari hai
+  Sahra meiṅ pyaasi maari hai
 
   6
   Aahista Ali ne di ye sada
-  Ghabraana nahiṅ main bhi hoṅga
-  Bazaar mein jaana hai tum ko
+  Ghabraana nahiṅ maiṅ bhi hoṅga
+  Bazaar meiṅ jaana hai tum ko
   Zainab ye Khuda ki marzi hai
 
   7

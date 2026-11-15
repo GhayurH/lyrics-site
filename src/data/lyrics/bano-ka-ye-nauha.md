@@ -41,12 +41,12 @@ romanLyrics: |-
 
   6
   Saadaat ke khaimoṅ se uthta hai dhuaaṅ haaye
-  Sajjad ki gardan mein hai tauq-e-giraaṅ haaye
+  Sajjad ki gardan meiṅ hai tauq-e-giraaṅ haaye
   Zainab hai rasan basta aajao Ali Akbar
 
   7
-  Main kab se bulaati huṅ kiuṅ sunte nahiṅ Akbar
-  Ab dasht-e-musibat mein chhinti hai meri chaadar
+  Maiṅ kab se bulaati huṅ kiuṅ sunte nahiṅ Akbar
+  Ab dasht-e-musibat meiṅ chhinti hai meri chaadar
   Hai waqt-e-qayaamat ka aajao Ali Akbar
 
   8

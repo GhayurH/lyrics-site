@@ -15,7 +15,7 @@ romanLyrics: |-
   Goya wo qarib-e-Shaah-e-mazlum bahut haiṅ
 
   1
-  Be hubb-e-Ali zikr namaazoṅ ka na chhero
+  Behubb-e-Ali zikr namaazoṅ ka na chhero
   Aisi to namaazeṅ hameiṅ maalum bahut haiṅ
 
   2

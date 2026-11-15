@@ -22,15 +22,15 @@ romanLyrics: |-
   Husain Ibn-e-Ali kaisi sada di
 
   3
-  Ali Asghar ne ran mein muskaraa kar
-  Yazidi fauj mein halchal machaa di
+  Ali Asghar ne ran meiṅ muskaraa kar
+  Yazidi fauj meiṅ halchal machaa di
 
   4
   Kahaa Baano ne Asghar ki lahad par
   Hameiṅ kis jurm ki beta saza di
 
   5
-  Khuda ke naam par Sarwar ne ran mein
+  Khuda ke naam par Sarwar ne ran meiṅ
   Kamaai zindagi bhar ki luta di
 # source_id: nohayonline:b484114c469b3e49b4be
 # source_url: https://www.nohayonline.com/details_content.php?id=541

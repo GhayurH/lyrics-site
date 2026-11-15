@@ -27,8 +27,8 @@ romanLyrics: |-
   Ali ka sher pyaasa aa raha hai
 
   4
-  Wo moti ban raha hai shah ke gham mein
-  In aankhoṅ mein jo aansu aa raha hai
+  Wo moti ban raha hai shah ke gham meiṅ
+  In aankhoṅ meiṅ jo aansu aa raha hai
 
   5
   Ishaare madh-e-Maula ke hai Salik

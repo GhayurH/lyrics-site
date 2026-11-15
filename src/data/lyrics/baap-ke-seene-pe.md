@@ -23,16 +23,16 @@ romanLyrics: |-
   Pyaase bachchoṅ ka wo rona ab kahaaṅ
 
   3
-  Chaand si dulhan ko ghar mein dekhti
+  Chaand si dulhan ko ghar meiṅ dekhti
   Maaṅ ka ye sapna tha logoṅ ab kahaaṅ
 
   4
   Shaah ki lakht-e-jigar bewa hui
-  Qismat-e-Kubra mein rona ab kahaaṅ
+  Qismat-e-Kubra meiṅ rona ab kahaaṅ
 
   5
   Daur tha tera Ali se khush bayaaṅ
-  Gham ko ashkoṅ mein tha mouna ab kahaaṅ
+  Gham ko ashkoṅ meiṅ tha mouna ab kahaaṅ
 
   6
   Ashra-e-maah-e-Muharram jaa chuka
@@ -40,7 +40,7 @@ romanLyrics: |-
 
   7
   Keh liya kehne ko nauha ae Jamal
-  Khun mein khaama dubona ab kahaaṅ
+  Khun meiṅ khaama dubona ab kahaaṅ
 # source_id: nohayonline:05c79b9f6150374bd822
 # source_url: https://www.nohayonline.com/details_content.php?id=837
 # raw_sha256: 717271919a5fe6f76158170d71d668e63ec73bc9777da0be66faa876415a7af7

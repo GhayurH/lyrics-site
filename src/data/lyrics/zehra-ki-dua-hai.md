@@ -20,7 +20,7 @@ romanLyrics: |-
 
   1
   Nanhe Ali Asghar ka lahu ab bhi ravaaṅ hai
-  Ab tak Ali Akbar ke kaleje mein sinaaṅ hai
+  Ab tak Ali Akbar ke kaleje meiṅ sinaaṅ hai
   Mehdi mera aa jaaye to sine se laga le
   Zehra ki dua hai
 
@@ -37,8 +37,8 @@ romanLyrics: |-
   Zehra ki dua hai
 
   4
-  Pyaasa mere Shabbir hai ghaibat mein hai beta
-  Wo khatm ho ab jaisi musibat mein hai beta
+  Pyaasa mere Shabbir hai ghaibat meiṅ hai beta
+  Wo khatm ho ab jaisi musibat meiṅ hai beta
   Har ek azadaar agar dil se bulaale
   Zehra ki dua hai
 

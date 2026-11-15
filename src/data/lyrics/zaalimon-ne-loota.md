@@ -14,7 +14,7 @@ romanLyrics: |-
 
   1
   Haaye kya fiza chhaai gulshan-e-Muhammad par
-  Karbala ke maidaan mein kheṅch ke aa gaya lashkar
+  Karbala ke maidaan meiṅ kheṅch ke aa gaya lashkar
   Kufiyoṅ ne dhoke se Shaah-e-diṅ ko bulwa kar
   Zulm se gala kaata haaye Ibn-e-Haidar ka
 
@@ -31,7 +31,7 @@ romanLyrics: |-
   Khuṅ piya hai naawak ne bezabaaṅ Asghar ka
 
   4
-  Jab ke aakhri dam tak makr ke dilason par
+  Jab ke aakhri dam tak makr ke dilasoṅ par
   Ya Nabi khabar lije aap ke nawaasoṅ par
   Aab-e-tegh barsaaya tin din ke pyaasoṅ par
   Sar charhaya naize par din-e-haq ke Sarwar ka

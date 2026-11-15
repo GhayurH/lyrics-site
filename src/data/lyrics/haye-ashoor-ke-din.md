@@ -18,7 +18,7 @@ romanLyrics: |-
   Sar kiye tan se juda haye Aashur ke din
 
   2
-  Dulha Qasim bin-e-Farwa o Hasan ka ran mein
+  Dulha Qasim bin-e-Farwa o Hasan ka ran meiṅ
   Laasha paamaal hua haye Aashur ke din
 
   3
@@ -30,7 +30,7 @@ romanLyrics: |-
   Qatl darya pe hua haye Aashur ke din
 
   5
-  Baap ki god mein chhe maah ke Asghar ka ghazab
+  Baap ki god meiṅ chhe maah ke Asghar ka ghazab
   Tir se halq chhida haye Aashur ke din
 
   6
@@ -50,7 +50,7 @@ romanLyrics: |-
   Us ka daaman bhi jala haye Aashur ke din
 
   10
-  Gham se phat jaaeṅ ge sine jo likha tu ne Anees
+  Gham se phat jaaeṅ ge sine jo likha tu ne Anis
   Nauha-e-Aal-e-Aba haye Aashur ke din
 reciter: "Tanzeem-ul-Husaini (Nasir Zaidi), Sajid Jafri"
 # source_id: nohayonline:90b93f357430caa5fe42

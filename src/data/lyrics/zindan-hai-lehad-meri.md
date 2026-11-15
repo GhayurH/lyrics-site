@@ -15,7 +15,7 @@ romanLyrics: |-
   Karna yahi janaaza Sajjad dafan mera
 
   1
-  Main baap ke sine pe bare chain se soti thi
+  Maiṅ baap ke sine pe bare chain se soti thi
   Ab khaak ke bistar pe dukhta hai badan mera
 
   2
@@ -32,10 +32,10 @@ romanLyrics: |-
 
   5
   Baaba na chacha Akbar Qasim na Ali Asghar
-  Ek din mein ujaara hai ummat ne chaman mera
+  Ek din meiṅ ujaara hai ummat ne chaman mera
 
   6
-  Jawad ye kehta hai sadqe mein Sakina ke
+  Jawad ye kehta hai sadqe meiṅ Sakina ke
   Saadaat ke gham se hai waabasta sukhan mera
 # source_id: nohayonline:4b1b958fbdebd260c99c
 # source_url: https://www.nohayonline.com/details_content.php?id=683

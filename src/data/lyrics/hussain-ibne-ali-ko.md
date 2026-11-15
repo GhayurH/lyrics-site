@@ -32,7 +32,7 @@ romanLyrics: |-
   4
   Bari khushi se jo Akbar ko de diya wo Husain
   Jo apne haathoṅ pe Asghar ko de diya wo Husain
-  Namaaz-e-asr mein jo sar ko de diya wo Husain
+  Namaaz-e-asr meiṅ jo sar ko de diya wo Husain
 
   5
   Sar-e-ghurur-e-hukumat jhuka diya is ne
@@ -50,13 +50,13 @@ romanLyrics: |-
   Charhaao phul aqidat khilo kali ki tarah
 
   8
-  Jo gharq ho ke lahu mein ubhar gaya wo Husain
+  Jo gharq ho ke lahu meiṅ ubhar gaya wo Husain
   Jo sabr o shukr se dil fath kar gaya wo Husain
-  Jo dard ban ke jigar mein utar gaya wo Husain
+  Jo dard ban ke jigar meiṅ utar gaya wo Husain
 
   9
   Jo aaj aal ko chhore wo kal kare na gile
-  Ke daar-e-faani ke milte haiṅ aaqibat mein sile
+  Ke daar-e-faani ke milte haiṅ aaqibat meiṅ sile
   Khushaa nasib jo Mirza ko Ahl-e-Bait mile
 # source_id: nohayonline:b1428cc6fa46abea8ff9
 # source_url: https://www.nohayonline.com/details_content.php?id=140

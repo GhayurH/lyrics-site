@@ -1,6 +1,6 @@
 ---
 title: "بے ردا بے آسرا اک کارواں روتا رہا"
-alternateTitle: "Ek Karwan Rota Raha"
+alternateTitle: "Ek Karwaṅ Rota Raha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -19,11 +19,11 @@ romanLyrics: |-
   Der tak ek sar sar-e-nok-e-sinaaṅ rota raha
 
   2
-  Ek pahar mein lut gaya pardes mein Zehra ka ghar
+  Ek pahar meiṅ lut gaya pardes meiṅ Zehra ka ghar
   Ye suna jis ne jahaaṅ bas wo wahaaṅ rota raha
 
   3
-  Muskura kar jaane kya ran mein kaha beshir ne
+  Muskura kar jaane kya ran meiṅ kaha beshir ne
   Hurmala thaame hue tir o kamaaṅ rota raha
 
   4
@@ -32,7 +32,7 @@ romanLyrics: |-
 
   5
   Khaali kuze tishna lab bachchoṅ ko takte dekh kar
-  Dasht mein mashk o alam ka paasbaaṅ rota raha
+  Dasht meiṅ mashk o alam ka paasbaaṅ rota raha
 
   6
   Subh-e-Ashura se le kar asr-e-Ashura talak
@@ -40,14 +40,14 @@ romanLyrics: |-
 
   7
   Kashti-e-din-e-Khuda ka naakhuda dil thaam kar
-  Dekh kar Akbar ke sine mein sinaaṅ rota raha
+  Dekh kar Akbar ke sine meiṅ sinaaṅ rota raha
 
   8
   Sar burida bekafan tiroṅ se chhalni laash par
   Abid-e-bimaar muztar naatawaaṅ rota raha
 
   9
-  Majlis-e-Shabbir mein nauha sunaata hai Ahsan
+  Majlis-e-Shabbir meiṅ nauha sunaata hai Ahsan
   Irtaza sun kar ye gham ki daastaaṅ rota raha
 # source_id: nohayonline:2c5230bd05b57f48d7d5
 # source_url: https://www.nohayonline.com/details_content.php?id=1470

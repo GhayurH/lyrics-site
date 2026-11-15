@@ -15,12 +15,12 @@ romanLyrics: |-
   Ghamgin har ek chaahne waala hai Naqi ka
 
   1
-  Pardes mein maut aayi hai Zehra ke pisar ko
+  Pardes meiṅ maut aayi hai Zehra ke pisar ko
   Shabbir ka gham sog manaata hai Naqi ka
 
   2
   Abbas alamdaar madad karne ko aao
-  Dam aalam-e-ghurbat mein nikalta hai Naqi ka
+  Dam aalam-e-ghurbat meiṅ nikalta hai Naqi ka
 
   3
   Nila hai badan zehr-e-halaahal se sad afsos
@@ -28,14 +28,14 @@ romanLyrics: |-
 
   4
   Yuṅ Saamra aa jaaye na Yasrab se Payambar
-  Ghurbat mein musibat mein saraapa hai Naqi ka
+  Ghurbat meiṅ musibat meiṅ saraapa hai Naqi ka
 
   5
   Saare hi Imam aah tarapte haiṅ basad gham
   Tanhaai ka aalam hai janaaza hai Naqi ka
 
   6
-  Marqad mein nahiṅ chain Taqi ko koi lamha
+  Marqad meiṅ nahiṅ chain Taqi ko koi lamha
   Chain aaye bhi Kiuṅ haal hi aisa hai Naqi ka
 
   7
@@ -43,7 +43,7 @@ romanLyrics: |-
   Zehra se koi puchhe to gham kya hai Naqi ka
 
   8
-  Is tarah Azeem aap ne likhi hai ye rudaad
+  Is tarah Azim aap ne likhi hai ye rudaad
   Alfaaz bhi kehte haiṅ ye nauha hai Naqi ka
 # source_id: nohayonline:8b0136d67b88dba3b2ca
 # source_url: https://www.nohayonline.com/details_content.php?id=1345

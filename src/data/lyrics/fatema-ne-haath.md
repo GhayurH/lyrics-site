@@ -15,19 +15,19 @@ romanLyrics: |-
   Pasliyaaṅ tuti hai aur khuṅ ris raha hai aaj bhi
 
   1
-  Qabr mein nauha kunaaṅ hai Fatema ki maamta
+  Qabr meiṅ nauha kunaaṅ hai Fatema ki maamta
   Haae Mohsin haae Mohsin ki sada hai aaj bhi
 
   2
-  Maaṅ ke haathoṅ mein hai kurta Hazrat-e-Shabbir ka
-  Qabr-e-Zehra mein musalsal Karbala hai aaj bhi
+  Maaṅ ke haathoṅ meiṅ hai kurta Hazrat-e-Shabbir ka
+  Qabr-e-Zehra meiṅ musalsal Karbala hai aaj bhi
 
   3
   Ek din tohmat lagi thi Sayyeda jhuti ho tum
   Fatema Zehra ko sadma ye bara hai aaj bhi
 
   4
-  Ruh-e-Zehra Karbala aur Shaam mein kehti hai ye
+  Ruh-e-Zehra Karbala aur Shaam meiṅ kehti hai ye
   Bekafan beta hai beti berida hai aaj bhi
 
   5
@@ -43,7 +43,7 @@ romanLyrics: |-
   Qabr-e-Zehra par sitam ka silsila hai aaj bhi
 
   8
-  Qabr mein Yasir Muhammad Mustafa ki hai buka
+  Qabr meiṅ Yasir Muhammad Mustafa ki hai buka
   Ye mera gham hai ke Zehra ghamzada hai aaj bhi
 # source_id: nohayonline:62bd0e2555d0731c461a
 # source_url: https://www.nohayonline.com/details_content.php?id=3123

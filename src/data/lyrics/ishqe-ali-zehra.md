@@ -36,8 +36,8 @@ romanLyrics: |-
   Gesuṅ tere wal-lail ki aayat
   Badr tamaami qad aur qaamat
   Aankhoṅ ki hai wan-nur alaamat
-  Qalb-e-Quraan ke nur mein baaham hai Husain
-  Is mein ek lafz hai us ka mujassam hai Husain
+  Qalb-e-Quraan ke nur meiṅ baaham hai Husain
+  Is meiṅ ek lafz hai us ka mujassam hai Husain
 
   4
   Hur se dilaawar kya the kya hai
@@ -61,7 +61,7 @@ romanLyrics: |-
   Baaqi rahe na bete bhai
   Roti rahi tujh par tanhaai
   Ran ko jo bhi gaya tujh pe fida hota raha
-  Ro rahi hai aaj bhi gham mein tumhaare Karbala
+  Ro rahi hai aaj bhi gham meiṅ tumhaare Karbala
 
   7
   Fakhr hameṅ Salman o Raza hai

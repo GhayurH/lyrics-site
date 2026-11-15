@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Ghazi alamdar teri qasam
-  Jhukne nahiṅ denge tera alam
+  Jhukne nahiṅ deṅge tera alam
 
   1
   Teri amaanat samajh kar ise
@@ -24,15 +24,15 @@ romanLyrics: |-
 
   3
   Sukhe hue hont bachchoṅ ke the
-  Is gham mein aankheṅ rahi teri nam
+  Is gham meiṅ aankheṅ rahi teri nam
 
   4
-  Teri wafa tere paikar mein thi
+  Teri wafa tere paikar meiṅ thi
   Paaya tha Haidar ka jaah o hasham
 
   5
   Likhi kitaab-e-wafa is tarah
-  Ran mein hue tere baazu qalam
+  Ran meiṅ hue tere baazu qalam
 
   6
   Mashk-e-Sakina se paani baha

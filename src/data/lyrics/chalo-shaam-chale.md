@@ -31,17 +31,17 @@ romanLyrics: |-
   Chalo Shaam chaleṅ
 
   3
-  Faisla hai apne haq mein kaatib-e-taqdir ka
+  Faisla hai apne haq meiṅ kaatib-e-taqdir ka
   Bibi ke rauze pe chehlum hum kareṅ Shabbir ka
   Chalo Shaam chaleṅ
 
   4
-  Jin ko wo Bibi na royi gardish-e-aalaam mein
-  Maatam-e-Aun o Muhammad barpa karne Shaam mein
+  Jin ko wo Bibi na royi gardish-e-aalaam meiṅ
+  Maatam-e-Aun o Muhammad barpa karne Shaam meiṅ
   Chalo Shaam chaleṅ
 
   5
-  Tis ghantoṅ mein jahaaṅ se guzri Aal-e-Mustafa
+  Tis ghantoṅ meiṅ jahaaṅ se guzri Aal-e-Mustafa
   Pursa dena dekh kar manzar usi baazaar ka
   Chalo Shaam chaleṅ
 
@@ -62,7 +62,7 @@ romanLyrics: |-
 
   9
   Jaane kab mera bulaawa hoga Mazhar Abidi
-  Jab mere kaanoṅ mein gunjegi sada Farhan ki
+  Jab mere kaanoṅ meiṅ gunjegi sada Farhan ki
   Chalo Shaam chaleṅ
 # source_id: nohayonline:794ab6e87b3f10c1ce98
 # source_url: https://www.nohayonline.com/details_content.php?id=2659

@@ -19,21 +19,21 @@ romanLyrics: |-
   Zainab-e-khasta kuja Shaam ka darbaar kuja
 
   2
-  Mominoṅ tum ko sunaata huṅ main ek aisa bayaaṅ
+  Mominoṅ tum ko sunaata huṅ maiṅ ek aisa bayaaṅ
   Jis ke sunne se bigar jaate haiṅ sab ke ausaaṅ
   Jalte khaimoṅ se utha haaye jigar soz dhuaaṅ
   Khutba-e-sabr kuja Kufe ka baazaar kuja
 
   3
   Qaasim-e-khasta jigar aah Hasan ke mehru
-  Tere sehre ki na dekhi kisi aalam mein numu
-  Chaand se chehre pe dube hue khuṅ mein gesu
+  Tere sehre ki na dekhi kisi aalam meiṅ numu
+  Chaand se chehre pe dube hue khuṅ meiṅ gesu
   Jism-e-maasum kuja ghoroṅ ki yalghaar kuja
 
   4
   Dekho tasvir Payambar ki hui khaak basar
   Dil-e-Shabbir hai sad chaak pareshaaṅ hai nazar
-  Is zaifi mein jawaaṅ bete ne tori hai kamar
+  Is zaifi meiṅ jawaaṅ bete ne tori hai kamar
   Ghaao barchhi ka kuja sina-e-sarkaar kuja
 
   5
@@ -56,7 +56,7 @@ romanLyrics: |-
 
   8
   Fatima Zehra ka aaya jo mazaar-e-aqdas
-  Boli Zainab ye bhatije se hui main bekas
+  Boli Zainab ye bhatije se hui maiṅ bekas
   Chhor do mujh ko akela ke kahuṅgi jazbaat
   Maaṅ ki aaghosh kuja dukhtar-e-laachaar kuja
 

@@ -17,7 +17,7 @@ romanLyrics: |-
 
   1
   Gardan par shamshir-e-sitamgar
-  Khun mein duba asr ka manzar
+  Khun meiṅ duba asr ka manzar
   Harf-e-tashakkur khushk laboṅ par
   Tegh tale bhi sajda-e-Yazdaaṅ
 
@@ -25,7 +25,7 @@ romanLyrics: |-
   Koi barchhi ka phal kha kar
   Koi gale par tir saja kar
   Koi soye haath kata kar
-  Dasht-e-bala mein maut hai raqsaaṅ
+  Dasht-e-bala meiṅ maut hai raqsaaṅ
 
   3
   Phul se rukhsaaroṅ pe tamaanche

@@ -13,14 +13,14 @@ published: true
 romanLyrics: |-
   Ye nauha Sakina ka hai
 
-  Main sine pe Baba ke souṅ kahaaṅ
+  Maiṅ sine pe Baba ke souṅ kahaaṅ
   Tir hi tir hai
   Haaye tir hi tir hai
 
   1
   Kund khanjar se sukha gala kat gaya
   Mera Baba magar phir bhi pyaasa raha
-  Aa gayi raat main ne na paani piya
+  Aa gayi raat maiṅ ne na paani piya
   Itne sine pe hai zakhm nok-e-sinaaṅ
   Tir hi tir hai
 
@@ -32,10 +32,10 @@ romanLyrics: |-
   Tir hi tir hai
 
   3
-  Dekh kar tir hi tir roti huṅ main
-  Bolte kiuṅ nahiṅ jaaṅ khoti huṅ main
-  Aap ke sirf sine pe soti huṅ main
-  Nind aati hai lekin main souṅ kahaaṅ
+  Dekh kar tir hi tir roti huṅ maiṅ
+  Bolte kiuṅ nahiṅ jaaṅ khoti huṅ maiṅ
+  Aap ke sirf sine pe soti huṅ maiṅ
+  Nind aati hai lekin maiṅ souṅ kahaaṅ
   Tir hi tir hai
 
   4
@@ -48,12 +48,12 @@ romanLyrics: |-
   5
   Bhaiya Sajjad par ab hai mushkil bari
   Aap ke baad kya kya musibat pari
-  Dekhiye aap ke paas main huṅ khari
+  Dekhiye aap ke paas maiṅ huṅ khari
   Ye tamaanchoṅ ke rukhsaar par hai nishaaṅ
   Tir hi tir hai
 
   6
-  Main to samjhi thi yaaṅ hoga Asghar mera
+  Maiṅ to samjhi thi yaaṅ hoga Asghar mera
   Tir se chhid gaya jis ka nanha gala
   Aa ke sine pe wo aap ke so gaya
   Baba batlaayeṅ hai mera Asghar kahaaṅ

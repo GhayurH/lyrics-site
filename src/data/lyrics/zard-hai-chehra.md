@@ -15,7 +15,7 @@ romanLyrics: |-
 
   1
   Kehti thi Zainab duhaai ya Ali
-  Sar barehna main sar-e-baazaar huṅ
+  Sar barehna maiṅ sar-e-baazaar huṅ
 
   2
   Kehte the Aabid uthe kiunkar qadam
@@ -26,7 +26,7 @@ romanLyrics: |-
   Paaoṅ barh sakte nahiṅ naachaar huṅ
 
   4
-  Main piyaada tum ho ghoroṅ par sawaar
+  Maiṅ piyaada tum ho ghoroṅ par sawaar
   Kis tarah dauruṅ bahut bimaar huṅ
 # source_id: nohayonline:65e289c86c52f939e733
 # source_url: https://www.nohayonline.com/details_content.php?id=1255

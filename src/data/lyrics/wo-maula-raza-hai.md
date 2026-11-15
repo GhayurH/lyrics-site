@@ -15,14 +15,14 @@ romanLyrics: |-
   Jannat ki sanad jis ki ziyaarat ka sila hai
 
   1
-  Woh aalam-e-imkaaṅ mein naazir ki nazar hai
+  Woh aalam-e-imkaaṅ meiṅ naazir ki nazar hai
   Us ko mere amal ki niyat ki khabar hai
   Hone se bhi pehle jise hone ka pata hai
 
   2
   Dil Musa-e-Kaazim se yeh kehta hai adab se
-  Hai pyaar mujhe aap ki aulaad mein sab se
-  Lekin teri aulaad mein jo Maula Raza hai
+  Hai pyaar mujhe aap ki aulaad meiṅ sab se
+  Lekin teri aulaad meiṅ jo Maula Raza hai
 
   3
   Shabbar bhi hai Shabbir bhi Sajjad bhi paiham
@@ -30,8 +30,8 @@ romanLyrics: |-
   Jo saatvaaṅ Zahra ko pisar Haq se mila hai
 
   4
-  Laaya woh wilaayat ki fiza Tus mein hamraah
-  Jab gunja fizaaoṅ mein Ali un Wali Allah
+  Laaya woh wilaayat ki fiza Tus meiṅ hamraah
+  Jab gunja fizaaoṅ meiṅ Ali un Wali Allah
   In ajami zabaanoṅ ko Ali jis ki ata hai
 
   5
@@ -40,8 +40,8 @@ romanLyrics: |-
   Jo ab bhi Mughis-e-saf-e-arbaab-e-aza hai
 
   6
-  Kaunain mein sab neamateṅ karta hai yeh taqsim
-  Aur lauh ke likhe mein bhi kar sakta hai tarmim
+  Kaunain meiṅ sab neamateṅ karta hai yeh taqsim
+  Aur lauh ke likhe meiṅ bhi kar sakta hai tarmim
   Jo kaar-e-Khuda karte hue abd-e-Khuda hai
 
   7
@@ -51,7 +51,7 @@ romanLyrics: |-
 
   8
   Bibi ne kaha maang le tohfa koi hum se
-  Main ne kaha Bibi mujhe Khaaliq se mila de
+  Maiṅ ne kaha Bibi mujhe Khaaliq se mila de
   Jo tohfa mujhe Qum ki Karima ne diya hai
 
   9
@@ -61,7 +61,7 @@ romanLyrics: |-
 
   10
   Kya Mir Hasan hai teri auqaat o haqiqat
-  De kar teri nasloṅ mein yeh midhat yeh tilaawat
+  De kar teri nasloṅ meiṅ yeh midhat yeh tilaawat
   Woh jis ne tujhe laaiq-e-taazim kiya hai
 # source_id: tajpoints:474b129685a77067ed4d
 # source_url: https://tajpoints.com/2022/06/wo-mola-raza-hai-mir-hasan-mir-lyrics.html

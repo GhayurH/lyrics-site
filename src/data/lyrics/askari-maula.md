@@ -27,7 +27,7 @@ romanLyrics: |-
   2
   Kaisa asiri ka sitam tum pe hua hai
   Tere liye ghar tera zindaan bana hai
-  Maula tera ghar mein hua dafn janaza
+  Maula tera ghar meiṅ hua dafn janaza
   Haye ghurbata Askari maula
 
   3
@@ -39,7 +39,7 @@ romanLyrics: |-
   4
   Saare azadaaroṅ ke lab par ye dua hai
   Waasta tujhko tere bete ka diya hai
-  Dil mein basa rauza tera Mehdi ke baba
+  Dil meiṅ basa rauza tera Mehdi ke baba
   Hum ko bulaana Askari maula
 
   5
@@ -47,24 +47,24 @@ romanLyrics: |-
   Dene ko pursa tumheiṅ aaye haiṅ azadaar
   Pursa qubul ho ae mere Syed o sardar
   Hum log teri nazr-e-karam ke haiṅ talabgaar
-  Gham ye tera dil mein sada zinda rahega
+  Gham ye tera dil meiṅ sada zinda rahega
   Roti hai dunya Askari maula
 
   6
   Jab bhi tere naam ki hoti hai ye majlis
-  Saath mein Zahra ke chali aati hai Narjis
+  Saath meiṅ Zahra ke chali aati hai Narjis
   Dekh zara mahv-e-buka hai teri zauja
   Karti hai nauha Askari maula
 
   7
-  Parda-e-ghaibat mein jo beta hai tumhaara
+  Parda-e-ghaibat meiṅ jo beta hai tumhaara
   Bhejeiṅ use jald pareshaan hai dunya
   Sun lo zara bahr-e-Khuda waaris-e-Kaaba
   Hai ye iltija Askari maula
 
   8
   Mesum o Azlan pe bas itna karam ho
-  Naam tere chaahne waaloṅ mein raqam ho
+  Naam tere chaahne waaloṅ meiṅ raqam ho
   Kar do ata hum ko sila nauhe ka maula
   Khwaab ho pura Askari maula
 # source_id: nohayonline:335f497848d86c93c6fb

@@ -14,7 +14,7 @@ romanLyrics: |-
   Kuchh khabar hai ham pe kya guzri baraadar alwidaa
 
   1
-  Aag khaimoṅ mein laga di lashkar-e-kuffaar ne
+  Aag khaimoṅ meiṅ laga di lashkar-e-kuffaar ne
   Chhin li saiydaaniyoṅ ke sar se chaadar alwidaa
 
   2
@@ -23,14 +23,14 @@ romanLyrics: |-
 
   3
   Thi bahut ummid hai Abbas sa bhaai mera
-  Main na jaauṅ gi kabhi Kufe khule sar alwidaa
+  Maiṅ na jaauṅ gi kabhi Kufe khule sar alwidaa
 
   4
-  Shaam ke darbaar mein the saat sau kursi nashiṅ
+  Shaam ke darbaar meiṅ the saat sau kursi nashiṅ
   Thi rasan basta wahaaṅ Aal-e-Payambar alwidaa
 
   5
-  Kunbe waale saath the jab main watan se aai thi
+  Kunbe waale saath the jab maiṅ watan se aai thi
   Aaj jaati huṅ akeli ghar luta kar alwidaa
 
   6

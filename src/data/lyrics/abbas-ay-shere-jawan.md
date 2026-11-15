@@ -1,6 +1,6 @@
 ---
 title: "اہلِ حرم کے پاسباں عباس اے شیر جواں"
-alternateTitle: "Abbas Ae Sher-e-Jawaṅ"
+alternateTitle: "Abbas Ae Sher-e-Jawaaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,62 +11,62 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ahl-e-Haram ke paasbaṅ Abbas ae sher-e-jawaṅ
+  Ahl-e-Haram ke paasbaṅ Abbas ae sher-e-jawaaṅ
 
   1
   Kehta tha Zehra ka pisar thaame hue tuti kamar
   Bhai mere tum so gaye ab kaun le meri khabar
-  Dekho meri tanhaiyaṅ Abbas ae sher-e-jawaṅ
+  Dekho meri tanhaiyaṅ Abbas ae sher-e-jawaaṅ
 
   2
   Tum the alamdar-e-jari lashkar ki tum se shaan thi
   Waqif the tum is baat se tum se hi meri zindagi
-  Koi nahiṅ mera yahaṅ Abbas ae sher-e-jawaṅ
+  Koi nahiṅ mera yahaṅ Abbas ae sher-e-jawaaṅ
 
   3
   Shaane tumhare kat gaye ghore se tum kaise gire
   Sar par laga gurz-e-sitam tum kis qadar zakhmi hue
-  Saare badan se khuṅ ravaṅ Abbas ae sher-e-jawaṅ
+  Saare badan se khuṅ ravaṅ Abbas ae sher-e-jawaaṅ
 
   4
   Har qadam par the humsafar har lamha the sine sipar
   Ae tishnalab bhai mere chhora mujhe kis mor par
-  Har simt hai viraniyaṅ Abbas ae sher-e-jawaṅ
+  Har simt hai viraniyaṅ Abbas ae sher-e-jawaaṅ
 
   5
-  Jis simt jaati hai nazar khanjar hai aur teer o tabar
-  Abbas kuch hi dayr mein kat jayega mera bhi sar
-  Ab hai hamara imtehaṅ Abbas ae sher-e-jawaṅ
+  Jis simt jaati hai nazar khanjar hai aur tir o tabar
+  Abbas kuch hi dayr meiṅ kat jayega mera bhi sar
+  Ab hai hamara imtehaṅ Abbas ae sher-e-jawaaṅ
 
   6
   Tum se tha har dil ko bharam the mutmain Ahl-e-Haram
   Ek tum juda kya ho gaye so jayegi fauj-e-sitam
-  Jaagegi saari Bibiyaṅ Abbas ae sher-e-jawaṅ
+  Jaagegi saari Bibiyaṅ Abbas ae sher-e-jawaaṅ
 
   7
   Ye hai Sakina ki fughaṅ aa jao ammu ho kahaṅ
-  Kaise use samjhauṅ main us se karuṅ kya kya bayaṅ
-  Mar jayegi wo nim jaṅ Abbas ae sher-e-jawaṅ
+  Kaise use samjhauṅ maiṅ us se karuṅ kya kya bayaṅ
+  Mar jayegi wo nim jaṅ Abbas ae sher-e-jawaaṅ
 
   8
   Mashk-e-Sakina chhid gayi hasrat thi tujhko jang ki
   Koi bhi teri aarzu bhai na puri ho saki
-  Bechain teri hichkiyaṅ Abbas ae sher-e-jawaṅ
+  Bechain teri hichkiyaṅ Abbas ae sher-e-jawaaṅ
 
   9
-  Ae mere bhai bawafa Allah ne tay kar liya
-  Tere waseele se agar jo bhi kare dil se dua
-  Bhar dega unki jholiyaṅ Abbas ae sher-e-jawaṅ
+  Ae mere bhai bawafa Allah ne te kar liya
+  Tere wasile se agar jo bhi kare dil se dua
+  Bhar dega unki jholiyaṅ Abbas ae sher-e-jawaaṅ
 
   10
-  Sheh ne kaha mere jari dil ki tadap hai ab yehi
+  Sheh ne kaha mere jari dil ki tarap hai ab yehi
   Maula kaha Aaqa kaha ek baar keh do bas Akhi
-  Dekho meri bechainiyaṅ Abbas ae sher-e-jawaṅ
+  Dekho meri bechainiyaṅ Abbas ae sher-e-jawaaṅ
 
   11
   Abbas ne bhai kaha bhai se bhai chut gaya
-  Matam Rasheed ab hota hai pyase jari Abbas ka
-  Girya kunaṅ hain Bibiyaṅ Abbas ae sher-e-jawaṅ
+  Matam Rashid ab hota hai pyase jari Abbas ka
+  Girya kunaṅ haiṅ Bibiyaṅ Abbas ae sher-e-jawaaṅ
 # source_id: nohayonline:143df18857578d5de150
 # source_url: https://www.nohayonline.com/details_content.php?id=1754
 # raw_sha256: e702714c34146c3a1c52e80bd54bd00553c8388b61537ec0145b8255a77a1572

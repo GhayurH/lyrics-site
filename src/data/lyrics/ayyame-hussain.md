@@ -15,21 +15,21 @@ romanLyrics: |-
 
   1
   Chaand Muharram ka hua hai ayaaṅ
-  Kaale libaasoṅ mein hai pir o jawaaṅ
-  Ghar mein azaakhana sajaati hai maaṅ
+  Kaale libaasoṅ meiṅ hai pir o jawaaṅ
+  Ghar meiṅ azaakhana sajaati hai maaṅ
   Haaṅ ye Muharram ki hai tayyaariyaaṅ
   Ye baargaah ye masjideṅ ye majliseṅ ibaadateṅ
   Hai bolbaala aaj bhi Husain teri jit ka
-  Dil mein Husain Husain
-  Jaaṅ mein Husain Husain
+  Dil meiṅ Husain Husain
+  Jaaṅ meiṅ Husain Husain
 
   2
   Saja diye gaye alam bichha diya hai farsh-e-gham
-  Karam hai Bibi Sayyeda ke ghar mein aa gaye qadam
+  Karam hai Bibi Sayyeda ke ghar meiṅ aa gaye qadam
   Nabi bhi hai Ali bhi hai Hasan bhi hai Husain bhi
   Haaṅ pursa lene aa gayi hai hum se Aal-e-Mustafa
-  Dil mein Husain Husain
-  Jaaṅ mein Husain Husain
+  Dil meiṅ Husain Husain
+  Jaaṅ meiṅ Husain Husain
 
   3
   Hai wila azaa ka silsila mera
@@ -38,8 +38,8 @@ romanLyrics: |-
   Fatema Zehra se hai waada mera
   Wilaayat-e-Ali rahe azaa rahe Husain ki
   Haaṅ maqsad-e-Husain maqsad-e-hayaat hai mera
-  Dil mein Husain Husain
-  Jaaṅ mein Husain Husain
+  Dil meiṅ Husain Husain
+  Jaaṅ meiṅ Husain Husain
 
   4
   Majlis-e-azaa julus o taaziya
@@ -48,30 +48,30 @@ romanLyrics: |-
   Maatami chale haiṅ halqa baandh ke
   Gali gali nagar nagar sabhi hai aazim-e-safar
   Rawaaṅ dawaaṅ hai Karbala ke samt kitne qaafile
-  Dil mein Husain Husain
-  Jaaṅ mein Husain Husain
+  Dil meiṅ Husain Husain
+  Jaaṅ meiṅ Husain Husain
 
   5
   Ya Rab meri soyi hui taqdir jaga de
   Aankheṅ mujhe di hai to Karbala bhi dikha de
   Is saal Arbain pe paidal karuṅ safar
   Ya Rab mujhe Husain ka zawwaar bana de
-  Kya hua jo main bahut gharib huṅ
+  Kya hua jo maiṅ bahut gharib huṅ
   Apne Maula ke to main qarib huṅ
   Saal bhar namak se roti khaauṅ ga
   Phir bhi Karbala zarur jaauṅ ga
   Wo din kabhi to aayega wo Karbala bulaayega
   Husain apne aashiqoṅ ka dil nahiṅ hai torta
-  Dil mein Husain Husain
-  Jaaṅ mein Husain Husain
+  Dil meiṅ Husain Husain
+  Jaaṅ meiṅ Husain Husain
 
   6
-  Karoroṅ log tere ishq mein safar pe chal diye
+  Karoroṅ log tere ishq meiṅ safar pe chal diye
   Najaf se Karbala ki samt ye piyaada qaafile
-  Qadam qadam liye alam safar mein hai ye ahl-e-gham
+  Qadam qadam liye alam safar meiṅ hai ye ahl-e-gham
   Nigaah su-e-Karbala laboṅ pe sab ke ek sada
-  Dil mein Husain Husain
-  Jaaṅ mein Husain Husain
+  Dil meiṅ Husain Husain
+  Jaaṅ meiṅ Husain Husain
 
   7
   Jahaaṅ jahaaṅ uthi nazar
@@ -84,35 +84,35 @@ romanLyrics: |-
   Husain hi Husain hai
   Husainiyoṅ ka raah bar
   Husain hi Husain hai
-  Jahaaṅ mein har zabaan par
+  Jahaaṅ meiṅ har zabaan par
   Husain hi Husain hai
 
   8
-  Gham-e-Husain mein jo ashk baar hota hai
+  Gham-e-Husain meiṅ jo ashk baar hota hai
   Kisi bhi mulk se ho us se pyaar hota hai
   Na rang o nasl na mazhab ki koi qaid yahaaṅ
-  Sabhi ka zaaerin mein shumaar hota hai
+  Sabhi ka zaaerin meiṅ shumaar hota hai
   Marhaba Chehlum-e-Shabbir manaane waale
   Goshe goshe se chale aate haiṅ aane waale
   Mahw-e-hairat hai Umayya ke gharaane waale
   Keh rahe haiṅ ye zamaane se zamaane waale
-  Shart-e-mazhab nahiṅ jis mein wo idaara hai Husain
+  Shart-e-mazhab nahiṅ jis meiṅ wo idaara hai Husain
   Aaj har qaum ye kehti hai hamaara hai Husain
-  Dil mein Husain Husain
-  Jaaṅ mein Husain Husain
+  Dil meiṅ Husain Husain
+  Jaaṅ meiṅ Husain Husain
 
   9
   Husain tu ne maslakoṅ ke faasle mita diye
   Alam kisi ne aur kisi ne taaziye saja diye
   Jo kalmagoh nahiṅ hai wo bhi tere dar pe aa gaye
   Har aadmi ke waaste hai tera dar khula hua
-  Dil mein Husain Husain
-  Jaaṅ mein Husain Husain
+  Dil meiṅ Husain Husain
+  Jaaṅ meiṅ Husain Husain
 
   10
   Tere Chehlum ke liye tere maatam ke liye
   Aa gaye Karbobala ye tere ahl-e-azaa
-  Baland haath fazaaoṅ mein aur laboṅ pe buka
+  Baland haath fazaaoṅ meiṅ aur laboṅ pe buka
   Husain Husain
   Maatami ki hai sada
   Rahe ayyaam-e-Husain
@@ -122,10 +122,10 @@ romanLyrics: |-
   Rahe ayyaam-e-Husain
   Sayyeda ki hai dua
   Rahe ayyaam-e-Husain
-  Gir ke ye Mazhar o Farhan ne sajde mein kaha
+  Gir ke ye Mazhar o Farhan ne sajde meiṅ kaha
   Husain Husain
-  Dil mein Husain Husain
-  Jaaṅ mein Husain Husain
+  Dil meiṅ Husain Husain
+  Jaaṅ meiṅ Husain Husain
 # source_id: nohayonline:ddd124c2234918f0e4df
 # source_url: https://www.nohayonline.com/details_content.php?id=3542
 # raw_sha256: b2bd9ab8b982519a4abf00186389398bdc22b85610d0622a206a9a328de78fff

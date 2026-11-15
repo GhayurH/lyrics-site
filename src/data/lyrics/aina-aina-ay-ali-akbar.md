@@ -12,7 +12,7 @@ published: true
 reciter: "Safdar Abbas"
 romanLyrics: |-
   Yusuf-e-Laila Shabih-e-Payambar
-  Kehte the ye ran mein Sarwar
+  Kehte the ye ran meiṅ Sarwar
   Ae Ali Akbar Ae Ali Akbar
   Ae jaan-e-dil-e-Sarwar Ae Ali Akbar
   Aina Aina Ae Ali Akbar
@@ -22,10 +22,10 @@ romanLyrics: |-
   Hue ho tum jab se dur beta
   Gaya in aankhoṅ se nur beta
   Hue haiṅ tarik do jahaṅ
-  Dhundhuṅ main kahaṅ jaa kar
+  Dhundhuṅ maiṅ kahaṅ jaa kar
 
   2
-  Uthaye main ne tamaam laashe
+  Uthaye maiṅ ne tamaam laashe
   Na haath larze na paaoṅ kaaṅpe
   Sada tumhari suni hai jab se
   Laraz raha hai badan mera
@@ -33,16 +33,16 @@ romanLyrics: |-
 
   3
   Koi tasalli na kuchh dilaasa
-  Main kaise dhundhuṅ tumhara laasha
-  Laboṅ pe naale badan mein rasha
-  Bhatak raha huṅ main ja baja
+  Maiṅ kaise dhundhuṅ tumhara laasha
+  Laboṅ pe naale badan meiṅ rasha
+  Bhatak raha huṅ maiṅ ja baja
   Hai Naad-e-Ali lab par
 
   4
   Madad ko aayega kaun beta
   Habib o Hurr haiṅ na Jaun beta
   Na mera Qasim na Aun beta
-  Har ek maqtal mein so chuka
+  Har ek maqtal meiṅ so chuka
   Tanha hai padar dilbar
 
   5
@@ -53,15 +53,15 @@ romanLyrics: |-
   De mujhko sada Akbar
 
   6
-  Main kaise Abbas ko bulauṅ
+  Maiṅ kaise Abbas ko bulauṅ
   Sitam rasida ko kiuṅ satauṅ
-  Bata de tu hi kahaṅ main aauṅ
+  Bata de tu hi kahaṅ maiṅ aauṅ
   Kahaṅ pe ghore se tu gira
   Aa jauṅ ga nauhagar
 
   7
   Tamaam waade nibha chuka huṅ
-  Lahu mein apne naha chuka huṅ
+  Lahu meiṅ apne naha chuka huṅ
   Jo dil pe guzri bata chuka huṅ
   Bas ek baqi hai marhala
   Takmil pe hai mehzar

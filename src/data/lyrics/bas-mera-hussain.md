@@ -23,16 +23,16 @@ romanLyrics: |-
   Arsh se Khuda ki aayi ye sada
   Marhaba mere Husain marhaba
   Tu ne haq ada kiya jo apna ghar luta diya
-  Mujh pe qarz ho gaya to main ne faisla diya
+  Mujh pe qarz ho gaya to maiṅ ne faisla diya
   Ke hashr tak meri zabaaṅ bas mera Husain hai
   Husain Husain bas mera Husain hai
 
   2
   Ambiya bhi dekhte hi reh gaye
-  Karbala ke ban mein tere hausle
+  Karbala ke ban meiṅ tere hausle
   Har taraf se tir aur tabar chale
-  Par paaoṅ dasht mein jame rahe
-  Ek do pahar mein ghar luta ke garm ret par
+  Par paaoṅ dasht meiṅ jame rahe
+  Ek do pahar meiṅ ghar luta ke garm ret par
   Misl-e-sher-e-kibriya jo tori zulm ki kamar
   Har ek Nabi ka hai bayaaṅ bas mera Husain hai
   Husain Husain bas mera Husain hai
@@ -68,11 +68,11 @@ romanLyrics: |-
 
   6
   Din jab sitam ki zad pe aa gaya
-  Karbala mein keh raha tha la ilaah
-  Kaun hai jahaaṅ mein aisa surma
+  Karbala meiṅ keh raha tha la ilaah
+  Kaun hai jahaaṅ meiṅ aisa surma
   Jo mujhe Yazid se bachaayega
   Sun ke din ki sada Husain ibn-e-Sayyada
-  Din ko bachaayega lahu mein jo nahaayega
+  Din ko bachaayega lahu meiṅ jo nahaayega
   Tarap ke boli ek maaṅ bas mera Husain hai
   Husain Husain bas mera Husain hai
 
@@ -81,8 +81,8 @@ romanLyrics: |-
   Kiuṅ na ho ke hai Husain ki zamiṅ
   Safdar aur Mazhar Abidi kaho
   Baad-e-marg ham to jaayeṅge wahiṅ
-  Jaza ki kaainaat mein utha ke jaam haath mein
-  Husain pehle aayeṅge Ali bhi hoṅge saath mein
+  Jaza ki kaainaat meiṅ utha ke jaam haath meiṅ
+  Husain pehle aayeṅge Ali bhi hoṅge saath meiṅ
   Ke us jahaaṅ ka mezbaaṅ bas mera Husain hai
   Husain Husain bas mera Husain hai
 # source_id: nohayonline:63d00f93a1838d6cc7c0

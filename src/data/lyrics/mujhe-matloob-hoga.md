@@ -1,6 +1,6 @@
 ---
 title: "مجھے مطلوب ہوگا جام لینا جب بھی کوثر کا"
-alternateTitle: "Mujhe Matloob Hoga"
+alternateTitle: "Mujhe Matlub Hoga"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Zamin-e-Karbala kya puchhna tere muqaddar ka
-  Hai tujh mein aaj tak mehfuz sarmaaya Payambar ka
+  Hai tujh meiṅ aaj tak mehfuz sarmaaya Payambar ka
 
   2
   Kamar kiuṅ kham na ho dil gham se tute kiuṅ na Sarwar ka
@@ -28,14 +28,14 @@ romanLyrics: |-
 
   4
   Teri ghairat ko aakhir kya hua kuchh tu ne socha bhi
-  Bhari mehfil mein kaisa tazkira Zainab ki chaadar ka
+  Bhari mehfil meiṅ kaisa tazkira Zainab ki chaadar ka
 
   5
   Ghari bhar bhi Rabaab aaraam se sone nahiṅ paati
   Wo jab karwat badalti hai khayaal aata hai Asghar ka
 
   6
-  Saeed zaar par jab bhi koi uftaad parti hai
+  Said zaar par jab bhi koi uftaad parti hai
   Bas ek aadat si hai wo naam leta hai Haidar ka
 # source_id: nohayonline:97790fe4f4b050fbd162
 # source_url: https://www.nohayonline.com/details_content.php?id=2027

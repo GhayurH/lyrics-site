@@ -15,7 +15,7 @@ romanLyrics: |-
 
   1
   Ye kis ko ro rahi hai Zainab tarap tarap kar
-  Jannat mein Sayyeda ne chaadar gira di sar se
+  Jannat meiṅ Sayyeda ne chaadar gira di sar se
 
   2
   Jis ne Khuda ke ghar ko bakhshi thi aa ke zinat

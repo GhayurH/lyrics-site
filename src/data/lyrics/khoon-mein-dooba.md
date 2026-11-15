@@ -1,6 +1,6 @@
 ---
 title: "خون میں ڈوبا جلتی زمیں پر"
-alternateTitle: "Khun Mein Duba"
+alternateTitle: "Khun Meiṅ Duba"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,16 +11,16 @@ tags: []
 aliases: ["Khoon Mein Dooba"]
 published: true
 romanLyrics: |-
-  Khun mein duba jalti zamiṅ par
+  Khun meiṅ duba jalti zamiṅ par
   Laasha-e-Sarwar para hua hai
 
   Dubta suraj charkh-e-bariṅ par
   Jaam lahu ka bana hua hai
 
   1
-  Farq-e-Shah-e-diṅ kat gaya ran mein
-  Kaisa hua andher ye ban mein
-  Mehr-e-imaamat aaya gahan mein
+  Farq-e-Shah-e-diṅ kat gaya ran meiṅ
+  Kaisa hua andher ye ban meiṅ
+  Mehr-e-imaamat aaya gahan meiṅ
   Hashr kahaaṅ ab ruka hua hai
 
   2
@@ -63,7 +63,7 @@ romanLyrics: |-
   Rahm kisi ko us par na aaya
   Chhin ke bistar le gaye aadaa
   Haaye mera bimaar bhatija
-  Ghash mein zamiṅ par para hua hai
+  Ghash meiṅ zamiṅ par para hua hai
 
   9
   Yazidiyat ko jar se ukhaara

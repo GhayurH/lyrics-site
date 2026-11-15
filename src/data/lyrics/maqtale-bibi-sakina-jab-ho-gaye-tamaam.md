@@ -21,12 +21,12 @@ romanLyrics: |-
   Baba ko dhundne su-e-maqtal wo chal pari
 
   2
-  Maqtal mein di sadaaeṅ ke Baba kahaaṅ ho tum
+  Maqtal meiṅ di sadaaeṅ ke Baba kahaaṅ ho tum
   Baba jala diya gaya khaima kahaaṅ ho tum
   Aayi hai tum se milne Sakina kahaaṅ ho tum
   Aawaaz do ke kuchh nahiṅ dikhta kahaaṅ ho tum
   Beti ke bain sun ke wo Baba ne ki fughaaṅ
-  Besar ki laash ne kaha beti huṅ main yahaaṅ
+  Besar ki laash ne kaha beti huṅ maiṅ yahaaṅ
 
   3
   Beti ne apne Baba ki aawaaz jab suni
@@ -41,11 +41,11 @@ romanLyrics: |-
   Zaalim ne mere kaanoṅ se chhini haiṅ baaliyaaṅ
   Dekhoṅ na mere kaanoṅ se ab tak hai khun rawaaṅ
   Asghar bhi qatl ho gaya tanha hui hai maaṅ
-  Baba bataao mujh ko ke main kya karuṅgi ab
-  Is kamsini mein tanha main kaise rahuṅgi ab
+  Baba bataao mujh ko ke maiṅ kya karuṅgi ab
+  Is kamsini meiṅ tanha maiṅ kaise rahuṅgi ab
 
   5
-  Maqtal mein Baba laashe haiṅ bikhre pare hue
+  Maqtal meiṅ Baba laashe haiṅ bikhre pare hue
   Tere mujaahidin ne kitne sitam sahe
   Sine pe tir bhaale haiṅ aur sar kate hue
   Kis tarah saare laashe hi paamaal ho gaye
@@ -57,8 +57,8 @@ romanLyrics: |-
   Laasha kahaaṅ hai us ka bataao na tum mujhe
   Puchhegi mujh se Sughra bataao na tum mujhe
   Kaise gaya wo maara bataao na tum mujhe
-  Dhunduṅgi us ko kaise main laashoṅ ke darmiyaaṅ
-  Main ne suna hai sine mein us ke lagi sinaaṅ
+  Dhunduṅgi us ko kaise maiṅ laashoṅ ke darmiyaaṅ
+  Maiṅ ne suna hai sine meiṅ us ke lagi sinaaṅ
 
   7
   Baba bataao na mera bhaiya kahaaṅ gaya
@@ -70,7 +70,7 @@ romanLyrics: |-
 
   8
   Mashkiza mujh se le ke gaye the mere chacha
-  Mujh se kaha tha darya se paani main laauṅga
+  Mujh se kaha tha darya se paani maiṅ laauṅga
   Baba mujhe bataaiye aisa bhi kya hua
   Baba bataaeṅ kaise wo mashkiza chhid gaya
   Kis tarah un ko tir lage baazu kat gaye
@@ -80,7 +80,7 @@ romanLyrics: |-
   Karb o Bala ka dasht, andhera tha chaar su
   Bachchi lipat ke karti thi Baba se guftagu
   Baba ka dard kam ho ye thi us ki aarzu
-  Haaye sitam ke aa gaye maqtal mein phir adu
+  Haaye sitam ke aa gaye maqtal meiṅ phir adu
   Zaalim ne us yatima pe zulm o jafa kiya
   Zulfeṅ pakar ke laash-e-padar se juda kiya
 # source_id: tajpoints:74a49384d2c8b3ed3069

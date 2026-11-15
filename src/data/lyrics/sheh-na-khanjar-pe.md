@@ -48,7 +48,7 @@ romanLyrics: |-
 
   9
   Khun Asghar ka baha kar bhi na sambhle jo Naved
-  Kiuṅ Khuda na be un ki beraah ravi par roye
+  Kiuṅ Khuda na beun ki beraah ravi par roye
 # source_id: nohayonline:ee2ff0a941e47620cb23
 # source_url: https://www.nohayonline.com/details_content.php?id=1693
 # raw_sha256: ee981806da7fb50d4989f1715f6630e138eabafffa96f1f5a0c8f31a7ca35779

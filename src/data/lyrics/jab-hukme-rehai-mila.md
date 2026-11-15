@@ -27,10 +27,10 @@ romanLyrics: |-
   Ghar bhar ki azaadaar wohi Zainab-e-Kubra
   Khutba parha aaghaaz kiya majlis-e-gham ka
   Haaye khutba abhi jaari tha ke ik shor sa utha
-  Ke sar aate haiṅ majlis mein shahidaan-e-sitam ke
+  Ke sar aate haiṅ majlis meiṅ shahidaan-e-sitam ke
 
   3
-  Ae Bibiyoṅ maatam karo halqe mein haram ke
+  Ae Bibiyoṅ maatam karo halqe meiṅ haram ke
   Haaye hum lut gaye
   Haaye barbaad hue
   Haaye qaidi bane
@@ -41,25 +41,25 @@ romanLyrics: |-
   Haaye pehle wahaaṅ ansaar-e-Husaini ke sar aaye
   Hur Jaun Habib ibn-e-Mazaahir ke sar aaye
   Wahab-e-Kalbi Ausaja tashna jigar aaye
-  Maatam hua us pehle azaakhaane mein aise
+  Maatam hua us pehle azaakhaane meiṅ aise
   Shahzaadiyaaṅ rotiṅ hoṅ sage bhaai ko jaise
 
   5
-  Haaye ik chaand sa sar dekha ke jo khun mein tar hai
+  Haaye ik chaand sa sar dekha ke jo khun meiṅ tar hai
   Sab kehne lage ye kisi naushaah ka sar hai
   Farwa ne kaha haaṅ ye mera lakht-e-jigar hai
   Are Qasim mujhe sehra bhi dikhaane nahiṅ aaye
   Are zindaan se ammaaṅ ko chhuraane nahiṅ aaye
 
   6
-  Haaye do chhote se sar god mein Sajjad jo laaye
+  Haaye do chhote se sar god meiṅ Sajjad jo laaye
   Zainab ne kaha Aun o Muhammad mere aaye
-  Are qurbaan gayi koi meri god mein laaye
+  Are qurbaan gayi koi meri god meiṅ laaye
   Royi nahiṅ maatam na kiya pyaar to kar luṅ
   Ae bhaai ijaazat hai inheiṅ aaj to ro luṅ
 
   7
-  Haaye jaise hi azaakhaane mein Akbar ka sar aaya
+  Haaye jaise hi azaakhaane meiṅ Akbar ka sar aaya
   Zainab ne sar-e-Aun o Muhammad ko hataaya
   Aaghosh se bhaabhi ki sar Akbar ka uthaaya
   Are chillaayi mere laal zara aaṅkheiṅ to kholo
@@ -75,21 +75,21 @@ romanLyrics: |-
   9
   Haaye sar aaya wahaaṅ jab Bani Haashim ke qamar ka
   Rote hue har Bibi ne dukhra ye sunaaya
-  Ae zaamin-e-chaadar tu bahut der mein aaya
+  Ae zaamin-e-chaadar tu bahut der meiṅ aaya
   Ye dekh ke har Bibi ka sad chaak jigar tha
-  Ke pehlu mein alam ke hi alamdaar ka sar tha
+  Ke pehlu meiṅ alam ke hi alamdaar ka sar tha
 
   10
-  Haaye sar majlis-e-Shabbir mein Shabbir ka aaya
+  Haaye sar majlis-e-Shabbir meiṅ Shabbir ka aaya
   Har Bibi ke lab pe thi sada haaye Husaina
-  Maatam ki sadaaoṅ mein ye Zainab ne sunaaya
+  Maatam ki sadaaoṅ meiṅ ye Zainab ne sunaaya
   Ke ae mere akhi dekh teri farsh-e-aza hai
-  Maatam tera is majlis-e-awwal mein bapa hai
+  Maatam tera is majlis-e-awwal meiṅ bapa hai
 
   11
-  Haaye lute hue asbaab mein jo chizeiṅ mili thiṅ
-  Saadaat se ye Shaam-e-Gharibaaṅ mein chhini thiṅ
-  Tar khun mein do baaliyaaṅ bhi un mein rakhi thiṅ
+  Haaye lute hue asbaab meiṅ jo chizeiṅ mili thiṅ
+  Saadaat se ye Shaam-e-Gharibaaṅ meiṅ chhini thiṅ
+  Tar khun meiṅ do baaliyaaṅ bhi un meiṅ rakhi thiṅ
   Ae Sarwar o Rehaan azaadaari-e-Shah ka
   Tha pehla azaakhaana saroṅ se jo saja tha
 # source_id: nohayonline:fc7a32af50a5f67a147f

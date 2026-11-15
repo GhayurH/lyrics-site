@@ -35,7 +35,7 @@ romanLyrics: |-
 
   6
   Mere naana ke Madine tujhe Zainab ka salaam
-  Thokareṅ khaa ke palat aai huṅ main dar dar se
+  Thokareṅ khaa ke palat aai huṅ maiṅ dar dar se
 
   7
   Haq o baatil ka ho takraao to dil larte haiṅ

@@ -25,12 +25,12 @@ romanLyrics: |-
   Jab se tum is ghar se sidhaare Ali Asghar
 
   3
-  Tu hi bata kis ke main ab naaz uthauṅ
+  Tu hi bata kis ke maiṅ ab naaz uthauṅ
   Jhula jhulauṅ kise lori sunauṅ
-  Ab main jiyuṅ kis ke sahare Ali Asghar
+  Ab maiṅ jiyuṅ kis ke sahare Ali Asghar
 
   4
-  Dil mein tha armaan ke tu dulha banega
+  Dil meiṅ tha armaan ke tu dulha banega
   Laal mere sar pe tere sehra sajega
   Reh jaye armaan wo saare Ali Asghar
 
@@ -45,7 +45,7 @@ romanLyrics: |-
   Jal gaye khaime bhi hamare Ali Asghar
 
   7
-  Fakhr hai mujh ko main huṅ Shabbir ka zakir
+  Fakhr hai mujh ko maiṅ huṅ Shabbir ka zakir
   Ab koi duniya ka mujhe dar nahiṅ Yasir
   Aap haiṅ jab mere sahare Ali Asghar
 # source_id: nohayonline:dbea7f570d7ad38d190d

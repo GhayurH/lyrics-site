@@ -1,6 +1,6 @@
 ---
 title: "ہر دور کے نقیب ہے قرآن و اہلبیت"
-alternateTitle: "Har Daur Ke Naqeeb"
+alternateTitle: "Har Daur Ke Naqib"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

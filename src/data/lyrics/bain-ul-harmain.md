@@ -26,14 +26,14 @@ romanLyrics: |-
   Aaiye is arsh par Allah se baateṅ kareṅ
   Hai aik taraf Abbas tere
   Aur aik taraf haiṅ Maula Husain
-  Ae arz-e-yaqin Kaabe ki zamin
+  Ae arz-e-yaqiṅ Kaabe ki zamiṅ
   Kehti hai tujhe qaaba qausain
 
   1
-  Yeh zamin chaand sitaaroṅ ki jabin lagti hai
-  Kahkashaaṅ is ke tasadduq mein hasin lagti hai
+  Yeh zamiṅ chaand sitaaroṅ ki jabiṅ lagti hai
+  Kahkashaaṅ is ke tasadduq meiṅ hasin lagti hai
   Laamakaani ki hadoṅ se yeh qarin lagti hai
-  Yeh to qausain se aage ki zamin lagti hai
+  Yeh to qausain se aage ki zamiṅ lagti hai
   Jo arsh pe tha pehle naalain
   Us ne bhi utaari hai naalain
 
@@ -46,7 +46,7 @@ romanLyrics: |-
   Milte haiṅ yahiṅ par Zulqarnain
 
   3
-  Is zamin par chale aana hi hai Meraaj-e-bashar
+  Is zamiṅ par chale aana hi hai Meraaj-e-bashar
   Sidra-e-ishq hai kab aam hai yeh rahguzar
   Taair-e-aql ke jalte haiṅ yahiṅ par shahpar
   Farsh ban jaata hai khud arsh yahaaṅ par aakar
@@ -58,11 +58,11 @@ romanLyrics: |-
   Khalq kar ke tujhe Khaaliq ne dobaara dekha
   Sab zaminoṅ pe faqat tera ijaara dekha
   Aur wahiṅ par yeh zamaane ne nazaara dekha
-  Haaṅ daaman mein tere ik saath bhi gar
+  Haaṅ daaman meiṅ tere ik saath bhi gar
   Aaeṅ to samaa jaaeṅ kaunain
 
   5
-  Sar zamin par teri hoti hai bashar ki Meraaj
+  Sar zamiṅ par teri hoti hai bashar ki Meraaj
   Dekh lena tujhe hoti hai nazar ki Meraaj
   Tujh pe sajde se hua karti hai sar ki Meraaj
   Khatm hai tujh pe bulandi ke safar ki Meraaj
@@ -72,8 +72,8 @@ romanLyrics: |-
   6
   Kahiṅ jaate hue dekha hi nahiṅ donoṅ ko
   Ishq ne dekha hai barsoṅ se wahiṅ donoṅ ko
-  Suratan jaante haiṅ ahl-e-yaqin donoṅ ko
-  Dhuṅdne jaao na dunya mein kahiṅ donoṅ ko
+  Suratan jaante haiṅ ahl-e-yaqiṅ donoṅ ko
+  Dhuṅdne jaao na dunya meiṅ kahiṅ donoṅ ko
   Aashur ke din maatam karte
   Aaeṅ ge nazar tum ko Mirain
 ---

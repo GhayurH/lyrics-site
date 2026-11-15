@@ -17,9 +17,9 @@ romanLyrics: |-
   Chhaa gayi shaam-e-gharibaan-e-haram
   Ab na Ghaazi hai na Ghaazi ka alam
   Ek bimaar hai wo bhi lab-e-dam
-  Saare aalam mein bapa hai maatam
+  Saare aalam meiṅ bapa hai maatam
   Jal chuke khaime laiṅ lut chuke sar se rida
-  Dasht mein aati hai Saadaat ke rone ki sada
+  Dasht meiṅ aati hai Saadaat ke rone ki sada
 
   2
   Ya Husain kushta-e-tegh-e-jafa
@@ -35,10 +35,10 @@ romanLyrics: |-
   Kya thi pyaasoṅ ki khata Karbala
   Kuchh to keh kuchh to bata Karbala
   Apne mehmaani pe ye bandish-e-paani kiuṅ kar
-  Jis ki maadar ko mehr mein mila hauz-e-Kausar
+  Jis ki maadar ko mehr meiṅ mila hauz-e-Kausar
 
   4
-  Ek maqtal mein bahattar laashe
+  Ek maqtal meiṅ bahattar laashe
   Bhaanje bete bhatije pyaase
   Paara paara huwe saare aise
   Ek Quraan ke paare jaise
@@ -58,8 +58,8 @@ romanLyrics: |-
   Ta qayaamat rahe ye farsh-e-aza
   Yuṅhi aati rahe maatam ki sada
   Ho har ek lab pe Husaini noha
-  Hashr mein Shah ke azaadaaroṅ se pursa luṅgi
-  Main azaadaaroṅ ko jannat ki bashaarat duṅgi
+  Hashr meiṅ Shah ke azaadaaroṅ se pursa luṅgi
+  Maiṅ azaadaaroṅ ko jannat ki bashaarat duṅgi
 
   7
   Alwida laash-e-gharib-ul-ghuraba
@@ -72,8 +72,8 @@ romanLyrics: |-
   8
   Karte haiṅ Sarwar o Rehaan dua
   Ham se raazi hoṅ Janaab-e-Zehra
-  Dil ki dharkan mein hai maatam ki sada
-  Saare aalam mein bichhe farsh-e-aza
+  Dil ki dharkan meiṅ hai maatam ki sada
+  Saare aalam meiṅ bichhe farsh-e-aza
   Nasl dar nasl ye maatam ye azaadaar rahe
   Panjetan kaar sada in ke madadgaar rahe
 # source_id: nohayonline:41b3c0ae0529dcd03b3c

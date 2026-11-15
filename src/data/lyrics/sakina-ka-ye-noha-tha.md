@@ -23,11 +23,11 @@ romanLyrics: |-
 
   3
   Tumhaare jaise kamsin raat ko baahar nahiṅ jaate
-  Hai kitna ran mein sannaata mere bhaiya chale aao
+  Hai kitna ran meiṅ sannaata mere bhaiya chale aao
 
   4
   Taras khaa kar to mere dushmanoṅ ne paani bheja hai
-  Piyuṅ main kis tarah tanha mere bhaiya chale aao
+  Piyuṅ maiṅ kis tarah tanha mere bhaiya chale aao
 
   5
   Phuphi ka ab tarapna mujh se to dekha nahiṅ jaata
@@ -35,7 +35,7 @@ romanLyrics: |-
 
   6
   Liye jaate haiṅ aada qaid kar ke Shaam ki jaanib
-  Main jaauṅ gi nahiṅ tanha mere bhaiya chale aao
+  Maiṅ jaauṅ gi nahiṅ tanha mere bhaiya chale aao
 
   7
   Ali Akbar ne lar ke khuṅ armaanoṅ ka kar daala

@@ -16,11 +16,11 @@ romanLyrics: |-
 
   1
   Tukre tukre zehr de kar pehle kar daala jigar
-  Baad mein ye zulm bhi dhaya gaya mazlum par
+  Baad meiṅ ye zulm bhi dhaya gaya mazlum par
   Qabr tak jaane se roka tir barsae gaye
 
   2
-  Laut kar aai jo maiyyat ghar mein qabristan se
+  Laut kar aai jo maiyyat ghar meiṅ qabristan se
   Yuṅ laga jaise tapakta hai lahu Quran se
   Zainab o Kulsum ko phir zakhm dikhlae gaye
 
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   5
   Ahmad-e-Mukhtar khud naaqa bane jis ke liye
-  Apni zulfeṅ haath mein de kar chale jis ke liye
+  Apni zulfeṅ haath meiṅ de kar chale jis ke liye
   Haye us ki laash pe patthar bhi barsae gaye
 
   6
@@ -47,11 +47,11 @@ romanLyrics: |-
   7
   Jism-e-Athar pe na jaane zakhm kitne khae haiṅ
   Aisa lagta hai pehan kar surkh jora aae haiṅ
-  Khun tapakta tha badan se ghar mein jab lae gaye
+  Khun tapakta tha badan se ghar meiṅ jab lae gaye
 
   8
-  Naana ke pehlu mein mil jaati agar do gaz zamiṅ
-  Chain se marqad mein so jaata ye Jannat ka makiṅ
+  Naana ke pehlu meiṅ mil jaati agar do gaz zamiṅ
+  Chain se marqad meiṅ so jaata ye Jannat ka makiṅ
   Kiuṅ na haqdaroṅ ka haq aakhir na dilwae gaye
 
   9

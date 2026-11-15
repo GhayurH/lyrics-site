@@ -15,10 +15,10 @@ romanLyrics: |-
 
   Agar Husain ke maqsad se hai wafaadaari
   To phir Imam ki nusrat hai ye azaadaari
-  Imam-e-asr ko ghar mein agar bulaana hai
+  Imam-e-asr ko ghar meiṅ agar bulaana hai
   Bas itna karna hai farsh-e-aza bichhaana hai
 
-  Ghar ghar mein bichha do farsh-e-aza
+  Ghar ghar meiṅ bichha do farsh-e-aza
   Maula ko dena hai pursa
   Ke bas Maula aane waale haiṅ
   Haaṅ mere Maula aane waale haiṅ
@@ -32,7 +32,7 @@ romanLyrics: |-
 
   2
   Jaari hai azaadaari Shah ki
-  Bachche haiṅ lahu mein aaj bhi tar
+  Bachche haiṅ lahu meiṅ aaj bhi tar
   Ae maaṅoṅ shahidoṅ ki maaṅoṅ
   Qurbaan kiya hai tum ne pisar
   Maula khud deṅ ge is ka sila
@@ -86,7 +86,7 @@ romanLyrics: |-
   Katte haiṅ haath to kat jaayeṅ
   Thaame raheṅ parcham Maula ka
 
-  Ghar ghar mein bichha do farsh-e-aza
+  Ghar ghar meiṅ bichha do farsh-e-aza
   Maula ko dena hai pursa
 # source_id: nohayonline:9c06d11784ce892b0d82
 # source_url: https://www.nohayonline.com/details_content.php?id=2359

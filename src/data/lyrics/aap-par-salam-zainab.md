@@ -38,15 +38,15 @@ romanLyrics: |-
 
   4
   Kaise kaise imtehan Bibi aap ne diye
-  Karbala ke dasht se aseer hoke jab chale
+  Karbala ke dasht se asir hoke jab chale
   Aap hi to aasra thiṅ Ahl-e-Bait ke liye
-  Gham mein giraftar thiṅ phir bhi alamdar thiṅ
+  Gham meiṅ giraftar thiṅ phir bhi alamdar thiṅ
   Karbala se Shaam Zainab
 
   5
-  Kiuṅ na ehteram aap ka ho khaas o aam mein
-  Aap haiṅ sharik-e-kar maqsad-e-Imam mein
-  Pehli majlis-e-Husain wo bhi qaid-e-Shaam mein
+  Kiuṅ na ehteram aap ka ho khaas o aam meiṅ
+  Aap haiṅ sharik-e-kar maqsad-e-Imam meiṅ
+  Pehli majlis-e-Husain wo bhi qaid-e-Shaam meiṅ
   Koi nahiṅ ho saka bani-e-farsh-e-aza
   Sirf hai ek naam Zainab
 
@@ -58,9 +58,9 @@ romanLyrics: |-
   Hai ye sada aam Zainab
 
   7
-  Bhaiyoṅ ko har ghari rakha dua ke saaye mein
-  Aap ka ye sabr o hausla jafa ke saaye mein
-  Hai Khuda ka din aap ki rida ke saaye mein
+  Bhaiyoṅ ko har ghari rakha dua ke saaye meiṅ
+  Aap ka ye sabr o hausla jafa ke saaye meiṅ
+  Hai Khuda ka din aap ki rida ke saaye meiṅ
   Shukriya kehte raheiṅ aap ko sajda kareiṅ
   Aap ke ghulam Zainab
 

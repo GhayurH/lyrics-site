@@ -35,11 +35,11 @@ romanLyrics: |-
   Shal ho na gaye Shimr-e-sitamgaar ke baazu
 
   6
-  Bandhwa ke rasan haathoṅ mein Bint-e-Shah-e-diṅ ne
+  Bandhwa ke rasan haathoṅ meiṅ Bint-e-Shah-e-diṅ ne
   Khud kaate hai baiat ke talabgaar ke baazu
 
   7
-  Bhaai ki hifaazat ke liye Karb o Bala mein
+  Bhaai ki hifaazat ke liye Karb o Bala meiṅ
   Ek aahani diwaar the Karraar ke baazu
 
   8

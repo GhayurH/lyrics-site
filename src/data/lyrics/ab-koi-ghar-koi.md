@@ -16,8 +16,8 @@ romanLyrics: |-
 
   1
   Baap ke sine pe sone ki tujhe aadat thi
-  Ab muqaddar mein tere hogi zamiṅ maqtal ki
-  Shiddat-e-pyaas mein ashkoṅ ko hi pina hoga
+  Ab muqaddar meiṅ tere hogi zamiṅ maqtal ki
+  Shiddat-e-pyaas meiṅ ashkoṅ ko hi pina hoga
 
   2
   Ab sitamgar ke taanoṅ pe guzar hoga tera
@@ -27,7 +27,7 @@ romanLyrics: |-
   3
   Taaziyanoṅ ki aziyat hi ghiza hoegi
   Ek din saare asiroṅ se juda hoegi
-  Ik alag qaid ki tanhai mein rona hoga
+  Ik alag qaid ki tanhai meiṅ rona hoga
 
   4
   Koi aahat bhi sunegi to lagega aise
@@ -40,7 +40,7 @@ romanLyrics: |-
   Tujhko ab chehra bhi ashkoṅ se hi dhona hoga
 
   6
-  Gham ki badli mein muqaddar ka sitara hoga
+  Gham ki badli meiṅ muqaddar ka sitara hoga
   Baba Baba ki sadaoṅ ka sahara hoga
   Sabr phuphiyoṅ ki tarha tujhko bhi karna hoga
 

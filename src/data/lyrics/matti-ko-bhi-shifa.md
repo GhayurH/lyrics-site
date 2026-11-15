@@ -19,7 +19,7 @@ romanLyrics: |-
   Akbar ko Mustafa ka saraapa bana diya
 
   2
-  Aakar arus-e-tegh ne Qasim ke haath mein
+  Aakar arus-e-tegh ne Qasim ke haath meiṅ
   Maidan-e-kaarzaar ko dulha bana diya
 
   3

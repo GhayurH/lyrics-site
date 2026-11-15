@@ -14,9 +14,9 @@ romanLyrics: |-
   Aayi hai Shaam ke zindan se chhut kar Zainab
 
   1
-  Bekafan laash pari thi tumhari maidaaṅ mein
-  Ye na samjho ke behan bhul gayi zindaaṅ mein
-  Roti rehti thi isi yaad mein muztar Zainab
+  Bekafan laash pari thi tumhari maidaaṅ meiṅ
+  Ye na samjho ke behan bhul gayi zindaaṅ meiṅ
+  Roti rehti thi isi yaad meiṅ muztar Zainab
 
   2
   Aap ke baad bare zulm o sitam hum pe hue
@@ -25,12 +25,12 @@ romanLyrics: |-
 
   3
   Mera bimaar agar zof se ruk jaata kahiṅ
-  Pusht-e-bimaar mein naizoṅ ko chubhaate the laiṅ
+  Pusht-e-bimaar meiṅ naizoṅ ko chubhaate the laiṅ
   Bhaiya reh jaati thi us waqt tarap kar Zainab
 
   4
-  Ek chhoti si rasan mein the bandhe sab qaidi
-  Saath hi saath mein gardan thi bandhi bachchi ki
+  Ek chhoti si rasan meiṅ the bandhe sab qaidi
+  Saath hi saath meiṅ gardan thi bandhi bachchi ki
   Har qadam khaati thi taqdir ki thokar Zainab
 
   5
@@ -41,7 +41,7 @@ romanLyrics: |-
   6
   Karti thi kham to sukuṅ paate the bachche mere
   Sidhi hone se gale bachchoṅ ke kas jaate the
-  Is liye chalti thi bazaar mein jhuk kar Zainab
+  Is liye chalti thi bazaar meiṅ jhuk kar Zainab
 # source_id: nohayonline:7d52218cc8b3f5d1e0bf
 # source_url: https://www.nohayonline.com/details_content.php?id=1915
 # raw_sha256: af7f37f042f5a177fc19e94154bd8a9a9cc1ef01c94d98c2a45397df093b699c

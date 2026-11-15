@@ -19,18 +19,18 @@ romanLyrics: |-
 
   2
   Besaaya aasmaan wo maqtal garm ret
-  Sehraa-e-beamaaṅ mein wo khasta tanoṅ ki shaam
+  Sehraa-e-beamaaṅ meiṅ wo khasta tanoṅ ki shaam
 
   3
   Khaimoṅ ke ird gird wo laashe azizoṅ ke
-  Aur dasht-e-Karbala mein wo un besaroṅ ki shaam
+  Aur dasht-e-Karbala meiṅ wo un besaroṅ ki shaam
 
   4
   Le jaaye kaun in ka lahu bastiyoṅ ki samt
-  Phaili ye saare shehr mein ab dushmanoṅ ki shaam
+  Phaili ye saare shehr meiṅ ab dushmanoṅ ki shaam
 
   5
-  Asghar tumhaari yaad mein hum sab haiṅ ashk baar
+  Asghar tumhaari yaad meiṅ hum sab haiṅ ashk baar
   Bibi Sakina dekhiye ye aansuoṅ ki shaam
 
   6

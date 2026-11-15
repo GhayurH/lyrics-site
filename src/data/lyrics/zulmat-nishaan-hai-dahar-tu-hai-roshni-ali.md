@@ -1,6 +1,6 @@
 ---
 title: "ظلمت نشاں ہے دہر تو ہے روشنی علی"
-alternateTitle: "Zulmat Nishaan Hai Dahr Tu Hai Roshni Ali"
+alternateTitle: "Zulmat Nishaaṅ Hai Dahr Tu Hai Roshni Ali"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -23,15 +23,15 @@ romanLyrics: |-
 
   3
   Mashghul-e-zuhd aur bhi barsoṅ rahe magar
-  Duniya mein bemisaal teri bandagi Ali
+  Duniya meiṅ bemisaal teri bandagi Ali
 
   4
   Hai teri zaad hi wilaayat ki ibeda
   Sab auliya ghulaam hai tere wali Ali
 
   5
-  Paida kiya haram mein tujhe Zaat-e-Paak ne
-  Maqsud thi jahaaṅ mein teri bartari Ali
+  Paida kiya haram meiṅ tujhe Zaat-e-Paak ne
+  Maqsud thi jahaaṅ meiṅ teri bartari Ali
 
   6
   Is ek baat par mujhe kaafir kaha gaya

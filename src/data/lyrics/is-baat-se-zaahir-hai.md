@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Is baat se zaahir hai rutba Ali Akbar ka
-  Hota hai azaanoṅ mein charcha Ali Akbar ka
+  Hota hai azaanoṅ meiṅ charcha Ali Akbar ka
 
   1
   Ae Hur teri qismat ne kiuṅ aaj ye karwat li
@@ -23,11 +23,11 @@ romanLyrics: |-
   Abbas jhulaate haiṅ jhula Ali Akbar ka
 
   3
-  Puchha gaya Yusuf se jab husn ke baare mein
+  Puchha gaya Yusuf se jab husn ke baare meiṅ
   Haṅs kar kaha ye to hai sadqa Ali Akbar ka
 
   4
-  Ye rutba-e-Akbar hai Haidar ke gharaane mein
+  Ye rutba-e-Akbar hai Haidar ke gharaane meiṅ
   Aaghosh hai phuphi ki jhula Ali Akbar ka
 
   5
@@ -35,8 +35,8 @@ romanLyrics: |-
   Jis maaṅ ko bhi mil jaaye sadqa Ali Akbar ka
 
   6
-  Laila ne kaha baithuṅ kis tarah main saaye mein
-  Phirta hai nigaahoṅ mein chehra Ali Akbar ka
+  Laila ne kaha baithuṅ kis tarah maiṅ saaye meiṅ
+  Phirta hai nigaahoṅ meiṅ chehra Ali Akbar ka
 
   7
   Puchha gaya jab Shah se kiuṅ kham hai kamar Maula

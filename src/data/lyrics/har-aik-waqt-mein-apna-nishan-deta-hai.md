@@ -1,6 +1,6 @@
 ---
 title: "ہر ایک وقت میں اپنا نشان دیتا ہے"
-alternateTitle: "Har Aik Waqt Mein Apna Nishaan Deta Hai"
+alternateTitle: "Har Aik Waqt Meiṅ Apna Nishaan Deta Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,13 +11,13 @@ aliases: ["har-aik-waqt-mein-apna-nishan-deta-hai-rehan-azmi-lyrics-2024"]
 published: true
 recitationId: "har-aik-waqt-mein-apna-nishan-deta-hai-rehan-azmi-lyrics-2024"
 romanLyrics: |-
-  Har aik waqt mein apna nishaan deta hai
+  Har aik waqt meiṅ apna nishaan deta hai
   Kabhi woh dhup kabhi saayebaan deta hai
 
   1
   Kabhi woh quwwat-e-goyaai chhin leta hai
   Kabhi khaamosh laboṅ ko zabaan deta hai
-  Usi ne paida kiya hai gudaaz sine mein
+  Usi ne paida kiya hai gudaaz sine meiṅ
   Wagarna kis ke liye kaun jaan deta hai
 
   2
@@ -27,7 +27,7 @@ romanLyrics: |-
   Yehi to roz muazzin azaan deta hai
 
   3
-  Lahad ki shakl mein de ya mahal ki surat mein
+  Lahad ki shakl meiṅ de ya mahal ki surat meiṅ
   Woh laamakaaṅ hai sab ko makaan deta hai
   Woh aisa munsif-e-aakhir hai rubaru jis ke
   Mere khilaaf mera dil bayaan deta hai

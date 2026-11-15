@@ -17,7 +17,7 @@ romanLyrics: |-
   1
   Meri taazim na ki haath uthaaya us ne
   Saamne betoṅ ke tuṅ keh ke bulaaya us ne
-  Bhuluṅ kaise main ummat ka rawayya baba
+  Bhuluṅ kaise maiṅ ummat ka rawayya baba
 
   2
   Ab woh darbaar kahaaṅ baba mere qaabil hai
@@ -35,7 +35,7 @@ romanLyrics: |-
   Chhup ke karte haiṅ Ali raat ko girya baba
 
   5
-  Dard itne haiṅ ke saare main sunaauṅ kaise
+  Dard itne haiṅ ke saare maiṅ sunaauṅ kaise
   Zakhm aise haiṅ ke Haidar ko dikhaauṅ kaise
   Saare zakhmoṅ ki gawaah hai meri Fizza baba
 

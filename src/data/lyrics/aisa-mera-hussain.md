@@ -1,6 +1,6 @@
 ---
 title: "حسین حسین یا حسین"
-alternateTitle: "Aisa Mera Hussain"
+alternateTitle: "Aisa Mera Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -17,7 +17,7 @@ romanLyrics: |-
   Waisa koi bhi nahiṅ
 
   1
-  Aisa dunya mein koi hai na hoga
+  Aisa dunya meiṅ koi hai na hoga
   Husain wo baadshah hai jo mulkoṅ pe nahiṅ
   Diloṅ pe hukumat karta hai
   Husain hamara hai
@@ -63,7 +63,7 @@ romanLyrics: |-
   Kal bhi tha aaj bhi hai
   Qabza har dil pe is ka Wallah
   Kal bhi tha aaj bhi hai
-  Aisa dunya mein koi hai na hoga
+  Aisa dunya meiṅ koi hai na hoga
   Wallah
 
   5
@@ -74,7 +74,7 @@ romanLyrics: |-
   Dharti ka raja hai
   Hum sab ka maula hai
   Har koi kehta hai
-  Har dil mein rehta hai
+  Har dil meiṅ rehta hai
 
   6
   Dil jaan jaan-e-jaana
@@ -91,13 +91,13 @@ romanLyrics: |-
   Sun le saara jahaṅ
 
   7
-  Khidmat-e-aza ki karta main aaya
-  Wirsa yehi aulad mein paya
+  Khidmat-e-aza ki karta maiṅ aaya
+  Wirsa yehi aulad meiṅ paya
   Majlis girya o matam
   Karte raheṅge har dam
   Mujh ko hai ye sukuṅ
   Hai paak mera khuṅ
-  Main rahuṅ na rahuṅ
+  Maiṅ rahuṅ na rahuṅ
   Bolega ye junuṅ
 
   8
@@ -128,9 +128,9 @@ romanLyrics: |-
   Karte haiṅ paidal safar
   Har taraf hai sar hi sar
   Hai thakan se bekhabar
-  Sardi mein garmi mein bhi
-  Hai safar mein har ghadi
-  Din mein shab mein har koi
+  Sardi meiṅ garmi meiṅ bhi
+  Hai safar meiṅ har ghari
+  Din meiṅ shab meiṅ har koi
   Karta rehta hai mashi
   Sab ka ye daata hai
   Har dil ko bhata hai

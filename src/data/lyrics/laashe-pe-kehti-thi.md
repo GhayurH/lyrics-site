@@ -16,8 +16,8 @@ romanLyrics: |-
   Laila ke dilbar Ali Akbar Ali Akbar
 
   1
-  Tiroṅ ke bal aaye jab sajde mein Shaah-e-umam
-  Ran mein unka sar hua kund khanjar se qalam
+  Tiroṅ ke bal aaye jab sajde meiṅ Shaah-e-umam
+  Ran meiṅ unka sar hua kund khanjar se qalam
   Lutne saadaat ko aa gayi fauj-e-sitam
   Sar jhukaae khaak par baithe haiṅ ahl-e-haram
   Ro raha hai aasmaaṅ ae mere Akbar jawaaṅ
@@ -25,15 +25,15 @@ romanLyrics: |-
   2
   Allah Allah ye sitam Allah Allah ye jafa
   Durre lagaae hameṅ chhin li sar se rida
-  Karbala mein har taraf ek andhera chhaa gaya
-  Zalzale mein hai zamiṅ khun ugalti hai faza
+  Karbala meiṅ har taraf ek andhera chhaa gaya
+  Zalzale meiṅ hai zamiṅ khun ugalti hai faza
   Khaima khaima hai dhuaaṅ ae mere Akbar jawaaṅ
 
   3
-  Ran mein bhai bekafan aur behan hai berida
+  Ran meiṅ bhai bekafan aur behan hai berida
   Rismaan-e-zulm hai aur Sakina ka gala
   Durroṅ se bimaar par karte haiṅ zaalim jafa
-  Nanhe nanhe bachchoṅ mein ek qayaamat hai bapa
+  Nanhe nanhe bachchoṅ meiṅ ek qayaamat hai bapa
   Lut raha hai kaarwaaṅ ae mere Akbar jawaaṅ
 
   4
@@ -44,23 +44,23 @@ romanLyrics: |-
   Tum ne bhi khaai sinaaṅ ae mere Akbar jawaaṅ
 
   5
-  Dil ka ye armaaṅ tha laauṅ main teri dulhan
+  Dil ka ye armaaṅ tha laauṅ maiṅ teri dulhan
   Shaadi rachaauṅ teri ae mere tashna dahan
-  Tapte hue dasht mein lut gaya mera chaman
+  Tapte hue dasht meiṅ lut gaya mera chaman
   Kaisi musibat hai ye kaisa ye ranj o mehan
   Kuchh to kaho meri jaaṅ ae mere Akbar jawaaṅ
 
   6
   Khaak ho ke reh gayi bachchi ki har aarzu
   Ho rahi hai zulm ki justaju pe justaju
-  Kab se hai jakra hua us ka rassi mein gulu
+  Kab se hai jakra hua us ka rassi meiṅ gulu
   Beh raha hai ab talak us ke kaanoṅ se lahu
   Yuṅ chhini haiṅ baaliyaaṅ ae mere Akbar jawaaṅ
 
   7
   Dekhte hi dekhte kaisa aaya inqilaab
-  Lut gaya pardes mein mere bete ka shabaab
-  Mil gaya sab khaak mein husn-e-risaalat-e-maab
+  Lut gaya pardes meiṅ mere bete ka shabaab
+  Mil gaya sab khaak meiṅ husn-e-risaalat-e-maab
   Maaṅ ki aankhoṅ ke liye ho gaya bas ek khwaab
   Tera sehra meri jaaṅ ae mere Akbar jawaaṅ
 

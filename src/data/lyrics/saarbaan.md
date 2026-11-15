@@ -18,8 +18,8 @@ romanLyrics: |-
   Waapas Madine aa gaya lo kaarwaaṅ ujra hua
   Ujri thi saari bibiyaaṅ Sajjad ka nauha ye tha
   Royeṅge tauq o beriyaaṅ
-  Wo Shaam aur main alamaan
-  Aisa bana main saarbaaṅ
+  Wo Shaam aur maiṅ alamaan
+  Aisa bana maiṅ saarbaaṅ
   Maula ghamzada naatawaaṅ saarbaaṅ
 
   2
@@ -27,7 +27,7 @@ romanLyrics: |-
   Koi nahiṅ mere siwa
   Daaghoṅ se hai sina bhara
   Tanha karuṅ kya kya bayaaṅ
-  Aisa bana main saarbaaṅ
+  Aisa bana maiṅ saarbaaṅ
   Maula ghamzada naatawaaṅ saarbaaṅ
 
   3
@@ -35,7 +35,7 @@ romanLyrics: |-
   Abbas wo Mir-e-Kaarwaaṅ
   Maara gaya kya naagaah
   Aakhir liye un ka nishaaṅ
-  Aisa bana main saarbaaṅ
+  Aisa bana maiṅ saarbaaṅ
   Maula ghamzada naatawaaṅ saarbaaṅ
 
   4
@@ -43,7 +43,7 @@ romanLyrics: |-
   Nezoṅ pe the pyaaroṅ ke sar
   Uthti na thi meri nazar
   Beparda behneṅ aur maaṅ
-  Aisa bana main saarbaaṅ
+  Aisa bana maiṅ saarbaaṅ
   Maula ghamzada naatawaaṅ saarbaaṅ
 
   5
@@ -51,7 +51,7 @@ romanLyrics: |-
   Chaaroṅ taraf the ashqiya
   Naamus meri berida
   Rota tha sun sun kar azaaṅ
-  Aisa bana main saarbaaṅ
+  Aisa bana maiṅ saarbaaṅ
   Maula ghamzada naatawaaṅ saarbaaṅ
 
   6
@@ -59,23 +59,23 @@ romanLyrics: |-
   Patthar ki bhi bauchhaar thi
   Aur wo haṅsi kuffaar ki
   Khaamosh thi meri zabaaṅ
-  Aisa bana main saarbaaṅ
+  Aisa bana maiṅ saarbaaṅ
   Maula ghamzada naatawaaṅ saarbaaṅ
 
   7
   Us Shaam ke baazaar ne
   Wo gham diye darbaar ne
-  Jab main laga lalkaarne
+  Jab maiṅ laga lalkaarne
   Dene lage zaalim azaaṅ
-  Aisa bana main saarbaaṅ
+  Aisa bana maiṅ saarbaaṅ
   Maula ghamzada naatawaaṅ saarbaaṅ
 
   8
   Rehaan o Sarwar umr bhar
   Aaṅkheṅ raheṅgi nauhagar
   Jis waqt Farsh-e-Dard par
-  Nauhe mein ho gaya ye bayaaṅ
-  Aisa bana main saarbaaṅ
+  Nauhe meiṅ ho gaya ye bayaaṅ
+  Aisa bana maiṅ saarbaaṅ
   Maula ghamzada naatawaaṅ saarbaaṅ
 # source_id: nohayonline:966ad8d15c0d5e44fbed
 # source_url: https://www.nohayonline.com/details_content.php?id=2058

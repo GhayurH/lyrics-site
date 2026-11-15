@@ -57,7 +57,7 @@ romanLyrics: |-
   Laakh mitaao mit na sake ga Aal-e-Nabi ka naam o nishaaṅ
   Laawaaris samjho na ise ye Khaaliq-e-Akbar ka hai makaan
   Bait se Ahl-e-Bait ka rishta kya toreṅ ge ahl-e-jahaaṅ
-  Kya jaane kab baam-e-falak se gunj uthe aawaaz-e-azaan
+  Kya jaane kab baam-e-falak se gunj uthe aawaaz-e-azaaṅ
   Ae Kaabe ke thekedaaro Kaabe waala baaqi hai
 # source_id: tajpoints:805f5c9d8245cd3229cd
 # source_url: https://tajpoints.com/2022/10/shabbir-ka-charcha-baqi-hai-mir-hasan.html

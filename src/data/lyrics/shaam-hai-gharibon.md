@@ -1,6 +1,6 @@
 ---
 title: "شام ہے غریبوں کی درد ناک منظر ہے"
-alternateTitle: "Shaam Hai Gharibon"
+alternateTitle: "Shaam Hai Ghariboṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Shaam hai ghariboṅ ki dardnaak manzar hai
-  Behavaas maidaan mein itrat-e-Payambar hai
+  Behavaas maidaan meiṅ itrat-e-Payambar hai
   Dardnaak manzar hai
 
   1
@@ -27,7 +27,7 @@ romanLyrics: |-
 
   3
   Ek yatim bachchi ko haye yuṅ mila pursa
-  Kaan ho gaye zakhmi pusht khuṅ mein tar hai
+  Kaan ho gaye zakhmi pusht khuṅ meiṅ tar hai
   Dardnaak manzar hai
 
   4
@@ -51,7 +51,7 @@ romanLyrics: |-
   Dardnaak manzar hai
 
   8
-  Sar hai sajde mein Sajid bahr-e-shukr bete ka
+  Sar hai sajde meiṅ Sajid bahr-e-shukr bete ka
   Saamne hi naize par baap ka kata sar hai
   Dardnaak manzar hai
 # source_id: nohayonline:12ea70f34cdd5133c180

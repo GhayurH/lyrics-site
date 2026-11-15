@@ -16,21 +16,21 @@ romanLyrics: |-
   Zainab ko Madina yaad aaya
 
   1
-  Mazlum ki thi sajde mein jabiṅ
+  Mazlum ki thi sajde meiṅ jabiṅ
   Zaalim ne chalaayi sheh pe chhuri
   Jis waqt gala bhai ka kata
   Zainab ko Madina yaad aaya
 
   2
-  Darya ke kinaare Karbal mein
+  Darya ke kinaare Karbal meiṅ
   Abbas ke baazu qalam hue
   Jab zin se utra shaah-e-wafa
   Zainab ko Madina yaad aaya
 
   3
-  Akbar ke kaleje mein thi ani
-  Aur tir gale mein Asghar mein
-  Sajde mein jhuka ik abd-e-Khuda
+  Akbar ke kaleje meiṅ thi ani
+  Aur tir gale meiṅ Asghar meiṅ
+  Sajde meiṅ jhuka ik abd-e-Khuda
   Zainab ko Madina yaad aaya
 
   4

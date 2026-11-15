@@ -12,12 +12,12 @@ aliases: ["Baab E Saat Par"]
 published: true
 romanLyrics: |-
   Baab-e-saaat par khari hai Fatema ki betiyaṅ
-  Shaam ke darbaar mein hai jashn ki tayyaariyaṅ
+  Shaam ke darbaar meiṅ hai jashn ki tayyaariyaṅ
 
   1
-  Wa Husaina ki sada hai itrat-e-athaar mein
-  Jaane kya guzri hai in par Shaam ke baazaar mein
-  Khun mein tar ho gayi kaunain ki shehzaadiyaṅ
+  Wa Husaina ki sada hai itrat-e-athaar meiṅ
+  Jaane kya guzri hai in par Shaam ke baazaar meiṅ
+  Khun meiṅ tar ho gayi kaunain ki shehzaadiyaṅ
 
   2
   Subah se thak jaate haiṅ jab shaami patthar maar kar
@@ -35,9 +35,9 @@ romanLyrics: |-
   Ab Sakina ko tamaanche de rahe haiṅ loriyaṅ
 
   5
-  Khun mein Baaqir ke shaamil ghairat-e-Abbas hai
+  Khun meiṅ Baaqir ke shaamil ghairat-e-Abbas hai
   Hai abhi kamsin magar is ko bhi ye ehsaas hai
-  Bazm mein noshi kahaaṅ aur saani-e-Zahra kahaaṅ
+  Bazm meiṅ noshi kahaaṅ aur saani-e-Zahra kahaaṅ
 
   6
   Ban gaya taarikh-e-ghurbat Shaam o Kufa ka safar

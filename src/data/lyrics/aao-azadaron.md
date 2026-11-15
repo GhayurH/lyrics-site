@@ -14,7 +14,7 @@ romanLyrics: |-
   Ab tak hai zabaanoṅ pe Alamdar Alamdar
   Ae qaafila-e-Shah ke saalaar Alamdar
   Abbas Alamdar
-  Ek sada kaanoṅ mein abhi tak
+  Ek sada kaanoṅ meiṅ abhi tak
   Gunj rahi hai logoṅ suno
   Ye hai sada Khatun-e-Jinaaṅ ki
   Hum bhi kaheṅ aur tum bhi kaho
@@ -26,7 +26,7 @@ romanLyrics: |-
   Ye wo alam hai jis ka pharera
   Saani-e-Zehra ki chadar hai
   Haaṅ ye alam jis ghar pe laga ho
-  Saaya-e-Zehra mein wo ghar hai
+  Saaya-e-Zehra meiṅ wo ghar hai
   Kya hai alam kya iski ataa hai
   Aao zamaane bhar ko bataayeṅ
 
@@ -35,7 +35,7 @@ romanLyrics: |-
   Hum pe Abu Talib ka karam hai
   Paas nahiṅ aayega koi gham
   Saaya fagan jab tak ye alam hai
-  Aao alam ke saaye mein aao
+  Aao alam ke saaye meiṅ aao
   Gham ka har ek ehsaas mitaayeṅ
 
   3
@@ -68,18 +68,18 @@ romanLyrics: |-
   Saara jahaaṅ ye baat kahega
   Naad-e-Ali hai qaumi taraana
   Qaumi alam aur qaumi parcham
-  Donoṅ mein hai jo farq mitaayeṅ
+  Donoṅ meiṅ hai jo farq mitaayeṅ
 
   7
-  Donoṅ mein hai jo farq mitaane
+  Donoṅ meiṅ hai jo farq mitaane
   Ghar se chale the Sibt-e-Payambar
   Chand jawaaṅ aur kuchh bachchoṅ se
   Sheh ne diya tartib ek lashkar
   Aao usi lashkar ki yaadeṅ
-  Saare jahaaṅ ke dil mein jagaayeṅ
+  Saare jahaaṅ ke dil meiṅ jagaayeṅ
 
   8
-  Saare jahaaṅ ke dil mein jagaayeṅ
+  Saare jahaaṅ ke dil meiṅ jagaayeṅ
   Yaad usi Ashur ki shab ki
   Ek alam tha aas wahaaṅ par
   Baali Sakina aur Zainab ki
@@ -88,7 +88,7 @@ romanLyrics: |-
 
   9
   Aas gayi farzand-e-Ali ki
-  Jab ye alam maqtal mein gira tha
+  Jab ye alam maqtal meiṅ gira tha
   Ek taraf Shabbir aur Zainab
   Ek taraf sadaat ka nauha
   Ae qaafila-e-Shah ke saalaar Alamdar

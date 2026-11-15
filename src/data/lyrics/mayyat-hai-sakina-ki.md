@@ -22,17 +22,17 @@ romanLyrics: |-
   2
   Urte hue dekhe jo parinde to pukaari
   Ae taayiroṅ Sughra ko khabar do ye hamaari
-  Tum khush raho Sughra meri qismat mein tha zindaan
+  Tum khush raho Sughra meri qismat meiṅ tha zindaan
 
   3
   Kaanoṅ ka lahu chaand se chehre pe jama tha
-  Khaimoṅ mein lagi aag to daaman bhi jala tha
-  Tanhaai mein bachchi ko dasta raha zindaan
+  Khaimoṅ meiṅ lagi aag to daaman bhi jala tha
+  Tanhaai meiṅ bachchi ko dasta raha zindaan
 
   4
   Sehmi hui rehti thi sitamgaaroṅ ke dar se
   Shikwe kiya karti thi faqat baap ke sar se
-  Likha gaya qismat mein ye kaisa zindaan
+  Likha gaya qismat meiṅ ye kaisa zindaan
 
   5
   Ab khaak pe soti huṅ na takiya hai na bistar
@@ -51,7 +51,7 @@ romanLyrics: |-
 
   8
   Maaṅ kehti rahi aao utho nind se jaago
-  Aazaad hui qaid se main jaati huṅ ghar ko
+  Aazaad hui qaid se maiṅ jaati huṅ ghar ko
   Milne chalo Sughra se ke ab khul gaya zindaan
 
   9

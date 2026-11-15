@@ -12,16 +12,16 @@ aliases: []
 published: true
 romanLyrics: |-
   Muslim se koi puchhe Zainab ki beridaai
-  Kufe mein jab behan ne rudaad-e-gham sunaai
+  Kufe meiṅ jab behan ne rudaad-e-gham sunaai
 
   1
   Baaloṅ se muṅh chhupa kar Zainab ye keh rahi thi
   Bhaiya hamaari ghairat paamaal ho chuki thi
-  Lekin kisi ko ran mein bilkul haya na aayi
+  Lekin kisi ko ran meiṅ bilkul haya na aayi
 
   2
   Aankheṅ to kholo apni har gham bhula chuki huṅ
-  Bhaiya main tum se milne Kufe tak aa gayi huṅ
+  Bhaiya maiṅ tum se milne Kufe tak aa gayi huṅ
   Koi bacha na apna bachche rahe na bhai
 
   3
@@ -35,7 +35,7 @@ romanLyrics: |-
   Tab khud Ali ne aa kar himmat meri barhaai
 
   5
-  Hoṅtoṅ pe hichkiyaaṅ thi pairoṅ mein aable the
+  Hoṅtoṅ pe hichkiyaaṅ thi pairoṅ meiṅ aable the
   Kaaṅtoṅ ke raastoṅ par hum log chal rahe the
   Sajjad kar kar rahe the us waqt rehnumaai
 
@@ -45,12 +45,12 @@ romanLyrics: |-
   Barbaad ho chuki hai bhaiya meri kamaai
 
   7
-  Har simt behayaai baazaar mein khari thi
-  Main ik rida ki khaatir pal pal tarap rahi thi
+  Har simt behayaai baazaar meiṅ khari thi
+  Maiṅ ik rida ki khaatir pal pal tarap rahi thi
   Lekin teri behan ne bhaiya rida na paayi
 
   8
-  Ae Shams Bibiyoṅ mein kohraam mach gaya tha
+  Ae Shams Bibiyoṅ meiṅ kohraam mach gaya tha
   Ik bhai ik behan se Rehan keh raha tha
   Majbur ae behan hai is waqt tera bhai
 # source_id: nohayonline:5377f39244f189589f40

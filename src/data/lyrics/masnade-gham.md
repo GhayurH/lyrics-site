@@ -19,7 +19,7 @@ romanLyrics: |-
   Umr bhar ki kamaai jaati hai
 
   2
-  Khuṅ mein dube haiṅ yuṅ Ali Akbar
+  Khuṅ meiṅ dube haiṅ yuṅ Ali Akbar
   Jaise chaadar urhaai jaati hai
 
   3
@@ -40,7 +40,7 @@ romanLyrics: |-
 
   7
   Boli Zainab utho utho Aabid
-  Aag ghar mein lagaai jaati hai
+  Aag ghar meiṅ lagaai jaati hai
 
   8
   Zikr-e-Maula ka faiz hai Mehshar

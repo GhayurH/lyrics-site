@@ -12,59 +12,59 @@ aliases: []
 published: true
 romanLyrics: |-
   Zainab ne kaha ye ro ro kar
-  Main qaidi huṅ
-  Baba aao dekho aa kar main qaidi huṅ
+  Maiṅ qaidi huṅ
+  Baba aao dekho aa kar maiṅ qaidi huṅ
 
   1
-  Darbaar mein beparda huṅ khari
-  Baazu mein rasan hai mere bandhi
+  Darbaar meiṅ beparda huṅ khari
+  Baazu meiṅ rasan hai mere bandhi
   Naye rang-e-zamaana dekhe koi
   Zaalim hai takht-e-Muhammad par
-  Main qaidi huṅ
+  Maiṅ qaidi huṅ
 
   2
   Nana ka utha jab se saaya
   Ek pal bhi na chain ham ne paaya
   Hote hote ye din aaya
   Shabbir ka sar hai naize par
-  Main qaidi huṅ
+  Maiṅ qaidi huṅ
 
   3
   Barbaad hua Zehra ka chaman
   Bhai hai mera begor o kafan
-  Main dukhiyaari laachaar behan
+  Maiṅ dukhiyaari laachaar behan
   Ro bhi nahiṅ sakti mayyat par
-  Main qaidi huṅ
+  Maiṅ qaidi huṅ
 
   4
   Aao aao Abbas-e-Ali
-  Khaimoṅ mein hai sab aag lagi
+  Khaimoṅ meiṅ hai sab aag lagi
   Beparda hui aulaad-e-Nabi
   Kya ho ga sitam is se barh kar
-  Main qaidi huṅ
+  Maiṅ qaidi huṅ
 
   5
   Wo dekho Sakina phir roi
   Phir maar raha hai koi shaqi
-  Baazu mein rasan hai mere bandhi
-  Main rokuṅ to rokuṅ kiun kar
-  Main qaidi huṅ
+  Baazu meiṅ rasan hai mere bandhi
+  Maiṅ rokuṅ to rokuṅ kiun kar
+  Maiṅ qaidi huṅ
 
   6
-  Main kehne Khuda haafiz aai
+  Maiṅ kehne Khuda haafiz aai
   Majbur hai bhaiya maaṅ jaai
   Kaise duṅ kafan tum ko bhai
   Chaadar bhi nahiṅ mere sar par
-  Main qaidi huṅ
+  Maiṅ qaidi huṅ
 
   7
   Qasim ho kahaaṅ Akbar ho kahaaṅ
   Ae Aun o Muhammad jaati hai maaṅ
   Abbas mere ae sher-e-jawaaṅ
   Dekho to zara bhaiya uth kar
-  Main qaidi huṅ
+  Maiṅ qaidi huṅ
 
-  Baba aao dekho aa kar main qaidi huṅ
+  Baba aao dekho aa kar maiṅ qaidi huṅ
 # Source variants: id=160 supplies the retained final-stanza order and "tum ko";
 # id=2919 reverses those two stanzas and reads "tujh ko". Neither adds a unique stanza.
 # source_id: nohayonline:37bb6f5c69158c79ac33

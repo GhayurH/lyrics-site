@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   Haidar ki shujaat ka andaaz nazar aaya
-  Wo shaam-e-gharibaaṅ mein Zainab ka na ghabraana
+  Wo shaam-e-gharibaaṅ meiṅ Zainab ka na ghabraana
 
   4
   Sar ki thi bina chaadar suraj bhi na nikla tha
@@ -39,7 +39,7 @@ romanLyrics: |-
   Afsos ke maadar ne bete ko na pehchaana
 
   7
-  Darbaar mein Fizza ne logoṅ se kaha ro kar
+  Darbaar meiṅ Fizza ne logoṅ se kaha ro kar
   Aati hai Nabi zaadi taazim ko jhuk jaana
 
   8
@@ -56,15 +56,15 @@ romanLyrics: |-
 
   11
   Socho to Musalmaano ye baat hi kya kam hai
-  Ahmad ki nawaasi ka darbaar mein aa jaana
+  Ahmad ki nawaasi ka darbaar meiṅ aa jaana
 
   12
   Sayyidaaniyoṅ ka us waqt kya haal hua hoga
-  Maasum ka ro ro kar zindaaṅ mein mar jaana
+  Maasum ka ro ro kar zindaan meiṅ mar jaana
 
   13
   Dunya to na bhulega manzar ye kabhi Nasir
-  Saanche mein imaamat ke Quraan ka dhal aana
+  Saanche meiṅ imaamat ke Quraan ka dhal aana
 # source_id: nohayonline:4e3106b9c1c9756ec53b
 # source_url: https://www.nohayonline.com/details_content.php?id=713
 # raw_sha256: b7b8ed522745ff08c61adf71a20433b478e56c34c1186424578b8a23fff94803

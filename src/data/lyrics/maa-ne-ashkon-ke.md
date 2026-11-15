@@ -12,14 +12,14 @@ aliases: []
 published: true
 romanLyrics: |-
   Maa ne ashkoṅ ke musalle pe sajaayi mehndi
-  Dast-e-Qasim pe tasavvur mein lagaayi mehndi
+  Dast-e-Qasim pe tasavvur meiṅ lagaayi mehndi
 
   1
   Shiddat-e-karb se Zainab ka ajab aalam tha
   Kaaṅpte haathoṅ se jab maa ne uthaayi mehndi
 
   2
-  Khaima-e-Sibt-e-Payambar mein tha ek hashr bapaa
+  Khaima-e-Sibt-e-Payambar meiṅ tha ek hashr bapaa
   Tishna lab bachchoṅ se jab parh ke sunaayi mehndi
 
   3
@@ -32,11 +32,11 @@ romanLyrics: |-
 
   5
   Lag gayi kaisi nazar Qasim-e-Naushaah tujhe
-  Ro ke maqtal mein ye deti thi duhaai mehndi
+  Ro ke maqtal meiṅ ye deti thi duhaai mehndi
 
   6
-  Jaane kya baat thi Aashur ki shab jannat mein
-  Tasht mein hur-e-jinaaṅ dekhne aayi mehndi
+  Jaane kya baat thi Aashur ki shab jannat meiṅ
+  Tasht meiṅ hur-e-jinaaṅ dekhne aayi mehndi
 
   7
   Jab talak zinda rahe asr ke haṅgaam ke baad
@@ -48,7 +48,7 @@ romanLyrics: |-
 
   9
   Irtaza gham se jigar chaak hua hai us dam
-  Juṅhi Asif ne jo majlis mein sunaayi mehndi
+  Juṅhi Asif ne jo majlis meiṅ sunaayi mehndi
 # source_id: nohayonline:7c71d60137fef33c93e0
 # source_url: https://www.nohayonline.com/details_content.php?id=1479
 # raw_sha256: 6e7744ef79235edb838621dd402ace2048c6c9b36599385369331911a4244ff3

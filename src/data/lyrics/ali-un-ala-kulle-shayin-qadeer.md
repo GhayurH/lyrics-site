@@ -28,7 +28,7 @@ romanLyrics: |-
   Aliun ala kull-e-shayin qadir
 
   3
-  Ali azeem Ali aalam Ali jaanam Ali Ali
+  Ali azim Ali aalam Ali jaanam Ali Ali
   Ali aala Ali baala Ali Aaqa Ali Ali
   Ali rehbar Ali bartar Ali behtar Ali Ali
   Ali baatin Ali zaahir Ali athar Ali taahir Ali qayyam Ali qadir

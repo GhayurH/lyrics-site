@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Shaam-e-ghurbat
   Hai Ummul Masaaib laqab aap ka
-  To main bint-e-mazlum-e-Karbobala
+  To maiṅ bint-e-mazlum-e-Karbobala
   Tamaache lage mera daaman jala
   Magar dil ko gham hai to is baat ka
   Kai roz se aap soyi nahiṅ
@@ -29,7 +29,7 @@ romanLyrics: |-
   Bataate the daadi ki baateṅ mujhe
   Sulaate the baba bare pyaar se
   Magar chand lamhoṅ ke is waqt ne
-  Mujhe ran mein itne tamaache lage
+  Mujhe ran meiṅ itne tamaache lage
   Ke ab Shaamiyoṅ ka nahiṅ koi dar
   Phuphi mujh se pehra badal lijiye
 
@@ -45,12 +45,12 @@ romanLyrics: |-
   Koi tir chhup kar chala de kahiṅ
   Phuphi zaalimoṅ ka bharosa nahiṅ
   Qasam khaa ke kehti huṅ beshir ki
-  Main gardan pe rokuṅgi tir-e-laiṅ
+  Maiṅ gardan pe rokuṅgi tir-e-laiṅ
   Ke ab aa gaya hai mujhe ye hunar
   Phuphi mujh se pehra badal lijiye
 
   4
-  Main karti huṅ pehre ki zid is liye
+  Maiṅ karti huṅ pehre ki zid is liye
   Sinaaṅ par shahidoṅ ke sar haiṅ rakhe
   Zara der to dur se hi sahi
   Nazar aa hi jaayeṅge baba mujhe

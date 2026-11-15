@@ -12,27 +12,27 @@ aliases: []
 published: true
 romanLyrics: |-
   Umm-e-Laila na bhul paayi azaaṅ Akbar ki
-  Ghut ke roti rahi zindaaṅ mein maaṅ Akbar ki
+  Ghut ke roti rahi zindaaṅ meiṅ maaṅ Akbar ki
 
   1
-  Tor di sina-e-Akbar mein adu ne barchhi
+  Tor di sina-e-Akbar meiṅ adu ne barchhi
   Kaun kar sakta hai bayaaṅ taklif bayaaṅ Akbar ki
 
   2
-  Aakhri waqt mein bete ne jo maanga paani
+  Aakhri waqt meiṅ bete ne jo maanga paani
   Dekh kar ro diye Shah khushk zabaaṅ Akbar ki
 
   3
   Maut ki hichki pe pahuncha tha bahan ka qaasid
-  Khat-e-Sughra mein thi atki hui jaaṅ Akbar ki
+  Khat-e-Sughra meiṅ thi atki hui jaaṅ Akbar ki
 
   4
-  Shaam mein bhaai ka sar dekh ke roya Sajjad
+  Shaam meiṅ bhaai ka sar dekh ke roya Sajjad
   Yaad bimaar ko aayi thi kahaaṅ Akbar ki
 
   5
   Umm-e-Laila ne yehi kah ke mala sar pe lahu
-  Rakhuṅ main koi nishaani to jawaan Akbar ki
+  Rakhuṅ maiṅ koi nishaani to jawaan Akbar ki
 
   6
   Dekhi darbaar ki haalat to pukaari Zainab
@@ -40,7 +40,7 @@ romanLyrics: |-
 
   7
   Ae Zafar koi bhi naasir ya madadgaar na tha
-  Siskiyaaṅ leti rahi raahoṅ mein maaṅ Akbar ki
+  Siskiyaaṅ leti rahi raahoṅ meiṅ maaṅ Akbar ki
 # source_id: nohayonline:9b1364bfb02eef5c07f1
 # source_url: https://www.nohayonline.com/details_content.php?id=1893
 # raw_sha256: 92a4869464c9ff56a2dbc954f4593f564322a9f8782cdf303494fb65cd35baba

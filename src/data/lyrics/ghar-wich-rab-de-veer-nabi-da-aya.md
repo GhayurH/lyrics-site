@@ -31,7 +31,7 @@ romanLyrics: |-
   3
   Saamne Ali de koi bhul ke vi aawe naa
   Ghar oh jahannam che apna banaawe naa
-  Koi le ke aaya nayi kisay ne banaaya nayi Rab ne baad Rasul imaam banaaya
+  Koi le ke aaya nayi kise ne banaaya nayi Rab ne baad Rasul imaam banaaya
 # source_id: tajpoints:9b2eaa785e6402f7d71f
 # source_url: https://tajpoints.com/2024/01/ghar-wich-rab-de-veer-nabi-da-aya.html
 # raw_sha256: 8e4349a3cd3fae1f535ddca71a96d14bee61e431215e020ec473033eaea0ca33

@@ -32,7 +32,7 @@ romanLyrics: |-
   3
   Rab ne shamshir di Nabi ne alam
   Rakhe dosh-e-Nabi pe kis ne qadam
-  Tore Kaabe mein jaa ke kis ne sanam
+  Tore Kaabe meiṅ jaa ke kis ne sanam
   Palta hai kis ke hukm se suraj
   Maujiza aur kya kisi ka hai
 
@@ -53,27 +53,27 @@ romanLyrics: |-
   6
   Chaudah sadiyoṅ se kis ka maatam hai
   Kis se mansub ye Muharram hai
-  Kis ke gham mein har aaṅkh pur nam hai
+  Kis ke gham meiṅ har aaṅkh pur nam hai
   Kis ne Quraaṅ sunaaya naize par
   Haaṅ ye farzand bhi Ali ka hai
 
   7
-  Kis ne sajde mein zarb khaayi hai
-  Innama kis ke haq mein aayi hai
+  Kis ne sajde meiṅ zarb khaayi hai
+  Innama kis ke haq meiṅ aayi hai
   Hal ataa kya payaam laayi hai
   Fuztu bi Rabb-e-Kaaba kisi ne kaha
   Kaun manshur zindagi ka hai
 
   8
-  Karbala mein luta hai kis ka ghar
+  Karbala meiṅ luta hai kis ka ghar
   Kis ke bete ka sar tha naize par
   Kis ki beti ki chhin gayi chaadar
   Kis ke bachchoṅ ki pyaas par ab tak
   Nauha darya pe tashangi ka hai
 
   9
-  Kis ke pote ke paaoṅ mein zanjir
-  Daali aadaa ne haaye be taqsir
+  Kis ke pote ke paaoṅ meiṅ zanjir
+  Daali aadaa ne haaye betaqsir
   Betiyaaṅ kis ki ho gayi thi asir
   Baazu kis ke pisar ke kaate gaye
   Silsila kiuṅ ye dushmani ka hai
@@ -87,7 +87,7 @@ romanLyrics: |-
 
   11
   Ye to Farhan ashk o girya hai
-  Majlis-e-gham mein ye jo nauha hai
+  Majlis-e-gham meiṅ ye jo nauha hai
   Is ka mehwar to ek pyaasa hai
   Kiuṅ na Rehaan ka qalam bole
   Farsh-e-gham naam bandagi hai

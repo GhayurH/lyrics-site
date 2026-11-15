@@ -20,10 +20,10 @@ romanLyrics: |-
 
   2
   Gum hote dekhti rahi saaya Husain ka
-  Uthte hue lahu mein bhanwar dekhti rahi
+  Uthte hue lahu meiṅ bhanwar dekhti rahi
 
   3
-  Chalta raha nasheb mein khanjar Husain par
+  Chalta raha nasheb meiṅ khanjar Husain par
   Khanjar ko dekh apna jigar dekhti rahi
 
   4
@@ -35,8 +35,8 @@ romanLyrics: |-
   The har taraf bagole jidhar dekhti rahi
 
   6
-  Khanjar tha haaye haafiz-e-saamit ke haath mein
-  Naatiq ko haaye khun mein tar dekhti rahi
+  Khanjar tha haaye haafiz-e-saamit ke haath meiṅ
+  Naatiq ko haaye khun meiṅ tar dekhti rahi
 
   7
   Lagta hai intizaar tha jis ka wo aa gaya
@@ -44,10 +44,10 @@ romanLyrics: |-
 
   8
   Kya dekhti rahi wo barasta hua lahu
-  Kya sholoṅ mein ghira hua ghar dekhti rahi
+  Kya sholoṅ meiṅ ghira hua ghar dekhti rahi
 
   9
-  Masruf-e-sair-e-arsh raha main jahaaṅ Naved
+  Masruf-e-sair-e-arsh raha maiṅ jahaaṅ Naved
   Har aankh mujh ko khaak asar dekhti rahi
 # source_id: nohayonline:fd4e670410f64ff56531
 # source_url: https://www.nohayonline.com/details_content.php?id=775

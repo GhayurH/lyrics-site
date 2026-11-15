@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Waqt-e-aakhir tha Haider ka nauha
   Alwida ae mere sogwaaroṅ
-  Chhor kar jaa raha huṅ main dunya
+  Chhor kar jaa raha huṅ maiṅ dunya
   Alwida ae mere sogwaaroṅ
 
   1
@@ -33,13 +33,13 @@ romanLyrics: |-
 
   4
   Har qadam par sataaya gaya huṅ
-  Besabab main rulaaya gaya huṅ
+  Besabab maiṅ rulaaya gaya huṅ
   Martaba koi samjha na mera
 
   5
-  Main ne dekha hai Zehra ka rona
+  Maiṅ ne dekha hai Zehra ka rona
   Aag ki zad pe Mohsin ko khona
-  Seh na paaya main ab tak wo sadma
+  Seh na paaya maiṅ ab tak wo sadma
 
   6
   Jab gale meiṅ rasan bandh rahi thi

@@ -15,7 +15,7 @@ romanLyrics: |-
   Jahaaṅ ko taaqat-e-haq kya hai ye dikha ke chale
 
   1
-  Husain dasht mein ghar apna go luta ke chale
+  Husain dasht meiṅ ghar apna go luta ke chale
   Nabi ke din ki qismat magar bana ke chale
 
   2
@@ -28,14 +28,14 @@ romanLyrics: |-
 
   4
   Hameṅ kate hue baazu ki yaad aane lagi
-  Hum apne haath mein jab bhi alam utha ke chale
+  Hum apne haath meiṅ jab bhi alam utha ke chale
 
   5
   Husain kehte the Akbar hai ab andhera jahaaṅ
   Tum apne sine pe zakhm-e-sinaaṅ jo khaa ke chale
 
   6
-  Ghashi ke haal mein Aabid ka jal gaya bistar
+  Ghashi ke haal meiṅ Aabid ka jal gaya bistar
   Jab aag khaime bedaadgar laga ke chale
 
   7
@@ -43,7 +43,7 @@ romanLyrics: |-
   Sitam ki inteha ahl-e-sitam dikha ke chale
 
   8
-  Yazid naam zamaane mein ho gaya laanat
+  Yazid naam zamaane meiṅ ho gaya laanat
   Husain is tarah Athar use mita ke chale
 # source_id: nohayonline:fa3acd78d762744d47cf
 # source_url: https://www.nohayonline.com/details_content.php?id=921

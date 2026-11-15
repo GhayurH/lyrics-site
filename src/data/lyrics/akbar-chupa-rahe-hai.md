@@ -11,8 +11,8 @@ aliases: []
 published: true
 reciter: "Raza Abbas Zaidi"
 romanLyrics: |-
-  Shabbir aa rahe haiṅ maqtal mein
-  Jis dam suna ke Baba maqtal mein aa rahe haiṅ
+  Shabbir aa rahe haiṅ maqtal meiṅ
+  Jis dam suna ke Baba maqtal meiṅ aa rahe haiṅ
   Zakhm-e-jigar ko apne Akbar chhupa rahe haiṅ
 
   1
@@ -26,13 +26,13 @@ romanLyrics: |-
   Hum raastoṅ ke kaante Baba hata rahe haiṅ
 
   3
-  Aana hai gar zaruri is dasht-e-beamaan mein
-  Is abr-e-tir o khanjar is baarish-e-sinaṅ mein
-  Abid ko bhej dijiye kiun aap aa rahe haiṅ
+  Aana hai gar zaruri is dasht-e-beamaan meiṅ
+  Is abr-e-tir o khanjar is baarish-e-sinaṅ meiṅ
+  Abid ko bhej dijiye kiuṅ aap aa rahe haiṅ
 
   4
-  Barchhi ka phal hamare sine mein kab hai utra
-  Yaad aa gayi thi Sughra sine mein dard utha
+  Barchhi ka phal hamare sine meiṅ kab hai utra
+  Yaad aa gayi thi Sughra sine meiṅ dard utha
   Sine pe haath rakh ke yaadeṅ bhula rahe haiṅ
 
   5
@@ -57,7 +57,7 @@ romanLyrics: |-
 
   9
   Laash-e-pisar pe Maula ghash kha ke gir chuke the
-  Maqtal mein gunjte the Sayyidaniyoṅ ke nohe
+  Maqtal meiṅ gunjte the Sayyidaniyoṅ ke nohe
   Rehaan aur Raza jo dohrae ja rahe haiṅ
 # source_id: nohayonline:24693a0212608e95f5c0
 # source_url: https://www.nohayonline.com/details_content.php?id=2389

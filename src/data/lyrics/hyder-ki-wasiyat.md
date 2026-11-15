@@ -37,11 +37,11 @@ romanLyrics: |-
   5
   Shabbir se bole ye Aabid ko bata dena
   Jab Shaam ho barpa to Zainab na rahe tanha
-  Baazaar ke manzar mein sadmaat uthaane ko
+  Baazaar ke manzar meiṅ sadmaat uthaane ko
 
   6
   Fizza ke liye ki hai Maula ne ye wasiyat
-  Darbaar-e-Yazidi mein jab zad pe hogi ismat
+  Darbaar-e-Yazidi meiṅ jab zad pe hogi ismat
   Tum dhaal wahaaṅ hona tathir bachaane ko
 
   7
@@ -50,9 +50,9 @@ romanLyrics: |-
   Beti jo Khuda dega sine pe sulaane ko
 
   8
-  Aakhir mein kiya Yasir Maula ne ada kalma
+  Aakhir meiṅ kiya Yasir Maula ne ada kalma
   Muslim meri beti ki khaatir hai mera lahja
-  Raahoṅ mein bina chaadar khutbaat sunaane ko
+  Raahoṅ meiṅ bina chaadar khutbaat sunaane ko
 # source_id: nohayonline:9e1e26acf1358256a61f
 # source_url: https://www.nohayonline.com/details_content.php?id=1684
 # raw_sha256: f2928557f6b16ea0d7ef58da115d35726db8dbaa3ec52c842478f02cfd01f789

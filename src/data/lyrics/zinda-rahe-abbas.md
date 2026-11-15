@@ -18,34 +18,34 @@ romanLyrics: |-
   Aisa na koi dekha na hai na koi hoga
   Bas ek hai bas ek hai jidaar alamdar
   Zinda rahe zinda rahe Abbas alamdar
-  Har dam hai sadaoṅ mein alamdar alamdar
+  Har dam hai sadaoṅ meiṅ alamdar alamdar
   Zinda rahe zinda rahe Abbas alamdar
   Ae sabr-e-dasht-e-Karbala jalaal-e-lashkar-e-Khuda
   Alamdar alamdar alamdar alamdar
 
   1
   Abbas salamat rahe ye naam tumhara
-  Ye naam jahan jis ne bhi jab jab hai pukara
-  Har baar ye dil tez dhadakta hai hamara
+  Ye naam jahaṅ jis ne bhi jab jab hai pukara
+  Har baar ye dil tez dharakta hai hamara
   Ye naam hi aisa hai Haidar ke hi jaisa hai
   Is naam se kitna hai hameṅ pyaar alamdar
   Zinda rahe zinda rahe Abbas alamdar
   Zinda rahe zinda rahe Abbas alamdar
 
-  Har dam hai sadaoṅ mein alamdar alamdar
+  Har dam hai sadaoṅ meiṅ alamdar alamdar
   Zinda rahe zinda rahe Abbas alamdar
   Alamdar alamdar alamdar alamdar
 
   2
   Kis shaan se Abbas alam tum ne uthaya
   Kya khub alamdari ka hai farz nibhaya
-  Phir aisa alamdar zamane mein na aaya
+  Phir aisa alamdar zamane meiṅ na aaya
   Guṅjega sada naara Abbas alam waala
   Taarikh pukaregi alamdar alamdar
   Zinda rahe zinda rahe Abbas alamdar
   Zinda rahe zinda rahe Abbas alamdar
 
-  Har dam hai sadaoṅ mein alamdar alamdar
+  Har dam hai sadaoṅ meiṅ alamdar alamdar
   Zinda rahe zinda rahe Abbas alamdar
   Ae sabr-e-dasht-e-Karbala jalaal-e-lashkar-e-Khuda
   Alamdar alamdar alamdar alamdar
@@ -59,7 +59,7 @@ romanLyrics: |-
   Zinda rahe zinda rahe Abbas alamdar
   Zinda rahe zinda rahe Abbas alamdar
 
-  Har dam hai sadaoṅ mein alamdar alamdar
+  Har dam hai sadaoṅ meiṅ alamdar alamdar
   Zinda rahe zinda rahe Abbas alamdar
   Alamdar alamdar alamdar alamdar
 
@@ -72,21 +72,21 @@ romanLyrics: |-
   Zinda rahe zinda rahe Abbas alamdar
   Zinda rahe zinda rahe Abbas alamdar
 
-  Har dam hai sadaoṅ mein alamdar alamdar
+  Har dam hai sadaoṅ meiṅ alamdar alamdar
   Zinda rahe zinda rahe Abbas alamdar
   Ae sabr-e-dasht-e-Karbala jalaal-e-lashkar-e-Khuda
   Alamdar alamdar alamdar alamdar
 
   5
   Darya pe to laakhoṅ hai khare zulm ke baani
-  Lekin ise mashkize mein laana bhi hai paani
+  Lekin ise mashkize meiṅ laana bhi hai paani
   Ab jaan se barh kar hai Sakina ki nishani
   Darya pe to jaana hai mashkiza to bharna hai
   Ab jo bhi ho dekhega wafadaar
   Zinda rahe zinda rahe Abbas alamdar
   Zinda rahe zinda rahe Abbas alamdar
 
-  Har dam hai sadaoṅ mein alamdar alamdar
+  Har dam hai sadaoṅ meiṅ alamdar alamdar
   Zinda rahe zinda rahe Abbas alamdar
   Alamdar alamdar alamdar alamdar
 
@@ -99,7 +99,7 @@ romanLyrics: |-
   Zinda rahe zinda rahe Abbas alamdar
   Zinda rahe zinda rahe Abbas alamdar
 
-  Har dam hai sadaoṅ mein alamdar alamdar
+  Har dam hai sadaoṅ meiṅ alamdar alamdar
   Zinda rahe zinda rahe Abbas alamdar
   Ae sabr-e-dasht-e-Karbala jalaal-e-lashkar-e-Khuda
   Alamdar alamdar alamdar alamdar

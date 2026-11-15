@@ -13,8 +13,8 @@ published: true
 romanLyrics: |-
   Ek roz roke fizza se zehra ne ye kaha
   Pehlu shikasta ho gaya tumko hai bas pata
-  Ye raaz raaz rakhna ke tooti hai phasliyan
-  Fizza meri musibatein karna na tum bayan
+  Ye raaz raaz rakhna ke tuti hai phasliyaṅ
+  Fizza meri musibateiṅ karna na tum bayaṅ
 
   Fizza na ye batana
 
@@ -29,27 +29,27 @@ romanLyrics: |-
 
   3
   Jab se hua hai fizza pehlu mera shikasta
-  Pehlu se haath mera uth'ta nahi hai fizza
-  Bachon ko chaahti hoo apne galay lagana
+  Pehlu se haath mera uthta nahi hai fizza
+  Bachoṅ ko chaahti hoo apne gale lagana
 
   4
-  Deewar o dar may pis kar mohsin bhi mar gaya hai
-  Tooti hai phasliyan sab darwaza yun gira hai
-  Ye raaz raaz rakhna bachon se bhi chipana
+  Diwar o dar may pis kar mohsin bhi mar gaya hai
+  Tuti hai phasliyaṅ sab darwaza yuṅ gira hai
+  Ye raaz raaz rakhna bachoṅ se bhi chipana
 
   5
   Pehlu ka dard mujhko har aan maarta tha
-  Pehlu ke tootne se mushkil tha saans lena
+  Pehlu ke tutne se mushkil tha saans lena
   Tadpi hoo dard se mai kitna nahi batana
 
   6
-  Be parda shaamiyon may jayegi meri beti
-  Tum aaj se ay fizza goya ke maa ho iski
+  Beparda shaamiyoṅ may jayegi meri beti
+  Tum aaj se ae fizza goya ke maa ho iski
   Zainab ke saath tumko bazaar bhi hai jaana
 
   7
   Tum jaanti ho fizza lagti hai pyaas usko
-  Mera hussain shab may awaaz de jo mujhko
+  Mera Husain shab may awaaz de jo mujhko
   Pani mere pisar ko fizza tum hi pilaana
 
   8
@@ -59,7 +59,7 @@ romanLyrics: |-
 
   9
   Danish rehan tumse razi rahenge hyder
-  Kausar ka jaam denge tum ko ba-roze mehshar
+  Kausar ka jaam deṅge tum ko ba-roze mehshar
   Zahra ki tum musibat har gaam par sunana
 # source_id: nohayonline:02b5d5c8f4ab87ef89e2
 # source_url: https://www.nohayonline.com/details_content.php?id=1392

@@ -1,6 +1,6 @@
 ---
 title: "عابد کو جہاں غش آتا ہے"
-alternateTitle: "Abid Ko Jahan Ghash"
+alternateTitle: "Abid Ko Jahaṅ Ghash"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -20,16 +20,16 @@ romanLyrics: |-
   Abbas ki ghairat se aksar
   Abid ki asiri puchhti hai
   Kya chaar baras ki behna ko
-  Zindaaṅ mein sulaya jaata hai
+  Zindaaṅ meiṅ sulaya jaata hai
 
   2
   Sadaat ke khaime jalte haiṅ
-  Sholoṅ mein ghiri hai Aal-e-Nabi
+  Sholoṅ meiṅ ghiri hai Aal-e-Nabi
   Phir aaj Nabi ki beti par
   Darwaza giraya jaata hai
 
   3
-  Reh reh ke Shah-e-Din dekhte haiṅ
+  Reh reh ke Shah-e-Diṅ dekhte haiṅ
   Neze se Sakina ki jaanib
   Lagta hai ke pusht-e-naqa se
   Bachchi ko giraya jaata hai
@@ -42,7 +42,7 @@ romanLyrics: |-
 
   5
   Ghairat ke sabab jis Bibi ne
-  Ghar mein bhi na dekha aaina
+  Ghar meiṅ bhi na dekha aaina
   Beparda use laane ke liye
   Darbaar sajaya jaata hai
 
@@ -59,9 +59,9 @@ romanLyrics: |-
   Neze pe charhaya jaata hai
 
   8
-  Parde mein Bilal-e-Karbobala
+  Parde meiṅ Bilal-e-Karbobala
   Roye na mera Maula kiun kar
-  Afsos ke turbat mein ab tak
+  Afsos ke turbat meiṅ ab tak
   Zehra ko rulaya jaata hai
 # source_id: nohayonline:1e019e004076ad33f066
 # source_url: https://www.nohayonline.com/details_content.php?id=1066

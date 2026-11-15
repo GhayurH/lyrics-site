@@ -11,7 +11,7 @@ tags: []
 aliases: ["Bhaiya Mujhe Bhool"]
 published: true
 romanLyrics: |-
-  Sab phuloṅ ke gehne mein sanwaari dulhan aaye
+  Sab phuloṅ ke gehne meiṅ sanwaari dulhan aaye
   Tum jaise ho bas waisi hi pyaari dulhan aaye
   Sar pe agar sehra sajaana
   Haath pe kangna jo bandhaana
@@ -20,14 +20,14 @@ romanLyrics: |-
   1
   Fatema Sughra ne ye Akbar ko likha hai
   Bhai salaamat raho behna ki dua hai
-  Baad-e-dua dil mein ye armaan basa hai
+  Baad-e-dua dil meiṅ ye armaan basa hai
   Masnad-e-shaadi jo bichhaana
 
   2
-  Baba ki aaghosh mein main bhi to pali huṅ
-  Bhaiya teri ungli pakar kar main chali huṅ
-  Kiuṅ main teri chhaaoṅ se mahrum rahi huṅ
-  Baba ki jab chhaaoṅ mein jaana
+  Baba ki aaghosh meiṅ maiṅ bhi to pali huṅ
+  Bhaiya teri ungli pakar kar maiṅ chali huṅ
+  Kiuṅ maiṅ teri chhaaoṅ se mahrum rahi huṅ
+  Baba ki jab chhaaoṅ meiṅ jaana
 
   3
   Baba se kehna ke meri jald khabar leṅ
@@ -37,7 +37,7 @@ romanLyrics: |-
 
   4
   Bhaiya tere baad jo din Id ka aaya
-  Id ke din idi mein gham main ne hai paaya
+  Id ke din idi meiṅ gham maiṅ ne hai paaya
   Mujh ko bhare ghar ki judaai ne rulaaya
   Dukh ye mera sab ko bataana
 
@@ -66,7 +66,7 @@ romanLyrics: |-
   Haath dua ko jo uthaana
 
   9
-  Haaye khat-e-Sughra ke aakhir mein likha tha
+  Haaye khat-e-Sughra ke aakhir meiṅ likha tha
   Achchha mere bhai Khuda ko tumheṅ sauṅpa
   Sarwar o Rehaan ye jumla bhi ajab tha
   Achchha meri qabr pe aana

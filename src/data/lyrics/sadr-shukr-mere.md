@@ -34,7 +34,7 @@ romanLyrics: |-
   Kehte hai dast-e-Fatima Zehra ke aable
   Paala hai chakki pis ke maadar ne pyaar se
   Jannat se kapre Eid pe bheje Khuda jise
-  Shukr-e-Khuda meiṅ baat wo kiun kar na ye kahe
+  Shukr-e-Khuda meiṅ baat wo kiuṅ kar na ye kahe
 
   4
   Aulaad waaloṅ tum hi karo dil se faisla

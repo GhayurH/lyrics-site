@@ -1,6 +1,6 @@
 ---
 title: "زہرا غریب ہو گیء بابا کے شہر میں"
-alternateTitle: "Baba Ke Shehr Mein"
+alternateTitle: "Baba Ke Shehr Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,33 +11,33 @@ tags: []
 aliases: ["Baba Ke Shehr May"]
 published: true
 romanLyrics: |-
-  Zahra gharib ho gayi baba ke shehr mein
-  Ghut ghut ke zindagi kati baba ke shehr mein
+  Zahra gharib ho gayi baba ke shehr meiṅ
+  Ghut ghut ke zindagi kati baba ke shehr meiṅ
 
   1
   Is dar ki manzilat se to shaahid hai khud Khuda
-  Be izn Jibrail bhi daakhil nahiṅ hua
-  Us dar pe aag dekh li baba ke shehr mein
+  Beizn Jibrail bhi daakhil nahiṅ hua
+  Us dar pe aag dekh li baba ke shehr meiṅ
 
   2
   Apne Nabi ki beti ko haq na diya gaya
   Haq ki gawaahi dene ko koi nahiṅ mila
-  Zahra pukaarti rahi baba ke shehr mein
+  Zahra pukaarti rahi baba ke shehr meiṅ
 
   3
   Hai Fatema ke waaste mahshar se kam nahiṅ
-  Haathoṅ mein Murtaza ke hai rassiyaṅ bandhi hui
-  Ghurbat Ali ki dekh li baba ke shehr mein
+  Haathoṅ meiṅ Murtaza ke hai rassiyaṅ bandhi hui
+  Ghurbat Ali ki dekh li baba ke shehr meiṅ
 
   4
-  Ro ro ke gham mein baap ke jaati rahi nazar
-  Athaara saal mein hui kham aap ki kamar
-  Kitni zaifa ho gayi baba ke shehr mein
+  Ro ro ke gham meiṅ baap ke jaati rahi nazar
+  Athaara saal meiṅ hui kham aap ki kamar
+  Kitni zaifa ho gayi baba ke shehr meiṅ
 
   5
   Gham ho bayaan kis tarah Ummul Husain ka
   Kaafi hai rone ke liye Alvi yehi sada
-  Beti tarap ke mar gayi baba ke shehr mein
+  Beti tarap ke mar gayi baba ke shehr meiṅ
 # source_id: nohayonline:ca045d2c7f612cba0766
 # source_url: https://www.nohayonline.com/details_content.php?id=1500
 # raw_sha256: 966f2a1fcb9544f10becb6f5609d1d2b8104754eca9068b1c05aba91a5ce8b54

@@ -18,7 +18,7 @@ romanLyrics: |-
   Maadar-e-beshir hai
 
   1
-  Main bhi Qasim ki tarah
+  Maiṅ bhi Qasim ki tarah
   Duṅgi Asghar khwaab tha
   Aaj tu ne laaj rakh li
   Ye meri taabir hai
@@ -31,18 +31,18 @@ romanLyrics: |-
 
   3
   Ro pare paikaaṅ kamaane
-  Ghash mein saare ambiya
-  Haath mein laasha pisar ka
-  Sajde mein Shabbir hai
+  Ghash meiṅ saare ambiya
+  Haath meiṅ laasha pisar ka
+  Sajde meiṅ Shabbir hai
 
   4
-  Khun mein dube hue
+  Khun meiṅ dube hue
   Laal se kehti thi maaṅ
   Uth tujhe milne hai aayi
   Haaye Sakina dilgir hai
 
   5
-  Dhup mein Tauseef ro ro
+  Dhup meiṅ Tausif ro ro
   Al-ajal ki de sada
   Muntazir Maula khari hai
   Aayat-e-tathir hai

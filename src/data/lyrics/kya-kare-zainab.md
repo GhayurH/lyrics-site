@@ -28,7 +28,7 @@ romanLyrics: |-
 
   3
   Tiri har zarb ka Ghaazi behan se le ga wo badla
-  Laiṅ khaime mein aaya hai uthaakar haath mein durra
+  Laiṅ khaime meiṅ aaya hai uthaakar haath meiṅ durra
   Tumhi Bint-e-Ali ho puchhta hai kya kare Zainab
 
   4
@@ -38,33 +38,33 @@ romanLyrics: |-
 
   5
   Kaha Zainab ne Aabid se Imam-e-waqt batlaaeṅ
-  Yahiṅ khaimoṅ mein jal jaaeṅ ya ham baahar nikal jaaeṅ
+  Yahiṅ khaimoṅ meiṅ jal jaaeṅ ya ham baahar nikal jaaeṅ
   Utho Sajjad mushkil marhala hai kya kare Zainab
 
   6
   Kaha ye Saad ke bete ne aa kar Ibn-e-Naufal se
-  Safar mein chaahe sab soeṅ magar Zainab nahiṅ soe
+  Safar meiṅ chaahe sab soeṅ magar Zainab nahiṅ soe
   Abhi se waram rukh par aa gaya hai kya kare Zainab
 
   7
   Use ek maaṅ ki tarah apne sine se laga leti
-  Rasan haathoṅ mein na hoti to girne se bacha leti
+  Rasan haathoṅ meiṅ na hoti to girne se bacha leti
   Sar-e-Ghaazi sinaṅ se gir raha hai kya kare Zainab
 
   8
-  Koi apna nahiṅ tanha khari hai dasht mein dekho
+  Koi apna nahiṅ tanha khari hai dasht meiṅ dekho
   Kafan kaise de athaara Bani Haashim ke laashoṅ ko
   Madina to nahiṅ ye Karbala hai kya kare Zainab
 
   9
   Kahaaṅ ho laal aa jaao tumheiṅ maaṅ yaad karti hai
-  Uthaakar raakh haathoṅ mein Rabab ek simt baithi hai
+  Uthaakar raakh haathoṅ meiṅ Rabab ek simt baithi hai
   Ali Asghar ka jhula jal chuka hai kya kare Zainab
 
   10
   Hai pehli shab yatimi ki use nind aaegi kaise
   Ae Zishaan o Raza baali Sakina soti thi jis pe
-  Wo sina ran mein tiroṅ se bhara hai kya kare Zainab
+  Wo sina ran meiṅ tiroṅ se bhara hai kya kare Zainab
 # source_id: nohayonline:a0fdcd9c2ee72c0d3cf6
 # source_url: https://www.nohayonline.com/details_content.php?id=2819
 # raw_sha256: 07ffce4741d90b79491f124843b404ab0c95fd4b5cd5c6174a0ee89f5bb2e1d5

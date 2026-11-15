@@ -17,9 +17,9 @@ romanLyrics: |-
   Aur is ka naam Sakina hai
 
   1
-  Ek din mein ghar wiraan hua
+  Ek din meiṅ ghar wiraan hua
   Aur jaane ka samaan hua
-  Baba ka sar sajde mein kata
+  Baba ka sar sajde meiṅ kata
   Afsos ke ab koi na raha
 
   2
@@ -50,10 +50,10 @@ romanLyrics: |-
   Ab aur shaqi rulwaayeṅ ge
   In ko to qaidi banaayeṅ ge
   Ye dar dar sab ko phiraayeṅ ge
-  Darbaar mein bhi le jaayeṅ ge
+  Darbaar meiṅ bhi le jaayeṅ ge
 
   7
-  Phir qaid mein kya aalam hoga
+  Phir qaid meiṅ kya aalam hoga
   Kab zulm-e-Yazidi kam hoga
   Dukhiyoṅ ko taaza gham hoga
   Is bachchi ka maatam hoga

@@ -17,7 +17,7 @@ romanLyrics: |-
   Qatl ka mere lamha qarib aa gaya
   Ek andhera sa chaaroṅ taraf chha gaya
   Waqt se pehle suraj bhi gehan aa gaya
-  Main huṅ tanha mera har sahaara gaya
+  Maiṅ huṅ tanha mera har sahaara gaya
 
   2
   Chalte chalte faqat tum se hai ek sawaal
@@ -27,7 +27,7 @@ romanLyrics: |-
 
   3
   Jab giruṅ apne ghore se su-e-zamiṅ
-  Aur jhuka duṅ main sajde meiṅ apni jabiṅ
+  Aur jhuka duṅ maiṅ sajde meiṅ apni jabiṅ
   Mujh ko zabh karega jo Shimr-e-laiṅ
   Tum na aa jaana khaime se baahar kahiṅ
 

@@ -28,8 +28,8 @@ romanLyrics: |-
   Aaiye maula
 
   2
-  Sar khule jisko phiraya shaam ke baazaar mein
-  Haye wo jisko bulaya berida darbar mein
+  Sar khule jisko phiraya shaam ke baazaar meiṅ
+  Haye wo jisko bulaya berida darbar meiṅ
   Haaṅ usi Zainab ka aa kar lijiye pursa
   Aaiye maula
 
@@ -64,8 +64,8 @@ romanLyrics: |-
   Aaiye maula
 
   8
-  Aaj bhi hai qabr-e-Zahra dhup mein tuti hui
-  Hai dua Zeeshan o Irfan-e-aza lab par yehi
+  Aaj bhi hai qabr-e-Zahra dhup meiṅ tuti hui
+  Hai dua Zishan o Irfan-e-aza lab par yehi
   Kijiye tamir aa kar rauza-e-Zahra
   Aaiye maula
 # source_id: nohayonline:0154cc28f55932aff958

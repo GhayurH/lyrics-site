@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Bas Husain raazi rahe Husain raazi rahe
 
-  Hamesha bichhta rahe ghar mein mere farsh-e-aza
+  Hamesha bichhta rahe ghar meiṅ mere farsh-e-aza
   Husain raazi rahe bas Husain raazi rahe
 
   Zamaana ruthe ya phir chhute koi bhi rishta
@@ -34,7 +34,7 @@ romanLyrics: |-
   3
   Ye apne bachchoṅ ko maaoṅ ne tarbiyat di hai
   Gham-e-Husain manaao ye pursa daari hai
-  Jiyo Husain ke gham mein ye baap ne bhi kaha
+  Jiyo Husain ke gham meiṅ ye baap ne bhi kaha
   Bas Husain raazi rahe Husain raazi rahe
 
   4
@@ -45,8 +45,8 @@ romanLyrics: |-
 
   5
   Husain dil hai Husain jaan hai
-  Diloṅ ki dharkan mein bhi rawaaṅ hai
-  Tapish mein gham ki ye saayabaaṅ hai
+  Diloṅ ki dharkan meiṅ bhi rawaaṅ hai
+  Tapish meiṅ gham ki ye saayabaaṅ hai
   Husain tauhid ki zabaaṅ hai
   Khuda ka kalma jahaaṅ jahaaṅ hai
   Husain mera wahaaṅ wahaaṅ hai
@@ -59,25 +59,25 @@ romanLyrics: |-
 
   7
   Kahiṅ pe bhai ke baazu kahiṅ behan ke pisar
-  Khuda ki raah mein di hai jawaani-e-Akbar
-  Jis imtihaan mein laati rahi Khuda ki raza
+  Khuda ki raah meiṅ di hai jawaani-e-Akbar
+  Jis imtihaan meiṅ laati rahi Khuda ki raza
   Bas Husain raazi rahe Husain raazi rahe
 
   8
-  Yehi najaat ka zariya banega mahshar mein
-  Sar apna faqr se uṅcha rahega mahshar mein
+  Yehi najaat ka zariya banega mahshar meiṅ
+  Sar apna faqr se uṅcha rahega mahshar meiṅ
   Ab is khayaal se barh kar bhi aur kya hoga
   Bas Husain raazi rahe Husain raazi rahe
 
   9
   Husain tu jo nahiṅ hai to ghar nahiṅ kuch bhi
-  Kate jo ishq mein tere to sar nahiṅ kuch bhi
+  Kate jo ishq meiṅ tere to sar nahiṅ kuch bhi
   Habib ibn-e-Mazaahir ki dosti ne kaha
   Bas Husain raazi rahe Husain raazi rahe
 
   10
   Kiya Husain ne Aamir tujhe safir-e-aza
-  Ata se un ki main shaair-e-Ahl-e-Bait hua
+  Ata se un ki maiṅ shaair-e-Ahl-e-Bait hua
   Khuda se paauṅ Shanawar ye khidmatoṅ ka sila
   Bas Husain raazi rahe Husain raazi rahe
 # source_id: nohayonline:abbb9ef00c0718947f76

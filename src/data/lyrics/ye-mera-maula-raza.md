@@ -24,7 +24,7 @@ romanLyrics: |-
   2
   Aaye haiṅ janaaze pe Nabi Shaah-e-umam bhi
   Kulsum o Ruqayya bhi hai Maasuma-e-Qum bhi
-  Wo Bibi hai Karbala mein jali jis ki aba hai
+  Wo Bibi hai Karbala meiṅ jali jis ki aba hai
 
   3
   Yuṅ luta musalmaanoṅ ne Zehra ke chaman ko

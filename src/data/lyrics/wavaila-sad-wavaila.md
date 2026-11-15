@@ -15,18 +15,18 @@ romanLyrics: |-
 
   1
   Shioṅ karo tum aah o buka wawaila
-  Qabr mein roti hai Zehra wawaila
+  Qabr meiṅ roti hai Zehra wawaila
   Ahl-e-watan se haal-e-safar
   Karti hai bayaaṅ Zainab dukhiya wawaila
 
   2
-  Main ne sahe andoh o alam wawaila
+  Maiṅ ne sahe andoh o alam wawaila
   Mujh pe hue haiṅ zulm o sitam wawaila
   Ru ba ru mere Shimr-e-laiṅ ne
   Bhai ka mere kaata gala wawaila
 
   3
-  Dhup mein the laashe saare wawaila
+  Dhup meiṅ the laashe saare wawaila
   Jaise falak par ho taare wawaila
   Jalti zamiṅ par tan the sabhoṅ ke
   Naize pe sar tha haae sab ka wawaila
@@ -40,8 +40,8 @@ romanLyrics: |-
   5
   Tauq pehnaaya Aabid ko wawaila
   Aur sataaya zaahid ko wawaila
-  Jism mein tap aur paaoṅ mein chhaale
-  Dil mein gham sab kunbe ka wawaila
+  Jism meiṅ tap aur paaoṅ meiṅ chhaale
+  Dil meiṅ gham sab kunbe ka wawaila
 
   6
   Chal nahiṅ sakta tha bimaar wawaila
@@ -52,7 +52,7 @@ romanLyrics: |-
   7
   Pusht thi zakhmi naizoṅ pe wawaila
   Khun ke naale tan se bahe wawaila
-  Likhna Rafi ab Shaam ki raah mein
+  Likhna Rafi ab Shaam ki raah meiṅ
   Zulm jo Aabid sehta tha wawaila
 # source_id: nohayonline:d7246163947f86184e50
 # source_url: https://www.nohayonline.com/details_content.php?id=2120

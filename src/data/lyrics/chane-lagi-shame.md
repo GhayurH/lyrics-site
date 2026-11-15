@@ -32,7 +32,7 @@ romanLyrics: |-
   Haye qayamat ka hai samaaṅ
 
   3
-  Khuṅ mein hai tar sher-e-jari ka alam
+  Khuṅ meiṅ hai tar sher-e-jari ka alam
   Ho gaya Shabbir ka bhi sar qalam
   Khushiyaṅ manaane lagi fauj-e-sitam
   Gham se tabaah haal hai ahl-e-haram
@@ -44,14 +44,14 @@ romanLyrics: |-
   Qasim o Abbas dilaawar nahiṅ
   Haye koi munis o yaawar nahiṅ
   Khaima nahiṅ miqna o chaadar nahiṅ
-  Dasht mein haiṅ Aal-e-Nabi be amaaṅ
+  Dasht meiṅ haiṅ Aal-e-Nabi beamaaṅ
   Haye qayamat ka hai samaaṅ
 
   5
   Maadar-e-Akbar ka ajab haal hai
   Deta hai jab koi tasalli use
   Kehti hai dil thaam ke rote hue
-  Kho gaye is ban mein sahaare mere
+  Kho gaye is ban meiṅ sahaare mere
   Mar gaya haye mera kariyal jawaaṅ
   Haye qayamat ka hai samaaṅ
 
@@ -64,17 +64,17 @@ romanLyrics: |-
   Haye qayamat ka hai samaaṅ
 
   7
-  Maaṅ huṅ har ek ranj uthaauṅgi main
-  Rote hue khud chali jaauṅgi main
-  Dhund ke beshir ko laauṅgi main
-  Us ke bina ji nahiṅ paauṅgi main
+  Maaṅ huṅ har ek ranj uthaauṅgi maiṅ
+  Rote hue khud chali jaauṅgi maiṅ
+  Dhund ke beshir ko laauṅgi maiṅ
+  Us ke bina ji nahiṅ paauṅgi maiṅ
   Reh gaya haye mera bachcha kahaaṅ
   Haye qayamat ka hai samaaṅ
 
   8
   Hai ye Gohar azmat-e-Bint-e-Ali
   Sab ko sambhaala bhi hifaazat bhi ki
-  Gham mein Shaah-e-Diṅ ke bhi roti rahi
+  Gham meiṅ Shaah-e-Diṅ ke bhi roti rahi
   Maamta pe aanch bhi aane na di
   Maaṅ to hai bas Aun o Muhammad ki maaṅ
   Haye qayamat ka hai samaaṅ

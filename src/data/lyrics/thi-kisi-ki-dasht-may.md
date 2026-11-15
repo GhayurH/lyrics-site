@@ -1,6 +1,6 @@
 ---
 title: "تھی کسی کی دشت میں صدا"
-alternateTitle: "Thi Kisi Ki Dasht Mein"
+alternateTitle: "Thi Kisi Ki Dasht Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Thi kisi ki dasht mein sada
+  Thi kisi ki dasht meiṅ sada
   Haaye ham yatim ho gaye
   Fatima ka ghar ujar gaya
   Haaye ham yatim ho gaye
@@ -19,7 +19,7 @@ romanLyrics: |-
   1
   Jaane kaisi shaam aayi thi
   Apne saath sab ko le gayi
-  Ek din mein kya se kya hua
+  Ek din meiṅ kya se kya hua
   Haaye ham yatim ho gaye
 
   2

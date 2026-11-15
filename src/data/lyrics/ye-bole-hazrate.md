@@ -29,7 +29,7 @@ romanLyrics: |-
   3
   Bhaga ke fauj-e-sitam aur bhar ke nehr se mashk
   Su-e-khayaam phire larte fauj-e-akfaar se
-  Thi mashk dosh par aur dast-e-raast mein neza
+  Thi mashk dosh par aur dast-e-raast meiṅ neza
   Jo ek laiṅ ne kiya us pe waar khanjar se
 
   4
@@ -40,8 +40,8 @@ romanLyrics: |-
 
   5
   Magar thi koshish-e-Abbas paani bach jaaye
-  Ke surkh ru huṅ pila kar main bint-e-Sarwar se
-  Daba ke daantoṅ mein tasma barhe the aap abhi
+  Ke surkh ru huṅ pila kar maiṅ bint-e-Sarwar se
+  Daba ke daantoṅ meiṅ tasma barhe the aap abhi
   Ke aa ke tir para lashkar-e-sitamgar se
 
   6
@@ -58,21 +58,21 @@ romanLyrics: |-
 
   8
   Kidhar se aayi nida jald le chalo beta
-  Ke marte waqt gale mil luṅ main baraadar se
-  Gharaz ke pahunche to ghaltaaṅ the khun mein Abbas
+  Ke marte waqt gale mil luṅ maiṅ baraadar se
+  Gharaz ke pahunche to ghaltaaṅ the khun meiṅ Abbas
   Na dekhi jaati thi haalat jari ki Sarwar se
 
   9
   Utha ke sar rakha zaanu pe aur ro ke kaha
   Agar ho koi tamanna kaho baraadar se
   Kaha ye Hazrat-e-Abbas ne ke ae Aaqa
-  Tha dil mein shauq-e-ziyaarat magar muqaddar se
+  Tha dil meiṅ shauq-e-ziyaarat magar muqaddar se
 
   10
   Ek aaṅkh tir se zakhmi hai aur dusri par
-  Jama hai khun nikal kar shigaafta sar se
-  Aba ka daaman utha kar wo khun Shaah-e-din ne
-  Chhuraaya dasht mein ro ro ke dast-e-athar se
+  Jama hai khuṅ nikal kar shigaafta sar se
+  Aba ka daaman utha kar wo khuṅ Shaah-e-diṅ ne
+  Chhuraaya dasht meiṅ ro ro ke dast-e-athar se
 
   11
   Rukh-e-Husain ko hasrat se dekh kar ek baar
@@ -90,7 +90,7 @@ romanLyrics: |-
   Khitaab sheh se kiya phir ke mere laashe ko
   Huzur uthaaye na lillaah is jagah par se
   Kiya tha waada Sakina se paani laane ka
-  Huṅ sharmsaar main Aaqa ki pyaari dukhtar se
+  Huṅ sharmsaar maiṅ Aaqa ki pyaari dukhtar se
 
   14
   Ye kehte kehte sidhaare su-e-jinaaṅ Abbas

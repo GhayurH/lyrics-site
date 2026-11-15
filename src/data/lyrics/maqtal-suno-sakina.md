@@ -16,13 +16,13 @@ romanLyrics: |-
 
   1
   Qasam tumhaare baraadar ki jhuk gayi hai kamar
-  Main maaṅ ke paas bhi jaati huṅ ghutniyoṅ chal kar
+  Maiṅ maaṅ ke paas bhi jaati huṅ ghutniyoṅ chal kar
   Sitam hi itne hue chaar saala Zehra par
   Mujhe bhi thik se Baba nazar nahiṅ aata
 
   2
   Hai taaziyaanoṅ se zakhmi mera badan Baba
-  Gale ke zakhm mein paiwast hai rasan Baba
+  Gale ke zakhm meiṅ paiwast hai rasan Baba
   Yehi libaas banega mera kafan Baba
   Badal na paayegi ghussaala bhi mera kurta
 
@@ -33,16 +33,16 @@ romanLyrics: |-
   Unhiṅ tamaachoṅ se sujha hua hai ye chehra
 
   4
-  Gale mein mere rasan ban gayi hai ye khanjar
+  Gale meiṅ mere rasan ban gayi hai ye khanjar
   Ragoṅ se khun tapakta hai mere kurte par
-  Tum ek baar hue qatl Karbala mein magar
-  Main baar baar hui zibh ae mere Baba
+  Tum ek baar hue qatl Karbala meiṅ magar
+  Maiṅ baar baar hui zibh ae mere Baba
 
   5
   Ab is andhere se kab aur darne waali huṅ
-  Main kuch Shaam ke zindaaṅ se karne waali huṅ
-  Mujhe pata hai main is shab mein marne waali huṅ
-  The lene aaye mujhe khwaab mein abhi bhaiya
+  Maiṅ kuch Shaam ke zindaaṅ se karne waali huṅ
+  Mujhe pata hai maiṅ is shab meiṅ marne waali huṅ
+  The lene aaye mujhe khwaab meiṅ abhi bhaiya
 
   6
   Sunaauṅ kaise riwaayat shahid hone ki
@@ -64,9 +64,9 @@ romanLyrics: |-
 
   9
   Bataaya bachchi ne Sajjad baap ko ro kar
-  Har ek shehr mein maare gaye mujhe patthar
-  Main sidhi ho nahiṅ paayi chali huṅ jhuk jhuk kar
-  Hai dard tuti hui pasliyoṅ mein shiddat ka
+  Har ek shehr meiṅ maare gaye mujhe patthar
+  Maiṅ sidhi ho nahiṅ paayi chali huṅ jhuk jhuk kar
+  Hai dard tuti hui pasliyoṅ meiṅ shiddat ka
 # source_id: nohayonline:d7dd94c94f761987c66b
 # source_url: https://www.nohayonline.com/details_content.php?id=3668
 # raw_sha256: b768c585049fbc514afcd9909b65b63c1f65851361b1d36e95e65ca631dccf27

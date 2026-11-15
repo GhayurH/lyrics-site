@@ -19,12 +19,12 @@ romanLyrics: |-
   Jibril samete hue phirte hai paroṅ ko
 
   1
-  Hyder ka laal aaya tha maidaan mein jis ghari
+  Hyder ka laal aaya tha maidaan meiṅ jis ghari
   Dam ruk gaya sipaah ka rangat bhi thi uri
 
   2
-  Taarikh-e-Karbala mein hai tahrir is tarah
-  Be tegh jang Hazrat-e-Abbas ne lari
+  Taarikh-e-Karbala meiṅ hai tahrir is tarah
+  Betegh jang Hazrat-e-Abbas ne lari
 
   3
   Pahuncha tha aisi shaan se wo jaanib-e-Furaat
@@ -32,11 +32,11 @@ romanLyrics: |-
 
   4
   Ehsaan mand ho gaya paani bhi us ghari
-  Nehr-e-Furaat mashk-e-Sakina mein jab bhari
+  Nehr-e-Furaat mashk-e-Sakina meiṅ jab bhari
 
   5
   Chhupke kiya wo waar ke baazu qalam hue
-  Daantoṅ mein mashk le ke chala sher-e-Hyderi
+  Daantoṅ meiṅ mashk le ke chala sher-e-Hyderi
 
   6
   Naagaah ek tir se jab mashk chhid gayi
@@ -59,7 +59,7 @@ romanLyrics: |-
   Ghaazi ye bole aaqa hai is waqt aajizi
 
   11
-  Ek aaṅkh mein hai khun to ek aaṅkh mein hai tir
+  Ek aaṅkh meiṅ hai khun to ek aaṅkh meiṅ hai tir
   Kar luṅ ziyaarat aap ki ho jaaye roshni
 
   12
@@ -68,7 +68,7 @@ romanLyrics: |-
 
   13
   Bole Husain Ghaazi se khwaahish hai ek meri
-  Main jaanta huṅ tum ko hai kya meri aashiqi
+  Maiṅ jaanta huṅ tum ko hai kya meri aashiqi
 
   14
   Taa umr aaqa kahte rahe mujh ko ye bhaai tum

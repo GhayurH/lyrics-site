@@ -32,7 +32,7 @@ romanLyrics: |-
   Ab wo Zainab nahiṅ rahi Zainab
 
   2
-  Itne chhale pare haiṅ pairoṅ mein
+  Itne chhale pare haiṅ pairoṅ meiṅ
   Mujh se bhaiya chala nahiṅ jaata
   Dil ye kehta hai keh duṅ sab tum se
   Par zabaaṅ se kaha nahiṅ jaata
@@ -42,7 +42,7 @@ romanLyrics: |-
   3
   Bekasi maaṅ ki yaad aati thi
   Apni ghurbat ko bhul jaati thi
-  Mujh ko darbaar mein sharaabi ke
+  Mujh ko darbaar meiṅ sharaabi ke
   Amma Zahra ki yaad aati thi
   Log teri behan pe haṅste the
   Sar jhukaye khari rahi Zainab

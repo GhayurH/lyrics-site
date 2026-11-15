@@ -1,6 +1,6 @@
 ---
 title: "کڑیل جوان اکبر مرنے کو جا رہا ہے"
-alternateTitle: "Kadiyal Jawan Akbar"
+alternateTitle: "Kariyal Jawan Akbar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,11 +12,11 @@ aliases: []
 published: true
 romanLyrics: |-
   Kariyal jawaan Akbar marne ko jaa raha hai
-  Khaamosh hai khudaai sakte mein Karbala hai
+  Khaamosh hai khudaai sakte meiṅ Karbala hai
 
   1
   Maaṅ sher se pisar ko hasrat se tak rahi hai
-  Chehre pe bekasi hai aankhoṅ mein bebasi hai
+  Chehre pe bekasi hai aankhoṅ meiṅ bebasi hai
   Akbar rahe salaamat hoṅtoṅ pe ye dua hai
 
   2
@@ -27,16 +27,16 @@ romanLyrics: |-
   3
   Sar pitta hai koi karta hai koi maatam
   Hai aisa gham ke maare Sayyidaaniyoṅ ka aalam
-  Khaimoṅ mein Shaah-e-Diṅ ke kohraam mach gaya hai
+  Khaimoṅ meiṅ Shaah-e-Diṅ ke kohraam mach gaya hai
 
   4
-  Darya ki simt dekha thokar jo ran mein khaai
+  Darya ki simt dekha thokar jo ran meiṅ khaai
   Kuchh der ko to aa jaa Abbas mere bhaai
-  Ye keh ke mera Maula maqtal mein gir gaya hai
+  Ye keh ke mera Maula maqtal meiṅ gir gaya hai
 
   5
   Baano tarap ke boli armaan to barhaa luṅ
-  Apne jawaaṅ pisar ko dulha to main banaa luṅ
+  Apne jawaaṅ pisar ko dulha to maiṅ banaa luṅ
   Aayega ab na waapas Akbar mujhe pata hai
 
   6
@@ -45,14 +45,14 @@ romanLyrics: |-
   Shabbir ne na jaane Zainab ko kya kaha hai
 
   7
-  Karb o bala ke ban mein Akbar hai aage aage
+  Karb o bala ke ban meiṅ Akbar hai aage aage
   Athaara saal paala jis ne gale lagaa ke
   Akbar ke pichhe pichhe wo baap jaa raha hai
 
   8
   Bhaai bhatije yaawar koi nahiṅ hai Gauhar
   Allah re ye ghurbat ye bekasi ka manzar
-  Dasht-e-bala mein tanha mazlum-e-Karbala hai
+  Dasht-e-bala meiṅ tanha mazlum-e-Karbala hai
 # source_id: nohayonline:bf4f714d72e9a4c4a6f7
 # source_url: https://www.nohayonline.com/details_content.php?id=1396
 # raw_sha256: 63353e480cf1a403c81eee4c3eeef878b953e6c392b9888dd81232a1461c8129

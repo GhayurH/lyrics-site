@@ -12,10 +12,10 @@ aliases: []
 published: true
 romanLyrics: |-
   Waajib hai gham manaaye zamaana Husain ka
-  Raah-e-Khuda mein lut gaya kunba Husain ka
+  Raah-e-Khuda meiṅ lut gaya kunba Husain ka
 
   1
-  Hote raheṅ ge sajde Khuda ko jahaaṅ mein
+  Hote raheṅ ge sajde Khuda ko jahaaṅ meiṅ
   Sajjad ne nibha diya waada Husain ka
 
   2
@@ -24,15 +24,15 @@ romanLyrics: |-
 
   3
   Abbas mar gaye Ali Akbar bhi mar gaye
-  Khaime mein koi laaye janaaza Husain ka
+  Khaime meiṅ koi laaye janaaza Husain ka
 
   4
   Ghore Yazidi fauj ne dauraaye is tarah
-  Paamaal ran mein ho gaya laasha Husain ka
+  Paamaal ran meiṅ ho gaya laasha Husain ka
 
   5
   Aati nahiṅ hai nind Sakina ko khaak par
-  Ran mein gayi hai dhundne laasha Husain ka
+  Ran meiṅ gayi hai dhundne laasha Husain ka
 
   6
   Ta hashr ab namaaz ka zaamin hai ab Gohar

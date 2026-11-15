@@ -1,6 +1,6 @@
 ---
 title: "شدتِ صبر سے مر جائے نہ ماں اکبر کی"
-alternateTitle: "Ghar Mein Aaya Hai"
+alternateTitle: "Ghar Meiṅ Aaya Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,11 +12,11 @@ aliases: []
 published: true
 romanLyrics: |-
   Shiddat-e-sabr se mar jaaye na maaṅ Akbar ki
-  Din Madine mein wo taqdir ne dikhlaaya hai
-  Jis ne maari thi kaleje mein sina Akbar ke
+  Din Madine meiṅ wo taqdir ne dikhlaaya hai
+  Jis ne maari thi kaleje meiṅ sina Akbar ke
   Ban ke mehmaan wo Sajjad ke ghar aaya hai
 
-  Ghar mein aaya hai qaatil-e-Akbar
+  Ghar meiṅ aaya hai qaatil-e-Akbar
   Umm-e-Laila ko ho gayi hai khabar
 
   1
@@ -31,8 +31,8 @@ romanLyrics: |-
 
   3
   Chehra Karb o Bala ki jaanib hai
-  Paani haathoṅ mein le ke roti hai
-  Gir raha hai nigaah mein maaṅ ki
+  Paani haathoṅ meiṅ le ke roti hai
+  Gir raha hai nigaah meiṅ maaṅ ki
   Ali Akbar ki maut ka manzar
 
   4
@@ -44,7 +44,7 @@ romanLyrics: |-
   5
   Qabr-e-Zahra se aa rahi hai sada
   Is ne maara hai mere baba ko
-  Phir Madine mein ek qayaamat hai
+  Phir Madine meiṅ ek qayaamat hai
   Phir raha hai mazaar-e-Paighambar
 
   6
@@ -57,7 +57,7 @@ romanLyrics: |-
   Sar-e-Akbar utha ke naize par
   Umm-e-Laila ko ye dikhaata tha
   Us ko kaise wo bhul sakti hai
-  Jis se khaaye the Shaam mein patthar
+  Jis se khaaye the Shaam meiṅ patthar
 
   8
   Ye karimi se ruk nahiṅ sakte
@@ -75,10 +75,10 @@ romanLyrics: |-
   Kal the mehmaan hum tere zaalim
   Aaj mehmaan tu hamaara hai
   Aur kuch chaahiye bata tujh ko
-  Abhi keh duṅ phuphi se main jaa kar
+  Abhi keh duṅ phuphi se maiṅ jaa kar
 
   11
-  Dil nahiṅ lagta aaj ghar mein mera
+  Dil nahiṅ lagta aaj ghar meiṅ mera
   Ae Takallum ye maaṅ ka nauha tha
   Thaam kar koi mere baazu ko
   Le chale Fatima ki turbat par

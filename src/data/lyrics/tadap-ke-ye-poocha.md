@@ -1,6 +1,6 @@
 ---
 title: "تڑپ کے یہ پوچھا سکینہ نے ماں سے"
-alternateTitle: "Tadap Ke Ye Poocha"
+alternateTitle: "Tarap Ke Ye Poocha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,12 +11,12 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Tadap ke ye puchha Sakina ne maaṅ se
+  Tarap ke ye puchha Sakina ne maaṅ se
   Rihaai milegi hameiṅ kab yahaaṅ se
 
   1
   Rabaab-e-haziṅ ne jo dekha ye manzar
-  To phir reh gaya hai kaleja tadap kar
+  To phir reh gaya hai kaleja tarap kar
   Chala tir jo Hurmala ki kamaaṅ se
 
   2
@@ -27,12 +27,12 @@ romanLyrics: |-
   3
   Khamoshi se in ke sitam hum uthaaye
   Magar koi shikwa na hoṅtoṅ pe laaye
-  Pade taaziyaane jo bole zabaaṅ se
+  Pare taaziyaane jo bole zabaaṅ se
 
   4
   Sukuṅ dil ko aakhir ho kaise mayassar
   Mara tir khaa ke mera bhai Asghar
-  Wo kilkaariyaaṅ ab sunuṅ main kahaaṅ se
+  Wo kilkaariyaaṅ ab sunuṅ maiṅ kahaaṅ se
 
   5
   Madine ki yaadeiṅ sataati haiṅ mujh ko
@@ -51,7 +51,7 @@ romanLyrics: |-
 
   8
   Ke jo baagh-e-Yasrab meiṅ phule phale haiṅ
-  Wohi phul jalti zamiṅ par pade haiṅ
+  Wohi phul jalti zamiṅ par pare haiṅ
   Bacha le unheiṅ koi zaalim khizaaṅ se
 
   9

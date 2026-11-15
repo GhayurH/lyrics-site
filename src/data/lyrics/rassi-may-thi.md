@@ -13,11 +13,11 @@ published: true
 romanLyrics: |-
   Ho kar asir-e-zulm junhi dukhtar-e-Ali
   Kufe ki simt gyaarah Muharram ko jab chali
-  Dekha ke khaak o khuṅ mein hai ghaltaan para hua
+  Dekha ke khaak o khuṅ meiṅ hai ghaltaan para hua
   Paamaal laash-e-dil-e-Zehra o Murtaza
 
   1
-  Rassi mein thi kalaaiyaaṅ aur the laboṅ pe bain
+  Rassi meiṅ thi kalaaiyaaṅ aur the laboṅ pe bain
   Mur mur ke dekhti thi behan laasha-e-Husain
 
   2
@@ -28,10 +28,10 @@ romanLyrics: |-
   3
   Bhai se yuṅ juda hui wo gham ki mubtila
   Jis tarah ruh jism se ho jaati hai juda
-  Be ruh kar rahi thi safar khwaahar-e-Husain
+  Beruh kar rahi thi safar khwaahar-e-Husain
 
   4
-  Bhaiya tumhaari laash hai sehra mein bekafan
+  Bhaiya tumhaari laash hai sehra meiṅ bekafan
   Afsos tum ko dafn na kar paayi ye behan
   Tum uth gaye to uth gaya mere bhi dil ka chain
 
@@ -47,7 +47,7 @@ romanLyrics: |-
 
   7
   Aayi hai ruh-e-Zehra sar-e-laasha-e-Imam
-  Zainab pukaari amma main jaati huṅ su-e-Shaam
+  Zainab pukaari amma maiṅ jaati huṅ su-e-Shaam
   Tere supurd karti huṅ amma tera Husain
 
   8

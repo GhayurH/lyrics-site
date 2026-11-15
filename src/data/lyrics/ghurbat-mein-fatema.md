@@ -1,6 +1,6 @@
 ---
 title: "غربت میں فاطمہ کا آباد گھر لٹا ہے"
-alternateTitle: "Ghurbat Mein Fatema"
+alternateTitle: "Ghurbat Meiṅ Fatema"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,49 +11,49 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ghurbat mein Fatema ka aabaad ghar luta hai
+  Ghurbat meiṅ Fatema ka aabaad ghar luta hai
 
   1
-  Ye Karbala mein Akhtar kya saaneha hua hai
+  Ye Karbala meiṅ Akhtar kya saaneha hua hai
   Laashe pare haiṅ kis ke khun kis ka ye baha hai
   Thehre nazar jahaaṅ bhi manzar lahu bhara hai
   Maidaaṅ ka zarra zarra aawaaz de raha hai
 
   2
-  Dasht-e-bala mein sab ne shaadi ka sog dekha
+  Dasht-e-bala meiṅ sab ne shaadi ka sog dekha
   Kubra bani thi dulhan Qasim bana tha dulha
-  Paamaal ran mein dulha taaza dulhan hai bewa
+  Paamaal ran meiṅ dulha taaza dulhan hai bewa
   Kaandhe pe Shaah-e-diṅ ke naushaah ka hai laasha
 
   3
   Khaime ke dar pe bachche kuze liye khare haiṅ
-  Abbas sar se paa tak khuṅ mein naha gaye haiṅ
+  Abbas sar se paa tak khuṅ meiṅ naha gaye haiṅ
   Mashkiza chhid gaya hai shaane kate hue haiṅ
   Thaame hue kamar ko Shabbir ro rahe haiṅ
 
   4
   Yuṅ Akbar-e-jawaaṅ ki maqtal se laash aayi
-  Sine pe zakhm taaza zulfoṅ mein khaak ran ki
+  Sine pe zakhm taaza zulfoṅ meiṅ khaak ran ki
   Allah jaanta hai Zainab pe jo bhi guzri
   Ye sochti hai Laila kis tarah ab jiye gi
 
   5
-  Shabbir laash-e-Asghar khaime mein aise laaye
-  Pyaase gaye the ran ko khuṅ mein naha ke aaye
+  Shabbir laash-e-Asghar khaime meiṅ aise laaye
+  Pyaase gaye the ran ko khuṅ meiṅ naha ke aaye
   Hoṅtoṅ pe muskuraahat gardan pe tir khaaye
-  Daur-e-khizaaṅ mein jaise ek phul muskuraaye
+  Daur-e-khizaaṅ meiṅ jaise ek phul muskuraaye
 
   6
-  Kufe mein daakhila bhi uftaad ek nayi thi
+  Kufe meiṅ daakhila bhi uftaad ek nayi thi
   Bedard raastoṅ par aulaad-e-Mustafa ki
-  Sehmi hui Sakina aaṅkhoṅ mein ek udaasi
+  Sehmi hui Sakina aaṅkhoṅ meiṅ ek udaasi
   Zainab ki beridaai Sajjad ki asiri
 
   7
   Darbaar Shaam ka tha aur qaafila khara tha
-  Sardaar-e-do jahaaṅ ka sar tasht mein rakha tha
+  Sardaar-e-do jahaaṅ ka sar tasht meiṅ rakha tha
   Hoṅtoṅ pe Shaah-e-diṅ ke wo zulm ho raha tha
-  Zainab ke tan badan mein larza para hua tha
+  Zainab ke tan badan meiṅ larza para hua tha
 
   8
   Bigri hui wo duniya badla hua zamaana
@@ -63,21 +63,21 @@ romanLyrics: |-
 
   9
   Jab arbain karne kunba Nabi ka pahuṅcha
-  Maidaan-e-Karbala mein ek hashr ka samaaṅ tha
+  Maidaan-e-Karbala meiṅ ek hashr ka samaaṅ tha
   Qabr-e-Husain kaaṅpi maatam ka shor utha
   Zainab suna rahi thi rudaad-e-Shaam o Kufa
 
   10
   Bite hue dinoṅ ke sab zakhm ab hare the
   Zainab ye sochti thi haathoṅ se dil ko thaame
-  Abbas ki lahad par jaauṅ gi ab main kaise
-  Zindaaṅ mein hai Sakina aaṅkhoṅ mein hai andhere
+  Abbas ki lahad par jaauṅ gi ab maiṅ kaise
+  Zindaaṅ meiṅ hai Sakina aaṅkhoṅ meiṅ hai andhere
 
   11
   Marqad pe Shaah-e-diṅ ke naale Rabab ke the
   Jaa kar watan ye dukhiya rudaad kya sunaaye
   Waaris nahiṅ hai sar par bachche bhi mujh se bichhre
-  Apni lahad mein waali mujh ko bhi ab chhupa le
+  Apni lahad meiṅ waali mujh ko bhi ab chhupa le
 # source_id: nohayonline:5a7a7cbbdd78d89b3048
 # source_url: https://www.nohayonline.com/details_content.php?id=2996
 # raw_sha256: 4a4056137f2f57ed1e6543fa69ec8ec7e657804572a541fca334892777323a15

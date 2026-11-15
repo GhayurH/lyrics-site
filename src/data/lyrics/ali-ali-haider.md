@@ -15,8 +15,8 @@ published: true
 # raw_sha256: 998df005eebe9a261e4459e50dbe2ea215d865617fa771a674bcdafb1ec7ebb3
 # opening_qata_poet: Hasnain Akbar
 romanLyrics: |-
-  Abhi to Bint-e-Asad thiṅ tawaf-e-Kaba mein
-  Ke pathroṅ mein khushi se ajab hilali thi
+  Abhi to Bint-e-Asad thiṅ tawaf-e-Kaba meiṅ
+  Ke pathroṅ meiṅ khushi se ajab hilali thi
   Khuda ka shukr ke ik samt ruk gayiṅ warna
   Har aik samt se diwar phatne wali thi
 
@@ -26,8 +26,8 @@ romanLyrics: |-
 
   1
   Aa ke zaminoṅ ko khud aflak ne chuma
-  Baithe Khuda wajd mein kuchh aur bhi jhuma
-  Bint-e-Asad aayeṅ to Kabe mein bana dar
+  Baithe Khuda wajd meiṅ kuchh aur bhi jhuma
+  Bint-e-Asad aayeṅ to Kabe meiṅ bana dar
 
   2
   Bint-e-Asad kehne lagiṅ majra hai kya
@@ -45,7 +45,7 @@ romanLyrics: |-
   Jin ne parha hai pehla qasida Rasul ka
   Naam-e-Ali Rab ne baharoṅ pe bhi likha
   Chand pe suraj pe sitaroṅ pe bhi likha
-  Naam yehi likha tha Jibreel ke par par
+  Naam yehi likha tha Jibril ke par par
 
   4
   Haaṅ teri qismat bhi saṅwar jaegi pyare
@@ -53,14 +53,14 @@ romanLyrics: |-
   Bola Khuda Nuh se tu wird yehi kar
 
   5
-  Jang ke maidan mein chaliswaṅ din tha
+  Jang ke maidan meiṅ chaliswaṅ din tha
   Nad-e-Ali parh ke Nabi ne jo pukara
   Aaye Ali jis ghari Khaibar ka ura dar
 
   6
   Yaad dilata huṅ tumheṅ Khum ka nazara
   Jis ghar Sarkar ne Man Kunto pukara
-  Kehne laga wajd mein Ashab ka lashkar
+  Kehne laga wajd meiṅ Ashab ka lashkar
 
   7
   Shankh ki ye gunj ye naubat ki sadaeṅ

@@ -19,14 +19,14 @@ romanLyrics: |-
   Ujar gaya hai Madina Husain haaye Husain
 
   2
-  Tere baghair Madine mein reh ke kya karti
-  Main tere saath hi is dasht mein chali aayi
+  Tere baghair Madine meiṅ reh ke kya karti
+  Maiṅ tere saath hi is dasht meiṅ chali aayi
   Akeli reh gayi Sughra Husain haaye Husain
 
   3
-  Main teri maaṅ huṅ har ek ranj o gham uthaauṅ gi
+  Maiṅ teri maaṅ huṅ har ek ranj o gham uthaauṅ gi
   Ae mere laal tujhe chhor kar na jaauṅ gi
-  Main tere saath huṅ beta Husain haaye Husain
+  Maiṅ tere saath huṅ beta Husain haaye Husain
 
   4
   Na paas Aun o Muhammad hai aur na Akbar hai
@@ -34,13 +34,13 @@ romanLyrics: |-
   Gharib ho gaya mera Husain haaye Husain
 
   5
-  Udaas tashna dahan khun mein nahaaye hue
+  Udaas tashna dahan khun meiṅ nahaaye hue
   Akela khaak pe baitha hai sar jhukaaye hue
   Kya haal ho gaya tera Husain haaye Husain
 
   6
-  Abhi main aayi huṅ khaime se ho ke ae beta
-  Hai tere gham mein ajab haal teri behna ka
+  Abhi maiṅ aayi huṅ khaime se ho ke ae beta
+  Hai tere gham meiṅ ajab haal teri behna ka
   Tarap rahi hai Sakina Husain haaye Husain
 
   7
@@ -49,8 +49,8 @@ romanLyrics: |-
   Hai tin roz ka pyaasa Husain haaye Husain
 
   8
-  Tamaam raat main ro ro ke aaheṅ bharti rahi
-  Main us maqaam ko baaloṅ se saaf karti rahi
+  Tamaam raat maiṅ ro ro ke aaheṅ bharti rahi
+  Maiṅ us maqaam ko baaloṅ se saaf karti rahi
   Karega tu jahaaṅ sajda Husain haaye Husain
 
   9

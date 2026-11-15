@@ -16,7 +16,7 @@ romanLyrics: |-
   Kal nahiṅ milega baap ka ye sina
 
   1
-  Main ne mana garm ret par na so sakogi
+  Maiṅ ne mana garm ret par na so sakogi
   Karwateṅ badal badal ke raat bhar jagogi
   Yaad aaeṅge hum aur kabhi Madina
 
@@ -42,8 +42,8 @@ romanLyrics: |-
 
   6
   Haaṅ ye shab wohi hai jis ke waste Khuda se
-  Main ne tumko maanga tha duaoṅ ke sahare
-  Ab ye imtehaṅ hai main kahuṅ Sakina
+  Maiṅ ne tumko maanga tha duaoṅ ke sahare
+  Ab ye imtehaṅ hai maiṅ kahuṅ Sakina
 
   7
   Jis ka raaj hai wafa ki saari kainat par
@@ -53,7 +53,7 @@ romanLyrics: |-
   8
   Khaak hai nasib tera khaak pairahan hai
   Ab teri rida bhi khaak khaak hi kafan hai
-  Khaak hi mein hoga dafn ye nagina
+  Khaak hi meiṅ hoga dafn ye nagina
 
   9
   Mazhar Abidi woh kaisi Asr ki ghari thi

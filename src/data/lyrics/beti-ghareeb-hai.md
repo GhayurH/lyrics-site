@@ -16,14 +16,14 @@ romanLyrics: |-
   Ik shehr ka dekha gaya manzar ajib hai
   Baaba haiṅ shahanshaah-e-Arab beti gharib hai
 
-  Wo jis ke ehteraam mein mursal khare huwe
+  Wo jis ke ehteraam meiṅ mursal khare huwe
   Haiṅ turbat-e-Batul pe patthar pare huwe
   Rauza-e-Mustafa bhi jis ke qarib hai
 
   1
   Rehmat hai do jahaaṅ ke liye Aal-e-Mustafa
   Hai nur-e-Khuda un pe raazi haiṅ khud Khuda
-  Dozakh mein wo jalega jo in ka raqib hai
+  Dozakh meiṅ wo jalega jo in ka raqib hai
 
   2
   Kalma Nabi ka parh kar kiuṅ Aal ko bhulaaya

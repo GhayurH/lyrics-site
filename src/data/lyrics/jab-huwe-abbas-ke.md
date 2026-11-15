@@ -15,14 +15,14 @@ romanLyrics: |-
   Gir ke thanda hua Hazrat ka alam darya par
   Gharq-e-khuṅ ho gaya woh bahr-e-karam darya par
   Ghul tha zakhmi hua saqqa-e-haram darya par
-  Mashk ko daantoṅ mein pakre hue yuṅ laata hai
-  Dahan-e-sher mein jis tarah shikaar aata hai
+  Mashk ko daantoṅ meiṅ pakre hue yuṅ laata hai
+  Dahan-e-sher meiṅ jis tarah shikaar aata hai
 
   Jab hue Abbas ke baazu qalam
   Ho gaye beaasra ahl-e-haram
 
   Tiroṅ se mashkiza chhalni ho gaya
-  Khuṅ mein Abbas ke duba alam
+  Khuṅ meiṅ Abbas ke duba alam
 
   1
   Jaam masumoṅ ke khaali reh gaye
@@ -46,7 +46,7 @@ romanLyrics: |-
 
   6
   Kehte haiṅ Abbas yeh ahl-e-aza
-  Kaash maatam mein tere mar jaaye hum
+  Kaash maatam meiṅ tere mar jaaye hum
 
   7
   Noha jab se hai likha Abbas ka

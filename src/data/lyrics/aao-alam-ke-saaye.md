@@ -63,8 +63,8 @@ romanLyrics: |-
   Naam-e-Sakina paani pilao
 
   10
-  Beta huṅ main bhi Mushkilkusha ka
-  Pyaara huṅ main bhi Haajatrawa ka
+  Beta huṅ maiṅ bhi Mushkilkusha ka
+  Pyaara huṅ maiṅ bhi Haajatrawa ka
   Thokar lage jab jab chot khao
 
   11

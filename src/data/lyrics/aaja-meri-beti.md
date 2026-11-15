@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Zahra meri bachchi aaja meri beti
   Aaja meri Zahra
-  Marqad mein Muhammad ne padha hoga ye nauha
+  Marqad meiṅ Muhammad ne parha hoga ye nauha
   Aaja meri beti aaja meri Zehra
 
   1
@@ -22,18 +22,18 @@ romanLyrics: |-
   Haider ke siwa kaun tarafdaar tha tera
 
   2
-  Jitne bhi hue tujh pe sitam dekhe haiṅ main ne
-  Ghar mein tere ummat ke qadam dekhe haiṅ main ne
+  Jitne bhi hue tujh pe sitam dekhe haiṅ maiṅ ne
+  Ghar meiṅ tere ummat ke qadam dekhe haiṅ maiṅ ne
   Maalum hai mujhko tujhe jis jis ne sataaya
 
   3
-  Darbaar-e-sitam mein tera haq maangne jaana
+  Darbaar-e-sitam meiṅ tera haq maangne jaana
   Dekha na gaya mujhse tera laut ke aana
-  Ek main hi nahiṅ tarpi hai taa der Khadija
+  Ek maiṅ hi nahiṅ tarpi hai taa der Khadija
 
   4
   Mohsin ki shahaadat ka mere dil pe hai sadma
-  Har pal wo raha yaad mujhe main nahiṅ bhula
+  Har pal wo raha yaad mujhe maiṅ nahiṅ bhula
   Aa baith mere paas tujhe dena hai pursa
 
   5
@@ -47,19 +47,19 @@ romanLyrics: |-
   Jaaiz hai kare mujhse jo har zulm ka shikwa
 
   7
-  Haider ke gale mein thi rasan dekha hai main ne
+  Haider ke gale meiṅ thi rasan dekha hai maiṅ ne
   Kis tarah kiya tu ne sahan itna bata de
   Qadmoṅ pe kai baar giri hai tere Fizza
 
   8
-  Marqad mein bhi aaraam kahaaṅ paana hai tujhko
+  Marqad meiṅ bhi aaraam kahaaṅ paana hai tujhko
   Ae laal abhi karbobala jaana hai tujhko
   Shabbir ko waada hai abhi apna nibhaana
 
   9
   Kya haal bayaaṅ tumse karuṅ gham ke safar ka
   Sar naize pe dekhogi abhi apne pisar ka
-  Dubega mere khuṅ mein tapta hua sehra
+  Dubega mere khuṅ meiṅ tapta hua sehra
 
   10
   Din kaisa dikhaaya hai ye taqdir ne Aasif

@@ -12,15 +12,15 @@ aliases: []
 published: true
 romanLyrics: |-
   Abbas piye kaise pani Abbas ka Aaqa pyasa hai
-  Khaime mein Sakina pyasi hai aur bachcha bachcha pyasa hai
+  Khaime meiṅ Sakina pyasi hai aur bachcha bachcha pyasa hai
 
   1
   Abbas ne jab pine ko kaha rahwar ne bhi munh pher liya
-  Matlab tha yehi main kaise piyuṅ Beshir hamara pyasa hai
+  Matlab tha yehi maiṅ kaise piyuṅ Beshir hamara pyasa hai
 
   2
   Barsaat ka mausam bhi to nahiṅ pani ka barasna namumkin
-  Darya bhi adu ki qaid mein hai Shabbir ka kunba pyasa hai
+  Darya bhi adu ki qaid meiṅ hai Shabbir ka kunba pyasa hai
 
   3
   Paaya jo Sakina ne pani ye keh ke barhi maqtal ki taraf
@@ -35,15 +35,15 @@ romanLyrics: |-
   Durre na laga Abid ke shaqi Wallah ye bhuka pyasa hai
 
   6
-  Aazaad hui Itrat lekin zindan mein Sakina hai ab tak
+  Aazaad hui Itrat lekin zindan meiṅ Sakina hai ab tak
   Chhirkao lahad par kaun kare har zarra zarra pyasa hai
 
   7
-  Ashkoṅ ke ye jharne aankhoṅ se chaudah sau baras se jaari hain
+  Ashkoṅ ke ye jharne aankhoṅ se chaudah sau baras se jaari haiṅ
   Sairab abhi tak ho na saka rumal-e-Zehra pyasa hai
 
   8
-  Abbas ka jis mein zikr na ho Beshir ki jis mein pyaas na ho
+  Abbas ka jis meiṅ zikr na ho Beshir ki jis meiṅ pyaas na ho
   Kitne bhi masaib hoṅ Anwar lekin wo noha pyasa hai
 # source_id: nohayonline:aee6c0b5cd211cffed1e
 # source_url: https://www.nohayonline.com/details_content.php?id=452

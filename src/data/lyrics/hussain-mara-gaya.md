@@ -12,10 +12,10 @@ aliases: ["Hussain Mara Gaya"]
 published: true
 romanLyrics: |-
   Farmaati hai ye Hazrat-e-Salma jigar figaar
-  Ek roz mere khwaab mein aaye falak waqaar
+  Ek roz mere khwaab meiṅ aaye falak waqaar
   Chehra tha zard ranj se aankheiṅ thi ashk baar
-  Amaama tha gale mein phata sar pe thi ghubaar
-  Main ne kaha tarap ke ae Sultaan-e-Ambiya
+  Amaama tha gale meiṅ phata sar pe thi ghubaar
+  Maiṅ ne kaha tarap ke ae Sultaan-e-Ambiya
   Ye haal kaisa aap ne apna bana liya
   Kaisi pari hui hai ye chehre pe khaak o dhul
   Haathoṅ se muṅh ko pit ke kehne lage Rasul

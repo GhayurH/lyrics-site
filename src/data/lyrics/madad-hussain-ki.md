@@ -22,7 +22,7 @@ romanLyrics: |-
   Gale lagaane tumheṅ khud Imam aaye haiṅ
 
   3
-  Lab-e-Husain ki jumbish mein hai nigaah sab kuchh
+  Lab-e-Husain ki jumbish meiṅ hai nigaah sab kuchh
   Payaam sun ke shahaadat ka muskuraaye haiṅ
 
   4

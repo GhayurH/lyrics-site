@@ -18,13 +18,13 @@ romanLyrics: |-
 
   1
   Khuṅ jaari tha zakhmi sar se
-  Rote the namaazi saf mein khare
+  Rote the namaazi saf meiṅ khare
   Kis tarah Hasan ne ro ro kar
   Ki fajr tamaam musalle par
 
   2
   Kya maaṅ ki tarah lene tum ko
-  Masjid mein chali aaye Zainab
+  Masjid meiṅ chali aaye Zainab
   Baaba ko jaa kar do Fizza
   Mera paighaam musalle par
 
@@ -36,13 +36,13 @@ romanLyrics: |-
 
   4
   Ye pehli fajr hai Zainab ki
-  Sajde mein sukuṅ milta hi nahiṅ
+  Sajde meiṅ sukuṅ milta hi nahiṅ
   Dil dubta hai aata hi nahiṅ
   Ik pal aaraam musalle par
 
   5
   Diwaar-e-Kaaba baith gai
-  Alhamd lahu mein dub gai
+  Alhamd lahu meiṅ dub gai
   Ummat se mila hai Maula ko
   Kaisa inaam musalle par
 

@@ -29,23 +29,23 @@ romanLyrics: |-
   Bachchi ne tamache khaaye hain
   Ye zulm hua hum par bhai
   Chadar bhi chhini masnad bhi jali
-  Khaimoṅ mein aag lagai bhai
-  Jalte hue khaimoṅ se main
+  Khaimoṅ meiṅ aag lagai bhai
+  Jalte hue khaimoṅ se maiṅ
   Abid ko bacha le aayi
 
   3
   Ye garm zamiṅ sahme bachche
-  Main kaise inheṅ samjhauṅ
+  Maiṅ kaise inheṅ samjhauṅ
   Rote hain tarapte hain pyase
-  Main pani kahaṅ se lauṅ
+  Maiṅ pani kahaṅ se lauṅ
   Koi bhi nahiṅ hai baqi
   Ab kaun kare saqqai
 
   4
   Ghairat ke Khuda tujhko hai khabar
-  Jaana hai abhi bazaroṅ mein
+  Jaana hai abhi bazaroṅ meiṅ
   Paband-e-rasan aur bechadar
-  Jaana hai abhi bazaroṅ mein
+  Jaana hai abhi bazaroṅ meiṅ
   Har gaam karuṅgi noha
   Jab Shaam ki basti aayi
 

@@ -15,15 +15,15 @@ romanLyrics: |-
   Barehna sar barehna pa sar-e-baazaar phirte haiṅ
 
   1
-  Gale mein tauq hai zanjir-e-pa chalne nahiṅ deti
+  Gale meiṅ tauq hai zanjir-e-pa chalne nahiṅ deti
   Magar kaantoṅ ke upar Aabid-e-Bimaar phirte haiṅ
 
   2
   Kaha karte the Aabid umr bhar Zainab se ro ro kar
-  Phuphi aankhoṅ mein zindaaṅ ke dar o diwaar phirte haiṅ
+  Phuphi aankhoṅ meiṅ zindaaṅ ke dar o diwaar phirte haiṅ
 
   3
-  Bukaa karti thi Sughra raatoṅ ko furqat mein baabaa ki
+  Bukaa karti thi Sughra raatoṅ ko furqat meiṅ baabaa ki
   Watan ko dekhiye kab Sayyid-e-Abraar phirte haiṅ
 
   4

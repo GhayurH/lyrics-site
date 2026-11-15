@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Dekha tha inhiṅ aankhoṅ se ghar apna ujarta
-  Be gor o kafan laashe shahidoṅ ke zamiṅ par
+  Begor o kafan laashe shahidoṅ ke zamiṅ par
 
   2
   Phirta hi raha aankhoṅ meiṅ bhaai ka wo laasha

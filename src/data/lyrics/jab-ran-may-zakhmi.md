@@ -1,6 +1,6 @@
 ---
 title: "جب رن میں زخمی ہو گئے سلطانِ بحر و بر"
-alternateTitle: "Jab Ran Mein Zakhmi"
+alternateTitle: "Jab Ran Meiṅ Zakhmi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,8 +10,8 @@ tags: []
 aliases: ["Jab Ran May Zakhmi"]
 published: true
 romanLyrics: |-
-  Jab ran mein zakhmi ho gaye sultaan-e-bahr o bar
-  Shafqat se haath ghore ki gardan mein daal kar
+  Jab ran meiṅ zakhmi ho gaye sultaan-e-bahr o bar
+  Shafqat se haath ghore ki gardan meiṅ daal kar
 
   1
   Kehne lage Husain ke aata nahiṅ nazar

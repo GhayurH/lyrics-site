@@ -20,7 +20,7 @@ romanLyrics: |-
 
   2
   Is raat chamakte haiṅ falak par jo sitaare
-  Lut jaaega ik roz mein Zehra ka bhara ghar
+  Lut jaaega ik roz meiṅ Zehra ka bhara ghar
 
   3
   Abbas ke shaane bhi qalam hoṅge lab-e-nehr
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   6
   Ye raat agar dhal gai suraj nikal aaya
-  Murjhaaeṅge pardes mein Zehra ka gul-e-tar
+  Murjhaaeṅge pardes meiṅ Zehra ka gul-e-tar
 
   7
   Rehaan dua Zainab-e-muztar ki yehi thi

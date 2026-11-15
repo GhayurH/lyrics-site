@@ -24,7 +24,7 @@ romanLyrics: |-
   Tum na aana Husain
 
   1
-  Kuchh naize waloṅ se main ne suna
+  Kuchh naize waloṅ se maiṅ ne suna
   Akbar ke sine ki karte the baat
   Talwaar wale ye kehte mile
   In se hi kaateṅge Ghaazi ke haath
@@ -33,9 +33,9 @@ romanLyrics: |-
   Tum na aana Husain
 
   2
-  Ye soch kar kaamp jaata huṅ main
-  Hai aap ke saath mein bibiyaaṅ
-  Kaise bataauṅ jo main ne suna
+  Ye soch kar kaamp jaata huṅ maiṅ
+  Hai aap ke saath meiṅ bibiyaaṅ
+  Kaise bataauṅ jo maiṅ ne suna
   Zainab kahaaṅ beridaai kahaaṅ
   Bas ye duaa hai salaamat rahe
   Aulaad-e-Zehra ka parda
@@ -64,7 +64,7 @@ romanLyrics: |-
   Jaane kahaaṅ hoṅge bachche mere
   Daarul amaara se huṅ dhundta
   Aa jaaye shaayad nazar wo mujhe
-  Lekin main rota huṅ ye soch kar
+  Lekin maiṅ rota huṅ ye soch kar
   Asghar hai un se bhi chhota
   Tum na aana Husain
 
@@ -73,7 +73,7 @@ romanLyrics: |-
   Is waqt Muslim akela nahiṅ
   Girne na degi wo sar ko mere
   Phailaaye jholi khari hai yahi
-  Godi mein sar ko uthaa leṅgi wo
+  Godi meiṅ sar ko uthaa leṅgi wo
   Aayi hai khud chal ke Zehra
   Tum na aana Husain
 # source_id: nohayonline:563f7dec524ec149d46a

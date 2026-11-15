@@ -17,7 +17,7 @@ romanLyrics: |-
   1
   Shaahi ke wali bud o wasi bud Ali bud
   Sultan-e-sakha o karam o jud Ali bud
-  Ham Adam o ham Shees o ham Idris o ham Ayub
+  Ham Adam o ham Shis o ham Idris o ham Ayub
   Ham Yusuf o ham Yunus o ham Hud Ali bud
   Ham Musa o ham Isa o ham Khizr o ham Ilyas
   Ham Saalih-e-Payghambar o Dawud Ali bud
@@ -32,7 +32,7 @@ romanLyrics: |-
   Ali Maulana Ali Ali Maulana Ali
   Tute diloṅ ki sada Ali Maulana Ali
   Taaj-e-wilayat tera Ali Maulana Ali
-  Haq ne kiya faisla khuld mein wo jaega
+  Haq ne kiya faisla khuld meiṅ wo jaega
   Jo bhi muhib hai tera
 
   4
@@ -66,7 +66,7 @@ romanLyrics: |-
   Ham tere muqallid hai tu hi rehbar-e-aazam
   Hai nur tera nur-e-Khudawand-e-do aalam
   Ek bhai Muhammad hai tera nur-e-mujassam
-  Jhutlae meri baat ko kis mein hai bhala dam
+  Jhutlae meri baat ko kis meiṅ hai bhala dam
   Hai tu hi aala nasb
   Sher-e-Haq tera laqab
   Keh rahe haiṅ yehi sab
@@ -93,7 +93,7 @@ romanLyrics: |-
   Ye aqida hai mera
 
   11
-  Parhta hai teri shaan mein Quran qaside
+  Parhta hai teri shaan meiṅ Quran qaside
   Alhamd se wan-naas talak hai tere charche
   Quraaṅ ki tilawat se khule raaz ye saare
   Wal-fajr bhi wash-shams bhi wal-lail bhi tu hai
@@ -105,7 +105,7 @@ romanLyrics: |-
   Juz tere kiya jis ne saluni ka ye daawa
   Jo puchhna chahoge jawab us ka milega
   Hathoṅ ki hatheli ki tarah se hai ye dunya
-  Main hota tere daur mein to puchh hi leta
+  Maiṅ hota tere daur meiṅ to puchh hi leta
   Kun fayakun ka safar
   Ye sitaroṅ ka nagar
   Kya hai ye shams o qamar
@@ -113,7 +113,7 @@ romanLyrics: |-
   13
   Ummat ne tere baad yatimoṅ ko sataya
   Maula teri aulaad ko hai khun rulaya
-  Ek pyase musafir ka lahu ban mein bahaya
+  Ek pyase musafir ka lahu ban meiṅ bahaya
   Zainab ki rida lut ke khaimoṅ ko jalaya
   Roi thi Karbobala
   Aaiye Sher-e-Khuda
@@ -132,9 +132,9 @@ romanLyrics: |-
   Kehte haiṅ zamane se yehi Mesum o Mazhar
   Ham Haider-e-Karrar ki dehliz ke naukar
   Rehti hai hama waqt sada ek laboṅ par
-  Is dar se bara saare zamane mein nahiṅ dar
+  Is dar se bara saare zamane meiṅ nahiṅ dar
   Malik-e-kaun o makaṅ
-  Saat pardoṅ mein nihaṅ
+  Saat pardoṅ meiṅ nihaṅ
   Hai aqidat ki azaaṅ
 # source_id: nohayonline:24e5a891a013f1e5d2b5
 # source_url: https://www.nohayonline.com/details_content.php?id=1305

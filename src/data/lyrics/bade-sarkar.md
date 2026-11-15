@@ -26,7 +26,7 @@ romanLyrics: |-
 
   1
   Saamne rauze ke gumbad jo nazar aayeṅge
-  Aankh mein aansu unheṅ dekh ke bhar jaayeṅge
+  Aankh meiṅ aansu unheṅ dekh ke bhar jaayeṅge
   Dil se niklegi sada ya Aba Abdillah
   Aap par mera salaam ae Husain Saarallah
   Rote hue unheṅ aawaaz ye deṅge
@@ -41,7 +41,7 @@ romanLyrics: |-
   Royeṅge hum kaf-e-Abbas pe jaa ke
 
   3
-  Dil mein jo baat hai Abbas se jaa kar kehna
+  Dil meiṅ jo baat hai Abbas se jaa kar kehna
   Unke rauze ki taraf dekh ke rote rehna
   Do kate haathoṅ ka unko pursa dena
   Kehna hum bhule nahiṅ Alqama par jo hua
@@ -59,7 +59,7 @@ romanLyrics: |-
   5
   Abadwallah ya Zahra maaninsa Husaina
   Abadwallah ya Zahra maaninsa Husaina
-  Maula jab sunta huṅ naara main abad wallah ka
+  Maula jab sunta huṅ naara maiṅ abad wallah ka
   Dil mera kehta hai maaninsa Husaina Zahra
   Haaṅ wo hal min ki sada kabhi bhuleṅge na hum
   Jab nazar aayega shah-e-waala ka haram
@@ -86,8 +86,8 @@ romanLyrics: |-
   Kitne din ho gaye wo rauza nahiṅ dekha hai
   Jis ke darwaaze pe saaqi-e-atash likha hai
   Bolo Zishaan o Raza ae shehenshah-e-wafa
-  Zaairoṅ mein ab to naam likh de mera
-  Baithuṅ kabhi main bhi darbaar mein aa ke
+  Zaairoṅ meiṅ ab to naam likh de mera
+  Baithuṅ kabhi maiṅ bhi darbaar meiṅ aa ke
   Rota rahuṅ haaye aawaaz ye sun ke
 # source_id: nohayonline:4cfea05c28604c564759
 # source_url: https://www.nohayonline.com/details_content.php?id=3644

@@ -13,36 +13,36 @@ published: true
 romanLyrics: |-
   Shaam-e-gharibaṅ ghup andhiyaara
   Aur pehre par Zainab hai
-  Khun mein duba jangal saara
+  Khun meiṅ duba jangal saara
   Aur pehre par Zainab hai
 
   1
   Sehme sehme se bachche haiṅ
-  Bewaaoṅ ke godi mein
+  Bewaaoṅ ke godi meiṅ
   Dasht-e-bala ki khaak bhari hai
-  Kuchh maaoṅ ki godi mein
+  Kuchh maaoṅ ki godi meiṅ
   Dil hai ghamoṅ se paara paara
   Aur pehre par Zainab hai
 
   2
-  Sahra ke is sannaate mein
+  Sahra ke is sannaate meiṅ
   Ik Zainab kis kis ko sambhaale
   Jalti zamiṅ par sote haiṅ
-  Sab khun mein ghaltaaṅ god ke paale
-  Koi nahiṅ ghurbat mein sahaara
+  Sab khun meiṅ ghaltaaṅ god ke paale
+  Koi nahiṅ ghurbat meiṅ sahaara
   Aur pehre par Zainab hai
 
   3
   Koh-e-masaaib tut para hai
   Gham se kaleje chaak hue haiṅ
-  Chaaroṅ taraf nazroṅ mein dhuaaṅ hai
+  Chaaroṅ taraf nazroṅ meiṅ dhuaaṅ hai
   Jal kar khaime khaak hue haiṅ
   Chup hai mariz-e-gham bechaara
   Aur pehre par Zainab hai
 
   4
   Chaaroṅ taraf bikhre haiṅ janaaze
-  Aur is mein maasum Sakina
+  Aur is meiṅ maasum Sakina
   Bojhal bojhal si aankheṅ haiṅ
   Dhund rahi hai baap ka sina
   Rota hai darya ka kinaara
@@ -57,18 +57,18 @@ romanLyrics: |-
   Aur pehre par Zainab hai
 
   6
-  Dekh ke laashoṅ ko maqtal mein
+  Dekh ke laashoṅ ko maqtal meiṅ
   Aaheṅ bharti jaati haiṅ
-  Is bechaini ke aalam mein
+  Is bechaini ke aalam meiṅ
   Raat guzarti jaati hai
   Khun rota hai subh ka taara
   Aur pehre par Zainab hai
 
   7
   Aamir o Akhtar sab ki muhaafiz
-  Zainab tanha raat mein hai
+  Zainab tanha raat meiṅ hai
   Jaanib-e-darya dekh rahi hai
-  Tuta neza haath mein hai
+  Tuta neza haath meiṅ hai
   Khaak basar hai kunba saara
   Aur pehre par Zainab hai
 # source_id: nohayonline:05ae8e8945b6dd70a15f

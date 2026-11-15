@@ -21,12 +21,12 @@ romanLyrics: |-
 
   2
   Khabar nahiṅ thi ke yatimoṅ pe kya guzarti hai
-  Jo aarzu hai wo sine mein aah bharti hai
+  Jo aarzu hai wo sine meiṅ aah bharti hai
   Na guzre aisi kisi par koi yatim na ho
 
   3
   Bhulaauṅ kaise ke nakhre mere uthaate the
-  Main ruth jaati thi baba mujhe manaate the
+  Maiṅ ruth jaati thi baba mujhe manaate the
   Ye kehte haiṅ wohi manzar koi yatim na ho
 
   4
@@ -40,14 +40,14 @@ romanLyrics: |-
   Guzar rahi hai tarap kar koi yatim na ho
 
   6
-  Bhala dabaauṅ kahaaṅ tak main apni aahoṅ ko
+  Bhala dabaauṅ kahaaṅ tak maiṅ apni aahoṅ ko
   Taras gayi huṅ mohabbat bhari nigaahoṅ ko
   Har ek saans hai dubhar koi yatim na ho
 
   7
   Ye sochti huṅ ke baba ki jab rifaaqat thi
-  Asir karta mujhe kis mein itni himmat thi
-  Na dekhti main ye manzar koi yatim na ho
+  Asir karta mujhe kis meiṅ itni himmat thi
+  Na dekhti maiṅ ye manzar koi yatim na ho
 
   8
   Khizaaṅ ne gher liya Shaah ke bahaaroṅ ko
@@ -61,7 +61,7 @@ romanLyrics: |-
 
   10
   Yatim hone ke ek ye bhi saza shaayad
-  Mere nasib mein ab ghar nahiṅ bara shaayad
+  Mere nasib meiṅ ab ghar nahiṅ bara shaayad
   Hai jina marna yehi par koi yatim na ho
 
   11

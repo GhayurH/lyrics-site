@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Tanha hameṅ dasht mein kaise bhala chhor gaye
+  Tanha hameṅ dasht meiṅ kaise bhala chhor gaye
   Haye kamar tor gaye bhai kamar tor gaye
 
   De gaye ho itne gham ji sakeṅ ge kaise hum
@@ -29,7 +29,7 @@ romanLyrics: |-
   Ab ye alam fauj ka hum bhala deṅ ge kise
 
   3
-  Duṅ main kise ab sada ran mein huṅ tanha khara
+  Duṅ maiṅ kise ab sada ran meiṅ huṅ tanha khara
   Waqt-e-ajal aa gaya khushk hai mera gala
   Chalne ko talwaar hai khushk gale par mere
 
@@ -39,13 +39,13 @@ romanLyrics: |-
   Fauj-e-sitam baandhe gi Ahl-e-Haram ke gale
 
   5
-  Aankh mein khun hai bhara tir hai aisa laga
+  Aankh meiṅ khun hai bhara tir hai aisa laga
   Ho gaye baazu juda sar bhi do paara hua
   Bhai ye haalat teri jine na de gi mujhe
 
   6
-  Tegh tale Shaah-e-diṅ sajde mein rakh kar jabiṅ
-  Kehte the sun ae zamiṅ ab mera koi nahiṅ
+  Tegh tale Shaah-e-diṅ sajde meiṅ rakh kar jabiṅ
+  Kehte the sun ae zamin ab mera koi nahiṅ
   Wo jo the baazu mere nehr pe kaate gaye
 
   7
@@ -56,16 +56,16 @@ romanLyrics: |-
   8
   Baali Sakina teri jo hai teri laadli
   Mashk tujhe de chuki dar pe hai ab bhi khari
-  Nehr ko takti hai wo haathoṅ mein kuza liye
+  Nehr ko takti hai wo haathoṅ meiṅ kuza liye
 
   9
-  Ji ke karuṅ kya main ab ho gaya aisa ghazab
+  Ji ke karuṅ kya maiṅ ab ho gaya aisa ghazab
   Jite the jis ke sabab jaane mileṅ ge wo kab
   Qatl kareṅ ge adu tanha hameṅ dekh ke
 
   10
-  Nauha-e-Rehaan mein lehja-e-Farhan mein
-  Dard ke unwaan mein ashkoṅ ke tufaan mein
+  Nauha-e-Rehaan meiṅ lehja-e-Farhan meiṅ
+  Dard ke unwaan meiṅ ashkoṅ ke tufaan meiṅ
   Sunte haiṅ Ahl-e-aza naale ye Shabbir ke
 # source_id: nohayonline:572c8f70dd2b28f1f190
 # source_url: https://www.nohayonline.com/details_content.php?id=3412

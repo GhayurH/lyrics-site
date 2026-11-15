@@ -25,10 +25,10 @@ romanLyrics: |-
 
   3
   Is se barh kar bhi aziyat hai koi maaṅ ke liye
-  Main huṅ zinda mera Mohsin gaya maara Baba
+  Maiṅ huṅ zinda mera Mohsin gaya maara Baba
 
   4
-  Bhare darbaar mein Quraan ki tazhik hui
+  Bhare darbaar meiṅ Quraan ki tazhik hui
   Meri har baat pe mujh ko kaha jhuta Baba
 
   5
@@ -36,7 +36,7 @@ romanLyrics: |-
   Mera rona bhi nahiṅ in ko gawaara Baba
 
   6
-  Koi karta nahiṅ Haider ko Madine mein salaam
+  Koi karta nahiṅ Haider ko Madine meiṅ salaam
   Aap ke baad Ali ho gaye tanha Baba
 # source_id: tajpoints:71d9af6225315a096140
 # source_url: https://tajpoints.com/2021/12/bint-e-payambar-e-islam-ka-noha-askari.html

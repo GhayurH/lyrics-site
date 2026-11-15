@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Keh rahi thi ye baali Sakina
   Koi mera sahaara nahiṅ hai
-  Ho gaye qatl maqtal mein Baaba
+  Ho gaye qatl maqtal meiṅ Baaba
   Koi mera sahaara nahiṅ hai
 
   1
@@ -23,7 +23,7 @@ romanLyrics: |-
   Koi mera sahaara nahiṅ hai
 
   2
-  Mar gaye ran mein Abbas o Akbar
+  Mar gaye ran meiṅ Abbas o Akbar
   Ab na Qaasim rahe aur na Asghar
   Ho gayi aaj se besahaara
   Koi mera sahaara nahiṅ hai
@@ -31,12 +31,12 @@ romanLyrics: |-
   3
   Loriyaṅ de ke kis ko sulaauṅ
   Kis ko apne gale se lagaauṅ
-  Mar gaya ran mein Asghar bhi mera
+  Mar gaya ran meiṅ Asghar bhi mera
   Koi mera sahaara nahiṅ hai
 
   4
   Kaise baar-e-masaaib uthaauṅ
-  Dar ye hai main kahiṅ mar na jaauṅ
+  Dar ye hai maiṅ kahiṅ mar na jaauṅ
   Zindagi ne diya aisa tohfa
   Koi mera sahaara nahiṅ hai
 
@@ -49,7 +49,7 @@ romanLyrics: |-
   6
   Haae Asghar bhi ran ko sidhaara
   Ho gayi aaj se besahaara
-  Ab jhulaauṅ gi kis ko main jhula
+  Ab jhulaauṅ gi kis ko maiṅ jhula
   Koi mera sahaara nahiṅ hai
 
   7

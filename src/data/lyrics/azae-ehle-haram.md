@@ -23,12 +23,12 @@ romanLyrics: |-
   2
   Tabaah Zehra ka ghar hua hai
   Gale pe Shah ke khanjar chala hai
-  Supurd-e-jaan ka ye silsila hai
+  Supurd-e-jaaṅ ka ye silsila hai
   Haram pa dard o alam ke din haiṅ
 
   3
-  Kisi ka laasha aba mein aaya
-  Kisi ne seene pa zakhm khaaya
+  Kisi ka laasha aba meiṅ aaya
+  Kisi ne sine pa zakhm khaaya
   Koi zamaane pe muskuraaya
   Husain bekas pe gham ke din haiṅ
 

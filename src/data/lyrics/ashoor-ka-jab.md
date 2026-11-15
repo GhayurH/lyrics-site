@@ -12,9 +12,9 @@ aliases: []
 published: true
 romanLyrics: |-
   Aaja Asghar aaja aaja Asghar aaja
-  Ashoor ka jab suraj duba
+  Ashur ka jab suraj duba
   Bano ko Asghar yaad aaya
-  Jab ban mein andhera chhaane laga
+  Jab ban meiṅ andhera chhaane laga
   Bano ko Asghar yaad aaya
 
   1
@@ -24,7 +24,7 @@ romanLyrics: |-
 
   2
   Chhe maah ka us ka sin lekin
-  Abbas tha maaṅ ki nazroṅ mein
+  Abbas tha maaṅ ki nazroṅ meiṅ
   Zainab ki chhini jab sar se rida
 
   3
@@ -34,18 +34,18 @@ romanLyrics: |-
 
   4
   Dauraan-e-safar is Bibi ki
-  Lori ki sada nohe mein dhali
+  Lori ki sada nohe meiṅ dhali
   Dekha jo koi bachcha hansta
 
   5
-  Ashoor ke baad azaadaari
+  Ashur ke baad azaadaari
   Bas karti rahi wo bete ki
   Har gaam pe har din har lamha
 
   6
   Bimaar ne apne bhai ki
   Poshaak bana ke rakhi thi
-  Royi jo Madine mein Sughra
+  Royi jo Madine meiṅ Sughra
 
   7
   Pehlu ko takti rehti thi
@@ -55,7 +55,7 @@ romanLyrics: |-
   8
   Ansar ye qayaamat kaisi thi
   Viraan hui godi is ki
-  Dunya mein bichha jab farsh-e-aza
+  Dunya meiṅ bichha jab farsh-e-aza
 # source_id: nohayonline:f77f4717ceeb008fcb70
 # source_url: https://www.nohayonline.com/details_content.php?id=1885
 # raw_sha256: f8d0041307e1c4aae578df5adfd46ce89741ac1e64f923d190f9aa061a1da9bf

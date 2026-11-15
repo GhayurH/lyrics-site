@@ -12,7 +12,7 @@ aliases: ["Qayamat Kyun Nahi"]
 published: true
 romanLyrics: |-
   Pukaari ghurbat-e-Zahra qayamat kiuṅ nahiṅ aayi
-  Madine mein hua kya kya qayamat kiuṅ nahiṅ aayi
+  Madine meiṅ hua kya kya qayamat kiuṅ nahiṅ aayi
 
   1
   Giraaya Sayyeda par jalta darwaaza lainoṅ ne
@@ -39,7 +39,7 @@ romanLyrics: |-
   Saroṅ se uth gaya saaya qayamat kiuṅ nahiṅ aayi
 
   7
-  Zafar ab bhi sitam jaari haiṅ Bibi par Baqia mein
+  Zafar ab bhi sitam jaari haiṅ Bibi par Baqia meiṅ
   Hua mismaar jab rauza qayamat kiuṅ nahiṅ aayi
 # source_id: nohayonline:de03a74636f340fc8140
 # source_url: https://www.nohayonline.com/details_content.php?id=3285

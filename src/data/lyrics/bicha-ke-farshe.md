@@ -20,25 +20,25 @@ romanLyrics: |-
   Jis se khush ho Fatema aisi azaadaari karo
 
   1
-  Ye ibaadat hai na reh jaaye kahiṅ is mein kami
+  Ye ibaadat hai na reh jaaye kahiṅ is meiṅ kami
   Shukr Khaaliq ka karo tum ko banaaya maatami
   Majlis-e-Shabbir se har dam wafaadaari karo
   Sunnat-e-Zainab yehi hai taaziyadaari karo
 
   2
   Majlis-e-Shabbir hai ilm o adab ki darsgaah
-  Ye usi ki yaad mein hoti hai jo hai diṅ panaah
+  Ye usi ki yaad meiṅ hoti hai jo hai diṅ panaah
   Shab bedaari se aqidoṅ ki bhi bedaari karo
   Sunnat-e-Zainab yehi hai taaziyadaari karo
 
   3
   Zarb o isaar o wafa ka ye bharam hai dostoṅ
   Ye alam Abbas-e-Ghaazi ka alam hai dostoṅ
-  Zehn mein Ghaazi ko rakho tab alamdaari karo
+  Zehn meiṅ Ghaazi ko rakho tab alamdaari karo
   Sunnat-e-Zainab yehi hai taaziyadaari karo
 
   4
-  Majlis-e-Sarwar ke rutbe mein nahiṅ koi sawaal
+  Majlis-e-Sarwar ke rutbe meiṅ nahiṅ koi sawaal
   Ho na paaye farsh-e-maatam ka taqaddus paaymaal
   Jaise parhte ho namaazeṅ yuṅ azaadaari karo
   Sunnat-e-Zainab yehi hai taaziyadaari karo
@@ -63,7 +63,7 @@ romanLyrics: |-
 
   8
   Ulfat-e-Aal-e-Muhammad Majid apna hai nishaaṅ
-  Un ke gham mein muztarib un ki khushi mein shaadmaaṅ
+  Un ke gham meiṅ muztarib un ki khushi meiṅ shaadmaaṅ
   Un ke ban jaao ghulaam un se wafaadaari karo
   Sunnat-e-Zainab yehi hai taaziyadaari karo
 # source_id: nohayonline:04573adf995db2d0dcfe

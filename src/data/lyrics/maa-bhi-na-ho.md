@@ -16,12 +16,12 @@ romanLyrics: |-
   Roti thiṅ kahiṅ Zainab Shabbir kahiṅ Shabbar
   Fizza ne jo dekha to kehne lagiṅ ro ro kar
 
-  Maa bhi na ho dunya mein aur baap bhi mar jaaye
+  Maa bhi na ho dunya meiṅ aur baap bhi mar jaaye
   Allah kisi par bhi ye waqt nahiṅ aaye
 
   1
-  Ye raat khuda jaane kis haal mein guzregi
-  Bachchoṅ ki nigaahoṅ mein tasvir hai Baba ki
+  Ye raat khuda jaane kis haal meiṅ guzregi
+  Bachchoṅ ki nigaahoṅ meiṅ tasvir hai Baba ki
   Baba se juda ho kar kis tarah jiya jaaye
 
   2
@@ -30,8 +30,8 @@ romanLyrics: |-
   Kehti hai koi mere Baba ko bula laaye
 
   3
-  Haathoṅ mein Ruqayya ke Baba ka musalla hai
-  Kulsum ke haathoṅ mein Baba ka amaama hai
+  Haathoṅ meiṅ Ruqayya ke Baba ka musalla hai
+  Kulsum ke haathoṅ meiṅ Baba ka amaama hai
   Baba nahiṅ aayeṅge ab kaun ye batlaaye
 
   4
@@ -45,13 +45,13 @@ romanLyrics: |-
   Maa baap ke bin jina mushkil hai bahut haaye
 
   6
-  Is aalam-e-ghurbat mein maa zinda agar hoti
+  Is aalam-e-ghurbat meiṅ maa zinda agar hoti
   Bin baap ke bachchoṅ ko sine se laga leti
   Aaghaaz-e-yatimi hai dil gham se na phat jaaye
 
   7
   Bhuli hai kahaaṅ Zainab wo chumna shaanoṅ ko
-  Jab Shaam mein dekhegi rassi ke nishaanoṅ ko
+  Jab Shaam meiṅ dekhegi rassi ke nishaanoṅ ko
   Yaad aayegi Baba ki us waqt bahut haaye
 
   8

@@ -15,7 +15,7 @@ romanLyrics: |-
 
   1
   Sunti huṅ ke ab ghar hai basaane ka iraada
-  Pardes mein hai byaah rachaane ka iraada
+  Pardes meiṅ hai byaah rachaane ka iraada
   Sughra ko kahiṅ bhul na jaana mere bhaiya
 
   2
@@ -36,11 +36,11 @@ romanLyrics: |-
   5
   Shabbir ki jaani ho mujhe ye bhi khabar hai
   Tum Yusuf-e-saani ho mujhe ye bhi khabar hai
-  Malbus main luṅgi shaahaana mere bhaiya
+  Malbus maiṅ luṅgi shaahaana mere bhaiya
 
   6
   Baraat nazar aayegi Firdaus ka naqsha
-  Ho jaayega raunaq mein bhi kuchh aur izaafa
+  Ho jaayega raunaq meiṅ bhi kuchh aur izaafa
   Daadi ko bhi jannat se bulaana mere bhaiya
 
   7
@@ -49,7 +49,7 @@ romanLyrics: |-
   Laana to dulhan chaand si laana mere bhaiya
 
   8
-  Is aalam-e-pardes mein tum byaah racha kar
+  Is aalam-e-pardes meiṅ tum byaah racha kar
   Jis tarah abhi bhule ho is tarah bhula kar
   Taa umr na Sughra ko rulaana mere bhaiya
 

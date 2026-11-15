@@ -16,7 +16,7 @@ romanLyrics: |-
   Taqdir ka daman hai tere roze ki jaali
 
   1
-  Kanoṅ mein musalsal teri awaz-e-karam hai
+  Kanoṅ meiṅ musalsal teri awaz-e-karam hai
   Jab tu hai mere saath to kis baat ka gham hai
   Dunya ka nasha karta nahiṅ tera mawali
 
@@ -42,23 +42,23 @@ romanLyrics: |-
 
   6
   Milta hai mujhe jab koi munkir tera aa kar
-  Kehta huṅ main us se parho salawat Raza par
+  Kehta huṅ maiṅ us se parho salawat Raza par
   Leta huṅ yuṅ badla tere munkir se misali
 
   7
-  Main chahta kya huṅ ye Khuda puchh raha hai
+  Maiṅ chahta kya huṅ ye Khuda puchh raha hai
   Khud Katib-e-Taqdir Riza puchh raha hai
-  Is waqt mere haathoṅ mein hai roze ki jaali
+  Is waqt mere haathoṅ meiṅ hai roze ki jaali
 
   8
   Ae paanchweṅ Shabbir tu beshir ke sadqe
-  Aaghosh mein maaoṅ ki azadar pisar de
+  Aaghosh meiṅ maaoṅ ki azadar pisar de
   Jo jholiyaṅ haiṅ aaj tak aulad se khali
 
   9
-  Arbab-e-Khurasaaṅ ki kafalat mein rahegi
-  Aahu ki tarah teri zamanat mein rahegi
-  Main ne jo tere rizq pe aulad hai pali
+  Arbab-e-Khurasaaṅ ki kafalat meiṅ rahegi
+  Aahu ki tarah teri zamanat meiṅ rahegi
+  Maiṅ ne jo tere rizq pe aulad hai pali
 
   10
   Dadi ka teri wasta jab dete haiṅ zawwar

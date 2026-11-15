@@ -23,7 +23,7 @@ romanLyrics: |-
   Dekhi behan ka haal bhi Kulsum Fatema
 
   3
-  Akbar ke baad baithi na saaye mein phir kabhi
+  Akbar ke baad baithi na saaye meiṅ phir kabhi
   Laila kaleja thaam li Kulsum Fatema
 
   4
@@ -31,12 +31,12 @@ romanLyrics: |-
   Bewa ko saath le gayi Kulsum Fatema
 
   5
-  Maqtal ho ya ke Kufa ho zindaan Shaam mein
+  Maqtal ho ya ke Kufa ho zindaan Shaam meiṅ
   Shabbir ki behan wo thi Kulsum Fatema
 
   6
   Allah jaane kaise saha hai Rabab ne
-  Asghar ke gham mein mar gayi Kulsum Fatema
+  Asghar ke gham meiṅ mar gayi Kulsum Fatema
 
   7
   Naana ka baaba jaan ka bhai ka gham liye

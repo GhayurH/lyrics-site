@@ -11,12 +11,12 @@ tags: []
 aliases: ["Hydere Karar Tanha"]
 published: true
 romanLyrics: |-
-  Ali ki aankh mein aansu the aur hontoṅ pe ye nauha
+  Ali ki aankh meiṅ aansu the aur hontoṅ pe ye nauha
   Jo dil ka haal hai mere kabhi ummat na samjhegi
-  Ali kehte the main talwaar se maara na jaauṅ ga
+  Ali kehte the maiṅ talwaar se maara na jaauṅ ga
   Magar Zahra ye tanhaai to meri jaan le legi
 
-  Suno Zahra Madine mein tera ghamkhwaar tanha hai
+  Suno Zahra Madine meiṅ tera ghamkhwaar tanha hai
   Tumhaare baad Zahra Haider-e-Karrar tanha hai
 
   1
@@ -29,32 +29,32 @@ romanLyrics: |-
   Fadak chhina tha jaise us tarah mimbar bhi chhina hai
 
   3
-  Rasan jab daal ke gardan mein meri mujh ko khencha tha
+  Rasan jab daal ke gardan meiṅ meri mujh ko khencha tha
   Muhammad ki qasam mujh ko nazar baazaar aaya tha
-  Na jaane kiuṅ nigaahoṅ mein meri Zainab ka chehra hai
+  Na jaane kiuṅ nigaahoṅ meiṅ meri Zainab ka chehra hai
 
   4
   Ye pehli baar tha Zahra jo mera haath kaampa tha
-  Bahut mushkil se main ne tum se darwaaza hataaya tha
+  Bahut mushkil se maiṅ ne tum se darwaaza hataaya tha
   Wo manzar yaad aaye to mera dil khun rota hai
 
   5
   Tumhaare laadle bachchoṅ ka aise dhyaan rakhta huṅ
-  Main apne dil ke saare zakhm bhi un se chhupaata huṅ
+  Maiṅ apne dil ke saare zakhm bhi un se chhupaata huṅ
   Dar o diwaar ne ghar ke Ali ka haal dekha hai
 
   6
-  Tumheṅ rota huṅ main Zahra meri haalat pe tum ro lo
-  Main aa jaauṅ tumhaare paas ye Rab se dua maango
+  Tumheṅ rota huṅ maiṅ Zahra meri haalat pe tum ro lo
+  Maiṅ aa jaauṅ tumhaare paas ye Rab se dua maango
   Tera pahlu shikasta tha Ali ka dil shikasta hai
 
   7
-  Azaan-e-fajr nauha ban gayi hai aaj Kufe mein
-  Kiya hai waar roze daar pe zaalim ne sajde mein
-  Lahu itna baha sar se amaama khuṅ mein duba hai
+  Azaan-e-fajr nauha ban gayi hai aaj Kufe meiṅ
+  Kiya hai waar roze daar pe zaalim ne sajde meiṅ
+  Lahu itna baha sar se amaama khuṅ meiṅ duba hai
 
   8
-  Main zakhmi huṅ magar taklif mujh ko ye nahiṅ Bibi
+  Maiṅ zakhmi huṅ magar taklif mujh ko ye nahiṅ Bibi
   Mujhe to fikr khaaye jaa rahi hai apne bachchoṅ ki
   Tumhi batlaao mere baad kaun in ka sahaara hai
 

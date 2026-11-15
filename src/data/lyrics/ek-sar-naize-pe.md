@@ -14,44 +14,44 @@ romanLyrics: |-
   Haaye Shaam bazaar-e-Shaam
 
   Baam o dar pe tha charaagh bhir khaas o aam ki
-  Bhir thi Karb o Bala mein fath-e-fauj-e-Shaam ki
+  Bhir thi Karb o Bala meiṅ fath-e-fauj-e-Shaam ki
   Aage aage sar shahidoṅ ke the naizoṅ pe rawaaṅ
   Chal rahi thi pichhe pichhe sar jhukaaye bibiyaaṅ
 
-  Ek sar naize pe hai ek gardan-e-rahwaar mein
-  Bhaaiyoṅ ke saath Zainab aayi hai bazaar mein
+  Ek sar naize pe hai ek gardan-e-rahwaar meiṅ
+  Bhaaiyoṅ ke saath Zainab aayi hai bazaar meiṅ
 
   1
   Shimr tere haath tute ae shaqi ye kya kiya
-  Jam gaya hai khun Sakina ke lab o rukhsaar mein
+  Jam gaya hai khun Sakina ke lab o rukhsaar meiṅ
 
   2
-  Sar khule dekha na tha aangan mein jis ko baap ne
-  Sar khule laayi gayi wo Shaam ke bazaar mein
+  Sar khule dekha na tha aangan meiṅ jis ko baap ne
+  Sar khule laayi gayi wo Shaam ke bazaar meiṅ
 
   3
   Sar Ali Asghar ka maa ke saamne kaata gaya
-  Kitni berahmi thi haaye Hurmala ke waar mein
+  Kitni berahmi thi haaye Hurmala ke waar meiṅ
 
   4
   Ya Ali mushkil kusha ye waqt hai imdaad ka
-  Ya Ali beti khari hai majma-e-aghyaar mein
+  Ya Ali beti khari hai majma-e-aghyaar meiṅ
 
   5
   Zindagi bhar khuṅ rulaaye ga ye gham Sajjad ko
-  Sun rahi hai sar khule Zainab azaaṅ darbaar mein
+  Sun rahi hai sar khule Zainab azaaṅ darbaar meiṅ
 
   6
   Maarta hai Shah-e-diṅ ke khushk hontoṅ par chhari
-  Haakim gustaakh bughz-e-Haidar-e-Karrar mein
+  Haakim gustaakh bughz-e-Haidar-e-Karrar meiṅ
 
   7
-  Laasha na khaimoṅ mein aaya is liye Abbas ka
-  Hasrat-e-mashk-e-burida thi dil-e-khuddaar mein
+  Laasha na khaimoṅ meiṅ aaya is liye Abbas ka
+  Hasrat-e-mashk-e-burida thi dil-e-khuddaar meiṅ
 
   8
   Jis pe Mazhar roye hai Maula lahu chaalis saal
-  Us musibat ka bayaaṅ mumkin nahiṅ ashaar mein
+  Us musibat ka bayaaṅ mumkin nahiṅ ashaar meiṅ
 # source_id: nohayonline:7dcc9f214beb7eddd791
 # source_url: https://www.nohayonline.com/details_content.php?id=3109
 # raw_sha256: b75b487c77f842919480392f536a8acc657645cdafe5e2cdd1d0a9e2c0766bbb

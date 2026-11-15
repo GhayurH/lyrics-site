@@ -18,7 +18,7 @@ romanLyrics: |-
   Tera Asghar bhi ek Akbar ke barabar aa gaya ammaṅ
 
   1
-  Gale par tir khaaye chain se soya hua tha main
+  Gale par tir khaaye chain se soya hua tha maiṅ
   Achanak qabr meiṅ naiza utar kar aa gaya ammaṅ
 
   2
@@ -39,7 +39,7 @@ romanLyrics: |-
 
   6
   Mera khuṅ meiṅ bhara kurta liye Yasrab chali jaana
-  Samajh lena tumhare saath main ghar meiṅ aa gaya ammaṅ
+  Samajh lena tumhare saath maiṅ ghar meiṅ aa gaya ammaṅ
 
   7
   Ba-roz-e-hashr Ahsan bas yehi sunne ki hasrat hai

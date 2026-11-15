@@ -16,19 +16,19 @@ romanLyrics: |-
   Chale aao Abbas dene ko kaandha
   Uthaate haiṅ Aabid Sakina ka laasha
 
-  Qayaamat hai zindaan mein aaj barpa
+  Qayaamat hai zindaan meiṅ aaj barpa
   Uthaate haiṅ Aabid Sakina ka laasha
 
   1
   Hai dastur ye parde daaroṅ ke ghar ka
-  Ye beti ka laasha hai shab mein uthega
+  Ye beti ka laasha hai shab meiṅ uthega
   Sitaaroṅ se keh do ke kar deṅ andhera
   Uthaate haiṅ Aabid Sakina ka laasha
 
   2
   Falak hil raha hai zamin kaaṅpti hai
   Laboṅ par musaafir ke naad-e-Ali hai
-  Imaamat ke haathoṅ mein hota hai larza
+  Imaamat ke haathoṅ meiṅ hota hai larza
   Uthaate haiṅ Aabid Sakina ka laasha
 
   3
@@ -56,8 +56,8 @@ romanLyrics: |-
   Uthaate haiṅ Aabid Sakina ka laasha
 
   7
-  Watan mein gharib-ul-watan wo Ali tha
-  Hai pardes mein ye Ali besahaara
+  Watan meiṅ gharib-ul-watan wo Ali tha
+  Hai pardes meiṅ ye Ali besahaara
   Uthaaya tha Haidar ne Zehra ka laasha
   Uthaate haiṅ Aabid Sakina ka laasha
 

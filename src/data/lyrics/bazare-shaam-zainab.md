@@ -38,7 +38,7 @@ romanLyrics: |-
   Kaise bhulaaye
 
   3
-  Shaam shehr mein jis dam pahunche
+  Shaam shehr meiṅ jis dam pahunche
   Mahw-e-buka thi Aal-e-Payambar
   Shehnaai ki gunj thi har su
   Aag barasti thi kahiṅ patthar
@@ -48,7 +48,7 @@ romanLyrics: |-
   Kaise bhulaaye
 
   4
-  Shehr-e-Halab mein qaafila pahuncha
+  Shehr-e-Halab meiṅ qaafila pahuncha
   Taaza qayaamat waqt ne dhaai
   Gard-e-safar chehroṅ pe pari thi
   Shiriṅ hameṅ pehchaan na paai
@@ -59,7 +59,7 @@ romanLyrics: |-
 
   5
   Neze pe dekha Akbar ka sar
-  Kufe mein boli ek zaifa
+  Kufe meiṅ boli ek zaifa
   Ae kaash teri maut se pehle
   Mar gai ho teri maadar dukhiya
   Lab tishna kaam Zainab
@@ -69,16 +69,16 @@ romanLyrics: |-
 
   6
   Chalte hue naaqe se giri thi
-  Raah mein jab maasum Sakina
+  Raah meiṅ jab maasum Sakina
   Dhundne nikli Zainab dukhiya
-  Daadi ke pehlu mein use paaya
+  Daadi ke pehlu meiṅ use paaya
   Thi beqaraar Zainab
   Aa dilfigaar Zainab
   Maaṅ ki pukaar Zainab
   Kaise bhulaaye
 
   7
-  Shaam ki galiyoṅ aur kuchoṅ mein
+  Shaam ki galiyoṅ aur kuchoṅ meiṅ
   Nauha kunaṅ Aulaad-e-Nabi thi
   Ahl-e-haram sab beparda the
   Chaaroṅ taraf maahaul sharaabi
@@ -98,7 +98,7 @@ romanLyrics: |-
   Kaise bhulaaye
 
   9
-  Pehli majlis qaid-e-jafa mein
+  Pehli majlis qaid-e-jafa meiṅ
   Barpa hui Irfan aur Mazhar
   Pahunchi Madine paa ke rihaai
   Naana se boli Zainab-e-muztar

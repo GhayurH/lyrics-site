@@ -23,13 +23,13 @@ romanLyrics: |-
   Shab dhali jaa rahi hai Khudaara
 
   2
-  Maut ka rang chhaaya fiza mein
-  Is se pehle ke dasht-e-bala mein
+  Maut ka rang chhaaya fiza meiṅ
+  Is se pehle ke dasht-e-bala meiṅ
   Ho namudaar khuni sawera
 
   3
   Kaash waaris mera saath hota
-  Yuṅ na karti main faryaad dukhiya
+  Yuṅ na karti maiṅ faryaad dukhiya
   Mujh pe hai ye bara sakht lamha
 
   4
@@ -38,14 +38,14 @@ romanLyrics: |-
   Muntazir kab se hai meri Kubra
 
   5
-  Waqt dasht-e-bala mein wo aaya
+  Waqt dasht-e-bala meiṅ wo aaya
   Maaṅ ki mamta ka utha janaaza
   Phir bhi dukhiya ke lab par tha nauha
 
   6
   Chaand surat ko lakht-e-jigar ko
   Yaad kar kar ke apne pisar ko
-  Qaid mein bhi ye kehti thi dukhiya
+  Qaid meiṅ bhi ye kehti thi dukhiya
 
   7
   Haaye wo ghamzada Umm-e-Farwa

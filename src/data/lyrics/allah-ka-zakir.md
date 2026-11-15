@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Mujhe bhul jae duniya
-  Main agar tujhe bhula duṅ
+  Maiṅ agar tujhe bhula duṅ
   Ya Husain
 
   1
@@ -21,12 +21,12 @@ romanLyrics: |-
   Jis khaak pe tera khun baha
   Us khaak ke har zarre ne kaha
   Allah ka tu zakir hai
-  Aur tera zakir main huṅ Husain
+  Aur tera zakir maiṅ huṅ Husain
   Ya Husain ya Husain
 
   2
   Duniya ye bhulaegi kaise
-  Bazaar-e-jafa mein jab tu ne
+  Bazaar-e-jafa meiṅ jab tu ne
   Quran sunaya neze par
   Quran mukhatib tujh se hua
 
@@ -40,7 +40,7 @@ romanLyrics: |-
   Allah ki tu ne laaj rakhi
   Tauhid teri maqruz hui
   Allah Allah ye shaan teri
-  Phir kiun na kahe har abd-e-Khuda
+  Phir kiuṅ na kahe har abd-e-Khuda
 
   5
   Bar waqt use milti na ajr
@@ -69,8 +69,8 @@ romanLyrics: |-
   9
   Irfan-e-Nabi Irfan-e-Khuda
   Mujh ko to azakhanoṅ se mila
-  Ae Mazhar-e-Yazdan ke bete
-  Sajde mein yehi Mazhar ne kaha
+  Ae Mazhar-e-Yazdaṅ ke bete
+  Sajde meiṅ yehi Mazhar ne kaha
 # source_id: nohayonline:a230a815f46ebd96345d
 # source_url: https://www.nohayonline.com/details_content.php?id=2218
 # raw_sha256: 1ed5e6ebc340a608043a30ed7f93afa19da6f7c6f9c51d4909bdf2c60ac1afa1

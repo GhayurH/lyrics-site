@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Ho ke mehmaan Muhammad ka nawaasa aaya
-  Dasht-e-khuṅ khaar mein lakht-e-dil-e-Zehra hai
+  Dasht-e-khuṅ khaar meiṅ lakht-e-dil-e-Zehra hai
 
   1
   Tum musalmaaṅ ho dar o baam charaaghaaṅ na karo
@@ -27,7 +27,7 @@ romanLyrics: |-
   Saath lipta hua barchhi se kaleja aaya
 
   4
-  Khuṅ mein dubi hui Akbar ki jawaani dekhi
+  Khuṅ meiṅ dubi hui Akbar ki jawaani dekhi
   Haaye aaya bhi to kab qaasid-e-Sughra aaya
 
   5
@@ -35,7 +35,7 @@ romanLyrics: |-
   Haaye pyaasa lab-e-darya se bhi pyaasa aaya
 
   6
-  Qaid khaane mein sada girya-e-zaari ki hai
+  Qaid khaane meiṅ sada girya-e-zaari ki hai
   Tauq o zanjir ko Sajjad pe rona aaya
 
   7
@@ -44,19 +44,19 @@ romanLyrics: |-
 
   8
   Raah guzaaroṅ ye sada girya-e-Zehra ki hai
-  Kaun bimaar ye zanjiroṅ mein jakra aaya
+  Kaun bimaar ye zanjiroṅ meiṅ jakra aaya
 
   9
   Qaid kar ke sar-e-baazaar phiraaya un ko
-  Jin ke ghar hi se musalmaanoṅ mein parda aaya
+  Jin ke ghar hi se musalmaanoṅ meiṅ parda aaya
 
   10
   Raah takti rahi bachchi ka jigar thaam ke maaṅ
-  Khuṅ mein duba hua beshir ka laasha aaya
+  Khuṅ meiṅ duba hua beshir ka laasha aaya
 
   11
   Kahiṅ Bano kahiṅ Zainab kahiṅ lipti hai Rabab
-  Ek qayaamat liye aaghosh mein jhula aaya
+  Ek qayaamat liye aaghosh meiṅ jhula aaya
 
   12
   Haaye us Bibi ki maayus nigaaheṅ Shamsi

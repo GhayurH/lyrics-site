@@ -1,6 +1,6 @@
 ---
 title: "السلام علیک اے زینب و ام کلثوم"
-alternateTitle: "Assalaam Alaika Ae Zainab O Umm-e-Kulsum"
+alternateTitle: "Assalaam Alaika Ae Zainab o Umm-e-Kulsum"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -36,14 +36,14 @@ romanLyrics: |-
   3
   Haae mera bhaai qatl ho gaya Furaat par
   Kuchh maza nahiṅ raha hai meri is hayaat par
-  Reh gaya akela main ho gaye juda akhi
+  Reh gaya akela maiṅ ho gaye juda akhi
   Ho gaye juda akhi zindagi muhaal hai
   Al-firaaq alwidaa al-firaaq alwidaa
 
   4
-  Mera bezubaan jahaaṅ se tashna lab guzar gaya
+  Mera bezubaaṅ jahaaṅ se tashna lab guzar gaya
   Aab ke sawaal par saghir ka gala chhida
-  Sula ke us ko qabr mein aba ko apni jhaar ke
+  Sula ke us ko qabr meiṅ aba ko apni jhaar ke
   Aba ko apni jhaar ke Rabaab ham bhi jaate haiṅ
   Al-firaaq alwidaa al-firaaq alwidaa
 
@@ -62,7 +62,7 @@ romanLyrics: |-
   Al-firaaq alwidaa al-firaaq alwidaa
 
   7
-  Sada ye sunte hi hua haram mein naala o buka
+  Sada ye sunte hi hua haram meiṅ naala o buka
   Koi to lipti paaoṅ se kisi ne thaam li aba
   Kiye thi halqa bibiyaaṅ buka se hashr tha bapa
   Buka se hashr tha bapa laboṅ pe yehi nauha tha
@@ -78,7 +78,7 @@ romanLyrics: |-
   9
   Husain ban ke karna hai yahaaṅ se Shaam ka safar
   Chale ga saath saath naize par behan hamaara sar
-  Bandhe gi baazuoṅ mein rasan shikasta hoga pairahan
+  Bandhe gi baazuoṅ meiṅ rasan shikasta hoga pairahan
   Shikasta hoga pairahan kareṅ ge ye shaqi jafa
   Al-firaaq alwidaa al-firaaq alwidaa
 

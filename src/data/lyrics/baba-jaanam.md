@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Baba jaanam baba jaanam baba jaanam
-  Main su-e-zindaan chali aap ki naazoṅ ki pali
+  Maiṅ su-e-zindaan chali aap ki naazoṅ ki pali
 
   Baba jaanam baba jaanam baba jaanam
 
@@ -20,7 +20,7 @@ romanLyrics: |-
   Qaafila jab su-e-zindaan chala
   Apne baba se Sakina ne kaha
   Ho gaya qaid tumhara kunba
-  Baba dekho mera rassi mein gala
+  Baba dekho mera rassi meiṅ gala
   Haaye meri yatimi haaye meri gharibi
 
   2
@@ -41,7 +41,7 @@ romanLyrics: |-
   Baba ek baar sada do baba
   Apne nazdik bula lo baba
   Shimr aata hai bacha lo baba
-  Apne daaman mein chhupa lo baba
+  Apne daaman meiṅ chhupa lo baba
   Haaye meri yatimi haaye meri gharibi
 # source_id: nohayonline:5302d047f2af06efe880
 # source_url: https://www.nohayonline.com/details_content.php?id=1846

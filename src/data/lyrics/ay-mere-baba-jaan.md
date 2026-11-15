@@ -11,7 +11,7 @@ tags: []
 aliases: ["Ay Mere Baba Jaan"]
 published: true
 romanLyrics: |-
-  Maqtal ke sannaate mein
+  Maqtal ke sannaate meiṅ
   Nauha karti hai naadaaṅ
   Ae mere baba jaaṅ
   Ae mere baba jaaṅ
@@ -32,11 +32,11 @@ romanLyrics: |-
 
   3
   Kab se khaati huṅ tamaanche
-  Donoṅ aariz hain nile
+  Donoṅ aariz haiṅ nile
   Pehnaaye the jo bunde
   Wo bhi aadaa ne chhine
   Beti ki haalat dekho
-  Zakhmi hain donoṅ hi kaan
+  Zakhmi haiṅ donoṅ hi kaan
 
   4
   Luta khaima bhi ghar bhi
@@ -44,14 +44,14 @@ romanLyrics: |-
   Maqna bhi aur chaadar bhi
   Hasli bhi aur gauhar bhi
   Aadaa ne aag laga kar
-  Lute hain ghar ke saamaan
+  Lute haiṅ ghar ke saamaan
 
   5
   Ye Akbar ki mayyat hai
   Wo Asghar ki turbat hai
   Ye Farwa ki hasrat hai
   Wo Zainab ki ghairat hai
-  Bikhre pare hain ran mein
+  Bikhre pare haiṅ ran meiṅ
   Zehra ke dil ke armaaṅ
 
   6
@@ -63,26 +63,26 @@ romanLyrics: |-
   Maara bula ke mehmaaṅ
 
   7
-  Wo hain ammu ke baazu
+  Wo haiṅ ammu ke baazu
   Ye hain Akbar ke gesu
-  Qasim bikhre hain har su
-  Main huṅ aur mere aansu
-  Kal tak thi is maqtal mein
+  Qasim bikhre haiṅ har su
+  Maiṅ huṅ aur mere aansu
+  Kal tak thi is maqtal meiṅ
   Mere kunbe ki kya shaan
 
   8
-  Kufe mein ghabraauṅgi
+  Kufe meiṅ ghabraauṅgi
   Kiuṅ kar himmat laauṅgi
-  Balwe mein sharmaauṅgi
+  Balwe meiṅ sharmaauṅgi
   Ghairat se mar jaauṅgi
   Rukh par mitti hi mal do
   Hone na paaye pehchaan
 
   9
-  Majaalis mein jab aate hain
-  Ashk-e-gham barsaate hain
-  Maatam mein kho jaate hain
-  Rote hain rulwaate hain
+  Majaalis meiṅ jab aate haiṅ
+  Ashk-e-gham barsaate haiṅ
+  Maatam meiṅ kho jaate haiṅ
+  Rote haiṅ rulwaate haiṅ
   Nayyar aur Aamir ki tum
   Mushkil kar dena aasaan
 # source_id: nohayonline:2750b2b6f82f16be88fa

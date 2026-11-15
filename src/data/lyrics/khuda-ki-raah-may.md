@@ -1,6 +1,6 @@
 ---
 title: "خدا کی راہ میں کار نمایاں ایسے ہوتے ہیں"
-alternateTitle: "Khuda Ki Raah Mein"
+alternateTitle: "Khuda Ki Raah Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Khuda ki raah mein kaar-e-numaayaaṅ aise hote haiṅ
+  Khuda ki raah meiṅ kaar-e-numaayaaṅ aise hote haiṅ
   Tah-e-khanjar kiye sajde musalmaan aise hote haiṅ
 
   1

@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Allahu Akbar ki azaaṅ
-  Ye keh rahi hai dasht mein
+  Ye keh rahi hai dasht meiṅ
   Ro ro ke ek maaṅ
 
   1
@@ -20,7 +20,7 @@ romanLyrics: |-
   Ae meri aankhoṅ ke chain
   Haye wo gham das moharam
   Aur Sakina ke wo bain
-  Akbar bhi sun ke ro pada
+  Akbar bhi sun ke ro para
   Behnoṅ ki siskiyaṅ
 
   2
@@ -36,7 +36,7 @@ romanLyrics: |-
   Shaam tak gehna gaye
   Haye haye phul saare
   Kis tarha murjha gaye
-  Yuṅ Fatima ke baagh mein
+  Yuṅ Fatima ke baagh meiṅ
   Aati rahi khizaṅ
 
   4
@@ -58,7 +58,7 @@ romanLyrics: |-
   6
   Haye Akbar bola ro kar
   Ye azaan aakhri
-  Sun rahe haiṅ Karbala mein
+  Sun rahe haiṅ Karbala meiṅ
   Aaj jis tarha sabhi
   Sughra bhi kaash sun sake
   Ae mere baba jaaṅ
@@ -67,7 +67,7 @@ romanLyrics: |-
   Haye haye sar kataye
   Sab jawan so jaaeṅge
   Dehr chhor ke khaak orhe
-  Dasht mein kho jaaeṅge
+  Dasht meiṅ kho jaaeṅge
   Qaayam rahegi hashr tak
   Allah ki azaaṅ
 
@@ -75,7 +75,7 @@ romanLyrics: |-
   Wo muazzim maut ke din
   Gin raha tha ae Zafar
   Shaah ka dil kaisi mushkil
-  Mein tha Meesum raat bhar
+  Meiṅ tha Misum raat bhar
   Yuṅ qatl ho ke reh gaya
   Shabbir ka bayaaṅ
 # source_id: nohayonline:833f6383126760687de9

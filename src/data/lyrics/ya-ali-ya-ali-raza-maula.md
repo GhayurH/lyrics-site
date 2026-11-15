@@ -41,19 +41,19 @@ romanLyrics: |-
 
   8
   Saamne hai yaqin ka dastarkhwaan
-  Main ne luqma utha liya Maula
+  Maiṅ ne luqma utha liya Maula
 
   9
   Mera sina shigufta, dil chaak
   Mera kurta phata hua Maula
 
   10
-  Main bhi ek reza khwaar-e-Dibal huṅ
-  Dijiye khaak-e-paa mein ja Maula
+  Maiṅ bhi ek reza khwaar-e-Dibal huṅ
+  Dijiye khaak-e-paa meiṅ ja Maula
 
   11
   Rehbari aap hi ko zeba hai
-  Main to ghar se nikal para Maula
+  Maiṅ to ghar se nikal para Maula
 # source_id: tajpoints:197c41f87bb7e99faf9f
 # source_url: https://tajpoints.com/2023/05/ya-ali-ya-ali-raza-mola-faqeer-arif.html
 # raw_sha256: c876ba2fba29f63503971c1604ba52776b5acfd79c302c627f0117a24295a650

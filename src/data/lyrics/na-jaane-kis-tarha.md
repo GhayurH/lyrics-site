@@ -16,12 +16,12 @@ romanLyrics: |-
 
   1
   Khudaaya kaise Sarwar ne uthaaya
-  Zaifi mein jawaaṅ bete ka laasha
-  Rakha khaime mein laa kar jab janaaza
+  Zaifi meiṅ jawaaṅ bete ka laasha
+  Rakha khaime meiṅ laa kar jab janaaza
   Wo laasha sar se paa tak khuṅ bhara tha
 
   2
-  Madine mein wo aksar sochti thi
+  Madine meiṅ wo aksar sochti thi
   Bahu hogi hamaari chaand jaisi
   Bara armaan tha shaadi ka jis ka
   Wohi ab saamne bejaaṅ para tha
@@ -30,31 +30,31 @@ romanLyrics: |-
   Basaarat jaa chuki Sibt-e-Nabi ki
   Hui hai khatm raunaq zindagi ki
   Luti dunya Husain Ibn-e-Ali ki
-  Simat aaya hai aankhoṅ mein andhera
+  Simat aaya hai aankhoṅ meiṅ andhera
 
   4
   Bara zaalim hua tha ye zamaana
   Kai hathyaar the aur ek nishaana
-  Jawaani mein wo phal barchhi ka khaana
+  Jawaani meiṅ wo phal barchhi ka khaana
   Shabih-e-Mustafa par zulm aisa
 
   5
   Wo jis ka husn tha husn-e-Payambar
   Tha us par ye sitam Allah o Akbar
-  Watan mein muntazir thi jis ki khwaahar
-  Wohi ab khun mein duba para tha
+  Watan meiṅ muntazir thi jis ki khwaahar
+  Wohi ab khun meiṅ duba para tha
 
   6
   Kamaal-e-sabr ka ye mojiza tha
   Ke khud ko kaise Zainab ne sambhaala
   Jise athaarah barsoṅ tak tha paala
-  Usi ke qalb mein tuta tha neza
+  Usi ke qalb meiṅ tuta tha neza
 
   7
   Koi puchhe Ali Akbar ki maaṅ se
   Guzarti kya hai marg-e-naujavaaṅ se
   Sada aati hai Ahsan aasmaaṅ se
-  Rahegi umr bhar sakte mein dukhiya
+  Rahegi umr bhar sakte meiṅ dukhiya
 # source_id: nohayonline:85b255ac1404ad63459b
 # source_url: https://www.nohayonline.com/details_content.php?id=1969
 # raw_sha256: 512fd7c1281fa012224c2f72e88da8abac2bce1e4dbf6a33d5d28420dc01483a

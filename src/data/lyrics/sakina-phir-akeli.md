@@ -22,18 +22,18 @@ romanLyrics: |-
 
   2
   Ye jaane kaun hai kya hai iraadeṅ
-  Haram mein hans rahe haiṅ qahqahoṅ se
+  Haram meiṅ hans rahe haiṅ qahqahoṅ se
   Koi Abbas se keh de khudaara
 
   3
-  Lahad mein keh rahi hai bachchi ro kar
+  Lahad meiṅ keh rahi hai bachchi ro kar
   Ye zaalim aaye haiṅ ab kiuṅ lahad par
   Mujhe dar lag raha hai mere Baba
 
   4
   Suna hai raat ko roti hai dukhiya
   Ye kar dete haiṅ turbat par andhera
-  Haram mein chhor dete haiṅ akela
+  Haram meiṅ chhor dete haiṅ akela
 
   5
   Bichha kar farsh tanha baithi hogi
@@ -41,9 +41,9 @@ romanLyrics: |-
   Mila hoga na jab Baba ka pursa
 
   6
-  Lahad mein kehte hoṅge ro ke Asghar
+  Lahad meiṅ kehte hoṅge ro ke Asghar
   Mujhe chhor aayeṅ Baba Shaam jaa kar
-  Behen ke saath main apni rahuṅ ga
+  Behen ke saath maiṅ apni rahuṅ ga
 
   7
   Kaho Sajjad Shaami auratoṅ se

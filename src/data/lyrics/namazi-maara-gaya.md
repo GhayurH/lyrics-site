@@ -13,12 +13,12 @@ published: true
 romanLyrics: |-
   Waawaila waawaila
 
-  Masjid mein namaazi maara gaya waawaila
+  Masjid meiṅ namaazi maara gaya waawaila
   Hasnain ka baba qatl hua waawaila
 
   Ye kaisa ajab hai zulm hua
   Ahmad ke wasi ko qatl kiya
-  Hai khun mein dubi saari qaba
+  Hai khun meiṅ dubi saari qaba
 
   1
   Kulsum aur Zainab roti hai
@@ -46,7 +46,7 @@ romanLyrics: |-
   Ghash khaa ke giri Zainab dukhiya
 
   6
-  Kufe mein qayaamat barpa thi
+  Kufe meiṅ qayaamat barpa thi
   Hur jinn o bashar rote the sabhi
   Sar pit ke kehti thi Zahra
 # source_id: nohayonline:67ffe76a8540f4a0844a

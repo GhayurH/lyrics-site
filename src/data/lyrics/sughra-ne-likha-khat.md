@@ -10,7 +10,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Sughra ne likha khat mein ke Zehra ke dil o jaaṅ
+  Sughra ne likha khat meiṅ ke Zehra ke dil o jaaṅ
   Aadaab baja laati hai beti Shah-e-Zishaaṅ
 
   1
@@ -18,7 +18,7 @@ romanLyrics: |-
   Hazrat ki judaai hai mere qatl ka saamaaṅ
 
   2
-  Main kaun tumhaari huṅ jiyuṅ ya ke maruṅ main
+  Maiṅ kaun tumhaari huṅ jiyuṅ ya ke maruṅ maiṅ
   Ae bhulne waalo mera koi nahiṅ pursaaṅ
 
   3
@@ -34,8 +34,8 @@ romanLyrics: |-
   Bhaiya ye behan aap ki kuchh din ki hai mehmaaṅ
 
   6
-  Hasrat hai ke Akbar ki bala le ke maruṅ main
-  Hangaam-e-naza aap ka haathoṅ mein ho daaman
+  Hasrat hai ke Akbar ki bala le ke maruṅ maiṅ
+  Hangaam-e-naza aap ka haathoṅ meiṅ ho daaman
 
   7
   Haathoṅ pe chacha jaan ke ho mera janaaza
@@ -62,7 +62,7 @@ romanLyrics: |-
   Tiroṅ ka sitam jhel gaya Asghar-e-naadaaṅ
 
   13
-  Main tin shab o roz ka pyaasa hi maruṅ ga
+  Maiṅ tin shab o roz ka pyaasa hi maruṅ ga
   Paani pe mera Faatiha dilwaana meri jaaṅ
 
   14

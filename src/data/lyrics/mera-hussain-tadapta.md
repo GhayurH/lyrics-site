@@ -14,10 +14,10 @@ romanLyrics: |-
   Mera Husain tarapta hai khaak-e-maqtal par
 
   1
-  Hai waqt-e-asr ka aur Karbala mein hai mahshar
-  Zamin-e-garm pe ghash mein hai Fatima ka pisar
-  Laiṅ hai sine pe gardan mein zulm ka khanjar
-  Ye ran mein karti hai faryaad Bint-e-Paighambar
+  Hai waqt-e-asr ka aur Karbala meiṅ hai mahshar
+  Zamin-e-garm pe ghash meiṅ hai Fatima ka pisar
+  Laiṅ hai sine pe gardan meiṅ zulm ka khanjar
+  Ye ran meiṅ karti hai faryaad Bint-e-Paighambar
 
   2
   Falak nashiṅ zamiṅ par gira hai waawaila
@@ -29,7 +29,7 @@ romanLyrics: |-
   Kamar khamida hai gham hai use baraadar ka
   Abhi uthaaya hai laasha jawaaṅ Akbar ka
   Abhi to taaza hai gham dil pe qatl-e-Asghar ka
-  Abhi nazar mein hai Qasim ki laash ka manzar
+  Abhi nazar meiṅ hai Qasim ki laash ka manzar
 
   4
   Tha mera laal nishaana sina o khanjar ka
@@ -40,20 +40,20 @@ romanLyrics: |-
   5
   Hue haiṅ qatl nigaahoṅ ke aage pir o jawaaṅ
   Wo bekasi thi ke Paighambaroṅ ne ki hai fughaaṅ
-  Jari ne dekhi hai bete ke dil mein nok-e-sinaaṅ
+  Jari ne dekhi hai bete ke dil meiṅ nok-e-sinaaṅ
   Uthaaya bekas o tanha ne laasha-e-Akbar
 
   6
-  Wo pyaas hai ke nazar mein dhuaaṅ ho saara jahaaṅ
-  Utha hai dil mein Sakina ki yaad ka tufaaṅ
-  Faza mein gunj rahi hai haram ki aah o fughaaṅ
+  Wo pyaas hai ke nazar meiṅ dhuaaṅ ho saara jahaaṅ
+  Utha hai dil meiṅ Sakina ki yaad ka tufaaṅ
+  Faza meiṅ gunj rahi hai haram ki aah o fughaaṅ
   Sadaaeṅ deta hai Abbas ko mera dilbar
 
   7
   Na gham gusaar hai beta hai aur na bhaai hai
-  Tarap ke Zainab-e-muztar hi ran mein aayi hai
+  Tarap ke Zainab-e-muztar hi ran meiṅ aayi hai
   Madad ka waqt hai ya Mustafa duhaai hai
-  Hai khaak o khuṅ mein ghaltaaṅ tumhaara nur-e-nazar
+  Hai khaak o khuṅ meiṅ ghaltaaṅ tumhaara nur-e-nazar
 
   8
   Hai zer-e-khanjaroṅ khuṅ khaar tashna kaam pisar
@@ -68,8 +68,8 @@ romanLyrics: |-
   Sawaar Shimr hai bekas ke zakhmi sine par
 
   10
-  Hai kaainaat mein Jaweed is fughaaṅ ka asar
-  Falak larazte haiṅ kaun o makaaṅ mein hai mahshar
+  Hai kaainaat meiṅ Jawid is fughaaṅ ka asar
+  Falak larazte haiṅ kaun o makaaṅ meiṅ hai mahshar
   Zamin kaampti hai khun rote haiṅ patthar
   Jo bain karti hai Zehra pisar ki baali par
 # source_id: nohayonline:4b4008a930a313e9e67f

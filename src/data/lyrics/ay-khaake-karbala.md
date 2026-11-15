@@ -16,8 +16,8 @@ romanLyrics: |-
 
   1
   Hai kalma go se afzal kitna maqaam tera
-  Dargaah-e-shifa hai duniya mein naam tera
-  Tu Sheh ke khuṅ mein tar wo diṅ se juda hai
+  Dargaah-e-shifa hai duniya meiṅ naam tera
+  Tu Sheh ke khuṅ meiṅ tar wo diṅ se juda hai
 
   2
   Sine pe teri likhi hai daastaaṅ un ki
@@ -30,13 +30,13 @@ romanLyrics: |-
   Jo kuchh kiya hai bas wo Zainab ka hausla hai
 
   4
-  Khidmat mein Sheh ki Hur ka aana to yaad hoga
-  Maqtal mein us ka pehle jaana to yaad hoga
+  Khidmat meiṅ Sheh ki Hur ka aana to yaad hoga
+  Maqtal meiṅ us ka pehle jaana to yaad hoga
   Is ka sila yaqinan rumaal-e-Fatema hai
 
   5
   Akbar ke dil pe barchhi tu hai gawaah us ki
-  Khaima-e-Shaah-e-diṅ mein ghash maaṅ ki aah us ki
+  Khaima-e-Shaah-e-diṅ meiṅ ghash maaṅ ki aah us ki
   Lagta tha Umm-e-Laila khud aap se khafa se
 
   6
@@ -46,7 +46,7 @@ romanLyrics: |-
 
   7
   Abid Husainiyoṅ ka ye khaak aasmaaṅ hai
-  Sajdoṅ mein lahad mein ye un sab ki nigehbaan hai
+  Sajdoṅ meiṅ lahad meiṅ ye un sab ki nigehbaan hai
   Dar asl nur-e-zaahir ye khaak-e-Karbala hai
 # source_id: nohayonline:cb249fe4e46214ce8569
 # source_url: https://www.nohayonline.com/details_content.php?id=3179

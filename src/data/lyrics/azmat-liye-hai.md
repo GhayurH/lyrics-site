@@ -18,16 +18,16 @@ romanLyrics: |-
   Jaane na deṅge haath se maidaan-e-Karbala
 
   2
-  Haidar ka laal ghaiz mein aaya hai nahr par
+  Haidar ka laal ghaiz meiṅ aaya hai nahr par
   Chhalke ga aaj khun se maidaan-e-Karbala
 
   3
-  Islam ki ragoṅ mein rawaaṅ hai tera lahu
+  Islam ki ragoṅ meiṅ rawaaṅ hai tera lahu
   Ae bezabaan Asghar-e-naadaan-e-Karbala
 
   4
   Utho lab-e-Furaat se Abbas-e-baawafa
-  Tanha ghire hai fauj mein sultaan-e-Karbala
+  Tanha ghire hai fauj meiṅ sultaan-e-Karbala
 
   5
   Hans kar gala barha diya naawak ke saamne
@@ -47,7 +47,7 @@ romanLyrics: |-
 
   9
   De kar shikast maqsad-e-baatil ko Shaam se
-  Aaye hai Karbala mein asiraan-e-Karbala
+  Aaye hai Karbala meiṅ asiraan-e-Karbala
 # source_id: nohayonline:cd9267cdd0ef67c086e8
 # source_url: https://www.nohayonline.com/details_content.php?id=3766
 # raw_sha256: e3cfafbe7cc2561c41e38bafb9ac24f55dd4cd72c3bc9f582604896b54e871d2

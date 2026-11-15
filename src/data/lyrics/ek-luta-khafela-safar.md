@@ -10,57 +10,57 @@ tags: []
 aliases: ["Ek Luta Khafela Safar"]
 published: true
 romanLyrics: |-
-  Ek luta qaafila safar mein hai
-  Har qadam Karbala nazar mein hai
+  Ek luta qaafila safar meiṅ hai
+  Har qadam Karbala nazar meiṅ hai
 
   1
-  Qalb mein sab ke daagh-e-Akbar hai
-  Aur nazroṅ mein zakhm-e-Asghar hai
+  Qalb meiṅ sab ke daagh-e-Akbar hai
+  Aur nazroṅ meiṅ zakhm-e-Asghar hai
   Paas shah rag ke kund khanjar hai
   Khushk hontoṅ pe naam-e-Haider hai
-  Maqsad-e-Shaah-e-Diṅ nazar mein hai
+  Maqsad-e-Shaah-e-Diṅ nazar meiṅ hai
 
   2
-  Qaafile mein bahut se bachche the
+  Qaafile meiṅ bahut se bachche the
   Gyaarahwiṅ ko jo Karbala se chale
-  Raastoṅ mein gire the uṅtoṅ se
+  Raastoṅ meiṅ gire the uṅtoṅ se
   Is tarah se ke phir kabhi na uthe
-  Maut ki gunj rahguzar mein hai
+  Maut ki gunj rahguzar meiṅ hai
 
   3
-  Qaafile mein haiṅ aisi maaeṅ bhi
+  Qaafile meiṅ haiṅ aisi maaeṅ bhi
   God ujri chhini ridaaeṅ bhi
   Ab to lab par nahiṅ duaaeṅ bhi
   So gayiṅ thak ke sab sadaaeṅ bhi
-  Bas dhuaaṅ hi dhuaaṅ nazar mein hai
+  Bas dhuaaṅ hi dhuaaṅ nazar meiṅ hai
 
   4
   Ek bimaar qaafila saalaar
-  Tauq o zanjeer ka uthaye baar
+  Tauq o zanjir ka uthaye baar
   Maaoṅ behnoṅ ka saath aur baazaar
   Aakhri marhala bhara darbaar
-  Sabr hi sabr rahbar mein hai
+  Sabr hi sabr rahbar meiṅ hai
 
   5
   Raunaq-e-qaafila thi ek bachchi
   Baap ko yaad kar ke jab roti
   Us ko is jurm ki saza milti
   Zulm itna hua ke ji na saki
-  Ab wo bachchi andhere ghar mein hai
+  Ab wo bachchi andhere ghar meiṅ hai
 
   6
   Ho chuki jab tamaam ruswaai
   Yaani Islam ki masihaai
   Qaafila le ke Shah ki maa jaai
   Lut ke Nainawa ki simt aayi
-  Asr-e-Aashur chashm-e-tar mein hai
+  Asr-e-Aashur chashm-e-tar meiṅ hai
 
   7
   Jab Madine ko jaayega kunba
   Hoṅ gi Shahid qayaamateṅ barpa
   Sochti hai ye Zainab-e-Kubra
   Kaise Sughra ka saamna hoga
-  Shakl-e-Sughra ki bas nazar mein hai
+  Shakl-e-Sughra ki bas nazar meiṅ hai
 # source_id: nohayonline:2d2b0037b0b63af4cbf1
 # source_url: https://www.nohayonline.com/details_content.php?id=1619
 # raw_sha256: 042d76a5b6aa4c20e31cc54c87985e9d0783a6c282e32af259a9e00d69db9e16

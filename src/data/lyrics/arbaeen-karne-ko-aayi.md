@@ -1,6 +1,6 @@
 ---
 title: "اربعیں کرنے کو آئی ہے بہن"
-alternateTitle: "Arbaeen Karne Ko Aayi"
+alternateTitle: "Arbaiṅ Karne Ko Aayi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,7 +10,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Arbaeen karne ko aayi hai behan
+  Arbaiṅ karne ko aayi hai behan
   Qaid se chhut ke paaband-e-mihan
 
   1
@@ -26,13 +26,13 @@ romanLyrics: |-
   Ye bataao hai kahaaṅ ibn-e-Hasan
 
   3
-  Main kabhi kucha o baazaar mein thi
-  Aur kabhi qaid-e-sitamgaar mein thi
-  Sar barehna kabhi darbaar mein thi
+  Maiṅ kabhi kucha o baazaar meiṅ thi
+  Aur kabhi qaid-e-sitamgaar meiṅ thi
+  Sar barehna kabhi darbaar meiṅ thi
   Gir para phat ke na kiuṅ charkh-e-kohan
 
   4
-  Baazuoṅ mein mere rassi thi bandhi
+  Baazuoṅ meiṅ mere rassi thi bandhi
   Pusht koroṅ se badan hai zakhmi
   Har qadam par thi ik uftaad nayi
   Baazuoṅ par hai mere daagh-e-rasan
@@ -41,7 +41,7 @@ romanLyrics: |-
   Apna muṅh ashkoṅ se dhone waali
   Raat din aap ko rone waali
   Mar gayi sine pe sone waali
-  Us ka zindaaṅ mein bana kar madfan
+  Us ka zindaaṅ meiṅ bana kar madfan
 # source_id: nohayonline:e83a20f082993a51f4e1
 # source_url: https://www.nohayonline.com/details_content.php?id=1760
 # raw_sha256: 0b4323d780d8a151f97b22218b7becf8d76ad5aea53ad3c368b2589639dfb063

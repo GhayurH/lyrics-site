@@ -20,8 +20,8 @@ romanLyrics: |-
   Ali sharminda hai Zehra
 
   1
-  Suni kab dard meiṅ dubi tumhari siskiyaaṅ main ne
-  Na dekhi haaye jite ji shikasta pasliyaaṅ main ne
+  Suni kab dard meiṅ dubi tumhari siskiyaaṅ maiṅ ne
+  Na dekhi haaye jite ji shikasta pasliyaaṅ maiṅ ne
   Na kuchh tum ne hi batlaya
 
   2

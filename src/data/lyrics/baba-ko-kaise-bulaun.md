@@ -11,26 +11,26 @@ tags: []
 aliases: ["Baba Ko Kaise Bulaun"]
 published: true
 romanLyrics: |-
-  Sochte the ye maqtal mein Akbar
-  Ran mein baba ko kaise bulaauṅ
+  Sochte the ye maqtal meiṅ Akbar
+  Ran meiṅ baba ko kaise bulaauṅ
 
   Phal hai barchhi ka sine ke andar
-  Ran mein baba ko kaise bulaauṅ
+  Ran meiṅ baba ko kaise bulaauṅ
 
   1
-  Mere sine mein tuti hai barchhi
+  Mere sine meiṅ tuti hai barchhi
   Hai lahu mere sine se jaari
   Kaise dekheṅ ge baba ye manzar
 
   2
-  Saans meri ukhadne lagi hai
+  Saans meri ukharne lagi hai
   Chand lamhoṅ ki ab zindagi hai
-  Kya kareṅ ge woh maqtal mein aa kar
+  Kya kareṅ ge woh maqtal meiṅ aa kar
 
   3
   Chumte the jise roz baba
   Pesh-e-Sarwar jo kham hi raha tha
-  Khaak o khuṅ mein bhara hai woh hi sar
+  Khaak o khuṅ meiṅ bhara hai woh hi sar
 
   4
   Kha ke neza zamiṅ par gira huṅ
@@ -43,18 +43,18 @@ romanLyrics: |-
   Ab kahaaṅ hai koi un ka yaawar
 
   6
-  Main tarapta huṅ reti pe ban mein
-  Ho raha hai izaafa dukhan mein
-  Aa ke tarpeṅ ge maqtal mein Sarwar
+  Maiṅ tarapta huṅ reti pe ban meiṅ
+  Ho raha hai izaafa dukhan meiṅ
+  Aa ke tarpeṅ ge maqtal meiṅ Sarwar
 
   7
-  Main pukaaruṅ ga baba ko jis dam
-  Hoṅ ge khaime mein jab Shaah pur nam
+  Maiṅ pukaaruṅ ga baba ko jis dam
+  Hoṅ ge khaime meiṅ jab Shaah pur nam
   Meri haalat samajh le gi maadar
 
   8
   Tha ye Izhaar noha jawaaṅ ka
-  Aaeṅ ge ran mein jab mere baba
+  Aaeṅ ge ran meiṅ jab mere baba
   Khaaeṅ ge woh to thokar pe thokar
 # source_id: nohayonline:bc95820869e178f2f1ff
 # source_url: https://www.nohayonline.com/details_content.php?id=1140

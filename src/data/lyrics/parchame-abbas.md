@@ -12,32 +12,32 @@ published: true
 romanLyrics: |-
   Parcham-e-Abbas hai ye parcham-e-Abbas
 
-  Pehle darya-e-mawaddat mein nahaa kar dekho
+  Pehle darya-e-mawaddat meiṅ nahaa kar dekho
   Dil ko ehsaas ke zewar se sajaa kar dekho
-  Tum ko duniya hi mein Firdaus nazar aayegi
+  Tum ko duniya hi meiṅ Firdaus nazar aayegi
   Parcham-e-Hazrat-e-Abbas uthaa kar dekho
 
   1
-  Khaibar ki waghaa mein ise Haidar ne uthaaya
+  Khaibar ki waghaa meiṅ ise Haidar ne uthaaya
   Aur khun se Abbas-e-Dilaawar ne sajaaya
-  Aur shaane kataa kar use maqtal mein bachaaya
+  Aur shaane kataa kar use maqtal meiṅ bachaaya
   Jo bhi uthaayega ise Fatima Zehra use deti hai dua
 
   2
-  Haathoṅ mein jo saqqa-e-Sakina ke jo alam hai
+  Haathoṅ meiṅ jo saqqa-e-Sakina ke jo alam hai
   Us ki hai ajab shaam ajab jaah o hasham hai
   Islam ki zinat hai ye imaaṅ ka bharam hai
   Jab bhi uthaate haiṅ ise chumne aa jaati hai Jannat se hawa
 
   3
-  Is jaisi chamak chaand sitaaroṅ mein kahaaṅ hai
+  Is jaisi chamak chaand sitaaroṅ meiṅ kahaaṅ hai
   Is ke hi ujaaloṅ se munawwar ye jahaaṅ hai
-  Sajde mein wahaaṅ arsh hai ye nasb jahaaṅ hai
-  Ghaur se dekho jo ise is mein nazar aati hai Ghazi ki wafa
+  Sajde meiṅ wahaaṅ arsh hai ye nasb jahaaṅ hai
+  Ghaur se dekho jo ise is meiṅ nazar aati hai Ghazi ki wafa
 
   4
-  Abbas ke parcham mein ye jo mashk saji hai
-  Paani ki jagah is mein faqat tashna labi hai
+  Abbas ke parcham meiṅ ye jo mashk saji hai
+  Paani ki jagah is meiṅ faqat tashna labi hai
   Hum jaise ghariboṅ ki bhi ummid bandhi hai
   Milta hai sukuṅ qalb ko jab paate haiṅ hum is ke pharere ki hawa
 # source_id: nohayonline:dcbe5b0ed667bf2f043d

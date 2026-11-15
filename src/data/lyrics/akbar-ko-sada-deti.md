@@ -11,7 +11,7 @@ aliases: []
 published: true
 reciter: "Sajid Jafri"
 romanLyrics: |-
-  Akbar ko sada deti thi maaṅ sholoṅ mein ghir kar
+  Akbar ko sada deti thi maaṅ sholoṅ meiṅ ghir kar
   Kab aaoge Akbar
   Jaate haiṅ mere sar se rida le ke sitamgar
   Kab aaoge Akbar
@@ -19,7 +19,7 @@ romanLyrics: |-
   1
   Ghabrai hui phirti hai maaṅ khaime ke andar
   Bemaqna o chadar
-  Ab aag mein jalne ko hai gehwara-e-Asghar
+  Ab aag meiṅ jalne ko hai gehwara-e-Asghar
   Kab aaoge Akbar
 
   2
@@ -37,17 +37,17 @@ romanLyrics: |-
   4
   Wo haal hai kis ko hai khabar kaun kahaṅ hai
   Har simt dhuaṅ hai
-  Sakte mein hai Zainab bhi khari khaime ke dar par
+  Sakte meiṅ hai Zainab bhi khari khaime ke dar par
   Kab aaoge Akbar
 
   5
-  Khaimoṅ mein dhueṅ ke siwa paati nahiṅ kuchh bhi
+  Khaimoṅ meiṅ dhueṅ ke siwa paati nahiṅ kuchh bhi
   Milta nahiṅ koi
-  Ek khaime se ek khaime mein jaati huṅ khule sar
+  Ek khaime se ek khaime meiṅ jaati huṅ khule sar
   Kab aaoge Akbar
 
   6
-  Beta main sitamgaaroṅ se sar kaise chhupauṅ
+  Beta maiṅ sitamgaaroṅ se sar kaise chhupauṅ
   Aakhir kahaṅ jauṅ
   Andar hai lagi aag adu khaimoṅ ke baahar
   Kab aaoge Akbar

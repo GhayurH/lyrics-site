@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Subh se dekh rahi hai ye Sakina baabaa
-  Ran mein hai chaaroṅ taraf phaila qazaa ka saaya
+  Ran meiṅ hai chaaroṅ taraf phaila qazaa ka saaya
   Laut kar zinda nahiṅ aaye haiṅ aane wale
 
   2
@@ -37,7 +37,7 @@ romanLyrics: |-
   5
   Aap ke sine se lagti huṅ to yuṅ lagta hai
   Zakhm hi zakhm hai zakhmoṅ se lahu behta hai
-  Jaise is sine mein hai tir samaane wale
+  Jaise is sine meiṅ hai tir samaane wale
 
   6
   Meri chaadar mere baaloṅ se hataate kiuṅ haiṅ

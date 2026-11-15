@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Laasha jari ka khaime mein laaya na ja saka
+  Laasha jari ka khaime meiṅ laaya na ja saka
   Pyaasoṅ ki tashnagi ko bujhaaya na ja saka
 
   1
@@ -21,22 +21,22 @@ romanLyrics: |-
 
   2
   Zaanu pe sar rakhe hue rote rahe Imam
-  Ghaazi tadap ke bole fida aap par ghulaam
+  Ghaazi tarap ke bole fida aap par ghulaam
   Khidmat ka haq bhi ham se chukaaya na ja saka
 
   3
   Zakhmi meri Sakina ka mashkiza ho gaya
-  Maula ab is ke baad main ji kar karuṅga kya
+  Maula ab is ke baad maiṅ ji kar karuṅga kya
   Afsos haaye waada nibhaaya na ja saka
 
   4
   Khaime ki simt jaane ki baaqi rahi na taab
-  Sheh bole duṅga kya main Sakina ko ab jawaab
+  Sheh bole duṅga kya maiṅ Sakina ko ab jawaab
   Ghaazi nahiṅ ye raaz chhupaaya na ja saka
 
   5
   Baazu kata ke nehr pe Abbas so gaye
-  Maula Husain dasht mein beaas ho gaye
+  Maula Husain dasht meiṅ beaas ho gaye
   Bhai ko haal-e-dil bhi sunaaya na ja saka
 
   6

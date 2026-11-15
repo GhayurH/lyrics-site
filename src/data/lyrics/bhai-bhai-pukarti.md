@@ -15,14 +15,14 @@ romanLyrics: |-
   Sattar qadam thi dur ye Zainab Husain se
 
   1
-  Bhai bhai pukaarti rahi main
+  Bhai bhai pukaarti rahi maiṅ
   Phir bhi khanjar nahiṅ ruka amma
   Shimr ne ki phir aisi gustakhi
   Mujh se dekha nahiṅ gaya amma
 
   2
   Tum jo zulfeṅ sanwaara karti thi
-  Unhiṅ zulfoṅ mein haath tha us ka
+  Unhiṅ zulfoṅ meiṅ haath tha us ka
   Jahaaṅ bose diye the Nana ne
   Usi gardan se khuṅ tapakta tha
   Sar-e-Shabbir yuṅ uthaaye hue
@@ -54,27 +54,27 @@ romanLyrics: |-
 
   6
   Jab chalaaya tha Shimr ne khanjar
-  Main ne aaṅkhoṅ se apni dekha tha
+  Maiṅ ne aaṅkhoṅ se apni dekha tha
   Haath apne utha ke pehlu se
   Tu ne sukhe gale pe rakha tha
   Ungliyaaṅ zakhmi ho gayi hoṅgi
   Haath mujh se to na chhupa amma
 
   7
-  Aisi nafrat thi un ke sinoṅ mein
+  Aisi nafrat thi un ke sinoṅ meiṅ
   Ye bhi socha na Shaam waaloṅ ne
-  Din-e-Islam mein zabiha tak
+  Din-e-Islam meiṅ zabiha tak
   Zibh pyaase nahiṅ kiye jaate
   Tin din se Husain pyaasa hai
   Ye bhi socha nahiṅ gaya amma
 
   8
   Maaṅ ye Zainab se kehti thi Akbar
-  Meri aaghosh mein tha sar us ka
-  Main ne gardan ko katte dekha tha
-  Main ne saaṅsoṅ ko rukte dekha tha
+  Meri aaghosh meiṅ tha sar us ka
+  Maiṅ ne gardan ko katte dekha tha
+  Maiṅ ne saaṅsoṅ ko rukte dekha tha
   Haaye aakhri baar zer-e-khanjar hi
-  Main ne Shabbir se suna amma
+  Maiṅ ne Shabbir se suna amma
 # source_id: nohayonline:a2a6ce7cb2cd4a9850e2
 # source_url: https://www.nohayonline.com/details_content.php?id=89
 # raw_sha256: 4e146416c48a97940456a719648ead5df353f3c3e0893e737e7104ebe27b4524

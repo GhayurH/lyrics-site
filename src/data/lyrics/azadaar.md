@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Maula tum hamare maula hum tumhare
   Maula maula salaam aap pe sad baar ya Husain
-  Sab ishq-e-Husaini mein hai sarshaar ya Husain
+  Sab ishq-e-Husaini meiṅ hai sarshaar ya Husain
   Sab pe ho karam aap ka sarkaar ya Husain
   Haazir hai haazir hai haazir hai azadaar azadaar ya Husain
   Azadaar azadaar azadaar azadaar azadaar
@@ -48,13 +48,13 @@ romanLyrics: |-
   Husain jaan Husain jaan Husain
 
   3
-  Haaṅ main wafaadaar huṅ Shabbir ka
-  Haaṅ main azadaar huṅ Shabbir ka
+  Haaṅ maiṅ wafaadaar huṅ Shabbir ka
+  Haaṅ maiṅ azadaar huṅ Shabbir ka
   Munis o ghamkhwaar huṅ Shabbir ka
   Maatami zawwaar huṅ Shabbir ka
   Ashk-e-aza meri dawa farsh-e-wila ishq mera
   Hum dar-e-Maula ke talabgaar hai
-  Pehne huwe shaal-e-aza dil mein liye Karbobala
+  Pehne huwe shaal-e-aza dil meiṅ liye Karbobala
   Maula tere qaafile tayyaar haiṅ
   Hamara dil hamari jaan hamari ek hi zabaaṅ
   Hai hamare sinoṅ par likha hua
@@ -77,10 +77,10 @@ romanLyrics: |-
   Jiye jiye jiye Karbala jiye ya Husain jiye azadaar
 
   5
-  Saara jahaaṅ halqa-e-maatam mein hai
-  Gham ki fiza maah-e-Muharram mein hai
-  Ishq-e-Khuda pyaas ke mausam mein hai
-  Maula mera dard ke aalam mein hai
+  Saara jahaaṅ halqa-e-maatam meiṅ hai
+  Gham ki fiza maah-e-Muharram meiṅ hai
+  Ishq-e-Khuda pyaas ke mausam meiṅ hai
+  Maula mera dard ke aalam meiṅ hai
   Aao chaleṅ Karbobala karne ko maatam ye bapa
   Parcham-e-Abbas nigehbaan hai
   Aati hai Zainab ki sada aa gaya jo Karbobala
@@ -116,7 +116,7 @@ romanLyrics: |-
   Ya Husain
 
   8
-  Dunya mein jo Husain ka banta hai azadaar
+  Dunya meiṅ jo Husain ka banta hai azadaar
   Nasloṅ ko ba muraad banaata hai ya Husain
   Ya Husain
 
@@ -126,13 +126,13 @@ romanLyrics: |-
   Ya Husain
 
   10
-  Farsh-e-aza jo ghar mein bichhaata hai azadaar
+  Farsh-e-aza jo ghar meiṅ bichhaata hai azadaar
   Ghar aise khush nasib ke aata hai ya Husain
   Ya Husain
 
   11
-  Maatam jo shah ka dhup mein karta hai azadaar
-  Daaman mein us ko apne chhupaata hai ya Husain
+  Maatam jo shah ka dhup meiṅ karta hai azadaar
+  Daaman meiṅ us ko apne chhupaata hai ya Husain
   Ya Husain
 
   12

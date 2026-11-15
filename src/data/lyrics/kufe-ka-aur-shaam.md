@@ -74,7 +74,7 @@ romanLyrics: |-
 
   9
   Maqtal o taarikh bhi kar na sake haq ada
-  Likhe Anees-e-haziṅ girya-e-Aabid ko kya
+  Likhe Anis-e-haziṅ girya-e-Aabid ko kya
   Are kehte the ye Aabid-e-muztar
   Yaad jab aa jaata hai baba
   Dil mera phat jaata hai baba

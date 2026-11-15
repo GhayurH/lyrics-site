@@ -1,6 +1,6 @@
 ---
 title: "مقتل میں گونجتی ہے صدا تشنہ لب حسین"
-alternateTitle: "Maqtal Mein Gunjti"
+alternateTitle: "Maqtal Meiṅ Gunjti"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,9 +11,9 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maqtal mein gunjti hai sadaa tishna lab Husain
+  Maqtal meiṅ gunjti hai sadaa tishna lab Husain
   Wo tishna lab sadaa jo rahaa tishna lab Husain
-  Maqtal mein gunjti hai sadaa tishna lab Husain
+  Maqtal meiṅ gunjti hai sadaa tishna lab Husain
   Haaye Husain haaye Husain haaye Husain
 
   1
@@ -21,19 +21,19 @@ romanLyrics: |-
   Le kar jawaaṅ ki laash chalaa tishna lab Husain
 
   2
-  Zehra ne apni god mein barh kar uthaa liyaa
+  Zehra ne apni god meiṅ barh kar uthaa liyaa
   Ghore se jab zamiṅ pe giraa tishna lab Husain
 
   3
   Ahl-e-haram pe ek qayaamat guzar gayi
-  Maqtal mein jab shahid huaa tishna lab Husain
+  Maqtal meiṅ jab shahid huaa tishna lab Husain
 
   4
-  Rotaa huaa Sakina ko khaime mein chhor kar
+  Rotaa huaa Sakina ko khaime meiṅ chhor kar
   Khanjar ko de rahaa hai galaa tishna lab Husain
 
   5
-  Lo Karbala mein khaak ke bistar pe so gayaa
+  Lo Karbala meiṅ khaak ke bistar pe so gayaa
   Aaghosh-e-Faatima kaa palaa tishna lab Husain
 
   6

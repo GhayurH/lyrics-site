@@ -33,7 +33,7 @@ romanLyrics: |-
   Ham usi ko zahin kehte haiṅ
 
   6
-  Dar jo Kaaba mein ho to us ko ham
+  Dar jo Kaaba meiṅ ho to us ko ham
   Ehtiraam-e-makiṅ kehte haiṅ
 
   7

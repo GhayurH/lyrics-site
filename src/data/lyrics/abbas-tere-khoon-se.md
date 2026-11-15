@@ -1,6 +1,6 @@
 ---
 title: "عباس تیرے خوں سے رنگیں ہے علم تیرا"
-alternateTitle: "Abbas Tere Khoon Se"
+alternateTitle: "Abbas Tere Khuṅ Se"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,8 +11,8 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Abbas tere khun se rangiṅ hai alam tera
-  Dil sine mein jab tak hai jaayega na gham tera
+  Abbas tere khuṅ se rangiṅ hai alam tera
+  Dil sine meiṅ jab tak hai jaayega na gham tera
 
   1
   Tuti jo kamar Sheh ki bas do to sadme the
@@ -24,10 +24,10 @@ romanLyrics: |-
 
   3
   Ae sher-e-Jari jab tu darya ko sidhara tha
-  Tha mashk-e-Sakina mein ya sine mein dam tera
+  Tha mashk-e-Sakina meiṅ ya sine meiṅ dam tera
 
   4
-  Behte hue pani mein tasvir-e-Sakina thi
+  Behte hue pani meiṅ tasvir-e-Sakina thi
   Dam ye diya darya se utha na qadam tera
 # source_id: nohayonline:db76ae98fc2cb5deffcb
 # source_url: https://www.nohayonline.com/details_content.php?id=3510

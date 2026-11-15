@@ -28,47 +28,47 @@ romanLyrics: |-
   Mazluma ya Zahra
 
   1
-  Jab bhi royi hai ye baap ki yaad mein
+  Jab bhi royi hai ye baap ki yaad meiṅ
   Log bole Ali Fatima se kahe
   Itna girya hameṅ sone deta nahiṅ
-  Raat mein royeṅ ya din mein roya kareṅ
+  Raat meiṅ royeṅ ya din meiṅ roya kareṅ
   Ae Madine ke logoṅ suno
   Ab nahiṅ royegi Fatima
 
   2
   Haal apna kisi ko suna na saki
   Is tarha dar gira ke utha na saki
-  Bas isi dard ne maar daala isay
+  Bas isi dard ne maar daala ise
   Apne Mohsin ko bhi ye bacha na saki
   Zakhmi pehlu ka gham bhul kar
   Sirf roti rahi Fatima
 
   3
   Paaoṅ uthte na the itni zakhmi thi wo
-  Apne ghar mein bhi ruk ruk ke chalti thi wo
+  Apne ghar meiṅ bhi ruk ruk ke chalti thi wo
   Uski tuti hui thi sabhi pasliyaṅ
-  Kitni taklif mein saaṅs leti thi wo
-  Apne baba ke hi shehr mein
+  Kitni taklif meiṅ saaṅs leti thi wo
+  Apne baba ke hi shehr meiṅ
   Kitni mazlum thi Fatima
 
   4
   Gham se phatta hai dil ye bataate huwe
-  Jab tamancha sitamgar ne maara usay
+  Jab tamancha sitamgar ne maara use
   Haṅs raha tha laiṅ saamne tha Hasan
   Sakht sadma tha ye ek maaṅ ke liye
   Apna chehra chhupaate huwe
   Khaak par gir gayi Fatima
 
   5
-  Kab kisi ko bhi dekha hai is haal mein
-  Ye zaifa hai athaarveṅ saal mein
+  Kab kisi ko bhi dekha hai is haal meiṅ
+  Ye zaifa hai athaarveṅ saal meiṅ
   Gham uthaye haiṅ itne kamar jhuk gayi
-  Aagayi hai safedi har ek baal mein
+  Aagayi hai safedi har ek baal meiṅ
   Ab na aakar sataye koi
   Haaṅ bahot thak chuki Fatima
 
   6
-  Jab Ali ke gale mein rasan thi bandhi
+  Jab Ali ke gale meiṅ rasan thi bandhi
   Ya Ali kehke ye pichhe pichhe chali
   Zaalimoṅ se Ali ko chhurate huwe
   Haath par taaziyane bhi khaati rahi
@@ -76,11 +76,11 @@ romanLyrics: |-
   Keh rahe hai Ali Fatima
 
   7
-  Ghar se Zeeshan o Farhan mayyat uthi
+  Ghar se Zishan o Farhan mayyat uthi
   Qabr ke paas jab leke pahuṅche Ali
   Uthe do haath turbat se aayi sada
   Sauṅp do ae Ali mujhko beti meri
-  Rakh ke turbat mein bole Ali
+  Rakh ke turbat meiṅ bole Ali
   Lijiye ya Nabi Fatima
 # source_id: nohayonline:f80bef5d5fcd405d4aab
 # source_url: https://www.nohayonline.com/details_content.php?id=2764

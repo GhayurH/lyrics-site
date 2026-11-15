@@ -22,12 +22,12 @@ romanLyrics: |-
   Goya jhuka hua hai par azm hai jawaaṅ
 
   3
-  Manjhdhaar mein hai kashti tufaan ka zor hai
+  Manjhdhaar meiṅ hai kashti tufaan ka zor hai
   Tiroṅ se phat gaya hai safine ka baadbaan
 
   4
-  Ujra hai do pahar mein Shabbir ka chaman
-  Maqtal mein reh gaya hai khaimoṅ ka ab dhuaaṅ
+  Ujra hai do pahar meiṅ Shabbir ka chaman
+  Maqtal meiṅ reh gaya hai khaimoṅ ka ab dhuaaṅ
 
   5
   Untoṅ se gir rahe haiṅ bachche zamiṅ par

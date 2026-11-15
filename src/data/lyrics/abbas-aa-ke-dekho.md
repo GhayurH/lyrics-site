@@ -29,19 +29,19 @@ romanLyrics: |-
   Abbas aa ke dekho
 
   3
-  Khaimoṅ mein aag jis dam zalim laga rahe the
+  Khaimoṅ meiṅ aag jis dam zalim laga rahe the
   Tujhko madad ki khatir hum sab bula rahe the
   Sajjad ka bhi bistar aada jala rahe haiṅ
   Abbas aa ke dekho
 
   4
-  Namahramoṅ mein Zainab sar nange ab yahaṅ hai
+  Namahramoṅ meiṅ Zainab sar nange ab yahaṅ hai
   Zaamin meri rida ke na jaane tu kahaṅ hai
   Bepardagi pe meri aada rula rahe haiṅ
   Abbas aa ke dekho
 
   5
-  Salman ek qayamat Karb o Bala mein guzri
+  Salman ek qayamat Karb o Bala meiṅ guzri
   Sun kar sada-e-Zainab Ghazi ki laash larzi
   Meri rida sinaaṅ par mujhko dikha rahe haiṅ
   Abbas aa ke dekho

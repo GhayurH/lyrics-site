@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   Abbas bole Sayyida ke haaye sar pe rakh ke haath
-  Baba ko apne lehje mein Quraan sunaao
+  Baba ko apne lehje meiṅ Quraan sunaao
 
   4
   Jina hai kis tarah se ham sab yatimoṅ ne

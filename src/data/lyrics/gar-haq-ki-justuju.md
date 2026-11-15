@@ -11,14 +11,14 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Gar haq ki justuju hai to bazm-e-aza mein aa
+  Gar haq ki justuju hai to bazm-e-aza meiṅ aa
   Batlaauṅ tujh ko majlis o maatam hai kiuṅ bapa
 
   1
-  Haq ki hai arsh farsh mein phaili hui ziya
+  Haq ki hai arsh farsh meiṅ phaili hui ziya
   Haq kehte haiṅ use jo hai mizaan-e-kibriya
   Haq kehte haiṅ jise wo hai imaan-e-ambiya
-  Haq ki sifat to khaas mein hai ek Mustafa
+  Haq ki sifat to khaas meiṅ hai ek Mustafa
 
   2
   Wo Mustafa ke jin ka Muhammad hai paak naam
@@ -28,26 +28,26 @@ romanLyrics: |-
 
   3
   Haq kya hai kya bataauṅ ke wo la hudud hai
-  Aal-e-Nabi mein nur-e-Khuda ka wujud hai
-  Hamd o sana mein is liye shaamil durud hai
+  Aal-e-Nabi meiṅ nur-e-Khuda ka wujud hai
+  Hamd o sana meiṅ is liye shaamil durud hai
   Haq is ka hai ye haq ke nahiṅ koi faasla
 
   4
   Ulfat ba hukm-e-Rab thi isi nur-e-ain se
   Ye baarha suna hai Shaah-e-Mashraqain se
-  Mera Husain mujh se hai aur main Husain se
-  Kya farq hai Husain o Nabi mein raha bata
+  Mera Husain mujh se hai aur maiṅ Husain se
+  Kya farq hai Husain o Nabi meiṅ raha bata
 
   5
   Baiat na ki Husain ne to qatl kar diya
   Badkar to is ke baad ko kiuṅ ghar jala diya
   Sayyidaaniyoṅ ko lut liya chhin li rida
-  Aal-e-Rasul ki thi bhala is mein kya khata
+  Aal-e-Rasul ki thi bhala is meiṅ kya khata
 
   6
-  Sayyidaaniyoṅ ke sar the khule azdahaam mein
-  Asir kar ke le gaye darbaar-e-aam mein
-  Phir bhi na chhora qaid kiya ino Shaam mein
+  Sayyidaaniyoṅ ke sar the khule azdahaam meiṅ
+  Asir kar ke le gaye darbaar-e-aam meiṅ
+  Phir bhi na chhora qaid kiya ino Shaam meiṅ
   Ajr-e-Risaalat is tarah ummat ne ki ada
 
   7
@@ -60,7 +60,7 @@ romanLyrics: |-
   Apne Nabi ko gham hai to ham dur kiuṅ rahe
   Lene ko pursa jaate haiṅ girya ko na chale
   Mil kar Anis kiuṅ nahiṅ maatam bapa kare
-  Sibt-e-Nabi ke gham mein hai ye majlis-e-aza
+  Sibt-e-Nabi ke gham meiṅ hai ye majlis-e-aza
 # source_id: nohayonline:3bd559ec5f1de5e3c63a
 # source_url: https://www.nohayonline.com/details_content.php?id=648
 # raw_sha256: 409bab6332949672e69f5218fca86ee7f55fab4466c8aa183410a54fbccffd9f

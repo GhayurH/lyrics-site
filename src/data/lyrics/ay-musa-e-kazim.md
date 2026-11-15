@@ -12,23 +12,23 @@ aliases: ["Ay Musa E Kazim"]
 published: true
 romanLyrics: |-
   Ae Musa-e-Kazim ae mere Baab-e-Hawaaij
-  Mohtaaj-e-dua huṅ main tere dar ka gada huṅ
-  Main rizq-e-aza rizq-e-wafa maang raha huṅ
+  Mohtaaj-e-dua huṅ maiṅ tere dar ka gada huṅ
+  Maiṅ rizq-e-aza rizq-e-wafa maang raha huṅ
 
   1
-  Main ghair ke dar ka to sawaali nahiṅ Maula
+  Maiṅ ghair ke dar ka to sawaali nahiṅ Maula
   Maulaai huṅ aur zarf se khaali nahiṅ Maula
-  Pehle bhi to main aap ke tukroṅ pe pala huṅ
+  Pehle bhi to maiṅ aap ke tukroṅ pe pala huṅ
 
   2
   Nemat gham-e-Shabbir ki nasloṅ se na jaaye
-  Baitha huṅ tere dar pe main daamaan bichhaaye
+  Baitha huṅ tere dar pe maiṅ daamaan bichhaaye
   Maana huṅ gunahgaar magar ahl-e-aza huṅ
 
   3
   Jo aap ke nabiyoṅ ke madadgaar haiṅ Maula
   Mansab wohi Allah ne haiṅ aap ko bakhsha
-  Main aap ke rauze ko Najaf jaan raha huṅ
+  Maiṅ aap ke rauze ko Najaf jaan raha huṅ
 
   4
   Maqruz huṅ naadaar huṅ bimaar o pareshaan
@@ -38,7 +38,7 @@ romanLyrics: |-
   5
   Jo godiyaaṅ aulaad ki nemat se haiṅ khaali
   Pakre hue wo aap ke rauze ki hai jaali
-  Main bhi kisi kone mein yahiṅ mahw-e-dua huṅ
+  Maiṅ bhi kisi kone meiṅ yahiṅ mahw-e-dua huṅ
 
   6
   Ae Baab-e-ata waasta Zainab ki rida ka
@@ -56,18 +56,18 @@ romanLyrics: |-
   Ye arz liye aap ki chaukhat pe khara huṅ
 
   9
-  Baghdad mein jo zulm o sitam aap pe guzre
+  Baghdad meiṅ jo zulm o sitam aap pe guzre
   Wo soch ke Maula mere aansu nahiṅ rukte
-  Us gham se sabab aaj bhi main mahw-e-buka huṅ
+  Us gham se sabab aaj bhi maiṅ mahw-e-buka huṅ
 
   10
-  Zanjiroṅ mein jakra hua taabut rakha tha
+  Zanjiroṅ meiṅ jakra hua taabut rakha tha
   Mazduroṅ ne Maula tere laashe ko uthaaya
   Purse ke liye shahr-e-Khuraasaan gaya huṅ
 
   11
-  Main Musa-e-Kazim ka azaadaar huṅ Rehaaṅ
-  Mashhad mein chalo pursa kunaaṅ is tarah Rizwaaṅ
+  Maiṅ Musa-e-Kazim ka azaadaar huṅ Rehaaṅ
+  Mashhad meiṅ chalo pursa kunaaṅ is tarah Rizwaaṅ
   Khud Maula Raza kah de tumheṅ deta dua huṅ
 # source_id: nohayonline:9b1084c82b056faf4a7f
 # source_url: https://www.nohayonline.com/details_content.php?id=1134

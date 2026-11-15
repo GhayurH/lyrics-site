@@ -1,6 +1,6 @@
 ---
 title: "کاش میں مہدیِ دوراں کا زمانہ دیکھوں"
-alternateTitle: "Kaash Main Mehdi-e-Dauraṅ Ka Zamana Dekhuṅ"
+alternateTitle: "Kaash Maiṅ Mehdi-e-Dauraṅ Ka Zamana Dekhuṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,12 +10,12 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Kaash main Mehdi-e-dauraṅ ka zamana dekhuṅ
+  Kaash maiṅ Mehdi-e-dauraṅ ka zamana dekhuṅ
   Barhweṅ Haider-e-Karrar ka chehra dekhuṅ
 
   1
   Phir azan-e-Ali Akbar se ho aaghaz-e-sahar
-  Pichhe Mehdi ke main Isa ka musalla dekhuṅ
+  Pichhe Mehdi ke maiṅ Isa ka musalla dekhuṅ
 
   2
   Parcham-e-Hazrat-e-Abbas ko lehrate huwe
@@ -23,15 +23,15 @@ romanLyrics: |-
 
   3
   Sahn-e-Kaaba se nikalta hai julus-e-Ashur
-  Apne is khwab ko tabir mein dhalta dekhuṅ
+  Apne is khwab ko tabir meiṅ dhalta dekhuṅ
 
   4
   Saamne Maula ke ja kar kahuṅ dil ki hajat
-  Kab talak darya mein behta ye ariza dekhuṅ
+  Kab talak darya meiṅ behta ye ariza dekhuṅ
 
   5
   Arsalan Azmi karta hai Karim ek dua
-  Turbat-e-Fatima Zehra pe main rauza dekhuṅ
+  Turbat-e-Fatima Zehra pe maiṅ rauza dekhuṅ
 # source_note: personal notebook ODT import on 2026-11-08; no unique source record ID
 # editorial_note: Notebook transcription; newly supplied Urdu where the notebook contains Roman only
 ---

@@ -18,9 +18,9 @@ romanLyrics: |-
   Sidhi ho ae kamar tujhe Abbas ki qasam
 
   1
-  Ye imtihaaṅ zaifi mein mujh ko nibhaana hai
-  Akbar ko le ke khaima-e-Zainab mein jaana hai
-  Raste mein larkharaaye na Shabbir ke qadam
+  Ye imtihaaṅ zaifi meiṅ mujh ko nibhaana hai
+  Akbar ko le ke khaima-e-Zainab meiṅ jaana hai
+  Raste meiṅ larkharaaye na Shabbir ke qadam
   Sidhi ho ae kamar tujhe Abbas ki qasam
 
   2
@@ -36,31 +36,31 @@ romanLyrics: |-
   Sidhi ho ae kamar tujhe Abbas ki qasam
 
   4
-  Is haal mein kahiṅ mujhe Zahra na dekh le
+  Is haal meiṅ kahiṅ mujhe Zahra na dekh le
   Meri kamar jhuki hui Baaba na dekh le
   Aate hi hoṅge mere madad ko Shah-e-Umam
   Sidhi ho ae kamar tujhe Abbas ki qasam
 
   5
-  Sine mein keh ke tori hai zaalim ne ye sinaaṅ
+  Sine meiṅ keh ke tori hai zaalim ne ye sinaaṅ
   Ab dekhne Husain ki niklegi kaise jaaṅ
   Zaalim ko ye bataana hai Ibn-e-Ali haiṅ ham
   Sidhi ho ae kamar tujhe Abbas ki qasam
 
   6
-  Is haal mein qiyaam mein jaauṅga kis tarah
+  Is haal meiṅ qiyaam meiṅ jaauṅga kis tarah
   Zainab ki kaainaat uthaauṅga kis tarah
-  Zahra ka chaand Karbobala mein hua hai kham
+  Zahra ka chaand Karbobala meiṅ hua hai kham
   Sidhi ho ae kamar tujhe Abbas ki qasam
 
   7
-  Ammaaṅ ke saath mil ke sinaaṅ main ne khench li
-  Haathoṅ mein ab hamaare wo taaqat nahiṅ rahi
+  Ammaaṅ ke saath mil ke sinaaṅ maiṅ ne khench li
+  Haathoṅ meiṅ ab hamaare wo taaqat nahiṅ rahi
   Abbas kya gaye mere baazu hue qalam
   Sidhi ho ae kamar tujhe Abbas ki qasam
 
   8
-  Baanheṅ gale mein daal di Akbar ne jis ghari
+  Baanheṅ gale meiṅ daal di Akbar ne jis ghari
   Ibn-e-Ali ne ro ke Takallum sada ye di
   Saanseṅ bachi hai ab mere Akbar ke paas kam
   Sidhi ho ae kamar tujhe Abbas ki qasam

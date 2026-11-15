@@ -40,7 +40,7 @@ romanLyrics: |-
   Sailaab meiṅ maut ke jis ne thi nanhi si jaan baha di
   Tadfin hui maasum ki ban meiṅ hairaan hui dunya thi
   Asghar to khaak pe yuṅ soya jaise wo god ho maaṅ ki
-  Beshir ki tadfin se lagta hai yuṅ Ameer
+  Beshir ki tadfin se lagta hai yuṅ Amir
   Jaise wo maaṅ ki god meiṅ aaraam kar gaya hai
 # source_id: nohayonline:a0a33ef5039a9ee1b0c5
 # source_url: https://www.nohayonline.com/details_content.php?id=2948

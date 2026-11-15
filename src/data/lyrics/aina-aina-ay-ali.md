@@ -15,7 +15,7 @@ romanLyrics: |-
   Kahaṅ ho Ae Ali Akbar
 
   1
-  Kiun rehm khao baap hai hadd darja sogwar
+  Kiuṅ rehm khao baap hai hadd darja sogwar
   Qasim na Aun aur na Abbas zi-waqar
   Dhundhuṅ kahaṅ pe aata nahiṅ kuchh mujhe nazar
 
@@ -25,18 +25,18 @@ romanLyrics: |-
   Kham hai tere chacha ke alam se meri kamar
 
   3
-  Lashoṅ se ran mein thokareṅ khata huṅ baar baar
+  Lashoṅ se ran meiṅ thokareṅ khata huṅ baar baar
   Qabu nahiṅ hai dil pe na aaza pe ikhtiyar
-  Qasim ke gham ne kar diye tukde dil o jigar
+  Qasim ke gham ne kar diye tukre dil o jigar
 
   4
   Teri phuphi nikal na pare khaimagah se
   Athara saal paala hai is ne to chaah se
-  Le jauṅ tum ko us ke main aane se peshtar
+  Le jauṅ tum ko us ke maiṅ aane se peshtar
 
   5
   Jab se suni hai teri sada maaṅ hai beqarar
-  Seene ko pakde puchhti hai mujh se baar baar
+  Sine ko pakre puchhti hai mujh se baar baar
   Kis ne kiya salam ye ran se pukar kar
 
   6
@@ -50,9 +50,9 @@ romanLyrics: |-
   Tayyar wapasi pe hai Sughra ka naamawar
 
   8
-  Is haal ka Anees kare kis tarah bayaṅ
+  Is haal ka Anis kare kis tarah bayaṅ
   Jis tarah Shah dhundte the apna naujawaṅ
-  Maqtal ki khaak aaj bhi hai gham mein nauhagar
+  Maqtal ki khaak aaj bhi hai gham meiṅ nauhagar
 # source_id: nohayonline:1134ae7de0d84438aa83
 # source_url: https://www.nohayonline.com/details_content.php?id=1755
 # raw_sha256: cd26b405e42ba89d08628b6ec879701c28bfaf5690b70a84676fa6df73b2022e

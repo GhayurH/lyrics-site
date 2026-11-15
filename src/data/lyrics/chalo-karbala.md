@@ -18,7 +18,7 @@ romanLyrics: |-
   Pyaasoṅ ke sogwaaroṅ chalo Karbala chaleṅ
 
   1
-  Maqtal mein jis jagah pe kata baazu-e-jari
+  Maqtal meiṅ jis jagah pe kata baazu-e-jari
   Roye jahaaṅ pe tir se ik mashk thi chhidi
   Hone ko ashkbaar chalo Karbala chaleṅ
 

@@ -15,7 +15,7 @@ romanLyrics: |-
   Bachchoṅ ke sada sar pe rahe baap ka saaya
 
   1
-  Dunya mein yehi unko bari nemat-e-Rab hai
+  Dunya meiṅ yehi unko bari nemat-e-Rab hai
   Jite haiṅ saroṅ par ko liye baap ka saaya
 
   2
@@ -27,7 +27,7 @@ romanLyrics: |-
   Wo khush nasib jin ko mile baap ka saaya
 
   4
-  Maayusi zindagi mein lagi rehti hai sada
+  Maayusi zindagi meiṅ lagi rehti hai sada
   Aulaad ke sar se jo hate baap ka saaya
 
   5

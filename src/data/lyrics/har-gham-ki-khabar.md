@@ -22,27 +22,27 @@ romanLyrics: |-
   2
   Kaanoṅ se tapakte haiṅ tere khun ke qatre
   Ye dekh ke hota hai kaleja mera tukre
-  Aansu nahiṅ aankhoṅ mein mera khun-e-jigar hai
+  Aansu nahiṅ aankhoṅ meiṅ mera khun-e-jigar hai
 
   3
-  Main dekh raha huṅ teri gardan mein rasan ko
+  Maiṅ dekh raha huṅ teri gardan meiṅ rasan ko
   Kya kya na aziyat hai tere gul se badan ko
   Ghabra ke na mar jaaye masaaib se ye dar hai
 
   4
-  Darbaar mein khush ho ke chali jaana Sakina
+  Darbaar meiṅ khush ho ke chali jaana Sakina
   Baba ki qasam tujh ko na ghabraana Sakina
   Naize pe pareshaan tere baap ka sar hai
 
   5
-  Ab tere muqaddar mein kahaaṅ shehr-e-Madina
-  Ae beti sikh le zindaan mein jina
+  Ab tere muqaddar meiṅ kahaaṅ shehr-e-Madina
+  Ae beti sikh le zindaan meiṅ jina
   Ae lakht-e-jigar aaj se tera yahi ghar hai
 
   6
   Abbas ki sangat hai ye ahwaal-e-Sakina
   Irfan bayaaṅ kaise kare haaye Sakina
-  Dil hilta hai Akhtar tere nauhe mein asar hai
+  Dil hilta hai Akhtar tere nauhe meiṅ asar hai
 # source_id: nohayonline:7f98fd23e56708a0b781
 # source_url: https://www.nohayonline.com/details_content.php?id=1179
 # raw_sha256: fe5dccde489d361ec1da7706a4014e277b0cc91b61422d5891fb180f10f9b2cb

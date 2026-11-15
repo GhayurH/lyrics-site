@@ -1,6 +1,6 @@
 ---
 title: "یا أخی ہو کہاں"
-alternateTitle: "Abbas Tum Kahan Ho"
+alternateTitle: "Abbas Tum Kahaṅ Ho"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -17,7 +17,7 @@ romanLyrics: |-
   Hote haiṅ zulm hum par Abbas tum kahaṅ ho
 
   1
-  Bas ek hi rasan mein baarah gale bandhe haiṅ
+  Bas ek hi rasan meiṅ baarah gale bandhe haiṅ
   Har ek qadam pe bhai dam sab ke ghut rahe haiṅ
   Ae bawafa dilawar Abbas tum kahaṅ ho
 
@@ -53,7 +53,7 @@ romanLyrics: |-
 
   8
   Waiz Ali Mohammad wo dard ki ghari thi
-  Darbar mein ye Zainab jab ro ke keh rahi thi
+  Darbar meiṅ ye Zainab jab ro ke keh rahi thi
   Hai hashr ka ye manzar Abbas tum kahaṅ ho
 # source_id: nohayonline:e6e1844e5c4226d95b85
 # source_url: https://www.nohayonline.com/details_content.php?id=2847

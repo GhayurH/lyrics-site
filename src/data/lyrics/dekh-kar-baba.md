@@ -13,53 +13,53 @@ published: true
 romanLyrics: |-
   Dekh kar baba ka laasha ek beta ro diya
   Reh gaya jis dam akela ek beta ro diya
-  Gham ki zanjiroṅ mein jakra ek beta ro diya
+  Gham ki zanjiroṅ meiṅ jakra ek beta ro diya
   Dekh kar baba ka laasha ek beta ro diya
 
   1
   Naatavaaṅ bimaar laaghar aur safar ki sakhtiyaaṅ
   Dekh kar hamraah apne sar barehna bibiyaaṅ
-  Gham ki zanjiroṅ mein jakra ek beta ro diya
+  Gham ki zanjiroṅ meiṅ jakra ek beta ro diya
 
   2
-  Pyaas ki shiddat se chehra zard aur pairoṅ mein khaar
+  Pyaas ki shiddat se chehra zard aur pairoṅ meiṅ khaar
   Har qadam par dekh kar taaza musibat ka dayaar
-  Gham ki zanjiroṅ mein jakra ek beta ro diya
+  Gham ki zanjiroṅ meiṅ jakra ek beta ro diya
 
   3
-  Saath mein ahl-e-haram hai aur sab hai nange sar
+  Saath meiṅ ahl-e-haram hai aur sab hai nange sar
   Karbala se Shaam tak jaayeṅge kaise soch kar
-  Gham ki zanjiroṅ mein jakra ek beta ro diya
+  Gham ki zanjiroṅ meiṅ jakra ek beta ro diya
 
   4
   Tauq o langar ki garaani se kamar thaame hue
   Uth raha tha har qadam qalb o jigar thaame hue
-  Gham ki zanjiroṅ mein jakra ek beta ro diya
+  Gham ki zanjiroṅ meiṅ jakra ek beta ro diya
 
   5
   Jo musibat aayi Aabid par parhi naad-e-Ali
   Karbala se Shaam tak jab bhi koi thokar pari
-  Gham ki zanjiroṅ mein jakra ek beta ro diya
+  Gham ki zanjiroṅ meiṅ jakra ek beta ro diya
 
   6
-  Chal rahi thi raah mein sina utha kar mushkileṅ
-  Jab safar mein pesh aayi har qadam par mushkileṅ
-  Gham ki zanjiroṅ mein jakra ek beta ro diya
+  Chal rahi thi raah meiṅ sina utha kar mushkileṅ
+  Jab safar meiṅ pesh aayi har qadam par mushkileṅ
+  Gham ki zanjiroṅ meiṅ jakra ek beta ro diya
 
   7
   Jab sitam ne apna andaaz-e-sitam badla nahiṅ
   Raaste bhar bekasi ne saath jab chhora nahiṅ
-  Gham ki zanjiroṅ mein jakra ek beta ro diya
+  Gham ki zanjiroṅ meiṅ jakra ek beta ro diya
 
   8
-  Shaam ke zindaaṅ mein jis dam Sakina mar gayi
+  Shaam ke zindaaṅ meiṅ jis dam Sakina mar gayi
   Aur apne bhaai ko ek dam akela kar gayi
-  Gham ki zanjiroṅ mein jakra ek beta ro diya
+  Gham ki zanjiroṅ meiṅ jakra ek beta ro diya
 
   9
-  Kar raha huṅ main bayaaṅ bimaar ka huzn o malaal
-  Aa rahe haiṅ zehn mein Ishrat masaaib ke khayaal
-  Gham ki zanjiroṅ mein jakra ek beta ro diya
+  Kar raha huṅ maiṅ bayaaṅ bimaar ka huzn o malaal
+  Aa rahe haiṅ zehn meiṅ Ishrat masaaib ke khayaal
+  Gham ki zanjiroṅ meiṅ jakra ek beta ro diya
 # source_id: nohayonline:88e9bbd407c16c939bc0
 # source_url: https://www.nohayonline.com/details_content.php?id=3663
 # raw_sha256: 8e00eba3a34e11fa8afe053c66cb096bb0fbd334d9b3b7ca84bab692a7759299

@@ -17,9 +17,9 @@ romanLyrics: |-
   Dard ki tasvir hai aur qaid khaana Shaam ka
 
   1
-  Kehte the Sajjad ro kar kaise behlaauṅ main khwaahar
+  Kehte the Sajjad ro kar kaise behlaauṅ maiṅ khwaahar
   Ye tera majbur bhaai kya sunaaye tujh ko aa kar
-  Paaoṅ mein zanjir hai aur qaid khaana Shaam ka
+  Paaoṅ meiṅ zanjir hai aur qaid khaana Shaam ka
 
   2
   Khaak hi bistar hai tera khaak hi takiya hai tera
@@ -27,22 +27,22 @@ romanLyrics: |-
   Ab yehi taqdir hai aur qaid khaana Shaam ka
 
   3
-  Main kahaaṅ se laauṅ beta zakhm ka marham bata de
+  Maiṅ kahaaṅ se laauṅ beta zakhm ka marham bata de
   Tujh ko khaane haiṅ yahaaṅ par ghurkiyaaṅ aur taaziyaane
   Ek tu dilgir hai aur qaid khaana Shaam ka
 
   4
   Ashk-e-gham piti raho ab gham pe gham sehti raho
-  Jis tarah bhi ho mayassar qaid mein jiti raho
+  Jis tarah bhi ho mayassar qaid meiṅ jiti raho
   Ab yehi tauqir hai aur qaid khaana Shaam ka
 
   5
-  Baap ki furqat mein jina hai bara mushkil magar
-  Jo muqaddar mein likha hai sabr kar le sabr kar
+  Baap ki furqat meiṅ jina hai bara mushkil magar
+  Jo muqaddar meiṅ likha hai sabr kar le sabr kar
   Dard ki tahrir hai aur qaid khaana Shaam ka
 
   6
-  Dekh tere gham mein roti hai phuphi Zainab teri
+  Dekh tere gham meiṅ roti hai phuphi Zainab teri
   Khatm ho jaaye na rote rote un ki zindagi
   Waaris-e-tathir hai aur qaid khaana Shaam ka
 
@@ -52,9 +52,9 @@ romanLyrics: |-
   Waqt ki zanjir hai aur qaid khaana Shaam ka
 
   8
-  Qaid mein Sajjad kehte the ye Mazhar Abidi
+  Qaid meiṅ Sajjad kehte the ye Mazhar Abidi
   Kis tarah taqdir bigri Mustafa ke aal ki
-  Qalb mein ye tir hai aur qaid khaana Shaam ka
+  Qalb meiṅ ye tir hai aur qaid khaana Shaam ka
 # source_id: nohayonline:97846fb0fefcb640d32a
 # source_url: https://www.nohayonline.com/details_content.php?id=3063
 # raw_sha256: 2d6416944290957912bad8e0681acdf53a56cccfd3bc15c046bd0ff4e75283ae

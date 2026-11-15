@@ -1,6 +1,6 @@
 ---
 title: "کہاں بتول کی غربت کو ہم سمجھ پائے"
-alternateTitle: "Ghurbate Batool"
+alternateTitle: "Ghurbate Batul"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   Zaif ho gayi darbaar jab gayi Bibi
-  Siyaah sar mein safedi utar gayi haaye
+  Siyaah sar meiṅ safedi utar gayi haaye
 
   4
   Utha ke haath sitamgar ne qahqaha maara

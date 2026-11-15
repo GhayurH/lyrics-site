@@ -1,6 +1,6 @@
 ---
 title: "اے شہید کربلا تجھ پر سلام"
-alternateTitle: "Ae Shaheed-e-Karbala"
+alternateTitle: "Ae Shahid-e-Karbala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: ["Ay Shaheede Karbala"]
 published: true
 romanLyrics: |-
-  Ae shaheed-e-Karbala tujh par salaam
+  Ae shahid-e-Karbala tujh par salaam
   Ae zabih-e-Nainawa tujh par salaam
 
   1
@@ -40,7 +40,7 @@ romanLyrics: |-
   Ae zabih-e-Nainawa tujh par salaam
 
   6
-  Saaye mein tiroṅ ke tu ne ae Husain
+  Saaye meiṅ tiroṅ ke tu ne ae Husain
   Ki namaaz-e-haq ada tujh par salaam
   Ae zabih-e-Nainawa tujh par salaam
 

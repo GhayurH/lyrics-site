@@ -25,28 +25,28 @@ romanLyrics: |-
 
   2
   Asr ka waqt jaane ko hai
-  Tiragi ran mein chhaane ko hai
+  Tiragi ran meiṅ chhaane ko hai
   Dhalne waala hai suraj behen
   Shaam-e-aalam aane ko hai
   Shah ka hai dawaam aakhri
 
   3
-  Aun o Akbar ko main kho chuka
+  Aun o Akbar ko maiṅ kho chuka
   Chhid chuka bezabaaṅ ka gala
-  Ab hai fauj-e-sitam aur main
+  Ab hai fauj-e-sitam aur maiṅ
   Aur zakhmi hai sina mera
   Bar zabaaṅ hai kalaam aakhri
 
   4
   Sun ke ye qaul-e-Shah pur mihan
   Sabr darkaar hai khasta tan
-  Ab to shuhada ke mahwar mein haaṅ
+  Ab to shuhada ke mahwar meiṅ haaṅ
   Meri maaṅ jaai meri behen
   Bas hamaara hai naam aakhri
 
   5
   Baad mere tera maaraka
-  Kufa aur Shaam mein hai saja
+  Kufa aur Shaam meiṅ hai saja
   Sher dil khwaahar-e-Shah-e-diṅ
   Tujh ko karna hai sar ba Khuda
   Ab hai mera qayaam aakhri
@@ -68,7 +68,7 @@ romanLyrics: |-
   8
   Daayam o Yazdaaṅ Shah ke sukhan
   Sun ke roye zamin o zaman
-  Baazuoṅ mein rasan jab bandhe
+  Baazuoṅ meiṅ rasan jab bandhe
   Sabr karna ae meri behen
   Kaam ye tishna kaam aakhri
 # source_id: nohayonline:c4cf21d27ff0419c2097

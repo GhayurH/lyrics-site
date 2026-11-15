@@ -17,12 +17,12 @@ romanLyrics: |-
   Dulha bana jo Hazrat-e-Shabbar ka laadla
 
   Aashur ki wo shab wo qayaamat ki thi ghari
-  Ibn-e-Hasan ke haath mein mehndi rachi hui
+  Ibn-e-Hasan ke haath meiṅ mehndi rachi hui
   Sehra bhi sar pe Naad-e-Ali ka saja hua
 
   1
   Itna hasiṅ lagta tha wo nur pairahan
-  Sehre mein aaftaab-e-imaamat ki wo kiran
+  Sehre meiṅ aaftaab-e-imaamat ki wo kiran
   Aankheṅ sitaara jaisi thi chehra tha chaand sa
 
   2
@@ -46,7 +46,7 @@ romanLyrics: |-
   Yaad aayega lainoṅ ko Khaibar ka maaraka
 
   6
-  Maaṅ ne kaha ki main to bahut arz kar chuki
+  Maaṅ ne kaha ki maiṅ to bahut arz kar chuki
   Ibn-e-Batul sunte nahiṅ iltija meri
   Tum khud hi jaa ke un se kaho apna muddaa
 
@@ -63,17 +63,17 @@ romanLyrics: |-
   9
   Taawiz ek baazu se Qasim ne khol kar
   Maula Husain ko diya qadmoṅ pe rakh ke sar
-  Taawiz mein payaam-e-Hasan tha likha hua
+  Taawiz meiṅ payaam-e-Hasan tha likha hua
 
   10
   Amma ki jaan bhaai ke qalb o jigar Husain
-  Karbobala mein fidya hai mera ye nur-e-ain
+  Karbobala meiṅ fidya hai mera ye nur-e-ain
   Qasim ko dena izn-e-wigha hukm hai mera
 
   11
   Tahrir parh ke ro diye Mazlum-e-Karbala
   Sar ko jhuka ke izn-e-wigha de ke ye kaha
-  Pardes mein hamaara muqaddar bigar gaya
+  Pardes meiṅ hamaara muqaddar bigar gaya
 
   12
   Izn-e-jihaad milte hi Qasim hue nihaaṅ
@@ -81,9 +81,9 @@ romanLyrics: |-
   Dulha kamar ko kas ke pa-e-jang chal diya
 
   13
-  Sehra tha sar pe haath mein kangna bandha hua
+  Sehra tha sar pe haath meiṅ kangna bandha hua
   Dulha jo qatl gaah ki jaanib chala gaya
-  Khaimoṅ mein Shah-e-waala ke kohraam ho gaya
+  Khaimoṅ meiṅ Shah-e-waala ke kohraam ho gaya
 
   14
   Hamla kiya Hasan ke pisar ne kuchh is tarah
@@ -117,11 +117,11 @@ romanLyrics: |-
 
   20
   Sar tha kahiṅ to haath kahiṅ aur badan kahiṅ
-  Tukroṅ mein bat gaya tha wo Farwa ka naazniṅ
-  Dulha ka qatl gaah mein laasha bikhar gaya
+  Tukroṅ meiṅ bat gaya tha wo Farwa ka naazniṅ
+  Dulha ka qatl gaah meiṅ laasha bikhar gaya
 
   21
-  Daaman mein apne laash ke tukre Shah-e-Huda
+  Daaman meiṅ apne laash ke tukre Shah-e-Huda
   Chunte the aur kehte the ae mere mah laqa
   Dulhan se teri jaa ke kahega Husain kya
 

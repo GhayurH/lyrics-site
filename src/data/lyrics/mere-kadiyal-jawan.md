@@ -18,9 +18,9 @@ romanLyrics: |-
   Mere karyal jawaaṅ bete ne tera kya bigaara tha
 
   1
-  Duaaeṅ maanga karti thi main jis ke waaste har dam
+  Duaaeṅ maanga karti thi maiṅ jis ke waaste har dam
   Karuṅgi zindagi bhar ab usi farzand ka maatam
-  Tere naize ne meri zindagi mein likh diya rona
+  Tere naize ne meri zindagi meiṅ likh diya rona
 
   2
   Wo mere dil ki thandak tha meri aankhoṅ ka taara tha
@@ -30,7 +30,7 @@ romanLyrics: |-
   3
   Sinaaṅ sine pe tu ne maar di itna bhi na socha
   Ki maaṅ jab umr kho deti hai tab palta hai ek beta
-  Meri sab mehnatoṅ ko pal mein hi paamaal kar daala
+  Meri sab mehnatoṅ ko pal meiṅ hi paamaal kar daala
 
   4
   Rahega ghaao ab ye hashr tak mere kaleje par
@@ -38,13 +38,13 @@ romanLyrics: |-
   Use pyaasa hi tu ne maar daala rahm na khaaya
 
   5
-  Main apne laal ki baraat le kar jaane waali thi
-  Ali Akbar ki dulhan ghar mein le kar aane waali thi
+  Maiṅ apne laal ki baraat le kar jaane waali thi
+  Ali Akbar ki dulhan ghar meiṅ le kar aane waali thi
   Na banne paaya mera laal tere zulm se dulha
 
   6
   Bata deta agarche tujh ko maal o zar ki laalach thi
-  Main apne laal pe sab maal o zar qurbaan kar deti
+  Maiṅ apne laal pe sab maal o zar qurbaan kar deti
   Kaleja kaat daal tu ne ae jallaad maadar ka
 
   7

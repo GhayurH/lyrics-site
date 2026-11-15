@@ -27,10 +27,10 @@ romanLyrics: |-
 
   4
   Do sada ho kahaaṅ Ali Akbar
-  Thokareṅ ran mein kha rahe haiṅ Husain
+  Thokareṅ ran meiṅ kha rahe haiṅ Husain
 
   5
-  Jaao khaime mein jaao ae Zainab
+  Jaao khaime meiṅ jaao ae Zainab
   Laash Akbar ki laa rahe haiṅ Husain
 
   6
@@ -39,7 +39,7 @@ romanLyrics: |-
 
   7
   Chun ke Qasim ki laash ke tukre
-  Apne daaman mein laa rahe haiṅ Husain
+  Apne daaman meiṅ laa rahe haiṅ Husain
 
   Dil ki quwwat dikha rahe haiṅ Husain
 # source_id: nohayonline:8e05f34459d6b59a4a76

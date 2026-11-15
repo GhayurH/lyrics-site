@@ -37,23 +37,23 @@ romanLyrics: |-
   4
   Shimr ke khauf se jo ro na saki
   Wo Sakina kabhi jo so na saki
-  Aa ke zindaaṅ mein soi aakhir kaar
+  Aa ke zindaaṅ meiṅ soi aakhir kaar
   Ya Ali ya Husain ya Abbas
 
   5
   Ek bimaar ki hai ye tauqir
-  Tauq gardan mein paaoṅ mein zanjir
+  Tauq gardan meiṅ paaoṅ meiṅ zanjir
   Wo lute qaafile ka hai saalaar
   Ya Ali ya Husain ya Abbas
 
   6
   Kaash koi us ki tanaabeṅ kas jaaye
   Kaash ye sar zamin dhaṅs jaaye
-  Be-rida haiṅ haram sar-e-darbaar
+  berida haiṅ haram sar-e-darbaar
   Ya Ali ya Husain ya Abbas
 
   7
-  Un ke sinoṅ mein ho yaqin ki zia
+  Un ke sinoṅ meiṅ ho yaqin ki zia
   Shahid nauhagar ki hai ye dua
   Aaye rauzoṅ pe aap ke ghamkhwaar
   Ya Ali ya Husain ya Abbas

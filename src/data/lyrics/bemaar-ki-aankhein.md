@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Sughra ne kaha mujh ko ik baar jo mil jaaye
-  Sar apna main rakh duṅ gi bhaiya tere paaoṅ par
+  Sar apna maiṅ rakh duṅ gi bhaiya tere paaoṅ par
 
   2
   Kiuṅ bhul gaye bhaiya Sughra ki khata kya hai
@@ -27,7 +27,7 @@ romanLyrics: |-
   Dekhe gi nishaaṅ jis dam Zainab tere baahoṅ par
 
   4
-  Dekha ke lahu mein hai duba hua sab kunba
+  Dekha ke lahu meiṅ hai duba hua sab kunba
   Kya khwaab utar aaya Sughra ki nigaahoṅ par
 
   5
@@ -35,7 +35,7 @@ romanLyrics: |-
   Afsos kare duniya ab aisi ghataaoṅ par
 
   6
-  Hai dhup mein jis din se laasha Ali Akbar ka
+  Hai dhup meiṅ jis din se laasha Ali Akbar ka
   Maaṅ ashk giraati hai har per ki chhaaoṅ par
 
   7

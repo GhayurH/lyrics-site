@@ -1,6 +1,6 @@
 ---
 title: "رہ گیا جب سینۂ اکبر میں نیزہ دیر تک"
-alternateTitle: "Akbar Mein Naiza"
+alternateTitle: "Akbar Meiṅ Naiza"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,27 +11,27 @@ aliases: []
 published: true
 reciter: "Mir Rehan Abbas"
 romanLyrics: |-
-  Reh gaya jab sina-e-Akbar mein neza der tak
+  Reh gaya jab sina-e-Akbar meiṅ neza der tak
   Maut se larta raha Laila ka beta der tak
 
   1
-  Saath mein nur-e-nazar ke nur nazroṅ ka gaya
-  Thokareṅ khaate rahe maqtal mein Maula der tak
+  Saath meiṅ nur-e-nazar ke nur nazroṅ ka gaya
+  Thokareṅ khaate rahe maqtal meiṅ Maula der tak
 
   2
   Sina-e-Akbar se khencha Sheh ne keh kar Ya Ali
-  Dil mein uljha jab nikal paaya na neza der tak
+  Dil meiṅ uljha jab nikal paaya na neza der tak
 
   3
-  Saath mein barchhi ke nikla jab Ali Akbar ka dil
+  Saath meiṅ barchhi ke nikla jab Ali Akbar ka dil
   Ban ke aansu khun-e-dil aankhoṅ se nikla der tak
 
   4
   Jab ragar kar eriyaṅ bejaan Akbar ho gaye
-  Sheh ki aankhoṅ mein raha chhaaya andhera der tak
+  Sheh ki aankhoṅ meiṅ raha chhaaya andhera der tak
 
   5
-  Uth na pai jab zaifi mein jawaṅ bete ki laash
+  Uth na pai jab zaifi meiṅ jawaaṅ bete ki laash
   Apni mazlumi pe roe Ibn-e-Zehra der tak
 
   6
@@ -39,15 +39,15 @@ romanLyrics: |-
   Jab na sambhla naujawaṅ bete ka laasha der tak
 
   7
-  Le ke burha baap jab aaya jawaṅ bete ki laash
-  Khaima-e-Sheh mein hua kohraam barpa der tak
+  Le ke burha baap jab aaya jawaaṅ bete ki laash
+  Khaima-e-Sheh meiṅ hua kohraam barpa der tak
 
   8
-  Kaise le jae jawaṅ ki laash maaṅ ke saamne
+  Kaise le jae jawaaṅ ki laash maaṅ ke saamne
   Yaas se dekha kiye Sheh su-e-khaima der tak
 
   9
-  Aalam-e-ghurbat mein Sheh ko jab khat-e-Sughra mila
+  Aalam-e-ghurbat meiṅ Sheh ko jab khat-e-Sughra mila
   Shah-e-Diṅ dekha kiye tahrir-e-Sughra der tak
 
   10

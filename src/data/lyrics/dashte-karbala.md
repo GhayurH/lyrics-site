@@ -11,64 +11,64 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Dasht-e-Karbala mein jaan-e-Saiyyada par
-  Chal raha tha khanjar dasht-e-Karbala mein
+  Dasht-e-Karbala meiṅ jaan-e-Saiyyada par
+  Chal raha tha khanjar dasht-e-Karbala meiṅ
   Apne dil ko thaame bekasi se khwaahar
-  Dekhti thi manzar dasht-e-Karbala mein
+  Dekhti thi manzar dasht-e-Karbala meiṅ
 
   1
   Jis ghari wo pyaasa kar raha tha sajda
   Dhup se lipat kar ro raha tha saaya
   Har taraf udaasi chhaa gai thi aisi
-  Ro diye payambar dasht-e-Karbala mein
+  Ro diye payambar dasht-e-Karbala meiṅ
 
   2
   Ghamzada hawaaeṅ khuṅ fishaaṅ fizaaeṅ
   Bewatan musaafir ab kahaaṅ ko jaae
   Jal chuke haiṅ khaime lutne ko chaadar
-  Aa gaya tha lashkar dasht-e-Karbala mein
+  Aa gaya tha lashkar dasht-e-Karbala meiṅ
 
   3
   Bekafan the laashe lashkar-e-Khuda ke
-  Khuṅ ubal raha tha ban mein Karbala ke
+  Khuṅ ubal raha tha ban meiṅ Karbala ke
   Gunjta tha nauha Bint-e-Murtaza ka
-  Lut gaya mera ghar dasht-e-Karbala mein
+  Lut gaya mera ghar dasht-e-Karbala meiṅ
 
   4
   Kya kare Sakina zakhmi hai wo sina
   Nind kaise aae ae Shah-e-Madina
   Khaa chuki tamaanche Shimr behaya ne
-  Chhine mere gauhar dasht-e-Karbala mein
+  Chhine mere gauhar dasht-e-Karbala meiṅ
 
   5
   Loriyaaṅ kise de bezabaaṅ ki maadar
   Lab pe har ghari hai haae haae Asghar
   Jal gaya hai jhula ye sitam hai kaisa
-  Dhundti hai maadar dasht-e-Karbala mein
+  Dhundti hai maadar dasht-e-Karbala meiṅ
 
   6
   Jab sitam ki barchhi naujawaaṅ ne khaai
   Ek sada-e-ghaibi aasmaaṅ se aai
   Sabr kar le Zainab is jawaaṅ ko apne
-  Dil pe rakh ke patthar dasht-e-Karbala mein
+  Dil pe rakh ke patthar dasht-e-Karbala meiṅ
 
   7
   Qasim-e-jawaaṅ ka tukre tukre laasha
-  Jab aba mein chun kar laae mere Maula
+  Jab aba meiṅ chun kar laae mere Maula
   Aasmaan roya tha zamiṅ ko sakta
-  Dekh ke ye manzar dasht-e-Karbala mein
+  Dekh ke ye manzar dasht-e-Karbala meiṅ
 
   8
   Ik burida baazu Alqama kinaare
   Naam par wafa ke apna khuṅ baha ke
   Keh gaya jahaaṅ se ashk-e-khuṅ fishaaṅ se
-  Main huṅ aaj Haidar dasht-e-Karbala mein
+  Maiṅ huṅ aaj Haidar dasht-e-Karbala meiṅ
 
   9
   Naasir-e-Shaah-e-diṅ khuld ke the raahi
   Ae Rehaan is ki kiuṅ na duṅ gawaahi
   Jaannisaar saare apni jaan haare
-  Ibn-e-Murtaza par dasht-e-Karbala mein
+  Ibn-e-Murtaza par dasht-e-Karbala meiṅ
 # source_id: nohayonline:f3d621c8509480fdddb4
 # source_url: https://www.nohayonline.com/details_content.php?id=1908
 # raw_sha256: f0d3e3644e64510011e9ddfba74db48cf45674acad7ae71e70a370365aa9f020

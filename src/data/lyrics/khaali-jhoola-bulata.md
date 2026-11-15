@@ -15,19 +15,19 @@ romanLyrics: |-
   Maaṅ ka dil ghabraata hai kab aaoge Asghar
 
   1
-  Har su dasht mein shaam-e-gharibaaṅ
+  Har su dasht meiṅ shaam-e-gharibaaṅ
   Ke saaye lehraane lage
   Maut ki baaheṅ phail gayiṅ
   Tanhaai ke baadal chhaane lage
-  Suraj ran mein qatl hua
-  Darya khuṅ mein dub gaya
+  Suraj ran meiṅ qatl hua
+  Darya khuṅ meiṅ dub gaya
   Sannaata tarpaata hai
   Kab aaoge Asghar
 
   2
   Kaash agar bas chalta mera
   Maut se tujh ko bacha laati
-  Khaime se khud ran mein aa kar main
+  Khaime se khud ran meiṅ aa kar maiṅ
   Tir gale par khaa leti
   Ruth gaye kiuṅ ae dilbar
   Jaata hai jab koi baahar
@@ -45,11 +45,11 @@ romanLyrics: |-
   Kab aaoge Asghar
 
   4
-  Tum hi bataao jaauṅ kahaaṅ main
+  Tum hi bataao jaauṅ kahaaṅ maiṅ
   Band hai sab raaheṅ meri
-  Jholi mein ab kuchh bhi nahiṅ
+  Jholi meiṅ ab kuchh bhi nahiṅ
   Viraan hui baaheṅ meri
-  Beta main tujh se bichhar gayi
+  Beta maiṅ tujh se bichhar gayi
   Dunya meri ujar gayi
   Gham mujhe khaaye jaata hai
   Kab aaoge Asghar
@@ -57,7 +57,7 @@ romanLyrics: |-
   5
   Aane waale aaye magar
   Is tarah dilaase de ke gaye
-  Aag lagaai khaimoṅ mein
+  Aag lagaai khaimoṅ meiṅ
   Ghar luta chaadar le ke gaye
   Haal kahuṅ kya ae jaani
   Pursa deti hai viraani
@@ -65,7 +65,7 @@ romanLyrics: |-
   Kab aaoge Asghar
 
   6
-  Karb o bala ke dasht mein aa kar
+  Karb o bala ke dasht meiṅ aa kar
   Phut gayi qismat meri
   Ran ki zamiṅ se uth ke zara sa
   Dekh to lo haalat meri
@@ -75,12 +75,12 @@ romanLyrics: |-
   Kab aaoge Asghar
 
   7
-  Qaid mein bhi bhule se meri
-  Aaṅkhoṅ mein agar nind aati hai
-  Khwaab mein chehra dekh ke tera
+  Qaid meiṅ bhi bhule se meri
+  Aaṅkhoṅ meiṅ agar nind aati hai
+  Khwaab meiṅ chehra dekh ke tera
   Chauṅk ke maaṅ uth jaati hai
   Kho gayi jhule ki dori
-  Kis ko sunaauṅ main lori
+  Kis ko sunaauṅ maiṅ lori
   Haath yuṅhi lehraata hai
   Kab aaoge Asghar
 
@@ -88,7 +88,7 @@ romanLyrics: |-
   Maqta likhte likhte Nayyar
   Mujh ko achaanak aisa laga
   Jaise kisi ne rakh diya laa kar
-  Mere tasavvur mein jhula
+  Mere tasavvur meiṅ jhula
   Aamir ne noha jo parha
   Dil ko ye mehsus hua
   Loriyaaṅ koi sunaata hai

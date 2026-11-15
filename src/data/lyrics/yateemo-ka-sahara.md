@@ -20,17 +20,17 @@ romanLyrics: |-
   Sab ka hamdard tha jo aaj wo Maula na raha
 
   2
-  Kaisi masjid mein namaazi pe sitamgaari hai
+  Kaisi masjid meiṅ namaazi pe sitamgaari hai
   Sar shikasta hai qayaamat hai lahu jaari hai
   Bhar gaya khun musalla bhi musalla na raha
 
   3
   Sahar ke waqt bhi chhaaye hai andhere kaise
   Dekh kar su-e-Baqayya ye kaha Zainab ne
-  Dekho ammaaṅ meri duniya mein ujaala na raha
+  Dekho ammaaṅ meri duniya meiṅ ujaala na raha
 
   4
-  Khun mein dub gaya hai jo Ali ka chehra
+  Khun meiṅ dub gaya hai jo Ali ka chehra
   Ibn-e-Muljim ne sitam hai ye Khuda par dhaaya
   Jis se zaahir tha Khuda aaj wo chehra na raha
 

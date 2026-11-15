@@ -19,7 +19,7 @@ romanLyrics: |-
   Shanaasa ek Khuda hai aur maiṅ huṅ
 
   2
-  Farishtoṅ qabr mein aahista bolo
+  Farishtoṅ qabr meiṅ aahista bolo
   Yahaaṅ mushkil kusha hai aur maiṅ huṅ
 
   3
@@ -27,15 +27,15 @@ romanLyrics: |-
   Bas ab raah-e-Khuda hai aur maiṅ huṅ
 
   4
-  Khabar deta hai ran mein husn-e-Akbar
+  Khabar deta hai ran meiṅ husn-e-Akbar
   Sadaa nur-e-Khuda hai aur maiṅ huṅ
 
   5
-  Watan mein haal-e-Sughra jis ne puchha
+  Watan meiṅ haal-e-Sughra jis ne puchha
   Kaha aah o buka hai aur maiṅ huṅ
 
   6
-  Safar mein aa gai Shaam-e-gharibaaṅ
+  Safar meiṅ aa gai Shaam-e-gharibaaṅ
   Lainoṅ ki jafa hai aur maiṅ huṅ
 
   7

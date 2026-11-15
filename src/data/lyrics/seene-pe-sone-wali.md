@@ -15,18 +15,18 @@ romanLyrics: |-
 
   1
   Chaadar bhi chhin chuki hai gohar bhi chhin chuke haiṅ
-  Nanhe se paaoṅ mein bhi chhaale pare hue haiṅ
+  Nanhe se paaoṅ meiṅ bhi chhaale pare hue haiṅ
   Nili hai pusht haaye roti hai Shah ki dukhtar
 
   2
-  Kaanoṅ se khun ab bhi hai ghamzada ke jaari
+  Kaanoṅ se khuṅ ab bhi hai ghamzada ke jaari
   Jab jab haiṅ kaan dukhte roti hai Shah ki beti
   Ab ro ke keh rahi hai bhaiya chaleṅge ghar hum
 
   3
   Bimaar reh ke bhai sine pe hi sulaata
-  Gar haath hathkari mein donoṅ bandha na hota
-  Gardan mein tauq bhaari aur hai kamar mein langar
+  Gar haath hathkari meiṅ donoṅ bandha na hota
+  Gardan meiṅ tauq bhaari aur hai kamar meiṅ langar
 
   4
   Kaise koi ye likhe kis tarah so rahi hai
@@ -34,9 +34,9 @@ romanLyrics: |-
   Aaqa ko saath le kar Abbas dekho aa kar
 
   5
-  Hasrat se qaid khaane mein mujh se keh rahi hai
+  Hasrat se qaid khaane meiṅ mujh se keh rahi hai
   Bhaiya gale ki rassi taklif de rahi hai
-  Har saans mein na kiuṅkar mar jaauṅgi main ghut kar
+  Har saans meiṅ na kiuṅkar mar jaauṅgi maiṅ ghut kar
 
   6
   Bhaiya dua ye kar do mar jaaye ab Sakina
@@ -44,19 +44,19 @@ romanLyrics: |-
   Ghairat rula rahi hai sar par nahiṅ hai chaadar
 
   7
-  Sajjad kar rahe haiṅ zindaan mein ye noha
+  Sajjad kar rahe haiṅ zindaan meiṅ ye noha
   Jab dekhte haiṅ dar se urta hua parinda
   Urte hue parinde ye dekh le thahar kar
 
   8
   Baaloṅ se Bibiyoṅ ne apne kiye the parde
-  Kaise main muṅh chhupaati the baal mere chhote
+  Kaise maiṅ muṅh chhupaati the baal mere chhote
   Zakhmi mera jigar hai sadma bahut hai dil par
 
   9
   Rehaan aur Mubaarak lamha ajib aaya
   Sab keh ke ro rahe haiṅ lo mar gayi Sakina
-  Sajjad keh rahe haiṅ is ko lahad mein rakh kar
+  Sajjad keh rahe haiṅ is ko lahad meiṅ rakh kar
 # source_id: nohayonline:5d0f57e338fe6bd8067f
 # source_url: https://www.nohayonline.com/details_content.php?id=736
 # raw_sha256: 297afa7520c5b40607954bfd5a600e36919e091b9789930654faa3d88da16d7b

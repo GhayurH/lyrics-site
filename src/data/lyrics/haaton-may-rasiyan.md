@@ -1,6 +1,6 @@
 ---
 title: "ہاتھوں میں رسیاں ہیں سر پر ردا نہیں ہے"
-alternateTitle: "Haathoṅ Mein Rassiyaṅ"
+alternateTitle: "Haathoṅ Meiṅ Rassiyaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,11 +11,11 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Haathoṅ mein rassiyaṅ haiṅ sar par rida nahiṅ hai
+  Haathoṅ meiṅ rassiyaṅ haiṅ sar par rida nahiṅ hai
   Zainab tera muhaafiz Abbas kya nahiṅ hai
 
   1
-  Dharne ki til jagah hai baazaar mein bhala kab
+  Dharne ki til jagah hai baazaar meiṅ bhala kab
   Apni musibatoṅ ko tu jaane ya tera Rab
   Abbas ka sinaaṅ par sar theharta nahiṅ hai
 
@@ -31,7 +31,7 @@ romanLyrics: |-
 
   4
   Parwardigaar tujh par nazreṅ jamaaye hoga
-  Qadmoṅ mein tere apna taaba bichhaaye hoga
+  Qadmoṅ meiṅ tere apna taaba bichhaaye hoga
   Tujh sa siwaaye tere koi dusra nahiṅ hai
 
   5

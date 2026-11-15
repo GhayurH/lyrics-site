@@ -33,12 +33,12 @@ romanLyrics: |-
   Hai kaun apna chaara gar Husain hai Husain hai
   Hai kaun ham se baakhabar Husain hai Husain hai Husain hai
   Hai kaun apna raahbar Husain hai Husain hai Husain hai
-  Hai kaun dil mein jalwagar Husain hai Husain hai Husain hai
+  Hai kaun dil meiṅ jalwagar Husain hai Husain hai Husain hai
   Hamaara rishta Husain se hai
   Bas ek rishta Husain se hai
 
   4
-  Har ek simt dahr mein hai ya Husain ki nida
+  Har ek simt dahr meiṅ hai ya Husain ki nida
   Har ek qaum ki har ek diṅ ki bhi hai sada
   Kamaal to ye hai ke but parast bhi ye bol utha
   Hamaara rishta Husain se hai
@@ -60,8 +60,8 @@ romanLyrics: |-
   Bas ek rishta Husain se hai
 
   7
-  Husain ko diloṅ mein tum bithaalo ae Husainiyoṅ
-  Husain ko nazar mein tum basaalo ae Husainiyoṅ
+  Husain ko diloṅ meiṅ tum bithaalo ae Husainiyoṅ
+  Husain ko nazar meiṅ tum basaalo ae Husainiyoṅ
   Ye keh ke apna dahr ko banaalo ae Husainiyoṅ
   Hamaara rishta Husain se hai
   Bas ek rishta Husain se hai
@@ -83,7 +83,7 @@ romanLyrics: |-
 
   10
   Raheiṅge yaum-e-hashr bhi wohi to log shaadmaaṅ
-  Gham-e-Husain mein jo kar rahe haiṅ naala o fughaaṅ
+  Gham-e-Husain meiṅ jo kar rahe haiṅ naala o fughaaṅ
   Ae Maajid apne paas aana paayega gham-e-jahaaṅ
   Hamaara rishta Husain se hai
   Bas ek rishta Husain se hai

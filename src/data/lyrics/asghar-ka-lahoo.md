@@ -1,6 +1,6 @@
 ---
 title: "اصغر کا لہو جب نہ لیا ارض و سماں نے ہائے"
-alternateTitle: "Asghar Ka Lahoo"
+alternateTitle: "Asghar Ka Lahu"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -23,7 +23,7 @@ romanLyrics: |-
   Nusrat ke liye di thi sada Shaah-e-huda ne
 
   3
-  Tu dekh le Shabbir ki aaghosh mein ya Rab
+  Tu dekh le Shabbir ki aaghosh meiṅ ya Rab
   Aaya hai tera din ye beshir bachaane
 
   4
@@ -31,15 +31,15 @@ romanLyrics: |-
   Hai dafn yahaaṅ Karbobala mere khazaane
 
   5
-  Aa ja mere bachche main teri pyaas pe sadqe
-  Khud aaye gi maaṅ ran mein tujhe paani pilaane
+  Aa ja mere bachche maiṅ teri pyaas pe sadqe
+  Khud aaye gi maaṅ ran meiṅ tujhe paani pilaane
 
   6
   Sar nok-e-sinaaṅ par na charhaae kahiṅ zaalim
   Shabbir chale laasha-e-beshir chhupaane
 
   7
-  Jab khaime mein aaya Ali Asghar ka janaaza
+  Jab khaime meiṅ aaya Ali Asghar ka janaaza
   Kohraam bapa kar diya maadar ki fughaaṅ ne
 
   8

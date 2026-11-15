@@ -22,7 +22,7 @@ romanLyrics: |-
   Maaṅ khainch ke jhule ki dori hila rahi hai
 
   3
-  Burqae mein jis ko paala Zainab ne saal athara
+  Burqae meiṅ jis ko paala Zainab ne saal athara
   Us ke lahu ki mehendi sar ko laga rahi hai
 
   4
@@ -38,11 +38,11 @@ romanLyrics: |-
   Bimar-e-Karbala ko tanha utha rahi hai
 
   7
-  Haye Shaam-e-Gharibaṅ mein mushkil kusha ki beti
+  Haye Shaam-e-Gharibaṅ meiṅ mushkil kusha ki beti
   Ban kar Abbas ya rab pehre pe aa rahi hai
 
   8
-  Jakre huwe rasan mein hai haath phir bhi Zainab
+  Jakre huwe rasan meiṅ hai haath phir bhi Zainab
   Shabbir ke laashe se pathar hata rahi hai
 
   9

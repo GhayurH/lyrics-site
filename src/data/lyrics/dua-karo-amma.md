@@ -17,8 +17,8 @@ romanLyrics: |-
 
   1
   Lahu se apne sajaauṅga Karbala ki zamin
-  Main garm ret pe rakh duṅga khuṅ bhari ye jabiṅ
-  Kar duṅga ghar ka ghar main khud maut ke hawaale
+  Maiṅ garm ret pe rakh duṅga khuṅ bhari ye jabiṅ
+  Kar duṅga ghar ka ghar maiṅ khud maut ke hawaale
 
   2
   Tamaam ambiya roeṅge dekh kar manzar
@@ -27,7 +27,7 @@ romanLyrics: |-
 
   3
   Zamaana kehta hai baaba ko Saaqi-e-Kausar
-  To kiuṅ na pyaas bujhaaduṅ main Karbala jaa kar
+  To kiuṅ na pyaas bujhaaduṅ maiṅ Karbala jaa kar
   Sab khuṅ ke haiṅ pyaase ammaaṅ wo Shaam waale
 
   4
@@ -36,14 +36,14 @@ romanLyrics: |-
   Akbar ke saath rukhsat ho jaaeṅge ujaale
 
   5
-  Na kaat le ye laeeṅ aakar bezabaaṅ ka sar
+  Na kaat le ye laiṅ aakar bezabaaṅ ka sar
   Zamiṅ ko saunpuṅga ye kehke laasha-e-Asghar
   Ae khaak-e-Karbala tu is chaand ko chhupaale
 
   6
   Bana ke turbat-e-Asghar jo ran se aauṅga
-  Libaas-e-kohna jo Zainab se main mangaauṅga
-  Gunjeṅge Karbala mein pardesiyoṅ ke naale
+  Libaas-e-kohna jo Zainab se maiṅ mangaauṅga
+  Gunjeṅge Karbala meiṅ pardesiyoṅ ke naale
 
   7
   Jo chhut ke Shaam ke zindaaṅ se aaeṅge qaidi
@@ -57,8 +57,8 @@ romanLyrics: |-
 
   9
   Wo chaahe Mazhar o Irfaaṅ ho ya qalam un ka
-  Tum us ko ajr mein de de na haq shafaaat ka
-  Jis ne mere masaaib ashaar mein haiṅ dhaale
+  Tum us ko ajr meiṅ de de na haq shafaaat ka
+  Jis ne mere masaaib ashaar meiṅ haiṅ dhaale
 # source_id: nohayonline:649fe9d5ded52bfcf2a4
 # source_url: https://www.nohayonline.com/details_content.php?id=882
 # raw_sha256: 5bf6385091fd518e844ed16dcb1c493033967499259b19c60056c569b29ed89a

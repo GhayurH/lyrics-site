@@ -21,19 +21,19 @@ romanLyrics: |-
   Gham pe gham Sughra ko tarapti rahe
 
   2
-  Ran mein godi ke paale bhi reh gaye
-  Har koi raah-e-Khuda mein jaa chuke
+  Ran meiṅ godi ke paale bhi reh gaye
+  Har koi raah-e-Khuda meiṅ jaa chuke
   Saath ab Aun o Muhammad na rahe
   Gham pe gham Sughra ko tarapti rahe
 
   3
   Baaṅdh kar sehra gaye Ibn-e-Hasan
-  Ho gaye paamaal ran mein gul badan
+  Ho gaye paamaal ran meiṅ gul badan
   Ashqiyaa ghoroṅ ko dauraate rahe
   Gham pe gham Sughra ko tarapti rahe
 
   4
-  Kho gaye be shir ek tashna dahan
+  Kho gaye beshir ek tashna dahan
   Saath aa na paaye wo shiriṅ sukhan
   Jal chuka Zehra ka ghar jaan-e-chaman
   Gham pe gham Sughra ko tarapti rahe
@@ -52,8 +52,8 @@ romanLyrics: |-
 
   7
   Shaah-e-diṅ ke waaste maqtal saja
-  Sajda-e-aakhir mein un ka sar kata
-  Aa gayi maqtal mein roti Fatima
+  Sajda-e-aakhir meiṅ un ka sar kata
+  Aa gayi maqtal meiṅ roti Fatima
   Gham pe gham Sughra ko tarapti rahe
 
   8

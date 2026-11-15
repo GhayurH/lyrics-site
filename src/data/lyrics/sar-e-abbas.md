@@ -12,15 +12,15 @@ aliases: []
 published: true
 romanLyrics: |-
   Naize pe kahaaṅ Shaam gaya hai sar-e-Abbas
-  Rahwaar ke gardan mein bandha hai sar-e-Abbas
+  Rahwaar ke gardan meiṅ bandha hai sar-e-Abbas
 
   1
-  Sar Sheh ka qalam god mein Zahra ke hua hai
-  Kulsum ki godi mein kata hai sar-e-Abbas
+  Sar Sheh ka qalam god meiṅ Zahra ke hua hai
+  Kulsum ki godi meiṅ kata hai sar-e-Abbas
 
   2
   Band aankheṅ lahu chehre pe rukhsaar bhi zakhmi
-  Kis haal mein Zainab ko mila hai sar-e-Abbas
+  Kis haal meiṅ Zainab ko mila hai sar-e-Abbas
 
   3
   Zainab ki taraf dekh ke thahra nahiṅ jaata
@@ -32,19 +32,19 @@ romanLyrics: |-
 
   5
   Hasrat ki nazar hai dar o diwaar ki jaanib
-  Zindaaṅ mein kise dhund raha hai sar-e-Abbas
+  Zindaaṅ meiṅ kise dhund raha hai sar-e-Abbas
 
   6
   Sajjad milaate haiṅ bhatiji se chacha ko
   Turbat pe Sakina ke rakha hai sar-e-Abbas
 
   7
-  Ek qabr se aati hai sada main bhi chaluṅ gi
+  Ek qabr se aati hai sada maiṅ bhi chaluṅ gi
   Bimaar jo dafnaane chala hai sar-e-Abbas
 
   8
   Taazim ko uthne lagi har Bibi Takallum
-  Jab shaadmaaṅ zindaan mein gaya hai sar-e-Abbas
+  Jab shaadmaaṅ zindaan meiṅ gaya hai sar-e-Abbas
 # source_id: nohayonline:091483a71508de2c0fd0
 # source_url: https://www.nohayonline.com/details_content.php?id=2840
 # raw_sha256: 652c561f697f9d64733d3a07b69b761b5408a0a1710d5a750bf7c0313dc5a70e

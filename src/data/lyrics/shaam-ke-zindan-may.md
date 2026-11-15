@@ -36,7 +36,7 @@ romanLyrics: |-
 
   4
   Bhaai ki baahoṅ meiṅ baaheṅ daal kar
-  Maut ka tay kar liya aakhir safar
+  Maut ka te kar liya aakhir safar
   Dekhti Baaba ka kab tak raasta
   Mar gayi bimaar ki chhoti behan
 

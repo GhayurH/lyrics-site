@@ -22,10 +22,10 @@ romanLyrics: |-
   Lab hilaaye phuphi ne jo fariyaad ko
   Un ke Baba chale aaye imdaad ko
   Koi sunta nahiṅ meri rudaad ko
-  Kar rahi huṅ main kab se fughaaṅ
+  Kar rahi huṅ maiṅ kab se fughaaṅ
 
   2
-  Haaye ghurbat mein saare sahaare gaye
+  Haaye ghurbat meiṅ saare sahaare gaye
   Pusht par taaziyaane bhi maare gaye
   Chaadareṅ chhin gayiṅ goshwaare gaye
   Almadad almadad ham pukaare gaye
@@ -41,7 +41,7 @@ romanLyrics: |-
   4
   Jin se dhaaras thi mujh ko wo saare gaye
   Aur phuphi jaan ke donoṅ dulaare gaye
-  Saare hamdard maqtal mein maare gaye
+  Saare hamdard maqtal meiṅ maare gaye
   Is aziyat se gauhar utaare gaye
   Khuṅ hai kaanoṅ se ab tak rawaaṅ
 
@@ -53,7 +53,7 @@ romanLyrics: |-
   Durre khaata raha naatawaaṅ
 
   6
-  Phande rassi ke gardan mein kaste rahe
+  Phande rassi ke gardan meiṅ kaste rahe
   Pusht par taaziyaane baraste rahe
   Dekh kar ham ko kuffaar hanste rahe
   Aah karne ko bhi ham taraste rahe
@@ -63,14 +63,14 @@ romanLyrics: |-
   Kaun sa hai sitam jo na dhaaya gaya
   Ham ko kaantoṅ pe paidal chala gaya
   Berida kar ke dar dar phiraaya gaya
-  Aur baazaar mein ham ko laaya gaya
+  Aur baazaar meiṅ ham ko laaya gaya
   Dil se uthta hai gham ka dhuaaṅ
 
   8
   Ham ko kitna sataaya gaya besabab
-  Haaye darbaar mein ham ko ghere the sab
+  Haaye darbaar meiṅ ham ko ghere the sab
   Dhaa rahe the sitamgar ye bhi ghazab
-  Kar rahe the kanizi mein mujh ko talab
+  Kar rahe the kanizi meiṅ mujh ko talab
   Haaye gham se nikalti thi jaaṅ
 
   9
@@ -81,10 +81,10 @@ romanLyrics: |-
   Kya qayaamat ka tha wo samaaṅ
 
   10
-  Apni aaghosh mein le ke Baba ka sar
+  Apni aaghosh meiṅ le ke Baba ka sar
   Waqt-e-rehlat Sakina hui nauhagar
   Aamir o Fakhri bole Shah-e-bahr o bar
-  Tha main hamraah naize pe lagte jigar
+  Tha maiṅ hamraah naize pe lagte jigar
   Ab na ro kar karo ye bayaaṅ
 # source_id: nohayonline:7a322d5e268e8a5b566a
 # source_url: https://www.nohayonline.com/details_content.php?id=3649

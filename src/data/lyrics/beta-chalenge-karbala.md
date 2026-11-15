@@ -11,14 +11,14 @@ aliases: []
 published: true
 romanLyrics: |-
   Zainab ne Abid se kaha beta chaleṅ ge Karbala
-  Zindaaṅ mein sab kuchh kho gaya beta chaleṅ ge Karbala
+  Zindaaṅ meiṅ sab kuchh kho gaya beta chaleṅ ge Karbala
 
   1
   Do bhaiyoṅ se mil to luṅ ahwaal dil ke keh to luṅ
   Kya kho chuka kya hai bacha beta chaleṅ ge Karbala
 
   2
-  Maqtal mein Shah jaate hue jo mujh se waade the liye
+  Maqtal meiṅ Shah jaate hue jo mujh se waade the liye
   Har waada pura ho chuka beta chaleṅ ge Karbala
 
   3
@@ -31,7 +31,7 @@ romanLyrics: |-
 
   5
   Akbar o Asghar mah laqa Abbas o Qasim dilruba
-  Har chaand mitti mein mila beta chaleṅ ge Karbala
+  Har chaand mitti meiṅ mila beta chaleṅ ge Karbala
 
   6
   Nur-e-nazar lakht-e-jigar sab ho chuke din ki nazr

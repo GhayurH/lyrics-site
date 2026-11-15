@@ -1,6 +1,6 @@
 ---
 title: "علی ہے سجدے میں تر خون میں پیشانی ہے"
-alternateTitle: "Ali Hai Sajde Mein"
+alternateTitle: "Ali Hai Sajde Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -14,7 +14,7 @@ published: true
 # source_url: https://www.nohayonline.com/details_content.php?id=3330
 # raw_sha256: 45e914d96a225872dfa72d8f52ea072500cf2a3bd494af513914ad7a3e30db09
 romanLyrics: |-
-  Ali hai sajde mein tar khun mein peshani hai
+  Ali hai sajde meiṅ tar khun meiṅ peshani hai
   Zamiṅ se ta ba falak chhayi pareshani hai
 
   1
@@ -23,7 +23,7 @@ romanLyrics: |-
 
   2
   Bhala koi apne bhi mohsin ko qatl karta hai
-  Ye Musalmanoṅ ki dar asl mein nadani hai
+  Ye Musalmanoṅ ki dar asl meiṅ nadani hai
 
   3
   Abu Turab ko samjhe to Mustafa samjhe
@@ -34,7 +34,7 @@ romanLyrics: |-
   Ali karim hai kis baat pe hairani hai
 
   5
-  Ali Wali ke hashr tak raheṅge charche Ameer
+  Ali Wali ke hashr tak raheṅge charche Amir
   Baqa unhi ko hai bas ye jahaṅ fani hai
 ---
 

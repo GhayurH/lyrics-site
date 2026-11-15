@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ghar mein jab aag lagi jalne laga darwaaza
+  Ghar meiṅ jab aag lagi jalne laga darwaaza
   Aur wo jalta hua dar Fatema Zehra pe gira
   Maaṅ pe girta hua dar dekh ke bachchoṅ ne kaha
 
@@ -19,12 +19,12 @@ romanLyrics: |-
   In bharakte hue sholoṅ ko bujhaaeṅ kaise
 
   1
-  Dekho Ae Nana hai Baba ke gale mein rassi
-  Sehn mein beadbaana chale aate haiṅ shaqi
+  Dekho Ae Nana hai Baba ke gale meiṅ rassi
+  Sehn meiṅ beadbaana chale aate haiṅ shaqi
   Zulm se un ke ham Ammaṅ ki bachaaeṅ kaise
 
   2
-  Aap uth jaate the Ammaṅ ke adab mein Nana
+  Aap uth jaate the Ammaṅ ke adab meiṅ Nana
   Un ko masnad pe bithaate to bichhaate the aba
   In Musalmaanoṅ ko sab yaad dilaaeṅ kaise
 
@@ -45,7 +45,7 @@ romanLyrics: |-
 
   6
   Roti haiṅ Zainab o Kulsum hai ik hashr bapa
-  Baap rassi mein bandha maaṅ pe hai darwaaza gira
+  Baap rassi meiṅ bandha maaṅ pe hai darwaaza gira
   Rasan-e-zulm se Baba ko chhuraaeṅ kaise
 
   7

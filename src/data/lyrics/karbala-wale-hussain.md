@@ -22,8 +22,8 @@ romanLyrics: |-
   Tashna lab mere biraadar Karbala wale Husain
 
   3
-  Mujh se barh kar kaun ho ga is zamaane mein gharib
-  Be kafan tum main khule sar Karbala wale Husain
+  Mujh se barh kar kaun ho ga is zamaane meiṅ gharib
+  Bekafan tum maiṅ khule sar Karbala wale Husain
 
   4
   Ghar se beghar ho gaye naana ka rauza chhut gaya

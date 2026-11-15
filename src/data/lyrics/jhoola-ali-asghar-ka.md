@@ -32,23 +32,23 @@ romanLyrics: |-
   Dekh lo waada hua pura Ali Asghar ka
 
   4
-  Aurateiṅ raah mein kuchh karne lagi aah o buka
+  Aurateiṅ raah meiṅ kuchh karne lagi aah o buka
   Nok-e-naiza pe jo sar dekha Ali Asghar ka
 
   5
-  Maaṅ ke sine mein hue dafn hamesha ke liye
+  Maaṅ ke sine meiṅ hue dafn hamesha ke liye
   Ek Sakina ka hai ik laasha Ali Asghar ka
 
   6
-  Mar gai dhup mein maaṅ pallu jo us ka khola
+  Mar gai dhup meiṅ maaṅ pallu jo us ka khola
   Raakh jhule ki mili kurta Ali Asghar ka
 
   7
   Ik ujri hui maadar ke dilaase ke liye
-  Har azaakhaane mein hai jhula Ali Asghar ka
+  Har azaakhaane meiṅ hai jhula Ali Asghar ka
 
   8
-  Hai ye Mazhar ki dua nasloṅ mein jaari ho aza
+  Hai ye Mazhar ki dua nasloṅ meiṅ jaari ho aza
   De de Farhan ko tu sadqa Ali Asghar ka
 # source_id: nohayonline:98c86224b64c1113b51d
 # source_url: https://www.nohayonline.com/details_content.php?id=2984

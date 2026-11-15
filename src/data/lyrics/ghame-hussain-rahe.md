@@ -32,11 +32,11 @@ romanLyrics: |-
   Jab chala zikr tera dil ne maaṅgi ye dua
 
   3
-  Yazidi fikr ko tu khaak mein milaata rahe
-  Faza mein parcham-e-Abbas lehlehaata rahe
+  Yazidi fikr ko tu khaak meiṅ milaata rahe
+  Faza meiṅ parcham-e-Abbas lehlehaata rahe
   Husaini azm Yazidoṅ ka sar jhukaata rahe
   Ae Khuda Ae Khuda
-  Sar jo sajde mein gaya hum ne sau baar kaha
+  Sar jo sajde meiṅ gaya hum ne sau baar kaha
 
   4
   Gham-e-Husain ko mehfuz rakh jafaaoṅ se
@@ -50,10 +50,10 @@ romanLyrics: |-
   Sabhi ibaadateṅ karte haiṅ hum baraa-e-Husain
   Laboṅ pe taa ba qayaamat sada ho haaye Husain
   Ae Khuda Ae Khuda
-  In duaaoṅ mein Khuda saath hai Karb o Bala
+  In duaaoṅ meiṅ Khuda saath hai Karb o Bala
 
   6
-  Raah-e-wafa mein kabhi dagmaga na paaye qadam
+  Raah-e-wafa meiṅ kabhi dagmaga na paaye qadam
   Hamaare dosh pe lehraaye bawafa ka alam
   Hamaare azm se larza rahe ye ahl-e-sitam
   Ae Khuda Ae Khuda
@@ -69,7 +69,7 @@ romanLyrics: |-
   8
   Viqaar-e-majlis o maatam barhaate jaayeṅ ge
   Charaagh ashk-e-aza ke jalaate jaayeṅ ge
-  Husaini fikr diloṅ mein jagaate jaayeṅ ge
+  Husaini fikr diloṅ meiṅ jagaate jaayeṅ ge
   Ae Khuda Ae Khuda
   Jab qalam chalne laga keh uthi fikr-e-rasaa
 

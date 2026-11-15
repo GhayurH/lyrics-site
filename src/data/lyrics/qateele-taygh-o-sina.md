@@ -15,10 +15,10 @@ romanLyrics: |-
   Tere baghair kahaaṅ la ilaha illallah
 
   1
-  Husain dehr mein Islam ki alaamat hai
+  Husain dehr meiṅ Islam ki alaamat hai
   Husain waqt ki sab se bari zarurat hai
   Husain ism tera wird hai ibaadat hai
-  Tere lahu mein nihaaṅ la ilaha illallah
+  Tere lahu meiṅ nihaaṅ la ilaha illallah
 
   2
   Husain tujh se baqa din ki nabuwwat ki
@@ -27,7 +27,7 @@ romanLyrics: |-
   Tere sabab hai ayaaṅ la ilaha illallah
 
   3
-  Kisi zaif ki nazroṅ mein yuṅ nahiṅ dekha
+  Kisi zaif ki nazroṅ meiṅ yuṅ nahiṅ dekha
   Ke aeriyoṅ ko ragarta hai naujawaan beta
   Ulat ke aastin keh ke ya Ali Maula
   Tu khinchta hai sinaaṅ la ilaha illallah
@@ -52,7 +52,7 @@ romanLyrics: |-
 
   7
   Jahaaṅ bhi majlis-e-Sarwar ho shor-e-maatam ho
-  Mare to qabr mein Shahid bas ek ye gham ho
+  Mare to qabr meiṅ Shahid bas ek ye gham ho
   Ye saans aaye ke ruk jaaye aankh purnam ho
   Fida ho tujh pe jahaaṅ la ilaha illallah
 # source_id: nohayonline:7658314ec7a1999c9bf3

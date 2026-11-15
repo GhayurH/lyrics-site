@@ -24,17 +24,17 @@ romanLyrics: |-
 
   2
   Tin din ki pyaas ko bhi muskura kar seh gaya
-  Baahoṅ mein Shabbir ke Asghar tarap kar reh gaya
-  Hurmala malun ke haathoṅ mein kamaaṅ roti rahi
+  Baahoṅ meiṅ Shabbir ke Asghar tarap kar reh gaya
+  Hurmala malun ke haathoṅ meiṅ kamaaṅ roti rahi
 
   3
   Akbar o Asghar ka gham us par qayaamat kar gaya
-  Qasim-e-naushaah tukroṅ mein bikhar kar reh gaya
+  Qasim-e-naushaah tukroṅ meiṅ bikhar kar reh gaya
   Sun ke Zainab baad-e-Karbal bhi azaaṅ roti rahi
 
   4
   Qabr nanhi si bana kar zakhmi haathoṅ se Rabaab
-  Dafn kar deti thi aksar us mein ek nanha gulaab
+  Dafn kar deti thi aksar us meiṅ ek nanha gulaab
   Hai mera Asghar yahaaṅ ye keh ke maaṅ roti rahi
 
   5
@@ -48,7 +48,7 @@ romanLyrics: |-
   Dekh kar Asghar ke jhule ke nishaaṅ roti rahi
 
   7
-  Shaam ke zindaaṅ mein maaṅ ko sukuṅ aata nahiṅ
+  Shaam ke zindaaṅ meiṅ maaṅ ko sukuṅ aata nahiṅ
   Mera Asghar mere pehlu ke bina sota nahiṅ
   Shams kar ke maaṅ yehi aah o fughaaṅ roti rahi
 # source_id: nohayonline:763749f330feec3b9a57

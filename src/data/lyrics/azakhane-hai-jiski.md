@@ -33,7 +33,7 @@ romanLyrics: |-
   Daman Diu Telangana Pandicheri gham ki tasvir
   Andaman Chhattisgarh aur Uttarakhand gham ki tanvir
   Maharashtr ho ya ke Orissa shaan-e-aza ki hai jaagir
-  Sheh ki azadaari ka in sab par hai bada ehsaan
+  Sheh ki azadaari ka in sab par hai bara ehsaan
 
   4
   Masjid ke jo ehtiraam ki ek had par ruk jaata hai
@@ -75,7 +75,7 @@ romanLyrics: |-
   Qaumi yakjehti ka kya is behtar hoga paighaam
   Ganga Jamna ki hai sabileṅ tashna laboṅ ki yaad meiṅ aam
   Uthta hai Bangaal se baadal liye huwe ashkoṅ ka jaam
-  Aamir aur Nayaab ke jazbe Bharat pe qurbaan
+  Aamir aur Nayaab ke jazbe Bharat pe qurbaaṅ
 # source_id: nohayonline:93de1b572a35539f281d
 # source_url: https://www.nohayonline.com/details_content.php?id=3643
 # raw_sha256: c7eeba1069a5fb36d70347a2ee7276ff6ab0fb91ea9808874f60d40dd22fe1d7

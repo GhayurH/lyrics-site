@@ -12,15 +12,15 @@ aliases: ["Anna Majnoonal Ali Faqeer-e-Mula 1-6"]
 published: true
 romanLyrics: |-
   1
-  Meri masti mein Qalandar ki raza shaamil hai
-  Meri hasti mein Qalandar ki wila shaamil hai
-  Meri masti mein Qalandari ki dua shaamil hai
-  Meri hasti mein Qalandari ki ata shaamil hai
-  Banda-e-Sahib-e-Parwaaz ki taqlid mein huṅ
-  Main Qalandar Sakhi Shahbaaz ki taqlid mein huṅ
+  Meri masti meiṅ Qalandar ki raza shaamil hai
+  Meri hasti meiṅ Qalandar ki wila shaamil hai
+  Meri masti meiṅ Qalandari ki dua shaamil hai
+  Meri hasti meiṅ Qalandari ki ata shaamil hai
+  Banda-e-Sahib-e-Parwaaz ki taqlid meiṅ huṅ
+  Maiṅ Qalandar Sakhi Shahbaaz ki taqlid meiṅ huṅ
 
   2
-  Main faqir-e-dar-e-Haider huṅ zamaane walo
+  Maiṅ faqir-e-dar-e-Haider huṅ zamaane walo
   Aashiq-e-Saqi-e-Kausar huṅ zamaane walo
   Haaṅ dar-e-ilm ka naukar huṅ zamaane walo
   Khaadim-e-Shafa-e-Mehshar huṅ zamaane walo
@@ -30,7 +30,7 @@ romanLyrics: |-
   3
   Mera mazhab hai Ali meri ibaadat hai Ali
   Wird jo meri zabaaṅ par hai aayat hai Ali
-  Mere lehje mein sharaafat ki sadaaqat hai Ali
+  Mere lehje meiṅ sharaafat ki sadaaqat hai Ali
   Is gunaahgaar ki bakhshish ki zamaanat hai Ali
   Meri pehchaan hai tarwij-e-wilaayat karna
   Mera imaan hai Haider se muhabbat karna
@@ -38,15 +38,15 @@ romanLyrics: |-
   4
   Jab lagaata huṅ sar-e-raah Ali Haq ki sada
   Khud ba khud hota hai mujh par ye ayaaṅ kaun hai kya
-  Pal mein chal jaata hai insaan ke shajre ka pata
+  Pal meiṅ chal jaata hai insaan ke shajre ka pata
   Kaun kis nasal ka hai kya hai aqida kis ka
   Koi khush hota hai aksar koi jal jaata hai
-  Dono surat mein magar mujh ko maza aata hai
+  Dono surat meiṅ magar mujh ko maza aata hai
 
   5
-  Ishq mein dub ke barh jaata hai jab soz o gudaaz
+  Ishq meiṅ dub ke barh jaata hai jab soz o gudaaz
   Aur kuch wajd dila deta hai sankh ka saaz
-  Tab main parhta huṅ aqidat se wilaayat ki namaaz
+  Tab maiṅ parhta huṅ aqidat se wilaayat ki namaaz
   Apne Maula se bayaaṅ karta huṅ sab raaz o niyaaz
   Parda aaṅkhoṅ se hijaabaat ka hat jaata hai
   Farsh pe baithe hue arsh nazar aata hai
@@ -64,8 +64,8 @@ romanLyrics: |-
   Ain-e-tauhid hai kya ishq-e-Ali Maula ka
   Mehwar-e-nuqta-e-baa ishq-e-Ali Maula ka
   Mimbar-e-Khum ki sada ishq-e-Ali Maula ka
-  Haaṅ isi ishq ko sine mein basa rakha hai
-  Main ne daanaai ko diwaana bana rakha hai
+  Haaṅ isi ishq ko sine meiṅ basa rakha hai
+  Maiṅ ne daanaai ko diwaana bana rakha hai
 
   8
   Shiddat-e-ishq kare kam ye bhala kis ki majaal
@@ -87,7 +87,7 @@ romanLyrics: |-
   Mustanad shakhs jo hota hai use milta hai
   Ye wo rutba hai jo bande ko amar karta hai
   Jis ko milti hai faqiri wo baqa paata hai
-  Dub kar ishq ke darya mein ubhar jaata hai
+  Dub kar ishq ke darya meiṅ ubhar jaata hai
 # editorial_uncertain: "Source Roman-only; Khaadim-e-Shafa-e-Mehshar and Rind-e-May Kana-e-Khum need original recording confirmation; continuation qata has uncertain source phrasing (Maula ka malang / musalla); both archived parts explicitly credit poet Yasir Raza Yasir and reciter Syed Wajhi Hasan Zaidi."
 # source_id: tajpoints:445943102081a934c743
 # source_url: https://tajpoints.com/2018/07/anna-majnoonal-ali-faqeer-e-mula-1-6.html

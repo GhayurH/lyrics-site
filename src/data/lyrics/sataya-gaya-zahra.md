@@ -19,7 +19,7 @@ romanLyrics: |-
   Dil-e-paak Muhammad ka dukhaaya gaya Zahra
 
   2
-  Darbaar mein jhutlaai gayi teri gawaahi
+  Darbaar meiṅ jhutlaai gayi teri gawaahi
   Yuṅ ajr-e-risaalat hai chukaaya gaya Zahra
 
   3
@@ -35,7 +35,7 @@ romanLyrics: |-
   Taazim ka yuṅ farz nibhaaya gaya Zahra
 
   6
-  Khuṅ us ka bahaaya gaya maadar ke shikam mein
+  Khuṅ us ka bahaaya gaya maadar ke shikam meiṅ
   Mohsin pe tere zulm ye dhaaya gaya Zahra
 
   7

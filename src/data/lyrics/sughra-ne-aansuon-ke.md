@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Kabhi khaali hujroṅ mein kabhi dehliz par jaa kar
+  Kabhi khaali hujroṅ meiṅ kabhi dehliz par jaa kar
   Sughra ne aaṅsuoṅ ke kitne diye jalaaye
 
   Ae kaash mera kunba waapas watan ko aaye
@@ -27,7 +27,7 @@ romanLyrics: |-
 
   3
   Barhte hi jaa rahe haiṅ ranj o alam ke saaye
-  Wiraan ghar mein mujh ko tanhaai khaaye jaaye
+  Wiraan ghar meiṅ mujh ko tanhaai khaaye jaaye
   Waada kiya tha mujh se aauṅga lene behna
   Dam aa gaya laboṅ par bhaiya magar na aaye
   Pardes jaa ke Akbar bhule haiṅ apna waada
@@ -42,7 +42,7 @@ romanLyrics: |-
   Bichhre hoṅ jis ke apne wo Eid kya manaaye
 
   6
-  Sughra ne khat mein likha bekaar hai ye jina
+  Sughra ne khat meiṅ likha bekaar hai ye jina
   Na maut aayi mujh ko Baba na aap aaye
 
   7
@@ -51,7 +51,7 @@ romanLyrics: |-
 
   8
   Chehre pe ungliyoṅ ke ab tak nishaaṅ hai baaqi
-  Zindaan mein Sakina roti hai muṅh chhupaaye
+  Zindaan meiṅ Sakina roti hai muṅh chhupaaye
 
   9
   Tum ahl-e-ashqiya kya Quraaṅ samajh sakoge

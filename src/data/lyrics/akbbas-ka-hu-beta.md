@@ -14,14 +14,14 @@ romanLyrics: |-
   Ana ibn ul Abbas
   Mera naam Muhammad hai Abbas ka huṅ beta
   Akbar se mujhe pehle de izn-e-wigha Maula
-  Ghazi ki dua main huṅ naukar huṅ main Asghar ka
-  Naqsha main badal duṅga nau laakh ke lashkar ka
+  Ghazi ki dua maiṅ huṅ naukar huṅ maiṅ Asghar ka
+  Naqsha maiṅ badal duṅga nau laakh ke lashkar ka
   Siffin suna kar hai ammaaṅ ne mujhe paala
 
   1
   Zainab ke haiṅ do bete sadqa Ali Akbar ka
-  Daadi ne Madine mein mujhko ye bataya tha
-  Zainab ke jo bete haiṅ donoṅ ka huṅ main sadqa
+  Daadi ne Madine meiṅ mujhko ye bataya tha
+  Zainab ke jo bete haiṅ donoṅ ka huṅ maiṅ sadqa
 
   2
   Akbar ki tarah Maula Qasim mera aaqa hai
@@ -29,14 +29,14 @@ romanLyrics: |-
   Mar jauṅga jite ji Kubra jo hui bewa
 
   3
-  Khaimoṅ mein bapa Maula is shor-e-qayamat hai
+  Khaimoṅ meiṅ bapa Maula is shor-e-qayamat hai
   Darya ki taraf jauṅ kya mujhko ijazat hai
-  Shehzadi ko ab pyasa main dekh nahiṅ sakta
+  Shehzadi ko ab pyasa maiṅ dekh nahiṅ sakta
 
   4
-  Sajjad ke pehlu mein khamosh jo baitha hai
-  Wo us ki zaifi ka ghurbat mein sahara hai
-  Bach jae mera Baqir main us pe maruṅ Maula
+  Sajjad ke pehlu meiṅ khamosh jo baitha hai
+  Wo us ki zaifi ka ghurbat meiṅ sahara hai
+  Bach jae mera Baqir maiṅ us pe maruṅ Maula
 
   5
   Qurban hua Yawar Abbas ka shehzada

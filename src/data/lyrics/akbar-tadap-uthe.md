@@ -17,29 +17,29 @@ romanLyrics: |-
   Akbar tarap uthe haye Akbar tarap uthe
 
   1
-  Maiyyat ko is zaifi mein kaise uthaenge
+  Maiyyat ko is zaifi meiṅ kaise uthaenge
   Lashe ko mere kaise ye ghar le ke jaenge
   Dard-e-jigar ko bhul ke bas yehi soch ke
 
   2
-  Dekha jawaṅ laal ko jis waqt khuṅ mein tar
+  Dekha jawaaṅ laal ko jis waqt khuṅ meiṅ tar
   Aaya nazar jo Shah ko dam torta pisar
   Apne jigar ko tham ke Shabbir reh gaye
 
   3
   Awaz par pisar ki jo aae Shah-e-Zamaṅ
   Kuchh bhi nazar na aata tha tarik tha jahaṅ
-  Shabbir kha ke thokareṅ maqtal mein jab gire
+  Shabbir kha ke thokareṅ maqtal meiṅ jab gire
 
   4
   Barchhi jo khinchi Shah ne le kar Ali ka naam
   Halat pisar ki dekh ke rone lage Imam
-  Barchhi ka phal jo reh gaya sine mein tut ke
+  Barchhi ka phal jo reh gaya sine meiṅ tut ke
 
   5
-  Ek ghamzada ka aa gaya maqtal mein jab khayal
+  Ek ghamzada ka aa gaya maqtal meiṅ jab khayal
   Sughra ka haal soch ke barhne laga malal
-  Aur phir ukharti saaṅs mein hamshir ke liye
+  Aur phir ukharti saaṅs meiṅ hamshir ke liye
 
   6
   Yehi tha gham ke chadareṅ chhineṅge ashqiya
@@ -47,12 +47,12 @@ romanLyrics: |-
   Jab ye khayal aa gaya maaṅ hogi sar khule
 
   7
-  Jab waqt-e-naza ran mein thi Akbar ki hichkiyaṅ
+  Jab waqt-e-naza ran meiṅ thi Akbar ki hichkiyaṅ
   Jab naujawaṅ tha aakhri saaṅsoṅ ke darmiyaṅ
   Hasrat se apne laal ko jab dekha baap ne
 
   8
-  Izhar ban mein jis ghari Zainab ko di sada
+  Izhar ban meiṅ jis ghari Zainab ko di sada
   Akbar ka dam nikalta hai jab ro ke ye kaha
   Jab ye kaha ke aa ke dilasa to dijiye
 # source_id: nohayonline:206972723d4e7842a285

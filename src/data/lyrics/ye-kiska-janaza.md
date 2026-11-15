@@ -26,7 +26,7 @@ romanLyrics: |-
 
   3
   Abbas ki haalat ka kis tarah bayaaṅ hoga
-  Kulsum ka dil ab to qaabu mein nahiṅ aata
+  Kulsum ka dil ab to qaabu meiṅ nahiṅ aata
   Sar pitte haiṅ Shabbar ye kis ka janaaza hai
 
   4
@@ -35,7 +35,7 @@ romanLyrics: |-
   Pur dard hai ye manzar ye kis ka janaaza hai
 
   5
-  Kohraam hai Kufe mein bewaaoṅ ke naale haiṅ
+  Kohraam hai Kufe meiṅ bewaaoṅ ke naale haiṅ
   Hoṅtoṅ pe yatimoṅ ke faryaadoṅ ke chhaale haiṅ
   Hai sog bapa ghar ghar ye kis ka janaaza hai
 
@@ -51,12 +51,12 @@ romanLyrics: |-
 
   8
   Karti hai azaaṅ girya rota hai musalla bhi
-  Mihraab-e-talaatum mein majruh hai sajda bhi
+  Mihraab-e-talaatum meiṅ majruh hai sajda bhi
   Barsaata hai khun mimbar ye kis ka janaaza hai
 
   9
   Ae Daayam o Yazdaaṅ ek mahshar hai sar-e-Kufa
-  Har aaṅkh mein haiṅ aaṅsu har lab pe hai ye nauha
+  Har aaṅkh meiṅ haiṅ aaṅsu har lab pe hai ye nauha
   Bechain haiṅ Paighambar ye kis ka janaaza hai
 # source_id: nohayonline:3077b9501fee93510373
 # source_url: https://www.nohayonline.com/details_content.php?id=2526

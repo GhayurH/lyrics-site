@@ -11,26 +11,26 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Mashkiza Ghazi bhara hai le ke chullu mein Furaat
+  Mashkiza Ghazi bhara hai le ke chullu meiṅ Furaat
 
   1
-  Sajde mein Sarwar gaye jab asr ka hangaam tha
+  Sajde meiṅ Sarwar gaye jab asr ka hangaam tha
   Chal raha tha kund khanjar bas Khuda ka naam tha
   Zainab-e-muztar ke lab par nauha subh shaam tha
 
   2
-  Barchhi khaae ran mein Akbar tir khaae aur Saghir
+  Barchhi khaae ran meiṅ Akbar tir khaae aur Saghir
   Berida ahl-e-haram jab ho gaye Aabid asir
   Naize par sar haae aqda aur the farq-e-munir
 
   3
-  Dekh kar zulm o sitam aada ke main tharra gayi
+  Dekh kar zulm o sitam aada ke maiṅ tharra gayi
   Kya kahuṅ Shah ki shahaadat kis qadar tarpa gayi
   Haae wo baali Sakina Shimr se ghabra gayi
 
   4
-  Bhai ki khaatir behen maqtal mein roti aai thi
-  Dil ko thaame berida main kya kahuṅ ghabraai thi
+  Bhai ki khaatir behen maqtal meiṅ roti aai thi
+  Dil ko thaame berida maiṅ kya kahuṅ ghabraai thi
   Jab chhini sar se ridaaeṅ kis qadar sharmaai thi
 
   5
@@ -45,28 +45,28 @@ romanLyrics: |-
 
   7
   Haath karwa kar qalam likhi hai taarikh-e-wafa
-  Nusrat-e-Shabbir mein Ghazi bhi shaane de gaya
+  Nusrat-e-Shabbir meiṅ Ghazi bhi shaane de gaya
   Jaan se pyaara rakha gham Hazrat-e-Shabbir ka
 
   8
-  Bhar chuka tha mashk mein pani na pani wo piya
+  Bhar chuka tha mashk meiṅ pani na pani wo piya
   Nehr ke pani pe bhi saaya na us ka hai para
-  Taaat-e-Shabbir mein shaamil hue tan se juda
+  Taaat-e-Shabbir meiṅ shaamil hue tan se juda
 
   9
   Hazrat-e-Abbas se zaahir tha ejaaz-e-Ali
-  Karbal mein saani-e-Haidar tha dam saaz-e-Ali
+  Karbal meiṅ saani-e-Haidar tha dam saaz-e-Ali
   Bhaag utha hai lashkar-e-kiṅ sun ke aawaaz-e-Ali
 
   10
-  Ghaiz mein aaya jari Jibril ke shah par khule
+  Ghaiz meiṅ aaya jari Jibril ke shah par khule
   Kya jari ke mojize the raaz lashkar par khule
   Maqsad-e-Shabbir par Abbas ke jauhar khule
 
   11
   Kis qadar baali Sakina ko wo rakhta tha aziz
-  Khair o shar ki ho gayi Karb o Bala mein ek tamiz
-  Us ke gham mein roti thi Fizza bhi Zehra ki kaniz
+  Khair o shar ki ho gayi Karb o Bala meiṅ ek tamiz
+  Us ke gham meiṅ roti thi Fizza bhi Zehra ki kaniz
 
   12
   Haae wo shaam-e-gharibaṅ haae wo baazaar-e-Shaam

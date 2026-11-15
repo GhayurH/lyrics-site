@@ -1,6 +1,6 @@
 ---
 title: "عابد غریب بیکس و ناچار مر گیا"
-alternateTitle: "Abid Ghareeb Bekas"
+alternateTitle: "Abid Gharib Bekas"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -18,7 +18,7 @@ romanLyrics: |-
   Zehra ki jaaṅ Husain ka dildaar mar gaya
 
   2
-  Kaantoṅ pe khenchte the jise rah-e-Shaam mein
+  Kaantoṅ pe khenchte the jise rah-e-Shaam meiṅ
   Wo saarban-e-Itrat-e-Athaar mar gaya
 
   3
@@ -42,8 +42,8 @@ romanLyrics: |-
   Chautha wasi-e-Ahmad-e-Mukhtaar mar gaya
 
   8
-  Kiuṅ kar Shuur khaak uraauṅ na aaj main
-  Main jis ki nasl se huṅ wo sardaar mar gaya
+  Kiuṅ kar Shuur khaak uraauṅ na aaj maiṅ
+  Maiṅ jis ki nasl se huṅ wo sardaar mar gaya
 # source_id: nohayonline:7235384bc2a6ee5240bd
 # source_url: https://www.nohayonline.com/details_content.php?id=2951
 # raw_sha256: 880e97e1df8672d783751ca7afe233fca487d9e0dd873ce89eee7a1157173680

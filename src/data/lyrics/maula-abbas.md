@@ -35,7 +35,7 @@ romanLyrics: |-
   Sunta hai tu faryaad hamaari
 
   4
-  Hai jo lahu mein wafa
+  Hai jo lahu meiṅ wafa
   Ye bhi hai teri ata
 
   5
@@ -49,7 +49,7 @@ romanLyrics: |-
   Jo maaṅga tu ne diya
 
   7
-  Main ne zamaane ko ye bataaya
+  Maiṅ ne zamaane ko ye bataaya
   Hai ye saaqi Rab ka hamsaaya
   Saare jahaaṅ ko paalne waala
   Rab ke khazaane ka rakhwaala

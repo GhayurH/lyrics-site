@@ -13,63 +13,63 @@ published: true
 romanLyrics: |-
   Ho ke battis baras wale baraadar se juda
   Laute maqtal se kamar thaame hue Shah-e-Huda
-  Di sada lut gaya pardes mein bhai Zainab
+  Di sada lut gaya pardes meiṅ bhai Zainab
   Bhaa gayi sher ko darya ki taraai Zainab
 
   1
   Sheh ne rote hue Zainab se kaha
-  Haaye ghurbat mein hua hum se juda
+  Haaye ghurbat meiṅ hua hum se juda
   Abbas mera bhai Abbas
   Ye gham hamaari kamar tor gaya
-  Haaye ghurbat mein hua hum se juda
+  Haaye ghurbat meiṅ hua hum se juda
 
   2
   Meri quwwat pe hua waar Zainab
   Na raha mera alamdaar Zainab
   Tanha mujhko mere dushman ne kiya
-  Haaye ghurbat mein hua hum se juda
+  Haaye ghurbat meiṅ hua hum se juda
 
   3
   Waqt hai hum pe qayaamat ka behan
   Aao maatam kare ghurbat ka behan
-  Daagh pardes mein bhai ka mila
-  Haaye ghurbat mein hua hum se juda
+  Daagh pardes meiṅ bhai ka mila
+  Haaye ghurbat meiṅ hua hum se juda
 
   4
   Ho gaya fauj ka sardaar gharib
   Ab kahaaṅ fauj ko saalaar nasib
   Lo barha do ye alam khuṅ se bhara
-  Haaye ghurbat mein hua hum se juda
+  Haaye ghurbat meiṅ hua hum se juda
 
   5
-  Mit gayi dasht mein tasvir-e-Ali
-  Khun mein dub gaya sher-e-jari
-  Mil gayi khaak mein Baba ki dua
-  Haaye ghurbat mein hua hum se juda
+  Mit gayi dasht meiṅ tasvir-e-Ali
+  Khun meiṅ dub gaya sher-e-jari
+  Mil gayi khaak meiṅ Baba ki dua
+  Haaye ghurbat meiṅ hua hum se juda
 
   6
   Tuta darya pe Sakina ka bharam
   Maut ne chhin ke saqqa-e-haram
   Pyaase maasumoṅ ka dil tor diya
-  Haaye ghurbat mein hua hum se juda
+  Haaye ghurbat meiṅ hua hum se juda
 
   7
-  Khun mein duba alam laaya huṅ main
-  Us ko darya pe hi kho aaya huṅ main
+  Khun meiṅ duba alam laaya huṅ maiṅ
+  Us ko darya pe hi kho aaya huṅ maiṅ
   Jis pe hum sab ko bharosa tha bara
-  Haaye ghurbat mein hua hum se juda
+  Haaye ghurbat meiṅ hua hum se juda
 
   8
   Us ke mar jaane ke ehsaas ka gham
   Maar de ga hameiṅ Abbas ka gham
   Hum na ji paayeṅ ge bhai ke bina
-  Haaye ghurbat mein hua hum se juda
+  Haaye ghurbat meiṅ hua hum se juda
 
   9
-  Thaami Zainab ne Nadeem apni rida
+  Thaami Zainab ne Nadim apni rida
   Ro ke jis waqt ye Sarwar ne kaha
   Ae behan le gayi bhai ko qaza
-  Haaye ghurbat mein hua hum se juda
+  Haaye ghurbat meiṅ hua hum se juda
 # source_id: nohayonline:8ba46f4e1b8150a7005b
 # source_url: https://www.nohayonline.com/details_content.php?id=2864
 # raw_sha256: 84c1368458f349a06cdc1f53d3c2386e0a01bcd76de4670f0e7639652a9611f7

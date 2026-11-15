@@ -11,9 +11,9 @@ aliases: []
 published: true
 romanLyrics: |-
   Barsa falak se khun larazne lagi zamiṅ
-  Aandhi siyaah dasht-e-bayaabaan mein chali
+  Aandhi siyaah dasht-e-bayaabaan meiṅ chali
   Ye waqt bhi qayaamat-e-kubra se kam nahiṅ
-  Jalti zamiṅ pe aakhri sajde mein hai jabiṅ
+  Jalti zamiṅ pe aakhri sajde meiṅ hai jabiṅ
   Baaliṅ pe maaṅ Husain ki aur pusht pe laiṅ
 
   1
@@ -35,7 +35,7 @@ romanLyrics: |-
   Ab is ke khun ke pyaase hue khanjar o sinaaṅ
 
   4
-  Aaya jo qatl gaah mein ye zulm ka asir
+  Aaya jo qatl gaah meiṅ ye zulm ka asir
   Pursaan-e-haal tha na koi aur na dastgir
   Patthar kisi ne maare kisi ne sinaaṅ o tir
   Naiza kisi ne maara chalaaye kisi ne tir
@@ -65,20 +65,20 @@ romanLyrics: |-
   8
   Zainab hai ek ret ke tile pe nauha gar
   Manzar ye dekhti hai sambhaale hue jigar
-  Aankhoṅ mein ashk lab pe buka aur barehna sar
+  Aankhoṅ meiṅ ashk lab pe buka aur barehna sar
   Mar jaayegi wo khwaahar-e-mazlum dekh kar
   Tan se juda na kijiyo is waqt Shah ka sar
 
   9
   Tarpe zamiṅ pe khaak uraate hue Haidar
   Aaye Khadija aur Payambar bhi nauha gar
-  Sayyidaaniyoṅ mein bain dar-e-khaima pe dukhtar
+  Sayyidaaniyoṅ meiṅ bain dar-e-khaima pe dukhtar
   Nazdik tha wo waqt ke kat jaaye Shah ka sar
   Zahra ne gala rakh diya bete ke gale par
 
   10
-  Mazhar kahaaṅ se laauṅ main wo taaqat-e-bayaaṅ
-  Main likh sakuṅ shahaadat-e-mazlum ab yahaaṅ
+  Mazhar kahaaṅ se laauṅ maiṅ wo taaqat-e-bayaaṅ
+  Maiṅ likh sakuṅ shahaadat-e-mazlum ab yahaaṅ
   Hamraah mere rone lage ye saatoṅ aasmaaṅ
   Farhan nahiṅ nahiṅ ye kalaam bhi hai nauha khwaaṅ
   Bete ko qatl hote hue dekhti thi maaṅ

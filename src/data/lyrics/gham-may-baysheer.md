@@ -1,6 +1,6 @@
 ---
 title: "غم میں بے شیر کے ہوتا ہے کلیجہ پانی"
-alternateTitle: "Gham Mein Be Shir"
+alternateTitle: "Gham Meiṅ Be Shir"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,11 +11,11 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Gham mein be shir ke hota hai kaleja paani
+  Gham meiṅ beshir ke hota hai kaleja paani
   Jab bhi sunte haiṅ ke Shabbir ne maaṅga paani
 
   1
-  Karbala mein koi insaan nahiṅ tha warna
+  Karbala meiṅ koi insaan nahiṅ tha warna
   Waqt-e-zibh to koi Sheh ko pilaata paani
 
   2

@@ -30,8 +30,8 @@ romanLyrics: |-
 
   3
   Saani-e-Faatima Bint-e-Sher-e-Khuda
-  Kaise baazaar mein jaaye gi berida
-  Kaise tay hoga wo Shaam ka raasta
+  Kaise baazaar meiṅ jaaye gi berida
+  Kaise te hoga wo Shaam ka raasta
   Ro rahi hai faza lo chala qaafila
 
   4
@@ -54,7 +54,7 @@ romanLyrics: |-
 
   7
   Jin ki chaahat pe kaunain ko naaz hai
-  Jis ka saani zamaane mein koi nahiṅ
+  Jis ka saani zamaane meiṅ koi nahiṅ
   Chaahne waale wo bhai aur wo behan
   Ho rahe haiṅ juda lo chala qaafila
 

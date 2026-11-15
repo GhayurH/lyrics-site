@@ -20,13 +20,13 @@ romanLyrics: |-
   Kaash chacha aa jaata mera
 
   2
-  Aao mujhe godi mein uthaa lo
+  Aao mujhe godi meiṅ uthaa lo
   Baba mujhe sine se lagaa lo
   Khaak pe hai bechain Sakina
 
   3
   Jaan bhi le le tashna dahaani
-  Ab nahiṅ maanguṅ gi main paani
+  Ab nahiṅ maanguṅ gi maiṅ paani
   Ammu se ye keh ke Khudaara
 
   4
@@ -46,17 +46,17 @@ romanLyrics: |-
 
   7
   Ab ye Sakina so nahiṅ sakti
-  Gham mein musalsal ro nahiṅ sakti
+  Gham meiṅ musalsal ro nahiṅ sakti
   Mera bistar aap ka sina
 
   8
-  Dekho meri gardan mein rasan hai
+  Dekho meri gardan meiṅ rasan hai
   Durroṅ se sab zakhmi badan hai
   Chhin gaye gauhar jal gaya kurta
 
   9
   Zaalim ne maare haiṅ tamaache
-  Kaan haiṅ zakhmi soyuṅ main kaise
+  Kaan haiṅ zakhmi soyuṅ maiṅ kaise
   Aao dekho haal hamaara
 
   10
@@ -65,7 +65,7 @@ romanLyrics: |-
   Aur na ab tarpaao baba
 
   11
-  Aane mein ab der na karna
+  Aane meiṅ ab der na karna
   Dekho kehna maan lo mera
   Baba mar jaayegi Sakina
 

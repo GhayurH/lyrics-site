@@ -14,12 +14,12 @@ romanLyrics: |-
   Sar se zaalim ne chhin li jo rida
   Yaad Zainab ko aa gaya Ghaazi
 
-  Dil mein ehsaas bebasi ka hua
+  Dil meiṅ ehsaas bebasi ka hua
   Yaad Zainab ko aa gaya Ghaazi
 
   1
-  Jis ke athaarah bhai Karbal mein
-  So gaye aaj khaak-e-maqtal mein
+  Jis ke athaarah bhai Karbal meiṅ
+  So gaye aaj khaak-e-maqtal meiṅ
   Shaam jaati hai ban ke wo qaidi
   Yaad Zainab ko aa gaya Ghaazi
 
@@ -30,7 +30,7 @@ romanLyrics: |-
   Yaad Zainab ko aa gaya Ghaazi
 
   3
-  Main huṅ Zainab sadaaeṅ deti thi
+  Maiṅ huṅ Zainab sadaaeṅ deti thi
   Keh ke sar khaak se chhupaati thi
   Sar pe mere rida thi Zehra ki
   Yaad Zainab ko aa gaya Ghaazi
@@ -43,8 +43,8 @@ romanLyrics: |-
 
   5
   Qalb-e-Zehra ka chain dhundti hai
-  Ran mein Zainab Husain dhundti hai
-  Dekha jab ran mein bekafan bhai
+  Ran meiṅ Zainab Husain dhundti hai
+  Dekha jab ran meiṅ bekafan bhai
   Yaad Zainab ko aa gaya Ghaazi
 
   6

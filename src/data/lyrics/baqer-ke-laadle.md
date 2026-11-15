@@ -27,7 +27,7 @@ romanLyrics: |-
   3
   Kaazim ki yatimi pe rote haiṅ do jahaaṅ
   Masum ki mayyat pe Zahra hai fughaaṅ
-  Har suṅ dahr mein maatam-e-Jaafar ki sada hai
+  Har suṅ dahr meiṅ maatam-e-Jaafar ki sada hai
 
   4
   Ae kalma go Khuda ka kuchh khauf to karo
@@ -37,7 +37,7 @@ romanLyrics: |-
   5
   Bolo khaamosh kiuṅ ho Quraan ke qaariyoṅ
   Is baat ka Khurshid ko lillaah jawaab do
-  Kis jurm mein masum ko haaye zahr diya hai
+  Kis jurm meiṅ masum ko haaye zahr diya hai
 # source_id: nohayonline:a5d945d0854e11414c1f
 # source_url: https://www.nohayonline.com/details_content.php?id=2964
 # raw_sha256: 7560e7630c01c12392eb370d681911afa96efd1a730fe94e62dd640d58609ee2

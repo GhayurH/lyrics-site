@@ -51,7 +51,7 @@ romanLyrics: |-
 
   7
   Dil kahaaṅ se laauṅ jo karuṅ ye waaqea bayaan
-  Tin din ki pyaas meiṅ wo hausla tha al-amaan
+  Tin din ki pyaas meiṅ wo hausla tha al-amaaṅ
   Zulm ke asir ne ran meiṅ ik saghir ne
   Muskura ke fauj-e-Shaam ko rula rula diya
 # source_id: nohayonline:e598b05b9ec81cdb382f

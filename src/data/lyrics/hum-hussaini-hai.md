@@ -1,6 +1,6 @@
 ---
 title: "حسین حسین حسین"
-alternateTitle: "Hum Husaini Haiṅ"
+alternateTitle: "Hum Husaini Hain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

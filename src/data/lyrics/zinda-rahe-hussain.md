@@ -15,7 +15,7 @@ romanLyrics: |-
   Ae Fatima ke laal ye waada nibhaeṅge
 
   1
-  Ghar mein hamare aaeṅgi majlis mein Fatima
+  Ghar meiṅ hamare aaeṅgi majlis meiṅ Fatima
   Farsh-e-aza ke saath ye dil bhi bichhaeṅge
 
   2
@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   Ye un ka hai julus jo pyaase hue shahid
-  Hum is ke raaste mein sabileṅ lagaeṅge
+  Hum is ke raaste meiṅ sabileṅ lagaeṅge
 
   4
   Kehte haiṅ chhote chhote se bachche ye baap se
@@ -36,11 +36,11 @@ romanLyrics: |-
 
   6
   Bachpan se hai dua ke banaeṅge ghar jahaaṅ
-  Aashur khana ghar mein wahaaṅ hum sajaeṅge
+  Aashur khana ghar meiṅ wahaaṅ hum sajaeṅge
 
   7
-  Ghar mein agar ho nazr-e-Sakina to hai yaqiṅ
-  Us nazr mein Sakina ke ammu bhi aaeṅge
+  Ghar meiṅ agar ho nazr-e-Sakina to hai yaqiṅ
+  Us nazr meiṅ Sakina ke ammu bhi aaeṅge
 
   8
   Kis shaan ke mile haiṅ namazi Husain ko

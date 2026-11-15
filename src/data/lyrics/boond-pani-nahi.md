@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Kaan dukhte haiṅ lahu hota hai zakhmoṅ se rawaaṅ
-  Yaad jab qaid mein zaalim ki jafa aati hai
+  Yaad jab qaid meiṅ zaalim ki jafa aati hai
 
   2
   Aisa lagta hai ke zindaaṅ ko bhi aaraam nahiṅ
@@ -33,7 +33,7 @@ romanLyrics: |-
 
   4
   Paas baaba haiṅ na maaṅ hai aur na bhaai na chacha
-  Haaye kis haal mein bachchi pe qaza aati hai
+  Haaye kis haal meiṅ bachchi pe qaza aati hai
 
   Haathoṅ pe Sakina ka uthaaye hue laasha
   Zindaan se rota hua bimaar chala hai
@@ -45,7 +45,7 @@ romanLyrics: |-
   Yaad Sajjad ko Zainab ki rida aati hai
 
   6
-  Koi zindaan mein na tanha ho Sakina ki tarah
+  Koi zindaan meiṅ na tanha ho Sakina ki tarah
   Ye hi Jawad ke hontoṅ pe dua aati hai
 # source_id: nohayonline:93b95b1624346f907e2b
 # source_url: https://www.nohayonline.com/details_content.php?id=138

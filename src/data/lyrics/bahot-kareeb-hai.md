@@ -22,12 +22,12 @@ romanLyrics: |-
   Ziya-e-din lab-e hai faqat ziya-e-Husain
 
   3
-  Na kooch jis ke be-rang jab nazar aaye
+  Na kuch jis ke berang jab nazar aaye
   Wo zer-e-khanjar-e-qaatil bhi muskuraaye Husain
 
   4
   Madad ko Shah ne pukaara tha jab dam-e-aakhir
-  Fiza mein gunj rahi hai wohi sada-e-Husain
+  Fiza meiṅ gunj rahi hai wohi sada-e-Husain
 
   5
   Adu ye samjhe ke Quran le ke aaye haiṅ

@@ -23,26 +23,26 @@ romanLyrics: |-
   Haye haye haye Sakina
 
   2
-  Jangal mein Hur ki bewa aayi hai le ke paani
+  Jangal meiṅ Hur ki bewa aayi hai le ke paani
   Yaad aa rahi hai apne kunbe ki mezbani
   Ehsaas sharmsaari aur raat Karbala ki
   Haye haye haye Sakina
 
   3
-  Bachi ki bekasi ka ye imtehaan kara hai
-  Baba ka jism khun mein duba hua para hai
+  Bachi ki bekasi ka ye imtehaaṅ kara hai
+  Baba ka jism khun meiṅ duba hua para hai
   Har lamha dil pe waari aur raat Karbala ki
   Haye haye haye Sakina
 
   4
   Maayusiyoṅ ka saaya barhta hi jaa raha hai
-  Kya kya khayal dil mein dukhiya ke aa raha hai
+  Kya kya khayal dil meiṅ dukhiya ke aa raha hai
   Hoṅtoṅ pe aah o zaari aur raat Karbala ki
   Haye haye haye Sakina
 
   5
   Sehmi hui hai bachi aur jal rahe haiṅ khaime
-  Koi nahi jo aake jangal mein hal banaye
+  Koi nahi jo aake jangal meiṅ hal banaye
   Aabid pe ghash hai taari aur raat Karbala ki
   Haye haye haye Sakina
 
@@ -53,19 +53,19 @@ romanLyrics: |-
   Haye haye haye Sakina
 
   7
-  Ban mein dukha hua dil phir se dukha rahi hai
+  Ban meiṅ dukha hua dil phir se dukha rahi hai
   Zainab ke dil ke upar khanjar chala rahi hai
   Aati hui sawaari aur raat Karbala ki
   Haye haye haye Sakina
 
   8
-  Ek waqt mein akeli kis kis ke paas jaye
-  Kis kis ko de tasalli kis kis ka dil badhaye
+  Ek waqt meiṅ akeli kis kis ke paas jaye
+  Kis kis ko de tasalli kis kis ka dil barhaye
   Kunbe ki zimmedaari aur raat Karbala ki
   Haye haye haye Sakina
 
   9
-  Zainab utho Sakina jangal mein kho gayi hai
+  Zainab utho Sakina jangal meiṅ kho gayi hai
   Sine pe jaa ke shaayad baba ke so gayi hai
   Hai imtehaan bhaari aur raat Karbala ki
   Haye haye haye Sakina

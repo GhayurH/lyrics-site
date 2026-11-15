@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Aza ka chaand jab dekha
-  Gali gali mein kaale parcham aate haiṅ nazar
+  Gali gali meiṅ kaale parcham aate haiṅ nazar
   Husain Husain Husain Husain
   Log azaadaari ko nikle haiṅ shaahraahoṅ par
   Husain Husain Husain Husain
@@ -23,7 +23,7 @@ romanLyrics: |-
   Mere ghar Maula aaye haiṅ
 
   1
-  Banaayi sheh nashiṅ ghar mein
+  Banaayi sheh nashiṅ ghar meiṅ
   Nishaan-e-gham sajaaya hai
   Siyaah parde lagaaye haiṅ
   Zamaane ko bataaya hai
@@ -42,10 +42,10 @@ romanLyrics: |-
   Maah-e-aza hai kaale parcham laao
   Ghar pe jari ka alam lehraao
   Guzre jahaaṅ se julus-e-aza ka
-  Raahoṅ mein us ke sabileṅ lagaao
+  Raahoṅ meiṅ us ke sabileṅ lagaao
   Baaṅto tabarruk nazr dilaao
   Bachchoṅ ko apne saqqa banaao
-  Ghar ghar mein farsh-e-aza ka bichhaao
+  Ghar ghar meiṅ farsh-e-aza ka bichhaao
   Karo elaan majlis ka
   Mere ghar Maula aaye haiṅ
 
@@ -66,11 +66,11 @@ romanLyrics: |-
   Mere ghar Maula aaye haiṅ
 
   6
-  Bahut tha shauq is dil mein
-  Main dekhuṅ rauza-e-Maula ka
+  Bahut tha shauq is dil meiṅ
+  Maiṅ dekhuṅ rauza-e-Maula ka
   Khabar thi mere Maula ko
   Karam mujh par hua aisa
-  Ke ek din khwaab mein dekha
+  Ke ek din khwaab meiṅ dekha
   Mere ghar Maula aaye haiṅ
 
   7
@@ -87,7 +87,7 @@ romanLyrics: |-
   Mere ghar Maula aaye haiṅ
 
   8
-  Bulaaya main ne Maula ko
+  Bulaaya maiṅ ne Maula ko
   To wo tanha nahiṅ aaye
   Kisi ko laaye maqtal se
   Kisi ko Shaam se laaye
@@ -97,17 +97,17 @@ romanLyrics: |-
   9
   Ajab hai kaifiyat dil ki
   Khushi hai aur hai gham bhi
-  Karuṅ main shukr ke sajde
+  Karuṅ maiṅ shukr ke sajde
   Musalle par hai maatam bhi
-  Dhala hai shukr mein nauha
+  Dhala hai shukr meiṅ nauha
   Mere ghar Maula aaye haiṅ
 
   10
   Kaha Farhan ne ro kar
   Likhi kya baat Mazhar ne
   Ajal ka jab payaam aaya
-  To main bola farishte se
-  Abhi main aa nahiṅ sakta
+  To maiṅ bola farishte se
+  Abhi maiṅ aa nahiṅ sakta
   Mere ghar Maula aaye haiṅ
 
   11

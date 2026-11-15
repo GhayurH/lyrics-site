@@ -10,20 +10,20 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Jab Sakina ko qaza qaid mein aayi hogi
+  Jab Sakina ko qaza qaid meiṅ aayi hogi
   Haye Aabid ne lahad kaise banaayi hogi
 
   1
-  Jaa ke tasvir-e-Nabi khun mein nahaayi hogi
+  Jaa ke tasvir-e-Nabi khun meiṅ nahaayi hogi
   Maaṅ ne athaarhviṅ mannat na barhaayi hogi
 
   2
   Haye kya kya na dil-e-Shaah pe guzri hogi
-  Qabr mein nanhi si mayyat ko litaayi hogi
+  Qabr meiṅ nanhi si mayyat ko litaayi hogi
 
   3
   Aaj har simt fiza noha sunaati hogi
-  Paa-e-Aabid mein jo zanjir pehnaayi hogi
+  Paa-e-Aabid meiṅ jo zanjir pehnaayi hogi
 # source_id: nohayonline:36fe5542e0e48524ea2b
 # source_url: https://www.nohayonline.com/details_content.php?id=709
 # raw_sha256: 3f3d1f7d687752e02b0b1c1e9b14a308d249b0e6587dbe45b02e31ac7e42a611

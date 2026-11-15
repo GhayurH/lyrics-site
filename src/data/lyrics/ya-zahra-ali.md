@@ -20,7 +20,7 @@ romanLyrics: |-
   Nur-e-kaunain Madina hai jahaaṅ
   Ik mohalla Bani Hashim hai wahaaṅ
   Us mohalle ke hai ik ghar ka bayaaṅ
-  Jis se behtar nahiṅ dunya mein makaaṅ
+  Jis se behtar nahiṅ dunya meiṅ makaaṅ
   Din o imaan ke kirdaar ka ghar
   Panjtan paak ke anwaar ka ghar
   Dukhtar-e-Ahmad-e-Mukhtaar ka ghar
@@ -30,23 +30,23 @@ romanLyrics: |-
   Ek Kulsum thi ik baap ka zain
   Aur Abbas dil o jaan ka chain
   Ghar ye tha bait-e-Khuda
-  Jis mein Quraan utra
+  Jis meiṅ Quraan utra
   Aur kis tarah luta
   In ka rutba na zamaana samjha
 
   2
   Kaisi mazlum magar thiṅ Zahra
-  Baap ke gham mein bhi rone na diya
+  Baap ke gham meiṅ bhi rone na diya
   Haq se mehrum kiya wa abata
   Aaj bhi jis ki lahad besaaya
   Jis pe jalta hua darwaaza gira
   Ho gayi pehlu shikasta Zahra
   Qatl Mohsin bhi hua waawaila
   Baad-e-Zehra wo Ali ka girya
-  Masjid-e-Kufa mein phir shor utha
+  Masjid-e-Kufa meiṅ phir shor utha
   Haaye Haider pe chali tegh-e-jafa
   Thi sada fuztu bi rabbil Kaaba
-  Ghar mein Zehra ke qayaamat thi bapa
+  Ghar meiṅ Zehra ke qayaamat thi bapa
   Sar se saaya jo utha
   Ghar ye wiraan hua
   Thi yatimoṅ ki buka
@@ -54,8 +54,8 @@ romanLyrics: |-
 
   3
   Baad-e-Haider ye sitam aur hua
-  Khuṅ mein Shabbar ka janaaza duba
-  Aur phir din jo mushkil mein ghira
+  Khuṅ meiṅ Shabbar ka janaaza duba
+  Aur phir din jo mushkil meiṅ ghira
   Tab Husain ibn-e-Ali ghar se chala
   Karbala jaise hi pahuncha kunba
   Phir to kya zulm na Sayyad pe hua
@@ -68,7 +68,7 @@ romanLyrics: |-
   Chal gayi tegh-e-jafa
   Khun bekas ka baha
   Sar su-e-naiza gaya
-  Tan ko aaghosh mein Zehra ne liya
+  Tan ko aaghosh meiṅ Zehra ne liya
 
   4
   Aa gayi shaam-e-gharibaaṅ haaye haaye
@@ -76,8 +76,8 @@ romanLyrics: |-
   Ghash se jab Aabid-e-bimaar uthe
   Qaidi kunbe ke wo salaar bane
   Haaye Sajjad ne kya kya dekha
-  Sar khule Shaam mein kunba dekha
-  Jashn darbaar mein hota dekha
+  Sar khule Shaam meiṅ kunba dekha
+  Jashn darbaar meiṅ hota dekha
   Chhoti hamshir ka laasha dekha
   Qaid se chhut ke chale Karb o Bala
   Sab ka chehlum kiya maatam bhi kiya
@@ -86,7 +86,7 @@ romanLyrics: |-
   Haaye maatam tha bapa
   Jab ye Zainab ne kaha
   Na rahi meri rida
-  Amma main aa gayi bhai na raha
+  Amma maiṅ aa gayi bhai na raha
 # source_id: nohayonline:0686399d5b08f34830e3
 # source_url: https://www.nohayonline.com/details_content.php?id=177
 # raw_sha256: ee462e0f98ab9d05f1059b642eb0bbe745b38bcad7d0087f9e4b7590deaaa392

@@ -10,7 +10,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Khaime mein aaye maqtal-e-Ghazi se jab Husain
+  Khaime meiṅ aaye maqtal-e-Ghazi se jab Husain
   Khali alam uthaye the aur the zabaṅ pe bain
   Zainab ne jab ye puchha wo Haider ka nur-e-ain
   Aaya na ghar ko laut ke kiuṅ mere dil ka chain
@@ -20,32 +20,32 @@ romanLyrics: |-
   Abbas mar gaya
 
   1
-  Saanseṅ ukhar rahi thiṅ jawaṅ mere bhai ki
+  Saanseṅ ukhar rahi thiṅ jawaaṅ mere bhai ki
   Bedast tha Jari
   Meri nazar ke saamne jaaṅ se guzar gaya
   Abbas mar gaya
 
   2
-  Behta tha khun aankh mein paiwast teer tha
+  Behta tha khun aankh meiṅ paiwast tir tha
   Manzar tha dard ka
   Zainab hamare bhai pe itni hui jafa
   Abbas mar gaya
 
   3
   Har qatra-e-aab ka use pyara tha jaan se
-  Maqtal mein is liye
-  Lagte hi teer mashk pe pani junhi baha
+  Maqtal meiṅ is liye
+  Lagte hi tir mashk pe pani junhi baha
   Abbas mar gaya
 
   4
   Boli Sakina bachchoṅ ke hontoṅ pe pyaas hai
   Mujh se hi aas hai
-  Main un ko kis tarah se batauṅ mera chacha
+  Maiṅ un ko kis tarah se batauṅ mera chacha
   Abbas mar gaya
 
   5
   Akbar kahaṅ ho baap ko aa kar sambhal lo
-  Mushkil mein saath do
+  Mushkil meiṅ saath do
   Sarwar ka ab koi bhi sahara nahiṅ raha
   Abbas mar gaya
 

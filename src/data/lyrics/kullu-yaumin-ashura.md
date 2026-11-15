@@ -30,7 +30,7 @@ romanLyrics: |-
 
   3
   Sabhi Nabi ke kalma go the sabhi namaazeṅ parhte the
-  Karb o bala mein sibt-e-Nabi ke khun ke lekin pyaase the
+  Karb o bala meiṅ sibt-e-Nabi ke khun ke lekin pyaase the
   Hifz kiya Quraan magar ye qaul-e-Nabi na yaad raha
   Harbun liman haarabahum wa silmun liman saalamahum
   Un se rifaaqat mujh se rifaaqat un ka adu dushman hai mera
@@ -50,7 +50,7 @@ romanLyrics: |-
 
   6
   Jis ke liye tathir ki chaadar aayat ban kar aayi thi
-  Dasht-e-bala mein nange sar wo Zainab Zehra jaayi thi
+  Dasht-e-bala meiṅ nange sar wo Zainab Zehra jaayi thi
   Baaloṅ se parda karti thi, karti thi ye aah o buka
   Qatl kiya mere bhaai ko chhin li mere sar se rida
 
@@ -64,7 +64,7 @@ romanLyrics: |-
   Subh-e-daham Shabbir ne jab Akbar se kaha azaan kaho
   Waqt-e-shahaadat aa pahuṅcha hai shukr-e-Khuda har aan karo
   Hum naatiq-e-Quraaṅ haiṅ beta Quraan suno Quraan parho
-  Teri azaan aaghaz hai beta aur anjaam mera sajda
+  Teri azaaṅ aaghaz hai beta aur anjaam mera sajda
 
   9
   Shaam-e-gharibaaṅ jalte khaime dur talak hu ka aalam

@@ -12,7 +12,7 @@ published: true
 romanLyrics: |-
   1
   Haider se adaawat thi to Kaaba nahiṅ lete
-  Patthar ke makin haath mein shisha nahiṅ lete
+  Patthar ke makin haath meiṅ shisha nahiṅ lete
   Ham log haiṅ marhun-e-karam Karb o Bala ke
   Ham log Saudi se wazifa nahiṅ lete
 

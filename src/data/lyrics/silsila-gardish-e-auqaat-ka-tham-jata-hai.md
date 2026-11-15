@@ -20,10 +20,10 @@ romanLyrics: |-
 
   3
   Zoaf se khun ko tapakne ka bhi yaara na raha
-  Zakhm se rista nahiṅ aaṅkh mein jam jaata hai
+  Zakhm se rista nahiṅ aaṅkh meiṅ jam jaata hai
 
   4
-  Aasmaaṅ sharm se hai daaman-e-khurshid mein gum
+  Aasmaaṅ sharm se hai daaman-e-khurshid meiṅ gum
   Sar khule qaafila Ahl-e-Haram jaata hai
 
   5
@@ -32,14 +32,14 @@ romanLyrics: |-
 
   6
   Yeh zamaana hai hudud-e-gham-e-Shabbir se ka
-  Main jahaaṅ jaauṅ mere saath yeh gham jaata hai
+  Maiṅ jahaaṅ jaauṅ mere saath yeh gham jaata hai
 
   7
-  Aish-e-dunya yeh tere daam mein kaise aa jaaye
+  Aish-e-dunya yeh tere daam meiṅ kaise aa jaaye
   Dil azaa khaane se baahir bhi to kam jaata hai
 
   8
-  Main chala rauza-e-Shabbir ki jaanib to laga
+  Maiṅ chala rauza-e-Shabbir ki jaanib to laga
   Mujh se aage meri qismat ka qadam jaata hai
 # source_id: tajpoints:605390a7072c28a55976
 # source_url: https://tajpoints.com/2017/10/silsila-gardish-e-auqaat-ka-tham-jata.html

@@ -10,7 +10,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maqtal mein kaha Sheh ne ro kar
+  Maqtal meiṅ kaha Sheh ne ro kar
   Abbas madad ko aa jao
   Kis tarah uthe laash-e-Akbar
   Abbas madad ko aa jao
@@ -18,30 +18,30 @@ romanLyrics: |-
   1
   Sahil se chale aao bhaiya
   Uthwao bhatije ka laasha
-  Hai sina-e-Akbar mein neza
+  Hai sina-e-Akbar meiṅ neza
   Har samt andhera hai chhaya
   Benur haiṅ aankheṅ tuti kamar
 
   2
   Sine se ani jo hai khenchi
-  Main kaise batauṅ kya guzri
+  Maiṅ kaise batauṅ kya guzri
   Hamshakl-e-Nabi reti pe gira
   To rone lage khud pyare Nabi
-  Khud dekh lo maqtal mein aa kar
+  Khud dekh lo maqtal meiṅ aa kar
 
   3
-  Kai baar gira is manzil mein
-  Akbar tak pahuncha mushkil mein
-  Jo sina-e-Akbar mein hai laga
-  Wo neza hai mere dil mein
+  Kai baar gira is manzil meiṅ
+  Akbar tak pahuncha mushkil meiṅ
+  Jo sina-e-Akbar meiṅ hai laga
+  Wo neza hai mere dil meiṅ
   Hai dur hua mujh se dilbar
 
   4
   Jab dekha Akbar ka chehra
   Yaad aaye mujhe mere Nana
-  Kis tarah sambhaluṅ main dil ko
+  Kis tarah sambhaluṅ maiṅ dil ko
   Reti pe tarapta hai laasha
-  Khuṅ mein hai shabih-e-Payambar
+  Khuṅ meiṅ hai shabih-e-Payambar
 
   5
   Sughra se kiya tha jo waada
@@ -59,7 +59,7 @@ romanLyrics: |-
 
   7
   Har samt bapa ek mahshar tha
-  Jab khun mein ghaltaṅ Akbar tha
+  Jab khun meiṅ ghaltaṅ Akbar tha
   Ek noha Sheh ke lab par tha
   Yazdan wo kaisa manzar tha
   Sheh kehte the ro ro kar Asghar

@@ -30,7 +30,7 @@ romanLyrics: |-
   Khaimoṅ ki aag aur wo har simt shor o shain
   Wo al-atash ki gunj wo kamsin laboṅ ke bain
   Durre tamaache aur wo har lab pe ya Husain
-  Aankhoṅ mein ab bhi baaqi hai wo Karbala ki shaam
+  Aankhoṅ meiṅ ab bhi baaqi hai wo Karbala ki shaam
 
   4
   Akbar salaam ae Ali Asghar tujhe salaam
@@ -39,7 +39,7 @@ romanLyrics: |-
   Ae bekas o gharib mere tashna lab Imam
 
   5
-  Maula ye hai Rasheed Shaheedi ki iltejaa
+  Maula ye hai Rashid Shahidi ki iltejaa
   Pahuncha de hum ghulaamoṅ ko ab jald Karbala
   Maatam kareṅ ge phir tere rauze pe hum tera
   Hum se na ho saki teri khidmat Shah-e-Anaam

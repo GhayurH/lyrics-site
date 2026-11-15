@@ -1,6 +1,6 @@
 ---
 title: "بغداد کی زمین پہ ماتم تقی کا ہے"
-alternateTitle: "Baghdad Ki Zameen Pe"
+alternateTitle: "Baghdad Ki Zamin Pe"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -44,7 +44,7 @@ romanLyrics: |-
 
   8
   Sad paash dil pe khaar-e-masaaib ki hai chubhan
-  Rota hai khuṅ jahaaṅ mein jo mihram Taqi ka hai
+  Rota hai khuṅ jahaaṅ meiṅ jo mihram Taqi ka hai
 
   9
   Maula Husain ho ke azaadaar aaye haiṅ
@@ -56,7 +56,7 @@ romanLyrics: |-
 
   11
   Az farsh taa ba arsh bapa majliseṅ haiṅ aaj
-  Ahl-e-Wila mein dard muqaddam Taqi ka hai
+  Ahl-e-Wila meiṅ dard muqaddam Taqi ka hai
 # source_id: nohayonline:290a2894f167c26fa2f8
 # source_url: https://www.nohayonline.com/details_content.php?id=1232
 # raw_sha256: 835133cf151d2881bb19ec49f045678c86d43ea5b19c4df3b2dff696f9c96b25

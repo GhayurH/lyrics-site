@@ -1,6 +1,6 @@
 ---
 title: "اذاں کی کوکھ اجڑی ماں کو جب آواز آتی ہے"
-alternateTitle: "Azan Ki Kokh Ujdi"
+alternateTitle: "Azaṅ Ki Kokh Ujri"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -32,7 +32,7 @@ romanLyrics: |-
 
   5
   Jawaaṅ bete ki maaṅ se puchho kitni hoti hai chaahat
-  Tasavvur mein na jaane kya kya wo armaan sajaati hai
+  Tasavvur meiṅ na jaane kya kya wo armaan sajaati hai
 
   6
   Koi bachcha kahiṅ rota tarap kar kehti thi Baano
@@ -40,7 +40,7 @@ romanLyrics: |-
 
   7
   Dua deti hai Zehra aa ke jannat se Anis un ko
-  Ke jin ko nauha o maatam mein wo mashghul paati hai
+  Ke jin ko nauha o maatam meiṅ wo mashghul paati hai
 # source_id: nohayonline:dff6711e1958e4830f8e
 # source_url: https://www.nohayonline.com/details_content.php?id=3448
 # raw_sha256: 910c1db93576ae7327d93db6fc3786cca470090ed490ee1b7502ae77c67c5cd5

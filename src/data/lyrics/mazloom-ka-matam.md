@@ -1,6 +1,6 @@
 ---
 title: "مظلوم کا ماتم ہے رکا ہے نہ رکےگا"
-alternateTitle: "Mazloom Ka Matam"
+alternateTitle: "Mazlum Ka Matam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,8 +11,8 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Mazloom ka matam hai ruka hai na rukega
-  Ye aisa diya hai jo hawaaoṅ mein jalega
+  Mazlum ka matam hai ruka hai na rukega
+  Ye aisa diya hai jo hawaaoṅ meiṅ jalega
 
   1
   Rukhsaar-e-Yazidi pe lagega wo tamaancha
@@ -28,14 +28,14 @@ romanLyrics: |-
   Zehra ki dua hai ye matam
   Ye matam kaise ruk jaye
   Seh roz ke pyaasoṅ se ye paani ka hai waada
-  Kaunain mein ab koi bhi pyasa na rahega
+  Kaunain meiṅ ab koi bhi pyasa na rahega
 
   4
   Hur ban ke koi aaye to Shabbir ki jaanib
   Ye aisa gharana hai jo maangoge milega
 
   5
-  Akbar ne kaha sheh se ulat duṅga main lashkar
+  Akbar ne kaha sheh se ulat duṅga maiṅ lashkar
   Baba mujhe do ghuṅt agar paani milega
 
   6
@@ -43,7 +43,7 @@ romanLyrics: |-
   Teri majlis tera matam zindagi hai ye Husain
   Ya Husain ya Husain ya Husain
   Qaaim ko zara aane do ghaibat se Takallum
-  Ek halqa abhi khaana-e-Kaaba mein lagega
+  Ek halqa abhi khaana-e-Kaaba meiṅ lagega
 # source_id: nohayonline:0a00c504a8afc4dcd703
 # source_url: https://www.nohayonline.com/details_content.php?id=1369
 # raw_sha256: 9ad5bd52af4a3c2406eb24dbe35419211a5579c5b613f23e635b42d6f1bae19f

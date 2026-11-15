@@ -60,7 +60,7 @@ romanLyrics: |-
   Apni ghurbat chhupa rahe haiṅ Ali
 
   10
-  Ae Takallum Batul ke gham mein
+  Ae Takallum Batul ke gham meiṅ
   Ab bhi aansu baha rahe haiṅ Ali
   Apni ghurbat chhupa rahe haiṅ Ali
 # source_id: nohayonline:136f467afbf2ff019e16

@@ -45,14 +45,14 @@ romanLyrics: |-
 
   6
   Bimaar pisar Sajjad mera
-  Zanjir mein jakra jaaye ga
-  Aur tauq mein hoga us ka gala
+  Zanjir meiṅ jakra jaaye ga
+  Aur tauq meiṅ hoga us ka gala
   Hai sabr tujhe karna Zainab
 
   7
   Mazlum meri pyaasi bachchi
   Zaalim ke tamaanche khaaye gi
-  Rassi mein bandhe ga us ka gala
+  Rassi meiṅ bandhe ga us ka gala
   Hai sabr tujhe karna Zainab
 
   8

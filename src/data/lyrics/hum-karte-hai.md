@@ -56,7 +56,7 @@ romanLyrics: |-
   Aur Zehra karti hai girya
 
   8
-  Har dil ki dhadkan kehti hai
+  Har dil ki dharkan kehti hai
   Yaaṅ yaad-e-Asghar rehti hai
   Har dil hai Asghar ka jhula
   Har lab pa rahega ye nauha

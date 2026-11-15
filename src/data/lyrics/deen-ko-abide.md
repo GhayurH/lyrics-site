@@ -30,8 +30,8 @@ romanLyrics: |-
   Aal ko lashkar-e-kuffaar ne sone na diya
 
   4
-  Zakhm riste rahe bimaar ke chhaaloṅ mein sada
-  Nind ke badle rahe aaṅkhoṅ mein phir ashk-e-aza
+  Zakhm riste rahe bimaar ke chhaaloṅ meiṅ sada
+  Nind ke badle rahe aaṅkhoṅ meiṅ phir ashk-e-aza
   Pair ke chubhte hue khaar ne sone na diya
 
   5
@@ -40,13 +40,13 @@ romanLyrics: |-
   Qaum ko is gham-e-bedaar ne sone na diya
 
   6
-  Baap ke gham mein wo bimaar ka girya karna
-  Qaid mein qaum ke sardaar ka ghut kar marna
+  Baap ke gham meiṅ wo bimaar ka girya karna
+  Qaid meiṅ qaum ke sardaar ka ghut kar marna
   Roz o shab Shah ke azaadaar ne sone na diya
 
   7
-  Qaid mein baali Sakina ka machalna rona
-  Yaad-e-Shabbir mein bachchi ka tarapna rona
+  Qaid meiṅ baali Sakina ka machalna rona
+  Yaad-e-Shabbir meiṅ bachchi ka tarapna rona
   Qaid ke un dar o diwaar ne sone na diya
 
   8

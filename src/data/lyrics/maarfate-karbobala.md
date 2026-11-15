@@ -15,11 +15,11 @@ romanLyrics: |-
   Us ko Salman ki binaayi ata ho jaaye
 
   1
-  Majlisoṅ mein chale aao gham-e-Shabbir karo
+  Majlisoṅ meiṅ chale aao gham-e-Shabbir karo
   Ye to wo gham hai ke har gham ki dawa ho jaaye
 
   2
-  Dil mein bu-e-gham-e-Shabbir basaaye rakhna
+  Dil meiṅ bu-e-gham-e-Shabbir basaaye rakhna
   Dil ke kuzoṅ se ye khushbu na juda ho jaaye
 
   3
@@ -31,7 +31,7 @@ romanLyrics: |-
   Naam bimaar jo le le to shifa ho jaaye
 
   5
-  Aag khaimoṅ mein laeenoṅ ne laga di dekho
+  Aag khaimoṅ meiṅ lainoṅ ne laga di dekho
   Kisi maaṅ se koi bachcha na juda ho jaaye
 
   6
@@ -39,7 +39,7 @@ romanLyrics: |-
   Tir se zakhmi na Asghar ka gala ho jaaye
 
   7
-  Midhat-e-Aal-e-Muhammad main na chhoruṅ ga Uruj
+  Midhat-e-Aal-e-Muhammad maiṅ na chhoruṅ ga Uruj
   Mujh se hota hai agar koi khafa ho jaaye
 # source_id: nohayonline:2e7177416fef1832ff44
 # source_url: https://www.nohayonline.com/details_content.php?id=2094

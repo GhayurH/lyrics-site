@@ -49,7 +49,7 @@ romanLyrics: |-
   4
   Der ka hai kya sabab
   Haaye chacha jaan mere
-  Dard hai dil mein ajab
+  Dard hai dil meiṅ ajab
   Haaye chacha jaan mere
   Pyaas se huṅ jaaṅ balab
   Haaye chacha jaan mere
@@ -77,7 +77,7 @@ romanLyrics: |-
   Haaye chacha jaan mere
 
   7
-  Karti huṅ jab main fughaaṅ
+  Karti huṅ jab maiṅ fughaaṅ
   Haaye chacha jaan mere
   Rote haiṅ Shaah-e-zamaaṅ
   Haaye chacha jaan mere
@@ -89,9 +89,9 @@ romanLyrics: |-
   8
   Dhundne jaauṅ kahaaṅ
   Haaye chacha jaan mere
-  Mere Anees ho kahaaṅ
+  Mere Anis ho kahaaṅ
   Haaye chacha jaan mere
-  Hashr hai ghar mein ayaaṅ
+  Hashr hai ghar meiṅ ayaaṅ
   Haaye chacha jaan mere
   Pyaas se dil hai tapaaṅ
   Haaye chacha jaan mere

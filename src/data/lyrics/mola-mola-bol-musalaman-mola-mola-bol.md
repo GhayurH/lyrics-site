@@ -45,8 +45,8 @@ romanLyrics: |-
   Bola us ka shauhar apna ho gaya patiya gol
 
   7
-  Khwaab mein ye manzar dekha to aur bhi kuchh ghabraaya
-  Jannat mein sone ke mahal par hiroṅ se likha tha
+  Khwaab meiṅ ye manzar dekha to aur bhi kuchh ghabraaya
+  Jannat meiṅ sone ke mahal par hiroṅ se likha tha
   Qasr-e-Zubaida hai ye dene waale haiṅ Bahlol
 # source_id: tajpoints:17cbb432350e602889c8
 # source_url: https://tajpoints.com/2018/04/mola-mola-bol-musalaman-mola-mola-bol.html

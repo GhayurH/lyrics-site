@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zindagi mein the sitam aur qabr pe bhi haiṅ sitam
+  Zindagi meiṅ the sitam aur qabr pe bhi haiṅ sitam
 
   Zaalim ne Fatima tere rauze ko dhaa diya
   Dil Mustafa ka tora Ali ko rula diya
@@ -25,7 +25,7 @@ romanLyrics: |-
   Haidar ne aaṅsuoṅ ka musalla bichha diya
 
   3
-  Kar ke shahid dahr mein Mohsin ko bekhata
+  Kar ke shahid dahr meiṅ Mohsin ko bekhata
   Karbal ki sarhadoṅ se Madina mila diya
 
   4

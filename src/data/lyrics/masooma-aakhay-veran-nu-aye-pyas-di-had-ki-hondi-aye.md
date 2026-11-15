@@ -24,11 +24,11 @@ romanLyrics: |-
 
   2
   Duji ae had ae taalu de naal haaye jibh chamar jaandi ae
-  Main aakhni saaṅ kiuṅ bolda nahiṅ Akbar na waaz nikaldi ae
+  Maiṅ aakhni saaṅ kiuṅ bolda nahiṅ Akbar na waaz nikaldi ae
 
   3
   Tiji ae had ae jiveṅ khaak utte machhli tarfe bin paani
-  Main tarfadiyaaṅ Asghar takiya Karbal di khaak rayi uddi ae
+  Maiṅ tarfadiyaaṅ Asghar takiya Karbal di khaak rayi uddi ae
 
   4
   Chauthi had ae jadoṅ haddiyaaṅ toṅ haaye maas juda ho jaave

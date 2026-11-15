@@ -19,7 +19,7 @@ romanLyrics: |-
   Jab se dekha Husain ka rauza
 
   2
-  Khuld mein Mustafa ke rauze ke
+  Khuld meiṅ Mustafa ke rauze ke
   Saath ho ga Husain ka rauza
 
   3
@@ -31,7 +31,7 @@ romanLyrics: |-
   Jis ne dekha Husain ka rauza
 
   5
-  Kya kare dil ke Kaabe mein bhi ise
+  Kya kare dil ke Kaabe meiṅ bhi ise
   Yaad aaya Husain ka rauza
 
   6

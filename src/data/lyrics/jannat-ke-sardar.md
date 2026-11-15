@@ -16,47 +16,47 @@ romanLyrics: |-
   Husain ya Husain Husain ya Husain
 
   Panjetan ke gharaane ka jo hubdaar nahiṅ hai
-  Mahshar mein shafaat ka wo haqdaar nahiṅ hai
+  Mahshar meiṅ shafaat ka wo haqdaar nahiṅ hai
   Wo hubdaar nahiṅ
   Wo haqdaar nahiṅ
 
   1
-  Tehrir Muhammad ki jo khaatir mein na laaye
+  Tehrir Muhammad ki jo khaatir meiṅ na laaye
   Jo hoke Musalmaan dil-e-Zahra ko dukhaaye
   Batlaao tumhiṅ kya wo gunahgaar nahiṅ hai
-  Mahshar mein shafaat ka wo haqdaar nahiṅ hai
+  Mahshar meiṅ shafaat ka wo haqdaar nahiṅ hai
   Wo hubdaar nahiṅ
   Wo haqdaar nahiṅ
 
   2
   Sina zani ye aansuṅ hai momin ki nishaani
-  Jannat mein le ke jaayega aankhoṅ ka ye paani
-  Gham mein Husain ke jo sogwaar nahiṅ hai
-  Mahshar mein shafaat ka wo haqdaar nahiṅ hai
+  Jannat meiṅ le ke jaayega aankhoṅ ka ye paani
+  Gham meiṅ Husain ke jo sogwaar nahiṅ hai
+  Mahshar meiṅ shafaat ka wo haqdaar nahiṅ hai
   Wo hubdaar nahiṅ
   Wo haqdaar nahiṅ
 
   3
   Beyaar o madadgaar Muhammad ka nawaasa
-  Karbobala ke ban mein hai maara gaya pyaasa
+  Karbobala ke ban meiṅ hai maara gaya pyaasa
   Aal-e-Rasul ka jo azaadaar nahiṅ hai
-  Mahshar mein shafaat ka wo haqdaar nahiṅ hai
+  Mahshar meiṅ shafaat ka wo haqdaar nahiṅ hai
   Wo hubdaar nahiṅ
   Wo haqdaar nahiṅ
 
   4
   Allah ne bare pyaar se Panjetan ko banaaya
-  Ye mere haiṅ main in ka huṅ ye sab ko bataaya
+  Ye mere haiṅ maiṅ in ka huṅ ye sab ko bataaya
   Farmaan-e-Khuda se jise aetbaar nahiṅ hai
-  Mahshar mein shafaat ka wo haqdaar nahiṅ hai
+  Mahshar meiṅ shafaat ka wo haqdaar nahiṅ hai
   Wo hubdaar nahiṅ
   Wo haqdaar nahiṅ
 
   5
   Aa jaaiye Khudaara mere baarahweṅ Imam
-  Khursheed ki aankheṅ haiṅ muntazir ye subh shaam
+  Khurshid ki aankheṅ haiṅ muntazir ye subh shaam
   Jis jis ko bhi qaayam ka intezaar nahiṅ hai
-  Mahshar mein shafaat ka wo haqdaar nahiṅ hai
+  Mahshar meiṅ shafaat ka wo haqdaar nahiṅ hai
   Wo hubdaar nahiṅ
   Wo haqdaar nahiṅ
 # source_id: nohayonline:ec13346cf536e5e3f477

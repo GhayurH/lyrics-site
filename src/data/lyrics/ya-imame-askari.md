@@ -27,27 +27,27 @@ romanLyrics: |-
 
   3
   Dafn Sheh ne jis tarah se apne Asghar ko kiya
-  Aa gaya nazroṅ mein haaye manzar-e-Karb o Bala
-  Apni turbat aap ne jo ghar mein khud tayyaar ki
+  Aa gaya nazroṅ meiṅ haaye manzar-e-Karb o Bala
+  Apni turbat aap ne jo ghar meiṅ khud tayyaar ki
 
   4
-  Yuṅ to saara Saamra tha rone waaloṅ mein magar
+  Yuṅ to saara Saamra tha rone waaloṅ meiṅ magar
   Haaye bhaai keh ke roye koi teri laash par
   Ek behan Zainab ke jaisi kaash ke hoti teri
 
   5
-  Ghar mein daakhil ho gaye the zulm dhaane ke liye
+  Ghar meiṅ daakhil ho gaye the zulm dhaane ke liye
   Pursa dene ke bajaye qatl karne ke liye
   Dhundte the chaaroṅ jaanib tere Mehdi ko shaqi
 
   6
-  Parda-e-ghaibat mein Mehdi bhi tarap kar reh gaya
+  Parda-e-ghaibat meiṅ Mehdi bhi tarap kar reh gaya
   Gyaarah sadiyoṅ baad yeh phir se sitam dhaaya gaya
   Aap ke rauze ka girna hai shahaadat dusri
 
   7
   Maadar-e-Shabbir ka taamir rauza dekh le
-  Ghar mein Khaaliq ke Takallum Sheh ka maatam dekh le
+  Ghar meiṅ Khaaliq ke Takallum Sheh ka maatam dekh le
   Kam se kam se itni barha do maatami ki zindagi
 # source_id: nohayonline:526f097ce70dc1be0124
 # source_url: https://www.nohayonline.com/details_content.php?id=111

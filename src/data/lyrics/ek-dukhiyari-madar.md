@@ -12,16 +12,16 @@ aliases: []
 published: true
 romanLyrics: |-
   Ek dukhyaari maadar kehti hai ro ro kar
-  Karbobala ke ban mein luta gaya mera ghar
+  Karbobala ke ban meiṅ luta gaya mera ghar
 
   Mere jigar ke paare tarpe zer-e-khanjar
-  Karbobala ke ban mein luta gaya mera ghar
+  Karbobala ke ban meiṅ luta gaya mera ghar
 
   1
   Chaand jab maah-e-Muharram ka nikal aata hai
-  Dil azaadaaroṅ ka sine mein machal jaata hai
-  Chehra ghamkhwaaroṅ ka pal bhar mein badal jaata hai
-  Khun-e-dil yaad mein pyaasoṅ ki ubal jaata hai
+  Dil azaadaaroṅ ka sine meiṅ machal jaata hai
+  Chehra ghamkhwaaroṅ ka pal bhar meiṅ badal jaata hai
+  Khun-e-dil yaad meiṅ pyaasoṅ ki ubal jaata hai
   Jab kehti hai dukhya maaṅ ye aaheiṅ bhar kar
 
   2
@@ -42,15 +42,15 @@ romanLyrics: |-
   Wo mera laal wo Abbas mera shahzaada
   Bhar ke mashkiza wo ghaazi jo nahr se nikla
   Donoṅ shaane bhi kate mashk chhidi waawaila
-  Aaṅkh mein mere dulaare ke laga tir-e-jafa
-  Gurz laga jab sar pe main tarpi ye keh kar
+  Aaṅkh meiṅ mere dulaare ke laga tir-e-jafa
+  Gurz laga jab sar pe maiṅ tarpi ye keh kar
 
   5
   Ae azaadaaroṅ mere laal ke maatamdaaroṅ
   Gham manaate ho mere laal ka mere pyaaroṅ
-  Tum na ghabraana musibat mein kabhi dildaaroṅ
+  Tum na ghabraana musibat meiṅ kabhi dildaaroṅ
   Mere bachchoṅ pe karo aah o buka ghamkhwaaroṅ
-  Aaṅch na aane duṅgi main tum sab ke upar
+  Aaṅch na aane duṅgi maiṅ tum sab ke upar
 
   6
   Dil tarap jaata hai ye soch ke aksar Waiz

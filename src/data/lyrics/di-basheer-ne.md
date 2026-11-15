@@ -1,6 +1,6 @@
 ---
 title: "دی بشیر نے رو کے یہ صدا"
-alternateTitle: "Di Basheer Ne"
+alternateTitle: "Di Bashir Ne"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -19,7 +19,7 @@ romanLyrics: |-
   1
   Wo mujaawar-e-rauza-e-Nabi
   Is Madine ki jise zeb thi
-  Khaak mein use lo mila diya
+  Khaak meiṅ use lo mila diya
   Lut gaye haram mar gaye Husain
 
   2
@@ -36,14 +36,14 @@ romanLyrics: |-
 
   4
   Bewoṅ ko kiya uṅtoṅ par sawaar
-  Di mariz ke haath mein mihaar
+  Di mariz ke haath meiṅ mihaar
   Manziloṅ gharib kaaṅtoṅ pe chala
   Lut gaye haram mar gaye Husain
 
   5
   Mit gayi jo haaye shakl-e-Mustafa
   Zindagi se haath Shih ne dho diya
-  Ran mein naujavaaṅ Shih ka mar gaya
+  Ran meiṅ naujavaaṅ Shih ka mar gaya
   Lut gaye haram mar gaye Husain
 
   6
@@ -55,12 +55,12 @@ romanLyrics: |-
   7
   Tha wo sar kabhi neze par rakha
   Shaahe qatl par ziba-goh hua
-  Aur tanur mein tha kabhi daala
+  Aur tanur meiṅ tha kabhi daala
   Lut gaye haram mar gaye Husain
 
   8
   Baqar-e-haziṅ hashr tha bapa
-  Zalzale mein thi qabr-e-Mustafa
+  Zalzale meiṅ thi qabr-e-Mustafa
   Jab Bashir ne ro ke ye kaha
   Lut gaye haram mar gaye Husain
 # source_id: nohayonline:1ca960b0ff5c8325d7b2

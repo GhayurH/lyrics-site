@@ -18,32 +18,32 @@ romanLyrics: |-
   Al madad Ya Zehra
 
   1
-  Sharm aati thi mujhe main baap se na keh saki
+  Sharm aati thi mujhe maiṅ baap se na keh saki
   Aap maaṅ haiṅ jaanti haiṅ kaifiyat dil ki meri
-  Ho gayi Bint-e-Ali namehramoṅ mein beparda
+  Ho gayi Bint-e-Ali namehramoṅ meiṅ beparda
 
   2
   Bekasi dikhla rahi hai kya qayamat ka samaṅ
-  Mar na jae gham se maqtal mein kahiṅ Asghar ki maaṅ
+  Mar na jae gham se maqtal meiṅ kahiṅ Asghar ki maaṅ
   Kaise dekhegi bhala neze pe jism Asghar ka
 
   3
   Dur na hone diya tha apni nazroṅ se jise
-  Us jawaṅ bete ko Laila alwida kaise kahe
+  Us jawaaṅ bete ko Laila alwida kaise kahe
   Lash-e-Akbar samne rone pe hai laga pehra
 
   4
-  Hathkari haathoṅ mein hai aur beriyaṅ haiṅ paaoṅ mein
-  Ab kahaṅ mohlat milegi baithne ki chhaoṅ mein
+  Hathkari haathoṅ meiṅ hai aur beriyaṅ haiṅ paaoṅ meiṅ
+  Ab kahaṅ mohlat milegi baithne ki chhaoṅ meiṅ
   Shaam tak Sajjad ka kaantoṅ se hai bhara rasta
 
   5
-  Larkharate haiṅ qadam aur aankh mein aansu bhare
+  Larkharate haiṅ qadam aur aankh meiṅ aansu bhare
   Marhala dushwar hoga ye Ruqayya ke liye
   Lasha-e-Abbas se guzregi kaise beparda
 
   6
-  Dasht mein taqsim kaise ho gaya wo mahjabiṅ
+  Dasht meiṅ taqsim kaise ho gaya wo mahjabiṅ
   Sar kahiṅ tukre kahiṅ haiṅ aur sehra hai kahiṅ
   Apne Qasim ko bhala pehchane kis tarah Farwa
 
@@ -53,7 +53,7 @@ romanLyrics: |-
   Kaanpte hontoṅ pe ye Fizza ke istighasa tha
 
   8
-  Dasht mein Aun o Muhammad ki Takallum thi sada
+  Dasht meiṅ Aun o Muhammad ki Takallum thi sada
   Bhar na aae maaṅ ka dil lashe chhupa de Ae hawa
   Ruk na jae ye qadam hai sakht imtihan maaṅ ka
 # source_id: nohayonline:ff20dc56c9c820022b6b

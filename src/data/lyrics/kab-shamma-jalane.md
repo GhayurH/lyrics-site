@@ -22,12 +22,12 @@ romanLyrics: |-
   Kab us ke laashe ko Maula neze pe uthaane aaoge
 
   3
-  Hai chaar baras ki ek Zehra zindaan mein sadiyoṅ se qaidi
+  Hai chaar baras ki ek Zehra zindaan meiṅ sadiyoṅ se qaidi
   Kab baitul huzn se tum us ko aazaad karaane aaoge
 
   4
   Dhaaya gaya rauza daadi ka dekha hai ujarta Samarra
-  Jo daagh mile haiṅ ghaibat mein kab un ko dikhaane aaoge
+  Jo daagh mile haiṅ ghaibat meiṅ kab un ko dikhaane aaoge
 
   5
   Wo Shaam aur Kufa ke raste wo naaqoṅ se girte bachche

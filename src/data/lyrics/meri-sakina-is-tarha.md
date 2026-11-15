@@ -15,8 +15,8 @@ romanLyrics: |-
   Na meri bachchi na is tarha na rona
 
   Tum jaao kahaaṅ Allah jaane
-  Maqtal mein rahe kis haal mein hum
-  Ab khwaab mein Baba aayeṅge
+  Maqtal meiṅ rahe kis haal meiṅ hum
+  Ab khwaab meiṅ Baba aayeṅge
   Chaahe Shaam ka wo zindaaṅ howe
 
   1
@@ -39,21 +39,21 @@ romanLyrics: |-
   Aa poṅchh le aansu aankhoṅ se
   Tu dekh le chehra Baba ka
   Kal ho sakta hai aa na sake
-  Pehchaan mein chehra Baba ka
+  Pehchaan meiṅ chehra Baba ka
   Hum saath tera na chhoreṅge
   Chaahe Shaam ka wo zindaaṅ howe
 
   4
   Abbas ka dil Akbar ki behan
-  Jis waqt bandhe gardan mein rasan
+  Jis waqt bandhe gardan meiṅ rasan
   Tum Baba Baba mat kehna
-  Tarpega mera be gor badan
+  Tarpega mera begor badan
   Asghar ki tarha se chup rehna
   Chaahe Shaam ka wo zindaaṅ howe
 
   5
   Dekha hai Rehaan o Sarwar ne
-  Khud Shaam mein jaa kar ye manzar
+  Khud Shaam meiṅ jaa kar ye manzar
   Sailaab hai pursa daaroṅ ka
   Masruf-e-buka taa hadd-e-nazar
   Hai saara ilaqa Bibi ka

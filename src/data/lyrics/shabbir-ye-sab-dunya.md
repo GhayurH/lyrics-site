@@ -18,13 +18,13 @@ romanLyrics: |-
   Allah ka bhi kalma tere naam se zinda hai
 
   2
-  Phaili haiṅ zamaane mein tauhid ki tanvireṅ
-  Gunji haiṅ tere dam se kaunain mein takbireṅ
+  Phaili haiṅ zamaane meiṅ tauhid ki tanvireṅ
+  Gunji haiṅ tere dam se kaunain meiṅ takbireṅ
   Haq is se hai paainda tere naam se zinda hai
 
   3
   Minni ki sanad bakhshi tujhe Sarwar-e-aalam ne
-  Phir ye bhi kaha main huṅ Shabbir tere dam se
+  Phir ye bhi kaha maiṅ huṅ Shabbir tere dam se
   Shabbir tera naana tere naam se zinda hai
 
   4
@@ -33,8 +33,8 @@ romanLyrics: |-
   Ye din-e-Nabi haq ka tere naam se zinda hai
 
   5
-  Walfajr mein tu shaamil tathir mein tu shaamil
-  Kausar ki mawaddat ki tafsir mein tu shaamil
+  Walfajr meiṅ tu shaamil tathir meiṅ tu shaamil
+  Kausar ki mawaddat ki tafsir meiṅ tu shaamil
   Wal-asr ka bhi sura tere naam se zinda hai
 
   6
@@ -64,7 +64,7 @@ romanLyrics: |-
 
   11
   Sarwar ki nishaani ab koi bhi nahiṅ baaqi
-  Ik chhor di jangal mein ik Shaam mein dafna di
+  Ik chhor di jangal meiṅ ik Shaam meiṅ dafna di
   Dukh Baanu-e-muztar ka tere naam se zinda hai
 
   12
@@ -79,7 +79,7 @@ romanLyrics: |-
 
   14
   Aayeṅ ge mujhe lene ik roz mere bhaiya
-  Phir byaah rachaauṅ gi main shauq se bhaiya ka
+  Phir byaah rachaauṅ gi maiṅ shauq se bhaiya ka
   Akbar wo teri Sughra tere naam se zinda hai
 
   15

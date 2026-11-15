@@ -25,12 +25,12 @@ romanLyrics: |-
 
   2
   Hal-e-dil kis se kahe kaun mera hai Ya Rab
-  Qatl karte hain mere laal ko aada besabab
-  Zulm ab dhate hain aada mere Abbas ke baad
+  Qatl karte haiṅ mere laal ko aada besabab
+  Zulm ab dhate haiṅ aada mere Abbas ke baad
 
   3
-  Laal ne zakhm ye khaye hain isi maqtal mein
-  Har sitam is ne uthaye hain isi maqtal mein
+  Laal ne zakhm ye khaye haiṅ isi maqtal meiṅ
+  Har sitam is ne uthaye haiṅ isi maqtal meiṅ
   Kaun sa paaya na sadma mere Abbas ke baad
 
   4
@@ -40,7 +40,7 @@ romanLyrics: |-
 
   5
   Ho ke do zanu Shah-e-Jinn o Bashar baith gaye
-  Keh ke maqtal mein haaye laash-e-pisar baith gaye
+  Keh ke maqtal meiṅ haaye laash-e-pisar baith gaye
   Amma guzri hai bhala kya mere Abbas ke baad
 
   6
@@ -51,7 +51,7 @@ romanLyrics: |-
   7
   Kaise hoti hai musibat ae falak dekh to le
   Jis ka gehwara hilate the malak dekh to le
-  Ran mein kehte nahiṅ Aaqa mere Abbas ke baad
+  Ran meiṅ kehte nahiṅ Aaqa mere Abbas ke baad
 
   8
   Tir paiwast hai itne ke nikaluṅ kaise
@@ -60,7 +60,7 @@ romanLyrics: |-
 
   9
   Jalti reti pe para reh gaya laasha uska
-  Shams Aamir ye bayan Fatema Zehra ne kiya
+  Shams Aamir ye bayaṅ Fatema Zehra ne kiya
   Kaise utthega janaza mere Abbas ke baad
 # source_id: nohayonline:80090ce61d30714b05ee
 # source_url: https://www.nohayonline.com/details_content.php?id=2438

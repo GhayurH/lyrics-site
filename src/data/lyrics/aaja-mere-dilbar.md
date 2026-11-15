@@ -11,37 +11,37 @@ aliases: []
 published: true
 romanLyrics: |-
   Tha asr ka hangaam falak kaamp raha tha
-  Zehra ka jigar-band lainon mein ghira tha
-  Teeron ka nashana tha Muhammad ka nawasa
-  Girte huwe mazloom ne maadar ko pukara
+  Zehra ka jigar-band lainoṅ mein ghira tha
+  Tiroṅ ka nashana tha Muhammad ka nawasa
+  Girte huwe mazlum ne maadar ko pukara
 
   1
-  Ab aaiye amma ke main girta huṅ zamiṅ par
-  Zehra ki sada aayi ke maujood hai maadar
-  Phailaye huṅ baaheṅ meri godhi mein sama ja
-  Aaja mere dilbar meri aaghosh mein aaja
+  Ab aaiye amma ke maiṅ girta huṅ zamiṅ par
+  Zehra ki sada aayi ke maujud hai maadar
+  Phailaye huṅ baaheṅ meri godhi meiṅ sama ja
+  Aaja mere dilbar meri aaghosh meiṅ aaja
 
   2
-  Raasta mera khunkhwar kahan rok sakenge
-  Maa ko ye sitamgar kahan rok sakenge
-  Mamta ko ye hathyaar kahan rok sakenge
-  Maa tujhko na chodegi kisi haal mein tanha
+  Raasta mera khunkhwar kahaṅ rok sakenge
+  Maa ko ye sitamgar kahaṅ rok sakenge
+  Mamta ko ye hathyaar kahaṅ rok sakenge
+  Maa tujhko na chodegi kisi haal meiṅ tanha
 
   3
   Dekha hai tujhe laash bhatije ki uthaate
   Abbas ke laashe pa kamar thaam ke jaate
-  Aur Aun o Muhammad ke janazon ko bhi laate
+  Aur Aun o Muhammad ke janazoṅ ko bhi laate
   Ae laal tere sabr ke qurban ho Zehra
 
   4
-  Maqtal mein mujhe thokarein khaate huwe dekha
+  Maqtal meiṅ mujhe thokareiṅ khaate huwe dekha
   Laasha Ali Akbar ka uthaate huwe dekha
   Asghar ka lahu rukh pa lagate huwe dekha
   Zainab ko madad ke liye aate huwe dekha
 
   5
   Ae laal tere sabr o shujaat ki bala luṅ
-  Aaja mere pyare main kaleje se laga luṅ
+  Aaja mere pyare maiṅ kaleje se laga luṅ
   Jab tegh ho gardan pa to zaanu pa lita luṅ
   Is dard se bhi saath hai donoṅ ko guzarna
 # source_id: nohayonline:c8b107ba170d8ab6d90c

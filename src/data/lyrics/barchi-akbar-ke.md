@@ -17,32 +17,32 @@ romanLyrics: |-
   Barchi Akbar ke kaleje se nikalo baba
 
   1
-  Aisi uljhi hai kaleje mein ye barchi baba
+  Aisi uljhi hai kaleje meiṅ ye barchi baba
   Saath barchi ke kaleja bhi nikal aayega
   Waqt mushkil hai bara khud ko sambhalo baba
   Barchi Akbar ke kaleje se nikalo baba
 
   2
-  Waar zaalim ka tha aisa main sambhal na paaya
-  Us ne seene mein hi barchi ki ani ko tora
+  Waar zaalim ka tha aisa maiṅ sambhal na paaya
+  Us ne sine meiṅ hi barchi ki ani ko tora
   Mujh ko is dard ki mushkil se nikalo baba
   Barchi Akbar ke kaleje se nikalo baba
 
   3
-  Ab to kuch der mein jaaṅ meri nikal jaayegi
+  Ab to kuch der meiṅ jaaṅ meri nikal jaayegi
   Phir kabhi behna meri mujh se na mil paayegi
   Ho sake to meri Sughra ko bula lo baba
   Barchi Akbar ke kaleje se nikalo baba
 
   4
-  Baba jaaṅ laash meri khaimoṅ mein jab jaayegi
+  Baba jaaṅ laash meri khaimoṅ meiṅ jab jaayegi
   Maaṅ to ye haal mera dekh ke mar jaayegi
-  Zakhm seene ka kisi tarah chhupa lo baba
+  Zakhm sine ka kisi tarah chhupa lo baba
   Barchi Akbar ke kaleje se nikalo baba
 
   5
-  Ashk rukhsaar pe raasha hai tere haathoṅ mein
-  Ye bhi mushkil hai ke binaayi nahiṅ aankhoṅ mein
+  Ashk rukhsaar pe raasha hai tere haathoṅ meiṅ
+  Ye bhi mushkil hai ke binaayi nahiṅ aankhoṅ meiṅ
   Tum madad ke liye dada ko bula lo baba
   Barchi Akbar ke kaleje se nikalo baba
 

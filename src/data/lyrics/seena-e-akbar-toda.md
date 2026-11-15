@@ -27,11 +27,11 @@ romanLyrics: |-
 
   4
   Saath ghoroṅ se gire Zainab-e-muztar ke pisar
-  Ran mein dam bhai ne bhai ke baraabar tora
+  Ran meiṅ dam bhai ne bhai ke baraabar tora
 
   5
   Maaṅ ka kehna tha ke kiuṅ laal mujhe bhul gaye
-  Baap ki god mein dam ae Ali Asghar tora
+  Baap ki god meiṅ dam ae Ali Asghar tora
 # source_id: nohayonline:2da82ccbd589c12edf1e
 # source_url: https://www.nohayonline.com/details_content.php?id=518
 # raw_sha256: e8eba3873fc880b5105562e1e4bdb54bb81eb8cdbfb72a1c91fb6ecbb95449fe

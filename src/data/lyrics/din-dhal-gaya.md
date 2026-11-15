@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Baaqi nahiṅ ansaar na hai monis o yaawar
-  Maqtul-e-jafa ran mein hue Sarwar-e-aalam
+  Maqtul-e-jafa ran meiṅ hue Sarwar-e-aalam
   Karte haiṅ haram shiddat-e-aalaam se maatam
   Sab khurd o kalaam aah o buka karte haiṅ paiham
   Ye kis ki nazar kha gayi Abbas Abbas na laute
@@ -24,7 +24,7 @@ romanLyrics: |-
   2
   Wo kaun se haiṅ zulm jo bedinoṅ ne chhore
   Atfaal-e-Husaini pe sitam haaye ye tore
-  Ghash mein pare bimaar ko maare gaye kore
+  Ghash meiṅ pare bimaar ko maare gaye kore
   Taaraaj kiya khaimoṅ ko daura diye ghore
   Saadaat pe aanch aa gayi Abbas Abbas na laute
 
@@ -36,7 +36,7 @@ romanLyrics: |-
   Ghurbat ki faza chha gayi Abbas Abbas na laute
 
   4
-  Dar aaye khiyaam-e-pisar-e-Shah mein sitamgar
+  Dar aaye khiyaam-e-pisar-e-Shah meiṅ sitamgar
   Zakhmi kiya durroṅ se tan-e-Aabid-e-muztar
   Khaincha sitam afgaaroṅ ne bimaar ka bistar
   Dekha gaya aflaak o zamiṅ se na ye manzar
@@ -44,7 +44,7 @@ romanLyrics: |-
 
   5
   Jab Zainab-e-Kubra ne khabar gham ki ye paayi
-  Maqtal mein kahiṅ kho gayi Shabbir ki jaayi
+  Maqtal meiṅ kahiṅ kho gayi Shabbir ki jaayi
   Us waqt sukhan lab pe ye Bint-e-Ali laayi
   Ae dasht-e-jafa kaisi jafa aur ye dhaayi
   Maaṅ ghamzada ghabra gayi Abbas Abbas na laute
@@ -57,18 +57,18 @@ romanLyrics: |-
   Kya chiz wahaaṅ bha gayi Abbas Abbas na laute
 
   7
-  Raat aa gayi daaman mein liye apne qayaamat
+  Raat aa gayi daaman meiṅ liye apne qayaamat
   Aaraam se sab so gaye sarshaar-e-shahaadat
   Phir zulm o sitam dhaane lage ahl-e-shaqaawat
   Bewaarisoṅ ki sar khule karne ko hifaazat
-  Balwe mein behen aa gayi Abbas Abbas na laute
+  Balwe meiṅ behen aa gayi Abbas Abbas na laute
 
   8
-  Kis tarah likhuṅ aur karuṅ kaise ye ada main
-  Kya kya na jafaaeiṅ huiṅ zindaan-e-jafa mein
-  Rehte the haram yuṅ to shab o roz buka mein
-  Ik roz Sakina ko Anis hijr-e-chacha mein
-  Zindaan mein nind aa gayi Abbas Abbas na laute
+  Kis tarah likhuṅ aur karuṅ kaise ye ada maiṅ
+  Kya kya na jafaaeiṅ huiṅ zindaan-e-jafa meiṅ
+  Rehte the haram yuṅ to shab o roz buka meiṅ
+  Ik roz Sakina ko Anis hijr-e-chacha meiṅ
+  Zindaan meiṅ nind aa gayi Abbas Abbas na laute
 # source_id: nohayonline:846232db517d50ed00e7
 # source_url: https://www.nohayonline.com/details_content.php?id=368
 # raw_sha256: cf1c95447c522c4c1635b84fc6503f2f8dbf8d210f7e3cd1a16a3badda397d51

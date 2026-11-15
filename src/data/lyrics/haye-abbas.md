@@ -32,18 +32,18 @@ romanLyrics: |-
 
   5
   Tum to darya pe pare sote ho ae sher-e-jari
-  Raat din rehte haiṅ yahaaṅ naala o shewan mein sabhi
+  Raat din rehte haiṅ yahaaṅ naala o shewan meiṅ sabhi
 
   6
   Phir na soyi kabhi Sayyidaaniyaṅ gham ki maari
-  Haye maqtal mein hui is tarah shab bedaari
+  Haye maqtal meiṅ hui is tarah shab bedaari
 
   7
-  Mar gayi qaid mein ro ro ke Sakina purgham
+  Mar gayi qaid meiṅ ro ro ke Sakina purgham
   Karti rehti thi shab o roz buka aur maatam
 
   8
-  Par gayi jabke Madine pe Anees unki nazar
+  Par gayi jabke Madine pe Anis unki nazar
   Marsiya parhti thiṅ Kulsum yehi ro ro kar
 # source_id: nohayonline:295ce8adcd17d01d970b
 # source_url: https://www.nohayonline.com/details_content.php?id=81

@@ -1,6 +1,6 @@
 ---
 title: "یا علی کربلا میں آگ لگی"
-alternateTitle: "Ya Ali Karbala Mein"
+alternateTitle: "Ya Ali Karbala Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

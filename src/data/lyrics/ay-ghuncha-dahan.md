@@ -25,7 +25,7 @@ romanLyrics: |-
   2
   Hai khauf mujhe naraaz na ho
   Marzi hai tumhari kya bolo
-  Maiṅ haath mein ab kangna rakhuṅ
+  Maiṅ haath meiṅ ab kangna rakhuṅ
   Ya rakhuṅ rasan bekas dulha
 
   3
@@ -37,20 +37,20 @@ romanLyrics: |-
   4
   Tha mujhko tumhare ghar chalne
   Laazim tha tumheṅ mil kar chalna
-  Raste hi mein mujhko chhor gaye
+  Raste hi meiṅ mujhko chhor gaye
   Hai dur watan bekas dulha
 
   5
   Ye bekhabari mujh se Qasim
   Chhilte haiṅ mere pahunche Qasim
   Khulwa do ke uljhi jaati hai
-  Kangne mein rasan bekas dulha
+  Kangne meiṅ rasan bekas dulha
 
   6
   Jaao Shah-e-diṅ ke paas utho
   Aate haiṅ mujhe waswaas utho
   Sab rote haiṅ tum ko keh keh kar
-  Be gor o kafan bekas dulha
+  Begor o kafan bekas dulha
 
   7
   Sab kehte haiṅ ab mujhko bewa
@@ -59,7 +59,7 @@ romanLyrics: |-
   Ek shab ki dulhan bekas dulha
 
   8
-  Dunya mein Ghayur aisa asla
+  Dunya meiṅ Ghayur aisa asla
   Insaan ne nahiṅ maatam dekha
   Laashe pe bane ke kehti thi
   Ro ro ke dulhan bekas dulha

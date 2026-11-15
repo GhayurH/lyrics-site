@@ -1,6 +1,6 @@
 ---
 title: "پردیس میں زینب کھو بیٹھی"
-alternateTitle: "Pardes Mein Zainab Kho Baithi"
+alternateTitle: "Pardes Meiṅ Zainab Kho Baithi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,7 +10,7 @@ tags: []
 aliases: ["Pardes May Zainab Kho"]
 published: true
 romanLyrics: |-
-  Pardes mein Zainab kho baithi
+  Pardes meiṅ Zainab kho baithi
   Athaara baras ke paale ko
   Rote haiṅ khare sab Aal-e-Nabi
   Athaara baras ke paale ko
@@ -24,7 +24,7 @@ romanLyrics: |-
   2
   Naazoṅ se muraadoṅ se paala
   Shaadi ka zamaana jab aaya
-  Maidan mein kho kar baith gayi
+  Maidan meiṅ kho kar baith gayi
   Athaara baras ke paale ko
 
   3
@@ -34,7 +34,7 @@ romanLyrics: |-
   Athaara baras ke paale ko
 
   4
-  Qismat ka karuṅ main kis se gila
+  Qismat ka karuṅ maiṅ kis se gila
   Khidmat ke iwaz kuchh bhi na mila
   Sehra bhi na Zainab baandh saki
   Athaara baras ke paale ko

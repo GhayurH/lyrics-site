@@ -11,18 +11,18 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maatam hai fazaaoṅ mein Shah-e-Kaun o Makaaṅ ka
+  Maatam hai fazaaoṅ meiṅ Shah-e-Kaun o Makaaṅ ka
 
   1
   Is gham se faza Kufe ki tharraai hui hai
   Ab arsh pe ashkoṅ ki ghata chhaai hui hai
-  Aur taaroṅ ki aankhoṅ mein nami aai hui hai
+  Aur taaroṅ ki aankhoṅ meiṅ nami aai hui hai
   Har zarre ki ashkoṅ se shanaasaai hui hai
 
   2
   Wo gham hai ke Islam ka larza hai sawera
   Sakta hai har ek gaam pe sannaatoṅ ka dera
-  Khaamosh fazaaoṅ mein hai har simt andhera
+  Khaamosh fazaaoṅ meiṅ hai har simt andhera
   Khuṅ rota hai unniswiṅ Ramzaaṅ ka sawera
 
   3
@@ -33,14 +33,14 @@ romanLyrics: |-
 
   4
   Rote hue Abbas ki maaṅ ne kaha Aaqa
-  Sadqe karuṅ Abbas ko tujh par se main Maula
+  Sadqe karuṅ Abbas ko tujh par se maiṅ Maula
   Haidar ne kaha ye to hai Shabbir ka fidya
   Aur hoga muhaafiz yehi Zainab ki rida ka
 
   5
   Kehne lage Zainab se Ali phir ye tarap kar
   Karta huṅ tujhe sabr ki talqin meri dukhtar
-  Baazu mein rasan hoyegi chhin jaayegi chaadar
+  Baazu meiṅ rasan hoyegi chhin jaayegi chaadar
   Hamraah na hoga koi juz Aabid-e-Muztar
 
   6
@@ -51,7 +51,7 @@ romanLyrics: |-
 
   7
   Zainab tere aansu nahiṅ Haidar ko gawaara
-  Karbal mein nahiṅ dega tujhe koi dilaasa
+  Karbal meiṅ nahiṅ dega tujhe koi dilaasa
   Mat ro meri beti ke abhi zinda hai Baba
   Phir ro diye khud shaanoṅ ko aankhoṅ se lagaaye
 
@@ -71,7 +71,7 @@ romanLyrics: |-
   Ikkiswiṅ Ramzaaṅ ki sahar karti hai girya
   Hasnain ke sar par na raha baap ka saaya
   Kulsum hai bechain to Zainab ko hai sakta
-  Uthta hai Rasheed ab mere Maula ka janaaza
+  Uthta hai Rashid ab mere Maula ka janaaza
 # source_id: nohayonline:36a09bf3159d8dba54ff
 # source_url: https://www.nohayonline.com/details_content.php?id=1962
 # raw_sha256: ca477ad569283615ae1847be4768e7fadf68718c0915d16cc03704564f42ded4

@@ -16,36 +16,36 @@ romanLyrics: |-
 
   1
   Badle hue tewar haiṅ maathe pe pasina hai
-  Haathoṅ mein alam bhi hai aur mashk-e-Sakina hai
+  Haathoṅ meiṅ alam bhi hai aur mashk-e-Sakina hai
   Lagta hai ke ab Ghaazi kar dega bapa mahshar
 
   2
   Shabbir pareshaan hai waada bhi nibhaana hai
   Ghar baar luta kar bhi Islaam bachaana hai
-  Chamke na kahiṅ tegh-e-wafa josh mein aa kar
+  Chamke na kahiṅ tegh-e-wafa josh meiṅ aa kar
 
   3
   Karti hai bayaaṅ khwaahar-e-Shabbir ye ro kar
-  Narghe mein liya hum ko jafaakaaroṅ ne aa kar
-  Aae na kahiṅ ghaiz mein Abbas-e-dilaawar
+  Narghe meiṅ liya hum ko jafaakaaroṅ ne aa kar
+  Aae na kahiṅ ghaiz meiṅ Abbas-e-dilaawar
 
   4
-  Maujoṅ mein talaatum hai ye khauf hai paani ko
+  Maujoṅ meiṅ talaatum hai ye khauf hai paani ko
   Dohraae na phir duniya Khaibar ki kahaani ko
   Hum par ye karam kijiye ae Khaaliq-e-Akbar
 
   5
-  Maabud teri raah mein Akbar ko bhi deṅ ge
+  Maabud teri raah meiṅ Akbar ko bhi deṅ ge
   Nanhe se mujaahid Ali Asghar ko bhi deṅ ge
   Kar deṅ ge fida Hazrat-e-Qaasim ko saja kar
 
   6
-  Main Aun o Muhammad ko bhi qurbaan karuṅ gi
+  Maiṅ Aun o Muhammad ko bhi qurbaan karuṅ gi
   Bhaai pe fida apne dil o jaan karuṅ gi
-  Le jaauṅ gi main khaak-e-Bala sar pe utha kar
+  Le jaauṅ gi maiṅ khaak-e-Bala sar pe utha kar
 
   7
-  Taarikh mein tujh jaisa nahiṅ aur koi Bibi
+  Taarikh meiṅ tujh jaisa nahiṅ aur koi Bibi
   Aashiq nahiṅ likh paate kahaani ye teri Bibi
   Betaab Murtaza ne kaha ashk baha kar
 # source_id: nohayonline:d18d97a6e788d8f7ec10

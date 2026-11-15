@@ -10,19 +10,19 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Tha Shaam ke zindaṅ mein Sakina ka ye nauha
+  Tha Shaam ke zindaṅ meiṅ Sakina ka ye nauha
   Kab aaoge baba
   Ab aur kahaṅ tak mujhe rulwaaoge baba
   Kab aaoge baba
 
   1
-  Ab bhi na khabar li to main zinda na rahuṅ gi
-  Main bach na sakuṅ gi
+  Ab bhi na khabar li to maiṅ zinda na rahuṅ gi
+  Maiṅ bach na sakuṅ gi
   Dil kaaṅpta hai dekh ke zindaṅ ka andhera
   Kab aaoge baba
 
   2
-  Ek raat bhi main chain se sone nahiṅ paai
+  Ek raat bhi maiṅ chain se sone nahiṅ paai
   Ammu haiṅ na bhaai
   Phat jaaye kahiṅ shiddat-e-gham se na kaleja
   Kab aaoge baba
@@ -40,15 +40,15 @@ romanLyrics: |-
   Kab aaoge baba
 
   5
-  Main kaise yaqiṅ kar luṅ ke faryaad ye meri
+  Maiṅ kaise yaqiṅ kar luṅ ke faryaad ye meri
   Tum tak nahiṅ pahuṅchti
   Sunte rahe aur haal bhi mera nahiṅ puchha
   Kab aaoge baba
 
   6
-  Beparda phiraaye gaye baazaaroṅ mein jis dam
+  Beparda phiraaye gaye baazaaroṅ meiṅ jis dam
   Kiuṅ mar na gaye hum
-  Har gaam pe main ne tumheṅ ro ro ke pukaara
+  Har gaam pe maiṅ ne tumheṅ ro ro ke pukaara
   Kab aaoge baba
 
   7

@@ -21,7 +21,7 @@ romanLyrics: |-
   Har qalb par chhaate chalo
   Dunya ko batlate chalo
   Ek ek mahaaz-e-zulm ki taswir dikhlaate chalo
-  Har dil mein bhar do Shih ka gham
+  Har dil meiṅ bhar do Shih ka gham
 
   2
   Kab tak na maanega koi
@@ -68,13 +68,13 @@ romanLyrics: |-
   9
   Jab Karbala yaad aayegi
   Insaaniyat sharmaayegi
-  Mazlum ki aawaaz hai dil mein utarti jaayegi
+  Mazlum ki aawaaz hai dil meiṅ utarti jaayegi
   Palteṅge phir behke qadam
 
   10
   Zinda ye bedaari rahe
   Ye silsila jaari rahe
-  Hum hoṅ na hoṅ is bazm mein qaaim azaadaari rahe
+  Hum hoṅ na hoṅ is bazm meiṅ qaaim azaadaari rahe
   Nikle isi chaukhat pe dam
 # source_id: nohayonline:18b972afdc44803abee9
 # source_url: https://www.nohayonline.com/details_content.php?id=49

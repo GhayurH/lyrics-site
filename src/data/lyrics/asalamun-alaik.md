@@ -47,7 +47,7 @@ romanLyrics: |-
 
   6
   Puri Rehaan o Sarwar dua ho gayi
-  Muntaqil nasl mein ab azaa ho gayi
+  Muntaqil nasl meiṅ ab azaa ho gayi
   Ae Shanawar Ali Ji ataa ho gayi
   Daulat-e-Karbala ya Husain ya Husain
 # source_id: nohayonline:e405d69c08f728197df5

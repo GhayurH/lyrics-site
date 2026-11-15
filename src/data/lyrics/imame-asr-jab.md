@@ -62,7 +62,7 @@ romanLyrics: |-
 
   9
   Likhe qirtaas par Izhaar nauha
-  Parhe jab Shadman barpa ho girya
+  Parhe jab Shadmaṅ barpa ho girya
   Yehi to farz hai ahl-e-wafa ka
   Alam Abbas Ghaazi ka uthaaeṅ
 # source_id: nohayonline:6e2d9999574658023a4e

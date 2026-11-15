@@ -14,16 +14,16 @@ reciter: "Sajjad Ashraf Taqvi"
 sixVerseLayout: "pairs"
 romanLyrics: |-
   1
-  Bas isi soch mein baitha huṅ main Bain al-Haramain
+  Bas isi soch meiṅ baitha huṅ maiṅ Bain al-Haramain
   Is se aage bhi kahiṅ hai koi had-e-qausain
-  Ik taraf sajde mein sar aik taraf sajde mein dil
+  Ik taraf sajde meiṅ sar aik taraf sajde meiṅ dil
   Ik taraf Hazrat-e-Abbas haiṅ ik samt Husain
   Itna paakiza musalla hai diyaar-e-Shabbir
   Sar ba sajda nazar aate haiṅ jahaaṅ par kaunain
 
   2
   Jo hai Quraan, wohi Aal-e-Muhammad ka bayaan
-  Main to bas itna hi samjha huṅ Hadis-e-Saqlain
+  Maiṅ to bas itna hi samjha huṅ Hadis-e-Saqlain
   Arsh par pahuṅche Nabi, farsh pe utra hai Khuda
   Aik Meraaj-e-Nabi, aik hai Meraaj-e-Husain
   Aik hi dar se shifa leti hai makhluq-e-Khuda
@@ -32,9 +32,9 @@ romanLyrics: |-
   3
   Husn alfaaz barha, zikr hasin hone laga
   Jab ada mere laboṅ se hua naam-e-Hasnain
-  Jaane kiun log ye samjhe ke Khuda likha hai
-  Ya Ali main ne likha daal ke jab bhi waawain
-  Daaman-e-kaun o makaaṅ Noor Ali bhar jaaye
+  Jaane kiuṅ log ye samjhe ke Khuda likha hai
+  Ya Ali maiṅ ne likha daal ke jab bhi waawain
+  Daaman-e-kaun o makaaṅ Nur Ali bhar jaaye
   Jhaar deṅ Hazrat-e-Abbas jo apni naalain
 # source_id: tajpoints:1f20304c5f40c081e32f
 # source_url: https://tajpoints.com/2023/02/bain-ul-haramain-sajjad-ashraf-taqvi.html

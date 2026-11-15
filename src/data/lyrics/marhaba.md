@@ -23,7 +23,7 @@ romanLyrics: |-
 
   2
   Aisi beti ke baap ki maaṅ hai
-  Tu to qalb-e-Rasul mein jaaṅ hai
+  Tu to qalb-e-Rasul meiṅ jaaṅ hai
   Teri taazim us pe laazim hai
   Jis pe utra Khuda ka Quraaṅ hai
   Ae kaniz-e-Kibriya ya Zahra
@@ -32,14 +32,14 @@ romanLyrics: |-
   Jis ne gyaarah Imam paale haiṅ
   Sehn-e-Kaaba ke jo ujaale haiṅ
   Haaye chakki ki wo mashaqqat thi
-  Dast-e-Zahra mein ye jo chhaale haiṅ
+  Dast-e-Zahra meiṅ ye jo chhaale haiṅ
   Din jis ke ghar paala ya Zahra
 
   4
   Jo Khadija ke qalb ki dharkan
   Khuld se jo mangaaye pairahan
   Taara utra jahaaṅ salaami ko
-  Do jahaaṅ mein hai wo tera aaṅgan
+  Do jahaaṅ meiṅ hai wo tera aaṅgan
   Ye hai tera martaba ya Zahra
 
   5
@@ -50,7 +50,7 @@ romanLyrics: |-
   Tu agar kar de dua ya Zahra
 
   6
-  Hubb-e-Shabbir mein jo qatl hue
+  Hubb-e-Shabbir meiṅ jo qatl hue
   Un shahidoṅ ki maghfirat ke liye
   Teri nazar-e-karam zaruri hai
   Tere baaba Rasul ke sadqe
@@ -65,7 +65,7 @@ romanLyrics: |-
 
   8
   Dil tera bar sar-e-sinaaṅ Bibi
-  Girta lamhoṅ mein aasmaaṅ Bibi
+  Girta lamhoṅ meiṅ aasmaaṅ Bibi
   Baddua tu kahiṅ jo kar deti
   Khaak ho jaata ye jahaaṅ Bibi
   Dub jaati Karbala ya Zahra

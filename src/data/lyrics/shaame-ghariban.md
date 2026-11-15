@@ -11,10 +11,10 @@ tags: []
 aliases: ["Shaame Ghariban"]
 published: true
 romanLyrics: |-
-  Baad-e-Husain dasht mein mahshar bapa hua
+  Baad-e-Husain dasht meiṅ mahshar bapa hua
   Chhaane laga har simt se ghan ghor andhera
   Khaime jale ridaaeṅ chhini haaye kya hua
-  Pardes mein luta gaya Zahra ka gharaana
+  Pardes meiṅ luta gaya Zahra ka gharaana
   Aayi shaam-e-gharibaṅ
 
   Kya gham ka hai samaaṅ aayi shaam-e-gharibaṅ
@@ -32,12 +32,12 @@ romanLyrics: |-
   Paamaal is tarah hua dulhe ka saraapa
 
   4
-  Bhai ko apne dhundti thi dasht-e-bala mein
-  Haathoṅ mein liye paani ke kuze ko Sakina
+  Bhai ko apne dhundti thi dasht-e-bala meiṅ
+  Haathoṅ meiṅ liye paani ke kuze ko Sakina
 
   5
   Barsa rahe the jism pe bimaar ke kore
-  Is aalam-e-ghurbat mein kiya shukr ka sajda
+  Is aalam-e-ghurbat meiṅ kiya shukr ka sajda
 
   6
   Ye keh rahi thi Shaah ki khwaahar lab-e-Furaat

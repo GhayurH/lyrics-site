@@ -13,8 +13,8 @@ published: true
 romanLyrics: |-
   Ae Ishq-e-Husaini mujhe aijaz dikha de
   Tu meri aqidat ka mujhe aisa sila de
-  Ek baar mujhe khwab mein Ghazi se mila de
-  Jo baat hai is dil mein wo Sarkar se kehna hai
+  Ek baar mujhe khwab meiṅ Ghazi se mila de
+  Jo baat hai is dil meiṅ wo Sarkar se kehna hai
   Abbas se kehna hai Abbas se kehna hai
   Abbas se kehna hai Alamdar se kehna hai
   Abbas se kehna hai
@@ -30,7 +30,7 @@ romanLyrics: |-
   Jo shaan-e-Alamdar wohi shaan-e-alam hai
   Donoṅ hi hamaare haiṅ ye Malik ka karam hai
   Maula ye alam aap ka hum sab ka bharam hai
-  Hum ko to alam ke hi sada saaye mein rehna hai
+  Hum ko to alam ke hi sada saaye meiṅ rehna hai
 
   3
   Tum Bab-e-Hawaij ho wasila ho hamaara
@@ -46,13 +46,13 @@ romanLyrics: |-
 
   5
   Saiṅ mere Sarkar mere Murshid o Maula
-  Is baar Muharram mein ho mera bhi bulaawa
-  Likhwa do mera naam bhi zawwaroṅ mein Aaqa
+  Is baar Muharram meiṅ ho mera bhi bulaawa
+  Likhwa do mera naam bhi zawwaroṅ meiṅ Aaqa
   Ro ro ke tumheṅ noha Sakina ka sunaana hai
 
   6
   Jo jo bhi sitam baad-e-Alamdar hua hai
-  Sadaat ne pardes mein jo zulm saha hai
+  Sadaat ne pardes meiṅ jo zulm saha hai
   Har mor pe Zainab ne yehi ro ke kaha hai
   Is dil pe jo guzri hai kisi se nahiṅ kehna hai
 
@@ -64,10 +64,10 @@ romanLyrics: |-
 
   8
   Abbas mere Rab ka anmol wasila hai
-  Mashhur zamaane mein Saqqa-e-Sakina hai
+  Mashhur zamaane meiṅ Saqqa-e-Sakina hai
   Har tute hue dil ka Abbas wasila hai
   Ye Bab-e-Hawaij hai har gham ka madaawa hai
-  Har lab ka wazifa hai har dil mein dharakta hai
+  Har lab ka wazifa hai har dil meiṅ dharakta hai
   Girtoṅ ko uthaata hai dubo to bachaata hai
   Taqdir jagaata hai qismat ko sajaata hai
   Abbas se kehna hai Abbas se kehna hai

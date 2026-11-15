@@ -12,61 +12,61 @@ aliases: []
 published: true
 romanLyrics: |-
   Uthe kaise uthe kaise baali Sakina ka laasha
-  Pareshaaṅ hai zindaaṅ mein Saani-e-Zehra
+  Pareshaaṅ hai zindaaṅ meiṅ Saani-e-Zehra
 
   1
   Musibat ki manzil ye kitni kari hai
   Yatima ki mayyat zamiṅ par pari hai
   Bane qabr kiuṅ kar uthe kaise laasha
-  Pareshaaṅ hai zindaaṅ mein Saani-e-Zehra
+  Pareshaaṅ hai zindaaṅ meiṅ Saani-e-Zehra
 
   2
   Ye ghurbat ye tanhaai ye qaid khaana
-  Hai zanjir mein jakra bimaar bhaiya
+  Hai zanjir meiṅ jakra bimaar bhaiya
   Uthaaye behan ka wo kaise janaza
-  Pareshaaṅ hai zindaaṅ mein Saani-e-Zehra
+  Pareshaaṅ hai zindaaṅ meiṅ Saani-e-Zehra
 
   3
   Sakina tujhe ab kahaaṅ paauṅ beti
   Akeli kahaaṅ chhor kar jaauṅ beti
   Bahut tang o taarik hai qaid khaana
-  Pareshaaṅ hai zindaaṅ mein Saani-e-Zehra
+  Pareshaaṅ hai zindaaṅ meiṅ Saani-e-Zehra
 
   4
   Kahaaṅ se kafan laa ke pehnaaye Zainab
   Bhatiji ko kis tarah dafnaaye Zainab
-  Qayaamat hai ek qaid khaane mein barpa
-  Pareshaaṅ hai zindaaṅ mein Saani-e-Zehra
+  Qayaamat hai ek qaid khaane meiṅ barpa
+  Pareshaaṅ hai zindaaṅ meiṅ Saani-e-Zehra
 
   5
   Madad karne aa jaao mere baraadar
   Kahaaṅ so gaye mere Abbas jaa kar
   Zara aa ke de do janaze ko kaandha
-  Pareshaaṅ hai zindaaṅ mein Saani-e-Zehra
+  Pareshaaṅ hai zindaaṅ meiṅ Saani-e-Zehra
 
   6
-  Hai bimaar haathoṅ mein hathkariyaṅ pehne
-  Gale mein hai tauq-e-girebaan us ke
-  Utaare lahad mein bhala kaun laasha
-  Pareshaaṅ hai zindaaṅ mein Saani-e-Zehra
+  Hai bimaar haathoṅ meiṅ hathkariyaṅ pehne
+  Gale meiṅ hai tauq-e-girebaan us ke
+  Utaare lahad meiṅ bhala kaun laasha
+  Pareshaaṅ hai zindaaṅ meiṅ Saani-e-Zehra
 
   7
-  Lahad mein to apni behan ko sula kar
+  Lahad meiṅ to apni behan ko sula kar
   Kaha ro ke Abid ne shaana hila kar
   Khuda haafiz Ae shaahzaadi Sakina
-  Pareshaaṅ hai zindaaṅ mein Saani-e-Zehra
+  Pareshaaṅ hai zindaaṅ meiṅ Saani-e-Zehra
 
   8
   Sakina ke laasha pe Zainab ye boli
   Watan roz jaane ko kehti thi beti
   Rihaai ke badle muqaddar tha marna
-  Pareshaaṅ hai zindaaṅ mein Saani-e-Zehra
+  Pareshaaṅ hai zindaaṅ meiṅ Saani-e-Zehra
 
   9
-  Hai zindaan mein Shams kaisi musibat
+  Hai zindaan meiṅ Shams kaisi musibat
   Rasan basta hai sab uthe kaise mayyat
   Khuda jaane kaise hua dafn laasha
-  Pareshaaṅ hai zindaaṅ mein Saani-e-Zehra
+  Pareshaaṅ hai zindaaṅ meiṅ Saani-e-Zehra
 # source_id: nohayonline:302a1ea2693b04cfb7e2
 # source_url: https://www.nohayonline.com/details_content.php?id=2893
 # raw_sha256: 8ac64593e67acbb41ee7e184e705baed8a385c39ebee54fc9ae8991cfa6ab630

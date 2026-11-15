@@ -14,50 +14,50 @@ romanLyrics: |-
 
   1
   Sun raha huṅ sada aa hi jaauṅ ga magar
-  Dil meiṅ jad ka gham liye main
+  Dil meiṅ jad ka gham liye maiṅ
   Parda-e-ghaibat meiṅ huṅ
   Ya Imam-e-Zamana ya Imam-e-Zamana
 
   2
   Inteqaam-e-Karbala ho
   Parda-e-ghaibat uthe
-  Aas ye har dam liye main
+  Aas ye har dam liye maiṅ
   Parda-e-ghaibat meiṅ huṅ
 
   3
   Har shahid-e-Karbala pe
   Girya karne ke liye
-  Ashk-e-khuṅ ka naam liye main
+  Ashk-e-khuṅ ka naam liye maiṅ
   Parda-e-ghaibat meiṅ huṅ
 
   4
   Daadi Zahra jis se barham
   Thi unhiṅ ke waaste
-  Jazba-e-barham liye main
+  Jazba-e-barham liye maiṅ
   Parda-e-ghaibat meiṅ huṅ
 
   5
   Jo kata ke haath Ghaazi ne
   Nahiṅ jhukne diya
-  Din ka parcham liye main
+  Din ka parcham liye maiṅ
   Parda-e-ghaibat meiṅ huṅ
 
   6
   Tishnagi maasum-e-Zahra ki
   Mitaane ke liye
-  Aab-e-chashm-e-nam liye main
+  Aab-e-chashm-e-nam liye maiṅ
   Parda-e-ghaibat meiṅ huṅ
 
   7
   Chaadar-e-Zainab ke gham meiṅ
   Har ghari sar pitte
-  Isa o Aadam liye main
+  Isa o Aadam liye maiṅ
   Parda-e-ghaibat meiṅ huṅ
 
   8
   Chir daale jis sinaṅ ne
   Meri do maaoṅ ke dil
-  Zakhm wo paiham liye main
+  Zakhm wo paiham liye maiṅ
   Parda-e-ghaibat meiṅ huṅ
 # source_id: nohayonline:b79e1bb1edb1a139c67c
 # source_url: https://www.nohayonline.com/details_content.php?id=3247

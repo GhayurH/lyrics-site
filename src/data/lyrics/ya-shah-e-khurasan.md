@@ -24,7 +24,7 @@ romanLyrics: |-
   Tafriq nahiṅ koi malak hoṅ ke wo hoṅ insaan ya shaah-e-Khurasan
 
   3
-  Hai aarzu jis ki usay ko roze pe bula leiṅ ae paalne waale
+  Hai aarzu jis ki use ko roze pe bula leiṅ ae paalne waale
   Har ek azadaar ka pura ho ye armaan ya shaah-e-Khurasan
 
   4
@@ -32,7 +32,7 @@ romanLyrics: |-
   Kar dijiye azadaar ki sab mushkileiṅ aasaan ya shaah-e-Khurasan
 
   5
-  Main shukr ka sajda to karuṅ ga tere dar par ae waaris-e-Haider
+  Maiṅ shukr ka sajda to karuṅ ga tere dar par ae waaris-e-Haider
   Chaahe mujhe kaafir kaheiṅ dunya ke musalmaan ya shaah-e-Khurasan
 
   6
@@ -40,7 +40,7 @@ romanLyrics: |-
   Phir mujh ko bula lijiye ik baar Khurasan ya shaah-e-Khurasan
 
   7
-  Lehraata rahe dahr mein Abbas ka parcham hota rahe maatam
+  Lehraata rahe dahr meiṅ Abbas ka parcham hota rahe maatam
   Aabaad rahe Fatima Zahra ka gulistaan ya shaah-e-Khurasan
 
   8

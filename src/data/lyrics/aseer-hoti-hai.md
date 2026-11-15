@@ -13,8 +13,8 @@ published: true
 romanLyrics: |-
   Bata rahi hai diloṅ ki barhi hui dharkan
   Atash ki aag se ab tak jhulas raha hai badan
-  Qayaam jal chuke haathoṅ mein band chuki hai rasan
-  Aseer hoti hai atthaara bhaiyoṅ ki behan
+  Qayaam jal chuke haathoṅ meiṅ band chuki hai rasan
+  Asir hoti hai atthaara bhaiyoṅ ki behan
 
   1
   Abhi masaaib-e-Karbobala se guzri hai
@@ -52,7 +52,7 @@ romanLyrics: |-
   Jari Furaat pe ye baat sun ke rota hai
 
   8
-  Tha itna sharm mein duba hua Sakina se
+  Tha itna sharm meiṅ duba hua Sakina se
   Palat ke aaya na Abbas mera darya se
   Kaha ye Hazrat-e-Zainab ne ro ke Laila se
 

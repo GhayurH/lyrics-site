@@ -35,7 +35,7 @@ romanLyrics: |-
   Ye mujahid ban gaya hai haṅs ke jaan-e-Karbala
 
   6
-  Sirf din-e-Haq ki tafsir-e-bahtar the Urooj
+  Sirf din-e-Haq ki tafsir-e-bahtar the Uruj
   Ban gaye haiṅ Karbala wale zaban-e-Karbala
 # editorial_uncertainty: Final couplet differs within archived HTML: Roman tafseerein bahattar hai versus Urdu تفسیرِ بہتر تھے. Urdu reading retained; intended wording requires audio or print.
 # source_id: nohayonline:92aa411572540a454a50

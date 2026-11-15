@@ -11,10 +11,10 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ghira hai chaand Ali ka sitam ke baadal mein
-  Amaaṅ kahiṅ nahiṅ tegh o sinaaṅ ke jangal mein
-  Husain jhum rahe haiṅ faras pe maqtal mein
-  Ye ran mein asr ko Zehra ke lab pe nauha hai
+  Ghira hai chaand Ali ka sitam ke baadal meiṅ
+  Amaaṅ kahiṅ nahiṅ tegh o sinaaṅ ke jangal meiṅ
+  Husain jhum rahe haiṅ faras pe maqtal meiṅ
+  Ye ran meiṅ asr ko Zehra ke lab pe nauha hai
   Sitamgaroṅ mera bekas Husain pyaasa hai
 
   1
@@ -24,15 +24,15 @@ romanLyrics: |-
   Koi chhuri koi khanjar chalaane waala hai
 
   2
-  Wo pyaas hai ke nigaahoṅ mein sab jahaaṅ hai dhuaaṅ
-  Wo qalb mein rahi quwwat na tan mein taab o tawaaṅ
-  Ali ka laal faras par hai khun mein ghaltaaṅ
+  Wo pyaas hai ke nigaahoṅ meiṅ sab jahaaṅ hai dhuaaṅ
+  Wo qalb meiṅ rahi quwwat na tan meiṅ taab o tawaaṅ
+  Ali ka laal faras par hai khun meiṅ ghaltaaṅ
   Gharib o bekas o mazlum besahaara hai
 
   3
-  Kamar shikasta hai bhaai ke gham mein Sarwar ki
-  Utha chuke haiṅ zaifi mein laash Akbar ki
-  Nazar mein laash hai paamaal Ibn-e-Shabbar ki
+  Kamar shikasta hai bhaai ke gham meiṅ Sarwar ki
+  Utha chuke haiṅ zaifi meiṅ laash Akbar ki
+  Nazar meiṅ laash hai paamaal Ibn-e-Shabbar ki
   Abhi to haathoṅ pe Asghar ne tir khaaya hai
 
   4
@@ -42,7 +42,7 @@ romanLyrics: |-
   Zamin kaaṅpti hai aasmaaṅ ko larza hai
 
   5
-  Pisar ke sog mein ji se guzarne waale ko
+  Pisar ke sog meiṅ ji se guzarne waale ko
   Ab aur jine ka armaan na karne waale ko
   Chale haiṅ maarne jallaad marne waale ko
   Jise bhi dekhiye pyaase ke khun ka pyaasa hai
@@ -50,13 +50,13 @@ romanLyrics: |-
   6
   Lain karta hai jab azm-e-qatl pyaase ka
   Pisar ke halq pe rakh deti hai gala Zehra
-  Fiza mein Karbobala ki ye gunjti hai sada
-  Mere Husain ko naazoṅ se main ne paala hai
+  Fiza meiṅ Karbobala ki ye gunjti hai sada
+  Mere Husain ko naazoṅ se maiṅ ne paala hai
 
   7
   Nabi ki god ka paala shahid hota hai
   Fiza ko sakta hai darya tarap ke rota hai
-  Bala ke ban mein ye Jaweed hashr barpa hai
+  Bala ke ban meiṅ ye Jawid hashr barpa hai
   Muhit-e-aalam-e-imkaan sada-e-Zehra hai
 # source_id: nohayonline:96d36424379d5ae67899
 # source_url: https://www.nohayonline.com/details_content.php?id=3348

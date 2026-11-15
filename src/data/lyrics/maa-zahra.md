@@ -19,7 +19,7 @@ romanLyrics: |-
   Tumhaari tuti nahiṅ sirf pasliyaaṅ Zahra
 
   2
-  Jo saaṅs leti hai pehlu mein dard barhta hai
+  Jo saaṅs leti hai pehlu meiṅ dard barhta hai
   Ke ab to le bhi nahiṅ sakti hichkiyaaṅ Zahra
 
   3
@@ -35,7 +35,7 @@ romanLyrics: |-
   Tere lahu se bhara hai tera makaaṅ Zahra
 
   6
-  Kuchh aur barhti hai dushwaari saaṅs lene mein
+  Kuchh aur barhti hai dushwaari saaṅs lene meiṅ
   Kahiṅ jo sunti hai bachchoṅ ki siskiyaaṅ Zahra
 
   7

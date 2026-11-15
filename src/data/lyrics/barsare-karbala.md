@@ -20,7 +20,7 @@ romanLyrics: |-
   Muttaqi paarsaa raunaq-e-khaandaaṅ
   Ham shabih mizaaj o Shah-e-mursalaaṅ
   Khush mizaaji pe garvida saara jahaaṅ
-  Aur phir uske seene pe naiza laga
+  Aur phir uske sine pe naiza laga
   Barsar-e-Karbala barsar-e-Karbala
 
   2
@@ -74,14 +74,14 @@ romanLyrics: |-
   8
   Jaane kaise jahaaṅ se jo paani mila
   Sab se pehle Sakina ko dhunda gaya
-  Aur jab usko kuze mein paani diya
+  Aur jab usko kuze meiṅ paani diya
   Maaṅ se puchha ke Asghar kahaaṅ hai mera
   Phir chali su-e-maqtal wo karti bukaa
   Barsar-e-Karbala barsar-e-Karbala
 
   9
   Zainab benawaa ho ke Zain-ul-Abaa
-  Maqsad Shaah donoṅ ki nazroṅ mein tha
+  Maqsad Shaah donoṅ ki nazroṅ meiṅ tha
   Aur tahaffuz shariat ka aise hua
   Ke maqtal pe sab ne tayammum kiya
   Farz Shaahid sabhi ne adaa kar diya

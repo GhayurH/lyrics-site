@@ -12,7 +12,7 @@ aliases: ["Aagaya Bazare Shaam"]
 published: true
 romanLyrics: |-
   Aa gaya bazaar-e-Shaam aa gaya bazaar-e-Shaam
-  Bibiyoṅ mein hai kohraam aa gaya bazaar-e-Shaam
+  Bibiyoṅ meiṅ hai kohraam aa gaya bazaar-e-Shaam
 
   1
   Sang ki barsaat hai qahqahe haiṅ chaar suṅ
@@ -20,18 +20,18 @@ romanLyrics: |-
   Hans rahe haiṅ Ahl-e-Shaam aa gaya bazaar-e-Shaam
 
   2
-  Ahl-e-shar hai har taraf haath mein pathar liye
+  Ahl-e-shar hai har taraf haath meiṅ pathar liye
   Hai koi naiza liye hai koi nashtar liye
   Har taraf hai ek kohraam aa gaya bazaar-e-Shaam
 
   3
   Tauq hai nauha kunaṅ ro rahi hai beriyaṅ
-  Haye rassi mein bandhi dekhti hai bibiyaṅ
+  Haye rassi meiṅ bandhi dekhti hai bibiyaṅ
   Taaziyane aur Imam aa gaya bazaar-e-Shaam
 
   4
   Chhin gayi teri rida bach gaya hai la ilaah
-  Ab tujhe darbaar mein hai bachaana Karbala
+  Ab tujhe darbaar meiṅ hai bachaana Karbala
   Ab hai Zainab tera kaam aa gaya bazaar-e-Shaam
 
   5
@@ -46,16 +46,16 @@ romanLyrics: |-
 
   7
   Ro diye Ahl-e-haram tauq ke aazaar par
-  Shaam ke bazaar mein haye ek bemaar par
+  Shaam ke bazaar meiṅ haye ek bemaar par
   Ho gayi mushkil tamaam aa gaya bazaar-e-Shaam
 
   8
-  Rassiyaṅ haiṅ baazuoṅ mein aur naaqe tez tar
+  Rassiyaṅ haiṅ baazuoṅ meiṅ aur naaqe tez tar
   God se maaoṅ ke bachche gir rahe haiṅ khaak par
   Hashr hai har ek gaam aa gaya bazaar-e-Shaam
 
   9
-  Khun-e-dil mein dub kar tu ne jo likha Naved
+  Khun-e-dil meiṅ dub kar tu ne jo likha Naved
   Jab talak hai Karbala hai tera nauha Naved
   Karbala to hai dawaam aa gaya bazaar-e-Shaam
 # source_id: nohayonline:5b0dc903d3f92b9c1861

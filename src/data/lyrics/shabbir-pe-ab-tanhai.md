@@ -28,46 +28,46 @@ romanLyrics: |-
   Hal min ki sada se gunj utha
   Na fauj rahi saalaar raha
   Shabbir ka wo lashkar na raha
-  Seh roz ke pyaase gardan mein
+  Seh roz ke pyaase gardan meiṅ
   Ye kaisi qayamat aayi hai
 
   3
   Le aaye haiṅ Sarwar mashk o alam
   Pyaase pe hua har zulm o sitam
-  Is aalam-e-ghurbat mein lekin
+  Is aalam-e-ghurbat meiṅ lekin
   Shabbir ko tha is baat ka gham
-  Dam todte bete ne ran mein
+  Dam torte bete ne ran meiṅ
   Sine pe barchi khaayi hai
 
   4
-  Ek hashr bapa hai maqtal mein
+  Ek hashr bapa hai maqtal meiṅ
   Jibril ke lab par hai nauha
   Aulaad-e-Nabi ke khaimoṅ se
   Aati hai sada-e-waawaila
-  Shabbir ne haye ghurbat mein
+  Shabbir ne haye ghurbat meiṅ
   Akbar ki laash uthayi hai
 
   5
-  Ye khun mein tar nanha sa gala
-  Naana ko dikhaana mahshar mein
+  Ye khun meiṅ tar nanha sa gala
+  Naana ko dikhaana mahshar meiṅ
   Ab khaak pe sona hai tujhko
-  Ye soch ke ran mein Sarwar ne
-  Hamshakl-e-Nabi ke pehlu mein
+  Ye soch ke ran meiṅ Sarwar ne
+  Hamshakl-e-Nabi ke pehlu meiṅ
   Beshir ki qabr banaayi hai
 
   6
-  Farzand-e-Payambar par ran mein
+  Farzand-e-Payambar par ran meiṅ
   Nau laakh ka lashkar tut para
   Afsos hai ab zer-e-khanjar
   Hai Sibt-e-Nabi ka khushk gala
-  Kohraam bapa hai maqtal mein
+  Kohraam bapa hai maqtal meiṅ
   Har simt udaasi chhaayi hai
 
   7
   Ye kalmagoṅ ne socha nahiṅ
   Hai bos-e-risaalat ka ye makiṅ
   Rota hai falak kaaṅpi hai zamiṅ
-  Hai khun mein tar pyaase ki jabiṅ
+  Hai khun meiṅ tar pyaase ki jabiṅ
   Ahmed ke nawaase ka lutna
   Islam ki ye ruswaai hai
 

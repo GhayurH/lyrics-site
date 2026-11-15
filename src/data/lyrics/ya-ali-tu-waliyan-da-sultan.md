@@ -26,7 +26,7 @@ romanLyrics: |-
   Maatami saare tere sawaali
   Dar pe khare haiṅ ban ke bhikaari
   Naukar haiṅ tere hur o malak
-  Qadmoṅ mein para hai tere falak
+  Qadmoṅ meiṅ para hai tere falak
   Darzi hai tere Hasnain ka woh Rizwaan
 
   3
@@ -41,7 +41,7 @@ romanLyrics: |-
   Dushman-e-Khaaliq hai woh muqassar
   Shaitaan ka pisar munkir hai tera
   Milti hai use laanat ki saza
-  Bas tera muhib dunya mein hai insaan
+  Bas tera muhib dunya meiṅ hai insaan
 
   5
   Apna aqida sirf yehi hai
@@ -55,7 +55,7 @@ romanLyrics: |-
   Marhab ko pachhaara Haider ne
   Jab Ali Wali ki tegh chali
   Khush ho ke bole pyaare Nabi
-  Ae mere Ali main waari main qurbaan
+  Ae mere Ali maiṅ waari maiṅ qurbaan
 
   7
   Mere Ali ki zaat ajab hai

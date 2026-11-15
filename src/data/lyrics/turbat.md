@@ -32,13 +32,13 @@ romanLyrics: |-
   Itna to Sakina ko bataane chale aao
 
   4
-  Daadi ki tarah main bhi tere saath chali huṅ
-  Baba main tere sabr ke saaye mein pali huṅ
+  Daadi ki tarah maiṅ bhi tere saath chali huṅ
+  Baba maiṅ tere sabr ke saaye meiṅ pali huṅ
   Aansu jo chhupaate ho dikhaane chale aao
 
   5
   Jo teri gharibi ka akela tha sahaara
-  Paani ke liye main ne use kho diya baba
+  Paani ke liye maiṅ ne use kho diya baba
   Ye daagh kaleje ka mitaane chale aao
 
   6

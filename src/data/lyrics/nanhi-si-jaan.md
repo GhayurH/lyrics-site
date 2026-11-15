@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Bachchoṅ se jis ke dudh ki khushbu nahiṅ gayi
-  Be tegh jis ne lashkar-e-aada se jang ki
+  Betegh jis ne lashkar-e-aada se jang ki
   Jo Hurmala ke maut ka saamaan ho gayi
 
   2
@@ -25,17 +25,17 @@ romanLyrics: |-
   Asghar ki jang fath ka aelaan ho gayi
 
   3
-  Tishna labi mein tir ko sairaab kar diya
+  Tishna labi meiṅ tir ko sairaab kar diya
   Pura dil-e-Husain ka har khwaab kar diya
   Taabir-e-khwaab marzi-e-Yazdaan ho gayi
 
   4
-  Jhule mein reh ke shauq-e-shahaadat jawaan tha
+  Jhule meiṅ reh ke shauq-e-shahaadat jawaan tha
   Asghar ka shauq maaṅ ke liye imtehaan tha
   Maaṅ shauq pe saghir ke qurbaan ho gayi
 
   5
-  Jo tir ran mein jaanib-e-Quraan tha chala
+  Jo tir ran meiṅ jaanib-e-Quraan tha chala
   Asghar ne pesh kar diya haṅste hue gala
   Is tarah se hifaazat-e-Quraan ho gayi
 

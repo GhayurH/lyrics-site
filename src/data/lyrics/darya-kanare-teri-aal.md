@@ -18,7 +18,7 @@ romanLyrics: |-
   Darya kanare teri aal pyasi
 
   1
-  Aankhoṅ mein aansu sau zakhm dil par
+  Aankhoṅ meiṅ aansu sau zakhm dil par
   Baithe haiṅ bachche jalti zamiṅ par
   Kuchh khaali kuze dil se laga kar
   Sote haiṅ pyase jalti zamiṅ par
@@ -32,7 +32,7 @@ romanLyrics: |-
   Laashe utha ke maqtal saja ke
 
   3
-  Dasht-e-bala mein tanha haram hai
+  Dasht-e-bala meiṅ tanha haram hai
   Pardesiyoṅ par laakhoṅ sitam hai
   Ummat ne aisi ki hai jafaaeṅ
   Sab ke saroṅ se chhini ridaaeṅ
@@ -47,24 +47,24 @@ romanLyrics: |-
 
   5
   Har gham to apne dil se laga kar
-  Roti hai ban mein baali Sakina
+  Roti hai ban meiṅ baali Sakina
   Ammu na aaye baba na aaye
-  Main kya karuṅ Ae Shah-e-Madina
+  Maiṅ kya karuṅ Ae Shah-e-Madina
   Is dil pe khaake naawak jafa ke
 
   6
-  Waada nibhaane din ko bachaane
-  Jangal mein aulaad teri
+  Waada nibhaane diṅ ko bachaane
+  Jangal meiṅ aulaad teri
   Din-e-Khuda par jaaneṅ lutaane
-  Maqtal mein aayi aulaad teri
-  Waada nibha ke din ko bacha ke
+  Maqtal meiṅ aayi aulaad teri
+  Waada nibha ke diṅ ko bacha ke
 
   7
   Quran-e-gham ki kar ke tilaawat
   Rota hai Safdar nauhe suna kar
   Mera qalam bhi khuṅ ro raha hai
   Likhte hue ye pur dard manzar
-  Gham Karbala ke dil mein basa ke
+  Gham Karbala ke dil meiṅ basa ke
 # source_id: nohayonline:19525e2f679123b18720
 # source_url: https://www.nohayonline.com/details_content.php?id=1552
 # raw_sha256: 9c7236a0711cb68109f865038abe7f0f4c48b4a1119202f5e39b33739add2dc2

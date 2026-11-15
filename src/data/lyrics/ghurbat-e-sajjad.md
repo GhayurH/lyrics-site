@@ -16,38 +16,38 @@ romanLyrics: |-
   Us chaadar-e-Zainab ke azaadaar ki ghurbat
   Yaani sar-e-Shabbir ke ghamkhwaar ki ghurbat
   Jo qaid hai us qaafila saalaar ki ghurbat
-  Ghar lutne ke gham mein jo sukun se nahiṅ soya
+  Ghar lutne ke gham meiṅ jo sukun se nahiṅ soya
   Chaalis baras aaṅkhoṅ se jo khun hai roya
 
   2
   Jalte hue khaimoṅ ka dhuaaṅ dekha hai is ne
-  Lutte hue ik din mein jahaaṅ dekha hai is ne
+  Lutte hue ik din meiṅ jahaaṅ dekha hai is ne
   Sar sab ka sar-e-nok-e-sinaaṅ dekha hai is ne
-  Baazaar mein mahshar ka samaaṅ dekha hai is ne
+  Baazaar meiṅ mahshar ka samaaṅ dekha hai is ne
   Kab zulm o sitam is qadar ajdaad pe guzre
-  Jo qaid mein ik Sayyid-e-Sajjad pe guzre
+  Jo qaid meiṅ ik Sayyid-e-Sajjad pe guzre
 
   3
   Beparda haram jab sar-e-darbaar gaye the
   Baithe the wahaaṅ log jo badkaar bare the
   Kab zulm o sitam Aabid-e-muztar pe ruke the
-  Behna ko kanizi mein laiṅ maaṅg rahe the
+  Behna ko kanizi meiṅ laiṅ maaṅg rahe the
   Hamshir ka naam aaya jo badkaar ke lab par
   Sajjad lahu rote rahe khaak pe gir kar
 
   4
-  Jab Shaam ke zindaaṅ mein woh qaafila pahuṅcha
+  Jab Shaam ke zindaaṅ meiṅ woh qaafila pahuṅcha
   Taariki pe karne lagi khud raat bhi noha
   Bhai se gale lag ke pukaari ye Sakina
   Yaad aata hai ae bhaiyya bahut mujh ko Madina
   Baba ko bula do ke woh karwa deṅge aazaad
-  Baba nahiṅ aaye to main mar jaauṅgi Sajjad
+  Baba nahiṅ aaye to maiṅ mar jaauṅgi Sajjad
 
   5
-  Rote hue jo qaid mein woh soyi Sakina
+  Rote hue jo qaid meiṅ woh soyi Sakina
   Kuchh der hi guzri uthi karte hue girya
   Aabid se kaha lene mujhe aate haiṅ Baba
-  Zindaaṅ mein sar Hazrat-e-Shabbir ka aaya
+  Zindaaṅ meiṅ sar Hazrat-e-Shabbir ka aaya
   Zindaaṅ bhi guṅj utha ajab aah o fughaaṅ se
   Rote hue Baba ko Sakina gayi jaan se
 
@@ -57,7 +57,7 @@ romanLyrics: |-
   Sab Bibiyaaṅ roti thiṅ ke aayi thi qayaamat
   Sajjad pe tha sab se bara waqt-e-musibat
   Pardes se Yasrab jo nahiṅ laaya behan ko
-  Zindaaṅ ki taariki mein dafnaaya behan ko
+  Zindaaṅ ki taariki meiṅ dafnaaya behan ko
 # source_id: tajpoints:85ce8a1280a0a42241af
 # source_url: https://tajpoints.com/2024/07/ghurbat-e-sajjad-saleem-mastan.html
 # raw_sha256: 09a1d8e60ad3348bdd9ab805d019754c82d6703afb63d70c4b2ab007971cf98b

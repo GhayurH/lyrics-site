@@ -10,7 +10,7 @@ tags: []
 aliases: ["Aagaye Haram", "آگےء حرم ہوگا اربعین"]
 published: true
 romanLyrics: |-
-  Aa gaye haram hoga Arbaeen
+  Aa gaye haram hoga Arbain
 
   1
   Gham ke paasbaan dard ke amin
@@ -24,37 +24,37 @@ romanLyrics: |-
 
   3
   Dekhiye mera zakhmi hai gala
-  Nange paaoṅ main kaantoṅ par chala
+  Nange paaoṅ maiṅ kaantoṅ par chala
   Aisi bebasi hogi kya kahiṅ
 
   4
   Zindagi se ye maut hai bhali
   Ae mere chacha Sheh ki zindagi
-  Shaam mein hai ab teri naazniṅ
+  Shaam meiṅ hai ab teri naazniṅ
 
   5
   Dukhte haiṅ mere sab ye us suqan
-  Kis se main karuṅ haal-e-dil bayaaṅ
+  Kis se maiṅ karuṅ haal-e-dil bayaaṅ
   Keh rahe haiṅ ye Abid-e-haziṅ
 
   6
-  Akbar jawaṅ mere bhai jaaṅ
+  Akbar jawaaṅ mere bhai jaaṅ
   Saath tum nahiṅ khaak hai jahaaṅ
   Yaad karti hai Zainab-e-haziṅ
 
   7
   Sar kata diya ghar luta diya
-  Deen ko magar tu bacha liya
+  Din ko magar tu bacha liya
   Fatema ke laal waaris-e-akhir
 
   8
-  Dafn jo hui dekho parde mein
-  Nange sar kabhi thi jo balwe mein
+  Dafn jo hui dekho parde meiṅ
+  Nange sar kabhi thi jo balwe meiṅ
   Us ki betiyaṅ dar badar phiri
 
   9
-  Karbala mein ab dekho ek baar
-  Gham mein dub kar ho gaya ye haal
+  Karbala meiṅ ab dekho ek baar
+  Gham meiṅ dub kar ho gaya ye haal
   Sayyeda ke saath fakhre mursali
 # source_id: nohayonline:ce76f73f82c74693a1e7
 # source_url: https://www.nohayonline.com/details_content.php?id=927

@@ -15,15 +15,15 @@ romanLyrics: |-
   Mile khat jo bhaiya chale aaiyega
 
   1
-  Udaasi ke jangal mein baithi hui huṅ
+  Udaasi ke jangal meiṅ baithi hui huṅ
   Madina hai suna chale aaiyega
 
   2
   Mazaar-e-Muhammad pe karne charaaghaṅ
-  Main jaati huṅ tanha chale aaiyega
+  Maiṅ jaati huṅ tanha chale aaiyega
 
   3
-  Main bimaariyoṅ mein basar kar rahi huṅ
+  Maiṅ bimaariyoṅ meiṅ basar kar rahi huṅ
   Ajal ka hai khatra chale aaiyega
 
   4

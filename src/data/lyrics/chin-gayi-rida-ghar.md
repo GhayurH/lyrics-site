@@ -11,14 +11,14 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Dhalne lagi jo raat mein bewaarisoṅ ki shaam
+  Dhalne lagi jo raat meiṅ bewaarisoṅ ki shaam
   Aata hua sawaar jo dekha su-e-qiyaam
   Bint-e-Ali ne thaam ke dil thaam li lajaam
   Gunji sada-e-Dukhtar-e-Zehra-e-nek naam
 
   Chhin gayi rida ghar ujar gaya
   Aap the kahaaṅ haaye baaba jaaṅ
-  Ran mein kat gaya bhai ka gala
+  Ran meiṅ kat gaya bhai ka gala
   Aap the kahaaṅ haaye baaba jaaṅ
 
   1
@@ -40,14 +40,14 @@ romanLyrics: |-
   Aap the kahaaṅ haaye baaba jaaṅ
 
   4
-  Bhuluṅgi na main wo dard ki ghari
+  Bhuluṅgi na maiṅ wo dard ki ghari
   Chal rahi thi jab bhai par chhuri
-  De rahi thi main us ghari sada
+  De rahi thi maiṅ us ghari sada
   Aap the kahaaṅ haaye baaba jaaṅ
 
   5
   Lutne ko jab aaye ashqiya
-  Ghar ka ghar tha jab sholoṅ mein ghira
+  Ghar ka ghar tha jab sholoṅ meiṅ ghira
   Chhin rahi thi jab sar se ye rida
   Aap the kahaaṅ haaye baaba jaaṅ
 
@@ -60,7 +60,7 @@ romanLyrics: |-
   7
   Haaye baaba tha hoṅtoṅ par Naved
   Ro rahi thi baag thaam kar Naved
-  Gunjti thi ye dasht mein sada
+  Gunjti thi ye dasht meiṅ sada
   Aap the kahaaṅ haaye baaba jaaṅ
 # source_id: nohayonline:c03534931c707a541d0b
 # source_url: https://www.nohayonline.com/details_content.php?id=808

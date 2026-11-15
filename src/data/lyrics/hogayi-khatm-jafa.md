@@ -22,7 +22,7 @@ romanLyrics: |-
   Beriyaṅ royiṅ lahu paaoṅ ki zanjir ke saath
 
   3
-  Kis mein dam tha jo rida leta sar-e-Zainab se
+  Kis meiṅ dam tha jo rida leta sar-e-Zainab se
   Haaye Abbas-e-dilaawar na the hamshir ke saath
 
   4

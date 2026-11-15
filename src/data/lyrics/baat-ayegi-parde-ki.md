@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   Sar nange jise dekh ke suraj bhi na nikla
-  Ab sar khule balwe mein wohi jaayegi Zainab
+  Ab sar khule balwe meiṅ wohi jaayegi Zainab
 
   4
   Machlegi jo sone ke liye raat ko bachchi
@@ -35,7 +35,7 @@ romanLyrics: |-
   Ab bhai ko kis tarah se dafnaayegi Zainab
 
   6
-  Purse ko Anees aayeṅge aur puchheṅge ahwaal
+  Purse ko Anis aayeṅge aur puchheṅge ahwaal
   Kis kis ko nishaaṅ durro ke dikhlaayegi Zainab
 # source_id: nohayonline:f2e6ed32f46dcd02bea2
 # source_url: https://www.nohayonline.com/details_content.php?id=200

@@ -14,19 +14,19 @@ romanLyrics: |-
   Zainab ne kiye bain ye marqad se lipat kar
   Utho mere bhaiya, utho mere bhaiya
 
-  Hum aaye haiṅ baazaaroṅ mein darbaaroṅ mein ho kar
+  Hum aaye haiṅ baazaaroṅ meiṅ darbaaroṅ meiṅ ho kar
   Utho mere bhaiya utho mere bhaiya
 
   1
   Kar dijiye bahal meri khata itni thi majbur
-  Main bekas o ranjur
-  Gum ho gayi zindaan mein amaanat teri dukhtar
+  Maiṅ bekas o ranjur
+  Gum ho gayi zindaan meiṅ amaanat teri dukhtar
   Utho mere bhaiya utho mere bhaiya
 
   2
   Sharminda huṅ ye daagh jigar par hai numaayaaṅ
   Ae Sayyad-e-Zishaan
-  Purse ke liye aayi huṅ bhaiya main lahad par
+  Purse ke liye aayi huṅ bhaiya maiṅ lahad par
   Utho mere bhaiya utho mere bhaiya
 
   3
@@ -54,13 +54,13 @@ romanLyrics: |-
   Utho mere bhaiya utho mere bhaiya
 
   7
-  Kuchh boliye main unko nahiṅ puchhuṅgi bhaiya
+  Kuchh boliye maiṅ unko nahiṅ puchhuṅgi bhaiya
   Wo donoṅ the fidiya
   The Aun o Muhammad Ali Akbar se na barh kar
   Utho mere bhaiya utho mere bhaiya
 
   8
-  Koi na Anees aur na hamdam na sahaara
+  Koi na Anis aur na hamdam na sahaara
   Faryaad Khudaara
   Hai waqt-e-madad kijiye haalaat ko behtar
   Utho mere bhaiya utho mere bhaiya

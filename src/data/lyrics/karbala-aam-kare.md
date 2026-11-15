@@ -11,7 +11,7 @@ aliases: ["Karbala Aam Kare"]
 published: true
 romanLyrics: |-
   Ae mere des ke logoṅ meri aawaaz suno
-  Meri aawaaz mein maqtal ka ye aaghaaz suno
+  Meri aawaaz meiṅ maqtal ka ye aaghaaz suno
   Kya khabar tum na raho kya khabar hum na raheṅ
   Aao ik kaam kareṅ Karbala aam kareṅ
 
@@ -40,7 +40,7 @@ romanLyrics: |-
   Kya khabar tum na raho kya khabar hum na raheṅ
 
   4
-  Tum bhi sine mein ye gham le ke chalo hum bhi chaleṅ
+  Tum bhi sine meiṅ ye gham le ke chalo hum bhi chaleṅ
   Tum bhi inkaar-e-sitam le ke chalo hum bhi chaleṅ
   Tum bhi haq ka ye hasham le ke chalo hum bhi chaleṅ
   Tum bhi Ghaazi ka alam le ke chalo hum bhi chaleṅ
@@ -50,9 +50,9 @@ romanLyrics: |-
   5
   Aisa ejaaz to taarikh ne dekha na suna
   Jo diya nur ke haathoṅ shab-e-Aashur bujha
-  Sab shahidoṅ ke diloṅ mein wo diya jaa ke jala
+  Sab shahidoṅ ke diloṅ meiṅ wo diya jaa ke jala
   Aaj bhi roshni deta hai wohi ek diya
-  Har andhere mein wohi ek diya aam kareṅ
+  Har andhere meiṅ wohi ek diya aam kareṅ
   Kya khabar tum na raho kya khabar hum na raheṅ
 
   6
@@ -64,7 +64,7 @@ romanLyrics: |-
   Kya khabar tum na raho kya khabar hum na raheṅ
 
   7
-  Qaafila reh gaya ik dasht-e-bala mein pyaasa
+  Qaafila reh gaya ik dasht-e-bala meiṅ pyaasa
   Jin ki miraas thi Kausar unheṅ paani na mila
   Ye sabileṅ unhiṅ pyaasoṅ se wafa hai ba Khuda
   Koi pyaasa na rahe thi ye Sakina ki sada

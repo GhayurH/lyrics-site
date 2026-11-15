@@ -12,10 +12,10 @@ aliases: []
 published: true
 romanLyrics: |-
   Kaleja thaam ke Shah ne pukaara ae Ali Akbar
-  Main dekhuṅ kis tarah jaana tumhaara ae Ali Akbar
+  Maiṅ dekhuṅ kis tarah jaana tumhaara ae Ali Akbar
 
   1
-  Tumheṅ rukhsat karuṅ kaise ke main ik baap huṅ beta
+  Tumheṅ rukhsat karuṅ kaise ke maiṅ ik baap huṅ beta
   Ye mera dil kare kaise gawaara ae Ali Akbar
 
   2
@@ -43,7 +43,7 @@ romanLyrics: |-
   Hai meri zaat aur us ka sahaara ae Ali Akbar
 
   8
-  Qayaamat tak mere dil mein rahegi ye khalish beta
+  Qayaamat tak mere dil meiṅ rahegi ye khalish beta
   Ke tujh ko maut ne bewaqt maara ae Ali Akbar
 
   9

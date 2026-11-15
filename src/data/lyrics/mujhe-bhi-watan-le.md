@@ -21,7 +21,7 @@ romanLyrics: |-
   Watan jaane waalo
   Mujhe bhi watan le chalo
 
-  Main kaise rahuṅ gi yahaaṅ par
+  Maiṅ kaise rahuṅ gi yahaaṅ par
   Yahaaṅ hai bhala kaun mera
 
   1
@@ -29,7 +29,7 @@ romanLyrics: |-
   Mujhe bhi kahiṅ par bitha lo
   Shahidoṅ ke sar haiṅ jahaaṅ par
   Mujhe bhi wahiṅ par sula do
-  Main Baba ke sar se lipat kar
+  Maiṅ Baba ke sar se lipat kar
   Safar kaat luṅ gi ye saara
 
   2
@@ -44,9 +44,9 @@ romanLyrics: |-
   Suna hai ke waapas mile haiṅ
   Tumheṅ Shimr se mere gauhar
   Bhala kya karoge tum un ka
-  Agar reh gayi main yahaaṅ par
+  Agar reh gayi maiṅ yahaaṅ par
   Inhi bhi amaanat samajh kar
-  Ya dafna do zindaan mein ya
+  Ya dafna do zindaaṅ meiṅ ya
 
   4
   Jo pahunche Madina to Ammaaṅ
@@ -59,7 +59,7 @@ romanLyrics: |-
   5
   Yehi soch kar zer-e-turbat
   Tarapta hai dukhiya ka laasha
-  Mujhe Shimr ke shehr mein ab
+  Mujhe Shimr ke shehr meiṅ ab
   Hamesha hi rehna parega
   Dharakta nahiṅ phir bhi Ammaaṅ
   Ye dil kaanp jaata hai mera
@@ -68,13 +68,13 @@ romanLyrics: |-
   Sar-e-Shaah-e-diṅ kuchh to bolo
   Sifaarish karo kuchh hamaari
   Qaza aa gayi hai to phir kya
-  Main beti huṅ Baba tumhaari
+  Maiṅ beti huṅ Baba tumhaari
   Na inkaar kar paayeṅ gi wo
   Phuphi se zara keh do Baba
 
   7
   Ye haalat thi har ek qadam par
-  Madine ke raste mein Akbar
+  Madine ke raste meiṅ Akbar
   Giri thi jahaaṅ par Sakina
   Tamaache lage the jahaaṅ par
   Wahaaṅ khaak se qaidiyoṅ ko

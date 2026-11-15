@@ -14,20 +14,20 @@ romanLyrics: |-
   Hai sog jis jagah bhi Shah-e-Mashriqain ka
   Khud pursa Zehra leti hai is nur-e-ain ka
   Rona sawaab jis pe na rona haraam hai
-  Chashm-e-Khuda mein is ka bara ehtiraam hai
+  Chashm-e-Khuda meiṅ is ka bara ehtiraam hai
 
   Ye majlis-e-Husain alaihis salaam hai
-  Chashm-e-Khuda mein is ka bara ehtiraam hai
+  Chashm-e-Khuda meiṅ is ka bara ehtiraam hai
 
   1
   Ye majliseiṅ hai hamd-e-Khuda naat-e-Mustafa
-  In majlisoṅ mein hota hai Quraan lab kusha
+  In majlisoṅ meiṅ hota hai Quraan lab kusha
   In majlisoṅ se milta hai jannat ka raasta
   In majlisoṅ ki hoti hai kuchh aisi ibtida
   Zaakir ke lab pe pehle Khuda ka kalaam hai
 
   2
-  In majlisoṅ mein hoti hai insaaniyat ki baat
+  In majlisoṅ meiṅ hoti hai insaaniyat ki baat
   Zikr-e-gham-e-Husain hai wahdaaniyat ki baat
   Ye majliseiṅ Rasul ki haqqaaniyat ki baat
   Radd karti hai ye majliseiṅ Sufyaaniyat ki baat
@@ -36,30 +36,30 @@ romanLyrics: |-
   3
   In majlisoṅ ko ajr-e-risaalat kaha gaya
   Roz-e-azal se rone ka fitrat kaha gaya
-  Dil ki lughat mein isko mohabbat kaha gaya
+  Dil ki lughat meiṅ isko mohabbat kaha gaya
   Yaani ise Batul ki sunnat kaha gaya
   Har rone waali aaṅkh ko mera salaam hai
 
   4
-  Ek majlis-e-aza jo hui mulk-e-Shaam mein
-  Zainab ne saf bichhaai thi yaad-e-Imaam mein
-  Aaṅsu chhupe hue the shahidoṅ ke naam mein
-  Maatam hua jo yaad-e-Shah-e-tashnakaam mein
-  Tab se gham-e-Husain zamaane mein aam hai
+  Ek majlis-e-aza jo hui mulk-e-Shaam meiṅ
+  Zainab ne saf bichhaai thi yaad-e-Imaam meiṅ
+  Aaṅsu chhupe hue the shahidoṅ ke naam meiṅ
+  Maatam hua jo yaad-e-Shah-e-tashnakaam meiṅ
+  Tab se gham-e-Husain zamaane meiṅ aam hai
 
   5
-  Majlis mein zikr-e-baali Sakina kiya karo
+  Majlis meiṅ zikr-e-baali Sakina kiya karo
   Paani piyo to yaad Shah-e-Karbala ki ho
-  Majlis mein tazkira Ali Asghar ka jab suno
+  Majlis meiṅ tazkira Ali Asghar ka jab suno
   Ek aah sard bhar ke tarap kar yehi kaho
-  Asghar bara shahidoṅ mein tera maqaam hai
+  Asghar bara shahidoṅ meiṅ tera maqaam hai
 
   6
   Is majlis-e-Husain ka Sarwar hai nauha khwaaṅ
-  Thakti nahiṅ hai zikr-e-Husaini mein yuṅ zabaaṅ
-  Ghutti mein ashk-e-gham ko pilaati rahi hai maaṅ
-  Waalid ne di hai kaan mein nauhoṅ ki wo azaan
-  Rehaan jis se saare zamaane mein naam hai
+  Thakti nahiṅ hai zikr-e-Husaini meiṅ yuṅ zabaaṅ
+  Ghutti meiṅ ashk-e-gham ko pilaati rahi hai maaṅ
+  Waalid ne di hai kaan meiṅ nauhoṅ ki wo azaaṅ
+  Rehaan jis se saare zamaane meiṅ naam hai
 # source_id: nohayonline:ca8b26ed2ccc7697807c
 # source_url: https://www.nohayonline.com/details_content.php?id=2624
 # raw_sha256: 62434c122bb94ca3e7f2f1f56b8eb38356a28a0a6183677b75bfdaf19b6f4e9f

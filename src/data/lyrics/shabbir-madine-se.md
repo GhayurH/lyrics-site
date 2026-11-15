@@ -12,11 +12,11 @@ published: true
 romanLyrics: |-
   Do jag ke paalan haar kul Hind ke autaar
   Shabbir mere aaqa Shabbir mere Maula
-  Hirday mein jaga paate jivan mein sama jaate
-  Shabbir Madine se gar Hind mein aa jaate
+  Hirde meiṅ jaga paate jivan meiṅ sama jaate
+  Shabbir Madine se gar Hind meiṅ aa jaate
 
   1
-  Kuchh kaal na par jaata sansaar mein paani ka
+  Kuchh kaal na par jaata sansaar meiṅ paani ka
   Do bundh agar zaalim Asghar ko pila jaate
 
   2
@@ -28,16 +28,16 @@ romanLyrics: |-
   Is Ganga ki shobha ko wo aa ke barha jaate
 
   4
-  Is desh mein aa jaata sundar sa parivartan
+  Is desh meiṅ aa jaata sundar sa parivartan
   Har dharm ki janta ko khud kalma parha jaate
 
   5
   Shabbir ko janta ki chaahat na agar hoti
-  Na god ke paaloṅ ko maati mein mila jaate
+  Na god ke paaloṅ ko maati meiṅ mila jaate
 
   6
   Shabbir ke bachchoṅ ke yuṅ naaz uthaate ham
-  Aakaash ke taaroṅ ko charnoṅ mein bichha jaate
+  Aakaash ke taaroṅ ko charnoṅ meiṅ bichha jaate
 
   7
   Baali na koi chinti chinti na koi chaadar

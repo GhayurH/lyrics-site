@@ -11,7 +11,7 @@ aliases: []
 published: true
 reciter: "Safdar Abbas"
 romanLyrics: |-
-  Hawaoṅ mein fazaoṅ mein Sakina ki duaoṅ mein
+  Hawaoṅ meiṅ fazaoṅ meiṅ Sakina ki duaoṅ meiṅ
   Hai ghar ghar par alam tera Alamdar-e-Wafa Ghazi
   Alam uncha rahe tera Alamdar-e-Wafa Ghazi
   Hai ye arman Zainab ka Alamdar-e-Wafa Ghazi
@@ -29,11 +29,11 @@ romanLyrics: |-
   3
   Tera naukar mere Ghazi kisi dar par nahiṅ jhukta
   Alam jo bhi uthata hai to sar nahiṅ us ka jhukta
-  Julusoṅ mein yehi dekha Alamdar-e-Wafa Ghazi
+  Julusoṅ meiṅ yehi dekha Alamdar-e-Wafa Ghazi
 
   4
   Hum arshi haiṅ ya farshi haiṅ yehi hum bhul jaate haiṅ
-  Alam ke sae mein aa kar sabhi hum bhul jaate haiṅ
+  Alam ke sae meiṅ aa kar sabhi hum bhul jaate haiṅ
   Karam tera hai ye kaisa Alamdar-e-Wafa Ghazi
 
   5

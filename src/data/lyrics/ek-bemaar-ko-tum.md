@@ -20,11 +20,11 @@ romanLyrics: |-
 
   2
   Naatavaaṅ hai mera bimaar ye Zainab ne kaha
-  Tauq o zanjir mein Aabid ko phiraaya na karo
+  Tauq o zanjir meiṅ Aabid ko phiraaya na karo
 
   3
   Do qadam chalte hi bimaar ko ghash aata hai
-  Paaoṅ mein chhaale haiṅ Aabid ko chalaaya na karo
+  Paaoṅ meiṅ chhaale haiṅ Aabid ko chalaaya na karo
 
   4
   Nind bimaar ko aati hai bari mushkil se
@@ -35,11 +35,11 @@ romanLyrics: |-
   Baaliyaṅ khinch ke kaanoṅ se rulaaya na karo
 
   6
-  Sar khule Zainab-e-dilgir hai bazaaroṅ mein
+  Sar khule Zainab-e-dilgir hai bazaaroṅ meiṅ
   Berida Aal-e-Muhammad ko phiraaya na karo
 
   7
-  Qaid mein phut ke roti hai Sakina Bibi
+  Qaid meiṅ phut ke roti hai Sakina Bibi
   Baap ka sar use har baar dikhaaya na karo
 
   8

@@ -49,17 +49,17 @@ romanLyrics: |-
   Wo Karbala wo Nabi ka gharaana
   Quran idhar to udhar hai zamaana
   Ek ek paare ka maqtal jaana
-  Khuṅ mein naha ke ye sab ko bataana
+  Khuṅ meiṅ naha ke ye sab ko bataana
 
   7
   Ye Karbala ye hai shaam-e-gharibaaṅ
   Wo jalte khaime wo aayaat-e-Quraaṅ
-  Khaimoṅ mein baali Sakina pareshaaṅ
+  Khaimoṅ meiṅ baali Sakina pareshaaṅ
   Zainab pukaari ye bar sar-e-maidaaṅ
 
   8
   Dekha na hoga kisi ne ye manzar
-  Jo Karbala mein tha Rehaan o Sarwar
+  Jo Karbala meiṅ tha Rehaan o Sarwar
   Beparda saari thi Aal-e-Payambar
   Ek sar ye kahta tha nok-e-sinaaṅ par
 # source_id: nohayonline:4d69fc1566ae1b4f765f

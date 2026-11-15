@@ -22,7 +22,7 @@ romanLyrics: |-
   Jaan parde ki hifaazat ke liye dete the
   Naam sunte hi mera nazreṅ jhuka lete the
   Abbas Abbas bhaiya Abbas
-  Main teri koi ada bhul na paayi Abbas
+  Maiṅ teri koi ada bhul na paayi Abbas
 
   2
   Yaad baaba ki jo tarpaati thi aksar mujh ko
@@ -43,7 +43,7 @@ romanLyrics: |-
   Har tamaanche pe sada ek hi aayi Abbas
 
   5
-  Koi sunta na tha raahoṅ mein shikaayat meri
+  Koi sunta na tha raahoṅ meiṅ shikaayat meri
   Kaash tu dekhta ek baar wo haalat meri
   Abbas Abbas bhaiya Abbas
   Khun aalud thi Zainab ki kalaai Abbas
@@ -52,7 +52,7 @@ romanLyrics: |-
   Algharaz qaafila Darbaar-e-Jafa jab pahuncha
   Meri aawaaz ko ghairoṅ ne suna waawaila
   Abbas Abbas bhaiya Abbas
-  Jurm kya tha jo saza main ne ye paayi Abbas
+  Jurm kya tha jo saza maiṅ ne ye paayi Abbas
 
   7
   Rok lo Akhtar o Irfan-e-Aza apna sukhan

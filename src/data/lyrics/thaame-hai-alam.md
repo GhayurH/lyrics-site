@@ -11,12 +11,12 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Thaame hai alam khun mein duba hai alamdaar
-  Narghe mein lainoṅ ke akela hai alamdaar
-  Thaame hai alam khun mein duba hai alamdaar
+  Thaame hai alam khun meiṅ duba hai alamdaar
+  Narghe meiṅ lainoṅ ke akela hai alamdaar
+  Thaame hai alam khun meiṅ duba hai alamdaar
 
   1
-  Ab kaise Sakina ko main pahunchaauṅ ga paani
+  Ab kaise Sakina ko maiṅ pahunchaauṅ ga paani
   Bas baat yehi soch ke rota hai alamdaar
 
   2
@@ -25,18 +25,18 @@ romanLyrics: |-
 
   3
   Kya ho gaya sab tera badan tiroṅ se chhalni
-  Kiuṅ khuṅ mein bhara tera pharera hai alamdaar
+  Kiuṅ khuṅ meiṅ bhara tera pharera hai alamdaar
 
   4
   Thi Sheh ki sada koi use de de sahaara
-  Be dast hai rahwaar se girta hai alamdaar
+  Bedast hai rahwaar se girta hai alamdaar
 
   5
-  Ik shor qayaamat ka tha sab ahl-e-haram mein
-  Jab tera alam khaime mein aaya hai alamdaar
+  Ik shor qayaamat ka tha sab ahl-e-haram meiṅ
+  Jab tera alam khaime meiṅ aaya hai alamdaar
 
   6
-  Dil thaam ke roti hi rahi raah-e-sitam mein
+  Dil thaam ke roti hi rahi raah-e-sitam meiṅ
   Zainab ko bahut yaad tu aaya hai alamdaar
 
   7
@@ -44,7 +44,7 @@ romanLyrics: |-
   Har baar Sakina ne pukaara hai alamdaar
 
   8
-  Zindaan mein dar lagta hai kehti thi Sakina
+  Zindaan meiṅ dar lagta hai kehti thi Sakina
   Jab bhi ye sada aai hai tarpa hai alamdaar
 
   9

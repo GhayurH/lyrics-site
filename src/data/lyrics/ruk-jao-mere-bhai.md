@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ye dasht-e-Karbala mein Zainab ki thi duhaai
+  Ye dasht-e-Karbala meiṅ Zainab ki thi duhaai
   Ruk jaao mere bhaai mat jaao mere bhaai
 
   Hai laakhoṅ adu shamshireṅ liye
@@ -22,12 +22,12 @@ romanLyrics: |-
   1
   Darya ke kinaare qatl hui
   Seh roz ki pyaasi fauj-e-Khuda
-  Is dasht-e-musibat mein bhaiya
+  Is dasht-e-musibat meiṅ bhaiya
   Hai kaun bhala mazlumoṅ ka
 
   2
   Is dukhiya behan ko ae bhaai
-  Pardes mein kiuṅ tarpaate ho
+  Pardes meiṅ kiuṅ tarpaate ho
   Abbas gaye Akbar bhi gaye
   Ab tum bhi chhore jaate ho
 
@@ -40,7 +40,7 @@ romanLyrics: |-
   4
   Ae bhaai zara dekho to sahi
   Roti hai tarapti hai Kubra
-  Baba se bichharne ke gham mein
+  Baba se bichharne ke gham meiṅ
   Mar jaaye na Qasim ki bewa
 
   5

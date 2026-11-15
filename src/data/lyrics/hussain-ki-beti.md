@@ -34,14 +34,14 @@ romanLyrics: |-
 
   3
   Hai ye paiwast mere gardan meiṅ
-  Khud main is ko hata nahiṅ sakti
+  Khud maiṅ is ko hata nahiṅ sakti
   Apne gardan burida baaba ke
-  Saamne yuṅ main jaa nahiṅ sakti
+  Saamne yuṅ maiṅ jaa nahiṅ sakti
   Koi gardan se khol de rassi
   Baap beti se milne aata hai
 
   4
-  Jab main milti thi apne baaba se
+  Jab maiṅ milti thi apne baaba se
   Baaheiṅ gardan meiṅ haar karti thi
   Tan burida ka sar jo aayega
   Kaise gardan meiṅ baaheiṅ daaluṅ gi
@@ -53,7 +53,7 @@ romanLyrics: |-
   Bhaiya Akbar ki yaad aati hai
   Karbala wale kaise baste haiṅ
   Kaise katti hai bhai Qasim ki
-  Un se main sab ka haal puchhuṅ gi
+  Un se maiṅ sab ka haal puchhuṅ gi
   Baap beti se milne aata hai
 
   6

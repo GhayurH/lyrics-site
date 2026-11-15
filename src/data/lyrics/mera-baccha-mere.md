@@ -11,21 +11,21 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Main Husaini huṅ meri jaan azadaari hai
+  Maiṅ Husaini huṅ meri jaan azadaari hai
   Fath Shabbir ka aelaan azadaari hai
   Mera maslak mera imaan azadaari hai
   Har qadam par meri pehchaan azadaari hai
-  Noha Shabbir ka lori mein sunaaya mujhko
+  Noha Shabbir ka lori meiṅ sunaaya mujhko
   Haaṅ meri maaṅ ne azadaar banaaya mujhko
 
   Mera bachcha mere Maula ka azadaar bane
 
   1
-  Main ne gehwaara-e-Asghar pe jo maaṅgi thi muraad
-  Mujhko beshir ke sadqe mein mili hai aulaad
+  Maiṅ ne gehwaara-e-Asghar pe jo maaṅgi thi muraad
+  Mujhko beshir ke sadqe meiṅ mili hai aulaad
   Kaash ye pairav-e-Abbas-e-Alamdaar bane
-  Main jawaaṅ hota raha maaṅ dua karti rahi
-  Maaṅ dua karti rahi main jawaaṅ hota raha
+  Maiṅ jawaaṅ hota raha maaṅ dua karti rahi
+  Maaṅ dua karti rahi maiṅ jawaaṅ hota raha
 
   2
   Sadqa-e-Asghar-e-beshir hai bachcha mera
@@ -34,12 +34,12 @@ romanLyrics: |-
 
   3
   Zindagi waqf hai Shabbir ke maatam ke liye
-  Main ne aulaad ko paala hai Muharram ke liye
-  Khwaab taabir mein dhal jaaye wo kirdaar bane
+  Maiṅ ne aulaad ko paala hai Muharram ke liye
+  Khwaab taabir meiṅ dhal jaaye wo kirdaar bane
 
   4
   Kaash zinda mere har khwaab ki taabir rahe
-  Main rahuṅ ya na rahuṅ maatam-e-Shabbir rahe
+  Maiṅ rahuṅ ya na rahuṅ maatam-e-Shabbir rahe
   Khuṅ mera mere jazbaat ka izhaar bane
 
   5

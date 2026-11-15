@@ -12,7 +12,7 @@ aliases: ["Aagaya Bazar Ali"]
 published: true
 romanLyrics: |-
   Aa gaya bazaar Ali Akbaram
-  Ghash mein hai bimar Ali Akbaram
+  Ghash meiṅ hai bimar Ali Akbaram
 
   1
   Ashk baha le ye maaṅ sadqa nikale ye maaṅ

@@ -1,6 +1,6 @@
 ---
 title: "رو کر پکارے سیدِ والا یہیں کہیں"
-alternateTitle: "Laasha Yahin Kahin"
+alternateTitle: "Laasha Yahiṅ Kahiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -24,7 +24,7 @@ romanLyrics: |-
   Wo naujawaan maara gaya tha yahiṅ kahiṅ
 
   2
-  Ran mein khizaaṅ ne kha liya Farwa ke baagh ko
+  Ran meiṅ khizaaṅ ne kha liya Farwa ke baagh ko
   Nazreṅ talaashti hai Hasan ke chiraagh ko
   Gum ho gaya hai us ka janaaza yahiṅ kahiṅ
 
@@ -34,13 +34,13 @@ romanLyrics: |-
   Us ne abhi tha mujh ko pukaara yahiṅ kahiṅ
 
   4
-  Ahl-e-haram mein naala o faryaad hai bapa
+  Ahl-e-haram meiṅ naala o faryaad hai bapa
   Jaana hai le ke laash mujhe su-e-khaima gaah
   Mil jaaye mujh ko mera bhatija yahiṅ kahiṅ
 
   5
-  Sar pit kar qayaam mein roti hai Bibiyaṅ
-  Aur dhundta huṅ laasha-e-Qasim ko main yahaaṅ
+  Sar pit kar qayaam meiṅ roti hai Bibiyaṅ
+  Aur dhundta huṅ laasha-e-Qasim ko maiṅ yahaaṅ
   Phat jaaye na ghamoṅ se kaleja yahiṅ kahiṅ
 
   6
@@ -54,7 +54,7 @@ romanLyrics: |-
   Bikhra para hai wo gul-e-taaza yahiṅ kahiṅ
 
   8
-  Aamir rida mein kar ke tan-e-paash paash ko
+  Aamir rida meiṅ kar ke tan-e-paash paash ko
   Bole Kumail dekh ke Shabbir laash ko
   De de mujhe bhi maut Khudaaya yahiṅ kahiṅ
 # source_id: nohayonline:9e1b23c003f487f0d1dd

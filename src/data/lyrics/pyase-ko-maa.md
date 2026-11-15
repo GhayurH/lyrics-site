@@ -22,32 +22,32 @@ romanLyrics: |-
   Asghar ki qabr ka wo nishaaṅ dhundti rahi
 
   2
-  Aaghosh mein samet ke jhule ki raakh ko
+  Aaghosh meiṅ samet ke jhule ki raakh ko
   Abbas ke alam ki amaa dhundti rahi
   Asghar ki qabr ka wo nishaaṅ dhundti rahi
 
   3
-  Khaima to jal chuka jale khaime mein jaa ke wo
+  Khaima to jal chuka jale khaime meiṅ jaa ke wo
   Hasrat se ghutniyoṅ ke nishaaṅ dhundti rahi
   Asghar ki qabr ka wo nishaaṅ dhundti rahi
 
   4
   Rakha hai tute kuze ko maaṅ ne sambhaal kar
-  Un kirchiyoṅ mein nanha jawaaṅ dhundti rahi
+  Un kirchiyoṅ meiṅ nanha jawaaṅ dhundti rahi
   Asghar ki qabr ka wo nishaaṅ dhundti rahi
 
   5
   Ghash se uthi to ujre hue qaidiyoṅ ke bich
-  Umm-e-Rabaab teer giraaṅ dhundti rahi
+  Umm-e-Rabaab tir giraaṅ dhundti rahi
   Asghar ki qabr ka wo nishaaṅ dhundti rahi
 
   6
-  Paani gale ko maaṅ ke laga teer ki tarah
+  Paani gale ko maaṅ ke laga tir ki tarah
   Wo phir kisi ki sukhi zabaaṅ dhundti rahi
   Asghar ki qabr ka wo nishaaṅ dhundti rahi
 
   7
-  Karb o Bala ke dasht mein zindaan-e-Shaam mein
+  Karb o Bala ke dasht meiṅ zindaan-e-Shaam meiṅ
   Abid wo apna khoya jahaaṅ dhundti rahi
   Asghar ki qabr ka wo nishaaṅ dhundti rahi
 # source_id: nohayonline:fe95bb2db5177a88f92a

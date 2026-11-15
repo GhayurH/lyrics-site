@@ -17,7 +17,7 @@ romanLyrics: |-
   1
   Kahiyega ke maut ne majbur kar diya
   Bhai ko behen se bahut dur kar diya
-  Bhai tera maara gaya ran mein tashna kaam
+  Bhai tera maara gaya ran meiṅ tashna kaam
 
   2
   Kahiyega ke ab na aayega tera Akbar
@@ -26,8 +26,8 @@ romanLyrics: |-
 
   3
   Zulm ki yalghaar zabardast ho gayi
-  Barchhi mere sine mein paiwast ho gayi
-  Kuchh hi pal mein gardan bhi hogi tah-e-husaam
+  Barchhi mere sine meiṅ paiwast ho gayi
+  Kuchh hi pal meiṅ gardan bhi hogi tah-e-husaam
 
   4
   Baba mujhe Sughra ka didaar kara do
@@ -46,7 +46,7 @@ romanLyrics: |-
 
   7
   Shafqat o Aamir bhai se behen juda na ho
-  Maut aaye pardes mein waada wafa na ho
+  Maut aaye pardes meiṅ waada wafa na ho
   Waqt-e-aakhir khwaahar ke hoṅtoṅ pe rahega naam
 # source_id: nohayonline:e1cd3f76517c3556ccc9
 # source_url: https://www.nohayonline.com/details_content.php?id=3657

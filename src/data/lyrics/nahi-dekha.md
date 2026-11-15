@@ -31,8 +31,8 @@ romanLyrics: |-
   Shabbir ko aisa kabhi rota nahiṅ dekha
 
   5
-  Dekha tha kari dhup mein bete ka janaaza
-  Laila ko kabhi saaye mein baitha nahiṅ dekha
+  Dekha tha kari dhup meiṅ bete ka janaaza
+  Laila ko kabhi saaye meiṅ baitha nahiṅ dekha
 
   6
   Kiuṅ dekh ke roye na Taqi apna bhara ghar

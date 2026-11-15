@@ -14,20 +14,20 @@ romanLyrics: |-
   Jab daakhil-e-behisht Rasul-e-Khuda hue
   Yaani jahaaṅ se raahi-e-mulk-e-baqa hue
   Mahzuṅ wo dil malul Shaah-e-Laafata hue
-  Sibtain gham mein Nana ke sarf-e-buka hue
+  Sibtain gham meiṅ Nana ke sarf-e-buka hue
   Sadma har ek ko tha Janaab-e-Rasul ka
   Par haal ghair sab se siwa tha Batul ka
 
   2
   Gaahe Ali se kehti thi ro kar wo dardnaak
   Waali Nabi ko tum ne sulaaya bazer-e-khaak
-  Kiun kar chhupaaya qabr mein tum ne wo ru-e-paak
+  Kiun kar chhupaaya qabr meiṅ tum ne wo ru-e-paak
   Haae haae pidar halaak ho beti na ho halaak
   Itna to kehte paaeṅti kis ko sulaao ge
   Puchha to hota Fatima ko kab bulaao ge
 
   3
-  Bhula tha is khalq mein Husain o Hasan ka pyaar
+  Bhula tha is khalq meiṅ Husain o Hasan ka pyaar
   Aur pyaar tha to ye tha ke kehti thi baar baar
   Kaandhe pe apne Nana ke hote nahiṅ sawaar
   Ab gesu-e-Nabi ko banaate nahiṅ mahaar
@@ -48,34 +48,34 @@ romanLyrics: |-
   Ab saath in ka aur tumhaara hai hum kahaaṅ
   Bin maaṅ ki hoti haiṅ meri dukhyaari betiyaaṅ
   Bachpan pe apne bachchoṅ ke aansu bahaati huṅ
-  Tum par Hasan Husain ko main chhore jaati huṅ
+  Tum par Hasan Husain ko maiṅ chhore jaati huṅ
 
   6
   Ro kar kabhi Hasan ko gale se laga liya
-  Aaghosh mein Husain ko gaahe bitha liya
+  Aaghosh meiṅ Husain ko gaahe bitha liya
   Rukhsat kiya kisi ko kisi ko bula liya
   Parhne ke waaste kabhi Quraaṅ utha liya
   Kehti thi gaah bachchoṅ se muṅh apna mor ke
-  Kal sune ghar mein sona hai basti ko chhor ke
+  Kal sune ghar meiṅ sona hai basti ko chhor ke
 
   7
   Sun lo wasiyyateṅ meri is waqt ya Imam
   Fizza se mere baad adaalat se lena kaam
   Hoshyaar Fatima ki amaanat se subh o shaam
   Do betiyaaṅ do bete haiṅ aur bas Khuda ka naam
-  Main ne bare dukhoṅ se ye sab bachche paale haiṅ
+  Maiṅ ne bare dukhoṅ se ye sab bachche paale haiṅ
   Haq ke hawaale tum ye tumhaare hawaale haiṅ
 
   8
   Sab Haashmi qasam meri ismat ki khaate haiṅ
   Mujh ko Arab ki rasm se andeshe aate haiṅ
   Aurat ka murda takhte pe rakh kar uthaate haiṅ
-  Aasaar is mein murde ke sab paaye jaate haiṅ
-  Deti huṅ main qasam tumheṅ ruh-e-Rasul ki
+  Aasaar is meiṅ murde ke sab paaye jaate haiṅ
+  Deti huṅ maiṅ qasam tumheṅ ruh-e-Rasul ki
   Waali na yuṅ uthaaiyo mayyat Batul ki
 
   9
-  Hai aarzu ke qabr mein mujh ko Hasan litaaye
+  Hai aarzu ke qabr meiṅ mujh ko Hasan litaaye
   Shabbir mere murde ka muṅh qible ko phiraaye
   Phir khud kaha nahiṅ nahiṅ bachcha hai dar na jaaye
   Naagaah khelte hue donoṅ yatim aaye
@@ -102,8 +102,8 @@ romanLyrics: |-
   Maatha Hasan ne murde ke maathe pe rakh diya
   Ro ro ke Ammaaṅ Ammaaṅ kaha aur ghash hua
   Talwoṅ se apne maathe ko Shabbir ne mala
-  Paaoṅ mein dam na paaya to ye kaan mein kaha
-  Main aap ka ghulaam huṅ aur nur-e-ain huṅ
+  Paaoṅ meiṅ dam na paaya to ye kaan meiṅ kaha
+  Maiṅ aap ka ghulaam huṅ aur nur-e-ain huṅ
   Aawaaz do Husain huṅ Ammaaṅ Husain huṅ
 # source_id: nohayonline:4b08dfc4e739bc405cd9
 # source_url: https://www.nohayonline.com/content_marsiya.php?id=10

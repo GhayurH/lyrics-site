@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Aa gayi Shaam ki nagri mein khule sar Zainab
+  Aa gayi Shaam ki nagri meiṅ khule sar Zainab
   Maangti reh gayi ik ek se chadar Zainab
 
   1
@@ -27,7 +27,7 @@ romanLyrics: |-
   Jab nazar aati thi naaqe pe khule sar Zainab
 
   4
-  Yaad aa jaati thi us waqt usay nana ki
+  Yaad aa jaati thi us waqt use nana ki
   Naize pe dekhti thi jab sar-e-Akbar Zainab
 
   5
@@ -36,14 +36,14 @@ romanLyrics: |-
 
   6
   Thi sar-e-shaam-e-gharibaṅ wo misaal-e-Zehra
-  Ban gayi Shaam ke darbar mein Haider Zainab
+  Ban gayi Shaam ke darbar meiṅ Haider Zainab
 
   7
-  Haal ye tha ke na pehchana usay shauhar ne
+  Haal ye tha ke na pehchana use shauhar ne
   Shaam ki qaid se aayi jo palat kar Zainab
 
   8
-  Ro diya Kufe ke darbar mein Majid Mukhtar
+  Ro diya Kufe ke darbar meiṅ Majid Mukhtar
   Sar-e-darbar sitamgar thi khule sar Zainab
 # source_id: nohayonline:1e4bc9ce97cdfbd05a0c
 # source_url: https://www.nohayonline.com/details_content.php?id=1413

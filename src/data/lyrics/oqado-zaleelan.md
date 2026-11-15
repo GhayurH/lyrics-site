@@ -1,6 +1,6 @@
 ---
 title: "اوقد و ذلیلن فی دمشقہ قا انانی"
-alternateTitle: "Oqado Zaleelan"
+alternateTitle: "Oqado Zalilan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,8 +11,8 @@ aliases: []
 published: true
 reciter: "Ameer Hasan Aamir"
 romanLyrics: |-
-  Oqado zaleelan fi damishqa qa annani
-  Minaz zanje abdun ghaaba anhu naseerun
+  Oqado zalilan fi damishqa qa annani
+  Minaz zanje abdun ghaaba anhu nasirun
 
   1
   Chhaai hui ghurbat ki ghata hai
@@ -28,15 +28,15 @@ romanLyrics: |-
 
   3
   Allah jaane kaisa safar hai
-  Raste mein saaya hai na shajar hai
+  Raste meiṅ saaya hai na shajar hai
   Nok-e-sinaaṅ par baba ka sar hai
-  Dekhuṅ main kin aankhoṅ se ye manzar
+  Dekhuṅ maiṅ kin aankhoṅ se ye manzar
 
   4
   Qaidi samajh ke tarpa rahe haiṅ
   Jis raaste se bhi jaa rahe haiṅ
   Bachche saroṅ par barsa rahe haiṅ
-  Le le ke apne haathoṅ mein patthar
+  Le le ke apne haathoṅ meiṅ patthar
 
   5
   Kha ke tamaache mujh ko hazina
@@ -46,19 +46,19 @@ romanLyrics: |-
 
   6
   Aisa sitam dekha bhi nahiṅ tha
-  Kaantoṅ pe main guzra bhi nahiṅ tha
+  Kaantoṅ pe maiṅ guzra bhi nahiṅ tha
   Ye to kabhi socha bhi nahiṅ tha
-  Hogi phuphi balwe mein khule sar
+  Hogi phuphi balwe meiṅ khule sar
 
   7
-  Saare badan mein chhaale pare haiṅ
-  Talwoṅ mein kitne ghaar chubhe haiṅ
+  Saare badan meiṅ chhaale pare haiṅ
+  Talwoṅ meiṅ kitne ghaar chubhe haiṅ
   Kitne qayaamat ke marhale haiṅ
-  Tauq gale mein paaoṅ mein langar
+  Tauq gale meiṅ paaoṅ meiṅ langar
 
   8
   Gham ka samaaṅ aafat ki ghari hai
-  Paaoṅ mein dohri beri pari hai
+  Paaoṅ meiṅ dohri beri pari hai
   Har su meri tashhir hui hai
   Kaun kahe Abbas se jaa kar
 

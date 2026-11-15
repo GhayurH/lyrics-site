@@ -12,54 +12,54 @@ aliases: ["Mai Aagayi Madina"]
 published: true
 romanLyrics: |-
   Ro ro ke pukaari naana ki dulaari
-  Naana ae mere naana main aa gayi Madina
+  Naana ae mere naana maiṅ aa gayi Madina
 
   Sughra se kya kahuṅ gi mushkil hai mera jina
-  Naana ae mere naana main aa gayi Madina
+  Naana ae mere naana maiṅ aa gayi Madina
 
   1
   Apni rida luta ke khutbe suna suna ke
-  Diwaar-e-zulm dhaa ke main aa gayi Madina
+  Diwaar-e-zulm dhaa ke maiṅ aa gayi Madina
 
   2
-  Balwe mein thi khule sar bepardagi ke patthar
-  Khaa khaa ke ashqiya se main aa gayi Madina
+  Balwe meiṅ thi khule sar bepardagi ke patthar
+  Khaa khaa ke ashqiya se maiṅ aa gayi Madina
 
   3
   Zindaan tha andhera chaaroṅ taraf tha pahra
-  Aankhoṅ se khuṅ bahaa ke main aa gayi Madina
+  Aankhoṅ se khuṅ bahaa ke maiṅ aa gayi Madina
 
   4
   Aai nahiṅ Sakina phatta hai mera sina
-  Us ko wahiṅ sula ke main aa gayi Madina
+  Us ko wahiṅ sula ke maiṅ aa gayi Madina
 
   5
   Nok-e-sinaaṅ pe sar the hum log nauhagar the
-  Farsh-e-aza bichha ke main aai huṅ Madina
+  Farsh-e-aza bichha ke maiṅ aai huṅ Madina
 
   6
   Sajjaad naatawaaṅ tha aankhoṅ se khuṅ rawaaṅ tha
-  Bimaar ko bacha ke main aai huṅ Madina
+  Bimaar ko bacha ke maiṅ aai huṅ Madina
 
   7
   Baazu pe khasta tan ke ye daagh haiṅ rasan ke
-  Naana sitam utha ke main aai huṅ Madina
+  Naana sitam utha ke maiṅ aai huṅ Madina
 
   8
   Tukre chune badan ke Qaasim bin Hasan ke
-  Dulha use bana ke main aai huṅ Madina
+  Dulha use bana ke maiṅ aai huṅ Madina
 
   9
   Mitti ko Karbala ki ye aap ki nawaasi
-  Khaak-e-shifa bana ke main aai huṅ Madina
+  Khaak-e-shifa bana ke maiṅ aai huṅ Madina
 
   10
   Athaara bhaaiyoṅ ki haae haae behen thi qaidi
-  Qaid-e-sitam nibha ke main aai huṅ Madina
+  Qaid-e-sitam nibha ke maiṅ aai huṅ Madina
 
   11
   Maisam ba roz-e-mahshar Rehaan bint-e-Haider
-  Zainab kahe gi aa ke main aai huṅ Madina
+  Zainab kahe gi aa ke maiṅ aai huṅ Madina
 # source_id: nohayonline:6b0949fb2fba0b64e804
 # source_url: https://www.nohayonline.com/details_content.php?id=2160
 # raw_sha256: 79b9390ce684c39810c0d3fbd7222983bb00ef42893191798ca0f3b290282b98

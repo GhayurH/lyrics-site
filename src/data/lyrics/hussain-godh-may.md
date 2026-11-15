@@ -1,6 +1,6 @@
 ---
 title: "حسین گود میں لاشہ پسر جو لاتے ہیں"
-alternateTitle: "Husain God Mein"
+alternateTitle: "Husain God Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Husain god mein laasha-e-pisar jo laate haiṅ
+  Husain god meiṅ laasha-e-pisar jo laate haiṅ
   Wo baar ho hai ke har gaam dagmagaate haiṅ
 
   1

@@ -12,18 +12,18 @@ aliases: []
 published: true
 romanLyrics: |-
   Abbas meri Shimr se chadar to dila do
-  Balwe mein khule sar huṅ zara parda bana do
+  Balwe meiṅ khule sar huṅ zara parda bana do
 
   1
-  Har samt lagi aag main kis kis ko sambhaluṅ
-  Sajjad ko jalte hue khaimoṅ mein nikalo
+  Har samt lagi aag maiṅ kis kis ko sambhaluṅ
+  Sajjad ko jalte hue khaimoṅ meiṅ nikalo
 
   2
   Paband-e-rasan Shaam ko tayyar khari huṅ
   Mahmil pe zara aa ke mujhe aap bitha do
 
   3
-  Daman mein lagi aag na jal jaaye Sakina
+  Daman meiṅ lagi aag na jal jaaye Sakina
   Masum ke daman ki zara aag bujha do
 
   4
@@ -32,15 +32,15 @@ romanLyrics: |-
 
   5
   Maaṅ Akbar o Asghar ki mere saath hai kehti
-  Sughra ko Madine mein ye paigham pahuncha do
+  Sughra ko Madine meiṅ ye paigham pahuncha do
 
   6
-  Waqif main nahiṅ Shaam ki raahoṅ se ae bhaiya
+  Waqif maiṅ nahiṅ Shaam ki raahoṅ se ae bhaiya
   Ek baar mujhe Shaam ka rasta to bata do
 
   7
   Jo ajr-e-risalat diya ummat ne tere baad
-  Abbas ye zewar mere haathoṅ mein pehna do
+  Abbas ye zewar mere haathoṅ meiṅ pehna do
 
   8
   Sardar ko gham tera hai aulad se pyara

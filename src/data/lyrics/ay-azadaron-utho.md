@@ -14,12 +14,12 @@ romanLyrics: |-
   Ae azadaroṅ utho Shah ke ansaar bano
   Pairawi Hur ki karo waqt ko jaane na do
   Aa gaya maah-e-buka maah-e-alam maah-e-aza
-  Jis ke ek din mein luta Zehra ka ghar waawaila
+  Jis ke ek din meiṅ luta Zehra ka ghar waawaila
 
   Ye maah-e-Muharram ye aza-e-Shah-e-waala
-  Is maah mein luta gaya Shabbir ka kunba
-  Is maah mein saadaat ne gham khaae haiṅ kya kya
-  Is maah mein kaunain mein barpa hua larza
+  Is maah meiṅ luta gaya Shabbir ka kunba
+  Is maah meiṅ saadaat ne gham khaae haiṅ kya kya
+  Is maah meiṅ kaunain meiṅ barpa hua larza
 
   1
   Hai aamad-e-Shabbir azakhana sajaao
@@ -29,9 +29,9 @@ romanLyrics: |-
 
   2
   Naam-e-Ali Asghar pe sabiloṅ ko lagaao
-  Raahoṅ mein azadaroṅ ke palkoṅ ko bichhaao
+  Raahoṅ meiṅ azadaroṅ ke palkoṅ ko bichhaao
   Lillaah karo zikr na dunya ko dikhaao
-  Jo kuch hai azadari-e-Sarwar mein lutaao
+  Jo kuch hai azadari-e-Sarwar meiṅ lutaao
 
   3
   Aayaat-e-shahadat ki parho sab ko sunaao
@@ -40,28 +40,28 @@ romanLyrics: |-
   Khud haathoṅ se bigri hui taqdir banaao
 
   4
-  Is maah mein Farwa se chhuta Qasim-e-muztar
+  Is maah meiṅ Farwa se chhuta Qasim-e-muztar
   Paamaal hua laasha-e-ibne bine Haidar
   Phuloṅ ki tarah jism ke tukre the zamiṅ par
-  Shah laae jise ek ghatri mein rakh kar
+  Shah laae jise ek ghatri meiṅ rakh kar
 
   5
-  Is maah mein Laila se chhuta god ka paala
+  Is maah meiṅ Laila se chhuta god ka paala
   Maidan se phir lauta nahiṅ gesuoṅ waala
   Naize ki ani aur jawaaṅ laal ka sina
   Kis tarah ye manzar Shah-e-abraar ne dekha
 
   6
-  Is maah ne Sughra ko Madine mein rulaaya
+  Is maah ne Sughra ko Madine meiṅ rulaaya
   Har saans naye karb ka ehsaas dilaaya
-  Shah qatl hue dasht mein ye aa ke bataaya
+  Shah qatl hue dasht meiṅ ye aa ke bataaya
   Zof-e-jasad-e-Sughra ko kuch aur barhaaya
 
   7
-  Is maah mein saadaat ko aafaat ne ghera
+  Is maah meiṅ saadaat ko aafaat ne ghera
   Aalaam o masaaib ke parindoṅ ka basera
   Dekha nahiṅ bachchoṅ ne sukuṅ bakhsh sawera
-  Chhaaya raha taqdir ki dunya mein andhera
+  Chhaaya raha taqdir ki dunya meiṅ andhera
 
   8
   Gham khaate rahe sabr ka daaman nahiṅ chhora
@@ -82,8 +82,8 @@ romanLyrics: |-
   Begor o kafan laasha-e-Shabbir pari thi
 
   11
-  Is maah mein ae Dayam o Yazdaaṅ ye rahe dhyaan
-  Is maah ka har haal mein baaqi rahe irfaan
+  Is maah meiṅ ae Dayam o Yazdaaṅ ye rahe dhyaan
+  Is maah ka har haal meiṅ baaqi rahe irfaan
   Parhte raho qurbani-e-Shabbir ka Quraan
   Batlaate raho dunya ko Shabbir ka ehsaan
 # source_id: nohayonline:11029bf7f0996b11cb52

@@ -1,6 +1,6 @@
 ---
 title: "آ گیا شام کا بازار کہاں ہو عباس"
-alternateTitle: "Kahan Ho Abbas"
+alternateTitle: "Kahaṅ Ho Abbas"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -15,8 +15,8 @@ romanLyrics: |-
   Mere monis mere ghamkhwaar kahaaṅ ho Abbas
 
   1
-  Kis musibat mein hai bhaiya ye behen dekh to lo
-  Mere Ghazi mere haathoṅ mein rasan dekh to lo
+  Kis musibat meiṅ hai bhaiya ye behen dekh to lo
+  Mere Ghazi mere haathoṅ meiṅ rasan dekh to lo
   Koi yaawar na madadgaar kahaaṅ ho Abbas
 
   2
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   5
   Mujh se puchhe koi ehsaas-e-gharibulwatani
-  Har nafas dil mein mere chubhti hai barchhi ki ani
+  Har nafas dil meiṅ mere chubhti hai barchhi ki ani
   Mar gaya Akbar-e-jarraar kahaaṅ ho Abbas
 
   6
@@ -65,7 +65,7 @@ romanLyrics: |-
   Huṅ rasan basta azaadaar kahaaṅ ho Abbas
 
   11
-  Hai bapa Shaam ke bazaar mein Aamir mahshar
+  Hai bapa Shaam ke bazaar meiṅ Aamir mahshar
   Nok-e-naize se gira jaata hai ek sar Nayyar
   Bain karte haiṅ giraftaar kahaaṅ ho Abbas
 # source_id: nohayonline:43953090e859c9a2a207

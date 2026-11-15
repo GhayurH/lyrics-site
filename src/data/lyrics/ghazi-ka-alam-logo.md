@@ -31,13 +31,13 @@ romanLyrics: |-
   3
   Sar aaj bhi uncha hai har ek namaazi ka
   Islaam yaqinan ye ehsaan hai Ghazi ka
-  Jo aaj talak teri saansoṅ mein haraarat hai
+  Jo aaj talak teri saansoṅ meiṅ haraarat hai
   Taazim karo is ki Zehra ki amaanat hai
 
   4
   Maula ki zari pichhe aage hai alam dekho
   Karbala ki tarah ab bhi mahsus hua mujh ko
-  Maatam ke julusoṅ mein Ghazi ki qiyaadat hai
+  Maatam ke julusoṅ meiṅ Ghazi ki qiyaadat hai
   Taazim karo is ki Zehra ki amaanat hai
 
   5

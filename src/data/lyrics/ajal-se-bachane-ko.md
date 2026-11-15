@@ -12,7 +12,7 @@ published: true
 reciter: "Faazil Lakhnavi"
 romanLyrics: |-
   Ajal se bachane ko aansu bahae
-  Magar maaṅ ki godi mein Asghar na aae
+  Magar maaṅ ki godi meiṅ Asghar na aae
 
   1
   Ye himmat thi Asghar ki dunya pe jae
@@ -27,12 +27,12 @@ romanLyrics: |-
   Akela hai jhula kahaṅ tak jhulae
 
   4
-  Na Asghar mein dam hai na razi hai Maula
+  Na Asghar meiṅ dam hai na razi hai Maula
   Ye kya dekhte haiṅ nigaheṅ jhukae
 
   5
-  Ajal puchhti hai Shah-e-Diṅ se ran mein
-  Kise la rahe haiṅ aba mein chhupae
+  Ajal puchhti hai Shah-e-Diṅ se ran meiṅ
+  Kise la rahe haiṅ aba meiṅ chhupae
 # source_id: nohayonline:9ddf54c2fbc921850548
 # source_url: https://www.nohayonline.com/details_content.php?id=1198
 # raw_sha256: b7e3f919607f246b0ab486638c4db0abe9ec7c06752b314e9e8c17811a384863

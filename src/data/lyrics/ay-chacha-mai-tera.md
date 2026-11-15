@@ -1,6 +1,6 @@
 ---
 title: "اے چچا میں تیرا سجاد ہوں پہچان مجھے"
-alternateTitle: "Ae Chacha Main Tera"
+alternateTitle: "Ae Chacha Maiṅ Tera"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: ["Ay Chacha Mai Tera"]
 published: true
 romanLyrics: |-
-  Ae chacha main tera Sajjad huṅ pehchaan mujhe
+  Ae chacha maiṅ tera Sajjad huṅ pehchaan mujhe
   Khaa gaye haaye sitam Shaam ke zindaan mujhe
 
   1
@@ -31,7 +31,7 @@ romanLyrics: |-
 
   4
   Kabhi zindaanoṅ se guzra kabhi darbaaroṅ se
-  Dard sehte hue guzra huṅ main bazaaroṅ se
+  Dard sehte hue guzra huṅ maiṅ bazaaroṅ se
   Gaam dar gaam rulaate the Musalmaan mujhe
 
   5
@@ -45,7 +45,7 @@ romanLyrics: |-
   Bhari basti bhi nazar aati hai wiraan mujhe
 
   7
-  Main lahu rota tha wo zakhm lagaate the mujhe
+  Maiṅ lahu rota tha wo zakhm lagaate the mujhe
   Shaami paani ki jagah pyaas pilaate the mujhe
   Qaidkhaanoṅ meiṅ rakha jaata tha mehmaan mujhe
 
@@ -55,8 +55,8 @@ romanLyrics: |-
   Sone deta nahiṅ hamshir ka ye dhyaan mujhe
 
   9
-  Nauha Aabid ka tha jab aaye watan Noor Ali
-  Pit kar sar yehi karte the sukhan Noor Ali
+  Nauha Aabid ka tha jab aaye watan Nur Ali
+  Pit kar sar yehi karte the sukhan Nur Ali
   Dafn karna pare khud haathoṅ se armaan mujhe
 # source_id: nohayonline:38d5a9a95967f14e60cd
 # source_url: https://www.nohayonline.com/details_content.php?id=1133

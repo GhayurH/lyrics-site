@@ -15,8 +15,8 @@ romanLyrics: |-
   Maadar ke laboṅ par hai ye nauha Ali Asghar
 
   1
-  Pehlu mein mere aaj se soegi Sakina
-  Tum baap ki aaghosh mein sona Ali Asghar
+  Pehlu meiṅ mere aaj se soegi Sakina
+  Tum baap ki aaghosh meiṅ sona Ali Asghar
 
   2
   Sar saare shahidoṅ ke uthe nezoṅ pe lekin
@@ -27,12 +27,12 @@ romanLyrics: |-
   Nezoṅ ne jo dhunda tera laasha Ali Asghar
 
   4
-  Is tarah se rukhsaar tere khun mein tar the
+  Is tarah se rukhsaar tere khun meiṅ tar the
   Maaṅ dekh na paai tera chehra Ali Asghar
 
   5
   Mohsin ka unheṅ dijiyo pursa mere beta
-  Jab god mein leṅ gi tujhe Zahra Ali Asghar
+  Jab god meiṅ leṅ gi tujhe Zahra Ali Asghar
 
   6
   Laai huṅ teri qabr se Maula ko utha kar

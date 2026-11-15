@@ -13,36 +13,36 @@ published: true
 romanLyrics: |-
   Asghar ka laasha dhundte phirte the jab adu
   Naize chubho chubho ke sar-e-dasht chaar suṅ
-  Ek baar gunji dasht-e-bayaabaaṅ mein ye sada
+  Ek baar gunji dasht-e-bayaabaaṅ meiṅ ye sada
   Baba jaan baba jaaṅ baba jaan baba jaaṅ
 
   1
   Barchi ki ani qabr talak aayi hai baba
-  Asghar ne bhi seene pe sinaaṅ khaayi hai baba
+  Asghar ne bhi sine pe sinaaṅ khaayi hai baba
 
   2
   Jab asr ko sab chaahne waale gaye maare
   Nusrat ko chala jhule se haathoṅ pe tumhaare
-  Hal min ki sada ran mein mujhe laayi hai baba
+  Hal min ki sada ran meiṅ mujhe laayi hai baba
 
   3
   Waaqif the sitamgar bhi meri tashnalabi se
-  Hai pyaas bujhayi meri ek teer chala ke
+  Hai pyaas bujhayi meri ek tir chala ke
   Saadaat pe ummat ne jafa dhaayi hai baba
 
   4
-  Tay kar ke chala dasht se jab teer ki manzil
-  Paiwast hua naize mein nanha sa mera dil
+  Te kar ke chala dasht se jab tir ki manzil
+  Paiwast hua naize meiṅ nanha sa mera dil
   Tarpaaya badan ruh bhi tarpaayi hai baba
 
   5
-  Seene ko lahu kar diya zaalim ki sinaaṅ ne
+  Sine ko lahu kar diya zaalim ki sinaaṅ ne
   Manzar ye magar dekh liya khaime se maaṅ ne
-  Taqdeer meri maaṅ ko kahaaṅ laayi hai baba
+  Taqdir meri maaṅ ko kahaaṅ laayi hai baba
 
   6
-  Is waqt qayaamat hui maidaan mein barpa
-  Wo neem hua naize se jab mera kaleja
+  Is waqt qayaamat hui maidaan meiṅ barpa
+  Wo nim hua naize se jab mera kaleja
   Yaad-e-Ali Akbar ye mujhe aayi hai baba
 
   7
@@ -53,7 +53,7 @@ romanLyrics: |-
   8
   Khun naize pe rota tha ye sun kar sar-e-Sarwar
   Altaf sada dete the jab naize se Asghar
-  Asghar ne bhi seene pe sinaaṅ khaayi hai baba
+  Asghar ne bhi sine pe sinaaṅ khaayi hai baba
 # source_id: nohayonline:985d45bdc63466e704ef
 # source_url: https://www.nohayonline.com/details_content.php?id=1550
 # raw_sha256: 68dda896a7356d654bb66cb3c78677d1858d7dd5bec31b0f866f741de81a22ee

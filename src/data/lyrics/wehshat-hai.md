@@ -39,12 +39,12 @@ romanLyrics: |-
   Zanjir nahiṅ hilti Sajjad ko sakta hai
 
   7
-  Ye haal hua Bibi sab ka tere maatam mein
+  Ye haal hua Bibi sab ka tere maatam meiṅ
   Bhigi hui aankheṅ haiṅ utra hua chehra hai
 
   8
   Shahid koi Sughra ko jaa kar ye khabar de de
-  Wo chaar baras waali zindaan mein tanha hai
+  Wo chaar baras waali zindaan meiṅ tanha hai
 # source_id: nohayonline:9302f1ab10d62ec5fc90
 # source_url: https://www.nohayonline.com/details_content.php?id=741
 # raw_sha256: 007dc9ad718b7362f6c3100b14eeb93b2245c203b860eaefcc3216b0ff8672be

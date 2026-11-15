@@ -11,30 +11,30 @@ tags: []
 aliases: ["Phupi Baba Chadar"]
 published: true
 romanLyrics: |-
-  Shahid ho gaya Farwa ka laal jab ran mein
-  Rakha khizaaṅ ne qadam ko Hasan ke gulshan mein
+  Shahid ho gaya Farwa ka laal jab ran meiṅ
+  Rakha khizaaṅ ne qadam ko Hasan ke gulshan meiṅ
   Laiṅ ne kar diya Qasim ki laash ko paamaal
   Husain ho gaye sunte hi ye khabar behaal
   Husain apne bhatije ka gham uthaaye hai
-  Rida mein laash ke tukroṅ ko jaa ke laaye hai
+  Rida meiṅ laash ke tukroṅ ko jaa ke laaye hai
 
   Bapa jo hashr ka aalam tha khaime ke andar
-  Lahu mein dubi hui dekh dekh kar chaadar
+  Lahu meiṅ dubi hui dekh dekh kar chaadar
   Sakina ne puchha ye Zainab se ro kar
-  Phuphi baba chaadar mein kya laaye hai
+  Phuphi baba chaadar meiṅ kya laaye hai
 
   1
   Thokareiṅ khaate maqtal se Shaah aate hai
   Puchha Zainab se bachchi ne kya laate haiṅ
-  Amaama hai baba ka kiuṅ khuṅ mein tar
+  Amaama hai baba ka kiuṅ khuṅ meiṅ tar
 
   2
-  Aa ke dekha jo khaime mein Shabbir ko
+  Aa ke dekha jo khaime meiṅ Shabbir ko
   Kaaṅpta paaya Zainab dilgir ko
   Boli Zainab ke daaman ko wo thaam kar
 
   3
-  Shah ke haathoṅ mein dekhi jo gathri bandhi
+  Shah ke haathoṅ meiṅ dekhi jo gathri bandhi
   Haaye maasum bachchi ye kehne lagi
   Dil phata jaata hai mera ye dekh kar
 
@@ -51,7 +51,7 @@ romanLyrics: |-
   6
   Haaye apnoṅ se kuchh bhi chhupaate nahiṅ
   Ae ammaaṅ ye baba bataate nahiṅ
-  Thak chuki huṅ main ye baaraha puchh kar
+  Thak chuki huṅ maiṅ ye baaraha puchh kar
 
   7
   Kis ka ye jism hai jo ke paamaal hai
@@ -65,18 +65,18 @@ romanLyrics: |-
 
   9
   Kabhi bhi ye sadma na seh paaogi
-  Jo dekhogi chaadar mein mar jaaogi
+  Jo dekhogi chaadar meiṅ mar jaaogi
   Haaye zid na karo meri nur-e-nazar
 
   10
   Jis ko ghoroṅ ki taapoṅ se raunda gaya
-  Us ka laasha ye gathri mein laaya gaya
+  Us ka laasha ye gathri meiṅ laaya gaya
   Dikhaai jo chaadar use khol kar
 
   11
   Haaye ye dekhte hi wo ghash kha gayi
   Gir ke mayyat pe Qasim ki kehne lagi
-  Main hargiz na laauṅ gi ye hoṅtoṅ par
+  Maiṅ hargiz na laauṅ gi ye hoṅtoṅ par
 
   12
   Shams likh na saka haaye teri fughaaṅ

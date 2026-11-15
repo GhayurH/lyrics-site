@@ -11,7 +11,7 @@ tags: []
 aliases: ["Ay Baba Hussaina"]
 published: true
 romanLyrics: |-
-  Jab Shaam-e-Gharibaṅ mein yaad-e-padar aayi
+  Jab Shaam-e-Gharibaṅ meiṅ yaad-e-padar aayi
   Ghabra ke Sakina sar-e-maqtal chali aayi
   Daaman tha jala aur laboṅ par tha ye noha
 
@@ -23,7 +23,7 @@ romanLyrics: |-
   1
   Hai aap jahaaṅ baba mujhko bhi bula lije
   Ek baar mujhe apne sine pe sula lije
-  Bin aap ke duniya mein bekaar hai ye jina
+  Bin aap ke duniya meiṅ bekaar hai ye jina
   Aina aina ae baba Husaina
 
   2
@@ -33,19 +33,19 @@ romanLyrics: |-
   Aina aina ae baba Husaina
 
   3
-  Kis samt tumheṅ dhunduṅ maqtal mein bhatakti huṅ
-  Baba ki samajh kar main har laash pe girti huṅ
+  Kis samt tumheṅ dhunduṅ maqtal meiṅ bhatakti huṅ
+  Baba ki samajh kar maiṅ har laash pe girti huṅ
   Imdaad karo meri batlao mujhe rasta
   Aina aina ae baba Husaina
 
   4
-  Kuch der lipat kar main bas aap ke laashe se
+  Kuch der lipat kar maiṅ bas aap ke laashe se
   Wo dard sunaauṅgi baad aap ke jo paaye
-  Har baat bataauṅ main mil jaaye agar laasha
+  Har baat bataauṅ maiṅ mil jaaye agar laasha
   Aina aina ae baba Husaina
 
   5
-  Is dasht mein roti huṅ sab chaahne waaloṅ ko
+  Is dasht meiṅ roti huṅ sab chaahne waaloṅ ko
   Har samt andhera hai tarsi huṅ ujaaloṅ ko
   Baad aap ke ae baba taarik hai ye duniya
   Aina aina ae baba Husaina

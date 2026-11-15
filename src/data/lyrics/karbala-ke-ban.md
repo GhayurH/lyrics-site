@@ -1,6 +1,6 @@
 ---
 title: "کربلا کے رَن میں جب گردن کٹی شبیر کی"
-alternateTitle: "Karbala Ke Ran Mein Jab Gardan Kati Shabbir Ki"
+alternateTitle: "Karbala Ke Ran Meiṅ Jab Gardan Kati Shabbir Ki"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,12 +11,12 @@ tags: []
 aliases: ["Karbala Ke Ban"]
 published: true
 romanLyrics: |-
-  Karbala ke ran mein jab gardan kati Shabbir ki
+  Karbala ke ran meiṅ jab gardan kati Shabbir ki
   Jang is ke baad Zainab ne lari Shabbir ki
 
   1
   Apne pyaaroṅ ke janaaze sab utha kar le gaye
-  Reh gayi jo dasht mein wo laash thi Shabbir ki
+  Reh gayi jo dasht meiṅ wo laash thi Shabbir ki
 
   2
   Haaye marte waqt Akbar ne kiya paani talab
@@ -28,11 +28,11 @@ romanLyrics: |-
 
   4
   Jalte khaimoṅ se uthi Zainab to keh kar ya Ali
-  Shaam mein paiwast kar di roshni Shabbir ki
+  Shaam meiṅ paiwast kar di roshni Shabbir ki
 
   5
-  Zulm ki berehm shab mein der tak jaagi hui
-  Shaam ke zindaaṅ mein bachchi so gayi Shabbir ki
+  Zulm ki berehm shab meiṅ der tak jaagi hui
+  Shaam ke zindaaṅ meiṅ bachchi so gayi Shabbir ki
 
   6
   Tum rihaai paa chuke waqt-e-safar bhi hai magar
@@ -44,10 +44,10 @@ romanLyrics: |-
 
   8
   Baad-e-majlis log saare jaa chuke ghar se magar
-  Der tak us ghar mein maaṅ roti rahi Shabbir ki
+  Der tak us ghar meiṅ maaṅ roti rahi Shabbir ki
 
   9
-  Majlisoṅ mein baaṅtiye fikr-e-Husaini ki ziya
+  Majlisoṅ meiṅ baaṅtiye fikr-e-Husaini ki ziya
   Is ko kehte haiṅ Musaddiq naukri Shabbir ki
 # source_id: nohayonline:ff5bdc0fabe55371e5b9
 # source_url: https://www.nohayonline.com/details_content.php?id=3270

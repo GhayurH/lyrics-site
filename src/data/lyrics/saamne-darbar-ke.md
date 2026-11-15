@@ -22,12 +22,12 @@ romanLyrics: |-
 
   2
   Sar Ali Akbar ka neze par uthaate haiṅ shaqi
-  Sun chuki satrah azaaneṅ be rida Bint-e-Ali
+  Sun chuki satrah azaaneṅ berida Bint-e-Ali
   Ro rahi hai har azaaṅ sun kar Ali Akbar ki maaṅ
 
   3
-  Misl-e-Zehra sar jhukaaye shaamiyoṅ mein aa gayi
-  Chaar barsoṅ mein Sakina par zaifi chhaa gayi
+  Misl-e-Zehra sar jhukaaye shaamiyoṅ meiṅ aa gayi
+  Chaar barsoṅ meiṅ Sakina par zaifi chhaa gayi
   Kaan bhi zakhmi hai gaaloṅ par tamaachoṅ ke nishaaṅ
 
   4
@@ -37,7 +37,7 @@ romanLyrics: |-
 
   5
   Sab se mushkil marhala Sajjad pe Yawar ye tha
-  Shaam ke darbaar mein jab qaafila jaane laga
+  Shaam ke darbaar meiṅ jab qaafila jaane laga
   Parh rahi thi inna lillah us ghari sab bibiyaṅ
 
   6

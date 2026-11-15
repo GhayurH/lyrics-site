@@ -1,6 +1,6 @@
 ---
 title: "سجاد یہ کہتے تھے جگر دیکھو ہمارا"
-alternateTitle: "Sajjad Ye Kehte Thay"
+alternateTitle: "Sajjad Ye Kehte The"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,12 +11,12 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Sajjad ye kehte thay jigar dekho hamara
-  Kis haal mein hai jaari safar dekho hamara
+  Sajjad ye kehte the jigar dekho hamara
+  Kis haal meiṅ hai jaari safar dekho hamara
 
   1
-  Islam bachane ke liye aaye thay ghar se
-  Viraan Madine mein hai ghar dekho hamara
+  Islam bachane ke liye aaye the ghar se
+  Viraan Madine meiṅ hai ghar dekho hamara
 
   2
   Hum raah-e-sadaaqat se hate haiṅ na hateṅge
@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   Kaantoṅ pe pisar chalta hai naize pe padar hai
-  Tabligh mein andaaz-e-safar dekho hamara
+  Tabligh meiṅ andaaz-e-safar dekho hamara
 
   4
   Qurbaan kiya Akbar ko bhi baaba ne ye keh kar
@@ -43,8 +43,8 @@ romanLyrics: |-
   Aati thi sada shaah ki sar dekho hamara
 
   8
-  Hum qaid-e-jafa mein haiṅ to dil Karb o Bala mein
-  Hai ran mein har ek lakht-e-jigar dekho hamara
+  Hum qaid-e-jafa meiṅ haiṅ to dil Karb o Bala meiṅ
+  Hai ran meiṅ har ek lakht-e-jigar dekho hamara
 
   9
   Ye nauha nahiṅ Sibt-e-Payambar ki ata hai

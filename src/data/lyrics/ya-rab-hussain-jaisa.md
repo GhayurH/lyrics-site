@@ -20,18 +20,18 @@ romanLyrics: |-
 
   2
   Majbur itni ho gai Shabbir ki behen
-  Laachaar aisi khalq mein koi behen na ho
+  Laachaar aisi khalq meiṅ koi behen na ho
 
   3
-  Halchal sipaah-e-Shaam mein hai Sibt-e-Mustafa
+  Halchal sipaah-e-Shaam meiṅ hai Sibt-e-Mustafa
   Ghoroṅ ki zad pe laasha-e-Ibn-e-Hasan na ho
 
   4
   Ghusl o kafan na de saki jo apne bhaai ko
-  Majbur do jahaaṅ mein koi behen na ho
+  Majbur do jahaaṅ meiṅ koi behen na ho
 
   5
-  Godi mein apne baap ki paikaan se shahid
+  Godi meiṅ apne baap ki paikaan se shahid
   Asghar ki tarah dusra ghuncha dahan na ho
 
   6
@@ -39,8 +39,8 @@ romanLyrics: |-
   Uryaan ho laasha aur mayassar kafan na ho
 
   7
-  Majlis Anees gham ki hai purse ke waaste
-  Nauha wo kya ke dard ka jis mein sukhan na ho
+  Majlis Anis gham ki hai purse ke waaste
+  Nauha wo kya ke dard ka jis meiṅ sukhan na ho
 # source_id: nohayonline:99cf0ce2096a6ea964e5
 # source_url: https://www.nohayonline.com/details_content.php?id=3435
 # raw_sha256: facf35da6899465d4819d2fa26a5e209e831764ada6baa5ec575fefe4ba90427

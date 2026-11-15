@@ -18,12 +18,12 @@ romanLyrics: |-
   Sheh ko yuṅ Abbas ka bikhra hua laasha mila
 
   1
-  Bibiyoṅ mein wa hijaaba ka ajab kohraam tha
-  Raaste mein bawafa ka jab kata shaana mila
+  Bibiyoṅ meiṅ wa hijaaba ka ajab kohraam tha
+  Raaste meiṅ bawafa ka jab kata shaana mila
 
   2
-  Haath malte reh gaye Shabbir o Zainab dasht mein
-  Ek gathri mein simat kar maaṅ ko jab dulha mila
+  Haath malte reh gaye Shabbir o Zainab dasht meiṅ
+  Ek gathri meiṅ simat kar maaṅ ko jab dulha mila
 
   3
   Jis ka ji chaaha Sakina ko tamaanche maarta
@@ -42,7 +42,7 @@ romanLyrics: |-
   Laasha-e-Akbar par jis dam qaasid-e-Sughra mila
 
   7
-  Uth gaye taazim mein Ummul Banin ke laal ki
+  Uth gaye taazim meiṅ Ummul Banin ke laal ki
   Naam le kar koi Aabid se jo Ghaazi ka mila
 
   8

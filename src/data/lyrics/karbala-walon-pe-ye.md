@@ -10,12 +10,12 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Karbala walon pe ye kaisa Moharram aaya
+  Karbala waloṅ pe ye kaisa Moharram aaya
   Khun tapakta hua Abbas ka parcham aaya
 
   1
   Jaise jaise mere Ghaazi ka alam jhukta gaya
-  Pusht mein Hazrat-e-Shabbir ki bhi kham aaya
+  Pusht meiṅ Hazrat-e-Shabbir ki bhi kham aaya
 
   2
   Karbala dekh le Islaam bachaane ke liye
@@ -24,10 +24,10 @@ romanLyrics: |-
   3
   Apne liye Shabbir ne kab maaṅga tha paani
   Maasum ke rone ke sabab maaṅga tha paani
-  Jab pyaas se maasum ka dam aaya labon par
+  Jab pyaas se maasum ka dam aaya laboṅ par
   Zaalim se Nabi zaade ne tab maaṅga tha paani
   Zaalimoṅ is ko to do bund pila do paani
-  Ab labon par mere beshir ka hai dam aaya
+  Ab laboṅ par mere beshir ka hai dam aaya
 
   4
   Saare mausam to guzar jaate haiṅ aa kar lekin
@@ -36,10 +36,10 @@ romanLyrics: |-
   5
   Rone ke liye naam hi kaafi hai tumhaara
   Hum haṅste hue maah-e-Moharram nahiṅ karte
-  Un haathon ko Ahmad ki shafaaat na milegi
+  Un haathoṅ ko Ahmad ki shafaaat na milegi
   Jo Hazrat-e-Shabbir ka maatam nahiṅ karte
   Chaand Rehaan nazar aaya Moharram ka idhar
-  Khuld mein ashk meri aaṅkh mein paiham aaya
+  Khuld meiṅ ashk meri aaṅkh meiṅ paiham aaya
 reciter: Hasan Sadiq
 # source_id: nohayonline:5a94576452eea72ef391
 # source_url: https://www.nohayonline.com/details_content.php?id=618

@@ -11,37 +11,37 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Amma Fizza main thak gayi chal ke
+  Amma Fizza maiṅ thak gayi chal ke
   Zaalim baithne na deta hai
   Ye beti Ali ki kis se kahe
   Ke zaalim baithne na deta hai
 
   1
   Zehra jo gayi thi zaalim ke
-  Darbaar mein maine puchha tha
+  Darbaar meiṅ maiṅ ne puchha tha
   Amma tu mujhko itna bata
   Darbaar ye kaise hota hai
 
   2
   Sine se laga kar Zahra ne
   Ro ro ke mujhse itna kaha
-  Main sab ko bata sakti huṅ magar
+  Maiṅ sab ko bata sakti huṅ magar
   Dekhuṅ jo tujhe dil rota hai
 
   3
   Amma Fizza tu itna bata
-  Main beti Ali ki huṅ lekin
+  Maiṅ beti Ali ki huṅ lekin
   Zaalim ke ghulamoṅ ne tumko
   Shehzaadi keh ke pukaara hai
 
   4
   Zainab ne mukhaatib ho ke kaha
   Ae zaalim tu itna sun le
-  Hum aaye nahiṅ majburi mein
+  Hum aaye nahiṅ majburi meiṅ
   Teri haar ne hum ko bulaaya hai
 
   5
-  Darbaar ke baahar main thi khari
+  Darbaar ke baahar maiṅ thi khari
   Aur bachchi mujhse puchhti thi
   Bas itna bata dijiye mujhko
   Darbaar ye kaahe sajaaya hai
@@ -53,15 +53,15 @@ romanLyrics: |-
   Kya waqt ne hum ko dikhaaya hai
 
   7
-  Kisi beti ne ye dunya mein nahiṅ dekha ho
+  Kisi beti ne ye dunya meiṅ nahiṅ dekha ho
   Kund khanjar se Baba jiska zabah ho
-  Sar tasht-e-tala mein rakha tha
+  Sar tasht-e-tala meiṅ rakha tha
   Aur zaalim sab se kehta tha
   Ye kis ki bachchi hai jis ne
-  Darbaar mein sab ko rulaaya hai
+  Darbaar meiṅ sab ko rulaaya hai
 
   8
-  Aawaaz suni zanjeeroṅ ki
+  Aawaaz suni zanjiroṅ ki
   Tab Zainab ne Fizza se kaha
   Amma ye kaisa qaidi hai
   Nazroṅ ko jis ne jhukaaya hai

@@ -15,12 +15,12 @@ romanLyrics: |-
   Chehra bhi Sakina ko dikhaaeṅ ge na Abbas
 
   1
-  Kuze liye haathoṅ mein jo atfaal khare haiṅ
+  Kuze liye haathoṅ meiṅ jo atfaal khare haiṅ
   Nazreṅ bhi kabhi un se milaaeṅ ge na Abbas
 
   2
   Naize ki ijaazat hai so naize se lareṅ ge
-  Talwaar kabhi ran mein chalaaeṅ ge na Abbas
+  Talwaar kabhi ran meiṅ chalaaeṅ ge na Abbas
 
   3
   Ji bhar ke unheṅ dekh le ab Saani-e-Zehra

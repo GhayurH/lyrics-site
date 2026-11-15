@@ -40,8 +40,8 @@ romanLyrics: |-
   Zahra ki jaaṅ sharma nahiṅ
 
   4
-  Kis haal mein Karbal se aai
-  Ae Zainab apne shahr mein tu
+  Kis haal meiṅ Karbal se aai
+  Ae Zainab apne shahr meiṅ tu
   Ab is se siwa afsos ho kya
   Pahchaan saki Sughra nahiṅ
   Zahra ki jaaṅ sharma nahiṅ
@@ -57,7 +57,7 @@ romanLyrics: |-
   Ek ghuncha dahan maasum bhi tha
   Naam us ka Asghar rakha tha
   Kiuṅ khaali god Rabaab ki hai
-  Asbaab mein kiuṅ jhula nahiṅ
+  Asbaab meiṅ kiuṅ jhula nahiṅ
   Zahra ki jaaṅ sharma nahiṅ
 
   7

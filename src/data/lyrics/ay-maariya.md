@@ -20,7 +20,7 @@ romanLyrics: |-
 
   2
   Aun o Muhammad se hasiṅ Akbar sa wo maah-e-jabiṅ
-  Wo haami e deen e mubeen raunaq e islam e deen
+  Wo haami e diṅ e mubiṅ raunaq e islam e diṅ
   Abbas sa karyal jawaaṅ Abbas sa yaawar diya
 
   3
@@ -35,7 +35,7 @@ romanLyrics: |-
 
   5
   Tir o sinaaṅ khaaye Husain gardan ko katwaaye Husain
-  Khud khuṅ mein nahaaye Husain ummat ko bakhshwaaye Husain
+  Khud khuṅ meiṅ nahaaye Husain ummat ko bakhshwaaye Husain
   Hum sab ki khaatir shaah ne har shay ko sadqe kar diya
 # source_id: nohayonline:fcbb760f3524ff61fbba
 # source_url: https://www.nohayonline.com/details_content.php?id=3420

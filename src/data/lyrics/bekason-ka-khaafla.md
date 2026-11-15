@@ -32,7 +32,7 @@ romanLyrics: |-
 
   5
   Ya Ilaahi kaise guzre ga ye naazoṅ ka pala
-  Paaoṅ mein chhaale pare haiṅ raasta pur khaar hai
+  Paaoṅ meiṅ chhaale pare haiṅ raasta pur khaar hai
 
   6
   Taaziyaane mat lagaao mat sataao zaalimoṅ
@@ -47,7 +47,7 @@ romanLyrics: |-
   Shaam ke baazaar ki manzil bahut dushwaar hai
 
   9
-  Jo gharaana lut gaya tha dasht mein Gohar kabhi
+  Jo gharaana lut gaya tha dasht meiṅ Gohar kabhi
   Aaj wohi do jahaaṅ ka maalik o mukhtaar hai
 # source_id: nohayonline:92663ff7876fe2530f7d
 # source_url: https://www.nohayonline.com/details_content.php?id=1905

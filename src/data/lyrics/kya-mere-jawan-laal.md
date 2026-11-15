@@ -15,43 +15,43 @@ romanLyrics: |-
   Kya mere jawaaṅ laal ke mar jaane ke din the
 
   1
-  Thi jo hamaare ghar mein nishaani Rasul ki
-  Zainab rida mein apne jise paalti rahi
+  Thi jo hamaare ghar meiṅ nishaani Rasul ki
+  Zainab rida meiṅ apne jise paalti rahi
   Uth uth ke jis ko chumte rahte the raat bhar
   Shabbir ji rahe the jise dekh dekh kar
-  Us chehre ke kya khaak mein bhar jaane ke din the
+  Us chehre ke kya khaak meiṅ bhar jaane ke din the
 
   2
   Pyaase ko maar kar bhi na zaalim ne dam liya
   Sar us ka mere saamne us ne qalam kiya
   Aaraam thori der bhi paaya na khaak par
   Phir se shuru ho gaya is laal ka safar
-  Baazaar mein kab chaand sa sar jaane ke din the
+  Baazaar meiṅ kab chaand sa sar jaane ke din the
 
   3
-  Aaya ye jab jahaaṅ mein phuphi ne khushi khushi
+  Aaya ye jab jahaaṅ meiṅ phuphi ne khushi khushi
   Aazaad ek kaniz thi ki Shirin naam ki
   Aur saath saath ye bhi kaha tha na fikr kar
-  Baraat le ke aauṅ gi us ki main tere ghar
+  Baraat le ke aauṅ gi us ki maiṅ tere ghar
   Pahuṅcha wahaaṅ na us ke jidhar jaane ke din the
 
   4
   Lag jaaye na nazar mere Yusuf jamaal ko
   Dekha nazar na bhar ke kabhi apne laal ko
-  Hai gesuoṅ mein khaak koi saaf to karo
-  Zainab ki main kaniz huṅ insaaf to karo
-  Barchhi kahaaṅ wo dil mein utar jaane ke din the
+  Hai gesuoṅ meiṅ khaak koi saaf to karo
+  Zainab ki maiṅ kaniz huṅ insaaf to karo
+  Barchhi kahaaṅ wo dil meiṅ utar jaane ke din the
 
   5
   Naazuk badan pe zakhm na aane diya kabhi
-  Main ne na us ko dhup mein jaane diya kabhi
+  Maiṅ ne na us ko dhup meiṅ jaane diya kabhi
   Naize pe sar hai aaj badan jalti ret par
-  Pardes mein ye aa ke nahiṅ thi mujhe khabar
+  Pardes meiṅ ye aa ke nahiṅ thi mujhe khabar
   Mehnat ki kamaai yuṅ bikhar jaane ke din the
 
   6
   Waada kiya tha sar pe jo sehra sajaauṅ ga
-  Ghabra na Sughra main tujhe lene ko aauṅ ga
+  Ghabra na Sughra maiṅ tujhe lene ko aauṅ ga
   Dahliz par hai baithi Takallum wo gham gusaar
   Chhe maah se hai us ko baraadar ka intezaar
   Pardes se ye laut ke ghar jaane ke din the

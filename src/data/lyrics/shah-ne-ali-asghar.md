@@ -11,11 +11,11 @@ aliases: []
 published: true
 romanLyrics: |-
   Haae Abbaas kya sunoge mere dard ki khabar
-  Aaya huṅ main Sakina ko behosh chhor kar
+  Aaya huṅ maiṅ Sakina ko behosh chhor kar
   Abbaas yaad hoga Madine se wo safar
   Fehrist parh ke roe the tum jis ke naam par
   Wo Hurmula ke tir se bejaan ho gaya
-  Jhule se aa ke dasht mein bhi Asghar bhi so gaya
+  Jhule se aa ke dasht meiṅ bhi Asghar bhi so gaya
 
   Shaah ne Ali Asghar ko jab dafn kiya hoga
   Abbaas ka laasha to hai uth uth ke gira hoga
@@ -30,7 +30,7 @@ romanLyrics: |-
 
   3
   Neze pe jo bachcha tha aur unt pe maadar thi
-  Dil god mein lene ko bechain raha hoga
+  Dil god meiṅ lene ko bechain raha hoga
 
   4
   Lo qatl ke baad Asghar Akbar se bara nikla
@@ -42,7 +42,7 @@ romanLyrics: |-
 
   6
   Kiuṅ qabr ki taariki dhamkaae Muravvat ko
-  Nauha Ali Asghar ka marqad mein parha hoga
+  Nauha Ali Asghar ka marqad meiṅ parha hoga
 # source_id: nohayonline:64f746bfa22cdce2a667
 # source_url: https://www.nohayonline.com/details_content.php?id=2639
 # raw_sha256: 1ae8fc8e13beab2c37ac19aef4b13ebb3b990755e79fc660b723b2be9aec436d

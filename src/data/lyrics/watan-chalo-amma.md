@@ -15,7 +15,7 @@ romanLyrics: |-
   Bahut hai dil mera muztar watan chalo ammaṅ
 
   1
-  Gale mein daal ke naani ke sab ke sab baaheṅ
+  Gale meiṅ daal ke naani ke sab ke sab baaheṅ
   Har ik shahid ko jis tarah jis qadar chaaheṅ
   Wahiṅ pe royeṅge khul kar watan chalo ammaṅ
 
@@ -25,7 +25,7 @@ romanLyrics: |-
   Watan se dur khule sar watan chalo ammaṅ
 
   3
-  Chhupaae baithe haiṅ sine mein jaane kitne gham
+  Chhupaae baithe haiṅ sine meiṅ jaane kitne gham
   Lipat ke royeṅge Aabid ki beriyoṅ se hum
   Baraa-e-Sibt-e-Payambar watan chalo ammaṅ
 
@@ -35,18 +35,18 @@ romanLyrics: |-
   Na ro sake kabhi khul kar watan chalo ammaṅ
 
   5
-  Sina kaleje mein Akbar ke dekh li hum ne
+  Sina kaleje meiṅ Akbar ke dekh li hum ne
   Chacha guzar gae jaaṅ se na aah ki hum ne
   Hai ek bojh sa dil par watan chalo ammaṅ
 
   6
   Ye khatm hoṅge bhala kab sitam zamaane ke
   Haiṅ kaatte dar o diwaar qaid khaane ke
-  Main mar na jaauṅ yahaaṅ par watan chalo ammaṅ
+  Maiṅ mar na jaauṅ yahaaṅ par watan chalo ammaṅ
 
   7
   Ab aur jhelne haiṅ hum ko kitne aakhir gham
-  Watan se dur bayaabaan-e-Karbala mein hum
+  Watan se dur bayaabaan-e-Karbala meiṅ hum
   Luta chuke haiṅ bhara ghar watan chalo ammaṅ
 # source_id: nohayonline:c5987d5a4404f26de621
 # source_url: https://www.nohayonline.com/details_content.php?id=2921

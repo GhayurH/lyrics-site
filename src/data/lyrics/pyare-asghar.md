@@ -26,7 +26,7 @@ romanLyrics: |-
 
   3
   Tu gaya jab se hai beta tere bin ji na sakuṅ
-  Hai qasam mujh ko meri jaan ab na saaye mein rahuṅ
+  Hai qasam mujh ko meri jaan ab na saaye meiṅ rahuṅ
   Maaṅ ko chehra to dikha maaṅ sadqa utaare Asghar
 
   4
@@ -35,24 +35,24 @@ romanLyrics: |-
   Teri maaṅ tujh pe fida aawaaz suna de Asghar
 
   5
-  Beta roti hai Sakina sun ke ye gham ka sukhan
-  Khun mein tar mere Asghar ko mila kaisa kafan
+  Beta roti hai Sakina sun ke ye gham ka sukhaṅ
+  Khun meiṅ tar mere Asghar ko mila kaisa kafan
   Aakhri ek diya ro ro ke jalaaye Asghar
 
   6
-  Bole Asghar main huṅ kamsin par huṅ Ghazi sa jari
-  Mujh mein Zehra ki mahak hai main bhi huṅ khun-e-Ali
-  Teri godi ka sila maqtal mein dikhaaye Asghar
+  Bole Asghar maiṅ huṅ kamsin par huṅ Ghazi sa jari
+  Mujh meiṅ Zehra ki mahak hai maiṅ bhi huṅ khun-e-Ali
+  Teri godi ka sila maqtal meiṅ dikhaaye Asghar
 
   7
-  Meri saansoṅ mein meri maaṅ teri khushbu hai rachi
-  Aur nigaahoṅ mein hai meri teri mamta hai shabih
+  Meri saansoṅ meiṅ meri maaṅ teri khushbu hai rachi
+  Aur nigaahoṅ meiṅ hai meri teri mamta hai shabih
   Tere pehlu ke bina ab chain na paaye Asghar
 
   8
   Tere Yawar ki dua hai mere Maula Asghar
   Aisi aulaad ataa kar jo ho teri naukar
-  Sun le maaoṅ ki dua godoṅ ko saja de Asghar
+  Sun le maaoṅ ki dua goroṅ ko saja de Asghar
 # source_id: nohayonline:32200dd2f3d5927d888c
 # source_url: https://www.nohayonline.com/details_content.php?id=2556
 # raw_sha256: 7cd23359716cd989ee94063aa4ba220de15584e3cfb2c22f97e4bad56972bb4a

@@ -11,11 +11,11 @@ tags: []
 aliases: ["Aye Wallah"]
 published: true
 romanLyrics: |-
-  Dasht-e-Karbala mein kehti thi Zehra
+  Dasht-e-Karbala meiṅ kehti thi Zehra
   Ae wallah wallah ae wallah
 
   1
-  Ek din mein mera ghar ujar gaya
+  Ek din meiṅ mera ghar ujar gaya
   Ae wallah wallah ae wallah
 
   2
@@ -44,11 +44,11 @@ romanLyrics: |-
   Aaiye Najaf se ab madad ko Daada
   Aayi Haider ki sada haaye Husaina
   Teri himmat pe fida haaye Husaina
-  Jo na kar saka main tu ne kar diya
+  Jo na kar saka maiṅ tu ne kar diya
 
   6
   Ye zamin-e-maqtal khuṅ ugal rahi hai
-  Dasht-e-Karbala mein kaisi bekasi hai
+  Dasht-e-Karbala meiṅ kaisi bekasi hai
   Dar-e-khaime pe behan haaye Husaina
   Hai laboṅ par ye sukhan haaye Husaina
   Teri musibat par roye gi dunya

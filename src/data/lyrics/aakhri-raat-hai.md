@@ -11,14 +11,14 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Shama zindan mein manga de koi
+  Shama zindan meiṅ manga de koi
   Aakhri raat hai Sakina ki
   Jaa rahi hai Husain ki beti
   Aakhri raat hai Sakina ki
 
   1
   Ye jo gardan pe haiṅ rasan ke nishaṅ
-  Saath turbat mein iske jayega
+  Saath turbat meiṅ iske jayega
   Koi Umm-e-Rubab se keh de
   Ab ye chehra nazar na aayega
   Aaj ji bhar ke dekh lo Bibi
@@ -26,16 +26,16 @@ romanLyrics: |-
   2
   Paas baba ke jaane wali hai
   Ab tamache na koi maarega
-  Qabr mein to ghamoṅ ki maari ke
+  Qabr meiṅ to ghamoṅ ki maari ke
   Koi gohar nahiṅ utarega
-  Jaake turbat mein chain payegi
+  Jaake turbat meiṅ chain payegi
 
   3
   Hai Janab-e-Amir ki poti
-  Inteha ispe hai ghareebi ki
+  Inteha ispe hai gharibi ki
   Aalam-e-naza ho gaya taari
   Saans rukne lagi hai bachi ki
-  Resman ab to khol do iski
+  Resmaṅ ab to khol do iski
 
   4
   Rone wali ki chalti saansoṅ ko
@@ -47,22 +47,22 @@ romanLyrics: |-
   5
   Shor ye beriyoṅ ka kehta hai
   Koi uthta hai koi girta hai
-  Hai khabar ye ghareeb bhai ko
+  Hai khabar ye gharib bhai ko
   Dam behan ka nikalne wala hai
   Abhi legi ye aakhri hichki
 
   6
-  Ro ke Sajjad khud se kehte thay
+  Ro ke Sajjad khud se kehte the
   Kaise mayyat uthauṅ ga iski
-  Qaid zanjeer mein hai haath mere
+  Qaid zanjir meiṅ hai haath mere
   Qabr kaise banauṅ ga iski
   Bekafan jayegi behan meri
 
   7
-  Kaisa manzar tha qaid mein Akbar
+  Kaisa manzar tha qaid meiṅ Akbar
   Chaar jaanib tha shor-e-giryaṅ ka
   Laake Sajjad ne Sakina ki
-  Godh mein sar jo rakha baba ka
+  Godh meiṅ sar jo rakha baba ka
   Sar-e-Shabbir se sada aayi
 # source_id: nohayonline:cd40e7e76e8347aad5fe
 # source_url: https://www.nohayonline.com/details_content.php?id=1063

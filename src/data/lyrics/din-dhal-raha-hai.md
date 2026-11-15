@@ -21,8 +21,8 @@ romanLyrics: |-
 
   2
   Rahwaar se Sakina ne ro ro ke ye kaha
-  Rakhna khayaal dasht mein baba Husain ka
-  Is dasht-e-Karbala mein yehi meri aas hai
+  Rakhna khayaal dasht meiṅ baba Husain ka
+  Is dasht-e-Karbala meiṅ yehi meri aas hai
 
   3
   Ye raat ye andhera ye Zehra ki betiyaaṅ
@@ -35,8 +35,8 @@ romanLyrics: |-
   Dilband-e-Fatima hai ye haq ki asaas hai
 
   5
-  Khuṅkhaar ban mein shaam-e-gharibaaṅ bhi aa gayi
-  Din mein tamaam shab ye sada gunjti rahi
+  Khuṅkhaar ban meiṅ shaam-e-gharibaaṅ bhi aa gayi
+  Din meiṅ tamaam shab ye sada gunjti rahi
   Baba tumhaari laadli beti udaas hai
 
   6

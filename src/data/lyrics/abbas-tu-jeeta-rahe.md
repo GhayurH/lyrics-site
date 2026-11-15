@@ -27,7 +27,7 @@ romanLyrics: |-
 
   2
   Teri ghairat aasmaṅ hai naazish-e-Ummul Banin
-  Karbala mein faqr se kehta hai Zainab ka yaqin
+  Karbala meiṅ faqr se kehta hai Zainab ka yaqiṅ
   Mutmain sab Bibiyaṅ haiṅ dekh kar pardanashiṅ
   Kaun chhinega rida
   Abbas tu jita rahe Abbas tu jita rahe
@@ -48,7 +48,7 @@ romanLyrics: |-
 
   5
   Kis qadar ehsaas tha Ahl-e-Haram ki pyaas ka
-  Kat gaye bazu to mashkize ko daantoṅ mein liya
+  Kat gaye bazu to mashkize ko daantoṅ meiṅ liya
   Is ko kehte haiṅ itaat is ko kehte haiṅ wafa
   Gunjti thi ye sada
   Abbas tu jita rahe Abbas tu jita rahe
@@ -56,12 +56,12 @@ romanLyrics: |-
   6
   Quwwat-e-bazu hai tu Sher-e-Khuda ke laal ka
   Yuṅhi lehrata rahe parcham tere iqbal ka
-  Aasra hai Karbala mein tishnalab atfaal ka
+  Aasra hai Karbala meiṅ tishnalab atfaal ka
   Ae Sakina ke chacha
   Abbas tu jita rahe Abbas tu jita rahe
 
   7
-  Jang karne ke liye kab haath mein talwaar li
+  Jang karne ke liye kab haath meiṅ talwaar li
   Sar jhuka kar bhai se daad-e-wafa har baar li
   Nehr se khaime hataye apni khwahish maar li
   Keh rahi hai Fatema
@@ -70,14 +70,14 @@ romanLyrics: |-
   8
   Faqr se takti hai Zainab baap ki tasvir ko
   Hai bahut tujh par bharosa Shah ki hamshir ko
-  Kaun jakrega rasan mein Zainab-e-dilgir ko
+  Kaun jakrega rasan meiṅ Zainab-e-dilgir ko
   Hamsar-e-Sher-e-Khuda
   Abbas tu jita rahe Abbas tu jita rahe
 
   9
   Jab sune Ummul Banin ne Karbala ke waqiat
-  Aamir o Akhtar tasawwur mein the bas Ghazi ke haath
-  Sahn-e-Khana mein bana kar chaar qabreṅ ek saath
+  Aamir o Akhtar tasawwur meiṅ the bas Ghazi ke haath
+  Sahn-e-Khana meiṅ bana kar chaar qabreṅ ek saath
   Ek pa ashkoṅ se likha
   Abbas tu jita rahe Abbas tu jita rahe
 # source_id: nohayonline:4a5d89ad38ad49451e3b

@@ -27,12 +27,12 @@ romanLyrics: |-
   Bhej kar beshir ko paani pilaane ke liye
 
   4
-  Laash-e-Asghar god mein hai aur laashoṅ par nazar
+  Laash-e-Asghar god meiṅ hai aur laashoṅ par nazar
   Shaah kise aawaaz deṅ turbat banaane ke liye
 
   5
   Qabr-e-Asghar khud bana li Fatema ke laal ne
-  God mein jhule ke aadi ko jhulaane ke liye
+  God meiṅ jhule ke aadi ko jhulaane ke liye
 
   6
   Mil gaye Haider ka dil zabt-e-Hasan sabr-e-Husain
@@ -43,7 +43,7 @@ romanLyrics: |-
   Reh gayi aulaad un ki qaid khaane ke liye
 
   8
-  Kiuṅ rahe zulmat mein hum jab ke Nisaar apne Husain
+  Kiuṅ rahe zulmat meiṅ hum jab ke Nisaar apne Husain
   Nur ka minaar hai saare zamaane ke liye
 # source_id: nohayonline:57854ac3c900d20b4ad8
 # source_url: https://www.nohayonline.com/details_content.php?id=3277

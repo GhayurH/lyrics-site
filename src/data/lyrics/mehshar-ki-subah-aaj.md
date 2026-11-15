@@ -10,27 +10,27 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Mehshar ki subah aaj numaayaaṅ hai Shaam mein
-  Kunba Shafi-e-hashr ka hai izdihaam mein
-  Sar nange ruh-e-Fatema hai ehtemaam mein
-  Khaasaan-e-Zuljalaal hai balwa-e-aam mein
+  Mehshar ki subah aaj numaayaaṅ hai Shaam meiṅ
+  Kunba Shafi-e-hashr ka hai izdihaam meiṅ
+  Sar nange ruh-e-Fatema hai ehtemaam meiṅ
+  Khaasaan-e-Zuljalaal hai balwa-e-aam meiṅ
   Jibril ki khuzaadiyaaṅ tashrif laai haiṅ
-  Mushkil kusha ki betiyaaṅ bandi mein aai haiṅ
+  Mushkil kusha ki betiyaaṅ bandi meiṅ aai haiṅ
 
   1
-  Haiṅ bich mein khule huwe Aal-e-Aba ke sar
+  Haiṅ bich meiṅ khule huwe Aal-e-Aba ke sar
   Naizoṅ pe un ke gird haiṅ fauj-e-Khuda ke sar
   Bachchoṅ ke sar buzurgoṅ ke sar aqraba ke sar
   Rote haiṅ waarisoṅ ke saroṅ ko dikha ke sar
   Sar rakh ke zaanuoṅ pe jo waaris ko rote haiṅ
-  Zaalim saroṅ mein naizoṅ ki nokeṅ chubhote haiṅ
+  Zaalim saroṅ meiṅ naizoṅ ki nokeṅ chubhote haiṅ
 
   2
   Naize pe Hurmala ke chamakta hai ek hilaal
   Bikhre huwe haiṅ chaand se muṅh par jhundole baal
   Aulaad waale kehte haiṅ ae Rabb-e-Zuljalaal
   Is bezabaaṅ ke khun ka kis ne kiya wabaal
-  Gardish mein haaye haaye ye kis ka sitaara hai
+  Gardish meiṅ haaye haaye ye kis ka sitaara hai
   Le kar balaayeṅ kehti thi Banu hamaara hai
 
   3
@@ -38,7 +38,7 @@ romanLyrics: |-
   Haazir naqib o haajib o darbaan o chobdaar
   Tegh alam kiye huwe jallaad o naabakaar
   Mujraai behisaab tamaashaai beshumaar
-  Aiwaan mein bhi raqs ka saamaaṅ tamaam tha
+  Aiwaan meiṅ bhi raqs ka saamaaṅ tamaam tha
   Par intezaar-e-itrat-e-Khairul Anaam tha
 
   4
@@ -47,7 +47,7 @@ romanLyrics: |-
   Jallaad o hoshiyaar wo aaye gunahgaar
   Wo aaye bediyaar wo aaye gunahgaar
   Jab se ke aasmaan Khuda ne banaaye haiṅ
-  Aal-e-Rasul aaj hi bandi mein aaye haiṅ
+  Aal-e-Rasul aaj hi bandi meiṅ aaye haiṅ
 
   5
   Roka Umar ne barh ke alam ko sipaah ko
@@ -62,30 +62,30 @@ romanLyrics: |-
   Utro asiro utro adab ka muqaam hai
   Aage to aastaana-e-sultaan-e-Shaam hai
   Dekho to kya jalaal hai kya ehteshaam hai
-  Is ki wila mein arsh ko ham ne hila diya
-  Ghar Panjetan ka khaak mein bilkul mila diya
+  Is ki wila meiṅ arsh ko ham ne hila diya
+  Ghar Panjetan ka khaak meiṅ bilkul mila diya
 
   7
   Sunna ye tha ke sab ke jigar par chhuri chali
   Untoṅ se utri Bibiyaaṅ keh keh ke Ya Ali
   Aaṅkheṅ phira ke reh gayi Bano ki laadli
-  Ruh-e-Husain ko hui jannat mein bekali
+  Ruh-e-Husain ko hui jannat meiṅ bekali
   Taaqat badan ki ghat gayi aur zof barh gaya
   Utre jo besahaare to dam sab ka charh gaya
 
   8
-  Sine mein dam abhi na samaaye the hai ghazab
-  Jo aaye resmaaṅ liye haathoṅ mein beadab
+  Sine meiṅ dam abhi na samaaye the hai ghazab
+  Jo aaye resmaaṅ liye haathoṅ meiṅ beadab
   Ghabra ke puchha bewaaoṅ ne tajwiz kya hai ab
-  Bola Umar ke majlis-e-haakim mein hai talab
+  Bola Umar ke majlis-e-haakim meiṅ hai talab
   Manzur hai ke ruh-e-Ali phir malul ho
-  Majme mein ruh bikhraaye Aal-e-Rasul ho
+  Majme meiṅ ruh bikhraaye Aal-e-Rasul ho
 
   9
   Mazlumiyat se ro ke ye mazlumoṅ ne kaha
   Haakim ki ye khushi hai to phir uzr ham ko kya
-  Baazaar mein to phir chuke bemaqna o rida
-  Aasaan karega mushkil-e-darbaar bhi Khuda
+  Baazaar meiṅ to phir chuke bemaqna o rida
+  Aasaaṅ karega mushkil-e-darbaar bhi Khuda
   Haazir haiṅ le chalo hameṅ gumraahoṅ le chalo
   Sar par nahiṅ Husain jahaaṅ chaaho le chalo
 
@@ -94,7 +94,7 @@ romanLyrics: |-
   Zainab ne barh ke bhaai ke sar ko kiya salaam
   Chillaai kiuṅ zabih-e-Khuda Shaah-e-tishna kaam
   Marzi hai kya huzur ki kehte haiṅ kya Imam
-  Darbaar mit gaya tera khuṅ ran mein beh gaya
+  Darbaar mit gaya tera khuṅ ran meiṅ beh gaya
   Mere liye Yazid ka darbaar reh gaya
 
   11

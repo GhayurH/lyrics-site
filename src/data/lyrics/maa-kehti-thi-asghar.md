@@ -11,16 +11,16 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maaṅ kehti thi Asghar tujhe sine mein chhupa luṅ
+  Maaṅ kehti thi Asghar tujhe sine meiṅ chhupa luṅ
   Barsaat hai tiroṅ ki tujhe kaise bacha luṅ
 
   1
   Garmi ke haiṅ ayyaam kahiṅ saaya nahiṅ hai
-  Is haal mein kaise main tujhe ghar se nikaaluṅ
+  Is haal meiṅ kaise maiṅ tujhe ghar se nikaaluṅ
 
   2
   Kya naara-e-hal min ki sada ne kiya bechain
-  Tu jaata hai aanchal main tere sar pe to daaluṅ
+  Tu jaata hai aanchal maiṅ tere sar pe to daaluṅ
 
   3
   Aaghosh ko wiraan meri kar ke na jaao
@@ -32,19 +32,19 @@ romanLyrics: |-
 
   5
   Ye ahl-e-jafa hai inheṅ insaaṅ na samajhna
-  Kis tarah se main apne kaleje ko sambhaaluṅ
+  Kis tarah se maiṅ apne kaleje ko sambhaaluṅ
 
   6
-  Maidaaṅ mein gaya jo bhi palat kar nahiṅ aaya
-  Ek baar tujhe aur main jhula to jhulaauṅ
+  Maidaaṅ meiṅ gaya jo bhi palat kar nahiṅ aaya
+  Ek baar tujhe aur maiṅ jhula to jhulaauṅ
 
   7
-  Kanghi karuṅ baaloṅ mein tera kurta badal duṅ
-  Main dulha bana kar tujhe armaan nikaaluṅ
+  Kanghi karuṅ baaloṅ meiṅ tera kurta badal duṅ
+  Maiṅ dulha bana kar tujhe armaan nikaaluṅ
 
   8
   Rehaan ne noha Ali Asghar ka likha hai
-  Is nohe ko Farhan main majlis mein suna luṅ
+  Is nohe ko Farhan maiṅ majlis meiṅ suna luṅ
 # source_id: nohayonline:3b9d4b3636a39e7165be
 # source_url: https://www.nohayonline.com/details_content.php?id=3436
 # raw_sha256: 648699e260c2200454afa2ec86cbc07b43a35d8ea55f176c2adf5387888d8c2f

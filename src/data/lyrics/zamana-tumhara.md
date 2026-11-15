@@ -15,10 +15,10 @@ romanLyrics: |-
   Dekho ya Husain saara jag hai tumhara
 
   1
-  Wo sada-e-hal min jo kal gunj rahi thi sehra mein
-  Aaj talak sadiyoṅ se wohi gunj rahi hai dunya mein
-  Aap akele the Maula ab saari dunya saath mein hai
-  Saath bhi aisa de ab sab ka jina marna saath mein hai
+  Wo sada-e-hal min jo kal gunj rahi thi sehra meiṅ
+  Aaj talak sadiyoṅ se wohi gunj rahi hai dunya meiṅ
+  Aap akele the Maula ab saari dunya saath meiṅ hai
+  Saath bhi aisa de ab sab ka jina marna saath meiṅ hai
   Ya Maula ya Husain
   Saara zamana haaṅ ye saara zamana
   Hai tumhara ya Husain
@@ -29,7 +29,7 @@ romanLyrics: |-
   Maula Maula Husain Husain Husain
 
   2
-  Roz-e-aashura laakhoṅ mein tanha
+  Roz-e-aashura laakhoṅ meiṅ tanha
   Husain hum ko bula rahe the
   Hal min ka naara hai ye ishaara
   Husain sab ko jaga rahe the
@@ -47,7 +47,7 @@ romanLyrics: |-
   Maula Maula Husain Husain Husain
 
   3
-  Kal the akele Karb o Bala mein
+  Kal the akele Karb o Bala meiṅ
   Husain koi na tha tumhara
   Aur aaj aalam pukaarta hai
   Husain hamara Husain hamara
@@ -71,7 +71,7 @@ romanLyrics: |-
   Tumhari jaanib rawaaṅ dawaaṅ hai
   Labbaik Maula labbaik Maula
   Yehi sadaayeṅ zabaaṅ zabaaṅ hai
-  Har kaarwaaṅ mein har ek zabaaṅ mein
+  Har kaarwaaṅ meiṅ har ek zabaaṅ meiṅ
   Naam aa raha hai Husain ka
   Sab ka pyara ya Husain
   Sab ka naara ya Husain
@@ -85,13 +85,13 @@ romanLyrics: |-
   Ye gunjega ye gunjega ye gunjega
   Ye gunjega ye gunjega
   Haaṅ naam Husain ka gunjega
-  Sab galiyoṅ mein sab raahoṅ mein
-  Sab shahroṅ mein maidaanoṅ mein
-  Dil ki dharkan dharkan mein
-  Ghar ghar mein aangan aangan mein
-  Sehraaoṅ mein daryaaoṅ mein
-  Sab zehnoṅ mein haaṅ lehjoṅ mein
-  Naaroṅ mein baatoṅ baatoṅ mein
+  Sab galiyoṅ meiṅ sab raahoṅ meiṅ
+  Sab shahroṅ meiṅ maidaanoṅ meiṅ
+  Dil ki dharkan dharkan meiṅ
+  Ghar ghar meiṅ aangan aangan meiṅ
+  Sehraaoṅ meiṅ daryaaoṅ meiṅ
+  Sab zehnoṅ meiṅ haaṅ lehjoṅ meiṅ
+  Naaroṅ meiṅ baatoṅ baatoṅ meiṅ
   Naam Husain ka gunjega
   Saara zamana haaṅ ye saara zamana
   Hai tumhara ya Husain
@@ -125,7 +125,7 @@ romanLyrics: |-
 
   7
   Kya bawafa the Husain wale
-  Jo Karbala mein the paara paara
+  Jo Karbala meiṅ the paara paara
   Sada-e-hal min ko sun rahe the
   Husain ka tha ye istighaasa
   Abbas aao mujh ko sambhaalo
@@ -143,7 +143,7 @@ romanLyrics: |-
   8
   Haazir haiṅ haazir haiṅ Maula
   Pursa lo pursa hamara
-  Har dil mein hai gham tumhara
+  Har dil meiṅ hai gham tumhara
   Hum na bhuleṅge Karbala
   Hum na bhuleṅge Aashura
   Rahega sada ye naara

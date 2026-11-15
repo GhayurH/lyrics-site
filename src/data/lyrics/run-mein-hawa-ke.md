@@ -1,6 +1,6 @@
 ---
 title: "رن میں ہوا کے جھونکے نوحہ سنا رہے ہیں"
-alternateTitle: "Ran Mein Hawa Ke"
+alternateTitle: "Ran Meiṅ Hawa Ke"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: ["Run Mein Hawa Ke"]
 published: true
 romanLyrics: |-
-  Ran mein hawa ke jhoṅke nauha suna rahe haiṅ
+  Ran meiṅ hawa ke jhoṅke nauha suna rahe haiṅ
   Chaliye Husain chaliye Qasim bula rahe haiṅ
 
   1
@@ -19,7 +19,7 @@ romanLyrics: |-
   Gulguṅ badan pe ghore dauraae jaa rahe haiṅ
 
   2
-  Ran mein mile to kaise Qasim ki laash un ko
+  Ran meiṅ mile to kaise Qasim ki laash un ko
   Abbas ko Shah-e-diṅ tukre dikhaa rahe haiṅ
 
   3
@@ -31,11 +31,11 @@ romanLyrics: |-
   Ab tak zamaane waale mehndi uthaa rahe haiṅ
 
   5
-  Taqsim ho chuke the is darja ran mein Qasim
+  Taqsim ho chuke the is darja ran meiṅ Qasim
   Sarwar aba bichhaa kar laasha uthaa rahe haiṅ
 
   6
-  Ye Karbala ka dulha ran mein shabaab par tha
+  Ye Karbala ka dulha ran meiṅ shabaab par tha
   Qasim ko duniya waale dulha bana rahe haiṅ
 
   7
@@ -55,8 +55,8 @@ romanLyrics: |-
   Dekho ye Ahl-e-Kufa hum ko sata rahe haiṅ
 
   11
-  Nusrat mein Shaah-e-diṅ ki Iqbal dekho Qasim
-  Pyaase hi aae ran mein pyaase hi jaa rahe haiṅ
+  Nusrat meiṅ Shaah-e-diṅ ki Iqbal dekho Qasim
+  Pyaase hi aae ran meiṅ pyaase hi jaa rahe haiṅ
 # source_id: nohayonline:35c1f139fe8f53766013
 # source_url: https://www.nohayonline.com/details_content.php?id=3261
 # raw_sha256: 0e62ad404d4f7fa480694b3666cbdcb17297ff4fa1625b863c66f1257d069578

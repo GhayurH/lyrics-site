@@ -14,13 +14,13 @@ romanLyrics: |-
   Lut gaya Husain lut gaya Husain
   Khatm ho gaya khatm ho gaya
 
-  Ek din mein sab Husain ka ghar khatm ho gaya
+  Ek din meiṅ sab Husain ka ghar khatm ho gaya
   Zehra ki hasratoṅ ka safar khatm ho gaya
 
   1
-  Ran mein Hasan ke laal ko paamaal kar diya
+  Ran meiṅ Hasan ke laal ko paamaal kar diya
   Is gham ne ek maaṅ ka bura haal kar diya
-  Rahwaar ke sumoṅ mein pisar khatm ho gaya
+  Rahwaar ke sumoṅ meiṅ pisar khatm ho gaya
 
   2
   Ek laash aane waali hai khud ko sambhaalna
@@ -34,7 +34,7 @@ romanLyrics: |-
 
   4
   Zainab ke dil pa koh-e-masaaib gira diye
-  Maqtal mein do charaagh ajal ne bujha diye
+  Maqtal meiṅ do charaagh ajal ne bujha diye
   Ek maaṅ ki god lut gayi ghar khatm ho gaya
 
   5
@@ -53,14 +53,14 @@ romanLyrics: |-
   Ae Karbala shuur-e-bashar khatm ho gaya
 
   8
-  Wo gham tha umr kat gayi ranj o malaal mein
-  Baba ko itna roye hai chaalis saal mein
+  Wo gham tha umr kat gayi ranj o malaal meiṅ
+  Baba ko itna roye hai chaalis saal meiṅ
   Abid ka saara khun-e-jigar khatm ho gaya
 
   9
   Maqbuliyat ko Aamir o Akhtar ye kam nahiṅ
-  Wo kaunsi hai aankh jo majlis mein nam nahiṅ
-  Nauhe mein kaise keh deṅ asar khatm ho gaya
+  Wo kaunsi hai aankh jo majlis meiṅ nam nahiṅ
+  Nauhe meiṅ kaise keh deṅ asar khatm ho gaya
 # source_id: nohayonline:02cb497dd6d9edc80a5d
 # source_url: https://www.nohayonline.com/details_content.php?id=3110
 # raw_sha256: 097c07fe238b1d32486b1fc5230c2c3104876fa2880404351dd0e0b776347353

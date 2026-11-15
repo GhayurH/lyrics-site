@@ -14,7 +14,7 @@ romanLyrics: |-
   Sallallahu alaihi wa sallam
 
   Muhammad hamaare bari shaan waale
-  Wo nabiyoṅ mein rehmat laqab paane waale
+  Wo nabiyoṅ meiṅ rehmat laqab paane waale
 
   1
   Khuda jis ke sine pe Quraaṅ utaare
@@ -43,7 +43,7 @@ romanLyrics: |-
 
   6
   Wo Aashur ka din Muhammad ka kunba
-  Jo maqtal mein din ko lahu de raha tha
+  Jo maqtal meiṅ din ko lahu de raha tha
   Ye keh keh ke sinoṅ pe khaaye haiṅ bhaale
 
   7

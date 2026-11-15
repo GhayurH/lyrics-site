@@ -27,7 +27,7 @@ romanLyrics: |-
   Ham se larza hai dahr ke marhabi o antari
 
   4
-  Pehle Allah phir Muhammad baad mein Maula Ali
+  Pehle Allah phir Muhammad baad meiṅ Maula Ali
   Hai yehi haq maa siwa is ke hai din-e-aazari
 
   5
@@ -35,7 +35,7 @@ romanLyrics: |-
   Maatam-e-Sarwar ke zaamin haiṅ jab Ibn-e-Askari
 
   6
-  Ambiya maatam kunaaṅ hai jis ke gham mein wo Husain
+  Ambiya maatam kunaaṅ hai jis ke gham meiṅ wo Husain
   Hai hameiṅ bhi fakhr ke ham haiṅ Husaini maatami
 
   7
@@ -52,14 +52,14 @@ romanLyrics: |-
 
   10
   Ek naize se kiya Abbas ne darya fatah
-  Ashqiya mein khauf o hairat ki faraawaani hui
+  Ashqiya meiṅ khauf o hairat ki faraawaani hui
 
   11
   Kab kahaaṅ thehra hai baatil Shah ke gham se saamne
   Haq falak baatil zamiṅ ke se ho koi hamsari
 
   12
-  Hai dua nauhe mein Aijaz o Hasan ke Ishtiaq
+  Hai dua nauhe meiṅ Aijaz o Hasan ke Ishtiaq
   Ae Khuda marham ho qalb-e-Zehra ka ye shaayari
 # source_id: nohayonline:1c8b08299ee4917a8721
 # source_url: https://www.nohayonline.com/details_content.php?id=1489

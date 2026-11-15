@@ -25,7 +25,7 @@ romanLyrics: |-
   Lashkar meiṅ bari dhum hai
 
   2
-  Al-amaan ka shor utha yak ba yak maidaan meiṅ
+  Al-amaaṅ ka shor utha yak ba yak maidaan meiṅ
   Yuṅ laga ke gir hi jaayega falak maidaan meiṅ
   Maut ka naara ye gunja dur tak maidaan meiṅ
   Aa gaye kya Haidar-e-Karraar

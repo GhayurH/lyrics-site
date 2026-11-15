@@ -1,6 +1,6 @@
 ---
 title: "نو لاکھ کا لشکر کی ہم نیند اڑا دیں گے"
-alternateTitle: "Ghazi Hai Bata Denge"
+alternateTitle: "Ghazi Hai Bata Deṅge"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,64 +11,64 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Nau laakh ke lashkar ki hum nind ura denge
-  Ghazi hai bata denge
-  Hum baiat-e-faasiq ke Khaibar ko gira denge
-  Ghazi hai bata denge
+  Nau laakh ke lashkar ki hum nind ura deṅge
+  Ghazi hai bata deṅge
+  Hum baiat-e-faasiq ke Khaibar ko gira deṅge
+  Ghazi hai bata deṅge
 
   1
-  Jo sher-e-ilaahi hai hum us ke dil o jaan hai
+  Jo sher-e-ilaahi hai hum us ke dil o jaaṅ hai
   Hum shaah-e-shujaat hai hum sher-e-nayastaaṅ haiṅ
-  Ye ran ki zamiṅ kya hai hum arsh hila denge
-  Ghazi hai bata denge
+  Ye ran ki zamiṅ kya hai hum arsh hila deṅge
+  Ghazi hai bata deṅge
 
   2
   Aankheṅ jo Khuda ki haiṅ un aankhoṅ ke taare haiṅ
   Haidar ke dulaare haiṅ do maaoṅ ke pyaare haiṅ
-  Takraayega jo hum se hum us ko mita denge
-  Ghazi hai bata denge
+  Takraayega jo hum se hum us ko mita deṅge
+  Ghazi hai bata deṅge
 
   3
-  Do gaam bare aage jurrat hai bhala kis mein
-  Dekhe jo su-e-khaima himmat hai bhala kis mein
-  Khat khainch ke naize se diwaar bana denge
-  Ghazi hai bata denge
+  Do gaam bare aage jurrat hai bhala kis meiṅ
+  Dekhe jo su-e-khaima himmat hai bhala kis meiṅ
+  Khat khainch ke naize se diwaar bana deṅge
+  Ghazi hai bata deṅge
 
   4
-  Zaigham ki nazroṅ mein kya fauj hai kya lashkar
+  Zaigham ki nazroṅ meiṅ kya fauj hai kya lashkar
   Ye Shaam ke shab zaade mar jaaeṅ ge ghut ghut kar
-  Jab ghaiz mein hum in ko naize ki hawa denge
-  Ghazi hai bata denge
+  Jab ghaiz meiṅ hum in ko naize ki hawa deṅge
+  Ghazi hai bata deṅge
 
   5
-  Larne ke liye ran mein is sher-e-dilaawar se
+  Larne ke liye ran meiṅ is sher-e-dilaawar se
   Niklega koi Marhab jab Shaam ke lashkar se
-  Hum faateh-e-Khaibar ka andaaz dikha denge
-  Ghazi hai bata denge
+  Hum faateh-e-Khaibar ka andaaz dikha deṅge
+  Ghazi hai bata deṅge
 
   6
   Kal subh ko Maula ne gar izn-e-wigha bakhsha
   Is Shaam ke lashkar ka anjaam ajab hoga
-  Haibat se jagaaya hai naize se sula denge
-  Ghazi hai bata denge
+  Haibat se jagaaya hai naize se sula deṅge
+  Ghazi hai bata deṅge
 
   7
   Hamshir ki chaadar par parti thi nazar jis dam
   Takta tha su-e-garduṅ kehta yehi Zaigham
-  Parde pe jo aanch aayi suraj ko bujha denge
-  Ghazi hai bata denge
+  Parde pe jo aanch aayi suraj ko bujha deṅge
+  Ghazi hai bata deṅge
 
   8
   Mazluma ne muztar ne bekas ne hazina ne
-  Is mashk ko parcham mein baandha hai Sakina ne
-  Is mashk ki khaatir hum shaanoṅ ko kata denge
-  Ghazi hai bata denge
+  Is mashk ko parcham meiṅ baandha hai Sakina ne
+  Is mashk ki khaatir hum shaanoṅ ko kata deṅge
+  Ghazi hai bata deṅge
 
   9
   Wo mera Bilal aaqa wo shaah-e-wafa Ghazi
   Khaime se su-e-darya ye keh ke chala Ghazi
-  Hum pyaas mein paani ko chullu se gira denge
-  Ghazi hai bata denge
+  Hum pyaas meiṅ paani ko chullu se gira deṅge
+  Ghazi hai bata deṅge
 # source_id: nohayonline:9a0a6661824b05d3c217
 # source_url: https://www.nohayonline.com/details_content.php?id=1423
 # raw_sha256: 66e8c2a3818ac70b074919d3e8e974c300400309524d4bd2c3a23b35df451dcd

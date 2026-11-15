@@ -20,11 +20,11 @@ romanLyrics: |-
   2
   Jahannam hai wajib har us lanati par
   Jise hai adawat Hasan Askari se
-  Sar-e-asr-e-Ashur Karb o Bala mein
+  Sar-e-asr-e-Ashur Karb o Bala meiṅ
   Qaza chahti hai baqa zindagi se
 
   3
-  Andheri gali mein Saqifa tumhara
+  Andheri gali meiṅ Saqifa tumhara
   Hamara talluq hai roshan gali se
   Dar-e-khuld par bole matam ke tamghe
   Na bola na puchha gaya matami se
@@ -32,7 +32,7 @@ romanLyrics: |-
   4
   Ghatae jo Maula Ali ke fazail
   Adawat rakho tum har us maulvi se
-  Diyar-e-jinaṅ mein Areeb-e-sukhan ne
+  Diyar-e-jinaṅ meiṅ Arib-e-sukhan ne
   Kiye kitne tamir ghar shairi se
 # source_id: tajpoints:9fa8fd02ad5c20f27c64
 # source_url: https://tajpoints.com/2022/11/agar-ki-mohabbat-hasan-askari-say-ali.html

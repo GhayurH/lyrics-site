@@ -10,8 +10,8 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ek nanhi si lahad ran mein banaate haiṅ Husain
-  Khaak mein dusre Mohsin ko chhupaate haiṅ Husain
+  Ek nanhi si lahad ran meiṅ banaate haiṅ Husain
+  Khaak meiṅ dusre Mohsin ko chhupaate haiṅ Husain
 
   1
   Daalte jaate haiṅ Asghar ke badan par mitti
@@ -23,7 +23,7 @@ romanLyrics: |-
 
   3
   Laash-e-Hur ne kaha rumaal ye de do jaa kar
-  Zakhm be shir ka haathoṅ se chhupaate haiṅ Husain
+  Zakhm beshir ka haathoṅ se chhupaate haiṅ Husain
 
   4
   Dhundne aaeṅ ge is laash ko neza bardaar
@@ -31,7 +31,7 @@ romanLyrics: |-
 
   5
   Kaha Sughra ne ke mar kar miluṅ gi Sheh se
-  Mujh ko maalum hai har qabr mein aate haiṅ Husain
+  Mujh ko maalum hai har qabr meiṅ aate haiṅ Husain
 
   6
   Laash-e-Abbas pe kehti thiṅ ye Zehra ro ke

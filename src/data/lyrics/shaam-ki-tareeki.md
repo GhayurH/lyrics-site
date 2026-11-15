@@ -14,7 +14,7 @@ romanLyrics: |-
   Shaam shaam shaam
 
   1
-  Shaam ki tareeki mein
+  Shaam ki tariki meiṅ
   Nuri lashkar le kar chalta hai
   Karb o bala ke gham ka suraj
   Dhalta hai na bujhta hai
@@ -27,13 +27,13 @@ romanLyrics: |-
   Jab bhi teri pyaas ki shiddat
   Sunte haiṅ hum Ahl-e-Aza
   Khun barasta hai aankhoṅ se
-  Dil seene mein jalta hai
+  Dil sine meiṅ jalta hai
 
   3
   Us moti ka naam hai Gohar
   Kehti hai taarikh-e-aza
-  Qatra-e-khun jab aankh mein beh kar
-  Farsh-e-aza mein dhalta hai
+  Qatra-e-khun jab aankh meiṅ beh kar
+  Farsh-e-aza meiṅ dhalta hai
 # source_id: nohayonline:bcad1aea81fc5610bf4b
 # source_url: https://www.nohayonline.com/details_content.php?id=1269
 # raw_sha256: e6bf931844ceb4ddcafda5f914921ff878497819d761d5be6c57c126df041e82

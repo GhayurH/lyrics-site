@@ -14,13 +14,13 @@ romanLyrics: |-
   Sun rahe ho sada baaba jaan
 
   Hum kahaaṅ aa gaye ghar kahaaṅ reh gaya
-  Qaid khaane mein nauha Sakina ka tha
+  Qaid khaane meiṅ nauha Sakina ka tha
   Hum kahaaṅ aa gaye ghar kahaaṅ reh gaya
 
   1
   Yaad aata hai guzra zamaana mujhe
-  Le ke baahoṅ mein jhula jhulaana mujhe
-  Main bulaati rahi aur na aaye chacha
+  Le ke baahoṅ meiṅ jhula jhulaana mujhe
+  Maiṅ bulaati rahi aur na aaye chacha
 
   2
   Yaad aata hai pyaara Madina mujhe

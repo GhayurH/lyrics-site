@@ -23,10 +23,10 @@ romanLyrics: |-
 
   2
   Jaa rahi huṅ qaid ho kar haaṅ magar waada raha
-  Mere bhai main kabhi sar jhukne na duṅ gi tera
+  Mere bhai maiṅ kabhi sar jhukne na duṅ gi tera
   Naam ae bhai tera zinda rakhuṅ gi sada
   Teri Karbala ko aam kar ke Shaam apne naam kar ke
-  Aauṅ gi waapas main bhaiya
+  Aauṅ gi waapas maiṅ bhaiya
   Yaad hai mujh ko teri baiat ka wo inkaar
   Zainab ho gayi tayyaar
 
@@ -42,7 +42,7 @@ romanLyrics: |-
   4
   Jab tilaawat tum karo ge naize pe Quraan ki
   Haaṅ ghari wo hogi bhai jit ke aelaan ki
-  Duṅ gi jab main ye sada zinda hai bhai mera
+  Duṅ gi jab maiṅ ye sada zinda hai bhai mera
   Keh do Yazid se ye jaa kar haar hai tera muqaddar
   Jita hai bas bhai mera
   Ae Zamin-e-Karbala ke Sayyad aur sardaar
@@ -67,7 +67,7 @@ romanLyrics: |-
   Zainab ho gayi tayyaar
 
   7
-  Aaṅsu apne poṅchh kar Farhan o Zeeshan Abidi
+  Aaṅsu apne poṅchh kar Farhan o Zishan Abidi
   Khatm Zainab ne kiye keh kar mulaaqaat aakhri
   Bhai ab har daur meiṅ itni hoṅ gi majliseṅ
   Har ghar meiṅ hoga tera maatam aaj se har das Muharram

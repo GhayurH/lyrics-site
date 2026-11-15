@@ -20,17 +20,17 @@ romanLyrics: |-
   Kiuṅ rote haiṅ jab bachchoṅ ne ye puchha lipat kar
   Mere bachchoṅ meri aakhri raat hai
 
-  Ghar mein kohraam tha jab Ali ne kaha
+  Ghar meiṅ kohraam tha jab Ali ne kaha
   Mere bachchoṅ meri aakhri raat hai
 
   Kal yahiṅ se uthega janaaza mera
   Mere bachchoṅ meri aakhri raat hai
 
   1
-  Jab kafan orh kar ghar se jaauṅ ga main
-  Jaanta huṅ bahut yaad aauṅ ga main
-  Mujh ko dhundo ge hujre mein jaa kar magar
-  Chaah kar bhi tumheṅ mil na paauṅ ga main
+  Jab kafan orh kar ghar se jaauṅ ga maiṅ
+  Jaanta huṅ bahut yaad aauṅ ga maiṅ
+  Mujh ko dhundo ge hujre meiṅ jaa kar magar
+  Chaah kar bhi tumheṅ mil na paauṅ ga maiṅ
   Dekh lo chehra ji bhar ke tum baap ka
   Mere bachchoṅ meri aakhri raat hai
 
@@ -39,7 +39,7 @@ romanLyrics: |-
   Ro ke Haidar ne betoṅ se ki guftugu
   Mere sar se jo aaya hai beh kar abhi
   Saaf kar do meri aankh se wo lahu
-  Dekh luṅ main zara betiyoṅ ki rida
+  Dekh luṅ maiṅ zara betiyoṅ ki rida
   Mere bachchoṅ meri aakhri raat hai
 
   3
@@ -47,7 +47,7 @@ romanLyrics: |-
   Na hi tum hoge aur na Husain o Hasan
   Mere Sajjad ko paas laao mere
   Us ne chalna hai kaantoṅ pe seh kar chubhan
-  Bosa le luṅ main Sajjad ke paaoṅ ka
+  Bosa le luṅ maiṅ Sajjad ke paaoṅ ka
   Mere bachchoṅ meri aakhri raat hai
 
   4
@@ -61,9 +61,9 @@ romanLyrics: |-
   5
   Meri ek zarb par dekho rona nahiṅ
   Yaad karna wo khanjar wo jalti zamiṅ
-  Hoga jab maaṅ ki godi mein bete ka sar
+  Hoga jab maaṅ ki godi meiṅ bete ka sar
   Terah zarbeṅ chalaaye ga jis par laiṅ
-  Aakhri baar main chum luṅ wo gala
+  Aakhri baar maiṅ chum luṅ wo gala
   Mere bachchoṅ meri aakhri raat hai
 
   6
@@ -71,14 +71,14 @@ romanLyrics: |-
   Un ka mere ilaawa nahiṅ hai koi
   Tum khayaal un yatimoṅ ka rakhna Hasan
   Baithna saath jab yaad aaye meri
-  Kal se duṅ ga unheṅ kaise main hausla
+  Kal se duṅ ga unheṅ kaise maiṅ hausla
   Mere bachchoṅ meri aakhri raat hai
 
   7
   Ae Raza aur Zishan kya waqt tha
   Haath Zainab ka Shabbar ko sauṅpa gaya
   Sar jhuka kar bahut royi Ummul Banin
-  Aakhri saans mein jab Ali ne kaha
+  Aakhri saans meiṅ jab Ali ne kaha
   Sauṅp duṅ haath Ghaazi ko Shabbir ka
   Mere bachchoṅ meri aakhri raat hai
 # source_id: nohayonline:5104ee49508515b094b6

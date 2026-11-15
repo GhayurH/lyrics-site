@@ -17,7 +17,7 @@ romanLyrics: |-
   Muskura kar khatm Asghar ho gaye
 
   1
-  Karbala ke dasht mein kaisa andhera chha gaya
+  Karbala ke dasht meiṅ kaisa andhera chha gaya
   Aa gayi shaam-e-gharibaaṅ surkh hai khaak-e-shifa
   Jal gaye khaime sar-e-shaam-e-alam
   Kitne manzar khaak ho kar reh gaye
@@ -32,7 +32,7 @@ romanLyrics: |-
   3
   Aaj subh-e-dam ye ghar roshan bhi tha aabaad bhi
   Sab ke waaris the salaamat bhai bhi aulaad bhi
-  Ek hawa aisi chali pardes mein
+  Ek hawa aisi chali pardes meiṅ
   Bezubaaṅ bachche bhi besar ho gaye
 
   4
@@ -42,10 +42,10 @@ romanLyrics: |-
   Daakhil-e-khaima sitamgar ho gaye
 
   5
-  Ek ek qatre ko tarse ban mein atfaal-e-Husain
+  Ek ek qatre ko tarse ban meiṅ atfaal-e-Husain
   Mashk zakhmi khaali kuze laash paamaal-e-Husain
-  Reh gaya maidaan mein bekas ka tan
-  Jashn mein masruf lashkar ho gaye
+  Reh gaya maidaan meiṅ bekas ka tan
+  Jashn meiṅ masruf lashkar ho gaye
 
   6
   Marte dam paani pisar maange padar majbur hai

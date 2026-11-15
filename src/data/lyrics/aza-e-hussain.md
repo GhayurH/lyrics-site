@@ -21,7 +21,7 @@ romanLyrics: |-
   1
   Hameṅ ye tarz-e-ibadat hai jaan se pyari
   Ye ghar ye maal ye aulad is pe sab waari
-  Hamare khun ki gardish mein hai azadari
+  Hamare khun ki gardish meiṅ hai azadari
   Batul-e-paak ke dil ki dua aza-e-Husain
 
   2
@@ -37,10 +37,10 @@ romanLyrics: |-
   Shiaar Aabid-e-bimaar ka aza-e-Husain
 
   4
-  Jahaaṅ mein aaye haiṅ hum Karbala ka gham le kar
+  Jahaaṅ meiṅ aaye haiṅ hum Karbala ka gham le kar
   Jahaaṅ se jaayeṅge ek roz chashm-e-nam le kar
-  Mareṅge haath mein Abbas ka alam le kar
-  Kareṅge qabr mein jaa kar bapa aza-e-Husain
+  Mareṅge haath meiṅ Abbas ka alam le kar
+  Kareṅge qabr meiṅ jaa kar bapa aza-e-Husain
 
   5
   Ye gham ba yaad-e-Shah-e-mashraqain zindabad
@@ -50,7 +50,7 @@ romanLyrics: |-
 
   6
   Zabaaṅ pe nauha hai Akbar ki naujawani ka
-  Diloṅ mein dard hai Asghar ki bezabani ka
+  Diloṅ meiṅ dard hai Asghar ki bezabani ka
   Wo jin ko mil na saka ek ghunt paani ka
   Bataao kiuṅ na kare hum bhala aza-e-Husain
 
@@ -58,10 +58,10 @@ romanLyrics: |-
   Jise hai zulm se nafrat wo karbalayi hai
   Jo haq ka chaahne waala hai apna bhai hai
   Yazidi fikr se apni faqat laraai hai
-  Kisi bhi shakl mein ho bapa aza-e-Husain
+  Kisi bhi shakl meiṅ ho bapa aza-e-Husain
 
   8
-  Wo qaidi jis ne aza ka ye beej boya hai
+  Wo qaidi jis ne aza ka ye bij boya hai
   Wo jis ne tauq-e-giraaṅ aansuoṅ se dhoya hai
   Tarap tarap ke jo chaalis saal roya hai
   Usi se puch Musadiq hai kya aza-e-Husain

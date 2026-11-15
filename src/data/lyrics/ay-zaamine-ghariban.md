@@ -13,16 +13,16 @@ published: true
 romanLyrics: |-
   Ae zaamin-e-gharibaṅ
   Laajpaal Raza Maula sarkaar Raza Maula
-  Rote haiṅ tere gham mein
+  Rote haiṅ tere gham meiṅ
   Ghamkhwaar Raza Maula
 
   1
   Kiuṅ zehr de diya hai Kazim ke gulbadan ko
-  Ghurbat mein maar daala mazlum bewatan ko
+  Ghurbat meiṅ maar daala mazlum bewatan ko
   Phir lut gaya tumhaara ghar baar Raza Maula
 
   2
-  Yasrab mein teri behna karti hai yaad tujhko
+  Yasrab meiṅ teri behna karti hai yaad tujhko
   Bhai se ab mila de parwardigaar mujhko
   Ho na saka behen ko didaar Raza Maula
 

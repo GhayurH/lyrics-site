@@ -29,10 +29,10 @@ romanLyrics: |-
 
   4
   Kaha Sakina ne baaba na paani maanguṅ gi
-  Bula lo khaimoṅ mein jaldi mera chacha Ghaazi
+  Bula lo khaimoṅ meiṅ jaldi mera chacha Ghaazi
 
   5
-  Pukaare jaayeṅ ge Mushtaq hashr mein paiham
+  Pukaare jaayeṅ ge Mushtaq hashr meiṅ paiham
   Dar-e-Batul ke sag haiṅ tere gada Ghaazi
 
   Haiṅ donoṅ baazu tere din ki baqa Ghaazi

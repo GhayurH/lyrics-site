@@ -14,7 +14,7 @@ romanLyrics: |-
   Allah nigehban watan jati huṅ bhai
 
   1
-  Ab aakhri mujra main baja lati huṅ bhai
+  Ab aakhri mujra maiṅ baja lati huṅ bhai
   Ujre hue kunbe ko liye jati huṅ bhai
   Malum nahiṅ laut ke kab aati huṅ bhai
   Dil dub raha hai mera ghabrati huṅ bhai
@@ -33,7 +33,7 @@ romanLyrics: |-
 
   4
   An kahe ko phir laut ke yaad aaegi Zainab
-  Ab tum ko Madine mein kahaṅ paegi Zainab
+  Ab tum ko Madine meiṅ kahaṅ paegi Zainab
   Mar jaegi mar jaegi mar jaegi Zainab
   Dil dub raha hai mera ghabrati huṅ bhai
 
@@ -44,7 +44,7 @@ romanLyrics: |-
   Dil dub raha hai mera ghabrati huṅ bhai
 
   6
-  Khamosh Saeed ab ke nahiṅ zabt ka yara
+  Khamosh Said ab ke nahiṅ zabt ka yara
   Sab Ahl-e-Haram rote the ek hashr tha barpa
   Tha turbat-e-Shabbir pe Zainab ka ye nauha
   Dil dub raha hai mera ghabrati huṅ bhai

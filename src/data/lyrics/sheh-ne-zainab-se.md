@@ -11,23 +11,23 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Sheh ne Zainab se kaha maqtal mein tum aana nahiṅ
+  Sheh ne Zainab se kaha maqtal meiṅ tum aana nahiṅ
   Ae behan khanjar tale bhaai ko tarpaana nahiṅ
 
   1
-  Chhup gaye the is tarah tiroṅ mein sar ta pa Husain
-  Aaye khaime mein to ghar waaloṅ ne pehchaana nahiṅ
+  Chhup gaye the is tarah tiroṅ meiṅ sar ta pa Husain
+  Aaye khaime meiṅ to ghar waaloṅ ne pehchaana nahiṅ
 
   2
   Dekhiye milta hai kab tak laash-e-Sarwar ko kafan
   Waadi-e-ghurbat hai koi apna begaana nahiṅ
 
   3
-  Sheh ko sine se laga kar khuld mein bole Rasul
+  Sheh ko sine se laga kar khuld meiṅ bole Rasul
   Kya meri ummat ne beta tujhe pehchaana nahiṅ
 
   4
-  Qabr mein munh chum kar beshir ka bole Husain
+  Qabr meiṅ munh chum kar beshir ka bole Husain
   Hum bhi aate haiṅ abhi Ae laal ghabraana nahiṅ
 
   5

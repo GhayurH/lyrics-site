@@ -15,19 +15,19 @@ romanLyrics: |-
   Akbar ne to ye Sarwar ne kaha
   Zainab se ijaazat lo beta
   Tum par hai zyada haq us ka
-  Khaime mein phuphi ammaṅ ke jab
+  Khaime meiṅ phuphi ammaṅ ke jab
   Athara baras wala pahuncha
   Maangi jo ijaazat Akbar ne
   Zainab ne pukara ae beta
 
   Athara baras tum ko in haathoṅ se paala hai
-  Main kaise kahuṅ Akbar marne ke liye jaao
+  Maiṅ kaise kahuṅ Akbar marne ke liye jaao
 
   1
   Akbar tujhe dekhuṅ to chalti haiṅ meri saanseṅ
   Kis tarah tujhe zakhmi dekheṅgi meri aankheṅ
   Mere gul badan mere naujawaaṅ
-  Kaleje mein jab lagegi sinaṅ
+  Kaleje meiṅ jab lagegi sinaṅ
   Meri jaan tum na seh paoge
   Tumheṅ kis tarah sambhaalegi maaṅ
   Malum hai Zainab ko naazuk tera sina hai
@@ -35,16 +35,16 @@ romanLyrics: |-
   2
   Ek baar zara apne baaba ki taraf dekho
   Kis tarah uthaaeṅge wo tere janaaze ko
-  Ajab haal hai kamar mein hai kham
+  Ajab haal hai kamar meiṅ hai kham
   Hai Abbas ki judaai ka gham
   Gharib ul watan bahot thak chuka
   Zaifi bhi hai nazar bhi hai kam
   Ae laal mera bhai seh roz ka pyasa hai
 
   3
-  Main paalne waali huṅ itna to mera haq hai
-  Socha tha ke ek din main jab jaauṅgi dunya se
-  Lehad mein mujhe utaarega tu
+  Maiṅ paalne waali huṅ itna to mera haq hai
+  Socha tha ke ek din maiṅ jab jaauṅgi dunya se
+  Lehad meiṅ mujhe utaarega tu
   Ye armaan hai yehi aarzu
   Rahe tu sada mere saamne
   Ruke saans bhi tere ru baru
@@ -52,7 +52,7 @@ romanLyrics: |-
 
   4
   Jab pehle pehel tujhko haathoṅ pe uthaaya tha
-  Ye kehte huwe maine seene se lagaya tha
+  Ye kehte huwe maiṅ ne sine se lagaya tha
   Meri zindagi mere laadle
   Kisi ki tujhe nazar na lage
   Tujhe dekhne ko bechain thi
@@ -61,11 +61,11 @@ romanLyrics: |-
 
   5
   Sughra se kiya waada kya yaad nahiṅ Akbar
-  Bimaar Madine mein mar jaaye na ro ro kar
-  Usay aas hai ke aaoge tum
+  Bimaar Madine meiṅ mar jaaye na ro ro kar
+  Use aas hai ke aaoge tum
   Jo waada kiya nibhaoge tum
   Sakina se wo bahot dur hai
-  Behan se usay milaoge tum
+  Behan se use milaoge tum
   Beta tumheṅ Sughra se wo waada nibhaana hai
 
   6
@@ -73,16 +73,16 @@ romanLyrics: |-
   Hum seh nahiṅ paaeṅge ae laal tere gham ko
   Jabiṅ par teri jo sehra bandhe
   Tamanna hai wo phuphi dekhle
-  Dulhan ko teri sajaauṅgi main
+  Dulhan ko teri sajaauṅgi maiṅ
   Ae mere hasiṅ jawaaṅ laadle
   Zainab ne abhi tujhko dulha bhi banana hai
 
   7
   Ye kehne lage Akbar Zainab ki sada sun ke
-  Afzal to nahiṅ ammaṅ main dilbar-e-Zahra se
+  Afzal to nahiṅ ammaṅ maiṅ dilbar-e-Zahra se
   Akele haiṅ wo nahiṅ hai koi
-  Musibat mein hai zarurat meri
-  Nazar kis tarah milaauṅga main
+  Musibat meiṅ hai zarurat meri
+  Nazar kis tarah milaauṅga maiṅ
   Agar aap ne ijaazat na di
   Kiuṅ aap ke hoṅtoṅ pe is waqt ye nauha hai
 
@@ -92,8 +92,8 @@ romanLyrics: |-
   Duaaeṅ Khuda se karti thi wo
   Mere laal ki Khuda khair ho
   Kaha ya Ali madad kijiye
-  Main rukhsat karuṅ jawaaṅ laal ko
-  Zeeshan o Raza phir na Zainab ne pukaara hai
+  Maiṅ rukhsat karuṅ jawaaṅ laal ko
+  Zishan o Raza phir na Zainab ne pukaara hai
 # source_id: nohayonline:ae2017508d7ddfe2d3af
 # source_url: https://www.nohayonline.com/details_content.php?id=2395
 # raw_sha256: 085b449a638c1975654a5479bbbe01b89b0484f8d857c3265290a39fc57a2a81

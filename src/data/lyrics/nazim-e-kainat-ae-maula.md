@@ -18,7 +18,7 @@ romanLyrics: |-
 
   2
   Hai jalaal-e-Khuda jalaal tera, hai jamaal-e-Nabi jamaal tera
-  Haibat-e-Murtaza bhi hai tujh mein Shah-e-Duldul sawaar ya Mehdi
+  Haibat-e-Murtaza bhi hai tujh meiṅ Shah-e-Duldul sawaar ya Mehdi
 
   3
   Waasta Sayyida ka kar de karam tu Yadullah hai Khuda ki qasam
@@ -49,7 +49,7 @@ romanLyrics: |-
   Hal teri saari mushkileiṅ hoṅ gi tu bhi dil se pukaar ya Mehdi
 
   10
-  Tu hai haakim tu hai Imam-e-Zamaaṅ tere qabze mein hai ye saara jahaaṅ
+  Tu hai haakim tu hai Imam-e-Zamaaṅ tere qabze meiṅ hai ye saara jahaaṅ
   Arsh ko farsh kar de farsh ko Arsh hai tujhe ikhtiyaar ya Mehdi
 
   11

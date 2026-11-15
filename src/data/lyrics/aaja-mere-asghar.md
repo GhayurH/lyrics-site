@@ -21,14 +21,14 @@ romanLyrics: |-
   Aaja mere dilbar mere raj dulaare aaja
 
   2
-  Bhool na jaana Asghar laut ke aana Asghar
-  Bhool na jaana laut ke aana khauf na khaana Asghar
+  Bhul na jaana Asghar laut ke aana Asghar
+  Bhul na jaana laut ke aana khauf na khaana Asghar
   Saath tere hai maadar mere raj dulaare aaja
 
   3
   Haye re kismat meri haye re ghurbat meri
   Haye re kismat haye re ghurbat lut'ti hai daulat meri
-  Kis se kahuṅ main jaa kar mere raj dulaare aaja
+  Kis se kahuṅ maiṅ jaa kar mere raj dulaare aaja
 
   4
   Rahat-e-bekas aaja zaat-e-muqaddas aaja
@@ -36,24 +36,24 @@ romanLyrics: |-
   Chalte haiṅ dil pe khanjar mere raj dulaare aaja
 
   5
-  Aah bharuṅ main kaise zabt karuṅ main kaise
-  Aah bharuṅ main zabt karuṅ main zinda rahuṅ main kaise
+  Aah bharuṅ maiṅ kaise zabt karuṅ maiṅ kaise
+  Aah bharuṅ maiṅ zabt karuṅ maiṅ zinda rahuṅ maiṅ kaise
   Samjhade ye aa kar mere raj dulaare aaja
 
   6
-  Hansliyon wale aaja naazon ke paale aaja
-  Hansliyon wale naazon ke paale mere jiyaale aaja
+  Hansliyoṅ wale aaja naazoṅ ke paale aaja
+  Hansliyoṅ wale naazoṅ ke paale mere jiyaale aaja
   Chhinti hai sar se chaadar mere raj dulaare aaja
 
   7
   Mahv-e-fughaaṅ huṅ Asghar girya-kunaaṅ huṅ Asghar
-  Mahv-e-fughaaṅ huṅ girya-kunaaṅ huṅ main ik maaṅ huṅ Asghar
-  Zabt karuṅ main kiuṅ kar mere raj dulaare aaja
+  Mahv-e-fughaaṅ huṅ girya-kunaaṅ huṅ maiṅ ik maaṅ huṅ Asghar
+  Zabt karuṅ maiṅ kiuṅ kar mere raj dulaare aaja
 
   8
   Laal sada de mujhko khud se mila de mujhko
   Laal sada de khud se mila de chehra dikhaade mujhko
-  Main baithi huṅ dar par mere raj dulaare aaja
+  Maiṅ baithi huṅ dar par mere raj dulaare aaja
 
   9
   Asif Aamir tere donoṅ zaakir tere

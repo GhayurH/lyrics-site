@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zindaan mein Zainab roti hai
+  Zindaan meiṅ Zainab roti hai
   Bhai ka pehla chehlum hai
 
   1

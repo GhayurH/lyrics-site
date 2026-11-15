@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Parcham-e-Islam tujh par salaam
   Maula Ghazi ka alam hi parcham-e-Islam hai
-  Apne jadd-e-amjad se paaya wirsa mein inaam hai
+  Apne jadd-e-amjad se paaya wirsa meiṅ inaam hai
 
   1
   Tu shabih-e-Murtaza aur waaris-e-jaah o hasham
@@ -29,7 +29,7 @@ romanLyrics: |-
   Magar yaqin ye kaamil ke Hazrat-e-Abbas
   Bataur-e-khaas banaaye gaye wafa ke liye
 
-  Kis qadar teri wafa ke charche haiṅ aqwaam mein
+  Kis qadar teri wafa ke charche haiṅ aqwaam meiṅ
   Thi wafa benaam warna tu wafa ka naam hai
 
   4
@@ -50,7 +50,7 @@ romanLyrics: |-
   Kab se Asghar ke liye wo le ke baithi jaam hai
 
   7
-  Hai Ameer apni ibaadat tazkira Shabbir ka
+  Hai Amir apni ibaadat tazkira Shabbir ka
   Madh-e-Aal-e-Rasul karna yehi apna kaam hai
 # source_id: nohayonline:b4fd639db710d35c527c
 # source_url: https://www.nohayonline.com/details_content.php?id=621

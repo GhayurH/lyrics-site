@@ -12,11 +12,11 @@ published: true
 romanLyrics: |-
   1
   Banda hazaar saal ibaadat agar kare
-  Aur zar baqadr-e-koh-e-Uhud raah-e-haq mein de
+  Aur zar baqadr-e-koh-e-Uhud raah-e-haq meiṅ de
   Hajj bhi piyaada paa jo hazaar us ne ho kiye
   Aur begunaah qatl ho woh zulm o jaur se
-  Hubb-e-Ali ki mai nahiṅ gar dil ke jaam mein
-  Jannat ki bu na pahunchegi hargiz masaam mein
+  Hubb-e-Ali ki mai nahiṅ gar dil ke jaam meiṅ
+  Jannat ki bu na pahunchegi hargiz masaam meiṅ
 # source_id: nohayonline:2e8cd59f3afa65218e80
 # source_url: https://www.nohayonline.com/details_content.php?id=2667
 # raw_sha256: 2d8b24b23e4ea5f38007577c92f2313102531b710a0fff3dcae4a1b4f0a7cd36

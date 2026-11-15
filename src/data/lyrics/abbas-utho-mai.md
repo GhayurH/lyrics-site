@@ -10,53 +10,53 @@ aliases: []
 published: true
 reciter: "Anjuman Masoomeen"
 romanLyrics: |-
-  Abbas utho main lutti huṅ
+  Abbas utho maiṅ lutti huṅ
   Baba ki wasiyat yaad karo
   Mujh bekas ki imdaad karo
   Chhinti hai mere sar se chadar
-  Abbas utho main lutti huṅ
+  Abbas utho maiṅ lutti huṅ
 
   1
   Kitna gehra sannata hai
   Wehshat se jigar tharrata hai
-  Is jangal mein main jauṅ kidhar
-  Abbas utho main lutti huṅ
+  Is jangal meiṅ maiṅ jauṅ kidhar
+  Abbas utho maiṅ lutti huṅ
 
   2
-  Jangal mein Sakina khoi hai
+  Jangal meiṅ Sakina khoi hai
   Kya jaane kahaṅ wo soi hai
-  Dhundhuṅ main kahaṅ us ko ja kar
-  Abbas utho main lutti huṅ
+  Dhundhuṅ maiṅ kahaṅ us ko ja kar
+  Abbas utho maiṅ lutti huṅ
 
   3
   Zainab pe ye kaisa waqt aaya
   Hum khaak pe baithe haiṅ bhaiya
   Hai qabr-e-Payambar zer o zabar
-  Abbas utho main lutti huṅ
+  Abbas utho maiṅ lutti huṅ
 
   4
-  Main kab se bulati huṅ tum ko
+  Maiṅ kab se bulati huṅ tum ko
   Faryaad sunati huṅ tum ko
   Aa jao tarai se uth kar
-  Abbas utho main lutti huṅ
+  Abbas utho maiṅ lutti huṅ
 
   5
   Aaghosh-e-Imamat ke paale
   Ae mere rida ke rakhwale
-  Balwe mein khari huṅ nange sar
-  Abbas utho main lutti huṅ
+  Balwe meiṅ khari huṅ nange sar
+  Abbas utho maiṅ lutti huṅ
 
   6
   Dukh dard ke baadal chhaate haiṅ
   Jab Shah-e-Huda yaad aate haiṅ
   Chalte haiṅ mere dil par khanjar
-  Abbas utho main lutti huṅ
+  Abbas utho maiṅ lutti huṅ
 
   7
-  Daaman mein koi dilbar bhi nahiṅ
+  Daaman meiṅ koi dilbar bhi nahiṅ
   Hadd ye hai Ali Asghar bhi nahiṅ
   Akbar bhi gaye barchhi kha kar
-  Abbas utho main lutti huṅ
+  Abbas utho maiṅ lutti huṅ
 # source_id: nohayonline:8ad15f2605b2f9a94b54
 # source_url: https://www.nohayonline.com/details_content.php?id=3253
 # raw_sha256: 8246378c71750f5995016dd71d224e0d59ad2490392abda7c0a53826d8d33d2f

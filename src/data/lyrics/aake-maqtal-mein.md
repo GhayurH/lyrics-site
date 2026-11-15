@@ -1,6 +1,6 @@
 ---
 title: "آ کے مقتل میں صف ماتم بچھاؤ فاطمہ"
-alternateTitle: "Aake Maqtal Mein"
+alternateTitle: "Aake Maqtal Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,12 +11,12 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Aa ke maqtal mein saf-e-matam bichhao Fatima
+  Aa ke maqtal meiṅ saf-e-matam bichhao Fatima
 
   1
-  Dushmanoṅ mein ghir gaya hai aap ka pyara Husain
-  Jaaṅ-ba-lab hai Karbala mein bekas o tanha Husain
-  Tashna lab bete ko seene se laga lo Fatima
+  Dushmanoṅ meiṅ ghir gaya hai aap ka pyara Husain
+  Jaaṅ-ba-lab hai Karbala meiṅ bekas o tanha Husain
+  Tashna lab bete ko sine se laga lo Fatima
 
   2
   Ab na Qasim hai na Akbar hai na Abbas-e-Jari
@@ -24,24 +24,24 @@ romanLyrics: |-
   Asr ka hangaam hai baaliṅ pe aao Fatima
 
   3
-  Garm reti par tadapta hai Nabi ka laadla
-  Gunjti hai Karbala mein wa Husaina ki sada
-  Berida maqtal mein Zainab hai sambhalo Fatima
+  Garm reti par tarapta hai Nabi ka laadla
+  Gunjti hai Karbala meiṅ wa Husaina ki sada
+  Berida maqtal meiṅ Zainab hai sambhalo Fatima
 
   4
   Kya musibat ki ghari hai kya qayamat ka samaaṅ
-  Aaye haiṅ Karbobala mein sarwar-e-kaun o makaaṅ
+  Aaye haiṅ Karbobala meiṅ sarwar-e-kaun o makaaṅ
   Gham ki ye rudaad baba ko sunao Fatima
 
   5
   Allah Allah ibn-e-Haider bekhata maara gaya
-  Reh gayi Zainab tadap kar aur gala kaata gaya
+  Reh gayi Zainab tarap kar aur gala kaata gaya
   Bhai ka pursa behen ko dene aao Fatima
 
   6
   Ro rahi pit ke sar gham ki maari bibiyaaṅ
-  Baap ke gham mein Sakina le rahi hai hichkiyaaṅ
-  Aa ke seene se Sakina ko laga lo Fatima
+  Baap ke gham meiṅ Sakina le rahi hai hichkiyaaṅ
+  Aa ke sine se Sakina ko laga lo Fatima
 
   7
   Arsh wale ro rahe haiṅ ro raha hai aasmaaṅ

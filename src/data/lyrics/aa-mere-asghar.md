@@ -34,7 +34,7 @@ romanLyrics: |-
   4
   Tu hi bata ae mere gul-e-tar
   Dhundhe kahaaṅ ye maadar-e-muztar
-  Maidaaṅ mein aauṅ darya pe jaauṅ
+  Maidaaṅ meiṅ aauṅ darya pe jaauṅ
   Aa mere Asghar
 
   5
@@ -44,14 +44,14 @@ romanLyrics: |-
   Aa mere Asghar
 
   6
-  Saaye mein kaise jayegi maadar
-  Teri lahad hai dhup mein Asghar
-  Saaye mein jaauṅ main mar na jaauṅ
+  Saaye meiṅ kaise jayegi maadar
+  Teri lahad hai dhup meiṅ Asghar
+  Saaye meiṅ jaauṅ maiṅ mar na jaauṅ
   Aa mere Asghar
 
   7
   Koi khushi ka din bhi na aaya
-  Laal mere tu khuṅ mein nahaya
+  Laal mere tu khuṅ meiṅ nahaya
   Khaima sajaauṅ mannat barhaauṅ
   Aa mere Asghar
 # source_id: nohayonline:9753f4d8220eda7f0d19

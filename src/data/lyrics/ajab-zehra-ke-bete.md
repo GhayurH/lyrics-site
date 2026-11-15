@@ -19,12 +19,12 @@ romanLyrics: |-
   Ali-e-Murtaza ke daman-e-dil ka khazana hai
 
   2
-  Lain kehte the Abbas-e-Jari ko qatl kar dalo
-  Agar is aalam-e-ghurbat mein Sarwar ko rulana hai
+  Laiṅ kehte the Abbas-e-Jari ko qatl kar dalo
+  Agar is aalam-e-ghurbat meiṅ Sarwar ko rulana hai
 
   3
   Wafa Ghazi ki kehti thi pharere ka lahu puchho
-  Alam ko bibiyoṅ ke darmiyan khaime mein jaan hai
+  Alam ko bibiyoṅ ke darmiyan khaime meiṅ jaan hai
 
   4
   Kaha Shabbir ne ammaṅ sambhalo haath Ghazi ke
@@ -43,11 +43,11 @@ romanLyrics: |-
   Jigar hai naujawan ka magar naiza purana hai
 
   8
-  Ye keh kar dasht mein Shah turbat-e-Asghar banate haiṅ
+  Ye keh kar dasht meiṅ Shah turbat-e-Asghar banate haiṅ
   Mujhe Ae Zulfiqar ab sabr tera aazmana hai
 
   9
-  Bilal Kazmi taa zindagi Abbas ke gham mein
+  Bilal Kazmi taa zindagi Abbas ke gham meiṅ
   Yuṅhi likh likh ke Masumin ko nauhe sunana hai
 # source_id: nohayonline:122dc9d10c9d0042e086
 # source_url: https://www.nohayonline.com/details_content.php?id=2876

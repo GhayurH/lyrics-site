@@ -14,8 +14,8 @@ romanLyrics: |-
   Shaah ast Husain baadshaah ast Husain
   Diṅ ast Husain diṅ panaah ast Husain
 
-  Maa naukar maula saeen anjo
-  Haan karbal waare saeen anjo
+  Maa naukar maula saiṅ anjo
+  Haaṅ karbal waare saiṅ anjo
   Mere Sayyid mere sardaar
   Karo apna karam sarkar
   Husain saaiṅ
@@ -61,7 +61,7 @@ romanLyrics: |-
   Karo apna karam sarkar
 
   6
-  Kayo maula saeen manzoor dua
+  Kayo maula sain manzur dua
   Moo khe bhi ghurayo karbobala
   Karbala karbala...
 

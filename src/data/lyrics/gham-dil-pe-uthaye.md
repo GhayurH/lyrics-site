@@ -17,7 +17,7 @@ romanLyrics: |-
   Lab par hai fughaaṅ us Bibi ke Kaunain ki tu shahzaadi hai
 
   1
-  Darbaar-e-sitam mein ahl-e-sitam haṅste the meri haalat par
+  Darbaar-e-sitam meiṅ ahl-e-sitam haṅste the meri haalat par
   Hasnain ke baaba se ro kar shahzaadi ye farmaati hai
 
   2
@@ -25,7 +25,7 @@ romanLyrics: |-
   Kya us pe jafaaeṅ guzri jo baaloṅ pe safedi chhaayi hai
 
   3
-  Darbaar mein us pe kya guzri kya ahl-e-sitam ne zulm kiye
+  Darbaar meiṅ us pe kya guzri kya ahl-e-sitam ne zulm kiye
   Baaba ki lahad pe shahzaadi sab haal sunaane aayi hai
 
   4

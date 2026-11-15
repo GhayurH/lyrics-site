@@ -19,7 +19,7 @@ romanLyrics: |-
   1
   Ab safar khatm hai Ibn-e-Zehra
   Lab-e-darya karo khaima barpa
-  Hashr tak hai yahan tum ko rehna
+  Hashr tak hai yahaṅ tum ko rehna
 
   2
   Marte dam bhi na pani milega
@@ -28,7 +28,7 @@ romanLyrics: |-
 
   3
   Laash chaalis din tak tumhari
-  Isi jangal mein uryaṅ rahegi
+  Isi jangal meiṅ uryaṅ rahegi
   Rone wala bhi koi na hoga
 
   4

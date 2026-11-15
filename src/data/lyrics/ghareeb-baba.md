@@ -17,7 +17,7 @@ romanLyrics: |-
   Gharib baba gharib beti
 
   1
-  Tamaache donoṅ ne ban mein khaaye
+  Tamaache donoṅ ne ban meiṅ khaaye
   Hai donoṅ pehlu shikasta haaye
   Wo Ibn-e-Zehra ye Zehra jaisi
 
@@ -33,7 +33,7 @@ romanLyrics: |-
 
   4
   Huwe jo khanjar ke waar sheh par
-  Khari thi pehlu mein un ki dukhtar
+  Khari thi pehlu meiṅ un ki dukhtar
   Wo jitna tarpe wo utna royi
 
   5
@@ -47,9 +47,9 @@ romanLyrics: |-
   Tha wo bhi zakhmi hai ye bhi zakhmi
 
   7
-  Sar us ka sanduq mein rakha hai
-  Rasan mein is ka gala bandha hai
-  Safar mein rehte the donoṅ qaidi
+  Sar us ka sanduq meiṅ rakha hai
+  Rasan meiṅ is ka gala bandha hai
+  Safar meiṅ rehte the donoṅ qaidi
 
   8
   Nibhaya har ek waada jis ne

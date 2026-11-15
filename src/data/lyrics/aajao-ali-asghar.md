@@ -18,28 +18,28 @@ romanLyrics: |-
   Chhoro na mujhe tanha aajao Ali Asghar
 
   2
-  Surat teri ae Asghar phirti hai nigaahoṅ mein
-  Dikhlaai nahiṅ deta in dard ki raahoṅ mein
+  Surat teri ae Asghar phirti hai nigaahoṅ meiṅ
+  Dikhlaai nahiṅ deta in dard ki raahoṅ meiṅ
   Tarpao na yuṅ beta aajao Ali Asghar
 
   3
-  Wo phul sa chehra phir hoga kahaaṅ dunya mein
-  Ab dhundne jaaegi ye maaṅ kahaaṅ dunya mein
-  Jangal mein tum na sona aajao Ali Asghar
+  Wo phul sa chehra phir hoga kahaaṅ dunya meiṅ
+  Ab dhundne jaaegi ye maaṅ kahaaṅ dunya meiṅ
+  Jangal meiṅ tum na sona aajao Ali Asghar
 
   4
-  Thi pyaas gawaahi mein beshir ki aahoṅ mein
-  Ek dard ki dunya hai Shabbir ki baahoṅ mein
+  Thi pyaas gawaahi meiṅ beshir ki aahoṅ meiṅ
+  Ek dard ki dunya hai Shabbir ki baahoṅ meiṅ
   Dil dubta hai mera aajao Ali Asghar
 
   5
-  Bikhre pare haiṅ laashe aauṅ kahaaṅ main ran mein
-  Dil khauf se darta hai karbobala ke ban mein
+  Bikhre pare haiṅ laashe aauṅ kahaaṅ maiṅ ran meiṅ
+  Dil khauf se darta hai karbobala ke ban meiṅ
   Chhoro na mujhe tanha aajao Ali Asghar
 
   6
-  Main raatoṅ mein uth uth ke wo jhula jhulaati thi
-  Ro ro ke tumheiṅ beta lori main sunaati thi
+  Maiṅ raatoṅ meiṅ uth uth ke wo jhula jhulaati thi
+  Ro ro ke tumheiṅ beta lori maiṅ sunaati thi
   Viraan hua jhula aajao Ali Asghar
 
   7
@@ -48,12 +48,12 @@ romanLyrics: |-
   Mar jaaegi wo dukhiya aajao Ali Asghar
 
   8
-  Ab khaak hai baaloṅ mein andher hai aankhoṅ mein
-  Dikhlaai nahiṅ dete tum mujhko bhi khwaaboṅ mein
+  Ab khaak hai baaloṅ meiṅ andher hai aankhoṅ meiṅ
+  Dikhlaai nahiṅ dete tum mujhko bhi khwaaboṅ meiṅ
   Dil mere larazta hai aajao Ali Asghar
 
   9
-  Iqbal ban mein saabir maaṅ ye dua karti hai
+  Iqbal ban meiṅ saabir maaṅ ye dua karti hai
   Maatam jo kar rahe haiṅ unki hi zindagi hai
   Bano ka tha ye nauha aajao Ali Asghar
 # source_id: nohayonline:00f56ad761b045ed3caf

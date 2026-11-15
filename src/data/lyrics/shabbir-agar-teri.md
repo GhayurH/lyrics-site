@@ -14,27 +14,27 @@ romanLyrics: |-
   Na dil rota, na gham hota, na aisa kahiṅ maatam hota
 
   Shabbir agar teri azaadaari na hoti
-  Mazlum ki duniya mein, ye tarafdaari na hoti
+  Mazlum ki duniya meiṅ, ye tarafdaari na hoti
 
   1
   Shabbir ka maqsad jo, samajh leta zamaana
-  Quraaṅ ko samajhne mein, ye dushwaari na hoti
+  Quraaṅ ko samajhne meiṅ, ye dushwaari na hoti
 
   2
   Kya faaeda aankhoṅ ka, reh jaata zara socho
-  In aankhoṅ mein Maula ki, jo gham khwaari na hoti
+  In aankhoṅ meiṅ Maula ki, jo gham khwaari na hoti
 
   3
   Shabbir ke rauze pe, kuch roz jo rehte
   Tum ko kabhi jannat ki, talabgaari na hoti
 
   4
-  Do roz bhi jannat mein, rehna hameṅ mushkil tha
+  Do roz bhi jannat meiṅ, rehna hameṅ mushkil tha
   Zehra tere bachchoṅ ki, jo sardaari na hoti
 
   5
   Ghazi tere jaisa jo, alamdaar na hota
-  Duniya mein alam hote, alamdaari na hoti
+  Duniya meiṅ alam hote, alamdaari na hoti
 
   6
   Sharminda Sakina se, agar hota na paani
@@ -45,8 +45,8 @@ romanLyrics: |-
   Zainab ke khule sar pe, ye sang baari na hoti
 
   8
-  Jannat mein qadam rakhte nahiṅ Sarwar o Rehaan
-  Jannat mein jo Maula ki, azaadaari na hoti
+  Jannat meiṅ qadam rakhte nahiṅ Sarwar o Rehaan
+  Jannat meiṅ jo Maula ki, azaadaari na hoti
 # source_id: nohayonline:2050b95060e446b28bda
 # source_url: https://www.nohayonline.com/details_content.php?id=420
 # raw_sha256: dbcb7cd35f86ecb99e9d3b07397561ed645f59d661c5d8e90d8cef9ccc625bc8

@@ -14,7 +14,7 @@ published: true
 romanLyrics: |-
   1
   Darwaaza-e-Zahra se ata hoti rahe gi
-  Taqsim farishtoṅ mein ghiza hoti rahe gi
+  Taqsim farishtoṅ meiṅ ghiza hoti rahe gi
 
   2
   Bas chaadar-e-Zahra hi masiha hai Nabi ki
@@ -22,7 +22,7 @@ romanLyrics: |-
 
   3
   Shabbir ki maaṅ kehne lagi Wahab ki maaṅ se
-  Ae Bibi tere haq mein dua hoti rahe gi
+  Ae Bibi tere haq meiṅ dua hoti rahe gi
 
   4
   Ae Zahra ke munkir yeh namaaz aisi hai teri

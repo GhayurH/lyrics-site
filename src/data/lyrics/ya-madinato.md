@@ -11,13 +11,13 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Shehr-e-Madina mein phir ho gaya mahshar bapa
+  Shehr-e-Madina meiṅ phir ho gaya mahshar bapa
   Aaya hai ghar laut kar ujra hua qaafila
   Lut gayi Aal-e-Nabi bas gayi Karb o Bala
   Gunjta hai farsh se arsh talak marsiya
 
   1
-  Ya madinato jaddena la takbaleena
+  Ya madinato jaddena la takbalina
   Ya Mustafa haaye ya Mustafa
 
   2
@@ -27,7 +27,7 @@ romanLyrics: |-
   Aaj mazaar-e-Nabi ban gaya maam karha
 
   3
-  Haaye jo rukhsat mein tha aaj wo manzar nahiṅ
+  Haaye jo rukhsat meiṅ tha aaj wo manzar nahiṅ
   Farwa hai Qaasim nahiṅ Laila hai Akbar nahiṅ
   Ujri hui god hai, maaṅ hai to Asghar nahiṅ
   Puchhegi Sughra agar us ko bataauṅgi kya
@@ -45,28 +45,28 @@ romanLyrics: |-
   Kaun bataaye bhala dard bhara maajra
 
   6
-  Dasht mein kaate gaye khushk gale kis tarah
+  Dasht meiṅ kaate gaye khushk gale kis tarah
   Kis tarah karki kamaaṅ tir chale kis tarah
   Kaise ridaaeṅ chhiniṅ, khaime jale kis tarah
-  Aabid-e-Bimaar ki aankhoṅ mein hai sab likha
+  Aabid-e-Bimaar ki aankhoṅ meiṅ hai sab likha
 
   7
-  Kaun bataaye ye kya guzri hai baazaar mein
-  Kitne tamaashaai the Shaam ke darbaar mein
-  Majma-e-Aghyaar mein nargha-e-Kuffaar mein
+  Kaun bataaye ye kya guzri hai baazaar meiṅ
+  Kitne tamaashaai the Shaam ke darbaar meiṅ
+  Majma-e-Aghyaar meiṅ nargha-e-Kuffaar meiṅ
   Fatima ki betiyaaṅ kaisi gayi berida
 
   8
   Maadar-e-Abbas ko kaise sunaani sunaayeṅ
   Kurta hai Shabbir ka naana ko kiunkar dikhaayeṅ
-  Marsiya barsoṅ ka hai lamhoṅ mein kaise sunaayeṅ
+  Marsiya barsoṅ ka hai lamhoṅ meiṅ kaise sunaayeṅ
   Ya Ali batlaaiye kya kare Zainab bhala
 
   9
   Kaun bayaaṅ kar sake Nayyar o Aamir wo bain
-  Chashm-e-Tasavvur mein hai aaj bhi wo shor o shain
+  Chashm-e-Tasavvur meiṅ hai aaj bhi wo shor o shain
   Kaise ye aansu ruke kaise mile dil ko chain
-  Gunjti hai kaan mein aaj talak wo sada
+  Gunjti hai kaan meiṅ aaj talak wo sada
 # source_id: nohayonline:eb390d3d2056296821dd
 # source_url: https://www.nohayonline.com/details_content.php?id=3600
 # raw_sha256: cf02bed3c8cb565b9c8b93074709dbe52ba66a50002ef0acab63edb8d84ad52f

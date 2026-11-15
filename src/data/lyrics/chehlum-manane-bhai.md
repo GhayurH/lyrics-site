@@ -11,11 +11,11 @@ aliases: []
 published: true
 romanLyrics: |-
   Chehlum manaane bhai Zainab tumhaari aayi
-  Phir zulm ke shehr mein deti hui duhaayi
+  Phir zulm ke shehr meiṅ deti hui duhaayi
 
   1
   Bhai wo mera Akbar taskin-e-jaan-e-maadar
-  Jangal mein so raha hai barchhi jigar pe kha kar
+  Jangal meiṅ so raha hai barchhi jigar pe kha kar
   Tasvir Mustafa ki ummat ne hai mitaayi
 
   2
@@ -31,12 +31,12 @@ romanLyrics: |-
   4
   Sab qatl ho gaye jab Aabid pe zulm dhaaye
   Sar se ridaaeṅ chhiniṅ khaime sabhi jalaaye
-  Jab zulm ke shehr mein shaam-e-gharibaaṅ aayi
+  Jab zulm ke shehr meiṅ shaam-e-gharibaaṅ aayi
 
   5
-  Bhai main Shaam ke bhi baazaar mein phiri huṅ
-  Bhai main sar barehna darbaar mein gayi huṅ
-  Ahmed ki main nawaasi main dar badar phiraayi
+  Bhai maiṅ Shaam ke bhi baazaar meiṅ phiri huṅ
+  Bhai maiṅ sar barehna darbaar meiṅ gayi huṅ
+  Ahmed ki maiṅ nawaasi maiṅ dar badar phiraayi
 # source_id: nohayonline:92a571fed00f749bd5c8
 # source_url: https://www.nohayonline.com/details_content.php?id=1765
 # raw_sha256: 928357551d7196175f3a7234330500d05615bf32ad263c4a33ad9efaf787e804

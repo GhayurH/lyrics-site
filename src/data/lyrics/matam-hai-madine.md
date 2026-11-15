@@ -11,19 +11,19 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maatam hai Madine mein Shabbar ki shahaadat ka
+  Maatam hai Madine meiṅ Shabbar ki shahaadat ka
   Shabbir pe aaya hai kya waqt ye ghurbat ka
 
   1
   Tukre dil-e-Shabbar ke dekhega zamaana na phir
-  Aashur ke daaman mein manzar hai qayaamat ka
+  Aashur ke daaman meiṅ manzar hai qayaamat ka
 
   2
   Taabut pe Shabbar ke jab tir-e-sitam aaye
   Abbas pe tha kaisa ye waqt musibat ka
 
   3
-  Kamsin hai ye shahzaada baitha hua sakte mein
+  Kamsin hai ye shahzaada baitha hua sakte meiṅ
   Qasim ko bhi pursa do Shabbar ki shahaadat ka
 
   4
@@ -47,7 +47,7 @@ romanLyrics: |-
   Gham kaise sahe Zainab bhaiya teri furqat ka
 
   9
-  Hai khidmat-e-Shabbar mein maaruza Rasheed itna
+  Hai khidmat-e-Shabbar meiṅ maaruza Rashid itna
   Hum sab ko sharaf de de rauze ki ziyaarat ka
 # source_id: nohayonline:209416863d04a28d7a4a
 # source_url: https://www.nohayonline.com/details_content.php?id=1963

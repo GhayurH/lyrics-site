@@ -12,21 +12,21 @@ aliases: ["Nara E Haideri"]
 published: true
 romanLyrics: |-
   Ya Ali ya Ali ya Ali Murtaza
-  La fata sher-e-Yazdaan ya Iliya
+  La fata sher-e-Yazdaaṅ ya Iliya
   Nara-e-Haideri ya Ali ya Ali
   Bolo dil se sabhi ya Ali ya Ali
 
   1
   Taaj naam-e-Ali hai ibaadaat ka
   Chhoro aisi namaazoṅ ka kya faaida
-  Jin mein naam-e-Ali hi na shaamil hua
+  Jin meiṅ naam-e-Ali hi na shaamil hua
   Is se behtar hai sajda kiya na kiya
   Bin Ali ke ibaadaat ka kya maza
 
   2
   Sar se paa tak Muhammad ki pehchaan hai
-  Mustafa ke badan mein Ali jaan hai
-  Mustafa ne kiya Khum mein ailaan hai
+  Mustafa ke badan meiṅ Ali jaan hai
+  Mustafa ne kiya Khum meiṅ ailaan hai
   Jo Ali ki wilaayat ka farmaan hai
   Hai lab-e-Mustafa se Khuda keh raha
 
@@ -35,19 +35,19 @@ romanLyrics: |-
   Har wali jis ki chaukhat ka mohtaaj hai
   Arsh se farsh tak jis ka hi raaj hai
   Jis ki azmat ka ik naam meraaj hai
-  Woh jo meraaj mein Mustafa se mila
+  Woh jo meraaj meiṅ Mustafa se mila
 
   4
   Haaṅ wasi-e-Rasul-e-Khuda hai Ali
   Na Rasul-e-Khuda se juda hai Ali
   Kab faqat naasir-e-Mustafa hai Ali
   Saare nabiyoṅ ka mushkil kusha hai Ali
-  Mushkiloṅ mein yeh sab ka sahaara bana
+  Mushkiloṅ meiṅ yeh sab ka sahaara bana
 
   5
   Ik Ali hai Ali, ik Ali hai Khuda
   Ik yehi naam hai do jahaaṅ ki baqa
-  Jo bhi is naam ke ishq mein mar gaya
+  Jo bhi is naam ke ishq meiṅ mar gaya
   Zinda hai woh kabhi bhi na hoga fana
   Keh yeh waada Ali ke hai Allah ka
 # source_id: tajpoints:8b982d61ccaa3b8fac51

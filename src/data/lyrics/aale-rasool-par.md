@@ -17,7 +17,7 @@ romanLyrics: |-
   Is tarah koi na ho berida darbaar meiṅ
   Har jaanib hai khaas o aam
   Zainab aur bazaar-e-Shaam
-  Be maqna be chaadar haaye
+  Bemaqna bechaadar haaye
   Fatima Zehra ke gulbaar
   Nauha tha Abid ke lab par
   Haaye haaye Zainab haaye haaye Shaam

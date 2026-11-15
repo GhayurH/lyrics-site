@@ -11,14 +11,14 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Aaj Zainab karegi maqtal mein
+  Aaj Zainab karegi maqtal meiṅ
   Pehla sajda baghair chadar ke
   Roshni aur hawa ne bhi jis ka
   Sar na dekha baghair chadar ke
 
   1
   Jis ko dafna nahiṅ saki Zainab
-  Bekafan tha jo dasht-e-ghurbat mein
+  Bekafan tha jo dasht-e-ghurbat meiṅ
   Apne bhai Husain ka us ne
   Gham manaya baghair chadar ke
 
@@ -31,23 +31,23 @@ romanLyrics: |-
   3
   Jis ka Quraan chehra parhta tha
   Sirf aayaat dekhti thi jise
-  Aaj dekheṅge us ko galiyoṅ mein
+  Aaj dekheṅge us ko galiyoṅ meiṅ
   Ahl-e-Kufa baghair chadar ke
 
   4
   Tum se Zainab na ham kalaam hui
   Meri awaaz na suni tum ne
-  Aao baba sunaauṅ main tum ko
+  Aao baba sunaauṅ maiṅ tum ko
   Aaj khutba baghair chadar ke
 
   5
   Donoṅ zakhmoṅ ne khuṅ rulaaya hai
-  Qabr mein bhi Khuda ki ghairat ko
-  Ek laasha tha bekafan ran mein
+  Qabr meiṅ bhi Khuda ki ghairat ko
+  Ek laasha tha bekafan ran meiṅ
   Ik janaaza baghair chadar ke
 
   6
-  Kaise un chaadaroṅ ke maqtal mein
+  Kaise un chaadaroṅ ke maqtal meiṅ
   Tin din tak khari rahi Zainab
   Jis jagah maut se bhi mushkil tha
   Ik lamha baghair chadar ke
@@ -59,9 +59,9 @@ romanLyrics: |-
   Tum na rona baghair chadar ke
 
   8
-  Khaak baaloṅ mein baal chehre par
+  Khaak baaloṅ meiṅ baal chehre par
   Aur aankhoṅ se ashk jaari hai
-  Qaid khaane mein aise Zainab ka
+  Qaid khaane meiṅ aise Zainab ka
   Saal guzra baghair chadar ke
 
   9

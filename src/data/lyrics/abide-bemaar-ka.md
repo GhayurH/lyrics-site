@@ -23,7 +23,7 @@ romanLyrics: |-
   Pusht se khincha gaya tha bistar Abid-e-Bimar ka
 
   3
-  Maaṅ phuphi behneṅ khari thiṅ berida baazaar mein
+  Maaṅ phuphi behneṅ khari thiṅ berida baazaar meiṅ
   Tha ajab ye imtihaṅ us qaafila-saalaar ka
 
   4

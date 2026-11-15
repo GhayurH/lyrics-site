@@ -28,13 +28,13 @@ romanLyrics: |-
   Mujhe baba ka sar laa do
 
   3
-  Ajab haalat mein dekha tha sar-e-darbaar baba ko
-  Nahiṅ paani mayassar qaid khaane mein Sakina ko
-  Main apne aansuoṅ se dhouṅ gi mazlum ka chehra
+  Ajab haalat meiṅ dekha tha sar-e-darbaar baba ko
+  Nahiṅ paani mayassar qaid khaane meiṅ Sakina ko
+  Maiṅ apne aansuoṅ se dhouṅ gi mazlum ka chehra
   Mujhe baba ka sar laa do
 
   4
-  Main roi jab padar ko Shimr ne badla liya tum se
+  Maiṅ roi jab padar ko Shimr ne badla liya tum se
   Qasam hai mujh ko baba ki mera waada raha tum se
   Sakina na ab na roe gi na ab khaao ge tum durra
   Mujhe baba ka sar laa do
@@ -54,13 +54,13 @@ romanLyrics: |-
   7
   Pareshaaṅ ho agar koi tasalli dete jaate haiṅ
   Suna hai marte dam apnoṅ se milne ko wo aate haiṅ
-  Hai mujh pe naza ka aalam chali main chhor kar dunya
+  Hai mujh pe naza ka aalam chali maiṅ chhor kar dunya
   Mujhe baba ka sar laa do
 
   8
-  Takallum sar jab aaya qaid khaane mein qayaamat thi
+  Takallum sar jab aaya qaid khaane meiṅ qayaamat thi
   Adhuri reh gai baateiṅ hui khaamosh shahzaadi
-  Faza mein gunjta hai Shaadmaaṅ ab tak yahi noha
+  Faza meiṅ gunjta hai Shaadmaaṅ ab tak yahi noha
   Mujhe baba ka sar laa do
 # source_id: nohayonline:efb6182e16e0dd4420b1
 # source_url: https://www.nohayonline.com/details_content.php?id=1573

@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Hai laazawaal deher mein teri wafa Ghaazi
+  Hai laazawaal deher meiṅ teri wafa Ghaazi
   Fana nahiṅ jise mar ke hai wo baqa Ghaazi
 
   Teri wafa Ghaazi hai baqa Ghaazi
@@ -27,7 +27,7 @@ romanLyrics: |-
   Teri wafa Ghaazi hai baqa Ghaazi
 
   3
-  Qayaam-e-Aal-e-Aba mein hua hai hashr bapa
+  Qayaam-e-Aal-e-Aba meiṅ hua hai hashr bapa
   Ali ke laal se jis dam hua juda Ghaazi
   Teri wafa Ghaazi hai baqa Ghaazi
 
@@ -37,8 +37,8 @@ romanLyrics: |-
   Teri wafa Ghaazi hai baqa Ghaazi
 
   5
-  Amir is ka badal koi nahiṅ zamaane mein
-  Jahaaṅ mein mulk-e-wafa ka hai kibriya Ghaazi
+  Amir is ka badal koi nahiṅ zamaane meiṅ
+  Jahaaṅ meiṅ mulk-e-wafa ka hai kibriya Ghaazi
   Teri wafa Ghaazi hai baqa Ghaazi
 # source_id: nohayonline:d31cc19fe8a967753cca
 # source_url: https://www.nohayonline.com/details_content.php?id=2961

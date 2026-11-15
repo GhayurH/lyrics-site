@@ -11,10 +11,10 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Muntazir kab talak main rahuṅ Ae Imam
+  Muntazir kab talak maiṅ rahuṅ Ae Imam
   Meri saanseṅ kahiṅ ho na jaaeṅ tamaam
   Mola Mehdi aa jaaiye
-  Didaar ki aakhri aas mein
+  Didaar ki aakhri aas meiṅ
   Khat likh raha hai ye khaadim tumheṅ
   Mola Mehdi aa jaaiye
 
@@ -28,7 +28,7 @@ romanLyrics: |-
   2
   Faryaadeṅ aur istighaase huzur
   Sarkaar sunte to hoṅge zarur
-  Bechain khud bhi haiṅ ghaibat mein aap
+  Bechain khud bhi haiṅ ghaibat meiṅ aap
   Kab hoga Mola bata deṅ zuhur
   Hum ko na ab aur tarpaaiye
 
@@ -36,7 +36,7 @@ romanLyrics: |-
   Benur kab se mere nain haiṅ
   Tanha azaadaar-e-Bahrain haiṅ
   Kaaba ho ya ke ho Karb o Bala
-  Sab aap ke gham mein bechain haiṅ
+  Sab aap ke gham meiṅ bechain haiṅ
   Sarkaar tashrif le aaiye
 
   4
@@ -64,7 +64,7 @@ romanLyrics: |-
   Hum Jamkaraan aur Sehla gaye
   Ashkoṅ se apne arize likhe
   Girya kiya aur namaazeṅ parhiṅ
-  Jo the jatan bas mein sab kar liye
+  Jo the jatan bas meiṅ sab kar liye
   Har jaa guzaarish thi aa jaaiye
 
   8

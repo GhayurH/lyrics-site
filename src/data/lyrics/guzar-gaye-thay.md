@@ -11,11 +11,11 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Guzar gaye the kayi din ke ghar mein aab na tha
+  Guzar gaye the kayi din ke ghar meiṅ aab na tha
   Magar Husain se saabir ko iztiraab na tha
 
   1
-  Agar bahisht mein hote na Kausar o Tasnim
+  Agar bahisht meiṅ hote na Kausar o Tasnim
   To rone waaloṅ ki aankhoṅ ka phir jawaab na tha
 
   2
@@ -27,7 +27,7 @@ romanLyrics: |-
   Khuda se khauf Muhammad se kuch hijaab na tha
 
   4
-  Ghazab ki jaa hai ke darbaar mein sitamgar ke
+  Ghazab ki jaa hai ke darbaar meiṅ sitamgar ke
   Khari thi Bint-e-Ali aur kuch hijaab na tha
 
   5

@@ -27,7 +27,7 @@ romanLyrics: |-
 
   3
   Ek zaamin-e-chadar hai sabhi Ahl-e-Haram ka
-  Aur ek ki rida dhup mein saaya hai alam ka
+  Aur ek ki rida dhup meiṅ saaya hai alam ka
   Ek dhaaras-e-Shabbir hai ek qalb-e-Hasan hai
 
   4
@@ -36,7 +36,7 @@ romanLyrics: |-
   Ek tashna-e-paikaar hai ek tashna dahaaṅ hai
 
   5
-  Donoṅ hi Alamdar-e-Wafa hain sar-e-maidaaṅ
+  Donoṅ hi Alamdar-e-Wafa haiṅ sar-e-maidaaṅ
   Ye asr se pehle wo pas-e-Shaam-e-Gharibaaṅ
   Kaanpa hua sahma hua donoṅ hi se ran hai
 
@@ -48,7 +48,7 @@ romanLyrics: |-
   7
   Bazu the bandhe sar tha khula jab ke behan ka
   Bebazu Alamdar tha mohtaj kafan ka
-  Donoṅ ke kalejoṅ mein musalsal ye chubhan hai
+  Donoṅ ke kalejoṅ meiṅ musalsal ye chubhan hai
 
   8
   Wo bar sar-e-neza tha ye kaantoṅ pe rawaṅ thi
@@ -56,14 +56,14 @@ romanLyrics: |-
   Ye khun ki tasvir hai rishtoṅ ki lagan hai
 
   9
-  Abbas ki ek aankh mein jab teer chubha tha
+  Abbas ki ek aankh meiṅ jab tir chubha tha
   Dil thaam ke Zainab ne basad dard kaha tha
-  Majbur huṅ bhaiya mere haathoṅ mein rasan hai
+  Majbur huṅ bhaiya mere haathoṅ meiṅ rasan hai
 
   10
   Rehaan o Raza Zainab o Ghazi ki dua hai
   Wallah ye Shahzadi Sakina ki ata hai
-  Is nohe mein taaid-e-Shahanshah-e-Zaman hai
+  Is nohe meiṅ taaid-e-Shahanshah-e-Zaman hai
 # source_id: nohayonline:910a5fdb3865d7a9c67a
 # source_url: https://www.nohayonline.com/details_content.php?id=2385
 # raw_sha256: b59e584165340a5b3d09f9ea9a384908ddd43057d9485619ee022c991d539738

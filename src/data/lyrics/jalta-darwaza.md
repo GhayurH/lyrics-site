@@ -28,7 +28,7 @@ romanLyrics: |-
 
   2
   Zakhmi haathoṅ se ye darwaza sambhaaluṅ kaise
-  Kil dar aayi hai sine mein nikaaluṅ kaise
+  Kil dar aayi hai sine meiṅ nikaaluṅ kaise
   Ae meri behen Fizza imdaad karo aa kar
   Darwaza giraaya hai aada ne mere upar
   Almadad ya Fizza almadad ya Fizza
@@ -37,7 +37,7 @@ romanLyrics: |-
 
   3
   Dard-e-pehlu mujhe uthne nahiṅ deta behna
-  Chhaa gaya hai meri aaṅkhoṅ mein andhera behna
+  Chhaa gaya hai meri aaṅkhoṅ meiṅ andhera behna
   Ae meri behen Fizza imdaad karo aa kar
   Darwaza giraaya hai aada ne mere upar
   Almadad ya Fizza almadad ya Fizza
@@ -45,7 +45,7 @@ romanLyrics: |-
   Almadad ya Fizza mera Mohsin na raha
 
   4
-  Tum ne har haal mein ki hai meri nusrat Fizza
+  Tum ne har haal meiṅ ki hai meri nusrat Fizza
   Mere Hasnain na dekhe ye qayaamat Fizza
   Ae meri behen Fizza imdaad karo aa kar
   Darwaza giraaya hai aada ne mere upar
@@ -55,7 +55,7 @@ romanLyrics: |-
 
   5
   Barhti jaati hai tapish aag ki aao jaldi
-  Meri chaadar mein lagi aag bujhaao jaldi
+  Meri chaadar meiṅ lagi aag bujhaao jaldi
   Ae meri behen Fizza imdaad karo aa kar
   Darwaza giraaya hai aada ne mere upar
   Almadad ya Fizza almadad ya Fizza
@@ -73,11 +73,11 @@ romanLyrics: |-
 
   7
   Mere dil se na juda hoga ye Mohsin ka gham
-  Hashr tak karti rahuṅgi main ye keh kar maatam
+  Hashr tak karti rahuṅgi maiṅ ye keh kar maatam
   Ae meri behen Fizza imdaad karo aa kar
   Darwaza giraaya hai aada ne mere upar
   Almadad ya Fizza almadad ya Fizza
-  Mere bachche ne qadam dehr mein na rakha
+  Mere bachche ne qadam dehr meiṅ na rakha
   Almadad ya Fizza mera Mohsin na raha
 
   8

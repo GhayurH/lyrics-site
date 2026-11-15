@@ -44,7 +44,7 @@ romanLyrics: |-
   5
   Tumhaari bewa wo baithi hai sar jhukaaye hue
   Rida to chhin gayi baaloṅ se muṅh chhupaaye hue
-  Jo aag dil mein lagi hai use dabaaye hue
+  Jo aag dil meiṅ lagi hai use dabaaye hue
   Tumhaare bachchoṅ ko dil se magar lagaaye hue
   Yatim kaise paleṅ ge use bataa jaao
 

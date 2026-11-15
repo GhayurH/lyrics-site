@@ -21,15 +21,15 @@ romanLyrics: |-
 
   1
   Ae Shabbir Zehra ke lab yuṅ hile
-  Chakkiyaaṅ pis ke main ne paala tujhe
+  Chakkiyaaṅ pis ke maiṅ ne paala tujhe
   Aa mere laal aa maa ke lag ja gale
   Waqt-e-rukhsat hai aise nahiṅ ruthte
 
   2
-  Teri khaatir main jaa kar palat aayi huṅ
-  Dekh kar tere aansu main ghabraayi huṅ
+  Teri khaatir maiṅ jaa kar palat aayi huṅ
+  Dekh kar tere aansu maiṅ ghabraayi huṅ
   Dekh zer-e-kafan gham se tharraayi huṅ
-  Tujh ko behlaane jannat se main aayi huṅ
+  Tujh ko behlaane jannat se maiṅ aayi huṅ
 
   3
   Aa mere laal aa ek ye kaam kar
@@ -41,11 +41,11 @@ romanLyrics: |-
   Tu ne khaana bhi khaaya ke khaaya nahiṅ
   Keh de maa se ke tu aaj pyaasa nahiṅ
   Subh se muṅh kisi ne dhulaaya nahiṅ
-  So gayi main tujhe kiuṅ sulaaya nahiṅ
+  So gayi maiṅ tujhe kiuṅ sulaaya nahiṅ
 
   5
-  Dast-e-Zainab mein phir de ke dast-e-Husain
-  Boli Zahra kafan mein basad shor o shain
+  Dast-e-Zainab meiṅ phir de ke dast-e-Husain
+  Boli Zahra kafan meiṅ basad shor o shain
   Dekh Zainab meri laadli nur-e-ain
   Ye jo roya to Zahra na paayegi chain
 
@@ -56,7 +56,7 @@ romanLyrics: |-
   Gham ki badli na chhaaye mere chaand par
 
   7
-  Haaye Karb o bala mein wo din aa gaya
+  Haaye Karb o bala meiṅ wo din aa gaya
   Shimr ka halq-e-Sarwar pe khanjar chala
   Amma amma ki aane lagi jab sada
   Baal bikhra ke Zehra ne ro kar kaha
@@ -65,7 +65,7 @@ romanLyrics: |-
   Kaise Rehaan o Sarwar sar-e-Karbala
   Apne bachche ki gardan pe tegh-e-jafa
   Dekhti hoṅgi Zahra sar-e-Karbala
-  Guṅjti hogi dasht-e-bala mein sada
+  Guṅjti hogi dasht-e-bala meiṅ sada
 # source_id: nohayonline:a37b63ba821408dbdb50
 # source_url: https://www.nohayonline.com/details_content.php?id=1990
 # raw_sha256: f6270b0c0a8daf716076968d66ff713385b7e620b4b7640cb5351645ce963423

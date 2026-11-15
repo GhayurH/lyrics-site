@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Shimr ne pehle Sakina ko dikhaaya khanjar
-  Baad mein gardan-e-Sarwar pe chalaaya khanjar
+  Baad meiṅ gardan-e-Sarwar pe chalaaya khanjar
 
   1
   Kabhi Haidar ne gala rakha kabhi Zehra ne
@@ -35,7 +35,7 @@ romanLyrics: |-
   Jis tarah chaaha sitamgar ne chalaaya khanjar
 
   6
-  Aaye Sajjad jo baazaar-e-Madina mein kabhi
+  Aaye Sajjad jo baazaar-e-Madina meiṅ kabhi
   To barke qassaab ne jaldi se chhupaaya khanjar
 
   7

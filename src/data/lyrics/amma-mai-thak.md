@@ -16,17 +16,17 @@ romanLyrics: |-
   Zaanu ki maaṅ ki shaah ne tab sar ko rakh diya
   Aankheiṅ thiṅ band aur ye nauha laboṅ pe tha
   Shabbir keh rahe haiṅ aansu baha baha ke
-  Amma main thak chuka huṅ laashe utha utha ke
+  Amma maiṅ thak chuka huṅ laashe utha utha ke
 
   1
-  Main ne uthaayi amma haathoṅ pe laash-e-Akbar
-  In haathoṅ se banaayi khud main ne qabr-e-Asghar
+  Maiṅ ne uthaayi amma haathoṅ pe laash-e-Akbar
+  In haathoṅ se banaayi khud maiṅ ne qabr-e-Asghar
   Yuṅ maarte haiṅ zaalim mujh ko rula rula ke
 
   2
   Maidaan se mujh ko jis dam Abbas ne pukaara
-  Kham aa gaya kamar mein tuta mera sahaara
-  Darya pe jaa raha tha main sar jhuka jhuka ke
+  Kham aa gaya kamar meiṅ tuta mera sahaara
+  Darya pe jaa raha tha maiṅ sar jhuka jhuka ke
 
   3
   Akbar meri nazar ki binaayi le gaye the
@@ -39,13 +39,13 @@ romanLyrics: |-
   Sajde wo kar rahi thi aansu baha baha ke
 
   5
-  Amma meri nazar mein manzar wo chhaa rahe haiṅ
+  Amma meri nazar meiṅ manzar wo chhaa rahe haiṅ
   Bachchi pe meri aada yuṅ zulm dhaa rahe haiṅ
   Paani baha rahe haiṅ us ko dikha dikha ke
 
   6
   Guzreṅge aur masaaib meri behan ke upar
-  Aankhoṅ mein phir raha hai ye dardnaak manzar
+  Aankhoṅ meiṅ phir raha hai ye dardnaak manzar
   Wo Shaam jaa rahi hai nauhe suna suna ke
 
   7

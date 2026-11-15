@@ -1,6 +1,6 @@
 ---
 title: "اس جواں کی مگر بات ہی اور ہے"
-alternateTitle: "Is Jawan Ki Magar"
+alternateTitle: "Is Jawaaṅ Ki Magar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -13,13 +13,13 @@ romanLyrics: |-
   Is jawaaṅ ki magar baat hi aur hai
 
   1
-  Naaz-e-har do jahaaṅ Shah ke lashkar mein haiṅ
-  Saare sher-e-jahaaṅ Shah ke lashkar mein haiṅ
-  Kitne abru kamaaṅ Shah ke lashkar mein haiṅ
-  Kaise kaise jawaaṅ Shah ke lashkar mein haiṅ
+  Naaz-e-har do jahaaṅ Shah ke lashkar meiṅ haiṅ
+  Saare sher-e-jahaaṅ Shah ke lashkar meiṅ haiṅ
+  Kitne abru kamaaṅ Shah ke lashkar meiṅ haiṅ
+  Kaise kaise jawaaṅ Shah ke lashkar meiṅ haiṅ
 
   2
-  Un mein Haidar ke sarwe sahi khad bhi haiṅ
+  Un meiṅ Haidar ke sarwe sahi khad bhi haiṅ
   Baagh-e-Muslim ke saywo bahi khad bhi hai
   Maadan-e-haq ke laal o zabarjad bhi haiṅ
   Yuṅ to Qasim bhi Aun o Muhammad bhi haiṅ
@@ -32,12 +32,12 @@ romanLyrics: |-
 
   4
   Kis ne Shah se balaaoṅ ko taala nahiṅ
-  Khud ko dushman ki faujoṅ mein daala nahiṅ
+  Khud ko dushman ki faujoṅ meiṅ daala nahiṅ
   Kaun hai jo ke ghar ka ujaala nahiṅ
   Kaun hai jis ko Zainab ne paala nahiṅ
 
   5
-  Khaa ke teghe gire ran mein kya kya hasiṅ
+  Khaa ke teghe gire ran meiṅ kya kya hasiṅ
   Laash par jin ki tanha gaye Shah-e-diṅ
   Kaaṅp utha falak aur larzi zamiṅ
   Bibiyaaṅ phir bhi khaime se nikli nahiṅ
@@ -49,9 +49,9 @@ romanLyrics: |-
   Haath lekin behan ne bataaya nahi
 
   7
-  Ran mein har ek aisa tha shiriṅ zabaan
+  Ran meiṅ har ek aisa tha shiriṅ zabaan
   Jis ke lahje pe Daud bhi de de jaan
-  In mein jis ko bhi kahte Shah-e-ins o jaan
+  In meiṅ jis ko bhi kahte Shah-e-ins o jaan
   Subh-e-Aashur wo barh ke deta azaan
 # source_id: nohayonline:f8964f2d51628adc2362
 # source_url: https://www.nohayonline.com/details_content.php?id=46

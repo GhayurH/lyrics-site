@@ -25,13 +25,13 @@ romanLyrics: |-
   2
   Aulaad waloṅ socho kya waqt hoga maaṅ pe
   Bachchoṅ ke saamne jab khaati thi wo tamanche
-  Chadar mein ab chhupa kar rakhti hai gaal apna
+  Chadar meiṅ ab chhupa kar rakhti hai gaal apna
   Aisi nahiṅ thi Zahra
 
   3
   Darbar jab gayi thi haalat nahiṅ thi aisi
-  Lauti hai jab se dekho baaloṅ mein hai safedi
-  Athaaraweṅ baras mein lagti hai ek zaifa
+  Lauti hai jab se dekho baaloṅ meiṅ hai safedi
+  Athaaraweṅ baras meiṅ lagti hai ek zaifa
   Aisi nahiṅ thi Zahra
 
   4
@@ -41,13 +41,13 @@ romanLyrics: |-
   Aisi nahiṅ thi Zahra
 
   5
-  Kehti hai chalte chalte Fizza main gir na jauṅ
+  Kehti hai chalte chalte Fizza maiṅ gir na jauṅ
   Hai waram is qadar ke uthte nahiṅ haiṅ paaoṅ
-  Chalti hai apne ghar mein ab le ke wo sahara
+  Chalti hai apne ghar meiṅ ab le ke wo sahara
   Aisi nahiṅ thi Zahra
 
   6
-  Bibi ko dafn kar ke Zeeshan bole Maula
+  Bibi ko dafn kar ke Zishan bole Maula
   Chhora hai saath uska Ae ruh tu ne warna
   Baad-e-Rasul haye chhore Ali ko tanha
   Aisi nahiṅ thi Zahra

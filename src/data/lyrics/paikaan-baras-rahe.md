@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   Bait-un-Nabi se haaye utha hai phir janaaza
-  Yasrab ki bastiyoṅ mein jhagre hai phir dafn ke
+  Yasrab ki bastiyoṅ meiṅ jhagre hai phir dafn ke
 
   4
   Do baar mil gaya hai tum ko kafan ae Maula

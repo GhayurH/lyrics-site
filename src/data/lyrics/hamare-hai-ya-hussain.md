@@ -1,6 +1,6 @@
 ---
 title: "میں کربلا میں کھڑا ہوں لباسِ سوگ میں ہوں"
-alternateTitle: "Hamare Haiṅ Ya Husain"
+alternateTitle: "Hamare Haiṅ Ya Husaiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,19 +10,19 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Main Karbala mein khara huṅ libaas-e-sog mein huṅ
-  Hai Arbaeen Husain aur Husaini lashkar ka
-  Karoroṅ log haiṅ saare libaas-e-sog mein haiṅ
+  Maiṅ Karbala meiṅ khara huṅ libaas-e-sog meiṅ huṅ
+  Hai Arbain Husain aur Husaini lashkar ka
+  Karoroṅ log haiṅ saare libaas-e-sog meiṅ haiṅ
   Har ek nasl har ek rang har zabaan ke log
 
   1
-  Nigaaheṅ rauza-e-Shabbir ke tawaaf mein haiṅ
+  Nigaaheṅ rauza-e-Shabbir ke tawaaf meiṅ haiṅ
   Laboṅ pe haaye Husaina gharib haaye Husain
   Khayaal aata hai iksathweṅ san-e-hijri ka aur us Muharram ka
   Yehi maqaam tha ek banda-e-Khuda jis ka Husain naam tha
 
   2
-  Raah-e-Khuda mein hatheli pe sar uthaaye hue
+  Raah-e-Khuda meiṅ hatheli pe sar uthaaye hue
   Har ek daur ke insaaṅ ki aabru ke liye
   Wo apne dil pe bahattar ke zakhm uthaata raha
   Wo apne jism pe zakhmoṅ pe zakhm khaata raha
@@ -35,7 +35,7 @@ romanLyrics: |-
 
   4
   Ehsaan hi to hai ehsaan ka sila
-  Har dil mein ya Husain har dil mein Karbala
+  Har dil meiṅ ya Husain har dil meiṅ Karbala
   Bedaar kar diya jo zamaana Husain ne
   Besaakhta tamaam zamaana ye keh utha
 
@@ -46,10 +46,10 @@ romanLyrics: |-
   Insaaniyat ki pyaas bujhaayi Husain ne
 
   6
-  Insaan jab Husain ke paikar mein dhal gaya
+  Insaan jab Husain ke paikar meiṅ dhal gaya
   Insaaniyat pukaari wato izzo man tasha
   Ke hamare haiṅ ya Husain
-  Dunya ke har adab mein hai hissa Husain ka
+  Dunya ke har adab meiṅ hai hissa Husain ka
 
   7
   Dunya ki har zabaaṅ pe hai qabza Husain ka
@@ -59,13 +59,13 @@ romanLyrics: |-
 
   8
   Ke hamare haiṅ ya Husain
-  Sure mein maoti ke Allah ne sunaaya
-  Takhliq-e-kul mein insaaṅ ashraf tujhe banaaya
-  Insaaṅ ka dard dil mein insaan ke utaara
+  Sure meiṅ maoti ke Allah ne sunaaya
+  Takhliq-e-kul meiṅ insaaṅ ashraf tujhe banaaya
+  Insaaṅ ka dard dil meiṅ insaan ke utaara
 
   9
   Insaaniyat ka maktab ghar Panjatan ka rakha
-  Us ghar mein Panjatan ke ek shehr ko basaaya
+  Us ghar meiṅ Panjatan ke ek shehr ko basaaya
   Phir apna khun de ke us shehr ko sanwaara
   Ye shehr Nainawa hai ye shehr Maariya hai
 
@@ -77,7 +77,7 @@ romanLyrics: |-
 
   11
   Haaṅ thaam lo Husain ke daaman ko thaam lo
-  Hur Jaun aur Habib ki saf mein khare raho
+  Hur Jaun aur Habib ki saf meiṅ khare raho
   Dil hai to ab Husain ki aawaaz ko suno
   Farmaate the Husain wo insaan nahiṅ hai
 
@@ -97,24 +97,24 @@ romanLyrics: |-
   Insaan ko Husain ne insaaṅ bana diya
   Insaaniyat ke lab pe musalsal thi ye sada
   Ke hamare haiṅ ya Husain
-  Do tarah ke hua karte haiṅ jahaaṅ mein insaaṅ
+  Do tarah ke hua karte haiṅ jahaaṅ meiṅ insaaṅ
 
   15
   Haiṅ juda raaste donoṅ ke baqaul-e-Quraaṅ
-  Aadmi ek Yazid-e-azali mein ubhra
-  Ek insaan Husain ibn-e-Ali mein ubhra
+  Aadmi ek Yazid-e-azali meiṅ ubhra
+  Ek insaan Husain ibn-e-Ali meiṅ ubhra
   Us taraf khaam khayaali naya Islaam bane
 
   16
   Is taraf azm-e-jalaali ke shariat na mite
   Us taraf saltanat o daulat o taaqat ko ghurur
-  Is taraf chhota sa ghar faaqoṅ mein hai manba-e-nur
-  Ek taaqat ke takabbur mein jo itra ke chala
+  Is taraf chhota sa ghar faaqoṅ meiṅ hai manba-e-nur
+  Ek taaqat ke takabbur meiṅ jo itra ke chala
 
   17
   Dusra naana ke marqad se dua paa ke chala
   Ek nau laakh ke lashkar ko liye saath chala
-  Dusra god mein Asghar ko liye saath chala
+  Dusra god meiṅ Asghar ko liye saath chala
   Us taraf neze the talwaareṅ thiṅ aur bhaale the
 
   18
@@ -127,13 +127,13 @@ romanLyrics: |-
   Un ka maqtal tha jahaaṅ ret saari thi tapaaṅ
   Dur thi nehr-e-rawaaṅ al-Hafiz o al-amaaṅ
   Kya dil tha dil Husain alaihis salaam ka
-  Jis mein koi khayaal na tha inteqaam ka
+  Jis meiṅ koi khayaal na tha inteqaam ka
 
   20
   Dil tha to dil pe kaar-e-risaalat utha liya
   Dil tha to dil pe nur-e-shahaadat utha liya
   Dil tha to dil pe baar-e-qayaamat utha liya
-  Dil tha Khuda ke ishq mein sab ghar luta diya
+  Dil tha Khuda ke ishq meiṅ sab ghar luta diya
 
   21
   Dil tha to dil pe daagh-e-bahattar utha liya
@@ -160,7 +160,7 @@ romanLyrics: |-
   Ho chhuri tez magar haath ho narmi se rawaaṅ
 
   25
-  Ek hi waar mein ho jaaye zabiha qurbaaṅ
+  Ek hi waar meiṅ ho jaaye zabiha qurbaaṅ
   Al-Hafiz o al-amaaṅ al-Hafiz o al-amaaṅ
   Ab jigar thaam ke ae mominoṅ ye haal suno
   Lo zara maqtal-e-Shabbir ka ahwaal suno
@@ -168,7 +168,7 @@ romanLyrics: |-
   26
   Haaye haiwaaṅ ki dam-e-zibh sharaait itni
   Aur jis ghar se ye mansub hui qurbaani
-  Us ki aulaad ki maqtal mein ye tauqir hui
+  Us ki aulaad ki maqtal meiṅ ye tauqir hui
   Koi bhi shart zabihe ki nibhaayi na gayi
 
   27
@@ -198,14 +198,14 @@ romanLyrics: |-
   31
   Jalti reti pe kahiṅ Akbar o Abbas gire
   Aur kahiṅ Aun o Muhammad kahiṅ Qaasim the pare
-  Zibh haiwaan ka nahiṅ hukm hai haiwaan ke huzur
+  Zibh haiwaaṅ ka nahiṅ hukm hai haiwaaṅ ke huzur
   Yaaṅ na Shabbir se Zainab na Sakina thi dur
 
   32
   Shaah un ko wo su-e-Shaah-e-umam dekhte the
   Zibh hote the Husain ahl-e-haram dekhte the
   Mana dikhlaana chhuri ka hai pa-e-qurbaani
-  Yaaṅ tha nau laakh ke narghe mein Ali ka jaani
+  Yaaṅ tha nau laakh ke narghe meiṅ Ali ka jaani
 
   33
   Ek jaaṅ laakh kharidaar the aazam billaah

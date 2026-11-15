@@ -10,11 +10,11 @@ aliases: []
 published: true
 romanLyrics: |-
   Ek Nusairi ne bare pyaar se kal mujh se kaha
-  Lafz Maula ke takalluf mein na par keh de Khuda
+  Lafz Maula ke takalluf meiṅ na par keh de Khuda
   Tu bhi naayaab Nusairi ho ja
 
   1
-  Phir woh yuṅ kehne laga baith main samjhaata huṅ
+  Phir woh yuṅ kehne laga baith maiṅ samjhaata huṅ
   Haidari wasf ke safhe tujhe ginwaata huṅ
   Dube suraj ka palat aana hai pehla safha
   Tu bhi naayaab Nusairi ho ja
@@ -39,24 +39,24 @@ romanLyrics: |-
 
   5
   Jo ye kehte haiṅ Khuda ki hameiṅ pehchaan nahiṅ
-  Khud haiṅ dhoke mein Ali ka unheiṅ irfaan nahiṅ
+  Khud haiṅ dhoke meiṅ Ali ka unheiṅ irfaan nahiṅ
   Aur samajhte haiṅ Nusairi ko hua hai dhoka
   Tu bhi naayaab Nusairi ho ja
 
   6
-  Jab woh khaamosh hua main ne jawaaban ye kaha
+  Jab woh khaamosh hua maiṅ ne jawaaban ye kaha
   Tu bhi meri tarah Shia ho ja
   Maan le baat meri mujh ko Nusairi na bana
   Tu bhi meri tarah Shia ho ja
 
   7
   Tu ye kehta hai ke suraj ko bulaaya kis ne
-  Main ye kehta huṅ ke suraj ko banaaya kis ne
+  Maiṅ ye kehta huṅ ke suraj ko banaaya kis ne
   Jis ne suraj ko banaaya hai wohi hoga Khuda
   Tu bhi meri tarah Shia ho ja
 
   8
-  Phir kaha main ne ke tu hai abhi naawaaqif-e-raaz
+  Phir kaha maiṅ ne ke tu hai abhi naawaaqif-e-raaz
   Tu ne dekhi nahiṅ parhte hue Haidar ko namaaz
   Woh Khuda tha to phir us ne kiya kis ka sajda
   Tu bhi meri tarah Shia ho ja

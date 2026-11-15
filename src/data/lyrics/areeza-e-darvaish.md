@@ -12,8 +12,8 @@ aliases: []
 published: true
 romanLyrics: |-
   Soz-e-dilam Kaaba-e-man Karbobalaai
-  Na mikhuaham jahaan Husain Husain
-  Sada bizan na mikhuaham ee jahan sada bizan
+  Na mikhuaham jahaaṅ Husain Husain
+  Sada bizan na mikhuaham ee jahaṅ sada bizan
 
   1
   Dil ke arbaab mere kab mujhe izn mile
@@ -22,7 +22,7 @@ romanLyrics: |-
   2
   Ae mere dard ke mehram Maula
   Dur hai tujh se ye bimaar tera
-  Dil ye sine mein na reh paaye ga
+  Dil ye sine meiṅ na reh paaye ga
   Jald bulwa le mujhe Karbobala
 
   3
@@ -31,7 +31,7 @@ romanLyrics: |-
   Arbaiṅ ho ke ho wo Aashura
   Ek sailaab azadaaroṅ ka
   Shukr ka karta hai tujh ko sajda
-  Un karoroṅ mein bas ek main hi nahiṅ
+  Un karoroṅ meiṅ bas ek maiṅ hi nahiṅ
   Soch kar phatta hai dil ye mera
 
   4
@@ -47,7 +47,7 @@ romanLyrics: |-
 
   6
   Chaahe kuchh bhi na bache
-  Karbala dil mein rahe
+  Karbala dil meiṅ rahe
   Jab talak saans chale
 # source_id: nohayonline:50528795ff3eb802c66b
 # source_url: https://www.nohayonline.com/details_content.php?id=956

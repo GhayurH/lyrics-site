@@ -14,7 +14,7 @@ romanLyrics: |-
   Ae laasha-e-besar tera sar laayi hai Zainab
 
   1
-  Sar nange thi main zauja-e-haakim junhi aayi
+  Sar nange thi maiṅ zauja-e-haakim junhi aayi
   Zindaaṅ meiṅ kya Hind se sharmaayi hai Zainab
 
   2

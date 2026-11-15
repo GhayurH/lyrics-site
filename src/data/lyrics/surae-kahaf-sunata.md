@@ -19,11 +19,11 @@ romanLyrics: |-
   Khud ko naize se giraata hai ye sar kis ka hai
 
   2
-  Jis taraf jaata hai baazaar mein sar Akbar ka
+  Jis taraf jaata hai baazaar meiṅ sar Akbar ka
   Us taraf dekhta jaata hai ye sar kis ka hai
 
   3
-  Jab bhi daakhil kisi baazaar mein hote haiṅ haram
+  Jab bhi daakhil kisi baazaar meiṅ hote haiṅ haram
   Pehla patthar yehi khaata hai ye sar kis ka hai
 
   4

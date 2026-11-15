@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Zulm ki had ho gayi Zahra pe baad-e-Mustafa
-  Haye viraanoṅ mein jaa ke ghamzada roti rahi
+  Haye viraanoṅ meiṅ jaa ke ghamzada roti rahi
 
   2
   Us ki mazlumi par ab tak ro rahi hai kaainaat
@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   Shehr ki aabaadiyoṅ se dur jaa kar ghamzada
-  Shab ke sannaate mein Bint-e-Mustafa roti rahi
+  Shab ke sannaate meiṅ Bint-e-Mustafa roti rahi
 
   4
   Aaj bhi aawaaz aati hai ye Bait-ul-Huzn se

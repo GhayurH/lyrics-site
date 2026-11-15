@@ -11,7 +11,7 @@ tags: []
 aliases: ["Batees Baras Ka Saath"]
 published: true
 romanLyrics: |-
-  Shabbir ke khaime mein qayaamat ka tha manzar
+  Shabbir ke khaime meiṅ qayaamat ka tha manzar
   Rukhsat ke liye aaye jo Abbas dilaawar
   Jab ro chuke Abbas ko sine se laga kar
   Bhai ki taraf dekh ke kehne lage Sarwar
@@ -22,18 +22,18 @@ romanLyrics: |-
 
   1
   Abbas mera dil ho tum hi jaan ho meri
-  Kya meri muhabbat mein kami reh gayi koi
+  Kya meri muhabbat meiṅ kami reh gayi koi
   Bhai se zyaada tumheṅ pyaari hai taraai
   Na jaaiye bhai
 
   2
-  Ghurbat mein mujhe chhor ke bhai na sidhaaro
-  Khwaahish hai meri qabr mein tum mujh ko utaaro
-  Pardes mein ghurbat hameṅ kis mor pe laayi
+  Ghurbat meiṅ mujhe chhor ke bhai na sidhaaro
+  Khwaahish hai meri qabr meiṅ tum mujh ko utaaro
+  Pardes meiṅ ghurbat hameṅ kis mor pe laayi
   Na jaaiye bhai
 
   3
-  Pardes mein Shabbir ka hai kaun sahaara
+  Pardes meiṅ Shabbir ka hai kaun sahaara
   Bhai na milega mujhe tum jaisa dubaara
   Kiuṅ chhor ke jaane ki khabar tum ne sunaayi
   Na jaaiye bhai
@@ -51,7 +51,7 @@ romanLyrics: |-
   Na jaaiye bhai
 
   6
-  Jaane lage Abbas to nazroṅ mein thi chaadar
+  Jaane lage Abbas to nazroṅ meiṅ thi chaadar
   Rote hue Abbas ne dekha tha palat kar
   Jab khaima-e-Kulsum se aawaaz ye aayi
   Na jaaiye bhai
@@ -70,7 +70,7 @@ romanLyrics: |-
 
   9
   Zishaan o Raza tut gayi aas haram ki
-  Dam tor gaye Shaah ki aaghosh mein Ghazi
+  Dam tor gaye Shaah ki aaghosh meiṅ Ghazi
   Shabbir ye kehte rahe bhai mere bhai
   Na jaaiye bhai
 # source_id: nohayonline:b228458ccbb9efa04029

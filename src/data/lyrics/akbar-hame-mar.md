@@ -15,7 +15,7 @@ romanLyrics: |-
   Tum ghar se chale ho aise jaata hai janaaza jaise
   Haye Akbar Haye Akbar
   Akbar hameṅ mar jaane do phir marne ko jaana
-  Mushkil hai zaifi mein jawaṅ laash uthaana
+  Mushkil hai zaifi meiṅ jawaaṅ laash uthaana
 
   1
   Phir laut ke aaegi na maqtal se sawaari
@@ -43,9 +43,9 @@ romanLyrics: |-
   Achha nahiṅ lagta hameṅ har baar bataana
 
   6
-  Neza dil-e-naazuk mein utarta hua dekhuṅ
-  Main zinda rahuṅ aur tumheṅ marta hua dekhuṅ
-  Tum mein nazar aate haiṅ hamesha mujhe Nana
+  Neza dil-e-naazuk meiṅ utarta hua dekhuṅ
+  Maiṅ zinda rahuṅ aur tumheṅ marta hua dekhuṅ
+  Tum meiṅ nazar aate haiṅ hamesha mujhe Nana
 
   7
   Utho mere qadmoṅ se ijaazat tumheṅ deṅge
@@ -53,7 +53,7 @@ romanLyrics: |-
   Mushkil hai bahut Saani-e-Zahra ko manaana
 
   8
-  Akbar gaye maqtal mein gire ziṅ se zamiṅ par
+  Akbar gaye maqtal meiṅ gire ziṅ se zamiṅ par
   Laashe se Takallum ye kaha Sheh ne tarap kar
   Thehro abhi kuchh der na ho khuld rawaana
 # source_id: nohayonline:65b7f7c26969b6ea4e63

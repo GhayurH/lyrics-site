@@ -17,8 +17,8 @@ romanLyrics: |-
   Tujhe dhundne jaauṅ kahaaṅ
 
   1
-  Saari saari raat tujh ko jhula jhulaauṅ main
-  Jhula jhulaauṅ main
+  Saari saari raat tujh ko jhula jhulaauṅ maiṅ
+  Jhula jhulaauṅ maiṅ
   Mere tashna jigar tashna jaaṅ
   Tujhe dhundne jaauṅ kahaaṅ
 
@@ -41,19 +41,19 @@ romanLyrics: |-
   Tujhe dhundne jaauṅ kahaaṅ
 
   5
-  Sunsaaṅ jangal raat andheri gor mein tanha sote ho
-  Gor mein tanha sote ho
-  Haaye kis ko main duṅ loriyaaṅ
+  Sunsaaṅ jangal raat andheri gor meiṅ tanha sote ho
+  Gor meiṅ tanha sote ho
+  Haaye kis ko maiṅ duṅ loriyaaṅ
   Tujhe dhundne jaauṅ kahaaṅ
 
   6
   Kab se teri maadar dukhiya aas lagaaye baithi hai
   Aas lagaaye baithi hai
-  Teri raah mein bichhaai akhiyaaṅ
+  Teri raah meiṅ bichhaai akhiyaaṅ
   Tujhe dhundne jaauṅ kahaaṅ
 
   7
-  Banu-e-muztar Karbala ban mein kehti thi Mirza pit ke sar
+  Banu-e-muztar Karbala ban meiṅ kehti thi Mirza pit ke sar
   Kehti thi Mirza pit ke sar
   Tujhe dhundne jaauṅ kahaaṅ
   Tujhe dhundne jaauṅ kahaaṅ

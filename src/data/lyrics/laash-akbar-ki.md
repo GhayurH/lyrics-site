@@ -12,12 +12,12 @@ aliases: []
 published: true
 romanLyrics: |-
   Laash Akbar ki mere saath uthaao ammaaṅ
-  Aa ke maqtal mein mera haath bataao ammaaṅ
+  Aa ke maqtal meiṅ mera haath bataao ammaaṅ
   Haath bataao ammaaṅ
 
   1
   Ghutniyoṅ chalta hua laash talak aa to gaya
-  Us ki khushbu se main Akbar ka pata paa to gaya
+  Us ki khushbu se maiṅ Akbar ka pata paa to gaya
   Dil ki quwwat magar is baar mujhe chaahiye hai
   Quwwat-e-Haidar-e-Karraar mujhe chaahiye hai
 
@@ -25,43 +25,43 @@ romanLyrics: |-
   Ham ne socha hi kahaaṅ tha ke ye din aayega
   Ye mera laal mere saamne mar jaayega
   Haal jo dil ka hai ammaaṅ wo bataauṅ kaise
-  Naujawaani ko zaifi mein uthaauṅ kaise
+  Naujawaani ko zaifi meiṅ uthaauṅ kaise
 
   3
   Haath ka zor gaya dil ki tawaanaai gayi
   Hausla tut gaya aaṅkh se binaai gayi
   Tere Shabbir ka ab dil na sambhal paayega
-  Dam mera saath mein Akbar ke nikal jaayega
+  Dam mera saath meiṅ Akbar ke nikal jaayega
 
   4
   Apni tanhaai ka kya haal bataauṅ tum ko
   Zakhm-e-dil khol ke kis tarah dikhaauṅ tum ko
   Aaj pehlu pe rakha haath uthaa le ammaaṅ
-  Laash ko main to mujhe aap sambhaale ammaaṅ
+  Laash ko maiṅ to mujhe aap sambhaale ammaaṅ
 
   5
   Aap sirhaane pe aa jaaye to kuchh haath bate
   Yaaṅ se khaime ka safar ammaaṅ tere saath kate
   Ammaaṅ Akbar ke jo sine pe nazar parti hai
-  Jaise ek aur sinaaṅ dil mein mere garhti hai
+  Jaise ek aur sinaaṅ dil meiṅ mere garhti hai
 
   6
   Haaye sehre ki jagah khun hai maathe pe saja
   Naiza zaalim ka hai is chaand se sine pe laga
-  Dil ke armaanoṅ ko hai khaak mein milte dekha
+  Dil ke armaanoṅ ko hai khaak meiṅ milte dekha
   Eriyaaṅ khaak pe hai is ko ragarte dekha
 
   7
   Bhaai Abbas jo hota to madad ko aata
-  Laasha Akbar ka mere saath mein wo uthwaata
-  Is mere sher ka laasha jo mere haath mein hai
-  Ammaaṅ ab saath mein tum ho ya Khuda saath mein hai
+  Laasha Akbar ka mere saath meiṅ wo uthwaata
+  Is mere sher ka laasha jo mere haath meiṅ hai
+  Ammaaṅ ab saath meiṅ tum ho ya Khuda saath meiṅ hai
 
   8
   Ham likhe jaate haiṅ aur Shah ka karam bolta hai
   Bil yaqiṅ dil ki zabaaṅ mera qalam bolta hai
-  Saari dunya mein Raza saahib-e-tauqir huṅ main
-  Nauha khwaani mein sar Hazrat-e-Shabbir huṅ main
+  Saari dunya meiṅ Raza saahib-e-tauqir huṅ maiṅ
+  Nauha khwaani meiṅ sar Hazrat-e-Shabbir huṅ maiṅ
 # source_id: nohayonline:dc8ed69c1453abc7702a
 # source_url: https://www.nohayonline.com/details_content.php?id=1814
 # raw_sha256: 3596eb9e08724621e4a254cfbce18fbb24c31c7070e7afe81a0bd253ea39f16b

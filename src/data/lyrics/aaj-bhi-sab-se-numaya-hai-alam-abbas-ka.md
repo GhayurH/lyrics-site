@@ -20,27 +20,27 @@ romanLyrics: |-
 
   2
   Yuṅ laga jaise utha li kaainat-e-Kibriya
-  Haath mein jab bhi uthaya hai alam Abbas ka
+  Haath meiṅ jab bhi uthaya hai alam Abbas ka
 
   3
   Koi parcham bhi hamari aaṅkh ko bhata nahiṅ
-  Zehn mein apne samaya hai alam Abbas ka
+  Zehn meiṅ apne samaya hai alam Abbas ka
 
   4
-  Khwab dekha hai yeh main ne Rab isse taabir de
+  Khwab dekha hai yeh maiṅ ne Rab isse taabir de
   Chaand par ja ke lagaya hai alam Abbas ka
 
   5
-  Yeh jo Sehwan mein laga hai Laal ke darbar par
+  Yeh jo Sehwan meiṅ laga hai Laal ke darbar par
   Tair kar paani pe aaya hai alam Abbas ka
 
   6
-  Kya anokha tamgha-e-jurat mila hai khuld mein
+  Kya anokha tamgha-e-jurat mila hai khuld meiṅ
   Sab shahidoṅ ne uthaya hai alam Abbas ka
 
   7
   Fikr kya Yasir Raza, suraj sawa neze pe ho
-  Apne haq mein bahr-e-saaya hai alam Abbas ka
+  Apne haq meiṅ bahr-e-saaya hai alam Abbas ka
 # source_id: tajpoints:05f153370c146dccf908
 # source_url: https://tajpoints.com/2018/07/aaj-bhi-sab-se-numaya-hai-alam-abbas-ka.html
 # raw_sha256: d41000e1c3d8c48999aeb1e62e3fc3531341f16451e661ddf194a877b685855c

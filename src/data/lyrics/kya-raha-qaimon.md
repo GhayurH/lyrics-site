@@ -11,7 +11,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Shaam-e-gham aa gayi, shaam-e-gham aa gayi
-  Kya raha khaimoṅ mein Shah ke ak udaasi reh gayi
+  Kya raha khaimoṅ meiṅ Shah ke ak udaasi reh gayi
   Sirf rone ko Muhammad ki nawaasi reh gayi
 
   1
@@ -23,20 +23,20 @@ romanLyrics: |-
   Apni chaadar ke muhaafiz ko bulaati reh gayi
 
   3
-  Khun-e-dil Abbas ka sab beh gaya ran mein magar
-  Dil mein bas ak baat Zainab ki rida ki reh gayi
+  Khun-e-dil Abbas ka sab beh gaya ran meiṅ magar
+  Dil meiṅ bas ak baat Zainab ki rida ki reh gayi
 
   4
   Ae Musalmaano tumhaari ghairateṅ kya ho gayiṅ
   Tum tamaashaai the Zainab munh chhupaati reh gayi
 
   5
-  Qaid mein baali Sakina ko mila Baba ka sar
+  Qaid meiṅ baali Sakina ko mila Baba ka sar
   Munh pe munh rakh kar jo soyi maaṅ jagaati reh gayi
 
   6
-  Maadar-e-Asghar na baithi saaye mein Asghar ke baad
-  Saaye mein aayi to zinda laash baaqi reh gayi
+  Maadar-e-Asghar na baithi saaye meiṅ Asghar ke baad
+  Saaye meiṅ aayi to zinda laash baaqi reh gayi
 
   7
   Har tamaache par Sakina munh pe rakh kar nanhe haath
@@ -44,7 +44,7 @@ romanLyrics: |-
 
   8
   Aa gaye Rehaan o Sarwar Karbala se laut kar
-  Aaj tak khushbu badan mein Karbala ki reh gayi
+  Aaj tak khushbu badan meiṅ Karbala ki reh gayi
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:3390a675169251047705
 # source_url: https://www.nohayonline.com/details_content.php?id=28

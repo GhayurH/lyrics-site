@@ -17,50 +17,50 @@ romanLyrics: |-
   Ali Ali Ali Ali Maula Ali Ali Ali
 
   1
-  Ali Jaan-e-Jahan
-  Dil ye kehta hai tere ishq mein kho jauṅ Ali
+  Ali Jaan-e-Jahaṅ
+  Dil ye kehta hai tere ishq meiṅ kho jauṅ Ali
   Nind aaye shab-e-hijrat si to so jauṅ Ali
   Meri to ruh ne bhi teri hi baiat ki hai
   Chhor ke sara jahaṅ bas tera ho jauṅ Ali
   Piran-e-Pir Ali mera dastgir Ali
-  Jaan-e-Jahan
+  Jaan-e-Jahaṅ
   Aaqa-e-Man Ali Maula-e-Man Ali
-  Jaan-e-Jahan
+  Jaan-e-Jahaṅ
 
   2
   Surah-e-Alhamd se Surah-e-Wannas tak
   Sare ke sare Ali Akbar o Abbas tak
   Nad-e-Ali parhta ja gham na rahe pas tak
   Din o Iman Ali dil aur jaan Ali
-  Jaan-e-Jahan
+  Jaan-e-Jahaṅ
 
   3
   Maula ye rauza tera Nur ala Nur hai
   Shahr-e-Najaf ki faza Nur ala Nur hai
   Aa ke yahaṅ dil mera Nur ala Nur hai
   Tera didar Ali kar luṅ ek baar Ali
-  Jaan-e-Jahan
+  Jaan-e-Jahaṅ
 
   4
-  Aql mein aata nahiṅ Ya Ali Ya Ali
+  Aql meiṅ aata nahiṅ Ya Ali Ya Ali
   Qalb se jata nahiṅ Ya Ali Ya Ali
   Tere siwa Ya Ali koi bhi bhata nahiṅ
-  Tu banata hai mere kaam Ali Jaan-e-Jahan
-  Zindagi sari tere naam Ali Jaan-e-Jahan
-  Wird karta huṅ subh sham Ali Jaan-e-Jahan
-  De mujhe ishq ka inam Ali Jaan-e-Jahan
-  Jaan-e-Jahan Ali Ali Ali Ali Ali Ali
+  Tu banata hai mere kaam Ali Jaan-e-Jahaṅ
+  Zindagi sari tere naam Ali Jaan-e-Jahaṅ
+  Wird karta huṅ subh sham Ali Jaan-e-Jahaṅ
+  De mujhe ishq ka inam Ali Jaan-e-Jahaṅ
+  Jaan-e-Jahaṅ Ali Ali Ali Ali Ali Ali
   Piran-e-Pir Ali mera dastgir Ali
-  Jaan-e-Jahan
+  Jaan-e-Jahaṅ
   Aaqa-e-Man Ali Maula-e-Man Ali
-  Jaan-e-Jahan
+  Jaan-e-Jahaṅ
 
   5
   Paya hai phir us ne kya jis ne tujhe kho diya
   Khoya hai phir us ne kya jis ne tujhe pa liya
   Misl-e-Qalandar hua jis ne ye sauda kiya
   Tu hai wo raz Ali jo de parwaz Ali
-  Jaan-e-Jahan
+  Jaan-e-Jahaṅ
 
   6
   Kehte haiṅ tere naukar
@@ -69,52 +69,52 @@ romanLyrics: |-
   Ye wali aur ye qalandar
   Kya faqir aur kya tawangar
   Ya Ali Ali Ali
-  Hai ye sine mein halchal
+  Hai ye sine meiṅ halchal
   Mere har pal dil bole chal
-  Main Najaf ko jauṅ paidal
-  Tay kar ke sahra aur jangal
+  Maiṅ Najaf ko jauṅ paidal
+  Te kar ke sahra aur jangal
   Bas tujh pe hi hai tawakkal
   Ya Ali Ali Ali
   Maula Ali
   Hai tu hi Rab ka wali Maula Ali
   Meri qismat ho bhali Maula Ali
   Ghumuṅ Najaf ki gali Ya Ali Maula Ali
-  Main tera tu hai mera Maula Ali
-  Dil mein tera basera Maula Ali
+  Maiṅ tera tu hai mera Maula Ali
+  Dil meiṅ tera basera Maula Ali
   Tu hai roshan sawera Ya Ali Ali Ali
   Tujh pe mera dil bhi fida
   Jism mera jaaṅ bhi fida
   Jism o jaan ye dil hai kya ye ruh bhi fida
   Piran-e-Pir Ali mera dastgir Ali
-  Jaan-e-Jahan
+  Jaan-e-Jahaṅ
   Aaqa-e-Man Ali Maula-e-Man Ali
-  Jaan-e-Jahan
+  Jaan-e-Jahaṅ
 
   7
   Aaye jo mushkil koi hai ye wazifa mera
   Hai yehi aadat meri hai ye wazifa mera
-  Panch namazoṅ mein bhi hai ye wazifa mera
+  Panch namazoṅ meiṅ bhi hai ye wazifa mera
   Mera wakil Ali Rab ki dalil Ali
-  Jaan-e-Jahan
+  Jaan-e-Jahaṅ
   Ali Ali Ali Ali Maula Ali Ali Ali
 
   8
   Daulat-e-dunya hai kya sirf Ali chahiye
-  Main ne Khuda se kaha sirf Ali chahiye
+  Maiṅ ne Khuda se kaha sirf Ali chahiye
   Mera lahu bol utha sirf Ali chahiye
   Khuld nahiṅ Ae Khuda sirf Ali chahiye
   Kuchh nahiṅ is ke siwa sirf Ali chahiye
   Kar de mujhe tu ata sirf Ali chahiye
-  Dil mein utar Ali bas ek baar Ali
-  Jaan-e-Jahan
+  Dil meiṅ utar Ali bas ek baar Ali
+  Jaan-e-Jahaṅ
   Ali Ali Ali Ali Maula Ali Ali Ali
 
   9
   Dunya ne jana nahiṅ tujh ko magar Haye Ali
-  Rota tha tanhaiyoṅ mein baith kar Haye Ali
+  Rota tha tanhaiyoṅ meiṅ baith kar Haye Ali
   Roya kabhi qabr-e-Sayyeda par Haye Ali
-  Sajde mein zakhmi hua tera sar Haye Ali
-  Karb o Bala mein luta tera ghar Haye Ali
+  Sajde meiṅ zakhmi hua tera sar Haye Ali
+  Karb o Bala meiṅ luta tera ghar Haye Ali
   Bhule na Ahl-e-Aza Haye Ali Haye Ali
   Tujh pe hui jo jafa Haye Ali Haye Ali
   Pursa hai Maula tujhe Mazhar o Farhan ka

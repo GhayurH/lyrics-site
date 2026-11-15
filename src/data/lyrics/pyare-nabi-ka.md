@@ -41,18 +41,18 @@ romanLyrics: |-
   Chhor ke ghar pardes chala
 
   4
-  Maango dua tiroṅ mein na uljhe
+  Maango dua tiroṅ meiṅ na uljhe
   Mashk-e-Sakina darya par
-  Bebaazu khuṅ mein na nahaaye
+  Bebaazu khuṅ meiṅ na nahaaye
   Chaand sa laasha darya par
   Umm-e-Baniṅ ki aankhoṅ ka taara
   Chhor ke ghar pardes chala
 
   5
-  Sughra ke alfaaz hai aab mein
+  Sughra ke alfaaz hai aab meiṅ
   Khud se lipat kar rouṅ gi
   Raateṅ jaag ke kaatuṅ gi
-  Turbat mein hi jaa kar souṅ gi
+  Turbat meiṅ hi jaa kar souṅ gi
   Kis se bataauṅ kiuṅ mera kunba
   Chhor ke ghar pardes chala
 
@@ -67,16 +67,16 @@ romanLyrics: |-
   7
   Maut gale lag jaaye gi
   Mujh bimaar se sehat paane tak
-  Yaani main bhi zinda huṅ
+  Yaani maiṅ bhi zinda huṅ
   Is khaak ke khuṅ ho jaane tak
   Kunba mera ek zinda janaza
   Chhor ke ghar pardes chala
 
   8
   Baal pareshaaṅ ho na Khuda ye
-  Phul kahiṅ viraanoṅ mein
-  Parne na paaye paaoṅ mein chhaale
-  Nil na aaye shaanoṅ mein
+  Phul kahiṅ viraanoṅ meiṅ
+  Parne na paaye paaoṅ meiṅ chhaale
+  Nil na aaye shaanoṅ meiṅ
   Aayat aayat koi gharaana
   Chhor ke ghar pardes chala
 

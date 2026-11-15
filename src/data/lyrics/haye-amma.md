@@ -15,12 +15,12 @@ romanLyrics: |-
   Amma na hameiṅ chhor ke jaao
   Naraaz ho kiuṅ kuchh to bataao
 
-  Bin aap ke ek pal na sukun paauṅ ga amma
+  Bin aap ke ek pal na sukuṅ paauṅ ga amma
   Jab tak na bulaao gi na paas aauṅ ga amma
   Ab uth ke kaleje se lagaao
 
   1
-  Haaṅ main ne suna aap ka pehlu hai shikasta
+  Haaṅ maiṅ ne suna aap ka pehlu hai shikasta
   Rukhsaar pe kis shakhs ne maara hai tamaancha
   Shabbir ko bas itna bataao
 
@@ -30,7 +30,7 @@ romanLyrics: |-
   Baba ko utho zakhm dikhaao
 
   3
-  Darbar mein bhi aap ko zaalim ne sataya
+  Darbar meiṅ bhi aap ko zaalim ne sataya
   Aur pehlu pe jalta hua darwaza giraya
   Marham utho zakhmoṅ pe lagaao
 
@@ -50,12 +50,12 @@ romanLyrics: |-
   Chehre se kafan apne hataao
 
   7
-  Jab chauṅk ke uth jaata tha main raatoṅ ko aksar
-  Tab lori sunaati thi mujhe god mein le kar
+  Jab chauṅk ke uth jaata tha maiṅ raatoṅ ko aksar
+  Tab lori sunaati thi mujhe god meiṅ le kar
   Phir mujh ko wohi lori sunaao
 
   8
-  Ae Aamir o Aalam hai yehi dil mein tamanna
+  Ae Aamir o Aalam hai yehi dil meiṅ tamanna
   Ae kaash sada aaye yehi Sayyid-e-waala
   Bachpan ka mera nauha sunaao
 # source_id: nohayonline:5d5a5b302df883e1d470

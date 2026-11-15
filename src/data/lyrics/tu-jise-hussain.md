@@ -22,7 +22,7 @@ romanLyrics: |-
 
   1
   Kibriya ka tu yaqin hai
-  Tere har amal mein din hai
+  Tere har amal meiṅ din hai
   Ismatoṅ ka shah nashiṅ hai
   Ambiya ka jaanashin hai
   Bas use nijaat mil gayi
@@ -59,19 +59,19 @@ romanLyrics: |-
   Tere ishq ne misaal di
   Sab ki zindagi sambhaal di
   Haq ne ye hayaat dhaal di
-  Bandagi mein jaan daal di
+  Bandagi meiṅ jaan daal di
   Ruh-e-waajibaat mil gayi
 
   7
   Jab tere qarib aa gaya
-  Jaun nur mein nahaa gaya
+  Jaun nur meiṅ nahaa gaya
   Yusufoṅ ke dil pe chhaa gaya
   Shahr-e-Misr tilmila gaya
   Husn ko zakaat mil gayi
 
   8
   Aamir Akhtar aur tera gham
-  Dil mein Karbala hai mohtaram
+  Dil meiṅ Karbala hai mohtaram
   Behisaab hai tere karam
   Kya dareṅ kisi bala se ham
   Radd-e-mushkilaat mil gayi

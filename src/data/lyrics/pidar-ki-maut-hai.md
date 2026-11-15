@@ -15,7 +15,7 @@ romanLyrics: |-
   Safar jahaan se karna jawaan bete ka
 
   1
-  Ghazab hai khun mein bharna jawaan bete ka
+  Ghazab hai khun meiṅ bharna jawaan bete ka
   Sitam hai ji se guzarna jawaan bete ka
   Shabaab tha ke Shah-e-Mashriqain se chhute
   Muhibboṅ pito ke Akbar Husain se chhute
@@ -51,20 +51,20 @@ romanLyrics: |-
   Nahiṅ bataane ke laasha ye naabakaar mujhe
 
   7
-  Tere firaaq mein hai zist nagawaar mujhe
-  Sada suna de main sadqe phir ek baar mujhe
+  Tere firaaq meiṅ hai zist nagawaar mujhe
+  Sada suna de maiṅ sadqe phir ek baar mujhe
   Gale laga lo ke sina hamaara jalta hai
-  Kaleja muṅh se koi dam mein ab nikalta hai
+  Kaleja muṅh se koi dam meiṅ ab nikalta hai
 
   8
   Pukaari deorhi se Bano pisar mila ke nahiṅ
   Bataao marham-e-zakhm-e-jigar mila ke nahiṅ
-  Sitam ke abr mein mera qamar mila ke nahiṅ
+  Sitam ke abr meiṅ mera qamar mila ke nahiṅ
   Ali ke laal wo aali guhar mila ke nahiṅ
 
   9
   Shitaab laao mere mannatoṅ ke paale ko
-  Tumhiṅ se luṅ gi main apne muraadoṅ waale ko
+  Tumhiṅ se luṅ gi maiṅ apne muraadoṅ waale ko
   Ye zikr tha ke sada aai dur se naagaah
   Janaab-e-qibla o Kaaba ab aaiye lillaah
 
@@ -82,13 +82,13 @@ romanLyrics: |-
 
   12
   Luti hui wo kamaai basad talaash mili
-  Zamiṅ pe khun mein ghaltaaṅ pisar ki laash mili
+  Zamiṅ pe khun meiṅ ghaltaaṅ pisar ki laash mili
   Ajib haalat-e-farzand-e-nau jawaaṅ dekhi
   Atash se hoṅtoṅ pe nikli hui zabaaṅ dekhi
 
   13
   Qamar se chehre pe zardi laboṅ pe jaaṅ dekhi
-  Kaleja phat gaya sine mein jab sinaaṅ dekhi
+  Kaleja phat gaya sine meiṅ jab sinaaṅ dekhi
   Pidar ke saamne bete ka dam ukharta tha
   Husain dekhte the aur ghar ujarta tha
 
@@ -99,10 +99,10 @@ romanLyrics: |-
   Lipat ke laash se Shah lab pe ye sukhan laaye
 
   15
-  Gale laga lo ke Muhammad ka main nawaasa huṅ
+  Gale laga lo ke Muhammad ka maiṅ nawaasa huṅ
   Zabaaṅ dikha ke kaha ya Husain pyaasa huṅ
   Ye keh ke Shaah se khenchi gharib ne ik aah
-  Jigar mein hone laga dard aah ke hamraah
+  Jigar meiṅ hone laga dard aah ke hamraah
 
   16
   Ajib yaas ki nazroṅ se dekh kar rukh-e-Shaah

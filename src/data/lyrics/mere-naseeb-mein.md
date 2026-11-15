@@ -13,37 +13,37 @@ published: true
 romanLyrics: |-
   Bahut udaas huṅ aur dil tarap raha hai mera
   Bari tamanna thi dekhuṅ ga aap ka rauza
-  Main dekhta raha sab jaa rahe the ae Maula
-  Kiuṅ is baras bhi nahiṅ jaa saka main Karb o Bala
+  Maiṅ dekhta raha sab jaa rahe the ae Maula
+  Kiuṅ is baras bhi nahiṅ jaa saka maiṅ Karb o Bala
 
   1
-  Mere nasib mein kya Karbala nahiṅ Maula
+  Mere nasib meiṅ kya Karbala nahiṅ Maula
   Ghulaam aap se ab tak mila nahiṅ Maula
 
   2
-  Main maatami huṅ bula leṅ mujhe bhi rauze par
-  Lahu bahaaya hai apne watan mein reh ke magar
-  Haram mein aap ke pursa diya nahiṅ Maula
+  Maiṅ maatami huṅ bula leṅ mujhe bhi rauze par
+  Lahu bahaaya hai apne watan meiṅ reh ke magar
+  Haram meiṅ aap ke pursa diya nahiṅ Maula
 
   3
-  Main chal raha huṅ julusoṅ mein Arbain ke din
+  Maiṅ chal raha huṅ julusoṅ meiṅ Arbain ke din
   Hai ye bhi aap ke hi ishq ka safar lekin
   Najaf se Karbala paidal chala nahiṅ Maula
 
   4
-  Chhupa rakhi hai ziyaarat ki aarzu man mein
-  Bahut gharib huṅ kuchh bhi nahiṅ hai daaman mein
+  Chhupa rakhi hai ziyaarat ki aarzu man meiṅ
+  Bahut gharib huṅ kuchh bhi nahiṅ hai daaman meiṅ
   Siwa tumhaare kisi se kaha nahiṅ Maula
 
   5
   Dikha deṅ mojiza ek baar Karbala aauṅ
-  Ya main bhi Sughra ki tarah watan mein mar jaauṅ
+  Ya maiṅ bhi Sughra ki tarah watan meiṅ mar jaauṅ
   Aur intezaar ka ab hausla nahiṅ Maula
 
   6
-  Haram mein aath Muharram alam uthaana hai
+  Haram meiṅ aath Muharram alam uthaana hai
   Maqaam-e-Akbar o Asghar bhi mujh ko jaana hai
-  Main khaima gaah bhi ab tak gaya nahiṅ Maula
+  Maiṅ khaima gaah bhi ab tak gaya nahiṅ Maula
 
   7
   Bula lo waasta Ghaazi ke zakhmi chehre ka
@@ -51,12 +51,12 @@ romanLyrics: |-
   Kata ke haath koi bhi gira nahiṅ Maula
 
   8
-  Ye zaairin se main ne suna hai rote hue
+  Ye zaairin se maiṅ ne suna hai rote hue
   Husain aap jahaaṅ tin roz pyaase rahe
   Wahaaṅ unheṅ koi pyaasa dikha nahiṅ Maula
 
   9
-  Hai intezaar mein Zeeshan Abidi kab se
+  Hai intezaar meiṅ Zishan Abidi kab se
   Habib se kaheṅ Aashur par bula leṅ mujhe
   Raza ka naam bhi ab tak likha nahiṅ Maula
 # source_id: nohayonline:a21a240d0e814de49b1c

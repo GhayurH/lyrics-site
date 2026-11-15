@@ -28,10 +28,10 @@ romanLyrics: |-
   Haae haae Husain keh ke phir uth baithi khwaab se
 
   3
-  Dil mein sama gaya tha jo Shimr-e-laiṅ ka dar
-  Sone mein kaaṅp kaaṅp ye kehti thi raat bhar
+  Dil meiṅ sama gaya tha jo Shimr-e-laiṅ ka dar
+  Sone meiṅ kaaṅp kaaṅp ye kehti thi raat bhar
   Faryaad chhinta hai gohar Shimr-e-badgohar
-  Aata hai Ibn-e-Saad chhupuṅ jaa ke main kidhar
+  Aata hai Ibn-e-Saad chhupuṅ jaa ke maiṅ kidhar
   Zainab phuphi sambhaalo kaleja dharakta hai
   Sajjad bhaai dekho ye Khauli ghurakta hai
 
@@ -45,7 +45,7 @@ romanLyrics: |-
 
   5
   Chup thi to chup thi bolti jo thi dari hui
-  Waaṅ Shimr aaya ran mein idhar tharthari hui
+  Waaṅ Shimr aaya ran meiṅ idhar tharthari hui
   Thi aah baat baat par lab par dhari hui
   Gardan ki resmaan lahu se bhari hui
   Dam rukne lagta tha to rasan khol dete haiṅ
@@ -64,12 +64,12 @@ romanLyrics: |-
   Ho jaayega kal ek tera mehmaan kam
   Mayyat kisi ki nanhi si niklegi subh dam
   Bano se ye khitaab kabhi tha bachashm-e-nam
-  Ik taaza maut hogi Nabi ke gharaane mein
-  Amma lutogi aaj ki shab qaid khaane mein
+  Ik taaza maut hogi Nabi ke gharaane meiṅ
+  Amma lutogi aaj ki shab qaid khaane meiṅ
 
   8
   Bano pukaari lut to chuki ab lutuṅ gi kya
-  Bibi na naam lutne ka lo tum pe main fida
+  Bibi na naam lutne ka lo tum pe maiṅ fida
   Gohar chhine tamaanche lage kaan shaq hua
   Lutne se meri Bibi ka par dil nahiṅ bhara
   Zainab ki pusht nok-e-sinaaṅ se figaar hai
@@ -79,8 +79,8 @@ romanLyrics: |-
   Ab kya lutuṅ gi maal nahiṅ zar nahiṅ raha
   Akbar nahiṅ raha Ali Asghar nahiṅ raha
   Rehne ko qaid khaana mila ghar nahiṅ raha
-  Haathoṅ mein resmaaṅ baṅdhi zewar nahiṅ raha
-  Daulat hai kaunsi jise zindaaṅ mein khouṅ gi
+  Haathoṅ meiṅ resmaaṅ baṅdhi zewar nahiṅ raha
+  Daulat hai kaunsi jise zindaaṅ meiṅ khouṅ gi
   Rona tha jis ko ro chuki ab kis ko rouṅ gi
 
   10

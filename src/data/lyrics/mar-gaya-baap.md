@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ajeeb waqt hai ye Fatima ke betoṅ pe
+  Ajib waqt hai ye Fatima ke betoṅ pe
   Janaaza Baba ka ghar se uthaaeṅ wo kaise
   Behan ko jab bhi chhuraate haiṅ barh ke mayyat se
   Wo baar baar lipatti hai baap se jaa ke
@@ -61,7 +61,7 @@ romanLyrics: |-
 
   9
   Qarib aae jo Ghaazi behan ne chhora kafan
-  To bole Ghaazi se Zeeshan aur Raza ye Hasan
+  To bole Ghaazi se Zishan aur Raza ye Hasan
   Tumhaara chehra agar dekhti nahiṅ Zainab
   Chhuraane se bhi kafan chhorti nahiṅ Zainab
 # source_id: nohayonline:1b101307d1ac6c59fba0

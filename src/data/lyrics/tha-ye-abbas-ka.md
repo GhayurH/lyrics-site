@@ -11,11 +11,11 @@ aliases: []
 published: true
 romanLyrics: |-
   Tha ye Abbas ka noha jab mere haath kate
-  Thi tasavvur mein Sakina jab mere haath kate
+  Thi tasavvur meiṅ Sakina jab mere haath kate
 
   1
   Jis ghari haath qalam ho gaye mere aaqa
-  Main ne mashkize ko daantoṅ se sambhaala Maula
+  Maiṅ ne mashkize ko daantoṅ se sambhaala Maula
   Mashk ko tir ne chheda jab mere haath kate
 
   2
@@ -29,7 +29,7 @@ romanLyrics: |-
   Ashqiya dete the taana jab mere haath kate
 
   4
-  Dekh kar mujhko ye kehne lage ran mein aada
+  Dekh kar mujhko ye kehne lage ran meiṅ aada
   Le lo Abbas-e-Dilaawar se Ali ka badla
   Sab ne mil kar kiya hamla jab mere haath kate
 
@@ -41,21 +41,21 @@ romanLyrics: |-
   6
   Beh gaya mashk-e-Sakina se jo saara paani
   Mujhko rulwaane lage aur sitam ke baani
-  Main ne dekha su-e-khaima jab mere haath kate
+  Maiṅ ne dekha su-e-khaima jab mere haath kate
 
   7
   Lashkar-e-Shaam ka har zulm o sitam seh seh ke
-  Sar ke bal jalti zamiṅ par main gira ghore se
+  Sar ke bal jalti zamiṅ par maiṅ gira ghore se
   Na mila mujhko sahaara jab mere haath kate
 
   8
-  Barchhiyoṅ se jo hua pyaas mein zakhmi sina
+  Barchhiyoṅ se jo hua pyaas meiṅ zakhmi sina
   Mujhko shamshireṅ lagaate the musalsal aada
-  Main bikharta gaya Maula jab mere haath kate
+  Maiṅ bikharta gaya Maula jab mere haath kate
 
   9
   Arsh nohe ki sada arsh talak jaayegi
-  Ghamzada hoeṅge jannat mein bahut Sabir bhi
+  Ghamzada hoeṅge jannat meiṅ bahut Sabir bhi
   Sun ke roeṅge ye noha jab mere haath kate
 # source_id: nohayonline:aec3aeaa01d9dae2df06
 # source_url: https://www.nohayonline.com/details_content.php?id=3267

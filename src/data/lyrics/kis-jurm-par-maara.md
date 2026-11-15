@@ -11,46 +11,46 @@ tags: []
 aliases: ["بی آیےء زمبن قتیلت"]
 published: true
 romanLyrics: |-
-  Bee aayi-ye zambin khutilat
+  Bi aayi-ye zambin khutilat
   Kis jurm par maara use Ae zabt gaah-e-Nainawa
 
   1
-  Tauhid bhi khatre mein thi Islam bhi khatre mein tha
-  Quraan bhi majbur tha jab din hi khatre mein tha
+  Tauhid bhi khatre meiṅ thi Islam bhi khatre meiṅ tha
+  Quraan bhi majbur tha jab din hi khatre meiṅ tha
   Shaahi ke aage dat gaya kiuṅke Imam-e-waqt tha
 
   2
   Yasrab se taa ba Maariya yuṅ to bahut afraad the
-  Lekin shab-e-Ashur lashkar mein bahattar reh gaye
+  Lekin shab-e-Ashur lashkar meiṅ bahattar reh gaye
   Baiat bahaana ban gayi dar asl sar darkaar tha
 
   3
   Aayi sehar Ashur ki tiroṅ se hamla ho gaya
-  Aur ghalba-e-awwal mein bas thora sa lashkar hi bacha
+  Aur ghalba-e-awwal meiṅ bas thora sa lashkar hi bacha
   Ashaab kuch baaqi bache aur kuch aizza aqraba
 
   4
   Sheh ne taqabbal keh ke phir Akbar ko dekha yaas se
   Akbar ka chehra khil utha us izn ke ehsaas se
-  Maidaan mein jaa kar yuṅ lara sine mein neza gar gaya
+  Maidaan meiṅ jaa kar yuṅ lara sine meiṅ neza gar gaya
 
   5
-  Paani pilaane laaye the aaghosh mein le kar jise
-  Ran mein bujhaayi tishnagi zaalim ne aab-e-tir se
-  Phir us ka khuṅ chullu mein le kar Sheh ne chehre par mala
+  Paani pilaane laaye the aaghosh meiṅ le kar jise
+  Ran meiṅ bujhaayi tishnagi zaalim ne aab-e-tir se
+  Phir us ka khuṅ chullu meiṅ le kar Sheh ne chehre par mala
 
   6
-  Lashkar tha jis ke haath mein ahl-e-haram ki aas tha
+  Lashkar tha jis ke haath meiṅ ahl-e-haram ki aas tha
   Shabbir ki dhaaras akela sirf ek Abbas tha
   Bedast ho kar nehr par beaas ho kar so gaya
 
   7
   Sarwar ke nafs-e-mutmain itmaam-e-hujjat ho chuki
-  Mardoṅ mein bas Abid bache sab ki shahaadat ho chuki
+  Mardoṅ meiṅ bas Abid bache sab ki shahaadat ho chuki
   Reh jaaye naam Allah ka keh kar ada sajda kiya
 
   8
-  Shahid zamiṅ larzaaṅ rahi khuṅ aasmaanoṅ se baha
+  Shahid zamin larzaaṅ rahi khuṅ aasmaanoṅ se baha
   Muṅh par saja kar Sheh ka khuṅ rahwaar khaime ko chala
   Sar se ridaaeṅ chhin rahi thi hashr tha har su bapa
 # source_id: nohayonline:2752a11baf7693d0f467

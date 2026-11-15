@@ -14,34 +14,34 @@ romanLyrics: |-
   Berida Zainab khari hai Shaam ka darbar hai
 
   1
-  Aalam-e-ghurbat mein Aal-e-Ahmed-e-Mukhtar hai
+  Aalam-e-ghurbat meiṅ Aal-e-Ahmed-e-Mukhtar hai
   Ab na lashkar hai na Abbas-e-alambardar hai
   Haye kya badli hui ab waqt ki raftaar hai
   Saamne rakha hua farq-e-Shah-e-abraar hai
 
   2
   Zulm hai kursi nashiṅ kunba Nabi ka hai khara
-  Aur ek bimar hai zanjir mein jakra hua
-  Hai rasan mein sab ke shaane aur Sakina ka gala
+  Aur ek bimar hai zanjir meiṅ jakra hua
+  Hai rasan meiṅ sab ke shaane aur Sakina ka gala
   Haye bachchi ke liye ab saaṅs lena baar hai
 
   3
-  Tasht mein rakha hua hai baap ka sar saamne
+  Tasht meiṅ rakha hua hai baap ka sar saamne
   Saaṅs rukti hai tarapti hai jo khaahar saamne
-  Khun mein dube hue haiṅ kitne manzar saamne
+  Khun meiṅ dube hue haiṅ kitne manzar saamne
   Kis qadar zakhmi nigaah-e-Abid-e-bimar hai
 
   4
-  Ghamzada maadar ki aaṅkhoṅ mein andhera chha gaya
-  Naujavaaṅ bete ka sar darbar mein laaya gaya
+  Ghamzada maadar ki aaṅkhoṅ meiṅ andhera chha gaya
+  Naujavaaṅ bete ka sar darbar meiṅ laaya gaya
   Jaane Laila se ye manzar kis tarah dekha gaya
-  Kaisi ghurbat mein shabih-e-Ahmed-e-Mukhtar hai
+  Kaisi ghurbat meiṅ shabih-e-Ahmed-e-Mukhtar hai
 
   5
   Wo Ali Asghar ka sar jaise koi taaza kali
   Maadar-e-beshir ki jis dam nazar us par pari
-  God mein lekar sulaane ki tamanna jaag uthi
-  Haath rassi mein bandhe haiṅ maaṅ bahut laachaar hai
+  God meiṅ lekar sulaane ki tamanna jaag uthi
+  Haath rassi meiṅ bandhe haiṅ maaṅ bahut laachaar hai
 
   6
   Har ghari nazroṅ ke aage ek qayamat hai nayi

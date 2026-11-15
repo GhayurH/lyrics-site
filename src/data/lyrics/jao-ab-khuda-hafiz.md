@@ -20,14 +20,14 @@ romanLyrics: |-
   Apne dil ke tukre se keh rahi hai ye maadar
 
   2
-  Aa main apne haathoṅ se phir sanwaaruṅ zulfeṅ
+  Aa maiṅ apne haathoṅ se phir sanwaaruṅ zulfeṅ
   Paas baith ja kar luṅ tujh se do ghari baateṅ
   Dekhne ko tarseṅ gi tujh ko ab meri aankheṅ
-  Mere laal aa tujh ko dekh luṅ main ji bhar kar
+  Mere laal aa tujh ko dekh luṅ maiṅ ji bhar kar
 
   3
   Maaṅ ne tujh ko paala tha kitni aarzuoṅ se
-  Kya bataauṅ main beta dil mein kitne armaaṅ the
+  Kya bataauṅ maiṅ beta dil meiṅ kitne armaaṅ the
   Ab na dekh paauṅ gi phul tere sehre ke
   Qalb tukre hota hai kis tarah kahe maadar
 
@@ -44,8 +44,8 @@ romanLyrics: |-
   Haaye tum se pehle hi kiuṅ na mar gayi maadar
 
   6
-  Baad tere kaise main zindagi guzaaruṅ gi
-  Teri chaand si surat main kabhi na paauṅ gi
+  Baad tere kaise maiṅ zindagi guzaaruṅ gi
+  Teri chaand si surat maiṅ kabhi na paauṅ gi
   Zindagi ka har lamha tera gham manaauṅ gi
   Ji ke kya kare maadar tere bin Ali Akbar
 
@@ -57,7 +57,7 @@ romanLyrics: |-
 
   8
   Rukhsat-e-Ali Akbar ke ajib lamhe the
-  Yuṅ Rasheed khaime se Akbar-e-jawaaṅ nikle
+  Yuṅ Rashid khaime se Akbar-e-jawaaṅ nikle
   Ik janaaza nikla ho jis tarah bhare ghar se
   Keh rahi thi ro ro kar maadar-e-Ali Akbar
 # source_id: nohayonline:c76d197d7445da4617a9

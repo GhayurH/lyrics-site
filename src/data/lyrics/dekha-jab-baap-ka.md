@@ -19,7 +19,7 @@ romanLyrics: |-
   Jal gaya bhai ka jhula to Sakina royi
 
   2
-  Orh kar sar pe rida kaan mein durr pehne hue
+  Orh kar sar pe rida kaan meiṅ durr pehne hue
   Saamne aayi jo Ramla to Sakina royi
 
   3
@@ -31,11 +31,11 @@ romanLyrics: |-
   Hind ne aa ke jo puchha to Sakina royi
 
   5
-  Chaahti thi ke wo le aaye use khaime mein
+  Chaahti thi ke wo le aaye use khaime meiṅ
   Baap ka laasha na utha to Sakina royi
 
   6
-  Qaid mein sunte hue baap ke sar se lori
+  Qaid meiṅ sunte hue baap ke sar se lori
   Zakhmi hoṅtoṅ ko jo dekha to Sakina royi
 
   7

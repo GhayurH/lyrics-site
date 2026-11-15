@@ -1,6 +1,6 @@
 ---
 title: "سر جو شبیر کا زندان میں لائے خدام"
-alternateTitle: "Sar Jo Shabbir Ka Zindaan Mein"
+alternateTitle: "Sar Jo Shabbir Ka Zindaan Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,18 +12,18 @@ aliases: ["sar-jo-shabbir-ka-zindan-main-saleem-mastan"]
 published: true
 romanLyrics: |-
   1
-  Sar jo Shabbir ka zindaan mein laaye khuddaam
+  Sar jo Shabbir ka zindaan meiṅ laaye khuddaam
   Bhaai ke sar ko kiya Zainab-e-Muztar ne salaam
   Tha giraftaar-e-salaasil jo zamaane ka Imam
   Utha taazim ko le kar Sheh-e-Mazlum ka naam
-  Tasht halqe mein liye kushta-e-gham rone lage
+  Tasht halqe meiṅ liye kushta-e-gham rone lage
   Sar-e-Shabbir ko dekha to haram rone lage
 
   2
   Sab ne maatam kiya mil kar hui majlis barpa
   Chum kar sar ko aqidat se ye Zainab ne kaha
   Dukh uthaaye haiṅ bohat tum se bichhar kar bhaiyya
-  Apni aaghosh mein sar baali Sakina ne liya
+  Apni aaghosh meiṅ sar baali Sakina ne liya
   Ro rahe the sabhi rukte hi kahaaṅ the aansu
   Sar-e-Shabbir ki aankhoṅ se rawaaṅ the aansu
 
@@ -37,31 +37,31 @@ romanLyrics: |-
 
   4
   Aap maidaan ko sidhaare to bara zulm hua
-  Aag khaimoṅ mein lagi jal gaya saamaan saara
+  Aag khaimoṅ meiṅ lagi jal gaya saamaan saara
   Chhin gaye mere gauhar jal gaya mera kurta
-  Roti phirti thi main us dasht-e-bala mein tanha
+  Roti phirti thi maiṅ us dasht-e-bala meiṅ tanha
   Na diya ham ko kisi ne bhi sahaara Baba
   Puchhta koi na tha haal hamaara Baba
 
   5
   Rote rote hui khaamosh Sakina ek baar
-  Kaha Zainab ne ye main teri musibat ke nisaar
-  Aa meri god mein aa ja meri pyaari dildaar
+  Kaha Zainab ne ye maiṅ teri musibat ke nisaar
+  Aa meri god meiṅ aa ja meri pyaari dildaar
   Par Sakina na hili apni jagah se zinhaar
   Ja mili baap se wo baap ki pyaari bachchi
-  Chal basi Shaam ke zindaan mein dulaari bachchi
+  Chal basi Shaam ke zindaan meiṅ dulaari bachchi
 
   6
   Kaanpte haathoṅ se Abid ne banaayi turbat
-  Dafn ki us mein Husain Ibn-e-Ali ki daulat
+  Dafn ki us meiṅ Husain Ibn-e-Ali ki daulat
   Na suni aur na dekhi kahiṅ aisi ghurbat
   Dil bhar aaya to hui had se zyaada riqqat
   Bachchi ke haal par sab kushta-e-gham rote the
-  Qabr halqe mein liye Ahl-e-Haram rote the
+  Qabr halqe meiṅ liye Ahl-e-Haram rote the
 
   7
   Qaid se ho ke riha jab ye Madine pahunche
-  Maaṅ ke kaanoṅ mein Sakina ke sukhan gunjte the
+  Maaṅ ke kaanoṅ meiṅ Sakina ke sukhan gunjte the
   Jo sitam bachchi par tute wo bhulaaye na gaye
   Roti phirti thi wo mazlum yehi keh keh ke
   Ho ke jab Shaam ke zindaan se hawa aati hai

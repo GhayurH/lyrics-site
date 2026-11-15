@@ -1,6 +1,6 @@
 ---
 title: "کس کو دوں میں لوری"
-alternateTitle: "Kis Ko Duṅ Main Lori"
+alternateTitle: "Kis Ko Duṅ Maiṅ Lori"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,31 +10,31 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Kis ko duṅ main lori
-  Asghar mera reh gaya ran mein
+  Kis ko duṅ maiṅ lori
+  Asghar mera reh gaya ran meiṅ
   Maaṅ ye ro ke boli
-  Kis ko duṅ main lori
+  Kis ko duṅ maiṅ lori
 
   1
-  Shaam-e-gharibaaṅ chhaa gayi ban mein
+  Shaam-e-gharibaaṅ chhaa gayi ban meiṅ
   Mera dil ghabraaye
   Ghar nahiṅ aaya Asghar mera
   Phail gayi taariki
 
   2
   Tum nahiṅ aaye tum nahiṅ aaye
-  Kitna pukaara main ne
+  Kitna pukaara maiṅ ne
   Maaṅ se khafa kya ae shehzaade
   Yuṅ hota hai koi
 
   3
   Aa ja mere Asghar aa ja
   Ruth gaya kiuṅ beta aa
-  Ujre ban mein nauha kunaaṅ hai
+  Ujre ban meiṅ nauha kunaaṅ hai
   Maaṅ phailaaye jholi
 
   4
-  Tujh ko kahaaṅ main dhundne jaauṅ
+  Tujh ko kahaaṅ maiṅ dhundne jaauṅ
   Tujh ko kahaaṅ se laauṅ
   Meri godi chhor ke tu ne
   Basti dur basa li
@@ -47,15 +47,15 @@ romanLyrics: |-
 
   6
   Apne watan se dur yahaaṅ par
-  Karb o Bala ke ban mein
+  Karb o Bala ke ban meiṅ
   Kho gaya mera laal kahiṅ par
   Reh gayi jholi khaali
 
   7
   Gauhar yahi kehte kehte
   Mar gayi maaṅ Asghar ki
-  God mein apni kis ko sulaauṅ
-  Kis ko duṅ main lori
+  God meiṅ apni kis ko sulaauṅ
+  Kis ko duṅ maiṅ lori
 # source_id: nohayonline:716ef3af2e45e9c673b0
 # source_url: https://www.nohayonline.com/details_content.php?id=1631
 # raw_sha256: bb7dd7f553defcb760ae66e0093d55eb560993a843a43e8cc5b6e937930dd1e9

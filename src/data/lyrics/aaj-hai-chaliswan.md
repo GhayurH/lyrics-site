@@ -11,8 +11,8 @@ tags: []
 aliases: ["Aaj Hai Chaliswan"]
 published: true
 romanLyrics: |-
-  Shaam se jab Ahl-e-Bait bar-sar-e-uryaaṅ chale
-  Yaani su-e-Karbobala chaak girebaaṅ chale
+  Shaam se jab Ahl-e-Bait bar-sar-e-uryaan chale
+  Yaani su-e-Karbobala chaak girebaan chale
   Le ke shahidoṅ ke sar besar o saamaaṅ chale
   Karte hue ye bayaaṅ baa-dil-e-naalaaṅ chale
   Aaj hai chaaliswaaṅ Hazrat-e-Shabbir ka

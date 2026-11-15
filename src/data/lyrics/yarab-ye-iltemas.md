@@ -11,40 +11,40 @@ tags: []
 aliases: ["Yarab Ye Iltemas"]
 published: true
 romanLyrics: |-
-  Ya Rab ye iltimaas hai teri janaab mein
-  Mujh ko mila de khaak-e-dar-e-Bu Turaab mein
+  Ya Rab ye iltimaas hai teri janaab meiṅ
+  Mujh ko mila de khaak-e-dar-e-Bu Turaab meiṅ
 
   1
   Haasil nahiṅ hai misl-e-Ali sab ko martaba
-  Garche baargaah-e-risaalat maab mein
+  Garche baargaah-e-risaalat maab meiṅ
 
   2
-  Nur-e-Ali mein nur-e-Muhammad mein farq kya
-  Hai aaftaab hai ke deha maahtaab mein
+  Nur-e-Ali meiṅ nur-e-Muhammad meiṅ farq kya
+  Hai aaftaab hai ke deha maahtaab meiṅ
 
   3
-  Jhule mein kah rahe the ye tewar saghir ke
-  Zinda rahe to dekhna ahd-e-shabaab mein
+  Jhule meiṅ kah rahe the ye tewar saghir ke
+  Zinda rahe to dekhna ahd-e-shabaab meiṅ
 
   4
-  Qasim ke jism-e-paak se jo ran mein bah gaya
-  Wo khun aa gaya hai simat kar gulaab mein
+  Qasim ke jism-e-paak se jo ran meiṅ bah gaya
+  Wo khun aa gaya hai simat kar gulaab meiṅ
 
   5
   Ek tir to nikal gaya Asghar ke halq se
-  Paiwast ek tir hai qalb-e-Rabaab mein
+  Paiwast ek tir hai qalb-e-Rabaab meiṅ
 
   6
-  Ahl-e-haram ki pyaas mein shiddat thi is qadar
-  Itni tapish na hogi kabhi aaftaab mein
+  Ahl-e-haram ki pyaas meiṅ shiddat thi is qadar
+  Itni tapish na hogi kabhi aaftaab meiṅ
 
   7
   Zehra ke ghar ko yaad kare roe zaar zaar
-  Jis ka tabaah ghar ho kisi inqilaab mein
+  Jis ka tabaah ghar ho kisi inqilaab meiṅ
 
   8
   Bas wo fishaar-e-qabr se Mahshar bachaaega
-  Jis ne shigaaf daal diya maahtaab mein
+  Jis ne shigaaf daal diya maahtaab meiṅ
 # source_id: nohayonline:82d9440e507b82d92fb2
 # source_url: https://www.nohayonline.com/details_content.php?id=641
 # raw_sha256: 52c51f6b043d5ff16225ac34245b646054a6e286a21d5ed75780296b52265c36

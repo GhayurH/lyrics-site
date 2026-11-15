@@ -24,8 +24,8 @@ romanLyrics: |-
   Khuda ne tegh di Ahmad ne dukhtar
 
   2
-  Wiladat Khana-e-Kaba mein payi
-  Ajal bhi aayi to masjid mein aayi
+  Wiladat Khana-e-Kaba meiṅ payi
+  Ajal bhi aayi to masjid meiṅ aayi
   Farishtoṅ ki tarah hajat rawayi
   Khuda ne di jise mushkil kushayi
   Kare murde ko zinda jis ki thokar
@@ -34,7 +34,7 @@ romanLyrics: |-
   Mili jis ko wilayat aur imamat
   Wo jis ki zauja ho Khatun-e-Jannat
   Mili Shabbir o Shabbar jaisi neamat
-  Hai ek chutki mein dunya bhar ki daulat
+  Hai ek chutki meiṅ dunya bhar ki daulat
   Raha jo zinat-e-mehrab o mimbar
 
   4
@@ -54,21 +54,21 @@ romanLyrics: |-
   6
   Nahiṅ Bint-e-Asad si koi aurat
   Mili jis ko Khuda se ye fazilat
-  Pali aaghosh mein jis ki imamat
+  Pali aaghosh meiṅ jis ki imamat
   Khuda ka ghar bana jae wiladat
-  Hua jis ke liye diwar mein dar
+  Hua jis ke liye diwar meiṅ dar
 
   7
   Na ghusse se shikan aayi jabiṅ tak
-  Na ulti jang mein bhi aastiṅ tak
-  Laraz jate the Jibreel-e-Amin tak
-  Ali ka naam hai Fath-e-Mubin tak
+  Na ulti jang meiṅ bhi aastiṅ tak
+  Laraz jate the Jibril-e-Amin tak
+  Ali ka naam hai Fath-e-Mubiṅ tak
   Likhi dast-e-Ali patthar pe Khaibar
 
   8
   Madad ko aa gaye jis ne pukara
   Diya dushman ko bhi apne sahara
-  Diya tufan mein kashti ko kinara
+  Diya tufan meiṅ kashti ko kinara
   Chamak utha muqaddar ka sitara
   Ali Mushkil Kusha Saqi-e-Kausar
 

@@ -24,7 +24,7 @@ romanLyrics: |-
   Sajjad ye ro kar kehne laga
 
   1
-  Sughra Sughra pardes mein ghar barbaad hua
+  Sughra Sughra pardes meiṅ ghar barbaad hua
   Baaloṅ ki safedi dekh zara
   Sadmoṅ se mera ye haal hua
 
@@ -34,7 +34,7 @@ romanLyrics: |-
   Aashur ka suraj le aaya
   Zainab ke ujar jaane ki khabar
   Abbas aur Akbar na rahe
-  Ek din mein sabhi ko aayi qaza
+  Ek din meiṅ sabhi ko aayi qaza
 
   3
   Talwaar meri roti hi rahi
@@ -46,7 +46,7 @@ romanLyrics: |-
 
   4
   Akbar ke kaleje se barchhi
-  Jis waqt Shah-e-din ne khenchi
+  Jis waqt Shah-e-diṅ ne khenchi
   Tu apna muqaddar dekh zara
   Us waqt mili tahrir teri
   Akbar ko dekha ro diye
@@ -54,7 +54,7 @@ romanLyrics: |-
 
   5
   Ae Sughra tere ammu ki qasam
-  Jab tak tha faza mein unka alam
+  Jab tak tha faza meiṅ unka alam
   Phuphiyoṅ ke saroṅ pe chaadar thi
   Laachaar nahiṅ the ahl-e-haram
   Reti pe gira jis waqt alam
@@ -78,8 +78,8 @@ romanLyrics: |-
 
   8
   Phir shaam gharibaaṅ ki aayi
-  Maqtal mein andhere chhaane lage
-  Maqtal ke andheroṅ mein zaalim
+  Maqtal meiṅ andhere chhaane lage
+  Maqtal ke andheroṅ meiṅ zaalim
   Khaimoṅ ko jalaane aane lage
   Durr chhine gaye aur chaadareṅ
   Zehra ka chaman taaraaj hua
@@ -87,7 +87,7 @@ romanLyrics: |-
   9
   Baazaar gaye darbaar gaye
   Ye gham jite ji maar gaye
-  Zindaaṅ mein Sakina jab bichhri
+  Zindaaṅ meiṅ Sakina jab bichhri
   Ham log bhi himmat haar gaye
   Ro ro ke haram ye kehte the
   Ab kaisi rihaai kya jina

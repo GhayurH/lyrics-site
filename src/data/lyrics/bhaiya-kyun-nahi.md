@@ -20,7 +20,7 @@ romanLyrics: |-
 
   2
   Aankhoṅ se ojhal nahiṅ hota chehra Akbar ka
-  Dhundti rehti huṅ khwaaboṅ mein sehra Akbar ka
+  Dhundti rehti huṅ khwaaboṅ meiṅ sehra Akbar ka
   Tut ke roz bikhar jaate haiṅ aansuoṅ ke haar
 
   3
@@ -41,31 +41,31 @@ romanLyrics: |-
   6
   Khat bheja aur qaasid se sandes bhi keh laaya
   Phir bhi mujh birhan ka kisi ko dhyaan nahiṅ aaya
-  Bhul gaya pardes mein jaa kar mujh ko mera pariwaar
+  Bhul gaya pardes meiṅ jaa kar mujh ko mera pariwaar
 
   7
-  Haar gayi main qismat ki tahrireṅ jit gayiṅ
+  Haar gayi maiṅ qismat ki tahrireṅ jit gayiṅ
   Raasta takte takte do do ideṅ bit gayiṅ
   Ho na saka hamshakl-e-Nabi ke chehre ka didaar
 
   8
   Kaise bataauṅ kitna kathin hai hijr ka gham bhaiya
-  Chumti rehti huṅ main tere naqsh-e-qadam bhaiya
+  Chumti rehti huṅ maiṅ tere naqsh-e-qadam bhaiya
   Dar hai mit jaaye na kahiṅ in qadmoṅ ke aasaar
 
   9
   Mere maalik mere pardesi kunbe ki khair
   Behnoṅ ke maaoṅ ke phuphiyoṅ ke parde ki khair
-  Khwaab mein main ne dekhe haiṅ kuchh patthar aur baazaar
+  Khwaab meiṅ maiṅ ne dekhe haiṅ kuchh patthar aur baazaar
 
   10
   Dekh rahi huṅ neza neza chaadar chaadar khuṅ
   Basti basti sehra sehra patthar patthar khuṅ
-  Shishe mein jo khaak thi wo bhi ho gayi khun ki dhaar
+  Shishe meiṅ jo khaak thi wo bhi ho gayi khun ki dhaar
 
   11
-  Jaise kisi barchhi ki chubhan mahsus ho sine mein
-  Rone lagti hai ek Bibi ab bhi Madine mein
+  Jaise kisi barchhi ki chubhan mahsus ho sine meiṅ
+  Rone lagti hai ek Bibi ab bhi Madine meiṅ
   Sunte hi Aamir ki zabaaṅ se Nayyar ke ashaar
 # source_id: nohayonline:eb80f03cb8b2581aeacf
 # source_url: https://www.nohayonline.com/details_content.php?id=3397

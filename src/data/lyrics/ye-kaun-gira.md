@@ -13,12 +13,12 @@ published: true
 romanLyrics: |-
   Kaaba hai siyaah posh falak mahw-e-buka hai
   Ye gunbad-e-aflaak se kiuṅ shor utha hai
-  Kohraam baqaiyya ki fizaaoṅ mein bapa hai
+  Kohraam baqaiyya ki fizaaoṅ meiṅ bapa hai
   Ye kaun gira reti par
 
   1
   Tha waqt-e-asr arsh-e-mualla pe shor tha
-  Waa hasrata ke zin se zamin par koi gira
+  Waa hasrata ke zin se zamiṅ par koi gira
   Kaaṅpi zamin chashm-e-malaaik ko yuṅ laga
   Quraan rahl-e-ziṅ se sar-e-farsh gir para
   Diwaar-e-Kaaba baith gayi arsh gir para
@@ -26,14 +26,14 @@ romanLyrics: |-
   2
   Girte hi is ke Kaabe ki diwaar gir gayi
   Sar aasmaaṅ ka jhuk gaya dastaar gir gayi
-  Insaaniyat ki dahr mein sarkaar gir gayi
+  Insaaniyat ki dahr meiṅ sarkaar gir gayi
   Zakhmoṅ se chur chur hai jhuk kar kamaan hai
   Hairaaṅ hai maut khauf nahiṅ itminaan hai
 
   3
   Ye ho gaya maalum ye khaasaan-e-Khuda hai
   Ye kaisa bashar hai jo zamaane se juda hai
-  Kaunain mein kiuṅ is ke liye hashr bapa hai
+  Kaunain meiṅ kiuṅ is ke liye hashr bapa hai
   Kiuṅ is ke liye arsh-e-mualla pe hai maatam
   Rote haiṅ Nabi saare siyaah posh hai Aadam
 
@@ -41,7 +41,7 @@ romanLyrics: |-
   Ye mard-e-Khuda shaah-e-Arab aala nasab hai
   Alhamd se wan naas talak is ka hi sab hai
   Baaba ka nasab maaṅ ka hasab is ka hasab hai
-  Tiroṅ ke musalle pe jo sajde mein gira hai
+  Tiroṅ ke musalle pe jo sajde meiṅ gira hai
   Islaam isi sar se madad maaṅg raha hai
 
   5

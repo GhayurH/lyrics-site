@@ -15,11 +15,11 @@ romanLyrics: |-
   Asir hote haiṅ hum ko chhuraa lo ae ammu
 
   1
-  Be goro ran mein pare haiṅ shahidoṅ ke laashe
+  Begoro ran meiṅ pare haiṅ shahidoṅ ke laashe
   Jinaaṅ se un ke kafan tum maṅgaa do ae ammu
 
   2
-  Jala jo kurte ka daaman to ran mein kehti thi
+  Jala jo kurte ka daaman to ran meiṅ kehti thi
   Nahiṅ jo baba to tum hi bujhaa do ae ammu
 
   3
@@ -27,7 +27,7 @@ romanLyrics: |-
   Phuphi ke sar pe rida ek urhaao ae ammu
 
   4
-  Kiya hai tauq o salaasil mein qaid Aabid ko
+  Kiya hai tauq o salaasil meiṅ qaid Aabid ko
   Sitam se bhaai ko mere bachaa lo ae ammu
 
   5
@@ -35,11 +35,11 @@ romanLyrics: |-
   Jo ho sake zara paani pilaa do ae ammu
 
   6
-  Hai nind aaṅkhoṅ mein baba ka sina dhuṅdti huṅ
+  Hai nind aaṅkhoṅ meiṅ baba ka sina dhuṅdti huṅ
   Kahaaṅ hai baba mere tum bulaa do ae ammu
 
   7
-  Hujum ahl-e-sitam aur be rida hai haram
+  Hujum ahl-e-sitam aur berida hai haram
   Rida nahiṅ to amaari maṅgaa do ae ammu
 
   8

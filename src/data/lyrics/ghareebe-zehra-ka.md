@@ -11,10 +11,10 @@ tags: []
 aliases: ["Ghareebe Zehra Ka"]
 published: true
 romanLyrics: |-
-  Kiya hai paamaal is ko ran mein
-  Haiṅ zakhm hi zakhm is badan mein
+  Kiya hai paamaal is ko ran meiṅ
+  Haiṅ zakhm hi zakhm is badan meiṅ
   Nahiṅ hai koi uthaane waala
-  Bahut akela hai is watan mein
+  Bahut akela hai is watan meiṅ
 
   1
   Idhar ki sab pasliyaṅ udhar haiṅ
@@ -49,7 +49,7 @@ romanLyrics: |-
   5
   Akela laakhoṅ se zakhm kha kar
   Ye so gaya jab sitam utha kar
-  Andhere ban mein isi badan se
+  Andhere ban meiṅ isi badan se
   Behan ne patthar hataaye aa kar
   Na jaane Zainab ne kaise dekha
   Gharib bhaai ka zakhmi laasha
@@ -76,12 +76,12 @@ romanLyrics: |-
   Lahu bhi zakhmoṅ se ris raha hai
   Gharib ki zakhmi eriyaṅ haiṅ
   Badan hai ye chaak chaak haaye
-  Bhari hai zakhmoṅ mein khaak haaye
+  Bhari hai zakhmoṅ meiṅ khaak haaye
 
   9
   Husain ki jab lahad pe jaana
-  Raza o Zeeshan yaad rakhna
-  Bichhi hai turbat mein ik chataai
+  Raza o Zishan yaad rakhna
+  Bichhi hai turbat meiṅ ik chataai
   Ye dil ki aankhoṅ se dekh lena
   Wahiṅ ye zakhmi badan rakha hai
   Saghir sine pe so raha hai

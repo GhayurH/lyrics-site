@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Himmat na haarna abhi
 
-  Rahwaar ek nashib mein le chal Husain ko
+  Rahwaar ek nashib meiṅ le chal Husain ko
   Zainab na dekh le sar-e-maqtal Husain ko
 
   1
@@ -23,9 +23,9 @@ romanLyrics: |-
   Ye fikr khaa rahi hai musalsal Husain ko
 
   2
-  Maqtal mein maut zakhmi badan ke qarib hai
+  Maqtal meiṅ maut zakhmi badan ke qarib hai
   Yaasin kab se pyaase dahan ke qarib hai
-  Zehra ka chaand ran mein gahan ke qarib hai
+  Zehra ka chaand ran meiṅ gahan ke qarib hai
   Ghere hue hai fauj ka baadal Husain ko
 
   3
@@ -35,9 +35,9 @@ romanLyrics: |-
   Tarpa rahi hai tiroṅ ki halchal Husain ko
 
   4
-  Ghurbat mein kya Husain tujhe raahwaar de
+  Ghurbat meiṅ kya Husain tujhe raahwaar de
   Tujh ko sila wafaaoṅ ka Parwardigaar de
-  Basti mein jaa ke pusht se apni utaar de
+  Basti meiṅ jaa ke pusht se apni utaar de
   Dena hai imtihaan mukammal Husain ko
 
   5
@@ -47,21 +47,21 @@ romanLyrics: |-
   Aata hai ye khayaal har ek pal Husain ko
 
   6
-  Tuti hui kamar mein qayaamat ka dard hai
-  Kab se bhari hui mere zakhmoṅ mein gard hai
+  Tuti hui kamar meiṅ qayaamat ka dard hai
+  Kab se bhari hui mere zakhmoṅ meiṅ gard hai
   Chehra tamaam pyaas ki shiddat se zard hai
-  Mil jaaye maaṅ ka dhup mein aanchal Husain ko
+  Mil jaaye maaṅ ka dhup meiṅ aanchal Husain ko
 
   7
   Waqt-e-qaza kuchh aur meri fikr barh gayi
   Zainab talaash karne bulandi pe charh gayi
   Mar jaayegi nazar jo kahiṅ mujh pe par gayi
-  Aaghosh mein chhupa le ae jangal Husain ko
+  Aaghosh meiṅ chhupa le ae jangal Husain ko
 
   8
-  Zakhmi Husain soch rahe haiṅ sipaah mein
-  Sar se rida ko pheṅk ke bhai ki chaah mein
-  Ghabra ke aa na jaaye behan qatlgaah mein
+  Zakhmi Husain soch rahe haiṅ sipaah meiṅ
+  Sar se rida ko pheṅk ke bhai ki chaah meiṅ
+  Ghabra ke aa na jaaye behan qatlgaah meiṅ
   Mushkil ka ab bata de koi hal Husain ko
 
   9

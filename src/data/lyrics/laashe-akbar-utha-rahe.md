@@ -37,16 +37,16 @@ romanLyrics: |-
   5
   Bani Haashim ke bachchoṅ aa jaao
   Naujawaaṅ ka janaaza uthwaao
-  Bekasi mein bula rahe haiṅ Husain
+  Bekasi meiṅ bula rahe haiṅ Husain
 
   6
-  Khaak-e-maqtal se dasht-e-ghurbat mein
-  Laasha-e-karil jawaaṅ ki surat mein
+  Khaak-e-maqtal se dasht-e-ghurbat meiṅ
+  Laasha-e-karil jawaaṅ ki surat meiṅ
   Apni mayyat utha rahe haiṅ Husain
 
   7
   Sehra baandha hai maut ne aa ke
-  Khuṅ ki mehndi hai haath mein jis ke
+  Khuṅ ki mehndi hai haath meiṅ jis ke
   Aise dulhe ko laa rahe haiṅ Husain
 
   8

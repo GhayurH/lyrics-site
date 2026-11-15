@@ -35,7 +35,7 @@ romanLyrics: |-
   Pattharoṅ se jise maara hai ye sar uska hai
 
   6
-  Jis ne aulaad ata ki thi Madine mein mujhe
+  Jis ne aulaad ata ki thi Madine meiṅ mujhe
   Ro ke raahib yehi kehta hai ye sar uska hai
 
   7

@@ -20,14 +20,14 @@ romanLyrics: |-
 
   2
   Mujhko is baat pe zaalim ne tamache maare
-  Maine bas aap ka sar Shimr se maanga baba
+  Maiṅ ne bas aap ka sar Shimr se maanga baba
 
   3
   Itni berahmi se durr mere laiṅ ne chhine
   Jaise Dadi se Fadak logoṅ ne chhina baba
 
   4
-  Munh ke bal daudte naaqe se giri thi jab main
+  Munh ke bal daurte naaqe se giri thi jab maiṅ
   Shimr ne baaloṅ se tab mujhko uthaya baba
 
   5
@@ -35,12 +35,12 @@ romanLyrics: |-
   Haath rukhsaar se mera nahiṅ uthta baba
 
   6
-  Aise ujde na koi meri dua hai rab se
-  Jaise pardes mein ujdi hai Sakina baba
+  Aise ujre na koi meri dua hai rab se
+  Jaise pardes meiṅ ujri hai Sakina baba
 
   7
-  So gayi Shaam ke zindaaṅ mein Sakina Mohsin
-  Qaid khaane mein sada reh gayi baba baba
+  So gayi Shaam ke zindaaṅ meiṅ Sakina Mohsin
+  Qaid khaane meiṅ sada reh gayi baba baba
 # source_id: nohayonline:8391d0f7fae05b04c89d
 # source_url: https://www.nohayonline.com/details_content.php?id=2255
 # raw_sha256: c2032f15ddfc2cc9a0be0992b00f292b7c8542b36c10f0dd33b968df9d10cf64

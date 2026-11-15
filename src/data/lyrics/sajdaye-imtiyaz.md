@@ -19,7 +19,7 @@ romanLyrics: |-
   Tujh sa mehmaaṅ nawaaz ho jaaye
 
   2
-  Jis ne khaai ho tegh sajde mein
+  Jis ne khaai ho tegh sajde meiṅ
   Us pe sadqe namaaz ho jaaye
 
   3

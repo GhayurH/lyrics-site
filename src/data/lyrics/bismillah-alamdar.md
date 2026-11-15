@@ -48,7 +48,7 @@ romanLyrics: |-
   Alamdar Alamdar Alamdar
   Alamdar Alamdar Alamdar
   Shah bole ye farmaan-e-Khudaawand-e-jali hai
-  Farzand-e-Nabi main huṅ tu farzand-e-Ali hai
+  Farzand-e-Nabi maiṅ huṅ tu farzand-e-Ali hai
 
   7
   Tu agar nur-e-jali hai to jali ban ke dikha
@@ -64,12 +64,12 @@ romanLyrics: |-
 
   9
   Sultaanoṅ ke sultaan ne waliyoṅ ke wali ne
-  Maanga hai tumheṅ apne duaaoṅ mein Ali ne
+  Maanga hai tumheṅ apne duaaoṅ meiṅ Ali ne
   Parcham-e-azmat-e-tauhid ke haq daar ho tum
-  Main huṅ meyaar-e-Khuda aur mera meyaar ho tum
+  Maiṅ huṅ meyaar-e-Khuda aur mera meyaar ho tum
 
   10
-  Badr mein arsh se utra jo alam
+  Badr meiṅ arsh se utra jo alam
   Sauṅpte hai wo tumheṅ aaj se ham
   Abbas Abbas Abbas Bismillah
   Bismillah Alamdar Bismillah Alamdar
@@ -77,8 +77,8 @@ romanLyrics: |-
   11
   Alamdar Alamdar Alamdar
   Alamdar Alamdar Alamdar
-  Dam kis mein hai nazroṅ se teri nazreṅ milaaye
-  Haibat teri tufaanoṅ ko khaatir mein na laaye
+  Dam kis meiṅ hai nazroṅ se teri nazreṅ milaaye
+  Haibat teri tufaanon ko khaatir meiṅ na laaye
 
   12
   Tu agar chaahe to baazi ko palat sakta hai
@@ -93,7 +93,7 @@ romanLyrics: |-
   Alamdar Alamdar Alamdar
 
   14
-  Seh paauṅ ga kaise main bhala teri judaai
+  Seh paauṅ ga kaise maiṅ bhala teri judaai
   Kis dil se kar duṅ tujhe rukhsat mere bhai
   Jaao ab Bint-e-Payambar se bashaarat le lo
   Jis ne paala hai tujhe us se ijaazat le lo
@@ -108,7 +108,7 @@ romanLyrics: |-
   Alamdar Alamdar Alamdar
   Alamdar Alamdar Alamdar
   Sun kar ye bayaaṅ Zainab-e-Muztar ne sada di
-  Pardes mein ye kaisi khabar haaye suna di
+  Pardes meiṅ ye kaisi khabar haaye suna di
 
   17
   Kiuṅ kar dil-e-ummid jahaaṅ tor rahe ho

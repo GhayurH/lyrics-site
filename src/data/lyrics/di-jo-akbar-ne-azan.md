@@ -1,6 +1,6 @@
 ---
 title: "دی جو اکبر نے اذاں اللّٰہ اکبر"
-alternateTitle: "Di Jo Akbar Ne Azan"
+alternateTitle: "Di Jo Akbar Ne Azaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -17,7 +17,7 @@ romanLyrics: |-
 
   1
   Naara-e-takbir gunja bar sar-e-Karbobala
-  Lehja-e-Akbar mein tanha jaane kaisa soz tha
+  Lehja-e-Akbar meiṅ tanha jaane kaisa soz tha
   Gir gayi ghash kha ke maaṅ Allahu Akbar Allahu Akbar
 
   2
@@ -41,12 +41,12 @@ romanLyrics: |-
   Sakht hoga imtihaaṅ Allahu Akbar Allahu Akbar
 
   6
-  Lashkar-e-Shabbir mein hai har taraf aah o fughaaṅ
-  De raha hai Karbala mein Yusuf-e-saani azaaṅ
+  Lashkar-e-Shabbir meiṅ hai har taraf aah o fughaaṅ
+  De raha hai Karbala meiṅ Yusuf-e-saani azaaṅ
   Ro raha hai aasmaaṅ Allahu Akbar Allahu Akbar
 
   7
-  Khaima-e-Shabbir mein sab bibiyaaṅ haiṅ dilfigaar
+  Khaima-e-Shabbir meiṅ sab bibiyaaṅ haiṅ dilfigaar
   Dar pe khaime ke azaaṅ sun kar hai Zainab beqaraar
   Le rahi hai siskiyaaṅ Allahu Akbar Allahu Akbar
 
@@ -56,13 +56,13 @@ romanLyrics: |-
   Hai qayaamat ka samaaṅ Allahu Akbar Allahu Akbar
 
   9
-  Sun ke ye gehwaare mein ki azaan-e-ashk baar
+  Sun ke ye gehwaare meiṅ ki azaan-e-ashk baar
   Nusrat-e-Sarwar ki khaatir ho raha hai beqaraar
   Asghar-e-ghuncha dahan Allahu Akbar Allahu Akbar
 
   10
   Kya bayaaṅ ho ae Hamid o Safdar-e-khasta jigar
-  Lashkar-e-Shabbir mein ye gham ka manzar dekh kar
+  Lashkar-e-Shabbir meiṅ ye gham ka manzar dekh kar
   Keh rahi hai khud azaaṅ Allahu Akbar Allahu Akbar
 # source_id: nohayonline:fb069a68aefa09e09c8e
 # source_url: https://www.nohayonline.com/details_content.php?id=1553

@@ -1,6 +1,6 @@
 ---
 title: "رسن میں بندھ چکا گلا"
-alternateTitle: "Behan Main Saath Saath"
+alternateTitle: "Behan Maiṅ Saath Saath"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: ["Behan Mai Saath Saath"]
 published: true
 romanLyrics: |-
-  Rasan mein bandh chuka gala
+  Rasan meiṅ bandh chuka gala
   Lo chal para wo qaafila
   Behan gharib nauhagar
   Sinaaṅ pe jab pari nazar
@@ -19,7 +19,7 @@ romanLyrics: |-
   Akhi ke hil rahe the lab
   Sinaaṅ pe huṅ to kya hua
   Tu hausla na haarna
-  Behan main saath saath huṅ
+  Behan maiṅ saath saath huṅ
 
   1
   Gharib-e-Karbala behan
@@ -30,8 +30,8 @@ romanLyrics: |-
 
   2
   Wafaa-e-waada ho chuka
-  Sinaaṅ talak main aa gaya
-  Main apna kaam kar chuka
+  Sinaaṅ talak maiṅ aa gaya
+  Maiṅ apna kaam kar chuka
   Meri sharik-e-Karbala
   Tu hausla na haarna
 
@@ -45,7 +45,7 @@ romanLyrics: |-
   4
   Agar hai raasta kathan
   Zara na dar meri behan
-  Tu berida main bekafan
+  Tu berida maiṅ bekafan
   Hai waqt hausla shikan
   Tu hausla na haarna
 

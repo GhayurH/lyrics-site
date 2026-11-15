@@ -16,7 +16,7 @@ romanLyrics: |-
   Ya Husain ya Husain
 
   Jaldi qadam barhaao ae aashiqaan-e-Maula
-  Hai muntazir tumhaari Karbobala mein Zahra
+  Hai muntazir tumhaari Karbobala meiṅ Zahra
   Sarhad pe Karbala ki Abbaas bhi khare haiṅ
   Thaame hue alam ko tum se ye keh rahe haiṅ
   Khush aamdid khush aamdid
@@ -34,7 +34,7 @@ romanLyrics: |-
   2
   Baghair izn yahaaṅ koi aa nahiṅ sakta
   Ho khush nasib ke tum aa rahe ho Karbobala
-  Jo zaairin mein shaamil tumhaara naam hua
+  Jo zaairin meiṅ shaamil tumhaara naam hua
   Karo na shukr ka sajda
   Bula rahi hai Karbala bula rahe haiṅ Husain
 
@@ -69,7 +69,7 @@ romanLyrics: |-
   7
   Rihaai Shaam ke zindaan se haram ko mili
   Tarap ke reh gayi us waqt haaye Bint-e-Ali
-  Larazte lehje mein Aabid ne jab sada hai ye di
+  Larazte lehje meiṅ Aabid ne jab sada hai ye di
   Khudaara utho Sakina
   Bula rahi hai Karbala bula rahe haiṅ Husain
 
@@ -85,7 +85,7 @@ romanLyrics: |-
   Par suno Aal-e-Muhammad ke safar ka manzar
   Na hi paani ki sabileṅ thi na saaya na shajar
   Shah ke kunbe pe baraste rahe har dam patthar
-  Us ki behnoṅ ka tha rassi mein gala
+  Us ki behnoṅ ka tha rassi meiṅ gala
   Naatawaaṅ beta hai kaaṅtoṅ pe chala
   Paani beti ko muyassar na hua
   Khud wo naize pe tarapta hi raha

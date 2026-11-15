@@ -14,13 +14,13 @@ romanLyrics: |-
   Jab bhi aaya koi Abbas ka pursa dene
   Ro ro ke har ek se ye Abbas ki maadar ne kaha
 
-  Main Ummul Banin huṅ logoṅ
+  Maiṅ Ummul Banin huṅ logoṅ
   Abbas ki maaṅ huṅ
 
   1
   Abbas ko ek pal na roi
   Shabbir ko rone ki khaatir
-  Main aaj talak zinda huṅ
+  Maiṅ aaj talak zinda huṅ
 
   2
   Abbas to mera beta hai
@@ -42,21 +42,21 @@ romanLyrics: |-
   5
   Wo jis ka parcham karta hai
   Har ek zamaane par saaya
-  Main us ke liye saaya huṅ
+  Maiṅ us ke liye saaya huṅ
 
   6
-  Ae kaash main jaati Karbobala
-  Mahshar mein naam jo hota
+  Ae kaash maiṅ jaati Karbobala
+  Mahshar meiṅ naam jo hota
   Ab saaṅseṅ jab tak baaqi hai
   Mujhko ye rahega sadma
 
   7
   Kiuṅ saath Ali ki beti ke
   Baazu na rasan se mere bandhe
-  Zahra se main sharminda huṅ
+  Zahra se maiṅ sharminda huṅ
 
   8
-  Ek maaṅ jo dhup mein baithi hai
+  Ek maaṅ jo dhup meiṅ baithi hai
   Saaya us par rota hai
   Jab dekhti huṅ ujri godi
   Dil mera laraz jaata hai
@@ -75,7 +75,7 @@ romanLyrics: |-
   11
   Pyaasa gaya Asghar dunya se
   Ye jab se suna hai us din se
-  Main pyaasoṅ ki saqqa huṅ
+  Maiṅ pyaasoṅ ki saqqa huṅ
 # source_id: nohayonline:1489b8dd9924f317a29e
 # source_url: https://www.nohayonline.com/details_content.php?id=3308
 # raw_sha256: ff1c8f10d08d0fca4709679eb0b347aa6673481e8a2b552db5375ef2e3f9fde3

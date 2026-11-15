@@ -11,16 +11,16 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Siyaah raat mein zindaaṅ ke dar pe ro ro ke
+  Siyaah raat meiṅ zindaaṅ ke dar pe ro ro ke
   Sakina kehti hai baba ye shab sataati hai
   Judaai aap ki us par ye khaak ka bistar
-  Kahiṅ andhere mein bachchoṅ ko nind aati hai
+  Kahiṅ andhere meiṅ bachchoṅ ko nind aati hai
   Ye sun ke Zainab-e-Mazlum boli gham na karo
-  Kahaani kehti huṅ main ik suno Sakina suno
+  Kahaani kehti huṅ maiṅ ik suno Sakina suno
   Sakina kahaani suno Sakina kahaani suno
 
   1
-  Ik shahanshaah tha Yasrab mein raha karta tha
+  Ik shahanshaah tha Yasrab meiṅ raha karta tha
   Us ka ghar wo tha ke Quraan jahaaṅ utra tha
   Dar pe Jibril sa darbaan raha karta tha
   Us ka aaṅgan bhi sitaaroṅ se bhara rehta tha
@@ -30,23 +30,23 @@ romanLyrics: |-
   2
   Us ke baba ko dar-e-ilm kaha jaata tha
   Maaṅ ne shahzaadi-e-kaunain laqab paaya tha
-  Us ke betoṅ mein nazar aks-e-Nabi aata tha
+  Us ke betoṅ meiṅ nazar aks-e-Nabi aata tha
   Betiyoṅ ko gul-e-paakiza kaha jaata tha
-  Us ke ik bhaai ki rag rag mein wafa behti thi
-  Ik behan saath mein saaye ki tarah rehti thi
+  Us ke ik bhaai ki rag rag meiṅ wafa behti thi
+  Ik behan saath meiṅ saaye ki tarah rehti thi
 
   3
   Ek din kya hua wo ghar se safar par nikla
   Us ka sab kunba bhi Quraaṅ ki hifaazat ko chala
-  Ashqiya ne use phir dasht-e-bala mein ghera
+  Ashqiya ne use phir dasht-e-bala meiṅ ghera
   Tin din tak use paani bhi mayassar na hua
   Ho gayi aam har ek jaur o jafa us ke liye
   Aur phir jang ka maidaan saja us ke liye
 
   4
-  Us ke ik bete ke sine mein sinaaṅ tut gayi
+  Us ke ik bete ke sine meiṅ sinaaṅ tut gayi
   Bhaai ke haath kate tir laga mashk chhidi
-  Laash paamaal bhatije ki bhi maqtal mein hui
+  Laash paamaal bhatije ki bhi maqtal meiṅ hui
   Bezabaaṅ qatl hua us ka chhuri us pe chali
   Us shahanshaah ke kunbe pe gharibi chhaai
   Bujh gaye saare diye Shaam-e-Gharibaaṅ aayi
@@ -55,9 +55,9 @@ romanLyrics: |-
   Khaime jalne lage nazdik sitamgar aaye
   Us shahanshaah ki bachchi ne tamaanche khaaye
   Kaan zakhmi hue khuṅ aaṅkhoṅ se tapka haaye
-  Dhundne baap ko maqtal mein wo kaise jaaye
-  Jalte daaman ko liye ganj-e-shahidaaṅ mein gayi
-  Rassi gardan mein bandhi Shaam ke zindaaṅ mein gayi
+  Dhundne baap ko maqtal meiṅ wo kaise jaaye
+  Jalte daaman ko liye ganj-e-shahidaaṅ meiṅ gayi
+  Rassi gardan meiṅ bandhi Shaam ke zindaaṅ meiṅ gayi
 
   6
   Phir Sakina ne kaha rehte haiṅ wo log kahaaṅ
@@ -70,25 +70,25 @@ romanLyrics: |-
   7
   Boli ro ro ke Sakina ye mera qissa hai
   Is kahaani ka shahanshaah mera baba hai
-  Neza jis ke laga sine mein mera bhaiya hai
+  Neza jis ke laga sine meiṅ mera bhaiya hai
   Mera Asghar hai lainoṅ ne jise maara hai
   Berida tum ho phuphi jaan meri jaati hai
   Ye kahaani to mere ghar ki nazar aati hai
 
   8
   Jis ko sine pe shahanshaah ke nind aati thi
-  Dasht mein haaye chacha keh ke wo chillaati thi
+  Dasht meiṅ haaye chacha keh ke wo chillaati thi
   Jis ke kaanoṅ se lahu behta tha jo pyaasi thi
-  Apne baba ki judaai mein mari jaati thi
-  Us shahanshaah ki beti wo Sakina main huṅ
-  Jis ka dushwaar hua qaid mein jina main huṅ
+  Apne baba ki judaai meiṅ mari jaati thi
+  Us shahanshaah ki beti wo Sakina maiṅ huṅ
+  Jis ka dushwaar hua qaid meiṅ jina maiṅ huṅ
 
   9
   Khatm jab Sarwar o Rehaan kahaani ye hui
   Wo jo sunti thi kahaani wo Sakina na rahi
   Thaame zanjir naqaahat se utha ik qaidi
   Ek nanhi si lahad kaaṅpte haathoṅ se bani
-  Sar shahanshaah ka godi mein lahu rota tha
+  Sar shahanshaah ka godi meiṅ lahu rota tha
   Wa Husaina ka bas ik shor bapa hota tha
 # source_id: nohayonline:64a740c3994e8f12f3c3
 # source_url: https://www.nohayonline.com/details_content.php?id=2056

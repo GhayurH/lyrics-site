@@ -14,7 +14,7 @@ romanLyrics: |-
   Shahid-e-Karbala hai din ki baqa,
   Zabih-e-Nainawa Husain baadshaah
 
-  Hashr mein rang laayega khun-e-shahidaaṅ dekhna
+  Hashr meiṅ rang laayega khun-e-shahidaaṅ dekhna
   Aayeṅgi jab Fatema, haal-e-pareshaaṅ dekhna
 
   1
@@ -34,7 +34,7 @@ romanLyrics: |-
 
   4
   Zainab o Kulsum se kehta tha Shimr-e-badgauhar
-  Shaam mein jaaogi nange sar phirogi dar badar
+  Shaam meiṅ jaaogi nange sar phirogi dar badar
   Karbala ke baad ab taarik zindaaṅ dekhna
 
   5

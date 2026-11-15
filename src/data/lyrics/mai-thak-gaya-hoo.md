@@ -13,11 +13,11 @@ published: true
 romanLyrics: |-
   Aaye faras ki zin se jab khaak par Husain
   Maadar ka chehra dekh ke karne lage ye bain
-  Ammaa main thak gaya huṅ maaṅ
-  Apni aaghosh mein kuch der sula lo Ammaa
+  Ammaa maiṅ thak gaya huṅ maaṅ
+  Apni aaghosh meiṅ kuch der sula lo Ammaa
 
-  Main thak gaya huṅ ye laashe utha ke ae Ammaa
-  Apni aaghosh mein kuch der sula lo Ammaa
+  Maiṅ thak gaya huṅ ye laashe utha ke ae Ammaa
+  Apni aaghosh meiṅ kuch der sula lo Ammaa
 
   1
   Kitne naize hai Muhammad ke nawaase ke liye
@@ -26,17 +26,17 @@ romanLyrics: |-
 
   2
   Qatl Abbas ka ho jaana qaza thi meri
-  Barchhi Akbar ko nahiṅ mere kaleje mein lagi
+  Barchhi Akbar ko nahiṅ mere kaleje meiṅ lagi
   Gham ki barchhi mere sine se nikaalo Ammaa
 
   3
   Ab mere khun ka pyaasa hai ye jangal saara
-  Koi is dasht mein naasir bhi nahiṅ hai mera
+  Koi is dasht meiṅ naasir bhi nahiṅ hai mera
   Ho sake to mere Ghaazi ko bula lo Ammaa
 
   4
-  Halq sukha hai kaleje mein dukhan hoti hai
-  Ret zakhmoṅ mein jo jaati hai chubhan hoti hai
+  Halq sukha hai kaleje meiṅ dukhan hoti hai
+  Ret zakhmoṅ meiṅ jo jaati hai chubhan hoti hai
   Apni chaadar ko mere zakhmoṅ pe daalo Ammaa
 
   5

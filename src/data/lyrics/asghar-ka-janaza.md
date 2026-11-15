@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ae mominoṅ jab khun mein duba hua aaya
+  Ae mominoṅ jab khun meiṅ duba hua aaya
   Asghar ka janaaza Asghar ka janaaza
 
   1
@@ -27,7 +27,7 @@ romanLyrics: |-
   3
   Chehre pe mere khuṅ hai mere ghuncha dahan ka
   Murjhaaya hai ye phul Muhammad ke chaman ka
-  Ae naana tere din pe karta huṅ main sadqa
+  Ae naana tere din pe karta huṅ maiṅ sadqa
   Asghar ka janaaza Asghar ka janaaza
 
   4
@@ -44,19 +44,19 @@ romanLyrics: |-
 
   6
   Maaṅ kehti hai ae god ke paale Ali Asghar
-  Thi aarzu dekhuṅ gi main sehra tere sar par
+  Thi aarzu dekhuṅ gi maiṅ sehra tere sar par
   Kiuṅ waqt ne mujh kokh jali ko hai dikhaaya
   Asghar ka janaaza Asghar ka janaaza
 
   7
-  Yaad aa gaya zindaan mein jo bhaiya ka humakna
+  Yaad aa gaya zindaan meiṅ jo bhaiya ka humakna
   Sajjad se tab kehne lagi baali Sakina
   Kya kha ke taras dhup se logoṅ ne uthaaya
   Asghar ka janaaza Asghar ka janaaza
 
   8
   Rehaan Shah-e-diṅ ne har ek laash uthaai
-  Akbar sa jawaaṅ un mein tha Abbas sa bhaai
+  Akbar sa jawaaṅ un meiṅ tha Abbas sa bhaai
   Bete se Yadullah ke magar uth nahiṅ paaya
   Asghar ka janaaza Asghar ka janaaza
 # source_id: nohayonline:56f39f38df9bb1987dc8

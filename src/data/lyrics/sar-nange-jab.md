@@ -10,20 +10,20 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Sar nange jab haram gaye darbaar-e-Shaam mein
-  Shor o fughaaṅ tha marqad-e-Khairul Anaam mein
+  Sar nange jab haram gaye darbaar-e-Shaam meiṅ
+  Shor o fughaaṅ tha marqad-e-Khairul Anaam meiṅ
 
   1
   Raavi ne haal khaana-e-zindaaṅ hai yuṅ likha
-  Wahshat mein misl-e-qabr aur aafat mein Karbala
+  Wahshat meiṅ misl-e-qabr aur aafat meiṅ Karbala
   Aayi jo shab asiroṅ pe sadma hua siwa
   Na farsh tha na saaya na paani tha na ghiza
   Shamoṅ ki roshni na charaaghoṅ ki roshni
   Thi maatam-e-Husain ke daawoṅ ki roshni
 
   2
-  Baano ko sar jo dasht mein us dam nazar para
-  Asghar ko qaid khaane mein dil dhundne laga
+  Baano ko sar jo dasht meiṅ us dam nazar para
+  Asghar ko qaid khaane meiṅ dil dhundne laga
   Dauri wo qatl gaah ki jaanib barahna paa
   Zainab lipat ke boli ke bhaabhi hua hai kya
   Zindaaṅ se bhi asir kahaaṅ jaane paate haiṅ
@@ -32,26 +32,26 @@ romanLyrics: |-
   3
   Us waqt yaad aati hai Asghar ki waaridaat
   Maidaan suna laashoṅ pe laasha andheri raat
-  Jangal mein maare dar ke wo maasum khush safa
-  Pehlu mein mujh ko dhundta hoga uthaaye haath
+  Jangal meiṅ maare dar ke wo maasum khush safa
+  Pehlu meiṅ mujh ko dhundta hoga uthaaye haath
   Jaane do mujhko jaane do ab jaan jaati hai
   Asghar ke rone ki mujhe aawaaz aati hai
 
   4
   Muslim ki bewa ro ke lagi karne iltimaas
-  Asghar to qatl gaah mein laash-e-pidar ke paas
+  Asghar to qatl gaah meiṅ laash-e-pidar ke paas
   Bibi hamaare dard o qalaq ko karo khayaal
-  Rakhti huṅ chaar daagh jigar par main behawaas
-  Do bete qatl gaah mein haiṅ tan pe sar nahiṅ
-  Do aaye the jo Kufe mein unki khabar nahiṅ
+  Rakhti huṅ chaar daagh jigar par maiṅ behawaas
+  Do bete qatl gaah meiṅ haiṅ tan pe sar nahiṅ
+  Do aaye the jo Kufe meiṅ unki khabar nahiṅ
 
   5
   Waali ki laash hai dar-e-Kufa pe bekafan
   Rone ko unki laash pe maaṅ hai na hai behen
   Kubra pukaari sab se siwa hai mera mihan
-  Kangne ki jaa bandhi hai mere haath mein rasan
-  Logoṅ kaho ye zulm hua kis zamaane mein
-  Mere siwa dulhan hai qaid khaane mein
+  Kangne ki jaa bandhi hai mere haath meiṅ rasan
+  Logoṅ kaho ye zulm hua kis zamaane meiṅ
+  Mere siwa dulhan hai qaid khaane meiṅ
 # source_id: nohayonline:ac83001d6ae4a3134296
 # source_url: https://www.nohayonline.com/details_content.php?id=3475
 # raw_sha256: 7a2cc97e6bcadb22521b05f8d76087ca26cb00678f989ccddcde98b2df60427e

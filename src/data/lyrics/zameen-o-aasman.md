@@ -14,8 +14,8 @@ romanLyrics: |-
   Bujhe ja rahi hai pyaas Asghar ki rag-e-jaaṅ se
 
   1
-  Tazabzub mein khare haiṅ darmiyaan-e-khaima o maqtal
-  Shaah-e-din soch mein haiṅ ke kya kaheṅ beshir ki maadar se
+  Tazabzub meiṅ khare haiṅ darmiyaan-e-khaima o maqtal
+  Shaah-e-din soch meiṅ haiṅ ke kya kaheṅ beshir ki maadar se
 
   2
   Madaar-e-Karbala hai tum pa ae Asghar chale aao
@@ -27,7 +27,7 @@ romanLyrics: |-
 
   4
   Usi ke khun se chehra hua hai surkh Sarwar ka
-  Ulat kar aastineṅ jis ki le aaye the armaaṅ se
+  Ulat kar aastinen jis ki le aaye the armaaṅ se
 
   5
   Rahegi taa-qayaamat Alqama sharminda sharminda
@@ -35,7 +35,7 @@ romanLyrics: |-
 
   6
   Rabaab-e-khasta-tan ko daagh bachchoṅ ka bhi sehna hai
-  Koi chhutega Karbal mein koi bichhrega zindaaṅ se
+  Koi chhutega Karbal meiṅ koi bichhrega zindaaṅ se
 
   7
   Ali Asghar hai mahv-e-khwaab Shahid sina-e-Shah par

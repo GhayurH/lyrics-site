@@ -19,7 +19,7 @@ romanLyrics: |-
   Qayamat hogi khaimoṅ se agar Akbar ki maaṅ nikli
 
   2
-  Jigar bhi aa gaya Shabbir ke haathoṅ mein bete ka
+  Jigar bhi aa gaya Shabbir ke haathoṅ meiṅ bete ka
   Ali Akbar ke sine se akeli kab sinaaṅ nikli
 
   3

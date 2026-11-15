@@ -26,7 +26,7 @@ romanLyrics: |-
 
   2
   Jaa chuke ahl-e-haram us ko rihaai na mili
-  Qabr mein jaa ke bhi bachchi hai abhi tak qaidi
+  Qabr meiṅ jaa ke bhi bachchi hai abhi tak qaidi
   Is ka nanha sa gala rismaaṅ se hai bandha
 
   3
@@ -35,14 +35,14 @@ romanLyrics: |-
   Aayi jab us ko qaza dil-e-Fizza ne kaha
 
   4
-  Dasht mein chhut gaye saare sahaare us ke
+  Dasht meiṅ chhut gaye saare sahaare us ke
   Saare pyare hue Allah ko pyare us ke
   Aaye baba na chacha saath koi na raha
 
   5
-  Maaṅ Madine mein bahut dur tarap jaati thi
+  Maaṅ Madine meiṅ bahut dur tarap jaati thi
   Shaam ke waqt bahut shaam ki yaad aati thi
-  Jab diya ghar mein jala maaṅ ne lo Sughra se kaha
+  Jab diya ghar meiṅ jala maaṅ ne lo Sughra se kaha
 
   6
   Apne qiyaam ko zara jald bula lo Maula

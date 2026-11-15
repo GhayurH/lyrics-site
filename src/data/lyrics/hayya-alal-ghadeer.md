@@ -18,11 +18,11 @@ romanLyrics: |-
   Aawaaz-e-kun fakaaṅ ke mahal se Ghadir tak
   Kya kya na dekhe waqt ne jalse Ghadir tak
   Aisa magar na dekha azal se Ghadir tak
-  Sehra-e-Khum mein arsh ke saare makiṅ haiṅ aaj
+  Sehra-e-Khum meiṅ arsh ke saare makiṅ haiṅ aaj
   Lagta hai aasmaan ke upar zamin hai aaj
 
   2
-  Tha qaafila safar mein dua-e-Khalil ka
+  Tha qaafila safar meiṅ dua-e-Khalil ka
   Baaqi tha aham kaam abhi Jibrail ka
   Kaamil na tha taaruf Ilaahi sabil ka
   Paighaam na tamaam tha Rab-e-Jalil ka
@@ -38,18 +38,18 @@ romanLyrics: |-
   Warna tumhaari kal se ibaadat haraam hai
 
   4
-  Main Mustafa huṅ aur meri tasvir hai Ali
-  Main kitaab-e-haq meri tafsir hai Ali
-  Main paikar-e-dua meri taasir hai Ali
-  Main din ki sipar meri shamshir hai Ali
-  Saaya huṅ main Ali ka Ali mera saaya hai
+  Maiṅ Mustafa huṅ aur meri tasvir hai Ali
+  Maiṅ kitaab-e-haq meri tafsir hai Ali
+  Maiṅ paikar-e-dua meri taasir hai Ali
+  Maiṅ din ki sipar meri shamshir hai Ali
+  Saaya huṅ maiṅ Ali ka Ali mera saaya hai
   Laa shai se laasharik ne ham ko banaaya hai
 
   5
-  Har fel har amal mein mera raazdaan Ali
+  Har fel har amal meiṅ mera raazdaan Ali
   Har gaam har qadam pe mera paasbaan Ali
-  Meraaj ke safar mein mera saaibaan Ali
-  Main mehmaan tha Rab ka magar mezbaan Ali
+  Meraaj ke safar meiṅ mera saaibaan Ali
+  Maiṅ mehmaan tha Rab ka magar mezbaan Ali
   Apni kabhi zabaan kabhi chehra bana liya
   Rab ne bhi Murtaza ko wasila bana liya
 
@@ -70,10 +70,10 @@ romanLyrics: |-
   Rehman se bhi reham ki ummid chhor de
 
   8
-  Aaya nazar jo dushman-e-Kaaba Ghadir mein
-  Allah ne nibaah diya waada Ghadir mein
-  Patthar tha aur sar tha adu ka Ghadir mein
-  Goya utaara fil ka surah Ghadir mein
+  Aaya nazar jo dushman-e-Kaaba Ghadir meiṅ
+  Allah ne nibaah diya waada Ghadir meiṅ
+  Patthar tha aur sar tha adu ka Ghadir meiṅ
+  Goya utaara fil ka surah Ghadir meiṅ
   Ik Abar Haye waqt tha sangsaar kar diya
   Munkir Ghadir-e-Khum ka tha Finnar kar diya
 # source_id: tajpoints:71e73a51cec3b4ef41a9

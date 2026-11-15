@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Jab Shaam ke zindaaṅ mein hui shaam haram ko
+  Jab Shaam ke zindaaṅ meiṅ hui shaam haram ko
   Ek aan na raahat thi na aaraam haram ko
   Har baar tapakta tha lahu ashk-e-rawaaṅ se
   Zindaan larazta tha Sakina ki fughaaṅ se
@@ -19,23 +19,23 @@ romanLyrics: |-
   Kitni raateṅ guzar gaiṅ Baba
 
   1
-  Chhote se sin mein qaidi-e-zindaan ho gai
-  Baba main kiuṅ na aap pe qurbaan ho gai
+  Chhote se sin meiṅ qaidi-e-zindaan ho gai
+  Baba maiṅ kiuṅ na aap pe qurbaan ho gai
 
   2
-  Dil mein jo mere dard hai Khaaliq ke hai ayaaṅ
-  Kis ko kahuṅ main baap mera baap hai kahaaṅ
-  Tum bekafan main besar o saamaan ho gai
+  Dil meiṅ jo mere dard hai Khaaliq ke hai ayaaṅ
+  Kis ko kahuṅ maiṅ baap mera baap hai kahaaṅ
+  Tum bekafan maiṅ besar o saamaan ho gai
 
   3
   Kya kya na khalq kalme haqaarat ke keh gai
-  Main bekasi se dekh ke munh sab ka reh gai
+  Maiṅ bekasi se dekh ke munh sab ka reh gai
   Kurta phata hua meri pehchaan ho gai
 
   4
   Gar aah ki to Shimr pukaara khamosh ho
   Aur chup hui to bepadari ne kaha ke ro
-  In aafatoṅ mein ghir ke pareshaan ho gai
+  In aafatoṅ meiṅ ghir ke pareshaan ho gai
 
   5
   Bejurm kaan zakhmi hue aur tamaache khaaye
@@ -45,7 +45,7 @@ romanLyrics: |-
   6
   Sadqe gai bataao kahaaṅ haiṅ mere padar
   Aaeṅ padar to jaaye Sakina bhi apne ghar
-  Kiuṅ aise zaalimoṅ ki main mehmaan ho gai
+  Kiuṅ aise zaalimoṅ ki maiṅ mehmaan ho gai
 
   7
   Poti huṅ uski jo ke hai kaunain ka amir
@@ -63,7 +63,7 @@ romanLyrics: |-
   Nanhi si jaan jaan se bejaan ho gai
 
   10
-  Bas ae Anees bazm mein hai girya o buka
+  Bas ae Anis bazm meiṅ hai girya o buka
   Sadiyoṅ talak rulaaye ga sab ko ye marsiya
   Baali Sakina karb ka unwaan ho gai
 # source_id: nohayonline:aa244a3f92a829b505d9

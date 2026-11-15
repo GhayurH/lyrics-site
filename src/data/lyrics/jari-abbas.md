@@ -18,15 +18,15 @@ romanLyrics: |-
   Ae baali Sakina ke chacha Hazrat-e-Abbas
 
   1
-  Khaimoṅ mein lagi aag to bachchoṅ ne pukaara
-  Ab koi nahiṅ aalam-e-ghurbat mein hamaara
+  Khaimoṅ meiṅ lagi aag to bachchoṅ ne pukaara
+  Ab koi nahiṅ aalam-e-ghurbat meiṅ hamaara
   Hai hashr ka hangaam bapa Hazrat-e-Abbas
   Maqtal ki mukhaalif hai hawa Hazrat-e-Abbas
 
   2
   Jaaye bhi kahaaṅ nargha-e-aada se nikal kar
-  Aisa na ho mar jaaye sabhi khaimoṅ mein jal kar
-  Batlaao kare aise mein kya Hazrat-e-Abbas
+  Aisa na ho mar jaaye sabhi khaimoṅ meiṅ jal kar
+  Batlaao kare aise meiṅ kya Hazrat-e-Abbas
   De do hameiṅ marne ki raza Hazrat-e-Abbas
 
   3
@@ -49,13 +49,13 @@ romanLyrics: |-
 
   6
   Din raat azaadaar ye karte haiṅ duaaeiṅ
-  Qaaim rahe duniya mein azaanoṅ ki sadaaeiṅ
+  Qaaim rahe duniya meiṅ azaanoṅ ki sadaaeiṅ
   Labrez rahe jaam-e-wila Hazrat-e-Abbas
   Karte rahe hum yuṅhi sana Hazrat-e-Abbas
 
   7
   Bepardagi-e-Zainab-e-dilgir ka maatam
-  Jis ghar mein bapa hota hai Shabbir ka maatam
+  Jis ghar meiṅ bapa hota hai Shabbir ka maatam
   Mehfuz rahe ghar wo sada Hazrat-e-Abbas
   Karte haiṅ dua ahl-e-aza Hazrat-e-Abbas
 

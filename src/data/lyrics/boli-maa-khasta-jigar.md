@@ -27,9 +27,9 @@ romanLyrics: |-
   Dur ka hai ye safar aakhri lori sun lo
 
   3
-  Meri aaghosh mein ye aakhri shab hai pyare
+  Meri aaghosh meiṅ ye aakhri shab hai pyare
   Is tasavvur se mere chalte hai dil par aare
-  Subh beh jayeṅ ge ran mein tere khuṅ ke dhaare
+  Subh beh jayeṅ ge ran meiṅ tere khuṅ ke dhaare
   Tujhko aayegi qaza aakhri lori sun lo
 
   4
@@ -40,7 +40,7 @@ romanLyrics: |-
 
   5
   Keh rahe the abhi haye Sheh-e-Karbobala
-  Qatl ho jayegi is dasht mein kal fauj-e-Khuda
+  Qatl ho jayegi is dasht meiṅ kal fauj-e-Khuda
   Ae mere laal larazta hai kaleja mera
   Raat jaye na guzar aakhri lori sun lo
 
@@ -53,7 +53,7 @@ romanLyrics: |-
   7
   Hashr ka lamha tha Gohar wo qayamat ki ghari
   Karwateṅ leta tha shehzada tarapta tha kabhi
-  Dard mein dubi hui sun ke sada maadar ki
+  Dard meiṅ dubi hui sun ke sada maadar ki
   Aa gaya waqt-e-safar aakhri lori sun lo
 # source_id: nohayonline:5507ad1d3df8541d07d8
 # source_url: https://www.nohayonline.com/details_content.php?id=3231

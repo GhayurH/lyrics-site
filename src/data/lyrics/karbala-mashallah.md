@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Jiye Shaah Husain jiye Shaah Husain
-  Zinda jahaaṅ mein taaba qayaamat hai Karbala
+  Zinda jahaaṅ meiṅ taaba qayaamat hai Karbala
   Saadaat-e-Karbala ki amaanat hai Karbala
   Dunya ke har gharib ki izzat hai Karbala
   Jiye Shaah Husain jiye Shaah Husain
@@ -38,7 +38,7 @@ romanLyrics: |-
   Sar pe ho parcham khula
   Ishq-e-aza saath rahe
   Ashkoṅ ki barsaat rahe
-  Haathoṅ mein bas haath rahe
+  Haathoṅ meiṅ bas haath rahe
   Teri zamiṅ moalla
   Nainawa Nainawa maashaallah
   Tu rahegi sada inshaallah
@@ -64,7 +64,7 @@ romanLyrics: |-
   Khaadim-e-darbaar haiṅ
   Naara-e-labbaik mera
   Maatam-e-Shaah-e-shuhada
-  Lo main chala Karbobala
+  Lo maiṅ chala Karbobala
   Teri zamiṅ moalla
   Shukriya shukriya maashaallah
   Tu rahegi sada inshaallah
@@ -106,7 +106,7 @@ romanLyrics: |-
   Karbobala nur-e-jaaṅ, saari zaminoṅ ki maaṅ
   Ishq o mohabbat ka nishaaṅ
   Farsh pe hai arsh jahaaṅ, jannat-e-arzi ka samaaṅ
-  Din panaah, sajda gaah, madrasa, darsgaah, hal jaza, hal ata
+  Diṅ panaah, sajda gaah, madrasa, darsgaah, hal jaza, hal ata
   Tu hai dayaar-e-Husain, maashaallah maashaallah
   Tu dil-e-Zahra ka chain, maashaallah maashaallah
   Ruh-e-dil-e-mashraqain, maashaallah maashaallah

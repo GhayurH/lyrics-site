@@ -18,7 +18,7 @@ romanLyrics: |-
   Dekhti reh gayi maasum Sakina paani
 
   1
-  Khun aaṅkhoṅ mein utar aaya yatima royi
+  Khun aaṅkhoṅ meiṅ utar aaya yatima royi
   Apni ghurbat pe tarap kar ke wo dukhiya royi
   Kar ke rukh der talak jaanib-e-darya royi
   Yaad saqqa ki bahut aayi Sakina royi
@@ -62,7 +62,7 @@ romanLyrics: |-
   Kaun likhega yatima ki wo ghurbat Waiz
   Thi ajab dukhtar-e-Shabbir ki haalat Waiz
   Le gayi qabr talak pyaas ki shiddat Waiz
-  Aaj tak mujh ko riwaayat mein kahiṅ ye na mila
+  Aaj tak mujh ko riwaayat meiṅ kahiṅ ye na mila
   Paani kab aur kahaaṅ baali Sakina ne piya
 # source_id: nohayonline:3dc7d4c16af4bddc5aca
 # source_url: https://www.nohayonline.com/details_content.php?id=2861

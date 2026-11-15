@@ -15,12 +15,12 @@ romanLyrics: |-
   Mujhe wo chaand si surat dikhaao Ae mere ammu
 
   1
-  Bahe khun aap ka jis par wo paani kya karuṅ gi main
-  Yuṅhi pyaasi rahuṅ gi main
+  Bahe khun aap ka jis par wo paani kya karuṅ gi maiṅ
+  Yuṅhi pyaasi rahuṅ gi maiṅ
   Chale aao ke ab paani na laao Ae mere ammu
 
   2
-  Ye waada hai ke jab tak hai ragoṅ mein khuṅ ki tughyaani
+  Ye waada hai ke jab tak hai ragoṅ meiṅ khuṅ ki tughyaani
   Na maaṅguṅ gi kabhi paani
   Na rutho ab to mujh se maan jaao Ae mere ammu
 

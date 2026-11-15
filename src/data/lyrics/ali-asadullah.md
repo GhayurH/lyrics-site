@@ -35,13 +35,13 @@ romanLyrics: |-
 
   3
   Hasti-e-Haider-e-Karrar Khuda ka lashkar
-  Pech ammame ke aflak o zamin ka chakkar
+  Pech ammame ke aflak o zamiṅ ka chakkar
   Rasta khuld ka hai jae namaz-e-Haider
   Maskan-e-Haider-e-Karrar hai Allah ka ghar
 
   4
   Nashir-e-Fuztu bi Rabbil Kaba
-  Ye zamin jis ka nishan-e-sajda
+  Ye zamiṅ jis ka nishan-e-sajda
   Jis ka saya nahiṅ us ka saya
   Rabbahu fihi tajalla-e-zahar
 
@@ -54,7 +54,7 @@ romanLyrics: |-
   6
   Ishq-e-Haider ba Khuda lutf-e-Khuda
   Sahib-e-zarf ko hota hai ata
-  Ishq-e-Haider mein ibadat ka maza
+  Ishq-e-Haider meiṅ ibadat ka maza
   Jis ke maddah sabhi barg o shajar
 
   7
@@ -66,11 +66,11 @@ romanLyrics: |-
   8
   Aalam-e-Karb hai tanhayi teri
   Karbala kha gayi binayi teri
-  Tere bachchoṅ mein thi danayi teri
-  Utra maidan mein ye keh kar Akbar
+  Tere bachchoṅ meiṅ thi danayi teri
+  Utra maidan meiṅ ye keh kar Akbar
 
   9
-  Fikr-e-Rehaan o Nadeem-e-Sarwar
+  Fikr-e-Rehaan o Nadim-e-Sarwar
   Hai dua-e-dil-e-Zehra ka asar
   Barsar-e-farsh-e-aza Ya Haider
   Le ke maujud haiṅ tere naukar

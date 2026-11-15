@@ -17,37 +17,37 @@ romanLyrics: |-
 
   1
   Baad aap ke hameiṅ ye ashqiyaa sataayeṅ ge
-  Main kise bulaauṅ gi gauhar jo chhine jaayeṅ ge
+  Maiṅ kise bulaauṅ gi gauhar jo chhine jaayeṅ ge
   Ye laiṅ jalaayeṅ ge hamaare khaimagaah bhi
   Aap agar na aaye to ye mujh pe zulm dhaayeṅ ge
   Seh nahiṅ sakuṅ gi taaziyaana
 
   2
-  Jaanti huṅ main ke sakht aap ka hai imtihaaṅ
+  Jaanti huṅ maiṅ ke sakht aap ka hai imtihaaṅ
   Aap bewatan gharib tashna lab hai baaba jaaṅ
-  Kar rahi huṅ main dua Khuda ki baargaah meiṅ
+  Kar rahi huṅ maiṅ dua Khuda ki baargaah meiṅ
   Jaa rahe haiṅ aap jo sitamgaroṅ ke darmiyaaṅ
   Ho gaya hai sang dil zamaana
 
   3
   Keh gaye the ammu jaaṅ ran se laut aayeṅ ge
   Paani mere waaste wo Alqama se laayeṅ ge
-  Itne zakhm dil pe seh ke kis tarah jiyuṅ gi main
+  Itne zakhm dil pe seh ke kis tarah jiyuṅ gi maiṅ
   Tanha chhor kar mujhe ab aap ran ko jaayeṅ ge
   Kis qadar kathin hai gham chhupaana
 
   4
-  Der ho gayi jo aap ko to kya karuṅ gi main
-  Aap ke baghair raat ko na so sakuṅ gi main
+  Der ho gayi jo aap ko to kya karuṅ gi maiṅ
+  Aap ke baghair raat ko na so sakuṅ gi maiṅ
   Aap jo na aaye aur ban meiṅ raat ho gayi
-  Beqaraar aap aur besukuṅ rahuṅ gi main
+  Beqaraar aap aur besukuṅ rahuṅ gi maiṅ
   Jaa ke ran meiṅ na mujhe bhulaana
 
   5
   Hai ajib waqt kaise aap ko juda karuṅ
-  Kaise aap ko main baaba jaan alwida kahuṅ
+  Kaise aap ko maiṅ baaba jaan alwida kahuṅ
   Marzi-e-Khuda ke saamne zabaan band hai
-  Dil magar ye keh raha hai aap ko main rok luṅ
+  Dil magar ye keh raha hai aap ko maiṅ rok luṅ
   Hai nasib meiṅ ye gham uthaana
 
   6
@@ -72,7 +72,7 @@ romanLyrics: |-
   Yaaṅ mujhe bhi ran meiṅ tum bulaana
 
   9
-  De rahi huṅ aap ko Khuda ki main panaah meiṅ
+  De rahi huṅ aap ko Khuda ki maiṅ panaah meiṅ
   Aanch aaye koi aap par na qatl gaah meiṅ
   Haath jor kar ye arz kar rahi huṅ baaba jaaṅ
   Ran meiṅ aap ho jahaaṅ rahe meri nigaah meiṅ

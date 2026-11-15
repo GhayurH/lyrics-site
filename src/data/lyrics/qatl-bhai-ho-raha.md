@@ -17,7 +17,7 @@ romanLyrics: |-
   1
   Hukm sun kar Sayyeda ka ho gayi unchi zamiṅ
   Bhai ko dekha to na tha ziṅ pe na bar zamiṅ
-  Tiroṅ talwaaroṅ mein tha mazlum Shaah-e-Karbala
+  Tiroṅ talwaaroṅ meiṅ tha mazlum Shaah-e-Karbala
   Unchi ho kar Ae zamiṅ tu mujhko ye manzar dikha
 
   2
@@ -29,17 +29,17 @@ romanLyrics: |-
   3
   Najaf se aaye Ali baqaiye se aayi Fatima
   Pitte sar ko the apne karte the aah o fughaaṅ
-  Aur the girya kunaṅ maqtal mein Shaah-e-ambiya
+  Aur the girya kunaṅ maqtal meiṅ Shaah-e-ambiya
   Unchi ho kar Ae zamiṅ tu mujhko ye manzar dikha
 
   4
-  Karbala mein Shaah-e-diṅ ne aakhri sajda kiya
+  Karbala meiṅ Shaah-e-diṅ ne aakhri sajda kiya
   Tera zarboṅ se laiṅ ne sar kiya tan se juda
   Khuṅ barsa aasmaaṅ se tha andhera chhaa gaya
   Unchi ho kar Ae zamiṅ tu mujhko ye manzar dikha
 
   5
-  Baad-e-qatl-e-Shah chali Khursheed gham ki aandhiyaṅ
+  Baad-e-qatl-e-Shah chali Khurshid gham ki aandhiyaṅ
   Aa gaya Shabbir ka sar bar sar-e-nok-e-sinaaṅ
   Haaye mere bhai ka hai bin sar kahaaṅ laasha para
   Unchi ho kar Ae zamiṅ tu mujhko ye manzar dikha

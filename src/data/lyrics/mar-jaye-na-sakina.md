@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Mar jaye na Sakina zindaan mein tanha hai
+  Mar jaye na Sakina zindaan meiṅ tanha hai
   Ghere hue bachchi ko ghurbat ka andhera hai
 
   1
@@ -20,10 +20,10 @@ romanLyrics: |-
 
   2
   Lab khushk hai bachchi ke aur haath rasan basta
-  Kuchh khaak hai baaloṅ mein bosida sa kurta hai
+  Kuchh khaak hai baaloṅ meiṅ bosida sa kurta hai
 
   3
-  Sehmi hui baithi hai ek kone mein shehzaadi
+  Sehmi hui baithi hai ek kone meiṅ shehzaadi
   Aahat bhi jo hoti hai dil kaampne lagta hai
 
   4
@@ -44,7 +44,7 @@ romanLyrics: |-
 
   8
   Bas itna kaha Gohar aur mar gayi shehzaadi
-  Bin baap ke dunya mein jina koi jina hai
+  Bin baap ke dunya meiṅ jina koi jina hai
 # source_id: nohayonline:e11fe4431f4111535b4c
 # source_url: https://www.nohayonline.com/details_content.php?id=2339
 # raw_sha256: a92ac4be62028875349806215046b2acbdc9ca8b1f7c8200eea281eb265254f1

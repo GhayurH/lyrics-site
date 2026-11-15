@@ -15,11 +15,11 @@ romanLyrics: |-
   Har taraf hai sannaata aao dhal gaya suraj
 
   1
-  Sirf apne seene par shab guzaar lene do
+  Sirf apne sine par shab guzaar lene do
   Subh phir chale jaana aao dhal gaya suraj
 
   2
-  Donoṅ haath phailaaye main tumheiṅ bulaati huṅ
+  Donoṅ haath phailaaye maiṅ tumheiṅ bulaati huṅ
   Ab nahiṅ raha jaata aao dhal gaya suraj
 
   3
@@ -31,8 +31,8 @@ romanLyrics: |-
   Raat ho gayi baba aao dhal gaya suraj
 
   5
-  Dushmanoṅ ki basti mein khaufnaak sahra mein
-  Be rida huṅ be saaya aao dhal gaya suraj
+  Dushmanoṅ ki basti meiṅ khaufnaak sahra meiṅ
+  Berida huṅ besaaya aao dhal gaya suraj
 
   6
   Shimr mere kaanoṅ se chhin le gaya gauhar
@@ -43,11 +43,11 @@ romanLyrics: |-
   Hum se phir gayi duniya aao dhal gaya suraj
 
   8
-  Kya tumheiṅ gawaara hai main yatim kehlaauṅ
+  Kya tumheiṅ gawaara hai maiṅ yatim kehlaauṅ
   Tum to ho mere baba aao dhal gaya suraj
 
   9
-  Aaj bhi Suroor aksar rauza-e-Sakina par
+  Aaj bhi Surur aksar rauza-e-Sakina par
   Gunjta hai ye nauha aao dhal gaya suraj
 # source_id: nohayonline:4cab9e8162aab6f51bc9
 # source_url: https://www.nohayonline.com/details_content.php?id=3662

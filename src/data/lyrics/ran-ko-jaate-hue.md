@@ -27,11 +27,11 @@ romanLyrics: |-
   Jis se darti thi tum wo ghari aa gayi
   Dekho chaaroṅ taraf tiragi chhaa gayi
   Tiragi chhaa gayi
-  Dasht-e-purhaul mein shaam hone ko hai
+  Dasht-e-purhaul meiṅ shaam hone ko hai
   Lo musaafir chala alwida alwida
 
   3
-  Le ke baali Sakina ko aaghosh mein
+  Le ke baali Sakina ko aaghosh meiṅ
   Nanhe nanhe se haathoṅ ke bose liye
   Haye bose liye
   Sheh ne hasrat se beti ko takte hue

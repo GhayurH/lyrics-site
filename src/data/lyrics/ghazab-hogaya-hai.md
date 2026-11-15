@@ -14,31 +14,31 @@ romanLyrics: |-
   Suno rozadaaroṅ Ali Murtaza ke
   Chali tegh sar par ghazab ho gaya hai
 
-  Hai gham ka ye manzar kaho khaak uda kar
+  Hai gham ka ye manzar kaho khaak ura kar
   Ghazab ho gaya hai
 
   1
-  Zamaane mein gham ki ghata chhaa rahi hai
+  Zamaane meiṅ gham ki ghata chhaa rahi hai
   Baqayya se dekho sada aa rahi hai
   Bata Ibn-e-Muljim sitam Murtaza par
   Ye dhaaya hai kiuṅ kar ghazab ho gaya hai
-  Hai gham ka ye manzar kaho khaak uda kar
+  Hai gham ka ye manzar kaho khaak ura kar
   Ghazab ho gaya hai
 
   2
   Nabi ki lahad se ye aawaaz aayi
-  Lahu mein hai duba hua mera bhaai
+  Lahu meiṅ hai duba hua mera bhaai
   Ye ajr-e-risaalat diya mujh ko kaisa
   Hua qalb muztar ghazab ho gaya hai
-  Hai gham ka ye manzar kaho khaak uda kar
+  Hai gham ka ye manzar kaho khaak ura kar
   Ghazab ho gaya hai
 
   3
-  Hai Kufe ki galiyoṅ mein ye aah o zaari
+  Hai Kufe ki galiyoṅ meiṅ ye aah o zaari
   Madad kaun haaye kare ab hamaari
-  Ghariboṅ yatimoṅ mein hai shor-e-maatam
+  Ghariboṅ yatimoṅ meiṅ hai shor-e-maatam
   Hai noha laboṅ par ghazab ho gaya hai
-  Hai gham ka ye manzar kaho khaak uda kar
+  Hai gham ka ye manzar kaho khaak ura kar
   Ghazab ho gaya hai
 
   4
@@ -46,15 +46,15 @@ romanLyrics: |-
   Yatimi ka sadma sahe kaise dil par
   Hai tanhaai kaisi na Baba rahe aur
   Na hai sar pe maadar ghazab ho gaya hai
-  Hai gham ka ye manzar kaho khaak uda kar
+  Hai gham ka ye manzar kaho khaak ura kar
   Ghazab ho gaya hai
 
   5
   Janaaza Ali ka utha haaye haaye
-  Hai ahl-e-aza mein buka haaye haaye
+  Hai ahl-e-aza meiṅ buka haaye haaye
   Bapa shor-e-maatam falak par hai Baqar
   Jo kehta hai Safdar ghazab ho gaya hai
-  Hai gham ka ye manzar kaho khaak uda kar
+  Hai gham ka ye manzar kaho khaak ura kar
   Ghazab ho gaya hai
 # source_id: nohayonline:c7b5cb685618b9604f96
 # source_url: https://www.nohayonline.com/details_content.php?id=1555

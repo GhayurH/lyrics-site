@@ -29,7 +29,7 @@ romanLyrics: |-
   Ik dukhyaari meri Sakina
 
   3
-  Khaime mein kohraam hai barpa
+  Khaime meiṅ kohraam hai barpa
   Aag lagaane aaye haiṅ aada
   Puchhti hai Naana ka rauza
   Ik dukhyaari meri Sakina
@@ -41,7 +41,7 @@ romanLyrics: |-
   Ik dukhyaari meri Sakina
 
   5
-  Is khaime se us khaime mein
+  Is khaime se us khaime meiṅ
   Jaati hai ghabraayi hui si
   Saath liye Asghar ka jhula
   Ik dukhyaari meri Sakina

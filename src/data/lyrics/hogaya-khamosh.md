@@ -11,14 +11,14 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Shaam ke zindaaṅ mein baali Sakina kho gayi
-  Qabr mein haaye haaye Baaba kehte kehte so gayi
+  Shaam ke zindaaṅ meiṅ baali Sakina kho gayi
+  Qabr meiṅ haaye haaye Baaba kehte kehte so gayi
 
   Ho gaya khaamosh zindaaṅ hai udaasi chhaa gayi
-  Hai khizaaṅ mein baagh-e-ismat ki kali murjha gayi
+  Hai khizaaṅ meiṅ baagh-e-ismat ki kali murjha gayi
 
   1
-  Shaam ke zindaaṅ mein bas gunjti thi siskiyaaṅ
+  Shaam ke zindaaṅ meiṅ bas gunjti thi siskiyaaṅ
   The andhere chaar su na paas Baaba tha na maaṅ
   Haaye Maasuma ko hai zindaaṅ ki garmi khaa gayi
 
@@ -28,17 +28,17 @@ romanLyrics: |-
   Dekh kar jaur o sitam haaye maut bhi ghabra gayi
 
   3
-  Muntazir jis ki Madine mein rahi Sughra behan
-  Reh gayi haaye Shaam mein jaa Sakina hai watan
+  Muntazir jis ki Madine meiṅ rahi Sughra behan
+  Reh gayi haaye Shaam meiṅ jaa Sakina hai watan
   Kar ke wo Islaam zinda wo reg-e-gharibaaṅ paa gayi
 
   4
   Chhine dur hai zaalimoṅ ne par utaare na rasan
   Haaye jo kurta tha jala wohi bana us ka kafan
-  Chhor us ko Shaam mein hai maaṅ watan tanha gayi
+  Chhor us ko Shaam meiṅ hai maaṅ watan tanha gayi
 
   5
-  Majlis o maatam mein hai Khurshid shaamil ambiya
+  Majlis o maatam meiṅ hai Khurshid shaamil ambiya
   Ae azaadaaroṅ zara do mil ke maatam ki sada
   Laadli Shabbir ki dene dua aa gayi
 # source_id: nohayonline:c84d97b5709ede4459f8

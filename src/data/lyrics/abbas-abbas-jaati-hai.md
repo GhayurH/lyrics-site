@@ -17,7 +17,7 @@ romanLyrics: |-
   Ek pyasi behan ka sar hai khula
 
   1
-  Jab zin se gire bin haathoṅ ke
+  Jab ziṅ se gire bin haathoṅ ke
   Bhaiya mere munh ke bal the pare
   Karwat bhi badalna mushkil tha
   Phir bhi na kisi se lab khole
@@ -43,7 +43,7 @@ romanLyrics: |-
   4
   Jab tak tu raha zinda bhaiya
   Nazreṅ na uthata tha koi
-  Zehra ki main beti huṅ Ghazi
+  Zehra ki maiṅ beti huṅ Ghazi
   Haaṅ sar pe mere chadar na rahi
   Aa sar pe mere saaya kar de
   Ae bhai mere phir so jaana
@@ -53,31 +53,31 @@ romanLyrics: |-
   Aur sar pe tumhare gurz laga
   Behneṅ roti haiṅ ye keh kar
   Bhaiya ko mere kisne maara
-  Sambhla na gaya tumse zin par
-  Sar khun mein tera dub gaya
+  Sambhla na gaya tumse ziṅ par
+  Sar khun meiṅ tera dub gaya
 
   6
   Laaye the watan se jis tarah
   Us tarah watan ab pahuncha do
   Bhaiya meri chadar dilwa do
-  Mahmil mein bhi mujhko bithwa do
+  Mahmil meiṅ bhi mujhko bithwa do
   Abbas mere aa dekh zara
   Hai teri behan ka shana bandha
 
   7
-  Kis mein ye bhala jurat aati
-  Jo bandhta shanoṅ mein rassi
+  Kis meiṅ ye bhala jurat aati
+  Jo bandhta shanoṅ meiṅ rassi
   Bhaiya mere zinda hote agar
   Chadar na mere sar se lutti
-  Main Sani-e-Zehra huṅ Ghazi
+  Maiṅ Sani-e-Zehra huṅ Ghazi
   Kis tarah rahuṅgi beparda
 
   8
   Rehaan o Mubarak Zainab ka
-  Pardes mein yuṅ ghar baar luta
-  Bhai pardes mein maare gaye
+  Pardes meiṅ yuṅ ghar baar luta
+  Bhai pardes meiṅ maare gaye
   Shana bandha parda luta gaya
-  Maqtal mein chaudah sadi se
+  Maqtal meiṅ chaudah sadi se
   Hai Fatema Zehra ka noha
 # source_id: nohayonline:2450a0d7b312eaa4f47a
 # source_url: https://www.nohayonline.com/details_content.php?id=1376

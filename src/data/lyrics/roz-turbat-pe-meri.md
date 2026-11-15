@@ -13,21 +13,21 @@ published: true
 romanLyrics: |-
   Wasiyat hai yatimoṅ ki zindaaṅ se Sakina ki
 
-  Kaun zindaaṅ mein sune ye mere naale ammaṅ
+  Kaun zindaaṅ meiṅ sune ye mere naale ammaṅ
   Kar diya mujh ko andheroṅ ke hawaale ammaṅ
   Ek muddat se nahiṅ dekhe ujaale ammaṅ
   Mujh ko zindaaṅ ke andheroṅ se bachaana ammaṅ
   Roz turbat pe meri shama jalaana ammaṅ
 
   1
-  Apne in zakhmoṅ ki main taab na laa paauṅ gi
-  Mujh ko lagta hai main kuchh roz mein mar jaauṅ gi
-  Ammaṅ main laut ke na apne watan jaauṅ gi
+  Apne in zakhmoṅ ki maiṅ taab na laa paauṅ gi
+  Mujh ko lagta hai maiṅ kuchh roz meiṅ mar jaauṅ gi
+  Ammaṅ maiṅ laut ke na apne watan jaauṅ gi
   Meri haalat meri Sughra ko bataana ammaṅ
 
   2
-  Jab bhi royi mujhe maarta tha Shimr-e-lain
-  Nind is dar se mujhe qaid mein aati hi nahiṅ
+  Jab bhi royi mujhe maarta tha Shimr-e-laiṅ
+  Nind is dar se mujhe qaid meiṅ aati hi nahiṅ
   Phir meri qabr pe wo Shimr na aa jaaye kahiṅ
   Mujh ko tanha na yahaaṅ chhor ke jaana ammaṅ
 
@@ -44,8 +44,8 @@ romanLyrics: |-
   Jism se kurte ko aahista chhuraana ammaṅ
 
   5
-  Ho gaya mujh ko yaqiṅ main na kabhi jaauṅ gi ghar
-  Dafn ho jaauṅ gi is qaid-e-jafa mein mar kar
+  Ho gaya mujh ko yaqiṅ maiṅ na kabhi jaauṅ gi ghar
+  Dafn ho jaauṅ gi is qaid-e-jafa meiṅ mar kar
   Ek wasiyat hai meri puri karo gi maadar
   Faateha ke liye baba ko bulaana ammaṅ
 
@@ -53,7 +53,7 @@ romanLyrics: |-
   Kaisi pur dard wasiyat thi bayaaṅ ho kaise
   Bain ye Mazhar o Farhan Sakina ne kiye
   Zaalimoṅ se na kafan lena Sakina ke liye
-  Mujh ko kurte mein hi marqad mein sulaana ammaṅ
+  Mujh ko kurte meiṅ hi marqad meiṅ sulaana ammaṅ
 # source_id: nohayonline:3a694e40f700265390d1
 # source_url: https://www.nohayonline.com/details_content.php?id=3552
 # raw_sha256: 40824df25072a495b36ca7c1736bef08bc4d9db1e8167c055862be793bdac9f9

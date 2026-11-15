@@ -1,6 +1,6 @@
 ---
 title: "تھی عشق علی میں رسن و دار سے باتیں"
-alternateTitle: "Thi Ishq-e-Ali Mein"
+alternateTitle: "Thi Ishq-e-Ali Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Thi ishq-e-Ali mein rasan o daar se baateṅ
+  Thi ishq-e-Ali meiṅ rasan o daar se baateṅ
 
   1
   Kya karti ajal Misam-e-Tammaar se baateṅ
@@ -21,8 +21,8 @@ romanLyrics: |-
   Faujeṅ na kareṅ aahani diwaar se baateṅ
 
   3
-  Har jang mein talwaar to khaamosh rahi hai
-  Khaibar mein hui Haidar-e-Karraar se baateṅ
+  Har jang meiṅ talwaar to khaamosh rahi hai
+  Khaibar meiṅ hui Haidar-e-Karraar se baateṅ
 
   4
   Allah ki marzi ke liye Shaah-e-Shahidaaṅ

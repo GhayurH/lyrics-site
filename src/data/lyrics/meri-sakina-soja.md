@@ -16,7 +16,7 @@ romanLyrics: |-
   Jaagti maaṅ ne kaha meri Sakina so ja
 
   1
-  Jo tujhe khauf hai shaayad main use kam kar duṅ
+  Jo tujhe khauf hai shaayad maiṅ use kam kar duṅ
   Aa ja aankhoṅ pe tere Naad-e-Ali dam kar duṅ
   Dur kiuṅ baithi hai aa meri Sakina so ja
 
@@ -26,12 +26,12 @@ romanLyrics: |-
   Hai mere dil ki sada meri Sakina so ja
 
   3
-  Chaar barsoṅ mein na zahmat di kabhi tu ne mujhe
+  Chaar barsoṅ meiṅ na zahmat di kabhi tu ne mujhe
   Apni khidmat ka mujhe aaj to mauqa de de
   Hoga ehsaan tera meri Sakina so ja
 
   4
-  Qaid khaane mein jo aa jaayeṅge tere Baba
+  Qaid khaane meiṅ jo aa jaayeṅge tere Baba
   Khud utha duṅ gi tujhe shaana hila kar tera
   Achchha kuch der zara meri Sakina so ja
 

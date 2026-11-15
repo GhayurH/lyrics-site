@@ -11,12 +11,12 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Sajjad ye farmaate thay ro kar sar-e-darbaar
+  Sajjad ye farmaate the ro kar sar-e-darbaar
 
   1
-  Main tanha nahiṅ huṅ meri phuphiyaṅ bhi yahaṅ hai
-  Haathoṅ mein rasan bhi hai sabhi girya kunaṅ hai
-  Hai Aal-e-Nabi ranj o musibat mein giraftaar
+  Maiṅ tanha nahiṅ huṅ meri phuphiyaṅ bhi yahaṅ hai
+  Haathoṅ meiṅ rasan bhi hai sabhi girya kunaṅ hai
+  Hai Aal-e-Nabi ranj o musibat meiṅ giraftaar
   Tum apni nigaahoṅ ko uthaana nahiṅ Mukhtar
 
   2
@@ -32,7 +32,7 @@ romanLyrics: |-
   Tum apni nigaahoṅ ko uthaana nahiṅ Mukhtar
 
   4
-  Main kaise bataauṅ khule hassaas ke baazu
+  Maiṅ kaise bataauṅ khule hassaas ke baazu
   Darya pe qalam ho gaye Abbas ke baazu
   Hum tanha nahiṅ saath hai Abbas alamdaar
   Tum apni nigaahoṅ ko uthaana nahiṅ Mukhtar
@@ -46,13 +46,13 @@ romanLyrics: |-
   6
   Mukhtar kahuṅ kaise bahut zulm hue haiṅ
   Baad-e-shah-e-waala sabhi khaime bhi jale hai
-  Hum rote thay khush hote thay zaalim ke tarafdaar
+  Hum rote the khush hote the zaalim ke tarafdaar
   Tum apni nigaahoṅ ko uthaana nahiṅ Mukhtar
 
   7
   Irfan o Sharar kaise bayaaṅ ho wo musibat
-  Darbaar mein Sajjad ke nauhe se thi riqqat
-  Rote thay sabhi apne paraaye sar-e-darbaar
+  Darbaar meiṅ Sajjad ke nauhe se thi riqqat
+  Rote the sabhi apne paraaye sar-e-darbaar
   Tum apni nigaahoṅ ko uthaana nahiṅ Mukhtar
 # source_id: nohayonline:6be3e830c735fccef434
 # source_url: https://www.nohayonline.com/details_content.php?id=3476

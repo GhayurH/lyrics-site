@@ -12,11 +12,11 @@ aliases: []
 published: true
 romanLyrics: |-
   Ek maa ki aa rahi hai sada ae mere Husain
-  Aa jaa tu meri god mein aa ae mere Husain
+  Aa jaa tu meri god meiṅ aa ae mere Husain
 
   1
-  Bachpan mein larkhara ke tu girta tha jab kabhi
-  Tujh ko sambhaalne mein kai baar main giri
+  Bachpan meiṅ larkhara ke tu girta tha jab kabhi
+  Tujh ko sambhaalne meiṅ kai baar maiṅ giri
   Aati thi mere Rab se sada ae mere Husain
 
   2
@@ -26,7 +26,7 @@ romanLyrics: |-
 
   3
   Rukhsat hua tu Shahr-e-Madina se jis ghari
-  Nana ki qabr se ye sada main ne bhi suni
+  Nana ki qabr se ye sada maiṅ ne bhi suni
   Beta bacha le din mera ae mere Husain
 
   4
@@ -35,8 +35,8 @@ romanLyrics: |-
   Is khaak par katega gala ae mere Husain
 
   5
-  Bachpan mein tere naaz uthaati rahi huṅ main
-  Pehlu mein apne tujh ko sulaati rahi huṅ main
+  Bachpan meiṅ tere naaz uthaati rahi huṅ maiṅ
+  Pehlu meiṅ apne tujh ko sulaati rahi huṅ maiṅ
   Ye tujh pe kaisa waqt para ae mere Husain
 
   6
@@ -45,7 +45,7 @@ romanLyrics: |-
   Ghazi ka laasha uth na saka ae mere Husain
 
   7
-  Mukhtar ran mein bain ye karti thi Fatima
+  Mukhtar ran meiṅ bain ye karti thi Fatima
   Majid kaleja phat gaya Zehra ne jab kaha
   Paamaal tera laasha hua ae mere Husain
 # source_id: nohayonline:487d5c8a16725ce7e984

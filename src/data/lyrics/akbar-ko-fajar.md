@@ -22,7 +22,7 @@ romanLyrics: |-
   Jis pe Hasnain ke Naana ki qabr roti hai
 
   3
-  Haye wo Shaam-e-Gharibaaṅ ke andhere mein Rubaab
+  Haye wo Shaam-e-Gharibaaṅ ke andhere meiṅ Rubaab
   Khaali aaghosh liye thaame jigar roti hai
 
   4
@@ -31,7 +31,7 @@ romanLyrics: |-
 
   5
   Haakim-e-Shaam ye kehta tha Sakina ke liye
-  Qaid-e-tanhaai mein daalo ye agar roti hai
+  Qaid-e-tanhaai meiṅ daalo ye agar roti hai
 
   6
   Laasha-e-Qaasim pe hai khaamosh khari Bint-e-Husain

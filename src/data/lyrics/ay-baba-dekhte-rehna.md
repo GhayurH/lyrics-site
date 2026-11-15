@@ -18,7 +18,7 @@ romanLyrics: |-
   1
   Khuda ke waaste rakhna nazar mujh par mere baba
   Na jaane kiuṅ sataata hai ye mujhko darr mere baba
-  Kahiṅ aisa na ho ke raah mein mar jauṅ main gir kar
+  Kahiṅ aisa na ho ke raah meiṅ mar jauṅ maiṅ gir kar
   Ae baba dekhte rehna
 
   2
@@ -30,7 +30,7 @@ romanLyrics: |-
   3
   Rehm khaaya na meri kamsini par baani-e-shar ne
   Shutar ki pusht se baandha hai ae baba sitamgar ne
-  Main sar se paauṅ tak orhe hue huṅ zakhmoṅ ki chadar
+  Maiṅ sar se paauṅ tak orhe hue huṅ zakhmoṅ ki chadar
   Ae baba dekhte rehna
 
   4
@@ -40,21 +40,21 @@ romanLyrics: |-
   Ae baba dekhte rehna
 
   5
-  Main saabir baap ki beti huṅ duniya ko bataauṅgi
-  Mujhe jis haal mein le jaayeṅge aada main jaauṅgi
+  Maiṅ saabir baap ki beti huṅ duniya ko bataauṅgi
+  Mujhe jis haal meiṅ le jaayeṅge aada maiṅ jaauṅgi
   Na aayega kisi bhi mor par shikwa mere lab par
   Ae baba dekhte rehna
 
   6
   Chacha Abbas ka sar kiuṅ nazar aate nahiṅ mujhko
-  Main kab se dhundti huṅ par nazar aata nahiṅ mujhko
+  Maiṅ kab se dhundti huṅ par nazar aata nahiṅ mujhko
   Thehar jaaye to batlaana sar-e-neza chacha ka sar
   Ae baba dekhte rehna
 
   7
   Meri qismat ne ae baba ye kaise din dikhaaye haiṅ
-  Khuda jaane ke ab tak kitne patthar main ne khaaye haiṅ
-  Main roti huṅ to ghurbat par meri haṅste haiṅ ahl-e-shar
+  Khuda jaane ke ab tak kitne patthar maiṅ ne khaaye haiṅ
+  Maiṅ roti huṅ to ghurbat par meri haṅste haiṅ ahl-e-shar
   Ae baba dekhte rehna
 
   8
@@ -64,7 +64,7 @@ romanLyrics: |-
   Ae baba dekhte rehna
 
   9
-  Karuṅ main daastaan-e-ranj o gham Aasif bayaaṅ kaise
+  Karuṅ maiṅ daastaan-e-ranj o gham Aasif bayaaṅ kaise
   Sunaaye ahl-e-imaaṅ ko Sakina ki fughaaṅ kaise
   Sada ye aaj bhi ae Shadmaaṅ aati hai reh reh kar
   Ae baba dekhte rehna

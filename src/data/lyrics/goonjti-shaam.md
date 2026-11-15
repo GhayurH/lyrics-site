@@ -10,9 +10,9 @@ tags: []
 aliases: ["Goonjti Shaam"]
 published: true
 romanLyrics: |-
-  Ujar gayi haaye main ujar gayi
+  Ujar gayi haaye maiṅ ujar gayi
 
-  Gunjti shaam-e-gharibaaṅ mein ye Zainab ki sada
+  Gunjti shaam-e-gharibaaṅ meiṅ ye Zainab ki sada
   Mera koi na raha
 
   Na rahe bhaai na bete chhin gayi meri rida
@@ -25,20 +25,20 @@ romanLyrics: |-
   Mera koi na raha
 
   2
-  Wo jo athaarah baras nuri hijaaboṅ mein raha
-  Laut ke aauṅga main jis ne tha Sughra se kaha
+  Wo jo athaarah baras nuri hijaaboṅ meiṅ raha
+  Laut ke aauṅga maiṅ jis ne tha Sughra se kaha
   Haaye barchhi se kaleja mere Akbar ka chhida
   Mera koi na raha
 
   3
   Mera Ghaazi bhi gaya Qaasim o Akbar bhi gaye
   Hur sa mehmaan bhi gaya Ibn-e-Mazaahir bhi gaye
-  Kis ko ghurbat mein sada duṅ Karbala ye to bata
+  Kis ko ghurbat meiṅ sada duṅ Karbala ye to bata
   Mera koi na raha
 
   4
-  Maaṅ ne maqtal mein jise dulha bana kar bheja
-  Mere Qaasim ka badan dasht mein paamaal hua
+  Maaṅ ne maqtal meiṅ jise dulha bana kar bheja
+  Mere Qaasim ka badan dasht meiṅ paamaal hua
   Baal khole hue roti hui laashe pe kaha
   Mera koi na raha
 

@@ -17,19 +17,19 @@ romanLyrics: |-
   1
   Ae meri jaaṅ Akbar jab zakhm koi khaana
   Baba se chhupaana
-  Laila ne kaha ro kar jab dard ho sine mein
+  Laila ne kaha ro kar jab dard ho sine meiṅ
   Tum maaṅ ko bataana
 
   2
   Laashe utha utha ke ab thak chuke haiṅ baba
   Athaara saal waala tu hai jawaan beta
-  Main jaanti huṅ Akbar mushkil hai zaifi mein
+  Maiṅ jaanti huṅ Akbar mushkil hai zaifi meiṅ
   Tera laasha uthana
 
   3
   Mar jaaye jiska beta wo kaise gham uthaye
-  Tujh se lipat ke ran mein Shabbir mar na jaaye
-  Is maaṅ ke liye Akbar aasaan nahiṅ khaimoṅ mein
+  Tujh se lipat ke ran meiṅ Shabbir mar na jaaye
+  Is maaṅ ke liye Akbar aasaan nahiṅ khaimoṅ meiṅ
   Do laashoṅ ko laana
 
   4
@@ -41,24 +41,24 @@ romanLyrics: |-
   5
   Barchhi ka dard seh ke thehro ge kaise zin par
   Jab dil pe haath rakh kar girne lago zamin par
-  Main tum ko sambhaaluṅ gi godi mein utha luṅ gi
+  Maiṅ tum ko sambhaaluṅ gi godi meiṅ utha luṅ gi
   Tum mujh ko bulaana
 
   6
-  Ae laal sabr karna na dard se tadapna
+  Ae laal sabr karna na dard se tarapna
   Baba ke saamne tum mat aeriyaaṅ ragarna
   Tum bete ho Laila ke wo dilbar-e-Zahra hai
   Ye bhul na jaana
 
   7
   Jaate huwe phuphi se ek baar aur milna
-  Armaan dil mein koi reh jaaye na adhura
+  Armaan dil meiṅ koi reh jaaye na adhura
   Zainab ki tamanna hai beta tere maathe par
   Sehra hai sajaana
 
   8
   Jab Sughra yaad aayi ro ro ke maaṅ pukaari
-  Hai muntazir watan mein kab se behen tumhari
+  Hai muntazir watan meiṅ kab se behen tumhari
   Ye bhul nahiṅ jaana Sughra se abhi tum ne
   Waada hai nibhana
 

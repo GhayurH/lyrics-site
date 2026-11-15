@@ -17,8 +17,8 @@ romanLyrics: |-
   Dekho Hurr aa raha hai
 
   1
-  Pehnega thori der mein wo khuṅ bhara kafan
-  Aankhoṅ pe pattiyaaṅ haiṅ to haathoṅ mein hai rasan
+  Pehnega thori der meiṅ wo khuṅ bhara kafan
+  Aankhoṅ pe pattiyaaṅ haiṅ to haathoṅ meiṅ hai rasan
   Mujrim ki tarah surat-e-qaidi bana hua
   Dekho Hurr aa raha hai
 
@@ -37,7 +37,7 @@ romanLyrics: |-
   4
   Fizza se ro ke kehne lagiṅ Khwaahar-e-Imam
   Is taaza mehmaaṅ ko hamaara kaho salaam
-  Bint-e-Ali ke khaime mein pahunchi jo ye sada
+  Bint-e-Ali ke khaime meiṅ pahunchi jo ye sada
   Dekho Hurr aa raha hai
 
   5
@@ -55,13 +55,13 @@ romanLyrics: |-
   7
   Laasha utha ke Shah chale su-e-khaima gaah
   Hurr ka kamar pe haath tha aur thi laboṅ pe aah
-  Maqtal mein gunjti thi kisi Bibi ki sada
+  Maqtal meiṅ gunjti thi kisi Bibi ki sada
   Dekho Hurr aa raha hai
 
   8
   Bete ke baad Hurr ne bhi izn-e-wagha liya
   Jangal se jaise sher ne wo hamla kar diya
-  Thi al-amaan ke shor mein dushman ki ye sada
+  Thi al-amaaṅ ke shor meiṅ dushman ki ye sada
   Dekho Hurr aa raha hai
 
   9

@@ -12,11 +12,11 @@ aliases: []
 published: true
 romanLyrics: |-
   Shaam ka bazaar Aabid-e-bimaar
-  Paaoṅ mein beri tauq-e-giraaṅ baar
+  Paaoṅ meiṅ beri tauq-e-giraaṅ baar
 
   1
   Bhule ga na wo manzar naize pe sar-e-Sarwar
-  Bemakhna o bechaadar balwe mein phuphi maadar
+  Bemakhna o bechaadar balwe meiṅ phuphi maadar
   Aur majma-e-kuffaar
 
   2
@@ -25,13 +25,13 @@ romanLyrics: |-
   Wo bekas o laachaar
 
   3
-  Darbaar mein sar uryaaṅ aate haiṅ haram giryaaṅ
+  Darbaar meiṅ sar uryaaṅ aate haiṅ haram giryaaṅ
   Uthne laga ik tufaaṅ mahshar ka sa hai saamaaṅ
-  Jumbish mein hai darbaar
+  Jumbish meiṅ hai darbaar
 
   4
   Bu paayi to ghabra kar bachchi ne kaha ro kar
-  Is tasht mein hai jo sar wo to hai sar-e-Sarwar
+  Is tasht meiṅ hai jo sar wo to hai sar-e-Sarwar
   Kaise karuṅ didaar
 
   5
@@ -45,8 +45,8 @@ romanLyrics: |-
   Maare na sitamgaar
 
   7
-  Sar jaa ke uthaauṅ main ya paas bulaauṅ main
-  Rudaad sunaauṅ main sine se lagaauṅ main
+  Sar jaa ke uthaauṅ maiṅ ya paas bulaauṅ maiṅ
+  Rudaad sunaauṅ maiṅ sine se lagaauṅ maiṅ
   Dekhe bhara darbaar
 
   8
@@ -56,7 +56,7 @@ romanLyrics: |-
 
   9
   Dukhtar ki sada sun kar phir tasht-e-tila se sar
-  Godi mein gaya uth kar naadaan ne lipta kar
+  Godi meiṅ gaya uth kar naadaan ne lipta kar
   Sar par rakhe rukhsaar
 
   10
@@ -65,7 +65,7 @@ romanLyrics: |-
   Aaṅkheiṅ huiṅ khuṅ baar
 
   11
-  Zindaaṅ mein Anis-e-gham karte haiṅ haram maatam
+  Zindaaṅ meiṅ Anis-e-gham karte haiṅ haram maatam
   Maaṅ puchhti hai paiham kiuṅ aaṅkh hai ye purnam
   Kya mar gayi dildaar
 # source_id: nohayonline:db8d851aa4d4118dab3e

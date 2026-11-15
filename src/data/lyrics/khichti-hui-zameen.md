@@ -14,7 +14,7 @@ romanLyrics: |-
   Likhti hui mazaalim-e-jaur o jafa chali
 
   1
-  Ek do pahar mein lut gaya kunba Batul ka
+  Ek do pahar meiṅ lut gaya kunba Batul ka
   Ae Karbala ke dasht ye kaisi hawa chali
 
   2
@@ -27,7 +27,7 @@ romanLyrics: |-
 
   4
   Mur mur ke ambiya ki nazar dekhne lagi
-  Zainab maqaam-e-sabr mein wo raasta chali
+  Zainab maqaam-e-sabr meiṅ wo raasta chali
 
   5
   Faryaad kar rahi thi rasan payse Kibriya

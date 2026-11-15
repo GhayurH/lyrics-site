@@ -34,7 +34,7 @@ romanLyrics: |-
 
   3
   farsh-e-majlis pe aur musalle par
-  har jawaṅ keh raha hai ro ro kar
+  har jawaaṅ keh raha hai ro ro kar
   hum raheiṅ na raheiṅ magar bibi
   ta qayamat rahe gham-e-Sarwar
 

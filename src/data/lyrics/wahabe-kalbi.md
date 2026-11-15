@@ -35,23 +35,23 @@ romanLyrics: |-
 
   5
   Aansu khushi ke behne lage gham ke saath saath
-  Maqtal mein main ne dekha jo pehlu pe rakhe haath
+  Maqtal meiṅ maiṅ ne dekha jo pehlu pe rakhe haath
   Roti thi mere laal ko Akbar ki daadi jaaṅ
 
   6
   Khud apni tarbiyat pe kiya shukr-e-Kibriya
-  Zauja se jo Wahab ne wasiyyat mein ye kaha
-  Fizza se pehle haathoṅ mein bandhwaana rassiyaaṅ
+  Zauja se jo Wahab ne wasiyyat meiṅ ye kaha
+  Fizza se pehle haathoṅ meiṅ bandhwaana rassiyaaṅ
 
   7
-  Main zauja-e-Wahab se ye keh deti huṅ abhi
+  Maiṅ zauja-e-Wahab se ye keh deti huṅ abhi
   Wo bhaai keh ke laash pe Akbar ke roye gi
-  Main ne suna hai Fatima Sughra nahiṅ yahaaṅ
+  Maiṅ ne suna hai Fatima Sughra nahiṅ yahaaṅ
 
   8
   Umm-e-Wahab ki laash pe Laila ne ye kaha
   Sajjad is se barh ke muqaddar ho aur kya
-  Ran mein shahid ho gayi bete ke saath maa
+  Ran meiṅ shahid ho gayi bete ke saath maa
 # source_id: nohayonline:95f076aa6b3271f9e5dc
 # source_url: https://www.nohayonline.com/details_content.php?id=3306
 # raw_sha256: 148f0d4df2cd9dcdbd116ef5c549f8fe4129def63a4c718fd5a5cd3956fd41c3

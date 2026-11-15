@@ -39,37 +39,37 @@ romanLyrics: |-
   4
   Wo jo athaarah saal ka sar hai
   Umm-e-Laila ke laal ka sar hai
-  Maaṅ ke hamraah khuṅ mein ghaltaaṅ hai
+  Maaṅ ke hamraah khuṅ meiṅ ghaltaaṅ hai
   Maaṅ ke armaan aaye haiṅ Shiriṅ
 
   5
   Shah ka ghuncha dahan bhi aaya hai
   Qasim-e-gul badan bhi aaya hai
-  Dekh apne lahu mein dube huwe
+  Dekh apne lahu meiṅ dube huwe
   Kitne Quraan aaye haiṅ Shiriṅ
 
   6
   Saath Abbas-e-naamdaar bhi hai
   Tere aaqa ke jaannisaar bhi hai
-  Raah takti thi jin ki khwaaboṅ mein
+  Raah takti thi jin ki khwaaboṅ meiṅ
   Le wo insaan aaye haiṅ Shiriṅ
 
   7
   Kya kahe daastaan-e-barbaadi
   Ro ke kehti thi har nabi zaadi
-  Kho ke apna musafirat mein sabhi
+  Kho ke apna musafirat meiṅ sabhi
   Saaz o saamaan aaye haiṅ Shiriṅ
 
   8
   Hai kahaaṅ ab dil-e-Batul ko chain
-  Lut gayi ran mein kaainaat-e-Husain
+  Lut gayi ran meiṅ kaainaat-e-Husain
   Ban ke Sajjad apne baaba ke
   Marsiya khwaan aaye haiṅ Shiriṅ
 
   9
   Dil larazta tha Aamir o Akhtar
   Jab ye kehti thi Zainab-e-muztar
-  Beridaai mein shehr-e-Kufa ke
+  Beridaai meiṅ shehr-e-Kufa ke
   Raaste chhaan aaye haiṅ Shiriṅ
 # source_id: nohayonline:c49d9a0d38bd4e2187f2
 # source_url: https://www.nohayonline.com/details_content.php?id=1798

@@ -16,10 +16,10 @@ romanLyrics: |-
 
   1
   Sanaa-e-Shah mere bas ki kahaaṅ hai
-  Main qatra huṅ wo bahr-e-bekaraaṅ hai
+  Maiṅ qatra huṅ wo bahr-e-bekaraaṅ hai
 
   2
-  Qalam jo madh-e-Sarwar mein rawaaṅ hai
+  Qalam jo madh-e-Sarwar meiṅ rawaaṅ hai
   Yazidi qalb par nok-e-sinaaṅ hai
 
   3

@@ -1,6 +1,6 @@
 ---
 title: "رن میں جب شہ کی طرف سے حر دیندار آیا"
-alternateTitle: "Ran Mein Jab Sheh Ki"
+alternateTitle: "Ran Meiṅ Jab Sheh Ki"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

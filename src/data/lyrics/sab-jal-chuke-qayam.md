@@ -22,7 +22,7 @@ romanLyrics: |-
 
   2
   Taarik raastoṅ se dehelte haiṅ bewatan
-  Kaanoṅ mein aa rahi hai sadaa-e-bizan bizan
+  Kaanoṅ meiṅ aa rahi hai sadaa-e-bizan bizan
   Sab mehr o maah le ke kahiṅ chhup gayi hai shaam
 
   3
@@ -47,7 +47,7 @@ romanLyrics: |-
 
   7
   Sar ko jhukaaye khaak par baitha hai ek jawaaṅ
-  Gardan mein tauq paaoṅ mein lipti haiṅ beriyaaṅ
+  Gardan meiṅ tauq paaoṅ meiṅ lipti haiṅ beriyaaṅ
   Hai zer ab Naved ye aawaaz shaam shaam
 # source_id: nohayonline:1a1d0862ef70cc025cff
 # source_url: https://www.nohayonline.com/details_content.php?id=257

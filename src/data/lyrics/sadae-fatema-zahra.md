@@ -16,9 +16,9 @@ romanLyrics: |-
   Husain-e-asr tujhe Karbala bulaati hai
 
   1
-  Lahad mein maadar-e-muztar ke dil ko chain aaye
-  Main raah takti huṅ kab mera nur-e-ain aaye
-  Yuṅ intezaar mein har subh bit jaati hai
+  Lahad meiṅ maadar-e-muztar ke dil ko chain aaye
+  Maiṅ raah takti huṅ kab mera nur-e-ain aaye
+  Yuṅ intezaar meiṅ har subh bit jaati hai
 
   2
   Jala tha jis se mere paak ghar ka darwaaza
@@ -32,17 +32,17 @@ romanLyrics: |-
 
   4
   Mera jari mera Abbas sher-e-dil beta
-  Jo Karbala mein tha paaband lar nahiṅ paaya
+  Jo Karbala meiṅ tha paaband lar nahiṅ paaya
   Abhi to us ke bhi hisse ke jang baaqi hai
 
   5
-  Tere zuhur mein taajil ki dua lab par
+  Tere zuhur meiṅ taajil ki dua lab par
   Shikasta pehlu ko thaame hue teri maadar
   Azaa ke farsh pe pehle se baith jaati hai
 
   6
-  Jawaaṅ ke naam ki barchhi hai mere sine mein
-  Behan hai jis ki abhi muntazir Madine mein
+  Jawaaṅ ke naam ki barchhi hai mere sine meiṅ
+  Behan hai jis ki abhi muntazir Madine meiṅ
   Nishaan-e-qabr banaati kabhi mitaati hai
 
   7

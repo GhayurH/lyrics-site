@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Ek Mehr-e-Karbala aur us ki tanvireṅ bahot
-  Aaine mein yuṅ nazar aati haiṅ tasvireṅ bahot
+  Aaine meiṅ yuṅ nazar aati haiṅ tasvireṅ bahot
 
   1
   Haasil ashk-e-gham-e-Shabbir jannat hi nahiṅ
@@ -32,10 +32,10 @@ romanLyrics: |-
 
   5
   Raaste ki har kari zanjir kat kar gir gai
-  Thi agarche paaoṅ mein Aabid ke zanjireṅ bahot
+  Thi agarche paaoṅ meiṅ Aabid ke zanjireṅ bahot
 
   6
-  Is mein shaamil hai lahu Sibt-e-Paighambar ka Urooj
+  Is meiṅ shaamil hai lahu Sibt-e-Paighambar ka Uruj
   Kiuṅ na rakhe Karbala ki khaak taasireṅ bahot
 # source_id: nohayonline:273e460d64d5f474ba8c
 # source_url: https://www.nohayonline.com/details_content.php?id=644

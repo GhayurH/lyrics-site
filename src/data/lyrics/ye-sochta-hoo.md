@@ -15,7 +15,7 @@ romanLyrics: |-
   Asir ho ke wo jab Shaam mein gaya hoga
 
   1
-  Suna hai Shaam mein jaate hi khun rone laga
+  Suna hai Shaam meiṅ jaate hi khun rone laga
   Na jaane Shimr ne us waqt kya kaha hoga
 
   2
@@ -28,11 +28,11 @@ romanLyrics: |-
 
   4
   Wo yaad karta to hoga watan ki shaahi ko
-  Behan ko dafn jo pardes mein kiya hoga
+  Behan ko dafn jo pardes meiṅ kiya hoga
 
   5
   Jo ghaur kijiye to Aabid bashar nahiṅ lagta
-  Mere khayaal mein dukh dard ka khuda hoga
+  Mere khayaal meiṅ dukh dard ka khuda hoga
 # source_id: nohayonline:15cc0eefea0a52e78040
 # source_url: https://www.nohayonline.com/content_salaam.php?id=7
 # raw_sha256: 7af12de23390cd9537774e199207d2f4bea53ce35ad962209cbc677f73baea91

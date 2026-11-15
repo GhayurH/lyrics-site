@@ -16,11 +16,11 @@ romanLyrics: |-
 
   1
   Tumhaari beti ko aata nahiṅ kuchh aur nazar
-  Mere nigaah mein phirta hai ab yehi manzar
-  Tumhaari zulfoṅ mein zaalim ka haath tha Baba
+  Mere nigaah meiṅ phirta hai ab yehi manzar
+  Tumhaari zulfoṅ meiṅ zaalim ka haath tha Baba
 
   2
-  Main kis tarah se bataauṅ wo waqt kaisa tha
+  Maiṅ kis tarah se bataauṅ wo waqt kaisa tha
   Sitam ye baap pe beti pe ek jaisa tha
   Teri tarah se tamaancha mujhe laga Baba
 
@@ -30,13 +30,13 @@ romanLyrics: |-
   Tere badan pe wo kurta nahiṅ mila Baba
 
   4
-  Akeli main nahiṅ Daadi bhi saath hai mere
-  Ye zakhmi teri mohabbat mein haath hai mere
-  Main rokti rahi khanjar nahiṅ ruka Baba
+  Akeli maiṅ nahiṅ Daadi bhi saath hai mere
+  Ye zakhmi teri mohabbat meiṅ haath hai mere
+  Maiṅ rokti rahi khanjar nahiṅ ruka Baba
 
   5
-  Jagah nasheb mein de do meri yatimi ko
-  Chhupa lo dher mein in pattharoṅ ke beti ko
+  Jagah nasheb meiṅ de do meri yatimi ko
+  Chhupa lo dher meiṅ in pattharoṅ ke beti ko
   Sakina bhul gayi ghar ka raasta Baba
 
   6
@@ -50,14 +50,14 @@ romanLyrics: |-
   Gale pe dekho nishaan-e-rasan zara Baba
 
   8
-  Kamar jhuki hui aankhoṅ mein kam basaarat thi
+  Kamar jhuki hui aankhoṅ meiṅ kam basaarat thi
   Jawaaṅ ke laashe pe jaisi tumhaari haalat thi
   Tumhaare laashe pe wo mera haal tha Baba
 
   9
-  Wo qabr mein to Takallum hai ik zamaane se
+  Wo qabr meiṅ to Takallum hai ik zamaane se
   Magar sadaaeiṅ ye aati hai qaid khaane se
-  Mera rasan mein gala hai bandha hua Baba
+  Mera rasan meiṅ gala hai bandha hua Baba
 # source_id: nohayonline:ae94bce19feb85eadbaf
 # source_url: https://www.nohayonline.com/details_content.php?id=2409
 # raw_sha256: 4e55f9e54a049f265f1b21fd8bfab74245d726a70c2a06f524f7de93d6aad22b

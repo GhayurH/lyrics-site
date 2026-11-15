@@ -21,12 +21,12 @@ romanLyrics: |-
   Ae Shimr mere laal ko aise na zabh kar
 
   1
-  Paala hai chakki pis ke main ne Husain ko
+  Paala hai chakki pis ke maiṅ ne Husain ko
   Do bund paani de de zara nur-e-ain ko
-  Hai teen din se khushk gala wa musibata
+  Hai tin din se khushk gala wa musibata
 
   2
-  Main maaṅ huṅ mere saamne mat qatl kar ise
+  Maiṅ maaṅ huṅ mere saamne mat qatl kar ise
   Sukha gala hai kis tarah khanjar tera chale
   Manzar ye dekh dekh ke rote haiṅ Mustafa
 
@@ -36,8 +36,8 @@ romanLyrics: |-
   Aisa koi bhi qatl nahiṅ aaj tak hua
 
   4
-  Itne badan meiṅ tir chubhe haiṅ main kya karuṅ
-  Main kaun sa badan se bhala tir khainch luṅ
+  Itne badan meiṅ tir chubhe haiṅ maiṅ kya karuṅ
+  Maiṅ kaun sa badan se bhala tir khainch luṅ
   Aisa chubha hai tir ke hilta nahiṅ zara
 
   5
@@ -46,12 +46,12 @@ romanLyrics: |-
   Us ki jabiṅ se khun hai beshir ka laga
 
   6
-  Main is ko dekh dekh ke roti rahi sada
-  Jab jab bhi chumti thi main halqum Shaah ka
+  Maiṅ is ko dekh dekh ke roti rahi sada
+  Jab jab bhi chumti thi maiṅ halqum Shaah ka
   Amma na roiye yehi kehta tha baaraha
 
   7
-  Shabbir qatl ho gaye main dekhti rahi
+  Shabbir qatl ho gaye maiṅ dekhti rahi
   Sheh ki zamin-e-garm pe mayyat pari rahi
   Chaalis roz dhup meiṅ laasha para raha
 

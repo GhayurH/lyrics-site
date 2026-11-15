@@ -26,7 +26,7 @@ romanLyrics: |-
   2
   Mera hai daawa roz-e-azal se rakhta hai apna rutba juda
   Koi yeh keh sakta hi nahiṅ hai baad-e-Payambar baad-e-Khuda
-  Wasf-e-Ali main bhi mukammal rakhta huṅ saari khabar
+  Wasf-e-Ali maiṅ bhi mukammal rakhta huṅ saari khabar
 
   3
   Ba Hub-e-Ali Faqat Eman Me Khorah Faqat
@@ -68,7 +68,7 @@ romanLyrics: |-
 
   10
   Chaahe hoṅ saqlain ki surat madd-e-muqaabil donoṅ jahaaṅ
-  Khandaq ki ik zarbat teri sab ki ibaadat Be Hai Garaan
+  Khandaq ki ik zarbat teri sab ki ibaadat Behai Garaaṅ
   Wahi-e-Khuda ke saaye meiṅ di hai sab ko Nabi ne khabar
 
   11

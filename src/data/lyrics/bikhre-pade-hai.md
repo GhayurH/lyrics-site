@@ -1,6 +1,6 @@
 ---
 title: "بکھرے پڑے ہیں لاشے اولاد مرتضیٰ کے"
-alternateTitle: "Bikhre Pade Hai"
+alternateTitle: "Bikhre Pare Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Bikhre pare haiṅ laashe aulaad-e-Murtaza ke
-  Zainab ujar gayi hai Karbobala mein aa ke
+  Zainab ujar gayi hai Karbobala meiṅ aa ke
 
   1
   Dam torte haiṅ Akbar ae naamwar thehar ja

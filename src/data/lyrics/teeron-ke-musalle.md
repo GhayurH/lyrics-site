@@ -20,14 +20,14 @@ romanLyrics: |-
 
   2
   Socho to musalmaano ye baat koi kam hai
-  Ahmed ki nawaasi ka darbaar mein aa jaana
+  Ahmed ki nawaasi ka darbaar meiṅ aa jaana
 
   3
   Barchhi Ali Akbar ke sine se nikal aayi
   Dekha na gaya Shah se yuṅ dil ka nikal aana
 
   4
-  Darbaar mein logoṅ se Fizza ne kaha ro kar
+  Darbaar meiṅ logoṅ se Fizza ne kaha ro kar
   Aati hai Nabi zaadi taazim ko jhuk jaana
 # source_id: nohayonline:29f3f80e936ce04de2b0
 # source_url: https://www.nohayonline.com/details_content.php?id=2566

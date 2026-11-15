@@ -16,15 +16,15 @@ romanLyrics: |-
   Rahe aankh hamaari nam Husain
 
   1
-  Tasvir-e-Payambar ke gham mein
+  Tasvir-e-Payambar ke gham meiṅ
   Ye saara aalam rota hai
-  Ghar ghar mein majlis jaari hai
-  Ghar ghar mein maatam hota hai
+  Ghar ghar meiṅ majlis jaari hai
+  Ghar ghar meiṅ maatam hota hai
   Zanjir se maatam Akbar ka
   Ta hashr kareṅ ge ham Husain
 
   2
-  Khun Haider ka hai Asghar mein
+  Khun Haider ka hai Asghar meiṅ
   Is baat ko Hurmal bhul gaya
   Tha tir-e-sitam halqum pe jo
   Neze pe jhula jhul gaya
@@ -37,12 +37,12 @@ romanLyrics: |-
   Kar kar ke yaad samandar ko
   Karbala ki zamin bhi roti hai
   Jis tarah hua tukre tukre
-  Maqtal mein tera Qasim Husain
+  Maqtal meiṅ tera Qasim Husain
 
   4
   Le pursa us maasuma ka
   Kaanoṅ se jis ke khun baha
-  Jo dafn hui zanjiroṅ mein
+  Jo dafn hui zanjiroṅ meiṅ
   Jala kurta jis ko kafan mila
   Takraati thi jo sar zindaaṅ se
   Ro kehti thi har dam Husain
@@ -65,11 +65,11 @@ romanLyrics: |-
 
   7
   Ujra hai paak Muhammad ka
-  Ban mein hansta basta gulshan
+  Ban meiṅ hansta basta gulshan
   Karti hai maatam Zainab ka
-  Khursheed ke dil ki har dharkan
+  Khurshid ke dil ki har dharkan
   Tere Akbar Qasim Asghar ka
-  Har saaṅs mein maatam Husain
+  Har saaṅs meiṅ maatam Husain
 # source_id: nohayonline:7d3d293589275def38a5
 # source_url: https://www.nohayonline.com/details_content.php?id=3369
 # raw_sha256: a40cdb60ee592e84c44ae94494378a9d29a6755367f4572c1856fcefbb0d7085

@@ -1,6 +1,6 @@
 ---
 title: "بڑا کے نوح سفینہ علی علی بولے"
-alternateTitle: "Bada Ke Nooh Safina"
+alternateTitle: "Bara Ke Nuh Safina"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Bada ke Nuh safina Ali Ali bole
+  Bara ke Nuh safina Ali Ali bole
   Salib par dil-e-Isa Ali Ali bole
   Kaleja puchh le duniya Ali Ali bole
 

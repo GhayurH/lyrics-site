@@ -1,6 +1,6 @@
 ---
 title: "ہائے شام غریباں"
-alternateTitle: "Haye Shame Ghariban"
+alternateTitle: "Haye Shame Gharibaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -22,27 +22,27 @@ romanLyrics: |-
   Ab aaye ho baba mere kunba hai ab kahaaṅ
 
   2
-  Abbas kho chuki huṅ main Akbar pe ro chuki
-  Bhaiya tumhaare baad main barbaad ho chuki
-  Zinda main kaise reh gayi meri maut hai kahaaṅ
+  Abbas kho chuki huṅ maiṅ Akbar pe ro chuki
+  Bhaiya tumhaare baad maiṅ barbaad ho chuki
+  Zinda maiṅ kaise reh gayi meri maut hai kahaaṅ
 
   3
-  Qasim ki laash tukroṅ mein taqsim ho chuki
+  Qasim ki laash tukroṅ meiṅ taqsim ho chuki
   Bhaiya Hasan ki ye bhi nishaani bhi mit chuki
   Dulhan hai ek roz ki dulha hai ab kahaaṅ
 
   4
   Asghar ke hausle pe jawaani bhi ro chuki
   Sukhi zabaaṅ pe fauj-e-sitamgar bhi ro chuki
-  Aaghosh mein Rabab ki Asghar hai ab kahaaṅ
+  Aaghosh meiṅ Rabab ki Asghar hai ab kahaaṅ
 
   5
   Laayi thi apne saath wo ansaar kho chuki
   Nana tumhaare din pe qurbaan kar chuki
-  Main bhi to berida hui chaadar hai ab kahaaṅ
+  Maiṅ bhi to berida hui chaadar hai ab kahaaṅ
 
   6
-  Baba main kya bataauṅ ke kya kya main seh chuki
+  Baba maiṅ kya bataauṅ ke kya kya maiṅ seh chuki
   Bhaiya ki laash tiroṅ ke bistar pe so chuki
   Bhai ke mere jism pe ab sar bhi hai kahaaṅ
 

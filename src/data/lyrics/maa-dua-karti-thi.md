@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Boli ro kar Ali Akbar ki phuphi Ae Maalik
-  Kis tarah barchhi mein Akbar ka kaleja dekhuṅ
+  Kis tarah barchhi meiṅ Akbar ka kaleja dekhuṅ
 
   2
   Laash-e-Akbar pe khat-e-Sughra sunaate haiṅ Husain
@@ -28,7 +28,7 @@ romanLyrics: |-
 
   4
   Maaṅ pukaari ke hua waqt-e-azaaṅ laal mere
-  Tu azaaṅ de to Muhammad ka main lehja dekhuṅ
+  Tu azaaṅ de to Muhammad ka maiṅ lehja dekhuṅ
 
   5
   Raat din karta huṅ Rehaan ye hi ek dua

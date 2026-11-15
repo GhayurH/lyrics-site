@@ -1,6 +1,6 @@
 ---
 title: "مقتل میں گر رہا ہے سنبھالو حسین کو"
-alternateTitle: "Ya Fatima Rida Mein"
+alternateTitle: "Ya Fatima Rida Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,17 +11,17 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maqtal mein gir raha hai sambhaalo Husain ko
-  Ya Fatima rida mein chhupaalo Husain ko
+  Maqtal meiṅ gir raha hai sambhaalo Husain ko
+  Ya Fatima rida meiṅ chhupaalo Husain ko
 
   1
-  Paiwast hai gharib ke pehlu mein barchhiyaaṅ
+  Paiwast hai gharib ke pehlu meiṅ barchhiyaaṅ
   Tum ko bhi uthne deti nahiṅ tuti pasliyaaṅ
   Le kar Ali ka naam uthaalo Husain ko
 
   2
   Diwaar o dar ke bich jo armaan reh gaya
-  Rakhi hui thi dil mein jo Mohsin ke waaste
+  Rakhi hui thi dil meiṅ jo Mohsin ke waaste
   Woh loriyaaṅ bhi aaj sunaalo Husain ko
 
   3
@@ -31,7 +31,7 @@ romanLyrics: |-
 
   4
   Sheh ki gharib beti ke armaan ki tarah
-  Godi mein le ke tisri Shaabaan ki tarah
+  Godi meiṅ le ke tisri Shaabaan ki tarah
   Kuchh der ho sake to sulaalo Husain ko
 
   5
@@ -47,12 +47,12 @@ romanLyrics: |-
   7
   Zainab sada ye deti hai ae beqaraar maaṅ
   Zakhmoṅ ko mil ke baaṅdheṅgi Haidar ki betiyaaṅ
-  Khaime mein ek baar bulaalo Husain ko
+  Khaime meiṅ ek baar bulaalo Husain ko
 
   8
   Rone lagi ae Mir Takallum woh gham zada
   Phaila ke apne haath jo Shabbir ne kaha
-  Godi mein thori der sulaalo Husain ko
+  Godi meiṅ thori der sulaalo Husain ko
 # source_id: nohayonline:4616ff65ac7baed0a774
 # source_url: https://www.nohayonline.com/details_content.php?id=100
 # raw_sha256: 755e29fb80108fcc06a9261d91b3b1ab3bbaac9c51c8b1259b6ff13262418263

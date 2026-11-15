@@ -1,6 +1,6 @@
 ---
 title: "جو مشکل گھڑی میں پکارا محمد"
-alternateTitle: "Jo Mushkil Ghari Mein Pukara Muhammad"
+alternateTitle: "Jo Mushkil Ghari Meiṅ Pukara Muhammad"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

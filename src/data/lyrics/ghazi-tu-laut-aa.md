@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Ae mere Ghazi
-  Main ho gayi beparda
+  Maiṅ ho gayi beparda
 
   Bazaar aa gaya Ghazi tu laut aa
   Sar par nahiṅ ridaa Ghazi tu laut aa
@@ -62,14 +62,14 @@ romanLyrics: |-
   Kab se meri Sakina
   Baazu mere bandhe haiṅ
   Dam ghut raha hai uska
-  Rassi mein hai gala
+  Rassi meiṅ hai gala
   Ghazi tu laut aa
 
   7
   Ammaaṅ ki tarah mujhko
   Ye gham bhi hai uthaana
   Mujhko bhi mere bhai
-  Darbaar mein hai jaana
+  Darbaar meiṅ hai jaana
   Zehra ka waasta
   Ghazi tu laut aa
 

@@ -22,12 +22,12 @@ romanLyrics: |-
   1
   Tera yeh gham Ali Murtaza bhuleṅge na hum ahl-e-aza
   Yaad hameṅ rahega sada Kufa hai aaghaaz-e-Karbobala
-  Namaazi pe hua waar chali sajde mein talwaar
+  Namaazi pe hua waar chali sajde meiṅ talwaar
   Giri farsh pe dastaar Ali qatl hua hai
   Hum royeṅge Ramzaan ho ya maah-e-Muharram
 
   2
-  Jab yeh Ali Madine mein tha baandha gaya tha rasan mein gala
+  Jab yeh Ali Madine meiṅ tha baandha gaya tha rasan meiṅ gala
   Kehte haiṅ jise Wajhullah dunya ne us ko na pehchaana
   Ali shauhar-e-Zahra wilaayat ka shehenshaah
   Ghariboṅ ka sahaara Ali qatl hua hai
@@ -36,29 +36,29 @@ romanLyrics: |-
   3
   Zainab woh teri laadli tere bina na ji paayegi
   Karti thi woh duaaeṅ yehi rahe salaamat mere Baaba Ali
-  Hua zakhmi tera sar badan khun mein hai tar
+  Hua zakhmi tera sar badan khun meiṅ hai tar
   Na mar jaaye woh sun kar Ali qatl hua hai
   Beti ko teri jine nahiṅ dega tera gham
 
   4
   Kufe ke yatimoṅ suno milne nahiṅ ab aayega woh
-  Khaana tumheṅ khilaata tha jo main ne kafan pehnaaya hai us ko
+  Khaana tumheṅ khilaata tha jo maiṅ ne kafan pehnaaya hai us ko
   Inhi haathoṅ se Wallaah uthaaya hai janaaza
   Mere saamne Baaba Ali qatl hua hai
   Bole yeh Hasan haaye yatim aaj hue haiṅ
 
   5
   Abbaas ke Baaba ki shahaadat hai karo maatam
-  Zehra ke gharaane mein qayaamat hai karo maatam
+  Zehra ke gharaane meiṅ qayaamat hai karo maatam
   Tayyaar janaaza hai musibat hai karo maatam
   Haaṅ zer-e-kafan pehli imaamat hai karo maatam
 
   6
   Taabut uthaao dunya ko bataao
-  Mehraab o musalla hai lahu mein duba
+  Mehraab o musalla hai lahu meiṅ duba
   Kaho ya Ali Maula hai Jibril ka nauha
   Do Abbaas ko pursa Ali qatl hua hai
-  Bolo yeh julusoṅ mein uthaae hue parcham
+  Bolo yeh julusoṅ meiṅ uthaae hue parcham
 
   7
   Laanala ala adaaeka ya Ali laanat beshumaar
@@ -68,10 +68,10 @@ romanLyrics: |-
   Laanat beshumaar
   Ta qayaamat na rukega kabhi laanat ka safar
   Laanat beshumaar
-  Kull-e-imaan ko sajde mein kiya tu ne shahid
-  Sog mein ho gayi tabdil hamaari har Eid
+  Kull-e-imaan ko sajde meiṅ kiya tu ne shahid
+  Sog meiṅ ho gayi tabdil hamaari har Eid
   Laanat beshumaar
-  Kehte haiṅ yehi Zeeshan aur Irfaan-e-aza
+  Kehte haiṅ yehi Zishan aur Irfaan-e-aza
   Ae dushman-e-sher-e-Khuda
   Laanat beshumaar
 # source_id: nohayonline:ff8a8cddf71bcda72c1e

@@ -11,8 +11,8 @@ tags: []
 aliases: ["Teeron Ke Aasman"]
 published: true
 romanLyrics: |-
-  Ae bhai main to dosh-e-Nabi ka makiṅ tha
-  Ae bhai main to Fatema ka mahjabin tha
+  Ae bhai maiṅ to dosh-e-Nabi ka makiṅ tha
+  Ae bhai maiṅ to Fatema ka mahjabin tha
   Ab aisa waqt aa gaya ae mere baawafa
   Tiroṅ ke aasmaaṅ se bhaiya utaar le
   Abbas kahaaṅ ho chale aao
@@ -20,13 +20,13 @@ romanLyrics: |-
   Ghore se gir ke Shah ne Ghaazi ko di sada
   Tiroṅ ke aasmaaṅ se bhaiya utaar le
 
-  Taklif mein Husain hai ae mere baawafa
+  Taklif meiṅ Husain hai ae mere baawafa
   Tiroṅ ke aasmaaṅ se bhaiya utaar le
 
   1
   Zin-e-faras se gir ke zamiṅ tak na mil saki
   Amma uthaaye haathoṅ ko faryaadi ban gayi
-  Kehti hai aa Husain meri god mein zara
+  Kehti hai aa Husain meri god meiṅ zara
   Tiroṅ ke aasmaaṅ se bhaiya utaar le
 
   2
@@ -43,7 +43,7 @@ romanLyrics: |-
 
   4
   Amma uthaaye haath ye kehti hai nur-e-ain
-  Kehti hai aa ae laal meri god mein Husain
+  Kehti hai aa ae laal meri god meiṅ Husain
   Bete ko us ke maaṅ se mila de ae baawafa
   Tiroṅ ke aasmaaṅ se bhaiya utaar le
 
@@ -55,7 +55,7 @@ romanLyrics: |-
 
   6
   Abbas aao tiroṅ se mujh ko utaar lo
-  Kab se bula raha huṅ main imdaad to karo
+  Kab se bula raha huṅ maiṅ imdaad to karo
   Ae bhai apne bhai ka toro na aasra
   Tiroṅ ke aasmaaṅ se bhaiya utaar le
 

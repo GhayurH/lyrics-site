@@ -1,6 +1,6 @@
 ---
 title: "میں فاطمہ کی دختر دربار کیسے جاؤں"
-alternateTitle: "Darbar Kaise Jaun"
+alternateTitle: "Darbar Kaise Jauṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Main Faatima ki dukhtar darbaar kaise jaauṅ
+  Maiṅ Faatima ki dukhtar darbaar kaise jaauṅ
   Sar par nahiṅ hai chaadar darbaar kaise jaauṅ
 
   1
@@ -26,12 +26,12 @@ romanLyrics: |-
 
   3
   Bhaai kahaaṅ hai zinda pehra jo aa ke dete
-  Hote agar bhatije halqe mein mujh ko lete
+  Hote agar bhatije halqe meiṅ mujh ko lete
   Abbas hai na Akbar darbaar kaise jaauṅ
 
   4
-  Narghe mein ashqiyaa ke hoga mera taaruf
-  Main kuchh na keh sakuṅ gi uf meri bekasi uf
+  Narghe meiṅ ashqiyaa ke hoga mera taaruf
+  Maiṅ kuchh na keh sakuṅ gi uf meri bekasi uf
   Maut aa na jaaye ghut kar darbaar kaise jaauṅ
 
   5
@@ -40,8 +40,8 @@ romanLyrics: |-
   Baaloṅ se muṅh chhupa kar darbaar kaise jaauṅ
 
   6
-  Kis shahr-e-bewafa mein laayi hai mujh ko ghurbat
-  Apne ko main chhupa luṅ paauṅ jo koi turbat
+  Kis shahr-e-bewafa meiṅ laayi hai mujh ko ghurbat
+  Apne ko maiṅ chhupa luṅ paauṅ jo koi turbat
   Wo bhi nahiṅ mayassar darbaar kaise jaauṅ
 
   7
@@ -50,7 +50,7 @@ romanLyrics: |-
   Haaṅ kheṅch lo ye langar darbaar kaise jaauṅ
 
   8
-  Main har sitam sahuṅ gi dhaayega jo zamaana
+  Maiṅ har sitam sahuṅ gi dhaayega jo zamaana
   Bhaai se jo kiya hai waada hai wo nibhaana
   Ab ye kahuṅ to kiuṅ kar darbaar kaise jaauṅ
 

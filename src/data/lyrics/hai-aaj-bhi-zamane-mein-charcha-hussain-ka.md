@@ -1,6 +1,6 @@
 ---
 title: "ہے آج بھی زمانے میں چرچا حسین کا"
-alternateTitle: "Hai Aaj Bhi Zamane Mein Charcha Husain Ka"
+alternateTitle: "Hai Aaj Bhi Zamane Meiṅ Charcha Husain Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,10 +11,10 @@ aliases: []
 published: true
 romanLyrics: |-
   1
-  Hai aaj bhi zamane mein charcha Husain ka
-  Chalta hai mulk mulk mein sikka Husain ka
-  Bhaarat mein gar woh aata to Bhagwaan kehte hum
-  Har Hindu naam puja mein japta Husain ka
+  Hai aaj bhi zamane meiṅ charcha Husain ka
+  Chalta hai mulk mulk meiṅ sikka Husain ka
+  Bhaarat meiṅ gar woh aata to Bhagwaan kehte hum
+  Har Hindu naam puja meiṅ japta Husain ka
 
   2
   Mazhab ki koi baat nahiṅ dil ki baat hai
@@ -23,16 +23,16 @@ romanLyrics: |-
   Hum Hinduoṅ ne parh liya kalma Husain ka
 
   3
-  Saahil se sar patakti haiṅ pyaasoṅ ki yaad mein
+  Saahil se sar patakti haiṅ pyaasoṅ ki yaad meiṅ
   Le le ke naam Ganga o Jamna Husain ka
   Raavan ki tarah mit gaya duniya se tu Yazid
   Lekin diloṅ pe aaj hai qabza Husain ka
 
   4
-  Is mein nahiṅ kalaam ke hum but parast haiṅ
+  Is meiṅ nahiṅ kalaam ke hum but parast haiṅ
   Aankhoṅ se apni chumeṅ ge rauza Husain ka
-  Jay Singh panaah maange gi mujh se Narag ki aag
-  Hindu to huṅ magar huṅ main shaida Husain ka
+  Je Singh panaah maange gi mujh se Narag ki aag
+  Hindu to huṅ magar huṅ maiṅ shaida Husain ka
 # source_id: tajpoints:b92461e818a21d490bed
 # source_url: https://tajpoints.com/2017/02/hai-aaj-bhi-zamane-mein-charcha.html
 # raw_sha256: 680ac1f6a6adc5fcf26d0e2d3d25ad52bd6deed1ea6bf1a8481a66868af4a2ee

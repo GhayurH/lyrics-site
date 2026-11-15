@@ -11,8 +11,8 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ae musafir be kafan tu khaak par wa hasrata
-  Main musafir Shaam ki huṅ dushmanoṅ mein be rida
+  Ae musafir bekafan tu khaak par wa hasrata
+  Maiṅ musafir Shaam ki huṅ dushmanoṅ meiṅ berida
   Alwida alwida alwida
 
   1
@@ -31,8 +31,8 @@ romanLyrics: |-
   Ae tan-e-uryaaṅ tera to aaj sab kuchh lut gaya
 
   4
-  Main rasan basta chali waada nibhaane ke liye
-  Ghar mein qaatil ke teri masnad bichhaane ke liye
+  Maiṅ rasan basta chali waada nibhaane ke liye
+  Ghar meiṅ qaatil ke teri masnad bichhaane ke liye
   Kal yehi masnad bana duṅgi teri farsh-e-aza
 
   5
@@ -42,7 +42,7 @@ romanLyrics: |-
 
   6
   Laasha-e-besar tarap kar ye sada dene laga
-  Ae behan waada nibha ke main to maqtal se chala
+  Ae behan waada nibha ke maiṅ to maqtal se chala
   Thi sada Rehaan o Sarwar haaye khaahar alwida
 # source_id: nohayonline:d5d9b74ca79c238ef884
 # source_url: https://www.nohayonline.com/details_content.php?id=152

@@ -71,7 +71,7 @@ romanLyrics: |-
   8
   Mahsus ye hota hai Raza kahti haiṅ Zehra
   Parhte raho yuṅhi mere Shabbir ka nauha
-  Khud aauṅgi maiṅ sunne Ali Jee jo parhega
+  Khud aauṅgi maiṅ sunne Ali Ji jo parhega
   Jo royega jannat meiṅ mere saath rahega
   Islam sadaa zinda o paainda rahega
   Ye meri dua meri dua meri dua hai

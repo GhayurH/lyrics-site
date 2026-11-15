@@ -20,18 +20,18 @@ romanLyrics: |-
   Kehte the Shaah-e-Waala aa jaao Ali Asghar
 
   2
-  Main kis se kahuṅ beta ab khatm hua lashkar
+  Maiṅ kis se kahuṅ beta ab khatm hua lashkar
   Shabbir akele haiṅ Abbas hai na Akbar
   Hai waqt qayaamat ka aa jaao Ali Asghar
 
   3
   Ek baar chale aao phir jaane nahiṅ duṅ gi
-  Godi mein uthaauṅ gi sine se lagaauṅ gi
-  Jangal mein nahiṅ sona aa jaao Ali Asghar
+  Godi meiṅ uthaauṅ gi sine se lagaauṅ gi
+  Jangal meiṅ nahiṅ sona aa jaao Ali Asghar
 
   4
-  Ae laal teri surat phirti hai nigaahoṅ mein
-  Laut aao ke ab lori dhalne lagi aahoṅ mein
+  Ae laal teri surat phirti hai nigaahoṅ meiṅ
+  Laut aao ke ab lori dhalne lagi aahoṅ meiṅ
   Khuṅ rota hai dil mera aa jaao Ali Asghar
 
   5
@@ -40,23 +40,23 @@ romanLyrics: |-
   Mar jaaye na maasuma aa jaao Ali Asghar
 
   6
-  Bikhre hue laashe haiṅ har ek taraf ran mein
-  Khauf aata hai ae beta us ujre hue ban mein
-  Maqtal mein hai sannaata aa jaao Ali Asghar
+  Bikhre hue laashe haiṅ har ek taraf ran meiṅ
+  Khauf aata hai ae beta us ujre hue ban meiṅ
+  Maqtal meiṅ hai sannaata aa jaao Ali Asghar
 
   7
-  Main raatoṅ ko uth uth kar jo jhula jhulaati thi
-  De de ke tumheṅ lori main jis mein sulaati thi
+  Maiṅ raatoṅ ko uth uth kar jo jhula jhulaati thi
+  De de ke tumheṅ lori maiṅ jis meiṅ sulaati thi
   Viraan hai wo jhula aa jaao Ali Asghar
 
   8
-  Hai aakhri sajde mein wo waaris-e-Paighambar
+  Hai aakhri sajde meiṅ wo waaris-e-Paighambar
   Ab Shimr ka khanjar hai Shabbir ki gardan par
   Lut jaaye na ghar mera aa jaao Ali Asghar
 
   9
-  Mahshar tha bapa Gohar is dasht-e-musibat mein
-  Tarpa to zarur hoga beshir bhi turbat mein
+  Mahshar tha bapa Gohar is dasht-e-musibat meiṅ
+  Tarpa to zarur hoga beshir bhi turbat meiṅ
   Jab maa ne kaha hoga aa jaao Ali Asghar
 # source_id: nohayonline:283959f7b47e4377f6d5
 # source_url: https://www.nohayonline.com/details_content.php?id=796

@@ -27,7 +27,7 @@ romanLyrics: |-
   Husainiyoṅ kaho Ae bawafa Khuda haafiz
 
   4
-  Khaamosh baithe haiṅ maaoṅ ki god mein bachche
+  Khaamosh baithe haiṅ maaoṅ ki god meiṅ bachche
   Kahe wo jhule se kaise bhala Khuda haafiz
 
   5

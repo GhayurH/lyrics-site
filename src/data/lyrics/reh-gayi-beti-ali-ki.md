@@ -15,11 +15,11 @@ romanLyrics: |-
   Zakhm khaane ke liye aansu bahaane ke liye
 
   1
-  Waaris-e-tathir beparda khari hai dasht mein
+  Waaris-e-tathir beparda khari hai dasht meiṅ
   Ek chaadar bhi nahiṅ hai sar chhupaane ke liye
 
   2
-  Laayi thi do phul apni god mein Umm-e-Rabaab
+  Laayi thi do phul apni god meiṅ Umm-e-Rabaab
   Ek maqtal ke liye ek qaid khaane ke liye
 
   3
@@ -27,7 +27,7 @@ romanLyrics: |-
   Laasha-e-beshir neze par uthaane ke liye
 
   4
-  Nok-e-neza par uthaa kar Shaam ke baazaar mein
+  Nok-e-neza par uthaa kar Shaam ke baazaar meiṅ
   Shimr lehraata tha chaadar dil dukhaane ke liye
 
   5
@@ -35,7 +35,7 @@ romanLyrics: |-
   Pusht-e-Aabid reh gayi hai taaziyaane ke liye
 
   6
-  Baarha Zainab hai guzri Shaam ke baazaar mein
+  Baarha Zainab hai guzri Shaam ke baazaar meiṅ
   Sayyid-e-Sajjaad ko zinda bachaane ke liye
 
   7
@@ -44,10 +44,10 @@ romanLyrics: |-
 
   8
   Gir ke Akbar ne sada di jab to Zainab ne kaha
-  Bhaai main bhi chal rahi huṅ laash uthaane ke liye
+  Bhaai maiṅ bhi chal rahi huṅ laash uthaane ke liye
 
   9
-  Maangne aaya hai bachchi ko kanizi mein laiṅ
+  Maangne aaya hai bachchi ko kanizi meiṅ laiṅ
   Ab to aa jaao mere Ghaazi bachaane ke liye
 
   10

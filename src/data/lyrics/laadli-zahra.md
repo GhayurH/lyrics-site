@@ -28,22 +28,22 @@ romanLyrics: |-
 
   4
   Karbala Shaam Saamarra Mashhad
-  Kitne hissoṅ mein bat gayi Zahra
+  Kitne hissoṅ meiṅ bat gayi Zahra
 
   5
   Aag se jin ke jal gaye daaman
   Ik Sakina hai dusri Zahra
 
   6
-  Hai tasawwur mein ghurbat-e-Haidar
+  Hai tasawwur meiṅ ghurbat-e-Haidar
   Saaṅs leti hai aakhri Zahra
 
   7
   Muṅh ke bal gir pare Ali sun kar
-  Ab jahaaṅ mein nahiṅ rahi Zahra
+  Ab jahaaṅ meiṅ nahiṅ rahi Zahra
 
   8
-  Rakh ke mayyat lahad mein bole Ali
+  Rakh ke mayyat lahad meiṅ bole Ali
   Ab wo Zahra nahiṅ rahi Zahra
 
   9

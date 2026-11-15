@@ -32,7 +32,7 @@ romanLyrics: |-
   Kaise sahe bhala bimaar saarabaaṅ
 
   5
-  Main ne suni hai ye sada kehte haiṅ Shaam meiṅ sabhi
+  Maiṅ ne suni hai ye sada kehte haiṅ Shaam meiṅ sabhi
   Badla Ali ka leiṅ ge ham bint-e-Ali se aaj hi
   Patthar se hai bhari logoṅ ki jholiyaaṅ
 

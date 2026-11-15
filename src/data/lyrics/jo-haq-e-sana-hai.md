@@ -23,7 +23,7 @@ romanLyrics: |-
   Shabbir agar chaaheiṅ to kya ho nahiṅ sakta
 
   3
-  Parhta huṅ main har shab Shab-e-Hijrat ke qaside
+  Parhta huṅ maiṅ har shab Shab-e-Hijrat ke qaside
   Maabud mera mujh se khafa ho nahiṅ sakta
 
   4

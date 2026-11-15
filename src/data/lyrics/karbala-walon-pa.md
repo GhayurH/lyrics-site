@@ -11,7 +11,7 @@ aliases: []
 published: true
 reciter: Ali Zia Rizvi
 romanLyrics: |-
-  Karbala walon pe jo guzri wo qayaamat aur hai
+  Karbala waloṅ pe jo guzri wo qayaamat aur hai
   Har payambar par jo aai wo musibat aur hai
 
   1

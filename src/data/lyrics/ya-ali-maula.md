@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Dil mein saja ke rakha hai
+  Dil meiṅ saja ke rakha hai
   Ya Ali Maula Haider Maula
   Har maulaai kehta hai
   Ya Ali Maula Haider Maula
@@ -35,14 +35,14 @@ romanLyrics: |-
   Aaj bhi Sindh ne Maula qadam ko sar pe utha ke rakha hai
 
   4
-  Tera naara sun kar mushkil mushkil mein par jaaye
-  Dushman-e-imaaṅ dekh ke tujh ko dharti mein gar jaaye
+  Tera naara sun kar mushkil mushkil meiṅ par jaaye
+  Dushman-e-imaaṅ dekh ke tujh ko dharti meiṅ gar jaaye
   Laakhoṅ ke lashkar se Maula tanha tu lar jaaye
   Tere Khuda ne tujh ko apni tegh bana ke rakha hai
 
   5
   Tera ghar nuraani Maula ghar hai tera nuraani
-  Tere ghar mein jo surat hai surat hai Quraani
+  Tere ghar meiṅ jo surat hai surat hai Quraani
   Tu kull-e-imaan hai Maula zikr tera imaani
   Rab ne tere naam se apna naam mila ke rakha hai
 
@@ -59,13 +59,13 @@ romanLyrics: |-
   Dil ko tere Karbobala ne haaye dukha ke rakha hai
 
   8
-  Karbobala ne aath pehar mein kya manzar dikhlaaya
-  Fatima Zehra ne marqad mein ek pal chain na paaya
+  Karbobala ne aath pehar meiṅ kya manzar dikhlaaya
+  Fatima Zehra ne marqad meiṅ ek pal chain na paaya
   Laash pe tere laal ki Maula ghoroṅ ko dauraaya
   Neze par tere pyaaroṅ ke sar ko utha ke rakha hai
 
   9
-  Rab zidni ilma keh kar shehr-e-Najaf mein aaye
+  Rab zidni ilma keh kar shehr-e-Najaf meiṅ aaye
   Hum ne to Rehaan o Sarwar ilm ke moti paaye
   Ya Ali Maula Haider Maula tujh se aas lagaaye
   Shukr Maula shukr Maula lab pe saja ke rakha hai

@@ -31,12 +31,12 @@ romanLyrics: |-
   Phailne lagta hai jab aa kar andhera shaam ka
 
   5
-  Munkir-e-aal-e-Muhammad ki sana main kiuṅ karuṅ
+  Munkir-e-aal-e-Muhammad ki sana maiṅ kiuṅ karuṅ
   Kiuṅ qalam se kaam luṅ lafzoṅ ke qatl-e-aam ka
 
   6
   Madh-e-shah se do jahaaṅ meiṅ mil gaya mujh ko Uruj
-  Zaat par sach hai asar padta hai uske naam ka
+  Zaat par sach hai asar parta hai uske naam ka
 # source_id: nohayonline:163a970d4ad17d07d938
 # source_url: https://www.nohayonline.com/details_content.php?id=3454
 # raw_sha256: 4fb2f5fecdd8ecb7c591cd4785acafcea2269023a59f18e6cc7e990d6ebc7eff

@@ -12,13 +12,13 @@ aliases: ["Ay Ghareebe Zahra"]
 published: true
 romanLyrics: |-
   Ae gharib-e-Zahra ae gharib-e-Zahra
-  Asr-e-Ashur ye ek maaṅ ki hai maqtal mein sada
+  Asr-e-Ashur ye ek maaṅ ki hai maqtal meiṅ sada
   Ae gharib-e-Zahra ae gharib-e-Zahra
 
   1
-  Mere bete main teri pyaas bujhaauṅ kaise
+  Mere bete maiṅ teri pyaas bujhaauṅ kaise
   Kund khanjar se tujhe laal bachaauṅ kaise
-  Khaak maqtal mein ura kar ye pukaari mamta
+  Khaak maqtal meiṅ ura kar ye pukaari mamta
 
   2
   Subh-e-Ashur se ab tak the jo muztar laashe
@@ -26,7 +26,7 @@ romanLyrics: |-
   Gham ye hai tujhko mayassar nahiṅ koi kaandha
 
   3
-  Tir hi tir badan mein hai nikaale koi
+  Tir hi tir badan meiṅ hai nikaale koi
   Maaṅ tarapti hai tujhe laal bacha le koi
   Phir ye boli tera Akbar tera Ghazi na raha
 
@@ -47,8 +47,8 @@ romanLyrics: |-
 
   7
   Shimr se apni Sakina ko bachaana beta
-  Tum wahaaṅ jaa ke use saath mein laana beta
-  Qaid khaane mein Sakina jo kare waawaila
+  Tum wahaaṅ jaa ke use saath meiṅ laana beta
+  Qaid khaane meiṅ Sakina jo kare waawaila
 
   8
   Hai ye waada tere Yasir ko shafaat duṅ gi

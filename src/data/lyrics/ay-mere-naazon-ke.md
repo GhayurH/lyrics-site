@@ -23,13 +23,13 @@ romanLyrics: |-
   Qabr-e-Asghar pusht-e-khaima par banaane ke liye
 
   2
-  Haye suraj chhupa chuka ho dhal chuka ho shab mein shaam
+  Haye suraj chhupa chuka ho dhal chuka ho shab meiṅ shaam
   Roz-e-Ashura qayaamat ho chuki ho ikhtitaam
-  Ek yateemi ko tere laashe pe laane ke liye
+  Ek yatimi ko tere laashe pe laane ke liye
 
   3
   Tera hamshakl-e-Payambar apna dil thaame hue
-  Khuṅ mein tar sine pe apne haath ko rakhe hue
+  Khuṅ meiṅ tar sine pe apne haath ko rakhe hue
   Mil ke tere saath Akbar ko uthaane ke liye
 
   4
@@ -40,12 +40,12 @@ romanLyrics: |-
   5
   Kya sitam dekhegi Zainab teri khwaahar pur malaal
   Ghurbat-e-Sajjad ki dega gawaahi Zuljalaal
-  Kar ke himmat us ko sholon se bachane ke liye
+  Kar ke himmat us ko sholoṅ se bachane ke liye
 
   6
   Boli Abid maaṅ jahaaṅ hogi teri majlis bapa
   Nauha o maatam ki gunjegi kahiṅ bhi jab sada
-  Behte aansuoṅ apne daaman mein uthaane ke liye
+  Behte aansuoṅ apne daaman meiṅ uthaane ke liye
 # source_id: nohayonline:4aebdefc9d87a077ba9b
 # source_url: https://www.nohayonline.com/details_content.php?id=3178
 # raw_sha256: de483067a803a32716fa7e698ec23622b6dbe4c549016a6f69c3f9f4424e814a

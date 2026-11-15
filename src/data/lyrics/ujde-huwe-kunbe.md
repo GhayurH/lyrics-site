@@ -23,7 +23,7 @@ romanLyrics: |-
   Laachaar hai bebas hai dilafgaar hai Zainab
 
   3
-  Taarikh ke sine mein hai mehfuz abhi tak
+  Taarikh ke sine meiṅ hai mehfuz abhi tak
   Wo khutba jo tera sar-e-darbaar hai Zainab
 
   4
@@ -32,7 +32,7 @@ romanLyrics: |-
 
   5
   Le aao use aag ke sholoṅ se bacha kar
-  Sholoṅ mein ghira Aabid-e-bimaar hai Zainab
+  Sholoṅ meiṅ ghira Aabid-e-bimaar hai Zainab
 
   6
   Likha hai Zafar khun se taarikh ke rukh par

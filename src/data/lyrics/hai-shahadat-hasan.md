@@ -1,6 +1,6 @@
 ---
 title: "آج مجلس میں سب ہیں کھلے سر"
-alternateTitle: "Hai Shahaadat Hasan"
+alternateTitle: "Hai Shahaadat Hasaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

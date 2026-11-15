@@ -17,8 +17,8 @@ romanLyrics: |-
   Shaam ho gayi
 
   1
-  Raah takti rahi shiddat-e-pyaas mein
-  Kat gaya din isi aas hi aas mein
+  Raah takti rahi shiddat-e-pyaas meiṅ
+  Kat gaya din isi aas hi aas meiṅ
   Koi aaya nahiṅ jaane kya ho gaya
   Shaam ho gayi
 
@@ -29,8 +29,8 @@ romanLyrics: |-
   Shaam ho gayi
 
   3
-  Kis ko aawaaz duṅ huk ke maidaan mein
-  Kaun hai jo sune is biyaabaan mein
+  Kis ko aawaaz duṅ huk ke maidaan meiṅ
+  Kaun hai jo sune is biyaabaan meiṅ
   De rahi huṅ tumheṅ jaane kab se sada
   Shaam ho gayi
 
@@ -41,8 +41,8 @@ romanLyrics: |-
   Shaam ho gayi
 
   5
-  Jaa ke maidaan mein Baba bhi aaye nahiṅ
-  Ab to jhule mein Asghar bhi haaye nahiṅ
+  Jaa ke maidaan meiṅ Baba bhi aaye nahiṅ
+  Ab to jhule meiṅ Asghar bhi haaye nahiṅ
   Khaima jalta hai yuṅ jaise koi diya
   Shaam ho gayi
 
@@ -53,7 +53,7 @@ romanLyrics: |-
   Shaam ho gayi
 
   7
-  Baazuoṅ mein rasan baandhne aa gaye
+  Baazuoṅ meiṅ rasan baandhne aa gaye
   Kheṅch ke le gaye dur mere kaan se
   Ho gaya khun se tar saara kurta mera
   Shaam ho gayi
@@ -65,7 +65,7 @@ romanLyrics: |-
   Shaam ho gayi
 
   9
-  Nauha Rehaan majlis mein sun ke tera
+  Nauha Rehaan majlis meiṅ sun ke tera
   Chashm-e-giryaaṅ ko ye hosh kab hi raha
   Kab sahar ho gayi aur kab din dhala
   Shaam ho gayi

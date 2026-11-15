@@ -1,6 +1,6 @@
 ---
 title: "مرتضیٰ کے سائے میں"
-alternateTitle: "Murtaza Ke Saaye Mein"
+alternateTitle: "Murtaza Ke Saaye Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -17,8 +17,8 @@ romanLyrics: |-
 
   1
   Muskura ke Hazrat-e-Salman kahte haiṅ suno
-  Main muqallid huṅ Ali ka tum zara yeh dekh lo
-  Ji raha huṅ main musalsal Lailah ke saaye meiṅ
+  Maiṅ muqallid huṅ Ali ka tum zara yeh dekh lo
+  Ji raha huṅ maiṅ musalsal Lailah ke saaye meiṅ
 
   2
   Yeh khafi hai yeh jali hai yeh wali hai yeh wasi

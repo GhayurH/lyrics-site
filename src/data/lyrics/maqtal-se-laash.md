@@ -27,20 +27,20 @@ romanLyrics: |-
 
   3
   Bewaoṅ ke darmiyaan ye Farwa ki hai buka
-  Pal mein meri khushi ka jahaaṅ khaak ho gaya
+  Pal meiṅ meri khushi ka jahaaṅ khaak ho gaya
   Bete ka ghar basaane ka armaan tha mera
   Ibn-e-Hasan ne maut ki basti basaayi hai
 
   4
   Farmaate the ye Shaah ghazab ho gaya behan
-  Paamaal ran mein ho gaya naushaah ka badan
+  Paamaal ran meiṅ ho gaya naushaah ka badan
   Aur tukre tukre ho gaya bhaiya ka gul badan
-  Qasim ki laash hum ne aba mein uthaayi hai
+  Qasim ki laash hum ne aba meiṅ uthaayi hai
 
   5
   Jaawed Karbala ki ye shaadi ajib thi
-  Lamhoṅ mein jo khushi thi wo gham mein badal gayi
-  Shaadi koi jahaaṅ mein hoti hai jab kabhi
+  Lamhoṅ meiṅ jo khushi thi wo gham meiṅ badal gayi
+  Shaadi koi jahaaṅ meiṅ hoti hai jab kabhi
   Ibn-e-Hasan ki yaad zamaane ko aayi hai
 # source_id: nohayonline:8bf8b44e6ab560674d9f
 # source_url: https://www.nohayonline.com/details_content.php?id=1971

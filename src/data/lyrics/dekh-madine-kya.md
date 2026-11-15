@@ -12,9 +12,9 @@ aliases: []
 published: true
 romanLyrics: |-
   Dekh Madine kya kya yaadeṅ
-  Saath mein apne laayi hai Zainab
-  Karbobala mein ghar ko luta kar
-  Apne watan mein aayi hai Zainab
+  Saath meiṅ apne laayi hai Zainab
+  Karbobala meiṅ ghar ko luta kar
+  Apne watan meiṅ aayi hai Zainab
 
   1
   Zulm kiya wo ahl-e-jafa ne
@@ -35,7 +35,7 @@ romanLyrics: |-
   Ye to Ali ki jaayi hai Zainab
 
   4
-  Saamne haakim ke main khari thi
+  Saamne haakim ke maiṅ khari thi
   Bhaai ke mere lab pe chhari thi
   Haaye wo kaisi sakht ghari thi
   Soch ke ye tharraayi hai Zainab
@@ -55,8 +55,8 @@ romanLyrics: |-
   7
   Ashk-e-aza ke moti luta do
   Farsh-e-aza aaṅkhoṅ ko bana do
-  Sajde mein Sajid sar ko jhuka do
-  Bazm-e-aza mein aayi hai Zainab
+  Sajde meiṅ Sajid sar ko jhuka do
+  Bazm-e-aza meiṅ aayi hai Zainab
 # source_id: nohayonline:1bb1c5d10965f6e1628e
 # source_url: https://www.nohayonline.com/details_content.php?id=3025
 # raw_sha256: 52072a5edaabb8885fd8e04180bc45b36223048f4b26c42d2a032a520a619bea

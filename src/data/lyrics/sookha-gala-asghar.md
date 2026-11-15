@@ -27,15 +27,15 @@ romanLyrics: |-
 
   3
   Pusht ke chhaaloṅ se tar hone lagi jalti zamiṅ
-  Shah ne qabr mein jab laasha rakha Asghar ka
+  Shah ne qabr meiṅ jab laasha rakha Asghar ka
 
   4
-  Tir ke baad lahad mein use neza maara
-  Qatl ek roz mein do baar hua Asghar ka
+  Tir ke baad lahad meiṅ use neza maara
+  Qatl ek roz meiṅ do baar hua Asghar ka
 
   5
   Saat baar aage barhe pichhe hate Shah lekin
-  Laasha khaimoṅ mein na le jaaya gaya Asghar ka
+  Laasha khaimoṅ meiṅ na le jaaya gaya Asghar ka
 
   6
   Khencha neze se badan aur zamiṅ par rakh kar
@@ -46,7 +46,7 @@ romanLyrics: |-
   Shaam ke bachchoṅ ko sar jab bhi mila Asghar ka
 
   8
-  Kaise Zeeshan bayaaṅ koi kare pyaas us ki
+  Kaise Zishan bayaaṅ koi kare pyaas us ki
   Khushk lab ho gaye jab naam liya Asghar ka
 # source_id: nohayonline:1b6c8b96454a3e1fe01c
 # source_url: https://www.nohayonline.com/details_content.php?id=2420

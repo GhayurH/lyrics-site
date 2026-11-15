@@ -32,11 +32,11 @@ romanLyrics: |-
   Nahiṅ hai ek bhi zaair bahut wiraan hai rauza
 
   6
-  Jo dil mein raaz the hamraaz ko apne bataane the
-  Bahut se masale main ne Qalandar ko sunaane the
+  Jo dil meiṅ raaz the hamraaz ko apne bataane the
+  Bahut se masale maiṅ ne Qalandar ko sunaane the
 
   7
-  Mera har zakhm-e-dil un ke shifa khaane mein silta tha
+  Mera har zakhm-e-dil un ke shifa khaane meiṅ silta tha
   Hamesha hausla mujh ko mere Saaeiṅ se milta tha
 
   8
@@ -44,8 +44,8 @@ romanLyrics: |-
   Wo dar to band hai ab haath phailaane kahaaṅ jaauṅ
 
   9
-  Achaanak dil ki dharkan ne takhayyul mein khalal waala
-  Achaanak meri naa ummidi ko ummid mein badla
+  Achaanak dil ki dharkan ne takhayyul meiṅ khalal waala
+  Achaanak meri naa ummidi ko ummid meiṅ badla
 
   10
   Kaha dil ne ke har ik qalb pe qudrat hai Sehwan ki
@@ -53,7 +53,7 @@ romanLyrics: |-
 
   11
   Balaaoṅ se sada aazaad tha aazaad hai Sehwan
-  Malangoṅ ke diloṅ mein aaj bhi aabaad hai Sehwan
+  Malangoṅ ke diloṅ meiṅ aaj bhi aabaad hai Sehwan
 # source_id: tajpoints:e6bc4102c2ec72d307e0
 # source_url: https://tajpoints.com/2020/04/yaad-e-sehwan-lyrics-in-urdu-and-roman.html
 # raw_sha256: 79b5d0215a37925db630bcc5df4f5d789a757f7ff96ff66af1123fbc79c5d150

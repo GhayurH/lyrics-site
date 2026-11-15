@@ -12,45 +12,45 @@ aliases: []
 published: true
 romanLyrics: |-
   Aashur ki wo raat wo sannate ka aalam
-  Fitrat ki khamoshi mein farishtoṅ ka wo matam
-  Soya hua ran mein Asadullah ka zaigham
-  Aur khun mein duba hua Islam ka parcham
-  Abbas tujhe ahl-e-wafa yaad karenge
+  Fitrat ki khamoshi meiṅ farishtoṅ ka wo matam
+  Soya hua ran meiṅ Asadullah ka zaigham
+  Aur khun meiṅ duba hua Islam ka parcham
+  Abbas tujhe ahl-e-wafa yaad kareṅge
 
   1
   Dekhi na gayi bachchoṅ ki jab tashna dahani
-  Aankhoṅ mein khatakne lagi maujoṅ ki rawani
+  Aankhoṅ meiṅ khatakne lagi maujoṅ ki rawani
   Pani ke liye apna lahu kar diya pani
   Bachpan pe Sakina ke fida kar di jawani
-  Abbas tujhe ahl-e-wafa yaad karenge
+  Abbas tujhe ahl-e-wafa yaad kareṅge
 
   2
-  Qabze mein thi talwaar ke qabze mein khudaai
+  Qabze meiṅ thi talwaar ke qabze meiṅ khudaai
   Do haath chali thi ke taraai nazar aayi
   Bhai ki wigha dur se dekha kiye bhai
   Yuṅ shaan-e-wafa tu ne wafadar dikhaai
-  Abbas tujhe ahl-e-wafa yaad karenge
+  Abbas tujhe ahl-e-wafa yaad kareṅge
 
   3
   Ae Fatima Zehra ke qamar nayyar-e-taabaṅ
   Bazu-e-Husain Ibn-e-Ali naasir-e-imaṅ
   Khaaliq ki qasam kar diya Islam pe ehsaaṅ
   Ae mashk-e-Sakina ke muhafiz tere qurbaaṅ
-  Abbas tujhe ahl-e-wafa yaad karenge
+  Abbas tujhe ahl-e-wafa yaad kareṅge
 
   4
   Dunya se gaya shaan wafaaoṅ ki dikha kar
   Pani na piya pyasa raha nehr pe ja kar
-  Ghode se gira khaak pe baazu ko kata kar
+  Ghore se gira khaak pe baazu ko kata kar
   Soya bhi to soyi hui millat ko jaga kar
-  Abbas tujhe ahl-e-wafa yaad karenge
+  Abbas tujhe ahl-e-wafa yaad kareṅge
 
   5
   Kazim koi karta hai to karne do bahana
-  Gunjega fazaaoṅ mein wafaaoṅ ka tarana
-  Har rang mein dhal jayega ye gham ka fasana
+  Gunjega fazaaoṅ meiṅ wafaaoṅ ka tarana
+  Har rang meiṅ dhal jayega ye gham ka fasana
   Fitrat to na badlegi badal jaaye zamana
-  Abbas tujhe ahl-e-wafa yaad karenge
+  Abbas tujhe ahl-e-wafa yaad kareṅge
 # source_id: nohayonline:0d923b5c880a70c61cbf
 # source_url: https://www.nohayonline.com/details_content.php?id=1952
 # raw_sha256: 2977462766064abaecb4f94b69c6ed3343431a6c2dd26885666d75aecce5ff9a

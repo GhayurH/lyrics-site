@@ -21,7 +21,7 @@ romanLyrics: |-
   Zamin-e-Karbala Allah o Akbar
 
   2
-  Bahaate haiṅ gham-e-Shah mein lahu hum
+  Bahaate haiṅ gham-e-Shah meiṅ lahu hum
   Sar-e-mahshar raheṅge surkh ru hum
   Yuṅhi phailaayeṅge ab chaar suṅ hum
   Ye maatam ki sada Allah o Akbar
@@ -29,12 +29,12 @@ romanLyrics: |-
   3
   Wo saqqa-e-haram Ibn-e-Ali hai
   Alam ke jis ke har suṅ roshni hai
-  Fazaaoṅ mein musalsal keh rahi hai
+  Fazaaoṅ meiṅ musalsal keh rahi hai
   Pharere ki hawa Allah o Akbar
 
   4
-  Ye wo gham hai ke jis mein zindagi hai
-  Isi gham se nazar mein roshni hai
+  Ye wo gham hai ke jis meiṅ zindagi hai
+  Isi gham se nazar meiṅ roshni hai
   Yehi gham mohtaram hai bandagi hai
   Aza-e-Karbala Allah o Akbar
 
@@ -57,13 +57,13 @@ romanLyrics: |-
   Magar khaak-e-shifa Allah o Akbar
 
   8
-  Bas ik shab mein hua tabdil manzar
+  Bas ik shab meiṅ hua tabdil manzar
   Sahar Aashur ki Hur ka muqaddar
   Chala baatil se aaya raah-e-haq par
   Jab Akbar ne kaha Allah o Akbar
 
   9
-  Wafa haq mein shiaar-e-anbiya hai
+  Wafa haq meiṅ shiaar-e-anbiya hai
   Magar kya martaba Abbas ka hai
   Faqat us ko zamaana keh raha hai
   Wafaaoṅ ka Khuda Allah o Akbar
@@ -75,19 +75,19 @@ romanLyrics: |-
   Wo sajda shukr ka Allah o Akbar
 
   11
-  Hai ran mein muntashir Qasim ka laasha
+  Hai ran meiṅ muntashir Qasim ka laasha
   Uthaaye laash kaise jaan-e-Zehra
   Magar ab kya kare thaame kaleja
   Bichhaate haiṅ aba Allah o Akbar
 
   12
   Shah-e-diṅ par hai kaisa waqt aaya
-  Ke khaak aur khun mein ghaltaaṅ hai beta
+  Ke khaak aur khun meiṅ ghaltaaṅ hai beta
   Tarapta hai jigar par khaa ke neza
   Shabih-e-Mustafa Allah o Akbar
 
   13
-  Wo jhule se tera maqtal mein aana
+  Wo jhule se tera maqtal meiṅ aana
   Gulu-e-khushk par wo tir khaana
   Ali Asghar na bhulega zamaana
   Tabassum pyaas ka Allah o Akbar
@@ -106,14 +106,14 @@ romanLyrics: |-
 
   16
   Raza khaaliq ki banda chaahta hai
-  Isi mein bartari hai jaanta hai
+  Isi meiṅ bartari hai jaanta hai
   Magar Shah se Khuda khud puchhta hai
   Bata teri raza Allah o Akbar
 
   17
   Kisi ko daulat-e-aulaad de di
   Kisi ko quwwat-e-parwaaz bakhshi
-  Na thi qismat mein wo nemat ata ki
+  Na thi qismat meiṅ wo nemat ata ki
   Karam Shabbir ka Allah o Akbar
 
   18
@@ -135,8 +135,8 @@ romanLyrics: |-
   Wohi hai berida Allah o Akbar
 
   21
-  Gale mein tauq hai Zain-ul-Aba ke
-  Hai chhaale paaoṅ mein raahoṅ mein kaaṅte
+  Gale meiṅ tauq hai Zain-ul-Aba ke
+  Hai chhaale paaoṅ meiṅ raahoṅ meiṅ kaaṅte
   Wo zanjireṅ wo langar taaziyaane
   Safar wo dhup ka Allah o Akbar
 
@@ -160,7 +160,7 @@ romanLyrics: |-
 
   25
   Aza ke ashk hai aankhoṅ ki zinat
-  Kareṅge hum Rasheed is ki hifaazat
+  Kareṅge hum Rashid is ki hifaazat
   Hai gham pyaasoṅ ka is dil ki ibaadat
   Muqaddar ki ata Allah o Akbar
 # source_id: nohayonline:61bab4d150e24c6a41c2

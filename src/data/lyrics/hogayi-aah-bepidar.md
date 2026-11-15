@@ -23,18 +23,18 @@ romanLyrics: |-
 
   3
   Aaj haiṅ farsh-e-gham pe ahl-e-aza
-  Baap ke gham mein nauhagar Zainab
+  Baap ke gham meiṅ nauhagar Zainab
 
   4
   Dekhna ek din dikhaayegi
   Shaam tujh ko yehi sehar Zainab
 
   5
-  Ibtida hai abhi to Kufe mein
+  Ibtida hai abhi to Kufe meiṅ
   Tujh ko hona hai darbadar Zainab
 
   6
-  Majma-e-aam hoga galiyoṅ mein
+  Majma-e-aam hoga galiyoṅ meiṅ
   Aur hogi barehna sar Zainab
 
   7

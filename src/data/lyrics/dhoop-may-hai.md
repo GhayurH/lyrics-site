@@ -1,6 +1,6 @@
 ---
 title: "دھوپ میں ہے قبرِ زہرا ص گنبدِ خضرا کے پاس"
-alternateTitle: "Dhup Mein Hai"
+alternateTitle: "Dhup Meiṅ Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Dhup mein hai qabr-e-Zehra gumbad-e-Khizra ke paas
+  Dhup meiṅ hai qabr-e-Zehra gumbad-e-Khizra ke paas
   Ye Nabi karte haiṅ nauha gumbad-e-Khizra ke paas
 
   1
@@ -20,7 +20,7 @@ romanLyrics: |-
   Ye sitam Zehra pe dhaaya gumbad-e-Khizra ke paas
 
   2
-  Haaye athaarah baras mein ye hue is par sitam
+  Haaye athaarah baras meiṅ ye hue is par sitam
   Kaise kaise aur kya kya mil gaye Zehra ko gham
   Ho gayi Zehra zaifa gumbad-e-Khizra ke paas
 
@@ -42,7 +42,7 @@ romanLyrics: |-
   6
   Ye sada-e-Mustafa hai Baaqir o Safdar suno
   Koi qabr-e-Fatima Zehra pe saaya to karo
-  Dhup mein hai qabr-e-Zehra gumbad-e-Khizra ke paas
+  Dhup meiṅ hai qabr-e-Zehra gumbad-e-Khizra ke paas
 # source_id: nohayonline:395103373c345765ebe5
 # source_url: https://www.nohayonline.com/details_content.php?id=2258
 # raw_sha256: 27c85e5f4be659438ac6e5bea277994b494bd5d4a44efef167b29fecbd64ab95

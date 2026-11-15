@@ -1,6 +1,6 @@
 ---
 title: "میت جواں پسر کی اٹھائی حسین نے"
-alternateTitle: "Mayyat Jawan Pisar"
+alternateTitle: "Mayyat Jawaaṅ Pisar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -18,18 +18,18 @@ romanLyrics: |-
   1
   Qaasim ko de diya Ali Akbar ko de diya
   Bhaai ko de diya Ali Asghar ko de diya
-  Raah-e-Khuda mein apne base ghar ko de diya
+  Raah-e-Khuda meiṅ apne base ghar ko de diya
   Izzat Khuda ke din ki bachaai Husain ne
 
   2
   Baaqi na bezubaaṅ hai na Akbar sa mah laqaa
   Abbaas jaan wafaa hai na Qaasim sa dilruba
-  Har haal mein Husain ne shukr-e-Khuda kiya
+  Har haal meiṅ Husain ne shukr-e-Khuda kiya
   Peshaani hukm-e-haq pe jhukaai Husain ne
 
   3
   Islaam par thi kufr ki chhaai hui ghata
-  Bechain thi lahad mein udhar ruh-e-Mustafa
+  Bechain thi lahad meiṅ udhar ruh-e-Mustafa
   Sar de ke apne shaah ne din ko bachaa liya
   Bujhti hui ye shama jalaai Husain ne
 

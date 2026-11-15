@@ -13,26 +13,26 @@ published: true
 romanLyrics: |-
   Haye ya Husain Ae ya Husain
   Chal rahi hai meri gardan pe chhuri
-  Apni aaghosh mein le lo ammaṅ
+  Apni aaghosh meiṅ le lo ammaṅ
   Keh rahe the ye Husain ibn-e-Ali
-  Apni aaghosh mein le lo ammaṅ
+  Apni aaghosh meiṅ le lo ammaṅ
 
   1
   Tashna lab naazoṅ ka paala hai tumhara beta
   Qatl ab hone hi waala hai tumhara beta
   Rukne waali hai har ek saans meri
-  Apni aaghosh mein le lo ammaṅ
+  Apni aaghosh meiṅ le lo ammaṅ
 
   2
   Apne bachpan ka nibhaata huṅ ye waada dekho
-  Main ne badla to nahiṅ apna iraada dekho
+  Maiṅ ne badla to nahiṅ apna iraada dekho
   Sar mera kaatne waala hai shaqi
-  Apni aaghosh mein le lo ammaṅ
+  Apni aaghosh meiṅ le lo ammaṅ
 
   3
   Thak gaya laasheṅ utha kar bhare lashkar ki
-  Laash Qasim ki main laaya huṅ kabhi Akbar ki
-  Khud banaai hai lahad main ne Ali Asghar ki
+  Laash Qasim ki maiṅ laaya huṅ kabhi Akbar ki
+  Khud banaai hai lahad maiṅ ne Ali Asghar ki
   Do tasalli mujhe sine se laga lo ammaṅ
   Haye ya Husain Ae ya Husain
 
@@ -40,31 +40,31 @@ romanLyrics: |-
   Kitni bechain hai ammaṅ meri Zainab khwaahar
   Aa ke tile pe wo khud dekh rahi hai manzar
   Ho rahi hai use taklif bari
-  Apni aaghosh mein le lo ammaṅ
+  Apni aaghosh meiṅ le lo ammaṅ
 
   5
   Mar gaya mera jari bhai magar sabr kiya
   Mere Akbar ne sinaaṅ khaai magar sabr kiya
-  Mil gayi khaak mein tasvir-e-Nabi
-  Apni aaghosh mein le lo ammaṅ
+  Mil gayi khaak meiṅ tasvir-e-Nabi
+  Apni aaghosh meiṅ le lo ammaṅ
 
   6
-  Haajira Aasiya Maryam bhi isi dasht mein haiṅ
-  Nuh bhi Hazrat-e-Aadam bhi isi dasht mein haiṅ
+  Haajira Aasiya Maryam bhi isi dasht meiṅ haiṅ
+  Nuh bhi Hazrat-e-Aadam bhi isi dasht meiṅ haiṅ
   Ro rahe haiṅ meri ghurbat pe sabhi
-  Apni aaghosh mein le lo ammaṅ
+  Apni aaghosh meiṅ le lo ammaṅ
 
   7
-  Kho diye dasht mein aankhoṅ ke ujaale main ne
-  Kha liye dil pe bahut dard ke bhaale main ne
+  Kho diye dasht meiṅ aankhoṅ ke ujaale maiṅ ne
+  Kha liye dil pe bahut dard ke bhaale maiṅ ne
   Maut aati hai to aa jaaye abhi
-  Apni aaghosh mein le lo ammaṅ
+  Apni aaghosh meiṅ le lo ammaṅ
 
   8
-  Kalma go khun rulaate haiṅ mujhe maqtal mein
-  Dekh lo kitna sataate haiṅ mujhe maqtal mein
+  Kalma go khun rulaate haiṅ mujhe maqtal meiṅ
+  Dekh lo kitna sataate haiṅ mujhe maqtal meiṅ
   Hil gayi dekh lo maqtal ki zamiṅ
-  Apni aaghosh mein le lo ammaṅ
+  Apni aaghosh meiṅ le lo ammaṅ
 
   9
   Ek guzaarish hai meri tum se ab itni maadar
@@ -75,9 +75,9 @@ romanLyrics: |-
 
   10
   Arz karte hi Nawab ho gaya mahshar barpa
-  Khaak urhaane lagi maqtal mein Janaab-e-Zahra
+  Khaak urhaane lagi maqtal meiṅ Janaab-e-Zahra
   Shaadmaaṅ jab ye sada Shaah ne di
-  Apni aaghosh mein le lo ammaṅ
+  Apni aaghosh meiṅ le lo ammaṅ
 # source_id: nohayonline:33a196719580377857c8
 # source_url: https://www.nohayonline.com/details_content.php?id=2826
 # raw_sha256: 29dad020c5e7d1ade25898521e40d8b866deabd397373f5feb05172a63951fbc

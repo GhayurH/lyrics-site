@@ -12,58 +12,58 @@ aliases: []
 published: true
 romanLyrics: |-
   Pyare Nabi ka pyara nawasa
-  Maara gaya hai raah-e-Khuda mein
+  Maara gaya hai raah-e-Khuda meiṅ
 
   Darya kinare do din ka pyasa
-  Maara gaya hai raah-e-Khuda mein
+  Maara gaya hai raah-e-Khuda meiṅ
 
   1
   Ye Karbala ki mehmaaṅ nawazi
   Ye Kufiyoṅ ki hangaama saazi
   Aisa mujaahid aisa namaazi
-  Maara gaya hai raah-e-Khuda mein
+  Maara gaya hai raah-e-Khuda meiṅ
 
   2
-  Karbobala mein Yasrab se aa ke
+  Karbobala meiṅ Yasrab se aa ke
   Bhatke huoṅ ko rasta bata ke
   Insaniyat ka paigham laa ke
-  Maara gaya hai raah-e-Khuda mein
+  Maara gaya hai raah-e-Khuda meiṅ
 
   3
   Ek ek wafa ke paikar ko le kar
   Akbar ko le kar Asghar ko le kar
   Humraah apne ghar bhar ko le kar
-  Maara gaya hai raah-e-Khuda mein
+  Maara gaya hai raah-e-Khuda meiṅ
 
   4
   Wo Hal Ataa ke ghar ka ujaala
   Jo La Fataa ki godi ka paala
   Taqdis waala tathir waala
-  Maara gaya hai raah-e-Khuda mein
+  Maara gaya hai raah-e-Khuda meiṅ
 
   5
   Chehre ke kaisi taabindagi hai
   Mazlumiyat ki paaindagi hai
   Laashe se paida kya zindagi hai
-  Maara gaya hai raah-e-Khuda mein
+  Maara gaya hai raah-e-Khuda meiṅ
 
   6
   Ahl-e-haram ke dil hai niraale
   Baithe hue haiṅ kya gham sambhaale
   Ab reh gaye haiṅ sab rone waale
-  Maara gaya hai raah-e-Khuda mein
+  Maara gaya hai raah-e-Khuda meiṅ
 
   7
   Basti se keh do sahra se keh do
   Khushki se keh do darya se keh do
   Mazlum hai wo duniya se keh do
-  Maara gaya hai raah-e-Khuda mein
+  Maara gaya hai raah-e-Khuda meiṅ
 
   8
   Ae Najm dekho ye haq numaai
   Allah is ke gham ki rasaayi
   Bardaasht na hai saari khudaai
-  Maara gaya hai raah-e-Khuda mein
+  Maara gaya hai raah-e-Khuda meiṅ
 # source_id: nohayonline:fa9bdb83a3626f05bc2a
 # source_url: https://www.nohayonline.com/details_content.php?id=2576
 # raw_sha256: 91c491b92cd9412acd7801a1a51d7f355d4de6080b6a947e4a636ea251d255a2

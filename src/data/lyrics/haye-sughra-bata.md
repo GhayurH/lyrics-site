@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maula maqtal mein sar ko jhukaye
+  Maula maqtal meiṅ sar ko jhukaye
   Laash-e-Akbar pe tanha khare haiṅ
   Dhime dhime tapakte haiṅ aaṅsu
   Haye Sughra ka khat parh rahe haiṅ
@@ -20,8 +20,8 @@ romanLyrics: |-
   Aur Sughra bata kya likhuṅ
 
   1
-  Main to pardes mein lut gaya
-  Apne lashkar ko main aur ro chuka
+  Maiṅ to pardes meiṅ lut gaya
+  Apne lashkar ko maiṅ aur ro chuka
   Tere baba gharib ho gaya
   Aur is ke siwa kya likhuṅ
 
@@ -63,7 +63,7 @@ romanLyrics: |-
 
   8
   Ye to achchha hua laadli
-  Apne ghar mein hi tu reh gayi
+  Apne ghar meiṅ hi tu reh gayi
   Beridaai se to bach gayi
   Aur is ke siwa kya likhuṅ
 

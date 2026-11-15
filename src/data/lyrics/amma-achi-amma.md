@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Daakhil jo Madine mein hue ahl-e-Madina
+  Daakhil jo Madine meiṅ hue ahl-e-Madina
   Jaate hue kuch aur the ab kya hai qarina
   Na Akbar o Abbas na hamraah Sakina
   Aur gham se har ek Bibi ka labrez tha sina
@@ -36,7 +36,7 @@ romanLyrics: |-
   3
   Sughra jis kunbe ko tu puchhti hai
   Wo Karb o Bala ki khaak hua
-  Sab chaand chhupe Karbal mein tere
+  Sab chaand chhupe Karbal meiṅ tere
   Mat puchh kahaaṅ hai ab kunba
 
   4
@@ -48,7 +48,7 @@ romanLyrics: |-
   5
   Sughra wo Asghar jo chhe maah ka tha
   Wo bhi na raha wo bhi na raha
-  Maaṅ dhup mein baithi roti hai
+  Maaṅ dhup meiṅ baithi roti hai
   Mat puchh kahaaṅ hai ab kunba
 
   6
@@ -60,11 +60,11 @@ romanLyrics: |-
   7
   Sughra darti thi andhere se jo bahut
   Wo baali Sakina teri behen
-  Ab tak hai wo zindaaṅ mein Sughra
+  Ab tak hai wo zindaaṅ meiṅ Sughra
   Mat puchh kahaaṅ hai ab kunba
 
   8
-  Allah Sughra se utha hoga kiun kar
+  Allah Sughra se utha hoga kiuṅ kar
   Ae Sarwar ae Rehaan ye gham
   Jis waqt phuphi ne ro ke kaha
   Mat puchh kahaaṅ hai ab kunba

@@ -1,6 +1,6 @@
 ---
 title: "تصویر میں حسین کا روضہ ہے تعزیہ"
-alternateTitle: "Tasvir Mein"
+alternateTitle: "Tasvir Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Tasvir mein Husain ka rauza hai taaziya
+  Tasvir meiṅ Husain ka rauza hai taaziya
   Karb o bala ki yaad dilaata hai taaziya
 
   1
@@ -19,19 +19,19 @@ romanLyrics: |-
   Bigre muqaddaroṅ ko banaata hai taaziya
 
   2
-  Laata hai apne saath mein kuchh aisi raunaqeṅ
+  Laata hai apne saath meiṅ kuchh aisi raunaqeṅ
   Ujre hue gharoṅ ko basaata hai taaziya
 
   3
   Mahsus dil ko hoti hai is darja tafliyat
-  Mehmaan hoke ghar mein jab aata hai taaziya
+  Mehmaan hoke ghar meiṅ jab aata hai taaziya
 
   4
-  Milte haiṅ is ke sadqe mein bichhre hue aziz
+  Milte haiṅ is ke sadqe meiṅ bichhre hue aziz
   Pardes se watan jo bulaata hai taaziya
 
   5
-  Allah ki nigaah mein barhta hai us ka qad
+  Allah ki nigaah meiṅ barhta hai us ka qad
   Fidwi jo apne sar pe uthaata hai taaziya
 # source_id: nohayonline:33d84003d60dea839989
 # source_url: https://www.nohayonline.com/details_content.php?id=923

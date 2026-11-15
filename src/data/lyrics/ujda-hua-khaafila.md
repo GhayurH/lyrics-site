@@ -11,7 +11,7 @@ tags: []
 aliases: ["Ujda Hua Khaafila"]
 published: true
 romanLyrics: |-
-  Jab tauq o salaasil mein musalsal hue Aabid
+  Jab tauq o salaasil meiṅ musalsal hue Aabid
   Aada to charhe ghore pe paidal hue Aabid
   Phuphiyaaṅ sar-e-naaqa nazar aati hai khule sar
   Aur saamne sar baap ka naize pe alam tha
@@ -35,7 +35,7 @@ romanLyrics: |-
   4
   Orh ke kunbe ka gham sote haiṅ Shaah-e-umam
   Jalti hui ret par baithe haiṅ ahl-e-haram
-  Aise kathin waqt mein sajda-e-shukr-e-Khuda
+  Aise kathin waqt meiṅ sajda-e-shukr-e-Khuda
 
   5
   Kya kare tishna jigar chhin gae us ke gauhar
@@ -43,18 +43,18 @@ romanLyrics: |-
   Shaah ki gham khwaar ka haal hai sab se bura
 
   6
-  Kuchh nahiṅ bachchoṅ mein taab jaise maahi-e-beaab
-  Dhup mein kumla gae baagh-e-Nabi ke gulaab
+  Kuchh nahiṅ bachchoṅ meiṅ taab jaise maahi-e-beaab
+  Dhup meiṅ kumla gae baagh-e-Nabi ke gulaab
   Lut gaya baagh-e-Nabi haae ghazab ho gaya
 
   7
   Kya mile dukhiyoṅ ko chain ab nahiṅ baaqi Husain
   Hai qayaamat ka samaaṅ chaar suṅ hai shor o shain
-  Roti hai sar khol ke dasht mein Khairun Nisa
+  Roti hai sar khol ke dasht meiṅ Khairun Nisa
 
   8
-  Haath mein hai hathkari paaoṅ mein hai beriyaaṅ
-  Halq mein tauq-e-garaaṅ pusht pe hai sailiyaaṅ
+  Haath meiṅ hai hathkari paaoṅ meiṅ hai beriyaaṅ
+  Halq meiṅ tauq-e-garaaṅ pusht pe hai sailiyaaṅ
   Kis tarah se le chale naatawaaṅ ye qaafila
 
   9
@@ -64,7 +64,7 @@ romanLyrics: |-
 
   10
   Saarbaana-e-haram baad-e-Shah-e-Karbala
-  Daaim o Yazdan ajab haal Aabid ka hua
+  Daaim o Yazdaṅ ajab haal Aabid ka hua
   Le chale haiṅ qaafila wo bhi hai ujra hua
 # source_id: nohayonline:ebb8f39540be352b913e
 # source_url: https://www.nohayonline.com/details_content.php?id=2509

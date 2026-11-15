@@ -42,7 +42,7 @@ romanLyrics: |-
   Badal diye hai rang faza ke
   Wo dekho darya chhin liya hai
   Adu ka pehra tut chuka hai
-  Faza mein naara gunj raha hai
+  Faza meiṅ naara gunj raha hai
   Alam jari ne gaar diya hai
   Alqama kar degi faisla
   Ae fauj-e-ashqiya
@@ -121,15 +121,15 @@ romanLyrics: |-
   Kehte haiṅ mujhe saqqa-e-haram
   Maula ki qasam toruṅ ga bharam
   Bhaageṅ ge abhi ye ahl-e-sitam
-  Wo hashr bapa main kar duṅ ga
+  Wo hashr bapa maiṅ kar duṅ ga
   Laashoṅ se ye maqtal bhar duṅ ga
   Gar mashk pe waar karoge tum
-  Main jina mushkil kar duṅ ga
+  Maiṅ jina mushkil kar duṅ ga
   Jo kaha Ghazi ne kar diya Haidar ki hai sada tu ne to
   Naqsha khaincha hai Khaibar ka
   Har su hai tabaahi
   Ae mere sipaahi
-  Main duṅ ga gawaahi
+  Maiṅ duṅ ga gawaahi
   Ae mere beta Abbas
   Haidar-e-Karbala Abbas
   Haidar-e-Karbala Abbas
@@ -146,14 +146,14 @@ romanLyrics: |-
   Wo tir chale wo mashk chhidi
   Baazu jo kate sambhla na jari
   Thi gurz se zakhmi peshaani
-  Maqtal mein tarapta tha Ghazi
-  Ek aankh mein us ki tir laga
-  Khaimoṅ mein idhar faryaad ye thi
+  Maqtal meiṅ tarapta tha Ghazi
+  Ek aankh meiṅ us ki tir laga
+  Khaimoṅ meiṅ idhar faryaad ye thi
   Waawaila waawaila waawaila al Abbas
   Waawaila waawaila waawaila al Abbas
   Waawaila al Abbas waawaila al Abbas
   Waawaila al Abbas
-  Khaimoṅ mein alam aaya hai alam bardaar nahiṅ aaya
+  Khaimoṅ meiṅ alam aaya hai alam bardaar nahiṅ aaya
   Ae Mazhar aur Farhan Sakina ne ye farmaaya
   Waawaila waawaila waawaila al Abbas
   Waawaila waawaila waawaila al Abbas

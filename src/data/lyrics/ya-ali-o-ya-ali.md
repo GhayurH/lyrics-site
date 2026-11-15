@@ -11,15 +11,15 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Dard mein dube haiṅ sabhi maatami
+  Dard meiṅ dube haiṅ sabhi maatami
   Sab ki zabaanoṅ pe hai nauha yehi
   Ya Ali o ya Ali o ya Ali
 
   1
   Ho gaye laawaaris o barbaad hum
   Haaye ye kaisa hua Maula sitam
-  Aap ke gham mein hai har ek aankh nam
-  Maatami halqoṅ mein hai sina zani
+  Aap ke gham meiṅ hai har ek aankh nam
+  Maatami halqoṅ meiṅ hai sina zani
 
   2
   Hai ye ghariboṅ ke laboṅ par sawaal
@@ -28,15 +28,15 @@ romanLyrics: |-
   Aayi musibat ki ye kaisi ghari
 
   3
-  Shor hai Kufe mein ye kya ho gaya
+  Shor hai Kufe meiṅ ye kya ho gaya
   Sher-e-Khuda zer-e-lahad so gaya
   Nur nigaahoṅ ka kahiṅ kho gaya
   Phail gayi chaaroṅ taraf tiragi
 
   4
-  Ghash mein hai Shabbir to naalaaṅ Hasan
+  Ghash meiṅ hai Shabbir to naalaaṅ Hasan
   Zainab o Kulsum hai tashna dahan
-  Chaaroṅ taraf ghar mein hai ranj o mehan
+  Chaaroṅ taraf ghar meiṅ hai ranj o mehan
   Khaak-e-yatimi hai saroṅ par pari
 
   5
@@ -61,7 +61,7 @@ romanLyrics: |-
   Kya hai alam kis ko bataaye bhala
   Zakhm-e-jigar kis ko dikhaaye bhala
   Kis ko ye rudaad sunaaye bhala
-  Aa gayi taqdir mein ye bebasi
+  Aa gayi taqdir meiṅ ye bebasi
 
   9
   Bekas o laachaar hai Aamir Kumail

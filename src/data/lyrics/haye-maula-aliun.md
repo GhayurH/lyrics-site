@@ -27,16 +27,16 @@ romanLyrics: |-
   3
   Qudsiyoṅ ka bara hai hujum
   Arsh se aaye shams o nujum
-  Khun mein gharq hai chaandni
+  Khun meiṅ gharq hai chaandni
 
   4
   Shakhsiyat aisi rukhsat hui
   Aaj us ki shahaadat hui
-  Jis ki thokar mein hai zindagi
+  Jis ki thokar meiṅ hai zindagi
 
   5
   Tur ke nur ka aasmaaṅ
-  Khun mein dub kar hai nihaaṅ
+  Khun meiṅ dub kar hai nihaaṅ
   Aur zulmat bhi karne lagi
 
   6

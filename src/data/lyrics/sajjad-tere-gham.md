@@ -11,18 +11,18 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Sajjad tere gham mein zanjir ro rahi hai
-  Aankhoṅ mein khwaab chup haiṅ taabir ro rahi hai
+  Sajjad tere gham meiṅ zanjir ro rahi hai
+  Aankhoṅ meiṅ khwaab chup haiṅ taabir ro rahi hai
 
   1
   Kaante bichhe hue haiṅ jalti hui zamiṅ par
   Chhaale tarap rahe haiṅ taqdir ro rahi hai
-  Aankhoṅ mein khwaab chup haiṅ taabir ro rahi hai
+  Aankhoṅ meiṅ khwaab chup haiṅ taabir ro rahi hai
 
   2
   Abbas bawafa ki jaagir Karbala hai
-  Abid ke gham mein saari jaagir ro rahi hai
-  Aankhoṅ mein khwaab chup haiṅ taabir ro rahi hai
+  Abid ke gham meiṅ saari jaagir ro rahi hai
+  Aankhoṅ meiṅ khwaab chup haiṅ taabir ro rahi hai
 
   3
   Sajjad tere jaisa hayaadaar na hoga
@@ -32,12 +32,12 @@ romanLyrics: |-
 
   Abid na kaise roye Ae Shaamiyoṅ bataao
   Zakhmi hai kaan jis ke hamshir ro rahi hai
-  Aankhoṅ mein khwaab chup haiṅ taabir ro rahi hai
+  Aankhoṅ meiṅ khwaab chup haiṅ taabir ro rahi hai
 
   4
   Sajjad ke badan ka sab khun jal chuka hai
-  Paaoṅ mein jo pari hai zanjir ro rahi hai
-  Aankhoṅ mein khwaab chup haiṅ taabir ro rahi hai
+  Paaoṅ meiṅ jo pari hai zanjir ro rahi hai
+  Aankhoṅ meiṅ khwaab chup haiṅ taabir ro rahi hai
 
   5
   Jo sab ko de shifa use bimaar kiuṅ kahuṅ
@@ -47,12 +47,12 @@ romanLyrics: |-
 
   Aankhoṅ se khun Abid kaise baha raha hai
   Ho ke har ek Bibi dilgir ro rahi hai
-  Aankhoṅ mein khwaab chup haiṅ taabir ro rahi hai
+  Aankhoṅ meiṅ khwaab chup haiṅ taabir ro rahi hai
 
   6
   Ro ro ke parh raha huṅ Sajjad ka ye nauha
   Rehaan Azmi ki tahrir ro rahi hai
-  Aankhoṅ mein khwaab chup haiṅ taabir ro rahi hai
+  Aankhoṅ meiṅ khwaab chup haiṅ taabir ro rahi hai
 # source_id: nohayonline:6bbac7800a0020fb7ea7
 # source_url: https://www.nohayonline.com/details_content.php?id=2971
 # raw_sha256: 2d9a8fa291e3cd6affbeb08430e289cad5a70334449bf9f05efdba54ad462a97

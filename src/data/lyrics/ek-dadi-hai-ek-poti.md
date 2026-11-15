@@ -35,7 +35,7 @@ romanLyrics: |-
   Ek daadi hai ek poti hai
 
   4
-  Donoṅ ki fazilat kya main kahuṅ
+  Donoṅ ki fazilat kya maiṅ kahuṅ
   Ek baap ki maaṅ ek Shah ka sukuṅ
   Donoṅ ke haiṅ mansab ibn-e-jali
   Ek daadi hai ek poti hai
@@ -49,7 +49,7 @@ romanLyrics: |-
   6
   Sadiyoṅ se judaai mit na saki
   Mar kar bhi rihaai mil na saki
-  Donoṅ haiṅ ghamoṅ mein qaid abhi
+  Donoṅ haiṅ ghamoṅ meiṅ qaid abhi
   Ek daadi hai ek poti hai
 
   7

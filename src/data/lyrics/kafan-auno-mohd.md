@@ -26,21 +26,21 @@ romanLyrics: |-
 
   3
   Hue armaan mere khaak sab Karbobala aa kar
-  Jinheṅ paala tha naazoṅ se unheṅ ko dasht mein kho kar
+  Jinheṅ paala tha naazoṅ se unheṅ ko dasht meiṅ kho kar
   Ye dukhiya ghamzada aafat rasida jaa na paayegi
 
   4
-  Ghamoṅ ne ek din mein hi zaifa kar diya mujh ko
-  Bhara ghar qatl kar daala mera main rouṅ kis kis ko
+  Ghamoṅ ne ek din meiṅ hi zaifa kar diya mujh ko
+  Bhara ghar qatl kar daala mera maiṅ rouṅ kis kis ko
   Kisi bhi laash pe ji bhar ke Zainab ro na paayegi
 
   5
   Tumhaari kamsini par bhi kisi ne rehm na khaaya
   Tumheṅ maara gaya phir jism pe ghoroṅ ko dauraaya
-  Hai laashe tukroṅ mein donoṅ ke maadar chun na paayegi
+  Hai laashe tukroṅ meiṅ donoṅ ke maadar chun na paayegi
 
   6
-  Main tarpaauṅgi har ek lamha kabhi na chain paauṅgi
+  Maiṅ tarpaauṅgi har ek lamha kabhi na chain paauṅgi
   Rahuṅgi jab talak zinda faqat aansu bahaauṅgi
   Tumheṅ roegi maaṅ din raat hargiz so na paayegi
 
@@ -50,8 +50,8 @@ romanLyrics: |-
   Behen Abbas ki beparda reh kar ji na paayegi
 
   8
-  Ghira hai sholoṅ mein kis tarah Aabid ko nikaaluṅ main
-  Dilaasa bewaaoṅ ko duṅ ya yatimoṅ ko sambhaaluṅ main
+  Ghira hai sholoṅ meiṅ kis tarah Aabid ko nikaaluṅ maiṅ
+  Dilaasa bewaaoṅ ko duṅ ya yatimoṅ ko sambhaaluṅ maiṅ
   Badan zakhmi hai saara phir bhi Zainab ruk na paayegi
 
   9

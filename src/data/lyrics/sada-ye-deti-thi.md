@@ -23,7 +23,7 @@ romanLyrics: |-
   Badal di jang ki taarikh hi Husain ke baad
 
   3
-  Gale mein tauq rasan basta paaoṅ mein beri
+  Gale meiṅ tauq rasan basta paaoṅ meiṅ beri
   Yehi hai waaris-e-Aal-e-Nabi Husain ke baad
 
   4
@@ -31,7 +31,7 @@ romanLyrics: |-
   Mitaane aayi huṅ tashna labi Husain ke baad
 
   5
-  Wo jis mein jang kare shir khwaar bachche bhi
+  Wo jis meiṅ jang kare shir khwaar bachche bhi
   Phir aisi fauj na dekhi gayi Husain ke baad
 
   6

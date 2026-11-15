@@ -13,12 +13,12 @@ published: true
 romanLyrics: |-
   Ye ro ke kehti thi bint-e-Haider
   Najaf se Baba madad to aao
-  Hai ran mein tanha mera baraadar
+  Hai ran meiṅ tanha mera baraadar
   Najaf se Baba madad to aao
 
   1
   Ajib chehre pa bekali hai
-  Jigar mein tuti hui ani hai
+  Jigar meiṅ tuti hui ani hai
   Tarap raha hai zamiṅ par Akbar
 
   2
@@ -27,7 +27,7 @@ romanLyrics: |-
   Bahut hi purhaul hai ye manzar
 
   3
-  Luta hai asbaab ran mein saara
+  Luta hai asbaab ran meiṅ saara
   Hai charkh ab saaybaaṅ hamaara
   Haram hai nauha kunaṅ khule sar
 
@@ -43,7 +43,7 @@ romanLyrics: |-
 
   6
   Jo ek shab ka bana tha dulha
-  Para hai tukroṅ mein us ka laasha
+  Para hai tukroṅ meiṅ us ka laasha
   Lage hai Kubra ke dil pa nashtar
 
   7
@@ -57,14 +57,14 @@ romanLyrics: |-
   Laboṅ pa sukhi zabaaṅ phira kar
 
   9
-  Hai zakhm dil mein safar hai jaari
+  Hai zakhm dil meiṅ safar hai jaari
   Ye beriyaaṅ aur ye tauq bhaari
   Wo mera Aabid chale to kiuṅ kar
 
   10
   Sakina Asghar ko dhundti hai
   Kahaaṅ hai bhaiya ye puchhti hai
-  Pata main us ko bataauṅ kiuṅ kar
+  Pata maiṅ us ko bataauṅ kiuṅ kar
 
   11
   Atash ka hamla hai ab bhi jaari
@@ -79,7 +79,7 @@ romanLyrics: |-
   13
   Raza bahattar ke zakhm khaa kar
   Hai sar ba sajda mera baraadar
-  Liye hai haathoṅ mein Shimr khanjar
+  Liye hai haathoṅ meiṅ Shimr khanjar
 # source_id: nohayonline:ddbbdd9754553b025ea5
 # source_url: https://www.nohayonline.com/details_content.php?id=2018
 # raw_sha256: e67de774d18fb10a6d436402dc7a2db9d0b111c972b4f5ba2f8fe576aa41d634

@@ -25,7 +25,7 @@ romanLyrics: |-
   Ammu jaan ae Ammu jaan
 
   1
-  Aap ko jab bhi main ne bulaaya
+  Aap ko jab bhi maiṅ ne bulaaya
   Shimr ne mujh ko aur rulaaya
   Baaloṅ se mujh ko khinch ke laaya
   Zaalim ne mujh par haath uthaaya
@@ -49,9 +49,9 @@ romanLyrics: |-
   Jaate hue maara taaziyaana
 
   4
-  Ammaaṅ ke shaanoṅ mein jo hai rassi
+  Ammaaṅ ke shaanoṅ meiṅ jo hai rassi
   Us se bandhi hai gardan meri
-  Haaye main qad mein huṅ sab se chhoti
+  Haaye maiṅ qad meiṅ huṅ sab se chhoti
   Paaoṅ zamiṅ par rakh nahiṅ sakti
   Mera gala ghutne laga
   Panjoṅ pe chalti hai teri Sakina
@@ -59,13 +59,13 @@ romanLyrics: |-
   5
   Aaj nahiṅ hai sar par chaadar
   Maare hai sab ne ham ko patthar
-  Ghar mein phuphi kehti thi aksar
+  Ghar meiṅ phuphi kehti thi aksar
   Jaati nahiṅ saiyyidaaniyaaṅ baahar
-  Phir kiuṅ hameṅ baazaar mein
+  Phir kiuṅ hameṅ baazaar meiṅ
   Zaalim phiraate haiṅ beparda
 
   6
-  Raah mein ek mor aisa bhi aaya
+  Raah meiṅ ek mor aisa bhi aaya
   Naaqe se meri rassi ko baandha
   Zaalim ne sab ko paas bulaaya
   Kehne laga ab dekho tamaasha
@@ -73,20 +73,20 @@ romanLyrics: |-
   Naaqe ke saath mujhe dauraaya
 
   7
-  Baba ne jo tohfe mein diye the
+  Baba ne jo tohfe meiṅ diye the
   Wo goshwaare chhin gaye mere
-  Pahunchi main jab Baba se kehne
+  Pahunchi maiṅ jab Baba se kehne
   Dekha mujhe zaalim ne aa ke
-  Kya main kahuṅ zaalim ne kiuṅ
+  Kya maiṅ kahuṅ zaalim ne kiuṅ
   Baap ki laash pe beti ko maara
 
   8
-  Farhan aur Zeeshan wo bachchi
+  Farhan aur Zishan wo bachchi
   Ammu se ye ro ro kar boli
   Kab se huṅ pyaasi zakhmi qaidi
-  Main isi haal mein mar jaauṅgi
+  Maiṅ isi haal meiṅ mar jaauṅgi
   Baazaar hai darbaar hai
-  Phir main huṅ aur zindaaṅ ka andhera
+  Phir maiṅ huṅ aur zindaaṅ ka andhera
 # source_id: nohayonline:7a5bf09225b05f9ceff6
 # source_url: https://www.nohayonline.com/details_content.php?id=3656
 # raw_sha256: f7eb867041cb5ce8a667f02cffa5a8d6f43e42859f81c4959d09ab2ba795786a

@@ -15,7 +15,7 @@ romanLyrics: |-
   O badnasib dekh Ali ko pukaar ke
 
   1
-  Marhab ka qatl bhi koi Khaibar mein qatl tha
+  Marhab ka qatl bhi koi Khaibar meiṅ qatl tha
   Pheṅka tha Zulfiqaar ka sadqa utaar ke
 
   2
@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   Laila ke dil ko dekh rahe haiṅ Shah-e-zaman
-  Akbar ko ran mein bheja hai gesuṅ sawaar ke
+  Akbar ko ran meiṅ bheja hai gesuṅ sawaar ke
 
   4
   Asghar jigar ko thaam ke roti hai fauj-e-Shaam
@@ -43,7 +43,7 @@ romanLyrics: |-
   Taare bhi so gae falak-e-kajmadaar ke
 
   8
-  Jaane sawaal kya hue turbat mein ae Qamar
+  Jaane sawaal kya hue turbat meiṅ ae Qamar
   Chup ho gae the ham to Ali ko pukaar ke
 # source_id: nohayonline:347be6075d7f981c715b
 # source_url: https://www.nohayonline.com/details_content.php?id=2174

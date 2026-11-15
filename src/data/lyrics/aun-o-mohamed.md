@@ -1,6 +1,6 @@
 ---
 title: "زینب نے کہا نورِ نظر عون و محمد"
-alternateTitle: "Aun O Muhammad"
+alternateTitle: "Aun o Muhammad"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -14,11 +14,11 @@ romanLyrics: |-
   Tum kar gaye dunya se safar Aun o Muhammad
 
   1
-  Tum log bhi mamuṅ pe fida ho gaye ran mein
+  Tum log bhi mamuṅ pe fida ho gaye ran meiṅ
   Aayi hai ye maqtal se khabar Aun o Muhammad
 
   2
-  Didaar ki hasrat mein musalsal meri aankheiṅ
+  Didaar ki hasrat meiṅ musalsal meri aankheiṅ
   Dhundegi tumheiṅ shaam o sahar Aun o Muhammad
 
   3
@@ -26,7 +26,7 @@ romanLyrics: |-
   Aajaye meri yaad agar Aun o Muhammad
 
   4
-  Tum ye na samajhna main tumheiṅ bhul gayi huṅ
+  Tum ye na samajhna maiṅ tumheiṅ bhul gayi huṅ
   Hai dil pe judaai ka asar Aun o Muhammad
 
   5
@@ -38,11 +38,11 @@ romanLyrics: |-
   Har waqt laga rehta hai darr Aun o Muhammad
 
   7
-  Jis waqt Madine mein qadam rakhuṅgi jaa kar
+  Jis waqt Madine meiṅ qadam rakhuṅgi jaa kar
   Viraan nazar aayega ghar Aun o Muhammad
 
   8
-  Jis roz se khoya hai tumheiṅ Karb o Bala mein
+  Jis roz se khoya hai tumheiṅ Karb o Bala meiṅ
   Daaman mera ashkoṅ se hai tar Aun o Muhammad
 
   9
@@ -50,7 +50,7 @@ romanLyrics: |-
   Tum laut ke aa jaaoge ghar Aun o Muhammad
 
   10
-  Jis waqt chali jaati huṅ hujre mein tumhare
+  Jis waqt chali jaati huṅ hujre meiṅ tumhare
   Taklif se uthta nahiṅ sar Aun o Muhammad
 
   11

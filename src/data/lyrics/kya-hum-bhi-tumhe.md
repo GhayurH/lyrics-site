@@ -30,22 +30,22 @@ romanLyrics: |-
 
   2
   Sab chhor gaye hum ko tanha
-  Kis haal mein huṅ kya tum ko pata
+  Kis haal meiṅ huṅ kya tum ko pata
   Bimaar ko de ab kaun dawa
-  Aa jaao jo tum main paauṅ shifa
+  Aa jaao jo tum maiṅ paauṅ shifa
   Jab chain se sab so jaate haiṅ
 
   3
   Jab baali Sakina aur Asghar
   Milte haiṅ gale tum se haṅs kar
-  Aur saath mein ho maaṅ aur padar
+  Aur saath meiṅ ho maaṅ aur padar
   Bas itna bata bhaiya Akbar
-  Sab ghar mein haṅste haṅsaate haiṅ
+  Sab ghar meiṅ haṅste haṅsaate haiṅ
 
   4
   Jab jab bhi musalle par bhaiya
   Karte ho namaaz-e-fajr ada
-  Bimaar ke haq mein bahr-e-shifa
+  Bimaar ke haq meiṅ bahr-e-shifa
   Karte haiṅ dua mere baaba
   Sab apne haath uthaate haiṅ
 
@@ -57,10 +57,10 @@ romanLyrics: |-
   Aur pyaar se sar sehlaate haiṅ
 
   6
-  Jab ghar mein khushi ka ho saamaaṅ
+  Jab ghar meiṅ khushi ka ho saamaaṅ
   Sab ek jagah ho pir o jawaaṅ
   Khush dekh ke sab ko ho amaaṅ
-  Aa jaaye koi ghar mein mehmaan
+  Aa jaaye koi ghar meiṅ mehmaan
   Jab dastarkhwaan bichhaate haiṅ
 
   7
@@ -81,7 +81,7 @@ romanLyrics: |-
   Kya aur likhuṅ kya batlaauṅ
   Dil chir ke kaise dikhlaauṅ
   Khud aao ke tum ko bulwaauṅ
-  Bhaiya main tujhe kaise paauṅ
+  Bhaiya maiṅ tujhe kaise paauṅ
   Bas tanha ashk bahaate haiṅ
 
   10

@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Tamaam shab rahi khaimoṅ ki paasbaaṅ Zainab
-  Hazaar ranj o musibat mein naatawaaṅ Zainab
+  Hazaar ranj o musibat meiṅ naatawaaṅ Zainab
 
   1
   Ali ki beti ne chhupne diya na khun-e-Husain
@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   Kabhi to Kufa kabhi Shaam aur kabhi darbaar
-  Phiri asiri mein dar dar kahaaṅ kahaaṅ Zainab
+  Phiri asiri meiṅ dar dar kahaaṅ kahaaṅ Zainab
 
   4
   Bhatije bhaanje bete na koi bhai raha
@@ -32,11 +32,11 @@ romanLyrics: |-
 
   5
   Guzar ke Kufe se baaloṅ se muṅh chhupaaye hue
-  Chali hai Shaam mein dene ko imtehaaṅ Zainab
+  Chali hai Shaam meiṅ dene ko imtehaaṅ Zainab
 
   6
   Nabi ka azm Ali ka jalaal azm-e-Husain
-  Thi Shaam o Kufe mein kis kis ki tarjuma Zainab
+  Thi Shaam o Kufe meiṅ kis kis ki tarjuma Zainab
 
   7
   Uruj din ka zikr-e-Husain se hai Uruj

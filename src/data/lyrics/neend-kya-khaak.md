@@ -11,20 +11,20 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Shaam ke ghup andhere mein Sakina ki fughaaṅ thi
+  Shaam ke ghup andhere meiṅ Sakina ki fughaaṅ thi
 
   Aap ka sina to tiroṅ se bhara hai
   Nind kya khaak pe aayegi Baba
 
   1
   Maaṅ ki aaghosh ya aaghosh-e-padar bhaati hai
-  Nind bachchoṅ ko andhere mein kahaaṅ aati hai
+  Nind bachchoṅ ko andhere meiṅ kahaaṅ aati hai
   Yaad sine ki sataayegi Baba
 
   2
   Aag aur khun ke maahaul se ghabraayi huṅ
   Is liye aap ke laashe pe chali aayi huṅ
-  Kuchh kami dard mein aayegi Baba
+  Kuchh kami dard meiṅ aayegi Baba
 
   3
   Ab dehakte hue sehra ko kahuṅ gi bistar
@@ -38,12 +38,12 @@ romanLyrics: |-
 
   5
   Kya isi din ke liye Rab se mujhe maaṅga tha
-  Waqt-e-mushkil mein akela jo mujhe chhor diya
+  Waqt-e-mushkil meiṅ akela jo mujhe chhor diya
   Ab Sakina kahaaṅ jaayegi Baba
 
   6
   Tum tarap jaate Sakina jo kabhi roti thi
-  Aah karti thi main taklif tumheiṅ hoti thi
+  Aah karti thi maiṅ taklif tumheiṅ hoti thi
   Ik ek baat rulaayegi Baba
 
   7
@@ -53,7 +53,7 @@ romanLyrics: |-
 
   8
   Kaise Farhan ye rudaad likhega Mazhar
-  Baap se kehti thi maqtal mein Sakina ro kar
+  Baap se kehti thi maqtal meiṅ Sakina ro kar
   Baat ye mujhko jagaayegi Baba
 # source_id: nohayonline:66b5f58542d7ec5dad72
 # source_url: https://www.nohayonline.com/details_content.php?id=2766

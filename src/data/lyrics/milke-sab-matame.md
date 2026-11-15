@@ -58,13 +58,13 @@ romanLyrics: |-
   6
   Maatam jis ka darya darya
   Jis ki wafa imaan ka chehra
-  Jis ke alam ka khun mein pharera
+  Jis ke alam ka khuṅ mein pharera
   Dub gaya wo chaand na duba
   Us ki wafa kehti hai hum se
   Dunya ko tasqir kareṅ
 
   7
-  Yaad mein teri Shaam-e-Gharibaṅ
+  Yaad meiṅ teri Shaam-e-Gharibaṅ
   Maatam karne waale insaaṅ
   Karte haiṅ jab chaak garebaaṅ
   Zehra khud hoti haiṅ giryaaṅ
@@ -73,16 +73,16 @@ romanLyrics: |-
 
   8
   Kar na saki jo bhaiya ka gham
-  Us Zainab ki yaad mein ab hum
+  Us Zainab ki yaad meiṅ ab hum
   Ranj o khushi se kar ke baaham
   Har din samjheṅ maah-e-Muharram
   Zakhm-e-dil-e-Zainab ki khaatir
   Koi dawa iksir kareṅ
 
   9
-  Jin ke rasan mein haath bandhe the
+  Jin ke rasan meiṅ haath bandhe the
   Kaise bhala wo maatam karte
-  Un ke diloṅ mein yaad basa ke
+  Un ke diloṅ meiṅ yaad basa ke
   Nauhe ki maatam ki sada se
   Ahl-e-aza Zehra ki dua se
   Khuld ko jaagir kareṅ
@@ -91,13 +91,13 @@ romanLyrics: |-
   Maula aisa zarf ata kar
   Ye maatam saughaat bana kar
   Le jaayeṅ sinoṅ pe saja kar
-  Shahr-e-Najaf mein dil mein basa kar
+  Shahr-e-Najaf meiṅ dil meiṅ basa kar
   Apni azaadaari ka tohfa
   Nazr-e-Khaibar-gir kareṅ
 
   11
   Keh deṅge Rehaan o Sarwar
-  Hashr mein jab Khaatun-e-Mahshar
+  Hashr meiṅ jab Khaatun-e-Mahshar
   Puchheṅgi ye baat jo aa kar
   Chaahiye kya maatam ki bina par
   Hum keh deṅge hum ko ghulaam-e

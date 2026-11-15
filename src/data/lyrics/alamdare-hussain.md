@@ -24,12 +24,12 @@ romanLyrics: |-
   Tera parcham bhi utara hai Alamdar-e-Husain
 
   2
-  Keh raha hai yehi sardab mein pani ruk kar
+  Keh raha hai yehi sardab meiṅ pani ruk kar
   Roz-e-Ashur se ab Roz-e-Jaza tak mukh par
   Tera bas tera ijara hai Alamdar-e-Husain
 
   3
-  Kul ke Maula ne duaoṅ mein Khuda se maṅga
+  Kul ke Maula ne duaoṅ meiṅ Khuda se maṅga
   Fatima Zehra ne bhi tum ko kaha hai beta
   Ye sharaf bhi to tumhara hai Alamdar-e-Husain
 
@@ -55,12 +55,12 @@ romanLyrics: |-
 
   8
   Kis tarah bhuleṅ ge us aalam-e-tanhayi ko
-  Jis mein Zehra ke dulare ko tere bhayi ko
+  Jis meiṅ Zehra ke dulare ko tere bhayi ko
   Gher ke lakhoṅ ne mara hai Alamdar-e-Husain
 
   9
   Har qadam bali Sakina ka tamache khana
-  Rah-e-purkhar mein bachchi ka tarapna rona
+  Rah-e-purkhar meiṅ bachchi ka tarapna rona
   Kis tarah tum ko gawara hai Alamdar-e-Husain
 
   10

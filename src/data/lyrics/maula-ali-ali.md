@@ -19,7 +19,7 @@ romanLyrics: |-
 
   2
   Us ka har ek bigra hua kaam ban gaya
-  Mushkil mein jab kisi ne pukaara Ali Ali
+  Mushkil meiṅ jab kisi ne pukaara Ali Ali
 
   3
   Mayyat jab jawaan ki le ke chale su-e-khiyaam

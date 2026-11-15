@@ -22,7 +22,7 @@ romanLyrics: |-
   1
   Is ghaiz ke sholoṅ se pighal jaaega suraj
   Tum tegh uthaa loge to jal jaaega suraj
-  Haaṅ maut ki aaghosh mein dhal jaaega suraj
+  Haaṅ maut ki aaghosh meiṅ dhal jaaega suraj
   Ubhre hue ghusse ko daba lo mere Ghaazi
 
   2
@@ -34,7 +34,7 @@ romanLyrics: |-
   3
   Tum baazu-e-Shabbir ho haalaat ko samjho
   Ae bhaai zara behnoṅ ke jazbaat ko samjho
-  Main maaṅ ki jagah huṅ meri baat ko samjho
+  Maiṅ maaṅ ki jagah huṅ meri baat ko samjho
   Filhaal bhatiji ko mana lo mere Ghaazi
 
   4
@@ -47,13 +47,13 @@ romanLyrics: |-
   Shabbir ke lashkar ke alamdaar tumhi ho
   Hamza ki qasam Jaafar-e-Tayyaar tumhi ho
   Armaan-e-dil-e-Haidar-e-Karraar tumhi ho
-  Mashkize mein darya ko chhupa lo mere Ghaazi
+  Mashkize meiṅ darya ko chhupa lo mere Ghaazi
 
   6
-  Lau dete hue sholoṅ ko shabnam mein badal do
-  Zau dete zakhmoṅ ko marham mein badal do
-  Siffin ke tufaan ko Zamzam mein badal do
-  Ye ghaiz o ghazab zabt mein dhaalo mere Ghaazi
+  Lau dete hue sholoṅ ko shabnam meiṅ badal do
+  Zau dete zakhmoṅ ko marham meiṅ badal do
+  Siffin ke tufaan ko Zamzam meiṅ badal do
+  Ye ghaiz o ghazab zabt meiṅ dhaalo mere Ghaazi
 
   7
   Ek din mere maathe ki shikan tum se kahe gi
@@ -65,7 +65,7 @@ romanLyrics: |-
   Nayyar ke liye waqt gham angez bahut hai
   Dunya paae Aamir sitam aamez bahut hai
   Haalaat ke suraj ki tapish tez bahut hai
-  Tum hi inheṅ saae mein bitha lo mere Ghaazi
+  Tum hi inheṅ saae meiṅ bitha lo mere Ghaazi
 # source_id: nohayonline:1e06b79f9b285a59e007
 # source_url: https://www.nohayonline.com/details_content.php?id=3669
 # raw_sha256: 6e402a620c9e5657cba28c533d5771aa08d58603e271075af0142499378457c6

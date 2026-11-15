@@ -16,18 +16,18 @@ romanLyrics: |-
   Jibril saath do mera Khybar sunaata huṅ
 
   1
-  Khybar ki jang ab bhi hai dunya mein yaadgaar
+  Khybar ki jang ab bhi hai dunya meiṅ yaadgaar
   Chaalis din tawil hui hai ye kaarzaar
   Khudsaakhta Rasul ke the jitne jaanisaar
   Maidaan chhor chhor ke hote rahe faraar
-  Lashkar mein Muslimoṅ ke ajab intishaar tha
+  Lashkar meiṅ Muslimoṅ ke ajab intishaar tha
   Har ek ke dimaagh pe Marhab sawaar tha
 
   2
   Hansti thi maut dekh ke har roz maarika
-  Masruf bhaag daur mein the saare surma
+  Masruf bhaag daur meiṅ the saare surma
   Wo jang thi ke jang bhi sharmaae baarha
-  Chaalis din mein ek bhi zakhmi nahiṅ hua
+  Chaalis din meiṅ ek bhi zakhmi nahiṅ hua
   Marhab jo puchhta tha laro ge abhi yahiṅ
   Tegheṅ chhupa ke kahte the saare nahiṅ nahiṅ
 
@@ -51,13 +51,13 @@ romanLyrics: |-
   Har ek ko shak tha mera hi leṅ ge Rasul naam
   Jaage hue the raat ke aankheṅ thiṅ surkh faam
   Jo chhote qad the panjoṅ ke bal the khare tamaam
-  Itne mein laae arsh se Jibril ye payaam
+  Itne meiṅ laae arsh se Jibril ye payaam
   Lashkar na kar sake ga tumhaari koi madad
   Allah kah raha hai kaho ya Ali madad
 
   6
   Naad-e-Ali zabaan-e-Muhammad pa aa gayi
-  Aur us taraf Madine mein kahne lage Ali
+  Aur us taraf Madine meiṅ kahne lage Ali
   Qanbar chalo pukaar rahe haiṅ hameṅ Nabi
   Duldul ko pyaar kar ke ye farmaaya us ghari
   Aaj is tarah se chal ke falak kaanpne lage
@@ -88,7 +88,7 @@ romanLyrics: |-
 
   10
   Sar se chali to sine pe aa kar thahar gayi
-  Sine pe saaṅs le ke jigar mein utar gayi
+  Sine pe saaṅs le ke jigar meiṅ utar gayi
   Nikali jigar ko kaat ke taba kamar gayi
   Thi maut pichhe pichhe ye bijli jidhar gayi
   Kat kar adu-e-din-e-Khuda khaak par gira
@@ -99,22 +99,22 @@ romanLyrics: |-
   Khybar ka dar ukhaarne tanha basad o mad
   Pahuncha qarib-e-dar junhi wo banda-e-Ahad
   Besaakhta Ali ne kaha ya Ali madad
-  Aise ukhaara lamhe mein Khybar ke baab ko
+  Aise ukhaara lamhe meiṅ Khybar ke baab ko
   Jis tarah shaakh se koi tore gulaab ko
 
   12
-  Taqsim sab mein maal-e-ghanimat kiya gaya
+  Taqsim sab meiṅ maal-e-ghanimat kiya gaya
   Haider ko hissa sab se zyaada diya gaya
   Is amr par sawaal Nabi se kiya gaya
   Kiuṅ adl se na kaam yahaaṅ par liya gaya
   Bole Rasul dakhl kya tujh jaise fard ko
-  Dete haiṅ hissa doguna shariat mein mard ko
+  Dete haiṅ hissa doguna shariat meiṅ mard ko
 
   13
   Allah re sakhaawat-e-Mushkil Khush Ali
   Aisa kahaaṅ hai Mir Takallum koi sakhi
   Daulat banaam-e-maal-e-ghanimat jo thi mili
-  Khairaat kar di raah-e-Khuda mein hansi khushi
+  Khairaat kar di raah-e-Khuda meiṅ hansi khushi
   Dahliz-e-dar pe pahunche to Salman saath the
   Lab par Khuda ka shukr tha aur khaali haath the
 # source_id: tajpoints:f2dad01254808f34329d

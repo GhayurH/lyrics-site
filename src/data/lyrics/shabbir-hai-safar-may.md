@@ -1,6 +1,6 @@
 ---
 title: "شبیر ہے سفر میں اور ساتھ زہرا ثانی"
-alternateTitle: "Shabbir Hai Safar Mein"
+alternateTitle: "Shabbir Hai Safar Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: ["Shabbir Hai Safar May"]
 published: true
 romanLyrics: |-
-  Shabbir hai safar mein aur saath Zahra saani
+  Shabbir hai safar meiṅ aur saath Zahra saani
   Dohraayi hasbuna ki ummat ne phir kahaani
 
   1
@@ -19,7 +19,7 @@ romanLyrics: |-
   Aayat-e-innama ki kuch bhi qadr na jaani
 
   2
-  Nau khez khun-e-Akbar hai din ki ragoṅ mein
+  Nau khez khun-e-Akbar hai din ki ragoṅ meiṅ
   Qaaem hai jis ka sadqa Islam ki jawaani
 
   3

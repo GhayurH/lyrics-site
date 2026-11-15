@@ -14,41 +14,41 @@ romanLyrics: |-
   Baali Sakina yehi karti thi ro ro fughaaṅ
   Hai mere ammu kahaaṅ hai mere baaba kahaaṅ
 
-  Hone lagi dasht mein shaam-e-gharibaaṅ ayaaṅ
+  Hone lagi dasht meiṅ shaam-e-gharibaaṅ ayaaṅ
 
   1
   Jaane kidhar aaj sab naasir o yaawar gaye
   Kaisi qayaamat hui Qaasim o Akbar gaye
-  Justuju-e-aab mein saani-e-Haidar gaye
+  Justuju-e-aab meiṅ saani-e-Haidar gaye
   Nanhe mujaahid ke saath Sibt-e-Payambar gaye
   Dhund rahi huṅ magar milta nahiṅ kuchh nishaaṅ
 
   2
-  Lashkar-e-kuffaar mein dhum hai kiuṅ is qadar
+  Lashkar-e-kuffaar meiṅ dhum hai kiuṅ is qadar
   Soch rahi huṅ yehi aayi hai kaisi khabar
   Chaak garebaan kiye rota hai sab ghar ka ghar
   Hosh kisi ko nahiṅ kya karuṅ jaauṅ kidhar
   Koi bataaye mujhe kiuṅ hai ye aah o fughaaṅ
 
   3
-  Khaimoṅ mein beizn hi aa gaye sab ahl-e-shar
+  Khaimoṅ meiṅ beizn hi aa gaye sab ahl-e-shar
   Zulm ki had tor di Aabid-e-bimaar par
   Lut li sar se rida lut ke sab maal o zar
   Shimr-e-laiṅ le gaya chhin ke mere gohar
-  Jaa ke dikhaauṅgi main kaanoṅ se khuṅ hai rawaaṅ
+  Jaa ke dikhaauṅgi maiṅ kaanoṅ se khuṅ hai rawaaṅ
 
   4
-  Pyaasi huṅ ye lafz hi lab pe na laauṅgi main
-  Un ki judaai ka gham kaise uthaauṅgi main
-  Maut se pehle unheṅ dekh bhi paauṅgi main
-  Jab bhi mileṅge mujhe un ko bataauṅgi main
+  Pyaasi huṅ ye lafz hi lab pe na laauṅgi maiṅ
+  Un ki judaai ka gham kaise uthaauṅgi maiṅ
+  Maut se pehle unheṅ dekh bhi paauṅgi maiṅ
+  Jab bhi mileṅge mujhe un ko bataauṅgi maiṅ
   Maare tamaache mujhe Shimr ne di ghurkiyaaṅ
 
   5
   Aur Anis-e-haziṅ haal kare kya raqam
   Zulm ki jab sailiyaaṅ khaa chuke ahl-e-haram
   Aal-e-Muhammad pe phir tuta naya ek sitam
-  Dekho ke bachchoṅ mein hai baali Sakina bhi to
+  Dekho ke bachchoṅ meiṅ hai baali Sakina bhi to
   Karti thi jo dam ba dam ro ke yehi ek fughaaṅ
 # source_id: nohayonline:f80e44c0f8dd9e7512c6
 # source_url: https://www.nohayonline.com/details_content.php?id=252

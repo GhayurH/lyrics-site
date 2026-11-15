@@ -21,8 +21,8 @@ romanLyrics: |-
 
   1
   Pehle tumhare laadle maqtal ko jayeṅge
-  Nusrat mein Shah-e-Din ki hum sar katayeṅge
-  Hum donoṅ ke bhi dasht mein paaogi tum ye sar
+  Nusrat meiṅ Shah-e-Din ki hum sar katayeṅge
+  Hum donoṅ ke bhi dasht meiṅ paaogi tum ye sar
 
   2
   Ammaaṅ hum apne mamu pe qurbaan jayeṅge
@@ -37,7 +37,7 @@ romanLyrics: |-
   4
   Rakheṅge tere shir ki izzat abhi yahaaṅ
   Pehneṅge donoṅ taaj-e-shahaadat abhi yahaaṅ
-  Apne lahu mein donoṅ nahayeṅge tar ba tar
+  Apne lahu meiṅ donoṅ nahayeṅge tar ba tar
 
   5
   Dam kar de parh ke Naad-e-Ali rukhsati ke waqt
@@ -45,18 +45,18 @@ romanLyrics: |-
   Waada kiya jo maaṅ se to aaya ye hontoṅ par
 
   6
-  Kausar ke jaam nana pilayeṅge khuld mein
-  Sine se hum ko dada lagayeṅge khuld mein
+  Kausar ke jaam nana pilayeṅge khuld meiṅ
+  Sine se hum ko dada lagayeṅge khuld meiṅ
   Leṅge hum unse daad-e-shujaat bhi arsh par
 
   7
   Ammaaṅ dua karo ke pisar kaamiyaab ho
-  Karbobala mein nur-e-nazar kaamiyaab ho
+  Karbobala meiṅ nur-e-nazar kaamiyaab ho
   Jhukne na deṅge tera kabhi sharm se ye sar
 
   8
-  Dushman ke sar kaat ke laao to khush huṅ main
-  Karbobala mein tegh chalaao to khush huṅ main
+  Dushman ke sar kaat ke laao to khush huṅ maiṅ
+  Karbobala meiṅ tegh chalaao to khush huṅ maiṅ
   Taakid maaṅ ne ki thi to nikle ye bol kar
 
   9

@@ -18,11 +18,11 @@ romanLyrics: |-
   Aap ke dar pe aaya ghulaam aap ka ya Imam-e-Raza ya Imam-e-Raza
 
   2
-  Yeh jo Mashhad mein hai rauza-e-pur-ziya yeh nagar aap ka goya Arsh-e-Ullah
+  Yeh jo Mashhad meiṅ hai rauza-e-pur-ziya yeh nagar aap ka goya Arsh-e-Ullah
   Is ke har baam o dar nur ka silsila ya Imam-e-Raza ya Imam-e-Raza
 
   3
-  Aap ke jad Ali aap bhi haiṅ Ali kun fa kaaṅ ke to mukhtaar haiṅ aap bhi
+  Aap ke jad Ali aap bhi haiṅ Ali kun fa kaan ke to mukhtaar haiṅ aap bhi
   Aap ko bhi Nusairi na keh de Khuda ya Imam-e-Raza ya Imam-e-Raza
 
   4

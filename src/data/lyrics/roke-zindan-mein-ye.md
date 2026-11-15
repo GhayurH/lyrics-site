@@ -1,6 +1,6 @@
 ---
 title: "روکے زندان میں بولی بانو"
-alternateTitle: "Roke Zindan Mein Ye"
+alternateTitle: "Roke Zindan Meiṅ Ye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,41 +11,41 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ro ke zindaan mein boli Baano
+  Ro ke zindaan meiṅ boli Baano
   Meri bachchi ko na tanha chhoro
 
   1
-  Saath maaṅ ko bhi lahad mein gaaro
+  Saath maaṅ ko bhi lahad meiṅ gaaro
   Meri bachchi ko na tanha chhoro
 
   2
   Dar ke roye gi jo naazoṅ ki pali
   Thaam le gi ye nasiboṅ ki jali
-  Khauf andhere mein na hove isko
+  Khauf andhere meiṅ na hove isko
 
   3
   Chup hai wo bolne waali haaye haaye
   Mera pehlu hua khaali haaye haaye
-  Haath main jor rahi huṅ logoṅ
+  Haath maiṅ jor rahi huṅ logoṅ
 
   4
-  Kis tarah logoṅ main kafnaane duṅ
+  Kis tarah logoṅ maiṅ kafnaane duṅ
   Kis tarah gaarne le jaane duṅ
-  Maaṅ huṅ main isko na mujh se chhino
+  Maaṅ huṅ maiṅ isko na mujh se chhino
 
   5
   Thehro kurta to badal luṅ uska
-  Ponchh luṅ kaanoṅ mein hai khun jama
+  Ponchh luṅ kaanoṅ meiṅ hai khun jama
   Kuch khafa hai to mana lene do
 
   6
-  Khol to luṅ main gale se rassi
+  Khol to luṅ maiṅ gale se rassi
   Dam ke ghutne se na ho behoshi
   Bibi shaayad ke abhi zinda ho
 
   7
   God se maaṅ ki chhuraao na ise
-  Tang marqad mein sulaao na ise
+  Tang marqad meiṅ sulaao na ise
   Chup raho yuṅ hi pare rehne do
 
   8

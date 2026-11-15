@@ -11,45 +11,45 @@ aliases: ["Do Baar Namaz"]
 published: true
 romanLyrics: |-
   Do baar namaaz shahid hui
-  Ek masjid mein ek maqtal mein
+  Ek masjid meiṅ ek maqtal meiṅ
   Do baar baha hai khun-e-Ali
-  Ek masjid mein ek maqtal mein
+  Ek masjid meiṅ ek maqtal meiṅ
 
   1
   Ek pyaasa tha ek roze se
   Ek shohar tha ek beta tha
   Zehra pe qayaamat tut gayi
-  Ek masjid mein ek maqtal mein
+  Ek masjid meiṅ ek maqtal meiṅ
 
   2
   Ek bint-e-Ali ka Baaba tha
   Ek baap ke jaise bhaai tha
   Do baar yatim hui Bibi
-  Ek masjid mein ek maqtal mein
+  Ek masjid meiṅ ek maqtal meiṅ
 
   3
   Ek baar Ali ko chhurwaane
   Ek baar Husain ke sarhaane
   Roti hui aai bint-e-Nabi
-  Ek masjid mein ek maqtal mein
+  Ek masjid meiṅ ek maqtal meiṅ
 
   4
-  Ek baap ko ghar mein laate hue
+  Ek baap ko ghar meiṅ laate hue
   Ek ziṅ se zamiṅ par aate hue
   Sarwar ne sadaa Abbas ko di
-  Ek masjid mein ek maqtal mein
+  Ek masjid meiṅ ek maqtal meiṅ
 
   5
   Ek baar Ali ki mayyat par
   Ek Shimr-e-laiṅ ki zarbat par
   Ghash khaa ke gire do baar Nabi
-  Ek masjid mein ek maqtal mein
+  Ek masjid meiṅ ek maqtal meiṅ
 
   6
   Ek masjid-e-Umavi ke andar
   Ek baar Husain ke laashe par
   Beparda gayi haaye bint-e-Ali
-  Ek masjid mein ek maqtal mein
+  Ek masjid meiṅ ek maqtal meiṅ
 # source_id: nohayonline:ba3899b73a71625902e8
 # source_url: https://www.nohayonline.com/details_content.php?id=1920
 # raw_sha256: e56b9cfe7244067eb723392f0b59ddac377419ae00d832a14dabf0c47ce4f371

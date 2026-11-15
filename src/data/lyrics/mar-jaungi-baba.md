@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Ro ro ke sada deti thi ye shaah ki dukhtar
   Mar jauṅ gi baba mar jauṅ gi baba
-  Mat jaye khare ran mein hai ye Shaam ke lashkar
+  Mat jaye khare ran meiṅ hai ye Shaam ke lashkar
   Mar jauṅ gi baba mar jauṅ gi baba
 
   1
@@ -23,7 +23,7 @@ romanLyrics: |-
   Mar jauṅ gi baba mar jauṅ gi baba
 
   2
-  Sunti huṅ ke haathoṅ mein liye Shimr hai khanjar
+  Sunti huṅ ke haathoṅ meiṅ liye Shimr hai khanjar
   Ae saaqi-e-Kausar
   Baad aap ke ho jaye ga jina mera dubhar
   Mar jauṅ gi baba mar jauṅ gi baba
@@ -42,20 +42,20 @@ romanLyrics: |-
 
   5
   Hum ko asir kar ke ye le jayeṅ ge jab Shaam
-  Rouṅ gi main har gaam
+  Rouṅ gi maiṅ har gaam
   Mazlum ke sar par wahaaṅ barsayeṅ ge patthar
   Mar jauṅ gi baba mar jauṅ gi baba
 
   6
   Jo bhi gaya ran ko nahiṅ aaya wo palat kar
   Abbas na Akbar
-  Ab aap ka sadma main utha pauṅ gi kiuṅ kar
+  Ab aap ka sadma maiṅ utha pauṅ gi kiuṅ kar
   Mar jauṅ gi baba mar jauṅ gi baba
 
   7
   Zaakir bana ke bakhsha hai Zehra ne ye Farhan
   Tum ko bhi ae Aijaz
-  Majlis mein bapa hashr hai is soz ko sun kar
+  Majlis meiṅ bapa hashr hai is soz ko sun kar
   Mar jauṅ gi baba mar jauṅ gi baba
 # source_id: nohayonline:18db5bd4a97ada6f6b4a
 # source_url: https://www.nohayonline.com/details_content.php?id=1480

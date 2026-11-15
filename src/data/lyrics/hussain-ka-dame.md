@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Haaye Husain haaye gharib
   Husain ka dam-e-rukhsat ye tha sukhan Zainab
-  Chala main ran ko Khuda haafiz ae behan Zainab
+  Chala maiṅ ran ko Khuda haafiz ae behan Zainab
 
   1
   Hai ab tumhaare hawaale tamaam ahl-e-haram
@@ -21,22 +21,22 @@ romanLyrics: |-
 
   2
   Chalega ab meri gardan pe Shimr ka khanjar
-  Rahegi laash meri ran mein bekafan Zainab
+  Rahegi laash meri ran meiṅ bekafan Zainab
 
   3
   Bahut rulaayeṅge zaalim meri Sakina ko
-  Gale mein us ke baandhi jaayegi rasan Zainab
+  Gale meiṅ us ke baandhi jaayegi rasan Zainab
 
   4
-  Tarap tarap ke guzar jaayegi wo zindaaṅ mein
+  Tarap tarap ke guzar jaayegi wo zindaaṅ meiṅ
   Kafan banega Sakina ka pairahan Zainab
 
   5
-  Lahad mein bhi na sukun paayega mera Asghar
+  Lahad meiṅ bhi na sukun paayega mera Asghar
   Rahega naize pe sar khaak par badan Zainab
 
   6
-  Aqil khaimoṅ mein ek hashr tha bapa us dam
+  Aqil khaimoṅ meiṅ ek hashr tha bapa us dam
   Kaha jo Shah ne Khuda haafiz ae behan Zainab
 # source_id: nohayonline:5f518e50959e9db3e32d
 # source_url: https://www.nohayonline.com/details_content.php?id=3336

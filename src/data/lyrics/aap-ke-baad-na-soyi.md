@@ -13,11 +13,11 @@ published: true
 romanLyrics: |-
   Ek roz Madine waaloṅ ne
   Haider se kaha Zehra se kahe
-  Wo raat mein mehlan ro le ya
-  Baba ke liye din mein ro le
+  Wo raat meiṅ mehlan ro le ya
+  Baba ke liye din meiṅ ro le
   Ye baat Ali ne batlaayi
   Jab Fatima Zehra ko aa kar
-  Boli Zehra main ro luṅgi
+  Boli Zehra maiṅ ro luṅgi
   Ab ghar se dur kahiṅ jaa kar
   Ye sunke Madine se baahar
   Ek Baitul-Huzn banaya gaya
@@ -27,20 +27,20 @@ romanLyrics: |-
   Bas roti rahi haye wavaila wavaila
 
   1
-  Jis ghadi jalta hua mujhpe wo darwaza gira
+  Jis ghari jalta hua mujhpe wo darwaza gira
   Pasliyaaṅ tut gayiṅ pehlu shakista bhi hua
   Tumhari ye beti sada de rahi thi
   Haye maara gaya Mohsin
 
   2
   Baba tum jab se gaye ho gayi tanha Zehra
-  Aap ki yaad mein jab ghar mein bichha farsh-e-aza
-  Isi gham mein royi yatimi mein koi
+  Aap ki yaad meiṅ jab ghar meiṅ bichha farsh-e-aza
+  Isi gham meiṅ royi yatimi meiṅ koi
   Dene nahiṅ aaya hausla
 
   3
   Kaash wo waqt kabhi mujhpe na aata baba
-  Maine Haider ka gala rassi mein dekha baba
+  Maiṅ ne Haider ka gala rassi meiṅ dekha baba
   Gayi jab bachane lage taaziyaane
   Aur haath mera zakhmi hua
 
@@ -53,19 +53,19 @@ romanLyrics: |-
   5
   Mere aane pe jahaaṅ aap bhi uth jaate the
   Wohi darbar tha aur saamne sab baithe rahe
-  Akeli khadi thi Fadak mangti thi
+  Akeli khari thi Fadak mangti thi
   Afsos mujhe haq na mila
 
   6
-  Sirf atharah baras mein ye mera aalam hai
-  Dekho baaloṅ mein safedi hai kamar bhi kham hai
-  Zaeefi hai ab to mera haal dekho
-  Main thaam ke chalti huṅ asa
+  Sirf atharah baras meiṅ ye mera aalam hai
+  Dekho baaloṅ meiṅ safedi hai kamar bhi kham hai
+  Zaifi hai ab to mera haal dekho
+  Maiṅ thaam ke chalti huṅ asa
 
   7
-  Ro ke Zeeshan yehi kehta hai Irfan-e-aza
+  Ro ke Zishan yehi kehta hai Irfan-e-aza
   Chhin kar saaya laiṅ ne wo shajar kaat diya
-  Jahaaṅ baithti thi bas ab dhup mein bhi
+  Jahaaṅ baithti thi bas ab dhup meiṅ bhi
   Hontoṅ pe yehi tha marsiya
 # source_id: nohayonline:edfb2686d114612e7356
 # source_url: https://www.nohayonline.com/details_content.php?id=1012

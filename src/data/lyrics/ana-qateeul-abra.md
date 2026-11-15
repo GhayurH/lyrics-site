@@ -1,6 +1,6 @@
 ---
 title: "انا قتیل العبرة"
-alternateTitle: "Ana Qateeul Abra"
+alternateTitle: "Ana Qatiul Abra"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,10 +12,10 @@ aliases: []
 published: true
 romanLyrics: |-
   Ana qatil-ul-abra
-  Main kushta-e-ibrat huṅ
+  Maiṅ kushta-e-ibrat huṅ
 
   1
-  Kis ne paraye des mein dekha aisa khuni manzar
+  Kis ne paraye des meiṅ dekha aisa khuni manzar
   Shimr-e-laiṅ ne berahmi se phera halq pe khanjar
   Jis ko ek dukhiyari maaṅ ne chakki pis ke paala
 
@@ -40,19 +40,19 @@ romanLyrics: |-
   Shimr-e-laiṅ ne roz-e-dahum us halq pe khanjar phera
 
   6
-  Rok ke khutba jis ko uthaya god mein mere jad ne
+  Rok ke khutba jis ko uthaya god meiṅ mere jad ne
   Jis ke liye apne sajde ko tul diya Ahmad ne
-  Kalma goyoṅ ne sajde mein qatl use kar daala
+  Kalma goyoṅ ne sajde meiṅ qatl use kar daala
 
   7
-  Ammaṅ tum jis dasht mein shab bhar aah o buka karti thi
+  Ammaṅ tum jis dasht meiṅ shab bhar aah o buka karti thi
   Jis ko apne baaloṅ se tum saaf kiya karti thi
   Haye sitamgaroṅ ne wohi par mera khuṅ bahaya
 
   8
-  Main huṅ shahid-e-raah-e-Khuda aur paikar-e-sabr o raza huṅ
+  Maiṅ huṅ shahid-e-raah-e-Khuda aur paikar-e-sabr o raza huṅ
   Karbobala hai shahid aisa kushta-e-tegh-e-jafa huṅ
-  Jis ke janaze ko maqtal mein tiroṅ ne hai uthaya
+  Jis ke janaze ko maqtal meiṅ tiroṅ ne hai uthaya
 
   9
   Shart-e-wafa bas itni hai mil jaaye jo thanda pani
@@ -62,7 +62,7 @@ romanLyrics: |-
   10
   Ruh ko bhi mil jaaye sukuṅ aur qalb ko chain aa jaaye
   Karbobala se kaash Bilal aawaz-e-Husain aa jaaye
-  Dard mein duba mere shayar khub ye nauha likha
+  Dard meiṅ duba mere shayar khub ye nauha likha
 # source_id: nohayonline:c98ac94c8ff0657f8cfd
 # source_url: https://www.nohayonline.com/details_content.php?id=3378
 # raw_sha256: 53e43026d3d23fc5f532e3e5033a1de051a4067c27ee07d390166099be1293c2

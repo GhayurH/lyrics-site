@@ -1,6 +1,6 @@
 ---
 title: "کہتی تھی یہی جینے سے بیزار ہے صغریٰ"
-alternateTitle: "Kehti Thi Yehi Jeene"
+alternateTitle: "Kehti Thi Yehi Jine"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -36,12 +36,12 @@ romanLyrics: |-
 
   5
   Har waqt lagi rehti haiṅ darwaaze pe nazreiṅ
-  Is karb-e-musalsal mein giraftaar hai Sughra
+  Is karb-e-musalsal meiṅ giraftaar hai Sughra
   Keh de koi Akbar se ke bimaar hai Sughra
 
   6
   Kya aa gayi aawaaz-e-azaan-e-Ali Akbar
-  Kis ranj o musibat mein giraftaar hai Sughra
+  Kis ranj o musibat meiṅ giraftaar hai Sughra
   Keh de koi Akbar se ke bimaar hai Sughra
 
   7
@@ -50,7 +50,7 @@ romanLyrics: |-
   Keh de koi Akbar se ke bimaar hai Sughra
 
   8
-  Achchha hi hua tum na gayi saath safar mein
+  Achchha hi hua tum na gayi saath safar meiṅ
   Maaṅ behan hai aur Shaam ka baazaar hai Sughra
   Keh de koi Akbar se ke bimaar hai Sughra
 

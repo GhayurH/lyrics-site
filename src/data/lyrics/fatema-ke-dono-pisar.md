@@ -13,15 +13,15 @@ published: true
 romanLyrics: |-
   Haaye Hasan haaye Husain
 
-  Ajib haal mein haiṅ Fatema ke donoṅ pisar
-  Hasan ke tir badan mein Husain tiroṅ par
+  Ajib haal meiṅ haiṅ Fatema ke donoṅ pisar
+  Hasan ke tir badan meiṅ Husain tiroṅ par
 
   1
   Hasan ko dekha hai Qasim ne khuṅ ugalte hue
   Sakina dekhti hai baap ko tah-e-khanjar
 
   2
-  Na jaane dekhe haiṅ Zainab ne tasht mein kaise
+  Na jaane dekhe haiṅ Zainab ne tasht meiṅ kaise
   Jigar ke tukre Hasan ke kabhi Husain ka sar
 
   3
@@ -37,7 +37,7 @@ romanLyrics: |-
   Idhar Husain ke laashe pe nazr haiṅ patthar
 
   6
-  Udhar Hasan ka janaaza phiraaya galiyoṅ mein
+  Udhar Hasan ka janaaza phiraaya galiyoṅ meiṅ
   Sar-e-Husain phiraaya gaya idhar dar dar
 
   7

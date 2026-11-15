@@ -28,7 +28,7 @@ romanLyrics: |-
 
   3
   Woh masaib uthayi hai Zainab
-  Qaid mein ja ke aayi hai Zainab
+  Qaid meiṅ ja ke aayi hai Zainab
   Apna waada nibhayi hai Zainab
   Maaṅ ko sab kuchh sunauṅgi ja kar
 
@@ -51,7 +51,7 @@ romanLyrics: |-
   Maaṅ ko sab kuchh sunauṅgi ja kar
 
   7
-  Hogi bas intezar mein Sughra
+  Hogi bas intezar meiṅ Sughra
   Bolo bhaiya use kahuṅ kya kya
   Dil bahot beqarar hai mera
   Maaṅ ko sab kuchh sunauṅgi ja kar

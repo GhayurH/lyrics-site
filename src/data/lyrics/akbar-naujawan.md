@@ -23,7 +23,7 @@ romanLyrics: |-
   Aakhri hai ye aks-e-Nabi ki azaṅ
 
   3
-  Teri tarah lage har jawaṅ ki sada
+  Teri tarah lage har jawaaṅ ki sada
   Dekhti huṅ jahaṅ tu dikhe hai wahaṅ
 
   4
@@ -43,12 +43,12 @@ romanLyrics: |-
   Thi yuṅ Zainab bhi lashe pe nohakunaṅ
 
   8
-  Ghash mein pyasi Sakina ye kehti rahi
+  Ghash meiṅ pyasi Sakina ye kehti rahi
   Mujh ko dilwa do bhaiya meri baliyaṅ
 
   9
   Jab Ae Mirza ye Nasir ne noha parha
-  Ashk aankhoṅ mein the lab pe tha ye bayaṅ
+  Ashk aankhoṅ meiṅ the lab pe tha ye bayaṅ
 # source_id: nohayonline:990e51a0d2424424d7fc
 # source_url: https://www.nohayonline.com/details_content.php?id=1895
 # raw_sha256: 300e888461559209e1911a0dc6c3e13e3777abff6c9f6403361179e25216c649

@@ -1,6 +1,6 @@
 ---
 title: "رن میں اصغر تیر کھانے آ گئے"
-alternateTitle: "Ran Mein Asghar"
+alternateTitle: "Ran Meiṅ Asghar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

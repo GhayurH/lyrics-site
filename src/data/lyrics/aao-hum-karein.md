@@ -1,6 +1,6 @@
 ---
 title: "آؤ ہم کریں یہ شہ کا ماتم"
-alternateTitle: "Aao Hum Karein"
+alternateTitle: "Aao Hum Kareiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -28,7 +28,7 @@ romanLyrics: |-
   Tashnalab Sakina ki sabileiṅ
   Kis hasiṅ tarah se ye saji haiṅ
   Aaj bhi mashk o alam ki nisbat
-  Chacha aur bhatiji se judi hai
+  Chacha aur bhatiji se juri hai
   Shehad se shiriṅ is ka zaaiqa
   Har maraz ki hai bas yehi dawa
   Ye aza hai zakhm-e-dil ka marham
@@ -61,7 +61,7 @@ romanLyrics: |-
   Jaani is ki Zainab-e-haziṅ haiṅ
   Matami yahaṅ Murtaza bhi haiṅ
   Nauhago yahaṅ Fatima bhi haiṅ
-  Hai badi pur nur majlis-e-gham
+  Hai bari pur nur majlis-e-gham
   Ae Husainiyo
 
   6

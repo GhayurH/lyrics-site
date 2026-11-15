@@ -1,6 +1,6 @@
 ---
 title: "شمر خیمے میں آ نہ جائے کہیں"
-alternateTitle: "Shimr Khaime Mein Aa Na Jaaye Kahiṅ"
+alternateTitle: "Shimr Khaime Meiṅ Aa Na Jaaye Kahiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ aliases: ["Shimr Khaime Me Aana Jaaye Kahin"]
 published: true
 romanLyrics: |-
   1
-  Shimr khaime mein aa na jaaye kahiṅ, ab to Ghaazi ko do sada Zainab
+  Shimr khaime meiṅ aa na jaaye kahiṅ, ab to Ghaazi ko do sada Zainab
   Keh rahi thi Fizza ye ro ro kar, ab to khaime bhi jal chuke Bibi
   Zulm zaalim na aur dhaaye kahiṅ
 
@@ -20,20 +20,20 @@ romanLyrics: |-
   Paak Zahra ka ghar jalaane ki, phir ye ummat na ghar jalaaye kahiṅ
 
   3
-  Ab Sakina na jaana maqtal mein, dur se Shimr dekhta hoga
-  Ab Sakina na jaana maqtal mein, phir tamaache na ye lagaaye kahiṅ
+  Ab Sakina na jaana maqtal meiṅ, dur se Shimr dekhta hoga
+  Ab Sakina na jaana maqtal meiṅ, phir tamaache na ye lagaaye kahiṅ
 
   4
   Ek hasrat thi paak Zainab ki, ke alamdaar us ko jite ji
   Ek hasrat thi paak Zainab ki, behn keh kar kabhi bulaaye kahiṅ
 
   5
-  So gaye nehr ke kinaare par, phir na khaime mein aa sake Ghaazi
+  So gaye nehr ke kinaare par, phir na khaime meiṅ aa sake Ghaazi
   So gaye nehr ke kinaare par, ke wafa pe na harf aaye kahiṅ
 
   6
-  Mominoṅ mein jo hai girohbandi, Maula mazlum ke julusoṅ mein
-  Mominoṅ mein jo hai girohbandi, phir na Aabid ko khun rulaaye kahiṅ
+  Mominoṅ meiṅ jo hai girohbandi, Maula mazlum ke julusoṅ meiṅ
+  Mominoṅ meiṅ jo hai girohbandi, phir na Aabid ko khun rulaaye kahiṅ
 # source_id: ziyaraat:55c1fb2cbd7e1479a27c
 # source_url: https://www.ziyaraat.net/api/noha/2707
 # raw_sha256: d7a3ce5b957d38eb1375dc884f7f88c6575954643bf579979b44e687a69541ef

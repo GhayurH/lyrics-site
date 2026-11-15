@@ -43,7 +43,7 @@ romanLyrics: |-
   5
   Phir mere Maula se na sambhla alam
   Paani baha ho gaya thanda alam
-  Mashk mein shaayad tha dam Abbaas ka
+  Mashk meiṅ shaayad tha dam Abbaas ka
   Ho gaya marna sitam Abbaas ka
 
   6

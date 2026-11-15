@@ -15,7 +15,7 @@ romanLyrics: |-
   Qaidi rahi Naana roti rahi Naana
 
   1
-  Do tohfe laai huṅ main aap ke liye
+  Do tohfe laai huṅ maiṅ aap ke liye
   Ik bhaai ka kurta aur baazuoṅ ke nil
   Karbala se Shaam tak bemaqna o chaadar
   Purkhaar raahoṅ par chalti rahi Naana
@@ -36,7 +36,7 @@ romanLyrics: |-
   Sajjad naatawaaṅ pe zulm ka tufaaṅ
   Haathoṅ meiṅ hathkari pairoṅ meiṅ beriyaaṅ
   Durre lagaate the har gaam pe aada
-  Us bekasi pe main roti rahi Naana
+  Us bekasi pe maiṅ roti rahi Naana
 
   5
   Bano ka laadla Asghar bhi chal basa
@@ -46,15 +46,15 @@ romanLyrics: |-
 
   6
   Karbal ke dasht meiṅ ye kya sitam hua
-  Main berida rahi wo bekafan raha
+  Maiṅ berida rahi wo bekafan raha
   Tapti zamiṅ pe laasha para raha
-  Main kuchh na kar saki ghutti rahi Naana
+  Maiṅ kuchh na kar saki ghutti rahi Naana
 
   7
   Zindaan-e-Shaam ka aalam ajab sa tha
   Din meiṅ thi tez dhup raatoṅ meiṅ os thi
   Maaeṅ tarapti thiṅ bachche bilakte the
-  Har pal main wahaaṅ pe marti rahi Naana
+  Har pal maiṅ wahaaṅ pe marti rahi Naana
 
   8
   Ahmed bari ghamgin Zainab ki daastaan

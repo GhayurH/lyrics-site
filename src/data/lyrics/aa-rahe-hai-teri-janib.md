@@ -28,8 +28,8 @@ romanLyrics: |-
   Ab Najaf tak bichh gayi hai sar-zamin-e-Karbala
 
   3
-  Is ziyarat ke safar mein saahib-e-kirdaar hai
-  Parcham-e-Abbas haathoṅ mein hai sab bedaar haiṅ
+  Is ziyarat ke safar meiṅ saahib-e-kirdaar hai
+  Parcham-e-Abbas haathoṅ meiṅ hai sab bedaar haiṅ
   Ae Imam-e-Asr nusrat ke liye tayyar haiṅ
   Muntaqim ke muntazir haiṅ mominin-e-Karbala
 
@@ -42,13 +42,13 @@ romanLyrics: |-
   5
   Khaana-e-Kaaba ki diwaaroṅ se utha shor o shain
   Aasmaaṅ ko dekhta hai Fatema ka nur-e-ain
-  Hajj ko umre mein badal kar chal diye Maula Husain
+  Hajj ko umre meiṅ badal kar chal diye Maula Husain
   Aazimin-e-Hajj hue haiṅ aazimin-e-Karbala
 
   6
   Parda-e-ghaibat uthega mere Maula aayeṅ ge
   Gar bulaya aap ne paidal bhi chal kar jaayeṅ ge
-  Saath mein maaṅ baap bachche aur bhai laayeṅ ge
+  Saath meiṅ maaṅ baap bachche aur bhai laayeṅ ge
   Kar qabul in zahmatoṅ ko ae makin-e-Karbala
 
   7

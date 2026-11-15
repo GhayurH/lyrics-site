@@ -36,8 +36,8 @@ romanLyrics: |-
 
   3
   Chumte the jise aap nana sada
-  Tera zarbon se kaata gaya wo gala
-  Shimr ke dil mein tha kitna kina
+  Tera zarboṅ se kaata gaya wo gala
+  Shimr ke dil meiṅ tha kitna kina
   Ae Madina ghazab ho gaya
 
   4
@@ -48,7 +48,7 @@ romanLyrics: |-
 
   5
   Asr-e-Aashur naizoṅ pe sar aa gaye
-  Aayi shsam e ghariban to qaime jale
+  Aayi shsam ae gharibaṅ to qaime jale
   Sar pe chadar kisi ki bachi na
   Ae Madina ghazab ho gaya
 
@@ -60,7 +60,7 @@ romanLyrics: |-
 
   7
   Haye ammaaṅ gale se laga lo hameṅ
-  Apne marqad mein lillaah chhupa lo hameṅ
+  Apne marqad meiṅ lillaah chhupa lo hameṅ
   Is qadar pehle paidal chali na
   Ae Madina ghazab ho gaya
 

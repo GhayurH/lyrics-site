@@ -16,13 +16,13 @@ romanLyrics: |-
 
   1
   Nazar hai khaimagaah par zamin o aasmaan ki
-  Sukut mein hai zindagi ghari hai imtihaan ki
+  Sukut meiṅ hai zindagi ghari hai imtihaan ki
   Hai saaṅs maut ki ruki laraz rahi hai roshni
   Diya bujha raha Husain hai
 
   2
   Ae jaane waale ruk zara udaas kiuṅ hai is qadar
-  Qalam hai us ke haath mein Husain se tu baat kar
+  Qalam hai us ke haath meiṅ Husain se tu baat kar
   Ye lauh phir banaae ga tujhe pisar dilaae ga
   Khuda ka laadla Husain hai
 
@@ -39,10 +39,10 @@ romanLyrics: |-
   Zamin pe aa gaya Husain hai
 
   5
-  Ameer ko salaam kar kisi ne jab ye di sada
-  Pukaara Muslim-e-Ali main qaid huṅ to kya hua
+  Amir ko salaam kar kisi ne jab ye di sada
+  Pukaara Muslim-e-Ali maiṅ qaid huṅ to kya hua
   Salaam kiuṅ karuṅ ise pata nahiṅ hai kya tujhe
-  Ameer bas mera Husain hai
+  Amir bas mera Husain hai
 
   6
   Husain ne ye tarbiyat Batul se hi paai thi
@@ -51,8 +51,8 @@ romanLyrics: |-
   Ali ke lab pe Ya Husain hai
 
   7
-  Ajab safar hai ishq ka sukun aabloṅ mein hai
-  Najaf se Karbala talak ye shor qaafiloṅ mein hai
+  Ajab safar hai ishq ka sukun aabloṅ meiṅ hai
+  Najaf se Karbala talak ye shor qaafiloṅ meiṅ hai
   Chalo Husainiyo chalo zara sa tez aur chalo
   Tumheṅ bula raha Husain hai
 

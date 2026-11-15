@@ -22,19 +22,19 @@ romanLyrics: |-
   Maasum jo paani ka talabgaar na hota
 
   3
-  Jaati na kabhi aag mein haaye saani-e-Zahra
-  Jalte hue khaimoṅ mein jo bimaar na hota
+  Jaati na kabhi aag meiṅ haaye saani-e-Zahra
+  Jalte hue khaimoṅ meiṅ jo bimaar na hota
 
   4
   Rukhsaar-e-Sakina pe tamaanche bhi na lagte
   Is tarah yatimi ka bhi izhaar na hota
 
   5
-  Sajjad ko ghash aata na raahoṅ mein kabhi yuṅ
+  Sajjad ko ghash aata na raahoṅ meiṅ kabhi yuṅ
   Zainab teri chaadar ka jo takraar na hota
 
   6
-  Sajde mein agar sar ko na Shabbir kataate
+  Sajde meiṅ agar sar ko na Shabbir kataate
   Yuṅ din-e-Muhammad ka bhi parchaar na hota
 
   7

@@ -14,7 +14,7 @@ romanLyrics: |-
   Nana bhai se mila de
 
   1
-  Chhor ke maqtal mein aayi huṅ
+  Chhor ke maqtal meiṅ aayi huṅ
   Nana bhai se mila de
 
   2
@@ -24,8 +24,8 @@ romanLyrics: |-
 
   3
   Shaam-e-gharibaaṅ baba the aaye
-  Main beparda sar ko jhukaaye
-  Roti thi main sharmaaye
+  Maiṅ beparda sar ko jhukaaye
+  Roti thi maiṅ sharmaaye
 
   4
   Lagte the durre chhinti thi chaadar
@@ -34,12 +34,12 @@ romanLyrics: |-
 
   5
   Ghar se chali thi bhai ko le kar
-  Jaauṅ main kaise sab ko kho kar
+  Jaauṅ maiṅ kaise sab ko kho kar
   Dil mera ghabraaye
 
   6
   Bhai ka maqsad aise bachaaya
-  Pusht pe durre main ne khaaya
+  Pusht pe durre maiṅ ne khaaya
   Bachche yaad na aaye
 
   7
@@ -48,13 +48,13 @@ romanLyrics: |-
   Din ko tere laaye
 
   8
-  Kaise bataauṅ main wo manzar
+  Kaise bataauṅ maiṅ wo manzar
   Sine pe qaatil halq pe khanjar
   Kiuṅ ye din dikhlaaye
 
   9
   Hai ye dua Zehra ki tum ko
-  Nauha-khwaan o maatam-daaroṅ
+  Nauha-khwaaṅ o maatam-daaroṅ
   Aanch na tum par aaye
 
   10

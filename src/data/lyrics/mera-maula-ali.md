@@ -14,17 +14,17 @@ romanLyrics: |-
   Ali Asadullah Ali Asadullah Ali Asadullah
 
   1
-  Ilzaam ye hai ishq mein diwana huṅ
+  Ilzaam ye hai ishq meiṅ diwana huṅ
   Ali Ali Ali ya Maula Ali Ali Ali ya Maula
-  Ilzaam ye hai khud se main begana huṅ
+  Ilzaam ye hai khud se maiṅ begana huṅ
   Ali Ali Ali ya Maula Ali Ali Ali ya Maula
   Ilzaam hai maulaai huṅ mastana huṅ
 
   2
   Iqraar hai mujh ko meri fitrat hai malangaana
   Andaaz yagaana meri sohbat bhi faqiraana
-  Haaṅ naaz se kehta huṅ main huṅ Haideri parwana
-  Main huṅ sag-e-Shah-e-Najaf pir mera Ali Ali
+  Haaṅ naaz se kehta huṅ maiṅ huṅ Haideri parwana
+  Maiṅ huṅ sag-e-Shah-e-Najaf pir mera Ali Ali
 
   Haaṅ mera Maula Ali
   Haaṅ mera Maula Ali
@@ -36,7 +36,7 @@ romanLyrics: |-
   Haaṅ mera Maula Ali
 
   3
-  Leh dil aur dil mein Ali
+  Leh dil aur dil meiṅ Ali
   Ali Ali Ali ya Maula
   Ali Ali Ali ya Maula
 
@@ -53,17 +53,17 @@ romanLyrics: |-
   Haaṅ mera Maula Ali
   Haaṅ mera Maula Ali
   Haaṅ mera Maula Ali
-  Leh dil aur dil mein Ali
-  Leh dil aur dil mein Ali
+  Leh dil aur dil meiṅ Ali
+  Leh dil aur dil meiṅ Ali
   Ali Ali Ali ya Maula
   Ali Ali Ali ya Maula
 
   6
   Kya zaat mere pir ki Allah ne banaai
-  Aisi to koi zaat zamaane mein na aayi
+  Aisi to koi zaat zamaane meiṅ na aayi
   Haaṅ jis ki parastaar hai ye saari khudaai
-  Maidan-e-Ghadiri mein Nabi jis ke liye bola
-  Jis jis ka bhi Maula huṅ main us ka hai Ali Maula
+  Maidan-e-Ghadiri meiṅ Nabi jis ke liye bola
+  Jis jis ka bhi Maula huṅ maiṅ us ka hai Ali Maula
   Aaj bhi hai ye dil-e-momin pe likha Ali Ali
 
   Haaṅ mera Maula Ali
@@ -96,11 +96,11 @@ romanLyrics: |-
   Sada-e-malang-e-Ali sada-e-faqir-e-Ali
 
   10
-  Har naara-e-Haider mein Ali bol raha hai
-  Dam mast qalandar mein Ali bol raha hai
-  Momin huṅ mere ghar mein Ali bol raha hai
-  Naazaaṅ huṅ muqaddar mein Ali bol raha hai
-  Sine mein hai dil dil mein dharakta hai Ali Maula
+  Har naara-e-Haider meiṅ Ali bol raha hai
+  Dam mast qalandar meiṅ Ali bol raha hai
+  Momin huṅ mere ghar meiṅ Ali bol raha hai
+  Naazaaṅ huṅ muqaddar meiṅ Ali bol raha hai
+  Sine meiṅ hai dil dil meiṅ dharakta hai Ali Maula
   Waliyoṅ ka faqiroṅ ka hai wazifa hai Ali Maula
 
   11
@@ -110,7 +110,7 @@ romanLyrics: |-
   Haaṅ mera Maula Ali
   Haaṅ mera Maula Ali
   Haaṅ mera Maula Ali
-  Leh dil aur dil mein Ali
+  Leh dil aur dil meiṅ Ali
   Ali Ali ya Maula
   Ali Ali ya Maula
 
@@ -119,7 +119,7 @@ romanLyrics: |-
   Afsos tere saamne Zehra ko rulaaya
   Afsos musalle pe lahu tera bahaaya
   Betoṅ ko kiya qatl sar-e-Karb o Balaa Maula
-  Aur betiyaṅ darbaar mein paaband-e-jafa Maula
+  Aur betiyaṅ darbaar meiṅ paaband-e-jafa Maula
   Haar gaye ahl-e-jafa jit gaya Ali Ali
 
   13
@@ -140,9 +140,9 @@ romanLyrics: |-
   Mera murshid mera aaqa mera sultan Ali
   Mera waaris mera Maula mera imaan Ali
   Kitne anmol hai aala hai muqaddar un ke
-  Jin ki wallah zamaane mein hai pehchaan Ali
-  Mere dil mein to sada Maula mera rehta hai
-  Kaash ek roz mere ghar mein ho mehmaan Ali
+  Jin ki wallah zamaane meiṅ hai pehchaan Ali
+  Mere dil meiṅ to sada Maula mera rehta hai
+  Kaash ek roz mere ghar meiṅ ho mehmaan Ali
 
   Waliullah Ali
   Asadullah Ali

@@ -30,7 +30,7 @@ romanLyrics: |-
 
   3
   Milti hai tere dar se gunahgar ko izzat
-  Batti hai zamane mein tere haath se daulat
+  Batti hai zamane meiṅ tere haath se daulat
   Aulad, shifa, rizq, hunar, lutf o samaat
   Isaar, wafa, ishq-e-Khuda, teri itaat
 
@@ -53,8 +53,8 @@ romanLyrics: |-
   Beti ke nasiboṅ ko jaga do mere Ghazi
 
   7
-  Bejurm azadar jo hai qaid mein Maula
-  Zindan mein bichhate haiṅ magar farsh-e-aza ka
+  Bejurm azadar jo hai qaid meiṅ Maula
+  Zindaṅ meiṅ bichhate haiṅ magar farsh-e-aza ka
   Mil jaaye unheiṅ Sayyid Sajjad ka sadqa
   De un ko rehai ki khabar Waris-e-Zehra
 
@@ -62,7 +62,7 @@ romanLyrics: |-
   Ye keh ke nigahoṅ ko tere dar pe jhukaya
   Bas sar pe salamat rahe maaṅ baap ka saya
   De ilm o hunar bachchoṅ ko sehat bhi Khudara
-  Kab hum ne kisi ghair ko mushkil mein pukara
+  Kab hum ne kisi ghair ko mushkil meiṅ pukara
 
   9
   Aaya huṅ tere dar pe ye ummid laga kar

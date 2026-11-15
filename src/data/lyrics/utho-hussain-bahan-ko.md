@@ -1,6 +1,6 @@
 ---
 title: "یہ میں ہوں میں میری تنہائی، یہ تماشائی"
-alternateTitle: "Utho Husain Bahan Ko"
+alternateTitle: "Utho Husaiṅ Bahan Ko"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: ["Utho Hussain Bahan Ko"]
 published: true
 romanLyrics: |-
-  Ye main huṅ main meri tanhaai, ye tamaashaai
+  Ye maiṅ huṅ maiṅ meri tanhaai, ye tamaashaai
   Lo aayi gyaarah Muharram hai kya khabar laayi
   Chali jaanib-e-zindaaṅ tumhaari maaṅ jaayi
   Sawaar hum ne kiya tha tumheṅ mere bhai
@@ -21,36 +21,36 @@ romanLyrics: |-
 
   1
   Sawaar hum ne kiya tha tumheṅ dam-e-rukhsat
-  Lagaam thaami thi main ne bahaalat-e-riqqat
+  Lagaam thaami thi maiṅ ne bahaalat-e-riqqat
   Kahaaṅ gayi woh mohabbat, kahaaṅ gayi chaahat
   Amaama apna mere sar pe, saaya waar karo
 
   2
   Watan se dur huṅ kuchh aur dur jaati huṅ
   Utho utho mere bhaiya, tumheṅ jagaati huṅ
-  Koi bhi aata nahiṅ main jise bulaati huṅ
+  Koi bhi aata nahiṅ maiṅ jise bulaati huṅ
   Qaraar-e-jaan mere mujh ko na beqaraar karo
 
   3
   Safar Madine se kaisa tha ye safar kaisa hai
   Na mahmileṅ haiṅ na haudaj na koi parda hai
-  Hai sar mein khaak ye Karb o Bala ka sahra hai
+  Hai sar meiṅ khaak ye Karb o Bala ka sahra hai
   Na ji sakuṅ gi tere baad aitbaar karo
 
   4
   Dar-e-Furaat pe ae sone waale jaag zara
-  Alam ke saaye mein rukhsat bahan ko kar bhaiya
+  Alam ke saaye meiṅ rukhsat bahan ko kar bhaiya
   Suna hai sakht kathan hai ye Shaam ka rasta
   Sahl ye raasta Abbas naamdaar karo
 
   5
-  Main aauṅ gi mere bhaiya zarur aauṅ gi
+  Maiṅ aauṅ gi mere bhaiya zarur aauṅ gi
   Kafan urhaauṅ gi marqad teri banaauṅ gi
   Jahaaṅ bhi jaauṅ gi farsh-e-aza bichhaauṅ gi
-  Main qaid kaat ke laut aauṅ intezaar karo
+  Maiṅ qaid kaat ke laut aauṅ intezaar karo
 
   6
-  Ragoṅ mein khun badan mein jo saans jaari hai
+  Ragoṅ meiṅ khun badan meiṅ jo saans jaari hai
   Tumhaari Sarwar o Rehan zimmedaari hai
   Jahaaṅ jahaaṅ mere bhai ki pursa daari hai
   Tum apne nauhoṅ se duniya ko sogwaar karo

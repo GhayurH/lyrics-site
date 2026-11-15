@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Hai ajab Shaam ke zindaan mein kohraam bapa
+  Hai ajab Shaam ke zindaan meiṅ kohraam bapa
   Bain se baali Sakina ke larazti hai fiza
   Sard hai saara badan zard hai gham se chehra
   Aah karti hai to hil jaata hai zindaaṅ saara
@@ -20,7 +20,7 @@ romanLyrics: |-
   Ro ke kehti hai ke Baaba mere paas aaye the
   Phuphi amma wo yahiṅ paas mere baithe the
   Mujh se kehte the mera dil nahiṅ lagta beti
-  Aa ja ab aa ja meri god mein aa ja beti
+  Aa ja ab aa ja meri god meiṅ aa ja beti
 
   1
   Kab se bechain huṅ surat to dikha do mujh ko
@@ -33,7 +33,7 @@ romanLyrics: |-
 
   3
   Gham se phat jaaye ga beti ka kaleja Baaba
-  Bakhsh do mujh ko agar ki ho koi main ne khata
+  Bakhsh do mujh ko agar ki ho koi maiṅ ne khata
   Huṅ sazaawaar par itni na saza do mujh ko
 
   4
@@ -43,7 +43,7 @@ romanLyrics: |-
 
   5
   Hai khushi ki ye ghari aankh na kijiye purnam
-  Aap ko deti huṅ main Aun o Muhammad ki qasam
+  Aap ko deti huṅ maiṅ Aun o Muhammad ki qasam
   Muskuraate hue jaane ki raza do mujh ko
 
   6
@@ -57,8 +57,8 @@ romanLyrics: |-
   Qibla rukh kar ke phuphi jaan lita do mujh ko
 
   8
-  Haaye taqdir ki mar kar bhi rahi zindaaṅ mein
-  Qabr bhi paayi to bachchi ne wahiṅ zindaaṅ mein
+  Haaye taqdir ki mar kar bhi rahi zindaaṅ meiṅ
+  Qabr bhi paayi to bachchi ne wahiṅ zindaaṅ meiṅ
   Kya khata ki thi Sakina ne bata do mujh ko
 # source_id: nohayonline:0f5e0427982c0e02ff07
 # source_url: https://www.nohayonline.com/details_content.php?id=2907

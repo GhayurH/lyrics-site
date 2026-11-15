@@ -20,7 +20,7 @@ romanLyrics: |-
 
   1
   Ye baat jaa ke kisi maaṅ ke dil se puchhe koi
-  Tum apne laal ko maqtal mein dekh paaogi
+  Tum apne laal ko maqtal meiṅ dekh paaogi
   Kaleja thaam ke wo maaṅ kahegi sirf yehi
   Isi imtihaan se guzri thi bas wohi
   Maaṅ ho to Maadar-e-Husain si
@@ -35,7 +35,7 @@ romanLyrics: |-
   3
   Jo dekha maaṅ ne ke beta shadid hai zakhmi
   To apne baaloṅ se maqtal ko saaf karne lagi
-  Tarap ke ruh-e-Khadija ye ban mein kehti thi
+  Tarap ke ruh-e-Khadija ye ban meiṅ kehti thi
   Ye maaṅ to sabr ki had se guzar gayi
   Maaṅ ho to Maadar-e-Husain si
 
@@ -55,9 +55,9 @@ romanLyrics: |-
 
   6
   Ye thi Mazhar o Irfaan tarbiyat maaṅ ki
-  Jo Karbala ke bayaabaaṅ mein rang laai thi
+  Jo Karbala ke bayaabaaṅ meiṅ rang laai thi
   Khiraaj pesh kiya Sayyeda ko Rab ne bhi
-  Fiza mein gunjegi aawaaz ab yehi
+  Fiza meiṅ gunjegi aawaaz ab yehi
   Maaṅ ho to Maadar-e-Husain si
 
   7
@@ -72,10 +72,10 @@ romanLyrics: |-
   Dar-e-khiyaam pe Zainab ye bain karti thi
   Mere Husain ko is zulm se bachaaye koi
   Husain ho gaye paamaal kuchh karo ammaaṅ
-  Pisar ke tukre rida mein samet lo ammaaṅ
+  Pisar ke tukre rida meiṅ samet lo ammaaṅ
   Jo laashe kar chuke paamaal ahl-e-zulm tamaam
   Haram the nauha kunaaṅ chaar samt tha kohraam
-  Utha ke mashaale haathoṅ mein aaya lashkar-e-Shaam
+  Utha ke mashaale haathoṅ meiṅ aaya lashkar-e-Shaam
   Ridaaeṅ chhin ke Saadaat ki jalaaye khiyaam
   Gham-e-Husain ho ya phir khiyaam ka pehra
   Har ek maqaam pe Zainab ke saath thi Zehra

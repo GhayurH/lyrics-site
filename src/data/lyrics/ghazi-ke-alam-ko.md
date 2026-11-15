@@ -31,7 +31,7 @@ romanLyrics: |-
 
   5
   Ae zaair-e-Shabbir idhar aa idhar aa ja
-  Aaṅkhoṅ se laga luṅ main tere naqsh-e-qadam ko
+  Aaṅkhoṅ se laga luṅ maiṅ tere naqsh-e-qadam ko
 # source_id: nohayonline:26be2e42f8bdaa93bb9c
 # source_url: https://www.nohayonline.com/details_content.php?id=567
 # raw_sha256: 05600a20adfa7cd3d48958ace8a91b6c2a3964f5d6a1ff315520369b421342be

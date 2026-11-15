@@ -12,16 +12,16 @@ aliases: []
 published: true
 romanLyrics: |-
   Ek roz shahzaadi ne Asma se ye kaha
-  Main jaa rahi huṅ hujre mein karne ko ab dua
+  Maiṅ jaa rahi huṅ hujre meiṅ karne ko ab dua
   Aawaaz gar na aaye mere shor o shain ki
   Bas ye samajhna mar gayi maadar Husain ki
   Bacche jo aayeṅ laut ke to pyaar kijiyo
   Marne ka mere kuch bhi na izhaar kijiyo
   Alqissa band ho gayi aawaaz shor o shain
   Asma pachhaareṅ khaati thi aur kar rahi thi bain
-  Itne mein aaye khelte ghar mein Hasan Husain
+  Itne meiṅ aaye khelte ghar meiṅ Hasan Husain
   Asma ye aansu ponchh ke kehti thiṅ dil ke chain
-  Khaana laga rahi huṅ main ab khaana khaaiye
+  Khaana laga rahi huṅ maiṅ ab khaana khaaiye
   Bacche tarap ke kehne lage ye bataaiye
   Tum ko maalum hai ye aaj talak ae Asma
   Hum ne khaana kabhi amma ke bina khaaya hai
@@ -44,7 +44,7 @@ romanLyrics: |-
   Chumti jaati thiṅ ulfat se hamaara chehra
 
   4
-  God mein baith ke un ke hi sukuṅ paayeṅge
+  God meiṅ baith ke un ke hi sukuṅ paayeṅge
   Amma jab khaana khilaayeṅgi to hum khaayeṅge
   Kis liye band hai amma ka abhi tak hujra
 

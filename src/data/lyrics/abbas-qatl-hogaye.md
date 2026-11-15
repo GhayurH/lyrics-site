@@ -16,8 +16,8 @@ romanLyrics: |-
 
   1
   Qasim ka laasha ghoroṅ se pamal ho gaya
-  Madar ko us ka gham mein hamesha rulaega
-  Tukroṅ mein aaya laasha-e-Qasim bata hua
+  Madar ko us ka gham meiṅ hamesha rulaega
+  Tukroṅ meiṅ aaya laasha-e-Qasim bata hua
 
   2
   Ro ro ke yehi kehte the laashoṅ se lipat kar
@@ -25,33 +25,33 @@ romanLyrics: |-
   Zainab ke jigar paroṅ ka sadma bara hua
 
   3
-  Pyasoṅ ke dil mein pani ka arman reh gaya
+  Pyasoṅ ke dil meiṅ pani ka arman reh gaya
   Mashkiza chhida khun-e-Alamdar beh gaya
-  Hum laaye alam bhai ka khun mein bhara hua
+  Hum laaye alam bhai ka khuṅ meiṅ bhara hua
 
   4
   Gir jaate the ghash khaate the har gaam tarap kar
   Dete the sadaeṅ ho mere laal kahaaṅ par
-  Aur sina-e-Akbar mein tha neza laga hua
+  Aur sina-e-Akbar meiṅ tha neza laga hua
 
   5
-  Mushkil se bahot khincha tha us teer ko main ne
-  Dafna to diya Asghar-e-Beshir ko main ne
+  Mushkil se bahot khincha tha us tir ko maiṅ ne
+  Dafna to diya Asghar-e-Beshir ko maiṅ ne
   Yaad aata raha halq wo us ka chhida hua
 
   6
   Ansar o aqraba sabhi jaaṅ se chale gaye
   Akbar ki laash laaye to Asghar ko le gaye
-  Bas do pahar mein khatm ghar bhara hua
+  Bas do pahar meiṅ khatm ghar bhara hua
 
   7
-  Aankhoṅ mein andhera tha kamar tut chuki thi
+  Aankhoṅ meiṅ andhera tha kamar tut chuki thi
   Majbur behan khaime ki deorhi pe khari thi
-  Bimar natawaṅ tha ghash mein para hua
+  Bimar natawaṅ tha ghash meiṅ para hua
 
   8
-  Parh kar Naseem Shadmaṅ aaṅsu bahaega
-  Ghaibat mein bhi Imam-e-Zaman ko rulaega
+  Parh kar Nasim Shadmaṅ aaṅsu bahaega
+  Ghaibat meiṅ bhi Imam-e-Zamaṅ ko rulaega
   Misre pe Mir Anis ke noha likha hua
 # source_id: nohayonline:df0f0a88b74cbcc7f98a
 # source_url: https://www.nohayonline.com/details_content.php?id=1701

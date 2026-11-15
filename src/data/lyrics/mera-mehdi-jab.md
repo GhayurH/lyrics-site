@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Kaha Zahra ne turbat mein mujhe tab chain aayega
+  Kaha Zahra ne turbat meiṅ mujhe tab chain aayega
   Mera Mehdi jab aayega
 
   Baqayya ko wo Zainab ka azaakhana banaayega
@@ -19,13 +19,13 @@ romanLyrics: |-
 
   1
   Na din ko rone dete the na shab ko rone dete the
-  Kiya mehdud Baitul Huzn mein ummat ne rone pe
+  Kiya mehdud Baitul Huzn meiṅ ummat ne rone pe
   Wo shahr-e-huzn aate hi Madine ko banaayega
   Mera Mehdi jab aayega
 
   2
   Yahaṅ Ummul Banin ke saath soti hai meri maadar
-  Hai jalti dhup mein madfan mera Baqar mera Jafar
+  Hai jalti dhup meiṅ madfan mera Baqar mera Jafar
   Wo phir mismaar qabroṅ ke liye saaya banaayega
   Mera Mehdi jab aayega
 
@@ -36,8 +36,8 @@ romanLyrics: |-
   Mera Mehdi jab aayega
 
   4
-  Rida-e-Zainab o Kulsum ke gham mein wo roya hai
-  Wo thak kar Shaam se aa kar mere pehlu mein soya hai
+  Rida-e-Zainab o Kulsum ke gham meiṅ wo roya hai
+  Wo thak kar Shaam se aa kar mere pehlu meiṅ soya hai
   Mere Sajjad ke ashkoṅ ka wo badla chukaayega
   Mera Mehdi jab aayega
 
@@ -48,13 +48,13 @@ romanLyrics: |-
   Mera Mehdi jab aayega
 
   6
-  Adhuri reh gayi dunya mein jo tasvir Haider ki
-  Na us ne maaṅ kaha mujh ko na khud main ne ziyarat ki
-  Yaqin hai meri mamta ko wo Mohsin ban ke aayega
+  Adhuri reh gayi dunya meiṅ jo tasvir Haider ki
+  Na us ne maaṅ kaha mujh ko na khud maiṅ ne ziyarat ki
+  Yaqiṅ hai meri mamta ko wo Mohsin ban ke aayega
   Mera Mehdi jab aayega
 
   7
-  Dukhi huṅ apni turbat mein ye kaisa daur-e-haazir hai
+  Dukhi huṅ apni turbat meiṅ ye kaisa daur-e-haazir hai
   Azaadaari ka munkir hai koi sajde ka munkir hai
   Takallum tegh-e-Haider ki wo donoṅ par chalaayega
   Mera Mehdi jab aayega

@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Sehra ke andhere mein utha shor-e-buka ka
+  Sehra ke andhere meiṅ utha shor-e-buka ka
   Baba baba baba baba
   Kis jaa pe ho aawaaz mujhe dijiye Khudaara
   Baba baba baba baba
@@ -24,12 +24,12 @@ romanLyrics: |-
 
   2
   Chaadar chhini durre lage
-  Balwe mein hai sab sar khule
+  Balwe meiṅ hai sab sar khule
   Kaanoṅ se mere chhine gohar maara tamaancha
   Baba baba baba baba
 
   3
-  Phaila hai maqtal mein dhuaaṅ
+  Phaila hai maqtal meiṅ dhuaaṅ
   Pur haul hai yaaṅ ka samaaṅ
   Takraati huṅ laashoṅ se dikhaai nahiṅ deta
   Baba baba baba baba
@@ -42,14 +42,14 @@ romanLyrics: |-
 
   5
   Sine se aa lag jaa mere
-  Be sar hai ham ran mein pare
+  Besar hai ham ran meiṅ pare
   Darya pe na jaana karti hui naala
   Baba baba baba baba
 
   6
   Kiuṅ aa gai tu khaime se
   Ammu tarapte haiṅ tere
-  Sun kar teri faryaad ko is dasht mein beta
+  Sun kar teri faryaad ko is dasht meiṅ beta
   Baba baba baba baba
 
   7
@@ -65,9 +65,9 @@ romanLyrics: |-
   Bhaiya bhaiya bhaiya bhaiya
 
   9
-  Kiuṅ kar Anees gham likhe
-  Maqtal mein hai jo waaqie
-  Zindaaṅ ki fizaaoṅ mein abhi tak hai ye nauha
+  Kiuṅ kar Anis gham likhe
+  Maqtal meiṅ hai jo waaqie
+  Zindaaṅ ki fizaaoṅ meiṅ abhi tak hai ye nauha
   Baba baba baba baba
 # source_id: nohayonline:aeea5a6028fbdd9d8e00
 # source_url: https://www.nohayonline.com/details_content.php?id=3018

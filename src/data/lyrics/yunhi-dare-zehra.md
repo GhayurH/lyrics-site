@@ -17,7 +17,7 @@ romanLyrics: |-
   Mahbub-e-Khuda khud bhi the taazim ko uthte
 
   1
-  Salman zaifi mein Khuda jaane ke kaise
+  Salman zaifi meiṅ Khuda jaane ke kaise
   Chunte rahe Sarwar ki tahrir ke purze
 
   2
@@ -26,11 +26,11 @@ romanLyrics: |-
 
   3
   Islam ka mafhum kabhi pura na hota
-  Tathir ke gulshan mein agar phul na khilte
+  Tathir ke gulshan meiṅ agar phul na khilte
 
   4
   Islam ki wahdat ka taqaaza to nahiṅ tha
-  Ae kaash kabhi Musalmaan firqoṅ mein na batte
+  Ae kaash kabhi Musalmaan firqoṅ meiṅ na batte
 
   5
   Makhduma ko Amir wo haq dete na dete

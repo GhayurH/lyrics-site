@@ -20,19 +20,19 @@ romanLyrics: |-
   Ye Husaini qabile ki pehchaan hai
 
   1
-  Is ki tehzib mein hai basi Karbala
-  Aur is ki gawaahi mein dekho zara
+  Is ki tehzib meiṅ hai basi Karbala
+  Aur is ki gawaahi meiṅ dekho zara
   Sab ke ghar pe alam dekho Abbas ka
   Bachche bachche ke lab par yehi hai sada
 
   2
   Apne bachchoṅ ko taalim de hum sada
   Majlis-e-Shaah-e-diṅ hai tera madrasa
-  Maaṅ ki aaghosh mein tu ne nauhe sune
+  Maaṅ ki aaghosh meiṅ tu ne nauhe sune
   Inhi nauhoṅ se dunya ko batlaayega
 
   3
-  Aankh mein aansuoṅ ka ye saawan liye
+  Aankh meiṅ aansuoṅ ka ye saawan liye
   Sirf maatam kare haath jab bhi uthe
   Ye nishaani hai Sheh ke azaadaar ki
   Kaale kapre badan par gawaahi bane
@@ -58,7 +58,7 @@ romanLyrics: |-
   7
   Shaah raahoṅ pe hai jo julus-e-aza
   Karbala ke shahidoṅ ka hai maujiza
-  Apne khuṅ mein nahaaye haiṅ sab maatami
+  Apne khuṅ meiṅ nahaaye haiṅ sab maatami
   Khun beh kar badan pe ye kehne laga
 
   8
@@ -82,7 +82,7 @@ romanLyrics: |-
   11
   Deta rehta hai Farhan paighaam-e-gham
   Haq bataata hai jo us ko mera qalam
-  Ghar mein shaadi ho Mazhar to majlis bhi ho
+  Ghar meiṅ shaadi ho Mazhar to majlis bhi ho
   Faqr hai ye hamaara Khuda ki qasam
 # source_id: nohayonline:827209e02c9210c9d4a3
 # source_url: https://www.nohayonline.com/details_content.php?id=3432

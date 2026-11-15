@@ -11,9 +11,9 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Karbobala ke dasht mein gunji hai ye sada
+  Karbobala ke dasht meiṅ gunji hai ye sada
   Haye Ghaazi Abbas haye Ghaazi Abbas
-  Maara gaya hai dasht mein pyaasa shaah-e-huda
+  Maara gaya hai dasht meiṅ pyaasa shaah-e-huda
   Haye Ghaazi Abbas haye Ghaazi Abbas
 
   1
@@ -47,7 +47,7 @@ romanLyrics: |-
   Abbas kahaaṅ hai unheṅ aawaaz do beta
 
   7
-  Dekho Shakeel parcham-e-Abbas utha hai
+  Dekho Shakil parcham-e-Abbas utha hai
   Dil thaam ke Rehan ne ye nauha parha hai
   Mashk-e-Sakina dekh ke phatta hai kaleja
 # source_id: nohayonline:33fca2196073534f6ddd

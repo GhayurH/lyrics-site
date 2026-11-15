@@ -11,13 +11,13 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Nusrat-e-Shaah mein har dard bhari maaṅ ko salaam
+  Nusrat-e-Shaah meiṅ har dard bhari maaṅ ko salaam
 
   1
   Ek wo maaṅ wohi athaarah baras wale ki maaṅ
   Jis ne marne ke liye bhej diya apna jawaaṅ
-  Naiza sine mein laga lut gaye saare armaaṅ
-  Shakl-e-Laila mein usi sabr ke Quraaṅ ko salaam
+  Naiza sine meiṅ laga lut gaye saare armaaṅ
+  Shakl-e-Laila meiṅ usi sabr ke Quraaṅ ko salaam
   Maaṅ ko salaam
 
   2
@@ -37,8 +37,8 @@ romanLyrics: |-
   4
   Zainab-e-khasta jigar Aun o Muhammad ki wo maaṅ
   Bhaai par sadqe kiye jis ne do maah-e-taabaaṅ
-  Laasheṅ jab khaime mein aaye kiya shukr-e-Yazdaaṅ
-  Jis mein Zehra ki shabaahat thi usi maaṅ ko salaam
+  Laasheṅ jab khaime meiṅ aaye kiya shukr-e-Yazdaaṅ
+  Jis meiṅ Zehra ki shabaahat thi usi maaṅ ko salaam
   Maaṅ ko salaam
 
   5
@@ -51,27 +51,27 @@ romanLyrics: |-
   6
   Ae Rabab aap pe ye dohri musibat aai
   Halq-e-Asghar ka chhida qaid Sakina bhi hui
-  God mein apni jala jhula liye baithi rahi
-  Karbala mein jo bacha tha usi saamaaṅ ko salaam
+  God meiṅ apni jala jhula liye baithi rahi
+  Karbala meiṅ jo bacha tha usi saamaaṅ ko salaam
   Maaṅ ko salaam
 
   7
-  Karbala mein to har ek maaṅ ka yahi jazba tha
+  Karbala meiṅ to har ek maaṅ ka yahi jazba tha
   Pisar-e-Zehra pe ho jaae pisar mera fida
-  Aaj ke daur mein jis maaṅ mein bhi hai ye jazba
+  Aaj ke daur meiṅ jis maaṅ meiṅ bhi hai ye jazba
   Us ki mamta ko salaam us ke har armaaṅ ko salaam
   Maaṅ ko salaam
 
   8
   Gar tumheṅ nemat-e-aulaad Khuda se ho ataa
   Lashkar-e-Shaah ka tum us ko sipaahi kehna
-  Us ka har haal mein mazbut aqida rakhna
+  Us ka har haal meiṅ mazbut aqida rakhna
   Us se kehna ke kare waaris-e-Quraaṅ ko salaam
   Maaṅ ko salaam
 
   9
   Majid un maaoṅ pe hum sab ke ho maaṅ baap fida
-  Shaadmaaṅ rehti thi jo nusrat-e-Sarwar mein sada
+  Shaadmaaṅ rehti thi jo nusrat-e-Sarwar meiṅ sada
   Shah pe qurbaaṅ kiya apne jigar ka gosha
   Aise bachchoṅ pe salaam aisi har ek maaṅ ko salaam
   Maaṅ ko salaam

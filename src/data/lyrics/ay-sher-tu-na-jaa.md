@@ -24,12 +24,12 @@ romanLyrics: |-
 
   2
   Kaun aayega bachaane ko tiroṅ se bhai ko
-  Khanjar chalega jab to kise duṅgi main sada
+  Khanjar chalega jab to kise duṅgi maiṅ sada
   Ae sher tu na jaa
 
   3
   Naiza har ek ke haath meiṅ hoga ba-waqt-e-shaam
-  Kis kis se apne sar ki bachaauṅgi main rida
+  Kis kis se apne sar ki bachaauṅgi maiṅ rida
   Ae sher tu na jaa
 
   4

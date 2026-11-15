@@ -1,6 +1,6 @@
 ---
 title: "جو تھا بتول کا وہ عزادار اٹھ گیا"
-alternateTitle: "Jo Tha Batool Ka"
+alternateTitle: "Jo Tha Batul Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

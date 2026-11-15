@@ -20,7 +20,7 @@ romanLyrics: |-
 
   2
   God ho gayi khaali qatl ho gaya waali
-  Kis se main kahuṅ jaa kar haaye jal gaya jhula
+  Kis se maiṅ kahuṅ jaa kar haaye jal gaya jhula
 
   3
   Khun ban ke sadmoṅ se beh raha hai aankhoṅ se

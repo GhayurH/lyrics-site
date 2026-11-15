@@ -36,12 +36,12 @@ romanLyrics: |-
 
   4
   Sine pe jawaaṅ bete ne jab khaai thi barchhi
-  Main dekh rahi thi
+  Maiṅ dekh rahi thi
   Aur zibh hua saamne mere Ali Asghar
   Sadqe ho ye maadar
 
   5
-  Main kis se kahuṅ haaye meri maang bhi ujri
+  Maiṅ kis se kahuṅ haaye meri maang bhi ujri
   Aur kokh bhi ujri
   Mera sa kisi ka bhi na hoyega muqaddar
   Sadqe ho ye maadar

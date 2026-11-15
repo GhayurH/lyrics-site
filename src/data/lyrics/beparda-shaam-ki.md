@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Haaye Zainab haaye baazaar
 
-  Be parda Shaam ki galiyoṅ mein
+  Beparda Shaam ki galiyoṅ meiṅ
   Tathir ki chaadar waali hai
   Kotthoṅ se baraste haiṅ patthar
   Athaara baraadar waali hai
@@ -21,19 +21,19 @@ romanLyrics: |-
   1
   Hasnain ki jo maaṅ jaai hai
   Wo qaidi ban ke aai hai
-  Ik jashn bapa baazaar mein hai
+  Ik jashn bapa baazaar meiṅ hai
   Naamus-e-Payambar waali hai
 
   2
   Sar zakhmi hai zakhmi hai badan
-  Be chaadar hai haathoṅ mein rasan
+  Bechaadar hai haathoṅ meiṅ rasan
   Jurat bhi shujaat bhi lekin
   Abbaas-e-dilaawar waali hai
 
   3
-  Be gor o kafan Islaam tha jab
+  Begor o kafan Islaam tha jab
   De kar chaadar boli Zainab
-  Ye saari sakhaawat khuṅ mein mere
+  Ye saari sakhaawat khuṅ meiṅ mere
   Taasir ye Haidar waali hai
 
   4
@@ -43,7 +43,7 @@ romanLyrics: |-
   Tahrir ye Shabbar waali hai
 
   5
-  Jis waqt azaaṅ raahoṅ mein suni
+  Jis waqt azaaṅ raahoṅ meiṅ suni
   Sar dhaaṅp ke haathoṅ se boli
   Ae naana din ye dard ke haiṅ
   Ye baat muqaddar waali hai
@@ -55,7 +55,7 @@ romanLyrics: |-
   Shamshir Sikandar waali hai
 
   7
-  Darbaar-e-sitam mein shahzaadi
+  Darbaar-e-sitam meiṅ shahzaadi
   Pahunchi to qayaamat barpa thi
   Har ek sitamgar kehta tha
   Ye saaat mahshar waali hai

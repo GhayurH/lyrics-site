@@ -17,7 +17,7 @@ romanLyrics: |-
   Padar ke haath se banta hai dulha
   Bahut masrur hai khush hai Sakina
   Damakta hai khushi se sab ka chehra
-  Lekin main nahiṅ huṅ afsos main nahiṅ huṅ
+  Lekin maiṅ nahiṅ huṅ afsos maiṅ nahiṅ huṅ
 
   1
   Phuphi ammaṅ balaaeṅ le rahi haiṅ
@@ -31,12 +31,12 @@ romanLyrics: |-
   Bithaya maaṅ ne Akbar ke barabar
   Hatheli par rakhi mahendi zara si
   Khare haiṅ paas Abbas Dilawar
-  Mujhe Qasim ne har khaime mein dhunda
+  Mujhe Qasim ne har khaime meiṅ dhunda
 
   3
   Dulhan ke paas baithi hai Sakina
   Bahut masrur hai Ghazi ka beta
-  Chacha Akbar ki shadi ki khushi mein
+  Chacha Akbar ki shadi ki khushi meiṅ
   Naya malbus hai Baqir ne pehna
   Achanak mujh ko Abid ne pukaara
 
@@ -44,29 +44,29 @@ romanLyrics: |-
   Mehek sehre ki ye batla rahi hai
   Sawari Sayyeda ki aa rahi hai
   Najaf se Murtaza aae hue haiṅ
-  Hawa tazeem karne jaa rahi hai
+  Hawa tazim karne jaa rahi hai
   Hai aanchal mil ke sab behnoṅ ne daala
 
   5
   Achanak khwaab tuta royi Sughra
-  Tha ghar mein har taraf chaaya andhera
+  Tha ghar meiṅ har taraf chaaya andhera
   Tha laashoṅ se bhara ganj-e-shahidaṅ
-  Ali Akbar ke sine mein tha naiza
+  Ali Akbar ke sine meiṅ tha naiza
   Mere baba tumheiṅ dene ko pursa
 
   6
   Abhi to khwaab tha kitna suhana
-  Tha jin haathoṅ mein dekha main ne kangna
+  Tha jin haathoṅ meiṅ dekha maiṅ ne kangna
   Wo sine ka lahu roke hue the
   Kahaṅ ki rasm-e-shadi kaisa sehra
   Sabhi dete haiṅ baba ko sahara
 
   7
   Samar behte rahe Sughra ke aaṅsu
-  Bhare Akbar ke khaak o khuṅ mein gesu
+  Bhare Akbar ke khaak o khuṅ meiṅ gesu
   Ali Akbar su-e-jannat sidhaare
-  Fiza mein reh gayi bas khun ki bu
-  Janaza main uthaati mil ke baba
+  Fiza meiṅ reh gayi bas khun ki bu
+  Janaza maiṅ uthaati mil ke baba
 # source_id: nohayonline:7b6a7fab124daf9294c5
 # source_url: https://www.nohayonline.com/details_content.php?id=2387
 # raw_sha256: 333c14ad65601a95602b3f8fe28d709072ca0f14e70170c2c7eb9a0267c386f7

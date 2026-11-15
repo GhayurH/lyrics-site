@@ -28,19 +28,19 @@ romanLyrics: |-
 
   4
   Dam tutta tha us ka jo aankhoṅ ka nur tha
-  Jaati na kaise ran mein basarat Husain ki
+  Jaati na kaise ran meiṅ basarat Husain ki
 
   5
   Beti Ali ki pit ke sar apna reh gai
-  Dasht-e-bala mein dekh ke haalat Husain ki
+  Dasht-e-bala meiṅ dekh ke haalat Husain ki
 
   6
-  Ubhreṅge har zamane mein kuchh waqt ke Yazid
+  Ubhreṅge har zamane meiṅ kuchh waqt ke Yazid
   Har daur ko rahegi zarurat Husain ki
 
   7
-  Har majlis-e-Husain mein aati haiṅ Fatima
-  Jab se hui hai ran mein shahadat Husain ki
+  Har majlis-e-Husain meiṅ aati haiṅ Fatima
+  Jab se hui hai ran meiṅ shahadat Husain ki
 
   8
   Mahshar ka khauf un ko hai hum ko nahiṅ Ghulam

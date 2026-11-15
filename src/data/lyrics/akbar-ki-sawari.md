@@ -18,7 +18,7 @@ romanLyrics: |-
   1
   Khaimoṅ se sadaeṅ aati haiṅ
   Akbar ki sawari jaati hai
-  Khaimoṅ mein bapa hai Wawaila
+  Khaimoṅ meiṅ bapa hai Wawaila
   Akbar ki sawari jaati hai
   Na jaa Akbar na jaa
   Na jaa Akbar na jaa
@@ -49,7 +49,7 @@ romanLyrics: |-
 
   6
   Kuchh der ruko beta Akbar
-  Main tum ko banaa to luṅ dulha
+  Maiṅ tum ko banaa to luṅ dulha
   Afsos na raas aaya sehra
   Akbar ki sawari jaati hai
 

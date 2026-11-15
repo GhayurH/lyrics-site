@@ -16,7 +16,7 @@ romanLyrics: |-
   Ummat ne hai bhulaai tauqir Mustafa ki
   Paamaal ho rahi hai taswir Mustafa ki
 
-  Yasrab mein Karbala mein Mashhad mein Saamarra mein
+  Yasrab meiṅ Karbala meiṅ Mashhad meiṅ Saamarra meiṅ
   Luti hai ummatiyoṅ ne jaagir Mustafa ki
   Paamaal ho rahi hai taswir Mustafa ki
 

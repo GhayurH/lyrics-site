@@ -18,7 +18,7 @@ romanLyrics: |-
   Ham to ghamkhwaar hai rone ke liye aae haiṅ
 
   2
-  Lut gayi Karb o Bala mein Faatima ki beti
+  Lut gayi Karb o Bala meiṅ Faatima ki beti
   Is ke bhaaiyoṅ ke jo sar nezoṅ pe uthwaae haiṅ
 
   3
@@ -27,7 +27,7 @@ romanLyrics: |-
 
   4
   Kar diya qatl bula ke ghar musalmaanoṅ ne
-  Ahl-e-Ahmad ke fard khun mein nahlaae haiṅ
+  Ahl-e-Ahmad ke fard khun meiṅ nahlaae haiṅ
 
   5
   Paani maanga tha laga tir gale Asghar pe

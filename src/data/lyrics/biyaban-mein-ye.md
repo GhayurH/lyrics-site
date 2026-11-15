@@ -1,6 +1,6 @@
 ---
 title: "بیاباں میں یہ کس کا گھر لٹا ہے"
-alternateTitle: "Biyaabaaṅ Mein Ye"
+alternateTitle: "Biyaabaaṅ Meiṅ Ye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,12 +11,12 @@ tags: []
 aliases: ["Biyaban Mein Ye"]
 published: true
 romanLyrics: |-
-  Biyaabaaṅ mein ye kis ka ghar luta hai
+  Biyaabaaṅ meiṅ ye kis ka ghar luta hai
 
   1
   Hai kiuṅ maghmum jangal ki hawaaeṅ
   Ye kiuṅ aansu bahaati hai fizaaeṅ
-  Ye aakhir Karbala mein kya hua hai
+  Ye aakhir Karbala meiṅ kya hua hai
 
   2
   Kahiṅ darya pe ek bedast laasha
@@ -25,8 +25,8 @@ romanLyrics: |-
 
   3
   Ajab raunaq thi kuch bachche yahaaṅ the
-  Aur un ke haath mein the khaali kuze
-  Zara si der mein ye kya hua hai
+  Aur un ke haath meiṅ the khaali kuze
+  Zara si der meiṅ ye kya hua hai
 
   4
   Ye kiuṅ kamsin laboṅ par bebasi hai
@@ -56,16 +56,16 @@ romanLyrics: |-
   9
   Sar-e-naiza kahiṅ ek phul sa sar
   Tabassum hai numaayaaṅ jis ke lab par
-  Rasan basta tadapti maamta hai
+  Rasan basta tarapti maamta hai
 
   10
   Kisi Bibi ki chaadar chhin rahi hai
   Koi Bibi rasan basta khari hai
-  Koi zanjir mein jakra hua hai
+  Koi zanjir meiṅ jakra hua hai
 
   11
   Bahut phaile hue hai zakhmi manzar
-  Rashid un ko sametuṅ ab main kiuṅ kar
+  Rashid un ko sametuṅ ab maiṅ kiuṅ kar
   Ke ye to ek musalsil marsiya hai
 # source_id: nohayonline:5cd273189310e8102579
 # source_url: https://www.nohayonline.com/details_content.php?id=3770

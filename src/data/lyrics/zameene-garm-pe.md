@@ -15,7 +15,7 @@ romanLyrics: |-
 
   1
   Salaam-e-rukhsat-e-aakhir Husain tak pahuncha
-  Hai sakht aalam-e-ghurbat mein laal Zehra ka
+  Hai sakht aalam-e-ghurbat meiṅ laal Zehra ka
   Koi nahiṅ jo bataaye ke hai kahaaṅ laasha
   Husain dhund rahe haiṅ pisar nahiṅ milta
 
@@ -28,32 +28,32 @@ romanLyrics: |-
   3
   Khuda hi jaane ke Shabbir kitne haiṅ beaas
   Na koi bhaai na beta hai ab gharib ke paas
-  Shadid dhup mein reh reh ke barh rahi hai pyaas
+  Shadid dhup meiṅ reh reh ke barh rahi hai pyaas
   Husain kitne haiṅ tanha bichhar gaye Abbas
 
   4
-  Na jaane sakte mein kya sochta hai dil maaṅ ka
+  Na jaane sakte meiṅ kya sochta hai dil maaṅ ka
   Jawaan bete ka kya haal hai suno Laila
   Nikaala bete ke sine se Shah ne jab naiza
-  Lahu mein gharq hai laasha tumhaare bete ka
+  Lahu meiṅ gharq hai laasha tumhaare bete ka
 
   5
   Jigar ko thaame tarapti hai Zainab-e-muztar
-  Zamiṅ pe baithi hai sakte mein ghamzada maadar
+  Zamiṅ pe baithi hai sakte meiṅ ghamzada maadar
   Ye sochti hai kahaaṅ kho gaya mera dilbar
   Nazar ke saamne hai sirf surat-e-Akbar
 
   6
-  Hai khaima gaah mein har simt hashr ka samaaṅ
+  Hai khaima gaah meiṅ har simt hashr ka samaaṅ
   Shabih-e-husn-e-Payambar tha Akbar-e-zishaaṅ
-  Behan ke dil mein tha bhaai ke byaah ka armaaṅ
+  Behan ke dil meiṅ tha bhaai ke byaah ka armaaṅ
   Sakina kehti hai bhaiya kahaaṅ gaye ammaaṅ
 
   7
   Kaleja dekh ke bete ka dil tarapta tha
   Husain dekhte the aur ghar ujarta tha
   Tha aaftaab falak pe abhi ujaala tha
-  Magar Husain ki aankhoṅ mein bas andhera tha
+  Magar Husain ki aankhoṅ meiṅ bas andhera tha
 
   8
   Qadam Husain ke Akhtar zamaana chumega

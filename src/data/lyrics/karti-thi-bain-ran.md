@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Karti thi bain ran mein ro ro ke haaye Zainab
+  Karti thi bain ran meiṅ ro ro ke haaye Zainab
   Ae bhai tera laasha kaise uthaye Zainab
 
   1
@@ -20,7 +20,7 @@ romanLyrics: |-
 
   2
   Kaise uthaye aa kar tapti hui zamiṅ se
-  Saaye mein tera laasha kis tarah laaye Zainab
+  Saaye meiṅ tera laasha kis tarah laaye Zainab
 
   3
   Sunta nahiṅ hai koi faryaad bekasoṅ ki
@@ -32,11 +32,11 @@ romanLyrics: |-
 
   5
   Abbas-e-bawafa ka laasha tarap raha tha
-  Jab ran mein zaalimoṅ ne chhini rida-e-Zainab
+  Jab ran meiṅ zaalimoṅ ne chhini rida-e-Zainab
 
   6
   Sar par rida nahiṅ hai khaime bhi jal chuke haiṅ
-  Maidaaṅ mein ro rahi hai sar ko jhukaye Zainab
+  Maidaaṅ meiṅ ro rahi hai sar ko jhukaye Zainab
 
   7
   Zainab ne yuṅ tarap kar Abbas ko sada di
@@ -44,7 +44,7 @@ romanLyrics: |-
 
   8
   Abbas jald aao chhaane lage andhere
-  Dasht-e-bala mein tanha ghabra na jaaye Zainab
+  Dasht-e-bala meiṅ tanha ghabra na jaaye Zainab
 
   9
   Dil kiuṅ na khun roye jaati hai qaid ho kar

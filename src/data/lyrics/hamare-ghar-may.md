@@ -12,10 +12,10 @@ aliases: ["Hamare Ghar May"]
 published: true
 romanLyrics: |-
   Maula aa rahe haiṅ
-  Hamare ghar mein Maula aa rahe haiṅ
+  Hamare ghar meiṅ Maula aa rahe haiṅ
 
   Azaakhane sajaaye jaa rahe haiṅ
-  Hamare ghar mein Maula aa rahe haiṅ
+  Hamare ghar meiṅ Maula aa rahe haiṅ
 
   1
   Kisi ki bhuk ka sadqa to dekho
@@ -42,8 +42,8 @@ romanLyrics: |-
   Alam Abbas ke lehraa rahe haiṅ
 
   7
-  Aza ka farsh ghar mein bich chuka hai
-  Imam-e-Asr ghar mein aa rahe haiṅ
+  Aza ka farsh ghar meiṅ bich chuka hai
+  Imam-e-Asr ghar meiṅ aa rahe haiṅ
 
   8
   Na phat jaaye kahiṅ maaṅ ka kaleja

@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Khaimoṅ mein alam aaya alamdaar na aaya
+  Khaimoṅ meiṅ alam aaya alamdaar na aaya
   Shabbir ne Zainab ko yehi nauha sunaaya
   Darya pe maara gaya tera alamdaar Zainab
   Zainab Zainab Zainab Zainab Zainab Zainab
@@ -20,9 +20,9 @@ romanLyrics: |-
   Darya pe maara gaya tera alamdaar Zainab
 
   1
-  Haathoṅ mein kuza liye baithe haiṅ pyaase
+  Haathoṅ meiṅ kuza liye baithe haiṅ pyaase
   Hai sab ko aas Zainab us baawafa se
-  Muṅh hum se mor gaya ghurbat mein chhor gaya
+  Muṅh hum se mor gaya ghurbat meiṅ chhor gaya
   Dil mera kehta hai ab jina hai bekaar Zainab
 
   2
@@ -34,13 +34,13 @@ romanLyrics: |-
   3
   Mashk-e-Sakina chhidi kat gae shaane
   Kaise zamiṅ par aaya Allah hi jaane
-  Gurz tha sar pe laga aaṅkh mein tir bhi tha
+  Gurz tha sar pe laga aaṅkh meiṅ tir bhi tha
   Uthna chaaha to na uth paaya wo jarraar Zainab
 
   4
-  Darya pe jab main pahuṅcha laasha uthaane
+  Darya pe jab maiṅ pahuṅcha laasha uthaane
   Ki thi mujh se wasiyyat us baawafa ne
-  Laasha khaimoṅ mein mera Aaqa le kar na jaana
+  Laasha khaimoṅ meiṅ mera Aaqa le kar na jaana
   Ye keh ke chhor gaya mujh ko wafaadaar Zainab
 
   5

@@ -12,10 +12,10 @@ aliases: []
 published: true
 romanLyrics: |-
   Tu jab bhi pukaarega chali aauṅ gi beta
-  Turbat mein bhi aaraam kahaaṅ paauṅ gi beta
+  Turbat meiṅ bhi aaraam kahaaṅ paauṅ gi beta
 
   1
-  Ae lakht-e-jigar nur-e-nazar tum pe main qurbaaṅ
+  Ae lakht-e-jigar nur-e-nazar tum pe maiṅ qurbaaṅ
   Har waqt tere saath rahe gi ye teri maaṅ
   Bin tere kahiṅ chain nahiṅ paauṅ gi beta
 
@@ -30,34 +30,34 @@ romanLyrics: |-
   Ghabraana nahiṅ saath tere jaauṅ gi beta
 
   4
-  Jis waqt qadam rakhega tu Karbobala mein
-  Wallaah chhupa luṅ gi tujhe apni rida mein
+  Jis waqt qadam rakhega tu Karbobala meiṅ
+  Wallaah chhupa luṅ gi tujhe apni rida meiṅ
   Saaye ki tarah saath nazar aauṅ gi beta
 
   5
-  Mat soch ke jazbaat na qaabu mein raheṅ ge
+  Mat soch ke jazbaat na qaabu meiṅ raheṅ ge
   Jis waqt laiṅ khaime hataane ko kaheṅ ge
-  Us waqt main Abbas ko samjhaauṅ gi beta
+  Us waqt maiṅ Abbas ko samjhaauṅ gi beta
 
   6
   Mehrum mere haq se kareṅ ge tujhe zaalim
   Pine ke liye paani na deṅ ge tujhe zaalim
-  Pyaasa main tujhe dekh nahiṅ paauṅ gi beta
+  Pyaasa maiṅ tujhe dekh nahiṅ paauṅ gi beta
 
   7
   Aashur ke din hoga sawa naize pe suraj
   Taa der jo thehrega sawa naize pe suraj
-  Baahoṅ mein chhupaane ko chali aauṅ gi beta
+  Baahoṅ meiṅ chhupaane ko chali aauṅ gi beta
 
   8
-  Baaloṅ se main maqtal ki zamiṅ saaf karuṅ gi
+  Baaloṅ se maiṅ maqtal ki zamiṅ saaf karuṅ gi
   Wallaah ke har lamha wahiṅ baithi rahuṅ gi
   Bichhruṅ gi to aaraam kahaaṅ paauṅ gi beta
 
   9
   Palkoṅ se nikaaluṅ gi sabhi tir badan ke
-  Har aah pe bose main tere luṅ gi dahan ke
-  Main Shimr ke khanjar se lipat jaauṅ gi beta
+  Har aah pe bose maiṅ tere luṅ gi dahan ke
+  Maiṅ Shimr ke khanjar se lipat jaauṅ gi beta
 
   10
   Asif ye sukhan sun ke chale qalb pe khanjar

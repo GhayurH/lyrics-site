@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Abbas Abbas Abbas mere bhaiya
-  Bazaar mein Zainab hai bhaiya bhaiya Abbas
+  Bazaar meiṅ Zainab hai bhaiya bhaiya Abbas
 
   Mere bhai bata do kis ko sada ab tere siwa Abbas
   Bhaiya bhaiya Abbas
@@ -24,13 +24,13 @@ romanLyrics: |-
   Bhaiya bhaiya Abbas bhaiya bhaiya Abbas
 
   2
-  Ghazi mere baba ki jis shehr mein thi shaahi
-  Us shehr mein qaidi hai us shehr ki shehzaadi
+  Ghazi mere baba ki jis shehr meiṅ thi shaahi
+  Us shehr meiṅ qaidi hai us shehr ki shehzaadi
   Tere baad mera kya haal hua aa dekh zara Abbas
   Bhaiya bhaiya Abbas bhaiya bhaiya Abbas
 
   3
-  Main tere sahaare par pardes chali aayi
+  Maiṅ tere sahaare par pardes chali aayi
   Kuchh bhi na raha mera jab tu na raha bhai
   Bin tere safar aur bechaadar dil tut gaya Abbas
   Bhaiya bhaiya Abbas bhaiya bhaiya Abbas

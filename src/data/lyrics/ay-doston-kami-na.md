@@ -55,7 +55,7 @@ romanLyrics: |-
   7
   Kya jaane agle saal jiye ya mareṅ ge hum
   Par qabr meiṅ bhi taaziyadaari kareṅ ge hum
-  Ae be dayaar o be sar o saamaan alwida
+  Ae bedayaar o besar o saamaan alwida
   Ae ummat-e-Rasul ke mehmaan alwida
 
   8

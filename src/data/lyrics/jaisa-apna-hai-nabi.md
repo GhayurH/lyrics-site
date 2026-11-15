@@ -15,21 +15,21 @@ romanLyrics: |-
   Saf shikan dekh liye ek bhi Haidar na mila
   Fatima aisa koi nur ka mehwar na mila
   Aaj tak Shabbar o Shabbir ka hamsar na mila
-  Panjetan paak se kaunain mein behtar na mila
+  Panjetan paak se kaunain meiṅ behtar na mila
 
   1
   Raat bhar tarpa kiya pyaas ke maare ki tarah
   Khaamoshi lab pe thi darya ke kinaare ki tarah
-  Yaad-e-Shah dil mein thi behte hue dhaare ki tarah
+  Yaad-e-Shah dil meiṅ thi behte hue dhaare ki tarah
   Dar-e-Shabbir pe pahuncha hai sitaare ki tarah
   Hur ke maanind nasibe ka Sikandar na mila
 
   2
-  Aam logoṅ mein kahaaṅ nafs-e-Payambar ka jawaab
+  Aam logoṅ meiṅ kahaaṅ nafs-e-Payambar ka jawaab
   Khaak ke putle nahiṅ nur ke paikar ka jawaab
   Har sipaahi kahaaṅ ban jaata hai lashkar ka jawaab
-  Kaise mil jaayega Ashaab mein Haidar ka jawaab
-  Bazm-e-Ashaab mein jab dusra Buzar na mila
+  Kaise mil jaayega Ashaab meiṅ Haidar ka jawaab
+  Bazm-e-Ashaab meiṅ jab dusra Buzar na mila
 
   3
   Baagh-e-Firdaus-e-Iram chaahiye Kausar ke liye
@@ -43,7 +43,7 @@ romanLyrics: |-
   Dil ke rangin nazaaroṅ se unheiṅ kuchh na mila
   Is zamaane ki bahaaroṅ se unheiṅ kuchh na mila
   Behte darya ke kinaaroṅ se unheiṅ kuchh na mila
-  Zindagi mein jinheiṅ Mahir gham-e-Sarwar na mila
+  Zindagi meiṅ jinheiṅ Mahir gham-e-Sarwar na mila
 # source_id: nohayonline:ce0e6cebc12374b729ad
 # source_url: https://www.nohayonline.com/details_content.php?id=1210
 # raw_sha256: 9349e87712a7822bf47027c48aa864c881e9f199671311d6600dcf336c83e296

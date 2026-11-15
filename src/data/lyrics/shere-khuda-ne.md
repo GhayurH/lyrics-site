@@ -11,12 +11,12 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Sher-e-Khuda ne sajde mein talwaar khaayi hai
+  Sher-e-Khuda ne sajde meiṅ talwaar khaayi hai
   Ummat yatim ho gayi ya Rab duhaayi hai
 
   1
   Jab se suni hai naala-e-Jibril ki sada
-  Bechain ghar mein Fatima Zahra ki jaayi hai
+  Bechain ghar meiṅ Fatima Zahra ki jaayi hai
 
   2
   Larzaaṅ hai aasmaan zamiṅ ko hai zalzala
@@ -24,14 +24,14 @@ romanLyrics: |-
 
   3
   Zakhmoṅ se khun jaari hai hoṅtoṅ se zikr-e-Rab
-  Poshaak saari khun mein sar ki nahaayi hai
+  Poshaak saari khun meiṅ sar ki nahaayi hai
 
   4
   Fariyaad kar rahi haiṅ janaaze pe betiyaaṅ
   Ruh-e-janaab-e-Fatima rone ko aayi hai
 
   5
-  Islaam ki nigaah mein andher hai jahaaṅ
+  Islaam ki nigaah meiṅ andher hai jahaaṅ
   Zaalim ne shama-e-qabr-e-Payambar bujhaayi hai
 
   6

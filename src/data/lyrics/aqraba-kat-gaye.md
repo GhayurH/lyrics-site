@@ -16,7 +16,7 @@ romanLyrics: |-
   Dekh maqtal ki taraf karne lage yuṅ zaari
 
   1
-  Khuld ke kuch mein hum ko nahiṅ bulwaate ho
+  Khuld ke kuch meiṅ hum ko nahiṅ bulwaate ho
   Qaafile waalo hameṅ chhore chale jaate ho
   Haye Shah ka na raha koi bhi yaawar baaqi
   Na Alamdar rahe aur na lashkar baaqi
@@ -30,8 +30,8 @@ romanLyrics: |-
   3
   Haye Shabbir ke marne ki hai ab tayyaari
   Zakhm par zakhm lage haiṅ tan-e-Shah par kaari
-  Bhuk mein pyaas mein ghash aate haiṅ sau sau baari
-  Bich mein Ibn-e-Ali gird khare haiṅ naari
+  Bhuk meiṅ pyaas meiṅ ghash aate haiṅ sau sau baari
+  Bich meiṅ Ibn-e-Ali gird khare haiṅ naari
 
   4
   Apni bimaari se sharminda pisar hota hai
@@ -43,7 +43,7 @@ romanLyrics: |-
   Baad baba ke pisar ka nahiṅ jina behtar
   Baap to qatl ho jita rahe ye khasta jigar
   Ahl-e-Bait-e-Nabavi par ye jafaaeṅ hoṅ gi
-  Balwa-e-aam mein sar par na ridaaeṅ hoṅ gi
+  Balwa-e-aam meiṅ sar par na ridaaeṅ hoṅ gi
 # source_id: nohayonline:7e1d7e7f3f51d058dc2e
 # source_url: https://www.nohayonline.com/content_salaam.php?id=31
 # raw_sha256: 68ac7b4508261a741673c898429de592322b2a87c3d5dde889ed0eab6f39c0ca

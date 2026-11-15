@@ -26,58 +26,58 @@ romanLyrics: |-
   Haaṅ mere jigar ke tukre na ro
 
   1
-  Main kaise na rouṅ baba main ujar gayi baba
+  Maiṅ kaise na rouṅ baba maiṅ ujar gayi baba
   Haaṅ mera Akbar haaṅ mera Asghar
   Haaṅ mera Ghazi haaṅ tera dilbar
-  Main ujar gayi baba
+  Maiṅ ujar gayi baba
 
   2
-  Main kaise na rouṅ baba main ujar gayi baba
-  Haaṅ ek din mein haaṅ ghar ujra
+  Maiṅ kaise na rouṅ baba maiṅ ujar gayi baba
+  Haaṅ ek din meiṅ haaṅ ghar ujra
   Haaṅ rahe bhai haaṅ na beta
-  Main ujar gayi baba
+  Maiṅ ujar gayi baba
 
   3
-  Main kaise na rouṅ baba main ujar gayi baba
-  Haaṅ main bekas haaṅ main muztar
-  Haaṅ pardesi haaṅ main beghar
-  Main ujar gayi baba
+  Maiṅ kaise na rouṅ baba maiṅ ujar gayi baba
+  Haaṅ maiṅ bekas haaṅ maiṅ muztar
+  Haaṅ pardesi haaṅ maiṅ beghar
+  Maiṅ ujar gayi baba
 
   4
-  Main kaise na rouṅ baba main ujar gayi baba
+  Maiṅ kaise na rouṅ baba maiṅ ujar gayi baba
   Haaṅ gaya Ghazi haaṅ darya par
   Haaṅ gire baazu haaṅ kat kat kar
-  Main ujar gayi baba
+  Maiṅ ujar gayi baba
 
   5
-  Main kaise rouṅ baba main ujar gayi baba
+  Maiṅ kaise rouṅ baba maiṅ ujar gayi baba
   Haaṅ Sarwar pe haaṅ chala khanjar
-  Haaṅ main ho gayi haaṅ bechaadar
-  Main ujar gayi baba
+  Haaṅ maiṅ ho gayi haaṅ bechaadar
+  Maiṅ ujar gayi baba
 
   6
-  Main kaise na rouṅ baba main ujar gayi baba
+  Maiṅ kaise na rouṅ baba maiṅ ujar gayi baba
   Haaṅ maara hai haaṅ aada ne
   Haaṅ pyaasoṅ ke haaṅ lashkar ko
-  Main ujar gayi baba
+  Maiṅ ujar gayi baba
 
   7
-  Main kaise na rouṅ baba main ujar gayi baba
-  Haaṅ ek chaadar mein dekha
+  Maiṅ kaise na rouṅ baba maiṅ ujar gayi baba
+  Haaṅ ek chaadar meiṅ dekha
   Haaṅ Qasim ka ajab laasha
-  Main ujar gayi baba
+  Maiṅ ujar gayi baba
 
   8
-  Main kaise na rouṅ baba main ujar gayi baba
-  Haaṅ zindaaṅ mein haaṅ jaana hai
-  Haaṅ rassi mein haaṅ shaana hai
-  Main ujar gayi baba
+  Maiṅ kaise na rouṅ baba maiṅ ujar gayi baba
+  Haaṅ zindaaṅ meiṅ haaṅ jaana hai
+  Haaṅ rassi meiṅ haaṅ shaana hai
+  Maiṅ ujar gayi baba
 
   9
-  Main kaise na rouṅ baba main ujar gayi baba
+  Maiṅ kaise na rouṅ baba maiṅ ujar gayi baba
   Haaṅ Rehaan o haaṅ Sarwar ka
   Haaṅ pursa hai haaṅ ye nauha
-  Main ujar gayi baba
+  Maiṅ ujar gayi baba
 # source_id: nohayonline:883f5aa3ff03a4e42831
 # source_url: https://www.nohayonline.com/details_content.php?id=2063
 # raw_sha256: eac736fbf7016fa026af71371cdf6b4dfab9d11d22aac9ad1929ad9cd9e5ca7f

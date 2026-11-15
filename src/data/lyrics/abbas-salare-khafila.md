@@ -33,21 +33,21 @@ romanLyrics: |-
   Biphra hua Sher-e-Ali
   Gird-e-Haram bhi har ghari
   Ek haath hai talwar par
-  Ek mein rasan rahwar ki
+  Ek meiṅ rasan rahwar ki
   Misl-e-Ali barhta raha
 
   3
   Hai sabz saari mahmileṅ
-  Shahzaadiyaṅ mahmil mein haiṅ
+  Shahzaadiyaṅ mahmil meiṅ haiṅ
   Samjha rahi hai sab ko ye
   Zainab tumhaari chaadareṅ
   Qaim raheṅgi ba-Khuda
 
   4
-  Hai dhup mein saaya bara
+  Hai dhup meiṅ saaya bara
   Ghazi ka hai parcham khula
   Koi nahiṅ pyaasa yahaṅ
-  Hai mashk mein paani bhara
+  Hai mashk meiṅ paani bhara
   Hai mutmain chhota bara
 
   5
@@ -67,23 +67,23 @@ romanLyrics: |-
   7
   Zainab ke lab par hai sada
   Shukr-e-Nabi Shukr-e-Khuda
-  Kis mein hai ye himmat bhala
+  Kis meiṅ hai ye himmat bhala
   Is samt jo dekhe zara
   Hai jaante Ahl-e-Jafa
 
   8
   Saaye ki tarah saath hai
   Akbar jawaaṅ Shabbir ke
-  Mahv-e-tawaaf-e-Shah-e-Din
+  Mahv-e-tawaaf-e-Shah-e-Diṅ
   Zainab ke donoṅ laadle
   Hamraah Zainab ki dua
 
   9
   Baqir se ye kehne lagi
   Baali Sakina Shah ki
-  In rastoṅ mein to hameṅ
+  In rastoṅ meiṅ to hameṅ
   Taklif na hogi koi
-  Hai saath mein mere chacha
+  Hai saath meiṅ mere chacha
 
   10
   Farhan aur Mazhar suno

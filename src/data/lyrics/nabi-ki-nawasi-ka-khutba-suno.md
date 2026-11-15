@@ -15,33 +15,33 @@ romanLyrics: |-
 
   1
   Jurat mere dadhiyaal ke aangan se chali hai
-  Ismat mere nanhiya ke gulshan mein pali hai
+  Ismat mere nanhiya ke gulshan meiṅ pali hai
   Wallaah mere ghar ka har ik fard wali hai
-  Jis baap ki zinat huṅ wo rutbe mein Ali hai
-  Main Haidar-e-Karraar ki aks laguṅ gi
+  Jis baap ki zinat huṅ wo rutbe meiṅ Ali hai
+  Maiṅ Haidar-e-Karraar ki aks laguṅ gi
   Boluṅ gi to Ghaazi ko bhi Abbas laguṅ gi
 
   2
   Har khwaab ko sharminda-e-taabir karuṅ gi
-  Baaba hi ke andaaz mein taqrir karuṅ gi
-  Darbaar mein bas midhat-e-Shabbir karuṅ gi
+  Baaba hi ke andaaz meiṅ taqrir karuṅ gi
+  Darbaar meiṅ bas midhat-e-Shabbir karuṅ gi
   Taarikh ke sine pe ye tahrir karuṅ gi
-  Maidan mein dar jaati hai Farraar ki beti
-  Darbaar mein dat jaati hai Karraar ki beti
+  Maidan meiṅ dar jaati hai Farraar ki beti
+  Darbaar meiṅ dat jaati hai Karraar ki beti
 
   3
   Aaeiṅ ge nazar Haidar-e-Karraar ke tewar
-  Lehje se dikha duṅ gi main talwaar ke tewar
+  Lehje se dikha duṅ gi maiṅ talwaar ke tewar
   Yaad aaeiṅ ge aada ko Alamdaar ke tewar
   Dekhe ga Khuda khud meri guftaar ke tewar
   Tabrik mile mujh ko Muhammad ki taraf se
-  Khutba jo parhuṅ Shaam mein daad aaye Najaf se
+  Khutba jo parhuṅ Shaam meiṅ daad aaye Najaf se
 
   4
-  Soi hui taqdir jaga sakti huṅ main bhi
-  Zehnoṅ ke khayaalaat bata sakti huṅ main bhi
-  Har raah ki diwaar gira sakti huṅ main bhi
-  Phir dar pe sitaaroṅ ko bula sakti huṅ main bhi
+  Soi hui taqdir jaga sakti huṅ maiṅ bhi
+  Zehnoṅ ke khayaalaat bata sakti huṅ maiṅ bhi
+  Har raah ki diwaar gira sakti huṅ maiṅ bhi
+  Phir dar pe sitaaroṅ ko bula sakti huṅ maiṅ bhi
   Yuṅ dast-e-Yadullaah ka ejaaz dikha duṅ
   Chaahuṅ to abhi Shaam ko dunya se mita duṅ
 
@@ -54,10 +54,10 @@ romanLyrics: |-
   Khud dekh le uncha hai wo sar aaj bhi tujh se
 
   6
-  Lamhaat mein ye moajiza kar jaata hai Shabbir
-  Marta nahiṅ zehnoṅ mein utar jaata hai Shabbir
-  Simte to ikaai mein nikhar jaata hai Shabbir
-  Phaile to bahattar mein bikhar jaata hai Shabbir
+  Lamhaat meiṅ ye moajiza kar jaata hai Shabbir
+  Marta nahiṅ zehnoṅ meiṅ utar jaata hai Shabbir
+  Simte to ikaai meiṅ nikhar jaata hai Shabbir
+  Phaile to bahattar meiṅ bikhar jaata hai Shabbir
   Tauhid ki izzat ko bachaaya hai isi ne
   Islaam ko Islaam banaaya hai isi ne
 
@@ -67,7 +67,7 @@ romanLyrics: |-
   Deiṅ gi teri zillat ki sab aqwaam gawaahi
   Ab aa hi gai huṅ to karuṅ gi yahaaṅ shaahi
   Kar duṅ gi qalam mufti-e-kaazib ke qalam ko
-  Ghar ghar pe laga duṅ gi main Ghaazi ke alam ko
+  Ghar ghar pe laga duṅ gi maiṅ Ghaazi ke alam ko
 # source_id: tajpoints:81b12827f000736d63d3
 # source_url: https://tajpoints.com/2018/02/nabi-ki-nawasi-ka-khutba-suno.html
 # raw_sha256: f95436cc119383483f2333a01afac1915ce17db14b454e7f653536642b30c938

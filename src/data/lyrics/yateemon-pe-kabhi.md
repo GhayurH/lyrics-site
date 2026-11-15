@@ -1,6 +1,6 @@
 ---
 title: "یتیموں پہ کبھی لوگوں ستم ڈھایا نہیں کرتے"
-alternateTitle: "Yateemon Pe Kabhi"
+alternateTitle: "Yatimoṅ Pe Kabhi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,27 +11,27 @@ aliases: []
 published: true
 romanLyrics: |-
   Yatimoṅ pe kabhi logoṅ sitam dhaaya nahiṅ karte
-  Kabhi taarik zindaaṅ mein unheṅ laaya nahiṅ karte
+  Kabhi taarik zindaaṅ meiṅ unheṅ laaya nahiṅ karte
 
   1
   Rida sar pe na ho aur haath baandhe ho pas-e-gardan
   Kisi ko baap ke laashe pe yuṅ laaya nahiṅ karte
 
   2
-  Lahu kaanoṅ se ho jaari lagi ho aag kurte mein
-  Is haalat mein kisi bachchi ko tarpaaya nahiṅ karte
+  Lahu kaanoṅ se ho jaari lagi ho aag kurte meiṅ
+  Is haalat meiṅ kisi bachchi ko tarpaaya nahiṅ karte
 
   3
   Khaaye paani ke badle jo tamaache wo Sakina ne
   Kisi pyaasi ko paani yuṅ to pilwaaya nahiṅ karte
 
   4
-  Muhammad ke nawaase ko kiya hai qatl sajde mein
+  Muhammad ke nawaase ko kiya hai qatl sajde meiṅ
   Pidar ke sar ko sang beti ke le jaaya nahiṅ karte
 
   5
   Darakhtoṅ ke tale ghore khare ho Shaamiyoṅ ke bich
-  Safar mein kiuṅ Sakina pe laiṅ saaya nahiṅ karte
+  Safar meiṅ kiuṅ Sakina pe laiṅ saaya nahiṅ karte
 
   6
   Yatimi ki saroṅ pe khaak ho jin ke Musalmaanoṅ

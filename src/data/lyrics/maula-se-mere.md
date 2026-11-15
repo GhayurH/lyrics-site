@@ -28,7 +28,7 @@ romanLyrics: |-
   Sar nange phuphi khaime se baahar nikal aai
 
   2
-  Maqtal mein qiyaamat ki ghata chha gai Akbar
+  Maqtal meiṅ qiyaamat ki ghata chha gai Akbar
   Na jaane tujhe kis ki nazar kha gai Akbar
   Din byaah ke aaye to ajal aa gai Akbar
   Uth jaao mere laal phuphi aa gai Akbar
@@ -36,7 +36,7 @@ romanLyrics: |-
   3
   Bano ka yeh armaan tha dulhan byaah ke laati
   Is chaand se chehre pe woh sehra bhi sajaati
-  Sughra tere in haathoṅ mein mehndi bhi rachaati
+  Sughra tere in haathoṅ meiṅ mehndi bhi rachaati
   Khud karti har ek kaam na bhaabhi se karaati
 
   4
@@ -47,7 +47,7 @@ romanLyrics: |-
 
   5
   Sardar azaadaar-e-Husain aaye haiṅ purnam
-  Jab tak bhi dharakte hue sinoṅ mein rahe dam
+  Jab tak bhi dharakte hue sinoṅ meiṅ rahe dam
   Barpa Ali Akbar ka kareṅge yuṅhi maatam
   Uth jaayeṅge duniya se to reh jaayega yeh gham
 # source_id: nohayonline:2de021be3afa6a25e67a

@@ -21,7 +21,7 @@ romanLyrics: |-
   Sab ke liye karuṅgi dua saath le chalo
 
   2
-  Akbar ki did mein hai meri zindagi ka raaz
+  Akbar ki did meiṅ hai meri zindagi ka raaz
   Akbar se yuṅ karo na juda saath le chalo
   Sab ke liye karuṅgi dua saath le chalo
 
@@ -31,7 +31,7 @@ romanLyrics: |-
   Sab ke liye karuṅgi dua saath le chalo
 
   4
-  Jangal mein nikle dam to wahiṅ dafn kijiye
+  Jangal meiṅ nikle dam to wahiṅ dafn kijiye
   Hargiz nahiṅ karuṅgi gila saath le chalo
   Sab ke liye karuṅgi dua saath le chalo
 

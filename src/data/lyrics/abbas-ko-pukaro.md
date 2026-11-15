@@ -39,7 +39,7 @@ romanLyrics: |-
 
   3
   Ek pyasi bhatiji ki Ammu se guzarish hai
-  Hum sab ki duaaoṅ mein ye mashk sifarish hai
+  Hum sab ki duaaoṅ meiṅ ye mashk sifarish hai
   Samjho ko ataaoṅ ki din raat jo baarish hai
   Radd hogi dua kaise Ammu hai Sakina ke
   Abbas ko pukaro
@@ -48,7 +48,7 @@ romanLyrics: |-
   4
   Munh mor liya sab ne kya chhor diya sab ne
   Haalat se tang aa ke dil chhota nahiṅ karte
-  Abbas ki surat mein ek aas to baqi hai
+  Abbas ki surat meiṅ ek aas to baqi hai
   Har gham se nikaalega sine se laga lega
   Abbas ko pukaro
   Bab-ul-Hawaij Alamdar Alamdar
@@ -56,7 +56,7 @@ romanLyrics: |-
   5
   Jo dil pe guzarti hai har baat bataani hai
   Bimaari pareshani sab in ko sunaani hai
-  Main ne to har ek mannat Abbas se maani hai
+  Maiṅ ne to har ek mannat Abbas se maani hai
   Maayus na jaoge jo maaṅga wo paaoge
   Abbas ko pukaro
   Bab-ul-Hawaij Alamdar Alamdar
@@ -78,8 +78,8 @@ romanLyrics: |-
   Bab-ul-Hawaij Alamdar Alamdar
 
   8
-  Maslak hai wafaadaari fitrat mein jalaali hai
-  Ye apni sakhaawat mein dunya mein misaali hai
+  Maslak hai wafaadaari fitrat meiṅ jalaali hai
+  Ye apni sakhaawat meiṅ dunya meiṅ misaali hai
   Kab haath faqiroṅ ki is sher ne taali hai
   Lab hilne nahiṅ paaye aur jholiyaṅ bhar jaayeṅ
   Abbas ko pukaro

@@ -14,7 +14,7 @@ romanLyrics: |-
   1
   Dua Rasul ki puri hui Ghadir ke din
   Nabi ki apni nabuwwat bachi Ghadir ke din
-  Nazar nazar mein hai Khum-e-Ghadir ka manzar
+  Nazar nazar meiṅ hai Khum-e-Ghadir ka manzar
   Zabaan zabaan pe hai Maula Ali Ghadir ke din
 
   2
@@ -24,14 +24,14 @@ romanLyrics: |-
   Lab-e-Rasul pe jo thi hansi Ghadir ke din
 
   3
-  Khuda ne sehra mein Kausar ke jaam chhalkaaye
+  Khuda ne sehra meiṅ Kausar ke jaam chhalkaaye
   Kisi ke lab pe na thi tashnagi Ghadir ke din
   Ali ke sar pe wilaayat ka taaj aisa saja
-  Samajh mein aai Abu Taalibi Ghadir ke din
+  Samajh meiṅ aai Abu Taalibi Ghadir ke din
 
   4
   Ali ko haathoṅ pe apne utha ke bole Rasul
-  Bata raha huṅ main shaan-e-Ali Ghadir ke din
+  Bata raha huṅ maiṅ shaan-e-Ali Ghadir ke din
   Hazaar Eideṅ karoroṅ Shab-e-Baraat nisaar
   Mila zamaane ko Maula sakhi Ghadir ke din
 

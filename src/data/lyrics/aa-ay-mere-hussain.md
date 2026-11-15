@@ -1,6 +1,6 @@
 ---
 title: "آ اے میرے حسین میری گود میں آجا"
-alternateTitle: "Aa Ae Mere Husain Meri God Mein Aaja"
+alternateTitle: "Aa Ae Mere Husain Meri God Meiṅ Aaja"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -13,29 +13,29 @@ published: true
 romanLyrics: |-
   Aashur ka suraj hai qayamat ki ghari hai
   Bhai ka gala katta behan dekh rahi hai
-  Maqtal mein kisi maaṅ ki sada gunj rahi hai
-  Aa ae mere Husain meri god mein aaja
-  Aaja mere bache meri aaghosh mein aaja
+  Maqtal meiṅ kisi maaṅ ki sada gunj rahi hai
+  Aa ae mere Husain meri god meiṅ aaja
+  Aaja mere bache meri aaghosh meiṅ aaja
 
   1
   Mere liye ae laal tu Asghar ki tarah hai
   Godi meri gehwara hai bistar ki tarah hai
-  Is dhup mein daaman mera chaadar ki tarah hai
+  Is dhup meiṅ daaman mera chaadar ki tarah hai
 
   2
-  Main maaṅ huṅ mera dil nahiṅ sine mein sambhalta
+  Maiṅ maaṅ huṅ mera dil nahiṅ sine meiṅ sambhalta
   Naazuk ye badan tera ye jalta hua sehra
   Aur us pe sitam ye hai ke tu reh gaya pyaasa
 
   3
-  Main god mein le luṅ tujhe sine se laga luṅ
+  Maiṅ god meiṅ le luṅ tujhe sine se laga luṅ
   Sine pe Sakina ki tarah tujh ko sula luṅ
-  Sine ke tere tir main palkoṅ se nikaaluṅ
+  Sine ke tere tir maiṅ palkoṅ se nikaaluṅ
 
   4
   Aakar mere zaanu pe jo so jaate the beta
   Chakki ki mashaqqat pe bhi pehlu nahiṅ badla
-  Ab kaise tujhe chhor duṅ maqtal mein akela
+  Ab kaise tujhe chhor duṅ maqtal meiṅ akela
 
   5
   Teri bhi to aulaad hai tu bhi to padar hai
@@ -48,14 +48,14 @@ romanLyrics: |-
   Mat khaak pe so laal teri maaṅ hai yahiṅ par
 
   7
-  Jo dil pe tere guzri main sab dekh rahi thi
-  Har laash uthaane mein tere saath gayi thi
-  Ab baat wo kehti huṅ jo bachpan mein kahi thi
+  Jo dil pe tere guzri maiṅ sab dekh rahi thi
+  Har laash uthaane meiṅ tere saath gayi thi
+  Ab baat wo kehti huṅ jo bachpan meiṅ kahi thi
 
   8
-  Nauhe mein bayaaṅ kaise kareṅ Sarwar o Rehaan
+  Nauhe meiṅ bayaaṅ kaise kareṅ Sarwar o Rehaan
   Parh sakta nahiṅ koi bhi ye dard ka Quraan
-  Maaṅ kehti thi reh jaye na dil mein mere armaan
+  Maaṅ kehti thi reh jaye na dil meiṅ mere armaan
 
 # source_id: nohayonline:98a8a5ed86c9e7ed1f2e
 # source_url: https://www.nohayonline.com/details_content.php?id=343

@@ -10,7 +10,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Arbaeen ke sogwaaro alwida
+  Arbaiṅ ke sogwaaro alwida
   Aakhri majlis hai yaaro alwida
 
   1

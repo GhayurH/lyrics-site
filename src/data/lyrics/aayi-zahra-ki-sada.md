@@ -23,9 +23,9 @@ romanLyrics: |-
   Aakhri beta mera
 
   2
-  Soch kar nind mein ye pyaas se jaage na kahiṅ
-  Pani le kar main khari rehti thi
-  Kis tarha dekhe ye maaṅ to sarhane pe yahan
+  Soch kar nind meiṅ ye pyaas se jaage na kahiṅ
+  Pani le kar maiṅ khari rehti thi
+  Kis tarha dekhe ye maaṅ to sarhane pe yahaṅ
   Le ke khanjar hai khara
 
   3
@@ -35,7 +35,7 @@ romanLyrics: |-
   Haye Zainab ki rida
 
   4
-  Main Sakina se tujhe maang ke la duṅgi gauhar
+  Maiṅ Sakina se tujhe maang ke la duṅgi gauhar
   Le le sab ahl-e-haram ke zewar
   Maaṅ ka phatta hai jigar itni tauhin na kar
   Pair sine se hata
@@ -50,12 +50,12 @@ romanLyrics: |-
   Baad maaṅ ke jo behen Shah ki maaṅ jaisi thi
   Jis ghari khaime se woh nikli thi
   Khushk tha Sheh ka gala zer-e-lab itna kaha
-  Ja behen khaime mein ja
+  Ja behen khaime meiṅ ja
 
   7
   Qatl maadar hui hamshir bhi beti bhi hui
   Jab chhuri Shah pe Akbar thi chali
-  Kya qayamat tha samaṅ tanha mazlum kahan
+  Kya qayamat tha samaṅ tanha mazlum kahaṅ
   Qatl khanjar se hua
 # source_id: nohayonline:72643a1a678cb724d27f
 # source_url: https://www.nohayonline.com/details_content.php?id=2715

@@ -21,7 +21,7 @@ romanLyrics: |-
   O mera Pir Ghazi
 
   1
-  Duniya mein jis ka ye parcham ye sohna
+  Duniya meiṅ jis ka ye parcham ye sohna
   Ghar ghar saja hai o mera Pir Ghazi
 
   2
@@ -45,13 +45,13 @@ romanLyrics: |-
   5
   Neze pe aaya jab Maula Ghazi
   Behnoṅ ke sar par chaadar nahiṅ thi
-  Saare safar mein rahi band aankheṅ
+  Saare safar meiṅ rahi band aankheṅ
   Haaṅ rota raha hai o mera Pir Ghazi
 
   6
   Bhuleṅ ge ham ye manzar kabhi na
   Roti tarapti dar par Sakina
-  Pyaasi Sakina tere gham mein chaacha
+  Pyaasi Sakina tere gham meiṅ chaacha
   Haaṅ pyaasa gaya hai o mera Pir Ghazi
 
   7

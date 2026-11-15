@@ -17,10 +17,10 @@ romanLyrics: |-
   Dil-e-Aabid ka har ek zakhm dikhaate haiṅ tumheṅ
   Khud bhi rote haiṅ sar-e-bazm rulaate haiṅ tumheṅ
   Jalte khaimoṅ se jo sholoṅ ki lapak aati hai
-  Shaam ke dasht mein bijli si chamak jaati hai
+  Shaam ke dasht meiṅ bijli si chamak jaati hai
 
   2
-  Saf-e-maatam hai bapa is mein bhi shirkat ho jaaye
+  Saf-e-maatam hai bapa is meiṅ bhi shirkat ho jaaye
   Chand aansuṅ jo baha loge ibaadat ho jaaye
   Sar khule aao ke takmil-e-mohabbat ho jaaye
   Is tarah Hazrat-e-Shabbir ki baiat ho jaaye
@@ -28,16 +28,16 @@ romanLyrics: |-
   Yehi majlis hai jahaaṅ Ahmad-e-Mukhtaar bhi hai
 
   3
-  Chashm-e-Haider mein hai aansuṅ zara maatam kar lo
-  Saf azaadaar ki is bazm mein qiyaam kar lo
+  Chashm-e-Haider meiṅ hai aansuṅ zara maatam kar lo
+  Saf azaadaar ki is bazm meiṅ qiyaam kar lo
   Jo taalluq hai nabi zaadoṅ se mohkam kar lo
-  Gham-e-Shabbir ko har haal mein mahram kar lo
+  Gham-e-Shabbir ko har haal meiṅ mahram kar lo
   Ya Husain ibn-e-Ali ibn-e-Ali kehte raho
   Ashk ban ban ke sar-e-Karb o Bala behte raho
 
   4
   Dekho Shabbir ka kuchla hua laasha dekho
-  Nanhi si qabr mein Asghar ka janaaza dekho
+  Nanhi si qabr meiṅ Asghar ka janaaza dekho
   Ali Akbar ka ubalta hua sina dekho
   Kitna majbur hai saqqa-e-Sakina dekho
   Bhaai ne paai shahaadat raha tanha bhaai
@@ -52,12 +52,12 @@ romanLyrics: |-
   Zaalimoṅ ne bari shiddat se haram lute haiṅ
 
   6
-  Kahiṅ Yaasin kahiṅ Taaha ki tajalli un mein
-  Kahiṅ Rahmaan o Muzzammil ki tashaffi un mein
-  Kahiṅ Kausar kahiṅ Isra ki taalli un mein
-  Kahiṅ Tathir ki purnur tasalli un mein
+  Kahiṅ Yaasin kahiṅ Taaha ki tajalli un meiṅ
+  Kahiṅ Rahmaan o Muzzammil ki tashaffi un meiṅ
+  Kahiṅ Kausar kahiṅ Isra ki taalli un meiṅ
+  Kahiṅ Tathir ki purnur tasalli un meiṅ
   Naam hum kaun sa le saikroṅ naam un ke haiṅ
-  Aarzoo jin ka nahiṅ koi imaam un ke haiṅ
+  Aarzu jin ka nahiṅ koi imaam un ke haiṅ
 # source_id: nohayonline:0f71940c8e45a3792b70
 # source_url: https://www.nohayonline.com/details_content.php?id=3461
 # raw_sha256: aa85a4314ec40da38761934891fc3c3cb26b1715d3b067017b8176e4126e92c3

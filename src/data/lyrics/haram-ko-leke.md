@@ -28,7 +28,7 @@ romanLyrics: |-
 
   4
   Use giraana tha khutboṅ se Shaam ka Khaibar
-  Ali ke lehje mein kiuṅ kar na bolti Zainab
+  Ali ke lehje meiṅ kiuṅ kar na bolti Zainab
 
   5
   Ali ko jo shab-e-hijrat Khuda ne bechi thi
@@ -39,7 +39,7 @@ romanLyrics: |-
   Gayi hai Shaam talak tere tashnagi Zainab
 
   7
-  The ek rasan mein jo baarah gale rasan basta
+  The ek rasan meiṅ jo baarah gale rasan basta
   Rasan khuli to Sakina nahiṅ rahi Zainab
 
   8
@@ -48,10 +48,10 @@ romanLyrics: |-
 
   9
   Badan shikasta rasan basta majma-e-aada
-  Azaaṅ mein naam-e-Nabi sun ke ro pari Zainab
+  Azaaṅ meiṅ naam-e-Nabi sun ke ro pari Zainab
 
   10
-  Kisi ne maanga kanizi mein jab Sakina ko
+  Kisi ne maanga kanizi meiṅ jab Sakina ko
   Jigar pakar ke pukaari Ali Ali Zainab
 
   11

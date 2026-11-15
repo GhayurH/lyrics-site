@@ -35,7 +35,7 @@ romanLyrics: |-
   3
   Hum aane waali nasloṅ ko
   Yehi baateṅ bataayeṅge
-  Jo hai aaghosh-e-maadar mein
+  Jo hai aaghosh-e-maadar meiṅ
   Unheṅ maatam sikhaayeṅge
   Aqide ki zaminoṅ par
   Shajar kaari na chhoreṅge
@@ -74,7 +74,7 @@ romanLyrics: |-
 
   8
   Haram bhi saath hai tere
-  Safar mein Ae meri dukhiya
+  Safar meiṅ Ae meri dukhiya
   Sar-e-Shabbir beti se
   Ye dauraan-e-safar bola
   Tumhaara saath ye qaidi
@@ -84,7 +84,7 @@ romanLyrics: |-
   Yehi haq baat hai logoṅ
   Kahe Farhan aur Mazhar
   Ibaadat se ibaadat ka
-  Taqaabul hum kareṅ kiun kar
+  Taqaabul hum kareṅ kiuṅ kar
   Namaazeṅ bhi parheṅge hum
   Azaadaari na chhoreṅge
 # source_id: nohayonline:ff2b6e58382772fcf750

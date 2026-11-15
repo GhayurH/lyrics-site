@@ -1,6 +1,6 @@
 ---
 title: "مسجدِ کوفہ میں زخمی ہو گیا ایک روزہ دار"
-alternateTitle: "Masjid-e-Kufa Mein"
+alternateTitle: "Masjid-e-Kufa Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,28 +11,28 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Masjid-e-Kufa mein zakhmi ho gaya ek rozadaar
+  Masjid-e-Kufa meiṅ zakhmi ho gaya ek rozadaar
   Zainab o Kulsum ki ab khair ho Parwardigaar
 
   1
   Is namaazi ne namak se ki thi sahri ya Khuda
-  Ibn-e-Muljim ne kiya hai sajda-e-khaaliq mein waar
+  Ibn-e-Muljim ne kiya hai sajda-e-khaaliq meiṅ waar
 
   2
   Khun se tar ho gayi mehraab zakhmi ae Ali
-  Betiyaṅ ghar mein tarap kar kar rahi haiṅ intezaar
+  Betiyaṅ ghar meiṅ tarap kar kar rahi haiṅ intezaar
 
   3
   Shabbar o Shabbir rote haiṅ Ali ko dekh kar
-  Masjid-e-Kufa mein hai saare namaazi sogwaar
+  Masjid-e-Kufa meiṅ hai saare namaazi sogwaar
 
   4
-  Dekh kar Haidar ko zakhmi ghash mein hai Ummul Banin
+  Dekh kar Haidar ko zakhmi ghash meiṅ hai Ummul Banin
   Aur hai chhote se Abbas-e-dilaawar ashk baar
 
   5
   Nauha parhta hai musalla hai namaazeṅ maatami
-  Aaj se Haidar ke gham mein hai azaaneṅ gham gusaar
+  Aaj se Haidar ke gham meiṅ hai azaaneṅ gham gusaar
 
   6
   Dekh kar Zainab ko Haidar jaane kiuṅ rone lage

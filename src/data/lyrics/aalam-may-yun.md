@@ -26,7 +26,7 @@ romanLyrics: |-
   Kehna parega juzv-e-risalat hai Fatima
 
   4
-  Dono ke ishteraak se sajda qubool hai
+  Dono ke ishteraak se sajda qubul hai
   Haider agar namaz hai niyat hai Fatima
 # source_id: nohayonline:b4bdf8bd94bda87db2b7
 # source_url: https://www.nohayonline.com/details_content.php?id=1621

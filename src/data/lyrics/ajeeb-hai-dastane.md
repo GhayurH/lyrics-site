@@ -20,7 +20,7 @@ romanLyrics: |-
   Ye to kal ki baat thi khud apni
   Aankhoṅ se dekha tha
   Maulai ka taaj Nabi ne
-  Khumm mein is ko ata kiya
+  Khumm meiṅ is ko ata kiya
 
   2
   Ek hi nur ke do tukre haiṅ
@@ -28,7 +28,7 @@ romanLyrics: |-
   Donoṅ hi mahbub-e-Ilahi
   Donoṅ ko Meraj hui
   Ek ko Haq ne kar diya zaahir
-  Ek parde mein chhupa diya
+  Ek parde meiṅ chhupa diya
 
   3
   Zindabad hai jazba-e-maatam
@@ -47,7 +47,7 @@ romanLyrics: |-
   Tum ne wo dar jala diya
 
   5
-  Haathoṅ mein hai Shimr ke khanjar
+  Haathoṅ meiṅ hai Shimr ke khanjar
   Zaanoṅ ke niche hai Husain
   Khaime ke dar par karti hai
   Zainab sar khole hue bain
@@ -63,7 +63,7 @@ romanLyrics: |-
   Nabi ke ghar ko jala diya
 
   7
-  Aise mein ek bachchi nikli
+  Aise meiṅ ek bachchi nikli
   Khaimoṅ se ghabrai hui
   Khun tapakta tha kaanoṅ se
   Rukh pe yatimi chhai hui
@@ -71,11 +71,11 @@ romanLyrics: |-
   Aur Shimr tamaanche maarta tha
 
   8
-  Daman mein thi aag lagi aur
+  Daman meiṅ thi aag lagi aur
   Su-e-Najaf tha rukh us ka
   Roti thi chillati thi
   De rahi thi Baba ko sada
-  Ruth gaye kiun aap Sakina se
+  Ruth gaye kiuṅ aap Sakina se
   Baba kya ki thi khata
 
   9

@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Kab tak diwaana Shah ka kare intizaar Maula
-  Ziyaarat ki aarzu mein hai dil beqaraar Maula
+  Ziyaarat ki aarzu meiṅ hai dil beqaraar Maula
   Rauze ko chumne ki saadat hameṅ nasib ho
 
   2
@@ -27,11 +27,11 @@ romanLyrics: |-
   3
   Hum jaise aasiyoṅ tera dar hai ik sahaara
   Waabasta aap se hai ye ummid ab hamaara
-  Karbal mein jaa ke kar luṅ gunaah maaf ye nasib ho
+  Karbal meiṅ jaa ke kar luṅ gunaah maaf ye nasib ho
 
   4
   Muddat se aarzu hai hai dil beqaraar Maula
-  Rauze ki jaal thaam ke nauha parhuṅ main Maula
+  Rauze ki jaal thaam ke nauha parhuṅ maiṅ Maula
   In aansuoṅ ka tohfa karuṅ pesh ye nasib ho
 
   5
@@ -41,12 +41,12 @@ romanLyrics: |-
 
   6
   Karbobala ka manzar kitna hasin hoga
-  Hum sab ki tasawwur mein rehta hai Shah ka rauza
+  Hum sab ki tasawwur meiṅ rehta hai Shah ka rauza
   Marne se pehle dekhuṅ wo manzar jinaaṅ nasib ho
 
   7
-  Ahsan ye dil mein hasrat liye ji raha hai Aazam
-  Karbobala mein ik din karuṅ ga zarur maatam
+  Ahsan ye dil meiṅ hasrat liye ji raha hai Aazam
+  Karbobala meiṅ ik din karuṅ ga zarur maatam
   Ik pal na thamne paae wahaaṅ ashk-e-gham nasib ho
 # source_id: nohayonline:b4ee829d67c95f66f232
 # source_url: https://www.nohayonline.com/details_content.php?id=1469

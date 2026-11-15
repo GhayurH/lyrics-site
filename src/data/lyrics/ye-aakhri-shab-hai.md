@@ -18,7 +18,7 @@ romanLyrics: |-
   Ye aakhri shab hai ye aakhri shab hai
 
   1
-  Bachchoṅ se kaho khaime mein wo chain se soye
+  Bachchoṅ se kaho khaime meiṅ wo chain se soye
   Dar dar ke na roye
   Zinda hai abhi Zainab o Kulsum ka bhaai
 
@@ -53,12 +53,12 @@ romanLyrics: |-
   Shabbir se kehti hai ye Shabbir ki jaai
 
   8
-  Ho jaayega zanjir-e-sitam mein wo giraftaar
+  Ho jaayega zanjir-e-sitam meiṅ wo giraftaar
   Hai ghash jo bimaar
-  Jal jaayegi kal sholoṅ mein Abid ki chataai
+  Jal jaayegi kal sholoṅ meiṅ Abid ki chataai
 
   9
-  Kal khuṅ mein naha jaayega Shabbir ka lashkar
+  Kal khuṅ meiṅ naha jaayega Shabbir ka lashkar
   Ae Aamir o Nayyar
   Ab hashr talak royegi pyaasoṅ ko khudaai
 # source_id: nohayonline:ecfadd4ce4e9158fe432

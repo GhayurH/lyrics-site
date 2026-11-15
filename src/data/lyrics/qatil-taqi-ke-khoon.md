@@ -16,14 +16,14 @@ romanLyrics: |-
 
   1
   Badla hai kaisa waqt watan chhorna para
-  Yasrab mein saans lena bhi dushwaar ho gaya
+  Yasrab meiṅ saans lena bhi dushwaar ho gaya
 
   2
   Kal tak gham-e-Raza se jigar taar taar tha
   Aur aaj dil Taqi ka azaadaar ho gaya
 
   3
-  Pardes mein khud apni hi ghurbat ko dekh kar
+  Pardes meiṅ khud apni hi ghurbat ko dekh kar
   Taaza gham-e-Husain phir ek baar ho gaya
 
   4
@@ -39,15 +39,15 @@ romanLyrics: |-
   Ibn-e-Raza pe zulm ka jab waar ho gaya
 
   7
-  Jab zehr se Taqi ke badan mein hua asar
-  Turbat mein Mujtaba ka dil afgaar ho gaya
+  Jab zehr se Taqi ke badan meiṅ hua asar
+  Turbat meiṅ Mujtaba ka dil afgaar ho gaya
 
   8
-  Bait-e-Ali mein gunji sada wa Mohammada
+  Bait-e-Ali meiṅ gunji sada wa Mohammada
   Sun kar jise khud arsh bhi ghamkhwaar ho gaya
 
   9
-  Aankhoṅ se khun behne laga Kaazimain mein
+  Aankhoṅ se khun behne laga Kaazimain meiṅ
   Jis dam Jawad Imam ka zawwaar ho gaya
 # source_id: nohayonline:34346502a38eeb2f1b1f
 # source_url: https://www.nohayonline.com/details_content.php?id=1272

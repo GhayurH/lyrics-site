@@ -12,13 +12,13 @@ published: true
 romanLyrics: |-
   Utho Baba qayaamat aa rahi hai
   Sakina qaid ho kar jaa rahi hai
-  Zamiṅ par hai pidar ki laash be sar
+  Zamiṅ par hai pidar ki laash besar
   Hai beti ke liye ghurbat ka manzar
   Sakina bain karti jaa rahi hai
 
   1
-  Bhare ghar ko hai main ne lutte dekha
-  Main puchhuṅ bhi to kis se puchhuṅ Baba
+  Bhare ghar ko hai maiṅ ne lutte dekha
+  Maiṅ puchhuṅ bhi to kis se puchhuṅ Baba
   Ye dunya kiuṅ masaaib dhaa rahi hai
 
   2

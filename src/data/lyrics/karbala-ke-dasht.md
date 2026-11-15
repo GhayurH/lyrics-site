@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Karbala ke dasht mein ek laa makaaṅ aabaad hai
+  Karbala ke dasht meiṅ ek laa makaaṅ aabaad hai
   Nur-e-Haq aur Maalik-e-kaun o makaaṅ aabaad hai
 
   1
@@ -20,7 +20,7 @@ romanLyrics: |-
 
   2
   Aa mere Akbar ke mitte jaa rahe naqsh-e-paa
-  Bas dam-e-rukhsat ka aaṅkhoṅ mein samaaṅ aabaad hai
+  Bas dam-e-rukhsat ka aaṅkhoṅ meiṅ samaaṅ aabaad hai
 
   3
   Dukhtar-e-Zahra tera mamnun hai din-e-Khuda
@@ -32,7 +32,7 @@ romanLyrics: |-
 
   5
   Ab Raza kuchh aur kya maaṅge dar-e-Lajpaal se
-  Dil mein jab Shabbir ki aah o fughaaṅ aabaad hai
+  Dil meiṅ jab Shabbir ki aah o fughaaṅ aabaad hai
 # source_id: nohayonline:e17c232350e9c4f5ba6e
 # source_url: https://www.nohayonline.com/details_content.php?id=1512
 # raw_sha256: 4e891fffbef2644b1f4966257f2f43417449ce95a7ec2c5e2a81e097a2669c8e

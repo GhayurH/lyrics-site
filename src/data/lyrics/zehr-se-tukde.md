@@ -35,7 +35,7 @@ romanLyrics: |-
   Surat-e-tarkash janaaza ho gaya
 
   6
-  Qais do aansu baha kar bazm mein
+  Qais do aansu baha kar bazm meiṅ
   Apni bakhshish ka sahaara ho gaya
 # source_id: nohayonline:49ebed502690c298b035
 # source_url: https://www.nohayonline.com/details_content.php?id=673

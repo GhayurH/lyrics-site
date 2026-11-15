@@ -49,7 +49,7 @@ romanLyrics: |-
   Umme Laila Sambhaal Zainab Ko
 
   5
-  Kaise laash-e-jawaṅ uthaye huṅ
+  Kaise laash-e-jawaaṅ uthaye huṅ
   Aeriyaṅ khat banati aati hai
   In nishano ko piche piche mere
   Amma Zehra mitati aati hai

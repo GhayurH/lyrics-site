@@ -24,13 +24,13 @@ romanLyrics: |-
 
   2
   Phir Shimr aa raha hai ab le ke taaziyaana
-  Tewar se lag raha hai phir se huṅ main nishaana
-  Bebas main ho gayi huṅ kaisi ye bebasi hai
+  Tewar se lag raha hai phir se huṅ maiṅ nishaana
+  Bebas maiṅ ho gayi huṅ kaisi ye bebasi hai
   Ammu mujhe bacha lo
 
   3
-  Kaise bhala main ammu ab ye sitam sahuṅ gi
-  Raahoṅ mein kis tarah se panjoṅ ke bal chaluṅ gi
+  Kaise bhala maiṅ ammu ab ye sitam sahuṅ gi
+  Raahoṅ meiṅ kis tarah se panjoṅ ke bal chaluṅ gi
   Chhote haiṅ paaoṅ mere taklif ye bari hai
   Ammu mujhe bacha lo
 
@@ -47,7 +47,7 @@ romanLyrics: |-
   Ammu mujhe bacha lo
 
   6
-  Dekhi nahiṅ hai main ne aisi koi musibat
+  Dekhi nahiṅ hai maiṅ ne aisi koi musibat
   Ab tak laraz rahi hai chhoti si ek turbat
   Jaise koi bhatiji ab tak ye bolti hai
   Ammu mujhe bacha lo

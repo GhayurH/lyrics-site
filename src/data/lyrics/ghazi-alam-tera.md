@@ -17,9 +17,9 @@ romanLyrics: |-
   Aaj bhi hai aur kal bhi rahega
 
   1
-  Tere alam ke saaye mein duniya
+  Tere alam ke saaye meiṅ duniya
   Apni muraadeṅ maaṅg rahi hai
-  Tere alam ke saaye mein aa kar
+  Tere alam ke saaye meiṅ aa kar
   Jo nahiṅ maaṅga wo bhi milega
 
   2
@@ -50,7 +50,7 @@ romanLyrics: |-
   Yuṅ to bahut Zainab pe sitam tha
   Lekin wo gham jo koh-e-alam tha
   Wo tera gham tha wo tera gham tha
-  Dil tere gham mein rota rahega
+  Dil tere gham meiṅ rota rahega
 
   7
   Zer-e-alam Rehaan o Sarwar

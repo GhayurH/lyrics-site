@@ -18,10 +18,10 @@ romanLyrics: |-
   Bazaar-e-Shaam se aaya huṅ
 
   1
-  Us shehr-e-sitamgar mein ab tak beghairat log hi baste haiṅ
+  Us shehr-e-sitamgar meiṅ ab tak beghairat log hi baste haiṅ
   Kal Ahl-e-haram par haṅste the ab Ahl-e-aza par haṅste haiṅ
   Haaye mat puchho haaye mat puchho
-  Kya manzar main dekh aaya huṅ
+  Kya manzar maiṅ dekh aaya huṅ
 
   2
   Un raahoṅ ko bhi dekha hai saadaat jahaaṅ the bechaadar
@@ -33,7 +33,7 @@ romanLyrics: |-
   Chaudah sau baras guzre lekin wo aaj bhi rit nibhaate haiṅ
   Bazaar sajaaye jaate the bazaar sajaaye jaate haiṅ
   Haaye mat puchho haaye mat puchho
-  Wo galiyaaṅ main dekh aaya huṅ
+  Wo galiyaaṅ maiṅ dekh aaya huṅ
 
   4
   Apne ajdaad ki rasmoṅ ko wo Ahl-e-Shaam nahiṅ bhule
@@ -48,16 +48,16 @@ romanLyrics: |-
   Kya yaad wahaaṅ se laaya huṅ
 
   6
-  Un Shaam ki galiyoṅ mein kaise Abbas ki khwaahar aai thi
-  Haathoṅ mein rasan thi Zainab ke aur haaye khule sar aai thi
+  Un Shaam ki galiyoṅ meiṅ kaise Abbas ki khwaahar aai thi
+  Haathoṅ meiṅ rasan thi Zainab ke aur haaye khule sar aai thi
   Haaye mat puchho haaye mat puchho
-  Ye soch ke main tharraaya huṅ
+  Ye soch ke maiṅ tharraaya huṅ
 
   7
-  Dil khun ke aansu rota tha Sajjad ka un bazaaroṅ mein
-  Beparda haram ki haalat par haṅste the sharaabi raahoṅ mein
+  Dil khun ke aansu rota tha Sajjad ka un bazaaroṅ meiṅ
+  Beparda haram ki haalat par haṅste the sharaabi raahoṅ meiṅ
   Haaye mat puchho haaye mat puchho
-  Dil mein ye dard basaaya huṅ
+  Dil meiṅ ye dard basaaya huṅ
 
   8
   Ye soch ke dil phat jaata hai Sajjad pe kya guzri hogi
@@ -66,8 +66,8 @@ romanLyrics: |-
   Kaise zinda laut aaya huṅ
 
   9
-  Main Shaam ke un bazaaroṅ se ye zakhm-e-jigar laaya Mazhar
-  Tum puchhte ho tahrir mein kya rudaad-e-safar laaya Safdar
+  Maiṅ Shaam ke un bazaaroṅ se ye zakhm-e-jigar laaya Mazhar
+  Tum puchhte ho tahrir meiṅ kya rudaad-e-safar laaya Safdar
   Haaye mat puchho haaye mat puchho
   Nauha ye zabaaṅ par laaya huṅ
 # source_id: nohayonline:e0665ff4ac5a897ac421

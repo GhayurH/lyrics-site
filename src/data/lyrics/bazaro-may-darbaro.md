@@ -17,63 +17,63 @@ romanLyrics: |-
 
   1
   Ye Zainab ne elaan kiya
-  Bazaaroṅ mein darbaaroṅ mein
+  Bazaaroṅ meiṅ darbaaroṅ meiṅ
   Ghazi ka mere maatam hoga
-  Bazaaroṅ mein darbaaroṅ mein
+  Bazaaroṅ meiṅ darbaaroṅ meiṅ
 
   2
   Na takht raha na taaj raha
   Na zulm raha na raaj raha
   Ek shor hai maatam daari ka
-  Bazaaroṅ mein darbaaroṅ mein
+  Bazaaroṅ meiṅ darbaaroṅ meiṅ
 
   3
   Na qaatil na baatil hai
   Ae duniya aa ke dekh zara
   Shabbir ke maatam ki hai sada
-  Bazaaroṅ mein darbaaroṅ mein
+  Bazaaroṅ meiṅ darbaaroṅ meiṅ
 
   4
   Ham thok ke sina kehte haiṅ
   Ham rukne nahiṅ deṅ ge maatam
-  Har haal mein ye maatam hoga
-  Bazaaroṅ mein darbaaroṅ mein
+  Har haal meiṅ ye maatam hoga
+  Bazaaroṅ meiṅ darbaaroṅ meiṅ
 
   5
   Ye sine nahiṅ diwaareṅ haiṅ
   Ye haath nahiṅ talwaareṅ haiṅ
   Lo aa gaya lashkar Zainab ka
-  Bazaaroṅ mein darbaaroṅ mein
+  Bazaaroṅ meiṅ darbaaroṅ meiṅ
 
   6
   O Shaamiyoṅ himmat hai roko
   Mazlum behan ko bhaai ka
   Ham dene aae haiṅ pursa
-  Bazaaroṅ mein darbaaroṅ mein
+  Bazaaroṅ meiṅ darbaaroṅ meiṅ
 
   7
   De hukm agar tu shahzaadi
   Ye behte hue ashkoṅ ki qasam
   Ham khuṅ ka bichha de farsh-e-aza
-  Bazaaroṅ mein darbaaroṅ mein
+  Bazaaroṅ meiṅ darbaaroṅ meiṅ
 
   8
   Is Shaam ke is bazaar se hi
   Ye keh kar guzri thi Zainab
   Ghazi ka alam lehraae ga
-  Bazaaroṅ mein darbaaroṅ mein
+  Bazaaroṅ meiṅ darbaaroṅ meiṅ
 
   9
-  Paaband-e-rasan majbur huṅ main
+  Paaband-e-rasan majbur huṅ maiṅ
   Ae Shiyoṅ khule ho haath to phir
   Shabbir ka tum maatam kar lo
-  Bazaaroṅ mein darbaaroṅ mein
+  Bazaaroṅ meiṅ darbaaroṅ meiṅ
 
   10
   Zainab ki tamanna hai Gohar
   Ho aisa qayaamat ka maatam
   Khud dekhne aae Karbobala
-  Bazaaroṅ mein darbaaroṅ mein
+  Bazaaroṅ meiṅ darbaaroṅ meiṅ
 # source_id: nohayonline:805186c21cfc7dc58cdf
 # source_url: https://www.nohayonline.com/details_content.php?id=1504
 # raw_sha256: 38d0686dd8f675e782085231b1d23c7d292de99c64b38afb4faf1257e205e535

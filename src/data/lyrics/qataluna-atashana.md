@@ -17,15 +17,15 @@ romanLyrics: |-
   Ya Husaina ya Husaina
 
   1
-  Hai fiza mein teri khushbu
+  Hai fiza meiṅ teri khushbu
   Thaame kaise mere aansu
   Hai shikasta mera pehlu
   Kahaaṅ jaauṅ batlaana
 
   2
-  Rahuṅ kaise main watan mein
-  Mera suraj hai gahan mein
-  Mere taare haiṅ rasan mein
+  Rahuṅ kaise maiṅ watan meiṅ
+  Mera suraj hai gahan meiṅ
+  Mere taare haiṅ rasan meiṅ
   Phira kaisa ye zamaana
 
   3
@@ -61,12 +61,12 @@ romanLyrics: |-
   8
   Kabhi roye ye biyaabaan
   Kabhi tarpe ye teri maaṅ
-  Tere gham mein hai pareshaaṅ
+  Tere gham meiṅ hai pareshaaṅ
   Tere Baaba tere Naana
 
   9
   Tere Aamir tere Nayyar
-  Tere gham mein rahe muztar
+  Tere gham meiṅ rahe muztar
   Inheṅ har pal mere dilbar
   Gham-e-duniya se bachaana
 # source_id: nohayonline:690139adfac0ee911971

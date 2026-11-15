@@ -13,19 +13,19 @@ aliases: ["kahan-ahl-e-azza-apna-fareeza-bhool-jate-hain-lyrics-2008", "Kahan Ah
 published: true
 romanLyrics: |-
   Kahaaṅ ahl-e-aza apna fariza bhul jaate haiṅ
-  Gham-e-Shabbir mein ham dard-e-duniya bhul jaate haiṅ
+  Gham-e-Shabbir meiṅ ham dard-e-duniya bhul jaate haiṅ
 
   1
-  Main un ko haafiz-e-Quraan kaise maan luṅ waaiz
+  Maiṅ un ko haafiz-e-Quraan kaise maan luṅ waaiz
   Jo Quraan yaad kar ke ba ka nuqta bhul jaate haiṅ
 
   2
   Inheiṅ waise Rasul Allah ki baateiṅ to azbar haiṅ
-  Magar maidaan-e-Khum mein kya hua tha bhul jaate haiṅ
+  Magar maidaan-e-Khum meiṅ kya hua tha bhul jaate haiṅ
 
   3
   Shab-e-Meraaj ka qissa sunaate haiṅ aqidat se
-  Nabi se kaun tha parde mein goya bhul jaate haiṅ
+  Nabi se kaun tha parde meiṅ goya bhul jaate haiṅ
 
   4
   Shujaat ki ye auroṅ ka qasida parhte rehte haiṅ

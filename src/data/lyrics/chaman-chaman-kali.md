@@ -26,7 +26,7 @@ romanLyrics: |-
   3
   Ali Khuda ki shaan hai Rasul ki zabaan hai
   Ibaadatoṅ ki jaan hai Bilaal ki azaan hai
-  Namaaz jis mein hai dhali Ali Ali Ali Ali
+  Namaaz jis meiṅ hai dhali Ali Ali Ali Ali
 
   4
   Wo aql bhi shuur bhi wo ghaibat o zuhur bhi
@@ -40,7 +40,7 @@ romanLyrics: |-
 
   6
   Zamiṅ pe Bu Turaab hai falak pe aaftaab hai
-  Khuda ka intikhaab hai jahaaṅ mein laajawaab hai
+  Khuda ka intikhaab hai jahaaṅ meiṅ laajawaab hai
   Khuda ka naam bhi Ali Ali Ali Ali Ali
 
   7

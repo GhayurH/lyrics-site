@@ -19,12 +19,12 @@ romanLyrics: |-
   Tabassum-e-Ali Asghar ki yaad aayegi
 
   2
-  Sula ke qabr mein beshir ko na jaao Rabab
+  Sula ke qabr meiṅ beshir ko na jaao Rabab
   Khulegi nind to maadar ki yaad aayegi
 
   3
   Rabab baali Sakina ko royegi din bhar
-  Andheri raat mein Asghar ki yaad aayegi
+  Andheri raat meiṅ Asghar ki yaad aayegi
 
   4
   Uthegi koi bhi mayyat jab ehtemaam ke saath
@@ -32,14 +32,14 @@ romanLyrics: |-
 
   5
   Madina kaamp uthega behen ke naaloṅ se
-  Watan mein jab bhi biradar ki yaad aayegi
+  Watan meiṅ jab bhi biradar ki yaad aayegi
 
   6
   Sar-e-Husain se ro kar kaha Sakina ne
   Tumheṅ bhi kya kabhi dukhtar ki yaad aayegi
 
   7
-  Behen ko aakhri rukhsat mein dekh lo Shabbir
+  Behen ko aakhri rukhsat meiṅ dekh lo Shabbir
   Gala katega to khwahar ki yaad aayegi
 
   8
@@ -56,7 +56,7 @@ romanLyrics: |-
 
   11
   Surur rok di jaayegi pursish-e-ahwaal
-  Lahad mein jab gham-e-Sarwar ki yaad aayegi
+  Lahad meiṅ jab gham-e-Sarwar ki yaad aayegi
 # source_id: nohayonline:0cb8bdf73fc1741a9288
 # source_url: https://www.nohayonline.com/details_content.php?id=3728
 # raw_sha256: acdb94f1e6eb8d71e848b9ff24dbf0d8292a4e4d63bba1c53d6474aef3403c46

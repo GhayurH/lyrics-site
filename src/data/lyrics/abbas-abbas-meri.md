@@ -22,7 +22,7 @@ romanLyrics: |-
   Abbas Abbas har gham se chhurao na
 
   2
-  Main dub raha huṅ ae Maula
+  Maiṅ dub raha huṅ ae Maula
   Jine ka nahiṅ koi rasta
   Jab tum ko bulata hai koi
   Tum us ko bachate ho Maula
@@ -31,7 +31,7 @@ romanLyrics: |-
   3
   Sab Karbobala ko jaate haiṅ
   Aur dil ki muradeṅ paate haiṅ
-  Ek main hi tarasta huṅ Maula
+  Ek maiṅ hi tarasta huṅ Maula
   Kiuṅ aap mujhe tarpate haiṅ
   Abbas Abbas zawwar banao na
 
@@ -45,7 +45,7 @@ romanLyrics: |-
   5
   Jab aath Muharram aati hai
   Maaṅ saqqa mujhe banwati hai
-  Jis ghar mein hazri hoti hai
+  Jis ghar meiṅ hazri hoti hai
   Wahaṅ teri sawari aati hai
   Abbas Abbas mere ghar bhi to aao na
 

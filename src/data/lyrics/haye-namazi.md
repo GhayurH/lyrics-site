@@ -16,20 +16,20 @@ romanLyrics: |-
 
   1
   Ye sher-e-Khuda nafs-e-Khuda nafs-e-Nabi hai
-  Ye ilm ibaadat mein shujaat mein dhani hai
+  Ye ilm ibaadat meiṅ shujaat meiṅ dhani hai
   Ahmad ka biraadar hai ye Khaaliq ka wali hai
-  Kaunain mein sab ke liye bas ek Ali hai
+  Kaunain meiṅ sab ke liye bas ek Ali hai
   Maula Ali Maula Ali Maula Ali Maula Ali
 
   2
   Ahmad ka madadgaar hai Imraan ka jaani
   Ye ilm ka darya hai bari jis ki giraani
-  Ab tak na hua is ka koi duniya mein saani
+  Ab tak na hua is ka koi duniya meiṅ saani
   Kar dega ishaare se wo patthar ko bhi paani
   Maula Ali Maula Ali Maula Ali Maula Ali
 
   3
-  Ramzaaṅ mein sitamgar ne namaazi ko hai maara
+  Ramzaaṅ meiṅ sitamgar ne namaazi ko hai maara
   Talwaar lagi farq pe aur wo hai do paara
   Allah ka ghar surkh hua khun se saara
   Hilne laga is gham se har ek arsh ka taara
@@ -37,7 +37,7 @@ romanLyrics: |-
 
   4
   Kehne lage sar thaam ke ye Haidar-e-Safdar
-  Fuzto be rabbe Kaaba mere maalik o daawar
+  Fuzto berabbe Kaaba mere maalik o daawar
   Hasnain Ali ko jo utha le ke gaye ghar
   Sar pitti thi Zainab o Kulsum tarap kar
   Maula Ali Maula Ali Maula Ali Maula Ali
@@ -51,9 +51,9 @@ romanLyrics: |-
 
   6
   Karti thi ye ro ro ke bayaaṅ saani-e-Zehra
-  Bin maaṅ ke to pehle se hi main ho chuki dukhiya
+  Bin maaṅ ke to pehle se hi maiṅ ho chuki dukhiya
   Ab sar se pidar aap ka bhi uthta hai saaya
-  Batlaao kahaaṅ paauṅ gi main aap ko Baaba
+  Batlaao kahaaṅ paauṅ gi maiṅ aap ko Baaba
   Maula Ali Maula Ali Maula Ali Maula Ali
 
   7
@@ -66,7 +66,7 @@ romanLyrics: |-
   8
   Ab tak na ruka zikr-e-Ali hota hai paiham
   Ikkiswiṅ Ramzaaṅ ko ye uthta hai ye parcham
-  Ho jaati hai is gham mein har aaṅkh bhi purnam
+  Ho jaati hai is gham meiṅ har aaṅkh bhi purnam
   Aarif bhi Baabar karte haiṅ jab nauha o maatam
   Maula Ali Maula Ali Maula Ali Maula Ali
 # source_id: nohayonline:eccdab4de935b66a1421

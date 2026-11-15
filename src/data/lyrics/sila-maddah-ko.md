@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Sila maddaah ko ye midhat-e-Haidar se milta hai
-  Ke jannat mein use ghar Mustafa ke ghar se milta hai
+  Ke jannat meiṅ use ghar Mustafa ke ghar se milta hai
 
   1
   Faqat Aal-e-Nabi hai manba-e-altaaf-e-Rabbani
@@ -24,10 +24,10 @@ romanLyrics: |-
 
   3
   Risaalat ki rida farsh-e-Nabi ikhlaas ka takiya
-  Wohi paata hai tinat mein jo Paighambar se milta hai
+  Wohi paata hai tinat meiṅ jo Paighambar se milta hai
 
   4
-  Mai-e-tauhid pina hai chalo maikhaana-e-Khum mein
+  Mai-e-tauhid pina hai chalo maikhaana-e-Khum meiṅ
   Wahaaṅ jaam-e-wilaayat saaqi-e-Kausar se milta hai
 
   5
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   6
   Ali Asghar ke laashe par jhuke haiṅ is tarah Sarwar
-  Koi sajde mein jaise Khaaliq-e-Akbar se milta hai
+  Koi sajde meiṅ jaise Khaaliq-e-Akbar se milta hai
 
   7
   Ye diwaana hai diwaana walaa-e-Aal-e-Ahmad ka

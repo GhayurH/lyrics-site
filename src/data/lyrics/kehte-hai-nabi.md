@@ -17,12 +17,12 @@ romanLyrics: |-
 
   1
   Maalum hai beti ke sataayegi ye duniya
-  Jab main na rahuṅ ga to rulaayegi ye duniya
+  Jab maiṅ na rahuṅ ga to rulaayegi ye duniya
   Afsos tere ghar ko jalaayegi ye duniya
   Paauṅ ga na ek lamha sukuṅ qabr ke andar
 
   2
-  Ek roz lahad mein hai har ek shakhs ko sona
+  Ek roz lahad meiṅ hai har ek shakhs ko sona
   Sab ke liye ye khaak ka hota hai bichhauna
   Dekha nahiṅ jaata hai ye beti tera rona
   Jaana hai bulaata hai mujhe Khaaliq-e-Akbar
@@ -30,23 +30,23 @@ romanLyrics: |-
   3
   Jitne ye munaafiq hai bazaahir hai jo khaadim
   Dukh deṅ ge bahut aur zara hoṅ ge na naadim
-  Darbaar mein bulwaayeṅ ge ek din tujhe zaalim
+  Darbaar meiṅ bulwaayeṅ ge ek din tujhe zaalim
   Allah salaamat rakhe beti teri chaadar
 
   4
   Ham hoṅ ge na tum hogi na Haider hi raheṅ ge
   Us waqt ajab chaal munaafiq ye chaleṅ ge
   Beti teri Shabbir ka ye qatl kareṅ ge
-  Begor o kafan dhup mein hoga tera dilbar
+  Begor o kafan dhup meiṅ hoga tera dilbar
 
   5
   Zinda na bichhar kar zara reh paao gi beti
   Pehlu-e-Shikasta liye tum aao gi beti
   Tum mujh se bahut jald hi mil jaao gi beti
-  Shabbir pe ham qabr mein royeṅ ge baraabar
+  Shabbir pe ham qabr meiṅ royeṅ ge baraabar
 
   6
-  Beti ye hai Khaaliq ki nazar mein teri azmat
+  Beti ye hai Khaaliq ki nazar meiṅ teri azmat
   Dekhi nahiṅ aisi Malakul Maut ki haalat
   Ye tera sharaf hai jo ye maangi hai ijaazat
   De do ise aane ki ijaazat meri dukhtar
@@ -54,7 +54,7 @@ romanLyrics: |-
   7
   Kehte haiṅ Qamar din ko Allah bachaaye
   Bas bakhshish-e-Ummat ki dua hont pe aaye
-  Farzand mera amn o amaaṅ dahr mein laaye
+  Farzand mera amn o amaaṅ dahr meiṅ laaye
   Ek roz zarur aayega ghaibat se nikal kar
 # source_id: nohayonline:990d12665d8c7e120fd2
 # source_url: https://www.nohayonline.com/details_content.php?id=3730

@@ -21,11 +21,11 @@ romanLyrics: |-
 
   1
   Aaj Baba jo mere ghar se chale jaayeṅge
-  Phir mujhe shaam-e-gharibaaṅ mein nazar aayeṅge
+  Phir mujhe shaam-e-gharibaaṅ meiṅ nazar aayeṅge
   Itne din kaise guzaaruṅgi bata do bhaiya
 
   2
-  Jaise Amma ki rida mein thi shifa Nana ki
+  Jaise Amma ki rida meiṅ thi shifa Nana ki
   Kya ye mumkin hai ki uth jaayeṅ mere Baba bhi
   Meri chaadar mere Baba ko urha do bhaiya
 
@@ -45,13 +45,13 @@ romanLyrics: |-
   Zakhm Amma ki nigaahoṅ se chhupa do bhaiya
 
   6
-  Gham mein Baba ke tarapta hai zara dekho to
+  Gham meiṅ Baba ke tarapta hai zara dekho to
   Dur baitha hai bula laao mere Ghaazi ko
   Paas kuchh der to Baba ke bitha do bhaiya
 
   7
   Khun Baba ki jabiṅ se wo gira tha jis pe
-  Apne Baba ki nishaani main bana luṅgi use
+  Apne Baba ki nishaani maiṅ bana luṅgi use
   Mere Baba ka musalla mujhe laa do bhaiya
 
   8

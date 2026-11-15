@@ -18,8 +18,8 @@ romanLyrics: |-
 
   1
   Nasir na koi aur na madadgaar hai mera
-  Main ho gaya tanha
-  Luta gaya pardes mein ammaaṅ ka bhara ghar
+  Maiṅ ho gaya tanha
+  Luta gaya pardes meiṅ ammaaṅ ka bhara ghar
 
   2
   Jo mere wafaadaar the sab mar gaye ansaar
@@ -43,19 +43,19 @@ romanLyrics: |-
 
   6
   Khush hoṅge adu Zainab-e-muztar ko rula ke
-  Le jaayeṅge darbaar mein bemaqna o chaadar
+  Le jaayeṅge darbaar meiṅ bemaqna o chaadar
 
   Khuṅ royegi har ek azaadaar ki aankheṅ
   Dil khenchegi aaheṅ
   Laayegi tere haath jo ammaaṅ sar-e-mahshar
 
   7
-  Main baad-e-shahaadat bhi uthaauṅga alam aur
+  Maiṅ baad-e-shahaadat bhi uthaauṅga alam aur
   Hoyeṅge sitam aur
   Paamaal meri laash ko kar deṅge sitamgar
 
   8
-  Aawaaz mein Rehan ke Hilal aisa asar tha
+  Aawaaz meiṅ Rehan ke Hilal aisa asar tha
   Rone laga darya
   Sar pitti thi maujeṅ jo Shah kehte the ro kar
 # source_id: nohayonline:49abdbf83d65800ed80f

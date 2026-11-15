@@ -27,39 +27,39 @@ romanLyrics: |-
   Akbar ka jigar chhalni dekha
   Saabir ki behan ne sabr kiya
   Durroṅ se badan zakhmi tha mera
-  Main chup thi magar Mehbub-e-Khuda
+  Maiṅ chup thi magar Mehbub-e-Khuda
   Shaam ne maar diya hai
 
   3
   Jab Aun o Muhammad qatl hue
   Shabbir utha laaye laashe
-  Main shukr ke karti thi sajde
+  Maiṅ shukr ke karti thi sajde
   Sar uncha mera bachchoṅ ne kiya
   Shaam ne maar diya hai
 
   4
-  Daaman mein utha kar Shah-e-Huda
+  Daaman meiṅ utha kar Shah-e-Huda
   Jab Qasim ka laaye laasha
-  Chhup chhup ke kiya main ne girya
+  Chhup chhup ke kiya maiṅ ne girya
   Gham apna kabhi zaahir na kiya
   Shaam ne maar diya hai
 
   5
   Kiuṅ mar na gayi ab sochti huṅ
   Aabid ka baha jab aankh se khuṅ
-  Zinda rahi main bechain o sukuṅ
-  Shaam aa gaya jis dam main ne suna
+  Zinda rahi maiṅ bechain o sukuṅ
+  Shaam aa gaya jis dam maiṅ ne suna
   Shaam ne maar diya hai
 
   6
-  Tar khuṅ mein hua Asghar ka gala
+  Tar khuṅ meiṅ hua Asghar ka gala
   Tha tir bhi us ke qad se bara
-  Bano ko dilaasa main ne diya
-  Karti rahi main betegh wagha
+  Bano ko dilaasa maiṅ ne diya
+  Karti rahi maiṅ betegh wagha
   Shaam ne maar diya hai
 
   7
-  Us shahr-e-sitam mein ae Naana
+  Us shahr-e-sitam meiṅ ae Naana
   Kya tum se kahuṅ kya haal hua
   Fizza ko kisi ne kuch na kaha
   Durroṅ ki mili Zainab ko saza
@@ -67,9 +67,9 @@ romanLyrics: |-
 
   8
   Sughra ne Sakina ko puchha
-  Main kya kehti rone ke siwa
+  Maiṅ kya kehti rone ke siwa
   Jab us ne bahut majbur kiya
-  Tab sar ko jhukaaye main ne kaha
+  Tab sar ko jhukaaye maiṅ ne kaha
   Shaam ne maar diya hai
 
   9

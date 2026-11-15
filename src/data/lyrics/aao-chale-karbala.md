@@ -21,7 +21,7 @@ romanLyrics: |-
   Aao chaleṅ Karbobala ban ke safiraan-e-aza
 
   1
-  Karbobala mein tumheṅ Quraan milega
+  Karbobala meiṅ tumheṅ Quraan milega
   Fatimatuz Zehra ka faizaan milega
   Tum ko har ek mulk ka insaan milega
   Parcham-e-Abbas nigahbaan milega
@@ -31,7 +31,7 @@ romanLyrics: |-
   Aao chaleṅ parcham-e-Abbas uthaa kar
   Shahr-e-Najaf se chaleṅ Karbobala mil kar
   Sheh ke azadaaroṅ ka ho saath samandar
-  Pal mein badal jaayega hum sab ka muqaddar
+  Pal meiṅ badal jaayega hum sab ka muqaddar
   Chalte raho saath liye saara zamaana
 
   3

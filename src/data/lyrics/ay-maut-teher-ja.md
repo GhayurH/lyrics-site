@@ -13,24 +13,24 @@ published: true
 romanLyrics: |-
   Hichkiyaaṅ lete the Ali Akbar
   Umm-e-Laila ye bain karti thi
-  Poshaak urha luṅ ke main armaan nikaaluṅ
+  Poshaak urha luṅ ke maiṅ armaan nikaaluṅ
   Ae maut thehar ja, ae maut thehar ja
-  Main apne jawaan laal ko dulha to bana luṅ
+  Maiṅ apne jawaan laal ko dulha to bana luṅ
 
   1
-  Is laal ko main kaise karuṅ tere hawaale
+  Is laal ko maiṅ kaise karuṅ tere hawaale
   Ye chaand to deta hai zamaane ko ujaale
   Is chaand ki poshaak sitaaroṅ se saja luṅ.
 
   2
   Athaara baras phuloṅ ki tarha jise paala
   Jaata hai mujhe chhor ke wo gesuoṅ waala
-  Ab tu hi bata kaise main is dil ko sambhaaluṅ.
+  Ab tu hi bata kaise maiṅ is dil ko sambhaaluṅ.
 
   3
   Dekhe the bahut khwaab magar khaak hue sab
   Is bete ke sehre ki dua karti thi Zainab
-  Dulha na sahi main ise dulha sa bana luṅ.
+  Dulha na sahi maiṅ ise dulha sa bana luṅ.
 
   4
   Har shaam jise lagti hai ab shaam-e-gharibaaṅ
@@ -40,7 +40,7 @@ romanLyrics: |-
   5
   Khaime se zara dur khare rote haiṅ Sarwar
   Ek haath kaleje pe hai ek haath kamar par
-  Main khud ko sambhaaluṅ ke Shah-e-diṅ ko sambhaaluṅ.
+  Maiṅ khud ko sambhaaluṅ ke Shah-e-diṅ ko sambhaaluṅ.
 
   6
   Ye kis ki nazar kha gayi is nur-e-nazar ko
@@ -49,11 +49,11 @@ romanLyrics: |-
 
   7
   Zainab ke laboṅ par hai buka haaye muqaddar
-  Kya sehra charhaauṅ main teri laash pe Akbar
+  Kya sehra charhaauṅ maiṅ teri laash pe Akbar
   Aur khud ko teri laash pe sadqe hi utaaruṅ.
 
   8
-  Mehndi na lagi haathoṅ mein hai khun badan ka
+  Mehndi na lagi haathoṅ meiṅ hai khun badan ka
   Poshaak-e-shahaani ko mila daagh kafan ka
   Is laash pe athaarviṅ mannat ko barha luṅ.
 
@@ -65,12 +65,12 @@ romanLyrics: |-
   10
   Fariyaad zara sun le Sakina ki zabaani
   Mar jaauṅ gi bichhra jo mera Yusuf-e-saani
-  Bhaiya mere naaraaz haiṅ main un ko mana luṅ.
+  Bhaiya mere naaraaz haiṅ maiṅ un ko mana luṅ.
 
   11
   Maaṅ roti rahi Mazhar o Irfan tarap kar
-  Aur aakhri hichki mein safar kar gaye Akbar
-  Maaṅ kehti rahi main ise dulha to bana luṅ.
+  Aur aakhri hichki meiṅ safar kar gaye Akbar
+  Maaṅ kehti rahi maiṅ ise dulha to bana luṅ.
 # source_id: nohayonline:00a0da4d24ffb910e2d5
 # source_url: https://www.nohayonline.com/details_content.php?id=445
 # raw_sha256: 16ac2ac60866d6b729502cb115b5098c06d6fcfb9119d55bc94d7633b335076a

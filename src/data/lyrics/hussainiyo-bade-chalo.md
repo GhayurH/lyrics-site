@@ -19,7 +19,7 @@ romanLyrics: |-
   Ye keh rahe the ashqiya taraai aaj chhor do
 
   2
-  Husain ne saghir se ishaaroṅ mein ye keh diya
+  Husain ne saghir se ishaaroṅ meiṅ ye keh diya
   Kamaan-e-zulm chhin lo jo tir aaye tor do
 
   3
@@ -31,7 +31,7 @@ romanLyrics: |-
   Husain shukr karke tum jo aag thi nichor do
 
   5
-  Rasul zaadiyaaṅ haiṅ ye jo berida hai Shaam mein
+  Rasul zaadiyaaṅ haiṅ ye jo berida hai Shaam meiṅ
   Husain qatl ho chuke jafaaeṅ ab to chhor do
 
   6
@@ -39,7 +39,7 @@ romanLyrics: |-
   Madad ko phir utheṅge hum jo tan ko sar se jor do
 
   7
-  Gham-e-shahid-e-Karbala mein barh ke Saalik-e-haziṅ
+  Gham-e-shahid-e-Karbala meiṅ barh ke Saalik-e-haziṅ
   Jo khun-e-dil na ro sake un aabloṅ ko phor do
 # source_id: nohayonline:45dee50496da557e4131
 # source_url: https://www.nohayonline.com/details_content.php?id=1208

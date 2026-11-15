@@ -30,36 +30,36 @@ romanLyrics: |-
   Jo Khaibar shikan hai Amir-e-Arab hai
 
   2
-  Main naize pe chaahuṅ zamiṅ ko utha luṅ
-  Abaabil ka bhi main lashkar bula luṅ
+  Maiṅ naize pe chaahuṅ zamiṅ ko utha luṅ
+  Abaabil ka bhi maiṅ lashkar bula luṅ
   Falak misl-e-kaaghaz zamin par ulat kar
-  Khuda ki qasam main Ali se dua luṅ
+  Khuda ki qasam maiṅ Ali se dua luṅ
   Khuda ka ghazab mera qahr o ghazab hai
 
   3
   Sharaf hai ghulaam-e-Husain o Hasan huṅ
   Sakhaawat ki masnad pe jalwa figan huṅ
-  Fana o baqa haiṅ meri dastaras mein
-  Main paaband-e-hukm-e-Imaam-e-Zamaaṅ huṅ
+  Fana o baqa haiṅ meri dastaras meiṅ
+  Maiṅ paaband-e-hukm-e-Imaam-e-Zamaaṅ huṅ
   Shah-e-din ki chaahat hi meri talab hai
 
   4
-  Ali ki jabiṅ par hai jo nur main huṅ
-  Daleri shujaat mein mashhur main huṅ
+  Ali ki jabiṅ par hai jo nur maiṅ huṅ
+  Daleri shujaat meiṅ mashhur maiṅ huṅ
   Wafa taa qayaamat hai mansub mujh se
-  Haram ki hifaazat pe maamur main huṅ
+  Haram ki hifaazat pe maamur maiṅ huṅ
   Meri khaamshi ka faqat ye sabab hai
 
   5
   Suno mera mansab hai mushkil kushaai
   Zamaane ki karta huṅ haajat rawaai
-  Main zaat o sifaat mein Ali ki tarah huṅ
-  Hai mere tasarruf mein saari khudaai
+  Maiṅ zaat o sifaat meiṅ Ali ki tarah huṅ
+  Hai mere tasarruf meiṅ saari khudaai
   Ke Baab-ul-Hawaaij to mera laqab hai
 
   6
-  Main chaahuṅ to darya se faujeṅ hata duṅ
-  Main anbaar laashoṅ ki ran mein laga duṅ
+  Maiṅ chaahuṅ to darya se faujeṅ hata duṅ
+  Maiṅ anbaar laashoṅ ki ran meiṅ laga duṅ
   Faqat ek naize ki zarb-e-giraaṅ se
   Jo chaahuṅ to fauj-e-adu ko mita duṅ
   Hujum-e-adu ki mujhe fikr kab hai
@@ -67,12 +67,12 @@ romanLyrics: |-
   7
   Nabuwwat ko mere daada ne paala
   Mere Baaba Haidar ne haq ko sambhaala
-  Rag-e-din-e-haq mein hamaara lahu hai
-  Nasab mein hasab mein huṅ sab se main aala
+  Rag-e-din-e-haq meiṅ hamaara lahu hai
+  Nasab meiṅ hasab meiṅ huṅ sab se maiṅ aala
   Ke qaatil pe rahmat hamaara kasb hai
 
   8
-  Muhib ghaiz mein tha Ali ka Ghazanfar
+  Muhib ghaiz meiṅ tha Ali ka Ghazanfar
   Rajaz sun ke larzaaṅ thi fauj-e-sitamgar
   Taraai pe qabza tha sher-e-jari ka
   Faqat ye rajaz tha jari ke laboṅ par

@@ -47,7 +47,7 @@ romanLyrics: |-
   Yaad aata hai wo chhota mera bhaiya Baba
 
   9
-  Ro ke aakhir mein mariza ne ye likha Hilmi
+  Ro ke aakhir meiṅ mariza ne ye likha Hilmi
   Jald pardes se aa jaao khudaara Baba
 # source_id: nohayonline:75fe50a29ab11954d4d8
 # source_url: https://www.nohayonline.com/details_content.php?id=2022

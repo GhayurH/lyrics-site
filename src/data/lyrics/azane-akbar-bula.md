@@ -20,7 +20,7 @@ romanLyrics: |-
   1
   Isi azaan ke liye sayyed
   Jawaan Akbar fida kiye haiṅ
-  Raah-e-Khuda mein Shah-e-shahidaaṅ
+  Raah-e-Khuda meiṅ Shah-e-shahidaaṅ
   Maasum Asghar bhi de diya hai
   Husain le kar chale jo maqsad
   Kiuṅ aaj duniya bhula rahi hai
@@ -42,10 +42,10 @@ romanLyrics: |-
   Ghari asr ki wo aa rahi hai
 
   4
-  Quran ke tukre hue haiṅ ban mein
+  Quran ke tukre hue haiṅ ban meiṅ
   Ghilaaf-e-Kaaba utaar daala
-  Husain ko Karbala mein ummat
-  Hai pyaasa Khursheed maar daala
+  Husain ko Karbala meiṅ ummat
+  Hai pyaasa Khurshid maar daala
   Usi ki mazlumiyat pe duniya
   Ye aaj aansu baha rahi hai
 # source_id: nohayonline:8d59678801996df517ef

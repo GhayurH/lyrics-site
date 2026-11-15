@@ -12,10 +12,10 @@ aliases: []
 published: true
 romanLyrics: |-
   Har ek jaanib udaasi hai, aza ki ruh pyaasi hai
-  Fazaaoṅ mein lahu ki phir wohi maanus khushbu hai
-  Bapa hai dharkanoṅ mein tashnagaan-e-Karbala ki pyaas ka maatam
+  Fazaaoṅ meiṅ lahu ki phir wohi maanus khushbu hai
+  Bapa hai dharkanoṅ meiṅ tashnagaan-e-Karbala ki pyaas ka maatam
   Na jaane phir kise ye rut mayassar ho
-  So ashkoṅ ke arizoṅ se alam ki chhaaoṅ mein aa kar
+  So ashkoṅ ke arizoṅ se alam ki chhaaoṅ meiṅ aa kar
   Wafa ke ahd ki tajdid kar lije
   Ke ye mausam wafaadaari ka mausam hai
   Azadaari ka mausam hai
@@ -34,8 +34,8 @@ romanLyrics: |-
   Adu ko jaa ke batlaao azadaari ka mausam hai
 
   3
-  Bayaad e zakhm mein mashkeeza abhi rota hai ye pani
-  Abhi maujoṅ ke sine mein chhupi hai ek tughyaani
+  Bayaad e zakhm meiṅ mashkeeza abhi rota hai ye pani
+  Abhi maujoṅ ke sine meiṅ chhupi hai ek tughyaani
   Ae dunya bhar ke daryaaoṅ azadaari ka mausam hai
 
   4
@@ -66,7 +66,7 @@ romanLyrics: |-
   9
   Kabhi Rizwan hum hote haiṅ jo haalaat se muztar
   Hawa-e-parcham-e-Abbas kehti hai suno Mazhar
-  Mere saaye mein aa jaao azadaari ka mausam hai
+  Mere saaye meiṅ aa jaao azadaari ka mausam hai
 # source_id: nohayonline:557c83209198896baf17
 # source_url: https://www.nohayonline.com/details_content.php?id=855
 # raw_sha256: 946ab81a4ab64848adec46a674dff6e22834e889d11e4110fb703ae0d0749e21

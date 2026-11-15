@@ -15,12 +15,12 @@ romanLyrics: |-
   Pyaare Ali Asghar mere pyaare Ali Asghar
 
   1
-  Tum pyaas bujhaane ke liye ran mein gaye ho
+  Tum pyaas bujhaane ke liye ran meiṅ gaye ho
   Darti huṅ koi tir na maare Ali Asghar
 
   2
   Jab tum na rahe paas to jine ka maza kya
-  Bolo main jiyuṅ kis ke sahaare Ali Asghar
+  Bolo maiṅ jiyuṅ kis ke sahaare Ali Asghar
 
   3
   Gehwaara hai khaali kaho ab kis ko jhulaauṅ
@@ -31,11 +31,11 @@ romanLyrics: |-
   Aa ja meri aankhoṅ ke taare Ali Asghar
 
   5
-  Tanhaai mein jaaṅ khoti hai ro ro ke Sakina
+  Tanhaai meiṅ jaaṅ khoti hai ro ro ke Sakina
   Kehti hai ke aa jaao hamaare Ali Asghar
 
   6
-  Jo bhi gaya maidaaṅ mein wo waapas nahiṅ aaya
+  Jo bhi gaya maidaaṅ meiṅ wo waapas nahiṅ aaya
   Maa laal kise keh ke pukaare Ali Asghar
 
   7

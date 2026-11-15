@@ -12,51 +12,51 @@ aliases: []
 published: true
 romanLyrics: |-
   Noha tha Sakina ke lab par
-  Zindaaṅ mein andhera gehra hai
+  Zindaaṅ meiṅ andhera gehra hai
   Mar jaauṅ gi tanha dar dar kar
-  Zindaaṅ mein andhera gehra hai
+  Zindaaṅ meiṅ andhera gehra hai
 
   1
-  Main kab se sadaaeṅ deti huṅ
+  Maiṅ kab se sadaaeṅ deti huṅ
   Kiuṅ sunte nahiṅ faryaad meri
-  Main roti nahiṅ ae baba magar
-  Zindaaṅ mein andhera gehra hai
+  Maiṅ roti nahiṅ ae baba magar
+  Zindaaṅ meiṅ andhera gehra hai
 
   2
   Maasum Sakina sehmi hui
-  Ek kone mein simti baithi hai
+  Ek kone meiṅ simti baithi hai
   Kuchh aata nahiṅ bachchi ko nazar
-  Zindaaṅ mein andhera gehra hai
+  Zindaaṅ meiṅ andhera gehra hai
 
   3
   Jine ki mujhe kuchh aas nahiṅ
   Ab koi bhi mere paas nahiṅ
   Roti huṅ akele dar dar kar
-  Zindaaṅ mein andhera gehra hai
+  Zindaaṅ meiṅ andhera gehra hai
 
   4
-  Ae baba gar main mar jaauṅ
+  Ae baba gar maiṅ mar jaauṅ
   To shaam se pehle turbat par
   Ek shama jala dena aakar
-  Zindaaṅ mein andhera gehra hai
+  Zindaaṅ meiṅ andhera gehra hai
 
   5
   Khud Shaam ke rehne waale bhi
   Ye soch ke aaheṅ bharte haiṅ
   Kamsin hai bahut Shah ki dukhtar
-  Zindaaṅ mein andhera gehra hai
+  Zindaaṅ meiṅ andhera gehra hai
 
   6
   Jo nur thi Shah ki aankhoṅ ka
-  Wo bachchi andheri qaid mein hai
+  Wo bachchi andheri qaid meiṅ hai
   Har lamha qayaamat hai us par
-  Zindaaṅ mein andhera gehra hai
+  Zindaaṅ meiṅ andhera gehra hai
 
   7
   Ab is ke ujaaloṅ se raushan
   Hai saara zamaana ae Gohar
   Kehti thi jo bachchi ro ro kar
-  Zindaaṅ mein andhera gehra hai
+  Zindaaṅ meiṅ andhera gehra hai
 # source_id: nohayonline:f0f3fe304dbc59e58a2a
 # source_url: https://www.nohayonline.com/details_content.php?id=655
 # raw_sha256: 55290bebe9e243ad0a1d0f3497b0789854b41f23e4120ff8c746d4f2d287ab17

@@ -36,7 +36,7 @@ romanLyrics: |-
   Aah unko bar sar-e-darbaar laaya jaayega
 
   6
-  Ran mein Qasim ke sarhaane chup khare haiṅ Shaah-e-Diṅ
+  Ran meiṅ Qasim ke sarhaane chup khare haiṅ Shaah-e-Diṅ
   Kis tarah paamaal laashe ko uthaaya jaayega
 
   7

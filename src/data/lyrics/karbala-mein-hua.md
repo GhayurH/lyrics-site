@@ -1,6 +1,6 @@
 ---
 title: "کربلا میں ہوا لختِ دل شبیر ٹکڑے"
-alternateTitle: "Karbala Mein Hua"
+alternateTitle: "Karbala Meiṅ Hua"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,11 +11,11 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Karbala mein hua lakht-e-dil-e-Shabbar tukre
+  Karbala meiṅ hua lakht-e-dil-e-Shabbar tukre
   Ran se Qaasim ke utha laaye haiṅ Sarwar tukre
 
   1
-  Pahunche maidaan mein Qaasim ki sada sun kar jab
+  Pahunche maidaan meiṅ Qaasim ki sada sun kar jab
   Dekha Shabbir ne bhaai ka hai dilbar tukre
 
   2
@@ -31,7 +31,7 @@ romanLyrics: |-
   Aap ke laal ke laaye haiṅ utha kar tukre
 
   5
-  Waaqia Hazrat-e-Qaasim ki shahaadat ka Rasheed
+  Waaqia Hazrat-e-Qaasim ki shahaadat ka Rashid
   Sun ke hota hai har ek ka dil-e-muztar tukre
 # source_id: nohayonline:2d1da972b95c9ff681c0
 # source_url: https://www.nohayonline.com/details_content.php?id=1973

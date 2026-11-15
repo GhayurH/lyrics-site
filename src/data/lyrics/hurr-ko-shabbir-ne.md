@@ -15,7 +15,7 @@ romanLyrics: |-
   Naar ko nur kiya aur shahaadat de di
 
   2
-  Kya sakhaawat hai Husain ibn-e-Ali mein wallaah
+  Kya sakhaawat hai Husain ibn-e-Ali meiṅ wallaah
   Jaam kausar ka diya rehne ko jannat de di
 # source_id: nohayonline:aa4ffa01cc5ffa43dbbc
 # source_url: https://www.nohayonline.com/details_content.php?id=2689

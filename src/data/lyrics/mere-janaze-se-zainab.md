@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ali ke ghar mein ye kaisi Ali pe ghurbat thi
+  Ali ke ghar meiṅ ye kaisi Ali pe ghurbat thi
   Husain sine se lipte the kya qayaamat thi
   Ukharti saanseṅ thi haaye qarib rukhsat thi
   Ali ke hontoṅ pe ye aakhri wasiyat thi
@@ -22,7 +22,7 @@ romanLyrics: |-
 
   2
   Jo beti dekh nahiṅ paayi mera sar zakhmi
-  Na jaane kaise mujhe wo kafan mein dekhegi
+  Na jaane kaise mujhe wo kafan meiṅ dekhegi
   Wo sah na paayegi duniya se mera jaana Husain
 
   3
@@ -37,8 +37,8 @@ romanLyrics: |-
 
   5
   Chali thi kis tarah talwaar ye bata dena
-  Jo mera haal tha masjid mein wo suna dena
-  Amaama khun mein duba nahiṅ dikhaana Husain
+  Jo mera haal tha masjid meiṅ wo suna dena
+  Amaama khun meiṅ duba nahiṅ dikhaana Husain
 
   6
   Khuda ka shukr adaa kar ke haaye bole Ali
@@ -46,9 +46,9 @@ romanLyrics: |-
   Khuda ko tohfa hai ghar betiyoṅ ka aana Husain
 
   7
-  Kafan mein dekh ke saanseṅ hi ruk na jaaye kahiṅ
+  Kafan meiṅ dekh ke saanseṅ hi ruk na jaaye kahiṅ
   Jahaaṅ wo baithe suno tum bhi baith jaana wahaaṅ
-  Wo ghash mein aaye to shaanoṅ ko tum hilaana Husain
+  Wo ghash meiṅ aaye to shaanoṅ ko tum hilaana Husain
 
   8
   Rakhoge haath ab un ke saroṅ pe tum jaa ke

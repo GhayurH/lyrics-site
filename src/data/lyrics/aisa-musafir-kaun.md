@@ -25,10 +25,10 @@ romanLyrics: |-
 
   3
   Tujh ko Khuda ka wasta Ae Karbala tu hi bata
-  Ghurbat mein jis ka ghar luta aisa musafir kaun hai
+  Ghurbat meiṅ jis ka ghar luta aisa musafir kaun hai
 
   4
-  Taraaj ghar ki yaad mein apne pidar ki yaad mein
+  Taraaj ghar ki yaad meiṅ apne pidar ki yaad meiṅ
   Taa zindagi rota rahe aisa musafir kaun hai
 
   5
@@ -36,7 +36,7 @@ romanLyrics: |-
   Ghairat jise sajda kare aisa musafir kaun hai
 
   6
-  Turbat banaye qaid mein mayyat uthaye qaid mein
+  Turbat banaye qaid meiṅ mayyat uthaye qaid meiṅ
   Puchho zara tarikh se aisa musafir kaun hai
 
   7
@@ -44,12 +44,12 @@ romanLyrics: |-
   Ayyub bhi noha parhe aisa musafir kaun hai
 
   8
-  Gardan mein ho tauq-e-garaṅ aur paaoṅ mein ho beriyaṅ
+  Gardan meiṅ ho tauq-e-garaṅ aur paaoṅ meiṅ ho beriyaṅ
   Taa shaam wo paidal chale aisa musafir kaun hai
 
   9
-  Aahan pehen ke haath mein kunbe ko leke saath mein
-  Darbar mein jaana pade aisa musafir kaun hai
+  Aahan pehen ke haath meiṅ kunbe ko leke saath meiṅ
+  Darbar meiṅ jaana pare aisa musafir kaun hai
 
   10
   Pehchan jo tu ne likhi haaṅ Ae Bilal Kazmi

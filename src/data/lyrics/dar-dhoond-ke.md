@@ -14,41 +14,41 @@ romanLyrics: |-
   Dar dhund ke zindaaṅ ka ye kehti hai Sakina
   Baaba mujhe sine pe sulaane chale aao
 
-  Is aalam-e-tanhaai mein mar jaauṅ na Baaba
+  Is aalam-e-tanhaai meiṅ mar jaauṅ na Baaba
   Marne se Sakina ko bachaane chale aao
 
   1
-  Har waqt teri yaad mein roti hai Sakina
-  Maghmum teri aas mein hoti hai Sakina
+  Har waqt teri yaad meiṅ roti hai Sakina
+  Maghmum teri aas meiṅ hoti hai Sakina
   Naaraaz teri lakht-e-jigar tujh se hai Baaba
   Ruthi hui beti ko manaane chale aao
 
   2
-  Main chain ka ik saans bhi Baaba nahiṅ leti
+  Maiṅ chain ka ik saans bhi Baaba nahiṅ leti
   Ye pyaas ki shiddat mujhe sone nahiṅ deti
   Ab nind tiri beti ko na aayegi Baaba
   Ik chain ki lori hi sunaane chale aao
 
   3
   Asghar mera bhaiya wo meri jaan kahaaṅ hai
-  Chhe maah jo dunya mein tha mehmaan kahaaṅ hai
+  Chhe maah jo dunya meiṅ tha mehmaan kahaaṅ hai
   Baaba mujhe bhaiya ki judaai nahiṅ bhuli
   Asghar ko Sakina se milaane chale aao
 
   4
   Ik daagh hai bhaai ka kamar tor di jis ne
   Ik daagh hai bete ka nazar chhin li jis ne
-  Jo dil pe lage zakhm tumheṅ Karb o Bala mein
+  Jo dil pe lage zakhm tumheṅ Karb o Bala meiṅ
   Baaba wo Sakina ko dikhaane chale aao
 
   5
   Bistar nahiṅ sone ke liye farsh-e-zamiṅ hai
-  Main Shah ki yatima huṅ mera qalb haziṅ hai
+  Maiṅ Shah ki yatima huṅ mera qalb haziṅ hai
   Zindaaṅ ka andhera hai muqaddar mera Baaba
   Taariki-e-zindaaṅ ko mitaane chale aao
 
   6
-  Main Aal-e-Muhammad ke gharaane ka nagina
+  Maiṅ Aal-e-Muhammad ke gharaane ka nagina
   Is waaste Baaba mujhe kehte the Sakina
   Zaalim ke tamaachoṅ ne sukuṅ chhina hai mera
   Kab aaoge Baaba ye bataane chale aao

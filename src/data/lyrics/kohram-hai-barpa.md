@@ -19,14 +19,14 @@ romanLyrics: |-
 
   1
   Jibril ye sar pit ke karte haiṅ munaadi
-  Maara gaya maabud ke sajde mein namaazi
+  Maara gaya maabud ke sajde meiṅ namaazi
   Talwaar se zakhmi hua Islam ka rehbar
   Kohram hai barpa kohram hai barpa
 
   2
-  Zaalim ne pehle tegh zeher mein bujhaai hai
+  Zaalim ne pehle tegh zeher meiṅ bujhaai hai
   Phir sher-e-Kirdigaar ke sar pe lagaai hai
-  Apne lahu mein dub gaye saaqi-e-Kausar
+  Apne lahu meiṅ dub gaye saaqi-e-Kausar
   Kohram hai barpa kohram hai barpa
 
   3
@@ -48,9 +48,9 @@ romanLyrics: |-
   Kohram hai barpa kohram hai barpa
 
   6
-  Aalam mein ye purdard sada gunj rahi hai
+  Aalam meiṅ ye purdard sada gunj rahi hai
   Dunya se wo jaata hai jo waliyoṅ ka wali hai
-  Waiz hai azaadaaroṅ ki aankhoṅ mein samandar
+  Waiz hai azaadaaroṅ ki aankhoṅ meiṅ samandar
   Kohram hai barpa kohram hai barpa
 # source_id: nohayonline:57b2a4382089ce3fd826
 # source_url: https://www.nohayonline.com/details_content.php?id=3111

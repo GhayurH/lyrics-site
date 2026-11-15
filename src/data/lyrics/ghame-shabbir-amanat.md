@@ -10,24 +10,24 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Gham-e-Shabbir amaanat hai mere sine mein
-  Ik yehi baat hai jo dil hai laga jine mein
+  Gham-e-Shabbir amaanat hai mere sine meiṅ
+  Ik yehi baat hai jo dil hai laga jine meiṅ
 
   1
   Tera banda-e-Ali hai ke Khudaaya tu ne
-  Apni tasvir saja rakhi hai aaine mein
+  Apni tasvir saja rakhi hai aaine meiṅ
 
   2
-  Ran mein hamshakl-e-Payambar ko na bheje Maula
-  Koi barchhi na utar aaye kahiṅ sine mein
+  Ran meiṅ hamshakl-e-Payambar ko na bheje Maula
+  Koi barchhi na utar aaye kahiṅ sine meiṅ
 
   3
   Ye musalmaan ajab dushman-e-Paighambar haiṅ
-  Dekh sakte nahiṅ tasvir hi aaine mein
+  Dekh sakte nahiṅ tasvir hi aaine meiṅ
 
   4
   Bachcha chhe maah ka tha saamne darya tha rawaaṅ
-  Kya ghata jaata tha do ghunt bhala pine mein
+  Kya ghata jaata tha do ghunt bhala pine meiṅ
 # source_id: nohayonline:0252285e7105a8048aab
 # source_url: https://www.nohayonline.com/details_content.php?id=1097
 # raw_sha256: eecfda34659984147044c7aaf342dc3b88f85a9cf99abf3441d8d795247a1a52

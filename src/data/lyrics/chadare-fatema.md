@@ -20,7 +20,7 @@ romanLyrics: |-
   Teri khaak-e-paa se na hum sar uthaayeṅ
   Wahiṅ par ajal ko gale se lagaayeṅ
   Rahe teri chaadar ka saaya saroṅ par
-  Shafaaat ke saaye mein hum sar chhupaayeṅ
+  Shafaaat ke saaye meiṅ hum sar chhupaayeṅ
 
   2
   Falak par diloṅ ke tujhi se ujaala
@@ -47,14 +47,14 @@ romanLyrics: |-
   Imaamat ke mansab ko phir phir bhi bachaaya
 
   6
-  Ali ke gale mein jo rassi bandhi thi
+  Ali ke gale meiṅ jo rassi bandhi thi
   Musibat ye Zahra ke dil pe bari thi
   Na tha koi yaawar ghazab ki ghari thi
   Ali ke wo daaman ko pakre khari thi
 
   7
   Ye Mukhlis pe aur Shadmaṅ pe karam haiṅ
-  Gham-e-Sayyeda mein jo aankheṅ ye nam haiṅ
+  Gham-e-Sayyeda meiṅ jo aankheṅ ye nam haiṅ
   Mawaddat ki raahoṅ ke ye hamsafar haiṅ
   Wilaayat ke raste pe ye hum qadam haiṅ
 # source_id: nohayonline:b0a01053def1fe9ea51a

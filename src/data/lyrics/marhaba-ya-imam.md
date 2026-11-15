@@ -29,21 +29,21 @@ romanLyrics: |-
   Ab to har dil ki sada har subh har ek shaam
 
   2
-  Phir se chamke ga fiza mein Zulfiqaar-e-Haidari
+  Phir se chamke ga fiza meiṅ Zulfiqaar-e-Haidari
   Na raheṅ ge phir munaafiq aur na munkir koi
   Aashiqaan-e-Mustafa ka hoga hontoṅ par yehi
   Ab to har dil ki sada har subh har ek shaam
 
   3
-  Waqt ki nabzeṅ raheṅ gi phir hamaare haath mein
-  Na aqidoṅ mein tafarruqa hoga aur na zaat mein
-  Maatami kehte raheṅ ge bas yehi har baat mein
+  Waqt ki nabzeṅ raheṅ gi phir hamaare haath meiṅ
+  Na aqidoṅ meiṅ tafarruqa hoga aur na zaat meiṅ
+  Maatami kehte raheṅ ge bas yehi har baat meiṅ
   Ab to har dil ki sada har subh har ek shaam
 
   4
   Ek hi hoga aqida ek qibla aur namaaz
-  Ab kahaaṅ sajdoṅ mein hoga beyaqini ka jawaaz
-  Ab azaaṅ ban kar jahaaṅ mein gunj uthe ga haq aasaar
+  Ab kahaaṅ sajdoṅ meiṅ hoga beyaqini ka jawaaz
+  Ab azaaṅ ban kar jahaaṅ meiṅ gunj uthe ga haq aasaar
   Ab to har dil ki sada har subh har ek shaam
 
   5
@@ -53,7 +53,7 @@ romanLyrics: |-
   Ab to har dil ki sada har subh har ek shaam
 
   6
-  Gunj uthe gi fiza mein ye sada Farhaan ki
+  Gunj uthe gi fiza meiṅ ye sada Farhaan ki
   Hai Ali waaris hamaare sab pukaareṅ ge yehi
   Jo likha hai haq likha hai tu ne Mazhar Aabidi
   Ab to har dil ki sada har subh har ek shaam

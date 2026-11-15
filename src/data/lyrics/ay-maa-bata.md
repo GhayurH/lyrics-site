@@ -12,7 +12,7 @@ aliases: ["Ay Maa Bata"]
 published: true
 romanLyrics: |-
   Ek roz maaṅ se puchha tha ye Shadman ne
-  Guzre isi aza mein hai sadiyoṅ ke rat jage
+  Guzre isi aza meiṅ hai sadiyoṅ ke rat jage
   Ji khol kar Husain ko hum ro nahiṅ sake
   Bachpan ka wo sawaal mujhe abhi yaad hai
   Daaman ko aansuoṅ se bhigote haiṅ kis tarah
@@ -20,20 +20,20 @@ romanLyrics: |-
 
   1
   Tune aza ke farsh pe mujhko bitha diya
-  Paani jo maanga main ne to paani pila diya
-  Aaghosh mein aza ka saliqa bata diya
-  Godi mein tune loriyaaṅ dekar sula diya
+  Paani jo maanga maiṅ ne to paani pila diya
+  Aaghosh meiṅ aza ka saliqa bata diya
+  Godi meiṅ tune loriyaaṅ dekar sula diya
   Zindaan ki zamiṅ pe sote haiṅ kis tarah
 
   2
   Bachpan se humko tune hi zauq-e-aza diya
   Taabut ko saja diya farsh-e-aza bichha
   Aankhoṅ ko apni parcham-e-Ghazi se mas kiya
-  Aaghosh mein utha ke dikha di hai Karbala
+  Aaghosh meiṅ utha ke dikha di hai Karbala
   Shaida aza-e-shaah ke hote haiṅ kis tarah
 
   3
-  Saaye mein baap ke hai guzarti meri hayaat
+  Saaye meiṅ baap ke hai guzarti meri hayaat
   Hoti hai pure khwaahisheṅ taa hadd-e-mumkinaat
   Sunte to haiṅ hum Shaam ke zindaaṅ ke waaqiaat
   Hum jaante nahiṅ haiṅ Sakina ke mushkilaat
@@ -44,10 +44,10 @@ romanLyrics: |-
   Qurbaan haq pe kar diya bhai Husain ne
   Din-e-Khuda ki jaaṅ bachaayi Husain ne
   Karyal jawaaṅ ki laash uthaayi Husain ne
-  Saare ghamoṅ ko dil mein samaate haiṅ kis tarah
+  Saare ghamoṅ ko dil meiṅ samaate haiṅ kis tarah
 
   5
-  Maqtal mein kab tha Fatema Zehra ke dil ko chain
+  Maqtal meiṅ kab tha Fatema Zehra ke dil ko chain
   Tha intehaa-e-sabr pe Zehra ka nur-e-ain
   Laashe pe har shahid ke roke rahe the bain
   Asghar ki qabr khod ke rone lage Husain
@@ -61,14 +61,14 @@ romanLyrics: |-
   Noke mija pe ashq pirote hai kis tarha
 
   7
-  Zikr-e-gham-e-Husain mein izzat nasib ho
+  Zikr-e-gham-e-Husain meiṅ izzat nasib ho
   Haq baat sab se kehne ki jurat nasib ho
   Daaman ko apne ashq-e-nadaamat nasib ho
   Hurr ki tarah hameṅ bhi shahaadat nasib ho
   Isyaaṅ ke daagh aaj bhi dhote haiṅ kis tarah
 
   8
-  Ilm o amal mein pesh-e-nazar ho raza-e-Rab
+  Ilm o amal meiṅ pesh-e-nazar ho raza-e-Rab
   Rauza namaz har ke faraiz ada ho sab
   Haq-e-Imam ada ho ada ho namaaz-e-shab
   Maaṅ aakhri jihaad ko taiyaar karde ab

@@ -17,7 +17,7 @@ romanLyrics: |-
   Gharib Imam alwida shahid Imam alwida
 
   1
-  Ye ranj o gham ki baarisheṅ ye khun mein dubi aastiṅ
+  Ye ranj o gham ki baarisheṅ ye khun meiṅ dubi aastiṅ
   Ye beshumaar zakhm aur tumhaara jism-e-naaznin
   Hai kaun jo samajh sake tumhaare gham ki inteha
 
@@ -29,7 +29,7 @@ romanLyrics: |-
   3
   Kahaaṅ aza ki wusateṅ kahaaṅ ye ashk-e-mukhtasar
   Isi ka Shaah-e-bahr o bar qalaq rahega saal bhar
-  Tumhaare gham mein rone ka hua na hum se haq ada
+  Tumhaare gham meiṅ rone ka hua na hum se haq ada
 
   4
   Hamaara ghut raha hai dam hameṅ rula rahe hai kiuṅ

@@ -12,7 +12,7 @@ aliases: ["Ay Aspe Wafadar"]
 published: true
 romanLyrics: |-
   Jab aakhri rukhsat ko chale Sayyid-e-waala
-  Hamsheer ko dukhtar ko bhi Allah ko sauṅpa
+  Hamshir ko dukhtar ko bhi Allah ko sauṅpa
   Phir rote huwe asp-e-wafaadaar se bole
   Aa tu bhi wida bekas o mazlum se ho le
   Ae asp-e-wafaadaar ae asp-e-wafaadaar
@@ -24,9 +24,9 @@ romanLyrics: |-
   Gardan pe meri Shimr ki chalne ko hai talwaar
 
   2
-  Tu to mere naana ki sawaari mein raha hai
+  Tu to mere naana ki sawaari meiṅ raha hai
   Ab tujh se bichharne ka mujhe ranj bara hai
-  Par kya karuṅ mehzar mein mera naam likha hai
+  Par kya karuṅ mehzar meiṅ mera naam likha hai
   Raakib tera marne ko chala hai mere rahwaar
 
   3
@@ -43,27 +43,27 @@ romanLyrics: |-
 
   5
   Ye sun ke tarapne laga kehne laga ro kar
-  Behtar hai ke jaaṅ de duṅ main kuffaar se lar kar
+  Behtar hai ke jaaṅ de duṅ maiṅ kuffaar se lar kar
   Ae kaash ke chal jaaye mere halq pe khanjar
-  Main aap pe jaaṅ dene ko tayyaar huṅ sau baar
+  Maiṅ aap pe jaaṅ dene ko tayyaar huṅ sau baar
   Ae Sayyid-e-abraar ae Sayyid-e-abraar
 
   6
   De hukm to is fauj-e-sitamgar ko kuchal duṅ
-  Naqsha main zara der mein maqtal ka badal duṅ
+  Naqsha maiṅ zara der meiṅ maqtal ka badal duṅ
   Har ek sitamgaar ko paighaam-e-ajal duṅ
   Ae Ibn-e-Ali hukm hai bas aap ka darkaar
 
   7
   Ye sun ke hui tar mere Maula ki nigaaheiṅ
-  Gardan mein bare pyaar se phir daal di baaheiṅ
+  Gardan meiṅ bare pyaar se phir daal di baaheiṅ
   Aur asp-e-wafaadaar bhi bharne laga aaheiṅ
   Maula ne kaha jaa tera Allah madadgaar
 
   8
-  Ab hashr mein hum tujh se mulaaqaat kareṅge
-  Maqtal mein basar aaj se din raat kareṅge
-  Hum khuld mein naana se teri baat kareṅge
+  Ab hashr meiṅ hum tujh se mulaaqaat kareṅge
+  Maqtal meiṅ basar aaj se din raat kareṅge
+  Hum khuld meiṅ naana se teri baat kareṅge
   Royeṅge tujhe dekh ke sab mere azaadaar
 
   9

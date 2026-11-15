@@ -16,19 +16,19 @@ romanLyrics: |-
   1
   Chale haiṅ khaime se phir laut kar na aayeṅge
   Sawaal-e-aab pe tir-e-sitam yeh khaayeṅge
-  Na baad-e-dafn bhi marqad mein chain paayeṅge
+  Na baad-e-dafn bhi marqad meiṅ chain paayeṅge
   Husain dil ko bhala kis tarah manaayeṅge
 
   2
   Chala jo tir to kaanpi zamin-e-Karb o Bala
   Chhidi jo gardan-e-beshir to falak larza
-  Fazaa-e-dasht mein ik hashr ho gaya barpa
+  Fazaa-e-dasht meiṅ ik hashr ho gaya barpa
   Magar Husain ka beta tha muskura utha
 
   3
   Jo dekha Baanu-e-muztar ne dil larazne laga
   Kaha yeh ro ro ke haaye haaye yeh kya hua beta
-  Zara si der mein viraan kar gaye jhula
+  Zara si der meiṅ viraan kar gaye jhula
   Rahega hontoṅ pe taa umr bas yehi nauha
 
   4
@@ -47,7 +47,7 @@ romanLyrics: |-
   Chale jo turbat-e-beshir se su-e-khaima
   Husain bekas o mazlum tashna lab tanha
   Farid koi na tha dasht-e-Nainawa ke siwa
-  Faza mein gunj rahi thi yeh Fatima ki sada
+  Faza meiṅ gunj rahi thi yeh Fatima ki sada
 # source_id: nohayonline:351eed4a9f59d66721d5
 # source_url: https://www.nohayonline.com/details_content.php?id=3349
 # raw_sha256: 441f61e84cea609ae46c30d506397b1488d0c8cf29ca69f75823ba613d4a783a

@@ -22,12 +22,12 @@ romanLyrics: |-
 
   2
   Zakhmi pehlu pe hi ek haath mera rehta tha
-  Dusra haath utha kar main dua karti thi
+  Dusra haath utha kar maiṅ dua karti thi
   Al ajal Ya Mehdi
 
   3
   Haṅs rahe the sabhi darbari meri ghurbat par
-  Main ne tahrir-e-Nabi khaak se ye keh ke chuni
+  Maiṅ ne tahrir-e-Nabi khaak se ye keh ke chuni
   Al ajal Ya Mehdi
 
   4
@@ -36,12 +36,12 @@ romanLyrics: |-
   Al ajal Ya Mehdi
 
   5
-  Ek kuche mein jo zalim ne tamacha mara
-  Haye main rote hue khaak pe ye keh ke giri
+  Ek kuche meiṅ jo zalim ne tamacha mara
+  Haye maiṅ rote hue khaak pe ye keh ke giri
   Al ajal Ya Mehdi
 
   6
-  Baandh ke khinchi jo zalim ne gale mein rassi
+  Baandh ke khinchi jo zalim ne gale meiṅ rassi
   Dil mera kehta raha dekh ke tauhin-e-Ali
   Al ajal Ya Mehdi
 

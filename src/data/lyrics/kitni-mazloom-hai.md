@@ -34,19 +34,19 @@ romanLyrics: |-
 
   3
   Khaamosh Bu Turab the mansha-e-Kibriya
-  Darbaar mein lain ke pahuṅchi jo Sayyeda
+  Darbaar meiṅ lain ke pahuṅchi jo Sayyeda
   Hasnain ke siwa koi hamdard hi na tha
   Sab jaaṅ nisaar ho gaye qaatil ke hamnawa
   Jo chhor kar gaye the janaaza Rasul ka
   Karte bhala Rasul ki beti se kya wafa
 
   4
-  Atthaarhveṅ baras mein uthaaye hai ye mihan
-  Din raat Sayyeda ke kaleje mein thi dukhan
-  Dekhi gulu-e-Haidar-e-Karraar mein rasan
+  Atthaarhveṅ baras meiṅ uthaaye hai ye mihan
+  Din raat Sayyeda ke kaleje meiṅ thi dukhan
+  Dekhi gulu-e-Haidar-e-Karraar meiṅ rasan
   Roye Husain Zainab o Kulsum aur Hasan
-  Jab the Ali hisaar mein us din ko royi hai
-  Tanhaaiyoṅ mein baith ke Mohsin ko royi hai
+  Jab the Ali hisaar meiṅ us din ko royi hai
+  Tanhaaiyoṅ meiṅ baith ke Mohsin ko royi hai
 
   5
   Karwat se daaiṅ jaanib kabhi so nahiṅ saki
@@ -74,7 +74,7 @@ romanLyrics: |-
 
   8
   Mismaar qabr-e-Fatima Zahra ko kar diya
-  Jaari hai phir bhi zulm ka ummat mein silsila
+  Jaari hai phir bhi zulm ka ummat meiṅ silsila
   Le lo jo naam qaatil-e-Zahra to hai saza
   Sadiyoṅ ke baad bhi hai wohi zulm aur jafa
   Socha kabhi nahiṅ tha ke ye din bhi aaye ga
@@ -86,7 +86,7 @@ romanLyrics: |-
   Jo zulm seh gayi hai wo beti Rasul ki
   Ta umr meri Bibi azaadaar hi rahi
   Ro kar hayaat kaati ghamoṅ ki asir ne
-  Likha hai marsiya mein Anis o Dabir ne
+  Likha hai marsiya meiṅ Anis o Dabir ne
 # source_id: nohayonline:4c9c4af95b687dc49449
 # source_url: https://www.nohayonline.com/details_content.php?id=3716
 # raw_sha256: 3903367c385718b4b4f21ae0648b123ae178434817c88ec2df5142af53d6530d

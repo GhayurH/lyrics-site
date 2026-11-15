@@ -21,9 +21,9 @@ romanLyrics: |-
   Abbas tanha haiṅ khare ran meiṅ Sarwar
 
   2
-  Ae mere sher-e-jawaṅ ae mere bhai ho kahaṅ
+  Ae mere sher-e-jawaaṅ ae mere bhai ho kahaṅ
   Shaakh hai dil pe mere teri judaai ho kahaṅ
-  Der se deti huṅ bhaiya main duhaai ho kahaṅ
+  Der se deti huṅ bhaiya maiṅ duhaai ho kahaṅ
   Lutti hai Fatema Zehra ki kamaai ho kahaṅ
   Abbas khanjar hai halq-e-Sarwar par
 
@@ -66,7 +66,7 @@ romanLyrics: |-
   Chhor kar dasht-e-musibat meiṅ behan ko bhai
   Tum ne achchha hi kiya dur basaai basti
   Dekh sakte the kahaṅ tum jo hai haalat meri
-  Balwa-e-aam meiṅ bhaiya main khule sar huṅ khari
+  Balwa-e-aam meiṅ bhaiya maiṅ khule sar huṅ khari
   Abbas aada le gaye sar se chaadar
 
   9

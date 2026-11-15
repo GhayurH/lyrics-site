@@ -11,25 +11,25 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Thi yehi dasht-e-musibat mein sada-e-Sarwar
+  Thi yehi dasht-e-musibat meiṅ sada-e-Sarwar
   Hai koi jo ke sune aaj nida-e-Sarwar
   Kya hai koi jo chala aaye baraa-e-Sarwar
   Hal min naasirin yansuruna
 
   1
-  Haaye is dasht mein bemunis o beyaar Husain
+  Haaye is dasht meiṅ bemunis o beyaar Husain
   Har nafas khaate haiṅ aghyaar se aazaar Husain
   Koi to aaye sada dete haiṅ naadaar Husain
 
   2
-  Ghir gaye fauj-e-sitamgar mein shahanshaah-e-umam
+  Ghir gaye fauj-e-sitamgar meiṅ shahanshaah-e-umam
   Zakhm pe zakhm diye jaati hai tegh-e-paiham
   Aur har zakhm hum tum ko bulaate haiṅ baaham
 
   3
   Aandhiyaaṅ tiroṅ ki tufaan hai talwaaroṅ ke
   Zakhm hai dil pe Shaah-e-diṅ ke ghamkhwaaroṅ ke
-  Muntazir hai Shaah-e-diṅ dasht mein ansaaroṅ ke
+  Muntazir hai Shaah-e-diṅ dasht meiṅ ansaaroṅ ke
 
   4
   Haaye paani na dam-e-marg hameṅ mil paaya
@@ -37,15 +37,15 @@ romanLyrics: |-
   Aur hoṅtoṅ pe thi aawaaz-e-haziṅ waawaila
 
   5
-  Shaah-e-diṅ tanha hai aur dasht mein hangaam-e-bala
+  Shaah-e-diṅ tanha hai aur dasht meiṅ hangaam-e-bala
   Kho ke Akbar sa pisar aur shahanshaah-e-wafa
   Ab bulaaye kise nusrat ko Shaah-e-Karb o Bala
 
   6
   Kahiṅ khanjar kahiṅ talwaar kahiṅ par naiza
-  Har taraf chhaai hai maqtal mein qayaamat ki ghata
+  Har taraf chhaai hai maqtal meiṅ qayaamat ki ghata
   Haaye koi nahiṅ ghamkhwaar raha ab mera
-  Aise aalam mein ho alfaaz-e-Shaah-e-Karb o Bala
+  Aise aalam meiṅ ho alfaaz-e-Shaah-e-Karb o Bala
   Ab nahiṅ kuchh raha hamraah mere gham ke siwa
   Hil gaya farsh-e-zamiṅ kaaṅp utha arsh-e-ula
   Haaye darya pe laraz utha jari ka laasha
@@ -81,7 +81,7 @@ romanLyrics: |-
 
   12
   Maqsad-e-Hazrat-e-Shabbir ho maqsad apna
-  Bas wohi chaahiye jis mein Shaah-e-diṅ ki riza
+  Bas wohi chaahiye jis meiṅ Shaah-e-diṅ ki riza
   Aur kuchh bhi nahiṅ darkaar hai is shah ke siwa
 
   13

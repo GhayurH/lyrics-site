@@ -18,15 +18,15 @@ romanLyrics: |-
 
   2
   Yeh baat bhul gaye dushman-e-Abu Talib
-  Rasul kufr ke daaman mein pal nahiṅ sakta
+  Rasul kufr ke daaman meiṅ pal nahiṅ sakta
 
   3
   Husain zinda haiṅ, jab tak zamaana baaqi hai
   Yazidiyat ka shajar phul phal nahiṅ sakta
 
   4
-  Woh jis ki aaṅkh mein aaṅsu Gham-e-Husain ke haiṅ
-  Yaqin hai aatish-e-dozakh mein jal nahiṅ sakta
+  Woh jis ki aaṅkh meiṅ aaṅsu Gham-e-Husain ke haiṅ
+  Yaqin hai aatish-e-dozakh meiṅ jal nahiṅ sakta
 
   5
   Na Sheh ko subh-e-alam se daraa shab-e-Aashur

@@ -1,6 +1,6 @@
 ---
 title: "دربار میں جب کٹ کے یتیموں کے سر آئے"
-alternateTitle: "Darbaar Mein Jab Kat Ke"
+alternateTitle: "Darbaar Meiṅ Jab Kat Ke"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,8 +12,8 @@ aliases: ["Darbar May Jab Katke"]
 published: true
 romanLyrics: |-
   1
-  Darbaar mein jab kat ke yatimoṅ ke sar aae
-  Dube hue do chaand lahu mein nazar aae
+  Darbaar meiṅ jab kat ke yatimoṅ ke sar aae
+  Dube hue do chaand lahu meiṅ nazar aae
   Ghul par gaya Muslim ke ye lakht-e-jigar aae
   Ghurbatzada o bewatan o bepidar aae
   Shamshir-e-sitam chal gai un nauhagaroṅ par
@@ -24,61 +24,61 @@ romanLyrics: |-
   Sar bachchoṅ ke laaya huṅ mile qilat o inaam
   Pehchaan le Muslim ke pisar haiṅ yehi gulfaam
   Ye wo haiṅ jo zindaan se bhaage the sar-e-shaam
-  Main dhundta phirta tha na haath aate the donoṅ
+  Maiṅ dhundta phirta tha na haath aate the donoṅ
   Paate the jidhar raah nikal jaate the donoṅ
 
   3
   Haakim ne kaha tu ne kahaaṅ phir inheṅ paaya
-  Taariki-e-shab mein nazar aata nahiṅ saaya
+  Taariki-e-shab meiṅ nazar aata nahiṅ saaya
   Wo jor ke haathoṅ ko sukhan lab pe ye laaya
-  Zauja ne meri tha unheṅ hujre mein chhupaaya
-  Main kehta tha dil mein ke kahaaṅ jaa ke chhupe haiṅ
+  Zauja ne meri tha unheṅ hujre meiṅ chhupaaya
+  Maiṅ kehta tha dil meiṅ ke kahaaṅ jaa ke chhupe haiṅ
   Is ki na khabar thi mere ghar aa ke chhupe haiṅ
 
   4
   Az bas ke thaka tha mujhe nind aa gai us dam
-  Kya dekhta huṅ aalam-e-roya mein ba sad gham
-  Ik hujre mein do tifl nazar aate haiṅ baaham
+  Kya dekhta huṅ aalam-e-roya meiṅ ba sad gham
+  Ik hujre meiṅ do tifl nazar aate haiṅ baaham
   Sar pit ke kehte haiṅ wo ba dida-e-purnam
-  Aafat mein phanse ham dar-e-zindaaṅ se nikal ke
-  Maalum hua par gae phande mein ajal ke
+  Aafat meiṅ phanse ham dar-e-zindaaṅ se nikal ke
+  Maalum hua par gae phande meiṅ ajal ke
 
   5
   Chillaaya jo wo haae pidar keh ke dilafgaar
-  Tha nind mein ya aaṅkh meri khul gai ik baar
-  Khush ho gaya main taalia qaaft hue bedaar
-  Bistar se utha haath mein khenche hue talwaar
-  Ik hujre mein Muslim ke wo pyaare nazar aae
+  Tha nind meiṅ ya aaṅkh meri khul gai ik baar
+  Khush ho gaya maiṅ taalia qaaft hue bedaar
+  Bistar se utha haath meiṅ khenche hue talwaar
+  Ik hujre meiṅ Muslim ke wo pyaare nazar aae
   Baalaa-e-zamiṅ arsh ke taare nazar aae
 
   6
-  Jakra jo unheṅ main ne to karte the ye faryaad
-  Mehmaan tere ghar mein haiṅ ham bekas o naashaad
+  Jakra jo unheṅ maiṅ ne to karte the ye faryaad
+  Mehmaan tere ghar meiṅ haiṅ ham bekas o naashaad
   Bin baap ke haiṅ ham pe taras khaa sitam ijaad
   Le minnateṅ karte haiṅ teri chhor de jallaad
   Kar rahm ke maasum haiṅ dukh paae haiṅ zaalim
-  Ham chhupne ko daaman mein tere aae haiṅ zaalim
+  Ham chhupne ko daaman meiṅ tere aae haiṅ zaalim
 
   7
-  Main ne kaha tum donoṅ ke baaba ka hai kya naam
+  Maiṅ ne kaha tum donoṅ ke baaba ka hai kya naam
   Ro kar kaha kehte haiṅ unheṅ Muslim-e-naakaam
   Bejurm o khata un ke gale par chali samsaam
   Ham jab se chhute baap se ham ko nahiṅ aaraam
-  Dahshat se teri sine mein dil hilte haiṅ zaalim
+  Dahshat se teri sine meiṅ dil hilte haiṅ zaalim
   Ab dhili rasan kar ke gale chhilte haiṅ zaalim
 
   8
   Ye sunte hi maasumoṅ pe ghussa mujhe aaya
-  Hujre se unheṅ khenchte daalaan mein laaya
+  Hujre se unheṅ khenchte daalaan meiṅ laaya
   Un donoṅ ne jo zulm na dekha tha dikhaaya
   Mujrim ki tarah baandh diya rahm na dikhaaya
   Baahar unheṅ le aaya jo zulfoṅ ko pakar kar
-  Istaada kiya chob se rassi mein jakar kar
+  Istaada kiya chob se rassi meiṅ jakar kar
 
   9
-  Samjha na wo hargiz na mere dhyaan mein laai
-  Jhunjhla ke use tegh-e-sitam main ne lagaai
-  Ik waar mein saaid se giri kat ke kalaai
+  Samjha na wo hargiz na mere dhyaan meiṅ laai
+  Jhunjhla ke use tegh-e-sitam maiṅ ne lagaai
+  Ik waar meiṅ saaid se giri kat ke kalaai
   Chilla ke lagi dene Payambar ki duhaai
   Haae haae mere aaqa meri imdaad ko pahuncho
   Ae Shaah-e-gharibaaṅ meri faryaad ko pahuncho
@@ -100,9 +100,9 @@ romanLyrics: |-
   Gar qatl kiya ham ko to pachhtaaega zaalim
 
   12
-  Ye sun ke bara main juṅhi khenche hue talwaar
-  Pahlu mein baraadar ke baraadar gira ik baar
-  Main chhaati pe ik tifl ki aakhir hua aswaar
+  Ye sun ke bara maiṅ juṅhi khenche hue talwaar
+  Pahlu meiṅ baraadar ke baraadar gira ik baar
+  Maiṅ chhaati pe ik tifl ki aakhir hua aswaar
   Jab halq pe bachche ke rakha khanjar-e-khuṅkhaar
   Ik hashr bapa ho gaya khanjar ke chale par
   Bhaai ne gala rakh diya bhaai ke gale par

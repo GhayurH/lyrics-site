@@ -11,8 +11,8 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Safar mein haal ghariboṅ ka kya hua tha suno
-  Rasan thi ek gale us mein baarah the logoṅ
+  Safar meiṅ haal ghariboṅ ka kya hua tha suno
+  Rasan thi ek gale us meiṅ baarah the logoṅ
   Rasan jo khinchti thi Bano ye bain karti thi
   Haae Sakina meri bachchi haae Sakina meri bachchi
 
@@ -23,7 +23,7 @@ romanLyrics: |-
   Hai khauf ye ke na mar jaae ghamzada dukhiya
 
   2
-  Gala bandha hai rasan mein rasan jo khinchti hai
+  Gala bandha hai rasan meiṅ rasan jo khinchti hai
   To nafz-e-baali Sakina ko jaise dhalti hai
   Sina pe rangat-e-wajh-e-jari badalti hai
   Asir Bano faqat ro ke itna kehti hai
@@ -53,7 +53,7 @@ romanLyrics: |-
   Jala hua tera kurta hai kya kare maadar
 
   7
-  Main teri jaan pe waari muaaf kar dena
+  Maiṅ teri jaan pe waari muaaf kar dena
   Shah-e-zaman ki dulaari muaaf kar dena
   Hameṅ Husain ki pyaari muaaf kar dena
   Khataaeṅ jo hai hamaari muaaf kar dena
@@ -62,7 +62,7 @@ romanLyrics: |-
   Nahiṅ hai ab to bachaane ko Akbar o Shabbir
   Tamaache ahl-e-sitam ke yehi teri taqdir
   Koi bhi raasta aata nazar nahiṅ dilgir
-  Tumheṅ bachaauṅ kaise karuṅ main kya tadbir
+  Tumheṅ bachaauṅ kaise karuṅ maiṅ kya tadbir
 
   9
   Gharib bachchi ko ashk-e-lahu rulaaya gaya
@@ -72,12 +72,12 @@ romanLyrics: |-
 
   10
   Mazaalim-e-sitam ijaad yunhi sehti rahi
-  Bare the jis mein usi mein Sakina baandhi gai
+  Bare the jis meiṅ usi meiṅ Sakina baandhi gai
   Qadam ke bal nahiṅ panjoṅ ke bal wo chalti rahi
   Isi tarah se wo kamsin yatim Shaam chali
 
   11
-  Gala jo jakra rasan mein to boli ye bepar
+  Gala jo jakra rasan meiṅ to boli ye bepar
   Muhaal lagta hai ab mera jina ae maadar
   Jo saans rukne lagi chikhi maadar-e-muztar
   Bacha le meri Sakina ko Khaaliq-e-Akbar
@@ -85,7 +85,7 @@ romanLyrics: |-
   12
   Bahut hi sakht ye manzil hai Dayam o Yazdaṅ
   Safar jo Shaam ka tha kis tarah ho us ka bayaaṅ
-  Gala rasan mein tha bachchi ke lab pe aah o fughaaṅ
+  Gala rasan meiṅ tha bachchi ke lab pe aah o fughaaṅ
   Tarap raha tha sar-e-naizara se Shah-e-zamaaṅ
 # source_id: nohayonline:5a84fe6e97a67f9966f7
 # source_url: https://www.nohayonline.com/details_content.php?id=2495

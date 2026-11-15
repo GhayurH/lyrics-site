@@ -15,14 +15,14 @@ romanLyrics: |-
   Ae Shaam ke baazaariyo lehje ko bhi dekho
 
   1
-  Lehje mein wohi faateh-e-Khaibar ki garaj hai
+  Lehje meiṅ wohi faateh-e-Khaibar ki garaj hai
   Karraar ki jarraar ki Safdar ki garaj hai
   Pyaase ke garajte hue khutbe ko bhi dekho
 
   2
-  Woh sar ke jo neze pe tilaawat mein hai mashghul
-  Woh sar to azal se bhi ibaadat mein hai mashghul
-  Us sar ke zara khaak mein sajde ko bhi dekho
+  Woh sar ke jo neze pe tilaawat meiṅ hai mashghul
+  Woh sar to azal se bhi ibaadat meiṅ hai mashghul
+  Us sar ke zara khaak meiṅ sajde ko bhi dekho
 
   3
   Sab log yeh kis sar ki ziyaarat ke liye haaye
@@ -35,13 +35,13 @@ romanLyrics: |-
   Beghairatoṅ chhe maah ke bachche ko bhi dekho
 
   5
-  Maidaan mein bilakte hue bachchoṅ ko to dekha
+  Maidaan meiṅ bilakte hue bachchoṅ ko to dekha
   Shabbir ke jalte hue khaimoṅ ko to dekha
   Nezoṅ se ridaaoṅ ke utarne ko bhi dekho
 
   6
   Hontoṅ pe bhatiji ke raha naam chacha ka
-  Is naam ne har dukh mein diya kaam dawa ka
+  Is naam ne har dukh meiṅ diya kaam dawa ka
   Is naam pe zaalim ke tamaache ko bhi dekho
 
   7

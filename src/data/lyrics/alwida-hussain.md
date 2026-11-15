@@ -1,6 +1,6 @@
 ---
 title: "قید ہو کر جو سوے شام چلی بنت علی"
-alternateTitle: "Alwida Hussain"
+alternateTitle: "Alwida Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -14,27 +14,27 @@ romanLyrics: |-
   Qaid ho kar jo su-e-Shaam chali Bint-e-Ali
   Pahunch kar laash-e-baradar pe buka karne lagi
   Tu mere baaloṅ pe khaak daal de
-  Main tere laashe pe khaak daal duṅ
-  Tu mujhe rida de de main tujhe kafan de duṅ
+  Maiṅ tere laashe pe khaak daal duṅ
+  Tu mujhe rida de de maiṅ tujhe kafan de duṅ
   Alwida Husain alwida
 
   1
-  Dasht mein tujhko lainoṅ ne kafan bhi na diya
+  Dasht meiṅ tujhko lainoṅ ne kafan bhi na diya
   Chhin li sar se mere haye sitamgar ne rida
   Na raha koi madadgaar sar-e-dasht-e-bala
-  Tu raha bekafan main asir-e-mihan
-  Main hui berida tu gharib-ul-watan
+  Tu raha bekafan maiṅ asir-e-mihan
+  Maiṅ hui berida tu gharib-ul-watan
 
   2
   Tera laasha hua paamaal sar-e-Karbobala
   Haye tukre hua Zainab ka jigar wawaila
   Aayi besaakhta bhai mere hontoṅ pe sada
   Ye sitam kya hua mera ghar lut gaya
-  Koi yaawar nahiṅ kya karuṅ main bhala
+  Koi yaawar nahiṅ kya karuṅ maiṅ bhala
 
   3
-  Mere mazlum baradar main tujhe deti kafan
-  Haye pardes mein majbur hui teri behan
+  Mere mazlum baradar maiṅ tujhe deti kafan
+  Haye pardes meiṅ majbur hui teri behan
   Yaad aata hai mere bhai mujhe mera watan
   Dard se chur huṅ gham se ranjur huṅ
   Imtihaṅ hai mera haye majbur huṅ
@@ -42,33 +42,33 @@ romanLyrics: |-
   4
   Jo mere dil pe guzarti hai bayaṅ kaise karuṅ
   Jo lage zakhm jigar par wo ayaṅ kaise karuṅ
-  Main bhala sabr mere tashna dahaṅ kaise karuṅ
-  Khaak uraauṅ gi main gham uthaauṅ gi main
-  Kis tarah berida Shaam jaauṅ gi main
+  Maiṅ bhala sabr mere tashna dahaṅ kaise karuṅ
+  Khaak uraauṅ gi maiṅ gham uthaauṅ gi maiṅ
+  Kis tarah berida Shaam jaauṅ gi maiṅ
 
   5
-  Ye tera jism nahiṅ khun mein tar hai Quraaṅ
+  Ye tera jism nahiṅ khun meiṅ tar hai Quraaṅ
   Nok-e-naiza se chhini chaadar-e-tathir yahaṅ
   Beridai ka hai ehsaas mere dil pe garaṅ
-  Main karuṅ gi ada jo mera farz hai
+  Maiṅ karuṅ gi ada jo mera farz hai
   Mere bhai magar ye meri arz hai
 
   6
   Bint-e-Zehra pe qayaamat ki ghari hai bhai
-  Bekafan ran mein teri laash pari hai bhai
-  Aur behan dasht mein beaas khari hai bhai
-  Main jigar thaam kar reh gayi khaak par
-  Apni hamsheer par ek ehsaan kar
+  Bekafan ran meiṅ teri laash pari hai bhai
+  Aur behan dasht meiṅ beaas khari hai bhai
+  Maiṅ jigar thaam kar reh gayi khaak par
+  Apni hamshir par ek ehsaan kar
 
   7
   Waqt-e-rukhsat ye laiṅ hum pe sitam dhaayeṅ ge
   Bar sar-e-nok-e-sinaṅ tera ye sar laayeṅ ge
-  Berida mujh ko bhi baazaar mein le jaayeṅ ge
+  Berida mujh ko bhi baazaar meiṅ le jaayeṅ ge
   Tera dil roye ga zakhm wo paauṅ gi
-  Su-e-baazaar main berida jaauṅ gi
+  Su-e-baazaar maiṅ berida jaauṅ gi
 
   8
-  Kya qayaamat ka wo manzar tha Nadeem o Safdar
+  Kya qayaamat ka wo manzar tha Nadim o Safdar
   Laasha-e-Shaah tarapta tha ye naale sun kar
   Aur sar pit ke kehti rahi Bint-e-Haider
   Alwida khasta tan alwida bekafan

@@ -19,30 +19,30 @@ romanLyrics: |-
   Manam Husainiyam
 
   1
-  Main azaadaar huṅ Karb o Bala hai dil pe raqam
+  Maiṅ azaadaar huṅ Karb o Bala hai dil pe raqam
 
   2
   Khuda ka shukr hai farsh-e-aza bichhaata huṅ
-  Gham-e-Husain mein ashk-e-aza bahaata huṅ
+  Gham-e-Husain meiṅ ashk-e-aza bahaata huṅ
   Dua-e-Fatima Zehra se hai ye khaas karam
 
   3
-  Main jaanta huṅ ataaoṅ ke saare raazoṅ ko
-  Main jaanta huṅ wafa ke sabhi taqaazoṅ ko
-  Isi liye main uthaata huṅ bawafa ka alam
+  Maiṅ jaanta huṅ ataaoṅ ke saare raazoṅ ko
+  Maiṅ jaanta huṅ wafa ke sabhi taqaazoṅ ko
+  Isi liye maiṅ uthaata huṅ bawafa ka alam
 
   4
-  Utar ke arsh nashiṅ Karbala mein kehte haiṅ
-  Jhuka ke apni jabiṅ Karbala mein kehte haiṅ
+  Utar ke arsh nashiṅ Karbala meiṅ kehte haiṅ
+  Jhuka ke apni jabiṅ Karbala meiṅ kehte haiṅ
   Ilaahi tu ne dikha di hameiṅ bhi aaj Iram
 
   5
-  Yazidi fauj ne jis ko rakha tha pehre mein
-  Wo aaj turbat-e-Abbas par hai sajde mein
+  Yazidi fauj ne jis ko rakha tha pehre meiṅ
+  Wo aaj turbat-e-Abbas par hai sajde meiṅ
   Furaat chum ke kehti hai bawafa ke qadam
 
   6
-  Main maatami huṅ Khuda se mili hai ye nemat
+  Maiṅ maatami huṅ Khuda se mili hai ye nemat
   Hai dast-e-Hazrat-e-Abbas par meri baiat
   Kisi Yazid ke aage ye sar na hoga kham
 
@@ -52,13 +52,13 @@ romanLyrics: |-
   Kalaam aaj bhi ye kar rahe haiṅ lauh o qalam
 
   8
-  Dikha ke pyaas ki shiddat mein hausla apna
+  Dikha ke pyaas ki shiddat meiṅ hausla apna
   Har ek shahid ne ye keh ke diya sar apna
   Husain aap pe qurbaan hai ye mera dam
 
   9
   Kalaam-e-Muslim o Yasir hai ye Khuda mere
-  Gham-e-jahaaṅ se apni panaah mein le le
+  Gham-e-jahaaṅ se apni panaah meiṅ le le
   Jo de raha hai to de de hameiṅ Husain ka gham
 # source_id: nohayonline:c811f5be51f10bba24fd
 # source_url: https://www.nohayonline.com/details_content.php?id=1713

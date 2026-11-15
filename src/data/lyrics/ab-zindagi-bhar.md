@@ -13,15 +13,15 @@ published: true
 romanLyrics: |-
   Ye kaun si wiqar hai
   Bala ka Sheh sawar hai
-  Ye bilyaqin Husain hai
+  Ye bilyaqiṅ Husain hai
   Nabi ka nur-e-ain hai
   Libaas hai phata hua
-  Lahu mein hai ata hua
-  Tamam jism-e-naznin
+  Lahu meiṅ hai ata hua
+  Tamam jism-e-nazniṅ
   Chhida hua kata hua
   Magar kuch is ada se aaya Fatima ka laadla
   Lahu lahu hui Furat aur sukut chha gaya
-  Kuchh aisa ran para ke kaante pad gaye zaban par
+  Kuchh aisa ran para ke kaante par gaye zaban par
   Khuda ne is ke khun se likha ye aasman par
   Jo ghar luta chuka Ali ka laadla
   To boli Karbala Husain marhaba
@@ -30,10 +30,10 @@ romanLyrics: |-
   Ab zindagi bhar ya Husain
 
   1
-  Karbobala mein dasweṅ Muharram ka roz tha
-  Khanjar tale Husain ne sajde mein sar rakha
-  Ro kar pukari Zehra isay kaun royega
-  Dasht-e-bala mein hatif-e-ghaibi ne di sada
+  Karbobala meiṅ dasweṅ Muharram ka roz tha
+  Khanjar tale Husain ne sajde meiṅ sar rakha
+  Ro kar pukari Zehra ise kaun royega
+  Dasht-e-bala meiṅ hatif-e-ghaibi ne di sada
 
   2
   Woh dil bujhe huwe woh hawaeṅ thami hui
@@ -54,10 +54,10 @@ romanLyrics: |-
   Maujoṅ ki istiraf se aane lagi sada
 
   5
-  Tujh sa shahid kaun hai aalam mein ae Husain
-  Tu hai har ek dida-e-purnam mein ae Husain
-  Rote haiṅ do jahaṅ tere gham mein ae Husain
-  Zinda rahega halqa-e-matam mein bhi sada
+  Tujh sa shahid kaun hai aalam meiṅ ae Husain
+  Tu hai har ek dida-e-purnam meiṅ ae Husain
+  Rote haiṅ do jahan tere gham meiṅ ae Husain
+  Zinda rahega halqa-e-matam meiṅ bhi sada
 
   6
   Husain bekafan
@@ -68,15 +68,15 @@ romanLyrics: |-
   Ae gharib-e-Nainawa
 
   7
-  Har waar mein lainoṅ ne chaaha ye baraha
-  Mit jaaye is jahaṅ se ye majlis-e-aza
-  Baqi rahe na naam zamin par Husain ka
+  Har waar meiṅ lainoṅ ne chaaha ye baraha
+  Mit jaaye is jahan se ye majlis-e-aza
+  Baqi rahe na naam zamiṅ par Husain ka
   Lekin Nabi ki beti se Allah keh chuka
 
   8
   Hai daimi hayat tere naqsh-e-pa ke baad
   Ye raaz jaana dunya ne teri qaza ke baad
-  Tay ho gayi ye baat bhi karbobala ke baad
+  Te ho gayi ye baat bhi karbobala ke baad
   Haq aur Yazidiyat ka rahega maarka
 
   9
@@ -85,9 +85,9 @@ romanLyrics: |-
   Tere lahu ka ye mojiza hai
   Ye khaak khaak-e-shifa banegi
   Anis ho ya Dabir koi
-  Lahu mein jab tak hai josh baaqi
+  Lahu meiṅ jab tak hai josh baaqi
   Khuda ne wajib kiya hai sab par
-  Qalam likhega zaban kahegi
+  Qalam likhega zabaṅ kahegi
 
   10
   Koi Irfan ho ya ho Mazhar

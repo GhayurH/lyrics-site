@@ -15,7 +15,7 @@ aliases:
   - "جس گھڑی حر کا پسر زین سے مقتل میں گرا"
 published: true
 romanLyrics: |-
-  Jis ghari Hur ka pisar zin se maqtal mein gira
+  Jis ghari Hur ka pisar zin se maqtal meiṅ gira
   Laash par us ki gaye Hur se pehle Maula
   Laash bete ki uthaane ke liye Hur jo barha
   Hur ko sine se laga kar Shah-e-Waala ne kaha
@@ -46,7 +46,7 @@ romanLyrics: |-
   5
   Gharib baap ka ye imtihaaṅ nahiṅ lunga
   Tumhaare laal ko kandhoṅ pe maiṅ uthaaunga
-  Utha ke laash ko khaimoṅ mein jaana mushkil hai
+  Utha ke laash ko khaimoṅ meiṅ jaana mushkil hai
 
   6
   Ye waqt kaisa hai tum ko khabar nahiṅ bhai

@@ -12,30 +12,30 @@ aliases: []
 published: true
 romanLyrics: |-
   Barchi lagi Akbar ke to maaṅ kehti thi ro kar
-  Armaan mere khaak mein sab mil gaye Akbar
+  Armaan mere khaak meiṅ sab mil gaye Akbar
 
   1
   Din byaah ke aaye to ajal aa gayi tum ko
-  Bigra mera pardes mein ye kaisa muqaddar
+  Bigra mera pardes meiṅ ye kaisa muqaddar
 
   2
   Ae laal jawaaṅ ho ke ye kya daagh diya hai
-  Barchi lagi seene pe gaye jaanib-e-Kausar
+  Barchi lagi sine pe gaye jaanib-e-Kausar
 
   3
   Abbas ka Qasim ka abhi gham kam to nahiṅ tha
   Ye zakhm tera aur laga mere jigar par
 
   4
-  Sughra tere waade pe Madine mein hai baithi
+  Sughra tere waade pe Madine meiṅ hai baithi
   Aankheṅ tere raste pe lagaaye hue muztar
 
   5
   Afsos lainoṅ ne to itna bhi na socha
-  Tum shakl shabaahat mein the hamshakl-e-Payambar
+  Tum shakl shabaahat meiṅ the hamshakl-e-Payambar
 
   6
-  Zainab ka tarapna teri furqat mein ghazab hai
+  Zainab ka tarapna teri furqat meiṅ ghazab hai
   Ro ro ke sada deti hai Akbar mere Akbar
 
   7

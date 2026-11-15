@@ -13,8 +13,8 @@ published: true
 romanLyrics: |-
   1
   Aandhi kabhi barish kabhi tufaṅ ka aalam
-  Har daur mein mausam ke taghayyur se lari hai
-  Chaudah sau baras bit gaye ishq-e-Ali mein
+  Har daur meiṅ mausam ke taghayyur se lari hai
+  Chaudah sau baras bit gaye ishq-e-Ali meiṅ
   Tuti hui diwar bhi pairoṅ pe khari hai
 # source_id: tajpoints:0f1fa1416ebcf95ba814
 # source_url: https://tajpoints.com/2017/02/aandhi-kabhi-barish-kabhi-tofaan-ka.html

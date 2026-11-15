@@ -1,6 +1,6 @@
 ---
 title: "رسنِ ظلم میں ننھی سی کلائی ہوگی"
-alternateTitle: "Rasan-e-Zulm Mein"
+alternateTitle: "Rasan-e-Zulm Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Rasan-e-zulm mein nanhi si kalaayi hogi
+  Rasan-e-zulm meiṅ nanhi si kalaayi hogi
   Kis tarah baali Sakina ko kal aayi hogi
 
   1
@@ -19,7 +19,7 @@ romanLyrics: |-
   Jab sinaaṅ Akbar-e-Naashaad ne khaayi hogi
 
   2
-  Aag jab khaimoṅ mein aada ne lagaayi hogi
+  Aag jab khaimoṅ meiṅ aada ne lagaayi hogi
   Masnad-e-Ahmad-e-Mursal bhi jalaayi hogi
 
   3
@@ -27,7 +27,7 @@ romanLyrics: |-
   Ye na maalum tha yuṅ dudh barhaayi hogi
 
   4
-  Dhundti hogi wo pehlu mein Ali Asghar ko
+  Dhundti hogi wo pehlu meiṅ Ali Asghar ko
   Nind Baano ko bhala kis tarah aayi hogi
 
   5

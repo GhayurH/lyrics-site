@@ -12,22 +12,22 @@ aliases: []
 published: true
 romanLyrics: |-
   Jab Madine ka musaafir koi paa jaata huṅ
-  Hasrat aati hai ye pahuncha main raha jaata huṅ
+  Hasrat aati hai ye pahuncha maiṅ raha jaata huṅ
 
   1
-  Do qadam bhi nahiṅ chalne ki hai mujh mein taaqat
-  Shauq khenche liye jaata hai main kya jaata huṅ
+  Do qadam bhi nahiṅ chalne ki hai mujh meiṅ taaqat
+  Shauq khenche liye jaata hai maiṅ kya jaata huṅ
 
   2
   Qaafile wale chale jaate haiṅ aage aage
-  Madad ae shauq ke pichhe main raha jaata huṅ
+  Madad ae shauq ke pichhe maiṅ raha jaata huṅ
 
   3
-  Kaarwaan mein rahe Yasrab mein huṅ aaghaaz zera
-  Sab mein shaamil huṅ magar sab se juda jaata huṅ
+  Kaarwaan meiṅ rahe Yasrab meiṅ huṅ aaghaaz zera
+  Sab meiṅ shaamil huṅ magar sab se juda jaata huṅ
 
   4
-  Faiz-e-Maula se abhi sabr ki taaqat hai Ameer
+  Faiz-e-Maula se abhi sabr ki taaqat hai Amir
   Jo kari saamne aati hai utha jaata huṅ
 # source_id: nohayonline:420c27e26f399eb49805
 # source_url: https://www.nohayonline.com/details_content.php?id=2072

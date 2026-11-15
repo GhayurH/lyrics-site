@@ -1,6 +1,6 @@
 ---
 title: "اب سکینہ میں دم کہاں اماں"
-alternateTitle: "Ab Sakina Mein Dam"
+alternateTitle: "Ab Sakina Meiṅ Dam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ab Sakina mein dam kahaaṅ Amma
+  Ab Sakina meiṅ dam kahaaṅ Amma
   Ab to khulwao resmaṅ Amma
 
   1
@@ -25,7 +25,7 @@ romanLyrics: |-
   Kaan zakhmi kiye liye lo lo
   Aur phir is pe zulm hai ke na ro
   Ye ghazab bhi ajib hai dekho
-  Main jo roti huṅ apne Baba ko
+  Maiṅ jo roti huṅ apne Baba ko
   Shimr deta hai ghurkiyaṅ Amma
 
   3
@@ -33,17 +33,17 @@ romanLyrics: |-
   Dono rukhsar mere dekhiyega
   Dega kitni yatim ko iza
   Puchhiye Shimr se bara-e-Khuda
-  Kitne khauṅ main siliyaṅ Amma
+  Kitne khauṅ maiṅ siliyaṅ Amma
 
   4
-  Kis mein halat hai maar khane ki
+  Kis meiṅ halat hai maar khane ki
   Koi surat karo bachane ki
-  Kya main qabil huṅ taziyane ki
+  Kya maiṅ qabil huṅ taziyane ki
   Shimr ki phir khabar hai aane ki
   Ruk rahi hai meri zabaṅ Amma
 
   5
-  Kis qadar hai shaqi ke dil mein kad
+  Kis qadar hai shaqi ke dil meiṅ kad
   Maarta hai jo dam ba dam murtad
   Ho chuki ho chuki sitam ki had
   Mere marne ke baad hi shayad
@@ -54,13 +54,13 @@ romanLyrics: |-
   Haye sone mujhe nahi deta
   Qaidkhane ke paas hi hai goya
   Subh tak naam le ke Baba ka
-  Aa ke roti hai Dadi Jaan Amma
+  Aa ke roti hai Dadi Jaaṅ Amma
 
   7
   Chahne wale hi na hoṅ jis ke
-  Qaidkhane mein kiuṅ na woh roe
+  Qaidkhane meiṅ kiuṅ na woh roe
   Woh juda hum se hum juda un se
-  Karbala mein haiṅ Karbala wale
+  Karbala meiṅ haiṅ Karbala wale
   Kya kareṅ reh ke hum yahaaṅ Amma
 
   8
@@ -68,7 +68,7 @@ romanLyrics: |-
   Mujhko ab qiblaru lita dijiye
   Itni taklif aur bhi kijiye
   Parhne Yasin un se keh dijiye
-  Ghash mein uthe jo Bhai Jaan Amma
+  Ghash meiṅ uthe jo Bhai Jaaṅ Amma
 
   9
   Li jo bachchi ne maut ki hichki

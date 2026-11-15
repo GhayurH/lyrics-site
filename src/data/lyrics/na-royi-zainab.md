@@ -14,7 +14,7 @@ romanLyrics: |-
   Haaye Zainab... Zainab
   Haaye Zainab... Haaye Zainab
 
-  Zainab sa zamaane mein azaadaar kahaaṅ hai
+  Zainab sa zamaane meiṅ azaadaar kahaaṅ hai
   Hamshir thi ban kar rahi Shabbir ki maaṅ hai
 
   1
@@ -32,7 +32,7 @@ romanLyrics: |-
   3
   Pursa Bibi ne bhare ghar ka diya
   Zikr betoṅ ka kahaaṅ us ne kiya
-  Aaye jab Shaam-e-Gharibaaṅ mein Ali
+  Aaye jab Shaam-e-Gharibaaṅ meiṅ Ali
   Apne bachchoṅ ko na royi Zainab
 
   4
@@ -49,14 +49,14 @@ romanLyrics: |-
 
   6
   Jis taraf Aun o Mohammad ke the sar
-  Raah mein ki nahiṅ us simt nazar
+  Raah meiṅ ki nahiṅ us simt nazar
   Dekh kar Ghazi ka sar roti rahi
   Apne bachchoṅ ko na royi Zainab
 
   7
-  Sar jo zindaaṅ mein shahidoṅ ke mile
+  Sar jo zindaaṅ meiṅ shahidoṅ ke mile
   Pyaar tha kitna use bhai se
-  Sar liye god mein wo baithi rahi
+  Sar liye god meiṅ wo baithi rahi
   Apne bachchoṅ ko na royi Zainab
 
   8

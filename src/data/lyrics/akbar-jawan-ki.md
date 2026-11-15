@@ -1,6 +1,6 @@
 ---
 title: "اکبر جواں کی لاش پہ مادر کے ہیں یہ بین"
-alternateTitle: "Akbar Jawan Ki"
+alternateTitle: "Akbar Jawaaṅ Ki"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,8 +11,8 @@ aliases: []
 published: true
 reciter: "Mukhtar Hussain"
 romanLyrics: |-
-  Akbar jawaṅ ki laash pe maadar ke haiṅ ye bain
-  Duba hai khuṅ mein maara gaya mera nur-e-ain
+  Akbar jawaaṅ ki laash pe maadar ke haiṅ ye bain
+  Duba hai khuṅ meiṅ maara gaya mera nur-e-ain
 
   1
   Utho Ae beta deti sadaaeṅ haiṅ tujh ko maaṅ
@@ -22,7 +22,7 @@ romanLyrics: |-
   2
   Ae laal tu hai Baba ka aur mera laadla
   Naraaz ho to maaṅ se kaho kya hai maajra
-  Sun kar ye bain khaime mein hota hai shor o shain
+  Sun kar ye bain khaime meiṅ hota hai shor o shain
 
   3
   Muṅh chum ke wo bete ka sine pe gir pari
@@ -35,7 +35,7 @@ romanLyrics: |-
   Sughra ko kya bataauṅgi bolo Ya Nur-e-Ain
 
   5
-  Harkat nahiṅ hai jism mein karta nahiṅ kalaam
+  Harkat nahiṅ hai jism meiṅ karta nahiṅ kalaam
   Paani pilaao aankhoṅ ko kholega tashna kaam
   Akbar ko sota dekh ke rote haiṅ Kiuṅ Husain
 
@@ -45,12 +45,12 @@ romanLyrics: |-
   Hasrat se chume bete ke maadar ne ro ke nain
 
   7
-  Khuṅ mein haiṅ dube gesu to chehra hai khuṅ bhara
-  Sehra kahaṅ main baandhuṅ bata do koi zara
+  Khuṅ meiṅ haiṅ dube gesu to chehra hai khuṅ bhara
+  Sehra kahaṅ maiṅ baandhuṅ bata do koi zara
   Dulha banaauṅ kaise tujhe bol dil ke chain
 
   8
-  Saaib ye piri aur wo Akbar jawaṅ ki laash
+  Saaib ye piri aur wo Akbar jawaaṅ ki laash
   Bete ki maiyyat pe hai dil-e-Shah paash paash
   Aankhoṅ ka nur kho gaya kehte haiṅ ye Husain
 # source_id: nohayonline:e286d9db2b1dd2366eec

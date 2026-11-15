@@ -1,6 +1,6 @@
 ---
 title: "جنگل میں مجھکو چھوڑ کے اکبر کہاں گئے"
-alternateTitle: "Jangal Mein Mujhko"
+alternateTitle: "Jangal Meiṅ Mujhko"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Jangal mein mujhko chhor kar Akbar kahaaṅ gaye
+  Jangal meiṅ mujhko chhor kar Akbar kahaaṅ gaye
   Chilla rahi hai der se maadar kahaaṅ gaye
 
   1
@@ -19,7 +19,7 @@ romanLyrics: |-
   Aawaaz kuchh to do mere dilbar kahaaṅ gaye
 
   2
-  Sine mein iztiraab hai dar par nigaah hai
+  Sine meiṅ iztiraab hai dar par nigaah hai
   Ae mere ham-shabih-e-Payambar kahaaṅ gaye
 
   3
@@ -31,7 +31,7 @@ romanLyrics: |-
   Ae aarzu-e-Saaqi-e-Kausar kahaaṅ gaye
 
   5
-  Shabbir ki nigaah mein taarik hai jahaaṅ
+  Shabbir ki nigaah meiṅ taarik hai jahaaṅ
   Laila ke chaand mere munawwar kahaaṅ gaye
 
   6
@@ -43,7 +43,7 @@ romanLyrics: |-
   Aaina-e-jamaal-e-Payambar kahaaṅ gaye
 
   8
-  Maaṅ tum ko dhundti hai andhere mein raat ke
+  Maaṅ tum ko dhundti hai andhere meiṅ raat ke
   Ghar bhar ki raushni maah-e-anwar kahaaṅ gaye
 
   9
@@ -55,11 +55,11 @@ romanLyrics: |-
   Chaadar haram ki chhinti hai Akbar kahaaṅ gaye
 
   11
-  Jaa kar Madine waaloṅ ko main duṅgi kya jawaab
+  Jaa kar Madine waaloṅ ko maiṅ duṅgi kya jawaab
   Puchheṅge jab jawaan Ali Akbar kahaaṅ gaye
 
   12
-  Sayyidaaniyoṅ ke bich mein Laila ke the ye bain
+  Sayyidaaniyoṅ ke bich meiṅ Laila ke the ye bain
   Maaṅ ko akela chhor kar Akbar kahaaṅ gaye
 
   13

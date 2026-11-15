@@ -39,7 +39,7 @@ romanLyrics: |-
   Naadaano jabhi mera Khuda sab se alag hai
 
   7
-  Isa huṅ main murdoṅ ko shifa deta huṅ lekin
+  Isa huṅ maiṅ murdoṅ ko shifa deta huṅ lekin
   Ae Khaak-e-Shifa teri shifa sab se alag hai
 
   8

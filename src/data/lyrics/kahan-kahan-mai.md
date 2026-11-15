@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Haaye Husain mere laal
 
-  Kahaṅ kahaṅ main tujhe rouṅ mere laal bata
+  Kahaṅ kahaṅ maiṅ tujhe rouṅ mere laal bata
   Har ek maqaam se aati hai ek maaṅ ki sada
 
   1
@@ -32,13 +32,13 @@ romanLyrics: |-
   Har ek maqaam se aati hai ek maaṅ ki sada
 
   4
-  Nahiṅ hai chain mujhe qabr mein bhi beta Husain
-  Tumhaari yaad mein rehti huṅ roti subh o masa
+  Nahiṅ hai chain mujhe qabr meiṅ bhi beta Husain
+  Tumhaari yaad meiṅ rehti huṅ roti subh o masa
   Har ek maqaam se aati hai ek maaṅ ki sada
 
   5
   Mere Husain ko roye ga jo bhi shakhs Amir
-  Main duṅgi ajr bhi us ke liye karuṅgi dua
+  Maiṅ duṅgi ajr bhi us ke liye karuṅgi dua
   Har ek maqaam se aati hai ek maaṅ ki sada
 # source_id: nohayonline:2e52275fa28d7e6dd1ce
 # source_url: https://www.nohayonline.com/details_content.php?id=3365

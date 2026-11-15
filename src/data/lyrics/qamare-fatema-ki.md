@@ -15,11 +15,11 @@ romanLyrics: |-
   Chaand nikla hai Muharram ka rulaane ke liye
 
   1
-  Dub kar khuṅ mein har roz shafaq aati hai
+  Dub kar khuṅ meiṅ har roz shafaq aati hai
   Daastaan-e-gham-e-Shabbir sunaane ke liye
 
   2
-  Har kali chaak garebaaṅ hai chaman mein ab tak
+  Har kali chaak garebaaṅ hai chaman meiṅ ab tak
   Haaye beshir tera sog manaane ke liye
 
   3
@@ -28,7 +28,7 @@ romanLyrics: |-
 
   4
   Pyaas ka gham nahiṅ betaab Sakina ka hai dil
-  Jhule mein nanhe baraadar ko jhulaane ke liye
+  Jhule meiṅ nanhe baraadar ko jhulaane ke liye
 
   5
   Le chala baap jawaaṅ bete ki mayyat afsos
@@ -36,14 +36,14 @@ romanLyrics: |-
 
   6
   Shaah jab reh gaye tanha to tarap kar Asghar
-  Gir gaye jhule se aaghosh mein aane ke liye
+  Gir gaye jhule se aaghosh meiṅ aane ke liye
 
   7
   Zabh kar ke bhi musaafir ko na maane aada
   Ab shaqi aaye haiṅ khaimoṅ ko jalaane ke liye
 
   8
-  Gham-e-Shabbir ko utna hi Urooj aur hua
+  Gham-e-Shabbir ko utna hi Uruj aur hua
   Koshisheṅ ki gayiṅ jitni bhi mitaane ke liye
 # source_id: nohayonline:3c066389430c19132253
 # source_url: https://www.nohayonline.com/details_content.php?id=646

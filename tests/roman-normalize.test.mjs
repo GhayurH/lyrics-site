@@ -19,7 +19,7 @@ function assertReading(urdu, input, expected) {
 test("Urdu-backed vowels, consonants, nasalization and joined endings", () => {
   for (const [urdu, input, expected] of [
       ["حسین کے خون میں کیوں نہیں ہیں", "Hussain ke khoon mein kyun nahin hain", "Husain ke khun meiṅ kiuṅ nahiṅ haiṅ"],
-      ["جواں وہاں زماں حسین امین", "jawan wahan zaman Husain amin", "jawaṅ wahaṅ zamaṅ Husain amin"],
+      ["جواں وہاں زماں حسین امین", "jawan wahan zaman Husain amin", "jawaaṅ wahaṅ zamaṅ Husain amin"],
       ["امام زماں", "Imam-e-Zaman", "Imam-e-Zamaṅ"],
       ["یوں ہوا رواں", "Youn hua Rawan", "Youṅ hua Rawaṅ"],
       ["تڑپ بڑی گھڑی", "tadap badi ghadi", "tarap bari ghari"],
@@ -41,6 +41,18 @@ test("Urdu-backed vowels, consonants, nasalization and joined endings", () => {
       ["میں نے", "Maine", "Maiṅ ne"]
   ])
     assertReading(urdu, input, expected);
+});
+
+test("جواں needs long aa and nasal ṅ, but جوان does not", () => {
+  for (const old of ["jawan", "jawaan", "jawaṅ", "jawaaṅ"])
+    assertReading("جواں", old, "jawaaṅ");
+  assertReading("جواں وہاں", "Jawan wahan", "Jawaaṅ wahaṅ");
+  assertReading("جوان", "jawaan", "jawaan");
+  const metadata = md("جواں", "jawaaṅ").replace("title: نام",
+    'title: "جواں"\nalternateTitle: "Jawaṅ"');
+  const normalized = normalizeRomanMarkdown(metadata, "src/data/lyrics/sample.md");
+  assert(normalized.text.includes('alternateTitle: "Jawaaṅ"'));
+  assert.equal(normalizeRomanMarkdown(normalized.text).changed, false);
 });
 
 test("Phonetic ayn/hamza substitutions work in Urdu and Arabic quotations", () => {

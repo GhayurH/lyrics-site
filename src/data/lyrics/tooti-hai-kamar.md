@@ -12,11 +12,11 @@ aliases: []
 published: true
 romanLyrics: |-
   Tuti hai kamar kaise bataauṅ Ali Akbar
-  Main kaise teri laash uthaauṅ Ali Akbar
+  Maiṅ kaise teri laash uthaauṅ Ali Akbar
 
   1
   Saabir ne kaha qabr meiṅ gar izn ataa ho
-  Main aap ko ye nauha sunaauṅ Ali Akbar
+  Maiṅ aap ko ye nauha sunaauṅ Ali Akbar
 
   2
   Uthte hi nahiṅ mere qadam khaimoṅ ki jaanib
@@ -28,7 +28,7 @@ romanLyrics: |-
 
   4
   Zakhmi tera sina to pidar dekh raha hai
-  Main apna jigar kis ko dikhaauṅ Ali Akbar
+  Maiṅ apna jigar kis ko dikhaauṅ Ali Akbar
 
   5
   Aankhoṅ se dikhaai nahiṅ deta hai pidar ko
@@ -40,7 +40,7 @@ romanLyrics: |-
 
   7
   Ye haal tera dekh ke mar jaaye na Baano
-  Main kaise tera zakhm chhupaauṅ Ali Akbar
+  Maiṅ kaise tera zakhm chhupaauṅ Ali Akbar
 
   8
   Bete ko kafan dena fariza hai pidar ka

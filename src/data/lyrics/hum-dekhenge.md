@@ -32,15 +32,15 @@ romanLyrics: |-
   Wo roz ke jis ka waada hai
   Jo lauh-e-azal pe likha hai
   Jo tera hai jo mera hai
-  Kaunain mein jis ka charcha hai
+  Kaunain meiṅ jis ka charcha hai
   Jab lauh o qalam ke chehre se
   Parde sarkaaye jaaeṅ ge
 
   2
   Kuch raat gayi kuch baaqi hai
-  Pardoṅ mein sehar kuch kehti hai
+  Pardoṅ meiṅ sehar kuch kehti hai
   Dil par jo ye dastak hoti hai
-  Ghaibat mein koi ek haadi hai
+  Ghaibat meiṅ koi ek haadi hai
   Jo haazir o naazir o qaaim hai
   Wo aaeṅ ge haaṅ aaeṅ ge
 
@@ -61,7 +61,7 @@ romanLyrics: |-
   Wo ek alam lehraaeṅ ge
 
   5
-  Wo masjid-e-Kufa mein aa kar
+  Wo masjid-e-Kufa meiṅ aa kar
   Masjid ka sajaaeṅ ge mimbar
   Wo pursa leṅ ge dunya se
   Shabbir ka khud zaakir ban kar
@@ -69,10 +69,10 @@ romanLyrics: |-
   Mimbar pe hi ghash khaa jaaeṅ ge
 
   6
-  Aaṅkhoṅ mein Imam-e-zamaana ki
+  Aaṅkhoṅ meiṅ Imam-e-zamaana ki
   Rehti hai sada iksath hijri
-  Kehte haiṅ ziyaarat-e-Naahiya mein
-  Main bhul nahiṅ sakta huṅ kabhi
+  Kehte haiṅ ziyaarat-e-Naahiya meiṅ
+  Maiṅ bhul nahiṅ sakta huṅ kabhi
   Maabain-e-zamin o zin jo tha
   Wo laasha bhul na paaeṅ ge
 

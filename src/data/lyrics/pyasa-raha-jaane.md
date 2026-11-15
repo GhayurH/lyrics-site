@@ -35,7 +35,7 @@ romanLyrics: |-
   Ae waae Nahr-e-Alqama
 
   4
-  Dube lahu mein yak qalam
+  Dube lahu meiṅ yak qalam
   Kya kya ghazaalaan-e-haram
   Dekhi ye kashti dubti
   Ae waae Nahr-e-Alqama
@@ -47,7 +47,7 @@ romanLyrics: |-
   Ae waae Nahr-e-Alqama
 
   6
-  Qabze mein tere aab ho
+  Qabze meiṅ tere aab ho
   Aur pyaas se betaab ho
   Sheh ke chaman ki har kali
   Ae waae Nahr-e-Alqama
@@ -59,20 +59,20 @@ romanLyrics: |-
   Ae waae Nahr-e-Alqama
 
   8
-  Yeh kaunsa dastoor tha
-  Mehmaan kitni door tha
-  Kya paaoṅ mein zanjir thi
+  Yeh kaunsa dastur tha
+  Mehmaan kitni dur tha
+  Kya paaoṅ meiṅ zanjir thi
   Ae waae Nahr-e-Alqama
 
   9
   Khaima rahe Shabbir ka
-  Yuṅ dhup mein jalta hua
+  Yuṅ dhup meiṅ jalta hua
   Saahil pe ho fauj-e-shaqi
   Ae waae Nahr-e-Alqama
 
   10
   Hasrat ki ek tahrir thi
-  Khud tere dil par teer thi
+  Khud tere dil par tir thi
   Jo mauj uthi aisi uthi
   Ae waae Nahr-e-Alqama
 

@@ -17,20 +17,20 @@ romanLyrics: |-
   1
   Chala bekasoṅ ka kaarwaaṅ bimaar logo saarbaaṅ
   Hai sang sar uryaaṅ Shaah La Fata ki betiyaaṅ
-  Karb o bala ke dasht mein barpa hai kohraam
+  Karb o bala ke dasht meiṅ barpa hai kohraam
 
   2
   Zainab pukaari bewatan bhai mera hai bekafan
-  Kar de ise koi dafn mere haathoṅ mein baandhi rasan
+  Kar de ise koi dafn mere haathoṅ meiṅ baandhi rasan
   Haae kaise suna hoga bimaar ne paighaam
 
   3
-  Masturoṅ mein ek mard hai ghairat se chehra zard hai
-  Karbal ki zamiṅ gard hai Zainab ke dil mein dard hai
+  Masturoṅ meiṅ ek mard hai ghairat se chehra zard hai
+  Karbal ki zamiṅ gard hai Zainab ke dil meiṅ dard hai
   Rota hai sar jhuka ke karta nahiṅ kalaam
 
   4
-  Mushkil thi bari wo ghari darbaar mein Zainab khari
+  Mushkil thi bari wo ghari darbaar meiṅ Zainab khari
   Shabbir ke lab par chhari Sajjad ne pehni kari
   Darbaar Yazidi ke larze haiṅ dar o baam
 

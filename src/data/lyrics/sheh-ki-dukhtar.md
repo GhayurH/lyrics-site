@@ -11,56 +11,56 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Sheh ki dukhtar so rahi hai Shaam ke zindaan mein
-  Ik saf-e-maatam bichhi hai Shaam ke zindaan mein
+  Sheh ki dukhtar so rahi hai Shaam ke zindaan meiṅ
+  Ik saf-e-maatam bichhi hai Shaam ke zindaan meiṅ
 
   1
   Shaah ke sine par qaraar aata tha jis ghamkhwaar ko
-  Khaak par soyi hui hai Shaam ke zindaan mein
+  Khaak par soyi hui hai Shaam ke zindaan meiṅ
 
   2
   Aabid-e-bimaar ke haathoṅ se ye mat puchhiye
-  Kis tarah turbat bani hai Shaam ke zindaan mein
+  Kis tarah turbat bani hai Shaam ke zindaan meiṅ
 
   3
   Sayyad-e-Sajjaad ki aankhoṅ se aansuṅ hai rawaaṅ
-  Bekasi hi bekasi hai Shaam ke zindaan mein
+  Bekasi hi bekasi hai Shaam ke zindaan meiṅ
 
   4
   Ya Ali ahl-e-haram ki aaiye imdaad ko
-  Kis qadar bechaargi hai Shaam ke zindaan mein
+  Kis qadar bechaargi hai Shaam ke zindaan meiṅ
 
   5
-  Shab ke sannaate mein aksar sochti rehti hai maaṅ
-  Ek bachchi ro rahi hai Shaam ke zindaan mein
+  Shab ke sannaate meiṅ aksar sochti rehti hai maaṅ
+  Ek bachchi ro rahi hai Shaam ke zindaan meiṅ
 
   6
-  Raat ki taarikiyoṅ mein dukhtar-e-Shabbir ne
-  Gham ki chaadar orh li hai Shaam ke zindaan mein
+  Raat ki taarikiyoṅ meiṅ dukhtar-e-Shabbir ne
+  Gham ki chaadar orh li hai Shaam ke zindaan meiṅ
 
   7
   Is liye qabr-e-Sakina par udaasi chhaayi hai
-  Tiragi hi tiragi hai Shaam ke zindaan mein
+  Tiragi hi tiragi hai Shaam ke zindaan meiṅ
 
   8
   Baad-e-Sheh mat puchhiye kaisi qayaamat aa gayi
-  Girya o sina zani hai Shaam ke zindaan mein
+  Girya o sina zani hai Shaam ke zindaan meiṅ
 
   9
   Wa Husaina ki sadaaeiṅ gunjti hai raat o din
-  Har taraf viraangi hai Shaam ke zindaan mein
+  Har taraf viraangi hai Shaam ke zindaan meiṅ
 
   10
-  Raat bhar shabnam ka girya din mein suraj ki tapish
-  Chaar suṅ afsurdagi hai Shaam ke zindaan mein
+  Raat bhar shabnam ka girya din meiṅ suraj ki tapish
+  Chaar suṅ afsurdagi hai Shaam ke zindaan meiṅ
 
   11
   Apni ashkoṅ se dar o diwaar par Sajjaad ne
-  Daastaan-e-gham likhi hai Shaam ke zindaan mein
+  Daastaan-e-gham likhi hai Shaam ke zindaan meiṅ
 
   12
   Hai Asim Aal-e-Nabi par ik qayaamat aa gayi
-  Bhuk hai aur tashnagi hai Shaam ke zindaan mein
+  Bhuk hai aur tashnagi hai Shaam ke zindaan meiṅ
 # source_id: nohayonline:3330d3c7e5234b28a833
 # source_url: https://www.nohayonline.com/details_content.php?id=1872
 # raw_sha256: f51af1f6a6528c26f9203378adb8c7d8669b3d29800040d0178d19395bcfcd06

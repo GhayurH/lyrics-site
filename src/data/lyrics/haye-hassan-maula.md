@@ -37,7 +37,7 @@ romanLyrics: |-
   Puchhe koi ummat se kya jurm tha tera
 
   5
-  Chauda sau baras beete ye zakhm hai taaza
+  Chauda sau baras bite ye zakhm hai taaza
   Farhan ho ya Mazhar sab karte haiṅ nauha
   Taa hashr tere gham meiṅ royegi ye duniya
 # source_id: nohayonline:6f94c33d7d7d41951092

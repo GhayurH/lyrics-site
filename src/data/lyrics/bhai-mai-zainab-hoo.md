@@ -24,13 +24,13 @@ romanLyrics: |-
   Phir is ke baad naaqe se khud ko gira diya
   Abbas ki behan ne tarap kar ye di sada
   Are Zainab huṅ bhai Zainab huṅ bhai
-  Bhai main Zainab huṅ
+  Bhai maiṅ Zainab huṅ
 
   1
   Ye Karbala hai jaagir teri
-  Ham aaye teri jaagir mein
-  Reh gayi zindaaṅ mein hi Sakina
-  Ye bhi likha tha taqdir mein
+  Ham aaye teri jaagir meiṅ
+  Reh gayi zindaaṅ meiṅ hi Sakina
+  Ye bhi likha tha taqdir meiṅ
   Pehchaano mujh ko ae mere Ghaazi
   Zainab huṅ ae bhai
 
@@ -52,40 +52,40 @@ romanLyrics: |-
 
   4
   Bhaiya Sakina ko ik shaqi ne
-  Maanga kanizi mein jis ghari
-  Main bint-e-Zehra main bint-e-Haidar
-  Bhaiya laraz kar main reh gayi
+  Maanga kanizi meiṅ jis ghari
+  Maiṅ bint-e-Zehra maiṅ bint-e-Haidar
+  Bhaiya laraz kar maiṅ reh gayi
   Pehchaano mujh ko ae mere Ghaazi
   Zainab huṅ ae bhai
 
   5
   Kaisa andhera zindaan tha wo
-  Jis mein Sakina jaaṅ se gayi
+  Jis meiṅ Sakina jaaṅ se gayi
   Baaba chacha se mujh ko mila do
   Maasum ro ro kehti rahi
   Pehchaano mujh ko ae mere Ghaazi
   Zainab huṅ ae bhai
 
   6
-  Kurta jo us ka khuṅ mein bhara tha
-  Us ko banaaya main ne kafan
+  Kurta jo us ka khuṅ meiṅ bhara tha
+  Us ko banaaya maiṅ ne kafan
   Jab dafn karte the us ko Aabid
   Tharra raha tha un ka badan
   Pehchaano mujh ko ae mere Ghaazi
   Zainab huṅ ae bhai
 
   7
-  Zindaaṅ se chhut kar main aa gayi huṅ
+  Zindaaṅ se chhut kar maiṅ aa gayi huṅ
   Ranj o alam ki chaadar liye
-  Baazaar-e-Kufa mein haiṅ jo guzre
-  Aankhoṅ mein saare manzar liye
+  Baazaar-e-Kufa meiṅ haiṅ jo guzre
+  Aankhoṅ meiṅ saare manzar liye
   Pehchaano mujh ko ae mere Ghaazi
   Zainab huṅ ae bhai
 
   8
   Rehaan Zainab ki ye fughaaṅ thi
   Abbas-e-Ghaazi ki laash par
-  Deti kafan main ae bhai tum ko
+  Deti kafan maiṅ ae bhai tum ko
   Chhinti na sar se chaadar agar
   Pehchaano mujh ko ae mere Ghaazi
   Zainab huṅ ae bhai

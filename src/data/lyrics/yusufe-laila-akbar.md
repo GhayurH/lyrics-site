@@ -36,19 +36,19 @@ romanLyrics: |-
   4
   Kya thi tamanna meri aur sitam kya dekha
   Na teri dulhan dekhi na tera sehra dekha
-  Mehndi lagaati jis par haath wo hai khun mein tar
+  Mehndi lagaati jis par haath wo hai khun meiṅ tar
   Tu hi bata de beta kaise jiye gi maadar
 
   5
   Lutf mujhe jine ka us ghari aata Akbar
   Tera pisar jab daadi keh ke bulaata Akbar
-  Dil ki tamannaaeiṅ sab reh gayiṅ dil mein ghut kar
+  Dil ki tamannaaeiṅ sab reh gayiṅ dil meiṅ ghut kar
   Tu hi bata de beta kaise jiye gi maadar
 
   6
   Din ye kisi dushman ko bhi na Khuda dikhlaaye
   Rab na kare jite ji maaṅ se pisar chhin jaaye
-  Kaise main rakh luṅ Akbar apne jigar pe patthar
+  Kaise maiṅ rakh luṅ Akbar apne jigar pe patthar
   Tu hi bata de beta kaise jiye gi maadar
 
   7
@@ -58,7 +58,7 @@ romanLyrics: |-
   Tu hi bata de beta kaise jiye gi maadar
 
   8
-  Haal Nadeem us maaṅ ka mujh se bayaan kya hoga
+  Haal Nadim us maaṅ ka mujh se bayaan kya hoga
   Jiti rahi wo jab tak parhti rahi ye nauha
   Dur hua tu jab se chain nahiṅ hai pal bhar
   Tu hi bata de beta kaise jiye gi maadar

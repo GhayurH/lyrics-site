@@ -16,9 +16,9 @@ romanLyrics: |-
   Ho jaaye na ghar suna baba na jaao
 
   1
-  Kal khwaab mein dekha tha baba hai lahu mein tar
+  Kal khwaab meiṅ dekha tha baba hai lahu meiṅ tar
   Viraaṅ para hai ghar
-  Kufe mein waawaila baba na jaao
+  Kufe meiṅ waawaila baba na jaao
 
   2
   Murghaabiyaaṅ Haidar ke daamaan se lipatti hai
@@ -26,13 +26,13 @@ romanLyrics: |-
   Manzar hai qayamat ka baba na jaao
 
   3
-  Ammaa ki judaai ko main bhul nahiṅ paayi
+  Ammaa ki judaai ko maiṅ bhul nahiṅ paayi
   Zainab pe tanhaai
   Dil mera hai ghabraaya baba na jaao
 
   4
-  Ruk jaaye zara baba sadqa main utaaruṅgi
-  Ji bhar ke main dekhuṅgi
+  Ruk jaaye zara baba sadqa maiṅ utaaruṅgi
+  Ji bhar ke maiṅ dekhuṅgi
   Baba ka hasiṅ chehra baba na jaao
 
   5

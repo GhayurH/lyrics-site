@@ -26,7 +26,7 @@ romanLyrics: |-
 
   3
   Chhid gayi mashk-e-Sakina lab-e-darya afsos
-  Be-kafan khaak pe hai sher ka laasha afsos
+  bekafan khaak pe hai sher ka laasha afsos
   Pyase bachchoṅ ka koi chahne wala na raha
 
   4

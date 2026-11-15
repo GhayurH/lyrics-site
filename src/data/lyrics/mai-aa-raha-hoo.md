@@ -1,6 +1,6 @@
 ---
 title: "میں آ رہا ہوں سکینہ"
-alternateTitle: "Main Aa Raha Huṅ"
+alternateTitle: "Maiṅ Aa Raha Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,17 +11,17 @@ tags: []
 aliases: ["Mai Aa Raha Hoo"]
 published: true
 romanLyrics: |-
-  Main aa raha huṅ Sakina
+  Maiṅ aa raha huṅ Sakina
 
   Hai bas khatm hone ko hai imtihaaṅ
   Koi ghaib se de raha hai sada
-  Main aa raha huṅ Sakina
+  Maiṅ aa raha huṅ Sakina
 
   1
-  Nigaahoṅ mein meri hai ab tak wo lamhe
+  Nigaahoṅ meiṅ meri hai ab tak wo lamhe
   Rihaai haram ko mili jis tarah se
   Asiroṅ ko Aabid gaye le ke jaise
-  Tujhe bhi chhura kar main zindaan se
+  Tujhe bhi chhura kar maiṅ zindaan se
   Bohat jald le jaauṅ ga Karbala
 
   2
@@ -34,8 +34,8 @@ romanLyrics: |-
   3
   Lahu ban gaya kaise aankhoṅ ka paani
   Hui qatl Aabid ki kaise jawaani
-  Sunaauṅ ga main baazaar teri zabaani
-  Karuṅ ga main khud saath girya tere
+  Sunaauṅ ga maiṅ baazaar teri zabaani
+  Karuṅ ga maiṅ khud saath girya tere
   Na ro shaahzaadi thahar ja zara
 
   4
@@ -48,7 +48,7 @@ romanLyrics: |-
   5
   Nishaaṅ haiṅ ye ae Bibi jo rukh pe tumhaare
   Hai waise hi kuchh daagh dil par hamaare
-  Nazar mein hamaari ye manzar hai saare
+  Nazar meiṅ hamaari ye manzar hai saare
   Baqiyya taa Saamarra Karb o Bala
   Chukaane ko badla har ek zulm ka
 
@@ -61,7 +61,7 @@ romanLyrics: |-
 
   7
   Takallum wo kehta ye hoga tarap kar
-  Main hasrat se takta huṅ khud tegh-e-Haider
+  Maiṅ hasrat se takta huṅ khud tegh-e-Haider
   Teri al-ajal ki sadaaoṅ ko sun kar
   Usi tarah aata hai lab par mere
   Kate sar ne tha jis tarah Bibi se kaha

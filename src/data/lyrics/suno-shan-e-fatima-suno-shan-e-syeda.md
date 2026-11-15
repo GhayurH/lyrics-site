@@ -24,7 +24,7 @@ romanLyrics: |-
   Hai jis ke ghar ka farsh buland aasmaan se
   Dulha jise mila hai Khuda ke makaan se
   Khairaat jis ke dar se har ik aali jaah le
-  Besaaya jis ke saaye mein aa kar panaah le
+  Besaaya jis ke saaye meiṅ aa kar panaah le
 
   2
   Jo do jahaaṅ ka chain hai ye us ka chain hai
@@ -48,7 +48,7 @@ romanLyrics: |-
   Phaila hua hai nur-e-wila ka hasiṅ samaaṅ
   Jhuk jhuk ke is ko dekhta rehta hai aasmaaṅ
   Arsh-e-bariṅ adab se qadam bos ho gaya
-  Suraj bhi aa gaya to ujaaloṅ mein kho gaya
+  Suraj bhi aa gaya to ujaaloṅ meiṅ kho gaya
 
   5
   Sidra se bhi azim hai Khair-un-Nisa ka ghar
@@ -59,12 +59,12 @@ romanLyrics: |-
   Aate nahiṅ baghair ijaazat Rasul bhi
 
   6
-  Is ghar mein Fatima haiṅ Ali haiṅ Hasan Husain
+  Is ghar meiṅ Fatima haiṅ Ali haiṅ Hasan Husain
   Aabaad haiṅ yahaaṅ pe zamaane ke Syedain
   Makhdum in ka ghar hai do aalam haiṅ khaadimin
   Milta hai is ko dekh ke Allah ko bhi chain
   Jalwoṅ se is ke saara jahaaṅ jagmagaayega
-  Is ghar se jo jalega jahannam mein jaayega
+  Is ghar se jo jalega jahannam meiṅ jaayega
 
   7
   Aain do jahaaṅ ka banaati haiṅ Fatima
@@ -76,7 +76,7 @@ romanLyrics: |-
 
   8
   Jalwe ajab dikhaati haiṅ Khair-un-Nisa ki zaat
-  Tasbih ek haath mein chakki pe ek haath
+  Tasbih ek haath meiṅ chakki pe ek haath
   Kaunain ghumte haiṅ ishaaroṅ ke saath saath
   In ki kaniz roz-e-azal se hai kaainaat
   Kis ki majaal hai ke koi baat taal de
@@ -87,13 +87,13 @@ romanLyrics: |-
   Aajiz hai kufr aaj bhi jis ke jawaab se
   Roshan dil o dimaagh haiṅ jis aaftaab se
   Ham ne yahi suna hai Risaalat maab se
-  Ilm o hunar ka mor hadis-e-kisa mein hai
-  Quraan ka nichor hadis-e-kisa mein hai
+  Ilm o hunar ka mor hadis-e-kisa meiṅ hai
+  Quraan ka nichor hadis-e-kisa meiṅ hai
 
   10
   Gohar ye bazm-e-malka-e-yaum-e-alast hai
   Imaan ki ghiza ka bara bandobast hai
-  Har shakhs aaj ishq ki masti mein mast hai
+  Har shakhs aaj ishq ki masti meiṅ mast hai
   Zahra ke dushmanoṅ ki mukammal shikast hai
   Mehfil qalandaraana sada hai jo saj gai
   Lafzoṅ ne wo dhamaal kiya dhum mach gai

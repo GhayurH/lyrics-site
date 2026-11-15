@@ -35,13 +35,13 @@ romanLyrics: |-
   Hum se uthega kahaaṅ tera janaaza Akbar
 
   4
-  Aap ko barchhiyaaṅ khaane ki badi jaldi hai
-  Jaane kiuṅ jaan se jaane ki badi jaldi hai
+  Aap ko barchhiyaaṅ khaane ki bari jaldi hai
+  Jaane kiuṅ jaan se jaane ki bari jaldi hai
   Thehro thehro ke zara kaar-e-ibaadat kar luṅ
-  Aakhri baar main nana ki ziyaarat kar luṅ
+  Aakhri baar maiṅ nana ki ziyaarat kar luṅ
 
   5
-  Ran mein is baat ka ehsaas meri jaan rahe
+  Ran meiṅ is baat ka ehsaas meri jaan rahe
   Laakh ho josh-e-wigha phir bhi tumheiṅ dhyaan rahe
   Barchhi waaloṅ pe nazar apni jamaye rakhna
   Apne sine ko mere laal bachaye rakhna
@@ -55,12 +55,12 @@ romanLyrics: |-
   7
   Sab se anmol khazina ho mere sine ka
   Ho sabab aap mere laal mere jine ka
-  Saare aalam mein rahe uṅcha waqaar-e-Haider
+  Saare aalam meiṅ rahe uṅcha waqaar-e-Haider
   Sau pisar hote to kar deta nisaar-e-Haider
 
   8
   Apne maula ki ataaoṅ se kami koi nahiṅ
-  Bas Raza ek tamanna hai mere dil mein makiṅ
+  Bas Raza ek tamanna hai mere dil meiṅ makiṅ
   Meri mehnat ki mujhe bas ye jaza de maula
   Jab mera nauha sune mujhko dua de maula
 # source_id: nohayonline:e0490ac0d619ead9138f

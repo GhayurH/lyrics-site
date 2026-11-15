@@ -16,24 +16,24 @@ romanLyrics: |-
 
   1
   Khaatun koi gham se yuṅ chur nahiṅ dekhi,
-  Aisi koi duniya mein, mastur nahiṅ dekhi,
-  Athaara baras mein hi, lagti jo zaifa hai
+  Aisi koi duniya meiṅ, mastur nahiṅ dekhi,
+  Athaara baras meiṅ hi, lagti jo zaifa hai
   Pehlu bhi shikasta hai, turbat bhi shikasta hai
 
   2
-  Darbaar mein zaalim ne, ki aisi paziraai,
+  Darbaar meiṅ zaalim ne, ki aisi paziraai,
   Kis tarah se tu Bibi, phir laut ke ghar aayi,
   Baaloṅ ki safedi ne, sab haal sunaaya hai
   Pehlu bhi shikasta hai, turbat bhi shikasta hai
 
   3
-  Tu roti rahi ghar mein, Haider se bhi chhup chhup ke,
-  Ismat ki tarah dukh bhi, parde mein rahe tere,
+  Tu roti rahi ghar meiṅ, Haider se bhi chhup chhup ke,
+  Ismat ki tarah dukh bhi, parde meiṅ rahe tere,
   Kuchh dard tere Bibi, bas jaanti Fizza hai
   Pehlu bhi shikasta hai, turbat bhi shikasta hai
 
   4
-  Do aise janaaze haiṅ, taariki mein jo uthe,
+  Do aise janaaze haiṅ, taariki meiṅ jo uthe,
   Bas ghar ke hi logoṅ ne, donoṅ ko diye kaandhe,
   Ik Fatima Zehra haiṅ, ik baali Sakina hai
   Pehlu bhi shikasta hai, turbat bhi shikasta hai
@@ -47,7 +47,7 @@ romanLyrics: |-
   6
   Mismaar tera rauza, ummat ne kiya jab se,
   Baba tera rehta hai, turbat pe teri tab se,
-  Kab gumbad-e-Khizra mein, baba tera rehta hai
+  Kab gumbad-e-Khizra meiṅ, baba tera rehta hai
   Pehlu bhi shikasta hai, turbat bhi shikasta hai
 
   7

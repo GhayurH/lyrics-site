@@ -1,6 +1,6 @@
 ---
 title: "قید زنداں میں چھوٹی سی اک ہے قیدن"
-alternateTitle: "Qaid Zindaaṅ Mein"
+alternateTitle: "Qaid Zindaaṅ Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,7 +10,7 @@ tags: []
 aliases: ["Qaid Zindan May"]
 published: true
 romanLyrics: |-
-  Qaid zindaaṅ mein chhoti si ek hai qaidan
+  Qaid zindaaṅ meiṅ chhoti si ek hai qaidan
   Ek hai qaidan
   Jaane kab ho ke riha jaayegi wo apne watan
   Ek hai qaidan
@@ -18,12 +18,12 @@ romanLyrics: |-
   1
   Dur Baba se hui bhaiya se bhi dur hui
   Siskiyaaṅ le na sake kitni wo majbur hui
-  Khun kaanoṅ se rawaaṅ haathoṅ mein hai us ke rasan
+  Khun kaanoṅ se rawaaṅ haathoṅ meiṅ hai us ke rasan
   Ek hai qaidan
 
   2
   Jab se bichhri hai wo Baba se kahaaṅ soti hai
-  Yaad zindaan mein Baba ko kar ke roti hai
+  Yaad zindaan meiṅ Baba ko kar ke roti hai
   Kab use sone bhala deti hai pattharoṅ ki chubhan
   Ek hai qaidan
 
@@ -40,8 +40,8 @@ romanLyrics: |-
   Ek hai qaidan
 
   5
-  Chhaaya zindaan mein hai gor andhera haaye
-  Aur zindaaṅ ke andheroṅ mein wo dar dar jaaye
+  Chhaaya zindaan meiṅ hai gor andhera haaye
+  Aur zindaaṅ ke andheroṅ meiṅ wo dar dar jaaye
   Haaye Khurshid thi na aaye na dar us ko kiran
   Ek hai qaidan
 # source_id: nohayonline:5f29fe3fc1a4a2e5d8c7

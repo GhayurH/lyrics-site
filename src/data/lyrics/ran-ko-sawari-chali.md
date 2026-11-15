@@ -23,7 +23,7 @@ romanLyrics: |-
   Saahib-e-talwaar ki ran ko sawaari chali
 
   1
-  Kehte the Shaah-e-zaman reh gaya main bewatan
+  Kehte the Shaah-e-zaman reh gaya maiṅ bewatan
   Bhai wafaadaar ki ran ko sawaari chali
 
   2

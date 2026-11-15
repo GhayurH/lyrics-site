@@ -12,13 +12,13 @@ aliases: []
 published: true
 romanLyrics: |-
   Ae laal mere Akbar
-  Main qurbaan tere Akbar
+  Maiṅ qurbaan tere Akbar
 
   1
   De aa ke sahaara Akbar ki
   Mayyat ko utha kar le aaye
   Gar teri ijaazat ho bhaai
-  Maidan mein Zainab aa jaaye
+  Maidan meiṅ Zainab aa jaaye
 
   2
   Aashur ko tu ne asr talak
@@ -39,14 +39,14 @@ romanLyrics: |-
   4
   Akbar ka badan talwaaroṅ se
   Aada ne kiya tukre tukre
-  Barchhi jo kaleje mein utri
+  Barchhi jo kaleje meiṅ utri
   To dil bhi hua tukre tukre
   Shabbir ne jo manzar dekha
   Wo khuṅ ke aansu rulwaaye
 
   5
   Athaara baras ka Akbar hai
-  Hai aalam-e-piri mein bhaiya
+  Hai aalam-e-piri meiṅ bhaiya
   Sadma hai qayaamat ka dil par
   Laasha hai uthaana Akbar ka
   Ae kaash pa-e-imdaad-e-akhi
@@ -57,7 +57,7 @@ romanLyrics: |-
   Bhaai ki kamar hi tor chale
   Ek saath tha Akbar ka baaqi
   So wo bhi munh ko mor chale
-  Piri mein uthe laasha kaise
+  Piri meiṅ uthe laasha kaise
   Hamshir sahaara ban jaaye
 
   7
@@ -66,16 +66,16 @@ romanLyrics: |-
   Ye kehte hue Qaisar Shah ne
   Qurbaan Ali Akbar ko kiya
   Na mumkin hai mere hote hue
-  Maidan mein Zainab aa jaaye
+  Maidan meiṅ Zainab aa jaaye
 
   8
   Shabbir ne ro ro ke kaha Zainab-e-muztar
   Parde pe tere ho gaya qurbaan Ali Akbar
-  Maqtal mein nahiṅ aana khule sar meri khwaahar
+  Maqtal meiṅ nahiṅ aana khule sar meri khwaahar
   Ta hashr salaamat rahe Zainab teri chaadar
   Kuchh yaad hai jab dafn hui raat ko maadar
   Us waqt bhi tu ghar se nahiṅ aayi thi baahar
-  Are dekhega tujhe ran mein to mar jaayega bhaai
+  Are dekhega tujhe ran meiṅ to mar jaayega bhaai
   Haaṅ maut se pehle hi guzar jaayega bhaai
 # source_id: nohayonline:eefb2a6cb31af2940680
 # source_url: https://www.nohayonline.com/details_content.php?id=2630

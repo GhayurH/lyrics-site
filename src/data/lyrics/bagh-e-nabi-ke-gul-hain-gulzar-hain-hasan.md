@@ -14,19 +14,19 @@ romanLyrics: |-
   Beshaq ke imamat ke taajdaar haiṅ Hasan
 
   1
-  Khair-al-Nisa ki god mein ye dekh lo Ali
+  Khair-al-Nisa ki god meiṅ ye dekh lo Ali
   Ik Mustafa ke din ki bahaar haiṅ Hasan
-  Galiyoṅ mein Madine ki kehte the Musalmaan
+  Galiyoṅ meiṅ Madine ki kehte the Musalmaan
   Dosh-e-Nabi pe dekh lo sawaar haiṅ Hasan
 
   2
   Shaami ko takht par bhi bechain kar diya hai
-  Kiun ke Ali ki tarah jarraar haiṅ Hasan
-  Phir Shaam ke lashkar halchal na machaay kiun kar
+  Kiuṅ ke Ali ki tarah jarraar haiṅ Hasan
+  Phir Shaam ke lashkar halchal na machae kiuṅ kar
   Wo saamne basurat-e-talwaar haiṅ Hasan
 
   3
-  Le kar Rasul god mein kehte the baar baar
+  Le kar Rasul god meiṅ kehte the baar baar
   Khaaliq ki muhabbat ka izhaar haiṅ Hasan
   Manzur karaaye Maula Zahra ke waaste se
   Farman Zaki ke jo ashaar haiṅ Hasan

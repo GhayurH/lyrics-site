@@ -15,7 +15,7 @@ romanLyrics: |-
   Haq par deṅge qurbaani Shabbir zarur
 
   1
-  Ashk-e-gham-e-Shabbir hai jis ki aaṅkhoṅ mein
+  Ashk-e-gham-e-Shabbir hai jis ki aaṅkhoṅ meiṅ
   Us ko milegi jannat ki jaagir zarur
 
   2
@@ -32,7 +32,7 @@ romanLyrics: |-
 
   5
   Asghar ki jaanib jo chala tha keh dega
-  Mahshar mein wo saari kahaani tir zarur
+  Mahshar meiṅ wo saari kahaani tir zarur
 
   6
   Hal min naasir ki jab deṅge Shah sada
@@ -43,7 +43,7 @@ romanLyrics: |-
   Qabr bana kar roye haiṅ Shabbir zarur
 
   8
-  Sabr agar ban jaata hai talwaar Urooj
+  Sabr agar ban jaata hai talwaar Uruj
   Kat jaati hai zulm ki har zanjir zarur
 # source_id: nohayonline:5f517e3411e2fb5c00aa
 # source_url: https://www.nohayonline.com/details_content.php?id=809

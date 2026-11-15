@@ -24,7 +24,7 @@ romanLyrics: |-
   Ab tum bujhaao mere Ghazi baali Sakina ki pyaas
 
   3
-  Haathoṅ mein sukhe kuze uthaaye karte haiṅ pyaase buka
+  Haathoṅ meiṅ sukhe kuze uthaaye karte haiṅ pyaase buka
   Hai sab ki dhaaras teri bhatiji aur us ki dhaaras chacha
   Kehti hai meri tashnagi ka ammu ko hai ehsaas
 
@@ -44,7 +44,7 @@ romanLyrics: |-
   Yuṅ chhor kar na mujh ko jaao tum hi ho meri asaas
 
   7
-  Khaimoṅ mein mera laasha na jaaye Ghazi ke the ye sukhan
+  Khaimoṅ meiṅ mera laasha na jaaye Ghazi ke the ye sukhan
   Thaama kamar ko ye baat sun ke roye Shah-e-Zulmanan
   Bekaar hoga mera jina tum hi rahe jab na paas
 

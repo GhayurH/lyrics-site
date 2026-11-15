@@ -17,13 +17,13 @@ romanLyrics: |-
   Aa meri god ke paale mere Husain aa
   Mere gharib aa zara maaṅ ke qarib aa
   Sina figaar hai tera mujhko hai ye pata
-  Dasht-e-bala mein Fatema Zehra ki thi sada
+  Dasht-e-bala meiṅ Fatema Zehra ki thi sada
 
   2
   Kis ne mere jigar pe ye khanjar chala diya
   Kis ne mere Husain ko pani nahiṅ diya
   Khud chal ke kiuṅ na aa gaya darya ko kya hua
-  Ek baar maaṅ pukar ke godi mein let ja
+  Ek baar maaṅ pukar ke godi meiṅ let ja
 
   3
   Seh roz ki ye pyaas ye jalti hui zamiṅ
@@ -32,20 +32,20 @@ romanLyrics: |-
   Tiroṅ se mere laal ka sina bhara hua
 
   4
-  Pehle to baba jaan ko royi main zaar zaar
-  Royi Ali ko qabr mein dil ho gaya figaar
+  Pehle to baba jaan ko royi maiṅ zaar zaar
+  Royi Ali ko qabr meiṅ dil ho gaya figaar
   Ek laal tha Hasan mera uski huṅ sogwaar
-  Ab tere gham ne qabr mein rehne nahiṅ diya
+  Ab tere gham ne qabr meiṅ rehne nahiṅ diya
 
   5
-  Aata hai yaad mujhko madine mein apna ghar
-  Chakki main pisti thi magar tum pe thi nazar
+  Aata hai yaad mujhko madine meiṅ apna ghar
+  Chakki maiṅ pisti thi magar tum pe thi nazar
   Tum ko sulaaya karti thi raatoṅ ko jaag kar
-  Ab main jagane aayi huṅ ae laal jaag ja
+  Ab maiṅ jagane aayi huṅ ae laal jaag ja
 
   6
   Ek baar maaṅ pukaar le bilkul usi tarah
-  Jhule mein jhulte hue kehte the jis tarah
+  Jhule meiṅ jhulte hue kehte the jis tarah
   Wo bachpana tera mujhe bhulega kis tarah
   Mere baghair chain se ek pal nahiṅ raha
 
@@ -53,7 +53,7 @@ romanLyrics: |-
   Maaṅ huṅ mujhe bata tere sine pe kya hua
   Kiuṅ hai kamar jhuki hui chehra lahu bhara
   Abbas hai kahaaṅ Ali Akbar kahaaṅ gaya
-  Haaṅ thak gaya hai aa meri godi mein laal aa
+  Haaṅ thak gaya hai aa meri godi meiṅ laal aa
 
   8
   Fart-e-alam se sina-e-Sarwar figaar hai

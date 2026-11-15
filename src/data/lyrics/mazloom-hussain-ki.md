@@ -1,6 +1,6 @@
 ---
 title: "مظلوم حسین کی ہمشیرہ"
-alternateTitle: "Mazloom Husain Ki"
+alternateTitle: "Mazlum Husain Ki"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Mazloom Husain ki hamsheera
+  Mazlum Husain ki hamsheera
   Islam bachane aayi hai
   Shabbir ka saari duniya ko
   Paigham sunaane aayi hai
@@ -22,13 +22,13 @@ romanLyrics: |-
   Sab bhai bhatije maare gaye
   Samaan jala ghar baar luta
   Kuch bhi na bacha lekin Zainab
-  Ye deen bachane aayi hai
+  Ye din bachane aayi hai
 
   2
   Har khutba is ka majlis hai
   Har aansuṅ is ka matam hai
-  Aashur basa hai aankhoṅ mein
-  Aur dil mein bahattar ka gham hai
+  Aashur basa hai aankhoṅ meiṅ
+  Aur dil meiṅ bahattar ka gham hai
   Ye ahl-e-aza se farsh-e-aza
   Ghar ghar bichhwane aayi hai
 
@@ -43,7 +43,7 @@ romanLyrics: |-
   4
   Kaunain ki malka ki beti
   Wo sharm o haya ki shehzadi
-  Shaam-e-gharibaaṅ mein jiski
+  Shaam-e-gharibaaṅ meiṅ jiski
   Chaadar chhini thi wo Bibi
   Dunya ki maaoṅ behnoṅ ko
   Parda sikhlaane aayi hai
@@ -53,13 +53,13 @@ romanLyrics: |-
   Chalte huwe khanjar dekha tha
   Na chhupne duṅgi khun tera
   Shabbir se jis ka waada tha
-  Wo Zainab Shaam mein bhai ka
+  Wo Zainab Shaam meiṅ bhai ka
   Matam karwaane aayi hai
 
   6
   Sarwar jab baad reha ho kar
   Jab aayi Karbobala muztar
-  Haye! peet ke sar maatam kar kar
+  Haye! pit ke sar maatam kar kar
   Chillayi bhai ki turbat par
   Uth bhai Husain tera chehlum
   Teri behan manane aayi hai

@@ -24,14 +24,14 @@ romanLyrics: |-
 
   3
   Tir ka zakhm kahaaṅ yaad raha Asghar ko
-  Maaṅ ko jab Shaam mein khaate hue patthar dekha
+  Maaṅ ko jab Shaam meiṅ khaate hue patthar dekha
 
   4
-  Haath khaali na the baazaar mein aane waale
+  Haath khaali na the baazaar meiṅ aane waale
   Kahiṅ sadqe ki khajureṅ kahiṅ patthar dekha
 
   5
-  Tasht mein baap ka sar aur laboṅ par thi chhari
+  Tasht meiṅ baap ka sar aur laboṅ par thi chhari
   Ek maasum si bachi ne ye manzar dekha
 
   6

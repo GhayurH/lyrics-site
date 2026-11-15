@@ -14,13 +14,13 @@ published: true
 # source_url: https://tajpoints.com/2025/02/ayyo-hannas-dil-e-haider-e-karrar-hon.html
 # raw_sha256: 42f6cb147efea3b5f8ac73804c4b99782db29074ee474c20038826a8b40f400e
 romanLyrics: |-
-  Ayyo Hannas dil-e-Haider-e-Karraar huṅ main
+  Ayyo Hannas dil-e-Haider-e-Karraar huṅ maiṅ
 
   1
-  Ayyo Hannas dil-e-Haider-e-Karraar huṅ main
-  Sab mere saamne majbur haiṅ mukhtaar huṅ main
-  Surma saf shikan o ghaazi o jarraar huṅ main
-  Alam-e-zar se kisi fauj ka saalaar huṅ main
+  Ayyo Hannas dil-e-Haider-e-Karraar huṅ maiṅ
+  Sab mere saamne majbur haiṅ mukhtaar huṅ maiṅ
+  Surma saf shikan o ghaazi o jarraar huṅ maiṅ
+  Alam-e-zar se kisi fauj ka saalaar huṅ maiṅ
   Asadullah ka aks mujhe kehte haiṅ
   Sher huṅ is liye Abbas mujhe kehte haiṅ
 
@@ -30,7 +30,7 @@ romanLyrics: |-
   Koi Musa koi Haarun-e-wafa hai lekin
   Kanz-e-maabud naginoṅ se bhara hai lekin
   Kul-e-imaan-e-Imaam-e-azali ne maanga
-  Main akela huṅ jise Rab se Ali ne maanga
+  Maiṅ akela huṅ jise Rab se Ali ne maanga
 
   3
   Algharaz bahr-e-munaajaat uthe dast-e-Khuda
@@ -38,22 +38,22 @@ romanLyrics: |-
   Rukh-e-taarikh-e-ukhuwwat pe charha rang-e-wafa
   Bait-e-maulud-e-Haram dekh ke qudrat ne kaha
   Ab ghurur-e-shab-e-taarik zara maand bhi ho
-  Baarah suraj haiṅ jab is ghar mein to ik chaand bhi ho
+  Baarah suraj haiṅ jab is ghar meiṅ to ik chaand bhi ho
 
   4
   Raah mushkil ho to aasaan bana deta huṅ
   Khaar zaaroṅ ko gulistaan bana deta huṅ
   Harf-e-ruswa ho to zishaan bana deta huṅ
-  Main bhikaari ko bhi sultaan bana deta huṅ
+  Maiṅ bhikaari ko bhi sultaan bana deta huṅ
   Apne Aaqa ke gulistaan ka gul-e-taaza huṅ
-  Woh agar shahr-e-sakhaawat haiṅ main darwaaza huṅ
+  Woh agar shahr-e-sakhaawat haiṅ maiṅ darwaaza huṅ
 
   5
   Kya kaha Shaah-e-Abuzar se mile ga ke nahiṅ
   Aab kuze ko samandar se mile ga ke nahiṅ
   Nur kuchh mehr-e-munawwar se mile ga ke nahiṅ
   Sochte ho keh mere ghar se mile ga ke nahiṅ
-  Shab ke phande mein gala daal diya jhul gaye
+  Shab ke phande meiṅ gala daal diya jhul gaye
   Kya mera Baab-e-Hawaaij ka laqab bhul gaye
 
   6
@@ -62,7 +62,7 @@ romanLyrics: |-
   Yuṅ to har lahja-e-bimaar shifa maangta hai
   Aa ke kaafir koi jab mujh se dua maangta hai
   Pesh-e-Rab kalma-e-tauhid parha deta huṅ
-  Main duaaoṅ ko Musalmaan bana deta huṅ
+  Maiṅ duaaoṅ ko Musalmaan bana deta huṅ
 
   7
   Hai shajar ek muraadoṅ ke samar baarah haiṅ
@@ -70,7 +70,7 @@ romanLyrics: |-
   Aasmaan ek imaamat ke qamar baarah haiṅ
   Ek hai ahl-e-nazar nur-e-nazar baarah haiṅ
   Baarah anwaar-e-imaamat ka jo ik ghaalib hai
-  Main bhi pota huṅ usi ka jo Abu Talib hai
+  Maiṅ bhi pota huṅ usi ka jo Abu Talib hai
 
   8
   Chhote bhaai ko laraai ki ijaazat de do
@@ -85,7 +85,7 @@ romanLyrics: |-
   Phir bhi Jibril ne shahpar ke liye wird parha
   Dar se khaamosh hua aur bhi kuchh dil dharka
   Jab mili sher ki aahat to pukaara darya
-  Raah takta tha main jis ki wohi saalik aaya
+  Raah takta tha maiṅ jis ki wohi saalik aaya
   Ghaasibo ghaat se bhaago mera maalik aaya
 
   10
@@ -99,17 +99,17 @@ romanLyrics: |-
   11
   Aasmaan tak jo gayi sher-e-nayastaaṅ ki pukaar
   Malak al-maut ne ghabra ke kaha ji sarkaar
-  Lahja-e-ghaiz mein bola yeh Husaini jarraar
+  Lahja-e-ghaiz meiṅ bola yeh Husaini jarraar
   Sun rahe ho jo taraai pe hai shor-e-ashraar
-  Dushmani mein yeh kai roz se bal khaate haiṅ
+  Dushmani meiṅ yeh kai roz se bal khaate haiṅ
   Jaao darya pe khabar kar do keh hum aate haiṅ
 
   12
   Pehredaaroṅ ki sada thi keh taraai chhoro
-  Apne bas mein nahiṅ hargiz yeh laraai chhoro
+  Apne bas meiṅ nahiṅ hargiz yeh laraai chhoro
   Ab yeh faryaad yeh girya yeh duhaai chhoro
   Waqt hai bhaag nikalne ka kalaai chhoro
-  Ghaiz mein aa ke jo talwaar chala deta hai
+  Ghaiz meiṅ aa ke jo talwaar chala deta hai
   Yeh parindoṅ ki tarah sar ko ura deta hai
 
   13
@@ -121,7 +121,7 @@ romanLyrics: |-
   Tum ko neze ki kashish kheṅch ke le aayi hai
 
   14
-  Gham-e-sehyaan ke dilaase ho kahaaṅ jaate ho
+  Gham-e-sehyaaṅ ke dilaase ho kahaaṅ jaate ho
   Jaane kitnoṅ ki khata se ho kahaaṅ jaate ho
   Tum to Hinda ke nawaase ho kahaaṅ jaate ho
   Badr ke roz se pyaase ho kahaaṅ jaate ho
@@ -129,7 +129,7 @@ romanLyrics: |-
   Khun ke pyaaso meri talwaar se paani pi lo
 
   15
-  Shimr buzdil se pahey joor manga aur manga
+  Shimr buzdil se pahe jur manga aur manga
   Der kis baat ki filfaur manga aur manga
   Apne anjaam pe kar ghaur manga aur manga
   Mujh se larna hai to fauj aur manga aur manga
@@ -139,17 +139,17 @@ romanLyrics: |-
   16
   Hai mere waar ki raftaar hawa ko maalum
   Khadma tegh-e-Ali hai mere hamle makhdum
-  Sabhi jurat ki safoṅ mein hai azal se meri dhum
+  Sabhi jurat ki safoṅ meiṅ hai azal se meri dhum
   Jism ajab hone lageṅ ge abhi jaan se mahrum
   Har shujaat ke dhani Ibn-e-Wali aaye haiṅ
   Tum yeh kehte hue bhaago ge Ali aaye haiṅ
 
   17
-  Apne dil mein hai jawaan fath-e-Khaibar ki umang
+  Apne dil meiṅ hai jawaan fath-e-Khaibar ki umang
   Sang ko mom kareṅ hum to kabhi mom ko sang
-  Zindagi lamhoṅ mein bedinoṅ pe ho jaaye gi tang
+  Zindagi lamhoṅ meiṅ bedinoṅ pe ho jaaye gi tang
   Bhul jaao ge abhi Rustam o Sohrab ki jang
-  Hum jo talwaar ke qabze mein kalaai deṅ ge
+  Hum jo talwaar ke qabze meiṅ kalaai deṅ ge
   Un ke ajdaad bhi qabroṅ se duhaai deṅ ge
 ---
 

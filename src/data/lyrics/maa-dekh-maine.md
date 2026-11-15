@@ -11,19 +11,19 @@ aliases: []
 published: true
 romanLyrics: |-
   Ghore se jab zamin par aaye Shah-e-zaman
-  Dekha ke ban mein Fatema Zehra hai maujizan
+  Dekha ke ban meiṅ Fatema Zehra hai maujizan
   Are baaloṅ se jhaarti hai zamiṅ qatlgaah ki
   Maadar ko dekha aur ye Maula ne aah ki
-  Maa dekh main ne sab luta diya
+  Maa dekh maiṅ ne sab luta diya
 
   1
-  Sahra ko apne khun se main ne basa diya
+  Sahra ko apne khun se maiṅ ne basa diya
   Jo kar saka na koi wo kar ke dikha diya
-  Laashoṅ se main ne dasht-e-bayaabaaṅ saja diya
-  Bachpan mein wo jo waada kiya tha nibha diya
+  Laashoṅ se maiṅ ne dasht-e-bayaabaaṅ saja diya
+  Bachpan meiṅ wo jo waada kiya tha nibha diya
 
   2
-  Khaak aur khuṅ mein ghaltaaṅ badan dekh le mera
+  Khaak aur khuṅ meiṅ ghaltaaṅ badan dekh le mera
   Barbaad ho chuka hai chaman dekh le mera
   Kaaṅte pare hue haiṅ dahan dekh le mera
   Dil muztarib hai aisa ke jaise bujha diya
@@ -31,38 +31,38 @@ romanLyrics: |-
   3
   Wo dekho ham shabih-e-Payambar ki laash ko
   Tukre pare haiṅ Qasim-e-muztar ke dekh lo
-  Asghar ki qabr dasht-e-bayaabaaṅ mein dekh lo
-  Zainab ke laadloṅ ko bhi ban mein sula diya
+  Asghar ki qabr dasht-e-bayaabaaṅ meiṅ dekh lo
+  Zainab ke laadloṅ ko bhi ban meiṅ sula diya
 
   4
   Ghore se jab zamin pe aaya jawaaṅ pisar
-  Main ban mein aaya thokareṅ khaata ba-chashm-e-tar
+  Maiṅ ban meiṅ aaya thokareṅ khaata ba-chashm-e-tar
   Barchhi ka phal jo khiṅcha to tukre hua jigar
   Is gham ne jite ji mujhe laasha bana diya
 
   5
   Aisa hua shahid wo Qasim sa nek naam
-  Tukroṅ mein bat ke reh gaya us ka badan tamaam
-  Qasim ki maa ke azm ko main ne kiya salaam
+  Tukroṅ meiṅ bat ke reh gaya us ka badan tamaam
+  Qasim ki maa ke azm ko maiṅ ne kiya salaam
   Marne ke waaste use dulha bana diya
 
   6
   Tir o sitam tha ek magar zakhmi kar gaya
   Asghar ka halq maa ka kaleja jigar mera
-  Asghar ko le ke khaime mein waapas na jaa saka
-  Is Karbala ki god mein us ko chhupa diya
+  Asghar ko le ke khaime meiṅ waapas na jaa saka
+  Is Karbala ki god meiṅ us ko chhupa diya
 
   7
   Qurbaan mujh pe ho gaye Zainab ke laadle
-  Meri nazar mein ye bhi to Akbar se kam na the
+  Meri nazar meiṅ ye bhi to Akbar se kam na the
   Laashe utha ke dono ke laaya jo dasht se
   Zainab ki khamoshi ne ye nauha suna diya
 
   8
   Amma tere Husain ka wo pehla jaaṅnisaar
   Jo fitratan bhi Hur tha hua haq se aashkaar
-  Ghaazi ki tarah Hur ke liye main huṅ sogwaar
-  Hur jaise baawafa ko bhi main ne gaṅwa diya
+  Ghaazi ki tarah Hur ke liye maiṅ huṅ sogwaar
+  Hur jaise baawafa ko bhi maiṅ ne gaṅwa diya
 
   9
   Amma gayi hai furqat-e-Abbas tor kar
@@ -74,11 +74,11 @@ romanLyrics: |-
   Apne pisar ke khuṅ se wuzu kar chuka Husain
   Laashoṅ se Karbala ki zamiṅ bhar chuka Husain
   Subh se kitni baar yahaaṅ mar chuka Husain
-  Aaghosh mein sula le ghamoṅ ne thaka diya
+  Aaghosh meiṅ sula le ghamoṅ ne thaka diya
 
   11
   Kya Mazhar Abidi likhe Farhan kya parhe
-  Hai kis mein itni taab ke maqtal bayaaṅ kare
+  Hai kis meiṅ itni taab ke maqtal bayaaṅ kare
   Aawaaz ab bhi aati hai dasht-e-qitaal se
   Is Karbala ko arsh-e-mualla bana diya
 reciter: Farhan Ali Waris

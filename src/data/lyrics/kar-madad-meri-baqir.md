@@ -10,7 +10,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Sakina mar gayi zindaan mein jab ye shor utha
+  Sakina mar gayi zindaan meiṅ jab ye shor utha
   Alam se zard tha us dam har ek ka chehra
   Qarib-e-laasha-e-hamshir bhaai jab pahuncha
   Bandhe the haath badan tauq se larazta tha
@@ -18,38 +18,38 @@ romanLyrics: |-
   To ro ke bete se Sajjad phir ye kehne lage
 
   1
-  Kar madad meri Baqir beta hamshir ki qabr banaauṅ main
-  Zanjir uthaao tum meri aur us ki laash uthaauṅ main
+  Kar madad meri Baqir beta hamshir ki qabr banaauṅ maiṅ
+  Zanjir uthaao tum meri aur us ki laash uthaauṅ maiṅ
 
   2
-  Daada ne bari mazlumi mein tha daadi ko dafnaaya
+  Daada ne bari mazlumi meiṅ tha daadi ko dafnaaya
   Lekin wo Madina tha Baqir aur ye hai des paraaya
-  Is chaar baras ki Zahra ko ghurbat mein kahaaṅ dafnaauṅ main
+  Is chaar baras ki Zahra ko ghurbat meiṅ kahaaṅ dafnaauṅ maiṅ
 
   3
-  Jo khuṅ se bhari thi maadar ki nazroṅ se chhupa di main ne
-  Ik saal se thi jo gardan mein rassi wo hata di main ne
-  Gardan pe bane jo rassi se kaise wo nil chhupaauṅ main
+  Jo khuṅ se bhari thi maadar ki nazroṅ se chhupa di maiṅ ne
+  Ik saal se thi jo gardan meiṅ rassi wo hata di maiṅ ne
+  Gardan pe bane jo rassi se kaise wo nil chhupaauṅ maiṅ
 
   4
   Mil jaaye agar waapas mujh ko wo teri rida aur gauhar
   Baaba ki lahad par rakh duṅ ya Sughra ko duṅ waapas jaa kar
-  Wo donoṅ amaanat haiṅ teri batla de kise pahunchaauṅ main
+  Wo donoṅ amaanat haiṅ teri batla de kise pahunchaauṅ maiṅ
 
   5
   Jab tum ko rihaai mil jaaye phuphiyoṅ ko watan pahunchaana
   Reh leṅ ge yahiṅ ghamkhwaari behan tum qaafila ghar le jaana
-  Dafnaate hue is bachchi ko zindaaṅ mein agar mar jaauṅ main
+  Dafnaate hue is bachchi ko zindaaṅ meiṅ agar mar jaauṅ maiṅ
 
   6
-  Donoṅ ko juda main kaise karuṅ himmat hi nahiṅ ye meri
+  Donoṅ ko juda maiṅ kaise karuṅ himmat hi nahiṅ ye meri
   Hai aap ke sar se lipti hui bejaan ye aap ki beti
-  Kya saath Sakina ke baaba sar aap ka bhi dafnaauṅ main
+  Kya saath Sakina ke baaba sar aap ka bhi dafnaauṅ maiṅ
 
   7
   Taawiz-e-lahad ko band kiya Aabid ne ye keh kar Akbar
   Kehna ye haram se ae Baqir sab royeṅ yahaaṅ par aa kar
-  Turbat pe chhirakne ki khaatir ab paani kahaaṅ se laauṅ main
+  Turbat pe chhirakne ki khaatir ab paani kahaaṅ se laauṅ maiṅ
 reciter: Meer Hasan Meer
 # source_id: nohayonline:d48c6e1689ffea0888ae
 # source_url: https://www.nohayonline.com/details_content.php?id=307

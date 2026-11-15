@@ -24,7 +24,7 @@ romanLyrics: |-
   Bataeṅ kya tumheṅ deta hai kya Abbas ka parcham
 
   3
-  Muhafiz hai do aalam mein azadaran-e-Sarwar ke
+  Muhafiz hai do aalam meiṅ azadaran-e-Sarwar ke
   Riza-e-Haq dua-e-Sayyeda Abbas ka parcham
 
   4
@@ -36,19 +36,19 @@ romanLyrics: |-
   Khuda ka qurb karta hai ata Abbas ka parcham
 
   6
-  Jahan-e-rang o bu mein qabr mein barzakh mein mahshar mein
+  Jahan-e-rang o bu meiṅ qabr meiṅ barzakh meiṅ mahshar meiṅ
   Sahara hai hamara aap ka Abbas ka parcham
 
   7
   Mera waada hai tum se mushkileṅ khud bach ke nikleṅgi
-  Tasawwur mein rakho subh o masa Abbas ka parcham
+  Tasawwur meiṅ rakho subh o masa Abbas ka parcham
 
   8
-  Chhura lete hain hum ko Sibte Jafar har musibat se
+  Chhura lete haiṅ hum ko Sibte Jafar har musibat se
   Dua aa ke shifa farsh-e-aza Abbas ka parcham
 
   9
-  Yehi tha dasht-e-ghurbat mein anis-e-Zainab o Sarwar
+  Yehi tha dasht-e-ghurbat meiṅ anis-e-Zainab o Sarwar
   Sakina aur haram ka aasra Abbas ka parcham
 
   10
@@ -64,7 +64,7 @@ romanLyrics: |-
   Bahot ghamgin hai baad-e-Karbala Abbas ka parcham
 
   13
-  Majalis mein julusoṅ mein azakhanoṅ mein zindaṅ mein
+  Majalis meiṅ julusoṅ meiṅ azakhanoṅ meiṅ zindaṅ meiṅ
   Sakina ko hai ab bhi dhundta Abbas ka parcham
 # source_id: nohayonline:099c0fecca54a976de98
 # source_url: https://www.nohayonline.com/details_content.php?id=2648

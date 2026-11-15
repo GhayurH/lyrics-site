@@ -11,16 +11,16 @@ tags: []
 aliases: ["Sakina Shaam Ke Zindan"]
 published: true
 romanLyrics: |-
-  Sakina Shaam ke zindaaṅ mein so gayi baba
+  Sakina Shaam ke zindaaṅ meiṅ so gayi baba
 
   1
   Tamaanche Shimr se khaati thi jab bhi roti thi
-  Andheri raat mein uth uth ke bas ye kehti thi
+  Andheri raat meiṅ uth uth ke bas ye kehti thi
   Meri asiri pe roti hai bekasi baba
 
   2
   Ae baba aap ke sine ki usko aadat thi
-  Zamiṅ pe sone ki koshish mein jaagti hi rahi
+  Zamiṅ pe sone ki koshish meiṅ jaagti hi rahi
   Teri yatima ko nind aayi na kabhi baba
 
   3
@@ -29,14 +29,14 @@ romanLyrics: |-
   Use rihaai na mar ke bhi mil saki baba
 
   4
-  Banaayi aap ne maqtal mein qabr-e-Asghar ki
-  Lahad banaayi hai zindaan mein main ne muztar ki
+  Banaayi aap ne maqtal meiṅ qabr-e-Asghar ki
+  Lahad banaayi hai zindaan meiṅ maiṅ ne muztar ki
   Pari jo faatiha roti thi hathkari baba
 
   5
   Kafan lahu bhara kurta hi hai Sakina ka
   Diya hai ghusl bhi ashkoṅ se ae mere baba
-  Kafan bhi rota tha aur main bhi qabr bhi baba
+  Kafan bhi rota tha aur maiṅ bhi qabr bhi baba
 
   6
   Nahiṅ zara sa ujaala bhi us ki turbat par
@@ -46,7 +46,7 @@ romanLyrics: |-
   7
   Bayaaṅ kaise kareṅ ge ye Maisam o Mazhar
   Jo bain baba se karte the Aabid-e-muztar
-  Sakina Shaam ke zindaan mein so gayi baba
+  Sakina Shaam ke zindaan meiṅ so gayi baba
 # source_id: nohayonline:5cf48e10cc5ade15197a
 # source_url: https://www.nohayonline.com/details_content.php?id=1322
 # raw_sha256: ac4bb5f28a68e0bdc1523e7f3ec07f7d248a5ac8d61967d2e588ec54a10b0cfc

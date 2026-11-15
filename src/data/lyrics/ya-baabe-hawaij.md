@@ -35,11 +35,11 @@ romanLyrics: |-
   3
   Girwi karte haiṅ yuṅ bachchoṅ ko tere jhule se
   Doriyaaṅ baaṅdh ke karte haiṅ hawaale tere
-  Hai zamaanat mein teri maatami bachche sabhi
+  Hai zamaanat meiṅ teri maatami bachche sabhi
   In pe rakhiyega nazar Baab-e-Hawaaij Asghar
 
   4
-  Jo jhulaati hai azaakhaanoṅ mein jhula khaali
+  Jo jhulaati hai azaakhaanoṅ meiṅ jhula khaali
   Jholiyaaṅ rakhna na un maaoṅ ki Maula khaali
   Aisi aulaad mile naukari teri kare
   Itna ehsaan to kar Baab-e-Hawaaij Asghar
@@ -57,7 +57,7 @@ romanLyrics: |-
   Baagh-e-Zahra ke shajar Baab-e-Hawaaij Asghar
 
   7
-  Hausla hum ko bhi kar de wohi mushkil mein ataa
+  Hausla hum ko bhi kar de wohi mushkil meiṅ ataa
   Azm jo tu ne dikhaaya tha sar-e-Karbobala
   Tir gardan pe laga to diye ahl-e-jafa
   Aap roye na magar Baab-e-Hawaaij Asghar

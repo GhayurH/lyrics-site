@@ -20,7 +20,7 @@ romanLyrics: |-
 
   1
   Meri pyaas to tum se barh kar nahiṅ
-  Main mar jaauṅ gi mera kar lo yaqin
+  Maiṅ mar jaauṅ gi mera kar lo yaqin
   Mujhe raas aai na ye sar zamin
   Khudaara na ab aur tarpaaiye
 
@@ -33,7 +33,7 @@ romanLyrics: |-
   3
   Na jaane wo kaisi ghari aai thi
   Padar se ijaazat jo dilwaai thi
-  Main khud apni ghurbat se ghabraai thi
+  Maiṅ khud apni ghurbat se ghabraai thi
   Khata darguzar meri farmaaiye
 
   4
@@ -57,7 +57,7 @@ romanLyrics: |-
   7
   Chhidi mashk meri koi gham nahiṅ
   Meri aas tuti koi gham nahiṅ
-  Main pyaasi rahuṅ gi koi gham nahiṅ
+  Maiṅ pyaasi rahuṅ gi koi gham nahiṅ
   Dawa mere zakhmoṅ ki ban jaiye
 
   8

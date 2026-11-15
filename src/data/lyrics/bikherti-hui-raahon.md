@@ -16,12 +16,12 @@ romanLyrics: |-
   Khutboṅ ki Zulfiqaar se maara Yazid ko
 
   As salaam ya Zainab-e-Kubra as salaam
-  Bikherti hui raahoṅ mein roshni Zainab
+  Bikherti hui raahoṅ meiṅ roshni Zainab
 
   Mizaaj-e-Hazrat-e-Shabbir le chali Zainab
 
   1
-  Jahaaṅ mein maqsad-e-Shabbir aam karti rahi
+  Jahaaṅ meiṅ maqsad-e-Shabbir aam karti rahi
   Jo kaam bhaai ne sauṅpa tha kaam karti rahi
   Kabhi Husain ki surat kabhi Ali ki tarah
   Yazid-e-waqt ki nindeṅ haraam karti rahi
@@ -31,7 +31,7 @@ romanLyrics: |-
   Yazidiyat ke liye kaam khub ho jaata
   Jo aaftaab-e-shariat ghurub ho jaata
   Zamaana jahl-e-murakkab ki nind so jaata
-  Khuda ke din mein shaamil uyub ho jaata
+  Khuda ke din meiṅ shaamil uyub ho jaata
   Pas-e-Husain na karti jo rehbari Zainab
 
   3
@@ -45,19 +45,19 @@ romanLyrics: |-
   Ali ki laadli hamshir-e-Shabbar o Shabbir
   Janaab-e-Fatema Zehra ki hu bahu tasvir
   Masahebin-e-sitamgar ki larzabaan hamdaam
-  Dayaar-e-Shaam mein kar ke kuchh is tarah taqrir
+  Dayaar-e-Shaam meiṅ kar ke kuchh is tarah taqrir
   Misaal-e-Haidar-e-Karraar chhaa gayi Zainab
 
   5
   Sitamgaroṅ ne to chaaha magar na hone diya
-  Khuda ke din mein bidat ka ghar na hone diya
+  Khuda ke din meiṅ bidat ka ghar na hone diya
   Gawaara kar liya khud daagh beridaai ka
   Barehna din-e-Payambar ka sar na hone diya
-  Hai tere khun mein shaamil tawangari Zainab
+  Hai tere khun meiṅ shaamil tawangari Zainab
 
   6
   Siraat-e-haq o sadaaqat se hat gayi hoti
-  Isaar-e-kufr mein dunya simat gayi hoti
+  Isaar-e-kufr meiṅ dunya simat gayi hoti
   Tamaam nabiyoṅ ki mehnat bhi zer-e-takht-e-Yazid
   Quraan-e-paak ke hamraah pat gayi hoti
   Agar mizaaj-e-zamaana na morti Zainab
@@ -79,9 +79,9 @@ romanLyrics: |-
   9
   Misaal-e-Hazrat-e-Misam dahan ata kar do
   Hameṅ Janaab-e-Farazdaq sa fan ata kar do
-  Dua ye Monis o Kausar ki Shadman ki hai
+  Dua ye Monis o Kausar ki Shadmaṅ ki hai
   Ae Bibi hum ko bhi auj-e-sukhan ata kar do
-  Tumhaari bazm mein karte haiṅ naukri Zainab
+  Tumhaari bazm meiṅ karte haiṅ naukri Zainab
 # source_id: nohayonline:a93ea88d76675bbd9ff8
 # source_url: https://www.nohayonline.com/details_content.php?id=2997
 # raw_sha256: 093996005a655b8dedd6874bf2b3309405d17cdecb9edb7e009781bb283bcae5

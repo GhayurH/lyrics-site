@@ -63,12 +63,12 @@ romanLyrics: |-
   Maula hamaara tin sau terah meiṅ naam ho
 
   7
-  Paidal Najaf se Karb o Bala jab chala huṅ main
-  Maula har ik qadam pe tumheiṅ dhundta huṅ main
-  Khidmatguzaar-e-ishq se jab bhi mila huṅ main
-  Dekha hai mere Maula ko yeh puchhta huṅ main
+  Paidal Najaf se Karb o Bala jab chala huṅ maiṅ
+  Maula har ik qadam pe tumheiṅ dhundta huṅ maiṅ
+  Khidmatguzaar-e-ishq se jab bhi mila huṅ maiṅ
+  Dekha hai mere Maula ko yeh puchhta huṅ maiṅ
   Ham zaairoṅ pe Maula karam ki nazar kareiṅ
-  Is Arbaeen aap ke pichhe safar kareiṅ
+  Is Arbain aap ke pichhe safar kareiṅ
 
   8
   Sine meiṅ dil hai aur diloṅ meiṅ makiṅ haiṅ aap
@@ -81,7 +81,7 @@ romanLyrics: |-
   9
   Aapas meiṅ lar rahe haiṅ yeh kaise nasib haiṅ
   Ghaali khatib koi muqassir khatib haiṅ
-  Kiun bekhabar haiṅ aap hamaare qarib haiṅ
+  Kiuṅ bekhabar haiṅ aap hamaare qarib haiṅ
   Yeh sab amir hoke bhi kitne gharib haiṅ
   Kijiye khud aap jhute aqidoṅ ka ikhtitaam
   Zishan o Jaun ki hai sada al-ajal Imam

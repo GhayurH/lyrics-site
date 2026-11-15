@@ -35,9 +35,9 @@ romanLyrics: |-
   Kehti thi yehi ro kar baba ab to aajao
 
   4
-  The haram jo be parda rote jaate the Sajjad
+  The haram jo beparda rote jaate the Sajjad
   Durra jab bhi lagta tha karte the yehi faryaad
-  Main sitam ke huṅ zad par baba ab to aajao
+  Maiṅ sitam ke huṅ zad par baba ab to aajao
 
   5
   Fatema ke zaanu par kat raha tha shah ka sar
@@ -45,7 +45,7 @@ romanLyrics: |-
   Lut raha hai mera ghar baba ab to aajao
 
   6
-  Qaid mein Sakina ko kaatti hai tanhai
+  Qaid meiṅ Sakina ko kaatti hai tanhai
   Kabhi kehti hai ammu kabhi kehti hai bhai
   Kabhi kehti hai ro kar baba ab to aajao
 
@@ -56,7 +56,7 @@ romanLyrics: |-
 
   8
   Likh raha hai jo Majid Shadmaaṅ parho nauha
-  Gunjta hai kaanoṅ mein bekasoṅ ka ye naala
+  Gunjta hai kaanoṅ meiṅ bekasoṅ ka ye naala
   Ae yatimoṅ ke yaawar baba ab to aajao
 # source_id: nohayonline:6700aa2c66ffe379a493
 # source_url: https://www.nohayonline.com/details_content.php?id=903

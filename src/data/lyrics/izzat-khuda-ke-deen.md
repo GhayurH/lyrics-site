@@ -1,6 +1,6 @@
 ---
 title: "عزت خدا کے دیں کی بچا لی حسین نے"
-alternateTitle: "Izzat Khuda Ke Din"
+alternateTitle: "Izzat Khuda Ke Diṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -15,8 +15,8 @@ romanLyrics: |-
   Naana tumhaari baat nibhaai Husain ne
 
   1
-  Ab kaun hai jo khaimoṅ mein jaa kar khabar kare
-  Asghar ki qabr ran mein bana li Husain ne
+  Ab kaun hai jo khaimoṅ meiṅ jaa kar khabar kare
+  Asghar ki qabr ran meiṅ bana li Husain ne
 
   2
   Aankhoṅ pe pattiyaaṅ aap ne baandhi thi Ae Khalil
@@ -27,7 +27,7 @@ romanLyrics: |-
   Dekha jo ghar Batul ka khaali Husain ne
 
   4
-  Karb o bala mein apna bhara ghar luta diya
+  Karb o bala meiṅ apna bhara ghar luta diya
   Lekin Nabi ki baat na taali Husain ne
 
   5
@@ -35,7 +35,7 @@ romanLyrics: |-
   Shariat ki baag dor sambhaali Husain ne
 
   6
-  Din-e-Khuda Mohib jo andhere mein ghir gaya
+  Din-e-Khuda Mohib jo andhere meiṅ ghir gaya
   Shama Husainiyat ki jala li Husain ne
 # source_id: nohayonline:71360b201b8b42afad81
 # source_url: https://www.nohayonline.com/details_content.php?id=2537

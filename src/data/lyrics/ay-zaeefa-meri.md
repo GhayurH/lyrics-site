@@ -21,12 +21,12 @@ romanLyrics: |-
   Tujhko maalum hai ahwaal mere bachchoṅ ka
 
   2
-  Kitne mashhur the is shehr mein khairaat uski
+  Kitne mashhur the is shehr meiṅ khairaat uski
   Apni maadar se bahut milti thi surat uski
   Orh kar ghar se nikalti thi wo Zehra ki rida
 
   3
-  Khencha karta tha qalatein Ali Akbar uski
+  Khencha karta tha qalateiṅ Ali Akbar uski
   Kitni taazim kiya karte the Sarwar uski
   Aur Abbas diya karte the pehra uska
 
@@ -37,27 +37,27 @@ romanLyrics: |-
 
   5
   Ro ke Abdullah se tab Hazrat-e-Zainab ne kaha
-  Main hi Zainab huṅ masaaib ne mujhe ghera hai
+  Maiṅ hi Zainab huṅ masaaib ne mujhe ghera hai
   Aaj tum bhi nahiṅ pehchaante chehra mera
 
   6
-  Main hi Zainab huṅ magar aaj huṅ main kitni gharib
-  Le gaya nargha-e-aada mein mujhe mera nasib
+  Maiṅ hi Zainab huṅ magar aaj huṅ maiṅ kitni gharib
+  Le gaya nargha-e-aada meiṅ mujhe mera nasib
   Aur mere paas na mehmil thi na maqna na rida
 
   7
-  Hue maqtul-e-jafa dasht mein bachche mere
+  Hue maqtul-e-jafa dasht meiṅ bachche mere
   Had to ye hai ke jalaaye gaye khaime mere
-  Jal gaya sholoṅ mein beshir ka nanha jhula
+  Jal gaya sholoṅ meiṅ beshir ka nanha jhula
 
   8
   Rukh pe Sarwar ne mala khun Ali Asghar ka
-  Dekha barchhi mein jigar main ne Ali Akbar ka
+  Dekha barchhi meiṅ jigar maiṅ ne Ali Akbar ka
   Saamne mere kata hai mere bhai ka gala
 
   9
   Kahuṅ kis tarah bandhi thi mere shaanoṅ pe rasan
-  Kaise batlaauṅ main wo Shaam ke zindaaṅ ki ghutan
+  Kaise batlaauṅ maiṅ wo Shaam ke zindaaṅ ki ghutan
   Ho gayi khaak ka paiwand Sakina dukhiya
 
   10

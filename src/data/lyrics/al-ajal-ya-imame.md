@@ -40,13 +40,13 @@ romanLyrics: |-
 
   6
   Kaise bhule wo manzar Imam-e-Zamaṅ
-  Wo zaifi wo maqtal wo lashe jawaṅ
-  Kya qayamat ka tha Karbala mein samaṅ
+  Wo zaifi wo maqtal wo lashe jawaaṅ
+  Kya qayamat ka tha Karbala meiṅ samaṅ
 
   7
-  Ab bhi ashkoṅ mein hai Sham-e-Gham ka samaṅ
+  Ab bhi ashkoṅ meiṅ hai Sham-e-Gham ka samaṅ
   Jalte khaime wo sehra wo uthta dhuaṅ
-  Aaj bhi hai fazaoṅ mein aah o fughaṅ
+  Aaj bhi hai fazaoṅ meiṅ aah o fughaṅ
 
   8
   Ghazi Abbas ka wasta aaiye
@@ -56,7 +56,7 @@ romanLyrics: |-
   9
   Asr-e-Ashur Sham-e-Alam ki qasam
   Zulm thamta nahiṅ aaj bhi hai sitam
-  Apne parcham ke sae mein dijiye amaṅ
+  Apne parcham ke sae meiṅ dijiye amaṅ
 
   10
   Tashnagi dhup sehra wo reg-e-tapaṅ
@@ -71,7 +71,7 @@ romanLyrics: |-
   12
   Ae Shabih-e-Rasul-e-Zamaṅ al madad
   Al madad Ibn-e-Khaibar-Shikan al madad
-  Hai Fareed aaj sab ke ye wird-e-zabaṅ
+  Hai Farid aaj sab ke ye wird-e-zabaṅ
 # source_id: nohayonline:a7acae43c9df9182592c
 # source_url: https://www.nohayonline.com/details_content.php?id=2877
 # raw_sha256: 64557d752d876a3e8f9523a50c4edad551dba2ef2cc7ea667818e0656fa9a0ee

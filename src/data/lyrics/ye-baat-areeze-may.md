@@ -12,28 +12,28 @@ aliases: ["Ye Baat Areeze May"]
 published: true
 romanLyrics: |-
   Sadiyoṅ ke har ek zulm ko kaise likhuṅ
-  Jo dard hai sine mein nahiṅ likh sakta
+  Jo dard hai sine meiṅ nahiṅ likh sakta
   Aap aaeṅ to qadmoṅ pa giruṅ arz karuṅ
-  Har baat arize mein nahiṅ likh sakta
+  Har baat arize meiṅ nahiṅ likh sakta
   Ya Imam ya Imam ya Imam ya Imam
-  Ye baat arize mein nahiṅ likh sakta
+  Ye baat arize meiṅ nahiṅ likh sakta
 
   1
   Dukh ye hai ke ghairoṅ ke ilaawa hum ne
-  Apnoṅ se bhi hum saaye mein paaya hum ne
+  Apnoṅ se bhi hum saaye meiṅ paaya hum ne
   Ye minbar o mihraab ke saudaagar log
   Jin ke liye khud ko bhi mitaaya hum ne
 
   2
   Is tarah se is din ki khidmat ki hai
-  Majlis mein dil o jaan se khitaabat ki hai
+  Majlis meiṅ dil o jaan se khitaabat ki hai
   Aur baith ke minbar pe bare fakhr ke saath
-  Is zikr ki laakhoṅ mein tijaarat ki hai
+  Is zikr ki laakhoṅ meiṅ tijaarat ki hai
 
   3
   Fankaar bhi shaayar bhi sadaakaar bhi hum
   Ehsaas nahiṅ hai ke adaakaar bhi hum
-  Naghmoṅ ko bhi nauhoṅ mein badalte haiṅ hum hi
+  Naghmoṅ ko bhi nauhoṅ meiṅ badalte haiṅ hum hi
   Kehne ko Shaah-e-diṅ ke azaadaar bhi hum
 
   4
@@ -46,7 +46,7 @@ romanLyrics: |-
   Lekin ye haqiqat hai ke ae amr-e-Khuda
   Kam wo haiṅ jinheṅ daulat o shohrat ne dasa
   Ae aksariyat qaum ki mukhlis ke jise
-  Maqsad he hata hi nahiṅ sakte wallaah
+  Maqsad hai hata hi nahiṅ sakte wallaah
 
   6
   Hum log namaazi bhi haiṅ azaadaar bhi haiṅ
@@ -55,8 +55,8 @@ romanLyrics: |-
   Har tarah se jaan dene par tayyaar bhi haiṅ
 
   7
-  Nazroṅ mein hai wo Karb o Bala ka manzar
-  Barchhi mein tha jis dam Ali Akbar ka jigar
+  Nazroṅ meiṅ hai wo Karb o Bala ka manzar
+  Barchhi meiṅ tha jis dam Ali Akbar ka jigar
   Maqtal ki zamin surkh hui jaati thi
   Dam torta tha baap ke haathoṅ pa pisar
 
@@ -64,17 +64,17 @@ romanLyrics: |-
   Chalta hai wo ek tir jo seh-shoba hai
   Is zulm pe taarikh bhi sharminda hai
   Wo tir jo Asghar ke gale par hai laga
-  Wo tir har ek qalb mein paiwasta hai
+  Wo tir har ek qalb meiṅ paiwasta hai
 
   9
-  Bedasti ke aankhoṅ mein jo ye aansu haiṅ
+  Bedasti ke aankhoṅ meiṅ jo ye aansu haiṅ
   Jazbaat Alamdar ke beqaabu haiṅ
   Shabbir uthaate haiṅ jinheṅ ro ro kar
   Saqqa-e-Sakina ke kate baazu haiṅ
 
   10
   Phir waqt ne Shahid na ye manzar dekha
-  Katta hua sajde mein koi sar dekha
+  Katta hua sajde meiṅ koi sar dekha
   Bimaar ne khaime ka hata kar parda
   Shabbir ka sar nok-e-sinaaṅ par dekha
 # source_id: nohayonline:2a86282b50af72abeb39

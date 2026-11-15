@@ -11,12 +11,12 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Sughra main lut kar aayi huṅ
+  Sughra maiṅ lut kar aayi huṅ
 
   Karb o Bala ki daastaan
   Kaise sunegi naatawaaṅ
   Bas ye samajh le nim jaaṅ
-  Sughra main lut kar aayi huṅ
+  Sughra maiṅ lut kar aayi huṅ
 
   1
   Do the mere shams o qamar
@@ -34,13 +34,13 @@ romanLyrics: |-
   Kaise ho wo manzar bayaaṅ
 
   4
-  Main thi bhara darbaar tha
+  Maiṅ thi bhara darbaar tha
   Wo Shaam ka baazaar tha
   Beparda thiṅ sab Bibiyaaṅ
 
   5
   Kiun kar Suraiya ho bayaaṅ
-  Larze mein tha kaun o makaaṅ
+  Larze meiṅ tha kaun o makaaṅ
   Zainab jo karti thiṅ bayaaṅ
 # source_id: nohayonline:567ce3f43765635cb151
 # source_url: https://www.nohayonline.com/details_content.php?id=260

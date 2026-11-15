@@ -23,9 +23,9 @@ romanLyrics: |-
   Utha rahi hai bitha rahi hai
 
   2
-  Ye kaun hai jis ki guftugu mein
+  Ye kaun hai jis ki guftugu meiṅ
   Ali ka lehja jhalak raha hai
-  Ye kaun hai jis ke walwaloṅ mein
+  Ye kaun hai jis ke walwaloṅ meiṅ
   Husainiyat jagmaga rahi hai
 
   3
@@ -35,15 +35,15 @@ romanLyrics: |-
   Luta ke karbal se aa rahi hai
 
   4
-  Pukaari dasht-e-bala mein Zainab
+  Pukaari dasht-e-bala meiṅ Zainab
   Kahaaṅ ho Abbas laut aao
-  Utha ke haathoṅ mein khaali kuza
+  Utha ke haathoṅ meiṅ khaali kuza
   Sakina tum ko bula rahi hai
 
   5
   Bujha ke paikaaṅ se pyaas apni
   Tu garam reti pe so raha hai
-  Tujhe khayaaloṅ mein ab bhi Asghar
+  Tujhe khayaaloṅ meiṅ ab bhi Asghar
   Rabab jhula jhula rahi hai
 
   6

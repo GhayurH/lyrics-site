@@ -31,7 +31,7 @@ romanLyrics: |-
 
   3
   Aap jaisa na hua koi gharib al ghuraba
-  Aap ko shehr-e-Madina mein bhi rehne na diya
+  Aap ko shehr-e-Madina meiṅ bhi rehne na diya
   Qabr Zehra ki Payambar ka bhi rauza chhuta
   Aap ko aap ke baaba ki tarah qaid kiya
   Chhut gaya kunba ya Imaam Raza
@@ -44,16 +44,16 @@ romanLyrics: |-
   Rota tha Kaaba ya Imaam Raza
 
   5
-  Zehr angur mein zaalim ne milaaya haaye haaye
-  Qabr mein Fatima Zehra ko rulaaya haaye haaye
+  Zehr angur meiṅ zaalim ne milaaya haaye haaye
+  Qabr meiṅ Fatima Zehra ko rulaaya haaye haaye
   Bekhata shama-e-imaamat ko bujhaaya haaye haaye
   Ek mazlum ko Sayyid ko sataaya haaye haaye
   Aasmaaṅ roya ya Imaam Raza
 
   6
-  Pahunche Iran mein Maasuma-e-Qum ke jo qadam
+  Pahunche Iran meiṅ Maasuma-e-Qum ke jo qadam
   Dekha har baam pe lehraata hai kaala parcham
-  Gham mein bhaai ke haiṅ duba hua saara aalam
+  Gham meiṅ bhaai ke haiṅ duba hua saara aalam
   Haaye mazlum ka bekas ka hai ghar ghar maatam
   Ghash hui behna ya Imaam Raza
 

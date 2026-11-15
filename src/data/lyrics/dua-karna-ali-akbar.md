@@ -13,17 +13,17 @@ published: true
 romanLyrics: |-
   Dua karna Ali Akbar
 
-  Safar mein maaṅ guzar jaaye
+  Safar meiṅ maaṅ guzar jaaye
   Kabhi bazaar na aaye
   Muhammad ki nawaasi par
   Koi pathar na barsaye
   Dua karna Ali Akbar
 
   1
-  Teri phuphiyoṅ ke badle mein
+  Teri phuphiyoṅ ke badle meiṅ
   Mujhe sab maar le pathar
   Ruqayya Zainab o Kulsum
-  Ki ban jaauṅ main chaadar
+  Ki ban jaauṅ maiṅ chaadar
   Ali ki betiyoṅ ko maaṅ
   Bacha kar shaam se laaye
   Dua karna Ali Akbar
@@ -57,9 +57,9 @@ romanLyrics: |-
 
   5
   Tere sine se jo nikla
-  Mere dil mein hai wo neza
+  Mere dil meiṅ hai wo neza
   Meri saanseṅ to chalti haiṅ
-  Magar main ab nahiṅ zinda
+  Magar maiṅ ab nahiṅ zinda
   Zaeefa maaṅ ko bete ki
   Khuda mayyat na dikhlaye
   Dua karna Ali Akbar
@@ -68,7 +68,7 @@ romanLyrics: |-
   Agar mastur mar jaaye
   Andhera hone dete haiṅ
   Tere ghar ki riwayat hai
-  Janaaze shab mein uthte haiṅ
+  Janaaze shab meiṅ uthte haiṅ
   Haram jab berida guzre
   Andhera saamne chaaye
   Dua karna Ali Akbar

@@ -17,7 +17,7 @@ romanLyrics: |-
   1
   Ab hai fughaaṅ ka shor na aawaaz-e-al-atash
   Milne ki aarzu hai padar se na kashmakash
-  Khaamoshiyoṅ ki god mein nur-e-nazar gayi
+  Khaamoshiyoṅ ki god meiṅ nur-e-nazar gayi
 
   2
   Rukhsaar nile nile wo kurta phata hua
@@ -31,18 +31,18 @@ romanLyrics: |-
 
   4
   Bhaai tha qaid maaṅ bhi rasan basta o asir
-  Ammu ki yaad dil mein chubhoti thi gham ke tir
-  Soz-e-gham-e-firaaq mein jaan se guzar gayi
+  Ammu ki yaad dil meiṅ chubhoti thi gham ke tir
+  Soz-e-gham-e-firaaq meiṅ jaaṅ se guzar gayi
 
   5
   Mar ke bhi qaid se na rehaai hui nasib
-  Alqissa dafn ho gayi zindaaṅ mein wo gharib
+  Alqissa dafn ho gayi zindaaṅ meiṅ wo gharib
   Nauha jo roz karti thi wo nauhagar gayi
 
   6
   Rehaan sar ko pitiye aansu bahaaiye
-  Farsh-e-aza Sakina ke gham mein bichhaaiye
-  Poti Ali ki Shaam ke zindaaṅ mein mar gayi
+  Farsh-e-aza Sakina ke gham meiṅ bichhaaiye
+  Poti Ali ki Shaam ke zindaaṅ meiṅ mar gayi
 # source_id: nohayonline:6c1ce910904ee71e0099
 # source_url: https://www.nohayonline.com/details_content.php?id=1910
 # raw_sha256: 3df86d26341e266c91ca48ac6b5f99b4f2a2c387939b73a05b329d510e4176b7

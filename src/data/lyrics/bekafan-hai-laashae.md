@@ -16,10 +16,10 @@ romanLyrics: |-
 
   1
   The Imam-e-waqt sab kuchh jaante the Shaah-e-diṅ
-  Eriyaaṅ ragre ga ik din ran mein Akbar khaak par
+  Eriyaaṅ ragre ga ik din ran meiṅ Akbar khaak par
 
   2
-  Sehra-e-Qasim mein din ko maaṅ ne gundha tha abhi
+  Sehra-e-Qasim meiṅ din ko maaṅ ne gundha tha abhi
   Dekho murjhaaye pare haiṅ wo gul-e-tar khaak par
 
   3
@@ -31,7 +31,7 @@ romanLyrics: |-
   Aa rahe haiṅ dekhiye ghore se Sarwar khaak par
 
   5
-  Fatima Zehra sameteṅ gi unheṅ rumaal mein
+  Fatima Zehra sameteṅ gi unheṅ rumaal meiṅ
   Gir rahe haiṅ aaṅkh se Najmi jo gauhar khaak par
 # source_id: nohayonline:061529947a75b9fb7988
 # source_url: https://www.nohayonline.com/details_content.php?id=216

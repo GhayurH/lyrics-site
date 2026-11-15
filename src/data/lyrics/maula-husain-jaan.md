@@ -23,10 +23,10 @@ romanLyrics: |-
   Pyaara, pyaara hai yeh naam, Maula Husain jaan
 
   2
-  Baadshaahoṅ mein bara hai kaun aisa baadshaah
+  Baadshaahoṅ meiṅ bara hai kaun aisa baadshaah
   Jis ke naukar hoṅ farishte auliya jis ke gada
   Arsh wale farsh wale hoṅ sabhi jis par fida
-  Har dil mein jis ka qiyaam Maula Husain jaan
+  Har dil meiṅ jis ka qiyaam Maula Husain jaan
   Hum sab haiṅ jis ke ghulaam Maula Husain jaan
 
   3
@@ -37,14 +37,14 @@ romanLyrics: |-
   Roshan hai kis ka yeh naam Maula Husain jaan
 
   4
-  Ya Husain itna duaaoṅ mein asar tu de de
+  Ya Husain itna duaaoṅ meiṅ asar tu de de
   Apne naukar ko ghulaami ka samar tu de de
-  Main samandar bhi kisi ghair ke haathoṅ se na luṅ
+  Maiṅ samandar bhi kisi ghair ke haathoṅ se na luṅ
   Aur qatra bhi samandar hai agar tu de de
 
   5
   Sab ka hai saaiṅ sarkaar, Ya Husain
-  Ishq-e-Khuda mein sarshaar, Ya Husain
+  Ishq-e-Khuda meiṅ sarshaar, Ya Husain
   Kehta hai saara sansaar, Ya Husain
   Ishq ki had tu ne paar kar di
   Din ki zamin gulzaar kar di
@@ -55,7 +55,7 @@ romanLyrics: |-
 
   6
   Aasmaan par chaand nikla tisri Shaabaan ka
-  Ghar mein Zahra ke khila hai phul yeh imaan ka
+  Ghar meiṅ Zahra ke khila hai phul yeh imaan ka
   Aa gaya dekho nawaasa din ke sultaan ka
   Tisra aaya imaam, Maula Husain jaan
   Rab ka hai hum ko inaam, Maula Husain jaan
@@ -63,8 +63,8 @@ romanLyrics: |-
 
   7
   Saltanat hai ishq ki, sultaan Shaah-e-Karbala
-  Dharkanoṅ mein gunjta hai naam jis ka ba Khuda
-  Ja baja saare jahaaṅ mein kaam jis ka chha gaya
+  Dharkanoṅ meiṅ gunjta hai naam jis ka ba Khuda
+  Ja baja saare jahaaṅ meiṅ kaam jis ka chha gaya
   Sab ka hai takiya kalaam, Maula Husain jaan
   Zinda rahe ga yeh naam, Maula Husain jaan
   Pyaara pyaara hai yeh naam, Maula Husain jaan
@@ -78,9 +78,9 @@ romanLyrics: |-
   Pyaara pyaara hai yeh naam, Maula Husain jaan
 
   9
-  Tere ishq mein jo bhi dub gaya
+  Tere ishq meiṅ jo bhi dub gaya
   Bas us ka bera paar hua
-  Jis dil mein basa hai pyaar tera
+  Jis dil meiṅ basa hai pyaar tera
   Woh jannat ka haqdaar hua
   Yeh maal o zar, sona chaandi
   In sab ki haqiqat kuchh bhi nahiṅ

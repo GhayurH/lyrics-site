@@ -10,7 +10,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Qasim ka laasha ran mein ajab haal mein mila
+  Qasim ka laasha ran meiṅ ajab haal meiṅ mila
 
   1
   Aayi sada jo Shaah ko us tashna kaam ki
@@ -22,22 +22,22 @@ romanLyrics: |-
 
   3
   Sar ko jhuka ke kehte the Qasim ki laash par
-  Sharminda huṅ main teri madad ko na aa saka
+  Sharminda huṅ maiṅ teri madad ko na aa saka
 
   4
   Qasim ke tukre chunte the ro ro ke Shaah-e-Diṅ
   Sheh ko dilaasa dete the Abbas bawafa
 
   5
-  Qasim ki laash laaye haiṅ jab khaimagaah mein
-  Ahl-e-haram mein rone ka ek ghul hua bapa
+  Qasim ki laash laaye haiṅ jab khaimagaah meiṅ
+  Ahl-e-haram meiṅ rone ka ek ghul hua bapa
 
   6
-  Farwa se ro ke kehte khaime mein ye Husain
+  Farwa se ro ke kehte khaime meiṅ ye Husain
   Bhabhi tumhaara laadla maidaan se aa gaya
 
   7
-  Zainab nishaani bhai ki mitti mein mil gayi
+  Zainab nishaani bhai ki mitti meiṅ mil gayi
   Bhai Hasan ka laal bhi paamaal ho gaya
 
   8

@@ -12,31 +12,31 @@ aliases: []
 published: true
 romanLyrics: |-
   Chehra na tera saamne gar paauṅ gi Baba
-  Taariki-e-zindaan mein ghabraauṅ gi Baba
-  Darti huṅ andhere mein nazar kuchh nahiṅ aata
+  Taariki-e-zindaan meiṅ ghabraauṅ gi Baba
+  Darti huṅ andhere meiṅ nazar kuchh nahiṅ aata
   Diwaaroṅ se takraati huṅ mar jaauṅ gi Baba
 
-  Dekha na Sakina ne zindaaṅ mein sawera hai
-  Main kya bataauṅ Baba yahaaṅ kitna andhera hai
+  Dekha na Sakina ne zindaaṅ meiṅ sawera hai
+  Maiṅ kya bataauṅ Baba yahaaṅ kitna andhera hai
 
   1
   Har roz maarte haiṅ mujh ko tamaaṅche zaalim
   Teri laadli ka Baba zakhmi hua chehra hai
 
   2
-  Paabandi hai rone pe main bain karuṅ kaise
+  Paabandi hai rone pe maiṅ bain karuṅ kaise
   Akbar ke qaatiloṅ ne zindaan ko ghera hai
 
   3
   Hota nahiṅ guzar bhi zindaaṅ se hawa ka
-  Gardan mein tang rasan hai dam ghut raha mera hai
+  Gardan meiṅ tang rasan hai dam ghut raha mera hai
 
   4
-  Sajjad ke sine pe main kis tarah so jaauṅ
+  Sajjad ke sine pe maiṅ kis tarah so jaauṅ
   Bhai ka paak sina zanjiroṅ ne ghera hai
 
   5
-  Asghar ka khuṅ bhara wo kurta nahiṅ main bhuli
+  Asghar ka khuṅ bhara wo kurta nahiṅ maiṅ bhuli
   Aur yaad mujh ko Baba Qasim ka wo sehra hai
 
   6
@@ -45,7 +45,7 @@ romanLyrics: |-
 
   7
   Pyaasa zabh kiya hai in zaalimoṅ ne tujh ko
-  Main bhi rahuṅ gi pyaasi ab waada ye mera hai
+  Maiṅ bhi rahuṅ gi pyaasi ab waada ye mera hai
 
   8
   Salman puchhti thi Baba se ye Sakina

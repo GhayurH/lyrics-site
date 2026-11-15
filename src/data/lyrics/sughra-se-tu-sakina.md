@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Sughra se tu Sakina bari khush nasib hai
-  Reh kar musaafirat mein bhi sab ke qarib hai
+  Reh kar musaafirat meiṅ bhi sab ke qarib hai
 
   1
   Phuphiyoṅ ka tujhko saath mubaarak ho ae behan
@@ -21,23 +21,23 @@ romanLyrics: |-
 
   2
   Is ranj o gham se mere maraz aur barh gaye
-  Ek din mein saare chaahne waale bichhar gaye
+  Ek din meiṅ saare chaahne waale bichhar gaye
   Mera nasib jaane ye kaisa nasib hai
 
   3
   Khushiyaaṅ tamaam haaye watan se chali gayi
   Muṅh pher kar bahaar chaman se chali gayi
-  Viraaniyoṅ mein nauha-kunaaṅ andalib hai
+  Viraaniyoṅ meiṅ nauha-kunaaṅ andalib hai
 
   4
-  Tanha watan mein teri behan ji na paayegi
+  Tanha watan meiṅ teri behan ji na paayegi
   Ab to khabar tujhe mere marne ki jaayegi
-  Baba ke hijr mein meri haalat ajib hai
+  Baba ke hijr meiṅ meri haalat ajib hai
 
   5
   Bhaiyya ko mere dard ka ehsaas bhi nahiṅ
   Maiṅ huṅ qarib-e-marg koi paas bhi nahiṅ
-  Teri behan watan mein bhi reh kar gharib hai
+  Teri behan watan meiṅ bhi reh kar gharib hai
 
   6
   Aata nahiṅ hai koi mariza ko thaamne
@@ -50,7 +50,7 @@ romanLyrics: |-
   Dil dubta hai maut ki manzil qarib hai
 
   8
-  Baba kahaaṅ mariza mein taaqat hai sabr ki
+  Baba kahaaṅ mariza meiṅ taaqat hai sabr ki
   Is laash ko supurd karo aake qabr ki
   Hamshakl-e-Mustafa ki judaai salib hai
 
@@ -65,7 +65,7 @@ romanLyrics: |-
   Sunti ho Karbala se Najaf bhi qarib hai
 
   11
-  Akhtar ghamoṅ mein dube haiṅ Sughra ke waaqiaat
+  Akhtar ghamoṅ meiṅ dube haiṅ Sughra ke waaqiaat
   Aamir bayaan karta hai roti hai kaainaat
   Sughra ki daastaan ajib o gharib hai
 # source_id: nohayonline:a69373fbc501d3372765

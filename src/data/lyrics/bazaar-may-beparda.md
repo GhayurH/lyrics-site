@@ -14,16 +14,16 @@ romanLyrics: |-
   Sayyida Taahira
   Wa hijaba wa ghurbata
 
-  Bazaar mein beparda Nabi zaadi khari hai
+  Bazaar meiṅ beparda Nabi zaadi khari hai
   Har mor pe marne ki dua maang rahi hai
 
   1
-  Hai haathoṅ mein patthar abhi aayi nahiṅ Zainab
-  Bazaar mein pehle se hi ek bhir lagi hai
+  Hai haathoṅ meiṅ patthar abhi aayi nahiṅ Zainab
+  Bazaar meiṅ pehle se hi ek bhir lagi hai
 
   2
   Is gham ki aziyat koi Sajjad se puchhe
-  Bachpan mein Sakina ki kamar kaise jhuki hai
+  Bachpan meiṅ Sakina ki kamar kaise jhuki hai
 
   3
   Bazaar se lagta hai guzarte hai janaaze
@@ -31,10 +31,10 @@ romanLyrics: |-
 
   4
   Hai aakhri manzil ise darbaar na samjho
-  Maqtal ki taraf shaah ki hamsheer chali hai
+  Maqtal ki taraf shaah ki hamshir chali hai
 
   5
-  Tasbih ke daanoṅ ki tarah ek rasan mein
+  Tasbih ke daanoṅ ki tarah ek rasan meiṅ
   Har umr ki Zahra hai jo paaband khari hai
 
   6

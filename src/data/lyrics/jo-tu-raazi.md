@@ -18,8 +18,8 @@ romanLyrics: |-
   Dua ko haath haiṅ uthe laboṅ pe hamd-e-Kibriya
   Husain keh rahe the bas Khuda tera shukriya
 
-  Jo tu raazi to main raazi
-  Jo tu raazi to main raazi
+  Jo tu raazi to maiṅ raazi
+  Jo tu raazi to maiṅ raazi
   Subhaana rabbiyal aalaa
   Subhaana rabbiyal aalaa
 
@@ -32,7 +32,7 @@ romanLyrics: |-
   2
   Yaad hai sab mujhe aejaaz jo bakhsha mujh ko
   Tu ne malbus mera khuld se bheja mujh ko
-  Main ne bachpan meiṅ bahut pehne haiṅ jannat ke libaas
+  Maiṅ ne bachpan meiṅ bahut pehne haiṅ jannat ke libaas
   Kya hua ab jo kafan bhi na milega mujh ko
 
   3
@@ -58,22 +58,22 @@ romanLyrics: |-
   6
   Qatl Akbar to mera ho chuka ae Rabb-e-Ghafur
   Ab agar tujh ko na ho nasl-e-imaamat manzur
-  Qatl Aabid ko karuṅ aap main Baano ke huzur
-  Main Khalil aur woh zabih aaj se hue mashhur
+  Qatl Aabid ko karuṅ aap maiṅ Baano ke huzur
+  Maiṅ Khalil aur woh zabih aaj se hue mashhur
   Haath ruk jaaye gale par to qalam haath karuṅ
   Haath se zabh karuṅ lab se munaajaat karuṅ
 
   7
-  Irjai sun ke wahiṅ tegh ko roka main ne
-  Mur ke dekha nahiṅ phir khaimoṅ ka rasta main ne
+  Irjai sun ke wahiṅ tegh ko roka maiṅ ne
+  Mur ke dekha nahiṅ phir khaimoṅ ka rasta maiṅ ne
   Yeh Sakina hai khari woh hai behen tile par
-  Tujh ko dekha to kisi ko nahiṅ dekha main ne
+  Tujh ko dekha to kisi ko nahiṅ dekha maiṅ ne
 
   8
-  Main ne qurbaan kiye tujh pe kai Ismaail
+  Maiṅ ne qurbaan kiye tujh pe kai Ismaail
   Hai kai Haajira khaimoṅ meiṅ gawaah hai Jibril
   Haath Akbar ke khule the meri aankheiṅ thi khuli
-  Main nahiṅ roya mere sabr pe rote the Khalil
+  Maiṅ nahiṅ roya mere sabr pe rote the Khalil
 
   9
   Yuṅ to dil ko Ali Akbar ka bahut hai sadma

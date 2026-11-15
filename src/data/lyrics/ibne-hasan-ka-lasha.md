@@ -43,7 +43,7 @@ romanLyrics: |-
   Bhaai Hasan ka dilbar aankhoṅ meiṅ phir raha hai
 
   8
-  Shaadi Kaleem aisi dekhi nahiṅ jahaaṅ meiṅ
+  Shaadi Kalim aisi dekhi nahiṅ jahaaṅ meiṅ
   Majma baaraatiyoṅ ka aansu baha raha hai
 # source_id: nohayonline:06e87f0ae15725c80a02
 # source_url: https://www.nohayonline.com/details_content.php?id=3521

@@ -23,7 +23,7 @@ romanLyrics: |-
   Ae Sakina ke liye baazu katane wale
 
   2
-  Hum faqiroṅ ka tumhein maan barhana hoga
+  Hum faqiroṅ ka tumheiṅ maan barhana hoga
   Motariz warna bahot hum pe zamana hoga
   Har baras tum se mulaqat ko hum aate the
   Is baras tum ko hamare liye aana hoga
@@ -31,20 +31,20 @@ romanLyrics: |-
   3
   Tut jaaye na meri aas ae ummid-e-Haram
   Mere zakhmoṅ ka faqat aap ho Ghazi marham
-  Arbain par hamein bulwa le ziyarat ke liye
+  Arbaiṅ par hameiṅ bulwa le ziyarat ke liye
   Aap ko pahlu shikasta kisi Bibi ki qasam
 
   4
   Hum ko dunya ka tarafdaar na hone dena
   Sirf baatoṅ ka azadar na hone dena
   Sadqa Shahzadi Ruqayya ke bandhe haathoṅ ka
-  Hum ko mushkil mein giraftaar na hone dena
+  Hum ko mushkil meiṅ giraftaar na hone dena
 
   5
-  Us ghari nazroṅ mein Ashur ki rudad aayi
-  Aansu aankhoṅ mein bhare hoṅtoṅ pe faryad aayi
+  Us ghari nazroṅ meiṅ Ashur ki rudad aayi
+  Aansu aankhoṅ meiṅ bhare hoṅtoṅ pe faryad aayi
   Saamne pani tha aur pi bhi nahi sakta tha
-  Mujhko rauze mein teri pyaas bahot yaad aayi
+  Mujhko rauze meiṅ teri pyaas bahot yaad aayi
 
   6
   Tum ho Shabbir ki beti ka sahara ghazi
@@ -53,15 +53,15 @@ romanLyrics: |-
   Is ne Baba ko nahiṅ tum ko pukara ghazi
 
   7
-  Us ghari khaima-e-sadat mein kohram hua
-  Khun bhara jis ghari ran se tera parcham aaya
+  Us ghari khaima-e-sadat meiṅ kohram hua
+  Khuṅ bhara jis ghari ran se tera parcham aaya
   Pyasi mar jauṅgi ab pani nahiṅ maṅguṅgi
-  Tod kar kooze ko masum Sakina ne kaha
+  Tor kar kuze ko masum Sakina ne kaha
 
   8
   Tu ne achchha hua bhai ki na ghurbat dekhi
   Taane deta tha koi Shah pe haṅsta tha koi
-  Apne bhai ki madad ke liye ran mein aa kar
+  Apne bhai ki madad ke liye ran meiṅ aa kar
   Laash Zainab ne uthayi hai Ali Akbar ki
 
   9
@@ -70,13 +70,13 @@ romanLyrics: |-
   Tanha hai bhai tera Abal Fazl
 
   10
-  Aakhri lamhoṅ mein Shabbir bahot pyase the
+  Aakhri lamhoṅ meiṅ Shabbir bahot pyase the
   Bari hasrat se su-e-nehr nazar karte the
   Shimr haṅs haṅs ke lagata raha tera zarbeṅ
   Aur har waar pe Shabbir sada dete the
 
   11
-  Mir Sajjad bayan kaise kare woh manzar
+  Mir Sajjad bayaṅ kaise kare woh manzar
   Shaam ki fauj ne jab aag lagayi aa kar
   Chhinne aa gaye jab sar se rida Zainab ki
   Us ghari kehti rahi Saani-e-Zehra ro kar

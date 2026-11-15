@@ -15,7 +15,7 @@ romanLyrics: |-
   Haaṅ Sakina ki hai ye fughaaṅ
 
   1
-  Meri gardan mein baandhi gayi rassiyaaṅ
+  Meri gardan meiṅ baandhi gayi rassiyaaṅ
   Mere kaanoṅ se nochi gayi baaliyaaṅ
   Khun behta raha dard barhta raha
   Taaziyaane lainoṅ ke aur wo jafa
@@ -28,39 +28,39 @@ romanLyrics: |-
   Ek ek zakhm se khun behta raha
 
   3
-  Main jo royi to mujh ko tamaanche lage
+  Maiṅ jo royi to mujh ko tamaanche lage
   Thak ke soyi to Aabid ko durre lage
-  Bich baazaar mein shahr-e-aghyaar mein
+  Bich baazaar meiṅ shahr-e-aghyaar meiṅ
   Haaye saadaat ka jo tamaasha bana
 
   4
-  Bola darbaar mein aa ke yuṅ ek shaqi
-  Tu kanizi mein ja haakim-e-waqt ki
+  Bola darbaar meiṅ aa ke yuṅ ek shaqi
+  Tu kanizi meiṅ ja haakim-e-waqt ki
   Kaisa lamha tha wo kaisa sadma tha wo
-  Ro ke us dam pukaari main haaye chacha
+  Ro ke us dam pukaari maiṅ haaye chacha
 
   5
-  Mere baaba ka sar tasht mein tha rakha
+  Mere baaba ka sar tasht meiṅ tha rakha
   Us se gustaakhiyaaṅ karte the ashqiyaa
   Koi haami na tha kis ko deti sada
   Ek ghayur beti ko ghaiz aa gaya
 
   6
-  Raah mein paani aata mayassar agar
+  Raah meiṅ paani aata mayassar agar
   Daal deti thi Aabid ki zanjir par
   Har qadam ek jafa rona bhi jurm tha
   Darmiyaaṅ Shaamiyoṅ ke thi Aal-e-Aba
 
   7
-  Puchha haakim ne darbaar mein Shimr se
-  In asiroṅ mein bint-e-Ali kaun hai
+  Puchha haakim ne darbaar meiṅ Shimr se
+  In asiroṅ meiṅ bint-e-Ali kaun hai
   Ro rahi thi phuphi thi wo kaisi ghari
   Naam phuphiyoṅ ka leta tha wo behaaya
 
   8
   Dil pe patthar rakha aur jiti rahi
   Taaziyaane lainoṅ ke sehti rahi
-  Dushmanoṅ ka watan main asiri mihan
+  Dushmanoṅ ka watan maiṅ asiri mihan
   Jis jagah ek lamha tha ek saal sa
 
   9

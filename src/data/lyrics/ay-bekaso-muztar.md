@@ -1,6 +1,6 @@
 ---
 title: "اے بیکس و مضطر کے وفادار علمدار"
-alternateTitle: "Ae Bekas O Muztar"
+alternateTitle: "Ae Bekas o Muztar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -43,7 +43,7 @@ romanLyrics: |-
   Jis fauj ka tum jaisa ho jarraar Alamdar
 
   8
-  Ab raaton ko pehre pe bhala kaun rahega
+  Ab raatoṅ ko pehre pe bhala kaun rahega
   Abid hai faqat wo bhi hai bimaar Alamdar
 
   9

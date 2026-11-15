@@ -15,14 +15,14 @@ romanLyrics: |-
   Aur jaate ho to phir laut ke aana bhaiya
 
   1
-  Main isi soch mein huṅ kiuṅ kiya aisa tum ne
+  Maiṅ isi soch meiṅ huṅ kiuṅ kiya aisa tum ne
   Aaj se pehle to mujh se nahiṅ maaṅga tum ne
   Aaj kiuṅ maaṅg liya kurta puraana bhaiya
 
   2
   Behan ko chhor ke jaane ka iraada to nahiṅ
   Aaj maqtal ko basaane ka iraada to nahiṅ
-  Ye khayaal apne kabhi dil mein na laana bhaiya
+  Ye khayaal apne kabhi dil meiṅ na laana bhaiya
 
   3
   Gham muqaddar ne to har baar dikhaaya ab tak
@@ -31,7 +31,7 @@ romanLyrics: |-
 
   4
   Khaali rahwaar ko dekhegi Sakina kiuṅ kar
-  Wo to bachchi hai main ho jaauṅgi khud bhi muztar
+  Wo to bachchi hai maiṅ ho jaauṅgi khud bhi muztar
   Ran se rahwaar pe tum laut ke aana bhaiya
 
   5
@@ -40,12 +40,12 @@ romanLyrics: |-
   Behan Abbas ki huṅ mujh ko bulaana bhaiya
 
   6
-  Shaam mein jaate hi Baaba ko sadaaeṅ duṅgi
+  Shaam meiṅ jaate hi Baaba ko sadaaeṅ duṅgi
   Apne Naana ki tarah Naad-e-Ali parh luṅgi
   Baaba aa jaaye to tum mujh ko bataana bhaiya
 
   7
-  Berida kucha o baazaar mein jab aauṅgi
+  Berida kucha o baazaar meiṅ jab aauṅgi
   Ghamzada tum ko agar paaya to mar jaauṅgi
   Ashk neze pe bahut tum na bahaana bhaiya
 

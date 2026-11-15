@@ -36,7 +36,7 @@ romanLyrics: |-
 
   6
   Guzri thi kuchh der abhi aa gai waapas wo hirni
-  Dekh ke saare hairaan the saath mein us ke the bachche
+  Dekh ke saare hairaan the saath meiṅ us ke the bachche
 
   7
   Chum ke qadmoṅ ko ye kaha shukriya ae Ibn-e-Zahra
@@ -44,9 +44,9 @@ romanLyrics: |-
 
   8
   Ro ke shikaari kehne laga chhor diya is ko Maula
-  Ishq mein tere Ibn-e-Ali ye aazaad haiṅ main qaidi
+  Ishq meiṅ tere Ibn-e-Ali ye aazaad haiṅ maiṅ qaidi
 
-  Pyaare bachcho jab hamaare Imaam ne ek maasum jaanwar ki madad ki to Imaam-e-Rauf aur Zaamin-e-Aahu Imaam hamaari madad kiuṅ nahiṅ kareṅ ge. Aao mil kar dua kareṅ apne aathweṅ Imaam ke huzur ke wo hamaari tamaam mushkilaat ko aasaan farmaaeṅ. Aur ham ko apne darbaar mein jald az jald talab farmaaeṅ (Ilaahi aamin).
+  Pyaare bachcho jab hamaare Imaam ne ek maasum jaanwar ki madad ki to Imaam-e-Rauf aur Zaamin-e-Aahu Imaam hamaari madad kiuṅ nahiṅ kareṅ ge. Aao mil kar dua kareṅ apne aathweṅ Imaam ke huzur ke wo hamaari tamaam mushkilaat ko aasaan farmaaeṅ. Aur ham ko apne darbaar meiṅ jald az jald talab farmaaeṅ (Ilaahi aamin).
 # source_id: tajpoints:7b09ea1ad638a29a1548
 # source_url: https://tajpoints.com/2020/07/zamin-e-aaho-mola-reza-lyrics-in-urdu.html
 # raw_sha256: 00cc40b0cbf3eb995547c64adf83afaa8d26af314a15b8d07c5e18a554405db3

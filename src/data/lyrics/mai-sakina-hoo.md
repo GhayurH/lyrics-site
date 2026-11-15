@@ -1,6 +1,6 @@
 ---
 title: "میں سکینہ ہوں میرا درد ہے اتنا بڑا"
-alternateTitle: "Main Sakina Huṅ"
+alternateTitle: "Maiṅ Sakina Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,20 +11,20 @@ tags: []
 aliases: ["Mai Sakina Hoo"]
 published: true
 romanLyrics: |-
-  Main Sakina huṅ mera dard hai itna baba
-  Mujhko zaalim ne kanizi mein hai maanga baba
+  Maiṅ Sakina huṅ mera dard hai itna baba
+  Mujhko zaalim ne kanizi meiṅ hai maanga baba
 
   1
-  Maine daadi ki tarah itne masaaib dekhe
-  Chaar barsoṅ mein hi lagti huṅ zaifa baba
+  Maiṅ ne daadi ki tarah itne masaaib dekhe
+  Chaar barsoṅ meiṅ hi lagti huṅ zaifa baba
 
   2
-  Jo teri laash pe dauraate the ghore ran mein
+  Jo teri laash pe dauraate the ghore ran meiṅ
   Wo tamaachoṅ se mujhe dete haiṅ pursa baba
 
   3
-  Kaash mar jaauṅ main Asghar ko hi rote rote
-  Main kahaaṅ karti huṅ paani ka taqaaza baba
+  Kaash mar jaauṅ maiṅ Asghar ko hi rote rote
+  Maiṅ kahaaṅ karti huṅ paani ka taqaaza baba
 
   4
   Puri shiddat se mujhe maara tamaacha jis ne
@@ -35,16 +35,16 @@ romanLyrics: |-
   Kaise pehchaanoge tum beti ka chehra baba
 
   6
-  Is qadar Shaam ke zindaan mein taariki hai
+  Is qadar Shaam ke zindaan meiṅ taariki hai
   Haath apna bhi nahiṅ mujhko hai dikhta baba
 
   7
-  Bhaiya Sajjad se nazreṅ na milaai maine
-  Maine baazaar mein jab khaaya tamaacha baba
+  Bhaiya Sajjad se nazreṅ na milaai maiṅ ne
+  Maiṅ ne baazaar meiṅ jab khaaya tamaacha baba
 
   8
   Shaam waaloṅ se na paani na kafan maanguṅgi
-  Main na ehsaan yahaaṅ luṅgi kisi ka baba
+  Maiṅ na ehsaan yahaaṅ luṅgi kisi ka baba
 
   9
   Rakh ke muṅh baap ke sar par wo pukaari Darwesh

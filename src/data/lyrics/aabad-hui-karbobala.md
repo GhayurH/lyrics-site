@@ -10,47 +10,47 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Aabad hui Karbobala ujra Madina barbaad hui main
-  Zainab ko na raas aaya Muharram ka mahina barbaad hui main
+  Aabad hui Karbobala ujra Madina barbaad hui maiṅ
+  Zainab ko na raas aaya Muharram ka mahina barbaad hui maiṅ
 
   1
-  Ek din tha ke is shahr ki main karti thi shahi
+  Ek din tha ke is shahr ki maiṅ karti thi shahi
   Aur aaj tabahi
-  Beghusl para mohr-e-nabuwwat ka nagina barbaad hui main
+  Beghusl para mohr-e-nabuwwat ka nagina barbaad hui maiṅ
 
   2
-  Kis laash pe rouṅ kise chhoruṅ main biradar
+  Kis laash pe rouṅ kise chhoruṅ maiṅ biradar
   Laashe haiṅ bahattar
-  Hadd ye hai ke rone ki ijazat bhi mili na barbaad hui main
+  Hadd ye hai ke rone ki ijazat bhi mili na barbaad hui maiṅ
 
   3
   Asghar ka gala bhai ka sar sina-e-Akbar
   Sab gauhar o chadar
-  Is dasht mein luta gaya Zainab ka khazina barbaad hui main
+  Is dasht meiṅ luta gaya Zainab ka khazina barbaad hui maiṅ
 
   4
   Maaeṅ bhi na pahchan sakiṅ bachchoṅ ke chehre
   Bikhre huwe sehre
-  Hai khun ke darya mein gharibon ka safina barbaad hui main
+  Hai khun ke darya meiṅ ghariboṅ ka safina barbaad hui maiṅ
 
   5
-  Ek aag hai khaimoṅ mein qayamat ka samaaṅ hai
+  Ek aag hai khaimoṅ meiṅ qayamat ka samaaṅ hai
   Ghazi tu kahaaṅ hai
-  Dekho to rida chhin gaya Shimr kamina barbaad hui main
+  Dekho to rida chhin gaya Shimr kamina barbaad hui maiṅ
 
   6
   Chadar chhini durre lage ab zulm na dhao
   Baba se milao
-  Neze ke tale baith ke roti hai Sakina barbaad hui main
+  Neze ke tale baith ke roti hai Sakina barbaad hui maiṅ
 
   Paaband-e-rasan Bibiyaaṅ bazaar khule sar
   Har mor pe patthar
-  Maasum yatimoṅ ka baha surkh pasina barbaad hui main
+  Maasum yatimoṅ ka baha surkh pasina barbaad hui maiṅ
 
   7
   Shaukat sar-e-maqtal ye kaha bint-e-Ali ne
   Zehra ki pali ne
-  Bhaiya tere bin khaak teri behna ka jina barbaad hui main
+  Bhaiya tere bin khaak teri behna ka jina barbaad hui maiṅ
 # source_note: personal notebook ODT import on 2026-11-08; no unique source record ID
 # editorial_note: Notebook transcription; newly supplied Urdu where the notebook contains Roman only
 # source_id: nohayonline:78bf73957132f492d3aa

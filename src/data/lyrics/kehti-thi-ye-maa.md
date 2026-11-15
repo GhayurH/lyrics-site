@@ -26,16 +26,16 @@ romanLyrics: |-
 
   3
   Athaara baras paal ke parwaan charhaaya
-  Wo gesuoṅ wala hai mera khun mein nahaaya
+  Wo gesuoṅ wala hai mera khun meiṅ nahaaya
   Ye kya hua dilbar haaye haaye Ali Akbar
 
   4
-  Maaṅ teri judaai mein bhala kaise jiye gi
+  Maaṅ teri judaai meiṅ bhala kaise jiye gi
   Mar jaaye gi Sughra jo khabar teri sune gi
   Ab kya karuṅ ji kar haaye haaye Ali Akbar
 
   5
-  Thahro ke main athaarviṅ mannat to barha duṅ
+  Thahro ke maiṅ athaarviṅ mannat to barha duṅ
   Phir le ke balaaeṅ tujhe jine ki dua duṅ
   Sadqe ho ye maadar haaye haaye Ali Akbar
 
@@ -50,7 +50,7 @@ romanLyrics: |-
   Kiuṅ ruthe ho dilbar haaye haaye Ali Akbar
 
   8
-  Aaye jo hameṅ lutne khaime mein sitamgar
+  Aaye jo hameṅ lutne khaime meiṅ sitamgar
   Maaṅ de gi sadaaeṅ Ali Akbar Ali Akbar
   Chhin jaaye gi chaadar haaye haaye Ali Akbar
 

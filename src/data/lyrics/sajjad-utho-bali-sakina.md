@@ -14,7 +14,7 @@ romanLyrics: |-
   Ye shaam-e-gharibaṅ hai ghariboṅ ko bacha lo
 
   1
-  Jal jaaye na khaimoṅ mein kahiṅ Aal-e-Payambar
+  Jal jaaye na khaimoṅ meiṅ kahiṅ Aal-e-Payambar
   In aag ke sholoṅ se hameṅ aa ke nikaalo
 
   2
@@ -23,15 +23,15 @@ romanLyrics: |-
 
   3
   Hasrat se wo Zainab ki taraf dekh raha hai
-  Aaghosh mein Baaqir ko ae Sajjad chhupa lo
+  Aaghosh meiṅ Baaqir ko ae Sajjad chhupa lo
 
   4
   Kuza liye paani ka ye kehti hai Sakina
   Asghar ho kahaṅ aa ke zara pyaas bujha lo
 
   5
-  Lut jaauṅgi pardes mein ye mujh ko khabar thi
-  Main ho gayi barbaad mujhe aa ke bacha lo
+  Lut jaauṅgi pardes meiṅ ye mujh ko khabar thi
+  Maiṅ ho gayi barbaad mujhe aa ke bacha lo
 
   6
   Kuchh khaak ura kar ae biyaabaṅ ki hawaaoṅ

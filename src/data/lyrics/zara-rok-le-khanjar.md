@@ -33,7 +33,7 @@ romanLyrics: |-
   Sar se meri behna ke utar jaaye na chaadar
 
   4
-  Didaar kare wo mera main bhi use dekhuṅ
+  Didaar kare wo mera maiṅ bhi use dekhuṅ
   Zakhmi huṅ magar aakhri taazim to kar luṅ
   Ae Shimr behan hai ye meri maaṅ ke baraabar
   Zara rok le khanjar.

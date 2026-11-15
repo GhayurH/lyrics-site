@@ -12,10 +12,10 @@ aliases: []
 published: true
 romanLyrics: |-
   Jab qaafila pahuncha tha Madine ke zara paas
-  Maqtal mein hua kya ye suna us ne basad yaas
+  Maqtal meiṅ hua kya ye suna us ne basad yaas
 
   1
-  Katta tha jigar dil mein nadaamat ka tha ehsaas
+  Katta tha jigar dil meiṅ nadaamat ka tha ehsaas
   Har ek se yehi puchhti thi maadar-e-Abbas
   Jab gardan-e-Shabbir pe khanjar wo rawaaṅ tha
   Bas itna bata do mera Abbas kahaaṅ tha
@@ -26,19 +26,19 @@ romanLyrics: |-
   Jab khaak pe dam torta Laila ka jawaaṅ tha
 
   3
-  Maidaan mein beshir ko jab laaye the Shabbir
+  Maidaan meiṅ beshir ko jab laaye the Shabbir
   Nanhe Ali Asghar ki jo gardan pe laga tir
   Jab baap ke haathoṅ pe pisar tishna-dahaaṅ tha
 
   4
-  Aaqa mera maidaan mein kiuṅ reh gaya tanha
-  Haaṅ dudh na bakhshungi main ye kya kiya beta
+  Aaqa mera maidaan meiṅ kiuṅ reh gaya tanha
+  Haaṅ dudh na bakhshungi maiṅ ye kya kiya beta
   Zehra ka pisar khaak pe jab girya-kunaaṅ tha
 
   5
   Jab Bibiyaaṅ jalte hue khaimoṅ ke thi andar
   Jab Zainab-e-dilgir ki chhini gayi chaadar
-  Jab gardan-e-bimaar mein wo tauq-e-garaaṅ tha
+  Jab gardan-e-bimaar meiṅ wo tauq-e-garaaṅ tha
 
   6
   Aabid ko liye phirti thi jab Zainab-e-muztar
@@ -46,7 +46,7 @@ romanLyrics: |-
   Phaila hua jab shaam-e-gharibaaṅ ka dhuaaṅ tha
 
   7
-  Jab shaam-e-gharibaaṅ mein bhi pyaase rahe bachche
+  Jab shaam-e-gharibaaṅ meiṅ bhi pyaase rahe bachche
   Jab dukhtar-e-Shabbir ke lagte the tamaanche
   Jab us ka jigar karb-e-yatimi se tapaaṅ tha
 

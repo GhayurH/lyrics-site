@@ -37,7 +37,7 @@ romanLyrics: |-
 
   6
   Alqama Abbas ke chullu ka andaaza na kar
-  Tujh mein paani hi nahiṅ chullu to gehra aur hai
+  Tujh meiṅ paani hi nahiṅ chullu to gehra aur hai
 
   7
   Is liye aa kar woh Isa ko parhaaeṅ ge namaaz
@@ -45,7 +45,7 @@ romanLyrics: |-
 
   8
   Sher keh dete haiṅ hum bhi ae Bilal-e-Kazmi
-  Madh-e-Maula mein magar Maisam ka lehja aur hai
+  Madh-e-Maula meiṅ magar Maisam ka lehja aur hai
 # source_id: tajpoints:9343c1692c9af5466edd
 # source_url: https://tajpoints.com/2021/12/bandagi-ki-laaj-jo-rakh-le-mir-hasan.html
 # raw_sha256: dc71b66ead22c7003c7e56fa215ddd331a1a4b9936b67533cfc87be9af1b0877

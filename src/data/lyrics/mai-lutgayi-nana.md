@@ -1,6 +1,6 @@
 ---
 title: "میں لٹ گئی نانا میں لٹ گئی نانا"
-alternateTitle: "Main Lut Gayi Nana"
+alternateTitle: "Maiṅ Lut Gayi Nana"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,8 +11,8 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Main lut gayi nana main lut gayi nana
-  Karbobala ke ban mein ghar lut gaya mera
+  Maiṅ lut gayi nana maiṅ lut gayi nana
+  Karbobala ke ban meiṅ ghar lut gaya mera
 
   1
   Aisi tabaahi laaya Aashur ka sawera
@@ -21,13 +21,13 @@ romanLyrics: |-
 
   2
   Karyal jawaan Akbar mera gesuoṅ waala
-  Wo sher jis ko main ne athaarah saal paala
+  Wo sher jis ko maiṅ ne athaarah saal paala
   Tiroṅ se hua chhalni us sher ka sina
 
   3
   Zaalim ne tir maara maasum ke gale par
-  Pyaasa lahu mein duba beshir Ali Asghar
-  Maqtal mein ro raha tha bhai mera tanha
+  Pyaasa lahu meiṅ duba beshir Ali Asghar
+  Maqtal meiṅ ro raha tha bhai mera tanha
 
   4
   Wo jis ka naam pyaase bachchoṅ ki aas tha
@@ -35,7 +35,7 @@ romanLyrics: |-
   Wo bhai lab-e-darya maara gaya pyaasa
 
   5
-  Bachchoṅ ko jis pe main ne sadqe kiya tha nana
+  Bachchoṅ ko jis pe maiṅ ne sadqe kiya tha nana
   Jo mera bhai mujh ko tha jaan se pyaara
   Paamaal hote dekha us bhai ka laasha
 
@@ -47,10 +47,10 @@ romanLyrics: |-
   7
   Jis bachchi ka bistar tha mere bhai ka sina
   Kehta tha mera bhai jise pyaar se Sakina
-  Zindaaṅ mein kho aayi Zainab wo nagina
+  Zindaaṅ meiṅ kho aayi Zainab wo nagina
 
   8
-  Balwe mein laiṅ laaye jis waqt rasan basta
+  Balwe meiṅ laiṅ laaye jis waqt rasan basta
   Tha haal ajab Gohar Abbas ki khwaahar ka
   Majma tha hazaaroṅ ka Zainab thi berida
 # source_id: nohayonline:429630a3e3cedd78bfd4

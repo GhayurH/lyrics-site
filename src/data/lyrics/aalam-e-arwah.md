@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Aalam-e-arwah mein
+  Aalam-e-arwah meiṅ
   Apne rab se Muhammad ne kaha
   Mera waada hai
   Mere Allah tujhse waada hai
@@ -37,14 +37,14 @@ romanLyrics: |-
   Wo sabr ko aazmayega
 
   5
-  Mauj-e-darya mein bhi hoga ek talatum
+  Mauj-e-darya meiṅ bhi hoga ek talatum
   Tashnagi se sabr ka hoga tasadum
   Wo sabr hi fath payega
 
   6
   Karbala ki sarzamiṅ ko khun de kar
   Soyega jalti zamiṅ par ye gul-e-tar
-  Lahu mein apne nahayega
+  Lahu meiṅ apne nahayega
 
   7
   Ye zamana aisa saabir to dikhaye
@@ -58,7 +58,7 @@ romanLyrics: |-
 
   9
   Karbala ki dhup hogi aur laashe
-  Aur khaimoṅ mein haram hoṅge tarapte
+  Aur khaimoṅ meiṅ haram hoṅge tarapte
   Tasalli unko dilayega
 
   10
@@ -68,7 +68,7 @@ romanLyrics: |-
 
   11
   Apni shehzadi se Mazhar ka hai waada
-  Jab talak ek saans baaqi tan mein hoga
+  Jab talak ek saans baaqi tan meiṅ hoga
   Qalam ye rukne na payega
 # source_id: nohayonline:2baa7da69010fcf469af
 # source_url: https://www.nohayonline.com/details_content.php?id=1566

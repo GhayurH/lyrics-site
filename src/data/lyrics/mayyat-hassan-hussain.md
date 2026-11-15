@@ -27,12 +27,12 @@ romanLyrics: |-
   Aasaar kaainaat ke phir dagmagaate haiṅ
 
   4
-  Afsos qatl kar diya Haidar ko sajde mein
+  Afsos qatl kar diya Haidar ko sajde meiṅ
   Zaalim Khuda ke ghar ko bhi maqtal banaate haiṅ
 
   5
   Dekho ajib haal hai Ummul Banin ka
-  Qaabu mein dil nahiṅ hai qadam dagmagaate haiṅ
+  Qaabu meiṅ dil nahiṅ hai qadam dagmagaate haiṅ
 
   6
   Abbas bole maaṅ se ke Baaba se puchhiye
@@ -48,7 +48,7 @@ romanLyrics: |-
 
   9
   Jaate hue janaaze ko dekha to ro pari
-  Murghaabiyoṅ mein bain hai Razzaaq jaate haiṅ
+  Murghaabiyoṅ meiṅ bain hai Razzaaq jaate haiṅ
 
   10
   Daamaad-e-Mustafa ka hai kya mominoṅ qusur

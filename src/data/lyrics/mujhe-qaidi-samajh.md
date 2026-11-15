@@ -12,9 +12,9 @@ published: true
 reciter: "Safdar Abbas"
 romanLyrics: |-
   Mujhe qaidi samajh nahiṅ Shiriṅ
-  Kar ghaur zara main Zainab huṅ
-  Tere shehr mein dekh ye haal hua
-  Nahiṅ sar pe rida main Zainab huṅ
+  Kar ghaur zara maiṅ Zainab huṅ
+  Tere shehr meiṅ dekh ye haal hua
+  Nahiṅ sar pe rida maiṅ Zainab huṅ
 
   1
   Kar yaad wasiyat bhai ki
@@ -22,15 +22,15 @@ romanLyrics: |-
   Pehchaan mujhe in baaloṅ se
   Chehre pe pare haiṅ jo mere
   Dil gham se phata jaata hai mera
-  Kar koi dawa main Zainab huṅ
+  Kar koi dawa maiṅ Zainab huṅ
 
   2
-  Jis shehr ki main shehzaadi thi
+  Jis shehr ki maiṅ shehzaadi thi
   Aayi huṅ wahaaṅ qaidi ban kar
   Quraaṅ ki tilaawat karta hai
   Wo dekh mere bhai ka sar
   Pehchaan mujhe kya aur kahuṅ
-  Ab is ke siwa main Zainab huṅ
+  Ab is ke siwa maiṅ Zainab huṅ
 
   3
   Nazroṅ ko utha kar dekh zara
@@ -38,15 +38,15 @@ romanLyrics: |-
   Bimaar bhatija saath mere
   Aur Ahl-e-Haram bechaadar haiṅ
   Aulaad-e-Ali hone ki yahaaṅ
-  Paayi hai saza main Zainab huṅ
+  Paayi hai saza maiṅ Zainab huṅ
 
   4
   Shiriṅ kya kya batlaauṅ tujhe
-  Jo zulm sahe haiṅ raahoṅ mein
+  Jo zulm sahe haiṅ raahoṅ meiṅ
   Sunti hai yatimoṅ ke naale
-  Kya karb hai in ki aahoṅ mein
+  Kya karb hai in ki aahoṅ meiṅ
   Sehti huṅ jafaaeṅ ummat ki
-  Bejurm khata main Zainab huṅ
+  Bejurm khata maiṅ Zainab huṅ
 
   5
   Hum Aal-e-Muhammad hai Shiriṅ
@@ -54,7 +54,7 @@ romanLyrics: |-
   Tu ghaur se dekh le chehroṅ ko
   Pairoṅ se tere niklegi zamiṅ
   Ye hai Laila ye Bano hai
-  Ye hai Farwa main Zainab huṅ
+  Ye hai Farwa maiṅ Zainab huṅ
 
   6
   Safdar rudaad ye Zainab ki
@@ -62,7 +62,7 @@ romanLyrics: |-
   Kehti thi pit ke sar apna
   Haae maut mujhe kiuṅ na aayi
   Jab mujh se meri aaqa zaadi
-  Zainab ne kaha main Zainab huṅ
+  Zainab ne kaha maiṅ Zainab huṅ
 # source_id: nohayonline:8c512249e247f553d09d
 # source_url: https://www.nohayonline.com/details_content.php?id=1559
 # raw_sha256: 4157664f51da354544f678ee92fb8d771e16524661ba8f1291a653a0dd98ede5

@@ -14,9 +14,9 @@ romanLyrics: |-
   Gir chuka dar Fatima par
   Ab hai zakhmi Muhammad ki beti
   Haae ik din sar jhukaae
-  Apne hujre mein baithi hui thi
+  Apne hujre meiṅ baithi hui thi
   Phir Husain aa ke ammaṅ se kehne lage
-  Aankh mein kiuṅ hai aansu bataao mujhe
+  Aankh meiṅ kiuṅ hai aansu bataao mujhe
   Fatima ne kaha mere nur-e-nazar
   Aaj ammaṅ ki yaad aa rahi hai mujhe
   Sun ke maaṅ ki sada dil tarapne laga
@@ -26,7 +26,7 @@ romanLyrics: |-
   1
   Ungli pakar ke chalaaya
   Sine se apne lagaaya
-  In tin saaloṅ mein ammaṅ
+  In tin saaloṅ meiṅ ammaṅ
   Tum ne bahut kuch sikhaaya
   Maaṅ se bichhar ke jite haiṅ kaise
   Kya ye sikhaati hai maaṅ
@@ -36,11 +36,11 @@ romanLyrics: |-
   Pehlu shakista hua hai
   Tuti hui pasliyaaṅ haiṅ
   Shabbir sab jaanta hai
-  Taklif mein huṅ bachchoṅ ko apne
+  Taklif meiṅ huṅ bachchoṅ ko apne
   Kab ye bataati hai maaṅ
 
   3
-  Is fikr mein jaag jaana
+  Is fikr meiṅ jaag jaana
   Pyaasa na ho mera beta
   Ehsaas hai mujh ko ammaṅ
   Kya pyaar hota hai maaṅ ka
@@ -52,14 +52,14 @@ romanLyrics: |-
   Bhaiya Hasan ne sunaaya
   Beta wahiṅ saamne tha
   Jab maaṅ ne khaaya tamaancha
-  Ab apne ghar mein betoṅ se apna
+  Ab apne ghar meiṅ betoṅ se apna
   Chehra chhupaati hai maaṅ
 
   5
   Jab se laga taaziyaana
   Mushkil tha mujh ko sulaana
   Jab haath dekha tumhaara
-  Tab jaa ke main ne ye jaana
+  Tab jaa ke maiṅ ne ye jaana
   Ho haath zakhmi phir bhi thapak kar
   Lori sunaati hai maaṅ
 
@@ -92,7 +92,7 @@ romanLyrics: |-
   Jab haal puchha Ali ne
   Haae Raza aur Zishaan
   Shabbir ro ro ke bole
-  Ae baaba ghar mein lagta nahiṅ dil
+  Ae baaba ghar meiṅ lagta nahiṅ dil
   Jab yaad aati hai maaṅ
 # source_id: nohayonline:a24f5528782a5c80253b
 # source_url: https://www.nohayonline.com/details_content.php?id=1020

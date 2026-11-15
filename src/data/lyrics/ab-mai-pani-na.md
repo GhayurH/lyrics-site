@@ -13,26 +13,26 @@ romanLyrics: |-
   Ro rahi hai tumhari Sakina
   Laut aao Chacha Alqama se
   Pyaas ashkoṅ se apni bujha luṅgi
-  Ab main pani na maṅguṅgi
+  Ab maiṅ pani na maṅguṅgi
 
   1
   Aur kuchh roz pyase rahe bhi to kya
   Pyaas se barh ke gham aap ka hai Chacha
   Koi dega ab al-atash ki sada
   Laut aao Chacha Alqama se
-  Pyase bachchoṅ ko main khud mana luṅgi
+  Pyase bachchoṅ ko maiṅ khud mana luṅgi
 
   2
   Pani aaye na aaye mujhe gham nahiṅ
   Par ye furqat yatimi se kuchh kam nahiṅ
   Yuṅ samajh lo Chacha tum nahiṅ hum nahiṅ
   Laut aao Chacha Alqama se
-  Main na shikwa kabhi lab pe lauṅgi
-  Pyase bachchoṅ ko main khud mana luṅgi
+  Maiṅ na shikwa kabhi lab pe lauṅgi
+  Pyase bachchoṅ ko maiṅ khud mana luṅgi
 
   3
   Zalimoṅ ne mujhe besahara kiya
-  Main ne kaantoṅ pe chalna gawara kiya
+  Maiṅ ne kaantoṅ pe chalna gawara kiya
   Dil ke zakhmoṅ ne nauha dubara kiya
   Laut aao Chacha Alqama se
   Sab ghamoṅ ko gale se laga luṅgi
@@ -45,18 +45,18 @@ romanLyrics: |-
   Zalimoṅ se tamache bhi kha luṅgi
 
   5
-  Raah mein mil bhi jaega pani agar
-  Daal duṅgi main Abid ki zanjir par
+  Raah meiṅ mil bhi jaega pani agar
+  Daal duṅgi maiṅ Abid ki zanjir par
   Haaṅ ye nauha rahega laboṅ par magar
   Laut aao Chacha Alqama se
-  Pyasa rehna main khud ko sikha luṅgi
+  Pyasa rehna maiṅ khud ko sikha luṅgi
 
   6
-  Chal basi qaidkhane mein jab ghamzada
+  Chal basi qaidkhane meiṅ jab ghamzada
   Ghusl-e-mayyat ko pani muyassar na tha
   Aaye laash-e-Sakina se us dam sada
   Laut aao Chacha Alqama se
-  Main bina ghusl ke hi sidharuṅgi
+  Maiṅ bina ghusl ke hi sidharuṅgi
 
   7
   Ek din Shaam Farhan o Mazhar gaye

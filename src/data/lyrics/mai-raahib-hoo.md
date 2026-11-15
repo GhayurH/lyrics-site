@@ -1,6 +1,6 @@
 ---
 title: "میں راحب ہوں میں راحب ہوں"
-alternateTitle: "Main Raahib Huṅ"
+alternateTitle: "Maiṅ Raahib Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,110 +11,110 @@ tags: []
 aliases: ["Mai Raahib Hoo"]
 published: true
 romanLyrics: |-
-  Main raahib huṅ main raahib huṅ
+  Maiṅ raahib huṅ maiṅ raahib huṅ
 
   1
-  Main huṅ raahib hai Masih mera qabila logoṅ
+  Maiṅ huṅ raahib hai Masih mera qabila logoṅ
   Mere aaqa mere sardaar hai Isa logoṅ
-  Ek haqiqat se uthaata huṅ main parda logoṅ
+  Ek haqiqat se uthaata huṅ maiṅ parda logoṅ
   Mera Husain hai Isa ka masiha logoṅ
-  Imam-e-waqt ka main intezaar karta huṅ
-  Halab ke dair mein lamhe shumaar karta huṅ
+  Imam-e-waqt ka maiṅ intezaar karta huṅ
+  Halab ke dair meiṅ lamhe shumaar karta huṅ
   Yaqin hai ye mera jab aayeṅge Maula
-  Main unke qadmoṅ mein gir kar sada lagaauṅga
-  Tum pe Maula main fida jaan karuṅ
-  Apne betoṅ ko main qurbaan karuṅ
-  Main huṅ Najraan ka raahib
+  Maiṅ unke qadmoṅ meiṅ gir kar sada lagaauṅga
+  Tum pe Maula maiṅ fida jaan karuṅ
+  Apne betoṅ ko maiṅ qurbaan karuṅ
+  Maiṅ huṅ Najraan ka raahib
 
   2
   Suno ke tumko sunaata huṅ waqiya aisa
-  Meri hayaat mein aisa bhi waqt aaya tha
-  Main laawalad tha aur ummid na thi koi mujhe
+  Meri hayaat meiṅ aisa bhi waqt aaya tha
+  Maiṅ laawalad tha aur ummid na thi koi mujhe
   Huzur Paak ne ye baat khud kahi thi mujhe
   Lauh-e-mahfuz ki tahrir bhi sunaai mujhe
   Magar Husain ne us dam pisar diye the mujhe
   Ek nahiṅ saat nagine ata kiye the mujhe
   Hai ye ehsaan bara bhulaauṅ kaise bhala
   Ye baat unse kahuṅga ke farz hai ye mera
-  Tum pe Maula main fida jaan karuṅ
-  Apne betoṅ ko main qurbaan karuṅ
-  Main huṅ Najraan ka raahib
+  Tum pe Maula maiṅ fida jaan karuṅ
+  Apne betoṅ ko maiṅ qurbaan karuṅ
+  Maiṅ huṅ Najraan ka raahib
 
   3
-  Dafatan qaafila ek shahr-e-Halab mein pahuncha
+  Dafatan qaafila ek shahr-e-Halab meiṅ pahuncha
   Ya Husaina ya Husaina se larazti thi fiza
   Nind se mujhko jaga kar meri zauja ne kaha
   Khwaab se jaago ke phatta hai kaleja mera
   Kaun karta hai tarap kar girya
   Kaun kehta hai ye baba baba
-  Khwaab-e-ghaflat se utha aur maine ye kaha
+  Khwaab-e-ghaflat se utha aur maiṅ ne ye kaha
   Aisa lagta hai chale aaye mere ghar Maula
-  Tum pe Maula main fida jaan karuṅ
-  Apne betoṅ ko main qurbaan karuṅ
-  Main huṅ Najraan ka raahib
+  Tum pe Maula maiṅ fida jaan karuṅ
+  Apne betoṅ ko maiṅ qurbaan karuṅ
+  Maiṅ huṅ Najraan ka raahib
 
   4
   Sun ke aawaaz-e-jaras jaanib-e-dehliz gaya
   Meri aankhoṅ ko nazar aaya qayaamat ka samaaṅ
-  Kya kahiṅ maine kin aankhoṅ se wo manzar dekha
+  Kya kahiṅ maiṅ ne kin aankhoṅ se wo manzar dekha
   Berida chand asiroṅ ko khule sar dekha
   Kitne suraj the jinheṅ nok-e-sinaaṅ par dekha
-  Maine ek chhota sa sar dil ko pakar kar dekha
+  Maiṅ ne ek chhota sa sar dil ko pakar kar dekha
   Ek sar par nahiṅ maujud rida
   Ek sar sharm o haya se hai jhuka
-  Ek rahwaar ki gardan mein bandha
+  Ek rahwaar ki gardan meiṅ bandha
   Ek sar bar sar-e-nok-e-naiza
-  Dekh kar qaafila main aah o buka karta huṅ
-  Pit kar sar ko main zaar o qataar rota huṅ
-  Main huṅ Najraan ka raahib
+  Dekh kar qaafila maiṅ aah o buka karta huṅ
+  Pit kar sar ko maiṅ zaar o qataar rota huṅ
+  Maiṅ huṅ Najraan ka raahib
 
   5
-  Maine pehle bhi kahiṅ dekhe haiṅ aise chehre
-  Aise nuraani bashar to mubaahile mein hi the
+  Maiṅ ne pehle bhi kahiṅ dekhe haiṅ aise chehre
+  Aise nuraani bashar to mubaahile meiṅ hi the
   Ya Khuda naize pe jo sar hai ye wo log na ho
   Wo jo aulaad-e-Payambar hai ye wo log na ho
-  Jinki taarif mein Injil mein bhi jumle hai
+  Jinki taarif meiṅ Injil meiṅ bhi jumle hai
   Wo jo chaahe to pahaaroṅ ko hila sakte haiṅ
   Yaqin hai ye mera jab aayeṅge Maula
-  Main unke qadmoṅ mein gir kar sada lagaauṅga
-  Tum pe Maula main fida jaan karuṅ
-  Apne betoṅ ko main qurbaan karuṅ
-  Main huṅ Najraan ka raahib
+  Maiṅ unke qadmoṅ meiṅ gir kar sada lagaauṅga
+  Tum pe Maula maiṅ fida jaan karuṅ
+  Apne betoṅ ko maiṅ qurbaan karuṅ
+  Maiṅ huṅ Najraan ka raahib
 
   6
   Wo jo sar naatiq-e-Quran nazar aata tha
   Do sitamgaaroṅ ka us sar pe laga tha pehra
-  Darte darte jo main nazdik gaya
-  Naiza bardaaroṅ se maine puchha
+  Darte darte jo maiṅ nazdik gaya
+  Naiza bardaaroṅ se maiṅ ne puchha
   Ye jo khun rota hai sar kya hai Zahra ka pisar
   Pehredaaroṅ ne kaha hai ye baaghi bakhuda
   Haakim-e-Shaam ne hai is pe inaam rakha
   Iske haami na bano tum raahib
   Iske haami ka hai marna waajib
-  Main pareshaan hua aur ye kehne laga
-  Ek shak hai mere dil mein zara puchhuṅ is se
-  Ek lamhe ke liye baat main kar luṅ is se
+  Maiṅ pareshaaṅ hua aur ye kehne laga
+  Ek shak hai mere dil meiṅ zara puchhuṅ is se
+  Ek lamhe ke liye baat maiṅ kar luṅ is se
   Mujhe is sar se mila do jitne qimat hai laga do
   Ek shab ke liye sar se apne pehre ko hata do
   Jab ijaazat mili phir dil ko mere aaya qaraar
-  Maine dirham bhi sipaahi ko diye tis hazaar
-  Le ke us sar ko jo main ghar pahuncha
-  Maine us sar se kaha mujhko bata
+  Maiṅ ne dirham bhi sipaahi ko diye tis hazaar
+  Le ke us sar ko jo maiṅ ghar pahuncha
+  Maiṅ ne us sar se kaha mujhko bata
   Bataao kaun ho tum bataao kaun ho tum
-  Main ye bola ke tera jurm hai kya
+  Maiṅ ye bola ke tera jurm hai kya
   Wo ye bola ke Muhammad se wafa
-  Main ye bola ke tera naam hai kya
+  Maiṅ ye bola ke tera naam hai kya
   Wo ye bola mujhe pehchaan zara
-  Tera mehmaan huṅ main tera mehmaan huṅ main
+  Tera mehmaan huṅ maiṅ tera mehmaan huṅ maiṅ
   Nibhaane tifli ka waada
   Le ke sab apna main kunba
   Tere ghar aa gaya raahib
-  Main Payambar ka jigar huṅ raahib
-  Main hi Zehra ka pisar huṅ raahib
+  Maiṅ Payambar ka jigar huṅ raahib
+  Maiṅ hi Zehra ka pisar huṅ raahib
   Jisne bete tujhe bakhshe wo sakhi huṅ raahib
-  Ba Khuda main hi Husain ibn-e-Ali huṅ raahib
-  Karbala mein jo sitam tute bataata huṅ tujhe
-  Apne betoṅ ka bhi maqtal main sunaata huṅ tujhe
+  Ba Khuda maiṅ hi Husain ibn-e-Ali huṅ raahib
+  Karbala meiṅ jo sitam tute bataata huṅ tujhe
+  Apne betoṅ ka bhi maqtal maiṅ sunaata huṅ tujhe
   Mere Aabid ko lahu rulwaaya
   Haaye Baaqir ka bachpana chhina
   Mere Akbar ko hai naiza maara
@@ -122,19 +122,19 @@ romanLyrics: |-
   Sar kiye Aun o Muhammad ke juda
   Ye inteha hai ke Asghar pe rahm na khaaya
   Ya Husaina ya Husaina ya Husaina ya Husain
-  Main huṅ Najraan ka raahib
+  Maiṅ huṅ Najraan ka raahib
 
   7
-  Sun ke raahib ye bayaan thaam ke dil rone laga
+  Sun ke raahib ye bayaaṅ thaam ke dil rone laga
   Aur aadaa ko sar-e-Shaah bhi waapas na kiya
   Ek ek kar ke kiye saatoṅ pisar Shah pe fida
   Arsalan Azmi Mesum hai wo maujud jagah
   Sar jahaaṅ Maula Husain ibn-e-Ali ka tha rakha
   Dar-e-raahib hai jahaaṅ karna mahsus wahaaṅ
-  Gunjti ab bhi fizaaoṅ mein hai raahib ki sada
-  Tum pe Maula main fida jaan karuṅ
-  Apne betoṅ ko main qurbaan karuṅ
-  Main huṅ Najraan ka raahib
+  Gunjti ab bhi fizaaoṅ meiṅ hai raahib ki sada
+  Tum pe Maula maiṅ fida jaan karuṅ
+  Apne betoṅ ko maiṅ qurbaan karuṅ
+  Maiṅ huṅ Najraan ka raahib
 # source_id: nohayonline:f5261cbb71a5d2d2f0dd
 # source_url: https://www.nohayonline.com/details_content.php?id=2161
 # raw_sha256: 7c9c27e832c807d3a42839212e8ee131333d132d3453aecd3eff2a7ca7132241

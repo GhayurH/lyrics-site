@@ -20,23 +20,23 @@ romanLyrics: |-
 
   2
   Baad phir aap ke aada ne jalaaye yuṅ khayaam
-  Jal ke khaime mein hi mar jaata shariat ka Imam
+  Jal ke khaime meiṅ hi mar jaata shariat ka Imam
   Jalte khaimoṅ se phuphi jaaṅ ne nikaala mujh ko
 
   3
-  Saamne mere kanizi mein behen ko maanga
+  Saamne mere kanizi meiṅ behen ko maanga
   Haaye saadaat pe ummat ne hai sadqa pheṅka
   Maar daalega mere Baba ye sadma mujh ko
 
   4
-  Jab kabhi raah mein qaidi ne jo paaya saaya
+  Jab kabhi raah meiṅ qaidi ne jo paaya saaya
   Thak ke ek pal ke liye baithna chaaha Baba
   Maar kar durra sitamgar ne uthaaya mujh ko
 
   5
-  Beriyaṅ pair mein langar hai kamar mein mere
-  Zoaf bimaar ke tan mein hai chale to kaise
-  Tauq gardan mein hai aada ne pinhaaya mujh ko
+  Beriyaṅ pair meiṅ langar hai kamar meiṅ mere
+  Zoaf bimaar ke tan meiṅ hai chale to kaise
+  Tauq gardan meiṅ hai aada ne pinhaaya mujh ko
 
   6
   Ro ke kehti hai mujhe paani pilaao bhaiya
@@ -49,7 +49,7 @@ romanLyrics: |-
   Gar maruṅ ga to pisar dega ye kaandha mujh ko
 
   8
-  Bekafan baap ke laashe se guzarta main tha
+  Bekafan baap ke laashe se guzarta maiṅ tha
   Aisa lagta tha ke dam mera nikal jaayega
   Is qadar aap ki ghurbat ka tha sadma mujh ko
 

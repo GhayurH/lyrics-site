@@ -11,60 +11,60 @@ aliases: []
 published: true
 reciter: "Ghadeer Fatima"
 romanLyrics: |-
-  Akbar tujhe talash karuṅ kis dayar mein
-  Sughra tarap rahi hai tere intezar mein
+  Akbar tujhe talash karuṅ kis dayar meiṅ
+  Sughra tarap rahi hai tere intezar meiṅ
 
   1
   Lene ko aaega mera bhaiya mujhe zarur
-  Main ji rahi huṅ ab to isi etibar mein
+  Maiṅ ji rahi huṅ ab to isi etibar meiṅ
 
   2
   Dekha hai jab se Mah-e-Muharram ke chaṅd ko
-  Kiuṅ dil mera nahiṅ hai mere ikhtiyar mein
+  Kiuṅ dil mera nahiṅ hai mere ikhtiyar meiṅ
 
   3
-  Main kaise ja ke puchhuṅ bhala qafile ka haal
-  Dahliz par khare haiṅ kai gham qatar mein
+  Maiṅ kaise ja ke puchhuṅ bhala qafile ka haal
+  Dahliz par khare haiṅ kai gham qatar meiṅ
 
   4
   Abbas bhi nahiṅ hai na Baba hai mere paas
-  Apnoṅ ko dhundhti huṅ main ashkoṅ ki dhar mein
+  Apnoṅ ko dhundhti huṅ maiṅ ashkoṅ ki dhar meiṅ
 
   5
   Hasrat bhari nigaheṅ tarapti haiṅ har ghari
-  Pathra gai haiṅ putliyaṅ ab intezar mein
+  Pathra gai haiṅ putliyaṅ ab intezar meiṅ
 
   6
   Mujh ko khizaṅ ke ashk rulate haiṅ baar baar
-  Jo din guzare saya-e-fasl-e-bahar mein
+  Jo din guzare saya-e-fasl-e-bahar meiṅ
 
   7
-  Purhaul aashiyaṅ mein mujhe lag raha hai yuṅ
-  Jaise ke maut nikli hai mere shikar mein
+  Purhaul aashiyaṅ meiṅ mujhe lag raha hai yuṅ
+  Jaise ke maut nikli hai mere shikar meiṅ
 
   8
-  Asghar ki yaad sine mein chubhti hai jis tarah
-  Aisi chubhan to hoti nahiṅ nok-e-khar mein
+  Asghar ki yaad sine meiṅ chubhti hai jis tarah
+  Aisi chubhan to hoti nahiṅ nok-e-khar meiṅ
 
   9
   Sughra ke dil par girti hai reh reh ke bijliyaṅ
-  Har aarzu hai dil ki ghamoṅ ke hisar mein
+  Har aarzu hai dil ki ghamoṅ ke hisar meiṅ
 
   10
   Kuchh aur gham uthauṅ alalat ke saath saath
-  Itni sakat kahaṅ hai dil-e-sogwar mein
+  Itni sakat kahaṅ hai dil-e-sogwar meiṅ
 
   11
   Gar kuchh nahiṅ to koi dilasa hi de mujhe
-  Kuchh to qarar aae dil-e-beqarar mein
+  Kuchh to qarar aae dil-e-beqarar meiṅ
 
   12
-  Raateṅ guzar rahi haiṅ Madine mein is tarah
-  Jaise koi tarapta ho apne mazar mein
+  Raateṅ guzar rahi haiṅ Madine meiṅ is tarah
+  Jaise koi tarapta ho apne mazar meiṅ
 
   13
   Qismat ke haathoṅ ek khilona hai aadmi
-  Kuchh bhi nahiṅ hai apne Raza ikhtiyar mein
+  Kuchh bhi nahiṅ hai apne Raza ikhtiyar meiṅ
 # source_id: nohayonline:b6fa08d8489393403a43
 # source_url: https://www.nohayonline.com/details_content.php?id=2014
 # raw_sha256: 5142345342ac6d9170a3f327135666fcee51c717035daafb1235b427a285385a

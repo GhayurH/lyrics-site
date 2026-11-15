@@ -11,14 +11,14 @@ aliases: []
 published: true
 reciter: "Nasir Zaidi"
 romanLyrics: |-
-  Shabbir ki aahoṅ mein pyasoṅ ki ye gunji sada
+  Shabbir ki aahoṅ meiṅ pyasoṅ ki ye gunji sada
   Alam aa gaya Alam aa gaya
   Masum Sakina ne bachchoṅ ko bula kar kaha
   Alam aa gaya Alam aa gaya
 
   1
-  Tum ne bhi hameṅ chhora kis waqt-e-musibat mein
-  Ab kaun sahara hai is alam-e-ghurbat mein
+  Tum ne bhi hameṅ chhora kis waqt-e-musibat meiṅ
+  Ab kaun sahara hai is alam-e-ghurbat meiṅ
   Abbas ke parcham se Zainab ne lipat kar kaha
   Alam aa gaya Alam aa gaya
 
@@ -29,20 +29,20 @@ romanLyrics: |-
   Alam aa gaya Alam aa gaya
 
   3
-  Kehna tha yehi ran mein sab zulm ke maroṅ ka
+  Kehna tha yehi ran meiṅ sab zulm ke maroṅ ka
   Zainab ne kiya matam ye keh ke dularoṅ ka
-  Ab hum pe lain ran mein dhaeṅge jafa par jafa
+  Ab hum pe laiṅ ran meiṅ dhaeṅge jafa par jafa
   Alam aa gaya Alam aa gaya
 
   4
-  Pardes mein aae the hum jis ke sahare par
+  Pardes meiṅ aae the hum jis ke sahare par
   Wo sher to sota hai ab darya kinare par
   Ab tu hi muhafiz hai hum Ahl-e-Haram ka Khuda
   Alam aa gaya Alam aa gaya
 
   5
-  Zindan mein Sakina ka jab aakhri waqt aaya
-  Aise mein Zafar us ne Sajjad ko rulwaya
+  Zindaṅ meiṅ Sakina ka jab aakhri waqt aaya
+  Aise meiṅ Zafar us ne Sajjad ko rulwaya
   Darwaza-e-zindaṅ par Masuma ne ro kar kaha
   Alam aa gaya Alam aa gaya
 # source_id: nohayonline:02f4aea276414629acee

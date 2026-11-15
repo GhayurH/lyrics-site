@@ -17,15 +17,15 @@ romanLyrics: |-
   Meri behna meri behna
 
   1
-  Main huṅ meri tanhaai hai aur dasht-e-bala hai
-  Main ne abhi Asghar ka lahu rukh pe mala hai
+  Maiṅ huṅ meri tanhaai hai aur dasht-e-bala hai
+  Maiṅ ne abhi Asghar ka lahu rukh pe mala hai
   Marne ke liye jaata huṅ aur khushk gala hai
   Zainab mil jaaye jo paani to meri nazr dilaana
 
   2
-  Sab mere asaase mein abhi aag lagegi
-  Beshir ke jhule mein abhi aag lagegi
-  Sajjad ke khaime mein abhi aag lagegi
+  Sab mere asaase meiṅ abhi aag lagegi
+  Beshir ke jhule meiṅ abhi aag lagegi
+  Sajjad ke khaime meiṅ abhi aag lagegi
   Zainab bimaar ko jalte hue sholoṅ se bachaana
 
   3
@@ -35,20 +35,20 @@ romanLyrics: |-
   Zainab tum us ko kahaani mere marne ki sunaana
 
   4
-  Jab Shaam ke baazaar mein jaaogi khule sar
+  Jab Shaam ke baazaar meiṅ jaaogi khule sar
   Barsaayega aansu sar-e-Abbas-e-dilaawar
   Koi bhi nahiṅ hoga jo de de tumheiṅ chaadar
   Zainab is khaak bhare chehre ko baaloṅ se chhupaana
 
   5
-  Aayegi bahut nargha-e-kuffaar mein ghairat
+  Aayegi bahut nargha-e-kuffaar meiṅ ghairat
   Khaamoshi se seh lena magar saari musibat
-  Gar royi to aa jaayegi dunya mein qayaamat
-  Zainab dil thaam ke apna bhare darbaar mein jaana
+  Gar royi to aa jaayegi dunya meiṅ qayaamat
+  Zainab dil thaam ke apna bhare darbaar meiṅ jaana
 
   6
-  Yaad aayega zindaaṅ mein Sakina ko Madina
-  Ho jaayega dushwaar use qaid mein jina
+  Yaad aayega zindaaṅ meiṅ Sakina ko Madina
+  Ho jaayega dushwaar use qaid meiṅ jina
   Jab aane lage maut ka maathe pe pasina
   Zainab tab meri tarah tum use sine se lagaana
 

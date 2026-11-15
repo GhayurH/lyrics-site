@@ -33,7 +33,7 @@ romanLyrics: |-
   3
   Besahaaroṅ ke liye tu hi sahaara Abbas
   Tu hai mazlumoṅ ek qismat ka sitaara Abbas
-  Saare dunya mein jab bhi koi zulm hua
+  Saare dunya meiṅ jab bhi koi zulm hua
   Tujh ko Maasuma ne ro ro ke pukaara Abbas
 
   4
@@ -61,7 +61,7 @@ romanLyrics: |-
 
   8
   Rehte haiṅ Maasum jahaaṅ par hum bhi wahaaṅ par jaayeṅge
-  Kab se hai pardes mein maula laut ke kab ghar jaayeṅge
+  Kab se hai pardes meiṅ maula laut ke kab ghar jaayeṅge
   Sher-e-dilaawar Saaqi-e-Kausar dil ki bujha do pyaas
   Ya Sayyidi ya Abbas ya Abal Fazlil Abbas
   Ya Sayyidi ya Abbas ya Abal Fazlil Abbas

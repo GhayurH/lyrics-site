@@ -10,16 +10,16 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Abid se jab watan mein kisi ne kiya kalaam
+  Abid se jab watan meiṅ kisi ne kiya kalaam
   Guzre qalaq zyaada kahaaṅ tum pe ya Imam
   Abid ne tin baar kaha Shaam Shaam Shaam
   Ash-Shaam ash-Shaam ash-Shaam kaha
-  Baazaar mein jaana yaad raha
+  Baazaar meiṅ jaana yaad raha
 
   1
   Paaband-e-rasan beparda haram
-  Baazaar mein aayi maaṅ bandi
-  Un galiyoṅ mein baazaaroṅ mein
+  Baazaar meiṅ aayi maaṅ bandi
+  Un galiyoṅ meiṅ baazaaroṅ meiṅ
   Abid pe qayaamat kya guzri
   Patthar dil un bedardoṅ ka
   Baazaar sajaana yaad raha
@@ -28,16 +28,16 @@ romanLyrics: |-
   Jab yaad wo manzar aata tha
   Sajjad ka dil khuṅ rota tha
   Aankhoṅ se lahu barsaata tha
-  Ik dard jigar mein hota tha
+  Ik dard jigar meiṅ hota tha
   Bimaar tarapta tha keh kar
   Ghurbat ka zamaana yaad raha
 
   3
   Naizoṅ pe shahidoṅ ke sar the
   Aur ahl-e-haram bechaadar the
-  Laachaar haram baazaaroṅ mein
+  Laachaar haram baazaaroṅ meiṅ
   Bas ahl-e-sitam ki zad par the
-  Pardes mein khun ro kar mujh ko
+  Pardes meiṅ khun ro kar mujh ko
   Ye zakhm uthaana yaad raha
 
   4
@@ -45,14 +45,14 @@ romanLyrics: |-
   Hum par patthar barsaate the
   Baazaaroṅ se darbaaroṅ tak
   Hum sar ko jhuka kar jaate the
-  Ghairat ke sabab un raahoṅ mein
+  Ghairat ke sabab un raahoṅ meiṅ
   Sar apna jhukaana yaad raha
 
   5
   Khaati thi tamaanche zaalim ke
-  Maasum Sakina raahoṅ mein
+  Maasum Sakina raahoṅ meiṅ
   Dil ab bhi laraz jaata hai mera
-  Wo dard tha us ki aankhoṅ mein
+  Wo dard tha us ki aankhoṅ meiṅ
   Meri mazlum Sakina ka
   Ghaazi ko bulaana yaad raha
 

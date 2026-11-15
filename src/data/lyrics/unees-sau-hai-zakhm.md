@@ -16,7 +16,7 @@ romanLyrics: |-
   Hasrat se ki khayaam ki jaanib kabhi nazar
   Karwat kabhi tarap ke idhar li kabhi udhar
   Uth baithe jab to zakhmoṅ se barchhi ke bal gire
-  Tir aur tan mein gar gaye jab muṅh ke bal gire
+  Tir aur tan meiṅ gar gaye jab muṅh ke bal gire
   Jangal se aayi Fatima Zehra ki ye sada
   Ummat ne mujh ko lut liya wa Muhammada
   Is waqt kaun haq-e-rifaaqat kare ada
@@ -26,25 +26,25 @@ romanLyrics: |-
   Zainab nikal Husain tarapta hai khaak par
 
   1
-  Kis chaah se paala ise aanchal mein chhupa kar
-  Main jaagti rehti ise raatoṅ ko sula kar
-  Chakki bhi jo pisi hai to godi mein bitha kar
-  Kis haal mein dekha hai ise dasht mein aa kar
+  Kis chaah se paala ise aanchal meiṅ chhupa kar
+  Maiṅ jaagti rehti ise raatoṅ ko sula kar
+  Chakki bhi jo pisi hai to godi meiṅ bitha kar
+  Kis haal meiṅ dekha hai ise dasht meiṅ aa kar
 
   2
   Hai kaun jo mazlum ko tiroṅ se bachaaye
   Seh roz ke pyaase ko koi paani pilaaye
-  Zakhmoṅ mein bhari khaak koi aa ke chhuraaye
+  Zakhmoṅ meiṅ bhari khaak koi aa ke chhuraaye
   Har laash uthaayi hai ise kaun uthaaye
 
   3
   Abbas ke marne se kamar tut chuki hai
   Akbar ke bichhar jaane se binaayi gayi hai
-  In aankhoṅ mein beshir ki turbat bhi bani hai
+  In aankhoṅ meiṅ beshir ki turbat bhi bani hai
   Hai aakhri lamha aur ajal sar pe khari hai
 
   4
-  Kuchh der mein khanjar mere bachche pe chale ga
+  Kuchh der meiṅ khanjar mere bachche pe chale ga
   Afsos dam-e-zibh bhi paani na mile ga
   Khanjar ki kai zarboṅ se sar is ka kate ga
   Ghayur hai beta mera hargiz na kahe ga
@@ -53,10 +53,10 @@ romanLyrics: |-
   Baaqi hai abhi jaan tera bhaai hai zinda
   Ghore kahiṅ daura na de bedard haiṅ aada
   Haae haae koi bekas ko nahiṅ puchhne waala
-  Bhaai se mohabbat hai to maqtal mein chali aa
+  Bhaai se mohabbat hai to maqtal meiṅ chali aa
 
   6
-  Ye bain main sunti huṅ tere baaba Ali se
+  Ye bain maiṅ sunti huṅ tere baaba Ali se
   Ho jaayeṅge paamaal abhi laash sabhi ke
   Kuchh marhale baaqi haiṅ gharib ul watani ke
   Jaa haal zara dekh le is pyaase akhi ke

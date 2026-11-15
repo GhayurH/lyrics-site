@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ashoor ka suraj jalta hai
+  Ashur ka suraj jalta hai
   Har khaak ka zarra jalta hai
   Jalti hai zamin-e-Karb o Bala
   Ya Arsh-e-Moalla jalta hai
@@ -23,7 +23,7 @@ romanLyrics: |-
   Kabe ka musalla jalta hai
 
   2
-  Naize ko jagah di hai dil mein
+  Naize ko jagah di hai dil meiṅ
   Aise ke jigar ka kya kehna
   Akbar ko sukun-e-qalb mila
   Laila ka kaleja jalta hai
@@ -47,19 +47,19 @@ romanLyrics: |-
   Islam ka parda jalta hai
 
   6
-  Rakhi jo Fadak mein chingaari
+  Rakhi jo Fadak meiṅ chingaari
   Ye shole usi ke nikalte haiṅ
   Kya aag baghawat ki phaili
   Ran Karb o Bala ka jalta hai
 
   7
   Beshir ki tashna dahani ne
-  Ek aag laga di pani mein
+  Ek aag laga di pani meiṅ
   Asghar ke tabassum par ab tak
   Darya ka kinaara jalta hai
 
   8
-  Khaime mein Sakina dekhti hai
+  Khaime meiṅ Sakina dekhti hai
   Jab yaas se khaali saaghar ko
   Saahil pe tarapta hai laasha
   Saqqa ka kaleja jalta hai
@@ -79,8 +79,8 @@ romanLyrics: |-
   11
   Sad haif ke misl-e-rang-e-hina
   Kubra ka suhaag ab jal hi gaya
-  Is dasht-e-bala mein ae Mirza
-  Kya kya main kahuṅ kya jalta hai
+  Is dasht-e-bala meiṅ ae Mirza
+  Kya kya maiṅ kahuṅ kya jalta hai
 # source_id: nohayonline:2b6c5719aa5e497d720f
 # source_url: https://www.nohayonline.com/details_content.php?id=62
 # raw_sha256: f137c12adf29427aea194a35f82947a6df17435e17ee970c8ca2fb7cb76114eb

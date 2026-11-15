@@ -17,13 +17,13 @@ romanLyrics: |-
   Ae Imam-e-Raza salaam o alaik
 
   1
-  Shor-e-maatam hai sogwaaroṅ mein
+  Shor-e-maatam hai sogwaaroṅ meiṅ
   Ae Imam-e-Raza salaam o alaik
   Bekasi keh rahi hai mayyat par
   Waaris-e-Karbala salaam o alaik
 
   2
-  Ho raha hai fiza mein gham mahsus
+  Ho raha hai fiza meiṅ gham mahsus
   Bujh gaya aaftaab-e-shahr-e-Tus
   Aasmaanoṅ se aa rahi hai sada
   Naaib-e-Mustafa salaam o alaik
@@ -31,7 +31,7 @@ romanLyrics: |-
   3
   Chhaa rahi hai udaasiyaaṅ har suṅ
   Aur tapakte haiṅ aaṅkh se aansuṅ
-  Saari duniya mein ik talaatum hai
+  Saari duniya meiṅ ik talaatum hai
   Din ke naakhuda salaam o alaik
 
   4
@@ -43,7 +43,7 @@ romanLyrics: |-
   5
   Shah-e-aali maqaam ka taabut
   Uth raha hai Imam ka taabut
-  Apna sar peet kar janaze par
+  Apna sar pit kar janaze par
   Keh rahi hai qaza salaam o alaik
 
   6
@@ -55,13 +55,13 @@ romanLyrics: |-
   7
   Utra utra hai raat ka chehra
   Zard hai kaainaat ka chehra
-  Zahr ki kaifiyat hai saansoṅ mein
+  Zahr ki kaifiyat hai saansoṅ meiṅ
   Taajdaar-e-wafa salaam o alaik
 
   8
   Kaisa ranj o malaal ka din hai
   Nur ke intiqaal ka din hai
-  Aaj dil ki har ek dhadkan se
+  Aaj dil ki har ek dharkan se
   Aa rahi hai sada salaam o alaik
 
   9

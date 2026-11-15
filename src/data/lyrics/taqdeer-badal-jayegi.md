@@ -14,7 +14,7 @@ romanLyrics: |-
   Taqdir badal jaayegi Zehra ki dua le
 
   1
-  Shabbir ke maatam mein lahu apna bahaa le
+  Shabbir ke maatam meiṅ lahu apna bahaa le
   Is dard se ehsaas ki dunya ko saja le
   Ye zakhm nahiṅ phul hai sine se lagaa le
   Is raah pe chal daulat-e-imaaṅ ko bachaa le
@@ -22,15 +22,15 @@ romanLyrics: |-
 
   2
   Girte hue Qasim ne chacha ko jo pukaara
-  Shabbir ne dulha ko ajab haal mein dekha
-  Tha jism jo paamaal abaa mein use rakha
+  Shabbir ne dulha ko ajab haal meiṅ dekha
+  Tha jism jo paamaal abaa meiṅ use rakha
   Masnad pe rakha Shah ne naushaah ka laasha
   Ab kaun hai jo Fatima Kubra ko sambhaale
 
   3
   Jab Akbar-e-zishaan ne phal barchhi ka khaaya
   Kya sabr ka andaaz jahaaṅ ko nazar aaya
-  Ye hausla dunya mein kisi ne nahiṅ paaya
+  Ye hausla dunya meiṅ kisi ne nahiṅ paaya
   Sarwar ke siwa kaun sa banda hai Khudaaya
   Bete ke kaleje se jo barchhi ko nikaale
 
@@ -42,9 +42,9 @@ romanLyrics: |-
   Sab qatl ho par tu mere bhai ko bacha le
 
   5
-  Maidan mein be dast alamdaar para hai
+  Maidan meiṅ bedast alamdaar para hai
   Ab Shah ko tanhaai ka ehsaas hua hai
-  Khaime mein alam aaya hai ek hashr bapa hai
+  Khaime meiṅ alam aaya hai ek hashr bapa hai
   Ammu jo nahiṅ aaye bhatiji ko gila hai
   Ae pyaas Sakina ko kaleje se lagaa le
 
@@ -52,8 +52,8 @@ romanLyrics: |-
   Shabbir ke haathoṅ pe hai maasum ka laasha
   Phailaaye hue haath khari hai koi dukhiya
   Bechain hai maaṅ bachche ko de dijiye Maula
-  Reh jaaye na ghut kar dil-e-maadar mein tamanna
-  Ek baar wo beshir ko jhule mein jhulaa le
+  Reh jaaye na ghut kar dil-e-maadar meiṅ tamanna
+  Ek baar wo beshir ko jhule meiṅ jhulaa le
 # source_id: nohayonline:403dbc3ac30e7686651d
 # source_url: https://www.nohayonline.com/details_content.php?id=3347
 # raw_sha256: 865e66d08643c9d285bf80d5810b2339f731442d80f313c9243e8f6ac3fde588

@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Hukm-e-Shabbir se jo zabt ki diwaar hua
-  Shakl-e-Haidar mein wohi Haidar-e-Karraar hua
+  Shakl-e-Haidar meiṅ wohi Haidar-e-Karraar hua
 
   1
   Mera Abbas alamdaar hai aisa Ghazi
@@ -28,7 +28,7 @@ romanLyrics: |-
 
   4
   Ho gaye haath qalam mashk bachaane ke liye
-  Tere jaisa na zamaane mein wafaadaar hua
+  Tere jaisa na zamaane meiṅ wafaadaar hua
 
   5
   Jab talak baazu rahe mashk pe aanch aai nahiṅ

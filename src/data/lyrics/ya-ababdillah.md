@@ -31,7 +31,7 @@ romanLyrics: |-
   Ya Aba Abdillah
 
   4
-  Arsh hilta hai fiza mein hai tamaachoṅ ki sada
+  Arsh hilta hai fiza meiṅ hai tamaachoṅ ki sada
   Aasmaaṅ kiuṅ na gira
   Ek maasum ko milti hai yatimi ki saza
   Ya Aba Abdillah

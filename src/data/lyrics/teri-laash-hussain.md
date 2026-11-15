@@ -11,18 +11,18 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Utaaruṅ kaise main tiroṅ se teri laash Husain
-  Pisar ke pehlu mein baithi ye kehti thi Zehra
-  Utaaruṅ kaise main tiroṅ se teri laash Husain
+  Utaaruṅ kaise maiṅ tiroṅ se teri laash Husain
+  Pisar ke pehlu meiṅ baithi ye kehti thi Zehra
+  Utaaruṅ kaise maiṅ tiroṅ se teri laash Husain
 
   1
-  Ghira hai tiroṅ ki tu tiragi mein lakht-e-jigar
-  Madad ko apni main kis ko bulaauṅ nur-e-nazar
-  Samajh mein kuchh nahiṅ aata main kya karuṅ beta
+  Ghira hai tiroṅ ki tu tiragi meiṅ lakht-e-jigar
+  Madad ko apni maiṅ kis ko bulaauṅ nur-e-nazar
+  Samajh meiṅ kuchh nahiṅ aata maiṅ kya karuṅ beta
 
   2
   Nazar nahiṅ mujhe aata hai tera tan beta
-  Dhuaaṅ dhuaaṅ meri nazroṅ mein hai ye ban beta
+  Dhuaaṅ dhuaaṅ meri nazroṅ meiṅ hai ye ban beta
   Ke mera qalb to ab ban gaya hai Karb o Bala
 
   3
@@ -31,19 +31,19 @@ romanLyrics: |-
   Uthaae haathoṅ ko kehti thi Fatima Zehra
 
   4
-  Hai tir tan mein ya tiroṅ pe hai ye tan beta
+  Hai tir tan meiṅ ya tiroṅ pe hai ye tan beta
   Hazaarha yehi karti huṅ bas jatan beta
   Tarapta hai tu jo beta bilakti hai mamta
 
   5
-  Paraae des mein tujh ko qaza ne ghera hai
+  Paraae des meiṅ tujh ko qaza ne ghera hai
   Tujhe ghutan ne nahiṅ is faza ne ghera hai
-  Main kaise dekhuṅ tujhe laal ab tarapta hua
+  Maiṅ kaise dekhuṅ tujhe laal ab tarapta hua
 
   6
   Ye kalma goyoṅ ne Bint-e-Nabi ko ajr diya
   Tujhe to naara-e-takbir keh ke qatl kiya
-  Karuṅ gi hashr ke maidaan mein ab tera nauha
+  Karuṅ gi hashr ke maidaan meiṅ ab tera nauha
 
   7
   Na tujh ko aasmaan raas aaya na zamin beta
@@ -51,7 +51,7 @@ romanLyrics: |-
   Ke jis ko chumte the subh o shaam mere Baaba
 
   8
-  Jahaaṅ jahaaṅ se bhi main khinchti huṅ tir o tabar
+  Jahaaṅ jahaaṅ se bhi maiṅ khinchti huṅ tir o tabar
   Wahaaṅ wahaaṅ nazar aata hai ik naya manzar
   Kahiṅ hai pasliyaaṅ tuti kahiṅ chhida sina
 

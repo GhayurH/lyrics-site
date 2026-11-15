@@ -11,51 +11,51 @@ aliases: []
 published: true
 romanLyrics: |-
   Kehti thi ye Zainab se Muhammad ki dulaari
-  Main kya karuṅ Bibi
-  Qismat mein judaai ki ghari aa gayi apni
-  Main kya karuṅ Bibi
+  Maiṅ kya karuṅ Bibi
+  Qismat meiṅ judaai ki ghari aa gayi apni
+  Maiṅ kya karuṅ Bibi
 
   1
   Taqdir pe kuchh bas nahiṅ chalta hai kisi ka
   Ik roz hai marna
   Kya maaṅ ki judaai ka alam jhel sakogi
-  Main kya karuṅ Bibi
+  Maiṅ kya karuṅ Bibi
 
   2
   Jab jaayega Shabbir mera Karb o Bala ko
   Maidaan-e-wagha ko
   Jaayegi meri jaan sawaari bhi tumhaari
-  Main kya karuṅ Bibi
+  Maiṅ kya karuṅ Bibi
 
   3
   Khaime mere Abbas ke saahil se hateṅge
   Pyaase hi raheṅge
   Atfaal ki durroṅ se wahaaṅ pyaas bujhegi
-  Main kya karuṅ Bibi
+  Maiṅ kya karuṅ Bibi
 
   4
   Tum Aun o Muhammad ko raza marne ki dogi
   Khaamosh rahogi
   Jab saamne aayegi Muhammad ki jawaani
-  Main kya karuṅ Bibi
+  Maiṅ kya karuṅ Bibi
 
   5
-  Mil jaayegi mitti mein Paimbar ki nishaani
+  Mil jaayegi mitti meiṅ Paimbar ki nishaani
   Par ae mere jaani
-  Sine mein hi ghut jaayega dam ro na sakogi
-  Main kya karuṅ Bibi
+  Sine meiṅ hi ghut jaayega dam ro na sakogi
+  Maiṅ kya karuṅ Bibi
 
   6
   Mar jaayega pyaasa lab-e-darya mera saqqa
   Qasim na rahega
   Tum bhai Hasan ko bhi bahut yaad karogi
-  Main kya karuṅ Bibi
+  Maiṅ kya karuṅ Bibi
 
   7
   Sar pitti reh jaaogi tum khaime ke dar par
   Aur Shimr ka khanjar
   Chal jaayegi mit jaayegi Haidar ki nishaani
-  Main kya karuṅ Bibi
+  Maiṅ kya karuṅ Bibi
 # source_id: nohayonline:974b72aa5906da3a2101
 # source_url: https://www.nohayonline.com/details_content.php?id=310
 # raw_sha256: 4d8b9fd21df57dd39db3778540a6ca1003e14ced0d800cde6f232c0c488b0d02

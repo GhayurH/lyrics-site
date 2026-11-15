@@ -1,6 +1,6 @@
 ---
 title: "ہو میرے لال کہاں"
-alternateTitle: "Ho Mere Laal Kahan"
+alternateTitle: "Ho Mere Laal Kahaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -14,7 +14,7 @@ romanLyrics: |-
 
   1
   Haaye jangal ka wo sannaata wo pur haul fiza
-  Aur aise mein kisi dukh bhare dil ki wo sada
+  Aur aise meiṅ kisi dukh bhare dil ki wo sada
   Jaise bichhri hui aulaad ko dhunde koi maaṅ
 
   2
@@ -25,10 +25,10 @@ romanLyrics: |-
   3
   Khud bakhud haath uthe jaate haiṅ lene ko tumheṅ
   Kab se bechain huṅ main loriyaaṅ dene ko tumheṅ
-  Ho gayi raat bas aa god mein aao meri jaaṅ
+  Ho gayi raat bas aa god meiṅ aao meri jaaṅ
 
   4
-  Kis ki aaghosh hai is ban mein basaayi beta
+  Kis ki aaghosh hai is ban meiṅ basaayi beta
   Nind kis tarah mujhe chhor ke aayi beta
   Maaṅ ko bhi paas bula lo wahiṅ sote ho jahaaṅ
 

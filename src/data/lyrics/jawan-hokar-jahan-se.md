@@ -1,6 +1,6 @@
 ---
 title: "جوان ہو کر جہاں سے تم سدھارے اے علی اکبر"
-alternateTitle: "Jawan Hokar Jahan Se"
+alternateTitle: "Jawan Hokar Jahaṅ Se"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -19,7 +19,7 @@ romanLyrics: |-
   Phuphi ke maaoṅ behnoṅ ke sahaare ae Ali Akbar
 
   2
-  Safina dubta hai maaṅ ka ab manjhdhaar mein beta
+  Safina dubta hai maaṅ ka ab manjhdhaar meiṅ beta
   Lagaaye kaun kashti ab kinaare ae Ali Akbar
 
   3
@@ -31,11 +31,11 @@ romanLyrics: |-
   Wo jab maaṅ ne tere gesu sanwaare ae Ali Akbar
 
   5
-  Lagaaye aas baithi hai udhar Sughra Madine mein
+  Lagaaye aas baithi hai udhar Sughra Madine meiṅ
   Behan ko lene kab jaaoge pyaare ae Ali Akbar
 
   6
-  Sakina kho gayi hai ban mein keh do us ke ammu se
+  Sakina kho gayi hai ban meiṅ keh do us ke ammu se
   Ye dukhiya maaṅ kahaaṅ jaa kar pukaare ae Ali Akbar
 
   7

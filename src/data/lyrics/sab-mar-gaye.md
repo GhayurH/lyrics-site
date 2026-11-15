@@ -20,12 +20,12 @@ romanLyrics: |-
   Jitne bhi Madine se mere saath gaye the
   Wo saath na aaye
   Ye kaise bataauṅ ke kahaaṅ zakhm haiṅ khaaye
-  Sab khuṅ mein nahaaye
+  Sab khuṅ meiṅ nahaaye
   Wo mere muhaafiz wo mere monis o yaawar
   Sab mar gaye ammaaṅ
 
   2
-  Mardoṅ mein faqat Aabid-e-muztar hai ya Baaqir
+  Mardoṅ meiṅ faqat Aabid-e-muztar hai ya Baaqir
   Ye mera muqaddar
   Paamaal badan khaak ke zarroṅ ke baraabar
   Dekhe haiṅ zamiṅ par
@@ -33,17 +33,17 @@ romanLyrics: |-
   Sab mar gaye ammaaṅ
 
   3
-  Kitne hi makaanoṅ ke makiṅ saath mein ujre
+  Kitne hi makaanoṅ ke makiṅ saath meiṅ ujre
   Ahbaab se bichhre
   Maqtal ka jo manzar tha na dekha gaya mujh se
-  Tukroṅ mein badan the
+  Tukroṅ meiṅ badan the
   Tiroṅ pe kahiṅ jism the nezoṅ pe kahiṅ sar
   Sab mar gaye ammaaṅ
 
   4
   Chhe maah ke bachche ko bhi afsos na chhora
   Sar us ka bhi kaata
-  Dunya mein bataao to kahiṅ hota hai aisa
+  Dunya meiṅ bataao to kahiṅ hota hai aisa
   Phatta hai kaleja
   Chehre pe mala bhaai ne khun-e-Ali Asghar
   Sab mar gaye ammaaṅ
@@ -57,15 +57,15 @@ romanLyrics: |-
   Sab mar gaye ammaaṅ
 
   6
-  Main zinda rahi haaye mujhe maut na aayi
+  Maiṅ zinda rahi haaye mujhe maut na aayi
   Maare gaye bhaai
-  Jo saath gaye the main unheṅ saath na laayi
+  Jo saath gaye the maiṅ unheṅ saath na laayi
   Dafna bhi na paayi
   Chalte haiṅ mere qalb pe ye soch ke khanjar
   Sab mar gaye ammaaṅ
 
   7
-  Kis kis ko nishaaṅ rassi ke ammaaṅ main dikhaauṅ
+  Kis kis ko nishaaṅ rassi ke ammaaṅ maiṅ dikhaauṅ
   Rudaad sunaauṅ
   Sughra ko qayaamat ki khabar kaise sunaauṅ
   Sine se lagaauṅ

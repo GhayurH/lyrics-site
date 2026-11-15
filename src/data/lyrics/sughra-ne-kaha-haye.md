@@ -22,7 +22,7 @@ romanLyrics: |-
   Akbar nahiṅ aaye
 
   2
-  Dam aankhoṅ mein atka hai nazar dar pe gari hai
+  Dam aankhoṅ meiṅ atka hai nazar dar pe gari hai
   Marne ki ghari hai
   Kya jaaniye ab qabr meri kaun banaaye
   Akbar nahiṅ aaye
@@ -30,7 +30,7 @@ romanLyrics: |-
   3
   Jis raah se aane ki khabar de ke gaye the
   Sau waade kiye the
-  Baithi huṅ usi raah pe main aas lagaaye
+  Baithi huṅ usi raah pe maiṅ aas lagaaye
   Akbar nahiṅ aaye
 
   4

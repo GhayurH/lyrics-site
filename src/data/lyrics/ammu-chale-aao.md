@@ -34,7 +34,7 @@ romanLyrics: |-
   Chhaayi hui har su ab gham ki ghata hai
 
   5
-  Jal gaya sholoṅ mein bimaar ka bistar
+  Jal gaya sholoṅ meiṅ bimaar ka bistar
   Ab na raha baaqi gehwaara-e-Asghar
   Aur mere kurte ka daaman bhi jala hai
 
@@ -45,11 +45,11 @@ romanLyrics: |-
 
   7
   Aal payambar ka jina hua dubhar
-  Un ko phiraate haiṅ balwe mein khule sar
+  Un ko phiraate haiṅ balwe meiṅ khule sar
   Sar hai khule sab ke maqna na rida hai
 
   8
-  Kaun uthaaye ga godi mein bula ke
+  Kaun uthaaye ga godi meiṅ bula ke
   Kaun pinhayega bunde mujhe laa ke
   Shimr mere gohar bhi chhin raha hai
 

@@ -19,7 +19,7 @@ romanLyrics: |-
   Kaaba udaas hai musalla udaas hai
   Chehra Ali ka dekh ke Allah udaas hai
 
-  Chehra hai khuṅ mein duba mushkil kusha Ali ka
+  Chehra hai khuṅ meiṅ duba mushkil kusha Ali ka
   Uthega ab janaaza mushkil kusha Ali ka
 
   1
@@ -32,14 +32,14 @@ romanLyrics: |-
   2
   Aulaad-e-Murtaza pe mushkil ye kaisi tuti
   Aankhoṅ se khun-e-dil hai ban ban ke ashk jaari
-  Baaba se hone waali kuchh pal mein hai judaai
+  Baaba se hone waali kuchh pal meiṅ hai judaai
   Kulsum ro ke nauha parhti hai gham ki maari
   Saath ab nahiṅ rahega mushkil kusha Ali ka
 
   3
   Behta hai khun sar se chehre pe Murtaza ka
   Rangin ho gaya hai khun se Ali ka sina
-  Ghash mein imaam hai ab aankhoṅ mein hai andhera
+  Ghash meiṅ imaam hai ab aankhoṅ meiṅ hai andhera
   Khaibar shikan ne haathoṅ se apne sar ko thaama
   Sar ho gaya do paara mushkil kusha Ali ka
 
@@ -59,23 +59,23 @@ romanLyrics: |-
 
   6
   Maula ko aa raha hai bas ek khayaal aksar
-  Baazaar-e-Shaam ka hai un ki nazar mein manzar
+  Baazaar-e-Shaam ka hai un ki nazar meiṅ manzar
   Maarega koi patthar chhinega koi chaadar
   Zainab ki dekhte haiṅ jab bhi rida ko Haidar
   Phatta hai gham se sina mushkil kusha Ali ka
 
   7
-  Kufe mein ro raha hai har ek yatim bachcha
-  Kufe mein hai ghariboṅ ka kaun ab sahaara
-  Gham mein Ali ke rota hai ye jahaan saara
+  Kufe meiṅ ro raha hai har ek yatim bachcha
+  Kufe meiṅ hai ghariboṅ ka kaun ab sahaara
+  Gham meiṅ Ali ke rota hai ye jahaan saara
   Maatam bapa hai arsh-e-Khaaliq pe Murtaza ka
   Karta hai sog Kaaba mushkil kusha Ali ka
 
   8
-  Baqar Ali ke gham mein shaamil hai khud Khuda bhi
-  Shaah-e-Najaf ke gham mein ghamgin hai Karbala bhi
-  Mahv-e-buka lahad mein hai aaj Fatima bhi
-  Bhaai ke gham mein sar ko piteṅ ge Mustafa bhi
+  Baqar Ali ke gham meiṅ shaamil hai khud Khuda bhi
+  Shaah-e-Najaf ke gham meiṅ ghamgin hai Karbala bhi
+  Mahv-e-buka lahad meiṅ hai aaj Fatima bhi
+  Bhaai ke gham meiṅ sar ko piteṅ ge Mustafa bhi
   Dekheṅ ge jab wo chehra mushkil kusha Ali ka
 # source_id: nohayonline:3c739e4c03c5746f82a9
 # source_url: https://www.nohayonline.com/details_content.php?id=1335

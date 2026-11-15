@@ -13,11 +13,11 @@ romanLyrics: |-
   Jab ghar se jawaaṅ beta marne ko chala hoga
 
   1
-  Laila ne tasavvur mein socha bhi na tha shayad
+  Laila ne tasavvur meiṅ socha bhi na tha shayad
   Sar Akbar-e-Ghaazi ka neze pe charha hoga
 
   2
-  Athaara baras ka sin neze ki ani dil mein
+  Athaara baras ka sin neze ki ani dil meiṅ
   Dunya ne sitam aisa dekha na suna hoga
 
   3
@@ -29,12 +29,12 @@ romanLyrics: |-
   Bete ki sada sun kar kya haal hua hoga
 
   5
-  Andher jahaaṅ tha sab nazroṅ mein shah-e-diṅ ke
+  Andher jahaaṅ tha sab nazroṅ meiṅ shah-e-diṅ ke
   Laashe tak shah-e-waala kis tarah gaya hoga
 
   6
   Dekha hai tarapte haiṅ sine pe sinaaṅ khaa ke
-  Zakhmi jigar jawaaṅ ka barchi mein laga hoga
+  Zakhmi jigar jawaaṅ ka barchi meiṅ laga hoga
 # source_id: nohayonline:cd102d0dc71501eb50b8
 # source_url: https://www.nohayonline.com/details_content.php?id=1165
 # raw_sha256: 96c9baa2f8b32f1368a1afe3cb81554c860fb84c608c47e39ad9fb820b20d4a1

@@ -14,11 +14,11 @@ published: true
 # source_url: https://www.nohayonline.com/details_content.php?id=3230
 # raw_sha256: 8125a06969992674eac1f091bbf4d37b2c6b8f22730ea25ffa4b905821749e2e
 romanLyrics: |-
-  Ali ke shahr-e-Kufa mein samaṅ Zainab pe kya aaya
+  Ali ke shahr-e-Kufa meiṅ samaṅ Zainab pe kya aaya
   Kuja burqa-e-shariat ka rida ka bhi nahiṅ saaya
 
   1
-  Janaza jis ki maadar ka utha tha parda-e-shab mein
+  Janaza jis ki maadar ka utha tha parda-e-shab meiṅ
   Zamana us ki beti ko sar-e-baazaar le aaya
 
   2
@@ -30,19 +30,19 @@ romanLyrics: |-
   Anokha saarbaṅ hai beriyaṅ pehne hue aaya
 
   4
-  Saje haiṅ baam o dar Kufa mein aamad hai asiroṅ ki
+  Saje haiṅ baam o dar Kufa meiṅ aamad hai asiroṅ ki
   Tamasha Aal-e-Ahmad ka Musalmaṅ dekhne aaya
 
   5
   Wo khutba tha ke haibat chha gayi darbar sare par
-  Ali ki sher dil beti mein Haider sa jalaal aaya
+  Ali ki sher dil beti meiṅ Haider sa jalaal aaya
 
   6
   Kaha Sajjad se Zainab ne ro ke kuchh to batlao
   Najaf se le ke chadar kiuṅ mera Baba nahiṅ aaya
 
   7
-  Jahaṅ Baba ki shaahi thi usi darbar mein Zainab
+  Jahaṅ Baba ki shaahi thi usi darbar meiṅ Zainab
   Nisaar aayi barehna sar ye kaisa inqilaab aaya
 ---
 

@@ -19,7 +19,7 @@ romanLyrics: |-
 
   1
   Binaai bhi nahiṅ hai khat kis tarah parhuṅ ga
-  Main us se kya kahuṅ ga
+  Maiṅ us se kya kahuṅ ga
   Qaasid hai aane waala is ko jagaao Zainab
 
   2

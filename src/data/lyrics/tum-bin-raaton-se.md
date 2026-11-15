@@ -11,27 +11,27 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Tasht mein shaah ka sar qaid mein jab laaya gaya
+  Tasht meiṅ shaah ka sar qaid meiṅ jab laaya gaya
   Ro ke chillaayi Sakina dar-e-zindaaṅ khula
   Nabz se haath hataao zara ammaaṅ dekho
-  Main na kehti thi ke aaye haiṅ padar lene ko
-  God mein baap ka sar le ke Sakina boli
+  Maiṅ na kehti thi ke aaye haiṅ padar lene ko
+  God meiṅ baap ka sar le ke Sakina boli
   Baba ik baar bhi tum ne na khabar li meri
 
-  Tum bin kai raatoṅ se main soyi nahiṅ Baba
+  Tum bin kai raatoṅ se maiṅ soyi nahiṅ Baba
   Kya yaad Sakina tumheṅ aayi nahiṅ Baba
 
   1
   Yaad aata hai wo aap ka sine pe sulaana
-  Muṅh chumna aur god mein shafqat se bithaana
+  Muṅh chumna aur god meiṅ shafqat se bithaana
   Nanhe se mire haathoṅ ko aaṅkhoṅ se lagaana
   Ab puchhne wala mira koi nahiṅ Baba
 
   2
   Farmaaya tha ye aap ne mitti pe sula kar
   So jaana jahaaṅ tujh ko sulaaye tiri maadar
-  Ye dekhiye baithi huṅ main zindaaṅ ki zamiṅ par
-  Main aaj bhi is baat ko bhuli nahiṅ Baba
+  Ye dekhiye baithi huṅ maiṅ zindaaṅ ki zamiṅ par
+  Maiṅ aaj bhi is baat ko bhuli nahiṅ Baba
 
   3
   Deta tha saza Shimr yuṅ baaloṅ se pakar kar
@@ -40,19 +40,19 @@ romanLyrics: |-
   Haalat wo miri aap ne dekhi nahiṅ Baba
 
   4
-  Main kaise kahuṅ kaisi thi us waqt gharibi
+  Maiṅ kaise kahuṅ kaisi thi us waqt gharibi
   Milne ko hameṅ aayi thi jab Hind ki beti
-  Pehne hue kaanoṅ mein wo mere hi gauhar thi
-  Ramla se magar kuchh bhi main boli nahiṅ Baba
+  Pehne hue kaanoṅ meiṅ wo mere hi gauhar thi
+  Ramla se magar kuchh bhi maiṅ boli nahiṅ Baba
 
   5
   Ik mor pe zaalim ne sataaya mujhe aise
   Le aaya mujhe wo sar-e-Abbas ke aage
   Aur saamne un ke mujhe maare the tamaache
-  Sab seh gayi chup chaap main royi nahiṅ Baba
+  Sab seh gayi chup chaap maiṅ royi nahiṅ Baba
 
   6
-  Poti huṅ main Zahra ki bas ek baar kaha tha
+  Poti huṅ maiṅ Zahra ki bas ek baar kaha tha
   Wo sang gire mujh pe lahu itna baha tha
   Chehra mera maaṅ se bhi na pehchaana gaya tha
   Ab ghar ka hawaala kabhi deti nahiṅ Baba

@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maaṅ ye maqtal mein ro ke kehti thi
+  Maaṅ ye maqtal meiṅ ro ke kehti thi
   Nok-e-naiza pe hai mera Asghar
 
   Qabr se aa gaya hai naize par
@@ -21,40 +21,40 @@ romanLyrics: |-
   Ae mere chhe mahine wale Ali
   Laaj rakh li hai tu ne maadar ki
   Ab na rouṅ gi tujhko paala hai
-  Tu jo maqtal mein haṅs diya Asghar
+  Tu jo maqtal meiṅ haṅs diya Asghar
 
   2
-  Apni aankhoṅ se main lagaati unheiṅ
+  Apni aankhoṅ se maiṅ lagaati unheiṅ
   Tere qadmoṅ ke jo nishaan hote
-  Maaṅ ko armaan reh gaya dil mein
+  Maaṅ ko armaan reh gaya dil meiṅ
   Ghutniyoṅ bhi nahiṅ chala Asghar
 
   3
   Tu to bas chhe mahine wala tha
   Us ka Akbar jawaan beta tha
-  Saamne main ne Umm-e-Laila ke
+  Saamne maiṅ ne Umm-e-Laila ke
   Tera pursa nahiṅ liya Asghar
 
   4
   Bibiyoṅ dekho mere bachche ko
   Kar liya band is ne aankhoṅ ko
-  Maaṅ ko naamehramoṅ ke majme mein
+  Maaṅ ko naamehramoṅ ke majme meiṅ
   Kaise dekhe ga berida Asghar
 
   5
   Jaan ye soch kar nikalti hai
-  Tu ne ae laal chhe mahinoṅ mein
+  Tu ne ae laal chhe mahinoṅ meiṅ
   Itna paani nahiṅ piya hoga
   Khun jitna ugal diya Asghar
 
   6
-  Jaa ke jannat mein ae mere beta
+  Jaa ke jannat meiṅ ae mere beta
   Tum to Mohsin ke saath khelo ge
   Maaṅ Sakina ko kya dilaasa de
   Kis se khele gi wo bhala Asghar
 
   7
-  Le ke nanhe se sar ko godi mein
+  Le ke nanhe se sar ko godi meiṅ
   Maaṅ Takallum ye ro ke kehti thi
   Ab to aankhoṅ ko khol de beta
   Mil gayi hai mujhe rida Asghar

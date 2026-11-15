@@ -15,7 +15,7 @@ romanLyrics: |-
   Sadqe gayi ye maadar jhule ke sone wale
 
   1
-  Aankhoṅ mein rehne wale sine pe sone wale
+  Aankhoṅ meiṅ rehne wale sine pe sone wale
   Beshir mere Asghar jhule ke sone wale
 
   2

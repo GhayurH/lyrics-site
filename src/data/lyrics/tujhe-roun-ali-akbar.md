@@ -18,14 +18,14 @@ romanLyrics: |-
   Abhi athaarwaaṅ tha saal teri zindagaani ka
   Qadam hota hai pehla bachpane se naujawaani ka
   Magar ab saamne mere hai laasha mere jaani ka
-  Mile sab khaak mein armaaṅ tujhe dulha banaane ke
+  Mile sab khaak meiṅ armaaṅ tujhe dulha banaane ke
   Tere mehndi lagaauṅ ya tujhe rouṅ Ali Akbar
 
   2
   Tujhe maaṅ ne mere beta bari hasrat se paala tha
   Padar ki jaan tha tu maaṅ ki aankhoṅ ka ujaala tha
-  Shabih-e-Mustafa tha husn mein Yusuf se aala tha
-  Main teri chaand si dulhan byaah ke ghar mein laauṅ gi
+  Shabih-e-Mustafa tha husn meiṅ Yusuf se aala tha
+  Maiṅ teri chaand si dulhan byaah ke ghar meiṅ laauṅ gi
   Teri shaadi rachaauṅ ya tujhe rouṅ Ali Akbar
 
   3
@@ -33,21 +33,21 @@ romanLyrics: |-
   Zamiṅ par baith kar Shabbir phir dil ko masalte haiṅ
   Zaifi ka sahaara lut gaya keh kar tarapte haiṅ
   Jawaaṅ ki laash ko tanha bari mushkil se laaya huṅ
-  Main wo sadma uthaauṅ ya tujhe rouṅ Ali Akbar
+  Maiṅ wo sadma uthaauṅ ya tujhe rouṅ Ali Akbar
 
   4
-  Tamanna thi meri tujh ko main jab dulha banaauṅ gi
+  Tamanna thi meri tujh ko maiṅ jab dulha banaauṅ gi
   Balaaeṅ luṅ gi teri tujh ko sine se lagaauṅ gi
   Karuṅ gi pure sab armaaṅ har ek mannat barhaauṅ gi
   Hai dil bechain ab mera tujhe dulha banaane ko
   Tujhe dil se lagaauṅ ya tujhe rouṅ Ali Akbar
 
   5
-  Teri shaadi pe Sughra ne kaha tha main bhi aauṅ gi
+  Teri shaadi pe Sughra ne kaha tha maiṅ bhi aauṅ gi
   Mujhe lene nahiṅ aaya to Akbar ruth jaauṅ gi
-  Main apne haathoṅ se aa kar teri dulhan sajaauṅ gi
+  Maiṅ apne haathoṅ se aa kar teri dulhan sajaauṅ gi
   Karo jab shaadi ae bhai behen ko bhul na jaana
-  Main Sughra ko bulaauṅ ya tujhe rouṅ Ali Akbar
+  Maiṅ Sughra ko bulaauṅ ya tujhe rouṅ Ali Akbar
 
   6
   Hai uljhi uljhi zulfeṅ aur jami hai khaak chehre par

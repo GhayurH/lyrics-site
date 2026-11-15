@@ -1,6 +1,6 @@
 ---
 title: "وہ تو ہے وہ میں ہوں"
-alternateTitle: "Woh Tu Hai Woh Main Huṅ"
+alternateTitle: "Woh Tu Hai Woh Maiṅ Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,28 +12,28 @@ aliases: ["Woh Tu Hai Woh Main Hoon Hamd"]
 published: true
 romanLyrics: |-
   1
-  Sine mein jo ik dard sa hota hai woh tu hai
-  Jo dard ki shiddat se bikharta hai woh main huṅ
+  Sine meiṅ jo ik dard sa hota hai woh tu hai
+  Jo dard ki shiddat se bikharta hai woh maiṅ huṅ
   Jo baagh ko shabnam se bhigota hai woh tu hai
-  Jo gul ki tarah dhul ke nikharta hai woh main huṅ
-  Har shai mein jo aaina pirota hai woh tu hai
-  Jo aaina khaanoṅ mein sanwarta hai woh main huṅ
+  Jo gul ki tarah dhul ke nikharta hai woh maiṅ huṅ
+  Har shai meiṅ jo aaina pirota hai woh tu hai
+  Jo aaina khaanoṅ meiṅ sanwarta hai woh maiṅ huṅ
 
   2
   Jangal ko jo khushbu se bhigota hai woh tu hai
-  Jangal se jo har shaam guzarta hai woh main huṅ
+  Jangal se jo har shaam guzarta hai woh maiṅ huṅ
   Daaghoṅ ko mere dil se jo dhota hai woh tu hai
-  Daaghoṅ ki tamanna mein jo marta hai woh main huṅ
-  Mujh dil ko jo rangoṅ mein dubota hai woh tu hai
-  Jo dub ke rangoṅ mein ubharta hai woh main huṅ
+  Daaghoṅ ki tamanna meiṅ jo marta hai woh maiṅ huṅ
+  Mujh dil ko jo rangoṅ meiṅ dubota hai woh tu hai
+  Jo dub ke rangoṅ meiṅ ubharta hai woh maiṅ huṅ
 
   3
-  Maati mein jo darya ko dubota hai woh tu hai
-  Maati se jo qatra sa natharta hai woh main huṅ
-  Mujh khaak mein ik tukhm jo bota hai woh tu hai
-  Saaya sa sar-e-dahr jo karta hai woh main huṅ
+  Maati meiṅ jo darya ko dubota hai woh tu hai
+  Maati se jo qatra sa natharta hai woh maiṅ huṅ
+  Mujh khaak meiṅ ik tukhm jo bota hai woh tu hai
+  Saaya sa sar-e-dahr jo karta hai woh maiṅ huṅ
   Jo tha, woh jo hona hai, jo hota hai, woh tu hai
-  Hone ke dukhoṅ se jo guzarta hai woh main huṅ
+  Hone ke dukhoṅ se jo guzarta hai woh maiṅ huṅ
 # source_id: tajpoints:b199764eaa38178006dc
 # source_url: https://tajpoints.com/2023/03/woh-tu-hai-woh-main-hoon-hamd-lyrics-in.html
 # raw_sha256: ce3edf609d8418c0d8d79f4052ad8ae502247816c85b4cb2d623802cabd51e4d

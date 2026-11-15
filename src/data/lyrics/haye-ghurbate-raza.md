@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Rote haiṅ shaah-e-waala roti haiṅ Bint-e-Zahra
   Haye ghurbat-e-Raza par
-  Phir aaj Karbala mein aur Shaam mein hai giryan
+  Phir aaj Karbala meiṅ aur Shaam meiṅ hai giryan
   Haye ghurbat-e-Raza par
 
   1
@@ -43,17 +43,17 @@ romanLyrics: |-
 
   6
   Har shaam ro rahi hai bhaai ko ek khwaahar
-  Har shaam hi bapa hai Qum ki fiza mein nauha
+  Har shaam hi bapa hai Qum ki fiza meiṅ nauha
   Haye ghurbat-e-Raza par
 
   7
   Mayyat pe is pisar ki faryaad-e-Sayyida thi
-  Yasrab se aa ke dekho main ro rahi huṅ baba
+  Yasrab se aa ke dekho maiṅ ro rahi huṅ baba
   Haye ghurbat-e-Raza par
 
   8
   Maah-e-Safar jo aaya yaad aa gayi Sakina
-  Izhaar us ke gham mein roya phir aur roya
+  Izhaar us ke gham meiṅ roya phir aur roya
   Haye ghurbat-e-Raza par
 # source_id: nohayonline:d5a99450efb56254220c
 # source_url: https://www.nohayonline.com/details_content.php?id=1142

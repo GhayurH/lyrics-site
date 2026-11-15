@@ -17,12 +17,12 @@ romanLyrics: |-
   1
   Jab se pardes gaye aayi nahiṅ des ki yaad
   Kya tumheṅ khat se bhi pahunchi nahiṅ meri faryaad
-  Kitne din aur mujhe des mein tarsaaoge
+  Kitne din aur mujhe des meiṅ tarsaaoge
 
   2
-  Ik behan saath mein hai phir meri yaad aayegi kiuṅ
-  Tum ko kya gham hai alaalat mein jiyuṅ ya ke maruṅ
-  Main agar mar gayi tum bhi nahiṅ ji paaoge
+  Ik behan saath meiṅ hai phir meri yaad aayegi kiuṅ
+  Tum ko kya gham hai alaalat meiṅ jiyuṅ ya ke maruṅ
+  Maiṅ agar mar gayi tum bhi nahiṅ ji paaoge
 
   3
   Chand hi roz ko zinda hai tumhaari behna
@@ -30,8 +30,8 @@ romanLyrics: |-
   Kab naya Eid ka jora mujhe dilwaaoge
 
   4
-  Main ne ro ro ke guzaare haiṅ khushi ke mausam
-  Yaad mein aaṅkh hui bhai meri khun se nam
+  Maiṅ ne ro ro ke guzaare haiṅ khushi ke mausam
+  Yaad meiṅ aaṅkh hui bhai meri khun se nam
   Dil ki taklif meri tum na samajh paaoge
 
   5
@@ -46,7 +46,7 @@ romanLyrics: |-
 
   7
   Kaise tahrir ho Rehaan o Raza haaye wo baat
-  Tashna lab maare gaye Karb o Bala mein Saadaat
+  Tashna lab maare gaye Karb o Bala meiṅ Saadaat
   Farsh-e-majlis pe bayaaṅ kar ke tarap jaaoge
 # source_id: nohayonline:83558addca439310b8e2
 # source_url: https://www.nohayonline.com/details_content.php?id=2652

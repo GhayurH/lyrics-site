@@ -15,10 +15,10 @@ romanLyrics: |-
 
   1
   Giti uṅchi hoti hai, girne na de gi ghore se
-  Apni god mein le le gi jis ki god ka paala hai
+  Apni god meiṅ le le gi jis ki god ka paala hai
 
   2
-  Raah-e-khuda mein jaldi ki, aage jaane waaloṅ ne
+  Raah-e-khuda meiṅ jaldi ki, aage jaane waaloṅ ne
   Subh ke saathi chhut gae shaam hui ab tanha hai
 
   3
@@ -30,8 +30,8 @@ romanLyrics: |-
   Chaand Nabi ka dub gaya suraj dubne waala hai
 
   5
-  Halq pe tegh-e-qaatil hai, jaan-e-Payambar sajde mein
-  Donoṅ aalam sajde mein kaisa pyaara sajda hai
+  Halq pe tegh-e-qaatil hai, jaan-e-Payambar sajde meiṅ
+  Donoṅ aalam sajde meiṅ kaisa pyaara sajda hai
 
   6
   Kal jo Nabi ke dosh pe tha, aaj wo sar hai naize par
@@ -39,7 +39,7 @@ romanLyrics: |-
 
   7
   Bujh gai shama-e-qabr-e-Nabi, dasht-e-bala kya roshan hai
-  Bich mein khaime jalte haiṅ, chaaroṅ taraf andhiyaara hai
+  Bich meiṅ khaime jalte haiṅ, chaaroṅ taraf andhiyaara hai
 
   8
   Maut ye teri kaisi thi, marne waale tere liye

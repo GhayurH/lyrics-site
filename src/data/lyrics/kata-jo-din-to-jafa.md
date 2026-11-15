@@ -14,24 +14,24 @@ romanLyrics: |-
   Charaagh bujh gaya Zehra ka jab to shaam hui
 
   1
-  Shaheed so gaye jangal mein sar ko katwa ke
+  Shahid so gaye jangal meiṅ sar ko katwa ke
   Khayaal aaya nishaaṅ ka na fikr-e-naam hui
 
   2
   Sada ye deti thi maaṅ apni god phailaaye
-  Ab aao Ae Ali Asghar ke ran mein shaam hui
+  Ab aao Ae Ali Asghar ke ran meiṅ shaam hui
 
   3
   Sipaah roke rahi qatl gaah ka rasta
-  Behan na bhai se maqtal mein ham kalaam hui
+  Behan na bhai se maqtal meiṅ ham kalaam hui
 
   4
-  Sinaaṅ mein maaṅ ne bandhe dekhe gesu-e-Akbar
+  Sinaaṅ meiṅ maaṅ ne bandhe dekhe gesu-e-Akbar
   Javaaṅ ke byaah ki yuṅ aarzu tamaam hui
 
   5
   Bhariṅ jo raandoṅ ne aaheṅ to aandhiyaṅ uthiṅ
-  Khule jo baal haram ke to ran mein shaam hui
+  Khule jo baal haram ke to ran meiṅ shaam hui
 
   6
   Daba ke haath se sina qaza ki Akbar ne
@@ -39,7 +39,7 @@ romanLyrics: |-
 
   7
   Na the charaagh bhi bewaarisoṅ ke baali par
-  Udaasi aur barhi dasht mein jo shaam hui
+  Udaasi aur barhi dasht meiṅ jo shaam hui
 
   Kata jo din to jafa fauj ki tamaam hui
   Charaagh bujh gaya Zehra ka jab to shaam hui

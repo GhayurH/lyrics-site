@@ -11,29 +11,29 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  More bhaag suhaag mein aag lagi
+  More bhaag suhaag meiṅ aag lagi
   Akbar bhi nahiṅ Asghar bhi nahiṅ
 
   1
-  Main to sopan moti lutaaye chuki
-  Ab aanchal mein kankar bhi nahiṅ
-  More bhaag suhaag mein aag lagi
+  Maiṅ to sopan moti lutaaye chuki
+  Ab aanchal meiṅ kankar bhi nahiṅ
+  More bhaag suhaag meiṅ aag lagi
   Akbar bhi nahiṅ Asghar bhi nahiṅ
 
   2
-  Ran vir more ran bhumi mein
+  Ran vir more ran bhumi meiṅ
   Tum sish kataaye sowat ho
   Jangal ke jhaar kare san san
   More raaj kunwar tohe dar bhi nahiṅ
-  More bhaag suhaag mein aag lagi
+  More bhaag suhaag meiṅ aag lagi
   Akbar bhi nahiṅ Asghar bhi nahiṅ
 
   3
   More sapan salone tut gaye
   Man mit more sab ruth gaye
-  Man aise mein dhiraj kan paaye
+  Man aise meiṅ dhiraj kan paaye
   Jab chain mohe pal bhar bhi nahiṅ
-  More bhaag suhaag mein aag lagi
+  More bhaag suhaag meiṅ aag lagi
   Akbar bhi nahiṅ Asghar bhi nahiṅ
 # source_id: nohayonline:7bd0ff97bf089114df62
 # source_url: https://www.nohayonline.com/details_content.php?id=1989

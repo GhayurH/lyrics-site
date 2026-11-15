@@ -11,7 +11,7 @@ aliases: []
 published: true
 reciter: "Shahid Baltistani"
 romanLyrics: |-
-  Kalma goyoṅ mein hui haye akeli Zahra
+  Kalma goyoṅ meiṅ hui haye akeli Zahra
   Sar-e-darbar gai baba jhutlaai gai
   Aap ki beti Zahra
 
@@ -22,14 +22,14 @@ romanLyrics: |-
   Aap ki sachchi Zahra
 
   2
-  Jis gali mein mujhe zaalim ne tamancha maara
+  Jis gali meiṅ mujhe zaalim ne tamancha maara
   Jite ji mere Hasan phir na wahaṅ se guzra
   Wo na bhulega kabhi us se dekhi na gai
   Khaak pe girti Zahra
 
   3
   Zakhm-e-pehlu ka to bachchoṅ se chhupaya baba
-  Par ye sadma mujhe turbat mein bhi tarpaega
+  Par ye sadma mujhe turbat meiṅ bhi tarpaega
   Jab tamanche khae dekha bachchoṅ ne mere
   Rok na pai Zahra
 
@@ -53,13 +53,13 @@ romanLyrics: |-
 
   7
   Mekh jalte hue darwaze ki jab surkh hui
-  Mere pehlu se wo Mohsin ke badan mein utri
+  Mere pehlu se wo Mohsin ke badan meiṅ utri
   Haye dam tor gaya wo mujhe chhor gaya
   Zinda hai phir bhi Zahra
 
   8
   Qabr-e-Zahra ki khumoshi ye buka karti hai
-  Mera Mohsin hai jo parde mein mera Mehdi hai
+  Mera Mohsin hai jo parde meiṅ mera Mehdi hai
   Ab Fadak ki khaatir apne haq ki khaatir
   Kuchh na kahegi Zahra
 # source_id: nohayonline:e357c1ce3af85d89ae43

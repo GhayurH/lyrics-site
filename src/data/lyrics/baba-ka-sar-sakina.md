@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Baba ka sar Sakina aaghosh mein utha ke
+  Baba ka sar Sakina aaghosh meiṅ utha ke
   Faryaad kar rahi hai rudaad-e-gham suna ke
 
   1
@@ -21,7 +21,7 @@ romanLyrics: |-
 
   2
   Bin parda zaalimoṅ ne baazaar se guzaara
-  Main ne tarap tarap ke tum ko bahut pukaara
+  Maiṅ ne tarap tarap ke tum ko bahut pukaara
   Guzri huṅ raastoṅ se baaloṅ se muṅh ko chhupa ke
 
   3
@@ -30,18 +30,18 @@ romanLyrics: |-
   Rote the har qadam par Sajjad sar ko jhuka ke
 
   4
-  Rahwaar ke gale mein ammu ka sar para tha
+  Rahwaar ke gale meiṅ ammu ka sar para tha
   Meri aziyyatoṅ ka sadma unheṅ bara tha
   Aankheṅ lahu lahu thi khun-e-jigar baha ke
 
   5
-  Saaye ko bhi safar mein qaidi tarap rahe the
-  Raahoṅ mein har taraf se patthar baras rahe the
+  Saaye ko bhi safar meiṅ qaidi tarap rahe the
+  Raahoṅ meiṅ har taraf se patthar baras rahe the
   Laayi hai mujh ko jaane kaise phuphi bacha ke
 
   6
   Koi na tha hamaari faryaad sunne waala
-  Be pardagi ne baba meri maaṅ ko maar daala
+  Bepardagi ne baba meri maaṅ ko maar daala
   Khush ho rahe the zaalim dar dar hameṅ phira ke
 
   7

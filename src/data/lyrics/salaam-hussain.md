@@ -50,7 +50,7 @@ romanLyrics: |-
   Aap ke ghar ka wo wafaadaar hai
   Aap ki chaahat ka talabgaar hai
   Majlis o maatam se use pyaar hai
-  Maula ghulaamoṅ mein mera naam bhi likh do
+  Maula ghulaamoṅ meiṅ mera naam bhi likh do
   Kaam jo naukar ka hai wo kaam bhi likh do
   Hum raheṅ na raheṅ ye sada zinda rahe
   Salaam alaika ya Aba Abdillah

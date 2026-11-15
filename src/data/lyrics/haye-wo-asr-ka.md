@@ -22,10 +22,10 @@ romanLyrics: |-
   In sulagte hue khaimoṅ ka dhuaaṅ dekh to lo
 
   2
-  Paaye Aabid mein ye zanjir-e-garaaṅ dekh to lo
+  Paaye Aabid meiṅ ye zanjir-e-garaaṅ dekh to lo
   Pusht-e-khwaahar pe ye durroṅ ke nishaaṅ dekh to lo
-  Hoti hai shaam-e-gharibaan-e-watan jangal mein
-  Utho bhaiya ke akeli hai behan jangal mein
+  Hoti hai shaam-e-gharibaan-e-watan jangal meiṅ
+  Utho bhaiya ke akeli hai behan jangal meiṅ
 
   3
   Kat gaye nakhl-e-gulistaan-e-Ali tum na uthe
@@ -52,13 +52,13 @@ romanLyrics: |-
   Kehti thi haye shahidoṅ ko kafan bhi na mila
 
   7
-  Pahunchi maidaan mein to kis tarah kahuṅ kya dekha
+  Pahunchi maidaan meiṅ to kis tarah kahuṅ kya dekha
   Raundte ghoroṅ se Shabbir ka laasha dekha
   Keh ke ye baith gayi jism-e-Shah-e-diṅ ke qarib
   Boli aayi hai teri laash uthaane ye haziṅ
 
   8
-  Jald khaime mein mujhe jaana hai Ae Sarwar-e-diṅ
+  Jald khaime meiṅ mujhe jaana hai Ae Sarwar-e-diṅ
   Phir Sakina ko tamaanche na lagaate ho laiṅ
   Keh ke ye kaampte haathoṅ se sambhaali mayyat
   Ya Ali keh ke kaleje se lagaa li mayyat

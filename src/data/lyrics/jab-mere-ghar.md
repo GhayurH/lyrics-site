@@ -13,11 +13,11 @@ published: true
 romanLyrics: |-
   Ya Rab mere Ya Rab
   Saqi Abbas jari Ya Ilaahi mujhe Abbas sa beta de de
-  Jab mere ghar mein alam hai to alamdaar bhi ho
+  Jab mere ghar meiṅ alam hai to alamdaar bhi ho
 
   1
   Ek jari chaahiye taarikh-e-shujaat ke liye
-  Karbala mein mere Shabbir ki nusrat ke liye
+  Karbala meiṅ mere Shabbir ki nusrat ke liye
   Aur naamus-e-Payambar ki hifaazat ke liye
   Ya Ilaahi mujhe Abbas sa beta de de
 
@@ -40,9 +40,9 @@ romanLyrics: |-
   Ya Ilaahi mujhe Abbas sa beta de de
 
   5
-  Zindagi jis ki guzar jaaye alamdaari mein
-  Apne baazu bhi kata de jo fida kaari mein
-  Sab se aage nazar aaye jo wafaadaari mein
+  Zindagi jis ki guzar jaaye alamdaari meiṅ
+  Apne baazu bhi kata de jo fida kaari meiṅ
+  Sab se aage nazar aaye jo wafaadaari meiṅ
   Ya Ilaahi mujhe Abbas sa beta de de
 
   6
@@ -53,18 +53,18 @@ romanLyrics: |-
 
   7
   Mere maalik mere hontoṅ pe jab aayi ye dua
-  Meri aankhoṅ mein nazar aane lagi Karb o Bala
-  Mera Shabbir musibat mein khara hai tanha
+  Meri aankhoṅ meiṅ nazar aane lagi Karb o Bala
+  Mera Shabbir musibat meiṅ khara hai tanha
   Ya Ilaahi mujhe Abbas sa beta de de
 
   8
-  Jab wo Karbal mein ho chaubis pehel ka pyaasa
+  Jab wo Karbal meiṅ ho chaubis pehel ka pyaasa
   Har qadam par use isaar ka jazba dena
   Aur mere laal ke haathoṅ ko salaamat rakhna
   Ya Ilaahi mujhe Abbas sa beta de de
 
   9
-  Ae Kaleem ho gayi maqbul dua-e-Haider
+  Ae Kalim ho gayi maqbul dua-e-Haider
   Us ko Mesum hai kaha Fatima Zehra ne pisar
   Aarzu ki thi Ali ne jo huzur-e-Daawar
   Ya Ilaahi mujhe Abbas sa beta de de

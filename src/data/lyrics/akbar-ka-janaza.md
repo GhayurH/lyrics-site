@@ -16,7 +16,7 @@ romanLyrics: |-
   Ghash khane lagi Zainab lachar hui gham se
   Behosh hui madar hai baap ke haathoṅ par
   Akbar ka janaza
-  Khaime mein aaya hai Akbar ka janaza
+  Khaime meiṅ aaya hai Akbar ka janaza
 
   1
   Hamshakl-e-Payambar ka gham aaj mila kaisa
@@ -41,7 +41,7 @@ romanLyrics: |-
 
   4
   Sar pita Sakina ne aur bain kiye aise
-  Main neg na maanguṅ gi ye waada raha tum se
+  Maiṅ neg na maanguṅ gi ye waada raha tum se
   Kya haal kiya sab ka ae bhai tere gham ne
   Behosh hui madar hai baap ke haathoṅ par
   Akbar ka janaza
@@ -49,14 +49,14 @@ romanLyrics: |-
   5
   Achha hi hua ghar se saath aai nahiṅ Sughra
   Wo dekh nahiṅ paati jo haal hai kunbe ka
-  Malum nahiṅ us ko kis haal mein hai bhaiya
+  Malum nahiṅ us ko kis haal meiṅ hai bhaiya
   Behosh hui madar hai baap ke haathoṅ par
   Akbar ka janaza
 
   6
-  Tufan hai ashkoṅ ka Sadaat ke khaimoṅ mein
-  Kiuṅ hashr na ho barpa Sadaat ke khaimoṅ mein
-  Kya lae Shah-e-Wala Sadaat ke khaimoṅ mein
+  Tufan hai ashkoṅ ka Sadaat ke khaimoṅ meiṅ
+  Kiuṅ hashr na ho barpa Sadaat ke khaimoṅ meiṅ
+  Kya lae Shah-e-Wala Sadaat ke khaimoṅ meiṅ
   Behosh hui madar hai baap ke haathoṅ par
   Akbar ka janaza
 

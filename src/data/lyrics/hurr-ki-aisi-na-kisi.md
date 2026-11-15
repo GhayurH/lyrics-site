@@ -26,7 +26,7 @@ romanLyrics: |-
   Jin ko parde ke liye chaadar-e-tathir mili
 
   4
-  Koi ik baar Madine mein na pehchaan saka
+  Koi ik baar Madine meiṅ na pehchaan saka
   Qaid se chhut ke jab Zainab-e-dilgir mili
 
   5

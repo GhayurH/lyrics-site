@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Ae faqih-e-Husain ae Habib-e-Husain
 
-  Ye khat mein Shaah ne likha Habib aa jaao
+  Ye khat meiṅ Shaah ne likha Habib aa jaao
   Tumhaara dost hai tanha Habib aa jaao
 
   1
@@ -23,7 +23,7 @@ romanLyrics: |-
 
   2
   Lagaao is se bhi andaaze meri ghurbat ke
-  Jahaaṅ pe ibn-e-Ali likhna tha wahaaṅ main ne
+  Jahaaṅ pe ibn-e-Ali likhna tha wahaaṅ maiṅ ne
   Diya hai maaṅ ka hawaala Habib aa jaao
 
   3
@@ -53,7 +53,7 @@ romanLyrics: |-
 
   8
   Chamakte chaand ki ham ko bhi did ho jaaye
-  Tum aao to mere bachchoṅ mein Eid ho jaaye
+  Tum aao to mere bachchoṅ meiṅ Eid ho jaaye
   Bahut udaas hai kunba Habib aa jaao
 
   9
@@ -63,7 +63,7 @@ romanLyrics: |-
 
   10
   Behen ne us ko Takallum jo bhaai samjha tha
-  Pukaari Shaam-e-Gharibaaṅ mein saani-e-Zehra
+  Pukaari Shaam-e-Gharibaaṅ meiṅ saani-e-Zehra
   Hamaara lutta hai parda Habib aa jaao
 # source_id: nohayonline:8c7057bb96bd66bad9f1
 # source_url: https://www.nohayonline.com/details_content.php?id=1615

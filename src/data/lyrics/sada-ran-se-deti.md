@@ -18,8 +18,8 @@ romanLyrics: |-
 
   1
   Idhar aa kaleje se apne laga luṅ
-  Idhar aa main sine pe tujh ko sula luṅ
-  Idhar aa meri jaaṅ main qurbaan tujh par
+  Idhar aa maiṅ sine pe tujh ko sula luṅ
+  Idhar aa meri jaaṅ maiṅ qurbaan tujh par
   Idhar aa idhar aa Sakina Sakina
 
   2
@@ -35,7 +35,7 @@ romanLyrics: |-
   Idhar aa idhar aa Sakina Sakina
 
   4
-  Jo sajde mein haq ke jhuka tha wohi sar
+  Jo sajde meiṅ haq ke jhuka tha wohi sar
   Nazar aaye ga tujh ko nok-e-sinaaṅ par
   Badan par hai ab reg-e-sahra ki chaadar
   Idhar aa idhar aa Sakina Sakina
@@ -43,12 +43,12 @@ romanLyrics: |-
   5
   Rulaaye gi tujh ko bahut yaad meri
   Sunega na koi bhi faryaad teri
-  Sataaye ga raste mein Shimr-e-sitamgar
+  Sataaye ga raste meiṅ Shimr-e-sitamgar
   Idhar aa idhar aa Sakina Sakina
 
   6
   Ab andaaz badle ga sone ka tere
-  Sulaaye gi aaghosh mein tujh ko maadar
+  Sulaaye gi aaghosh meiṅ tujh ko maadar
   Yahaaṅ mere sine pe soye ga Asghar
   Idhar aa idhar aa Sakina Sakina
 
@@ -60,7 +60,7 @@ romanLyrics: |-
 
   8
   Viqar-e-haziṅ kya bayaaṅ ho wo manzar
-  Jo dekha tha us ne kaho ab main kiuṅkar
+  Jo dekha tha us ne kaho ab maiṅ kiuṅkar
   Bari jab Sakina ye aawaaz sun kar
   Idhar aa idhar aa Sakina Sakina
 # source_id: nohayonline:ea45115013a313e1db4e

@@ -1,6 +1,6 @@
 ---
 title: "زنداں میں زینب بین کرے"
-alternateTitle: "Zindaaṅ Mein Zainab"
+alternateTitle: "Zindaaṅ Meiṅ Zainab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,23 +11,23 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zindaaṅ mein Zainab bain kare
+  Zindaaṅ meiṅ Zainab bain kare
   Mera kunba saara qatl hua
 
-  Meri chaadar lut gayi Karbala mein
+  Meri chaadar lut gayi Karbala meiṅ
   Bimaar bhatija rota raha
 
   1
   Paamaal hua bhaai ka badan
-  Mere baal khule haathoṅ mein rasan
+  Mere baal khule haathoṅ meiṅ rasan
   Akbar ka jigar barchhi se chhida
   Asghar ko mere paani na mila
 
   2
   Kaantoṅ pe chali huṅ ae bhaai
   Har ek qadam teri yaad aayi
-  Baazaar mein patthar barse hai
-  Darbaar mein thi main beparda
+  Baazaar meiṅ patthar barse hai
+  Darbaar meiṅ thi maiṅ beparda
 
   3
   Aankheṅ meri tarsi rone ko
@@ -37,12 +37,12 @@ romanLyrics: |-
 
   4
   Teri gardan aur zaalim ki chhuri
-  Ae bhaai main kuchh bhi kar na saki
-  Rone ke siwa main kya karti
+  Ae bhaai maiṅ kuchh bhi kar na saki
+  Rone ke siwa maiṅ kya karti
   Aankhoṅ se baha khuṅ ka darya
 
   5
-  Maatam main karuṅ tera kaise
+  Maatam maiṅ karuṅ tera kaise
   Aazaad ho pehle haath mere
   Lekin hai mera waada tujh se
   Ta hashr rahega zikr tera
@@ -56,24 +56,24 @@ romanLyrics: |-
   7
   Puchhegi agar Sughra mujh se
   Kiuṅ aaye nahiṅ Baba mere
-  Main kaise kahuṅgi ae Sughra
+  Maiṅ kaise kahuṅgi ae Sughra
   Baba ne basaayi Karbobala
 
   8
-  Main Aun o Muhammad ke hujre
+  Maiṅ Aun o Muhammad ke hujre
   Dekhuṅgi bhala khaali kaise
   Sab zabt ke bandhan tuteṅge
   Yaad aayeṅge Ibn-e-Abdullah
 
   9
-  Zindaaṅ mein Sakina mar gayi hai
+  Zindaaṅ meiṅ Sakina mar gayi hai
   Dunya se safar wo kar gayi hai
   Nikla na rehaai ka armaaṅ
   Taabut Sakina bhi na utha
 
   10
   Farhan fughaaṅ thi Zainab ki
-  Jo Shaam ke zindaaṅ mein gunji
+  Jo Shaam ke zindaaṅ meiṅ gunji
   Rehaan fughaaṅ wo dard bhari
   Tha saani-e-Zehra ka nauha
 # source_id: nohayonline:ed5324bf8c488c7bb0a2

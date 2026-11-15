@@ -17,11 +17,11 @@ romanLyrics: |-
   1
   Baha ke ashk-e-aza aur keh ke haaye Husain
   Bichha ke farsh-e-aza khaak par baraaye Husain
-  Ik aasmaaṅ zamiṅ par bichhaya Zainab ne
+  Ik aasmaan zamiṅ par bichhaya Zainab ne
 
   2
   Ulat ke Shaam ka darbaar kar ke fath-e-mubin
-  Jahaaṅ Husain ka qaatil tha hukmaraaṅ wahiṅ
+  Jahaaṅ Husain ka qaatil tha hukmaraan wahiṅ
   Husaini fauj ka parcham lagaya Zainab ne
 
   3
@@ -32,7 +32,7 @@ romanLyrics: |-
   4
   Yazidi khud bhi ye kehte haiṅ haaṅ nahiṅ milta
   Kahiṅ Yazid ka naam o nishaaṅ nahiṅ milta
-  Use to khaak mein aisa milaya Zainab ne
+  Use to khaak meiṅ aisa milaya Zainab ne
 
   5
   Jahaaṅ pe kaata gaya tha Husain ke sar ko
@@ -40,8 +40,8 @@ romanLyrics: |-
   Wahiṅ Husain ka rauza banaya Zainab ne
 
   6
-  Hawa-e-zulm bana khaiz o khuṅ ke darya mein
-  Suna hai Aun o Muhammad ki tarah dunya mein
+  Hawa-e-zulm bana khaiz o khuṅ ke darya meiṅ
+  Suna hai Aun o Muhammad ki tarah dunya meiṅ
   Khuda ke din ko chalna sikhaya Zainab ne
 
   7
@@ -52,7 +52,7 @@ romanLyrics: |-
   8
   Jo chaahe dekh le khud Shaam jaa ke ye manzar
   Hawaaeṅ kaanpti haiṅ jis ko dekh kar Gohar
-  Charaagh Shaam mein aisa jalaya Zainab ne
+  Charaagh Shaam meiṅ aisa jalaya Zainab ne
 # source_id: nohayonline:f0f4adfca62df2aec551
 # source_url: https://www.nohayonline.com/details_content.php?id=2335
 # raw_sha256: a926172d6524c3ed82a8a54ad0365fabdda290ae89b3744c7b93ca6c048e39aa

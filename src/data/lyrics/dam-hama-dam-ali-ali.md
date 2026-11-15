@@ -28,20 +28,20 @@ romanLyrics: |-
   Dam hama dam Ali Ali, dam hama dam Ali Ali
 
   3
-  Wajd mein hai tauhid Khuda ki khaana-e-Kaaba jhum raha hai
+  Wajd meiṅ hai tauhid Khuda ki khaana-e-Kaaba jhum raha hai
   Pehla zaair hai ye Ali ka paaye Ali jo chum raha hai
   Terah Rajab hai haal ajab hai jhum rahe haiṅ laal sakhi
 
   4
   Qaul-e-Nabi hai zikr-e-Ali se logoṅ ki pehchaan karo
-  Main ne kiya hai zikr Ali ka dohra asar us ka ye dekho
+  Maiṅ ne kiya hai zikr Ali ka dohra asar us ka ye dekho
   Khil gaya koi phul ki surat aur kisi ko baat khali
 
   5
-  Pukaara Kaaba main su-e-hadaf chala jaauṅ
+  Pukaara Kaaba maiṅ su-e-hadaf chala jaauṅ
   Jahaaṅ sadaf hai mera us taraf chala jaauṅ
-  Khudaaya main ne bhi ik baar hajj pe jaana hai
-  Tu izn de to main chal kar Najaf chala jaauṅ
+  Khudaaya maiṅ ne bhi ik baar hajj pe jaana hai
+  Tu izn de to maiṅ chal kar Najaf chala jaauṅ
 
   6
   Ali raisam, Ali anisam, Ali rafiqam
@@ -50,7 +50,7 @@ romanLyrics: |-
   Ali siyaamam, Ali qayaamam, Ali namaazam
 
   7
-  Jaaye jahannam mein jis, jis ko bughz-e-Ali ki bimaari hai
+  Jaaye jahannam meiṅ jis, jis ko bughz-e-Ali ki bimaari hai
   Zikr Ali to roz-e-azal se jaari tha aur jaari hai
   Kucha kucha qarya qarya nagar nagar aur gali gali
 
@@ -68,7 +68,7 @@ romanLyrics: |-
   10
   Maula Ali naal nisbat meri
   Charh gaya mainu Haidari rang
-  Ali da malang main te Ali da
+  Ali da malang maiṅ te Ali da
 
   11
   Naam-e-Ali se bughz rakho ge ye to hoga, ye to hoga

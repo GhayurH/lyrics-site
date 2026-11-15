@@ -10,12 +10,12 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ae Karbala tere daaman mein daastaaṅ hai koi
+  Ae Karbala tere daaman meiṅ daastaaṅ hai koi
   Husain ban na sakega na Karbala hai koi
 
   1
   Ali ki beti huṅ naana hai Mustafa mere
-  Main berida huṅ mere sar pe na rida hai koi
+  Maiṅ berida huṅ mere sar pe na rida hai koi
 
   2
   Na laash-e-baaba pe jaauṅgi chhor de zaalim

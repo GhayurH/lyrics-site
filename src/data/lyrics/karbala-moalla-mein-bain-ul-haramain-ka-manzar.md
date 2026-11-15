@@ -1,6 +1,6 @@
 ---
 title: "کربلا معلیٰ میں بین الحرمین کا منظر"
-alternateTitle: "Karbala Moalla Mein Bain-ul-Haramain Ka Manzar"
+alternateTitle: "Karbala Moalla Meiṅ Bain-ul-Haramain Ka Manzar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -14,8 +14,8 @@ romanLyrics: |-
   Ik simt haiṅ Abbaas to ik simt haiṅ Shabbir
   Wo khaaliq-e-Quraan-e-wafa hai to ye tathir
   Hamshakl-e-Ali wo haiṅ ye Ahmad ki haiṅ tasvir
-  Kar goor ke donoṅ ke hi haathoṅ mein hai taqdir
-  Donoṅ hi haqiqat mein wali Ibn-e-wali haiṅ
+  Kar gur ke donoṅ ke hi haathoṅ meiṅ hai taqdir
+  Donoṅ hi haqiqat meiṅ wali Ibn-e-wali haiṅ
   Ik sar-e-Muhammad hai to ik sar-e-Ali haiṅ
 # source_id: tajpoints:f2bad8d94f859b86db68
 # source_url: https://tajpoints.com/2017/02/karbala-moalla-mein-bain-ul-haramain-ka.html

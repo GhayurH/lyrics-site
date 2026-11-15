@@ -27,7 +27,7 @@ romanLyrics: |-
   Ya Hasan ya Hasan ya Hasan imam Hasan
 
   2
-  In ki fazilat mein hai kaafi yahi kehna
+  In ki fazilat meiṅ hai kaafi yahi kehna
   Kehte imam un ko hai Shabbir bhi apna
   Aisa bara bhaai nahiṅ hoga dobaara
 

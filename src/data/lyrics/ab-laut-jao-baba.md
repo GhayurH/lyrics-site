@@ -13,7 +13,7 @@ romanLyrics: |-
   Khaime se ran ke liye jab Ali Akbar nikle
   Pichhe bete ke jigar thaam ke Sarwar nikle
   Akbar pukare ro kar ab laut jao Baba
-  Bole ye Sheh tarap kar main kaise laut jauṅ
+  Bole ye Sheh tarap kar maiṅ kaise laut jauṅ
   Haye Baba haye haye Baba
 
   1
@@ -24,20 +24,20 @@ romanLyrics: |-
 
   2
   Ye to faqat zamin hai gar aag ka ho darya
-  Chalta rahuṅga paidal chahat mein teri beta
-  Hamsurat-e-Payambar main kaise laut jauṅ
+  Chalta rahuṅga paidal chahat meiṅ teri beta
+  Hamsurat-e-Payambar maiṅ kaise laut jauṅ
   Haye Baba haye haye Baba
 
   3
   Sar par musibatoṅ ka ye aasman kab tak
   Baba mohabbatoṅ ka ye imtehan kab tak
-  Sine mein dil hai muztar ab laut jao Baba
+  Sine meiṅ dil hai muztar ab laut jao Baba
   Haye beta haye haye beta
 
   4
   Is imtehan ki azmat tum jaante nahiṅ ho
   Aulad ki mohabbat tum jaante nahiṅ ho
-  Gardish mein hai muqaddar main kaise laut jauṅ
+  Gardish meiṅ hai muqaddar maiṅ kaise laut jauṅ
   Haye Baba haye haye Baba
 
   5
@@ -49,21 +49,21 @@ romanLyrics: |-
   6
   Ahl o ayaal rakhte ghar ko sambhale hote
   Ae kaash tum bhi beta aulad wale hote
-  Chalta hai dil pe khanjar main kaise laut jauṅ
+  Chalta hai dil pe khanjar maiṅ kaise laut jauṅ
   Haye Baba haye haye Baba
 
   7
   Jo kuchh hai farz mera us ko nibha raha huṅ
-  Main din-e-Haq ke khatir maidan mein ja raha huṅ
+  Maiṅ din-e-Haq ke khatir maidan meiṅ ja raha huṅ
   Sabr o raza ke paikar ab laut jao Baba
   Haye Maula haye haye Maula
 
   8
   Ae Aamir aur Fakhri tha hashr ka nazara
-  Dil thaam ke jo ran mein Shabbir ne pukara
-  Ae mere laal Akbar main kaise laut jauṅ
+  Dil thaam ke jo ran meiṅ Shabbir ne pukara
+  Ae mere laal Akbar maiṅ kaise laut jauṅ
   Akbar pukare ro kar ab laut jao Baba
-  Bole ye Sheh tarap kar main kaise laut jauṅ
+  Bole ye Sheh tarap kar maiṅ kaise laut jauṅ
 # editorial_uncertainty: Archived Urdu omits 'se' in stanza one and 'Baba' in stanza five; stanza seven has میدان/میداں disagreement. Existing readings retained pending audio/print verification.
 # source_id: nohayonline:ead7854d15aa69d33f95
 # source_url: https://www.nohayonline.com/details_content.php?id=2436

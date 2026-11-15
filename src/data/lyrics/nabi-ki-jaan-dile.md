@@ -17,8 +17,8 @@ romanLyrics: |-
   Bahaao ashk ke Sarwar ka aaj chehlum hai
 
   1
-  Jhulasti ret pe afsos pyaas mein tarpa
-  Shahid ho gaya maqtal mein phul sa bachcha
+  Jhulasti ret pe afsos pyaas meiṅ tarpa
+  Shahid ho gaya maqtal meiṅ phul sa bachcha
   Usi Husain ke dilbar ka aaj chehlum hai
 
   2
@@ -27,13 +27,13 @@ romanLyrics: |-
   Hamaare mohsin o yaawar ka aaj chehlum hai
 
   3
-  Wo jis ne raah-e-Khuda mein kata diya sar ko
-  Wo jis ne raah-e-Khuda mein luta diya ghar ko
+  Wo jis ne raah-e-Khuda meiṅ kata diya sar ko
+  Wo jis ne raah-e-Khuda meiṅ luta diya ghar ko
   Us Ibn-e-Saaqi-e-Kausar ka aaj chehlum hai
 
   4
   Zamin roti hai aansu baha raha hai falak
-  Libaas-e-gham mein pareshaaṅ sabhi hai jinn o malak
+  Libaas-e-gham meiṅ pareshaaṅ sabhi hai jinn o malak
   Ye ro ke kehte haiṅ dilbar ka aaj chehlum hai
 
   5
@@ -42,13 +42,13 @@ romanLyrics: |-
   Musibatoṅ ke samandar ka aaj chehlum hai
 
   6
-  Wo jis ki laash ko raunda sitam ne maqtal mein
-  Wo jis ki bewa bahaati thi ashk jangal mein
+  Wo jis ki laash ko raunda sitam ne maqtal meiṅ
+  Wo jis ki bewa bahaati thi ashk jangal meiṅ
   Yatim saani-e-Shabbar ka aaj chehlum hai
 
   7
-  Har ek khwaab baha zulm ki rawaani mein
-  Sinaaṅ kaleje pe khaayi bhari jawaani mein
+  Har ek khwaab baha zulm ki rawaani meiṅ
+  Sinaaṅ kaleje pe khaayi bhari jawaani meiṅ
   Husain ke usi Akbar ka aaj chehlum hai
 
   8

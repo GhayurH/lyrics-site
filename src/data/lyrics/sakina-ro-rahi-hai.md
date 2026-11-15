@@ -15,27 +15,27 @@ romanLyrics: |-
   Dar-e-zindaaṅ par tanha Sakina ro rahi hai
 
   1
-  Mujhe ab nind bhi aati nahiṅ is qaid khaane mein
-  Guzarte haiṅ mere din raat ab aansu bahaane mein
+  Mujhe ab nind bhi aati nahiṅ is qaid khaane meiṅ
+  Guzarte haiṅ mere din raat ab aansu bahaane meiṅ
   Ae baba aap ki dukhiya Sakina ro rahi hai
 
   2
-  Safar ki khaak hai sar mein lahu kaanoṅ se jaari hai
-  Andhera hi andhera hai fiza mein sogwaari hai
+  Safar ki khaak hai sar meiṅ lahu kaanoṅ se jaari hai
+  Andhera hi andhera hai fiza meiṅ sogwaari hai
   Nikal jaaye na dam mera Sakina ro rahi hai
 
   3
-  Bahut bechain rehti huṅ main baba se juda ho kar
-  Main baba ko bataauṅ gi sitam tute haiṅ jo mujh par
+  Bahut bechain rehti huṅ maiṅ baba se juda ho kar
+  Maiṅ baba ko bataauṅ gi sitam tute haiṅ jo mujh par
   Kaho baba se ae bhaiya Sakina ro rahi hai
 
   4
   Mujhe hai yaad ke mujhko wo sine pe sulaate the
-  Main jab bechain hoti thi kaleje se lagaate the
+  Maiṅ jab bechain hoti thi kaleje se lagaate the
   Kahaaṅ ab baap ka sina Sakina ro rahi hai
 
   5
-  Safar ki daastaaṅ tum ko main ro ro kar sunaauṅ gi
+  Safar ki daastaaṅ tum ko maiṅ ro ro kar sunaauṅ gi
   Rasan ke aur tamaanchoṅ ke nishaaṅ tum ko dikhaauṅ gi
   Koi bhi ab nahiṅ aata Sakina ro rahi hai
 

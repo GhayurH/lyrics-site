@@ -17,28 +17,28 @@ romanLyrics: |-
 
   1
   Shab-e-awwal-e-Moharram
-  Meri aankhoṅ mein nami
+  Meri aankhoṅ meiṅ nami
   Qurban tere sog pe
   Mere maula har khushi
-  Meri saansoṅ mein aza
-  Meri dhadkan mein buka
+  Meri saansoṅ meiṅ aza
+  Meri dharkan meiṅ buka
   Tera gham gham-e-Karbala
   Keh rahi hai ye chashm-e-nam
   Salam bar Moharram
 
   2
   Tumheiṅ to pata hai maula
-  Gunahgaar huṅ main maula
+  Gunahgaar huṅ maiṅ maula
   Har ek waqt har ek lamha
-  Khataaoṅ mein huṅ main duba
+  Khataaoṅ meiṅ huṅ maiṅ duba
   Magar jab Moharram aaya
-  Teri simt main laut aaya
-  Khatakaar huṅ main beshak
-  Magar huṅ main banda tera
+  Teri simt maiṅ laut aaya
+  Khatakaar huṅ maiṅ beshak
+  Magar huṅ maiṅ banda tera
   Ye sab kuch teri hi ataa hai
   Hameiṅ ye mahina mila hai
   Faqat ek aansu pe hi
-  Makan khuld mein paaya hai
+  Makan khuld meiṅ paaya hai
   Tera jo gham mila na koi gham raha
   Ae Shah-e-Karbala dil ne di ye sada
   Salam bar maah-e-Husaini
@@ -46,7 +46,7 @@ romanLyrics: |-
 
   3
   Julus-e-aza-e-Husaini
-  Jahaaṅ mein bapa hai paiham
+  Jahaaṅ meiṅ bapa hai paiham
   Alamdar-e-Karbobala ka
   Qiyaadat hai karta parcham
   Mukhalif tha saara aalam
@@ -87,12 +87,12 @@ romanLyrics: |-
   Qayamat hui thi barpa
   Musalle pe tiroṅ ke tha
   Shah-e-Karbala ka laasha
-  Buka kar rahi thi ran mein
+  Buka kar rahi thi ran meiṅ
   Are baal khole Zahra
   Ye gham Karbala ka gham hai
   Bapa is liye matam hai
   Nabi o Ali Zahra ki
-  Hui aankh is mein nam hai
+  Hui aankh is meiṅ nam hai
   Qatl-e-shah-e-umam kaisa hua sitam
   Ta hashr bhi ye gham na ho sakega kam
   Salam bar gham-e-Karbala
@@ -100,19 +100,19 @@ romanLyrics: |-
 
   6
   Moharram ka aisa asar hai
-  Zehn mein wohi manzar hai
+  Zehn meiṅ wohi manzar hai
   Hai behta hua ek darya
   To pyasa koi lashkar hai
   Ke bikhri hui laasheiṅ hai
   To chinti hui chadar hai
   Jala Fatema ka ghar hai
-  Jahaaṅ mein bapa mahshar hai
+  Jahaaṅ meiṅ bapa mahshar hai
   Kahiṅ pe kate baazu haiṅ
-  Lahu mein kahiṅ gesu haiṅ
+  Lahu meiṅ kahiṅ gesu haiṅ
   Ye ujre hue pardesi
-  Har ek aankh mein aansu hai
+  Har ek aankh meiṅ aansu hai
   Kaisi hui jafa Zehra ka ghar luta
-  Usi ki yaad mein jaari hai silsila
+  Usi ki yaad meiṅ jaari hai silsila
   Salam bar Aal-e-Sayyeda
   Salam bar Moharram
 

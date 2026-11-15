@@ -1,6 +1,6 @@
 ---
 title: "زندان میں کرتی تھی فغاں شاہ کی دختر"
-alternateTitle: "Zindaan Mein Karti"
+alternateTitle: "Zindaan Meiṅ Karti"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,20 +11,20 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zindaan mein karti thi fughaaṅ shaah ki dukhtar
+  Zindaan meiṅ karti thi fughaaṅ shaah ki dukhtar
   Jald aaiye Baba
-  Mar jaayegi is qaid mein ab aap ki dukhtar
+  Mar jaayegi is qaid meiṅ ab aap ki dukhtar
   Jald aaiye Baba
 
   1
-  Baba mera bhaai hai musibat mein giraftaar
+  Baba mera bhaai hai musibat meiṅ giraftaar
   Hai bekas o naachaar
   Bimaar pe dhaate haiṅ bohat zulm sitamgar
   Jald aaiye Baba
 
   2
-  Darbaar mein kya haal tha main kaise bataauṅ
-  Kya kya main sunaauṅ
+  Darbaar meiṅ kya haal tha maiṅ kaise bataauṅ
+  Kya kya maiṅ sunaauṅ
   Rudaad-e-safar bhi zara sun jaaiye aa kar
   Jald aaiye Baba
 
@@ -49,7 +49,7 @@ romanLyrics: |-
   6
   Roti hui dunya se qaza kar gayi kamsin
   Kya hashr tha Mohsin
-  Aabid ne kaha qabr mein hamshir ko rakh kar
+  Aabid ne kaha qabr meiṅ hamshir ko rakh kar
   Jald aaiye Baba
 # source_id: nohayonline:54b24746503d653bbd35
 # source_url: https://www.nohayonline.com/details_content.php?id=3326

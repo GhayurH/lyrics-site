@@ -14,7 +14,7 @@ romanLyrics: |-
   Shab-e-Aashur ye Shabbir ne kaha Zainab se
   Ae behen Zainab ae behen Zainab
 
-  Bhai ki laash pe maqtal mein jo aana Zainab
+  Bhai ki laash pe maqtal meiṅ jo aana Zainab
   Ho sake to meri bachchi ko na laana Zainab
 
   1
@@ -28,9 +28,9 @@ romanLyrics: |-
   Badle lega mere tum se ye zamaana Zainab
 
   3
-  Raat mein uthte haiṅ is dar ke janaaze Bibi
+  Raat meiṅ uthte haiṅ is dar ke janaaze Bibi
   Sar se chaadar jo chhini tum bhi to mar jaaogi
-  Tum andhere mein mere laashe pe aana Zainab
+  Tum andhere meiṅ mere laashe pe aana Zainab
 
   4
   Shimr jis waqt chalaaye meri gardan pe chhuri
@@ -39,7 +39,7 @@ romanLyrics: |-
 
   5
   Kahiṅ Abbaas na sun le meri baateiṅ ye behen
-  Haath woh chum luṅ bandh jaayegi kal jin mein rasan
+  Haath woh chum luṅ bandh jaayegi kal jin meiṅ rasan
   Zara kuchh der charaaghoṅ ko bujhaana Zainab
 
   6
@@ -49,13 +49,13 @@ romanLyrics: |-
 
   7
   Ek ehsaan ye karna ae mere Baba ki jaaṅ
-  Is baras aaye Madine mein jo gyaarah Shaabaan
+  Is baras aaye Madine meiṅ jo gyaarah Shaabaan
   Farsh-e-majlis Ali Akbar ka bichhaana Zainab
 
   8
   Shab-e-Aashur ki majlis thi Takallum jaari
   Chup hue kah ke ye Shabbir behen se apni
-  Tum ko baazaar mein beparda hai jaana Zainab
+  Tum ko baazaar meiṅ beparda hai jaana Zainab
 # source_id: nohayonline:2b7ef7e82bf515462e25
 # source_url: https://www.nohayonline.com/details_content.php?id=2841
 # raw_sha256: 74e9c6c8e4cb795969150829ccaacd5d6097cec7e68ccb5e21aeee301f22ff22

@@ -12,15 +12,15 @@ aliases: []
 published: true
 romanLyrics: |-
   Baap ko rote rote Sakina
-  Aaj zindaaṅ mein so gai hai
+  Aaj zindaaṅ meiṅ so gai hai
 
   1
   Puchha logoṅ ne Aabid se aa kar
-  Hai ye zindaaṅ mein shor kaisa
+  Hai ye zindaaṅ meiṅ shor kaisa
   Hum pe tuti hai phir ik qayamat
   Ro ke Aabid ne bas ye bataaya
   Wo jo raatoṅ ko karti thi nauha
-  Aaj zindaaṅ mein so gai hai
+  Aaj zindaaṅ meiṅ so gai hai
 
   2
   Zabt karti rahi apna girya
@@ -28,39 +28,39 @@ romanLyrics: |-
   Jab se chhuta hai baba ka sina
   Ek lamha bhi soi nahiṅ thi
   Baap ke muṅh pe muṅh rakh ke dukhiya
-  Aaj zindaaṅ mein so gai hai
+  Aaj zindaaṅ meiṅ so gai hai
 
   3
   Sar shahidoṅ ke jis waqt aaye
-  Qaid khaane mein tha shor-e-maatam
+  Qaid khaane meiṅ tha shor-e-maatam
   Baap ke sar ko sine laga kar
   Aise roi laboṅ par ruka dam
   Maaṅ ye samjhi ke jaagi hazina
-  Aaj zindaaṅ mein so gai hai
+  Aaj zindaaṅ meiṅ so gai hai
 
   4
   Khuṅ bhara ik kurta kafan hai
   Ghusl ashkoṅ se hi is ko duṅ ga
   Log apne na apna watan hai
-  Is gharibi mein bhaai kare kya
+  Is gharibi meiṅ bhaai kare kya
   Bekafan baap ki ye yatima
-  Aaj zindaaṅ mein so gai hai
+  Aaj zindaaṅ meiṅ so gai hai
 
   5
-  Qabr mein kaise is ko utaaruṅ
-  Dast o paa mere zanjir mein hai
+  Qabr meiṅ kaise is ko utaaruṅ
+  Dast o paa mere zanjir meiṅ hai
   Sab ko samjha gai meri behna
-  Aur bhi zakhm taqdir mein hai
-  Ji raha huṅ main aur meri behna
-  Aaj zindaaṅ mein so gai hai
+  Aur bhi zakhm taqdir meiṅ hai
+  Ji raha huṅ maiṅ aur meri behna
+  Aaj zindaaṅ meiṅ so gai hai
 
   6
   Likhte likhte tarapta hai Mazhar
   Bain Bano ke aise the Safdar
   Shaam ki auratoṅ se ye boli
   Ik diya tum jala dena aa kar
-  Is andhere mein ro ro ke dukhiya
-  Aaj zindaaṅ mein so gai hai
+  Is andhere meiṅ ro ro ke dukhiya
+  Aaj zindaaṅ meiṅ so gai hai
 # source_id: nohayonline:7f49097654260ad22451
 # source_url: https://www.nohayonline.com/details_content.php?id=2290
 # raw_sha256: c4969e953a5268f8a7ba1fb798d45c5d6b3070b1b2523635e7d58847cb0f506e

@@ -1,6 +1,6 @@
 ---
 title: "کیسے چلے حسین کا بیمار دھوپ میں"
-alternateTitle: "Bemaar Dhup Mein"
+alternateTitle: "Bemaar Dhup Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,48 +11,48 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Kaise chale Husain ka bemaar dhup mein
-  Aao madad ko Haidar-e-Karraar dhup mein
+  Kaise chale Husain ka bemaar dhup meiṅ
+  Aao madad ko Haidar-e-Karraar dhup meiṅ
 
   1
   Rasta bara tawil hai zakhmi haiṅ eriyaaṅ
   Zanjir itni garm hai jalti haiṅ pindliyaaṅ
-  Jhulsa raha hai tauq-e-giraaṅ baar dhup mein
+  Jhulsa raha hai tauq-e-giraaṅ baar dhup meiṅ
 
   2
   Chhirkaao karte jaate haiṅ aansu Husain ke
   Pairoṅ ko kuchh sukun mile nur-e-ain ke
-  Be saayabaaṅ hai qaafila saalaar dhup mein
+  Besaayabaaṅ hai qaafila saalaar dhup meiṅ
 
   3
   Na mahramoṅ ki bhir hai chehra nidhaal hai
-  Phuphiyoṅ ki be ridaai ka kitna malaal hai
-  Aata hai ghash mariz ko har baar dhup mein
+  Phuphiyoṅ ki beridaai ka kitna malaal hai
+  Aata hai ghash mariz ko har baar dhup meiṅ
 
   4
   Zakhmi hai saara jism ghamoṅ ki sataai ka
-  Dil kaanp kaanp jaata hai sine mein bhai ka
-  Durre laiṅ Sakina ke mat maar dhup mein
+  Dil kaanp kaanp jaata hai sine meiṅ bhai ka
+  Durre laiṅ Sakina ke mat maar dhup meiṅ
 
   5
-  Abid ke paauṅ raah mein chhaaloṅ se bhar gaye
+  Abid ke paauṅ raah meiṅ chhaaloṅ se bhar gaye
   Jalti zamiṅ ne saath na chhora jidhar gaye
-  Aisa hua nasib giraftaar dhup mein
+  Aisa hua nasib giraftaar dhup meiṅ
 
   6
   Kam kar le tu hi apni tamaazat ko aaftaab
-  Dena parega hashr mein pesh-e-Khuda jawaab
-  Hai saath bint-e-Ahmad-e-Mukhtaar dhup mein
+  Dena parega hashr meiṅ pesh-e-Khuda jawaab
+  Hai saath bint-e-Ahmad-e-Mukhtaar dhup meiṅ
 
   7
   Naize pe sar Husain ka is gham se hai udaas
   Koi nahiṅ hai Abid-e-muztar ke aas paas
-  Ek ghamzada phuphi hai madadgaar dhup mein
+  Ek ghamzada phuphi hai madadgaar dhup meiṅ
 
   8
   Mushkil bari hai Aamir o Akhtar mariz par
-  Hanste haiṅ raastoṅ mein sitamgar mariz par
-  Hai ab to saans lena bhi dushwaar dhup mein
+  Hanste haiṅ raastoṅ meiṅ sitamgar mariz par
+  Hai ab to saans lena bhi dushwaar dhup meiṅ
 # source_id: nohayonline:321ff45e6412eebc96cb
 # source_url: https://www.nohayonline.com/details_content.php?id=1802
 # raw_sha256: 02a3d9140806532322a54751a452b1560b933697d175f078834fb379922fa0a1

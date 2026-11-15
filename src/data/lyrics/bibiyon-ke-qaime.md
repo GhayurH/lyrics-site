@@ -17,10 +17,10 @@ romanLyrics: |-
   Bibiyoṅ ke khaime
 
   1
-  Jab kharidi zamin Shah ne pardes mein
-  Zulm ke des mein
+  Jab kharidi zamin Shah ne pardes meiṅ
+  Zulm ke des meiṅ
   The darinde wahaaṅ chaar jaanib khare
-  Khair ke bes mein
+  Khair ke bes meiṅ
   Jab se Abbas se Alqama par lage
   Gulistaan ban gaye Bibiyoṅ ke khaime
 
@@ -29,13 +29,13 @@ romanLyrics: |-
   Kaanpti thi fiza
   Jaise pehra ho khaimoṅ pe ek sher ka
   Dur the ashqiya
-  Haashmi chaand ke nur ki chhaaṅoṅ mein
+  Haashmi chaand ke nur ki chhaaṅoṅ meiṅ
   Jagmagaate rahe Bibiyoṅ ke khaime
 
   3
   Bibiyoṅ ke jo khaime the salli ala
   Yuṅ bani khaimagaah
-  Ek ek taar tha un mein tathir ka
+  Ek ek taar tha un meiṅ tathir ka
   Aa gayi Sayyeda
   Saut-e-Quraaṅ se thi muattar fiza
   Kitne purnur the Bibiyoṅ ke khaime
@@ -46,7 +46,7 @@ romanLyrics: |-
   4
   Phir hua yuṅ ke darya ki jaanib bari
   Fauj-e-kuffaar ki
-  Aur udhar tegh-e-Abbas ne kheench li
+  Aur udhar tegh-e-Abbas ne khinch li
   Jang hone ko thi
   Hukm-e-Shah pe magar dur Abbas ne
   Nehr se kar diye Bibiyoṅ ke khaime
@@ -78,14 +78,14 @@ romanLyrics: |-
   8
   Subh-e-Aashur Akbar ne di jo azaaṅ
   Thi qayaamat bapa
-  Asr tak khuṅ se dasht mein bichh gaya
+  Asr tak khuṅ se dasht meiṅ bichh gaya
   Haaye farsh-e-aza
-  Bibiyaṅ reh gayiṅ berida dasht mein
+  Bibiyaṅ reh gayiṅ berida dasht meiṅ
   Aur jalaaye gaye Bibiyoṅ ke khaime
 
   9
   Pehra dene ko Rehaan Bint-e-Ali
-  Dasht mein reh gayi
+  Dasht meiṅ reh gayi
   Pursa dene Raza aaye Maula Ali
   Kaanpti thi zamiṅ
   Jal gaye the magar raah-e-Abbas ki

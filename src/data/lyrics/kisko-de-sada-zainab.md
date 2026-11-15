@@ -12,9 +12,9 @@ aliases: []
 published: true
 romanLyrics: |-
   Jab laasha-e-farzand-e-Nabi ho gaya paamaal
-  Us waqt ajab haal mein thi Faatima ki aal
+  Us waqt ajab haal meiṅ thi Faatima ki aal
   Taarikh ne kuch is tarha likha hai wo ahwaal
-  Sab Bibiyoṅ mein ek tha Bibi ka bura haal
+  Sab Bibiyoṅ meiṅ ek tha Bibi ka bura haal
   Bechaini se aati thi dar-e-khaime pe har baar
   Bachchoṅ ko samete hue kehti thi dilafgaar
 
@@ -47,7 +47,7 @@ romanLyrics: |-
   4
   Karti hai Rubaab ye fughaaṅ
   Hone ko hai raat ab ayaaṅ
-  Ran mein hai hamaara bezubaaṅ
+  Ran meiṅ hai hamaara bezubaaṅ
   Le ke aaye us ko bhaai jaaṅ
 
   5
@@ -64,8 +64,8 @@ romanLyrics: |-
 
   7
   Kin jafaaoṅ ka ho tazkira
-  Shaam-e-gham mein Aal-e-Mustafa
-  Ho gayi ghamoṅ mein mubtila
+  Shaam-e-gham meiṅ Aal-e-Mustafa
+  Ho gayi ghamoṅ meiṅ mubtila
   Lab pe thi Anis ye bukaa
 # source_id: nohayonline:cb7ea937bfc051773047
 # source_url: https://www.nohayonline.com/details_content.php?id=388

@@ -11,7 +11,7 @@ tags: []
 aliases: ["Ayyame Ali"]
 published: true
 romanLyrics: |-
-  Shioṅ mein aaj kal ye qayaamat ke roz haiṅ
+  Shioṅ meiṅ aaj kal ye qayaamat ke roz haiṅ
   Duniya se Bu Turaab ke rukhsat ke roz haiṅ
   Yaaroṅ saroṅ ko pito ye zarbat ke roz haiṅ
   Ro lo ke ye Ali ki shahaadat ke roz haiṅ
@@ -23,10 +23,10 @@ romanLyrics: |-
   Aa gaye ayyaam-e-Ali aa gaye
 
   1
-  Kaale libaasoṅ mein hai Ahl-e-Aza ki fughaaṅ
+  Kaale libaasoṅ meiṅ hai Ahl-e-Aza ki fughaaṅ
   Yaum-e-shahaadat ki sab karte haiṅ tayyaariyaaṅ
   Yaad kare maatami aap ki tanhaaiyaaṅ
-  Farsh-e-aza ghar mein bichhaane lage
+  Farsh-e-aza ghar meiṅ bichhaane lage
 
   2
   Taari abhi se hua hai shab-e-zarbat ka gham
@@ -37,8 +37,8 @@ romanLyrics: |-
   3
   Majliseṅ ghar ghar bapa ho gayi ya Sayyidi
   Nikle julus-e-aza aaj gali dar gali
-  Aap ke gham mein hua saara jahaaṅ maatami
-  Aayi sada ye dar o deewar se
+  Aap ke gham meiṅ hua saara jahaaṅ maatami
+  Aayi sada ye dar o diwar se
 
   4
   Haaye wo unniswiṅ aayi jo gham ki sahar
@@ -54,7 +54,7 @@ romanLyrics: |-
 
   6
   Saamne taabut ka aa gaya saamaan jab
-  Barhne laga aur bhi sine mein ranj o taab
+  Barhne laga aur bhi sine meiṅ ranj o taab
   Dil kahe besaakhta haaye Amir-e-Arab
   Baat yehi khun rulaaye mujhe
 
@@ -62,7 +62,7 @@ romanLyrics: |-
   Maisam o Mazhar bhi hai bar sar-e-farsh-e-aza
   Aap ke ghar waaloṅ ko donoṅ ne pursa diya
   Aap ke taabut par ham ne ye nauha parha
-  Dard mein dube hue ashaar se
+  Dard meiṅ dube hue ashaar se
 # source_id: nohayonline:441f0493f0917071bb29
 # source_url: https://www.nohayonline.com/details_content.php?id=2424
 # raw_sha256: a4f8f84cf51af9c6c7a0e50a78a10736fb3f1b63d1699d2740a64bf0666ad23b

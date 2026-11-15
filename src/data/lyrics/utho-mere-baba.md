@@ -15,13 +15,13 @@ romanLyrics: |-
 
   1
   Tumheṅ aaj kaise ye nind aa gayi hai
-  Jo khaimoṅ mein barpa qayaamat hui hai
-  Bahut sakht mushkil mein meri phuphi hai
+  Jo khaimoṅ meiṅ barpa qayaamat hui hai
+  Bahut sakht mushkil meiṅ meri phuphi hai
   Sakina tarap kar sada de rahi hai
 
   2
-  Ye maqtal mein ro ro pukaari Sakina
-  Liye dil mein ek zakhm-e-kaari Sakina
+  Ye maqtal meiṅ ro ro pukaari Sakina
+  Liye dil meiṅ ek zakhm-e-kaari Sakina
   Hai karti yehi aah o zaari Sakina
   Aziyat bahut hai bahut tashnagi hai
 
@@ -29,17 +29,17 @@ romanLyrics: |-
   Sitamgar ne durroṅ se zakhmi kiya hai
   Tamaachoṅ se rukhsaar nila para hai
   Lahu mere kaanoṅ se bhi beh raha hai
-  Meri zindagi khuṅ mein dubi hui hai
+  Meri zindagi khuṅ meiṅ dubi hui hai
 
   4
-  Bahut muntazir hai Madine mein Sughra
+  Bahut muntazir hai Madine meiṅ Sughra
   Mera bhai Akbar banega jo dulha
   To luṅgi balaayeṅ utaaruṅgi sadqa
-  Udhar dil mein Akbar ke barchhi lagi hai
+  Udhar dil meiṅ Akbar ke barchhi lagi hai
 
   5
   Na shikwa chacha se na shikwa hai Rab se
-  Main pyaasi huṅ baba kayi roz o shab se
+  Maiṅ pyaasi huṅ baba kayi roz o shab se
   Maza kya hai paani ka bhuli huṅ kab se
   Ajab badnasibi ajab tashnagi hai
 
@@ -52,8 +52,8 @@ romanLyrics: |-
   7
   Adu ki nazar se bachaayegi behna
   Lagaayegi kaajal utaaregi sadqa
-  Ye kya ho gaya khuṅ mein duba hai kurta
-  Teri raah khaime mein maaṅ dekhti hai
+  Ye kya ho gaya khuṅ meiṅ duba hai kurta
+  Teri raah khaime meiṅ maaṅ dekhti hai
 
   8
   Hai badli hui aaj chehre ki rangat

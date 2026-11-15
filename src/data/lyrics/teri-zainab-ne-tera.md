@@ -20,7 +20,7 @@ romanLyrics: |-
   2
   Tere dushman ki raunaq ko mitaane ke liye
   Aur sote hue zehnoṅ ko jagaane ke liye
-  Main ne khutba sar-e-darbaar sunaaya Naana
+  Maiṅ ne khutba sar-e-darbaar sunaaya Naana
 
   3
   Naana Zainab teri jis shehr ki shahzaadi thi
@@ -34,8 +34,8 @@ romanLyrics: |-
 
   5
   Ye mila ajr musalmaanoṅ se batlaauṅ gi
-  Aur ye zakhm main Ammaaṅ ko hi dikhlaauṅ gi
-  Main ne baazu ka nishaaṅ sab se chhupaaya Naana
+  Aur ye zakhm maiṅ Ammaaṅ ko hi dikhlaauṅ gi
+  Maiṅ ne baazu ka nishaaṅ sab se chhupaaya Naana
 # source_id: nohayonline:57980d50d4fe2692b1d1
 # source_url: https://www.nohayonline.com/details_content.php?id=1919
 # raw_sha256: 4533e0f885c68b4e8cbea4a6422da03c6b9f364468d547cc63656b6751f920e2

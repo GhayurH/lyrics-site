@@ -1,6 +1,6 @@
 ---
 title: "صحرا میں پارہ پارہ نوشاہِ کربلا ہے"
-alternateTitle: "Sehra Mein Paara"
+alternateTitle: "Sehra Meiṅ Paara"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,15 +11,15 @@ tags: []
 aliases: ["Sehra May Paara"]
 published: true
 romanLyrics: |-
-  Sehra mein paara paara naushaah-e-Karbala hai
+  Sehra meiṅ paara paara naushaah-e-Karbala hai
 
   1
   Maula Hasan ka sam se tukre jigar hua hai
-  Ibn-e-Hasan ka ran mein tukre badan hua hai
+  Ibn-e-Hasan ka ran meiṅ tukre badan hua hai
   Kubra ki zindagi ka gulshan ujar chuka hai
 
   2
-  Khaime mein laash aai Ibn-e-Hasan ki jis dam
+  Khaime meiṅ laash aai Ibn-e-Hasan ki jis dam
   Kya guzri us dulhan par Allah jaanta hai
   Kubra ki zindagi ka gulshan ujar chuka hai
 
@@ -29,13 +29,13 @@ romanLyrics: |-
   Kubra ki zindagi ka gulshan ujar chuka hai
 
   4
-  Dard o alam ka tufaan Kubra ki zindagi mein
-  Shaadi ke baad haaye kuchh pal mein aa gaya hai
+  Dard o alam ka tufaan Kubra ki zindagi meiṅ
+  Shaadi ke baad haaye kuchh pal meiṅ aa gaya hai
   Kubra ki zindagi ka gulshan ujar chuka hai
 
   5
   Khaamosh hai zabaaṅ par aankheṅ bata rahi hai
-  Kubra ki zindagi mein kuchh bhi nahiṅ bacha hai
+  Kubra ki zindagi meiṅ kuchh bhi nahiṅ bacha hai
   Kubra ki zindagi ka gulshan ujar chuka hai
 
   6
@@ -44,23 +44,23 @@ romanLyrics: |-
   Kubra ki zindagi ka gulshan ujar chuka hai
 
   7
-  Ya Rab mujhe utha le ab ji ke kya karuṅ main
+  Ya Rab mujhe utha le ab ji ke kya karuṅ maiṅ
   Ik ghamzada dulhan ke hoṅtoṅ pe ye dua hai
   Kubra ki zindagi ka gulshan ujar chuka hai
 
   8
-  Jab tak hai zindagaani guzregi aansuoṅ mein
+  Jab tak hai zindagaani guzregi aansuoṅ meiṅ
   Dil ki zamiṅ pe aisa zakhmoṅ ka ghar basa hai
   Kubra ki zindagi ka gulshan ujar chuka hai
 
   9
-  Dard o alam mein aisi dubi hai zindagaani
+  Dard o alam meiṅ aisi dubi hai zindagaani
   Kubra ke haal par ab har koi ro raha hai
   Kubra ki zindagi ka gulshan ujar chuka hai
 
   10
-  Ehsaas ki siyaahi dil ke qalam mein bhar ke
-  Ibn-e-Hasan ka nauha main ne Fida likha hai
+  Ehsaas ki siyaahi dil ke qalam meiṅ bhar ke
+  Ibn-e-Hasan ka nauha maiṅ ne Fida likha hai
   Kubra ki zindagi ka gulshan ujar chuka hai
 # source_id: nohayonline:4ae2d4905e86502571d5
 # source_url: https://www.nohayonline.com/details_content.php?id=2891

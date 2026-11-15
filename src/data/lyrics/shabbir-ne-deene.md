@@ -1,6 +1,6 @@
 ---
 title: "شبیر نے دین حق کے لئے"
-alternateTitle: "Shabbir Ne Deene"
+alternateTitle: "Shabbir Ne Dine"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -13,7 +13,7 @@ romanLyrics: |-
   Shabbir ne din-e-haq ke liye
   Ghar bhar ko luta kar chhor diya
   Baano ke muqaddar ka taara
-  Turbat mein chhupa kar chhor diya
+  Turbat meiṅ chhupa kar chhor diya
 
   1
   Asghar ke liye betaab hui
@@ -31,13 +31,13 @@ romanLyrics: |-
   Mashkiza chhida maayus hui
   Majbur the aakhir kya karte
   Abbas ne apne dil ka lahu
-  Paani mein mila kar chhor diya
+  Paani meiṅ mila kar chhor diya
 
   4
-  Piri mein jawaaṅ ke laashe ko
+  Piri meiṅ jawaaṅ ke laashe ko
   Shabbir kahaaṅ tak le jaayeṅ
   Suraj ki tarah jab dil duba
-  Maqtal mein lita kar chhor diya
+  Maqtal meiṅ lita kar chhor diya
 
   5
   Tiroṅ se chamakte bhaaloṅ ne

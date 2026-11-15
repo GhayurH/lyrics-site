@@ -13,11 +13,11 @@ published: true
 romanLyrics: |-
   Ya Husain ya Husain ya Husain ya Husain
 
-  Aaj bhi Karbala mein Fatema ke bain
+  Aaj bhi Karbala meiṅ Fatema ke bain
   Ya Husain ya Husain ya Husain ya Husain
 
   1
-  Dasht mein ab tak hai mahw-e-girya o zaari lahu
+  Dasht meiṅ ab tak hai mahw-e-girya o zaari lahu
   Gardan-e-Shabbir se hai aaj bhi jaari lahu
   Ab bhi tiroṅ par hai laash-e-maalik-e-kaunain
 
@@ -28,12 +28,12 @@ romanLyrics: |-
 
   3
   Kund khanjar Shimr le kar jab teri jaanib barha
-  Main ne apna haath beta teri gardan par rakha
-  Main bacha na paayi tujh ko phir bhi nur-e-ain
+  Maiṅ ne apna haath beta teri gardan par rakha
+  Maiṅ bacha na paayi tujh ko phir bhi nur-e-ain
 
   4
   Tere laashe ko kuchalne jab sitamgar aaye the
-  Main ne laashe baawafa par bain ye farmaaye the
+  Maiṅ ne laashe baawafa par bain ye farmaaye the
   Mere bete ko bacha le ae wafa ki zain
 
   5
@@ -43,18 +43,18 @@ romanLyrics: |-
 
   6
   Tu ne kaandhoṅ par uthaaya laasha-e-karyal jawaaṅ
-  Qabr mein tu ne utaara Asghar-e-tashna dahan
+  Qabr meiṅ tu ne utaara Asghar-e-tashna dahan
   Yaani khaimoṅ aur maqtal ke raha maa bain
 
   7
   Ek din ae laal mere maujiza ho jaayega
   Ek taraf rauza tumhaara ek taraf Abbas ka
-  Karbala mein do baneṅ ge sabr ke harmain
+  Karbala meiṅ do baneṅ ge sabr ke harmain
 
   8
   Phir kaha Zehra ne Yasir hashr ke din aauṅ gi
   Tera kurta khuṅ bhara jab roz-e-mahshar laauṅ gi
-  Tere gham mein khud kahega maalik-e-daarain
+  Tere gham meiṅ khud kahega maalik-e-daarain
 # source_id: nohayonline:717e8119cc1c2a72e64e
 # source_url: https://www.nohayonline.com/details_content.php?id=2745
 # raw_sha256: b715d56e7b6e8bc1180df065a29f3ca13e9118aa04968bed3f798e362e2b5232

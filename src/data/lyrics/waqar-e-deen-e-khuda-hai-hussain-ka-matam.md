@@ -20,7 +20,7 @@ romanLyrics: |-
 
   2
   Yazid is se bari aur kya hai teri shikast
-  Ke tere ghar mein bapa hai Husain ka maatam
+  Ke tere ghar meiṅ bapa hai Husain ka maatam
 
   3
   Khuda Rasul farishte Imaam sab haiṅ wahaaṅ
@@ -43,8 +43,8 @@ romanLyrics: |-
   Jise khabar nahiṅ kya hai Husain ka maatam
 
   8
-  Wilaay-e-Aal-e-Nabi ki tarah se Mir Hasan
-  Mere lahu mein mila hai Husain ka maatam
+  Wilae-e-Aal-e-Nabi ki tarah se Mir Hasan
+  Mere lahu meiṅ mila hai Husain ka maatam
 # source_id: tajpoints:b13823693e04cb123168
 # source_url: https://tajpoints.com/2022/10/waqar-e-deen-e-khuda-hai-hussain-ka.html
 # raw_sha256: 51481a9980e961cc50f0557b05e05d6a2e6a05916dd2832ceea26907bd8b03ef

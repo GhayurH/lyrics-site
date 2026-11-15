@@ -16,17 +16,17 @@ romanLyrics: |-
 
   1
   Jo hai wohi saamaan-e-safar baandh raha hai
-  Lekin mera bistar use goshe mein para hai
+  Lekin mera bistar use goshe meiṅ para hai
   Mujh se ye hidaayat hai dawa waqt se khaana
 
   2
-  Hai saath mein Baba ke Chacha bhaai hamaare
+  Hai saath meiṅ Baba ke Chacha bhaai hamaare
   Suraj ke tarafdaar hai sab chaand sitaare
   Ab aaj se ghar ho ga andheroṅ ka thikaana
 
   3
   Bimaar huṅ lekin koi khatra to nahiṅ hai
-  Main raah mein mar jaauṅ gi aisa to nahiṅ hai
+  Maiṅ raah meiṅ mar jaauṅ gi aisa to nahiṅ hai
   Dhunda hai mujhe chhor ke jaane ka bahaana
 
   4
@@ -35,28 +35,28 @@ romanLyrics: |-
   Le jaane pe Sughra ko magar koi na maana
 
   5
-  Pardes mein bhi mere liye sochte rehna
+  Pardes meiṅ bhi mere liye sochte rehna
   Khat bhej ke tum sab ki khabar bhejte rehna
   Is chaahne waali ko ziyaada na rulaana
 
   6
-  Dil ke kisi goshe mein mera naam bhi likh lo
+  Dil ke kisi goshe meiṅ mera naam bhi likh lo
   Phir jis ko bhi chaaho use ji jaan se chaaho
   Lekin mere hisse ki mohabbat na lutaana
 
   7
-  Main koi bhi zahmat tumheiṅ hone nahiṅ duṅ gi
+  Maiṅ koi bhi zahmat tumheiṅ hone nahiṅ duṅ gi
   Aankheiṅ to alag dil ko bhi rone nahiṅ duṅ gi
   Tum mere taraf se koi sadma na uthaana
 
   8
-  Kuch din mein mera bhaai ho jab bolne waala
-  De dena ishaaroṅ mein use mera hawaala
+  Kuch din meiṅ mera bhaai ho jab bolne waala
+  De dena ishaaroṅ meiṅ use mera hawaala
   Bechain agar ho to use ziyaada na bataana
 
   9
-  Tanhaai dade had se to bhulwa na sakuṅ main
-  Ya aana bhi chaahuṅ kabhi aa na sakuṅ main
+  Tanhaai dade had se to bhulwa na sakuṅ maiṅ
+  Ya aana bhi chaahuṅ kabhi aa na sakuṅ maiṅ
   Bas itni guzaarish hai kahiṅ dur na jaana
 
   10
@@ -65,7 +65,7 @@ romanLyrics: |-
   Apnoṅ ki tarah bhul gaya mujh ko zamaana
 
   11
-  Di laakh Suroor us ne na jaane ki duhaai
+  Di laakh Surur us ne na jaane ki duhaai
   Bimaar kisi ko bhi magar rok na paai
   Ashkoṅ ki tarah ho gae sab log rawaana
 # source_id: nohayonline:19ceb5eedfdd44b8830c

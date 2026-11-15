@@ -15,7 +15,7 @@ romanLyrics: |-
 
   Maatami mujh ko banaaya aap ne mazlum ka
   Shukriya ya Fatema
-  Meri mitti mein bhi rakh di aap ne khaak-e-shifa
+  Meri mitti meiṅ bhi rakh di aap ne khaak-e-shifa
   Shukriya ya Fatema
 
   1
@@ -25,7 +25,7 @@ romanLyrics: |-
   Shukriya ya Fatema
 
   2
-  Dil bhatakta tha mera duniya ke gham mein dar ba dar
+  Dil bhatakta tha mera duniya ke gham meiṅ dar ba dar
   Aap ne kar ke meri kotaahiyoṅ ko dar guzar
   Bakhshwane ke liye karbobala bulwa liya
   Shukriya ya Fatema
@@ -37,25 +37,25 @@ romanLyrics: |-
   Shukriya ya Fatema
 
   4
-  Jab bandhi gardan mein rassi Shaah-e-Khaibar-gir ke
+  Jab bandhi gardan meiṅ rassi Shaah-e-Khaibar-gir ke
   Apne waali ko bachaaya zaalimoṅ se aap ne
   Hashr tak Haider ke lab par hai tabhi ye marsiya
   Shukriya ya Fatema
 
   5
   Ehtiraam-e-Fatema ka ye mila us ko sila
-  Us ka qad bhi ambiya se ek lamha mein barha
+  Us ka qad bhi ambiya se ek lamha meiṅ barha
   Rukh baqayya ki taraf kar ke yahi Hur ne di sada
   Shukriya ya Fatema
 
   6
-  Jaa ke balwe mein bachaaya ismat-e-Shabbir ko
+  Jaa ke balwe meiṅ bachaaya ismat-e-Shabbir ko
   Tarbiyat yuṅ aap ne di Zainab-e-dilgir ko
   Meri bahnoṅ ko bhi parde ka saliqa aa gaya
   Shukriya ya Fatema
 
   7
-  Jab suni maaṅ ne Madine mein ye Zainab se khabar
+  Jab suni maaṅ ne Madine meiṅ ye Zainab se khabar
   Ho gaye Shabbir pe qurbaan us ke sab pisar
   Kah ke ye Ummul Banin ne shukr ka sajda kiya
   Shukriya ya Fatema

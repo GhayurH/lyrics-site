@@ -12,7 +12,7 @@ aliases: ["Nadan Ali Asghar"]
 published: true
 romanLyrics: |-
   Naadaaṅ Ali Asghar mere
-  Tanhaai mein hona na pareshaaṅ Ali Asghar
+  Tanhaai meiṅ hona na pareshaaṅ Ali Asghar
   Naadaaṅ Ali Asghar
 
   1
@@ -27,7 +27,7 @@ romanLyrics: |-
 
   3
   Takte haiṅ teri raah Ali aur Payambar
-  Islaam bachaana hai tumheiṅ khuṅ mein naha kar
+  Islaam bachaana hai tumheiṅ khuṅ meiṅ naha kar
   Hona hai tujhe din pe qurbaaṅ Ali Asghar
 
   4
@@ -47,11 +47,11 @@ romanLyrics: |-
 
   7
   Tujh ko na mila dudh na ik bund bhi paani
-  Roye gi teri yaad mein darya ki rawaani
+  Roye gi teri yaad meiṅ darya ki rawaani
   Jaaṅ tum hai qurbaan teri maaṅ Ali Asghar
 
   8
-  Nauha parhe jab tere Nazeer gham mein tarap kar
+  Nauha parhe jab tere Nazir gham meiṅ tarap kar
   Maatam kare har ahl-e-aza ashk baha kar
   Hai aashiq-e-naachiz ke armaan Ali Asghar
 # source_id: nohayonline:2b18551d843ade76d82e

@@ -34,10 +34,10 @@ romanLyrics: |-
   4
   Badan tha zakhmoṅ se chur itna
   Muhaal ghore pe tha sambhalna
-  Tanha hai ran mein mera biraadar
+  Tanha hai ran meiṅ mera biraadar
 
   5
-  Akele maqtal mein Shaah-e-diṅ hai
+  Akele maqtal meiṅ Shaah-e-diṅ hai
   Aur un ko gehre hue laiṅ hai
   Kahaaṅ ho Qaasim kahaaṅ ho Akbar
 
@@ -52,7 +52,7 @@ romanLyrics: |-
   Phirenge hum sar barehna dar dar
 
   8
-  Jo khun mein dube pare haiṅ laashe
+  Jo khun meiṅ dube pare haiṅ laashe
   Wo baawafa naasiraan-e-Shah ke
   Sadaaeṅ dete haiṅ wo bahattar
 # source_id: nohayonline:a1545310bb1280c8d382

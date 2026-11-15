@@ -22,8 +22,8 @@ romanLyrics: |-
   1
   Shaam-e-Gharibaṅ se kuchh pehle
   Jhula chaadar bistar tha
-  Pehlu mein hamshakl-e-Payambar
-  God mein maaṅ ki Asghar tha
+  Pehlu meiṅ hamshakl-e-Payambar
+  God meiṅ maaṅ ki Asghar tha
   Godiyaṅ khaali maangeṅ ujriṅ bepisar
   Bibiyaṅ reh gayiṅ
 

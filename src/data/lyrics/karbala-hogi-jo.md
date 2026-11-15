@@ -17,7 +17,7 @@ romanLyrics: |-
   1
   Ran meiṅ Akbar se tarapte hue bole Sarwar
   Tere sine meiṅ jo paiwast hai mere dilbar
-  Main ne khincha jo ye neza to qayaamat hogi
+  Maiṅ ne khincha jo ye neza to qayaamat hogi
 
   2
   Shah ne dekha tha bhatije ki taraf kuchh aise
@@ -46,7 +46,7 @@ romanLyrics: |-
 
   7
   Bhaai ki laash pe royegi behen ye keh kar
-  Kaise main tujh ko kafan duṅ nahiṅ sar par chaadar
+  Kaise maiṅ tujh ko kafan duṅ nahiṅ sar par chaadar
   Waqt jis waqt ye aaya to qayaamat hogi
 
   8

@@ -24,13 +24,13 @@ romanLyrics: |-
   Ae Shimr rehm kar mere baba ko chhor de
   Daulat ke waaste na inheṅ maar thehr ja
   Mat maar tu gale pe inheṅ waar thehr ja
-  Main de rahi huṅ khud tujhe gohar utaar ke
+  Maiṅ de rahi huṅ khud tujhe gohar utaar ke
 
   2
   Shaayad yehi wajah hai jo katta nahiṅ gala
   Daadi ne khud gale pe gala hai rakha hua
   Lipti hui hai Fatema baba Husain se
-  Paani main baba jaan ko pila luṅ to zabh kar
+  Paani maiṅ baba jaan ko pila luṅ to zabh kar
 
   3
   Godi meiṅ un ke sar ko utha luṅ to zabh kar

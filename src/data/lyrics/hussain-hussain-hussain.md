@@ -1,6 +1,6 @@
 ---
 title: "جنگل پہاڑ کرتے ہیں ناد علی علی"
-alternateTitle: "Husain Husain Husain"
+alternateTitle: "Husain Husaiṅ Husaiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -23,7 +23,7 @@ romanLyrics: |-
   Lekin kaleje phatte the Zainab ke bain se
 
   2
-  Us waqt tha ajab Sheh-e-din par hujum-e-yaas
+  Us waqt tha ajab Sheh-e-diṅ par hujum-e-yaas
   Dhalna wo do pahar ka wo aandhi wo lu o pyaas
   Laashe pare hue the azizoṅ ke aas paas
   Ro kar falak ko dekhte the Shaah-e-haq shanaas
@@ -60,7 +60,7 @@ romanLyrics: |-
   Hasrat se muṅh phira ke nazar ki su-e-sawaar
   Bole ye baag jor ke Abbas-e-naamdaar
   Tu pi le ae faraaz ke bahut tishna kaam hai
-  Hum par to be-Husain ye paani haraam hai
+  Hum par to beHusain ye paani haraam hai
 
   7
   Bauchhaar yak ba yak hui tiroṅ ki hai ghazab

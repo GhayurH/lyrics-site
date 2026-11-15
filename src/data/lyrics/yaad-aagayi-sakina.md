@@ -11,15 +11,15 @@ tags: []
 aliases: ["Yaad Aagayi Sakina"]
 published: true
 romanLyrics: |-
-  Beti ko main ne apni sine pe jab sulaaya
+  Beti ko maiṅ ne apni sine pe jab sulaaya
   Yaad aa gai Sakina
-  Main der tak khud apne aansu na rok paaya
+  Maiṅ der tak khud apne aansu na rok paaya
   Yaad aa gai Sakina
 
   1
   Beti ne meri puchha kiuṅ ro rahe ho Baaba
-  Ghamgin kis ke gham mein tum ho rahe ho Baaba
-  Kaanpe hue laboṅ se main ne use bataaya
+  Ghamgin kis ke gham meiṅ tum ho rahe ho Baaba
+  Kaanpe hue laboṅ se maiṅ ne use bataaya
 
   2
   Ehsaas-e-gham se mere dil par nahiṅ tha qaabu
@@ -39,11 +39,11 @@ romanLyrics: |-
   5
   Kab nind us ko mere sine pe aa rahi thi
   Hamraah wo bhi mere aansu baha rahi thi
-  De de ke jab tasalli main ne use chhupaaya
+  De de ke jab tasalli maiṅ ne use chhupaaya
 
   6
   Jab pyaar se wo mere rukhsaar chumti thi
-  Tasvir-e-Karbala ki nazroṅ mein ghumti thi
+  Tasvir-e-Karbala ki nazroṅ meiṅ ghumti thi
   Bachchi ne dil pe aisa koh-e-alam giraaya
 
   7

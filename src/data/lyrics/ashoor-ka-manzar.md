@@ -11,8 +11,8 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Sajjad ki aankhoṅ mein Sughra
-  Ashoor ka manzar dekhegi
+  Sajjad ki aankhoṅ meiṅ Sughra
+  Ashur ka manzar dekhegi
   Lutte hue apni aankhoṅ se
   Zehra ka bhara ghar dekhegi
 
@@ -25,23 +25,23 @@ romanLyrics: |-
   Jab sina-e-Akbar dekhegi
 
   2
-  Jab chashm-e-baraadar mein us ko
+  Jab chashm-e-baraadar meiṅ us ko
   Aayega nazar Ghazi ka alam
   Chehre pe sukuṅ aa jaayega
-  Kuchh der mein kam ho jaayega gham
-  Do baazu unheiṅ aankhoṅ mein phir
+  Kuchh der meiṅ kam ho jaayega gham
+  Do baazu unheiṅ aankhoṅ meiṅ phir
   Wo jalti zamiṅ par dekhegi
 
   3
   Jab baap ke kaandhe par ghatri
   Dekhi to khayaal aaye hoṅge
-  Sughra ne kaha hoga dil mein
+  Sughra ne kaha hoga dil meiṅ
   Qasim ki bari laaye hoṅge
   Jab ghatri khulegi to Sughra
-  Tukroṅ mein gul-e-tar dekhegi
+  Tukroṅ meiṅ gul-e-tar dekhegi
 
   4
-  Asghar ko un aankhoṅ mein har su
+  Asghar ko un aankhoṅ meiṅ har su
   Dhundegi bohat bimaar behen
   Shabbir ke haathoṅ pe ek dam
   Aayega nazar wo tashna dahan
@@ -49,17 +49,17 @@ romanLyrics: |-
   Jab tir gale par dekhegi
 
   5
-  Hai dhup mein turbat Asghar ki
+  Hai dhup meiṅ turbat Asghar ki
   Do laasheiṅ qarib-e-darya hai
   Samjhegi nahiṅ kuchh der talak
-  Ke dasht mein baba tanha hai
+  Ke dasht meiṅ baba tanha hai
   Royegi bohat aur samjhegi
   Jab laashe bahattar dekhegi
 
   6
   Zainab na sunaane paayegi
   Shabbir ki ghurbat ka qissa
-  Dekhegi nigaahoṅ mein phir se
+  Dekhegi nigaahoṅ meiṅ phir se
   Baba ke saath hua kya tha
   Tutegi qayaamat Sughra par
   Jab halq pe khanjar dekhegi

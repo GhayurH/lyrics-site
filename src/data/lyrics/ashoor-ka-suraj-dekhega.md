@@ -1,6 +1,6 @@
 ---
 title: "عاشور کا سورج دیکھے گا"
-alternateTitle: "Ashoor Ka Suraj Dekhega"
+alternateTitle: "Ashur Ka Suraj Dekhega"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,26 +11,26 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ashoor ka suraj dekhega
+  Ashur ka suraj dekhega
 
   1
-  Abbas-e-Dilawar maqtal mein
-  Be izn-e-wigha jab aayega
-  Tufaan uthega sehra mein
+  Abbas-e-Dilawar maqtal meiṅ
+  Beizn-e-wigha jab aayega
+  Tufaan uthega sehra meiṅ
   Aur darya se takrayega
   Maqtal ki fazaoṅ ko phir se
   Ik baar Ali yaad aayega
 
   2
-  Ashoor ka suraj dekhega
+  Ashur ka suraj dekhega
   Shaane pe sajaye mashkiza
-  Aayega jari haathoṅ mein liye
+  Aayega jari haathoṅ meiṅ liye
   Bas ek alam aur ik naiza
   Jab ghaat ka pehra tutega
   Dil zaalim ka ghabrayega
 
   3
-  Saahil ki hawa ki thandak mein
+  Saahil ki hawa ki thandak meiṅ
   Ghore ka badan jab haanpega
   Bechain sumoṅ ki taapoṅ se
   Jab darya thar thar kaanpega
@@ -46,25 +46,25 @@ romanLyrics: |-
   Ghazi ka alam lehrayega
 
   5
-  Pani mein girega mashkiza
+  Pani meiṅ girega mashkiza
   Jab kaatne wale haathoṅ se
   Kat kar bhi apne maqsad se
   Na hatne wale haathoṅ se
   Jab fart-e-nidaamat se darya
-  Mashkize mein aa jaaeṅ ge
+  Mashkize meiṅ aa jaaeṅ ge
 
   6
-  Gham dil mein sambhaale bachchoṅ ke
+  Gham dil meiṅ sambhaale bachchoṅ ke
   Haathoṅ ke larazte kuzoṅ ka
   Jab pani le kar paltega
   Khaimoṅ ki taraf sardaar-e-wafa
-  Be tegh jari ke sine pe
+  Betegh jari ke sine pe
   Har samt se hamla aayega
 
   7
   Jab gurz lagega chehre pe
   Jab shaane gireṅ ge kat kat kar
-  Jab khaak uregi maqtal mein
+  Jab khaak uregi maqtal meiṅ
   Jab laash bahegi matti par
   Jab mashk chhidegi tiroṅ se
   Dil saqqa ka phat jaayega
@@ -72,15 +72,15 @@ romanLyrics: |-
   8
   Jab Ghazi kahega Maula se
   Ik baar hamiyat hai aaqa
-  Khaimoṅ mein mujhe na le jaana
+  Khaimoṅ meiṅ mujhe na le jaana
   Bas itni wasiyat hai aaqa
   Gar laash gayi khaimoṅ ki taraf
   Sar Zainab ka khul jaayega
 
   9
   Jab Maula tanha lauteṅ ge
-  Aankhoṅ mein lahu ke ashk liye
-  Ik khun mein duba surkh alam
+  Aankhoṅ meiṅ lahu ke ashk liye
+  Ik khun meiṅ duba surkh alam
   Tiroṅ se chhidi ik mashk liye
   Jab kuze gireṅ ge haathoṅ se
   Kulsum ko ghash aa jaayega
@@ -91,14 +91,14 @@ romanLyrics: |-
   Kiuṅ laut ke waapas aaye nahiṅ
   Kiuṅ laaye nahiṅ pani ammu
   Ye sun ke ammaaṅ Fizza ki
-  Aankhoṅ mein lahu aa jaayega
+  Aankhoṅ meiṅ lahu aa jaayega
 
   11
   Dil apna dharakta hai Mazhar
-  Naqvi jo ishq-e-Karbal mein
+  Naqvi jo ishq-e-Karbal meiṅ
   Ye bhi hai karam un haathoṅ ka
-  Jo haath kate thay maqtal mein
-  Jab ahl-e-aza ke ashkoṅ mein
+  Jo haath kate the maqtal meiṅ
+  Jab ahl-e-aza ke ashkoṅ meiṅ
   Har lafz mera dhal jayega
 # source_id: nohayonline:93010477c3ae12f670d2
 # source_url: https://www.nohayonline.com/details_content.php?id=979

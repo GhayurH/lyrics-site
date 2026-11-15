@@ -19,7 +19,7 @@ romanLyrics: |-
   Woh khwaab hai jis khwaab ki taabir nahiṅ hai
 
   2
-  Be hubb-e-Ali sajde haiṅ yuṅ meri nazar meiṅ
+  Behubb-e-Ali sajde haiṅ yuṅ meri nazar meiṅ
   Goya to hai Quraan ki tafsir nahiṅ hai
 
   3

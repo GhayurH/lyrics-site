@@ -11,11 +11,11 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Amma tumhaara lut gaya jangal mein saara ghar
+  Amma tumhaara lut gaya jangal meiṅ saara ghar
   Zainab tarap ke kehti thi qabr-e-Batul par
 
   1
-  Amma lahu mein dub ke Akbar guzar gaya
+  Amma lahu meiṅ dub ke Akbar guzar gaya
   Laila ka dil Husain ka nur-e-nazar gaya
   Athaara saal paala tha jis ko wo mar gaya
   Barchhi ka phal laga mere Akbar ke qalb par
@@ -24,18 +24,18 @@ romanLyrics: |-
   Tapti zamiṅ par gira jab shaah-e-diṅ panaah
   Manzar wo dekhna para zakhmi hui nigaah
   Khanjar se kat rahi thi Muhammad ki bosa gaah
-  Nok-e-sinaaṅ par dekha hai bhaai ka main ne sar
+  Nok-e-sinaaṅ par dekha hai bhaai ka maiṅ ne sar
 
   3
-  Amma na puchho baad mein kya kya hue sitam
+  Amma na puchho baad meiṅ kya kya hue sitam
   Untoṅ ki nangi pusht pe the sar barehna hum
-  Bebas the rassiyoṅ mein bandhe sab asir-e-gham
+  Bebas the rassiyoṅ meiṅ bandhe sab asir-e-gham
   Dil phat gaya pari junhi Sajjad par nazar
 
   4
   Mahshar ka saamna hameṅ har ek gaam tha
   Laakhoṅ tamaasha bin the ek izdihaam tha
-  Amma main sar barehna thi baazaar-e-Shaam tha
+  Amma maiṅ sar barehna thi baazaar-e-Shaam tha
   Amma hamaari sharm se uthti na thi nazar
 
   5
@@ -51,10 +51,10 @@ romanLyrics: |-
   Pahunche the shaah laash pe thaame hue kamar
 
   7
-  Darbaar-e-Shaam mein to qayaamat hi aa gayi
-  Thi mehfil-e-Yazid mein main nange sar khari
-  Larzaaṅ tha saare jism mein lab par tha Ya Ali
-  Rakha hua tha tasht mein bhaai ka mere sar
+  Darbaar-e-Shaam meiṅ to qayaamat hi aa gayi
+  Thi mehfil-e-Yazid meiṅ maiṅ nange sar khari
+  Larzaaṅ tha saare jism meiṅ lab par tha Ya Ali
+  Rakha hua tha tasht meiṅ bhaai ka mere sar
 
   8
   Wo hont jis pe zikr-e-ilaahi tha subh o shaam
@@ -63,10 +63,10 @@ romanLyrics: |-
   Maari chhari Yazid ne un pyaase hontoṅ par
 
   9
-  Aankhoṅ mein meri reh gaya wo karb ka samaaṅ
-  Taarik qaid khaane mein bachchi ki hichkiyaaṅ
+  Aankhoṅ meiṅ meri reh gaya wo karb ka samaaṅ
+  Taarik qaid khaane meiṅ bachchi ki hichkiyaaṅ
   Ghut ghut ke haaye mar gayi amma Sakina jaaṅ
-  Bahr-e-kafan tha jism pe kurta lahu mein tar
+  Bahr-e-kafan tha jism pe kurta lahu meiṅ tar
 
   10
   Amma jo mera dard hai kaise karuṅ bayaaṅ

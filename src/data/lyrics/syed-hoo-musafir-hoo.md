@@ -17,17 +17,17 @@ romanLyrics: |-
   1
   Maaro na mere saamne hamshakl-e-Nabi ko
   Tarpaao na Ae Shaamiyoṅ farzand-e-Ali ko
-  Abbas ke mar jaane se main tut gaya huṅ
+  Abbas ke mar jaane se maiṅ tut gaya huṅ
 
   2
-  Main subh se taa asr uthaata raha laashe
-  Maqtal mein haiṅ begor o kafan sab ke janaaze
-  In laashoṅ ke maidaan mein sar dhund raha huṅ
+  Maiṅ subh se taa asr uthaata raha laashe
+  Maqtal meiṅ haiṅ begor o kafan sab ke janaaze
+  In laashoṅ ke maidaan meiṅ sar dhund raha huṅ
 
   3
   Zainab ke dulaare jo gire khaak ke upar
-  Kaandhe pe nahiṅ god mein laaya huṅ utha kar
-  Wo mujh pe fida ho gaye main un pe fida huṅ
+  Kaandhe pe nahiṅ god meiṅ laaya huṅ utha kar
+  Wo mujh pe fida ho gaye maiṅ un pe fida huṅ
 
   4
   Allah tu shaahid hai ajab zulm hua hai
@@ -42,7 +42,7 @@ romanLyrics: |-
   6
   Ye khun jo chehre pe mere dekh rahe ho
   Ye kis ka lahu hai ye khudaara nahiṅ puchho
-  Ye puchho ke kis tarah se main zinda khara huṅ
+  Ye puchho ke kis tarah se maiṅ zinda khara huṅ
 
   7
   Sine pe jo soti thi wo soyegi zamiṅ par
@@ -50,9 +50,9 @@ romanLyrics: |-
   Wo mujh ko bhula de ye dua maaṅg raha huṅ
 
   8
-  Tar khun mein Rehaan Husain Ibn-e-Ali the
+  Tar khun meiṅ Rehaan Husain Ibn-e-Ali the
   Kehne lage Abbas ke parcham ko utha ke
-  Zainab ye qayaanat main tujhe sauṅp raha huṅ
+  Zainab ye qayaanat maiṅ tujhe sauṅp raha huṅ
 # source_id: nohayonline:dbfd3d6cc1cd83156f1b
 # source_url: https://www.nohayonline.com/details_content.php?id=922
 # raw_sha256: ed1f0f1e96d6dff4b4f067f9583c9d149ab4bb4b64d1766f5970a5b013f59e79

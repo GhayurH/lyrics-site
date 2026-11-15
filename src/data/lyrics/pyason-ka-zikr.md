@@ -30,11 +30,11 @@ romanLyrics: |-
   Murti hui nigaah bhi paani ke saath hai
 
   5
-  Kya jaane kitni pyaas mein Asghar ne jaan di
+  Kya jaane kitni pyaas meiṅ Asghar ne jaan di
   Jo baat hai wo tashna dahaani ke saath hai
 
   6
-  Abbas keh rahe haiṅ Sakina ki yaad mein
+  Abbas keh rahe haiṅ Sakina ki yaad meiṅ
   Beti chacha ki jaan bhi paani ke saath hai
 
   7

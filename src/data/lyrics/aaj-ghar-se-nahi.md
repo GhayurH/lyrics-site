@@ -25,7 +25,7 @@ romanLyrics: |-
   Kaifiyat ko meri samjho baba
   Khauf hai mere dil meiṅ ajab sa
   Koi hum se tumheiṅ chhin lega
-  Hoga hum pe yateemi ka saaya
+  Hoga hum pe yatimi ka saaya
   Aaj ghar se nahiṅ jaao baba
 
   2
@@ -71,7 +71,7 @@ romanLyrics: |-
   7
   Raasta roka murghabiyoṅ ne
   Haath jore hai khud betiyoṅ ne
-  Phir bhi masjid ki jaanib badhe wo
+  Phir bhi masjid ki jaanib barhe wo
   Dekha Azlaan sab Kufiyoṅ ne
   Bolti hi rahi bint-e-Zahra
   Aaj ghar se nahiṅ jaao baba

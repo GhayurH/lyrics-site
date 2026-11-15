@@ -15,24 +15,24 @@ romanLyrics: |-
 
   1
   Mar gaye laal mere khaa ke sinaaṅ sine par
-  Aa gayi nind tumheṅ dasht-e-bala mein kiuṅ kar
+  Aa gayi nind tumheṅ dasht-e-bala meiṅ kiuṅ kar
 
   2
-  Dil mein armaan thi shaadi ki tumhaari beta
+  Dil meiṅ armaan thi shaadi ki tumhaari beta
   Aas tuti hai har ik dil ki hamaari beta
   Aankh se ashk nahiṅ khun hai jaari beta
   Kya kare ranj o musibat ki ye maari beta
   Ab tumheṅ dhund ke laaye gi kahaaṅ se maadar
 
   3
-  Raah takti hai Madine mein tumhaari Sughra
-  Muztarib hai gham-e-furqat mein bechaari Sughra
-  Khat mein likha hai yehi dard ki maari Sughra
+  Raah takti hai Madine meiṅ tumhaari Sughra
+  Muztarib hai gham-e-furqat meiṅ bechaari Sughra
+  Khat meiṅ likha hai yehi dard ki maari Sughra
   Aah bhar bhar ke kiya karti hai zaari Sughra
-  Kya bataauṅ gi main Sughra ko Madine jaa kar
+  Kya bataauṅ gi maiṅ Sughra ko Madine jaa kar
 
   4
-  Hai ajab haal judaai mein phuphi ammaaṅ ka
+  Hai ajab haal judaai meiṅ phuphi ammaaṅ ka
   Puchhte kya ho jo manzar hai dil-e-viraan ka
   Ho gaya khuṅ mere dil ke har ek armaaṅ ka
   Marhala aur bhi aage hai gham-e-zindaaṅ ka
@@ -41,14 +41,14 @@ romanLyrics: |-
   5
   Hum rasan basta hue Shaam ke baazaar gaye
   Ban ke qaidi sar-e-darbaar sitamgaar gaye
-  Qasr-e-zaalim mein Muhammad ke tarafdaar gaye
+  Qasr-e-zaalim meiṅ Muhammad ke tarafdaar gaye
   Beriyaaṅ pehne hue Aabid-e-bimaar gaye
   Kaise batlaauṅ tumheṅ zulm jo tute hum par
 
   6
   Nauha Akhtar ne tumhaare ye kiya dil se raqam
   Aur parha is ko hai Mohsin ne basad ranj o alam
-  Majlis-e-Shah mein qayaamat ka bapa hai maatam
+  Majlis-e-Shah meiṅ qayaamat ka bapa hai maatam
   Un pe taa hashr rahe Shaah ke altaaf o karam
   Dil se deti hai duaaeṅ ye tumhaari maadar
 # source_id: nohayonline:324d00e6b491bcff9de5

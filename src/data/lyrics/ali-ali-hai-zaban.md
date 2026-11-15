@@ -1,6 +1,6 @@
 ---
 title: "علی علی ہے زباں پر کبھی حسین حسین"
-alternateTitle: "Ali Ali Hai Zaban"
+alternateTitle: "Ali Ali Hai Zabaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -24,12 +24,12 @@ romanLyrics: |-
 
   2
   Khuda nahiṅ hai magar wajh-e-Kirdagaar to hai
-  Ye do jahaṅ mein Khudayi ka aitebaar to hai
-  Jahaṅ mein dosh-e-Payambar ka sheh sawaar to hai
+  Ye do jahaṅ meiṅ Khudayi ka aitebaar to hai
+  Jahaṅ meiṅ dosh-e-Payambar ka sheh sawaar to hai
   Raza-e-Haq pe unheṅ pura ikhtiyar to hai
 
   3
-  Uhud ki jang mein dekhe ajab ajab kirdaar
+  Uhud ki jang meiṅ dekhe ajab ajab kirdaar
   Kahiṅ hai zikr-e-shujaat kahiṅ hai zikr-e-faraar
   Zamiṅ se taa ba falak hai Ali Ali ki pukaar
   Utar rahe haiṅ malaik liye hue talwaar
@@ -38,31 +38,31 @@ romanLyrics: |-
   Samajh saka na zamana maqaam-e-Ahl-e-Bait
   Kalaam-e-Haq hi samjhe kalaam-e-Ahl-e-Bait
   Jagah jagah pe sunao payaam-e-Ahl-e-Bait
-  Karo jahaṅ mein raaij nizaam-e-Ahl-e-Bait
+  Karo jahaṅ meiṅ raaij nizaam-e-Ahl-e-Bait
 
   5
   Ye wo nahiṅ jinheṅ dunya kharid sakti hai
-  Ye wo hai jin ke tasadduq mein khalq palti hai
+  Ye wo hai jin ke tasadduq meiṅ khalq palti hai
   Sune wo jin ko mohabbat Ali ki khalti hai
   Qadam se in ke shariat Nabi ki chalti hai
 
   6
-  Nabi ke sath jo rehte the us zamane mein
-  Wohi the Aal-e-Muhammad ka ghar jalane mein
-  Kuch aise naam bhi shamil hai is fasane mein
-  Hijaab aata hai ab tak hameṅ batane mein
+  Nabi ke sath jo rehte the us zamane meiṅ
+  Wohi the Aal-e-Muhammad ka ghar jalane meiṅ
+  Kuch aise naam bhi shamil hai is fasane meiṅ
+  Hijaab aata hai ab tak hameṅ batane meiṅ
 
   7
   Dua-e-Fatima Zehra hai jab talak qaayam
   Na ruk sakega kisi se Husain ka matam
-  Sune zamana hai jab tak hamare dam mein dam
+  Sune zamana hai jab tak hamare dam meiṅ dam
   Rakheṅge yuṅhi buland hum Husain ka parcham
 
   8
-  Kasar kisi ne na chhori hameṅ mitane mein
-  Khuda hi apna muhafiz tha har zamane mein
-  Ye rok tok hai kiuṅ Shah ka gham manane mein
-  Yazid kya abhi zinda hai is zamane mein
+  Kasar kisi ne na chhori hameṅ mitane meiṅ
+  Khuda hi apna muhafiz tha har zamane meiṅ
+  Ye rok tok hai kiuṅ Shah ka gham manane meiṅ
+  Yazid kya abhi zinda hai is zamane meiṅ
 ---
 
 علی علی ہے زباں پر کبھی حسین حسین

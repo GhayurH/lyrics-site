@@ -16,12 +16,12 @@ romanLyrics: |-
   Aise hote haiṅ Muhammad ke gharaane waale
   Nok-e-naiza pe bhi Quraan sunaane waale
 
-  Ye jafaoṅ ke sile mein bhi dua dete haiṅ
+  Ye jafaoṅ ke sile meiṅ bhi dua dete haiṅ
   Apne qaatil ko bhi sharbat ye pila dete haiṅ
   Ik sajde se ye Islam bachaane waale
 
   1
-  Ik mashkize mein darya ko utha lete haiṅ
+  Ik mashkize meiṅ darya ko utha lete haiṅ
   Ye to khud pyaas ko darya ki bujha dete haiṅ
   Pyaase darya se palat kar hai ye aane waale
 
@@ -37,7 +37,7 @@ romanLyrics: |-
 
   4
   Dur taariki-e-aalam ko kiya Shah-e-Zaman
-  Naam-e-Ahmad ke diye kar ke diloṅ mein roshan
+  Naam-e-Ahmad ke diye kar ke diloṅ meiṅ roshan
   Apne khaime ke charaaghoṅ ko bujhaane waale
 
   5
@@ -47,7 +47,7 @@ romanLyrics: |-
 
   6
   Hum ne yuṅ Maisam o Salman baqa paayi hai
-  Chaudah sadiyoṅ se jo nasloṅ mein aza aayi hai
+  Chaudah sadiyoṅ se jo nasloṅ meiṅ aza aayi hai
   Nasl dar nasl azaadaar banaane waale
 # source_id: nohayonline:0eeb5793eed0ac07abc6
 # source_url: https://www.nohayonline.com/details_content.php?id=2534

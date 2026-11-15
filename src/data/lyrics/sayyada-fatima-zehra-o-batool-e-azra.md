@@ -45,14 +45,14 @@ romanLyrics: |-
   Kaise duniya ko samajh aayega rutba tera
 
   7
-  Tab kahiṅ ja ke andheroṅ mein ujaale utre
+  Tab kahiṅ ja ke andheroṅ meiṅ ujaale utre
   Chaand suraj chamke
   Jab utaara gaya aflaak pe sadqa tera
 
   8
   Kya hai Allah ka kya hai tera maalum nahiṅ
   Hai Takallum ko yaqiṅ
-  Maslak-e-ishq mein hota nahiṅ mera tera
+  Maslak-e-ishq meiṅ hota nahiṅ mera tera
 # source_note: personal notebook ODT import on 2026-11-08; no unique source record ID
 # editorial_note: Notebook transcription; newly supplied Urdu where the notebook contains Roman only
 ---

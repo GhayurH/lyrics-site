@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maqtal ki fazaaoṅ mein ye Zainab ka tha noha
+  Maqtal ki fazaaoṅ meiṅ ye Zainab ka tha noha
   Ghar lut gaya ammaaṅ
 
   Baaqi na raha mere liye koi sahaara
@@ -24,7 +24,7 @@ romanLyrics: |-
   Ghar lut gaya ammaaṅ
 
   2
-  Sar tan pe nahiṅ khun mein tar saara badan hai
+  Sar tan pe nahiṅ khun meiṅ tar saara badan hai
   Ye Shaah-e-zaman hai
   Kya aap ne Shabbir ko tha is liye paala
   Ghar lut gaya ammaaṅ
@@ -38,11 +38,11 @@ romanLyrics: |-
   4
   Hai zer-e-samaaṅ khaak pe ab aap ka kunba
   Sar par nahiṅ saaya
-  Abbas ko nind aayi hai main deti huṅ pehra
+  Abbas ko nind aayi hai maiṅ deti huṅ pehra
   Ghar lut gaya ammaaṅ
 
   5
-  Maidaan mein paamaal hua Qasim-e-naushaah
+  Maidaan meiṅ paamaal hua Qasim-e-naushaah
   Dil phat gaya mera
   Kya dekhte hi dekhte bewa hui Kubra
   Ghar lut gaya ammaaṅ
@@ -68,7 +68,7 @@ romanLyrics: |-
   9
   Shash maah ko maidaan se Shabbir jo laaye
   The sar ko jhukaaye
-  Tha khun mein duba hua maasum ka laasha
+  Tha khun meiṅ duba hua maasum ka laasha
   Ghar lut gaya ammaaṅ
 
   10
@@ -84,26 +84,26 @@ romanLyrics: |-
   Ghar lut gaya ammaaṅ
 
   12
-  Tha Shaam ki raahoṅ mein safar ek qayaamat
+  Tha Shaam ki raahoṅ meiṅ safar ek qayaamat
   Wo dhup ki shiddat
   Wo Shimr ka durra wo Sakina ka tarapna
   Ghar lut gaya ammaaṅ
 
   13
-  Sajjad ki gardan mein tha wo tauq-e-giraaṅbaar
+  Sajjad ki gardan meiṅ tha wo tauq-e-giraaṅbaar
   Chalna bhi tha dushwaar
   Har gaam pe bimaar ka wo gir ke sambhalna
   Ghar lut gaya ammaaṅ
 
   14
-  Darbaar mein hum log rasan basta khare the
+  Darbaar meiṅ hum log rasan basta khare the
   Sab dekh rahe the
-  Aur saamne sar tasht mein bhai ka rakha tha
+  Aur saamne sar tasht meiṅ bhai ka rakha tha
   Ghar lut gaya ammaaṅ
 
   15
-  Ab kaise kahuṅ haath mein zaalim ke chhari thi
-  Main dekh rahi thi
+  Ab kaise kahuṅ haath meiṅ zaalim ke chhari thi
+  Maiṅ dekh rahi thi
   Is zulm pe Zainab ka badan kaaṅp raha tha
   Ghar lut gaya ammaaṅ
 

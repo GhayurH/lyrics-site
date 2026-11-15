@@ -21,17 +21,17 @@ romanLyrics: |-
 
   2
   Ghabraaye huye laal haiṅ sehmi hui maaeṅ
-  Ji bhar ke main de duṅ Ali Akbar ko duaaeṅ
+  Ji bhar ke maiṅ de duṅ Ali Akbar ko duaaeṅ
   Lena hai abhi Aun o Muhammad ki balaaeṅ
 
   3
-  Ae raat bikhar ja tere bas mein hai jahaaṅ tak
+  Ae raat bikhar ja tere bas meiṅ hai jahaaṅ tak
   Mit jaayeṅge kal aal-e-payambar ke nishaaṅ tak
   Baaqi hai ye manzar Ali Akbar ki azaaṅ tak
 
   4
   Har chand ke bachchoṅ ki abhi pyaas hai baaqi
-  Kuchh aaṅkh mein hasrat hai to kuchh aas hai baaqi
+  Kuchh aaṅkh meiṅ hasrat hai to kuchh aas hai baaqi
   Lekin mera bhai mera Abbas hai baaqi
 
   5
@@ -45,9 +45,9 @@ romanLyrics: |-
   Khaima to kuja sar pe na hogi ye rida bhi
 
   7
-  Ae raat ghari bhar ko tu rehne de sukuṅ mein
-  Ghir jaayeṅge Nasir mere aada ki safoṅ mein
-  Ye chaand se chehre to nahaa jaayeṅge khuṅ mein
+  Ae raat ghari bhar ko tu rehne de sukuṅ meiṅ
+  Ghir jaayeṅge Nasir mere aada ki safoṅ meiṅ
+  Ye chaand se chehre to nahaa jaayeṅge khuṅ meiṅ
 # source_id: nohayonline:6fc071e870538822bf07
 # source_url: https://www.nohayonline.com/details_content.php?id=667
 # raw_sha256: 64ff68588e16aed998f9e4020b3b4bfbd78e726cb29abb30f0c8559e9325393e

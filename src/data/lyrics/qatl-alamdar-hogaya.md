@@ -24,7 +24,7 @@ romanLyrics: |-
   Qatl alamdar ho gaya hai
 
   2
-  Haathoṅ mein kuze liye baithi hai ik ghamzada
+  Haathoṅ meiṅ kuze liye baithi hai ik ghamzada
   Koi bata de use kaisa sitam ho gaya
   Ab to yehi bain kar haaye alamdar-e-Shaah
   Aaya nahiṅ laut kar haaye alamdar-e-Shaah
@@ -33,8 +33,8 @@ romanLyrics: |-
   Qatl alamdar ho gaya hai
 
   3
-  Bole Shaah-e-Karbala furqat-e-Abbas mein
-  Sab karo majlis bapa furqat-e-Abbas mein
+  Bole Shaah-e-Karbala furqat-e-Abbas meiṅ
+  Sab karo majlis bapa furqat-e-Abbas meiṅ
   Mil ke parho marsiya haaye alamdar-e-Shaah
   Koi nahiṅ aasra haaye alamdar-e-Shaah
   Chaaroṅ taraf fauj-e-ashqiya hai
@@ -61,7 +61,7 @@ romanLyrics: |-
 
   6
   Aur bhi to ab sitam dhaayeṅge ye ashqiya
-  Dasht-e-bala mein mera bhai akela hua
+  Dasht-e-bala meiṅ mera bhai akela hua
   Mujhko yaqin ho gaya haaye alamdar-e-Shaah
   Jaayegi meri rida haaye alamdar-e-Shaah
   Ahl-e-haram ki yehi sada hai
@@ -73,8 +73,8 @@ romanLyrics: |-
   Zainab o Shabbir ka haal karuṅ kya raqam
   Lab pe yehi thi sada haaye alamdar-e-Shaah
   Daagh-e-judaai diya haaye alamdar-e-Shaah
-  Tu nahiṅ to zindagi mein kya hai
-  Koi nahiṅ dasht mein ghamkhwaar
+  Tu nahiṅ to zindagi meiṅ kya hai
+  Koi nahiṅ dasht meiṅ ghamkhwaar
   Qatl alamdar ho gaya hai
 # source_id: nohayonline:b59e1c70c06102bfdd3d
 # source_url: https://www.nohayonline.com/details_content.php?id=970

@@ -11,32 +11,32 @@ tags: []
 aliases: ["Thay Bain Sakina Ke"]
 published: true
 romanLyrics: |-
-  The bain Sakina ke main mar jaauṅ gi Baba
-  Main aap ki furqat mein na ji paauṅ gi Baba
+  The bain Sakina ke maiṅ mar jaauṅ gi Baba
+  Maiṅ aap ki furqat meiṅ na ji paauṅ gi Baba
   Baba Baba zindaan ka dar khulwa do
 
   1
   Jine nahiṅ dega mujhe zindaaṅ ka andhera
   Le jaaiye jald aa ke yahaṅ se mujhe warna
-  Ghut ghut ke main zindaaṅ mein mar jaauṅ gi Baba
+  Ghut ghut ke maiṅ zindaaṅ meiṅ mar jaauṅ gi Baba
   Baba Baba zindaan ka dar khulwa do
 
   2
   Ummid rihaai ki dilaata nahiṅ mujhko
-  Main puchhti huṅ koi bataata nahiṅ mujhko
-  Kab laut ke main apne watan jaauṅ gi Baba
+  Maiṅ puchhti huṅ koi bataata nahiṅ mujhko
+  Kab laut ke maiṅ apne watan jaauṅ gi Baba
   Baba Baba zindaan ka dar khulwa do
 
   3
   Na paas phuphi hoṅ gi mere aap na bhaiya
   Kehte haiṅ adu qaid kareṅge mujhe tanha
-  Tanhaai mein main aur bhi ghabraauṅ gi Baba
+  Tanhaai meiṅ maiṅ aur bhi ghabraauṅ gi Baba
   Baba Baba zindaan ka dar khulwa do
 
   4
-  Be jurm mujhe Shimr ne maare hai tamaanche
+  Bejurm mujhe Shimr ne maare hai tamaanche
   Dikhlaauṅ gi jo nil hai rukhsaar pe mere
-  Main jab bhi kabhi aap ke paas aauṅ gi Baba
+  Maiṅ jab bhi kabhi aap ke paas aauṅ gi Baba
   Baba Baba zindaan ka dar khulwa do
 
   5
@@ -54,7 +54,7 @@ romanLyrics: |-
   7
   Gohar meri shehzaadi ko ik pal na mila chain
   Jis waqt qaza aai laboṅ par the yehi bain
-  Ghar jaauṅ gi main apne watan jaauṅ gi Baba
+  Ghar jaauṅ gi maiṅ apne watan jaauṅ gi Baba
   Baba Baba zindaan ka dar khulwa do
 # source_id: nohayonline:025db5d3478c3ebf2155
 # source_url: https://www.nohayonline.com/details_content.php?id=1516

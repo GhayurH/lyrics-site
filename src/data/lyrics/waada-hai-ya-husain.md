@@ -51,7 +51,7 @@ romanLyrics: |-
 
   4
   Ishq-e-man Husain jaan-e-man Husain
-  Dil mein dharakta hai naam tumhaara
+  Dil meiṅ dharakta hai naam tumhaara
   Hai teri qasam jab talak hai hum
   Guṅje ga har su ek hi naara
   Sab ne ye maana hai tera zamaana hai
@@ -88,7 +88,7 @@ romanLyrics: |-
   Zinda rahe ga tera naam Husain
 
   8
-  Aandhiyoṅ mein bhi baarishoṅ mein bhi
+  Aandhiyoṅ meiṅ bhi baarishoṅ meiṅ bhi
   Hum ne kiya hai tera maatam Maula
   Fatwagar uthe kitne shar uthe
   Hum ne manaaya hai Muharram Maula
@@ -103,19 +103,19 @@ romanLyrics: |-
   Haath the bandhe sar tha berida
   Nok-e-sinaaṅ pe tujhe dekh rahi thi
   Di thi ye buka Qatil-e-Nainawa
-  Waada hai ye mera duniya mein har jagah
+  Waada hai ye mera duniya meiṅ har jagah
   Majlis ka ho ga ehtemaam Husain
   Zinda rahe ga tera naam Husain
 
   10
   Saara jahaaṅ ye bol raha hai
   Raaz-e-aqidat khol raha hai
-  Dil mein hamaare dharak raha hai
+  Dil meiṅ hamaare dharak raha hai
   Dushman is se bharak raha hai
-  Tera hi to raaj hai zaminoṅ mein zamaanoṅ mein
-  Tera hi tazkira hai duniya ki saari zabaanoṅ mein
+  Tera hi to raaj hai zaminoṅ meiṅ zamaanoṅ meiṅ
+  Tera hi tazkira hai duniya ki saari zabaanoṅ meiṅ
   Chaaroṅ jaanib Karbobala ke baad se le kar aaj talak
-  Teri hi to jit ka aelaan hai azaanoṅ mein
+  Teri hi to jit ka aelaan hai azaanoṅ meiṅ
   Farhan o Mazhar ki sada
   Zinda rahe ga tera naam sada
 # source_id: nohayonline:50aa36a59ab6080bd069

@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Keh rahe the ye ro ro ke Sarwar
   Zakhm-e-Akbar pe Laila rida daal do
-  Mera farzand hai khun mein tar
+  Mera farzand hai khun meiṅ tar
 
   1
   Zakhm se is qadar khuṅ baha hai
@@ -23,8 +23,8 @@ romanLyrics: |-
   Koi isko jaga de na aa kar
 
   2
-  Haath mein khuṅ ki mehndi laga lo
-  Bas tasavvur mein dulha bana lo
+  Haath meiṅ khuṅ ki mehndi laga lo
+  Bas tasavvur meiṅ dulha bana lo
   Tumne maani hai jo zindagi bhar
   Mannateṅ aaj saari barha lo
   Ghurbatoṅ ka ye sehra saja kar
@@ -33,8 +33,8 @@ romanLyrics: |-
   Meri behnoṅ ko kab ye pata hai
   Wo samajhti haiṅ ye so raha hai
   Sard hai jism saakit hai nabzeṅ
-  Mera kariyal jawaṅ mar chuka hai
-  Haath seene se iska hata kar
+  Mera kariyal jawaaṅ mar chuka hai
+  Haath sine se iska hata kar
 
   4
   Gham ki kaali ghata chha rahi hai
@@ -44,9 +44,9 @@ romanLyrics: |-
   Phir mayassar kahaaṅ hogi chaadar
 
   5
-  Khaak mein mil gaya hai wo Bano
+  Khaak meiṅ mil gaya hai wo Bano
   Jisko mitti bhi lagne na di ho
-  Kitne naazon se paala tha usne
+  Kitne naazoṅ se paala tha usne
   Zakhm jaldi se Bibi chhupa do
   Bint-e-Zahra na dekhe ye manzar
 
@@ -68,7 +68,7 @@ romanLyrics: |-
   Ae Hilal ek mahshar bapa tha
   Khaima-e-Shaah maatam kada tha
   Ashk aankhoṅ se paighaam rawaaṅ the
-  Aal-e-Ahmad mein shor-e-buka tha
+  Aal-e-Ahmad meiṅ shor-e-buka tha
   Jab ye kehte the Sibt-e-Payambar
 # source_id: nohayonline:98f6e9e76e31926329d4
 # source_url: https://www.nohayonline.com/details_content.php?id=102

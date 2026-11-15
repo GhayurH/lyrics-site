@@ -16,7 +16,7 @@ romanLyrics: |-
   1
   Kiuṅ guloṅ ki khushbu se saara ran mehekta hai
   Pairahan moattar hai kya ye koi dulha hai
-  Chaand sa hasiṅ chehra dhup mein chamakta hai
+  Chaand sa hasiṅ chehra dhup meiṅ chamakta hai
   Aur lahu ki dhaaroṅ ka us ke rukh pe sehra hai
 
   2
@@ -26,7 +26,7 @@ romanLyrics: |-
   Subh ki thi ye baateṅ shaam ki Khuda jaane
 
   3
-  Tashnagi ke sehra mein aag si barasti hai
+  Tashnagi ke sehra meiṅ aag si barasti hai
   Bund bund paani ko zindagi tarasti hai
   Tishna kaam dulha hai aur dulhan bhi pyaasi hai
   Haaye kaisi shaadi hai har taraf udaasi hai
@@ -34,12 +34,12 @@ romanLyrics: |-
   4
   Subh se kai laasheṅ le ke aaye maidaaṅ se
   Par ye laash laane ki shaan hi niraali hai
-  Ek abaa ke goshe mein jis ki laash aa jaaye
+  Ek abaa ke goshe meiṅ jis ki laash aa jaaye
   Us ke jism-e-athar par guzri kya Khuda jaane
 
   5
-  Ran mein laash dulha ki khaak o khuṅ mein ghaltaaṅ hai
-  Waaṅ dulhan ke khaime mein hashr jaisa saamaaṅ hai
+  Ran meiṅ laash dulha ki khaak o khuṅ meiṅ ghaltaaṅ hai
+  Waaṅ dulhan ke khaime meiṅ hashr jaisa saamaaṅ hai
   Sar pe khaak daali hai maang us ki viraaṅ hai
   Bain us ke sun sun kar maaṅ ka dil pareshaaṅ hai
 
@@ -51,8 +51,8 @@ romanLyrics: |-
 
   7
   Ho gai dulhan bewa Sheh ka dil tarapta hai
-  Har nafas wohi manzar chashm-e-nam mein rehta hai
-  Ghash mein Umm-e-Farwa hai aur dulhan ko sakta hai
+  Har nafas wohi manzar chashm-e-nam meiṅ rehta hai
+  Ghash meiṅ Umm-e-Farwa hai aur dulhan ko sakta hai
   Ab Raza qayaamat hai aasmaaṅ larazta hai
 # source_id: nohayonline:3cfac154a30c16a0a299
 # source_url: https://www.nohayonline.com/details_content.php?id=3016

@@ -32,7 +32,7 @@ romanLyrics: |-
   Tum sharm se khaime meiṅ bhi aaye na biraadar
   Haaye Shah laaye the jab laasha-e-Qasim ko uthaa kar
   Pit ke sar kehti haiṅ Farwa mere Abbas
-  Are qatl hua Ibn-e-Hasan maiṅ hui be aas
+  Are qatl hua Ibn-e-Hasan maiṅ hui beaas
   Are aaye na tum dene ko pursa bhi mere paas
   Are hota hai ab teri hayaa daari ka ehsaas
 
@@ -63,7 +63,7 @@ romanLyrics: |-
   7
   Shah kehte the baaqi na raha Alamdaar na lashkar
   Are Zainab ye barhaa do alam dilbar-e-Haider
-  Taarikh ne maqtal meiṅ Anees jis tarah likha
+  Taarikh ne maqtal meiṅ Anis jis tarah likha
   Wo sina zani aur qayaamat ka tha girya
   Sar pitte the zer-e-alam dilbar-e-Zehra
   Are sukhe hue hoṅtoṅ pe tha purdard ye noha

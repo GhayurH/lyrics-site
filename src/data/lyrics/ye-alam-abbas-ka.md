@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Bemisl hai do jahaaṅ mein jo hai sher-e-Karbala
+  Bemisl hai do jahaaṅ meiṅ jo hai sher-e-Karbala
   Kar gaya din-e-Nabi pe donoṅ baazu jo fida
 
   1
@@ -19,12 +19,12 @@ romanLyrics: |-
   Aadam o Isa Nabi sab ambiya ki shaan hai
 
   2
-  Hashr mein aayeṅge momin is alam ke saaye mein
+  Hashr meiṅ aayeṅge momin is alam ke saaye meiṅ
   Qayaam-e-Mehdi hamaara waaris-e-imaan hai
   Aadam o Isa Nabi sab ambiya ki shaan hai
 
   3
-  Dekha na jaanbaaz aisa lashkar-e-Islam mein
+  Dekha na jaanbaaz aisa lashkar-e-Islam meiṅ
   Donoṅ baazu kar gaya jo din pe qurbaan hai
   Aadam o Isa Nabi sab ambiya ki shaan hai
 
@@ -40,7 +40,7 @@ romanLyrics: |-
 
   6
   Ye sharaf Zahra ke dar se mil gaya hubdaar ko
-  Maatam-e-Shabbir mein ye nauhagar Irfan hai
+  Maatam-e-Shabbir meiṅ ye nauhagar Irfan hai
   Aadam o Isa Nabi sab ambiya ki shaan hai
 # source_id: nohayonline:bc67b23369d55a9818c3
 # source_url: https://www.nohayonline.com/details_content.php?id=3357

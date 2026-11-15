@@ -37,7 +37,7 @@ romanLyrics: |-
   5
   Waqt-e-naza ho Maula Shabbir ki ziyaarat
   Is se bari nahiṅ hai mere liye saadat
-  Khursheed mere dil meiṅ bas yehi aarzu hai
+  Khurshid mere dil meiṅ bas yehi aarzu hai
 # source_id: nohayonline:2740cf483d01d87b875d
 # source_url: https://www.nohayonline.com/details_content.php?id=2949
 # raw_sha256: 5521ad204cad16a01a609742f3f9a3f5d7ffb3194413a12d8bc231cbe8952a50

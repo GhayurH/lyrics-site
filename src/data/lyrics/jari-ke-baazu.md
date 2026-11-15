@@ -18,7 +18,7 @@ romanLyrics: |-
 
   Sakina se the kuch maanus itne
   Lage hai tir mashkize pe jitne
-  Wo sab Abbas ke dil mein gare haiṅ
+  Wo sab Abbas ke dil meiṅ gare haiṅ
 
   1
   Na puchho haal ae Akbar hamaara
@@ -36,7 +36,7 @@ romanLyrics: |-
   Ali Akbar tarap kar ro pare haiṅ
 
   4
-  Main ab paani nahiṅ aansu piyuṅ gi
+  Maiṅ ab paani nahiṅ aansu piyuṅ gi
   Chacha aa jaaiye kaise jiyuṅ gi
   Mera nanha sa dil hai gham bare haiṅ
 

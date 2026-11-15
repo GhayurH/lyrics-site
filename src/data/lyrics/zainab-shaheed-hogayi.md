@@ -11,56 +11,56 @@ tags: []
 aliases: ["Zainab Shaheed Hogayi"]
 published: true
 romanLyrics: |-
-  Na Karbala na Kufa na darbaar-e-aam mein
-  Zainab shahid ho gayi baazaar-e-Shaam mein
+  Na Karbala na Kufa na darbaar-e-aam meiṅ
+  Zainab shahid ho gayi baazaar-e-Shaam meiṅ
 
   1
   Bibi pe yuṅ to shaam-e-gharibaṅ se thi jafa
   Baazaar-e-Shaam aaya to sar par na thi rida
   Naize se sar jo Hazrat-e-Abbas ka gira
-  Zainab shahid ho gayi baazaar-e-Shaam mein
+  Zainab shahid ho gayi baazaar-e-Shaam meiṅ
 
   2
   Barsaat pattharoṅ ki charaaghaṅ ka chaar su
   Pehle hi taaziyaane baraste the ku ba ku
   Behne laga jo aankh se Sajjad ke lahu
-  Zainab shahid ho gayi baazaar-e-Shaam mein
+  Zainab shahid ho gayi baazaar-e-Shaam meiṅ
 
   3
   Zainab tarasti reh gayi aaraam o chain ko
   Mauqa mila na majlis o maatam ko bain ko
-  Maanga tha jab kanizi mein bint-e-Husain ko
-  Zainab shahid ho gayi baazaar-e-Shaam mein
+  Maanga tha jab kanizi meiṅ bint-e-Husain ko
+  Zainab shahid ho gayi baazaar-e-Shaam meiṅ
 
   4
-  Bhai ka sar sinaṅ pe tha zulfeṅ lahu mein tar
+  Bhai ka sar sinaṅ pe tha zulfeṅ lahu meiṅ tar
   Nok-e-sinaṅ pe Aun o Muhammad ke dekhe sar
   Chhote se ek sar pe pari jis ghari nazar
-  Zainab shahid ho gayi baazaar-e-Shaam mein
+  Zainab shahid ho gayi baazaar-e-Shaam meiṅ
 
   5
-  Akbar se Karbala mein mulaaqaat kab hui
-  Naizoṅ ke qaafile mein use dhundti rahi
-  Baazaar-e-Shaam mein jo nazar sar pe par gayi
-  Zainab shahid ho gayi baazaar-e-Shaam mein
+  Akbar se Karbala meiṅ mulaaqaat kab hui
+  Naizoṅ ke qaafile meiṅ use dhundti rahi
+  Baazaar-e-Shaam meiṅ jo nazar sar pe par gayi
+  Zainab shahid ho gayi baazaar-e-Shaam meiṅ
 
   6
   Baandha gaya Sakina ko pusht-e-shutar ke saath
   Wo tashnagi thi maaṅ se bhi karti nahiṅ thi baat
   Baaloṅ talak Sakina ke pahunche laiṅ ke haath
-  Zainab shahid ho gayi baazaar-e-Shaam mein
+  Zainab shahid ho gayi baazaar-e-Shaam meiṅ
 
   7
   Bas saans chal rahi thi to zinda kahaaṅ rahi
   Talwaar jis ke sar pe chali beridaai ki
-  Kehti thi dekho par ye Madine mein ab koi
-  Zainab shahid ho gayi baazaar-e-Shaam mein
+  Kehti thi dekho par ye Madine meiṅ ab koi
+  Zainab shahid ho gayi baazaar-e-Shaam meiṅ
 
   8
   Rehaan yuṅ to phir sar-e-kam ye tawil hai
   Ashkoṅ ki meri aankh se jaari sabil hai
-  Bibi ka rauza Shaam mein hona dalil hai
-  Zainab shahid ho gayi baazaar-e-Shaam mein
+  Bibi ka rauza Shaam meiṅ hona dalil hai
+  Zainab shahid ho gayi baazaar-e-Shaam meiṅ
 # source_id: nohayonline:cd4752afc7da70077de8
 # source_url: https://www.nohayonline.com/details_content.php?id=1060
 # raw_sha256: c27d92ce439c71352a63ef1a6f1b515ce0f62f799fd66c4e67e8ce2c22cdc1b8

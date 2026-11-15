@@ -14,19 +14,19 @@ romanLyrics: |-
   Ae Shabih-e-Mustafa Akbar mere tum ho kahaaṅ
 
   1
-  Baad tere Karbala mein ik qayaamat aa gayi
+  Baad tere Karbala meiṅ ik qayaamat aa gayi
   Qatl Sarwar ho gaye aur shaam-e-ghurbat aa gayi
   Har taraf phaila hua tha jalte khaimoṅ ka dhuaaṅ
 
   2
-  Waqt kaisa aa gaya Aal-e-Nabi hai be rida
+  Waqt kaisa aa gaya Aal-e-Nabi hai berida
   Durroṅ se bimaar par zaalim bhi karte haiṅ jafa
-  Gham mein tere ro rahi hai ye zamin o aasmaaṅ
+  Gham meiṅ tere ro rahi hai ye zamin o aasmaaṅ
 
   3
   Kaanoṅ se behna ke tere ab talak hai khuṅ rawaaṅ
   Chhini haiṅ zaalim ne us ke kaanoṅ se jo baaliyaaṅ
-  Nil haiṅ gaaloṅ pe us ke hai gale mein resmaaṅ
+  Nil haiṅ gaaloṅ pe us ke hai gale meiṅ resmaaṅ
 
   4
   Tha bahut armaan mujh ko laauṅ ghar teri dulhan
@@ -34,17 +34,17 @@ romanLyrics: |-
   Koi bhi armaan mera pura na ho paaya yahaaṅ
 
   5
-  Baandh kar baarah galoṅ ko ik rasan mein be haya
+  Baandh kar baarah galoṅ ko ik rasan meiṅ behaya
   Qaid kar ke le gaye hum logoṅ ko Ahl-e-jafa
   Dil mera phatta hai jab bhi sochti huṅ wo samaaṅ
 
   6
-  Likha tha Sughra ne khat mein ae mere Akbar jawaaṅ
+  Likha tha Sughra ne khat meiṅ ae mere Akbar jawaaṅ
   Lene kiuṅ aate nahiṅ mujh ko mere ae bhai jaaṅ
   Puchhe gi Sughra tujhe to kya kahe gi use maaṅ
 
   7
-  Paala tha jis ne wo Zainab gham mein tere roti hai
+  Paala tha jis ne wo Zainab gham meiṅ tere roti hai
   Haaye Akbar haaye Akbar haaye Akbar kehti hai
   Tu bata de aake mujh ko kaise samjhaaye gi maaṅ
 

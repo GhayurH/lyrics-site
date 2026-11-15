@@ -1,6 +1,6 @@
 ---
 title: "غم و الم کا سراپا حسین تنہا ہے"
-alternateTitle: "Gham O Alam Ka"
+alternateTitle: "Gham o Alam Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -27,7 +27,7 @@ romanLyrics: |-
   Chala gaya su-e-darya Husain tanha hai
 
   4
-  Aba mein baaṅdh ke laata hai laasha-e-Qasim
+  Aba meiṅ baaṅdh ke laata hai laasha-e-Qasim
   Hai paara paara bhatija Husain tanha hai
 
   5

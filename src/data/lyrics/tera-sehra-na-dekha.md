@@ -11,45 +11,45 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Jawaṅ ki laash pe ye bain karti reh gayi maadar
+  Jawaaṅ ki laash pe ye bain karti reh gayi maadar
   Tera sehra na dekha tera sehra na dekha
 
   Meri aankhoṅ ke taare ae mere pyaare Ali Akbar
   Tera sehra na dekha tera sehra na dekha
 
   1
-  Dil-e-maadar mein athaarah baras se ye tamanna thi
-  Main apne haathoṅ se ek din tujhe dulha banaauṅ gi
-  Teri dulhan ko main apne kaleje se lagaauṅ gi
-  Jo mannat maani hai main ne wo sab mannat barhaauṅ gi
-  Magar kya thi khabar rouṅ gi main tere janaaze par
+  Dil-e-maadar meiṅ athaarah baras se ye tamanna thi
+  Maiṅ apne haathoṅ se ek din tujhe dulha banaauṅ gi
+  Teri dulhan ko maiṅ apne kaleje se lagaauṅ gi
+  Jo mannat maani hai maiṅ ne wo sab mannat barhaauṅ gi
+  Magar kya thi khabar rouṅ gi maiṅ tere janaaze par
 
   2
-  Bare armaan the dil mein bahut kuch main ne socha tha
+  Bare armaan the dil meiṅ bahut kuch maiṅ ne socha tha
   Balaaeṅ le ke aankhoṅ se lagaauṅ gi tera sehra
   Teri baaraat jab ghar se chale gi ae mere beta
-  To main Abbas se keh duṅ gi parcham ka kare saaya
+  To maiṅ Abbas se keh duṅ gi parcham ka kare saaya
   Magar na jaane kis ne bad nazar daali tere upar
 
   3
-  Mujhe pardes mein taqdir ne ye din bhi dikhlaaya
-  Main zinda reh gayi aur mar gaya karil jawaṅ beta
+  Mujhe pardes meiṅ taqdir ne ye din bhi dikhlaaya
+  Maiṅ zinda reh gayi aur mar gaya karil jawaaṅ beta
   Meri aankhoṅ se ae Akbar dikhaai kuch nahiṅ deta
-  Main dekhuṅ bhi to kaise dekhuṅ tera chaand sa chehra
+  Maiṅ dekhuṅ bhi to kaise dekhuṅ tera chaand sa chehra
   Are tuta hai gham ka aasmaaṅ dukhiyaari maadar par
 
   4
   Kaleja phat gaya maadar ka us dam ae mere jaani
   Suna jis dam ke tum ko marte dam bhi na mila paani
-  Bare berehm haiṅ Karbobala mein zulm ke baani
+  Bare berehm haiṅ Karbobala meiṅ zulm ke baani
   Kisi ne haaye tasvir-e-Muhammad bhi na pehchaani
   Chalaaya zaalimoṅ ne haaye mere qalb pe khanjar
 
   5
-  Jawaṅ farzand se maaṅ baap ko Khaaliq na chhurwaae
-  Ye manzil wo hai ke dushman ki aankhoṅ mein bhi ashk aae
+  Jawaaṅ farzand se maaṅ baap ko Khaaliq na chhurwaae
+  Ye manzil wo hai ke dushman ki aankhoṅ meiṅ bhi ashk aae
   Kisi ka naujawaṅ beta sinaaṅ sine pe na khaae
-  Zaifi mein jawaṅ bete ki mayyat baap na laae
+  Zaifi meiṅ jawaaṅ bete ki mayyat baap na laae
   Hameṅ qismat ne dikhlaaya qayaamat khez ye manzar
 
   6
@@ -60,9 +60,9 @@ romanLyrics: |-
   Tere baaba bahut rote haiṅ ae beta yehi keh kar
 
   7
-  Jawaṅ ki laash pe Waiz yehi maadar ka nauha tha
-  Mujhe pardes mein laa kar meri taqdir ne luta
-  Mere armaan mitti mein mile ujri meri duniya
+  Jawaaṅ ki laash pe Waiz yehi maadar ka nauha tha
+  Mujhe pardes meiṅ laa kar meri taqdir ne luta
+  Mere armaan mitti meiṅ mile ujri meri duniya
   Teri shaadi ki hasrat thi magar dekha tera laasha
   Ye gham sehne se pehle mar gayi hoti teri maadar
 # source_id: nohayonline:9632a6c30852643e0261

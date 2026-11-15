@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Amma kab ghar jaayeṅge
-  Qaid mein kya mar jaayeṅge
+  Qaid meiṅ kya mar jaayeṅge
 
   1
   Subh ko parinde jaate haiṅ
@@ -20,14 +20,14 @@ romanLyrics: |-
   Kya hum bhi ghar jaayeṅge
 
   2
-  Baap ka sar bepiroṅ mein
-  Bhai hai zanjiroṅ mein
+  Baap ka sar bepiroṅ meiṅ
+  Bhai hai zanjiroṅ meiṅ
   Kaise le kar jaayeṅge
 
   3
-  Khwaab mein baba aaye the
+  Khwaab meiṅ baba aaye the
   Mujh se lipat kar kehte the
-  Khuld mein le kar jaayeṅge
+  Khuld meiṅ le kar jaayeṅge
 
   4
   Maut ka sar par hai saaya
@@ -35,13 +35,13 @@ romanLyrics: |-
   Qabr bana kar jaayeṅge
 
   5
-  Main nahiṅ hargiz maanuṅgi
+  Maiṅ nahiṅ hargiz maanuṅgi
   Bas ek shart pe jaauṅgi
   Ammu le kar jaayeṅge
 
   6
-  Shaah ka laasha maidaaṅ mein
-  Ahl-e-haram haiṅ zindaaṅ mein
+  Shaah ka laasha maidaaṅ meiṅ
+  Ahl-e-haram haiṅ zindaaṅ meiṅ
   Hum to yahiṅ mar jaayeṅge
 
   7

@@ -14,19 +14,19 @@ published: true
 romanLyrics: |-
   Un ki dehliz pe hai sar mera
   Zikr hota hai arsh par mera
-  Kar raha huṅ Rasul ki main sana
+  Kar raha huṅ Rasul ki maiṅ sana
   Shajra kitna hai moatabar mera
 
   1
   Zikr tera jo Mustafa na kare
-  Ho zabaan muṅh mein wo Khuda na kare
+  Ho zabaan muṅh meiṅ wo Khuda na kare
 
   2
   Ghair mumkin hai ho nahiṅ sakta
   Sawaal koi kare aur ata na kare
 
   3
-  Haath mein us ke bolte kankar
+  Haath meiṅ us ke bolte kankar
   Mojiza ye to dusra na kare
 
   4
@@ -34,15 +34,15 @@ romanLyrics: |-
   Rabb-e-Akbar mujhe juda na kare
 
   5
-  Main to bimaar huṅ Madine ka
+  Maiṅ to bimaar huṅ Madine ka
   Mujh ko achchha koi dawa na kare
 
   6
-  Hashr mein us pe na saaya hoga
+  Hashr meiṅ us pe na saaya hoga
   Aal-e-Ahmad se jo wafa na kare
 
   7
-  Yuṅ sukhan Aasif-e-hazin pe kabhi
+  Yuṅ sukhan Aasif-e-haziṅ pe kabhi
   Band Sarwar ye silsila na kare
 # source_id: tajpoints:ac2e00e575fe8b1bb49c
 # source_url: https://tajpoints.com/2022/10/zikr-tera-jo-mustafa-sarwar-raza.html

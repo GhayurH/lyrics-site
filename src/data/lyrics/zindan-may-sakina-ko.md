@@ -11,23 +11,23 @@ tags: []
 aliases: ["Zindan May Sakina Ko"]
 published: true
 romanLyrics: |-
-  Zindaaṅ mein Sakina ko yaad aaya woh sina
+  Zindaaṅ meiṅ Sakina ko yaad aaya woh sina
   Jis sine pe soti thi maasum Sakina
 
   1
   Kar taras zara zaalim baba ko na rouṅ gi
-  Main god mein maadar ki aaraam se souṅ gi
+  Maiṅ god meiṅ maadar ki aaraam se souṅ gi
   Berehm lainoṅ ne faryaad suni na
 
   2
-  Hai maut ki khaamoshi taariki-e-zindaaṅ mein
+  Hai maut ki khaamoshi taariki-e-zindaaṅ meiṅ
   Kya jurm kiya logoṅ maasum si mehmaaṅ ne
   Koi aur to maasuma yuṅ qaid hui na
 
   3
-  Har waqt chamakta tha Karbal mein Madine mein
-  Taawiz ke maanind tha Shabbir ke sine mein
-  Gum ho gaya woh kaise zindaaṅ mein nagina
+  Har waqt chamakta tha Karbal meiṅ Madine meiṅ
+  Taawiz ke maanind tha Shabbir ke sine meiṅ
+  Gum ho gaya woh kaise zindaaṅ meiṅ nagina
 
   4
   Phat jaye na ghairat se Sajjad jigar tera
@@ -35,8 +35,8 @@ romanLyrics: |-
   Ye soch ke Aabid ko kuchh hosh rahi na
 
   5
-  Rukhsaar main nana ko mehshar mein dikhaauṅ gi
-  Rudaad main zindaaṅ ki ro ro ke sunaauṅ gi
+  Rukhsaar maiṅ nana ko mehshar meiṅ dikhaauṅ gi
+  Rudaad maiṅ zindaaṅ ki ro ro ke sunaauṅ gi
   Paabandi hai rone pe kehta hai kamina
 
   6
@@ -50,7 +50,7 @@ romanLyrics: |-
   Tha maut ke chehre pe ghairat ka pasina
 
   8
-  Sardar Sakina ko zindaaṅ mein dafn kar ke
+  Sardar Sakina ko zindaaṅ meiṅ dafn kar ke
   Sajjad ye kehte the na kafan mila mar ke
   Taa hashr rulaaye gi teri maut Sakina
 # source_id: nohayonline:a8dba390baa2921211a3

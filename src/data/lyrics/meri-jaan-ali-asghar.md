@@ -21,19 +21,19 @@ romanLyrics: |-
   Gham na kar haath salaamat haiṅ jhulaane ke liye
 
   2
-  Sar se maadar ke chhini Shaam-e-gharibaaṅ mein rida
-  Dhundne kaise tujhe aauṅ bata de beta
+  Sar se maadar ke chhini Shaam-e-gharibaaṅ meiṅ rida
+  Dhundne kaise tujhe aaun bata de beta
   Apni maadar ke liye dasht se waapas aa ja
 
   3
   Roshni din ki kahaaṅ raat ki taariki hai
-  Main bhi aadi huṅ teri tu bhi mera aadi hai
+  Maiṅ bhi aadi huṅ teri tu bhi mera aadi hai
   Haath phailaaye hue khaak pe maaṅ baithi hai
 
   4
   Ran se laati haiṅ hawaayeṅ tere khun ki khushbu
   Apne dil par nahiṅ rehta mujhe beta qaabu
-  Reh gaya jaa ke kahaaṅ dasht-e-biyaabaan mein tu
+  Reh gaya jaa ke kahaaṅ dasht-e-biyaabaan meiṅ tu
 
   5
   Haaye jab Shaam-e-gharibaaṅ ki sahar hogi ayaaṅ
@@ -41,9 +41,9 @@ romanLyrics: |-
   Hogi phir tujh se mere laal mulaaqaat kahaaṅ
 
   6
-  Karbala se jo Madine mein hawa aati hai
+  Karbala se jo Madine meiṅ hawa aati hai
   Maaṅ ki ummid to Yawar wo jaga jaati hai
-  Dhup mein baithi hui Bano yehi kehti hai
+  Dhup meiṅ baithi hui Bano yehi kehti hai
 # source_id: nohayonline:1b703ca6813de9294e40
 # source_url: https://www.nohayonline.com/details_content.php?id=476
 # raw_sha256: 4cb953d2c3ac8ec5459cf81937230f242dbd87d1726b191f49145f41c41b0789

@@ -17,13 +17,13 @@ romanLyrics: |-
   Fatema Zehra ka bhara ghar luta
   Kat gaya Shabbir ka sukha gala
 
-  Maah-e-Muharram mein ye kya ho gaya
+  Maah-e-Muharram meiṅ ye kya ho gaya
   Kat gaya Shabbir ka sukha gala
 
   1
   Mominoṅ wiraan Madina hua
   Ho gayi aabaad magar Karbala
-  Rote haiṅ marqad mein Rasul-e-Khuda
+  Rote haiṅ marqad meiṅ Rasul-e-Khuda
   Kat gaya Shabbir ka sukha gala
 
   2
@@ -33,7 +33,7 @@ romanLyrics: |-
   Kat gaya Shabbir ka sukha gala
 
   3
-  Ho gayi pardes mein barbaadiyaaṅ
+  Ho gayi pardes meiṅ barbaadiyaaṅ
   Bain ye karti rahi shahzaadiyaaṅ
   Shaam talak jaaeṅge hum berida
   Kat gaya Shabbir ka sukha gala
@@ -65,7 +65,7 @@ romanLyrics: |-
   8
   Nauha Ali Ji aur Shanawar parho
   Sarwar o Rehaan ke baazu bano
-  Dard mein dubi hui aaye sada
+  Dard meiṅ dubi hui aaye sada
   Kat gaya Shabbir ka sukha gala
 # source_id: nohayonline:1ffc345ae572e4cf0913
 # source_url: https://www.nohayonline.com/details_content.php?id=839

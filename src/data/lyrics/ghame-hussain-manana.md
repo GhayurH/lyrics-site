@@ -15,21 +15,21 @@ romanLyrics: |-
   Husaini shama jalaana bahut zaruri hai
 
   1
-  Raah-e-nijaat mein khurshid-e-zindagi ke liye
+  Raah-e-nijaat meiṅ khurshid-e-zindagi ke liye
   Baqa ke waaste khaaliq ki bandagi ke liye
-  Jahaalatoṅ ke andheroṅ mein roshni ke liye
+  Jahaalatoṅ ke andheroṅ meiṅ roshni ke liye
   Husaini shama jalaana bahut zaruri hai
 
   2
-  Wo jis mein Asghar-e-Maasum ka tabassum hai
-  Wo jis mein ashkoṅ ka sailaab hai talaatum hai
-  Wo jis mein aakhri Shabbir ki sada gum hai
+  Wo jis meiṅ Asghar-e-Maasum ka tabassum hai
+  Wo jis meiṅ ashkoṅ ka sailaab hai talaatum hai
+  Wo jis meiṅ aakhri Shabbir ki sada gum hai
   Wo daastaaṅ sunaana bahut zaruri hai
 
   3
   Ye wo Husain hai jo fakhr-e-Ibn-e-Aadam hai
   Ke jis ke zer-e-qadam rifat-e-do aalam hai
-  Usi Husain ke gham mein ye shor-e-maatam hai
+  Usi Husain ke gham meiṅ ye shor-e-maatam hai
   Ye baat sab ko bataana bahut zaruri hai
 
   4
@@ -46,7 +46,7 @@ romanLyrics: |-
 
   6
   Khaamosh Aal-e-Muhammad ka aaj dera hai
-  Bala ka Shaam-e-Gharibaaṅ mein ek andhera hai
+  Bala ka Shaam-e-Gharibaaṅ meiṅ ek andhera hai
   Rasul zaadiyaaṅ aur khaak par basera hai
   Aza ka farsh bichhaana bahut zaruri hai
 

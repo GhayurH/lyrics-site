@@ -34,7 +34,7 @@ romanLyrics: |-
 
   4
   Basti se hat kar kuchh qadam
-  Maidaaṅ mein thahreṅ ge ham
+  Maidaaṅ meiṅ thahreṅ ge ham
   Ya hasrat o yaas o alam
   Dilgir-e-khasta benawa
 
@@ -42,7 +42,7 @@ romanLyrics: |-
   Bimaar o laaghar naatawaaṅ
   Sajjad karte haiṅ bayaaṅ
   Pehle naqib-e-kaarwaaṅ
-  Basti mein bheja jaaye ga
+  Basti meiṅ bheja jaaye ga
 
   6
   Ahl-e-Madina aayeṅ ge
@@ -66,7 +66,7 @@ romanLyrics: |-
   Rulwa rahi hai aaj bhi
   Tarpa rahi hai aaj bhi
   Yaad aa rahi hai aaj bhi
-  Tauqeer Zaidi ye sada
+  Tauqir Zaidi ye sada
 # source_id: nohayonline:3f55baf4e4e97a402484
 # source_url: https://www.nohayonline.com/details_content.php?id=86
 # raw_sha256: 7c313c7d9ae1840ea2ccde33aed59a88d08ec65387c7143a2ee846f37299f160

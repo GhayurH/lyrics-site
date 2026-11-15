@@ -15,7 +15,7 @@ romanLyrics: |-
   Sughra ko meri sine se liptaaiyo Zainab
 
   1
-  Maange jo kanizi mein Sakina ko sitamgar
+  Maange jo kanizi meiṅ Sakina ko sitamgar
   Tu minnateṅ kar kar use chhurwaaiyo Zainab
 
   2
@@ -24,14 +24,14 @@ romanLyrics: |-
 
   3
   Dekhe jo nishaaṅ rassi ke Sughra dam-e-giryaaṅ
-  Baazu mein rasan thi na ye farmaaiyo Zainab
+  Baazu meiṅ rasan thi na ye farmaaiyo Zainab
 
   4
   Mil jaaye agar chaadareṅ to sab bewaoṅ se pehle
   Chaadar tu meri Kubra ko pinwaaiyo Zainab
 
   5
-  Mil jaaye agar dudh to do kuzoṅ mein bhar ke
+  Mil jaaye agar dudh to do kuzoṅ meiṅ bhar ke
   Faateha mere Asghar ki tu dilwaaiyo Zainab
 # source_id: nohayonline:2e8ef4ddb506d150a57f
 # source_url: https://www.nohayonline.com/details_content.php?id=2672

@@ -25,18 +25,18 @@ romanLyrics: |-
 
   3
   Hamdard na hamdam na koi munis o yaawar
-  Sannaate biyaabaan mein gum jaae na Asghar
+  Sannaate biyaabaan meiṅ gum jaae na Asghar
   Har simt andhera hai tu hi shama jala de
 
   4
-  Ye dhyaan rahe dasht mein dhire se utarna
+  Ye dhyaan rahe dasht meiṅ dhire se utarna
   Har simt se aahista dabe paaoṅ guzarna
-  Aisa na ho aada mein koi shor macha de
+  Aisa na ho aada meiṅ koi shor macha de
 
   5
   Ghabraana nahiṅ kushta-e-shamshir jo puchhe
   Tu kaun hai kiuṅ aai hai Shabbir jo puchhe
-  Main ne tujhe bheja hai ye chupke se bata de
+  Maiṅ ne tujhe bheja hai ye chupke se bata de
 
   6
   Rona bhi agar aae to muṅh pher ke rona
@@ -51,10 +51,10 @@ romanLyrics: |-
   8
   Karta hai lahu dil pe mere us ka bichharna
   Dekhe na koi maaṅ kisi jhule ka ujarna
-  Wo aae agar god mein tu haath barha de
+  Wo aae agar god meiṅ tu haath barha de
 
   9
-  Aaghosh mein rakhe jo machalne ka iraada
+  Aaghosh meiṅ rakhe jo machalne ka iraada
   Ho us ka agar ghutniyoṅ chalne ka iraada
   Tu zer-e-qadam khaak pe palkoṅ ko bichha de
 

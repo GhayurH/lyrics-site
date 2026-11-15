@@ -15,12 +15,12 @@ romanLyrics: |-
   Lahad hai ab tera hujra meri dukhiya Khuda haafiz
 
   1
-  Andheri qabr mein kis tarah tujh ko nind aayegi
+  Andheri qabr meiṅ kis tarah tujh ko nind aayegi
   Na ho ga jab koi apna meri dukhiya Khuda haafiz
 
   2
   Behelta tha sabhi ka dil tumhaari pyaari baatoṅ se
-  Rahega ghar mein sannaata meri dukhiya Khuda haafiz
+  Rahega ghar meiṅ sannaata meri dukhiya Khuda haafiz
 
   3
   Khuda shaahid tumhaari maaṅ nahiṅ hai bewafa beti
@@ -31,11 +31,11 @@ romanLyrics: |-
   Tha us par pyaas ka ghalba meri dukhiya Khuda haafiz
 
   5
-  Sula de kaash koi mujhko bhi tere barabar mein
+  Sula de kaash koi mujhko bhi tere barabar meiṅ
   Taqaaza hai ye mamta ka meri dukhiya Khuda haafiz
 
   6
-  Parinde dekh kar jab tum bahut meinoos hoti thi
+  Parinde dekh kar jab tum bahut meinus hoti thi
   Wo manzar tha qayaamat ka meri dukhiya Khuda haafiz
 
   7
@@ -44,7 +44,7 @@ romanLyrics: |-
 
   8
   Sabhi ke saath tum ko bhi Madine le ke jaauṅ gi
-  Agar bas mein mere hota meri dukhiya Khuda haafiz
+  Agar bas meiṅ mere hota meri dukhiya Khuda haafiz
 
   9
   Giraaya Shimr ne paani zamiṅ par saamne tere
@@ -67,11 +67,11 @@ romanLyrics: |-
   Na dil se bojh ye utra meri dukhiya Khuda haafiz
 
   14
-  Luti hai chaar barsoṅ ki kamaai qaid khaane mein
+  Luti hai chaar barsoṅ ki kamaai qaid khaane meiṅ
   Na puchho haal is dil ka meri dukhiya Khuda haafiz
 
   15
-  Raza har ek armaan dafn kar ke qaid khaane mein
+  Raza har ek armaan dafn kar ke qaid khaane meiṅ
   Chali kehti hui mamta meri dukhiya Khuda haafiz
 # source_id: nohayonline:1d578282c5faaf9a4f87
 # source_url: https://www.nohayonline.com/details_content.php?id=1988

@@ -24,7 +24,7 @@ romanLyrics: |-
 
   2
   Gham ki is maari ko kaunain ki shahzaadi ko
-  Ghar ke hujre mein bhi haaye re Nabi zaadi ko
+  Ghar ke hujre meiṅ bhi haaye re Nabi zaadi ko
   Apne baaba pe bhi rone na diya aada ne
 
   3
@@ -38,8 +38,8 @@ romanLyrics: |-
   Ki hai rote hue faryaad yehi Zahra ne
 
   5
-  Tukre us ke sar-e-darbaar mein chunti hi rahi
-  Wo sanad haaye mere saamne tukroṅ mein banti
+  Tukre us ke sar-e-darbaar meiṅ chunti hi rahi
+  Wo sanad haaye mere saamne tukroṅ meiṅ banti
   Jo sanad likh ke mujhe di thi mere baaba ne
 
   6
@@ -49,11 +49,11 @@ romanLyrics: |-
 
   7
   Wo jo kehti thi lahad shab ko banaana meri
-  Ya Ali raat mein mayyat bhi uthaana meri
-  Shab ki taariki mein dafnaaya use Maula ne
+  Ya Ali raat meiṅ mayyat bhi uthaana meri
+  Shab ki taariki meiṅ dafnaaya use Maula ne
 
   8
-  Ab julusoṅ mein hai taabut usi Bibi ka
+  Ab julusoṅ meiṅ hai taabut usi Bibi ka
   Haq bhi chhina gaya aur jis pe sitam dhaaya gaya
   Jis ko Izhaar sataaya hai bahut dunya ne
 # source_id: nohayonline:23c924243d3a079c10c4

@@ -49,7 +49,7 @@ romanLyrics: |-
 
   7
   Saqlain gehri nind wo us waqt so gaya
-  Lori ke darmiyaaṅ jo maadar ne ye kaha
+  Lori ke darmiyaan jo maadar ne ye kaha
   Dekha na tujh se jaayega Zainab ka kaarwaaṅ
 # source_id: nohayonline:3f0cf40e9824db91bd59
 # source_url: https://www.nohayonline.com/details_content.php?id=480

@@ -30,8 +30,8 @@ romanLyrics: |-
   Sambhalte haiṅ kabhi khaate haiṅ Shah thokar akele haiṅ
 
   5
-  Kaha Zainab ne Hinda se hue qurbaan sab ran mein
-  Hamaare waarisoṅ mein Aabid-e-muztar akele haiṅ
+  Kaha Zainab ne Hinda se hue qurbaan sab ran meiṅ
+  Hamaare waarisoṅ meiṅ Aabid-e-muztar akele haiṅ
 # source_id: nohayonline:ff71f7704f2ff4634d3b
 # source_url: https://www.nohayonline.com/details_content.php?id=1112
 # raw_sha256: 48f151d3985a2d72bd4f116a7462c58635ddcecced90cc617d79d8bbd7e4d6ca

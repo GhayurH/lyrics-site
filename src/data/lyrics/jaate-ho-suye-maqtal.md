@@ -16,7 +16,7 @@ romanLyrics: |-
   1
   Bole ye Shah-e-waala Abbas Khuda haafiz
   Ab ho gaya ghurbat ka ehsaas Khuda haafiz
-  Hum ho gae jine se be aas Khuda haafiz
+  Hum ho gae jine se beaas Khuda haafiz
   Faryaad kunaaṅ sab ki hai pyaas Khuda haafiz
 
   2
@@ -29,10 +29,10 @@ romanLyrics: |-
   Mazlum hai hum kitne kya waqt-e-musibat hai
   Dikhlaae kise bhaai jo qalb ki haalat hai
   Har saaṅs ik aafat hai har lamha qayaamat hai
-  Khaamosh hai lab dil mein hai yaas Khuda haafiz
+  Khaamosh hai lab dil meiṅ hai yaas Khuda haafiz
 
   4
-  Phirne lage aankhoṅ mein ab dard ke sab manzar
+  Phirne lage aankhoṅ meiṅ ab dard ke sab manzar
   Wo lutte hue khaime wo jalta hua bistar
   Wo nil tamaachoṅ ke wo chhinte hue gauhar
   Hai kaun ghariboṅ ke ab paas Khuda haafiz
@@ -40,12 +40,12 @@ romanLyrics: |-
   5
   Hone se tere rukhsat dil tut gae bhaiya
   Ab to koi pyaasa bhi paani nahiṅ maaṅge ga
-  Mazlum musibat mein ab kis ko sada de ga
+  Mazlum musibat meiṅ ab kis ko sada de ga
   Khaamosh rahe gi ab har pyaas Khuda haafiz
 
   6
   Ab Sher-e-jari tum se lashkar ki bhi zinat thi
-  Har ranj mein aafat mein gham sahne ki taaqat thi
+  Har ranj meiṅ aafat meiṅ gham sahne ki taaqat thi
   Tum saath rahe jab tak Shabbir ko himmat thi
   Ab jine ka armaan hai na aas Khuda haafiz
 

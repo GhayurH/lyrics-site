@@ -1,6 +1,6 @@
 ---
 title: "سجدے میں تیغ کھا کے تڑپتے ہیں مرتظی"
-alternateTitle: "Sajde Mein Taygh"
+alternateTitle: "Sajde Meiṅ Taygh"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,12 +11,12 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Sajde mein tegh khaa ke tarapte haiṅ Murtaza
+  Sajde meiṅ tegh khaa ke tarapte haiṅ Murtaza
 
   1
-  Tar aaṅkh is azeem musibat pe hoti hai
+  Tar aaṅkh is azim musibat pe hoti hai
   Phir sar patak ke Kaabe ki diwaar roti hai
-  Daaman lahu mein Masjid-e-Kufa bhigoti hai
+  Daaman lahu meiṅ Masjid-e-Kufa bhigoti hai
   Phir kaainaat ashkoṅ ke moti piroti hai
 
   2
@@ -26,7 +26,7 @@ romanLyrics: |-
   Phir bhi lahu ke qatre musalsil tapakte haiṅ
 
   3
-  Masjid mein phir to rone ka har simt ghul utha
+  Masjid meiṅ phir to rone ka har simt ghul utha
   Mushkil Kusha ne Hazrat-e-Shabbar se ye kaha
   Ghar jald le chalo mujhe ab de ke aasra
   Ghar se kahiṅ nikal na pare Bint-e-Fatima
@@ -35,25 +35,25 @@ romanLyrics: |-
   Kehne lage ye Dukhtar-e-Zehra se Murtaza
   Tujh par musibatoṅ ka hai ab taaza silsila
   Tukre jigar ke ugle ga mazlum Mujtaba
-  Beti kate ga sajde mein Shabbir ka gala
+  Beti kate ga sajde meiṅ Shabbir ka gala
 
   5
   Zainab banegi diṅ ki baqa ki tu aasra
   Har gaam par dikhaana hai meyaar sabr ka
-  Darbaar-e-aam mein tujhe jaana hai berida
+  Darbaar-e-aam meiṅ tujhe jaana hai berida
   Zehra ki beti sunti hai rudaad-e-Karbala
 
   6
   Abbas ko bula ke gale se laga liya
   Kehne lage na roye pidar tujh pe ho fida
   Tujh par bara bharosa hai ae mere dilruba
-  Tu Karbala mein hoga muhaafiz Husain ka
+  Tu Karbala meiṅ hoga muhaafiz Husain ka
 
   7
   Kufe ke bekasoṅ pe tha ye gham bara shadid
   Bait ush sharaf pe aaye liye aarzu-e-did
   Har simt phir to rone ka ek ghul utha Rashid
-  Allah ke mahine mein Maula hue shahid
+  Allah ke mahine meiṅ Maula hue shahid
 # source_id: nohayonline:6d31947d7b8332347594
 # source_url: https://www.nohayonline.com/details_content.php?id=3046
 # raw_sha256: 7c36f12aec8518bd75a547b2821d940689833da6bdfec183b6e205f710d6fd6d

@@ -22,18 +22,18 @@ romanLyrics: |-
   Tum faatiha sharbat pe dilaana meri behna
 
   2
-  Gham mere azaadaar manaaeṅ ge jahaaṅ mein
+  Gham mere azaadaar manaaeṅ ge jahaaṅ meiṅ
   Ae meri behna
   Parcham kahiṅ taabut kahiṅ hoṅ gi sabileṅ
   Ae meri behna
-  Majlis mein sabiloṅ pe bhi jaana meri behna
+  Majlis meiṅ sabiloṅ pe bhi jaana meri behna
 
   3
   Maatam jo azaadaar kareṅ farsh-e-aza par
   Ae meri behna
   Wo ashk bahaaeṅ jo masaaib mere sun kar
   Ae meri behna
-  Daaman mein un ashkoṅ ko chhupaana meri behna
+  Daaman meiṅ un ashkoṅ ko chhupaana meri behna
 
   4
   Abbas ke parcham ko sajaaeṅ jo azaadaar
@@ -78,9 +78,9 @@ romanLyrics: |-
   Sajjad ko sholoṅ se bachaana meri behna
 
   10
-  Jab lut ka saamaaṅ mile qaid-e-sitam mein
+  Jab lut ka saamaaṅ mile qaid-e-sitam meiṅ
   Ae meri behna
-  Majlis ka wahaaṅ farsh bichhaana mere gham mein
+  Majlis ka wahaaṅ farsh bichhaana mere gham meiṅ
   Ae meri behna
   Zindaaṅ ko aza khaana banaana meri behna
 
@@ -94,7 +94,7 @@ romanLyrics: |-
   12
   Mil jaae gi jab mujh ko masaaib se rihaai
   Haaye Husaina
-  Main faatiha sharbat pe dilaauṅ gi ae bhai
+  Maiṅ faatiha sharbat pe dilaauṅ gi ae bhai
   Haaye Husaina
   Haaṅ yaad hai bhaiya wo mujhe aap ka kehna
 # source_id: nohayonline:84282c9c8784dbc9e565

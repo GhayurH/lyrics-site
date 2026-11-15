@@ -1,6 +1,6 @@
 ---
 title: "جب تک ہے اس جہاں میں حسین و حسن کا نام"
-alternateTitle: "Jab Tak Hai Is Jahan"
+alternateTitle: "Jab Tak Hai Is Jahaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Jab tak hai is jahaaṅ mein Husain o Hasan ka naam
+  Jab tak hai is jahaaṅ meiṅ Husain o Hasan ka naam
   Hai kaun jo mitaaye Rasul-e-zaman ka naam
 
   1
@@ -31,11 +31,11 @@ romanLyrics: |-
   Kashti ke saath aata hai likha Panjatan ka naam
 
   5
-  Sehra mein bekafan raha Zehra ka laadla
+  Sehra meiṅ bekafan raha Zehra ka laadla
   Is sharm se safed hai ab tak kafan ka naam
 
   6
-  Mahir main bazm-e-Panjatan paak par nisaar
+  Mahir maiṅ bazm-e-Panjatan paak par nisaar
   Maula bana hai did ki is anjuman ka naam
 # source_id: nohayonline:56fd840ece6983ac2a6f
 # source_url: https://www.nohayonline.com/details_content.php?id=1209

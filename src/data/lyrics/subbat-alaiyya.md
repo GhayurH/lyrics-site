@@ -22,8 +22,8 @@ romanLyrics: |-
   Khub ummat ne diya mujh ko sila
 
   2
-  Qabr meiṅ le kar ye gham jaauṅ gi main
-  Kaise wo manzar bhula paauṅ gi main
+  Qabr meiṅ le kar ye gham jaauṅ gi maiṅ
+  Kaise wo manzar bhula paauṅ gi maiṅ
   Rassiyoṅ meiṅ Abul Hasan ka tha gala
 
   3
@@ -47,8 +47,8 @@ romanLyrics: |-
   Mere khuṅ ko dekhna hai Karbala
 
   7
-  Ae Khuda dil kaun sa laauṅ gi main
-  Zabt aakhir kaise kar paauṅ gi main
+  Ae Khuda dil kaun sa laauṅ gi maiṅ
+  Zabt aakhir kaise kar paauṅ gi maiṅ
   Betiyaṅ jab hoṅ gi meri berida
 
   8
@@ -57,7 +57,7 @@ romanLyrics: |-
   Ae musalmaano yahi hota hai kya
 
   9
-  Apne baba ko main royi dhup meiṅ
+  Apne baba ko maiṅ royi dhup meiṅ
   Sab kamaai apni khoyi dhup meiṅ
   Aaj besaaya hai phir marqad mera
 

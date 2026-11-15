@@ -15,16 +15,16 @@ romanLyrics: |-
   Duniya samajh rahi hai Payambar ki baat hai
 
   1
-  Akbar main kar raha huṅ tere ghar ka tazkira
+  Akbar maiṅ kar raha huṅ tere ghar ka tazkira
   Allah keh raha hai mere ghar ki baat hai
 
   2
-  Chaahe jise wo khuld mein le jaaye apne saath
+  Chaahe jise wo khuld meiṅ le jaaye apne saath
   Itni to shahzaade ke naukar ki baat hai
 
   3
   Quraan ho ya midhat-e-hamshakl-e-Mustafa
-  Mizaan mein tol lije baraabar ki baat hai
+  Mizaan meiṅ tol lije baraabar ki baat hai
 
   4
   Samjheṅ ge kaise rutba shabih-e-Rasul ka
@@ -32,7 +32,7 @@ romanLyrics: |-
 
   5
   Kun keh ke Murtaza ne ye duniya banaai hai
-  Hujre mein mat sunaao ye mimbar ki baat hai
+  Hujre meiṅ mat sunaao ye mimbar ki baat hai
 
   6
   Jibril bhi na samjhe ke zair-e-kissa hai kaun

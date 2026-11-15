@@ -15,54 +15,54 @@ romanLyrics: |-
   Shahr-e-Rasul-e-Haq bara sunsan ho gaya
 
   1
-  Jalti zamin pe gir pare jab Akbar-e-jawaṅ
+  Jalti zamiṅ pe gir pare jab Akbar-e-jawaaṅ
   Laashe pe Shah pahunche to andher tha jahaṅ
   Laila se dekha jaega kis tarha ye samaṅ
-  Karil jawaṅ ke sine mein tuti hui sinaṅ
+  Karil jawaaṅ ke sine meiṅ tuti hui sinaṅ
 
   2
-  Aankhoṅ mein Sheh ki did ka arman laboṅ pe jaaṅ
-  Hail hai darmiyan mein ek tir-e-jaaṅ nisaṅ
+  Aankhoṅ meiṅ Sheh ki did ka armaṅ laboṅ pe jaaṅ
+  Hail hai darmiyan meiṅ ek tir-e-jaaṅ nisaṅ
   Rone lage tarap ke Shahanshah-e-ins o jaaṅ
 
   3
   Kya hausle the tifl-e-Shah-e-benazir ke
   The nehr par buland irade saghir ke
   Tewar ayaṅ the rukh se Janab-e-Amir ke
-  Nanha sa ek gala tha muqabil mein tir ke
+  Nanha sa ek gala tha muqabil meiṅ tir ke
 
   4
   Beta khara hai saamne aur berida behen
-  Jakra hua hai tauq o salasil mein saara tan
-  Baba ki laash ran mein hai begor o bekafan
+  Jakra hua hai tauq o salasil meiṅ saara tan
+  Baba ki laash ran meiṅ hai begor o bekafan
   Sadme se kaanpne laga Sajjad ka badan
 
   5
   Karbobala se karwaṅ Kufa hua rawaṅ
   Uṅtoṅ ki nangi pusht pe baithi haiṅ Bibiyaṅ
-  Hai sar khula har ek ka baazu mein resmaṅ
+  Hai sar khula har ek ka baazu meiṅ resmaṅ
   Zainab tarap ke dekhti hai su-e-aasmaṅ
 
   6
-  Tarik qaidkhane mein jab qafila gaya
+  Tarik qaidkhane meiṅ jab qafila gaya
   Ro kar Sakina boli ke Amma ye kya hua
   Kya waqt meri maut ka nazdik aa gaya
   Bano pukari ye na kaho meri dilruba
 
   7
-  Tasht-e-tila mein farq-e-Shah-e-Din tha rakha
+  Tasht-e-tila meiṅ farq-e-Shah-e-Din tha rakha
   Aur ek taraf khara hua kunba Rasul ka
   Hoṅtoṅ pe phir Husain ke woh zulm ho gaya
-  Zainab ka natawaṅ badan kaanpta raha
+  Zainab ka natawan badan kaanpta raha
 
   8
   Jaari the qaidiyoṅ pe mazalim ke silsile
-  Asna-e-rah-e-Kufa mein the sakht marhale
+  Asna-e-rah-e-Kufa meiṅ the sakht marhale
   Uṅtoṅ se gir ke mar gaye bachche Husain ke
   Godi gharib maaoṅ ki viran kar gaye
 
   9
-  Tha hichkiyoṅ ke darmiyaṅ khwahar ka ye bayan
+  Tha hichkiyoṅ ke darmiyaṅ khwahar ka ye bayaṅ
   Hai shiddat-e-atash se mere khushk ustukhwaṅ
   Thandi jagah pe dafn karo hum ko Bhai Jaan
   Sar ko jhukaye rote the Sajjad-e-natawaṅ

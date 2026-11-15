@@ -19,14 +19,14 @@ romanLyrics: |-
   Mere Husain fi amaanillah
 
   2
-  Mere Husain safar mein na hoge tum tanha
+  Mere Husain safar meiṅ na hoge tum tanha
   Tumhaare saath rahe gi tumhaari maaṅ Zahra
   Na chain paaye gi is pal kabhi ye dukh paayi
 
   3
   Tumhaare saath rahuṅ gi tumheṅ sukun mile
-  Hamesha aalam-e-ghurbat mein tum ko chain rahe
-  Main dekh sakti nahiṅ huṅ tumhaari tanhaai
+  Hamesha aalam-e-ghurbat meiṅ tum ko chain rahe
+  Maiṅ dekh sakti nahiṅ huṅ tumhaari tanhaai
 
   4
   Diya jalaaya kabhi aur kabhi parha Quraan
@@ -40,7 +40,7 @@ romanLyrics: |-
 
   6
   Madina dikhne laga ab to suna suna sa
-  Har ek gali mein nazar aa raha hai sannaata
+  Har ek gali meiṅ nazar aa raha hai sannaata
   Kali har ek Nabi ke chaman ki murjhaayi
 
   7
@@ -55,13 +55,13 @@ romanLyrics: |-
 
   9
   Lipat ke rone lage qabr-e-Fatima se Husain
-  Bapa fazaaoṅ mein hone laga hai naala o shain
+  Bapa fazaaoṅ meiṅ hone laga hai naala o shain
   Falak larazne laga aur zamin tharraayi
 
   10
   Ye boli ro ke haziṅ ae Shams aur Aamir
   Udaas ho ga Madina ae Shams aur Aamir
-  Magar main karti rahuṅ gi teri paziraai
+  Magar maiṅ karti rahuṅ gi teri paziraai
 # source_id: nohayonline:a701ea3ffb03c73c8a97
 # source_url: https://www.nohayonline.com/details_content.php?id=2454
 # raw_sha256: c0aab39fb6cf6b170ec5ad44e4ab01c7f70e482573fd4b983ef1675f9cba8d21

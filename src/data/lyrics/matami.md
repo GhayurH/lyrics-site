@@ -20,7 +20,7 @@ romanLyrics: |-
   Kya matam-e-zanjir ho kya matam-e-talwaar
 
   1
-  Kaise wo ise chhor de ke jin ki jahaaṅ meiṅ
+  Kaise wo ise chhor de ke jin ki jahaan meiṅ
   Matam ki sadaaoṅ se chale saans ki raftaar
 
   2

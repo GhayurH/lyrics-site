@@ -12,14 +12,14 @@ aliases: []
 published: true
 romanLyrics: |-
   Mil saka na jab Ali Akbar ka laasha der tak
-  Ghutniyoṅ chalte rahe maqtal mein Maula der tak
+  Ghutniyoṅ chalte rahe maqtal meiṅ Maula der tak
 
   1
   Jaane kis tarah tamaanche Shimr ne maare use
   Siskiyaaṅ leti rahi pyaasi Sakina der tak
 
   2
-  Laasha-e-Abbas ke tukroṅ ko rakh kar qabr mein
+  Laasha-e-Abbas ke tukroṅ ko rakh kar qabr meiṅ
   Jaane kya kehte rahe Sajjad Maula der tak
 
   3

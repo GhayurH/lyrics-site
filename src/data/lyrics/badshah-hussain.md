@@ -60,7 +60,7 @@ romanLyrics: |-
   2
   Ishq tera ishq-e-Khuda
   Nok-e-sinaaṅ tak jo gaya
-  Ishq mein jo tu ne diya
+  Ishq meiṅ jo tu ne diya
   Koi bhi wo de na saka
   Nur-e-Khuda dast-e-Khuda
   Tere siwa kaun hua
@@ -81,7 +81,7 @@ romanLyrics: |-
   Sarwar-e-zishaan Husain
   Azmat-e-insaan Husain
   Bolta Quraan Husain
-  Main tere qurbaan Husain
+  Maiṅ tere qurbaan Husain
   Mir-e-haram Rab ki qasam
   Tera ye gham hoga na kam
   Farsh-e-aza haq ki sada
@@ -114,9 +114,9 @@ romanLyrics: |-
   Ishq ka tu sultaan Husain
 
   5
-  Har jaa hai hukumat teri har dil mein basa hai
-  Har dil mein azaakhaana tera aaj saja hai
-  Quraan-e-masaaib mein tera naam likha hai
+  Har jaa hai hukumat teri har dil meiṅ basa hai
+  Har dil meiṅ azaakhaana tera aaj saja hai
+  Quraan-e-masaaib meiṅ tera naam likha hai
   Maatam ki sada hai ke ye tu bol raha hai
   Ishq-e-Khuda teri adaa
   Naam tera zinda raha

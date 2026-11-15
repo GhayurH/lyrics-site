@@ -22,20 +22,20 @@ romanLyrics: |-
   Tu ne wo laasha bhi uthaaya Husain
 
   2
-  Jang hui khun mein ghaltaaṅ hue
+  Jang hui khun meiṅ ghaltaaṅ hue
   Khaak pe Zainab ke pisar gir pare
-  Khaime mein jab donoṅ ke laashe gaye
+  Khaime meiṅ jab donoṅ ke laashe gaye
   Maaṅ ne kiya shukr ka sajda Husain
 
   3
   Dekh ke naushaah ka tukre badan
   Bain kare kis se lipat kar dulhan
-  Dur Madine mein hai ham sin bahan
+  Dur Madine meiṅ hai ham sin bahan
   Bewa hui Fatema Kubra Husain
 
   4
   Dafn kiya tu ne jo apna pisar
-  Nanhi si turbat mein jigar thaam kar
+  Nanhi si turbat meiṅ jigar thaam kar
   Asghar-e-Maasum ki maaṅ ne magar
   Phul sa sar naize pe dekha Husain
 
@@ -49,7 +49,7 @@ romanLyrics: |-
   Hazrat-e-Abbas ke shaane kate
   Zainab o Kulsum ke baazu bandhe
   Haaye wo pyaasoṅ pe kathin marhale
-  Tauq mein Abid ka gala tha Husain
+  Tauq meiṅ Abid ka gala tha Husain
 
   7
   Shimr jo khanjar liye aage barha
@@ -64,34 +64,34 @@ romanLyrics: |-
   Haq o sadaaqat ki sada ya Husain
 
   9
-  Aal-e-Nabi kucha o baazaar mein
-  Tauq-e-giraaṅ gardan-e-bimaar mein
-  Sar khule phir Shaam ke darbaar mein
+  Aal-e-Nabi kucha o baazaar meiṅ
+  Tauq-e-giraaṅ gardan-e-bimaar meiṅ
+  Sar khule phir Shaam ke darbaar meiṅ
   Laayi gayi saani-e-Zehra Husain
 
   10
   Shaam ke zindaan ki taarikiyaaṅ
   Karti rahi pyaasi Sakina fughaaṅ
-  Souṅ main kaise tera sina kahaaṅ
+  Souṅ maiṅ kaise tera sina kahaaṅ
   Aaiye jald aaiye baaba Husain
 
   11
   Shimr ne maare haiṅ tamaanche mujhe
   Dekhiye rukhsaar haiṅ sujhe hue
-  Dard hai kaanoṅ mein abhi tak mere
+  Dard hai kaanoṅ meiṅ abhi tak mere
   Marti hai ab teri Sakina Husain
 
   12
   Aaj talak hai tere gham ka asar
-  Shaam mein majlis ki bina daal kar
+  Shaam meiṅ majlis ki bina daal kar
   Bint-e-Ali baith gayi khaak par
   De diya majlis ka saliqa Husain
 
   13
   Hum ko tere gham ki saadat mili
   Kitni bulandi ki ibaadat mili
-  Ek tere maatam mein ye izzat mili
-  Aati hai majlis mein jo Zehra Husain
+  Ek tere maatam meiṅ ye izzat mili
+  Aati hai majlis meiṅ jo Zehra Husain
 
   14
   Fatima Zehra ne ye ehsaaṅ kiya
@@ -100,7 +100,7 @@ romanLyrics: |-
   Ban gaye Zehra ki tamanna Husain
 
   15
-  Hum ko Rasheed us ne sahaara diya
+  Hum ko Rashid us ne sahaara diya
   Jab bhi masaaib ne pareshaaṅ kiya
   Hum ne tarapte hue besaakhta
   Tute hue dil se pukaara Husain

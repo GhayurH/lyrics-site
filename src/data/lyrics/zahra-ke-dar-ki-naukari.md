@@ -16,38 +16,38 @@ romanLyrics: |-
   Shaahi se barh ke qimati Zahra ke dar ki naukari
 
   1
-  Dunya ki kya bisaat hai is ki nazar mein khaak hai
+  Dunya ki kya bisaat hai is ki nazar meiṅ khaak hai
   Paakiza jis ka khun hai jis ka nasab bhi paak hai
   Karta rahega bas wohi Zahra ke dar ki naukari
 
   2
-  Mutthi mein kaainaat hai shaahi mein shaan yeh kahaaṅ
+  Mutthi meiṅ kaainaat hai shaahi meiṅ shaan yeh kahaaṅ
   Beti kaha Rasul ne Hasnain keh rahe haiṅ maaṅ
   Fizza ko yuṅ aziz thi Zahra ke dar ki naukari
 
   3
   Zahra ke ehtiraam ne yeh martaba ata kiya
-  Dozakh mein ja raha tha woh Shabbir ne bacha liya
+  Dozakh meiṅ ja raha tha woh Shabbir ne bacha liya
   Hur ko nasib ho gayi Zahra ke dar ki naukari
 
   4
   Armaan hai Batul ka Allah ko pasand hai
-  Khushiyoṅ ki kaainaat to ashk-e-aza mein band hai
+  Khushiyoṅ ki kaainaat to ashk-e-aza meiṅ band hai
   Yuṅ kar rahe haiṅ maatami Zahra ke dar ki naukari
 
   5
   Daar-e-fana ko chhor ke momin jo koi jaayega
-  Saaya Abu Turaab ka turbat mein phail jaayega
+  Saaya Abu Turaab ka turbat meiṅ phail jaayega
   Apna asar dikhaayegi Zahra ke dar ki naukari
 
   6
-  Shaamil the Ahl-e-Bait mein kitne azim ho gaye
-  Salmaan ki hayaat mein do hi to aise kaam the
+  Shaamil the Ahl-e-Bait meiṅ kitne azim ho gaye
+  Salmaan ki hayaat meiṅ do hi to aise kaam the
   Har dam Ali Ali Ali Zahra ke dar ki naukari
 
   7
   Aalim ko har khatib ko zaakir ko maddaah khwaab ko
-  Shaair ko soz khwaan ko har maatami jawaan ko
+  Shaair ko soz khwaaṅ ko har maatami jawaan ko
   Bunyaad-e-zarf par mili Zahra ke dar ki naukari
 # source_id: tajpoints:2925d18a68e11265bead
 # source_url: https://tajpoints.com/2018/03/zahra-ke-dar-ki-nukari.html

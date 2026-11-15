@@ -17,7 +17,7 @@ romanLyrics: |-
   1
   Naala-e-Jibril se larze zamin o aasmaṅ
   Haye wo maara gaya jo hai Imam-e-ins o jaan
-  Sajda-e-Haq mein hai zarbat farq-e-Haider par lagi
+  Sajda-e-Haq meiṅ hai zarbat farq-e-Haider par lagi
 
   2
   Baap ke qadmoṅ se lipti ro rahi haiṅ betiyaṅ
@@ -31,23 +31,23 @@ romanLyrics: |-
 
   4
   Baba tum hi the sahaara baad-e-Bint-e-Mustafa
-  Gham abhi taaza tha dil mein Maadar-e-dilgir ka
+  Gham abhi taaza tha dil meiṅ Maadar-e-dilgir ka
   Bas yatimoṅ ki tarah guzregi ab ye zindagi
 
   5
   Baap ki tarah yatimoṅ ka jo rakhta tha khayaal
-  Us ke gham mein ho rahe haiṅ haye wo bachche nidhaal
-  Aaj Kufe ke yatimoṅ mein ajab hai bekali
+  Us ke gham meiṅ ho rahe haiṅ haye wo bachche nidhaal
+  Aaj Kufe ke yatimoṅ meiṅ ajab hai bekali
 
   6
-  Murtaza ghar mein jo aaye bas usi hangaam mein
-  Betiyaṅ aa kar jo liptiṅ to usi kohraam mein
+  Murtaza ghar meiṅ jo aaye bas usi hangaam meiṅ
+  Betiyaṅ aa kar jo liptiṅ to usi kohraam meiṅ
   Ek nanhi si yatima yaad mujh ko aa gayi
 
   7
   Baad tere zulm ye bhi hum pe dhaayeṅ ge laiṅ
   Tir Shabbar ke janaaze par chalaayeṅ ge laiṅ
-  Kis tarah Ghazi ko rokuṅ gi bhala main us ghari
+  Kis tarah Ghazi ko rokuṅ gi bhala maiṅ us ghari
 
   8
   Ab tumhaare baad sajne hi ko hai Karb o Bala
@@ -61,7 +61,7 @@ romanLyrics: |-
 
   10
   Baap se lipti hui kehti thi Zainab baar baar
-  Baab-e-Saaat par karuṅ gi aap ka main intezaar
+  Baab-e-Saaat par karuṅ gi aap ka maiṅ intezaar
   Shaam ki fatah ka manzar dekhna aa kar Ali
 # source_id: nohayonline:caed95ac9dc00e833993
 # source_url: https://www.nohayonline.com/details_content.php?id=2901

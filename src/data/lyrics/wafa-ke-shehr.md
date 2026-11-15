@@ -19,7 +19,7 @@ romanLyrics: |-
   Tamaam shab rahe bedaar Hazrat-e-Abbas
 
   2
-  Nazar mein phir gaya naqsha chacha bhatiji ka
+  Nazar meiṅ phir gaya naqsha chacha bhatiji ka
   Alam hua jo numudaar Hazrat-e-Abbas
 
   3
@@ -31,7 +31,7 @@ romanLyrics: |-
   Sakina karti hai iqraar Hazrat-e-Abbas
 
   5
-  Tumhaari baali Sakina hai sakht mushkil mein
+  Tumhaari baali Sakina hai sakht mushkil meiṅ
   Jafa se nile haiṅ rukhsaar Hazrat-e-Abbas
 
   6
@@ -43,7 +43,7 @@ romanLyrics: |-
   Hai saans lena bhi dushwaar Hazrat-e-Abbas
 
   8
-  Ye nauha wird-e-zabaaṅ tha Anees Sarwar ke
+  Ye nauha wird-e-zabaaṅ tha Anis Sarwar ke
   Kahaaṅ ho mere wafaadaar Hazrat-e-Abbas
 # source_id: nohayonline:182382dea76f00d59ed5
 # source_url: https://www.nohayonline.com/details_content.php?id=1301

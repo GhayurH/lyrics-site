@@ -15,7 +15,7 @@ romanLyrics: |-
 
   1
   Na hoti ye to adhuri thi Karbala-e-Husain
-  Buland ab bhi fiza mein hai ye sada-e-Husain
+  Buland ab bhi fiza meiṅ hai ye sada-e-Husain
   Yehi to hai ba Khuda baani-e-aza-e-Husain
   Meri sharik mera ham khayaal hai Zainab
 
@@ -28,14 +28,14 @@ romanLyrics: |-
   3
   Husain charkh-e-sadaaqat ye aaftaab-e-wafa
   Husain din ki baqa hai Husainiyat ki baqa
-  Dayaar-e-Kufa o darbaar-e-Shaam mein ba Khuda
+  Dayaar-e-Kufa o darbaar-e-Shaam meiṅ ba Khuda
   Namuna-e-Asad-e-Zuljalaal hai Zainab
 
   4
   Watan se dur gham o aansu aur bechaini
   Na puchhiye ke gharibul watan pe kya guzri
   Uthaaye kis tarah zindaan-e-Shaam ki sakhti
-  Asir zulm sitam khasta jaaṅ hai Zainab
+  Asir zulm sitam khasta jaan hai Zainab
 
   5
   Nigaah-e-dehr na dekhi na aisi qurbaani
@@ -45,7 +45,7 @@ romanLyrics: |-
 
   6
   Hai sabr o shukr ka andaaz Sayyeda ki tarah
-  Amal ki raah mein tewar hai Murtaza ki tarah
+  Amal ki raah meiṅ tewar hai Murtaza ki tarah
   Sifaat o azm hai Abbas ba wafa ki tarah
   Husain hi ki tarah bemisaal hai Zainab
 

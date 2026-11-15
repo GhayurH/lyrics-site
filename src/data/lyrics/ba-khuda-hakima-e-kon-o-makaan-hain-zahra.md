@@ -18,11 +18,11 @@ published: true
 romanLyrics: |-
   1
   Ba khuda hakima-e-kon o makaan haiṅ Zahra
-  Dehn-e-aayat mein Quraan ki zubaan haiṅ Zahra
-  Misra-e-Hazrat-e-Chishti mein nihaaṅ haiṅ Zahra
+  Dehn-e-aayat meiṅ Quraan ki zubaan haiṅ Zahra
+  Misra-e-Hazrat-e-Chishti meiṅ nihaaṅ haiṅ Zahra
   Din hai Shabbir to Shabbir ki maaṅ haiṅ Zahra
-  Haq ki tabligh ke paighaam mein kya rakha hai
-  Yeh jo hat jaaeṅ to Islam mein kya rakha hai
+  Haq ki tabligh ke paighaam meiṅ kya rakha hai
+  Yeh jo hat jaaeṅ to Islam meiṅ kya rakha hai
 
   2
   Lab-e-Paighambar-e-aakhir ka wazifa Zahra
@@ -66,7 +66,7 @@ romanLyrics: |-
   7
   Muhar-e-angusht-e-wilaayat pe nagina tera
   Maalik-e-mulk ki daulat hai safina tera
-  Tubatoṅ mein jo nihaaṅ hai woh khazina tera
+  Tubatoṅ meiṅ jo nihaaṅ hai woh khazina tera
   Karbala teri Najaf tera Madina tera
   Riqqa o Mashhad o Kaashaan o Halab tere haiṅ
   Aasmaan jitne zaminoṅ pe haiṅ sab tere haiṅ

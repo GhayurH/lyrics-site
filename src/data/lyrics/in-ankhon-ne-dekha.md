@@ -60,12 +60,12 @@ romanLyrics: |-
 
   8
   Ham log rasan basta phiraae gae dar dar
-  Be miqna o chaadar
+  Bemiqna o chaadar
   Baazaaroṅ meiṅ bante hue khud apna tamaasha
   In aaṅkhoṅ ne dekha
 
   9
-  Marqad pe Jameel ek qayaamat ka samaaṅ tha
+  Marqad pe Jamil ek qayaamat ka samaaṅ tha
   Zainab ka tha nauha
   Amma ye kaho aur sunaauṅ tumheṅ kya kya
   In aaṅkhoṅ ne dekha

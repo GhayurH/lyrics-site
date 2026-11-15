@@ -11,7 +11,7 @@ tags: []
 aliases: ["Ay Alamdare Hussain"]
 published: true
 romanLyrics: |-
-  Ae Yadullah ke be dast pisar ae Abbas
+  Ae Yadullah ke bedast pisar ae Abbas
   Ae alamdar-e-Husain
 
   1
@@ -37,7 +37,7 @@ romanLyrics: |-
   Ae alamdar-e-Husain
 
   5
-  Laash khaime mein na le jaaye khudaara hargiz
+  Laash khaime meiṅ na le jaaye khudaara hargiz
   Sab se huṅ sharminda
   Shah se kehta tha tera dida-e-tar ae Abbas
   Ae alamdar-e-Husain
@@ -49,7 +49,7 @@ romanLyrics: |-
   Ae alamdar-e-Husain
 
   7
-  Tera sar baandh ke rumaal mein jo rakha hai
+  Tera sar baandh ke rumaal meiṅ jo rakha hai
   Kya sabab is ka hai
   Kiuṅ sinaaṅ par nahiṅ aaya tera sar ae Abbas
 

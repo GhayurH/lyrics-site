@@ -1,6 +1,6 @@
 ---
 title: "تنہائی میں کلثوم پڑھا کرتی تھی نوحہ"
-alternateTitle: "Main Kya Karuṅ"
+alternateTitle: "Maiṅ Kya Karuṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,13 +11,13 @@ tags: []
 aliases: ["Mai Kya Karun"]
 published: true
 romanLyrics: |-
-  Tanhaai mein Kulsum parha karti thi nauha
-  Main kya karuṅ main saahib-e-aulaad nahiṅ huṅ
+  Tanhaai meiṅ Kulsum parha karti thi nauha
+  Maiṅ kya karuṅ maiṅ saahib-e-aulaad nahiṅ huṅ
 
   1
   Ashur hai Shabbir ka dam bharti haiṅ maaeṅ
   Islam pe betoṅ ko fida karti haiṅ maaeṅ
-  Ye mera muqaddar hai ke main aaj huṅ tanha
+  Ye mera muqaddar hai ke maiṅ aaj huṅ tanha
 
   2
   Haathoṅ pe jo Shah laaeṅge laash-e-Ali Akbar
@@ -26,7 +26,7 @@ romanLyrics: |-
 
   3
   Jab tir lagega to machal jaaega beshir
-  Le aaeṅge maqtal se use god mein Shabbir
+  Le aaeṅge maqtal se use god meiṅ Shabbir
   Yaad aaega Bano ko hamesha koi jhula
 
   4
@@ -35,14 +35,14 @@ romanLyrics: |-
   Paamaal shuda aaega jab bete ka laasha
 
   5
-  Jurat mein kisi se nahiṅ kam Aun o Muhammad
+  Jurat meiṅ kisi se nahiṅ kam Aun o Muhammad
   Sheroṅ ki tarah toreṅge dam Aun o Muhammad
   Armaan dil-e-Zainab ka bhi ho jaaega pura
 
   6
   Ae kaash pisar aaj koi mera jo hota
   Is waqt wo Shabbir pe qurbaan to hota
-  Sar deta wo karti main ada shukr ka sajda
+  Sar deta wo karti maiṅ ada shukr ka sajda
 
   7
   Akbar ki tarah Asghar-e-beshir ki surat
@@ -50,8 +50,8 @@ romanLyrics: |-
   Hota mere aulaad ka sar bhi sar-e-naiza
 
   8
-  Ek pal bhi main ghairat ki sabab ji nahiṅ paati
-  Kya maadar-e-Shabbir ko main shakl dikhaati
+  Ek pal bhi maiṅ ghairat ki sabab ji nahiṅ paati
+  Kya maadar-e-Shabbir ko maiṅ shakl dikhaati
   Abbas na banta meri jaanib se jo fidya
 
   9

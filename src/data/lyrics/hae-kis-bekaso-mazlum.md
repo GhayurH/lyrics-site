@@ -29,7 +29,7 @@ romanLyrics: |-
   Ro ke keh do ke koi bekas o maghmum nahiṅ
   Juz Husain ibn-e-Ali aur koi mazlum nahiṅ
   Yehi mazlum Madine ka hai rehne waala
-  Ek saiyyadaani ne faaqoṅ mein use tha paala
+  Ek saiyyadaani ne faaqoṅ meiṅ use tha paala
 
   4
   Nayyar-e-burj-e-imaamat ka hai yehi hai haala
@@ -39,13 +39,13 @@ romanLyrics: |-
 
   5
   Shab-e-haftum se hua band is par paani
-  Isi mazlum ke qismat mein ye thi hairaani
-  Zibh jab hota tha ran mein jo Ali ka jaani
-  Pitti phirti thi maqtal mein koi saiyyadaani
+  Isi mazlum ke qismat meiṅ ye thi hairaani
+  Zibh jab hota tha ran meiṅ jo Ali ka jaani
+  Pitti phirti thi maqtal meiṅ koi saiyyadaani
 
   6
   Kaun saiyyadaani wohi Fatima ki jaani thi
-  Bhai ke pyaar mein sar nange nikal aayi thi
+  Bhai ke pyaar meiṅ sar nange nikal aayi thi
   Haaṅ Payambar ke Madine ka musaafir hai yehi
   Apne nana ki lahad ka bhi mujaawir hai yehi
 
@@ -59,7 +59,7 @@ romanLyrics: |-
   Ya Husain aap ki mazlumi o ghurbat ke nisaar
   Sar ko katwa diya kis shaan se himmat ke nisaar
   Tah-e-khanjar bhi kiya sajda ibaadat ke nisaar
-  Nange sar dekha na hamsheer ko ghurbat ke nisaar
+  Nange sar dekha na hamshir ko ghurbat ke nisaar
 
   9
   Hoṅ fida aap pe muṅh ashkoṅ se dhone waale
@@ -71,7 +71,7 @@ romanLyrics: |-
   Kaampte haathoṅ se Aaqa ne banaayi turbat
   Kya kaheṅ kis se kaheṅ qalb ki apni haalat
   Chaand ko apne tah-e-khaak chhupaaya hai abhi
-  Hansliyoṅ waale ko turbat mein sulaaya hai abhi
+  Hansliyoṅ waale ko turbat meiṅ sulaaya hai abhi
 
   11
   Kis qadar bekas o mazlum tha ye shaah-e-gharib
@@ -81,14 +81,14 @@ romanLyrics: |-
 
   12
   Ya Ali keh ke sambhaala hai dil-e-muztar ko
-  Khuṅ bhare kurte mein dafnaaya Ali Asghar ko
+  Khuṅ bhare kurte meiṅ dafnaaya Ali Asghar ko
   Ro ke dete haiṅ sada maah-e-anwar bolo
   Ae mere chhote shahid ae mere dilbar bolo
 
   13
   Baap ko chhor ke tanha gaye kiuṅ kar bolo
-  Dard kaisa hai gale mein Ali Asghar bolo
-  God mein baith ke sab haal sunaana beta
+  Dard kaisa hai gale meiṅ Ali Asghar bolo
+  God meiṅ baith ke sab haal sunaana beta
   Tir ka zakhm bhi daadi ko dikhaana beta
 # source_id: nohayonline:1b53f7b12de3f6957fed
 # source_url: https://www.nohayonline.com/content_marsiya.php?id=4

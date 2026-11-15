@@ -12,20 +12,20 @@ aliases: []
 published: true
 romanLyrics: |-
   Abbas jari faateh-e-Khaibar ki tarah hai
-  Hyder ka pisar shaan mein Hyder ki tarah hai
+  Hyder ka pisar shaan meiṅ Hyder ki tarah hai
 
   1
-  Khud Shaam ki faujoṅ mein hai aata hai Alamdar
+  Khud Shaam ki faujoṅ meiṅ hai aata hai Alamdar
   Is sher ke hamle se khabardaar khabardaar
-  Tanha bhi hazaaroṅ mein ye lashkar ki tarah hai
+  Tanha bhi hazaaroṅ meiṅ ye lashkar ki tarah hai
 
   2
-  Ye dam hai bhala kis mein jo is sher ko roke
-  Ek mashk mein le jaayega darya ko sumoṅ ke
+  Ye dam hai bhala kis meiṅ jo is sher ko roke
+  Ek mashk meiṅ le jaayega darya ko sumoṅ ke
   Aada ke liye halq pe khanjar ki tarah hai
 
   3
-  Be tegh bhi darya ko kiya fauj se khaali
+  Betegh bhi darya ko kiya fauj se khaali
   Is sher ka har waar hai Hyder sa misaali
   Ye baad-e-Nabi din ke rahbar ki tarah hai
 
@@ -47,10 +47,10 @@ romanLyrics: |-
   7
   Kahti hai Muhammad ke gharaane ki fiza bhi
   Abbas nahiṅ hai to zamaane ki fiza bhi
-  Ek khun mein dube hue manzar ki tarah hai
+  Ek khun meiṅ dube hue manzar ki tarah hai
 
   8
-  Is zulm se jo Maisam o Mehboob bachaaye
+  Is zulm se jo Maisam o Mehbub bachaaye
   Aada se rida Zainab-e-muztar ki dilaaye
   Ab kaun Shaah-e-din ke dilbar ki tarah hai
 # source_id: nohayonline:52172721be2d4311e325

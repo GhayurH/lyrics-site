@@ -1,6 +1,6 @@
 ---
 title: "اے حسن کے لاڈلے قاسم کہاں ہو تم"
-alternateTitle: "Qasim Kahan Ho Tum"
+alternateTitle: "Qasim Kahaṅ Ho Tum"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -23,24 +23,24 @@ romanLyrics: |-
   2
   Tumheiṅ maadar ki ae Qasim zaifi ka sahaara hai
   Dar-e-khaime se tujhko teri ammaaṅ ne pukaara hai
-  Ke narghe mein lainoṅ ke mere aankhoṅ ka taara hai
+  Ke narghe meiṅ lainoṅ ke mere aankhoṅ ka taara hai
   Mujhe aawaaz do Qasim jahaaṅ ho tum
 
   3
-  Tumhaare saath Ghaazi ko agar main bhejta ran mein
-  Tujhe wo le ke aa jaate tumhaari maaṅ ki aangan mein
-  Ijaazat de ke main tujhko phansa huṅ main bhi uljhan mein
+  Tumhaare saath Ghaazi ko agar maiṅ bhejta ran meiṅ
+  Tujhe wo le ke aa jaate tumhaari maaṅ ki aangan meiṅ
+  Ijaazat de ke maiṅ tujhko phansa huṅ maiṅ bhi uljhan meiṅ
   Mujhe aawaaz do Qasim jahaaṅ ho tum
 
   4
-  Laga kar haath mein mehndi chale ho jaanib-e-maqtal
-  Palat kar jald aa jaao yahaaṅ khaimoṅ mein hai halchal
-  Tumhaari yaad mein Kubra tarap kar kehti hai pal pal
+  Laga kar haath meiṅ mehndi chale ho jaanib-e-maqtal
+  Palat kar jald aa jaao yahaaṅ khaimoṅ meiṅ hai halchal
+  Tumhaari yaad meiṅ Kubra tarap kar kehti hai pal pal
   Mujhe aawaaz do Qasim jahaaṅ ho tum
 
   5
   Tere paamaal laashe ko agar dekhe wo bechaari
-  Bari mushkil hai ji paaye teri gham mein wo dukhiyaari
+  Bari mushkil hai ji paaye teri gham meiṅ wo dukhiyaari
   Mere Qasim dikha di tu ne Ghaazi ki wafaadaari
   Mujhe aawaaz do Qasim jahaaṅ ho tum
 

@@ -17,11 +17,11 @@ romanLyrics: |-
   Man Zainabam
 
   1
-  Ae Shaamiyoṅ main bint-e-Nabi bint-e-Ali huṅ
-  Zainab huṅ main Zainab huṅ main Zainab huṅ main
-  Quraan ke saaye mein pali huṅ
-  Zakhmi huṅ azaadaar huṅ rassi mein bandhi huṅ
-  Main phir bhi na zaalim se dari thi na dari huṅ
+  Ae Shaamiyoṅ maiṅ bint-e-Nabi bint-e-Ali huṅ
+  Zainab huṅ maiṅ Zainab huṅ maiṅ Zainab huṅ maiṅ
+  Quraan ke saaye meiṅ pali huṅ
+  Zakhmi huṅ azaadaar huṅ rassi meiṅ bandhi huṅ
+  Maiṅ phir bhi na zaalim se dari thi na dari huṅ
   Tanhaai-e-man
   Man charaagh-e-Mustafa
   Man jalaal-e-Murtaza
@@ -33,7 +33,7 @@ romanLyrics: |-
 
   2
   Naize pe mere bhaai ka sar tum ne charhaaya
-  Turbat mein Ali aur Nabi ko hai rulaaya
+  Turbat meiṅ Ali aur Nabi ko hai rulaaya
   Jitna bhi sataana tha hameṅ tum ne sataaya
   Par baiat-e-zaalim pe na sar hum ne jhukaaya
   Tanhaai-e-man
@@ -48,7 +48,7 @@ romanLyrics: |-
   3
   Hai Akbar o Shabbir se Abbas se waada
   Jab bhi dar-e-zindaan-e-sitam mujh pe khule ga
-  Maatam mere pyaaroṅ ka bapa Shaam mein ho ga
+  Maatam mere pyaaroṅ ka bapa Shaam meiṅ ho ga
   Phir maatam-e-Shabbir na taa hashr ruke ga
   Tanhaai-e-man
   Man charaagh-e-Mustafa
@@ -61,8 +61,8 @@ romanLyrics: |-
 
   4
   Paighaam-e-Husaini ka diya jalta rahe ga
-  Abbas ka parcham bhi har ek ghar mein lage ga
-  Salmaan o Ali Jee aza khaana to saje ga
+  Abbas ka parcham bhi har ek ghar meiṅ lage ga
+  Salmaan o Ali Ji aza khaana to saje ga
   Ailaan sada khutba-e-Zainab ye kare ga
   Tanhaai-e-man
   Man charaagh-e-Mustafa

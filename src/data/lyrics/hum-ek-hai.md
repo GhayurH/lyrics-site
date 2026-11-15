@@ -14,20 +14,20 @@ romanLyrics: |-
   Bolo na bolo na Maula Maula Husain
   Husain Husain Husain Husain
 
-  Saare jahaaṅ mein hai mazhab do hi
+  Saare jahaaṅ meiṅ hai mazhab do hi
   Ek Yazidi ek Husaini
   Kaam nahiṅ hameiṅ dunya se koi
   Hum ne to chun li raah tumhaari
   Jo haq pe jite marte haiṅ
   Jo baatil se takraate haiṅ
-  Jo dil mein tujhe basaate haiṅ
+  Jo dil meiṅ tujhe basaate haiṅ
   Hum un ko gale lagaate haiṅ
 
   Jo bhi pukaare naam tumhaara
   Hum us ke haiṅ wo hamaara
   Hum ek hai ya Husain
 
-  Abbas ke parcham ke saaye mein
+  Abbas ke parcham ke saaye meiṅ
   Ek hai ya Husain
   Hum ek hai ya Husain
 
@@ -45,9 +45,9 @@ romanLyrics: |-
   2
   Hum zinda qaum hai hum ne bataaya
   Jab bhi Muharram aaya
-  Ek alam ke saaye mein aaye
+  Ek alam ke saaye meiṅ aaye
   Aur ittihaad dikhaaya
-  Yaad-e-Husain mein paani pilaaya
+  Yaad-e-Husain meiṅ paani pilaaya
   Apna ho ya ho paraaya
   Kaale libaas waale
   Hum hai Abbas waale
@@ -68,7 +68,7 @@ romanLyrics: |-
   Millat ka hai naara
   Tu hai Maula hamaara ya Husain
 
-  Abbas ke parcham ke saaye mein
+  Abbas ke parcham ke saaye meiṅ
   Ek hai ya Husain
 
   4
@@ -78,7 +78,7 @@ romanLyrics: |-
   Ek hai ummat saari
   Ab saari qaumeiṅ karti hai mil kar
   Maula teri azaadaari
-  Ghar ghar mein saf-e-maatam
+  Ghar ghar meiṅ saf-e-maatam
   Ghar ghar pe tera alam
   Ye bhi karam hai tumhaara
 
@@ -86,7 +86,7 @@ romanLyrics: |-
   Hum us ke haiṅ wo hamaara
 
   5
-  Halqa-e-maatam mein jaa kar hi
+  Halqa-e-maatam meiṅ jaa kar hi
   Dekhe hai hum ne nazaare
   Na koi rang na mazhab millat
   Farq mita diye saare
@@ -97,7 +97,7 @@ romanLyrics: |-
   Dil se hai dil dil ko sahaara
 
   6
-  Taarikh mein likhi jaayeṅ gi
+  Taarikh meiṅ likhi jaayeṅ gi
   Safar-e-ishq ki baateiṅ
   Har rang o nasl ke log khare haiṅ
   Sab ki alag hai zabaaneiṅ
@@ -107,7 +107,7 @@ romanLyrics: |-
   Najaf se Karbobala
   Ye keh raha hai har nazaara
 
-  Abbas ke parcham ke saaye mein
+  Abbas ke parcham ke saaye meiṅ
   Ek hai ya Husain
 
   7
@@ -121,7 +121,7 @@ romanLyrics: |-
   Sun le ye dunya saari
   Chaahe jahaaṅ bhi rehte ho lekin
   Yak jaa hai qaum hamaari
-  Dunya mein baat jab bhi
+  Dunya meiṅ baat jab bhi
   Husainiyat pe aayi
   Hum jite haiṅ Yazid haara
 
@@ -144,7 +144,7 @@ romanLyrics: |-
   Dil phat raha hai hamaara
   Dafn kiya Asghar ka laasha
   Maula ye dil tha tumhaara
-  Jab Karbala mein koi rawaana
+  Jab Karbala meiṅ koi rawaana
   Maula tumhaara sahaara
   Tum ko gale laga ke
   Rahwaar pe bitha ke
@@ -156,7 +156,7 @@ romanLyrics: |-
   Tere chaahne waale aaye haiṅ
   Tere alam ke saaye saaye Husain
   Aur ashk baha kar kehte haiṅ
-  Ye Mazhar o Zeeshan o Meesam
+  Ye Mazhar o Zishan o Misam
   Sada rahe ga Husain ka gham
   Sada rahe ga Husain ka gham
 # source_id: nohayonline:75b0a80e24a877a33651

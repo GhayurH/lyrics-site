@@ -1,6 +1,6 @@
 ---
 title: "ہائے ہائے جواں اکبر جواں اکبر جواں اکبر جواں"
-alternateTitle: "Akbar Jawan"
+alternateTitle: "Akbar Jawaaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,19 +11,19 @@ aliases: []
 published: true
 reciter: "Mir Sajjad Mir"
 romanLyrics: |-
-  Haye Haye jawaṅ Akbar jawaṅ Akbar jawaṅ Akbar jawaṅ
-  Khaimoṅ mein ek kohram hai roti haiṅ saari Bibiyaṅ
-  Haye Haye jawaṅ Akbar jawaṅ Akbar jawaṅ Akbar jawaṅ
+  Haye Haye jawaaṅ Akbar jawaaṅ Akbar jawaaṅ Akbar jawaaṅ
+  Khaimoṅ meiṅ ek kohram hai roti haiṅ saari Bibiyaṅ
+  Haye Haye jawaaṅ Akbar jawaaṅ Akbar jawaaṅ Akbar jawaaṅ
 
   1
   Awaaz di mazlum ne Nana madad ko aaiye
-  Kariyal jawaṅ ki laash hai Baba madad ko aaiye
-  Sine mein mere laal ke tori hai qaatil ne sinaṅ
+  Kariyal jawaaṅ ki laash hai Baba madad ko aaiye
+  Sine meiṅ mere laal ke tori hai qaatil ne sinaṅ
 
   2
   Ghurbat pe ab Shabbir ki hansti hai fauj-e-ashqiya
-  Main khaa raha huṅ thokareṅ milta nahiṅ laasha tera
-  Akbar mujhe awaaz do tum gir gaye ran mein kahaṅ
+  Maiṅ khaa raha huṅ thokareṅ milta nahiṅ laasha tera
+  Akbar mujhe awaaz do tum gir gaye ran meiṅ kahaṅ
 
   3
   Akbar utho baateṅ karo aise nahiṅ khamosh hoṅ
@@ -36,18 +36,18 @@ romanLyrics: |-
   Nad-e-Ali parh kar abhi hum khinch lete haiṅ sinaṅ
 
   5
-  Kariyal jawaṅ lasha koi jab bhi kisi ghar se utha
+  Kariyal jawaaṅ lasha koi jab bhi kisi ghar se utha
   Lashe se apne laal ke jab maaṅ na ho pai juda
   Dil ne tarap kar di sada Haye Ali Akbar ki maaṅ
 
   6
   Bachpan se tum ne aaj tak Baba se kuchh maanga nahiṅ
-  Ab paani tum ko chahiye aur main pila sakta nahiṅ
+  Ab paani tum ko chahiye aur maiṅ pila sakta nahiṅ
   Tum se zyaada khushk hai beta hamaari khud zabaṅ
 
   7
   Sajjad ye rote hue aai sada-e-Fatima
-  Khaime mein laasha le chalo jaldi se apne laal ka
+  Khaime meiṅ laasha le chalo jaldi se apne laal ka
   Aisa na ho beta kahiṅ Zainab bhi aa jae yahaṅ
 # source_id: nohayonline:4f1bcb2ca8bb045c82d7
 # source_url: https://www.nohayonline.com/details_content.php?id=1523

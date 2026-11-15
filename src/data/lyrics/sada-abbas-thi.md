@@ -27,12 +27,12 @@ romanLyrics: |-
   Saamne Ghaazi ke bas Aal-e-Nabi ki pyaas thi
 
   4
-  Jis ghari thi lut asbaab-e-Nabi ki dasht mein
-  Aise mushkil mein sada-e-Aal Ya Abbas thi
+  Jis ghari thi lut asbaab-e-Nabi ki dasht meiṅ
+  Aise mushkil meiṅ sada-e-Aal Ya Abbas thi
 
   5
   Kat gaye us sher ke baazu lab-e-nahr-e-Furaat
-  Karbala ke dasht mein jo bekasoṅ ki aas thi
+  Karbala ke dasht meiṅ jo bekasoṅ ki aas thi
 
   6
   Chal rahi thi jis ghari halq-e-Shah-e-diṅ par chhuri

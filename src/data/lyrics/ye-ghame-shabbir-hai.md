@@ -20,7 +20,7 @@ romanLyrics: |-
   Kar ke bayaaṅ zikr-e-gham sab ko rulaate chalo
 
   2
-  Ashk-e-aza-e-Husain hashr mein kaam aayeṅge
+  Ashk-e-aza-e-Husain hashr meiṅ kaam aayeṅge
   Saamne Zehra ke hum rote hue jaayeṅge
   Shaafi-e-mahshar se hum is ka ajr paayeṅge
   Kar ke bayaaṅ zikr-e-gham sab ko rulaate chalo
@@ -33,13 +33,13 @@ romanLyrics: |-
 
   4
   Kitna alamnaak hai maaraka-e-Karbala
-  Is ka har ek baab hai khun mein duba hua
+  Is ka har ek baab hai khun meiṅ duba hua
   Kehte the khud Jibrail zulm tha had se siwa
   Kar ke bayaaṅ zikr-e-gham sab ko rulaate chalo
 
   5
   Arz o samaa roye haiṅ roye haiṅ kul ambiya
-  Rote hue aaye haiṅ Karbala mein Mustafa
+  Rote hue aaye haiṅ Karbala meiṅ Mustafa
   Is liye ahl-e-aza karte haiṅ aah o buka
   Kar ke bayaaṅ zikr-e-gham sab ko rulaate chalo
 
@@ -56,7 +56,7 @@ romanLyrics: |-
   Kar ke bayaaṅ zikr-e-gham sab ko rulaate chalo
 
   8
-  Kya sabaq aamoz hai saaniha be shir ka
+  Kya sabaq aamoz hai saaniha beshir ka
   Kya khata bachche ki thi koi bata de zara
   Asghar-e-maasum ko tir se maara gaya
   Kar ke bayaaṅ zikr-e-gham sab ko rulaate chalo
@@ -64,13 +64,13 @@ romanLyrics: |-
   9
   Dekh ke Akbar ko ye kehte the Ibn-e-Ali
   Ye mera farzand hai hubahu shakl-e-Nabi
-  Aise jawaaṅ bete ke sine mein barchhi lagi
+  Aise jawaaṅ bete ke sine meiṅ barchhi lagi
   Kar ke bayaaṅ zikr-e-gham sab ko rulaate chalo
 
   10
   Sirf bahattar the wo laakh thi fauj-e-sitam
   Aise bahattar the wo rakh liye khud ka bharam
-  Mit nahiṅ sakta Kaleem aise bahattar ka gham
+  Mit nahiṅ sakta Kalim aise bahattar ka gham
   Kar ke bayaaṅ zikr-e-gham sab ko rulaate chalo
 # source_id: nohayonline:90bf2328a9069a383438
 # source_url: https://www.nohayonline.com/details_content.php?id=791

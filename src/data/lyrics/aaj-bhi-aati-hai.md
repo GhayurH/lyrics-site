@@ -27,11 +27,11 @@ romanLyrics: |-
   3
   Jal raha tha dar hamara aur sab haṅste rahe
   Murtaza ko baandh kar gardan se rassi le gaye
-  De rahi thi aap ko ro ro ke main us dam sada
+  De rahi thi aap ko ro ro ke maiṅ us dam sada
 
   4
-  Dar giraya jab sitamgaaroṅ ne main kehti rahi
-  Zaalimoṅ main Fatema Zehra huṅ main bint-e-Nabi
+  Dar giraya jab sitamgaaroṅ ne maiṅ kehti rahi
+  Zaalimoṅ maiṅ Fatema Zehra huṅ maiṅ bint-e-Nabi
   Rehm na khaaya kisi ne aur na aayi kuch haya
 
   5

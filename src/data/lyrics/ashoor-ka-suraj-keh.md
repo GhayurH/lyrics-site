@@ -1,6 +1,6 @@
 ---
 title: "عاشور کا سورج کہہ دے گا"
-alternateTitle: "Ashoor Ka Suraj Keh Dega"
+alternateTitle: "Ashur Ka Suraj Keh Dega"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,7 +10,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ashoor ka suraj keh dega
+  Ashur ka suraj keh dega
   Khamosh kinara keh dega
   Jo baat ke Asghar keh na sake
   Behta hua darya keh dega
@@ -28,7 +28,7 @@ romanLyrics: |-
   Jalta hua khaima keh dega
 
   3
-  Kis tarha gaye Asghar ran mein
+  Kis tarha gaye Asghar ran meiṅ
   Aabaad hui kiuṅ kar turbat
   Bano ki udaasi keh degi
   Ujra hua jhula keh dega

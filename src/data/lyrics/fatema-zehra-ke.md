@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Ho tasawwur aur gham-e-Shabbir ho
   Haath ho sine pe zehn pe beshir ho
-  Ashk-e-gham mein kabhi tankid ki parwa na karo
+  Ashk-e-gham meiṅ kabhi tankid ki parwa na karo
   Sada-e-girya ho yaad-e-Shah-e-dilgir ho
 
   Fatema Zehra ke bachchoṅ par bahaao aansuṅ
@@ -40,8 +40,8 @@ romanLyrics: |-
   Khasta tan saani-e-Zehra par bahaao aansuṅ
 
   5
-  Ho Muharram ko tasawwur mein faqat ho Sarwar
-  Na siyaasat ho zara dil mein faqat ho Sarwar
+  Ho Muharram ko tasawwur meiṅ faqat ho Sarwar
+  Na siyaasat ho zara dil meiṅ faqat ho Sarwar
   Khulus-e-dil se shahidoṅ pe bahaao aansuṅ
 
   6

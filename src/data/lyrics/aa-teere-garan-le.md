@@ -35,26 +35,26 @@ romanLyrics: |-
 
   4
   Ye Shami Kufi patthar dil
-  Kuch der mein ye sab royeṅge
+  Kuch der meiṅ ye sab royeṅge
   Mumkin jo na tha ho jayega
   Hansne se tere wo zarur Asghar
 
   5
-  Shaamil hai azal ke waade mein
+  Shaamil hai azal ke waade meiṅ
   Chehre pe mere ho tera lahu
   Aabaad ho teri tajalli se
   Aaghosh ka mere Tur Asghar
 
   6
   Kuch din hi jiyegi baad tere
-  Tujhe god mein paalne waali maaṅ
+  Tujhe god meiṅ paalne waali maaṅ
   Bachchoṅ ki judaai ke zakhmoṅ se
   Us ka dil hoga chur Asghar
 
   7
   Abid tere gham ka kaatib hai
   Abid tere dar ka sajid hai
-  Hai jo bhi likha hai jo bhi padha
+  Hai jo bhi likha hai jo bhi parha
   Sab tu ne diya hai shaur Asghar
 # source_id: nohayonline:b6296d9b5516ac1bdaf4
 # source_url: https://www.nohayonline.com/details_content.php?id=3097

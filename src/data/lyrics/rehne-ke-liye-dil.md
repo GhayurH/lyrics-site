@@ -10,12 +10,12 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Rehne ke liye dil mein hai Shabbir ki surat
+  Rehne ke liye dil meiṅ hai Shabbir ki surat
   Aaina badalta nahiṅ taswir ki surat
 
   1
-  Hasnain o Nabi Haidar o Zehra haiṅ kisa mein
-  Tafsir ke paikar mein hai tathir ki surat
+  Hasnain o Nabi Haidar o Zehra haiṅ kisa meiṅ
+  Tafsir ke paikar meiṅ hai tathir ki surat
 
   2
   Qurbaani-e-Shabbir Khalil aap bhi dekheiṅ
@@ -26,7 +26,7 @@ romanLyrics: |-
   Jo misl-e-kamaaṅ the wo gaye tir ki surat
 
   4
-  Ab aur na duniya mein Khalil aur na Shabbir
+  Ab aur na duniya meiṅ Khalil aur na Shabbir
   Har khwaab dikhaata nahiṅ taabir ki surat
 
   5
@@ -35,10 +35,10 @@ romanLyrics: |-
 
   6
   Jab aaya hai Sajjad ke qadmoṅ ka tasavvur
-  Ashkoṅ mein utar aayi hai zanjir ki surat
+  Ashkoṅ meiṅ utar aayi hai zanjir ki surat
 
   7
-  Baatil ki fizaaoṅ mein Wasi haq ke fidaai
+  Baatil ki fizaaoṅ meiṅ Wasi haq ke fidaai
   Hur ban ke badalte haiṅ taqdir ki surat
 # source_id: nohayonline:135c1e8d360b6baa78fd
 # source_url: https://www.nohayonline.com/details_content.php?id=487

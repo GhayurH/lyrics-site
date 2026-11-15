@@ -27,7 +27,7 @@ romanLyrics: |-
   Hai yahi ek mere bhaai ki kamaai Abbas
 
   4
-  Laash ran mein hai mere bhaai ki begor o kafan
+  Laash ran meiṅ hai mere bhaai ki begor o kafan
   Ummat-e-jad ko magar sharm na aai Abbas
 
   5
@@ -35,12 +35,12 @@ romanLyrics: |-
   Koi sunta nahiṅ Zainab ki duhaai Abbas
 
   6
-  Phirti hai aankhoṅ mein Akbar ki jawaani bhaiya
-  Mil gayi khaak mein Shabbar ki kamaai Abbas
+  Phirti hai aankhoṅ meiṅ Akbar ki jawaani bhaiya
+  Mil gayi khaak meiṅ Shabbar ki kamaai Abbas
 
   7
-  Main bhi kehlaati thi shehzaadi isi Kufe mein
-  Haaye kis haal mein qismat yahaaṅ laai Abbas
+  Maiṅ bhi kehlaati thi shehzaadi isi Kufe meiṅ
+  Haaye kis haal meiṅ qismat yahaaṅ laai Abbas
 
   8
   Raaz likh sakta na tha itna murattab nauha

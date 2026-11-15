@@ -11,9 +11,9 @@ aliases: ["Khate Sughra"]
 published: true
 reciter: Shahid Baltistani
 romanLyrics: |-
-  Karbala mein jo khat-e-Fatema Sughra aaya
+  Karbala meiṅ jo khat-e-Fatema Sughra aaya
   Parh ke ye baat bahut Shah ko rona aaya
-  Hashr mein hogi mulaaqaat hamaari baba
+  Hashr meiṅ hogi mulaaqaat hamaari baba
   Ab na ji paayegi bimaar tumhaari baba
 
   1
@@ -23,12 +23,12 @@ romanLyrics: |-
   2
   Jab dubta hai suraj dil dubne lagta hai
   Viraan hai sab hujre ghar qabr ke jaisa hai
-  Hai mere muqaddar mein tanhaai mein mar jaana
+  Hai mere muqaddar meiṅ tanhaai meiṅ mar jaana
   Jab laut ke aaoge meri qabr pe aa jaana
 
   3
   Hai paas ajal mere tum dur ho Sughra se
-  Hasrat ye liye baba jaati huṅ main dunya se
+  Hasrat ye liye baba jaati huṅ maiṅ dunya se
   Kaandha to janaaze ko mumkin na hua dena
   Jab laut ke aaoge meri qabr pe aa jaana
 
@@ -45,7 +45,7 @@ romanLyrics: |-
   Jab laut ke aaoge meri qabr pe aa jaana
 
   6
-  Ae kaash Madine mein wo paas mere rehta
+  Ae kaash Madine meiṅ wo paas mere rehta
   Sughra ke janaaze par ek bhai to ro leta
   Baba mere Asghar ko turbat meri dikhlaana
   Jab laut ke aaoge meri qabr pe aa jaana
@@ -57,8 +57,8 @@ romanLyrics: |-
   Jab laut ke aaoge meri qabr pe aa jaana
 
   8
-  Rukh hoga lahad mein bhi ae baba su-e-qibla
-  Main qabr mein jaa kar bhi dekhuṅgi tera rasta
+  Rukh hoga lahad meiṅ bhi ae baba su-e-qibla
+  Maiṅ qabr meiṅ jaa kar bhi dekhuṅgi tera rasta
   Achchha mere waade ko tum yuṅ hi nibha lena
   Jab laut ke aaoge meri qabr pe aa jaana
 

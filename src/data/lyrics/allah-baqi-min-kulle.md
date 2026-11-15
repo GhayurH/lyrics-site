@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Puchho na manzar dasht-e-bala ke
-  Hai khaak pe tadpe pyason ke laashe
+  Hai khaak pe tarpe pyasoṅ ke laashe
   Roti rahi darya ki rawaani
 
   2
@@ -25,14 +25,14 @@ romanLyrics: |-
   Akbar ka sina barchi purani
 
   3
-  Nazroṅ mein yuṅ andher jahaaṅ hai
-  Hai baap zaeef aur laash jawaaṅ hai
+  Nazroṅ meiṅ yuṅ andher jahaaṅ hai
+  Hai baap zaif aur laash jawaaṅ hai
   Thaame jigar hai Zehra ka jaani
 
   4
-  Gham mein tumhare rote raheṅge
+  Gham meiṅ tumhare rote raheṅge
   Ashkoṅ se munh ko dhote raheṅge
-  Baaqi hai jab tak aankhoṅ mein paani
+  Baaqi hai jab tak aankhoṅ meiṅ paani
 
   5
   Hai khushk lab aur sukha gala hai
@@ -41,13 +41,13 @@ romanLyrics: |-
 
   6
   Nanhe mujaahid ae jaan-e-maadar
-  Pyaas ke aalam mein tu ne Asghar
+  Pyaas ke aalam meiṅ tu ne Asghar
   Hans ke utaara tiroṅ ka paani
 
   7
   Jab yaad aaya baba ka sina
   Faryad karti ro ro Sakina
-  Ran mein tadapta Zehra ka jaani
+  Ran meiṅ tarapta Zehra ka jaani
 
   8
   Tum kya sidhaare ae mere beta
@@ -55,7 +55,7 @@ romanLyrics: |-
   Kis kaam ki hai ab zindagaani
 
   9
-  Keh do Bilal o Aamir ye badh kar
+  Keh do Bilal o Aamir ye barh kar
   Khaai unhoṅ ne dar dar ki thokar
   Bhule hai jo gham ki kahaani
 # source_id: nohayonline:f491589475030380562c

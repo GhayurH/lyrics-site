@@ -12,10 +12,10 @@ aliases: ["Sadiyon Se Ek Raat"]
 published: true
 romanLyrics: |-
   Kehte haiṅ ye Imam-e-Zamaaṅ Ae Karbala
-  Sadiyoṅ se ik raat bhi soya nahiṅ huṅ main
+  Sadiyoṅ se ik raat bhi soya nahiṅ huṅ maiṅ
 
-  Ji khol kar Husain ko roya nahiṅ huṅ main
-  Sadiyoṅ se ik raat bhi soya nahiṅ huṅ main
+  Ji khol kar Husain ko roya nahiṅ huṅ maiṅ
+  Sadiyoṅ se ik raat bhi soya nahiṅ huṅ maiṅ
 
   1
   Dubi hui lahu meiṅ hai Shabbir ki jabiṅ
@@ -50,14 +50,14 @@ romanLyrics: |-
   6
   Nashe meiṅ hirs o jahl ke tum log chur ho
   Kirdaar aur amal meiṅ bahut beshuur ho
-  Main tum se to qarib huṅ tum mujh se dur ho
+  Maiṅ tum se to qarib huṅ tum mujh se dur ho
   Taiyaar tum nahiṅ ho to kaise zuhur ho
 
   7
   Raast usul-e-din ke har ek pal karo
   Logoṅ furu-e-din pe pura amal karo
   Hirs o hawaas-e-nafs se jang o jadal karo
-  Main chaahta zuhur huṅ mushkil ko hal karo
+  Maiṅ chaahta zuhur huṅ mushkil ko hal karo
 # source_id: nohayonline:04de1122bc4c94c3e7e7
 # source_url: https://www.nohayonline.com/details_content.php?id=2360
 # raw_sha256: 2ef51c26083944fb75d95a23af5dc03144cc61292dfbb298e98326e4ea2e2d7a

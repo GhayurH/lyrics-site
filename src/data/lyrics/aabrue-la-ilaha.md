@@ -19,11 +19,11 @@ romanLyrics: |-
 
   1
   Likh diya khun se Husaina parcham-e-Islam par
-  Sar katana rah-e-haq mein din ki tauqir hai
+  Sar katana rah-e-haq meiṅ din ki tauqir hai
 
   2
   Laasha-e-Akbar utha kar bole Shah-e-Karbala
-  Khaak o khun mein Sarwar-e-Kaunain ki tasvir hai
+  Khaak o khun meiṅ Sarwar-e-Kaunain ki tasvir hai
 
   3
   Dekhiye Ayyub aa kar sabr ki manzil zara
@@ -31,11 +31,11 @@ romanLyrics: |-
 
   4
   Kis tarha dafnaye Zainab laash ko teri Husain
-  Haathoṅ mein rassi bandhi hai sar khule hamshir hai
+  Haathoṅ meiṅ rassi bandhi hai sar khule hamshir hai
 
   5
   Is tarha Irfan hota hai fariza-e-haq ada
-  Khun mein dubi hui peshani-e-Shabbir hai
+  Khun meiṅ dubi hui peshani-e-Shabbir hai
 # source_id: nohayonline:0cfc493abdb10448e819
 # source_url: https://www.nohayonline.com/details_content.php?id=31
 # raw_sha256: 01311218c6f1324ec2411fd3485f0f19bfc6d12c5bb2cf8b1be86ad5a8786ef5

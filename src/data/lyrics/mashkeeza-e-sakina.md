@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Mashkiza-e-Sakina kehta hai Alqama se
-  Khaimoṅ mein tishnagi hai Asghar bahut haiṅ pyase
+  Khaimoṅ meiṅ tishnagi hai Asghar bahut haiṅ pyase
 
   1
   Sukhe hue laboṅ par likhi hai ye kahaani
@@ -22,7 +22,7 @@ romanLyrics: |-
 
   2
   Har kisht-e-aarzu ko beaab kar gayi hai
-  Ahl-e-haram mein sab ko betaab kar gayi hai
+  Ahl-e-haram meiṅ sab ko betaab kar gayi hai
   Akbar ke khun se barchhi sairaab kar gayi hai
   Ghar ke charagh bhi ab bujhne lage hawa se
 

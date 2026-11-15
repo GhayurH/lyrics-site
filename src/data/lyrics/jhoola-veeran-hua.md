@@ -27,14 +27,14 @@ romanLyrics: |-
   Mera Asghar na raha
 
   3
-  Ab bhi khwaaboṅ mein mere hansta hua aata hai
+  Ab bhi khwaaboṅ meiṅ mere hansta hua aata hai
   Tab kahiṅ jaa ke mera dil bhi sukuṅ paata hai
   Meri aankhoṅ ki ziya
   Mera Asghar na raha
 
   4
-  Aa jaao aaghosh mein tujh ko maiṅ chhupa luṅ beta
-  Apne baahoṅ mein tujhe jhula jhulaauṅ beta
+  Aa jaao aaghosh meiṅ tujh ko maiṅ chhupa luṅ beta
+  Apne baahoṅ meiṅ tujhe jhula jhulaauṅ beta
   Ye sitam mujh pe hua
   Mera Asghar na raha
 
@@ -51,8 +51,8 @@ romanLyrics: |-
   Mera Asghar na raha
 
   7
-  Waada hai tujh se mera saae mein na baithuṅ gi
-  Gham mein ae laal tere har ghari maiṅ rouṅ gi
+  Waada hai tujh se mera saae meiṅ na baithuṅ gi
+  Gham meiṅ ae laal tere har ghari maiṅ rouṅ gi
   Meri jaan tujh pe fida
   Mera Asghar na raha
 

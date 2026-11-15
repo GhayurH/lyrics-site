@@ -14,7 +14,7 @@ romanLyrics: |-
   Jaane laga Madine se jab Shah ka qaafila
   Sughra ke paas aa ke ye Maula ne tab kaha
   Ae meri laadli tera haafiz hai ab Khuda
-  Sar ko kataane jaata huṅ main su-e-Nainawa
+  Sar ko kataane jaata huṅ maiṅ su-e-Nainawa
 
   1
   Hum jaa rahe haiṅ Sughra haafiz Khuda tumhaara
@@ -31,8 +31,8 @@ romanLyrics: |-
   Ye zulm mujh pe hoga haafiz Khuda tumhaara
 
   4
-  Tujh ko sunaauṅ Sughra Karbal ki main kahaani
-  Aal-e-Nabi pe hoga maqtal mein band paani
+  Tujh ko sunaauṅ Sughra Karbal ki maiṅ kahaani
+  Aal-e-Nabi pe hoga maqtal meiṅ band paani
   Pyaasa rahega kunba haafiz Khuda tumhaara
 
   5
@@ -46,7 +46,7 @@ romanLyrics: |-
   Naize pe sar rahega haafiz Khuda tumhaara
 
   7
-  Tere chacha ke ran mein kat jaayeṅge jo shaane
+  Tere chacha ke ran meiṅ kat jaayeṅge jo shaane
   Bachche sabhi haram ke haaye raheṅge pyaase
   Ye bhi sitam hai hona haafiz Khuda tumhaara
 
@@ -56,7 +56,7 @@ romanLyrics: |-
   Pheṅkega koi sadqa haafiz Khuda tumhaara
 
   9
-  Rehan kya parhuṅ main ek baap ki wo rukhsat
+  Rehan kya parhuṅ maiṅ ek baap ki wo rukhsat
   Kaise likhega Danish donoṅ ke dil ki haalat
   Rote the keh ke Maula haafiz Khuda tumhaara
 # source_id: nohayonline:e243c82537cd737011bc

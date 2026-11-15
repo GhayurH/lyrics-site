@@ -11,32 +11,32 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Laila ka chaand dub gaya qatl gaah mein
-  Ab roshni nahiṅ shah-e-diṅ ki nigaah mein
+  Laila ka chaand dub gaya qatl gaah meiṅ
+  Ab roshni nahiṅ shah-e-diṅ ki nigaah meiṅ
 
   1
   Akbar ki laash dhundne nikle haiṅ shaah-e-din
-  Har har qadam pe thokareṅ khaate hai raah mein
+  Har har qadam pe thokareṅ khaate hai raah meiṅ
 
   2
   Saqqa-e-Ahl-e-Bait ke baazu jo kat gaye
-  Darya lahu ka beh gaya pyaasoṅ ki chaah mein
+  Darya lahu ka beh gaya pyaasoṅ ki chaah meiṅ
 
   3
   Aankhoṅ ke aage bhaai ka sar tan se kat gaya
-  Zainab pachhaareṅ khaati rahi qatl gaah mein
+  Zainab pachhaareṅ khaati rahi qatl gaah meiṅ
 
   4
-  Ik laash ghar mein laaye to ik laash le gaye
-  Din kat gaya Husain ka faryaad o aah mein
+  Ik laash ghar meiṅ laaye to ik laash le gaye
+  Din kat gaya Husain ka faryaad o aah meiṅ
 
   5
   Milta nahiṅ qaraar kisi jaa Husain ko
-  Hai khaima gaah mein to kabhi qatl gaah mein
+  Hai khaima gaah meiṅ to kabhi qatl gaah meiṅ
 
   6
   Jis dam gulu-e-Asghar-e-beshir chhid gaya
-  Na jaane kitne tir chhube qalb-e-shaah mein
+  Na jaane kitne tir chhube qalb-e-shaah meiṅ
 # source_id: nohayonline:44f0d96990ce40c43811
 # source_url: https://www.nohayonline.com/details_content.php?id=2977
 # raw_sha256: d5d1f9e078039cc767474ef263d4ce3da7005cb464704f9c2abbe0ea5d8b682e

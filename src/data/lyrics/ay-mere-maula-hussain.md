@@ -16,8 +16,8 @@ romanLyrics: |-
   1
   Khuṅ kiye qalb-e-Ali monis-e-Islam-e-Nabi
   Fatima Zehra ka pisar ibn-e-Rasul-e-Arabi
-  Haye purhaul biyaabaan hai koi monis o yaawar bhi nahiṅ
-  Dasht mein tanha hai Husain ibn-e-Ali
+  Haye purhaul biyaabaaṅ hai koi monis o yaawar bhi nahiṅ
+  Dasht meiṅ tanha hai Husain ibn-e-Ali
 
   2
   Zist ki aas nahiṅ mera Abbas nahiṅ
@@ -33,7 +33,7 @@ romanLyrics: |-
   Jab su-e-Shaam chala
   Gir para khaak pe ghash khaa ke Shah-e-Diṅ ka pisar
   Kaampte honthoṅ se bas itna keh kar
-  Baap begor o kafan dasht-e-bala mein hai para
+  Baap begor o kafan dasht-e-bala meiṅ hai para
   Aur kafan tak bhi nahiṅ haye re ghurbat meri
 
   4
@@ -49,7 +49,7 @@ romanLyrics: |-
   Haye wo shishmaha
   Asr-e-Ashur sar-e-Karb o Bala ahl-e-aza tir-e-sitamgar se faqat
   Gardan-e-Asghar hi nahiṅ
-  Chhid gaya dasht mein mamta ka gala saath mein hulqum-e-tamanna-e-padar
+  Chhid gaya dasht meiṅ mamta ka gala saath meiṅ hulqum-e-tamanna-e-padar
   Haye wo naawak figani
 
   6
@@ -63,7 +63,7 @@ romanLyrics: |-
   7
   Dard ka lehja Bilal gham ka aaina Bilal
   Ye tera nauha Bilal
-  Khub Aamir ne parha dard mein duba hua ye nauha-e-gham
+  Khub Aamir ne parha dard meiṅ duba hua ye nauha-e-gham
   Uthne lagi aah o buka ki aawaaz
   Ab tamanna hai ke likha hai jo ye nauha-e-gham jald ho maqbul
   Sar-e-baargaah-e-Aal-e-Nabi

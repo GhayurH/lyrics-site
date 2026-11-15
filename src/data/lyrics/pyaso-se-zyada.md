@@ -18,9 +18,9 @@ romanLyrics: |-
 
   1
   Pyaase jo rahe chaubis pehar
-  Lu dhup mein yuṅ sukha paani
+  Lu dhup meiṅ yuṅ sukha paani
   Roye to lahu aaya beh kar
-  Aankhoṅ mein na tha qatra paani
+  Aankhoṅ meiṅ na tha qatra paani
 
   2
   Asghar ne bari umidoṅ se
@@ -31,14 +31,14 @@ romanLyrics: |-
   3
   Waada jo kiya tha maadar se
   Wo Aun o Muhammad kar ke rahe
-  Behta tha baraabar mein darya
+  Behta tha baraabar meiṅ darya
   Mur kar na magar dekha paani
 
   4
-  Pyaasoṅ ke muqaddar mein hi na tha
+  Pyaasoṅ ke muqaddar meiṅ hi na tha
   Paani ka koi qatra shaayad
   Abbas ne de di jaan magar
-  Khaime mein nahiṅ pahuncha paani
+  Khaime meiṅ nahiṅ pahuncha paani
 
   5
   Aashur ko jalti reti par
@@ -49,7 +49,7 @@ romanLyrics: |-
   6
   Abbas ke hontoṅ ke chhaale
   Kehte haiṅ Imam-e-bekas se
-  Qabze mein tha Ghaazi ke darya
+  Qabze meiṅ tha Ghaazi ke darya
   Lekin na piya qatra paani
 
   7
@@ -60,7 +60,7 @@ romanLyrics: |-
 
   8
   Patthar ke jigar bhi aab hue
-  Maqtal mein Nisaar aada roye
+  Maqtal meiṅ Nisaar aada roye
   Hontoṅ pe phira kar apni zabaaṅ
   Beshir ne jab maanga paani
 # source_id: nohayonline:cfef6236d1b6f157937c

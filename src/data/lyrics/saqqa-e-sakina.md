@@ -23,12 +23,12 @@ romanLyrics: |-
 
   2
   Bin haathoṅ ke tum jholiyaṅ bhar dete ho Maula
-  Ehsaan karo mujh pe main banda huṅ tumhaara
+  Ehsaan karo mujh pe maiṅ banda huṅ tumhaara
   Muflis huṅ bahut Karb o Bala aa nahiṅ sakta
   Kya tum se chhupaana Abbas Abbas
 
   3
-  Sab ranj o alam main ne zamaane se chhupaaye
+  Sab ranj o alam maiṅ ne zamaane se chhupaaye
   Aaya huṅ tere saamne haathoṅ ko uthaaye
   Muṅh mor gaye mujh se sabhi apne paraaye
   Dil zakhmi hai mera Abbas Abbas
@@ -41,20 +41,20 @@ romanLyrics: |-
 
   5
   Abbas Habib ibn-e-Mazaahir se ye kehna
-  Zuwwaaroṅ ki fehrist mein ab naam ho mera
+  Zuwwaaroṅ ki fehrist meiṅ ab naam ho mera
   Saamaan-e-safar bhi mera tayyaar hai Maula
   Tum mujh ko bulaana Abbas Abbas
 
   6
   Zehra ki qasam hai meri uljhan ko mita do
-  Ek phul alam se mere daaman mein gira do
+  Ek phul alam se mere daaman meiṅ gira do
   Himmat mujhe mil jaaye ishaare se bata do
   Tum saath ho Maula Abbas Abbas
 
   7
   Tu bhaai hai Shabbir ka Haidar ka hai beta
-  Dunya mein nahiṅ itna sakhi koi gharaana
-  Teri hi sakhaawat ka zamaane mein hai charcha
+  Dunya meiṅ nahiṅ itna sakhi koi gharaana
+  Teri hi sakhaawat ka zamaane meiṅ hai charcha
   Tu dar hai ataa ka Abbas Abbas
 
   8

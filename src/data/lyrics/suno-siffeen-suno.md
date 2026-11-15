@@ -1,6 +1,6 @@
 ---
 title: "سنو صفین سنو"
-alternateTitle: "Suno Siffeen Suno"
+alternateTitle: "Suno Siffin Suno"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -20,13 +20,13 @@ published: true
 # source_url: https://tajpoints.com/2017/02/suno-siffeen-suno-13-17.html
 # raw_sha256: b69851ee284c30834ff583dd4af23a7acd984a09e7714fd85f2491b2b0db2fa9
 romanLyrics: |-
-  Quran-e-Shujaat se main Yaasin sunauṅ
-  Dil walo safeṅ baandho main Siffeen sunauṅ
+  Quran-e-Shujaat se maiṅ Yaasin sunauṅ
+  Dil walo safeṅ baandho maiṅ Siffin sunauṅ
 
   1
-  Kya khaima-e-Haider mein hai Siffeen ka manzar
-  Jhurmat mein sitaaroṅ ki hai ik chaand zamiṅ par
-  Haider ke pisar chaaroṅ taraf bich mein Haider
+  Kya khaima-e-Haider meiṅ hai Siffin ka manzar
+  Jhurmat meiṅ sitaaroṅ ki hai ik chaand zamiṅ par
+  Haider ke pisar chaaroṅ taraf bich meiṅ Haider
   Yeh dekh ke hairaan hai khud Malik-e-Ashtar
   Aaina-e-Nur ek sabhi aks-e-jali haiṅ
   Maula kahuṅ kis ko yahaaṅ saare hi Ali haiṅ
@@ -35,14 +35,14 @@ romanLyrics: |-
   Betoṅ se mukhaatib hua Imran ka beta
   Dil mujh se yeh kehta hai mera Ae Bani Zahra
   Yaani hai yeh Khaaliq ke iraade ka iraada
-  Maidaan mein lare aaj koi beta Ali ka
+  Maidaan meiṅ lare aaj koi beta Ali ka
   Khul jaaye ke waliyoṅ ka wali larta hai kaise
-  Main bhi to zara dekhuṅ Ali larta hai kaise
+  Maiṅ bhi to zara dekhuṅ Ali larta hai kaise
 
   3
   Ik goshe se sun kar yeh utha koi dilaawar
-  Qad terah baras mein Abu Talib ke baraabar
-  Soran mein Ali Hamza sifat azm mein Jafar
+  Qad terah baras meiṅ Abu Talib ke baraabar
+  Soran meiṅ Ali Hamza sifat azm meiṅ Jafar
   Sar taa ba qadam qudrat-e-Maboot ka paikar
   Zahra ki sada aai ke almaas lare ga
   Hasnain ke baba mera Abbas lare ga
@@ -56,11 +56,11 @@ romanLyrics: |-
   Dushman na Ali keh deṅ to Abbas na kehna
 
   5
-  Saj ban gaya khaime mein jo Haider ka dulaara
+  Saj ban gaya khaime meiṅ jo Haider ka dulaara
   Sadqa mere Ghazi ka wafaaoṅ ne utaara
   Chehre pe naqaab aap yeh karta tha ishaara
   Taarikh ne dekha kahaaṅ phir aisa nazaara
-  Parde mein kuchh is tarah se Abbas-e-jali the
+  Parde meiṅ kuchh is tarah se Abbas-e-jali the
   Jaise pas-e-parda Mairaaj Ali the
 
   6
@@ -80,10 +80,10 @@ romanLyrics: |-
   Jibril larazte haiṅ samete hue par ko
 
   8
-  Kis sher ka maidaan mein utarta hai jigar band
+  Kis sher ka maidaan meiṅ utarta hai jigar band
   Aada pe kiya maut ne har zist ka dar band
   Munh khole haiṅ hairat se zabaaneṅ haiṅ magar band
-  Lashkar hua nazroṅ mein dilaawar ki nazar band
+  Lashkar hua nazroṅ meiṅ dilaawar ki nazar band
   Tauba ka na dar rahmat-e-aalam ka khula hai
   Sab band haiṅ bas raasta jahannam ka khula hai
 
@@ -91,49 +91,49 @@ romanLyrics: |-
   Jis samt chala tegh uthaae woh bahaadur
   Sab taair-e-arwaah ure jismoṅ se par par
   Dahshat se tha har ek guru bhule hue gur
-  Tha tegh ki jhankaar mein pancham ka ajab sur
+  Tha tegh ki jhankaar meiṅ pancham ka ajab sur
   Aawaaz yehi ahl-e-dagha dete the bhaago
-  Sab raag pahaari mein sada dete the bhaago
+  Sab raag pahaari meiṅ sada dete the bhaago
 
   10
   Yak baar kiya sher ne hamla jo jhapat kar
   Pattoṅ ki tarah jism ki shaakhoṅ se gire sar
   San san jo chali tegh ulatne lage lashkar
   Paighaam Ali ka yeh hawa ne diya aa kar
-  Are dil khol ke lar lo na taraddud mein raho tum
+  Are dil khol ke lar lo na taraddud meiṅ raho tum
   Abbas yahiṅ rok duṅ suraj jo kaho tum
 
   11
   Talwaar se dar dar ke nidar bhaag rahe the
-  Thi maut udhar ran mein jidhar bhaag rahe the
+  Thi maut udhar ran meiṅ jidhar bhaag rahe the
   Bhaaga nahiṅ jaata tha magar bhaag rahe the
-  Jaldi mein badan chhor ke sar bhaag rahe the
-  Saans un ke ruke the ke jo maidaan mein ruke the
-  Zindoṅ ki yeh haalat thi ke murdoṅ mein chhupe the
+  Jaldi meiṅ badan chhor ke sar bhaag rahe the
+  Saans un ke ruke the ke jo maidaan meiṅ ruke the
+  Zindoṅ ki yeh haalat thi ke murdoṅ meiṅ chhupe the
 
   12
   Kehti thi ajal dasht se bejaan sameto
   Yeh haath yeh sar jism yeh dandaan sameto
   Ae zakhmiyo bikhre hue ausaan sameto
   Ghar jaao meri maan lo saamaan sameto
-  Marte ho jawaani mein ajab zauq hai tum ko
+  Marte ho jawaani meiṅ ajab zauq hai tum ko
   Kya khudkushi karne ka bahut shauq hai tum ko
 
   13
-  Taarikh sunaati hai yeh Siffeen ka qissa
-  Maidaan mein jo aaye Pisran-e-Bin-e-Shasa
+  Taarikh sunaati hai yeh Siffin ka qissa
+  Maidaan meiṅ jo aaye Pisran-e-Bin-e-Shasa
   Naagan ke sapole the magar waah re hamla
   Musa ke asa ki tarah sab kha gaya neza
   Saatoṅ pe buzurgoṅ ke sabaq kar diye roshan
   Do aise kiye chaudah tabaq kar diye roshan
 
   14
-  Dil mein yehi kehta raha Sarwar ka alamdaar
+  Dil meiṅ yehi kehta raha Sarwar ka alamdaar
   Phir mauqa mile ya na mile Ae meri talwaar
   Tez aur zara tez zara tez ho raftaar
   Ae kaash mujhe rokeṅ na ab Haider-e-Karraar
   Haq kar duṅ ada Fatima Zahra ke namak ka
-  Are badla abhi le luṅ ga main in sab se Fadak ka
+  Are badla abhi le luṅ ga maiṅ in sab se Fadak ka
 
   15
   Maidaan se utha shor Ali hai yeh Ali hai
@@ -145,11 +145,11 @@ romanLyrics: |-
 
   16
   Shabbir bhi kehne lage kya khub kiya kaam
-  Do haath mein hi kar diya kuffaar mein kohraam
+  Do haath meiṅ hi kar diya kuffaar meiṅ kohraam
   In haathoṅ se hone haiṅ abhi aur bahut kaam
   Bhaai hai tere waaste bhaai ka yeh inaam
   Tu aaye ga Ae sher palat kar jo hadaf se
-  Main baazu dabaauṅ ga teri maa ki taraf se
+  Maiṅ baazu dabaauṅ ga teri maa ki taraf se
 
   17
   Haider ne naqaab aa ke uthaai jo Takallum

@@ -41,21 +41,21 @@ romanLyrics: |-
 
   5
   Gharoṅ se chale the jo purse ki khaatir
-  Wo maare gaye raastoṅ mein musaafir
-  Kabhi jaate jaate julus-e-aza mein
+  Wo maare gaye raastoṅ meiṅ musaafir
+  Kabhi jaate jaate julus-e-aza meiṅ
   Kabhi Mashhad o Karbala jaate jaate
 
   6
   Thi Sughra ke lab par sada ye duhaai
   Chale aao Baba chale aao bhaai
-  Atakti haiṅ sine mein ab meri saanseṅ
+  Atakti haiṅ sine meiṅ ab meri saanseṅ
   Tumheṅ der ho jaaye na aate aate
 
   7
   Zabaaṅ se jo ki baat us ne nibha li
-  Piya thanda paani na saaye mein aayi
+  Piya thanda paani na saaye meiṅ aayi
   Zamaane se uthi hai Asghar ki maadar
-  Kalaaiyoṅ mein jhula jhulaate jhulaate
+  Kalaaiyoṅ meiṅ jhula jhulaate jhulaate
 
   8
   Khuda jaanta hai wo kaisa tha manzar

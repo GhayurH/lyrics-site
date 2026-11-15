@@ -11,13 +11,13 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Chalte chalte raah mein jab ruk gaya Sarwar ka sar
+  Chalte chalte raah meiṅ jab ruk gaya Sarwar ka sar
   Shaam ke ek mor par
   Puchha Zainab ne sabab to aayi ye sar se sada
   Ae behan dhundo zara
 
   1
-  Raah mein gir gayi hai Sakina kahiṅ
+  Raah meiṅ gir gayi hai Sakina kahiṅ
   Is liye mera sar aage barhta nahiṅ
   Dekhe jab bhaai ke ashk behte hue
   Dhundne nikli Zainab ye kehte hue
@@ -25,7 +25,7 @@ romanLyrics: |-
   Kya tum ne dekhi hai Sakina kho gayi hai
 
   2
-  Shaam-e-gharibaaṅ mein pehle tamaache ka tha aisa asar
+  Shaam-e-gharibaaṅ meiṅ pehle tamaache ka tha aisa asar
   Zaalim ke anguthi ka hai nishaaṅ aaj bhi rukhsaar par
   Nanhe haathoṅ se chehra chhupaati hai wo
   Apne ammu ko ro kar bulaati hai wo
@@ -40,21 +40,21 @@ romanLyrics: |-
 
   4
   Qaidi banaate hue jis rasan se hameṅ baandha gaya
-  Jab us rasan mein hi jakra gaya khinch kar us ka gala
+  Jab us rasan meiṅ hi jakra gaya khinch kar us ka gala
   Us ke chehre ki rangat badalti rahi
   Saath mere wo panjoṅ pe chalti rahi
   Chhoti se ek bachchi hai jis ki gardan zakhmi hai
 
   5
-  Ae Shaam waaloṅ use raah mein tum agar dekho kahiṅ
-  Us ko duaaoṅ ke badle mein sadqa kabhi dena nahiṅ
+  Ae Shaam waaloṅ use raah meiṅ tum agar dekho kahiṅ
+  Us ko duaaoṅ ke badle meiṅ sadqa kabhi dena nahiṅ
   Raaste ka ye manzar wo bhuli nahiṅ
   Sadqa kar ke khajure jo pheṅki gayi
   Chhoti Sayyid zaadi hai is ghurbat pe roti hai
 
   6
   Hai chaar saala magar ek zaifa si ab dikhti hai wo
-  Baaloṅ mein us ke safedi hai kham hai kamar aisi hai wo
+  Baaloṅ meiṅ us ke safedi hai kham hai kamar aisi hai wo
   Chalna mushkil hai jaane kahaaṅ hogi wo
   Ek ye bhi hai us ki nishaani suno
   Gir gir kar wo uthti hai Zehra jaisi lagti hai
@@ -62,15 +62,15 @@ romanLyrics: |-
   7
   Naaqe se gir gayi thi Sakina jahaaṅ
   Dhundte dhundte pahuṅchi Zainab wahaaṅ
-  Ek zakhmi zaifa ke aaghosh mein
+  Ek zakhmi zaifa ke aaghosh meiṅ
   Jab Sakina ko dekha to ki ye fughaaṅ
-  Tera ehsaaṅ na bhul paauṅ gi main
-  Apni maaṅ se shafaat karaauṅ gi main
+  Tera ehsaaṅ na bhul paauṅ gi maiṅ
+  Apni maaṅ se shafaat karaauṅ gi maiṅ
 
   8
   Chehre se parda hata kar zaifa yehi kehne lagi
-  Pehchaan le meri Zainab mujhe main wohi maaṅ huṅ teri
-  Thi Raza aur Zeeshan kaisi ghari
+  Pehchaan le meri Zainab mujhe maiṅ wohi maaṅ huṅ teri
+  Thi Raza aur Zishan kaisi ghari
   Boli Zehra Sakina bahut thak chuki
   Sun sun kar ye uthti hai
   Tu jab bhi ye kehti hai

@@ -11,11 +11,11 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Baba ke liye qaid mein roti thi Sakina
+  Baba ke liye qaid meiṅ roti thi Sakina
   Ye kaun hai kya naam hai haakim ne ye puchha
   Darbaan ne haakim ko ye tab jaa ke bataaya
   Ek bachchi hai rassi se gala dukhta hai jis ka
-  Main is ko juda karta huṅ jab bhaai se is ke
+  Maiṅ is ko juda karta huṅ jab bhaai se is ke
   Ye khauf zada ho ke yehi karti hai naale
 
   Juda na karo mujhe bhaai se
@@ -28,7 +28,7 @@ romanLyrics: |-
   Sifaarish karo laiṅ se meri
   Ye tum se mujhe juda na kare
   Mere haal par mujhe chhor de
-  Yahaaṅ tum raho wahaaṅ main rahuṅ
+  Yahaaṅ tum raho wahaaṅ maiṅ rahuṅ
   To bas maut ka hi imkaan hai
 
   2
@@ -40,26 +40,26 @@ romanLyrics: |-
   Saza ye na do to ehsaan hai
 
   3
-  Ujaaloṅ mein main hamesha rahi
+  Ujaaloṅ meiṅ maiṅ hamesha rahi
   Na bhaai mujhe kabhi tiragi
   Ye tanhaaiyaaṅ ye taarikiyaaṅ
   Meri umr se bari sakhtiyaaṅ
-  Main zakhmi badan main tashna dahaaṅ
+  Maiṅ zakhmi badan maiṅ tashna dahaaṅ
   Meri maut ka ye saamaan hai
 
   4
   Chalo ab kabhi nahiṅ rouṅ gi
-  Aziyat mein huṅ magar souṅ gi
+  Aziyat meiṅ huṅ magar souṅ gi
   Chalo ab raho ge tum chain se
   Na jaago ge tum mere bain se
-  Mujhe hai khabar main roi agar
+  Mujhe hai khabar maiṅ roi agar
   To zulm o sitam ka tufaan hai
 
   5
-  Tamaache lage main chup hi rahi
-  Gauhar chhin gae main chup hi rahi
-  Giri uṅt se raah-e-Shaam mein
-  Tamaache mile haiṅ inaam mein
+  Tamaache lage maiṅ chup hi rahi
+  Gauhar chhin gae maiṅ chup hi rahi
+  Giri uṅt se raah-e-Shaam meiṅ
+  Tamaache mile haiṅ inaam meiṅ
   Mujhe rone do are zaalimoṅ
   Mera dil bahut pareshaan hai
 
@@ -73,9 +73,9 @@ romanLyrics: |-
 
   7
   Mujhe hai khabar na ji paauṅ gi
-  Yahaaṅ se na ab main ghar jaauṅ gi
+  Yahaaṅ se na ab maiṅ ghar jaauṅ gi
   Karega na ab koi bhi madad
-  Isi qaid mein bane gi lahad
+  Isi qaid meiṅ bane gi lahad
   Mera pairahan bane ga kafan
   Ke maskan mera ye zindaan hai
 

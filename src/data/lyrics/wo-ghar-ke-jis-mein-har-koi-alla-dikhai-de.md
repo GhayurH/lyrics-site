@@ -1,6 +1,6 @@
 ---
 title: "اس گھر میں بھی بس ایک ہی زہرا دکھائی دے"
-alternateTitle: "Us Ghar Mein Bhi Bas Ek Hi Zahra Dikhaai De"
+alternateTitle: "Us Ghar Meiṅ Bhi Bas Ek Hi Zahra Dikhaai De"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,10 +10,10 @@ tags: []
 aliases: ["wo-ghar-ke-jis-mein-har-koi-alla-dikhai-de-lyrics-2017", "Wo Ghar Ke Jis Mein Har Koi Alla Dikhai De Lyrics 2017"]
 published: true
 romanLyrics: |-
-  Us ghar mein bhi bas ek hi Zahra dikhaai de
+  Us ghar meiṅ bhi bas ek hi Zahra dikhaai de
 
   1
-  Ae kaash main sadaaoṅ ko tasvir kar sakuṅ
+  Ae kaash maiṅ sadaaoṅ ko tasvir kar sakuṅ
   Bas al-ajal kahuṅ to saraapa dikhaai de
 
   2

@@ -12,12 +12,12 @@ published: true
 romanLyrics: |-
   Hai Shaam ka bazaar aur Abid bimaar
 
-  Taarikh mein gar Shaam ka bazaar na hota
+  Taarikh meiṅ gar Shaam ka bazaar na hota
   Shabbir ka beta kabhi bimaar na hota
-  Sajjad ko be maut ye gham maar gaya hai
+  Sajjad ko bemaut ye gham maar gaya hai
 
   Beparda haram saath hai aur Shaam chala hai
-  Sajjad ko be maut ye gham maar gaya hai
+  Sajjad ko bemaut ye gham maar gaya hai
 
   1
   Zainab ko koi dekh na paaye isi khaatir
@@ -43,8 +43,8 @@ romanLyrics: |-
   Sar Sayyid Sajjad ka ghairat se jhuka hai
 
   6
-  Fizza ki himaayat mein khinchi tegh hazaaroṅ
-  Zainab ki himaayat mein bas ek qaidi khara hai
+  Fizza ki himaayat meiṅ khinchi tegh hazaaroṅ
+  Zainab ki himaayat meiṅ bas ek qaidi khara hai
 
   7
   Phir Shimr ne naapaak zabaaṅ se ye bataaya

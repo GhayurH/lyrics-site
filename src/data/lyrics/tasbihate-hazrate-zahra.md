@@ -31,8 +31,8 @@ romanLyrics: |-
 
   2
   Kaise thaamuṅ
-  Diwaar o dar ko main Fizza
-  Sholoṅ mein Ahmad ka tukra
+  Diwaar o dar ko maiṅ Fizza
+  Sholoṅ meiṅ Ahmad ka tukra
   Zakhmi hai pehlu shikasta
   Allahu akbar ye dard-e-daruṅ
   Allahu akbar ye musibateṅ
@@ -46,13 +46,13 @@ romanLyrics: |-
   Lekin Bibi Zahra ke bas laboṅ pe tha
   Alhamdu lillah bar qazaa-e-u
   Alhamdu lillah har ranj o alam
-  Alhamdu lillah main bint-e-Nabi
+  Alhamdu lillah maiṅ bint-e-Nabi
   Thaame huṅ tanha Haidar ka alam
 
   4
   Sharminda hai
   Baitullah ka hasiṅ naqsha
-  Yasrab mein Ahmad ka rauza
+  Yasrab meiṅ Ahmad ka rauza
   Ro ro ke parhta hai nauha
   Subhaan Allah roshan hai raat din
   Subhaan Allah ye rauza-e-Rasul

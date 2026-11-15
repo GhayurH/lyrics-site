@@ -20,12 +20,12 @@ romanLyrics: |-
   Haye Akbar haye haye Akbar
 
   1
-  Main yaad tujhe karti huṅ
+  Maiṅ yaad tujhe karti huṅ
   Chehra ashkoṅ se dho kar
-  Din raat tarapti huṅ main
-  Teri yaad mein beta ro kar
-  Ek karb musalsal hai dil mein
-  Ye dard jo har pal hai dil mein
+  Din raat tarapti huṅ maiṅ
+  Teri yaad meiṅ beta ro kar
+  Ek karb musalsal hai dil meiṅ
+  Ye dard jo har pal hai dil meiṅ
   Tu na aaya to teri qasam mar jaauṅ gi aaja
   Haye Akbar haye haye Akbar
 
@@ -46,7 +46,7 @@ romanLyrics: |-
   Salman o Abuzar aa kar
   Jannat se gul-e-tar mangwaauṅ
   Yuṅ sej arusi banwaauṅ
-  Jitne armaan dil mein hai wo dikhlaauṅ gi aaja
+  Jitne armaan dil meiṅ hai wo dikhlaauṅ gi aaja
   Haye Akbar haye haye Akbar
 
   4
@@ -54,13 +54,13 @@ romanLyrics: |-
   Aur aage Muhammad hoṅ ge
   Rizwan parhega sehra
   Behnoṅ ko neg mileṅ ge
-  Jannat mein charaaghaaṅ bhi hoga
+  Jannat meiṅ charaaghaaṅ bhi hoga
   Jis waqt banega tu dulha
-  Phuloṅ se main ye saara jahaaṅ mehkaauṅ gi aaja
+  Phuloṅ se maiṅ ye saara jahaaṅ mehkaauṅ gi aaja
   Haye Akbar haye haye Akbar
 
   5
-  Khaime mein jo aaya laasha
+  Khaime meiṅ jo aaya laasha
   Hamshakl-e-Payambar tera
   Umideṅ miti maadar ki
   Hasrat ka janaaza nikla
@@ -71,12 +71,12 @@ romanLyrics: |-
 
   6
   Farhan bayaaṅ is gham ka
-  Lafzoṅ mein nahiṅ ho sakta
+  Lafzoṅ meiṅ nahiṅ ho sakta
   Faryaad hai ye maadar ki
   Mazhar ne likha jo nauha
   Kehti thi yehi ro kar maadar
   Maaṅ tujh pe fida aaja Akbar
-  Haasil kya phir main qabr mein jab so jaauṅ gi aaja
+  Haasil kya phir maiṅ qabr meiṅ jab so jaauṅ gi aaja
   Haye Akbar haye haye Akbar
 # source_id: nohayonline:07ab98b29d677c5feb3f
 # source_url: https://www.nohayonline.com/details_content.php?id=2365

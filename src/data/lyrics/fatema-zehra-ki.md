@@ -11,35 +11,35 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ay mere laal hussain ay mere laal hussain
+  Ae mere laal Husain ae mere laal Husain
 
-  Maqtal mein ye thi fatema zehra ki sada
-  Lut'ti hai meri ran mein kameini baba
+  Maqtal meiṅ ye thi fatema zehra ki sada
+  Lut'ti hai meri ran meiṅ kameini baba
 
   1
-  Baba mera qasim hua ran mein pamaal
+  Baba mera qasim hua ran meiṅ pamaal
   Kya hoga bhala sochiye us maa ka haal
-  Taqseem hua tukdon mein beta jiska
+  Taqsim hua tukroṅ meiṅ beta jiska
 
   2
   Jab aun o mohamed ke do laashe aaye
   Aansu dil e zainab ne nahi barsaye
-  Laashon pe kiya shukr ka maa ne sajda
+  Laashoṅ pe kiya shukr ka maa ne sajda
 
   3
-  Jab seena e akbar pe lagi thi barchi
+  Jab sina e akbar pe lagi thi barchi
   Tab qaime se zainab bhi nikal aayi thi
-  Tooti thi kamar sheh ne uthaya laasha
+  Tuti thi kamar sheh ne uthaya laasha
 
   4
-  Asghar ko chala pani pilaane jo hussain
-  Bacche ka gala teeron ke aaya ma-bain
+  Asghar ko chala pani pilaane jo Husain
+  Bacche ka gala tiroṅ ke aaya ma-bain
   Baba ki tassali ko wo baysheer hasa
 
   5
-  Jab zarbon se shabbir ka sar kaata gaya
-  Nazdeek se zainab ne ye manzar dekha
-  Us waqt mera ran mein yehi tha nauha
+  Jab zarboṅ se shabbir ka sar kaata gaya
+  Nazdik se zainab ne ye manzar dekha
+  Us waqt mera ran meiṅ yehi tha nauha
 
   6
   Ghar lut gaya zehra ka sar e karbobala

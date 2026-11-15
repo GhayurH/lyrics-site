@@ -12,8 +12,8 @@ published: true
 reciter: "Shadman Raza"
 romanLyrics: |-
   Janaza jis ka chhupaae the shab ki tariki
-  Damishq mein ye usi Fatima ki hai beti
-  Na kal to Shaam mein parda bacha saka tha koi
+  Damishq meiṅ ye usi Fatima ki hai beti
+  Na kal to Shaam meiṅ parda bacha saka tha koi
   Dukhi Husain ki maaṅ keh rahi hai Ya Mahdi
   Dua ko haath uthaye haiṅ Madar-e-Zainab
   Bachaae rauze ko rauza hai chadar-e-Zainab
@@ -21,8 +21,8 @@ romanLyrics: |-
   Abhi tak Shaam ke bazaar se awaaz aati hai
 
   1
-  Batate haiṅ ye raste jo abhi tak khuṅ mein dube haiṅ
-  Yahaṅ se Sayyad Sajjad zanjiroṅ mein guzre haiṅ
+  Batate haiṅ ye raste jo abhi tak khuṅ meiṅ dube haiṅ
+  Yahaṅ se Sayyad Sajjad zanjiroṅ meiṅ guzre haiṅ
   Tamaanchoṅ se Sakina ko kabhi Zainab bachati hai
 
   2
@@ -31,8 +31,8 @@ romanLyrics: |-
   Kabhi baaloṅ se Zainab apne chehre ko chhupati hai
 
   3
-  Na khud hai Zainab-e-nachaar bhi us ek rassi mein
-  Bandhe haiṅ Abid-e-bimaar bhi is ek rassi mein
+  Na khud hai Zainab-e-nachaar bhi us ek rassi meiṅ
+  Bandhe haiṅ Abid-e-bimaar bhi is ek rassi meiṅ
   Sakina kis tarha panjoṅ ke bal par chal ke jaati hai
 
   4
@@ -47,16 +47,16 @@ romanLyrics: |-
 
   6
   Khuda aur Mustafa ke din ka paband hai koi
-  Na majme mein hazaroṅ ke bhi ghairatmand hai koi
+  Na majme meiṅ hazaroṅ ke bhi ghairatmand hai koi
   Musalmanoṅ ki ghairat par bahut aansuṅ bahati hai
 
   7
-  Sharabi bad nasab darbaar mein kitne laiṅ dekhe
+  Sharabi bad nasab darbaar meiṅ kitne laiṅ dekhe
   Khari Zainab thi jis ne saat sau kursi nashiṅ dekhe
   Madad ko saatveṅ dar par Ali ko ye bulaati hai
 
   8
-  Hai jaari Shaam o Kufa mein jafa ka silsila ab tak
+  Hai jaari Shaam o Kufa meiṅ jafa ka silsila ab tak
   Ke bhai bekafan aur behan hai berida ab tak
   Nikal kar qaid khane se Sakina yaad aati hai
 

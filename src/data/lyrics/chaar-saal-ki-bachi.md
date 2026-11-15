@@ -23,11 +23,11 @@ romanLyrics: |-
   Jis ke paas jaati hai chaar saal ki bacchi
 
   3
-  Apne baap ka laasha raat ke andhere mein
+  Apne baap ka laasha raat ke andhere meiṅ
   Dhundne nikalti hai chaar saal ki bacchi
 
   4
-  Karwateṅ badalti hai us ki laash maqtal mein
+  Karwateṅ badalti hai us ki laash maqtal meiṅ
   Jis ka naam leti hai chaar saal ki bacchi
 
   5
@@ -44,7 +44,7 @@ romanLyrics: |-
 
   8
   Kal tha baap ka seena waalida ka aanchal tha
-  Ab lahad mein soti hai chaar saal ki bacchi
+  Ab lahad meiṅ soti hai chaar saal ki bacchi
 
   9
   Ab ye haal hai Ishrat pitti hai sar Bano

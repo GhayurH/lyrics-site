@@ -1,6 +1,6 @@
 ---
 title: "خواب میں جلوہ نما جلوۂ سرکار ہوا"
-alternateTitle: "Khwaab Mein Jalwa Numa"
+alternateTitle: "Khwaab Meiṅ Jalwa Numa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -13,8 +13,8 @@ aliases: ["Khuwab Mein Jalwa Numa Mukhtar Hussain Fatehpuri", "khuwab-mein-jalwa
 published: true
 romanLyrics: |-
   1
-  Khwaab mein jalwa numa jalwa-e-Sarkaar hua
-  Main jo soya to muqaddar mera bedaar hua
+  Khwaab meiṅ jalwa numa jalwa-e-Sarkaar hua
+  Maiṅ jo soya to muqaddar mera bedaar hua
 
   2
   Jis ne Abbas ke roze ki ziyaarat kar li
@@ -26,7 +26,7 @@ romanLyrics: |-
 
   4
   Wo muhibboṅ ki iyaadat ke liye aate haiṅ
-  Baarha main bhi isi shauq mein bimaar hua
+  Baarha maiṅ bhi isi shauq meiṅ bimaar hua
 
   5
   Jis ko Ghaazi tere parcham ki hawaaeṅ na mileṅ
@@ -34,7 +34,7 @@ romanLyrics: |-
 
   6
   Buturaab aur shariat se baghaawat ki thi
-  Shaikh turbat mein pahuṅchte hi giraftaar hua
+  Shaikh turbat meiṅ pahuṅchte hi giraftaar hua
 # source_id: tajpoints:e07df02e36ce0453a5e1
 # source_url: https://tajpoints.com/2022/03/khuwab-mein-jalwa-numa-mukhtar-hussain.html
 # raw_sha256: 25793d1fd60e79cb8a1e162fbb267dce31c49386f56e0d1fa16d6b5c3bb5f2c5

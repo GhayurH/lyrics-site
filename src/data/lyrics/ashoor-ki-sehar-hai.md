@@ -1,6 +1,6 @@
 ---
 title: "عاشور کی سحر ہے اکبر کی اذاں ہے"
-alternateTitle: "Ashoor Ki Sehar Hai"
+alternateTitle: "Ashur Ki Sehar Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,35 +11,35 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ashoor ki sehar hai Akbar ki azaaṅ hai
-  Shabbir ke lashkar mein ek shor-e-fughaaṅ hai
-  Ashoor ki sehar hai Akbar ki azaaṅ hai
+  Ashur ki sehar hai Akbar ki azaaṅ hai
+  Shabbir ke lashkar meiṅ ek shor-e-fughaaṅ hai
+  Ashur ki sehar hai Akbar ki azaaṅ hai
 
   1
-  Saf basta ghazi haiṅ maula ki amanat mein
-  Ansar-e-Shah-e-diṅ haiṅ masruf ibadat mein
-  Sajde mein dua karti Akbar teri maaṅ hai
+  Saf basta ghazi haiṅ maula ki amanat meiṅ
+  Ansar-e-Shah-e-diṅ haiṅ masruf ibadat meiṅ
+  Sajde meiṅ dua karti Akbar teri maaṅ hai
 
   2
-  Kya sog ka aalam tha Shabbir ke lashkar mein
-  Maaṅ kehti thi laauṅ gi Akbar ki dulhan ghar mein
-  Malum na tha in ki qismat mein sinaaṅ hai
+  Kya sog ka aalam tha Shabbir ke lashkar meiṅ
+  Maaṅ kehti thi laauṅ gi Akbar ki dulhan ghar meiṅ
+  Malum na tha in ki qismat meiṅ sinaaṅ hai
 
   3
-  Ashoor se har subh ki aaghosh mein ab tak
+  Ashur se har subh ki aaghosh meiṅ ab tak
   Masum ki taasir-e-bayaaṅ gunj rahi hai
-  Islam ki waadi mein aawaz hi ae log
+  Islam ki waadi meiṅ aawaz hi ae log
   Shabbir ke Akbar ki azaaṅ gunj rahi hai
 
   4
-  Aawaz-e-azaaṅ pahunchi jis waqt Madine mein
-  Sughra ne kaha koi hasrat nahiṅ sine mein
+  Aawaz-e-azaaṅ pahunchi jis waqt Madine meiṅ
+  Sughra ne kaha koi hasrat nahiṅ sine meiṅ
   Mujhe itna ye bata de bhai tuṅ kahaṅ hai
 
   5
   Dam torte Akbar ne baba se kaha ro kar
   Sughra ko bata dena sehra na bandha sar par
-  Barchhi hai kaleje mein aur khushk zabaaṅ hai
+  Barchhi hai kaleje meiṅ aur khushk zabaaṅ hai
 
   6
   Athaara baras paal ke jis ko jawaaṅ kiya
@@ -49,8 +49,8 @@ romanLyrics: |-
 
   7
   Zainab ke ye naale the laash-e-Ali Akbar par
-  Athaara baras main ne paala tha tujhe Akbar
-  Main dhup mein baithi huṅ aur ashk rawaaṅ hai
+  Athaara baras maiṅ ne paala tha tujhe Akbar
+  Maiṅ dhup meiṅ baithi huṅ aur ashk rawaaṅ hai
 # source_id: nohayonline:5250a7c1f96e06669291
 # source_url: https://www.nohayonline.com/details_content.php?id=33
 # raw_sha256: 2428c9cc8f4250e93231c3ca3a2098c3decf71f8feda5cf02ba8b7754139dfca

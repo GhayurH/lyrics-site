@@ -16,12 +16,12 @@ romanLyrics: |-
 
   1
   Ye ismat ki malka ye bint-e-Ali hai
-  Jo pattharoṅ ki baarish mein kab se khari hai
+  Jo pattharoṅ ki baarish meiṅ kab se khari hai
   Faqat do qadam raasta maangti hai
 
   2
   Zibh ho gaye is ke bemisl bhaai
-  Rasan mein kahaaṅ se kahaaṅ tak hai aai
+  Rasan meiṅ kahaaṅ se kahaaṅ tak hai aai
   Ye tum se ba naam-e-Khuda maangti hai
 
   3

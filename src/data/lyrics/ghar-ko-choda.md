@@ -11,10 +11,10 @@ aliases: ["Ghar Ko Choda"]
 published: true
 romanLyrics: |-
   Ghar ko chhora Shaah ne jangal basaane ke liye
-  Karbala mein aaye the jannat mein jaane ke liye
+  Karbala meiṅ aaye the jannat meiṅ jaane ke liye
 
   1
-  Zohr ko Zainab se jab milne gaye ghar mein Husain
+  Zohr ko Zainab se jab milne gaye ghar meiṅ Husain
   Koi deorhi par na tha parda uthaane ke liye
 
   2
@@ -27,7 +27,7 @@ romanLyrics: |-
 
   4
   Thi sada Zehra ki Zainab mar gaya tera Husain
-  Ghar mein jaa beti saf-e-maatam bichhaane ke liye
+  Ghar meiṅ jaa beti saf-e-maatam bichhaane ke liye
 # source_id: nohayonline:f5ba0f284ff93260ad0c
 # source_url: https://www.nohayonline.com/content_salaam.php?id=20
 # raw_sha256: a067a3339bef3029d6c643bc703567c9c7109cb66872eaeac7ea12fcebb6ba86

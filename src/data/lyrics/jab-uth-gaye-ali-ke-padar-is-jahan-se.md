@@ -42,7 +42,7 @@ romanLyrics: |-
   Sad haif Mustafa ke chacha jaan mar gaye
   Haiṅ muztarib Rasul ke Imran mar gaye
   Sar par uraao khaak ke Haidar malul haiṅ
-  Ru chacha ke gham mein Payambar malul haiṅ
+  Ru chacha ke gham meiṅ Payambar malul haiṅ
 
   5
   Sine pe jo ke apne Nabi ko sulaata tha

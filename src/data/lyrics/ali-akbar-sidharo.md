@@ -29,11 +29,11 @@ romanLyrics: |-
   Hifazat din ki hum pe hai hum haiṅ Aal-e-Payambar
 
   3
-  Jo rah-e-Haq mein maut aae to mar jana shahadat hai
+  Jo rah-e-Haq meiṅ maut aae to mar jana shahadat hai
   Shahadat ka ye saghar shahd se shiriṅ hai Ae dilbar
 
   4
-  Tumhare bazuoṅ mein quwwat-e-bazu-e-Haider hai
+  Tumhare bazuoṅ meiṅ quwwat-e-bazu-e-Haider hai
   Tumhare samne kya hai bhala ye fauj ye lashkar
 
   5
@@ -41,11 +41,11 @@ romanLyrics: |-
   Jigar par khao ab zakhm-e-sinaan o tir hans hans kar
 
   6
-  Ijazat maaṅ se haaṅ ab ja ke khaime mein zara le lo
+  Ijazat maaṅ se haaṅ ab ja ke khaime meiṅ zara le lo
   Phuphi se hum ijazat khud dila deṅge tumheṅ chal kar
 
   7
-  Pisar ko barchhiyoṅ mein bhejna aasaaṅ nahiṅ beta
+  Pisar ko barchhiyoṅ meiṅ bhejna aasaaṅ nahiṅ beta
   Hai fitrat ka taqaza ghash bhi ho sakti hai maaṅ sun kar
 
   8

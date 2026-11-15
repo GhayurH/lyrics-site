@@ -20,11 +20,11 @@ romanLyrics: |-
   Husain paani pila rahe haiṅ Hasan ke sadqe taam aaya
 
   2
-  Utha ke godi mein Mustafa ne Ali ko Bint-e-Asad se bola
+  Utha ke godi meiṅ Mustafa ne Ali ko Bint-e-Asad se bola
   Bahut mubaarak bahut mubaarak zamin pe pehla Imam aaya
 
   3
-  Kahaaṅ main khaaki kahaaṅ woh nuri kahaaṅ woh Zahra ka ism-e-aazam
+  Kahaaṅ maiṅ khaaki kahaaṅ woh nuri kahaaṅ woh Zahra ka ism-e-aazam
   Qasida Zahra ka parh raha tha farishta bahr-e-salaam aaya
 
   4
@@ -32,7 +32,7 @@ romanLyrics: |-
   Yahaaṅ se Sarwar ne bola kunba nisaar karne tamaam aaya
 
   5
-  Yeh kehna Aaqa bahut se aashiq tarapte se chhor aaya huṅ main
+  Yeh kehna Aaqa bahut se aashiq tarapte se chhor aaya huṅ maiṅ
   Bulaawe ke muntazir haiṅ lekin na subh o aaya na shaam aaya
 # source_id: tajpoints:cbdfbca83662edb227ef
 # source_url: https://tajpoints.com/2021/05/zahe-muqaddar-syed-mudassir-mehdi.html

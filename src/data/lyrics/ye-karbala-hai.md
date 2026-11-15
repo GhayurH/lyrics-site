@@ -21,7 +21,7 @@ romanLyrics: |-
   Ye Karbala hai ye Karbala hai
 
   2
-  Jahaaṅ mein sabr o riza yahi hai
+  Jahaaṅ meiṅ sabr o riza yahi hai
   Khudaa-e-sabr o riza yahi hai
   Yahaṅ pe aate haiṅ chal ke Mehdi
   Ye ishte Zahra ye sar zamiṅ hai
@@ -37,8 +37,8 @@ romanLyrics: |-
   4
   Yahaṅ pe guzri hai wo qayaamat
   Mila na us ko sukun ab tak
-  Ridaaeṅ chhinne ke gham mein Aabid
-  Lahad mein rota hai khun ab tak
+  Ridaaeṅ chhinne ke gham meiṅ Aabid
+  Lahad meiṅ rota hai khun ab tak
   Yahaṅ pe hargiz na muskuraana
 
   5
@@ -63,14 +63,14 @@ romanLyrics: |-
   Tum aansuoṅ ke diye jalaana
 
   8
-  Kisi ke dil mein lagi hai barchi
+  Kisi ke dil meiṅ lagi hai barchi
   Kisi ke baazu kate yahiṅ par
   Haaye Ali ki beti ke kitne Yusuf
-  Lahu mein dube haiṅ is zamiṅ par
+  Lahu meiṅ dube haiṅ is zamiṅ par
   Luta hai Saadaat ka gharaana
 
   9
-  Raheṅ kahiṅ bhi jahaaṅ mein jaa kar
+  Raheṅ kahiṅ bhi jahaaṅ meiṅ jaa kar
   Husain waale ye jaante haiṅ
   Ham ahl-e-maatam ke dil Takallum
   Yahaṅ ki mitti se hi bane haiṅ

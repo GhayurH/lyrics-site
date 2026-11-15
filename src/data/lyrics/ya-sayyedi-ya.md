@@ -28,8 +28,8 @@ romanLyrics: |-
   Sina zani ashk-e-aza girya o zaari
   Teri badaulat hai ye miraas hamaari
   Hai teri miraas hameiṅ jaan se pyaari
-  Chaudah sadiyoṅ se teri yaad mein hum
-  Ghar mein har saal sajaate haiṅ alam
+  Chaudah sadiyoṅ se teri yaad meiṅ hum
+  Ghar meiṅ har saal sajaate haiṅ alam
   Silsila jaari hai ye teri qasam
 
   3
@@ -78,7 +78,7 @@ romanLyrics: |-
   Maula teri pyaas pe royeṅge azadaar
   Akbar o Abbas pe royeṅge azadaar
   Bhul sakte nahiṅ Aashur ka gham
-  Be kafan laash sar-e-dasht-e-sitam
+  Bekafan laash sar-e-dasht-e-sitam
   Jalte khaimoṅ ka dhuaaṅ aur haram
 
   9
@@ -87,12 +87,12 @@ romanLyrics: |-
   Chaaroṅ taraf majma-e-aghyaar udhaar tha
   Mimbar-e-neza pe idhar bhaai ka sar
   Beriyaaṅ pehne hue koi chala
-  Kisi maasum ka rassi mein gala
+  Kisi maasum ka rassi meiṅ gala
   Thi asiroṅ ki buka waawaila
 
   10
   Karte haiṅ tajdid-e-wafa Safdar o Mazhar
-  Roz naya nauha tere gham mein banaa kar
+  Roz naya nauha tere gham meiṅ banaa kar
   Sadqe Sakina ke hameiṅ Maula ata kar
   Arz ye afkaar hai qirtaas o qalam par
   Jab talak saaṅs kare hum se wafa

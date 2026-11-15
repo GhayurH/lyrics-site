@@ -12,17 +12,17 @@ aliases: []
 published: true
 romanLyrics: |-
   Tin Shaban sada-e-kaunain marhaba sall-e-ala ho gaya zuhur-e-Maula Husain
-  Aaghosh-e-Fatima se Husain aaghosh-e-risalat mein aaye
+  Aaghosh-e-Fatima se Husain aaghosh-e-risalat meiṅ aaye
   Husain dekh ke Nana ko muskuratiṅ haiṅ
   Magar ye kya hua chashm-e-Rasul-e-Akram se
   Khushi ke waqt bhi aaṅsu tapakte jaate haiṅ
   Sawal kar diya Zahra ne ae mere Baba
   Udaas kiuṅ hue kiuṅ sogwar hai chehra
-  Kaha Rasul ne Zahra main khush hua
+  Kaha Rasul ne Zahra maiṅ khush hua
   Ye tera laal mere din ko bachayega
-  Main roya is liye Zahra watan se dur akela
-  Pyasa gharibi mein maara jayega
-  Aur us qayamat mein na main na tum na Ali hoṅge
+  Maiṅ roya is liye Zahra watan se dur akela
+  Pyasa gharibi meiṅ maara jayega
+  Aur us qayamat meiṅ na maiṅ na tum na Ali hoṅge
   Na Hasan hoga na koi pyara na apna hoga
   Kinare nehr ke begor o bekafan hoga
   Tarap ke puchha Nabi se Husain ki Maa ne
@@ -44,7 +44,7 @@ romanLyrics: |-
   Minhu laah badrul huda
   Lan ninsah tulil madaa
   Abad wallah ya zehra maaninsa Husaina
-  Hallah hallah ya waleena
+  Hallah hallah ya walina
   Ehna khiddamak je'na
   Waada hai ye wallah ya Fatima zahra
   Waada hai hamara ya Fatima Zahra
@@ -59,7 +59,7 @@ romanLyrics: |-
   Usne hum ko na bhulaya hum ne usko na bhulaya
   Husain Husain
   Abad wallah ya zehra maaninsa Husaina
-  Hallah hallah ya waleena
+  Hallah hallah ya walina
   Ehna khiddamak je'na
   Waada hai ye wallah ya Fatima zahra
   Waada hai hamara ya Fatima Zahra
@@ -79,7 +79,7 @@ romanLyrics: |-
   Na'atik zahfa sayyidi ya Husain
   Husain Husain
   Abad wallah ya zehra maaninsa Husaina
-  Hallah hallah ya waleena
+  Hallah hallah ya walina
   Ehna khiddamak je'na
   Waada hai ye wallah ya Fatima zahra
   Waada hai hamara ya Fatima Zahra
@@ -87,18 +87,18 @@ romanLyrics: |-
 
   4
   Ek waada hai jo Shabbir se hum sab ne kiya
-  Ek waada hai jo Shabbir ne bachpan mein liya
+  Ek waada hai jo Shabbir ne bachpan meiṅ liya
   Apne maa baap se nana se baradar se kaha
   Aap sab mere azadaroṅ ko kya deṅge sila
-  Bole Sarkar-e-Muhammad main shafaat duṅga
-  Bole Haidar ke main kausar ki basharat duṅga
-  Aur Hasan bole main sardaar huṅ jannat duṅga
+  Bole Sarkar-e-Muhammad maiṅ shafaat duṅga
+  Bole Haidar ke maiṅ kausar ki basharat duṅga
+  Aur Hasan bole maiṅ sardaar huṅ jannat duṅga
   Boli Zehra tera waada hai shahadat duṅga
-  Main bhi jannat mein na rakhuṅgi qadam mere Husain
-  Jab talak khuld mein jaaye na azadar-e-Husain
+  Maiṅ bhi jannat meiṅ na rakhuṅgi qadam mere Husain
+  Jab talak khuld meiṅ jaaye na azadar-e-Husain
   Husain Husain
   Abad wallah ya zehra maaninsa Husaina
-  Hallah hallah ya waleena
+  Hallah hallah ya walina
   Ehna khiddamak je'na
   Imam Husain imam Husain imam Husain
   Waada hai hamara ya Fatima Zehra
@@ -116,22 +116,22 @@ romanLyrics: |-
   Mujh ko darbaar bula kar logoṅ
   Kaata hai qalb-e-Payambar logoṅ
   Nahiṅ bhuleṅge ya Zehra
-  Na main Abbas-e-Alamdar ke baazu bhuli
-  Na main Zainab ka tarapna kisi pehlu bhuli
+  Na maiṅ Abbas-e-Alamdar ke baazu bhuli
+  Na maiṅ Zainab ka tarapna kisi pehlu bhuli
   Gard aalud Sakina ke na gesu bhuli
   Na hi Sajjad ke khuṅ rang wo aaṅsu bhuli
   Nahiṅ bhuleṅge ya Zehra
   Apne bachche ke rafiqoṅ ko bichharta dekha
   Khaak pe Aun o Muhammad ko tarapta dekha
-  Main ne tukre hue Qasim ka janaza dekha
+  Maiṅ ne tukre hue Qasim ka janaza dekha
   Eriyaṅ khaak pe Akbar ko ragarta dekha
-  Main ne Asghar ka gala tir mein uljha dekha
+  Maiṅ ne Asghar ka gala tir meiṅ uljha dekha
   Jis ghari laal mera zin se reti pe gira
   Terah zarboṅ se mere saamne sar us ka kata
   Husain Husain
   Haye phir Shaam-e-gharibaṅ ne mujhe lut liya
   Wo rida meri thi aada ne jise lut liya
-  Main na bhuluṅgi wo bazaar
+  Maiṅ na bhuluṅgi wo bazaar
   Haye wo Shaam ka darbaar
   Nahiṅ bhuluṅgi wo zindaṅ
   Haye mera Abid-e-bimar

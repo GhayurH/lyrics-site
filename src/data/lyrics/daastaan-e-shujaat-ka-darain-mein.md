@@ -44,10 +44,10 @@ romanLyrics: |-
   Aisa aala zamindar Abbas hai
 
   4
-  Mashk mein kiuṅ na darya utha laae wo
+  Mashk meiṅ kiuṅ na darya utha laae wo
   Faatima ne jise apna beta kaha
   Baab-e-Khaibar tha kul haath pe aap ke
-  ya nigaahoṅ mein lashkar tha nau laakh ka
+  ya nigaahoṅ meiṅ lashkar tha nau laakh ka
 
   Ya Ali hai agar Zulfiqaar aap ki
   Faatima ki to talwaar Abbas hai
@@ -58,7 +58,7 @@ romanLyrics: |-
   durr-e-shehwaar Behr-e-saqawat hai ye
   Haq to ye hai ke haq ki haqiqat hai
 
-  Wo duaaeṅ jo Bibi ne sajdoṅ mein kiṅ
+  Wo duaaeṅ jo Bibi ne sajdoṅ meiṅ kiṅ
   un duaoṅ ka meyaar Abbas hai
 
   6

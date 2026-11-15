@@ -15,8 +15,8 @@ romanLyrics: |-
   Haye bemaar haye bemaar
 
   1
-  Ranj is ka nahiṅ ek din mein luta ghar mera
-  Gham nahiṅ is ka ke pardes mein ye zulm hua
+  Ranj is ka nahiṅ ek din meiṅ luta ghar mera
+  Gham nahiṅ is ka ke pardes meiṅ ye zulm hua
   Mujhko sab kuch hai gawara pe bache din tera
 
   2
@@ -26,7 +26,7 @@ romanLyrics: |-
 
   3
   Bekafan chhor ke aaya huṅ pidar ka laasha
-  Apne baba ko main dafna na saka wavaila
+  Apne baba ko maiṅ dafna na saka wavaila
   Aisa majbur na ho jaaye kisi ka beta
 
   4
@@ -37,7 +37,7 @@ romanLyrics: |-
   5
   Na rahe Qasim o Akbar na hi Abbas chacha
   Mar gaye Aun o Muhammad mera baba na raha
-  Hausla de mujhe karta rahuṅ main shukr-e-Khuda
+  Hausla de mujhe karta rahuṅ maiṅ shukr-e-Khuda
 
   6
   Kufa o Shaam ki raahoṅ ne bahut rulwaya
@@ -45,8 +45,8 @@ romanLyrics: |-
   Lagta suraj ko grahan chhaata kabhi andhiyara
 
   7
-  Tauq o zanjir mein jakra huṅ gila is ka nahiṅ
-  Ye tamanna rahe shukr ke sajde mein jabiṅ
+  Tauq o zanjir meiṅ jakra huṅ gila is ka nahiṅ
+  Ye tamanna rahe shukr ke sajde meiṅ jabiṅ
   Ummat-e-jad ke liye aaye na lab par naale
 
   8
@@ -57,12 +57,12 @@ romanLyrics: |-
   9
   Baap ki yaad bhi aaye to na roye dukhtar
   Nanhe rukhsaar Sakina ke tamaachoṅ ka safar
-  Na mile aise zamane mein kisi ko pursa
+  Na mile aise zamane meiṅ kisi ko pursa
 
   10
-  Wo Sakina ki musibat wo gale mein rassi
+  Wo Sakina ki musibat wo gale meiṅ rassi
   Kaan zakhmi hue khaamosh thi pyaasi bachchi
-  Haye is din ke liye reh gaya kiuṅ main zinda
+  Haye is din ke liye reh gaya kiuṅ maiṅ zinda
 
   11
   Bibiyaaṅ saari rasan basta asiri ghurbat
@@ -70,7 +70,7 @@ romanLyrics: |-
   Kaash ye din mera Khaaliq na mujhe dikhlata
 
   12
-  Is qadar zulm musalsal the ghariboṅ pe Rasheed
+  Is qadar zulm musalsal the ghariboṅ pe Rashid
   Hue the Abid-e-bemaar har ek gaam shahid
   Phir bhi hoṅtoṅ pe tha bemaar ke bas shukr-e-Khuda
 # source_id: nohayonline:c33c9d8828d117350fd6

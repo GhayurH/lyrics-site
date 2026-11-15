@@ -1,6 +1,6 @@
 ---
 title: "میں جگر کے ٹکڑوں کو چھوڑ کے جاؤں کہاں"
-alternateTitle: "Main Jigar Ke Tukroṅ"
+alternateTitle: "Maiṅ Jigar Ke Tukroṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,19 +10,19 @@ tags: []
 aliases: ["Mai Jigar Ke Tukdon"]
 published: true
 romanLyrics: |-
-  Main jigar ke tukroṅ ko chhor ke jaauṅ kahaaṅ
-  Ek hai zindaan mein ek bayaabaan mein
+  Maiṅ jigar ke tukroṅ ko chhor ke jaauṅ kahaaṅ
+  Ek hai zindaan meiṅ ek bayaabaan meiṅ
 
   1
-  Asghar-e-naadaaṅ hai soya bayaabaan mein
-  Aur Sakina meri Shaam ke zindaan mein
+  Asghar-e-naadaaṅ hai soya bayaabaan meiṅ
+  Aur Sakina meri Shaam ke zindaan meiṅ
 
   2
   Qabr-e-Sakina pe tha jism to bedam mera
   Maamta le kar chali Shaam sue Karbala
 
   3
-  Main huṅ meri uljhane aur dil-e-ghamzada
+  Maiṅ huṅ meri uljhane aur dil-e-ghamzada
   Koi kare aa ke hal meri ye mushkil zara
 
   4
@@ -34,8 +34,8 @@ romanLyrics: |-
   Paani pilaauṅ kise baali pehnaauṅ kise
 
   6
-  Mujhe guzarti hai jo kis se bayaaṅ main karuṅ
-  Rouṅ main us ke liye is ka ya maatam karuṅ
+  Mujhe guzarti hai jo kis se bayaaṅ maiṅ karuṅ
+  Rouṅ maiṅ us ke liye is ka ya maatam karuṅ
 
   7
   Kaarwaaṅ hone ko hai sue Madina rawaaṅ

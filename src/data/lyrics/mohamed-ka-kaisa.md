@@ -14,7 +14,7 @@ romanLyrics: |-
   Shah-e-diṅ ko jangal basaana hai dekho
 
   1
-  Hai Akbar ka laasha para ran mein logoṅ
+  Hai Akbar ka laasha para ran meiṅ logoṅ
   Kisi ghamzade ko uthaana hai dekho
   Shah-e-diṅ ko jangal basaana hai dekho
 
@@ -30,7 +30,7 @@ romanLyrics: |-
 
   4
   Na tha tujh ko laazim sawaar-e-Muhammad
-  Muqaddar mein laashe uthaana hai dekho
+  Muqaddar meiṅ laashe uthaana hai dekho
   Shah-e-diṅ ko jangal basaana hai dekho
 
   5
@@ -39,8 +39,8 @@ romanLyrics: |-
   Shah-e-diṅ ko jangal basaana hai dekho
 
   6
-  Mare jo mohabbat mein Aal-e-Nabi ke
-  Hai jannat mein us ka thikaana hai dekho
+  Mare jo mohabbat meiṅ Aal-e-Nabi ke
+  Hai jannat meiṅ us ka thikaana hai dekho
   Shah-e-diṅ ko jangal basaana hai dekho
 # source_id: nohayonline:630001e38aae48a6e974
 # source_url: https://www.nohayonline.com/details_content.php?id=1645

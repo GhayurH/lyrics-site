@@ -10,7 +10,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Laasha-e-Asghar ko rakh kar qabr mein sheh ne kaha
+  Laasha-e-Asghar ko rakh kar qabr meiṅ sheh ne kaha
   Ae zamin-e-Karbala
 
   Ye amaanat hai meri rakhiyo hifaazat se zara
@@ -18,10 +18,10 @@ romanLyrics: |-
 
   1
   Hai ye bekas ka pisar ae zamin-e-Karbala
-  Khun mein sab tar ba tar ae zamin-e-Karbala
+  Khun meiṅ sab tar ba tar ae zamin-e-Karbala
   Bahr-e-Khaaliq rehm kar ae zamin-e-Karbala
   Bekasi par kar nazar ae zamin-e-Karbala
-  Apne pehlu mein ise aaraam se lijiyo sula
+  Apne pehlu meiṅ ise aaraam se lijiyo sula
   Hoyega ehsaaṅ tera
   Laash se inkaar mat kar khuṅ se go inkaar tha
 
@@ -30,23 +30,23 @@ romanLyrics: |-
   Chhor kar aaya hai ghar ae zamin-e-Karbala
   De amaaṅ is ko agar ae zamin-e-Karbala
   Hoṅge khush Khairul Bashar ae zamin-e-Karbala
-  Par main waaqif huṅ na deṅge chain yaaṅ bhi ashqiyaaṅ
+  Par maiṅ waaqif huṅ na deṅge chain yaaṅ bhi ashqiyaaṅ
   Ek sitam hoga naya
-  Dhund kar ye qabr mein kaateṅge bachche ka gala
+  Dhund kar ye qabr meiṅ kaateṅge bachche ka gala
 
   3
   Haye is naashaad ke ae zamin-e-Karbala
   Kya bayaaṅ Bano ke the ae zamin-e-Karbala
   Kehti thi wo dil dukhi ae zamin-e-Karbala
   Ghutniyoṅ Asghar chale ae zamin-e-Karbala
-  Mil gayi saari umideṅ khaak mein naashaad ki
+  Mil gayi saari umideṅ khaak meiṅ naashaad ki
   Maut is ko aa gayi
   God Bano ki hui khaali tera pehlu basa
 
   4
   Kab ye haal-e-dilruba ae zamin-e-Karbala
   Dekh sakta dusra ae zamin-e-Karbala
-  Hai lahad mein bhi sada ae zamin-e-Karbala
+  Hai lahad meiṅ bhi sada ae zamin-e-Karbala
   Yaad kar ke rouṅga ae zamin-e-Karbala
   Tir lagte hi wo lena hichkiyaaṅ muṅh khol ke
   Aur lipatna baap se

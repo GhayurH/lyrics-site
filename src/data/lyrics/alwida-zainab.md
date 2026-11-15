@@ -11,9 +11,9 @@ tags: []
 aliases: ["Zainab Tumhara Baba"]
 published: true
 romanLyrics: |-
-  Zakhmi Baba ke ghar mein jab aamad hui
+  Zakhmi Baba ke ghar meiṅ jab aamad hui
   Bint-e-Zehra yuṅ faryaad karne lagi
-  Haye Baba main pardes mein lut gayi
+  Haye Baba maiṅ pardes meiṅ lut gayi
   To laadli se mukhaatib hue yuṅ Ali
 
   1
@@ -30,7 +30,7 @@ romanLyrics: |-
   Zainab tumhara Baba
 
   3
-  Is waaste hi maine bulwaya tum ko Kufa
+  Is waaste hi maiṅ ne bulwaya tum ko Kufa
   Haathoṅ se tum sajao khud baap ka janaaza
   Lagni thi zarb mere pehle hi jaanta tha
   Zainab tumhara Baba
@@ -38,17 +38,17 @@ romanLyrics: |-
   4
   Mujhe dekhna jo chaaho bhai ko dekh lena
   Har ek apni mushkil Abbas ko bataana
-  Abbas ki surat mein maujud hi rahega
+  Abbas ki surat meiṅ maujud hi rahega
   Zainab tumhara Baba
 
   5
-  Shaam-e-gharibaṅ mein tum pehre pe khari hogi
+  Shaam-e-gharibaṅ meiṅ tum pehre pe khari hogi
   Na beta hoga koi na saath koi bhai
-  Maqtal mein tum se milne phir aayega dobara
+  Maqtal meiṅ tum se milne phir aayega dobara
   Zainab tumhara Baba
 
   6
-  Ek baar aa ke seene lag jao aao beti
+  Ek baar aa ke sine lag jao aao beti
   Mumkin hai aisa mauqa tum phir na pao beti
   Shaayad ke ye taqaaza kar paaye na dobara
   Zainab tumhara Baba

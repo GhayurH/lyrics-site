@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Asr ka waqt hai Shabbir hai tanhaai hai
-  Ek maaṅ dasht-e-musibat mein chali aai hai
+  Ek maaṅ dasht-e-musibat meiṅ chali aai hai
   Dekh kar maaṅ ko ye Shabbir buka karne lage
   Amma mera ye badan dekho hai paara paara
   Jis ne jaise chaaha us ne waise maara
@@ -28,7 +28,7 @@ romanLyrics: |-
   Ab bhi tiroṅ pe muallaq hai tera shahzaada
 
   3
-  Pasliyaaṅ tuti to maaṅ main ne tujhe yaad kiya
+  Pasliyaaṅ tuti to maaṅ maiṅ ne tujhe yaad kiya
   Zarb jo sar pe lagi kehta tha Baaba Baaba
   Kitne sang dil haiṅ ye sab rehm na mujh par khaaya
 
@@ -55,11 +55,11 @@ romanLyrics: |-
   8
   Mujh se pehle ye sitam maaṅ mere Akbar pe hua
   Jis ghari laal mera ziṅ se zamiṅ par aaya
-  Laash par pahuncha jo Akbar ki to main ne dekha
+  Laash par pahuncha jo Akbar ki to maiṅ ne dekha
 
   9
-  Ab to har samt hai ye ahl-e-jafa aur main huṅ
-  Shimr ki kund chhuri sukha gala aur main huṅ
+  Ab to har samt hai ye ahl-e-jafa aur maiṅ huṅ
+  Shimr ki kund chhuri sukha gala aur maiṅ huṅ
   Amma Shabbir tera ab nahiṅ bachne waala
 
   10

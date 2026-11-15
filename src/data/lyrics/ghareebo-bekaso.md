@@ -20,23 +20,23 @@ romanLyrics: |-
 
   2
   Duhaai hai duhaai belcha zaalim ne maara hai
-  Hui hai jaa ba haq pardes mein majruh tan Zainab
+  Hui hai jaa ba haq pardes meiṅ majruh tan Zainab
 
   3
   Tamim-e-bad-gohar ke na khalaq ne kya sitam tora
   Asir-e-ranj o gham hai bedayaar o bewatan Zainab
 
   4
-  Husain ibn-e-Ali ka jis shajar mein sar tha aavezaar
-  Usi ke zer-e-saaya khun mein tar hai khasta tan Zainab
+  Husain ibn-e-Ali ka jis shajar meiṅ sar tha aavezaar
+  Usi ke zer-e-saaya khun meiṅ tar hai khasta tan Zainab
 
   5
   Wo teri pusht-e-athar aur jaraahat taaziyaanoṅ ki
   Har ik ko khun rulaata hai tera zakhmi badan Zainab
 
   6
-  Kabhi baazaar-e-Kufa mein kabhi qasr-e-Yazidi mein
-  Kabhi darbaar mein hai berida sheh ki behan Zainab
+  Kabhi baazaar-e-Kufa meiṅ kabhi qasr-e-Yazidi meiṅ
+  Kabhi darbaar meiṅ hai berida sheh ki behan Zainab
 
   7
   Na bhula hai zamaana aur na bhulega qayaamat tak

@@ -12,13 +12,13 @@ aliases: []
 published: true
 romanLyrics: |-
   Tu Ali ki karta hai hamsari yeh tere zamir ki bhul hai
-  Tujh mein Ali ki wila nahiṅ teri bandagi bhi fazul hai
+  Tujh meiṅ Ali ki wila nahiṅ teri bandagi bhi fazul hai
 
   1
   Yeh jo kar raha hai tu sakhtiyaṅ mere pyaar ka hai yeh imtihaaṅ
   Tujhe takht par bhi sukun nahiṅ mujhe daar par bhi mili amaan
-  Main adu ko kiuṅ na adu kahuṅ meri zindagi ka usul hai
-  Main maruṅ to lab pe ho Ya Ali mujhe aisa marna qubul hai
+  Maiṅ adu ko kiuṅ na adu kahuṅ meri zindagi ka usul hai
+  Maiṅ maruṅ to lab pe ho Ya Ali mujhe aisa marna qubul hai
 
   2
   Woh Ali jo hawaala-e-Innama woh Ali jo haasil-e-kul kaha

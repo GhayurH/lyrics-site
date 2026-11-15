@@ -13,8 +13,8 @@ published: true
 romanLyrics: |-
   Afsos ke Zainab ko darbaar bulaaya jaata hai
   Kaisa ye sitam haaye saadaat pe dhaaya jaata hai
-  Hai bain ye Zainab ka main aaj huṅ beparda
-  Ab koi nahiṅ mera main qaidi huṅ waawaila
+  Hai bain ye Zainab ka maiṅ aaj huṅ beparda
+  Ab koi nahiṅ mera maiṅ qaidi huṅ waawaila
 
   1
   Ye des paraaya hai kya waqt ye aaya hai
@@ -29,7 +29,7 @@ romanLyrics: |-
   Ye Shaam ka manzar hai bimaar hai ab tanha
 
   4
-  Main ashk bahaati huṅ darbaar mein jaati huṅ
+  Maiṅ ashk bahaati huṅ darbaar meiṅ jaati huṅ
   Ab khutbe sunaati huṅ dushwaar hai har lamha
 
   5
@@ -41,8 +41,8 @@ romanLyrics: |-
   Hamshir ki ghurbat par Sajjad bahut roya
 
   7
-  Darbaar mein beparda jab ahl-e-haram aaye
-  Us waqt Mohib Yazdaan ye bain tha Zainab ka
+  Darbaar meiṅ beparda jab ahl-e-haram aaye
+  Us waqt Mohib Yazdaaṅ ye bain tha Zainab ka
 # source_id: nohayonline:f4581b15f0a40832c858
 # source_url: https://www.nohayonline.com/details_content.php?id=1445
 # raw_sha256: 1866044f89757489871cf13615ffd73013a5e04acfb10ee03c4b3922a33f7a44

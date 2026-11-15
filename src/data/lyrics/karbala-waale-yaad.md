@@ -20,14 +20,14 @@ romanLyrics: |-
   Jab jawaaṅ koi laash uthaao ge
 
   1
-  Karbala mein bana tha jo dulha
+  Karbala meiṅ bana tha jo dulha
   Kya muqaddar tha uski dulhan ka
   Shab ko dulhan thi subh ko bewa
   Betiyoṅ ka jo ghar basaao ge
 
   2
   Ali Asghar ki maaṅ pe nazreṅ thi
-  Ran mein yuṅ tir khaa ke roya nahiṅ
+  Ran meiṅ yuṅ tir khaa ke roya nahiṅ
   Maaṅ pareshaan ho na jaaye kahiṅ
   Zakhm khaa kar jo muskuraao ge
 
@@ -38,16 +38,16 @@ romanLyrics: |-
   Jab yatimoṅ pe tars khaao ge
 
   4
-  Ek beti jahaaṅ mein hai Sughra
+  Ek beti jahaaṅ meiṅ hai Sughra
   Qabr tak jis ka intezaar gaya
   Jis ka baba na laut kar aaya
-  Ghar mein pardes se jab aao ge
+  Ghar meiṅ pardes se jab aao ge
 
   5
   Haaye Muslim ke wo pisar donoṅ
   Eid ke din the dar ba dar donoṅ
   Yaad karte the apna ghar donoṅ
-  Eid apnoṅ mein jab manaao ge
+  Eid apnoṅ meiṅ jab manaao ge
 
   6
   Jab janaaza Batul ka utha
@@ -63,7 +63,7 @@ romanLyrics: |-
 
   8
   Hai Takallum payaam-e-sabr yehi
-  Karbala dil mein gar tumhare rahi
+  Karbala dil meiṅ gar tumhare rahi
   Tum pe mushkil pare gi jab bhi koi
   Apne gham saare bhul jaao ge
 # source_id: nohayonline:345188674389a60c757f

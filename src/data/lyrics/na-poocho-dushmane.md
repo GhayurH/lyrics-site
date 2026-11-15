@@ -32,14 +32,14 @@ romanLyrics: |-
 
   5
   Sar-e-saahil qayaamat dekhna kuch der guzre to
-  Abhi to ghaiz mein Abbas aate haiṅ abhi kya hai
+  Abhi to ghaiz meiṅ Abbas aate haiṅ abhi kya hai
 
   6
   Mere Shabbir de do saat bete aaj raahib ko
   Razaa-e-rashk maalik ho tumheiṅ Maula kami kya hai
 
   7
-  Ali ne ik shab-e-hijrat mein khud paighambari ki hai
+  Ali ne ik shab-e-hijrat meiṅ khud paighambari ki hai
   Ali se puchhiye batlaaeṅge paighambari kya hai
 
   8
@@ -51,7 +51,7 @@ romanLyrics: |-
   Wo baarah manzileṅ haiṅ nur ki baarah dari kya hai
 
   10
-  Main Mahir kya karuṅga dekh kar duniya ko nazroṅ se
+  Maiṅ Mahir kya karuṅga dekh kar duniya ko nazroṅ se
   Dar-e-Shabbir par baitha hua huṅ ab kami kya hai
 # source_id: nohayonline:6d5e69c38402cd03f32a
 # source_url: https://www.nohayonline.com/details_content.php?id=1219

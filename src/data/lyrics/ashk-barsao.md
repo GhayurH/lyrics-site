@@ -22,13 +22,13 @@ romanLyrics: |-
   Aisi gunje waa Husaina ki sada
 
   2
-  Aa gaye pardes mein chhuta watan
-  Jin ke laashe dasht mein the bekafan
+  Aa gaye pardes meiṅ chhuta watan
+  Jin ke laashe dasht meiṅ the bekafan
   Un asiroṅ ka karo maatam bapa
 
   3
   Apna Maula wo Husain ibn-e-Ali
-  Jis ke dam se diṅ mein hai roshni
+  Jis ke dam se diṅ meiṅ hai roshni
   Asr-e-Aashur wo suraj dhal gaya
 
   4
@@ -38,7 +38,7 @@ romanLyrics: |-
 
   5
   Karbala se Shaam jab qaidi chale
-  Par gaye pairoṅ mein unke aable
+  Par gaye pairoṅ meiṅ unke aable
   Is qadar dushwaar tha wo raasta
 
   6
@@ -58,7 +58,7 @@ romanLyrics: |-
 
   9
   Aisa ho farsh-e-aza ka ehtemaam
-  Sadqa-e-Shabbir mein langar ho aam
+  Sadqa-e-Shabbir meiṅ langar ho aam
   Har aza khaana ho ek nemat kada
 
   10

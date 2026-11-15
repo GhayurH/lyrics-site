@@ -12,14 +12,14 @@ aliases: []
 published: true
 romanLyrics: |-
   Na maaro na maaro na maaro mujhe
-  Main Sakina main Sakina
-  Main yatima huṅ mujhe
+  Maiṅ Sakina maiṅ Sakina
+  Maiṅ yatima huṅ mujhe
   Patthar na maaro
 
   1
-  Main Baba ki raaj dulaari
+  Maiṅ Baba ki raaj dulaari
   Apne chacha ko jaan se pyaari
-  Main pardesi huṅ dukhyaari
+  Maiṅ pardesi huṅ dukhyaari
   Dekh rahe ho aah o zaari
   Mar gaye waaris ab tanha huṅ
 
@@ -28,13 +28,13 @@ romanLyrics: |-
   Sikh liya hai pyaasi rehna
   Ghut kar jina ghut kar marna
   Lekin ye kaisa hai qarina
-  Dekh lo nabz main laasha huṅ
+  Dekh lo nabz maiṅ laasha huṅ
 
   3
   Baba se thi jang tumhaari
   Bachchoṅ se kya hai bezaari
   Saaṅs ruk jaati hai hamaari
-  Chalne mein bhi hai dushwaari
+  Chalne meiṅ bhi hai dushwaari
   Chaar baras ki zaifa huṅ
 
   4
@@ -54,9 +54,9 @@ romanLyrics: |-
   6
   Ghar se chali to shahzaadi thi
   Ranj o alam ki kab aadi thi
-  Qismat mein ye barbaadi thi
+  Qismat meiṅ ye barbaadi thi
   Paani ki kab faryaadi thi
-  Na do paani main tishna huṅ
+  Na do paani maiṅ tishna huṅ
 
   7
   Besar laashe ghor andhera
@@ -70,7 +70,7 @@ romanLyrics: |-
   Ae shahzaadi dard ki malka
   Haaye tera taabut na utha
   Tera to marqad qaid hi tha
-  Kehti rahi tu main dukhiya huṅ
+  Kehti rahi tu maiṅ dukhiya huṅ
 # source_id: nohayonline:81dc589df9f04be2bea3
 # source_url: https://www.nohayonline.com/details_content.php?id=1644
 # raw_sha256: 07614a5f958c5e659aca8248c74017f415200827cc8200a7b4c94d9f138d00a6

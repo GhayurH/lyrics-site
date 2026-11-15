@@ -26,7 +26,7 @@ romanLyrics: |-
   Naujawaaṅ bete ka dunya se guzarna dekha
 
   4
-  Khuṅ bahaate hue aankhoṅ se har ek zarre mein
+  Khuṅ bahaate hue aankhoṅ se har ek zarre meiṅ
   Fatima aap ki aulaad ka lutna dekha
 
   5

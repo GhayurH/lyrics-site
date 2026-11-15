@@ -1,6 +1,6 @@
 ---
 title: "قرآن لہو میں ڈوب گیا"
-alternateTitle: "Quran Lahu Mein"
+alternateTitle: "Quran Lahu Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Quran lahu mein dub gaya
+  Quran lahu meiṅ dub gaya
   Aal-e-Nabi hai bin chaadar haae nauha kunaṅ hai Kaaba
 
   1
@@ -20,7 +20,7 @@ romanLyrics: |-
   Raunda gaya hai ghoroṅ se Sibt-e-Nabi ka laasha
 
   2
-  Ek tir aa ke Asghar ki gardan mein garh gaya hai
+  Ek tir aa ke Asghar ki gardan meiṅ garh gaya hai
   Wiraan maaṅ ki godi hai jhula ujar gaya hai
   Chhe maah ka mujaahid bhi maara gaya hai pyaasa
 
@@ -31,8 +31,8 @@ romanLyrics: |-
 
   4
   Sharm o haya ki shahzaadi bemaqna o rida hai
-  Ghairat se ran mein Ghaazi ka laasha tarap raha hai
-  Uth uth ke girta hai ran mein Abbas ka janaaza
+  Ghairat se ran meiṅ Ghaazi ka laasha tarap raha hai
+  Uth uth ke girta hai ran meiṅ Abbas ka janaaza
 
   5
   Asbaab lut gaya saara khaime ujar gae haiṅ
@@ -47,7 +47,7 @@ romanLyrics: |-
   7
   Hai kaun ab ghariboṅ ka puchhe jo in se aa ke
   Kiuṅ maarte haiṅ ye zaalim muṅh par mere tamaache
-  Sunta nahiṅ hai koi bhi kis se kahuṅ main Baaba
+  Sunta nahiṅ hai koi bhi kis se kahuṅ maiṅ Baaba
 
   8
   Dil chaak ho gaya gham se sadmoṅ se naatawaaṅ hai
@@ -56,8 +56,8 @@ romanLyrics: |-
 
   9
   Aayat Karbala ki ye kahti hai sar utha ke
-  Din-e-Khuda bachaane ko surat mein Shah ki aa ke
-  Shaam-e-gharibaaṅ mein suraj Gohar ye kah ke duba
+  Din-e-Khuda bachaane ko surat meiṅ Shah ki aa ke
+  Shaam-e-gharibaaṅ meiṅ suraj Gohar ye kah ke duba
 # source_id: nohayonline:2a0d7704ca4e7a50cc88
 # source_url: https://www.nohayonline.com/details_content.php?id=3284
 # raw_sha256: 525b389f18da956c279bdfe1e01bd5ba8fc7f3402ea0edcdfb8f10c3f99b4a73

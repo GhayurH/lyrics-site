@@ -17,7 +17,7 @@ romanLyrics: |-
   1
   Is se barh ke aur koi zulm kya hoga mazid
   Thi wohi to tir-e-seh shoba ki ek zarb-e-shadid
-  Asghar-e-beshir ko jo khun mein nehla gayi
+  Asghar-e-beshir ko jo khun meiṅ nehla gayi
 
   2
   Sarzamin-e-Karbala par tha qayaamat ka samaaṅ
@@ -37,15 +37,15 @@ romanLyrics: |-
   5
   Thi shikasta nok se nezoṅ ki arz-e-Karbala
   Dhundhte the chhe mahine ki kamaayi ashqiya
-  Laash-e-Asghar ek neze mein ulajh kar aa gayi
+  Laash-e-Asghar ek neze meiṅ ulajh kar aa gayi
 
   6
   Apne bachche ke liye yuṅ khun roti thi Rubaab
-  Dekh kar raste mein bachchoṅ ko ye kehti thi Rubaab
+  Dekh kar raste meiṅ bachchoṅ ko ye kehti thi Rubaab
   Mujh ko apne laadle ki har ada yaad aa gayi
 
   7
-  Kya kami ho jaati tujh mein Alqama tu hi bata
+  Kya kami ho jaati tujh meiṅ Alqama tu hi bata
   Kitna paani Asghar-e-beshir pi leta bhala
   Puchhne par ek maaṅ ke Alqama sharma gayi
 
@@ -56,7 +56,7 @@ romanLyrics: |-
 
   9
   Nauha Asghar ka parha Rizwan ne rote hue
-  Sun ke jis ko ghaib mein Mehdi lahu rone lage
+  Sun ke jis ko ghaib meiṅ Mehdi lahu rone lage
   Farsh se taa arsh Ashhar ek udaasi chha gayi
 # source_id: nohayonline:159242a8abb0cb76e4f6
 # source_url: https://www.nohayonline.com/details_content.php?id=3782

@@ -41,7 +41,7 @@ romanLyrics: |-
   Asghar pyare saanjh bhayi
 
   5
-  Haye Aseem ek dukhiya maaṅ jab
+  Haye Asim ek dukhiya maaṅ jab
   Bain karat hai ro ro kar
   Ye sun kar naina bhar aawe
   Asghar pyare saanjh bhayi

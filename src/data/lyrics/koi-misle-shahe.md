@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Koi misl-e-Shaah-e-diṅ ho to aaye
-  Zaifi mein jawaaṅ ka daagh uthaaye
+  Zaifi meiṅ jawaaṅ ka daagh uthaaye
 
   1
   Uthi taazim ko har mauj-e-darya
@@ -20,7 +20,7 @@ romanLyrics: |-
 
   2
   Are logoṅ mera naushaah aaya
-  Lahu ki haath mein mehndi lagaaye
+  Lahu ki haath meiṅ mehndi lagaaye
 
   3
   Kaleja thaam kar chillaai maadar
@@ -44,11 +44,11 @@ romanLyrics: |-
 
   8
   Are beshir ki koi khabar le
-  Mera bachcha lahad mein dar na jaaye
+  Mera bachcha lahad meiṅ dar na jaaye
 
   9
   Chali aandhi falak se khun barsa
-  Shah-e-bekas lahu mein jab nahaaye
+  Shah-e-bekas lahu meiṅ jab nahaaye
 
   10
   Are ye kya sitam hai ae lainoṅ
@@ -56,7 +56,7 @@ romanLyrics: |-
 
   11
   Samajh lo Ashq jannat hai usi ki
-  Gham-e-Sarwar mein jo aansu bahaaye
+  Gham-e-Sarwar meiṅ jo aansu bahaaye
 # source_id: nohayonline:acd4e744b74d9681eea3
 # source_url: https://www.nohayonline.com/details_content.php?id=1867
 # raw_sha256: c2fe6a53155cf005a5ec959f9733c810d1bb895114344e89304f1f854803f00d

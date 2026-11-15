@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Wa hijaaba wa Abbaasa
-  Meri chaadar chhin rahi hai Karbala mein naagahaaṅ
+  Meri chaadar chhin rahi hai Karbala meiṅ naagahaaṅ
   Hai mera bhaai kahaaṅ
   Zainab-e-muztar pukaari Shaamiyoṅ ke darmiyaaṅ
   Hai mera bhaai kahaaṅ
@@ -20,7 +20,7 @@ romanLyrics: |-
 
   1
   Zaamin-e-chaadar banaa kar laai thi ghar se jise
-  Main sadaaeṅ de rahi huṅ koi batlaa de use
+  Maiṅ sadaaeṅ de rahi huṅ koi batlaa de use
   Sar khulaa hamshir ka hai hone waali hai azaaṅ
   Hai mera bhaai kahaaṅ
 
@@ -38,7 +38,7 @@ romanLyrics: |-
 
   4
   Tum ko paala hai bare naazoṅ se is dilgir ne
-  De diya tha bachpane hi mein mujhe Shabbir ne
+  De diya tha bachpane hi meiṅ mujhe Shabbir ne
   Ae Ali Akbar bataa do tum to na lo imtihaaṅ
   Hai mera bhaai kahaaṅ
 

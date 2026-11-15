@@ -17,30 +17,30 @@ romanLyrics: |-
   1
   Ehsaas ye mujhko hua aulaad ki ulfat hai kya
   Tumko sada beti ne di aaye Najaf se Karbala
-  Deti rahi jab main sada aaye nahiṅ kiuṅ dada jaan
+  Deti rahi jab maiṅ sada aaye nahiṅ kiuṅ dada jaan
 
   2
   Wo dekho saahil pe zara ammu ka hai laasha wahaaṅ
-  Maara gaya saqqa mera main reh gayi tashna dahaaṅ
+  Maara gaya saqqa mera maiṅ reh gayi tashna dahaaṅ
   Ammu gaye bhaiya gaya aaye nahiṅ kiuṅ dada jaan
 
   3
   Tumko sada deti rahi ya Aeliya kehti rahi
-  Kiuṅ ro rahe haiṅ dada jaan ab dekh kar haalat meri
+  Kiuṅ ro rahe haiṅ dada jaaṅ ab dekh kar haalat meri
   Sun kar meri aah o buka aaye nahiṅ kiuṅ dada jaan
 
   4
-  Ashkoṅ se hi tashna labi main ne bujhaayi dada jaan
-  Maare gaye is dasht mein sab mere bhai dada jaan
+  Ashkoṅ se hi tashna labi maiṅ ne bujhaayi dada jaaṅ
+  Maare gaye is dasht meiṅ sab mere bhai dada jaaṅ
   Mera bhara ghar lut gaya aaye nahiṅ kiuṅ dada jaan
 
   5
   Le kar gaya Shimr-e-laiṅ kaanoṅ se jab gohar mere
-  Main ne sada di aap ko us waqt hi rote huwe
+  Maiṅ ne sada di aap ko us waqt hi rote huwe
   Aa jaaiye bahr-e-Khuda aaye nahiṅ kiuṅ dada jaan
 
   6
-  Ek hashr sa ran mein utha Safdar hua maatam bapa
+  Ek hashr sa ran meiṅ utha Safdar hua maatam bapa
   Ro ke Sakina ne kaha aana hi tha jab Karbala
   Baba pe jab khanjar chala aaye nahiṅ kiuṅ dada jaan
 # source_id: nohayonline:7c503e4a2da1a142d40a

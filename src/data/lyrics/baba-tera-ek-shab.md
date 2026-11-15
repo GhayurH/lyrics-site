@@ -15,8 +15,8 @@ romanLyrics: |-
   Baba tera ek shab ka hai mehmaan Sakina
 
   1
-  Aashur ki ghurbat mein asiri ke safar mein
-  Berahm zamaane mein rahe baad-e-padar ke
+  Aashur ki ghurbat meiṅ asiri ke safar meiṅ
+  Berahm zamaane meiṅ rahe baad-e-padar ke
   Har gaam Khuda tera nigahbaan Sakina
 
   2
@@ -25,12 +25,12 @@ romanLyrics: |-
   Haaṅ daur-e-yatimi nahiṅ aasaan Sakina
 
   3
-  Main aap ki aaghosh mein chhup jaauṅ gi baba
+  Maiṅ aap ki aaghosh meiṅ chhup jaauṅ gi baba
   Aur Akbar o Abbas ko bulwaauṅ gi baba
   Tanha to na hogi sar-e-maidaan Sakina
 
   4
-  Maqtal mein na kuza liye khaali chali aana
+  Maqtal meiṅ na kuza liye khaali chali aana
   Abbas ko ro ro ke na darya se bulaana
   Ho jaayeṅge sharminda chacha jaan Sakina
 

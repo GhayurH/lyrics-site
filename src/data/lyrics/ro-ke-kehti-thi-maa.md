@@ -19,11 +19,11 @@ romanLyrics: |-
   So rahe ho kahaaṅ tujh ko dhunduṅ kahaaṅ
 
   2
-  Qaid hoti huṅ main kab se roti huṅ main
+  Qaid hoti huṅ maiṅ kab se roti huṅ maiṅ
   Bandh chuki resmaaṅ tujh ko dhunduṅ kahaaṅ
 
   3
-  Paas daadi ke ya Shah ki godhi mein ho
+  Paas daadi ke ya Shah ki godhi meiṅ ho
   Kuchh to de do nishaaṅ tujh ko dhunduṅ kahaaṅ
 
   4

@@ -14,7 +14,7 @@ romanLyrics: |-
   Shaam ka bazaar Ae qaafila saalaar Ae Aabid bimaar
   Sayyid-e-Sajjad tera Shaam jaana yaad hai
 
-  Raah mein ashkoṅ ke badle khuṅ bahaana yaad hai
+  Raah meiṅ ashkoṅ ke badle khuṅ bahaana yaad hai
   Sayyid-e-Sajjad tera Shaam jaana yaad hai
 
   1
@@ -23,7 +23,7 @@ romanLyrics: |-
   Tera rona Shaamiyoṅ ka muskuraana yaad hai
 
   2
-  Jo bhi jis ke dil mein aaya wo sitam us ne kiya
+  Jo bhi jis ke dil meiṅ aaya wo sitam us ne kiya
   Aag barsaayi kisi ne aur kisi ne ye kaha
   Baaghi qaidi teri shaahi ka zamaana yaad hai
 
@@ -33,18 +33,18 @@ romanLyrics: |-
   Ye munaadi sun ke tera sar jhukaana yaad hai
 
   4
-  Chand saateiṅ ka safar tha tis ghantoṅ mein kiya
+  Chand saateiṅ ka safar tha tis ghantoṅ meiṅ kiya
   Ruh zakhmi jism zakhmi aur dil mahw-e-buka
   Apne baaloṅ se haram ka munh chhupaana yaad hai
 
   5
   Ibn-e-Marjaana ne tujh par ki sitam ki inteha
-  Jab Sakina ko kanizi mein talab us ne kiya
+  Jab Sakina ko kanizi meiṅ talab us ne kiya
   Us ghari khutba wo Zainab ka sunaana yaad hai
 
   6
   Ho raha tha yuṅ taaruf bar sar-e-darbaar-e-aam
-  Qaidiyoṅ mein kaun wo Bibi hai Zainab jis ka naam
+  Qaidiyoṅ meiṅ kaun wo Bibi hai Zainab jis ka naam
   Aur haram ka Bibi Zainab ka chhupaana yaad hai
 
   7

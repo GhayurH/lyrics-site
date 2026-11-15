@@ -11,12 +11,12 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Gala baandha hai rasan mein malul o muztar hai
+  Gala baandha hai rasan meiṅ malul o muztar hai
   Yehi Husain ki pyaari Sakina dukhtar hai
 
   1
   Isi ko Sibt-e-Nabi sine pe sulaate the
-  Isi ko god mein Abbas bhi khilaate the
+  Isi ko god meiṅ Abbas bhi khilaate the
   Jo ruth jaati thi sau sau tarah manaate the
   Husain naaz aise bachchi ke uthaate the
 
@@ -30,18 +30,18 @@ romanLyrics: |-
   Ishaara kar ke zamiṅ ki taraf ye us ne kaha
   Sakina pyaari ki haalat to aap dekhe zara
   Zamin-e-Garm pe lipti hai pakre paaoṅ mera
-  Qadam barhaauṅ ga bhala kis tarah se main aaqa
+  Qadam barhaauṅ ga bhala kis tarah se maiṅ aaqa
 
   4
   Isi ko Shimr ne maare tamaanche gaaloṅ par
   Isi ke kaanoṅ se chhine lain ne gohar
   Isi ke bain se zaahir ye ho gaya sab par
-  Shahid ho gaye Karbal mein Sibt-e-Paighambar
+  Shahid ho gaye Karbal meiṅ Sibt-e-Paighambar
 
   5
   Ye ek nannha sa sar jo rakha hai naize par
   Isi ka bhaai hai chhe maah ka Ali Asghar
-  Bala ke dasht mein naadaan paani ko paa kar
+  Bala ke dasht meiṅ naadaan paani ko paa kar
   Pilaane ko ise dauri thi kuze ko le kar
 # source_id: nohayonline:6f66867c754a6157a3f6
 # source_url: https://www.nohayonline.com/details_content.php?id=3443

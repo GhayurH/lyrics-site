@@ -1,6 +1,6 @@
 ---
 title: "آج مقتل میں عجب بے سر و ساماں ہے حرم"
-alternateTitle: "Aaj Maqtal Mein"
+alternateTitle: "Aaj Maqtal Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,230 +10,230 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Aaj maqtal mein ajab be saro samaan hai haram
-  Dil hai majrooh khule sar hai pareshan hai haram
+  Aaj maqtal meiṅ ajab besaro samaaṅ hai haram
+  Dil hai majruh khule sar hai pareshaṅ hai haram
 
   1
   Qatl-e-Shabbir se betaab hai girya hai haram
-  Waarison mein nahi ab koi to hairaan hai haram
+  Waarisoṅ meiṅ nahi ab koi to hairaaṅ hai haram
   Zikr-e-mazlumi shah-e-Madani karte hai
-  Kabhi aahein to kabhi seena zani karte hai
+  Kabhi aaheiṅ to kabhi seena zani karte hai
 
   2
-  Qaime sab jal chuke hai loot chuke hai aada
+  Qaime sab jal chuke hai lut chuke hai aada
   Farq par hai kisi bibi ke na maqna na rida
   Shaam hone ko hai sunsaan hai jangal saara
-  Paas bacchon ko liye baithi hai bint-e-Zahra
+  Paas bacchoṅ ko liye baithi hai bint-e-Zahra
 
   3
-  Pyar karti hai isay gah usay samjhati hai
-  Koi masoom jo rota hai to behlati hai
+  Pyar karti hai ise gah use samjhati hai
+  Koi masum jo rota hai to behlati hai
   Ro ke farmati hai ye khwahare sultan-e-anam
   Utho sajjad ki ab din hua jaata hai tamaam
 
   4
-  Jhat pata waqt hai kuch der mein hone ko hai shaam
+  Jhat pata waqt hai kuch der meiṅ hone ko hai shaam
   Ab na qasim hai na abbas na akbar na imam
   Dil e paj murda pa ek gham ki ghata chaayi hai
   Raat hone ko hai aur aalame tanhaai hai
 
   5
-  Kaan mein pahunchi jo sajjad ke zainab ki sada
+  Kaan meiṅ pahunchi jo sajjad ke zainab ki sada
   Khol kar aankh ye ki arz basad aah o buka
-  Kya kahun aap se qaabu mein nahi dil mera
+  Kya kahuṅ aap se qaabu meiṅ nahi dil mera
   Tap zyada hai to ghaflat bhi hai kuch aaj siwa
 
   6
   Kaun maara gaya aur kaun juda hota hai
   Mujhko kuch hosh nahi hai ke ye kya hota hai
-  Bole fizza se ye phir abid e bemaar o hazeen
-  Jitne bacche hai bula lo to unhe mere qareen
+  Bole fizza se ye phir abid e bemaar o haziṅ
+  Jitne bacche hai bula lo to unhe mere qariṅ
 
   7
-  Jamah fizza ne kiya bacchon ko la la ke wahin
-  Par na do ladke thay aur ek sakina ghamgeen
-  Dhoondne chaar taraf misle nazar jaati thi
+  Jamah fizza ne kiya bacchoṅ ko la la ke wahin
+  Par na do larke the aur ek sakina ghamgiṅ
+  Dhundne chaar taraf misle nazar jaati thi
   Un ke rone ki sada bhi na magar aati thi
 
   8
-  Kaha abid ne ki ay khwahare sultan-e-huda
+  Kaha abid ne ki ae khwahare sultan-e-huda
   Laaiye sheh ne banayi hai jo farde shohda
   Dekh loo wo to mere dil ko tasalli ho zara
-  Naam tehreer hai us fard mein kiska kiska
+  Naam tehrir hai us fard meiṅ kiska kiska
 
   9
   Jo gaye khuld me ab khwaab hai surat unki
   Jo mere saath hai laazim hai hifazat unki
   Sun ke ye kehne lagi zainabe tafteeda jigar
-  Le gaye loot ke asbaab to sab baani e shar
+  Le gaye lut ke asbaab to sab baani e shar
 
   10
-  Usi asbaab mein wo fard bhi thi ay dilbar
+  Usi asbaab meiṅ wo fard bhi thi ae dilbar
   Sun ke kehne lage sajjad ye badeeda e tar
-  Fikr kuch aur mai pabande alam kar loonga
+  Fikr kuch aur mai pabande alam kar lunga
   Qatl jo hogaye naam unke raqam kar loonga
 
   11
   Keh ke ye likhne lage khaak pe naam e shohda
   Yaad aaye jo wo sab karne lage aah o buka
-  Dil pe ek teer laga naam jo asghar ka likha
+  Dil pe ek tir laga naam jo asghar ka likha
   Ghame jaankah se tharra gaye saare aaza
 
   12
-  Yaad karte thay unhe jab to jigar jalta tha
-  Teen bachon ka kahin par na pata chalta tha
+  Yaad karte the unhe jab to jigar jalta tha
+  Tin bachoṅ ka kahiṅ par na pata chalta tha
   Ro ke karne lagi sajjad se zainab ye kalaam
-  Jaye tashveesh hai din koi ghadi mein hai tamam
+  Jaye tashvish hai din koi ghari meiṅ hai tamam
 
   13
-  Dhoondne bacchon ko jaati hoo ki ho jaye na shaam
+  Dhundne bacchoṅ ko jaati hu ki ho jaye na shaam
   Do ijazat mujhe beta ke tumhi ab ho imam
-  Raasta bhool gaye hai na idhar aayenge
-  Dasht mein jaa ke pukarungi to mil jayenge
+  Raasta bhul gaye hai na idhar aayenge
+  Dasht meiṅ jaa ke pukarungi to mil jayenge
 
   14
   Keh ke abid se chali khwahare sultan-e-huda
-  Aa zara saath mere mud ke ye fizza se kaha
+  Aa zara saath mere mur ke ye fizza se kaha
   Wo bhi hamraah hui karti hui aah o buka
-  Paon rakhti thi kahin aur kahin padta tha
+  Paoṅ rakhti thi kahiṅ aur kahiṅ parta tha
 
   15
-  Jaa baja dasht mein laashe jo nazar aate thay
-  Dil dhadakta tha qadam khauf se tharrate thay
-  Aah thi lab pe rawan ishq thay aur dil tha fugaar
+  Jaa baja dasht meiṅ laashe jo nazar aate the
+  Dil dharakta tha qadam khauf se tharrate the
+  Aah thi lab pe rawaṅ ishq the aur dil tha fugaar
   Ek taraf ko ye chali jaati thi ba haalat e zaar
 
   16
-  Nagahan door se dikhlayi diya ek sawaar
-  Boli fizza se ye zainab ke zara badh ke pukar
-  Minnate uski karenge to taras khayega
-  Us se bachon ka pata dasht mein mil jayega
+  Nagahaṅ dur se dikhlayi diya ek sawaar
+  Boli fizza se ye zainab ke zara barh ke pukar
+  Minnate uski kareṅge to taras khayega
+  Us se bachoṅ ka pata dasht meiṅ mil jayega
 
   17
   Hukm paana tha ki fizza ne ye di bad ke sada
-  Ay sawaar is taraf aa is taraf aa behre khuda
-  Koi takleef na denge tujhe hum iske siwa
-  Hum gareebon ki hai ek arz usay sunta jaa
+  Ae sawaar is taraf aa is taraf aa behre khuda
+  Koi taklif na deṅge tujhe hum iske siwa
+  Hum gariboṅ ki hai ek arz use sunta jaa
 
   18
-  Dil hai majrooh bahot roye jo hai bhai ko
-  Tujhse kuch poochna hai fatema ki jaayi ko
+  Dil hai majruh bahot roye jo hai bhai ko
+  Tujhse kuch puchna hai fatema ki jaayi ko
   Mutawaje hua wo sunte hi fizza ki sada
-  Paas aakar kahan kya poochti hai ay dukhiya
+  Paas aakar kahaṅ kya puchti hai ae dukhiya
 
   19
   Boli ye khwahar-e-Shabbir ke ae mard-e-khuda
   Kisi bacche ko to dekha nahi tu ne ye bata
   Tashna lab hai watan awaara hai dikh paye hai
-  Choot kar saath se jangal mein chale aaye hai
+  Chut kar saath se jangal meiṅ chale aaye hai
 
   20
-  Arz ki us ne jigar thaam ke ba-deeda e tar
-  Abhi sehra mein jo ek simt padi meri nazar
-  Dekha ek laashe par khoon hai zameen par be-sar
-  Ladki ek choti si baithi hui roti hai magar
+  Arz ki us ne jigar thaam ke ba-dida e tar
+  Abhi sehra meiṅ jo ek simt pari meri nazar
+  Dekha ek laashe par khuṅ hai zamin par besar
+  Larki ek choti si baithi hui roti hai magar
 
   21
   Wo bhi rota hai udhar jiska guzar hota hai
-  Us ke naalon se ajab dil pe asar hota hai
-  Roke farmane lagi zainab e majrooh e jigar
+  Us ke naaloṅ se ajab dil pe asar hota hai
+  Roke farmane lagi zainab e majruh e jigar
   Meharbani ka sila de tujhe rabb e akbar
 
   22
   Bas pata mil gaya ehsaan hua tera mujh par
   Kehke us simt chali girya kuna khaak e basar
-  Ashk e khoon behte thay qaabu mein dile zaar na tha
-  Ek fizza ke siwa doosra ghamkhwar na tha
+  Ashk e khun behte the qaabu meiṅ dile zaar na tha
+  Ek fizza ke siwa dusra ghamkhwar na tha
 
   23
-  Pahunchi maqtal ki taraf dhoondti binte zehra
-  Dekha us jaa pa hai ek noor se mamoor gadha
-  Laash ek usme padi hai ke nahi sar jiska
+  Pahunchi maqtal ki taraf dhundti binte zehra
+  Dekha us jaa pa hai ek nur se mamur garha
+  Laash ek usme pari hai ke nahi sar jiska
   Aur sakina wahin baithi hui karti hai buka
 
   24
   Ghash jo hoti hai maza maut ka mil jaata hai
-  Chaunk padti hai to dil seene mein hil jaata hai
-  Aayi nazdeek gharaz zainab e tafteeda jigar
-  Baith kar le liya aaghosh mein ba-deeda e tar
+  Chaunk parti hai to dil sine meiṅ hil jaata hai
+  Aayi nazdik gharaz zainab e tafteeda jigar
+  Baith kar le liya aaghosh meiṅ ba-dida e tar
 
   25
   Boli lipta ke kaleje se mai qurban tujh par
-  Tu ne pehchan liya baap ka laasha kyun kar
+  Tu ne pehchan liya baap ka laasha kiuṅ kar
   Hijr se maadar e nashaad hui jaati hai
-  Bibi ab ghar mein chalo raat hui jaati hai
+  Bibi ab ghar meiṅ chalo raat hui jaati hai
 
   26
   Arz ki usne phuphi se ye basad aah o buka
-  Furqate sheh mein tadapne jo laga dil mera
-  Aake is dasht mein chillayi mai baba baba
-  Ay phuphi mujhko isi laash se aayi ye sada
+  Furqate sheh meiṅ tarapne jo laga dil mera
+  Aake is dasht meiṅ chillayi mai baba baba
+  Ae phuphi mujhko isi laash se aayi ye sada
 
   27
-  Aayi hoo seena e shabbir pe sone ke liye
+  Aayi hoo sina e shabbir pe sone ke liye
   Kaha zainab ne ke ab ghar chalo rone ke liye
   Ye to behlati thi ro ro ke wo deti thi jawab
-  Aatish e gham se wo nanha sa kaleja tha kabaab
+  Aatish-e-gham se wo nanha sa kaleja tha kabaab
 
   28
-  Godh mein machli hua dil jo zyada betaab
+  Godh meiṅ machli hua dil jo zyada betaab
   Pyaar karke use zainab ne ba chashme pur aab
-  Li balaaein kabhi gah aankhon se aansu poche
-  Khoon e sarwar se bhare jo thay wo gaysu poche
+  Li balaaeiṅ kabhi gah aankhoṅ se aansu poche
+  Khun e sarwar se bhare jo the wo gaysu poche
 
   29
-  Dono bacchon ko chali dhoondne phir wo muztar
+  Dono bacchoṅ ko chali dhundne phir wo muztar
   Dekhti kya hai ke wo baaghe nabi ke gultar
-  Nagahan jaa padi ek simt biyaban mein nazar
-  Baahein gerdan mein hai aur so rahe hai rakhe sar
+  Nagahaṅ jaa pari ek simt biyabaṅ meiṅ nazar
+  Baaheiṅ gerdan meiṅ hai aur so rahe hai rakhe sar
 
   30
-  Gard is tarah hai un chand se rukhsaron par
-  Abr bareek ho jis tarah se sayyaron par
-  Aayi nazdeek jo roti to ye naksha dekha
-  Mitti sarka ke wahan lete hai wo maahleqa
+  Gard is tarah hai un chand se rukhsaroṅ par
+  Abr barik ho jis tarah se sayyaroṅ par
+  Aayi nazdik jo roti to ye naksha dekha
+  Mitti sarka ke wahaṅ lete hai wo maahleqa
 
   31
-  Hont sookhe huwe thay pyaas jo thi had se siwa
+  Hont sukhe huwe the pyaas jo thi had se siwa
   Jis jagah paa ke tari kuch ho kaleja thanda
   Baap ka seena nahi maa ki bhi aaghosh nahi
   Aise ghaafil hai ki tan ka bhi unhe hosh nahi
 
   32
   Dekhte hi inhe bas baith gayi zainabe zaar
-  Le ke dono ki balayein kiya phir khoob sa pyar
+  Le ke dono ki balayeiṅ kiya phir khub sa pyar
   Sar rakhe khaak se zaanu pe utha kar ek baar
-  Boli ab ghar mein chalo neend se ho kar hoshiyar
+  Boli ab ghar meiṅ chalo nind se ho kar hoshiyar
 
   33
   Sard jangal ki hawa baaees aaram hui
-  Dashte ghurbat mein khabar bhi hai tumhe shaam hui
-  Neend se jab huwe hoshyaar na wo rashke qamar
-  Dam na paaya to ye farmane lagi peet ke sar
+  Dashte ghurbat meiṅ khabar bhi hai tumhe shaam hui
+  Nind se jab huwe hoshyaar na wo rashke qamar
+  Dam na paaya to ye farmane lagi pit ke sar
 
   34
   Jhuk ke phir ghaur se chehro pe ki zainab ne nazar
   Shayad in dono ka ab ho gaya dunya se safar
-  Dashte ghurbat mein kiya sab se kinara bachon
-  Haye be maut tumhe pyaas ne maara bachon
+  Dashte ghurbat meiṅ kiya sab se kinara bachoṅ
+  Haye bemaut tumhe pyaas ne maara bachoṅ
 
   35
-  Arz karne lagi zainab se ye fizza ghamgeen
-  Bibi haye haye mere dil ko yehi hota hai yaqeen
-  Loot kar qaimon ko jaane lagi jab fauje layeen
-  Aagaye ghodo ke paon mein ye khursheed e mubeen
+  Arz karne lagi zainab se ye fizza ghamgiṅ
+  Bibi haye haye mere dil ko yehi hota hai yaqiṅ
+  Lut kar qaimon ko jaane lagi jab fauje layiṅ
+  Aagaye ghodo ke paoṅ meiṅ ye khurshid e mubiṅ
 
   36
-  Haal inke jigar o qalb ko tadpaate hai
-  Phool se jismon pe sab neel nazar aate hai
-  Bas haseen rok qalam ab nahi taabe tehreer
-  Dil mein nashtar ki tarha chubte hai ab ranj ke teer
+  Haal inke jigar o qalb ko tarpaate hai
+  Phul se jismoṅ pe sab nil nazar aate hai
+  Bas hasiṅ rok qalam ab nahi taabe tehrir
+  Dil meiṅ nashtar ki tarha chubte hai ab ranj ke tir
 
   37
   Saaf har zakhm sada dete hai hae hae shabbir
-  Kaisi bargasta hui ahle haram ki taqdeer
-  Aasman gir na pada phat ke sitamgaron par
-  Zulm kya kya na kiye fatema ke pyaron par
+  Kaisi bargasta hui ahle haram ki taqdir
+  Aasmaṅ gir na para phat ke sitamgaroṅ par
+  Zulm kya kya na kiye fatema ke pyaroṅ par
 # source_id: nohayonline:b8b8587e4338ba56e248
 # source_url: https://www.nohayonline.com/content_marsiya.php?id=30
 # raw_sha256: 177dba7f84ed2170242af51d2925590737a60367b38acdf9f78fc6b927e0da7f

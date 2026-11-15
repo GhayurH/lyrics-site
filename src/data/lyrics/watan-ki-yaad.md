@@ -12,21 +12,21 @@ aliases: []
 published: true
 romanLyrics: |-
   Yaad aati hai watan ki yaad aati hai
-  Muharram mein hameṅ apne watan ki yaad aati hai
+  Muharram meiṅ hameṅ apne watan ki yaad aati hai
 
   1
-  Kareṅ kis se gila pardes mein ae Fatima Zahra
-  Muharram mein hameṅ apne watan ki yaad aati hai
+  Kareṅ kis se gila pardes meiṅ ae Fatima Zahra
+  Muharram meiṅ hameṅ apne watan ki yaad aati hai
 
   2
   Ae Bibi majlis o maatam ka mausam aane waala hai
   Tarapte haiṅ ke ab maah-e-Muharram aane waala hai
-  Ghutan hoti hai is pardes mein ab dil nahiṅ lagta
+  Ghutan hoti hai is pardes meiṅ ab dil nahiṅ lagta
 
   3
-  Sada jab majlis o maatam ki in kaanoṅ mein aati hai
+  Sada jab majlis o maatam ki in kaanoṅ meiṅ aati hai
   Watan ki yaad hum ko khun ke aansu rulaati hai
-  Tarap jaata hai dil tanhaaiyoṅ mein hum ghariboṅ ka
+  Tarap jaata hai dil tanhaaiyoṅ meiṅ hum ghariboṅ ka
 
   4
   Manaaeṅ kis tarah ye gham bahut majbur haiṅ Bibi
@@ -35,7 +35,7 @@ romanLyrics: |-
 
   5
   Kareṅ bhi kis tarah khul kar Shah-e-Waala ka hum maatam
-  Manaaeṅ kis tarah pardes mein un bekasoṅ ka gham
+  Manaaeṅ kis tarah pardes meiṅ un bekasoṅ ka gham
   Wo ghar zindaan lagta hai jahaaṅ maatam nahiṅ hota
 
   6
@@ -45,22 +45,22 @@ romanLyrics: |-
 
   7
   Ziyaarat ke liye Aashur ki shab hum nikalte the
-  To apne gaaoṅ ke har taaziya khaane mein jaate the
+  To apne gaaoṅ ke har taaziya khaane meiṅ jaate the
   Kuchh is andaaz se dete the hum mazlum ko pursa
 
   8
   Pilaate the jo hum naam-e-Sakina par wahaaṅ paani
   Kuchh is andaaz se karte the pyaasoṅ ki nigehbaani
-  Watan mein ehtemaam is tarah karte the sabiloṅ ka
+  Watan meiṅ ehtemaam is tarah karte the sabiloṅ ka
 
   9
-  Kaleja hoga us ki yaad mein ik baar phir zakhmi
+  Kaleja hoga us ki yaad meiṅ ik baar phir zakhmi
   Uthegi jis ghari Farwa tumhaare laal ki mehndi
   Kareṅge zabt kaise saatviṅ ko hum mere aaqa
 
   10
   Mere Maula ye sab majburiyaaṅ jine nahiṅ deti
-  Paraae des mein ye duriyaaṅ jine nahiṅ deti
+  Paraae des meiṅ ye duriyaaṅ jine nahiṅ deti
   Bula lijiye hameṅ apne watan ab jald ae Maula
 
   11
@@ -69,14 +69,14 @@ romanLyrics: |-
   Na jaane kab sajaaeṅge Ali Asghar ka gehwaara
 
   12
-  Bhara ghar lut gaya Zehra ka ek pardes mein aa kar
+  Bhara ghar lut gaya Zehra ka ek pardes meiṅ aa kar
   Kahiṅ Asghar ki mayyat hai kahiṅ hai laasha-e-Akbar
-  Bikhar ke reh gaya dasht-e-bala mein shaah ka kunba
+  Bikhar ke reh gaya dasht-e-bala meiṅ shaah ka kunba
 
   13
-  Na roya hai Shabab itna kabhi pardes mein koi
-  Watan ki yaad mein Aamir Sakina jis qadar roi
-  Wo bachchi aaj bhi zindaaṅ mein parhti hai yehi nauha
+  Na roya hai Shabab itna kabhi pardes meiṅ koi
+  Watan ki yaad meiṅ Aamir Sakina jis qadar roi
+  Wo bachchi aaj bhi zindaaṅ meiṅ parhti hai yehi nauha
 # source_id: nohayonline:405c895768511f86c35c
 # source_url: https://www.nohayonline.com/details_content.php?id=1294
 # raw_sha256: f150b2f209139bf5a3c967f8cb3d349acd5dd33ce13eca323d99df7b5fa0029a

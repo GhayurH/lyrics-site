@@ -19,7 +19,7 @@ romanLyrics: |-
   Jahaan-e-sabr ko jina sikha gaya Abbas
 
   2
-  Jo zor-e-baazu-e-Shabbir Karbala mein raha
+  Jo zor-e-baazu-e-Shabbir Karbala meiṅ raha
   Wo pehredaar-e-haram taajdaar-e-ahl-e-wafa
   Furaat jis ki shahaadat par aab aab hua
   Khaamosh reh ke jahaaṅ ko rula gaya Abbas
@@ -27,19 +27,19 @@ romanLyrics: |-
   3
   Abhi to saahil-e-dariya pe hai wohi pehra
   Abhi to Asghar-e-beshir bhi nahiṅ soya
-  Abhi to jaag rahe haiṅ khayaam mein bachche
-  Na jaane ke liye maqtal mein so gaya Abbas
+  Abhi to jaag rahe haiṅ khayaam meiṅ bachche
+  Na jaane ke liye maqtal meiṅ so gaya Abbas
 
   4
   Rasan pehan ke ye kehti thi ro ke bint-e-Ali
-  Tumhaare baad koi dil mein aas bhi na rahi
+  Tumhaare baad koi dil meiṅ aas bhi na rahi
   Jale khayaam bhi jaagir-e-Fatima bhi luti
   Ghazab ke chhin gayi sar se meri rida Abbas
 
   5
   Karuṅ shujaaat-e-Abbas kis tarah se bayaaṅ
   Na mere paas wo dil hai na mere paas zabaaṅ
-  Yahi bahut hai ke maqtal mein ho ke nauha bajaaṅ
+  Yahi bahut hai ke maqtal meiṅ ho ke nauha bajaaṅ
   Har ek shahid ne girte hue kaha Abbas
 
   6
@@ -49,7 +49,7 @@ romanLyrics: |-
   Husain ibn-e-Ali ka hai aasra Abbas
 
   7
-  Kareiṅ hashr mein Nasir Husain ka maatam
+  Kareiṅ hashr meiṅ Nasir Husain ka maatam
   Jari ke saath shaah-e-mashraqain ka maatam
   Alam ke saath Sakina ke bain ka maatam
   Lab-e-Furaat pe pyaasa jo so gaya Abbas

@@ -14,10 +14,10 @@ romanLyrics: |-
 
   1
   Nabi ko haq ka ek inaam hai Abu Talib
-  Harim mein wahi mein ilhaam hai Abu Talib
+  Harim meiṅ wahi meiṅ ilhaam hai Abu Talib
   Haram ke azm ka ehraam hai Abu Talib
   Ye sun ke laaye jo ghuncha wo phul ho jaaye
-  Phir un ki god mein pal kar Rasul ho jaaye
+  Phir un ki god meiṅ pal kar Rasul ho jaaye
 
   2
   Rasul-e-Rab ka nigehbaan hai Abu Talib
@@ -33,15 +33,15 @@ romanLyrics: |-
   Nabi ki dhaal dam-e-jadd o kad Abu Talib
   Nishaana khatm-e-Rusul aur zad Abu Talib
   Jihaad un ka hai pas-e-manzar jihaad-e-Ali
-  Ali haiṅ baad mein un ke ye pehle naad-e-Ali
+  Ali haiṅ baad meiṅ un ke ye pehle naad-e-Ali
 
   4
   Kahaaṅ hai tang nazar ham se bhi to aankh mila
   Hai un ke kufr ka daawa to kuchh subut bhi la
-  Koi to rasm jihaalat ki un ke ghar mein dikha
+  Koi to rasm jihaalat ki un ke ghar meiṅ dikha
   Butoṅ ke aage jhuka un ka sar sar apna jhuka
   Khuda ke nur pe o khaak daalne waale
-  Ye but shikan ko haiṅ godi mein paalne waale
+  Ye but shikan ko haiṅ godi meiṅ paalne waale
 
   5
   Rasul un ka bara ehtiraam karte haiṅ
@@ -49,23 +49,23 @@ romanLyrics: |-
   Sahar ko uthte hi awwal ye kaam karte haiṅ
   Unheṅ namaaz se pehle salaam karte haiṅ
   Nabi agar kisi kaafir ko yuṅ salaami hai
-  To phir zarur nabuwwat mein koi khaami hai
+  To phir zarur nabuwwat meiṅ koi khaami hai
 
   6
-  Inhi ke ghar mein khairul anaam salle alaa
+  Inhi ke ghar meiṅ khairul anaam salle alaa
   Pisar Nabi ka hai qaaim maqaam salle alaa
   Kise nasib hai ye ehtiraam salle alaa
   Ke un ke khurd haiṅ saare Imam salle alaa
   Khata muaaf ho ye bhi agar nahiṅ momin
-  To phir jahaaṅ mein koi bashar nahiṅ momin
+  To phir jahaaṅ meiṅ koi bashar nahiṅ momin
 
   7
   Na jaanchiye ye riwaayat na sirat o kirdaar
   Nabi ki aankh se un ko dekhiye ek baar
-  Ye baargaah-e-risaalat mein aap ka tha waqaar
+  Ye baargaah-e-risaalat meiṅ aap ka tha waqaar
   Pachaade khaa ke unheṅ roye Ahmad-e-Mukhtaar
   Wo aam-e-huzn bana un ka jab wisaal hua
-  Ye gham Rasul ki ummat mein ek saal hua
+  Ye gham Rasul ki ummat meiṅ ek saal hua
 
   8
   Ye marne waala gar imaan hi na laaya tha
@@ -76,7 +76,7 @@ romanLyrics: |-
   To us ko rona rulaana Nabi ki sunnat hai
 
   9
-  Ye baat agar ho ijaazat to puchh luṅ main yahiṅ
+  Ye baat agar ho ijaazat to puchh luṅ maiṅ yahiṅ
   Husain ibn-e-Ali kya nahiṅ the mohsin-e-diṅ
   Ham un ko royeṅ to phir kiuṅ ho chiṅ ba jabiṅ
   Bane the un ka to naaqa Rasul-e-arsh nashiṅ
@@ -93,17 +93,17 @@ romanLyrics: |-
 
   11
   Laga hai zakhm tabar beh raha hai sar se lahu
-  Bhare haiṅ khun mein jaan-e-Rasul ke gesu
+  Bhare haiṅ khun meiṅ jaan-e-Rasul ke gesu
   Qarib jaa ke rakhuṅ dil pe kis tarah qaabu
-  Ke is lahu mein to hai Fatima ke dudh ki bu
-  Nida ye aayi ke aankheṅ to daal aankhoṅ mein
-  Kaha behan ka hai is dam khayaal aankhoṅ mein
+  Ke is lahu meiṅ to hai Fatima ke dudh ki bu
+  Nida ye aayi ke aankheṅ to daal aankhoṅ meiṅ
+  Kaha behan ka hai is dam khayaal aankhoṅ meiṅ
 
   12
   Nida ye aayi ke gardan se kheṅch jaan un ki
-  Kaha main kya karuṅ gardan pe chal rahi hai chhuri
+  Kaha maiṅ kya karuṅ gardan pe chal rahi hai chhuri
   Chhuri pakar ke ye chillaati hai koi Bibi
-  Na zabh kar mere bachche ko main dua duṅ gi
+  Na zabh kar mere bachche ko maiṅ dua duṅ gi
   Jahaaṅ rawaaṅ tere khanjar ki aab hai zaalim
   Ye bosagaah-e-risaalat-e-maab hai zaalim
 
@@ -113,7 +113,7 @@ romanLyrics: |-
   Abhi to maar ke barchhi hata hai ek shaitaan
   Aur ab to hai tah-e-zaanu-e-Shimr ye Quraan
   Ye karb hai ke rukh-e-paak gard hai ya Rab
-  Tere Husain ke sine mein dard hai ya Rab
+  Tere Husain ke sine meiṅ dard hai ya Rab
 
   14
   Nida ye aayi ke mazlumiyat ka rutba shinaas

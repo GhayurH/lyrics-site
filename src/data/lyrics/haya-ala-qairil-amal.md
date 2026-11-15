@@ -26,19 +26,19 @@ romanLyrics: |-
   Deta hai sada Khum ka maidaan
 
   3
-  Main jis ka maula huṅ us ka
+  Maiṅ jis ka maula huṅ us ka
   Hai mere baad Ali maula
   Paalaan-e-shutar ke mimbar se
   Dete haiṅ sada mahbub-e-Khuda
 
   4
   Kaandhoṅ pe Ali haathoṅ pe Ali
-  Kaabe mein kabhi mimbar se kabhi
+  Kaabe meiṅ kabhi mimbar se kabhi
   Aalam ko Nabi-e-Akram ne
   Batlaaya ye hai mera wasi
 
   5
-  Zaahir mein kabhi baatin mein kabhi
+  Zaahir meiṅ kabhi baatin meiṅ kabhi
   Andaaz wohi atwaar wohi
   Ye bughz-e-Ali ki bimaari
   Is waqt bhi hai us waqt bhi thi
@@ -46,7 +46,7 @@ romanLyrics: |-
   6
   Jangal jangal sehra sehra
   Basti basti kariya kariya
-  Aalam mein payaam-e-haq ban kar
+  Aalam meiṅ payaam-e-haq ban kar
   Gunje gi qayaamat tak ye sada
 
   7
@@ -65,7 +65,7 @@ romanLyrics: |-
   Hai subh-e-dahum mahshar hai ayaaṅ
   Saf baandhe khare haiṅ pir o jawaaṅ
   Dil kaanp uthe jis waqt gunji
-  Maqtal mein Ali Akbar ki azaaṅ
+  Maqtal meiṅ Ali Akbar ki azaaṅ
 # source_id: nohayonline:611b9d9e11a3846da0bc
 # source_url: https://www.nohayonline.com/details_content.php?id=155
 # raw_sha256: 263aa8b5491635b2dacd43417529251de9ce9a22b0af961d46cdfe599ab74df6

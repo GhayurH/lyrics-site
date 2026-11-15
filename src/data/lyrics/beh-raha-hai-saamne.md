@@ -15,7 +15,7 @@ romanLyrics: |-
   Mustafa ki aal tishna kaam hai
 
   2
-  Karbala mein shaad fauj-e-Shaam hai
+  Karbala meiṅ shaad fauj-e-Shaam hai
   Khatm Shah-e-Din ka sar anjaam hai
 
   3
@@ -28,10 +28,10 @@ romanLyrics: |-
 
   5
   Panjtan ka khaatima hota hai aaj
-  Gharq khuṅ mein kaukab-e-Islam hai
+  Gharq khuṅ meiṅ kaukab-e-Islam hai
 
   6
-  Shaam ke baadal mein hai mehve mubin
+  Shaam ke baadal meiṅ hai mehve mubin
   Hai andhera hashr ka hangaam hai
 
   7
@@ -51,7 +51,7 @@ romanLyrics: |-
   Tishna lab do din se ye gulfaam hai
 
   11
-  Chaahta huṅ main ye mar jaae abhi
+  Chaahta huṅ maiṅ ye mar jaae abhi
   Tere ek tir-e-sitam ka kaam hai
 
   12

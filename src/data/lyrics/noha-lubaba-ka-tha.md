@@ -32,7 +32,7 @@ romanLyrics: |-
 
   5
   Aaqa ke tan se sar ki lo ho gayi judaai
-  Be sar ki laash koi khaime meiṅ ran se laao
+  Besar ki laash koi khaime meiṅ ran se laao
 
   6
   Paamaal kar rahe haiṅ Sibt-e-Nabi ka laasha
@@ -40,7 +40,7 @@ romanLyrics: |-
 
   7
   Kuchh saaatoṅ ki bewa karti rahi jo ro kar
-  Tum bhi Anees nauha wohi hameiṅ sunaao
+  Tum bhi Anis nauha wohi hameiṅ sunaao
 # source_id: nohayonline:a8249f2cc31cb2c39e56
 # source_url: https://www.nohayonline.com/details_content.php?id=3021
 # raw_sha256: e4cf5fb4ff5087d10a739a6f9c10e9f266746467db811541cc11eaac2095ec12

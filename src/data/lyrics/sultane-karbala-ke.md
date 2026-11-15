@@ -19,7 +19,7 @@ romanLyrics: |-
   Haaṅ apne zaairoṅ ka jo khud mezbaan hai
 
   Ya Husain ya Husain ya Husain
-  Dam badam qadam qadam hai dil mein ishq-e-Karbala
+  Dam badam qadam qadam hai dil meiṅ ishq-e-Karbala
   Husaina Husaina
   Zaairoṅ ke qaafiloṅ se aa rahi hai ye sada
   Husaina Husaina
@@ -31,16 +31,16 @@ romanLyrics: |-
   Sultan-e-Karbala ke mehmaan aa rahe haiṅ
 
   1
-  Parcham ke saaye mein hai Abbas ki sawaari
+  Parcham ke saaye meiṅ hai Abbas ki sawaari
   Mehmaaṅ nawaaziyoṅ ki taiyaariyaaṅ haiṅ jaari
-  Shabbir ka haram hai halchal hai khaadimoṅ mein
+  Shabbir ka haram hai halchal hai khaadimoṅ meiṅ
   Gumbad pe shaah-e-diṅ ke parcham laga rahe haiṅ
   Sultan-e-Karbala ke mehmaan aa rahe haiṅ
 
   2
   Jo bekafan hai uska darbaar saj raha hai
   Wo ho raha hai jo bhi Abbas ne kaha hai
-  Haiṅ surkh roshni mein kaale libaas waale
+  Haiṅ surkh roshni meiṅ kaale libaas waale
   Ro ro ke farsh-e-maatam khaadim bichha rahe haiṅ
   Sultan-e-Karbala ke mehmaan aa rahe haiṅ
   Sultan-e-Karbala ke mehmaan aa rahe haiṅ
@@ -48,14 +48,14 @@ romanLyrics: |-
   3
   Ro ro ke keh rahe haiṅ afsos hai ye Bibi
   Ae kaash hum jo hote Aashur waale din bhi
-  Nau laakh zaalimoṅ mein tanha na hote Maula
+  Nau laakh zaalimoṅ meiṅ tanha na hote Maula
   Labbaik keh rahe haiṅ aur rote jaa rahe haiṅ
   Sultan-e-Karbala ke mehmaan aa rahe haiṅ
 
   4
   Nuraani chehre waale gaaloṅ pe khaak mal kar
   Zuwwaar aa rahe haiṅ paidal Najaf se chal kar
-  Is ishq ke safar mein har shakhs mezbaaṅ hai
+  Is ishq ke safar meiṅ har shakhs mezbaaṅ hai
   Kuchh log raaste se patthar hata rahe haiṅ
   Sultan-e-Karbala ke mehmaan aa rahe haiṅ
 
@@ -67,9 +67,9 @@ romanLyrics: |-
   Sultan-e-Karbala ke mehmaan aa rahe haiṅ
 
   6
-  Thaame hue tabarruk raahoṅ mein jo khare haiṅ
+  Thaame hue tabarruk raahoṅ meiṅ jo khare haiṅ
   Qasim ka naam lekar taqsim kar rahe haiṅ
-  Donoṅ jahaaṅ mein aisa jazba kahiṅ na dekha
+  Donoṅ jahaaṅ meiṅ aisa jazba kahiṅ na dekha
   Jo saal bhar kamaaya wo sab luta rahe haiṅ
   Sultan-e-Karbala ke mehmaan aa rahe haiṅ
 
@@ -88,7 +88,7 @@ romanLyrics: |-
   Sultan-e-Karbala ke mehmaan aa rahe haiṅ
 
   9
-  Tum apne dil mein ziyaarat ki aarzu rakhna
+  Tum apne dil meiṅ ziyaarat ki aarzu rakhna
   Phir unka kaam hai jazbe ki aabru rakhna
 # source_id: nohayonline:f8aa8877cc519e119627
 # source_url: https://www.nohayonline.com/details_content.php?id=2681

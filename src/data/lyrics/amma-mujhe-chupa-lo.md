@@ -11,30 +11,30 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Bazaar mein ye Zainab Fizza se keh rahi hai
+  Bazaar meiṅ ye Zainab Fizza se keh rahi hai
   Amma mujhe chhupa lo
 
   1
-  Bazaar mein ye Zainab Fizza se keh rahi
+  Bazaar meiṅ ye Zainab Fizza se keh rahi
   Abbas ki bahen ko har aankh dhundti hai
   Amma mujhe chhupa lo
 
   2
   Dekha na Murtaza ne jis ko baghair chaadar
-  Naamahramoṅ mein haaye wo aa gayi khule sar
+  Naamahramoṅ meiṅ haaye wo aa gayi khule sar
   Qatl-e-Husain se bhi dushwaar ye ghari hai
   Amma mujhe chhupa lo
 
   3
   Himmat nahiṅ hai meri kaise qadam barhaauṅ
-  Is shahr-e-beimaaṅ mein khud ko kahaaṅ chhupaauṅ
-  Haathoṅ mein le ke patthar ummat khari hui hai
+  Is shahr-e-beimaaṅ meiṅ khud ko kahaaṅ chhupaauṅ
+  Haathoṅ meiṅ le ke patthar ummat khari hui hai
   Amma mujhe chhupa lo
 
   4
   Bimaar-e-Karbala ki aankhoṅ se khuṅ hai jaari
-  Ye soch kar badan mein larza hai us ke taari
-  Beparda Shaamiyoṅ mein beti Batul ki hai
+  Ye soch kar badan meiṅ larza hai us ke taari
+  Beparda Shaamiyoṅ meiṅ beti Batul ki hai
   Amma mujhe chhupa lo
 
   5
@@ -46,7 +46,7 @@ romanLyrics: |-
   6
   Is naam se hamesha aayi hai mujh ko ghairat
   Paala hai tum ne mujh ko tum jaanti ho aadat
-  Bazaar zindagi mein Zainab kahaaṅ gayi hai
+  Bazaar zindagi meiṅ Zainab kahaaṅ gayi hai
   Amma mujhe chhupa lo
 
   7
@@ -58,7 +58,7 @@ romanLyrics: |-
   8
   Aaya khayaal jab bhi aansu lagi bahaane
   Bazaar ka Takallum kaisa asar tha jaane
-  Aksar watan mein Zainab ye keh ke chauṅk uthi hai
+  Aksar watan meiṅ Zainab ye keh ke chauṅk uthi hai
   Amma mujhe chhupa lo
 # source_id: nohayonline:3dcb731429f3014d219f
 # source_url: https://www.nohayonline.com/details_content.php?id=813

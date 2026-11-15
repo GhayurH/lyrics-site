@@ -20,13 +20,13 @@ romanLyrics: |-
 
   2
   Khaaye haiṅ taaziyaane zakhmi hai pusht saari
-  Hai Shah ke gham mein ab bhi aankhoṅ se ashk jaari
+  Hai Shah ke gham meiṅ ab bhi aankhoṅ se ashk jaari
   Tasvir-e-gham bana hai ghamkhwaar ka janaaza
   Aahista se uthaao bimaar ka janaaza
 
   3
-  Ummat ne zulm dhaaye Kufe ki rahguzar mein
-  Jis ko qadam qadam par luta gaya safar mein
+  Ummat ne zulm dhaaye Kufe ki rahguzar meiṅ
+  Jis ko qadam qadam par luta gaya safar meiṅ
   Hai aise qaafile ke saalaar ka janaaza
   Aahista se uthaao bimaar ka janaaza
 
@@ -50,14 +50,14 @@ romanLyrics: |-
 
   7
   Aankhoṅ se khun tapka tharra gaya kaleja
-  Baaqir ke dil se puchho kaise lahad mein rakha
+  Baaqir ke dil se puchho kaise lahad meiṅ rakha
   Aabid ka muttaqi ka dindaar ka janaaza
   Aahista se uthaao bimaar ka janaaza
 
   8
   Aamir bhi ro raha hai Akhtar ki aankh nam hai
-  Bimaar-e-Karbala ka sab ke diloṅ mein gham hai
-  Nazroṅ mein ghumta hai khuddaar ka janaaza
+  Bimaar-e-Karbala ka sab ke diloṅ meiṅ gham hai
+  Nazroṅ meiṅ ghumta hai khuddaar ka janaaza
   Aahista se uthaao bimaar ka janaaza
 # source_id: nohayonline:60ba5d9475b0722393d9
 # source_url: https://www.nohayonline.com/details_content.php?id=3396

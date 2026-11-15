@@ -22,7 +22,7 @@ romanLyrics: |-
   2
   Bibi koi jhule ki jali raakh utha kar
   Kehti hai agar tu nahiṅ aaya Ali Asghar
-  Khud ran mein chali aayegi beshir teri maaṅ
+  Khud ran meiṅ chali aayegi beshir teri maaṅ
 
   3
   Tu hi na raha ji ke karuṅ kya mere bachche
@@ -30,19 +30,19 @@ romanLyrics: |-
   Laila pe ye hoga Ali Akbar tera ehsaaṅ
 
   4
-  Kehte haiṅ ye jalte hue khaimoṅ mein musalle
+  Kehte haiṅ ye jalte hue khaimoṅ meiṅ musalle
   Sajjad tahajjud to zara chain se parh le
   Afsos ye mohlat bhi nahiṅ dete musalmaaṅ
 
   5
   Darya pe tarapta hai alamdaar ka laasha
-  Maqtal mein ajab haal se aati hai Sakina
+  Maqtal meiṅ ajab haal se aati hai Sakina
   Khaimoṅ ka dhuaaṅ aankhoṅ mein jalta hua daaman
 
   6
   Wo waqt Takallum tha ajab bint-e-Ali par
   Kehne lage Maula jo naqaab apni utha kar
-  Main baap huṅ Zainab mujhe pehchaan meri jaaṅ
+  Maiṅ baap huṅ Zainab mujhe pehchaan meri jaaṅ
 # source_id: nohayonline:6f1c7ff98245cade03ac
 # source_url: https://www.nohayonline.com/details_content.php?id=994
 # raw_sha256: 5efb3bf81a66d6dab08b8787b596e548c1d7f928a89b8fea501d49bb78593fe3

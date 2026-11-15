@@ -35,15 +35,15 @@ romanLyrics: |-
 
   3
   Ae saahib-e-kamaal o karaamaat zi hasham
-  Darbaar mein tumhaare pareshaan kiuṅ ho hum
+  Darbaar meiṅ tumhaare pareshaan kiuṅ ho hum
   Ahl-e-aza ka rakh le ba-haqq-e-aza bharam
   Hai waasta Imam-e-Husain-e-gharib ka
 
   4
-  Muflis ko be-zaroṅ ko ata kar de bu-zari
+  Muflis ko bezaroṅ ko ata kar de bu-zari
   Maqruz ka tu qarz ada kar de ae saaqi
   Imdaad ke haiṅ tujhse talabgaar maatami
-  Apni nigaah-e-khair mein rakhna hameṅ sada
+  Apni nigaah-e-khair meiṅ rakhna hameṅ sada
 
   5
   Ae shaah-e-wafa ya Maula Riza
@@ -64,17 +64,17 @@ romanLyrics: |-
   Tute haiṅ jo masaaib o aalaam aap par
   Kaise karuṅ bayaaṅ ke phatne ko hai jigar
   Kehti hai Fatima bhi yehi sar ko pit kar
-  Parhti hai tere gham mein khudaai bhi marsiya
+  Parhti hai tere gham meiṅ khudaai bhi marsiya
 
   8
   Mamun ko jo bughz tha usne dikha diya
-  Jis ghar mein aap the wahaaṅ pehra laga diya
-  Angur mein hi zehr mila kar khila diya
+  Jis ghar meiṅ aap the wahaaṅ pehra laga diya
+  Angur meiṅ hi zehr mila kar khila diya
   Maara laiṅ ne aap ko bejurm o bekhata
 
   9
   Haaye haaye mere asir gharib-ul-watan Imam
-  Ro ro ke keh rahe the ye Mashhad mein khaas o aam
+  Ro ro ke keh rahe the ye Mashhad meiṅ khaas o aam
   Taabut ko utha ke ye karne lage kalaam
   Kehte haiṅ khaak ura ke Taqi wa musibata
 

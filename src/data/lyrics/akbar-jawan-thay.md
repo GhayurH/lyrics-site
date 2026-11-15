@@ -14,42 +14,42 @@ romanLyrics: |-
   Kya sakht maajra hai kahaani Husain ki
   Bewaqt kya miti hai nishaani Husain ki
   Akbar ka tha shabaab jawaani Husain ki
-  Akbar jawaṅ the ji se guzarne ke din na the
+  Akbar jawaaṅ the ji se guzarne ke din na the
   Ae dasht-e-Karbala abhi marne ke din na the
 
   1
   Ye din se lagaao ye dunya se bedili
-  Barchhi hawaa mein aa ke kaleje se jab lagi
+  Barchhi hawaa meiṅ aa ke kaleje se jab lagi
   Kya aan baan thi ke palak tak nahiṅ hili
-  Akbar jawaṅ the ji se guzarne ke din na the
+  Akbar jawaaṅ the ji se guzarne ke din na the
   Ae dasht-e-Karbala abhi marne ke din na the
 
   2
-  Kya tin din ki pyaas mein tewar dikha gaye
+  Kya tin din ki pyaas meiṅ tewar dikha gaye
   Dunya ke naujawanoṅ ki himmat barha gaye
-  Phuloṅ mein tul rahe the sinaanoṅ mein aa gaye
-  Akbar jawaṅ the ji se guzarne ke din na the
+  Phuloṅ meiṅ tul rahe the sinaanoṅ meiṅ aa gaye
+  Akbar jawaaṅ the ji se guzarne ke din na the
   Ae dasht-e-Karbala abhi marne ke din na the
 
   3
   Dekhiye maut aalam-e-imkaan kis tarah
   Ye daagh utha liya Shah-e-Zishaaṅ ne kis tarah
   Dulha bana ke bhej diya maaṅ ne kis tarah
-  Akbar jawaṅ the ji se guzarne ke din na the
+  Akbar jawaaṅ the ji se guzarne ke din na the
   Ae dasht-e-Karbala abhi marne ke din na the
 
   4
   Rukhsat ke waqt Baano-e-Shabbir chup rahi
   Behneṅ gharib surat-e-tasvir chup rahi
   Sab ek samt Zainab-e-Dilgir chup rahi
-  Akbar jawaṅ the ji se guzarne ke din na the
+  Akbar jawaaṅ the ji se guzarne ke din na the
   Ae dasht-e-Karbala abhi marne ke din na the
 
   5
-  Maana ke sabr o shukr ka dil mein wafur tha
+  Maana ke sabr o shukr ka dil meiṅ wafur tha
   Bachche ka gham na ho ye mohabbat se dur tha
   Maadar ko in ke byaah ka armaaṅ zarur tha
-  Akbar jawaṅ the ji se guzarne ke din na the
+  Akbar jawaaṅ the ji se guzarne ke din na the
   Ae dasht-e-Karbala abhi marne ke din na the
 # source_id: nohayonline:6beb4ea192213898c216
 # source_url: https://www.nohayonline.com/details_content.php?id=3509

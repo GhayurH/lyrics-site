@@ -30,8 +30,8 @@ romanLyrics: |-
   Zainab tamaam shab rahi sajdoṅ ke darmiyaaṅ
 
   2
-  Yeh woh azaaṅ thi jis meiṅ tha lehja Rasool ka
-  Is meiṅ dikhaai deta tha sajda Batool ka
+  Yeh woh azaaṅ thi jis meiṅ tha lehja Rasul ka
+  Is meiṅ dikhaai deta tha sajda Batul ka
   Is meiṅ namaziyoṅ ka musalla tha aasmaaṅ
 
   3

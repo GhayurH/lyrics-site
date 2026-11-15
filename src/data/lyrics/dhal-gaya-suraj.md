@@ -26,17 +26,17 @@ romanLyrics: |-
   Tum hi bata do Maula Ali
 
   3
-  Jangal mein kis ja tu kho gaya
+  Jangal meiṅ kis ja tu kho gaya
   Khaali hai jhula ae mehlekha
   Kis ko jhulaaye amma teri
 
   4
   Are ye to bata de ae Hurmala
   Chhera hai kiuṅ tu ne nanha gala
-  Dubi hai khun mein nanhi kali
+  Dubi hai khun meiṅ nanhi kali
 
   5
-  Teri zamin par ae Karbala
+  Teri zamiṅ par ae Karbala
   Gum ho gaya hai bachcha mera
   Dhund rahi huṅ gali gali
 

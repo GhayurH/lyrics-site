@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Amma tere bete ko sitamgaroṅ ne maara
-  Sajde mein hua qatl bhara ghar tera pyaasa
+  Sajde meiṅ hua qatl bhara ghar tera pyaasa
 
   1
   Barchhi Ali Akbar ke kaleje se nikaali
@@ -25,7 +25,7 @@ romanLyrics: |-
   Jab so gaya haaye mera Ghaazi lab-e-darya
 
   3
-  Wo zulm o sitam Shaah pe maidaan mein tute
+  Wo zulm o sitam Shaah pe maidaan meiṅ tute
   Zakhmoṅ pe lage zakhm Shahanshaah-e-huda ke
   Bejaan tha wo jab su-e-zamiṅ zin se aaya
 
@@ -37,7 +37,7 @@ romanLyrics: |-
   5
   Jab gardan-e-Sarwar pe rakha Shimr ne khanjar
   Beti se kaha baaba ne thehro na yahaaṅ par
-  Sajde mein laiṅ ne sar-e-Shabbir ko kaata
+  Sajde meiṅ laiṅ ne sar-e-Shabbir ko kaata
 
   6
   Nanha sa gala rakh ke Shah-e-diṅ ke gale par
@@ -62,7 +62,7 @@ romanLyrics: |-
   10
   Rehan o Erum bas wo qayaamat ki ghari thi
   Jab qabr pe Zehra ki ye Zainab ne buka ki
-  Begor o kafan dasht mein tha Shaah ka laasha
+  Begor o kafan dasht meiṅ tha Shaah ka laasha
 # source_id: nohayonline:fe031cb9aff6aa9f9925
 # source_url: https://www.nohayonline.com/details_content.php?id=1380
 # raw_sha256: ad2903d95a6c061e81b7554151db3ce65de8cdc1a2a46c59c820d3f1994a0055

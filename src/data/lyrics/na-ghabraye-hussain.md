@@ -18,7 +18,7 @@ romanLyrics: |-
   Na ghabraaye Husain
 
   1
-  Sina-e-Akbar mein barchhi dekh ke royi qaza
+  Sina-e-Akbar meiṅ barchhi dekh ke royi qaza
   Fatima ke laal par ye imtihaaṅ ka waqt tha
   Boli Zainab haaye Husain
   Na ghabraaye Husain
@@ -32,12 +32,12 @@ romanLyrics: |-
   3
   Qabr Asghar ki bana kar aaya Ibn-e-Bu Turaab
   Maut boli teri daulat dekh ae Umm-e-Rabaab
-  Dasht mein chhor aaye Husain
+  Dasht meiṅ chhor aaye Husain
   Na ghabraaye Husain
 
   4
   Qatl Ghaazi ho gaya jab ho chuke baazu qalam
-  Burhe kaandhoṅ par utha kar khuṅ mein duba alam
+  Burhe kaandhoṅ par utha kar khuṅ meiṅ duba alam
   Dasht se jab laaye Husain
   Na ghabraaye Husain
 

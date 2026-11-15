@@ -1,6 +1,6 @@
 ---
 title: "حسین غیظ میں ہے"
-alternateTitle: "Husain Ghaiz Mein Hai"
+alternateTitle: "Husain Ghaiz Meiṅ Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,19 +12,19 @@ aliases: []
 published: true
 romanLyrics: |-
   1
-  Aaj maidaan mein Husain Ibn-e-Ali ghaiz mein haiṅ
-  Faatima ghaiz mein haiṅ Haq ke wali ghaiz mein haiṅ
-  Saath Shabbir ke jitne haiṅ sabhi ghaiz mein haiṅ
-  Aisa lagta hai sawa laakh Nabi ghaiz mein haiṅ
+  Aaj maidaan meiṅ Husain Ibn-e-Ali ghaiz meiṅ haiṅ
+  Faatima ghaiz meiṅ haiṅ Haq ke wali ghaiz meiṅ haiṅ
+  Saath Shabbir ke jitne haiṅ sabhi ghaiz meiṅ haiṅ
+  Aisa lagta hai sawa laakh Nabi ghaiz meiṅ haiṅ
   Apni talwaar se baazi ye palat dega Husain
-  Aaj maidaan ko jahannum mein ulat dega Husain
+  Aaj maidaan ko jahannum meiṅ ulat dega Husain
 
   2
   Faisla kun mere Maula ki laraai hogi
-  Khun mein tar abhi darya ke taraai hogi
+  Khun meiṅ tar abhi darya ke taraai hogi
   Maut ke sar pe ghata maut ki chhaai hogi
   Aise maidaan se har saf ki safaai hogi
-  Deṅge Kufe mein khabar bhaag ke jaane waale
+  Deṅge Kufe meiṅ khabar bhaag ke jaane waale
   Bhaago bhaago yahaaṅ Shabbir hai aane waale
 
   3
@@ -40,7 +40,7 @@ romanLyrics: |-
   Ghaiz ko de ke jagah hat gayi pichhe rehmat
   Pyaar se baat ki lekin nahiṅ samjhi ummat
   Chhe mahine se bohat shor tha baiat baiat
-  Tegh kuchh der mein jab Ibn-e-Ali kholega
+  Tegh kuchh der meiṅ jab Ibn-e-Ali kholega
   Koi baiat to kuja "be" bhi nahiṅ bolega
 
   5
@@ -53,19 +53,19 @@ romanLyrics: |-
 
   6
   Murtajiz bola mujhe bhi nahiṅ aata hai qaraar
-  Shah ki nusrat ke liye main huṅ azal se tayyaar
+  Shah ki nusrat ke liye maiṅ huṅ azal se tayyaar
   Dekh chehre pe numaayaaṅ hai ghazab ke aasaar
-  Jhuraata huṅ main khaak apne sumoṅ se har baar
+  Jhuraata huṅ maiṅ khaak apne sumoṅ se har baar
   Shaamiyoṅ ko hai bataani mujhe had baiat ki
-  Paaoṅ se khod raha huṅ main lahad baiat ki
+  Paaoṅ se khod raha huṅ maiṅ lahad baiat ki
 
   7
   Allah Allah re Shabbir ki aafat ka jalaal
   Tegheṅ kham hoti haiṅ haalat hui jaati hai nidhaal
   Asr se pehle hua jaata hai lashkar ka zawaal
   Shimr Khauli Umar-e-Saad sabhi behaal
-  Khauf se aata nahiṅ hai Bin-e-Kaahil ran mein
-  Chhupe phirte haiṅ Alam daar ke qaatil ran mein
+  Khauf se aata nahiṅ hai Bin-e-Kaahil ran meiṅ
+  Chhupe phirte haiṅ Alam daar ke qaatil ran meiṅ
 
   8
   Keh ke Ya Zahra jo Maula ne nikaali talwaar
@@ -77,7 +77,7 @@ romanLyrics: |-
 
   9
   Afra tafri thi wo bhagdar thi wo halchal tauba
-  Khun se aisi bani dasht mein daldal tauba
+  Khun se aisi bani dasht meiṅ daldal tauba
   Apne haalaat pe khud karta tha maqtal tauba
   Keh raha tha Malak-al-Maut musalsal tauba
   Khud ko girte hue har baar sambhaala us ne
@@ -88,22 +88,22 @@ romanLyrics: |-
   Bhaagte phirte haiṅ sab lashkar-e-shar ke zaalim
   Jaaeṅ to jaaeṅ kahaaṅ Shah se dar ke zaalim
   Ghaat ke baaqi rahe aur na ghar ke zaalim
-  Ghar mein bhi ghusne na ab deṅge inheṅ ghar waale
+  Ghar meiṅ bhi ghusne na ab deṅge inheṅ ghar waale
   "Kaaf" "te" "ye" se badtar hue lashkar waale
 
   11
   Dam nikalta tha kisi ka koi bedam dekha
-  Sakht garmi mein ajab sardi ka aalam dekha
-  Khun jamte hue shariyaanoṅ mein paiham dekha
-  Fauj mein jis ko uthaaye hue parcham dekha
+  Sakht garmi meiṅ ajab sardi ka aalam dekha
+  Khun jamte hue shariyaanoṅ meiṅ paiham dekha
+  Fauj meiṅ jis ko uthaaye hue parcham dekha
   Qatl-e-Abbaas-e-Alam daar ka qaazi ban kar
   Shah ne wo haath qalam kar diya Ghaazi ban kar
 
   12
-  Maut bhi raqs mein thi kaisa ajab tha manzar
+  Maut bhi raqs meiṅ thi kaisa ajab tha manzar
   Ek ambaar taraai pe tha laashoṅ ka udhar
   Ye samaaṅ dekhne thehri hui sab ki thi nazar
-  Khauf se nehr mein jo dub gaye the jaa kar
+  Khauf se nehr meiṅ jo dub gaye the jaa kar
   Maujeṅ kehti thiṅ unheṅ maar ke thokar niklo
   Dushman-e-Hazrat-e-Shabbir ho baahar niklo
 
@@ -129,7 +129,7 @@ romanLyrics: |-
   Jad ka paighaam hawa laati thi shaabaash Husain
   Zaat-e-waajib bhi yehi farmaati thi shaabaash Husain
   Daad dete tere ajdaad bhi aisa larta
-  Main badan rakhta to bilkul tere jaisa larta
+  Maiṅ badan rakhta to bilkul tere jaisa larta
 # source_id: tajpoints:ee2ad53fc7c66f6bfe6e
 # source_url: https://tajpoints.com/2017/02/hussainas-ghaiz-mein-hai1-6.html
 # raw_sha256: 2724495b38693ee167e73edd965a73d770a9dc6b1c9927087289c890dc660144

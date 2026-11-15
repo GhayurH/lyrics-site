@@ -15,7 +15,7 @@ romanLyrics: |-
 
   1
   Pehle sun Hazrat-e-Jaabir ka maqaam
-  Un ka hai qila-e-mualla mein qayaam
+  Un ka hai qila-e-mualla meiṅ qayaam
   Nemateṅ ho gaiṅ sab un pe tamaam
   Un ko bheja hai Imaamoṅ ne salaam
   Sab se pehle hai khitaab un ko mila
@@ -38,7 +38,7 @@ romanLyrics: |-
   Us pe hoti hai ataaeṅ naazil
   Wo nahiṅ rehta aza se ghaafil
   Us ki azmat ke farishte qaail
-  Naam hai ahl-e-aza mein shaamil
+  Naam hai ahl-e-aza meiṅ shaamil
   Ye jahaaṅ waale kuja aur kuja
 
   5
@@ -49,7 +49,7 @@ romanLyrics: |-
   Saath laata hai shifa khaak-e-shifa
 
   6
-  Wo zamaane mein ho aabaad kahiṅ
+  Wo zamaane meiṅ ho aabaad kahiṅ
   Ban ke rehta hai ibaadat ka amiṅ
   Apne sajdoṅ se sajaata hai zamiṅ
   Jagmagaati hai sada us ki jabiṅ

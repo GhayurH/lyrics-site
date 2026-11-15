@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Sinoṅ mein gham ho sar pe alam ho
+  Sinoṅ meiṅ gham ho sar pe alam ho
   Barhta qadam ho maatam na kam ho
   Chalta rahe ye kaarwaaṅ barhta rahe ye kaarwaaṅ
   Husain ya Husain ya Husain ya Husaina
@@ -28,7 +28,7 @@ romanLyrics: |-
 
   2
   Is kaarwaaṅ ka Husain rehbar
-  Shaamil hai is mein Shah ke bahattar
+  Shaamil hai is meiṅ Shah ke bahattar
   Jin o malak bhi chalte haiṅ mil kar
   Shaamil haiṅ hum bhi adna se naukar
   Bazm-e-aza hai raah-e-wafa hai

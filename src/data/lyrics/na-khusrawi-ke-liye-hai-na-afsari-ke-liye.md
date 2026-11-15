@@ -32,15 +32,15 @@ romanLyrics: |-
   Mila na jab koi Qanbar ki hamsari ke liye
 
   5
-  Yeh bole daar pe Maisam main kaise ruk jaauṅ
+  Yeh bole daar pe Maisam maiṅ kaise ruk jaauṅ
   Zabaan di hai mujhe jab Ali Ali ke liye
 
   6
-  Ali ko dekh ke baaliṅ pe main pukaaruṅ ga
+  Ali ko dekh ke baaliṅ pe maiṅ pukaaruṅ ga
   Ae meri maut thahar ja tu do ghari ke liye
 
   7
-  Mujhe hai fakhr keh main un ke dar ka naukar huṅ
+  Mujhe hai fakhr keh maiṅ un ke dar ka naukar huṅ
   Farishte khud jahaaṅ aate haiṅ naukari ke liye
 
   8

@@ -1,6 +1,6 @@
 ---
 title: "یا حبیب کبریا زینب ہوئی بے آسرا"
-alternateTitle: "Ya Habeebe Kibriya"
+alternateTitle: "Ya Habibe Kibriya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -16,23 +16,23 @@ romanLyrics: |-
 
   1
   Chal base Aun o Muhammad mere do wo nur-e-ain
-  Aise aalam mein bhala kiuṅ kar milega dil ko chain
-  Phir bhi main karti rahi us haal mein shukr-e-Khuda
+  Aise aalam meiṅ bhala kiuṅ kar milega dil ko chain
+  Phir bhi maiṅ karti rahi us haal meiṅ shukr-e-Khuda
 
   2
   Laash-e-Qaasim tukre tukre hoke bikhri khaak par
-  Kaash mujhko maut aati main na sunti ye khabar
-  Maadar-e-Qaasim ka ab is dunya mein kya reh gaya
+  Kaash mujhko maut aati maiṅ na sunti ye khabar
+  Maadar-e-Qaasim ka ab is dunya meiṅ kya reh gaya
 
   3
   Mere Abbas-e-jari ke ho gaye shaane qalam
-  Chhid gayi mashk-e-Sakina khun mein duba alam
+  Chhid gayi mashk-e-Sakina khun meiṅ duba alam
   Qatl-e-Abbas-e-jari se ho gaya mahshar bapa
 
   4
   Sina-e-kariyal jawaaṅ se jaari hai ab tak lahu
   Laash-e-Akbar darmiyaaṅ hai Bibiyaaṅ haiṅ chaar su
-  Umm-e-Laila ki nigaahoṅ mein andhera chhaa gaya
+  Umm-e-Laila ki nigaahoṅ meiṅ andhera chhaa gaya
 
   5
   Karta hai Asghar ko zibh Hurmula is tir se

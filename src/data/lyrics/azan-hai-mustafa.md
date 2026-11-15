@@ -1,6 +1,6 @@
 ---
 title: "اذاں ہے مصطفیٰ اور مرتظی میری اقامت ہے"
-alternateTitle: "Azan Hai Mustafa"
+alternateTitle: "Azaṅ Hai Mustafa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -31,7 +31,7 @@ romanLyrics: |-
   Bhala chhe maah ke bachche se tum ko kya adaawat hai
 
   5
-  Yahaaṅ hai Karbala uqba mein hai Baagh-e-Iram Mahshar
+  Yahaaṅ hai Karbala uqba meiṅ hai Baagh-e-Iram Mahshar
   Yahaaṅ bhi ek jannat hai wahaaṅ bhi ek jannat hai
 # source_id: nohayonline:9cb934468a66ae2535a3
 # source_url: https://www.nohayonline.com/details_content.php?id=3441

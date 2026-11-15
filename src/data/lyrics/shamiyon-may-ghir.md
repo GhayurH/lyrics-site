@@ -1,6 +1,6 @@
 ---
 title: "شامیوں میں گھِر گیا ہے مہمانِ کربلا"
-alternateTitle: "Shaamiyoṅ Mein Ghir Gaya Hai Mehmaan-e-Karbala"
+alternateTitle: "Shaamiyoṅ Meiṅ Ghir Gaya Hai Mehmaan-e-Karbala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: ["Shamiyon May Ghir"]
 published: true
 romanLyrics: |-
-  Shaamiyoṅ mein ghir gaya hai mehmaan-e-Karbala
+  Shaamiyoṅ meiṅ ghir gaya hai mehmaan-e-Karbala
 
   1
   Kalma-e-tauhid ka irfaaṅ bayaan-e-Karbala
@@ -30,12 +30,12 @@ romanLyrics: |-
 
   4
   Kaamp utha arsh-e-mualla hil gaye qalb-e-adu
-  Sina-e-Shabbir mein dil ho gaya gham se lahu
+  Sina-e-Shabbir meiṅ dil ho gaya gham se lahu
   Tir khaa kar haṅs diya jab bezabaan-e-Karbala
 
   5
   Pher di halq-e-Shaah-e-diṅ par sitamgaar ne chhuri
-  Pitti sar aa gai maidaan mein bint-e-Ali
+  Pitti sar aa gai maidaan meiṅ bint-e-Ali
   Tum bhi pito apne sar ko aashiqaan-e-Karbala
 
   6
@@ -44,19 +44,19 @@ romanLyrics: |-
   Hashr tak uṅcha rahega ab nishaan-e-Karbala
 
   7
-  Jal gaye khaime chhini chaadar bandhe rassi mein haath
+  Jal gaye khaime chhini chaadar bandhe rassi meiṅ haath
   Ab nahiṅ koi haram ke sar pe juz aab-e-kizaakh
   Shaam ko jaata hai lut kar kaarwaan-e-Karbala
 
   8
   Asr ka hamgaam aur wo Shaah-e-diṅ ki kaarzaar
   Tha qayaamat ka samaaṅ jab chal rahi thi Zulfiqar
-  Khun mein tar the zamin o aasmaan-e-Karbala
+  Khun meiṅ tar the zamin o aasmaan-e-Karbala
 
   9
   Allah Allah subh-e-aashura wo Akbar ki sada
   Chhor kar baatil ka daaman jaanib-e-haq Hur chala
-  Gunji jab Momin fazaaoṅ mein azaan-e-Karbala
+  Gunji jab Momin fazaaoṅ meiṅ azaan-e-Karbala
 # source_id: nohayonline:25ca55ca64a6bdb001e4
 # source_url: https://www.nohayonline.com/details_content.php?id=788
 # raw_sha256: 678dbea5a5b756741c00ec2e006be09d45f206634039004acacfc1ae583ae381

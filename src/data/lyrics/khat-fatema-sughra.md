@@ -19,7 +19,7 @@ romanLyrics: |-
 
   2
   Kab laut ke ghar aaoge bhaiya Ali Akbar
-  Kab tak takuṅ main raah ke pathra gaiṅ aankheṅ
+  Kab tak takuṅ maiṅ raah ke pathra gaiṅ aankheṅ
   Ab to meri saansoṅ ka bharosa nahiṅ koi
   Ab jine ki hasrat se bhi ghabra gaiṅ aankheṅ
   Waada jo kiya waada nibhaane nahiṅ aaye
@@ -27,30 +27,30 @@ romanLyrics: |-
 
   3
   Baba mujhe dasti hai ye tanhaai watan ki
-  Ye ghar ki udaasi hai to phir qabr mein kya hai
+  Ye ghar ki udaasi hai to phir qabr meiṅ kya hai
 
   4
   Baba mere ye soch ke thak jaata hai sina
   Tum jab se gaye ujra hai nana ka Madina
-  Khaak urti hai us ghar mein jahaaṅ rehti hai Sughra
+  Khaak urti hai us ghar meiṅ jahaaṅ rehti hai Sughra
   Bhai nahiṅ baba nahiṅ dushwaar hai jina
   Laut aate haiṅ ghar shaam ke hote hi parinde
-  Kunba mera kiuṅ ab bhi safar mein hi raha hai
+  Kunba mera kiuṅ ab bhi safar meiṅ hi raha hai
 
   5
   Tum jab se gaye ghar se ye ghar qabr hai meri
-  Main zinda huṅ aisi ke koi laasha para hai
+  Maiṅ zinda huṅ aisi ke koi laasha para hai
 
   6
   Jhula Ali Asghar ka jhulaane ki thi hasrat
-  Godi mein use le ke phiraane ki thi hasrat
-  Main haathoṅ ko phailaati thi wo god mein aata
+  Godi meiṅ use le ke phiraane ki thi hasrat
+  Maiṅ haathoṅ ko phailaati thi wo god meiṅ aata
   Sine se use yuṅ bhi lagaane ki thi hasrat
   Baba mere Asghar ka to kuchh haal sunaao
   Us bezabaaṅ ne mujh ko kabhi yaad kiya hai
 
   7
-  Dekha hai Hasan Sadiq Rehaan ke nauhoṅ mein
+  Dekha hai Hasan Sadiq Rehaan ke nauhoṅ meiṅ
   Ashkoṅ ka samandar hai jo palkoṅ pe ruka hai
 reciter: Hasan Sadiq
 # source_id: nohayonline:e366739679a87856e29a

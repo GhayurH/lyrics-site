@@ -42,8 +42,8 @@ romanLyrics: |-
 
   4
   Maah-e-Shaabaan-e-yakam aur wo nur-e-Zainab
-  Kaaba-e-Hazrat-e-Zahra mein zuhur-e-Zainab
-  Panjtan haiṅ isi khwaahish mein huzur-e-Zainab
+  Kaaba-e-Hazrat-e-Zahra meiṅ zuhur-e-Zainab
+  Panjtan haiṅ isi khwaahish meiṅ huzur-e-Zainab
   Meri aaghosh ho gahwaara-e-Tur-e-Zainab
   Us ki marzi hai magar us ko uthaaye Shabbir
   Sab se pehle mujhe sine se lagaaye Shabbir
@@ -62,14 +62,14 @@ romanLyrics: |-
   Sirf Kufa hi nahiṅ ho gayi dunya khaamosh
   Sirf dunya hi nahiṅ Khuda tha khaamosh
   Aisa lehje ka asar tha ke zamaana chup tha
-  Teri taazim mein khud tera gharan chup tha
+  Teri taazim meiṅ khud tera gharaṅ chup tha
 
   7
-  Pal mein saakit bhare baazaar ki hal chal kar di
-  Ek hi baat mein har baat mukammal kar di
+  Pal meiṅ saakit bhare baazaar ki hal chal kar di
+  Ek hi baat meiṅ har baat mukammal kar di
   Waqt par waqt ki dehliz muqaffal kar di
   Din ko maazul kiya raat muattal kar di
-  Khauf mein dube hue dil wo ubharne na diye
+  Khauf meiṅ dube hue dil wo ubharne na diye
   Saaṅs bhi rok diye log bhi marne na diye
 
   8
@@ -78,7 +78,7 @@ romanLyrics: |-
   Taaziya jhula alam aaṅsu hai is ka lashkar
   Kaun rokega bhala Shah ka maatam Akbar
   Karbala ka jo har ik saahib-e-dil qaail hai
-  Is ki tabligh mein Zainab ka lahu shaamil hai
+  Is ki tabligh meiṅ Zainab ka lahu shaamil hai
 ---
 
 ۱

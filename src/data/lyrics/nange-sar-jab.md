@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Us ne ik sajda-e-aakhir se sabaq sikha hai
-  Aalam-e-shauq mein jab koi su-e-daar chale
+  Aalam-e-shauq meiṅ jab koi su-e-daar chale
 
   2
   Ek ishaara hai ye hamshir o biraadar ki taraf
@@ -24,22 +24,22 @@ romanLyrics: |-
 
   3
   Mujh ko har lamha Masiha ka gumaaṅ hota hai
-  Regzaaroṅ mein agar koi bhi bimaar chale
+  Regzaaroṅ meiṅ agar koi bhi bimaar chale
 
   4
   Us ke hamraah zara aap bhi aahista chaleṅ
-  Pa ba zanjeer agar koi giraftaar chale
+  Pa ba zanjir agar koi giraftaar chale
 
   5
   Bibiyaaṅ hoṅ to ridaaeṅ bhi muhayya kijiye
   Qaafila jab bhi koi shehr ke baazaar chale
 
   6
-  Zulm ki had hai ke jab aalam-e-tanhaai mein
+  Zulm ki had hai ke jab aalam-e-tanhaai meiṅ
   Khasta jaaṅ par sar-e-maqtal kabhi talwaar chale
 
   7
-  Ek aalam mere ehsaas mein rota hai Shakeeb
+  Ek aalam mere ehsaas meiṅ rota hai Shakib
   Sabz parcham ke tale jab bhi alamdaar chale
 # source_id: nohayonline:b6df7be5a4deff11e8be
 # source_url: https://www.nohayonline.com/details_content.php?id=654

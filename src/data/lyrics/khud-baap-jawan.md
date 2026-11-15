@@ -1,6 +1,6 @@
 ---
 title: "خود باپ جواں لال کی میت کو اُٹھائے"
-alternateTitle: "Khud Baap Jawan"
+alternateTitle: "Khud Baap Jawaaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -20,7 +20,7 @@ romanLyrics: |-
 
   2
   Yuṅ tez qadam jaanib-e-khaima chale Sarwar
-  Ghabra ke kahiṅ ran mein na Zainab nikal aaye
+  Ghabra ke kahiṅ ran meiṅ na Zainab nikal aaye
 
   3
   Sehre ki jagah dekhe jawaaṅ bete ki mayyat

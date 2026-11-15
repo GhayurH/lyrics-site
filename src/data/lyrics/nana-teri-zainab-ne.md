@@ -14,7 +14,7 @@ romanLyrics: |-
   Zaalim ka zulm dekha aaṅsu nikal aaye haiṅ
 
   1
-  Main Shaam ki galiyoṅ se sar nange guzar aayi
+  Maiṅ Shaam ki galiyoṅ se sar nange guzar aayi
   Nana teri ummat ne din ye bhi dikhaye haiṅ
 
   2
@@ -27,10 +27,10 @@ romanLyrics: |-
 
   4
   Gham khaa gaya Zainab ko nana Ali Akbar ka
-  Mat puchho watan mein hum kis tarah se aaye haiṅ
+  Mat puchho watan meiṅ hum kis tarah se aaye haiṅ
 
   5
-  Zindaaṅ ke andhere mein nind aayi Sakina ko
+  Zindaaṅ ke andhere meiṅ nind aayi Sakina ko
   Hum qabr Sakina ki wahaaṅ chhor ke aaye haiṅ
 
   6

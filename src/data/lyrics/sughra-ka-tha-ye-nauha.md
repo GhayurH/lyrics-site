@@ -15,7 +15,7 @@ romanLyrics: |-
   Sughra ka tha ye nauha – baba ae mere baba
 
   1
-  Haaṅ mujhko Madine mein ab chain na aayega
+  Haaṅ mujhko Madine meiṅ ab chain na aayega
   Jab aap na hoṅge to ghabraayega dil mera
 
   2
@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   Jhula bhi jhulaauṅgi, lori bhi sunaauṅgi
-  Pehlu mein sulaauṅgi Asghar ko mere baba
+  Pehlu meiṅ sulaauṅgi Asghar ko mere baba
 
   4
   Laao Ali Asghar ko maiṅ pyaar zara kar luṅ

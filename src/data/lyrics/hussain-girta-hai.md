@@ -31,7 +31,7 @@ romanLyrics: |-
 
   4
   Ye zof kehta hai utha na jaayega Sarwar
-  Karuṅ main aap ki taazim maadar-e-muztar
+  Karuṅ maiṅ aap ki taazim maadar-e-muztar
   Sahara de ke mujhe bas uthaiye amma
 
   5
@@ -40,7 +40,7 @@ romanLyrics: |-
   Jo ho sake to gale se lagaiye amma
 
   6
-  Haiṅ aap maaṅ meri main aap ka gharib Husain
+  Haiṅ aap maaṅ meri maiṅ aap ka gharib Husain
   Qaza se ho gaya is waqt to qarib Husain
   Qaza ka waqt hai himmat bandhaiye amma
 

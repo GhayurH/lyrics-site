@@ -11,10 +11,10 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Phir Fatima ke ghar mein farsh-e-aza bichha hai
+  Phir Fatima ke ghar meiṅ farsh-e-aza bichha hai
   Bimaar-e-Karbala ka taabut uth raha hai
 
-  Karb o bala ka zakhmi Yasrab mein chal basa hai
+  Karb o bala ka zakhmi Yasrab meiṅ chal basa hai
   Bimaar-e-Karbala ka taabut uth raha hai
 
   1
@@ -24,7 +24,7 @@ romanLyrics: |-
 
   2
   Baaqir se keh raha tha saadaat ka gharaana
-  Pehlu mein naana jaaṅ ke mayyat na le ke jaana
+  Pehlu meiṅ naana jaaṅ ke mayyat na le ke jaana
   Pehle bhi ek janaaza ghar waapas aa chuka hai
 
   3

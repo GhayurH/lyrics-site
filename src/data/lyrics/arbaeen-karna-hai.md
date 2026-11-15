@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Arbaeen karna hai Shah-e-Karbalaayi ka
+  Arbain karna hai Shah-e-Karbalaayi ka
 
   1
   Le ke daagh sine pe Shah ki judaai ka
@@ -20,22 +20,22 @@ romanLyrics: |-
   Karbala ke maidaan par Fatima ki jaayi ka
 
   2
-  Maut ke biyaabaan mein zindagi ka maatam hai
-  Zulm ke andheroṅ mein roshni ka maatam hai
-  Aaṅsuoṅ ke tufaaṅ mein tashnagi ka maatam hai
-  Ek behan ke hisse mein har kisi ka maatam hai
+  Maut ke biyaabaan meiṅ zindagi ka maatam hai
+  Zulm ke andheroṅ meiṅ roshni ka maatam hai
+  Aaṅsuoṅ ke tufaaṅ meiṅ tashnagi ka maatam hai
+  Ek behan ke hisse meiṅ har kisi ka maatam hai
 
   3
-  Bhai kya sunaauṅ main hum pe kya sitam guzre
+  Bhai kya sunaauṅ maiṅ hum pe kya sitam guzre
   Baad-e-asr-e-Aashura bekafan the sab laashe
   Shaam-e-gham ke jaate hi maut ke barhe saaye
   Chhin gayi rida meri bhai jal gaye khaime
 
   4
-  Dur tak nigaahoṅ mein Shaam ka andhera hai
+  Dur tak nigaahoṅ meiṅ Shaam ka andhera hai
   Karbala se Kufa tak haadisoṅ ne ghera hai
   Jab se naunihaaloṅ ne muṅh ko apne phera hai
-  Maamta ki godi mein maut ka basera hai
+  Maamta ki godi meiṅ maut ka basera hai
 
   5
   Baad-e-Karbala bhai, har qadam qayaamat thi
@@ -45,33 +45,33 @@ romanLyrics: |-
 
   6
   Bhai qaid khaane ki tiragi se ho aaye
-  Aap ki amaanat ko zulmatoṅ mein kho aaye
+  Aap ki amaanat ko zulmatoṅ meiṅ kho aaye
   Khun goshwaaroṅ ka aaṅsuoṅ se dho aaye
   Yuṅ Sakina Bibi ko sab asir ro aaye
 
   7
   Sab se juda ho kar jab Madina jaauṅgi
   Ja ke maaṅ ki turbat par marsiya sunaauṅgi
-  Karbala ke maqtal mein kya hua bataauṅgi
+  Karbala ke maqtal meiṅ kya hua bataauṅgi
   Bhai apne baazuoṅ ke nil bhi dikhaauṅgi
 
   8
   Khud asir-e-qismat thi dar badar gayi Zainab
   Muṅh ko apne baaloṅ se dhaaṅp kar gayi Zainab
-  Majlis-e-sitamgar mein nange sar gayi Zainab
+  Majlis-e-sitamgar meiṅ nange sar gayi Zainab
   Le ke saath kunbe ko nauhagar gayi Zainab
 
   9
   Aap se juda ho kar jab Madina jaauṅgi
   Ja ke maaṅ ki turbat par marsiya sunaauṅgi
-  Karbala ke maqtal mein kya hua bataauṅgi
+  Karbala ke maqtal meiṅ kya hua bataauṅgi
   Bhai apne baazu ke nil bhi dikhaauṅgi
 
   10
   Bhai ab Khuda haafiz qabr se chali Zainab
   Bin tere guzaaregi kaise zindagi Zainab
-  Uth gayi Fareed aakhir keh ke Ya Ali Zainab
-  Ranj o gham ki dunya mein phir se kho gayi Zainab
+  Uth gayi Farid aakhir keh ke Ya Ali Zainab
+  Ranj o gham ki dunya meiṅ phir se kho gayi Zainab
 # source_id: nohayonline:a669b7999bb9a1524793
 # source_url: https://www.nohayonline.com/details_content.php?id=182
 # raw_sha256: c2f01e1b4a912db4c6b89bd74b46f85ecef2f2196c0cb86071224564a27b04c7

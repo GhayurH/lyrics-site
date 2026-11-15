@@ -1,6 +1,6 @@
 ---
 title: "کربلا کہتی ہے مظلوم بڑا ہے اصغر"
-alternateTitle: "Mazloom Bada Hai"
+alternateTitle: "Mazlum Bara Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,20 +11,20 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Karbala kehti hai mazloom bara hai Asghar
-  Zibh maidaaṅ mein do baar hua hai Asghar
+  Karbala kehti hai mazlum bara hai Asghar
+  Zibh maidaaṅ meiṅ do baar hua hai Asghar
 
   1
-  Haath mein tegh nahiṅ aur ulat de faujeṅ
+  Haath meiṅ tegh nahiṅ aur ulat de faujeṅ
   Jaise Abbas lare waisa lara hai Asghar
 
   2
   Sar hai naize pe rakha aur badan reti par
-  Haye kis haal mein Bano ko mila hai Asghar
+  Haye kis haal meiṅ Bano ko mila hai Asghar
 
   3
-  Sun ke hal min ki sada dasht mein jaane ke liye
-  Ghutniyoṅ Shaah ke khaime mein chala hai Asghar
+  Sun ke hal min ki sada dasht meiṅ jaane ke liye
+  Ghutniyoṅ Shaah ke khaime meiṅ chala hai Asghar
 
   4
   Asr ke aakhri sajde ke liye maula ne

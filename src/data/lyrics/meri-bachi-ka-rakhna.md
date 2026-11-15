@@ -23,19 +23,19 @@ romanLyrics: |-
   Kamsini bekasi aur ye tashnagi
   Aur us par aziyat tamaachoṅ ki bhi
   Seh na paayegi ye gham uthaayegi ye
-  Hum se maqtal mein milne ko aayegi ye
+  Hum se maqtal meiṅ milne ko aayegi ye
 
   3
   Khun tapkega kaanoṅ se bhi is qadar
   Hoga daaman meri shahzaadi ka tar
-  Zakhm dil mein liye ashk kab tak piye
+  Zakhm dil meiṅ liye ashk kab tak piye
   Ae behan ae behan tum Khuda ke liye
 
   4
-  Apne pehlu mein shab ko sulaana ise
+  Apne pehlu meiṅ shab ko sulaana ise
   Khud na jaage to tum na jagaana ise
-  Hai meri ilteja main to marne chala
-  Baandhne dena na rassi mein is ka gala
+  Hai meri ilteja maiṅ to marne chala
+  Baandhne dena na rassi meiṅ is ka gala
 
   5
   Baad-e-Abbas paani ye maange agar
@@ -45,9 +45,9 @@ romanLyrics: |-
 
   6
   Pa barehna safar ki ye aadi nahiṅ
-  Shaam ki raah mein hogi jalti zamiṅ
+  Shaam ki raah meiṅ hogi jalti zamiṅ
   Jab ye paidal chale paaoṅ jalne lageṅ
-  Apni godi mein le kar lagaana gale
+  Apni godi meiṅ le kar lagaana gale
 
   7
   Shimr nazdik na aaye is ke kabhi
@@ -56,16 +56,16 @@ romanLyrics: |-
   Zulm dhaaye na wo dekho is par kabhi
 
   8
-  Is ko maange kanizi mein koi agar
-  Tegh khutboṅ ki darbaar mein kheṅch kar
+  Is ko maange kanizi meiṅ koi agar
+  Tegh khutboṅ ki darbaar meiṅ kheṅch kar
   Hona sina sitam ghaiz ki ho nazar
   Girna qahr-e-Khuda ban ke darbaar par
 
   9
   Gham se Rehaan hota hai tukre jigar
   Ae Raza guzri kya hogi Abbas par
-  Haaye zindaan mein gham ke tufaan mein
-  Aayi hogi sada Shah ki jab kaan mein
+  Haaye zindaan meiṅ gham ke tufaan meiṅ
+  Aayi hogi sada Shah ki jab kaan meiṅ
 # source_id: nohayonline:21920dc554f2ca102700
 # source_url: https://www.nohayonline.com/details_content.php?id=545
 # raw_sha256: 8f6a6e0e5b3d09fdf718c1d44c0713e4d3185a14e0e74c8dd3b74786023e0855

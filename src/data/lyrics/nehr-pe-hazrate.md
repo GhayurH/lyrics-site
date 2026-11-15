@@ -17,12 +17,12 @@ romanLyrics: |-
   Benawa bekas o beparda o laachaar o gharib
   Lekin us par bhi Muhammad ke gharaane ki naqib
   Zard chehre pe hai bikhre hue baaloṅ ki naqaab
-  Jaise juz daanoṅ mein lipti hui ismat ki kitaab
+  Jaise juz daanoṅ meiṅ lipti hui ismat ki kitaab
 
   2
   Ja baja jism pe haiṅ khun ke dhabboṅ ke nishaan
-  Jaise piri mein uthaayi ho koi laash-e-jawaan
-  Waram aaṅkhoṅ mein kamaal kham hai to khaamosh zabaan
+  Jaise piri meiṅ uthaayi ho koi laash-e-jawaan
+  Waram aaṅkhoṅ meiṅ kamaal kham hai to khaamosh zabaan
   Zabt ka phir bhi ye aalam hai ke girya na fughaaṅ
   Kaun Bibi hai jo is tarah se jaaṅ khoti hai
   Jis tarah laash pe bhaai ke behan roti hai
@@ -40,11 +40,11 @@ romanLyrics: |-
   Haider-e-asr utho waqt ke Shabbir utho
   Aal-e-tathir ki soyi hui taqdir utho
   Kaat do Aabid-e-dilgir ki zanjir utho
-  Aag hi aag hai bharki hui khaimoṅ mein tamaam
-  Chhin gayi sar se rida jaati huṅ main su-e-Shaam
+  Aag hi aag hai bharki hui khaimoṅ meiṅ tamaam
+  Chhin gayi sar se rida jaati huṅ maiṅ su-e-Shaam
 
   5
-  Shaane kya tere kate bandh gayi baazu mein rasan
+  Shaane kya tere kate bandh gayi baazu meiṅ rasan
   Sar pe kya gurz laga ho gayi beparda behan
   Teri kya jaan gayi maare gaye Shaah-e-zaman
   Fasl-e-gul aisi luti ho gayi ho gaya barbaad chaman
@@ -55,8 +55,8 @@ romanLyrics: |-
   Waqt-e-rukhsat hai mere sher ijaazat de mujhe
   Qaafila chalne ko tayyaar hai himmat de mujhe
   Khilman-e-kufr jala duṅ wo haraarat de mujhe
-  Yaani taqrir mein shamshir ki khaslat de mujhe
-  Ran mein shamshir chalaana to mera kaam nahiṅ
+  Yaani taqrir meiṅ shamshir ki khaslat de mujhe
+  Ran meiṅ shamshir chalaana to mera kaam nahiṅ
   Shaam o Kufa na ulat duṅ to mera naam nahiṅ
 # source_id: nohayonline:6a8c5776ef633c9830a3
 # source_url: https://www.nohayonline.com/details_content.php?id=750

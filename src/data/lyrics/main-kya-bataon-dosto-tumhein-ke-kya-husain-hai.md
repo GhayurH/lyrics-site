@@ -14,7 +14,7 @@ poet: "Mir Hasan Mir"
 reciter: "Mir Hasan Mir"
 recitationId: "main-kya-bataon-dosto-tumhein-ke-kya-hussain-hai-mir-hasan-mir"
 romanLyrics: |-
-  Main kya batauṅ dosto tumheiṅ ke kya Husain hai
+  Maiṅ kya batauṅ dosto tumheiṅ ke kya Husain hai
   Bashar to kya hai anbiya ka aasra Husain hai
 
   1
@@ -23,7 +23,7 @@ romanLyrics: |-
   Yazid kab ka mit chuka Husain tha Husain hai
 
   2
-  Hai dil meiṅ tere bughz aur zabaan pe hai Khuda Khuda
+  Hai dil meiṅ tere bughz aur zabaaṅ pe hai Khuda Khuda
   Dar-e-Husain chhor ke bhatakne wale sun zara
   Khuda bhi us taraf hai jis taraf mera Husain hai
 
@@ -33,7 +33,7 @@ romanLyrics: |-
   Jahaṅ azaaṅ bhi nahiṅ wahaṅ bhi Ya Husain hai
 
   4
-  Idhar Rasool-e-Paak haiṅ udhar Janab-e-Sayyeda
+  Idhar Rasul-e-Paak haiṅ udhar Janab-e-Sayyeda
   Haiṅ pusht par Hasan to saamne Ali-e-Murtaza
   Bas in ke darmiyaaṅ hi pala barha Husain hai
 

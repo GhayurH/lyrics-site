@@ -15,7 +15,7 @@ romanLyrics: |-
   Tauq ka wazan utha laash uthayi na gayi
 
   1
-  Kis tarah dafn Sakina ko kiya zindaaṅ mein
+  Kis tarah dafn Sakina ko kiya zindaaṅ meiṅ
   Baat Zainab se ye Sughra ko batayi na gayi
 
   2
@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   Khuṅ bahati hui aankhoṅ ne bata di sab ko
-  Baat lafzoṅ mein jo Abid se batayi na gayi
+  Baat lafzoṅ meiṅ jo Abid se batayi na gayi
 
   4
   Jo bhi samaan luta tha wo mila sab ko magar
@@ -43,8 +43,8 @@ romanLyrics: |-
   Aisi basti to rasuloṅ se basayi na gayi
 
   8
-  Gham agar hai to yehi Noor Ali ek gham hai
-  Daastaaṅ dard ki lafzoṅ mein samayi na gayi
+  Gham agar hai to yehi Nur Ali ek gham hai
+  Daastaaṅ dard ki lafzoṅ meiṅ samayi na gayi
 # source_id: nohayonline:38bb17407080665412f4
 # source_url: https://www.nohayonline.com/details_content.php?id=3780
 # raw_sha256: bd2afaba0a96cde95ec63bc94b3979508934a6bd5412a855bc981363fe38ea42

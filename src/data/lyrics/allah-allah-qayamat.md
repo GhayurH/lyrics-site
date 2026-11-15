@@ -23,10 +23,10 @@ romanLyrics: |-
   Behen Abbas ki berida hai
 
   2
-  Main to aai thi tere sahare
+  Maiṅ to aai thi tere sahare
   So gaya tu to darya kinare
   Shaam jaayegi kis tarah Zainab
-  Dil tadapne laga gham ke maare
+  Dil tarapne laga gham ke maare
   Bibiyoṅ ke laboṅ par buka hai
   Behen Abbas ki berida hai
 
@@ -56,7 +56,7 @@ romanLyrics: |-
 
   6
   Log apne na apna watan hai
-  Bas isi gham ki dil mein chubhan hai
+  Bas isi gham ki dil meiṅ chubhan hai
   Kaise parda karuṅ tu bata de
   Mujhko jakre hue jo rasan hai
   Dil yehi soch kar ro raha hai

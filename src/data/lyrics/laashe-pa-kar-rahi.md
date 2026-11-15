@@ -11,7 +11,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Laashe pe kar rahi hai Laila ye noha khwaani
-  Nazroṅ mein phir rahi hai Akbar teri jawaani
+  Nazroṅ meiṅ phir rahi hai Akbar teri jawaani
 
   1
   Allah waaloṅ bolo aakhir uthaae kiuṅ kar
@@ -26,7 +26,7 @@ romanLyrics: |-
   Ae kalma parhne waaloṅ ye hai Nabi ka saani
 
   4
-  Naazoṅ mein palne waala naizoṅ ki zad mein aaya
+  Naazoṅ meiṅ palne waala naizoṅ ki zad meiṅ aaya
   Zainab suna rahi hai ye dard ki kahaani
 
   5
@@ -34,7 +34,7 @@ romanLyrics: |-
   Naasur ban gayi hai bin tere zindagaani
 
   6
-  Behosh ho gayi thi sun kar watan mein Sughra
+  Behosh ho gayi thi sun kar watan meiṅ Sughra
   Zainab ne thi sunaai Akbar ki jab sunaani
 
   7

@@ -14,11 +14,11 @@ romanLyrics: |-
   Bas khair ki us waqt dua karti thiṅ Sughra
 
   1
-  Ik baar bhare ghar ko main in aankhoṅ se dekhuṅ
-  Ro ro ke Madine mein dua karti thiṅ Sughra
+  Ik baar bhare ghar ko maiṅ in aankhoṅ se dekhuṅ
+  Ro ro ke Madine meiṅ dua karti thiṅ Sughra
 
   2
-  Pardes mein Baba ne mujhe dil se bhulaya
+  Pardes meiṅ Baba ne mujhe dil se bhulaya
   Shikwa yehi Nani se kiya karti thiṅ Sughra
 
   3
@@ -26,7 +26,7 @@ romanLyrics: |-
   Ye keh ke bahot yaad kiya karti thiṅ Sughra
 
   4
-  Aata tha Madine mein agar koi musafir
+  Aata tha Madine meiṅ agar koi musafir
   Bechain bahot sun ke hua karti thiṅ Sughra
 
   5

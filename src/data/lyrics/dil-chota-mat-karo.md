@@ -36,7 +36,7 @@ romanLyrics: |-
   Maula Husain sab ko dikhaayeṅ ge Karbala
 
   4
-  Jo reh gaya watan mein usay kehna gham na kar
+  Jo reh gaya watan meiṅ use kehna gham na kar
   Khud pursa lene aayeṅ ge Shabbir tere ghar
   Bas Shaah se ziyaarat-e-Aashur maangna
   Maula Husain sab ko dikhaayeṅ ge Karbala
@@ -80,7 +80,7 @@ romanLyrics: |-
   11
   Kaise bayaaṅ ho Sughra ki haalat ajib thi
   Bimaar apne ammu se aa kar lipat gayi
-  Sughra se ye tasalli mein Abbas ne kaha
+  Sughra se ye tasalli meiṅ Abbas ne kaha
   Maula Husain sab ko dikhaayeṅ ge Karbala
 
   12

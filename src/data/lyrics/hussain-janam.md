@@ -12,12 +12,12 @@ aliases: ["Hussain Janam"]
 published: true
 romanLyrics: |-
   Husain jaanam Husain jaanam
-  Maqtal mein khule sar yehi kehti rahi maadar
+  Maqtal meiṅ khule sar yehi kehti rahi maadar
   Husain jaanam Husain jaanam
   Pyase gale pe chala haaye zulm ka khanjar
 
   1
-  Sahra-e-Karbala mein hua Zehra ka nuzul
+  Sahra-e-Karbala meiṅ hua Zehra ka nuzul
   Beti ke saath rote hue aa gaye Rasul
   Zehra ka baazu thaame hue rote haiṅ Haidar
 
@@ -29,10 +29,10 @@ romanLyrics: |-
   3
   Larte hue Shabbir ne jis dam suni sada
   Ae nafs-e-mutmain aa palat kehta tha Khuda
-  Sajde mein rakha Shaah ne sar khaak ke upar
+  Sajde meiṅ rakha Shaah ne sar khaak ke upar
 
   4
-  Khanjar ko liye haathoṅ mein wo Shimr chala hai
+  Khanjar ko liye haathoṅ meiṅ wo Shimr chala hai
   Pyase gale pe Shaah ke khanjar ko rakha hai
   Ye dekh ke roti rahi Shabbir ki maadar
 
@@ -43,12 +43,12 @@ romanLyrics: |-
 
   6
   Sar khole hue Fatima karti rahi faryaad
-  Sar kaat ke haathoṅ mein utha le gaya jallaad
+  Sar kaat ke haathoṅ meiṅ utha le gaya jallaad
   Zainab ne dar-e-khaima se dekha tha wo manzar
 
   7
-  Khuṅ aasmaaṅ se barsa udhar Karb o Bala mein
-  Aur fathe ki naubat baji waaṅ ahl-e-jafa mein
+  Khuṅ aasmaaṅ se barsa udhar Karb o Bala meiṅ
+  Aur fathe ki naubat baji waaṅ ahl-e-jafa meiṅ
   Sajjad se kehti thi utho Aabid-e-muztar
 
   8
@@ -59,7 +59,7 @@ romanLyrics: |-
   9
   Farmaati thi Zehra ke mere Yusuf-e-saani
   Pyase hi gaye duniya se paaya nahiṅ paani
-  Ab khuld mein naana tere deṅge tujhe Kausar
+  Ab khuld meiṅ naana tere deṅge tujhe Kausar
 
   10
   Zehra se ye farmaane lage Ahmad-e-Mukhtaar

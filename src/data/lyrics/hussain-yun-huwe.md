@@ -10,7 +10,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Husain yuṅ hue ae mujraee watan se juda
+  Husain yuṅ hue ae mujrai watan se juda
   Ke jaise bulbul-e-naashaad ho chaman se juda
 
   1

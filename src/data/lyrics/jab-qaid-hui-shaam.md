@@ -11,53 +11,53 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Jab qaid hui Shaam ke zindaaṅ mein Sakina
+  Jab qaid hui Shaam ke zindaaṅ meiṅ Sakina
   Kehti thi ye ro kar mere Baba mere Baba
 
   1
   Lo jald khabar aan ke dam ghutta hai mera
-  Is Shaam ke zindaaṅ mein bala ka hai andhera
-  Mar jaaye na is aalam-e-ghurbat mein Sakina
+  Is Shaam ke zindaaṅ meiṅ bala ka hai andhera
+  Mar jaaye na is aalam-e-ghurbat meiṅ Sakina
 
   2
   Ye haal Sakina ka hua zulm o sitam se
   Kaanoṅ se lahu behta hai rukhsaar haiṅ nile
-  Mar jaaye na is aalam-e-ghurbat mein Sakina
+  Mar jaaye na is aalam-e-ghurbat meiṅ Sakina
 
   3
   Is darja andhera hai koi shama jala de
   Jaa kar koi Abbas-e-dilaawar ko bula de
-  Mar jaaye na is aalam-e-ghurbat mein Sakina
+  Mar jaaye na is aalam-e-ghurbat meiṅ Sakina
 
   4
   Kiuṅ ghurkiyaaṅ dete haiṅ mujhe aan ke aada
   Kuchh der ko aa jaaiye pyaare mere Baba
-  Mar jaaye na is aalam-e-ghurbat mein Sakina
+  Mar jaaye na is aalam-e-ghurbat meiṅ Sakina
 
   5
   Is darja sitamgaroṅ ne bachchi ko sataaya
-  Us Shaam ke zindaan mein dam ghut gaya us ka
-  Ab khaak pe zindaan mein soti hai Sakina
+  Us Shaam ke zindaan meiṅ dam ghut gaya us ka
+  Ab khaak pe zindaan meiṅ soti hai Sakina
 
   6
   Yuṅ Sayyid-e-Sajjad ka dil kaamp raha hai
-  Laasha jo Sakina ka andhere mein rakha hai
-  Ab khaak pe zindaan mein soti hai Sakina
+  Laasha jo Sakina ka andhere meiṅ rakha hai
+  Ab khaak pe zindaan meiṅ soti hai Sakina
 
   7
-  Main kaise kahuṅ gham se jigar phatta hai mera
+  Maiṅ kaise kahuṅ gham se jigar phatta hai mera
   Kurta jo badan pe tha wo hi us ka kafan tha
-  Ab khaak pe zindaan mein soti hai Sakina
+  Ab khaak pe zindaan meiṅ soti hai Sakina
 
   8
   Kuchh bhi na muyassar tha wahaaṅ ghusl o kafan ko
-  Kurte mein hi dafna diya bhaai ne behen ko
-  Ab khaak pe zindaan mein soti hai Sakina
+  Kurte meiṅ hi dafna diya bhaai ne behen ko
+  Ab khaak pe zindaan meiṅ soti hai Sakina
 
   9
   Jab ahl-e-haram haiṅ laut ke aa gaye Ashraf
   Sajjad basad aah o fughaaṅ kehte the Ashraf
-  Ab Shaam ke zindaan mein tanha hai Sakina
+  Ab Shaam ke zindaan meiṅ tanha hai Sakina
 # source_id: nohayonline:ed29dcae658813b04bbb
 # source_url: https://www.nohayonline.com/details_content.php?id=57
 # raw_sha256: dc1ad97c89b17701e9a9a0887b85bfa7ae54303854c2b23542c19fd4b6aa3df3

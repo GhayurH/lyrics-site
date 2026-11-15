@@ -12,27 +12,27 @@ aliases: []
 published: true
 romanLyrics: |-
   Shabbir tu ne aise bhi dard o alam sahe
-  In ka dahr mein saamna mursal na kar sake
+  In ka dahr meiṅ saamna mursal na kar sake
 
   1
-  Maqtul tujh sa dunya mein guzra nahiṅ koi
+  Maqtul tujh sa dunya meiṅ guzra nahiṅ koi
   Khud qatl kar ke jis ko hai qaatil bhi ro pare
 
   2
   Zainab pe bekasi ki qayamat guzar gayi
-  Abbas tere qaatil khaimoṅ mein jab ghuse
+  Abbas tere qaatil khaimoṅ meiṅ jab ghuse
 
   3
   Kitni gharib ho gayi Ali ki bahu Rubab
-  Sab khatm jis ke rishte haiṅ ek pal mein ho gaye
+  Sab khatm jis ke rishte haiṅ ek pal meiṅ ho gaye
 
   4
-  Ziyaarat mein mere baarahweṅ haadi ka hai salaam
-  Un Bibiyoṅ pe jin ke the baaloṅ mein muṅh chhupe
+  Ziyaarat meiṅ mere baarahweṅ haadi ka hai salaam
+  Un Bibiyoṅ pe jin ke the baaloṅ meiṅ muṅh chhupe
 
   5
-  Un ki Ameer dunya mein koi nahiṅ misaal
-  Raah-e-Khuda mein jin ke haiṅ naizoṅ pe sar charhe
+  Un ki Amir dunya meiṅ koi nahiṅ misaal
+  Raah-e-Khuda meiṅ jin ke haiṅ naizoṅ pe sar charhe
 # source_id: nohayonline:4b07d39abe8db5d0c7ad
 # source_url: https://www.nohayonline.com/details_content.php?id=3497
 # raw_sha256: d95754a87cd3d61d5d492b27ec66fb733ba539906de97dee57ca61d18e8e3bae

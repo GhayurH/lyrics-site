@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Jis waqt ye zamaana Makka mein aa raha hai
+  Jis waqt ye zamaana Makka meiṅ aa raha hai
   Tera Husain tere Kaabe se jaa raha hai
 
   Ya Rab gawaah rahiyo sadme utha raha hai
@@ -23,13 +23,13 @@ romanLyrics: |-
   Ab ye naya sitam bhi dil par utha raha hai
 
   2
-  Main Ibn-e-Haajra huṅ Makka Mina ka beta
-  Main ambiya ka waaris Marwa Safa ka beta
+  Maiṅ Ibn-e-Haajra huṅ Makka Mina ka beta
+  Maiṅ ambiya ka waaris Marwa Safa ka beta
   Ro ro ke aab-e-Zamzam mujh ko bula raha hai
 
   3
-  Fakhr-e-Khalil main huṅ shaan-e-Kalim huṅ main
-  Maalik tu jaanta hai zibh-e-azim huṅ main
+  Fakhr-e-Khalil maiṅ huṅ shaan-e-Kalim huṅ maiṅ
+  Maalik tu jaanta hai zibh-e-azim huṅ maiṅ
   Tifli ka aaj apna waada nibha raha hai
 
   4
@@ -38,9 +38,9 @@ romanLyrics: |-
   Baadal musibatoṅ ka ab sar pe chhaa raha hai
 
   5
-  Ehraam mein chamakte khanjar chhupe hue haiṅ
-  In haajiyoṅ mein khuni lashkar chhupe hue haiṅ
-  Qismat ka ab sitaara gardish mein aa raha hai
+  Ehraam meiṅ chamakte khanjar chhupe hue haiṅ
+  In haajiyoṅ meiṅ khuni lashkar chhupe hue haiṅ
+  Qismat ka ab sitaara gardish meiṅ aa raha hai
 
   6
   Maalik ye Hajar-e-Aswad bhi jaanta hai mujh ko
@@ -53,17 +53,17 @@ romanLyrics: |-
   Thokar pe aaj thokar Shabbir khaa raha hai
 
   8
-  Haaji sabhi Mina mein qurbaaniyaaṅ kareṅ ge
-  Par Karbala mein Akbar qurbaan ham kareṅ ge
+  Haaji sabhi Mina meiṅ qurbaaniyaaṅ kareṅ ge
+  Par Karbala meiṅ Akbar qurbaan ham kareṅ ge
   Is waaste pisar bhi hamraah jaa raha hai
 
   9
-  Beaab Karbala mein mehmaan ye bhi ho ga
+  Beaab Karbala meiṅ mehmaan ye bhi ho ga
   Akbar ka zikr kya hai qurbaan ye bhi ho ga
-  Godi mein maaṅ ke Asghar jo muskura raha hai
+  Godi meiṅ maaṅ ke Asghar jo muskura raha hai
 
   10
-  Ehsaas kaise likhe lafzoṅ mein aah Aini
+  Ehsaas kaise likhe lafzoṅ meiṅ aah Aini
   Mur mur ke dekhte the Kaabe ko Shaah Aini
   Aamir ye Shaah-e-diṅ ka nauha suna raha hai
 # source_id: nohayonline:ef17c53839af0ad3b908

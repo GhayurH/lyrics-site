@@ -16,7 +16,7 @@ romanLyrics: |-
   Aankhoṅ meiṅ liye hasrat-e-didaar ariza
   Khizr Raah meiṅ pahunchne ko hai tayyaar ariza
   Ye shauq-e-ziyaarat meiṅ bahot aage hai mujh se
-  Is paar agar main huṅ to us paar ariza
+  Is paar agar maiṅ huṅ to us paar ariza
 
   1
   Barhta hi chala jaata hai jazbaat ki rau meiṅ

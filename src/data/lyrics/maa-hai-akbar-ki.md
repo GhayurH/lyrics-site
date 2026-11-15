@@ -20,7 +20,7 @@ romanLyrics: |-
 
   2
   Saj ke Zainab ne betoṅ ke hathyaar
-  Aakhri aarzoo nikaali hai
+  Aakhri aarzu nikaali hai
 
   3
   Us ki himmat par kaainaat fida

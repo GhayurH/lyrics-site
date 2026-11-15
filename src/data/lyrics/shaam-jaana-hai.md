@@ -44,10 +44,10 @@ romanLyrics: |-
 
   2
   Shaam jab Karbobala hote hue jaauṅ ga
-  Aap ki qabr se mashkiza main bhar laauṅ ga
+  Aap ki qabr se mashkiza maiṅ bhar laauṅ ga
   Turbat-e-baali Sakina pe kahuṅ ga Bibi
   Maula Abbas ne bheja hai tumheiṅ ye paani
-  Ab talak Shaam ke zindaan mein hai jo pyaasi
+  Ab talak Shaam ke zindaan meiṅ hai jo pyaasi
   Us bhatiji se mila do
   Shaam ka phir hameiṅ zawwaar bana do
   Maula Abbas Maula Abbas Maula Abbas
@@ -100,7 +100,7 @@ romanLyrics: |-
   Amma Fizza ki lahad dekh luṅ aur Shiriṅ ka ghar
   Maula phir Shaam ka darbaar bhi dekhuṅ jaa kar
   Haṅs ke zaalim ne jahaaṅ naam liya Zainab ka
-  Aur kanizi mein Sakina ko jahaaṅ maaṅga gaya
+  Aur kanizi meiṅ Sakina ko jahaaṅ maaṅga gaya
   Khun rote rahe Sajjad jahaaṅ par tanha
   Izn Zainab se dila do
   Shaam ka phir hameiṅ zawwaar bana do

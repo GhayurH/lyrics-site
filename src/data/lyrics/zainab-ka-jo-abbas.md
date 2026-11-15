@@ -16,16 +16,16 @@ romanLyrics: |-
 
   1
   Wo sher gira khaak pe jab pusht-e-faras se
-  Be dast pe talwaar o sinaaṅ tir the barse
+  Bedast pe talwaar o sinaaṅ tir the barse
   Wo waqt tha Shabbir pe mahshar ke baraabar
 
   2
-  Tukroṅ mein jo Shabbir ka Abbas bata tha
+  Tukroṅ meiṅ jo Shabbir ka Abbas bata tha
   Elaan sar-e-dasht ye tab karte the aada
   Badle bhi hue Badr ke Khaibar ke baraabar
 
   3
-  Gehna gaya ban mein Bani Haashim ka qamar bhi
+  Gehna gaya ban meiṅ Bani Haashim ka qamar bhi
   Baad us ke jhuki karb se Maula ki kamar bhi
   Jo waaste behnoṅ ke tha chaadar ke baraabar
 
@@ -40,7 +40,7 @@ romanLyrics: |-
   Tadfin sar-e-dasht ki tukroṅ ke baraabar
 
   6
-  Shabbir ke lashkar mein sab ashaab jari the
+  Shabbir ke lashkar meiṅ sab ashaab jari the
   Ye wasf magar khaas tha Abbas ka haaye
   Lagta tha akela wo bahattar ke baraabar
 
@@ -50,7 +50,7 @@ romanLyrics: |-
   Ghaazi se liye badle bhare ghar ke baraabar
 
   8
-  Nauhe ko sahab ek hi misre mein utaara
+  Nauhe ko sahab ek hi misre meiṅ utaara
   Jab Shadmaaṅ ye rauza-e-Abbas pe bola
   Haq tha ke lahad ho teri Haidar ke baraabar
 # source_id: nohayonline:b8856b57adf45a92aa28

@@ -15,7 +15,7 @@ romanLyrics: |-
   Sughra ki zaifi na barhaao Ali Akbar
 
   1
-  Baithi huṅ main dehliz pe tum jab se gaye ho
+  Baithi huṅ maiṅ dehliz pe tum jab se gaye ho
   Lene mujhe kab aaoge aao Ali Akbar
 
   2
@@ -27,7 +27,7 @@ romanLyrics: |-
   Sughra ko sahaara do uthaao Ali Akbar
 
   4
-  Main chaahuṅ bhi to ghar ki ye viraani na kam ho
+  Maiṅ chaahuṅ bhi to ghar ki ye viraani na kam ho
   Tum chaaho to viraana basaao Ali Akbar
 
   5
@@ -35,12 +35,12 @@ romanLyrics: |-
   Jine ki koi shakl dikhaao Ali Akbar
 
   6
-  Tanhaai mein viraani mein sannaate mein khud mein
-  Main kho gayi huṅ dhund ke laao Ali Akbar
+  Tanhaai meiṅ viraani meiṅ sannaate meiṅ khud meiṅ
+  Maiṅ kho gayi huṅ dhund ke laao Ali Akbar
 
   7
   Noha tha Naved us ke laboṅ par yehi har dam
-  Dam sine mein rukne laga aao Ali Akbar
+  Dam sine meiṅ rukne laga aao Ali Akbar
 # source_id: nohayonline:3e49dcf685bb76291ae3
 # source_url: https://www.nohayonline.com/details_content.php?id=974
 # raw_sha256: 4d13b0809a7f349788d111316a634e4fc6358ed49158b87f3ea5c36ae4530a0d

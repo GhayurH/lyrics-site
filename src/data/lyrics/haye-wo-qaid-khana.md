@@ -17,7 +17,7 @@ romanLyrics: |-
   Haye wo qaid khaana haye wo qaid khaana
 
   1
-  Aankhoṅ mein bas gayi zindaan ki udaasi
+  Aankhoṅ meiṅ bas gayi zindaan ki udaasi
   Baba ko dhundti hai mazlum ek pyaasi
   Dukhiya ka khauf se wo Abbas ko bulaana
 
@@ -38,7 +38,7 @@ romanLyrics: |-
 
   5
   Ab bhi Mohib musalsal bimaar ro raha hai
-  Aal-e-Nabi ke ghar mein farsh-e-aza bichha hai
+  Aal-e-Nabi ke ghar meiṅ farsh-e-aza bichha hai
   Ye bain kar raha hai saadaat ka gharaana
 # source_id: nohayonline:9ea3f579cb6f621ca0ba
 # source_url: https://www.nohayonline.com/details_content.php?id=3235

@@ -19,12 +19,12 @@ romanLyrics: |-
 
   1
   Hai teri benur aaṅkheiṅ ae mere nur-e-nazar
-  Ae mere lakht-e-jigar barchhi mein hai tera jigar
+  Ae mere lakht-e-jigar barchhi meiṅ hai tera jigar
   Ye qayaamat se bara hai mamta ka imtihaaṅ
   Ji nahiṅ paaegi maaṅ
 
   2
-  Zindagi mein tha ujaala jis ke dam se dilruba
+  Zindagi meiṅ tha ujaala jis ke dam se dilruba
   Dekh kar jis ko sawera roz hota tha mera
   Dekh kar chehra wohi ab bar sar-e-nok-e-sinaaṅ
   Ji nahiṅ paaegi maaṅ
@@ -32,7 +32,7 @@ romanLyrics: |-
   3
   Fajr ka jab waqt hoga yaad aaegi teri
   Maaṅ musalle par bhi tera gham manaane jaaegi
-  Jab tere lahje mein beta sun na paaegi azaaṅ
+  Jab tere lahje meiṅ beta sun na paaegi azaaṅ
   Ji nahiṅ paaegi maaṅ
 
   4
@@ -43,7 +43,7 @@ romanLyrics: |-
 
   5
   Ye na socha tha tujhe kaandhoṅ pe Sarwar laaeṅge
-  Pal mein athaarah baras yuṅ raaegaaṅ ho jaaeṅge
+  Pal meiṅ athaarah baras yuṅ raaegaaṅ ho jaaeṅge
   Dekh kar tere jigar ka khun sine se rawaaṅ
   Ji nahiṅ paaegi maaṅ
 
@@ -55,7 +55,7 @@ romanLyrics: |-
 
   7
   Laash par bete ki Yasir ghash pe ghash khaati thi wo
-  Hosh mein aate hi phir behosh ho jaati thi wo
+  Hosh meiṅ aate hi phir behosh ho jaati thi wo
   Laash ke shaane hila kar de rahi thi ye azaaṅ
   Ji nahiṅ paaegi maaṅ
 # source_id: nohayonline:253de3d0b3fffe17f292

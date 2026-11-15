@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Dunya mein jo bedaari ki aawaaz hai har jaa
+  Dunya meiṅ jo bedaari ki aawaaz hai har jaa
   Hai bint-e-Payambar tere Shabbir ka sadqa
 
   1
@@ -57,7 +57,7 @@ romanLyrics: |-
   Haq baat bataana tum bhi wahiṅ
   Labbaik ya Husain labbaik ya Husain
   Aur nakhwat-e-baatil ko aage
-  Barh kar mitti mein mila dena
+  Barh kar mitti meiṅ mila dena
 
   Chaahe ye jaaṅ chali jaaye
   Ghar baar bhi apna luta dena
@@ -66,10 +66,10 @@ romanLyrics: |-
   Labbaik ya Husain labbaik ya Husain
 
   7
-  Hai ye bhi faraaiz mein shaamil
+  Hai ye bhi faraaiz meiṅ shaamil
   Aur hai ye ibaadat bhi kaamil
   Labbaik ya Husain labbaik ya Husain
-  Tukroṅ mein bati is millat mein
+  Tukroṅ meiṅ bati is millat meiṅ
   Wahdat ke phul khila dena
 
   Chaahe ye jaaṅ chali jaaye
@@ -120,7 +120,7 @@ romanLyrics: |-
   11
   Jab shish maaha yaad aa jaaye
   Aur pyaas bhi us ki tarpaaye
-  Tum apne gharoṅ mein sharbat par
+  Tum apne gharoṅ meiṅ sharbat par
   Asghar ki nazr dila dena
 
   Chaahe ye jaaṅ chali jaaye

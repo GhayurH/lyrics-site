@@ -12,63 +12,63 @@ aliases: []
 published: true
 romanLyrics: |-
   Sultan-e-zaman aa gaye wa hasrat o darda
-  Maidaan-e-bala mein
+  Maidaan-e-bala meiṅ
   Zainab ne suna maadar-e-dilgir ka noha
-  Jangal ki hawa mein
+  Jangal ki hawa meiṅ
 
   1
   Samaan utarne laga manzil hui aakhir
   Aa pahunche musafir
   Aate hi ghira Ahmad-e-Mukhtaar ka kunba
-  Andoh o bala mein
+  Andoh o bala meiṅ
 
   2
   Khulne lage hathyaar shujaaan-e-Arab ke
   Paa band-e-adab ke
   Abbas-e-alamdaar lagaane lage khaima
-  Darya ki fiza mein
+  Darya ki fiza meiṅ
 
   3
   Har ek namazi ka hai khaaliq ki taraf dil
   Taaat pe hai maail
   Masruf hai paighambar-e-aalam ka nawaasa
-  Ummat ki dua mein
+  Ummat ki dua meiṅ
 
   4
-  Jangal ki hawaaoṅ se maras mein hai taraqqi
+  Jangal ki hawaaoṅ se maras meiṅ hai taraqqi
   Aankheṅ nahiṅ khulti
   Pukaarta hai jigar zehr ka hai zaaiqa sa
-  Aabid ko dawa mein
+  Aabid ko dawa meiṅ
 
   5
   Shabbir ke chehre pe bahaali ke haiṅ aasaar
   Hans dete haiṅ har baar
   Farmaate haiṅ ab kaahe ko hone laga arsa
-  Waade ki wafa mein
+  Waade ki wafa meiṅ
 
   6
   Jhonke jo kabhi garm hawaaoṅ ke haiṅ chalte
   Bachche haiṅ dehelte
   Sayyidaaniyoṅ ka waqt har ek dam hai guzarta
-  Faryaad o buka mein
+  Faryaad o buka meiṅ
 
   7
   Garmi se dil-e-Asghar-e-naadaaṅ hai dharakta
   Taalu hai lapakta
   Ik hasrat o andoh ka andaaz hai paida
-  Ghungru ki sada mein
+  Ghungru ki sada meiṅ
 
   8
   Kuchh soch ke karti hai fughaaṅ Zainab-e-naachaar
   Kehti hai ye har baar
   Ye kya hua hum bekasoṅ ka qaafila utra
-  Kis dasht-e-bala mein
+  Kis dasht-e-bala meiṅ
 
   9
   Mohsin ke jigar bandoṅ se sab phir gaye kuffaar
   Ho laanat-e-Ghaffaar
-  Baaqi nahiṅ Masroor asar khalq o wafa ka
-  Dunya ki hawa mein
+  Baaqi nahiṅ Masrur asar khalq o wafa ka
+  Dunya ki hawa meiṅ
 # source_id: nohayonline:182e3ad7811af320594d
 # source_url: https://www.nohayonline.com/details_content.php?id=2023
 # raw_sha256: 96ac38bfe644eda17d736ed08c09fb04143d0343027019e2826289c91d0a2c66

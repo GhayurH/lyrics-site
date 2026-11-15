@@ -15,7 +15,7 @@ romanLyrics: |-
 
   1
   Raat andheri darauna jangal
-  Asghar mere qabr mein akele hoṅge
+  Asghar mere qabr meiṅ akele hoṅge
 # source_id: nohayonline:e44906834fdcf9dc7c8d
 # source_url: https://www.nohayonline.com/details_content.php?id=2184
 # raw_sha256: 94145de04224ce8bb379f245ad033bba1b2a4300d939f8c62997e4b27b53bda2

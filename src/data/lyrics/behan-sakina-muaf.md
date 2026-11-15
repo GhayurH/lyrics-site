@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Behan Sakina muaaf karna
-  Rihaai bhi main dila na paaya
+  Rihaai bhi maiṅ dila na paaya
   Lahad pe Sajjad ka tha nauha
   Ye bhai tujhko bacha na paaya
 
@@ -20,46 +20,46 @@ romanLyrics: |-
   Wo dur jo Baba ne the pehnaaye
   Wo Shimr ne is tarah se chhine
   Tujhe tamaachoṅ se Shimr ke
-  Main Ae meri pyaari bacha na paaya
+  Maiṅ Ae meri pyaari bacha na paaya
 
   2
   Wo bebasi se tera bilakna
   Jab aag daaman jala rahi thi
-  Main kitna majbur tha Sakina
+  Maiṅ kitna majbur tha Sakina
   Wo aag teri bujha na paaya
 
   3
   Tum uṅt ki pusht se bandhi thi
   Badan tha zakhmi lahu tha jaari
   Tarap rahi thi atash se jab tum
-  Main pyaas teri bujha na paaya
+  Maiṅ pyaas teri bujha na paaya
 
   4
   Wo yaas o hasrat se tera kehna
-  Ke qaid mein hai bahut andhera
+  Ke qaid meiṅ hai bahut andhera
   Charagh laa do bas ik khudara
-  Charagh bhi main jala na paaya
+  Charagh bhi maiṅ jala na paaya
 
   5
-  Main haal bhaiya kise bataauṅ
+  Maiṅ haal bhaiya kise bataauṅ
   Nahiṅ haiṅ ammu kahaaṅ haiṅ Baba
   Bulaaeṅ Baba ko mere bhaiya
-  Behan main unko bula na paaya
+  Behan maiṅ unko bula na paaya
 
   6
   Lita lo sine pe aaj bhai
   Ke yaad Baba ki aa rahi hai
   The itne lohe ke tan pe ke itne zewar
-  Behan main tujhko lita na paaya
+  Behan maiṅ tujhko lita na paaya
 
   7
   Tu kitni hasrat se puchhti thi
   Milegi kab qaid se rihaai
   Nahiṅ rihaai tera muqaddar
-  Behan main tujhko bata na paaya
+  Behan maiṅ tujhko bata na paaya
 
   8
-  Wo tauq o zanjir o hathkari mein
+  Wo tauq o zanjir o hathkari meiṅ
   Banaai kaise behan ki turbat
   Shamim likhe wo kaise manzar
   Jo mera maula bhula na paaya

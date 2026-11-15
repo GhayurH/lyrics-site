@@ -1,6 +1,6 @@
 ---
 title: "کبھی کبھی میں یہ سوچتا ہوں"
-alternateTitle: "Kabhi Kabhi Main Ye Sochta Hun"
+alternateTitle: "Kabhi Kabhi Maiṅ Ye Sochta Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,7 +9,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Kabhi kabhi main ye sochta hun, ye sochta hun kabhi kabhi main
+  Kabhi kabhi maiṅ ye sochta huṅ, ye sochta huṅ kabhi kabhi maiṅ
 
   1
   Adam ko jis ne wujud bakhsha
@@ -19,62 +19,62 @@ romanLyrics: |-
   Har ek zarre ko zindagi di
   Shuur ko jis ne agahi di
   Hai jis ka har shai pe naam kanda
-  Woh kaun hai jis ka main hun banda
+  Woh kaun hai jis ka maiṅ huṅ banda
 
   2
-  Ye aasman ye barasta sawan
+  Ye aasmaṅ ye barasta sawan
   Ye lehlahata mahakta gulshan
   Ye sabza o gul ka narm bistar
-  Ye kahkashan ki hasin chadar
+  Ye kahkashaṅ ki hasin chadar
   Ye chand suraj chamakte tare
   Azim qudrat ke ye nazare
-  Chamak rahe hain kis ki chah mein ye
-  Mahak rahe hain kis ki raah mein ye
+  Chamak rahe haiṅ kis ki chah meiṅ ye
+  Mahak rahe haiṅ kis ki raah meiṅ ye
 
   3
-  Woh nur jis mein hai nur us ka
-  Woh fahm jis mein shuur us ka
-  Woh nafs jis mein woh samaya
+  Woh nur jis meiṅ hai nur us ka
+  Woh fahm jis meiṅ shuur us ka
+  Woh nafs jis meiṅ woh samaya
   Woh jism jis ka nahi hai saaya
   Jo paikar-e-nur-e-bebaha hai
   Tamam aalam ka aasra hai
-  Zamin pe rahmat ka aasman hai
+  Zamiṅ pe rahmat ka aasmaṅ hai
   Falak pe kis ka woh mehman hai
 
   4
-  Zamin hai na ye aasman hai
-  Ajib aalam ajab samaan hai
-  Nihan nahi hai na woh ayaan hai
-  Hai koi maujud par kahan hai
-  Udhar yaqin hai idhar guman hai
-  Bas ek parda sa darmiyan hai
-  Nikal rahe hain ye kis ke baazu
+  Zamiṅ hai na ye aasmaṅ hai
+  Ajib aalam ajab samaaṅ hai
+  Nihaṅ nahi hai na woh ayaaṅ hai
+  Hai koi maujud par kahaṅ hai
+  Udhar yaqiṅ hai idhar gumaṅ hai
+  Bas ek parda sa darmiyaṅ hai
+  Nikal rahe haiṅ ye kis ke baazu
   Simat rahi hai had-e-ma o tu
 
   5
   Muhammad-e-Mustafa se pahle
-  Qadam kisi ke yahan na pahunche
-  Yahan se bhi kuch zara sa aage
-  Jahan pe jalwe hain la-makan ke
+  Qadam kisi ke yahaṅ na pahunche
+  Yahaṅ se bhi kuch zara sa aage
+  Jahaṅ pe jalwe haiṅ la-makan ke
   Jo lutf ko tazgi de raha hai
   Nabi ko aawaz de raha hai
   Shanasa lagta hai lehja jis ka
   Ye kaun hai kya hai naam us ka
 
   6
-  Jahan miyan-e-Khuda o banda
+  Jahaṅ miyaṅ-e-Khuda o banda
   Wujud mumkin nahi kisi ka
-  Yahan pe mehman ka saath dene
-  Nabi ke haathon mein haath dene
-  Jo nur paikar mein dhal raha hai
+  Yahaṅ pe mehmaṅ ka saath dene
+  Nabi ke haathoṅ meiṅ haath dene
+  Jo nur paikar meiṅ dhal raha hai
   Ye haath jis ka nikal raha hai
   Khuda numa hai ke ye Khuda hai
   Khuda nahi hai to aur kya hai
 
   7
   Khudaya mujhko maaf kar de
-  Nigah mein Haq ka nur bhar de
-  Ye parda-e-darmiyan utha de
+  Nigah meiṅ Haq ka nur bhar de
+  Ye parda-e-darmiyaṅ utha de
   Haqiqat-e-Murtaza dikha de
   Habib ka wasta hai tujhko
   Ilahi itna bata de mujhko
@@ -82,24 +82,24 @@ romanLyrics: |-
   Tera hi hai ya Ali ka ghar hai
 
   8
-  Makan hai ye tu la-makan hai
-  Kise pata teri had kahan hai
-  Koi nahi aur jis se puchhun
-  Na tujh se puchhun to kis se puchhun
-  Ghata ki surat mein log phirte
+  Makaṅ hai ye tu la-makaṅ hai
+  Kise pata teri had kahaṅ hai
+  Koi nahi aur jis se puchhuṅ
+  Na tujh se puchhuṅ to kis se puchhuṅ
+  Ghata ki surat meiṅ log phirte
   Gidar-e-Kaaba ke gird phirte
-  Ye kis pe sajde guzarte hain
-  Ye kis ko aakhir pukarte hain
+  Ye kis pe sajde guzarte haiṅ
+  Ye kis ko aakhir pukarte haiṅ
 
   9
   Ali ka chehra Ali ke baazu
-  Ali ki aankhein Ali ke gesu
+  Ali ki aankheiṅ Ali ke gesu
   Ali ka jism aur Ali ki khushbu
-  Ali ki rag rag mein hai rawan tu
+  Ali ki rag rag meiṅ hai rawaṅ tu
   Har ek karwat har ek pahlu
   Nahi koi farq saare mo
-  Har ek ada mein teri hi khubi
-  Hai tu Ali ya Ali mein hai tu
+  Har ek ada meiṅ teri hi khubi
+  Hai tu Ali ya Ali meiṅ hai tu
 
   10
   Ajab hai banda Khuda numa hai
@@ -113,81 +113,81 @@ romanLyrics: |-
 
   11
   Nida ye aayi na bahko itna
-  Zaban kholo hai ilm jitna
+  Zabaṅ kholo hai ilm jitna
   Woh bistar-e-nur jis pe so kar
   Woh haath jin par buland ho kar
-  Zamin se main aasman hua hun
-  Bara-e-wahm o guman hua hun
-  Woh asl hai aur usul hun main
-  Sharik-e-nur-e-Rasul hun main
+  Zamiṅ se maiṅ aasmaṅ hua huṅ
+  Bara-e-wahm o gumaṅ hua huṅ
+  Woh asl hai aur usul huṅ maiṅ
+  Sharik-e-nur-e-Rasul huṅ maiṅ
 
   12
-  Woh nur mein jab pighal raha tha
-  Main saath karwat badal raha tha
-  Falak se jab woh zamin pe aaya
-  Main aaya saath us ke ban ke saaya
-  Woh arsh par jab ye mehman tha
-  Wahan pe main shakl-e-mezban tha
-  Kahin na chhora tha saath us ka
-  Hai kab se haathon mein haath us ka
+  Woh nur meiṅ jab pighal raha tha
+  Maiṅ saath karwat badal raha tha
+  Falak se jab woh zamiṅ pe aaya
+  Maiṅ aaya saath us ke ban ke saaya
+  Woh arsh par jab ye mehmaṅ tha
+  Wahaṅ pe maiṅ shakl-e-mezbaṅ tha
+  Kahiṅ na chhora tha saath us ka
+  Hai kab se haathoṅ meiṅ haath us ka
 
   13
   Sharaf ye jo bhi mujhe mila hai
   Ye us ki khidmat ka hi sila hai
   Jo din-e-mehbub ka sitara
-  Khuda ne ghar mein mere utara
-  Sadaqaton ka usul ban kar
-  Woh aaye ghar mein Batul ban kar
+  Khuda ne ghar meiṅ mere utara
+  Sadaqatoṅ ka usul ban kar
+  Woh aaye ghar meiṅ Batul ban kar
   Jo paya-e-qalb-e-Mustafa hai
   Jo markaz-e-nur-e-Innama hai
 
   14
   Jo din-e-Haq par nikhar hai ye
   Usi ke dam ki bahar hai ye
-  Ye do jahan is ke waste hain
-  Woh gul isi shaakh par khile hain
+  Ye do jahaṅ is ke waste haiṅ
+  Woh gul isi shaakh par khile haiṅ
   Hasan se sartaj-e-dojahan hai
-  Husain surkhi-e-gulistan hai
+  Husain surkhi-e-gulistaṅ hai
   Inhi se hai hashr ki raah roshan
   Hai kalma-e-La Ilaha roshan
 
   15
   Husain apna jo sar na dete
-  Rah-e-wafa mein jo ghar na dete
+  Rah-e-wafa meiṅ jo ghar na dete
   Diya tha pehra nazr na dete
   Na mere Abbas dete baazu
   Jo sar se Zainab rida na deti
   Jo naqsh-e-batil mita na deti
   To jaanta kaun din kya hai
-  Taraz-e-fath-e-mubin kya hai
+  Taraz-e-fath-e-mubiṅ kya hai
 
   16
   Khuda ke munkir Hubl ke bande
-  Kaduratein dil mein zehn gande
-  Munafiqat ki abayein daale
+  Kadurateiṅ dil meiṅ zehn gande
+  Munafiqat ki abayeiṅ daale
   Hasad ke tan pe sajaye bhaale
-  Safon mein Islam ki sama kar
+  Safoṅ meiṅ Islam ki sama kar
   Wujud se zyada qad barha kar
   Jo kalma-e-Haq mitane nikle
   Husain sar ko katane nikle
 
   17
   Woh Fatima ke jigar ka para
-  Woh khun mein apne duba tara
+  Woh khun meiṅ apne duba tara
   Woh bhukha pyasa nidhal tanha
   Bashariyat ka kamal tanha
-  Luta ke rah-e-wafa mein ghar ko
-  Kata ke rah-e-Khuda mein sar ko
+  Luta ke rah-e-wafa meiṅ ghar ko
+  Kata ke rah-e-Khuda meiṅ sar ko
   Baqa ke doshe gira ke utha
-  Utha to nok-e-sinaan pe utha
+  Utha to nok-e-sinaaṅ pe utha
 
   18
   Usul-e-din ka kamal ban kar
   Yazidiyat ka jawab ban kar
-  Madine se aaj Karbala mein
-  Husain sehra-e-Nainawa mein
+  Madine se aaj Karbala meiṅ
+  Husain sehra-e-Nainawa meiṅ
   Jo din-e-Haq ki baqa ki khatir
-  Rah-e-Khuda mein Khuda ki khatir
+  Rah-e-Khuda meiṅ Khuda ki khatir
   Husain ne kul kamai de di
   Khuda ne saari khudai de di
 
@@ -199,7 +199,7 @@ romanLyrics: |-
   Wohi hai manzil uluhiyat ki
   Wohi to hadd hai qubuliyat ki
   Wohi hai sajda Shah-e-do-Aalam
-  Husain ka sar jahan par hai kham
+  Husain ka sar jahaṅ par hai kham
 
   20
   Bashar ka sar fakhr se utha hai
@@ -213,13 +213,13 @@ romanLyrics: |-
 
   21
   Ae mahram-e-raz-e-Kunfakan aa
-  Ae bazm-e-wahdat ke razdan aa
+  Ae bazm-e-wahdat ke razdaṅ aa
   Ae mutmain nafs-e-dojahan aa
-  Zaminon par Haq ke aasman aa
-  Tamam rahein saji hui hain
-  Falak ki bahein khuli hui hain
-  Ye kaf o kaun o makan pe chha ja
-  Tu nur hai nur mein sama ja
+  Zaminoṅ par Haq ke aasmaṅ aa
+  Tamam raheiṅ saji hui haiṅ
+  Falak ki baheiṅ khuli hui haiṅ
+  Ye kaf o kaun o makaṅ pe chha ja
+  Tu nur hai nur meiṅ sama ja
 # source_note: personal notebook ODT import on 2026-11-08; no unique source record ID
 # editorial_note: Notebook has divergent Roman and Urdu stanzas; both reconciled by meaning and full wording needs independent audio confirmation
 ---

@@ -18,7 +18,7 @@ romanLyrics: |-
   Jab se ye manzar hadd-e-nazar hai
 
   2
-  Saath safar mein lashkar-e-qaatil
+  Saath safar meiṅ lashkar-e-qaatil
   Ahl-e-haram qaid dur hai manzil
   Shaam ki kaisi ye rahguzar hai
 
@@ -30,7 +30,7 @@ romanLyrics: |-
   4
   Ishq o wafa ke madrase jis ke
   Ilm o hunar ke maikade jis ke
-  Haaṅ wohi saqqa khun mein tar
+  Haaṅ wohi saqqa khun meiṅ tar
 
   5
   Kaate gae haiṅ haath jo is ke
@@ -39,16 +39,16 @@ romanLyrics: |-
 
   6
   Nok-e-sinaaṅ par jo na ruka sar
-  Ghore ki gardan mein wo bandha sar
+  Ghore ki gardan meiṅ wo bandha sar
   Kaisi qayaamat ki ye khabar hai
 
   7
   Nanhe se bachche puchhte saare
   Kah do kahaaṅ haiṅ ammu hamaare
-  Bachchoṅ ke dil mein Shimr ka dar hai
+  Bachchoṅ ke dil meiṅ Shimr ka dar hai
 
   8
-  Dhup mein saaya dhundh rahe haiṅ
+  Dhup meiṅ saaya dhundh rahe haiṅ
   Tuti saanseṅ jor rahe haiṅ
   Kya kahe Zainab dida-e-tar hai
 
@@ -70,7 +70,7 @@ romanLyrics: |-
   12
   Kaise raqam ho dard wafa se
   Harf bayaaṅ ho kaise Shuja se
-  Khun mein Hashim ka jo qamar hai
+  Khun meiṅ Hashim ka jo qamar hai
 # source_id: ziyaraat:b5469f963189a86cb7d8
 # source_url: https://www.ziyaraat.net/api/noha/2737
 # raw_sha256: 0186f63c365eca09bce4024d0c11d13737d8333f268d9ff5536340b4691695d7

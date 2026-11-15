@@ -12,10 +12,10 @@ aliases: []
 published: true
 romanLyrics: |-
   Darya se koi jaa kar Ghazi ko bula laaye
-  Aisa na ho ghurbat mein ghar Zehra ka lut jaaye
+  Aisa na ho ghurbat meiṅ ghar Zehra ka lut jaaye
 
   1
-  Ik baap zaifi ke aalam mein akela hai
+  Ik baap zaifi ke aalam meiṅ akela hai
   Aur sher se bete ke laashe ko uthaana hai
   Koi to sahaara de lillaah koi aaye
 
@@ -25,29 +25,29 @@ romanLyrics: |-
   Kya baat hui ab tak Abbas nahiṅ aaye
 
   3
-  Hai laakhoṅ adu ran mein aur Sibt-e-Nabi tanha
+  Hai laakhoṅ adu ran meiṅ aur Sibt-e-Nabi tanha
   Zakhmi hai bahut zakhmi pyasa hai bahut pyasa
   Mazlum ki gardan par shamshir na chal jaaye
 
   4
-  Zainab ka jari bhai maara gaya maqtal mein
-  Ghabraai hui behna insaanoṅ ke jangal mein
+  Zainab ka jari bhai maara gaya maqtal meiṅ
+  Ghabraai hui behna insaanoṅ ke jangal meiṅ
   Ik ek se ro ro kar ye kehti rahi haaye
 
   5
-  Mazlumoṅ ke khaimoṅ mein ab gham ka basera hai
+  Mazlumoṅ ke khaimoṅ meiṅ ab gham ka basera hai
   Kal tak thi jahaaṅ raunaq ab gehra andhera hai
   Shaam aa gai ghurbat ki taarik hue saaye
 
   6
   Saadaat ke khaimoṅ ko hai ghere hue shole
   Kehti hai Nabi zaadi ghabraai hui ro ke
-  Ghar lut gaya is ban mein chaadar bhi na chhin jaaye
+  Ghar lut gaya is ban meiṅ chaadar bhi na chhin jaaye
 
   7
   Haalat hai ajab Gohar maasum Sakina ki
   Khuṅ behta hai kaanoṅ se lagte haiṅ tamaanche bhi
-  Naazoṅ mein pali bachchi ro ro ke na mar jaaye
+  Naazoṅ meiṅ pali bachchi ro ro ke na mar jaaye
 # source_id: nohayonline:02f7386d97bc20a8374e
 # source_url: https://www.nohayonline.com/details_content.php?id=1922
 # raw_sha256: ec8a37b38c5f289e38b8e1eabc289b71edce4d116572bb8ba3a7c974d4cca3fd

@@ -12,10 +12,10 @@ aliases: []
 published: true
 romanLyrics: |-
   Ae parcham-e-Abbas pharere ki hawa de
-  Bas jaaye jo saansoṅ mein woh khushbu-e-wafa de
+  Bas jaaye jo saansoṅ meiṅ woh khushbu-e-wafa de
 
   1
-  Baandhi hui ek mashk-e-Sakina hai alam mein
+  Baandhi hui ek mashk-e-Sakina hai alam meiṅ
   Ghaazi tere parcham ki ye pehchaan kara de
 
   2
@@ -28,7 +28,7 @@ romanLyrics: |-
 
   4
   Ye soch ke jaati hai Sakina su-e-darya
-  Ammu mere daaman mein lagi aag bujha de
+  Ammu mere daaman meiṅ lagi aag bujha de
 
   5
   Kehti rahi maadar se watan jaayeṅge kab tak
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   6
   Thukraaya hai baiat ko yuṅ Shabbir ne Azhar
-  Hai kaun jo dunya mein sawaal is ka utha de
+  Hai kaun jo dunya meiṅ sawaal is ka utha de
 # source_id: nohayonline:278afaebbb2f3597bfc8
 # source_url: https://www.nohayonline.com/details_content.php?id=756
 # raw_sha256: ace5e80469e8358cfcada6d877c450c508749095db13c4b2dc3526e607f37c82

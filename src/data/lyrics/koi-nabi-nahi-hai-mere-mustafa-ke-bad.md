@@ -19,19 +19,19 @@ romanLyrics: |-
   2
   Itne sitam hue haiṅ Muhammad ki Aal par
   Hoti rahi hai ibtida har inteha ke baad
-  Jaisi parhi Husain ne tiroṅ ki chhaoṅ mein
+  Jaisi parhi Husain ne tiroṅ ki chhaoṅ meiṅ
   Aisi namaaz phir na hui Karbala ke baad
 
   3
   Qaatil ko bhi ata kiya sharbat Huzur ne
   Itna karam hai logo itni jafa ke baad
-  Abbas tere naam ko main apne ishq se
+  Abbas tere naam ko maiṅ apne ishq se
   Pehle wafa ke likhuṅ ya likhuṅ wafa ke baad
 
   4
   Shabbir keh ke bhai bulaate rahe jise
   Hur aur kya sawaal kare is ata ke baad
-  Darbaar-e-Shaam mein kaha Zainab ne sun Yazid
+  Darbaar-e-Shaam meiṅ kaha Zainab ne sun Yazid
   Darte nahiṅ kisi se bhi ham to Khuda ke baad
 # source_id: tajpoints:0d38e3b197b93f55467a
 # source_url: https://tajpoints.com/2023/09/koi-nabi-nahi-hai-mere-mustafa-ke-bad.html

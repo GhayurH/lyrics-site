@@ -10,7 +10,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Kis qaum mein rawaaṅ hai paani ka band karna
+  Kis qaum meiṅ rawaaṅ hai paani ka band karna
   Aal-e-Nabi ko pyaasa kis ne zabh kiya hai
 
   1
@@ -27,7 +27,7 @@ romanLyrics: |-
 
   4
   Zainab se koi puchhe kaise mari Sakina
-  Zindaan mein akeli dam jis ka ghut gaya hai
+  Zindaan meiṅ akeli dam jis ka ghut gaya hai
 
   5
   Kya Hurmala ne jaana pyaasa nahiṅ tha Asghar

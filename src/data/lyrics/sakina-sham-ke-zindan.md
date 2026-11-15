@@ -11,7 +11,7 @@ tags: []
 aliases: ["Sakina Sham Ke Zindan"]
 published: true
 romanLyrics: |-
-  Sakina Shaam ke zindaan mein ro ro ke karti thi bayaaṅ
+  Sakina Shaam ke zindaan meiṅ ro ro ke karti thi bayaaṅ
   Ji nahiṅ sakti tumhaare bin ae mere baba jaaṅ
 
   1
@@ -27,21 +27,21 @@ romanLyrics: |-
   3
   Karbala se Shaam tak dhaaye gaye mujh par sitam
   Shimr ne maare tamaache taaziyaane dam badam
-  Paaoṅ mein chhaale the mere aur gale mein rismaaṅ
+  Paaoṅ meiṅ chhaale the mere aur gale meiṅ rismaaṅ
 
   4
   Bhai Aabid ki sunaauṅ tum ko kaise daastaaṅ
-  Un ko zanjiroṅ mein jakra zaalimoṅ ne baba jaaṅ
+  Un ko zanjiroṅ meiṅ jakra zaalimoṅ ne baba jaaṅ
   Hote na un par sitam ye aap jo hote yahaaṅ
 
   5
-  Zulmat-e-shab mein meri ammaṅ ye deti hai sada
+  Zulmat-e-shab meiṅ meri ammaṅ ye deti hai sada
   Ae mere shashmaah Asghar kiuṅ hue maaṅ se juda
   Ye bata do mera nanha bhai Asghar hai kahaaṅ
 
   6
   Shaam ko ghar jaate haiṅ sab taairaan-e-aasmaaṅ
-  Kab Madine jaauṅ gi main ae mera tashna dahaaṅ
+  Kab Madine jaauṅ gi maiṅ ae mera tashna dahaaṅ
   Kab miluṅ gi jaa ke Sughra se meri jo hai wahaaṅ
 
   7
@@ -50,13 +50,13 @@ romanLyrics: |-
   Chhor kar mujh ko na jaane jaa chuke haiṅ wo kahaaṅ
 
   8
-  Yaad mein aankhoṅ se mere khun ke aansu behte haiṅ
-  Zinda laashoṅ ki tarah is qaid mein ham rehte haiṅ
+  Yaad meiṅ aankhoṅ se mere khun ke aansu behte haiṅ
+  Zinda laashoṅ ki tarah is qaid meiṅ ham rehte haiṅ
   Ham pe girya kar rahe haiṅ ye zamin o aasmaaṅ
 
   9
   Bhai ki chaahat kahaaṅ aur aap ki shafqat kahaaṅ
-  Sine pe so jaauṅ main aisi meri qismat kahaaṅ
+  Sine pe so jaauṅ maiṅ aisi meri qismat kahaaṅ
   Bhai Akbar yaad aate haiṅ jo sunti huṅ azaaṅ
 
   10

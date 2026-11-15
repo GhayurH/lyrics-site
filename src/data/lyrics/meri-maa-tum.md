@@ -12,39 +12,39 @@ aliases: []
 published: true
 romanLyrics: |-
   Meri maaṅ tum mera gham na karna
-  Be zubaaṅ ne ye jhule se aawaaz di
+  Bezubaaṅ ne ye jhule se aawaaz di
   Apne Asghar ka lo ab salaam aakhri
 
   1
-  Ran mein jis waqt hal min ki gunji sada
+  Ran meiṅ jis waqt hal min ki gunji sada
   Muztarib ho gaya Shah ka mah laqa
-  Khaima-e-Shaah mein shor-e-girya utha
-  Apni maaṅ se ishaaroṅ mein kehne laga
+  Khaima-e-Shaah meiṅ shor-e-girya utha
+  Apni maaṅ se ishaaroṅ meiṅ kehne laga
   Mere Baba ko hai ab zarurat meri
   Un ki haathoṅ pe hogi shahaadat meri
 
   2
   Farz Ansaar apna adaa kar chuke
   Tegh khaa kar gire su-e-Kausar gaye
-  Ek Aabid hai bas wo hai ghash mein pare
+  Ek Aabid hai bas wo hai ghash meiṅ pare
   Kaun Baba ki jaa kar madad ab kare
   Ran ko jaana hai ab zimmedaari meri
   Aa gayi jaan dene ki baari meri
 
   3
-  Laash-e-Qaasim ke maidaaṅ mein tukre hue
+  Laash-e-Qaasim ke maidaaṅ meiṅ tukre hue
   Maaṅ ki aankhoṅ se lekin na aansu bahe
   Jaan dene phuphi ke dulaare gaye
   Shukr ke waaste maaṅ ne sajde kiye
-  Main huṅ Asghar magar azm Akbar ka hai
-  Meri rag rag mein bhi khuṅ Haidar ka hai
+  Maiṅ huṅ Asghar magar azm Akbar ka hai
+  Meri rag rag meiṅ bhi khuṅ Haidar ka hai
 
   4
   Bolna tak abhi mujh ko aaya nahiṅ
   Nanhe haathoṅ se kuch bhi uthaaya nahiṅ
-  Tir o shamshir main ne chalaaya nahiṅ
+  Tir o shamshir maiṅ ne chalaaya nahiṅ
   Jang karna kisi ne sikhaaya nahiṅ
-  Mere haathoṅ mein neza na talwaar hai
+  Mere haathoṅ meiṅ neza na talwaar hai
   Bas ye sukhi zubaaṅ mera hathyaar hai
 
   5
@@ -53,23 +53,23 @@ romanLyrics: |-
   Jis ke shaane kate us ka maatam karo
   Mera kya hai suno meri maadar suno
   Chhe mahine ka huṅ kuch bhi dekha nahiṅ
-  Soch lena main duniya mein aaya nahiṅ
+  Soch lena maiṅ duniya meiṅ aaya nahiṅ
 
   6
   Meri khwaahar Sakina ko batlaaiye
   Ab na aayeṅge ammu ye samjhaaiye
   Raat aaye to sine se liptaaiye
   Mera gham chhoriye us ko behlaaiye
-  Koi zid hi karuṅ ga na rouṅ ga main
-  Ab se Baba ke sine pe souṅ ga main
+  Koi zid hi karuṅ ga na rouṅ ga maiṅ
+  Ab se Baba ke sine pe souṅ ga maiṅ
 
   7
   Dekhi maadar ne Anwar jo laash-e-pisar
   Gham se dil phat gaya gir pari khaak par
   Ro ke kehne lagi pit kar apna sar
   Ae mere laal ae mere nur-e-nazar
-  Dekh kar tera gehwaara ji luṅ gi main
-  Keh gaye ho to ab ashk pi luṅ gi main
+  Dekh kar tera gehwaara ji luṅ gi maiṅ
+  Keh gaye ho to ab ashk pi luṅ gi maiṅ
 # source_id: nohayonline:6269e05a27cdfd529a4b
 # source_url: https://www.nohayonline.com/details_content.php?id=3171
 # raw_sha256: 74b24d05af1c568129395e73105b5a55481715eaea7ed030836a2e5fd36338df

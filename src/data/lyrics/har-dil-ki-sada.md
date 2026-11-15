@@ -25,7 +25,7 @@ romanLyrics: |-
 
   2
   Aadam ke dam ke muhaafiz ho tum
-  Musa ki haibat mein naafiz ho tum
+  Musa ki haibat meiṅ naafiz ho tum
   Isa ka tum maujiza tum Khizr ke rahnuma
   Ya Husain ya Husain
 
@@ -36,8 +36,8 @@ romanLyrics: |-
   Ya Husain ya Husain
 
   4
-  Yeh hausla to kisi mein nahiṅ
-  Quwwat kisi yeh Nabi mein nahiṅ
+  Yeh hausla to kisi meiṅ nahiṅ
+  Quwwat kisi yeh Nabi meiṅ nahiṅ
   Tu ne uthaaye magar baazu-e-Shaah-e-Wafa
   Ya Husain ya Husain
 
@@ -48,13 +48,13 @@ romanLyrics: |-
   Ya Husain ya Husain
 
   6
-  Is gham mein kaaṅpe zamiṅ aasmaaṅ
-  Is gham mein tarpe yeh kaun o makaaṅ
+  Is gham meiṅ kaaṅpe zamiṅ aasmaaṅ
+  Is gham meiṅ tarpe yeh kaun o makaaṅ
   Asghar ka tu ne lahu chehre pe kaise mala
   Ya Husain ya Husain
 
   7
-  Ran mein musibat yeh tum par pari
+  Ran meiṅ musibat yeh tum par pari
   Tum par qayaamat ki thi yeh ghari
   Khanjar tale haath jab maaṅ ne teri rakh diya
   Ya Husain ya Husain
@@ -62,7 +62,7 @@ romanLyrics: |-
   8
   Aisi kisi ki bhi mayyat nahiṅ
   Yasir kisi ki yeh ghurbat nahiṅ
-  Taarikh mein ik hai tiroṅ pe laasha tera
+  Taarikh meiṅ ik hai tiroṅ pe laasha tera
   Ya Husain ya Husain
 # source_id: nohayonline:cfe602b98200e9852bcf
 # source_url: https://www.nohayonline.com/details_content.php?id=1680

@@ -10,10 +10,10 @@ tags: []
 aliases: ["Ek Yateem Aisi Bhi"]
 published: true
 romanLyrics: |-
-  Raah mein naaqe se jab gir gayi chhoti Zahra
-  God mein ek zaifa ne use thaam liya
+  Raah meiṅ naaqe se jab gir gayi chhoti Zahra
+  God meiṅ ek zaifa ne use thaam liya
   Sar pe jab haath rakha ro ke Sakina ne kaha
-  Jab se Baaba se main bichhri huṅ bahut maara gaya
+  Jab se Baaba se maiṅ bichhri huṅ bahut maara gaya
   Mere gaaloṅ pe tamaanchoṅ ke nishaaṅ haiṅ Bibi
   Tum ne dekhi hai mere jaisi yatima koi
 
@@ -23,12 +23,12 @@ romanLyrics: |-
   Tum se pehle ek yatima aisi bhi thi
 
   1
-  Haaṅ tumhaare watan mein hi rehti thi wo
+  Haaṅ tumhaare watan meiṅ hi rehti thi wo
   Baadshaah-e-Madina ki beti thi wo
   Baap ke baad itne masaaib pare
-  Apne ghar mein sahaare se chalti thi wo
+  Apne ghar meiṅ sahaare se chalti thi wo
   Gham uthaati rahi kham kamar ho gayi
-  Naujawaani mein hi jo zaifa hui
+  Naujawaani meiṅ hi jo zaifa hui
 
   2
   Zaalimoṅ ne yuṅ Baaba ka pursa diya
@@ -46,7 +46,7 @@ romanLyrics: |-
   Saamne us ko betoṅ ke maara gaya
   Waqt ye na kisi maaṅ pe aaye kabhi
   Shaahzaadi suno kitni bebas thi wo
-  Ghar mein bachchoṅ se chehra chhupaati thi jo
+  Ghar meiṅ bachchoṅ se chehra chhupaati thi jo
 
   4
   Jis tarah tere kaanoṅ se hai khuṅ rawaaṅ
@@ -61,14 +61,14 @@ romanLyrics: |-
   Aur maasum aansu bahaati rahi
   Paani uth uth ke jis ko pilaati thi wo
   Loriyaaṅ de ke jis ko sulaati thi wo
-  Haath chaadar mein us se chhupaane lagi
+  Haath chaadar meiṅ us se chhupaane lagi
   Haath phaila ke jis ko bulaati thi wo
   Kaise kehti wo maaṅ mere dil meri jaaṅ
   Taaziyaanoṅ se zakhmi haiṅ sab ungliyaaṅ
 
   6
   Us ka marna bhi sab se chhupaaya gaya
-  Chaudah logoṅ mein ghar se janaaza utha
+  Chaudah logoṅ meiṅ ghar se janaaza utha
   Us ki chaalis qabreṅ banaai gayiṅ
   Bas ye sunte hi bachchi ne ro kar kaha
   Ae zaifa suno meri daadi thiṅ wo
@@ -77,7 +77,7 @@ romanLyrics: |-
   7
   Haath pehlu se apne uthaate hue
   Zakhmi chehre se parda hataate hue
-  Ae Raza aur Zeeshan rone lagiṅ
+  Ae Raza aur Zishan rone lagiṅ
   Ye Sakina ko Zehra bataate hue
   Mera wirsa ho tum mera chehra ho tum
   Ab samajh aaya kiuṅ chhoti Zehra ho tum

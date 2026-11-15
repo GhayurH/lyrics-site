@@ -58,7 +58,7 @@ romanLyrics: |-
   7
   Akbar jo chale marne ko dilgir hai Ghazi
   Dekhe to ye koi
-  Abbas-e-Alamdaar ki aaṅkhoṅ mein nami hai
+  Abbas-e-Alamdaar ki aaṅkhoṅ meiṅ nami hai
   Rukhsat ki ghari hai
 
   8

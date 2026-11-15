@@ -15,11 +15,11 @@ romanLyrics: |-
   Umr bhar khun rulaati rahi zindaan ki shaam
 
   1
-  Jab talak aati rahi kaanoṅ mein siski ki sada
-  Khaak zindaaṅ mein uraati rahi zindaan ki shaam
+  Jab talak aati rahi kaanoṅ meiṅ siski ki sada
+  Khaak zindaaṅ meiṅ uraati rahi zindaan ki shaam
 
   2
-  Qaid khaane mein bas ek shaam qayaamat guzri
+  Qaid khaane meiṅ bas ek shaam qayaamat guzri
   Phir to har shaam hi aati rahi zindaan ki shaam
 
   3
@@ -27,7 +27,7 @@ romanLyrics: |-
   Yuṅ Sakina ko sataati rahi zindaan ki shaam
 
   4
-  Gham Sakina ne jo raahoṅ mein sahe kam to na the
+  Gham Sakina ne jo raahoṅ meiṅ sahe kam to na the
   Gham magar aur barhaati rahi zindaan ki shaam
 
   5
@@ -39,7 +39,7 @@ romanLyrics: |-
   Sog har shaam manaati rahi zindaan ki shaam
 
   7
-  Gham jo Aabid ne sahe Shaam ke baazaaroṅ mein
+  Gham jo Aabid ne sahe Shaam ke baazaaroṅ meiṅ
   Saare gham yaad dilaati rahi zindaan ki shaam
 
   8
@@ -47,8 +47,8 @@ romanLyrics: |-
   Wo sitam kya the jo dhaati rahi zindaan ki shaam
 
   9
-  Maadar-e-Asghar-e-Beshir ko ae Noor Ali
-  Khwaab mein aake daraati rahi zindaan ki shaam
+  Maadar-e-Asghar-e-Beshir ko ae Nur Ali
+  Khwaab meiṅ aake daraati rahi zindaan ki shaam
 # source_id: nohayonline:74d23c20fa9f3810979a
 # source_url: https://www.nohayonline.com/details_content.php?id=1147
 # raw_sha256: f3a1c66afe05b3001537c8b6d1f65d41cf3148164da71c9f90fc14b945308ff0

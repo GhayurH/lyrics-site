@@ -1,6 +1,6 @@
 ---
 title: "انساں کے لئے موت ہے غم بے وطنی کا"
-alternateTitle: "Insan Ke Liye Maut Hai"
+alternateTitle: "Insaṅ Ke Liye Maut Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -23,9 +23,9 @@ romanLyrics: |-
 
   2
   Laakhoṅ hai adu jaaye kidhar jaan bacha ke
-  Aafat mein giraftaar hue Kufe mein aa ke
+  Aafat meiṅ giraftaar hue Kufe meiṅ aa ke
   Yaawar nahiṅ hamdam nahiṅ ghamkhwaar nahiṅ hai
-  Narghe mein hai aur koi madadgaar nahiṅ hai
+  Narghe meiṅ hai aur koi madadgaar nahiṅ hai
 
   3
   Hai sangdil aise wo jafaakaar o sitamgar
@@ -42,32 +42,32 @@ romanLyrics: |-
   5
   Gham ye hai ke hai dur Yadullah ka jaaya
   Shabbir ke haathoṅ se kafan ham ne na paaya
-  Duniya se su-e-khuld koi dam mein safar hai
+  Duniya se su-e-khuld koi dam meiṅ safar hai
   Yaaṅ ham pe jo kuchh ban gayi kya un ko khabar hai
 
   6
   Ye kahte the Muslim ke lainoṅ ne khazaara
   Ek sang-e-sitam is lab-e-majruh pa maara
-  Rish aur garebaan mein lahu bhar gaya saara
+  Rish aur garebaaṅ meiṅ lahu bhar gaya saara
   Jab haal ye puchha to kaha jang ka yaara
 
   7
-  Aadaa se kaha dil mein zara rahm to jaa do
+  Aadaa se kaha dil meiṅ zara rahm to jaa do
   Ghash aata hai paani mujhe thora sa pila do
   Kab sunte the bekas ka sukhan zulm ke baani
-  The qatl ki tadbir mein wo dushman-e-jaani
+  The qatl ki tadbir meiṅ wo dushman-e-jaani
 
   8
-  Le aayi zaifa wahiṅ ek jaam mein paani
+  Le aayi zaifa wahiṅ ek jaam meiṅ paani
   Qismat ne magar bujhne na di tashna dahaani
   Sukhi hui thi gul si zabaaṅ khushk gulu tha
   Us paani ko muṅh se jo lagaaya to lahu tha
 
   9
   Pheṅka use jab khaak pa baa dida-e-giryaaṅ
-  Ek jaam zaifa ne diya phir unheṅ us aan
-  Pine bhi nahiṅ paaya koi ghuṅt wo zishaan
-  Paani mein juda ho ke gire gauhar-e-dandaaṅ
+  Ek jaam zaifa ne diya phir unheṅ us aaṅ
+  Pine bhi nahiṅ paaya koi ghuṅt wo zishaaṅ
+  Paani meiṅ jura ho ke gire gauhar-e-dandaaṅ
 
   10
   Farmaaya ke saabit hua pyaase hi mareṅge
@@ -101,18 +101,18 @@ romanLyrics: |-
 
   15
   Mere liye kam hashr ke din se ye nahiṅ kam
-  Turbat se main nikli huṅ liye laasha-e-Mohsin
+  Turbat se maiṅ nikli huṅ liye laasha-e-Mohsin
   Mazlum ko tu qatl karta hai wo lekin
   Bin baap ke ho jaayeṅge bachche kai kamsin
 
   16
-  Khun sar pe na le chhor de aawaara watan ko
+  Khuṅ sar pe na le chhor de aawaara watan ko
   Kar raaṅd na Abbas-e-dilaawar ki behan ko
   Zehra ne kai baar tarap kar ye pukaara
   Kya dil tha ke mutlaq na dara wo sitam aara
 
   17
-  Zaalim ne kai zarb mein sar tan se utaara
+  Zaalim ne kai zarb meiṅ sar tan se utaara
   Phatta hai jigar ab nahiṅ goyaai ka yaara
   Likha hai chala le ke jo qaatil sar-e-Muslim
   Kothe ke tale pheṅk diya paikar-e-Muslim

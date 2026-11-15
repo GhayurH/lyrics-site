@@ -1,6 +1,6 @@
 ---
 title: "بیٹے کے قاتلوں سے ایک باپ پوچھتا ہے"
-alternateTitle: "Bete Ke Qatilon Se"
+alternateTitle: "Bete Ke Qatiloṅ Se"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -20,7 +20,7 @@ romanLyrics: |-
   2
   Dil par meri behan ke khanjar chala diya hai
   Kis ne hamaare ghar ka suraj bujha diya hai
-  Din mein andhera meri aaṅkhoṅ mein ho gaya hai
+  Din meiṅ andhera meri aaṅkhoṅ meiṅ ho gaya hai
   Akbar mera kahaaṅ hai
 
   3
@@ -30,8 +30,8 @@ romanLyrics: |-
   Akbar mera kahaaṅ hai
 
   4
-  Ghaazi ko tum ne maara main chup raha na bola
-  Akbar ko maara neza main chup raha na bola
+  Ghaazi ko tum ne maara maiṅ chup raha na bola
+  Akbar ko maara neza maiṅ chup raha na bola
   Tum se sawaal kar luṅ itna to haq mera hai
   Akbar mera kahaaṅ hai
 
@@ -44,7 +44,7 @@ romanLyrics: |-
   6
   Khaime se jab chala tha kehti thi meri behna
   Paamaal ho na jaae Akbar ki laash bhaiya
-  Kaanoṅ mein mere ab tak baaqi wohi sada hai
+  Kaanoṅ meiṅ mere ab tak baaqi wohi sada hai
   Akbar mera kahaaṅ hai
 
   7

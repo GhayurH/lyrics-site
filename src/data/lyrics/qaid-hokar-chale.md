@@ -18,14 +18,14 @@ romanLyrics: |-
 
   1
   Is tarah su-e-zindaan Farwa chali
-  Dahste ghurbat mein parh kar ye noha chali
-  Teri paamaaliyaaṅ kaise bhuluṅgi main
+  Dahste ghurbat meiṅ parh kar ye noha chali
+  Teri paamaaliyaaṅ kaise bhuluṅgi maiṅ
   Mere naazuk badan alwida alwida
 
   2
   Laash-e-Akbar pe ro kar ye kehti thi maaṅ
   Qaid hokar chali utho karyal jawaaṅ
-  Maaṅ phuphi behneṅ balwe mein haiṅ nange sar
+  Maaṅ phuphi behneṅ balwe meiṅ haiṅ nange sar
   Akbar-e-khasta tan alwida alwida
 
   3
@@ -37,12 +37,12 @@ romanLyrics: |-
   4
   Sochti huṅ yehi kaise zinda rahi
   Dekh kar teri gardan pe chalti chhuri
-  Qabr tak le ke jaauṅgi maa jaaye main
+  Qabr tak le ke jaauṅgi maa jaaye maiṅ
   Dil pe ranj o mehan alwida alwida
 
   5
   Jab ye aayi khabar ho gaye sab riha
-  Qaid khane mein ek hashr barpa hua
+  Qaid khane meiṅ ek hashr barpa hua
   Nanhi turbat pe Aabid ne ro kar kaha
   Ae Sakina behan alwida alwida
 

@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Itihaas ke pannoṅ par Qasim tera maatam hai
-  Karb o Bala ke ban mein Qasim tera maatam hai
+  Karb o Bala ke ban meiṅ Qasim tera maatam hai
 
   1
   Ahmed ke nawaase ho Shabbar ke dulaare ho
@@ -20,24 +20,24 @@ romanLyrics: |-
   Taarikh ke hontoṅ pe Qasim tera maatam hai
 
   2
-  Shaadi ke ewaz ran mein chhaai hai ghata gham ki
-  Taqdir mein dulha ke aai hai qaza ban ke
-  Kis aalam-e-ghurbat mein Qasim tera maatam hai
+  Shaadi ke ewaz ran meiṅ chhaai hai ghata gham ki
+  Taqdir meiṅ dulha ke aai hai qaza ban ke
+  Kis aalam-e-ghurbat meiṅ Qasim tera maatam hai
 
   3
   Sandal hai na mehndi hai kangan hai na sehra hai
-  Bas khun mein ghaltaaṅ sa naushaah ka laasha hai
+  Bas khun meiṅ ghaltaaṅ sa naushaah ka laasha hai
   Rote haiṅ Shah-e-waala Qasim tera maatam hai
 
   4
   Roti hai teri dulhan ek roz ki wo byaahi
-  Khaaliq ne muqaddar mein kya shaadi hai rachaai
-  Kubra teri qismat mein Qasim tera maatam hai
+  Khaaliq ne muqaddar meiṅ kya shaadi hai rachaai
+  Kubra teri qismat meiṅ Qasim tera maatam hai
 
   5
   Shabbir ke haathoṅ pe Qasim tera laasha hai
-  Kubra ki zindagi mein bachpan se andhera hai
-  Naamus-e-Mustafa mein Qasim tera maatam hai
+  Kubra ki zindagi meiṅ bachpan se andhera hai
+  Naamus-e-Mustafa meiṅ Qasim tera maatam hai
 
   6
   Dafnaauṅ tumheṅ kaise tukre tan-e-athar hai
@@ -47,12 +47,12 @@ romanLyrics: |-
   7
   Zainab ka tha ye girya tanha hai Shah-e-waala
   Hasrat se uth raha hai Qasim tera janaaza
-  Zehra ke gharaane mein Qasim tera maatam hai
+  Zehra ke gharaane meiṅ Qasim tera maatam hai
 
   8
   Nazraana Azizi ka Arif ki zabaani hai
   Mil jaaye hameṅ bakhshish nauhe to bahaana hai
-  Is dasht-e-Karbala mein Qasim tera maatam hai
+  Is dasht-e-Karbala meiṅ Qasim tera maatam hai
 # source_id: nohayonline:bf6fb9173efe13d77683
 # source_url: https://www.nohayonline.com/details_content.php?id=1337
 # raw_sha256: 0982800b826875697d4f1da5da1f559063b1fad1a3d838ec520c481d53e2ce58

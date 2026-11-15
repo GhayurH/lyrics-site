@@ -23,7 +23,7 @@ romanLyrics: |-
   Muskuraana dekh kar hai ro pare arz o samaaṅ
 
   3
-  Tai kiya kaise safar jakre hue zanjir mein
+  Tai kiya kaise safar jakre hue zanjir meiṅ
   Sayyid Sajjaad par hai ro rahi thi beriyaaṅ
 
   4

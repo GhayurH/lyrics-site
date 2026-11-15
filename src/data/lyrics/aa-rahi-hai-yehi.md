@@ -23,9 +23,9 @@ romanLyrics: |-
   Ya Husain Ya Husain Ya Husain
 
   2
-  Jis ki taqdir mein Shabbir ka matam hoga
+  Jis ki taqdir meiṅ Shabbir ka matam hoga
   Us ko dunya ka na mahshar ka koi gham hoga
-  Wo to nabiyoṅ ki bhi nazroṅ mein mukarram hoga
+  Wo to nabiyoṅ ki bhi nazroṅ meiṅ mukarram hoga
   Us ko bakhshish ki sanad dega Nusairi ka Khuda
   Ya Husain Ya Husain Ya Husain
 
@@ -40,21 +40,21 @@ romanLyrics: |-
   Din par hai tera ehsaan mere Maula Husain
   Tu hai Islam ki pehchaan mere Maula Husain
   Tujh pe qurban meri jaan mere Maula Husain
-  Tere sadqe mein mili din-e-Muhammad ko baqa
+  Tere sadqe meiṅ mili din-e-Muhammad ko baqa
   Ya Husain Ya Husain Ya Husain
 
   5
   Tere lashkar ka alamdaar hai wo sher-e-jari
   Jis ki haibat se larazta hai ajal ka dil bhi
-  Dhum kaunain mein hai jiski wafadari ki
+  Dhum kaunain meiṅ hai jiski wafadari ki
   Jis ne pani pe likha pyaas se Quraan-e-wafa
   Ya Husain Ya Husain Ya Husain
 
   6
-  Main huṅ ek khaadim-e-sarkaar-e-shahenshah-e-wafa
+  Maiṅ huṅ ek khaadim-e-sarkaar-e-shahenshah-e-wafa
   Naam Gohar hai mera aur ye daawa hai mera
-  Paak paakiza lahu jis ki ragoṅ mein hoga
-  Us ko matam mein bhi aayega ibadat ka maza
+  Paak paakiza lahu jis ki ragoṅ meiṅ hoga
+  Us ko matam meiṅ bhi aayega ibadat ka maza
   Ya Husain Ya Husain Ya Husain
 # source_id: nohayonline:445e76166564a797d42f
 # source_url: https://www.nohayonline.com/details_content.php?id=2795

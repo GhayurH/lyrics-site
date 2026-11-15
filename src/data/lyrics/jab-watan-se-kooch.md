@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   1
   Jab watan se kuch ki Muslim ki tayyaari hui
-  Khaana-e-Aal-e-Aba mein girya o zaari hui
+  Khaana-e-Aal-e-Aba meiṅ girya o zaari hui
   Donoṅ betoṅ ki jo rukhsat maaṅ se yak baari hui
   Harf zan shauhar se apne yuṅ wo dukhiyaari hui
   Ek to daagh-e-firaaq apna diye jaate ho tum

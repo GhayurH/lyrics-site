@@ -44,8 +44,8 @@ romanLyrics: |-
   Aaya lashkar sojao
 
   6
-  Maqtal mein jurrat dekhi
-  Bachchoṅ mein himmat dekhi
+  Maqtal meiṅ jurrat dekhi
+  Bachchoṅ meiṅ himmat dekhi
   Mayyat par mayyat dekhi
   Maaṅ hai muztar sojao
 

@@ -19,7 +19,7 @@ romanLyrics: |-
   2
   Sajda to meraaj momin ki hai beshak
   Ishq-e-Sarwar sajde ki hai jaan likh de
-  Gham manaata hi nahiṅ aur phir khushi mein
+  Gham manaata hi nahiṅ aur phir khushi meiṅ
   Khush nahiṅ hai jo use shaitaan likh de
 
   3
@@ -32,7 +32,7 @@ romanLyrics: |-
   Baad-e-Sarwar kaun hai waaris hai jhagra
   Le qalam aur Khum ka phir ailaan likh de
   Faatima ka Baba Sarwar ka taaruf
-  Shaan-e-Ahmad mein yehi farmaan likh de
+  Shaan-e-Ahmad meiṅ yehi farmaan likh de
 # source_id: tajpoints:8cc1df8793ed3fcff805
 # source_url: https://tajpoints.com/2019/11/sabz-gunbad-walay-ki-youn-shan-likh-de.html
 # raw_sha256: b00aef6c30c2ff5f972790011056d0c558b530b691431ef2553b220c476afe10

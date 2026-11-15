@@ -23,8 +23,8 @@ romanLyrics: |-
   Ye bata de mujhe hai kahaaṅ baba jaaṅ
 
   3
-  Lipti qadmoṅ se main de rahi thi sada
-  Mere baba ko maqtal mein le kar na ja
+  Lipti qadmoṅ se maiṅ de rahi thi sada
+  Mere baba ko maqtal meiṅ le kar na ja
   Par na tu ne suni meri aah o buka
 
   4
@@ -45,7 +45,7 @@ romanLyrics: |-
   7
   Raah-e-purkhaar se kis tarah ham chale
   Bhaai Sajjad ko taaziyaane lage
-  Tauq o zanjir hai paaoṅ mein beriyaaṅ
+  Tauq o zanjir hai paaoṅ meiṅ beriyaaṅ
 
   8
   Chalti haiṅ har taraf se siyaah aandhiyaaṅ

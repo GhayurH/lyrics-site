@@ -1,6 +1,6 @@
 ---
 title: "میدان میں حسین کا غمخوار گر پڑا"
-alternateTitle: "Maidan Mein Hussain"
+alternateTitle: "Maidan Meiṅ Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,27 +11,27 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maidan mein Husain ka ghamkhwar gir para
+  Maidan meiṅ Husain ka ghamkhwar gir para
   Alamdar gir para
   Shaane kata ke ghore se Jarraar gir para
   Alamdar gir para
 
   1
   Dikhla gaya bahaar-e-wafa jaan-e-Murtaza
-  Duba hua lahu mein hai armaan-e-Murtaza
+  Duba hua lahu meiṅ hai armaan-e-Murtaza
   Hai paara paara nehr pe Quraan-e-Murtaza
   Fauj-e-Khuda ka haaye alamdar gir para
 
   2
   Tanha Husain ho gaye yaawar nahiṅ raha
-  Tishna laboṅ mein saaqi-e-Kausar nahiṅ raha
+  Tishna laboṅ meiṅ saaqi-e-Kausar nahiṅ raha
   Bibi Sakina amm-e-Ghazanfar nahiṅ raha
   Fauj-e-Khuda ka haaye alamdar gir para
 
   3
   Tharra uthega gham se biyaabaan-e-Karbala
   Royegi khun shaam-e-gharibaan-e-Karbala
-  Rassi mein baandhe jaayeṅge mehmaan-e-Karbala
+  Rassi meiṅ baandhe jaayeṅge mehmaan-e-Karbala
   Fauj-e-Khuda ka haaye alamdar gir para
 
   4
@@ -42,7 +42,7 @@ romanLyrics: |-
 
   5
   Zarraat-e-Karbala ba alam bolne lage
-  Abbas ke firaaq mein aansu ubal pare
+  Abbas ke firaaq meiṅ aansu ubal pare
   Shabbir kis tarah Ali Fitrat ye gham sahe
   Fauj-e-Khuda ka haaye alamdar gir para
 # source_id: nohayonline:e894d227409d757f0e39

@@ -94,7 +94,7 @@ romanLyrics: |-
   Ai wa mazlum Husaina
   Husain ya Husain maula Husain ya Husain
   Zuhur hoga zarur hoga
-  Sheh ke haram mein aayeṅge maula
+  Sheh ke haram meiṅ aayeṅge maula
   Hujum hoga ahl-e-aza ka
   Us din kahega hum se maula hamaara
   Karo maatam karo har qatil-e-jafa ka

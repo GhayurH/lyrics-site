@@ -19,8 +19,8 @@ romanLyrics: |-
 
   2
   Bachchoṅ ka tarapna mujhe dekha nahiṅ jaata
-  Hai aas mein baithe haiṅ liye haath mein kuza
-  Ab lutf nahiṅ khaimoṅ mein virani si chhai
+  Hai aas meiṅ baithe haiṅ liye haath meiṅ kuza
+  Ab lutf nahiṅ khaimoṅ meiṅ virani si chhai
 
   3
   Bewaoṅ ki ridaoṅ ka bhi ab khauf hai mujhko
@@ -29,7 +29,7 @@ romanLyrics: |-
 
   4
   Bhai mere bhai ki sada gunj rahi hai
-  Mayus zaifi mein khare Ibn-e-Ali haiṅ
+  Mayus zaifi meiṅ khare Ibn-e-Ali haiṅ
   Ab halat-e-Shabbir pe roti hai Khudai
 # source_id: nohayonline:2e039ae0092eab67a871
 # source_url: https://www.nohayonline.com/details_content.php?id=3185

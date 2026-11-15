@@ -29,12 +29,12 @@ romanLyrics: |-
   3
   Saath jab baba ke Asghar ko na paayegi Rubaab
   Le ke khaali god kaise Shaam jaayegi Rubaab
-  Bas khayaal aata hai maqtal mein yehi Shabbir ko
+  Bas khayaal aata hai maqtal meiṅ yehi Shabbir ko
   Kar diya do lakht jis ne Hurmala ke tir ko
 
   4
   Jhulta neze pe jhula na ye bhulega jahaaṅ
-  Taa abad royeṅge us ko ye zamiṅ o aasmaaṅ
+  Taa abad royeṅge us ko ye zamin o aasmaaṅ
   Kar gaya naakaam zaalim ki jo har tadbir ko
   Kar diya do lakht jis ne Hurmala ke tir ko
 

@@ -11,16 +11,16 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Sar nange bhaai Shaam ke darbaar mein gayi
+  Sar nange bhaai Shaam ke darbaar meiṅ gayi
   Par baddua na ki haaye par baddua na ki
 
   Royi tumhare baad bahattar ki laash par
   Akbar ki laash par Ali Asghar ki laash par
-  Main kya thi bhaai baad tere kya main ho gayi
+  Maiṅ kya thi bhaai baad tere kya maiṅ ho gayi
 
   1
-  Beti huṅ main Ali ki to Abbas ki behan
-  Shaanoṅ mein bandh rahi thi mere bhaai jaaṅ rasan
+  Beti huṅ maiṅ Ali ki to Abbas ki behan
+  Shaanoṅ meiṅ bandh rahi thi mere bhaai jaaṅ rasan
   Majme se rubaru yuṅ karaate haiṅ laiṅ
 
   2
@@ -30,33 +30,33 @@ romanLyrics: |-
 
   3
   Dekhe haiṅ bhaai hum ne ajab gham ke marhale
-  Ek rismaaṅ mein baandhe gaye baarah phir gale
+  Ek rismaaṅ meiṅ baandhe gaye baarah phir gale
   Sine pe sone waali wo panjoṅ ke bal chali
 
   4
-  Zindaaṅ ke ghup andhere mein wo aise bandh hui
+  Zindaaṅ ke ghup andhere meiṅ wo aise bandh hui
   Maasuma dekho khaak ka paiwand ho gayi
   Zindaaṅ se zinda laut ke waapas na ja saki
 
   5
   Jis ke liye kabhi tha wo mahmil ka ehtimaam
   Hai aaj us behan ke liye aur intizaam
-  Balwe mein mera naam pukaara kiye shaqi
+  Balwe meiṅ mera naam pukaara kiye shaqi
 
   6
   Tum ko sunaauṅ bhaai jaaṅ Kufe ka maajra
-  Dekha jo main ne Kufe mein manzar bataauṅ kya
+  Dekha jo maiṅ ne Kufe meiṅ manzar bataauṅ kya
   Muslim ki laash Kufe ke dar par latakti thi
 
   7
   Har ek mahaas par raha mujh ko tera khayaal
   Har zulm seh ke chhup rahi waade ka tha sawaal
-  Khaamosh reh ke shukr-e-Khuda karti main rahi
+  Khaamosh reh ke shukr-e-Khuda karti maiṅ rahi
 
   8
   Aamir o Shams parh do wo Zainab ka marsiya
-  Jo kuchh kaha tha tum ne wo sab main ne kar diya
-  Bhaiya tumhaare sog mein majlis bapa to ki
+  Jo kuchh kaha tha tum ne wo sab maiṅ ne kar diya
+  Bhaiya tumhaare sog meiṅ majlis bapa to ki
 # source_id: nohayonline:efa36059ae36bf8961f0
 # source_url: https://www.nohayonline.com/details_content.php?id=2144
 # raw_sha256: 0201c42ef5837a912c06ca26cf948ade6c6b9e408b78dd2d1e05029c5498d632

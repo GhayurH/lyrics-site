@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   1
   Jab zohr tak Husain bahattar ko ro chuke
-  Ek do pahar mein chhote se lashkar ko ro chuke
+  Ek do pahar meiṅ chhote se lashkar ko ro chuke
   Qasim ko ro chuke Ali Akbar ko ro chuke
   Turbat bana ke nanhi si Asghar ko ro chuke
   Sayyidaniyoṅ ne ro ke kaha shor o shain se

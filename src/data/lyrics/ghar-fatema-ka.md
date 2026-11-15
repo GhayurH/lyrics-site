@@ -22,12 +22,12 @@ romanLyrics: |-
   2
   Zainab ke wo nur-e-nazar
   Jab chal base dono pisar
-  Maaṅ ka jigar sajde mein sar
+  Maaṅ ka jigar sajde meiṅ sar
   Rone lage Shaah-e-Huda
 
   3
   Tukre Hasan ke laal ke
-  Maqtal mein the bikhre hue
+  Maqtal meiṅ the bikhre hue
   Ab laash ye kaise uthe
   Sarwar bichhaate haiṅ abaa
 
@@ -51,7 +51,7 @@ romanLyrics: |-
 
   7
   Ummul Banin ka wo pisar
-  Bedast Ghaazi khuṅ mein tar
+  Bedast Ghaazi khuṅ meiṅ tar
   Kaise gira wo khaak par
   Girya kunaaṅ hai Fatema
 
@@ -62,7 +62,7 @@ romanLyrics: |-
   Wo tir khaa kar haṅs para
 
   9
-  The muztarib ran mein Husain
+  The muztarib ran meiṅ Husain
   Ro ro ke karte the ye bain
   Kis tarah aaye dil ko chain
   Maaṅ se kaheṅ ge jaa ke kya
@@ -82,7 +82,7 @@ romanLyrics: |-
   12
   Maatam karo Abbaas ka
   Tum ko milega hausla
-  Aankhoṅ mein rakho Karbala
+  Aankhoṅ meiṅ rakho Karbala
   Behte rahe ashk-e-aza
 
   13
@@ -100,8 +100,8 @@ romanLyrics: |-
   15
   Bechaadari bechainiyaaṅ
   Mushkil kusha ki betiyaaṅ
-  Aur baazuoṅ mein rismaaṅ
-  Zanjir mein Zainul Abaa
+  Aur baazuoṅ meiṅ rismaaṅ
+  Zanjir meiṅ Zainul Abaa
 
   16
   Durre tamaache sailiyaaṅ

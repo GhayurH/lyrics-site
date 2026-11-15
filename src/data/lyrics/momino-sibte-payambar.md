@@ -33,11 +33,11 @@ romanLyrics: |-
   Dilbar-e-Khaatun-e-Mahshar ka janaaza le chalo
 
   5
-  Zaalimoṅ ne qatl jis ko bekhata ran mein kiya
+  Zaalimoṅ ne qatl jis ko bekhata ran meiṅ kiya
   Us Shah-e-mazlum o besar ka janaaza le chalo
 
   6
-  Ummat-e-aasi ki bakhshish mein jo koshaaṅ ho gaya
+  Ummat-e-aasi ki bakhshish meiṅ jo koshaaṅ ho gaya
   Us Shafi-e-roz-e-Mahshar ka janaaza le chalo
 
   7

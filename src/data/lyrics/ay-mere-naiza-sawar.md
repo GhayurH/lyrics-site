@@ -12,23 +12,23 @@ aliases: ["Ay Mere Naiza Sawar"]
 published: true
 romanLyrics: |-
   Ek bachchi phul si jis ka Sakina naam tha
-  Ro rahi thi Shaam ki raahoṅ mein wo kar ke buka
+  Ro rahi thi Shaam ki raahoṅ meiṅ wo kar ke buka
   Karte the tum kitna pyaar baba
   Ae mere naiza sawaar baba
 
   1
   Chal nahiṅ sakti Sakina raaste dushwaar haiṅ
-  Aable haiṅ paaoṅ mein aur aabloṅ mein khaar hai
+  Aable haiṅ paaoṅ meiṅ aur aabloṅ meiṅ khaar hai
   Aankh hai nam dil figaar baba
 
   2
-  Nile haiṅ rukhsaar mere aur gale mein hai rasan
+  Nile haiṅ rukhsaar mere aur gale meiṅ hai rasan
   Tashnagi bewaarsi laachaargi aur bewatan
   Ek hai dil gham hazaar baba
 
   3
-  Aap ke sine pe baba chain se soti thi main
-  Aap tarapte jo kisi baat pe roti thi main
+  Aap ke sine pe baba chain se soti thi maiṅ
+  Aap tarapte jo kisi baat pe roti thi maiṅ
   Roti huṅ zaar o qataar baba
 
   4
@@ -37,13 +37,13 @@ romanLyrics: |-
   Sabr ke parwardigaar baba
 
   5
-  Mil na sakuṅ gi kabhi main aap se ae baba jaaṅ
+  Mil na sakuṅ gi kabhi maiṅ aap se ae baba jaaṅ
   Aap ka rauza banega Karbala ke darmiyaaṅ
-  Shaam mein mera mazaar baba
+  Shaam meiṅ mera mazaar baba
 
   6
   Yaad isi baat pe aata hai ghar aksar mujhe
-  Aaj kanizi mein bulaata hai sitamgar mujhe
+  Aaj kanizi meiṅ bulaata hai sitamgar mujhe
   Koi nahiṅ gham gusaar baba
 
   7

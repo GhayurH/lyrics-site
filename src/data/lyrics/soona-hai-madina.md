@@ -18,7 +18,7 @@ romanLyrics: |-
   Suna hai Madina
 
   1
-  Main dar pe khari rehti huṅ ek aas lagaaye
+  Maiṅ dar pe khari rehti huṅ ek aas lagaaye
   Bhaiya nahiṅ aaye
   Shikwa nahiṅ Akbar se hai taqdir se shikwa
   Suna hai Madina
@@ -36,7 +36,7 @@ romanLyrics: |-
   Suna hai Madina
 
   4
-  Main raatoṅ ko soti huṅ to jaag uthti huṅ aksar
+  Maiṅ raatoṅ ko soti huṅ to jaag uthti huṅ aksar
   Kya baat hai aakhir
   Bikhraaye hue baal nazar aati hai Zehra
   Suna hai Madina

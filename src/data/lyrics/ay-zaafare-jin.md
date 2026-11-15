@@ -11,14 +11,14 @@ tags: []
 aliases: ["Ay Zaafare Jin"]
 published: true
 romanLyrics: |-
-  Zaafar main lut gaya mera koi nahiṅ bacha
-  Main ji ke kya karuṅ mera ab kaun hai raha
+  Zaafar maiṅ lut gaya mera koi nahiṅ bacha
+  Maiṅ ji ke kya karuṅ mera ab kaun hai raha
   Ae Zaafar-e-jinn ae Zaafar-e-jinn
 
   1
   Zaafar tumheṅ dikhaauṅ kahaaṅ hadd-e-sabr hai
   Dekho wo saamne Ali Asghar ki qabr hai
-  Chehre pe us ka khun hai main ne mala hua
+  Chehre pe us ka khun hai maiṅ ne mala hua
   Ae Zaafar-e-jinn ae Zaafar-e-jinn
 
   2
@@ -43,11 +43,11 @@ romanLyrics: |-
   5
   Pehla yahaaṅ pe dusra baazu wahaaṅ kata
   Mashkiza yahaaṅ chhida wahaaṅ gurz-e-giraaṅ laga
-  Ran mein hua hai chaar jagah qatl baawafa
+  Ran meiṅ hua hai chaar jagah qatl baawafa
 
   6
   Laashoṅ ke darmiyaaṅ jo hai ghatri rakhi hui
-  Zaafar usi mein laash hai Farwa ke laal ki
+  Zaafar usi meiṅ laash hai Farwa ke laal ki
   Qasim hamaara ghoroṅ se paamaal ho gaya
   Ae Zaafar-e-jinn ae Zaafar-e-jinn
 
@@ -79,7 +79,7 @@ romanLyrics: |-
   11
   Sajjad bole Maula ke manzil qarib hai
   Khanjar qarib zaanu-e-qaatil qarib hai
-  Jaa ab chala jaa aati hai maqtal mein Fatema
+  Jaa ab chala jaa aati hai maqtal meiṅ Fatema
   Ae Zaafar-e-jinn ae Zaafar-e-jinn
 # source_id: nohayonline:60e1c8095ea17d78d3b9
 # source_url: https://www.nohayonline.com/details_content.php?id=2746

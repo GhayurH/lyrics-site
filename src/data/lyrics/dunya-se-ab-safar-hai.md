@@ -19,7 +19,7 @@ romanLyrics: |-
   Kab aap ke laboṅ par rudaad-e-gham nahiṅ thi
 
   2
-  Nazroṅ mein phir raha tha guzra hua zamaana
+  Nazroṅ meiṅ phir raha tha guzra hua zamaana
   Haaye wo jism-e-laaghar haaye wo taaziyaane
   Haaye wo zulm-e-aada haaye wo qaid khaane
 
@@ -35,23 +35,23 @@ romanLyrics: |-
 
   5
   Baad-e-Husain kya kya sadme utha ke aaye
-  Zindaan mein behan ki turbat bana ke aaye
-  Karbobala mein apna sab kuch luta ke aaye
+  Zindaan meiṅ behan ki turbat bana ke aaye
+  Karbobala meiṅ apna sab kuch luta ke aaye
 
   6
   Yaad aa rahi thi aksar Zainab ki beridaai
-  Nazroṅ mein phir raha tha karyal jawaan bhai
+  Nazroṅ meiṅ phir raha tha karyal jawaan bhai
   Tarpa rahi thi dil ko beshir ki judaai
 
   7
-  Nazroṅ mein phir raha tha Aashur ka wo manzar
+  Nazroṅ meiṅ phir raha tha Aashur ka wo manzar
   Aalam wo bekasi ka jalta hua wo bistar
   Haaye wo reg-e-sahra haaye wo laash-e-Sarwar
 
   8
   Laashe pe aaeṅge jab bekas Imam Baaqir
   Dekheṅge jis ghari wo baba ka jism-e-laaghar
-  Kis dil se Ae Zaheer ab kaise bayaaṅ ho manzar
+  Kis dil se Ae Zahir ab kaise bayaaṅ ho manzar
 # source_id: nohayonline:30a0282b8da0dba6d525
 # source_url: https://www.nohayonline.com/details_content.php?id=1976
 # raw_sha256: ca5b2760ea75eb296979b98c20845b2a84eae3c68e9ae9ed0ad3123300d877b0

@@ -20,7 +20,7 @@ romanLyrics: |-
 
   2
   Bachche to abhi thak kar sab khaak pe soye haiṅ
-  Maqtal mein andhera hai dil khauf se larza hai
+  Maqtal meiṅ andhera hai dil khauf se larza hai
 
   3
   Bin paani ke aada ne gardan pe chhuri pheri
@@ -28,23 +28,23 @@ romanLyrics: |-
 
   4
   Baba wo zara dekho Shabbir ke laashe ko
-  Aazaa-e-badan zakhmi sar khuṅ mein ghaltaaṅ hai
+  Aazaa-e-badan zakhmi sar khuṅ meiṅ ghaltaaṅ hai
 
   5
-  Pardes mein Zainab ki Allah re majburi
+  Pardes meiṅ Zainab ki Allah re majburi
   Duṅ kaise kafan Shah ko sar mera bhi uryaaṅ hai
 
   6
-  Paamaal shuda ran mein laashe haiṅ shahidoṅ ke
-  Bikhri hui maqtal mein har aayat-e-Quraaṅ hai
+  Paamaal shuda ran meiṅ laashe haiṅ shahidoṅ ke
+  Bikhri hui maqtal meiṅ har aayat-e-Quraaṅ hai
 
   7
   Hum tashna dahaanoṅ par wo zulm o sitam tute
   Paani to hai sharminda khud zulm bhi hairaaṅ hai
 
   8
-  Aankhoṅ mein Mujeeb apni hai Karb o Bala roshan
-  Mohsin ki nigaahoṅ mein qabr-e-Shah-e-zishaaṅ hai
+  Aankhoṅ meiṅ Mujib apni hai Karb o Bala roshan
+  Mohsin ki nigaahoṅ meiṅ qabr-e-Shah-e-zishaaṅ hai
 # source_id: nohayonline:23e4ce8b85633e1c38fe
 # source_url: https://www.nohayonline.com/details_content.php?id=2480
 # raw_sha256: b162356dc7b76bdd040fc8c5ac49be32501ffcb4afb412b76862285540ce29e3

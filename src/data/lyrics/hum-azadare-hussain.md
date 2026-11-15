@@ -24,7 +24,7 @@ romanLyrics: |-
   2
   Saamne jis ke kata bhaai ka sar
   Zibh pyaase ho gaye nur-e-nazar
-  Aur luta jangal mein jis ka ghar
+  Aur luta jangal meiṅ jis ka ghar
   Bhaai ke laash pe jo ro na saki
 
   3
@@ -47,21 +47,21 @@ romanLyrics: |-
 
   6
   Hum se puchh gham hai kya kya hai khushi
-  Hai jo dil mein ulfat-e-Aal-e-Nabi
+  Hai jo dil meiṅ ulfat-e-Aal-e-Nabi
   Gham hai un ka gham khushi un ki khushi
   Bas yehi hai apna tarz-e-zindagi
 
   7
-  Hai diloṅ mein hamaare Karbobala
+  Hai diloṅ meiṅ hamaare Karbobala
   Hum na is se aur na ye hum se juda
   Kaise hal min ki bhala bhule sada
   Guṅjti hai al atash har ghari
 
   8
   Hai mehekte sinoṅ pe zakhmoṅ ke baagh
-  Aur dil mein gham ke jalte haiṅ charaagh
+  Aur dil meiṅ gham ke jalte haiṅ charaagh
   Hum hai wo jin ko nahiṅ gham se firaaq
-  Bas Faheem haaṅ yehi hai bandagi
+  Bas Fahim haaṅ yehi hai bandagi
 
 # source_id: nohayonline:150c024b5c22365940b9
 # source_url: https://www.nohayonline.com/details_content.php?id=3522

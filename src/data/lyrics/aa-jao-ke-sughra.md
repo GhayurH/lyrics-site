@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Furqat mein Sakina ki roye
+  Furqat meiṅ Sakina ki roye
   Beshir ka jhula yaad kare
   Ya Husain Ya Husain
   Ya Husain Ya Husain
@@ -24,8 +24,8 @@ romanLyrics: |-
   Aa jao ke Sughra yaad kare
 
   2
-  Jaldi se palat aao ghar mein
-  Sayyida utha kar godi mein
+  Jaldi se palat aao ghar meiṅ
+  Sayyida utha kar godi meiṅ
   Bimaar behan kab tak baba
   Asghar ka humakna yaad kare
   Aa jao ke Sughra yaad kare
@@ -47,7 +47,7 @@ romanLyrics: |-
   5
   Ae baad-e-saba jab Karbobala
   Jaana ho to itna keh dena
-  Pardes mein jaane waaloṅ ko
+  Pardes meiṅ jaane waaloṅ ko
   Dukhiya aaj Sughra yaad kare
   Aa jao ke Sughra yaad kare
 

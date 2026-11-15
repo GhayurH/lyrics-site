@@ -56,7 +56,7 @@ romanLyrics: |-
   Ab nazar aate nahiṅ Aun o Muhammad Zainab
 
   8
-  Bole kis tarah se Zainab ko dikhaauṅ main bhala
+  Bole kis tarah se Zainab ko dikhaauṅ maiṅ bhala
   Ae Mubarak liye laashoṅ ko chale Shah-e-Huda
   Dar talak pahunche ae Rehan wo kehte kehte
   Ab nazar aate nahiṅ Aun o Muhammad Zainab

@@ -1,6 +1,6 @@
 ---
 title: "عباس دیکھتے ہیں"
-alternateTitle: "Abbas Dekhte Hain"
+alternateTitle: "Abbas Dekhte Haiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -16,8 +16,8 @@ romanLyrics: |-
   Sher-e-Khuda ke dilbar
   Ain-e-Khuda ke mazhar
   Abbas dekhte haiṅ
-  Ghaiz o ghazab mein aa kar Abbas dekhte haiṅ
-  Ran mein bapa hai mahshar Abbas dekhte haiṅ
+  Ghaiz o ghazab meiṅ aa kar Abbas dekhte haiṅ
+  Ran meiṅ bapa hai mahshar Abbas dekhte haiṅ
 
   1
   Ye keh ke bhagte the darya se ghaat wale
@@ -25,24 +25,24 @@ romanLyrics: |-
   Hai saans lena dubhar Abbas dekhte haiṅ
 
   2
-  Zainab ke ladle jab maidan mein larne aaye
+  Zainab ke ladle jab maidan meiṅ larne aaye
   Ye bol kar Jari ne haiṅ hausle barhaye
   Hamla karo barabar Abbas dekhte haiṅ
 
   3
   Dushman ka jab risala khaime hatane aaya
-  Khat khench kar Jari ne ghaiz o ghazab mein bola
+  Khat khench kar Jari ne ghaiz o ghazab meiṅ bola
   Ab aaye koi barh kar Abbas dekhte haiṅ
 
   4
   Karb o Bala ke ban ko yaad aa gaya hai Khaibar
-  Haider ke ladle mein Haider ke hi haiṅ tewar
+  Haider ke ladle meiṅ Haider ke hi haiṅ tewar
   Sab kaanpte haiṅ thar thar Abbas dekhte haiṅ
 
   5
   Hai khauf se kaleja dushman ka pani pani
   Hairat se ruk gayi hai maujoṅ ki bhi ravani
-  Sakte mein hai samandar Abbas dekhte haiṅ
+  Sakte meiṅ hai samandar Abbas dekhte haiṅ
 
   6
   Dushman pukar uthe salar ho to aisa
@@ -56,7 +56,7 @@ romanLyrics: |-
 
   8
   Itni pasand aayi saqqai-e-Sakina
-  Haq ne inheṅ nawaza mahshar mein aisa rutba
+  Haq ne inheṅ nawaza mahshar meiṅ aisa rutba
   Sab intizam-e-Kausar Abbas dekhte haiṅ
 # source_id: tajpoints:1d3da6c38332df8f05eb
 # source_url: https://tajpoints.com/2023/02/abbas-dekhtay-hain-mukhtar-hussain.html

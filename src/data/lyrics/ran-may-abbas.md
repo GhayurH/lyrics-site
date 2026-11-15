@@ -14,10 +14,10 @@ romanLyrics: |-
   Ghurur-e-fauj-e-sitamgar ko tor sakta huṅ
   Rukh-e-Furaat nigaahoṅ se mor sakta huṅ
   Ali ka beta huṅ mojiz numaaiyoṅ ki qasam
-  Main aaftaab se paani nichor sakta huṅ
+  Maiṅ aaftaab se paani nichor sakta huṅ
 
   Har taraf phaila hua maut ka darr hai
-  Ran mein Abbas ke aane ki khabar hai
+  Ran meiṅ Abbas ke aane ki khabar hai
 
   1
   Phul khilne lage wafaaoṅ ke
@@ -37,7 +37,7 @@ romanLyrics: |-
   Saath hai mashk o alam bhi uske
   Su-e-darya hai qadam bhi uske
   Aur pyaase haiṅ haram bhi uske
-  Dil mein hai ranj o alam bhi uske
+  Dil meiṅ hai ranj o alam bhi uske
   Sher wo tashna jigar hai
 
   4
@@ -48,7 +48,7 @@ romanLyrics: |-
   Mere shajre ka asar hai
 
   5
-  Uske baazu mein hai zor-e-Haidar
+  Uske baazu meiṅ hai zor-e-Haidar
   Baap hai uska faatih-e-Khaibar
   Yaad hai sab ko Marhab o Antar
   Raah rokega kaun ab jaa kar
@@ -62,14 +62,14 @@ romanLyrics: |-
   Pisar-e-Saad kidhar hai
 
   7
-  Kis mein kitna hunar hai dikhla do
-  Main akela huṅ aur tum laakhoṅ
+  Kis meiṅ kitna hunar hai dikhla do
+  Maiṅ akela huṅ aur tum laakhoṅ
   Tum bahaadur ho aaj mat bhaago
   Rok kar aaj mujhko dikhla do
   Dekh lo kaun zabar hai
 
   8
-  Hai Naseem aisa nazaara uska
+  Hai Nasim aisa nazaara uska
   Uska darya hai kinaara uska
   Haaṅ ghazab ek ishaara uska
   Shaadmaaṅ ko hai sahaara uska

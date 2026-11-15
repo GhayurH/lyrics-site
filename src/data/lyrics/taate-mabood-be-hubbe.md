@@ -11,8 +11,8 @@ tags: []
 aliases: ["Taate Mabood Be Hubbe"]
 published: true
 romanLyrics: |-
-  Taaat-e-maabud be hubb-e-Ali achchhi nahiṅ
-  Ho haram mein bhi to aisi bandagi achchhi nahiṅ
+  Taaat-e-maabud behubb-e-Ali achchhi nahiṅ
+  Ho haram meiṅ bhi to aisi bandagi achchhi nahiṅ
 
   1
   Us imaamat ke jo dosh-e-Mustafa par ba Khuda
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   6
   Qarya qarya phir rahe haiṅ jo aqide bechte
-  Un se kah do din mein saudaagari achchhi nahiṅ
+  Un se kah do din meiṅ saudaagari achchhi nahiṅ
 
   7
   Zikr-e-Haidar sun Amir-e-Shaam ki baateṅ na kar
@@ -48,11 +48,11 @@ romanLyrics: |-
 
   9
   Ae meri aankhoṅ ki badli khub ghir ghir kar baras
-  Majlis-e-Sarwar mein ashkoṅ ki kami achchhi nahiṅ
+  Majlis-e-Sarwar meiṅ ashkoṅ ki kami achchhi nahiṅ
 
   10
   Mustafa ke nur ki baaradaari ke maa siwa
-  Do jahaaṅ mein ek bhi baaradaari achchhi nahiṅ
+  Do jahaaṅ meiṅ ek bhi baaradaari achchhi nahiṅ
 
   11
   Aarzu hai meri Mahir umr ro kar kaat do

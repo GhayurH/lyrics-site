@@ -15,9 +15,9 @@ romanLyrics: |-
   Hum bekasoṅ ko chhor ke aaqa na jaaiye
 
   1
-  Maula tumhaare aane se raunaq gharoṅ mein thi
+  Maula tumhaare aane se raunaq gharoṅ meiṅ thi
   Din raat gham tumhaara kiya karte the sabhi
-  Muddat ye do mahinoṅ ki maatam mein kat gai
+  Muddat ye do mahinoṅ ki maatam meiṅ kat gai
   Raunaq ki jaa hai aaj udaasi baras rahi
 
   2
@@ -27,7 +27,7 @@ romanLyrics: |-
   Ab aap jaa rahe haiṅ to hum sab hiraas haiṅ
 
   3
-  Maula aza ki bazm mein aati thi Fatema
+  Maula aza ki bazm meiṅ aati thi Fatema
   Zehmat ye do mahine uthaati thi Fatema
   Aansu hamaare saath bahaati thi Fatema
   Hum ko duaaeṅ de ke hi jaati thi Fatema

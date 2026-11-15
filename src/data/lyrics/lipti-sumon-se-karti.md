@@ -1,6 +1,6 @@
 ---
 title: "لپٹی سموں سے کرتی تھی معصوم یہ بکا"
-alternateTitle: "Lipti Sumon Se Karti"
+alternateTitle: "Lipti Sumoṅ Se Karti"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,15 +12,15 @@ aliases: []
 published: true
 romanLyrics: |-
   Lipti sumoṅ se karti thi maasum ye buka
-  Ae Zuljanaah ran mein na baaba ko le ke ja
+  Ae Zuljanaah ran meiṅ na baaba ko le ke ja
 
   1
   Baaqi na koi munis o yaawar watan se dur
-  Aise mein kar na mujh se Shaah-e-diṅ ko tu juda
+  Aise meiṅ kar na mujh se Shaah-e-diṅ ko tu juda
 
   2
   Darti huṅ jo gaya wo nahiṅ aaya laut kar
-  Maqtal mein le ke ja na unheṅ aks-e-bawafa
+  Maqtal meiṅ le ke ja na unheṅ aks-e-bawafa
 
   3
   Aa jaaye mere ammu to le jaana shauq se

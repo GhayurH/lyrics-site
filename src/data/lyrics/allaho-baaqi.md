@@ -17,7 +17,7 @@ romanLyrics: |-
   Ya awwalo ya aakhiro ya qaaimo al nafio
   Allaho qabla kullo shay
   Allaho baada kullo shay
-  Ye keh ke Haider ne sajde mein rakhi peshaani
+  Ye keh ke Haider ne sajde meiṅ rakhi peshaani
   Allaho baaqi min kulle faani
 
   1
@@ -39,18 +39,18 @@ romanLyrics: |-
   Is ke haathoṅ ki khilqat ye dunya saari hai
   Fuzto be rabbil kaaba ye hamd-e-Baari hai
   Ya rabbe zuljalaal
-  Kehdi do lafzoṅ mein thi baat bari tulaani
+  Kehdi do lafzoṅ meiṅ thi baat bari tulaani
 
   4
   Chalta hai mera sikka arz o samaaṅ par
-  Main to rahuṅ ga zinda hukm-e-Khuda par
-  Mujh pe qaza gir jaaye ya main qaza par
+  Maiṅ to rahuṅ ga zinda hukm-e-Khuda par
+  Mujh pe qaza gir jaaye ya maiṅ qaza par
   Ya rabbe zuljalaal
   Ye sunke Haider se dunya ko hui hairaani
 
   5
   Ek din Nusairi bola kiuṅ mujhko maara hai
-  Jo kuch aaṅkhoṅ se dekha main ne wo bola hai
+  Jo kuch aaṅkhoṅ se dekha maiṅ ne wo bola hai
   Meri sochoṅ ka maalik iske hi jaisa hai
   Ya rabbe zuljalaal
   Ye hamd-e-Baari hai Haider ki qasida khwaani
@@ -65,16 +65,16 @@ romanLyrics: |-
   7
   Karbobala se puchho is jumle ka matlab
   Sukhe kuze dikhla ke keh deṅ ge tashna lab
-  Be sar laashe boleṅ ge ya phir Bibi Zainab
+  Besar laashe boleṅ ge ya phir Bibi Zainab
   Ya rabbe zuljalaal
   Zer-e-khanjar keh dega karbobala ka baani
 
   8
   Kull-e-imaan ki baateṅ imaan hai Mazhar
-  Is mein hai haami tera Irfan-e-Haider
+  Is meiṅ hai haami tera Irfan-e-Haider
   Ye baateṅ karte haiṅ hum minbar pe jaa kar
   Ya rabbe zuljalaal
-  Haaṅ ishq-e-Haider mein Haider ki baat hi maani
+  Haaṅ ishq-e-Haider meiṅ Haider ki baat hi maani
 # source_id: nohayonline:cc48af2388c4e10bbe38
 # source_url: https://www.nohayonline.com/details_content.php?id=2219
 # raw_sha256: 657293304fc108a13ef7b96e2589f1d1f25172dec444ce393ac767fd82e688c3

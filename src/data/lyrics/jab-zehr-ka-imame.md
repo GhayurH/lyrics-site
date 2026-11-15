@@ -20,7 +20,7 @@ romanLyrics: |-
 
   2
   Aankhoṅ se ashk behne lage kaainaat ki
-  Aalam gham-e-Imam mein zer o zabar hua
+  Aalam gham-e-Imam meiṅ zer o zabar hua
 
   3
   Farsh-e-zamin pe baith ke rone lage Husain
@@ -35,7 +35,7 @@ romanLyrics: |-
   Ye ek aur taaza sitam aap par hua
 
   6
-  Tukre gire Hilal bahattar jo tasht mein
+  Tukre gire Hilal bahattar jo tasht meiṅ
   Aaghaaz-e-Karbala se jahaaṅ baa khabar hua
 # source_id: nohayonline:3299a12753ba39f8a2cc
 # source_url: https://www.nohayonline.com/details_content.php?id=865

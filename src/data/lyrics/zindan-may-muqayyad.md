@@ -1,6 +1,6 @@
 ---
 title: "زنداں میں مقید ہوئے جس دم حرم شاہ"
-alternateTitle: "Zindaaṅ Mein Muqayyad"
+alternateTitle: "Zindaaṅ Meiṅ Muqayyad"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,24 +11,24 @@ tags: []
 aliases: ["Zindan May Muqayyad"]
 published: true
 romanLyrics: |-
-  Zindaaṅ mein muqayyad hue jis dam haram-e-Shaah
+  Zindaaṅ meiṅ muqayyad hue jis dam haram-e-Shaah
   Amboh-e-khalaaiq hua darwaaze pa naagaah
 
   1
   Balwa hua is darja ke masdud hui raah
   Sar sharm se zanjir pa Aabid ne rakha aah
-  Tha wo arq-e-sharm asiroṅ ke na tan mein
-  Rota tha har ek uzw gham-e-Shaah-e-zaman mein
+  Tha wo arq-e-sharm asiroṅ ke na tan meiṅ
+  Rota tha har ek uzw gham-e-Shaah-e-zaman meiṅ
 
   2
-  Mashghul jo the khel mein atfaal wo saare
+  Mashghul jo the khel meiṅ atfaal wo saare
   Karti thi Sakina wahaaṅ hasrat se nazaare
   Kehti thi ke kya ho gaye hamjoli hamaare
   Baba Ali Asghar ko kahaaṅ leke sidhaare
 
   3
   Sab bachche yahaaṅ khelte haiṅ khandah zanaaṅ hai
-  Main khelti thi jin se wo atfaal kahaaṅ hai
+  Maiṅ khelti thi jin se wo atfaal kahaaṅ hai
   Naagah namudaar hui shaam-e-gharibaaṅ
   Aaya ghazab aalud wahaaṅ Shimr bad imaan
 
@@ -52,18 +52,18 @@ romanLyrics: |-
 
   7
   Kya naam-e-pidar pyaar se leta hai ye har baar
-  Ek hum hai ke hai baap ki furqat mein giraftaar
-  Dil mein jo mere dard hai Khaaliq pa ayaaṅ hai
-  Main kis ko kahuṅ baap mera baap kahaaṅ hai
+  Ek hum hai ke hai baap ki furqat meiṅ giraftaar
+  Dil meiṅ jo mere dard hai Khaaliq pa ayaaṅ hai
+  Maiṅ kis ko kahuṅ baap mera baap kahaaṅ hai
 
   8
-  Baba mere hote to unheṅ kehti main baba
-  Ab baap kahaaṅ jisko kahuṅ baap main dukhiya
+  Baba mere hote to unheṅ kehti maiṅ baba
+  Ab baap kahaaṅ jisko kahuṅ baap maiṅ dukhiya
   Yuṅ koi pidar beti se ghaafil nahiṅ hota
   Hairaan huṅ baba ke wo ashfaaq hue kya
 
   9
-  Aada ne hameṅ qaid kiya Shaam mein laakar
+  Aada ne hameṅ qaid kiya Shaam meiṅ laakar
   Baba mere kiuṅ mujhko nahiṅ dhundte aakar
   Ye kehke Sakina pa jo riqqat hui taari
   Bas haaye pidar kehke kai baar pukaari
@@ -71,18 +71,18 @@ romanLyrics: |-
   10
   Tarpi jo zamiṅ par to zamiṅ hil gayi saari
   Jhunjhla ke kaha Shimr ne phir karti ho zaari
-  Ab khub rulaauṅga tujhe main na daruṅga
+  Ab khub rulaauṅga tujhe maiṅ na daruṅga
   Rah tujhko asiroṅ se juda qaid karuṅga
 
   11
   Phir Shimr ne baazu-e-Sakina ko jo pakra
   Kunbe ki taraf us ne ajab yaas se dekha
-  Sab qaidiyoṅ mein ek qayaamat hui barpa
+  Sab qaidiyoṅ meiṅ ek qayaamat hui barpa
   Sajjad ke qadmoṅ par machal kar giri dukhiya
 
   12
   Yuṅ lipti thi bhaai se wo is khauf o khatar se
-  Ek haath to gardan mein tha ek haath kamar mein
+  Ek haath to gardan meiṅ tha ek haath kamar meiṅ
   Muṅh dekh ke Sajjad ka kehti thi wo dar kar
   Ab aap mere rone ke zaamin ho biradar
 
@@ -93,7 +93,7 @@ romanLyrics: |-
   Ab rouṅ to kar dijiyo zaalim ke hawaale
 
   14
-  Ab roi so main roi na phir rouṅgi zinhaar
+  Ab roi so maiṅ roi na phir rouṅgi zinhaar
   Ab rouṅ agar baap ko apne to gunahgaar
   Farmaao ke ab chhor de mujhko ye jafaakaar
   Baazu mera dukhne laga ae Aabid-e-bimaar

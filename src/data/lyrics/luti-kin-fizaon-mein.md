@@ -1,6 +1,6 @@
 ---
 title: "لٹی کن فضاؤں میں آل پیمبر"
-alternateTitle: "Luti Kin Fizaon Mein"
+alternateTitle: "Luti Kin Fizaoṅ Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,10 +11,10 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Luti kin fizaoṅ mein Aal-e-Payambar
-  Na main keh sakuṅ ga na tum sun sakogi
+  Luti kin fizaoṅ meiṅ Aal-e-Payambar
+  Na maiṅ keh sakuṅ ga na tum sun sakogi
   Hua kaise khaali Ali ka bhara ghar
-  Na main keh sakuṅ ga na tum sun sako ge
+  Na maiṅ keh sakuṅ ga na tum sun sako ge
 
   1
   Lagi dil pe barchhi jigar muṅh ko aaya
@@ -32,17 +32,17 @@ romanLyrics: |-
   Nazar aaya sar kis ka nok-e-sinaṅ par
 
   4
-  Kahuṅ Umm-e-Laila ka main haal kaise
+  Kahuṅ Umm-e-Laila ka maiṅ haal kaise
   Bayaṅ kya ho Kulsum ki bebasi ka
   Utaari gayi kaise Zainab ki chaadar
 
   5
   Na puchho naqaahat si taari thi kis par
   Na puchho kise ghash pe ghash aa rahe the
-  Ab aise mein jalne laga kis ka bistar
+  Ab aise meiṅ jalne laga kis ka bistar
 
   6
-  Sataaya tha ghurbat mein kis ko shaqi ne
+  Sataaya tha ghurbat meiṅ kis ko shaqi ne
   Kahuṅ kaise rukhsaar the kis ke zakhmi
   Tamaanche lagaata tha kis ko sitamgar
 
@@ -52,7 +52,7 @@ romanLyrics: |-
   Wo Shaam-e-Gharibaṅ ka dil soz manzar
 
   8
-  Viqar aah kis dil se ab main bataauṅ
+  Viqar aah kis dil se ab maiṅ bataauṅ
   Jo guzri hai Zainab ke qalb-e-haziṅ par
   Wo baazaar o darbaar Kufe ka manzar
 # source_id: nohayonline:b2588403b8d34584f2a3

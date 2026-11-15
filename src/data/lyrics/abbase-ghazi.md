@@ -40,15 +40,15 @@ romanLyrics: |-
   Mujhe de hausla Abbas-e-Ghazi
 
   5
-  Har ek ko kab se main samjha rahi huṅ
+  Har ek ko kab se maiṅ samjha rahi huṅ
   Mere bhaiya bahot ghabra rahi huṅ
-  Main kab se taziyane kha rahi huṅ
+  Maiṅ kab se taziyane kha rahi huṅ
   Khabar hai tujh ko kya Abbas-e-Ghazi
 
   6
   Kahiṅ Qasim kahiṅ Akbar ka lasha
   Kahiṅ chhe maah ke Asghar ka lasha
-  Para hai dhup mein Sarwar ka lasha
+  Para hai dhup meiṅ Sarwar ka lasha
   Ye kaisi hai jafa Abbas-e-Ghazi
 
   7
@@ -59,7 +59,7 @@ romanLyrics: |-
 
   8
   Karuṅ kaise sahan ae mere bhaiya
-  Gale mein hai rasan ae mere bhaiya
+  Gale meiṅ hai rasan ae mere bhaiya
   Na mar jaaye behan ae mere bhaiya
   Hai mujh se kiuṅ khafa Abbas-e-Ghazi
 

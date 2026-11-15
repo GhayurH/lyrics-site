@@ -12,19 +12,19 @@ aliases: []
 published: true
 romanLyrics: |-
   Paasban-e-rida ae Shahanshah-e-Wafa Abbas
-  Sharm o haya ki malika balwe mein berida hai
+  Sharm o haya ki malika balwe meiṅ berida hai
   Abbas tu kahaṅ hai
   Beghairatoṅ ka majma bazaar bhi saja hai
   Abbas tu kahaṅ hai
 
   1
-  Shimr-e-laeen ye bola Bint-e-Ali se aa kar
+  Shimr-e-laiṅ ye bola Bint-e-Ali se aa kar
   Abbas ko bula le tha tujh ko naaz jis par
   Saadaat sun ke roe Fizza ki ye buka hai
   Abbas tu kahaṅ hai
 
   2
-  Naapaak zaalimoṅ ne narghe mein Shahzaadi
+  Naapaak zaalimoṅ ne narghe meiṅ Shahzaadi
   Baaloṅ se munh chhupa kar Zainab ne ye sada di
   Patthardiloṅ se chadar Sajjad maangta hai
   Abbas tu kahaṅ hai
@@ -36,7 +36,7 @@ romanLyrics: |-
   Abbas tu kahaṅ hai
 
   4
-  Jakre rasan mein qaidi bazaar mein jo aaye
+  Jakre rasan meiṅ qaidi bazaar meiṅ jo aaye
   Barsa rahe the patthar Ahl-e-Damishq haaye
   In zakhm qaidiyoṅ ka har zakhm puchhta hai
   Abbas tu kahaṅ hai
@@ -50,7 +50,7 @@ romanLyrics: |-
   6
   Lehra ke taaziyana haakim pukaara jaao
   Abbas ki behan ko darbar le ke aao
-  Zaalim ka hukm sun kar Shimr-e-laeen barha hai
+  Zaalim ka hukm sun kar Shimr-e-laiṅ barha hai
   Abbas tu kahaṅ hai
 
   7

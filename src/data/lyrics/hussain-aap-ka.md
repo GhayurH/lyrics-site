@@ -15,24 +15,24 @@ romanLyrics: |-
   Badal rahi hai zamaane ki ye fiza ammaaṅ
 
   1
-  Main jaanta huṅ mashiyyat bula rahi hai mujhe
+  Maiṅ jaanta huṅ mashiyyat bula rahi hai mujhe
   Mere Nabi ki shariat bula rahi hai mujhe
   Pukaarta hai mujhe dasht-e-Nainawa ammaaṅ
 
   2
-  Kiya tha waada jo bachpan mein wo nibhana hai
+  Kiya tha waada jo bachpan meiṅ wo nibhana hai
   Jigar ke tukroṅ se maqtal mujhe sajaana hai
-  Khudaara kijiye haq mein mere dua ammaaṅ
+  Khudaara kijiye haq meiṅ mere dua ammaaṅ
 
   3
-  Palat ke aauṅga ab main kahaaṅ Madine mein
-  Hai paas naani ke Sughra wahaaṅ Madine mein
+  Palat ke aauṅga ab maiṅ kahaaṅ Madine meiṅ
+  Hai paas naani ke Sughra wahaaṅ Madine meiṅ
   Jalaane aayegi marqad pe wo diya ammaaṅ
 
   4
   Safar ko Zainab-e-dilgir saath jaati hai
   Wo dekho waaris-e-tathir saath jaati hai
-  Chhinegi dasht mein ghamkhwaar ki rida ammaaṅ
+  Chhinegi dasht meiṅ ghamkhwaar ki rida ammaaṅ
 
   5
   Badal gaya hai zamaane ka kis qadar manzar
@@ -45,7 +45,7 @@ romanLyrics: |-
   Ghamoṅ ki honi hai kuch aise intiha ammaaṅ
 
   7
-  Faza-e-Karbobala mein udaasiyaaṅ aayi
+  Faza-e-Karbobala meiṅ udaasiyaaṅ aayi
   Utho Rasul tumhaari nawaasiyaaṅ aayi
   Bashir dega tarap ke yehi sada ammaaṅ
 

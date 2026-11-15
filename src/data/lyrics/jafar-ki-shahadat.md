@@ -11,11 +11,11 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Jafar ki shahadat jo Madine mein hui hai
+  Jafar ki shahadat jo Madine meiṅ hui hai
   Phir Aal-e-Muhammad pe qayamat ki ghari hai
 
   1
-  Tukre kiya turbat mein Muhammad ka kaleja
+  Tukre kiya turbat meiṅ Muhammad ka kaleja
   Jafar ko diya zehr jo Mansur shaqi hai
 
   2
@@ -23,7 +23,7 @@ romanLyrics: |-
   Ek aag hai jo zehr ki shiddat se lagi hai
 
   3
-  Sam sine mein Jafar ke jo pahuncha hai khudara
+  Sam sine meiṅ Jafar ke jo pahuncha hai khudara
   Dil tukre hai andar se koi chalti chhuri hai
 
   4
@@ -39,8 +39,8 @@ romanLyrics: |-
   Sar pitte haiṅ koi kahiṅ sina zani hai
 
   7
-  Hai sarf-e-aza aap ki aulaad ke gham mein
-  Ye maatami sangat jo Rasool-e-Arabi hai
+  Hai sarf-e-aza aap ki aulaad ke gham meiṅ
+  Ye maatami sangat jo Rasul-e-Arabi hai
 
   8
   Hur baad-e-Nabi Aal-e-Nabi kaise guzaare

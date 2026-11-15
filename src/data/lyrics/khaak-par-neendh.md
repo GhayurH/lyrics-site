@@ -25,7 +25,7 @@ romanLyrics: |-
   Kis tarah qalb ko behlaati Baba
 
   3
-  Dekhuṅ maidaaṅ mein bikhre hue be sar laashe
+  Dekhuṅ maidaaṅ meiṅ bikhre hue besar laashe
   Aur us par ye andhera ye sitam ke narghe
   Warna hargiz na maiṅ ghabraati Baba
 
@@ -36,13 +36,13 @@ romanLyrics: |-
 
   5
   Aap ke sine pe aaraam se so jaati thi
-  Aap ki baahoṅ mein hi nind mujhe aati thi
+  Aap ki baahoṅ meiṅ hi nind mujhe aati thi
   Ab to har saaṅs hai tarpaati Baba
 
   6
   Zindagi meri to ashkoṅ se ibaarat thahri
   Garm reti pe kahaaṅ soye dukhoṅ ki maari
-  Nind aisi mein kahaaṅ aati Baba
+  Nind aisi meiṅ kahaaṅ aati Baba
 
   7
   Baba ye garm hawaaeṅ haiṅ sitam ka sehra

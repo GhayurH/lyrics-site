@@ -11,36 +11,36 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Baatil ka zehr phail raha hai hawaaoṅ mein
-  Rahiye wilaa-e-Aal-e-Muhammad ki chhaaoṅ mein
+  Baatil ka zehr phail raha hai hawaaoṅ meiṅ
+  Rahiye wilaa-e-Aal-e-Muhammad ki chhaaoṅ meiṅ
 
   1
-  Le kar chala hai haath mein taqdir din ki
-  Gardan mein jis ke tauq hai zanjir hai paaoṅ mein
+  Le kar chala hai haath meiṅ taqdir din ki
+  Gardan meiṅ jis ke tauq hai zanjir hai paaoṅ meiṅ
 
   2
   Ik roz wo zamin par gir kar bikhar gaye
-  Urte rahe jo zulm ki andhi hawaaoṅ mein
+  Urte rahe jo zulm ki andhi hawaaoṅ meiṅ
 
   3
   Hai ab bhi din-e-Haq ke ujaaloṅ ka paasbaaṅ
-  Zehra ka chaand zulm ki kaali ghataaoṅ mein
+  Zehra ka chaand zulm ki kaali ghataaoṅ meiṅ
 
   4
   Yuṅ Mustafa ki aabru rakh li Husain ne
-  Islam ko bacha liya ghir kar balaaoṅ mein
+  Islam ko bacha liya ghir kar balaaoṅ meiṅ
 
   5
   Bachche to so gaye shab-e-Aashur chain se
-  Lekin bapa tha shor qayaamat ka maaoṅ mein
+  Lekin bapa tha shor qayaamat ka maaoṅ meiṅ
 
   6
   Ae momino behan se juda kya hue Husain
-  Zainab ke bain aaj talak haiṅ fizaaoṅ mein
+  Zainab ke bain aaj talak haiṅ fizaaoṅ meiṅ
 
   7
   Gulshan ke phul dekh kar murjha gaye Uruj
-  Lipte jo khaar Hazrat-e-Aabid ke paaoṅ mein
+  Lipte jo khaar Hazrat-e-Aabid ke paaoṅ meiṅ
 # source_id: nohayonline:df00b4dcab8597b398e8
 # source_url: https://www.nohayonline.com/details_content.php?id=628
 # raw_sha256: e29929770eb15e90df742ccefee204edcad13bc2028457fdc880ef42a23406ad

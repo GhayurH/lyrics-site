@@ -29,13 +29,13 @@ romanLyrics: |-
   Wa hasrata wa aalam-e-dara baar Husaina
 
   3
-  Ye saath the ammo he giraaṅ shaam-e-gharibaṅ
+  Ye saath the ammo hai giraaṅ shaam-e-gharibaṅ
   Aur sehme hue ahl-e-haram dard badaama
   Zakhmoṅ pa namak paashi ka hone laga saamaaṅ
   Ab koi nahiṅ munis o ghamkhwaar Husaina
 
   4
-  Kya azm tha ghurbat mein bhi ae saani-e-Zehra
+  Kya azm tha ghurbat meiṅ bhi ae saani-e-Zehra
   Bachchoṅ ko sambhaala kabhi bewaoṅ ko dekha
   Sajjad ko Baqir ko Sakina ko sulaaya
   Maujud hai Akbar na alamdaar Husaina

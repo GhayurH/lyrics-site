@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Hua ye shor ke ghore se gir gaye Akbar
-  Husain aaye hain maqtal mein ghutniyoṅ chal kar
+  Husain aaye haiṅ maqtal meiṅ ghutniyoṅ chal kar
   Sar apne laal ka zaanu pe shaah ne rakha
   Zaif baap ye kariyal jawaaṅ se bola
   Rakha hai haath kaleje pe kiuṅ mere beta
@@ -40,13 +40,13 @@ romanLyrics: |-
   Ab mujhe kuchh der ae mere pisar na dekhna
 
   5
-  Aastiṅ apni charha kar jab main khinchuṅ ga sinaaṅ
+  Aastiṅ apni charha kar jab maiṅ khinchuṅ ga sinaaṅ
   Waasta tujh ko tere baba ka ae kariyal jawaaṅ
   Meri jaanib ae mere nur-e-nazar na dekhna
 
   6
   Phir kiya khaime ka rukh Akbar ne ro kar ye kaha
-  Dubta hai Karbala mein chaand ae ammaaṅ tera
+  Dubta hai Karbala meiṅ chaand ae ammaaṅ tera
   Chaand ki jaanib kabhi ab umr bhar na dekhna
 
   7
@@ -55,8 +55,8 @@ romanLyrics: |-
   God ke paale ka ye mushkil safar na dekhna
 
   8
-  Ae Suraani ro para dil main ne jis dam ye likha
-  Aakhri saansoṅ mein di Sughra ko Akbar ne sada
+  Ae Suraani ro para dil maiṅ ne jis dam ye likha
+  Aakhri saansoṅ meiṅ di Sughra ko Akbar ne sada
   Ab mera rasta behan shaam o sehar na dekhna
 # source_id: nohayonline:ea4b358b7ebee29f0ec5
 # source_url: https://www.nohayonline.com/details_content.php?id=2852

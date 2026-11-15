@@ -10,56 +10,56 @@ tags: []
 aliases: ["Haan Tha Mera Baba"]
 published: true
 romanLyrics: |-
-  Rasan mein gale baarah aur barehna sar
-  Jab aaye Shaam ke darbaar mein darida jigar
+  Rasan meiṅ gale baarah aur barehna sar
+  Jab aaye Shaam ke darbaar meiṅ darida jigar
   Pari Sakina pe nigaah us shaqi ki nazar
   Yazid naam tha jis ka sajaaye tha darbaar
 
-  Liye tha god mein dukhtar ko apni woh makkaar
-  Woh apni bachchi ke baaloṅ mein haath pherta tha
+  Liye tha god meiṅ dukhtar ko apni woh makkaar
+  Woh apni bachchi ke baaloṅ meiṅ haath pherta tha
   Laga ke sine se bachchi ko pyaar se dekha
   Lahak ke baali Sakina se woh shaqi bola
   Tujhe bhi baba tera aise hi pyaar karta tha
 
-  Kaha Sakina ne main shaah-e-diṅ ki pyaari huṅ
+  Kaha Sakina ne maiṅ shaah-e-diṅ ki pyaari huṅ
   Tabaah haal huṅ is dam dukhoṅ ki maari huṅ
   Tum mere baba ka gandi zabaan se naam na le
-  Ghurur itna na kar baandh ke rasan mein hameiṅ
+  Ghurur itna na kar baandh ke rasan meiṅ hameiṅ
 
-  Main kitni pyaari thi baba ki kya bataauṅ tujhe
-  Main bhul sakti nahiṅ apne baba ko mar ke
-  Main jab bhi roti thi baba mujhe manaata tha
+  Maiṅ kitni pyaari thi baba ki kya bataauṅ tujhe
+  Maiṅ bhul sakti nahiṅ apne baba ko mar ke
+  Maiṅ jab bhi roti thi baba mujhe manaata tha
   Bana ke haathoṅ ko jhula mujhe jhulaata tha
 
   Haaṅ tha mera baba mere liye zinda
   Haaṅ tha mera baba
 
   1
-  Main sine pe soti thi, taskin si hoti thi
-  Maaṅ ban ke mujhe jis ne aaghosh mein paala tha
+  Maiṅ sine pe soti thi, taskin si hoti thi
+  Maaṅ ban ke mujhe jis ne aaghosh meiṅ paala tha
 
   2
   Kya puchhta hai mujhe, khud puchh le baba se
-  Sar tasht mein rakha hai woh khud hi bata dega
+  Sar tasht meiṅ rakha hai woh khud hi bata dega
 
   3
-  Main kitni dulaari huṅ, woh dard ki maari huṅ
-  Gar un ko bulaauṅ main sar god mein aayega
+  Maiṅ kitni dulaari huṅ, woh dard ki maari huṅ
+  Gar un ko bulaauṅ maiṅ sar god meiṅ aayega
 
   4
   Kiuṅ mujh ko rulaata hai, aisa kahiṅ hota hai
   Bin baap ki bachchi ko dete haiṅ dilaasa
 
   5
-  Teri bhi to beti hai, godi mein jo baithi hai
+  Teri bhi to beti hai, godi meiṅ jo baithi hai
   Tu dekh use zaalim phir dekh mera chehra
 
   6
   Abbas agar hote, kunbe ko mere kaise
-  Tu baandh ke rassi mein darbaar mein laata
+  Tu baandh ke rassi meiṅ darbaar meiṅ laata
 
   7
-  Ye kurta phata mera, jo khun mein duba hai
+  Ye kurta phata mera, jo khun meiṅ duba hai
   Abbas jo dekheiṅ ge ek hashr uthe ga
 
   8
@@ -68,7 +68,7 @@ romanLyrics: |-
 
   9
   Ye khaak asiri ki, chehroṅ pe nahiṅ hoti
-  Baba mere sajde mein gar sar na kataata
+  Baba mere sajde meiṅ gar sar na kataata
 
   10
   Rehaan qalam mera, likh kar ye bayaaṅ roya

@@ -1,6 +1,6 @@
 ---
 title: "اے کربلا میں حق کے سفیروں سلام لو"
-alternateTitle: "Ae Karbala Mein Haq"
+alternateTitle: "Ae Karbala Meiṅ Haq"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: ["Ay Karbala Mein Haq"]
 published: true
 romanLyrics: |-
-  Ae Karbala mein haq ke safiroṅ salaam lo
+  Ae Karbala meiṅ haq ke safiroṅ salaam lo
   Ae bekasoṅ yatimoṅ asiroṅ salaam lo
 
   1
@@ -28,7 +28,7 @@ romanLyrics: |-
 
   3
   Qasim ki haaye marg-e-jawaani tumheṅ salaam
-  Khuṅ mein bhari Hasan ki nishaani tumheṅ salaam
+  Khuṅ meiṅ bhari Hasan ki nishaani tumheṅ salaam
   Ae tin din ki tishna-dahaani tumheṅ salaam
   Shahzaade band ho gaya paani tumheṅ salaam
 
@@ -54,7 +54,7 @@ romanLyrics: |-
   Dukh ae Sakina tum ne uthaae tumheṅ salaam
   Baba bhi laut kar nahiṅ aaye tumheṅ salaam
   Rukhsaar par tamaache bhi khaaye tumheṅ salaam
-  Naazuk se kaan khuṅ mein nahaae tumheṅ salaam
+  Naazuk se kaan khuṅ meiṅ nahaae tumheṅ salaam
 # source_id: nohayonline:90498c42c113c330f651
 # source_url: https://www.nohayonline.com/details_content.php?id=271
 # raw_sha256: e953f6bb984eca3ae1a7798451e77432a655920aa73a4f352011503e10f58274

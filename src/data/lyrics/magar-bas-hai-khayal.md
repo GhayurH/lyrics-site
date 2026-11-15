@@ -15,10 +15,10 @@ romanLyrics: |-
   Magar bas hai khayal is ka ke ye nana ki ummat hai
 
   1
-  Bahamdulillah apne baazuoṅ mein haq ki quwwat hai
+  Bahamdulillah apne baazuoṅ meiṅ haq ki quwwat hai
   Garaaṅ saqlain se laaraib apni ek zarbat hai
-  Bashar kya shay hai maafauq-ul-bashar apni shujaat hai
-  Par-e-Jibril se puchho ke hum mein kitni taaqat hai
+  Bashar kya she hai maafauq-ul-bashar apni shujaat hai
+  Par-e-Jibril se puchho ke hum meiṅ kitni taaqat hai
   Hamare saamne sab hech ye faujoṅ ki kasrat hai
 
   2
@@ -38,8 +38,8 @@ romanLyrics: |-
   Jawanaan-e-Bani Hashim to hai shab hi se aamaada
   Namaaz-e-subh se tegheṅ dhare haiṅ zer-e-sajjaada
   Wo dekho wo Hasan ka laal wo Akbar sa shahzaada
-  Alam ke zer-e-saaya sab se pehli saf mein istaada
-  Mere sheroṅ ko koi tok de ye kis mein himmat hai
+  Alam ke zer-e-saaya sab se pehli saf meiṅ istaada
+  Mere sheroṅ ko koi tok de ye kis meiṅ himmat hai
 
   5
   Faqat Akbar mera nau laakh ke lashkar ko kaafi hai
@@ -60,7 +60,7 @@ romanLyrics: |-
   Ba-zor-e-tegh baiat par mujhe majbur kar leṅge
   Hata kar shama parwaanoṅ se kasb-e-nur kar leṅge
   Sawaad-e-Shaam se haasil charaagh-e-Tur kar leṅge
-  Hameṅ bhi dekhna hai aaj in mein kitni taaqat hai
+  Hameṅ bhi dekhna hai aaj in meiṅ kitni taaqat hai
 # source_id: nohayonline:788eb7b5ba30306dd0e6
 # source_url: https://www.nohayonline.com/details_content.php?id=2975
 # raw_sha256: 37afdefed5c053b779227478f1feb12c5e34298a91763020a2b93317574c4808

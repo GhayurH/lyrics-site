@@ -25,7 +25,7 @@ romanLyrics: |-
   Taazim khub ki hai Khair-ul-Anaam ki
 
   3
-  Zanjir o tauq to rag o pai mein paiwast the
+  Zanjir o tauq to rag o pai meiṅ paiwast the
   Mazdur le ke aaye mayyat Imam ki
 
   4

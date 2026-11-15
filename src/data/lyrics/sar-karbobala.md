@@ -20,10 +20,10 @@ romanLyrics: |-
 
   1
   Sar Karbobala Zainab-e-dilgir karegi
-  Is dasht-e-bayaabaaṅ ki taamir karegi
+  Is dasht-e-bayaabaan ki taamir karegi
   Paighaam-e-Shah-e-waala ki tashhir karegi
   Zaalim ki har ek gaam pe tehkhir karegi
-  Tufaan-e-jafa mein gham-e-Shabbir karegi
+  Tufaan-e-jafa meiṅ gham-e-Shabbir karegi
 
   2
   Dil tarpeṅge mazlumi-e-Sarwar ke asar se
@@ -36,7 +36,7 @@ romanLyrics: |-
   Phat jaayeṅge sahraaoṅ ke jangal ke kaleje
   Tarpeṅge gham o dard se is farsh ke tapkhe
   Ta hashr na bhuleṅge jinheṅ raah ye raste
-  Chausath shameṅ raahoṅ mein jala duṅgi safar ke
+  Chausath shameṅ raahoṅ meiṅ jala duṅgi safar ke
   Paaband-e-rasan reh ke bhi tadbir karegi
 
   4
@@ -44,7 +44,7 @@ romanLyrics: |-
   Ho jaayeṅge shaq qalb o jigar naala o gham se
   Uthegi sada girya o maatam jo haram se
   Barsega lahu sun ke har ek dida-e-nam se
-  Shab mein jo buka Maadar-e-Shabbir karegi
+  Shab meiṅ jo buka Maadar-e-Shabbir karegi
 
   5
   Sar nange haiṅ ye Bibiyaṅ ae Shaam ke logoṅ
@@ -54,10 +54,10 @@ romanLyrics: |-
   Parda ba Khuda chaadar-e-tathir karegi
 
   6
-  Likhti hai ye taarikh Anees-e-jigar afgaar
-  Zehra hai gham-e-Shah mein bas itni talabgaar
+  Likhti hai ye taarikh Anis-e-jigar afgaar
+  Zehra hai gham-e-Shah meiṅ bas itni talabgaar
   Maatam kare girya kare Sarwar ke azaadaar
-  Har majlis-e-Shabbir mein karti haiṅ ye izhaar
+  Har majlis-e-Shabbir meiṅ karti haiṅ ye izhaar
   Ta hashr buka Maadar-e-Shabbir karegi
 # source_id: nohayonline:e1a5afb57742a13a1608
 # source_url: https://www.nohayonline.com/details_content.php?id=423

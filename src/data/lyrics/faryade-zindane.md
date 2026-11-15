@@ -12,29 +12,29 @@ aliases: ["Faryade Zindane"]
 published: true
 romanLyrics: |-
   Faryaad-e-zindaan-e-Shaam
-  Main huṅ zindaan-e-Shaam
+  Maiṅ huṅ zindaan-e-Shaam
 
   1
-  Main ne dekhe hazaar haa qaidi
+  Maiṅ ne dekhe hazaar haa qaidi
   Aise qaidi magar nahiṅ dekhe
-  Khuṅ mein dube badan to dekhe haiṅ
-  Is qadar khuṅ mein tar nahiṅ dekhe
+  Khuṅ meiṅ dube badan to dekhe haiṅ
+  Is qadar khuṅ meiṅ tar nahiṅ dekhe
 
   2
-  Main ne dekhe haiṅ jitne qaidi bhi
+  Maiṅ ne dekhe haiṅ jitne qaidi bhi
   Un ki aankhoṅ se ashk jaari the
   Un ke jismoṅ pe zakhm kaari the
   Un pe lamhe alam ke bhaari the
   Jin ka rona mujhe rulaata ho
-  Main ne yuṅ noha gar nahiṅ dekhe
+  Maiṅ ne yuṅ noha gar nahiṅ dekhe
 
   3
-  Ek qaidi to in mein aisa hai
-  Tauq jis ke gale mein bhaari hai
+  Ek qaidi to in meiṅ aisa hai
+  Tauq jis ke gale meiṅ bhaari hai
   Qaafile ka yahi mahaari hai
   Jis ki aankhoṅ se khun jaari hai
   Sabr ke jo hunar haiṅ paas is ke
-  Main ne aise hunar nahiṅ dekhe
+  Maiṅ ne aise hunar nahiṅ dekhe
 
   4
   Shaam rote sahar ko rote haiṅ
@@ -57,15 +57,15 @@ romanLyrics: |-
   Jaise ye do jahaan rote haiṅ
   Jab bhi karte haiṅ ro ke ye naale
   Sab zamiṅ aasmaan rote haiṅ
-  Main ne naale kisi bhi qaidi ke
+  Maiṅ ne naale kisi bhi qaidi ke
   Is qadar pur asar nahiṅ dekhe
 
   7
-  Khud mein hi qaid ho raha huṅ main
-  Dekh kar in ko ro raha huṅ main
+  Khud meiṅ hi qaid ho raha huṅ maiṅ
+  Dekh kar in ko ro raha huṅ maiṅ
   Kya bataauṅ ye dard kaisa hai
-  Jis ko dil mein samo raha huṅ main
-  Main ne mazlum to kai dekhe
+  Jis ko dil meiṅ samo raha huṅ maiṅ
+  Maiṅ ne mazlum to kai dekhe
   Aise mazlum par nahiṅ dekhe
 
   8
@@ -74,15 +74,15 @@ romanLyrics: |-
   Ambiya bhi na kar sake hoṅ ge
   Aisi haalat pe shukr ke sajde
   Jin ke sar par ho naaz sajde ko
-  Main ne to aise sar nahiṅ dekhe
+  Maiṅ ne to aise sar nahiṅ dekhe
 
   9
-  Aisi qaamat hai in ki Noor Ali
+  Aisi qaamat hai in ki Nur Ali
   Din ki qaamat-e-daraaz haiṅ ye
   Haiṅ namaazi keh khud namaaz haiṅ ye
   Donoṅ aalam ke chaarah saaz haiṅ ye
-  Qaid mein qaidiyoṅ ko dekha hai
-  Qaid mein chaarah gar nahiṅ dekhe
+  Qaid meiṅ qaidiyoṅ ko dekha hai
+  Qaid meiṅ chaarah gar nahiṅ dekhe
 # source_id: nohayonline:a6fabff4ee087eef6ff5
 # source_url: https://www.nohayonline.com/details_content.php?id=3274
 # raw_sha256: cd8c523a32cf76395b5f4078ae6723fcfdc703f8fd39d4e68289def6391a0a40

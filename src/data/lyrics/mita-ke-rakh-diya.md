@@ -15,22 +15,22 @@ romanLyrics: |-
   Payambarana kiya hai ye kaam Zainab ne
 
   1
-  Charaagh-e-sabr ke maqtal mein yuṅ kiye roshan
+  Charaagh-e-sabr ke maqtal meiṅ yuṅ kiye roshan
   Kiye wo azmat o kirdaar ke diye roshan
   Sahar bana di shahaadat ki shaam Zainab ne
 
   2
-  Kiya zubaaṅ se wo hamla Ali ke lehje mein
-  Diya wo ghaiz mein khutba Ali ke lehje mein
+  Kiya zubaaṅ se wo hamla Ali ke lehje meiṅ
+  Diya wo ghaiz meiṅ khutba Ali ke lehje meiṅ
   Ulat ke rakh diya darbaar-e-Shaam Zainab ne
 
   3
   Zamin kaamp uthi ahl-e-zulm ghabraaye
   Jo qadh zubaaṅ the wo bezubaaṅ nazar aaye
-  Kiya jalaal mein jis dam kalaam Zainab ne
+  Kiya jalaal meiṅ jis dam kalaam Zainab ne
 
   4
-  Kabhi to bhaai ke maatam mein aah o zaari ki
+  Kabhi to bhaai ke maatam meiṅ aah o zaari ki
   Kabhi jale hue khaimoṅ ki pehredaari ki
   Guzaari is tarah ghurbat ki shaam Zainab ne
 
@@ -40,7 +40,7 @@ romanLyrics: |-
   Pukaara jis ghari Ghaazi ka naam Zainab ne
 
   6
-  Bala ke dasht mein apne lahu mein dube hue
+  Bala ke dasht meiṅ apne lahu meiṅ dube hue
   Ghayur sheroṅ ke laashe tarap tarap uthe
   Kiya jo aakhri Shah ko salaam Zainab ne
 

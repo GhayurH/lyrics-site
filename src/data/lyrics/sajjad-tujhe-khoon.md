@@ -15,13 +15,13 @@ romanLyrics: |-
   Chaalis baras bhul na paayega ye baazaar
 
   1
-  Bedinoṅ ke narghe mein haram hoṅge khule sar
+  Bedinoṅ ke narghe meiṅ haram hoṅge khule sar
   Barsaayeṅge kothoṅ se asiroṅ pe wo patthar
   Taa umr nigaahoṅ se jaayega na ye baazaar
 
   2
   Darwaaza-e-saaat pe laiṅ deṅge munaadi
-  Naaqoṅ se utar jaaye isi dhup mein qaidi
+  Naaqoṅ se utar jaaye isi dhup meiṅ qaidi
   Yuṅ zehmat-e-saadaat barhaayega ye baazaar
 
   3
@@ -46,7 +46,7 @@ romanLyrics: |-
 
   7
   Chaudah sau baras baad hameṅ Safdar o Mazhar
-  Milte haiṅ kitaaboṅ mein yehi dard ke manzar
+  Milte haiṅ kitaaboṅ meiṅ yehi dard ke manzar
   Phir kis tarah bimaar bhulaayega ye baazaar
 # source_id: nohayonline:d11b5c34f255eb7e0f56
 # source_url: https://www.nohayonline.com/details_content.php?id=3756

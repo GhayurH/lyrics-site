@@ -1,6 +1,6 @@
 ---
 title: "راحتِ جاں ورد زباں"
-alternateTitle: "Jawan Ali Akbar"
+alternateTitle: "Jawaṅ Ali Akbar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -26,10 +26,10 @@ romanLyrics: |-
   Husn-e-Zaman Akbar ae naaz-e-chaman Akbar
 
   2
-  Maula Shabbir ne maanga hai duaaoṅ mein tumheṅ
-  Ghaazi Abbas ne rakha hai panaahoṅ mein tumheṅ
-  Mil ke do maaoṅ ne paala hai ridaaoṅ mein tumheṅ
-  Rab-e-Akbar ne rakha nuri hijaaboṅ mein tumheṅ
+  Maula Shabbir ne maanga hai duaaoṅ meiṅ tumheṅ
+  Ghaazi Abbas ne rakha hai panaahoṅ meiṅ tumheṅ
+  Mil ke do maaoṅ ne paala hai ridaaoṅ meiṅ tumheṅ
+  Rab-e-Akbar ne rakha nuri hijaaboṅ meiṅ tumheṅ
   Naaz-e-dil-e-Sarwar ae shabih-e-Paighambar
 
   3
@@ -37,19 +37,19 @@ romanLyrics: |-
   Boli Zainab mujhe surat to dikhaate jaao
   Bole Shabbir meri aas bandhaate jaao
   Mujh ko naana ki ziyaarat to karaate jaao
-  Haaye lahu mein tar ham-surat-e-Paighambar
+  Haaye lahu meiṅ tar ham-surat-e-Paighambar
 
   4
   Kaise maqtal tumheṅ jaane ki ijaazat de duṅ
   Kaise khaime se nikalne ki ijaazat de duṅ
-  Kaise is pyaas mein larne ki ijaazat de duṅ
+  Kaise is pyaas meiṅ larne ki ijaazat de duṅ
   Maaṅ huṅ kaise tumheṅ marne ki ijaazat de duṅ
   Ae jaan-e-dil-e-maadar ye maaṅ ho fida tum par
 
   5
   Khaa ke sine pe sinaaṅ ziṅ se Akbar jo gira
-  Ho gaya khaimoṅ mein kohraam bapa waawaila
-  Ye sadaa dasht mein deta tha Gharib-e-Zahra
+  Ho gaya khaimoṅ meiṅ kohraam bapa waawaila
+  Ye sadaa dasht meiṅ deta tha Gharib-e-Zahra
   Haaye Akbar mera Akbar mera Akbar na raha
   Nur-e-nazar Akbar ae naaz-e-pidar Akbar
 # source_id: nohayonline:0819dbce0d807900f04d

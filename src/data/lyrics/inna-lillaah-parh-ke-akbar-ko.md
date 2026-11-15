@@ -26,7 +26,7 @@ romanLyrics: |-
   2
   jaise dil jaa raha ho maqtal may
   jaise jaati ho jaan sine se
-  aise apne jawaṅ ke piche
+  aise apne jawaaṅ ke piche
   ek mazlum baap chalta hai
 
   3
@@ -39,7 +39,7 @@ romanLyrics: |-
   quwwat-e-murtaza ye puchti hai
   sabr-e-shabbir itna batla de
   wo to khyber ke dar se wazni tha
-  kaise laasha jawaṅ uthaya hai
+  kaise laasha jawaaṅ uthaya hai
 
   5
   ran may rahwaar se gire akbar

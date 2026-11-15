@@ -12,11 +12,11 @@ aliases: []
 published: true
 romanLyrics: |-
   Rakhna meri ammaaṅ se mere zakhm chhupa kar
-  Baba mere sine mein sinaaṅ tut gayi hai
+  Baba mere sine meiṅ sinaaṅ tut gayi hai
 
   1
   Sine pe rakha haath hataaya nahiṅ jaata
-  Wo dard hai sine mein bataaya nahiṅ jaata
+  Wo dard hai sine meiṅ bataaya nahiṅ jaata
   Aur pyaas se aati hai meri jaan laboṅ par
 
   2
@@ -26,7 +26,7 @@ romanLyrics: |-
 
   3
   Us ko mere aa jaane ki ummid bari hai
-  Jine ki dua us ne mujhe khat mein likhi hai
+  Jine ki dua us ne mujhe khat meiṅ likhi hai
   Sughra se ye kehna ke miluṅ ga lab-e-Kausar
 
   4
@@ -37,16 +37,16 @@ romanLyrics: |-
   5
   Dekhe se mujhe yaad tumheṅ aate the nana
   Ab aakhri ye tum se mulaaqaat hai baba
-  Mil jaaye gi matti mein ye tasvir-e-Payambar
+  Mil jaaye gi matti meiṅ ye tasvir-e-Payambar
 
   6
-  Is zakhm ke upar main naye zakhm bhi khaa luṅ
+  Is zakhm ke upar maiṅ naye zakhm bhi khaa luṅ
   Jaaṅ apni fida kar ke Shah-e-diṅ ko bacha luṅ
   Ye dil ki tamanna thi magar haaye muqaddar
 
   7
   Akbar ne Raza apne padar se ye kaha tha
-  Sau baar main ho jaata fidaa-e-Shah-e-waala
+  Sau baar maiṅ ho jaata fidaa-e-Shah-e-waala
   Gham is ka rulaata hai mujhe Sibt-e-Payambar
 # source_id: nohayonline:95c10d6c6b68641fb8b8
 # source_url: https://www.nohayonline.com/details_content.php?id=1624

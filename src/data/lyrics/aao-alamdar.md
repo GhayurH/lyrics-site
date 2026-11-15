@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Bint-e-Ali ke liye hashr ka hai saamna
-  Nargha-e-aada mein hai Aal-e-Nabi berida
+  Nargha-e-aada meiṅ hai Aal-e-Nabi berida
   Aa gaya bazaar aao Alamdar
   Naaqoṅ pe mehmil nahiṅ sar pe bhi chadar nahiṅ
   Kaun dilaaye rida koi baradar nahiṅ
@@ -24,18 +24,18 @@ romanLyrics: |-
   Khatm bhala hoga kab zulm ka ye silsila
 
   2
-  Shor qayamat ka hai shaam ke bazaar mein
-  Kaafiroṅ ki kursiyaaṅ sajti hai darbaar mein
+  Shor qayamat ka hai shaam ke bazaar meiṅ
+  Kaafiroṅ ki kursiyaaṅ sajti hai darbaar meiṅ
   Sar ko uthaate nahiṅ Hazrat-e-Zain-ul-Abaa
 
   3
-  Fikr hai bimar ko kaise bataauṅ ga main
-  Dil pe guzarti hai jo kaise sunaauṅ ga main
-  Chaahne waala koi aise mein gar mil gaya
+  Fikr hai bimar ko kaise bataauṅ ga maiṅ
+  Dil pe guzarti hai jo kaise sunaauṅ ga maiṅ
+  Chaahne waala koi aise meiṅ gar mil gaya
 
   4
-  Aal-e-Payambar hai wo qaid jo rassi mein hai
-  Waris-e-Kausar hai wo qaid jo rassi mein hai
+  Aal-e-Payambar hai wo qaid jo rassi meiṅ hai
+  Waris-e-Kausar hai wo qaid jo rassi meiṅ hai
   Aur Sakina hai wo kasta hai jis ka gala
 
   5
@@ -44,13 +44,13 @@ romanLyrics: |-
   Bain sune to koi roti hai khud Fatima
 
   6
-  Aankhoṅ mein Laila ki hai khuṅ bhari Akbar ki laash
-  Dasht mein chhor aayi hai Bano bhi Asghar ki laash
+  Aankhoṅ meiṅ Laila ki hai khuṅ bhari Akbar ki laash
+  Dasht meiṅ chhor aayi hai Bano bhi Asghar ki laash
   Laadloṅ ki surateṅ dhundhti hai maamta
 
   7
   Nezoṅ pe Akbar bhi hai Asghar-e-beshir bhi
-  Aun o Muhammad bhi hai Qasim-e-dilgeer bhi
+  Aun o Muhammad bhi hai Qasim-e-dilgir bhi
   Wo sar-e-Abbas hai naize se jo gir para
 
   8
@@ -61,7 +61,7 @@ romanLyrics: |-
   9
   Nayyar o Aamir ye dil gham wo bhulaata nahiṅ
   Saahib-e-ghairat wahaaṅ sar ko uthaata nahiṅ
-  Aaj bhi hum shaam mein pahunche to nauha padha
+  Aaj bhi hum shaam meiṅ pahunche to nauha parha
 # source_id: nohayonline:3610f165124886a5308d
 # source_url: https://www.nohayonline.com/details_content.php?id=2443
 # raw_sha256: 339949a054174014b6d209b612e6b8a9685febb23e6ded29d55f9bc330cd89f7

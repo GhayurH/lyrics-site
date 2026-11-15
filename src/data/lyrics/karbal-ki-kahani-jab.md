@@ -23,7 +23,7 @@ romanLyrics: |-
   Zahra Zahra Akbar ka bhi pursa lo
 
   3
-  Sote hi na the Asghar jhule mein tarapte the
+  Sote hi na the Asghar jhule meiṅ tarapte the
   Maadar ko khabar kya thi ik tir sulaaye ga
   Zahra Zahra Asghar ka bhi pursa lo
 

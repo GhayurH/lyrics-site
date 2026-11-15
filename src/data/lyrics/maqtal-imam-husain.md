@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ae rone waaloṅ aaeṅ gi mahshar mein Fatima
+  Ae rone waaloṅ aaeṅ gi mahshar meiṅ Fatima
   Bibi ka haal dekh ke roeṅ ge ambiya
   Puchheṅ ge haath pehlu pe kiuṅ hai rakha hua
   Kiuṅ jhuk ke chal rahi hai bhala kya maajra
@@ -19,7 +19,7 @@ romanLyrics: |-
   Sab nazroṅ ko jhukaao ye maaṅ hai Husain ki
 
   1
-  Mahshar mein ek hashr uthaaeṅ gi Fatima
+  Mahshar meiṅ ek hashr uthaaeṅ gi Fatima
   Ik daastaan-e-zulm sunaaeṅ gi Fatima
   Roeṅ gi ahl-e-gham ko rulaaeṅ gi Fatima
   Nanha sa ek laasha dikhaaeṅ gi Fatima
@@ -44,9 +44,9 @@ romanLyrics: |-
 
   4
   Sab ko dikhaai jaae gi phir asr-e-Karbala
-  Mazlum khuṅ mein duba nazar sab ko aae ga
+  Mazlum khuṅ meiṅ duba nazar sab ko aae ga
   Zahra kaheṅ gi dekhiye baaba udhar zara
-  Ye aap ka Husain hai faujoṅ mein ghir chuka
+  Ye aap ka Husain hai faujoṅ meiṅ ghir chuka
   Ik pal nahiṅ tha chain mere dil ke chain ko
   Nau laakh mil ke maar rahe the Husain ko
 
@@ -62,7 +62,7 @@ romanLyrics: |-
   Zakhmoṅ ki samt ret ura kar koi barha
   Koi chala ke baazu pe khanjar guzar gaya
   Talwaar koi maar ke mazlum par hansa
-  Un zaalimoṅ mein ik bin Kaahil lain tha
+  Un zaalimoṅ meiṅ ik bin Kaahil lain tha
   Us ne kiya wo waar ke mazlum dhal gaya
   Sab pasliyoṅ ko tor ke neza nikal gaya
 
@@ -70,7 +70,7 @@ romanLyrics: |-
   Wo dard tha ke zin pe baitha nahiṅ gaya
   Us ne utarna chaaha par utra nahiṅ gaya
   Paaoṅ rikaab se bhi nikaala nahiṅ gaya
-  Aise kisi ko ran mein giraaya nahiṅ gaya
+  Aise kisi ko ran meiṅ giraaya nahiṅ gaya
   Jab Hurmala ka tir laga tha jabin par
   Ghore se muṅh ke bal gira pyaasa zamin par
 
@@ -84,7 +84,7 @@ romanLyrics: |-
 
   9
   Thehra na minnatoṅ se bhi baaba wo badsifaat
-  Ghurbat mein apne laal ka chhora na main ne saath
+  Ghurbat meiṅ apne laal ka chhora na maiṅ ne saath
   Sab ko to ye pata hai ke zakhmi haiṅ mere haath
   Baaba qarib aaeṅ bataauṅ ik aur baat
   Zakhmi nahiṅ haiṅ haath faqat dil malul ke
@@ -95,7 +95,7 @@ romanLyrics: |-
   Thi dusri hi zarb Hasan bhi nahiṅ ruke
   Wo zarb tisri thi Ali jis pe ro pare
   Bas baaba chauthi zarb talak aap saath the
-  Phir us ke baad main thi mere dil ka chain tha
+  Phir us ke baad maiṅ thi mere dil ka chain tha
   Khanjar tha meri jholi thi mera Husain tha
 
   11
@@ -104,7 +104,7 @@ romanLyrics: |-
   Luti hai sab laash gharib-ud-dayaar ki
   Baaba mere Husain ki tauhin ki gai
   Angushtari pe nazreṅ thiṅ ik badnasib ki
-  Ungli lain ne kaati hai baaba gharib ki
+  Ungli laiṅ ne kaati hai baaba gharib ki
 # source_id: nohayonline:dc73a4e67784ff079a69
 # source_url: https://www.nohayonline.com/details_content.php?id=2784
 # raw_sha256: f0fb9a3193c50ac1448df59127e08fdabdee0e6417c440a85b62666b14f23973

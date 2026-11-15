@@ -21,7 +21,7 @@ romanLyrics: |-
   Baba jaaṅ alwida
 
   2
-  Ab talak main tarapti thi maaṅ ke liye
+  Ab talak maiṅ tarapti thi maaṅ ke liye
   Aap ki yaad aayegi ab raat din
   Sar pe maaṅ baap donoṅ ka saaya nahiṅ
   Ye qayamat rulayegi ab raat din
@@ -30,15 +30,15 @@ romanLyrics: |-
 
   3
   Ro ke kehti thi Zainab mere baba jaaṅ
-  Chain ek pal kahiṅ ab na paauṅ gi main
+  Chain ek pal kahiṅ ab na paauṅ gi maiṅ
   Aap ka aur ammaaṅ ki furqat ka gham
-  Donoṅ ek saath kaise uthaauṅ gi main
-  Ab nigaahoṅ mein chhaaya rahega dhuaaṅ
+  Donoṅ ek saath kaise uthaauṅ gi maiṅ
+  Ab nigaahoṅ meiṅ chhaaya rahega dhuaaṅ
   Aur rulayega har dam khayaal aap ka
 
   4
-  Naam jab bhi yatimi ka sunti thi main
-  Kaanp jaata tha sine mein mera jigar
+  Naam jab bhi yatimi ka sunti thi maiṅ
+  Kaanp jaata tha sine meiṅ mera jigar
   Kaise rehte hain bachche pidar ke bina
   Dil dehelta tha is baat ko soch kar
   Mujh ko himmat ki de kar ke jaayeṅ dua
@@ -47,18 +47,18 @@ romanLyrics: |-
   5
   Dard ki tegh se us ghari ae pidar
   Haaye mera kaleja to kat jaayega
-  Aap ke sune hujre mein jab aap ka
+  Aap ke sune hujre meiṅ jab aap ka
   Mujh ko khaali musalla nazar aayega
   Aap ko dil tarap kar ke dega sada
-  Sabr kaise karuṅ gi wahaaṅ main bhala
+  Sabr kaise karuṅ gi wahaaṅ maiṅ bhala
 
   6
   Aap kehte the Kufa badal jaayega
   Lag raha hai wo din aa gaya hai qarib
-  Ab yaqin ho gaya aap ke shehr mein
+  Ab yaqin ho gaya aap ke shehr meiṅ
   Ek din hone waali hai Zainab gharib
-  Hai jahaaṅ meri shaahi usi shehr mein
-  Qaid ho kar ke aauṅ gi main berida
+  Hai jahaaṅ meri shaahi usi shehr meiṅ
+  Qaid ho kar ke aauṅ gi maiṅ berida
 
   7
   Ae mere baba jaaṅ hum ne socha na tha
@@ -73,7 +73,7 @@ romanLyrics: |-
   Ae Ali jab ye Zainab ne ro kar kaha
   Roye Hasnain o Abbas sar pit kar
   Baap se jab beti ne ki ilteja
-  Waqt-e-shaam-e-gharibaaṅ jo duṅ main sada
+  Waqt-e-shaam-e-gharibaaṅ jo duṅ maiṅ sada
   Aap aa kar barhana mera hausla
 # source_id: nohayonline:2dff4f7a204152a5e9c4
 # source_url: https://www.nohayonline.com/details_content.php?id=2851

@@ -36,10 +36,10 @@ romanLyrics: |-
   Husain Husain
   Le ke chalo maaṅ ki dua
   Husain Husain
-  Haathoṅ mein Ghazi ka alam
+  Haathoṅ meiṅ Ghazi ka alam
   Karte raho shukr-e-Khuda
   Jaanib-e-manzil ho qadam
-  Nazroṅ mein Maula ka haram
+  Nazroṅ meiṅ Maula ka haram
   Lab pe yehi noha
   Imaan Husain wallah
   Meri jaan Husain wallah
@@ -79,7 +79,7 @@ romanLyrics: |-
   Inshallah Inshallah Inshallah
 
   6
-  Main jo kehta huṅ Ae pursa daaroṅ suno
+  Maiṅ jo kehta huṅ Ae pursa daaroṅ suno
   Apne bachchoṅ ko bhi yehi taalim do
   Karbala aate jaate raho saal bhar
   Yahaaṅ Aashur aur mera chehlum karo
@@ -89,7 +89,7 @@ romanLyrics: |-
 
   7
   Kya samajhte ho paidal safar ko bhala
-  Is safar mein hai shaamil sabhi ambiya
+  Is safar meiṅ hai shaamil sabhi ambiya
   Ye safar hai ibaadat shifaat bhi hai
   Khuld ko jaa raha hai yehi raasta
   Wallah wallah Ya Husain

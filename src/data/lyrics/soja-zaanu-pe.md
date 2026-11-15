@@ -17,7 +17,7 @@ romanLyrics: |-
 
   1
   Khaak par tum ko sone na duṅgi
-  Saaṅs jab tak main leti rahuṅgi
+  Saaṅs jab tak maiṅ leti rahuṅgi
   Go ke ujri hai godi hamaari
   Soja zaanu pe soja Sakina
 
@@ -41,19 +41,19 @@ romanLyrics: |-
 
   5
   Rismaaṅ tum ko sone na degi
-  Misl-e-khanjar gale mein chubhegi
+  Misl-e-khanjar gale meiṅ chubhegi
   Khun bhi hoga kaanoṅ se jaari
   Soja zaanu pe soja Sakina
 
   6
   Tum jo soogi zaanu pe mere
-  Lams paauṅgi main bezubaaṅ ke
-  Main to Asghar ke sadme se haari
+  Lams paauṅgi maiṅ bezubaaṅ ke
+  Maiṅ to Asghar ke sadme se haari
   Soja zaanu pe soja Sakina
 
   7
-  Chain paaogi pahlu-e-jad mein
-  Aaj ke baad sona lahad mein
+  Chain paaogi pahlu-e-jad meiṅ
+  Aaj ke baad sona lahad meiṅ
   Aakhri hai ye khidmat hamaari
   Soja zaanu pe soja Sakina
 

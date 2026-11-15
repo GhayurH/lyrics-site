@@ -14,13 +14,13 @@ romanLyrics: |-
   Gir ke thanda hua Hazrat ka alam darya par
   Gharq-e-khuṅ ho gaya wo bahr-e-karam darya par
   Ghul tha zakhmi hua saqqa-e-haram darya par
-  Mashk ko daantoṅ mein pakre hue yuṅ laata hai
-  Dahan-e-sher mein jis tarah shikaar aata hai
+  Mashk ko daantoṅ meiṅ pakre hue yuṅ laata hai
+  Dahan-e-sher meiṅ jis tarah shikaar aata hai
 
   1
   Ghash kiya madhe jigar soz-e-atash se hai kabaab
-  Hai jo bedast thaharti nahiṅ paaoṅ mein rakaab
-  Pyaase bachchoṅ ke liye sine mein dil hai betaab
+  Hai jo bedast thaharti nahiṅ paaoṅ meiṅ rakaab
+  Pyaase bachchoṅ ke liye sine meiṅ dil hai betaab
   Gham yahi hai ke kahiṅ mashk se zaaye na ho aab
   Tir paiham jo kamaanoṅ se chale aate haiṅ
   Ya Ali kehte haiṅ aur mashk pe jhuk jaate haiṅ
@@ -29,7 +29,7 @@ romanLyrics: |-
   Kar ke muṅh su-e-Najaf kehte the ba dida-e-tar
   Ya Ali lijiye mujh bekas o muztar ki khabar
   Ae Shaah-e-Khuda kusha baadshaah-e-jinn o bashar
-  Chaahta huṅ main ke is mashk ko pahuṅche na zahr
+  Chaahta huṅ maiṅ ke is mashk ko pahuṅche na zahr
   Aap ke bete ka shaida huṅ madad laazim hai
   Aap ki poti ka saqqa huṅ madad laazim hai
 

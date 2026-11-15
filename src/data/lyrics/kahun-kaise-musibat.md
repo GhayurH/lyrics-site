@@ -31,12 +31,12 @@ romanLyrics: |-
   Koi samjha na azmat Fatema ki
 
   5
-  Mil kab qabr mein bhi chain us ko
+  Mil kab qabr meiṅ bhi chain us ko
   Hui mismaar turbat Fatema ki
 
   6
   Ujaala hai na marqad par hai saaya
-  Bataauṅ kya main ghurbat Fatema ki
+  Bataauṅ kya maiṅ ghurbat Fatema ki
 
   7
   Nikal kar parda-e-ghaibat se Maula

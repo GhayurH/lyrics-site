@@ -39,7 +39,7 @@ romanLyrics: |-
   Nanhe haathoṅ se chhupaaya to tamaache khaaye
 
   6
-  Ye to achchha hi hua dil mein kaha karti thi
+  Ye to achchha hi hua dil meiṅ kaha karti thi
   Na rahe jab mere Baba to tamaache khaaye
 
   7
@@ -47,7 +47,7 @@ romanLyrics: |-
   Is ne Baaqir to bachaaya to tamaache khaaye
 
   8
-  Kufa o Shaam ke baazaaroṅ mein chalte chalte
+  Kufa o Shaam ke baazaaroṅ meiṅ chalte chalte
   Thak ke baithi jo Sakina to tamaache khaaye
 
   9

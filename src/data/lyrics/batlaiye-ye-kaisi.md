@@ -12,16 +12,16 @@ aliases: []
 published: true
 romanLyrics: |-
   Batlaiye ye kaisi asiri hai phuphi jaaṅ
-  Kya mere muqaddar mein tha ye Shaam ka zindaaṅ
+  Kya mere muqaddar meiṅ tha ye Shaam ka zindaaṅ
 
   1
   Yaaṅ khaak uraati hai jahaaṅ shaam se wehshat
   Har subh tapakti hai jahaaṅ baam se wehshat
-  Hoga isi zindaaṅ mein mere dafn ka saamaaṅ
+  Hoga isi zindaaṅ meiṅ mere dafn ka saamaaṅ
 
   2
   Ye raat ye tanhaai ye khaamoshi ye ghurbat
-  Amma isi goshe mein banaana meri turbat
+  Amma isi goshe meiṅ banaana meri turbat
   Kya meri tarah se meri ho qabr bhi viraaṅ
 
   3
@@ -35,13 +35,13 @@ romanLyrics: |-
   Hai aaj talak dard se dukhte haiṅ mere kaan
 
   5
-  Socha tha ke zindaaṅ se riha jab bhi main huṅ gi
-  Jaauṅ gi Madine ko main Sughra se miluṅ gi
+  Socha tha ke zindaaṅ se riha jab bhi maiṅ huṅ gi
+  Jaauṅ gi Madine ko maiṅ Sughra se miluṅ gi
   Lagta hai magar yaaṅ se rihaai nahiṅ aasaan
 
   6
   Pur shor Naved itna hai jitna hai ye sunsaan
-  Ek qabr ke hote hue ye Shaam ka zindaaṅ
+  Ek qabr ke hote hue ye Shaam ka zindaan
   Aabaad kahaaṅ baad hai viraan ka viraaṅ
 # source_id: nohayonline:368d368616d09d0c1fd4
 # source_url: https://www.nohayonline.com/details_content.php?id=278

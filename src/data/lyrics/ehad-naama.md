@@ -16,7 +16,7 @@ romanLyrics: |-
   Mariz-e-nafs ki khaatir dawa ka mausam hai
   Husain-e-Asr se ahd-e-wafa ka mausam hai
   Imam-e-Waqt se waada hai sar kata duṅ ga
-  Lahu ka aakhri khatra bhi main baha duṅ ga
+  Lahu ka aakhri khatra bhi maiṅ baha duṅ ga
 
   Al ajal al ajal al ajal ya Imam-e-Zamaana
 
@@ -26,54 +26,54 @@ romanLyrics: |-
   Bujha kar diya aur na hal min
   Ki awaaz se aazmana
   Tere saamne haath baandhe
-  Main Hur ban ke thehra miluṅ ga
+  Maiṅ Hur ban ke thehra miluṅ ga
 
   2
   Nigaaheiṅ pareshaan sadiyoṅ se
   Kaabe ki jaanib lagi hai
-  Tere paak qadmon ki aahat
+  Tere paak qadmoṅ ki aahat
   Zamiṅ se abhi uth rahi hai
-  Teri aarzu mein Najaf se
-  Main Karb o Bala tak chaluṅ ga
+  Teri aarzu meiṅ Najaf se
+  Maiṅ Karb o Bala tak chaluṅ ga
 
   3
   Bandha mere maathe ke zakhm
   Par rumaal wo Fatima ka
-  Ho ghoroṅ ki taapoṅ se ran mein
+  Ho ghoroṅ ki taapoṅ se ran meiṅ
   Badan kaash pamaal mera
-  Main sau baar bhi ji uthuṅ to
-  Main sau baar tujh pe maruṅ ga
+  Maiṅ sau baar bhi ji uthuṅ to
+  Maiṅ sau baar tujh pe maruṅ ga
 
   4
   Wo zakhmi jigar jis ki baais
-  Tu maqtal mein ghutnoṅ chala tha
+  Tu maqtal meiṅ ghutnoṅ chala tha
   Kai baar khaai thi thokar
-  Kai baar ran mein gira tha
-  Main Akbar ke sine ki barchhi
+  Kai baar ran meiṅ gira tha
+  Maiṅ Akbar ke sine ki barchhi
   Kaleje pe Maula sahuṅ ga
 
   5
   Wo Shaam-e-Gharibaaṅ abhi bhi
   Mere qalb pe dhal rahi hai
-  Wo raaste kari dhup mein jo
+  Wo raaste kari dhup meiṅ jo
   Sakina bhi chal rahi hai
   Yatima ki raahoṅ ke kaante
-  Main palkoṅ se apni chunuṅ ga
+  Maiṅ palkoṅ se apni chunuṅ ga
 
   6
-  Ghiri Shaam waaloṅ mein Zainab
+  Ghiri Shaam waaloṅ meiṅ Zainab
   Madad ki sada de rahi hai
   Jhuka duṅ ga gustaakh nazreiṅ
   Jo rauze ki jaanib uthi hai
   Ae Bint-e-Ali teri khaatir
-  Main Abbas ban kar laruṅ ga
+  Maiṅ Abbas ban kar laruṅ ga
 
   7
-  Pare tauq gardan mein chaahe
-  Bandhe mere pairoṅ mein beri
+  Pare tauq gardan meiṅ chaahe
+  Bandhe mere pairoṅ meiṅ beri
   Sune ga zamaana kisi din
   Garajdaar lalkaar meri
-  Main taarik zindaaṅ ki zulmat
+  Maiṅ taarik zindaaṅ ki zulmat
   Se Mukhtar ban kar uthuṅ ga
 # source_id: nohayonline:8653ca3eaa498793a809
 # source_url: https://www.nohayonline.com/details_content.php?id=1706

@@ -41,12 +41,12 @@ romanLyrics: |-
   Tujh se sharminda ammu hai tera
 
   6
-  Hai pare ran mein talwaar o neze
+  Hai pare ran meiṅ talwaar o neze
   Zakhm koi tumheṅ aa na jaaye
   Dekh kar aana ban hai andhera
 
   7
-  Kya Anees haal-e-maqtal sunaaye
+  Kya Anis haal-e-maqtal sunaaye
   Gunjti thiṅ ye do hi sadaaeṅ
   Ya Sakina Sakina Sakina
 # source_id: nohayonline:4bde1cd4d31d69007809

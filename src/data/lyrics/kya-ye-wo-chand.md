@@ -15,64 +15,64 @@ romanLyrics: |-
 
   Ghar lut gaya Batul ka laaya hai jo khabar
   Kya ye wo chaand hai
-  Jis chaand mein hue haiṅ bahattar lahu mein tar
+  Jis chaand meiṅ hue haiṅ bahattar lahu meiṅ tar
   Kya ye wo chaand hai
 
   1
-  Jis chaand mein Rasul bhi rote haiṅ zaar zaar
+  Jis chaand meiṅ Rasul bhi rote haiṅ zaar zaar
   Hoti hai jis ko dekh ke Zahra bhi beqaraar
   Karta hai jo Hasan ke kaleje ko taar taar
-  Sadme se jis mein aaj bhi roti hai Zulfiqaar
-  Aate hai jis mein aaj bhi pyaasoṅ ke sar nazar
+  Sadme se jis meiṅ aaj bhi roti hai Zulfiqaar
+  Aate hai jis meiṅ aaj bhi pyaasoṅ ke sar nazar
 
   2
-  Jis chaand mein Batul ka gulshan ujar gaya
-  Jis chaand mein Rasul ke pyaaroṅ pe thi jafa
-  Jis chaand mein Ali ke dulaaroṅ ka sar kata
-  Jis chaand mein lahu se hui laal Karbala
-  Jis mein laga diya gaya pehra Furaat par
+  Jis chaand meiṅ Batul ka gulshan ujar gaya
+  Jis chaand meiṅ Rasul ke pyaaroṅ pe thi jafa
+  Jis chaand meiṅ Ali ke dulaaroṅ ka sar kata
+  Jis chaand meiṅ lahu se hui laal Karbala
+  Jis meiṅ laga diya gaya pehra Furaat par
 
   3
-  Jis chaand mein Husain se Akbar juda hua
-  Seene pe naujawaaṅ ke barchhi ka phal laga
-  Tora gaya zaif ka pardes mein asa
+  Jis chaand meiṅ Husain se Akbar juda hua
+  Sine pe naujawaaṅ ke barchhi ka phal laga
+  Tora gaya zaif ka pardes meiṅ asa
   Chhina gaya Husain se jine ka aasra
-  Akbar ka jis mein baap ke haathoṅ pe tha jigar
+  Akbar ka jis meiṅ baap ke haathoṅ pe tha jigar
 
   4
-  Abbas ka Husain ne paaya hai jis mein gham
-  Jis mein kamar hui hai shaah-e-Karbala ki kham
-  Jis chaand mein diler ke shaane hue qalam
-  Thanda hua Furaat pe jis chaand mein alam
-  Jis mein nehr pe dub gaya Haashmi qamar
+  Abbas ka Husain ne paaya hai jis meiṅ gham
+  Jis meiṅ kamar hui hai shaah-e-Karbala ki kham
+  Jis chaand meiṅ diler ke shaane hue qalam
+  Thanda hua Furaat pe jis chaand meiṅ alam
+  Jis meiṅ nehr pe dub gaya Haashmi qamar
 
   5
-  Nanhe gale pe tir laga jis hilaal mein
-  Ek shirkhwaar nehr hua jis hilaal mein
-  Chehre pe Shah ne khun mala jis hilaal mein
-  Asghar ko roke dafn kiya jis hilaal mein
-  Keh jis mein bezabaaṅ ki lahad aansuoṅ se tar
+  Nanhe gale pe tir laga jis hilaal meiṅ
+  Ek shirkhwaar nehr hua jis hilaal meiṅ
+  Chehre pe Shah ne khun mala jis hilaal meiṅ
+  Asghar ko roke dafn kiya jis hilaal meiṅ
+  Keh jis meiṅ bezabaaṅ ki lahad aansuoṅ se tar
 
   6
-  Zakhmoṅ se chur chur the jis mein Shah-e-Huda
-  Seene pe jis hilaal mein Shimr-e-lain charha
-  Kaata gaya Husain ka jis chaand mein gala
-  Jis mein Husain qatl hue ran mein bekhata
-  Maadar thi jis mein laal ke laashe pe nauhagar
+  Zakhmoṅ se chur chur the jis meiṅ Shah-e-Huda
+  Sine pe jis hilaal meiṅ Shimr-e-laiṅ charha
+  Kaata gaya Husain ka jis chaand meiṅ gala
+  Jis meiṅ Husain qatl hue ran meiṅ bekhata
+  Maadar thi jis meiṅ laal ke laashe pe nauhagar
 
   7
-  Hoti thi jis hilaal mein din raat sakhtiyaaṅ
-  Tarpi hai jis hilaal mein Haidar ki betiyaaṅ
-  Ujri hai jis hilaal mein maa'oṅ ki godiyaaṅ
-  Dikhta hai jis hilaal mein khaimoṅ ka wo dhuaaṅ
-  Pehre pe jis mein Zainab-e-muztar thi raat bhar
+  Hoti thi jis hilaal meiṅ din raat sakhtiyaaṅ
+  Tarpi hai jis hilaal meiṅ Haidar ki betiyaaṅ
+  Ujri hai jis hilaal meiṅ maa'oṅ ki godiyaaṅ
+  Dikhta hai jis hilaal meiṅ khaimoṅ ka wo dhuaaṅ
+  Pehre pe jis meiṅ Zainab-e-muztar thi raat bhar
 
   8
   Likhta hai jab koi bhi Sahaani ye daastaaṅ
   Hota hai jab Ali ye bahattar ka gham bayaaṅ
   Hilti hai ye zamiṅ larazta hai aasmaaṅ
   Dete haiṅ ghaib se ye sada Saahib-az-Zamaaṅ
-  Rota huṅ jis mein pit ke sar main har ek pehr
+  Rota huṅ jis meiṅ pit ke sar maiṅ har ek pehr
   Haaṅ ye wo chaand hai haaṅ ye wo chaand hai
 # source_id: nohayonline:6553ca9a24514520e2c2
 # source_url: https://www.nohayonline.com/details_content.php?id=2859

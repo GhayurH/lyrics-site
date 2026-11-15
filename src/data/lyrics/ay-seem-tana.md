@@ -24,15 +24,15 @@ romanLyrics: |-
   De aaye the Zainab ko zabaaṅ Aun o Muhammad
 
   2
-  Ek dard ki duniya hai basi dasht-e-bala mein
+  Ek dard ki duniya hai basi dasht-e-bala meiṅ
   Kaafur hue donoṅ jahaaṅ Aun o Muhammad
 
   3
-  Khaime mein the jab tak to faqat donoṅ the bachche
-  Maidaaṅ mein hue jaake jawaaṅ Aun o Muhammad
+  Khaime meiṅ the jab tak to faqat donoṅ the bachche
+  Maidaaṅ meiṅ hue jaake jawaaṅ Aun o Muhammad
 
   4
-  Wo maut ke sehra mein raha manzar-e-mehshar
+  Wo maut ke sehra meiṅ raha manzar-e-mehshar
   Angraaiyaaṅ lete the wahaaṅ Aun o Muhammad
 
   5
@@ -45,15 +45,15 @@ romanLyrics: |-
 
   7
   Aashur ko dulhan thi bani Aashur ko bewa
-  Paamaal hua ran mein jawaaṅ Aun o Muhammad
+  Paamaal hua ran meiṅ jawaaṅ Aun o Muhammad
 
   8
   Beshir ki gardan par chala tir-e-sitamgar
   Hontoṅ pe jo pheri hai zabaaṅ Aun o Muhammad
 
   9
-  Barchhi ki ani jo dhans gayi khud mere jigar mein
-  Ab hai meri aaṅkhoṅ mein dhuaaṅ Aun o Muhammad
+  Barchhi ki ani jo dhans gayi khud mere jigar meiṅ
+  Ab hai meri aaṅkhoṅ meiṅ dhuaaṅ Aun o Muhammad
 
   10
   Darya ko bhi Abbas ne darya nahiṅ samjha

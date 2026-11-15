@@ -13,13 +13,13 @@ reciter: "Ameer Hasan Aamir"
 romanLyrics: |-
   Neze pe gaye jab Shah-e-Umam
   Sar pit rahe the Ahl-e-Haram
-  Sadaat mein ek bezaari thi
+  Sadaat meiṅ ek bezaari thi
   Kohraam tha aur gham khwari thi
   Jab Shah ne ye manzar dekha
   Sar pit rahe haiṅ Aal-e-Aba
   Shabbir ne parh ke Bismillah
   Bar nok-e-sinaṅ Quran parha
-  Kuchh der mein phir manzar badla
+  Kuchh der meiṅ phir manzar badla
   Kam hone lagi matam ki sada
   Khush rang fizaaeṅ chhaane lagiṅ
   Ahsan ki sadaaeṅ aane lagiṅ
@@ -29,20 +29,20 @@ romanLyrics: |-
   Ahsantum Ya Husain
 
   1
-  Arwaah mein jo waada tha kiya
+  Arwaah meiṅ jo waada tha kiya
   Wo tum ne nibhaya hai
-  Islam ki khaatir jangal mein
+  Islam ki khaatir jangal meiṅ
   Ghar apna lutaaya hai
-  Razi huṅ main tujh se mere Wali
+  Razi huṅ maiṅ tujh se mere Wali
   Ae Ibn-e-Batul Ae Ibn-e-Ali
-  Karta huṅ main tera shukr ada
+  Karta huṅ maiṅ tera shukr ada
 
   2
   Sun kar ye sukhan Allah ke
   Kehte the ye Rasul Allah
-  Qurban main tujh par sau jaan se
+  Qurban maiṅ tujh par sau jaan se
   Wah mere Husaina wah
-  Bachpan mein ae mere lakht-e-jigar
+  Bachpan meiṅ ae mere lakht-e-jigar
   Waada jo kiya tha ae dilbar
   Wo tum ne kiya hai aaj wafa
 
@@ -57,9 +57,9 @@ romanLyrics: |-
 
   4
   Zehra ne kaha ae laal tujhe
-  Tanha na karuṅ gi main
+  Tanha na karuṅ gi maiṅ
   Jaaye ga agar tu Shaam talak
-  To saath chaluṅ gi main
+  To saath chaluṅ gi maiṅ
   Hai naaz bahut tujh par beta
   Jo shir pilaaya tha us ka
   Kya khub kiya hai farz ada
@@ -84,9 +84,9 @@ romanLyrics: |-
 
   7
   Kehti thi Zamin-e-Karbobala
-  Gumnaam zamiṅ thi main
+  Gumnaam zamiṅ thi maiṅ
   Lagta tha Kumail o Aamir
-  Dunya pe nahiṅ thi main
+  Dunya pe nahiṅ thi maiṅ
   Pehchan dilai Sarwar ne
   Kya shaan barhai Sarwar ne
   Ta hashr yehi hai meri sada

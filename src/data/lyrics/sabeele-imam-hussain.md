@@ -14,14 +14,14 @@ romanLyrics: |-
   Nahr-e-rawaaṅ hai faiz-e-Shah-e-mashraqain ki
   Pyaasoṅ piyo sabil hai nazr-e-Husain ki
   Naam-e-Maula pe hai paani jo pilaane wale
-  Haaṅ yehi log haiṅ firdaus mein jaane wale
+  Haaṅ yehi log haiṅ firdaus meiṅ jaane wale
 
   1
   Sirf Shabbir ka dar hai jo ye phailaaye hai haath
   Warna ye log kahaaṅ maaṅg ke khaane wale
 
   2
-  Teri raahoṅ mein bichhaayeṅge farishte aaṅkheṅ
+  Teri raahoṅ meiṅ bichhaayeṅge farishte aaṅkheṅ
   Farsh mazlum ki majlis ka bichhaane wale
 
   3
@@ -37,7 +37,7 @@ romanLyrics: |-
   Chhote Hazrat ka alam ghar pe lagaane wale
 
   6
-  Hai yaqin khuld mein wo jaayeṅge sab se pehle
+  Hai yaqin khuld meiṅ wo jaayeṅge sab se pehle
   Rassiyaaṅ thaame julusoṅ ko chalaane wale
 
   7
@@ -53,7 +53,7 @@ romanLyrics: |-
   Hum nahiṅ laasha-e-Abbas se jaane wale
 
   10
-  Aakhri waqt bhi aayi nahiṅ saaye mein Rabaab
+  Aakhri waqt bhi aayi nahiṅ saaye meiṅ Rabaab
   Aise dekhe na kahiṅ waada nibhaane wale
 
   11

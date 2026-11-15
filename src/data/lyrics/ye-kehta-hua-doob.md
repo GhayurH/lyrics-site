@@ -1,6 +1,6 @@
 ---
 title: "یہ کہتا ہوا ڈوب گیا صبح کا تارہ"
-alternateTitle: "Ye Kehta Hua Doob"
+alternateTitle: "Ye Kehta Hua Dub"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -15,7 +15,7 @@ romanLyrics: |-
   Aaj uth gaya dunya se ghariboṅ ka sahaara
 
   1
-  Kufe mein ye ghul hai ke zamaane se sidhaara
+  Kufe meiṅ ye ghul hai ke zamaane se sidhaara
   Bewaaoṅ ka nigehbaan yatimoṅ ka sahaara
 
   2
@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   Mayyat pe Hasan aur Husain ka ye bayaaṅ tha
-  Baaba nahiṅ dunya mein to phir kaun hamaara
+  Baaba nahiṅ dunya meiṅ to phir kaun hamaara
 
   4
   Ye shaan to dekhe koi Allah ke ghar se
@@ -32,14 +32,14 @@ romanLyrics: |-
 
   5
   Unniswiṅ ki subh qayaamat se nahiṅ kam
-  Haae sar-e-Haider hua sajde mein do paara
+  Haae sar-e-Haider hua sajde meiṅ do paara
 
   6
   Zainab ne kaha phir mujhe ek baar dikha do
   Ab laut ke aaeṅ ge nahiṅ baaba dobaara
 
   7
-  Afsos ke khud dub gaya apne lahu mein
+  Afsos ke khud dub gaya apne lahu meiṅ
   Wo jis ne ke Islam ki kashti ko ubhaara
 
   8

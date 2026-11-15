@@ -21,7 +21,7 @@ romanLyrics: |-
 
   1
   Baaba ki musibat ko Akbar bhi samajh paate
-  Dunya mein agar hota beta Ali Akbar ka
+  Dunya meiṅ agar hota beta Ali Akbar ka
 
   2
   Shabbir ye kehte the taa marg na bhuluṅ ga
@@ -44,7 +44,7 @@ romanLyrics: |-
   Jina Ali Akbar ka marna Ali Akbar ka
 
   7
-  Is chaand ke sine mein paiwast hui barchhi
+  Is chaand ke sine meiṅ paiwast hui barchhi
   Parti thi yehi nauha Fizza Ali Akbar ka
 
   8

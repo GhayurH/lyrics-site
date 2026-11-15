@@ -22,7 +22,7 @@ romanLyrics: |-
   Dast-e-Khaliq huṅ magar aap haiṅ taaqat meri
   Haaṅ faqat aap haiṅ dunya meiṅ zarurat meri
   Sochta huṅ ke namazoṅ meiṅ dua kya maanguṅ
-  Aap ke baad Khuda se main bhala kya maanguṅ
+  Aap ke baad Khuda se maiṅ bhala kya maanguṅ
 
   2
   Fatima boleiṅ Ali aap ke mansab haiṅ bare
@@ -35,13 +35,13 @@ romanLyrics: |-
   3
   Bole Haider ye do aalam tera sadqa Zahra
   Arsh se utra hai tere liye Zohra Zahra
-  Teri dehleez hai Sidra ka ilaqa Zahra
+  Teri dehliz hai Sidra ka ilaqa Zahra
   Yahaaṅ bichhta hai tahajjud ka musalla Zahra
-  Bas Muhammad pae tazeem khare rehte haiṅ
+  Bas Muhammad pae tazim khare rehte haiṅ
   Warna sab anbiya sajde meiṅ pare rehte haiṅ
 
   4
-  Fatima boleiṅ main qurban mere Aaqa par
+  Fatima boleiṅ maiṅ qurban mere Aaqa par
   Khatm hai manzil-e-irfan mere Aaqa par
   Fakhr khud karta hai Rahman mere Aaqa par
   Baba jaan dete haiṅ khud jaan mere Aaqa par
@@ -52,17 +52,17 @@ romanLyrics: |-
   Murtaza bole faqat masdar-e-ismat tum ho
   Hujjatullah jo haiṅ un pe bhi hujjat tum ho
   Halqa-e-wasl-e-risalat o imamat tum ho
-  Main huṅ haq par to mere haq ki shahadat tum ho
+  Maiṅ huṅ haq par to mere haq ki shahadat tum ho
   Kaun darbar meiṅ paigham-e-Ilahi deta
   Tum na hotiṅ to meri kaun gawahi deta
 
   6
-  Boleiṅ Zahra main zamane ki khabar jaanti huṅ
+  Boleiṅ Zahra maiṅ zamane ki khabar jaanti huṅ
   Is hatheli ki tarah aalam-e-zarr jaanti huṅ
   Khaak se kis tarah banta hai bashar jaanti huṅ
-  Dast-e-Khaliq ke main haathoṅ ka hunar jaanti huṅ
+  Dast-e-Khaliq ke maiṅ haathoṅ ka hunar jaanti huṅ
   Mojiza bar sar-e-aflaak dikhaya tum ne
-  Main ne khud dekha hai Aadam ko banaya tum ne
+  Maiṅ ne khud dekha hai Aadam ko banaya tum ne
 
   7
   Bole Haider nahiṅ shak is meiṅ zara sa Zahra
@@ -74,7 +74,7 @@ romanLyrics: |-
 
   8
   Fatima boleiṅ mere Maalik o Mukhtar Ali
-  Khadima huṅ main teri tu mera sardar Ali
+  Khadima huṅ maiṅ teri tu mera sardar Ali
   Tujh pe sau jaan se qurban huṅ sau baar Ali
   Fatima sab se bari hai teri hubdar Ali
   Teri azmat yuṅ zamane ko dikhaye Zahra

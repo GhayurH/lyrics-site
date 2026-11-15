@@ -19,7 +19,7 @@ romanLyrics: |-
 
   2
   Zalimoṅ tum jaante ho kis qadar maqbul haiṅ
-  Bargah-e-Rab mein ye sab hastiyaṅ ab rehne do
+  Bargah-e-Rab meiṅ ye sab hastiyaṅ ab rehne do
 
   3
   Aal-e-Ahmad ka yehi hai aakhri chashm o chiragh

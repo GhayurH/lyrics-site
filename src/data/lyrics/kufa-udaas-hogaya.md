@@ -38,7 +38,7 @@ romanLyrics: |-
   Ruh-e-Rasul o Fatema Zehra khaamosh hai
 
   5
-  Zakhmi jabiṅ Fareed jo dekhi Husain ne
+  Zakhmi jabiṅ Farid jo dekhi Husain ne
   Zainab se ik nigaah uthaayi Husain ne
   Ki ikhtiyaar phir jo khaamoshi Husain ne
   Kya jaane kya khayaal meiṅ aaya khaamosh hai

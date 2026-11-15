@@ -39,7 +39,7 @@ romanLyrics: |-
   Ab waqt hai kam Hazrat-e-Abbas kahaaṅ haiṅ
 
   7
-  Kuch der mein ho jaayegi ab shaam-e-gharibaaṅ
+  Kuch der meiṅ ho jaayegi ab shaam-e-gharibaaṅ
   Ae dasht-e-sitam Hazrat-e-Abbas kahaaṅ haiṅ
 
   8
@@ -48,7 +48,7 @@ romanLyrics: |-
 
   9
   Ek lashkar-e-ashraar muqaabil pe hai Shahid
-  Narghe mein haiṅ hum Hazrat-e-Abbas kahaaṅ haiṅ
+  Narghe meiṅ haiṅ hum Hazrat-e-Abbas kahaaṅ haiṅ
 # source_id: nohayonline:45a4a4436a652a54499e
 # source_url: https://www.nohayonline.com/details_content.php?id=571
 # raw_sha256: d71d214227b36259c8b2725ab1ce4df8be158de9c0f1dcca13dbeb5a6deb543a

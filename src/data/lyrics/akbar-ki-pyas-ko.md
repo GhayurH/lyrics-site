@@ -25,15 +25,15 @@ romanLyrics: |-
   Laakhoṅ salaam Zainab-e-Muztar ki pyas ko
 
   3
-  Har mausam-e-azaa mein sabileṅ sajaa ke hum
+  Har mausam-e-azaa meiṅ sabileṅ sajaa ke hum
   Karte raheṅge yaad bahattar ki pyas ko
 
   4
-  Aelaan kar rahi thi ye in mein zabaan-e-khushk
+  Aelaan kar rahi thi ye in meiṅ zabaan-e-khushk
   Aankhoṅ se dekh lo Ali Asghar ki pyas ko
 
   5
-  Sine mein tere dil nahiṅ patthar hai Hurmala
+  Sine meiṅ tere dil nahiṅ patthar hai Hurmala
   Kiuṅ tir se bujhaata hai Asghar ki pyas ko
 
   6

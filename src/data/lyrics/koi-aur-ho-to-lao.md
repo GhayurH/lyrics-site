@@ -15,7 +15,7 @@ romanLyrics: |-
   Ke Husain ibn-e-Haider koi aur ho to laao
 
   1
-  Raah-e-haq mein banda parwar koi aur ho to laao
+  Raah-e-haq meiṅ banda parwar koi aur ho to laao
   Jo luta sake bhara ghar koi aur ho to laao
 
   2
@@ -35,7 +35,7 @@ romanLyrics: |-
   Jo bachaaye jaan de kar koi aur ho to laao
 
   6
-  Main Urooj chhor to duṅ ye Rasul ka gharaana
+  Maiṅ Uruj chhor to duṅ ye Rasul ka gharaana
   Par shafi-e-roz-e-mahshar koi aur ho to laao
 # source_id: nohayonline:5f19c8621b20f3a12dd3
 # source_url: https://www.nohayonline.com/details_content.php?id=3464

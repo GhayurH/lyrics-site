@@ -18,7 +18,7 @@ romanLyrics: |-
 
   1
   Maah-e-aza lo namudaar hua
-  Ghar mein mere bichh gaya farsh-e-aza
+  Ghar meiṅ mere bichh gaya farsh-e-aza
 
   2
   Jaan o dil-e-Fatima baadshaah-e-Karbala
@@ -34,14 +34,14 @@ romanLyrics: |-
   Ya Husain ya Husain ya Husain Husain Husain
 
   4
-  Kisi ke haath mein Abbas ka alam hoga
+  Kisi ke haath meiṅ Abbas ka alam hoga
   Koi uthaaega taabut Ibn-e-Zehra ka
   Kahiṅ se taaziya jhula kahiṅ se niklega
   Hogi qayaamat bapa roeṅge ahl-e-aza
   Shor hai Aashur ka
 
   5
-  Gali gali mein sabiloṅ ka ehtimaam hai phir
+  Gali gali meiṅ sabiloṅ ka ehtimaam hai phir
   Diloṅ ki pyaas bujhaane ka intizaam hai phir
   Gharib-e-Zehra ka jaari laboṅ pe naam hai phir
   Aa ke sabiloṅ ke paas jo bhi bujhaata hai pyaas
@@ -52,7 +52,7 @@ romanLyrics: |-
   Arsh par maatam-e-Shaah-e-shuhada hota hai
 
   7
-  Har anjuman mein hai sina zani ki tayyaari
+  Har anjuman meiṅ hai sina zani ki tayyaari
   Bas ek kalaam hai sab ki zabaan par jaari
   Qadim tarz pe hoti hai phir azaadaari
   Taaziye khaane khule maatami shaane khule
@@ -72,12 +72,12 @@ romanLyrics: |-
   Karo Husain ka maatam karo azaadaari
   Furaat aaṅkhoṅ se jaari ho aise ashkoṅ ki
   Ke khaali haath na jaae Rasul ki beti
-  Haath mein rumaal hai maaṅ ka ajab haal hai
+  Haath meiṅ rumaal hai maaṅ ka ajab haal hai
   Deti hai Bibi dua
 
   10
   Alam pe mashk-e-Sakina sajaa ke rote haiṅ
-  Kisi ko dhup mein paani pilaa ke rote haiṅ
+  Kisi ko dhup meiṅ paani pilaa ke rote haiṅ
   Kabhi kisi ko tabarruk khilaa ke rote haiṅ
   Naam idhar aa gaya Sayyid-e-mazlum ka
   Aaṅkh se darya baha

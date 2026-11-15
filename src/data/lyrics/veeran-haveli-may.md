@@ -12,7 +12,7 @@ aliases: ["Veeran Haveli May"]
 published: true
 romanLyrics: |-
   Ye kaisi udaasi hai
-  Viraan haveli mein Sughra ghabraati hai
+  Viraan haveli meiṅ Sughra ghabraati hai
   Ab laut ke aa Akbar bimaar bulaati hai
 
   1
@@ -28,7 +28,7 @@ romanLyrics: |-
   Sughra ye sada deti thi kab aaoge Akbar
   Bimaar ki saaṅsoṅ ka bhala kya hai bharosa
   Dam mera nikal jaayega kab aaoge Akbar
-  Ab in divaaroṅ mein dam ghutta hai Sughra ka
+  Ab in divaaroṅ meiṅ dam ghutta hai Sughra ka
   Le ke naam Akbar ka wo ashk bahaati hai
 
   4
@@ -38,9 +38,9 @@ romanLyrics: |-
   5
   Qadmoṅ ke nishaaṅ chum ke din kaat rahi hai
   Akbar teri yaadoṅ ki sataayi hui Sughra
-  Roti hai tere yaad mein soti nahiṅ shab bhar
+  Roti hai tere yaad meiṅ soti nahiṅ shab bhar
   Bechain hai khwaaboṅ ki taraayi hui Sughra
-  Uljha hua barchhi mein Akbar ka jigar dekha
+  Uljha hua barchhi meiṅ Akbar ka jigar dekha
   Is khwaab ki Sughra ko taabir rulaati hai
 
   6

@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Mushkil mein sahaara ya Husain
+  Mushkil meiṅ sahaara ya Husain
   Duboṅ ko kinaara ya Husain
   Nabiyoṅ ne pukaara ya Husain
   Zinda diloṅ ki hai sada
@@ -37,7 +37,7 @@ romanLyrics: |-
   Jis se bhi tu raazi hua bas us se raazi hai Khuda
 
   5
-  Chhe maah ka wo laadla maqtal mein is tarah lara
+  Chhe maah ka wo laadla maqtal meiṅ is tarah lara
   Saara hi lashkar dar gaya Asghar ne wo hamla kiya
   Abbas bole marhaba Ibn-e-Shah-e-Karb o Bala
 
@@ -67,8 +67,8 @@ romanLyrics: |-
   Ye din kisi par aae na mere Khuda mere Khuda
 
   11
-  Rota rahe ga ye jahaaṅ gham mein tere Shah-e-Zaman
-  Keh do Hasan Yazdan se ye jitne bhi haiṅ ye nauha khwaaṅ
+  Rota rahe ga ye jahaaṅ gham meiṅ tere Shah-e-Zaman
+  Keh do Hasan Yazdaṅ se ye jitne bhi haiṅ ye nauha khwaaṅ
   Is ki tijaarat na kare ye zikr hai mazlum ka
 # source_id: nohayonline:d07d81e43d132f3ff4ea
 # source_url: https://www.nohayonline.com/details_content.php?id=2676

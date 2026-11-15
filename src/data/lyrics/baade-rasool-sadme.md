@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Baad-e-Rasul sadme uthaati rahi Batul
-  Rone ko bait-e-huzn mein jaati rahi Batul
+  Rone ko bait-e-huzn meiṅ jaati rahi Batul
 
   1
   Dil Murtaza ka pehle hi zakhmoṅ se chur hai
@@ -20,10 +20,10 @@ romanLyrics: |-
 
   2
   Pehlu shikasta ho ke bhi shikwa nahiṅ kiya
-  Tanhaiyoṅ mein ashk bahaati rahi Batul
+  Tanhaiyoṅ meiṅ ashk bahaati rahi Batul
 
   3
-  Dene hai khutbe un ko bhi darbaar-e-Shaam mein
+  Dene hai khutbe un ko bhi darbaar-e-Shaam meiṅ
   Zainab ko dil ka haal bataati rahi Batul
 
   4
@@ -32,7 +32,7 @@ romanLyrics: |-
 
   5
   Maaṅ ke dukhoṅ pe rote rahe Zainab o Husain
-  Yasrab mein Karbala ko sajaati rahi Batul
+  Yasrab meiṅ Karbala ko sajaati rahi Batul
 
   6
   Darwaaza-e-Batul se uthta raha dhuaaṅ

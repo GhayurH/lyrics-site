@@ -1,6 +1,6 @@
 ---
 title: "علی کی بیٹیاں جب زندان میں اسیر ہوئیں"
-alternateTitle: "Ali Ki Betiyan"
+alternateTitle: "Ali Ki Betiyaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -15,10 +15,10 @@ published: true
 # raw_sha256: d6df866a6152c1468f942f9d13bbcca7ad79a3a9add0749404ccdd3f39fcc17a
 romanLyrics: |-
   1
-  Ali ki betiyaṅ jab zindan mein asir huiṅ
+  Ali ki betiyaṅ jab zindan meiṅ asir huiṅ
   Musibateṅ haram-e-Shah par kasir huiṅ
   Rasulzadiyaṅ hakim ki dastgir huiṅ
-  Firaq-e-Shah mein shahzadiyaṅ faqir huiṅ
+  Firaq-e-Shah meiṅ shahzadiyaṅ faqir huiṅ
   Kayi dinoṅ se mayassar na aab o dana tha
   Andheri raat thi tuta sa qaidkhana tha
 ---

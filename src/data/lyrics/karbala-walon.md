@@ -1,6 +1,6 @@
 ---
 title: "کربلا والوں"
-alternateTitle: "Karbala Walon"
+alternateTitle: "Karbala Waloṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,49 +11,49 @@ aliases: []
 published: true
 reciter: Mir Hasan Mir
 romanLyrics: |-
-  Karbala walon
-  Tumhaara gham rahe zinda hamesha Karbala walon
-  Duaaeṅ deti hai tum sab ko Zahra Karbala walon
+  Karbala waloṅ
+  Tumhaara gham rahe zinda hamesha Karbala waloṅ
+  Duaaeṅ deti hai tum sab ko Zahra Karbala waloṅ
 
   1
-  Lahu mein dub kar apne kiya sairaab darya ko
-  Tumhaari pyaas ka ab tak hai charcha Karbala walon
+  Lahu meiṅ dub kar apne kiya sairaab darya ko
+  Tumhaari pyaas ka ab tak hai charcha Karbala waloṅ
 
   2
-  Koi pyaasa nahiṅ dunya mein ab itni sabileṅ haiṅ
-  Tumhaara ho gaya saara zamaana Karbala walon
+  Koi pyaasa nahiṅ dunya meiṅ ab itni sabileṅ haiṅ
+  Tumhaara ho gaya saara zamaana Karbala waloṅ
 
   3
-  Hum apne marne walon ka bhi gham karte nahiṅ is mein
-  Moharram hai tumhaara aur rahega Karbala walon
+  Hum apne marne waloṅ ka bhi gham karte nahiṅ is meiṅ
+  Moharram hai tumhaara aur rahega Karbala waloṅ
 
   4
   Imaam-e-Asr se keh do kisi surat chale aaye
-  Sakina Shaam mein ab tak hai tanha Karbala walon
+  Sakina Shaam meiṅ ab tak hai tanha Karbala waloṅ
 
   5
   Khuda par baat aa jaaye to sar pyaara nahiṅ karte
-  Sikhaaya tum ne ye sab ko saliqa Karbala walon
+  Sikhaaya tum ne ye sab ko saliqa Karbala waloṅ
 
   6
-  Tumhaare naam ki majlis har ek shaadi mein hoti hai
-  Khushi mein bhi tumhaara gham hai taaza Karbala walon
+  Tumhaare naam ki majlis har ek shaadi meiṅ hoti hai
+  Khushi meiṅ bhi tumhaara gham hai taaza Karbala waloṅ
 
   7
   Tumhaara marte dam tak rasta takti rahi Sughra
-  Madine tum nahiṅ aaye dobaara Karbala walon
+  Madine tum nahiṅ aaye dobaara Karbala waloṅ
 
   8
   Na jaane kitne din karti rahi hai dhup sehra ki
-  Tumhaare bekafan laashon pe saaya Karbala walon
+  Tumhaare bekafan laashoṅ pe saaya Karbala waloṅ
 
   9
   Ali ki betiyoṅ ke saath patthar tum ne khaaye haiṅ
-  Gaye nezon pe tum Shaam o Kufa Karbala walon
+  Gaye nezoṅ pe tum Shaam o Kufa Karbala waloṅ
 
   10
   Kahiṅ paani pilaane par Takallum ko bhi rakh lena
-  Jahaaṅ mein aao ge jab tum dobaara Karbala walon
+  Jahaaṅ meiṅ aao ge jab tum dobaara Karbala waloṅ
 # source_id: nohayonline:d1e486471d174ac9c72b
 # source_url: https://www.nohayonline.com/details_content.php?id=2735
 # raw_sha256: 6a142293bdebbcd0031f3741160c5a9e081787390dd7665f21b228628753e595

@@ -1,6 +1,6 @@
 ---
 title: "کربوبلا میں کیسا یہ منظر زینب نے دیکھا"
-alternateTitle: "Karb o Bala Mein Kaisa"
+alternateTitle: "Karb o Bala Meiṅ Kaisa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: ["Karbobala May Kaisa"]
 published: true
 romanLyrics: |-
-  Karb o Bala mein kaisa ye manzar Zainab ne dekha
+  Karb o Bala meiṅ kaisa ye manzar Zainab ne dekha
   Sar bhaai ka zer-e-khanjar Zainab ne dekha
 
   1
@@ -19,12 +19,12 @@ romanLyrics: |-
   Tir-e-sitam ka zakhm gale par Zainab ne dekha
 
   2
-  Khun mein nahaae Aun o Muhammad qatl hue Abbas
+  Khun meiṅ nahaae Aun o Muhammad qatl hue Abbas
   Lutta hua apna hi bhara ghar Zainab ne dekha
 
   3
   Apne jigar par barchhi khaai gesuoṅ waale ne
-  Khun mein duba laasha-e-Akbar Zainab ne dekha
+  Khun meiṅ duba laasha-e-Akbar Zainab ne dekha
 
   4
   Ibn-e-Hasan ke laashe par dauraae gaye ghore
@@ -39,8 +39,8 @@ romanLyrics: |-
   Lutta hua Maasuma ke gauhar Zainab ne dekha
 
   7
-  Daaman us bachchi ne Najaf jab qaid mein phailaaya
-  Kaise aaya god mein ek sar Zainab ne dekha
+  Daaman us bachchi ne Najaf jab qaid meiṅ phailaaya
+  Kaise aaya god meiṅ ek sar Zainab ne dekha
 # source_id: nohayonline:10c277b78709b5273a56
 # source_url: https://www.nohayonline.com/details_content.php?id=1811
 # raw_sha256: 801d7be237a5e6bd932e903b1ef92a40f9fb5cf17c48aadaa87590731eb659c5

@@ -32,12 +32,12 @@ romanLyrics: |-
 
   2
   The saath jo mere do dilbar
-  Wo fidya kiye main ne haq par
+  Wo fidya kiye maiṅ ne haq par
   Jo saath tumhaare the haiṅ kahaaṅ
   Haiṅ mere dono laal kahaaṅ
 
   3
-  Main basti basti jaauṅ gi
+  Maiṅ basti basti jaauṅ gi
   Aur dhund ke un ko laauṅ gi
   Batlaaiye kuchh to un ka nishaaṅ
   Haiṅ mere dono laal kahaaṅ
@@ -45,7 +45,7 @@ romanLyrics: |-
   4
   Kab tak wo rahe zer-e-saaya
   Aur kuchh to taras un par aaya
-  Kis ghar mein haiṅ ab tak wo mehmaaṅ
+  Kis ghar meiṅ haiṅ ab tak wo mehmaaṅ
   Haiṅ mere dono laal kahaaṅ
 
   5
@@ -61,7 +61,7 @@ romanLyrics: |-
   Haiṅ mere dono laal kahaaṅ
 
   7
-  Kufe mein Anis ahl-e-haram
+  Kufe meiṅ Anis ahl-e-haram
   The naala-kunaaṅ waqt-e-maatam
   Sun kar ye sada mahshar tha ayaaṅ
   Haiṅ mere dono laal kahaaṅ

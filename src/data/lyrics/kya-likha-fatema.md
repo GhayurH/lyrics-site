@@ -19,19 +19,19 @@ romanLyrics: |-
 
   2
   Jab talak aa na gaye saare sharaabi tab tak
-  Saani-e-Zahra ko darbaar mein laaya na gaya
+  Saani-e-Zahra ko darbaar meiṅ laaya na gaya
 
   3
   Dekha sairaab zabihe ko to bole Sajjad
   Mere baaba ko to paani bhi pilaaya na gaya
 
   4
-  Ek Shabbir ki beti ke siwa duniya mein
+  Ek Shabbir ki beti ke siwa duniya meiṅ
   Kisi masuma ko naaqe se giraaya na gaya
 
   5
   Bhir is darja thi haṅste hue logoṅ ki wahaaṅ
-  Sar bhi baazaar mein Aabid se uthaaya na gaya
+  Sar bhi baazaar meiṅ Aabid se uthaaya na gaya
 
   6
   Baap ka sar jo mila soi lipat kar aise

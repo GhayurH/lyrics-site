@@ -35,24 +35,24 @@ romanLyrics: |-
 
   4
   Ek baap pe kaisi ye qayaamat ki ghari hai
-  Qadmoṅ mein gham o dard ki zanjir pari hai
+  Qadmoṅ meiṅ gham o dard ki zanjir pari hai
   Farzand jawaaṅ saamne dam tor raha hai
   Tu dekh raha hai
 
   5
   De kis ko sada koi nahiṅ sab gaye maare
   Abbas ke shaane kate darya ke kinaare
-  Ek din mein chaman Fatima Zehra ka luta hai
+  Ek din meiṅ chaman Fatima Zehra ka luta hai
   Tu dekh raha hai
 
   6
   Aaghosh se maadar ki jise laaye the Shabbir
   Paani ke iwaz aada ne ki un ki ye tauqir
-  Beshir ki gardan mein laga tir-e-qaza hai
+  Beshir ki gardan meiṅ laga tir-e-qaza hai
   Tu dekh raha hai
 
   7
-  Mehmaan tere bhed tu behtar hai samajhta
+  Mehmaan tere bher tu behtar hai samajhta
   Mamur ka dil is liye khuṅ rota hai Maula
   Shabbir ka sar Shimr-e-laiṅ kaat raha hai
   Tu dekh raha hai

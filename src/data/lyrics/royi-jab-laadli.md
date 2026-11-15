@@ -21,12 +21,12 @@ romanLyrics: |-
   Qahqahe un ke barhte jaate the
   Saath jin ko Batul laayi thi
   Ashk donoṅ gawaah bahaate the
-  Sab the masruf muskuraane mein
+  Sab the masruf muskuraane meiṅ
   Na kisi ko bhi tars aaya hai
   Saara darbaar muskuraaya hai
 
   2
-  Main to wo huṅ ke ya Rasul Allah
+  Maiṅ to wo huṅ ke ya Rasul Allah
   Jis ki taazim aap karte the
   Naam lena ho jab mera baba
   Aap pehle durud parhte the
@@ -47,9 +47,9 @@ romanLyrics: |-
   Tere mimbar pe baithe ghaasib ko
   Teri tehrir bhi dikhaayi thi
   Kar ke tukre lain ne baba
-  Bhare darbaar mein uraayi hai
-  Paak tehrir ko hai tukroṅ mein
-  Main ne darbaar se uthaaya hai
+  Bhare darbaar meiṅ uraayi hai
+  Paak tehrir ko hai tukroṅ meiṅ
+  Maiṅ ne darbaar se uthaaya hai
   Saara darbaar muskuraaya hai
 # source_id: nohayonline:75899030215a3091c546
 # source_url: https://www.nohayonline.com/details_content.php?id=1011

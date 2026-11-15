@@ -18,7 +18,7 @@ romanLyrics: |-
 
   1
   Kaale gesuṅ rang sunahre
-  Kitna hasin tu chaand hai mera
+  Kitna hasiṅ tu chaand hai mera
   Khaak o lahu meiṅ lekin duba
   Phuloṅ jaisa tera chehra
   Dhup meiṅ ran ki kaise bachaauṅ

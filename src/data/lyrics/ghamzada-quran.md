@@ -19,13 +19,13 @@ romanLyrics: |-
 
   1
   Baad baba ke diya ummat ne ye kaisa sila
-  Chain pal bhar bhi Madine mein na Zehra ko mila
+  Chain pal bhar bhi Madine meiṅ na Zehra ko mila
   Kis khata pe Fatema par haaye ye taazir hai
 
   2
   Ho gaya pehlu shikasta bas tarapti reh gayi
-  Pasliyoṅ ke tutne se jaan aadhi reh gayi
-  Ashk aankhoṅ mein zubaaṅ par naara-e-tathir hai
+  Pasliyoṅ ke tutne se jaaṅ aadhi reh gayi
+  Ashk aankhoṅ meiṅ zubaaṅ par naara-e-tathir hai
 
   3
   Rukh pe khaatun-e-jinaaṅ ke hai tamaachoṅ ke nishaaṅ
@@ -33,7 +33,7 @@ romanLyrics: |-
   Chur zakhmoṅ se khudaaya din ki tauqir hai
 
   4
-  Ye sitam Zehra pe Yasrab mein hua itna shadid
+  Ye sitam Zehra pe Yasrab meiṅ hua itna shadid
   Dar gira pehlu pe haaye ho gaye Mohsin shahid
   Ye sitam Zehra ke dil par bakhuda ek tir hai
 
@@ -43,7 +43,7 @@ romanLyrics: |-
   Ye Nabi ki laadli ya dard ki tasvir hai
 
   6
-  Thi khari darbaar-e-haakim mein kai ghante magar
+  Thi khari darbaar-e-haakim meiṅ kai ghante magar
   Keh nahiṅ paaya magar afsos ye koi bashar
   Is ko tarpaana Rasul-e-Paak ki taqsir hai
 

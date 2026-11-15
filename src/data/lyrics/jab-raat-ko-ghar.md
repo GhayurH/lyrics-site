@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Aaja Ali Akbar aaja Ali Akbar
-  Jab raat ko ghar mein na tumheṅ paayegi Sughra
+  Jab raat ko ghar meiṅ na tumheṅ paayegi Sughra
   Mar jaayegi Sughra
   Diwaaroṅ se sar dekhna takraayegi Sughra
 
@@ -23,11 +23,11 @@ romanLyrics: |-
 
   2
   Jab waqt-e-fajr hota hai yaad aate ho Akbar
-  Main raah dekhti huṅ kab aaoge Akbar
+  Maiṅ raah dekhti huṅ kab aaoge Akbar
   Ashkoṅ se wuzu kar ke tujhe maanguṅ Khuda se
   Aawaaz-e-azaaṅ mujhko sunaao Ali Akbar
-  Aawaaz-e-azaaṅ kaan mein jab aayegi baba
-  Tanhaai mein bhaai ko kahaaṅ paayegi Sughra
+  Aawaaz-e-azaaṅ kaan meiṅ jab aayegi baba
+  Tanhaai meiṅ bhaai ko kahaaṅ paayegi Sughra
   Mar jaayegi Sughra
 
   3
@@ -36,17 +36,17 @@ romanLyrics: |-
   Mar jaayegi Sughra
 
   4
-  Armaan tha sehra tere sar pe main sajaati
-  Naazoṅ se tujhe bhaiya dulha main banaati
-  Afsos tera laasha haaye ran mein para hai
-  Pardes mein ho kaise tumheṅ dekhne aati
+  Armaan tha sehra tere sar pe maiṅ sajaati
+  Naazoṅ se tujhe bhaiya dulha maiṅ banaati
+  Afsos tera laasha haaye ran meiṅ para hai
+  Pardes meiṅ ho kaise tumheṅ dekhne aati
   Viraan nazar aayega jab aap ka hujra
   Aankhoṅ se lahu qalb ka barsaayegi Sughra
   Mar jaayegi Sughra
 
   5
   Rehaan magar kaun ye Sughra ko bataaye
-  Jab aisi Madine mein khabar paayegi Sughra
+  Jab aisi Madine meiṅ khabar paayegi Sughra
   Mar jaayegi Sughra
 # source_id: nohayonline:2f6196dd4bbf7f378e60
 # source_url: https://www.nohayonline.com/details_content.php?id=3491

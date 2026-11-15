@@ -15,20 +15,20 @@ romanLyrics: |-
   Haaye haaye bazaar
 
   Bimaar mar na jaaye bazaar aa raha hai
-  Ummat hijaab mein hai Sayyidaani berida hai
+  Ummat hijaab meiṅ hai Sayyidaani berida hai
 
   1
   Sajjad ke badan ka har zakhm ro raha hai
-  Kufe ki shaahzaadi Kufe mein berida hai
+  Kufe ki shaahzaadi Kufe meiṅ berida hai
   Saadaat-e-Fatema par kya waqt aa gaya hai
 
   2
   Zahra ki betiyoṅ ke chhine gaye hai parde
   Ab chaadroṅ ke badle koi kafan urha de
-  Aabid janaaze le kar bazaar mein khara hai
+  Aabid janaaze le kar bazaar meiṅ khara hai
 
   3
-  Haathoṅ mein Shaam waale patthar liye hue hai
+  Haathoṅ meiṅ Shaam waale patthar liye hue hai
   Ek jashn ka samaaṅ hai roshan diye hue haiṅ
   Dil bujhte jaa rahe haiṅ ye Shaam ki hawa hai
 
@@ -40,16 +40,16 @@ romanLyrics: |-
   5
   Jaari lahu hai sar se kya waqt-e-bekasi hai
   Naize pe sheh ke sar ko hasrat se dekhti hai
-  Zainab ko raaste mein patthar jahaaṅ laga hai
+  Zainab ko raaste meiṅ patthar jahaaṅ laga hai
 
   6
-  Maqtal mein tera zarbeiṅ Shabbir par chali hai
+  Maqtal meiṅ tera zarbeiṅ Shabbir par chali hai
   Naamahramoṅ ki nazreiṅ Zainab pe par rahi hai
   Chaaroṅ taraf se khanjar Bibi pe chal raha hai
 
   7
   Ye qaafila haram ka zindaaṅ tak aa gaya hai
-  Suraj ye baadloṅ mein chhup chhup ke puchhta hai
+  Suraj ye baadloṅ meiṅ chhup chhup ke puchhta hai
   Bejurm qaidiyoṅ ko saaya kahaaṅ mila hai
 
   8

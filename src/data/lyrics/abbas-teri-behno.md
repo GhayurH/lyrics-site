@@ -11,27 +11,27 @@ aliases: []
 published: true
 reciter: "Farhan Ali Waris"
 romanLyrics: |-
-  Abbas teri behnoṅ ko bazar mein laaya jaata hai
+  Abbas teri behnoṅ ko bazar meiṅ laaya jaata hai
 
   1
-  Suraj ne khule sar jis ko ghar mein bhi kabhi na dekha
-  Afsos wohi Shahzadi balwe mein gayi wawaila
+  Suraj ne khule sar jis ko ghar meiṅ bhi kabhi na dekha
+  Afsos wohi Shahzadi balwe meiṅ gayi wawaila
   Zainab ki yahaṅ aamad par darbar sajaya jaata hai
 
   2
-  Kis shaan se teri Zainab mahmil mein chali thi ghar se
-  Aur aaj safar par nikli to raah mein patthar barse
-  Beparda Nabizadi ko galiyoṅ mein phiraya jaata hai
+  Kis shaan se teri Zainab mahmil meiṅ chali thi ghar se
+  Aur aaj safar par nikli to raah meiṅ patthar barse
+  Beparda Nabizadi ko galiyoṅ meiṅ phiraya jaata hai
 
   3
-  Kya tujh se kahuṅ ae Ghazi dekheiṅ hain yahaṅ gham kaise
-  Rahoṅ mein Sakina teri pani ke liye gar roe
+  Kya tujh se kahuṅ ae Ghazi dekheiṅ haiṅ yahaṅ gham kaise
+  Rahoṅ meiṅ Sakina teri pani ke liye gar roe
   Bachchi ko dikha kar pani reti pe bahaya jaata hai
 
   4
   Bedard hai beghairat hai ye Shaam ke rehne wale
-  Aankhoṅ pe pare hain parde aur in ki zaban pe taale
-  Ye chup hai Nabizadi ko balwe mein bulaya jaata hai
+  Aankhoṅ pe pare haiṅ parde aur in ki zaban pe taale
+  Ye chup hai Nabizadi ko balwe meiṅ bulaya jaata hai
 
   5
   Ek lamha nahiṅ hai aisa iza na koi pahunchae
@@ -44,19 +44,19 @@ romanLyrics: |-
   Kal Ammaṅ jahaṅ aayi thi ab mujh ko bulaya jaata hai
 
   7
-  Rahoṅ mein kisi manzil par deta jo hameṅ koi chadar
-  Le jaate hain phir wo chadar hakim ke sipahi aa kar
-  Ek gham mein teri Zainab ko kai baar rulaya jaata hai
+  Rahoṅ meiṅ kisi manzil par deta jo hameṅ koi chadar
+  Le jaate haiṅ phir wo chadar hakim ke sipahi aa kar
+  Ek gham meiṅ teri Zainab ko kai baar rulaya jaata hai
 
   8
   Barsat kabhi durroṅ ki hoti hai kahiṅ sangbari
-  Ae bhai bata kiun na ho jine se mujhe bezari
-  Sadat ko in rahoṅ mein har gaam sataya jaata hai
+  Ae bhai bata kiuṅ na ho jine se mujhe bezari
+  Sadat ko in rahoṅ meiṅ har gaam sataya jaata hai
 
   9
   Ye farsh-e-aza ye matam Zainab ka qarz hai hum par
-  Dunya se kaheṅ phir kiun na Farhan aur Mazhar ro kar
-  Jo Aal-e-Nabi par guzri nohoṅ mein sunaya jaata hai
+  Dunya se kaheṅ phir kiuṅ na Farhan aur Mazhar ro kar
+  Jo Aal-e-Nabi par guzri nohoṅ meiṅ sunaya jaata hai
 # source_id: nohayonline:9a781c81cabad906b46e
 # source_url: https://www.nohayonline.com/details_content.php?id=78
 # raw_sha256: 34f9fb3d52a8db4d9070bc04aeaf0773db3f096f0182a32d37b56a572bdd3bb7

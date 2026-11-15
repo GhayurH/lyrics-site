@@ -27,7 +27,7 @@ romanLyrics: |-
   Dilbar-e-Zahra hai Abbas saath hamesha hai Abbas
 
   2
-  Do sher hai dunya mein jis ka na koi saani
+  Do sher hai dunya meiṅ jis ka na koi saani
   Ek sher-e-Khuda Haidar ek sher-e-Ali Ghaazi
   Mashhur-e-zamaana hai donoṅ ki alamdaari
   Ghaazi Ali ka hai sarmaaya Ghaazi Husain ka hai saaya
@@ -35,7 +35,7 @@ romanLyrics: |-
 
   3
   Jab bhi gham-e-dunya se ye dil mera ghabraaya
-  Main apni duaaoṅ mein Abbas ko le aaya
+  Maiṅ apni duaaoṅ meiṅ Abbas ko le aaya
   Ye waasta Ghaazi ka mere kaam bara aaya
   Gham ka mudaawa hai Ghaazi mera bharosa hai Ghaazi
   Mera aqida hai Ghaazi Rab ka wasila hai Abbas
@@ -44,7 +44,7 @@ romanLyrics: |-
   Labbaik suno
   Abbas wafaaoṅ ka paikar hai
   Abbas jalaal-e-Haidar hai
-  Har dil mein dharakta hai Ghaazi
+  Har dil meiṅ dharakta hai Ghaazi
   Abbas ka charcha ghar ghar hai
   Jis din se alamdaari ka sharaf
   Shabbir se tum ne paaya hai
@@ -60,7 +60,7 @@ romanLyrics: |-
   Zer-e-alam maatam hoga waada hamaara hai Abbas
 
   6
-  Jab shaam-e-gharibaṅ mein ghurbat ki ghata chhaayi
+  Jab shaam-e-gharibaṅ meiṅ ghurbat ki ghata chhaayi
   Nauha tha ye Zainab ka Abbas mere bhaai
   Jab chaadar chhinti thi teri yaad bahut aayi
   Haaye wo Zainab ka nauha aur tarapna Ghaazi ka

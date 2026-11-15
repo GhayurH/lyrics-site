@@ -18,7 +18,7 @@ romanLyrics: |-
   Husainiyoṅ ye tumheṅ Karbala bataati hai
   Jo qaum apne shahidoṅ ko bhul jaati hai
   Qadam qadam pe ajal se fareb khaati hai
-  Phir aisi qaum ki qismat mein besabati hai
+  Phir aisi qaum ki qismat meiṅ besabati hai
   Husainiyoṅ karo jo pairawi to Hurr ki pairawi ki tarah
 
   2
@@ -32,19 +32,19 @@ romanLyrics: |-
   Ali ke bachchoṅ ko jo maut se daraata hai
   Wo apni fikr-e-najis se fareb khaata hai
   Ali ki raah se jo bhi qadam hataata hai
-  Nabi ka beta bhi tufan mein dub jaata hai
+  Nabi ka beta bhi tufan meiṅ dub jaata hai
   Husainiyoṅ Nabi ke bete agar ho raho Nabi ki tarah
 
   4
   Ali ke jine ka andaaz kya niraala hai
   Ali ne maut ko bhi rizq de ke paala hai
-  Khuda ke ghar mein shahadat bara hawala hai
-  Ali ne maut ko bhi mushkiloṅ mein daala hai
+  Khuda ke ghar meiṅ shahadat bara hawala hai
+  Ali ne maut ko bhi mushkiloṅ meiṅ daala hai
   Husainiyoṅ Hasan Husain bhi zinda rahe inhi ki tarah
 
   5
   Jo haqparast hai wo sab ghulam-e-Haider haiṅ
-  Nazar mein Badr o Uhad ke tamam manzar haiṅ
+  Nazar meiṅ Badr o Uhad ke tamam manzar haiṅ
   Jo haqparast nahiṅ buzdilaan-e-Khaibar haiṅ
   Jo haqparast hai un ke jale hue ghar haiṅ
   Husainiyoṅ shaur-e-haq ki zarurat hai Qambari ki tarah
@@ -68,7 +68,7 @@ romanLyrics: |-
   Ke jaam-e-shiriṅ jise dast-e-Haideri se mile
   Ali ne nind se bedaar kar diya ho jise
   Ali se zindagi wo chhinta bhala kaise
-  Husainiyoṅ ajal pe kaun gira dahr mein Ali ki tarah
+  Husainiyoṅ ajal pe kaun gira dahr meiṅ Ali ki tarah
 
   9
   Ye kaun jaata hai marne lahu lahu hai badan

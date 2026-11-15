@@ -26,11 +26,11 @@ romanLyrics: |-
   Baaba na kaho baaba tum saath raho baaba
   Kuchh hum se suno baaba aage na barho baaba
   Aaraam karo baaba baraaye dil-e-dukhtar
-  Baraaye dil-e-dukhtar khaime mein chalo baaba
+  Baraaye dil-e-dukhtar khaime meiṅ chalo baaba
 
   3
-  Main jaan gayi baaba pahchaan gayi baaba
-  Qurbaan gayi baaba talwaaroṅ mein jaaoge
+  Maiṅ jaan gayi baaba pahchaan gayi baaba
+  Qurbaan gayi baaba talwaaroṅ meiṅ jaaoge
   Phir tum bhi na aaoge baraaye dil-e-dukhtar
   Baraaye dil-e-dukhtar tum hum ko na tarpaana
 
@@ -41,7 +41,7 @@ romanLyrics: |-
   Baraaye dil-e-dukhtar tum laut ke aa jaana
 
   5
-  Shah bole Sakina jaaṅ sau jaan se main qurbaan
+  Shah bole Sakina jaaṅ sau jaan se maiṅ qurbaaṅ
   Is tarah se na ho giryaaṅ ik waada nibhaana hai
   Ik qarz puraana hai baraaye dil-e-dukhtar
   Baraaye dil-e-baaba tum aaj dua karna

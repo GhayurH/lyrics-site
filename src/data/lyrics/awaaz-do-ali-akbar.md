@@ -20,19 +20,19 @@ romanLyrics: |-
   Jaati hai meri jaaṅ
   Maqtal meiṅ hai dhuaaṅ
   Beta ho tum kahaaṅ
-  Maara hai kis tarah se tumheiṅ sochta huṅ main
-  Patthar hata hata ke tumheiṅ dhundta huṅ main
+  Maara hai kis tarah se tumheiṅ sochta huṅ maiṅ
+  Patthar hata hata ke tumheiṅ dhundta huṅ maiṅ
   Chaaroṅ taraf hai khun milta nahiṅ sukun
   Laashoṅ ke darmiyaaṅ
 
   2
-  Kuchh bhi dikhaai deta nahiṅ main gharib huṅ
+  Kuchh bhi dikhaai deta nahiṅ maiṅ gharib huṅ
   Khushbu se lag raha hai tumhaare qarib huṅ
   Ae mere dil ke chain baba ke nur-e-ain
   Ab lo na imtihaaṅ
 
   3
-  Main ne suna hai ghore se tum khud nahiṅ gire
+  Maiṅ ne suna hai ghore se tum khud nahiṅ gire
   Ae mere laal baaloṅ se kheincha gaya tumheiṅ
   Tum ho yahi kahiṅ kiuṅ bolte nahiṅ
   Khaamosh hai zubaaṅ
@@ -63,8 +63,8 @@ romanLyrics: |-
 
   8
   Do maaoṅ ne jawaaṅ kiya tum ko paal kar
-  Khaimoṅ meiṅ jaa ke kaise milaauṅ ga main nazar
-  Main un se kya kahuṅ behta hai tera khuṅ
+  Khaimoṅ meiṅ jaa ke kaise milaauṅ ga maiṅ nazar
+  Maiṅ un se kya kahuṅ behta hai tera khuṅ
   Kaise sahegi maaṅ
 
   9

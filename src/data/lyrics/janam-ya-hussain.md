@@ -72,7 +72,7 @@ romanLyrics: |-
   Chalte rahe ahl-e-aza aur alam saath rahe
   Har qadam dam badam saath ho tera gham
   Karbala ki qasam
-  Dhadkanoṅ ke saath bhi dhadkanoṅ ke baad bhi
+  Dharkanoṅ ke saath bhi dharkanoṅ ke baad bhi
   Baadshah hamara ya Husain
   Husain
 
@@ -135,7 +135,7 @@ romanLyrics: |-
   Baadshah hamara ya Husain
 
   8
-  Jite raho ahl-e-aza dil mein rahe Karbobala
+  Jite raho ahl-e-aza dil meiṅ rahe Karbobala
   Shaad raho chalte raho pehne hue shaal-e-aza
   Hai dua ho sada har jagah ye aza ye sada ye nawa
   Majlisoṅ ke saath bhi majlisoṅ ke baad bhi
@@ -164,10 +164,10 @@ romanLyrics: |-
   Khuda ke nur Panjetan ke nur-e-ain marhaba
   Maula maula Husain ya maula Husain
   Sada rahe ye silsila na tute tum se raabta
-  Tu dhadkanoṅ mein bas gaya tu ruh mein sama gaya
-  Tu dhadkanoṅ mein bas gaya Husain
-  Tu ruh mein sama gaya Husain
-  Lahu mein mere gunjta Husain
+  Tu dharkanoṅ meiṅ bas gaya tu ruh meiṅ sama gaya
+  Tu dharkanoṅ meiṅ bas gaya Husain
+  Tu ruh meiṅ sama gaya Husain
+  Lahu meiṅ mere gunjta Husain
   Hamara hai ata pata Husain
   Salaam aashiq-e-Khuda
   Salaam jaan-e-Mustafa

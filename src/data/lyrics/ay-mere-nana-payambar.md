@@ -24,12 +24,12 @@ romanLyrics: |-
   Wo qayamat ka samaaṅ tha mera bhaiya tha akela
   Suniye ye kahani
   Kabhi laashe ko uthaya kabhi bachchoṅ ko bulaya
-  Kabhi Haidar ko pukara the ajab haal mein Sarwar
+  Kabhi Haidar ko pukara the ajab haal meiṅ Sarwar
   Lut gayi Zainab
 
   2
   Kabhi barhna su-e-khaima kabhi khaime se palatna
-  Kabhi be-shir ko takna kabhi sine se lagana
+  Kabhi beshir ko takna kabhi sine se lagana
   Keh na sakuṅ gi
   Kabhi aawaaz di Asghar kabhi ro uthe tarap kar
   Kabhi muṅh rakh diya muṅh par hai mujhe yaad wo manzar
@@ -38,9 +38,9 @@ romanLyrics: |-
   3
   Asr ke baad ka qissa soch kar dil hai dahalta
   Qatl jab ho gaya pyasa pisar-e-Fatima Zahra
-  Ghash mein the Aabid
+  Ghash meiṅ the Aabid
   Mujhe aada ne sataya mere khaimoṅ ko jalaya
-  Jhula be-shir ka luta meri chhini gayi chadar
+  Jhula beshir ka luta meri chhini gayi chadar
   Lut gayi Zainab
 
   4
@@ -53,7 +53,7 @@ romanLyrics: |-
 
   5
   Na qanaateṅ na wo khaima na wo Abbas ka pehra
-  Ek samaaṅ shab ka darauna meri godi mein Sakina
+  Ek samaaṅ shab ka darauna meri godi meiṅ Sakina
   Lipti hui thi
   Jab hui Shaam-e-Gharibaṅ chandni phirti thi hairaṅ
   Wo khamoshi wo bayabaṅ the haram khaak ke upar

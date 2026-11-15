@@ -1,6 +1,6 @@
 ---
 title: "مشکل میں ہے حسین مصیبت میں ہے حسین"
-alternateTitle: "Mushkil Mein Hai"
+alternateTitle: "Mushkil Meiṅ Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,8 +11,8 @@ tags: []
 aliases: ["Mushkil May Hai"]
 published: true
 romanLyrics: |-
-  Mushkil mein hai Husain musibat mein hai Husain
-  Baba madad ko aaiye mushkil mein hai Husain
+  Mushkil meiṅ hai Husain musibat meiṅ hai Husain
+  Baba madad ko aaiye mushkil meiṅ hai Husain
 
   1
   Barsa raha hai aag biyaabaan-e-Karbala
@@ -29,7 +29,7 @@ romanLyrics: |-
   Do ghunt paani maanga hai bete ne baap se
 
   3
-  Ghurbat mein nabz-e-jaaṅ ko rawaani kahaaṅ se de
+  Ghurbat meiṅ nabz-e-jaaṅ ko rawaani kahaaṅ se de
   Tu hi bata de Yusuf-e-saani kahaaṅ se de
   Baba se jaan maang le paani kahaaṅ se de
   Sharma raha hai burha pidar apne aap se
@@ -43,7 +43,7 @@ romanLyrics: |-
   Do ghunt paani maanga hai bete ne baap se
 
   5
-  Maqtal mein sar jhukaaye hai tashna dahaaṅ Husain
+  Maqtal meiṅ sar jhukaaye hai tashna dahaaṅ Husain
   Akbar ko kaise shaad kare khasta tan Husain
   Haathoṅ ko mal raha hai gharibul watan Husain
   Sharma raha hai burha pidar apne aap se
@@ -58,7 +58,7 @@ romanLyrics: |-
 
   7
   Hontoṅ pe aisi pyaas hai karyal jawaan ke
-  Chubhte haiṅ dil mein baap ke kaante zabaan ke
+  Chubhte haiṅ dil meiṅ baap ke kaante zabaan ke
   Chehra dhuaaṅ dhuaaṅ hai to laale haiṅ jaan ke
   Sharma raha hai burha pidar apne aap se
   Do ghunt paani maanga hai bete ne baap se

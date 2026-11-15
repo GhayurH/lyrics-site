@@ -36,7 +36,7 @@ romanLyrics: |-
 
   4
   Kaisi hai musibat ranj o alam
-  Kufe mein barehna sar hai haram
+  Kufe meiṅ barehna sar hai haram
   Har samt khare haiṅ naamahram
   Tathir ki chaadar yaad aaye
 
@@ -48,18 +48,18 @@ romanLyrics: |-
 
   6
   Zindaan se qaidi jab chhute
-  Aur waapas Yasrab mein pahunche
+  Aur waapas Yasrab meiṅ pahunche
   Dil ahl-e-Madina ke tute
   Har ek ko Sarwar yaad aaye
 
   7
-  Kehti thi Sakina amma jaan
+  Kehti thi Sakina amma jaaṅ
   Beshir mera bhaiya hai kahaaṅ
   Kya us se kahe dukhiyaari maaṅ
   Besaakhta Asghar yaad aaye
 
   8
-  Jab ghar mein bana koi dulha
+  Jab ghar meiṅ bana koi dulha
   Yaad aa gaya Qasim ka sehra
   Noha bhi parha maatam bhi kiya
   Aur dilbar-e-Shabbar yaad aaye
@@ -71,10 +71,10 @@ romanLyrics: |-
   Malte hue Sarwar yaad aaye
 
   10
-  Hai kaun Muneer apna hamsar
+  Hai kaun Munir apna hamsar
   Kiuṅkar ho hameiṅ khauf-e-mahshar
-  Ho aaṅkh gham-e-Shabbir mein tar
-  Aur naza mein Haider yaad aaye
+  Ho aaṅkh gham-e-Shabbir meiṅ tar
+  Aur naza meiṅ Haider yaad aaye
 # source_id: nohayonline:66f8655c2541e4a28f2a
 # source_url: https://www.nohayonline.com/details_content.php?id=1866
 # raw_sha256: 12e9b43c708258ee435570776595466b6e0a7c897b7b49b52eaf6cdfae7ac2ce

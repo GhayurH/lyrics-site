@@ -1,6 +1,6 @@
 ---
 title: "عاشور کی شب ہے حشر بپا"
-alternateTitle: "Ashoor Ki Shab Hai"
+alternateTitle: "Ashur Ki Shab Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,19 +10,19 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ashoor ki shab hai hashr bapa
+  Ashur ki shab hai hashr bapa
   Masum Sakina so jaao
   Ro ro ke na mujhko tarpaao
   Ae baali Sakina so jaao
 
   1
   Munh ashkoṅ se dhoti hai koi
-  Maidan mein roti hai koi
+  Maidan meiṅ roti hai koi
   Ye girya-e-Zehra ki hai sada
   Masum Sakina so jaao
 
   2
-  Aaghosh mein maadar ke leto
+  Aaghosh meiṅ maadar ke leto
   Aur baap ke sine ko bhulo
   Karte haiṅ ibadat Shah-e-Huda
   Masum Sakina so jaao
@@ -48,7 +48,7 @@ romanLyrics: |-
   6
   Bewaoṅ ki madad ab kaun kare
   Abbas nahiṅ Akbar bhi nahiṅ
-  Bimaar bhi hai be-aab o dawa
+  Bimaar bhi hai beaab o dawa
   Masum Sakina so jaao
 # source_id: nohayonline:b888c6ff82bf7014ad83
 # source_url: https://www.nohayonline.com/details_content.php?id=1761

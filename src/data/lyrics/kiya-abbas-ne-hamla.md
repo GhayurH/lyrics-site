@@ -18,15 +18,15 @@ romanLyrics: |-
 
   1
   Adu bhi dekh kar Abbas ko
-  Aapas mein kehte the
+  Aapas meiṅ kehte the
   Jala daale gi saahil ko
   Jo ye bijli zara chamki
 
   2
   Sada-e-la fata se
   Aaya-e-tathir tak suniye
-  Ali ki tegh ran mein
-  Ghar mein Zehra ki rida chamki
+  Ali ki tegh ran meiṅ
+  Ghar meiṅ Zehra ki rida chamki
 
   3
   Gira Azraq bhi Marhab ki tarah
@@ -35,10 +35,10 @@ romanLyrics: |-
   Naam-e-Khuda chamki
 
   4
-  Bana diwaar mein dar
+  Bana diwaar meiṅ dar
   But gire taaqoṅ se Kaabe ke
-  Haram mein barq-e-nur-e-Haidari
-  Be inteha chamki
+  Haram meiṅ barq-e-nur-e-Haidari
+  Beinteha chamki
 
   5
   Ada jo zer-e-khanjar ho gaya
@@ -48,8 +48,8 @@ romanLyrics: |-
 
   6
   Jagah dene lage ahl-e-nazar
-  Dil mein salaamoṅ ko
-  Tere ashaar mein Mahir
+  Dil meiṅ salaamoṅ ko
+  Tere ashaar meiṅ Mahir
   Jo Saalik ki ada chamki
 # source_id: nohayonline:dc46368759186377af4a
 # source_url: https://www.nohayonline.com/details_content.php?id=1215

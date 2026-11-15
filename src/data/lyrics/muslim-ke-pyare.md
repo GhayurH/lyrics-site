@@ -25,7 +25,7 @@ romanLyrics: |-
   Allah bakhsh de ga jo waapas palat gaya
 
   3
-  Tausif o hamd karne de us be niyaaz ki
+  Tausif o hamd karne de us beniyaaz ki
   Mohlat zara si de de hameiṅ tu namaaz ki
   Phir kis tarah jhukaayeṅ ge ham sar jo kat gaya
 

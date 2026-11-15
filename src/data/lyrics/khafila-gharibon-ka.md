@@ -62,7 +62,7 @@ romanLyrics: |-
   Kis qadar hai tanhaai maamta ki baahoṅ meiṅ
 
   9
-  Gar Rasheed turbat meiṅ zindagi ki haajat hai
+  Gar Rashid turbat meiṅ zindagi ki haajat hai
   Qalb ke dharakne ko ashk ki zarurat hai
   Karbala ke pyaasoṅ ka gham bari ibaadat hai
   Zakhm maatam-e-Shah ka ruh ki tahaarat hai

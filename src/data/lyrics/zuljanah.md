@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Duba lahu mein laut ke aaya hai Zuljana
+  Duba lahu meiṅ laut ke aaya hai Zuljana
   Samjhi Sakina baba ko laaya hai Zuljana
   Dekhi jo zin khaali to karne lagi ye bain
   Zuljana Zuljana kuchh to bata mujh ko Zuljana
@@ -37,15 +37,15 @@ romanLyrics: |-
   Haaye Zuljana haaye Zuljana
   Kiuṅ nahiṅ bataata kya sitam hua
   Haaye Zuljana haaye Zuljana
-  Teri khaamoshi mein hai gham ki kya khabar
-  Kya main samjhuṅ ke juda ho gaye padar
+  Teri khaamoshi meiṅ hai gham ki kya khabar
+  Kya maiṅ samjhuṅ ke juda ho gaye padar
 
   4
-  Haath jor kar main keh rahi thi na
+  Haath jor kar maiṅ keh rahi thi na
   Haaye Zuljana haaye Zuljana
   Ji sakuṅ gi kaise baap ke bina
   Haaye Zuljana haaye Zuljana
-  Ab jo duniya mein mere baba na rahe
+  Ab jo duniya meiṅ mere baba na rahe
   Kaun sine pe sulaaye ga mujhe
 
   5
@@ -67,7 +67,7 @@ romanLyrics: |-
   7
   Har taraf haiṅ laasheṅ har taraf lahu
   Haaye Zuljana haaye Zuljana
-  Dhunduṅ main padar ko kaise chaar suṅ
+  Dhunduṅ maiṅ padar ko kaise chaar suṅ
   Haaye Zuljana haaye Zuljana
   Aise bedard lainoṅ ke darmiyaaṅ
   Tu bata laash-e-padar paauṅ gi kahaaṅ

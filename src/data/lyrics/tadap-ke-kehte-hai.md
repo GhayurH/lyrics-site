@@ -11,22 +11,22 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Arsa-e-hashr mein jis waqt ke aaeṅgi Batul
+  Arsa-e-hashr meiṅ jis waqt ke aaeṅgi Batul
   Keh ke farzandoṅ ka gham sab ko rulaaeṅgi Batul
   Lab pe mazkur shahaadat ka hilaaeṅgi Batul
   Arsh ke paaye ko ro ro ke hilaaeṅgi Batul
   Us ghari sharm se muṅh pher na lena zaalim
   Khun baha Fatima Zehra ko to dena zaalim
 
-  Tadap ke kehte haiṅ Sajjad Ae phuphi amma
+  Tarap ke kehte haiṅ Sajjad Ae phuphi amma
   Yazid kehta hai baba ka khun baha le lo
 
   1
   Wo mera baba jise Fatima ne paala tha
   Nabi ka nur-e-nazar din ka ujaala tha
   Na us ki laash ko koi uthaane waala tha
-  Main uth na sakta tha aur saamne pari thi laash
-  Sinaaṅ ki nok pe sar tha tadap rahi thi laash
+  Maiṅ uth na sakta tha aur saamne pari thi laash
+  Sinaaṅ ki nok pe sar tha tarap rahi thi laash
 
   2
   Chacha ke sadme ne baba ki tor di thi kamar
@@ -37,13 +37,13 @@ romanLyrics: |-
 
   3
   Har ek aankh lahu se bhigo gaye Qasim
-  Chale jo ghore to taapoṅ mein kho gaye Qasim
-  Ke zindagi mein hi paamaal ho gaye Qasim
+  Chale jo ghore to taapoṅ meiṅ kho gaye Qasim
+  Ke zindagi meiṅ hi paamaal ho gaye Qasim
   Ragarte eriyaaṅ Qasim ka kya sila dega
   Har ek laash ke tukre ke badle kya dega
 
   4
-  Kaha jalaal mein Zainab ne us ki ye jurat
+  Kaha jalaal meiṅ Zainab ne us ki ye jurat
   Kaho ye us se ke kya dega wo hameṅ daulat
   Tum us se puchho ke Abbas ki hai kya qimat
   Ye jo lahu bhare gesu hai in ka kya dega
@@ -58,22 +58,22 @@ romanLyrics: |-
 
   6
   Juda badan se tha sar aur tha kaleja paash
-  Pari thi ghoroṅ se paamaal tez dhup mein laash
+  Pari thi ghoroṅ se paamaal tez dhup meiṅ laash
   Yahaaṅ talaash rida ki wahaaṅ kafan ki talaash
-  Chhupa luṅ badle ke armaan ko main phuphi amma
-  Bhula duṅ shaam-e-gharibaaṅ ko main phuphi amma
+  Chhupa luṅ badle ke armaan ko maiṅ phuphi amma
+  Bhula duṅ shaam-e-gharibaaṅ ko maiṅ phuphi amma
 
   7
   Ajab hai haal Sakina ka maaṅ ko sakta hai
-  Rasan gale mein hai sine mein dam atakta hai
+  Rasan gale meiṅ hai sine meiṅ dam atakta hai
   Larazte ashk hai kaanoṅ se khuṅ tapakta hai
   Gauhar jo kaanoṅ se chhine the in ka kya dega
   Tamaanche is ne jo khaaye hai in ka kya dega
 
   8
-  Phiraai jaati thi galiyoṅ mein itrat-e-athaar
+  Phiraai jaati thi galiyoṅ meiṅ itrat-e-athaar
   Rida saroṅ pe na thi aur majma-e-aghyaar
-  Bhula duṅ kaise main beta wo Shaam ka baazaar
+  Bhula duṅ kaise maiṅ beta wo Shaam ka baazaar
   Bataaye karb-e-yatima ki kya jaza dega
   Sinaaṅ ki nok se khinchi rida ka kya dega
 

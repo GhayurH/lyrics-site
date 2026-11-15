@@ -22,10 +22,10 @@ romanLyrics: |-
   2
   Baap Quran-e-shujaat ye hai Quran-e-wafa
   Baap hai saaqi-e-Kausar ye hai pyaasoṅ ki dua
-  Aaj tak qabze mein is ke hai Furaat o Alqama
+  Aaj tak qabze meiṅ is ke hai Furaat o Alqama
 
   3
-  Hai ragoṅ mein khun Abu Talib ka is ke maujizan
+  Hai ragoṅ meiṅ khun Abu Talib ka is ke maujizan
   Bu Turaabi khun hai kiuṅ kar na ho baatil shikan
   Tor daala is jari ne Khaibar o Karbobala
 
@@ -35,7 +35,7 @@ romanLyrics: |-
   Us ke parcham ki hawa hai surat-e-khaak-e-shifa
 
   5
-  Ho gaye baazu qalam aur khun mein duba alam
+  Ho gaye baazu qalam aur khun meiṅ duba alam
   Hat sake na Alqama se phir bhi Ghazi ke qadam
   Turbat-e-Abbas par pehre pe hai darya khara
 

@@ -15,7 +15,7 @@ romanLyrics: |-
   Chain se Aal-e-Nabi reh na saki aap ke baad
 
   1
-  Zul Ashira ke lage zakhm Saqifa mein khule
+  Zul Ashira ke lage zakhm Saqifa meiṅ khule
   Saamne aa gaye naasur-e-khafi aap ke baad
 
   2
@@ -28,7 +28,7 @@ romanLyrics: |-
 
   4
   Khun jis ka tha tera khun badan tera badan
-  Khuṅ mein hai gharq wohi farq-e-Ali aap ke baad
+  Khuṅ meiṅ hai gharq wohi farq-e-Ali aap ke baad
 
   5
   Raakib-e-dosh-e-nubuwwat wo tere shahzaade
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   6
   Tir yuṅ barse janaaze pe Hasan ke Naana
-  Us ko pehlu mein zamiṅ mil na saki aap ke baad
+  Us ko pehlu meiṅ zamiṅ mil na saki aap ke baad
 
   7
   Haal kaise ho bayaaṅ Sibt-e-Nabi ka Aaqa

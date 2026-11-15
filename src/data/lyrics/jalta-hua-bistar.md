@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   Thi fikr ye Zainab ko rida bhi nahiṅ sar par
-  Is haal mein Abbas Alamdaar na dekhe
+  Is haal meiṅ Abbas Alamdaar na dekhe
 
   4
   Sar naize se Ghaazi ne giraaya hai zamiṅ par

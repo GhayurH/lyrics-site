@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Qaidi bani maqtal mein khari hai
+  Qaidi bani maqtal meiṅ khari hai
   Qaidi chhurane waali Zainab
   Kaise bachaye khud ko sitam se
   Din bachane waali Zainab
@@ -29,33 +29,33 @@ romanLyrics: |-
   Chehra chhupane waali Zainab
 
   3
-  Aankh mein aansu paaoṅ mein chhaale
-  Baaloṅ mein hai khaak safar ki
+  Aankh meiṅ aansu paaoṅ meiṅ chhaale
+  Baaloṅ meiṅ hai khaak safar ki
   Ranj o alam sehne aayi hai
   Dard batane waali Zainab
 
   4
   Aaj use sab Kufe waale
   Baaghi ki hamshir kaheṅge
-  Kal Kufe mein thi shehzaadi
+  Kal Kufe meiṅ thi shehzaadi
   Jo kehlane waali Zainab
 
   5
   Karbobala ka sog manaati
-  Shaam ke bazaaroṅ mein aayi
-  Apne watan mein beaasoṅ ki
+  Shaam ke bazaaroṅ meiṅ aayi
+  Apne watan meiṅ beaasoṅ ki
   Aas bandhaane waali Zainab
 
   6
   Ek sahare baat rahi thi
   Ek sahara dhund rahi hai
-  Dasht mein aane waali Zainab
+  Dasht meiṅ aane waali Zainab
   Dasht se jaane waali Zainab
 
   7
   Nur Ali ab is se barh kar
   Aur qayamat kya guzregi
-  Bazaaroṅ mein beparda hai
+  Bazaaroṅ meiṅ beparda hai
   Parda sikhane waali Zainab
 # source_id: nohayonline:bf490706c4610b24edc4
 # source_url: https://www.nohayonline.com/details_content.php?id=893

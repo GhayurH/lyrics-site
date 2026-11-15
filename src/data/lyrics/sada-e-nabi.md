@@ -18,10 +18,10 @@ romanLyrics: |-
   Hai ye sadma mujhe bara Zehra
 
   1
-  Jaanta huṅ main teri khasta dili
-  Tu jo darbaar mein gayi hogi
+  Jaanta huṅ maiṅ teri khasta dili
+  Tu jo darbaar meiṅ gayi hogi
   Tujh ko jhutlaaya haq bhi chhin liya
-  Meri tehreer bhi jala daali
+  Meri tehrir bhi jala daali
   Kya Madine ke log bhul gaye
   Tu hai Siddiqa Taahira Zehra
 
@@ -45,8 +45,8 @@ romanLyrics: |-
   Sabr dil ko zara nahiṅ aata
   Teri faryaad sun nahiṅ paata
   Din pe parte sitam jo mujh pe hue
-  Din siyaah raat mein badal jaata
-  Main zaifa hui jawaani mein
+  Din siyaah raat meiṅ badal jaata
+  Maiṅ zaifa hui jawaani meiṅ
   Zulm sahti hai bekhata Zehra
 
   5
@@ -55,7 +55,7 @@ romanLyrics: |-
   Itni taklif aur aziyat ki
   Jaanta huṅ ke tu nahiṅ aadi
   Aaja apne padar ke paas aaja
-  Teri ghurbat pe main fida Zehra
+  Teri ghurbat pe maiṅ fida Zehra
 
   6
   Sayyeda kar gayiṅ duniya se safar

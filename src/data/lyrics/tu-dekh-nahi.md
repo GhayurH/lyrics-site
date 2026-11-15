@@ -14,8 +14,8 @@ romanLyrics: |-
   Achchha hai teri binaai nahiṅ
   Tu dekh nahiṅ paata Jabir
 
-  Thi Bint-e-Ali bazaaroṅ mein
-  Be maqna o be parda Jabir
+  Thi Bint-e-Ali bazaaroṅ meiṅ
+  Bemaqna o beparda Jabir
   Tu dekh nahiṅ paata Jabir
 
   1
@@ -23,13 +23,13 @@ romanLyrics: |-
   Zahra ka yahaaṅ gulshan bikhra
   Jis jaa pe khare ho tum Jabir
   Ghore se yahiṅ Abbas gira
-  Pyaasi thi bhatiji khaime mein
-  Be baazu hua saqqa Jabir
+  Pyaasi thi bhatiji khaime meiṅ
+  Bebaazu hua saqqa Jabir
   Tu dekh nahiṅ paata Jabir
 
   2
   Athaara baras ka bhaai mera
-  Sine mein lagi naize ki ani
+  Sine meiṅ lagi naize ki ani
   Jabir ye sunoge kis tarah
   Shabbir ki bhi binaai gayi
   Bas ek qadam hi chalte the
@@ -56,7 +56,7 @@ romanLyrics: |-
 
   5
   Aaghaaz-e-imaamat tha mera
-  Tohfe mein mile zanjir o rasan
+  Tohfe meiṅ mile zanjir o rasan
   Poshaak-e-yatimi ki pehne
   Zakhmoṅ se bhara tha mera badan
   Gardan ka lahu pairoṅ se baha
@@ -69,13 +69,13 @@ romanLyrics: |-
   Ummat thi tamaashaai saari
   Aur Aal-e-Muhammad the qaidi
   Aur habshi ghulaamoṅ ki tarah
-  Baazaaroṅ mein khincha Jabir
+  Baazaaroṅ meiṅ khincha Jabir
   Tu dekh nahiṅ paata Jabir
 
   7
   Baazaar hua jab khatm to phir
   Darbaar qayaamat laaya tha
-  Darbaari sharaabi majme mein
+  Darbaari sharaabi majme meiṅ
   Zainab ko pukaara jaata tha
   Paighaam-e-Husaini ki khaatir
   Jaise wo rahi zinda Jabir
@@ -85,8 +85,8 @@ romanLyrics: |-
   Hasrat thi rihaai ki jis ko
   Zindaṅ se riha wo ho na saki
   Darti thi andhere se bachchi
-  Turbat bhi andhere mein hi bani
-  Zindaṅ mein Sakina ka haaye
+  Turbat bhi andhere meiṅ hi bani
+  Zindaṅ meiṅ Sakina ka haaye
   Haathoṅ pe tha jab laasha Jabir
   Tu dekh nahiṅ paata Jabir
 

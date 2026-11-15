@@ -23,7 +23,7 @@ romanLyrics: |-
 
   2
   Maula Ali jahaaṅ bhi haiṅ haq saath saath hai
-  Quraan ki bandishoṅ mein waraq saath saath hai
+  Quraan ki bandishoṅ meiṅ waraq saath saath hai
   Aur aasmaan pe jaise shafaq saath saath hai
   Kalma hai aur din ka sabaq saath saath hai
   Islaam jis jagah hai samajh lo wahaaṅ Husain
@@ -38,7 +38,7 @@ romanLyrics: |-
   4
   Mushkil ke waqt aata hai Khaibar shikan ka naam
   Dhaaras hai mere qalb ki Shaah-e-Zaman ka naam
-  Jaise azaan mein Akbar-e-Gul Pairahan ka naam
+  Jaise azaan meiṅ Akbar-e-Gul Pairahan ka naam
   Mehshar ke dil pe naqsh hai yuṅ Panjetan ka naam
   Ye dil bana hua hai tera gulistaaṅ Husain
 # source_id: nohayonline:94a0522eec8da928b9fe

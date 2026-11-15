@@ -12,10 +12,10 @@ aliases: ["Baba Mai Kya Karun"]
 published: true
 romanLyrics: |-
   Ro ro ke baba jaan se kehti thi Fatema
-  Baba main kya karuṅ
+  Baba maiṅ kya karuṅ
   Daswiṅ ko Karbala meiṅ mera ghar ujar gaya
   Ek do pahar meiṅ haye muqaddar bigar gaya
-  Baba main kya karuṅ
+  Baba maiṅ kya karuṅ
 
   1
   Aun o Muhammad apne abo jadd ki the misaal
@@ -32,7 +32,7 @@ romanLyrics: |-
   3
   Farzand mera kitna jari aur diler tha
   Sheroṅ ka sher tha
-  Main dekhti rahi mera Abbas mar gaya
+  Maiṅ dekhti rahi mera Abbas mar gaya
   Shaane kata ke nehr pe ghazi guzar gaya
 
   4

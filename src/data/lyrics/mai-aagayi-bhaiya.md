@@ -1,6 +1,6 @@
 ---
 title: "القصہ پہنچے کربوبلا میں وہ نوحہ گر"
-alternateTitle: "Main Aa Gayi Bhaiya"
+alternateTitle: "Maiṅ Aa Gayi Bhaiya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,64 +11,64 @@ tags: []
 aliases: ["Mai Aagayi Bhaiya"]
 published: true
 romanLyrics: |-
-  Alqissa pahunche Karb o Bala mein wo nauhagar
+  Alqissa pahunche Karb o Bala meiṅ wo nauhagar
   Zainab tarap ke reh gayi bhai ki qabr par
   Is tarah bain karti thi wo sokhta jigar
   Bhaabhi ki god ujar gayi bhaiya karo nazar
   Tum ko khabar hai hum pe jo aafat guzar gayi
-  Qaid-e-sitam mein baali Sakina guzar gayi
+  Qaid-e-sitam meiṅ baali Sakina guzar gayi
 
-  Zainab ki duhaai thi main aa gayi bhaiya
+  Zainab ki duhaai thi maiṅ aa gayi bhaiya
   Kunbe ko tere kho kar zindaaṅ se bhi ho kar
-  Main aa gayi bhaiya
+  Maiṅ aa gayi bhaiya
 
   1
-  Main kaise bataauṅ jo hui zulm o jafa hai
+  Maiṅ kaise bataauṅ jo hui zulm o jafa hai
   Tum uth ke zara dekho jo kuchh haal hua hai
   Bikhre haiṅ mere gesu zakhmi hai mere baazu
   Chaadar luti bhaiya
 
   2
   Jab pusht se bimaar ki khincha gaya bistar
-  Us waqt use aag se main laai bacha kar
-  Ghash mein tha mera dilbar khaimoṅ se use laa kar
-  Main gir pari bhaiya
+  Us waqt use aag se maiṅ laai bacha kar
+  Ghash meiṅ tha mera dilbar khaimoṅ se use laa kar
+  Maiṅ gir pari bhaiya
 
   3
   Aayaat-e-Khuda utri sada arsh se hum par
   Barsaae gaye kothoṅ se hum logoṅ pe patthar
   Jis waqt tere sar par ik maara gaya patthar
-  Main ro pari bhaiya
+  Maiṅ ro pari bhaiya
 
   4
-  Is rassi mein hi baarah gale baandh ke bhaiya
+  Is rassi meiṅ hi baarah gale baandh ke bhaiya
   Haiwaaṅ ki tarah khinch ke le jaate the aada
   Wo khinchte hans hans kar hum uthte the gir gir kar
   Sharmaati thi bhaiya
 
   5
   Wo tum ne amaanat jo mujhe saunpi thi bhaiya
-  Zindaaṅ mein wo tum ko hi sada deti thi bhaiya
+  Zindaaṅ meiṅ wo tum ko hi sada deti thi bhaiya
   The nile nishaaṅ us par kaanoṅ se chhine gauhar
   Roti rahi bhaiya
 
   6
-  Tum khwaab mein zindaaṅ se use aaye the lene
+  Tum khwaab meiṅ zindaaṅ se use aaye the lene
   Bas yaad tumheiṅ karti rahi khwaab se uth ke
-  Zindaanoṅ mein ghut ghut kar haae phul si wo dukhtar
+  Zindaanoṅ meiṅ ghut ghut kar haae phul si wo dukhtar
   Murjha gayi bhaiya
 
   7
-  Zindaaṅ ke andhere mein chhupa aai huṅ bhai
-  Ik nanhi si turbat main bana aai huṅ bhai
-  Waada hai mera Sarwar main qabr-e-Sakina par
+  Zindaaṅ ke andhere meiṅ chhupa aai huṅ bhai
+  Ik nanhi si turbat maiṅ bana aai huṅ bhai
+  Waada hai mera Sarwar maiṅ qabr-e-Sakina par
   Phir jaauṅ gi bhaiya
 
   8
   Bhai ki lahad par jo gayi Zainab-e-naalaaṅ
   Aankhoṅ se rawaaṅ ashk the ae Majid o Yazdaaṅ
   Aur gir ke wo turbat par ye kehti rahi ro kar
-  Main aa gayi bhaiya
+  Maiṅ aa gayi bhaiya
 # source_id: nohayonline:4999d80709f3748239b3
 # source_url: https://www.nohayonline.com/details_content.php?id=2490
 # raw_sha256: db5e6a64f282278810a5c548fbec734398b1f70c8161224b7ec5aaea4baaaea1

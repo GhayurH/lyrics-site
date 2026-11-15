@@ -12,21 +12,21 @@ aliases: []
 published: true
 romanLyrics: |-
   Sab ke lab par siskiyaaṅ haiṅ Karbala se shaam tak
-  Baazuoṅ mein rassiyaaṅ hai Karbala se shaam tak
+  Baazuoṅ meiṅ rassiyaaṅ hai Karbala se shaam tak
   Berida Sayyedaaniyaaṅ hai Karbala se shaam tak
 
   1
   Asghar o Abbas o Akbar yaad aate jab yahaaṅ
-  Qaafila mein ro pari hai chikh kar sab Bibiyaaṅ
+  Qaafila meiṅ ro pari hai chikh kar sab Bibiyaaṅ
   Hichkiyaaṅ hi hichkiyaaṅ hai Karbala se shaam tak
 
   2
-  Aabid-e-bimaar ki gardan mein hai tauq-e-garaaṅ
+  Aabid-e-bimaar ki gardan meiṅ hai tauq-e-garaaṅ
   Aur us par taaziyaanoṅ se hai zakhmi naatawaaṅ
-  Paaoṅ mein bhi beriyaaṅ hai Karbala se shaam tak
+  Paaoṅ meiṅ bhi beriyaaṅ hai Karbala se shaam tak
 
   3
-  Paaoṅ mein chhaale pare haiṅ chur zakhmoṅ se badan
+  Paaoṅ meiṅ chhaale pare haiṅ chur zakhmoṅ se badan
   Bekas o mazlum Aabid besahaara bewatan
   Har qadam dushwaariyaaṅ haiṅ Karbala se shaam tak
 
@@ -51,13 +51,13 @@ romanLyrics: |-
   Har taraf khaamoshiyaaṅ haiṅ Karbala se shaam tak
 
   8
-  Nargha-e-aada mein itrat hai Shah-e-mazlum ki
+  Nargha-e-aada meiṅ itrat hai Shah-e-mazlum ki
   Jis taraf uthti hai nazreṅ Zainab o Kulsum ki
   Maut ki parchhaaiyaaṅ haiṅ Karbala se shaam tak
 
   9
   Qaafile ki sarparasti kar rahi hai gham gusaar
-  Baad mein Abbas ke Zainab bani hai zimmedaar
+  Baad meiṅ Abbas ke Zainab bani hai zimmedaar
   Ab ye zimmedaariyaaṅ haiṅ Karbala se shaam tak
 
   10
@@ -67,7 +67,7 @@ romanLyrics: |-
 
   11
   Kis tarah qirtaas pe likhega Nazmi ka qalam
-  Bekasi mein tashna lab jaage hue haiṅ ahl-e-haram
+  Bekasi meiṅ tashna lab jaage hue haiṅ ahl-e-haram
   Aur shab bedaariyaaṅ haiṅ Karbala se shaam tak
 # source_id: nohayonline:5ddd755ea7c49a5be127
 # source_url: https://www.nohayonline.com/details_content.php?id=1874

@@ -18,7 +18,7 @@ romanLyrics: |-
   1
   Zindaaṅ se chhut kar behan aati hai Karbobala
   Qabr-e-Sakina se wo kis tarah hogi juda
-  Zehra ke kunbe mein shor-e-qayaamat bapa
+  Zehra ke kunbe meiṅ shor-e-qayaamat bapa
   Hilti hai qabr-e-Nabi rote haiṅ Sher-e-Khuda
 
   2
@@ -29,9 +29,9 @@ romanLyrics: |-
 
   3
   Asghar ki maaṅ dekho ghut ghut ke roti hai
-  Waaris hai maqtal mein mitti mein moti hai
+  Waaris hai maqtal meiṅ mitti meiṅ moti hai
   Kulsum ashkoṅ ki lariyaaṅ piroti hai
-  Baali Sakina bhi zindaaṅ mein soti hai
+  Baali Sakina bhi zindaaṅ meiṅ soti hai
 
   4
   Ye us ka chehlum hai jo ab tak hai jo bekafan
@@ -46,14 +46,14 @@ romanLyrics: |-
   Taabut uthta hai Zehra ke dilbar ka
 
   6
-  Ghar mein qayaamat hai Aal-e-Payambar ke
+  Ghar meiṅ qayaamat hai Aal-e-Payambar ke
   Nauhe sunaana hai ujre hue ghar ke
   Dekho zara hausle Sajjaad-e-muztar ke
   Maula ne dafnaaye laashe bahattar ke
 
   7
   Tufaan-e-gham uthe Nasir ke nauhe se
-  Batlaao Karbal mein chehlum hua kaise
+  Batlaao Karbal meiṅ chehlum hua kaise
   Shah ke azaadaaroṅ maatam karo aise
   Bete ki mayyat par roti ho maaṅ jaise
 # source_id: nohayonline:3b2b2de42124888eeea1

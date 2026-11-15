@@ -21,28 +21,28 @@ romanLyrics: |-
   1
   Naara darvesh ka har ghari har jagah
   Ali Waaris Ali Waaris
-  Main kahuṅ tum kaho jo Nabi ne kaha
+  Maiṅ kahuṅ tum kaho jo Nabi ne kaha
   Ali Waaris Ali Waaris
 
   2
   Koi mushkil jab bhi aayi lab pe thi Naad-e-Ali
-  Raah mein aayi rukawat barh gayi jab bekali
-  Ek sahara mil gaya maine dil se keh diya
+  Raah meiṅ aayi rukawat barh gayi jab bekali
+  Ek sahara mil gaya maiṅ ne dil se keh diya
 
   3
   Mustafa bhi mil gaye aur mil gaya us ko Khuda
   Ilm jis ko ho gaya ke hai Ali mushkil-kusha
-  Tal gayi har ek bala jis ne mushkil mein kaha
+  Tal gayi har ek bala jis ne mushkil meiṅ kaha
 
   4
-  Har namaz-e-ishq apni naara-e-Haider mein hai
-  Ye jo tughra naam-e-Haider ka hamare ghar mein hai
+  Har namaz-e-ishq apni naara-e-Haider meiṅ hai
+  Ye jo tughra naam-e-Haider ka hamare ghar meiṅ hai
   Ishq ne samjha diya is ka matlab ye hua
 
   5
-  Deti hai tareekh hum ko ye gawahi dam pe dam
-  Jang-e-Khaibar mein Nabi ne de ke Haider ko alam
-  Rakh ke maidan mein qadam apne lashkar se kaha
+  Deti hai tarikh hum ko ye gawahi dam pe dam
+  Jang-e-Khaibar meiṅ Nabi ne de ke Haider ko alam
+  Rakh ke maidan meiṅ qadam apne lashkar se kaha
 
   6
   Hai hamari mehfiloṅ ki aabru zikr-e-Ali
@@ -58,14 +58,14 @@ romanLyrics: |-
   Hum hote nahi pareshan Ali Waaris hai
   Mushkileiṅ hoti haiṅ aasaan Ali Waaris hai
   Hum us qabile ke afraad haiṅ
-  Ye rasmeiṅ jis mein hamesha se haiṅ
+  Ye rasmeiṅ jis meiṅ hamesha se haiṅ
   Ho imtehan ya koi maareka
   Ghar se jo nikle to maaṅ ne kaha
   Ja tera waaris hai mushkil-kusha
   Hai kaamyabi muqaddar tera
   Dushman tera kuchh na kar payega
   Saaya-fagan tujh pe hai ye dua
-  Fath tera naseeb aur teri baqa
+  Fath tera nasib aur teri baqa
 
   9
   Mashwara hai ye hamara aaj har insaan ko
@@ -73,17 +73,17 @@ romanLyrics: |-
   Hai nizam-e-Mustafa har taraf ho ye sada
 
   10
-  Deen bola Karbala mein aasra ab kaun hai
-  Hai bhanwar mein ye safina naakhuda ab kaun hai
-  Deen ki sun kar sada keh uthi Karbobala
+  Din bola Karbala meiṅ aasra ab kaun hai
+  Hai bhanwar meiṅ ye safina naakhuda ab kaun hai
+  Din ki sun kar sada keh uthi Karbobala
 
   11
   Mashk de kar ye Sakina ne kaha Abbas se
-  Khushk hai mera gala main mar na jaauṅ pyas se
+  Khushk hai mera gala maiṅ mar na jaauṅ pyas se
   Dam karo Naad-e-Ali paani le aao ae chacha
 
   12
-  Aakhri rukhsat ko khaime mein junhi aaye Imam
+  Aakhri rukhsat ko khaime meiṅ junhi aaye Imam
   Dekh ke bhai ka chehra tha ye Zainab ka kalaam
   Gham na khao tum mera jao bhai alvida
 
@@ -93,7 +93,7 @@ romanLyrics: |-
   Bekasoṅ ko dekh kar ro ke Zainab ne kaha
 
   14
-  Har ghari ishq-e-Ali mein lab-kusha Farhan hai
+  Har ghari ishq-e-Ali meiṅ lab-kusha Farhan hai
   Aur Mazhar Abidi ka bas yehi imaan hai
   Ta abad ek aasra aaj bhi hai kal bhi tha
 # source_id: nohayonline:8e11f2c9dd0555af12ae

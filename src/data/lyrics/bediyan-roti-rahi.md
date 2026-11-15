@@ -15,9 +15,9 @@ romanLyrics: |-
   Khun behta raha zanjir ki jhankaar ke saath
 
   1
-  Khaar chubhte rahe paaoṅ mein qadam jalte rahe
+  Khaar chubhte rahe paaoṅ meiṅ qadam jalte rahe
   Durre khaate rahe Sajjad-e-haziṅ chalte rahe
-  Baith paaye na kabhi saaye mein diwaar ke saath
+  Baith paaye na kabhi saaye meiṅ diwaar ke saath
 
   2
   Tauq-e-pur khaar se zakhmi tha gulu-e-Athar
@@ -31,11 +31,11 @@ romanLyrics: |-
 
   4
   Haaye wo itrat-e-Shabbir ka phirna dar dar
-  Arsh waaloṅ ne jinheṅ dekha nahiṅ be chaadar
+  Arsh waaloṅ ne jinheṅ dekha nahiṅ bechaadar
   Berida kaise gayi fauj-e-sitamgaar ke saath
 
   5
-  Haaye Aabid pe jawaani mein burhaapa aaya
+  Haaye Aabid pe jawaani meiṅ burhaapa aaya
   Khun aankhoṅ se bahaata raha mera Maula
   Qaid ho kar chali maaṅ behneṅ jab aghyaar ke saath
 
@@ -45,7 +45,7 @@ romanLyrics: |-
   Gham hai kuch aise jure Shaam ke baazaar ke saath
 
   7
-  Aake majlis mein Hasan sar ko jhukaaye rakhna
+  Aake majlis meiṅ Hasan sar ko jhukaaye rakhna
   Ro ke Sajjad ko Shabbir ka pursa dena
   Baithe hoṅge wo kisi Shah ke azaadaar ke saath
 # source_id: nohayonline:9b9e6a159156457ce686

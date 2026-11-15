@@ -15,12 +15,12 @@ romanLyrics: |-
   Apni beti ka agar naam Sakina rakhna
 
   1
-  Sakht aawaaz mein hargiz na bulaana us ko
+  Sakht aawaaz meiṅ hargiz na bulaana us ko
   Nind aa jaaye to sine pe sulaana us ko
   Ek lamhe ke liye bhi nahiṅ tanha rakhna
 
   2
-  God mein aise uthaana ke lage koi gulaab
+  God meiṅ aise uthaana ke lage koi gulaab
   Jaise rakhte the Sakina ko Husain aur Rubaab
   Paalna aise Sakina ko Sakina rakhna
 
@@ -31,13 +31,13 @@ romanLyrics: |-
 
   4
   Imtihaaṅ tha jo Sakina ki gayi sar se rida
-  Beti lekin na tumhari ho kabhi be parda
+  Beti lekin na tumhari ho kabhi beparda
   Yaad har waqt ye ghairat ka taqaza rakhna
 
   5
   Chhid gayi mashk to karti rahi maasum fughaaṅ
   Bund paani ko tarasti rahi Shabbir ki jaaṅ
-  Tum kisi haal mein beti ko na pyaasa rakhna
+  Tum kisi haal meiṅ beti ko na pyaasa rakhna
 
   6
   Ik nasihat hai jo Baqar ne likhi hai Safdar

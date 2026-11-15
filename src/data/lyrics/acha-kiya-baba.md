@@ -18,12 +18,12 @@ romanLyrics: |-
   Zinda raho hazaaroṅ baras shaadmaaṅ raho
   Baba zamin pe ban ke sada aasmaaṅ raho
   Quran tum pe saaya kare tum jahaaṅ raho
-  Parhti huṅ har namaaz mein Baba yahi dua
+  Parhti huṅ har namaaz meiṅ Baba yahi dua
 
   2
-  Baba tumhaare baad main khushiyoṅ se dur huṅ
-  Lekin tumhaari raah main takti zarur huṅ
-  Bimaar o naatawaaṅ huṅ ghamoṅ se main chur huṅ
+  Baba tumhaare baad maiṅ khushiyoṅ se dur huṅ
+  Lekin tumhaari raah maiṅ takti zarur huṅ
+  Bimaar o naatawaaṅ huṅ ghamoṅ se maiṅ chur huṅ
   Ab ke to din bhi Eid ka ro kar guzar gaya
 
   3
@@ -40,15 +40,15 @@ romanLyrics: |-
 
   5
   Karta hai kaun yuṅ bhi marizoṅ se itna pyaar
-  Main gul khizaaṅ rasida huṅ tum ho meri bahaar
-  Waise bhi ab nasib mein mere hai intezaar
+  Maiṅ gul khizaaṅ rasida huṅ tum ho meri bahaar
+  Waise bhi ab nasib meiṅ mere hai intezaar
   Bujhta hua charaagh huṅ apne mazaar ka
 
   6
   Haaṅ ye qalaq hai Amma ne mujh ko kiya na yaad
   Akbar to lene aaeṅ ge kitna tha etemaad
   Allah ab to puri kare ga meri muraad
-  Aae ga jab Madine mein Karbal ka qaafila
+  Aae ga jab Madine meiṅ Karbal ka qaafila
 
   7
   Lagta hai meri qabr pe aao ge ae Padar

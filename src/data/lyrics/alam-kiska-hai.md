@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Zamiṅ wale use tute diloṅ ki aas kehte haiṅ
-  Shariat mein use Sadat ka ehsan kehte haiṅ
+  Shariat meiṅ use Sadat ka ehsan kehte haiṅ
   Karam sabr o raza ki saltanat ka naam hai Shabbir
   Wafa ki aakhri sarhad ko hum Abbas kehte haiṅ
 
@@ -25,13 +25,13 @@ romanLyrics: |-
   Sardar-e-Fatima Zehra pe ye kham kis ka hai
 
   3
-  Hurr ne ik pal mein shifaat ki sanad pai hai
+  Hurr ne ik pal meiṅ shifaat ki sanad pai hai
   Shab-e-Ashur ye andaz-e-karam kis ka hai
 
   4
   Sawal-e-ajr-e-risalat maaf hona hai
   Munafiqat ko abhi benaqab hona hai
-  Ali ka beta zamane mein aane wala hai
+  Ali ka beta zamane meiṅ aane wala hai
   Abhi to Bagh-e-Fidak ka hisab hona hai
 
   5
@@ -40,7 +40,7 @@ romanLyrics: |-
 
   6
   Haq ko zinda kiya Aulad-e-Abu Talib ne
-  Warna tarikh-e-shujaat mein bharam kis ka hai
+  Warna tarikh-e-shujaat meiṅ bharam kis ka hai
 
   7
   Sunnat-e-Ahmad-e-Mukhtar hai Shabbir ka gham

@@ -20,7 +20,7 @@ romanLyrics: |-
   Ab luta hai ummat ne phir aaj wo ghar logoṅ
 
   2
-  Jo tauq mein jakra hai Shabbir ka beta hai
+  Jo tauq meiṅ jakra hai Shabbir ka beta hai
   Shabbir ka beta hai bimaar hai tanha hai
   Wo kis tarah kaatega tanha ye safar logoṅ
 
@@ -32,7 +32,7 @@ romanLyrics: |-
   4
   Ek bachchi yatima hai aur naam Sakina hai
   Na ammu ki godi hai na baap ka sina hai
-  Is bachchi ab hoga zindaan mein ghar logoṅ
+  Is bachchi ab hoga zindaan meiṅ ghar logoṅ
 
   5
   Saadaat hai ye in par sadqa to nahiṅ phenko
@@ -47,7 +47,7 @@ romanLyrics: |-
   7
   Hum naala kunaṅ Maajid hum pairav-e-Sarwar hai
   Hum maatami Akbar ke hum naasir-e-Asghar hai
-  Maatam mein hi karte haiṅ hum umr basar logoṅ
+  Maatam meiṅ hi karte haiṅ hum umr basar logoṅ
 # source_id: nohayonline:f767f9a8576f75fe1f6c
 # source_url: https://www.nohayonline.com/details_content.php?id=2341
 # raw_sha256: 5a86926efa4eded04512ca1f03e52f37d6f4cf37a71a6f0e7903ab7a3dbcec03

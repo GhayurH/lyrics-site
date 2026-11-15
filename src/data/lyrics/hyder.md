@@ -11,7 +11,7 @@ tags: []
 aliases: ["Hyder"]
 published: true
 romanLyrics: |-
-  Khana-e-Haider mein bapa shor-e-buka Haider
+  Khana-e-Haider meiṅ bapa shor-e-buka Haider
   Wavaila haye wavaila
 
   1
@@ -31,16 +31,16 @@ romanLyrics: |-
   Roti hai Jibril ke nauhe pe fiza Haider
 
   4
-  Kufe ke ghar ghar mein ye kohraam bapa hai
-  Khun-e-Ali sajda-e-Khaaliq mein baha hai
+  Kufe ke ghar ghar meiṅ ye kohraam bapa hai
+  Khun-e-Ali sajda-e-Khaaliq meiṅ baha hai
   Rote haiṅ jin o bashar hai ye fughaaṅ arsh par
   Marqad-e-Zehra o Nabi kaamp utha Haider
 
   5
-  Kaise lafzoṅ mein bayaaṅ hoga shahaadat naama
+  Kaise lafzoṅ meiṅ bayaaṅ hoga shahaadat naama
   Khaak uraate the haram mahv-e-buka thiṅ Fizza
   Haaye ikkiswiṅ Ramzaan thi wo wavaila
-  Ghar mein Zehra ke hui kaisi qayaamat barpa
+  Ghar meiṅ Zehra ke hui kaisi qayaamat barpa
   Kehte the ahl-e-haram taaza tha Zehra ka gham
   Kar gaye duniya se safar uqda kusha Haider
 

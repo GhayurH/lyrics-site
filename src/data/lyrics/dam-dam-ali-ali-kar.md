@@ -23,7 +23,7 @@ romanLyrics: |-
   Maula Ali de dar te beh ke khaali khaali choliyaaṅ par
 
   2
-  Ain bemisaal Maula Ali Ali Ali Ali
+  Aiṅ bemisaal Maula Ali Ali Ali Ali
   Sakhi laajpaal Maula Ali Ali Ali Ali
   Din meiṅ kamaal Maula Ali Ali Ali Ali
   Sher-e-Zuljalaal Maula Ali Ali Ali Ali
@@ -86,7 +86,7 @@ romanLyrics: |-
   Ali Ali kehraaṅ te sawaab pal pal ae
   Khaane Kaabe paida honra kiddi waddi gal ae
   Osse wal Rab honda Ali jaide wal ae
-  Maula Ali la sine lainde mil jaawe je koi be par
+  Maula Ali la sine lainde mil jaawe je koi bepar
 
   12
   Rab da ae raaz Maula Ali Ali Ali Ali

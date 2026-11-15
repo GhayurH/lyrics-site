@@ -38,7 +38,7 @@ romanLyrics: |-
   Gaya sar ba nok-e-neza jidhar ae Husain tera
 
   5
-  Na to aankh par hai patti na hi haath mein hai raasha
+  Na to aankh par hai patti na hi haath meiṅ hai raasha
   To Khalil dekhte haiṅ jigar ae Husain tera
   Kya ajab tha paa-e-Asghar se ubalta khun ka chashma
   Agar eriyaaṅ ragarta pisar ae Husain tera

@@ -23,7 +23,7 @@ romanLyrics: |-
   2
   Jo quwwat-e-baazu hai juda ho gae mujh se
   Bhai hai mere paas na bete na bhatije
-  Kis dil se karuṅ aah main jine ki tamanna
+  Kis dil se karuṅ aah maiṅ jine ki tamanna
   Farzand-e-Nabi jaan o dil-e-Fatima Zehra
 
   3

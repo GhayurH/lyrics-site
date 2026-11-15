@@ -23,20 +23,20 @@ romanLyrics: |-
   Pehre pe musalmaaṅ hai Abbas chale aao
 
   3
-  Main kaise bachaauṅgi Sajjad ko sholoṅ se
+  Maiṅ kaise bachaauṅgi Sajjad ko sholoṅ se
   Aa jaao to ehsaaṅ hai Abbas chale aao
 
   4
   Masuma ke durr chhine mere bhaai ke qaatil ne
-  Wo khun mein ghaltaaṅ hai Abbas chale aao
+  Wo khun meiṅ ghaltaaṅ hai Abbas chale aao
 
   5
-  Masturoṅ ne haathoṅ mein pehni hai rasan Ghazi
+  Masturoṅ ne haathoṅ meiṅ pehni hai rasan Ghazi
   Jaana su-e-zindaaṅ hai Abbas chale aao
 
   6
   Hota hai jahaaṅ maatam aate haiṅ wahaaṅ Ghazi
-  Tauqeer ka imaaṅ hai Abbas chale aao
+  Tauqir ka imaaṅ hai Abbas chale aao
 # source_id: nohayonline:3e9bfa976592e111a505
 # source_url: https://www.nohayonline.com/details_content.php?id=1613
 # raw_sha256: 0875e250339aec3e7e21f6f55ddbdc70e1d84a7b3105275f8a7b4693619d4385

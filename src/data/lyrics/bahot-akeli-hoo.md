@@ -12,18 +12,18 @@ aliases: ["Bahot Akeli Hoo"]
 published: true
 romanLyrics: |-
   Ye bain karti thi Sughra bahot akeli huṅ
-  Safar mein hai mera kunba bahot akeli huṅ
+  Safar meiṅ hai mera kunba bahot akeli huṅ
 
   1
   Koi bhi paas nahiṅ hai jo khairiyat puchhe
   Ke dil ka haal hai kaisa bahot akeli huṅ
 
   2
-  Wo dukh sa dukh hai watan haan aisi hai tanhaai
+  Wo dukh sa dukh hai watan haaṅ aisi hai tanhaai
   Koi nazar nahiṅ aata bahot akeli huṅ
 
   3
-  Guzaar deti huṅ raatoṅ ki raat aankhoṅ mein
+  Guzaar deti huṅ raatoṅ ki raat aankhoṅ meiṅ
   Na koi nind na sapna bahot akeli huṅ
 
   4
@@ -39,7 +39,7 @@ romanLyrics: |-
   Bhula na duṅ koi chehra bahot akeli huṅ
 
   7
-  Koi nahiṅ jo giruṅ main to thaam le bad kar
+  Koi nahiṅ jo giruṅ maiṅ to thaam le bad kar
   Kahaaṅ ho meri Sakina bahot akeli huṅ
 
   8

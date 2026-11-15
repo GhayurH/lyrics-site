@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Daagh-e-yatimi de ke mujh ko kahaaṅ gaye ho
-  Maqtal mein ek bachchi baaba ko dhundti hai
+  Maqtal meiṅ ek bachchi baaba ko dhundti hai
   Maatam hi zindagi hai maatam hi bandagi hai
 
   2

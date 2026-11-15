@@ -1,6 +1,6 @@
 ---
 title: "دنیا میں آج حشر کا دن آشکار ہے"
-alternateTitle: "Dunya Mein Aaj"
+alternateTitle: "Dunya Meiṅ Aaj"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,19 +11,19 @@ tags: []
 aliases: ["Dunya May Aaj"]
 published: true
 romanLyrics: |-
-  Dunya mein aaj hashr ka din aashkaar hai
+  Dunya meiṅ aaj hashr ka din aashkaar hai
   Sibt-e-Nabi ke sine pe qaatil sawaar hai
 
   1
-  Mar jaauṅ ga main aap hi ab thori der mein
-  Qaalib mein ruh ka koi dam ko qaraar hai
+  Mar jaauṅ ga maiṅ aap hi ab thori der meiṅ
+  Qaalib meiṅ ruh ka koi dam ko qaraar hai
 
   2
   Unnis sau haiṅ tegh o sinaan o tabar ke zakhm
   Sang-e-sitam ke khuṅ se badan laala zaar hai
 
   3
-  Hai zalzala zamiṅ ko gahan mein hai aaftaab
+  Hai zalzala zamiṅ ko gahan meiṅ hai aaftaab
   Baarish hai khuṅ ki chashm-e-falak ashkbaar hai
 
   4

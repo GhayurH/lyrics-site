@@ -11,7 +11,7 @@ tags: []
 aliases: ["Roye Hussain Muslim"]
 published: true
 romanLyrics: |-
-  Haye turbat mein ro pari Zehra
+  Haye turbat meiṅ ro pari Zehra
   Aise roye Husain Muslim ko
 
   1
@@ -19,18 +19,18 @@ romanLyrics: |-
   Aise roye Husain Muslim ko
 
   2
-  Raah-e-Kufa mein the Husain abhi
+  Raah-e-Kufa meiṅ the Husain abhi
   Jab khabar aayi qatl-e-Muslim ki
   Jis jagah the wahiṅ pe baith gaye
   Ashk aankhoṅ se ho gaye jaari
-  Qaafile mein sada thi wawaila
+  Qaafile meiṅ sada thi wawaila
   Aise roye Husain Muslim ko
 
   3
   Phir ye Zainab se ro ke farmaya
-  Main to barbaad ho gaya behna
+  Maiṅ to barbaad ho gaya behna
   Mere bhai ko ahl-e-Kufa ne
-  Kis qadar bekasi mein maar diya
+  Kis qadar bekasi meiṅ maar diya
   Sun ke behosh ho gayi behna
   Aise roye Husain Muslim ko
 
@@ -46,7 +46,7 @@ romanLyrics: |-
   Zauja-e-Muslim ki jab qarib aayi
   Us ko Muslim ka yuṅ diya pursa
   Misl-e-Abbas tha wo mere liye
-  Haal kaise bataauṅ main dil ka
+  Haal kaise bataauṅ maiṅ dil ka
   Jaise bete ko baap hai rota
   Aise roye Husain Muslim ko
 

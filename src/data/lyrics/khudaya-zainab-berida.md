@@ -14,7 +14,7 @@ romanLyrics: |-
   Aate haiṅ nazar hashr ke aasaar
 
   1
-  Kya Shaam mein ab koi musalmaan nahiṅ hai
+  Kya Shaam meiṅ ab koi musalmaan nahiṅ hai
   Ghere hue Kaabe ko haiṅ kuffaar
 
   2
@@ -38,7 +38,7 @@ romanLyrics: |-
   Sar nange khare haiṅ sar-e-darbaar
 
   7
-  Fizza ki hifaazat ke liye kheench gayi talwaar
+  Fizza ki hifaazat ke liye khinch gayi talwaar
   Zainab ka nahiṅ koi tarafdaar
 # source_id: nohayonline:c87c0c7a751a6ddcb76d
 # source_url: https://www.nohayonline.com/details_content.php?id=1105

@@ -13,11 +13,11 @@ published: true
 romanLyrics: |-
   Kehti thi ye ro ro ke Sakina mere baba
   Ammu nahiṅ aaye
-  Main kab se khari dekhti huṅ raasta un ka
+  Maiṅ kab se khari dekhti huṅ raasta un ka
   Ammu nahiṅ aaye
 
   1
-  Ae kaash na main bhejti saahil pe chacha ko
+  Ae kaash na maiṅ bhejti saahil pe chacha ko
   Aamin kaheṅ haath uthaati huṅ dua ko
   Ghar khair se aa jaaeṅ chacha jaan Khudaaya
 
@@ -27,7 +27,7 @@ romanLyrics: |-
   Sab bhul gaye nehr ka paaya jo kinaara
 
   3
-  Kuza liye haathoṅ mein sar-e-raah khari huṅ
+  Kuza liye haathoṅ meiṅ sar-e-raah khari huṅ
   Hai sochna dushwaar magar soch rahi huṅ
   Shaayad unheṅ mujh se bhi hai zyaada koi pyaara
 
@@ -38,18 +38,18 @@ romanLyrics: |-
 
   5
   Koi unheṅ de de mera paighaam zabaani
-  Aa jaao chacha ab main nahiṅ maanguṅ gi paani
+  Aa jaao chacha ab maiṅ nahiṅ maanguṅ gi paani
   Gham se phat jaata hai mera aah kaleja
 
   6
-  Reh reh ke mera sine mein katta hai kaleja
+  Reh reh ke mera sine meiṅ katta hai kaleja
   Maidaan se lauta nahiṅ ab tak mera saqqa
-  Mashkiza chhida khun mein hai tar alam aaya
+  Mashkiza chhida khun meiṅ hai tar alam aaya
 
   7
-  Main darti huṅ Allah bura waqt na laaye
+  Maiṅ darti huṅ Allah bura waqt na laaye
   Kuchh der jo darya se abhi aur na aaye
-  Dam tor de jhule mein Asghar kahiṅ pyaasa
+  Dam tor de jhule meiṅ Asghar kahiṅ pyaasa
 
   8
   Kiuṅ takti haiṅ hasrat se phuphi jaan rida ko

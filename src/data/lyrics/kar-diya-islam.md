@@ -18,23 +18,23 @@ romanLyrics: |-
   Is ki khaatir ki hai aisi justuju Shabbir ne
 
   1
-  Aankh mein aansu the har ek ki shab-e-Aashur ko
+  Aankh meiṅ aansu the har ek ki shab-e-Aashur ko
   Ki hai is andaaz se guftugu Shabbir ne
 
   2
-  Le ke aaye the laiṅ jo Karbala ke dasht mein
-  Khaak mein wo sab mila di aarzu Shabbir ne
+  Le ke aaye the laiṅ jo Karbala ke dasht meiṅ
+  Khaak meiṅ wo sab mila di aarzu Shabbir ne
 
   3
   Na kiya na kar sake ga koi ghaazi is tarah
-  Khun mein jaise kiya hai wuzu Shabbir ne
+  Khun meiṅ jaise kiya hai wuzu Shabbir ne
 
   4
-  Kufr ke haathoṅ ye din ke chhid gaye the jo libaas
+  Kufr ke haathoṅ ye diṅ ke chhid gaye the jo libaas
   Wo zibha sab kar diye hai wo rafu Shabbir ne
 
   5
-  Ae Ameer is din ki khaatir bala ke dasht mein
+  Ae Amir is din ki khaatir bala ke dasht meiṅ
   Kar diye qurbaan bete khun baru Shabbir ne
 # source_id: nohayonline:4946e9cbb1b09a7d7b7f
 # source_url: https://www.nohayonline.com/details_content.php?id=3364

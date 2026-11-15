@@ -15,14 +15,14 @@ romanLyrics: |-
   Haaye ash-Shaam haaye ash-Shaam haaye ash-Shaam
 
   1
-  Ja ba ja kucha o baazaar mein logoṅ ka hujum
+  Ja ba ja kucha o baazaar meiṅ logoṅ ka hujum
   Jaise mele ka samaaṅ jaise kisi Eid ki dhum
-  Aur zanjir mein jakra hua mazlum Imam
+  Aur zanjir meiṅ jakra hua mazlum Imam
 
   2
   Nok-e-naiza pe wo Quraan sunaate hue sar
   Apne chehroṅ ko wo baaloṅ se chhupaate hue sar
-  Aur is haal mein phir Umm Habiba se kalaam
+  Aur is haal meiṅ phir Umm Habiba se kalaam
 
   3
   Saat sau kursi nashinoṅ se bhara wo darbaar
@@ -30,18 +30,18 @@ romanLyrics: |-
   Usi laaghar ke garajte hue lahje ko salaam
 
   4
-  Tasht mein farq-e-Shah-e-din pe wo haakim ki chhari
+  Tasht meiṅ farq-e-Shah-e-din pe wo haakim ki chhari
   Dil-e-bimaar pe wo lamha qayaamat ki ghari
   Zabt ki aakhri had par hai imaamat ka qayaam
 
   5
   Sab asiroṅ ke liye ek andhera zindaaṅ
-  Us andhere mein tarap kar kisi bachchi ki fughaaṅ
-  Kis ko nind aayegi aise mein kahaaṅ ka aaraam
+  Us andhere meiṅ tarap kar kisi bachchi ki fughaaṅ
+  Kis ko nind aayegi aise meiṅ kahaaṅ ka aaraam
 
   6
   Raat ke pichhle pahar baap ko jo roti thi
-  Mar gayi Shaam ke zindaan mein phir wo bachchi
+  Mar gayi Shaam ke zindaan meiṅ phir wo bachchi
   Ek bhaai pe guzarte rahe kya kya aalaam
 
   7

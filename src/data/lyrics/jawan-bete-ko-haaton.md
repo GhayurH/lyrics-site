@@ -14,16 +14,16 @@ romanLyrics: |-
   Jawaan bete ko haathoṅ se koi kho na saka
 
   1
-  Bhara tha chillu mein pine mein der hi kya thi
+  Bhara tha chillu meiṅ pine meiṅ der hi kya thi
   Wafaa-e-Hazrat-e-Abbas se ye ho na saka
 
   2
-  Tamaam umr main rouṅga us ki turbat par
+  Tamaam umr maiṅ rouṅga us ki turbat par
   Gharib baap ki mayyat pe bhi jo ro na saka
 
   3
   Tamaam raat tarapte hue kati meri
-  Kahiṅ Husain ka tha tazkira main so na saka
+  Kahiṅ Husain ka tha tazkira maiṅ so na saka
 
   4
   Ilaahi zulm ki had ho gayi maazallah
@@ -31,7 +31,7 @@ romanLyrics: |-
 
   5
   Uthuṅga qabr se rota hua Khuda ki qasam
-  Mere Husain main ji bhar ke tujh ko ro na saka
+  Mere Husain maiṅ ji bhar ke tujh ko ro na saka
 # source_id: nohayonline:d0c752970872a3725c57
 # source_url: https://www.nohayonline.com/details_content.php?id=710
 # raw_sha256: 1c1adaa3b2708d47f93fa0ec48091903d7ab877a826b6ad6f2f54aa29dd95316

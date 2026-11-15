@@ -22,8 +22,8 @@ romanLyrics: |-
 
   2
   Sun kar teri aawaaz lahad chhor chuka huṅ
-  Tere liye main bandhe kafan tor chuka huṅ
-  Naazoṅ ki pali aa meri aaghosh mein aa jaa
+  Tere liye maiṅ bandhe kafan tor chuka huṅ
+  Naazoṅ ki pali aa meri aaghosh meiṅ aa jaa
 
   3
   Abbas ka baba huṅ khabar hai tujhe beti
@@ -32,8 +32,8 @@ romanLyrics: |-
 
   4
   Kaisa hai sitam tera bhara ghar hua khaali
-  Pardes mein tu ho gayi bin bhaiyoṅ waali
-  Tu ro le alamdaar ko main deta huṅ pehra
+  Pardes meiṅ tu ho gayi bin bhaiyoṅ waali
+  Tu ro le alamdaar ko maiṅ deta huṅ pehra
 
   5
   Bacchoṅ ko ghulaamoṅ ke baraabar hi samajh le
@@ -42,7 +42,7 @@ romanLyrics: |-
 
   6
   Ghairoṅ ki tarah dur wo kiuṅ baithi hai jaa kar
-  Main aa na saka us ka padar tha tah-e-khanjar
+  Maiṅ aa na saka us ka padar tha tah-e-khanjar
   Kya ruthi hai is baat pe dada se Sakina
 
   7
@@ -53,7 +53,7 @@ romanLyrics: |-
   8
   Zainab ne Takallum kaha haaye mera parda
   Jab bole Ali Shaam ke darbaar hai jaana
-  Tu tanha nahiṅ jaayegi main saath chaluṅ ga
+  Tu tanha nahiṅ jaayegi maiṅ saath chaluṅ ga
 # source_id: nohayonline:fb8ec4872fbf2cf4cb2e
 # source_url: https://www.nohayonline.com/details_content.php?id=981
 # raw_sha256: 8450a7a26ca2775e53a8dee31ce0f95d52ba44592be48e3a97051941a6088cca

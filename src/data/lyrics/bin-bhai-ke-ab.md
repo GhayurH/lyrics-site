@@ -23,8 +23,8 @@ romanLyrics: |-
   Sab qatl hue kaise bata paayegi Zainab
 
   2
-  Sab chaahne waale haiṅ mere Karb o Bala mein
-  Sab god ke paale haiṅ isi dasht-e-jafa mein
+  Sab chaahne waale haiṅ mere Karb o Bala meiṅ
+  Sab god ke paale haiṅ isi dasht-e-jafa meiṅ
   Ye kehte hue jahaaṅ se guzar jaayegi Zainab
 
   3
@@ -39,7 +39,7 @@ romanLyrics: |-
 
   5
   Yasrab ke makiṅ puchheṅge Sajjad se aa kar
-  Pardes mein barbaad hua kaise bhara ghar
+  Pardes meiṅ barbaad hua kaise bhara ghar
   Khuṅ royega Sajjad to ghabraayegi Zainab
 
   6
@@ -53,12 +53,12 @@ romanLyrics: |-
   Jab nil-e-rasan ke unheṅ dikhlaayegi Zainab
 
   8
-  Kiuṅ aayi nahiṅ saath mein farzand tumhaare
+  Kiuṅ aayi nahiṅ saath meiṅ farzand tumhaare
   Gar puchh liya mujh se ye Abdullah ne aa ke
   Sau baar wohi waaqia dohraayegi Zainab
 
   9
-  Mazhar wo ghari kaisi thi main likh nahiṅ sakta
+  Mazhar wo ghari kaisi thi maiṅ likh nahiṅ sakta
   Mahmil se nazar aaya jo Zainab ko Madina
   Fizza ne kaha dard se mar jaayegi Zainab
 # source_id: nohayonline:7e228572da92b2d5ac5a

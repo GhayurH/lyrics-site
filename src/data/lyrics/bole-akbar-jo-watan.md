@@ -21,7 +21,7 @@ romanLyrics: |-
 
   2
   Marne se pehle gale mil liya Akbar sab se
-  Kaash ek baar main sine se laga leta use
+  Kaash ek baar maiṅ sine se laga leta use
   Meri jaanib se use sine lagaana ammaaṅ
 
   3
@@ -42,12 +42,12 @@ romanLyrics: |-
   6
   Us se kehna ke wo naraaz na ho ammu se
   Wo to khud naam mitaate hue us ka roye
-  Chaahte the wo use saath mein laana ammaaṅ
+  Chaahte the wo use saath meiṅ laana ammaaṅ
 
   7
   Wo hai bimaar na kar paayegi miloṅ ka safar
   Bas wahiṅ baith ke ro le wo mujhe shaam o sahar
-  Ek nishaaṅ qabr ka aangan mein banaana ammaaṅ
+  Ek nishaaṅ qabr ka aangan meiṅ banaana ammaaṅ
 
   8
   Khat-e-Sughra meri mayyat pe sunaana aise
@@ -56,7 +56,7 @@ romanLyrics: |-
 
   9
   Mir Sajjad ye tha aakhri Akbar ka bayaaṅ
-  Jab Madine mein tumheṅ aayegi aawaaz-e-azaaṅ
+  Jab Madine meiṅ tumheṅ aayegi aawaaz-e-azaaṅ
   Chhup ke Sughra se kahiṅ aansu bahaana ammaaṅ
 # source_id: nohayonline:0145dfc9db90d66d08fe
 # source_url: https://www.nohayonline.com/details_content.php?id=1527

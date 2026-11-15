@@ -49,8 +49,8 @@ romanLyrics: |-
 
   6
   Aao us par kare bapaa maatam
-  Jis ke sine mein ek sinaaṅ tuti
-  Karne Akbar ke gham mein waawaila
+  Jis ke sine meiṅ ek sinaaṅ tuti
+  Karne Akbar ke gham meiṅ waawaila
   Farsh-e-majlis pe aa gayi Zehra
 
   7

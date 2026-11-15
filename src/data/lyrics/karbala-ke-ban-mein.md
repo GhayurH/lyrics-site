@@ -10,7 +10,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Karbala ke ban mein koi qaafila luta gaya
+  Karbala ke ban meiṅ koi qaafila luta gaya
   Ae aziz o khandaan-e-Mustafa luta gaya
 
   1
@@ -38,7 +38,7 @@ romanLyrics: |-
   Jis tarah Zehra ka kunba jaa bajaa luta gaya
 
   7
-  Shaam ke zindaan mein aa kar mar gayi bint-e-Husain
+  Shaam ke zindaan meiṅ aa kar mar gayi bint-e-Husain
   Maaṅ phuphi behnoṅ ke dil ka aasra luta gaya
 
   8

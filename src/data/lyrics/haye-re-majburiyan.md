@@ -1,6 +1,6 @@
 ---
 title: "ہاے رے مجبوریاں عباس کی مجبوریاں"
-alternateTitle: "Haye Re Majburiyan"
+alternateTitle: "Haye Re Majburiyaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -15,8 +15,8 @@ romanLyrics: |-
   Ik bahaadur par laga di jang ki paabandiyaaṅ
 
   1
-  Ghaiz mein Abbas kehte the ke sun ae fauj-e-Shaam
-  Ek thokar mein bikhar jaayeṅ gi ye nigraaniyaaṅ
+  Ghaiz meiṅ Abbas kehte the ke sun ae fauj-e-Shaam
+  Ek thokar meiṅ bikhar jaayeṅ gi ye nigraaniyaaṅ
 
   2
   Ro ke kehti thi Sakina aaye na ab tak chacha
@@ -32,10 +32,10 @@ romanLyrics: |-
 
   5
   Jaam Kausar ka mujhe kis ne diya kiunkar mila
-  Aaṅsuoṅ mein dub kar samjha huṅ ye gehraaiyaaṅ
+  Aaṅsuoṅ meiṅ dub kar samjha huṅ ye gehraaiyaaṅ
 
   6
-  Baad-e-qatl-e-saani-e-Jaafar qayaam-e-Shaah mein
+  Baad-e-qatl-e-saani-e-Jaafar qayaam-e-Shaah meiṅ
   Na koi aawaaz rone ki thi na the siskiyaaṅ
 
   7

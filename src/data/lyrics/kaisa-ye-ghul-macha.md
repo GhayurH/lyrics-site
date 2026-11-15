@@ -27,7 +27,7 @@ romanLyrics: |-
   Bhaai ne kaafi der lagaai Furaat par
 
   4
-  Ghurbat mein haaye kya kare daulat Banin ki
+  Ghurbat meiṅ haaye kya kare daulat Banin ki
   Battis saal baad gawaahi Furaat par
 
   5
@@ -35,7 +35,7 @@ romanLyrics: |-
   Bhaai Sakina to nahiṅ aai Furaat par
 
   6
-  Roz-e-alam se uthta rahega dhuaaṅ Anees
+  Roz-e-alam se uthta rahega dhuaaṅ Anis
   Paani ne aisi aag lagaai Furaat par
 # source_id: nohayonline:22fb1198e882974ba116
 # source_url: https://www.nohayonline.com/details_content.php?id=235

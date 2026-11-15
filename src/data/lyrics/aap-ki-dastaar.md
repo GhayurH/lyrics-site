@@ -19,13 +19,13 @@ romanLyrics: |-
   Rukti nahiṅ hai khun ki raftaar ya Ali
 
   2
-  Mahshar bapa hai Kufe ki galiyoṅ mein haye haye
-  Shor o buka hai Kufe ki galiyoṅ mein haye haye
+  Mahshar bapa hai Kufe ki galiyoṅ meiṅ haye haye
+  Shor o buka hai Kufe ki galiyoṅ meiṅ haye haye
   Bewaaoṅ aur yatimoṅ ke ghamkhwaar ya Ali
 
   3
   Maatam bapa hai aap ke arsh o zamin par
-  Hai kaainaat sog mein Jibril nauha gar
+  Hai kaainaat sog meiṅ Jibril nauha gar
   Hai aap ka zamaana azaadaar ya Ali
 
   4
@@ -45,7 +45,7 @@ romanLyrics: |-
 
   7
   Farsh-e-aza bichha hai hua maatam-e-Ali
-  Safar hua jahaan mein barpa gham-e-Ali
+  Safar hua jahaan meiṅ barpa gham-e-Ali
   Mahv-e-buka hai aap ke hubdaar ya Ali
 # source_id: nohayonline:ce8786b3056f78f9f75f
 # source_url: https://www.nohayonline.com/details_content.php?id=2272

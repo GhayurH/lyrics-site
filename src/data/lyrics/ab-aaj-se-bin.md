@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Hai dunya mein beti bahot aise bachche
+  Hai dunya meiṅ beti bahot aise bachche
   Sada baap nahiṅ jite haiṅ kisi ke
   Ab aaj se bin baap ki kehlaogi beti
   Sheh baali Sakina se ye farmate the ro kar
@@ -20,28 +20,28 @@ romanLyrics: |-
   Ab aaj se bin baap ki kehlaogi beti
 
   1
-  Kuchh lamhoṅ mein ghir jaunga main fauj-e-jafa mein
-  Sab khun ke pyase haiṅ mere Karbobala mein
-  Pherega lain sukhe gale par mere khanjar
+  Kuchh lamhoṅ meiṅ ghir jaunga maiṅ fauj-e-jafa meiṅ
+  Sab khuṅ ke pyase haiṅ mere Karbobala meiṅ
+  Pherega laiṅ sukhe gale par mere khanjar
 
   2
-  Allah ke is dahr mein dastur hai aise
+  Allah ke is dahr meiṅ dastur hai aise
   Zinda nahiṅ rehte haiṅ sada baap kisi ke
-  Jo dahr mein aaya hai use jaana hai dilbar
+  Jo dahr meiṅ aaya hai use jaana hai dilbar
 
   3
-  Manind-e-yatimoṅ ki tujhe aah main bana duṅ
-  Aa tujhko main poshak-e-yatimi bhi pahna duṅ
+  Manind-e-yatimoṅ ki tujhe aah maiṅ bana duṅ
+  Aa tujhko maiṅ poshak-e-yatimi bhi pahna duṅ
   Maare na kahiṅ Shimr tamache tere rukh par
 
   4
-  Khaime mein chali jao meri jaan Sakina
+  Khaime meiṅ chali jao meri jaan Sakina
   Sab ho gaye ab din pe qurban Sakina
   Imdad ko aaeṅge na Abbas-e-dilawar
 
   5
-  Aa tujhko kaleje se main ek baar laga luṅ
-  Ek baar tujhe aur main sine pe sula luṅ
+  Aa tujhko kaleje se maiṅ ek baar laga luṅ
+  Ek baar tujhe aur maiṅ sine pe sula luṅ
   Ab aaj se soega mere sine pe Asghar
 
   6
@@ -51,7 +51,7 @@ romanLyrics: |-
 
   7
   Ab zid na karo chhoro meri beti aba ko
-  Kuchh lamhoṅ mein chhineṅge adu teri rida ko
+  Kuchh lamhoṅ meiṅ chhineṅge adu teri rida ko
   Ho jaogi ab aaj se bemaqna o chadar
 
   8

@@ -26,8 +26,8 @@ romanLyrics: |-
 
   3
   Bahut khub ajr-e-risaalat hai paaya
-  Hai ek haath masruf maatam mein baba
-  Main kaise sambhaaluṅ gi apna kaleja
+  Hai ek haath masruf maatam meiṅ baba
+  Maiṅ kaise sambhaaluṅ gi apna kaleja
 
   4
   Wohi log Mohsin ke qaatil haiṅ baba
@@ -40,23 +40,23 @@ romanLyrics: |-
   Ye hi marsiya hoga us din bhi mera
 
   6
-  Bulaaya gaya mujhko darbaar mein bhi
+  Bulaaya gaya mujhko darbaar meiṅ bhi
   Lainoṅ ne jhutlaai meri gawaahi
   Aur ab mujhpe ye bhi sitam ek tuta
 
   7
   Mera dil bhi aur mera ghar bhi jalaaya
-  Main bint-e-Payambar huṅ ye bhi na socha
+  Maiṅ bint-e-Payambar huṅ ye bhi na socha
   Diya kaisa zakhm ye ummat ne baba
 
   8
   Jinhoṅ ne diye haiṅ mujhe zakhm itne
   Yehi kal jalaaenge Zainab ke khaime
-  To Zainab ko kaise main duṅ gi sahaara
+  To Zainab ko kaise maiṅ duṅ gi sahaara
 
   9
   Kahe mujh se ae kaash Zainab ki maadar
-  Rahe shaadmaaṅ is jahaaṅ mein tu Mazhar
+  Rahe shaadmaaṅ is jahaaṅ meiṅ tu Mazhar
   Ye nauha wasila banega tumhaara
 # source_id: nohayonline:06ea46d9c58a9b70089a
 # source_url: https://www.nohayonline.com/details_content.php?id=1581

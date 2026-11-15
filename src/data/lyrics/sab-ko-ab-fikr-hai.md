@@ -38,7 +38,7 @@ romanLyrics: |-
 
   5
   Us ka gham aur bhi dobaala hai
-  Jis ke ghar mein imaam baara hai
+  Jis ke ghar meiṅ imaam baara hai
   Kaise rakhega taaziya o alam
 
   6
@@ -52,7 +52,7 @@ romanLyrics: |-
   Kaise bachche uthayeṅ ge parcham
 
   8
-  Ghar mein aayeṅ gi Fatima Zehra
+  Ghar meiṅ aayeṅ gi Fatima Zehra
   Kaise un ko dikhayeṅ gi chehra
   Ae Khuda rakh le meri maaṅ ka bharam
 
@@ -63,7 +63,7 @@ romanLyrics: |-
 
   10
   Aamir ab dur ho mahamaari
-  Phir se Ainee ho ye azaadaari
+  Phir se Aini ho ye azaadaari
   Ae Khuda kar de apna khaas karam
 # source_id: nohayonline:085f8051be593eb5d0ca
 # source_url: https://www.nohayonline.com/details_content.php?id=1785

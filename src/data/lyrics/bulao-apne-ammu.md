@@ -14,7 +14,7 @@ romanLyrics: |-
   Maar kar rukh par tamaache bola Shimr behaya
   Ae Sakina ab bulaao apne ammu jaaṅ ko
 
-  Chaahte haiṅ woh tumheṅ kitna main dekhuṅ to zara
+  Chaahte haiṅ woh tumheṅ kitna maiṅ dekhuṅ to zara
   Ae Sakina ab bulaao apne ammu jaaṅ ko
 
   1
@@ -33,14 +33,14 @@ romanLyrics: |-
   Apne dil ka dard batlaao use jaa kar zara
 
   4
-  Maarta huṅ main tumheṅ koi bachaata kiuṅ nahiṅ
+  Maarta huṅ maiṅ tumheṅ koi bachaata kiuṅ nahiṅ
   Jaan jo tum par lutaata tha woh aata kiuṅ nahiṅ
   Ho gaya kya ab tumhaara chaahne waala khafa
 
   5
-  Main tumheṅ maaruṅga durre aur tamaache tab talak
+  Maiṅ tumheṅ maaruṅga durre aur tamaache tab talak
   Tum tarap kar parh nahiṅ dogi ye nauha jab talak
-  Main bahut mushkil mein huṅ imdaad ko aao chacha
+  Maiṅ bahut mushkil meiṅ huṅ imdaad ko aao chacha
 
   6
   Tha qayaamat khez dard angez woh manzar ajib

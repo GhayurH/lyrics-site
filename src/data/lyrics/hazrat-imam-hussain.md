@@ -16,12 +16,12 @@ romanLyrics: |-
 
   1
   Mere Maula ko mayassar hai khazaana kaisa
-  In ka rutba hai imaamoṅ mein shaahaana kaisa
-  Kaise kaise haiṅ nasiboṅ mein ujaale in ke
+  In ka rutba hai imaamoṅ meiṅ shaahaana kaisa
+  Kaise kaise haiṅ nasiboṅ meiṅ ujaale in ke
   Mere Aaqa ko mila hai ye gharaana kaisa
 
-  Marhaba marhaba Mustafa ki baat mein
-  Ba Khuda ba Khuda saari kaainaat mein
+  Marhaba marhaba Mustafa ki baat meiṅ
+  Ba Khuda ba Khuda saari kaainaat meiṅ
   Gunj raha hai bas ek naam
 
   Hazrat Imam Husain alaihis salaam
@@ -29,7 +29,7 @@ romanLyrics: |-
   Hazrat Imam Husain alaihis salaam
 
   Allah ne kya khub sawaara hai
-  Sarkaar ke aangan mein utaara hai
+  Sarkaar ke aangan meiṅ utaara hai
   Har qaum ki aankhoṅ ka sitaara hai
   Hazrat Imam Husain alaihis salaam
 
@@ -48,24 +48,24 @@ romanLyrics: |-
   Kaho kaho ba chashm-e-tar ya Husain
   Ya Husain ya Husain ya Husain
 
-  Taarikh mein is jaisa na insaan milega
+  Taarikh meiṅ is jaisa na insaan milega
   Aisa na koi aashiq-e-Rahmaan milega
   Na aisa koi Shaah-e-shahidaan milega
   Na aisa koi sabr ka sultaan milega
   La ilaah la ilaah la ilaah ka paasbaaṅ
-  Din panaah din panaah Mustafa ka tarjuma
+  Diṅ panaah diṅ panaah Mustafa ka tarjuma
   Gunj raha hai bas ek naam
   Hazrat Imam Husain alaihis salaam
 
   Allah ne kya khub sawaara hai
-  Sarkaar ke aangan mein utaara hai
+  Sarkaar ke aangan meiṅ utaara hai
   Har qaum ki aankhoṅ ka sitaara hai
   Hazrat Imam Husain alaihis salaam
 
-  Har dil mein gham-e-Sayyad-e-abraar milega
-  Har daur mein mazlum ka ghamkhwaar milega
-  Har qaum mein Shabbir ka zawwaar milega
-  Har mulk mein Maula ka azaadaar milega
+  Har dil meiṅ gham-e-Sayyad-e-abraar milega
+  Har daur meiṅ mazlum ka ghamkhwaar milega
+  Har qaum meiṅ Shabbir ka zawwaar milega
+  Har mulk meiṅ Maula ka azaadaar milega
   Har jagah har jagah mominoṅ ke darmiyaaṅ
   Hai sada hai sada dharkanoṅ ke darmiyaaṅ
   Gunj raha hai bas ek naam
@@ -77,8 +77,8 @@ romanLyrics: |-
   Kaho kaho ba chashm-e-tar ya Husain
   Ya Husain ya Husain ya Husain
 
-  Haathoṅ mein alam thaame wo aata hai azaadaar
-  Haaṅ majlis o maatam mein hi rehta hai azaadaar
+  Haathoṅ meiṅ alam thaame wo aata hai azaadaar
+  Haaṅ majlis o maatam meiṅ hi rehta hai azaadaar
   Maaṅ baap Husaini ho to banta hai azaadaar
   Maula ye tumhaara hai tumhaara hai azaadaar
   Silsila silsila ye aza ka silsila
@@ -87,13 +87,13 @@ romanLyrics: |-
   Hazrat Imam Husain alaihis salaam
 
   Allah ne kya khub sawaara hai
-  Sarkaar ke aangan mein utaara hai
+  Sarkaar ke aangan meiṅ utaara hai
   Har qaum ki aankhoṅ ka sitaara hai
   Hazrat Imam Husain alaihis salaam
 
   Shabbir ka dil dekhe zara dekhe zamaana
   Wallah kaha tha jo wohi kar ke dikhaaya
-  Khushnudi-e-Khaaliq mein bhare ghar ko lutaaya
+  Khushnudi-e-Khaaliq meiṅ bhare ghar ko lutaaya
   Naize pe bhi aaya to usi shaan se aaya
   Baadshaah baadshaah hai diloṅ ka baadshaah
   Chhaa gaya chhaa gaya do jahaaṅ pe chhaa gaya
@@ -106,17 +106,17 @@ romanLyrics: |-
   Kaho kaho ba chashm-e-tar ya Husain
   Ya Husain ya Husain ya Husain
 
-  Kis shaan se maqtal mein qadam rakhta hai Shabbir
+  Kis shaan se maqtal meiṅ qadam rakhta hai Shabbir
   Kab jaane ki parwaah kiya karta hai Shabbir
   Darta hai na jhukta hai na ghabraata hai Shabbir
   Laakhoṅ bhi mukhaalif ho to sach kehta hai Shabbir
-  Hausla hausla Shaah-e-din ka hausla
+  Hausla hausla Shaah-e-diṅ ka hausla
   Sun sada sun sada do jahaaṅ ki hai sada
   Gunj raha hai bas ek naam
   Hazrat Imam Husain alaihis salaam
 
   Allah ne kya khub sawaara hai
-  Sarkaar ke aangan mein utaara hai
+  Sarkaar ke aangan meiṅ utaara hai
   Har qaum ki aankhoṅ ka sitaara hai
   Hazrat Imam Husain alaihis salaam
 

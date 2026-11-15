@@ -17,7 +17,7 @@ romanLyrics: |-
   Kuch sahme hue bachche bahta hua paani hai
 
   1
-  Ae Karb o Bala tere daaman mein chhupa kya kya
+  Ae Karb o Bala tere daaman meiṅ chhupa kya kya
   Bachpan Ali Asghar ka Akbar ki jawaani hai
 
   2
@@ -29,23 +29,23 @@ romanLyrics: |-
   Ammu se bhatiji ki ulfat ki nishaani hai
 
   4
-  Aansu na ruke logoṅ Shabbir ki majlis mein
+  Aansu na ruke logoṅ Shabbir ki majlis meiṅ
   Us ujre hue ghar ki yuṅ yaad manaani hai
 
   5
-  Shabbir ye kahte the main kaise ijaazat duṅ
+  Shabbir ye kahte the maiṅ kaise ijaazat duṅ
   Ae Qasim tu mere bhai ki nishaani hai
 
   6
   Ye laasha-e-Akbar par Laila ne kahaaṅ ro kar
-  Kiuṅ khun mein tar teri poshaak shaahaani hai
+  Kiuṅ khun meiṅ tar teri poshaak shaahaani hai
 
   7
   Dete the sada Sarwar Abbas chale aao
   Mayyat Ali Akbar ki ab mujh ko uthaani hai
 
   8
-  Rota hai falak ab tak Shabbir tere gham mein
+  Rota hai falak ab tak Shabbir tere gham meiṅ
   Duniya ye samajhti hai barsaat ka paani hai
 
   9
@@ -54,7 +54,7 @@ romanLyrics: |-
 
   10
   Ae mere Khuda tujh se har waqt dua ye hai
-  Maula ki saf-e-maatam har ghar mein bichhaani hai
+  Maula ki saf-e-maatam har ghar meiṅ bichhaani hai
 
   11
   Shabbir ke rauze par Mazhar ka parhuṅ nauha

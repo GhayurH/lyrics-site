@@ -19,53 +19,53 @@ romanLyrics: |-
   Hameṅ bhi apna zara waqt dijiye Maula
 
   1
-  Ae mere hamsafar mere Haider main aayi huṅ
-  Lene tumheṅ ae Saaqi-e-Kausar main aayi huṅ
+  Ae mere hamsafar mere Haider maiṅ aayi huṅ
+  Lene tumheṅ ae Saaqi-e-Kausar maiṅ aayi huṅ
 
   2
   Ab sang chalo ke zulm o sitam seh chuke bahut
   Ham bhi baghair aap ke ab reh chuke bahut
-  Is waaste bhi ae mere shauhar main aayi huṅ
+  Is waaste bhi ae mere shauhar maiṅ aayi huṅ
 
   3
   Kaisa sitam hai kaisa musibat ka hai samaaṅ
-  Ghash mein hai aap aur hai sar se lahu rawaaṅ
-  Marham lagaane zakhm ke upar main aayi huṅ
+  Ghash meiṅ hai aap aur hai sar se lahu rawaaṅ
+  Marham lagaane zakhm ke upar maiṅ aayi huṅ
 
   4
-  Bachchoṅ ka itna dhyaan rakha mere baad mein
-  Ehsaas maaṅ ne hone diya mere baad mein
-  Karne tumhaara shukriya dilbar main aayi huṅ
+  Bachchoṅ ka itna dhyaan rakha mere baad meiṅ
+  Ehsaas maaṅ ne hone diya mere baad meiṅ
+  Karne tumhaara shukriya dilbar maiṅ aayi huṅ
 
   5
-  Gehre haiṅ zakhm-e-tegh amaama hai khun mein
-  Duba hua jo aap ka chehra hai khun mein
-  Karne ko saaf wo rukh-e-anwar main aayi huṅ
+  Gehre haiṅ zakhm-e-tegh amaama hai khun meiṅ
+  Duba hua jo aap ka chehra hai khun meiṅ
+  Karne ko saaf wo rukh-e-anwar maiṅ aayi huṅ
 
   6
-  Sab sauṅp ke Hasan ko mere saath mein chalo
-  Ab orh lo kafan ko mere saath mein chalo
-  Fariyaad ye zabaaṅ par le kar main aayi huṅ
+  Sab sauṅp ke Hasan ko mere saath meiṅ chalo
+  Ab orh lo kafan ko mere saath meiṅ chalo
+  Fariyaad ye zabaaṅ par le kar maiṅ aayi huṅ
 
   7
   Ghabraao mat ke Shabbar o Shabbir bhi to haiṅ
   Abbas bhi haiṅ Zainab-e-dilgir bhi to haiṅ
-  Ye soch kar Wasi-e-Payambar main aayi huṅ
+  Ye soch kar Wasi-e-Payambar maiṅ aayi huṅ
 
   8
-  Firdaus mein bhi ho ke ye dukhiya udaas hai
+  Firdaus meiṅ bhi ho ke ye dukhiya udaas hai
   Haaṅ aap ke baghair ye Zehra udaas hai
-  Bahr-e-sukun ae mere hamsar main aayi huṅ
+  Bahr-e-sukun ae mere hamsar maiṅ aayi huṅ
 
   9
-  Jis dam gayi hayaat ko de ke rihaai main
-  Le ke gayi thi aap ke ghar se widaai main
-  Phir ek baar aap ke ghar par main aayi huṅ
+  Jis dam gayi hayaat ko de ke rihaai maiṅ
+  Le ke gayi thi aap ke ghar se widaai maiṅ
+  Phir ek baar aap ke ghar par maiṅ aayi huṅ
 
   10
   Ae Aamir o Kumail wo manzar ajib tha
-  Godi mein sar rakh ke ye kehti thi Fatima
-  Baaba ke paas ashk baha kar main aayi huṅ
+  Godi meiṅ sar rakh ke ye kehti thi Fatima
+  Baaba ke paas ashk baha kar maiṅ aayi huṅ
 # source_id: nohayonline:7f19babc663d26fe1bac
 # source_url: https://www.nohayonline.com/details_content.php?id=1283
 # raw_sha256: f9a8493837d906593a8677bdff1ea24dd82bf62f79eee108b3a04f51516d2c9c

@@ -15,7 +15,7 @@ romanLyrics: |-
   Hawa chalti rahe gi yeh diya jalta rahe ga
 
   1
-  Meri basti mein jab tak tazkira Hur ka rahe ga
+  Meri basti meiṅ jab tak tazkira Hur ka rahe ga
   Paye taqdir saazi moajaza hota rahe ga
 
   2
@@ -28,7 +28,7 @@ romanLyrics: |-
 
   4
   Meri chaadar jo chhino ge to lehja orh luṅ gi
-  Main Zainab huṅ mera har haal mein parda rahe ga
+  Maiṅ Zainab huṅ mera har haal meiṅ parda rahe ga
 
   5
   Shahaadat lafz hai us lafz ka mafhum yeh hai

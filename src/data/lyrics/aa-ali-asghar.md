@@ -19,9 +19,9 @@ romanLyrics: |-
 
   1
   Mere mujahid mere sipahi
-  Khatm hui maidaaṅ mein laraai
+  Khatm hui maidaaṅ meiṅ laraai
   Ghar ko sidhaaro maaṅ ko pukaaro
-  Main chain paauṅ aa mere Asghar
+  Maiṅ chain paauṅ aa mere Asghar
 
   2
   Yaad aa rahi haiṅ maasum baateṅ
@@ -33,19 +33,19 @@ romanLyrics: |-
   Puch rahi hai bali Sakina
   Kiuṅ nahiṅ aaya laut ke bhaiya
   Tu hi bata de maidaaṅ se aake
-  Main kya bataauṅ aa mere Asghar
+  Maiṅ kya bataauṅ aa mere Asghar
 
   4
   Phaile hue haiṅ shaam ke saaye
   Ab to parinde bhi laut aaye
-  Main ro rahi huṅ jaaṅ kho rahi huṅ
+  Maiṅ ro rahi huṅ jaaṅ kho rahi huṅ
   Tujh ko sulaauṅ aa mere Asghar
 
   5
   Zakhmi gala aur pyaas ki shiddat
   Hoti to hogi maaṅ ki zarurat
   Tu jo pukare dil ke sahare
-  Main dauri aauṅ aa mere Asghar
+  Maiṅ dauri aauṅ aa mere Asghar
 
   6
   Mehsus mujh ko ye ho raha hai
@@ -63,7 +63,7 @@ romanLyrics: |-
   Maqtal se aayi kaisi khabar hai
   Kurta lahu se sab tera tar hai
   Tir laga hai zakhmi gala hai
-  Main mar na jaauṅ aa mere Asghar
+  Maiṅ mar na jaauṅ aa mere Asghar
 
   9
   Rehaan o Sarwar Bano ke lab par

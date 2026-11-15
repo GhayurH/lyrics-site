@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Zainab ko na bhulega Abbas ka mar jaana
-  Pardes mein ghurbat mein bhai se bichhar jaana
+  Pardes meiṅ ghurbat meiṅ bhai se bichhar jaana
 
   1
   Manzar ye sinaaṅ par bhi Ghazi ko rulaata hai
@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   Abbas wafa teri is baar se zaahir hai
-  Hoṅtoṅ ko liye tishna paani mein utar jaana
+  Hoṅtoṅ ko liye tishna paani meiṅ utar jaana
 
   4
   Kehti thi Sakina ye Abbas ke laashe par
@@ -32,7 +32,7 @@ romanLyrics: |-
 
   5
   Bhulega na mahshar tak Ghazi ko tere sar se
-  Darbaar-e-sharaabi mein chaadar ka utar jaana
+  Darbaar-e-sharaabi meiṅ chaadar ka utar jaana
 
   6
   Taa hashr yuṅhi Mohsin hamraah Mazahir ke

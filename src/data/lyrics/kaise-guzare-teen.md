@@ -11,21 +11,21 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Yasrab mein haaye tuti hui pasliyoṅ ke saath
+  Yasrab meiṅ haaye tuti hui pasliyoṅ ke saath
   Kaise guzaare tin mahine Batul ne
 
   Pehlu shikasta chur hui haddiyoṅ ke saath
   Kaise guzaare tin mahine Batul ne
 
   1
-  Taklif de rahi thi har ek saaṅs mein bari
-  Wo kil jo Batul ke pehlu mein thi gari
+  Taklif de rahi thi har ek saaṅs meiṅ bari
+  Wo kil jo Batul ke pehlu meiṅ thi gari
   Har ek qadam larazti hui pindliyoṅ ke saath
 
   2
   Larze sutun-e-Kaaba jo teora ke gir pari
   Aisa tamaacha maara ke ghash kha ke gir pari
-  Tapka zamin pe khun bhi kuch baaliyoṅ ke saath
+  Tapka zamiṅ pe khun bhi kuch baaliyoṅ ke saath
 
   3
   Chehra chhupaaye rehti thi bachchoṅ se Fatema
@@ -33,14 +33,14 @@ romanLyrics: |-
   Rukh par nishaan-e-dast the kuch ungliyoṅ ke saath
 
   4
-  Ashk-e-gham-e-Batul mein daaman jo bhar sake
-  Hai koi is jahaaṅ mein jo dark kar sake
-  Ro ro ke ghar mein sehmi hui bachchiyoṅ ke saath
+  Ashk-e-gham-e-Batul meiṅ daaman jo bhar sake
+  Hai koi is jahaaṅ meiṅ jo dark kar sake
+  Ro ro ke ghar meiṅ sehmi hui bachchiyoṅ ke saath
 
   5
-  Har dam tasawuraat mein phaila raha dhuaaṅ
+  Har dam tasawuraat meiṅ phaila raha dhuaaṅ
   Uthte hue wo shole wo darbaar al-amaan
-  Jalti hui khayaal mein un lakriyoṅ ke saath
+  Jalti hui khayaal meiṅ un lakriyoṅ ke saath
 
   6
   Shole uthe aur aag lagi ghar bhi jal gaya
@@ -54,7 +54,7 @@ romanLyrics: |-
 
   8
   Haq Fatema ka logoṅ ne Aamir nahiṅ diya
-  Sadma dil-e-Batul pe Ainee yehi raha
+  Sadma dil-e-Batul pe Aini yehi raha
   Lipta ke apne bachchoṅ ko tanhaaiyoṅ ke saath
 # source_id: nohayonline:d13a4c41c72727e46c1e
 # source_url: https://www.nohayonline.com/details_content.php?id=3134

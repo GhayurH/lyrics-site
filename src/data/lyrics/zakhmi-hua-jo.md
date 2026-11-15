@@ -10,16 +10,16 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zakhmi hua jo sajde mein damaad-e-Mustafa
-  Ek hashr sa namaaziyoṅ mein ho gaya bapa
+  Zakhmi hua jo sajde meiṅ damaad-e-Mustafa
+  Ek hashr sa namaaziyoṅ meiṅ ho gaya bapa
 
   1
   Ghar se chale Husain o Hasan sar ko pitte
-  Ek tehelka sa khaana-e-ismat mein par gaya
+  Ek tehelka sa khaana-e-ismat meiṅ par gaya
 
   2
-  Pahunche Ali ke laal jo masjid mein dosto
-  Dekha ke khun mein dube huwe haiṅ Shah-e-Huda
+  Pahunche Ali ke laal jo masjid meiṅ dosto
+  Dekha ke khun meiṅ dube huwe haiṅ Shah-e-Huda
 
   3
   Alqissa shaahzaade chale le ke baap ko
@@ -30,15 +30,15 @@ romanLyrics: |-
   Ab dostoṅ ko saath se kar do alahida
 
   5
-  Ghar mein Ali ko laaye jo Zehra ke naunihaal
+  Ghar meiṅ Ali ko laaye jo Zehra ke naunihaal
   Sayyidaaniyoṅ ko fart-e-alam se ghash aa gaya
 
   6
-  Talwaar zehr mein bujhi aisi lagaayi thi
+  Talwaar zehr meiṅ bujhi aisi lagaayi thi
   Jis se Ali ko chain koi dam na aata tha
 
   7
-  Guzre isi tarah se musibat mein tin roz
+  Guzre isi tarah se musibat meiṅ tin roz
   Ikkiswiṅ shab aayi to mahshar hua bapa
 # source_id: nohayonline:8d091c8cbdd719244f47
 # source_url: https://www.nohayonline.com/details_content.php?id=2077

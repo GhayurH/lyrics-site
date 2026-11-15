@@ -11,60 +11,60 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Kya sitam tha Karbala mein
+  Kya sitam tha Karbala meiṅ
 
   1
-  Dard o gham tha Karbala mein
+  Dard o gham tha Karbala meiṅ
   Haaye Zehra ke paale pe Shimr-e-laiṅ ka qadam tha
-  Karbala mein
+  Karbala meiṅ
 
   2
   Jalti ret par pare the
   Na bhatije na pisar the
   Dhup shiddat ki thi pyaas se hoṅtoṅ pe dam tha
-  Karbala mein
+  Karbala meiṅ
 
   3
   Chau taraf ko dekhte the
   Paani paani maaṅgte the
   Kaun aata madad ko shahidoṅ ka sar sab qalam the
-  Karbala mein
+  Karbala meiṅ
 
   4
   Nikli Zainab khaak uraati
   Pitti thi apni chhaati
   Dekhti kya hai neze pe sar Shah-e-din ka alam tha
-  Karbala mein
+  Karbala meiṅ
 
   5
   Sab charinde ro rahe the
   Sab parinde ro rahe the
   Dekh haal Shah-e-Karbala ki har ak chashm nam tha
-  Karbala mein
+  Karbala meiṅ
 
   6
   Hurmala jab tir maara
   Khun ugal kar wo sidhaara
   Apne Baba ke gardan pe gardan kiye apni kham tha
-  Karbala mein
+  Karbala meiṅ
 
   7
   Dhal gayi wo pyaari gardan
   Gir pare wo dono jaushan
   Khun se chhota kurta wo nanha sa nam tha
-  Karbala mein
+  Karbala meiṅ
 
   8
   Bachcha haathoṅ par utha kar
   Maaṅgte the paani Sarwar
   Haaye wo chhe mahine ke bachche ka hoṅtoṅ pe dam tha
-  Karbala mein
+  Karbala meiṅ
 
   9
   Ae Bahadur zulm Shah par
   Jo jo guzre unke upar
   Aaj tak aisa dekha suna hi nahiṅ jo sitam tha
-  Karbala mein
+  Karbala meiṅ
 # source_id: nohayonline:672a96a54118cd202ba3
 # source_url: https://www.nohayonline.com/details_content.php?id=768
 # raw_sha256: a3fd028ccb3b6e56abfa0a1d662f050da2219ecb20eaebe439df0255897f2fd3

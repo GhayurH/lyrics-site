@@ -22,7 +22,7 @@ romanLyrics: |-
   2
   Maaṅ ke armaanoṅ ki chaadar ka amaama sar pe hai
   Faatima Sughra ki aankhoṅ ka ujaala sar pe hai
-  Bigre ga ik pal mein kitnoṅ ka muqaddar dekhna
+  Bigre ga ik pal meiṅ kitnoṅ ka muqaddar dekhna
 
   3
   Dosh par bikhri hui zulfeiṅ uraati thi hawa
@@ -46,7 +46,7 @@ romanLyrics: |-
 
   7
   Imtehaaṅ hai burhe kaandhoṅ ka jawaaṅ bete ki laash
-  Khun mein dubi kis tarah dekhe gi maaṅ bete ki laash
+  Khun meiṅ dubi kis tarah dekhe gi maaṅ bete ki laash
   Is jagah aulaad waalo khud ko rakh kar dekhna
 
   8

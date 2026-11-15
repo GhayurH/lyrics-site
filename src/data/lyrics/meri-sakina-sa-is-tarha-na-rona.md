@@ -12,8 +12,8 @@ published: true
 romanLyrics: |-
   Meri Sakina is tarha na rona
 
-  Tum jaao kahaaṅ Allah jaane maqtal mein rahe kis haal mein hum
-  Ab khwaab mein Baba aayeṅge chaahe Shaam ka ho zindaaṅ howe
+  Tum jaao kahaaṅ Allah jaane maqtal meiṅ rahe kis haal meiṅ hum
+  Ab khwaab meiṅ Baba aayeṅge chaahe Shaam ka ho zindaaṅ howe
   Na meri bachchi na is na is tarha na rona
 
   1
@@ -32,20 +32,20 @@ romanLyrics: |-
 
   3
   Aa poṅchh le aansu aankhoṅ se tu dekh le chehra Baba ka
-  Kal ho sakta hai aa na sake pehchaan mein chehra Baba ka
+  Kal ho sakta hai aa na sake pehchaan meiṅ chehra Baba ka
   Hum saath tera na chhoreṅge
   Chaahe Shaam ka wo zindaaṅ howe
   Meri Sakina is tarha na rona
 
   4
-  Abbas ka dil Akbar ki behan jis waqt bandhe gardan mein rasan
-  Tum Baba Baba mat kehna tarpega mera be gor badan
+  Abbas ka dil Akbar ki behan jis waqt bandhe gardan meiṅ rasan
+  Tum Baba Baba mat kehna tarpega mera begor badan
   Asghar ki tarha se chup rehna
   Chaahe Shaam ka wo zindaaṅ howe
   Meri Sakina is tarha na rona
 
   5
-  Dekha Rehaan o Sarwar ne khud Shaam mein jaa kar ye manzar
+  Dekha Rehaan o Sarwar ne khud Shaam meiṅ jaa kar ye manzar
   Sailaab hai pursa daaroṅ ka masruf-e-fughaaṅ taa hadd-e-nazar hai
   Hai saara ilaqa Bibi ka chaahe Shaam ka wo zindaaṅ howe
   Meri Sakina is tarha na rona

@@ -18,57 +18,57 @@ romanLyrics: |-
 
   Godi ke paale maare gaye sab
   Tu hai akela koi nahiṅ ab
-  Bain ye Zehra ne kiye dasht-e-bala mein
+  Bain ye Zehra ne kiye dasht-e-bala meiṅ
 
   1
   Aun o Muhammad Qaasim o Asghar
   Dard-e-judaai de gaye Akbar
-  Khun hai Abbas ka Zainab ki rida mein
+  Khun hai Abbas ka Zainab ki rida meiṅ
 
   2
   Laashoṅ pe laashe tu ne uthaae
   Dil pe badan pe zakhm bhi khaae
-  Khaak hai baaloṅ mein lahu teri aba mein
+  Khaak hai baaloṅ meiṅ lahu teri aba meiṅ
 
   3
   Chhor gaye sab god ke paale
   Ho gaye rukhsat ghar ke ujaale
-  Koi nahiṅ laal tera dasht-e-bala mein
+  Koi nahiṅ laal tera dasht-e-bala meiṅ
 
   4
   Fakhr se uncha sar hua mera
-  Kaun hai saani dahr mein tera
-  Sabr mein isaar mein jurat mein wafa mein
+  Kaun hai saani dahr meiṅ tera
+  Sabr meiṅ isaar meiṅ jurat meiṅ wafa meiṅ
 
   5
   Bit rahi hai tujh pe qayaamat
-  Dekh rahi huṅ main teri ghurbat
-  Pyaasa raha ghar bhi luta dasht-e-bala mein
+  Dekh rahi huṅ maiṅ teri ghurbat
+  Pyaasa raha ghar bhi luta dasht-e-bala meiṅ
 
   6
   Jitne bhi laashe begor o kafan the
   Sab ko urha di khaak hawa ne
-  Khaak to ab hashr talak hogi hawa mein
+  Khaak to ab hashr talak hogi hawa meiṅ
 
   7
   Laash jawaaṅ ki tu ne uthaai
   Turbat-e-Asghar tu ne banaai
-  Sota hai maasum tera dasht-e-qaza mein
+  Sota hai maasum tera dasht-e-qaza meiṅ
 
   8
   Chaaroṅ taraf hai bas yehi nauha
   Haae Husaina haae Husaina
-  Shor hai faryaad hai khaimoṅ mein faza mein
+  Shor hai faryaad hai khaimoṅ meiṅ faza meiṅ
 
   9
   Hashr ka hangaam aur qayaamat
   Dekhuṅ gi kaise teri shahaadat
-  Roti rahuṅ gi main yuṅhi qalb ko thaame
+  Roti rahuṅ gi maiṅ yuṅhi qalb ko thaame
 
   10
   Ek hai Irfan ek hai Mazhar
   Donoṅ hi tere dar ke haiṅ naukar
-  Donoṅ ka dil rehta hai bas Karbobala mein
+  Donoṅ ka dil rehta hai bas Karbobala meiṅ
 # source_id: nohayonline:03c3f10e61695dd16684
 # source_url: https://www.nohayonline.com/details_content.php?id=3594
 # raw_sha256: 28d3365e70121d73813fa3a2c751a1b6c56b855873f48f4d5e131949fdce6ab3

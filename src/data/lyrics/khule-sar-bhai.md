@@ -19,12 +19,12 @@ romanLyrics: |-
   1
   Kabhi panjoṅ ke bal chalti hai bachchi
   Kabhi uthti hai aur girti hai bachchi
-  Rasan gardan mein kasti jaa rahi hai
+  Rasan gardan meiṅ kasti jaa rahi hai
 
   2
   Ye dekho kaise kaise marhale hai
   Ke ek rassi hai aur baarah gale hai
-  Rasan shaanoṅ mein khud bandhva rahi hai
+  Rasan shaanoṅ meiṅ khud bandhva rahi hai
 
   3
   Kisi ne durroṅ se nashtar se maara
@@ -47,7 +47,7 @@ romanLyrics: |-
   Ye fauj-e-ashqiyaa batla rahi hai
 
   7
-  Har ek galiyoṅ mein kuchoṅ mein phiraao
+  Har ek galiyoṅ meiṅ kuchoṅ meiṅ phiraao
   Ke jaise ho sake waise sataao
   Munaadi ki sada ye aa rahi hai
 

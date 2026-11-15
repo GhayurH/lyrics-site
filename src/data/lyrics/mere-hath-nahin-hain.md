@@ -12,10 +12,10 @@ aliases:
 published: true
 romanLyrics: |-
   Jab haath qalam ho chuke abbas e jari ke
-  Nauha hussain karte huwe ye dasht mein pahunche
-  Saanse abhi rawan thi alamdar ye bole
-  Mehroom e ziyarat ka salaam e akheer hai
-  Ek aankh mein lahoo hai bhara ek mein teer hai
+  Nauha Husain karte huwe ye dasht meiṅ pahunche
+  Saanse abhi rawaṅ thi alamdar ye bole
+  Mehrum e ziyarat ka salaam e akhir hai
+  Ek aankh meiṅ lahu hai bhara ek meiṅ tir hai
   Aaqa mere maula
 
   Maiṅ kaise uthuṅ aaqa, mere haath nahiṅ haiṅ

@@ -25,7 +25,7 @@ romanLyrics: |-
   Taarik hai jahaaṅ
 
   3
-  Jo haal-e-Anees hai
+  Jo haal-e-Anis hai
   Batlaye wo kis se
   Mushkil kare aasaaṅ
 # source_id: nohayonline:3ef40341882543419dce

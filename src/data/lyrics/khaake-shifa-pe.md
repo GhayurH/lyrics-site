@@ -20,7 +20,7 @@ romanLyrics: |-
 
   2
   Tere lahu ka ek ek khatra hai laajawaab
-  Milti nahi jahaaṅ mein teri koi bhi misaal
+  Milti nahi jahaaṅ meiṅ teri koi bhi misaal
   Ye martaba ke maaṅ teri Zehra hai ae Husain
 
   3
@@ -31,11 +31,11 @@ romanLyrics: |-
   4
   Tu ne lahu diya to bacha din-e-Mustafa
   Maqruz tere ho gaye ye saare ambiya
-  Dunya mein har jagah tera charcha hai ae Husain
+  Dunya meiṅ har jagah tera charcha hai ae Husain
 
   5
   Sar jhukaaye chalta hai kaaṅtoṅ pe wo magar
-  Gardan mein tauq paaoṅ mein beri lahu jigar
+  Gardan meiṅ tauq paaoṅ meiṅ beri lahu jigar
   Saabir teri tarah tera beta hai ae Husain
 
   6
@@ -51,7 +51,7 @@ romanLyrics: |-
   8
   Ye Mazhar Abidi ka aqida bhi hai bata
   Jaaye ga tere rauze pe hamraah Kaamraan
-  Dil mein ye aarzu tha parhna hai ae Husain
+  Dil meiṅ ye aarzu tha parhna hai ae Husain
 # source_id: nohayonline:1e7e730ee3c67c8eb233
 # source_url: https://www.nohayonline.com/details_content.php?id=1478
 # raw_sha256: 3a55f3f51311808ecf770410e01e1550d040f1b9e032513b082728a67393f52b

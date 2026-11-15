@@ -14,7 +14,7 @@ romanLyrics: |-
   Abid-e-Bimar
 
   1
-  Karb mein dube zakhmi wo manzar
+  Karb meiṅ dube zakhmi wo manzar
   Zulm hazaroṅ ek dil-e-muztar
   Tha yehi noha tere laboṅ par
   As-Shaam As-Shaam As-Shaam
@@ -23,12 +23,12 @@ romanLyrics: |-
   2
   Kaisa sitam ye tujh pe hua hai
   Kaisi asiri kaisi jafa hai
-  Tauq mein jakra tera gala hai
+  Tauq meiṅ jakra tera gala hai
   As-Shaam As-Shaam As-Shaam
   Zainab-e-Kubra teri madadgar
 
   3
-  Rahoṅ mein kante paaoṅ mein chhale
+  Rahoṅ meiṅ kante paaoṅ meiṅ chhale
   Maaoṅ se bichhre god ke pale
   Kaun kise ab kaise sambhale
   As-Shaam As-Shaam As-Shaam
@@ -42,15 +42,15 @@ romanLyrics: |-
   Tere jigar par chalti talwar
 
   5
-  Khaak mein ghaltan khuṅ mein dube
-  Ek rasan mein barah gale the
+  Khaak meiṅ ghaltaṅ khuṅ meiṅ dube
+  Ek rasan meiṅ barah gale the
   Un ko sitamgar khinch rahe the
   As-Shaam As-Shaam As-Shaam
   Koi nahiṅ tha un ka madadgar
 
   6
   Giriya kunaṅ thi Aal-e-Payambar
-  Baazu mein rassi aur thi khule sar
+  Baazu meiṅ rassi aur thi khule sar
   Kursi nashiṅ the saare sitamgar
   As-Shaam As-Shaam As-Shaam
   Wae musibat Shaam ka darbar
@@ -60,11 +60,11 @@ romanLyrics: |-
   Kehti thi ro ke pyasi Sakina
   Aaiye Baba aaiye Baba
   As-Shaam As-Shaam As-Shaam
-  Maaṅ hai pareshaan bhai hai bimar
+  Maaṅ hai pareshaaṅ bhai hai bimar
 
   8
   Rote haiṅ Baqir lab pe hai noha
-  Kehte haiṅ ro kar main hua tanha
+  Kehte haiṅ ro kar maiṅ hua tanha
   Zehr-e-sitam se mar gaye Baba
   As-Shaam As-Shaam As-Shaam
   Mar gaya pyasoṅ ka ghamkhwar
@@ -77,7 +77,7 @@ romanLyrics: |-
   Ho gaya rukhsat Sheh ka azadar
 
   10
-  Kitne masaaib likhe Rasheed ab
+  Kitne masaaib likhe Rashid ab
   Tut raha hai hausla Ya Rab
   Roti haiṅ aankheṅ kaṅpte haiṅ lab
   As-Shaam As-Shaam As-Shaam

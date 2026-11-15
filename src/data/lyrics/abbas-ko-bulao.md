@@ -12,13 +12,13 @@ aliases: []
 published: true
 romanLyrics: |-
   Jis waqt Shaam aaya Zainab ka dil ghabraya
-  Baazar mein sitamgar Zainab ko la rahe haiṅ
+  Baazar meiṅ sitamgar Zainab ko la rahe haiṅ
   Abbas ko bulao
   Aal-e-Nabi ko zaalim dar dar phira rahe haiṅ
   Abbas ko bulao
 
   1
-  Sayyadaniyaṅ to Sheh ke maatam mein ro rahi haiṅ
+  Sayyadaniyaṅ to Sheh ke maatam meiṅ ro rahi haiṅ
   Aur behaya sitamgar khushiyaṅ mana rahe haiṅ
   Abbas ko bulao
 
@@ -53,8 +53,8 @@ romanLyrics: |-
   Abbas ko bulao
 
   8
-  Phir waqt aa gaya hai dunya mein aaj Gohar
-  Ahl-e-sitam jahaṅ mein phir sar utha rahe haiṅ
+  Phir waqt aa gaya hai dunya meiṅ aaj Gohar
+  Ahl-e-sitam jahaṅ meiṅ phir sar utha rahe haiṅ
   Abbas ko bulao
 # source_id: nohayonline:ccf4d7f43c8dbe297d13
 # source_url: https://www.nohayonline.com/details_content.php?id=3424

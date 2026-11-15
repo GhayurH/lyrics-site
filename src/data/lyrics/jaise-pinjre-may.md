@@ -1,6 +1,6 @@
 ---
 title: "جیسے پنجرے میں ہو کوئی پنچی"
-alternateTitle: "Jaise Pinjre Mein"
+alternateTitle: "Jaise Pinjre Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,11 +11,11 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Jaise pinjre mein ho koi panchi
-  Aise zindaan mein hai Sakina
+  Jaise pinjre meiṅ ho koi panchi
+  Aise zindaan meiṅ hai Sakina
 
   1
-  Kabhi ammaṅ ke pehlu mein rona
+  Kabhi ammaṅ ke pehlu meiṅ rona
   Kabhi bhaiya se apne lipatna
   Kabhi takraana diwaar o dar se
   Kabhi zindaaṅ ke dar par ye kehna
@@ -23,7 +23,7 @@ romanLyrics: |-
 
   2
   Aise chakraati phirti thi bachchi
-  Jaise pinjre mein zakhmi ho panchi
+  Jaise pinjre meiṅ zakhmi ho panchi
   Kaise kaare qafas tor daale
   Ho rihaai ka koi qarina
   Aao baaba jaaṅ
@@ -32,7 +32,7 @@ romanLyrics: |-
   Maut se pehle aa jaao baaba
   Ye Sakina pe ehsaan ho ga
   Baad mere na baaba ye kehna
-  Main ne tum ko pukaara nahiṅ tha
+  Maiṅ ne tum ko pukaara nahiṅ tha
   Aao baaba jaaṅ
 
   4
@@ -44,13 +44,13 @@ romanLyrics: |-
 
   5
   Ho gayi khair aaya na Asghar
-  Wo to mar jaata zindaaṅ mein ghut kar
-  Kaise sota andhere mein bhaiya
-  Qaid ho jaata zindaaṅ mein jhula
+  Wo to mar jaata zindaaṅ meiṅ ghut kar
+  Kaise sota andhere meiṅ bhaiya
+  Qaid ho jaata zindaaṅ meiṅ jhula
   Aao baaba jaaṅ
 
   6
-  Haaye khuṅ mein bhara sar jo aaya
+  Haaye khuṅ meiṅ bhara sar jo aaya
   Baap ke sar se beti ne puchha
   Munh pe munh rakh ke so na sakuṅ gi
   Hai kahaaṅ mere baaba ka sina

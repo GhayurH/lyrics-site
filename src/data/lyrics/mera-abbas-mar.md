@@ -19,7 +19,7 @@ romanLyrics: |-
   Meri jaanib na dekhna baba
 
   2
-  Aaj Karbobala ke maqtal mein
+  Aaj Karbobala ke maqtal meiṅ
   Qatl bhai behan hue donoṅ
   Wo udhar ziṅ se gira tha idhar
   Sar se mere giri rida baba
@@ -34,7 +34,7 @@ romanLyrics: |-
   Aisa lagta hai us ke jaane se
   Ik diwaar hat gayi jaise
   Lut lo ab Husain ke khaime
-  Shaam waaloṅ mein shor tha baba
+  Shaam waaloṅ meiṅ shor tha baba
 
   5
   Haae maut Zainab ko kiuṅ nahiṅ aayi
@@ -51,7 +51,7 @@ romanLyrics: |-
   7
   Laash Akbar ki jab uthaayi thi
   Sar pe mere rida salamat thi
-  Laash-e-Ghazi uthaauṅ main kaise
+  Laash-e-Ghazi uthaauṅ maiṅ kaise
   Mere sar par nahiṅ rida baba
 
   8
@@ -62,7 +62,7 @@ romanLyrics: |-
 
   9
   Meri bachchi ye mujh se kehti hai
-  Main bhi Ghazi pe jaan de duṅgi
+  Maiṅ bhi Ghazi pe jaan de duṅgi
   Mar na jaaye ye shaam ke pehle
   Do Sakina ko hausla baba
 

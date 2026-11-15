@@ -27,21 +27,21 @@ romanLyrics: |-
   Naana Muhammad naani Khadija
   Baaba Ali maaṅ Faatima Zehra
   Bhaai Hasan sardaar-e-jinaaṅ hai
-  Qabze mein mere kaun o makaaṅ hai
+  Qabze meiṅ mere kaun o makaaṅ hai
   Mera munkir haq ka kaafir
   Kaun hai meri madad ko haazir
 
   3
-  Main huṅ Quraaṅ main huṅ imaaṅ
+  Maiṅ huṅ Quraaṅ maiṅ huṅ imaaṅ
   Munkir mera dushman-e-Yazdaaṅ
   Nafs-e-Khuda huṅ nafs-e-Nabi huṅ
-  Jaan-e-Nabi huṅ main bhi Ali huṅ
-  Main huṅ jalaal-e-haq ka mazhar
+  Jaan-e-Nabi huṅ maiṅ bhi Ali huṅ
+  Maiṅ huṅ jalaal-e-haq ka mazhar
   Kaun hai meri madad ko haazir
 
   4
   Subh se tum ne dekhe nazaare
-  Khun mein dube chaand aur taare
+  Khun meiṅ dube chaand aur taare
   Naana Nabi ke din pe waare
   Jaan se jo the mujh ko pyaare
   Koi raha na hamdam o yaawar
@@ -59,20 +59,20 @@ romanLyrics: |-
   Lut li tum ne meri kamaai
   Koi bacha na beta na bhaai
   Hukm-e-Khuda se tum se lara huṅ
-  Khun mein duba tanha khara huṅ
-  Zakhmi pyaasa huṅ main musaafir
+  Khun meiṅ duba tanha khara huṅ
+  Zakhmi pyaasa huṅ maiṅ musaafir
   Kaun hai meri madad ko haazir
 
   7
   Tum ko koi ehsaas nahiṅ hai
   Koi bhi mere paas nahiṅ hai
   Bahr-e-madad Abbas nahiṅ hai
-  Mujh sa koi be aas nahiṅ hai
+  Mujh sa koi beaas nahiṅ hai
   Ghere haiṅ sab mujh ko kaafir
   Kaun hai meri madad ko haazir
 
   8
-  Girta huṅ main koi sambhaale
+  Girta huṅ maiṅ koi sambhaale
   Zakhmoṅ se koi tir nikaale
   Maaṅ ki meri aayi sawaari
   Sar dene ki hai tayyaari
@@ -83,7 +83,7 @@ romanLyrics: |-
   Jis ka gharaana saara karim
   Tanha maalik-e-zibh-e-azim
   Qaaim taa zuhur-e-hujjat
-  Hai wo Faheem taalib-e-nusrat
+  Hai wo Fahim taalib-e-nusrat
   Hal min naasir hal min naasir
   Kaun hai meri madad ko haazir
 # source_id: nohayonline:f4fa2f2192cbcb1caa1e

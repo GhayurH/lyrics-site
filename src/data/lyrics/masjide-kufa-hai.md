@@ -14,26 +14,26 @@ romanLyrics: |-
   Masjid-e-Kufa hai rozadaar hai
   Farq se uṅchi lahu ki dhaar hai
   Aah daamaad-e-Payambar ke liye
-  Zehr mein dubi hui talwaar hai
+  Zehr meiṅ dubi hui talwaar hai
 
   1
   Keh raha hai zakhmi sar se beh ke khuṅ
   Dusra sajda bahut dushwaar hai
 
   2
-  Raat tak aabaad tha haq ka makaan
+  Raat tak aabaad tha haq ka makaaṅ
   Subh ko ujri hui sarkaar hai
 
   3
-  Farq-e-paak-e-Murtaza mein tegh hai
-  Ya kalaam Allah mein talwaar hai
+  Farq-e-paak-e-Murtaza meiṅ tegh hai
+  Ya kalaam Allah meiṅ talwaar hai
 
   4
   Zakhmi sar hai Haidar-e-Karraar hai
   Dhimi dhimi nabz ki raftaar hai
 
   5
-  Khun mein hai gharq daamaad-e-Nabi
+  Khun meiṅ hai gharq daamaad-e-Nabi
   Saaṅs lena bhi bahut dushwaar hai
 # source_id: nohayonline:382119142e6f2fed5fbd
 # source_url: https://www.nohayonline.com/details_content.php?id=2918

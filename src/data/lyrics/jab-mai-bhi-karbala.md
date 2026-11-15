@@ -1,6 +1,6 @@
 ---
 title: "جب میں بھی کربلا کی زیارت کو جاؤں گا"
-alternateTitle: "Jab Main Bhi Karbala"
+alternateTitle: "Jab Maiṅ Bhi Karbala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,19 +11,19 @@ tags: []
 aliases: ["Jab Mai Bhi Karbala"]
 published: true
 romanLyrics: |-
-  Jab main bhi Karbala ki ziyaarat ko jaauṅ ga
+  Jab maiṅ bhi Karbala ki ziyaarat ko jaauṅ ga
   Pyaasoṅ ke zaairin ko paani pilaauṅ ga
 
   1
   Puchhuṅ ga dard kaisa hai pehlu ka Shaah se
-  Hargiz na apna haal main un ko sunaauṅ ga
+  Hargiz na apna haal maiṅ un ko sunaauṅ ga
 
   2
   Qabr-e-gharib-e-Zehra pe Aashur wale din
   Sajjad ki taraf se kafan le ke jaauṅ ga
 
   3
-  Bandhwa ke apne haathoṅ ko Hur ki tarah se main
+  Bandhwa ke apne haathoṅ ko Hur ki tarah se maiṅ
   Sultaan-e-Karbala tere rauze pe aauṅ ga
 
   4
@@ -40,10 +40,10 @@ romanLyrics: |-
 
   7
   Ragri thi jis jagah Ali Akbar ne eriyaaṅ
-  Dil keh raha hai main to wahaaṅ mar hi jaauṅ ga
+  Dil keh raha hai maiṅ to wahaaṅ mar hi jaauṅ ga
 
   8
-  Sajjad zaairin ki khidmat karuṅ ga main
+  Sajjad zaairin ki khidmat karuṅ ga maiṅ
   Is kaam bhi na aaya to kis kaam aauṅ ga
 # source_id: nohayonline:5dc74f0a3de4c8ea6e21
 # source_url: https://www.nohayonline.com/details_content.php?id=1532

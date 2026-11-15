@@ -12,14 +12,14 @@ aliases: []
 published: true
 romanLyrics: |-
   Pahunche sarhaane bhaai ke jab Shaah-e-Karbala
-  Ghaazi ne apni aakhri saaṅsoṅ mein di sada
+  Ghaazi ne apni aakhri saaṅsoṅ meiṅ di sada
   Maula maaṅ Ummul Banin se mat kehna
 
   Sharminda Sakina se huṅ bahut
-  Main paani le kar aa na saka
+  Maiṅ paani le kar aa na saka
 
   1
-  Maaṅ ne jo sikhaaye bachpan mein
+  Maaṅ ne jo sikhaaye bachpan meiṅ
   Wo yaad haiṅ sab aadaab mujhe
   Nazdik khare rehna us ja
   Shabbir jahaaṅ baithe jaa ke
@@ -29,24 +29,24 @@ romanLyrics: |-
   2
   Har laash pe gir ke kehte the
   Kya tum hi Ali ke bete ho
-  Maalum hai kitni mushkil mein
+  Maalum hai kitni mushkil meiṅ
   Khaimoṅ se yahaaṅ tak pahunche ho
   Abbas se milne ki khaatir
   Zehmat jo uthaai hai Maula
 
   3
   Kis tarah kate baazu mere
-  Maqtal mein bata dena beshak
-  Main ziṅ se zamiṅ par kaise gira
+  Maqtal meiṅ bata dena beshak
+  Maiṅ ziṅ se zamiṅ par kaise gira
   Ammaṅ ko suna dena beshak
   Abbas ke girne se lekin
   Zainab ke giri thi sar se rida
 
   4
   Tha chaaroṅ jaanib bikhra hua
-  Quraan Hasan ka jangal mein
+  Quraan Hasan ka jangal meiṅ
   Paamaal badan Qaasim ka hua
-  Guzri wo qayaamat maqtal mein
+  Guzri wo qayaamat maqtal meiṅ
   Abbas ki zauja se pehle
   Afsos hui bewa Kubra
 
@@ -54,12 +54,12 @@ romanLyrics: |-
   Baaba se kiya bachchoṅ ko juda
   Kya zulm ye dhaaya logoṅ ne
   Muslim ki laash Kufe ki
-  Galiyoṅ mein phiraaya logoṅ ne
+  Galiyoṅ meiṅ phiraaya logoṅ ne
   Abbas ki nazroṅ ke aage
   Ujri thi Ruqayya ki duniya
 
   6
-  Ye soch ke ran mein roti hai
+  Ye soch ke ran meiṅ roti hai
   Baazu se lipat kar meri wafa
   Ye baat garaaṅ guzregi bahut
   Ammaṅ ki tabiat par Aaqa
@@ -67,7 +67,7 @@ romanLyrics: |-
   Aur aap ka Asghar pyaasa raha
 
   7
-  Do bhaai bichharte the ran mein
+  Do bhaai bichharte the ran meiṅ
   Kaisa tha qayaamat ka manzar
   Abbas mujhe bhaai keh do
   Sarwar ne kaha jab ye ro kar

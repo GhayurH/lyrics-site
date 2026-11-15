@@ -13,48 +13,48 @@ published: true
 romanLyrics: |-
   Tera mehmaan huṅ Shiriṅ tera mehmaan huṅ
 
-  Tu mujhe jaan na paayi ye main jaanta huṅ
-  Tu na pehchaane magar main tujhe pehchaanta huṅ
-  Tu khatawaar nahiṅ Shiriṅ ye main jaanta huṅ
-  Tu ne is haal mein kab pehle mujhe dekha hai
+  Tu mujhe jaan na paayi ye maiṅ jaanta huṅ
+  Tu na pehchaane magar maiṅ tujhe pehchaanta huṅ
+  Tu khatawaar nahiṅ Shiriṅ ye maiṅ jaanta huṅ
+  Tu ne is haal meiṅ kab pehle mujhe dekha hai
   Ba Khuda jaan le mujh ko pehchaan le
   Tera mehmaan huṅ Shiriṅ tera mehmaan huṅ
 
   1
-  Main salaamat rahuṅ maani thi ye tu ne mannat
+  Maiṅ salaamat rahuṅ maani thi ye tu ne mannat
   Ho gayi khatm zamaane se ye teri zehmat
-  Ghar tere aaj main mehmaan hua is surat
+  Ghar tere aaj maiṅ mehmaan hua is surat
   Sar mera nok-e-sinaaṅ jism Karbobala
 
   2
   Yaad Shiriṅ tujhe wo hoga zamaana mera
   Saath saaye ki tarah rehta tha Naana mera
   Kaam Jibril ka tha naaz uthaana mera
-  Aaj be gor o kafan jism hai maqtal mein para
+  Aaj begor o kafan jism hai maqtal meiṅ para
 
   3
-  Tukre tukre the pare ran mein jigar ke paare
+  Tukre tukre the pare ran meiṅ jigar ke paare
   Laash Akbar ki utha laaye na himmat haare
   Hausla dekh ke hairaaṅ the farishte saare
   Ek mehmaan pe kya kya na hue zulm o jafa
 
   4
-  Ya Ali keh ke di maqtal mein duhaayi main ne
-  Aastiṅ kohniyoṅ tak apni charhaayi main ne
-  Yuṅ sinaaṅ sina-e-Akbar se nikaali main ne
+  Ya Ali keh ke di maqtal meiṅ duhaayi maiṅ ne
+  Aastiṅ kohniyoṅ tak apni charhaayi maiṅ ne
+  Yuṅ sinaaṅ sina-e-Akbar se nikaali maiṅ ne
   Saamne nazroṅ ke farzand ne dam tor diya
 
   5
-  Ghar tere aaya huṅ is haal mein hairaan na ho
-  Meri mehmaan nawaazi mein pareshaan na ho
+  Ghar tere aaya huṅ is haal meiṅ hairaan na ho
+  Meri mehmaan nawaazi meiṅ pareshaan na ho
   Bas dua kar mere jaisa koi mehmaan na ho
-  Aise aalam mein aaye na kisi ko bhi qaza
+  Aise aalam meiṅ aaye na kisi ko bhi qaza
 
   6
   Ashk-e-khuṅ aaj bhi aankhoṅ se rawaaṅ hai Mesum
   Kiuṅ na ho karti hai khud Fatima Zehra maatam
   Khaak uraate haiṅ sar-e-khuld Rasul-e-Akram
-  Kaisa pur dard hai Khursheed ye likha nauha
+  Kaisa pur dard hai Khurshid ye likha nauha
 # source_id: nohayonline:7ae8117e632c857f68c8
 # source_url: https://www.nohayonline.com/details_content.php?id=2156
 # raw_sha256: d9119e707a116d56140a93bbb9d25c35cfad06e4e282715f11df05bc6663bb9c

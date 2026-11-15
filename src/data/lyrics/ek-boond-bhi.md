@@ -22,13 +22,13 @@ romanLyrics: |-
   Beta tere baad ji na sakuṅgi
   Paani tere baad pi na sakuṅgi
   Ujra hai Asghar mera muqaddar
-  Tu hai bekafan main huṅ berida
+  Tu hai bekafan maiṅ huṅ berida
 
   2
   Jhula jhulaati lori sunaati
-  Laal main tere naaz uthaati
-  Pal mein lut gayi meri kamaayi
-  Khuṅ ka darya ban mein beh gaya
+  Laal maiṅ tere naaz uthaati
+  Pal meiṅ lut gayi meri kamaayi
+  Khuṅ ka darya ban meiṅ beh gaya
 
   3
   Tir khaa ke tu muskura diya
@@ -44,7 +44,7 @@ romanLyrics: |-
 
   5
   Kaise ye manzar bhul paauṅgi
-  Ashk lahad mein bhi bahaauṅgi
+  Ashk lahad meiṅ bhi bahaauṅgi
   Laal tumhaari phul si gardan
   Kar gaya zakhmi tir-e-Hurmala
 
@@ -55,8 +55,8 @@ romanLyrics: |-
   Koi nahiṅ hai mera aasra
 
   7
-  Dhup mein Jawad umr bitaayi
-  Pal bhi na Mesum saaye mein aayi
+  Dhup meiṅ Jawad umr bitaayi
+  Pal bhi na Mesum saaye meiṅ aayi
   Tapti zamiṅ par tarpa tha Asghar
   Maaṅ ko wo manzar yaad reh gaya
 # source_id: nohayonline:e96976e45c4b1c1e1db2

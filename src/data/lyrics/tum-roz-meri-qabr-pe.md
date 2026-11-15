@@ -12,18 +12,18 @@ aliases: []
 published: true
 romanLyrics: |-
   Zehra se haal puchhne jab aaye Murtaza
-  Ro ro ke Fatema ne wasiyyat mein ye kaha
+  Ro ro ke Fatema ne wasiyyat meiṅ ye kaha
   Mere Hasan Husain ko laana Abul Hasan
   Tum roz meri qabr pe aana Abul Hasan
 
   1
-  Tishna labi mein us ko aata nahiṅ hai chain
+  Tishna labi meiṅ us ko aata nahiṅ hai chain
   Raatoṅ ko maangta hai paani mera Husain
   Uth uth ke us ko paani pilaana Abul Hasan
 
   2
   Khaaya tha jab tamaacha tha saamne Hasan
-  Rota hai mere gham mein wo mera gul badan
+  Rota hai mere gham meiṅ wo mera gul badan
   Tum us ko paas apne bithaana Abul Hasan
 
   3
@@ -33,12 +33,12 @@ romanLyrics: |-
 
   4
   Jab betiyoṅ ko meri yaad aaye ya Ali
-  Parde mein shab ke haaye dekho kabhi kabhi
+  Parde meiṅ shab ke haaye dekho kabhi kabhi
   Un ko bhi meri qabr pe laana Abul Hasan
 
   5
   Phir ro ke boli Zahra ae waqt ke Imaam
-  Tum ko main haath uthaa ke kaise karuṅ salaam
+  Tum ko maiṅ haath uthaa ke kaise karuṅ salaam
   Uthta nahiṅ hai ab mera shaana Abul Hasan
 
   6
@@ -52,9 +52,9 @@ romanLyrics: |-
   Aahista us ko maaṅ se chhuraana Abul Hasan
 
   8
-  Zeeshan aur Raza wo kehti thi ya Ali
+  Zishan aur Raza wo kehti thi ya Ali
   Zehra ka saath tum ne chhora nahiṅ kabhi
-  Tanhaai mein bhi saath nibhaana Abul Hasan
+  Tanhaai meiṅ bhi saath nibhaana Abul Hasan
 # source_id: nohayonline:dbeedfe087bd6bf95ef6
 # source_url: https://www.nohayonline.com/details_content.php?id=1032
 # raw_sha256: b95d6e9bc4e1865ae96d64b432fa7590d01a0bfc6d29cb9f0cc6548e58c9df0a

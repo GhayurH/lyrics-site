@@ -1,6 +1,6 @@
 ---
 title: "پیکاں برس رہے ہیں"
-alternateTitle: "Taboot Hasan Ka"
+alternateTitle: "Taboot Hasaṅ Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -25,7 +25,7 @@ romanLyrics: |-
   1
   Shabbir ye kehte the
   Shabbar ke janaaze par
-  Kiuṅ khuṅ mein nahaaya hai
+  Kiuṅ khuṅ meiṅ nahaaya hai
 
   2
   Ujla tha kafan lekin
@@ -53,24 +53,24 @@ romanLyrics: |-
   Aankhoṅ se lagaaya hai
 
   7
-  Pehlu mein Muhammad ke
+  Pehlu meiṅ Muhammad ke
   Rakhne na diya laasha
   Baahar se dikhaaya hai
 
   8
   Ashaab-e-Nabi koi
-  Pahunche na janaaze mein
+  Pahunche na janaaze meiṅ
   Jaise ke paraaya hai
 
   9
   Ammaaṅ ko salaami jo
-  Deni thi Baqiyya mein
+  Deni thi Baqiyya meiṅ
   Rukta hua aaya hai
 
   10
   Rehaan ka Mesum ka
   Ye dil hai azaakhaana
-  Is dil mein basaaya hai
+  Is dil meiṅ basaaya hai
 # source_id: nohayonline:b22c12c06771a4fcad6f
 # source_url: https://www.nohayonline.com/details_content.php?id=2536
 # raw_sha256: e2715686766706d7b6e480ae4ddee71386883a1cb4cd7b8cd23f6628ad618ca7

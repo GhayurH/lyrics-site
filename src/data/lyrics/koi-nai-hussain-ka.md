@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Wa ghurbata ae wa ghurbata
-  Koi nahiṅ Husain ka begaane des mein
+  Koi nahiṅ Husain ka begaane des meiṅ
   Hal min ki hai sada
   Koi nahiṅ Husain ka
 
@@ -29,12 +29,12 @@ romanLyrics: |-
   3
   Akela reh gaya
   Wo ghar luta chuka
-  Bacha ke din tera
+  Bacha ke diṅ tera
   Khuda ae Khuda ae Khuda ae Khuda
 
   4
-  Kunba ujar gaya begaane des mein
-  Koi nahiṅ Husain ka begaane des mein
+  Kunba ujar gaya begaane des meiṅ
+  Koi nahiṅ Husain ka begaane des meiṅ
   Hal min ki hai sada
   Koi nahiṅ Husain ka
 
@@ -47,17 +47,17 @@ romanLyrics: |-
   6
   Akela reh gaya
   Wo ghar luta chuka
-  Bacha ke din tera
+  Bacha ke diṅ tera
   Khuda ae Khuda ae Khuda ae Khuda
 
   7
-  Rota hai Zuljanaah begaane des mein
-  Koi nahiṅ Husain ka begaane des mein
+  Rota hai Zuljanaah begaane des meiṅ
+  Koi nahiṅ Husain ka begaane des meiṅ
   Hal min ki hai sada
   Koi nahiṅ Husain ka
 
   8
-  Laakhoṅ mein ghir gaya mazlum-e-Karbala
+  Laakhoṅ meiṅ ghir gaya mazlum-e-Karbala
   De kis ko ab sada Ghazi to so gaya
   Husain ya Husain
   Husain baadshaah
@@ -65,12 +65,12 @@ romanLyrics: |-
   9
   Akela reh gaya
   Wo ghar luta chuka
-  Bacha ke din tera
+  Bacha ke diṅ tera
   Khuda ae Khuda ae Khuda ae Khuda
 
   10
-  Lashkar bichhar gaya begaane des mein
-  Koi nahiṅ Husain ka begaane des mein
+  Lashkar bichhar gaya begaane des meiṅ
+  Koi nahiṅ Husain ka begaane des meiṅ
   Hal min ki hai sada
   Koi nahiṅ Husain ka
 
@@ -83,12 +83,12 @@ romanLyrics: |-
   12
   Akela reh gaya
   Wo ghar luta chuka
-  Bacha ke din tera
+  Bacha ke diṅ tera
   Khuda ae Khuda ae Khuda ae Khuda
 
   13
-  Zainab ki sada thi begaane des mein
-  Koi nahiṅ Husain ka begaane des mein
+  Zainab ki sada thi begaane des meiṅ
+  Koi nahiṅ Husain ka begaane des meiṅ
   Hal min ki hai sada
   Koi nahiṅ Husain ka
 # source_id: nohayonline:5a0f9a968ed67e86b433

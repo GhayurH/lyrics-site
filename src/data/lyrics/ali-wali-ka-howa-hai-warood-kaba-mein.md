@@ -1,6 +1,6 @@
 ---
 title: "علی ولی کا ہوا ہے ورود کعبے میں"
-alternateTitle: "Ali Wali Ka Hua Hai Wurud Kaabe Mein"
+alternateTitle: "Ali Wali Ka Hua Hai Wurud Kaabe Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,10 +10,10 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ali wali ka hua hai wurud Kaabe mein
-  Falak se pahunchi sada-e-durud Kaabe mein
+  Ali wali ka hua hai wurud Kaabe meiṅ
+  Falak se pahunchi sada-e-durud Kaabe meiṅ
   Isi liye to hua hai zuhur Asadullah
-  Rahe na baaqi butoṅ ka wajud Kaabe mein
+  Rahe na baaqi butoṅ ka wajud Kaabe meiṅ
 
   1
   Ye aa rahi hai sada mimbar-e-Saluni se
@@ -25,7 +25,7 @@ romanLyrics: |-
   Ali hai Haider o Safdar Ali Shah-e-Mardaaṅ
   Raqam haiṅ sab ke diloṅ par fazilateiṅ us ki
   Ho jang Khaibar o Khandaq Uhud ke Badr o Hunain
-  Hai deen ki fath-e-mubin sab shujaateiṅ us ki
+  Hai din ki fath-e-mubin sab shujaateiṅ us ki
 
   3
   Ali wo naasir o mushkil-kusha-e-aalam hai
@@ -34,7 +34,7 @@ romanLyrics: |-
   Ali ne taal diṅ us ki musibateiṅ saari
 
   4
-  Khuda ke noor ka hissa Nabi Nabi ka Ali
+  Khuda ke nur ka hissa Nabi Nabi ka Ali
   Nabi Ali ke sab anwaar ek jaise haiṅ
   Agar ho shak hijrat ko dekh le dunya
   Khuda ke donoṅ ye shahkaar ek jaise haiṅ
@@ -46,7 +46,7 @@ romanLyrics: |-
   Isi amal se ibaarat haiṅ majliseiṅ apni
 
   6
-  Ali wali hai wo dast-e-Khuda zamane mein
+  Ali wali hai wo dast-e-Khuda zamane meiṅ
   Ke jis ka dast-e-karam mazhar-ul-ajaib hai
   Khuda aur us ki khudai bhi jis pe naaz kare
   Yehi wo fakhr-e-nabuwat Nabi ka naaib hai

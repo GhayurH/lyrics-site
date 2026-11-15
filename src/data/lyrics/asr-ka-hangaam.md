@@ -17,29 +17,29 @@ romanLyrics: |-
   Khanjar o tir o sinaaṅ hai naiza o shamshir hai
   Har taraf hathyaar hai aur darmiyaaṅ Shabbir hai
   Haye peshaani pe Sheh ki Hurmula ka tir hai
-  Khun mein dubi hui Islam ki tasvir hai
+  Khun meiṅ dubi hui Islam ki tasvir hai
 
   2
   Dard ka har ek manzar hai nazar ke saamne
-  Shimr ke haathoṅ mein khanjar hai nazar ke saamne
+  Shimr ke haathoṅ meiṅ khanjar hai nazar ke saamne
   Bhai ka katta hua sar hai nazar ke saamne
   Zibh hote haiṅ Husain aur saamne hamshir hai
 
   3
   Garm reti par tarapta hai dil-e-Zehra ka chain
-  Ghir chuka hai barchhiyoṅ mein Mustafa ka nur-e-ain
-  Chand lamhoṅ mein abhi kat jaayega halq-e-Husain
-  Karbala ke ban mein tanhaai hai aur Shabbir hai
+  Ghir chuka hai barchhiyoṅ meiṅ Mustafa ka nur-e-ain
+  Chand lamhoṅ meiṅ abhi kat jaayega halq-e-Husain
+  Karbala ke ban meiṅ tanhaai hai aur Shabbir hai
 
   4
   Ab siyaah aandhi chalegi aayeṅge ab zalzale
   Gardan-e-Shabbir hogi Shimr ke khanjar tale
-  Ek rasan mein hoṅge ab baarah asiroṅ ke gale
+  Ek rasan meiṅ hoṅge ab baarah asiroṅ ke gale
   Ab tamaanche haiṅ musalsal dukhtar-e-Shabbir hai
 
   5
   Karbala hai haq parastoṅ ke liye kul kaainaat
-  Karbala ke haath mein hum ne diye haiṅ apne haath
+  Karbala ke haath meiṅ hum ne diye haiṅ apne haath
   Jaan bhi jaaye to Ahsan haq ka chhoreṅge na saath
   Jaante haiṅ hum yehi to maqsad-e-Shabbir hai
 # source_id: nohayonline:9388e655a32a382be90c

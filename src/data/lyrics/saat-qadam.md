@@ -31,7 +31,7 @@ romanLyrics: |-
 
   3
   Tisri baar aisa hua tha
-  Khaime mein jaane lage Maula
+  Khaime meiṅ jaane lage Maula
   Haaye jhoṅka chala tez hawa ka
   Hatne laga laashe se kapra
   Thaam ke dil rone lage yuṅ Husain
@@ -40,7 +40,7 @@ romanLyrics: |-
   Juṅhi qadam chautha uthaaya
   Ghaazi ko ro ro ke bulaaya
   Haaye kehne lage bhai tu aa ja
-  Khaime mein jaaya nahiṅ jaata
+  Khaime meiṅ jaaya nahiṅ jaata
   Thaam ke dil rone lage yuṅ Husain
 
   5
@@ -52,20 +52,20 @@ romanLyrics: |-
 
   6
   Haaye paaoṅ chhati baar barhaaya
-  Itne mein khud aa gayi Zehra
+  Itne meiṅ khud aa gayi Zehra
   Haaye boli ke ab tu nahiṅ tanha
   De mujhe beshir ka laasha
   Thaam ke dil rone lage yuṅ Husain
 
   7
-  Saatwiṅ baari mein hua kya
+  Saatwiṅ baari meiṅ hua kya
   Dar pe chali aayi Sakina
   Haaye kehne lagi aa gaye baaba
   Hai kahaaṅ nanha mera bhaiya
   Thaam ke dil rone lage yuṅ Husain
 
   8
-  Khaime mein Farhan hua kya
+  Khaime meiṅ Farhan hua kya
   Zill-e-Raza likh nahiṅ paaya
   Haaye laasha juṅhi maaṅ ko dikhaaya
   Ek qayaamat hui barpa

@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Asr-e-Ashur ka hangaam qayamat ka samaaṅ
-  Dhup mein jalti hui ret se uthta hai dhuaaṅ
+  Dhup meiṅ jalti hui ret se uthta hai dhuaaṅ
   Bhuk aur pyaas ka maara hai har ek pir o jawaaṅ
   Shiddat-e-pyaas se hai tarakhti hui teri zabaaṅ
   Khushk hai tera gala aa palat aa ae Husain
@@ -26,7 +26,7 @@ romanLyrics: |-
   Maarka-e-haq ke liye tera ye paainda hai
   Sabr-e-Ayyub tere sabr se sharminda hai
   Qatl jo haq ke liye ho gaya wo zinda hai
-  Tere haq mein hai baqa aa palat aa ae Husain
+  Tere haq meiṅ hai baqa aa palat aa ae Husain
 
   3
   Tu ne Islam ko Akbar ki jawani de di
@@ -43,10 +43,10 @@ romanLyrics: |-
   Tu ne har zulm saha aa palat aa ae Husain
 
   5
-  Laash-e-Qasim ke rakhe tukre abaa mein tu ne
-  Waqf ki apni zabaaṅ hamd o sana mein tu ne
-  Dar kiya apna fida raah-e-Khuda mein tu ne
-  Zulm kya kya na sahe Karbobala mein tu ne
+  Laash-e-Qasim ke rakhe tukre abaa meiṅ tu ne
+  Waqf ki apni zabaaṅ hamd o sana meiṅ tu ne
+  Dar kiya apna fida raah-e-Khuda meiṅ tu ne
+  Zulm kya kya na sahe Karbobala meiṅ tu ne
   Kar diya waada wafa aa palat aa ae Husain
 
   6
@@ -66,7 +66,7 @@ romanLyrics: |-
   8
   Tera noha tere Akhtar ne likha hai Shabbir
   Tere Irfan ne noha ye parha hai Shabbir
-  Majlis-e-gham mein ajab hashr bapa hai Shabbir
+  Majlis-e-gham meiṅ ajab hashr bapa hai Shabbir
   Ye bhi ek tera karam teri ata hai Shabbir
   De ke ummat ko dua aa palat aa ae Husain
 # source_id: nohayonline:bf0b0b90220b3aceca17

@@ -19,8 +19,8 @@ romanLyrics: |-
   Apne ghar farsh-e-aza aap bichhaate rehna
 
   2
-  Fatima aayi hai rumaal liye majlis mein
-  Ashk aankhoṅ se gham-e-Shah mein bahaate rehna
+  Fatima aayi hai rumaal liye majlis meiṅ
+  Ashk aankhoṅ se gham-e-Shah meiṅ bahaate rehna
 
   3
   Waar kar jhule pe Asghar ki meri maaṅ behnoṅ

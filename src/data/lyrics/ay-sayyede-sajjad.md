@@ -11,26 +11,26 @@ tags: []
 aliases: ["Ay Sayyede Sajjad"]
 published: true
 romanLyrics: |-
-  Hoti hai ayaaṅ dasht mein ab shaam-e-gharibaṅ
+  Hoti hai ayaaṅ dasht meiṅ ab shaam-e-gharibaṅ
   Ae Sayyed-e-Sajjad ae Sayyed-e-Sajjad
 
   Ujre hue is ghar ke ho ab tum hi nigehbaan
   Ae Sayyed-e-Sajjad ae Sayyed-e-Sajjad
 
   1
-  Maqtal mein shah-e-diṅ ka bhara ghar hua barbaad
+  Maqtal meiṅ shah-e-diṅ ka bhara ghar hua barbaad
   Kis se kareiṅ faryaad
-  Afsos ke sab mil gaye wo khaak mein armaan
+  Afsos ke sab mil gaye wo khaak meiṅ armaan
 
   2
-  The jis mein Ali Asghar o Qasim se sahare
+  The jis meiṅ Ali Asghar o Qasim se sahare
   Wo aankhoṅ ke taare
-  Maqtal mein hai bikhra hua Zehra ka wo Quraan
+  Maqtal meiṅ hai bikhra hua Zehra ka wo Quraan
 
   3
   Ab Zainab o Kulsum ke sar par nahiṅ chaadar
   Ae haye muqaddar
-  Bazaar mein jaayeṅge ye le kar sar-e-uryaaṅ
+  Bazaar meiṅ jaayeṅge ye le kar sar-e-uryaaṅ
 
   4
   Maqtal se guzar aaye magar zulm na thehra
@@ -40,7 +40,7 @@ romanLyrics: |-
   5
   Ab zabt ka yaara bhi kahiṅ tut na jaaye
   Hai dard ke saaye
-  Darbaar mein ab jaana hai Zainab hai pareshaan
+  Darbaar meiṅ ab jaana hai Zainab hai pareshaan
 
   6
   Mazlum shah-e-din ki nishaani ko sambhaalo

@@ -11,12 +11,12 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Sun ke Zainab ke khutbaat darbaar mein bole Shah-e-Zaman teri kya baat hai
+  Sun ke Zainab ke khutbaat darbaar meiṅ bole Shah-e-Zamaṅ teri kya baat hai
   Laaj rakh li hai tu ne bare bhaai ki meri chhoti behan teri kya baat hai
 
   1
   Thik se koi leta na naam-e-Khuda
-  Gar na hoti bapaa dahr mein Karbala
+  Gar na hoti bapaa dahr meiṅ Karbala
   Aur zinda rakhi tu ne wo Karbala Bint-e-Khaibar Shikan
 
   2

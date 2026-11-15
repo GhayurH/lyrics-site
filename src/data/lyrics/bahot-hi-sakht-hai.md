@@ -17,26 +17,26 @@ romanLyrics: |-
   Malak pukaara ye mujhse na ho sakega Khuda
 
   1
-  Main kis tarah se nikaaluṅ badan se jaan-e-Husain
+  Maiṅ kis tarah se nikaaluṅ badan se jaan-e-Husain
   Bahot hi sakht hai ya Rab ye imtihaan-e-Husain
 
   2
   Laga hai zakhm-e-tabar beh raha hai sar se lahu
-  Bhare haiṅ khun mein jaan-e-Rasul ke gesu
+  Bhare haiṅ khun meiṅ jaan-e-Rasul ke gesu
   Qarib jaa ke rakhuṅ dil pe kis tarah qaabu
-  Ke is lahu mein to hai Fatima ke dudh ki bu
+  Ke is lahu meiṅ to hai Fatima ke dudh ki bu
 
   3
-  Main phir in aankhoṅ pe dhaauṅ sitam ye kya hai zarur
+  Maiṅ phir in aankhoṅ pe dhaauṅ sitam ye kya hai zarur
   Bichhar ke wo Ali Akbar se ho gayi benur
   Nida ye aayi dahan se nikaal jaan-e-Huzur
-  Kaha dahan mein to kaante pare haiṅ Rabb-e-Ghafur
+  Kaha dahan meiṅ to kaante pare haiṅ Rabb-e-Ghafur
 
   4
   Nida ye aayi ke gardan se khainch jaan inki
-  Kaha main kya karuṅ gardan pe chal rahi hai chhuri
+  Kaha maiṅ kya karuṅ gardan pe chal rahi hai chhuri
   Chhuri pakar ke ye chillaati hai koi Bibi
-  Na zibh kar mere bachche ko main dua duṅgi
+  Na zibh kar mere bachche ko maiṅ dua duṅgi
 
   5
   Nida ye aayi ke sine se qabz kar le jaan
@@ -51,7 +51,7 @@ romanLyrics: |-
   Kamar to tut gayi jab se mar gaye Abbas
 
   7
-  Falak se tab hua Ruh-ul-Amiṅ ka ran mein nuzul
+  Falak se tab hua Ruh-ul-Amiṅ ka ran meiṅ nuzul
   Kaha pukaar ke munh dhaanp lo baraaye Batul
   Pisar ki laash pe kholeṅgi baal bint-e-Rasul
   Sada ye thi Malak-ul-maut ki ba-huzn o malul
@@ -61,7 +61,7 @@ romanLyrics: |-
   Har ek uzr hai zakhmi lagaauṅ haath kahaaṅ
   Khuda pukaara ye mushkil kareṅge hum aasaaṅ
   Na tu nikaal mere aashiq-e-gharib ki jaaṅ
-  Main khud nikaal raha huṅ badan se jaan-e-Husain
+  Maiṅ khud nikaal raha huṅ badan se jaan-e-Husain
   Ke khatm hone ko ab hai ye imtihaan-e-Husain
 # source_id: nohayonline:96d0bb35903379114b9e
 # source_url: https://www.nohayonline.com/details_content.php?id=885

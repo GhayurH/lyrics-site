@@ -1,6 +1,6 @@
 ---
 title: "زمانے میں کوئی ہو نفسِ پیغمبر تو ہم جانیں"
-alternateTitle: "Zamane Mein Koi Ho"
+alternateTitle: "Zamane Meiṅ Koi Ho"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zamane mein koi ho nafs-e-Paighambar to hum jaaneṅ
+  Zamane meiṅ koi ho nafs-e-Paighambar to hum jaaneṅ
   Ali ki baat kya ho le koi Qambar to hum jaaneṅ
 
   1
@@ -19,7 +19,7 @@ romanLyrics: |-
   Dikhaye raah-e-haq de ke apna sar to hum jaaneṅ
 
   2
-  Baghair-e-hubb-e-Haidar jo Nabi ke ishq mein dube
+  Baghair-e-hubb-e-Haidar jo Nabi ke ishq meiṅ dube
   Nikal kar hum ko dikhlaye lab-e-Kausar to hum jaaneṅ
 
   3

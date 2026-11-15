@@ -28,27 +28,27 @@ romanLyrics: |-
   Kehne laga wo sar se ye ba girya o zaari
   Ae sar bani purdard hai taqdir hamaari
   Tu naize pe Quraan suna ta jo chala tha
-  Ghoroṅ ne mujhe dasht mein paamaal kiya tha
+  Ghoroṅ ne mujhe dasht meiṅ paamaal kiya tha
 
   2
   Jalti hui reti ne mujhe dhaaṅpna chaaha
   Mujh par par-e-Jibril bhi karne laga saaya
   Suraj ne tamaazat ko bahut apni ghataaya
   Par Naana ki ummat ne kafan bhi na urhaaya
-  Main khaak pe jalta raha roti rahi Zehra
+  Maiṅ khaak pe jalta raha roti rahi Zehra
   Sadqe mere is haal pe hoti rahi Zehra
 
   3
-  Tiroṅ pe muallaq tha kahaaṅ main tha zamiṅ par
+  Tiroṅ pe muallaq tha kahaaṅ maiṅ tha zamiṅ par
   Ghurbat pe meri tarpa bahut laasha-e-Akbar
-  Phir baad mein wo tir hue sine se baahar
+  Phir baad meiṅ wo tir hue sine se baahar
   Achchha hua us waqt na thi sine pe dukhtar
   Sab tir guzar jaate Sakina ke badan se
   Gir jaata falak farsh pe is ranj o mihan se
 
   4
-  Sab qaafila rukhsat hua main reh gaya tanha
-  Phir jashn-e-safar dasht mein karne lage aada
+  Sab qaafila rukhsat hua maiṅ reh gaya tanha
+  Phir jashn-e-safar dasht meiṅ karne lage aada
   Abbas ka laasha jo para tha lab-e-darya
   Wo bhi meri mazlumi pe khud nauha kunaaṅ tha
   Is jism pe ae farq-e-jafa baad-e-qaza thi
@@ -56,7 +56,7 @@ romanLyrics: |-
 
   5
   Ye sun ke sar-e-Shaah se khuṅ ho gaya jaari
-  Lab hilne lage dasht mein larza hua taari
+  Lab hilne lage dasht meiṅ larza hua taari
   Sar bola na sun paaega rudaad hamaari
   Wo raah-e-musibat bari mushkil se guzaari
   Manzar wo alamnaak meri aaṅkhoṅ ne dekhe
@@ -66,31 +66,31 @@ romanLyrics: |-
   Zainab ke khule sar pe baraste rahe patthar
   Thi zad pe tamaachoṅ ke Sakina meri dukhtar
   Sajjad pe durroṅ ki thi barsaat baraabar
-  Barhta tha sitam aur jo main kehta tha ro kar
+  Barhta tha sitam aur jo maiṅ kehta tha ro kar
   Ae zaalimoṅ dekho meri bachchi ko na maaro
   Kuchh der ko Sajjad ka ye tauq utaaro
 
   7
-  Rakha gaya jis waqt mujhe tasht-e-tala mein
-  Sar nange haram aae the darbaar-e-jafa mein
-  Kuffaar ki sab aurateṅ baithi thi rida mein
-  Beparda behen meri thi darbaar-e-bala mein
+  Rakha gaya jis waqt mujhe tasht-e-tala meiṅ
+  Sar nange haram aae the darbaar-e-jafa meiṅ
+  Kuffaar ki sab aurateṅ baithi thi rida meiṅ
+  Beparda behen meri thi darbaar-e-bala meiṅ
   Dandaaṅ pe chhari maar ke zaalim ye pukaara
   Aawaaz do kiuṅ aata nahiṅ sher Khuda ka
 
   8
-  Dam torte main ne to Sakina ko hai dekha
-  Zindaan mein marqad meri bachchi ka bana tha
+  Dam torte maiṅ ne to Sakina ko hai dekha
+  Zindaan meiṅ marqad meri bachchi ka bana tha
   Kuchh ghusl o kafan bhi nahiṅ paaya tha us ka
   Chipka jo badan se to utarta na tha kurta
-  Aaṅkhoṅ mein meri ye jo lahu dekh raha hai
+  Aaṅkhoṅ meiṅ meri ye jo lahu dekh raha hai
   Ye haal Sakina ke janaaze pe hua hai
 
   9
-  Ye guftugu sar aur badan mein jo hui thi
+  Ye guftugu sar aur badan meiṅ jo hui thi
   Karbal ki zamiṅ aur faza kaaṅp rahi thi
   Rudaad-e-sitam jism pe aur sar pe likhi thi
-  Godi mein liye sar jo khari bint-e-Ali thi
+  Godi meiṅ liye sar jo khari bint-e-Ali thi
   Ae Shams wo laashe jo sar-e-dasht pare the
   Aamir wo gham o ranj se sab kaaṅp rahe the
 # source_id: nohayonline:b01a9611a730918245d3

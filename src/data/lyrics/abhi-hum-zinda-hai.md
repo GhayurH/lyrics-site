@@ -11,11 +11,11 @@ aliases: []
 published: true
 reciter: "Safdar Abbas"
 romanLyrics: |-
-  Uncha rahega alam sine mein hai jab tak hai dam
+  Uncha rahega alam sine meiṅ hai jab tak hai dam
   Karb o Bala ki qasam zinda rahega ye gham
-  Pehre mein mukhtaar hai haq ke tarafdaar hai
+  Pehre meiṅ mukhtaar hai haq ke tarafdaar hai
   Gham ke talabgaar hai hum to azadar haiṅ
-  Jab talak saans mein hai saans azadari rahegi
+  Jab talak saans meiṅ hai saans azadari rahegi
   Dil azadaar rahega har azadaar kahega
   Kaise jhukega Hazrat-e-Abbas ka alam
   Kaise rukega Hazrat-e-Shabbir ka matam
@@ -31,10 +31,10 @@ romanLyrics: |-
 
   2
   Qadam qadam pe ye farsh-e-aza bichhaeṅge hum
-  Gham-e-Husain to har haal mein manaeṅge hum
-  Gali gali mein charagh-e-aza jalaeṅge hum
+  Gham-e-Husain to har haal meiṅ manaeṅge hum
+  Gali gali meiṅ charagh-e-aza jalaeṅge hum
   Nazre Yazid Hazrat-e-Shabbir ki qasam
-  Tera mita ke jaaeṅge hum khaak mein bharam
+  Tera mita ke jaaeṅge hum khaak meiṅ bharam
 
   3
   Hawa ke rukh ko badal deṅge hum Khuda ki qasam
@@ -49,7 +49,7 @@ romanLyrics: |-
   Ya Ali adrikni Ya Ali adrikni
   Ta qayamat kaheṅge hum
   Hil jaaega zamana laraz jaaeṅge qadam
-  Gunjeṅge jab fazaoṅ mein awaaz hama dam
+  Gunjeṅge jab fazaoṅ meiṅ awaaz hama dam
 
   5
   Hamari haami o nasir Khuda ki zaat bhi hai
@@ -60,7 +60,7 @@ romanLyrics: |-
 
   6
   Siwae Asghar-e-beshir jab koi na raha
-  Gharib dasht mein hal min ki de raha tha sada
+  Gharib dasht meiṅ hal min ki de raha tha sada
   Tarap ke reh gaya har ek shahid-e-rah-e-wafa
   Maujud hum nahiṅ the wahaṅ ae Shah-e-umam
   De ab tu istighasa to Labbaik kaheṅ hum
@@ -77,7 +77,7 @@ romanLyrics: |-
   Hum lene aa rahe haiṅ shahidoṅ ka inteqam
   Haae Husainiyat ke safiroṅ tumheiṅ salam
   Rah-e-Khuda ke saare shahidoṅ tumheiṅ salaam
-  Shaamil meri dua mein meri tumhara hi naam hai
+  Shaamil meri dua meiṅ meri tumhara hi naam hai
   Tum sab ke waalidain pe mera salaam hai
   Ae azadaroṅ utho maut se tum na daro
   Baandh lo sar se kafan in Yazidoṅ se kaho

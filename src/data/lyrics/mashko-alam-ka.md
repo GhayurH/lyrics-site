@@ -27,7 +27,7 @@ romanLyrics: |-
 
   3
   Isaar hai wafa hai murawwat hai sabr hai
-  Barsega Karbala mein jo khul kar wo abr hai
+  Barsega Karbala meiṅ jo khul kar wo abr hai
   Shaan o shikoh-e-Jafar-e-Tayyaar ki qasam
   Hamza se bemisaal jigar daar ki qasam
 
@@ -46,8 +46,8 @@ romanLyrics: |-
   6
   Neki ka hai ye kaam to ujlat ghazab ki hai
   Pyase rahe jo khud ye karaamat nasab ki hai
-  Bhai ke gham mein tha jo Muhammad ka nur-e-ain
-  Aankhoṅ mein ashk-e-gham the to sukhe laboṅ pe bain
+  Bhai ke gham meiṅ tha jo Muhammad ka nur-e-ain
+  Aankhoṅ meiṅ ashk-e-gham the to sukhe laboṅ pe bain
 
   7
   Rote the is taraf to shahanshaah-e-mashriqain

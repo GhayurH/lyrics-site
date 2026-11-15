@@ -26,19 +26,19 @@ romanLyrics: |-
   2
   Tera gehwaara para hai khaali
   Loriyaaṅ de ke sulaane waali
-  Yaad mein teri tadapti hai ye maaṅ
+  Yaad meiṅ teri tarapti hai ye maaṅ
   Ae mere tashna dahaaṅ
 
   3
-  Khaak mein khud ko mila kar ye kaha
+  Khaak meiṅ khud ko mila kar ye kaha
   Raakh jhule ki ura kar ye kaha
   Aise bikhre na kisi ke armaaṅ
   Ae mere tashna dahaaṅ
 
   4
-  God mein tujh ko humakna tha abhi
+  God meiṅ tujh ko humakna tha abhi
   Ghutniyoṅ chal ke chehekna tha abhi
-  Thi ye chaahat tujhe dekhuṅ main jawaaṅ
+  Thi ye chaahat tujhe dekhuṅ maiṅ jawaaṅ
   Ae mere tashna dahaaṅ
 
   5
@@ -48,14 +48,14 @@ romanLyrics: |-
   Ae mere tashna dahaaṅ
 
   6
-  Dekh Sughra ne likha hai khat mein
-  Mar na jaaye wo kahiṅ furqat mein
+  Dekh Sughra ne likha hai khat meiṅ
+  Mar na jaaye wo kahiṅ furqat meiṅ
   Wo ye kehti hai ke Asghar ho kahaaṅ
   Ae mere tashna dahaaṅ
 
   7
   Apni bakhshish ki dua karta huṅ
-  Main Hasan us se wafa karta huṅ
+  Maiṅ Hasan us se wafa karta huṅ
   Kat gayi khushk jo nanhi si zabaaṅ
   Ae mere tashna dahaaṅ
 # source_id: nohayonline:8029bd3a8332753db0f2

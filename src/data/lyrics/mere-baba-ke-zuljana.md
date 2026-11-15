@@ -11,10 +11,10 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Jab Karbobala mein sar-e-Shabbir kata
+  Jab Karbobala meiṅ sar-e-Shabbir kata
   Zuljanaah-e-Shah-e-waala bhi buka karta raha
   Us ke bhi tir lage baah kati zin dhala
-  Aise aalam mein su-e-khaima-e-Shabbir chala
+  Aise aalam meiṅ su-e-khaima-e-Shabbir chala
   Dekh kar us ko Sakina bhi fughaaṅ karne lagi
   Haye baag ghore ki pakar kar ye bayaaṅ karne lagi
 
@@ -25,25 +25,25 @@ romanLyrics: |-
   2
   Kar yaad ke samjhaaya tha tujh ko dam-e-rukhsat
   Khaa jaaye gi is dil ko mere baap ki furqat
-  Main roti rahi aur kiya tu ne safar
+  Maiṅ roti rahi aur kiya tu ne safar
 
   3
   Kehte the tujhe baba mere asme wafaadaar
   Ye kaisi wafa tu ne dikhaai mere ghamkhwaar
-  Chhor aaya unheṅ dasht-e-bala mein kiuṅ kar
+  Chhor aaya unheṅ dasht-e-bala meiṅ kiuṅ kar
 
   4
-  Ye dekh mere baaloṅ mein hai khaak-e-yatimi
+  Ye dekh mere baaloṅ meiṅ hai khaak-e-yatimi
   Ab sine pe har saaṅs bhi dushwaar hai meri
-  Aankhoṅ mein meri dekh zara gham ka asar
+  Aankhoṅ meiṅ meri dekh zara gham ka asar
 
   5
-  Main roti rahi aur tujhe taras na aaya
+  Maiṅ roti rahi aur tujhe taras na aaya
   Le dekh mere sar se utha baap ka saaya
   Sine pe mujhe kaun sulaaye ga magar
 
   6
-  Ye khaak-e-bayaabaaṅ bani mera muqaddar
+  Ye khaak-e-bayaabaan bani mera muqaddar
   Ab chhin ke le jaayeṅ ge bunde ye sitamgar
   Hai daagh-e-yatimi hi asiri ki khabar
 
@@ -60,7 +60,7 @@ romanLyrics: |-
   9
   Ae Shadmaaṅ Mazhar bhi likhe kaise wo manzar
   Dam tora qalam ne bhi isi baat ko likh kar
-  Baba jo nahiṅ hai to jiyuṅ main kiun kar
+  Baba jo nahiṅ hai to jiyuṅ maiṅ kiun kar
 # source_id: nohayonline:d6ddc8d6f82ed8442625
 # source_url: https://www.nohayonline.com/details_content.php?id=1059
 # raw_sha256: 59fc64aad4b3acd48b201b049b70e041c555ac9cd4db206400dbe9dc1efb6223

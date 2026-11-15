@@ -14,10 +14,10 @@ romanLyrics: |-
   Din tha Aashur ka Shabbir pe tanhaai thi
   Har taraf girya o maatam ki ghata chhaai thi
   Ik baaraat kisi dulha ki wahaaṅ se guzri
-  Naam naushaah ka mahzar mein tha Wehab-e-Kalbi
+  Naam naushaah ka mahzar meiṅ tha Wehab-e-Kalbi
 
   1
-  Ruk gaya dasht mein ik saaneha aisa dekha
+  Ruk gaya dasht meiṅ ik saaneha aisa dekha
   Haath se kangna gira sar se zamin par sehra
   Wehab-e-Kalbi ne kaha kis ke haiṅ farzand janaab
   Bole Shabbir haiṅ Khaatun-e-jinaaṅ maaṅ ka khitaab
@@ -30,7 +30,7 @@ romanLyrics: |-
 
   3
   Sheh ne farmaaya urusi ka hai jora tan par
-  Ik dulha ke to main ro chuka tukre chun kar
+  Ik dulha ke to maiṅ ro chuka tukre chun kar
 
   4
   Mera farzand jawaaṅ haaye wo mera Akbar
@@ -40,7 +40,7 @@ romanLyrics: |-
 
   5
   Wehab-e-Kalbi ne kaha mujh ko hai hukm-e-maadar
-  Jaa mere laal tu maidaan mein dulha ban kar
+  Jaa mere laal tu maidaan meiṅ dulha ban kar
 
   6
   Tera shehbaala hai farzand-e-Rabaab-e-muztar
@@ -53,20 +53,20 @@ romanLyrics: |-
   Le baaraat ko tu apni nikal jaa jaldi
 
   8
-  Uthne waali hai abhi dasht-e-bala mein aandhi
+  Uthne waali hai abhi dasht-e-bala meiṅ aandhi
   Mera Allah mubaarak kare tujh ko shaadi
-  Main teri laash pe rouṅ mujhe manzur nahiṅ
-  Aal-e-Imraan huṅ main ye mera dastur nahiṅ
+  Maiṅ teri laash pe rouṅ mujhe manzur nahiṅ
+  Aal-e-Imraan huṅ maiṅ ye mera dastur nahiṅ
 
   9
   Wehab kehne laga Imraan ke imaan ki qasam
   Ab meri raah-e-shahaadat se na palteṅge qadam
 
   10
-  Aap ko chhor ke is dasht mein ya Shaah-e-Umam
+  Aap ko chhor ke is dasht meiṅ ya Shaah-e-Umam
   Laut jaauṅ to khafa hoṅge Rasul-e-Akram
-  Parh liya kalma-e-tauhid musalmaaṅ huṅ main
-  Aap ki ghurbat o mazlumi pe qurbaan huṅ main
+  Parh liya kalma-e-tauhid musalmaaṅ huṅ maiṅ
+  Aap ki ghurbat o mazlumi pe qurbaaṅ huṅ maiṅ
 
   11
   Jazba-e-shauq-e-shahaadat pe Husain ibn-e-Ali
@@ -75,12 +75,12 @@ romanLyrics: |-
   12
   Muntazir hai dar-e-jannat pe tere haq ke Nabi
   Tere baaraati bhi tu bhi hai muqaddar ka dhani
-  Meri nusrat mein agar sar tera kat jaayega
-  Mujh se pehle bhi tu jannat mein chala jaayega
+  Meri nusrat meiṅ agar sar tera kat jaayega
+  Mujh se pehle bhi tu jannat meiṅ chala jaayega
 
   13
   Wehab-e-Kalbi ne kaha khuld nahiṅ hai darkaar
-  Khuld to aap ke qadmoṅ mein pari hai sarkaar
+  Khuld to aap ke qadmoṅ meiṅ pari hai sarkaar
 
   14
   Aap raazi haiṅ to jannat ki talab hai bekaar
@@ -89,10 +89,10 @@ romanLyrics: |-
   Wehab-e-Kalbi ka watan aaj se hai Karb o Bala
 
   15
-  Mil gaya izn-e-wagha ran mein qayaamat aayi
+  Mil gaya izn-e-wagha ran meiṅ qayaamat aayi
   Jaun aur Hur ki tarah us ne shahaadat paayi
   Sheh pukaare mera maara gaya ek aur bhaai
-  Ghar mein Zainab ne udhar farsh-e-aza bichhwaai
+  Ghar meiṅ Zainab ne udhar farsh-e-aza bichhwaai
   Shiddat-e-gham se chacha keh ke Sakina royi
   Bola shehzaadi na rona laasha-e-Wehab-e-Kalbi
 

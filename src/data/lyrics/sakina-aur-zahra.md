@@ -17,7 +17,7 @@ romanLyrics: |-
   1
   Wahaaṅ bint-e-Rasul Allah ka pehlu shikasta hai
   Yahaaṅ bachchi ke kaanoṅ se abhi bhi khun rista hai
-  Lahad mein jaa ke bhi donoṅ ki ghurbat ek jaisi hai
+  Lahad meiṅ jaa ke bhi donoṅ ki ghurbat ek jaisi hai
 
   2
   Wahaaṅ Kunfuz ke haathoṅ ne koi tahrir likhi hai
@@ -25,8 +25,8 @@ romanLyrics: |-
   Likhi donoṅ ke chehroṅ par ibaarat ek jaisi hai
 
   3
-  Gayi ek ek dar par Fatima shehr-e-Madina mein
-  Sakina dar badar phirti rahi hai Shaam o Kufa mein
+  Gayi ek ek dar par Fatima shehr-e-Madina meiṅ
+  Sakina dar badar phirti rahi hai Shaam o Kufa meiṅ
   Wilaayat ke liye in ki musaafat ek jaisi hai
 
   4
@@ -37,7 +37,7 @@ romanLyrics: |-
   5
   Use kehte the Yasrab waale roye shehr se baahar
   Tamaache maarte the Shaam waale is ko rone par
-  Diloṅ mein baap ko rone ki hasrat ek jaisi hai
+  Diloṅ meiṅ baap ko rone ki hasrat ek jaisi hai
 
   6
   Sitamgar ke tamaache ki na jaane kaisi zarbat hai
@@ -50,7 +50,7 @@ romanLyrics: |-
   Imaamat ke liye donoṅ ki mehnat ek jaisi hai
 
   8
-  Mita dena nishaan-e-qabr mayyat qabr mein rakh kar
+  Mita dena nishaan-e-qabr mayyat qabr meiṅ rakh kar
   Wilaayat ka koi munkir nahiṅ aaye janaaze par
   Imam-e-waqt se un ki wasiyyat ek jaisi hai
 

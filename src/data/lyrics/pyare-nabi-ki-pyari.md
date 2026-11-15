@@ -36,7 +36,7 @@ romanLyrics: |-
 
   4
   Jis ki kanizeṅ nikleṅ na baahar
-  Balwe mein laaye us ko sitamgar
+  Balwe meiṅ laaye us ko sitamgar
   Haye ye ghurbat bint-e-Ali ki
   Shaam ko qaidi ban ke chali hai
 

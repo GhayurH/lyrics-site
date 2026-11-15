@@ -13,7 +13,7 @@ romanLyrics: |-
   Ghurur-e-fauj-e-sitamgar ko tor sakta huṅ
   Rukh-e-Furaat nigaahoṅ se mor sakta huṅ
   Ali ka beta huṅ mojiz numaaiyoṅ ki qasam
-  Main aaftaab se paani nichor sakta huṅ
+  Maiṅ aaftaab se paani nichor sakta huṅ
 
   Mera Abbas Ghazi Abbas
 
@@ -26,10 +26,10 @@ romanLyrics: |-
   Kat gaye haath alam din ka jhukne na diya
 
   2
-  Main jo ijaaz dikhaauṅ to ye naqsha badle
+  Maiṅ jo ijaaz dikhaauṅ to ye naqsha badle
   Arsh pe fasl uge farsh pe suraj nikle
   Nehr se gard urhe sang se chashma phute
-  Aag paani mein lage aag se paani nikle
+  Aag paani meiṅ lage aag se paani nikle
   Ghur ke dekhuṅ to tum sab pe mamaat aa jaaye
   Mere tute huwe naize pe Furaat aa jaaye
 
@@ -38,23 +38,23 @@ romanLyrics: |-
   Meri haibat se sabhi jinn o bashar kaampte haiṅ
   Tum to kya chiz ho sheroṅ ke jigar kaampte haiṅ
   Maut se pehle hi ajsaam ke sar kaampte haiṅ
-  Main ne talwaar jo ek baar chalaai hoti
-  Saari dunya mein duhaai hi duhaai hoti
+  Maiṅ ne talwaar jo ek baar chalaai hoti
+  Saari dunya meiṅ duhaai hi duhaai hoti
 
   4
   Jang-e-Siffain ka maahaul dobaara ho jaaye
-  Khench luṅ tegh to dunya mein sawera ho jaaye
+  Khench luṅ tegh to dunya meiṅ sawera ho jaaye
   Alqama ko jo mera ek ishaara ho jaaye
   Khaima-e-Shaah hi darya ka kinaara ho jaaye
   Khatm pyaasoṅ ki abhi tashna dahaani kar duṅ
-  Main agar chaahuṅ pahaaroṅ ko bhi paani kar duṅ
+  Maiṅ agar chaahuṅ pahaaroṅ ko bhi paani kar duṅ
 
   5
   Pure maqtal ko ek ungli pe nacha sakta huṅ
   Tum jo mar jaao to thokar se jila sakta huṅ
-  Aag behte huwe paani mein laga sakta huṅ
+  Aag behte huwe paani meiṅ laga sakta huṅ
   Tum ko ab ruh ke ishaare se bhaga sakta huṅ
-  Haath katne pe bhi larne se main maazur nahiṅ
+  Haath katne pe bhi larne se maiṅ maazur nahiṅ
   Hukm-e-Shabbir ka paaband huṅ majbur nahiṅ
 
   6
@@ -76,8 +76,8 @@ romanLyrics: |-
   8
   Ro ke Shabbir pukaare mere bhaiya Abbas
   Mere ghamkhwaar mere aashiq o shaida Abbas
-  Mujh ko paani to pila do main huṅ pyaasa Abbas
-  Main gira jaata huṅ do mujh ko sahaara Abbas
+  Mujh ko paani to pila do maiṅ huṅ pyaasa Abbas
+  Maiṅ gira jaata huṅ do mujh ko sahaara Abbas
   Khaima-e-Fatema Zehra ki sipar tut gayi
   Haath bhaai ke kate meri kamar tut gayi
 # source_id: nohayonline:af0d96c8a1d57d552144

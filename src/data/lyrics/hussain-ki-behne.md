@@ -36,8 +36,8 @@ romanLyrics: |-
 
   5
   Bana ke zaad-e-safar nur-e-ain ka chehra
-  Tasavvuraat mein bhaiya Husain ka chehra
-  Safar mein jaati hai le kar Husain ki behneṅ
+  Tasavvuraat meiṅ bhaiya Husain ka chehra
+  Safar meiṅ jaati hai le kar Husain ki behneṅ
 
   6
   Kabhi to sar kabhi rukhsaar pit leti hai
@@ -45,7 +45,7 @@ romanLyrics: |-
   Lahad pe khud ko gira kar Husain ki behneṅ
 
   7
-  Bani Asad ke qabile mein aah o zaari hai
+  Bani Asad ke qabile meiṅ aah o zaari hai
   Har ek zabaan pe besaakhta ye jaari hai
   Madine jaati hai lut kar Husain ki behneṅ
 

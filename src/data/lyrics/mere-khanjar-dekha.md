@@ -22,7 +22,7 @@ romanLyrics: |-
   2
   Mere rone pe khushi se wo laiṅ hansta raha
   Kund khanjar se mera sar wo zibh karta raha
-  Shimr ke haathoṅ mein Zainab ne mera sar dekha
+  Shimr ke haathoṅ meiṅ Zainab ne mera sar dekha
 
   3
   Kahiṅ se tir koi naize kahiṅ se bhaale
@@ -35,9 +35,9 @@ romanLyrics: |-
   Ek ek zulm ko khaahar ne tarap kar dekha
 
   5
-  Dhundte dhundte maqtal mein jo aayi Zainab
+  Dhundte dhundte maqtal meiṅ jo aayi Zainab
   Sab ke laashoṅ ke darmiyaaṅ gir gayi Zainab
-  Mere nazdik mein jab laasha-e-Akbar dekha
+  Mere nazdik meiṅ jab laasha-e-Akbar dekha
 
   6
   Akhtari naize pe jab aa gaye Saqqa-e-haram

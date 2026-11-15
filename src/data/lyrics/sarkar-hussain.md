@@ -1,6 +1,6 @@
 ---
 title: "مرحبا یا حسین"
-alternateTitle: "Sarkar Hussain"
+alternateTitle: "Sarkar Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -26,14 +26,14 @@ romanLyrics: |-
   Shabbir tera maatam Ahmad ka iraada hai
   Shabbir tera nauha momin ko rulaata hai
   Shabbir teri majlis hum sab ka sahaara hai
-  Har dil mein tu rehta hai ye dil ne pukaara hai
+  Har dil meiṅ tu rehta hai ye dil ne pukaara hai
   Sarkaar Husain Maula sarkaar Husain Maula
   Sultan Husain Maula sarkaar Husain Maula
 
   2
   Kya hoti hai qurbaani ye sab ko dikhaane ko
   Sar apna diya tu ne tauhid bachaane ko
-  Ghar baar lutaaya hai din us ka basaane ko
+  Ghar baar lutaaya hai diṅ us ka basaane ko
   Kehte haiṅ kise saabir ye tu ne bataaya hai
   Sarkaar Husain Maula sarkaar Husain Maula
   Sultan Husain Maula sarkaar Husain Maula
@@ -55,9 +55,9 @@ romanLyrics: |-
   Sultan Husain Maula sarkaar Husain Maula
 
   5
-  Yaad-e-gham-e-Zainab mein chalna hai julusoṅ mein
-  Ashkoṅ ka bhi nazraana dena hai julusoṅ mein
-  Maqsad gham-e-Sarwar ka parhna hai julusoṅ mein
+  Yaad-e-gham-e-Zainab meiṅ chalna hai julusoṅ meiṅ
+  Ashkoṅ ka bhi nazraana dena hai julusoṅ meiṅ
+  Maqsad gham-e-Sarwar ka parhna hai julusoṅ meiṅ
   Ye jaan bhale jaaye is gham ko bachaana hai
   Sarkaar Husain Maula sarkaar Husain Maula
   Sultan Husain Maula sarkaar Husain Maula

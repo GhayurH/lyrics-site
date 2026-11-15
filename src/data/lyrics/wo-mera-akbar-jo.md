@@ -14,9 +14,9 @@ romanLyrics: |-
   So gaye sine pe barchhi khaa ke ab karyal jawaaṅ
   Umm-e-Laila ab Ali Akbar ko paayegi kahaaṅ
   Dekhti hai jab jawaanoṅ ko gale milte hue
-  Ro ke kehti hai ajab hum Karbala mein lut gaye
-  Main kaise dulha banaauṅ khaak mein sehra liye
-  Ji na paauṅgi main naujawaaṅ ko bhul ke
+  Ro ke kehti hai ajab hum Karbala meiṅ lut gaye
+  Maiṅ kaise dulha banaauṅ khaak meiṅ sehra liye
+  Ji na paauṅgi maiṅ naujawaaṅ ko bhul ke
 
   1
   Wo mera Akbar jo tha shaadi se pehle mar gaya
@@ -24,16 +24,16 @@ romanLyrics: |-
 
   2
   Kis tarah dekhuṅ jawaanoṅ ko gale milte hue
-  Ji na paauṅgi main apne jawaaṅ ko bhul ke
+  Ji na paauṅgi maiṅ apne jawaaṅ ko bhul ke
   Dekh kar saaya bhi lagta hai ke Akbar hai mera
 
   3
-  Main ne athaarah baras paala tha mere laal ko
-  Dil mein hasrat thi ke Akbar sar pe sehra baandh lo
-  Ek ghari aai ke ek neza jigar mein lag gaya
+  Maiṅ ne athaarah baras paala tha mere laal ko
+  Dil meiṅ hasrat thi ke Akbar sar pe sehra baandh lo
+  Ek ghari aai ke ek neza jigar meiṅ lag gaya
 
   4
-  Haaye neze ki ani pahunchi kaleje mein junhi
+  Haaye neze ki ani pahunchi kaleje meiṅ junhi
   Maut ki hichki mere farzand ko aane lagi
   Baap ne neza jo khencha dam pisar ka uth gaya
 
@@ -43,14 +43,14 @@ romanLyrics: |-
   Jis ka athaarah baras ka laadla ab na raha
 
   6
-  Main ne socha tha ke shaadi hogi mere laal ki
+  Maiṅ ne socha tha ke shaadi hogi mere laal ki
   Fatima Sughra rahegi aur Sakina bhi meri
   Haaye us ka jism paamaal-e-sum-e-aspa hua
 
   7
-  Dasht mein farzand ki baraat thi aise saji
+  Dasht meiṅ farzand ki baraat thi aise saji
   Haaye ek naazuk kaleja aur neze ki ani
-  Us ka laasha main ne dekha khun mein duba hua
+  Us ka laasha maiṅ ne dekha khun meiṅ duba hua
 
   8
   Khun ne haathoṅ pe mehndi ki jagah chhori nahiṅ
@@ -59,7 +59,7 @@ romanLyrics: |-
 
   9
   Ho bayaaṅ kaise Mubaarak Umm-e-Laila ka bayaaṅ
-  Karbala mein Shaam o Kufa mein Madine mein fughaaṅ
+  Karbala meiṅ Shaam o Kufa meiṅ Madine meiṅ fughaaṅ
   Puchha jab Rehaaṅ kisi ne ro ke maadar ne kaha
 # source_id: nohayonline:149a318060f696736ade
 # source_url: https://www.nohayonline.com/details_content.php?id=794

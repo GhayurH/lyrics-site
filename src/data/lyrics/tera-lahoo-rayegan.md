@@ -16,10 +16,10 @@ romanLyrics: |-
 
   1
   Har ek zabaaṅ pe tera zikr-e-paak hi hoga
-  Jahaaṅ mein dekhna ek waqt wo bhi aayega
+  Jahaaṅ meiṅ dekhna ek waqt wo bhi aayega
 
   2
-  Tujhe zamaane mein apne paraaye royeṅge
+  Tujhe zamaane meiṅ apne paraaye royeṅge
   Sajjad teri wo mazlumiyat bataayega
 
   3
@@ -31,8 +31,8 @@ romanLyrics: |-
   Na tujh pe baaghi ki tohmat koi lagaayega
 
   5
-  Sajjad zinda rahega jahaaṅ mein jab tak
-  Ameer aaṅsu lahu ke hi wo bahaayega
+  Sajjad zinda rahega jahaaṅ meiṅ jab tak
+  Amir aaṅsu lahu ke hi wo bahaayega
 # source_id: nohayonline:3128026f4fea62c44cdb
 # source_url: https://www.nohayonline.com/details_content.php?id=3499
 # raw_sha256: 3b405e14ed28a47b2f18137123f0f8f090bd01b40becaceb089ddc8416fcb0b4

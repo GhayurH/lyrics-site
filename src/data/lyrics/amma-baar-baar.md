@@ -11,41 +11,41 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zindan-e-Shaam mein jahaaṅ Bibi ka hai mazaar
+  Zindan-e-Shaam meiṅ jahaaṅ Bibi ka hai mazaar
   Raatoṅ ko dhimi dhimi si aati hai ek pukaar
   Kaanoṅ se mere khun abhi bhi tapakta hai
   Amma baar baar gala mera dukhta hai
   Uthtiṅ haiṅ jab bhi aap mera saans rukta hai
 
   1
-  Soyi nahiṅ huṅ Shaam-e-gharibaaṅ ke baad main
-  Ab kya jiyuṅ gi Shaam ke zindaaṅ ke baad main
-  Be aas ab huṅ Shaah-e-shahidaaṅ ke baad main
+  Soyi nahiṅ huṅ Shaam-e-gharibaaṅ ke baad maiṅ
+  Ab kya jiyuṅ gi Shaam ke zindaaṅ ke baad maiṅ
+  Beaas ab huṅ Shaah-e-shahidaaṅ ke baad maiṅ
   Saaya ajal ka amma mere saath chalta hai
 
   2
   Kaanoṅ ka khun aankhoṅ ke aansu se mil gaya
   Har zakhm phul ban ke badan par hai khil gaya
   Baba ko dhund laao ke sine se dil gaya
-  Bejaan mere jism mein kiuṅ dil dharakta hai
+  Bejaan mere jism meiṅ kiuṅ dil dharakta hai
 
   3
-  Ae amma jab se Baba se main dur ho gayi
+  Ae amma jab se Baba se maiṅ dur ho gayi
   Ye zindagi mere liye naasur ho gayi
   Par kya karuṅ nasib se majbur ho gayi
-  Hijr-e-padar se sine mein ek dard uthta hai
+  Hijr-e-padar se sine meiṅ ek dard uthta hai
 
   4
-  Kaante pare haiṅ halq mein ae amma pyaas se
+  Kaante pare haiṅ halq meiṅ ae amma pyaas se
   Darti huṅ jhonka guzre hawa ka jo paas se
   Nind ur gayi hai aankhoṅ se khauf o hiraas se
   Rone pe mere Shimr-e-laiṅ kiuṅ jhirakta hai
 
   5
-  Asghar ke baad paani piyuṅ main nahiṅ nahiṅ
-  Ammuṅ ke baad zinda rahuṅ main nahiṅ nahiṅ
-  Faryaad kuch shaqi se karuṅ main nahiṅ nahiṅ
-  Paani mein aks-e-chehra-e-Asghar jhalakta hai
+  Asghar ke baad paani piyuṅ maiṅ nahiṅ nahiṅ
+  Ammuṅ ke baad zinda rahuṅ maiṅ nahiṅ nahiṅ
+  Faryaad kuch shaqi se karuṅ maiṅ nahiṅ nahiṅ
+  Paani meiṅ aks-e-chehra-e-Asghar jhalakta hai
 
   6
   Lagta hai qaid-e-jaaṅ se rihaai qarib hai
@@ -54,7 +54,7 @@ romanLyrics: |-
   Daaman to jal chuka hai mera dil sulagta hai
 
   7
-  Kaunain mein ye kaisa hai qaanun puchhiye
+  Kaunain meiṅ ye kaisa hai qaanun puchhiye
   Marne ke baad mujh ko rihaai nahiṅ mile
   Ye kaisi qaid hai ke lahad bhi yahiṅ bane
   Qaidi kabhi to qaid se ghar ko palatta hai
@@ -63,11 +63,11 @@ romanLyrics: |-
   Amma rihaai paa ke watan tum to jaao gi
   Sughra meri behan ko gale se lagaao gi
   Puchhe gi jab mujhe to use kya bataao gi
-  Reh reh ke ek sawaal mere dil mein uthta hai
+  Reh reh ke ek sawaal mere dil meiṅ uthta hai
 
   9
-  Jaao Nadeem Sarwar o Rehaan ek baar
-  Zindan-e-Shaam mein jahaaṅ Bibi ka hai mazaar
+  Jaao Nadim Sarwar o Rehaan ek baar
+  Zindan-e-Shaam meiṅ jahaaṅ Bibi ka hai mazaar
   Raatoṅ ko dhimi dhimi si aati hai ek pukaar
   Kaanoṅ se mere khun abhi bhi tapakta hai
 # source_id: nohayonline:6f12ff7bddfe217e229e

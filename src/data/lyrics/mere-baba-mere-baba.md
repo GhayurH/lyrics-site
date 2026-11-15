@@ -39,7 +39,7 @@ romanLyrics: |-
 
   6
   Baad-e-Shabbir hamaara koi waaris na raha
-  Ashqiya aa gaye khaimoṅ mein hua hashr bapa
+  Ashqiya aa gaye khaimoṅ meiṅ hua hashr bapa
   Jab chhini meri rida aap kahaaṅ the baba
 
   7
@@ -53,13 +53,13 @@ romanLyrics: |-
   Dil magar kehta raha aap kahaaṅ the baba
 
   9
-  Main to har gaam pe tha saath tumhaare beti
+  Maiṅ to har gaam pe tha saath tumhaare beti
   Chup tha bas marzi-e-maabud ke maare beti
   Tum ne ye kaise kaha aap kahaaṅ the baba
 
   10
   Jab kabhi chashm-e-tasavvur se ye Shabbar dekha
-  Baap ko girya mein beti ke barabar dekha
+  Baap ko girya meiṅ beti ke barabar dekha
   Haye kaisa tha gila aap kahaaṅ the baba
 # source_id: nohayonline:0565e4274a7b9e29c7c0
 # source_url: https://www.nohayonline.com/details_content.php?id=120

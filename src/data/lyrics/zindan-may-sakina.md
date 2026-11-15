@@ -11,11 +11,11 @@ tags: []
 aliases: ["Zindan May Sakina"]
 published: true
 romanLyrics: |-
-  Zindaaṅ mein Sakina ka tha noha mere baba
+  Zindaaṅ meiṅ Sakina ka tha noha mere baba
   Dasta hai mere dil ko andhera mere baba
 
   1
-  Kehne ko huṅ main Bani Hashim ki bhatiji
+  Kehne ko huṅ maiṅ Bani Hashim ki bhatiji
   Muddat se nahiṅ dekha ujaala mere baba
 
   2
@@ -23,8 +23,8 @@ romanLyrics: |-
   Kya jaaniye kab hoga savera mere baba
 
   3
-  Is sin mein judaai ka garaaṅ baar uthaauṅ
-  Laauṅ main kahaaṅ se woh kaleja mere baba
+  Is sin meiṅ judaai ka garaaṅ baar uthaauṅ
+  Laauṅ maiṅ kahaaṅ se woh kaleja mere baba
 
   4
   Daadi ki tarah tut gayi pasliyaaṅ meri
@@ -32,7 +32,7 @@ romanLyrics: |-
 
   5
   Sab log riha ho ke chale jaayeṅ ge Yasrab
-  Reh jaauṅ gi main qaid mein tanha mere baba
+  Reh jaauṅ gi maiṅ qaid meiṅ tanha mere baba
 
   6
   Kya ab mujhe dekhoge to pehchaan sakoge
@@ -48,7 +48,7 @@ romanLyrics: |-
 
   9
   Hai dil se Bilal aap ka ghamkhwaar azaadaar
-  Sadqe mein use aap ke bakhsha mere baba
+  Sadqe meiṅ use aap ke bakhsha mere baba
 # source_id: nohayonline:14b94ae345123a90794a
 # source_url: https://www.nohayonline.com/details_content.php?id=2250
 # raw_sha256: 5e7f6dff68d30cfe1045a56ca957ccfd01df74583ba4f06e516ba9bb3f62936e

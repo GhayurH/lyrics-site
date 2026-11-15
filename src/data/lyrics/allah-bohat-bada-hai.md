@@ -12,26 +12,26 @@ recitationId: "allah-bohat-bara-hai-nadeem-sarwar"
 published: true
 romanLyrics: |-
   Sab ne yehi kaha hai Allah bohat bara hai
-  Quran mein likha hai Allah bohat bara hai
+  Quran meiṅ likha hai Allah bohat bara hai
   Har had se maawara hai Allah bohat bara hai
 
   1
-  Ye mehr o maah o anjum daryaaoṅ mein talaatum
+  Ye mehr o maah o anjum daryaaoṅ meiṅ talaatum
   Chalti hui hawaayeṅ aawaaz ka tarannum
   Khush rang taairoṅ ka phaila hua tabassum
-  Tarteeb waar ghunche aise ke rashk-e-anjum
+  Tartib waar ghunche aise ke rashk-e-anjum
   Ye kun ka maujiza hai Allah bohat bara hai
 
   2
-  Mitti ke paikaroṅ mein tehreek daalta hai
+  Mitti ke paikaroṅ meiṅ tehrik daalta hai
   Su-e-falak zamiṅ se taare uchhaalta hai
   Paataal se jawaahir wohi nikaalta hai
   Parwardigaar wo hai duniya ko paalta hai
   Har had se maawara hai Allah bohat bara hai
 
   3
-  Kaunain mein ayaaṅ hai ya Rab jo nur tera
-  Hai taab kis nazar mein dekhe zuhur tera
+  Kaunain meiṅ ayaaṅ hai ya Rab jo nur tera
+  Hai taab kis nazar meiṅ dekhe zuhur tera
   Tasbih khwaah hum kya hai koh-e-Tur tera
   Jis ko bhi mil gaya hai Maula shaur tera
   Wo Mustafa hua hai Allah bohat bara hai
@@ -40,7 +40,7 @@ romanLyrics: |-
   Tu ba kamaal jaisa waise tere payambar
   Sab tere madh khwaaṅ haiṅ sab hi tere sanaa gar
   Kya baadshaah o qudsi kya muflis o gadaagar
-  In saari hastiyoṅ mein wo Aamina ka dilbar
+  In saari hastiyoṅ meiṅ wo Aamina ka dilbar
   Wo bhi to lab kusha hai Allah bohat bara hai
 
   5
@@ -61,19 +61,19 @@ romanLyrics: |-
   Allah ki baraai yuṅ to sabhi ne ki hai
   Lekin jo Karbala ki taarikh bolti hai
   Nok-e-sinaaṅ se Rab ki tausif ho chuki hai
-  Tadbeer zer-e-khanjar Shabbir ne kahi hai
+  Tadbir zer-e-khanjar Shabbir ne kahi hai
   Mazlum ki sada hai Allah bohat bara hai
 
   8
-  Kis ne kiya hai sajda khanjar tale jahaaṅ mein
-  Kaante pare hue the jab pyaas se zabaaṅ mein
-  Jab aag lag rahi thi Zehra ke gulsitaaṅ mein
-  Chhup chhup ke chaand taare rote the aasmaan mein
+  Kis ne kiya hai sajda khanjar tale jahaaṅ meiṅ
+  Kaante pare hue the jab pyaas se zabaaṅ meiṅ
+  Jab aag lag rahi thi Zehra ke gulsitaaṅ meiṅ
+  Chhup chhup ke chaand taare rote the aasmaan meiṅ
   Maula ne tab kaha hai Allah bohat bara hai
 
   9
   Kya nafs-e-mutmainna Sajjad ne tha paaya
-  Ek ek sitam pe jis ne sajde mein sar jhukaaya
+  Ek ek sitam pe jis ne sajde meiṅ sar jhukaaya
   Tauq-e-garaaṅ pehen kar shikwa na lab pe laaya
   Kunbe ko apne le kar taa Shaam tha jo aaya
   Har gaam par kaha hai Allah bohat bara hai

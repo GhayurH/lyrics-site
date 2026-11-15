@@ -29,7 +29,7 @@ romanLyrics: |-
   2
   Hurr chala jaanib-e-maqtal pa-e-nusrat jis dam
   Yuṅ laga uthte ho jannat ki taraf us ke qadam
-  Jang karte hue jab nargha-e-aada mein ghira
+  Jang karte hue jab nargha-e-aada meiṅ ghira
   Zakhm khaata raha aur kehta raha
   Assalaam alaiki ya Sayyeda
   Alwida alwida Sayyeda alwida
@@ -37,7 +37,7 @@ romanLyrics: |-
   3
   Haaye Aun o Muhammad maare gaye
   Donoṅ Zainab ke mah laqa Sayyeda
-  Ran mein jab Aun o Muhammad ki sawaari aayi
+  Ran meiṅ jab Aun o Muhammad ki sawaari aayi
   Zulm ki kaali ghata un ki saroṅ par chhaayi
   Khush hue donoṅ shahaadat ki khabar hai laayi
   Di sada donoṅ ne ye qabl-e-qaza
@@ -46,8 +46,8 @@ romanLyrics: |-
 
   4
   Shaah ka nur-e-nazar lakht-e-jigar aks-e-Nabi
-  Lar ke maidaan mein Akbar ne sinaaṅ jab khaayi
-  Aa gaya muṅh ko jigar qalb mein tuti barchhi
+  Lar ke maidaan meiṅ Akbar ne sinaaṅ jab khaayi
+  Aa gaya muṅh ko jigar qalb meiṅ tuti barchhi
   Chup zabaaṅ ho gayi laasha bola
   Assalaam alaiki ya Sayyeda
   Alwida alwida Sayyeda alwida
@@ -62,8 +62,8 @@ romanLyrics: |-
 
   6
   Dafatan jhule se ik nanha mujaahid nikla
-  Qad mein chhota tha jigar Hazrat-e-Abbas ka tha
-  Misl-e-Abbas wo maidaan mein betegh lara
+  Qad meiṅ chhota tha jigar Hazrat-e-Abbas ka tha
+  Misl-e-Abbas wo maidaan meiṅ betegh lara
   Muskuraate hue Asghar ne kaha
   Assalaam alaiki ya Sayyeda
   Alwida alwida Sayyeda alwida
@@ -81,7 +81,7 @@ romanLyrics: |-
   8
   Kiuṅ na Rehaan o Raza nazr kareṅ hum ye kalaam
   Waaris-e-majlis-e-Shabbir jo hai us ke naam
-  Taake khush hum se ho ghaibat mein hamaara wo Imam
+  Taake khush hum se ho ghaibat meiṅ hamaara wo Imam
   Raat din hai ye wazifa jis ka
   Assalaam alaiki ya Sayyeda
   Alwida alwida Sayyeda alwida

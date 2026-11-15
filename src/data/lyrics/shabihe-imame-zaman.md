@@ -12,7 +12,7 @@ aliases: ["Shabihe Imame Zaman"]
 published: true
 romanLyrics: |-
   Shabih-e-Imam-e-zamaaṅ khinchte haiṅ
-  Tasavvur mein tasvir-e-jaaṅ khinchte haiṅ
+  Tasavvur meiṅ tasvir-e-jaaṅ khinchte haiṅ
 
   1
   Jagah mol li hai mazaaroṅ ki khaatir
@@ -24,10 +24,10 @@ romanLyrics: |-
 
   3
   Idhar khushk hai Fatima ki zarahat
-  Wo khetoṅ mein aab-e-ravaaṅ khinchte haiṅ
+  Wo khetoṅ meiṅ aab-e-ravaaṅ khinchte haiṅ
 
   4
-  Abas hai adu dar pay-e-qatl-e-Asghar
+  Abas hai adu dar pe-e-qatl-e-Asghar
   Ye iza kahiṅ bezabaaṅ khinchte haiṅ
 
   5
@@ -43,7 +43,7 @@ romanLyrics: |-
   Shutur jis tarah saarabaaṅ khinchte haiṅ
 
   8
-  Ye aalam hai furqat mein kehti thi Sughra
+  Ye aalam hai furqat meiṅ kehti thi Sughra
   Ke rag rag se jis tarah jaaṅ khinchte haiṅ
 
   9
@@ -51,7 +51,7 @@ romanLyrics: |-
   Kaleje se baba sinaaṅ khinchte haiṅ
 
   10
-  Anees is zamiṅ mein bahut kam hai wusat
+  Anis is zamiṅ meiṅ bahut kam hai wusat
   Kamiyat qalam ki ena khinchte haiṅ
 # source_id: nohayonline:6b0af328a228e5462033
 # source_url: https://www.nohayonline.com/details_content.php?id=2314

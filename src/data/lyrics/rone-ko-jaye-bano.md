@@ -19,7 +19,7 @@ romanLyrics: |-
   Tashhir bhul jaayegi khwaahar kahaaṅ kahaaṅ
 
   2
-  Kufa Baqi o Maariya zindaan Shaam mein
+  Kufa Baqi o Maariya zindaan Shaam meiṅ
   Roti hai jaa ke Shaah ki khwaahar kahaaṅ kahaaṅ
 
   3
@@ -27,7 +27,7 @@ romanLyrics: |-
   Pahuṅche madad ko dukhtar Haidar kahaaṅ kahaaṅ
 
   4
-  Qasim ki laash bikhri hai ran mein kuchh is tarah
+  Qasim ki laash bikhri hai ran meiṅ kuchh is tarah
   Paamaal tan ko dhuṅrheṅge Sarwar kahaaṅ kahaaṅ
 
   5
@@ -35,7 +35,7 @@ romanLyrics: |-
   Le kar gaya Yazid ka lashkar kahaaṅ kahaaṅ
 
   6
-  Is zindagi se maut hai behtar Anees ko
+  Is zindagi se maut hai behtar Anis ko
   Khaata hai thokareṅ kitne dar dar kahaaṅ kahaaṅ
 # source_id: nohayonline:812d2aea3d2474111e8c
 # source_url: https://www.nohayonline.com/details_content.php?id=3479

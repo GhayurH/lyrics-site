@@ -24,10 +24,10 @@ romanLyrics: |-
   Uthao Zainab uthao Fizza
 
   1
-  Haiṅ haath ab bhi rasan mein is ke
-  Hum hi haiṅ ab is watan mein is ke
+  Haiṅ haath ab bhi rasan meiṅ is ke
+  Hum hi haiṅ ab is watan meiṅ is ke
   Na jaane kab se ye tashna lab hai
-  Nami nahiṅ hai badan mein is ke
+  Nami nahiṅ hai badan meiṅ is ke
   Ye meri pyaasi ka hai janaaza
   Uthao Zainab uthao Fizza
 
@@ -41,7 +41,7 @@ romanLyrics: |-
 
   3
   Wo jis ki sukhi hui ragoṅ par
-  Chala tha Karb o Bala mein khanjar
+  Chala tha Karb o Bala meiṅ khanjar
   Bhara tha tiroṅ se us ka sina
   Hai jis ko maara rula rula kar
   Ye us ki beti ka hai janaaza
@@ -49,7 +49,7 @@ romanLyrics: |-
 
   4
   Jala hai kurta haiṅ kaan zakhmi
-  Gale mein paiwast hai rasan bhi
+  Gale meiṅ paiwast hai rasan bhi
   Kahiṅ pe khaaya tha taaziyaana
   Kahiṅ ye naaqe se gir gayi thi
   Ye gham ki maari ka hai janaaza
@@ -64,7 +64,7 @@ romanLyrics: |-
   Uthao Zainab uthao Fizza
 
   6
-  Hai is ke baaloṅ mein bhi safedi
+  Hai is ke baaloṅ meiṅ bhi safedi
   Kamar bhi kham ho chuki hai is ki
   Ise bhi darbaar jab bulaaya
   Pakar ke diwaar ye chali thi
@@ -72,10 +72,10 @@ romanLyrics: |-
   Uthao Zainab uthao Fizza
 
   7
-  Main is ki haalat bataauṅ kaise
+  Maiṅ is ki haalat bataauṅ kaise
   Ab aur ghurbat sunaauṅ kaise
-  Tumheṅ khabar hai main is ki maaṅ huṅ
-  Madad karo main uthaauṅ kaise
+  Tumheṅ khabar hai maiṅ is ki maaṅ huṅ
+  Madad karo maiṅ uthaauṅ kaise
   Ye meri bachchi ka hai janaaza
   Uthao Zainab uthao Fizza
 
@@ -83,7 +83,7 @@ romanLyrics: |-
   Jise rihaai ki aarzu thi
   Wo ab hamesha rahegi qaidi
   Madine waale bhi ro diye jab
-  Raza o Zeeshan maaṅ pukaari
+  Raza o Zishan maaṅ pukaari
   Ye Shaam waali ka hai janaaza
   Uthao Zainab uthao Fizza
 # source_id: nohayonline:f66c4c4a8f7c43e19466

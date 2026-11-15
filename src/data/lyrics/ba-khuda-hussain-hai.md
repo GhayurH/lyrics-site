@@ -25,7 +25,7 @@ romanLyrics: |-
   Allah ke bataaye hue din ki qasam
   Keh raha hai khud ye kibriya
   Ba khuda ba khuda ba khuda
-  Dehr mein binaa-e-la ilaah
+  Dehr meiṅ binaa-e-la ilaah
   Ba khuda Husain hai
 
   1
@@ -40,10 +40,10 @@ romanLyrics: |-
   2
   Us ki bulandiyoṅ ka ihaata koi nahiṅ
   Wo bahr hai ke jis ka kinaara koi nahiṅ
-  Taarikh-e-kaainaat mein aisa koi nahiṅ
-  Khilqat mein us ki shaan ka banda koi nahiṅ
+  Taarikh-e-kaainaat meiṅ aisa koi nahiṅ
+  Khilqat meiṅ us ki shaan ka banda koi nahiṅ
   Nur-e-haram shaah-e-umam din ka bharam hai
-  Do jahaaṅ mein naaz-e-kibriya
+  Do jahaaṅ meiṅ naaz-e-kibriya
   Ba khuda ba khuda ba khuda ba khuda Husain hai
 
   3
@@ -61,7 +61,7 @@ romanLyrics: |-
   Ba khuda ba khuda ba khuda ba khuda Husain hai
 
   4
-  Halqoṅ mein chal rahi hai hawa ya Husain ki
+  Halqoṅ meiṅ chal rahi hai hawa ya Husain ki
   Daulat hameṅ hui hai ataa ya Husain ki
   Lagta hai aane waala hai ab aakhri Husain
   Kaabe se aa rahi hai sada ya Husain ki
@@ -99,9 +99,9 @@ romanLyrics: |-
   8
   Maatam ki saf jahaaṅ bhi banaate hai matami
   Dast-e-khuda ka haath bataate haiṅ matami
-  Taazim mein utha hai Takallum har ek bashar
-  Ek shor hai ke hashr mein aate haiṅ matami
-  Aankhoṅ mein nam sinoṅ mein gham lab pe sada hai
+  Taazim meiṅ utha hai Takallum har ek bashar
+  Ek shor hai ke hashr meiṅ aate haiṅ matami
+  Aankhoṅ meiṅ nam sinoṅ meiṅ gham lab pe sada hai
   Kaarwaan-e-haq ka peshwa
   Ba khuda ba khuda ba khuda ba khuda Husain hai
 

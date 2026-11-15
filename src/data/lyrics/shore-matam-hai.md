@@ -11,36 +11,36 @@ tags: []
 aliases: ["Shore Matam Hai"]
 published: true
 romanLyrics: |-
-  Shor-e-maatam hai shahidoṅ ke azaadaaroṅ mein
-  Shaah mazlum ne sajde kiye talwaaroṅ mein
+  Shor-e-maatam hai shahidoṅ ke azaadaaroṅ meiṅ
+  Shaah mazlum ne sajde kiye talwaaroṅ meiṅ
 
   1
-  Jin ke ghar se hua Islaam mein parda qaaim
-  Un ko sar nange phiraaya gaya baazaaroṅ mein
+  Jin ke ghar se hua Islaam meiṅ parda qaaim
+  Un ko sar nange phiraaya gaya baazaaroṅ meiṅ
 
   2
   Dekh lo dekh lo Asghar ko zamaane waaloṅ
-  Phir haṅse ga na koi tiroṅ ki bauchhaaroṅ mein
+  Phir haṅse ga na koi tiroṅ ki bauchhaaroṅ meiṅ
 
   3
   Qaid khaane use sine se lagaaye rakhna
-  Mar gayi haaye Sakina tere diwaaroṅ mein
+  Mar gayi haaye Sakina tere diwaaroṅ meiṅ
 
   4
   Kaun aaya hai ye maaṅ bahnoṅ ko le kar qaidi
-  Ek faryaad hai zanjiroṅ ki jhankaaroṅ mein
+  Ek faryaad hai zanjiroṅ ki jhankaaroṅ meiṅ
 
   5
   Dil ki tathir se shaayad hai zabaan uryaaṅ
-  Haaye wo parda nashiṅ Shaam ke baazaaroṅ mein
+  Haaye wo parda nashiṅ Shaam ke baazaaroṅ meiṅ
 
   6
   Haq o baatil ka abhi faisla ho jaaye ga
-  Aa ke maatam karo zanjiroṅ ka angaaroṅ mein
+  Aa ke maatam karo zanjiroṅ ka angaaroṅ meiṅ
 
   7
   Nazr-e-aatish hue Sajjad ke khaime Shamsi
-  Ghar Muhammad ka ghazab aag ke angaaroṅ mein
+  Ghar Muhammad ka ghazab aag ke angaaroṅ meiṅ
 # source_id: nohayonline:5f3151d78fd633a78887
 # source_url: https://www.nohayonline.com/details_content.php?id=1780
 # raw_sha256: 2bff01933e3d5ca963bab1937f9e8f1dfdcd8c3c52d0984db70a56c4247af5d5

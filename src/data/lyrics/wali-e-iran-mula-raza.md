@@ -32,18 +32,18 @@ romanLyrics: |-
 
   4
   Jo koi laachaar ho bimaar ho Maula Raza
-  Aaye woh sehn-e-shifa mein aur piye aab-e-baqa
+  Aaye woh sehn-e-shifa meiṅ aur piye aab-e-baqa
   Hai shifa khaana tere darbaar ka daalaan
 
   5
-  Ya Raza behad huṅ sharminda main bad aamaal par
+  Ya Raza behad huṅ sharminda maiṅ bad aamaal par
   Malka-e-Qum ke tasadduq ho karam behaal par
   Huṅ muaafi ka taalib mujh pe kar ehsaan
 
   6
-  Is liye main saahib-e-ilm o hunar huṅ ya Raza
-  Naam mein Yasir Raza ke naam aata hai tera
-  Main tere sadqe tere waari tere qurbaan
+  Is liye maiṅ saahib-e-ilm o hunar huṅ ya Raza
+  Naam meiṅ Yasir Raza ke naam aata hai tera
+  Maiṅ tere sadqe tere waari tere qurbaan
 # source_id: tajpoints:d2da7d8eaabbbcbf0c2c
 # source_url: https://tajpoints.com/2018/02/wali-e-iran-mula-raza.html
 # raw_sha256: 351fd35e6f725e39dc01e777a2537cc0c0dccc5ba1c532de3c6e49d31b7fe0a7

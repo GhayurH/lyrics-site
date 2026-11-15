@@ -51,7 +51,7 @@ romanLyrics: |-
   5
   Jab ye chali thi apne watan se
   Saani-e-Haidar saath meiṅ the
-  Inki amaari sab se hasin thi
+  Inki amaari sab se hasiṅ thi
   Saare baraadar saath meiṅ the
   Ab hai magar tanha ye yahaaṅ par
   Kaun sambhaale Zainab ko

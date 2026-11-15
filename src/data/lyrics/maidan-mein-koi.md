@@ -1,6 +1,6 @@
 ---
 title: "میداں میں کوئی جانے والا نہ رہا"
-alternateTitle: "Maidan Mein Koi"
+alternateTitle: "Maidaṅ Meiṅ Koi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ aliases: []
 published: true
 romanLyrics: |-
   1
-  Maidaaṅ mein koi jaane waala na raha
+  Maidaaṅ meiṅ koi jaane waala na raha
   Aur koi gala kataane waala na raha
   Jo maara gaya us ko utha laaye Husain
   Shabbir ka koi laane waala na raha

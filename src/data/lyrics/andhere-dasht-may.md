@@ -1,6 +1,6 @@
 ---
 title: "اندھیرے دشت میں دکھیا سکینہ کیوں چلی آئیں"
-alternateTitle: "Andhere Dasht Mein"
+alternateTitle: "Andhere Dasht Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,8 +11,8 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Andhere dasht mein dukhiya Sakina kiuṅ chali aayeṅ
-  Tan be sar ye kehta tha Sakina kiuṅ chali aayeṅ
+  Andhere dasht meiṅ dukhiya Sakina kiuṅ chali aayeṅ
+  Tan besar ye kehta tha Sakina kiuṅ chali aayeṅ
 
   1
   Pare haiṅ khaak par tukre yahaṅ talwaaroṅ naize ke
@@ -23,16 +23,16 @@ romanLyrics: |-
   Bahut majbur hai baba Sakina kiuṅ chali aayeṅ
 
   3
-  Na do aawaaz itne karb se sehra-e-khuni mein
+  Na do aawaaz itne karb se sehra-e-khuni meiṅ
   Ajal ka hai yahaṅ pehra Sakina kiuṅ chali aayeṅ
 
   4
-  Dil-e-Baba pe kya guzri tumheṅ is haal mein paa kar
+  Dil-e-Baba pe kya guzri tumheṅ is haal meiṅ paa kar
   Ye pehne khun bhara kurta Sakina kiuṅ chali aayeṅ
 
   5
-  Bhatak jaao gi ran mein kaun pahunchaaye ga khaimoṅ tak
-  Nahiṅ koi Anees aisa Sakina kiuṅ chali aayeṅ
+  Bhatak jaao gi ran meiṅ kaun pahunchaaye ga khaimoṅ tak
+  Nahiṅ koi Anis aisa Sakina kiuṅ chali aayeṅ
 # source_id: nohayonline:b6feabd4d7575828f6f9
 # source_url: https://www.nohayonline.com/details_content.php?id=148
 # raw_sha256: ae3a5ce0d49a19e8a42dcb88206c0cfce06df3fc1c87eabfef8a010996780091

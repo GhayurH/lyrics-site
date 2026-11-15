@@ -12,7 +12,7 @@ published: true
 reciter: "Ghadeer Fatima"
 romanLyrics: |-
   1
-  Boli Rabab dasht mein kaisa hai ye dayaar
+  Boli Rabab dasht meiṅ kaisa hai ye dayaar
   Armaan hamaare dil ke huwe saare taar taar
 
   2
@@ -20,12 +20,12 @@ romanLyrics: |-
   Ghaazi ko yaad karte haiṅ ro ro ke baar baar
 
   3
-  Dasht-e-bala mein kaise sukoṅ paaye Bibiyaaṅ
+  Dasht-e-bala meiṅ kaise sukoṅ paaye Bibiyaaṅ
   Har suṅ khari hai jabr o tashaddud ki ek khataar
 
   4
   Maaoṅ ke bain aur ye bachchoṅ ki siskiyaaṅ
-  Chubhti hai yuṅ kaleje mein jaise ke nok-e-khaar
+  Chubhti hai yuṅ kaleje meiṅ jaise ke nok-e-khaar
 
   5
   Taarikh hai gawaah ke sadme uthaaye haiṅ
@@ -33,7 +33,7 @@ romanLyrics: |-
 
   6
   Karte hi jaa rahe haiṅ sitam hum pa ashqiyaa
-  Shaamil nahiṅ kisi ki tabiat mein inkisaar
+  Shaamil nahiṅ kisi ki tabiat meiṅ inkisaar
 
   7
   Jis ne jawaan bete ki mayyat uthaayi ho
@@ -44,11 +44,11 @@ romanLyrics: |-
   Naiza hua jo sina-e-Akbar ke aar paar
 
   9
-  Karbobala ke dasht mein hum sab ko gher kar
+  Karbobala ke dasht meiṅ hum sab ko gher kar
   Bedard maut karti hai ek ek ka shikaar
 
   10
-  Bachche dahal ke so gaye godi mein maut ki
+  Bachche dahal ke so gaye godi meiṅ maut ki
   Jalte qayaam ban gaye un ke liye mazaar
 
   11

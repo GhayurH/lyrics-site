@@ -12,27 +12,27 @@ published: true
 reciter: "Shahid Baltistani"
 romanLyrics: |-
   Haye bimar haye bimar
-  Ranj o alam mein dubi Abid ki kahani
-  Pairoṅ mein aable haiṅ aankhoṅ se aansuoṅ ki
+  Ranj o alam meiṅ dubi Abid ki kahani
+  Pairoṅ meiṅ aable haiṅ aankhoṅ se aansuoṅ ki
   Hoti hai rawani
-  Ranj o alam mein dubi Abid ki kahani
+  Ranj o alam meiṅ dubi Abid ki kahani
 
   1
   Is baat ka nahiṅ gham bazaar behaya hai
   Ummat ki berukhi hai ummat se hi gila hai
-  Zainab bhi berida hai badli hai zaifi mein
+  Zainab bhi berida hai badli hai zaifi meiṅ
   Abid ki jawani
 
   2
   Qaari namazi hafiz haaji khare hue the
-  Bazaaroṅ mein musalman saare bhare hue the
+  Bazaaroṅ meiṅ musalman saare bhare hue the
   Zainab ki pusht par hi bimar-e-saarbaṅ ki
   Guzri hai jawani
 
   3
-  Sadaat ke liye hi raahoṅ mein mushkileṅ haiṅ
+  Sadaat ke liye hi raahoṅ meiṅ mushkileṅ haiṅ
   Kore haiṅ aur kaante pattharoṅ ki baarisheṅ haiṅ
-  Khaime jo Karbala mein jalte rahe the ya Rab
+  Khaime jo Karbala meiṅ jalte rahe the ya Rab
   Barsa nahiṅ pani
 
   4
@@ -44,11 +44,11 @@ romanLyrics: |-
   5
   Sajjad ko imamat deti hai shaam-e-ghurbat
   Mazlum sayyadoṅ se kehti hai shaam-e-ghurbat
-  Purse mein de rahi huṅ bimar ko asiri
+  Purse meiṅ de rahi huṅ bimar ko asiri
   Karbal ko kahani
 
   6
-  Na mahramoṅ mein Zainab beparda jab khari thi
+  Na mahramoṅ meiṅ Zainab beparda jab khari thi
   Ummat ki teri nana ghairat kahaṅ gayi thi
   Majma laga hua tha Zainab jo parh rahi thi
   Aayaat-e-Qurani
@@ -56,7 +56,7 @@ romanLyrics: |-
   7
   Saaya hata hi tha ke Abbas ke bharam ka
   Aaghaz ho gaya tha Sadaat pe sitam ka
-  Deti rahi dilaasa pardes mein Zainab ko
+  Deti rahi dilaasa pardes meiṅ Zainab ko
   Ghazi ki nishani
 
   8

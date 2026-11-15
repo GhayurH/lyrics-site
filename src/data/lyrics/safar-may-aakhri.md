@@ -1,6 +1,6 @@
 ---
 title: "سفر میں آخری دولت لٹا کے روتے ہیں"
-alternateTitle: "Safar Mein Aakhri"
+alternateTitle: "Safar Meiṅ Aakhri"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,20 +11,20 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Safar mein aakhri daulat luta ke rote haiṅ
+  Safar meiṅ aakhri daulat luta ke rote haiṅ
   Husain turbat-e-Asghar bana ke rote haiṅ
 
   1
   Ye kis charaagh ko ae shaamiyoṅ bujha daala
-  Ke jis ki yaad mein jhonke hawa ke rote haiṅ
+  Ke jis ki yaad meiṅ jhonke hawa ke rote haiṅ
 
   2
   Madine waaloṅ ko khalta tha girya-e-Zehra
   Husain is liye jangal basa ke rote haiṅ
 
   3
-  Hamaare ghar mein bhi hoti hai majlis-e-Shabbir
-  Hamaare ghar mein bhi Sajjad aa ke rote haiṅ
+  Hamaare ghar meiṅ bhi hoti hai majlis-e-Shabbir
+  Hamaare ghar meiṅ bhi Sajjad aa ke rote haiṅ
 
   4
   Na jaane ashkoṅ se kya likh diya hai Sughra ne
@@ -35,7 +35,7 @@ romanLyrics: |-
   Zubaaṅ se kuchh na kaha sar jhuka ke rote haiṅ
 
   6
-  Hua hai dasht mein paamaal haaye ibn-e-Hasan
+  Hua hai dasht meiṅ paamaal haaye ibn-e-Hasan
   Husain laash ke tukre utha ke rote haiṅ
 
   7

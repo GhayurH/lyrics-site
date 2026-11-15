@@ -25,14 +25,14 @@ romanLyrics: |-
   Khud sachcha ban ke Bibi ko jhuta bana diya
 
   3
-  Utri haiṅ jin ki shaan mein aayaat baar baar
+  Utri haiṅ jin ki shaan meiṅ aayaat baar baar
   Jin ki raza ko rad na kare Rabb-e-Kirdgaar
   Haq maangne gayi wo to khaali lauta diya
 
   4
   Jis shakhs ne di aap ko hizyaan ki saughaat
   Jis se mila na aap ko kaghaz qalam dawaat
-  Darbaar mein Batul ko us ne rula diya
+  Darbaar meiṅ Batul ko us ne rula diya
 # source_id: nohayonline:e4c11a6574c1b9fd20e5
 # source_url: https://www.nohayonline.com/details_content.php?id=3278
 # raw_sha256: 04f54ff02dee9f2d1735190ba61b400b0a355053e0920c83994e35a767e94f5e

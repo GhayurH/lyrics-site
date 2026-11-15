@@ -12,10 +12,10 @@ published: true
 romanLyrics: |-
   1
   Bechain thi Sughra jo firaaq-e-padari se
-  Nit'ooth yehi kehti thi nasib mein sahari se
+  Nit'ooth yehi kehti thi nasib meiṅ sahari se
   Ae baad-e-saba marti huṅ dard-e-jigari se
   Mil jaaye to kahiyo mere baba safari se
-  Nargis ki tarah chashm suye garm garan hai
+  Nargis ki tarah chashm suye garm garaṅ hai
   Jald aao ke hasti ka chaman apni khizaaṅ hai
 # source_id: nohayonline:fa2aa02d2244734fdd5e
 # source_url: https://www.nohayonline.com/details_content.php?id=2666

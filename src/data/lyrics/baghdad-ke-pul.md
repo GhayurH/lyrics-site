@@ -18,12 +18,12 @@ romanLyrics: |-
   Baghdad ke pul par Kazim ka
   Kis ne ye janaaza rakha hai
   Afsos ke Maula ka laasha
-  Zanjir-e-sitam mein jakra hai
+  Zanjir-e-sitam meiṅ jakra hai
 
   1
   Zindaan to tang hote haiṅ magar
   Itne bhi tang nahiṅ hote
-  Maula the ruku mein chaudah baras
+  Maula the ruku meiṅ chaudah baras
   Ehsaas ye khun rulaata hai
 
   2
@@ -33,19 +33,19 @@ romanLyrics: |-
   Bhai na behan na beta hai
 
   3
-  Is qaid-e-sitam mein bhi Maula
+  Is qaid-e-sitam meiṅ bhi Maula
   Rehte the musalle par har dam
   Bejurm namaazi qatl hua
   Ro ro ke musalla kehta hai
 
   4
-  Aisi bhi gharibi duniya mein
+  Aisi bhi gharibi duniya meiṅ
   Kya logoṅ kisi par dekhi hai
   Afsos janaaza Kazim ka
   Mazduroṅ se uthwaaya hai
 
   5
-  Paiwast badan mein haiṅ kariyaaṅ
+  Paiwast badan meiṅ haiṅ kariyaaṅ
   Lohaar se bole ye Maula
   Aahista kaat ye zanjireṅ
   Laasha ye sadaaeṅ deta hai
@@ -59,12 +59,12 @@ romanLyrics: |-
   7
   Mazlum mere Maula tujh par
   Aulaad bhi teri ro na saki
-  Baghdad nahiṅ do aalam mein
+  Baghdad nahiṅ do aalam meiṅ
   Ab maatam tera hota hai
 
   8
   Mazlumi-e-Ibn-e-Jafar ko
-  Kya koi bayaan kar payega
+  Kya koi bayaaṅ kar payega
   Farhan aur Mazhar rote haiṅ
   Har ek zabaaṅ par nauha hai
 # source_id: nohayonline:adad88adec54c635cd11

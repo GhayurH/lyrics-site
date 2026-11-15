@@ -23,7 +23,7 @@ romanLyrics: |-
 
   2
   Hijaab-e-Khuda hai jo bint-e-Nabi hai
-  Wo darbaar mein jaane kab se khari hai
+  Wo darbaar meiṅ jaane kab se khari hai
 
   3
   Diya aise ummat ne Baba ka pursa
@@ -35,7 +35,7 @@ romanLyrics: |-
 
   5
   Kare gi na Zahra ab apna koi gham
-  Ali ke gale mein rasan dekhti hai
+  Ali ke gale meiṅ rasan dekhti hai
 
   6
   Khayaal aa gaya berida betiyoṅ ka

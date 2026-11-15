@@ -18,10 +18,10 @@ romanLyrics: |-
   Apna bhara ghar tu ne lutaya
   Ibn-e-Ali ehsaan hai tera
   Tu hai muhaafiz Kaaba-e-haq ka
-  Sajde mein sar tera kata
+  Sajde meiṅ sar tera kata
 
   2
-  Dhund rahe haiṅ ran mein Sarwar
+  Dhund rahe haiṅ ran meiṅ Sarwar
   Bechaini se laasha-e-Akbar
   Khaate haiṅ har gaam pe thokar
   Kaun sahaara dega barh kar
@@ -30,7 +30,7 @@ romanLyrics: |-
   3
   Zainab ki aankhoṅ ke ujaale
   Aun o Muhammad ran ko sidhaare
-  Jang hui aur khuṅ mein nahaaye
+  Jang hui aur khuṅ meiṅ nahaaye
   Maqtal se jab aaye laashe
   Karti hai Zainab shukr-e-Khuda
 
@@ -43,10 +43,10 @@ romanLyrics: |-
 
   5
   Thaame kamar ye kehte the Sarwar
-  Dasht-e-bala mein shaane kata kar
+  Dasht-e-bala meiṅ shaane kata kar
   Qatl hue Abbas-e-dilaawar
   De pursa mujhko meri khwaahar
-  Ho gaya Zainab main tanha
+  Ho gaya Zainab maiṅ tanha
 
   6
   Bain yehi karti thi Sakina
@@ -64,13 +64,13 @@ romanLyrics: |-
 
   8
   Kaisi ghari hai Aal-e-Nabi par
-  Ghash mein pare haiṅ Aabid-e-muztar
+  Ghash meiṅ pare haiṅ Aabid-e-muztar
   Keh de koi Abbas se jaa kar
   Chhin raha hai Shimr-e-sitamgar
   Bint-e-Ali ke sar se rida
 
   9
-  Zainab ke baazu mein rasan hai
+  Zainab ke baazu meiṅ rasan hai
   Aur laboṅ par bas ye sukhan hai
   Laash teri begor o kafan hai
   Aaj bahut majbur behan hai
@@ -98,11 +98,11 @@ romanLyrics: |-
   Dete raheṅ ge bas ye sada
 
   13
-  Kijiye Rasheed is gham ki hifaazat
+  Kijiye Rashid is gham ki hifaazat
   Ashk-e-aza hai qalb ki quwwat
   Karte rahe har dam ye ibaadat
   Maatam hai Shabbir ki nusrat
-  Gunji faza mein bas ye sada
+  Gunji faza meiṅ bas ye sada
 # source_id: nohayonline:10b811b2c7e5289da004
 # source_url: https://www.nohayonline.com/details_content.php?id=1960
 # raw_sha256: 5d43210e688b7068d970a818126359ca901b4957ca7e28632c620b240bcf9e64

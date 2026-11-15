@@ -40,7 +40,7 @@ romanLyrics: |-
   Meri hamnawa hai Fatima
 
   7
-  Ab bhi mushkiloṅ mein maujzan
+  Ab bhi mushkiloṅ meiṅ maujzan
   Tera mojaza hai Fatima
 
   8
@@ -48,7 +48,7 @@ romanLyrics: |-
   Aap ne siya hai Fatima
 
   9
-  Do jahaaṅ mein laanati hai wo
+  Do jahaaṅ meiṅ laanati hai wo
   Jis se tu khafa hai Fatima
 
   10

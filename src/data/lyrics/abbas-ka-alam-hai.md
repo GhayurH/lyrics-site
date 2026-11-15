@@ -24,14 +24,14 @@ romanLyrics: |-
   Bazu kata ke is ko Abbas ne saṅwara
 
   2
-  Do tukre chaand kar de panje mein itna dum hai
+  Do tukre chaand kar de panje meiṅ itna dum hai
   Taara jahaṅ pe utra us ghar ka ye alam hai
   Uski bulandiyoṅ par qurbaan chaand taara
 
   3
   Paabandi sarhadoṅ ki na qaid hai zabaṅ ki
   Bas ye khususiyaat hai Abbas ke nishan ki
-  Dunya mein ye alam hai mazlum ka sahaara
+  Dunya meiṅ ye alam hai mazlum ka sahaara
 
   4
   Saansoṅ ki dor iski dori se hi bandhi hai
@@ -45,7 +45,7 @@ romanLyrics: |-
 
   6
   Islam ka ye parcham Allah iska zamin
-  Kab se utar rahe hain sar mominoṅ ke lekin
+  Kab se utar rahe haiṅ sar mominoṅ ke lekin
   Apne gharoṅ se hum ne parcham nahiṅ utara
 
   7
@@ -54,13 +54,13 @@ romanLyrics: |-
   Laeṅge saath apne Qaim ise dobara
 
   8
-  Alam bhai ka lahu mein bhara
+  Alam bhai ka lahu meiṅ bhara
   Utha laaye jab Shah-e-Karbala
-  Qayaamat bapa haram mein hui
+  Qayaamat bapa haram meiṅ hui
   Tarapne lagi Nabizadiyaṅ
   Suni jab Sakina ne gham ki khabar
   Tarap kar ye puchha kahaṅ hai chacha
-  Kaha Shah-e-Din ne mera ghar luta
+  Kaha Shah-e-Diṅ ne mera ghar luta
   Sakina tumhara chacha na raha
 
   9
@@ -68,7 +68,7 @@ romanLyrics: |-
   Tarapne lagi Nabizadiyaṅ
   Yatimoṅ se ye kaha Shah ne
   Wasiyat ye thi mere bhai ki
-  Na le jaana khaimoṅ mein laasha mera
+  Na le jaana khaimoṅ meiṅ laasha mera
   Hai pyasoṅ se sharminda unka chacha
   Ye keh kar alam behen ko diya
   Taqaaza kare na koi pyaas ka

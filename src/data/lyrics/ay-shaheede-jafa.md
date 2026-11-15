@@ -1,6 +1,6 @@
 ---
 title: "اے شہید جفا یا امام رضا"
-alternateTitle: "Ae Shaheed-e-Jafa"
+alternateTitle: "Ae Shahid-e-Jafa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,11 +11,11 @@ tags: []
 aliases: ["Ay Shaheede Jafa"]
 published: true
 romanLyrics: |-
-  Ae shaheed-e-jafa ya Imam-e-Raza
+  Ae shahid-e-jafa ya Imam-e-Raza
   Kya sitam ho gaya ya Imam-e-Raza
 
   1
-  Zehr angur mein haye ye Mamun ne
+  Zehr angur meiṅ haye ye Mamun ne
   Aap ko de diya ya Imam-e-Raza
 
   2
@@ -35,11 +35,11 @@ romanLyrics: |-
   Aayi hai Masuma ya Imam-e-Raza
 
   6
-  Aap ke gham mein rote haiṅ sar pit ke
+  Aap ke gham meiṅ rote haiṅ sar pit ke
   Aaj ahl-e-aza ya Imam-e-Raza
 
   7
-  Ek qayamat hai Momin Khurasaan mein
+  Ek qayamat hai Momin Khurasaan meiṅ
   Rote haiṅ Mustafa ya Imam-e-Raza
 # source_id: nohayonline:96b07ecc5f7f7e8c169d
 # source_url: https://www.nohayonline.com/details_content.php?id=2887

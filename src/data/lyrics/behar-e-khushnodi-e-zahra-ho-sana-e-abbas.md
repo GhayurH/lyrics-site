@@ -31,16 +31,16 @@ romanLyrics: |-
   3
   Dekha Haidar ne jo Shabbir ka Abbas se pyaar
   Muskura kar kaha bete se pidar tum pe nisaar
-  Chhote bhai ka koi naam bhi rakha Zeenihar
+  Chhote bhai ka koi naam bhi rakha Zinihar
   Ki Husain Ibn-e-Ali ne ye Ali se guftaar
   Ewaz-e-tauhid ka aks kaheṅ ge in ko
   Baaba ham aaj se Abbas kaheṅ ge in ko
 
   4
   Koi Abbas ke kirdaar ki kya de ga misaal
-  In ki aankhoṅ mein hai Quraan-e-muhabbat ka jamaal
+  In ki aankhoṅ meiṅ hai Quraan-e-muhabbat ka jamaal
   Hai khayaal in ka wohi jo hai imaamat ka khayaal
-  In ke kirdaar ki rifaat mein nahiṅ koi sawaal
+  In ke kirdaar ki rifaat meiṅ nahiṅ koi sawaal
   Aisi rifaat ke jahaaṅ sarhad-e-ismat mil jaaye
   Do qadam aage barhe aur imaamat mil jaaye
 
@@ -50,15 +50,15 @@ romanLyrics: |-
   Aas bachchoṅ ki bhi aur ahl-e-haram ka haiṅ hisaar
   Aaj bhi fauj-e-Husaini ke haiṅ parcham bardaar
   Ye alam chum ke jannat ki hawa paao ge
-  Is mein tum dur se khushbu-e-wafa paao ge
+  Is meiṅ tum dur se khushbu-e-wafa paao ge
 
   6
   Soch kar haath lagaana ye hai Ghaazi ka alam
   Qalb ko paak banaana ye hai Ghaazi ka alam
   Zehn ka rijs hataana ye hai Ghaazi ka alam
   Tab kahiṅ is ko uthaana ye hai Ghaazi ka alam
-  Warna kufr se jab jang mein takraao ge
-  Tum bhi maidaan mein alam pheṅk ke bhaag aao ge
+  Warna kufr se jab jang meiṅ takraao ge
+  Tum bhi maidaan meiṅ alam pheṅk ke bhaag aao ge
 # source_id: tajpoints:af3c7ac549ebcb17c9cf
 # source_url: https://tajpoints.com/2018/04/behar-e-khushnodi-e-zahra-ho-sana-e.html
 # raw_sha256: b223ef77f8210f11693890d14e3723697f0078a77c9cb31efe0a7feabfd96aaf

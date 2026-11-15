@@ -15,7 +15,7 @@ romanLyrics: |-
 
   1
   Koi na monis o ghamkhwaar Bibiyoṅ ka raha
-  Sukut-e-sehra mein taapoṅ ki gunj uthi sada
+  Sukut-e-sehra meiṅ taapoṅ ki gunj uthi sada
   Ali ki beti ne barh kar utha liya naiza
   Hisaar tor ke nazdik aa gaya sawaar
   Tarap ke saani-e-Zehra pukaar uthi ek baar
@@ -23,22 +23,22 @@ romanLyrics: |-
 
   2
   Aa gayi shaam-e-gharibaaṅ baba
-  Hum hue be sar o saamaaṅ baba
-  Laasheṅ maqtal mein hai uryaaṅ baba
+  Hum hue besar o saamaaṅ baba
+  Laasheṅ maqtal meiṅ hai uryaaṅ baba
   Hai safar jaanib-e-zindaaṅ baba
   Laadli aap ki hai bechaadar
 
   3
   Bhai athaarah the koi na raha
-  Aap ki laadli ban mein tanha
+  Aap ki laadli ban meiṅ tanha
   Khaak daale hue sar pe baba
   Dekhiye karti hai ab aah o buka
   Haath rakhta nahiṅ koi sar par
 
   4
   Sheh ki Abbas kamar tor gaye
-  Hum se pardes mein muṅh mor gaye
-  Gham ke tufaaṅ mein hameṅ chhor gaye
+  Hum se pardes meiṅ muṅh mor gaye
+  Gham ke tufaaṅ meiṅ hameṅ chhor gaye
   Rishta har dukh se mera jor gaye
   Daagh sine ke dikhaauṅ kiuṅ kar
 
@@ -72,23 +72,23 @@ romanLyrics: |-
 
   9
   Mar ke mashk na sine se hati
-  Saath Abbas ke maidaan mein rahi
+  Saath Abbas ke maidaan meiṅ rahi
   Kehti ho jaise Sakina pyaasi
-  Mashk ammu main na yuṅ luṅgi kabhi
+  Mashk ammu maiṅ na yuṅ luṅgi kabhi
   Laayeṅge aap na jab tak bhar kar
 
   10
   Dekhiye ubhre wo sar naizoṅ par
   Shimr durra liye aata hai idhar
   Kis qadar dard bhara hai manzar
-  Tauq mein jakra sambhaale langar
+  Tauq meiṅ jakra sambhaale langar
   Jaanib-e-Shaam chala ek laaghar
 
   11
   Sun ke faryaad o fughaaṅ Zainab ki
   Ro ke kehne lage beti se Ali
   Puchh le ashk na ro ae beti
-  Main tere saath huṅ ae kokh jali
+  Maiṅ tere saath huṅ ae kokh jali
   Jaauṅ ga saath tu jaaye gi jidhar
 
   12
@@ -99,11 +99,11 @@ romanLyrics: |-
   Tujh pe qurbaan meri pyaari dukhtar
 
   13
-  Majlis-e-gham mein ye aah o zaari
+  Majlis-e-gham meiṅ ye aah o zaari
   Yuṅ hi Rehaan rahegi jaari
-  Umr kat jaaye isi mein saari
+  Umr kat jaaye isi meiṅ saari
   Maqsad-e-zist hai maatamdaari
-  Nauha main likhta huṅ bas ye keh kar
+  Nauha maiṅ likhta huṅ bas ye keh kar
 # source_id: nohayonline:f0ed8d6b2d969365f324
 # source_url: https://www.nohayonline.com/details_content.php?id=3000
 # raw_sha256: 699dd6fdb246522bbbf28d98f74cf20cc1073b00160967e7eb9982d83863de7b

@@ -13,7 +13,7 @@ reciter: "Ali Yazdan"
 romanLyrics: |-
   Aamad hui jo bar sar-e-maidaṅ Husain ki
   Aur dilbar-e-Rasul Shah-e-Mashriqain ki
-  Sardar-e-do-jahan Shah-e-Qibla-Qain ki
+  Sardar-e-do-jahaṅ Shah-e-Qibla-Qain ki
   Haider ke laal Fatima Zehra ke chain ki
   Shabbir ne shuru kiya apne khitab ko
   Sun kar pasina aane laga aaftab ko
@@ -22,30 +22,30 @@ romanLyrics: |-
   1
   Jis ghari jalwanuma Shah ki talwar hui
   Fauj-e-aada pe chali bar sar-e-kuffar hui
-  Sirf phirti hui maidaṅ mein nazar aai ajal
+  Sirf phirti hui maidaṅ meiṅ nazar aai ajal
   Ek sada thi jo zaban-e-dar o diwar hui
   Al amaṅ al hafiz al amaṅ al hafiz
 
   2
-  Pal mein chamki sar sar pal mein sar sani
-  Jism ke shahr mein har simt hui virani
+  Pal meiṅ chamki sar sar pal meiṅ sar sani
+  Jism ke shahr meiṅ har simt hui virani
   Chhor kar ruhoṅ ne jismoṅ ko chuni rah-e-firaq
   Thi sar-e-dasht sada thehro Ali ke jaani
   Al amaṅ al hafiz al amaṅ al hafiz
 
   3
-  Tab ran mein Zulfiqar-e-Ali jalwagar hui
-  Yakdam faza-e-Karbobala mein sahar hui
+  Tab ran meiṅ Zulfiqar-e-Ali jalwagar hui
+  Yakdam faza-e-Karbobala meiṅ sahar hui
   Zeb-e-yad-e-Husain Shah-e-bahr o bar hui
-  Sannata ran mein chha gaya juṅ juṅ khabar hui
+  Sannata ran meiṅ chha gaya juṅ juṅ khabar hui
   Ghazi ki aadhi jang thi dekhi tarai ne
   Thani hai pura karne ki Ghazi ke bhai ne
 
   4
-  Dast-e-Shabbir ne jab ghaiz mein toli talwar
+  Dast-e-Shabbir ne jab ghaiz meiṅ toli talwar
   Par samette hue pichhe hate Jibril ek baar
   Itni dehshat hui taari ke laraz uthi zamiṅ
-  Har taraf gunj uthi dasht-e-wigha mein ye pukar
+  Har taraf gunj uthi dasht-e-wigha meiṅ ye pukar
   Al amaṅ al hafiz al amaṅ al hafiz
 
   5
@@ -56,9 +56,9 @@ romanLyrics: |-
   Al amaṅ al hafiz al amaṅ al hafiz
 
   6
-  Jo bhi panje mein chala aaya wo fin nar hua
-  Dasht kuchh der mein hi lashoṅ ka ambar hua
-  Us taraf kasrat-e-afwaj mein aai qillat
+  Jo bhi panje meiṅ chala aaya wo fin nar hua
+  Dasht kuchh der meiṅ hi lashoṅ ka ambar hua
+  Us taraf kasrat-e-afwaj meiṅ aai qillat
   Shah ki tegh ka rukh jis taraf ek baar hua
   Al amaṅ al hafiz al amaṅ al hafiz
 
@@ -78,7 +78,7 @@ romanLyrics: |-
 
   9
   Ye shor hai girya hai ek maaṅ ka ye noha hai
-  Har samt fazaoṅ mein bas ek hi nara hai
+  Har samt fazaoṅ meiṅ bas ek hi nara hai
   Husain Husain Husain Husain
 
   10
@@ -107,7 +107,7 @@ romanLyrics: |-
 
   12
   Asmaṅ khun ugalta hai barae Maula
-  Orh kar gham ki rida sog mein dubi hai faza
+  Orh kar gham ki rida sog meiṅ dubi hai faza
   Kaisa manzar tha ajab Dayam o Yazdaṅ ba Khuda
   Ek maaṅ roti thi aur parhti thi ro kar noha
   Husain Husain Husain Husain

@@ -1,6 +1,6 @@
 ---
 title: "پھول صحراؤں میں عابد نے کھلا ڈالے ہے"
-alternateTitle: "Phul Sahraaoṅ Mein"
+alternateTitle: "Phul Sahraaoṅ Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: ["Phool Sehraon May"]
 published: true
 romanLyrics: |-
-  Phul sahraaoṅ mein Aabid ne khila daale hai
+  Phul sahraaoṅ meiṅ Aabid ne khila daale hai
   Kitne wiraan bahaaroṅ ne basa daale haiṅ
 
   1
@@ -27,7 +27,7 @@ romanLyrics: |-
   Baarah raaste dar-e-jannat ke bana daale haiṅ
 
   4
-  Maatam-e-Shaah mein uthti hui aawaazoṅ ne
+  Maatam-e-Shaah meiṅ uthti hui aawaazoṅ ne
   Naqsh baiat ke jahaaṅ paaye mita daale haiṅ
 
   5
@@ -39,7 +39,7 @@ romanLyrics: |-
   Is ne to kufr ke bhi aasaar mita daale haiṅ
 
   7
-  Kheench kar khuld dar-e-Aal-e-Nabi par Maahir
+  Khinch kar khuld dar-e-Aal-e-Nabi par Maahir
   Dur ke raaste nazdik bana daale haiṅ
 # source_id: nohayonline:11c86befb31ee1a7e1a9
 # source_url: https://www.nohayonline.com/details_content.php?id=1221

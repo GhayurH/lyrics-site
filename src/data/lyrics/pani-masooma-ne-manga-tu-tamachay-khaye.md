@@ -24,12 +24,12 @@ romanLyrics: |-
   Apne chehre ko tamaanchoṅ se bachaane ke liye
   Nanhe haathoṅ se chhupaaya to tamaanche khaae
   Bhaai ka nanha sa sar girta tha jab neze se
-  Is ne godi mein uthaaya to tamaanche khaae
+  Is ne godi meiṅ uthaaya to tamaanche khaae
 
   3
   Kiuṅ mere baaba pe zaalim tu chalaata hai chhuri
   Us ne jab Shimar se puchha to tamaanche khaae
-  Kufa o Shaam ke baazaar mein chalte chalte
+  Kufa o Shaam ke baazaar meiṅ chalte chalte
   Thak ke baithi jo Sakina to tamaanche khaae
 
   4

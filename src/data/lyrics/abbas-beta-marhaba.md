@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Kehti hai ran mein Fatema
+  Kehti hai ran meiṅ Fatema
   Abbas beta marhaba
 
   1
@@ -19,7 +19,7 @@ romanLyrics: |-
   Sar par wafa ka taj hai
   Sabit ye tu ne kar diya
   Darya pe tera raaj hai
-  Chullu mein le li Alqama
+  Chullu meiṅ le li Alqama
 
   2
   Aal-e-Nabi ki aas hai
@@ -31,7 +31,7 @@ romanLyrics: |-
   3
   Tujhse zabar bhi zer hai
   Tashnalabi se ser hai
-  Haibat hai sheron par teri
+  Haibat hai sheroṅ par teri
   Tu sher-e-Haq ka sher hai
   Shamshir-e-Shah-e-Karbala
 
@@ -50,7 +50,7 @@ romanLyrics: |-
   Darya se pyasa aa gaya
 
   6
-  Tha ye mazhar mein Abbas likha
+  Tha ye mazhar meiṅ Abbas likha
   Tishnalab hi rahegi Sakina
   Gham na kar mashk gar chid gayi hai
   Tujhse razi hai Shah-e-Madina

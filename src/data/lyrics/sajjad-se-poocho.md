@@ -11,9 +11,9 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Afsos Nabi zaadiyoṅ ka Shaam mein jaana
+  Afsos Nabi zaadiyoṅ ka Shaam meiṅ jaana
   Sajjad se puchho
-  Sar nange wo maaṅ behnoṅ ka darbaar mein aana
+  Sar nange wo maaṅ behnoṅ ka darbaar meiṅ aana
   Sajjad se puchho
 
   1
@@ -23,9 +23,9 @@ romanLyrics: |-
   Sajjad se puchho
 
   2
-  Baithe hue darbaar mein sab chhote bare the
+  Baithe hue darbaar meiṅ sab chhote bare the
   Saadaat khare the
-  Sar tasht mein rakha hua Zainab ko dikhaana
+  Sar tasht meiṅ rakha hua Zainab ko dikhaana
   Sajjad se puchho
 
   3
@@ -35,7 +35,7 @@ romanLyrics: |-
   Sajjad se puchho
 
   4
-  Jab dukhtar-e-Shabbir ne zindaaṅ mein qaza ki
+  Jab dukhtar-e-Shabbir ne zindaaṅ meiṅ qaza ki
   Aafat ki ghari thi
   Wo nanhi si mayyat bandhe haathoṅ se uthaana
   Sajjad se puchho

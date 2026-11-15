@@ -39,7 +39,7 @@ romanLyrics: |-
   Aansu poṅchh le daaman se
   Aaj guzar ja maqtal se
   Meri behan hai tu Zainab
-  Sabr ki manzil tay kar le
+  Sabr ki manzil te kar le
   Laakh mukhaalif ho yeh hawa
   Naad-e-Ali dohra Zainab
 
@@ -53,7 +53,7 @@ romanLyrics: |-
 
   6
   Nauha jo Rehaan likha
-  Sarwar ke lehje mein dhala
+  Sarwar ke lehje meiṅ dhala
   Karbobala se aayi sada
   Kehte haiṅ jaise Shaah-e-Huda
   Gham na kar meri behna

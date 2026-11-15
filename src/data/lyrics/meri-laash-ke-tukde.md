@@ -24,7 +24,7 @@ romanLyrics: |-
   Baba se milaao ammaaṅ
 
   2
-  Baba aap ki hasrat jeet gayi
+  Baba aap ki hasrat jit gayi
   Is laal ne waada pura kiya
   Baba ki wasiyat puri ki
   Taawiz ka likha pura kiya

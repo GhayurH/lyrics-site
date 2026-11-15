@@ -1,6 +1,6 @@
 ---
 title: "کس قدر تھا وزن آخر حُرملا کے تیر کا"
-alternateTitle: "Hurmula Ke Teer Ka"
+alternateTitle: "Hurmula Ke Tir Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -36,10 +36,10 @@ romanLyrics: |-
 
   6
   Baap ki talwaar se bete ki marqad khodna
-  Karbala mein sab se mushkil kaam hai Shabbir ka
+  Karbala meiṅ sab se mushkil kaam hai Shabbir ka
 
   7
-  Kiuṅ kisi ki god mein Asghar nazar aata nahiṅ
+  Kiuṅ kisi ki god meiṅ Asghar nazar aata nahiṅ
   Khauf se larza hai dil Shahid kisi hamshir ka
 # source_id: nohayonline:2297910cec3768294b47
 # source_url: https://www.nohayonline.com/details_content.php?id=492

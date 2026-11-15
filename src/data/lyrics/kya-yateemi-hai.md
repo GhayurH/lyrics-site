@@ -12,7 +12,7 @@ aliases: ["Kya Yateemi Hai"]
 published: true
 romanLyrics: |-
   Haae jab shaam-e-gharibaaṅ ka andhera chhaaya
-  Dhundne baap ko maqtal mein gayi ek dukhiya
+  Dhundne baap ko maqtal meiṅ gayi ek dukhiya
   Darmiyaan laashoṅ ke ek laasha-e-besar dekha
   Aayi us laash se aawaaz Sakina aa ja
   Jab suni baap ki aawaaz to royi bachchi
@@ -22,12 +22,12 @@ romanLyrics: |-
   Kya yatimi hai ye ab mujh pe khula hai baaba
 
   1
-  Aag daaman mein lagaata hai sitamgar koi
+  Aag daaman meiṅ lagaata hai sitamgar koi
   Koi kaanoṅ se gauhar chhin raha hai baaba
 
   2
   Haath kaanoṅ pe dhare di ye Sakina ne sada
-  Khun is khaak mein mera bhi mila hai baaba
+  Khun is khaak meiṅ mera bhi mila hai baaba
 
   3
   Aap pehchaan na paaoge yaqin hai mujh ko
@@ -47,7 +47,7 @@ romanLyrics: |-
 
   7
   Uth ke ammu se mere keh do ke ab aa jaaye
-  Dasht-e-purhaul mein dam ghutne laga hai baaba
+  Dasht-e-purhaul meiṅ dam ghutne laga hai baaba
 
   8
   Aaj sar rakh ke Sakina kahaaṅ soye bolo
@@ -55,7 +55,7 @@ romanLyrics: |-
 
   9
   Tashna sehne hai sitam mujh ko sitamgaaroṅ ke
-  Shaam tak ab ye muqaddar mein likha hai baaba
+  Shaam tak ab ye muqaddar meiṅ likha hai baaba
 # source_id: nohayonline:26425739a5611d33a4ca
 # source_url: https://www.nohayonline.com/details_content.php?id=2487
 # raw_sha256: 202def661f68581561f3759bae43d6d88de7aa0ed349e21b05c439bf7e2ca0b9

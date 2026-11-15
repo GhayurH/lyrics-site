@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Naatavaaṅ aur qaid mein
+  Naatavaaṅ aur qaid meiṅ
   Haaye bimaar haaye haaye Sajjad
 
   Sajjad pe wo kaisi qayaamat ki ghari thi
@@ -19,7 +19,7 @@ romanLyrics: |-
 
   1
   Haathoṅ pe tha maasum Sakina ka janaaza
-  Aankhoṅ mein lagi khun ke ashkoṅ ki jhari thi
+  Aankhoṅ meiṅ lagi khun ke ashkoṅ ki jhari thi
 
   2
   Sar ko wo jhukaaye hue har mor se guzre
@@ -27,11 +27,11 @@ romanLyrics: |-
 
   3
   Kaantoṅ ko rulaati thi teri aabla paai
-  Zanjir bhi roti thi jo paaoṅ mein pari thi
+  Zanjir bhi roti thi jo paaoṅ meiṅ pari thi
 
   4
-  Zindaaṅ ke andhere mein tanha thi Sakina
-  Aankhoṅ mein us ke kaisi ashkoṅ ki jhari thi
+  Zindaaṅ ke andhere meiṅ tanha thi Sakina
+  Aankhoṅ meiṅ us ke kaisi ashkoṅ ki jhari thi
 
   5
   Shah Najm ne band kar diye is pe sukhan tamaam

@@ -39,21 +39,21 @@ romanLyrics: |-
 
   5
   Kabhi gahwara-e-Asghar jhula kar
-  Kabhi godi mein bhai ko utha kar
+  Kabhi godi meiṅ bhai ko utha kar
   Sakina khud ko yuṅ behla rahi hai
 
   6
   Rasul-e-paak ki masnad bichha kar
-  Ali Akbar ko pehlu mein bitha kar
+  Ali Akbar ko pehlu meiṅ bitha kar
   Sukun-e-qalb Zainab paa rahi hai
 
   7
-  Khamoshi dasht mein chhaayi hui hai
+  Khamoshi dasht meiṅ chhaayi hui hai
   Sakina aaj ghabraayi hui hai
   Sada-e-alatash bas aa rahi hai
 
   8
-  Qalam Khursheed likhta hi rahega
+  Qalam Khurshid likhta hi rahega
   Gham-e-Shabbir ka darya bahega
   Gauhar fikr-e-rasa barsa rahi hai
 # source_id: nohayonline:8857b3fbdf80970275c3

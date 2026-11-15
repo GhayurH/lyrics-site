@@ -1,6 +1,6 @@
 ---
 title: "بابا مسافروں پہ قیامت گزر گیء"
-alternateTitle: "Baba Musafiron Pe"
+alternateTitle: "Baba Musafiroṅ Pe"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -18,26 +18,26 @@ romanLyrics: |-
   Ye keh ke roye qabr pe Sajjad nauhagar
   Baba suno ghariboṅ se ab haalat-e-safar
   Ummat ne bewatan ko phiraya hai dar badar
-  Zainab dayaar-e-shaan mein jab nange sar gayi
+  Zainab dayaar-e-shaan meiṅ jab nange sar gayi
 
   2
-  Maqtal se hum chale the to haathoṅ mein thi rasan
+  Maqtal se hum chale the to haathoṅ meiṅ thi rasan
   Baba muaaf karna na hum de sake kafan
   Paamaal ho chuke the shahidoṅ ke sab badan
-  Tha kor khuṅ mein duba hua tha tamaam ban
+  Tha kor khuṅ meiṅ duba hua tha tamaam ban
   Aulaad-e-Fatema sar-e-maqtal bikhar gayi
 
   3
   Maqtal se is tarah se guzaara gaya hameṅ
-  Khuṅ ke samandaroṅ mein utaara gaya hameṅ
+  Khuṅ ke samandaroṅ meiṅ utaara gaya hameṅ
   Baba har ek gaam pe maara gaya hameṅ
   Baaghi ki aal keh ke pukaara gaya hameṅ
-  Ranj o alam ki tegh jigar mein utar gayi
+  Ranj o alam ki tegh jigar meiṅ utar gayi
 
   4
   Bazaar-e-Shaam aur wo logoṅ ka izdihaam
-  Aise mein Shimr leta tha sayyidaaniyoṅ ke naam
-  Us Shaam mein hua tha asiroṅ ka qatl-e-aam
+  Aise meiṅ Shimr leta tha sayyidaaniyoṅ ke naam
+  Us Shaam meiṅ hua tha asiroṅ ka qatl-e-aam
   Koi na tha jo karta hamara bhi ehteraam
   Qaatil hi dikh rahe the jahaaṅ tak nazar gayi
 
@@ -50,7 +50,7 @@ romanLyrics: |-
 
   6
   Ye keh ke ghamzada ne kiya aakhri salaam
-  Royeṅge jaa ke shahr-e-Madina mein subh o shaam
+  Royeṅge jaa ke shahr-e-Madina meiṅ subh o shaam
   Sughra ko deṅge kaise tasalli-e-tashna kaam
   Ghar jaa ke yaad aayeṅge jalte hue khiyaam
   Basti Zafar ghariboṅ ki ashkoṅ se bhar gayi

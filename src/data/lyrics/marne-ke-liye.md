@@ -15,9 +15,9 @@ romanLyrics: |-
   Har simt se maaṅ jaaya tera ghir gaya Zainab
 
   1
-  Tum jaanti ho khaime mein ab koi nahiṅ hai
+  Tum jaanti ho khaime meiṅ ab koi nahiṅ hai
   Abbas nahiṅ Qasim o Akbar bhi nahiṅ hai
-  Beshir ki mayyat bhi main dafna chuka Zainab
+  Beshir ki mayyat bhi maiṅ dafna chuka Zainab
 
   2
   Kis tarah sambhaale dil-e-bechain ko Laila
@@ -41,13 +41,13 @@ romanLyrics: |-
 
   6
   Ho jaayeṅge ab zulm ke andaaz niraale
-  Jo reh gaye khaime mein wo hai tere hawaale
+  Jo reh gaye khaime meiṅ wo hai tere hawaale
   Ab farz ada karna hai Abbas ka Zainab
 
   7
   Jal jaayeṅge khaime to bikhar jaayeṅge bachche
   Ek jaan tumheṅ karne hai ye tasbih ke daane
-  Maqtal mein nikalna hai tujhe berida Zainab
+  Maqtal meiṅ nikalna hai tujhe berida Zainab
 
   8
   Aada meri bachchi pe bahut zulm kareṅge
@@ -55,9 +55,9 @@ romanLyrics: |-
   Hai sakht masaaib ka tumheṅ saamna Zainab
 
   9
-  Bikhre hue sab khuṅ bhare manzar hai nazar mein
-  Rukta hi nahiṅ fikr ka taair hai safar mein
-  Maaṅge hai Rasheed aap se ab hausla Zainab
+  Bikhre hue sab khuṅ bhare manzar hai nazar meiṅ
+  Rukta hi nahiṅ fikr ka taair hai safar meiṅ
+  Maaṅge hai Rashid aap se ab hausla Zainab
 # source_id: nohayonline:d81b62b768904fa873d9
 # source_url: https://www.nohayonline.com/details_content.php?id=3538
 # raw_sha256: 7e40dfd92ae11ccec1d6d2524a26a7d606ed61cf91b2841b39552c49389103f3

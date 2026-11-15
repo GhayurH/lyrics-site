@@ -24,27 +24,27 @@ romanLyrics: |-
   2
   Barehna sar bhi rahi haq ki aabru ban kar
   Ke ab hai chehra-e-Islaam par wuzu ban kar
-  Gayiṅ jo sajde mein to haq ki justuju ban kar
-  Hai aaj din ki rag rag mein ab lahu ban kar
+  Gayiṅ jo sajde meiṅ to haq ki justuju ban kar
+  Hai aaj din ki rag rag meiṅ ab lahu ban kar
   Azaan hasiṅ iqaamat hai saani-e-Zehra
 
   3
   Jo pahunchi Karb o Bala qaid-e-Shaam se chhut kar
-  Pukaara ganj-e-shahidaaṅ mein sab ko ro ro kar
+  Pukaara ganj-e-shahidaaṅ meiṅ sab ko ro ro kar
   Kahaaṅ ho mere alamdaar aur Ali Akbar
   Kahaaṅ ho Qaasim-e-muztar kahaaṅ Ali Asghar
   Saraapa sog hai hasrat hai saani-e-Zehra
 
   4
   Tumhaare baad qayaamat guzar gayi bhaiya
-  Hujum-e-aam mein main nange sar gayi bhaiya
+  Hujum-e-aam meiṅ maiṅ nange sar gayi bhaiya
   Tumhaare sar ki qasam dar badar gayi bhaiya
-  Sakina qaid mein ro ro ke mar gayi bhaiya
+  Sakina qaid meiṅ ro ro ke mar gayi bhaiya
   Miyaan ranj o musibat hai saani-e-Zehra
 
   5
   Watan ko jaati huṅ bhaiya hamaare saath chalo
-  Hai intezaar mein Sughra hamaare saath chalo
+  Hai intezaar meiṅ Sughra hamaare saath chalo
   Udaas hoga Madina hamaare saath chalo
   Lagega dil na hamaara hamaare saath chalo
   Tariq-e-ashk-e-mohabbat hai saani-e-Zehra

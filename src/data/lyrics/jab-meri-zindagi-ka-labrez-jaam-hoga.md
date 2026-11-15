@@ -10,10 +10,10 @@ aliases: []
 published: true
 romanLyrics: |-
   Jab meri zindagi ka labrez jaam hoga
-  Us dam labon pe mere Haider ka naam hoga
+  Us dam laboṅ pe mere Haider ka naam hoga
 
   1
-  Khaak-e-shifa ke tukre aankhon pe meri rakhna
+  Khaak-e-shifa ke tukre aankhoṅ pe meri rakhna
   Aur naam Panjtan ke mere kafan pe likhna
   Bakhshish ko meri kaafi ye intezam hoga
 
@@ -23,9 +23,9 @@ romanLyrics: |-
   Band hoṅgi aankheṅ rone se kaam hoga
 
   3
-  Meri lahad mein kaise malakut aa sakeṅge
+  Meri lahad meiṅ kaise malakut aa sakeṅge
   Munkar Nakir kaise mujh ko dara sakeṅge
-  Jab ke meri lahad mein mera Imam hoga
+  Jab ke meri lahad meiṅ mera Imam hoga
 # source_note: personal notebook ODT import on 2026-11-08; no unique source record ID
 # source_notes: Transcribed from personal notebook; original Roman/Urdu checked against notebook
 ---

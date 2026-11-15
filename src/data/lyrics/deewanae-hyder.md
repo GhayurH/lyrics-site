@@ -15,7 +15,7 @@ romanLyrics: |-
   Asadullah Yadullah Saifullah Wajhullah
   Ainullah Nurullah Janbullah Baabullah
 
-  Diwana-e-Haider huṅ main mastaana-e-Haider huṅ
+  Diwana-e-Haider huṅ maiṅ mastaana-e-Haider huṅ
   Parwaana-e-Haider huṅ
 
   Ishq-e-Haider hai sukuṅ ishq-e-Haider hai junuṅ
@@ -23,9 +23,9 @@ romanLyrics: |-
   Ye ibaadat hai meri ye hai tasbih meri
 
   1
-  Meri fitrat mein yehi hai ke main haq bolta huṅ
-  Apne Maula ke fazaail mein gauhar tolta huṅ
-  Jaa ke mimbar pe main asraar-e-khafi kholta huṅ
+  Meri fitrat meiṅ yehi hai ke maiṅ haq bolta huṅ
+  Apne Maula ke fazaail meiṅ gauhar tolta huṅ
+  Jaa ke mimbar pe maiṅ asraar-e-khafi kholta huṅ
   Farsh se arsh talak jaante haiṅ ye malak
   Tur pe nur tha wo mere Maula ki jhalak
   Hur o haiwaaṅ ne kaha dekh kar nur-e-jali
@@ -34,30 +34,30 @@ romanLyrics: |-
   Tum ko haq hai ke mujhe saahib-e-kirdaar kaho
   Mujh ko Haider ke ghulaamoṅ ka bhi hubdaar kaho
   Khuld jis par hui waajib wohi maikhwaar kaho
-  Ae zamaane ye bata main kahaaṅ jaauṅ bhala
+  Ae zamaane ye bata maiṅ kahaaṅ jaauṅ bhala
   Chaahiye mujh ko faqat ishq-e-Haider ka nasha
   Aisa maikhaana dikha jis ka saaqi ho Ali
 
   3
-  Main to darwesh ki basti ko hi pehchaanta huṅ
-  Jo malangaan-e-Ali hai main unheṅ jaanta huṅ
-  Maanta hai jo Ali ko main unheṅ maanta huṅ
+  Maiṅ to darwesh ki basti ko hi pehchaanta huṅ
+  Jo malangaan-e-Ali hai maiṅ unheṅ jaanta huṅ
+  Maanta hai jo Ali ko maiṅ unheṅ maanta huṅ
   Hai mera naam o nasab mere Maula ke sabab
   Jo hai waliyoṅ ka wali Shaah-e-diṅ Shaah-e-Arab
-  Misl-e-Kaaba hai ye dil aur dharkan mein meri
+  Misl-e-Kaaba hai ye dil aur dharkan meiṅ meri
 
   4
-  Jab talak jaan mein hai jaan gawaahi duṅga
+  Jab talak jaan meiṅ hai jaan gawaahi duṅga
   Mere Maula mera imaan gawaahi duṅga
   Hai wohi bolta Quraan gawaahi duṅga
   Meri bakhshish ka hai saamaan gawaahi duṅga
 
   5
-  Zindagi is ki mohabbat mein guzar jaaye to kya
-  Ishq ban kar wo mere dil mein utar jaaye to kya
+  Zindagi is ki mohabbat meiṅ guzar jaaye to kya
+  Ishq ban kar wo mere dil meiṅ utar jaaye to kya
   Ruh phir jism se parwaaz bhi kar jaaye to kya
   Mukhtasar baat karuṅ pesh jazbaat karuṅ
-  Qabr mein aaye Ali main mulaaqaat karuṅ
+  Qabr meiṅ aaye Ali maiṅ mulaaqaat karuṅ
   Phir Ali se hi kahuṅ tha mera wird yehi
 
   6

@@ -20,7 +20,7 @@ romanLyrics: |-
   Fatema par wo zamaana koi aasaan na tha
 
   2
-  Haath paaband hai gardan mein hai jis ke rassi
+  Haath paaband hai gardan meiṅ hai jis ke rassi
   Hai wo mazlum mera waali zamaane ka wali
   Jaa ke dar dar pe bataana koi aasaan na tha
 
@@ -30,12 +30,12 @@ romanLyrics: |-
   Haath pehlu se hataana koi aasaan na tha
 
   4
-  Puchha Zainab ne jo baaloṅ mein safedi kiuṅ hai
+  Puchha Zainab ne jo baaloṅ meiṅ safedi kiuṅ hai
   Ro ke beti se faqat itna kaha Zahra ne
-  Bhare darbar mein jaana koi aasaan na tha
+  Bhare darbar meiṅ jaana koi aasaan na tha
 
   5
-  Mekh darwaaze ki pehlu mein gari thi lekin
+  Mekh darwaaze ki pehlu meiṅ gari thi lekin
   Dard se saaṅs bhi lena tha jahaaṅ naamumkin
   Phir bhi Haidar ko bachaana koi aasaan na tha
 
@@ -51,8 +51,8 @@ romanLyrics: |-
 
   8
   Maamta maaṅ ki Raza hum se raqam kaise ho
-  Haaye Darwesh ke us dard mein bhi bachchoṅ ko
-  Apne pehlu mein sulaana koi aasaan na tha
+  Haaye Darwesh ke us dard meiṅ bhi bachchoṅ ko
+  Apne pehlu meiṅ sulaana koi aasaan na tha
 # source_id: nohayonline:333a392b526ba5f04b68
 # source_url: https://www.nohayonline.com/details_content.php?id=1039
 # raw_sha256: 7e0e0a32cc172f9dc63e539f44809360d2d54ed5a1d1645e586140bcb7dba25b

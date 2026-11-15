@@ -14,69 +14,69 @@ romanLyrics: |-
   Aayi jawaaṅ laal ke marne ki jab khabar
   Maaṅ royi donoṅ haathoṅ se dil apna thaam kar
   Muṅh pitti thi apna kabhi pitti thi sar
-  Kehti thi lut gaya mera Karb o Bala mein ghar
+  Kehti thi lut gaya mera Karb o Bala meiṅ ghar
   Barchhi ne tor daala jigar meri jaan ka
-  Sehra na dekh paayi main apne jawaan ka
+  Sehra na dekh paayi maiṅ apne jawaan ka
 
   Janab-e-Umm-e-Laila yehi parhti thi nauha
-  Na dekha main ne apne jawaaṅ bete ka sehra
+  Na dekha maiṅ ne apne jawaaṅ bete ka sehra
 
   Meri nazroṅ ke aage luti hai meri dunya
-  Na dekha main ne apne jawaaṅ bete ka sehra
+  Na dekha maiṅ ne apne jawaaṅ bete ka sehra
 
   1
   Duaaeiṅ kar ke athaarah baras jis laal ko paala
-  Lahu mein dub kar aaya hai wo kariyal jawaaṅ mera
-  Kahaaṅ se laauṅ himmat main kaise dekhuṅ laasha
-  Na dekha main ne apne jawaaṅ bete ka sehra
+  Lahu meiṅ dub kar aaya hai wo kariyal jawaaṅ mera
+  Kahaaṅ se laauṅ himmat maiṅ kaise dekhuṅ laasha
+  Na dekha maiṅ ne apne jawaaṅ bete ka sehra
 
   2
   Nahiṅ tha saahib-e-aulaad kya wo bereham qaatil
   Nikaala jis ki barchhi ne mere kariyal jawaaṅ ka dil
   Mere bachche ko pyaasa laiṅ ne maar daala
-  Na dekha main ne apne jawaaṅ bete ka sehra
+  Na dekha maiṅ ne apne jawaaṅ bete ka sehra
 
   3
-  Sila tha main ne khud apne pisar ke byaah ka jora
+  Sila tha maiṅ ne khud apne pisar ke byaah ka jora
   Bahut nazdik tha din mere shahzaade ki shaadi ka
   Kahaaṅ mujhko khabar thi lutegi meri dunya
-  Na dekha main ne apne jawaaṅ bete ka sehra
+  Na dekha maiṅ ne apne jawaaṅ bete ka sehra
 
   4
   Bara armaan tha Akbar ki hogi jab teri shaadi
-  Bulaauṅgi teri dulhan ko main Yasrab ki shahzaadi
-  Magar qismat mein meri wo din aane na paaya
-  Na dekha main ne apne jawaaṅ bete ka sehra
+  Bulaauṅgi teri dulhan ko maiṅ Yasrab ki shahzaadi
+  Magar qismat meiṅ meri wo din aane na paaya
+  Na dekha maiṅ ne apne jawaaṅ bete ka sehra
 
   5
   Nahiṅ tha dur wo din jab tamanna meri bar aati
   Bahut hi dhum se baaraat mere laal ki jaati
   Magar Karb o Bala ne mere Yusuf ko chhina
-  Na dekha main ne apne jawaaṅ bete ka sehra
+  Na dekha maiṅ ne apne jawaaṅ bete ka sehra
 
   6
   Saroṅ ko pit ke ahl-e-haram karne lage maatam
   Ali Akbar ke laashe par kaha Laila ne ye jis dam
   Lagaauṅ kisko mehndi banaauṅ kisko dulha
-  Na dekha main ne apne jawaaṅ bete ka sehra
+  Na dekha maiṅ ne apne jawaaṅ bete ka sehra
 
   7
-  Ye hasrat thi main apne laal ki shaadi racha leti
+  Ye hasrat thi maiṅ apne laal ki shaadi racha leti
   Ali Akbar ki dulhan ko kaleje se laga leti
   Kaleja mamta ka na hone paaya thanda
-  Na dekha main ne apne jawaaṅ bete ka sehra
+  Na dekha maiṅ ne apne jawaaṅ bete ka sehra
 
   8
   Ye keh kar Umm-e-Laila pitti thi sar kabhi sina
   Nahiṅ hai maut se kam ab Ali Akbar ke bin jina
   Luti uski jawaani jo meri zindagi tha
-  Na dekha main ne apne jawaaṅ bete ka sehra
+  Na dekha maiṅ ne apne jawaaṅ bete ka sehra
 
   9
   Na ujre maadar-e-Akbar ki tarah koi maaṅ Waiz
-  Na maara jaaye ghurbat mein kisi ka naujawaan Waiz
-  Na tarpe ab jahaaṅ mein ye keh kar koi dukhiya
-  Na dekha main ne apne jawaaṅ bete ka sehra
+  Na maara jaaye ghurbat meiṅ kisi ka naujawaan Waiz
+  Na tarpe ab jahaaṅ meiṅ ye keh kar koi dukhiya
+  Na dekha maiṅ ne apne jawaaṅ bete ka sehra
 # source_id: nohayonline:783f4fbe34a1041e79b5
 # source_url: https://www.nohayonline.com/details_content.php?id=3156
 # raw_sha256: 7ae522171ef673331d427759121e05110eb41589f9cf8b317e218b5907c35e7b

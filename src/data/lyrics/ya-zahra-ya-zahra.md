@@ -33,7 +33,7 @@ romanLyrics: |-
   Haae baad-e-Nabi mahv-e-fughaaṅ Ali
   Chhaai hai tiragi aai kaisi ghari
   Roti hai zindagi haae ye bekasi
-  Aankhoṅ mein hai nami Fizza kehti rahi
+  Aankhoṅ meiṅ hai nami Fizza kehti rahi
   Sar pe ho saaya figan teri rida
 
   4
@@ -53,7 +53,7 @@ romanLyrics: |-
   6
   Zulm ye kya hua tera ghar jal gaya
   Mohsin bhi chal basa Fizza ne ye kaha
-  Sakte mein Sayyeda aao ae Murtaza
+  Sakte meiṅ Sayyeda aao ae Murtaza
   Nauha ye jab suna chhaai gham ki ghata
   Sar pe ho saaya figan teri rida
 

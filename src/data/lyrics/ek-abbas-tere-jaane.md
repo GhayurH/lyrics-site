@@ -26,7 +26,7 @@ romanLyrics: |-
   Ek Abbas tere jaane se
 
   3
-  Aankh mein aansu dil tarapta raha
+  Aankh meiṅ aansu dil tarapta raha
   Jab chale Shaah-e-Karbala tanha
   Chhe mahine ki jaan ko le kar
   Ek Abbas tere jaane se
@@ -38,7 +38,7 @@ romanLyrics: |-
   Ek Abbas tere jaane se
 
   5
-  Thokareṅ ran mein khaate dekha hai
+  Thokareṅ ran meiṅ khaate dekha hai
   Laash-e-Akbar pe jaate dekha hai
   Dhundli dhundli thi Shaah-e-Diṅ ki nazar
   Ek Abbas tere jaane se
@@ -64,12 +64,12 @@ romanLyrics: |-
   9
   Kabhi baazaar-e-aam se guzri
   Kabhi zindaan-e-Shaam se guzri
-  Main asir-e-mehan phiri dar dar
+  Maiṅ asir-e-mehan phiri dar dar
   Ek Abbas tere jaane se
 
   10
   Kya kahuṅ dil pe mere kya guzri
-  Bazm-e-haakim mein sun rahe the sabhi
+  Bazm-e-haakim meiṅ sun rahe the sabhi
   Naam tha mera ghair ke lab par
   Ek Abbas tere jaane se
 

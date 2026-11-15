@@ -43,7 +43,7 @@ romanLyrics: |-
   Aaṅkh se khun ki rawaani hai
 
   8
-  Sadqe mein Shaah-e-Diṅ ke ae Haidar-e-Karraar
+  Sadqe meiṅ Shaah-e-Diṅ ke ae Haidar-e-Karraar
   Tujh ko taaid-e-aasmaani hai
 # source_id: nohayonline:73700b2fb5fe59a2931b
 # source_url: https://www.nohayonline.com/details_content.php?id=66

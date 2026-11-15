@@ -27,11 +27,11 @@ romanLyrics: |-
   Yaad aati hai shafqat ye hameṅ aap ki baba
 
   4
-  Har aan teri yaad mein rote haiṅ baraadar
+  Har aan teri yaad meiṅ rote haiṅ baraadar
   Zainab unheṅ kis tarah se samjhaayegi baba
 
   5
-  Zakhmi hua sar aap ka Allah ke ghar mein
+  Zakhmi hua sar aap ka Allah ke ghar meiṅ
   Raas aap ko aayi na faza Kufe ki baba
 
   6
@@ -39,7 +39,7 @@ romanLyrics: |-
   Ab mujh se zamaane ne khushi chhin li baba
 
   7
-  Zainab yehi kehti thi Rasheed ashk baha kar
+  Zainab yehi kehti thi Rashid ashk baha kar
   Ab ho gayi viraan faza Kufe ki baba
 # source_id: nohayonline:6455ff9ab73a01e261ad
 # source_url: https://www.nohayonline.com/details_content.php?id=3040

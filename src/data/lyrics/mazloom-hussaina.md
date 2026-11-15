@@ -14,19 +14,19 @@ romanLyrics: |-
   Lachaar lachaar lachaar Husaina
 
   1
-  Mazloom Husaina mazloom Husaina
+  Mazlum Husaina mazlum Husaina
   Lachaar Husaina lachaar Husaina
 
   2
-  Jo kar na saki bhai ka deedar wo behna
-  Mazloom Husaina mazloom Husaina
+  Jo kar na saki bhai ka didar wo behna
+  Mazlum Husaina mazlum Husaina
   Baba tha jiska Haidar-e-Karrar wo behna
-  Mazloom Husaina mazloom Husaina
+  Mazlum Husaina mazlum Husaina
   Har gaam pe thi bhai ki ghamkhwar wo behna
-  Mazloom Husaina mazloom Husaina
+  Mazlum Husaina mazlum Husaina
 
   3
-  Mazloom Husaina mazloom Husaina
+  Mazlum Husaina mazlum Husaina
   Lachaar Husaina lachaar Husaina
 # source_id: nohayonline:c0ebde945a22ff42dfe5
 # source_url: https://www.nohayonline.com/details_content.php?id=795

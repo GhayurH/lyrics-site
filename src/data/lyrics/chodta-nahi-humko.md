@@ -27,7 +27,7 @@ romanLyrics: |-
 
   4
   So gaye kahaaṅ Abbas waqt hai tilaaye ka
-  Kab se raah takte haiṅ dasht mein haram tanha
+  Kab se raah takte haiṅ dasht meiṅ haram tanha
 
   5
   Kitne aish maango ge khud fareb divaanoṅ
@@ -35,10 +35,10 @@ romanLyrics: |-
 
   6
   Keh ke ye sar-e-Shah se daad chaahi Aabid ne
-  Karbala mein lashkar tha Shaam mein hai hum tanha
+  Karbala meiṅ lashkar tha Shaam meiṅ hai hum tanha
 
   7
-  Baandh de koi is mein ek mashk chhoti si
+  Baandh de koi is meiṅ ek mashk chhoti si
   Suna suna lagta hai panja-e-alam tanha
 
   8

@@ -24,9 +24,9 @@ romanLyrics: |-
 
   3
   Paaband-e-rasan ho ke chali Karb o Bala se
-  Sang-e-Zainab o Kulsum ke baazaar mein aai
+  Sang-e-Zainab o Kulsum ke baazaar meiṅ aai
   Sau zulm sahe sadqe magar haath na chhora
-  Fizza ne zaifi mein wafa khub nibhaai
+  Fizza ne zaifi meiṅ wafa khub nibhaai
   Chhora na zulm seh kar Zainab ka saath is ne
   Zehra se jo kiya tha waada nibha rahi hai
 

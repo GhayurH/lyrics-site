@@ -11,70 +11,70 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maqtal mein tha jab chaaroṅ taraf maut ka pehra
-  Ashoor ka din tha
+  Maqtal meiṅ tha jab chaaroṅ taraf maut ka pehra
+  Ashur ka din tha
   Baandhe tha kamar zulm pe jab lashkar-e-aada
-  Ashoor ka din tha
+  Ashur ka din tha
 
   1
   Jab paani ke izhaar pe parte the tamaanche
   Aur zulm naye the
   Jab pyaas ki shiddat se tarapti thi Sakina
-  Ashoor ka din tha
+  Ashur ka din tha
 
   2
   Jab Shah ne sinaaṅ khainchi thi Akbar ke jigar se
   Rote the farishte
   Jab Shah ne madad ke liye baba ko pukaara
-  Ashoor ka din tha
+  Ashur ka din tha
 
   3
   Jab laasha-e-Qasim pe sitam karte the sayyaar
   Maaṅ karti thi faryaad
   Jab baaloṅ ko bikhraaye hue baithi thi Kubra
-  Ashoor ka din tha
+  Ashur ka din tha
 
   4
-  Jab haath kate dasht mein Abbas-e-Jari ke
+  Jab haath kate dasht meiṅ Abbas-e-Jari ke
   Darya se na palte
   Jab Shaah kamar thaam ke farmaate the bhaiya
-  Ashoor ka din tha
+  Ashur ka din tha
 
   5
-  Maaṅ baithi thi khaime mein kaleje ko sambhaale
+  Maaṅ baithi thi khaime meiṅ kaleje ko sambhaale
   Aur karti thi naale
   Jab Shah ne lahu chehre pe Asghar ka mala tha
-  Ashoor ka din tha
+  Ashur ka din tha
 
   6
-  Zainab ke kaleje pe chhuri chalti thi ghar mein
-  Surat thi nazar mein
+  Zainab ke kaleje pe chhuri chalti thi ghar meiṅ
+  Surat thi nazar meiṅ
   Jab Shimr-e-laiṅ Shah ka gala kaat raha tha
-  Ashoor ka din tha
+  Ashur ka din tha
 
   7
   Jab sar se rida Hazrat-e-Zainab ke chhini thi
   Jab jaaṅ pe bani thi
-  Jab mardoṅ mein tha Sayyid-e-Sajjad akela
-  Ashoor ka din tha
+  Jab mardoṅ meiṅ tha Sayyid-e-Sajjad akela
+  Ashur ka din tha
 
   8
   Maadar ki tasalli ka bhi rakha nahiṅ saamaaṅ
   Kaise the Musalmaan
   Jab luta gaya Asghar-e-Maasum ka jhula
-  Ashoor ka din tha
+  Ashur ka din tha
 
   9
   Shah laaye the jab Aun o Muhammad ke janaaze
   Maidaaṅ se utha ke
   Jab Hazrat-e-Zainab ne kiya shukr ka sajda
-  Ashoor ka din tha
+  Ashur ka din tha
 
   10
-  Ishrat main bayaaṅ kaise karuṅ Shah ki musibat
+  Ishrat maiṅ bayaaṅ kaise karuṅ Shah ki musibat
   Barpa thi qayaamat
   Jab qabr-e-Nabi hilti thi jab roti thi Zehra
-  Ashoor ka din tha
+  Ashur ka din tha
 # source_id: nohayonline:32f94eefb52c3362a0ef
 # source_url: https://www.nohayonline.com/details_content.php?id=1357
 # raw_sha256: 6f8e997a8292d8f5843f0742bf294a17e2fad8f62a25af2f350821355ad89471

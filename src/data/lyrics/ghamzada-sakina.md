@@ -14,11 +14,11 @@ romanLyrics: |-
   Ghamzada Sakina parh rahi hai nauha
   Haae meri ghurbat haae meri ghurbat
 
-  Itne chhote sin mein main hui yatima
+  Itne chhote sin meiṅ maiṅ hui yatima
   Haae meri ghurbat haae meri ghurbat
 
   1
-  Kamsini mein khaa rahi huṅ dar badar ki thokar
+  Kamsini meiṅ khaa rahi huṅ dar badar ki thokar
   Mere ammu jaaṅ so gaye nehr pe jaa kar
   Mera Qasim na raha mera Akbar na raha
   Koi munis na raha koi yaawar na raha
@@ -40,14 +40,14 @@ romanLyrics: |-
 
   4
   Mere baap ka gala kata hai mere aage
-  Ek din mein mera ghar luta hai mere aage
+  Ek din meiṅ mera ghar luta hai mere aage
   Mera Qasim na raha mera Akbar na raha
   Koi munis na raha koi yaawar na raha
   Mujh ko badnasibi ne ye din dikhaaya
 
   5
   Ae jahaaṅ waaloṅ us ko chain kaise aaye
-  Jis ka baap ran mein bhuka pyaasa maara jaaye
+  Jis ka baap ran meiṅ bhuka pyaasa maara jaaye
   Mera Qasim na raha mera Akbar na raha
   Koi munis na raha koi yaawar na raha
   Phat raha hai gham se ab mera kaleja
@@ -57,7 +57,7 @@ romanLyrics: |-
   Aal-e-Mustafa ko maare jaa rahe haiṅ patthar
   Mera Qasim na raha mera Akbar na raha
   Koi munis na raha koi yaawar na raha
-  Khuṅ mein tar ba tar hai aaj mera kunba
+  Khuṅ meiṅ tar ba tar hai aaj mera kunba
 
   7
   Aaj bhi sunaai de rahi hai wo karaaheṅ

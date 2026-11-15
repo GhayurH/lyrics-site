@@ -12,10 +12,10 @@ aliases: ["Lakhte Dile Hasan"]
 published: true
 romanLyrics: |-
   Lakht-e-dil-e-Hasan ke tukre utha utha ke
-  Daaman mein rakh rahe haiṅ Sarwar saja saja ke
+  Daaman meiṅ rakh rahe haiṅ Sarwar saja saja ke
 
   1
-  Karb o bala mein beta maadar ki laaj rakhna
+  Karb o bala meiṅ beta maadar ki laaj rakhna
   Bachpan se maaṅ ne paala lori suna suna ke
 
   2
@@ -23,15 +23,15 @@ romanLyrics: |-
   Karte haiṅ pyaar Sarwar dil se laga laga ke
 
   3
-  Ye keh ke ran mein Qaasim fauj-e-jafa pe tute
-  Larte nahiṅ haiṅ ran mein jaaṅ ko bacha bacha ke
+  Ye keh ke ran meiṅ Qaasim fauj-e-jafa pe tute
+  Larte nahiṅ haiṅ ran meiṅ jaaṅ ko bacha bacha ke
 
   4
   Josh-e-wafa-e-Qaasim Ghaazi se mil raha hai
   Darya se uth rahi hai maujeṅ wafa wafa ke
 
   5
-  Ik tashna lab ko ran mein laakhoṅ ne mil ke maara
+  Ik tashna lab ko ran meiṅ laakhoṅ ne mil ke maara
   Taapoṅ se raund daala ghore bhaga bhaga ke
 
   6
@@ -40,7 +40,7 @@ romanLyrics: |-
 
   7
   Paamaal ho ke pyaasa sairaab ho raha hai
-  Tashna labi ko apne khuṅ mein bujha bujha ke
+  Tashna labi ko apne khuṅ meiṅ bujha bujha ke
 
   8
   Maaṅ dekhne na paaye tukre badan hai saara
@@ -51,11 +51,11 @@ romanLyrics: |-
   Haṅste rahe sitamgar khaime jala jala ke
 
   10
-  Farwa ka chaand khuṅ mein duba kuchh is tarah se
+  Farwa ka chaand khuṅ meiṅ duba kuchh is tarah se
   Rota raha falak bhi taare bujha bujha ke
 
   11
-  Tukre nahiṅ ye Qaasim ran mein tere badan ke
+  Tukre nahiṅ ye Qaasim ran meiṅ tere badan ke
   Naqsh-e-baqa rakhe haiṅ tu ne bana bana ke
 # source_id: nohayonline:d55f4fe992af8f3660b5
 # source_url: https://www.nohayonline.com/details_content.php?id=2920

@@ -12,15 +12,15 @@ aliases: []
 published: true
 romanLyrics: |-
   Hai shaam-e-gharibaaṅ ka nauha
-  Bimaar bahut taklif mein hai
+  Bimaar bahut taklif meiṅ hai
 
   Aaraam se hai zaalim dunya
-  Bimaar bahut taklif mein hai
+  Bimaar bahut taklif meiṅ hai
 
   1
   Kuch din se ghashi ka aalam tha
   Jab aankh khuli to sannaata
-  Dubi hai lahu mein Karb o Bala
+  Dubi hai lahu meiṅ Karb o Bala
 
   2
   Hai chaaroṅ taraf khaimoṅ ka dhuaaṅ
@@ -30,7 +30,7 @@ romanLyrics: |-
   3
   Har dil pe bahattar sadme hai
   Faryaad pe durre lagte haiṅ
-  Hai ganj-e-shahidaaṅ mein kunba
+  Hai ganj-e-shahidaaṅ meiṅ kunba
 
   4
   Ye zulm ki kaisi manzil hai
@@ -40,7 +40,7 @@ romanLyrics: |-
   5
   Dushman hai ye sab dunya waale
   Wo apni musibat kis se kahe
-  Wo bhir mein reh kar bhi tanha
+  Wo bhir meiṅ reh kar bhi tanha
 
   6
   Zakhmoṅ se bhara har pehlu hai
@@ -54,21 +54,21 @@ romanLyrics: |-
 
   8
   Jine ka nahiṅ koi armaaṅ
-  Balwe mein khule sar hai phuphiyaaṅ
+  Balwe meiṅ khule sar hai phuphiyaaṅ
   Bechain bahut hai dil ye mera
 
   9
   Gir gir ke sambhalna hai usko
-  Har haal mein chalna hai usko
+  Har haal meiṅ chalna hai usko
   Ruk jaaye to parta hai durra
 
   10
   Neze pe charha hai baap ka sar
-  Aur ahl-e-haram hai be chaadar
+  Aur ahl-e-haram hai bechaadar
   Qismat ne dikhaaya hai kya kya
 
   11
-  Zindaaṅ mein behen ko maut aayi
+  Zindaaṅ meiṅ behen ko maut aayi
   De ghusl o kafan kaise bhai
   Rakha hai Sakina ka laasha
 
@@ -83,9 +83,9 @@ romanLyrics: |-
   Hai surkh lahu se uski aba
 
   14
-  Ye likhna Suroor aasaan nahiṅ
-  Lagta hai badan mein jaan nahiṅ
-  Tahrir karuṅ kaise main bhala
+  Ye likhna Surur aasaan nahiṅ
+  Lagta hai badan meiṅ jaan nahiṅ
+  Tahrir karuṅ kaise maiṅ bhala
 # source_id: nohayonline:1d4b0e75a38e085af396
 # source_url: https://www.nohayonline.com/details_content.php?id=3744
 # raw_sha256: b4d87e1f50d679374a5748a0d1f7eed5aad03211c1b982773166131284cc7127

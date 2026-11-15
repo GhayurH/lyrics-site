@@ -11,10 +11,10 @@ aliases: ["Shabbir Akele Hai"]
 published: true
 romanLyrics: |-
   Shabbir akele haiṅ kamar tut chuki hai
-  Aur laash jawaaṅ saal ki maqtal mein pari hai
+  Aur laash jawaaṅ saal ki maqtal meiṅ pari hai
 
   1
-  Shaah chur haiṅ zakhmoṅ se nahiṅ khun badan mein
+  Shaah chur haiṅ zakhmoṅ se nahiṅ khun badan meiṅ
   Lab chipke hue aur zubaaṅ ka kaantoṅ bhari hai
 
   2
@@ -35,15 +35,15 @@ romanLyrics: |-
 
   6
   Dil waalo zara socho ke kya guzregi Shaah par
-  Naize ki ani sina-e-Akbar mein gari hai
+  Naize ki ani sina-e-Akbar meiṅ gari hai
 
   7
   Dil thaam ke kiuṅ baith gayi maadar-e-Akbar
-  Kya nok-e-sinaaṅ maaṅ ke kaleje mein lagi hai
+  Kya nok-e-sinaaṅ maaṅ ke kaleje meiṅ lagi hai
 
   8
   Shaah kehte haiṅ Akbar nazar aata nahiṅ rasta
-  Kya saath gharibi mein nazar chhor chuki hai
+  Kya saath gharibi meiṅ nazar chhor chuki hai
 
   9
   Ye taaziyadaari hai mohabbat ki alaamat

@@ -17,72 +17,72 @@ romanLyrics: |-
   Ye zindagi baad-e-Zehra
   Ba Khuda shikasta hai
   Aah tere baad Ae Zehra
-  Main dil soz o shikasta
-  Main dil zaar o girafta
-  Khuda nigahdaar ke main musaafir-e-shab zinda daar
-  Khuda nigahdaar ke main paikar-e-dilfigaar
+  Maiṅ dil soz o shikasta
+  Maiṅ dil zaar o girafta
+  Khuda nigahdaar ke maiṅ musaafir-e-shab zinda daar
+  Khuda nigahdaar ke maiṅ paikar-e-dilfigaar
 
   2
   Roz o shab-e-viraani
   Zindagi ye zindaani
   Zindagi ye baad-e-Zehra
   Ba Khuda nahiṅ katti
-  Khuda nigahdaar ke main musaafir-e-shab zinda daar
-  Khuda nigahdaar ke main paikar-e-dilfigaar
+  Khuda nigahdaar ke maiṅ musaafir-e-shab zinda daar
+  Khuda nigahdaar ke maiṅ paikar-e-dilfigaar
 
   3
   Haaye dard-e-dil mere
   Jo Ali na keh paaya
-  Raaz wo liye dil mein
+  Raaz wo liye dil meiṅ
   Ja raha hai Ae duniya
   Kal na saluni sunoge
   Kal na saluni kahuṅ ga
-  Main chala su-e-Kirdigaar
-  Khuda nigahdaar ke main musaafir-e-shab zinda daar
-  Khuda nigahdaar ke main paikar-e-dilfigaar
+  Maiṅ chala su-e-Kirdigaar
+  Khuda nigahdaar ke maiṅ musaafir-e-shab zinda daar
+  Khuda nigahdaar ke maiṅ paikar-e-dilfigaar
 
   4
-  Wo Ali huṅ jangoṅ mein
+  Wo Ali huṅ jangoṅ meiṅ
   Jis ne maut ko ghera
-  Fatima ki furqat mein zabt kho gaya mera
+  Fatima ki furqat meiṅ zabt kho gaya mera
   Haaye tere baad Ae Zahra
   Haaye viraan hai duniya
-  Main chala su-e-Kirdigaar
-  Khuda nigahdaar ke main musaafir-e-shab zinda daar
-  Khuda nigahdaar ke main paikar-e-dilfigaar
+  Maiṅ chala su-e-Kirdigaar
+  Khuda nigahdaar ke maiṅ musaafir-e-shab zinda daar
+  Khuda nigahdaar ke maiṅ paikar-e-dilfigaar
 
   5
   Haaye Fatema Zehra
   Sabr kaisa paaya tha
   Raaz zakhmi pehlu ka
   Mujh se bhi chhupaaya tha
-  Main kabhi bhul na paaya wo
+  Maiṅ kabhi bhul na paaya wo
   Tera pehlu shikasta
-  Main chala su-e-Kirdigaar
-  Khuda nigahdaar ke main musaafir-e-shab zinda daar
-  Khuda nigahdaar ke main paikar-e-dilfigaar
+  Maiṅ chala su-e-Kirdigaar
+  Khuda nigahdaar ke maiṅ musaafir-e-shab zinda daar
+  Khuda nigahdaar ke maiṅ paikar-e-dilfigaar
 
   6
   Is sitam ne Ae Zahra
   Kitna mujh ko rulwaaya
-  Main Ali tha aur tera
-  Haq na main dila paaya
+  Maiṅ Ali tha aur tera
+  Haq na maiṅ dila paaya
   Haaye tu dukhtar-e-Aaqa
-  Aur darbaar mein jaana
-  Main chala su-e-Kirdigaar
-  Khuda nigahdaar ke main musaafir-e-shab zinda daar
-  Khuda nigahdaar ke main paikar-e-dilfigaar
+  Aur darbaar meiṅ jaana
+  Maiṅ chala su-e-Kirdigaar
+  Khuda nigahdaar ke maiṅ musaafir-e-shab zinda daar
+  Khuda nigahdaar ke maiṅ paikar-e-dilfigaar
 
   7
   Aa raha huṅ Ae Zahra
-  Main bhi jaanib-e-manzil
+  Maiṅ bhi jaanib-e-manzil
   Khuda haafiz o naasir
-  Main chala su-e-qaatil
+  Maiṅ chala su-e-qaatil
   Kal mera aakhri kalma
-  Fuzto be rabbil Kaaba
-  Main chala su-e-Kirdigaar
-  Khuda nigahdaar ke main musaafir-e-shab zinda daar
-  Khuda nigahdaar ke main paikar-e-dilfigaar
+  Fuzto berabbil Kaaba
+  Maiṅ chala su-e-Kirdigaar
+  Khuda nigahdaar ke maiṅ musaafir-e-shab zinda daar
+  Khuda nigahdaar ke maiṅ paikar-e-dilfigaar
 # source_id: nohayonline:c49d1ace45f2ed5faacb
 # source_url: https://www.nohayonline.com/details_content.php?id=432
 # raw_sha256: e53d08abefafb41f98e3a05dfb3afe0f42c931f190b00686820d5e7cb6aa602a

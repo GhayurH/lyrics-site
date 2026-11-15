@@ -20,7 +20,7 @@ romanLyrics: |-
   Ek pyase pe hai yalghaar koi ho to chale
 
   1
-  Qaafila so gaya maqtal mein sar-e-shaam sabhi
+  Qaafila so gaya maqtal meiṅ sar-e-shaam sabhi
   Reh gaya qaafila saalaar koi ho to chale
 
   2
@@ -32,7 +32,7 @@ romanLyrics: |-
   Kaun aisa hai wafaadaar koi ho to chale
 
   4
-  Reh gaya naizoṅ ke jangal mein musaafir tanha
+  Reh gaya naizoṅ ke jangal meiṅ musaafir tanha
   Ye shahaadat ke haiṅ aasaar koi ho to chale
 
   5
@@ -56,7 +56,7 @@ romanLyrics: |-
   Saath roye dar o diwaar koi ho to chale
 
   10
-  Kis ke lehje mein Ali bol rahe haiṅ logoṅ
+  Kis ke lehje meiṅ Ali bol rahe haiṅ logoṅ
   Kaun bola sar-e-darbaar koi ho to chale
 
   11

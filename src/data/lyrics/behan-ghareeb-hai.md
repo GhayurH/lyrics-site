@@ -11,26 +11,26 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Reh gayi dasht mein tanha to watan yaad aaya
+  Reh gayi dasht meiṅ tanha to watan yaad aaya
   Paani piya to har ek tishna dahan yaad aaya
   Le ke har chiz Madine se chali thi Zainab
   Laash par bhaai ke pahuṅchi to kafan yaad aaya
 
   1
-  Shabbir teri ghurbat ki qasam main laash teri dafna deti
-  Gar sar pe mere chaadar hoti main tujh ko kafan pehna deti
+  Shabbir teri ghurbat ki qasam maiṅ laash teri dafna deti
+  Gar sar pe mere chaadar hoti maiṅ tujh ko kafan pehna deti
 
   2
-  Shabbir ye des paraaya hai warna main tumhaari mayyat par
+  Shabbir ye des paraaya hai warna maiṅ tumhaari mayyat par
   Ambaar lagaati kaliyoṅ ke phuloṅ ki meṅh barsa deti
 
   3
   Shabbir tumheṅ maalum to hai mere haath bandhe haiṅ gardan se
-  Gar haath mere jo khule hote main laash watan pahuṅcha deti
+  Gar haath mere jo khule hote maiṅ laash watan pahuṅcha deti
 
   4
   Shabbir ye tum ne achchha kiya Kaabe se nikal aae warna
-  Ye ummat qaimoṅ ke badle mein Kaabe ko aag laga deti
+  Ye ummat qaimoṅ ke badle meiṅ Kaabe ko aag laga deti
 
   5
   Kausar ye kise haq haasil hai tahrir Nabi ki chaak kare
@@ -42,23 +42,23 @@ romanLyrics: |-
 
   7
   Wo jis ki shaadi ka mujhe armaan tha bhaiya
-  Main aisi ujri ke dulha use bana na saki
+  Maiṅ aisi ujri ke dulha use bana na saki
 
   8
   Kaha Rubaab ne ye ro kar pyaase Asghar se
   Mujhe ye gham hai ke paani tujhe pila na saki
 
   9
-  Ae bhaai shaam-e-gharibaaṅ ke ghup andhere mein
+  Ae bhaai shaam-e-gharibaaṅ ke ghup andhere meiṅ
   Tumhaari baali Sakina ko nind aa na saki
 
   10
   Dafn tamaam shahidoṅ ke ho gae laashe
-  Main apne bhaai ki turbat magar bana na saki
+  Maiṅ apne bhaai ki turbat magar bana na saki
 
   11
   Gharib bhaai ka maatam na kar saki Zainab
-  Tumhaari laash pe aaṅsu bhi main baha na saki
+  Tumhaari laash pe aaṅsu bhi maiṅ baha na saki
 
   12
   Jalaaya aag ne daaman ko is tarah bhaiya

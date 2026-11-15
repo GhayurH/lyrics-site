@@ -11,36 +11,36 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Aaj har mulk mein Sarwar ki azaadaari hai
+  Aaj har mulk meiṅ Sarwar ki azaadaari hai
 
   1
-  Hind mein Paak mein Lubnaan mein Shabbir ka gham
-  Misr mein Rum mein Yunaan mein Shabbir ka gham
-  Had hai Spain mein Jaapaan mein Shabbir ka gham
+  Hind meiṅ Paak meiṅ Lubnaan meiṅ Shabbir ka gham
+  Misr meiṅ Rum meiṅ Yunaan meiṅ Shabbir ka gham
+  Had hai Spain meiṅ Jaapaan meiṅ Shabbir ka gham
   Saari dunya gham-e-Shabbir ki phulwaari hai
 
   2
   Abu Dhabi pe nazar daalo kabhi Qum dekho
-  Waadi-e-Shaam mein Shabbir ka chehlum dekho
-  Germany Norway Sweden mein talaatum dekho
-  Barf mein aag laga de ye wo chingaari hai
+  Waadi-e-Shaam meiṅ Shabbir ka chehlum dekho
+  Germany Norwe Sweden meiṅ talaatum dekho
+  Barf meiṅ aag laga de ye wo chingaari hai
 
   3
-  Kahiṅ London ke azaakhaanoṅ mein hai majlis-e-gham
+  Kahiṅ London ke azaakhaanoṅ meiṅ hai majlis-e-gham
   Kahiṅ America ke sarkoṅ pe julus-e-maatam
-  Ghar mein angrezoṅ ke lehraaya jari ka parcham
+  Ghar meiṅ angrezoṅ ke lehraaya jari ka parcham
   Ba khuda amn ka paighaam azaadaari hai
 
   4
-  Kuwait Bahrain mein Muscat mein to Doha mein alam
-  Switzerland mein Paris mein Canada mein alam
-  Shehr-e-Makka mein alam shehr-e-Madina mein alam
+  Kuwait Bahrain meiṅ Muscat meiṅ to Doha meiṅ alam
+  Switzerland meiṅ Paris meiṅ Canada meiṅ alam
+  Shehr-e-Makka meiṅ alam shehr-e-Madina meiṅ alam
   Aql hairaan hai ye kaisi alamdaari hai
 
   5
-  Libya mein hai azaakhaane alam Sydney mein
-  China mein kabhi majlis kabhi Nairobi mein
-  Gunj maatam ki hai Tanzania mein Turkey mein
+  Libya meiṅ hai azaakhaane alam Sydney meiṅ
+  China meiṅ kabhi majlis kabhi Nairobi meiṅ
+  Gunj maatam ki hai Tanzania meiṅ Turkey meiṅ
   Yehi maatam to Muhammad se wafaadaari hai
 
   6
@@ -50,9 +50,9 @@ romanLyrics: |-
   Gham-e-Shabbir jahaaṅ hai wohi bedaari hai
 
   7
-  Maatam-e-tashnalabi ab bhi hai daryaaoṅ mein
-  Shor nauhoṅ ka hai Africa ke sehraaoṅ mein
-  Karbala bolti hai dard ki bhaashaaoṅ mein
+  Maatam-e-tashnalabi ab bhi hai daryaaoṅ meiṅ
+  Shor nauhoṅ ka hai Africa ke sehraaoṅ meiṅ
+  Karbala bolti hai dard ki bhaashaaoṅ meiṅ
   Ab bhi kaunain pe is gham ka asar taari hai
 
   8
@@ -62,9 +62,9 @@ romanLyrics: |-
   Mohtaram kal bhi thi aur aaj bhi meyaari hai
 
   9
-  Jis ki ghaibat mein gham-e-Shah ka bharam rakha hai
+  Jis ki ghaibat meiṅ gham-e-Shah ka bharam rakha hai
   Intezaar us ka sar-e-dida-e-nam rakha hai
-  Har azaakhaane mein Ghaazi ka alam rakha hai
+  Har azaakhaane meiṅ Ghaazi ka alam rakha hai
   Aaj phir nusrat-e-Shabbir ki tayyaari hai
 
   10

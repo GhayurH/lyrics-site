@@ -1,6 +1,6 @@
 ---
 title: "بین تھے یہ بانو کے میرے بے زباں اصغر"
-alternateTitle: "Bain Thay Ye Bano Ke"
+alternateTitle: "Bain The Ye Bano Ke"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -15,10 +15,10 @@ romanLyrics: |-
   Shaam ho gayi beta tum gaye kahaaṅ Asghar
 
   1
-  Bekasi mein kya meri aas tut jaayegi
-  Ab tumhaare jhule mein kis ko maaṅ jhulaayegi
-  Dasht ke andhere mein kaise nind aayegi
-  Ghut rahi hai sine mein kab se loriyaaṅ Asghar
+  Bekasi meiṅ kya meri aas tut jaayegi
+  Ab tumhaare jhule meiṅ kis ko maaṅ jhulaayegi
+  Dasht ke andhere meiṅ kaise nind aayegi
+  Ghut rahi hai sine meiṅ kab se loriyaaṅ Asghar
 
   2
   Dekhne ko zinda thi maaṅ wo karb ka manzar
@@ -28,13 +28,13 @@ romanLyrics: |-
 
   3
   Tere jism-e-naazuk par pyaas ka asar dekha
-  Tera chaand sa chehra khuṅ mein tar ba tar dekha
-  Main ne nok-e-naiza par haaye tera sar dekha
+  Tera chaand sa chehra khuṅ meiṅ tar ba tar dekha
+  Maiṅ ne nok-e-naiza par haaye tera sar dekha
   Mar gayi na kiuṅ teri badnasib maaṅ Asghar
 
   4
   Kya bayaaṅ karuṅ beta mere qalb ki haalat
-  Phir rahi hai aankhoṅ mein teri chaand si surat
+  Phir rahi hai aankhoṅ meiṅ teri chaand si surat
   Kar saki na ji bhar ke haaye maaṅ teri khidmat
   Sharmsaar hai tujh se aaj teri maaṅ Asghar
 
@@ -45,8 +45,8 @@ romanLyrics: |-
   Phul sa wo sar tera aur wo sinaaṅ Asghar
 
   6
-  Reh gaya hai nazroṅ mein teri pyaas ka manzar
-  Ek bund bhi paani main na de saki dilbar
+  Reh gaya hai nazroṅ meiṅ teri pyaas ka manzar
+  Ek bund bhi paani maiṅ na de saki dilbar
   Maaṅ nisaar ho jaati tere khushk hoṅtoṅ par
   Shiddat-e-atash se wo teri hichkiyaaṅ Asghar
 

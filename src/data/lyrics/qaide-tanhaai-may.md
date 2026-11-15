@@ -11,26 +11,26 @@ tags: []
 aliases: ["Qaide Tanhaai May"]
 published: true
 romanLyrics: |-
-  Qaid-e-tanhaai mein dam ghutne laga hai mera
+  Qaid-e-tanhaai meiṅ dam ghutne laga hai mera
   Aa ke sine se lagaao Baba
-  Main andhere mein akeli hi na mar jaauṅ kahiṅ
+  Maiṅ andhere meiṅ akeli hi na mar jaauṅ kahiṅ
   Mujh ko marne se bachaao Baba
 
   1
-  Main teri yaad mein din raat yuṅ tarapti huṅ
-  Jaise pinjre mein koi ghaayal para ho panchhi
+  Maiṅ teri yaad meiṅ din raat yuṅ tarapti huṅ
+  Jaise pinjre meiṅ koi ghaayal para ho panchhi
   Maut ka khauf hai sannaata hai wiraani hai
   Meri imdaad ko aao Baba
 
   2
   Mujh ko aadat hai tere sine se sar rakhne ki
   Chain ki nind bhala kaise zamiṅ par aaye
-  Qaid khaane mein to parti hai bala ki garmi
-  Apni godi mein sula lo Baba
+  Qaid khaane meiṅ to parti hai bala ki garmi
+  Apni godi meiṅ sula lo Baba
 
   3
   Mere dada ne riha kitne kiye the qaidi
-  Us ki poti huṅ magar qaid mein majbur huṅ main
+  Us ki poti huṅ magar qaid meiṅ majbur huṅ maiṅ
   Naam le kar tera rone nahiṅ deta zaalim
   Ab meri qaid chhuraao Baba
 

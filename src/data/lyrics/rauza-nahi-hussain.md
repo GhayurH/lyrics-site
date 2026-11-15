@@ -11,25 +11,25 @@ tags: []
 aliases: ["Rauza Nahi Hussain"]
 published: true
 romanLyrics: |-
-  Ae kaash ab ki baar main jab jaauṅ Karbala
+  Ae kaash ab ki baar maiṅ jab jaauṅ Karbala
   Rauza nahiṅ Husain nazar aayeṅ saamne
 
   1
   Aankheṅ nahiṅ hoṅ phir bhi nazar aaye raasta
-  Main de raha huṅ aap ko Jabir ka waasta
+  Maiṅ de raha huṅ aap ko Jabir ka waasta
   Itna buland kijiye meinaar ishq ka
   Rauza nahiṅ Husain nazar aayeṅ saamne
 
   2
   Jis ko Husain mil gaye sab mil gaya use
-  Ab aur kya main maanguṅ ga gumbad ko dekh ke
-  Pehli nazar mein hogi laboṅ par yehi dua
+  Ab aur kya maiṅ maanguṅ ga gumbad ko dekh ke
+  Pehli nazar meiṅ hogi laboṅ par yehi dua
   Rauza nahiṅ Husain nazar aayeṅ saamne
 
   3
-  Palkeṅ jhuka ke jab rakhuṅ darbaar mein qadam
+  Palkeṅ jhuka ke jab rakhuṅ darbaar meiṅ qadam
   Ho jaaye meri aankhoṅ pe Abbas ka karam
-  Nazreṅ main jab uthaauṅ to dekhuṅ ye mojiza
+  Nazreṅ maiṅ jab uthaauṅ to dekhuṅ ye mojiza
   Rauza nahiṅ Husain nazar aayeṅ saamne
 
   4
@@ -39,15 +39,15 @@ romanLyrics: |-
   Rauza nahiṅ Husain nazar aayeṅ saamne
 
   5
-  Qaabil nahiṅ huṅ aap ke haaṅ maanta huṅ main
-  Par aap to karim haiṅ ye jaanta huṅ main
+  Qaabil nahiṅ huṅ aap ke haaṅ maanta huṅ maiṅ
+  Par aap to karim haiṅ ye jaanta huṅ maiṅ
   Ho jaaye is ghulaam ko ye maarifat ataa
   Rauza nahiṅ Husain nazar aayeṅ saamne
 
   6
-  Pahuṅchuṅ haram mein jab kaf-e-Abbas dekh kar
-  Chehre ke bal gira duṅ main khud ko zamin par
-  Ghazi ka pursa lijiye jab duṅ main ye sada
+  Pahuṅchuṅ haram meiṅ jab kaf-e-Abbas dekh kar
+  Chehre ke bal gira duṅ maiṅ khud ko zamin par
+  Ghazi ka pursa lijiye jab duṅ maiṅ ye sada
   Rauza nahiṅ Husain nazar aayeṅ saamne
 
   7
@@ -58,8 +58,8 @@ romanLyrics: |-
 
   8
   Milna hai hum ko Fatima Zahra ke chain se
-  Jo dil mein aarzu thi wo keh di Husain se
-  Is aas par hi jaayeṅ ge Zeeshan aur Raza
+  Jo dil meiṅ aarzu thi wo keh di Husain se
+  Is aas par hi jaayeṅ ge Zishan aur Raza
   Rauza nahiṅ Husain nazar aayeṅ saamne
 # source_id: nohayonline:8cf75eb4eab9c4e2bfae
 # source_url: https://www.nohayonline.com/details_content.php?id=1839

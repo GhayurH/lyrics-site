@@ -19,18 +19,18 @@ romanLyrics: |-
 
   2
   Kashaaṅ kashaaṅ mujhe darbaar le gaye aada
-  Chalo watan main tumheiṅ ab manaane aayi huṅ
+  Chalo watan maiṅ tumheiṅ ab manaane aayi huṅ
 
   3
   Hua na byaah par armaan mar gaye Akbar
   Tere janaaze ko dulha banaane aayi huṅ
 
   4
-  Main apne ashk-e-musalsal ki baandh kar lariyaaṅ
+  Maiṅ apne ashk-e-musalsal ki baandh kar lariyaaṅ
   Tere janaaze pe sehra charhaane aayi huṅ
 
   5
-  Hazaaroṅ thokareiṅ khaayi hai is zaifi mein
+  Hazaaroṅ thokareiṅ khaayi hai is zaifi meiṅ
   Magar nasib ka likha mitaane aayi huṅ
 # source_id: nohayonline:8e9b6a5f55bf4289d801
 # source_url: https://www.nohayonline.com/details_content.php?id=1457

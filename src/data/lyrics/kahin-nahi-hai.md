@@ -1,6 +1,6 @@
 ---
 title: "کہیں نہیں ہے سفر میں قیام زینب کو"
-alternateTitle: "Kahin Nahi Hai"
+alternateTitle: "Kahiṅ Nahi Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Kahiṅ nahiṅ hai safar mein qayaam Zainab ko
+  Kahiṅ nahiṅ hai safar meiṅ qayaam Zainab ko
   Abhi to jaana hai maqtal se Shaam Zainab ko
 
   1
@@ -20,13 +20,13 @@ romanLyrics: |-
   Khuda ne pesh kiya apna jaam Zainab ko
 
   2
-  Fana ke sail mein Zainab ka bain reh jaaye
+  Fana ke sail meiṅ Zainab ka bain reh jaaye
   Khuda ka chehra liye ya Husain reh jaaye
   Isi sabab se mila hai dawaam Zainab ko
 
   3
   Azal abad ke tasalsul hai chaahe din ho ke raat
-  Har ek zamaane mein karna faqat Husain ki baat
+  Har ek zamaane meiṅ karna faqat Husain ki baat
   Nahiṅ hai is ke siwa koi kaam Zainab ko
 
   4

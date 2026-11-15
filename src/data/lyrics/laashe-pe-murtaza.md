@@ -16,14 +16,14 @@ romanLyrics: |-
 
   1
   Duniya Hasan Husain ki andher ho gayi
-  Is kamsini mein bachchoṅ pe tuta hai aasmaaṅ
+  Is kamsini meiṅ bachchoṅ pe tuta hai aasmaaṅ
 
   2
-  Afsos maaṅ ke baad mein baba guzar gaye
+  Afsos maaṅ ke baad meiṅ baba guzar gaye
   Aansu lahu ke Zainab-e-muztar ke hai rawaaṅ
 
   3
-  Sajde mein sar hai khun se musalle lahu lahu
+  Sajde meiṅ sar hai khun se musalle lahu lahu
   Maari hai rozedaar ke wo zarbat-e-giraaṅ
 
   4
@@ -39,7 +39,7 @@ romanLyrics: |-
   Dushman usi ka ho gaya Kufe ka musalmaan
 
   7
-  Aankhoṅ mein ashk bhar ke ye Abbas ne kaha
+  Aankhoṅ meiṅ ashk bhar ke ye Abbas ne kaha
   Ham ko akela chhor ke baba gaye kahaaṅ
 
   8
@@ -51,7 +51,7 @@ romanLyrics: |-
   Hai Maisam o Miqdaar ke chehre dhuaaṅ dhuaaṅ
 
   10
-  Patjhar ki zad mein aa gaya sar sabz gulistaaṅ
+  Patjhar ki zad meiṅ aa gaya sar sabz gulistaaṅ
   Chhaai hai aisi gulshan-e-Islam par khizaaṅ
 
   11

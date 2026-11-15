@@ -21,18 +21,18 @@ romanLyrics: |-
 
   1
   Kamar jhuki hai jawaan beta
-  Bula raha hai main kaise jaauṅ
-  Andhera aaṅkhoṅ mein chha raha hai
+  Bula raha hai maiṅ kaise jaauṅ
+  Andhera aaṅkhoṅ meiṅ chha raha hai
   Kahaaṅ hai Ghazi madad ko aa ja
 
   2
-  Main su-e-khaima le jaauṅ kaise
+  Maiṅ su-e-khaima le jaauṅ kaise
   Jawaaṅ ka laasha ae mere bhai
   Zaif to larkhara raha hai
   Kahaaṅ hai Ghazi madad ko aa ja
 
   3
-  Duhaai deti hai ban mein Zehra
+  Duhaai deti hai ban meiṅ Zehra
   Sukun dil ka qaraar mera
   Wo qabr-e-Asghar bana raha hai
   Kahaaṅ hai Ghazi madad ko aa ja
@@ -44,7 +44,7 @@ romanLyrics: |-
   Kahaaṅ hai Ghazi madad ko aa ja
 
   5
-  Tarap ke boli ye ban mein Zehra
+  Tarap ke boli ye ban meiṅ Zehra
   Koi nahiṅ hai kise bulaauṅ
   Qayaam dushman jala raha hai
   Kahaaṅ hai Ghazi madad ko aa ja

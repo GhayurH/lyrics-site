@@ -13,10 +13,10 @@ aliases:
   - "Ibne Muljim Ne Hyder Ko Maara"
 published: true
 romanLyrics: |-
-  Ae Rozadaro Aah o Buka Ke Ye Roz Hain
-  Sadaat Par Nuzul-e-Bala Ke Ye Roz Hain
-  Sartaj-e-Ausiya Ki Aza Ke Ye Roz Hain
-  Tum Se Wida-e-Sher-e-Khuda Ke Ye Roz Hain
+  Ae Rozadaro Aah o Buka Ke Ye Roz Haiṅ
+  Sadaat Par Nuzul-e-Bala Ke Ye Roz Haiṅ
+  Sartaj-e-Ausiya Ki Aza Ke Ye Roz Haiṅ
+  Tum Se Wida-e-Sher-e-Khuda Ke Ye Roz Haiṅ
 
   Ibne Muljim Ne Hyder Ko Maara, Rozadaron Qayamat Ke Din Haiṅ
   Hum Se Bichra Hai Moula Hamara, Rozadaron Qayamat Ke Din Haiṅ

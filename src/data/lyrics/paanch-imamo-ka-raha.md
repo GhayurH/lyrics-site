@@ -22,7 +22,7 @@ romanLyrics: |-
   Hum haiṅ ghamkhwaar zamaane ke hamaara Abbas
 
   3
-  Khud hi mashkize mein Abbas ke aa jaati Furaat
+  Khud hi mashkize meiṅ Abbas ke aa jaati Furaat
   Us ko kar dete agar ek ishaara Abbas
 
   4
@@ -35,7 +35,7 @@ romanLyrics: |-
 
   6
   Wo to kahiye na mila izn-e-wigha Ghaazi ko
-  Warna kis jang mein afwaaj se haara Abbas
+  Warna kis jang meiṅ afwaaj se haara Abbas
 
   7
   De ke mashkiza Sakina se kaha Sarwar ne
@@ -47,7 +47,7 @@ romanLyrics: |-
 
   9
   Rakh ke sar zaanu pe Abbas ka kehte the Husain
-  Saath ghurbat mein na yuṅ chhoro khudaara Abbas
+  Saath ghurbat meiṅ na yuṅ chhoro khudaara Abbas
 
   10
   Sar barehna jo haram the to sar-e-nok-e-sina

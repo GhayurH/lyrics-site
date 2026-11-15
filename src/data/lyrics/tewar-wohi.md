@@ -26,7 +26,7 @@ romanLyrics: |-
   Ae fauj-e-Shaam dekh le kar ke jatan tamaam
 
   4
-  Bano ke gul badan ne haṅsi mein ura diya
+  Bano ke gul badan ne haṅsi meiṅ ura diya
   Bekaar ho gaya bin-e-Kaahil ka fan tamaam
 
   5
@@ -35,7 +35,7 @@ romanLyrics: |-
 
   6
   Zin-e-faraz se khaak pe pahuṅche to kis tarah
-  Tiroṅ mein hai gundha hua Sheh ka badan tamaam
+  Tiroṅ meiṅ hai gundha hua Sheh ka badan tamaam
 # source_id: nohayonline:081eea4757a0fb5ad13c
 # source_url: https://www.nohayonline.com/details_content.php?id=513
 # raw_sha256: b9f8082cd4307c2f98b11df452132cab19d9bb57cf0de2c971f3c592d9756ff3

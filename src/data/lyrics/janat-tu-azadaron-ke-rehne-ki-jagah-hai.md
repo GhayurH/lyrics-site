@@ -24,9 +24,9 @@ romanLyrics: |-
 
   Firdaus ke mewe meri ulfat ka samar haiṅ
   Gul gasht ko Jannat ke chaman pesh-e-nazar haiṅ
-  In sab ke dil-e-Panjtan-e-Paak mein ghar haiṅ
-  Shioṅ ke liye hashr mein hum sina sipar haiṅ
-  Is maarke mein aish o nishaat in ke liye haiṅ
+  In sab ke dil-e-Panjtan-e-Paak meiṅ ghar haiṅ
+  Shioṅ ke liye hashr meiṅ hum sina sipar haiṅ
+  Is maarke meiṅ aish o nishaat in ke liye haiṅ
   Na khauf-e-Jahannam na siraat in ke liye haiṅ
 
   1
@@ -45,7 +45,7 @@ romanLyrics: |-
   Jannat to azadaroṅ ke rehne ki jagah hai
 
   3
-  Sab jaante haiṅ aur wazaahat main karuṅ kya
+  Sab jaante haiṅ aur wazaahat maiṅ karuṅ kya
   Hoti hai zamin jis ki makaaṅ hota hai us ka
   Aur sahib-e-jaagir ka bas rehta hai qabza
   Haq daar jo hota hai wohi karta hai daawa
@@ -62,22 +62,22 @@ romanLyrics: |-
 
   5
   Allah ne ik roz farishtoṅ ko bulaya
-  Aur Shah ke azadaroṅ ke baare mein bataya
+  Aur Shah ke azadaroṅ ke baare meiṅ bataya
   Aaraaish-e-Jannat ka unheiṅ hukm sunaya
-  Jibril se ye khuld mein aelaan karaya
+  Jibril se ye khuld meiṅ aelaan karaya
   Jo marzi-e-Zahra hai wohi meri raza hai
   Jannat to azadaroṅ ke rehne ki jagah hai
 
   6
   Sab sach hai magar soche zara kaun azadar
   Jo sahib-e-taqwa hoṅ namazi bhi hoṅ sarkar
-  Guftaar mein Maisam hoṅ to kirdaar mein Mukhtar
+  Guftaar meiṅ Maisam hoṅ to kirdaar meiṅ Mukhtar
   Ke jin se razamand hoṅ khud Haidar-e-Karrar
-  Bas aise azadaroṅ ke baare mein likha hai
+  Bas aise azadaroṅ ke baare meiṅ likha hai
   Jannat to azadaroṅ ke rehne ki jagah hai
 
   7
-  Ik raat ko ye ahl-e-wila khwaab mein dekha
+  Ik raat ko ye ahl-e-wila khwaab meiṅ dekha
   Jannat se koi aa ke sarhaane mere baitha
   Phir us ne mujhe nind se bedaar karaya
   Aur kehne laga khuld se paighaam huṅ laya
@@ -87,9 +87,9 @@ romanLyrics: |-
   8
   Yasir yehi farmaati haiṅ khud Fatima Zahra
   Jab roz-e-jaza pesh-e-Khuda faisla hoga
-  Jannat mein nahiṅ jaauṅ gi karti huṅ main waada
+  Jannat meiṅ nahiṅ jaauṅ gi karti huṅ maiṅ waada
   Jab tak na chale jaaeiṅ muhib-e-Shah-e-waala
-  Main khuld ki malka huṅ ye haq main ne diya hai
+  Maiṅ khuld ki malka huṅ ye haq maiṅ ne diya hai
   Jannat to azadaroṅ ke rehne ki jagah hai
 ---
 

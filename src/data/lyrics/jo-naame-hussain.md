@@ -35,7 +35,7 @@ romanLyrics: |-
   Is tarah kabhi maare na marta ho to mar jaaye
 
   6
-  Socho to Urooj ab woh jiye kis ke sahaare
+  Socho to Uruj ab woh jiye kis ke sahaare
   Piri meiṅ jawaaṅ laal jis insaan ka mar jaaye
 # source_id: nohayonline:895a925ff2600bcd846b
 # source_url: https://www.nohayonline.com/details_content.php?id=637

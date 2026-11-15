@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Sadqe us dil ke jo ho hubb-e-Ali se aabaad
-  Us se behtar koi duniya mein makaaṅ aur bhi hai
+  Us se behtar koi duniya meiṅ makaaṅ aur bhi hai
   Karbala dekhi to hum samjhe ke haaṅ aur bhi hai
   Kaun qaail tha salaami ke jinaaṅ aur bhi hai
 
@@ -34,7 +34,7 @@ romanLyrics: |-
 
   4
   Falak-e-pir tujhe Sheh ki zaifi ki qasam
-  Ali Akbar sa zamaane mein javaaṅ aur bhi hai
+  Ali Akbar sa zamaane meiṅ javaaṅ aur bhi hai
   Karbala dekhi to hum samjhe ke haaṅ aur bhi hai
   Kaun qaail tha salaami ke jinaaṅ aur bhi hai
 
@@ -52,7 +52,7 @@ romanLyrics: |-
 
   7
   Apne farzandoṅ ke marne pe bhi girya na kiya
-  Dehr mein Zainab-e-Mazlum si maaṅ aur bhi hai
+  Dehr meiṅ Zainab-e-Mazlum si maaṅ aur bhi hai
   Karbala dekhi to hum samjhe ke haaṅ aur bhi hai
   Kaun qaail tha salaami ke jinaaṅ aur bhi hai
 

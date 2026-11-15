@@ -34,12 +34,12 @@ romanLyrics: |-
   Ek zamaana ye hai Sakina khaak ke upar soti hai
 
   6
-  Jis ne ummat ki raahoṅ mein farsh bichhaaya phuloṅ ka
-  Ummat us ke bimaaroṅ ki raah mein kaante boti hai
+  Jis ne ummat ki raahoṅ meiṅ farsh bichhaaya phuloṅ ka
+  Ummat us ke bimaaroṅ ki raah meiṅ kaante boti hai
 
   7
   Abr-e-khaali daaman ko Salman kabhi khaali na kaho
-  Yaad-e-shahid-e-Karb o Bala mein har aansu ik moti hai
+  Yaad-e-shahid-e-Karb o Bala meiṅ har aansu ik moti hai
 # source_id: nohayonline:13e46e3f208eb299723c
 # source_url: https://www.nohayonline.com/details_content.php?id=3536
 # raw_sha256: a8da4afb5abf36adee9ce027cc77d80fe68bbf8318a2c84e37e743cee9073eff

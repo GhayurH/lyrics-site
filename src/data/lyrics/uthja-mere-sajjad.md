@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Shaam-e-gharibaṅ jalte khaime uthta dhuaṅ
   Aun o Muhammad ki maaṅ
-  Aayi Sajjad ke khaime mein
+  Aayi Sajjad ke khaime meiṅ
   Kaha shaana hila kar rote hue
   Aabaad rahegi Karb o Bala
   Chal Shaam kareṅ aabaad
@@ -25,8 +25,8 @@ romanLyrics: |-
 
   1
   Ammaṅ ka haath gale par tha
-  Dur se dekha tha main ne
-  Maqtal mein sukhi gardan par
+  Dur se dekha tha maiṅ ne
+  Maqtal meiṅ sukhi gardan par
   Jab Shimr ne tera waar kiye
   Woh bhai mera waawaila
   Maara gaya pyaasa waawaila
@@ -34,7 +34,7 @@ romanLyrics: |-
   Pyaasi meri aulaad
 
   2
-  Khaimoṅ mein hi jal jaaye ya
+  Khaimoṅ meiṅ hi jal jaaye ya
   Khaimoṅ se nikal jaayeṅ baahar
   Kya hukm hai tera Zainab ko
   Ik baar bata de tu uth kar
@@ -46,7 +46,7 @@ romanLyrics: |-
   3
   Ye shaam-e-gharibaṅ hai beta
   Teri pehli shaam imaamat ki
-  Teri saalaari mein Shaam talak
+  Teri saalaari meiṅ Shaam talak
   Karna hai safar ban kar qaidi
   Na mahmil hai na haudaj hai
   Na lashkar ki woh saj dhaj hai
@@ -54,11 +54,11 @@ romanLyrics: |-
   Ghazi aayega yaad
 
   4
-  Be maqna o chaadar naaqe se
+  Bemaqna o chaadar naaqe se
   Hameṅ jaana hai Sajjad jahaaṅ
   Ae laal suno kaise hoga
   Saadaat ka istiqbaal wahaaṅ
-  Baazaar mein aane se pehle
+  Baazaar meiṅ aane se pehle
   Rokeṅ ge hameṅ darwaaze pe
   Galiyoṅ ko sajaaya jaayega
   Naye hoṅ ge sitam ijaad
@@ -66,19 +66,19 @@ romanLyrics: |-
   5
   Sajjad teri maasum bahan
   Zaalim ke tamaache khaayegi
-  Maangega kanizi mein haakim
-  Darbaar mein jab woh jaayegi
+  Maangega kanizi meiṅ haakim
+  Darbaar meiṅ jab woh jaayegi
   Mar jaayegi durre kha kha kar
-  Zindaan mein us ko dafna kar
+  Zindaan meiṅ us ko dafna kar
   Tujhe rona hai chaalis baras
   Na hoṅ ge kabhi hum shaad
 
   6
   Ash Shaam ash Shaam ash Shaam suna
   Aur aankheṅ kholiṅ Abid ne
-  Zainab ne kaha ae Zeeshan o
+  Zainab ne kaha ae Zishan o
   Irfan sahaara dete hue
-  Maqtal mein pare un laashoṅ ka
+  Maqtal meiṅ pare un laashoṅ ka
   Chehlum karne un pyaasoṅ ka
   Aayeṅ ge dobaara Karb o Bala
   Jab hoṅ ge hum aazaad

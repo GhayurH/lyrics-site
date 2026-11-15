@@ -15,7 +15,7 @@ romanLyrics: |-
 
   1
   Jahaaṅ na fikr jaa sake iraada na jis ko paa sake
-  Jo zehn mein na aa sake hai ek maujiza Husain
+  Jo zehn meiṅ na aa sake hai ek maujiza Husain
 
   2
   Nazar nazar palak palak bashar bashar malak malak
@@ -34,11 +34,11 @@ romanLyrics: |-
   Hazaar bandisheṅ hui ruki na ye aza Husain
 
   6
-  Sabeelona furaatona siraatona najaatona
+  Sabilona furaatona siraatona najaatona
   Hayaatona mamaatona hamaara na khuda Husain
 
   7
-  Malak ko baal o par diye Khuda ke din ko sar diye
+  Malak ko baal o par diye Khuda ke diṅ ko sar diye
   Sabhi ke kaans bhar diye karam ki intiha Husain
 
   8

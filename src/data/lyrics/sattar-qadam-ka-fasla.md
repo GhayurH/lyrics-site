@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Sattar qadam ka faasla bhai behan mein tha
+  Sattar qadam ka faasla bhai behan meiṅ tha
   Zainab lipat ke baap se deti rahi sada
 
   1
@@ -31,7 +31,7 @@ romanLyrics: |-
   3
   Kya kya na dekha aap ki Zainab ne baba jaaṅ
   Khanjar rawaaṅ tha halq pe khun halq se rawaaṅ
-  Takti thi apna rukh main chhupaye rida ke saath
+  Takti thi apna rukh maiṅ chhupaye rida ke saath
   Khanjar wo saaf karta tha sheh ki abaa ke saath
   Bhai tha mera khaak pe bejaaṅ para hua
 
@@ -43,11 +43,11 @@ romanLyrics: |-
   Sar ko dar-e-qiyaam pe laa kar gira diya
 
   5
-  Sine mein us ke pehlu mein aankhoṅ mein tir the
+  Sine meiṅ us ke pehlu meiṅ aankhoṅ meiṅ tir the
   Peshaani par bhi tir the us ke lage hue
   Baba Najaf ki simt pukaara hai aap ko
   Us waqt yaad karte the hum donoṅ baap ko
-  Main kya kahuṅ ke kaise wo sajda adaa hua
+  Maiṅ kya kahuṅ ke kaise wo sajda adaa hua
 
   6
   Ji bhar ke tir jis ghari barsa chuke laiṅ
@@ -64,18 +64,18 @@ romanLyrics: |-
   Lekin laiṅ Shimr ka khanjar nahiṅ ruka
 
   8
-  Jaate hue bhi dil mein Sakina ka tha khayaal
+  Jaate hue bhi dil meiṅ Sakina ka tha khayaal
   Waada ye hum se leke gaya tha tumhara laal
   Rakhiyo sambhaal kar ye amaanat Husain ki
-  Marte samay kuchh aisi thi haalat Husain ki
+  Marte same kuchh aisi thi haalat Husain ki
   Bas baar baar haaye Sakina pukaarta
 
   9
   Akbar ajib shaam-e-gharibaaṅ ki thi ghari
   Ro kar Ali se kehti thi Zehra ki laadli
-  Baba main chaah kar bhi na us waqt mar saki
+  Baba maiṅ chaah kar bhi na us waqt mar saki
   Jis dam badan se ruh ki parwaaz dekhi thi
-  Main dekhti rahi mera bhai chala gaya
+  Maiṅ dekhti rahi mera bhai chala gaya
 # source_id: nohayonline:cb6a77cc994306eefc13
 # source_url: https://www.nohayonline.com/details_content.php?id=1824
 # raw_sha256: 7ed479c9070c165bae47440bc230382ae91591f0d27b8d99c9b51f0c971cb490

@@ -16,22 +16,22 @@ romanLyrics: |-
 
   1
   Koi bhi dard ka manzar nahiṅ Zehra jaisa
-  Koi athaarah baras mein nahiṅ burha hota
+  Koi athaarah baras meiṅ nahiṅ burha hota
   Le ke chalti huṅ asa pasliyaaṅ tut gayiṅ
 
   2
   Haaye kar deṅ ge wo Haidar ke bhi sar ke tukre
-  Tasht mein hoṅ ge Hasan ke bhi jigar ke tukre
+  Tasht meiṅ hoṅ ge Hasan ke bhi jigar ke tukre
   Hai ye aaghaaz-e-jafa pasliyaaṅ tut gayiṅ
 
   3
   Zaalimoṅ ne Ali Asghar se bhi kamsin maara
-  Mujhko sholoṅ mein jala kar mera Mohsin maara
+  Mujhko sholoṅ meiṅ jala kar mera Mohsin maara
   Yuṅ sitam mujh par hua pasliyaaṅ tut gayiṅ
 
   4
-  Haaye Zainab teri ghurbat main kahuṅ kya kis se
-  Shaam mein tu bhi khari hogi bahattar ghante
+  Haaye Zainab teri ghurbat maiṅ kahuṅ kya kis se
+  Shaam meiṅ tu bhi khari hogi bahattar ghante
   Dil ye phatta hai mera pasliyaaṅ tut gayiṅ
 
   5

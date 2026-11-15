@@ -16,7 +16,7 @@ romanLyrics: |-
   Tashna dahan baba
 
   1
-  Agar maqtal mein main hoti
+  Agar maqtal meiṅ maiṅ hoti
   Tumhaare laashe par roti
   Gadaai kar ke pehnaati
   Tumheṅ do gaz kafan baba

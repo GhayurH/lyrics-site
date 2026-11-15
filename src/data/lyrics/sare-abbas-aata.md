@@ -25,13 +25,13 @@ romanLyrics: |-
   Nahiṅ hai paas gar chaadar to rakh lo haath hi sar par
 
   2
-  Bhara hoga lahu aankhoṅ mein us ki khud hataauṅgi
-  Main bachpan ki tarah se bhaai ka chehra dhulaauṅgi
+  Bhara hoga lahu aankhoṅ meiṅ us ki khud hataauṅgi
+  Maiṅ bachpan ki tarah se bhaai ka chehra dhulaauṅgi
   Agar mumkin hai to de de koi paani mujhe laa kar
 
   3
   Mujhe uthna parega bibiyoṅ taazim ko us ki
-  Main maaṅ Ummul Banin ki simt se Ghaazi ko chumuṅgi
+  Maiṅ maaṅ Ummul Banin ki simt se Ghaazi ko chumuṅgi
   Sambhaale sar koi Aun o Muhammad ke yahaaṅ aa kar
 
   4
@@ -45,7 +45,7 @@ romanLyrics: |-
   Nigaaheiṅ us ki dhundheṅgi Sakina ko yahaaṅ aa kar
 
   6
-  The sab ki jholiyoṅ mein apne apne laadloṅ ke sar
+  The sab ki jholiyoṅ meiṅ apne apne laadloṅ ke sar
   Ruqayya, Umm-e-Laila, Umm-e-Farwa, Maadar-e-Asghar
   Uthi kehte hue har maaṅ sar apne laal ka rakh kar
 

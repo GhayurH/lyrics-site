@@ -13,13 +13,13 @@ published: true
 romanLyrics: |-
   Ek shor hai al-aman
   Abbas aa rahe haiṅ Abbas aa rahe haiṅ
-  Ek haath mein alam aur mashk-e-Sakina
+  Ek haath meiṅ alam aur mashk-e-Sakina
   Abbas aa rahe haiṅ Abbas aa rahe haiṅ
 
   1
-  Kandhe pe mashk mashk mein dil hai diler ka
+  Kandhe pe mashk mashk meiṅ dil hai diler ka
   Darya ko chhin lena nahiṅ kaam der ka
-  Ehsan tishnagi mein milega na ghair ka
+  Ehsan tishnagi meiṅ milega na ghair ka
   Bigra hua mizaj hai Haider ke sher ka
 
   2
@@ -32,13 +32,13 @@ romanLyrics: |-
   Pyaasa hai sher ghaat ka rasta na rokna
   Aankheṅ jhukao sher ki janib na dekhna
   Kaise bachegi jaan ye lazim hai sochna
-  Abbas haiṅ jalal mein hargiz na tokna
+  Abbas haiṅ jalal meiṅ hargiz na tokna
 
   4
   Tewar bata rahe haiṅ qayamat uthayega
   Tegh-e-nazar se iski Khuda hi bachayega
   Aaya jo saamne koi wo maara jayega
-  Ek mashk mein Furat ko bhar kar dikhayega
+  Ek mashk meiṅ Furat ko bhar kar dikhayega
 
   5
   Qabza hua Furat par al-qissa mukhtasar
@@ -49,19 +49,19 @@ romanLyrics: |-
   6
   Khaime ke dar par pyasi Sakina thi muntazar
   Junbish-e-alam ki dekh ke deti thi ye khabar
-  Tishna laboṅ dua mein tumhari hua asar
+  Tishna laboṅ dua meiṅ tumhari hua asar
   Wo dekho aa raha hai chacha ka alam nazar
 
   7
-  Aaya alam zarur magar khun mein bhara
-  Zainab ne sar ko peet ke Shabbir se kaha
+  Aaya alam zarur magar khun meiṅ bhara
+  Zainab ne sar ko pit ke Shabbir se kaha
   Kiuṅ kham kamar hai aap ki Ghazi kahaṅ gaya
   Bole Husain ab koi pyasa na de sada
 
   8
   Barhaq hai maut kehti hai Quran si kitab
   Sab ko fana hai chand ho taare ho aftab
-  Hoga Nadeem Sarwar o Rehaan jab hisab
+  Hoga Nadim Sarwar o Rehaan jab hisab
   Keh deṅge hum Khuda se ke dene ko ab jawab
 # source_id: nohayonline:3dd952f8047154a57b15
 # source_url: https://www.nohayonline.com/details_content.php?id=2049

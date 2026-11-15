@@ -1,6 +1,6 @@
 ---
 title: "مولا یا حسین حسین"
-alternateTitle: "Husain Kehte Haiṅ"
+alternateTitle: "Husain Kehte Hain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -54,7 +54,7 @@ romanLyrics: |-
 
   7
   Jab aza khaana saja aur unheṅ yaad kiya
-  Aa gaye ghar mein mere dil mera shaad kiya
+  Aa gaye ghar meiṅ mere dil mera shaad kiya
   Ek beghar ne mere ghar ko aabaad kiya
   Aise mehmaan ko Shah-e-Zishaan ko
   Maula Husain Ibn-e-Ali kehte haiṅ

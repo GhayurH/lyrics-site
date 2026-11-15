@@ -11,56 +11,56 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zainab ka tha ye nauha main kya jawaab duṅgi
-  Puchheṅgi jab ke Sughra main kya jawaab duṅgi
+  Zainab ka tha ye nauha maiṅ kya jawaab duṅgi
+  Puchheṅgi jab ke Sughra maiṅ kya jawaab duṅgi
 
   1
-  Maqtal mein so rahe haiṅ sab godiyoṅ ke paale
-  Jaa kar watan mein bhaiya main kya jawaab duṅgi
+  Maqtal meiṅ so rahe haiṅ sab godiyoṅ ke paale
+  Jaa kar watan meiṅ bhaiya maiṅ kya jawaab duṅgi
 
   2
-  Akbar ki mere shaadi kis des mein rachaai
-  Baandha hai kis ne sehra main kya jawaab duṅgi
+  Akbar ki mere shaadi kis des meiṅ rachaai
+  Baandha hai kis ne sehra maiṅ kya jawaab duṅgi
 
   3
   Waada kiya tha jis ne lene ko aayeṅge hum
-  Ab tak to wo na aaya main kya jawaab duṅgi
+  Ab tak to wo na aaya maiṅ kya jawaab duṅgi
 
   4
   Qasim hamaara bhai ibn-e-Hasan kahaaṅ hai
-  Jo hum ko chaahta tha main kya jawaab duṅgi
+  Jo hum ko chaahta tha maiṅ kya jawaab duṅgi
 
   5
   Afsos Aun o Jaafar ab tak na milne aaye
-  Ab tak na main ne dekha main kya jawaab duṅgi
+  Ab tak na maiṅ ne dekha maiṅ kya jawaab duṅgi
 
   6
-  Asghar hamaara bhai ab kis ki god mein hai
-  Aankhoṅ ka hai jo taara main kya jawaab duṅgi
+  Asghar hamaara bhai ab kis ki god meiṅ hai
+  Aankhoṅ ka hai jo taara maiṅ kya jawaab duṅgi
 
   7
   Sine pe sone waali wo laadli kahaaṅ hai
-  Meri behan Sakina main kya jawaab duṅgi
+  Meri behan Sakina maiṅ kya jawaab duṅgi
 
   8
   Akbar se aayeṅge jab milne ko un ke saathi
-  Qaabu mein dil na hoga main kya jawaab duṅgi
+  Qaabu meiṅ dil na hoga maiṅ kya jawaab duṅgi
 
   9
   Rudaad Karbala ki aa kar Madine waale
-  Har ek pata karega main kya jawaab duṅgi
+  Har ek pata karega maiṅ kya jawaab duṅgi
 
   10
   Karbobala se waapas Ummul Banin ka beta
-  Abbas kiuṅ na aaya main kya jawaab duṅgi
+  Abbas kiuṅ na aaya maiṅ kya jawaab duṅgi
 
   11
   Baazu ko dekhte hi puchhegi meri naani
-  Ye hai nishaan kaisa main kya jawaab duṅgi
+  Ye hai nishaan kaisa maiṅ kya jawaab duṅgi
 
   12
-  Jab daakhila watan mein hoga Qamar haram ka
-  Zainab ka dil kahega main kya jawaab duṅgi
+  Jab daakhila watan meiṅ hoga Qamar haram ka
+  Zainab ka dil kahega maiṅ kya jawaab duṅgi
 # source_id: nohayonline:f2b94cb1cbd562d0bded
 # source_url: https://www.nohayonline.com/details_content.php?id=1869
 # raw_sha256: 74655c090f2013133c717007307dafd40ad5fe5adbdf335e4f9d446ae5cff9c7

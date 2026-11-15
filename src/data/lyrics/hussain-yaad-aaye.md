@@ -19,7 +19,7 @@ romanLyrics: |-
   Jab us ko paani pilaaya Husain yaad aaye
 
   2
-  Wo jis ka koi bhi waaris nahiṅ tha duniya mein
+  Wo jis ka koi bhi waaris nahiṅ tha duniya meiṅ
   Kafan jab us ne bhi paaya Husain yaad aaye
 
   3
@@ -27,7 +27,7 @@ romanLyrics: |-
   Jo pyaar kar ke hataaya Husain yaad aaye
 
   4
-  Nazar mein phir gaya karyal jawaan ka laasha
+  Nazar meiṅ phir gaya karyal jawaan ka laasha
   Kisi ne baandha jo sehra Husain yaad aaye
 
   5
@@ -44,7 +44,7 @@ romanLyrics: |-
 
   8
   Mera pisar hua jis roz chhe mahine ka
-  Bataauṅ kaise main kitna Husain yaad aaye
+  Bataauṅ kaise maiṅ kitna Husain yaad aaye
 
   9
   Lipat lipat gayi turbat se Saani-e-Zehra

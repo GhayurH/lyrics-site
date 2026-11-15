@@ -1,6 +1,6 @@
 ---
 title: "مسجد کوفہ میں محبوب خدا زخمی ہوا"
-alternateTitle: "Masjid-e-Kufa Mein Mehbub-e-Khuda Zakhmi Hua"
+alternateTitle: "Masjid-e-Kufa Meiṅ Mehbub-e-Khuda Zakhmi Hua"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,32 +11,32 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Masjid-e-Kufa mein mehbub-e-Khuda zakhmi hua
+  Masjid-e-Kufa meiṅ mehbub-e-Khuda zakhmi hua
   Baad-e-Ahmad jo tha din ka peshwa zakhmi hua
 
   1
   Ibn-e-Muljim ki shakhawat ne sitam dhaaya hai ye
   Ho gaya tar lo musalla Murtaza ke khun se
-  Dahr mein khaaliq ka jo tha maujiza zakhmi hua
+  Dahr meiṅ khaaliq ka jo tha maujiza zakhmi hua
 
   2
   Yaad-e-maadar aur bhi shiddat se tarpaane lagi
   Ghair haalat ho gayi Zainab bhi ghash khaane lagi
-  Jab suna masjid mein Baaba bekhata zakhmi hua
+  Jab suna masjid meiṅ Baaba bekhata zakhmi hua
 
   3
-  Dekh kar manzar ye turbat mein Payambar ro pare
-  Haalat-e-sajda mein shamshir-e-zehr aalud se
+  Dekh kar manzar ye turbat meiṅ Payambar ro pare
+  Haalat-e-sajda meiṅ shamshir-e-zehr aalud se
   Bekhata bejurm nafs-e-Kibriya zakhmi hua
 
   4
   Haath phaila kar Ali kehte haiṅ ye ae Kirdigaar
   Tu gawara rahiyo ke waqt-e-taaat-e-Parwardigaar
-  Tere sajde mein ye tera baawafa zakhmi hua
+  Tere sajde meiṅ ye tera baawafa zakhmi hua
 
   5
   Aayatoṅ ke darmiyaaṅ kohraam tha kohraam tha
-  Khaima-e-Quran mein chaaroṅ taraf hangaam tha
+  Khaima-e-Quran meiṅ chaaroṅ taraf hangaam tha
   Waqt-e-sajda haaye fakhr-e-Ambiya zakhmi hua
 
   6
@@ -47,11 +47,11 @@ romanLyrics: |-
   7
   Tha yehi bachchoṅ ka nauha ya Nabi faryaad hai
   Aaiye bahr-e-madad ye saaat-e-imdaad hai
-  Dekhiye masjid mein Shaah-e-do sara zakhmi hua
+  Dekhiye masjid meiṅ Shaah-e-do sara zakhmi hua
 
   8
   Sayyeda ka aaj pehlu aur zakhmi ho gaya
-  Aur haalat ho gayi hai qabr mein un ki tabaah
+  Aur haalat ho gayi hai qabr meiṅ un ki tabaah
   Ro ke kehti hai ke phir pehlu mera zakhmi hua
 
   9

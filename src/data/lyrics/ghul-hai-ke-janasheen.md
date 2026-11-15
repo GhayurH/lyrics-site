@@ -19,7 +19,7 @@ romanLyrics: |-
   Din ke falak ka mehr-e-munawwar hua shahid
 
   2
-  Kuffaar ke diloṅ mein raha khauf ban ke jo
+  Kuffaar ke diloṅ meiṅ raha khauf ban ke jo
   Wo mard-e-jang faateh-e-Khaibar hua shahid
 
   3
@@ -28,10 +28,10 @@ romanLyrics: |-
 
   4
   Rab ki riza bana ke rahe manzil-e-muraad
-  Haq ke safar mein din ka rehbar hua shahid
+  Haq ke safar meiṅ din ka rehbar hua shahid
 
   5
-  Kaunain mein muhaafiz-e-Islaam-e-haq shinaas
+  Kaunain meiṅ muhaafiz-e-Islaam-e-haq shinaas
   Azm o wafa o sabr ka paikar hua shahid
 
   6
@@ -39,20 +39,20 @@ romanLyrics: |-
   Wo mir-e-kaarzaar Ghazanfar hua shahid
 
   7
-  The jis ke ilm o fahm mein asraar-e-kaainaat
-  Duniya mein aisa shaahid-e-Daawar hua shahid
+  The jis ke ilm o fahm meiṅ asraar-e-kaainaat
+  Duniya meiṅ aisa shaahid-e-Daawar hua shahid
 
   8
   Quraan jis se kar liya karta tha dil ki baat
   Aisa musaafir aisa sukhanwar hua shahid
 
   9
-  Daanishwaraan-e-dahr mein kohraam mach gaya
+  Daanishwaraan-e-dahr meiṅ kohraam mach gaya
   Jab baab-e-ilm naam-e-Khuda par hua shahid
 
   10
   Mehraab o masjid o dar o diwaar hai khamosh
-  Bazm-e-jahaaṅ mein saahib-e-minbar hua shahid
+  Bazm-e-jahaaṅ meiṅ saahib-e-minbar hua shahid
 
   11
   Fayyaz Zulfiqaar-e-falak kiuṅ na ho malul

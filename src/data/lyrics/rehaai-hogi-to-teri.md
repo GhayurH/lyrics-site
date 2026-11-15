@@ -22,27 +22,27 @@ romanLyrics: |-
   2
   Mere Abbas se keh do tum hi Khuda ke liye
   Behan ka waada hai Ghaazi teri wafa ke liye
-  Gali gali mein tera main alam lagaauṅgi
+  Gali gali meiṅ tera maiṅ alam lagaauṅgi
 
   3
   Nazar ke saamne hoga tumhara zakhmi badan
   Kabhi banuṅgi Ali aur kabhi banuṅgi Hasan
-  Tera payaam main kuch is tarah phailaauṅgi
+  Tera payaam maiṅ kuch is tarah phailaauṅgi
 
   4
   Kuch is tarah se karuṅgi tilaawat-e-Quraaṅ
   Namaazi maanega Shabbir tum ko saara jahaaṅ
-  Baghair tegh ke main inqilaab laauṅgi
+  Baghair tegh ke maiṅ inqilaab laauṅgi
 
   5
-  Bazaar-e-Shaam mein baaloṅ se dhaaṅp kar chehra
+  Bazaar-e-Shaam meiṅ baaloṅ se dhaaṅp kar chehra
   Ali ke lehje ki awaaz ko bhi de ke rida
   Hijaab aise kiya jaata hai bataauṅgi
 
   6
-  Husain tere ghamoṅ mein jo rone wale hai
-  Teri qasam wo niraali tauqeer wale hai
-  Gunahgaar ho lekin main bakhshwaauṅgi
+  Husain tere ghamoṅ meiṅ jo rone wale hai
+  Teri qasam wo niraali tauqir wale hai
+  Gunahgaar ho lekin maiṅ bakhshwaauṅgi
 # source_id: nohayonline:9521e3963d2783aa9536
 # source_url: https://www.nohayonline.com/details_content.php?id=3243
 # raw_sha256: a8afefdd80802d64ea1caa6c420a998cf789a240f98578b73ab900389269a1fe

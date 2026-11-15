@@ -14,23 +14,23 @@ romanLyrics: |-
   Zehra ki hai dua mujhe Ghaazi ho ataa
 
   1
-  Dar haqiqat mein wafaaoṅ ka jahaaṅ Abbas hai
+  Dar haqiqat meiṅ wafaaoṅ ka jahaaṅ Abbas hai
   De jo khushbu-e-wafa wo baaghbaaṅ Abbas hai
 
   2
-  Raah-e-haq mein jis ne apna khun paani kar diya
-  Gulshan-e-Islam mein ek rang anokha bhar diya
+  Raah-e-haq meiṅ jis ne apna khun paani kar diya
+  Gulshan-e-Islam meiṅ ek rang anokha bhar diya
   Manzil-e-raah-e-wafa ka kaarwaaṅ Abbas hai
   De jo khushbu-e-wafa wo baaghbaaṅ Abbas hai
 
   3
   Waaris-e-Tasnim o Kausar ka guzar paani pe hai
   Misl-e-Musa o Khizr ka yuṅ safar paani pe hai
-  Mauj hai darya mein aur ruh-e-rawaaṅ Abbas hai
+  Mauj hai darya meiṅ aur ruh-e-rawaaṅ Abbas hai
   De jo khushbu-e-wafa wo baaghbaaṅ Abbas hai
 
   4
-  Khaima-e-Sarwar mein bachche saare pyaase reh gaye
+  Khaima-e-Sarwar meiṅ bachche saare pyaase reh gaye
   Mashk o alam Abbas Ghaazi darya pe the reh gaye
   Tashnagaan-e-Karbala ki daastaaṅ Abbas hai
   De jo khushbu-e-wafa wo baaghbaaṅ Abbas hai
@@ -42,7 +42,7 @@ romanLyrics: |-
   De jo khushbu-e-wafa wo baaghbaaṅ Abbas hai
 
   6
-  Jis ke dam se aaj Irfaaṅ hai jo duniya mein wafa
+  Jis ke dam se aaj Irfaaṅ hai jo duniya meiṅ wafa
   Fakhr-e-Mikaail deta hai zamaane ko hawa
   Kashti-e-nur-e-wafa ka baadbaaṅ Abbas hai
   De jo khushbu-e-wafa wo baaghbaaṅ Abbas hai

@@ -15,7 +15,7 @@ romanLyrics: |-
   Ek naaqe par ek naize par
 
   1
-  Donoṅ Madine mein hi pale haiṅ
+  Donoṅ Madine meiṅ hi pale haiṅ
   Lambe safar pe donoṅ chale haiṅ
   Ek rasan se ek hi khanjar se
   Donoṅ ke hi zakhmi gale haiṅ
@@ -26,7 +26,7 @@ romanLyrics: |-
   Zulm ki zad par rehte haiṅ donoṅ
   Dard ka manzar rehte haiṅ donoṅ
   Saaya mayassar hota nahiṅ hai
-  Dhup mein din bhar rehte haiṅ donoṅ
+  Dhup meiṅ din bhar rehte haiṅ donoṅ
   Ek baraadar ek hai khwaahar
   Ek naaqe par ek naize par
 
@@ -39,7 +39,7 @@ romanLyrics: |-
   Ek naaqe par ek naize par
 
   4
-  Zulm safar mein jab sehti hai
+  Zulm safar meiṅ jab sehti hai
   Haaye Husaina hi kehti hai
   Baali Sakina aur Asghar ko
   Ek Bibi roti rehti hai
@@ -49,15 +49,15 @@ romanLyrics: |-
   5
   Naize par hai ek ki chaadar
   Naize par hi ek ka hai sar
-  Jism para hai ek ka ran mein
+  Jism para hai ek ka ran meiṅ
   Ek ko baandha hai naaqe par
   Ek hai besar ek khule sar
   Ek naaqe par ek naize par
 
   6
-  Ek ka ran mein gala baandha hai
-  Ek ka ran mein gala chheda hai
-  Jala hai kurta ek ka ran mein
+  Ek ka ran meiṅ gala baandha hai
+  Ek ka ran meiṅ gala chheda hai
+  Jala hai kurta ek ka ran meiṅ
   Ek ka jhula raakh hua hai
   Ek qayaamat hai donoṅ par
   Ek naaqe par ek naize par
@@ -73,7 +73,7 @@ romanLyrics: |-
   8
   Tiroṅ par the Shaah-e-Madina
   Zakhmi tha Akbar ka sina
-  Aamir aur Yaqoob wahaaṅ se
+  Aamir aur Yaqub wahaaṅ se
   Asghar aur maasum Sakina
   Donoṅ chale jab saath safar par
   Ek naaqe par ek naize par

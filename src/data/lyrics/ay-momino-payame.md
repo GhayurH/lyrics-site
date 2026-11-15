@@ -15,18 +15,18 @@ romanLyrics: |-
   Chaahe har ek shai ko dunya ki bhul jaana
 
   1
-  Ujra jo ek din mein us ghar ko yaad rakhna
+  Ujra jo ek din meiṅ us ghar ko yaad rakhna
   Ae mominoṅ payaam-e-Sarwar ko yaad rakhna
   Karbobala ke khuni manzar ko yaad rakhna
 
   2
-  Aaghosh mein tumhaari maasum koi aaye
+  Aaghosh meiṅ tumhaari maasum koi aaye
   Jab pyaar se koi maaṅ jhula use jhulaaye
   Bano ki bebasi ko Asghar ko yaad rakhna
 
   3
   Aa jaaye jab kisi par taqdir se yatimi
-  Furqat mein baap ki jab mar jaaye koi bacchi
+  Furqat meiṅ baap ki jab mar jaaye koi bacchi
   Aulaad waaloṅ meri dukhtar ko yaad rakhna
 
   4
@@ -35,7 +35,7 @@ romanLyrics: |-
   Qasim ko yaad rakhna Akbar ko yaad rakhna
 
   5
-  Dekho na zindagi mein marna jawaaṅ pisar ka
+  Dekho na zindagi meiṅ marna jawaaṅ pisar ka
   Bete ka daagh dil par hota hai umr bhar ka
   Laila ki hasratoṅ ko Akbar ko yaad rakhna
 

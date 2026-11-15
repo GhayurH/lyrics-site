@@ -13,16 +13,16 @@ published: true
 romanLyrics: |-
   Ae Sham-e-Gharibaṅ
   Aaye haiṅ agar aap to ruk jaiye Baba
-  Ghar jal gaya main kya karuṅ farmaiye Baba
+  Ghar jal gaya maiṅ kya karuṅ farmaiye Baba
 
   1
-  Ab aaye haiṅ jab fauj-e-Khuda so gayi ran mein
-  Jab khuṅ bhara parcham hai Alamdar ka ban mein
+  Ab aaye haiṅ jab fauj-e-Khuda so gayi ran meiṅ
+  Jab khuṅ bhara parcham hai Alamdar ka ban meiṅ
   Sine se alam Ghazi ka liptaaiye Baba
 
   2
-  Maidan mein laasha hai mere bhai ka uryaṅ
-  Poshak mere bhai ki hai khun mein ghaltaṅ
+  Maidan meiṅ laasha hai mere bhai ka uryaṅ
+  Poshak mere bhai ki hai khun meiṅ ghaltaṅ
   Lillah kafan bhai ko pahnaaiye Baba
 
   3
@@ -31,24 +31,24 @@ romanLyrics: |-
   Sar pe amame ko phailaaiye Baba
 
   4
-  Baba mujhe jaana hai abhi qaid-e-sitam mein
-  Hona hai izafa abhi kuchh aur bhi gham mein
+  Baba mujhe jaana hai abhi qaid-e-sitam meiṅ
+  Hona hai izafa abhi kuchh aur bhi gham meiṅ
   Dam Nad-e-Ali baazu ke kar jaiye Baba
 
   5
-  Baba main bahot tarpi huṅ Shabbir ke gham mein
-  Dil tukre hai Baba mera Ghazi ke alam mein
+  Baba maiṅ bahot tarpi huṅ Shabbir ke gham meiṅ
+  Dil tukre hai Baba mera Ghazi ke alam meiṅ
   Matam karuṅ ye resmaṅ khulwaaiye Baba
 
   6
-  Baba main rasanbasta su-e-Shaam chali huṅ
-  Lagta hi nahiṅ mujhko ke main bint-e-Ali huṅ
+  Baba maiṅ rasanbasta su-e-Shaam chali huṅ
+  Lagta hi nahiṅ mujhko ke maiṅ bint-e-Ali huṅ
   Hamraah Najaf ab mujhe le jaaiye Baba
 
   7
-  Karte haiṅ sawalat farishte jo lahad mein
-  Ab der na Lillah kareṅ aap madad mein
-  Rehan ki turbat mein chale jaaiye Baba
+  Karte haiṅ sawalat farishte jo lahad meiṅ
+  Ab der na Lillah kareṅ aap madad meiṅ
+  Rehan ki turbat meiṅ chale jaaiye Baba
 # source_id: nohayonline:df900bf71390f6d96d99
 # source_url: https://www.nohayonline.com/details_content.php?id=2625
 # raw_sha256: 578bc5540aecae6102ce7a6ca55b64d8fb00a44925191a53ce53925a2c25d2c0

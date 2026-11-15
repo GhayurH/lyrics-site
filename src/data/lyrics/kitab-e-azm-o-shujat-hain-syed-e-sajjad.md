@@ -22,7 +22,7 @@ romanLyrics: |-
   Uthaaye baar-e-imaamat haiṅ Sayyid-e-Sajjaad
 
   3
-  Bahaar ye Abu Taalib ke ghar mein chauthi hai
+  Bahaar ye Abu Taalib ke ghar meiṅ chauthi hai
   Nabi ke din ki alaamat haiṅ Sayyid-e-Sajjaad
 
   4
@@ -30,7 +30,7 @@ romanLyrics: |-
   Husain ki wo riyaazat haiṅ Sayyid-e-Sajjaad
 
   5
-  Bacheṅ ge hashr mein kis tarha qaatilaan-e-Husain
+  Bacheṅ ge hashr meiṅ kis tarha qaatilaan-e-Husain
   Gawaah roz-e-qayaamat haiṅ Sayyid-e-Sajjaad
 
   6
@@ -46,7 +46,7 @@ romanLyrics: |-
   Usi ke ilm ki mehnat haiṅ Sayyid-e-Sajjaad
 
   9
-  Rehaan Aazmi jo kaam hashr mein de gi
+  Rehaan Aazmi jo kaam hashr meiṅ de gi
   Hamaare paas wo daulat haiṅ Sayyid-e-Sajjaad
 # source_id: tajpoints:69f169c50bd34d63c369
 # source_url: https://tajpoints.com/2023/11/kitab-e-azm-o-shujat-hain-syed-e-sajjad.html

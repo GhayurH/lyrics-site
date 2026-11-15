@@ -12,20 +12,20 @@ aliases: []
 published: true
 romanLyrics: |-
   Bhaiya mere bhaiya, bhaiya mere bhaiya
-  Main duṅgi kafan aap ko dafnaauṅgi laasha
+  Maiṅ duṅgi kafan aap ko dafnaauṅgi laasha
 
   1
   Aazaad hui qaid se lo mil gayi chaadar
-  Ae bhai utho qaid se main aa gayi lut kar
-  Main ashkoṅ se baandhuṅgi tere laal ka sehra
+  Ae bhai utho qaid se maiṅ aa gayi lut kar
+  Maiṅ ashkoṅ se baandhuṅgi tere laal ka sehra
 
   2
-  Ek roz main is tarah teri laash se guzri
+  Ek roz maiṅ is tarah teri laash se guzri
   Jis tarah ke tujh se mera rishta nahiṅ koi
   Par ab to zara uth ke kaleje se lipat jaa
 
   3
-  Ae bhai bahut royi huṅ furqat mein tumhaari
+  Ae bhai bahut royi huṅ furqat meiṅ tumhaari
   Rone ke siwa karti bhi kya dard ki maari
   Hote the sitam leti thi jab naam tumhaara
 
@@ -37,25 +37,25 @@ romanLyrics: |-
   5
   Baazaaroṅ se darbaaroṅ se zindaanoṅ se aayi
   Beparda phiraayi gayi aur maut na aayi
-  Baaloṅ se chhupaati rahi baazaaroṅ mein chehra
+  Baaloṅ se chhupaati rahi baazaaroṅ meiṅ chehra
 
   6
-  Zindaaṅ mein Sakina ko ajal aa gayi bhai
-  Us ghor andhere mein lahad us ki banaayi
+  Zindaaṅ meiṅ Sakina ko ajal aa gayi bhai
+  Us ghor andhere meiṅ lahad us ki banaayi
   Bachchi ka kafan ban gaya us bachchi ka kurta
 
   7
-  Sajjad ko jakra gaya zanjir-e-sitam mein
-  Ek ek qadam marti rahi huṅ tere gham mein
-  Pardes mein qismat ne Nabi zaadi ko luta
+  Sajjad ko jakra gaya zanjir-e-sitam meiṅ
+  Ek ek qadam marti rahi huṅ tere gham meiṅ
+  Pardes meiṅ qismat ne Nabi zaadi ko luta
 
   8
-  Kis tarah watan jaauṅ tumheṅ chhor ke ban mein
-  Tanha to nahiṅ jaauṅgi ae bhai watan mein
+  Kis tarah watan jaauṅ tumheṅ chhor ke ban meiṅ
+  Tanha to nahiṅ jaauṅgi ae bhai watan meiṅ
   Batlaauṅgi kya jab puchhegi jab Fatema Sughra
 
   9
-  Kis kis ko nishaaṅ rassi ke dikhlaauṅgi main jaa kar
+  Kis kis ko nishaaṅ rassi ke dikhlaauṅgi maiṅ jaa kar
   Na Qasim o Akbar haiṅ na Abbas-e-Dilaawar
   Bin aap ke ghar qabr se to kam nahiṅ hoga
 

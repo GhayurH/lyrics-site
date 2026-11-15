@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Karbal ke Masiha se Islam shifa maange
-  Ta hashr zamaane mein jine ki dua maange
+  Ta hashr zamaane meiṅ jine ki dua maange
 
   1
   Sajjad Sakina sa qaidi na koi aaye
@@ -21,22 +21,22 @@ romanLyrics: |-
 
   2
   Beparda rasan basta paaband-e-mehan Zainab
-  Majlis mein Shah-e-diṅ ki Sarwar ki behen Zainab
+  Majlis meiṅ Shah-e-diṅ ki Sarwar ki behen Zainab
   Kuchh aah o buka maange kuchh ashk-e-aza maange
 
   3
   Jis bachchi ko naazoṅ se Shabbir ne paala tha
   Palkoṅ pe bithaaya tha sine pe sulaaya tha
-  Zindaaṅ mein wohi bachchi Khaaliq se qaza maange
+  Zindaaṅ meiṅ wohi bachchi Khaaliq se qaza maange
 
   4
-  Mayyat hai pari jis ki zindaaṅ ke andhere mein
-  Turbat hai bani jis ki zindaaṅ ke andhere mein
+  Mayyat hai pari jis ki zindaaṅ ke andhere meiṅ
+  Turbat hai bani jis ki zindaaṅ ke andhere meiṅ
   Us bachchi ke Baba se suraj bhi ziya maange
 
   5
   Sajjad ke haathoṅ par laasha hai Sakina ka
-  Allah lahu mein tar kurta hai Sakina ka
+  Allah lahu meiṅ tar kurta hai Sakina ka
   Ye dekh ke zindaaṅ bhi mahshar ki fiza maange
 
   6
@@ -45,12 +45,12 @@ romanLyrics: |-
   Turbat pe Sakina ki maatam ki sada maange
 
   7
-  Karbal mein Sakina ka daaman jo jala ya Rab
+  Karbal meiṅ Sakina ka daaman jo jala ya Rab
   Ummat ne yatima ko pursa ye diya ya Rab
   Imaan usi daaman ki ab tak bhi hawa maange
 
   8
-  Parhne ke liye Mazhar zindaaṅ mein ye nauha
+  Parhne ke liye Mazhar zindaaṅ meiṅ ye nauha
   Aankhoṅ se bahaane ko tufaan phir ashkoṅ ka
   Sabir Shah-e-waala se Zainab se riza maange
 # source_id: nohayonline:1211249f7119ceb172d1

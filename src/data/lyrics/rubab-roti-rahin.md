@@ -24,7 +24,7 @@ romanLyrics: |-
   Ye jo bachcha hai tin din ka hai bhuka pyaasa
 
   3
-  Gale mein tir chhida phir bhi ek uf na kaha
+  Gale meiṅ tir chhida phir bhi ek uf na kaha
   Husain laashe ko le kar chale jo khaime jahaaṅ
   Sakina dekh ke bhaai ko sar patakti hai
 

@@ -35,7 +35,7 @@ romanLyrics: |-
   Dhuṅduṅ kahaaṅ unheiṅ mere bache kidhar gaye
 
   6
-  Nikle the din bachaane bachaaya Khuda ka din
+  Nikle the diṅ bachaane bachaaya Khuda ka diṅ
   Muslim ke laal laut ke waapas na ghar gaye
 
   7

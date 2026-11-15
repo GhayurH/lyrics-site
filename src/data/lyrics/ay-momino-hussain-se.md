@@ -29,16 +29,16 @@ romanLyrics: |-
   Lekin qadam barhaaya na ek raahwaar ne
 
   3
-  Jumbish na markaboṅ mein na paayi Husain ne
+  Jumbish na markaboṅ meiṅ na paayi Husain ne
   Ek musht-e-khaak jhuk ke uthaayi Husain ne
   Khud suṅghi aur behan ko suṅghaayi Husain ne
   Hamshir ki suni ye duhaayi Husain ne
 
   4
   Haaye haaye ye khaak pheṅko meri jaan jaati hai
-  Bhaiya tumhaare khun ki bu is mein aati hai
+  Bhaiya tumhaare khun ki bu is meiṅ aati hai
   Baashindoṅ ko wahaaṅ ke ye Maula ne di nida
-  Naam is zamin ke jitne ho lo tum juda juda
+  Naam is zamiṅ ke jitne ho lo tum juda juda
 
   5
   Wo bole aap ko ho mubarak har ek balaa
@@ -65,16 +65,16 @@ romanLyrics: |-
   Nazroṅ pe haath rakh ke baghal gir ho gaye
 
   9
-  Bithla ke pehluoṅ mein unheṅ ye kiya bayaaṅ
-  Ae Karbalaaiyoṅ main tumhaara huṅ mehmaaṅ
-  Zaalim mujhe sataate haiṅ jaata huṅ main jahaaṅ
+  Bithla ke pehluoṅ meiṅ unheṅ ye kiya bayaaṅ
+  Ae Karbalaaiyoṅ maiṅ tumhaara huṅ mehmaaṅ
+  Zaalim mujhe sataate haiṅ jaata huṅ maiṅ jahaaṅ
   Becho jo ye zamin to chand din rahuṅ yahaaṅ
 
   10
   Rehne se yaaṅ hamaare sab aaraam paayeṅge
   Khaak-e-shifa tumhaari zamiṅ ko banaayeṅge
   Dinaar de ke saat hazaar un se ye kaha
-  Bakhshi tumheṅ zamin hiba main ne kar diya
+  Bakhshi tumheṅ zamin hiba maiṅ ne kar diya
 
   11
   Shabbir ke muaamle par sab ne ro diya
@@ -85,13 +85,13 @@ romanLyrics: |-
   12
   Marqum ho raha tha qabaala ke naagaah
   Khaime se ek zan-e-Arabiya hui ayaaṅ
-  Sar taa qadam libaas mein saara badan nihaaṅ
+  Sar taa qadam libaas meiṅ saara badan nihaaṅ
   Par is pe bhi haya se larazte the istikhwaaṅ
 
   13
-  Betaab ho ke ulfat-e-Akbar mein aayi thi
+  Betaab ho ke ulfat-e-Akbar meiṅ aayi thi
   Raawi ne ye likha hai wo Zehra ki jaayi thi
-  Le kar balaaeṅ bhai ke kuch kaan mein kaha
+  Le kar balaaeṅ bhai ke kuch kaan meiṅ kaha
   Aur jaldi yuṅ phiri ke na saaya nazar para
 
   14
@@ -102,20 +102,20 @@ romanLyrics: |-
 
   15
   Shah bole aah mujh se ye Zainab ka tha kalaam
-  Bhaiya qabaala mein Ali Akbar ka hue naam
-  Yaani ke us ki milk mein ho ye zamiṅ tamaam
+  Bhaiya qabaala meiṅ Ali Akbar ka hue naam
+  Yaani ke us ki milk meiṅ ho ye zamiṅ tamaam
   Abbas jaao kah do ke majbur hai Imam
 
   16
   Athaara saal ke ye zamaane se jaayeṅge
   Ek qabr ki jagah Ali Akbar bhi paayeṅge
-  Abbas khaime mein gaye dene ko ye payaam
+  Abbas khaime meiṅ gaye dene ko ye payaam
   Zainab ne dekhte hi unheṅ ye kiya kalaam
 
   17
   Kiuṅ bhai meri baat pe raazi hue anaam
-  Likha gaya qabaale mein Akbar ka mere naam
-  Dulha banaauṅ gi main dulhan byaah laauṅ gi
+  Likha gaya qabaale meiṅ Akbar ka mere naam
+  Dulha banaauṅ gi maiṅ dulhan byaah laauṅ gi
   Akbar ke naam ki yahaaṅ basti basaauṅ gi
 # source_id: nohayonline:0f82e9cb7aa20028e0e5
 # source_url: https://www.nohayonline.com/content_marsiya.php?id=15

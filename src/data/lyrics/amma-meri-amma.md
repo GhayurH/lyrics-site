@@ -24,14 +24,14 @@ romanLyrics: |-
 
   2
   Us ghar ke jalaane ko chale aaye the aada
-  Jis ghar mein thi Zahra
-  Wo ghar jahaaṅ be izn na aate the payambar
+  Jis ghar meiṅ thi Zahra
+  Wo ghar jahaaṅ beizn na aate the payambar
   Amma meri amma
 
   3
-  Us waqt zabaaṅ se main kabhi uf na karuṅgi
+  Us waqt zabaaṅ se maiṅ kabhi uf na karuṅgi
   Har zulm sahuṅgi
-  Jakreṅge rasan mein mujhe jis waqt sitamgar
+  Jakreṅge rasan meiṅ mujhe jis waqt sitamgar
   Amma meri amma
 
   4
@@ -53,7 +53,7 @@ romanLyrics: |-
   Amma meri amma
 
   7
-  Ik hashr Ghulam aal-e-payambar mein bapa tha
+  Ik hashr Ghulam aal-e-payambar meiṅ bapa tha
   Ghul aah o buka tha
   Kehti thi ye dil thaam ke jab Zainab-e-muztar
   Amma meri amma

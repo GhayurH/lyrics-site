@@ -12,10 +12,10 @@ aliases: []
 published: true
 romanLyrics: |-
   Kiuṅ mujh pe sitam dhaane laga Shimr sitamgar
-  Kya main yatim huṅ
+  Kya maiṅ yatim huṅ
 
-  Maqtal mein Sakina ye buka karti thi ro kar
-  Kya main yatim huṅ
+  Maqtal meiṅ Sakina ye buka karti thi ro kar
+  Kya maiṅ yatim huṅ
 
   1
   Khaata hi nahiṅ rahm ghariboṅ pe zara bhi
@@ -34,22 +34,22 @@ romanLyrics: |-
 
   4
   Bas itna bata dijiye mujh ko phuphi ammaṅ
-  Kab tak mujhe is dasht mein rahna hai hiraasaaṅ
+  Kab tak mujhe is dasht meiṅ rahna hai hiraasaaṅ
   Baaba ko sada deti huṅ aate nahiṅ kiuṅ kar
 
   5
-  Bikhre hue laashe haiṅ bayaabaaṅ mein har su
-  Is dasht mein kiuṅ chhor gaye haiṅ mujhe ammu
+  Bikhre hue laashe haiṅ bayaabaaṅ meiṅ har su
+  Is dasht meiṅ kiuṅ chhor gaye haiṅ mujhe ammu
   Kiuṅ nahiṅ leta koi khabar bhi meri aa kar
 
   6
-  Ammaṅ mujhe aaghosh mein tum apni chhupa lo
-  Kuchh der to pahlu mein zara mujh ko sula lo
-  Main jaagti rahti huṅ to rahta hai yahi dar
+  Ammaṅ mujhe aaghosh meiṅ tum apni chhupa lo
+  Kuchh der to pahlu meiṅ zara mujh ko sula lo
+  Maiṅ jaagti rahti huṅ to rahta hai yahi dar
 
   7
-  Ae baaba kahaaṅ ho main tumheiṅ dhuṅd rahi huṅ
-  Har laash ko baaba ki samajh kar main giri huṅ
+  Ae baaba kahaaṅ ho maiṅ tumheiṅ dhuṅd rahi huṅ
+  Har laash ko baaba ki samajh kar maiṅ giri huṅ
   Patthar se kabhi laashoṅ se khaati huṅ thokar
 
   8

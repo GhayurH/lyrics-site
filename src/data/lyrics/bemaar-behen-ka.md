@@ -17,46 +17,46 @@ romanLyrics: |-
   1
   Rukh kar ke Najaf ka ye kehte the Shaah-e-Waala
   Dam tor na de meri dhaaras ae mere baba
-  Tifli ka har ek waada maqtal mein nibhaana hai
+  Tifli ka har ek waada maqtal meiṅ nibhaana hai
 
   2
-  Socha bhi na tha main ne ye waqt bhi aayega
-  Phal barchhi ka sine mein Akbar mera khaayega
+  Socha bhi na tha maiṅ ne ye waqt bhi aayega
+  Phal barchhi ka sine meiṅ Akbar mera khaayega
   Aur zakhm-e-Ali Akbar qaasid se chhupaana hai
 
   3
   Ek baap ke kaandhoṅ pe bete ka janaaza ho
-  Aur is se bara gham bhi duniya mein koi kya ho
+  Aur is se bara gham bhi duniya meiṅ koi kya ho
   Taqdir ke likhe ko dushwaar mitaana hai
 
   4
   Kya likha hai Sughra ne parh le ae mere dilbar
   Ye khat tere laashe se bhaari hai Ali Akbar
-  Kis tarah sambhaaluṅ main ye tujh ko bataana hai
+  Kis tarah sambhaaluṅ maiṅ ye tujh ko bataana hai
 
   5
-  Tanhaai ka aalam mein wo soch rahi hogi
+  Tanhaai ka aalam meiṅ wo soch rahi hogi
   Akbar ne kahiṅ apni shaadi to nahiṅ kar li
   Maalum kahaaṅ us ko phal barchhi ka khaana hai
 
   6
-  Main khud ko sambhaaluṅ ya is khat ko parhuṅ Akbar
-  Ya tere kaleje ko main khat pe rakhuṅ Akbar
+  Maiṅ khud ko sambhaaluṅ ya is khat ko parhuṅ Akbar
+  Ya tere kaleje ko maiṅ khat pe rakhuṅ Akbar
   Khaime se abhi mujh ko Asghar ko bhi laana hai
 
   7
-  Laashe ko teri kaise main khaime mein le jaauṅ
+  Laashe ko teri kaise maiṅ khaime meiṅ le jaauṅ
   Jis ne tujhe paala hai ya us ko yahiṅ laauṅ
   Luṅ kis ki madad beta dushman ye zamaana hai
 
   8
   Jin haathoṅ ne kal tere jhule ko jhulaaya tha
-  Sine se lagaaya tha godi mein bithaaya tha
+  Sine se lagaaya tha godi meiṅ bithaaya tha
   Un haathoṅ se ab tera laasha bhi uthaana hai
 
   9
   Abbas chale aao Sarwar ko sahaara do
-  Kuchh der bhatije ka aaghosh mein sar rakh lo
+  Kuchh der bhatije ka aaghosh meiṅ sar rakh lo
   Ye waqt kahaaṅ aakhir phir laut ke aana hai
 
   10

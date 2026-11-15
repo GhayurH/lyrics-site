@@ -16,7 +16,7 @@ romanLyrics: |-
   Laut aao mere bhai khudara palat aao
   Kuchh ho gaya agar tum ko to mar jaeṅge phir hum
   Wasta deta huṅ Sakina ka tumheṅ
-  Laut kar khaimoṅ mein aa jao akela hai Husain
+  Laut kar khaimoṅ meiṅ aa jao akela hai Husain
 
   1
   Haath ko jor ke ab tum ko bulata hai Husain
@@ -33,8 +33,8 @@ romanLyrics: |-
   Ae mere bhai tumheṅ khone se darta hai Husain
 
   3
-  Aaj ji bhar ke tumheṅ dekha nahiṅ hai main ne
-  Aaj baazu bhi tera chuma nahiṅ hai main ne
+  Aaj ji bhar ke tumheṅ dekha nahiṅ hai maiṅ ne
+  Aaj baazu bhi tera chuma nahiṅ hai maiṅ ne
   Wasta deta huṅ Abbas Sakina ka tumheṅ
   Aao sine se tumheṅ apne lagata hai Husain
 
@@ -46,9 +46,9 @@ romanLyrics: |-
 
   5
   Bhai hum donoṅ ka bachpan se ajab hai rishta
-  Dur main bhi nahiṅ tu bhi nahiṅ reh sakta tha
+  Dur maiṅ bhi nahiṅ tu bhi nahiṅ reh sakta tha
   Wasta deta huṅ Abbas Sakina ka tumheṅ
-  Jaanta huṅ ke tere dil mein dharakta hai Husain
+  Jaanta huṅ ke tere dil meiṅ dharakta hai Husain
 
   6
   Tum gae jab se tabiat meri ghabrati hai

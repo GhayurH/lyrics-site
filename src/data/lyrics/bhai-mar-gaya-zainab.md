@@ -20,27 +20,27 @@ romanLyrics: |-
 
   2
   Chaand jaise chehre par zakhm lag gaya us ke
-  Jab wo zin se ghore ki muṅh ke bal gira Zainab
+  Jab wo ziṅ se ghore ki muṅh ke bal gira Zainab
 
   3
-  Laashe ki tarah rakh kar khaime mein alam bole
+  Laashe ki tarah rakh kar khaime meiṅ alam bole
   Ab ye hi janaaza hai mere sher ka Zainab
 
   4
   Jis ne mere haathoṅ par apni aankheṅ kholi thi
-  Aaj usi ka godi mein dam nikal gaya Zainab
+  Aaj usi ka godi meiṅ dam nikal gaya Zainab
 
   5
-  Main ne apne haathoṅ se us ke haath uthaaye haiṅ
+  Maiṅ ne apne haathoṅ se us ke haath uthaaye haiṅ
   Tukre tukre aada ne us ko kar diya Zainab
 
   6
   Raat bhar jo pehre par mere hota tha Bibi
-  Aaj mujh se pehle wo ban mein so gaya Zainab
+  Aaj mujh se pehle wo ban meiṅ so gaya Zainab
 
   7
   Wo jo saare laashoṅ ko ran se le ke aaya tha
-  Us ka laasha darya se main na laa saka Zainab
+  Us ka laasha darya se maiṅ na laa saka Zainab
 
   8
   Yaad hai tumheṅ Bibi ek sada pe aata tha

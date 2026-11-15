@@ -15,8 +15,8 @@ romanLyrics: |-
 
   1
   Nabi ki beti ke dil ke tukre hai jaa bajaa
-  Khaak o khuṅ mein lathde
-  Haiṅ barchhiyoṅ mein koi kaleja
+  Khaak o khuṅ meiṅ lathde
+  Haiṅ barchhiyoṅ meiṅ koi kaleja
   Chhuri ke niche koi gala hai
 
   2

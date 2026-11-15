@@ -12,49 +12,49 @@ aliases: []
 published: true
 romanLyrics: |-
   Kehte the ye Aabid-e-muztar
-  Paaoṅ mein chhaale hai paaoṅ mein chhaale haiṅ
+  Paaoṅ meiṅ chhaale hai paaoṅ meiṅ chhaale haiṅ
   Dushman hai raste ka manzar
-  Paaoṅ mein chhaale hai paaoṅ mein chhaale haiṅ
+  Paaoṅ meiṅ chhaale hai paaoṅ meiṅ chhaale haiṅ
 
   1
   Kitni aziyat kitni bechaini hai kahe kis se
   Parti hai har gaam pe thokar
-  Paaoṅ mein chhaale hai paaoṅ mein chhaale haiṅ
+  Paaoṅ meiṅ chhaale hai paaoṅ meiṅ chhaale haiṅ
 
   2
-  Haathoṅ mein hathkariyaṅ hai aur tauq hai gardan mein
-  Saath mein hai beparda bhara ghar
-  Paaoṅ mein chhaale hai paaoṅ mein chhaale haiṅ
+  Haathoṅ meiṅ hathkariyaṅ hai aur tauq hai gardan meiṅ
+  Saath meiṅ hai beparda bhara ghar
+  Paaoṅ meiṅ chhaale hai paaoṅ meiṅ chhaale haiṅ
 
   3
   Pair utha kar rakhte haiṅ to hoti hai taklif
   Jalti reti aur baraabar
-  Paaoṅ mein chhaale hai paaoṅ mein chhaale haiṅ
+  Paaoṅ meiṅ chhaale hai paaoṅ meiṅ chhaale haiṅ
 
   4
   Kaise rasta chalte haiṅ Sajjad zara socho
   Durroṅ ki choteṅ hai badan par
-  Paaoṅ mein chhaale hai paaoṅ mein chhaale haiṅ
+  Paaoṅ meiṅ chhaale hai paaoṅ meiṅ chhaale haiṅ
 
   5
   Ek badan hai do taklifeṅ aur akele hum
   Dard kisi se dil ke andar
-  Paaoṅ mein chhaale hai paaoṅ mein chhaale haiṅ
+  Paaoṅ meiṅ chhaale hai paaoṅ meiṅ chhaale haiṅ
 
   6
-  Kitni pareshani hoti hai rasta chalne mein
+  Kitni pareshani hoti hai rasta chalne meiṅ
   Chaaroṅ taraf kaantoṅ ki chaadar
-  Paaoṅ mein chhaale hai paaoṅ mein chhaale haiṅ
+  Paaoṅ meiṅ chhaale hai paaoṅ meiṅ chhaale haiṅ
 
   7
   Karb o bala se Shaam ki raaheṅ kitni mushkil hai
   Dhup ki garmi tapte patthar
-  Paaoṅ mein chhaale hai paaoṅ mein chhaale haiṅ
+  Paaoṅ meiṅ chhaale hai paaoṅ meiṅ chhaale haiṅ
 
   8
   Kaise kare Sajjad ki kaifiyat ko raqam Ishrat
   Pet pe durre jism hai laaghar
-  Paaoṅ mein chhaale hai paaoṅ mein chhaale haiṅ
+  Paaoṅ meiṅ chhaale hai paaoṅ meiṅ chhaale haiṅ
 # source_id: nohayonline:11b49629a8d54534afc0
 # source_url: https://www.nohayonline.com/details_content.php?id=2169
 # raw_sha256: f29ed10510088bb5623eb1256c8dd52d75db6f4f51117081b9ef60394c934b27

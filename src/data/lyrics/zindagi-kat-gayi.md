@@ -23,7 +23,7 @@ romanLyrics: |-
   Manzar-e-Shaam pe rote rahe shaam aur sahar
 
   2
-  Mubtala gham mein rahe hans ke koi baat na ki
+  Mubtala gham meiṅ rahe hans ke koi baat na ki
   Nauha parhte rahe khushiyoṅ se mulaaqaat na ki
   Dil se afsos nikal paaya na gham ka manzar
 
@@ -40,7 +40,7 @@ romanLyrics: |-
   5
   Ye Sakina hai wo Zainab hai wo Umm-e-Laila
   Haakim-e-Shaam ne har ek se hans kar jo kaha
-  Gunjti rehti thi kaanoṅ mein ye ghamgiṅ khabar
+  Gunjti rehti thi kaanoṅ meiṅ ye ghamgiṅ khabar
 
   6
   Koi dekhe na jo bimaar ne manzar dekha
@@ -48,14 +48,14 @@ romanLyrics: |-
   Kaanpta rehta tha ye soch ke Abid ka jigar
 
   7
-  Ro ke farmaate the main hashr ke hangaam mein tha
-  Maut kaise na mujhe aayi ke jab Shaam mein tha
+  Ro ke farmaate the maiṅ hashr ke hangaam meiṅ tha
+  Maut kaise na mujhe aayi ke jab Shaam meiṅ tha
   Phir bhi shikwa na kiya Naana ki ummat se magar
 
   8
   Jab talak zinda rahe Abid-e-bimaar Nawab
   Bhul paaye na kabhi Shaam ka baazaar Nawab
-  Roz o shab karte rahe girya o zaari mein basar
+  Roz o shab karte rahe girya o zaari meiṅ basar
 # source_id: nohayonline:8a7fe2015e08dadcff8e
 # source_url: https://www.nohayonline.com/details_content.php?id=3148
 # raw_sha256: 327a719279efd478bc6e1ee27eb0a26c8ee10c53295380804b2d5483250ea29e

@@ -20,7 +20,7 @@ romanLyrics: |-
 
   2
   Jo bughz hai Shah se use tum laakh chhupaao
-  Kya naama-e-aamaal mein tahrir na hoga
+  Kya naama-e-aamaal meiṅ tahrir na hoga
 
   3
   Jo baiat-e-baatil ke liye sar ko jhuka de
@@ -32,18 +32,18 @@ romanLyrics: |-
 
   5
   Jis jis ne dukhaaya hai dil-e-Faatima Zahra
-  Kya hashr mein wo laaiq-e-taazir na hoga
+  Kya hashr meiṅ wo laaiq-e-taazir na hoga
 
   6
   Jaate haiṅ to Shabbir ke hamraah hai Asghar
-  Lauteṅge to aaghosh mein beshir na hoga
+  Lauteṅge to aaghosh meiṅ beshir na hoga
 
   7
   Jis tarah phiraaye gaye dar dar haram-e-Shaah
   Us wajah se ye zaahir-e-tauqir na hoga
 
   8
-  Bimaar ko ghash aa gaya zindaan-e-bala mein
+  Bimaar ko ghash aa gaya zindaan-e-bala meiṅ
   Kuch der to ab nauha-e-zanjir na hoga
 # source_id: nohayonline:66dfacfa7ad7d95d14ad
 # source_url: https://www.nohayonline.com/details_content.php?id=1056

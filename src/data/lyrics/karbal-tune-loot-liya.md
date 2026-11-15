@@ -14,7 +14,7 @@ romanLyrics: |-
   Karbal tu ne lut liya ghar Zehra ka
 
   1
-  Aaye tere daaman mein mehmaan
+  Aaye tere daaman meiṅ mehmaan
   Baagh ujaara kiya hai wiraan
   Na haq yuṅ barbaad kiya ghar Zehra ka
 
@@ -25,13 +25,13 @@ romanLyrics: |-
 
   3
   Khub lare Zainab ke dilbar
-  Ran mein gire talwaareṅ khaa kar
-  Maut ke saaye mein aaya ghar Zehra ka
+  Ran meiṅ gire talwaareṅ khaa kar
+  Maut ke saaye meiṅ aaya ghar Zehra ka
 
   4
   Kaisi azaaṅ ye di hai Akbar
   Chauṅk utha dushman ka lashkar
-  Yaad-e-Muhammad mein roya ghar Zehra ka
+  Yaad-e-Muhammad meiṅ roya ghar Zehra ka
 
   5
   Ibn-e-Hasan ki kaisi shaadi
@@ -40,18 +40,18 @@ romanLyrics: |-
 
   6
   Ik ek kar ke laashe laaye
-  Sar se paa tak khuṅ mein nahaaye
+  Sar se paa tak khuṅ meiṅ nahaaye
   Laashoṅ se tha bhara hua ghar Zehra ka
 
   7
   Rahm kisi ne na khaaya us par
   Tir se chheda halq-e-Asghar
-  Khaak aur khuṅ mein dub gaya ghar Zehra ka
+  Khaak aur khuṅ meiṅ dub gaya ghar Zehra ka
 
   8
   Arsh ka taara jalti zamiṅ par
   Sine pe qaatil halq pe khanjar
-  Ik sajde mein lut liya ghar Zehra ka
+  Ik sajde meiṅ lut liya ghar Zehra ka
 
   9
   Sajda-e-haq se sar na uthaaya

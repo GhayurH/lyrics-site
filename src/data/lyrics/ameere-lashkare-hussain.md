@@ -28,10 +28,10 @@ romanLyrics: |-
   Kisi se par na ruk saka Amir-e-lashkar-e-Husain
 
   3
-  Bahaaduraan-e-safshikan mein is jari ke tazkire
-  Dilaawaraan-e-teghzan mein is jari ke tazkire
-  Har ek wafa ki anjuman mein is jari ke tazkire
-  Rasul-e-paak ke chaman mein is jari ke tazkire
+  Bahaaduraan-e-safshikan meiṅ is jari ke tazkire
+  Dilaawaraan-e-teghzan meiṅ is jari ke tazkire
+  Har ek wafa ki anjuman meiṅ is jari ke tazkire
+  Rasul-e-paak ke chaman meiṅ is jari ke tazkire
   Ghurur-e-Aal-e-Mustafa Amir-e-lashkar-e-Husain
 
   4
@@ -50,8 +50,8 @@ romanLyrics: |-
 
   6
   Safeṅ durust kar chuki hai fauj-e-Shah-e-Mashriqain
-  Yasaar mein Habib mein yamin mein Zuhair-e-Qain
-  Alam ba-dosh qalb mein hai ye Ali ka nur-e-ain
+  Yasaar meiṅ Habib meiṅ yamin meiṅ Zuhair-e-Qain
+  Alam ba-dosh qalb meiṅ hai ye Ali ka nur-e-ain
   Kabhi nazar hai fauj par kabhi nazar su-e-Husain
   Ke muntazir hai izn ka Amir-e-lashkar-e-Husain
 
@@ -77,9 +77,9 @@ romanLyrics: |-
   Dikha de zor-e-La Fata Amir-e-lashkar-e-Husain
 
   10
-  Ishaara-e-Imam ho to fath mein dhara hai kya
+  Ishaara-e-Imam ho to fath meiṅ dhara hai kya
   Shuaa-e-mehr ke liye ye Shaam ki ghata hai kya
-  Furaat tak na jaane de kisi mein hausla hai kya
+  Furaat tak na jaane de kisi meiṅ hausla hai kya
   Ali ke sher ke liye ye jang-e-Karbala hai kya
   Ulat de takht-e-Shaam ka Amir-e-lashkar-e-Husain
 
@@ -94,7 +94,7 @@ romanLyrics: |-
   Magar yahaaṅ to hukm hai ke bas Ali ke sher bas
   Husain apni zindagi se ho chuka hai ser bas
   Qarib-e-waqt-e-asr hai bas ab mere diler bas
-  Hamaare kuch mein kahiṅ mazid ho na der bas
+  Hamaare kuch meiṅ kahiṅ mazid ho na der bas
   Karega taaba ke wagha Amir-e-lashkar-e-Husain
 # source_id: nohayonline:6a78614874e08bdda74c
 # source_url: https://www.nohayonline.com/details_content.php?id=482

@@ -20,9 +20,9 @@ romanLyrics: |-
   1
   Rukh kar ke Madine ka Baano
   Sughra ko bulaati hai
-  Akbar le lahu se baaloṅ mein
+  Akbar le lahu se baaloṅ meiṅ
   Maaṅ mehndi lagaati hai
-  Kohraam tha khaime mein
+  Kohraam tha khaime meiṅ
   Laila ka ye nauha tha
 
   2
@@ -30,13 +30,13 @@ romanLyrics: |-
   Bete ki lahad khodi
   Shabbir ki ghurbat pe us dam
   Roti thi khudaai bhi
-  Jab khuṅ bhare kurte mein
+  Jab khuṅ bhare kurte meiṅ
   Asghar ko dafn kiya
 
   3
   Jo shab ko bani Qaasim ki dulhan
   Wo subh ko bewa hui
-  Haathoṅ mein rasan kangne ki jagah
+  Haathoṅ meiṅ rasan kangne ki jagah
   Kubra ke baandhi gai
   Farwa ne kaha ro kar
   Paamaal hua dulha
@@ -44,7 +44,7 @@ romanLyrics: |-
   4
   Bimaar musaafir ke dil par
   Ek taaza qayaamat thi
-  Baazaar ke raste mein jis dam
+  Baazaar ke raste meiṅ jis dam
   Naaqe se Sakina giri
   Sayyidaaniyaaṅ roti thi
   Kohraam tha ek barpa
@@ -53,7 +53,7 @@ romanLyrics: |-
   Pehre pe Ali ki beti hai
   Har simt andhera hai
   Athaara baraadar the jis ke
-  Wo dasht mein tanha hai
+  Wo dasht meiṅ tanha hai
   Aur us pe sitam ye hai
   Baaqi na raha parda
 
@@ -66,7 +66,7 @@ romanLyrics: |-
   Kehti hi rahi Zehra
 
   7
-  Ae Mir Takallum Yasrib mein
+  Ae Mir Takallum Yasrib meiṅ
   Mahshar ka samaaṅ hoga
   Jab haal safar ka Zainab ne
   Sughra se kaha hoga

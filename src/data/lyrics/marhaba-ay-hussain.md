@@ -45,12 +45,12 @@ romanLyrics: |-
 
   6
   Jis tarah se hai zaat-e-Khuda ko dawaam
-  Jaise baaqi jahaaṅ mein hai us ka kalaam
+  Jaise baaqi jahaaṅ meiṅ hai us ka kalaam
   Roz-e-Aashur tu kar gaya hai wo kaam
   Mit sakega na taa hashr tera bhi naam
 
   7
-  Phir raha hai nigaahoṅ mein manzar abhi
+  Phir raha hai nigaahoṅ meiṅ manzar abhi
   Laash karyal jawaaṅ aalam jaan ki
   Teri himmat pe qurbaan Ibn-e-Ali
   Qalb-e-Akbar se tu ne sinaaṅ khench li

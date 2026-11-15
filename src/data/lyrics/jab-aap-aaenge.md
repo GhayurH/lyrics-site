@@ -12,8 +12,8 @@ aliases: ["jab-ap-ayeinge-mukhtar-hussain-fatehpuri"]
 published: true
 romanLyrics: |-
   Gale milo sab durud parh kar hasad ki diwaar tor waalo.
-  Diloṅ mein bughz o hasad raha to Husain ka gham kahaaṅ rahe ga.
-  Laboṅ pe ghibat diloṅ mein nafrat farebi aankheiṅ makaan ghaasibi.
+  Diloṅ meiṅ bughz o hasad raha to Husain ka gham kahaaṅ rahe ga.
+  Laboṅ pe ghibat diloṅ meiṅ nafrat farebi aankheiṅ makaan ghaasibi.
   Bula rahe ho jise bataao woh aa gaya to kahaaṅ rahe ga?
 
   1
@@ -21,11 +21,11 @@ romanLyrics: |-
   Dikhaai de ga sawera jab aap aaeṅ ge.
 
   2
-  Sikhaaya kis ne tha godi mein bolna un ko.
+  Sikhaaya kis ne tha godi meiṅ bolna un ko.
   Ye khud bataaeṅ ge Isa jab aap aaeṅ ge.
 
   3
-  Sukun se baitha ho pahlu mein sher ke aahu.
+  Sukun se baitha ho pahlu meiṅ sher ke aahu.
   Ye dekhne ko mile ga jab aap aaeṅ ge.
 
   4
@@ -45,7 +45,7 @@ romanLyrics: |-
   Sunaai de ga woh khutba jab aap aaeṅ ge.
 
   8
-  Abhi to dhup mein fatwoṅ ki haiṅ Abu Taalib.
+  Abhi to dhup meiṅ fatwoṅ ki haiṅ Abu Taalib.
   Shajar bhi orhe ga saaya jab aap aaeṅ ge.
 # source_id: tajpoints:7df7020d213cf832265f
 # source_url: https://tajpoints.com/2025/02/jab-ap-ayeinge-mukhtar-hussain-fatehpuri.html

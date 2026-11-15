@@ -1,6 +1,6 @@
 ---
 title: "خیمے میں دریا پہ کیے جب کہ شہ والا"
-alternateTitle: "Khaime Mein Darya Pe"
+alternateTitle: "Khaime Meiṅ Darya Pe"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,7 +12,7 @@ aliases: ["Qaime May Darya Pa"]
 published: true
 romanLyrics: |-
   1
-  Khaime mein darya pe kiye jab ke shah-e-waala ne
+  Khaime meiṅ darya pe kiye jab ke shah-e-waala ne
   Ghera Shabbir ko tab fauj-e-sitam aara ne
   Lab-e-darya na utarne diya jab aada ne
   Fauj-e-aada se ye Shabbir lage farmaane

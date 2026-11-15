@@ -28,15 +28,15 @@ romanLyrics: |-
   Ek sahn-e-shifa banaayeṅge
 
   3
-  Ishq-e-Baaqir mein aur Saadiq mein
+  Ishq-e-Baaqir meiṅ aur Saadiq meiṅ
   Ek daarul qalam banaayeṅge
 
   4
-  Yaad-e-Qaasim mein qabr-e-Shabbar par
+  Yaad-e-Qaasim meiṅ qabr-e-Shabbar par
   Aansuoṅ ke diye jalaayeṅge
 
   5
-  Hum Baqayya mein misl-e-baab-e-Jawaad
+  Hum Baqayya meiṅ misl-e-baab-e-Jawaad
   Baarah baab-e-karam banaayeṅge
 
   6
@@ -48,7 +48,7 @@ romanLyrics: |-
   Khud Imaam-e-zamaaṅ lagaayeṅge
 
   8
-  Haaṅ Baqayya mein phir Takallum o Shams
+  Haaṅ Baqayya meiṅ phir Takallum o Shams
   Kafsh bardaari karne jaayeṅge
 # source_id: nohayonline:3d543b06aab0d9673602
 # source_url: https://www.nohayonline.com/details_content.php?id=1079

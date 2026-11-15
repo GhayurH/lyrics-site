@@ -43,8 +43,8 @@ romanLyrics: |-
   Keh jaise Asghar bjhula rahe haiṅ
 
   6
-  Saeed adab se jhukaye sar ko
-  Main apna nauha suna raha huṅ
+  Said adab se jhukaye sar ko
+  Maiṅ apna nauha suna raha huṅ
   Duaaeṅ deti hai mujh ko Zehra
   Ali mera dil bara rahe haiṅ
 # source_id: nohayonline:c856bba74789305e87c2

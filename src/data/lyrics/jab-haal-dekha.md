@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Jigar ko thaam ke jab haal dekha Akbar ka
-  Ani ke saath mein nikla kaleja Akbar ka
+  Ani ke saath meiṅ nikla kaleja Akbar ka
 
   1
   Zamin-e-Karbobala par hai phaila khun-e-pisar
@@ -27,7 +27,7 @@ romanLyrics: |-
   Sitam ke naize ne chheda hai sina Akbar ka
 
   4
-  Dulhan biyaah ke Laila na ghar mein la paai
+  Dulhan biyaah ke Laila na ghar meiṅ la paai
   Bane haiṅ khuṅ bhare gesu ye sehra Akbar ka
 
   5

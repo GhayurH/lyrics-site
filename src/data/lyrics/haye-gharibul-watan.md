@@ -20,14 +20,14 @@ romanLyrics: |-
 
   2
   Sar ko jhukaaye Husain kehte the Ae nur-e-ain
-  Din pe hua wo fida haye gharibul watan
+  Diṅ pe hua wo fida haye gharibul watan
 
   3
-  Kufe mein paaya na chain haye safir-e-Husain
+  Kufe meiṅ paaya na chain haye safir-e-Husain
   Kufiyoṅ ne ki dagha haye gharibul watan
 
   4
-  Wo aa ke ghar mein ruke sajda-e-haq mein jhuke
+  Wo aa ke ghar meiṅ ruke sajda-e-haq meiṅ jhuke
   Karte the bas ye dua haye gharibul watan
 
   5

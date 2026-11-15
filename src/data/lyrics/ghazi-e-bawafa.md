@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Maal o asbaab sab lutte haiṅ laiṅ
-  Jalte khayaam mein ghus rahe haiṅ laiṅ
+  Jalte khayaam meiṅ ghus rahe haiṅ laiṅ
   Hashr hai ik bapa chhin rahi hai rida
 
   2
@@ -25,13 +25,13 @@ romanLyrics: |-
   Hai ye waqt-e-qaza chhin rahi hai rida
 
   3
-  Is se pehle ke sar ran mein ho berida
+  Is se pehle ke sar ran meiṅ ho berida
   Saari sayyidaaniyaṅ kar rahi haiṅ dua
   Maut de ae Khuda chhin rahi hai rida
 
   4
-  Tere baazu kate sabr main ne kiya
-  Sab sahaare chhine sabr main ne kiya
+  Tere baazu kate sabr maiṅ ne kiya
+  Sab sahaare chhine sabr maiṅ ne kiya
   Ab nahiṅ hausla chhin rahi hai rida
 
   5
@@ -41,7 +41,7 @@ romanLyrics: |-
 
   6
   Beridaai ka gham bhaai kaise sahuṅ
-  Tu hi aa kar bata main sada kis ko duṅ
+  Tu hi aa kar bata maiṅ sada kis ko duṅ
   Sun behan ki buka chhin rahi hai rida
 
   7
@@ -50,7 +50,7 @@ romanLyrics: |-
   Waqt wo aa gaya chhin rahi hai rida
 
   8
-  Main teri aas par aayi thi Karbala
+  Maiṅ teri aas par aayi thi Karbala
   Tere hote hue kiuṅ chhine gi rida
   Qatl tu ho gaya chhin rahi hai rida
 

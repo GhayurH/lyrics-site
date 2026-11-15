@@ -22,7 +22,7 @@ romanLyrics: |-
   Maidaan-e-shahaadat hai azaadaari-e-Shabbir
 
   3
-  Islam jo aalam mein salaamat hai abhi tak
+  Islam jo aalam meiṅ salaamat hai abhi tak
   Hai yuṅ ke salaamat hai azaadaari-e-Shabbir
 
   4
@@ -34,7 +34,7 @@ romanLyrics: |-
   Jannat ki zamaanat hai azaadaari-e-Shabbir
 
   6
-  Main to gham-e-Sarwar ke liye khalq hua huṅ
+  Maiṅ to gham-e-Sarwar ke liye khalq hua huṅ
   Meri to ibaadat hai azaadaari-e-Shabbir
 # source_id: nohayonline:0696d74e7958c09aa11d
 # source_url: https://www.nohayonline.com/details_content.php?id=503

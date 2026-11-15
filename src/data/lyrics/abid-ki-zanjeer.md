@@ -24,7 +24,7 @@ romanLyrics: |-
   Kaise yahaṅ par raat guzari jaati hai
 
   3
-  Dhundne turbat maqtal mein shashmaahe ki
+  Dhundne turbat maqtal meiṅ shashmaahe ki
   Ghutniyoṅ chal kar maaṅ bechari jaati hai
 
   4
@@ -33,22 +33,22 @@ romanLyrics: |-
 
   5
   Asghar ki mayyat ek aisi mayyat hai
-  Qabr mein jo do baar utaari jaati hai
+  Qabr meiṅ jo do baar utaari jaati hai
 
   6
-  Roti hai darbar mein Ghazi ki ghairat
+  Roti hai darbar meiṅ Ghazi ki ghairat
   Zainab le kar naam pukari jaati hai
 
   7
   Tarapti hai Aun o Mohammad ki yaadeṅ
-  Jab hujroṅ mein maaṅ dukhyari jaati hai
+  Jab hujroṅ meiṅ maaṅ dukhyari jaati hai
 
   8
   Pusht pe Abid ki durroṅ se Shaam talak
   Zulm ki ek tasvir ubhaari jaati hai
 
   9
-  Aamir o Akhtar ashk na roko nauhe mein
+  Aamir o Akhtar ashk na roko nauhe meiṅ
   Jannat tak awaaz tumhari jaati hai
 # source_id: nohayonline:2a2e005156003d395b26
 # source_url: https://www.nohayonline.com/details_content.php?id=3101

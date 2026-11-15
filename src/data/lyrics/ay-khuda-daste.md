@@ -13,9 +13,9 @@ romanLyrics: |-
   Yaad-e-Abbas sar-e-shaam-e-gharibaaṅ aayad
   Dukhtar-e-Hazrat-e-Shabbir hiraasaaṅ aayad
 
-  Bekasi kaisi ayaaṅ thi ban mein
-  Laashe paamaal hue jab ran mein
-  Aag Zehra ki lagi gulshan mein
+  Bekasi kaisi ayaaṅ thi ban meiṅ
+  Laashe paamaal hue jab ran meiṅ
+  Aag Zehra ki lagi gulshan meiṅ
   Yaad-e-Abbas thi aur ahl-e-haram
   Ae Khuda dast-e-karam ae Khuda dast-e-karam
   Ae Khuda dast-e-karam
@@ -32,7 +32,7 @@ romanLyrics: |-
   2
   Yaaṅ kase nist ke aayad pay-e-imdaad-e-haram
   Iṅ safina taraf-e-yurish-e-tufaaṅ aayad
-  Koi imdaad ko aaye kiun kar
+  Koi imdaad ko aaye kiuṅ kar
   Kat gaye Akbar o Abbas ke sar
   Gham ka tufaan hai aur yaad-e-padar
   Chaar jaanib se bare ranj o alam
@@ -48,16 +48,16 @@ romanLyrics: |-
   4
   Haif aaṅ aalam-e-ghurbat ke Sakina girya
   Yaad-e-altaaf-e-padar bah gham o hirmaaṅ aayad
-  Dasht-e-ghurbat mein Sakina ki fughaaṅ
+  Dasht-e-ghurbat meiṅ Sakina ki fughaaṅ
   Baaba dasta hai andhera zindaaṅ
   Jald aao ke nikal jaaye na jaaṅ
-  Aap ki yaad mein mar jaayeṅge ham
+  Aap ki yaad meiṅ mar jaayeṅge ham
 
   5
   Mi kashad naala ze hasrat sar-e-darbaar-e-Yazid
-  Be muhaabaana khayaal-e-dar-e-zindaaṅ aayad
+  Bemuhaabaana khayaal-e-dar-e-zindaaṅ aayad
   Sar-e-darbaar fughaaṅ Zainab ki
-  Qaid Kufe mein hui bint-e-Ali
+  Qaid Kufe meiṅ hui bint-e-Ali
   Lahad-e-Shaah-e-Najaf hilne lagi
   Ashk Zainab ke jo barse paiham
 

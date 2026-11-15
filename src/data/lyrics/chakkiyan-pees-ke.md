@@ -16,39 +16,39 @@ romanLyrics: |-
   Ae mere laal Husain
 
   1
-  Teri gardan pe kiya karti thi main pyaar kabhi
+  Teri gardan pe kiya karti thi maiṅ pyaar kabhi
   Apni tasbih ko karti thi tera haar kabhi
   Kya khabar thi ke chalegi yahi talwaar kabhi
   Isi gardan pe to lete the Payambar bosa
 
   2
-  Bhar gaya khun mere khwaaboṅ ki taabiroṅ mein
-  Aaj har simt se tu ghir gaya shamshiroṅ mein
-  Dekhuṅ kin ashkoṅ se ae laal tujhe tiroṅ mein
+  Bhar gaya khun mere khwaaboṅ ki taabiroṅ meiṅ
+  Aaj har simt se tu ghir gaya shamshiroṅ meiṅ
+  Dekhuṅ kin ashkoṅ se ae laal tujhe tiroṅ meiṅ
   Kabhi Jibril jhulaate the tera gehwaara
 
   3
-  Aa mere laal main aanchal mein chhupa luṅ tujh ko
-  Maamta kehti hai baahoṅ mein basa luṅ tujh ko
-  Phir usi tarah main sine se laga luṅ tujh ko
+  Aa mere laal maiṅ aanchal meiṅ chhupa luṅ tujh ko
+  Maamta kehti hai baahoṅ meiṅ basa luṅ tujh ko
+  Phir usi tarah maiṅ sine se laga luṅ tujh ko
   Jaise ik baar mera bandhe kafan tuta tha
 
   4
   Tu hai wo phul ke rota hai chaman bhi tujh ko
   Tu musaafir hai ke dhundega watan bhi tujh ko
   Haaṅ magar deṅge na ashraar kafan bhi tujh ko
-  Wo bhi chhin jaayegi gar laash pe rakh duṅ main rida
+  Wo bhi chhin jaayegi gar laash pe rakh duṅ maiṅ rida
 
   5
-  Shimr ki aankhoṅ mein ghairat ki nishaani bhi nahiṅ
-  Kund hai itna ke khanjar mein rawaani bhi nahiṅ
+  Shimr ki aankhoṅ meiṅ ghairat ki nishaani bhi nahiṅ
+  Kund hai itna ke khanjar meiṅ rawaani bhi nahiṅ
   Khush hai halq mere laal ka paani bhi nahiṅ
-  Haaṅ mere mehr mein haalaaṅke ye behta darya
+  Haaṅ mere mehr meiṅ haalaaṅke ye behta darya
 
   6
   Ab wo hamshakl-e-Nabi Akbar-e-Jarraar kahaaṅ
-  So gaya dasht mein Abbas-e-Alamdaar kahaaṅ
-  Khaak-e-jangal mein luti hai teri sarkaar kahaaṅ
+  So gaya dasht meiṅ Abbas-e-Alamdaar kahaaṅ
+  Khaak-e-jangal meiṅ luti hai teri sarkaar kahaaṅ
   Kya ujarta hai bhala yuṅ bhi kisi ka kunba
 
   7
@@ -59,21 +59,21 @@ romanLyrics: |-
 
   8
   Sab ko batlaate haiṅ ye log Nabi ki ummat
-  Ab na aankhoṅ mein murawwat na diloṅ mein ghairat
+  Ab na aankhoṅ meiṅ murawwat na diloṅ meiṅ ghairat
   Kaun sa ghusl o kafan kaisi namaaz-e-mayyat
   Chhor jaayeṅge ye sab khaak pe laasha tera
 
   9
-  So gaye ran mein tera sog manaane waale
-  Khun mein dub gaye khaak uraane waale
+  So gaye ran meiṅ tera sog manaane waale
+  Khun meiṅ dub gaye khaak uraane waale
   Bekafan khud haiṅ kafan tujh ko pehnaane waale
-  Aa teri laash pe main daaluṅ wo ashkoṅ ki rida
+  Aa teri laash pe maiṅ daaluṅ wo ashkoṅ ki rida
 
   10
   Asr-e-Aashur ka hai Aamir o Nayyar wo asar
   Manzar-e-Karbobala chhaa gaya har manzar par
   Hum musalle pe ho mimbar pe ho ya bistar par
-  Gunjta rehta hai soch mein wohi ik nauha
+  Gunjta rehta hai soch meiṅ wohi ik nauha
 # source_id: nohayonline:1385583ec28151928af7
 # source_url: https://www.nohayonline.com/details_content.php?id=2136
 # raw_sha256: 5dc3134ca80aea8ae0f753e884c23a451c5dc7547be3443c8deb3b92b91471ee

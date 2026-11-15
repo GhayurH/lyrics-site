@@ -38,8 +38,8 @@ romanLyrics: |-
   Aao zawwar-e-Husain
 
   4
-  Shahr-e-Shabbir mein aa jao fazilat pao
-  Rizq o aulaad mein aur saansoṅ mein barkat pao
+  Shahr-e-Shabbir meiṅ aa jao fazilat pao
+  Rizq o aulaad meiṅ aur saansoṅ meiṅ barkat pao
   Zinda reh kar bhi yahaaṅ fazl-e-shahaadat pao
   Ho ye koshish ke hameṅ dekh le Sarkar-e-Husain
   Aao zawwar-e-Husain
@@ -52,7 +52,7 @@ romanLyrics: |-
   Aao zawwar-e-Husain
 
   6
-  Dil mein Shabbir ho har dam chalo karbobala
+  Dil meiṅ Shabbir ho har dam chalo karbobala
   Lab pe ho din ka paighaam chalo karbobala
   Baandh kar Kaabe ka ehraam chalo karbobala
   Bait-e-Allah bhi har waqt hai ghamkhwar-e-Husain
@@ -67,7 +67,7 @@ romanLyrics: |-
 
   8
   Chashm ko ashk-e-gham-e-Shah tar karna hai
-  Dil mein har nasir-e-Shabbir ke ghar karna hai
+  Dil meiṅ har nasir-e-Shabbir ke ghar karna hai
   Su-e-Shabbir kuch is tarha safar karna hai
   Ho sada aa gaye wo Majid o Mukhtar-e-Husain
   Aao zawwar-e-Husain

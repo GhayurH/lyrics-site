@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Jo bichhaate haiṅ Muharram mein sadaa farsh-e-azaa
+  Jo bichhaate haiṅ Muharram meiṅ sadaa farsh-e-azaa
   Fatima un ki hifaazat ki duaa karti hai
 
   Apna gham bhul ke karte haiṅ jo maatam Shah ka
@@ -19,32 +19,32 @@ romanLyrics: |-
 
   1
   Chaand aata hai nazar maah-e-azaa ka jis dam
-  Shah nashinoṅ mein azaadaar sajaate haiṅ alam
+  Shah nashinoṅ meiṅ azaadaar sajaate haiṅ alam
   Jab wo karte haiṅ Husain ibn-e-Ali par girya
 
   2
-  Laut kar des mein pardes se aa jaate haiṅ
-  Apni daulat jo gham-e-Shah mein lutaa jaate haiṅ
+  Laut kar des meiṅ pardes se aa jaate haiṅ
+  Apni daulat jo gham-e-Shah meiṅ lutaa jaate haiṅ
   Aam karte haiṅ jo har saal gham-e-Karb o Balaa
 
   3
-  Dil mein rakhte haiṅ sadaa ahl-e-haram ka ehsaas
-  Yaad mein un ki pahante hai jo bas kaale libaas
+  Dil meiṅ rakhte haiṅ sadaa ahl-e-haram ka ehsaas
+  Yaad meiṅ un ki pahante hai jo bas kaale libaas
   Rashk un logoṅ pe karta hai libaas-e-Kaaba
 
   4
-  Shah ke maatam mein jo sholoṅ pe chalaa karte haiṅ
+  Shah ke maatam meiṅ jo sholoṅ pe chalaa karte haiṅ
   Naam-e-Shabbir pe jo jaan fidaa karte haiṅ
   Un ko hota hi nahiṅ jaan ka koi khatra
 
   5
-  Jo bahaate haiṅ gham-e-sibt-e-Nabi mein aansuṅ
+  Jo bahaate haiṅ gham-e-sibt-e-Nabi meiṅ aansuṅ
   Aur zanjir o qama kar ke bahaate haiṅ lahu
   Un ka hota hai har ek lamha madadgaar Khuda
 
   6
   Parcham-e-Hazrat-e-Abbas uthaane wale
-  Paa barahna haiṅ julusoṅ mein jo aane wale
+  Paa barahna haiṅ julusoṅ meiṅ jo aane wale
   Apne hontoṅ pe liye haaye Husaina ki sadaa
 
   7
@@ -59,7 +59,7 @@ romanLyrics: |-
 
   9
   Roz karte haiṅ wazifa ye Kumail o Aamir
-  Dil mein rakhte haiṅ aqida ye Kumail o Aamir
+  Dil meiṅ rakhte haiṅ aqida ye Kumail o Aamir
   Jo bhi parhte haiṅ Husain ibn-e-Ali ka nauha
 # source_id: nohayonline:acab0a2045ddfd53ac90
 # source_url: https://www.nohayonline.com/details_content.php?id=2733

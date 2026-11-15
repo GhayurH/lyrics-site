@@ -1,6 +1,6 @@
 ---
 title: "زینب کے دلارے عون و محمد"
-alternateTitle: "Aun O Muhammad Mere"
+alternateTitle: "Aun o Muhammad Mere"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -17,16 +17,16 @@ romanLyrics: |-
   Boli Zainab ye mere maan barhana bachchoṅ
   Surkh ru jang ke maidan se aana bachchoṅ
   Maut ko zist ka unwaan banana bachchoṅ
-  Pyase seh roz ke ho khuṅ mein nahana bachchoṅ
+  Pyase seh roz ke ho khuṅ meiṅ nahana bachchoṅ
 
   2
-  Aaj ke din ke liye main ne tumheiṅ paala tha
-  Ibn-e-Makhduma-e-Kaunain hai mushkil mein ghira
+  Aaj ke din ke liye maiṅ ne tumheiṅ paala tha
+  Ibn-e-Makhduma-e-Kaunain hai mushkil meiṅ ghira
   Aarzu Aun o Muhammad hai tumhari maaṅ ki
   Dono ho jao mere bhai ke Akbar pe fida
 
   3
-  Zakhm maidan mein tum khao to khush ho maadar
+  Zakhm maidan meiṅ tum khao to khush ho maadar
   Shaan-e-ajdaad ki dikhlao to khush ho maadar
   Su-e-darya na utha kar kabhi nazreiṅ dekho
   Pyase dunya se guzar jao to khush ho maadar
@@ -34,7 +34,7 @@ romanLyrics: |-
   4
   Jang is tarha karo ahl-e-wafa yaad kare
   Aise hamle ho jinheiṅ Shaami sada yaad kare
-  Nimche khol ke lamhoṅ mein ulat do lashkar
+  Nimche khol ke lamhoṅ meiṅ ulat do lashkar
   Daad Abbas de aur Sher-e-Khuda yaad kare
 
   5
@@ -45,19 +45,19 @@ romanLyrics: |-
 
   6
   Hukm Zainab ka baja laaye dulaare bachche
-  Maut to haar gayi ran mein na haare bachche
+  Maut to haar gayi ran meiṅ na haare bachche
   Dekh kar laashe pukari ye Ali ki beti
-  Surkh ru main hui dunya se sidhaare bachche
+  Surkh ru maiṅ hui dunya se sidhaare bachche
 
   7
-  Boli maaṅ laashoṅ se kiuṅ neend hai aayi utho
+  Boli maaṅ laashoṅ se kiuṅ nind hai aayi utho
   Maaṅ ko batlao lari kaisi larai utho
   Ba adab tum ho bahut phir ye ghazab hai kaisa
   Kab se baaliṅ pe khare haiṅ mere bhai utho
 
   8
   Jaffri royi kahaṅ bachchoṅ ko Bint-e-Zehra
-  Haaṅ magar laut ke jab ghar mein wo aayi dukhiya
+  Haaṅ magar laut ke jab ghar meiṅ wo aayi dukhiya
   Khaali hujre jo nazar aaye to phir zabt hua
   Haath phailaye huwe ro ke ye Zainab ne kaha
 # source_id: nohayonline:466d8ba6b3993b3f8f1c

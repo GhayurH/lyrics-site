@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   Bekafan laashoṅ ko chaadar garm reti ne uraayi
-  Ran mein Quraan ke bikhre hue paaroṅ ae shahidoṅ
+  Ran meiṅ Quraan ke bikhre hue paaroṅ ae shahidoṅ
 
   4
   Tum se sikha hai zamaane ne itaaat ka qarina

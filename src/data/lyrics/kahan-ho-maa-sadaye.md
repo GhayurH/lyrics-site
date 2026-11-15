@@ -1,6 +1,6 @@
 ---
 title: "کہاں ہو ماں صدائیں دے رہی ہے اے علی اصغر"
-alternateTitle: "Kahan Ho Maa Sadaye"
+alternateTitle: "Kahaṅ Ho Maa Sadaye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,18 +12,18 @@ aliases: []
 published: true
 romanLyrics: |-
   Kahaṅ ho maaṅ sadaaeṅ de rahi hai ae Ali Asghar
-  Tumheṅ Dasht-e-Bala mein dhundti hai ae Ali Asghar
+  Tumheṅ Dasht-e-Bala meiṅ dhundti hai ae Ali Asghar
 
   1
   Mere nur-e-nazar ae jaan-e-maadar aa gaya paani
   Tumheṅ bhi to bala ki tashnagi hai ae Ali Asghar
 
   2
-  Tumhaara khaali jhula sab ko khaimoṅ mein rulaata hai
+  Tumhaara khaali jhula sab ko khaimoṅ meiṅ rulaata hai
   Tumheṅ kho kar Sakina ro rahi hai ae Ali Asghar
 
   3
-  Mere khaime mein ae beta tumhaare dam se raunaq hai
+  Mere khaime meiṅ ae beta tumhaare dam se raunaq hai
   Tumhaare baad ab viraangi hai ae Ali Asghar
 
   4
@@ -31,7 +31,7 @@ romanLyrics: |-
   Tumhaari qabr ashkoṅ se saji hai ae Ali Asghar
 
   5
-  Na apni zindagi mein main kabhi saaye mein baithuṅgi
+  Na apni zindagi meiṅ maiṅ kabhi saaye meiṅ baithuṅgi
   Ye waada kar ke ab maaṅ jaa rahi hai ae Ali Asghar
 
   6
@@ -39,7 +39,7 @@ romanLyrics: |-
   Tumheṅ baali Sakina puchhti hai ae Ali Asghar
 
   7
-  Zafar raahoṅ mein kehti thi yehi Umm-e-Rubaab aksar
+  Zafar raahoṅ meiṅ kehti thi yehi Umm-e-Rubaab aksar
   Tumhaare baad kaisi zindagi hai ae Ali Asghar
 # source_id: nohayonline:dc1139cbd8e2182f004f
 # source_url: https://www.nohayonline.com/details_content.php?id=1685

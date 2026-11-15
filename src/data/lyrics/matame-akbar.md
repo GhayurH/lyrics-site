@@ -27,7 +27,7 @@ romanLyrics: |-
 
   3
   Andher ho gaya hai ye duniya tumhaare baad
-  Laashe pe nauha khwaaṅ yuṅ Zehra ka beta hai
+  Laashe pe nauha khwaan yuṅ Zehra ka beta hai
 
   4
   Ghar ka sukun aankhoṅ ki binaai le gaye

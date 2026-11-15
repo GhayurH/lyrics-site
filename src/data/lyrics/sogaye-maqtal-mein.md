@@ -1,6 +1,6 @@
 ---
 title: "سو گئے مقتل میں سرور حشر کا ہنگام ہے"
-alternateTitle: "So Gaye Maqtal Mein"
+alternateTitle: "So Gaye Maqtal Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

@@ -34,21 +34,21 @@ romanLyrics: |-
   Farsh-e-aza bichha lo Ae Shah ke azaadaaroṅ
   Dunya ko ye bata do Ae Shah ke azaadaaroṅ
   Kiuṅ karte haiṅ ye maatam hum Aal-e-Muhammad ka
-  Mazlum ka maqtal mein khuṅ kis ne hai barsaaya
+  Mazlum ka maqtal meiṅ khuṅ kis ne hai barsaaya
   Mere Maula Husain mere Aaqa Husain
 
   3
   Ae Shah ke azaadaaroṅ ye gham to manaana hai
   Dunya ko gham-e-Shah ki rudaad sunaana hai
   Jo zulm hue un par har ek ko bataana hai
-  Baatil ke iraadoṅ ko mitti mein milaana hai
-  Ab aao kare maatam roye gham-e-Sarwar mein
-  Majlis ho bapa Shah ki haq waaloṅ ke ghar ghar mein
+  Baatil ke iraadoṅ ko mitti meiṅ milaana hai
+  Ab aao kare maatam roye gham-e-Sarwar meiṅ
+  Majlis ho bapa Shah ki haq waaloṅ ke ghar ghar meiṅ
   Mere Maula Husain mere Aaqa Husain
 
   4
   Ab royegi Zehra bhi farsh-e-Shah-e-waala par
-  Karna na siyaasat tum majlis mein kabhi jaa kar
+  Karna na siyaasat tum majlis meiṅ kabhi jaa kar
   Dekho na dukhe hargiz Aabid ka dil-e-muztar
   Kirdaar se batlaao Sarwar ke ho tum naukar
   Waada ye karo har dam ashkoṅ ko bahaao ge
@@ -56,25 +56,25 @@ romanLyrics: |-
   Mere Maula Husain mere Aaqa Husain
 
   5
-  Akbar ko laga neza bughz-e-Waliullah mein
-  Asghar ka gala chheda bughz-e-Waliullah mein
-  Ghazi ko bhi hai maara bughz-e-Waliullah mein
-  Qasim hue sau paara bughz-e-Waliullah mein
-  Thi dushmani aada ko Haidar se faqat ran mein
-  Is waaste kaata tha Sarwar ka gala ban mein
+  Akbar ko laga neza bughz-e-Waliullah meiṅ
+  Asghar ka gala chheda bughz-e-Waliullah meiṅ
+  Ghazi ko bhi hai maara bughz-e-Waliullah meiṅ
+  Qasim hue sau paara bughz-e-Waliullah meiṅ
+  Thi dushmani aada ko Haidar se faqat ran meiṅ
+  Is waaste kaata tha Sarwar ka gala ban meiṅ
   Mere Maula Husain mere Aaqa Husain
 
   6
-  Rote haiṅ bahut Sarwar Akbar ki judaai mein
-  Viraan hua hai ghar Akbar ki judaai mein
-  Maatam karo sinoṅ par Akbar ki judaai mein
-  Rona hai hameiṅ shab bhar Akbar ki judaai mein
-  Gham mein Ali Akbar ke roti hai bahut Laila
-  Rota hai bahut kunba jangal mein Payambar ka
+  Rote haiṅ bahut Sarwar Akbar ki judaai meiṅ
+  Viraan hua hai ghar Akbar ki judaai meiṅ
+  Maatam karo sinoṅ par Akbar ki judaai meiṅ
+  Rona hai hameiṅ shab bhar Akbar ki judaai meiṅ
+  Gham meiṅ Ali Akbar ke roti hai bahut Laila
+  Rota hai bahut kunba jangal meiṅ Payambar ka
   Mere Maula Husain mere Aaqa Husain
 
   7
-  Aaye hai wo din jis mein hum jhula sajaate haiṅ
+  Aaye hai wo din jis meiṅ hum jhula sajaate haiṅ
   Ghazi ka alam le kar jhule pe lagaate haiṅ
   Nazr-e-Ali Asghar ka sharbat bhi pilaate haiṅ
   Bachchoṅ ko sabhi apne hum saqqa banaate haiṅ

@@ -14,20 +14,20 @@ published: true
 romanLyrics: |-
   Girte the zin se jis dam zamin par Akbar
   Tarap rahe the yehi waaṅ soch kar Akbar
-  Chacha ke sadme mein Baba ki jhuk gayi hai kamar
+  Chacha ke sadme meiṅ Baba ki jhuk gayi hai kamar
   Chhupaana hoga mujhe un se apne zakhm-e-jigar
-  Na mujh ko khun mein tar dekh paayeṅge Baba
+  Na mujh ko khun meiṅ tar dekh paayeṅge Baba
   Mere janaaze ko kaise uthaayeṅge Baba
   Ragarna aeriyaaṅ mera bhula na paayeṅge Baba
-  Zaifi mein mera laasha utha na paayeṅge Baba
+  Zaifi meiṅ mera laasha utha na paayeṅge Baba
 
-  Zaifi mein mera laasha
+  Zaifi meiṅ mera laasha
   Utha na paayeṅge Baba
   Ragarna aeriyaaṅ mera
   Bhula na paayeṅge Baba
 
   1
-  Na jaane kis tarah maqtal mein
+  Na jaane kis tarah maqtal meiṅ
   Mujh ko dhundte hoṅge
   Nazar aata na hoga kuch
   Sadaaeṅ de rahe hoṅge
@@ -35,7 +35,7 @@ romanLyrics: |-
   Bula na paayeṅge Baba
 
   2
-  Main hamshakl-e-Payambar huṅ
+  Maiṅ hamshakl-e-Payambar huṅ
   Mere Baba yeh kehte the
   Dua har roz sine se
   Laga kar mujh ko dete the
@@ -87,7 +87,7 @@ romanLyrics: |-
   Laash Ali Akbar
   Qayaamat ho gayi barpa
   Kaha jab Shaah ne ro kar
-  Zaifi mein tera laasha
+  Zaifi meiṅ tera laasha
   Utha na paayeṅge Baba
 # source_id: nohayonline:c4663535a7b3e2c2b8a2
 # source_url: https://www.nohayonline.com/details_content.php?id=1662

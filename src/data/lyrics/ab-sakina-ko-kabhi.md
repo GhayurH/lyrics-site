@@ -15,7 +15,7 @@ romanLyrics: |-
 
   1
   Khaak par Aun o Muhammad ko para dekha hai
-  Laash-e-Abbas mein nezoṅ ko gara dekha hai
+  Laash-e-Abbas meiṅ nezoṅ ko gara dekha hai
   Sar ko Beshir ke bhi tan se juda dekha hai
   Baap ke sine ko tiroṅ se bhara dekha hai
 
@@ -34,20 +34,20 @@ romanLyrics: |-
   4
   Gardan-e-Shah pe chalta hua khanjar dekha
   Us ne barchhi se chhida sina-e-Akbar dekha
-  Ek hi din mein ujarta hua sab ghar dekha
+  Ek hi din meiṅ ujarta hua sab ghar dekha
   Asr-e-Aashur ko Zainab ka khula sar dekha
 
   5
-  Jalte khaimoṅ ka dhuaṅ aankhoṅ mein baqi hai abhi
-  Chhinte gauhar ki dukhan kanoṅ mein baqi hai abhi
-  Tang rassi ki ghutan saansoṅ mein baqi hai abhi
-  Phatte chhaloṅ ki jalan pairoṅ mein baqi hai abhi
+  Jalte khaimoṅ ka dhuaṅ aankhoṅ meiṅ baqi hai abhi
+  Chhinte gauhar ki dukhan kanoṅ meiṅ baqi hai abhi
+  Tang rassi ki ghutan saansoṅ meiṅ baqi hai abhi
+  Phatte chhaloṅ ki jalan pairoṅ meiṅ baqi hai abhi
 
   6
   Pyaas pine ke liye bhuk hai khane ke liye
   Shimr badkar hai hamrah satane ke liye
   Aur berahm tamache haiṅ rulane ke liye
-  Ye jo zinda hai to zindan mein jaane ke liye
+  Ye jo zinda hai to zindan meiṅ jaane ke liye
 
   7
   Bhul paegi na Ghazi ke kate shanoṅ ko
@@ -56,7 +56,7 @@ romanLyrics: |-
   Bhul paegi na woh Shaam ke zindanoṅ ko
 
   8
-  Nind use Noor Ali aaye to kaise aaye
+  Nind use Nur Ali aaye to kaise aaye
   Jis ko taqdir ye ghurbat ki ghari dikhlae
   Gaam dar gaam jo patthar kabhi durre khae
   Nauha Nasir ne parha dil se ye nikla haye

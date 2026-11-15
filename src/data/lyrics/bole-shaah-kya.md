@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Bole Sheh kya main jawab-e-khat-e-dukhtar likhuṅ
+  Bole Sheh kya maiṅ jawab-e-khat-e-dukhtar likhuṅ
   Naamawar dekh le jo haal hai kiuṅ kar likhuṅ
 
   1
@@ -28,18 +28,18 @@ romanLyrics: |-
 
   4
   Kat gaye shaane chhidi mashk-e-Sakina afsos
-  Bichhre pardes mein Abbas-e-dilawar likhuṅ
+  Bichhre pardes meiṅ Abbas-e-dilawar likhuṅ
 
   5
   Shaam ko dulha bane subh-e-shahadat paai
   Laash-e-Qasim hui pamaal ye kiuṅ kar likhuṅ
 
   6
-  Do hue Kufe mein do Karbobala mein maqtul
+  Do hue Kufe meiṅ do Karbobala meiṅ maqtul
   Haye Muslim ke pisar mar gaye kiuṅ kar likhuṅ
 
   7
-  Kitne tanha the Husain asr ke hangaam Anees
+  Kitne tanha the Husain asr ke hangaam Anis
   Gham se phat jaye kaleja jo wo manzar likhuṅ
 # source_id: nohayonline:1e33882d5e8aac8d77fa
 # source_url: https://www.nohayonline.com/details_content.php?id=1898

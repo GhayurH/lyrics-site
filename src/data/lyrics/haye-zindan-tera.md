@@ -23,7 +23,7 @@ romanLyrics: |-
   Kya karuṅ qaid khaana hai ye ghar nahiṅ
   Ghusl dene ko paani mayassar nahiṅ
   Aur kafnaauṅ kaise ke chaadar nahiṅ
-  Bekasi aur ghurbat mein Ae ghamzada
+  Bekasi aur ghurbat meiṅ Ae ghamzada
 
   2
   Jab tu royi tamaachoṅ ki paayi saza
@@ -33,7 +33,7 @@ romanLyrics: |-
 
   3
   Tu andheroṅ se darti rahi meri jaaṅ
-  Baap ke gham mein roti rahi meri jaaṅ
+  Baap ke gham meiṅ roti rahi meri jaaṅ
   Ghar chalo maaṅ se kehti rahi meri jaaṅ
   Tera armaan pura nahiṅ ho saka
 
@@ -44,21 +44,21 @@ romanLyrics: |-
   Haaye tiroṅ se un ka kafan ban gaya
 
   5
-  Tujh ko zindaaṅ mein Baba ka sar jo mila
+  Tujh ko zindaaṅ meiṅ Baba ka sar jo mila
   Tu ne Baba ke muṅh par jo muṅh ko rakha
   Itna royi ke zindaaṅ larazne laga
   Rote rote hi aayi hai tujh ko qaza
 
   6
-  Kam sini mein sitam tu ne kitne sahe
-  Chaar saala yatima main sadqe tere
+  Kam sini meiṅ sitam tu ne kitne sahe
+  Chaar saala yatima maiṅ sadqe tere
   Baad-e-Aashur soyi nahiṅ chain se
   Chain mar ke bhi tujh ko nahiṅ mil saka
 
   7
   Haaye Farhan o Mazhar ajab waqt tha
   Us yatima ka jis dam janaaza utha
-  Bibiyoṅ mein bapa ek kohraam tha
+  Bibiyoṅ meiṅ bapa ek kohraam tha
   Sab ne qabr-e-Sakina pe nauha kiya
 # source_id: nohayonline:8df285c5401d4c790f9f
 # source_url: https://www.nohayonline.com/details_content.php?id=72

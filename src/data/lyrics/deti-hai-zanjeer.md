@@ -1,6 +1,6 @@
 ---
 title: "دیتی ہے زنجیر گواہی کس کا ہے تابوت اٹھا"
-alternateTitle: "Deti Hai Zanjeer"
+alternateTitle: "Deti Hai Zanjir"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -15,24 +15,24 @@ romanLyrics: |-
   Chaudah saal ke baad hua hai zindaaṅ se mazlum riha
 
   1
-  Kariyoṅ mein paaband janaaze le ke hai mazdur chale
+  Kariyoṅ meiṅ paaband janaaze le ke hai mazdur chale
   Karne lagi hai aap gharibi maatam Musa Kazim ka
 
   2
   Haaye baad-e-shahada ke bhi pusht na sidhi hoti thi
-  Chaudah saal ruku mein reh kar Maula ka ye haal hua
+  Chaudah saal ruku meiṅ reh kar Maula ka ye haal hua
 
   3
   Dekh ke haalat bewa maaṅ ki betiyaaṅ hai behaal hui
-  Sar mein khaak-e-yatimi le kar rota hai mazlum Raza
+  Sar meiṅ khaak-e-yatimi le kar rota hai mazlum Raza
 
   4
-  Anguroṅ mein zehr khila kar maara hai pardesi ko
+  Anguroṅ meiṅ zehr khila kar maara hai pardesi ko
   Fil qurba ka Aal-e-Nabi ko ummat ne ye ajr diya
 
   5
   Jo tha saatwaaṅ rukn-e-imaamat dhaaya zaalim logoṅ ne
-  Galiyoṅ mein Baghdad ki ro kar deta hai Jibril sada
+  Galiyoṅ meiṅ Baghdad ki ro kar deta hai Jibril sada
 
   6
   Kalma go batlaao kya ye paak Nabi ka khun nahiṅ

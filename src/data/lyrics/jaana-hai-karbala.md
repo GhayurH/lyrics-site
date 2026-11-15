@@ -30,11 +30,11 @@ romanLyrics: |-
 
   1
   Jab aayi chaand raat Muharram ki ya Khuda
-  Ae kaash Karbala mein ho hum bhi kisi jagah
+  Ae kaash Karbala meiṅ ho hum bhi kisi jagah
   Manzar wo hum bhi dekh leiṅ parcham kushaai ka
   Labbaik ya Husain hamaari bhi ho sada
   Paana hai ye sharaf paana hai
-  Shah ke zawwaaroṅ mein naam likhwaana hai
+  Shah ke zawwaaroṅ meiṅ naam likhwaana hai
 
   Jaana hai Karbala jaana hai
   Ba khuda maula ke dar hameiṅ jaana hai
@@ -47,11 +47,11 @@ romanLyrics: |-
 
   2
   Maula tumhaare chaahne waaloṅ ki hai sada
-  Karna hai Karbala mein hi Aashur-e-Karbala
+  Karna hai Karbala meiṅ hi Aashur-e-Karbala
   Maula nazar ke saamne rauza ho aap ka
   Maatam zarih ke saamne ho aap ka bapa
   Kehna hai bas yehi kehna hai
-  Hum ko bhi maula ke saaye mein rehna hai
+  Hum ko bhi maula ke saaye meiṅ rehna hai
 
   Jaana hai Karbala jaana hai
   Ba khuda maula ke dar hameiṅ jaana hai
@@ -120,7 +120,7 @@ romanLyrics: |-
   Kat kar gire the baazu-e-Abbas jis jagah
   Akbar jawaaṅ ka jahaaṅ chhalni jigar hua
   Asghar ne khaaya hans ke jahaaṅ tir-e-Hurmala
-  Duba jahaaṅ pe khun mein lashkar Husain ka
+  Duba jahaaṅ pe khun meiṅ lashkar Husain ka
   Jaana hai har jagah jaana hai
   Jaa ke har turbat par ashk barsaana hai
 

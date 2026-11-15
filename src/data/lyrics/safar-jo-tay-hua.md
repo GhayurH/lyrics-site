@@ -1,6 +1,6 @@
 ---
 title: "سفر جو طے ہوا زانو بہ زانو رو رو کر"
-alternateTitle: "Safar Jo Tay Hua"
+alternateTitle: "Safar Jo Te Hua"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,28 +11,28 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Safar jo tay hua zaanu ba zaanu ro ro kar
+  Safar jo te hua zaanu ba zaanu ro ro kar
   Pidar khamida kamar aaya laash-e-Akbar par
 
   1
-  Main tere laashe pe aaya huṅ is tarah Akbar
+  Maiṅ tere laashe pe aaya huṅ is tarah Akbar
   Bare jatan se hataaya hai raah se lashkar
   Har ek qadam pe sataate the mujh ko ahl-e-shar
   Safar ye kya tha agar puchhte ho nur-e-nazar
   Zaifi paaoṅ ki zanjir thokaroṅ ka safar
 
   2
-  Sinaaṅ thi sina-e-Akbar mein haath sine par
+  Sinaaṅ thi sina-e-Akbar meiṅ haath sine par
   Jo dekha baap ne bete ka ye dukhi manzar
   Tamaam hasrateṅ dil ki hui yuṅ khaak is tar
-  Siyaah zulfoṅ mein chaali utar gayi aksar
+  Siyaah zulfoṅ meiṅ chaali utar gayi aksar
   Ye kya bapa kiya ummat ne zulm ka mahshar
 
   3
   Ye jis shaqi ne kiya zulm mere laal bata
   Use pata nahiṅ kaisa hai dard bete ka
   Meri zaifi pe us ne zara na tars kiya
-  Hameṅ jo haalat-e-ghurbat mein aisa dard diya
+  Hameṅ jo haalat-e-ghurbat meiṅ aisa dard diya
   Shaqi ne khun se bhar di shabih-e-Paighambar
 
   4
@@ -52,7 +52,7 @@ romanLyrics: |-
   6
   Hilaaya haath jo Maula ne le ke naam-e-Khuda
   Hijaab hat gaya manzar tha saamne ghar ka
-  Aur ek kone mein baithi thi khaak par Sughra
+  Aur ek kone meiṅ baithi thi khaak par Sughra
   Ye dekhna tha ke wa ghurbata ki aayi sada
   Behen ki dekh ke haalat tarap gaya Akbar
 

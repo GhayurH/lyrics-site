@@ -1,6 +1,6 @@
 ---
 title: "جب رن میں علمدار کی شمشیر چلی ہے"
-alternateTitle: "Jab Ran Mein Alamdar"
+alternateTitle: "Jab Ran Meiṅ Alamdar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Jab ran mein alamdaar ki shamshir chali hai
+  Jab ran meiṅ alamdaar ki shamshir chali hai
   Aayi hui baaliṅ pe qaza kis ki tali hai
 
   1
@@ -35,7 +35,7 @@ romanLyrics: |-
   Ae Shimr Sakina bare naazoṅ se pali hai
 
   6
-  The Shimr ke darbaar-e-Yazidi mein ishaare
+  The Shimr ke darbaar-e-Yazidi meiṅ ishaare
   Wo bewa-e-Abbas hai ye bint-e-Ali hai
 
   7

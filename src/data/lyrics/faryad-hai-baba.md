@@ -29,19 +29,19 @@ romanLyrics: |-
   Faryaad hai Baba
 
   3
-  Is gham se phata jaata hai sine mein kaleja
-  Main reh gayi tanha
-  Shabbir sa laauṅ gi kahaaṅ se main biraadar
+  Is gham se phata jaata hai sine meiṅ kaleja
+  Maiṅ reh gayi tanha
+  Shabbir sa laauṅ gi kahaaṅ se maiṅ biraadar
   Faryaad hai Baba
 
   4
-  Paiwast hua sine mein is tarah se naiza
+  Paiwast hua sine meiṅ is tarah se naiza
   Khinch aaya kaleja
-  Aur khuṅ mein tarapta raha shakl-e-Payambar
+  Aur khuṅ meiṅ tarapta raha shakl-e-Payambar
   Faryaad hai Baba
 
   5
-  Le kar main alamdaar ke do dast-e-burida
+  Le kar maiṅ alamdaar ke do dast-e-burida
   Aur khuṅ bhara kurta
   Aauṅ gi ye kehti hui Baba sar-e-mahshar
   Faryaad hai Baba

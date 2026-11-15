@@ -19,7 +19,7 @@ romanLyrics: |-
   Magar ye maajra kya hai chacha nahiṅ aaye
 
   2
-  Pare haiṅ pyaas ki shiddat se halq mein kaaṅte
+  Pare haiṅ pyaas ki shiddat se halq meiṅ kaaṅte
   Magar laboṅ pe sada hai chacha nahiṅ aaye
 
   3
@@ -51,7 +51,7 @@ romanLyrics: |-
   Yahaaṅ bhi dhyaan laga hai chacha nahiṅ aaye
 
   10
-  Surur aa gaye aaṅkhoṅ mein khun ke aaṅsu
+  Surur aa gaye aaṅkhoṅ meiṅ khun ke aaṅsu
   Ye nauha jab bhi suna hai chacha nahiṅ aaye
 # source_id: nohayonline:a020c50ee8601b62f22a
 # source_url: https://www.nohayonline.com/details_content.php?id=3757

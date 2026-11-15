@@ -12,45 +12,45 @@ aliases: []
 published: true
 romanLyrics: |-
   Maa ka naala laash tak aata hai
-  Akbar ghar mein aao
+  Akbar ghar meiṅ aao
   Dekh koi yuṅ bhi rulwaata hai
-  Haye Akbar ghar mein aao
+  Haye Akbar ghar meiṅ aao
 
   1
   Aakhri didaar mumkin ho to dikhla do mujhe
-  Laash uthaaye ran mein baap aata hai
-  Akbar ghar mein aao
-  Haye Akbar ghar mein aao
+  Laash uthaaye ran meiṅ baap aata hai
+  Akbar ghar meiṅ aao
+  Haye Akbar ghar meiṅ aao
 
   2
   Tukre tukre ho gaya naazuk kaleja waqt-e-jang
   Is tarah barchhi koi khaata hai
-  Akbar ghar mein aao
-  Haye Akbar ghar mein aao
+  Akbar ghar meiṅ aao
+  Haye Akbar ghar meiṅ aao
 
   3
   Sadqe jaauṅ gi wafa ahd-e-jawaani ne na kuchh
   Itni jaldi koi mar jaata hai
-  Akbar ghar mein aao
-  Haye Akbar ghar mein aao
+  Akbar ghar meiṅ aao
+  Haye Akbar ghar meiṅ aao
 
   4
-  Tum yahaaṅ maqtal mein ho aur maa hai deorhi par tapaaṅ
-  Meri jaan ulfat mein farq aata hai
-  Akbar ghar mein aao
-  Haye Akbar ghar mein aao
+  Tum yahaaṅ maqtal meiṅ ho aur maa hai deorhi par tapaaṅ
+  Meri jaan ulfat meiṅ farq aata hai
+  Akbar ghar meiṅ aao
+  Haye Akbar ghar meiṅ aao
 
   5
-  Tum se milna kya tumhaari maa ki qismat mein nahiṅ
+  Tum se milna kya tumhaari maa ki qismat meiṅ nahiṅ
   Dil mera kaahe ko ghabraata hai
-  Akbar ghar mein aao
-  Haye Akbar ghar mein aao
+  Akbar ghar meiṅ aao
+  Haye Akbar ghar meiṅ aao
 
   6
   Khaime ke dar par tumhaare waaste roti hai maa
   Aisa koi maa ko rulwaata hai
-  Akbar ghar mein aao
-  Haye Akbar ghar mein aao
+  Akbar ghar meiṅ aao
+  Haye Akbar ghar meiṅ aao
 # source_id: nohayonline:a614118194619b10b528
 # source_url: https://www.nohayonline.com/details_content.php?id=222
 # raw_sha256: 204508b13d5e9adfa23a8b7f195a8aaacd2361541460511225501b71893e6fd4

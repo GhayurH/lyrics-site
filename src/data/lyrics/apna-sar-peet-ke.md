@@ -1,6 +1,6 @@
 ---
 title: "اپنا سر پیٹ کے کہتی تھی یہ لیلیٰ اکبر"
-alternateTitle: "Apna Sar Peet Ke"
+alternateTitle: "Apna Sar Pit Ke"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -23,15 +23,15 @@ romanLyrics: |-
   Chhir gaya hai meri qismat ka sawera Akbar
 
   3
-  Raas aaya na tumheṅ dasht mein athaarwaaṅ saal
+  Raas aaya na tumheṅ dasht meiṅ athaarwaaṅ saal
   De diye tum ne hameṅ dard ka tohfa Akbar
 
   4
-  Tum ne pardes mein laa kar hameṅ tanha chhora
+  Tum ne pardes meiṅ laa kar hameṅ tanha chhora
   Phat na jaaye kahiṅ is gham se kaleja Akbar
 
   5
-  Tum ne jis waqt se maqtal mein qadam rakha hai
+  Tum ne jis waqt se maqtal meiṅ qadam rakha hai
   Yaad kar ke tumheṅ roti hai Sakina Akbar
 
   6
@@ -39,11 +39,11 @@ romanLyrics: |-
   Berida jaaye kahaaṅ jal gaya khaima Akbar
 
   7
-  Ghash mein hai Sayyid Sajjad zara socho to
+  Ghash meiṅ hai Sayyid Sajjad zara socho to
   Kaun uthaaye Shah-e-mazlum ka laasha Akbar
 
   8
-  Dasht-e-purhaul mein main kaise rahuṅ gi tanha
+  Dasht-e-purhaul meiṅ maiṅ kaise rahuṅ gi tanha
   Hai ye afsos ke tum ne bhi na socha Akbar
 
   9

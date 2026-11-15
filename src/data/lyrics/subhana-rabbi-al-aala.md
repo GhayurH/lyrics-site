@@ -18,7 +18,7 @@ romanLyrics: |-
   1
   Asghar ko tere naam par qurbaan kar diya
   Gathri meiṅ tere waaste Qaasim utha liya
-  Main ne teri azaan par Akbar kiya fida
+  Maiṅ ne teri azaan par Akbar kiya fida
 
   2
   Jis dam Husain zin se utre zamin par
@@ -58,7 +58,7 @@ romanLyrics: |-
   9
   Shah par chali jo zarb Takallum wo aakhri
   Katti hui ragoṅ ki musalsal sada ye thi
-  Main ne jo tujh se waada kiya tha nibha diya
+  Maiṅ ne jo tujh se waada kiya tha nibha diya
 # source_id: nohayonline:3a4ff4add37910ac06d8
 # source_url: https://www.nohayonline.com/details_content.php?id=1085
 # raw_sha256: 63606fa691af3abc8c57201b11ec98eb7709e1390f8d31b22352f1119f9dba9c

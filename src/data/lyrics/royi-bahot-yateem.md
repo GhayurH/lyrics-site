@@ -14,68 +14,68 @@ romanLyrics: |-
   Sunsaan ban wo raat wo uthta hua dhuaaṅ
   Nikli padar ko dhundne nanhi si ek jaaṅ
   Kehti thi baba jaan bata do ke ho kahaaṅ
-  Ak laash bol uthi meri beti main huṅ yahaaṅ
+  Ak laash bol uthi meri beti maiṅ huṅ yahaaṅ
   Le kar isi sada ka sahaare pahunch gayi
-  Roti hui nashib mein dukhiya pahunch gayi
+  Roti hui nashib meiṅ dukhiya pahunch gayi
 
   1
-  Besar jab apne baap ko dekha nashib mein
-  Royi bahut yatim Sakina nashib mein
+  Besar jab apne baap ko dekha nashib meiṅ
+  Royi bahut yatim Sakina nashib meiṅ
 
   2
-  Maqtal mein laash baap ki jab sar kati mili
+  Maqtal meiṅ laash baap ki jab sar kati mili
   Thi umr chaar saal ki bachchi tarap gayi
   Beti jab apne baap ko pehchaan na saki
   Aawaaz ya abaa ki Sakina ne ro ke di
-  Laasha gharib baap ka bola nashib mein
+  Laasha gharib baap ka bola nashib meiṅ
 
   3
   Likha hai raawiyoṅ ne wo manzar bara ajib
   Jangal wo kaali raat wo ghurbat wo gham nasib
   Aawaaz sun ke baap ki pahunchi hai jab qarib
   Haalat pidar ki dekh ke royi bahut gharib
-  Beti ke saath baap bhi roya nashib mein
+  Beti ke saath baap bhi roya nashib meiṅ
 
   4
   Aage bari Husain ki mazlum ghamzada
   Tiroṅ se jism baap ka dekha bhara hua
   Ghabra ke tir jism se karne lagi juda
   Kamsin thi koi tir na us se nikal saka
-  Paaya na jab Husain ka sina nashib mein
+  Paaya na jab Husain ka sina nashib meiṅ
 
   5
   Khaali na paayi jism pe tiroṅ se koi jaa
   Karne lagi tawaaf wo baba ki laash ka
   Maayus ho ke paayinti baithi wo ghamzada
   Rukhsaar apne baap ke talwoṅ pe rakh diya
-  Le kar padar ke paaoṅ ka bosa nashib mein
+  Le kar padar ke paaoṅ ka bosa nashib meiṅ
 
   6
   Apne pidar ki laash pe le le ke siskiyaaṅ
   Wo apne dard baap se karne lagi bayaaṅ
   Rukh par bani thi saaf jo zaalim ki ungliyaaṅ
   Bachchi ne jab dikhaaye tamaanchoṅ ke wo nishaaṅ
-  Zakhmi badan Husain ka tarpa nashib mein
+  Zakhmi badan Husain ka tarpa nashib meiṅ
 
   7
   Phir ye kehne lagi ro ro ke yatima baba
   Mere baaloṅ ko sitamgar ne jo pakra baba
   Maara zaalim ne mujhe aisa tamaancha baba
-  Chhaa gaya meri nigaahoṅ mein andhera baba
+  Chhaa gaya meri nigaahoṅ meiṅ andhera baba
 
   8
-  Kehti thi main yatim huṅ mujh par na waar kar
+  Kehti thi maiṅ yatim huṅ mujh par na waar kar
   Ki minnateṅ bahut ki zara intezaar kar
-  Main de rahi thi Shimr ko bunde utaar kar
+  Maiṅ de rahi thi Shimr ko bunde utaar kar
   Chhine haiṅ berehm ne magar mujh ko maar kar
-  Ye dard jab pidar ko sunaaya nashib mein
+  Ye dard jab pidar ko sunaaya nashib meiṅ
 
   9
   Waiz likhega kaun yatima ki bekasi
   Laash-e-Shah-e-zaman se wo jis dam juda hui
   Lagta tha ab jiyegi na bachchi Husain ki
   Jaane lagi nashib se jab Shah ki laadli
-  Baba ko apne chhor ke tanha nashib mein
+  Baba ko apne chhor ke tanha nashib meiṅ
 # source_id: nohayonline:52edc25b6e1abb035e7a
 # source_url: https://www.nohayonline.com/details_content.php?id=1748
 # raw_sha256: 38df8ac25255fa52f57d28d42a954f1c612c8506bc9d6df2c615b6435b4fc015

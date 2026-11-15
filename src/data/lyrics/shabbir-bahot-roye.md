@@ -15,7 +15,7 @@ romanLyrics: |-
   Jab qatl hue Asghar Shabbir bahot roye
 
   1
-  Maidaan mein jab pahunche haathoṅ se kamar thaame
+  Maidaan meiṅ jab pahunche haathoṅ se kamar thaame
   Abbas ke laashe par Shabbir bahot roye
 
   2
@@ -23,7 +23,7 @@ romanLyrics: |-
   Sine pe pare khanjar Shabbir bahot roye
 
   3
-  Tar khun se chehra tha aur tir badan mein the
+  Tar khun se chehra tha aur tir badan meiṅ the
   Nazreṅ pari maadar par Shabbir bahot roye
 
   4
@@ -36,14 +36,14 @@ romanLyrics: |-
 
   6
   Naize ki bulandi se Sajjad ke bistar tak
-  Jab sholoṅ mein dekha ghar Shabbir bahot roye
+  Jab sholoṅ meiṅ dekha ghar Shabbir bahot roye
 
   7
-  Jab tasht se sar aaya daaman mein Sakina ke
+  Jab tasht se sar aaya daaman meiṅ Sakina ke
   Beti se gale mil kar Shabbir bahot roye
 
   8
-  Ek aisi behan jis ki aawaaz thi parde mein
+  Ek aisi behan jis ki aawaaz thi parde meiṅ
   Dekha jo barehna sar Shabbir bahot roye
 
   9

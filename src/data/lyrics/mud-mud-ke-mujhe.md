@@ -25,11 +25,11 @@ romanLyrics: |-
   2
   Bimaar-e-Madina ki khabar aati hi hogi
   Tum saath liye jaate ho binaai bhi meri
-  Main kaise parhuṅ ga khat-e-Sughra Ali Akbar
+  Maiṅ kaise parhuṅ ga khat-e-Sughra Ali Akbar
 
   3
   Ho jaayega mushkil mera aana mere beta
-  Maqtal mein kahiṅ dur na jaana mere beta
+  Maqtal meiṅ kahiṅ dur na jaana mere beta
   Ab mujh se chala bhi nahiṅ jaata Ali Akbar
 
   4
@@ -49,13 +49,13 @@ romanLyrics: |-
 
   7
   Ae laal tujhe karta huṅ baaba ke hawaale
-  Maidan mein haṅste haiṅ khare barchhiyoṅ waale
+  Maidan meiṅ haṅste haiṅ khare barchhiyoṅ waale
   Achchhi tarah phir dekh luṅ sina Ali Akbar
 
   8
   Sar pit ke Mola ne Takallum ye sada di
   Hai chaadar-e-Zainab meri ghurbat ki gawaahi
-  Main tum ko kafan de nahiṅ sakta Ali Akbar
+  Maiṅ tum ko kafan de nahiṅ sakta Ali Akbar
 # source_id: nohayonline:373f30f5a10d821155ef
 # source_url: https://www.nohayonline.com/details_content.php?id=325
 # raw_sha256: e53b286e0bf2247fb1a6cb3750b6c41ededd8f1fee956d446485ba955792daca

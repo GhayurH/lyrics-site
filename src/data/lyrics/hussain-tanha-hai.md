@@ -26,7 +26,7 @@ romanLyrics: |-
 
   3
   Ye bewafaai ye ummat ki daastaaṅ hai ajib
-  Kiya hai dasht mein farzand-e-Mustafa ko gharib
+  Kiya hai dasht meiṅ farzand-e-Mustafa ko gharib
   Kahaaṅ ho Hurr-e-dilaawar kahaaṅ ho mere Habib
 
   4
@@ -35,7 +35,7 @@ romanLyrics: |-
   Ye reg-e-garm ye farzand-e-Fatema Zahra
 
   5
-  Kisi ke haathoṅ mein khanjar kisi ke haiṅ bhaale
+  Kisi ke haathoṅ meiṅ khanjar kisi ke haiṅ bhaale
   Ye dekho tut pare mujh pe barchiyoṅ wale
   Suno suno ae mere saathiyoṅ mere naale
 
@@ -47,7 +47,7 @@ romanLyrics: |-
   7
   Khabar ye nehr pe jaa kar zara sunaae koi
   Ali ke sher ke shaane zara hilaae koi
-  Main zibh hota huṅ Abbas ko bataae koi
+  Maiṅ zibh hota huṅ Abbas ko bataae koi
 
   8
   Bilak bilak ke bhatiji tumhaari roti hai

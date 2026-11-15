@@ -15,24 +15,24 @@ romanLyrics: |-
   Silsila nur-e-imaamat ka chala ek se ek
 
   1
-  Ek mein bhi na mili bu-e-wafa-e-Abbas
-  Phul to gulshan-e-aalam mein khila ek se ek
+  Ek meiṅ bhi na mili bu-e-wafa-e-Abbas
+  Phul to gulshan-e-aalam meiṅ khila ek se ek
 
   2
   Ek sar de ke gira dusra sar le ke barha
-  Tez yuṅ raah-e-shahaadat mein chala ek se ek
+  Tez yuṅ raah-e-shahaadat meiṅ chala ek se ek
 
   3
   Panjatan paak ne dekha jo iraada Hur ka
   Bakhshwaane lage sab Hur ki khata ek se ek
 
   4
-  Paa-e-Haider pe zara aa ke haram mein dekho
+  Paa-e-Haider pe zara aa ke haram meiṅ dekho
   Sar jhukaae haiṅ zamaane ke khuda ek se ek
 
   5
-  Yuṅ kiya Ibn-e-Mazaahir ne zaifi mein jihaad
-  Ran mein dikhla di jawaani ki ada ek se ek
+  Yuṅ kiya Ibn-e-Mazaahir ne zaifi meiṅ jihaad
+  Ran meiṅ dikhla di jawaani ki ada ek se ek
 
   6
   Laakh haail hue shamshir o sinaaṅ o khanjar
@@ -44,15 +44,15 @@ romanLyrics: |-
 
   8
   Fatema roi Ali roe Muhammad roe
-  Gham-e-Shabbir mein barsi hai ghata ek se ek
+  Gham-e-Shabbir meiṅ barsi hai ghata ek se ek
 
   9
   Koi aaya na Nusairi ke khuda teri tarah
-  Aae Kaabe mein zamaane ke khuda ek se ek
+  Aae Kaabe meiṅ zamaane ke khuda ek se ek
 
   10
-  Zaakir o shaair o saalik hai hami mein Mahir
-  Apne kunbe mein bhi maddaah hua ek se ek
+  Zaakir o shaair o saalik hai hami meiṅ Mahir
+  Apne kunbe meiṅ bhi maddaah hua ek se ek
 # source_id: nohayonline:1fc2176a472a53b42c7c
 # source_url: https://www.nohayonline.com/details_content.php?id=1222
 # raw_sha256: 59a61aa1c31cb5b25237790cdc73799d852d4b67c8bc8d46b8f62ccc88ff2fff

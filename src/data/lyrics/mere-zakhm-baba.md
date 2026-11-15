@@ -24,12 +24,12 @@ romanLyrics: |-
   Lahu se baha khuṅ mera
 
   2
-  Lahu mein jo dubi hui huṅ bahut
-  Main kaaṅtoṅ pe paidal chali huṅ bahut
+  Lahu meiṅ jo dubi hui huṅ bahut
+  Maiṅ kaaṅtoṅ pe paidal chali huṅ bahut
   Laga har qadam taaziyaana
 
   3
-  Musibat mein daadi ki jaisi hui
+  Musibat meiṅ daadi ki jaisi hui
   Meri pasliyaaṅ bhi haiṅ tuti hui
   Charhaaya gaya mujh pe naaqa
 
@@ -50,7 +50,7 @@ romanLyrics: |-
 
   7
   Tamaanchoṅ se behosh jab bhi hui
-  Sar-e-khaak jab munh ke bal main giri
+  Sar-e-khaak jab munh ke bal maiṅ giri
   Tamaanchoṅ se aa kar uthaaya
 
   8

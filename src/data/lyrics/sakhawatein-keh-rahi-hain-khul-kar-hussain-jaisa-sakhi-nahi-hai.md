@@ -12,16 +12,16 @@ aliases: []
 published: true
 romanLyrics: |-
   Sakhaawateṅ keh rahi haiṅ khul kar Husain jaisa sakhi nahiṅ hai
-  Sakhi bahut haiṅ jahaaṅ mein par Husain jaisa sakhi nahiṅ hai
+  Sakhi bahut haiṅ jahaaṅ meiṅ par Husain jaisa sakhi nahiṅ hai
 
   1
   Jo kaar-e-Shabbir ban gaye haiṅ fazilatoṅ ke liye faailat
-  Wo mojizaat-e-mukhairaana sunaauṅga main bashakl-e-midhat
+  Wo mojizaat-e-mukhairaana sunaauṅga maiṅ bashakl-e-midhat
   Zarur tum bhi kaho ge sun kar Husain jaisa sakhi nahiṅ hai
 
   2
   Har ek is baat se hai waaqif wo chaahe munkir ho ya momin
-  Sakhi mukhaiyar Nabi ke ghar mein hai ek se barh ke ek lekin
+  Sakhi mukhaiyar Nabi ke ghar meiṅ hai ek se barh ke ek lekin
   Falak ke niche falak ke upar Husain jaisa sakhi nahiṅ hai
 
   3
@@ -31,7 +31,7 @@ romanLyrics: |-
 
   4
   Husain Maula ne bachpane se sakhaawatoṅ ke hunar dikhaaye
-  Ke baal o par jal chuke thay mere mujhe dobaara par dilaaye
+  Ke baal o par jal chuke the mere mujhe dobaara par dilaaye
   Pukaara Fitrus uraan barh kar Husain jaisa sakhi nahiṅ hai
 
   5
@@ -40,8 +40,8 @@ romanLyrics: |-
   Hai is ka andaaz sab se behtar Husain jaisa sakhi nahiṅ hai
 
   6
-  Jo mustahiq thay unhi ki khaatir tamaam ranj o alam bhula kar
-  Shab-e-khaamoshaaṅ ki tirgi mein ashrafiyaaṅ pusht par utha kar
+  Jo mustahiq the unhi ki khaatir tamaam ranj o alam bhula kar
+  Shab-e-khaamoshaaṅ ki tirgi meiṅ ashrafiyaaṅ pusht par utha kar
   Kare jo imdaad ghar pe jaa kar Husain jaisa sakhi nahiṅ hai
 
   7

@@ -1,6 +1,6 @@
 ---
 title: "چین اکبر کو کہاں بابا بڑی تکلیف ہے"
-alternateTitle: "Baba Badi Takleef"
+alternateTitle: "Baba Bari Taklif"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -21,7 +21,7 @@ romanLyrics: |-
 
   2
   Waqt ye manzar na dikhlaye kisi bhi baap ko
-  Mujh pe kya guzri hai batlaauṅ main kaise aap ko
+  Mujh pe kya guzri hai batlaauṅ maiṅ kaise aap ko
   Larkharaati hai zabaaṅ baba bari taklif hai
 
   3
@@ -30,7 +30,7 @@ romanLyrics: |-
   Dil pe hai baar-e-giraaṅ baba bari taklif hai
 
   4
-  Tashnagi mein zakhm-e-dil ki taab laauṅ kis tarah
+  Tashnagi meiṅ zakhm-e-dil ki taab laauṅ kis tarah
   Ye bataao haath sine se hataauṅ kis tarah
   Dard hota hai yahaaṅ baba bari taklif hai
 
@@ -45,12 +45,12 @@ romanLyrics: |-
   Aa rahi hai hichkiyaaṅ baba bari taklif hai
 
   7
-  Mere qaatil ne mere sine mein barchhi tor di
-  Ab to bas ummid bhi jine ki main ne chhor di
+  Mere qaatil ne mere sine meiṅ barchhi tor di
+  Ab to bas ummid bhi jine ki maiṅ ne chhor di
   Jism se khichti hai jaaṅ baba bari taklif hai
 
   8
-  Nur aankhoṅ ka pisar ke hijr mein jaata raha
+  Nur aankhoṅ ka pisar ke hijr meiṅ jaata raha
   Aamir o Akhtar dil-e-Shabbir tharraata raha
   Sun ke Akbar ka bayaaṅ baba bari taklif hai
 # source_id: nohayonline:7f1063c886cb6ddc4ed0

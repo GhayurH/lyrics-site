@@ -15,7 +15,7 @@ romanLyrics: |-
   Sadiyoṅ se rulaata hai Abbas alam tera
 
   1
-  Is daur-e-pur khatar mein is daur-e-beamaan mein
+  Is daur-e-pur khatar meiṅ is daur-e-beamaan meiṅ
   Bas ek aasra hai sarkaar-e-haram tera
 
   2
@@ -36,19 +36,19 @@ romanLyrics: |-
 
   6
   Shah kehte the ae bhai tuti hai kamar meri
-  Bardaasht karuṅ kaise ghurbat mein alam tera
+  Bardaasht karuṅ kaise ghurbat meiṅ alam tera
 
   7
   Kin sadmoṅ se guzra hai tu jis se mere Ghazi
-  Alfaaz nahiṅ jin mein ho dard raqam tera
+  Alfaaz nahiṅ jin meiṅ ho dard raqam tera
 
   8
-  Tanhaai-e-Sarwar ka tha haal ajab ran mein
+  Tanhaai-e-Sarwar ka tha haal ajab ran meiṅ
   Lipte huwe laashe se karte rahe gham tera
 
   9
   Jis naam ka bharti hai dam ab bhi wafa Arif
-  Be tok kahe Taha Abbas wo dam tera
+  Betok kahe Taha Abbas wo dam tera
 # source_id: nohayonline:76cf9f0f8159b8d3c8ba
 # source_url: https://www.nohayonline.com/details_content.php?id=1329
 # raw_sha256: 1fd5a15115b3571a2c2c31149e500b28755438b5777c4ab9bccbed039d7e1bb8

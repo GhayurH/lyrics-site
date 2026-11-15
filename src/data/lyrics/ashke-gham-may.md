@@ -1,6 +1,6 @@
 ---
 title: "اشکِ غم میں ہیں نہاں کرب کے منظر کتنے"
-alternateTitle: "Ashk-e-Gham Mein"
+alternateTitle: "Ashk-e-Gham Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,8 +10,8 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ashk-e-gham mein haiṅ nihaaṅ karb ke manzar kitne
-  Chand qatroṅ mein simat aaye samandar kitne
+  Ashk-e-gham meiṅ haiṅ nihaaṅ karb ke manzar kitne
+  Chand qatroṅ meiṅ simat aaye samandar kitne
 
   1
   Jaanisaraan-e-Husaini haiṅ parakh le dunya
@@ -30,7 +30,7 @@ romanLyrics: |-
   Lut gaye kitne makiṅ khaak hue ghar kitne
 
   5
-  Ik aalam hai ke rota hai gham-e-Sarwar mein
+  Ik aalam hai ke rota hai gham-e-Sarwar meiṅ
   Bandh baandhe jigar aap to ghar ghar kitne
 # source_id: nohayonline:ef191d43c24e813baaca
 # source_url: https://www.nohayonline.com/details_content.php?id=749

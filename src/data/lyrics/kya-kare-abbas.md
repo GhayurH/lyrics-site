@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Sawaal-e-hurmat-e-Kaaba hai kya kare Abbas
-  Behen hujum mein tanha hai kya kare Abbas
+  Behen hujum meiṅ tanha hai kya kare Abbas
 
   1
   Ye ghairatoṅ ke liye ek sawaal hai ke nahiṅ
@@ -20,9 +20,9 @@ romanLyrics: |-
   Asir-e-Zainab-e-Kubra hai kya kare Abbas
 
   2
-  Bharosa jin pe tha tukroṅ mein ab wo bat bhi chuke
+  Bharosa jin pe tha tukroṅ meiṅ ab wo bat bhi chuke
   Jo the rida ke muhaafiz wo haath kat bhi chuke
-  Nigaah mein koi waada hai kya kare Abbas
+  Nigaah meiṅ koi waada hai kya kare Abbas
 
   3
   Waraq waraq hai badan aur qalam qalam shaane
@@ -50,7 +50,7 @@ romanLyrics: |-
   Ye zakhm to abhi taaza hai kya kare Abbas
 
   8
-  Ajib hashr hai aaṅkhoṅ mein Aamir o Nayyar
+  Ajib hashr hai aaṅkhoṅ meiṅ Aamir o Nayyar
   Rula raha hai lahu dil ko Shaam ka manzar
   Laboṅ pe ek hi nauha hai kya kare Abbas
 # source_id: nohayonline:3e6deca25edbd3e52de0

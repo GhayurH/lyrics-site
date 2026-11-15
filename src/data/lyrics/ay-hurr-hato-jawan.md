@@ -17,10 +17,10 @@ romanLyrics: |-
   Kaandhe pe rakh ke haath ye Shabbir ne kaha
 
   Ae Hurr hato jawaan ka laasha na uthaao
-  Hum le ke laash aate haiṅ tum khaime mein jaao
+  Hum le ke laash aate haiṅ tum khaime meiṅ jaao
 
   1
-  Andher ye kya dasht mein tum karte ho bhai
+  Andher ye kya dasht meiṅ tum karte ho bhai
   Kab kis ne jawaaṅ bete ki mayyat hai uthaai
   Bas pyaar karo bete ko sine se lagaao
 
@@ -47,10 +47,10 @@ romanLyrics: |-
   6
   Laasha jawaan bete ka kaise uthaaoge
   Mujhko khabar hai der talak ji na paaoge
-  Maqtal mein khare ho ke na yuṅ ashk bahaao
+  Maqtal meiṅ khare ho ke na yuṅ ashk bahaao
 
   7
-  Maqtal ka kuch hi der mein manzar badal gaya
+  Maqtal ka kuch hi der meiṅ manzar badal gaya
   Ek baap phir jawaan ke laashe pe hai khara
   Aur bebasi ye kehti rahi ashk bahaao
 
@@ -60,7 +60,7 @@ romanLyrics: |-
   Ae Shah-e-Najaf Shah ki madad karne ko aao
 
   9
-  Ainee kaleja dekhne waaloṅ ka phat gaya
+  Aini kaleja dekhne waaloṅ ka phat gaya
   Aamir zaif baap ne laasha uthaa liya
   Kehta raha jo Hurr se ke na laash uthaao
 # source_id: nohayonline:51ffa5f3293d02a0a4a7

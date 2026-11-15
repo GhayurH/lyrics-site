@@ -14,10 +14,10 @@ romanLyrics: |-
   Husain Husain Maula
 
   Zainab ka hai armaan Husain ka maatam
-  Chaudah sau baras se hai dunya mein qaayam
+  Chaudah sau baras se hai dunya meiṅ qaayam
 
   1
-  Sajde mein sar kataaya Islam ko bachaaya
+  Sajde meiṅ sar kataaya Islam ko bachaaya
   Shabbir ne jaaṅ de ke waade ko hai nibhaaya
 
   2
@@ -33,16 +33,16 @@ romanLyrics: |-
   Saadaat ke khaimoṅ ko aada ne jalaaya hai
 
   5
-  Har saal Muharram mein ik sog ke aalam mein
-  Masruf zamaana hai mazlum ke maatam mein
+  Har saal Muharram meiṅ ik sog ke aalam meiṅ
+  Masruf zamaana hai mazlum ke maatam meiṅ
 
   6
-  Aashur zamaane mein paighaam ye laata hai
+  Aashur zamaane meiṅ paighaam ye laata hai
   Shabbir ki ghurbat par jo ashk bahaata hai
 
   7
-  Zindaaṅ ke andhere mein ghurbat ke sawere mein
-  Dafnaaya Sakina ko Aabid ne jo kurte mein
+  Zindaaṅ ke andhere meiṅ ghurbat ke sawere meiṅ
+  Dafnaaya Sakina ko Aabid ne jo kurte meiṅ
 
   8
   Rehaan o Shanawar ne Sarwar ne Ali Ji ne

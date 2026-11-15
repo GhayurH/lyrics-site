@@ -1,6 +1,6 @@
 ---
 title: "باقی رہا ہے کون جہاں میں فنا کے بعد"
-alternateTitle: "Jahan May Fana Ke"
+alternateTitle: "Jahaṅ May Fana Ke"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,7 +10,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Baaqi raha hai kaun jahaaṅ mein fana ke baad
+  Baaqi raha hai kaun jahaaṅ meiṅ fana ke baad
   Zinda magar Husain hai qatl-e-jafa ke baad
 
   1

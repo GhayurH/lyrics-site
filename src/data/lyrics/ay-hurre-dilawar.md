@@ -17,9 +17,9 @@ romanLyrics: |-
   Ae Hurr-e-Dilaawar ae Hurr-e-Dilaawar
 
   1
-  Maidaan mein aa kar sar-e-Hurr zaanu pe rakha
+  Maidaan meiṅ aa kar sar-e-Hurr zaanu pe rakha
   Aur kehte the Aaqa
-  Leta hai ajab haal mein khaaye hue khanjar
+  Leta hai ajab haal meiṅ khaaye hue khanjar
   Ae Hurr-e-Dilaawar ae Hurr-e-Dilaawar
 
   2
@@ -31,7 +31,7 @@ romanLyrics: |-
   3
   Ehsaan tera ye hai ke tu haq pe hai aaya
   Jaaṅ apni ganwaaya
-  Is ki to jaza khuld mein deiṅ gi meri maadar
+  Is ki to jaza khuld meiṅ deiṅ gi meri maadar
   Ae Hurr-e-Dilaawar ae Hurr-e-Dilaawar
 
   4

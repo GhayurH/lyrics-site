@@ -15,7 +15,7 @@ romanLyrics: |-
   Aabid ka dil dukhoṅ se bhar aaya to ro diye
 
   1
-  Paaoṅ mein aable haiṅ chale aur thahar gaye
+  Paaoṅ meiṅ aable haiṅ chale aur thahar gaye
   Rauza-e-Rasul ka nazar aaya to ro diye
 
   2

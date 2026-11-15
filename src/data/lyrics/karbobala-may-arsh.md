@@ -1,6 +1,6 @@
 ---
 title: "کربوبلا میں عرش کے تارے بکھر گئے"
-alternateTitle: "Karb o Bala Mein Arsh"
+alternateTitle: "Karb o Bala Meiṅ Arsh"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,8 +11,8 @@ tags: []
 aliases: ["Karbobala May Arsh"]
 published: true
 romanLyrics: |-
-  Karb o Bala mein arsh ke taare bikhar gaye
-  Maqtal mein bhuk o pyaas ke maare bikhar gaye
+  Karb o Bala meiṅ arsh ke taare bikhar gaye
+  Maqtal meiṅ bhuk o pyaas ke maare bikhar gaye
 
   1
   Shiddat thi aaftaab ki ya roz-e-qatl-e-Shaah
@@ -23,12 +23,12 @@ romanLyrics: |-
   Maaṅ ne hazaar baar sanwaare bikhar gaye
 
   3
-  Darya pe bhaai dasht mein farzand ran mein do
+  Darya pe bhaai dasht meiṅ farzand ran meiṅ do
   Mazlum ke tamaam sahaare bikhar gaye
 
   4
   Rudaad-e-tir keh na saka muṅh se bezabaaṅ
-  Maasum ke fiza mein ishaare bikhar gaye
+  Maasum ke fiza meiṅ ishaare bikhar gaye
 
   5
   Daura diye faras jo lainoṅ ne laash par
@@ -43,7 +43,7 @@ romanLyrics: |-
   Jo nahr-e-Alqama ke kinaare bikhar gaye
 
   8
-  Zehra uthaane aayi hai majlis mein ae Uruj
+  Zehra uthaane aayi hai majlis meiṅ ae Uruj
   Gauhar jo aansuoṅ ke hamaare bikhar gaye
 # source_id: nohayonline:f6b37cc4a6c42e52a747
 # source_url: https://www.nohayonline.com/details_content.php?id=1668

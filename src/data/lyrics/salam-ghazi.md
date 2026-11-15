@@ -38,8 +38,8 @@ romanLyrics: |-
 
   4
   Tu bawafa hai tu la fata hai
-  Be aasroṅ ka tu aasra hai
-  Jahaaṅ mein charcha hai aam Ghaazi
+  Beaasroṅ ka tu aasra hai
+  Jahaaṅ meiṅ charcha hai aam Ghaazi
   Wafa ka tu hai imaam Ghaazi
 
   5
@@ -56,7 +56,7 @@ romanLyrics: |-
 
   7
   Ghulaam sharminda hai ye Maula
-  Na laasha khaimoṅ mein le ke jaana
+  Na laasha khaimoṅ meiṅ le ke jaana
   Tha lab pe tere kalaam Ghaazi
   Wafa ka tu hai imaam Ghaazi
 

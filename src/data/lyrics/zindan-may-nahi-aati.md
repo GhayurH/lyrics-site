@@ -11,11 +11,11 @@ tags: []
 aliases: ["Zindan May Nahi Aati"]
 published: true
 romanLyrics: |-
-  Zindaaṅ mein nahiṅ aati kiuṅ taaza hawa bhaiya
+  Zindaaṅ meiṅ nahiṅ aati kiuṅ taaza hawa bhaiya
   Sajjad Sakina ko marne se bacha bhaiya
 
   1
-  Diwaaroṅ se zindaaṅ ki takra ke main girti huṅ
+  Diwaaroṅ se zindaaṅ ki takra ke maiṅ girti huṅ
   Phir der talak bhaiya tanha hi sisakti huṅ
   Aa ret ke bistar se behna ko utha bhaiya
 
@@ -25,9 +25,9 @@ romanLyrics: |-
   Ik baar Sakina ko tu paas bula bhaiya
 
   3
-  Jis ne mujhe maara tha woh khwaab mein aata hai
-  Main so bhi nahiṅ sakti kuchh aise daraata hai
-  Sajjad mujhe de do baaṅhoṅ mein panaah bhaiya
+  Jis ne mujhe maara tha woh khwaab meiṅ aata hai
+  Maiṅ so bhi nahiṅ sakti kuchh aise daraata hai
+  Sajjad mujhe de do baaṅhoṅ meiṅ panaah bhaiya
 
   4
   Karti hai behen waada baba ko na roye gi
@@ -35,18 +35,18 @@ romanLyrics: |-
   In ghor andheroṅ se karwa de riha bhaiya
 
   5
-  Jiti thi imamat ke main paak saveroṅ mein
-  Ab meri guzarti hai zindaan ke andheroṅ mein
-  Is waqt bhi rassi mein hai mera gala bhaiya
+  Jiti thi imamat ke maiṅ paak saveroṅ meiṅ
+  Ab meri guzarti hai zindaan ke andheroṅ meiṅ
+  Is waqt bhi rassi meiṅ hai mera gala bhaiya
 
   6
-  Behlaate the sab mujh ko jis waqt main roti thi
-  Hai saari khabar tujh ko jis ja pe main soti thi
+  Behlaate the sab mujh ko jis waqt maiṅ roti thi
+  Hai saari khabar tujh ko jis ja pe maiṅ soti thi
   Aa dekh Sakina ka kya haal hua bhaiya
 
   7
-  Sajjad mere gham mein jo ashk bahaaye ga
-  Jo halqa-e-maatam mein sar pitta aaye ga
+  Sajjad mere gham meiṅ jo ashk bahaaye ga
+  Jo halqa-e-maatam meiṅ sar pitta aaye ga
   Tauqir dilaauṅ gi hai waada mera bhaiya
 # source_id: nohayonline:21b3efc9848eeafed841
 # source_url: https://www.nohayonline.com/details_content.php?id=698

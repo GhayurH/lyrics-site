@@ -67,7 +67,7 @@ romanLyrics: |-
 
   8
   Waaiz us maadar ka din kiuṅ tukroṅ meiṅ na bat jaaye
-  Jis ke shehzaadoṅ ka sar be jurm o khata hi kat jaaye
+  Jis ke shehzaadoṅ ka sar bejurm o khata hi kat jaaye
   Jis ke donoṅ bachche maare jaaye pyaase
   Aur bachchoṅ ka laasha dukhiya maaṅ na dekhe
   Kiuṅ na nikle us dukhiya ke dil se sadaayeṅ reh reh kar

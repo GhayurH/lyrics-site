@@ -19,14 +19,14 @@ romanLyrics: |-
   1
   Har aane waale ko bachche
   Takte haiṅ nigaah-e-tishna se
-  Is dard mein dube manzar se
+  Is dard meiṅ dube manzar se
   Darya bhi paani paani hai
 
   2
-  Haathoṅ pe pidar ke maidaaṅ mein
+  Haathoṅ pe pidar ke maidaaṅ meiṅ
   Islaam bachaane jaauṅ ga
   Haidar ke ye nanhe pote ne
-  Kya baat ye dil mein thaani hai
+  Kya baat ye dil meiṅ thaani hai
 
   3
   Maasum ishaaroṅ ke hamle
@@ -37,7 +37,7 @@ romanLyrics: |-
   4
   Ek laasha-e-besar se lipti
   Maasum Sakina roti hai
-  Khushbu-e-pidar se maqtal mein
+  Khushbu-e-pidar se maqtal meiṅ
   Is laash ko wo pehchani hai
 
   5

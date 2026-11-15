@@ -12,11 +12,11 @@ aliases: ["Ay Alqama Ki Maujon"]
 published: true
 romanLyrics: |-
   Ae Alqama ki maujoṅ khaamosh kiuṅ ho bolo
-  Kya raaz-e-tashnagi tha kuch to zubaan kholo
+  Kya raaz-e-tashnagi tha kuch to zubaaṅ kholo
 
   1
-  Ghazi ke gham mein bachche ro ro ke so chuke haiṅ
-  Aankhoṅ mein meri aansu sab khushk ho chuke haiṅ
+  Ghazi ke gham meiṅ bachche ro ro ke so chuke haiṅ
+  Aankhoṅ meiṅ meri aansu sab khushk ho chuke haiṅ
   Abbas ke alam se tum hi lipat ke ro lo
 
   2
@@ -31,7 +31,7 @@ romanLyrics: |-
 
   4
   Do nim ho gayi hai gham se kamar hamaari
-  Kehte the Shaah-e-waala Ghazi main tujh pe waari
+  Kehte the Shaah-e-waala Ghazi maiṅ tujh pe waari
   Hasrat hai ye hamaari ek baar bhai keh do
 
   5
@@ -41,13 +41,13 @@ romanLyrics: |-
 
   6
   Har su bapa hai maatam har dil tarap raha hai
-  Ek sher Alqama ki godi mein so raha hai
+  Ek sher Alqama ki godi meiṅ so raha hai
   Soya hua hai thak kar aahistigi se bolo
 
   7
   Kehta tha Fazl ro kar ae mere baaba jaan
   Rehne na duṅga laasha aada ke darmiyaaṅ
-  Main aa raha huṅ baaba lillaah tum na roko
+  Maiṅ aa raha huṅ baaba lillaah tum na roko
 
   8
   Ghazi ke baad Shah ke bachchoṅ ka haal kya tha

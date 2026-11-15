@@ -11,10 +11,10 @@ aliases: []
 published: true
 romanLyrics: |-
   Kehti hai khud amaariyaaṅ taqrir ke baghair
-  Zainab watan mein aayi hai Shabbir ke baghair
+  Zainab watan meiṅ aayi hai Shabbir ke baghair
 
   1
-  Asghar ke intezaar mein Sughra ko kya khabar
+  Asghar ke intezaar meiṅ Sughra ko kya khabar
   Maaṅ Karbala se aayi hai beshir ke baghair
 
   2
@@ -26,8 +26,8 @@ romanLyrics: |-
   Khatre kitaab-e-daur hai tahrir ke baghair
 
   4
-  Nana utha janaaza meri maaṅ ka raat mein
-  Balwe mein thi main chaadar o tauqir ke baghair
+  Nana utha janaaza meri maaṅ ka raat meiṅ
+  Balwe meiṅ thi maiṅ chaadar o tauqir ke baghair
 
   5
   Abid tha is tarah thi musalsal ye beriyaaṅ

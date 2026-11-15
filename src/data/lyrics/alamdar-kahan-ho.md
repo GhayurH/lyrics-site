@@ -1,6 +1,6 @@
 ---
 title: "علمدار کہاں ہو"
-alternateTitle: "Alamdar Kahan Ho"
+alternateTitle: "Alamdar Kahaṅ Ho"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -18,12 +18,12 @@ romanLyrics: |-
   1
   Ashur gaya aai hai ab gyarah Muharram
   Naaqe pe rasan basta su-e-Shaam chale hum
-  Hai Aal-e-Nabi gham mein giraftaar kahaṅ ho
+  Hai Aal-e-Nabi gham meiṅ giraftaar kahaṅ ho
 
   2
-  Jab ghar se chali tum ne amaari mein bithaaya
+  Jab ghar se chali tum ne amaari meiṅ bithaaya
   Baazaar karo band ye elaan karaaya
-  Main jaati huṅ ab Shaam ke baazaar kahaṅ ho
+  Maiṅ jaati huṅ ab Shaam ke baazaar kahaṅ ho
 
   3
   Maalum hai tujh ko ye bara sakht safar hai
@@ -42,7 +42,7 @@ romanLyrics: |-
 
   6
   Khaamosh haiṅ sab haakim-e-badkaar ke dar se
-  Gustaakhi lain karta hai Shabbir ke sar se
+  Gustaakhi laiṅ karta hai Shabbir ke sar se
   Ae baazu-e-Shabbir wafaadaar kahaṅ ho
 
   7

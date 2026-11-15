@@ -16,12 +16,12 @@ romanLyrics: |-
 
   1
   Hamshakl-e-Ahmad tha haaye karyal jawaaṅ Ali Akbar
-  Maqtal mein jaa kar hai soya sine pe barchhi ko khaa kar
+  Maqtal meiṅ jaa kar hai soya sine pe barchhi ko khaa kar
   Laila ke nur-e-nazar ka maatam karo azaadaaroṅ
 
   2
   Ghoroṅ ki taapoṅ se jis ki paamaal ki laash haaye
-  Jis ke janaaze ko Maula chun chun ke ghatri mein laaye
+  Jis ke janaaze ko Maula chun chun ke ghatri meiṅ laaye
   Maula Hasan ke pisar ka maatam karo azaadaaroṅ
 
   3
@@ -35,7 +35,7 @@ romanLyrics: |-
   Ummul Banin ke qamar ka maatam karo azaadaaroṅ
 
   5
-  Pairoṅ mein chhaale the jis se Aabid ka chalna tha dubhar
+  Pairoṅ meiṅ chhaale the jis se Aabid ka chalna tha dubhar
   Maare gaye taaziyaane bimaar baitha jo thak kar
   Kaantoṅ bhare us safar ka maatam karo azaadaaroṅ
 

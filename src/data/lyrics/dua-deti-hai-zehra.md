@@ -15,16 +15,16 @@ romanLyrics: |-
   Shabbir pe rone ka sila deti haiṅ Zehra
 
   1
-  Har saal tabarruk mein kami yuṅ nahiṅ hoti
-  Majlis mein mira haath banta deti haiṅ Zehra
+  Har saal tabarruk meiṅ kami yuṅ nahiṅ hoti
+  Majlis meiṅ mira haath banta deti haiṅ Zehra
 
   2
-  Main raushni karta huṅ azaakhaanoṅ mein jaa kar
+  Maiṅ raushni karta huṅ azaakhaanoṅ meiṅ jaa kar
   Turbat pe diya maaṅ ki jala deti haiṅ Zehra
 
   3
-  Phailaate haiṅ jo haath tabarruk ki safoṅ mein
-  Un logoṅ ko hisse mein ana deti haiṅ Zehra
+  Phailaate haiṅ jo haath tabarruk ki safoṅ meiṅ
+  Un logoṅ ko hisse meiṅ ana deti haiṅ Zehra
 
   4
   Aashur ko jab tak na uthe taaziya Shah ka
@@ -32,7 +32,7 @@ romanLyrics: |-
 
   5
   Kuchh hota nahiṅ is liye zanjirzanoṅ ko
-  Sajjad ke sadqe mein shifa deti haiṅ Zehra
+  Sajjad ke sadqe meiṅ shifa deti haiṅ Zehra
 
   6
   Rumaal jo tar hota hai ashkoṅ se hamaare

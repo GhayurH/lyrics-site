@@ -20,7 +20,7 @@ romanLyrics: |-
 
   2
   Qibla rukh maula ne rakh kar shukr ka sajda kiya
-  Khun mein duba laasha-e-Akbar nazar ke saamne
+  Khun meiṅ duba laasha-e-Akbar nazar ke saamne
 
   3
   Bole Sarwar kya tumhaari maaṅ ko ab duṅ ga jawaab
@@ -44,7 +44,7 @@ romanLyrics: |-
 
   8
   Karbala waloṅ pe jo guzri hai Anwar wo likha
-  Tha tasavvur mein har ek manzar nazar ke saamne
+  Tha tasavvur meiṅ har ek manzar nazar ke saamne
 # source_id: nohayonline:1119684f555048add1e4
 # source_url: https://www.nohayonline.com/details_content.php?id=1261
 # raw_sha256: d59ac4076f0e620c2a0b8d46531dafa51c530481991f4b2aedcc07d302883a05

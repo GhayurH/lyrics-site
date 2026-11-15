@@ -24,10 +24,10 @@ romanLyrics: |-
   Wajhullah Ali Rab ki hai pehchaan Ali
   Hai Lisaanullah Ali naatiq-e-Quran Ali
   Ae mere murshid o aaqa mere imaan Ali
-  Barzakh o qabr mein mahshar mein nigehbaan Ali
+  Barzakh o qabr meiṅ mahshar meiṅ nigehbaan Ali
   Dur qadmoṅ se na rakhna mujhe ek aan Ali
   Tujh se jur jaauṅ ga Maula to sanwar jaauṅ ga
-  Main tere ishq mein duba to ubhar jaauṅ ga
+  Maiṅ tere ishq meiṅ duba to ubhar jaauṅ ga
 
   2
   Mere sarkaar Husain Ibn-e-Ali ke baaba
@@ -43,11 +43,11 @@ romanLyrics: |-
   Ibn-e-Marjaaṅ ho ya Muljim ho ya Shimr-e-Jaushan
   Arsh aur farsh pe dozakh ka yahi hai indhan
   Lab-e-Quran se in logoṅ pe laanat utri
-  In ki nasloṅ mein Ali se na mohabbat utri
+  In ki nasloṅ meiṅ Ali se na mohabbat utri
   Laanatullah ala adaaika ya Ali
 
   4
-  Aalam-e-ishq mein yakta hai muhibbaan-e-Ali
+  Aalam-e-ishq meiṅ yakta hai muhibbaan-e-Ali
   Buzar o Qambar o Salmaan gadaayaan-e-Ali
   Dostdaaraan-e-Khuda saare rafiqaan-e-Ali
   Had to ye hai ke Khuda khud hai sanaakhwaan-e-Ali
@@ -78,7 +78,7 @@ romanLyrics: |-
   Ishq kya ishq tha maabain-e-Khuda o banda
   Tohfa-e-maut jo maashuq se aashiq ko mila
   Kaamyaabi ka ye andaaz niraala dekha
-  Barh ke aashiq ne kaha fuzto be Rabbil Kaaba
+  Barh ke aashiq ne kaha fuzto berabbil Kaaba
 # source_id: nohayonline:c044e8b54c30bf4dc01a
 # source_url: https://www.nohayonline.com/details_content.php?id=419
 # raw_sha256: f359b06cd5ecaf7bdfa21191a3765697315be535bf804921549e25dfeea7f8fc

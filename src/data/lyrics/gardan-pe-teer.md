@@ -24,10 +24,10 @@ romanLyrics: |-
 
   1
   Jab se gaye ho beta
-  Maaṅ dhup mein hai baithi
-  Tum bhi to dhup mein ho
-  Ye baat main na bhuli
-  Ae qabr mein padar ke
+  Maaṅ dhup meiṅ hai baithi
+  Tum bhi to dhup meiṅ ho
+  Ye baat maiṅ na bhuli
+  Ae qabr meiṅ padar ke
   Sine pe sone wale
   Maaṅ ko bhi ab bula le
 
@@ -43,7 +43,7 @@ romanLyrics: |-
   3
   Sukha hua gala tha
   Roti rahi taraai
-  Afsos hai main tujh ko
+  Afsos hai maiṅ tujh ko
   Paani pila na paayi
   Kausar pe maaṅ pahuṅch kar
   Paani tujhe pila le
@@ -55,22 +55,22 @@ romanLyrics: |-
   Bin tere mera ghar bhi
   Sunsaan ho gaya hai
   Baaqi nahiṅ hai meri
-  Dunya mein ab ujaale
+  Dunya meiṅ ab ujaale
   Maaṅ ko bhi ab bula le
 
   5
   Karbobala se lut kar
-  Jab Shaam mein chali thi
+  Jab Shaam meiṅ chali thi
   Naize pe tere sar ko
-  Main dekh kar pukaari
+  Maiṅ dekh kar pukaari
   Mushkil se tujh ko Asghar
   Maaṅ kis tarah nikaale
   Maaṅ ko bhi ab bula le
 
   6
-  Pardes mein tumhare
+  Pardes meiṅ tumhare
   Laashe pe ro chuki huṅ
-  Zindaaṅ mein apni pyaasi
+  Zindaaṅ meiṅ apni pyaasi
   Beti bhi kho chuki huṅ
   Koi nahiṅ hai kis ko
   Umm-e-Rubaab paale
@@ -79,7 +79,7 @@ romanLyrics: |-
   7
   Zishaan o Shadmaaṅ wo
   Maaṅ dhup se jo uthi
-  Chhaaoṅ mein ek paaoṅ
+  Chhaaoṅ meiṅ ek paaoṅ
   Rakhte hi jaaṅ nikli
   Awaaz phir na aayi
   Ae chhe mahine wale

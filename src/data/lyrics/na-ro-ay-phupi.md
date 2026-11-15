@@ -25,7 +25,7 @@ romanLyrics: |-
   Ujar gaye hum haae na ro
 
   2
-  Gunji sada maqtal mein sharminda hai
+  Gunji sada maqtal meiṅ sharminda hai
   Teri rida ka zaamin tha jo haae
   Darya se laut na paaya
   Do baazu Shaah jo laae
@@ -46,15 +46,15 @@ romanLyrics: |-
   Ujar gaye hum haae na ro
 
   5
-  Andhiyaare mein ik maaṅ laash ke tukre
+  Andhiyaare meiṅ ik maaṅ laash ke tukre
   Dekh ke kahti thi ae maalik haae
   Dulha paamaal hua hai
   Dulhan ko kya samjhaae
   Ujar gaye hum haae na ro
 
   6
-  Dukhiya maaṅ maqtal mein kis se puchhe
-  Dhundte haiṅ kya zaalim ran mein haae
+  Dukhiya maaṅ maqtal meiṅ kis se puchhe
+  Dhundte haiṅ kya zaalim ran meiṅ haae
   Mera bachcha nahr hua hai
   Phir zibh na ho jaae
   Ujar gaye hum haae na ro

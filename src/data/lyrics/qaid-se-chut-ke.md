@@ -19,8 +19,8 @@ romanLyrics: |-
   Sadme dil par uthaai hai Zainab
 
   1
-  Main huṅ Zainab falak sataai huṅ
-  Tum se milne yahaaṅ main aai huṅ
+  Maiṅ huṅ Zainab falak sataai huṅ
+  Tum se milne yahaaṅ maiṅ aai huṅ
   Aur lute qaafile ko laai huṅ
   Bhai kya kya sitam uthaai huṅ
   Shaam tak nange sar gayi Zainab
@@ -31,20 +31,20 @@ romanLyrics: |-
   Tukre sadmoṅ se hai jigar bhai
   Ho gaya hai safed sar bhai
   Jhuk gayi hai meri kamar bhai
-  Waada pura main kar ke aai huṅ
+  Waada pura maiṅ kar ke aai huṅ
   Pusht par taaziyaane khaai huṅ
 
   3
   Saare kunbe ko saath laai thi
   Mehnatoṅ se ye ghar basaai thi
-  Main ne daulat ye maaṅ se paai thi
+  Maiṅ ne daulat ye maaṅ se paai thi
   Ho gayi dafn jo kamaai thi
   Ab ho kiuṅ kar meri basar bhai
   Haae kis muṅh se jaauṅ ghar bhai
 
   4
-  Thi muqaddar mein meri ruswaai
-  Kiuṅ na darbaar hi mein maut aai
+  Thi muqaddar meiṅ meri ruswaai
+  Kiuṅ na darbaar hi meiṅ maut aai
   Pesh-e-haakim gayi ye dukh paai
   Ghussa aaya tha pi gayi bhai
   Jo hue zulm sah gayi Zainab
@@ -52,11 +52,11 @@ romanLyrics: |-
 
   5
   Kya bataauṅ jo guzre ranj o mihan
-  Baazuoṅ mein mere bandhi thi rasan
+  Baazuoṅ meiṅ mere bandhi thi rasan
   The tamaashaai saare mard o zan
-  Lut gayi lut gayi main Shah-e-Zaman
-  Phiri baazaar-e-Shaam mein Zainab
-  Gayi darbaar-e-aam mein Zainab
+  Lut gayi lut gayi maiṅ Shah-e-Zaman
+  Phiri baazaar-e-Shaam meiṅ Zainab
+  Gayi darbaar-e-aam meiṅ Zainab
 
   6
   Jab kiya ham ko daakhil-e-zindaaṅ
@@ -64,12 +64,12 @@ romanLyrics: |-
   Ro ke kahti thi ye Sakina jaaṅ
   Yaaṅ se le kar chalo phuphi ammaaṅ
   Mujh se bardaasht ho nahiṅ sakti
-  Main andhere mein so nahiṅ sakti
+  Maiṅ andhere meiṅ so nahiṅ sakti
 
   7
   Maarte the tamaanche baani-e-shar
   Kaan se us ke chhin kar gauhar
-  Ho gaya tha lahu mein kurta tar
+  Ho gaya tha lahu meiṅ kurta tar
   Kya kahuṅ ab ke phat raha hai jigar
   Shimr ki khaa ke sailiyaaṅ bhai
   Mar gayi teri nim jaaṅ bhai

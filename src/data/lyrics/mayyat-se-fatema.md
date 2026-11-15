@@ -24,7 +24,7 @@ romanLyrics: |-
 
   2
   Ek baar mujh ko haathoṅ se khaana khilaa do maaṅ
-  Main huṅ Husain mujh ko to sine lagaao maaṅ
+  Maiṅ huṅ Husain mujh ko to sine lagaao maaṅ
   Kuchh bolti nahiṅ hai tarapte rahe Husain
 
   3
@@ -38,13 +38,13 @@ romanLyrics: |-
   Aansu bahaa ke bain ye karte rahe Husain
 
   5
-  Bin maaṅ ke zindagi mein andhera hai chhaa gaya
+  Bin maaṅ ke zindagi meiṅ andhera hai chhaa gaya
   Ye zist se hamaari ujaaloṅ ko khaa gaya
   Ro ro ke haal dil ka sunaate rahe Husain
 
   6
   Tum ko Khuda ka waasta deta hai mera dil
-  Tum ko kafan mein dekh ke phatta hai mera dil
+  Tum ko kafan meiṅ dekh ke phatta hai mera dil
   Aankhoṅ ko kholo maaṅ se kehte rahe Husain
 
   7

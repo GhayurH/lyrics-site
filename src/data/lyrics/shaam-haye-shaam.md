@@ -12,18 +12,18 @@ published: true
 romanLyrics: |-
   Shaam haye shaam
   Teri ummat ke zevar pehan ke
-  Dekho nana chali huṅ main Shaam
+  Dekho nana chali huṅ maiṅ Shaam
 
   1
-  Main deti kafan tujh ko bhaiya
+  Maiṅ deti kafan tujh ko bhaiya
   Gar sar pe rida meri hoti
   Gar hote khule haath mere
   Tere zakhmoṅ ko haathoṅ se dhoti
   Paaband-e-rasan sar barehna
-  Dekho bhaiya chali huṅ main Shaam
+  Dekho bhaiya chali huṅ maiṅ Shaam
 
   2
-  Ae nana main kaise sunaauṅ
+  Ae nana maiṅ kaise sunaauṅ
   Darbaar-e-shaqi ka wo manzar
   Sab qaari o haafiz the baithe
   Aur sar pe mere na thi chaadar
@@ -33,25 +33,25 @@ romanLyrics: |-
   3
   Tere Aabid pe taari ghashi thi
   Aur Kulsum sehmi khari thi
-  Kabhi dekhuṅ main zakhmi Sakina
-  Jis ke daaman mein aag lagi thi
-  Kabhi rouṅ main apni rida ko
-  Kabhi dekhuṅ main jalte khiyaam
+  Kabhi dekhuṅ maiṅ zakhmi Sakina
+  Jis ke daaman meiṅ aag lagi thi
+  Kabhi rouṅ maiṅ apni rida ko
+  Kabhi dekhuṅ maiṅ jalte khiyaam
 
   4
-  Tere bachchoṅ ko le kar gayi main
+  Tere bachchoṅ ko le kar gayi maiṅ
   Shab bhar saari roti rahi huṅ
   Kabhi Ghazi ka lehja badal ke
-  Main pehre bhi deti rahi huṅ
+  Maiṅ pehre bhi deti rahi huṅ
   In bewa bahu betiyoṅ se
   Kiuṅ karte nahiṅ ho kalaam
 
   5
   Jab roti thi baali Sakina
   Aur baba ko apne bulaati
-  Main deti thi us ko tasalli
+  Maiṅ deti thi us ko tasalli
   Aur sine pe apne sulaati
-  Ruthi zindaan mein maasum bachchi
+  Ruthi zindaan meiṅ maasum bachchi
   Le le ke wo baba ka naam
 # source_id: nohayonline:418a9030114db6f80c46
 # source_url: https://www.nohayonline.com/details_content.php?id=605

@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Laash-e-Shabbir par jo giraaye gaye
-  Main wo patthar huṅ kab se sambhaale hue
+  Maiṅ wo patthar huṅ kab se sambhaale hue
   De inhiṅ pattharoṅ se tu un ko saza
 
   2
@@ -40,14 +40,14 @@ romanLyrics: |-
   Haath uthaye bina de raha hai sada
 
   6
-  Saath khaimoṅ ke har ek shay jal gayi
+  Saath khaimoṅ ke har ek she jal gayi
   Zulm bhi thak gaya aag bhi bujh gayi
   Jal raha hai magar ab bhi seena mera
 
   7
   Har azaadar ye kar raha hai dua
   Aisa Aashur ho ab ke Akbar bapa
-  Karbala mein mile waaris-e-Karbala
+  Karbala meiṅ mile waaris-e-Karbala
 # source_id: nohayonline:f2c80b16fa7828c479d4
 # source_url: https://www.nohayonline.com/details_content.php?id=662
 # raw_sha256: e7036b3606ad5685874176a606d6edce9a71c29ee6c83f468385ca58a8bad8af

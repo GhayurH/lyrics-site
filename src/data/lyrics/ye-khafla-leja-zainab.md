@@ -15,25 +15,25 @@ romanLyrics: |-
   Kehne lagi Husain se hamshir alwida
   Aane lagi ek laasha-e-besar se ye sada
   Ye qaafila le ja Zainab qaafila le ja
-  Main ne basaai Karbala tu Shaam ko basa
+  Maiṅ ne basaai Karbala tu Shaam ko basa
 
   1
-  Kuchh bhi na kar jo raah mein sehni haiṅ sakhtiyaaṅ
+  Kuchh bhi na kar jo raah meiṅ sehni haiṅ sakhtiyaaṅ
   Sajjad mera qaafile ka ho ga saarbaan
   Naize pe tere saath hi jaae ga sar mera
 
   2
-  Shiriṅ ka ghar bhi raah mein aae ga ae behan
+  Shiriṅ ka ghar bhi raah meiṅ aae ga ae behan
   Tujh ko agar pehchaan na paae wo pur mehan
   Kehna ke pura ho gaya waada ae ghamzada
 
   3
-  Ae Zainab teri raah mein aae ga ek maqaam
+  Ae Zainab teri raah meiṅ aae ga ek maqaam
   Haakim bulaae ga wahaaṅ le le ke sab ka naam
   Karna wahaaṅ bhi sabr tu karna na baddua
 
   4
-  Aisi bhi manzil raah mein aae gi nauhagar
+  Aisi bhi manzil raah meiṅ aae gi nauhagar
   Uthe gi teri simt jo naapaak har nazar
   Quraaṅ sunaae ga wahiṅ naize pe sar mera
 
@@ -43,7 +43,7 @@ romanLyrics: |-
   Phir chhin leṅ ge chaadareṅ aa kar wo ashqiya
 
   6
-  Ae behna tera raah mein ho ga ye haal bhi
+  Ae behna tera raah meiṅ ho ga ye haal bhi
   Bachche juda ho jaaeṅ ge jismoṅ se khaal bhi
   Har gaam tere haal pe royeṅ gi Sayyeda
 
@@ -58,7 +58,7 @@ romanLyrics: |-
   Zindaaṅ basa ke aa gai tum ne jo ye kaha
 
   9
-  Darbaar-e-Zainab mein dua hai Mazhar Abidi
+  Darbaar-e-Zainab meiṅ dua hai Mazhar Abidi
   Rauze pe ham jo jaaeṅ to aae ye hukm bhi
   Irfan Haider aaj phir nauha wo tu suna
 # source_id: nohayonline:ae67396eab59e673e2f4

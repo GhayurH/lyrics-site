@@ -12,54 +12,54 @@ published: true
 reciter: "Nadeem Sarwar"
 romanLyrics: |-
   Aisa alam hai kahaṅ
-  Aisa jawaṅ hai kahaṅ
+  Aisa jawaaṅ hai kahaṅ
 
   1
   Ye hai Abu Talib ka gharana
   Is pe Khuda ka khaas karam hai
-  Saare Arab mein saare Ajam mein
+  Saare Arab meiṅ saare Ajam meiṅ
   Kis ko mila ye jaah o hasham hai
-  In mein koi Yasin o Muzammil
-  In mein koi sardar-e-Iram hai
+  In meiṅ koi Yasin o Muzammil
+  In meiṅ koi sardar-e-Iram hai
   Us ki alag hi shaan hai Maula
   Jis ko mila Haider ka alam hai
 
   2
   Kaisa saja hai kaisa hasiṅ hai
-  Karbobala mein Shah ka lashkar
+  Karbobala meiṅ Shah ka lashkar
   Yuṅ to sabhi haiṅ sher dilawar
   Aun o Muhammad Qasim o Akbar
   Ibn-e-Mazahir Wahb-e-Kalbi
   Jaun bhi Hurr bhi saare dilawar
   Apni jagah ye sab haiṅ bahadur
-  Fauj mein teri Ae Shah-e-Safdar
+  Fauj meiṅ teri Ae Shah-e-Safdar
 
   3
   Baad-e-namaz-e-Fajr ziyarat
   Tere alam ki karta huṅ
   Sharf ghulami ka mil jaaye
-  Main ye wazifa parhta huṅ
+  Maiṅ ye wazifa parhta huṅ
   Kar ke ziyarat tere alam ki
-  Phir main ghar se chalta huṅ
-  Saaye mein chaudah masumoṅ ke
-  Shukr-e-Khuda mein rehta huṅ
+  Phir maiṅ ghar se chalta huṅ
+  Saaye meiṅ chaudah masumoṅ ke
+  Shukr-e-Khuda meiṅ rehta huṅ
 
   4
   Hum to sag-e-darbar-e-Ali haiṅ
   Khaas ye tujhse rishta hai
   Jad bhi hai tera kul ka Maula
   Tu bhi hamara aaqa hai
-  Tere faqiroṅ mein Ae Ghazi
+  Tere faqiroṅ meiṅ Ae Ghazi
   Arsh nashiṅ bhi rehta hai
-  Sindh mein aao Maula qadam par
+  Sindh meiṅ aao Maula qadam par
   Laal Qalandar kehta hai
 
   5
-  Shaam ke lashkar mein halchal thi
+  Shaam ke lashkar meiṅ halchal thi
   Kaun jari ab aata hai
   Burhe jawanoṅ se kehte the
   Ye to Ali ab aata hai
-  Sar pe Khuda thokar mein qaza hai
+  Sar pe Khuda thokar meiṅ qaza hai
   Qahr-e-Jali ab aata hai
   Kehna para Ahmad ko Ali se
   Tera wasi ab aata hai
@@ -67,7 +67,7 @@ romanLyrics: |-
   6
   Teri shahadat se kunbe par
   Kaisi qayamat tut gayi
-  Jis ko kaha karte thay aaqa
+  Jis ko kaha karte the aaqa
   Qatl hua wo bhai bhi
   Sar se chhini Zainab ki chadar
   Teri Sakina qaid hui
@@ -75,7 +75,7 @@ romanLyrics: |-
   Maaṅ Zehra ye kehti rahi
 
   7
-  Ab bhi azakhanoṅ mein parcham
+  Ab bhi azakhanoṅ meiṅ parcham
   Tera aise rehta hai
   Shaam dhale aisa lagta hai
   Koi lipat ke rota hai

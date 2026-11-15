@@ -1,6 +1,6 @@
 ---
 title: "راہوں میں سارباں کو چھاؤں نہ ملا سایہ"
-alternateTitle: "Raahoṅ Mein Saarbaaṅ Ko"
+alternateTitle: "Raahoṅ Meiṅ Saarbaaṅ Ko"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,28 +11,28 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Raahoṅ mein saarbaaṅ ko chhaaṅw na mila saaya
-  Betaab dhup mein hai zanjir ka sataaya
+  Raahoṅ meiṅ saarbaaṅ ko chhaaṅw na mila saaya
+  Betaab dhup meiṅ hai zanjir ka sataaya
 
   1
-  Ujre gharoṅ mein gunji aawaaz haae Akbar
+  Ujre gharoṅ meiṅ gunji aawaaz haae Akbar
   Sughra ko jab phuphi ne ro kar gale lagaaya
 
   2
-  Jaana kachahriyoṅ mein chhuta na bibiyoṅ ka
-  Aisa kisi adu ne darbaar mein bulaaya
+  Jaana kachahriyoṅ meiṅ chhuta na bibiyoṅ ka
+  Aisa kisi adu ne darbaar meiṅ bulaaya
 
   3
-  Pardesiyoṅ ki qabroṅ mein turbat-e-Sakina
+  Pardesiyoṅ ki qabroṅ meiṅ turbat-e-Sakina
   Kis ne haiṅ phul daale kis ne diya jalaaya
 
   4
-  Zainab ke sar mein ab tak hai ret Karbala ki
-  Rassi ne baazuoṅ mein kaala nishaaṅ banaaya
+  Zainab ke sar meiṅ ab tak hai ret Karbala ki
+  Rassi ne baazuoṅ meiṅ kaala nishaaṅ banaaya
 
   5
   Pehchaan lena Sughra ab apne kaarwaaṅ ko
-  Is qaafile mein Bibi koi nahiṅ paraaya
+  Is qaafile meiṅ Bibi koi nahiṅ paraaya
 
   6
   Zahra ko yaad aaya pehlu ka koi sadma

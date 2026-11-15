@@ -21,18 +21,18 @@ romanLyrics: |-
   Allah bhi rakhta hai tera maan
 
   2
-  Roze ki ziyarat mein ajab Hajj ka maza hai
-  Zamzam hai sabeel aur Mina sehn-e-shifa hai
+  Roze ki ziyarat meiṅ ajab Hajj ka maza hai
+  Zamzam hai sabil aur Mina sehn-e-shifa hai
   Roza hai tera Kaaba-e-imaan
-  Pahunchaata hai mujh ko ye kisi aur fiza mein
-  Main sehn mein hote hue urta huṅ hawa mein
+  Pahunchaata hai mujh ko ye kisi aur fiza meiṅ
+  Maiṅ sehn meiṅ hote hue urta huṅ hawa meiṅ
   Hai farsh tera takht-e-Sulaimaan
 
   3
-  Har ek pe kaunain mein ehsaan tere hain
-  Quraan ki qasam lulu o marjaan tere hain
+  Har ek pe kaunain meiṅ ehsaan tere haiṅ
+  Quraan ki qasam lulu o marjaan tere haiṅ
   Hai shaan teri Surah-e-Rahmaan
-  Ho aaye Najaf phir bhi khasaare mein rahega
+  Ho aaye Najaf phir bhi khasaare meiṅ rahega
   Shabbir ke roze pe use kuch na milega
   Hai jaan ke jo aap se anjaan
 
@@ -42,19 +42,19 @@ romanLyrics: |-
   Aql-e-bashar az fazl-e-tu hairaan
   Raaziq ki taraf se hai tu hi rizq ka qaasim
   Hai nazm-e-do aalam ka tu hi aathwaṅ naazim
-  Palte hain tere rizq pe Shiaan
+  Palte haiṅ tere rizq pe Shiaan
 
   5
-  Tu jaag raha hai to main sota huṅ sukun se
+  Tu jaag raha hai to maiṅ sota huṅ sukun se
   Banda tera waaqif hai tere kun fa yakun se
-  Hai tere tasarruf mein meri jaan
-  Hai arz yehi baargaah-e-Shah-e-Zamaan mein
-  Momin na rahe koi pareshaan jahaaṅ mein
+  Hai tere tasarruf meiṅ meri jaan
+  Hai arz yehi baargaah-e-Shah-e-Zamaaṅ meiṅ
+  Momin na rahe koi pareshaan jahaaṅ meiṅ
   Bas aap ka dushman ho pareshaan
 
   6
   Aulaad ka taalib koi taalib hai shifa ka
-  Masooma-e-Qum ka unhein de dijiye sadqa
+  Masuma-e-Qum ka unheiṅ de dijiye sadqa
   Un sab pe bhi kar dijiye ehsaan
   Dibal ko sana ke liye bulwaate the jaise
   Hai arz ke mujh ko bhi bula leṅ kabhi aise

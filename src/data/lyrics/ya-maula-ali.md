@@ -16,25 +16,25 @@ romanLyrics: |-
   Ya Maula Ali ya Maula Ali
 
   1
-  Nabiyoṅ ne pukaara mushkil mein
+  Nabiyoṅ ne pukaara mushkil meiṅ
   Har dard ka hai darmaan Ali
   Hai meri jaan Ali
   Meri jaan Ali imaan Ali
   Ya Maula Ali ya Maula Ali
 
   2
-  Patthar mein alam gaarha jis ne
+  Patthar meiṅ alam gaarha jis ne
   Jis ko hai Khuda ka sher kaha
   Daamaad-e-Nabi hai Maula Ali
   Jise Haidar o Safdar laqab mila
-  Hai duniya mein zishaan Ali
+  Hai duniya meiṅ zishaan Ali
   Ya Maula Ali ya Maula Ali
   Hai meri jaan Ali
 
   3
   Mimbar pe bula kar Ahmad ne
   Man kunto maula jis ko kaha
-  Jis ka bhi huṅ ab main maula
+  Jis ka bhi huṅ ab maiṅ maula
   Mere baad hai us ka Ali maula
   Jise Allah se talwaar mili
   Ya Maula Ali ya Maula Ali
@@ -42,18 +42,18 @@ romanLyrics: |-
 
   4
   Socho to zara ae musalmaanoṅ
-  Roze mein us par waar kiya
+  Roze meiṅ us par waar kiya
   Jo shauhar-e-Fatima Zehra tha
-  Us ko masjid mein qatl kiya
+  Us ko masjid meiṅ qatl kiya
   Tha Ahmad ka dil o jaan Ali
   Ya Maula Ali ya Maula Ali
   Hai meri jaan Ali
 
   5
-  Mehmaan bula kar Kufe mein
+  Mehmaan bula kar Kufe meiṅ
   Imam-e-Hasan ko zehr diya
-  Jo god-e-Nabi mein khela tha
-  Us ko masjid mein zibh kiya
+  Jo god-e-Nabi meiṅ khela tha
+  Us ko masjid meiṅ zibh kiya
   Haaye roti rahi Zehra ki kali
   Ya Maula Ali ya Maula Ali
   Hai meri jaan Ali
@@ -61,14 +61,14 @@ romanLyrics: |-
   6
   Ek ujra qaafila pyaasoṅ ka
   Jab le kar Zainab Shaam gayi
-  Main paak Ali ki beti huṅ
+  Maiṅ paak Ali ki beti huṅ
   Ro ro kar Zainab kehti rahi
   Ab koi nahiṅ hai chaaragar
   Ya Maula Ali ya Maula Ali
   Hai meri jaan Ali
 
   7
-  Mehboob ne likha hai noha
+  Mehbub ne likha hai noha
   Ro ro ke sunaata hai Mesum
   Zainab ye duaaeṅ karti hai
   Ghar ghar Shabbir ka ho maatam

@@ -13,14 +13,14 @@ published: true
 romanLyrics: |-
   Imam parda-e-ghaibat se de rahe haiṅ sada
   Ana ibn-e-Zahra
-  Nazar mein rehti hai har waqt mere Karbobala
+  Nazar meiṅ rehti hai har waqt mere Karbobala
   Ana ibn-e-Zahra
 
   1
-  Main parda-e-ghaibat se samaaṅ dekh raha huṅ
+  Maiṅ parda-e-ghaibat se samaaṅ dekh raha huṅ
   Sajjad ke khaimoṅ ka dhuaaṅ dekh raha huṅ
-  Zainab chali jis aag mein Abid ko bachaane
-  Us aag mein pairoṅ ke nishaaṅ dekh raha huṅ
+  Zainab chali jis aag meiṅ Abid ko bachaane
+  Us aag meiṅ pairoṅ ke nishaaṅ dekh raha huṅ
 
   2
   Jis sar pe saja karti thi dastaar-e-Muhammad
@@ -28,14 +28,14 @@ romanLyrics: |-
 
   3
   Bas tir hai chalne ab Asghar ke gale par
-  Zaalim ki main khamra kamaaṅ dekh raha huṅ
+  Zaalim ki maiṅ khamra kamaaṅ dekh raha huṅ
 
   4
   Jis rukh ke liye karte the bose shaah-e-waala
   Us rukh pe tamaachoṅ ke nishaaṅ dekh raha huṅ
 
   5
-  Maqtal mein kahaaṅ saani-e-Zehra ki rida hai
+  Maqtal meiṅ kahaaṅ saani-e-Zehra ki rida hai
   Abbas ke baazu haiṅ kahaaṅ dekh raha huṅ
 
   6
@@ -44,7 +44,7 @@ romanLyrics: |-
 
   7
   Maa baap behan bhai phuphi aur aizza
-  Ik tir mein kitnoṅ ki main jaaṅ dekh raha huṅ
+  Ik tir meiṅ kitnoṅ ki maiṅ jaaṅ dekh raha huṅ
 
   8
   Gohar hai jahaaṅ dafn Saqifa ki shahida

@@ -15,14 +15,14 @@ romanLyrics: |-
   Ghul hua ke ghash aaya khalaf-e-Haider ko
   Aur phir Shimr barha kheṅche hue khanjar ko
   Sab se kehta tha ke kaatuṅ ga sar-e-Sarwar ko
-  Muṅh na main daulat-e-dunya se kabhi pheruṅ ga
+  Muṅh na maiṅ daulat-e-dunya se kabhi pheruṅ ga
   Aaj Zahra ke kaleje pe chhuri pheruṅ ga
 
   Aayi sada-e-Fatima tars itna to khaa le zaalim
-  Main maa huṅ pyaase Husain ki
+  Maiṅ maa huṅ pyaase Husain ki
 
   Na khanjar chala Ae zaalim is ko paani pila de zaalim
-  Main maa huṅ pyaase Husain ki
+  Maiṅ maa huṅ pyaase Husain ki
 
   1
   Chumte the Payambar jise wo gala
@@ -43,19 +43,19 @@ romanLyrics: |-
   Apne bachche ki gardan pe khanjar
 
   4
-  Chakkiyaaṅ pis kar main ne paal jise
+  Chakkiyaaṅ pis kar maiṅ ne paal jise
   Kya bana hai ye khanjar isi ke liye
   Qatl karna hi hai gar che tujh ko
   Dasht se dur jaane de mujh ko
 
   5
-  Apne pehlu mein is ko sulaati rahi
+  Apne pehlu meiṅ is ko sulaati rahi
   Is ki raahoṅ se kaaṅte hataati rahi
   Aaj is ke gale pe khanjar
   Kaise dekhuṅ bata de sitamgar
 
   6
-  Loriyaaṅ is ko deti thi main raat bhar
+  Loriyaaṅ is ko deti thi maiṅ raat bhar
   Kitni raateṅ guzaari hai yuṅ jaag kar
   Kab se soya nahiṅ dilbar
   Bojh bas hai yehi mere dil par
@@ -70,7 +70,7 @@ romanLyrics: |-
   Maa ki faryaad Farhan kya ho bayaaṅ
   Chashm-e-Mazhar se hai khuṅ ka gajra rawaaṅ
   Chal gaya ibn-e-Haider pe khanjar
-  Nauha karti rahi ban mein maadar
+  Nauha karti rahi ban meiṅ maadar
 # source_id: nohayonline:6009d206a175aad096ee
 # source_url: https://www.nohayonline.com/details_content.php?id=3415
 # raw_sha256: a4f68b8edcb4ec6e3eb77c8caa94ecc72795663dad6d979ebefaa30ae2267e50

@@ -17,17 +17,17 @@ romanLyrics: |-
   1
   Pi ke pyaala zehr ka nur-e-Khuda bechain hai
   Fatema bechain ruh-e-Murtaza bechain hai
-  Kaainaat-e-Mustafa mein ik andhera chha gaya
+  Kaainaat-e-Mustafa meiṅ ik andhera chha gaya
 
   2
   Ho gaye hai aaj haaye Musa Kaazim yatim
-  Ambiya hai girya kunaaṅ rote haiṅ Musa-e-Kaleem
+  Ambiya hai girya kunaaṅ rote haiṅ Musa-e-Kalim
   Tukre tukre ho gaya dil bolte Quraan ka
 
   3
   Zehr Mansur Dawaaniqi ne wo qaatil diya
-  Haaye lamhoṅ mein hi Maula ka kaleja kat gaya
-  Khaana-e-Kaaba mein aaya zalzaloṅ par zalzala
+  Haaye lamhoṅ meiṅ hi Maula ka kaleja kat gaya
+  Khaana-e-Kaaba meiṅ aaya zalzaloṅ par zalzala
 
   4
   Khushbuoṅ par yuṅ hawa-e-zulm o aafat dhaaye haiṅ
@@ -40,8 +40,8 @@ romanLyrics: |-
   Haaye shahr-e-ilm bhi gham se lahu rone laga
 
   6
-  Ilm o hikmat qaid hone ko hai ab zindaan mein
-  Kaise de khutbe ujaale ab Khuda ki shaan mein
+  Ilm o hikmat qaid hone ko hai ab zindaan meiṅ
+  Kaise de khutbe ujaale ab Khuda ki shaan meiṅ
   Nur ka suraj chhupa taarik har manzar hua
 
   7

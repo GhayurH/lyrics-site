@@ -15,7 +15,7 @@ romanLyrics: |-
 
   1
   Saaqi-e-Kausar tera baaba Husain
-  Karbala mein tu raha pyaasa Husain
+  Karbala meiṅ tu raha pyaasa Husain
   Yaad rakhegi tujhe duniya Husain
   Tujh se hai naam-e-Khuda zinda Husain
 
@@ -32,21 +32,21 @@ romanLyrics: |-
   Puchhta hai Rab tera mansha Husain
 
   4
-  Tashnagi teri fazaaoṅ mein dhuaaṅ
+  Tashnagi teri fazaaoṅ meiṅ dhuaaṅ
   Thi musibat kaarwaaṅ dar kaarwaaṅ
   Sabr se tu ne diya har imtihaaṅ
   Din par ehsaan hai tera Husain
 
   5
-  Karbala mein kaisi yeh shaadi rachi
+  Karbala meiṅ kaisi yeh shaadi rachi
   Laash hai masnad pe ab naushaah ki
   Chand lamhoṅ ki dulhan bewa hui
   Kaun dega ab use pursa Husain
 
   6
-  Thi Ali Akbar ke sine mein sinaaṅ
+  Thi Ali Akbar ke sine meiṅ sinaaṅ
   Muztarib tha khaak par kariyal jawaaṅ
-  Dasht-e-ghurbat mein hai kaisa imtihaaṅ
+  Dasht-e-ghurbat meiṅ hai kaisa imtihaaṅ
   Khinchte haiṅ qalb se neza Husain
 
   7
@@ -57,7 +57,7 @@ romanLyrics: |-
 
   8
   Jaan-e-Haidar dilbar-e-Umm ul Banin
-  Jis ke qadmoṅ mein samandar ki jabiṅ
+  Jis ke qadmoṅ meiṅ samandar ki jabiṅ
   Aaj bhi aab-e-rawaaṅ hai bil yaqin
   Hai tere Abbas ka qabza Husain
 
@@ -70,17 +70,17 @@ romanLyrics: |-
   10
   Laash par Sarwar ki Zainab ne kaha
   Ek behan par waqt kaisa aa gaya
-  Dasht mein hai bekafan laasha tera
+  Dasht meiṅ hai bekafan laasha tera
   Sar pe chaadar bhi nahiṅ bhaiya Husain
 
   11
-  Al-atash ki thi fazaaoṅ mein sada
+  Al-atash ki thi fazaaoṅ meiṅ sada
   Kal talak Abbas ka pehra bhi tha
   Dekhte hi dekhte kya ho gaya
   Chhaa gaya har simt sannaata Husain
 
   12
-  Be kajaawa unt pyaasa kaarwaaṅ
+  Bekajaawa unt pyaasa kaarwaaṅ
   Berida hai Fatima ki betiyaaṅ
   Shimr ke durre Sakina ki fughaaṅ
   Tum kahaaṅ ho Ae mere baaba Husain
@@ -106,7 +106,7 @@ romanLyrics: |-
   16
   Dilbar-e-Zehra shahid-e-Karbala
   Tu hameiṅ deta hai har pal hausla
-  Hum tujhe dete haiṅ mushkil mein sada
+  Hum tujhe dete haiṅ mushkil meiṅ sada
   Hai sahaara hum ko bas tera Husain
 
   17
@@ -129,7 +129,7 @@ romanLyrics: |-
 
   20
   Pesh hona hai Khuda ke rubaru
-  Bas gham-e-Sheh mein bahaao tum lahu
+  Bas gham-e-Sheh meiṅ bahaao tum lahu
   Yeh ibaadat hi karegi surkhru
   Kehte jaao ya Husainam ya Husain
 
@@ -146,7 +146,7 @@ romanLyrics: |-
   Aakhirat ka hai yeh sarmaaya Husain
 
   23
-  Tujh se karta hai Rasheed ab iltija
+  Tujh se karta hai Rashid ab iltija
   Ho ziyaarat ka sharaf hum ko ataa
   Hum ko dikhla de zamin-e-Karbala
   Waasta tujh ko Sakina ka Husain

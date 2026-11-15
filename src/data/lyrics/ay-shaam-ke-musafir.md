@@ -15,27 +15,27 @@ romanLyrics: |-
   Zanjir hai badan par zakhmoṅ se khuṅ rawaaṅ hai
 
   1
-  Be parda aaj Zainab darbaar jaa rahi hai
+  Beparda aaj Zainab darbaar jaa rahi hai
   Sajjad par Khudaaya ye kaisa imtihaaṅ hai
 
   2
   Ae shehr-e-bewafa ye hai inqilaab kaisa
-  Kufe ki shaahzaadi Kufe mein be amaaṅ hai
+  Kufe ki shaahzaadi Kufe meiṅ beamaaṅ hai
 
   3
   Sad haif ke musalmaaṅ baithe haiṅ kursiyoṅ par
-  Jakra hua rasan mein bimaar saarbaaṅ hai
+  Jakra hua rasan meiṅ bimaar saarbaaṅ hai
 
   4
   Hum gir gaye zamiṅ par ammaaṅ bachaao hum ko
   Uṅtoṅ se girne waale bachchoṅ ki ye fughaaṅ hai
 
   5
-  Main Shaam ki musaafat tai kar ke aa gaya huṅ
+  Maiṅ Shaam ki musaafat tai kar ke aa gaya huṅ
   Rauze pe Mustafa ke Sajjad ka bayaaṅ hai
 
   6
-  Zainab ki be ridaai pe chup hai kiuṅ zamaana
+  Zainab ki beridaai pe chup hai kiuṅ zamaana
   Is waqt kalma go ki insaaniyat kahaaṅ hai
 
   7

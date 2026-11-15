@@ -1,6 +1,6 @@
 ---
 title: "قید جب شام کے زنداں میں ہوئے آلِ عبا"
-alternateTitle: "Shaam Ka Zindan"
+alternateTitle: "Shaam Ka Zindaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -17,11 +17,11 @@ romanLyrics: |-
   Roz karti thi ye yahi Shaam ke zindaaṅ meiṅ bukaa
 
   Mere bhaiya Ali Asghar ko bayaabaaṅ mila
-  Main Sakina huṅ mujhe Shaam ka zindaan mila
+  Maiṅ Sakina huṅ mujhe Shaam ka zindaan mila
 
   1
-  Ek godi ke paale haiṅ Ali Asghar aur main
-  Chhe mahinoṅ ke chale haiṅ Ali Asghar aur main
+  Ek godi ke paale haiṅ Ali Asghar aur maiṅ
+  Chhe mahinoṅ ke chale haiṅ Ali Asghar aur maiṅ
   Us ko sone ke liye khuṅ bhara maidaan mila
 
   2
@@ -41,7 +41,7 @@ romanLyrics: |-
 
   5
   Jab sitamgar ne mere kaanoṅ se bundeṅ khinche
-  Apne pyaaroṅ ko bulaati thi main aaṅkheṅ miche
+  Apne pyaaroṅ ko bulaati thi maiṅ aaṅkheṅ miche
   Par na koi bhi mujhe apna nigahbaan mila
 
   6

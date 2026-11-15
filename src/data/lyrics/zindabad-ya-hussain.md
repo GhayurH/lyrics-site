@@ -1,6 +1,6 @@
 ---
 title: "گونجتی فضائیں ہیں"
-alternateTitle: "Zindabaad Ya Husain"
+alternateTitle: "Zindabaad Ya Husaiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -15,13 +15,13 @@ romanLyrics: |-
   Maatami sadaaeṅ haiṅ
   Jis taraf nazar daaleṅ
   Qaafile hazaaroṅ haiṅ
-  Qaafiloṅ ke sinoṅ mein
-  Dard ke safinoṅ mein
+  Qaafiloṅ ke sinoṅ meiṅ
+  Dard ke safinoṅ meiṅ
   Ashk o khun ke dhaare
   Dur tak alam saare
   Ye karorha insaaṅ
   Dekh to Ali ki jaaṅ
-  Tere gham mein haiṅ giryaaṅ
+  Tere gham meiṅ haiṅ giryaaṅ
   Inki Karbala manzil hai
   Hai hatheliyoṅ par dil
   Jhel kar har ek mushkil
@@ -46,7 +46,7 @@ romanLyrics: |-
   Tu Ali ka nur-e-ain hai
   Fatima ke dil ka chain hai
   La ilaah ya Husain
-  Din panaah ya Husain
+  Diṅ panaah ya Husain
 
   2
   Salaam Shaah-e-Karbala
@@ -86,17 +86,17 @@ romanLyrics: |-
   Tu mard-e-beqasur tha
   Ghamoṅ se chur chur tha
   Magar wo kya shuur tha
-  Sitam utha ke hosh mein raha
-  Nahif hoke josh mein raha
-  Lahu se surkh posh mein raha
+  Sitam utha ke hosh meiṅ raha
+  Nahif hoke josh meiṅ raha
+  Lahu se surkh posh meiṅ raha
   Josh kya ya Husain
   Hosh kya ya Husain
 
   6
   Wo saara ghar luta gaya
-  Wo khun mein naha gaya
+  Wo khun meiṅ naha gaya
   Sinaaṅ pe sar bhi aa gaya
-  Magar wo din bacha gaya
+  Magar wo diṅ bacha gaya
   Gawaahi de rahi hai Karbala
   Husain kaamyaab ho gaya
   Yazid ka nishaaṅ bhi na raha

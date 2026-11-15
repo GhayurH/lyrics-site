@@ -17,55 +17,55 @@ romanLyrics: |-
   Mere sawaar ki wo raah tak rahi hogi
   Pidar ki did ko dar pe abhi khari hogi
   Wo dekh kar kahiṅ mar jaaye na mera chehra
-  Main kis zabaaṅ se kahuṅ ga Husain maare gaye
+  Maiṅ kis zabaaṅ se kahuṅ ga Husain maare gaye
 
   2
   Ye Zuljanaah pukaar utha kya karuṅ aakhir
-  Pare haiṅ dasht mein Sarwar nahiṅ koi naasir
-  Main kis tarah se karuṅ sabr haaye mere Khuda
-  Main kis zabaaṅ se kahuṅ ga Husain maare gaye
+  Pare haiṅ dasht meiṅ Sarwar nahiṅ koi naasir
+  Maiṅ kis tarah se karuṅ sabr haaye mere Khuda
+  Maiṅ kis zabaaṅ se kahuṅ ga Husain maare gaye
 
   3
   Mere bhi jism se to jaa baja hai tir lage
   Lahu hai mas Shah-e-waala ka mere maathe se
   Wo dekhte hi kahegi ke khuṅ hai Baba ka
-  Main kis zabaaṅ se kahuṅ ga Husain maare gaye
+  Maiṅ kis zabaaṅ se kahuṅ ga Husain maare gaye
 
   4
   Jo kaifiyat Shah-e-waala ki dekhi reti par
   Sakina saamne hai sab bayaan karuṅ kiuṅ kar
   Wo keh rahi hai chale aaiye mere Baba
-  Main kis zabaaṅ se kahuṅ ga Husain maare gaye
+  Maiṅ kis zabaaṅ se kahuṅ ga Husain maare gaye
 
   5
   Sawaal jab wo karegi ae Zuljanaah bata
   Mila tha pyaase ko paani ya mar gaya pyaasa
   Bata de mujh ko kahaaṅ reh gaye mere Baba
-  Main kis zabaaṅ se kahuṅ ga Husain maare gaye
+  Maiṅ kis zabaaṅ se kahuṅ ga Husain maare gaye
 
   6
   Chala huṅ dekh ke ran se gala kata Sheh ka
   Sitamgaroṅ ne unheṅ maar daala waawaila
   Zamin-e-garm pe hai Shaah-e-din ka laasha
-  Main kis zabaaṅ se kahuṅ ga Husain maare gaye
+  Maiṅ kis zabaaṅ se kahuṅ ga Husain maare gaye
 
   7
   Wo kehte reh gaye Abbas ho kahaaṅ aao
   Sitam ki tegh se halqum mera dur karo
   Chhuri ke niche nahiṅ chalta bas mere bhaiya
-  Main kis zabaaṅ se kahuṅ ga Husain maare gaye
+  Maiṅ kis zabaaṅ se kahuṅ ga Husain maare gaye
 
   8
   Gale pe Sheh ke phiraata tha Shimr jab khanjar
   Husain paaoṅ ragarte the jalti reti par
   Samaaṅ ye dekh ke roti hai Fatema Zehra
-  Main kis zabaaṅ se kahuṅ ga Husain maare gaye
+  Maiṅ kis zabaaṅ se kahuṅ ga Husain maare gaye
 
   9
   Qalam bhi rota hai Rehan waaqia likh kar
   Ab aur kuch bhi Mubarak se ho bayaaṅ kiuṅ kar
   Jaan-e-Fatema par jatan ajib hua
-  Main kis zabaaṅ se kahuṅ ga Husain maare gaye
+  Maiṅ kis zabaaṅ se kahuṅ ga Husain maare gaye
 # source_id: nohayonline:0d2bf0f75adc2f60040f
 # source_url: https://www.nohayonline.com/details_content.php?id=2124
 # raw_sha256: b0f5a978c20aeb8e4984130624a8dc219ba81149ee8ef29f2d92d16c1bdf14ca

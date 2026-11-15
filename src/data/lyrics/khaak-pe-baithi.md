@@ -30,13 +30,13 @@ romanLyrics: |-
   3
   Chumte haiṅ Abbas ke baazu
   Faateh-e-Khaibar aur Zainab
-  Dard o alam ke is manzar mein
+  Dard o alam ke is manzar meiṅ
   Dast-e-burida dekh rahi hai
 
   4
-  Zehr mein dubi tegh lagi hai
+  Zehr meiṅ dubi tegh lagi hai
   Farq-e-Ali se khuṅ hai rawaaṅ
-  Aur is gehre zakhm mein Zainab
+  Aur is gehre zakhm meiṅ Zainab
   Zakhm-e-Husaina dekh rahi hai
 
   5
@@ -47,7 +47,7 @@ romanLyrics: |-
 
   6
   Kuch to piya tha tegh-e-sitam ne
-  Zehr abhi kuch Shaam mein hai
+  Zehr abhi kuch Shaam meiṅ hai
   Is liye Zainab sad paara
   Shabbar ka kaleja dekh rahi hai
 
@@ -73,7 +73,7 @@ romanLyrics: |-
   Dil ko hamaare hota hai
   Mehsus ye Aamir aur Bilal
   Shaayad Zainab laasha-e-Sarwar
-  Khun mein duba dekh rahi hai
+  Khun meiṅ duba dekh rahi hai
 # source_id: nohayonline:8c94c2dd1dff4cec4649
 # source_url: https://www.nohayonline.com/details_content.php?id=3581
 # raw_sha256: 13fedb387f6160d5c6f3e8f6b72d8c3249dc45795500ac8cd1517f688aecc0f4

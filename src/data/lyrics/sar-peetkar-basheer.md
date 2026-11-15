@@ -24,7 +24,7 @@ romanLyrics: |-
   Bedast nehr par hue Abbas baawafa
   Naiza Shabih-e-Ahmad-e-Mukhtaar ko laga
   Beshir ke gale pe bhi tir-e-sitam laga
-  Paamaal ran mein Qaasim-e-Naushaah ho gaya
+  Paamaal ran meiṅ Qaasim-e-Naushaah ho gaya
 
   3
   Ji bhar ke zaalimoṅ ne sataaya Husain ko
@@ -42,19 +42,19 @@ romanLyrics: |-
   Qaidi banaaya Zainab-e-muztar ko al-amaaṅ
   Aur bekajaawa untoṅ par thi saari Bibiyaṅ
   Pehne hue the Sayyid-e-Sajjaad beriyaṅ
-  Ahl-e-haram ka qaafila baazaar mein gaya
+  Ahl-e-haram ka qaafila baazaar meiṅ gaya
 
   6
   Qabr-e-Rasul hil gayi Zainab ne jab kaha
   Naana teri nawaasi ke sar par na thi rida
-  Darbaar-e-Shaam mein hameṅ le ja ke bekhata
+  Darbaar-e-Shaam meiṅ hameṅ le ja ke bekhata
   Ummat ne khub ajr-e-risaalat ada kiya
 
   7
   Maqbul ho Hilal aur Rehan ki dua
-  Nasloṅ mein apne baaqi rahe gham Husain ka
+  Nasloṅ meiṅ apne baaqi rahe gham Husain ka
   Deti rahe duaaeṅ hameṅ Bint-e-Mustafa
-  Saamaan ho ye hashr mein apni nijaat ka
+  Saamaan ho ye hashr meiṅ apni nijaat ka
 # source_id: nohayonline:49f6b2d056c18ecbcddd
 # source_url: https://www.nohayonline.com/details_content.php?id=723
 # raw_sha256: cb402c14785a4f8eba1fc6c1b4698dda0ccf11fea100384f9589c14eff6aad92

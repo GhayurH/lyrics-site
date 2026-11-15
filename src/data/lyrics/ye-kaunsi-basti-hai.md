@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Shaam haaye Shaam
-  Hai sab ki jholiyoṅ mein patthar
+  Hai sab ki jholiyoṅ meiṅ patthar
   Ye kaunsi basti hai Fizza
   Hota hai charaaghaaṅ kiuṅ ghar ghar
   Ye kaunsi basti hai Fizza
@@ -30,7 +30,7 @@ romanLyrics: |-
   2
   Sajjad ki aankhoṅ se ab tak
   Aansu hi baraste dekhe the
-  Ab dekh rahi huṅ main us ki
+  Ab dekh rahi huṅ maiṅ us ki
   Aankhoṅ se musalsal khuṅ behta
   Puchho to kisi se ye jaa kar
   Ye kaunsi basti hai Fizza
@@ -40,7 +40,7 @@ romanLyrics: |-
   Baaghi aaye baaghi aaye
   Ye kaisi munaadi hoti hai
   Lagta hai zamaane baad koi
-  Is shehr mein shaadi hoti hai
+  Is shehr meiṅ shaadi hoti hai
   Kuchh aise sajaaye haiṅ baam o dar
   Ye kaunsi basti hai Fizza
   Shaam haaye Shaam
@@ -55,11 +55,11 @@ romanLyrics: |-
   Shaam haaye Shaam
 
   5
-  Waada jo kiya tha Yasrab mein
+  Waada jo kiya tha Yasrab meiṅ
   Aata hai yaad wohi waada
   Mehsus mujhe ye hota hai
   Takta hai koi mera rasta
-  Kya Shiriṅ ka hai paas mein ghar
+  Kya Shiriṅ ka hai paas meiṅ ghar
   Ye kaunsi basti hai Fizza
   Shaam haaye Shaam
 

@@ -11,61 +11,61 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Roz-e-jaza adaalat-e-Parwardigaar mein
-  Haazir haiṅ jo bhi muztarib hai ashk baar mein
+  Roz-e-jaza adaalat-e-Parwardigaar meiṅ
+  Haazir haiṅ jo bhi muztarib hai ashk baar meiṅ
   Faryaad kar ke ro rahi hai maaṅ Husain ki
   Khaaliq bhi aaj Fatima ka gham gusaar hai
 
-  Mahshar mein maaṅ ye kehti hai nauha Husain ka
-  Insaaf maangti huṅ main Zehra Husain ka
+  Mahshar meiṅ maaṅ ye kehti hai nauha Husain ka
+  Insaaf maangti huṅ maiṅ Zehra Husain ka
 
   1
   Wo Karbala ki dhup wo tapti zamin par
-  Ummat ne kar diya mera beta lahu mein tar
-  Shaahid hai mere haath mein kurta Husain ka
-  Insaaf maangti huṅ main Zehra Husain ka
+  Ummat ne kar diya mera beta lahu meiṅ tar
+  Shaahid hai mere haath meiṅ kurta Husain ka
+  Insaaf maangti huṅ maiṅ Zehra Husain ka
 
   2
   Aulaad ke dukhoṅ se sataaya gaya use
   Laashe pe us jawaaṅ ke rulaaya gaya use
   Hamshakl-e-Mustafa tha jo beta Husain ka
-  Insaaf maangti huṅ main Zehra Husain ka
+  Insaaf maangti huṅ maiṅ Zehra Husain ka
 
   3
   Zakhmoṅ se chur rukhsat qiyaam alwidaa
   Maatam tha iztiraab tha kohraam alwidaa
   Zainab ko dekh chhor kar jaana Husain ka
-  Insaaf maangti huṅ main Zehra Husain ka
+  Insaaf maangti huṅ maiṅ Zehra Husain ka
 
   4
   Mazlum sirf ek tha zaalim hazaar the
-  Aur bekhata ki chaak mein tiroṅ ke waar the
+  Aur bekhata ki chaak meiṅ tiroṅ ke waar the
   Dushman tha jaise saara zamaana Husain ka
-  Insaaf maangti huṅ main Zehra Husain ka
+  Insaaf maangti huṅ maiṅ Zehra Husain ka
 
   5
-  Mehndi ka rang khun mein dubi ye baaliyaaṅ
-  Asghar ki pyaas dasht mein Akbar ki wo azaan
+  Mehndi ka rang khun meiṅ dubi ye baaliyaaṅ
+  Asghar ki pyaas dasht meiṅ Akbar ki wo azaan
   Laai ho Zuljanaah se girna Husain ka
-  Insaaf maangti huṅ main Zehra Husain ka
+  Insaaf maangti huṅ maiṅ Zehra Husain ka
 
   6
   Ghar ko jala ke shaam-e-gharibaaṅ guzar gayi
   Zainab rasan ka baar liye Shaam ko chali
-  Sahra mein chhorna para laasha Husain ka
-  Insaaf maangti huṅ main Zehra Husain ka
+  Sahra meiṅ chhorna para laasha Husain ka
+  Insaaf maangti huṅ maiṅ Zehra Husain ka
 
   7
-  Darbaar tha khataar mein behneṅ asir thi
-  Thaame chhari wo takht pe baitha tha ik lain
-  Aur tasht mein kata hua sar tha Husain ka
-  Insaaf maangti huṅ main Zehra Husain ka
+  Darbaar tha khataar meiṅ behneṅ asir thi
+  Thaame chhari wo takht pe baitha tha ik laiṅ
+  Aur tasht meiṅ kata hua sar tha Husain ka
+  Insaaf maangti huṅ maiṅ Zehra Husain ka
 
   8
-  Meri fughaaṅ hai Jaun abhi dast-e-yaas mein
-  Irfaan intiqaam hai chupke libaas mein
-  Ashkoṅ mein le ke aai huṅ sajda Husain ka
-  Insaaf maangti huṅ main Zehra Husain ka
+  Meri fughaaṅ hai Jaun abhi dast-e-yaas meiṅ
+  Irfaan intiqaam hai chupke libaas meiṅ
+  Ashkoṅ meiṅ le ke aai huṅ sajda Husain ka
+  Insaaf maangti huṅ maiṅ Zehra Husain ka
 # source_id: nohayonline:13d1893bf0bc6ea6f031
 # source_url: https://www.nohayonline.com/details_content.php?id=864
 # raw_sha256: b671a592a788dd7380c7027537eeecdfa1e67cf29edf62bed3da35d14c527343

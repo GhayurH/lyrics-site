@@ -14,7 +14,7 @@ romanLyrics: |-
   Zainab manaane aayi hai bhai ka arbain
 
   1
-  Karb o bala mein shaam-e-gharibaaṅ ka hai samaaṅ
+  Karb o bala meiṅ shaam-e-gharibaaṅ ka hai samaaṅ
   Baithi hui hai khaak basar saari Bibiyaṅ
   Bhai ke hai mazaar pa khwaahar ki ye fughaaṅ
   Hum the sitam tha aur thi afwaaj-e-ahl-e-kiṅ
@@ -22,14 +22,14 @@ romanLyrics: |-
   2
   Baazaar-e-Shaam aur wo tamaashaayi al-amaaṅ
   Rukta tha har jagah pa asiroṅ ka kaarwaaṅ
-  Hum sar khule the aur thi baazu mein resmaaṅ
+  Hum sar khule the aur thi baazu meiṅ resmaaṅ
   Tauq-e-giraaṅ tha aur mera Aabid-e-haziṅ
 
   3
-  Laila ka haal Bibiyoṅ mein sab se ghair tha
+  Laila ka haal Bibiyoṅ meiṅ sab se ghair tha
   Ek ek se kehti thi mera Akbar kahaaṅ gaya
-  Main dhundti huṅ koi bhi deta nahiṅ pata
-  Naize liye huwe use ghere the kuch lain
+  Maiṅ dhundti huṅ koi bhi deta nahiṅ pata
+  Naize liye huwe use ghere the kuch laiṅ
 
   4
   Abbas ka wujud hamaara sahaara tha

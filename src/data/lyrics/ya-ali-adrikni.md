@@ -39,7 +39,7 @@ romanLyrics: |-
   5
   Baab-e-Saaat pe to aa pahunchi huṅ dar dar phir kar
   Lijiye beti ki khabar
-  Jaauṅ main kis tarah darbaar meiṅ jaaṅ par hai bani
+  Jaauṅ maiṅ kis tarah darbaar meiṅ jaaṅ par hai bani
 
   6
   Kab se hai haal pareshaaṅ sawaali dar par

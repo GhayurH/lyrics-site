@@ -16,7 +16,7 @@ romanLyrics: |-
   Ye chaand taare ye suraj ye do jahaan bane
   Zamiṅ bichhaayi gayi saatoṅ aasmaan bane
   Bashar banaaye gaye khaak se ba hukm-e-Khuda
-  Inhiṅ bashar mein hue khalq khaas ahl-e-aza
+  Inhiṅ bashar meiṅ hue khalq khaas ahl-e-aza
   Janaab-e-Fatema Zehra ki ye dua se bane
   Karam Husain ka tha khaak-e-Karbala se bane
   Phir us Khuda ne har ek ka chaman qaraar diya
@@ -32,13 +32,13 @@ romanLyrics: |-
   Hum ko hai nisbat Karbobala se
   Hum ko isi mitti se banaaya
   Saari dalileṅ paas hai jab
-  Phir mujh ko kehne mein kya uljhan
+  Phir mujh ko kehne meiṅ kya uljhan
 
   2
   Karbobala pehchaan hai meri
   Karbobala se hi shaan hai meri
   Karbobala meri ruh ke andar
-  Karbobala mein hi jaan hai meri
+  Karbobala meiṅ hi jaan hai meri
   Mere watan ki misaal nahiṅ
   Naazaaṅ hai is par charkh-e-kuhan
 
@@ -47,14 +47,14 @@ romanLyrics: |-
   Mera watan hai zamiṅ ausiya ki
   Ye bhi to fakhr hai mere watan ka
   Mera watan hai zamiṅ ambiya ki
-  Din o shariat ki hai amaan
+  Din o shariat ki hai amaaṅ
   Din-e-Khuda ka yehi hai chaman
 
   4
   Mere watan ka ajab maujiza hai
   Khaak bhi is ki khaak-e-shifa hai
   Ye darsgaah sabr o raza hai
-  Is ki hawa mein khushbu-e-wafa hai
+  Is ki hawa meiṅ khushbu-e-wafa hai
   Sabr o raza ka wafa ka yehi
   Roz-e-azal se raha maskan
 
@@ -63,16 +63,16 @@ romanLyrics: |-
   Pesh-e-Muhammad sar ko jhukaaya
   Khuld-e-bariṅ ki sanad tujhe de di
   Hur se Muhammad ne farmaaya
-  Hur ne kaha main rahuṅ ga wahiṅ
+  Hur ne kaha maiṅ rahuṅ ga wahiṅ
   Ae mera aaqa Rasul-e-zaman
 
   6
   Karbobala hi nasib hai mera
-  Karbobala mein Habib hai mera
+  Karbobala meiṅ Habib hai mera
   Karbobala mere gham ki dawa hai
-  Karbobala mein tabib hai mera
+  Karbobala meiṅ tabib hai mera
   Chaahe kahiṅ pe bhi aaye qaza
-  Karbobala mein ho mera madfan
+  Karbobala meiṅ ho mera madfan
 
   7
   Haaṅ ye zamiṅ bari motabar hai
@@ -94,12 +94,12 @@ romanLyrics: |-
   Khaak yahiṅ ki rida-e-haram hai
   Qalb-e-Sakina ka marham hai
   Laasha-e-Asghar is ne chhupaaya
-  Sine mein is ke sabhi ka gham hai
+  Sine meiṅ is ke sabhi ka gham hai
   Bhaai mera sota hai yahaaṅ
   Kehti thi ro ke gharib behan
 
   10
-  Sine mein is ke hai laasheṅ bahattar
+  Sine meiṅ is ke hai laasheṅ bahattar
   Hai ye zamiṅ gehwaara-e-Asghar
   Chhor ke qabr yahiṅ rehti hai
   Mahw-e-buka Shabbir ki maadar

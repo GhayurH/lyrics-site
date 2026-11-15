@@ -11,14 +11,14 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Tha Karbala mein ajab imtehaan-e-tegh-e-Ali
+  Tha Karbala meiṅ ajab imtehaan-e-tegh-e-Ali
   Wo ik nanhi si mayyat wo jaan-e-tegh-e-Ali
   Thi dardnaak bahut daastaan-e-tegh-e-Ali
   Fazaaeṅ roti thi sun kar bayaan-e-tegh-e-Ali
 
   Haaye Zulfiqar haaye Zulfiqar
-  Tadap ke karti thi maqtal mein Zulfiqar ye bain
-  Main kaise khoduṅ lahad ik bezabaaṅ ki Husain
+  Tarap ke karti thi maqtal meiṅ Zulfiqar ye bain
+  Maiṅ kaise khoduṅ lahad ik bezabaaṅ ki Husain
 
   1
   Duaaeṅ do meri himmat ko aazmaate hue
@@ -28,25 +28,25 @@ romanLyrics: |-
 
   2
   Ye soch soch ke aankhoṅ se khun jaari hai
-  Ke jis ki jhule mein main ne nazar utaari hai
+  Ke jis ki jhule meiṅ maiṅ ne nazar utaari hai
   Usi ki qabr banaane ki zimmedaari hai
   Ye imtehaan to Badr o Uhud se bhaari hai
 
   3
-  Main aaj nanhi si turbat agar banaauṅgi
+  Maiṅ aaj nanhi si turbat agar banaauṅgi
   Tamaam umr ye manzar bhula na paauṅgi
-  Palat ke khaime mein maqtal se jab main jaauṅgi
-  To kaise maadar-e-Asghar ko main muṅh dikhaauṅgi
+  Palat ke khaime meiṅ maqtal se jab maiṅ jaauṅgi
+  To kaise maadar-e-Asghar ko maiṅ muṅh dikhaauṅgi
 
   4
   Gharib maaṅ ki amaanat ko kho nahiṅ sakti
-  Main apne kaandhoṅ pe ye bojh dho nahiṅ sakti
+  Maiṅ apne kaandhoṅ pe ye bojh dho nahiṅ sakti
   Kisi ke aankh ke aansu piro nahiṅ sakti
-  Main mamta ka safina dubo nahiṅ sakti
+  Maiṅ mamta ka safina dubo nahiṅ sakti
 
   5
   Ye yaadgaar hai ik beqaraar jhule ki
-  Bula rahi hai tadap baar baar jhule ki
+  Bula rahi hai tarap baar baar jhule ki
   Hai lakriyoṅ ko bahut intezaar jhule ki
   Zamiṅ ko sauṅp duṅ kaise bahaar jhule ki
 
@@ -58,12 +58,12 @@ romanLyrics: |-
 
   7
   Lahad banaane ka Asghar ki kaam mat sauṅpo
-  Sulagte dasht mein ye intezaam mat sauṅpo
+  Sulagte dasht meiṅ ye intezaam mat sauṅpo
   Jahaan-e-sabr ka mujh ko nizaam mat sauṅpo
   Jawaab deti hai himmat Imam mat sauṅpo
 
   8
-  Rakhe haiṅ nauhe mein Akhtar ne lafz chun chun ke
+  Rakhe haiṅ nauhe meiṅ Akhtar ne lafz chun chun ke
   Kaleja phatta hai Irfan sab ka sun sun ke
   Jigar ke khuṅ se masaaib ke khwaab bun bun ke
   Malak bhi rone lage aasmaaṅ pe sar dhun ke

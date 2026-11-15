@@ -21,7 +21,7 @@ romanLyrics: |-
   Ro rahe haiṅ Imam-e-zamaana
 
   2
-  Tairta hai nazar mein wo manzar
+  Tairta hai nazar meiṅ wo manzar
   Chal raha hai namaazi pe khanjar
   Waar hota hai sukhe gale par
   Ro rahe haiṅ Imam-e-zamaana
@@ -35,7 +35,7 @@ romanLyrics: |-
   4
   Yaad hai un ko ab bhi wo manzar
   Jab baraste the patthar saroṅ par
-  Bibiyaaṅ Shaam mein thi khule sar
+  Bibiyaaṅ Shaam meiṅ thi khule sar
   Ro rahe haiṅ Imam-e-zamaana
 
   5
@@ -59,11 +59,11 @@ romanLyrics: |-
   8
   Al ajal al ajal kehne waaloṅ
   Apne aamaal ko bhi to dekho
-  Ba khuda ghaib mein aaj tum par
+  Ba khuda ghaib meiṅ aaj tum par
   Ro rahe haiṅ Imam-e-zamaana
 
   9
-  Ghaib mein kar rahe haiṅ duaaeṅ
+  Ghaib meiṅ kar rahe haiṅ duaaeṅ
   Jald ghaibat se baahar wo aaeṅ
   Badla Karbala ka le jald aa kar
   Ro rahe haiṅ Imam-e-zamaana
@@ -71,7 +71,7 @@ romanLyrics: |-
   10
   Aaṅkh mere qalam ki hui nam
   Kar rahi hai ye tahrir maatam
-  Noor nauha raqam ho ye kiunkar
+  Nur nauha raqam ho ye kiunkar
   Ro rahe haiṅ Imam-e-zamaana
 # source_id: nohayonline:29cf312206c1663827be
 # source_url: https://www.nohayonline.com/details_content.php?id=918

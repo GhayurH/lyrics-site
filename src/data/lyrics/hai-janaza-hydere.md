@@ -18,7 +18,7 @@ romanLyrics: |-
   Hai janaza Haidar-e-Karraar ka
 
   1
-  Kis ne ye mehraab mein
+  Kis ne ye mehraab meiṅ
   Rukn-e-hidaayat dha diya
   Ye sitam kaisa hua
   Noha ye Jibril ka tha
@@ -36,8 +36,8 @@ romanLyrics: |-
   Hai salamat tera parda
 
   4
-  Eid hai nazdeek aur
-  Ghar mein qayaamat ho gayi
+  Eid hai nazdik aur
+  Ghar meiṅ qayaamat ho gayi
   Hai saf-e-maatam bichhi
   Keh rahi hai ro ke Zahra
 
@@ -48,7 +48,7 @@ romanLyrics: |-
   Shor hai waa ghurbata ka
 
   6
-  Baap ke qadmon pe
+  Baap ke qadmoṅ pe
   Sar rakh kar haram ki aas ne
   Ye kaha Abbas ne
   Alwida Ghaazi ke baba

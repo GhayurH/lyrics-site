@@ -32,30 +32,30 @@ romanLyrics: |-
   3
   Tari hai ghashi tum pe lahu beh gaya kitna
   Himmat nahiṅ uthne ki to lete raho beta
-  Main thik huṅ aahista se keh do mere dilbar
+  Maiṅ thik huṅ aahista se keh do mere dilbar
   Ali Akbar Ali Akbar
 
   4
-  Gir gir ke har ek lash se main puchh raha tha
+  Gir gir ke har ek lash se maiṅ puchh raha tha
   Kya tum mere Akbar ho bata do mujhe itna
-  Main lash pe pahuncha huṅ teri ghutniyoṅ chal kar
+  Maiṅ lash pe pahuncha huṅ teri ghutniyoṅ chal kar
   Ali Akbar Ali Akbar
 
   5
-  Gardan mein mere hath zara dal do beta
+  Gardan meiṅ mere hath zara dal do beta
   Baba ke sahare se utho ghar chalo beta
-  Godi mein utha sakta nahiṅ main tumheṅ Akbar
+  Godi meiṅ utha sakta nahiṅ maiṅ tumheṅ Akbar
   Ali Akbar Ali Akbar
 
   6
   Hum sara nahiṅ parh sake Akbar khat-e-Sughra
-  Is baat ka main kya duṅ jawab us ko Ae beta
+  Is baat ka maiṅ kya duṅ jawab us ko Ae beta
   Shadi ka teri puchh rahi hai teri khwahar
   Ali Akbar Ali Akbar
 
   7
   Bachche ko mere mar ke hanste haiṅ jo aada
-  Main baddua de duṅ to koi bhi na bachega
+  Maiṅ baddua de duṅ to koi bhi na bachega
   Ae lal haiṅ hum naqa-e-Salih se to barh kar
   Ali Akbar Ali Akbar
 

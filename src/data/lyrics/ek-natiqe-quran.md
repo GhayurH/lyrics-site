@@ -1,6 +1,6 @@
 ---
 title: "اے ناطقِ قرآں یا مولا"
-alternateTitle: "Ek Naatiq-e-Quran"
+alternateTitle: "Ek Naatiq-e-Quraṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -14,15 +14,15 @@ romanLyrics: |-
   Ae Naatiq-e-Quraaṅ ya Maula
   Ae Waaris-e-Quraaṅ ya Maula
   Ek Naatiq-e-Quraaṅ neze par Quran sunaata jaata hai
-  Aur Waaris-e-Quraaṅ marqad mein haaye khaak uraata jaata hai
+  Aur Waaris-e-Quraaṅ marqad meiṅ haaye khaak uraata jaata hai
 
   1
   Quran-e-masaaib ke sar se juzdaan utaare jaate haiṅ
-  Ek ek aayat ke sine mein khanjar jo utaare jaate haiṅ
+  Ek ek aayat ke sine meiṅ khanjar jo utaare jaate haiṅ
   Quran ke haafiz ke haathoṅ Quran jalaaya jaata hai
 
   2
-  Ek chhota sa Quran abhi neze pe jo main ne dekha hai
+  Ek chhota sa Quran abhi neze pe jo maiṅ ne dekha hai
   Seh pehlu tir se us ka gala takbir suna kar chheda hai
   Ek rehl numa jhule ko sar-e-maidaan jalaaya jaata hai
 
@@ -34,17 +34,17 @@ romanLyrics: |-
   4
   Quran ka parda rakhna hai ae Umm-e-Abiha teri tarah
   Sajjad ki majburi dekho tarpa hai kisi machhli ki tarah
-  Kausar si chhoti aayat ko turbat mein chhupaaya jaata hai
+  Kausar si chhoti aayat ko turbat meiṅ chhupaaya jaata hai
 
   5
   Kuchh chhoti bari aayaat bhi thiṅ ek sura bhi qaidi dekha
-  Baazaar-e-sitam mein beparda suraj ne wo chehra bhi dekha
+  Baazaar-e-sitam meiṅ beparda suraj ne wo chehra bhi dekha
   Jise Saani-e-Zahra kehte hue palkoṅ ko jhukaaya jaata hai
 
   6
   Tathir ki aayat jin ke liye khud Kaatib-e-Qismat ne likhi
   Us aayat ki tafsiroṅ ko saaya na mila chaadar na mili
-  Baalaa-e-sitam be maqna unheṅ darbaar mein laaya jaata hai
+  Baalaa-e-sitam bemaqna unheṅ darbaar meiṅ laaya jaata hai
 
   7
   Ae kalma go kuchh sharm to kar ae qaari-e-Quraaṅ dub ke mar
@@ -52,24 +52,24 @@ romanLyrics: |-
   In pairoṅ ke riste khuṅ se zam zam ko banaaya jaata hai
 
   8
-  Be ghusl o kafan kitne Quraaṅ paamaal kiye haaye haaye
+  Beghusl o kafan kitne Quraaṅ paamaal kiye haaye haaye
   Afsos ke baa-e-Bismillah nezoṅ pe utha ke le aaye
   Quran ki hurmat lut ke ye kiuṅ jashn manaaya jaata hai
 
   9
-  Chausath paare rastoṅ mein gire aaghosh se apni maaoṅ ki
+  Chausath paare rastoṅ meiṅ gire aaghosh se apni maaoṅ ki
   Khuṅ rang hui raahoṅ ki zamiṅ in bachchoṅ ki turbat na bani
   In ujri god ki maaoṅ ko phir khun rulaaya jaata hai
 
   10
-  Quraaṅ mein rakha hai qudrat ne har khushk o tar ka zikr magar
-  Kuchh aise Quraaṅ dekhe gaye Aashur ko apne khun mein tar
+  Quraaṅ meiṅ rakha hai qudrat ne har khushk o tar ka zikr magar
+  Kuchh aise Quraaṅ dekhe gaye Aashur ko apne khun meiṅ tar
   Wo jin ke pasine se Kaabe ko ghusl karaaya jaata hai
 
   11
   Quran-e-aza hai farsh-e-aza Raihaan-e-aza Rizwaan-e-aza
   Ye noha-e-gham rudaad-e-sitam Zahra ki qasam bar dosh-e-hawa
-  Majlis mein suna kar Zahra ko mehmaan banaaya jaata hai
+  Majlis meiṅ suna kar Zahra ko mehmaan banaaya jaata hai
 # source_id: nohayonline:bfae8435530111066ba7
 # source_url: https://www.nohayonline.com/details_content.php?id=3268
 # raw_sha256: 410f4afbcbd1c687f55aa5441ef25e62688fe4f5c0062396d3c6d82ae49b8da9

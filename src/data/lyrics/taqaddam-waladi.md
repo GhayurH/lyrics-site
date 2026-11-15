@@ -11,9 +11,9 @@ aliases:
   - "Taqaddam Waladi"
 published: true
 romanLyrics: |-
-  Fauj e aada thi udhar jang pe tayyar khadi
-  Jaan dene pe yahan fauje elaahi thi tuli
-  Yak bayak sheh ki nazar akbar e mehroo pe padi
+  Fauj e aada thi udhar jang pe tayyar khari
+  Jaan dene pe yahaṅ fauje elaahi thi tuli
+  Yak bayak sheh ki nazar akbar e mehru pe pari
   Dekh kar suye pisar shaah ne awaaz ye di
   Taqadam waladi taqadam waladi
   Saj chuka maut ka bazaar taqadam waladi

@@ -21,10 +21,10 @@ romanLyrics: |-
   Ae baba ye khubam kujaai kujaai
 
   1
-  Baba main qaid mein huṅ aap kahaaṅ ho baba
+  Baba maiṅ qaid meiṅ huṅ aap kahaaṅ ho baba
   Laadli beti ko ek baar pukaaro baba
   Paas aao ya mujhe paas bula lo baba
-  Apne daaman mein Sakina ko chhupa lo baba
+  Apne daaman meiṅ Sakina ko chhupa lo baba
   Mere baba mujhe do aa ke sahara
   Ae jaan-e-Sakina kahaaṅ ho kahaaṅ ho
   Baba tum paas nahiṅ chacha Abbas nahiṅ
@@ -36,7 +36,7 @@ romanLyrics: |-
   Haae sehti hai sitam aap ki beti baba
   Khun behta hai mere kaan haiṅ zakhmi baba
   Chhin kar le gaye kiuṅ baaliyaaṅ meri baba
-  Maangte aa ke jo mujh se main deti baba
+  Maangte aa ke jo mujh se maiṅ deti baba
   Kitna mushkil hai Sakina ka guzaara
   Ae jaan-e-Sakina kahaaṅ ho kahaaṅ ho
   Baba tum paas nahiṅ chacha Abbas nahiṅ
@@ -45,11 +45,11 @@ romanLyrics: |-
   Ae baba ye khubam kujaai kujaai
 
   3
-  Baba kal khwaab mein tum paas mere aaye the
-  God mein Asghar-e-Maasum ko bhi laaye the
+  Baba kal khwaab meiṅ tum paas mere aaye the
+  God meiṅ Asghar-e-Maasum ko bhi laaye the
   Bhaai Akbar chacha Abbas yahi baithe the
   Baari baari gale lipta ke mujhe rote the
-  Jaane kab dekhuṅ gi kunba main dobaara
+  Jaane kab dekhuṅ gi kunba maiṅ dobaara
   Ae jaan-e-Sakina kahaaṅ ho kahaaṅ ho
   Baba tum paas nahiṅ chacha Abbas nahiṅ
   Baba tum paas nahiṅ koi bhi aas nahiṅ aas nahiṅ
@@ -59,7 +59,7 @@ romanLyrics: |-
   4
   Ek din baba ka sar baali Sakina ko mila
   Ashk baar aankhoṅ se baba ne Sakina se kaha
-  Haae kis haal mein tum hum se mili ho beta
+  Haae kis haal meiṅ tum hum se mili ho beta
   Ab wo sina hi nahiṅ jis pe sulaaye baba
   Apna sar rakh de mere sar pe Sakina
   Charaagh-e-zindaaṅ khamoshe em shab

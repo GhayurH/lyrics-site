@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Shehr-e-aza-e-Lucknow
-  Hai sog mein duba hua
+  Hai sog meiṅ duba hua
   Jis roz se Sheh ka hua
 
   1
@@ -31,8 +31,8 @@ romanLyrics: |-
   Pehle se tu achchha hua Shehr-e-aza-e-Lucknow
 
   4
-  Dekha gaya jo Shaam mein us ghamzada manzar ke baad
-  Jo Shaam mein barpa hui us majlis-e-Sarwar ke baad
+  Dekha gaya jo Shaam meiṅ us ghamzada manzar ke baad
+  Jo Shaam meiṅ barpa hui us majlis-e-Sarwar ke baad
   Mohkam aza khaana hua Shehr-e-aza-e-Lucknow
 
   5
@@ -51,8 +51,8 @@ romanLyrics: |-
   Mehwar yuṅ is gham ka hua Shehr-e-aza-e-Lucknow
 
   8
-  Shehr-e-aza jab se bana us roz se dunya mein tu
-  Hum ne nahiṅ sab ne kaha us roz se dunya mein tu
+  Shehr-e-aza jab se bana us roz se dunya meiṅ tu
+  Hum ne nahiṅ sab ne kaha us roz se dunya meiṅ tu
   Har aaṅkh ka taara hua Shehr-e-aza-e-Lucknow
 
   9
@@ -62,7 +62,7 @@ romanLyrics: |-
 
   10
   Manzar yahaaṅ ka koi bhi hargiz bhul sakta nahiṅ
-  Taarif ke alfaaz wo dil mein chhupa sakta nahiṅ
+  Taarif ke alfaaz wo dil meiṅ chhupa sakta nahiṅ
   Jis ka bhi hai dekha hua Shehr-e-aza-e-Lucknow
 
   11
@@ -86,19 +86,19 @@ romanLyrics: |-
   Charcha wahaaṅ tera hua Shehr-e-aza-e-Lucknow
 
   15
-  Har ek sadi mein Shaam se farsh-e-aza bichhta raha
+  Har ek sadi meiṅ Shaam se farsh-e-aza bichhta raha
   Phir maatam-e-Sarwar yahaaṅ hota raha barhta raha
   Hai ye mera parkha hua Shehr-e-aza-e-Lucknow
 
   16
-  Dunya mein ek Bhaarat hai jo bhaaya Shah-e-mazlum ko
+  Dunya meiṅ ek Bhaarat hai jo bhaaya Shah-e-mazlum ko
   Auroṅ se tu achchha nazar aaya Shah-e-mazlum ko
   Patthar se tab hira hua Shehr-e-aza-e-Lucknow
 
   17
   Ik baar jo Shabbir ne apna kaha Yawar to bas
   Shabbir ke ansaar ne apna liya Yawar to bas
-  Is mulk mein aala hua Shehr-e-aza-e-Lucknow
+  Is mulk meiṅ aala hua Shehr-e-aza-e-Lucknow
 # source_id: nohayonline:5f6d0c8003a4f9e1c631
 # source_url: https://www.nohayonline.com/details_content.php?id=2267
 # raw_sha256: 6c6bbdabe941a64af822a54f3cdda9bbc4a6f5169ab2b43f159ec6dee2ba0991

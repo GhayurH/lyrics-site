@@ -13,52 +13,52 @@ published: true
 romanLyrics: |-
   Zainab ne khutba diya darbar hilne laga
   Khutbaat ki tegh se ye keh ke hamla kiya
-  Zainab huṅ main mera baaba Ali meri maaṅ Sayyeda
+  Zainab huṅ maiṅ mera baaba Ali meri maaṅ Sayyeda
 
   Ae Shaamiyoṅ ghaur se tum suno aaj khutba mera
-  Zainab huṅ main mera baaba Ali meri maaṅ Sayyeda
+  Zainab huṅ maiṅ mera baaba Ali meri maaṅ Sayyeda
 
   1
   Ye na samjho ke majbur o laachaar huṅ
   Azm-e-Shabbir Haider ki talwaar huṅ
-  Marzi-e-Rab se gham mein giraftaar huṅ
-  Baad-e-Abbas main hi alamdaar huṅ
+  Marzi-e-Rab se gham meiṅ giraftaar huṅ
+  Baad-e-Abbas maiṅ hi alamdaar huṅ
   Pehchaan lo sun ke lehja mera kaun huṅ ba Khuda
 
   2
   Jaan jaao ge tum mera naam o nasab
   Jis ne paaya hai Sher-e-Khuda ka laqab
-  Us ki beti huṅ main jaante haiṅ ye sab
+  Us ki beti huṅ maiṅ jaante haiṅ ye sab
   Aaj dekhoge tum mera ghaiz o ghazab
-  Main Shaam ko jit kar jaauṅgi azm hai ye mera
+  Maiṅ Shaam ko jit kar jaauṅgi azm hai ye mera
 
   3
-  Meri rag rag mein hai khun-e-Khaibar shikan
+  Meri rag rag meiṅ hai khun-e-Khaibar shikan
   Kya mujhe qaid kar paayegi ye rasan
-  Sher jaise baraadar ki huṅ main bahan
+  Sher jaise baraadar ki huṅ maiṅ bahan
   Kaanp jaayeṅge lehje se kiuṅ ho daman
-  Waada wafa main karuṅgi yahaaṅ bhai Shabbir ka
+  Waada wafa maiṅ karuṅgi yahaaṅ bhai Shabbir ka
 
   4
   Ibn-e-Marjaan jaisa najis aadmi
   Ye samajhta hai fath use mil gayi
   Qatl ho kar bhi zinda hai mera akhi
   Hai diloṅ par hukumat mere bhai ki
-  Baad az Husain ban gayi main Husain ye rajaz hai mera
+  Baad az Husain ban gayi maiṅ Husain ye rajaz hai mera
 
   5
-  Dekhna kaam aisa main kar jaauṅgi
+  Dekhna kaam aisa maiṅ kar jaauṅgi
   Hogi is shehr par bhi hukumat meri
   Hogi majlis yahaaṅ par mere bhai ki
-  Main mita duṅgi zehnoṅ se yuṅ tiragi
-  Hoga wohi main ne jo keh diya ye hai daawa mera
+  Maiṅ mita duṅgi zehnoṅ se yuṅ tiragi
+  Hoga wohi maiṅ ne jo keh diya ye hai daawa mera
 
   6
   Mere khutboṅ se gunjeṅgi ye waadiyaaṅ
   Lehja-e-Haideri hoga sab pe ayaaṅ
   Yuṅ gira duṅgi khutbaat ki bijliyaaṅ
   Ab ye aiwaan-e-zulmat raheṅge kahaaṅ
-  Reh jaayega is faza mein asar meri aawaaz ka
+  Reh jaayega is faza meiṅ asar meri aawaaz ka
 
   7
   Shaam waaloṅ suno baat meri mazid
@@ -70,16 +70,16 @@ romanLyrics: |-
   8
   Tum kahaaṅ aur Zehra ki beti kahaaṅ
   Rok paayeṅgi kya mujh ko ye sakhtiyaaṅ
-  Tor daaluṅgi main saari paabandiyaaṅ
+  Tor daaluṅgi maiṅ saari paabandiyaaṅ
   Jitni chaahe bhi pehna do tum beriyaaṅ
   Jaana nahiṅ tum ne shaayad mujhe sun lo ahl-e-jafa
 
   9
   Bint-e-Haider ka Safdar ye aelaan tha
-  Apne bhai se main ne jo waada kiya
+  Apne bhai se maiṅ ne jo waada kiya
   Sun lo ahl-e-jafa sun lo ahl-e-jafa
   Jaan de kar karuṅgi wo waada wafa
-  Muztar huṅ main aur qaidi bhi huṅ phir bhi hai hausla
+  Muztar huṅ maiṅ aur qaidi bhi huṅ phir bhi hai hausla
 # source_id: nohayonline:3c9073025929e73988b9
 # source_url: https://www.nohayonline.com/details_content.php?id=901
 # raw_sha256: 08ab1110565114efe2b6e2c304f776540d509bd588d71d8cd3171983b59443ff

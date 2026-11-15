@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ae aasmaaṅ ae aasmaaṅ
+  Ae aasmaan ae aasmaan
 
   1
   Tu ne bhi dekha wo samaaṅ
@@ -40,7 +40,7 @@ romanLyrics: |-
   Sunte hi sab tharra gaye
   Muṅh ko kaleje aa gaye
   Jab khun se tar ho gayi
-  Be shir ki sukhi zabaaṅ
+  Beshir ki sukhi zabaaṅ
 
   6
   Ye bekasi maqtal meiṅ thi

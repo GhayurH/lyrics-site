@@ -1,6 +1,6 @@
 ---
 title: "بر سرِ منبرِ پالان غدیرِ خم میں"
-alternateTitle: "Bar Sar-e-Mimbar-e-Palaan Ghadeer-e-Khum Mein"
+alternateTitle: "Bar Sar-e-Mimbar-e-Palaan Ghadir-e-Khum Meiṅ"
 recitationId: "ghadeer-e-khum-mein-iftekhar-haider"
 language: Urdu
 lang: ur
@@ -12,28 +12,28 @@ aliases: ["ghadeer-e-khum-mein-iftekhar-haider"]
 published: true
 romanLyrics: |-
   1
-  Bar sar-e-mimbar-e-palaan Ghadeer-e-Khum mein
-  Kis bulandi pe hai insaan Ghadeer-e-Khum mein
+  Bar sar-e-mimbar-e-palaan Ghadir-e-Khum meiṅ
+  Kis bulandi pe hai insaan Ghadir-e-Khum meiṅ
 
   2
   Log chehroṅ pe naye chehre saja lete haiṅ
-  Aur phir hoti hai pehchaan Ghadeer-e-Khum mein
+  Aur phir hoti hai pehchaan Ghadir-e-Khum meiṅ
 
   3
-  Is mein bas aik hi aayat ki jagah khaali thi
-  Lo mukammal hua Quraan Ghadeer-e-Khum mein
+  Is meiṅ bas aik hi aayat ki jagah khaali thi
+  Lo mukammal hua Quraan Ghadir-e-Khum meiṅ
 
   4
   Haaṅ tujhe aur bhi tehwaar nazar aate haiṅ
-  Aur rehta hai mera dhyaan Ghadeer-e-Khum mein
+  Aur rehta hai mera dhyaan Ghadir-e-Khum meiṅ
 
   5
-  Ik ajab rup ajab rang mein dekhe gaye the
-  Qanbar o Buzar o Salman Ghadeer-e-Khum mein
+  Ik ajab rup ajab rang meiṅ dekhe gaye the
+  Qanbar o Buzar o Salman Ghadir-e-Khum meiṅ
 
   6
   Maanne waala Ali ka huṅ ye daawa hai tera
-  Maanne waala hai tu maan Ghadeer-e-Khum mein
+  Maanne waala hai tu maan Ghadir-e-Khum meiṅ
 # source_id: tajpoints:b24cc2d9fe5880cc991b
 # source_url: https://tajpoints.com/2023/07/ghadeer-e-khum-mein-iftekhar-haider.html
 # raw_sha256: 519acb8c51d8499d412dd1dd13458491913604c5a4761d707134263c42bd26d6

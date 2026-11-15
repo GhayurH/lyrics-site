@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Karbala ae Karbala
 
-  Likh de meri taqdir mein bainul haramain Maula Husain
+  Likh de meri taqdir meiṅ bainul haramain Maula Husain
   Ae baadshah-e-Karbala Maula Husain Maula Husain
 
   1
@@ -21,11 +21,11 @@ romanLyrics: |-
   Ab to mujhe didaar ho dil hai bechain Maula Husain
 
   2
-  Main nauhakhwaan main maatami karbobala hai zindagi
+  Maiṅ nauhakhwaan maiṅ maatami karbobala hai zindagi
   Sun lo meri aawaaz ko Zehra ke chain Maula Husain
 
   3
-  Sab ho ke aaye karbobala main reh gaya tanha yahaaṅ
+  Sab ho ke aaye karbobala maiṅ reh gaya tanha yahaaṅ
   Didaar ko bas aap ke tarse hai nain Maula Husain
 
   4

@@ -37,7 +37,7 @@ romanLyrics: |-
   Alamdar Alamdar Alamdar
 
   5
-  Ammaaṅ ki main sunti huṅ sadaaeṅ
+  Ammaaṅ ki maiṅ sunti huṅ sadaaeṅ
   Leti haiṅ balaaeṅ tujhe deti hai duaaeṅ
   Tujh sa nahiṅ duniya meiṅ wafaadaar
   Alamdar Alamdar Alamdar

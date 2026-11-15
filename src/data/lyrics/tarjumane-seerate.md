@@ -21,17 +21,17 @@ romanLyrics: |-
 
   2
   Rehnumaa-e-ahl-e-taslim o raza Shabbir the
-  Khun ke darya mein beshak naakhuda Shabbir the
-  Aag ke darya mein lekin naakhuda Zainab hui
+  Khun ke darya meiṅ beshak naakhuda Shabbir the
+  Aag ke darya meiṅ lekin naakhuda Zainab hui
 
   3
   Dida-e-ahl-e-sitam par ek parda aa gaya
-  Tirgi mein baal bikhraaye andhera chhaa gaya
+  Tirgi meiṅ baal bikhraaye andhera chhaa gaya
   Mundhli suraj ne aankheṅ berida Zainab hui
 
   4
-  Khutba Kufe mein diya bandhwaadi ashkoṅ ki jhari
-  Aur yuṅ hi Shaam ke darbaar mein majlis parhi
+  Khutba Kufe meiṅ diya bandhwaadi ashkoṅ ki jhari
+  Aur yuṅ hi Shaam ke darbaar meiṅ majlis parhi
   Haq to ye hai baani-e-rasm-e-aza Zainab hui
 
   5
@@ -41,13 +41,13 @@ romanLyrics: |-
 
   6
   Bhet di kis khush dili se apne donoṅ laal ki
-  Is jahaaṅ mein maadaraana sabr o istiqlaal ki
+  Is jahaaṅ meiṅ maadaraana sabr o istiqlaal ki
   Ibtida ki Hajira ne intiha Zainab hui
 
   7
   Jis tarah Shah khwaab-e-Paighambar ki tafsir-e-jalil
   Jis tarah Abbas armaan-e-Ali yuṅ hi Jamil
-  Paikar-e-khaaki mein Zehra ki dua Zainab hui
+  Paikar-e-khaaki meiṅ Zehra ki dua Zainab hui
 # source_id: nohayonline:105c9dd962e6cbc75090
 # source_url: https://www.nohayonline.com/details_content.php?id=1162
 # raw_sha256: 37ce4ff7ee579a0320b0edf3dfa31694304624f2d65981879f7275c6ce707ffb

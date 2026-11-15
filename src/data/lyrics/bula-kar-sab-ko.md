@@ -14,7 +14,7 @@ romanLyrics: |-
   Hameṅ darkaar hai thori si jaa ae Karbala waloṅ
 
   1
-  Iraada hai isi jangal mein apna ghar basaaye ham
+  Iraada hai isi jangal meiṅ apna ghar basaaye ham
   Na ho taa hashr ab tum se juda ae Karbala waloṅ
 
   2
@@ -30,7 +30,7 @@ romanLyrics: |-
   Mere naamus hoṅge berida ae Karbala waloṅ
 
   5
-  Main chhup jaauṅga gar ek ek mutthi khaak daaloge
+  Maiṅ chhup jaauṅga gar ek ek mutthi khaak daaloge
   Yunhi ban jaayega marqad mera ae Karbala waloṅ
 
   6

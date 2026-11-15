@@ -16,40 +16,40 @@ romanLyrics: |-
 
   1
   Kalma goyo Muhammad ke shaami
-  Kya main mehmaan aaya nahiṅ huṅ
-  Kya main Zehra ka jaaya nahiṅ huṅ
+  Kya maiṅ mehmaan aaya nahiṅ huṅ
+  Kya maiṅ Zehra ka jaaya nahiṅ huṅ
 
   2
   Mera baba hai mushkil kusha
   Meri maadar bhi haiṅ Sayyida
   Mera beta hai zain-ul-aba
-  Mere nana ka kalma padha
+  Mere nana ka kalma parha
   Jis ke saaye ko tum dhundte ho
-  Kya main us ka hi saaya nahiṅ huṅ
+  Kya maiṅ us ka hi saaya nahiṅ huṅ
 
   3
   Tum ne maktub likhe kai
   Aaiye jald Ibn-e-Ali
   Din ki roshni kam hui
   Shama-e-Islam bujhne lagi
-  Tum ne chaaha tha main aa gaya huṅ
+  Tum ne chaaha tha maiṅ aa gaya huṅ
   Khud Madine se aaya nahiṅ huṅ
 
   4
-  Dastaras mein meri kya nahiṅ
+  Dastaras meiṅ meri kya nahiṅ
   Ilm taqwa shujaat yaqiṅ
   Mere pairoṅ ke niche zamiṅ
   Jis pe rakheiṅ farishte jabiṅ
-  Main hi sardaar-e-ahl-e-jinaaṅ huṅ
+  Maiṅ hi sardaar-e-ahl-e-jinaaṅ huṅ
   Koi tuta sitaara nahiṅ huṅ
 
   5
   Meri gardan pe khanjar chale
-  Aag lagti hai ghar mein lage
+  Aag lagti hai ghar meiṅ lage
   Bint-e-Zehra ki chaadar chhine
   Haath duṅ ga na apna tujhe
   Haath mera ye dast-e-khuda hai
-  Main to munkir khuda ka nahiṅ huṅ
+  Maiṅ to munkir khuda ka nahiṅ huṅ
 
   6
   Saath Zehra ki haiṅ betiyaaṅ
@@ -57,14 +57,14 @@ romanLyrics: |-
   Pyaas ki dhup ki sakhtiyaaṅ
   Sab ke chehre hue haiṅ dhuaaṅ
   Betiyaaṅ Fatima ki haiṅ pyaasi
-  Sirf ik main hi pyaasa nahiṅ huṅ
+  Sirf ik maiṅ hi pyaasa nahiṅ huṅ
 
   7
   Hukm Abbas ko duṅ ga agar
   Nahr le aaye wo chhin kar
   Karbala ho gi zer o zabar
   Laasheiṅ taireiṅ gi har mauj par
-  Main nahiṅ chaahta jang karna
+  Maiṅ nahiṅ chaahta jang karna
   Fauj larne ko laaya nahiṅ huṅ
 
   8

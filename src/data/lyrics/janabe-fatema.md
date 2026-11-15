@@ -11,10 +11,10 @@ tags: []
 aliases: ["Janabe Fatema"]
 published: true
 romanLyrics: |-
-  Khari hai masjid-e-Nabawi mein ho kar
+  Khari hai masjid-e-Nabawi meiṅ ho kar
   Bekas o muztar Janab-e-Fatima Zahra
 
-  Main Zehra huṅ mujhe pehchaano
+  Maiṅ Zehra huṅ mujhe pehchaano
   Ye kehti hai wo ro ro kar
   Janab-e-Fatima Zahra
 
@@ -41,13 +41,13 @@ romanLyrics: |-
 
   4
   Masaaib mujh pe jo tute dinoṅ par
-  Wo agar parte to din raatoṅ mein dhal jaate
+  Wo agar parte to din raatoṅ meiṅ dhal jaate
   Mujhe tum paas bulwa lo
   Yehi kehti hai ro ro kar
   Janab-e-Fatima Zahra
 
   5
-  Shikasta pasliyoṅ ke zakhm mein
+  Shikasta pasliyoṅ ke zakhm meiṅ
   Wo dard barhta tha magar poshida hi rakha
   Namaazeiṅ parh rahi thi rakh ke
   Daayaaṅ haath pehlu par
@@ -63,12 +63,12 @@ romanLyrics: |-
   7
   Shab-e-rukhsat hai waqt-e-aakhri hai
   Dam ukharta hai ke sab kunba bichharta hai
-  Utha taariki-e-shab mein
+  Utha taariki-e-shab meiṅ
   Janaaza haaye ye keh kar
   Janab-e-Fatima Zahra
 
   8
-  Hai Bibi ki aza ke din main huṅ
+  Hai Bibi ki aza ke din maiṅ huṅ
   Qalb-e-tapaaṅ Majid ho kaise shaadmaaṅ Majid
   Bas ek nauha ho lab par
   Haaye Zahra bint-e-Paighambar

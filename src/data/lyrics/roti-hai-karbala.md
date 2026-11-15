@@ -21,7 +21,7 @@ romanLyrics: |-
   2
   Bhai ki laash pe hue ghore idhar udhar
   Dekha ba-chashm-e-tar
-  Aankhoṅ mein ek behan ki ye manzar thehar gaya
+  Aankhoṅ meiṅ ek behan ki ye manzar thehar gaya
   Roti hai Karbala roti hai Karbala
 
   3
@@ -31,21 +31,21 @@ romanLyrics: |-
   Roti hai Karbala roti hai Karbala
 
   4
-  Sehra ki khaak ho hi chuki hai lahu mein tar
+  Sehra ki khaak ho hi chuki hai lahu meiṅ tar
   Hai kat chuke jigar
   Wo ho chuka jo aaj talak na kahiṅ hua
   Roti hai Karbala roti hai Karbala
 
   5
   Baaqi abhi hai raah ki saari qayaamateṅ
-  Mushkil mein hurmateṅ
+  Mushkil meiṅ hurmateṅ
   Solah sau mil faasla baazaar-e-Shaam ka
   Roti hai Karbala roti hai Karbala
 
   6
-  Armaan ek maaṅ ke to dil mein hi reh gaye
+  Armaan ek maaṅ ke to dil meiṅ hi reh gaye
   Bas aansu beh gaye
-  Maqtal mein naujawaan ka sehra bikhar gaya
+  Maqtal meiṅ naujawaan ka sehra bikhar gaya
   Roti hai Karbala roti hai Karbala
 
   7
@@ -69,7 +69,7 @@ romanLyrics: |-
   10
   Shabbir ka ye ahsan o Abid pe hai karam
   Bakhsha nisaab-e-gham
-  Majlis mein jo ye gunjegi aawaaz jaa baja
+  Majlis meiṅ jo ye gunjegi aawaaz jaa baja
   Roti hai Karbala roti hai Karbala
 # source_id: nohayonline:70f79eedb91dbfbc4217
 # source_url: https://www.nohayonline.com/details_content.php?id=1485

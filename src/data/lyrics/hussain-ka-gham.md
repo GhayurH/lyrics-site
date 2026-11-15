@@ -20,7 +20,7 @@ romanLyrics: |-
   1
   Yehi to hai intezaar-e-Mehdi
   Sadaa-e-hal min ka hai ye matlab
-  Wafaa-e-Abbas mein bano tum
+  Wafaa-e-Abbas meiṅ bano tum
   Muhaafizaan-e-mazaar-e-Zainab
   Wafa ka parcham uthaane waaloṅ
   Husain tum ko bula rahe haiṅ
@@ -34,7 +34,7 @@ romanLyrics: |-
   Husain tum ko bula rahe haiṅ
 
   3
-  Jo Khaibar-e-waqt mein laroge
+  Jo Khaibar-e-waqt meiṅ laroge
   To Karbala se na hogi duri
   Jahaaṅ bhi mazlum pis rahe haiṅ
   Wahaaṅ pe imdaad hai zaruri
@@ -45,7 +45,7 @@ romanLyrics: |-
   Yehi to maqsud-e-Karbala hai
   Ke imtehaan-e-wafa yehi hai
   Hai mil chuke tum ko sab wasaael
-  Magar iraade mein kuch kami hai
+  Magar iraade meiṅ kuch kami hai
   Ziyaaratoṅ pe na jaane waaloṅ
   Husain tum ko bula rahe haiṅ
 
@@ -76,13 +76,13 @@ romanLyrics: |-
   8
   Namaaz ko chhor dene waaloṅ
   Imam ka saamna karoge
-  Amal ke baare mein kya kahoge
+  Amal ke baare meiṅ kya kahoge
   Husain ko kya jawaab doge
   Ghina ki mehfil sajaane waaloṅ
   Husain tum ko bula rahe haiṅ
 
   9
-  Ghira hua hai jo lashkaroṅ mein
+  Ghira hua hai jo lashkaroṅ meiṅ
   Imam-e-dauraaṅ bula raha hai
   Suna hai jab se ye istighaasa
   Saghir jhule se gir gaya hai
@@ -90,11 +90,11 @@ romanLyrics: |-
   Husain tum ko bula rahe haiṅ
 
   10
-  Muaashre mein madad karo tum
+  Muaashre meiṅ madad karo tum
   Yatim mazlum mar raha hai
   Qamar basirat ki aaṅkh kholo
   Yahiṅ kahiṅ par hi Karbala hai
-  Julus o majlis mein jaane waaloṅ
+  Julus o majlis meiṅ jaane waaloṅ
   Husain tum ko bula rahe haiṅ
 # source_id: nohayonline:fd8f0736409d4d0f0104
 # source_url: https://www.nohayonline.com/details_content.php?id=3071

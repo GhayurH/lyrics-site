@@ -16,7 +16,7 @@ romanLyrics: |-
   Din-e-Muhammad ko tu ne bachaaya
   Zindagi saath tere bandagi saath tere
   Karbobala ne ye sikhaaya
-  Main haq ke saath kahuṅ
+  Maiṅ haq ke saath kahuṅ
   Bas yehi baat kahuṅ
   Teri wila hai sarmaaya
 
@@ -26,8 +26,8 @@ romanLyrics: |-
   1
   Din-e-Khuda ka manshur tu hai
   Rasm-e-wafa ka dastur tu hai
-  Uncha jahaaṅ mein tera alam hai
-  Kaun o makaaṅ mein tu mohtaram hai
+  Uncha jahaaṅ meiṅ tera alam hai
+  Kaun o makaaṅ meiṅ tu mohtaram hai
   Lab pe dua rahe Yabnaz Zahra Husain
   Teri adaalat hai Yabnaz Zahra Husain
 
@@ -52,7 +52,7 @@ romanLyrics: |-
   Ahl-e-sitam se paikaar Maula
   Ghair ke laaye saare sitamgar
   Jit gaya tu haare sitamgar
-  Gunji ban mein azaaṅ Yabnaz Zahra Husain
+  Gunji ban meiṅ azaaṅ Yabnaz Zahra Husain
   Pursa kari kahaaṅ Yabnaz Zahra Husain
 
   5
@@ -85,7 +85,7 @@ romanLyrics: |-
   Waada ye tujh se karte haiṅ ro kar
   Farsh-e-aza par Safdar o Mazhar
   Ghaafil na hoṅ ge teri aza se
-  Dil ko sukun hai aah o buka se
+  Dil ko sukuṅ hai aah o buka se
   Tujh se waabastagi Yabnaz Zahra Husain
   Ho saari zindagi Yabnaz Zahra Husain
 

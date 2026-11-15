@@ -32,10 +32,10 @@ romanLyrics: |-
   Muhammad ka pyaasa nawaasa hai ye
   Paani pilaao sabileiṅ lagaao
 
-  Log ab majlis-e-Shabbir mein laate haiṅ ise
+  Log ab majlis-e-Shabbir meiṅ laate haiṅ ise
   Sadqa Shabbir ka pyaasoṅ ko pilaate haiṅ ise
   Maatami Shaah ke aankhoṅ se lagaate haiṅ ise
-  Jab azaadaar sabiloṅ mein sajaate haiṅ ise
+  Jab azaadaar sabiloṅ meiṅ sajaate haiṅ ise
   Zakhm-e-jaaṅ saare hi sine ke liye aate haiṅ
   Ambiya bhi ise pine ke liye aate haiṅ
 
@@ -46,7 +46,7 @@ romanLyrics: |-
 
   5
   Hathkari aur beriyaaṅ haiṅ bas gham-e-Shah ki asaas
-  Asl mein ehraam-e-gham hai tan pe ye kaala libaas
+  Asl meiṅ ehraam-e-gham hai tan pe ye kaala libaas
   Karbala jaate hue hamraah ye ehraam lo
 
   6
@@ -66,7 +66,7 @@ romanLyrics: |-
   Farhan o Mazhar Abidi sar pit kar kaho
   Ae rone waaloṅ ro ke qayaamat bapa karo
 
-  Islaam mein hai hukm zabiha jo koi ho
+  Islaam meiṅ hai hukm zabiha jo koi ho
   Pyaasa ho ya na ho use paani zarur do
   Lekin ye kaisa zulm hai ae mominoṅ suno
   Pyaasa kiya zibh Nabi ke nawaase ko

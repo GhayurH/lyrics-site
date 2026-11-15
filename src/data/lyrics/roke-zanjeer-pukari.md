@@ -1,6 +1,6 @@
 ---
 title: "روکے زنجیر پکاری کہ یہ کیسا ہے سفر"
-alternateTitle: "Roke Zanjeer Pukari"
+alternateTitle: "Roke Zanjir Pukari"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -23,13 +23,13 @@ romanLyrics: |-
   Phir Sajjad ko saaye se utha dete haiṅ
   Aankh lag jaaye to zanjir hila dete haiṅ
   Kahiṅ ruk jaaye to durroṅ se saza dete haiṅ
-  Bimaar hua jaata hai sab khun mein tar
+  Bimaar hua jaata hai sab khun meiṅ tar
 
   3
   Bunta hi raha gham ke wo taane baane
   Aayi Sajjad ko maqtal ki hawa batlaane
   Ab sukuṅ paauṅ kahaaṅ jaa ke Khuda hi jaane
-  Kaise hogi meri Sughra ko Madine mein khabar
+  Kaise hogi meri Sughra ko Madine meiṅ khabar
 
   4
   Naatwaani ka ye aalam hai ke chalna hai muhaal
@@ -44,10 +44,10 @@ romanLyrics: |-
   Aur agar rok de hat jaaye zamiṅ ka mehwar
 
   6
-  Qaid khaane mein Sakina ne bhi dam tor diya
+  Qaid khaane meiṅ Sakina ne bhi dam tor diya
   Apna rishta Shaah-e-mazlum se bhi jor liya
   Ashk baatil ki hawaaoṅ ka bhi rukh mor diya
-  Haaye zindaaṅ mein gayi jaan se wo ghut ghut kar
+  Haaye zindaaṅ meiṅ gayi jaaṅ se wo ghut ghut kar
 # source_id: nohayonline:e08e9a0436467eedffd9
 # source_url: https://www.nohayonline.com/details_content.php?id=1692
 # raw_sha256: ab8bd2f493c330d598db5cd59015a44dc00cbfc6ee536d54f3462a4286ef459a

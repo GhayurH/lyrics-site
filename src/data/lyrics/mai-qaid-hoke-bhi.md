@@ -1,6 +1,6 @@
 ---
 title: "میں قید ہو کے بھی گھر کربلا سے جاؤں گی"
-alternateTitle: "Main Qaid Ho Ke Bhi"
+alternateTitle: "Maiṅ Qaid Ho Ke Bhi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Main qaid ho ke bhi ghar Karbala se jaauṅ gi
+  Maiṅ qaid ho ke bhi ghar Karbala se jaauṅ gi
   Yazidiyat ki imaarat gira ke aauṅ gi
 
   1
@@ -32,27 +32,27 @@ romanLyrics: |-
   4
   Jinhoṅ ne ae mere bhaiya tujhe kafan na diya
   Jinhoṅ ne chhini ae bhai mere sar se rida
-  Main un ke rukh se naqaaboṅ ko hataauṅ gi
+  Maiṅ un ke rukh se naqaaboṅ ko hataauṅ gi
 
   5
-  Mita ke chhoruṅ gi bhaiya main tere qaatil ko
+  Mita ke chhoruṅ gi bhaiya maiṅ tere qaatil ko
   Har ik mahaaz pe hogi shikast baatil ko
   Har ek mahaaz pe tera alam lagaauṅ gi
 
   6
   Pukaari dekh ke maqtal ki simt Bint-e-Ali
-  Salaam le mere bhai main su-e-Shaam chali
-  Main waapas aauṅ gi aur Ghazi ban ke aauṅ gi
+  Salaam le mere bhai maiṅ su-e-Shaam chali
+  Maiṅ waapas aauṅ gi aur Ghazi ban ke aauṅ gi
 
   7
-  Main ahl-e-zulm ka jina haraam kar duṅ gi
+  Maiṅ ahl-e-zulm ka jina haraam kar duṅ gi
   Jahaaṅ se upri jo qismat tamaam kar duṅ gi
-  Jo waada tu ne kiya tha wo main nibhaauṅ gi
+  Jo waada tu ne kiya tha wo maiṅ nibhaauṅ gi
 
   8
   Chali ye kehte hue Karbala se wo Gohar
   Khitaab mere padar ka hai Faateh-e-Khaibar
-  Jo aaj main ne kaha hai wo kar dikhaauṅ gi
+  Jo aaj maiṅ ne kaha hai wo kar dikhaauṅ gi
 # source_id: nohayonline:60ccadad4f1f2524b4a0
 # source_url: https://www.nohayonline.com/details_content.php?id=2340
 # raw_sha256: 563928316f0fdd5fde3ce785f2deb265643ed7b503dae490288a689a8406247d

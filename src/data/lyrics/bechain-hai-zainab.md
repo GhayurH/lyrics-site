@@ -16,7 +16,7 @@ romanLyrics: |-
   Mere laal tu laut ke aa ja
 
   1
-  Pardes ki is ghurbat mein
+  Pardes ki is ghurbat meiṅ
   Ham jaaeṅ kahaaṅ batla ja
 
   2
@@ -38,10 +38,10 @@ romanLyrics: |-
   Ek baar tu waapas aa ja
 
   5
-  Zanjir mein jakra hai kunba
+  Zanjir meiṅ jakra hai kunba
   Sar naize par hai tera
   Aaṅkhoṅ se lahu barsaauṅ
-  Main kab tak ye batla ja
+  Maiṅ kab tak ye batla ja
 
   6
   Teri yaadeṅ haiṅ aur Zainab hai
@@ -51,7 +51,7 @@ romanLyrics: |-
 
   7
   Rehaan fughaaṅ thi Zainab ki
-  Ye Shaam ke bazaaroṅ mein
+  Ye Shaam ke bazaaroṅ meiṅ
   Dukhyaari phuphi kehti hai
   Akbar mere Akbar aa ja
 # source_id: nohayonline:0a504d31cc6061abe396

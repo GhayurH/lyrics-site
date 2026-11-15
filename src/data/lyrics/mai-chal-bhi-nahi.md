@@ -13,23 +13,23 @@ published: true
 romanLyrics: |-
   Haaye Sajjad, haaye bimaar
 
-  Main chal bhi nahiṅ sakta qaidi huṅ main ammaṅ
+  Maiṅ chal bhi nahiṅ sakta qaidi huṅ maiṅ ammaṅ
 
   Baazaar-e-Shaam jab aaya Sajjad ka dil ghabraaya
   Ro ro ke phuphi se apni bimaar ne ye farmaaya
 
   Aankhoṅ se lahu meri ek pal bhi nahiṅ rukta
-  Main chal bhi nahiṅ sakta qaidi huṅ main ammaṅ
+  Maiṅ chal bhi nahiṅ sakta qaidi huṅ maiṅ ammaṅ
 
   1
   Ye khuṅ jo bahta hai is aankh ka maatam hai
   Mujhe tauq aur beri ke gham se bhi sawa gham hai
-  Maaṅ bahneṅ phuphi aayi baazaar mein beparda
+  Maaṅ bahneṅ phuphi aayi baazaar meiṅ beparda
 
   2
   Bas mere kaleje pe us waqt qaza utri
   Naamus-e-Muhammad ki jis waqt rida utri
-  Baazaar mein aaya hai zindaaṅ ye mera laasha
+  Baazaar meiṅ aaya hai zindaaṅ ye mera laasha
 
   3
   Tathir ke parda daar ummat ne phiraaye haiṅ
@@ -44,7 +44,7 @@ romanLyrics: |-
   5
   Laachaar bahan meri sahme hue rahti thi
   Maasum Sakina ye har mor pe kahti thi
-  Kya dafn hue hoṅge Karbal mein mere baba
+  Kya dafn hue hoṅge Karbal meiṅ mere baba
 
   6
   Abbas ko mahshar tak ye dard rulaaye ga
@@ -57,7 +57,7 @@ romanLyrics: |-
   Is husn ke paikar ki ab tak hai maaṅ zinda
 
   8
-  Maaṅ bahneṅ khule sar hai raahoṅ mein tamaashaai
+  Maaṅ bahneṅ khule sar hai raahoṅ meiṅ tamaashaai
   Aulaad-e-Muhammad ko taqdir kahaaṅ laayi
   Paaband-e-salaasil huṅ kaaṅtoṅ se bhara rasta
 

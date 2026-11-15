@@ -24,7 +24,7 @@ romanLyrics: |-
 
   2
   Jahaaṅ se faasla darbaar ka tha chand qadmoṅ ka
-  Kayi ghantoṅ mein guzri hai
+  Kayi ghantoṅ meiṅ guzri hai
   Wahaaṅ se meri shehzaadi
   Qayaamat aur kya ho gi
 
@@ -48,7 +48,7 @@ romanLyrics: |-
 
   6
   Na uth sakta tha aur na baith sakta tha mera Kaazim
-  Ruku mein chaudah barsoṅ tak
+  Ruku meiṅ chaudah barsoṅ tak
   Raha Baghdad ka qaidi
   Qayaamat aur kya ho gi
 
@@ -61,7 +61,7 @@ romanLyrics: |-
   8
   Kate baazu liye Abbas ke aayeṅ gi khud Zahra
   Mere mazlum ki majlis
-  Takallum hashr mein ho gi
+  Takallum hashr meiṅ ho gi
   Qayaamat aur kya ho gi
 # source_id: nohayonline:55fbe35d02ad6af4e65b
 # source_url: https://www.nohayonline.com/details_content.php?id=478

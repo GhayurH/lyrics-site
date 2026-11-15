@@ -11,53 +11,53 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Aakhri lori hai meri jaan kar bejaan huṅ main
-  Ae Khuda Taala na mujh ko aazmana maaṅ huṅ main
+  Aakhri lori hai meri jaan kar bejaan huṅ maiṅ
+  Ae Khuda Taala na mujh ko aazmana maaṅ huṅ maiṅ
 
   1
   Nanhe nanhe haath aur pyase laboṅ ko chum kar
-  Main kaha karti thi Asghar ab agar jaauṅ ghar
-  Main parhuṅ gi teri surat tu kare Quran huṅ main
+  Maiṅ kaha karti thi Asghar ab agar jaauṅ ghar
+  Maiṅ parhuṅ gi teri surat tu kare Quran huṅ maiṅ
 
   2
   Putliyaaṅ aankhoṅ ki meri tujh se le kar roshni
   Itni roshan ho gayi ke bhik maange chaandni
-  Ae mere mahtaab aaja muztar o giryaaṅ huṅ main
+  Ae mere mahtaab aaja muztar o giryaaṅ huṅ maiṅ
 
   3
   Aakhri shab hai sahar is shab ki kya dikhlaye rang
   Hai munajaat-e-Khuda yaaṅ us taraf tayyar jang
-  Tu larega kis tarah aada se yuṅ hairaan huṅ main
+  Tu larega kis tarah aada se yuṅ hairaan huṅ maiṅ
 
   4
   Nusrat-e-Shabbir to karna hai tum ko bhi magar
   Muskurahat tere lab par aur udhar tir o tabar
-  Tujh pe ae nanhe mujahid is liye qurbaaṅ huṅ main
+  Tujh pe ae nanhe mujahid is liye qurbaaṅ huṅ maiṅ
 
   5
   Saari maaeṅ apni qurbani kareṅ gi pesh kal
-  Chaahti huṅ tu idhar maidaaṅ mein aise nikal
-  Taake main bhi keh sakuṅ ek Askari ki maaṅ huṅ main
+  Chaahti huṅ tu idhar maidaaṅ meiṅ aise nikal
+  Taake maiṅ bhi keh sakuṅ ek Askari ki maaṅ huṅ maiṅ
 
   6
   Dhyaan bas itna rahe bahr-e-viraaṅ jaate hue
   Chand qatre paani pi lena jo qismat se mile
-  Ek teri tashna dahani se bohat bejaaṅ huṅ main
+  Ek teri tashna dahani se bohat bejaaṅ huṅ maiṅ
 
   7
   Subh se aaghaz hoga tir ki barsaat ka
   Khuṅ fishaaṅ chehra nazar aane laga hai raat ka
-  Tiroṅ se bach kar raho karti dua har aan huṅ main
+  Tiroṅ se bach kar raho karti dua har aan huṅ maiṅ
 
   8
   Maaṅ dua karti rahi Rehan jhule ke qarib
   Laaj rakhiyo maadar-e-Asghar ki Rabbul Aalamin
-  Meri qurbani hai Asghar be sar o saamaaṅ huṅ main
+  Meri qurbani hai Asghar besar o saamaaṅ huṅ maiṅ
 
   9
   Guftagu maadar ki sunkar bezuban kehne laga
-  Kaise so jaauṅ main ke sona hai zamin-e-garm par
-  Main to so jaauṅ ga khaa kar tir kal maidan mein
+  Kaise so jaauṅ maiṅ ke sona hai zamin-e-garm par
+  Maiṅ to so jaauṅ ga khaa kar tir kal maidan meiṅ
   Haaṅ magar tum so nahiṅ paao gi ammaṅ umr bhar
 # source_id: nohayonline:3fd74faec5543907385d
 # source_url: https://www.nohayonline.com/details_content.php?id=3188

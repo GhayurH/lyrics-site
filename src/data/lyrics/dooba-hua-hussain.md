@@ -10,28 +10,28 @@ tags: []
 aliases: ["Dooba Hua Hussain"]
 published: true
 romanLyrics: |-
-  Duba hua Husain ka laasha lahu mein hai
-  Ya Mustafa ke qalb ka tukra lahu mein hai
+  Duba hua Husain ka laasha lahu meiṅ hai
+  Ya Mustafa ke qalb ka tukra lahu meiṅ hai
 
   1
   Kiuṅ bekhata pe zulm kiya tu ne Hurmula
-  Nanha sa chaand Baano ka duba lahu mein hai
+  Nanha sa chaand Baano ka duba lahu meiṅ hai
 
   2
   Abbas-e-naamdaar ke baazu qalam hue
-  Paani mein khuṅ hai mashk-e-Sakina lahu mein hai
+  Paani meiṅ khuṅ hai mashk-e-Sakina lahu meiṅ hai
 
   3
   Fawwaara khuṅ ka jaari hai Akbar ke sine se
-  Is waqt Mustafa ka saraapa lahu mein hai
+  Is waqt Mustafa ka saraapa lahu meiṅ hai
 
   4
   Farwa ye boli dekh ke Qaasim ki laash ko
-  Hai chaand sa ye dulha nahaaya lahu mein hai
+  Hai chaand sa ye dulha nahaaya lahu meiṅ hai
 
   5
   Aal-e-Nabi ke khuṅ se nahaaya hai is tarah
-  Har aslaha lainoṅ ka duba lahu mein hai
+  Har aslaha lainoṅ ka duba lahu meiṅ hai
 # source_id: nohayonline:edb87867a79695706195
 # source_url: https://www.nohayonline.com/details_content.php?id=1975
 # raw_sha256: 4f5a2eafac11ba8cbf0699919cecca39095d3d44d66358da3a677b797bab90f2

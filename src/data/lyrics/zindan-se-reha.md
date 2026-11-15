@@ -17,7 +17,7 @@ romanLyrics: |-
 
   1
   Ye kaisi rihaai hai ke dil khush nahiṅ hota
-  Kya reh gaya zindan mein ke har qaidi hai rota
+  Kya reh gaya zindan meiṅ ke har qaidi hai rota
   Haa apni Sakina se juda hote haiṅ saadaat
   Allah mere Allah
 
@@ -28,7 +28,7 @@ romanLyrics: |-
   Allah mere Allah
 
   3
-  Zainab ne kaha qaid mein hai mera khazaana
+  Zainab ne kaha qaid meiṅ hai mera khazaana
   Ae auratoṅ jab shaam dhale is taraf aana
   Turbat pe Sakina ki bhi aaye janaana
   Allah mere Allah
@@ -53,7 +53,7 @@ romanLyrics: |-
 
   7
   Ye qaafila jab Karb o Bala laut ke aaya
-  Dekha ke para dhup mein hai bhai ka laasha
+  Dekha ke para dhup meiṅ hai bhai ka laasha
   Zainab ne sar-e-khaak-e-bala khud ko giraaya
   Allah mere Allah
 
@@ -64,7 +64,7 @@ romanLyrics: |-
   Allah mere Allah
 
   9
-  Galiyoṅ mein Madine ki ajab shor bapa hai
+  Galiyoṅ meiṅ Madine ki ajab shor bapa hai
   Sughra se abhi aa ke kisi ne ye kaha hai
   Aa Sughra tera Baba watan laut raha hai
   Allah mere Allah

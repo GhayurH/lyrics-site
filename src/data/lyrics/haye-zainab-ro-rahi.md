@@ -34,20 +34,20 @@ romanLyrics: |-
 
   5
   Kaise guzregi rasan basta sar-e-maqtal behan
-  Bekafan bhai hai ran mein berida khaamosh hai
+  Bekafan bhai hai ran meiṅ berida khaamosh hai
 
   6
   Ab koi rota hi nahiṅ ashkoṅ ka darya beh gaya
-  Sirf rone ke liye Zainab hai raah-e-Shaam mein
+  Sirf rone ke liye Zainab hai raah-e-Shaam meiṅ
   Taaziyaane maarte haiṅ ashqiya Sajjad ko
-  Koi bhi insaan nahiṅ baaqi sipaah-e-Shaam mein
+  Koi bhi insaan nahiṅ baaqi sipaah-e-Shaam meiṅ
 
   7
   Ro chuki Zainab bhare ghar ko sar-e-Karb o Bala
   Karbala se Shaam tak saari faza khaamosh hai
 
   8
-  Hai qalam ki nok mein aansu gham-e-Shabbir ke
+  Hai qalam ki nok meiṅ aansu gham-e-Shabbir ke
   Arsh pe Rehaan Shah-e-Ambiya khaamosh hai
 # source_id: nohayonline:b40d46ac71ada33f2bca
 # source_url: https://www.nohayonline.com/details_content.php?id=593

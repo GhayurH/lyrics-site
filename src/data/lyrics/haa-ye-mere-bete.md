@@ -12,7 +12,7 @@ aliases: ["Haa Ye Mere Bete"]
 published: true
 romanLyrics: |-
   Sher hue do waarid-e-lashkar
-  Maqtal mein barpa tha mahshar
+  Maqtal meiṅ barpa tha mahshar
   Fakhr se apne sar ko utha kar
   Kehti thi Abbas ki khwaahar
   Haaṅ ye mere bete haiṅ
@@ -29,9 +29,9 @@ romanLyrics: |-
   Maamu par jaan dete haiṅ
 
   2
-  Main ne inheiṅ taakid ye ki thi
+  Maiṅ ne inheiṅ taakid ye ki thi
   Darya par mat jaana tum
-  Maqtal mein pyaase hi rehna
+  Maqtal meiṅ pyaase hi rehna
   Sabr-e-Ali dikhlaana tum
   Waqt-e-wagha ye bint-e-Asad ki
   God ke paale lagte hai
@@ -45,8 +45,8 @@ romanLyrics: |-
   Fakhr se kehte rehte hai
 
   4
-  Ghar jaana hai khun mein naha ke
-  Pahuncha jab khaimoṅ mein laashe
+  Ghar jaana hai khun meiṅ naha ke
+  Pahuncha jab khaimoṅ meiṅ laashe
   Khushk zabaaṅ ko dekh ke ammaaṅ
   Keh de hai shahzaade pyaase
   Hukm-e-maadar maanne waale
@@ -54,7 +54,7 @@ romanLyrics: |-
 
   5
   Aun o Muhammad kya ye hasrat
-  Puri hui zindaaṅ mein jaa kar
+  Puri hui zindaaṅ meiṅ jaa kar
   Jab waqt aazaadi aaya
   Nok-e-sinaaṅ se utre jab sar
   Boli Zainab pit ke sar ko

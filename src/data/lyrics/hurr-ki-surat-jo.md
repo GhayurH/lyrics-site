@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Hurr ki surat jo samajh mein kahiṅ aa jaaye Husain
+  Hurr ki surat jo samajh meiṅ kahiṅ aa jaaye Husain
   Ek ik saans sada dene lage haaye Husain
 
   1
@@ -19,7 +19,7 @@ romanLyrics: |-
   Aap hi pusht se jab tak na utar jaaye Husain
 
   2
-  Maut bhi aayi to qadmon se uthi le ke hayaat
+  Maut bhi aayi to qadmoṅ se uthi le ke hayaat
   Ban gayi khaak-e-shifa khaak-e-kaf-e-paaye Husain
 
   3
@@ -27,7 +27,7 @@ romanLyrics: |-
   Bakhshta jaaye Khuda kehta agar jaaye Husain
 
   4
-  Chhor kar aa gaye kiuṅ ran mein Ali Asghar ko
+  Chhor kar aa gaye kiuṅ ran meiṅ Ali Asghar ko
   Kis tarah Banu-e-dilgir ko samjhaaye Husain
 
   5
@@ -39,7 +39,7 @@ romanLyrics: |-
   Bekafan dekh ke tujh ko mere maaṅ jaaye Husain
 
   7
-  Rakh ke sar sajda-e-mabud mein Sarwar ne kaha
+  Rakh ke sar sajda-e-mabud meiṅ Sarwar ne kaha
   Jo hai manshaa-e-ilaahi hai wo manshaa-e-Husain
 
   8

@@ -22,7 +22,7 @@ romanLyrics: |-
   2
   Na Aun o Muhammad haiṅ na Qaasim hai na Ghaazi
   Kya aayi tabaahi
-  Ghar lut gaya pardes mein saara Ali Akbar
+  Ghar lut gaya pardes meiṅ saara Ali Akbar
 
   3
   Ummat ke liye tum ne lutaayi ye jawaani

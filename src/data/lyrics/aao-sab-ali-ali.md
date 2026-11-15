@@ -46,7 +46,7 @@ romanLyrics: |-
   5
   Wasila-e-nijat hai shuur-e-diniyat hai
   Khuda ke saath hai Ali Khuda Ali ke saath hai
-  Khuda Khuda Ali Ali sada jo harf mein dhali
+  Khuda Khuda Ali Ali sada jo harf meiṅ dhali
   Alam Nabi ne de diya Khuda ne bheji Zulfiqar
 
   6
@@ -63,21 +63,21 @@ romanLyrics: |-
 
   8
   Alam shadid hai bahut abhi Yazid hai bahut
-  Kiye Yazid-e-asr ne jawaṅ shahid haiṅ bahut
+  Kiye Yazid-e-asr ne jawaaṅ shahid haiṅ bahut
   Utho utho chalo chalo alam Ali ka thaam lo
   Mita do khaak meiṅ chalo Yazidiyoṅ ka iqtidar
 
   9
   Asir ghamzada haram jigar ke khuṅ se aankh nam
   Qadam qadam pe sakhtiyaṅ qadam qadam naye sitam
-  Lahu lahu dil o jigar bada ajeeb tha safar
+  Lahu lahu dil o jigar bara ajib tha safar
   The aable jo paaoṅ meiṅ to aabloṅ meiṅ laakh khaar
 
   10
   Ali ki saari zindagi munafiqat ki maut thi
   Samajh meiṅ jis ki aa gaya Ali ka tarz-e-zindagi
   Nafas nafas qadam qadam Ali ke ishq ki qasam
-  Imam-e-Asr ka usay Rehan hoga intezar
+  Imam-e-Asr ka use Rehan hoga intezar
 # source_id: nohayonline:4e2a680355e369ac3f76
 # source_url: https://www.nohayonline.com/details_content.php?id=2585
 # raw_sha256: 2fd1ab4565f560d559dc52de56ca7dcc116e748bf96e85167b6f66d49c2e7fc6

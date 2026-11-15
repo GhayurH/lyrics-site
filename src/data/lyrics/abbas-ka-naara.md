@@ -20,8 +20,8 @@ romanLyrics: |-
   Abbas ka naara hai Alamdar ka naara
 
   1
-  Main Haider-e-Karrar ke saaye mein pala huṅ
-  Main Fatema Zehra ki duaoṅ ka sila huṅ
+  Maiṅ Haider-e-Karrar ke saaye meiṅ pala huṅ
+  Maiṅ Fatema Zehra ki duaoṅ ka sila huṅ
   Abbas mera naam Alamdar-e-wafa huṅ
   Ye naam o nasab hai meri qismat ka sitara
 
@@ -33,9 +33,9 @@ romanLyrics: |-
 
   3
   Sahil pe jo ye fauj ke daste haiṅ tumhare
-  Ik aan mein paiwand-e-zamiṅ ho abhi saare
-  Darya ulat aaye abhi qadmoṅ mein hamare
-  Ek hashr bapa kar duṅ main kar duṅ jo ishara
+  Ik aan meiṅ paiwand-e-zamiṅ ho abhi saare
+  Darya ulat aaye abhi qadmoṅ meiṅ hamare
+  Ek hashr bapa kar duṅ maiṅ kar duṅ jo ishara
 
   4
   Khat bhej ke tum ne jinheṅ Yasrab se bulaya

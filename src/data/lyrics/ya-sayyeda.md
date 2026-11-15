@@ -26,7 +26,7 @@ romanLyrics: |-
   Zindagi hai teri masaaib ka sahifa Bibi
 
   2
-  Is saari kaainaat mein Zahra hi aisi maaṅ hai
+  Is saari kaainaat meiṅ Zahra hi aisi maaṅ hai
   Saaya fagan usi pe zakhmoṅ ka aasmaaṅ hai
   Tori gayi hai zulm se Bibi ki pasliyaaṅ
   Rukhsaar pe tamaache ka Bibi pe ek nishaan hai
@@ -47,7 +47,7 @@ romanLyrics: |-
   5
   Baad-e-wisaal-e-Zahra bhi gham ka safar raha hai
   Us ki misaal Shaam hai Kufa hai Karbala hai
-  Zahra ke bete betiyaaṅ khuṅ mein nahaa gaye
+  Zahra ke bete betiyaaṅ khuṅ meiṅ nahaa gaye
   Neze pe koi sar koi sar berida hua hai
 
   6
@@ -58,12 +58,12 @@ romanLyrics: |-
 
   7
   Is maaṅ ne saath Shaam ka paidal safar kiya hai
-  Zainab ko raah-e-Shaam mein wo hausla diya hai
+  Zainab ko raah-e-Shaam meiṅ wo hausla diya hai
   Ro kar pukaari saath hai Zainab ye teri maaṅ
   Tu berida nahiṅ hai ye Zahra ka sar khula hai
 
   8
-  Darbaar-e-Shaam mein gayi Zainab jo berida thi
+  Darbaar-e-Shaam meiṅ gayi Zainab jo berida thi
   Beti ke saath roti hui ammaaṅ Sayyeda thi
   Kehti thi teri aur meri taqdir ek hai
   Tujh par ghamoṅ ki had hui mujh par bhi inteha thi
@@ -71,9 +71,9 @@ romanLyrics: |-
 
   9
   Rehaan Azmi ye Hasnain ki jo maaṅ hai
-  Maqtal mein Karbala ke karti hui fughaaṅ hai
+  Maqtal meiṅ Karbala ke karti hui fughaaṅ hai
   Bikhre haiṅ baal dard se chehra nidhaal hai
-  Gham se zaeef ho gayi aaṅkhoṅ se khuṅ rawaaṅ hai
+  Gham se zaif ho gayi aaṅkhoṅ se khuṅ rawaaṅ hai
   Sayyeda Fatima Tahera Sayyeda
 # source_id: nohayonline:4bf8bf22fa3b33ba10a0
 # source_url: https://www.nohayonline.com/details_content.php?id=3303

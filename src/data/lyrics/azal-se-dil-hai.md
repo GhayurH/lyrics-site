@@ -19,7 +19,7 @@ romanLyrics: |-
   Hasan Husain sa zewar hai Fatema ke liye
 
   2
-  Bada jigar tha tera ae Rasul ki beti
+  Bara jigar tha tera ae Rasul ki beti
   Pisar Husain sa paala tha Karbala ke liye
 
   3

@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Tu Fatema Zehra ki duaoṅ ka sila hai
-  Saqqai ka mansab tujhe virse mein mila hai
+  Saqqai ka mansab tujhe virse meiṅ mila hai
   Pyasoṅ ke wafadar alam uncha hai tera
 
   2
@@ -27,21 +27,21 @@ romanLyrics: |-
   3
   Deta hai marizoṅ ko shifa aaj bhi tu hi
   Mayus diloṅ ki hai sada aaj bhi tu hi
-  Hai dil mein tera pyaar alam uncha hai tera
+  Hai dil meiṅ tera pyaar alam uncha hai tera
 
   4
   Shabbir ke rauze se sada aati hai paiham
-  Dekhuṅ main jidhar bhi nazar aaye tere parcham
+  Dekhuṅ maiṅ jidhar bhi nazar aaye tere parcham
   Ae fauj ke salar alam uncha hai tera
 
   5
-  Jo Shaam-e-Ghariban mein alamdar bani thi
+  Jo Shaam-e-Gharibaṅ meiṅ alamdar bani thi
   Kehti hai alam dekh ke tera wohi Bibi
   Parde ke nigehdar alam uncha hai tera
 
   6
-  Safdar jo julusoṅ mein alam maine uthaya
-  Mazhar ki tarah naara yehi maine lagaya
+  Safdar jo julusoṅ meiṅ alam maiṅ ne uthaya
+  Mazhar ki tarah naara yehi maiṅ ne lagaya
   Ae Sayyed o Sardar alam uncha hai tera
 # source_id: nohayonline:012a78b1dc4785e91346
 # source_url: https://www.nohayonline.com/details_content.php?id=3741

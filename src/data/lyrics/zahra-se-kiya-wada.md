@@ -17,7 +17,7 @@ romanLyrics: |-
   Har mor pe Zainab ko bachaati rahi Fizza
 
   1
-  Jo Saani-e-Zehra ko bachaane mein lage the
+  Jo Saani-e-Zehra ko bachaane meiṅ lage the
   Sajjaad se woh zakhm chhupaati rahi Fizza
 
   2

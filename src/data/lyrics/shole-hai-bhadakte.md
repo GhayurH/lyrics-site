@@ -31,9 +31,9 @@ romanLyrics: |-
 
   3
   Barchhi ki ani par hai abhi tak dil-e-Akbar
-  Aur baap ki aaghosh mein kumhla gaye Asghar
+  Aur baap ki aaghosh meiṅ kumhla gaye Asghar
   Shabbir ki gardan pe chala Shimr ka khanjar
-  Ab Aabid-e-bimaar bhi sholoṅ mein ghira hai
+  Ab Aabid-e-bimaar bhi sholoṅ meiṅ ghira hai
 
   4
   Jalti hui reti pe pare haiṅ tan-e-besar
@@ -44,7 +44,7 @@ romanLyrics: |-
   5
   Ab Aal-e-Muhammad pe qayaamat ki ghari hai
   Kya waaris-e-tathir pe uftaad pari hai
-  Ye Dukhtar-e-Zehra hai jo balwe mein khari hai
+  Ye Dukhtar-e-Zehra hai jo balwe meiṅ khari hai
   Bimaar sambhalta nahiṅ kore haiṅ baraste
 # source_id: nohayonline:37d6c7b56d326e328701
 # source_url: https://www.nohayonline.com/details_content.php?id=2969

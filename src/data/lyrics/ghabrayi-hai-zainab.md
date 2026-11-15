@@ -14,24 +14,24 @@ romanLyrics: |-
   Labrez hai gham se har Bibi ka sina
 
   1
-  Ik saal guzaara hai zindaan-e-sitam mein
-  Din baaqi guzaare gi Zainab isi gham mein
-  Maqtal mein hai Asghar zindaaṅ mein Sakina
+  Ik saal guzaara hai zindaan-e-sitam meiṅ
+  Din baaqi guzaare gi Zainab isi gham meiṅ
+  Maqtal meiṅ hai Asghar zindaaṅ meiṅ Sakina
 
   2
   Ae ahl-e-Madina tu khaamosh hi rehna
   Zainab se khudaara tu ik lafz na kehna
-  Jo saaṅsein bachi haiṅ kho de gi hazina
+  Jo saaṅseiṅ bachi haiṅ kho de gi hazina
 
   3
   Ye soch ke roti hai bimaar hai Sughra
-  Har fard ke baare mein ab puchhe gi dukhiya
+  Har fard ke baare meiṅ ab puchhe gi dukhiya
   Aisa na ho sun ke mar jaaye hazina
 
   4
   Har baat bata duṅ gi jab puchhe gi Sughra
   Baaloṅ ki safedi ka batlaauṅ sabab kya
-  Tha is se to behtar zindaan mein jina
+  Tha is se to behtar zindaan meiṅ jina
 
   5
   Jab pursa mujhe deṅ ge sab log watan ke
@@ -44,17 +44,17 @@ romanLyrics: |-
   Peshaani-e-Sajjad aur surkh pasina
 
   7
-  Hujroṅ mein jo jaauṅ gi main Aun o Muhammad ke
+  Hujroṅ meiṅ jo jaauṅ gi maiṅ Aun o Muhammad ke
   Is dil ko rulaayeṅ ge bachchoṅ ke khilone
   Dil shiddat-e-gham se phat jaaye kahiṅ na
 
   8
-  Sab kuchh to luta aayi pardes mein Zainab
+  Sab kuchh to luta aayi pardes meiṅ Zainab
   Mazluma musaafir ye kya ji ke kare ab
   Bin bhaai ke ab to dushwaar hai jina
 
   9
-  Zainab ke khayaaloṅ mein aawaaz ye aayi
+  Zainab ke khayaaloṅ meiṅ aawaaz ye aayi
   Mahmil se utar kar jab Fizza ne sada di
   Dil thaam lo Bibi lo aaya Madina
 

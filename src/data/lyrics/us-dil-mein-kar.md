@@ -1,6 +1,6 @@
 ---
 title: "اُس دل میں کر تلاش نہ ہر گز وفا کے پھول"
-alternateTitle: "Us Dil Mein Kar"
+alternateTitle: "Us Dil Meiṅ Kar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,12 +10,12 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Us dil mein kar talaash na hargiz wafa ke phul
-  Khilte nahiṅ haiṅ jis mein Ali ki wila ke phul
+  Us dil meiṅ kar talaash na hargiz wafa ke phul
+  Khilte nahiṅ haiṅ jis meiṅ Ali ki wila ke phul
 
   1
-  Dhar aaye shauq-e-did mein jannat ke gulistaaṅ
-  Mehke jo meri qabr mein khaak-e-shifa ke phul
+  Dhar aaye shauq-e-did meiṅ jannat ke gulistaaṅ
+  Mehke jo meri qabr meiṅ khaak-e-shifa ke phul
 
   2
   Dast-e-Khuda ne yuṅ dar-e-Khaibar utha liya
@@ -26,20 +26,20 @@ romanLyrics: |-
   Dehshat se haath paaoṅ gaye ashqiya ke phul
 
   4
-  Abbas ne kata diye nusrat mein donoṅ haath
+  Abbas ne kata diye nusrat meiṅ donoṅ haath
   Mehke lab-e-Furaat Ali ki dua ke phul
 
   5
   Akbar sa gul badan Ali Asghar sa gul ada
-  Likhe the ye nasib mein Karb o Bala ke phul
+  Likhe the ye nasib meiṅ Karb o Bala ke phul
 
   6
   Saara chaman Rasul ka barbaad ho gaya
   Tapti hui zamin hai aur Sayyeda ke phul
 
   7
-  Ae maskan-e-Husain main huṅ zaakir-e-Husain
-  Mujh ko bhi kar le khaak mein apni basaa ke phul
+  Ae maskan-e-Husain maiṅ huṅ zaakir-e-Husain
+  Mujh ko bhi kar le khaak meiṅ apni basaa ke phul
 # source_id: nohayonline:5efc0a9b1f806482b00c
 # source_url: https://www.nohayonline.com/details_content.php?id=158
 # raw_sha256: 6cc5a3ce70ac9bdaf509515966383737a77c8d617b55ff1d7f6dbd66be00ed32

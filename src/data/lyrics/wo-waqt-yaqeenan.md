@@ -14,20 +14,20 @@ romanLyrics: |-
   Woh waqt yaqinan aayega
 
   Kabhi Ae haqiqat-e-muntazar
-  Nazar aa libaas-e-majaaz mein
+  Nazar aa libaas-e-majaaz meiṅ
   Keh hazaaroṅ sajde tarap rahe haiṅ
-  Meri jabin-e-niyaaz mein
+  Meri jabin-e-niyaaz meiṅ
 
   Woh waqt yaqinan aayega
 
   1
-  Jab hujjat-e-daur ke haathoṅ mein
+  Jab hujjat-e-daur ke haathoṅ meiṅ
   Ghaazi ka alam lehraayega
   Woh waqt yaqinan aayega
 
   2
   Jis din Sajjad ke ashkoṅ ki taadaad bataai jaayegi
-  Aur un ashkoṅ ke badle mein talwaar chalaai jaayegi
+  Aur un ashkoṅ ke badle meiṅ talwaar chalaai jaayegi
   Us sar se jism juda hoga talwaar se jo takraayega
 
   3
@@ -47,17 +47,17 @@ romanLyrics: |-
 
   6
   Baaghi ki beti jis ne bhi chhoti Bibi ko bola tha
-  Naamus-e-Nabi ko raahoṅ mein durroṅ se jis ne maara tha
-  Un sab ko bana kar qaidi woh baazaar-e-Shaam mein laayega
+  Naamus-e-Nabi ko raahoṅ meiṅ durroṅ se jis ne maara tha
+  Un sab ko bana kar qaidi woh baazaar-e-Shaam meiṅ laayega
 
   7
-  Phir Ahl-e-Bait Madine mein aabaad kareṅge ghar apna
+  Phir Ahl-e-Bait Madine meiṅ aabaad kareṅge ghar apna
   Aur leṅge Bani Haashim mil kar kuchh parda daaroṅ ka badla
   Abbas ki chup bhi tutegi beshir bhi tegh uthaayega
 
   8
   Gohar mulkoṅ ki sarhad se insaan taqsim nahiṅ hoga
-  Naam nihaad mazaahib mein Quraan taqsim nahiṅ hoga
+  Naam nihaad mazaahib meiṅ Quraan taqsim nahiṅ hoga
   Woh aadil saari duniya ko ek adl ka shehr banaayega
 # source_id: nohayonline:c6638ca1ba91fd99af77
 # source_url: https://www.nohayonline.com/details_content.php?id=2598

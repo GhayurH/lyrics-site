@@ -18,16 +18,16 @@ romanLyrics: |-
   Ab aur maaṅ ka na tum imtihaan lo Bibi
 
   1
-  Main ro chuki huṅ bahut aur tum na rulwaao
+  Maiṅ ro chuki huṅ bahut aur tum na rulwaao
   Gharib khasta jigar ko na aise tarpaao
   Na zid karo mere sine se aa ke lag jaao
   Khuda ke waaste meri sada suno Bibi
 
   2
   Likhe gaye haiṅ rihaai ke ab to parwaane
-  Rasan gale mein nahiṅ ho gaye riha shaane
+  Rasan gale meiṅ nahiṅ ho gaye riha shaane
   Qafas se ho gaye aazaad lo qafas waale
-  Khuli hawaaoṅ mein ab tum bhi saaṅs lo Bibi
+  Khuli hawaaoṅ meiṅ ab tum bhi saaṅs lo Bibi
 
   3
   Nehr se ammu sada de rahe haiṅ aa jaao

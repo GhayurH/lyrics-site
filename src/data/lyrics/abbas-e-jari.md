@@ -1,6 +1,6 @@
 ---
 title: "اے فاتح خیبر کے بیٹے"
-alternateTitle: "Abbas E Jari"
+alternateTitle: "Abbas Ae Jari"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,18 +12,18 @@ aliases: []
 published: true
 romanLyrics: |-
   Ae Fateh-e-Khaibar ke bete
-  Ae sher-e-jawaṅ Abbas Jari
+  Ae sher-e-jawaaṅ Abbas Jari
   Karti hai tumhari turbat par
   Zainab ye fughaṅ Abbas Jari
 
   1
   Hum ghairat-e-Haider shaan-e-Ali
   Puchho to behan par kya guzri
-  Utho main dikhane aayi huṅ
+  Utho maiṅ dikhane aayi huṅ
   Bazu ke nishaṅ Abbas Jari
 
   2
-  Di maine sada bhaiya tum ko
+  Di maiṅ ne sada bhaiya tum ko
   Amma ne pukara tha tum ko
   Jab pyase gale par Sarwar ke
   Khanjar tha ravaṅ Abbas Jari
@@ -31,8 +31,8 @@ romanLyrics: |-
   3
   Shabbir ne tum ko yaad kiya
   Hasrat se su-e-sahil dekha
-  Piri mein uthai bekas ne
-  Jab laash-e-jawaṅ Abbas Jari
+  Piri meiṅ uthai bekas ne
+  Jab laash-e-jawaaṅ Abbas Jari
 
   4
   Jab Shaam-e-Gharibaṅ khaime jale
@@ -43,25 +43,25 @@ romanLyrics: |-
   5
   Shabbir ke dil par kya guzri
   Kuchh tum ko khabar iski na hui
-  Tuti mere Akbar ke dil mein
+  Tuti mere Akbar ke dil meiṅ
   Jab nok-e-sinaṅ Abbas Jari
 
   6
   Bemaqna o chadar Aal-e-Nabi
-  Bazar mein darbaroṅ mein gayiṅ
+  Bazar meiṅ darbaroṅ meiṅ gayiṅ
   Har lamha tumheṅ deti thi sada
   Ashkoṅ ki zabaṅ Abbas Jari
 
   7
   Tum naaz uthate the jis ke
-  Hum qaid mein usko chhor aaye
+  Hum qaid meiṅ usko chhor aaye
   Ta hashr tumhari pyari ka
   Zindaṅ hai makaṅ Abbas Jari
 
   8
   Ae sher-e-dilawar kya ho bayaṅ
   Phatta hai jigar rukti hai zabaṅ
-  Pamaal hua tanha ran mein
+  Pamaal hua tanha ran meiṅ
   Zehra ka nishaṅ Abbas Jari
 
   9
@@ -74,7 +74,7 @@ romanLyrics: |-
   Jaaved tha ek mahshar barpa
   Ghazi ka larazta tha rauza
   Awaz jo deti thi Zainab
-  Ae sher-e-jawaṅ Abbas Jari
+  Ae sher-e-jawaaṅ Abbas Jari
 # source_id: nohayonline:bec6bfe765620db12a07
 # source_url: https://www.nohayonline.com/details_content.php?id=2171
 # raw_sha256: f4fc3576aedbe00e1cd63e63ca8a06df7cc5cb1ca6ef5f90361dd4629caf516b

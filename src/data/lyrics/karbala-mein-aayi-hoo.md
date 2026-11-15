@@ -1,6 +1,6 @@
 ---
 title: "میں چھٹ کے شام سے اب کربلا میں آئی ہوں"
-alternateTitle: "Karbala Mein Aayi Huṅ"
+alternateTitle: "Karbala Meiṅ Aayi Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,22 +11,22 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Main chhut ke Shaam se ab Karbala mein aayi huṅ
+  Maiṅ chhut ke Shaam se ab Karbala meiṅ aayi huṅ
   Tumhaari qabr pe ashkoṅ ka tohfa laayi huṅ
 
   1
-  Tumhaari thi jo amaanat main us ko laa na saki
-  Use tamaanchoṅ ki zahmat se main bacha na saki
-  Main us ki qaid mein turbat bana ke aayi huṅ
+  Tumhaari thi jo amaanat maiṅ us ko laa na saki
+  Use tamaanchoṅ ki zahmat se maiṅ bacha na saki
+  Maiṅ us ki qaid meiṅ turbat bana ke aayi huṅ
 
   2
   Tumhaara kurta siya tha jo ammaṅ Zehra ne
   Wo jis ko lut liya waqt-e-asr aada ne
-  Main Shaam se wohi kurta bhi saath laayi huṅ
+  Maiṅ Shaam se wohi kurta bhi saath laayi huṅ
 
   3
   Lo aa gayi hai ye khwaahar utho utho bhaiya
-  Main aur chal nahiṅ sakti sahaara do bhaiya
+  Maiṅ aur chal nahiṅ sakti sahaara do bhaiya
   Rasul ki huṅ nawaasi falak sataayi huṅ
 
   4
@@ -37,11 +37,11 @@ romanLyrics: |-
   5
   Imaam-e-waqt ye maasum Aabid-e-bimaar
   Har ek gaam pe jis ne uthaaye haiṅ aazaar
-  Main jalte sholoṅ se us ko bacha ke laayi huṅ
+  Maiṅ jalte sholoṅ se us ko bacha ke laayi huṅ
 
   6
   Wo mere Aun o Muhammad wo Qaasim o Akbar
-  Main saath laayi huṅ in sab ke bhi kate hue sar
+  Maiṅ saath laayi huṅ in sab ke bhi kate hue sar
   Tumhaara sar bhi badan se milaane laayi huṅ
 
   7
@@ -52,7 +52,7 @@ romanLyrics: |-
   8
   Wo qabr-e-Shaah wo chehlum ka din wo Zainab-e-zaar
   Ye nauha gunj raha tha ae Majid o Mukhtar
-  Salaam karne shahidoṅ main tum ko aayi huṅ
+  Salaam karne shahidoṅ maiṅ tum ko aayi huṅ
 # source_id: nohayonline:bd67bf812aeb0b4eb8df
 # source_url: https://www.nohayonline.com/details_content.php?id=1432
 # raw_sha256: 4317fbb349dbd7b47ead7e71418ab11b3e4b689888d77047e8b89688f20b76ea

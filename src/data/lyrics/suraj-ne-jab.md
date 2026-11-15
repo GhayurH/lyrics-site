@@ -22,15 +22,15 @@ romanLyrics: |-
   Taarikh likh rahi thi ye rudaad khair o shar
   Daaman tha Karbala ka shahidoṅ ke khuṅ se tar
   Bikhra para tha khaak pe Quraaṅ idhar udhar
-  Kitne machal rahe the fizaaoṅ ki god mein
-  Bachche dihal ke chhup gaye maa'oṅ ki god mein
+  Kitne machal rahe the fizaaoṅ ki god meiṅ
+  Bachche dihal ke chhup gaye maa'oṅ ki god meiṅ
 
   2
-  Aise mein ek Rasul ki bemisl yaadgaar
+  Aise meiṅ ek Rasul ki bemisl yaadgaar
   Khaimoṅ ki aag jis ki gharibi se sharmsaar
-  Aabid ki justuju mein bahattar ki sogwaar
-  Jaati thi khaima gaah mein ghabra ke baar baar
-  Paaya jo ghash mein hujjat-e-Parwardigaar ko
+  Aabid ki justuju meiṅ bahattar ki sogwaar
+  Jaati thi khaima gaah meiṅ ghabra ke baar baar
+  Paaya jo ghash meiṅ hujjat-e-Parwardigaar ko
   Zainab utha ke laayi shariat ke baar ko
 
   3

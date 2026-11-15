@@ -1,6 +1,6 @@
 ---
 title: "افسوس نبی زادیوں کا شام میں جانا سجاد سے پوچھو"
-alternateTitle: "Afsos Nabi Zadiyon Ka Shaam Mein Jaana Sajjad Se Puchho"
+alternateTitle: "Afsos Nabi Zadiyoṅ Ka Shaam Meiṅ Jaana Sajjad Se Puchho"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,19 +11,19 @@ recitationId: "afsos-nabi-zadiyon-ka-sham-mein-jana-sajjad-se-pocho-mir-hasan-mi
 published: true
 reciter: "Mir Hasan Mir"
 romanLyrics: |-
-  Afsos Nabi zadiyoṅ ka Shaam mein jaana Sajjad se puchho
-  Sar nange wo maaoṅ behnoṅ ka darbar mein jaana Sajjad se puchho
+  Afsos Nabi zadiyoṅ ka Shaam meiṅ jaana Sajjad se puchho
+  Sar nange wo maaoṅ behnoṅ ka darbar meiṅ jaana Sajjad se puchho
 
   1
   Chhupti thi Nabi zadi Nabi zadi ke pichhe kis sharm o haya se
   Aur Shimr ka un Bibiyoṅ ke naam batana Sajjad se puchho
 
   2
-  Baithe hue darbar mein sab chhote bare the Sadaat khare the
-  Sar tasht mein rakha hua Zainab ko dikhana Sajjad se puchho
+  Baithe hue darbar meiṅ sab chhote bare the Sadaat khare the
+  Sar tasht meiṅ rakha hua Zainab ko dikhana Sajjad se puchho
 
   3
-  Jab Dukhtar-e-Shabbir ne zindan mein qaza ki aafat ki ghari thi
+  Jab Dukhtar-e-Shabbir ne zindaṅ meiṅ qaza ki aafat ki ghari thi
   Wo nanhi si maiyyat bandhe haathoṅ se uthana Sajjad se puchho
 
   4

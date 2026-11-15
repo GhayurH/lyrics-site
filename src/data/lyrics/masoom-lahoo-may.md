@@ -1,6 +1,6 @@
 ---
 title: "معصوم لہو میں ڈوبا ہوا"
-alternateTitle: "Masum Lahu Mein"
+alternateTitle: "Masum Lahu Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,7 +10,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Masum lahu mein duba hua
+  Masum lahu meiṅ duba hua
   Beshir ka laasha dekh na le
   Ye maut isi ka kharcha hai
   Maaṅ khaali jhula dekh na le
@@ -23,20 +23,20 @@ romanLyrics: |-
 
   2
   Haaye Abbas-e-Ali ki aamad par
-  Aapas mein ye faujeṅ kehti thi
+  Aapas meiṅ ye faujeṅ kehti thi
   Shabbir ka bhaai pyaasa hai
   Darya ka kanaara dekh na le
 
   3
   Haaye garmaaye hue suraj ki kiran
-  Aur god mein baaba ki Asghar
-  Ye phul aba ke saaye mein
+  Aur god meiṅ baaba ki Asghar
+  Ye phul aba ke saaye meiṅ
   Bedard zamaana dekh na le
 
   4
   Haaye jab qatl hue suraj duba
   Ghar Aal-e-Nabi ka luta hai
-  Aaghosh mein jalte khaimoṅ ki
+  Aaghosh meiṅ jalte khaimoṅ ki
   Maaṅ nanha sa jhula dekh na le
 # source_id: nohayonline:aa5bf5a8528cb7bf486f
 # source_url: https://www.nohayonline.com/details_content.php?id=1216

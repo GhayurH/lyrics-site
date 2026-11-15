@@ -40,13 +40,13 @@ romanLyrics: |-
   4
   Haye Bint-e-Mustafa ka ghar
   Aur hai hujum-e-ahl-e-shar
-  Zulm ho raha hai be qadar
+  Zulm ho raha hai beqadar
   Jal raha hai Fatema ka ghar
 
   5
   Dukhtar-e-Nabi pe kya sitam
   Kar gaya hai wo shaqi raqam
-  Ruh-e-Sayyeda hai khuṅ mein tar
+  Ruh-e-Sayyeda hai khuṅ meiṅ tar
   Jal raha hai Fatema ka ghar
 
   6
@@ -75,7 +75,7 @@ romanLyrics: |-
 
   10
   Baad aap ke ye kya hua
-  Pal mein ye jahaaṅ badal gaya
+  Pal meiṅ ye jahaaṅ badal gaya
   Dekhiye khudara ae pidar
   Jal raha hai Fatema ka ghar
 

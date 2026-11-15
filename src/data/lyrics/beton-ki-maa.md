@@ -46,7 +46,7 @@ romanLyrics: |-
 
   4
   Tarap kar Saani-e-Zehra pukaari
-  Main apne bhai pe sau baar waari
+  Maiṅ apne bhai pe sau baar waari
   Wohi to ek tha dhaaras hamaari
   Thi us ke dam se baaqi pardadaari
   Khudaara ab na ye kehna kabhi bhi
@@ -61,7 +61,7 @@ romanLyrics: |-
   Mera maara gaya Abbas-e-Ghazi
 
   6
-  Main Zainab berida hargiz na hoti
+  Maiṅ Zainab berida hargiz na hoti
   Kamar hoti na kham Ibn-e-Ali ki
   Na lagti sina-e-Akbar meiṅ barchhi
   Agar maara na jaata mera Ghazi
@@ -72,7 +72,7 @@ romanLyrics: |-
   Kaha Rab se hai ye faryaad meri
   Har ek maaṅ ko mile aulaad aisi
   Jawaani jis ne Aaqa pe fida ki
-  Bina tasdiq main kya kya na boli
+  Bina tasdiq maiṅ kya kya na boli
 
   8
   Liya pursa Raza Zainab se aise

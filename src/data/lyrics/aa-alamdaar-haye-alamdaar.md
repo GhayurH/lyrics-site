@@ -14,7 +14,7 @@ romanLyrics: |-
   Karte the ro ro ke ye hazrat bayaaṅ
   Tor gaye meri kamar bhai jaaṅ
 
-  Roti hai khaimoṅ mein Sakina wahaaṅ
+  Roti hai khaimoṅ meiṅ Sakina wahaaṅ
   Sote ho Abbas zamiṅ par yahaaṅ
 
   1
@@ -22,10 +22,10 @@ romanLyrics: |-
   Qabr banayega kaun, Sher-e-Jawaaṅ mar gaya
   Hum ko sambhalega kaun, Sher-e-Jawaaṅ mar gaya
 
-  Toro na ghurbat mein meri aas, utho
+  Toro na ghurbat meiṅ meri aas, utho
   Utho Husain aaye haiṅ Abbas utho
   Rota hai mazlum basad yaas, utho
-  Utho bas ab ghar mein chalo bhai jaaṅ
+  Utho bas ab ghar meiṅ chalo bhai jaaṅ
 
   2
   Kaun khabar le meri, Sher-e-Jawaaṅ mar gaya
@@ -48,9 +48,9 @@ romanLyrics: |-
   Kya hua afsos mera qadr daaṅ
 
   4
-  Dhum hai khaime mein waṅ, Sher-e-Jawaaṅ mar gaya
+  Dhum hai khaime meiṅ waṅ, Sher-e-Jawaaṅ mar gaya
   Karti hai Zainab fughaṅ, Sher-e-Jawaaṅ mar gaya
-  Kis se karuṅ main bayaaṅ, Sher-e-Jawaaṅ mar gaya
+  Kis se karuṅ maiṅ bayaaṅ, Sher-e-Jawaaṅ mar gaya
 
   Haath se khoya dil-e-ghamkhwar ko
   Paauṅ kahaaṅ apne alamdaar ko
@@ -65,7 +65,7 @@ romanLyrics: |-
   Maaṅ hai bani Haashim waala nahiṅ
   Bas mere mehru ka ujaala nahiṅ
   Haye mera chaahne waala nahiṅ
-  Nazroṅ mein taarik ha saara jahaaṅ
+  Nazroṅ meiṅ taarik ha saara jahaaṅ
 
   6
   Aankhoṅ ka taara mera, Sher-e-Jawaaṅ mar gaya

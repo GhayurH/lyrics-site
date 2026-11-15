@@ -21,16 +21,16 @@ romanLyrics: |-
   Ali aaye Allah Ali aaye Allah Ali aaye Allah Ali aaye
 
   1
-  Ali hai Wali hai ye Sher-e-Jali hai ye Kul-e-Iman hai Nabi ka Wasi hai
+  Ali hai Wali hai ye Sher-e-Jali hai ye Kul-e-Imaṅ hai Nabi ka Wasi hai
   Ghar se chali Ali ki maaṅ hai na Imran puchha ke jana kahaṅ hai
-  Yaqin tha zamiṅ par koi la makaaṅ hai Mariyam ko roka gaya kaha Rab ne mera ye ghar hai
+  Yaqiṅ tha zamiṅ par koi la makaaṅ hai Mariyam ko roka gaya kaha Rab ne mera ye ghar hai
   Quran ne kiya ye ayaṅ hai Haider Kabe ki jaan hai
 
   2
   Sajdoṅ ki sar zamiṅ ban gaya hai Kaba jhum kar Mustafa kaha Ali aaye
   Jo aasmaṅ ke rastoṅ ko zaminoṅ ke rastoṅ se behtar batae
   Jo asrar-e-Tauhid ban kar ho aaye koi baat in ko batae na shaan Ali ki chhupae
-  Mushkil mein wo Ali ko pukare har mushkil hal ho jae
+  Mushkil meiṅ wo Ali ko pukare har mushkil hal ho jae
 
   3
   Ghar hai wo Ali ka ghar hai jo Khuda ka uthi har taraf se sada Ali aaye

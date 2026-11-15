@@ -20,13 +20,13 @@ romanLyrics: |-
   Farq aap ka aur sinaan-e-Khuli
   Sar aap ka aur makaan-e-Khuli
   Aaluda-e-khaak wo rukh-e-paak
-  Zulfoṅ mein ghubaar wa Husaina
+  Zulfoṅ meiṅ ghubaar wa Husaina
 
   2
   Ae khusraw-e-ko shahir sad haif
   Ek tan tera laakhoṅ tir sad haif
   Ghoroṅ ke sumoṅ wo jism-e-sad chaak
-  Main tere nisaar wa Husaina
+  Maiṅ tere nisaar wa Husaina
 
   3
   Majruh o al-amaan wo sina
@@ -35,15 +35,15 @@ romanLyrics: |-
   Aur tegh ki dhaar wa Husaina
 
   4
-  Khwaahar teri anjuman mein jaaye
+  Khwaahar teri anjuman meiṅ jaaye
   Beti teri aur tamaache khaaye
   Beta tera kheṅche ya Shah-e-paak
   Uṅtoṅ ki mahaar wa Husaina
 
   5
   Kuchh sirf ghayur rahi nahiṅ hai
-  Maatam mein tere har ek haziṅ hai
-  Ya Shah hai tere gham mein ghamnaak
+  Maatam meiṅ tere har ek haziṅ hai
+  Ya Shah hai tere gham meiṅ ghamnaak
   Aflaak o bahaar wa Husaina
 # source_id: nohayonline:66e65b6e151ed603e0e4
 # source_url: https://www.nohayonline.com/details_content.php?id=2034

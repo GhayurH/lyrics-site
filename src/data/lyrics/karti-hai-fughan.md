@@ -28,7 +28,7 @@ romanLyrics: |-
 
   4
   Rone bhi nahiṅ deta mujhe tum pe zamana
-  Ghut ghut ke main kab tak rahuṅ zinda mere baba
+  Ghut ghut ke maiṅ kab tak rahuṅ zinda mere baba
 
   5
   Is tarah bhi beti se khafa hota hai koi
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   6
   Hasnain ye kehte haiṅ nahiṅ puchhta koi
-  Kya keh ke unheṅ duṅ main dilaasa mere baba
+  Kya keh ke unheṅ duṅ maiṅ dilaasa mere baba
 
   7
   Paas apne bula lo to sukuṅ aayega mujh ko
@@ -44,10 +44,10 @@ romanLyrics: |-
 
   8
   Kis tarah sambhaleṅge Ali bint-e-Nabi ko
-  Ghash mein hai magar lab pe hai nauha mere baba
+  Ghash meiṅ hai magar lab pe hai nauha mere baba
 
   9
-  Bas bint-e-Nabi ka tha Rasheed ek yahi nauha
+  Bas bint-e-Nabi ka tha Rashid ek yahi nauha
   Baba mere baba mere baba mere baba
 # source_id: nohayonline:b7bf84440d58c1818f4f
 # source_url: https://www.nohayonline.com/details_content.php?id=3010

@@ -28,7 +28,7 @@ romanLyrics: |-
 
   2
   Ho gayi saani-e-Zahra bhi zaifa Abbas
-  Saans leti huṅ magar main nahiṅ zinda Abbas
+  Saans leti huṅ magar maiṅ nahiṅ zinda Abbas
   Tere tukroṅ ki qasam teri behan tut gayi
 
   3
@@ -38,8 +38,8 @@ romanLyrics: |-
 
   4
   Mere haathoṅ ko bhi rassi se gaya tha baandha
-  Main bhi haathoṅ ka na le paayi sahaara bhaiya
-  Jaise tu zin se gira waise main naaqe se giri
+  Maiṅ bhi haathoṅ ka na le paayi sahaara bhaiya
+  Jaise tu ziṅ se gira waise maiṅ naaqe se giri
 
   5
   Qaid khaana bhi gharibi pe meri rota hai

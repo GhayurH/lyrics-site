@@ -1,6 +1,6 @@
 ---
 title: "کربلا والوں کے نائب عزادار ہیں ہم"
-alternateTitle: "Karbala Walon Ke"
+alternateTitle: "Karbala Waloṅ Ke"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,18 +10,18 @@ aliases: []
 published: true
 reciter: Irfan Husain
 romanLyrics: |-
-  Karbala walon ke naaib azadaar haiṅ hum
+  Karbala waloṅ ke naaib azadaar haiṅ hum
   Gham-e-Shabbir pe jaaṅ dene ko tayyaar haiṅ hum
 
   1
   Jab bhi Abbas ke parcham ko utha lete haiṅ
-  Apne hi khun mein hum log nahaa lete haiṅ
+  Apne hi khun meiṅ hum log nahaa lete haiṅ
   Azm Haidar se to Zahra se dua lete haiṅ
-  Gham-e-Shabbir mein dhaala hua kirdaar haiṅ hum
+  Gham-e-Shabbir meiṅ dhaala hua kirdaar haiṅ hum
 
   2
-  Maatami chehre ujaalon se wuzu karte haiṅ
-  Pairahan zakhmon ke ashkon se rafu karte haiṅ
+  Maatami chehre ujaaloṅ se wuzu karte haiṅ
+  Pairahan zakhmoṅ ke ashkoṅ se rafu karte haiṅ
   Phul sinoṅ ko to aankhoṅ ko lahu karte haiṅ
   Jis ko Zainab ne sajaaya hai wo gulzaar haiṅ hum
 
@@ -32,9 +32,9 @@ romanLyrics: |-
   So gaya saara jahaaṅ aaj bhi bedaar haiṅ hum
 
   4
-  Behte paani mein kabhi aag laga dete haiṅ
-  Kabhi jalte hue sholon ko bujha dete haiṅ
-  Hum azadaaron ke aaṅsu ye sada dete haiṅ
+  Behte paani meiṅ kabhi aag laga dete haiṅ
+  Kabhi jalte hue sholoṅ ko bujha dete haiṅ
+  Hum azadaaroṅ ke aaṅsu ye sada dete haiṅ
   Daawar-e-Sabr ka muṅh bolta inkaar haiṅ hum
 
   5
@@ -50,10 +50,10 @@ romanLyrics: |-
   Wohi Kufa hai ye dunya wohi Mukhtaar haiṅ hum
 
   7
-  Jo dilon mein gham-e-Sarwar ki khalish rakhte haiṅ
-  Jeb mein misl-e-Atamiz tapish rakhte haiṅ
-  Har nazar mein Mutawakkil ki rawish rakhte haiṅ
-  Aise logon se har ek haal mein bezaar haiṅ hum
+  Jo diloṅ meiṅ gham-e-Sarwar ki khalish rakhte haiṅ
+  Jeb meiṅ misl-e-Atamiz tapish rakhte haiṅ
+  Har nazar meiṅ Mutawakkil ki rawish rakhte haiṅ
+  Aise logoṅ se har ek haal meiṅ bezaar haiṅ hum
 
   8
   Kitna naayaab hai Quraan azadaari ka

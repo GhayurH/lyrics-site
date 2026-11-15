@@ -16,12 +16,12 @@ romanLyrics: |-
 
   1
   Ab shaam-e-gharibaaṅ ke aasaar numaayaaṅ haiṅ
-  Is dasht-e-musibat mein ghar lutne ke saamaaṅ haiṅ
+  Is dasht-e-musibat meiṅ ghar lutne ke saamaaṅ haiṅ
   Kuchh tum ko khabar di hai ham jitne pareshaaṅ haiṅ
   Abbas mere bhaiya tum laut ke aa jaao
 
   2
-  Jab shaam hui ban mein ye bain the Zainab ke
+  Jab shaam hui ban meiṅ ye bain the Zainab ke
   Khaimoṅ ko jalaane ke hote haiṅ yahaaṅ charche
   Tum Shimr se ye keh do chaadar na meri chhine
   Abbas mere bhaiya tum laut ke aa jaao
@@ -34,12 +34,12 @@ romanLyrics: |-
 
   4
   Ab chhin li aada ne ae bhaai meri chaadar
-  Is aalam-e-ghurbat mein hai khaak mere sar par
+  Is aalam-e-ghurbat meiṅ hai khaak mere sar par
   Tum mere muhaafiz ho batla do unheṅ aa kar
   Abbas mere bhaiya tum laut ke aa jaao
 
   5
-  Main kitni akeli huṅ tum aa ke zara dekho
+  Maiṅ kitni akeli huṅ tum aa ke zara dekho
   Kis tarah sambhaaluṅ gi sehme hue bachchoṅ ko
   Ae bhaai mere aa kar Zainab ko sahaara do
   Abbas mere bhaiya tum laut ke aa jaao
@@ -51,9 +51,9 @@ romanLyrics: |-
   Abbas mere bhaiya tum laut ke aa jaao
 
   7
-  Sarwar ke muhibboṅ mein mahshar hai bapa Ashraf
+  Sarwar ke muhibboṅ meiṅ mahshar hai bapa Ashraf
   Sar pitte haiṅ ro kar sab ahl-e-aza Ashraf
-  Kaanoṅ mein jo aati hai Zainab ki sada Ashraf
+  Kaanoṅ meiṅ jo aati hai Zainab ki sada Ashraf
   Abbas mere bhaiya tum laut ke aa jaao
 # source_id: nohayonline:106a350785c75f5e7c0b
 # source_url: https://www.nohayonline.com/details_content.php?id=659

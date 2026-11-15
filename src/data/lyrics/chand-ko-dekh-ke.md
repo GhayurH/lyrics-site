@@ -18,19 +18,19 @@ romanLyrics: |-
   Aa gaya maah-e-Muharram ka nahiṅ aaye Husain
 
   1
-  Yaad pardes mein aati hai lahad Amma ki
+  Yaad pardes meiṅ aati hai lahad Amma ki
   Dil ka ahwaal sunaane ko kahaaṅ jaaye Husain
 
   2
   Aap aaye na khabar aayi na Akbar aaye
-  Kaise is haal mein Sughra se jiya jaaye Husain
+  Kaise is haal meiṅ Sughra se jiya jaaye Husain
 
   3
   Jab se ye chaand Muharram ka nazar aaya hai
   Amma roti hai tujhe mere maaṅ jaaye Husain
 
   4
-  Koi tasvir to Zahra ki rahi parde mein
+  Koi tasvir to Zahra ki rahi parde meiṅ
   Ye to achchha hua Sughra ko nahiṅ laaye Husain
 
   5
@@ -38,7 +38,7 @@ romanLyrics: |-
   Kaise jaagir tujhe bhaai ki dikhlaaye Husain
 
   6
-  Eid bhi sog ke aalam mein guzaari us ne
+  Eid bhi sog ke aalam meiṅ guzaari us ne
   Haaye Akbar kabhi kehti thi kabhi haaye Husain
 
   7
@@ -46,7 +46,7 @@ romanLyrics: |-
   Khat-e-Sughra ko mukammal nahiṅ parh paaye Husain
 
   8
-  Ek ek beti se rukhsat hue khaime mein magar
+  Ek ek beti se rukhsat hue khaime meiṅ magar
   Haaye afsos ke Sughra se na mil paaye Husain
 
   9

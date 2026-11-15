@@ -12,52 +12,52 @@ published: true
 reciter: "Sajid Jafri"
 romanLyrics: |-
   Kis tarah kahe Maadar-e-Akbar se ye Sarwar
-  Akbar ke kaleje mein sinaṅ tut gayi hai
+  Akbar ke kaleje meiṅ sinaṅ tut gayi hai
 
   Lautega nahiṅ dasht se hamshakl-e-Payambar
-  Akbar ke kaleje mein sinaṅ tut gayi hai
+  Akbar ke kaleje meiṅ sinaṅ tut gayi hai
 
   1
   Maqtal ki taraf barhte hue jaate haiṅ aise
-  Raste hi mein ruk jae musafir koi jaise
+  Raste hi meiṅ ruk jae musafir koi jaise
   Kehte haiṅ yehi apne kaleje ko pakar kar
-  Akbar ke kaleje mein sinaṅ tut gayi hai
+  Akbar ke kaleje meiṅ sinaṅ tut gayi hai
 
   2
   Kya haal hai Akbar ka bhala kaise batauṅ
-  Piri mein jawaṅ laash bhala kaise uthauṅ
+  Piri meiṅ jawaaṅ laash bhala kaise uthauṅ
   Ab nehr se aa jao mere munis o yawar
-  Akbar ke kaleje mein sinaṅ tut gayi hai
+  Akbar ke kaleje meiṅ sinaṅ tut gayi hai
 
   3
-  Paala hai tujhe god mein Zainab si phuphi ne
+  Paala hai tujhe god meiṅ Zainab si phuphi ne
   Parwaan charhaaya hai tujhe Bint-e-Ali ne
   Ye dekh ke mar jae na Shabbir ki khwahar
-  Akbar ke kaleje mein sinaṅ tut gayi hai
+  Akbar ke kaleje meiṅ sinaṅ tut gayi hai
 
   4
-  Kis tarah bhala dekhegi is haal mein dukhiya
+  Kis tarah bhala dekhegi is haal meiṅ dukhiya
   Khaime ke qarib ja ke ye Shabbir ne socha
   Kya hoga abhi dekhegi jo Maadar-e-Akbar
-  Akbar ke kaleje mein sinaṅ tut gayi hai
+  Akbar ke kaleje meiṅ sinaṅ tut gayi hai
 
   5
-  Dekho to har ek khaime mein kohram bapa hai
-  Neza Ali Akbar ke kaleje mein laga hai
-  Khush ho ke yehi kehte haiṅ aapas mein sitamgar
-  Akbar ke kaleje mein sinaṅ tut gayi hai
+  Dekho to har ek khaime meiṅ kohram bapa hai
+  Neza Ali Akbar ke kaleje meiṅ laga hai
+  Khush ho ke yehi kehte haiṅ aapas meiṅ sitamgar
+  Akbar ke kaleje meiṅ sinaṅ tut gayi hai
 
   6
-  Chhalni hua maqtal mein mere laal ka sina
+  Chhalni hua maqtal meiṅ mere laal ka sina
   Neze ke hi hamraah nikal aaya kaleje
   Maaṅ khaime se bahar na nikal aae ye sun kar
-  Akbar ke kaleje mein sinaṅ tut gayi hai
+  Akbar ke kaleje meiṅ sinaṅ tut gayi hai
 
   7
   Sajid ne parha jaise hi Akbar ka ye noha
   Qirtaas o qalam rone lage sun ke ye noha
   Ifham kaha mujh se ye lafzoṅ ne ye tarap kar
-  Akbar ke kaleje mein sinaṅ tut gayi hai
+  Akbar ke kaleje meiṅ sinaṅ tut gayi hai
 # source_id: nohayonline:982a714b7d702c1adecf
 # source_url: https://www.nohayonline.com/details_content.php?id=3162
 # raw_sha256: abfbcac908b06df7d886218a99595ca00db902356e9b3c3e1e8557588e9c3209

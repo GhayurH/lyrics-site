@@ -12,28 +12,28 @@ aliases: []
 published: true
 romanLyrics: |-
   Aao Ae ahl-e-jahaaṅ aao Ae tifl o jawaaṅ
-  Main sunaata huṅ tumheiṅ ek pyaase ki kahaani
+  Maiṅ sunaata huṅ tumheiṅ ek pyaase ki kahaani
   Muhammad ke nawaase ki kahaani
   Yaani Karbala ki kahaani
 
   1
   Rone waalo suno pursa daaro suno
   Sogwaaro suno maatam daaro suno
-  Ek halqe mein aajaao maatam kareiṅ
+  Ek halqe meiṅ aajaao maatam kareiṅ
   Qarz jo hai lahu par ada hum kareiṅ
   Ghar Muhammad ka kis tarah luta gaya
-  Bas isi gham mein karna hai maatam bapa
+  Bas isi gham meiṅ karna hai maatam bapa
   Aane waali har ek nasl bain kare
   Saari dunya Husain Husain kare
   Mere kam sin Husainiyoṅ
   Karbala ki kahaani suno
 
   2
-  Is kahaani mein Zehra ka ghar baar hai
+  Is kahaani meiṅ Zehra ka ghar baar hai
   Un ka beta jo jannat ka sardaar hai
   Markazi is kahaani ka kirdaar hai
   Us ka ek bhaai hai jo alamdaar hai
-  Tum tasavvur mein maqtal chalo
+  Tum tasavvur meiṅ maqtal chalo
 
   3
   Nusrat-e-haq ke khaatir wo ghar se chala
@@ -51,8 +51,8 @@ romanLyrics: |-
 
   5
   Us taraf laakhoṅ aur the bahattar idhar
-  Kat gaye ban mein tifl o jawaaṅ sab ke sar
-  Reh gaya ban mein tanha Ali ka pisar
+  Kat gaye ban meiṅ tifl o jawaaṅ sab ke sar
+  Reh gaya ban meiṅ tanha Ali ka pisar
   Di sada hal min ki Shah ne ba chashm-e-tar
 
   6
@@ -61,7 +61,7 @@ romanLyrics: |-
   Na Akbar hai na Qaasim hai na Abbaas hai
   Na Aun o Muhammad hai
   Na koi ansaar baaqi raha
-  Maqtal mein Imaam Husain alaihis salaam
+  Maqtal meiṅ Imaam Husain alaihis salaam
   Sada de rahe the
   Hal min naasirin yansuruna
   Koi hai jo meri nusrat ke liye aaye
@@ -82,16 +82,16 @@ romanLyrics: |-
   Hue Aun o Muhammad juda Shaamiyoṅ
   Jis ka ansaar ek na raha Shaamiyoṅ
   Jis ka Abbaas jaisa baraadar gaya
-  Jis ke Akbar ke sine mein neza laga
+  Jis ke Akbar ke sine meiṅ neza laga
   Bezabaaṅ bhi gaya
-  Aur kuchh der mein surkh darya ka paani hua
+  Aur kuchh der meiṅ surkh darya ka paani hua
   Aur phir haatif-e-ghaibi ki aai sada
   Ya ayyatuhan nafsul mutmainna
   Irjai ila rabbiki raaziyatan marziya
 
   9
   Jab Imaam Husain alaihis salaam ne is sada ko suna
-  To phir apni talwaar ko miyaan mein rakh liya
+  To phir apni talwaar ko miyaan meiṅ rakh liya
   Aur phir ek sada buland ki
   Aao Ae tiroṅ aao Ae talwaaroṅ
   Aao Ae pattharoṅ mujh pe aa barso
@@ -99,8 +99,8 @@ romanLyrics: |-
   Kahiṅ se tir chale kahiṅ se talwaareṅ chaliṅ
   Kahiṅ se patthar barse
   Aur mere Maula Husain lahu lahaan ho gaye
-  Laakhoṅ ke lashkar mein aise bhi log the
-  Ke jis ke haath mein jo chiz aai us ne
+  Laakhoṅ ke lashkar meiṅ aise bhi log the
+  Ke jis ke haath meiṅ jo chiz aai us ne
   Imaam Husain alaihis salaam pe barsaana shuru ki
   Tanha ho gaya Fatima ka laal
 
@@ -115,9 +115,9 @@ romanLyrics: |-
 
   11
   Baad-e-qatl-e-Shah-e-diṅ jafa yuṅ hui
-  Ho gaye ban mein paamaal laashe sabhi
-  Sar sinaaṅ par gaye laash ban mein rahi
-  Ban mein naqqaare bajne lage us ghari
+  Ho gaye ban meiṅ paamaal laashe sabhi
+  Sar sinaaṅ par gaye laash ban meiṅ rahi
+  Ban meiṅ naqqaare bajne lage us ghari
   Is masaaib pe girya karo
 
   12
@@ -129,7 +129,7 @@ romanLyrics: |-
   Rote rote ye shab kaati saadaat ne
   Subh hote hi saadaat qaidi bane
   Ek rasan zulm ki aur baarah gale
-  Tauq o zanjir mein Maula Sajjaad the
+  Tauq o zanjir meiṅ Maula Sajjaad the
   Jaanib-e-Shaam ahl-e-haram jab chale
   Ek ek laash-e-besar pe rote hue
   Bain Zainab ke the laash-e-Shabbir pe

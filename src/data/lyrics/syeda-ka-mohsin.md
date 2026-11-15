@@ -22,11 +22,11 @@ romanLyrics: |-
   2
   Wo jis ne Karb o Bala ka safar kiya hi nahiṅ
   Zabaaṅ se jis ne abhi maaṅ ko maaṅ kaha hi nahiṅ
-  Wo jhulta kisi jhule mein kya ye mumkin hai
+  Wo jhulta kisi jhule meiṅ kya ye mumkin hai
 
   3
   Ali ne aisa janaaza kahaaṅ uthaaya hai
-  Shahid ho ke jo maidaan-e-gham mein aaya hai
+  Shahid ho ke jo maidaan-e-gham meiṅ aaya hai
   Wo shirkhwaar jo na waaqif qad o sin hai
 
   4
@@ -45,7 +45,7 @@ romanLyrics: |-
   Malul tegh-e-Ali is shahid ke bin hai
 
   7
-  Firaaq-e-Hazrat-e-Mohsin mein mar gayi Zahra
+  Firaaq-e-Hazrat-e-Mohsin meiṅ mar gayi Zahra
   Kisi bhi maaṅ pe na utre ye beamaaṅ sadma
   Ye dard samjhega Rehaan jo bhi momin hai
 # source_id: nohayonline:9bddb8f51ac82ce9149f

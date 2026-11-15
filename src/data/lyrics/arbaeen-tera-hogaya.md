@@ -1,6 +1,6 @@
 ---
 title: "اربعیں تیرا ہو گیا بھائی"
-alternateTitle: "Arbaeen Tera Hogaya"
+alternateTitle: "Arbaiṅ Tera Hogaya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,7 +10,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Arbaeen tera ho gaya bhai
+  Arbaiṅ tera ho gaya bhai
   Haq ada mera ho gaya bhai
 
   1
@@ -18,7 +18,7 @@ romanLyrics: |-
   Wo tah-e-khaak so gaya bhai
 
   2
-  Haaye ek do pehar mein maajaye
+  Haaye ek do pehar meiṅ maajaye
   Saaf ghar tera ho gaya bhai
 
   3
@@ -26,7 +26,7 @@ romanLyrics: |-
   Darbadar kunba ho gaya bhai
 
   4
-  Qaid mein Sakina ko dafna kar
+  Qaid meiṅ Sakina ko dafna kar
   Waada tera pura ho gaya bhai
 
   5

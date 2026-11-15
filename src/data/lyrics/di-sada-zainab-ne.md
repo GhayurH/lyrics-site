@@ -14,28 +14,28 @@ romanLyrics: |-
   Di sada Zainab ne ammaṅ ghar luta kar aayi huṅ
 
   1
-  Kya sunaauṅ aap ko ammaṅ main rudaad-e-safar
-  Saamne mere luta ek dopahar mein saara ghar
-  Apne aaṅkhoṅ mein lahu ke saare manzar laayi huṅ
+  Kya sunaauṅ aap ko ammaṅ maiṅ rudaad-e-safar
+  Saamne mere luta ek dopahar meiṅ saara ghar
+  Apne aaṅkhoṅ meiṅ lahu ke saare manzar laayi huṅ
 
   2
-  Nargha-e-aada mein ammaṅ mera bhaai ghir gaya
-  Chhor do bhaai ko mere baaraha main ne kaha
-  Main Muhammad ki nawaasi Fatima ki jaayi huṅ
+  Nargha-e-aada meiṅ ammaṅ mera bhaai ghir gaya
+  Chhor do bhaai ko mere baaraha maiṅ ne kaha
+  Maiṅ Muhammad ki nawaasi Fatima ki jaayi huṅ
 
   3
-  Main tarapti hi rahi roti rahi sar pit kar
+  Maiṅ tarapti hi rahi roti rahi sar pit kar
   Ho gaya tan se juda ammaṅ mere bhaai ka sar
-  Karbala mein apne maaṅ jaaye ko kho kar aayi huṅ
+  Karbala meiṅ apne maaṅ jaaye ko kho kar aayi huṅ
 
   4
   Taaziyaane aur tamaaṅche Shimr ki khaati rahi
-  Phir andhere qaid khaane mein Sakina mar gayi
-  Shaam ke zindaaṅ mein ammaṅ us ko kho kar aayi huṅ
+  Phir andhere qaid khaane meiṅ Sakina mar gayi
+  Shaam ke zindaaṅ meiṅ ammaṅ us ko kho kar aayi huṅ
 
   5
   Zulm aise the Sakina ho chuki thi muzmahil
-  Kya kahuṅ ammaṅ main tum se jaanta hai mera dil
+  Kya kahuṅ ammaṅ maiṅ tum se jaanta hai mera dil
   Kaise us bachchi ki gardan se rasan khulwaayi huṅ
 
   6

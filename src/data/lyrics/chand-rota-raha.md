@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Laash-e-Akbar pe maidaan mein raat bhar
+  Laash-e-Akbar pe maidaan meiṅ raat bhar
   Chaand rota raha chaand rota raha
 
   Umm-e-Laila tere chaand ko dekh kar
@@ -19,7 +19,7 @@ romanLyrics: |-
 
   1
   Bekasi laash par bain karti rahi
-  Khaak sehra ki zakhmoṅ mein bharti rahi
+  Khaak sehra ki zakhmoṅ meiṅ bharti rahi
   Maaṅ tarapti rahi shaam se taa sahar
   Chaand rota raha chaand rota raha
 
@@ -31,30 +31,30 @@ romanLyrics: |-
 
   3
   Maaṅ ki faryaad se Karbala hil gayi
-  Naujawaani koi khaak mein mil gayi
+  Naujawaani koi khaak meiṅ mil gayi
   Rakh ke apne hi kirnoṅ ke kaandhe pe sar
   Chaand rota raha chaand rota raha
 
   4
   Qatre shabnam ke zakhmoṅ ko dhote rahe
   Shah ke Yusuf pe taare bhi rote rahe
-  Chaandni ban gayi dasht mein nohagar
+  Chaandni ban gayi dasht meiṅ nohagar
   Chaand rota raha chaand rota raha
 
   5
   Karbala tere zakhmoṅ ki taarikiyaaṅ
-  Aur maqtal mein chaaroṅ taraf siskiyaaṅ
+  Aur maqtal meiṅ chaaroṅ taraf siskiyaaṅ
   Khuṅ ugalta raha ek zakhm-e-jigar
   Chaand rota raha chaand rota raha
 
   6
-  Jis ke sine mein uljhi hui hai sinaaṅ
+  Jis ke sine meiṅ uljhi hui hai sinaaṅ
   Jaane kis maaṅ ka hoga ye karyal jawaaṅ
   Der tak aasmaaṅ par yehi soch kar
   Chaand rota raha chaand rota raha
 
   7
-  Khun mein tar ba tar thi shabih-e-Rasul
+  Khun meiṅ tar ba tar thi shabih-e-Rasul
   Aasmaaṅ par the saare sitaare malul
   Raat karti rahi mustaqil tai safar
   Chaand rota raha chaand rota raha

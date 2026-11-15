@@ -11,58 +11,58 @@ aliases: []
 published: true
 reciter: "Irfan Haider"
 romanLyrics: |-
-  Andhere ghar mein Sughra diye jalaati hai
+  Andhere ghar meiṅ Sughra diye jalaati hai
   Jab dil ghabrata hai jab yaad sataati hai
   Bimaar behan tujh ko ro ro ke bulaati hai
   Akbar ghar aa ja Sughra ka waasta
-  Yaad mein teri ro ro kar mar jaegi Sughra
+  Yaad meiṅ teri ro ro kar mar jaegi Sughra
   Akbar ghar aa ja Sughra ka waasta
 
   1
   Tu dur hai mujh ko ye gham hai
   Baba ki tujhe qasam hai
-  Main takti rahi tera raasta
+  Maiṅ takti rahi tera raasta
   Madine se tu jab gaya Karbala
   Karbala Karbala haye Karbala
   Mujh ko bhi le chal pura kar de waada
 
   2
   Ab katte nahiṅ haiṅ raat aur din
-  Main kaise jiyuṅ tere bin
+  Maiṅ kaise jiyuṅ tere bin
   Yahaṅ aa gayi mujhe maut agar
   Mere bhai aana meri qabr par
   Qabr par qabr par haye qabr par
   Nana ki ja kar karti huṅ roz dua
 
   3
-  Awaaz mein teri jeete ji
-  Main phir se azaan sun luṅ
-  Tujhe dekhna hai mehrab mein
-  Tu ek baar aa ja mere khwaab mein
-  Khwaab mein khwaab mein haye khwaab mein
-  Main ne dekha hai zakhmi tera sina
+  Awaaz meiṅ teri jite ji
+  Maiṅ phir se azaan sun luṅ
+  Tujhe dekhna hai mehrab meiṅ
+  Tu ek baar aa ja mere khwaab meiṅ
+  Khwaab meiṅ khwaab meiṅ haye khwaab meiṅ
+  Maiṅ ne dekha hai zakhmi tera sina
 
   4
   Akbar ye tamanna hai meri
-  Main shaadi rachauṅ teri
+  Maiṅ shaadi rachauṅ teri
   Behan bhai hum dobara mileṅ
   Barhani haiṅ bhaiya mujhe mannateṅ
   Mannateṅ mannateṅ haye mannateṅ
-  Maani haiṅ main ne dekhuṅ tera sehra
+  Maani haiṅ maiṅ ne dekhuṅ tera sehra
 
   5
   Jab chaand Muharram ka dekha
   Dil mera tarap ke bola
-  Khuda se yehi dua main ne ki
+  Khuda se yehi dua maiṅ ne ki
   Barha de mere bhai ki zindagi
   Zindagi zindagi haye zindagi
   Meri bhi tujh ko lag jae mere bhaiya
 
   6
-  Sughra ne khat mein
-  Zeeshan o Irfan-e-Aza ye likha
+  Sughra ne khat meiṅ
+  Zishan o Irfan-e-Aza ye likha
   Sar-e-Karbala ye khat khol kar
-  Husain aa gaye ek jawaṅ laash par
+  Husain aa gaye ek jawaaṅ laash par
   Laash par laash par haye laash par
   Aa kar Sheh bole paigham hai Sughra ka haye
 # source_id: nohayonline:5fb6b3c5b57e78ab12e4

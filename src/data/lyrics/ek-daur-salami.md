@@ -10,11 +10,11 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ek daur salaami dunya ka sadiyoṅ mein aisa aata hai
+  Ek daur salaami dunya ka sadiyoṅ meiṅ aisa aata hai
   Jab koi payambar uthta hai ya koi shahaadat paata hai
 
   1
-  Ae nehrGee Furaat afsos kar apni qismat par
+  Ae nehrGi Furaat afsos kar apni qismat par
   Kausar ka saaqi aaj tere saahil se pyaasa jaata hai
 
   2

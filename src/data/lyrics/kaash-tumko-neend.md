@@ -14,29 +14,29 @@ romanLyrics: |-
   Baba ki pyaari Sakina
   Shaam-e-gharibaṅ hai ye Sakina
   Kaash tum ko nind aa jaaye
-  Besar padar ka ban mein tha nauha
+  Besar padar ka ban meiṅ tha nauha
   Kaash tum ko nind aa jaaye
 
   1
   Patthar badan se hataauṅ to kaise
-  Lori tumheṅ main sunaauṅ to kaise
-  Pehlu mein so ja ae shahzaadi
+  Lori tumheṅ maiṅ sunaauṅ to kaise
+  Pehlu meiṅ so ja ae shahzaadi
   Sine pe tum ko sulaauṅ to kaise
   Tiroṅ bhara hai bistar tumhaara
   Kaash tum ko nind aa jaaye
 
   2
   Beshir waapas jo aaya nahiṅ hai
-  Main ne tumheṅ ye bataaya nahiṅ hai
+  Maiṅ ne tumheṅ ye bataaya nahiṅ hai
   Lori sunaai hai tiroṅ ne us ko
-  Asghar ko main ne sulaaya nahiṅ hai
+  Asghar ko maiṅ ne sulaaya nahiṅ hai
   Tum ko to lori dete haiṅ baba
   Kaash tum ko nind aa jaaye
 
   3
   Us waqt mujh pe bhi mushkil bari thi
-  Pehlu mein maadar ke sota tha main bhi
-  Main jaanta huṅ ye mushkil hai kitna
+  Pehlu meiṅ maadar ke sota tha maiṅ bhi
+  Maiṅ jaanta huṅ ye mushkil hai kitna
   Bichhri thi jab mujh se daadi tumhaari
   Mere liye bhi kehti thi Zehra
   Kaash tum ko nind aa jaaye
@@ -52,7 +52,7 @@ romanLyrics: |-
   5
   Wo dekho kuchh dur soye haiṅ Akbar
   Aun o Muhammad hai soye wahaṅ par
-  Aadat hai pehre mein sone ki tum ko
+  Aadat hai pehre meiṅ sone ki tum ko
   Bibi muhaafiz hai pure bahattar
   Chaaroṅ taraf hai laashoṅ ka pehra
   Kaash tum ko nind aa jaaye
@@ -60,7 +60,7 @@ romanLyrics: |-
   6
   Ek dher hai pattharoṅ ka zamiṅ par
   Baithi ek Bibi jis ke baraabar
-  Aulaad ke gham mein dube padar ki
+  Aulaad ke gham meiṅ dube padar ki
   Aati hai jis se sadaaeṅ ye Akbar
   Jaago gi kab tak meri Sakina
   Kaash tum ko nind aa jaaye

@@ -12,7 +12,7 @@ published: true
 romanLyrics: |-
   Qadam barhta rahe aao Karbala ki taraf
   Aaqa Husain Maula Husain
-  Aa raha huṅ main bhi Karbala
+  Aa raha huṅ maiṅ bhi Karbala
   Aarzu-e-Ambiya ziyarat-e-Husain hai
   Nusrat-e-Imam hai ye nusrat-e-Husain hai
   Azm zairin ka ye taqat-e-Husain hai
@@ -24,7 +24,7 @@ romanLyrics: |-
   Rok hi nahiṅ saka hai koi khaar phul ko
   Zairoṅ ka ilm kya ho daaishi jahul ko
   Kaat deiṅge zairin kufr ke babul ko
-  Sabr ka liye hai asleha haath mein hai parcham-e-wafa
+  Sabr ka liye hai asleha haath meiṅ hai parcham-e-wafa
   Dekhte haiṅ rokta hai kaun raasta
   Aaqa Husain Maula Husain
 
@@ -32,7 +32,7 @@ romanLyrics: |-
   Rehnuma ka rehnuma hai zair-e-Husain hai
   Fatima ki ye dua hai zair-e-Husain hai
   Iska martaba bara hai zair-e-Husain hai
-  Khidmatoṅ mein mehw-e-dam ba dam
+  Khidmatoṅ meiṅ mehw-e-dam ba dam
   Zairoṅ ke kaam aaye hum
   Maadar-e-Husain se milega hausla
   Aaqa Husain Maula Husain
@@ -40,9 +40,9 @@ romanLyrics: |-
   3
   Aarzu-e-Murtaza hai ye dua-e-Fatima
   Fakhr se zamin de isko rahi hai raasta
-  Mehr o maah hai safar mein chal raha hai qaafila
+  Mehr o maah hai safar meiṅ chal raha hai qaafila
   Bhai hai behan hai aur maaṅ bachche burhe saath hai jawaaṅ
-  Lashkar-e-Husain mein hai aaj faisla
+  Lashkar-e-Husain meiṅ hai aaj faisla
   Aaqa Husain Maula Husain
 
   4
@@ -50,7 +50,7 @@ romanLyrics: |-
   Azm hai shahadatoṅ ka maut to urus hai
   Karwaaṅ jo chal raha hai matami julus hai
   Matam-e-Husain ka asar buzdiloṅ ke phat gaye jigar
-  Dar ke har Yazid apne ghar mein chhup gaya
+  Dar ke har Yazid apne ghar meiṅ chhup gaya
   Aaqa Husain Maula Husain
 
   5
@@ -58,31 +58,31 @@ romanLyrics: |-
   Pura khaandan leke misl-e-Shah tum barho
   Chumte hai raaste har ek zakhm zakhm ko
   Abid-e-haziṅ hai raah par Zainab-e-haziṅ hai humsafar
-  Paaoṅ mein pare haiṅ aable to kya hua
+  Paaoṅ meiṅ pare haiṅ aable to kya hua
   Aaqa Husain Maula Husain
 
   6
   Roz o shab tarap raha huṅ zindagi ki kya khabar
   Maanta huṅ Maula huṅ gunahgaar kis qadar
-  Ek baar pahunchuṅ bas main rauza-e-Husain par
+  Ek baar pahunchuṅ bas maiṅ rauza-e-Husain par
   Bhai aur bhatije ki talaash chhe mahine ke pisar ki laash
-  Pursa dene aap ko har ek shaheed ka
+  Pursa dene aap ko har ek shahid ka
   Aaqa Husain Maula Husain
 
   7
-  Roze maine rakhe aur khums bhi ada kiya
+  Roze maiṅ ne rakhe aur khums bhi ada kiya
   Waqt par pari namaz ki nahiṅ kabhi qaza
-  Matami main aap ka huṅ meri zindagi aza
-  Dil ki ye tarap hai ek baar Aaqa main huṅ ek gunahgaar
-  Hurr ki tarah haath jor kar huṅ main khara
+  Matami maiṅ aap ka huṅ meri zindagi aza
+  Dil ki ye tarap hai ek baar Aaqa maiṅ huṅ ek gunahgaar
+  Hurr ki tarah haath jor kar huṅ maiṅ khara
   Aaqa Husain Maula Husain
 
   8
-  Karbala hi zindagi meri hai main huṅ matami
+  Karbala hi zindagi meri hai maiṅ huṅ matami
   Khun-e-dil se jo likhe hai lafz wo hai roshni
   Ae Qamar ziyarat-e-Husain hogi laazmi
   Zulm ke khilaaf har qadam hai Husainiyat mera qalam
-  Dur Karbala se main shahid ho gaya to kya
+  Dur Karbala se maiṅ shahid ho gaya to kya
   Aaqa Husain Maula Husain
 # source_id: nohayonline:fd580d5d7833446f4072
 # source_url: https://www.nohayonline.com/details_content.php?id=1567

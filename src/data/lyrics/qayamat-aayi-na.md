@@ -11,51 +11,51 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Shaam ki qaid mein Sayyidaaniyaaṅ asir huiṅ
+  Shaam ki qaid meiṅ Sayyidaaniyaaṅ asir huiṅ
   Rasul zaadiyaaṅ haakim ki dastagir huiṅ
 
-  Qayaamat aayi na kiuṅ Kibriya zamaane mein
-  Ali ki betiyaaṅ aayi haiṅ qaid khaane mein
+  Qayaamat aayi na kiuṅ Kibriya zamaane meiṅ
+  Ali ki betiyaaṅ aayi haiṅ qaid khaane meiṅ
 
   1
   Ye keh ke Sayyid-e-Sajjaad khun rote the
   Nasib-e-waqt ne dikhlaaye marhale kaise
-  Ali ki betiyaaṅ aayi haiṅ qaid khaane mein
+  Ali ki betiyaaṅ aayi haiṅ qaid khaane meiṅ
 
   2
   Zamir mar gaye insaaṅ ke dil hue patthar
   Ye imtihaan bhi kaisa hai Khaaliq-e-Akbar
-  Ali ki betiyaaṅ aayi haiṅ qaid khaane mein
+  Ali ki betiyaaṅ aayi haiṅ qaid khaane meiṅ
 
   3
   Ye keh ke aaṅkh se Zainab ne ashk barsaaye
   Jhuka jo sar mere bimaar ka sabab ye hai
-  Ali ki betiyaaṅ aayi haiṅ qaid khaane mein
+  Ali ki betiyaaṅ aayi haiṅ qaid khaane meiṅ
 
   4
   Nabi ki aal ye ghurbat ye bekasi Maalik
   Ke kaainaat fanaa kiuṅ na ho gayi Maalik
-  Ali ki betiyaaṅ aayi haiṅ qaid khaane mein
+  Ali ki betiyaaṅ aayi haiṅ qaid khaane meiṅ
 
   5
   Sitam ye kaisa hai ehsaas to karo logoṅ
-  Yazidi mahal mein charcha ye ho gaya dekho
-  Ali ki betiyaaṅ aayi haiṅ qaid khaane mein
+  Yazidi mahal meiṅ charcha ye ho gaya dekho
+  Ali ki betiyaaṅ aayi haiṅ qaid khaane meiṅ
 
   6
   Sar apna pit liya jab khabar ye paayi
-  Janaab-e-Hind ke kaanoṅ mein jab khabar aayi
-  Ali ki betiyaaṅ aayi haiṅ qaid khaane mein
+  Janaab-e-Hind ke kaanoṅ meiṅ jab khabar aayi
+  Ali ki betiyaaṅ aayi haiṅ qaid khaane meiṅ
 
   7
-  Lahad mein khaak uraane lage Habib-e-Khuda
+  Lahad meiṅ khaak uraane lage Habib-e-Khuda
   Gayi jo Shaam se Yasrab talak kisi ki sadaa
-  Ali ki betiyaaṅ aayi haiṅ qaid khaane mein
+  Ali ki betiyaaṅ aayi haiṅ qaid khaane meiṅ
 
   8
   Ye Mazhar Abidi phir kuchh bhi likh nahiṅ paaya
   Wo Shadman ke hoṅtoṅ pe marsiya aaya
-  Ali ki betiyaaṅ aayi haiṅ qaid khaane mein
+  Ali ki betiyaaṅ aayi haiṅ qaid khaane meiṅ
 # source_id: nohayonline:8f0e4b77f4d98b9602f6
 # source_url: https://www.nohayonline.com/details_content.php?id=3221
 # raw_sha256: ad517ea126e3153cf4551779b3ae3aaad3c66cda86cca074bb835e519dc826ac

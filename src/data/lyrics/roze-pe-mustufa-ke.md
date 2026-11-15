@@ -12,19 +12,19 @@ published: true
 romanLyrics: |-
   Rauze pe Mustafa ke udaasi si chhaai hai
   Kunbe ko kho ke Zainab-e-naashaad aayi hai
-  Ro kar pukaari naana main faryaad laayi huṅ
-  Main chhor kar Husain ko jangal mein aayi huṅ
+  Ro kar pukaari naana maiṅ faryaad laayi huṅ
+  Maiṅ chhor kar Husain ko jangal meiṅ aayi huṅ
 
   1
   Are naana hamaare ghar ka sab asbaab lut gaya
   Naana hamaare sar pe na baaqi rahi rida
   Naana hazaar tarah jafa ki lainoṅ ne
-  Khaimoṅ mein haaye aag laga di lainoṅ ne
+  Khaimoṅ meiṅ haaye aag laga di lainoṅ ne
 
   2
   Are naana ajib saanihe ham par guzar gaye
   Ranj o alam ne gher liya ham jidhar gaye
-  Naana Khuda ke ghar mein na ham ko amaaṅ mili
+  Naana Khuda ke ghar meiṅ na ham ko amaaṅ mili
   Bhaai ne shehr chhor ke jangal ki raah li
 
   3
@@ -36,38 +36,38 @@ romanLyrics: |-
   4
   Are naana shahid ho gaye bhaai ke jaaṅ nisaar
   Ek ek kar ke mar gaye ashaab-e-zi waqaar
-  Naana bala ke ban mein qayaamat ka ran para
+  Naana bala ke ban meiṅ qayaamat ka ran para
   Bhaai se bhaai baap se beta bichhar gaya
 
   5
   Naana tumhaari shakl ka farzand jo ek tha
   Khaa kar sinaaṅ jigar pe wo mahru bhi chal basa
   Naana shaqi ke tir se Asghar hue shahid
-  Aisa hua na hoga jahaaṅ mein sitam kabhi
+  Aisa hua na hoga jahaaṅ meiṅ sitam kabhi
 
   6
   Are naana zamin Karb o Bala laal ho gayi
   Qasim ki laash ghoroṅ se paamaal ho gayi
   Naana kata ke shaanoṅ ko Abbas mar gaye
-  Ghurbat mein bhaai jaan ko beaas kar gaye
+  Ghurbat meiṅ bhaai jaan ko beaas kar gaye
 
   7
   Naana Husain bekas o beyaar ho gaye
   Aamaada qatl karne ko kuffaar ho gaye
   Tarpe jo zer-e-khanjar-e-beaab Shaah-e-Din
-  Shimr-e-lain ke zulm se tharra gayi zamin
+  Shimr-e-laiṅ ke zulm se tharra gayi zamin
 
   8
   Are naana huiṅ asir tumhaari nawaasiyaaṅ
-  Kaun o makaaṅ mein chha gayi gham ki udaasiyaaṅ
-  Naana haram Husain ke baazaar mein gaye
-  Ham sar barehna Kufa ke darbaar mein gaye
+  Kaun o makaaṅ meiṅ chha gayi gham ki udaasiyaaṅ
+  Naana haram Husain ke baazaar meiṅ gaye
+  Ham sar barehna Kufa ke darbaar meiṅ gaye
 
   9
-  Are naana tumhaari aal gayi lut ke Shaam mein
-  Pahunchiṅ Ali ki betiyaaṅ darbaar-e-aam mein
+  Are naana tumhaari aal gayi lut ke Shaam meiṅ
+  Pahunchiṅ Ali ki betiyaaṅ darbaar-e-aam meiṅ
   Naana haqir saahib-e-tathir ho gaye
-  Ham log shehr-e-Shaam mein tashhir ho gaye
+  Ham log shehr-e-Shaam meiṅ tashhir ho gaye
 
   10
   Are naana asir baarah the aur ek thi rasan
@@ -84,12 +84,12 @@ romanLyrics: |-
   12
   Are naana ajib haal hamaara tha us ghari
   Ek Bibi pichhe dusri Bibi ke chhupti thi
-  Us waqt tharthari si mere tan mein par gayi
-  Sad haif hai zamin mein Zainab na gar gayi
+  Us waqt tharthari si mere tan meiṅ par gayi
+  Sad haif hai zamin meiṅ Zainab na gar gayi
 
   13
-  Are itne mein ek Shaami ne naana ghazab kiya
-  Saidaani ko kanizi mein us ne talab kiya
+  Are itne meiṅ ek Shaami ne naana ghazab kiya
+  Saidaani ko kanizi meiṅ us ne talab kiya
   Hoti thi laakh zillateṅ ham dekhte rahe
   Hans hans ke taaziyaane sitam jhelte rahe
 
@@ -103,7 +103,7 @@ romanLyrics: |-
   Zainab jo ro ke karti thiṅ qabr-e-Nabi pe bain
   Tharra raha tha rauza-e-Sultaan-e-Mashraqain
   Sab khatm kar li saari ye ghamnaak daastaaṅ
-  Roye haiṅ is alam mein zamiṅ aur aasmaaṅ
+  Roye haiṅ is alam meiṅ zamiṅ aur aasmaaṅ
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:13cb34a26e168e6f7875
 # source_url: https://www.nohayonline.com/details_content.php?id=415

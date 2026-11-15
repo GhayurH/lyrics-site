@@ -19,7 +19,7 @@ romanLyrics: |-
   2
   Hai wusat-e-sad fikr o nazar midhat-e-Abbas
   Hai zamzam-e-laal o gauhar midhat-e-Abbas
-  Sajde mein haiṅ qirtas o qalam bhi pae tazim
+  Sajde meiṅ haiṅ qirtas o qalam bhi pae tazim
   Hai makhzan-e-fan ilm o hunar midhat-e-Abbas
 
   3
@@ -29,16 +29,16 @@ romanLyrics: |-
   Hai Maula Alamdar se nisbat ka karishma
 
   4
-  Jo Ahl-e-wafa duniya mein haiṅ us ka hai ye pir
-  Hai is ki aqidat bhi zamane mein hamagir
+  Jo Ahl-e-wafa duniya meiṅ haiṅ us ka hai ye pir
+  Hai is ki aqidat bhi zamane meiṅ hamagir
   Kehti hai use Bab-e-Hawaij sabhi duniya
-  Pal bhar mein badal deta hai saail ki ye taqdir
+  Pal bhar meiṅ badal deta hai saail ki ye taqdir
 
   5
   Abbas alamdari-e-Sarwar ka nishaṅ hai
   Is zaat pe qurban shujaat ka jahaṅ hai
   Jo qabl-e-shahadat hi kehlae behishti
-  Tarikh-e-jahaṅ mein yehi bas ek jawaṅ hai
+  Tarikh-e-jahaṅ meiṅ yehi bas ek jawaaṅ hai
 
   6
   Hai us ka alam shaukat o satwat ki nishani
@@ -49,7 +49,7 @@ romanLyrics: |-
   7
   Uthta hai basad jah o hasham parcham-e-Abbas
   Hai haq o sadaqat ka alam parcham-e-Abbas
-  Sae mein isi ke haiṅ amaṅ duniya o din ko
+  Sae meiṅ isi ke haiṅ amaṅ duniya o din ko
   Ta hashr ye lehraeṅge hum parcham-e-Abbas
 # source_id: tajpoints:09cd49fb80e43e7a1c95
 # source_url: https://tajpoints.com/2017/02/allah-ke-shahkar-ka-hai-youm-e-wiladat.html

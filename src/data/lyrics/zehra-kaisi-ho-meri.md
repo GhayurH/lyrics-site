@@ -13,11 +13,11 @@ published: true
 romanLyrics: |-
   Zehra kaisi ho meri beti
   Baba baba baba baba
-  Mushkil mein hai teri beti
+  Mushkil meiṅ hai teri beti
 
   1
   Godi ki aadat hai us ko
-  Kaise main us ko uthauṅ
+  Kaise maiṅ us ko uthauṅ
   Baba baba baba baba
   Kulsum chhoti hai meri
 
@@ -31,7 +31,7 @@ romanLyrics: |-
   Karb o bala yaad aayi
   Jab ye Husain aa ke bola
   Ammaṅ mat ro ammaṅ mat ro
-  Dekho main laaya huṅ paani
+  Dekho maiṅ laaya huṅ paani
 
   4
   Maara hai zauja ko un ki

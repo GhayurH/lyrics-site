@@ -14,7 +14,7 @@ romanLyrics: |-
   Kaanoṅ se lahu jaari hai aur Shaam chali hai
 
   1
-  Darbaar mein itrat hai Muhammad ki ae logoṅ
+  Darbaar meiṅ itrat hai Muhammad ki ae logoṅ
   Baaloṅ se jo dhaaṅpe hue chehre ko khari hai
 
   2
@@ -26,11 +26,11 @@ romanLyrics: |-
   Maaṅ boli meri bachchi ki gardan jo bandhi hai
 
   4
-  Darbaar mein Zahra ki tarah chup hai ye Bibi
+  Darbaar meiṅ Zahra ki tarah chup hai ye Bibi
   Parda hi bana de jo musalmaaṅ koi hai
 
   5
-  Baba ka gala Shimr ka khanjar hai nazar mein
+  Baba ka gala Shimr ka khanjar hai nazar meiṅ
   Maqtal ko Sakina bhi kahaaṅ bhul saki hai
 
   6
@@ -38,7 +38,7 @@ romanLyrics: |-
   Begor o kafan aaj Sakina bhi chali hai
 
   7
-  Sajjad ne kariyoṅ mein uthaaya hai janaaza
+  Sajjad ne kariyoṅ meiṅ uthaaya hai janaaza
   Kehte haiṅ Batul aaj qayaamat ki ghari hai
 # source_id: nohayonline:6308031fc599f9fb4c8f
 # source_url: https://www.nohayonline.com/details_content.php?id=2197

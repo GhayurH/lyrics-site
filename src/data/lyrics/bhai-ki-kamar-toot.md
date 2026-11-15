@@ -17,12 +17,12 @@ romanLyrics: |-
   1
   Aath pehroṅ se jo pyaasa tha wafaadaar mera
   Kar liya nehr pe qabza bhi to paani na piya
-  Ji ke ab kya karuṅ jine mein nahiṅ lutf koi
+  Ji ke ab kya karuṅ jine meiṅ nahiṅ lutf koi
 
   2
   Jis ka koi nahiṅ saani wo wafa kar ke gaya
   Ek mashkize pe do baazu fida kar ke gaya
-  Is wafaadaar ki furqat mein kahuṅ ga main yehi
+  Is wafaadaar ki furqat meiṅ kahuṅ ga maiṅ yehi
 
   3
   Haaye battis baras saath nibhaaya jis ne
@@ -31,7 +31,7 @@ romanLyrics: |-
 
   4
   Jab wo ghore se gira mujh ko sada di aise
-  Baap ko beta musibat mein pukaare jaise
+  Baap ko beta musibat meiṅ pukaare jaise
   Wo sidhaara to mujhe jine ki khwaahish na rahi
 
   5

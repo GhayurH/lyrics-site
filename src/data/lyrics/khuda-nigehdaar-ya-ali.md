@@ -22,13 +22,13 @@ romanLyrics: |-
 
   1
   Gham tumhaara Sayyeda ke saath jaaye ga
-  Qabr mein tumhaara gham mujhe rulaaye ga
+  Qabr meiṅ tumhaara gham mujhe rulaaye ga
   Pursa dene bhi tumheṅ koi na aaye ga
   Shehr-e-Madina ghut ke hai jina
   Haaye Ali bekasi teri
 
   2
-  Ek wo din tha main dulhan ban ke aayi thi
+  Ek wo din tha maiṅ dulhan ban ke aayi thi
   Aap ke ghar ne meri izzat barhaai thi
   Mil ke mere saath ye basti basaai thi
   Shaam se pehle aap ke ghar se
@@ -39,7 +39,7 @@ romanLyrics: |-
   Tum pe aanch aaye gi phir bhi na ae Imaam
   Fatema ne kar diya hai aisa intezaam
   Chaand se bete sadqe tumhaare
-  Ab yehi hai jholi mein meri
+  Ab yehi hai jholi meiṅ meri
 
   4
   Baba aaye the abhi dobaara aayeṅ ge
@@ -50,7 +50,7 @@ romanLyrics: |-
 
   5
   Yaas se haiṅ dekhte mujhe wo baar baar
-  Kar liya Husain aur Hasan ko main ne pyaar
+  Kar liya Husain aur Hasan ko maiṅ ne pyaar
   Maut kar rahi hai Fatema ka intezaar
   Maaṅ ko tarapte dekheṅ na bachche
   Saaṅseṅ chal rahi haiṅ aakhri
@@ -64,20 +64,20 @@ romanLyrics: |-
 
   7
   Zakhm dekh kar mere abhi se haiṅ nidhaal
-  Maaṅ ke gham mein ho gaya hai un ka ghair haal
+  Maaṅ ke gham meiṅ ho gaya hai un ka ghair haal
   Baad mere betiyoṅ ka rakhna tum khayaal
   Zainab o Kulsum haiṅ abhi maasum
   Raah-e-Shaam dur hai abhi
 
   8
   Fatema pe ho gayi sitam ki inteha
-  Aap se chhupaai main ne har jafa
+  Aap se chhupaai maiṅ ne har jafa
   Ghurbatoṅ ka hai meri gawaah Mujtaba
   Kaise bataauṅ kaise sunaauṅ
   Fatema kahaaṅ kahaaṅ giri
 
   9
-  Dukhtar-e-Nabi ko qabr mein utaar kar
+  Dukhtar-e-Nabi ko qabr meiṅ utaar kar
   Roye Murtaza Ali Takallum is qadar
   Ho gayi tamaam qabr aaṅsuoṅ se tar
   Uth ke qabr se jab Ali chale

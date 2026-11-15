@@ -17,7 +17,7 @@ romanLyrics: |-
   1
   Ab na Qasim rahe haiṅ na bhaiya
   Ab na ammu rahe haiṅ na baba
-  Kis ko aawaaz duṅ main Khudaaya
+  Kis ko aawaaz duṅ maiṅ Khudaaya
 
   2
   Paani lene ko darya kinaare
@@ -32,7 +32,7 @@ romanLyrics: |-
   Koi aa kar khudara uthaana
 
   4
-  Bhaiya Aabid bhi ghash mein para hai
+  Bhaiya Aabid bhi ghash meiṅ para hai
   Wohi is waqt sab se bara hai
   Un ke chaaroṅ taraf sab khare haiṅ
   Un ke maathe pe bhi hai pasina
@@ -56,7 +56,7 @@ romanLyrics: |-
   Meri ammaaṅ se jaa kar ye kehna
 
   8
-  Qaid mein kya sadaa ham raheṅ ge
+  Qaid meiṅ kya sadaa ham raheṅ ge
   Zulm kab tak ye aakhir saheṅ ge
   Aisa lagta hai ab ham mareṅ ge
   Hua hargiz na Sughra se milna

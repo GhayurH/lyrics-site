@@ -14,59 +14,59 @@ romanLyrics: |-
   Shaam jaate hue ro ke Sajjad ne kaha
   Assalaam ae bekas baba bekas bete ka salaam
   Assalaamun alaik ya gharib Husaina
-  Main ik bekas pardesi huṅ main laut ke aauṅ ga
+  Maiṅ ik bekas pardesi huṅ maiṅ laut ke aauṅ ga
 
   1
-  Main saath phuphi ke ae baba Quraan sunaauṅ ga
-  Main ik bekas pardesi huṅ main laut ke aauṅ ga
+  Maiṅ saath phuphi ke ae baba Quraan sunaauṅ ga
+  Maiṅ ik bekas pardesi huṅ maiṅ laut ke aauṅ ga
 
   2
   Ho tum pe salaam mera ae mere gharib padar
-  Ik qaafila tha tera ik main bhi chala lekar
-  Main Ibn-e-Husain huṅ ae baba zaalim ko bataauṅ ga
-  Main ik bekas pardesi huṅ main laut ke aauṅ ga
+  Ik qaafila tha tera ik maiṅ bhi chala lekar
+  Maiṅ Ibn-e-Husain huṅ ae baba zaalim ko bataauṅ ga
+  Maiṅ ik bekas pardesi huṅ maiṅ laut ke aauṅ ga
 
   3
-  Teri pyaari Sakina bhi mere saath safar mein hai
-  Har gaam pe shahzaadi bhaai ki nazar mein hai
-  Main dhup mein reh kar ae baba use saaye mein laauṅ ga
-  Main ik bekas pardesi huṅ main laut ke aauṅ ga
+  Teri pyaari Sakina bhi mere saath safar meiṅ hai
+  Har gaam pe shahzaadi bhaai ki nazar meiṅ hai
+  Maiṅ dhup meiṅ reh kar ae baba use saaye meiṅ laauṅ ga
+  Maiṅ ik bekas pardesi huṅ maiṅ laut ke aauṅ ga
 
   4
   Zainab ko bin chaadar jab dekh na paao ge
   Haaye nok-e-sinaaṅ se phir Quraan sunaao ge
-  Aawaaz mein teri ae baba aawaaz milaauṅ ga
-  Main ik bekas pardesi huṅ main laut ke aauṅ ga
+  Aawaaz meiṅ teri ae baba aawaaz milaauṅ ga
+  Maiṅ ik bekas pardesi huṅ maiṅ laut ke aauṅ ga
 
   5
-  Ik rassi mein baba haaye baarah gale hoṅ ge
+  Ik rassi meiṅ baba haaye baarah gale hoṅ ge
   Sab chhote bare baba ik saath bandhe hoṅ ge
   Mehmil se girte bachchoṅ ko sine se lagaauṅ ga
-  Main ik bekas pardesi huṅ main laut ke aauṅ ga
+  Maiṅ ik bekas pardesi huṅ maiṅ laut ke aauṅ ga
 
   6
   Ham qaidi bane hoṅ ge darbaar saja hoga
-  Haaye tasht-e-tala mein aur sar tera rakha hoga
-  Us pal mein Sakina ko baba kis tarah sambhaaluṅ ga
-  Main ik bekas pardesi huṅ main laut ke aauṅ ga
+  Haaye tasht-e-tala meiṅ aur sar tera rakha hoga
+  Us pal meiṅ Sakina ko baba kis tarah sambhaaluṅ ga
+  Maiṅ ik bekas pardesi huṅ maiṅ laut ke aauṅ ga
 
   7
-  Maaṅge ga Sakina ko ik Shaami kanizi mein
-  Mar jaauṅ ga main baba sun kar ye asiri mein
+  Maaṅge ga Sakina ko ik Shaami kanizi meiṅ
+  Mar jaauṅ ga maiṅ baba sun kar ye asiri meiṅ
   Zahra ki shabih ko ae baba zaalim se bachaauṅ ga
-  Main ik bekas pardesi huṅ main laut ke aauṅ ga
+  Maiṅ ik bekas pardesi huṅ maiṅ laut ke aauṅ ga
 
   8
-  Teri yaad mein ro ro kar zindaan basaaye gi
+  Teri yaad meiṅ ro ro kar zindaan basaaye gi
   Phir maut Sakina ki ham sab ko rulaaye gi
-  Main us ki lahad bhi ae baba haathoṅ se banaauṅ ga
-  Main ik bekas pardesi huṅ main laut ke aauṅ ga
+  Maiṅ us ki lahad bhi ae baba haathoṅ se banaauṅ ga
+  Maiṅ ik bekas pardesi huṅ maiṅ laut ke aauṅ ga
 
   9
   Paaband-e-rasan Yawar ye qaafila jab nikla
   Bimaar Imam mera karta raha ye nauha
   Hai teri qasam mujh ko baba tera naam bachaauṅ ga
-  Main ik bekas pardesi huṅ main laut ke aauṅ ga
+  Maiṅ ik bekas pardesi huṅ maiṅ laut ke aauṅ ga
 # source_id: nohayonline:7be1f73ad18e04a58f44
 # source_url: https://www.nohayonline.com/details_content.php?id=473
 # raw_sha256: f45bbd11774af1c3f469f38cde5a0bea175a2ddb0a3b7d4aee37a99ad634627f

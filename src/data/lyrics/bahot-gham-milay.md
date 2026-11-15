@@ -12,17 +12,17 @@ aliases: ["Bahot Gham Milay"]
 published: true
 romanLyrics: |-
   Bahot gham mile baba jaaṅ
-  Zindan mein baba ka sar jo mila
+  Zindan meiṅ baba ka sar jo mila
   Baali Sakina ne nauha kiya
-  Pardes mein ho gayi beamaan
+  Pardes meiṅ ho gayi beamaan
   Bahot gham mile baba jaaṅ
 
   1
   Kya kya na dhaaye sitam ashqiya ne
   Khaati rahi bibiyaṅ taaziyane
   Thi ek rasan aur baarah gale
-  Main qad mein chhoti sab the bare
-  Ghutoṅ pe main miloṅ chali bibiyaṅ
+  Maiṅ qad meiṅ chhoti sab the bare
+  Ghutoṅ pe maiṅ miloṅ chali bibiyaṅ
 
   2
   Shaam-e-gharibaṅ ka ghamnaak manzar
@@ -32,8 +32,8 @@ romanLyrics: |-
   Manzar tha wo al-Hafiz o al-Amaan
 
   3
-  Jab ban mein aayi gyaarah Muharram
-  Baba tha mujh par aseeri ka aalam
+  Jab ban meiṅ aayi gyaarah Muharram
+  Baba tha mujh par asiri ka aalam
   Phir mere dil par sitam ye hua
   Naize pe sar aap ka aa gaya
   Aankhoṅ se khun-e-jigar tha rawaaṅ
@@ -61,20 +61,20 @@ romanLyrics: |-
 
   7
   Haaṅ mere baba hai yaad ab bhi
-  Jab pusht-e-naaqa se main gir gayi thi
-  Tumse bichhar kar main soti na thi
-  Aaghosh-e-Zehra mein nind aa gayi
+  Jab pusht-e-naaqa se maiṅ gir gayi thi
+  Tumse bichhar kar maiṅ soti na thi
+  Aaghosh-e-Zehra meiṅ nind aa gayi
   Baad uske phir nind aayi kahaaṅ
 
   8
   Baaloṅ pe mere jo hai safedi
   Gham ki fazaayeṅ dekhi hai aisi
-  Nauhoṅ ka kamsin sahifa huṅ main
-  Ik chaar saala zaifa huṅ main
+  Nauhoṅ ka kamsin sahifa huṅ maiṅ
+  Ik chaar saala zaifa huṅ maiṅ
   Kham hai kamar meri misl-e-kamaaṅ
 
   9
-  Nauha jo likha Hameed Abidi ne
+  Nauha jo likha Hamid Abidi ne
   Likhwaaya Shabbir ki laadli ne
   Nauhoṅ se Safdar ki pehchaan hai
   Baali Sakina ka ehsaan hai

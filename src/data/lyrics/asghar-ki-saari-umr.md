@@ -21,7 +21,7 @@ romanLyrics: |-
 
   2
   Yasrab se kaarwaan chala nikli sawaariyaṅ
-  Gehwaara pusht-e-naaqa bana ghar maraiyan
+  Gehwaara pusht-e-naaqa bana ghar maraiyaṅ
   Raah-e-safar meiṅ din gaya shaam o sehar gayi
 
   3

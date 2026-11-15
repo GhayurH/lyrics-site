@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Aa dekh mere Ghazi uncha hai alam tera
-  Dil sine mein jab tak hai bhulega na gham tera
+  Dil sine meiṅ jab tak hai bhulega na gham tera
 
   1
   Zainab ki dua ban kar ik waqt wo aayega
@@ -35,12 +35,12 @@ romanLyrics: |-
   Zainab ke kaleje se gham kaise ho kam tera
 
   6
-  Bazaar mein zindaaṅ mein darbaar mein har lamha
+  Bazaar meiṅ zindaaṅ meiṅ darbaar meiṅ har lamha
   Zainab ki to saansoṅ pe tha naam raqam tera
 
   7
   Jab beh gaya sab paani tab saans teri tuti
-  Tha sine ke andar ya mashkize mein dam tera
+  Tha sine ke andar ya mashkize meiṅ dam tera
 
   8
   Awaaz teri Sarwar Shabbir se wabasta

@@ -11,9 +11,9 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Chain Sughra ko Madine mein nahiṅ aata tha
-  Baap ki yaad mein dil uska phata jaata tha
-  Roti thi tadapti thi buka karti thi Sughra
+  Chain Sughra ko Madine meiṅ nahiṅ aata tha
+  Baap ki yaad meiṅ dil uska phata jaata tha
+  Roti thi tarapti thi buka karti thi Sughra
   Tha Fatima Sughra ke laboṅ par yehi nauha
   Kehti thi ye ro kar Sughra
   Aajao watan ae baba
@@ -24,33 +24,33 @@ romanLyrics: |-
   Hai chaaroṅ taraf sannata
 
   2
-  Main kaise batauṅ baba
+  Maiṅ kaise batauṅ baba
   Din Eid ka kaise guzra
   Aankhoṅ se lahu tha behta
 
   3
   Koi to taras ab khaaye
   Aakar ke mujhe le jaaye
-  Kab tak main rahuṅ gi tanha
+  Kab tak maiṅ rahuṅ gi tanha
 
   4
-  Kis tarah sukuṅ main paauṅ
-  Dil kaise main ab behlaauṅ
+  Kis tarah sukuṅ maiṅ paauṅ
+  Dil kaise maiṅ ab behlaauṅ
   Asghar bhi nahiṅ hai mera
 
   5
-  Jhula main jhulati usko
-  Seene se lagati usko
+  Jhula maiṅ jhulati usko
+  Sine se lagati usko
   Gar hota wo nanha bhaiya
 
   6
   Ye khwaab hai jab se dekha
-  Mushkil mein hai mera kunba
+  Mushkil meiṅ hai mera kunba
   Hai tab se bahot hi sadma
 
   7
   Ab rok qalam ae Waiz
-  Seene mein nahiṅ dam Waiz
+  Sine meiṅ nahiṅ dam Waiz
   Mushkil hai bahot ab likhna
 # source_id: nohayonline:99b22f27ff49ad19fd06
 # source_url: https://www.nohayonline.com/details_content.php?id=3165

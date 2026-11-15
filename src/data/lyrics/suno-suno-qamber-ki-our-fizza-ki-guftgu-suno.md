@@ -23,29 +23,29 @@ romanLyrics: |-
   Donoṅ ko Ahl-e-Bait ki nisbat pe naaz tha
   Phir ye hua ke chhir gaya rutboṅ ka tazkira
   Is ghar ke naukaroṅ ki hai kya aabru suno
-  Us dam hui thi donoṅ mein jo guftgu suno
+  Us dam hui thi donoṅ meiṅ jo guftgu suno
 
   2
   Qanbar ye bola sab se rutba hai mera juda
-  Mashhur do jahaaṅ mein huṅ main Abd-e-Murtaza
+  Mashhur do jahaaṅ meiṅ huṅ maiṅ Abd-e-Murtaza
   Maula ne yuṅ kiya meri qismat ka faisla
   Shaayaan-e-shaan martaba mujh ko ata hua
-  Sad shukr main ghulaam-e-Janaab-e-Amir huṅ
+  Sad shukr maiṅ ghulaam-e-Janaab-e-Amir huṅ
   Shaahoṅ ko bhik deta huṅ aisa faqir huṅ
 
   3
   Fizza ne di sada mere puchho na martabe
-  Tai karti huṅ main lamhoṅ mein sadiyoṅ ke faasle
-  Mashhur do jahaaṅ mein haiṅ mere waqay
-  Hote haiṅ arsh waaloṅ mein bhi mere tazkire
+  Tai karti huṅ maiṅ lamhoṅ meiṅ sadiyoṅ ke faasle
+  Mashhur do jahaaṅ meiṅ haiṅ mere waqay
+  Hote haiṅ arsh waaloṅ meiṅ bhi mere tazkire
   Bas ye sifat hi kaafi hai Kaunain ke liye
-  Main rotiyaaṅ pakaati huṅ Hasnain ke liye
+  Maiṅ rotiyaaṅ pakaati huṅ Hasnain ke liye
 
   4
   Qanbar ye bola aaj suno mere moajizaat
-  Bas main hi jaanta huṅ ghulaami ki kul sifaat
+  Bas maiṅ hi jaanta huṅ ghulaami ki kul sifaat
   Jis dam Ali ke qadmoṅ pe hote haiṅ mere haath
-  Mehsus mujh ko hoti hai muththi mein kaainaat
+  Mehsus mujh ko hoti hai muththi meiṅ kaainaat
   Thokar se meri nur ke chashme ubalte haiṅ
   Shams o qamar bhi mere ishaaroṅ pe chalte haiṅ
 
@@ -54,39 +54,39 @@ romanLyrics: |-
   Kaisi hasiṅ mili hai mujhe kaainaat sun
   Woh tere moajize the mere moajizaat sun
   Pahuṅche haiṅ kis maqaam pe Fizza ke haath sun
-  Main ne Hasan Husain ko in se uthaaya hai
+  Maiṅ ne Hasan Husain ko in se uthaaya hai
   Zainab ko mere haathoṅ ne chalna sikhaaya hai
 
   6
-  Qanbar ye bola sach hai main koi Nabi nahiṅ
+  Qanbar ye bola sach hai maiṅ koi Nabi nahiṅ
   Mere liye to koi shariat bani nahiṅ
   Mujh ko koi kitaab Khuda se mili nahiṅ
-  Par mere ikhtiyaar mein bhi kuchh kami nahiṅ
+  Par mere ikhtiyaar meiṅ bhi kuchh kami nahiṅ
   Haidar ki naukari ke sabab kaamyaab huṅ
-  Main chalti phirti ishq-e-Ali ki kitaab huṅ
+  Maiṅ chalti phirti ishq-e-Ali ki kitaab huṅ
 
   7
-  Fizza ye boli dekh hai ismat ka main ne nur.
+  Fizza ye boli dekh hai ismat ka maiṅ ne nur.
   Khair-ul-Nisa ke faiz se haasil hai ye ghurur
   Maryam se barh ke bakhsha gaya hai mujhe shuur
   Mujh se rakha hai Fatima Zahra ne rijs se dur
   Khilqat se waaqif-e-khidmat-e-Bint-e-Rasul huṅ
-  Sadqa hai ye Batul ka main bhi Batul huṅ.
+  Sadqa hai ye Batul ka maiṅ bhi Batul huṅ.
 
   8
   Qanbar ye bola maanne waala huṅ wasl ka
-  Qaail huṅ dil se main bhi bila fasl wasl ka
+  Qaail huṅ dil se maiṅ bhi bila fasl wasl ka
   Sikha hai ba ke nuqte se har nuqta aql ka
   Mujh ko mila hai dars imaamat se adl ka
-  Saani nahiṅ hai koi mera khaas o aam mein
-  Maula ne mera haath bataaya hai kaam mein
+  Saani nahiṅ hai koi mera khaas o aam meiṅ
+  Maula ne mera haath bataaya hai kaam meiṅ
 
   9
   Fizza ye boli haaṅ ye Ali ka usul hai
   Ye bhi soch meri mudarris Batul hai
   Jis ke sabab shariatoṅ ka arz o tul hai
   Ehsaan kisi ka Fatima ko kab qubul hai
-  Bint-e-Nabi se main ne masaawaat sikhi hai
+  Bint-e-Nabi se maiṅ ne masaawaat sikhi hai
   Khud Fatima ne chakki mere saath pisi hai.
 
   10

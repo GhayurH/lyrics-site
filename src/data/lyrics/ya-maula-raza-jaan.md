@@ -14,7 +14,7 @@ romanLyrics: |-
   Shaah-e-Khurasaaṅ waaris-e-Quraaṅ ya Maula Raza jaan
 
   Ye sahn-e-Shifa hai aur lab pe dua hai
-  Darbaan banuṅ main bhi kar dijiye ehsaaṅ
+  Darbaan banuṅ maiṅ bhi kar dijiye ehsaaṅ
 
   1
   Jab dar pe tere aaye bala tal gayi maula
@@ -25,20 +25,20 @@ romanLyrics: |-
 
   2
   Maqruz-e-Karam hai tere dar ka ye zamaana
-  Hai teri sakhawat ka sakhawat mein bhi charcha
+  Hai teri sakhawat ka sakhawat meiṅ bhi charcha
   Iran hi kya khaati hai duniya tera sadqa
   Tere darbar talak maangne aaye malak
   Khaaliq ne tere ghar ko bakhshi hai alag shaan
 
   3
   Maasuma-e-Qum ki qasam ejaaz dikha do
-  Tum khwaab mein hi apna didaar kara do
+  Tum khwaab meiṅ hi apna didaar kara do
   Rukhsaar mere qabr ki jaali se laga do
   Nur-e-Ain-e-Musa mere aaqa maula
-  Faryaad meri sun lo main tum pe huṅ qurbaan
+  Faryaad meri sun lo maiṅ tum pe huṅ qurbaan
 
   Ye sahn-e-Shifa hai aur lab pe dua hai
-  Darbaan banuṅ main bhi kar dijiye ehsaan
+  Darbaan banuṅ maiṅ bhi kar dijiye ehsaan
 
   4
   Jo ishq hai tujh se usi inaam ka sikka
@@ -72,28 +72,28 @@ romanLyrics: |-
   Haami ho ghariboṅ ke Gharibul Ghuraba ho
   Tum bhi to azaadaar-e-Qatilal Abra ho
   Har ghari har lamha rahe mahw-e-Girya
-  Tum ne bhi raah-e-Haq mein sab kar diya qurbaaṅ
+  Tum ne bhi raah-e-Haq meiṅ sab kar diya qurbaaṅ
 
   8
   Maamun laiṅ ne ye ajab zulm kiya hai
-  Angur mein maula ko mere zehr diya hai
+  Angur meiṅ maula ko mere zehr diya hai
   Nila hai badan paas bohat waqt-e-Qaza hai
   Dard ka aalam hai har taraf maatam hai
   Bechainiyaaṅ barhti hai kuchh pal ke hai mehmaaṅ
 
   9
   Bibi koi thaame hue pahlu-e-Shikasta
-  Ro ro ke Khurasaan mein parhti hai ye noha
+  Ro ro ke Khurasaan meiṅ parhti hai ye noha
   Aulaad-e-Payambar ka hai dushman ye zamaana
   Haal Shabbar sa hua khuṅ ugalta hai Raza
-  Phir aaj hua mera pardes mein nuqsaaṅ
+  Phir aaj hua mera pardes meiṅ nuqsaaṅ
 
   10
   Ae Mir Hilal aaj bhi daawa hai ye mohkam
   Har saahib-e-Irfaan ko maalum hai Mesum
-  Ae saakin-e-Mashhad teri mitti mein hai aalam
-  Wajd mein rehta huṅ jab Ali kehta huṅ
-  Phir khatm kiya main ne dil kehta hai Quraaṅ
+  Ae saakin-e-Mashhad teri mitti meiṅ hai aalam
+  Wajd meiṅ rehta huṅ jab Ali kehta huṅ
+  Phir khatm kiya maiṅ ne dil kehta hai Quraaṅ
 # source_id: nohayonline:63848a873ec878815a7a
 # source_url: https://www.nohayonline.com/details_content.php?id=3679
 # raw_sha256: f66c415dc1981784f6c5994cc1c01034b2dadf4bde94de5b74ff33b7080d63fb

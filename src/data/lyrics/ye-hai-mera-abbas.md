@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Sar taa paa wafa hai ye
-  Sheroṅ mein bala hai ye
+  Sheroṅ meiṅ bala hai ye
   Haidar ki sada hai Abbas
   Jauhar wo dikha dega
   Baatil ko mita dega
@@ -33,10 +33,10 @@ romanLyrics: |-
 
   2
   Abbas ki hai is liye dunya ye diwaani
-  Abbas ke hai khun mein Haidar ki jawaani
+  Abbas ke hai khun meiṅ Haidar ki jawaani
   Abbas dua-e-dil-e-Zehra ki nishaani
   Abbas pe Hasnain ke jazboṅ ki rawaani
-  Lagta hai Ali aa gaye dunya mein dubaara
+  Lagta hai Ali aa gaye dunya meiṅ dubaara
   Ye hai mera Abbas
 
   Salaari alamdar
@@ -87,7 +87,7 @@ romanLyrics: |-
 
   5
   Jab ghere tha Abbas ko wo lashkar-e-kina
-  Abbas ke sine mein dharakti thi Sakina
+  Abbas ke sine meiṅ dharakti thi Sakina
   Sine pe kabhi mashk kabhi mashk pe sina
   Jab paani hi beh jaaye to phir kaahe ka jina
   Ab zinda palatna nahiṅ Ghaazi ko gawaara

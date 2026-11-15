@@ -21,7 +21,7 @@ romanLyrics: |-
   1
   Jab basi Karbobala wo hai aashur ka din
   Jis ka gham kam na hua wo hai yaad aashur ka din
-  Yaad mein jis ki sadaa bichhta hai farsh-e-aza
+  Yaad meiṅ jis ki sadaa bichhta hai farsh-e-aza
   Hota maatam hai bapa paara paara hai dil-e-Zehra
 
   Karo maatam karo gham aur parho nauha
@@ -32,7 +32,7 @@ romanLyrics: |-
 
   2
   Mominoṅ socho zara das Muharram jo hua
-  Ghar Nabi paak ka tha jo tha laakhoṅ mein ghira
+  Ghar Nabi paak ka tha jo tha laakhoṅ meiṅ ghira
   Jin pe har zulm hua jin ko paani na diya
   Pyaasa hi maar diya Aal-e-Ahmad ka ujar jaana
 

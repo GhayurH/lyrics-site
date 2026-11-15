@@ -11,25 +11,25 @@ tags: []
 aliases: ["Ek Shehensah Ki"]
 published: true
 romanLyrics: |-
-  Bachpan mein buzurgoṅ ne bataayi thi Karbala
+  Bachpan meiṅ buzurgoṅ ne bataayi thi Karbala
   Ek saahib-e-aalam ne basaayi thi Karbala
 
   1
-  Maa ne mujhe lori mein sunaayi thi Karbala
-  Us din se mere dil mein samaayi thi Karbala
+  Maa ne mujhe lori meiṅ sunaayi thi Karbala
+  Us din se mere dil meiṅ samaayi thi Karbala
   Maa ne sunaayi thi suno meri zabaani
   Mazlum shehenshah ki mazlum kahaani
   Tum bhi kaho maiṅ bhi kahuṅ
-  Gunj uthe saare zamaane mein yahi shor o shain
+  Gunj uthe saare zamaane meiṅ yahi shor o shain
   Husain Husain Imam Husain
 
   2
-  Wo shehenshah Madine mein raha karta tha
+  Wo shehenshah Madine meiṅ raha karta tha
   Jis ki maa Fatema Zehra thi Ali tha baaba
   Jis ka bhaai tha Hasan aur Nabi tha naana
-  Sab se afzal tha zamaane mein isi ka kunba
+  Sab se afzal tha zamaane meiṅ isi ka kunba
   Tum bhi kaho maiṅ bhi kahuṅ
-  Gunj uthe saare zamaane mein yahi shor o shain
+  Gunj uthe saare zamaane meiṅ yahi shor o shain
   Husain Husain Imam Husain
 
   3
@@ -38,7 +38,7 @@ romanLyrics: |-
   Ek farzand tha shehzaada Ali Asghar bhi
   Ek beti thi Sakina jo sukun-e-dil thi
   Tum bhi kaho maiṅ bhi kahuṅ
-  Gunj uthe saare zamaane mein yahi shor o shain
+  Gunj uthe saare zamaane meiṅ yahi shor o shain
   Husain Husain Imam Husain
 
   4
@@ -47,7 +47,7 @@ romanLyrics: |-
   Ek behan Zainab-e-Kubra thi haya ki malka
   Bhaai ke saath jo saaye ki tarah thi Wallaah
   Tum bhi kaho maiṅ bhi kahuṅ
-  Gunj uthe saare zamaane mein yahi shor o shain
+  Gunj uthe saare zamaane meiṅ yahi shor o shain
   Husain Husain Imam Husain
 
   5
@@ -56,7 +56,7 @@ romanLyrics: |-
   Betiyoṅ behnoṅ ko betoṅ ko bhi hamraah liya
   Ek ajab shaan se nikla tha su-e-Karb o Bala
   Tum bhi kaho maiṅ bhi kahuṅ
-  Gunj uthe saare zamaane mein yahi shor o shain
+  Gunj uthe saare zamaane meiṅ yahi shor o shain
   Husain Husain Imam Husain
 
   6
@@ -65,16 +65,16 @@ romanLyrics: |-
   Shaam ki faujoṅ ne darya pe lagaaya pehra
   Bas yahi se hua aaghaaz-e-sitam waawaila
   Tum bhi kaho maiṅ bhi kahuṅ
-  Gunj uthe saare zamaane mein yahi shor o shain
+  Gunj uthe saare zamaane meiṅ yahi shor o shain
   Husain Husain Imam Husain
 
   7
   Us shehenshah ke kunbe pe barhe ranj o alam
   Band haftum se hue aab o ghiza haaye sitam
   Tishna lab pir o jawaaṅ nauha kunaaṅ ahl-e-haram
-  Us shehenshah ke khaimoṅ mein bapa tha maatam
+  Us shehenshah ke khaimoṅ meiṅ bapa tha maatam
   Tum bhi kaho maiṅ bhi kahuṅ
-  Gunj uthe saare zamaane mein yahi shor o shain
+  Gunj uthe saare zamaane meiṅ yahi shor o shain
   Husain Husain Imam Husain
 
   8
@@ -83,25 +83,25 @@ romanLyrics: |-
   Chhaa gayi tishna labi mauj-e-rawaaṅ dur hui
   Aa gayi subh-e-dahum zindagi benur hui
   Tum bhi kaho maiṅ bhi kahuṅ
-  Gunj uthe saare zamaane mein yahi shor o shain
+  Gunj uthe saare zamaane meiṅ yahi shor o shain
   Husain Husain Imam Husain
 
   9
   Wo shehenshah ne phir waade nibhaaye saare
-  Apne aangan ke diye ban mein bujhaaye saare
+  Apne aangan ke diye ban meiṅ bujhaaye saare
   Ek ek kar ke janaaze bhi uthaaye saare
   Dard aur zakhm kaleje se lagaaye saare
   Tum bhi kaho maiṅ bhi kahuṅ
-  Gunj uthe saare zamaane mein yahi shor o shain
+  Gunj uthe saare zamaane meiṅ yahi shor o shain
   Husain Husain Imam Husain
 
   10
-  Wo shehenshah tha maqtal mein akela logoṅ
+  Wo shehenshah tha maqtal meiṅ akela logoṅ
   Ek musaafir ko sitamgaaroṅ ne ghera logoṅ
   Kund khanjar se gala pyaase ka kaata logoṅ
   Ho gaya qatl Muhammad ka nawaasa logoṅ
   Tum bhi kaho maiṅ bhi kahuṅ
-  Gunj uthe saare zamaane mein yahi shor o shain
+  Gunj uthe saare zamaane meiṅ yahi shor o shain
   Husain Husain Imam Husain
 
   11
@@ -110,7 +110,7 @@ romanLyrics: |-
   Sun chuke ahl-e-aza meri zabaani Safdar
   Ek shehenshah ki pur dard kahaani Safdar
   Tum bhi kaho maiṅ bhi kahuṅ
-  Gunj uthe saare zamaane mein yahi shor o shain
+  Gunj uthe saare zamaane meiṅ yahi shor o shain
   Husain Husain Imam Husain
 # source_id: nohayonline:16fe81d544b80e2216fd
 # source_url: https://www.nohayonline.com/details_content.php?id=3124

@@ -1,6 +1,6 @@
 ---
 title: "ہونٹوں پہ میرے نامِ علی نامِ علی ہے"
-alternateTitle: "Honton Pe Mere"
+alternateTitle: "Hontoṅ Pe Mere"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

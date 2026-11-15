@@ -27,8 +27,8 @@ romanLyrics: |-
   Kya the aur kya reh gaye hai haadiyaan-e-Lucknow
 
   4
-  Kal ki wo shaahi azaakhanoṅ mein teri majliseṅ
-  Jin mein ab tak kuch nazar aati hai shaan-e-Lucknow
+  Kal ki wo shaahi azaakhanoṅ meiṅ teri majliseṅ
+  Jin meiṅ ab tak kuch nazar aati hai shaan-e-Lucknow
 
   5
   Ae Ali ke laadle daaman na chhoreṅge tera
@@ -39,11 +39,11 @@ romanLyrics: |-
   Tere rauze ko uthaa laaye miyaan-e-Lucknow
 
   7
-  Do mahine aath din tak tere maatam mein Husain
+  Do mahine aath din tak tere maatam meiṅ Husain
   Arsh se jaa jaa ke takraai fughaan-e-Lucknow
 
   8
-  Khuld mein shaam o sahar ki majlisoṅ ke waaste
+  Khuld meiṅ shaam o sahar ki majlisoṅ ke waaste
   Fatema ne chun liye do khushbayaan-e-Lucknow
 
   9
@@ -83,7 +83,7 @@ romanLyrics: |-
   Aur de sakte hai kya hum muflisaan-e-Lucknow
 
   18
-  Daagh-e-maatam aur ye aaṅsu pesh kar dena Shaheed
+  Daagh-e-maatam aur ye aaṅsu pesh kar dena Shahid
   Aakhri Shabbir jab aaye miyaan-e-Lucknow
 # source_id: nohayonline:e70111586a1a03ce6d33
 # source_url: https://www.nohayonline.com/details_content.php?id=1865

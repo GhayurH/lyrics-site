@@ -1,6 +1,6 @@
 ---
 title: "علی کی شان بتانے غدیر آئی ہے"
-alternateTitle: "Ali Ki Shaan Batane Ghadeer Aayi Hai"
+alternateTitle: "Ali Ki Shaan Batane Ghadir Aayi Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -13,40 +13,40 @@ published: true
 # source_url: https://tajpoints.com/2019/08/ali-ki-shan-batane-ghadeer-aayi-hai.html
 # raw_sha256: 11d87e40a22d530f7471cda450e4aae3ebca129a393e0befc4d2bcba672d046e
 romanLyrics: |-
-  Ali ki shaan batane Ghadeer aayi hai
-  Munafiqoṅ ko jalane Ghadeer aayi hai
+  Ali ki shaan batane Ghadir aayi hai
+  Munafiqoṅ ko jalane Ghadir aayi hai
   Rasul kar do wo ailan jo farz hai tujh par
-  Diya ye hukm Khuda ne Ghadeer aayi hai
+  Diya ye hukm Khuda ne Ghadir aayi hai
 
   1
-  Hai aaj khatre mein kaar-e-risalat-e-Mursal
-  Nabuwatoṅ ko bachane Ghadeer aayi hai
+  Hai aaj khatre meiṅ kaar-e-risalat-e-Mursal
+  Nabuwatoṅ ko bachane Ghadir aayi hai
   Ali Wali ki wilayat ka ho gaya ailan
-  Wila ki khushiyaṅ manane Ghadeer aayi hai
+  Wila ki khushiyaṅ manane Ghadir aayi hai
 
   2
   Rasul Maula haiṅ jis ke haiṅ us ke Maula Ali
-  Samaṅ ye aaj dikhane Ghadeer aayi hai
+  Samaṅ ye aaj dikhane Ghadir aayi hai
   Ali se ishq hai kis ko hai kis ko bughz-e-Ali
-  Naqab sab ke hatane Ghadeer aayi hai
+  Naqab sab ke hatane Ghadir aayi hai
 
   3
   Ye bole Qanbar o Miqdad Buzar o Salman
-  Khushi ke aaye zamane Ghadeer aayi hai
+  Khushi ke aaye zamane Ghadir aayi hai
   Kahiṅ pe aag giri to siyah chehre hue
-  Lo aaj un ko jalane Ghadeer aayi hai
+  Lo aaj un ko jalane Ghadir aayi hai
 
   4
   Bakhin bakhin to kaha par diloṅ pe tir lage
-  Qulub un ke dukhane Ghadeer aayi hai
-  Mare be maut kayi log sun ke hukm-e-Rasul
-  Lapeta un ko qaza ne Ghadeer aayi hai
+  Qulub un ke dukhane Ghadir aayi hai
+  Mare bemaut kayi log sun ke hukm-e-Rasul
+  Lapeta un ko qaza ne Ghadir aayi hai
 
   5
-  Ghadeer walo piyo ishq-e-Murtaza ki sharab
-  Sharab-e-ishq pilane Ghadeer aayi hai
-  Mujhe hai bazm-e-wila mein Ae Danish-e-Abbas
-  Ali ke git sunane Ghadeer aayi hai
+  Ghadir walo piyo ishq-e-Murtaza ki sharab
+  Sharab-e-ishq pilane Ghadir aayi hai
+  Mujhe hai bazm-e-wila meiṅ Ae Danish-e-Abbas
+  Ali ke git sunane Ghadir aayi hai
 ---
 
 علی کی شان بتانے غدیر آئی ہے

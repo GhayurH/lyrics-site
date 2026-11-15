@@ -15,7 +15,7 @@ romanLyrics: |-
   Tuti hui hai aaj bhi Zehra ki pasliyaṅ
 
   1
-  Haq maṅgne jo Fatima darbar mein gayi
+  Haq maṅgne jo Fatima darbar meiṅ gayi
   Baithe rahe the log kisi ne haya na ki
   Zainab ki maaṅ khari rahi logoṅ ke darmiyaṅ
 
@@ -32,12 +32,12 @@ romanLyrics: |-
   4
   Darbar se jo laut ke Bint-e-Nabi gayi
   Guzre na us maqam se Maula Hasan kabhi
-  Jis kuche mein giri thi zamiṅ par Hasan ki maaṅ
+  Jis kuche meiṅ giri thi zamiṅ par Hasan ki maaṅ
 
   5
   Aabad hoga phir se wo ujra hua dayar
   Tab hoga khatm Fatima Sughra ka intezar
-  Akbar ki tarah doge Madine mein jab azaṅ
+  Akbar ki tarah doge Madine meiṅ jab azaṅ
 
   6
   Tanhai qaid durre yatimi andhera ghar
@@ -45,13 +45,13 @@ romanLyrics: |-
   Ab aur kitna hoga Sakina ka imtihan
 
   7
-  Kariyal jawaṅ ko roti hai turbat mein aaj bhi
+  Kariyal jawaaṅ ko roti hai turbat meiṅ aaj bhi
   Akbar ke to kaleje se barchhi nikal gayi
   Zainab ke dil se nikli nahiṅ aaj tak sinaṅ
 
   8
-  Bali Sakina qaid hai zindaṅ mein aaj bhi
-  Akbar hai intezar mein beti Husain ki
+  Bali Sakina qaid hai zindaṅ meiṅ aaj bhi
+  Akbar hai intezar meiṅ beti Husain ki
   Ab bhi sunai deti hai bachchi ki hichkiyaṅ
 # source_id: nohayonline:efb428638c41dab8c531
 # source_url: https://www.nohayonline.com/details_content.php?id=1069

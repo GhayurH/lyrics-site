@@ -31,7 +31,7 @@ romanLyrics: |-
   Aap ke gham se agar qalb munawwar hoṅge
   Ashk aankhoṅ se gireṅge to wo gauhar hoṅge
   Ye alam taaziye tabut uthaauṅga sada
-  Aap ke gham ko main sine mein basaauṅga sada
+  Aap ke gham ko maiṅ sine meiṅ basaauṅga sada
   Baad mere meri nasloṅ ka ye hoga shewa
   Ae Husain aap se ye waada raha
   Husain ya Husain
@@ -41,7 +41,7 @@ romanLyrics: |-
   Mere Maula ye azadari nahiṅ chhoreṅge
   Ho balaaeṅ ya wabaaeṅ ya koi ho mushkil
   Bas yehi kehta hai har ek azadaar ka dil
-  Hum bichhaayeṅge har ek haal mein ye farsh-e-aza
+  Hum bichhaayeṅge har ek haal meiṅ ye farsh-e-aza
   Ae Husain aap se ye waada raha
   Husain ya Husain
 
@@ -55,7 +55,7 @@ romanLyrics: |-
   Husain ya Husain
 
   5
-  Nasl dar nasl mere kunbe mein aisa hoga
+  Nasl dar nasl mere kunbe meiṅ aisa hoga
   Har koi Hazrat-e-Shabbir ka shaida hoga
   Hai fida tum pe meri jaaṅ Husain ibn-e-Ali
   Mere maaṅ baap bhi qurban Husain ibn-e-Ali
@@ -65,15 +65,15 @@ romanLyrics: |-
 
   6
   Sadqe Shabbir ke hai mera nasiba chamka
-  Maine jo daman-e-Shabbir ka saaya paaya
+  Maiṅ ne jo daman-e-Shabbir ka saaya paaya
   Ab kabhi daman-e-Shabbir na hum chhoreṅge
-  God mein azmat-e-Islam ki dam toreṅge
+  God meiṅ azmat-e-Islam ki dam toreṅge
   Hurr yehi kehta hua janib-e-maqtal hai chala
   Ae Husain aap se ye waada raha
   Husain ya Husain
 
   7
-  Bhul jaauṅ main wo aada ke sitam na mumkin
+  Bhul jaauṅ maiṅ wo aada ke sitam na mumkin
   Yaad mujhko na rahe bhai ka gham na mumkin
   Ye zamiṅ aur falak shajar o hajar mahshar tak
   Gham manaayeṅge tera jinn o bashar mahshar tak
@@ -94,7 +94,7 @@ romanLyrics: |-
   Aap ka zikr nahiṅ chhoreṅge ye waada hai
   Zakiroṅ ka mere Sarkar yehi waada hai
   Thak nahiṅ sakti zabaaṅ ruk nahiṅ sakta hai qalam
-  Dam mein Aamir ke Shanawar ke hai jis dam tak dam
+  Dam meiṅ Aamir ke Shanawar ke hai jis dam tak dam
   Aap ke naam ka karte hi raheṅge charcha
   Ae Husain aap se ye waada raha
 # source_id: nohayonline:91a205c388eb0a1fc5a2

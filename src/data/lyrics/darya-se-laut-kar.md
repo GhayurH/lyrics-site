@@ -23,14 +23,14 @@ romanLyrics: |-
 
   3
   Keh kar jahaaṅ se chal diye Abbas-e-ba wafa
-  Aaqa mera janaaza na khaimoṅ mein jaa sake
+  Aaqa mera janaaza na khaimoṅ meiṅ jaa sake
 
   4
   Darya se paani laa ke gira dete the lain
   Asghar ko ik bund na paani pila sake
 
   5
-  Aawaaz do Abbas ko zindaan-e-Shaam mein
+  Aawaaz do Abbas ko zindaan-e-Shaam meiṅ
   Tishna dahan Sakina ki turbat bana sake
 # source_id: nohayonline:2d1c9fa041191bfc0c0e
 # source_url: https://www.nohayonline.com/details_content.php?id=38

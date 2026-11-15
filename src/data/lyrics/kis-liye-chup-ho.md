@@ -23,19 +23,19 @@ romanLyrics: |-
 
   2
   Fatema tuta hai pehlu haaye ye zulm o sitam
-  Rukh pe saili ke nishaaṅ haiṅ haath mein bhi hai waram
+  Rukh pe saili ke nishaaṅ haiṅ haath meiṅ bhi hai waram
   Ji rahi thi kis tarah itna bata do Fatema
   Haaye ya Zehra haaye ya Zehra
 
   3
   Koi deta hai jawab ab aur na karta hai salaam
-  Aisi ghurbat mein nahiṅ karti ho kiuṅ mujh se kalaam
+  Aisi ghurbat meiṅ nahiṅ karti ho kiuṅ mujh se kalaam
   Mujh se tum baateṅ karo kuch gham mita do Fatema
   Haaye ya Zehra haaye ya Zehra
 
   4
-  Fatema pal bhar judaai seh nahiṅ paauṅga main
-  Dard-e-dil apna kisi se keh nahiṅ paauṅga main
+  Fatema pal bhar judaai seh nahiṅ paauṅga maiṅ
+  Dard-e-dil apna kisi se keh nahiṅ paauṅga maiṅ
   Mujh ko jine ka zara sa hausla do Fatema
   Haaye ya Zehra haaye ya Zehra
 
@@ -46,7 +46,7 @@ romanLyrics: |-
   Haaye ya Zehra haaye ya Zehra
 
   6
-  Yaad kar ke ro raha hai ek goshe mein Husain
+  Yaad kar ke ro raha hai ek goshe meiṅ Husain
   Uth ke tum paani pilaati thiṅ use milta tha chain
   Laal pyaasa hai utho paani pila do Fatema
   Haaye ya Zehra haaye ya Zehra
@@ -58,8 +58,8 @@ romanLyrics: |-
   Haaye ya Zehra haaye ya Zehra
 
   8
-  Waqt-e-rukhsat aisa lagta hai ke main mar jaauṅga
-  Apne haathoṅ se tumheṅ main kis tarah dafnaauṅga
+  Waqt-e-rukhsat aisa lagta hai ke maiṅ mar jaauṅga
+  Apne haathoṅ se tumheṅ maiṅ kis tarah dafnaauṅga
   Sakht mushkil hai miri himmat barha do Fatema
   Haaye ya Zehra haaye ya Zehra
 
@@ -77,7 +77,7 @@ romanLyrics: |-
 
   11
   Ro rahe haiṅ sun ke sab ahl-e-aza gham ka bayaaṅ
-  Kaash khud keh deṅ Payambar ye Dabeer o Shadmaaṅ
+  Kaash khud keh deṅ Payambar ye Dabir o Shadmaaṅ
   Haiṅ tumhaare maatami in ko jaza do Fatema
   Haaye ya Zehra haaye ya Zehra
 # source_id: nohayonline:d05be2ee0082a3caae1c

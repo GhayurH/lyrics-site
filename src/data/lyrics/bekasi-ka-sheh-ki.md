@@ -21,7 +21,7 @@ romanLyrics: |-
   Mujrai mehmaan pyaasa reh gaya
 
   2
-  Zohr tak jab fauj pahuṅchi khuld mein
+  Zohr tak jab fauj pahuṅchi khuld meiṅ
   Saahib-e-lashkar akela reh gaya
   Mujrai mehmaan pyaasa reh gaya
 
@@ -36,18 +36,18 @@ romanLyrics: |-
   Mujrai mehmaan pyaasa reh gaya
 
   5
-  Kehti thi maaṅ soe Asghar qabr mein
+  Kehti thi maaṅ soe Asghar qabr meiṅ
   Haaye khaali un ka jhula reh gaya
   Mujrai mehmaan pyaasa reh gaya
 
   6
   Zakhm khaate hi jo Akbar gir pare
-  Chhid ke barchhi mein kaleja reh gaya
+  Chhid ke barchhi meiṅ kaleja reh gaya
   Mujrai mehmaan pyaasa reh gaya
 
   7
   Jab hui beparda aulaad-e-Rasul
-  Phir jahaaṅ mein kis ka parda reh gaya
+  Phir jahaaṅ meiṅ kis ka parda reh gaya
   Mujrai mehmaan pyaasa reh gaya
 # source_id: nohayonline:f6ab54d1f8b72ee5467b
 # source_url: https://www.nohayonline.com/details_content.php?id=1904

@@ -16,15 +16,15 @@ romanLyrics: |-
 
   1
   Allah re hifaazat-e-millat ka ehtimaam
-  Tufaan mein charaagh ko jalaaya Husain ne
+  Tufaan meiṅ charaagh ko jalaaya Husain ne
 
   2
-  Khushbu usi ki phaili hai saare jahaaṅ mein
-  Jo phul Karbala mein khilaaya Husain ne
+  Khushbu usi ki phaili hai saare jahaaṅ meiṅ
+  Jo phul Karbala meiṅ khilaaya Husain ne
 
   3
   Paighaam jo Nabi ne sunaaya tamaam umr
-  Sab kuchh wo ek din mein sunaaya Husain ne
+  Sab kuchh wo ek din meiṅ sunaaya Husain ne
 
   4
   Jo kaam ambiya-e-salaf se na ho saka
@@ -40,7 +40,7 @@ romanLyrics: |-
 
   7
   Ek ek se puchhte the mera chaand hai kidhar
-  Jab ran mein naujawaaṅ ko na paaya Husain ne
+  Jab ran meiṅ naujawaaṅ ko na paaya Husain ne
 
   8
   Chehre pe mal ke Asghar-e-maasum ka lahu

@@ -36,11 +36,11 @@ romanLyrics: |-
 
   6
   Jis tarah jigar tera tukre hai isi tarah
-  Bat jaayega tukroṅ mein Qasim ka badan Maula
+  Bat jaayega tukroṅ meiṅ Qasim ka badan Maula
 
   7
   Jin haathoṅ se Zainab ne tiroṅ ko nikaala hai
-  Hogi unhiṅ haathoṅ mein ik roz rasan Maula
+  Hogi unhiṅ haathoṅ meiṅ ik roz rasan Maula
 
   8
   Ae Maula teri tarah zakhmi hai teri turbat

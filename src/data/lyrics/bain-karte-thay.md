@@ -1,6 +1,6 @@
 ---
 title: "بین کرتے تھے سرور ہائے نوجواں اکبر"
-alternateTitle: "Bain Karte Thay"
+alternateTitle: "Bain Karte The"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -17,40 +17,40 @@ romanLyrics: |-
   Naujawan bete ki ran se jab sada aayi
   Le chale su-e-maqtal Shaah-e-diṅ ko tanhaai
   Kuch nazar na aata tha jaa chuki thi binaai
-  Kehte the tumheṅ dhunduṅ main kahaaṅ kahaaṅ Akbar
+  Kehte the tumheṅ dhunduṅ maiṅ kahaaṅ kahaaṅ Akbar
 
   2
   Jis ghari Shah-e-waala pahunche laash-e-Akbar par
   Phat gaya jigar gham se dekhte hi ye manzar
   Muztarib tha reti par ham shabih-e-Paighambar
-  Le rahe the ruk ruk kar ran mein hichkiyaaṅ Akbar
+  Le rahe the ruk ruk kar ran meiṅ hichkiyaaṅ Akbar
 
   3
   Shaah-e-diṅ ye kehte the chup ho kis liye beta
-  Baap ko zaifi mein daagh de gaye kaisa
-  Kya bataauṅ main tum ko haal jo hai Laila ka
+  Baap ko zaifi meiṅ daagh de gaye kaisa
+  Kya bataauṅ maiṅ tum ko haal jo hai Laila ka
   Kis tarah rahe zinda ab tumhaari maaṅ Akbar
 
   4
   Kuch to bolo kiuṅ aakhir karwateṅ badalte ho
   Donoṅ haath sine par baar baar rakhte ho
   Kya guzar gayi beta kis liye tarapte ho
-  Kiuṅ ragarte ho aakhir ran mein eriyaaṅ Akbar
+  Kiuṅ ragarte ho aakhir ran meiṅ eriyaaṅ Akbar
 
   5
-  Haaye teri shaadi ka dil mein maaṅ ke armaaṅ tha
+  Haaye teri shaadi ka dil meiṅ maaṅ ke armaaṅ tha
   Kaise ab wo dekhe gi tera khuṅ bhara laasha
-  Jaa ke Umm-e-Laila se ab main kya kahuṅ beta
-  Haaye ye jawaani aur dil mein ye sinaaṅ Akbar
+  Jaa ke Umm-e-Laila se ab maiṅ kya kahuṅ beta
+  Haaye ye jawaani aur dil meiṅ ye sinaaṅ Akbar
 
   6
-  Karbala ke jangal mein kaisa waqt-e-ghurbat hai
+  Karbala ke jangal meiṅ kaisa waqt-e-ghurbat hai
   Ek ghamzada maaṅ par kaisi ye qayaamat hai
   Saamne nigaahoṅ ke naujawaaṅ ki mayyat hai
-  Bekasi mein Laila ka hai ye imtihaaṅ Akbar
+  Bekasi meiṅ Laila ka hai ye imtihaaṅ Akbar
 
   7
-  Tha Sohail khemoṅ mein ek hashr sa barpa
+  Tha Sohail khemoṅ meiṅ ek hashr sa barpa
   Laa ke rakh diya Shah ne naujawan ka laasha
   Tha laboṅ pe Zainab ke har ghari yehi nauha
   Meri god ke paale mere naujawaaṅ Akbar

@@ -1,6 +1,6 @@
 ---
 title: "ہونٹوں سے پھولوں کی برسات ہوتی ہے"
-alternateTitle: "Honton Se Phulon Ki Barsaat Hoti Hai"
+alternateTitle: "Hontoṅ Se Phuloṅ Ki Barsaat Hoti Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

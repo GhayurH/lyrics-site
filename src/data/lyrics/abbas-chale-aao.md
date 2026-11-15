@@ -25,13 +25,13 @@ romanLyrics: |-
   Abbas Abbas chale aao Abbas
 
   3
-  Shabbir ki nazroṅ mein tarik zamana hai
-  Uljha hua barchhi mein Akbar ka kaleja hai
+  Shabbir ki nazroṅ meiṅ tarik zamana hai
+  Uljha hua barchhi meiṅ Akbar ka kaleja hai
   Hamshakl-e-Nabi ka bhi adu ne na kiya paas
   Abbas Abbas chale aao Abbas
 
   4
-  Khaimoṅ mein ravaṅ har su ik aag ka darya hai
+  Khaimoṅ meiṅ ravaṅ har su ik aag ka darya hai
   Aur pusht pe Zainab ki bemaar bhatija hai
   Aulad-e-Payambar ka adu ne na kiya paas
   Abbas Abbas chale aao Abbas
@@ -43,7 +43,7 @@ romanLyrics: |-
   Abbas Abbas chale aao Abbas
 
   6
-  Sunte haiṅ ke Zainab ke bazu mein rasan hogi
+  Sunte haiṅ ke Zainab ke bazu meiṅ rasan hogi
   Darbar-e-Sitam hoga sar nange behan hogi
   Aankhoṅ se lahu roeṅge Sajjad basad yaas
   Abbas Abbas chale aao Abbas

@@ -26,31 +26,31 @@ romanLyrics: |-
 
   3
   Hai Umm-e-Laila ke lab pe nauha wawaila
-  Lahu mein duba hai laal mera wawaila
+  Lahu meiṅ duba hai laal mera wawaila
   Hua hai sine ke paar neza wawaila
   Fida ho maadar Ali Ali
 
   4
   Nabi ki surat Nabi ki sirat ae Akbar
-  Nisar tujh pe jahan ki azmat ae Akbar
+  Nisar tujh pe jahaṅ ki azmat ae Akbar
   Pukarti hai tujhe shahadat ae Akbar
   Ae gul-e-Haider Ali Ali
 
   5
-  Padar ki aankhon ka nur ho tum ae dilbar
-  Suna hai zakhmon se chur ho tum ae dilbar
+  Padar ki aankhoṅ ka nur ho tum ae dilbar
+  Suna hai zakhmoṅ se chur ho tum ae dilbar
   Kiuṅ haye maadar se dur ho tum ae dilbar
   Dua-e-maadar Ali Ali
 
   6
   Hai khun ki pyasi ye fauj-e-aada aa jao
   Utare Zainab tumhara sadqa aa jao
-  Sadaeṅ deti hain bint-e-Zehra aa jao
+  Sadaeṅ deti haiṅ bint-e-Zehra aa jao
   Rida-e-Zainab Ali Ali
 
   7
-  Batao Kamil likhuṅ main kaise woh manzar
-  Bapa tha Karbobala mein haye woh mahshar
+  Batao Kamil likhuṅ maiṅ kaise woh manzar
+  Bapa tha Karbobala meiṅ haye woh mahshar
   Uthaye laasha kamar khamida the Sarwar
   Sada-e-Akbar Ali Ali
 # source_note: personal notebook ODT import on 2026-11-08; no unique source record ID

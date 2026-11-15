@@ -20,7 +20,7 @@ romanLyrics: |-
   2
   Sab ko bata raha hai wilaayat ki manzilat
   Kaandhoṅ pe Murta ko uthaana Rasul ka
-  Taarikh ki nigaah ne Mehbooz kar liya
+  Taarikh ki nigaah ne Mehbuz kar liya
   Bahr-e-madad Ali ko bulaana Rasul ka
 
   3
@@ -32,8 +32,8 @@ romanLyrics: |-
   4
   Pehre laga rahe haiṅ sar-e-Jannat-ul-Baqi
   Jo naam chaahte haiṅ mitaana Rasul ka
-  Hai Panjtan ke ishq ki surat mein jalwa gar
-  Yasir Raza ke dil mein khazaana Rasul ka
+  Hai Panjtan ke ishq ki surat meiṅ jalwa gar
+  Yasir Raza ke dil meiṅ khazaana Rasul ka
 # source_id: tajpoints:b1a782fc7490ebd45450
 # source_url: https://tajpoints.com/2018/07/gun-kyun-na-gaye-aaj-zamana-rasool-ka.html
 # raw_sha256: 4a6bdb56384662fdaf15d55a6e633d7def5d70915e5ab91086794c6b351aad09

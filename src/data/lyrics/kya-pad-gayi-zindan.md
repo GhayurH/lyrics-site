@@ -11,7 +11,7 @@ tags: []
 aliases: ["Kya Pad Gayi Zindan"]
 published: true
 romanLyrics: |-
-  Kya par gayi zindaan mein uftaad Sakina
+  Kya par gayi zindaan meiṅ uftaad Sakina
   Sab se judaa ho gayi naashaad Sakina
 
   1
@@ -19,7 +19,7 @@ romanLyrics: |-
   Faryaad hai faryaad hai faryaad Sakina
 
   2
-  Takraati hai zindaan mein diwaar se sar ko
+  Takraati hai zindaan meiṅ diwaar se sar ko
   Tum mar gayi maaṅ ho gayi barbaad Sakina
 
   3
@@ -43,7 +43,7 @@ romanLyrics: |-
   Reh jaayegi taa hashr teri yaad Sakina
 
   8
-  Hai hathkari haathoṅ mein to paaoṅ mein haiṅ beri
+  Hai hathkari haathoṅ meiṅ to paaoṅ meiṅ haiṅ beri
   Dafnaate haiṅ phir bhi tumheṅ Sajjad Sakina
 
   9

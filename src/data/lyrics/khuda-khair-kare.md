@@ -46,7 +46,7 @@ romanLyrics: |-
   Beriyaṅ hoti haiṅ tayyaar Khuda khair kare
 
   9
-  Aaj bhi sinoṅ mein zinda hai Husain ibn-e-Ali
+  Aaj bhi sinoṅ meiṅ zinda hai Husain ibn-e-Ali
   Saara aalam hai azaadaar Khuda khair kare
 
   10
@@ -54,7 +54,7 @@ romanLyrics: |-
   Kam na ho aap ke zawwaar Khuda khair kare
 
   11
-  Sheh ke maatam mein Hilal aisi fiza gunj uthi
+  Sheh ke maatam meiṅ Hilal aisi fiza gunj uthi
   Hue larzaaṅ dar o diwaar Khuda khair kare
 # source_id: nohayonline:0110ec24654f76ae10da
 # source_url: https://www.nohayonline.com/details_content.php?id=1732

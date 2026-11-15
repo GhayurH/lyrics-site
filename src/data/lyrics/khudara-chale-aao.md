@@ -19,7 +19,7 @@ romanLyrics: |-
   Bahut huṅ chhoti bataauṅ kaise
   Jo mujhko taklif ho rahi hai
   Are ae Baba teri Sakina
-  Andhere zindaaṅ mein ro rahi hai
+  Andhere zindaaṅ meiṅ ro rahi hai
   Bichhar ke Asghar se aur tum se
   Sakina jaaṅ apni kho rahi hai
   Na aaye Ammu na aaye tum
@@ -30,7 +30,7 @@ romanLyrics: |-
   Andhera zindaan aur Sakina
   Sahaara dene ko kaun aaye
   Jo aaye dene ko aaye iza
-  Jo zakhm Shaam-e-alam mein paaya
+  Jo zakhm Shaam-e-alam meiṅ paaya
   Wo dekho Baba hai ab bhi taaza
   Na aaye Ammu na aaye tum
   Khudara chale aao
@@ -39,14 +39,14 @@ romanLyrics: |-
   Ye meri tifli ye mera bachpan
   Musibatoṅ ke pahaar tute
   Is ek nanhe se dil pe dekho
-  Uthaaye haiṅ main ne kitne sadme
-  Sadaaeṅ deti thi main tarap kar
+  Uthaaye haiṅ maiṅ ne kitne sadme
+  Sadaaeṅ deti thi maiṅ tarap kar
   Magar khabar meri li na tum ne
   Na aaye Ammu na aaye tum
   Khudara chale aao
 
   4
-  Dinoṅ ko baazaar mein phire hum
+  Dinoṅ ko baazaar meiṅ phire hum
   To raat zindaan ka andhera
   Nehr pe Ammu gaye haiṅ jab se
   Tarap gayi aab ko Sakina

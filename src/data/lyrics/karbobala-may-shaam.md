@@ -1,6 +1,6 @@
 ---
 title: "کرب و بلا میں شام ہوئی"
-alternateTitle: "Karb o Bala Mein Shaam"
+alternateTitle: "Karb o Bala Meiṅ Shaam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,12 +10,12 @@ tags: []
 aliases: ["Karbobala May Shaam"]
 published: true
 romanLyrics: |-
-  Karb o Bala mein shaam hui
+  Karb o Bala meiṅ shaam hui
 
   1
-  Suraj nikla tha Yasrab mein
+  Suraj nikla tha Yasrab meiṅ
   Dubte suraj ki ye ziya hai
-  Jo dunya mein aam hui
+  Jo dunya meiṅ aam hui
 
   2
   Haq kya hai baatil kya hai
@@ -27,7 +27,7 @@ romanLyrics: |-
   Zainab se puchho kiun kar
   Din guzra tha Aashure ka
   Subh hui to kya manzar tha
-  Kis aalam mein shaam hui
+  Kis aalam meiṅ shaam hui
 
   4
   Akbar ka sehra dekheṅ
@@ -36,13 +36,13 @@ romanLyrics: |-
   Bano ki naakaam hui
 
   5
-  Sar de kar raah-e-haq mein
+  Sar de kar raah-e-haq meiṅ
   Naize pe tilaawat farmaai
   Baad-e-qatl-e-sibt-e-Payambar
   Meraaj-e-Islam hui
 
   6
-  Aabid ne raah-e-Kufa mein
+  Aabid ne raah-e-Kufa meiṅ
   Wo azm o himmat dikhlaai
   Paaoṅ se zanjir lipat kar
   Dard se har har gaam hui

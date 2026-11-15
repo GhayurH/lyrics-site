@@ -19,7 +19,7 @@ romanLyrics: |-
   Asiroṅ par rahi sab ki nazar Sajjad rota hai
 
   2
-  Wo shiddat dhup ki jalti zamiṅ aur paaoṅ mein chhaale
+  Wo shiddat dhup ki jalti zamiṅ aur paaoṅ meiṅ chhaale
   Sitam hai bekasoṅ par is qadar Sajjad rota hai
 
   3
@@ -31,7 +31,7 @@ romanLyrics: |-
   Tarapti hai wo gham se bepidar Sajjad rota hai
 
   5
-  Rasan basta phuphi hai aur gala mera hai rassi mein
+  Rasan basta phuphi hai aur gala mera hai rassi meiṅ
   Koi aa kar hamaari le khabar Sajjad rota hai
 
   6
@@ -40,10 +40,10 @@ romanLyrics: |-
 
   7
   Ghazab hai saat sau kursi nashiṅ darbaar zaalim ka
-  Ke jis mein Aal-e-Ahmad nange sar Sajjad rota hai
+  Ke jis meiṅ Aal-e-Ahmad nange sar Sajjad rota hai
 
   8
-  Baabar jab majlis-e-Shabbir hoti hai kisi ghar mein
+  Baabar jab majlis-e-Shabbir hoti hai kisi ghar meiṅ
   Koi roye ya na roye magar Sajjad rota hai
 # source_id: nohayonline:64522cbd0ddaad6a840e
 # source_url: https://www.nohayonline.com/details_content.php?id=806

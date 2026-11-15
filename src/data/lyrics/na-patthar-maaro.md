@@ -12,27 +12,27 @@ aliases: []
 published: true
 romanLyrics: |-
   Na maaro na maaro na na maaro
-  Na patthar maaro main Zainab huṅ
+  Na patthar maaro maiṅ Zainab huṅ
 
-  Main bewatan main berida bhaai mera maara gaya
+  Maiṅ bewatan maiṅ berida bhaai mera maara gaya
   Baaba Ali maaṅ Sayyida karte ho kiuṅ mujh par jafa
 
   1
   Mehmaaṅ bula kar lut liya kaata hai mere bhaai ka gala
   Begor o kafan hai fauj-e-Khuda ae ahl-e-sitam ae ahl-e-jafa
-  Main Zainab-e-khasta jigar jalti zamiṅ par hai safar
-  Bhaai ki huṅ main nauhagar kiuṅ na kahuṅ sar pit kar
+  Maiṅ Zainab-e-khasta jigar jalti zamiṅ par hai safar
+  Bhaai ki huṅ maiṅ nauhagar kiuṅ na kahuṅ sar pit kar
 
   2
-  Aayi thi bhara ghar le kar main tum ne woh bhara ghar lut liya
+  Aayi thi bhara ghar le kar maiṅ tum ne woh bhara ghar lut liya
   Luti hai ridaaeṅ bhi sar se seh roz hameṅ paani na diya
   Khuṅ se bhara hai pairahan zakhmi hai pehle se badan
-  Hoti hai sine meiṅ dukhan main huṅ waqaar-e-Panjatan
+  Hoti hai sine meiṅ dukhan maiṅ huṅ waqaar-e-Panjatan
 
   3
   Kaantoṅ pe chalaate ho ham ko bejurm sataate ho ham ko
   Dikhla ke azizoṅ ke laashe tum log rulaate ho ham ko
-  Main dukhtar-e-Sher-e-Khuda naana mera hai Mustafa
+  Maiṅ dukhtar-e-Sher-e-Khuda naana mera hai Mustafa
   Chhini hai kiuṅ meri rida tum ko Khuda ka waasta
 
   4

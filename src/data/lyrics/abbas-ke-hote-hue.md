@@ -27,7 +27,7 @@ romanLyrics: |-
   Kya kareṅge ashqiya Abbas ke hote hue
 
   3
-  Haath mein wo khushk kuze aur sada-e-alatash
+  Haath meiṅ wo khushk kuze aur sada-e-alatash
   Hont nile zard chehre aur sada-e-alatash
   Saqi-e-Kausar ke bachche aur sada-e-alatash
   Kis ne socha tha bhala Abbas ke hote hue
@@ -41,11 +41,11 @@ romanLyrics: |-
   5
   Mujhko sone hi nahiṅ deti mere dil ki chubhan
   The yehi waqt-e-wasiyat mere Baba ki sukhan
-  Ae meri Zainab bandhegi tere shanoṅ mein rasan
+  Ae meri Zainab bandhegi tere shanoṅ meiṅ rasan
   Maan luṅ kaise bhala Abbas ke hote hue
 
   6
-  Maine maana hoṅgi faujeṅ dushmanoṅ ki saf ba saf
+  Maiṅ ne maana hoṅgi faujeṅ dushmanoṅ ki saf ba saf
   Ye to batlao zara beti ko Ya Shah-e-Najaf
   Dekheṅ nazroṅ ko utha kar ashqiya meri taraf
   Kaise mumkin hai bhala Abbas ke hote hue
@@ -57,10 +57,10 @@ romanLyrics: |-
   Kaun chhinega chacha Abbas ke hote hue
 
   8
-  Lut gaya Karbobala mein Fatema Zehra ka ghar
+  Lut gaya Karbobala meiṅ Fatema Zehra ka ghar
   Marsiya parhne laga jis dam Bashir-e-motabar
-  Ghaiz mein Ummul Banin boli asa ko thaam kar
-  Ye sitam kiun kar hua Abbas ke hote hue
+  Ghaiz meiṅ Ummul Banin boli asa ko thaam kar
+  Ye sitam kiuṅ kar hua Abbas ke hote hue
 
   9
   Marzi-e-Shabbir ke akkas ko kuchh mat kaho

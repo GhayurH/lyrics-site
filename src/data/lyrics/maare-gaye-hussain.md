@@ -13,12 +13,12 @@ published: true
 romanLyrics: |-
   Ya Husain ya Husain ya Husain ya Husain
 
-  Ran mein hai zer-e-khanjar Zehra ka nur-e-ain
+  Ran meiṅ hai zer-e-khanjar Zehra ka nur-e-ain
   Fizza ka hai ye nauha maare gaye Husain
 
   1
   Zakhmi badan hai saara pyaasa lahu lahu hai
-  Sayyidaaniyoṅ ka ran mein ye bain chaar su hai
+  Sayyidaaniyoṅ ka ran meiṅ ye bain chaar su hai
   Rahwaar se gira hai ab Fatima ka chain
 
   2
@@ -44,11 +44,11 @@ romanLyrics: |-
   6
   Bikhre hue zamiṅ par laashe pare hue haiṅ
   Beparda Bibiyaaṅ haiṅ qaidi khare hue haiṅ
-  Ahl-e-haram ka ran mein barpa hai shor o shain
+  Ahl-e-haram ka ran meiṅ barpa hai shor o shain
 
   7
   Bimaar par ghashi hai bistar bhi jal chuka hai
-  Abbas aao Zainab balwe mein berida hai
+  Abbas aao Zainab balwe meiṅ berida hai
   Jalte hue qayaam se utha ye shor o shain
 
   8

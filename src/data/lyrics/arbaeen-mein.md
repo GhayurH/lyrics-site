@@ -1,6 +1,6 @@
 ---
 title: "مولا بلا لو کربوبلا اربعین میں"
-alternateTitle: "Arbaeen Mein"
+alternateTitle: "Arbain Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,53 +11,53 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maula bula lo Karbobala Arbaeen mein
-  Karte haiṅ sogwaar dua Arbaeen mein
+  Maula bula lo Karbobala Arbain meiṅ
+  Karte haiṅ sogwaar dua Arbain meiṅ
 
   1
   Tute hue diloṅ ki hai ye aas dekh le
   Ek baar hum bhi rauza-e-Abbas dekh leṅ
-  Kar do sharaf ye hum ko ataa Arbaeen mein
+  Kar do sharaf ye hum ko ataa Arbain meiṅ
 
   2
   Aasaan kijiye sabhi dushwaar raaste
   Kab se tarap rahe haiṅ ziyarat ke waaste
-  Dikhla do khuld ek dafa Arbaeen mein
+  Dikhla do khuld ek dafa Arbain meiṅ
 
   3
-  Ja kar haram mein shukr ke sajde ada kare
+  Ja kar haram meiṅ shukr ke sajde ada kare
   Maula har ek shahid ki majlis bapa kare
-  Hum bhi bichhaayeṅ farsh-e-aza Arbaeen mein
+  Hum bhi bichhaayeṅ farsh-e-aza Arbain meiṅ
 
   4
   Maula tumheṅ janaab-e-Sakina ka waasta
   Hum ko bhi dekhna hai wo jannat ka raasta
-  Jaayeṅ Najaf se Karb o Bala Arbaeen mein
+  Jaayeṅ Najaf se Karb o Bala Arbain meiṅ
 
   5
   Maaṅ baap se kiya hai ye waada dikhaaunga
-  Main aap ko Husain ki duniya dikhaaunga
-  Karna hai mujhko waada wafa Arbaeen mein
+  Maiṅ aap ko Husain ki duniya dikhaaunga
+  Karna hai mujhko waada wafa Arbain meiṅ
 
   6
-  Har waqt bas ye fikr hai mere khayaal mein
-  Lagta hai mar na jaauṅ kahiṅ is malaal mein
-  Main ek dafa bhi ja na saka Arbaeen mein
+  Har waqt bas ye fikr hai mere khayaal meiṅ
+  Lagta hai mar na jaauṅ kahiṅ is malaal meiṅ
+  Maiṅ ek dafa bhi ja na saka Arbain meiṅ
 
   7
   Is baar kar do mere safar ka kuchh intezaam
   Har saal soch soch ke reh jaata hai ghulaam
-  Jaati hai saari khalq-e-Khuda Arbaeen mein
+  Jaati hai saari khalq-e-Khuda Arbain meiṅ
 
   8
   Is ghamzada ke qalb ki khwaahish hai aakhri
   Jis waqt bhi ho aap ke rauze pe haazri
-  Ho jaaye meri ruh fanaa Arbaeen mein
+  Ho jaaye meri ruh fanaa Arbain meiṅ
 
   9
   Hai Aamir o Kumail ki Maula se iltija
-  Hum bekasoṅ ka khalq mein tum hi ho aasra
-  Kar lo qubul sab ki dua Arbaeen mein
+  Hum bekasoṅ ka khalq meiṅ tum hi ho aasra
+  Kar lo qubul sab ki dua Arbain meiṅ
 # source_id: nohayonline:789ae9b1038b64afa3ac
 # source_url: https://www.nohayonline.com/details_content.php?id=2798
 # raw_sha256: b7182bc068f9e59c6dd7b29f51bf584b43c011ed995031dcb75ffc2f5611e8a6

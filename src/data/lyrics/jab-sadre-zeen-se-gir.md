@@ -15,12 +15,12 @@ romanLyrics: |-
   Akbar ne daur kar shah-e-waala se ye kaha
   Chaliye huzur nehr pe maare gaye chacha
   Bedast dushmanoṅ ne kiya us diler ko
-  Ro aaiye taraai mein Haidar ke sher ko
+  Ro aaiye taraai meiṅ Haidar ke sher ko
 
   1
   Ye sun ke pitte hue uthe zamiṅ se shaah
   Farmaaya hai ghazab mere bachche hue tabaah
-  Ye kya kaha ke aankhoṅ mein din ho gaya siyaah
+  Ye kya kaha ke aankhoṅ meiṅ din ho gaya siyaah
   Mazlum se bichhar gaye Abbas aah aah
   Muddat hui tamaam Sakina ke chain ki
   Tora falak ne aaj kamar ko Husain ki
@@ -34,7 +34,7 @@ romanLyrics: |-
   Sina khula hua tha garebaaṅ phata hua
 
   3
-  Pahunche juṅhi taraai mein ba-dida-e-pur aab
+  Pahunche juṅhi taraai meiṅ ba-dida-e-pur aab
   Dekha hai tapaaṅ hai khaak pe farzand-e-Buturaab
   Shaanoṅ pe ki nazar to jigar ko rahi na taab
   Bas haaye bhaai keh ke gira wo falak janaab
@@ -45,13 +45,13 @@ romanLyrics: |-
   Muṅh rakh ke khuṅ bhare hue chehre pe di sada
   Bhaiya Husain aaya hai aawaaz do zara
   Hai. Haath donoṅ haath badan se hue juda
-  Baazu ke sadqe in tere shaanoṅ ke main fida
+  Baazu ke sadqe in tere shaanoṅ ke maiṅ fida
   Bhaiya hamaare haath to bekaar ho gaye
   Tum haath kho ke Jafar-e-Tayyaar ho gaye
 
   5
   Muṅh rakh ke muṅh pe kehne lage shaah-e-khush khisaal
-  Abbas main kin aankhoṅ se dekhuṅ tera ye haal
+  Abbas maiṅ kin aankhoṅ se dekhuṅ tera ye haal
   Is dam bhi hai tumheṅ mere aadaab ka khayaal
   Jab zabah hoṅge ham to kise hoega malaal
   Sadqe Husain tere tan-e-paash paash ke
@@ -66,24 +66,24 @@ romanLyrics: |-
   Kis tarah uth ke gird phiruṅ chur chur huṅ
 
   7
-  Baithe haiṅ aap aur main leta huṅ aah aah
+  Baithe haiṅ aap aur maiṅ leta huṅ aah aah
   Kya daur hai huzur agar bakhsh deṅ gunaah
   Sar shaq hai zarb-e-gurz se yaa shaah-e-diṅ panaah
   Karwat bhi ab to le nahiṅ sakta hai khairkhwaah
-  Dukhte haiṅ bolne mein jaraahat phate hue
+  Dukhte haiṅ bolne meiṅ jaraahat phate hue
   Dekheṅ huzur mere haiṅ baazu kate hue
 
   8
   Ye sun ke us diler ne ek sard aah ki
   Mashkize pe tarap ke ba-hasrat nigaah ki
-  Muṅh sharm se jhuka liya godi mein shaah ki
+  Muṅh sharm se jhuka liya godi meiṅ shaah ki
   Haalat tabaah ho gayi Haidar ke maah ki
   Jab dil ko bekali ho to kis tarah kal pare
   Zaanuṅ pe shah ke aankhoṅ se aansuṅ nikal pare
 
   9
   Farmaaya shah ne kis liye rote ho zaar zaar
-  Lo ab kuchh apna haal kaho tum pe main nisaar
+  Lo ab kuchh apna haal kaho tum pe maiṅ nisaar
   Kya ji pe hai bani jo tarapte ho baar baar
   Ki arz us jari ne ke hai waqt-e-ehtizaar
   Aaqa se chhutne ka khalal hai ghulaam ko
@@ -102,7 +102,7 @@ romanLyrics: |-
   Chhoro mujhe Khuda ke liye pitne do sar
   Waaris mera guzar gaya luta ajal ne ghar
   Haaye haaye yatim ho gaye donoṅ mere pisar
-  Pardes mein Ali ke pisar se bichhar gayi
+  Pardes meiṅ Ali ke pisar se bichhar gayi
   Ab khaak uraane do ke meri maang ujar gayi
 # source_id: nohayonline:6168fddce4a61c530dea
 # source_url: https://www.nohayonline.com/content_marsiya.php?id=3

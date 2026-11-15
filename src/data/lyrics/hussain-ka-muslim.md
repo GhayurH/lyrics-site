@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Gharib ho gaya kitna Husain ka Muslim
-  Hua hai Kufe mein tanha Husain ka Muslim
+  Hua hai Kufe meiṅ tanha Husain ka Muslim
 
   1
   Wo darbadar sar-e-Kufa hai mil nahiṅ sakte
@@ -22,7 +22,7 @@ romanLyrics: |-
   2
   Kisi ne maare the patthar kisi ke tir chale
   To koi maar raha tha gharib ko neze
-  Tab ek gare mein gira tha Husain ka Muslim
+  Tab ek gare meiṅ gira tha Husain ka Muslim
 
   3
   Ae Ibn-e-Ziyaad zabaaṅ ko lagaam de apni
@@ -40,7 +40,7 @@ romanLyrics: |-
   Khabar ye de nahiṅ paaya Husain ka Muslim
 
   6
-  Jab aaya qaafila Kufe mein ro pari Farwa
+  Jab aaya qaafila Kufe meiṅ ro pari Farwa
   Jo dekha laasha-e-besar hai khun aaluda
   Hai dar pe Kufe ke latka Husain ka Muslim
 

@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Asghar ko qatl gaah mein laaye Husain jab
+  Asghar ko qatl gaah meiṅ laaye Husain jab
   Rote hue Furaat ne dekhe wo sukhe lab
 
   1
@@ -22,26 +22,26 @@ romanLyrics: |-
 
   2
   Roz qalam pe arsh pe rote the Ambiya
-  Hille mein tir jor raha tha jo Hurmala
+  Hille meiṅ tir jor raha tha jo Hurmala
   Is imtihaan-e-sabr pe khud maut ne kaha
   Baano ke mah laqa ko bacha bas Husain bas
 
   3
   Isa jigar figaar the Musa bhi ashk baar
   Yaaqub de rahe the sada ro ke baar baar
-  Karb o bala mein thi yehi Ayyub ki pukaar
+  Karb o bala meiṅ thi yehi Ayyub ki pukaar
   Munh ko kaleja aane laga bas Husain bas
 
   4
   Kehte the Nuh apne safine ko chhor kar
-  Gardish mein na aaye kahiṅ phir se bahr o bar
+  Gardish meiṅ na aaye kahiṅ phir se bahr o bar
   Sar ko jhukaaye kehte the yuṅ nusba chashm-e-tar
   Manzar hai dardnaak bara bas Husain bas
 
   5
   Salman apne takht-e-hawaai pe rote the
   Yusuf ye zulm dekh ke behosh hote the
-  Daaud kisht-e-qalb mein ashkoṅ ko bote the
+  Daaud kisht-e-qalb meiṅ ashkoṅ ko bote the
   Aadam ki aa rahi thi sada bas Husain bas
 
   6

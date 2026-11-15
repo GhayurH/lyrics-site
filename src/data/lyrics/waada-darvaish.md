@@ -29,11 +29,11 @@ romanLyrics: |-
 
   4
   Misaal Hur ki hai maujud har bashar ke liye
-  Wo Hurmala ke qabile mein ab rahe to rahe
+  Wo Hurmala ke qabile meiṅ ab rahe to rahe
 
   5
   Kisi Yazid ke aage wo jhuk nahiṅ sakta
-  Husainiyat ki baqa mein ye sar kate to kate
+  Husainiyat ki baqa meiṅ ye sar kate to kate
 
   6
   Kahiṅ na jaayeṅ ge Maula ko chhor kar Ansaar

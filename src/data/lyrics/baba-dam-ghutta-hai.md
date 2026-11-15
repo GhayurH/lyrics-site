@@ -11,28 +11,28 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Viraan udaas ghar mein Sughra ki ye sada hai
-  Tanhaaiyoṅ mein baba dam mera ghut raha hai
+  Viraan udaas ghar meiṅ Sughra ki ye sada hai
+  Tanhaaiyoṅ meiṅ baba dam mera ghut raha hai
   Baba dam ghutta hai
 
   1
   Rudaad apne gham ki ashkoṅ se likh rahi huṅ
-  Tanha main baithe baithe har dam ye sochti huṅ
+  Tanha maiṅ baithe baithe har dam ye sochti huṅ
   Lene nahiṅ tum aaye kya tum ko ho gaya hai
 
   2
-  Qasim ko dekh luṅ main Asghar ko dekh luṅ main
+  Qasim ko dekh luṅ maiṅ Asghar ko dekh luṅ maiṅ
   Chhoti behan se mil luṅ Akbar ko dekh luṅ main
-  Bimaar huṅ main baba meri yehi dawa hai
+  Bimaar huṅ maiṅ baba meri yehi dawa hai
 
   3
   Khaali pare haiṅ hujre sune pare haiṅ bistar
   Dasta hai mujh ko baba ujra hua mera ghar
-  Kya aap ki nazar mein meri yehi saza hai
+  Kya aap ki nazar meiṅ meri yehi saza hai
 
   4
   Aa jaayeṅ aap waapas ya phir mujhe bulaa leṅ
-  Furqat mein aap ki hum ghut ghut ke mar na jaayeṅ
+  Furqat meiṅ aap ki hum ghut ghut ke mar na jaayeṅ
   Wo shiddat-e-aalam hai dam lab pe aa gaya hai
 
   5
@@ -41,9 +41,9 @@ romanLyrics: |-
   Ek dard-e-mustaqil hai ashkoṅ ka silsila hai
 
   6
-  Bas mein nahiṅ hai mere ab intezaar karna
+  Bas meiṅ nahiṅ hai mere ab intezaar karna
   Mere taraf se baba tum us ko pyaar karna
-  Asghar ka muskuraana nazroṅ mein phir raha hai
+  Asghar ka muskuraana nazroṅ meiṅ phir raha hai
 
   7
   Maula ye sher kab hai tukre haiṅ ye jigar ke

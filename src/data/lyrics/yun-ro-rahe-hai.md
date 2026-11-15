@@ -1,6 +1,6 @@
 ---
 title: "یوں رو رہے ہیں دیکھ کے زینب کو مرتظی"
-alternateTitle: "Yun Ro Rahe Hai"
+alternateTitle: "Yuṅ Ro Rahe Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -39,7 +39,7 @@ romanLyrics: |-
   Kya yaad aa gayi hai musalle pe Karbala
 
   7
-  Darbaar-e-Shaam jaauṅ ga Zainab main tere saath
+  Darbaar-e-Shaam jaauṅ ga Zainab maiṅ tere saath
   Akbar ye keh ke ho gaye khaamosh Murtaza
 # source_id: nohayonline:40a2772959d66dc9cb37
 # source_url: https://www.nohayonline.com/details_content.php?id=2580

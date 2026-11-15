@@ -46,19 +46,19 @@ romanLyrics: |-
   Bint-e-Ali zamin pe giri thaam kar jigar
   Phaila ke dono haath buka-e-wo nauhagar
   Qurbaan kar diye haiṅ pisar dono bhai par
-  Zainab ye keh rahi thi bayaabaaṅ mein nange sar
+  Zainab ye keh rahi thi bayaabaaṅ meiṅ nange sar
 
   6
   Bikhra para tha azmat-e-tauhid ka Quraan
   Bimaar-e-Karbala pe ajab tha ye imtihaaṅ
-  Pehlu mein saath jis ke Sakina thi nim jaaṅ
+  Pehlu meiṅ saath jis ke Sakina thi nim jaaṅ
   Naize pe sar Husain ka dekha to di azaaṅ
 
   7
   Bint-e-Ali ne sabr ka har imtihaaṅ diya
-  Aankhoṅ mein ashk aaye to ashkoṅ ko pi liya
+  Aankhoṅ meiṅ ashk aaye to ashkoṅ ko pi liya
   Kufa ki Shahzaadi ne paidal safar kiya
-  Raah-e-Khuda mein jo diya ye soch kar diya
+  Raah-e-Khuda meiṅ jo diya ye soch kar diya
 
   8
   Yawar har ek gham ka mudaawa hai Ya Husain

@@ -25,7 +25,7 @@ romanLyrics: |-
   2
   Ye sunte hi Abbas ke abru pe bal aaya
   Barh kar ye sunaaya
-  Hargiz nahiṅ tum logoṅ ka kuchh is mein ijaara
+  Hargiz nahiṅ tum logoṅ ka kuchh is meiṅ ijaara
   Darya hai hamaara
 
   3
@@ -41,15 +41,15 @@ romanLyrics: |-
   Darya hai hamaara
 
   5
-  Bedinoṅ ki in baatoṅ ko khaatir mein na laao
-  Ghusse mein na aao
+  Bedinoṅ ki in baatoṅ ko khaatir meiṅ na laao
+  Ghusse meiṅ na aao
   Ham wo haiṅ diya Nuh ki kashti ko sahaara
   Darya hai hamaara
 
   6
   Mar kar bhi na bhuluṅ ga safarayi ko teri
   Saqqaai ko teri
-  Hai tere muqaddar mein azal se ye kanaara
+  Hai tere muqaddar meiṅ azal se ye kanaara
   Darya hai hamaara
 
   7

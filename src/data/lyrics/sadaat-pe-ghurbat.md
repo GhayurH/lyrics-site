@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Sadaat pe ghurbat mein ye shaam bhi aani thi
+  Sadaat pe ghurbat meiṅ ye shaam bhi aani thi
   Jaan Aabid-e-muztar ki Zainab ko bachaani thi
 
   1
@@ -28,7 +28,7 @@ romanLyrics: |-
 
   4
   Paani nahiṅ maanga phir ek baar yatima ne
-  Aankhoṅ mein Sakina ke darya ki rawaani thi
+  Aankhoṅ meiṅ Sakina ke darya ki rawaani thi
 
   5
   Zainab se koi puchhe kis kis ko pukaara tha
@@ -39,7 +39,7 @@ romanLyrics: |-
   Jab laash-e-jawaaṅ ran se bhaai ko uthaani thi
 
   7
-  Jaari hai Kaleem ab tak zanjir ki aankhoṅ se
+  Jaari hai Kalim ab tak zanjir ki aankhoṅ se
   Sajjad ke zakhmoṅ ki jo khuṅ fishaani thi
 # source_id: nohayonline:c28f0f4ae24bfa68c08a
 # source_url: https://www.nohayonline.com/details_content.php?id=3697

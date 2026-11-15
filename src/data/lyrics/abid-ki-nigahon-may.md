@@ -1,6 +1,6 @@
 ---
 title: "عابد کی نگاہوں میں ہر کرب کا منظر ہے"
-alternateTitle: "Abid Ki Nigahon Mein"
+alternateTitle: "Abid Ki Nigahoṅ Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ aliases: []
 published: true
 reciter: "Hadi Ali Khan Muslim"
 romanLyrics: |-
-  Abid ki nigahoṅ mein har karb ka manzar hai
+  Abid ki nigahoṅ meiṅ har karb ka manzar hai
 
   1
   Yalghaar hai ghoroṅ ki aur Qasim-e-bepar hai
@@ -21,7 +21,7 @@ romanLyrics: |-
 
   2
   Hai aalam-e-tanhai aur zulm ka lashkar hai
-  Nargha hai laeenoṅ ka aur jaan-e-Payambar hai
+  Nargha hai lainoṅ ka aur jaan-e-Payambar hai
   Teghoṅ se badan zakhmi aur tiroṅ ka bistar hai
   Shabbir ki gardan hai aur Shimr ka khanjar hai
 
@@ -32,39 +32,39 @@ romanLyrics: |-
   Pyase ka sar zakhmi aur gurz-e-sitamgar hai
 
   4
-  Karbal ke biyabaṅ mein aasaar haiṅ mahshar ke
-  Bikhre hue maidaṅ mein laashe haiṅ bahattar ke
-  Zainab ki nigahoṅ mein sab zakhm haiṅ Sarwar ke
+  Karbal ke biyabaṅ meiṅ aasaar haiṅ mahshar ke
+  Bikhre hue maidaṅ meiṅ laashe haiṅ bahattar ke
+  Zainab ki nigahoṅ meiṅ sab zakhm haiṅ Sarwar ke
   Jalti hui reti hai aur laasha-e-besar hai
 
   5
   Khamosh biyabaṅ hai aur shaam-e-gharibaṅ hai
-  Har aankh mein ashkoṅ ka thehra hua tufaṅ hai
+  Har aankh meiṅ ashkoṅ ka thehra hua tufaṅ hai
   Bewaoṅ ka yatimoṅ ka ab kaun nigehbaṅ hai
   Jalte hue khaime haiṅ chhinti hui chadar hai
 
   6
-  Bazaar mein sar nange Ahmad ka gharana hai
-  Jakra hua rassi mein har Bibi ka shaana hai
-  Is haal mein Zainab ko darbar bhi jaana hai
+  Bazaar meiṅ sar nange Ahmad ka gharana hai
+  Jakra hua rassi meiṅ har Bibi ka shaana hai
+  Is haal meiṅ Zainab ko darbar bhi jaana hai
   Har simt tamashai Zainab ka khula sar hai
 
   7
   Hai pusht-e-Sakina par durroṅ ke nishaṅ saare
   Kaanoṅ se lahu jaari rukhsar bhi haiṅ sujhe
-  Zakhmoṅ mein jalan jaise bhar de koi angaare
+  Zakhmoṅ meiṅ jalan jaise bhar de koi angaare
   Har lamha tamaanche haiṅ har gaam pe mahshar hai
 
   8
-  Darbar mein qaidi hai aulad-e-Payambar ki
-  Sar tasht mein Sarwar ka kaisi ye adawat thi
+  Darbar meiṅ qaidi hai aulad-e-Payambar ki
+  Sar tasht meiṅ Sarwar ka kaisi ye adawat thi
   Hontoṅ pe Shah-e-diṅ ke zaalim ne chhari rakhi
   Zainab ki nazar har dam bhai ke laboṅ par hai
 
   9
-  Wo sajda-e-shukrana hangaam-e-qayamat mein
-  Chalta raha kaantoṅ par jo dhup ki shiddat mein
-  Rote haiṅ sada Ahsan hum jis ki musibat mein
+  Wo sajda-e-shukrana hangaam-e-qayamat meiṅ
+  Chalta raha kaantoṅ par jo dhup ki shiddat meiṅ
+  Rote haiṅ sada Ahsan hum jis ki musibat meiṅ
   Us ke liye nazrana ashkoṅ ka samandar hai
 # source_id: nohayonline:644892f58e7dfa021e18
 # source_url: https://www.nohayonline.com/details_content.php?id=1951

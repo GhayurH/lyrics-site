@@ -11,29 +11,29 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zainab ne jis ko paala nuri hijaab mein
-  Wo qatl ho gaya hai ahd-e-shabaab mein
+  Zainab ne jis ko paala nuri hijaab meiṅ
+  Wo qatl ho gaya hai ahd-e-shabaab meiṅ
   Haaye Akbar haaye Akbar
 
   1
   Akbar ki laash dekhi to Shabbir ne kaha
-  Sughra ko kya likhuṅ ga khat ke jawaab mein
+  Sughra ko kya likhuṅ ga khat ke jawaab meiṅ
 
   2
   Khaime se nikle Akbar to sab ko gumaaṅ hua
-  Sarwar hoṅ jaise baithe zin-e-Uqaab mein
+  Sarwar hoṅ jaise baithe zin-e-Uqaab meiṅ
 
   3
   Us ko bhi zaalimoṅ ne hai naize pe charhaaya
-  Ji bhar ke jo na khela god-e-Rubaab mein
+  Ji bhar ke jo na khela god-e-Rubaab meiṅ
 
   4
   Maatam ka masala hai ye ham se na puchhiye
-  Sab kuchh likha hua hai Umm-ul-Kitaab mein
+  Sab kuchh likha hua hai Umm-ul-Kitaab meiṅ
 
   5
-  Tapka lahu jo ban mein Shabbir ka Amir
-  Ubhra wo aaj ban kar shakl-e-gulaab mein
+  Tapka lahu jo ban meiṅ Shabbir ka Amir
+  Ubhra wo aaj ban kar shakl-e-gulaab meiṅ
 # source_id: nohayonline:bd65b42547327eedc826
 # source_url: https://www.nohayonline.com/details_content.php?id=664
 # raw_sha256: 89d2112779c92e99e85db43ea93f1ab85d7ffa02d4481a1a26b3a3ec243ea95c

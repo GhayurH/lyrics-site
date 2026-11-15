@@ -18,16 +18,16 @@ romanLyrics: |-
   Gham-e-Husain nayi nasl ke supurd karo
 
   1
-  Ye keh ke laao julusoṅ mein apne bachchoṅ ko
+  Ye keh ke laao julusoṅ meiṅ apne bachchoṅ ko
   Chalo hamaare qadam se qadam mila ke chalo
 
   2
   Mila tha jaise buzurgoṅ se tum ko waise hi
-  Alam jawaanoṅ ke haathoṅ mein apne haath se do
+  Alam jawaanoṅ ke haathoṅ meiṅ apne haath se do
 
   3
   Ba-rang-e-majlis o maatam ba-rang-e-zikr-e-Husain
-  Imam-e-waqt se har waqt raabte mein raho
+  Imam-e-waqt se har waqt raabte meiṅ raho
 
   4
   Ye baab-e-tauba khula hai har ek Hur ke liye
@@ -42,7 +42,7 @@ romanLyrics: |-
   Koi jawaab na do sirf ya Husain kaho
 
   7
-  Ye khwaab mein Ali Akbar behen se kehte the
+  Ye khwaab meiṅ Ali Akbar behen se kehte the
   Hum aaye haiṅ tumheṅ lene hamaare saath chalo
 
   8

@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Laash Qaasim pe ye kehte the Shehenshaah-e-zaman
-  Kaise le jaauṅ main mayyat teri farzand-e-Hasan
+  Kaise le jaauṅ maiṅ mayyat teri farzand-e-Hasan
   Tukre tukre hai badan
 
   1
@@ -22,7 +22,7 @@ romanLyrics: |-
   Tukre tukre hai badan
 
   2
-  Gham se phatta hai kaleja main agar sabr karuṅ
+  Gham se phatta hai kaleja maiṅ agar sabr karuṅ
   Kaun se dil se teri laash ko chaadar meiṅ bharuṅ
   Baith kar uthne nahiṅ deti zaifi ki thakan
   Tukre tukre hai badan

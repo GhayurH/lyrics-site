@@ -10,7 +10,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Sheh ran mein ye farmaate the
+  Sheh ran meiṅ ye farmaate the
   Ae paalne wale ae paalne wale
   Ik baap kaleje se sina kaise nikaale
 
@@ -18,7 +18,7 @@ romanLyrics: |-
   Yuṅ eriyaaṅ ragro na mere gesuoṅ wale
 
   1
-  Ye keh ke giri khaime mein maaṅ dasht mein Shabbir
+  Ye keh ke giri khaime meiṅ maaṅ dasht meiṅ Shabbir
   Akbar gaye rukhsat hue aankhoṅ ke ujaale
 
   2

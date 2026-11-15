@@ -17,14 +17,14 @@ romanLyrics: |-
   Haaṅ azakhane sajaane ki lagan zinda rahe
 
   Jab azakhana saje to dil bane farsh-e-aza
-  Dharkanoṅ mein matam-e-Shah-e-zaman zinda rahe
+  Dharkanoṅ meiṅ matam-e-Shah-e-zaman zinda rahe
 
   1
   Roz-e-Ashura julus-e-gham ko kya raahat se kaam
-  Yaad mein pyaase asiroṅ ki thakan zinda rahe
+  Yaad meiṅ pyaase asiroṅ ki thakan zinda rahe
 
   2
-  Ae azadaroṅ chalo mashk o alam ke saaye mein
+  Ae azadaroṅ chalo mashk o alam ke saaye meiṅ
   Ye tajammul ye hasham ye baak pan zinda rahe
 
   3
@@ -36,11 +36,11 @@ romanLyrics: |-
   Ae dua-e-Sayyida ye apna pan zinda rahe
 
   5
-  Chhote chhote se alam bachchoṅ ke haathoṅ mein raheṅ
-  Dil mein taabut-e-Sakina ki chubhan zinda rahe
+  Chhote chhote se alam bachchoṅ ke haathoṅ meiṅ raheṅ
+  Dil meiṅ taabut-e-Sakina ki chubhan zinda rahe
 
   6
-  Nauhakhwaaṅ matam ke saaye mein safar karte raheṅ
+  Nauhakhwaaṅ matam ke saaye meiṅ safar karte raheṅ
   Har bayaaz-e-gham khule har anjuman zinda rahe
 
   7

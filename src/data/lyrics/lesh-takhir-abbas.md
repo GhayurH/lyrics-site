@@ -15,16 +15,16 @@ romanLyrics: |-
   Lesh taakhir Abbas
 
   1
-  Raah takti huṅ main haaye din dhal gaya
+  Raah takti huṅ maiṅ haaye din dhal gaya
   Dur itni to ghar se nahiṅ Alqama
   Aur rahwaar bhi tez raftaar ka
-  Main ne jaate hue un ko di thi dua
+  Maiṅ ne jaate hue un ko di thi dua
   Beasar hai dua jaane kya ho gaya
   Lesh taakhir Abbas
 
   2
   Khaali kuze kahaaṅ tak sambhaale rahuṅ
-  Fazl o Baaqar ko kaise tasalli main duṅ
+  Fazl o Baaqar ko kaise tasalli maiṅ duṅ
   Pyaas lene nahiṅ deti ek pal sukuṅ
   Dhund laao unheṅ haaye kis se kahuṅ
   Dam ukharne laga ghut raha hai gala
@@ -32,32 +32,32 @@ romanLyrics: |-
 
   3
   Kab gaye the iraade se larne ke wo
-  Rakh gaye the wo ghar mein hi talwaar ko
+  Rakh gaye the wo ghar meiṅ hi talwaar ko
   Keh rahe the wo mujh se Sakina suno
   Laao mashkiza ae laadli ham ko do
-  Main huṅ dar par khari der kiuṅ ho gayi
+  Maiṅ huṅ dar par khari der kiuṅ ho gayi
   Lesh taakhir Abbas
 
   4
-  Main ne bachchoṅ se paani ka waada kiya
+  Maiṅ ne bachchoṅ se paani ka waada kiya
   Jhuta ho jaaye na haaye waada mera
-  Main Sakina huṅ daadi meri Sayyeda
+  Maiṅ Sakina huṅ daadi meri Sayyeda
   Waada jhuta nahiṅ hone dega Khuda
   Kiuṅ dharakta hai dil ho rahi hai khadil
   Lesh taakhir Abbas
 
   5
   Ab to maidaaṅ se fauj-e-adu ja chuki
-  Khatm dasht-e-bala mein laraai hui
-  Ab to suraj mein baaqi tapish na rahi
+  Khatm dasht-e-bala meiṅ laraai hui
+  Ab to suraj meiṅ baaqi tapish na rahi
   Kya sabab hai bataata nahiṅ hai koi
   Kya khafa ho gaye nehr par so gaye
   Lesh taakhir Abbas
 
   6
-  Is andhere mein kya kar rahe haiṅ wahaaṅ
+  Is andhere meiṅ kya kar rahe haiṅ wahaaṅ
   Aap hi kuchh bata dijiye ammaaṅ jaaṅ
-  Un ko maalum hai main huṅ tishna dahaaṅ
+  Un ko maalum hai maiṅ huṅ tishna dahaaṅ
   Ab to patthar hui ja rahi hai zabaaṅ
   Jina dushwaar hai khaime jalne lage
   Lesh taakhir Abbas
@@ -71,7 +71,7 @@ romanLyrics: |-
   Lesh taakhir Abbas
 
   8
-  Dafatan khun mein duba alam aa gaya
+  Dafatan khun meiṅ duba alam aa gaya
   Zakhmi mashkiza bhi tha alam se bandha
   Pyaasi bachchi ke haathoṅ se kuza gira
   Phir to zer-e-alam ek hi thi sada
@@ -88,7 +88,7 @@ romanLyrics: |-
 
   10
   Ae Rehaan o Raza tha ye sadma bara
-  Shor ahl-e-haram mein qayaamat ka tha
+  Shor ahl-e-haram meiṅ qayaamat ka tha
   Koi kehti thi bhaiya to koi chacha
   Chaadaroṅ ka na ab koi zaamin raha
   Chup Sakina hui kis se ye puchhti

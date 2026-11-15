@@ -16,8 +16,8 @@ romanLyrics: |-
 
   1
   Ruthi hai khushi mujh se har lamha naya gham hai
-  Dharkan ki sadaaoṅ mein tanhaai ka maatam hai
-  Bhaiya Ali Akbar ki furqat mein ye aalam hai
+  Dharkan ki sadaaoṅ meiṅ tanhaai ka maatam hai
+  Bhaiya Ali Akbar ki furqat meiṅ ye aalam hai
   Har saaṅs hai ik bhaala kab laut ke aaoge
 
   2
@@ -27,27 +27,27 @@ romanLyrics: |-
   Kya haal hai phuphiyoṅ ka kab laut ke aaoge
 
   3
-  Rehta hai tasawwur mein chehra Ali Akbar ka
-  Phirta hai nigaahoṅ mein jhula Ali Asghar ka
+  Rehta hai tasawwur meiṅ chehra Ali Akbar ka
+  Phirta hai nigaahoṅ meiṅ jhula Ali Asghar ka
   Allah muhaafiz hai ab mere bhare ghar ka
   Ghabrata hai dil mera kab laut ke aaoge
 
   4
   Aafat ke musibat ke ghurbat ke manaazir hai
   Ghere hue har lamha furqat ke manaazir hai
-  Ab tak bhi nigaahoṅ mein rukhsat ke manaazir haiṅ
+  Ab tak bhi nigaahoṅ meiṅ rukhsat ke manaazir haiṅ
   Yaad aata hai ghar saara kab laut ke aaoge
 
   5
   Kal Aun o Muhammad the aur Akbar o Asghar the
   Qasim tha Sakina thi Abbas-e-Dilaawar the
-  Saamaan sukuṅ ke sab jis ghar mein muyassar the
-  Us ghar mein hai sannata kab laut ke aaoge
+  Saamaan sukuṅ ke sab jis ghar meiṅ muyassar the
+  Us ghar meiṅ hai sannata kab laut ke aaoge
 
   6
   Bhaiya Ali Akbar ka jab byaah racha hoga
   Socha na kisi ne bhi hai dur bahut Sughra
-  Hasrat hai ke dekhuṅ main bhaai ko bane dulha
+  Hasrat hai ke dekhuṅ maiṅ bhaai ko bane dulha
   Gundhi huṅ yahaaṅ sehra kab laut ke aaoge
 
   7
@@ -66,13 +66,13 @@ romanLyrics: |-
   Shashmaah mera bhaai yaad aata hai reh reh kar
   Kya ghutniyoṅ chalta hai ab mera Ali Asghar
   Ho pyaar mera baba maasum ki aankhoṅ par
-  Daali huṅ main gehwaara kab laut ke aaoge
+  Daali huṅ maiṅ gehwaara kab laut ke aaoge
 
   10
   Kya yaas hai ae Rizvi pahuncha hai khat-e-Sughra
   Reti pe rakha Shah ne laasha Ali Asghar ka
   Rone lage beti ka khat parh ke Shah-e-waala
-  Khat mein yehi likha tha kab laut ke aaoge
+  Khat meiṅ yehi likha tha kab laut ke aaoge
 # source_id: nohayonline:f5165e0e95b29e1182b9
 # source_url: https://www.nohayonline.com/details_content.php?id=1966
 # raw_sha256: 8cb83710a0ef9fb5e39b63d3c7195295311534d55360c2710be8e073f578388a

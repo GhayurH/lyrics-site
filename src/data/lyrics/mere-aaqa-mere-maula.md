@@ -22,7 +22,7 @@ romanLyrics: |-
   Mere Ghaazi Abbas
 
   2
-  Aslahe mein tera hathyaar hai bas ek naiza
+  Aslahe meiṅ tera hathyaar hai bas ek naiza
   Koi talwaar nahiṅ
   Phir bhi larziza tere rob se hai har Shaami
   Mere Ghaazi Abbas
@@ -46,7 +46,7 @@ romanLyrics: |-
   Mere Ghaazi Abbas
 
   6
-  Haath jaise hi kate mashk ko daantoṅ mein liya
+  Haath jaise hi kate mashk ko daantoṅ meiṅ liya
   Rukh kiya khaimoṅ ka
   Dafatan mashk pe ek tir laga mashk chhidi
   Mere Ghaazi Abbas
@@ -54,7 +54,7 @@ romanLyrics: |-
   7
   Mashk se paani ka behna tha ke dil baith gaya
   Ab to kuchh bhi na raha
-  Aise mein durz laga sar pe qayaamat tuti
+  Aise meiṅ durz laga sar pe qayaamat tuti
   Mere Ghaazi Abbas
 
   8

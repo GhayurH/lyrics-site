@@ -11,36 +11,36 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Aaye jo is jahaṅ mein hamshakl-e-Mustafa
+  Aaye jo is jahaṅ meiṅ hamshakl-e-Mustafa
   Aisa laga ke chand zamiṅ par utar gaya
-  Aaya phuphi ki god mein jis waqt mahlaqa
+  Aaya phuphi ki god meiṅ jis waqt mahlaqa
   Peshani us ki chum ke Zainab ne ye kaha
-  Charcha karo jahan mein is shahkar ka
+  Charcha karo jahan meiṅ is shahkar ka
   Tohfa mila Husain ko Parwardigar ka
 
   1
   Alqissa shahr shahr khabar ho gayi ye aam
-  Akhbar mein likha gaya mazmun ye tamam
+  Akhbar meiṅ likha gaya mazmun ye tamam
   Akbar pe husn ka kiya Khaliq ne ikhtitam
   Na tha na hai na hoga Husain aisa wassalam
-  Mahbub-e-Haq hai shakl mein Haider hai shaan mein
-  Baham huwe Nabi o Ali phir jahaṅ mein
+  Mahbub-e-Haq hai shakl meiṅ Haider hai shaan meiṅ
+  Baham huwe Nabi o Ali phir jahaṅ meiṅ
 
   2
   Purashk Badshah-e-Halab ko siwa hua
-  Us ke khamir mein ye namak tha mila hua
+  Us ke khamir meiṅ ye namak tha mila hua
   Jis roz khalq Yusuf-e-Aal-e-Aba hua
   Us roz woh bhi morid-e-fazl-e-Khuda hua
-  Dil mein Ali ka ishq tha ye aarzu mili
+  Dil meiṅ Ali ka ishq tha ye aarzu mili
   Shah-e-Halab ko chand si beti ata hui
 
   3
   Shah-e-Halab ne paayi musarrat ki ye khabar
-  Utra hai aaj sahn-e-Muhammad mein ek qamar
+  Utra hai aaj sahn-e-Muhammad meiṅ ek qamar
   Khush ho gaya woh Shah-e-Halab bas ye soch kar
   Beti ka meri aqd ho is chand se agar
   Us roz se Halab ka woh sultan-e-namdar
-  Taron ke badle chand kiya karta tha shumar
+  Taroṅ ke badle chand kiya karta tha shumar
 
   4
   Atharhwaṅ baras hua Akbar ko jab shuru
@@ -54,25 +54,25 @@ romanLyrics: |-
   Pahuncha tera ariza hui ittila-e-haal
   Beti ke aqd ka Ali Akbar se hai khayal
   Arman hai kamal teri aarzu kamal
-  Main bhi dua karuṅga mubarak ho tujhko saal
+  Maiṅ bhi dua karuṅga mubarak ho tujhko saal
   Hai marzi-e-Maabud to inkar kya mera
-  Taqdir mein nahiṅ hai to iqrar kya mera
+  Taqdir meiṅ nahiṅ hai to iqrar kya mera
 
   6
   Shah-e-Halab ko pahuncha junhi ruqqa-e-Imam
   Khush ho gaya nasib ke khulne pe nek naam
   Zauja se apni karne laga is tarha kalam
   Beti ke aqd ki karo tayyariyaṅ tamam
-  Dunya o aakhirat mein teri aabru bane
+  Dunya o aakhirat meiṅ teri aabru bane
   Beti teri Husain ke ghar ki bahu bane
 
   7
   Samaṅ yahaṅ to tha Ali Akbar ke biyah ka
   Nikla udhar woh qafila Yasrab ke Shah ka
-  Aate hi dasht mein hua nargha sipah ka
+  Aate hi dasht meiṅ hua nargha sipah ka
   Ghera adu ne khaima risalatpanah ka
-  Dulhan ke ghar mein log ghiza nosh karte the
-  Dulha ke ghar mein tifl mein faqoṅ se marte the
+  Dulhan ke ghar meiṅ log ghiza nosh karte the
+  Dulha ke ghar meiṅ tifl meiṅ faqoṅ se marte the
 
   8
   Sehra wahaṅ bana Ali Akbar ke waste
@@ -85,10 +85,10 @@ romanLyrics: |-
   9
   Ab maajra Halab ka sunauṅ ke kya hua
   Shah-e-Halab ka mahal tha kaisa saja hua
-  Yasrab ka qasd tha dil mein chhupa hua
-  Itne mein ek shakhs wahaṅ runuma hua
+  Yasrab ka qasd tha dil meiṅ chhupa hua
+  Itne meiṅ ek shakhs wahaṅ runuma hua
   Us ne sunani aan ke di Badshah ko
-  Maqtal mein maar daala Shah-e-Diṅpanah ko
+  Maqtal meiṅ maar daala Shah-e-Diṅpanah ko
 
   10
   Sultan patak ke taj pukara ke kya hua
@@ -96,12 +96,12 @@ romanLyrics: |-
   Gharqab-e-ashk mazhar-e-nur-e-Khuda hua
   Yaani tabah gulshan-e-Aal-e-Aba hua
   Ye baat sun ke rone laga phir woh nek naam
-  Shadi ke ghar mein ho gaya majlis ka ehtimam
+  Shadi ke ghar meiṅ ho gaya majlis ka ehtimam
 
   11
-  Maqtal mein pahuncha ahl-e-haram ka jo karwaṅ
-  Dekha ke ek urus hai laashon ke darmiyaṅ
-  Bas ae Dabeer khatm karo marsiya yahaṅ
+  Maqtal meiṅ pahuncha ahl-e-haram ka jo karwaṅ
+  Dekha ke ek urus hai laashoṅ ke darmiyaṅ
+  Bas ae Dabir khatm karo marsiya yahaṅ
   Sar nange baal khole woh karne lagi fughaṅ
   Jaan-e-Husain ki mujhe is dam talaash hai
   Ae Karbala kidhar mere dulha ki laash hai

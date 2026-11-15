@@ -21,7 +21,7 @@ romanLyrics: |-
   Haiṅ wo sakhi baadshaah
   Ya Abbas
 
-  Diya jala ke Sakina ke naam ka ghar mein
+  Diya jala ke Sakina ke naam ka ghar meiṅ
   Janab-e-Hazrat-e-Abbas ko bulaaya karo
 
   1
@@ -33,12 +33,12 @@ romanLyrics: |-
   2
   Bahut qarib hai Abbas ke ye shahzaadi
   Jo dekhni ho mohabbat chacha bhatiji ki
-  Tum apne ghar mein sajaate hue azaakhaana
+  Tum apne ghar meiṅ sajaate hue azaakhaana
   Alam pe chhoti si ek mashk bhi sajaaya karo
 
   3
   Misaal-e-Karb o Bala hai karam nawaazi ki
-  Ye kamsini mein bhi mushkil kusha hai Ghaazi ki
+  Ye kamsini meiṅ bhi mushkil kusha hai Ghaazi ki
   Chacha se keh ke ghamoṅ se tumheiṅ chhura leiṅgi
   Sakina Bibi ko sab haal-e-dil sunaaya karo
 
@@ -50,12 +50,12 @@ romanLyrics: |-
 
   5
   Tum iske naam ki mannat utha ke maaṅgo dua
-  Husain sadqe mein iske kareiṅge beti ata
-  Tumhaare ghar mein jab aa jaaye chaand si beti
+  Husain sadqe meiṅ iske kareiṅge beti ata
+  Tumhaare ghar meiṅ jab aa jaaye chaand si beti
   Kaniz-e-baali Sakina use banaaya karo
 
   6
-  Jise namaazoṅ mein maaṅga sukuṅ sukuṅ keh kar
+  Jise namaazoṅ meiṅ maaṅga sukuṅ sukuṅ keh kar
   Sukun kaise mile wo nazar na aaye agar
   Ise bula ke ye aksar Husain kehte the
   Sakina hum se kabhi dur tum na jaaya karo
@@ -64,10 +64,10 @@ romanLyrics: |-
   Salaam uspe jo girti sambhalti rehti thi
   Wo jis ke gaaloṅ ki rangat badalti rehti thi
   Tamaache khaa ke wo zaalim se ro ke kehti rahi
-  Main ek yatim huṅ mujh par na haath uthaaya karo
+  Maiṅ ek yatim huṅ mujh par na haath uthaaya karo
 
   8
-  Ye zaairin se Zeeshan aur Raza keh do
+  Ye zaairin se Zishan aur Raza keh do
   Kisi ka Shaam agar Karbala se jaana ho
   Lahad pe Bibi ki ek mashk saath le jaa kar
   Ye paani bheja hai Abbas ne bataaya karo

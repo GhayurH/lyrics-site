@@ -10,31 +10,31 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maatam hai Saamara mein Imam-e-Hasan ka aaj
+  Maatam hai Saamara meiṅ Imam-e-Hasan ka aaj
   Saaya saroṅ se uth gaya Shah-e-Zaman ka aaj
 
   1
   Roti hai sar ko pit ke Narjis ba-haal-e-zaar
-  Bewa hui main uth gaya waali jahaaṅ se aaj
+  Bewa hui maiṅ uth gaya waali jahaaṅ se aaj
 
   2
-  Khairunnisa ko haaye rulaaya mazaar mein
+  Khairunnisa ko haaye rulaaya mazaar meiṅ
   Taaza kiya hai maatam-e-Karbobala ko aaj
 
   3
   Chhora Najaf ko Saamara pahunche hai Murtaza
-  Maatam kunaaṅ Habib-e-Khuda khuld mein hai aaj
+  Maatam kunaaṅ Habib-e-Khuda khuld meiṅ hai aaj
 
   4
   Hai chaak garebaaṅ aur sar hai khula hua
   Haaye khaak sar pe daale Imam-e-Zamaaṅ hai aaj
 
   5
-  Ghurbat mein hum ko chhor chale haaye Baba Jaaṅ
-  Bekas yatim jahaaṅ mein tanha hua hai aaj
+  Ghurbat meiṅ hum ko chhor chale haaye Baba Jaaṅ
+  Bekas yatim jahaaṅ meiṅ tanha hua hai aaj
 
   6
-  Ghusl o kafan diya aur lahad mein lita diya
+  Ghusl o kafan diya aur lahad meiṅ lita diya
   Lo khaak-e-Saamara bani khaak-e-shifa hai aaj
 
   7

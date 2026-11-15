@@ -12,7 +12,7 @@ aliases: ["Farshe Aza"]
 published: true
 romanLyrics: |-
   Khul gaya mera nasib jab ghar aashur khaana saja
-  Do jahaaṅ ki mili neamateiṅ aur maaṅguṅ main kya
+  Do jahaaṅ ki mili neamateiṅ aur maaṅguṅ maiṅ kya
   Mere ghar meiṅ bichha farsh-e-aza aa gai Zehra
 
   1
@@ -26,7 +26,7 @@ romanLyrics: |-
   Ghar khuld ghariboṅ ka bana aa gai Zehra
 
   3
-  Main chashm-e-tasawwur se samaaṅ dekh raha huṅ
+  Maiṅ chashm-e-tasawwur se samaaṅ dekh raha huṅ
   Nabiyoṅ ki qataareṅ bhi yahaaṅ dekh raha huṅ
   Taazim karo ahl-e-wila aa gai Zehra
 

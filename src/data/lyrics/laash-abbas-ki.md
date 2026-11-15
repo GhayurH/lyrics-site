@@ -12,14 +12,14 @@ aliases: []
 published: true
 romanLyrics: |-
   Laash Abbas ki Sarwar se uthaai na gayi
-  Laash tukroṅ mein thi ek jaa pe samaai na gayi
+  Laash tukroṅ meiṅ thi ek jaa pe samaai na gayi
 
   1
   Bhaai ki laash pe kehte the ye mazlum Husain
   Mujh se Baaba ki ye taswir bachaai na gayi
 
   2
-  Shah ne Akbar ko bula to liya maqtal mein magar
+  Shah ne Akbar ko bula to liya maqtal meiṅ magar
   Kaifiyat bhaai ki bete ko bataai na gayi
 
   3
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   6
   Kar diye bhaai pe qurbaan pisar Zainab ne
-  Phir kabhi rasm ye dunya mein nibhaai na gayi
+  Phir kabhi rasm ye dunya meiṅ nibhaai na gayi
 
   7
   Chaudah sadiyoṅ se bahaate haiṅ samandar aansu
@@ -44,7 +44,7 @@ romanLyrics: |-
 
   8
   Baad-e-Shabbir hua sina ba sina maatam
-  Ghar mein Saadaat ke phir Eid manaai na gayi
+  Ghar meiṅ Saadaat ke phir Eid manaai na gayi
 
   9
   Ran se har ek ke laashe ko uthaa laaye Husain

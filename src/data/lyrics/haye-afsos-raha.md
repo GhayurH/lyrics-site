@@ -34,7 +34,7 @@ romanLyrics: |-
   Chand khatre tujhe paani bhi pilane na diya
 
   6
-  Lag gayi maut ki bharpur jawaani mein nazar
+  Lag gayi maut ki bharpur jawaani meiṅ nazar
   Haye taqdir ne sehra bhi sajaane na diya
 
   7
@@ -42,11 +42,11 @@ romanLyrics: |-
   Jo tha Sughra se wo waada bhi nibhane na diya
 
   8
-  Kaise uthega zaifi mein janaaza us ka
+  Kaise uthega zaifi meiṅ janaaza us ka
   Baap ko jisne kabhi ranj uthane na diya
 
   9
-  Lag gaya chaand ko Laila ke gahan maqtal mein
+  Lag gaya chaand ko Laila ke gahan maqtal meiṅ
   Maa ke armaanoṅ ko parwaan charhane na diya
 
   10

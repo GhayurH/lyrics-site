@@ -15,7 +15,7 @@ romanLyrics: |-
 
   1
   Darya pe gaya laane pani
-  Nazroṅ mein Sakina thi pyasi
+  Nazroṅ meiṅ Sakina thi pyasi
   Abbas-e-dilawar sher-e-Jari
   Unchai pe parcham karte haiṅ
 
@@ -38,7 +38,7 @@ romanLyrics: |-
   Sheh rote haiṅ matam karte haiṅ
 
   5
-  Khaime mein alam laaye Sarwar
+  Khaime meiṅ alam laaye Sarwar
   Sab Bibiyaṅ kehti haiṅ ro kar
   Ab zulm o sitam hoṅge hum par
   Saqqe ka sabhi gham karte haiṅ

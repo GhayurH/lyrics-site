@@ -27,10 +27,10 @@ romanLyrics: |-
 
   4
   Roti hai Kulsum o Zainab laasha-e-Shabbir pe
-  Behnoṅ ka pardes mein aasra maara gaya
+  Behnoṅ ka pardes meiṅ aasra maara gaya
 
   5
-  Bain karti hai Sakina main yatima ho gayi
+  Bain karti hai Sakina maiṅ yatima ho gayi
   Jab mera baba sar-e-Karbala maara gaya
 
   6

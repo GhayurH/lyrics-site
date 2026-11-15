@@ -1,6 +1,6 @@
 ---
 title: "زمینِ کربلا میں دفن ہیں گُل پیرہن کتنے"
-alternateTitle: "Zameene Karbala Mein"
+alternateTitle: "Zamine Karbala Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,7 +10,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zameen-e-Karbala mein dafn haiṅ gul pairahan kitne
+  Zamin-e-Karbala meiṅ dafn haiṅ gul pairahan kitne
   Tarap kar mar gaye sine pe is ke khasta tan kitne
 
   1
@@ -19,7 +19,7 @@ romanLyrics: |-
 
   2
   Razaa-e-Shaah-e-Waala tha har ek ek daam Zainab ka
-  Zamaane mein haiṅ aise baawafa bhaai behan kitne
+  Zamaane meiṅ haiṅ aise baawafa bhaai behan kitne
 
   3
   Pisar Zainab ke donoṅ Qaasim o Akbar Ali Asghar
@@ -30,7 +30,7 @@ romanLyrics: |-
   Magar haiṅ Karbala waaloṅ ke jaise bekafan kitne
 
   5
-  Wo jis mein Qaasim o Akbar se gul Asghar se hoṅ ghunche
+  Wo jis meiṅ Qaasim o Akbar se gul Asghar se hoṅ ghunche
   Khizaaṅ lute haiṅ tuṅ ne sach bata aise chaman kitne
 # source_id: nohayonline:6f8777d8dc887940c495
 # source_url: https://www.nohayonline.com/details_content.php?id=504

@@ -47,7 +47,7 @@ romanLyrics: |-
   Chaaroṅ jaanib naamahram majma hoga
 
   7
-  Main ek din jis Kufe ki shahzaadi thi
+  Maiṅ ek din jis Kufe ki shahzaadi thi
   Jaati huṅ us shahr meiṅ ban kar ke qaidi
   Ae Ghazi ab phat jayega dil mera
 

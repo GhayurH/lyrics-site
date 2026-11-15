@@ -32,13 +32,13 @@ romanLyrics: |-
   Ghaazi hai bawafa hai
 
   3
-  Haaṅ us ne bachpane mein maaṅ se sabaq ye sikha
+  Haaṅ us ne bachpane meiṅ maaṅ se sabaq ye sikha
   Shabbir ki ghulaami sab se bara hai rutba
   Ye sher is sabaq ko dohraaye jaa raha hai
   Ghaazi hai bawafa hai
 
   4
-  Haidar hai is mein aazam har dard ki dawa hai
+  Haidar hai is meiṅ aazam har dard ki dawa hai
   Quraan keh raha hai ye naam ik dua hai
   Ghaazi hai naam jis ka Haidar ki woh dua hai
   Ghaazi hai bawafa hai
@@ -51,12 +51,12 @@ romanLyrics: |-
 
   6
   Tishna labi ka aalam maujoṅ pe gaara parcham
-  Qabze mein le ke paani lab ko nahiṅ kiya nam
+  Qabze meiṅ le ke paani lab ko nahiṅ kiya nam
   Darya se pyaas bhar ke waapas jo aa raha hai
   Ghaazi hai bawafa hai
 
   7
-  Duba hua lahu mein parcham jo aa raha hai
+  Duba hua lahu meiṅ parcham jo aa raha hai
   Pyaasoṅ ka fart-e-gham se dil dubne laga hai
   Boli Sakina thehro paani woh laa raha hai
   Ghaazi hai bawafa hai
@@ -64,7 +64,7 @@ romanLyrics: |-
   8
   Baazu to kat chuke haiṅ mashkiza chhid gaya hai
   Kya ghar ko jaaye Ghaazi ghairat ka marhala hai
-  Har tishna lab ka chehra nazroṅ mein ghumta hai
+  Har tishna lab ka chehra nazroṅ meiṅ ghumta hai
   Ghaazi hai bawafa hai
 
   9

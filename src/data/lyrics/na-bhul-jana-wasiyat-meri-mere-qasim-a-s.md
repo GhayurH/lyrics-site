@@ -9,9 +9,9 @@ tags: []
 aliases: ["NA BHUL JANA WASIYAT MERI, MERE QASIM (a.s.)"]
 published: true
 romanLyrics: |-
-  Shahid hone ka duniya mein waqt jab aaya
+  Shahid hone ka duniya meiṅ waqt jab aaya
   Farishta maut ka paighaam jis ghari laaya
-  Hasan ne baazu-e-Qasim mein baandh kar taawiz
+  Hasan ne baazu-e-Qasim meiṅ baandh kar taawiz
   Lagaaya sine se Qasim ko aur ye farmaaya
 
   1

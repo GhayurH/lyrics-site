@@ -1,6 +1,6 @@
 ---
 title: "حسین دین ہے حسین دیں پناہ"
-alternateTitle: "Kaho Ya Hussain"
+alternateTitle: "Kaho Ya Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -35,7 +35,7 @@ romanLyrics: |-
   3
   Ran ko sidhaare Qaasim o Akbar se naujawaaṅ
   Haathoṅ pe zibh ho gaya Hazrat ka bezabaaṅ
-  Asghar ke intizaar mein Baano ko kab hai chain
+  Asghar ke intizaar meiṅ Baano ko kab hai chain
   Kaho ya Husain
 
   4
@@ -47,13 +47,13 @@ romanLyrics: |-
   5
   Sajjad ko utha ke ye Shabbir ne kaha
   Beta hamaare baad ho tum diṅ ke rehnuma
-  Ye sun ke Bibiyoṅ mein hai kohraam o shor o shain
+  Ye sun ke Bibiyoṅ meiṅ hai kohraam o shor o shain
   Kaho ya Husain
 
   6
-  Zehra ki god mein sar-e-Shabbir kat gaya
+  Zehra ki god meiṅ sar-e-Shabbir kat gaya
   Kat ke buland neza-e-Khuli pe ho gaya
-  Sar khole ran mein Fatima karti rahi ye bain
+  Sar khole ran meiṅ Fatima karti rahi ye bain
   Kaho ya Husain
 
   7

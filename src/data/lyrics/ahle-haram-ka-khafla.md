@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Kis se kahe wo apni musibat
-  Paaoṅ mein chhale rasta purkhar
+  Paaoṅ meiṅ chhale rasta purkhar
 
   2
   Kis ko pukare kis ko sada de
@@ -24,10 +24,10 @@ romanLyrics: |-
 
   3
   Hai ye sitam ki kaun si manzil
-  Saye mein dunya dhup mein bimar
+  Saye meiṅ dunya dhup meiṅ bimar
 
   4
-  Jab se pada hai tauq gale mein
+  Jab se para hai tauq gale meiṅ
   Saans bhi lena ho gaya dushwar
 
   5
@@ -39,12 +39,12 @@ romanLyrics: |-
   Sar hai jhukae bekas o lachar
 
   7
-  Us ke liye raah mein kaante
+  Us ke liye raah meiṅ kaante
   Jis pe nichawar khuld ke gulzaar
 
   8
   Khun badan ka pi gaye chhale
-  Haathoṅ mein rasha zard haiṅ rukhsar
+  Haathoṅ meiṅ rasha zard haiṅ rukhsar
 
   9
   Thokareṅ kha kar karta hai sajde
@@ -55,7 +55,7 @@ romanLyrics: |-
   Naqsh hai dil par Shaam ka bazar
 
   11
-  Hum ne Suroor aaj khun-e-jigar se
+  Hum ne Surur aaj khun-e-jigar se
   Dil pe likhe haiṅ nohe ke ashar
 # source_id: nohayonline:ebbcdadecc079eaad544
 # source_url: https://www.nohayonline.com/details_content.php?id=3742

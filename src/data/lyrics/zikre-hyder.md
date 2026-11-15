@@ -18,7 +18,7 @@ romanLyrics: |-
 
   1
   Khuda ne azm-e-Ali ki surat
-  Rakhi hai Quraan ke aaine mein
+  Rakhi hai Quraan ke aaine meiṅ
   Magar ye baatil musir hai is pe
   Ke haq ujaagar na hone deṅ ge
 
@@ -42,14 +42,14 @@ romanLyrics: |-
 
   5
   Ye keh ke Zehra ne aansuoṅ ko
-  Ata ki rumaal mein sukuṅ na
+  Ata ki rumaal meiṅ sukuṅ na
   Tumhaare ashkoṅ ko ham kabhi bhi
   Sharaf se baahar na hone deṅ ge
 
   6
   Aza-e-Sarwar hai ab bhi baaqi
   Wo khud hi duniya se mit gae haiṅ
-  Jo keh rahe the dahr mein ham
+  Jo keh rahe the dahr meiṅ ham
   Aza-e-Sarwar na hone deṅ ge
 
   7
@@ -66,7 +66,7 @@ romanLyrics: |-
 
   9
   Pukaari Zainab mere baraadar
-  Main Shaam o Kufa ko sar karuṅ gi
+  Maiṅ Shaam o Kufa ko sar karuṅ gi
   Tumhaare maqsad ko zehn-e
   Insaaniyat se baahar na hone deṅ ge
 

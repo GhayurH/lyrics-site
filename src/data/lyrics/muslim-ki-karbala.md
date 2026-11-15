@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Logoṅ ye shehr-e-Kufa Muslim ki Karbala hai
-  Ek bewatan yahaaṅ bhi faujoṅ mein ghir gaya hai
+  Ek bewatan yahaaṅ bhi faujoṅ meiṅ ghir gaya hai
 
   1
   Aashur se bhi pehle Aashur ka hai manzar
@@ -30,12 +30,12 @@ romanLyrics: |-
   Mazlum ke laboṅ par bas haye Sayyeda hai
 
   4
-  Hota gaya izaafa bekas ki bekasi mein
-  Khincha gaya hai laasha Kufe ki har gali mein
+  Hota gaya izaafa bekas ki bekasi meiṅ
+  Khincha gaya hai laasha Kufe ki har gali meiṅ
   Shabbir ki tarah se sar jism se juda hai
 
   5
-  Kufe mein dar badar the Muslim ke shahzade
+  Kufe meiṅ dar badar the Muslim ke shahzade
   Apne padar ko aakhir kaise kafan wo dete
   Sajjad par jo aaya waisa hi marhala hai
 

@@ -12,18 +12,18 @@ aliases: []
 published: true
 romanLyrics: |-
   Ya Abbas ya Abbas
-  Main teri jaagir mein aayi huṅ Abbas
+  Maiṅ teri jaagir meiṅ aayi huṅ Abbas
 
-  Main Shaam se lut kar aayi huṅ
+  Maiṅ Shaam se lut kar aayi huṅ
   Saughaat-e-masaaib laayi huṅ
   Tera chehlum karne aayi huṅ
   Abbas
 
   1
-  Rudaad sunaane ko main Shaam se aayi huṅ
-  Ek daagh Sakina ka is qalb mein laayi huṅ
+  Rudaad sunaane ko maiṅ Shaam se aayi huṅ
+  Ek daagh Sakina ka is qalb meiṅ laayi huṅ
   Zindaan-e-sitam ki qaidi thi
-  Furqat mein padar ke roti thi
+  Furqat meiṅ padar ke roti thi
   Ro ro ke Sakina jaaṅ se gayi
   Abbas
 
@@ -32,43 +32,43 @@ romanLyrics: |-
   Khud ranj o masaaib ki tasvir bani Zainab
   Pathraayi hui ye aaṅkheṅ thi
   Pathrili safar ki raaheṅ thi
-  Raahoṅ mein faqat ye aaheṅ thi
+  Raahoṅ meiṅ faqat ye aaheṅ thi
   Abbas
 
   3
   Mahmil na amaari thi na sar pe mere chaadar
-  Main Shaam chali Ghaazi paaband-e-rasan ho kar
+  Maiṅ Shaam chali Ghaazi paaband-e-rasan ho kar
   Yaad aaye mujhe phir wo lamhe
   Hum log watan se jab nikle
-  Mahmil mein bithaaya tha tu ne
+  Mahmil meiṅ bithaaya tha tu ne
   Abbas
 
   4
   Kya sakht safar tha wo har gaam tarapti thi
-  Bhai mera naize par main aag pe chalti thi
-  The ashk musalsal aaṅkhoṅ mein
-  Thi khaak-e-safar hi baaloṅ mein
-  Aur naam tera tha naaloṅ mein
+  Bhai mera naize par maiṅ aag pe chalti thi
+  The ashk musalsal aaṅkhoṅ meiṅ
+  Thi khaak-e-safar hi baaloṅ meiṅ
+  Aur naam tera tha naaloṅ meiṅ
   Abbas
 
   5
   Ye ajr-e-risaalat ka hum logoṅ ne paaya tha
   Aamad pe asiroṅ ki baazaar sajaaya tha
   Wo lamhe kabhi na bhuluṅgi
-  Darbaar mein pahunche jab qaidi
-  Main yaad tujhe hi karti thi
+  Darbaar meiṅ pahunche jab qaidi
+  Maiṅ yaad tujhe hi karti thi
   Abbas
 
   6
-  Darbaar mein ae Ghaazi hum par ye jafaaeṅ thi
-  Ek samt mera khutba ek samt azaaneṅ thi
+  Darbaar meiṅ ae Ghaazi hum par ye jafaaeṅ thi
+  Ek samt mera khutba ek samt azaanen thi
   Haakim ne shaqi se ye puchha
-  Hai in mein Zainab kaun bhala
+  Hai in meiṅ Zainab kaun bhala
   Wo Zainab jis ka bhai tha
   Abbas
 
   7
-  Zindaaṅ mein asiroṅ ne ek saal guzaara hai
+  Zindaaṅ meiṅ asiroṅ ne ek saal guzaara hai
   Us saal ka har lamha ek saal ke jaisa hai
   Jab hukm rihaai ka aaya
   Aur lut ka sab saamaaṅ mila

@@ -9,6 +9,7 @@ An intentionally untranscribed **whole Basta page** remains untranscribed. This 
 - Only ASCII Latin letters **except** precomposed dotted n: `ṅ` (`Ṅ` uppercase), which represents Urdu **ں** / nasalized vowel. Plain `n` is **ن**, not nasalization. Do not use any other macrons, accents, combining diacritics, or romanized Arabic characters.
 - Long vowels: **aa**, **u**, **i** (not `oo`, `ee`). Preserve established readable forms for short vowels, diphthongs and inflected endings.
 - Urdu **ے → e** in Urdu contexts: `bole`, `wale`, `mere`; actual Punjabi pronunciation is a separately reviewed exception.
+- **جواں → jawaaṅ** (not `jawaṅ` or `jawan`): preserve both the long **aa** and the nasal **ṅ**. Do not confuse it with **جوان**, which ends in ordinary **ن**, and only apply this spelling when the corresponding Urdu line actually contains جواں.
 - Urdu **ڑ → r**. Aspirates and distinct consonants use `bh`, `ph`, `th`, `dh`, `kh`, `gh`, `jh`, `chh` where appropriate; preserve `q` for ق, `k` for ک, `z` for ز/ذ/ض/ظ, `s` for س/ث/ص.
 - Represent **ع** and **ء** as **a** in words where they are pronounced; apply this phonetic convention using the Urdu reading, rather than mechanically inserting an extra `a` in every word. Do not write scholarly apostrophe/ayn characters.
 - This convention also applies to Roman transcriptions of Arabic invocations and quoted Arabic lines. Remove scholarly ayn/hamza apostrophes only after checking the original word; retain normal quotation marks around genuinely quoted speech.

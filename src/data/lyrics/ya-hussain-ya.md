@@ -23,13 +23,13 @@ romanLyrics: |-
 
   2
   Chaar jaanib ye julusoṅ ki sabiloṅ ki fiza
-  Aaj har ghar mein aza khaana saja hai Maula
-  Saari duniya mein bapa ho gaya maatam tera
+  Aaj har ghar meiṅ aza khaana saja hai Maula
+  Saari duniya meiṅ bapa ho gaya maatam tera
   Phir safeṅ bichh gayi maatam ki sada gunj uthi
   Naam lene se mere dil ko aata hai chain
 
   3
-  Saal bhar gham mein tere yuṅ bhi nahiṅ dil ko chain
+  Saal bhar gham meiṅ tere yuṅ bhi nahiṅ dil ko chain
   Chaand dekha jo Muharram ka utha shor o shain
   Sab azaadaaroṅ ke lab par hai buka haaye Husain
   Phir safeṅ bichh gayi maatam ki sada gunj uthi
@@ -37,7 +37,7 @@ romanLyrics: |-
 
   4
   Mere Maula meri har saaṅs tere gham pe nisaar
-  Hai hawa sog mein dube hue parcham pe nisaar
+  Hai hawa sog meiṅ dube hue parcham pe nisaar
   Hai tere maatami Maula tere maatam pe nisaar
   Phir safeṅ bichh gayi maatam ki sada gunj uthi
   Naam lene se mere dil ko aata hai chain
@@ -45,14 +45,14 @@ romanLyrics: |-
   5
   Haaye ye chashm-e-tasawwur jo gayi Karb o Bala
   Teri gardan pe jo chalta hua khanjar dekha
-  Khaak uraate haiṅ isi gham mein sabhi ahl-e-aza
+  Khaak uraate haiṅ isi gham meiṅ sabhi ahl-e-aza
   Phir safeṅ bichh gayi maatam ki sada gunj uthi
   Naam lene se mere dil ko aata hai chain
 
   6
   Jab bhi qirtaas pe Mazhar ne likha haaye Husain
-  Maine rote hue Safdar ye kaha haaye Husain
-  Yuṅ laga saare jahaaṅ mein hai sada haaye Husain
+  Maiṅ ne rote hue Safdar ye kaha haaye Husain
+  Yuṅ laga saare jahaaṅ meiṅ hai sada haaye Husain
   Phir safeṅ bichh gayi maatam ki sada gunj uthi
   Naam lene se mere dil ko aata hai chain
 # source_id: nohayonline:4298ffed594dd6b92356

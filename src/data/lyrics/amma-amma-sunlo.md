@@ -14,28 +14,28 @@ romanLyrics: |-
 
   1
   Ranj o gham o musibat kya kya uthayi amma
-  Karbobala mein ujdi teri kamayi amma
+  Karbobala meiṅ ujri teri kamayi amma
   Saughaat ek safar se beti ye laayi amma
 
   2
   Marqad pe Fatema ki Zainab ne kaha ro kar
-  Karbobala ke ban mein bhai ko apne kho kar
+  Karbobala ke ban meiṅ bhai ko apne kho kar
   Lut kar safar se aayi ye teri jaayi amma
 
   3
   Baazu pe resmaaṅ ke dekho nishaaṅ haiṅ ubhre
-  Zakhmi hai pusht meri seene mein dil hai tukde
+  Zakhmi hai pusht meri sine meiṅ dil hai tukre
   Ashkoṅ ke badle khuṅ ke aansu bahaaye amma
 
   4
   Mere wo donoṅ pyaare aankhoṅ ke the wo taare
-  Bhai pe donoṅ bachche sadqe mein the utaare
-  Phir bhi na bach saka jab maqtal mein bhai amma
+  Bhai pe donoṅ bachche sadqe meiṅ the utaare
+  Phir bhi na bach saka jab maqtal meiṅ bhai amma
 
   5
   Dulha tha Ibn-e-Shabbar aur Bint-e-Shaah dulhan
   Paamaal ho gaya jab dulha ka phul sa tan
-  Haathoṅ se main dulhan ko bewa banayi amma
+  Haathoṅ se maiṅ dulhan ko bewa banayi amma
 # source_id: nohayonline:6c67b2b8663f9cebde2d
 # source_url: https://www.nohayonline.com/details_content.php?id=3763
 # raw_sha256: b29596334b2d0bfa973b6c50b4cbb4a77420b27b7cbd910329d4ad451674505d

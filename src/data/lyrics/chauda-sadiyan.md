@@ -22,8 +22,8 @@ romanLyrics: |-
   2
   In chauda sadiyoṅ ke andar chauda sau tufaan uthe
   Umavi harkaare daure aur Abbasi sultaan uthe
-  Laat o Hubal sinoṅ mein chhupe the haathoṅ par Quran uthe
-  Jin ki bunyaadoṅ mein lahu tha qasr woh aali shaan uthe
+  Laat o Hubal sinoṅ meiṅ chhupe the haathoṅ par Quran uthe
+  Jin ki bunyaadoṅ meiṅ lahu tha qasr woh aali shaan uthe
   Sab diwaareṅ baith gayiṅ mazlum ka rauza baaqi hai
 
   3
@@ -38,18 +38,18 @@ romanLyrics: |-
   Laal o gauhar ne daam lagaaye sikkoṅ ki jhankaar hui
   Lambi qabaaoṅ waale uthe fatwoṅ ki bharmaar hui
   Dida-e-ibrat tu hi bata ye jit hui ya haar hui
-  Sajde mein sar kaat diya tha lekin sajda baaqi hai
+  Sajde meiṅ sar kaat diya tha lekin sajda baaqi hai
 
   5
-  Pyaasoṅ ke inkaar ka patthar maqtal mein tha kitna bara
+  Pyaasoṅ ke inkaar ka patthar maqtal meiṅ tha kitna bara
   Laakhoṅ fitne uthe lekin phir sar-e-baiat uth na saka
-  Ab bhi kisi ke dil mein tamanna baiat ki uthti hai zara
-  Kahta hai Abbas ka parcham fikr-e-Yazidi hosh mein aa
+  Ab bhi kisi ke dil meiṅ tamanna baiat ki uthti hai zara
+  Kahta hai Abbas ka parcham fikr-e-Yazidi hosh meiṅ aa
   Jis ne tujhe maara tha tamaacha dekh woh panja baaqi hai
 
   6
   Taaqat par itraate kiuṅ haiṅ din-e-ilaahi ke dushman
-  Baitha hua hai parde mein talwaar liye ek qala shikan
+  Baitha hua hai parde meiṅ talwaar liye ek qala shikan
   Silsila-e-ismat ka khulaasa sina-e-giti ki dharkan
   Aarzu-e-Zehra o Payambar jaan-e-Husain o ruh-e-Hasan
   Badr o Uhud ke bhaagne waaloṅ aakhri hamla baaqi hai

@@ -55,7 +55,7 @@ romanLyrics: |-
   Sari Kainat Ka Nizam Ae Mere Imam
 
   9
-  Wasf Sab Haseen Hasan Ke Naam Ho Gaye
+  Wasf Sab Hasin Hasan Ke Naam Ho Gaye
   Takht o Taj Mir Ke Ghulam Ho Gaye
   Jab Se Woh Hua Tera Ghulam Ae Mere Imam
 ---

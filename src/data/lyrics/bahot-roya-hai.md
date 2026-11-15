@@ -11,10 +11,10 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Daair-e-raahib mein jo Sarwar ka kata sar aaya
+  Daair-e-raahib meiṅ jo Sarwar ka kata sar aaya
   Nur chehre ka jo dekha to bahot ghabraaya
   Utha tazim ko naize ke barabar aaya
-  God mein le ke wo sar hujre ke andar aaya
+  God meiṅ le ke wo sar hujre ke andar aaya
   Saaf karta tha lahu mahw-e-buka tha raahib
   Munh pe munh rakh ke yehi soch raha tha raahib
 
@@ -38,7 +38,7 @@ romanLyrics: |-
   Kaunsi maaṅ hai ke jis ne ye pisar khoya hai
 
   5
-  Baal sab khun mein mitti mein ate haiṅ is ke
+  Baal sab khun meiṅ mitti meiṅ ate haiṅ is ke
   Hont bhi pyaas ki shiddat se phate haiṅ is ke
   Apne ashkoṅ se hi in hontoṅ ko bhigoya hai
 
@@ -63,9 +63,9 @@ romanLyrics: |-
   Donoṅ haathoṅ se kamar pakre hue pahuncha hai
 
   10
-  Shaadmaaṅ god mein rakhe tha qamar ko raahib
+  Shaadmaaṅ god meiṅ rakhe tha qamar ko raahib
   Bain kehta tha yehi chum ke sar ko raahib
-  God mein chaand ka tukra ye meri soya hai
+  God meiṅ chaand ka tukra ye meri soya hai
 # source_id: nohayonline:99422267cd189ffa9032
 # source_url: https://www.nohayonline.com/details_content.php?id=2612
 # raw_sha256: 522e34a5fcf8e3064f1efc317f615385e8abb4144653f9cf7e59b925ac4effea

@@ -1,6 +1,6 @@
 ---
 title: "عجیب وقت پڑا ہے یتیم بچی پر"
-alternateTitle: "Ajeeb Waqt Pada Hai"
+alternateTitle: "Ajib Waqt Para Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,23 +11,23 @@ aliases: []
 published: true
 reciter: "Nasir Asghar Party (SM)"
 romanLyrics: |-
-  Ajeeb waqt para hai yatim bachchi par
+  Ajib waqt para hai yatim bachchi par
   Maidan-e-Karbobala ro rahi hai khaak basar
 
   1
   Ye beti us ki hai jo ke hai do jahaṅ ka amir
-  Pali hai jo bare nazoṅ mein Dukhtar-e-Shabbir
+  Pali hai jo bare nazoṅ meiṅ Dukhtar-e-Shabbir
   Pare haiṅ nil usi Shahzadi ke rukh par
 
   2
-  Musibatoṅ mein giraftar Shahzadi hai
+  Musibatoṅ meiṅ giraftar Shahzadi hai
   Watan se dur hai beaasra hai pyasi hai
   Laboṅ pe bain hai ghurbat ki khaak hai sar par
 
   3
   Kahiṅ pe lasheṅ kahiṅ khun hai Shah-e-Khuda
-  Akeli dasht-e-musibat mein aa gayi ye kahaṅ
-  Andheri raat mein mar jae na ye dar dar kar
+  Akeli dasht-e-musibat meiṅ aa gayi ye kahaṅ
+  Andheri raat meiṅ mar jae na ye dar dar kar
 
   4
   Bhala Sakina ko kaise qarar aaega

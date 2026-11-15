@@ -51,8 +51,8 @@ romanLyrics: |-
 
   6
   Tu ne tiroṅ ke musalle pe ibaadat ki hai
-  Tu ne har daur mein dunya pe hukumat ki hai
-  Ya Aba Abdillah do jahaaṅ mein wallah
+  Tu ne har daur meiṅ dunya pe hukumat ki hai
+  Ya Aba Abdillah do jahaaṅ meiṅ wallah
   Hukm chalta hai tera
   Fatima ke pisar hai hameiṅ ye khabar
   Tu ne jo bhi keh diya wo taalta nahiṅ hai Khuda
@@ -68,8 +68,8 @@ romanLyrics: |-
   Shah ki aawaaz pe labbaik pukaro mil kar
   Bola Shah ast Husain baadshah ast Husain
   Din ast Husain din panaah ast Husain
-  Le ke haathoṅ mein alam taaba rehna dam ba dam
-  Ja raha huṅ main Najaf se Karbala ye kehta hua
+  Le ke haathoṅ meiṅ alam taaba rehna dam ba dam
+  Ja raha huṅ maiṅ Najaf se Karbala ye kehta hua
 
   9
   Salaam Husain jaan salaam Husain jaan
@@ -81,15 +81,15 @@ romanLyrics: |-
   Nabi ki jaan Ali ki dil
   Ye Fatima ka chain hai
   Qasam Husain ki qasam nahiṅ hai koi dusra
-  Khuda ki kaainaat mein Husain bas Husain hai
+  Khuda ki kaainaat meiṅ Husain bas Husain hai
 
   11
   Ya Husain ilal Husain ya Husain ilal Husain
 
   12
-  Saari dunya mein Husain
-  Nasl-e-Zehra mein Husain
-  Chaudah baarah mein Husain
+  Saari dunya meiṅ Husain
+  Nasl-e-Zehra meiṅ Husain
+  Chaudah baarah meiṅ Husain
   Koi nahiṅ tere siwa
 
   13
@@ -104,7 +104,7 @@ romanLyrics: |-
   Us ke sar par dua-e-Zehra hai
   Baandh leta hai wo kafan sar par
   Aur marne ki aarzu le kar
-  Teri khidmat mein aa ke kehta hai
+  Teri khidmat meiṅ aa ke kehta hai
 
   15
   Diwana tera diwana
@@ -122,7 +122,7 @@ romanLyrics: |-
 
   18
   Karbala aisi imaarat hai ke Sarwar ke siwa
-  Ek din mein koi tayyar nahiṅ kar sakta
+  Ek din meiṅ koi tayyar nahiṅ kar sakta
   Hurr ke haathoṅ ko ye kehte hue khola Shah ne
   Ab tujhe koi giraftaar nahiṅ kar sakta
   Hurr ke chehre ki chamak roz-e-Dahum mat puchho
@@ -136,7 +136,7 @@ romanLyrics: |-
   Har dil ye pukare Husain Shah Ji
 
   20
-  Ajib jang thi wo jang-e-Karbala jis mein
+  Ajib jang thi wo jang-e-Karbala jis meiṅ
   Jo log qatl hue the wo log zinda hai
   Tum jo kehte ho ke wo jang thi shahzadoṅ ki
   Ham bataate haiṅ ke donoṅ ki haqiqat kya thi
@@ -145,7 +145,7 @@ romanLyrics: |-
   Wo tha Allah ke Kaabe ko jalaane wala
   Aur ye khaana-e-Kaaba ko bachaane wala
   Us ke lashkar ko mili zillat o ruswaai magar
-  Is ke lashkar mein mila sab ko nishaan-e-Haidar
+  Is ke lashkar meiṅ mila sab ko nishaan-e-Haidar
   Husain jit gaye aur Yazid haar gaya
 
   21

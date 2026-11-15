@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Ghar se jo Zehra ki mayyat uthi
-  Ghar mein Ali ki qayaamat hui
+  Ghar meiṅ Ali ki qayaamat hui
   Kehti thi Zainab ye sar pit kar
   Amma na jaao mujhe chhor kar
   Viraan ho jaayega ab ye ghar

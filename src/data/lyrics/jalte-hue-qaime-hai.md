@@ -10,7 +10,7 @@ tags: []
 aliases: ["Jalte Hue Qaime Hai"]
 published: true
 romanLyrics: |-
-  Hai Dukhtar-e-Sher-e-Khuda jo Karbala mein hai berida
+  Hai Dukhtar-e-Sher-e-Khuda jo Karbala meiṅ hai berida
 
   Jalte hue khaime haiṅ na bhai na rida hai
   Ummat se mila kaisa ye Zainab ko sila hai
@@ -18,7 +18,7 @@ romanLyrics: |-
   1
   Aal-e-Aba ke sar haiṅ charhe nok-e-sinaaṅ par
   Laashe pare haiṅ har su jo sab rag-e-tapaaṅ par
-  Pehnaati unheiṅ ban mein kafan khaak-e-shifa hai
+  Pehnaati unheiṅ ban meiṅ kafan khaak-e-shifa hai
 
   2
   Abid ko laa rahi hai wo kaandhoṅ pe uthaa kar

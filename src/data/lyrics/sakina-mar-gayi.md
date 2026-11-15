@@ -17,7 +17,7 @@ romanLyrics: |-
   Ae phuphi Sakina mar gayi
 
   1
-  Kaise main ye gham karuṅ sehan
+  Kaise maiṅ ye gham karuṅ sehan
   Bolti nahiṅ meri behen
   Ho gayi khaamosh nim jaaṅ
   Ae phuphi Sakina mar gayi
@@ -30,14 +30,14 @@ romanLyrics: |-
 
   3
   Zindagi tamaam ho gayi
-  Shaam mein hi shaam ho gayi
+  Shaam meiṅ hi shaam ho gayi
   Band ho gayi haiṅ siskiyaaṅ
   Ae phuphi Sakina mar gayi
 
   4
   Baaba jaaṅ ke sar pe rakh ke sar
   Keh rahi thi ro ke nauhagar
-  Kab talak sahuṅ main sakhtiyaaṅ
+  Kab talak sahuṅ maiṅ sakhtiyaaṅ
   Ae phuphi Sakina mar gayi
 
   5
@@ -49,13 +49,13 @@ romanLyrics: |-
   6
   Baad-e-qatl-e-Shaah-e-Karbala
   Zindagi se tha jise gila
-  So gayi wo aaj nauha khwan
+  So gayi wo aaj nauha khwaṅ
   Ae phuphi Sakina mar gayi
 
   7
-  Hathkari hai mere haath mein
-  Koi bhi nahiṅ hai saath mein
-  Dafn kaise main karuṅ yahaaṅ
+  Hathkari hai mere haath meiṅ
+  Koi bhi nahiṅ hai saath meiṅ
+  Dafn kaise maiṅ karuṅ yahaaṅ
   Ae phuphi Sakina mar gayi
 
   8

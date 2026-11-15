@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Aisa tanha to bahaadur koi dekha na suna
-  Zaat mein apni jo lashkar sa nazar aata hai
+  Zaat meiṅ apni jo lashkar sa nazar aata hai
   Jang karne Bani Hashim ka qamar aata hai
 
   2

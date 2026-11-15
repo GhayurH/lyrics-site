@@ -37,8 +37,8 @@ romanLyrics: |-
   3
   Na lashkar na yaawar na koi sahaara
   Na bhai na bete ghar lut gaya saara
-  Naizoṅ mein teghoṅ mein Zehra ka dulaara
-  Kis dil se ghurbat mein pyaaroṅ ko pukaara
+  Naizoṅ meiṅ teghoṅ meiṅ Zehra ka dulaara
+  Kis dil se ghurbat meiṅ pyaaroṅ ko pukaara
   Kahaaṅ ho Akbar kahaaṅ ho Asghar
   Sada do dilbar sada do dilbar
 

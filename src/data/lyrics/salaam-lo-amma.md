@@ -15,37 +15,37 @@ romanLyrics: |-
   Suno hamaari musibat salaam lo ammaṅ
 
   Bula ke ghar se hameṅ ashqiyaa ne luta hai
-  Husain bhaai mera Karbala mein chhuta hai
+  Husain bhaai mera Karbala meiṅ chhuta hai
   Pahaar dard o musibat ka hum pe tuta hai
   Hui ye kaisi ziyaafat salaam lo ammaṅ
 
   1
   Suno ae ammaṅ mere sar se chhin gayi chaadar
-  Gayi main kucha o baazaar mein barehna sar
+  Gayi maiṅ kucha o baazaar meiṅ barehna sar
   Rasan ke nil abhi tak hai mere baazu par
   Mila ye ajr-e-risaalat salaam lo ammaṅ
 
   2
-  Main Shaam o Kufa ki haalat tumheṅ sunaauṅ kya
+  Maiṅ Shaam o Kufa ki haalat tumheṅ sunaauṅ kya
   Jo Ahl-e-Bait pe biti wo ab bataauṅ kya
-  Rasan ke nil haiṅ baazu pe main dikhaauṅ kya
+  Rasan ke nil haiṅ baazu pe maiṅ dikhaauṅ kya
   Khud uth ke dekh lo haalat salaam lo ammaṅ
 
   3
-  Ajib zulm ki aandhi chali zamaane mein
-  Kaleje phatta hai rudaad-e-gham sunaane mein
-  Sakina mar gayi ghut ghut ke qaid khaane mein
+  Ajib zulm ki aandhi chali zamaane meiṅ
+  Kaleje phatta hai rudaad-e-gham sunaane meiṅ
+  Sakina mar gayi ghut ghut ke qaid khaane meiṅ
   Bana ke aayi huṅ turbat salaam lo ammaṅ
 
   4
   Zabaaṅ pe harf-e-shikaayat na laa saki Zainab
   Gila kiya na kisi ka bhi chup rahi Zainab
-  Yazid-e-nahas ke darbaar mein gayi Zainab
+  Yazid-e-nahas ke darbaar meiṅ gayi Zainab
   Baraa-e-bakhshish-e-ummat salaam lo ammaṅ
 
   5
   Gharib beti se rudaad-e-Karbala sun lo
-  Jo hum pe ho gayi pardes mein jafa sun lo
+  Jo hum pe ho gayi pardes meiṅ jafa sun lo
   Jo sun sako to shahaadat ka waaqia sun lo
   Jawaab deti hai himmat salaam lo ammaṅ
 # source_id: nohayonline:97e1717140c72098a2c2

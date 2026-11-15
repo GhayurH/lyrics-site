@@ -20,19 +20,19 @@ romanLyrics: |-
 
   2
   Lariyaṅ tere sehre ki chumeṅ tere sine ko
-  Afsos magar tere sine mein sinaṅ hai
+  Afsos magar tere sine meiṅ sinaṅ hai
 
   3
-  Aur is ke siwa kya hai Islam ke daman mein
+  Aur is ke siwa kya hai Islam ke daman meiṅ
   Ek sajda hai ek zarbat aur ek azaṅ hai
 
   4
-  Hai pyas ke alam mein Akbar ko ajal aai
+  Hai pyas ke alam meiṅ Akbar ko ajal aai
   Aur samne aankhoṅ ke darya bhi rawaṅ hai
 
   5
   Rehaan ye kehti thi madar Ali Akbar ki
-  Kya dar hai lainoṅ ka mera laal jawaṅ hai
+  Kya dar hai lainoṅ ka mera laal jawaaṅ hai
 # source_id: nohayonline:eeba017841824358399f
 # source_url: https://www.nohayonline.com/details_content.php?id=2296
 # raw_sha256: c8c68f11585ca09090f3ba155a2b5eedcbd48fde6b8f9a1d998cd851fb522df8

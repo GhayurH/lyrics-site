@@ -39,7 +39,7 @@ romanLyrics: |-
   Maut bhi us ko bhatiji se na kar payi juda
 
   7
-  Ashk mein bali Sakina ke nazar aayi shabih
+  Ashk meiṅ bali Sakina ke nazar aayi shabih
   Ek naya sa aashiyana ban gaya Abbas ka
 
   8

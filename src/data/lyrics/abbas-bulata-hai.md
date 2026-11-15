@@ -21,8 +21,8 @@ romanLyrics: |-
   Abbas bulata hai Abbas bulata hai
 
   1
-  Dargah-e-Abul Fazlil Abbas ke saaye mein
-  Tafriq nahiṅ koi apne mein paraaye mein
+  Dargah-e-Abul Fazlil Abbas ke saaye meiṅ
+  Tafriq nahiṅ koi apne meiṅ paraaye meiṅ
   Jo bhi yahaṅ aata hai khaali nahiṅ jaata hai
 
   2
@@ -46,19 +46,19 @@ romanLyrics: |-
   Dunya ka koi zaair jab bhi yahaṅ aata hai
 
   6
-  Bechain hai ghabra ke khaime mein tehalta hai
+  Bechain hai ghabra ke khaime meiṅ tehalta hai
   Kya jurm kiya aisa kiuṅ haathoṅ ko malta hai
   Ae Hurr teri qismat ka taara ye batata hai
 
   7
   Girte hue parcham ko dekha Shah-e-Wala ne
   Zainab se kaha ro kar Abbas ke maula ne
-  Hum jaate haiṅ darya par dil doobta jaata hai
+  Hum jaate haiṅ darya par dil dubta jaata hai
 
   8
   Tum so gaye darya par dekho to zara uth kar
   Shabbir ko ghere haiṅ nau lakh ka ye lashkar
-  Jab teer koi dil par aaqa tera khaata hai
+  Jab tir koi dil par aaqa tera khaata hai
 
   9
   Rehaan ki Sarwar ki Maula se wafadari hai

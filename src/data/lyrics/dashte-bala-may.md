@@ -13,48 +13,48 @@ published: true
 romanLyrics: |-
   Haae maara gaya Ibn-e-Hasan
 
-  Dasht-e-bala mein gunji ye Shabbir ki sada
-  Laasha Hasan ke laal ka tukroṅ mein bat gaya
+  Dasht-e-bala meiṅ gunji ye Shabbir ki sada
+  Laasha Hasan ke laal ka tukroṅ meiṅ bat gaya
 
   1
   Qasim hamaare bhaiya Hasan ki tha yaadgaar
   Ab kaun ham ko keh ke pukaarega ae chacha
-  Laasha Hasan ke laal ka tukroṅ mein bat gaya
+  Laasha Hasan ke laal ka tukroṅ meiṅ bat gaya
 
   2
-  Abbas tum bhi saath chalo dasht-e-zaar mein
+  Abbas tum bhi saath chalo dasht-e-zaar meiṅ
   Wo laasha ham se tanha sameta na jaaega
-  Laasha Hasan ke laal ka tukroṅ mein bat gaya
+  Laasha Hasan ke laal ka tukroṅ meiṅ bat gaya
 
   3
   Wo paara paara laash uthaane ke waaste
   Keh kar bichhaai Sarwar-e-mazlum ne aba
-  Laasha Hasan ke laal ka tukroṅ mein bat gaya
+  Laasha Hasan ke laal ka tukroṅ meiṅ bat gaya
 
   4
   Boli Batul ghurbat-e-Shabbir dekh kar
   Teri madad ke waaste aai hai Faatima
-  Laasha Hasan ke laal ka tukroṅ mein bat gaya
+  Laasha Hasan ke laal ka tukroṅ meiṅ bat gaya
 
   5
   Tukroṅ ki gathri kaandhe pe rakhi Husain ne
   Yuṅ su-e-khaimagaah chala Ibn-e-Faatima
-  Laasha Hasan ke laal ka tukroṅ mein bat gaya
+  Laasha Hasan ke laal ka tukroṅ meiṅ bat gaya
 
   6
   Dulha ajib shaan ka hai Qasim-e-Hasan
   Ke jis ka sehra sajne se pehle bikhar gaya
-  Laasha Hasan ke laal ka tukroṅ mein bat gaya
+  Laasha Hasan ke laal ka tukroṅ meiṅ bat gaya
 
   7
-  Gathri ko le ke god mein ye keh rahi thi maaṅ
+  Gathri ko le ke god meiṅ ye keh rahi thi maaṅ
   Beta tumhaare byaah ka armaan reh gaya
-  Laasha Hasan ke laal ka tukroṅ mein bat gaya
+  Laasha Hasan ke laal ka tukroṅ meiṅ bat gaya
 
   8
   Jab khaimagaah pahunche to nauha yehi parhe
   Maula se hai ye Majid o Mukhtar ki dua
-  Laasha Hasan ke laal ka tukroṅ mein bat gaya
+  Laasha Hasan ke laal ka tukroṅ meiṅ bat gaya
 # source_id: nohayonline:b395930aeb52bb6b7c28
 # source_url: https://www.nohayonline.com/details_content.php?id=1651
 # raw_sha256: 125e601dc519bc6a9581a78dadf07c09d2c3f6e96bad624988b022b9c025b669

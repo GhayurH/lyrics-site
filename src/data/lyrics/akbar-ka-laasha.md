@@ -17,12 +17,12 @@ romanLyrics: |-
   1
   Atharah saal wale ka lasha utha liya
   Aisa laga ke apna janaza utha liya
-  Akbar ke khuṅ se ban mein wuzu kar gaye Husain
+  Akbar ke khuṅ se ban meiṅ wuzu kar gaye Husain
 
   2
-  Barchhi ka phal ye kaisa ragoṅ mein ulajh gaya
+  Barchhi ka phal ye kaisa ragoṅ meiṅ ulajh gaya
   Barchhi nikalne pe kaleja bhi kat gaya
-  Sakte mein aa gaye haiṅ isi dard se Husain
+  Sakte meiṅ aa gaye haiṅ isi dard se Husain
 
   3
   Laila ki hasratoṅ ka janaza nikal gaya
@@ -46,13 +46,13 @@ romanLyrics: |-
 
   7
   Akbar ka gham utha kar mera haal hai yehi
-  Main to bas ek badan huṅ meri jaaṅ nikal gayi
+  Maiṅ to bas ek badan huṅ meri jaaṅ nikal gayi
   Raftar dekho lafz ki bejaan hai Husain
 
   8
   Bhai ka haal dekha to Zainab tarap gayi
-  Bete ke gham mein haalat hui kya Husain ki
-  Khun-e-pisar mein is tarah ghaltaṅ hue Husain
+  Bete ke gham meiṅ haalat hui kya Husain ki
+  Khun-e-pisar meiṅ is tarah ghaltaṅ hue Husain
 
   9
   Farhan ho ke Mazhar bayaṅ kya kare koi

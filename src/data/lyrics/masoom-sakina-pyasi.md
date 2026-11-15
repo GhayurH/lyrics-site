@@ -25,7 +25,7 @@ romanLyrics: |-
 
   3
   Bachchi ki sada paani paani
-  Aaṅkhoṅ mein haram ke viraani
+  Aaṅkhoṅ meiṅ haram ke viraani
   Muztar hai phuphi betaab hai maaṅ
 
   4
@@ -41,7 +41,7 @@ romanLyrics: |-
   6
   Abbas the itne sharminda
   Saahil pe ye kehke dam tora
-  Kis muṅh mein bhala main jaauṅ wahaaṅ
+  Kis muṅh meiṅ bhala maiṅ jaauṅ wahaaṅ
 
   7
   Dil khun hue jaate haiṅ magar

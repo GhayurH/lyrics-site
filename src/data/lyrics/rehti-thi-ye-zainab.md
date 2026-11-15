@@ -22,20 +22,20 @@ romanLyrics: |-
   Ae arz-e-Karbala
 
   2
-  Main apne baraadar ko kahaaṅ dhundne jaauṅ
+  Maiṅ apne baraadar ko kahaaṅ dhundne jaauṅ
   Apne Ali Akbar ko kahaaṅ dhundne jaauṅ
   Kunba mera taaraaj hua arz-e-Karbala
   Ae arz-e-Karbala
 
   3
-  Be dast hue nehr pe Abbas-e-dilaawar
+  Bedast hue nehr pe Abbas-e-dilaawar
   Dur baali Sakina ke chhine aur meri chaadar
   Lauta de mere sar ki rida arz-e-Karbala
   Ae arz-e-Karbala
 
   4
   Beshir tarapta raha betaab rahe hum
-  Sine pe tere nehr thi be aab rahe hum
+  Sine pe tere nehr thi beaab rahe hum
   Asghar ke laga tir-e-jafa arz-e-Karbala
   Ae arz-e-Karbala
 

@@ -23,15 +23,15 @@ romanLyrics: |-
   Ke jaise ho koi mahshar Ali Akbar Ali Akbar
 
   3
-  Tamanna thi mere dil mein teri shaadi rachaauṅgi
-  Basaauṅgi main tera ghar Ali Akbar Ali Akbar
+  Tamanna thi mere dil meiṅ teri shaadi rachaauṅgi
+  Basaauṅgi maiṅ tera ghar Ali Akbar Ali Akbar
 
   4
   Tumhaari maut se ab to yaqiṅ hone laga mujhko
   Chhinegi ab meri chaadar Ali Akbar Ali Akbar
 
   5
-  Madine mein tera ahwaal kya usko bataauṅgi
+  Madine meiṅ tera ahwaal kya usko bataauṅgi
   Jo puchhegi teri khwaahar Ali Akbar Ali Akbar
 
   6

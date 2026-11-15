@@ -11,16 +11,16 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Aashur ko jalte khaimoṅ mein
+  Aashur ko jalte khaimoṅ meiṅ
   Kya janiye kya kya chhut gaya
   Ghabra ke nikal aayi Bano
   Beshir ka jhula chhut gaya
 
   1
   Nur aankhoṅ ka Akbar le ke gaye
-  Nazroṅ mein andhera chhut gaya
+  Nazroṅ meiṅ andhera chhut gaya
   Yuṅ laash uthayi Maula ne
-  Barchhi mein kaleja chhut gaya
+  Barchhi meiṅ kaleja chhut gaya
 
   2
   Darya ke kanare mehmani
@@ -31,11 +31,11 @@ romanLyrics: |-
   3
   Islam ki nazreṅ dekh to le
   Imaan zara pehchaan to le
-  Ye kaun hai Bibi Kufe mein
+  Ye kaun hai Bibi Kufe meiṅ
   Ye kiska parda chhut gaya
 
   4
-  Saahil ke qarib ghode se gire
+  Saahil ke qarib ghore se gire
   Abbas ko jalti khaak mili
   Shabbir ka daaman chut na saka
   Behta hua darya chhut gaya

@@ -17,7 +17,7 @@ romanLyrics: |-
 
   1
   Ajal ko maat de ke jine ka hunar sikha diya
-  Sawaal-e-baiat-e-Yazid khaak mein mila diya
+  Sawaal-e-baiat-e-Yazid khaak meiṅ mila diya
   Yazid jaise fitnagar ko ye sabaq para diya
   Jo haq ki raah se hata wo motabar nahiṅ raha
 
@@ -28,7 +28,7 @@ romanLyrics: |-
   Nahiṅ hai koi gham agar badan pe sar nahiṅ raha
 
   3
-  Ghazab tha wo sabaat o azm raah mein ruke nahiṅ
+  Ghazab tha wo sabaat o azm raah meiṅ ruke nahiṅ
   Bas apni ek baat pe date rahe jhuke nahiṅ
   Muarrikhoṅ ne jo likha wo lafz bhi mite nahiṅ
   Mayaan-e-Karbala kisi ye jigar nahiṅ raha
@@ -41,7 +41,7 @@ romanLyrics: |-
 
   5
   Kisi ne Hur ko dur se bas ek dikha diya diya
-  Ye kaar-e-khair tha ke qalb mein jala diya diya
+  Ye kaar-e-khair tha ke qalb meiṅ jala diya diya
   Ajib tarz-e-imtehaan tha Ali ke laal ka
   Kabhi jala diya diya kabhi bujha diya diya
 
@@ -55,19 +55,19 @@ romanLyrics: |-
   Milaai aaṅkh yuṅ qaza se ya Husain
   Ke tum ne daad li Khuda se ya Husain
   Tumhari sirf ek naa se ya Husain
-  Mili hai jit ashqiyan se ya Husain
+  Mili hai jit ashqiyaṅ se ya Husain
   Phir is ke baad zulm ka koi asar nahiṅ raha
 
   8
   Ali ki beti keh rahi thi ye haram se baaraha
   Majaal kis ki hai tumhare sar se chhin le rida
-  Alam gira jo khaak par to gunji dasht mein sada
+  Alam gira jo khaak par to gunji dasht meiṅ sada
   Haram ko jis pe naaz tha wo sher-e-nar nahiṅ raha
 
   9
   Bata rahe haiṅ Safdar aur Mazhar Abidi yehi
   Husain ke hi dam se aaj ho rahi hai zindagi
-  Namaaz kalma o azaaṅ sab ne paai zindagi
+  Namaaz kalma o azaan sab ne paai zindagi
   Kisi Yazid ka asar kisi ka dar nahiṅ raha
 # source_id: nohayonline:ed2f31e9162aaee81335
 # source_url: https://www.nohayonline.com/details_content.php?id=3762

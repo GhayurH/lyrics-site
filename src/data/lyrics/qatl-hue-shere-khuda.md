@@ -17,26 +17,26 @@ romanLyrics: |-
   Haye Ali haye
 
   1
-  Khaana-e-Zehra mein jab pahunchi ye gham ki khabar
+  Khaana-e-Zehra meiṅ jab pahunchi ye gham ki khabar
   Tegh-e-jafa chal gayi Haidar-e-Karraar par
-  Khun mein duba hai musalla qatl huwe Sher-e-Khuda
+  Khun meiṅ duba hai musalla qatl huwe Sher-e-Khuda
   Haye Ali haye
 
   2
-  Kufe ki galiyoṅ mein thi ek qayamat bapa
-  Bewa yatimoṅ mein ye naala o shewan utha
+  Kufe ki galiyoṅ meiṅ thi ek qayamat bapa
+  Bewa yatimoṅ meiṅ ye naala o shewan utha
   Kaun hameṅ dega sahaara qatl huwe Sher-e-Khuda
   Haye Ali haye
 
   3
-  Baap ko is haal mein dekh ke roye pisar
-  Zakhmi pare haiṅ Ali saara badan khuṅ mein tar
+  Baap ko is haal meiṅ dekh ke roye pisar
+  Zakhmi pare haiṅ Ali saara badan khuṅ meiṅ tar
   Keh ke yehi phenka amaama qatl huwe Sher-e-Khuda
   Haye Ali haye
 
   4
   Ek chataai pe phir unko litaaya gaya
-  Khaana-e-Zehra mein jab Maula ko laaya gaya
+  Khaana-e-Zehra meiṅ jab Maula ko laaya gaya
   Karti thi shehzadiyaṅ noha qatl huwe Sher-e-Khuda
   Haye Ali haye
 

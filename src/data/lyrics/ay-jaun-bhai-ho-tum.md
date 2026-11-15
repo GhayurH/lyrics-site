@@ -27,7 +27,7 @@ romanLyrics: |-
   3
   Ahl-e-haram ko tum se hai dhaaras mere diler
   Pehra do phir qayaam ka utho ae mere sher
-  Kiuṅ jaa rahe ho tum mujhe ghurbat mein chhor ke
+  Kiuṅ jaa rahe ho tum mujhe ghurbat meiṅ chhor ke
 
   4
   Karna dua Husain pe aisa na waqt aaye
@@ -52,7 +52,7 @@ romanLyrics: |-
   8
   Sine laga ke kehne laga Ibn-e-Fatima
   Khushbu se teri mahkegi taa hashr Karbala
-  Bu hai tere pasine mein kis ne kaha tujhe
+  Bu hai tere pasine meiṅ kis ne kaha tujhe
 
   9
   Jaldi thi dekho Jaun ko Sajjad kis qadar

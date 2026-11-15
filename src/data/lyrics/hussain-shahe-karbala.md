@@ -59,7 +59,7 @@ romanLyrics: |-
   8
   Hazaar koshisheiṅ hui
   Magar na ruk saka kahiṅ
-  Fareed zikr-e-Shah-e-din
+  Farid zikr-e-Shah-e-din
   Rahega hashr tak sada
 # source_id: nohayonline:da2c256f5cb0fdb05c2e
 # source_url: https://www.nohayonline.com/details_content.php?id=229

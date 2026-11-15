@@ -16,14 +16,14 @@ romanLyrics: |-
 
   1
   Kaun bewaoṅ ki chaadar ko bachaaye aa kar
-  Laashe sab waali o waaris ke pare haiṅ be sar
+  Laashe sab waali o waaris ke pare haiṅ besar
   Meri aawaaz pe koi nahiṅ aata Ghazi
-  Ho gayi dasht-e-bayabaaṅ mein tanha khwaahar
+  Ho gayi dasht-e-bayabaaṅ meiṅ tanha khwaahar
   Ghazi Abbasa Ghazi Abbasa raasha zama ro ra
 
   2
   Zulm karte haiṅ hameṅ tanha samajh kar aada
-  Be rida balwe mein rote haiṅ haram waawaila
+  Berida balwe meiṅ rote haiṅ haram waawaila
   Sar pe maasum Sakina ke nahiṅ dast-e-karam
   Chhin gaye us ke gauhar aag se daaman bhi jala
   Ghazi Abbasa Ghazi Abbasa raasha zama ro ra
@@ -38,28 +38,28 @@ romanLyrics: |-
   4
   Hum to aaye the yahaaṅ tere sahaare Ghazi
   Tu magar so gaya darya ke kinaare Ghazi
-  Be watan tishna dahan maara gaya bhaai mera
+  Bewatan tishna dahan maara gaya bhaai mera
   Chhin gayi chaadareṅ ab sar se hamaare Ghazi
   Ghazi Abbasa Ghazi Abbasa raasha zama ro ra
 
   5
   Ae mere parde ke zaamin ae alamdar aa ja
   Mere Ghazi ae mere munis o ghamkhwaar aa ja
-  Aa ke pardes mein bigra hai muqaddar mera
+  Aa ke pardes meiṅ bigra hai muqaddar mera
   Teri Zainab ka nahiṅ koi madadgaar aa ja
   Ghazi Abbasa Ghazi Abbasa raasha zama ro ra
 
   6
-  Teri hamshir hai balwe mein khule sar Ghazi
+  Teri hamshir hai balwe meiṅ khule sar Ghazi
   Ab nahiṅ koi mera munis o yaawar Ghazi
   Tere jaane se bharam tut gaya Zainab ka
-  Haaye be aas hui Aal-e-Payambar Ghazi
+  Haaye beaas hui Aal-e-Payambar Ghazi
   Ghazi Abbasa Ghazi Abbasa raasha zama ro ra
 
   7
   Safdar-e-khasta jigar mera qalam bhi roye
   Karbala roti rahi ahl-e-haram bhi roye
-  Bain karti thi ye Abbas ki khwaahar ran mein
+  Bain karti thi ye Abbas ki khwaahar ran meiṅ
   Sun ke faryaad meri mashk o alam bhi roye
   Ghazi Abbasa Ghazi Abbasa raasha zama ro ra
 # source_id: nohayonline:cfb46338a998e19b4aa7

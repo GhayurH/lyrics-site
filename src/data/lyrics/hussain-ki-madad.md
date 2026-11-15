@@ -50,7 +50,7 @@ romanLyrics: |-
   Akela reh gaya Husain
   Na Akbar-e-haziṅ raha
   Akela reh gaya Husain
-  Sagheer bhi chala gaya
+  Saghir bhi chala gaya
   Akela reh gaya Husain
   Behen ne karb se kaha
 
@@ -67,7 +67,7 @@ romanLyrics: |-
   Ye keh rahi hai Faatima
   Ho khatm din malaal ke
   Tum ashk jo bahaoge
-  Rakhuṅ gi main sambhaal ke
+  Rakhuṅ gi maiṅ sambhaal ke
   Ye ashk le ke jaauṅ gi
   Bhareṅ ge zakhm laal ke
   Aza ka farsh hai bichha

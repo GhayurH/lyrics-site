@@ -12,12 +12,12 @@ aliases: []
 published: true
 romanLyrics: |-
   Kha gaya Shahzadiyoṅ ko gham isi ehsas ka
-  Haaye tha rahwar ki gardan mein sar Abbas ka
+  Haaye tha rahwar ki gardan meiṅ sar Abbas ka
   Kahaaṅ napak nazreṅ aur kahaaṅ Abbas ki behneṅ
-  Pareshaaṅ hain Ali ki betiyaṅ Abbas ki behneṅ
+  Pareshaaṅ haiṅ Ali ki betiyaṅ Abbas ki behneṅ
 
   1
-  Isi khatir tha sar rahwar ki gardan mein Ghazi ka
+  Isi khatir tha sar rahwar ki gardan meiṅ Ghazi ka
   Ke dekhe na sar nok-e-sinaṅ Abbas ki behneṅ
 
   2
@@ -29,15 +29,15 @@ romanLyrics: |-
   Musalmano tumhare darmiyaṅ Abbas ki behneṅ
 
   4
-  Tilawat kar rahi hain khun mein dubi hui aankheṅ
+  Tilawat kar rahi haiṅ khun meiṅ dubi hui aankheṅ
   Suneṅgi kaise nange sar azaṅ Abbas ki behneṅ
 
   5
-  Khajureṅ pheṅkte hain log sadqe ki asiroṅ pe
+  Khajureṅ pheṅkte haiṅ log sadqe ki asiroṅ pe
   Kare kis se musibat ye bayaṅ Abbas ki behneṅ
 
   6
-  Khari hai sar chhupaye pattharoṅ ki tez barish mein
+  Khari hai sar chhupaye pattharoṅ ki tez barish meiṅ
   Shahidoṅ ke saroṅ ke darmiyaṅ Abbas ki behneṅ
 
   7
@@ -45,8 +45,8 @@ romanLyrics: |-
   Raheṅgi ab sada girya kunaṅ Abbas ki behneṅ
 
   8
-  Chali hai maarka sar Shaam ka karne gharibi mein
-  Bandhaye bazuoṅ mein rassiyaṅ Abbas ki behneṅ
+  Chali hai maarka sar Shaam ka karne gharibi meiṅ
+  Bandhaye bazuoṅ meiṅ rassiyaṅ Abbas ki behneṅ
 
   9
   Dikha kar nil boli betiyaṅ Zehra ke marqad par

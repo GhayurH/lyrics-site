@@ -16,29 +16,29 @@ romanLyrics: |-
   Aakhir Husain maaṅ huṅ
 
   1
-  Naazoṅ ke paale beta aa jholi main phailaauṅ
+  Naazoṅ ke paale beta aa jholi maiṅ phailaauṅ
   Aakhir Husain maaṅ huṅ
   Nana ne qabr chhori aaye Ali Najaf se
-  Main aa gayi Baqia se ae laal paas tere
-  Bachche ka apne gham mein kiuṅ dil se na lagaauṅ
+  Maiṅ aa gayi Baqia se ae laal paas tere
+  Bachche ka apne gham meiṅ kiuṅ dil se na lagaauṅ
   Aakhir Husain maaṅ huṅ
 
   2
-  Jhule mein chain tum ko milta nahiṅ tha beta
-  Main ne kabhi Ali ne godi mein hi sulaya
-  Aajao phir se tum ko aaghosh mein sulaauṅ
+  Jhule meiṅ chain tum ko milta nahiṅ tha beta
+  Maiṅ ne kabhi Ali ne godi meiṅ hi sulaya
+  Aajao phir se tum ko aaghosh meiṅ sulaauṅ
   Aakhir Husain maaṅ huṅ
 
   3
   Jibril sa farishta jhula jhulane aaya
   Le le ke jaam-e-Kausar paani pilane aaya
-  Bachpan ke laad tere main kaise bhul jaauṅ
+  Bachpan ke laad tere maiṅ kaise bhul jaauṅ
   Aakhir Husain maaṅ huṅ
 
   4
-  Kehti rahi main zaalim naazoṅ ka hai ye paala
+  Kehti rahi maiṅ zaalim naazoṅ ka hai ye paala
   Khanjar chala na ispe Ahmad ka hai dulara
-  Sar aa gaya sinaaṅ pe main kaise chain paauṅ
+  Sar aa gaya sinaaṅ pe maiṅ kaise chain paauṅ
   Aakhir Husain maaṅ huṅ
 
   5
@@ -50,23 +50,23 @@ romanLyrics: |-
   6
   Hai bekafan janaza jalti hui zamin par
   Roti rahe gi maaṅ bhi ta-hashr ab yahiṅ par
-  Tanha tujhe yahaaṅ par main kaise chhor jaauṅ
+  Tanha tujhe yahaaṅ par maiṅ kaise chhor jaauṅ
   Aakhir Husain maaṅ huṅ
 
   7
   Akbar ke dil se barchhi beta jo tu ne khenchi
-  Seene ka us ke khun main haathoṅ se rokti thi
-  Wo mar gaya tadap ke kis tarah bhul jaauṅ
+  Sine ka us ke khun maiṅ haathoṅ se rokti thi
+  Wo mar gaya tarap ke kis tarah bhul jaauṅ
   Aakhir Husain maaṅ huṅ
 
   8
   Mayyat ho jis ke ghar pe dete haiṅ log pursa
   Kitni gharib hai ye ujri hui teri maaṅ
-  Lene main tera pursa har ghar mein roti jaauṅ
+  Lene maiṅ tera pursa har ghar meiṅ roti jaauṅ
   Aakhir Husain maaṅ huṅ
 
   9
-  Royi lahad pe Zehra maqtal mein royi Zehra
+  Royi lahad pe Zehra maqtal meiṅ royi Zehra
   Rota hai jo bhi tujh pe karti huṅ saath girya
   Rote hue Hasan se nauha tera likhaauṅ
   Aakhir Husain maaṅ huṅ

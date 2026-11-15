@@ -23,20 +23,20 @@ romanLyrics: |-
 
   2
   Sehre ki har lari to
-  Ashkoṅ mein dhal gayi hai
+  Ashkoṅ meiṅ dhal gayi hai
   Mehndi ki thi jo hasrat
   Wo khun mal gayi hai
 
   3
   Sarhane dekho Sughra
-  Ka naamawar khada hai
+  Ka naamawar khara hai
   Dekho to gird beta
-  Sab ghar ka ghar khada hai
+  Sab ghar ka ghar khara hai
 
   4
   Khurshid sa ye chehra
-  Sab khuṅ mein bhar gaya hai
-  Dekho to maaṅ ke dil mein
+  Sab khuṅ meiṅ bhar gaya hai
+  Dekho to maaṅ ke dil meiṅ
   Neza utar gaya hai
 
   5

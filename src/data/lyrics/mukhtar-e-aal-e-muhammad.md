@@ -53,7 +53,7 @@ romanLyrics: |-
   6
   Aankheiṅ haiṅ ke faanus rukh-e-arsh-e-bariṅ par
   Palkeiṅ haiṅ ke jhumar haiṅ sitaaroṅ ki jabiṅ par
-  Zulfeiṅ haiṅ ke baadal se rukh-e-mohr-e-mubin par
+  Zulfeiṅ haiṅ ke baadal se rukh-e-mohr-e-mubiṅ par
   Haibat hai ke ik hashr sa Kufe ki zamiṅ par
   Yeh phul yeh jugnu yeh falak taab sitaare
   Mukhtar ki talwaar se jharte haiṅ sharaare

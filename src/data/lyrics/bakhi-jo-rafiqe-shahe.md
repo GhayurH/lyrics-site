@@ -22,20 +22,20 @@ romanLyrics: |-
   Shabbir ne sine se lagaaya hai kai baar
   Rukhsat jo kiya aaṅkhoṅ se aaṅsu hue jaari
   Ghabra ke dar-e-khaima se Zainab ye pukaari
-  Logoṅ kaho maidaaṅ mein chali kis ki sawaari
+  Logoṅ kaho maidaaṅ meiṅ chali kis ki sawaari
   Kaun bachaayega Shah-e-jinn o bashar ko
   Sab chhore chale jaate haiṅ Zehra ke pisar ko
 
   3
-  Ye sunte hi kohraam hua ahl-e-haram mein
-  Pahuṅcha wo jari sher sa maidaan-e-sitam mein
-  Kaamil tha zabas ishq-e-Shahanshaah-e-umam mein
-  Betaab tha Maula ki judaai ke alam mein
+  Ye sunte hi kohraam hua ahl-e-haram meiṅ
+  Pahuṅcha wo jari sher sa maidaan-e-sitam meiṅ
+  Kaamil tha zabas ishq-e-Shahanshaah-e-umam meiṅ
+  Betaab tha Maula ki judaai ke alam meiṅ
   Sina tha jari ka tabar o tir ki jaanib
   Phir phir ke nazar karta tha Shabbir ki jaanib
 
   4
-  Piri mein jo dikhlaai jawaanoṅ ki shujaat
+  Piri meiṅ jo dikhlaai jawaanoṅ ki shujaat
   Tharraane lage uzw-e-badan ghat gayi taaqat
   Dam charh gaya garmi se hui pyaas ki shiddat
   Dil se kaha ab aalam-e-faani se hai rukhsat
@@ -62,7 +62,7 @@ romanLyrics: |-
   Naagaah safeṅ chir ke aaye Shah-e-zishaaṅ
   Dekha ke wo mazlum koi dam ka hai mehmaaṅ
   Laashe se lipat kar ye pukaare basad afgaar
-  Ae dost mere teri mohabbat ke main qurbaaṅ
+  Ae dost mere teri mohabbat ke maiṅ qurbaaṅ
   Dikhla do mujhe zakhm kahaaṅ khaaye haiṅ bhaai
   Sine se lipat jaao ke ham aate haiṅ bhaai
 # source_id: nohayonline:7806cd025e4dd90dd0fe

@@ -25,7 +25,7 @@ romanLyrics: |-
   2
   Khuda ke lashkar ka amir-e-lashkar
   Wo jis pe naazaaṅ hai Rabb-e-Akbar
-  Hai jis ke ghar mein farishte naukar
+  Hai jis ke ghar meiṅ farishte naukar
   Faqir jis ke haiṅ sab qalandar
   Hai jis ki tashna labi samandar
   Husain wo hai Husain wo hai
@@ -48,7 +48,7 @@ romanLyrics: |-
 
   5
   Husain sardaar-e-aalamin hai
-  Husain dunya mein misl-e-din hai
+  Husain dunya meiṅ misl-e-din hai
   Risaalatoṅ ka yehi amir hai
   Bahut hasiṅ hai bahut hasiṅ hai
   Wo jis ke jaisa koi nahiṅ hai
@@ -63,9 +63,9 @@ romanLyrics: |-
   Husain wo hai Husain wo hai
 
   7
-  Jo maqtaloṅ mein hayaat baaṅte
+  Jo maqtaloṅ meiṅ hayaat baaṅte
   Bata do Gohar ye wo saaqi hai
-  Nahiṅ hai qismat mein tere bete
+  Nahiṅ hai qismat meiṅ tere bete
   Rasul-e-haq bhi ye keh de jis se
   Jo saath bete usi ko de de
   Husain wo hai Husain wo hai

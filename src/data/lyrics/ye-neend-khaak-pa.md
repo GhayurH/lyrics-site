@@ -1,6 +1,6 @@
 ---
 title: "یہ نیند خاک پہ کیسی اٹھو اٹھو بی‌بی"
-alternateTitle: "Ye Neend Khaak Pa"
+alternateTitle: "Ye Nind Khaak Pa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -17,7 +17,7 @@ romanLyrics: |-
   Pidar jo khwaab mein aaye machal gayi bachchi
   Fazaaeṅ qaid haram ki buka se hilne lagi
   Lipat ke baap ke sar se jo mar gayi beti
-  To qaid khaane mein Bano ki ye fughaaṅ gunji
+  To qaid khaane meiṅ Bano ki ye fughaaṅ gunji
 
   2
   Fasaana-e-gham-e-furqat sunaao Baba ko
@@ -27,7 +27,7 @@ romanLyrics: |-
 
   3
   Bahut gila tha Sakina tumheṅ andhere ka
-  Ye gham raha hai ke taarik qaid mein kunba
+  Ye gham raha hai ke taarik qaid meiṅ kunba
   Ye ranj tha koi chehra nazar nahiṅ aata
   Hamaare ghamzada chehroṅ ko dekh lo Bibi
 
@@ -44,13 +44,13 @@ romanLyrics: |-
   Hamaare gham ka sahaara na chhin lo Bibi
 
   6
-  Jo aise haal mein dekhe khafa na ho Baba
-  Zara main saaf to kar duṅ ye khun kaanoṅ ka
+  Jo aise haal meiṅ dekhe khafa na ho Baba
+  Zara maiṅ saaf to kar duṅ ye khun kaanoṅ ka
   Na pehne jaao Sakina phata hua kurta
-  Lahu mein dubi ye zulfeṅ saṅwaar lo Bibi
+  Lahu meiṅ dubi ye zulfeṅ saṅwaar lo Bibi
 
   7
-  Main qatl gaah mein Asghar ko aayi huṅ kho kar
+  Maiṅ qatl gaah meiṅ Asghar ko aayi huṅ kho kar
   Suhaag ujar gaya waaris nahiṅ raha sar par
   Gharib maaṅ ka sahaara nahiṅ koi dilbar
   Tum is tarah mujhe tanha na chhor do Bibi

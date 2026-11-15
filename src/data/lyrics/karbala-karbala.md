@@ -11,12 +11,12 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Qutelal Husaino be Karbala
+  Qutelal Husaino bekarbala
   Karbala Karbala Karbala
-  Main lut gayi bhaiyya ya Husaina
+  Maiṅ lut gayi bhaiyya ya Husaina
   Mera Ghaazi na raha ya Husaina
-  Main ho gayi berida ya Husaina
-  Ab kis ko main duṅ sada
+  Maiṅ ho gayi berida ya Husaina
+  Ab kis ko maiṅ duṅ sada
 
   1
   Sehra meiṅ kitne laashe dekhe teri behen ne

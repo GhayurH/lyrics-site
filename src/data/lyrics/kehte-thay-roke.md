@@ -16,10 +16,10 @@ romanLyrics: |-
 
   1
   Bimaar huṅ ke raah ka chalna muhaal hai
-  Us par sitam hai paaoṅ mein zanjir kya karuṅ
+  Us par sitam hai paaoṅ meiṅ zanjir kya karuṅ
 
   2
-  Karb o Bala mein aa ke ye ehsaas bhi na tha
+  Karb o Bala meiṅ aa ke ye ehsaas bhi na tha
   Ye din mujhe dikhaayegi taqdir kya karuṅ
 
   3
@@ -36,31 +36,31 @@ romanLyrics: |-
 
   6
   Din-e-Nabi ko jis ne ujaala ata kiya
-  Hai tiragi mein aaj wo tanvir kya karuṅ
+  Hai tiragi meiṅ aaj wo tanvir kya karuṅ
 
   7
   Bachche tarap ke mar gaye paani nahiṅ mila
   Wo tashnagi ki dekhi hai tasvir kya karuṅ
 
   8
-  Sab kuchh luta ke dasht mein daaman ko jhaar kar
-  Baithe the ran mein Hazrat-e-Shabbir kya karuṅ
+  Sab kuchh luta ke dasht meiṅ daaman ko jhaar kar
+  Baithe the ran meiṅ Hazrat-e-Shabbir kya karuṅ
 
   9
   Baagh-e-Fidak ko chhin ke jab dil nahiṅ bhara
-  Karb o Bala mein lut li jaagir kya karuṅ
+  Karb o Bala meiṅ lut li jaagir kya karuṅ
 
   10
-  Zainab phuphi hai Shaam ke balwe mein berida
+  Zainab phuphi hai Shaam ke balwe meiṅ berida
   Aur har taraf hai majma-e-Bepir kya karuṅ
 
   11
-  Hasrat liye Madine ki zindaan-e-Shaam mein
+  Hasrat liye Madine ki zindaan-e-Shaam meiṅ
   Zer-e-Zamin so gayi hamshir kya karuṅ
 
   12
   Nauha likha Raza to qayaamat guzar gayi
-  Dil ro raha hai aur main tahrir kya karuṅ
+  Dil ro raha hai aur maiṅ tahrir kya karuṅ
 # source_id: nohayonline:9906db915e349814aa9d
 # source_url: https://www.nohayonline.com/details_content.php?id=1991
 # raw_sha256: 3ed1474fd42299525212792d458fa9c5751328417fe2c530017894faaadf53b5

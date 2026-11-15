@@ -19,7 +19,7 @@ romanLyrics: |-
 
   1
   Aankhoṅ ko apne band kiye hai ye zi hasham
-  Baazaar mein jo aae haiṅ beparda kuchh haram
+  Baazaar meiṅ jo aae haiṅ beparda kuchh haram
   Kya is ki rishtedaar hai ye saari Bibiyaaṅ
 
   2
@@ -35,7 +35,7 @@ romanLyrics: |-
   4
   Kya dushmani kisi ki thi aise hasiṅ se
   Thaame jigar zamin pe aaya tha zin se
-  Sunte haiṅ is ke sine mein tori gayi sinaaṅ
+  Sunte haiṅ is ke sine meiṅ tori gayi sinaaṅ
 
   5
   Sine se naiza zulm ka nikla hai kis tarah
@@ -48,7 +48,7 @@ romanLyrics: |-
   Jaana kahaaṅ tha maut use le gayi kahaaṅ
 
   7
-  Hai gard mein gharib ke gesu ate hue
+  Hai gard meiṅ gharib ke gesu ate hue
   Talwaaroṅ se sitam ki hai abru kate hue
   Kya zulm is pe tuta hai chehre se hai ayaaṅ
 

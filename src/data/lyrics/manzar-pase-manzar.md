@@ -18,12 +18,12 @@ romanLyrics: |-
   Tujhko kahaaṅ maalum hai Shabbir ka rutba
   Payambar ke bete haiṅ bhala tujhko khabar kya
   Naawaaqif-e-anjaam hai tu dhyaan ye rakhna
-  Jis deh ki hukumat ke liye aaya hai ladne
-  Wo ab teri qismat mein hai kab tera muqaddar
+  Jis deh ki hukumat ke liye aaya hai larne
+  Wo ab teri qismat meiṅ hai kab tera muqaddar
 
   2
   Is khaak ki kya tujhko khabar kitni bhali hai
-  Is dasht ke ausaaf mein aqwaal-e-jali hai
+  Is dasht ke ausaaf meiṅ aqwaal-e-jali hai
   Firdaus ka tukra to sar-e-dasht yehi hai
   Taa hadd-e-nazar aaj yahaaṅ haiṅ mere aghyaar
   Kal hoṅge yahaaṅ chaaroṅ taraf zaair-e-Sarwar
@@ -38,9 +38,9 @@ romanLyrics: |-
   4
   Pehra hai lab-e-nehr atash lab pe hamaare
   Tum ne to taraayi pe bitha rakhe haiṅ pehre
-  Ye aaj ki tasveer hai ekaad ke bete
+  Ye aaj ki tasvir hai ekaad ke bete
   Kal pyaasoṅ ke ism-e-giraami ke tasadduq
-  Dunya mein rawaaṅ hoga sabiloṅ ka samandar
+  Dunya meiṅ rawaaṅ hoga sabiloṅ ka samandar
 
   5
   Tu fauj ki kasrat pe na itra pisar-e-Saad
@@ -71,10 +71,10 @@ romanLyrics: |-
   Kal maqtal-e-Shabbir ka tum dekhna manzar
 
   9
-  Ae Dayam o Yazdan yehi Sheh kehte the sun le
+  Ae Dayam o Yazdaṅ yehi Sheh kehte the sun le
   Ye dhup ye sehra ye baraste huwe shole
   Ye gulshan-e-sehra sipaah-e-Shaam ke qabze
-  Ye aaj ki tasveer hai ye aaj ka manzar
+  Ye aaj ki tasvir hai ye aaj ka manzar
   Kal chamkega is dasht ka aabaad manzar
 # source_id: nohayonline:4cf8da9fdec28a2e1c81
 # source_url: https://www.nohayonline.com/details_content.php?id=2491

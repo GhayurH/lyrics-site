@@ -1,6 +1,6 @@
 ---
 title: "چلا میں وعدہ نبھانے سلام ماں کے مزار"
-alternateTitle: "Chala Main Waada Nibhaane Salam Maaṅ Ke Mazaar"
+alternateTitle: "Chala Maiṅ Waada Nibhaane Salam Maaṅ Ke Mazaar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,12 +11,12 @@ tags: []
 aliases: ["Chala Main Wada Nibhane Salam Maa Ke Mazaar"]
 published: true
 romanLyrics: |-
-  Chala main waada nibhaane salaam maaṅ ke mazaar
+  Chala maiṅ waada nibhaane salaam maaṅ ke mazaar
   Salaam Nana ke roze salaam maaṅ ke mazaar
 
   1
-  Main tera din bachaauṅ ga ae mere Nana
-  Main apna khun bahaauṅ ga ae mere Nana
+  Maiṅ tera din bachaauṅ ga ae mere Nana
+  Maiṅ apna khun bahaauṅ ga ae mere Nana
   Husain jaata hai marne salaam maaṅ ke mazaar
 
   2
@@ -42,7 +42,7 @@ romanLyrics: |-
   6
   Tamaam phul se bachche haiṅ aur garam hawa
   Hamaare khun ki pyaasi hai fauj-e-zulm o jafa
-  Safar mein koi shajar bhi nahiṅ hai saaya daar
+  Safar meiṅ koi shajar bhi nahiṅ hai saaya daar
 
   7
   Haaṅ ek phul to aisa ho jo khila bhi nahiṅ
@@ -57,7 +57,7 @@ romanLyrics: |-
   9
   Yehi hai Sarwar o Rehan zindagi ka sharaf
   Kabhi ziyaarat-e-Karb o Bala kabhi hai Najaf
-  Inhi fizaoṅ mein aati hai Shaah-e-Din ki pukaar
+  Inhi fizaoṅ meiṅ aati hai Shaah-e-Din ki pukaar
 # source_id: tajpoints:de6d3a7dbf08fdf177c6
 # source_url: https://tajpoints.com/2017/03/chala-main-wada-nibhane-salam-maa-ke.html
 # raw_sha256: cc3626bfcfb8f51f79fa641cff1637b670bc109d96273b2bf85d59f3bf13e3f8

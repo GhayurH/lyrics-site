@@ -11,15 +11,15 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Abbas ke naukar hain pani to pilaeṅge
-  Badle mein duaeṅ hum Shabbir se paeṅge
+  Abbas ke naukar haiṅ pani to pilaeṅge
+  Badle meiṅ duaeṅ hum Shabbir se paeṅge
 
   1
   Shia ho ya Sunni ho Hindu ho ya Isai
   Jo Hurr ki tarah aaya sine se lagaeṅge
 
   2
-  Ye keh ke pilate hain in haathoṅ se hum pani
+  Ye keh ke pilate haiṅ in haathoṅ se hum pani
   Is kaam na aaye to kis kaam ye aaeṅge
 
   3
@@ -32,14 +32,14 @@ romanLyrics: |-
 
   5
   Hota jo luaab-e-Nabi beshak wo mila dete
-  Hum sachche hain jhuta bhi pani na milaeṅge
+  Hum sachche haiṅ jhuta bhi pani na milaeṅge
 
   6
   Abbas ziyarat to karwaeṅge har surat
-  Ya hum ko bulaeṅge ya khwab mein aaeṅge
+  Ya hum ko bulaeṅge ya khwab meiṅ aaeṅge
 
   7
-  Saans aati hai saansoṅ ki Shabbir ke matam mein
+  Saans aati hai saansoṅ ki Shabbir ke matam meiṅ
   Gar chhor diya matam hum ji nahiṅ paeṅge
 
   8
@@ -48,7 +48,7 @@ romanLyrics: |-
 
   9
   Sajjad o Takallum aur ye Mir Hasan kya hai
-  Khud Khizr bhi Jannat mein kehte nazar aaeṅge
+  Khud Khizr bhi Jannat meiṅ kehte nazar aaeṅge
 # source_id: nohayonline:ea1245078cf5779e02d4
 # source_url: https://www.nohayonline.com/details_content.php?id=1522
 # raw_sha256: e587768f5cc7538792bfb5faf382506a786828524e7f2a52c35658907eb4e36d

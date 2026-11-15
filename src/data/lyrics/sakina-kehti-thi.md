@@ -30,7 +30,7 @@ romanLyrics: |-
   3
   Machalna pyaas ki shiddat se
   Tera hichkiyaaṅ lena
-  Nigaahoṅ mein hai wo manzar
+  Nigaahoṅ meiṅ hai wo manzar
 
   4
   Andheri qabr hai pehlu hai

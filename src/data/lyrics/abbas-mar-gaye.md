@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Haaye Husain Haaye Husain
+  Haaye Husaiṅ Haaye Husaiṅ
   Haaye tanhai meri Haaye tanhai meri
   Abbas mar gaye Ali Akbar juda hua
   Hum se kisi ne ye bhi na puchha ke kya hua
@@ -22,38 +22,38 @@ romanLyrics: |-
   Jine ka ab jawaz hamare nahiṅ raha
 
   2
-  Khali alam utha ke main khaime mein le gaya
+  Khali alam utha ke maiṅ khaime meiṅ le gaya
   Laaya huṅ tanha laasha-e-hamshakl-e-Mustafa
   Ghurbat pe meri hansta hai lashkar Yazid ka
 
   3
   Ghazi ke tukre dekh ke tukre hua jigar
   Darhi safed ho gayi Akbar ki laash par
-  Ek dopahar mein hum pe sitam kaisa ho gaya
+  Ek dopahar meiṅ hum pe sitam kaisa ho gaya
 
   4
-  Kehte hain ab bulaiye imdad ke liye
+  Kehte haiṅ ab bulaiye imdad ke liye
   Bolo Husain Akbar o Ghazi kahaaṅ gaye
-  Dete hain taane purse ke badle ye ashqiya
+  Dete haiṅ taane purse ke badle ye ashqiya
 
   5
   Socha tha mujh se aa ke kaheṅge ye kalmago
-  Donoṅ ka pursa dene hum aaye hain aap ko
-  Hasrat ye le ke qabr mein mazlum jayega
+  Donoṅ ka pursa dene hum aaye haiṅ aap ko
+  Hasrat ye le ke qabr meiṅ mazlum jayega
 
   6
   Mar jaaye gar kisi ka koi bhai ya pisar
-  Usko dilase dete hain sab log maut par
+  Usko dilase dete haiṅ sab log maut par
   Haaye magar hamari gharibi ki inteha
 
   7
   Chaaroṅ taraf hai tiroṅ ki bauchhar dekh lo
-  Hum par sabhi uthaye hain talwar dekh lo
+  Hum par sabhi uthaye haiṅ talwar dekh lo
   Zainab batao ab kahaaṅ ja kar kareṅ gila
 
   8
   Khanjar tale bhi Sheh ko Takallum yehi tha gham
-  Kitne gharib ho gaye Karb o Bala mein hum
+  Kitne gharib ho gaye Karb o Bala meiṅ hum
   Khanjar rawaṅ tha parhte the Maula ye marsiya
 # source_id: nohayonline:8498ee46e55938dd4f09
 # source_url: https://www.nohayonline.com/details_content.php?id=2371

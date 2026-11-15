@@ -11,36 +11,36 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Khuli hai tashnalabi ki kitaab paani mein
-  Wafa dikha gayi Khaibar ka baab paani mein
+  Khuli hai tashnalabi ki kitaab paani meiṅ
+  Wafa dikha gayi Khaibar ka baab paani meiṅ
 
   1
   Jamaal-e-Hazrat-e-Abbas tegh o mashk o alam
-  Chamak rahe haiṅ kai aaftaab paani mein
+  Chamak rahe haiṅ kai aaftaab paani meiṅ
 
   2
   Sawaar pyaasa raha rahwaar pyaasa raha
-  Agarche bhig chuki thi rikaab paani mein
+  Agarche bhig chuki thi rikaab paani meiṅ
 
   3
   Idhar sabil lagaai udhar mehakne lage
-  Gham-e-Husain ke taaza gulaab paani mein
+  Gham-e-Husain ke taaza gulaab paani meiṅ
 
   4
   Lab-e-Sakina se jo pyaas ban ke ubhra tha
-  Simat ke aa gaya wo iztiraab paani mein
+  Simat ke aa gaya wo iztiraab paani meiṅ
 
   5
   Agar Husain na hote to mil gaya hota
-  Tamaam kaar-e-risaalat maab paani mein
+  Tamaam kaar-e-risaalat maab paani meiṅ
 
   6
   Tapakne laga hai dil khun ho ke aaṅkhoṅ se
-  Na jaane dekhti kya hai Rabaab paani mein
+  Na jaane dekhti kya hai Rabaab paani meiṅ
 
   7
   Bajuz Shuja ke Abbas-e-naamwar Rehaan
-  Likha hai kis ne wafa ka nisaab paani mein
+  Likha hai kis ne wafa ka nisaab paani meiṅ
 # source_id: nohayonline:8c541d758055e80926b4
 # source_url: https://www.nohayonline.com/details_content.php?id=2198
 # raw_sha256: 789fa83a933b3fa417c34c0d6d0da58ad20e013932a948ce8b7468e798169cbf

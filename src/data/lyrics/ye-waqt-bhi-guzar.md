@@ -22,18 +22,18 @@ romanLyrics: |-
 
   2
   Di thi tasalli ye Akbar ne mujh ko
-  Khat bhej kar main bula luṅ ga tujh ko
+  Khat bhej kar maiṅ bula luṅ ga tujh ko
   Ye sochte takti rehti huṅ raasta
   Ye waqt bhi guzar jaaega
 
   3
-  Ji bhar ke Asghar se kheli kahaaṅ main
-  Us ka humakna bhi bhuli kahaaṅ main
+  Ji bhar ke Asghar se kheli kahaaṅ maiṅ
+  Us ka humakna bhi bhuli kahaaṅ maiṅ
   Khwaaboṅ meiṅ aa kar ye kehta hai bhaiya
   Ye waqt bhi guzar jaaega
 
   4
-  Ro ro ke tin ideṅ main ne guzaari
+  Ro ro ke tin ideṅ maiṅ ne guzaari
   Ashkoṅ ki barsaat idi meiṅ paai
   Kehta rehta mujh se gham ka ye darya
   Ye waqt bhi guzar jaaega

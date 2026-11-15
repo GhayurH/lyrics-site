@@ -12,8 +12,8 @@ published: true
 romanLyrics: |-
   Hai salaam us pe ke jo
   Qaidi bhi hai bimaar bhi hai
-  Paauṅ mein aable haiṅ
-  Aabloṅ mein khaar bhi haiṅ
+  Paauṅ meiṅ aable haiṅ
+  Aabloṅ meiṅ khaar bhi haiṅ
 
   1
   Puchha ik shakhs ne

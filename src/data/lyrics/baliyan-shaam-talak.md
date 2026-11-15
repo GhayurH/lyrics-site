@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Afsos sad afsos Sakina qaidi hai
-  Haathoṅ mein hathkariyaṅ pairoṅ mein beriyaṅ
+  Haathoṅ meiṅ hathkariyaṅ pairoṅ meiṅ beriyaṅ
   Aur kaanoṅ se baaliyaṅ chhini gayiṅ
   Baaliyoṅ ne di sada kaash hum tut jaate
   To shahzaadi ki lawe bach jaati
@@ -27,7 +27,7 @@ romanLyrics: |-
   2
   Nanhe rukhsaar haiṅ aur Shimr ka panja hai bara
   Ungliyaṅ kaanoṅ ke zakhmoṅ ko jo karti hai hara
-  Kisi surat mein bhi kaanoṅ se lahu ruk jaata
+  Kisi surat meiṅ bhi kaanoṅ se lahu ruk jaata
 
   3
   Jis ko maalum nahiṅ tha ke yatimi kya hai

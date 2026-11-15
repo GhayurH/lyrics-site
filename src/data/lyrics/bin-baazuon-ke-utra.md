@@ -25,17 +25,17 @@ romanLyrics: |-
   Haidar ki tarah khun tha jaari jabin se
 
   3
-  Ik aaṅkh mein tha tir to ik aaṅkh mein lahu
+  Ik aaṅkh meiṅ tha tir to ik aaṅkh meiṅ lahu
   Khaime ki raah dhuṅd raha tha wo chaar su
   Ik gurz ne gira diya bekas ko zin se
 
   4
   Ruh-e-Ali ke bain the haaye mera safir
-  Sar par bhi gurz baazu juda aaṅkh mein bhi tir
+  Sar par bhi gurz baazu juda aaṅkh meiṅ bhi tir
   Badla mera liya hai mere jaanashin se
 
   5
-  Saqqa haram ka dasht mein bejaan ho gaya
+  Saqqa haram ka dasht meiṅ bejaan ho gaya
   Ab maarna Husain ko aasaan ho gaya
   Ye shor uth raha tha sipaah-e-lain se
 
@@ -45,8 +45,8 @@ romanLyrics: |-
   Aise giri wo jaise gira bhaai zin se
 
   7
-  Amma main apne bete ka maatam na kar saki
-  Had ye hai qaid ho ke main jab Shaam ko chali
+  Amma maiṅ apne bete ka maatam na kar saki
+  Had ye hai qaid ho ke maiṅ jab Shaam ko chali
   Baazu utha ke chum na paayi zamin se
 
   8

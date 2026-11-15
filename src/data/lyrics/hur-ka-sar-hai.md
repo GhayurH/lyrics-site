@@ -16,19 +16,19 @@ romanLyrics: |-
 
   1
   Khauf kya mahshar ka daaman gir hai
-  Haath mein jab daaman-e-Shabbir hai
+  Haath meiṅ jab daaman-e-Shabbir hai
 
   2
   Apne apnoṅ ke to kaam aate haiṅ sab
   Ha Ali maula-e-aalam gir hai
 
   3
-  Kiuṅ na ho main huṅ ghulaam-e-Bu Turaab
+  Kiuṅ na ho maiṅ huṅ ghulaam-e-Bu Turaab
   Baagh-e-jannat haaṅ meri jaagir hai
 
   4
   Gar hata do nur-e-Ahl-e-Bait ko
-  Kaun si Islaam mein tanvir hai
+  Kaun si Islaam meiṅ tanvir hai
 
   5
   Aap ne jo khwaab dekha tha Khalil
@@ -55,8 +55,8 @@ romanLyrics: |-
   Khwaab kya dekhe the kya taabir hai
 
   11
-  Ik Ali ke thi gale mein risma
-  Ik Ali ke paaoṅ mein zanjir hai
+  Ik Ali ke thi gale meiṅ risma
+  Ik Ali ke paaoṅ meiṅ zanjir hai
 # source_id: nohayonline:e45bd7c8d46287437e4a
 # source_url: https://www.nohayonline.com/details_content.php?id=45
 # raw_sha256: 26652258ec786b0656cfbf3253cf4d968ccf5115ef22925a6c0580370065d0b8

@@ -25,26 +25,26 @@ romanLyrics: |-
   Is alam pe saaya afgan hai dua-e-Sayyida
 
   2
-  Tha yehi parcham Ali ke haath mein har jang mein
-  Karbala pahuncha dua-e-Sayyida ke rang mein
-  Hai isi parcham ko gaara tha Ali ne sang mein
-  Daurta hai khun is ko dekh kar rang rang mein
+  Tha yehi parcham Ali ke haath meiṅ har jang meiṅ
+  Karbala pahuncha dua-e-Sayyida ke rang meiṅ
+  Hai isi parcham ko gaara tha Ali ne sang meiṅ
+  Daurta hai khun is ko dekh kar rang rang meiṅ
 
   3
-  Haa isi parcham se aaya Karbala mein inqilaab
+  Haa isi parcham se aaya Karbala meiṅ inqilaab
   Le ke is ko jab gaya darya pe Ibn-e-Bu Turaab
   Chum li maujoṅ ne barh kar aspe Ghazi ki rakaab
   Is ke panje ki chamak se roshni le aaftaab
 
   4
-  Jab talak uncha raha Karbala mein Ghazi ka alam
-  Aa sake na khaima-e-Sarwar mein aada ke qadam
+  Jab talak uncha raha Karbala meiṅ Ghazi ka alam
+  Aa sake na khaima-e-Sarwar meiṅ aada ke qadam
   Ye alam thanda hua rone lage Shaah-e-umam
   Ro ke kehte the yehi tha mere lashkar ka bharam
 
   5
   Ye alam dhaaras tha Zainab aur Sakina ke liye
-  Dhup mein ek chhaaoṅ tha ye Shaah-e-waala ke liye
+  Dhup meiṅ ek chhaaoṅ tha ye Shaah-e-waala ke liye
   Is ka girna maut se barh kar tha Aaqa ke liye
   Maut ka paigham ye parcham tha aada ke liye
 

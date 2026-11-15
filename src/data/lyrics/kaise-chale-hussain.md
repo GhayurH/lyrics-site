@@ -14,48 +14,48 @@ romanLyrics: |-
   Haaye Sajjad haaye bimaar
   Haaye bimaar haaye Sajjad
 
-  Kaise chale Husain ka bimaar dhup mein
-  Aao madad ko Haider-e-Karraar dhup mein
+  Kaise chale Husain ka bimaar dhup meiṅ
+  Aao madad ko Haider-e-Karraar dhup meiṅ
 
   1
   Rasta bara tawil hai zakhmi haiṅ aeriyaaṅ
   Zanjir itni garm hai jalti hai pindliyaaṅ
-  Jhulsa raha hai tauq-e-giraaṅ baar dhup mein
+  Jhulsa raha hai tauq-e-giraaṅ baar dhup meiṅ
 
   2
   Chhirkaao karte jaate haiṅ aaṅsu Husain ke
   Pairoṅ ko kuch sukun mile nur-e-ain ke
-  Besaaybaaṅ hai qaafila saalaar dhup mein
+  Besaaybaaṅ hai qaafila saalaar dhup meiṅ
 
   3
   Na mahramoṅ ki bhir hai chehra nidhaal hai
   Phuphiyoṅ ki beridaai ka kitna malaal hai
-  Aata hai ghash mariz ko har baar dhup mein
+  Aata hai ghash mariz ko har baar dhup meiṅ
 
   4
   Zakhmi hai saara jism ghamoṅ ki sataai ka
-  Dil kaaṅp kaaṅp jaata hai sine mein bhaai ka
-  Durre laiṅ Sakina ke mat maar dhup mein
+  Dil kaaṅp kaaṅp jaata hai sine meiṅ bhaai ka
+  Durre laiṅ Sakina ke mat maar dhup meiṅ
 
   5
-  Aabid ke paaoṅ raah mein chhaaloṅ se bhar gaye
+  Aabid ke paaoṅ raah meiṅ chhaaloṅ se bhar gaye
   Jalti zamiṅ ne saath na chhora jidhar gaye
-  Aisa hua nasib giraftaar dhup mein
+  Aisa hua nasib giraftaar dhup meiṅ
 
   6
   Kam kar le tu hi apni tamaazat ko Aaftaab
-  Dena parega hashr mein pesh-e-Khuda jawaab
-  Hai saath bint-e-Ahmad-e-Mukhtaar dhup mein
+  Dena parega hashr meiṅ pesh-e-Khuda jawaab
+  Hai saath bint-e-Ahmad-e-Mukhtaar dhup meiṅ
 
   7
   Naize pe sar Husain ka is gham se hai udaas
   Koi nahiṅ hai Aabid-e-muztar ke aas paas
-  Ik ghamzada phuphi hai madadgaar dhup mein
+  Ik ghamzada phuphi hai madadgaar dhup meiṅ
 
   8
   Mushkil bari hai Aamir o Akhtar mariz par
-  Haṅste haiṅ raastoṅ mein sitamgar mariz par
-  Hai ab to saaṅs lena bhi dushwaar dhup mein
+  Haṅste haiṅ raastoṅ meiṅ sitamgar mariz par
+  Hai ab to saaṅs lena bhi dushwaar dhup meiṅ
 # source_id: nohayonline:fe4c871d93c9403eb9aa
 # source_url: https://www.nohayonline.com/details_content.php?id=2155
 # raw_sha256: ce4f1b8ec73c5d310c9afabc51881e9f04fa3b1052af5261c7a13c950350bffd

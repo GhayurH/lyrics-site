@@ -16,11 +16,11 @@ romanLyrics: |-
 
   1
   Ye koi Zainab o Kulsum ke dil se puchhe
-  Ye un ke waaste is dehr mein kya hai Abbas
+  Ye un ke waaste is dehr meiṅ kya hai Abbas
 
   2
   Sinaaṅ ki nok pe tathir nazar aane lagi
-  Kataa ke baazu junhi ran mein gira hai Abbas
+  Kataa ke baazu junhi ran meiṅ gira hai Abbas
 
   3
   Jabin-e-maadar-e-Hasnain ke sajdoṅ ke tufail
@@ -39,7 +39,7 @@ romanLyrics: |-
   Furaat teri taraf aaj barha hai Abbas
 
   7
-  Duaaeṅ maang Salamat usi ke sadqe mein
+  Duaaeṅ maang Salamat usi ke sadqe meiṅ
   Zara to soch ke Zahra ki dua hai Abbas
 # source_id: nohayonline:c6610295806c9826e1e6
 # source_url: https://www.nohayonline.com/details_content.php?id=3246

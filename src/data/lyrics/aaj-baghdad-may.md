@@ -1,6 +1,6 @@
 ---
 title: "آج بغداد میں کوئی قیدی"
-alternateTitle: "Aaj Baghdad Mein"
+alternateTitle: "Aaj Baghdad Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: ["Aaj Baghdad May"]
 published: true
 romanLyrics: |-
-  Aaj Baghdad mein koi qaidi
+  Aaj Baghdad meiṅ koi qaidi
   Ho gaya hai riha Raza Maula
 
   Pul pe tere gharib baba ka
@@ -19,7 +19,7 @@ romanLyrics: |-
 
   1
   Ek Bibi sarhane baithi hai
-  Kisne jaane usay khabar ki hai
+  Kisne jaane use khabar ki hai
   Haath pehlu pe apne rakhe huwe
   Aayi hai Fatema Raza Maula
 

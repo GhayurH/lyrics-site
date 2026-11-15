@@ -33,7 +33,7 @@ romanLyrics: |-
 
   4
   Subh se shaam talak laasheṅ uthaye the magar
-  Yuṅ lara jang ke maidan mein Haider ka pisar
+  Yuṅ lara jang ke maidan meiṅ Haider ka pisar
   Dasht laashoṅ se sajaaya keh uthe jinn o bashar
   Pyaasa reh kar bhi ye himmat koi bhi kar na saka
 
@@ -57,21 +57,21 @@ romanLyrics: |-
 
   8
   Pyaasa darya ke kinaare se alamdaar chala
-  Kat gaye baazu magar nazroṅ mein Asghar hi raha
+  Kat gaye baazu magar nazroṅ meiṅ Asghar hi raha
   Mashk se paani gaya aur din se Ghaazi gaya
   Ye wafaaeṅ ye itaaat koi bhi kar na saka
 
   9
-  Ek mastur ne mushkil mein bara kaam kiya
+  Ek mastur ne mushkil meiṅ bara kaam kiya
   Teri mazlumi ka parchaar sar-e-aam kiya
   Khud to beghar hui ghar ghar tera paighaam diya
   Is tarah teri himaayat koi bhi kar na saka
 
   10
   Shaadmaaṅ ho gayi Zehra jo qalam chalta raha
-  Apne alfaazoṅ mein pursa tu unheṅ deta raha
+  Apne alfaazoṅ meiṅ pursa tu unheṅ deta raha
   Raat din nauhe jo Mazhar ro ke tu likhta raha
-  Zikr-e-Shah mein ye riyaazat koi bhi kar na saka
+  Zikr-e-Shah meiṅ ye riyaazat koi bhi kar na saka
 # source_id: nohayonline:44eab5688db4029cebda
 # source_url: https://www.nohayonline.com/details_content.php?id=3048
 # raw_sha256: 6690b17aa312626d5a88efa0f35015087505ae4266f7c6b134faddc11c8fcd4c

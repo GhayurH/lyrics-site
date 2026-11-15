@@ -38,7 +38,7 @@ romanLyrics: |-
   5
   Bazzato minni kaha jis ko Nabi-e-paak ne
   Haif ke ummat ne har lamha sataaya hai use
-  Qabr mein roye Payambar Fatema khaamosh hai
+  Qabr meiṅ roye Payambar Fatema khaamosh hai
 
   6
   Yaas se maadar ko apni dekhte haiṅ Mujtaba

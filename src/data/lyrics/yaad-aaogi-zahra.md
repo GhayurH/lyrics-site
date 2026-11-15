@@ -17,28 +17,28 @@ romanLyrics: |-
   Yaad aaogi Zahra yaad aaogi Zahra
 
   1
-  Jis waqt Baqayya se main ghar jaauṅga Zahra
-  Phat jaayega sine mein masaaib se kaleja
+  Jis waqt Baqayya se maiṅ ghar jaauṅga Zahra
+  Phat jaayega sine meiṅ masaaib se kaleja
   Darwaaze pe pahunchuṅga to phir zabt na hoga
 
   2
   Darwaaze ki kiloṅ pe nazar jaayegi jis dam
   Barh jaayega ae maadar-e-Hasnain mera gham
-  Chhaa jaayega Haidar ki nigaahoṅ mein andhera
+  Chhaa jaayega Haidar ki nigaahoṅ meiṅ andhera
 
   3
   Sadme ki chhuri dil pe har ek waqt chalegi
   Kunfuz ki jafa hashr talak yaad rahegi
-  Jab jab bhi musalle pe main tasbih parhuṅga
+  Jab jab bhi musalle pe maiṅ tasbih parhuṅga
 
   4
   Ghut ghut ke wo rona wo sisakne ki sadaaeṅ
   Wo dard ki shiddat wo aziyat wo karaaheṅ
-  Main bhul na paauṅga tumhaara wo tarapna
+  Maiṅ bhul na paauṅga tumhaara wo tarapna
 
   5
-  Har tarah se bachchoṅ ko sambhaaluṅga main Bibi
-  Naazoṅ se bare pyaar se paaluṅga main Bibi
+  Har tarah se bachchoṅ ko sambhaaluṅga maiṅ Bibi
+  Naazoṅ se bare pyaar se paaluṅga maiṅ Bibi
   Bin aap ke khaaeṅge na jis waqt wo khaana
 
   6
@@ -47,7 +47,7 @@ romanLyrics: |-
   Aayega mere saamne jab bhi koi bachcha
 
   7
-  Ghurbat mein musibat mein mera saath nibhaya
+  Ghurbat meiṅ musibat meiṅ mera saath nibhaya
   Zakhmi thi magar mujh ko lainoṅ se bachaaya
   Yaad aayega har waqt ye ehsaan tumhaara
 

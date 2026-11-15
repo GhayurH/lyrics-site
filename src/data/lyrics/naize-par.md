@@ -16,7 +16,7 @@ romanLyrics: |-
   Kis tarah thahre sar-e-Shaah-e-wafa naize par
   Shaam tak jaaegi Zainab ki rida naize par
 
-  Raah mein puchha Sakina ne jo baaba hai kahaaṅ
+  Raah meiṅ puchha Sakina ne jo baaba hai kahaaṅ
   Khun rote hue Aabid ne kaha naize par
 
   1
@@ -32,7 +32,7 @@ romanLyrics: |-
   Chhu ke chaadar ko jo aati hai hawa naize par
 
   4
-  Main ne parde mein ise paala hai boli Zainab
+  Maiṅ ne parde meiṅ ise paala hai boli Zainab
   Sar mujhe Shimr na Akbar ka dikha naize par
 
   5
@@ -40,7 +40,7 @@ romanLyrics: |-
   Shaam tak rote rahe Shaah-e-huda naize par
 
   6
-  Baad mein majlis-e-Shabbir hui zindaaṅ mein
+  Baad meiṅ majlis-e-Shabbir hui zindaaṅ meiṅ
   Pahle majlis hui chaadar ki bapa naize par
 
   7

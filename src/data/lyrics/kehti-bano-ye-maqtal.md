@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Kehti Bano ye maqtal mein aayi
+  Kehti Bano ye maqtal meiṅ aayi
   Mere Asghar ki hai qabr kis jaa
 
   Dhundti huṅ karo rehnumaayi
@@ -19,14 +19,14 @@ romanLyrics: |-
 
   1
   Haye kaisa hua daagh dil par
-  Chain aata nahiṅ main huṅ muztar
+  Chain aata nahiṅ maiṅ huṅ muztar
   Mujh ko deta nahiṅ kuch dikhaayi
   Mere Asghar ki hai qabr kis jaa
 
   2
   Mere bachche ka koi pata de
   Ae zamin-e-bala tu bata de
-  Ae falak huṅ main teri sataayi
+  Ae falak huṅ maiṅ teri sataayi
   Mere Asghar ki hai qabr kis jaa
 
   3
@@ -37,19 +37,19 @@ romanLyrics: |-
 
   4
   Shab hai ghabraayega mera bachcha
-  Kaisa maqtal mein hai sab andhera
+  Kaisa maqtal meiṅ hai sab andhera
   Lori de kar sulaane huṅ aayi
   Mere Asghar ki hai qabr kis jaa
 
   5
   Koi kehta nahiṅ kuch zabaaṅ se
   Uth gayi kya murawwat jahaaṅ se
-  Logoṅ keh do main huṅ us daayi
+  Logoṅ keh do maiṅ huṅ us daayi
   Mere Asghar ki hai qabr kis jaa
 
   6
   Tashnagi se wo us ka tarapna
-  Ab bhi aankhoṅ mein hai wo machalna
+  Ab bhi aankhoṅ meiṅ hai wo machalna
   Pyaas us ki bujhaane huṅ aayi
   Mere Asghar ki hai qabr kis jaa
 
@@ -60,9 +60,9 @@ romanLyrics: |-
   Mere Asghar ki hai qabr kis jaa
 
   8
-  Hashr khaime mein Sadiq tha barpa
+  Hashr khaime meiṅ Sadiq tha barpa
   Rote jaate the Sajjad waala
-  Bano kehti jo maqtal mein aayi
+  Bano kehti jo maqtal meiṅ aayi
   Mere Asghar ki hai qabr kis jaa
 # source_id: nohayonline:6e1b5d6895046823c3c8
 # source_url: https://www.nohayonline.com/details_content.php?id=3009

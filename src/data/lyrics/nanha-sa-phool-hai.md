@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Inkaar aasmaaṅ ko hai raazi zamiṅ nahiṅ
   Asghar tere lahu ka thikaana kahiṅ nahiṅ
-  Maidaan mein garmi hai mitti hai dhul hai
+  Maidaan meiṅ garmi hai mitti hai dhul hai
   Jalti hai ye zamiṅ tu nanha sa phul hai
 
   Goya pisar ki laash se Sibt-e-Rasul hai
@@ -31,7 +31,7 @@ romanLyrics: |-
 
   3
   Jhula jhulaane wali ko kaise bataauṅ ga
-  Bano se is khabar ko main kaise chhupaauṅ ga
+  Bano se is khabar ko maiṅ kaise chhupaauṅ ga
   Zainab bhi muntazir hai jo Bint-e-Batul hai
 
   4
@@ -45,7 +45,7 @@ romanLyrics: |-
   Taarikh-e-guftugu ka anokha usul hai
 
   6
-  Laasha hai us ke haath pe khuṅ mein bhara hua
+  Laasha hai us ke haath pe khuṅ meiṅ bhara hua
   Jis ko lab-e-Furaat bhi paani na mil saka
   Jis ke liye Rasul ke sajde ko tul hai
 

@@ -18,13 +18,13 @@ romanLyrics: |-
   1
   Allah ne jab khalq ke meyaar banaaye
   Jo zarf kushaada the wo sardaar banaaye
-  Sardaaroṅ mein kuchh saahib-e-anwaar banaaye
+  Sardaaroṅ meiṅ kuchh saahib-e-anwaar banaaye
   Anwaar taraashe to azaadaar banaaye
   Ab jo mere Maula ka azaadaar nahiṅ hai
   Khud se zara soche ke wo bekaar nahiṅ hai
 
   2
-  Takhliq ki tartib mein haiṅ chaar anaasir
+  Takhliq ki tartib meiṅ haiṅ chaar anaasir
   Sab haiṅ mere Maula ke azaadaar anaasir
   Is waaste haiṅ saahib-e-asraar anaasir
   Khud karte haiṅ is baat ka iqraar anaasir
@@ -43,33 +43,33 @@ romanLyrics: |-
   Kis zarf ka haamil hai azaadaar ka sina
   Na bughz na ilhaad na auhaam na kina
   Hai Karb o bala ka yahaaṅ aabaad Madina
-  Is shahr mein dushwaar hai aghyaar ka jina
+  Is shahr meiṅ dushwaar hai aghyaar ka jina
   Sine pe jo maatam ki ye tahrik chali hai
-  Sine mein hai dil dil mein Husain Ibn-e-Ali hai
+  Sine meiṅ hai dil dil meiṅ Husain Ibn-e-Ali hai
 
   5
   Hum sinoṅ pe maatam se banaate haiṅ musalle
   Hoti hai azaaṅ jab to sajaate haiṅ musalle
-  Maatam ke julusoṅ mein bichhaate haiṅ musalle
+  Maatam ke julusoṅ meiṅ bichhaate haiṅ musalle
   Khud apni zabaaṅ se ye bataate haiṅ musalle
-  Sajdoṅ mein bhi Shabbir ko rota hai namaazi
+  Sajdoṅ meiṅ bhi Shabbir ko rota hai namaazi
   Shabbir ka har maatami hota hai namaazi
 
   6
   Uthta hai jo maatam ko azaadaar ka panja
   Tahzib ke sine pe hai afkaar ka panja
   Paanch ungliyaaṅ haiṅ paanch ke iqraar ka panja
-  Har daur mein har zulm ke inkaar ka panja
+  Har daur meiṅ har zulm ke inkaar ka panja
   Islam ki bunyaad ka dhaancha bhi yehi hai
   Rukhsaar-e-Yazidi pe tamaancha bhi yehi hai
 
   7
-  Hubdaar ki aankhoṅ mein hai rahmat ke zakhire
-  Palkoṅ mein chhupe haiṅ kahiṅ ashkoṅ ke jazire
+  Hubdaar ki aankhoṅ meiṅ hai rahmat ke zakhire
+  Palkoṅ meiṅ chhupe haiṅ kahiṅ ashkoṅ ke jazire
   Jab koh-e-basirat se utarte haiṅ ye hire
-  Ho jaate haiṅ tabdil muqaddar ke wateray
+  Ho jaate haiṅ tabdil muqaddar ke watere
   Sidra se azaadaar ko aati ye sada hai
-  Is jins ka mahshar mein kharidaar Khuda hai
+  Is jins ka mahshar meiṅ kharidaar Khuda hai
 
   8
   Ik ashk se ho jaati hai saansoṅ ki tahaarat
@@ -77,7 +77,7 @@ romanLyrics: |-
   Ik ashk se kar sakte ho jannat ki tijaarat
   Ik ashk se ho jaati hai Maula ki ziyaarat
   Aankhoṅ ko agar rone ki aadat nahiṅ hogi
-  Turbat mein bhi Maula ki ziyaarat nahiṅ hogi
+  Turbat meiṅ bhi Maula ki ziyaarat nahiṅ hogi
 # source_id: tajpoints:b039a59791390ca9af5b
 # source_url: https://tajpoints.com/2020/12/sarwar-ke-azadar-lyrics-in-urdu-and.html
 # raw_sha256: 5af735a18b7c30ae5fb4713471783321b214f68d350cb50cc7ec8db60cd17d85

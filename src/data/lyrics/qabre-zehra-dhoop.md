@@ -1,6 +1,6 @@
 ---
 title: "مثلِ پہلو ہے شکستہ قبرِ زہرا دُھوپ میں"
-alternateTitle: "Qabre Zehra Dhoop"
+alternateTitle: "Qabre Zehra Dhup"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,48 +11,48 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Misl-e-pehlu hai shikasta qabr-e-Zehra dhup mein
-  Saaye mein baba ka rauza qabr-e-Zehra dhup mein
+  Misl-e-pehlu hai shikasta qabr-e-Zehra dhup meiṅ
+  Saaye meiṅ baba ka rauza qabr-e-Zehra dhup meiṅ
 
   1
-  Gumbad-e-Khizra ke saaye mein nahiṅ rehte Rasul
+  Gumbad-e-Khizra ke saaye meiṅ nahiṅ rehte Rasul
   Apni ummat ke sitam par ho rahe haiṅ dil malul
-  Dekhte haiṅ roz Aaqa qabr-e-Zehra dhup mein
+  Dekhte haiṅ roz Aaqa qabr-e-Zehra dhup meiṅ
 
   2
   Kal jala Zehra ka dar aur koi kuchh bola nahiṅ
   Aaj bhi khaamosh haiṅ sab koi kuchh kehta nahiṅ
-  Dekhta hai shahr saara qabr-e-Zehra dhup mein
+  Dekhta hai shahr saara qabr-e-Zehra dhup meiṅ
 
   3
   Ek hi to hai Muhammad Mustafa ki kaainaat
   Kya musalmaano yehi insaaf hai Bibi ke saath
-  Saaye mein ahl-e-Madina qabr-e-Zehra dhup mein
+  Saaye meiṅ ahl-e-Madina qabr-e-Zehra dhup meiṅ
 
   4
   Ghurbat-e-bint-e-Nabi par ro rahe the khud Ali
-  Jab utha shab mein janaaza dekh na paaya koi
-  Dekhti hai aaj duniya qabr-e-Zehra dhup mein
+  Jab utha shab meiṅ janaaza dekh na paaya koi
+  Dekhti hai aaj duniya qabr-e-Zehra dhup meiṅ
 
   5
   Maaṅ to maaṅ hai bhulti manzar wo kis tarah bhala
-  Haaye begor o kafan tha dhup mein bachcha mera
-  Aaj bhi karti hai girya qabr-e-Zehra dhup mein
+  Haaye begor o kafan tha dhup meiṅ bachcha mera
+  Aaj bhi karti hai girya qabr-e-Zehra dhup meiṅ
 
   6
-  Qabr mein ja kar bhi aansu ruk na paayeṅ ge kabhi
+  Qabr meiṅ ja kar bhi aansu ruk na paayeṅ ge kabhi
   Do sitam Sajjad ko tarpa rahe haiṅ aaj bhi
-  Saani-e-Zehra ka parda qabr-e-Zehra dhup mein
+  Saani-e-Zehra ka parda qabr-e-Zehra dhup meiṅ
 
   7
-  Din mein suraj ka safar ho ya ke ho taariki shab
+  Din meiṅ suraj ka safar ho ya ke ho taariki shab
   Donoṅ manzar haiṅ azaadaaroṅ ke rone ka sabab
-  Qabr-e-Zehra par andhera qabr-e-Zehra dhup mein
+  Qabr-e-Zehra par andhera qabr-e-Zehra dhup meiṅ
 
   8
   Istighaase par ho Farhan o Takallum ikhtitaam
   Parda-e-ghaibat utha kar aaiye jaldi Imam
-  Mustaqil hai mere Maula qabr-e-Zehra dhup mein
+  Mustaqil hai mere Maula qabr-e-Zehra dhup meiṅ
 # source_id: nohayonline:21c66e9e0c2412e25a93
 # source_url: https://www.nohayonline.com/details_content.php?id=1027
 # raw_sha256: 50b1e8625519a977a9687260a8f000c6cb06ef6eaccde352a4deed3ff0991246

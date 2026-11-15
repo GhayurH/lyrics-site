@@ -23,8 +23,8 @@ romanLyrics: |-
   1
   Teri qabr ki ghurbat pe Bibi
   Bechain risaalat roti hai
-  Hai baap ki turbat saae mein
-  Aur dhup mein beti soti hai
+  Hai baap ki turbat saae meiṅ
+  Aur dhup meiṅ beti soti hai
   Din raat jo dard se jalta hai
   Dil baap ka thanda ho jaae
 

@@ -21,28 +21,28 @@ romanLyrics: |-
   Allahumma urzuqna ziyaarat al-Husain
 
   1
-  Main mar na jaauṅ tum se mile bin
-  Ye soch kar main rota huṅ har din
+  Maiṅ mar na jaauṅ tum se mile bin
+  Ye soch kar maiṅ rota huṅ har din
   Mas kar ke tere rauze se Maula
   Apna kafan sab laate hai lekin
-  Tera kafan main laauṅ ga mujh ko
+  Tera kafan maiṅ laauṅ ga mujh ko
   Ae bekafan koi raasta dikha de
   Karbala dikha de
 
   2
   Ghurbat ka aalam sab se chhupa kar
-  Karbobala sine mein basa kar
-  Shauq-e-ziyaarat mein ji raha huṅ
-  Main bhi namak se rotiyaaṅ kha kar
+  Karbobala sine meiṅ basa kar
+  Shauq-e-ziyaarat meiṅ ji raha huṅ
+  Maiṅ bhi namak se rotiyaaṅ kha kar
   Muflis huṅ kaise rauze pe aauṅ
   Maula tu koi mojiza dikha de
   Karbala dikha de
 
   3
-  Zaair banuṅ main us ke haram ka
+  Zaair banuṅ maiṅ us ke haram ka
   Sab par hai saaya jis ke alam ka
   Tum to Karim-e-Karbobala ho
-  Main muntazir huṅ tere karam ka
+  Maiṅ muntazir huṅ tere karam ka
   Ab bhi jahaaṅ hai mashk-e-Sakina
   Mujh ko wo rauza-e-baawafa dikha de
   Karbala dikha de
@@ -58,15 +58,15 @@ romanLyrics: |-
 
   5
   Tum ko qasam hai us naujawaaṅ ki
-  Jis ke jigar mein tuti sinaaṅ thi
-  Maatam karuṅ main jaa kar wahaaṅ par
+  Jis ke jigar meiṅ tuti sinaaṅ thi
+  Maatam karuṅ maiṅ jaa kar wahaaṅ par
   Akbar ke Baba hasrat hai meri
   Kheṅchi jahaaṅ par sine se barchhi
   Aankhoṅ ko meri wo jagah dikha de
   Karbala dikha de
 
   6
-  Ran mein jahaaṅ tum thak kar gire the
+  Ran meiṅ jahaaṅ tum thak kar gire the
   Uthna tha mushkil zakhmi the itne
   Phir us maqaam-e-Mahdi se chal kar
   Tum qatl gaah tak aaye the kaise
@@ -77,7 +77,7 @@ romanLyrics: |-
   7
   Yaad aa rahi hai Karbobala ki
   Sun lo sada Zishaan o Raza ki
-  Bulwa lo hum ko is Arbain par
+  Bulwa lo hum ko is Arbaiṅ par
   Hai ye tamanna ahl-e-aza ki
   Paidal Najaf se aana hai chal ke
   Jannat ka mujh ko tu raasta dikha de

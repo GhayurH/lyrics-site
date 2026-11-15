@@ -12,23 +12,23 @@ aliases: []
 published: true
 romanLyrics: |-
   Ae jaan o dil-e-Haider-e-Karrar Alamdar
-  Zinda hai jahaaṅ mein tere aasar Alamdar
+  Zinda hai jahaaṅ meiṅ tere aasar Alamdar
   Mashk o alam ab bhi haiṅ khunbar Alamdar
   Ab tak hai zabaanoṅ pe Alamdar Alamdar
 
   1
-  Lehreṅ abhi leta hai fiza mein tera parcham
+  Lehreṅ abhi leta hai fiza meiṅ tera parcham
   Parcham se numayaṅ hai wafa ka teri aalam
   Bhulegi na dunya tera isar Alamdar
 
   2
-  Darya-e-mohabbat mein rawaṅ hai teri kashti
-  Bachche teri taqlid mein bante haiṅ bahishti
+  Darya-e-mohabbat meiṅ rawaṅ hai teri kashti
+  Bachche teri taqlid meiṅ bante haiṅ bahishti
   Zahir hai Sakina se jo tha pyar Alamdar
 
   3
   Darya pe raha yaad mohabbat ka qarina
-  Woh pyaas mein do roz ki pani ka na pina
+  Woh pyaas meiṅ do roz ki pani ka na pina
   Yaad aati hai ye manzil-e-dushwar Alamdar
 
   4
@@ -48,13 +48,13 @@ romanLyrics: |-
 
   7
   Tewar pe fida tashnadahani pe tasadduq
-  Millat ke jawaṅ teri jawani pe tasadduq
-  Sab teri mohabbat mein haiṅ sarshar Alamdar
+  Millat ke jawaaṅ teri jawani pe tasadduq
+  Sab teri mohabbat meiṅ haiṅ sarshar Alamdar
 
   8
   Sadiyoṅ se hai kandhe pe alam tera uthae
   Haaṅ ek nigah-e-lutf Yadullah ke jaaye
-  Himmat hai diloṅ mein teri darkar Alamdar
+  Himmat hai diloṅ meiṅ teri darkar Alamdar
 # source_id: nohayonline:d8ea04a9cbd2efe5166b
 # editorial_uncertainty: Archived HTML confirms eight three-verse stanzas and abbreviated performance refrains. Stanzas one and eight wording remains uncertain; Urdu alam is misspelled الم in the source while Roman reads alam. Audio/print review remains necessary.
 # source_url: https://www.nohayonline.com/details_content.php?id=1089

@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Baba na jaaiye baba na jaaiye
   Zainab ki ye buka hai khudara na jaaiye
-  Hum ko jahaaṅ mein chhor ke tanha na jaaiye
+  Hum ko jahaaṅ meiṅ chhor ke tanha na jaaiye
 
   1
   Beti lipat ke baap ki mayyat se ro pari
@@ -21,7 +21,7 @@ romanLyrics: |-
   Hum ko bahut sataayegi dunya na jaaiye
 
   2
-  Sadmaat sab Ali ke kafan mein ayaaṅ hue
+  Sadmaat sab Ali ke kafan meiṅ ayaaṅ hue
   Mayyat ki band aankh se aansu rawaaṅ hue
   Beti ne itne karb se bola na jaaiye
 

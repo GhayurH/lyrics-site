@@ -18,7 +18,7 @@ romanLyrics: |-
   1
   Zanjir ulajh kar pairoṅ se kehti hai
   Ye gham ke maaroṅ se
-  Kuch der mein patthar barseṅge
+  Kuch der meiṅ patthar barseṅge
   Is shehr ke baala khaanoṅ se
   Sajjad ka dil ghabraata hai
 
@@ -26,7 +26,7 @@ romanLyrics: |-
   Beghar hai musaafir bechaadar hai
   Kitni aziyat ka ye safar
   Baazu hai bandhe maaṅ behnoṅ ke
-  Sar baap chacha ke khuṅ mein tar
+  Sar baap chacha ke khuṅ meiṅ tar
   Bimaar bahut sharmaata hai
 
   3
@@ -44,7 +44,7 @@ romanLyrics: |-
   Aur ashk falak barsaata hai
 
   5
-  Darbaar ka dar nazdeek aaya
+  Darbaar ka dar nazdik aaya
   Baazaar-e-sitam ab khatm hua
   Kuch der asiroṅ ko roko
   Ye hukm-e-Yazidi hai aaya
@@ -74,19 +74,19 @@ romanLyrics: |-
   9
   Zanjir chhatak kar tut gayi
   Bimaar ne ek angraayi jo li
-  Darbaar-e-sitam mein shor utha
+  Darbaar-e-sitam meiṅ shor utha
   Kya aaj Najaf se aaye Ali
   Ye waqt-e-qayaamat aata hai
 
   10
-  Darbaar se jab zindaaṅ mein gaye
+  Darbaar se jab zindaaṅ meiṅ gaye
   Sajjad phuphi se kehne lage
   Ye kaisa andhera zindaaṅ hai
   Yaaṅ zinda raheṅge hum kaise
   Dil mera duba jaata hai
 
   11
-  Zindaaṅ mein Sakina ne puchha
+  Zindaaṅ meiṅ Sakina ne puchha
   Ghar jaayeṅge hum kis din bhaiya
   Ya aur koi baaqi hai sitam
   Ghutta hai yahaaṅ to dam mera

@@ -15,8 +15,8 @@ romanLyrics: |-
   Aaiye Sher-e-Khuda haye Ali ya Ali
 
   1
-  Kis ka nawaasa huṅ main kis liye pyaasa huṅ main
-  Waaris-e-Kaaba huṅ main bekas o tanha huṅ main
+  Kis ka nawaasa huṅ maiṅ kis liye pyaasa huṅ maiṅ
+  Waaris-e-Kaaba huṅ maiṅ bekas o tanha huṅ maiṅ
   Khushk hai kiuṅ kar gala haye Ali ya Ali
 
   2
@@ -50,7 +50,7 @@ romanLyrics: |-
   Ho gae pyaase fida haye Ali ya Ali
 
   8
-  Aabid-e-Muztar mera ghash mein hai ab tak para
+  Aabid-e-Muztar mera ghash meiṅ hai ab tak para
   Shaam talak jaaega ho ke asir-e-Jafa
   Roegi zanjir-e-Paa haye Ali ya Ali
 
@@ -61,7 +61,7 @@ romanLyrics: |-
 
   10
   Misam o Rehaan ab gham ka yehi hai sabab
-  Lut gae pardes mein Aal-e-Nabi sab ke sab
+  Lut gae pardes meiṅ Aal-e-Nabi sab ke sab
   Kahte haiṅ Ahl-e-Aza haye Ali ya Ali
 # source_id: nohayonline:32fa0e1b43914664cfba
 # source_url: https://www.nohayonline.com/details_content.php?id=2149

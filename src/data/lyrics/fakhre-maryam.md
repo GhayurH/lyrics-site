@@ -14,7 +14,7 @@ romanLyrics: |-
   Zainab kuja bazaar kuja
 
   1
-  Fakhr-e-Maryam be rida hai Shaam ka bazaar hai
+  Fakhr-e-Maryam berida hai Shaam ka bazaar hai
   Saj raha darbaar hai Shaam ka bazaar hai
   Bhir hai baazaariyoṅ ki
   Saj raha darbaar hai Shaam ka bazaar hai
@@ -40,8 +40,8 @@ romanLyrics: |-
   Bhir hai baazaariyoṅ ki saj raha darbaar hai
 
   6
-  Ru ba ru baba ke apne jo na boli thi Ameer
-  Tin din deti rahi bazaar mein niru waar hai
+  Ru ba ru baba ke apne jo na boli thi Amir
+  Tin din deti rahi bazaar meiṅ niru waar hai
   Bhir hai baazaariyoṅ ki saj raha darbaar hai
 # source_id: nohayonline:66800c9c1de05c36fcc7
 # source_url: https://www.nohayonline.com/details_content.php?id=2293

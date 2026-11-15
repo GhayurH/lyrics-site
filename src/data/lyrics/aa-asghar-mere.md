@@ -21,12 +21,12 @@ romanLyrics: |-
   Ae chand mere nur-e-nazar laut ke aaja
 
   2
-  Jal jaye mere haath ke jal jaauṅ main khud bhi
+  Jal jaye mere haath ke jal jaauṅ maiṅ khud bhi
   Ae laal tere jhule ko jalne nahiṅ duṅ gi
 
   3
   Chain aayega kis tarah tujhe jalti zamiṅ par
-  Aaja tujhe behlaauṅ main sine se laga kar
+  Aaja tujhe behlaauṅ maiṅ sine se laga kar
 
   4
   Hasrat bhari nazroṅ se tera dekhna maaṅ ko
@@ -37,12 +37,12 @@ romanLyrics: |-
   Zinda huṅ ke aane ki tere aas hai baaqi
 
   6
-  Haathoṅ mein rasan hai mere aur khaak hai sar par
+  Haathoṅ meiṅ rasan hai mere aur khaak hai sar par
   Tu aa ke zara dekh to ghurbat ka ye manzar
 
   7
-  Maqtal mein har ek simt qayamat ka samaaṅ hai
-  Main dhund rahi huṅ mere be-shir kahaaṅ hai
+  Maqtal meiṅ har ek simt qayamat ka samaaṅ hai
+  Maiṅ dhund rahi huṅ mere beshir kahaaṅ hai
 
   8
   Jhule se juda karna qayamat hua Gohar

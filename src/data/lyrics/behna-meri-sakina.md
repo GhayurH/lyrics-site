@@ -42,7 +42,7 @@ romanLyrics: |-
   Kaanoṅ pe khun taaza behna meri Sakina
 
   6
-  Hai zakhmi haath mere aur hathkari mein jakre
+  Hai zakhmi haath mere aur hathkari meiṅ jakre
   Laaye kafan kahaaṅ se dafnaaye tujh ko kaise
   Bhai asir tanha behna meri Sakina
 

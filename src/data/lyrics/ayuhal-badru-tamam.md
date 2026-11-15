@@ -12,9 +12,9 @@ aliases: []
 published: true
 romanLyrics: |-
   Khaime se is tarah se Laila ka chaand nikla
-  Tha arsh se zamin tak phaila hua ujaala
+  Tha arsh se zamiṅ tak phaila hua ujaala
   Lab phul aankh jugnu aabru hilaal jaise
-  Zulfeṅ se aah jaise kamli mein kamli waala
+  Zulfeṅ se aah jaise kamli meiṅ kamli waala
   Shabih-e-Mustafa Akbar jamaal-e-Karbala Akbar
   Jo dekhe wo pukaar uthe rakhe tujhko Khuda Akbar
   Ayuhal badru tamaam
@@ -22,7 +22,7 @@ romanLyrics: |-
   1
   Wo palkeṅ aayatoṅ jaisi wo Quraan ki tarah sina
   Wo Haidar ki tarah baazu wo lehja Mustafa jaisa
-  Ali samjhuṅ Nabi keh duṅ kahuṅ main tujhko kya Akbar
+  Ali samjhuṅ Nabi keh duṅ kahuṅ maiṅ tujhko kya Akbar
 
   2
   Wo Kausar se dhule gesu hilaal-e-Id se abru
@@ -30,7 +30,7 @@ romanLyrics: |-
   Bana kar tujhko naazaaṅ tha Muhammad ka Khuda Akbar
 
   3
-  Zamin par paaoṅ rakhte the falak ko rashk aata tha
+  Zamiṅ par paaoṅ rakhte the falak ko rashk aata tha
   Falak ko dekh lete gar sitaara jhum jaata tha
   Sitaare maangte the tere chehre se ziya Akbar
 
@@ -51,17 +51,17 @@ romanLyrics: |-
 
   7
   Jawaani raas na aayi kaleje par sinaaṅ khaayi
-  Madine mein behan khush thi ke ghar aayega ab bhaai
+  Madine meiṅ behan khush thi ke ghar aayega ab bhaai
   Magar ye khwaab tha us ka jo pura na hua Akbar
 
   8
-  Tha armaaṅ byaah ka dil mein lagaayi khun ki mehndi
+  Tha armaaṅ byaah ka dil meiṅ lagaayi khun ki mehndi
   Kaha Laila ne mayyat par rachaayi kis tarah shaadi
   Jawaaṅ ho kar ye kaisa daagh maadar ko diya Akbar
 
   9
   Ali Akbar ka sadqa hai qalam Rehaan kehta hai
-  Wahaaṅ main mohtaram thehra jahaaṅ majlis hai nauha hai
+  Wahaaṅ maiṅ mohtaram thehra jahaaṅ majlis hai nauha hai
   Ab is izzat ke badle Rab se maanguṅ aur kya Akbar
 # source_id: nohayonline:71a3ff113b7cf8aaa300
 # source_url: https://www.nohayonline.com/details_content.php?id=1890

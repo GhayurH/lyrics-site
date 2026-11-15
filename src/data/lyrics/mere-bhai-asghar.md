@@ -24,22 +24,22 @@ romanLyrics: |-
   2
   Jo tum chaahte ho ke mil jaaye paani
   Ke ho dur bete ki tashna dahaani
-  To paani ko khaime mein le aao jaa kar
+  To paani ko khaime meiṅ le aao jaa kar
 
   3
   Thahar jaao baaba zara meri khaatir
-  Main jaane duṅ tum ko wahaaṅ kaise aakhir
+  Maiṅ jaane duṅ tum ko wahaaṅ kaise aakhir
   Nazar har taraf aa rahe haiṅ sitamgar
 
   4
-  Ye gham kamsini mein uthaauṅ gi kaise
-  Nigaahoṅ se main dekh paauṅ gi kaise
+  Ye gham kamsini meiṅ uthaauṅ gi kaise
+  Nigaahoṅ se maiṅ dekh paauṅ gi kaise
   Tarapte hue is ko jalti zamiṅ par
 
   5
   Pata hai ye mujh ko ke mar jaayega ye
   Wahaaṅ se palat kar nahiṅ aayega ye
-  Tum aaoge is ko lahad mein chhupa kar
+  Tum aaoge is ko lahad meiṅ chhupa kar
 
   6
   Sitam dhaayeṅ ge bezabaaṅ pe wo kaafir

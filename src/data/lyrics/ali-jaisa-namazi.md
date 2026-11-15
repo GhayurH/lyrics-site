@@ -18,12 +18,12 @@ romanLyrics: |-
   Manati hai namazeṅ Murtaza ka gham musalle par
 
   1
-  Bujha kar zehr mein shamshir apni Ibn-e-Muljim ne
+  Bujha kar zehr meiṅ shamshir apni Ibn-e-Muljim ne
   Lagayi us ghari zarbat lagayi Ibn-e-Muljim ne
   Ali-e-Murtaza ne jab kiya sar kham musalle par
 
   2
-  Shaqi ne war Shah par ain sajde mein kiya aisa
+  Shaqi ne war Shah par ain sajde meiṅ kiya aisa
   Sar-e-Haider hua do nim ubla khun ka darya
   Tarapta reh gaya Sultan-e-Do-Aalam musalle par
 
@@ -38,8 +38,8 @@ romanLyrics: |-
   Hai ab bhi mahw-e-sajda Waris-e-Adam musalle par
 
   5
-  Jabiṅ sajde mein hai aur zehn mein Kufa ka manzar hai
-  Nazar mein zakhmi sar hai nauha-e-Haider laboṅ par
+  Jabiṅ sajde meiṅ hai aur zehn meiṅ Kufa ka manzar hai
+  Nazar meiṅ zakhmi sar hai nauha-e-Haider laboṅ par
   Ke aaṅsu kar rahe haiṅ Shah ka matam musalle par
 
   6
@@ -48,8 +48,8 @@ romanLyrics: |-
   Namazoṅ ke liye aate haiṅ jab bhi hum musalle par
 
   7
-  Lahu Rehaan roe Waris-e-Kaba ki furqat mein
-  Mujeeb Afkar ne nauhe parhe roze ki halat mein
+  Lahu Rehaan roe Waris-e-Kaba ki furqat meiṅ
+  Mujib Afkar ne nauhe parhe roze ki halat meiṅ
   Kiya unnisweṅ Ramazaṅ ne bhi matam musalle par
 ---
 

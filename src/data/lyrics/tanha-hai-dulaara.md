@@ -77,7 +77,7 @@ romanLyrics: |-
   Zakhmi zakhmi haatif ki sada
 
   13
-  Maqtal meiṅ Rasheed ek hashr hua
+  Maqtal meiṅ Rashid ek hashr hua
   Sar ho gaya shah ka tan se juda
   Ek bekas maaṅ deti hai sada
 # source_id: nohayonline:67206b35068eaad12142

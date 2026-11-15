@@ -26,7 +26,7 @@ romanLyrics: |-
   Maaṅ dekhti hai manzar Karbal ke biyaabaaṅ meiṅ
 
   4
-  Is nanhi si mayyat par thay bain Sakina ke
+  Is nanhi si mayyat par the bain Sakina ke
   Dunya se gaya Asghar Karbal ke biyaabaaṅ meiṅ
 
   5
@@ -46,7 +46,7 @@ romanLyrics: |-
   Aankhoṅ meiṅ hai wo manzar Karbal ke biyaabaaṅ meiṅ
 
   9
-  Tanhaai pe hanste thay Shabbir ke jo zaalim
+  Tanhaai pe hanste the Shabbir ke jo zaalim
   Sab mit chuke haiṅ Saabir Karbal ke biyaabaaṅ meiṅ
 # source_id: nohayonline:776e4db653d4bb1332ee
 # source_url: https://www.nohayonline.com/details_content.php?id=2760

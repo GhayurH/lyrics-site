@@ -30,7 +30,7 @@ romanLyrics: |-
   Hai jab yaqin hamaara Husain aaj bhi hai
 
   4
-  Julus mein jo kabhi Zuljanaah aata hai
+  Julus meiṅ jo kabhi Zuljanaah aata hai
   To is ke chalne ka andaaz ye bataata hai
   Ke jaise zin pe baitha Husain aaj bhi hai
 

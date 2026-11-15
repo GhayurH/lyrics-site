@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Kahaṅ ho tum mere Ghaazi zara chale aana
-  Main qaid ho ke chali aur watan hai begaana
+  Maiṅ qaid ho ke chali aur watan hai begaana
 
   1
   Banaaye parda mera kaun ab siwa tere
@@ -35,7 +35,7 @@ romanLyrics: |-
   Lagi hai aag jo daaman pe wo bujha jaana
 
   5
-  Misaal ban gayi duniya mein aaj teri wafa
+  Misaal ban gayi duniya meiṅ aaj teri wafa
   Zamaana rota hai kar kar ke yaad teri wafa
   Har ek lab pe Alamdar tera afsaana
 # source_id: nohayonline:58b87c33b25d966f72ce

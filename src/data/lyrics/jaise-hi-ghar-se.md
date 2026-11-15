@@ -12,12 +12,12 @@ aliases: []
 published: true
 romanLyrics: |-
   Jaise hi ghar se nikla taabut Mujtaba ka
-  Tiroṅ mein ghir gaya tha farzand Murtaza ka
+  Tiroṅ meiṅ ghir gaya tha farzand Murtaza ka
   Haaye Hasan haaye Hasan
 
   1
   Kya mila tujhe ae zaalim Qasim yatim kar ke
-  Kuchh bhi na khauf aaya dil mein tere Khuda ka
+  Kuchh bhi na khauf aaya dil meiṅ tere Khuda ka
   Haaye Hasan haaye Hasan
 
   2
@@ -27,11 +27,11 @@ romanLyrics: |-
 
   3
   Hai dusra aal imaamat ka Zehra ke jigar ka paara
-  Panjetan ke paak gharaane mein tha Hasan hi sab ko pyaara
+  Panjetan ke paak gharaane meiṅ tha Hasan hi sab ko pyaara
   Kiuṅ baarish ki hai tiroṅ ki kiuṅ zehr se us ko maara
-  Tha jis ka baaba Nabiyoṅ ka mushkil mein paak sahaara
-  Tiroṅ mein hai janaaza haaye us ke laadle ka
-  Hota tha jo sahaara mushkil mein Ambiya ka
+  Tha jis ka baaba Nabiyoṅ ka mushkil meiṅ paak sahaara
+  Tiroṅ meiṅ hai janaaza haaye us ke laadle ka
+  Hota tha jo sahaara mushkil meiṅ Ambiya ka
   Haaye Hasan haaye Hasan
 
   4
@@ -49,7 +49,7 @@ romanLyrics: |-
   Haaye Hasan haaye Hasan
 
   6
-  Pehchaanne se qaasir har koi Ameer hoga
+  Pehchaanne se qaasir har koi Amir hoga
   Qasim bharam rakhega kuchh is tarah chacha ka
   Haaye Hasan haaye Hasan
 # source_id: nohayonline:9b0f3775caa6402296d9

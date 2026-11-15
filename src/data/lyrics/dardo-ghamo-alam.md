@@ -23,14 +23,14 @@ romanLyrics: |-
 
   2
   Kehti hai sar ke zakhm se ro ro ke ye namaaz
-  Dubi hui lahu mein ye ibaadat ki raat hai
+  Dubi hui lahu meiṅ ye ibaadat ki raat hai
 
   3
   Quran ke harf harf se behne laga hai khun
   Shaariye-Muhammadi pe musibat ki raat hai
 
   4
-  Rone do mujh ko main huṅ azaadaar-e-Murtaza
+  Rone do mujh ko maiṅ huṅ azaadaar-e-Murtaza
   Islam keh raha hai ye wahshat ki raat hai
 
   5

@@ -72,8 +72,8 @@ romanLyrics: |-
   Khaamosh rah gaya Sughra ke muṅh pe kuchh na kaha
   Pukaari Fatima gardan meiṅ dekh shaal-e-aza
   Tu bhai laaya hai kis ki sunaani mujh ko suna
-  Wo bola qaasid-e-bimaar-e-Karbala huṅ main
-  Sunaani qabr-e-Payambar pe le chala huṅ main
+  Wo bola qaasid-e-bimaar-e-Karbala huṅ maiṅ
+  Sunaani qabr-e-Payambar pe le chala huṅ maiṅ
 
   9
   Wo boli ro ro ke bhai ye kya sunaata hai
@@ -94,7 +94,7 @@ romanLyrics: |-
   11
   Bashir kahta hai wallah rauza kaaṅp gaya
   Lahad se naala hua wa Husain ka paida
-  Idhar zamin pe tarapti thi Fatima Sughra
+  Idhar zamiṅ pe tarapti thi Fatima Sughra
   Zanaan-e-Hashmiya ne wahaaṅ hujum kiya
   Hila ke shaana kaha Shaah-e-Mashraqain aaye
   Utho Husain ki aashiq utho Husain aaye
@@ -103,9 +103,9 @@ romanLyrics: |-
   Wo aaṅkheṅ khol ke boli ke mar gaye Baba
   Ke is meiṅ qaafila-e-Karbala bhi aa pahuṅcha
   Bahan Husain ki sar nange deti thi ye sada
-  Husain jab se mue main ne sar nahiṅ dhaaṅpa
+  Husain jab se mue maiṅ ne sar nahiṅ dhaaṅpa
   Na murda aur na taabut akhi ka laayi huṅ
-  Madine waaloṅ main bhai ko kho ke aayi huṅ
+  Madine waaloṅ maiṅ bhai ko kho ke aayi huṅ
 # source_id: nohayonline:0df0bc7d575360b0ac89
 # source_url: https://www.nohayonline.com/content_marsiya.php?id=26
 # raw_sha256: 4e319981a47e0ad68d35140739e0c65b7d9791e65fe3624c8f0930282c4895f4

@@ -13,20 +13,20 @@ published: true
 romanLyrics: |-
   Ali ki baadshaahi hai
   Ali ism-e-ilaahi hai
-  Har ek mizaan mein tola
+  Har ek mizaan meiṅ tola
   Zabaaṅ ke saath dil bola
   Ali Maula Ali Maula
 
   1
   Lage jab Haidari naara
   Ali Maula Ali Maula
-  Jahaaṅ mein gunj hoti hai
+  Jahaaṅ meiṅ gunj hoti hai
   Ali Maula Ali Maula
 
   2
   Kabhi naad-e-Ali parh kar
   Kaho ya faatih-e-Khaibar
-  To mushkil hogi mushkil mein
+  To mushkil hogi mushkil meiṅ
   Ali ka naam hi sun kar
 
   3
@@ -51,7 +51,7 @@ romanLyrics: |-
   Ali hai mazhar-e-Yazdaaṅ
   Ali hai bolta Quraaṅ
   Nabuwwat jism ki surat
-  Ali us jism mein hai jaaṅ
+  Ali us jism meiṅ hai jaaṅ
 
   7
   Saluni ki sada ban kar

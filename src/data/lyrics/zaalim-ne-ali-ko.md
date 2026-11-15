@@ -14,22 +14,22 @@ romanLyrics: |-
   Ikkiswiṅ Ramzaan hai Aashur-e-Muharram
   Hota hai bapa Haidar-e-Karraar ka maatam
 
-  Sar pit ke Hasnain ne masjid mein pukaara
+  Sar pit ke Hasnain ne masjid meiṅ pukaara
   Zaalim ne Ali ko nahiṅ maara hameṅ maara
 
   1
-  Baaba ka lahu maah-e-mubaarak mein bahaaya
+  Baaba ka lahu maah-e-mubaarak meiṅ bahaaya
   Zaalim ne hameṅ Id ke nazdik rulaaya
-  Sar sher-e-Khuda ka hua masjid mein do paara
+  Sar sher-e-Khuda ka hua masjid meiṅ do paara
 
   2
   Kis tarah se bin aap ke ji paae gi Zainab
-  Tanhaai se pardes mein mar jaae gi Zainab
+  Tanhaai se pardes meiṅ mar jaae gi Zainab
   Baaba yuṅ hameṅ chhor ke jaaeṅ na Khudaara
 
   3
   Jibril sada deta hai Sidra se tarap kar
-  Talwaar chali sajde mein daamaad-e-Nabi par
+  Talwaar chali sajde meiṅ daamaad-e-Nabi par
   Aashur sa hai masjid-e-Kufa ka nazaara
 
   4
@@ -39,12 +39,12 @@ romanLyrics: |-
 
   5
   Maula ki khabar sunte hi mar jaaeṅ ge bachche
-  Is aalam-e-ghurbat mein kidhar jaaeṅ ge bachche
+  Is aalam-e-ghurbat meiṅ kidhar jaaeṅ ge bachche
   Ab kaun hai Kufe ke yatimoṅ ka sahaara
 
   6
   Kya likhe Takallum jo shahaadat ka tha manzar
-  Band aankheṅ huiṅ god mein Zainab ki raha sar
+  Band aankheṅ huiṅ god meiṅ Zainab ki raha sar
   Khaaliq ki taraf laut gaya Maula hamaara
 # source_id: nohayonline:3dbf6828225a2ab5ba4c
 # source_url: https://www.nohayonline.com/details_content.php?id=3385

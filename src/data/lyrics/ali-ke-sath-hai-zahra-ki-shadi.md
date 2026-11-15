@@ -36,8 +36,8 @@ romanLyrics: |-
   Wilaayat ne hasiṅ masnad bichha di
 
   3
-  Kayi bahaareṅ guzar gayi haiṅ khila na aisa chaman jahaaṅ mein
-  Kahaaṅ Khudaayi mein aisa dulha kahaaṅ hai aisi dulhan jahaaṅ mein
+  Kayi bahaareṅ guzar gayi haiṅ khila na aisa chaman jahaaṅ meiṅ
+  Kahaaṅ Khudaayi meiṅ aisa dulha kahaaṅ hai aisi dulhan jahaaṅ meiṅ
 
   4
   Haider haiṅ Kul-e-Imaaṅ aur Kul-e-Ismat Zahra
@@ -45,9 +45,9 @@ romanLyrics: |-
   Wo shahzaada hai aur ye shahzaadi
 
   5
-  Tohfe mein mile maike se inheṅ Kausar aur Jannat to
+  Tohfe meiṅ mile maike se inheṅ Kausar aur Jannat to
   Ye saara namak aur paani Haq mehr mila Zahra ko
-  Salaami mein mili marzi Khuda ki
+  Salaami meiṅ mili marzi Khuda ki
 
   6
   Ye Anbiya haiṅ ye Auliya haiṅ Ali Wali ki baaraat dekho
@@ -68,7 +68,7 @@ romanLyrics: |-
   Ata kar ke Haider ko Zahra si zauja
   Pukaara falak par ye Mabud mera
   Ali ne banaayi hai qismat jahaaṅ ki
-  Ali ki main qismat banaane chala huṅ
+  Ali ki maiṅ qismat banaane chala huṅ
 
   10
   Kheti ne bichhaaya sabza suraj ne ujaale baaṅte
@@ -78,7 +78,7 @@ romanLyrics: |-
   11
   Ab chahe koi tarpe ab chahe koi bharke
   Ab meri bala se chahe mar jae koi jal jal ke
-  Khushi ki baat thi main ne suna di
+  Khushi ki baat thi maiṅ ne suna di
 
   12
   Rukhsat ki ghari jab aayi taaroṅ ne maaṅg sajaayi

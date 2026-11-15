@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Har ghar mein bichhaao farsh-e-aza
+  Har ghar meiṅ bichhaao farsh-e-aza
   Dunya se chale zaamin maula
 
   Kaazim ke paak dulaare ko
@@ -19,7 +19,7 @@ romanLyrics: |-
 
   1
   Hai chaak garebaaṅ zakhmi jigar
-  Aayi hai yateemi maula par
+  Aayi hai yatimi maula par
   Karte haiṅ Taqi maula maatam
   Maasum hue baba se juda
 
@@ -37,7 +37,7 @@ romanLyrics: |-
 
   4
   Jis bhai se milne ke liye
-  Hamsheer ne paidal safar kiye
+  Hamshir ne paidal safar kiye
   Afsos wohi bhai na raha
   Maasuma-e-Qum karti hai buka
 
@@ -50,7 +50,7 @@ romanLyrics: |-
   6
   Ek sog ka aalam hai taari
   Rote haiṅ Imam-e-Zamaana bhi
-  Jawad zamaane mein jaari
+  Jawad zamaane meiṅ jaari
   Maatam hai Imam-e-Zaamin ka
 # source_id: nohayonline:d07d6867381bd630421f
 # source_url: https://www.nohayonline.com/details_content.php?id=3371

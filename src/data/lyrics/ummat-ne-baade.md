@@ -24,11 +24,11 @@ romanLyrics: |-
 
   3
   Sajjad naatawaaṅ bhi hai Zehra ke paas dafn
-  Baazaar-e-Shaam mein jise dar dar phira diya
+  Baazaar-e-Shaam meiṅ jise dar dar phira diya
 
   4
   Ik qabr Imam Jaafar-e-Saadiq bhi haiṅ yahaaṅ
-  Jis ne usul-e-din mein ilaahi panaah diya
+  Jis ne usul-e-diṅ meiṅ ilaahi panaah diya
 
   5
   Pehlu bhi hai shikasta mera aur qabr bhi
@@ -43,7 +43,7 @@ romanLyrics: |-
   Ummat ne aaj bint-e-Nabi ko bhula diya
 
   8
-  Tera kalaam gham mein hai duba hua Najaf
+  Tera kalaam gham meiṅ hai duba hua Najaf
   Jis ne to sang dil ko bhi aakhir rula diya
 # source_id: nohayonline:c42e86e78f9b1619899d
 # source_url: https://www.nohayonline.com/content_salaam.php?id=29

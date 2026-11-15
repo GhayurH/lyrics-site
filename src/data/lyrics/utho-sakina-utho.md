@@ -16,38 +16,38 @@ romanLyrics: |-
 
   1
   Zindaaṅ ka ye andhera hota kahaaṅ sawera
-  Pardes mein Sakina ghamkhwaar kaun tera
+  Pardes meiṅ Sakina ghamkhwaar kaun tera
   Zakhmi haiṅ kaan tere chhini haiṅ baaliyaaṅ
 
   2
   Qabr-e-Batul tanha viraan hai Madina
-  Karbobala mein Asghar zindaan mein Sakina
+  Karbobala meiṅ Asghar zindaan meiṅ Sakina
   Dil ko hila rahi hai Asghar ki hichkiyaaṅ
 
   3
   Maaṅ ja rahi hai Bibi viraan god le kar
-  Karbobala ke ban mein apna suhaag de kar
+  Karbobala ke ban meiṅ apna suhaag de kar
   Kaise Madine jaauṅ sab kuchh to hai yahaaṅ
 
   4
-  Sughra ka saamna main kaise karuṅ bata de
-  Puchhe gi jab woh mujh se main kya kahuṅ bata de
+  Sughra ka saamna maiṅ kaise karuṅ bata de
+  Puchhe gi jab woh mujh se maiṅ kya kahuṅ bata de
   Ammaaṅ meri Sakina kho aayi ho kahaaṅ
 
   5
-  Main is ghari se pehle ae kaash mar hi jaauṅ
+  Maiṅ is ghari se pehle ae kaash mar hi jaauṅ
   Kis kis ko kya bataauṅ kis kis se muṅh chhupaauṅ
   Puchheṅ gi mujh se aa kar jab saari Bibiyaaṅ
 
   6
   Dil gham se hai do paara hameiṅ Shaamiyoṅ ne maara
   Abbas bhi nahiṅ hai jo barh ke de sahaara
-  Jangal mein so rahi haiṅ saari nishaaniyaaṅ
+  Jangal meiṅ so rahi haiṅ saari nishaaniyaaṅ
 
   7
   Irfan gham-e-Sakina hai dukh bhari kahaani
   Ye dukh bhari kahaani Nasir ki hai zabaani
-  Main sochta huṅ ab bhi kaise karuṅ bayaaṅ
+  Maiṅ sochta huṅ ab bhi kaise karuṅ bayaaṅ
 # source_id: nohayonline:dc79001bd5ec0eeb3b3d
 # source_url: https://www.nohayonline.com/details_content.php?id=117
 # raw_sha256: 3b453f7a71892743cf304a773211c2236c4dcf03b1ead25e71e61886e04588b5

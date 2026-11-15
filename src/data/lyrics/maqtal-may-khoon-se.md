@@ -1,6 +1,6 @@
 ---
 title: "مقتل میں خوں سے لعل ہے بانو کا نونہال"
-alternateTitle: "Maqtal Mein Khuṅ Se"
+alternateTitle: "Maqtal Meiṅ Khuṅ Se"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maqtal mein khuṅ se laal hai Baano kaa naunihaal
+  Maqtal meiṅ khuṅ se laal hai Baano kaa naunihaal
 
   1
   Abru wohi Husain ke palkeṅ Husain ki
@@ -20,13 +20,13 @@ romanLyrics: |-
 
   2
   Sukhe laboṅ ke gird wo chehre ki aab o taab
-  Himmat nahiṅ kisi mein koi barh ke de jawaab
+  Himmat nahiṅ kisi meiṅ koi barh ke de jawaab
   Shabbir kaa sawaal hai Baano kaa naunihaal
 
   3
   Allah re wo teri tabassum bhari nigaah
-  Ek aan mein safeṅ hi palat di Khudaa gawaah
-  Haibat mein ek jalaal hai Baano kaa naunihaal
+  Ek aan meiṅ safeṅ hi palat di Khudaa gawaah
+  Haibat meiṅ ek jalaal hai Baano kaa naunihaal
 
   4
   Teraa lahu zamin par girne nahiṅ diyaa

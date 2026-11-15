@@ -17,7 +17,7 @@ romanLyrics: |-
   Chaadar ka kafan tere liye laayi hai Zainab
 
   2
-  Us laash ko jis laash pe tha dhup mein chhora
+  Us laash ko jis laash pe tha dhup meiṅ chhora
   Us laash pe baadal ki tarah chhaayi hai Zainab
 
   3
@@ -34,7 +34,7 @@ romanLyrics: |-
 
   6
   Jis bhai pe parne na diya ranj ka saaya
-  Be gor o kafan dasht mein wo bhai haiṅ Zainab
+  Begor o kafan dasht meiṅ wo bhai haiṅ Zainab
 
   7
   Chhupne nahiṅ dege tere bhaiya ke lahu ko

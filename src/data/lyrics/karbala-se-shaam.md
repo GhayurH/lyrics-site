@@ -11,8 +11,8 @@ aliases: []
 published: true
 romanLyrics: |-
   Baad-e-Aashur jo kiya hum pe sitam
-  Karbala se Kufa o Shaam be miqna o chaadar
-  Rassiyoṅ mein hai jakre le gaye Shaam
+  Karbala se Kufa o Shaam bemiqna o chaadar
+  Rassiyoṅ meiṅ hai jakre le gaye Shaam
   Haaye Shaam haaye Shaam
   Karbala se Shaam Karbala se Shaam
 
@@ -42,10 +42,10 @@ romanLyrics: |-
   Magar ki nahiṅ kabhi bad dua
   Imaamat ka ye kathin tha safar
   Chali betiyaaṅ Ali ki jidhar
-  Chale saath mein sitamgar tamaam
+  Chale saath meiṅ sitamgar tamaam
 
   5
-  Karuṅ kya bayaaṅ main wo sakhtiyaaṅ
+  Karuṅ kya bayaaṅ maiṅ wo sakhtiyaaṅ
   Sar-e-raah thi sabhi Bibiyaaṅ
   Isi dard se phata hai jigar
   Ali ke haram rahe nauhagar

@@ -1,6 +1,6 @@
 ---
 title: "لبیک یا حسین لبیک یا حسین"
-alternateTitle: "Hum Azaadaar Haiṅ"
+alternateTitle: "Hum Azaadaar Hain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -19,7 +19,7 @@ romanLyrics: |-
   1
   Ki hamaare liye aap Zahra dua
   Hum haiṅ sab se alag hum haiṅ sab se juda
-  Haathoṅ mein apne hai alam-e-Shah-e-wafa
+  Haathoṅ meiṅ apne hai alam-e-Shah-e-wafa
   Darsgaah hai hamaari to bas Karbala
   Jis ne kalma-e-Quran hum ko diya
   Us Nabi ke nawaase ke ghamkhwaar haiṅ
@@ -29,14 +29,14 @@ romanLyrics: |-
   Bane Panjatan ke sadqe donoṅ jahaaṅ
   Hai Nabi ki zabaaṅ hi Khuda ki zabaaṅ
   Taabe in ke amr ke haiṅ kaun o makaaṅ
-  Dastaras mein inhi ke haiṅ lauh o qalam
+  Dastaras meiṅ inhi ke haiṅ lauh o qalam
   Ba Khuda ye hi jannat ke sardaar haiṅ
 
   3
   Aao haq-e-mawaddat ada hum kareṅ
   Ali Asghar ka Akbar ka maatam kareṅ
   Mil ke Qasim ka Abbas ka gham kareṅ
-  Yaad mein apni aankhoṅ ko purnam kareṅ
+  Yaad meiṅ apni aankhoṅ ko purnam kareṅ
   Saani-e-Zehra ke the jo paale hue
   Sar kiye jin ke nezoṅ pe akhwaar hai
 
@@ -45,7 +45,7 @@ romanLyrics: |-
   Kalma go the magar na pashemaan the
   Qatl un ko kiya hai jo mehmaan the
   Ban gaye jaan kar bhi jo anjaan the
-  Rona Khursheed hai sirf is baat ka
+  Rona Khurshid hai sirf is baat ka
   Laaye Aal-e-Nabi ko wo baazaar hai
 # source_id: nohayonline:03b927949462fdc587bd
 # source_url: https://www.nohayonline.com/details_content.php?id=3368

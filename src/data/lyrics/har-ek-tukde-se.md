@@ -1,6 +1,6 @@
 ---
 title: "ہر ایک ٹکڑے سے ٹکڑا ملا رہے ہے حسین"
-alternateTitle: "Har Ek Tukde Se"
+alternateTitle: "Har Ek Tukre Se"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   Ye kaun maaṅ hai jo ghash se sambhal nahiṅ paati
-  Ye kis ke laal ko khaime mein laa rahe Husain
+  Ye kis ke laal ko khaime meiṅ laa rahe Husain
 
   4
   Zamiṅ se tukre uthaate nahiṅ hai Qasim ke

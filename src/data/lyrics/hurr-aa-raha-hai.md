@@ -14,21 +14,21 @@ romanLyrics: |-
   Hurr ibn-e-rehaai aa jaa mere bhaai
 
   Hurr aa raha hai Akbar sine use lagaao
-  Mehmaan ko hamaare khaime mein le ke aao
+  Mehmaan ko hamaare khaime meiṅ le ke aao
 
   Khud yaad hoga us ko paani tha us ne roka
   Khuddaar wo bohat hai sharminda hum se hoga
   Pyaase haiṅ saare bachche us ko na ye bataao
 
   1
-  Dekho wo chal raha hai maidaaṅ mein larkhara kar
+  Dekho wo chal raha hai maidaaṅ meiṅ larkhara kar
   Girne se pehle Akbar us ko sambhaalo jaa kar
   Ae mere shaahzaade jaldi qadam barhaao
 
   2
   Abbas apne dil se har baat saaf kar do
   Maaṅ Fatema ke sadqe Hurr ko muaaf kar do
-  Jaa kar alam ke us ko saaye mein le ke aao
+  Jaa kar alam ke us ko saaye meiṅ le ke aao
 
   3
   Beta Husain qaidi kaise kisi ko dekhe
@@ -52,7 +52,7 @@ romanLyrics: |-
 
   7
   Maaṅ Fatema ke lab par us ke liye dua hai
-  Ghurbat mein us ne hum par ehsaan kar diya hai
+  Ghurbat meiṅ us ne hum par ehsaan kar diya hai
   Hurr ke ghulaam ko bhi izzat se le ke aao
 
   8

@@ -12,7 +12,7 @@ published: true
 romanLyrics: |-
   Aza-e-Sarwar kareṅge har dam
   Dua-e-Zehra wujud apna
-  Musibatoṅ mein bas in ki rona
+  Musibatoṅ meiṅ bas in ki rona
   Lahu lahu ho har ek sina
   Har aankh ho bas lahu se pur nam
   Aza-e-Sarwar kareṅge har dam
@@ -24,8 +24,8 @@ romanLyrics: |-
   Ae ahl-e-imaaṅ Husain ka gham
 
   2
-  Jo aaye ran mein Ali ke paale
-  Gale mein maut ki baaheṅ daale
+  Jo aaye ran meiṅ Ali ke paale
+  Gale meiṅ maut ki baaheṅ daale
   Bare hi armaan-e-jang nikaale
   Laboṅ pe shukr-e-Khuda tha har dam
 
@@ -49,7 +49,7 @@ romanLyrics: |-
 
   6
   Wo waqt-e-rukhsat pe jaan-e-Zehra
-  Tha Bibiyoṅ mein ek hashr barpa
+  Tha Bibiyoṅ meiṅ ek hashr barpa
   Gala kataane chala jo pyasa
   Ulat ke masnad bichhi saf-e-gham
 # source_id: nohayonline:a29babf61f91f6e40c66

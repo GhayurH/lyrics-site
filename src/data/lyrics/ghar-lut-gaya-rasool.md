@@ -1,6 +1,6 @@
 ---
 title: "گھر لٹ گیا رسول کا اماں اب آئی ہو"
-alternateTitle: "Ghar Lut Gaya Rasool"
+alternateTitle: "Ghar Lut Gaya Rasul"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,8 +11,8 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ghar lut gaya Rasool ka ammaṅ ab aayi ho
-  Bhai shaheed ho gaya ammaṅ ab aayi ho
+  Ghar lut gaya Rasul ka ammaṅ ab aayi ho
+  Bhai shahid ho gaya ammaṅ ab aayi ho
 
   Zainab ka ye bayaaṅ tha ammaṅ ab aayi ho
 
@@ -37,7 +37,7 @@ romanLyrics: |-
   Zainab ka ye bayaaṅ tha ammaṅ ab aayi ho
 
   5
-  Karb o Bala mein aa ke uthaayi wo sakhtiyaaṅ
+  Karb o Bala meiṅ aa ke uthaayi wo sakhtiyaaṅ
   Chhini gayi Sakina ke kaanoṅ se baaliyaaṅ
   Zainab ka ye bayaaṅ tha ammaṅ ab aayi ho
 

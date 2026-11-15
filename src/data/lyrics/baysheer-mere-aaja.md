@@ -12,11 +12,11 @@ aliases: []
 published: true
 romanLyrics: |-
   Beshir mere aa ja tujhe lori sunaauṅ gi
-  Apne Ali Asghar ko godi mein sulaauṅ gi
+  Apne Ali Asghar ko godi meiṅ sulaauṅ gi
 
   1
-  Ae laal tasawwur mein de de ke tujhe lori
-  Maqtal mein tere khaali jhule ko jhulaauṅ gi
+  Ae laal tasawwur meiṅ de de ke tujhe lori
+  Maqtal meiṅ tere khaali jhule ko jhulaauṅ gi
 
   2
   Milne ke liye maaṅ se kuch der ko aa jaao
@@ -24,23 +24,23 @@ romanLyrics: |-
 
   3
   Jaate huwe khaime se jo tu ne kiye beta
-  Un tere ishaaroṅ ko main bhul na paauṅ gi
+  Un tere ishaaroṅ ko maiṅ bhul na paauṅ gi
 
   4
   Gar fauj-e-sitam aayi aur chhini meri chaadar
-  Is dasht-e-biyaabaaṅ mein main kis ko bulaauṅ gi
+  Is dasht-e-biyaabaaṅ meiṅ maiṅ kis ko bulaauṅ gi
 
   5
   Aana hai agar mushkil aawaaz do maadar ko
-  Maqtal se tumheṅ lene main khud chali aauṅ gi
+  Maqtal se tumheṅ lene maiṅ khud chali aauṅ gi
 
   6
-  Godi mein tujhe le kar main socha ye karti thi
-  Is sher ko main apne Abbas banaauṅ gi
+  Godi meiṅ tujhe le kar maiṅ socha ye karti thi
+  Is sher ko maiṅ apne Abbas banaauṅ gi
 
   7
   Ye kehte huwe Gohar ghash kar gayi wo maadar
-  Main tere bina Asghar waapas nahiṅ jaauṅ gi
+  Maiṅ tere bina Asghar waapas nahiṅ jaauṅ gi
 # source_id: nohayonline:227b39a64d55b3b829db
 # source_url: https://www.nohayonline.com/details_content.php?id=1503
 # raw_sha256: a37d828f4cc5d7bac1daddf490317d58e7f85a6b442c0dba257e7add6a216255

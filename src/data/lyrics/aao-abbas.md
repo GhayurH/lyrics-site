@@ -29,7 +29,7 @@ romanLyrics: |-
   3
   Kabhi khanjar ye dikhata hai kabhi hansta hai
   Rakh ke Quraan pe zaanu ye laiṅ baitha hai
-  Kaun huṅ main ye ise yaad dilao Abbas
+  Kaun huṅ maiṅ ye ise yaad dilao Abbas
 
   4
   Us ko karta huṅ ishaare nahiṅ jaati bachchi

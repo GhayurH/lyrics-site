@@ -11,9 +11,9 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Gir para ghore se jab ran mein Shah-e-Karb o Balaa
-  Saare aalam mein qayamat ka tha ek shor bapa
-  Dard mein dubi hui aayi ye ek maaṅ ki sada
+  Gir para ghore se jab ran meiṅ Shah-e-Karb o Balaa
+  Saare aalam meiṅ qayamat ka tha ek shor bapa
+  Dard meiṅ dubi hui aayi ye ek maaṅ ki sada
   Haye mazlum Husain mera mazlum Husain
 
   Asr-e-Ashur mera laal bara pyasa hai
@@ -30,14 +30,14 @@ romanLyrics: |-
   Ya Ali aao mera laal bara tanha hai
 
   3
-  Ek din mein bhare lashkar ka bhi gham dekha hai
+  Ek din meiṅ bhare lashkar ka bhi gham dekha hai
   Is ne Abbas ka Akbar ka bhi gham dekha hai
   Dafn kar ke Ali Asghar ko abhi aaya hai
 
   4
   Haye chhalni hai jigar phir bhi nahiṅ roya hai
   Kitne din se tu mere laal nahiṅ soya hai
-  Aa meri god mein so ja tu bahut jaaga hai
+  Aa meri god meiṅ so ja tu bahut jaaga hai
 
   5
   Aaiye bahr-e-Khuda hashr bapa hai baba

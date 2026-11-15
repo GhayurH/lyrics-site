@@ -19,7 +19,7 @@ romanLyrics: |-
 
   2
   Ya Nabi Allah bahr-e-Fatima aa jaaiye
-  Aan ke de dijiye bachon ko pursa baap ka
+  Aan ke de dijiye bachoṅ ko pursa baap ka
 
   3
   Baam o dar arsh-e-Ilahi ke larazte haiṅ udhar
@@ -31,11 +31,11 @@ romanLyrics: |-
 
   5
   Haye re aulaad-e-Zehra ki gharibi al-amaan
-  Waqt ne kaisa diya ghurbat mein sadma baap ka
+  Waqt ne kaisa diya ghurbat meiṅ sadma baap ka
 
   6
   Kis tarah ashkoṅ ko roke Fatima ki betiyaṅ
-  Khun mein duba hua dekha hai chehra baap ka
+  Khun meiṅ duba hua dekha hai chehra baap ka
 
   7
   Beh paregi chashm besaakhta ashk-e-Furaat

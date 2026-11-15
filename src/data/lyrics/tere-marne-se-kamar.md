@@ -44,7 +44,7 @@ romanLyrics: |-
 
   8
   Shiddat-e-tashna labi aur judaai teri
-  Mere sine mein ajab aag lagi hai Abbas
+  Mere sine meiṅ ajab aag lagi hai Abbas
 
   9
   Apni khairaat se bhar dijiye daamaan-e-Bilal

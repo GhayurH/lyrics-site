@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Boli Zainab tarap kar ye haye
-  Ghar hamare lain ne jalae
+  Ghar hamare laiṅ ne jalae
   Bekhata taziyane lagae
   Zulm aada ne is tarah dhae
   Sab ke Mushkilkusha sun hamari dua
@@ -27,7 +27,7 @@ romanLyrics: |-
   Keh rahi hai musibat ki mari
   Kaisi bigri hai qismat hamari
   Bekajawa mili hai sawari
-  Aur muqaddar mein hai aah o zari
+  Aur muqaddar meiṅ hai aah o zari
   Shaam tak ka safar berida naṅge sar
   Shah-e-Wala hai ab aur na Akbar
   Zulm hi zulm hai har qadam par
@@ -44,25 +44,25 @@ romanLyrics: |-
   4
   Haye qaidi banae gaye haiṅ
   Dar badar hum phirae gaye haiṅ
-  Shaam mein aaj lae gaye haiṅ
+  Shaam meiṅ aaj lae gaye haiṅ
   Kucha o dar sajae gaye haiṅ
-  Zulmat-e-Shaam mein balwa-e-aam mein
+  Zulmat-e-Shaam meiṅ balwa-e-aam meiṅ
   Ghair hai koi apna nahiṅ hai
   Haye koi sahara nahiṅ hai
 
   5
   Mera maaṅ jaya pyasa sidhara
   Mar gaya bhai Abbas jaisa
-  Main ne aulad ka gham bhi paya
+  Maiṅ ne aulad ka gham bhi paya
   Phir bhi shikwa zaban par na aaya
   Rasm-e-pardadari mere ghar se chali
   Berida besahara huṅ Baba
-  Kaise darbar mein jauṅ Baba
+  Kaise darbar meiṅ jauṅ Baba
 
   6
   Ro Azadar-e-Sibt-e-Payambar
-  Tere sine mein hai yad-e-Sarwar
-  Ungliyaṅ haiṅ teri khun mein tar
+  Tere sine meiṅ hai yad-e-Sarwar
+  Ungliyaṅ haiṅ teri khun meiṅ tar
   Shair-e-Karbala hai tu Gohar
   Hai ye noha tera tere dil ki sada
   Koi bhi gham na hoga tujhe ab

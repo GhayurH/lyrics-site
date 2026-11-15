@@ -16,24 +16,24 @@ romanLyrics: |-
   Ro diye kaun o makaaṅ jab kaha wo naujawaaṅ
   Allahu Akbar Allahu Akbar
 
-  Khun mein dubi Ali Akbar ki jab aayi sada
+  Khun meiṅ dubi Ali Akbar ki jab aayi sada
   Larkharaate su-e-maqtal chal diye Shaah-e-Huda
   Haye Ali Akbar haye Ali Akbar
 
   1
   Pahunch kar dekha Ali Akbar ka Shah ne haal-e-zaar
-  Sine mein barchhi gari hai dard se hai beqaraar
+  Sine meiṅ barchhi gari hai dard se hai beqaraar
 
   2
   Sina-e-Akbar se barchhi ko nikaale jab Husain
   Shah ke khaime se utha wa Akbar ka shor o shain
 
   3
-  Gul hua pal bhar mein Laila ki ummidoṅ ka charaagh
-  Reh gaya ik maa ke dil mein hasrat o armaaṅ ka daagh
+  Gul hua pal bhar meiṅ Laila ki ummidoṅ ka charaagh
+  Reh gaya ik maa ke dil meiṅ hasrat o armaaṅ ka daagh
 
   4
-  Shah ki nazroṅ mein hui taarik Aashiq kaainaat
+  Shah ki nazroṅ meiṅ hui taarik Aashiq kaainaat
   Sar jhuka kar ro rahe haiṅ hur o ghilmaaṅ ek saath
 # source_id: nohayonline:806f8264185daa13049c
 # source_url: https://www.nohayonline.com/details_content.php?id=861

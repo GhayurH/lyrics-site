@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zainab ko jo bazaar mein zaalim ne phiraaya
+  Zainab ko jo bazaar meiṅ zaalim ne phiraaya
   Us waqt lab pe tha ye kahaaṅ ho ae mere Ghazi
 
   1
@@ -27,12 +27,12 @@ romanLyrics: |-
   3
   Atfaal-e-Husaini pe hai zulm o sitam jaari
   Aur nok-e-sinaaṅ par sar Quraaṅ ka hua taari
-  Ghamnaak is fiza mein kahaaṅ ho ae mere Ghazi
+  Ghamnaak is fiza meiṅ kahaaṅ ho ae mere Ghazi
 
   4
   Nau baar rida sar se yuṅ chhina hai zaalimoṅ ne
   Haathoṅ ko pusht-e-gardan baandha hai zaalimoṅ ne
-  Is darja musibat mein kahaaṅ ho ae mere Ghazi
+  Is darja musibat meiṅ kahaaṅ ho ae mere Ghazi
 
   5
   Bazaar saj gaye aur khushiyaṅ mana rahe haiṅ
@@ -40,12 +40,12 @@ romanLyrics: |-
   Haṅste haiṅ laiṅ ham par kahaaṅ ho ae mere Ghazi
 
   6
-  Ranj o alam mein duba wo Aabid-e-muztar hai
+  Ranj o alam meiṅ duba wo Aabid-e-muztar hai
   Sharm o haya ka paikar chalta jhukaaye sar hai
   Dene ko ab dilaase kahaaṅ ho ae mere Ghazi
 
   7
-  Aazam main likhuṅ kaise bazaar ka wo manzar
+  Aazam maiṅ likhuṅ kaise bazaar ka wo manzar
   Sar nange Bibiyoṅ ke chalta tha dil pe khanjar
   Ahsan sada thi lab par kahaaṅ ho ae mere Ghazi
 # source_id: nohayonline:678bd618ceac13580339

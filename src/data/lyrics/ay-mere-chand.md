@@ -11,11 +11,11 @@ tags: []
 aliases: ["Ay Mere Chand"]
 published: true
 romanLyrics: |-
-  Ye ro ke kehti thi Umm-e-Rabab maqtal mein
-  Kahaṅ pe sote ho maaṅ ke baghair jangal mein
+  Ye ro ke kehti thi Umm-e-Rabab maqtal meiṅ
+  Kahaṅ pe sote ho maaṅ ke baghair jangal meiṅ
 
   Ae mere chaand meri aaṅkh ke taare Asghar
-  Karbala aayi thi main tere bharose Asghar
+  Karbala aayi thi maiṅ tere bharose Asghar
 
   1
   Haye afsos ke maujud nahiṅ hai paani
@@ -30,7 +30,7 @@ romanLyrics: |-
   3
   Tum bhi Abbas ho Kausar pe nahiṅ jaana abhi
   Laaj rakh lena meri
-  Hai abhi Ahl-e-haram dasht mein pyase Asghar
+  Hai abhi Ahl-e-haram dasht meiṅ pyase Asghar
 
   4
   Tir ek baar to ek baar chalaye khanjar
@@ -48,7 +48,7 @@ romanLyrics: |-
   Tum bhi Quraṅ parho nok-e-sinaṅ se Asghar
 
   7
-  Tir khaate hue khud dekha hai main ne tum ko
+  Tir khaate hue khud dekha hai maiṅ ne tum ko
   Ab to ye zulm na ho
   Koi pathar na lage sar pe tumhare Asghar
 

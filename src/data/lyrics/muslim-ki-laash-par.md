@@ -15,14 +15,14 @@ romanLyrics: |-
   Muslim teri shahaadat tamhid-e-Karbala hai
 
   1
-  Karbobala ke jalte sehra mein das Muharram
-  Ik aag se ugalte sehra mein das Muharram
+  Karbobala ke jalte sehra meiṅ das Muharram
+  Ik aag se ugalte sehra meiṅ das Muharram
   Honi hai jo qayaamat ye us ki ibtida hai
 
   2
-  Paaoṅ mein tere rassi baandhi hai zaalimoṅ ne
-  Galiyoṅ mein laash teri khinchi hai zaalimoṅ ne
-  Ghurbat mein haye kaisa tujh par sitam hua hai
+  Paaoṅ meiṅ tere rassi baandhi hai zaalimoṅ ne
+  Galiyoṅ meiṅ laash teri khinchi hai zaalimoṅ ne
+  Ghurbat meiṅ haye kaisa tujh par sitam hua hai
 
   3
   Muslim teri madad ko ab aaye kaun haye
@@ -30,8 +30,8 @@ romanLyrics: |-
   Is dar pe tera laasha kab se latak raha hai
 
   4
-  Ye soch kar hai larza Muslim mere badan mein
-  Ghore se jaise mera Ghazi girega ran mein
+  Ye soch kar hai larza Muslim mere badan meiṅ
+  Ghore se jaise mera Ghazi girega ran meiṅ
   Chhat se zamiṅ pe aise tu munh ke bal gira hai
 
   5

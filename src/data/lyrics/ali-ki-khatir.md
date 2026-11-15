@@ -20,7 +20,7 @@ romanLyrics: |-
 
   1
   Wo arsh par hai Rajab ki terah Ali ki khatir
-  Ali hai Kabe mein aane waala Ali Jalla Jalalahu ki khatir
+  Ali hai Kabe meiṅ aane waala Ali Jalla Jalalahu ki khatir
 
   2
   Wahaṅ talak hai zarur chaukhat Ali ke ghar ki
@@ -31,7 +31,7 @@ romanLyrics: |-
   Ke jaise ho aik chaand nikla Ali ki khatir
 
   4
-  Are muqassir na parh tu Quran dekh is mein
+  Are muqassir na parh tu Quran dekh is meiṅ
   Jagah jagah hai likha qasida Ali ki khatir
 
   5
@@ -43,7 +43,7 @@ romanLyrics: |-
   Jo mar ke zinda hue dobara Ali ki khatir
 
   7
-  Wo seb jis mein tha nisf Nur-e-Batool wo bhi
+  Wo seb jis meiṅ tha nisf Nur-e-Batul wo bhi
   Hai ban ke phir Zulfiqar utra Ali ki khatir
 
   8

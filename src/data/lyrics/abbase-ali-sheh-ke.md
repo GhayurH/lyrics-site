@@ -21,21 +21,21 @@ romanLyrics: |-
 
   2
   Jab tak mere bhaiya tere baazu haiṅ salamat
-  Baazu mere bandhe ye kisi mein nahiṅ himmat
+  Baazu mere bandhe ye kisi meiṅ nahiṅ himmat
   Marne ki riza le ke jo tum hote ho rukhsat
-  Zindan hai hamare liye tayyar sidharo
+  Zindaṅ hai hamare liye tayyar sidharo
 
   3
   Malum hua mujh ko hui khatm larai
   Laakhoṅ ke muqabil hua tanha mera bhai
-  Ho jayegi bhaiya ke sar o tan mein judai
+  Ho jayegi bhaiya ke sar o tan meiṅ judai
   Ab kaun hai bekas ka madadgaar sidharo
 
   4
   Aankheiṅ meri ghurbat ka samaaṅ dekh rahi haiṅ
   Uthta hua khaimoṅ se dhuaṅ dekh rahi haiṅ
   Baazu pe rasan ke bhi nishaaṅ dekh rahi haiṅ
-  Aane ko hai khaimoṅ mein sitamgaar sidharo
+  Aane ko hai khaimoṅ meiṅ sitamgaar sidharo
 
   5
   Chadar meri chhin jayegi jab tum na rahoge

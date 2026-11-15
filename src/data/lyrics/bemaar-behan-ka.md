@@ -24,16 +24,16 @@ romanLyrics: |-
   Itna to mujhe batla Akbar
 
   2
-  Main sochti rehti huṅ aksar
+  Maiṅ sochti rehti huṅ aksar
   Aur dekhti rehti huṅ raaheiṅ
-  Kiuṅ der hui aane mein tujhe
+  Kiuṅ der hui aane meiṅ tujhe
   Ab majburi hai kya Akbar
 
   3
   Kha jaayega mujh ko suna ghar
   Ab phail rahi hai maayusi
   Wiraan hui saari raaheiṅ
-  Aur ghar mein hai andhiyaara Akbar
+  Aur ghar meiṅ hai andhiyaara Akbar
 
   4
   Ae bhai mere ye dhyaan rahe
@@ -42,19 +42,19 @@ romanLyrics: |-
   Jaldi mujhe khat likhna Akbar
 
   5
-  Main gor kinaare huṅ khud hi
+  Maiṅ gor kinaare huṅ khud hi
   Naraaz hua hai kiuṅ mujh se
   Ya mujhe bata de bas itna
   Kab tak dekhuṅ rasta Akbar
 
   6
-  Main ghar mein akeli baithi huṅ
+  Maiṅ ghar meiṅ akeli baithi huṅ
   Sab chaahne wale ruth gaye
-  Ashkoṅ ki rawaani mein parh le
+  Ashkoṅ ki rawaani meiṅ parh le
   Kya haal likhuṅ dil ka Akbar
 
   7
-  Ek bhai ki furqat mein Zafar
+  Ek bhai ki furqat meiṅ Zafar
   Nauha ye lab-e-Sughra pe raha
   Gar der hui mar jaauṅ gi
   Hai waqt ab bhi aa ja Akbar

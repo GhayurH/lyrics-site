@@ -26,28 +26,28 @@ romanLyrics: |-
   Amma taras ke reh gaye paani ko ham tamaam
   Amma diya na ham ko kisi ne bhi ek jaam
   Amma hamaare mard tah-e-tegh ho gaye
-  Amma naha ke khun mein bechaare so gaye
+  Amma naha ke khun meiṅ bechaare so gaye
 
   3
   Amma Habib Ibn-e-Mazaahir Zohair-e-Qain
-  Kaam aa gaye hai wo bhi be nusrat-e-Husain
+  Kaam aa gaye hai wo bhi benusrat-e-Husain
   Amma wo Hur ke jis ne sar apna kata diya
   Naqsh-e-kaf-e-Husain mein imaan ko paa liya
 
   4
   Amma pare haiṅ nehr pe Abbas ruth kar
-  Amma Sakina soti hai zindaan mein bepidar
-  Amma kahaaṅ se Akbar-e-mahru ko laauṅ main
-  Amma kahaaṅ pe Asghar-e-naadaaṅ ko paauṅ main
+  Amma Sakina soti hai zindaan meiṅ bepidar
+  Amma kahaaṅ se Akbar-e-mahru ko laauṅ maiṅ
+  Amma kahaaṅ pe Asghar-e-naadaaṅ ko paauṅ maiṅ
 
   5
   Amma wo mere Aun o Muhammad mere pisar
-  Maidaan-e-Karbala mein pare haiṅ kata ke sar
-  Amma lahu mein dub ke Qasim bhi chal base
+  Maidaan-e-Karbala meiṅ pare haiṅ kata ke sar
+  Amma lahu meiṅ dub ke Qasim bhi chal base
   Amma Hasan ko muṅh na dikhaane ke ham rahe
 
   6
-  Amma Husain Karbobala hi mein reh gaye
+  Amma Husain Karbobala hi meiṅ reh gaye
   Amma Husain saare masaaib ko seh gaye
   Amma Husain mar gaye beyaar o bewatan
   Amma Husain ko na muyassar hua kafan
@@ -62,7 +62,7 @@ romanLyrics: |-
   Amma ye haal-e-Aabid-e-bimaar ka ho gaya
   Zaalim sipaah ne le liya bistar gharib ka
   Amma qadam qadam pe asiri rula gai
-  Gardan mein tauq paaoṅ mein zanjir aa gai
+  Gardan meiṅ tauq paaoṅ meiṅ zanjir aa gai
 
   9
   Amma wo bibiyoṅ ka tarapna wo shor o shain
@@ -77,13 +77,13 @@ romanLyrics: |-
   Amma hamaare haal pe roti hai bekasi
 
   11
-  Amma bataaiye to main ab ji ke kya karuṅ
+  Amma bataaiye to maiṅ ab ji ke kya karuṅ
   Kis tarah ab Husain ki furqat ka gham sahuṅ
-  Aai Fughan nida ke sar-e-hashr ham bhi ab
+  Aai Fughaṅ nida ke sar-e-hashr ham bhi ab
   Kurta lahu bhara hua rakh deṅge pesh-e-lab
 
   Beti tumhaara bhaai Shah-e-mashriqain hai
-  Beti tumhaare sabr mein fath-e-Husain hai
+  Beti tumhaare sabr meiṅ fath-e-Husain hai
 # source_id: nohayonline:be943a6a6820027c1958
 # source_url: https://www.nohayonline.com/details_content.php?id=578
 # raw_sha256: 5c9a99ac60b6cc069e4d76e2b5ab4359c7fca408331654c1cf0c4c32c179af3b

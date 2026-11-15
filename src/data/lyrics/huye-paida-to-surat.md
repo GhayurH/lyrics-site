@@ -12,19 +12,19 @@ published: true
 romanLyrics: |-
   Hue paida to surat dekhne har sheh khushaab aaya
   Jawaani in pe kya aayi Madine ka shabaab aaya
-  Magar jab Karbala ke dasht mein ye maahtaab aaya
+  Magar jab Karbala ke dasht meiṅ ye maahtaab aaya
   Falak qaabil mitaane ke na thi taswir Akbar ki
   Ali ka naam sin Zehra ka aur surat Payambar ki
 
   1
   Tujhe to yaad hi hoṅge wo lehraate hue gesuṅ
-  Wagha mein maaṅ ki shafqat yaad dilwaate hue gesuṅ
-  Kaleje mein sina abru pe balkhaate hue gesuṅ
+  Wagha meiṅ maaṅ ki shafqat yaad dilwaate hue gesuṅ
+  Kaleje meiṅ sina abru pe balkhaate hue gesuṅ
   Falak qaabil mitaane ke na thi taswir Akbar ki
   Ali ka naam sin Zehra ka aur surat Payambar ki
 
   2
-  Suna hai jaan ke sine pe barchhi jang mein khaayi
+  Suna hai jaan ke sine pe barchhi jang meiṅ khaayi
   Ye manzar le gaya Shabbir ki aaṅkhoṅ ki binaayi
   Taajjub kya agar khaime se shehzaadi nikal aayi
   Falak qaabil mitaane ke na thi taswir Akbar ki

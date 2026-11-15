@@ -11,13 +11,13 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ye baat Shaah ne maqtal mein khun se likh di hai
+  Ye baat Shaah ne maqtal meiṅ khun se likh di hai
   Rag-e-gulu bhi to khanjar ko kaat deti hai
 
   1
   Diyaar-e-Karb o Bala se ubhar gai tauhid
   Sipaah-e-kufr ko beaas kar gai tauhid
-  Bas ek sajde se dil mein utar gai tauhid
+  Bas ek sajde se dil meiṅ utar gai tauhid
   Husainiyat wo jo baatil ko maat deti hai
 
   2
@@ -33,9 +33,9 @@ romanLyrics: |-
   Hadis-e-minniyat us ko salaam karti hai
 
   4
-  Hidaayatoṅ ke tasalsul mein ab imaamat hai
+  Hidaayatoṅ ke tasalsul meiṅ ab imaamat hai
   Khalil teri dua ka sabab imaamat hai
-  So teri nasl mein aali nasab imaamat hai
+  So teri nasl meiṅ aali nasab imaamat hai
   Wohi to khwaab ko taabir bakhsh deti hai
 
   5
@@ -46,7 +46,7 @@ romanLyrics: |-
 
   6
   Chale Husain qayaamat utha ke khaime se
-  Qadam uthaane ke mushkil mein gar qadam na ruke
+  Qadam uthaane ke mushkil meiṅ gar qadam na ruke
   Jigar ko thaam ke ahl-e-haram bahut tarpe
   Husain ro diye Fizza ne jab dua di hai
 

@@ -1,6 +1,6 @@
 ---
 title: گونجی بوقتِ عصر صدا میں حسین ہوں
-alternateTitle: "Main Husain Huṅ"
+alternateTitle: "Maiṅ Husain Huṅ"
 language: Urdu
 lang: ur
 direction: rtl
@@ -11,52 +11,52 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Gunji bawaqt-e-asr sada main Husain huṅ
-  Kaato na mera khushk gala main Husain huṅ
+  Gunji bawaqt-e-asr sada maiṅ Husain huṅ
+  Kaato na mera khushk gala maiṅ Husain huṅ
 
   1
   Sukhi hui haiṅ Shimr mere halq ki rageṅ
-  Aahista tu chhuri ko chala main Husain huṅ
+  Aahista tu chhuri ko chala maiṅ Husain huṅ
 
   2
   Shiriṅ ke ghar pe pahuncha jab raandoṅ ka qaafila
-  Naize se ek sar ne kaha main Husain huṅ
+  Naize se ek sar ne kaha maiṅ Husain huṅ
 
   3
   Ammaaṅ kisi ne paani ki ek bund bhi na di
-  Main baar baar kehta raha main Husain huṅ
+  Maiṅ baar baar kehta raha maiṅ Husain huṅ
 
   4
   Katta hua gala mera dekha na jaayega
-  Naana main huṅ nawaasa tera main Husain huṅ
+  Naana maiṅ huṅ nawaasa tera maiṅ Husain huṅ
 
   5
-  Be baazuoṅ ki laash tarap kar ulat gayi
-  Aayi Furaat par jo sada main Husain huṅ
+  Bebaazuoṅ ki laash tarap kar ulat gayi
+  Aayi Furaat par jo sada maiṅ Husain huṅ
 
   6
   Zaanu pe rakh ke sar ko kaha ek zaif ne
-  Akbar kahaaṅ hai dard bata main Husain huṅ
+  Akbar kahaaṅ hai dard bata maiṅ Husain huṅ
 
   7
   Ae Shaamiyoṅ kafan na diya mujh ko gham nahiṅ
-  De do meri behan ko rida main Husain huṅ
+  De do meri behan ko rida maiṅ Husain huṅ
 
   8
   Mehsus ho raha hai ke maqtal se aaj bhi
-  Aawaaz aa rahi hai Raza main Husain huṅ
+  Aawaaz aa rahi hai Raza maiṅ Husain huṅ
 
   9
-  Darbaar mein lain ke kohraam mach gaya
-  Mukhtar se jo sar ne kaha main Husain huṅ
+  Darbaar meiṅ lain ke kohraam mach gaya
+  Mukhtar se jo sar ne kaha maiṅ Husain huṅ
 
   10
   Mehsus ab bhi hota hai ye zaairoṅ ko
-  Rauze se aa rahi hai sada main Husain huṅ
+  Rauze se aa rahi hai sada maiṅ Husain huṅ
 
   11
   Aisa laga Raza ke Shanawar se Fatima
-  Kehti hai baar baar suna main Husain huṅ
+  Kehti hai baar baar suna maiṅ Husain huṅ
 # source_id: nohayonline:ca4e2d33ac6562b2ad92
 # source_url: https://www.nohayonline.com/details_content.php?id=318
 # raw_sha256: f22eaa50e5a8d57c25f10509eab3348a8acbe54dfeb43438664c3d9ebcf1de20

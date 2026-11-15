@@ -1,6 +1,6 @@
 ---
 title: "موجوں میں تلاطم ہے اور شور ہے محشر کا"
-alternateTitle: "Maujoṅ Mein Talaatum"
+alternateTitle: "Maujoṅ Meiṅ Talaatum"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,21 +11,21 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maujoṅ mein talaatum hai aur shor hai mahshar ka
+  Maujoṅ meiṅ talaatum hai aur shor hai mahshar ka
   Andaaza hai darya ko Abbas ke tewar ka
 
   1
-  Dushman ke liye tujh mein jo ghaiz o ghazab dekha
+  Dushman ke liye tujh meiṅ jo ghaiz o ghazab dekha
   Kiunkar na jalaal aaye waaris hai tu Haidar ka
   Andaaza hai darya ko Abbas ke tewar ka
 
   2
-  Hathyaar mein Ghazi ke bas paas hai ek neza
+  Hathyaar meiṅ Ghazi ke bas paas hai ek neza
   Har fard hai kiuṅ larza phir Shaam ke lashkar ka
   Andaaza hai darya ko Abbas ke tewar ka
 
   3
-  Mashkize mein darya ko ab ammu le aayeṅge
+  Mashkize meiṅ darya ko ab ammu le aayeṅge
   Reh jaaye bharam baaqi ye dukhtar-e-Sarwar ka
   Andaaza hai darya ko Abbas ke tewar ka
 
@@ -35,7 +35,7 @@ romanLyrics: |-
   Andaaza hai darya ko Abbas ke tewar ka
 
   5
-  Rahwaar se maqtal mein bedast gira kaise
+  Rahwaar se maqtal meiṅ bedast gira kaise
   Kis tarah tasawwur ho aise kisi manzar ka
   Andaaza hai darya ko Abbas ke tewar ka
 

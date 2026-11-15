@@ -24,12 +24,12 @@ romanLyrics: |-
   Khair ho mere maula saamne hai ek lashkar
   Zulm ka koi neza par na jaye sine par
   Khaak par na gir jaaye naujawaṅ theora kar
-  Khun mein na mil jaye ye Shabih-e-Paighambar
+  Khun meiṅ na mil jaye ye Shabih-e-Paighambar
   Haye naujawaṅ Akbar sar katane aae haiṅ
 
   3
-  Karbala ke sehra mein hai Rasul ka gulshan
-  Ban na jaye phuloṅ ke haq mein kal yehi madfan
+  Karbala ke sehra meiṅ hai Rasul ka gulshan
+  Ban na jaye phuloṅ ke haq meiṅ kal yehi madfan
   Sab Rasul zaade haiṅ sab Ali ke jaan o tan
   Ek raat ka dulha ek raat ki dulhan
   Haye Waris-e-Shabbar sar katane aae haiṅ
@@ -38,7 +38,7 @@ romanLyrics: |-
   Haq ke ye nigehbaaṅ haiṅ dushmanaan-e-baatil haiṅ
   Inke dil ka kya kehna sar se paaoṅ tak dil hai
   Chand ho ke laakhoṅ ke aaj ye muqabil haiṅ
-  Phul jaise bachche bhi kaarwaṅ mein shamil haiṅ
+  Phul jaise bachche bhi kaarwaṅ meiṅ shamil haiṅ
   Haye bezabaan Asghar sar katane aae haiṅ
 
   5
@@ -52,7 +52,7 @@ romanLyrics: |-
   Pyase bachche tarpeṅge chain jab na paaeṅge
   Mashk-e-bawafa le kar Alqama pe jaaeṅge
   Gir pareṅge ghore se itne zakhm khaaeṅge
-  Shaane kat rahe hoṅge khun mein nahaaeṅge
+  Shaane kat rahe hoṅge khun meiṅ nahaaeṅge
   Aaj Sani-e-Haider sar katane aae haiṅ
 # source_id: nohayonline:d23e66b4c17007f1bdc8
 # source_url: https://www.nohayonline.com/details_content.php?id=2012

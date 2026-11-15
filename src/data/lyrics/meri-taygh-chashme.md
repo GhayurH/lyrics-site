@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Main jihaad kar raha huṅ meri tegh chashm-e-tar hai
+  Maiṅ jihaad kar raha huṅ meri tegh chashm-e-tar hai
   Mere dushmanoṅ ko har dam mere aansuoṅ se dar hai
 
   1
@@ -19,15 +19,15 @@ romanLyrics: |-
   Aur isi ke zer-e-saaya mere waqt ka safar hai
 
   2
-  Jo hua hai Karbala mein wo likha gaya bahut kam
+  Jo hua hai Karbala meiṅ wo likha gaya bahut kam
   Jo chhupaaye hai mazaalim wo muarrikh ka shar hai
 
   3
   Mere aansuoṅ ne phir to ye bisaat hi ulat di
-  Wo Husainiyoṅ ke dil mein na to khauf hai na dar hai
+  Wo Husainiyoṅ ke dil meiṅ na to khauf hai na dar hai
 
   4
-  Magar itna yaad rakhan ke hai ghaib mein jo Qaaim
+  Magar itna yaad rakhaṅ ke hai ghaib meiṅ jo Qaaim
   Hameiṅ intezaar us ka wo hamaara muntazar hai
 
   5
@@ -35,7 +35,7 @@ romanLyrics: |-
   Mera ek ek lamha bas usi ke naam par hai
 
   6
-  Tujhe ae lain khabar hai ke ye kaun khun mein tar hai
+  Tujhe ae lain khabar hai ke ye kaun khun meiṅ tar hai
   Jise zibh kar raha hai wo Rasul ka pisar hai
 
   7

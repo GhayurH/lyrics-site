@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Khauf har waqt nazar aaye mujhe chehre par
-  Is qadar raah mein bachchi ko daraate rehna
+  Is qadar raah meiṅ bachchi ko daraate rehna
 
   2
   Naaz ab is ke nahiṅ koi uthaane waala
@@ -27,7 +27,7 @@ romanLyrics: |-
   Dil-e-maasum ko is tarah dukhaate rehna
 
   4
-  Aankh mein tir tha aur haath nahiṅ the us ke
+  Aankh meiṅ tir tha aur haath nahiṅ the us ke
   Kaise Abbas gira ziṅ se bataate rehna
 
   5
@@ -40,7 +40,7 @@ romanLyrics: |-
 
   7
   Kaise bardaasht kare yaad to aata hai use
-  Jhula beshir ka aangan mein jhulaate rehna
+  Jhula beshir ka aangan meiṅ jhulaate rehna
 
   8
   Shaam waaloṅ se Nazar ro ke ye Zainab ne kaha

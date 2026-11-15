@@ -11,11 +11,11 @@ aliases: ["Dukhtare Shabbir Ki"]
 published: true
 romanLyrics: |-
   Dukhtar-e-Shabbir ki tashna dahaani dekh kar
-  Khun aankhoṅ mein utar aata hai paani dekh kar
+  Khun aankhoṅ meiṅ utar aata hai paani dekh kar
 
   1
   Donoṅ haathoṅ se jigar ko thaam kar tarpe Husain
-  Khaak mein milti Muhammad ki nishaani dekh kar
+  Khaak meiṅ milti Muhammad ki nishaani dekh kar
 
   2
   Aks pyaasoṅ ka nazar aaya jo satah-e-aab par
@@ -23,19 +23,19 @@ romanLyrics: |-
 
   3
   Paani paani ho gayiṅ darya ki maujeṅ sharm se
-  Hazrat-e-Abbas ki aankhoṅ mein paani dekh kar
+  Hazrat-e-Abbas ki aankhoṅ meiṅ paani dekh kar
 
   4
   Tak rahe haiṅ pyaar se bete ki surat ko Husain
   Maut roti hai sarhaane naujawaani dekh kar
 
   5
-  Sar patakhti hai behan khaime mein rote haiṅ haram
+  Sar patakhti hai behan khaime meiṅ rote haiṅ haram
   Halq-e-Shaah-e-din par khanjar ki rawaani dekh kar
 
   6
   Haaye kya batlaaeṅ kya guzri dil-e-Shabbir par
-  Ghoroṅ ki taapoṅ mein bhai ki nishaani dekh kar
+  Ghoroṅ ki taapoṅ meiṅ bhai ki nishaani dekh kar
 
   7
   Khushk hontoṅ par phiraai jab zabaan beshir ne

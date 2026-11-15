@@ -15,7 +15,7 @@ romanLyrics: |-
   Hai mehfil-e-Maasuma sadaarat Raza ki hai
 
   1
-  Har ik ho jashn-e-paak mein shaamil nahiṅ nahiṅ
+  Har ik ho jashn-e-paak meiṅ shaamil nahiṅ nahiṅ
   Aata hai woh hi jis ko bhi daawat Raza ki hai
 
   2
@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   Dekha hai khwaab Qum ki muqaddas zamin par
-  Maghrib main parh raha huṅ imaamat Raza ki hai
+  Maghrib maiṅ parh raha huṅ imaamat Raza ki hai
 
   4
   Aashiq huṅ na jhukuṅga khabardaar waaizo
@@ -32,10 +32,10 @@ romanLyrics: |-
 
   5
   Tabrik dene aaye haiṅ kul Ambiya wahaaṅ
-  Kaazim ke ghar mein aaj wilaadat Raza ki hai
+  Kaazim ke ghar meiṅ aaj wilaadat Raza ki hai
 
   6
-  Mehshar mein hoga saaya-e-daaman-e-Ali mein
+  Mehshar meiṅ hoga saaya-e-daaman-e-Ali meiṅ
   Jis ne qubuli dil se wilaayat Raza ki hai
 
   7

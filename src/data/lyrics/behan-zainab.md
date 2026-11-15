@@ -22,19 +22,19 @@ romanLyrics: |-
   Bapa hoga phir ek mahshar
 
   2
-  Behan meri nigaahoṅ mein
+  Behan meri nigaahoṅ meiṅ
   Andhera hi andhera hai
   Na laute jab se ghar Akbar
 
   3
   Behan bas aakhri khidmat ko
-  Maidaaṅ mein chali aana
+  Maidaaṅ meiṅ chali aana
   Bulaauṅ jab sada de kar
 
   4
   Behan zer-e-falak jab
   Aakhri sajda kareṅge hum
-  Jabiṅ hogi lahu mein tar
+  Jabiṅ hogi lahu meiṅ tar
 
   5
   Behan jab Fatima ke
@@ -82,7 +82,7 @@ romanLyrics: |-
   Sahaara dena tum barh kar
 
   14
-  Fareed aati rahi jab tak
+  Farid aati rahi jab tak
   Nazar Zainab dar-e-khaima
   Ye Shah kehte the mur mur kar
 # source_id: nohayonline:c999d0d672a0e7ce41c5

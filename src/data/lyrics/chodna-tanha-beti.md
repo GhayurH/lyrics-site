@@ -19,7 +19,7 @@ romanLyrics: |-
 
   1
   Hukm-e-ilaahi raaz-e-mashiyat
-  Manzil-e-taaat mein hai imaamat
+  Manzil-e-taaat meiṅ hai imaamat
   Shukr ka har dukh par nazraana
   Kitna mushkil hai kitna mushkil hai
 
@@ -42,7 +42,7 @@ romanLyrics: |-
   Kitna mushkil hai kitna mushkil hai
 
   5
-  Yaadeṅ dil mein aag lagaaye
+  Yaadeṅ dil meiṅ aag lagaaye
   Khun ke aansu ruk na paaye
   Zinda rehna aur na marna
   Kitna mushkil hai kitna mushkil hai
@@ -55,7 +55,7 @@ romanLyrics: |-
 
   7
   Naamabar ki aas lagaye
-  Raste mein hai aankheṅ bichhaaye
+  Raste meiṅ hai aankheṅ bichhaaye
   Har din subh se shaam karna
   Kitna mushkil hai kitna mushkil hai
 
@@ -66,7 +66,7 @@ romanLyrics: |-
   Kitna mushkil hai kitna mushkil hai
 
   9
-  Dukhiya Faheem ab yaad kare hai
+  Dukhiya Fahim ab yaad kare hai
   Baaba se faryaad kare hai
   Laut ke jaana ya us ko bulaana
   Kitna mushkil hai kitna mushkil hai

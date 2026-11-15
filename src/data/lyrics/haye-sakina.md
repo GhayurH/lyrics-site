@@ -19,7 +19,7 @@ romanLyrics: |-
 
   1
   Abbas to darya se palat kar nahiṅ aaye
-  Haaṅ khun mein duba alam aaya hai Sakina
+  Haaṅ khun meiṅ duba alam aaya hai Sakina
   Shehzaadi Sakina meri shehzaadi Sakina
 
   2
@@ -29,16 +29,16 @@ romanLyrics: |-
 
   3
   Baaba ko tere laa ke kafan de wo kahaaṅ se
-  Zainab ki nigaahoṅ mein andhera hai Sakina
+  Zainab ki nigaahoṅ meiṅ andhera hai Sakina
   Shehzaadi Sakina meri shehzaadi Sakina
 
   4
-  Hai tauq-e-garaaṅ Aabid-e-muztar ke gale mein
+  Hai tauq-e-garaaṅ Aabid-e-muztar ke gale meiṅ
   Hoṅtoṅ pe magar shukr Khuda ka hai Sakina
   Shehzaadi Sakina meri shehzaadi Sakina
 
   5
-  Shabbir ke maqsad ke liye chhote se sin mein
+  Shabbir ke maqsad ke liye chhote se sin meiṅ
   Ghaazi kahiṅ Zainab kahiṅ Zehra hai Sakina
   Shehzaadi Sakina meri shehzaadi Sakina
 
@@ -54,7 +54,7 @@ romanLyrics: |-
 
   8
   Rauze pe tere aa ke parhe nauha ye pur gham
-  Bas dil mein Najaf ki ye tamanna hai Sakina
+  Bas dil meiṅ Najaf ki ye tamanna hai Sakina
   Shehzaadi Sakina meri shehzaadi Sakina
 # source_id: nohayonline:529f31786bb6d5d8b737
 # source_url: https://www.nohayonline.com/details_content.php?id=1792

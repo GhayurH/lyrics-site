@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Bunde jo tere Shimr ne chhine wo dila duṅ
-  Ik nanhi si chaadar main tere sar pe urha duṅ
+  Ik nanhi si chaadar maiṅ tere sar pe urha duṅ
   Ghar jaane ka ab ho gaya saamaan Sakina
 
   2
@@ -41,13 +41,13 @@ romanLyrics: |-
 
   6
   Waaris na raha mera raha na mera Asghar
-  Jaati huṅ Sakina tumheṅ zindaan mein kho kar
+  Jaati huṅ Sakina tumheṅ zindaan meiṅ kho kar
   Ujra hai mera kaisa gulistaan Sakina
 
   7
-  Bin tere Sakina bhala main kaise jiyuṅ gi
-  Baithuṅ gi sada dhup mein paani na piyuṅ gi
-  Jaaye gi tere gham mein meri jaan Sakina
+  Bin tere Sakina bhala maiṅ kaise jiyuṅ gi
+  Baithuṅ gi sada dhup meiṅ paani na piyuṅ gi
+  Jaaye gi tere gham meiṅ meri jaan Sakina
 
   8
   Mayyat pe Sakina ki haram nauha kunaṅ the

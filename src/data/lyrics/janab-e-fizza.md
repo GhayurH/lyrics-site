@@ -14,24 +14,24 @@ published: true
 romanLyrics: |-
   1
   Qulzum-e-sabr o itaat ki rawaani Fizza
-  Hai zaifi mein aqide ki jawaani Fizza
+  Hai zaifi meiṅ aqide ki jawaani Fizza
   Aal-e-Imran ki paakiza nishaani Fizza
   Khud hi hai lafz-e-wafa khud hi maani Fizza
-  Jis mein kaaṅte nahiṅ hote wo chaman hai Fizza
+  Jis meiṅ kaaṅte nahiṅ hote wo chaman hai Fizza
   Had hai Zahra ne kaha meri behan hai Fizza
 
   2
   Tum ne Hasnain ki maaṅ ban ke hifaazat ki hai
-  Tum ne Quraan ke lehje mein khitaabat ki hai
+  Tum ne Quraan ke lehje meiṅ khitaabat ki hai
   Tum ne Haidar ki tarah din ki wakaalat ki hai
   Tum ne Zahra ke musalle pe ibaadat ki hai
   Aaye Jibril jo Quraan ki aayat le kar
-  Bait-e-Zahra mein gaye tum se ijaazat le kar
+  Bait-e-Zahra meiṅ gaye tum se ijaazat le kar
 
   3
   Turbat-e-saani-e-Zahra ki mujaahir tum ho
-  Yaani mastur mein hum surat-e-Jaabir tum ho
-  Ghar mein Zahra ke ho yuṅ rijs se qaasir tum ho
+  Yaani mastur meiṅ hum surat-e-Jaabir tum ho
+  Ghar meiṅ Zahra ke ho yuṅ rijs se qaasir tum ho
   Saat maasumoṅ ke anwaar ki zaair tum ho
   Ye sharaf log kanizoṅ ko kahaaṅ dete haiṅ
   Fatima Zahra ke bachche tumheiṅ maaṅ kehte haiṅ
@@ -41,8 +41,8 @@ romanLyrics: |-
   Bint-e-Zahra ke liye saaya-e-diwaar ho tum
   Naaz karti hai wafa jis pe wo kirdaar ho tum
   Khaana-e-Fatima Zahra ki namak khwaar ho tum
-  Har mawaddat ke sahife mein tera qissa hai
-  Fatima Zahra ke faaqoṅ mein tera hissa hai
+  Har mawaddat ke sahife meiṅ tera qissa hai
+  Fatima Zahra ke faaqoṅ meiṅ tera hissa hai
 
   5
   Aa ke saail ne kabhi dar pe jo dastak de di

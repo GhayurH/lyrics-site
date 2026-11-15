@@ -22,7 +22,7 @@ romanLyrics: |-
   Hum sab ka khazaana hai ya Maula Husain
 
   1
-  Maula hamaara jis ke dil mein bhi rahega
+  Maula hamaara jis ke dil meiṅ bhi rahega
   Hur ki tarah se us ka dil bhi ye kahega
   Tum bemisaal Maula tum la zawaal Maula
   Har dil se aa rahi hai Maula ye sada
@@ -41,7 +41,7 @@ romanLyrics: |-
   Teri qurbaani Maula deti hai gawaahi
   Har dil pe hogi Maula teri baadshaahi
   Tera hi naam hoga tera paighaam hoga
-  Sab ke diloṅ mein hogi zinda Karbala
+  Sab ke diloṅ meiṅ hogi zinda Karbala
   Ghar ghar hoga aap ka jab aana ya Husain
   Saare jahaaṅ ke lab par hoga hoga ya Husain
 
@@ -74,7 +74,7 @@ romanLyrics: |-
 
   10
   Jo na kiya kisi ne tum ne kar dikhaaya
-  Raah-e-Khuda mein Maula ghar ka ghar lutaaya
+  Raah-e-Khuda meiṅ Maula ghar ka ghar lutaaya
   Tum par salaam Maula har subh o shaam Maula
   Tum sa nahiṅ hai Maula koi dusra
   Hoga har insaan jab tumhaara ya Husain
@@ -112,7 +112,7 @@ romanLyrics: |-
   Jaari tha jaari hai aur jaari hi rahega
   Har gham pe gham tumhaara bhaari hi rahega
   Tum par qurbaan Maula hum sab ki jaan Maula
-  Tum hi rahoge Maula sinoṅ mein sada
+  Tum hi rahoge Maula sinoṅ meiṅ sada
   Dil jab hoga aap ka thikaana ya Husain
   Saare jahaaṅ ke lab par hoga hoga ya Husain
 
@@ -130,7 +130,7 @@ romanLyrics: |-
   Jab bhi aayeṅge Maula Imaam-e-Zamaana
   Un ke laboṅ pe hoga nauha Karbala ka
   Har dil bedaar hoga Shah ka zawwaar hoga
-  Saari dunya mein hoga zikr-e-Karbala
+  Saari dunya meiṅ hoga zikr-e-Karbala
   Maatam hoga phir aap ka phir aisa ya Husain
   Saare jahaaṅ ke lab par hoga hoga ya Husain
 
@@ -145,7 +145,7 @@ romanLyrics: |-
   Husain ya Husain ya Husain
 
   22
-  Shabbir ke jaisa dunya mein na aaya tha na aayega
+  Shabbir ke jaisa dunya meiṅ na aaya tha na aayega
   Allaah se aisa ishq bhala ab kar ke kaun dikhaayega
   Quraaṅ Shah-e-Waala ki tarah naize par kaun sunaayega
   Ab Karb o Bala jaisi basti na koi aur basaayega

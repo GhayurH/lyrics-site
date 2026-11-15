@@ -11,7 +11,7 @@ tags: []
 aliases: ["Kaata Gaya Hussain"]
 published: true
 romanLyrics: |-
-  Kaata gaya Husain ka maqtal mein jab gala
+  Kaata gaya Husain ka maqtal meiṅ jab gala
   Bas kuchh hi faasle se behan dekhti rahi
 
   1
@@ -40,14 +40,14 @@ romanLyrics: |-
   Zanjir bekasi ne kasi thi kuchh is tarah
 
   5
-  Pardes mein Ali ki dulaari thi beqaraar
+  Pardes meiṅ Ali ki dulaari thi beqaraar
   Roti thi zaar zaar tarapti thi baar baar
   Su-e-dariya mur kar dekhti thi Zainab
   Apne Ghaazi ko sada de rahi thi Zainab
   Har simt se Husain pe hoti rahi jafa
 
   6
-  Narghe mein zaalimoṅ ke thi beti Batul ki
+  Narghe meiṅ zaalimoṅ ke thi beti Batul ki
   Kuchh bhi na karne paai nawaasi Rasul ki
   Su-e-dariya mur kar dekhti thi Zainab
   Apne Ghaazi ko sada de rahi thi Zainab
@@ -61,7 +61,7 @@ romanLyrics: |-
   Us waqt thar tharaane lagi arz-e-Karbala
 
   8
-  Zainab pe Karbala mein jo koh-e-alam gira
+  Zainab pe Karbala meiṅ jo koh-e-alam gira
   Tute na wo pahaar kisi pe bhi ae Khuda
   Su-e-dariya mur kar dekhti thi Zainab
   Apne Ghaazi ko sada de rahi thi Zainab
@@ -72,7 +72,7 @@ romanLyrics: |-
   Zainab ke dil pe tegh jo Aashur ko chali
   Su-e-dariya mur kar dekhti thi Zainab
   Apne Ghaazi ko sada de rahi thi Zainab
-  Bhaai ka khun khaak mein milta chala gaya
+  Bhaai ka khun khaak meiṅ milta chala gaya
 # source_id: nohayonline:8a926c175e60f394ae02
 # source_url: https://www.nohayonline.com/details_content.php?id=3155
 # raw_sha256: 5b84c6ff35e4440afc8861d9d25d6a6a55f565b21e3b127aeafd34d1332aed2e

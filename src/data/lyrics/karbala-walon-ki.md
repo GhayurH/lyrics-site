@@ -1,6 +1,6 @@
 ---
 title: "کربلا والوں کی زنداں سے رہائی ہو گئی"
-alternateTitle: "Karbala Walon Ki"
+alternateTitle: "Karbala Waloṅ Ki"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ aliases: []
 published: true
 reciter: Hasan Sadiq
 romanLyrics: |-
-  Karbala walon ki zindaaṅ se rihaai ho gayi
+  Karbala waloṅ ki zindaaṅ se rihaai ho gayi
   Turbat-e-Baali Sakina se judaai ho gayi
 
   1
@@ -20,10 +20,10 @@ romanLyrics: |-
 
   2
   Momino! Muṅh ko chhupa lo noch daalo sar ke baal
-  Sar barehna dasht mein Zahra ki jaai ho gayi
+  Sar barehna dasht meiṅ Zahra ki jaai ho gayi
 
   3
-  Misl phulon ki chune the laashon ke tukre Husain
+  Misl phuloṅ ki chune the laashoṅ ke tukre Husain
   Is qadar paamaal Zahra ki kamaai ho gayi
 
   4

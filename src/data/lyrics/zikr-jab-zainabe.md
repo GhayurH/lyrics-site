@@ -19,12 +19,12 @@ romanLyrics: |-
   Haashmi khun to bachpan se jawaaṅ hota hai
 
   2
-  Nok-e-naiza se lahad mein se nikaale laasha
-  Zulm aisa ye zamaane mein kahaaṅ hota hai
+  Nok-e-naiza se lahad meiṅ se nikaale laasha
+  Zulm aisa ye zamaane meiṅ kahaaṅ hota hai
 
   3
   Bhaai betoṅ ke ho begor o kafan laashe pare
-  Aise aalam mein qayaamat ka samaaṅ hota hai
+  Aise aalam meiṅ qayaamat ka samaaṅ hota hai
 
   4
   Faatima Zehra wahaaṅ khud hi pahunch jaati hai
@@ -35,7 +35,7 @@ romanLyrics: |-
   Manzar-e-Karbobala saara ayaaṅ hota hai
 
   6
-  Tu Amir ek nahiṅ Shaah ke gham mein shaamil
+  Tu Amir ek nahiṅ Shaah ke gham meiṅ shaamil
   Mahw-e-gham aaj to har kaun o makaaṅ hota hai
 # source_id: nohayonline:115cf0e9393aabd693b2
 # source_url: https://www.nohayonline.com/details_content.php?id=3354

@@ -23,7 +23,7 @@ romanLyrics: |-
 
   2
   Sharm se chhup gayi Sajjad ke pichhe Zainab
-  Hind zindaṅ mein jo orhe hue aayi chadar
+  Hind zindaṅ meiṅ jo orhe hue aayi chadar
 
   3
   Paaoṅ khat dete rahe dur talak bachchi ke
@@ -38,7 +38,7 @@ romanLyrics: |-
   Sar pe Sughra ke nazar jis ghari aayi chadar
 
   6
-  Zindagi mein na urha paaye magar Abid ne
+  Zindagi meiṅ na urha paaye magar Abid ne
   Qabr par bali Sakina ki urhai chadar
 
   7

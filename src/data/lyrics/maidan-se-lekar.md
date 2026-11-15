@@ -33,7 +33,7 @@ romanLyrics: |-
 
   4
   Ye chaand sa chehra Asghar ka
-  Mitti mein chhupaauṅga kaise
+  Mitti meiṅ chhupaauṅga kaise
   Ye soch ke Shah ne pyaar kiya
 
   5
@@ -54,7 +54,7 @@ romanLyrics: |-
   8
   Bhaai ki shahaadat ka logoṅ
   Zainab ko yaqiṅ tab aa hi gaya
-  Rehwaar jo aaya khuṅ mein bhara
+  Rehwaar jo aaya khuṅ meiṅ bhara
 
   9
   Jis waqt bhi Aamir Sarwar ka

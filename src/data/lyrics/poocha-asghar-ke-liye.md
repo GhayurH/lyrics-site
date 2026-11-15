@@ -1,6 +1,6 @@
 ---
 title: "پوچھا اصغر کے لئے شاہ نے کیا مانگتے ہیں"
-alternateTitle: "Poocha Asghar Ke Liye"
+alternateTitle: "Pucha Asghar Ke Liye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -27,7 +27,7 @@ romanLyrics: |-
   Khaa ke paikaan Ali Asghar ye dua maaṅgte haiṅ
 
   4
-  Ahl-e-bait-e-Nabawi Shaam ke baazaaroṅ mein
+  Ahl-e-bait-e-Nabawi Shaam ke baazaaroṅ meiṅ
   Sar chhupaane ke liye ek rida maaṅgte haiṅ
 # source_id: nohayonline:7435eba72d9bece9f342
 # source_url: https://www.nohayonline.com/details_content.php?id=254

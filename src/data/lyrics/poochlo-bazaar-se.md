@@ -20,8 +20,8 @@ romanLyrics: |-
   Jaaṅ imaamat ki bachaai is ne apni jaan se
 
   2
-  Jis tarah baazaar mein jab na rahi woh hosh mein
-  Chaadar-e-tathir ban kar le liya aaghosh mein
+  Jis tarah baazaar meiṅ jab na rahi woh hosh meiṅ
+  Chaadar-e-tathir ban kar le liya aaghosh meiṅ
   Zainab o Kulsum waaqif hai tere ehsaan se
 
   3
@@ -31,12 +31,12 @@ romanLyrics: |-
 
   4
   Waaqif-e-tathir-e-khu thi chaahe ke rul jaae na
-  Woh bachaati hi rahi ke khaak mein mil jaae na
+  Woh bachaati hi rahi ke khaak meiṅ mil jaae na
   Surkh moti jo Sakina ke gire haiṅ kaan se
 
   5
-  Naam jab Zainab ka aaya hai najis darbaar mein
-  To jalaalat se laraz ke boli is guftaar mein
+  Naam jab Zainab ka aaya hai najis darbaar meiṅ
+  To jalaalat se laraz ke boli is guftaar meiṅ
   Kalma go munkir hua hai aaj kiuṅ Quraan se
 
   6

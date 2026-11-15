@@ -11,32 +11,32 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Husain farz ada kar rahe haiṅ sajde mein
-  Yazidiyat ko fana kar rahe haiṅ sajde mein
+  Husain farz ada kar rahe haiṅ sajde meiṅ
+  Yazidiyat ko fana kar rahe haiṅ sajde meiṅ
 
   1
   Husain de ke bahattar saroṅ ki qurbaani
-  Khuda ka shukr ada kar rahe haiṅ sajde mein
+  Khuda ka shukr ada kar rahe haiṅ sajde meiṅ
 
   2
   Hayaat din-e-Muhammad ko ae musalmaanoṅ
-  Ba waqt-e-asr ata kar rahe haiṅ sajde mein
+  Ba waqt-e-asr ata kar rahe haiṅ sajde meiṅ
 
   3
   Zamaane waaloṅ ye sabr-e-Husain to dekho
-  Ke dushmanoṅ ka bhala kar rahe haiṅ sajde mein
+  Ke dushmanoṅ ka bhala kar rahe haiṅ sajde meiṅ
 
   4
   Laiṅ ki kund chhuri chal rahi thi gardan par
-  Magar Husain dua kar rahe haiṅ sajde mein
+  Magar Husain dua kar rahe haiṅ sajde meiṅ
 
   5
   Ye ummati haiṅ ke parh kar Rasul ka kalma
-  Sar-e-Husain juda kar rahe haiṅ sajde mein
+  Sar-e-Husain juda kar rahe haiṅ sajde meiṅ
 
   6
   Uruj khun se apne Husain Ibn-e-Ali
-  Zamiṅ ko khaak-e-shifa kar rahe haiṅ sajde mein
+  Zamiṅ ko khaak-e-shifa kar rahe haiṅ sajde meiṅ
 # source_id: nohayonline:ae61dc11801ca67099e9
 # source_url: https://www.nohayonline.com/details_content.php?id=1427
 # raw_sha256: 111f8896252bfa4e894263e7c7c86ce6d232b0cac38b44d49f9504cd8906bc5b

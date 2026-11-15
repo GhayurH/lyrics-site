@@ -1,6 +1,6 @@
 ---
 title: "امن کے میرِ کارواں ہیں حسن"
-alternateTitle: "Aman Ke Mir-e-Kaarvaaṅ Hain Hasan"
+alternateTitle: "Aman Ke Mir-e-Kaarvaaṅ Haiṅ Hasan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,38 +11,38 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Aman ke mir-e-kaarvaaṅ hain Hasan
-  Maalik-e-Kausar o jinaaṅ hain Hasan
+  Aman ke mir-e-kaarvaaṅ haiṅ Hasan
+  Maalik-e-Kausar o jinaaṅ haiṅ Hasan
 
   1
   In ke lab se hai lab kusha Quraan
-  Yaani Quraan ki zabaaṅ hain Hasan
-  Qad o qaamat mein hu bahu Nana
-  Isteqaamat mein misaal-e-Maaṅ hain Hasan
+  Yaani Quraan ki zabaaṅ haiṅ Hasan
+  Qad o qaamat meiṅ hu bahu Nana
+  Isteqaamat meiṅ misaal-e-Maaṅ haiṅ Hasan
 
   2
-  Jis mein Quraan-e-aman rehta hai
-  Dono aalam mein wo makaaṅ hain Hasan
+  Jis meiṅ Quraan-e-aman rehta hai
+  Dono aalam meiṅ wo makaaṅ haiṅ Hasan
   Wo Imam-e-Husain ke bhi Imam
-  Aasmaaṅ soch to kahaaṅ hain Hasan
+  Aasmaaṅ soch to kahaaṅ haiṅ Hasan
 
   3
   Gulshan-e-Fatima ki pehli bahaar
-  Gul hai Qasim wo gulistaaṅ hain Hasan
+  Gul hai Qasim wo gulistaaṅ haiṅ Hasan
   Khaali neamat se kiuṅ ho dastarkhwaan
-  Ibn-e-Haider hain mezbaaṅ hain Hasan
+  Ibn-e-Haider haiṅ mezbaaṅ haiṅ Hasan
 
   4
-  Ran mein Qasim ko dekh kar yuṅ laga
-  Subh-e-Aashoor naujawaṅ hain Hasan
+  Ran meiṅ Qasim ko dekh kar yuṅ laga
+  Subh-e-Aashur naujawaṅ haiṅ Hasan
   Parh ke farmaan-e-Mustafa ye khula
-  Sibt-e-Akbar Nabi ki jaaṅ hain Hasan
+  Sibt-e-Akbar Nabi ki jaaṅ haiṅ Hasan
 
   5
   Baap ka hai laqab Wajhullah
-  Aks-e-Khaaliq-e-do jahaaṅ hain Hasan
+  Aks-e-Khaaliq-e-do jahaaṅ haiṅ Hasan
   Fikr-e-Rehaan naaz kar khud par
-  Tere lafzoṅ ke qadardaaṅ hain Hasan
+  Tere lafzoṅ ke qadardaaṅ haiṅ Hasan
 # source_id: tajpoints:14d6d45382656dfc7971
 # source_url: https://tajpoints.com/2017/12/aman-ke-meer-e-karwaan-hain-hasan.html
 # raw_sha256: d8bc6ac7fa3b9cdf618e92c276467adcfbd6dbb3a350f15576a360cc737ca112

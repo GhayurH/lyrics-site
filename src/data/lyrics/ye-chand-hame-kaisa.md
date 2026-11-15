@@ -12,22 +12,22 @@ aliases: ["Ye Chand Hame Kaisa"]
 published: true
 romanLyrics: |-
   Ye chaand hameṅ kaisa garduṅ pe nazar aaya
-  Jis ne gham-e-Zehra mein khuṅ aaṅkhoṅ ko rulwaaya
+  Jis ne gham-e-Zehra meiṅ khuṅ aaṅkhoṅ ko rulwaaya
 
   1
-  Sughra ki nigaahoṅ mein rukhsat ke wo lamhe haiṅ
+  Sughra ki nigaahoṅ meiṅ rukhsat ke wo lamhe haiṅ
   Ghar waaloṅ ki furqat ne bimaar ko tarpaaya
 
   2
-  Phir kaale libaasoṅ mein sab log nazar aaye
-  Phir maatami halqoṅ mein har ghar se alam aaya
+  Phir kaale libaasoṅ meiṅ sab log nazar aaye
+  Phir maatami halqoṅ meiṅ har ghar se alam aaya
 
   3
   Jo zakhm bhare dil the phir taaza hue saare
   Nauha Ali Akbar ka in hoṅtoṅ ne dohraaya
 
   4
-  Phir sajne lagi mehndi naushaah ki ghar ghar mein
+  Phir sajne lagi mehndi naushaah ki ghar ghar meiṅ
   Farwa ki sadaaoṅ se dil aur bhi bhar aaya
 
   5

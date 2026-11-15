@@ -19,12 +19,12 @@ romanLyrics: |-
 
   1
   Na roe hath ke chhaloṅ ko dekh kar Maula
-  Na roe ghar mein raha tin roz tak faqa
+  Na roe ghar meiṅ raha tin roz tak faqa
   Shikasta pahlu jo dekha Ali bahut roe
 
   2
-  Gale mein bandhi gayiṅ rassiyaṅ to sabr kiya
-  Dar-e-Batool se utha dhuaṅ to sabr kiya
+  Gale meiṅ bandhi gayiṅ rassiyaṅ to sabr kiya
+  Dar-e-Batul se utha dhuaṅ to sabr kiya
   Bana ke turbat-e-Zehra Ali bahut roe
 
   3
@@ -35,7 +35,7 @@ romanLyrics: |-
   4
   Abhi to qabr-e-Rasul-e-Zamaṅ bhi thi taza
   Ali ke zakhmoṅ ka kis tarah hoga andaza
-  Jo ghar mein reh gaye tanha Ali bahut roe
+  Jo ghar meiṅ reh gaye tanha Ali bahut roe
 
   5
   Pukara maaṅ ko tarap kar Husain ne jis dam
@@ -44,12 +44,12 @@ romanLyrics: |-
 
   6
   Sharik-e-gham ki lahad par bahae the aaṅsu
-  Ba waqt-e-ghusl bhi aaṅkhoṅ mein aaye the aaṅsu
+  Ba waqt-e-ghusl bhi aaṅkhoṅ meiṅ aaye the aaṅsu
   Pakar ke apna kaleja Ali bahut roe
 
   7
-  Har ek musibat o ranj o alam mein sath diya
-  Nabi ke baad har ek ranj o gham mein sath diya
+  Har ek musibat o ranj o alam meiṅ sath diya
+  Nabi ke baad har ek ranj o gham meiṅ sath diya
   Na jane soch ke kya kya Ali bahut roe
 
   8
@@ -64,7 +64,7 @@ romanLyrics: |-
 
   10
   Zafar wo Subbat Alayya Masaibun kehna
-  Ye Shadman ke lab par Batool ka nauha
+  Ye Shadman ke lab par Batul ka nauha
   Jo yaad aaya ye nauha Ali bahut roe
 ---
 

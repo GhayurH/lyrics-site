@@ -18,7 +18,7 @@ romanLyrics: |-
 
   1
   Sunti huṅ ke bhaai bhi mere maare gaye haiṅ
-  Darya mein pare haiṅ
+  Darya meiṅ pare haiṅ
   Kamsin the lainoṅ ne zara bhi nahiṅ socha
   Baba ye hua kya
 
@@ -29,13 +29,13 @@ romanLyrics: |-
   Baba ye hua kya
 
   3
-  Is umr mein socha na tha jumle ye suneṅge
+  Is umr meiṅ socha na tha jumle ye suneṅge
   Ghut ghut ke raheṅge
   Ab log bulaate haiṅ hameiṅ keh ke yatima
   Baba ye hua kya
 
   4
-  Sunte haiṅ ke masjid mein namaazi to bahut the
+  Sunte haiṅ ke masjid meiṅ namaazi to bahut the
   Baiat bhi kiye the
   Phir aap ko bejurm khata kis liye maara
   Baba ye hua kya
@@ -53,7 +53,7 @@ romanLyrics: |-
   Baba ye hua kya
 
   7
-  Aankhoṅ mein thaharte hi nahiṅ haiṅ mere aansu
+  Aankhoṅ meiṅ thaharte hi nahiṅ haiṅ mere aansu
   Aur ujre haiṅ gesu
   Tar ho gaya ashkoṅ se mera chhota sa kurta
   Baba ye hua kya
@@ -65,7 +65,7 @@ romanLyrics: |-
   Baba ye hua kya
 
   9
-  Ishrat unhi lafzoṅ mein asar ghol raha hai
+  Ishrat unhi lafzoṅ meiṅ asar ghol raha hai
   Jo dil ki sada hai
   Ro ro ke sunaaya tha Ruqayya ne jo noha
   Baba ye hua kya

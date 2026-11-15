@@ -40,13 +40,13 @@ romanLyrics: |-
   Lahu lahu hai alam baradar baradar
 
   6
-  Na ji sakuṅ ga main bhi tere bina Alamdar
+  Na ji sakuṅ ga maiṅ bhi tere bina Alamdar
   Jo tera ghar se jaana rulaega Alamdar
   Bapa karuṅ ga matam baradar baradar
 
   7
-  Qarib-e-Bawafa jab pahunch gaye Shah-e-Din
-  Jabiṅ se khuṅ hata kar ye kehte the Shah-e-Din
+  Qarib-e-Bawafa jab pahunch gaye Shah-e-Diṅ
+  Jabiṅ se khuṅ hata kar ye kehte the Shah-e-Diṅ
   Kaho hameṅ lab-e-dam baradar baradar
 
   8
@@ -55,8 +55,8 @@ romanLyrics: |-
   Kaha junhi gaya dam baradar baradar
 
   9
-  Tu Irfan-e-Wafa hai main Mazhar-e-Masaib
-  Main us ka huṅ jo tere bayaṅ kare masaib
+  Tu Irfan-e-Wafa hai maiṅ Mazhar-e-Masaib
+  Maiṅ us ka huṅ jo tere bayaṅ kare masaib
   Ye martaba bhi hai kam baradar baradar
 # source_id: nohayonline:137fb5f977d3d81e2499
 # source_url: https://www.nohayonline.com/details_content.php?id=3192

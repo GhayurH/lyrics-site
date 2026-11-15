@@ -16,15 +16,15 @@ romanLyrics: |-
   1
   Zehra ki dua ho tum Zainab ki sada ho tum
   Ghaazi ki wafa ho tum Khaaliq ki ataa ho tum
-  Har daur mein phulo phalo jiyo pursadaaroṅ jiyo
+  Har daur meiṅ phulo phalo jiyo pursadaaroṅ jiyo
 
   2
-  Jab jab bhi saf-e-maatam tum ghar mein bichhaaoge
+  Jab jab bhi saf-e-maatam tum ghar meiṅ bichhaaoge
   Aulaad-e-Payambar pe ashkoṅ ko bahaaoge
-  Main duṅ gi dua tum ko jiyo pursadaaroṅ jiyo
+  Maiṅ duṅ gi dua tum ko jiyo pursadaaroṅ jiyo
 
   3
-  Mehshar mein shafaaat ki zaamin huṅ wafaadaaroṅ
+  Mehshar meiṅ shafaaat ki zaamin huṅ wafaadaaroṅ
   Waada hai mera tum se ae mere azaadaaroṅ
   Ik tum hi to mere ho jiyo pursadaaroṅ jiyo
 
@@ -34,8 +34,8 @@ romanLyrics: |-
   Ae mere azaadaaroṅ jiyo pursadaaroṅ jiyo
 
   5
-  Mushkil mein kabhi tum se muṅh apna na moruṅ gi
-  Ae mere Shioṅ tum ko main tanha na chhoruṅ gi
+  Mushkil meiṅ kabhi tum se muṅh apna na moruṅ gi
+  Ae mere Shioṅ tum ko maiṅ tanha na chhoruṅ gi
   Zehra pe bharosa karo jiyo pursadaaroṅ jiyo
 
   6
@@ -49,13 +49,13 @@ romanLyrics: |-
   Bas khauf-e-Khuda se daro jiyo pursadaaroṅ jiyo
 
   8
-  Har ranj o musibat se main tum ko bachaauṅ gi
-  Haaṅ is ke liye lekin bas itna main chaahuṅ gi
+  Har ranj o musibat se maiṅ tum ko bachaauṅ gi
+  Haaṅ is ke liye lekin bas itna maiṅ chaahuṅ gi
   Tum mere ho saabit karo jiyo pursadaaroṅ jiyo
 
   9
   Asif hai ye lab pe dua mere Maalik ae mere Khuda
-  Jab jaauṅ main Karbobala tab aae ye Aamir sada
+  Jab jaauṅ maiṅ Karbobala tab aae ye Aamir sada
   Jiyo maatamdaaroṅ jiyo jiyo pursadaaroṅ jiyo
 # source_id: nohayonline:02563fbb41a0f02b9403
 # source_url: https://www.nohayonline.com/details_content.php?id=2445

@@ -19,9 +19,9 @@ romanLyrics: |-
   Shabbir ka hai gham ye sauda na kiya jaye
 
   2
-  Matam hai Shah-e-din ka aaye haiṅ Anbiya bhi
+  Matam hai Shah-e-diṅ ka aaye haiṅ Anbiya bhi
   Mushkil kusha ke hamrah aaye haiṅ Mustafa bhi
-  Matam ke taqaddus ko malhooz rakha jaye
+  Matam ke taqaddus ko malhuz rakha jaye
 
   3
   Rumal Fatima ka phir paaeṅge ye aansu
@@ -29,8 +29,8 @@ romanLyrics: |-
   Ashkoṅ ke samandar ka nazrana diya jaye
 
   4
-  Dar pesh aayi mushkil sabr o rahe wafa mein
-  Islam gir raha tha Maidan-e-Karbala mein
+  Dar pesh aayi mushkil sabr o rahe wafa meiṅ
+  Islam gir raha tha Maidan-e-Karbala meiṅ
   Abbas ne kaha jab haathoṅ ko diya jaye
 
   5
@@ -40,22 +40,22 @@ romanLyrics: |-
 
   6
   Aankhoṅ se ashk jari sinoṅ se lahu jari
-  Shabbir ke matam mein maut aaye to hai pyari
+  Shabbir ke matam meiṅ maut aaye to hai pyari
   Matam pe harf aaye to sar bhi diya jaye
 
   7
-  Maqtal mein sar kataye Ansar sab sidhare
+  Maqtal meiṅ sar kataye Ansar sab sidhare
   Mayyat jawan ki hai Shabbir haiṅ akele
   Lasha Ali Akbar ka kis tarah utha jaye
 
   8
-  Hal min ki ek sada ne maidaṅ mein us ko laya
-  Gardan pe teer kha kar Asghar ne muskuraya
+  Hal min ki ek sada ne maidaṅ meiṅ us ko laya
+  Gardan pe tir kha kar Asghar ne muskuraya
   Pursa Ali Asghar ka Zehra ko diya jaye
 
   9
-  Dil chhor aaye Ghazi pehlu-e-Sakina mein
-  Abbas sar jhukaye haiṅ Nehr-e-Alqama mein
+  Dil chhor aaye Ghazi pehlu-e-Sakina meiṅ
+  Abbas sar jhukaye haiṅ Nehr-e-Alqama meiṅ
   Pyasoṅ ko kis tarah se sairab kiya jaye
 
   10

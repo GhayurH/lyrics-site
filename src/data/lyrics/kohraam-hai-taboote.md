@@ -1,6 +1,6 @@
 ---
 title: "کہرام ہے تابوتِ حسن اٹھتا ہے گھر سے"
-alternateTitle: "Kohraam Hai Taboote"
+alternateTitle: "Kohraam Hai Tabute"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -22,7 +22,7 @@ romanLyrics: |-
 
   2
   Ek hashr hua charkh se girne lage taare
-  Tukre jo gire tasht mein Shabbar ke jigar se
+  Tukre jo gire tasht meiṅ Shabbar ke jigar se
   Ae waaye musibat
 
   3
@@ -36,12 +36,12 @@ romanLyrics: |-
   Ae waaye musibat
 
   5
-  Bas ek janaaza hai ye dunya mein Hasan ka
+  Bas ek janaaza hai ye dunya meiṅ Hasan ka
   Do baar uthaya jo gaya ek hi ghar se
   Ae waaye musibat
 
   6
-  Dil sine mein Majid na thehar paayega us dam
+  Dil sine meiṅ Majid na thehar paayega us dam
   Dekhe koi is gham ko Shah-e-diṅ ki nazar se
   Ae waaye musibat
 # source_id: nohayonline:c2daea83f9171453bdff

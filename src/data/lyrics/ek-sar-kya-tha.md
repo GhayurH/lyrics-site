@@ -30,7 +30,7 @@ romanLyrics: |-
   Jo Shah-e-Karb o Bala ke saamne
 
   4
-  Chhaa gaya ban kar jalaal-e-Haidari darbaar mein
+  Chhaa gaya ban kar jalaal-e-Haidari darbaar meiṅ
   Chhaa gaya ban kar jalaal-e-khutba-e
   Zainab Yazid-e-behaya ke saamne
 

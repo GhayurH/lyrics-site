@@ -14,7 +14,7 @@ romanLyrics: |-
 
   1
   Dunya ko khatakne lage do phul se chehre
-  Insaanoṅ ke sinoṅ mein the patthar ke kaleje
+  Insaanoṅ ke sinoṅ meiṅ the patthar ke kaleje
   Talwaaroṅ se nezoṅ se kiye tum pe jo hamle
 
   2
@@ -24,12 +24,12 @@ romanLyrics: |-
 
   3
   Bhai ka ye aalam mujhe dekha nahiṅ jaata
-  Hai nargha-e-aada mein Muhammad ka nawaasa
+  Hai nargha-e-aada meiṅ Muhammad ka nawaasa
   Tum hote to faujoṅ ko bahut dur bhagaate
 
   4
   Abbas-e-Ali nehr par jaa kar nahiṅ palte
-  Paani ko taraste haiṅ jo khaimoṅ mein ye bachche
+  Paani ko taraste haiṅ jo khaimoṅ meiṅ ye bachche
   Darya pe wo zaalim ne kiye zulm ke pehre
 
   5

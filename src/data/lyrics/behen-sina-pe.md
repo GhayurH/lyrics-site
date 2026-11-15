@@ -21,7 +21,7 @@ romanLyrics: |-
   2
   Koi asir hai naaqe pe koi paidal hai
   Sinaaṅ ki nok pe Karbobala ka maqtal hai
-  Ab imtihaan mera aur kitna lega Khuda
+  Ab imtihaaṅ mera aur kitna lega Khuda
 
   3
   Rasul zaade bhala yuṅ asir hote haiṅ
@@ -31,7 +31,7 @@ romanLyrics: |-
   4
   Sinaaṅ pe hai mere tishna dahan imaam ka sar
   Kahaaṅ Batul ka jaaya kahaaṅ ghulaam ka sar
-  Baraabar aaqa ke apne main chal nahiṅ sakta
+  Baraabar aaqa ke apne maiṅ chal nahiṅ sakta
 
   5
   Rula rahi hai lahu mujh ko khud meri ghairat
@@ -39,23 +39,23 @@ romanLyrics: |-
   Na mere haath salaamat rahe na mashkiza
 
   6
-  Main rakh na paaya behen teri hasratoṅ ka bharam
+  Maiṅ rakh na paaya behen teri hasratoṅ ka bharam
   Zaif maaṅ ne mujhe di thi apne sar ki qasam
-  Hai meri aaṅkh mein Ummul Banin ka chehra
+  Hai meri aaṅkh meiṅ Ummul Banin ka chehra
 
   7
-  Gaya main nehr pe kis shaan se alam le kar
-  Nazar mein Jaafar-e-Tayyaar ka hasham le kar
+  Gaya maiṅ nehr pe kis shaan se alam le kar
+  Nazar meiṅ Jaafar-e-Tayyaar ka hasham le kar
   Badal diya magar ek do pahar ne sab naqsha
 
   8
-  Diya sitam ne ye kaisa khiraaj Kufe mein
-  Wo ek rida ki sawaali hai aaj Kufe mein
+  Diya sitam ne ye kaisa khiraaj Kufe meiṅ
+  Wo ek rida ki sawaali hai aaj Kufe meiṅ
   Mili hai saare zamaane ko jis ke ghar se rida
 
   9
   Samajh sakega yahaaṅ kaun mere maatam ko
-  Main kya bataauṅ bhala Zaid Ibn-e-Arqam ko
+  Maiṅ kya bataauṅ bhala Zaid Ibn-e-Arqam ko
   Yehi hai marsiya mera yehi mera nauha
 
   10

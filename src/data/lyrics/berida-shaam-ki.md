@@ -31,7 +31,7 @@ romanLyrics: |-
   Kitna chhalni kiya barchhi ne jigar Zainab ka
 
   5
-  Ye alag baat ke mahfuz raha din-e-Rasool
+  Ye alag baat ke mahfuz raha din-e-Rasul
   Ye alag baat ke luta gaya ghar Zainab ka
 
   6

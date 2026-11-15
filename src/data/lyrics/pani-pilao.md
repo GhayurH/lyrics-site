@@ -31,7 +31,7 @@ romanLyrics: |-
 
   3
   Pilaaye jo qaatil ko sharbat ke saaghar
-  Pilaayega jo hashr mein jaam-e-Kausar
+  Pilaayega jo hashr meiṅ jaam-e-Kausar
   Usi sher-e-Haidar ka beta hai ye
 
   4

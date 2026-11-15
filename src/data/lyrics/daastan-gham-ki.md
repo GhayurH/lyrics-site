@@ -35,7 +35,7 @@ romanLyrics: |-
   Rang wo tasvir-e-diṅ meiṅ apne khuṅ se bhar gayi
 
   5
-  Diṅ pe maasuma ka aisa ho gaya charcha Ameer
+  Diṅ pe maasuma ka aisa ho gaya charcha Amir
   Sar kate khaime jale aur chaadar-e-athar gayi
   Rang wo tasvir-e-diṅ meiṅ apne khuṅ se bhar gayi
 # source_id: nohayonline:73f1f3958d4df21e68cb

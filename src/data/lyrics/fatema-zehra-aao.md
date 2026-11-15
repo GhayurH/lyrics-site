@@ -23,7 +23,7 @@ romanLyrics: |-
   2
   Aasmaanoṅ se malak aaye payambar aaye
   Chhor kar shahr-e-Najaf Haidar o Safdar aaye
-  Nange paa majlis-e-Shabbir mein Shabbar aaye
+  Nange paa majlis-e-Shabbir meiṅ Shabbar aaye
   Saf-e-maatam hai bapa Fatema Zehra aao
 
   3
@@ -33,9 +33,9 @@ romanLyrics: |-
   Sun li Khaaliq ne dua Fatema Zehra aao
 
   4
-  Phir azaadaaroṅ ke ghar badle gulistaanoṅ mein
-  Nasb hone lage wo patke azaakhaanoṅ mein
-  Jama hone lage atfaal bhi daalaanoṅ mein
+  Phir azaadaaroṅ ke ghar badle gulistaanoṅ meiṅ
+  Nasb hone lage wo patke azaakhaanoṅ meiṅ
+  Jama hone lage atfaal bhi daalaanoṅ meiṅ
   Taaziya sajne laga Fatema Zehra aao
 
   5
@@ -46,15 +46,15 @@ romanLyrics: |-
 
   6
   Kabhi royi kabhi sambhli kabhi uthi Zainab
-  Saath mein ahl-e-haram ke kabhi jaagi Zainab
+  Saath meiṅ ahl-e-haram ke kabhi jaagi Zainab
   Isi majlis ke liye aap ki beti Zainab
   De gayi apni rida Fatema Zehra aao
 
   7
-  Qatl suraj hua din gham mein dhala shaam hui
+  Qatl suraj hua din gham meiṅ dhala shaam hui
   Khaime jalte haiṅ sar-e-dasht-e-bala shaam hui
   Qaid hone koi bimaar chala shaam hui
-  Ban mein ek hashr utha Fatema Zehra aao
+  Ban meiṅ ek hashr utha Fatema Zehra aao
 
   8
   Zulmat-e-shaam-e-alam hai koi jugnu bhi nahiṅ

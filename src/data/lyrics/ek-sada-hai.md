@@ -17,7 +17,7 @@ romanLyrics: |-
   Pyaasoṅ ke lab par ye sada hai Allah khair kare
 
   1
-  Har Bibi hai zeb-e-musalla aankhoṅ mein hai ashk musalsal
+  Har Bibi hai zeb-e-musalla aankhoṅ meiṅ hai ashk musalsal
   Dil ki dharkan mahw-e-buka hai Allah khair kare
 
   2
@@ -26,14 +26,14 @@ romanLyrics: |-
 
   3
   Kitni hasrat se bhaai ko dekh rahi hai saani-e-Zehra
-  Jaane khwaab mein kya dekha hai Allah khair kare
+  Jaane khwaab meiṅ kya dekha hai Allah khair kare
 
   4
   Dekh ke mashriq ki jaanib kehti hai bhaai se Zainab
   Aaj ye suraj kya kehta hai Allah khair kare
 
   5
-  Dekh ke roti hai Bano jhule mein Asghar ka chehra
+  Dekh ke roti hai Bano jhule meiṅ Asghar ka chehra
   Jaise jhula khud kehta hai Allah khair kare
 
   6
@@ -42,7 +42,7 @@ romanLyrics: |-
 
   7
   Likhne se qaasir hai Mazhar kaise likhe us raat ka manzar
-  Dil mein gham ka dard utha hai Allah khair kare
+  Dil meiṅ gham ka dard utha hai Allah khair kare
 # source_id: nohayonline:621cf9d59ae00ed0a8b2
 # source_url: https://www.nohayonline.com/details_content.php?id=3108
 # raw_sha256: 695412cf0878a7f2b3e1d4e1e9e8b9b99cb7238388c52531479970638a3e0a8c

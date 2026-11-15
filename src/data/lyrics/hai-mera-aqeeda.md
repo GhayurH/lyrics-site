@@ -41,12 +41,12 @@ romanLyrics: |-
   4
   Suna raha huṅ haqiqat bahut bari sun lo
   Ali Nabi ka bila fasl hai wasi sun lo
-  Khuda ke naamoṅ mein ek naam hai wali sun lo
+  Khuda ke naamoṅ meiṅ ek naam hai wali sun lo
   Ho jaata hai Rab raazi muhibboṅ se ye sun kar
 
   5
   Kiya Husain ne qurbaan ghar wilaayat par
-  Kataaya dasht-e-biyaabaaṅ mein sar wilaayat par
+  Kataaya dasht-e-biyaabaaṅ meiṅ sar wilaayat par
   Haram ne jaari rakha hai safar wilaayat par
   Sar saare shahidoṅ ke ye kehte the sinaaṅ par
 

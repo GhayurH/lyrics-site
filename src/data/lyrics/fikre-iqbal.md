@@ -11,33 +11,33 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Bayan sir-e-shahadat ki agar tafseer ho jaye
+  Bayaṅ sir-e-shahadat ki agar tafsir ho jaye
   Musalmano ka qibla rauza e shabbir ho jaye
 
   1
-  Gham e shabbir ko chashme muhammed se agar dekhe
+  Gham-e-shabbir ko chashme muhammed se agar dekhe
   Kabhi bhi bhi majilis o matam ko tu bidat nahi samjhe
-  Tere maslak mein jaayiz matame shabbir ho jaye
+  Tere maslak meiṅ jaayiz matame shabbir ho jaye
 
   2
-  Sar-e-majlis shaoor aa jayega aansu bahane ka
-  Tumhara dil bhi chahega azakhane mein jaane ka
-  Tumhare naam bhi firdaus ki jageer ho jaye
+  Sar-e-majlis shaur aa jayega aansu bahane ka
+  Tumhara dil bhi chahega azakhane meiṅ jaane ka
+  Tumhare naam bhi firdaus ki jagir ho jaye
 
   3
-  Tujhe quran mein tatheer ki aayat nahi milti
+  Tujhe quran meiṅ tathir ki aayat nahi milti
   Sabab ye hai ke matamdaar se fitrat nahi milti
-  Nishan matam ka seene par abhi tehreer hojaye
+  Nishaṅ matam ka sine par abhi tehrir hojaye
 
   4
-  Janabe hazrate shabbir ki jo maa hai ay logon
-  Muhammed ne usay khud maa kaha itna agar socho
-  To rauza fatema zehra abhi tameer ho jaye
+  Janabe hazrate shabbir ki jo maa hai ae logoṅ
+  Muhammed ne use khud maa kaha itna agar socho
+  To rauza fatema zehra abhi tamir ho jaye
 
   5
-  Nishane matame shabbir hai sadiyon ke seene par
+  Nishane matame shabbir hai sadiyoṅ ke sine par
   Bataya hazrate iqbal aur rehaan ne mil kar
-  Ho ab khamosh har tehreer har taqreer ho jaye
+  Ho ab khamosh har tehrir har taqrir ho jaye
 # source_id: nohayonline:8c726aa22d5ae3467db8
 # source_url: https://www.nohayonline.com/details_content.php?id=2548
 # raw_sha256: 41bbbc9af39f0f0044b2af9893e1d4790b3e42345ad131506120bc7a0c37a749

@@ -1,6 +1,6 @@
 ---
 title: "زہرا کی دُعائیں لو ماتم کرو سرور کا"
-alternateTitle: "Zehra Ki Duayein"
+alternateTitle: "Zehra Ki Duayeiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -23,9 +23,9 @@ romanLyrics: |-
   Azadaar-e-Husain
 
   2
-  Abbaas ke parcham ke saaye mein jo aa jaaye
+  Abbaas ke parcham ke saaye meiṅ jo aa jaaye
   Hur jaise muqaddar hoṅ jannat ki hawa paaye
-  Parcham hai nigaahoṅ mein Abbaas-e-Dilaavar ka
+  Parcham hai nigaahoṅ meiṅ Abbaas-e-Dilaavar ka
   Azadaar-e-Husain
 
   3
@@ -35,14 +35,14 @@ romanLyrics: |-
   Azadaar-e-Husain
 
   4
-  Maidaan mein le aaye Shaah aakhri dilbar ko
+  Maidaan meiṅ le aaye Shaah aakhri dilbar ko
   Ik tir-e-tabassum se bahla diya lashkar ko
   Wo faatih Karbala hai maatam karo Asghar ka
   Azadaar-e-Husain
 
   5
   Aabid ko rulaaya tha khuṅ aise lainoṅ ne
-  Be makhna o chaadar ke thi Aal-e-Nabi ban mein
+  Bemakhna o chaadar ke thi Aal-e-Nabi ban meiṅ
   Maatam karo Aabid ka aur Zainab-e-Muztar ka
   Azadaar-e-Husain
 

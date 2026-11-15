@@ -24,17 +24,17 @@ romanLyrics: |-
 
   3
   Aarzu ye thi meri dekhuṅ sehre ki lari
-  Haaye qismat kya karuṅ khun mein mayyat bhari
+  Haaye qismat kya karuṅ khun meiṅ mayyat bhari
   Sej phuloṅ ki kahaaṅ khaak ka bistar
 
   4
   Ek Sakina si behan shal hai koroṅ se badan
-  Uf gulu mein baandhne Shimr laaya hai rasan
+  Uf gulu meiṅ baandhne Shimr laaya hai rasan
   Zulm ki hai inteha chhin gaye gauhar
 
   5
   Mohsin o yaawar nahiṅ shaah ka lashkar nahiṅ
-  So gaye Abbas bhi god mein Asghar nahiṅ
+  So gaye Abbas bhi god meiṅ Asghar nahiṅ
   Saiṅkaroṅ ranj o mehan aur ek Sarwar
 
   6
@@ -43,7 +43,7 @@ romanLyrics: |-
   Baad tere ahl-e-shar le gaye chaadar
 
   7
-  Qaid se jab jaauṅgi main Madine jaauṅgi
+  Qaid se jab jaauṅgi maiṅ Madine jaauṅgi
   Puchhegi Sughra tumheṅ kya use batlaauṅgi
   Kis tarah sah paayegi gham tera khwaahar
 

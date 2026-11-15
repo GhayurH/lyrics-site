@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Dilband-e-Fatima pe zaalim reham na aaya
-  Tashna labi mein tu ne mehmaan ka khun bahaaya
+  Tashna labi meiṅ tu ne mehmaan ka khun bahaaya
 
   1
   Begor o bekafan tha laasha Shah-e-Zaman ka
@@ -27,15 +27,15 @@ romanLyrics: |-
   Hurmala ne tir khaincha maasum muskuraaya
 
   4
-  Baazaar-e-Shaam mein jab aayi Ali ki beti
+  Baazaar-e-Shaam meiṅ jab aayi Ali ki beti
   Tufaan pattharoṅ ka chaaroṅ taraf se aaya
 
   5
   Quraan parhne waale wo kaise musalmaan the
-  Tasvir-e-Fatima ko darbaar mein bulaaya
+  Tasvir-e-Fatima ko darbaar meiṅ bulaaya
 
   6
-  Gulzar Karbala mein aaye Quraan waale
+  Gulzar Karbala meiṅ aaye Quraan waale
   Afsos bekasoṅ ko paani mila na saaya
 # source_id: nohayonline:5f5d27a8077b3fa8a340
 # source_url: https://www.nohayonline.com/details_content.php?id=3372

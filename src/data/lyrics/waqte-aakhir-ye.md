@@ -23,7 +23,7 @@ romanLyrics: |-
   Aise Zehra teri darbaar gayi hai baaba
 
   3
-  Qasam Allah ki main jhut nahiṅ bolti huṅ
+  Qasam Allah ki maiṅ jhut nahiṅ bolti huṅ
   Teri Siddiqa yeh ab bol rahi hai baaba
 
   4
@@ -40,7 +40,7 @@ romanLyrics: |-
 
   7
   Meri turbat pe parhe nauha Hasan aur Yazdaaṅ
-  Sab duaaoṅ mein dua un ki yehi hai baaba
+  Sab duaaoṅ meiṅ dua un ki yehi hai baaba
 # source_id: nohayonline:fa17f5fa711a3108b34f
 # source_url: https://www.nohayonline.com/details_content.php?id=2521
 # raw_sha256: f9289232ba695a88dd755ec66f3d365b92900956f6a4cba878d975c37a8df0ba

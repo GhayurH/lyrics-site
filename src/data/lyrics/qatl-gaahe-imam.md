@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Isi maqaam pe Zehra ye kar rahi thi bain
-  Na qatl kar meri godi mein mera nur-e-ain
+  Na qatl kar meri godi meiṅ mera nur-e-ain
   Yahaaṅ talak suno kaise Husain aaya tha
   Lain khiṅch ke baaloṅ se usko laaya tha
 
@@ -42,11 +42,11 @@ romanLyrics: |-
   Isi maqaam se sattar qadam thi dur behen
   Pukaarti rahi na kaat Shimr sukha dahan
   Tu jaanta hai bahut dur hai hamaara watan
-  Main le ke aauṅgi uske liye kahaaṅ se kafan
+  Maiṅ le ke aauṅgi uske liye kahaaṅ se kafan
 
   6
-  Wahaaṅ Hasan ko mile do kafan main bhuli nahiṅ
-  Yahaaṅ Husain ki qismat mein ik kafan bhi nahiṅ
+  Wahaaṅ Hasan ko mile do kafan maiṅ bhuli nahiṅ
+  Yahaaṅ Husain ki qismat meiṅ ik kafan bhi nahiṅ
   Zabaan khushk hai zakhmi hai iski peshaani
   Jawaan bete ke qaatil ne maari hai barchhi
 
@@ -65,7 +65,7 @@ romanLyrics: |-
   9
   Husain kehte the ammaaṅ hata lo haath ammaaṅ
   Gale pe chalne do khanjar bacha lo haath ammaaṅ
-  Tarapte reh gaye maqtal mein donoṅ maaṅ bete
+  Tarapte reh gaye maqtal meiṅ donoṅ maaṅ bete
   Gale pe Shaah ke zaalim ne tera waar kiye
 
   10

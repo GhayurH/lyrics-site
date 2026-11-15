@@ -44,10 +44,10 @@ romanLyrics: |-
   Ki sar-e-Shaah pe us waqt nazar Zainab ne
 
   5
-  Hind pehchaan gayi jism mein larza aaya
+  Hind pehchaan gayi jism meiṅ larza aaya
   Pheṅk kar apni rida royi bahut ghash aaya
   Sar rakha qadmoṅ pe rote hue ye farmaaya
-  Kaisi haalat mein kiya yaaṅ ka safar Zainab ne
+  Kaisi haalat meiṅ kiya yaaṅ ka safar Zainab ne
 
   6
   Kaise Rehaan bayaaṅ hoga qaid ka manzar

@@ -11,13 +11,13 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Sakina se kehte thay maqtal mein Sarwar
+  Sakina se kehte the maqtal meiṅ Sarwar
   Hai ye aakhri raat so ja Sakina
-  Meri zindagi mein hi aaram kar le
+  Meri zindagi meiṅ hi aaram kar le
   Abhi to muyassar hai baba ka sina
 
   1
-  Ae jaan-e-padar mujhko maloom hai ye
+  Ae jaan-e-padar mujhko malum hai ye
   Tujhe kal se bedard sone na deṅge
   Meri laash-e-pamaal par bhi Sakina
   Tujhe ye sitamgaar rone na deṅge
@@ -25,12 +25,12 @@ romanLyrics: |-
   Yehi chand lamhe haiṅ meri hazina
 
   2
-  Tujhe is liye hi to maanga tha maine
-  Shaboṅ ki namazoṅ mein apne Khuda se
+  Tujhe is liye hi to maanga tha maiṅ ne
+  Shaboṅ ki namazoṅ meiṅ apne Khuda se
   Ke meri mohabbat ka jab imtehaṅ ho
-  Judaai teri main sahuṅ Karbala se
-  Karuṅ sabr teri yatimi pe main bhi
-  Kare sabr maqtal mein tu bhi Sakina
+  Judaai teri maiṅ sahuṅ Karbala se
+  Karuṅ sabr teri yatimi pe maiṅ bhi
+  Kare sabr maqtal meiṅ tu bhi Sakina
 
   3
   Ye raunaq bhi kal shaam tak hai Sakina
@@ -38,14 +38,14 @@ romanLyrics: |-
   Tera bhai Asghar to pyasa rahega
   Dikha kar tujhe Shimr phenkega paani
   Meri tashnagi yaad kar lena beta
-  Ke raahoṅ mein jab bhi kabhi paani pina
+  Ke raahoṅ meiṅ jab bhi kabhi paani pina
 
   4
   Safar ki thaki hai kuch aaram kar le
   Ae shehzadi ye raat dhalne se pehle
   Ye sina bhi pamaal ho jayega kal
   Katega gala dam nikalne se pehle
-  Mujhe bekhata qatl hona hai ran mein
+  Mujhe bekhata qatl hona hai ran meiṅ
   Meri laal ab mera mushkil hai jina
 
   5
@@ -54,23 +54,23 @@ romanLyrics: |-
   Tujhe zulm sehne haiṅ in zaalimoṅ ke
   Tujhe kar raha huṅ Khuda ke hawale
   Bahut mushkileṅ hoṅ giṅ Ashur ke din
-  Musibat mein ye ghir gaya hai safina
+  Musibat meiṅ ye ghir gaya hai safina
 
   6
   Gharib-ul-watan ki yehi aarzu hai
   Phuphi ki tarah zulm par sabr karna
   Tujhe dekh kar log aansu bahayeṅ
   Yatimi ko le kar jahaṅ se guzarna
-  Tujhe Kufa o Shaam ke raaste mein
+  Tujhe Kufa o Shaam ke raaste meiṅ
   Bahut yaad aayega shahr-e-Madina
 
   7
   Zafar der tak Shah-e-Diṅ aur Sakina
-  Shab-e-gham mein karte rahe aah o zaari
+  Shab-e-gham meiṅ karte rahe aah o zaari
   Wo baap aur beti ki rukhsat ka manzar
   Dil-e-Karbala par hai ye zakhm kaari
-  Kahaṅ Shah ki qabr Karb o Bala mein
-  Kahaṅ Shaam mein hai mazar-e-Sakina
+  Kahaṅ Shah ki qabr Karb o Bala meiṅ
+  Kahaṅ Shaam meiṅ hai mazar-e-Sakina
 # source_id: nohayonline:562dceb59cc469b6ed33
 # source_url: https://www.nohayonline.com/details_content.php?id=1124
 # raw_sha256: fb993335742f44dceef5473711b1f526d753ead59051dcb39f1def162931f183

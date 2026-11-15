@@ -11,20 +11,20 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ye shaam-e-gharibaaṅ mein thi Zainab ki duhaai
+  Ye shaam-e-gharibaaṅ meiṅ thi Zainab ki duhaai
   Aaja mere bhai
-  Main reh gayi is dasht mein tanha mare bhai
+  Maiṅ reh gayi is dasht meiṅ tanha mare bhai
   Aaja mere bhai
 
   1
   Ab Asghar o Akbar haiṅ na Shabbir haiṅ baaqi
   Ghurbat hai bala ki
-  Sab lut gayi pardes mein amma ki kamai
+  Sab lut gayi pardes meiṅ amma ki kamai
   Aaja mere bhai
 
   2
   Ro ro ke sada deti thi wo dard ki maari
-  Ae bhai main waari
+  Ae bhai maiṅ waari
   Mazlum behan seh nahiṅ paayegi judaai
   Aaja mere bhai
 
@@ -37,17 +37,17 @@ romanLyrics: |-
   4
   Jab Zainab-e-dilgir chali jaanib-e-zindaaṅ
   Behaal o pareshaaṅ
-  Mud mud ke sada deti rahi gham ki satayi
+  Mur mur ke sada deti rahi gham ki satayi
   Aaja mere bhai
 
   5
-  Jab Shaam ke bazaar mein ye qaafila pahuncha
+  Jab Shaam ke bazaar meiṅ ye qaafila pahuncha
   Ik hashr tha barpa
   Awaaz larazte huwe hontoṅ se ye aayi
   Aaja mere bhai
 
   6
-  Ik laasha lab-e-nehr tadap jaata tha Gohar
+  Ik laasha lab-e-nehr tarap jaata tha Gohar
   Tha hashr ka manzar
   Jab kehti thi dil thaam ke ye Fatima jaayi
   Aaja mere bhai

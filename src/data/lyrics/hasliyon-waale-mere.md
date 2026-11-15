@@ -16,7 +16,7 @@ romanLyrics: |-
   Haye Ali Asgharam haye Ali Asgharam
 
   1
-  Dasht mein tum kho gaye jaa ke kahaaṅ so gaye
+  Dasht meiṅ tum kho gaye jaa ke kahaaṅ so gaye
   Maut ko apna liya mujh se khafa ho gaye
   Kya meri aaghosh se barh ke hai tir-e-qaza
 
@@ -27,37 +27,37 @@ romanLyrics: |-
 
   3
   Jhula bhi khamosh hai qabr bhi viraan hai
-  Aaj se bistar tera khaak-e-biyaabaaṅ hai
+  Aaj se bistar tera khaak-e-biyaabaan hai
   Socha tha kya kya magar haye haye ye kya ho gaya
 
   4
-  Gham ye main kaise sahuṅ bin tere zinda rahuṅ
+  Gham ye maiṅ kaise sahuṅ bin tere zinda rahuṅ
   Tu hi bata de mujhe Bibiyoṅ se kya kahuṅ
   Puchhti hai mujh se sab chaand kahaaṅ haiṅ tere
 
   5
-  Jhula jhulaauṅ gi main lori sunaauṅ gi main
-  Apne jigar band dil ko main chhupaauṅ gi main
+  Jhula jhulaauṅ gi maiṅ lori sunaauṅ gi maiṅ
+  Apne jigar band dil ko maiṅ chhupaauṅ gi maiṅ
   Kehti haiṅ ro ro ke ye kab se meri mamta
 
   6
   Phul se lab khol de pyaar se hans bol de
-  Phir mere ehsaas ke kaanoṅ mein ras ghol de
+  Phir mere ehsaas ke kaanoṅ meiṅ ras ghol de
   Aa bhi jaa achchha nahiṅ der talak ruthna
 
   7
-  Sunti huṅ lipte ho tum khuṅ bhari poshaak mein
-  Nind nahiṅ aaye gi pairahan-e-khaak mein
+  Sunti huṅ lipte ho tum khuṅ bhari poshaak meiṅ
+  Nind nahiṅ aaye gi pairahan-e-khaak meiṅ
   Zakhm dhula duṅ tere kurta badal duṅ tera
 
   8
   Ruth gaya aasmaaṅ ho gayi dushman zamiṅ
-  Kis ko main apna kahuṅ hai bhi to koi nahiṅ
+  Kis ko maiṅ apna kahuṅ hai bhi to koi nahiṅ
   Ujri hui god par tu hi taras khaa zara
 
   9
   Ghair hue jaate haiṅ Aamir o Nayyar ke haal
-  Hai teri dargaah mein donoṅ saraapa sawaal
+  Hai teri dargaah meiṅ donoṅ saraapa sawaal
   Maaṅ teri qurbaan ho in ki tu sun le dua
 # source_id: nohayonline:0350e523d9ce301d27c2
 # source_url: https://www.nohayonline.com/details_content.php?id=3684

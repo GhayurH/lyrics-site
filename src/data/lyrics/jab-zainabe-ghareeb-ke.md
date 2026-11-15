@@ -1,6 +1,6 @@
 ---
 title: "جب زینب غریب کے رن میں پسر لڑے"
-alternateTitle: "Jab Zainab-e-Ghareeb Ke Ran Mein Pisar Lare"
+alternateTitle: "Jab Zainab-e-Gharib Ke Ran Meiṅ Pisar Lare"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,7 +10,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Jab Zainab-e-Ghareeb ke ran mein pisar lare
+  Jab Zainab-e-Gharib ke ran meiṅ pisar lare
   Tanha lare ye aah wo sab ahl-e-shar lare
   Kis khubsurti se Ali ke jigar lare
   Ek shor par gaya ke ghazab sher-e-nar lare
@@ -39,13 +39,13 @@ romanLyrics: |-
   Sadqe karuṅ hazaar jo aise hoṅ naunihaal
   Sab daulateṅ luteṅ pe bache Fatima ka laal
   Aaye behan pe wo jo balaa un pe aayi ho
-  Dunya mein koi ho ke na ho mera bhai ho
+  Dunya meiṅ koi ho ke na ho mera bhai ho
 
   4
   Ye zikr tha ke bhai ko Hazrat ne di sada
   Abbas aao ghir gaye Zainab ke dilruba
   Daure sada ye sunte hi Abbas-e-baawafa
-  Asnaa-e-raah mein Ali Akbar ne ye kaha
+  Asnaa-e-raah meiṅ Ali Akbar ne ye kaha
   Zinda rakha falak ne ye aansu bahaane ko
   Chaliye huzur jaate haiṅ laashe uthaane ko
 
@@ -60,10 +60,10 @@ romanLyrics: |-
   6
   Chillaaye gardanoṅ ke tale haath de ke Shah
   Muṅh se milaao muṅh ke mera haal hai tabaah
-  Aankhoṅ mein dam tha bolte kiuṅ kar wo rashk-e-maah
+  Aankhoṅ meiṅ dam tha bolte kiuṅ kar wo rashk-e-maah
   Rote the nabz dekh ke Abbas se arsh jaah
   Dunya se kuch karte the bachche pale hue
-  Haathoṅ mein the Husain ke manke dhale hue
+  Haathoṅ meiṅ the Husain ke manke dhale hue
 
   7
   Chillaaye ro ke Hazrat-e-Abbas-e-naamwar
@@ -71,20 +71,20 @@ romanLyrics: |-
   Hazrat pukaare haath kaleje pe maar kar
   Haye haye bara bhi mar gaya wiraaṅ hua ye ghar
   Maaṅ muntazir hai chaak garebaaṅ kiye hue
-  Kis muṅh se jaauṅ khaime mein laashe liye hue
+  Kis muṅh se jaauṅ khaime meiṅ laashe liye hue
 
   8
   Kuchh kuchh abhi tha dam ke unheṅ le chale Imam
   Ek laash ko to aap liye the Shah-e-anaam
   Aur ek laash Hazrat-e-Abbas-e-nek naam
   Khaima tha saamne ke bizaaat hui tamaam
-  Jite na pahunche haye ghazab khaima gaah mein
-  Donoṅ saghir mar gaye asnaa-e-raah mein
+  Jite na pahunche haye ghazab khaima gaah meiṅ
+  Donoṅ saghir mar gaye asnaa-e-raah meiṅ
 
   9
   Zainab ke dil ko ho gayi waaṅ khud ba khud khabar
   Jaa baithi aap maatami saf par jhuka ke sar
-  Laaye Husain donoṅ ke laashe lahu mein tar
+  Laaye Husain donoṅ ke laashe lahu meiṅ tar
   Farmaaya haye lut gaya bekas behan ka ghar
   Do khanjar ek baar kaleje pe chal gaye
   Aaye the tum se milne ko par dam nikal gaye

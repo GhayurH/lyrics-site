@@ -18,14 +18,14 @@ romanLyrics: |-
   Paara paara kar gaya dil haaye sadma baap ka
 
   1
-  Aansuoṅ mein dard o gham ka bhi safar dekhe koi
+  Aansuoṅ meiṅ dard o gham ka bhi safar dekhe koi
   Jaa ke un bachchoṅ ke dil ki kaifiyat puchhe koi
   Jin ke sar se haaye uth jaata hai saaya baap ka
 
   2
   Orh ke chaadar kafan ki zer-e-turbat soyeṅge
-  Baap ko de kar sada ghurbat mein bachche royeṅge
-  Farsh-e-maatam ghar mein ab bichhta rahe ga baap ka
+  Baap ko de kar sada ghurbat meiṅ bachche royeṅge
+  Farsh-e-maatam ghar meiṅ ab bichhta rahe ga baap ka
 
   3
   Khun se poshaak tar thi aur chehra zard tha
@@ -35,22 +35,22 @@ romanLyrics: |-
   4
   Maaṅ ki tuti pasliyoṅ ka gham abhi bhule na the
   Baap ke saaye se bhi mahrum bachche ho gaye
-  Ab na mil paaye ga Kufe mein sahaara baap ka
+  Ab na mil paaye ga Kufe meiṅ sahaara baap ka
 
   5
   Ab judaai ki chhuri chalti rahe gi qalb par
-  Yaad mein royeṅge bachche suna hujra dekh kar
-  Ghar mein ab mumkin nahiṅ phir se palatna baap ka
+  Yaad meiṅ royeṅge bachche suna hujra dekh kar
+  Ghar meiṅ ab mumkin nahiṅ phir se palatna baap ka
 
   6
   Aankhoṅ se aansu rawaaṅ hai dil pe sadma hai bara
   Saaf karti hai lahu chaadar se Zainab zakhm ka
-  Khun mein duba hua hai aaj chehra baap ka
+  Khun meiṅ duba hua hai aaj chehra baap ka
 
   7
   Zakhm ye aisa hai mumkin jis ka marham hi nahiṅ
   Baap ki furqat ke gham jaisa koi gham hi nahiṅ
-  Umr bhar kaanoṅ mein ab gunje ga lehja baap ka
+  Umr bhar kaanoṅ meiṅ ab gunje ga lehja baap ka
 
   8
   Khaak ura kar aankhoṅ se khun-e-jigar barsaaye gi

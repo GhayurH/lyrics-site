@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Aarzu-e-dil-e-man mahram-e-dard-e-dil-e-man
   Ae gharib-e-Zahra jaan-e-Ali khun-e-Khuda
-  Tu nahiṅ hai to mera koi duniya mein nahiṅ
+  Tu nahiṅ hai to mera koi duniya meiṅ nahiṅ
   Tere maatam ke siwa koi bhi armaan nahiṅ
   Hayya alal aza hayya alal buka
   Fi maatamil Husain mazlum-e-Karbala
@@ -23,7 +23,7 @@ romanLyrics: |-
   1
   Mera anjaam hai tu mera aaghaz hai tu
   Hai tujhe meri khabar mera hamraaz hai tu
-  Main huṅ diwaana tera meri aawaaz hai tu
+  Maiṅ huṅ diwaana tera meri aawaaz hai tu
   Tere maatam ke siwa koi bhi armaan nahiṅ
   Hayya alal aza hayya alal buka
   Fi maatamil Husain mazlum-e-Karbala
@@ -42,8 +42,8 @@ romanLyrics: |-
 
   3
   Hai Takallum ki dua maalik-e-kaun o makaaṅ
-  Jis ke aankhoṅ se sada khun hai ghaibat mein rawaaṅ
-  Aa ke darwesh wo de sahn-e-Kaaba mein azaaṅ
+  Jis ke aankhoṅ se sada khuṅ hai ghaibat meiṅ rawaaṅ
+  Aa ke darwesh wo de sahn-e-Kaaba meiṅ azaaṅ
   Hayya alal aza hayya alal buka
   Fi maatamil Husain mazlum-e-Karbala
   Karbala ye tu qibla-e-dilam arbaab-e-man

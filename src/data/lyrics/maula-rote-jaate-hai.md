@@ -24,19 +24,19 @@ romanLyrics: |-
   Zahra ka dard sunaate haiṅ
 
   2
-  Zakhmi Maula ki aankhoṅ mein
+  Zakhmi Maula ki aankhoṅ meiṅ
   Zakhmi mashkiza phirta hai
   Abbas-e-Jari ke haathoṅ se
   Qaatil ko jaam pilaate haiṅ
 
   3
-  Phirta hai nigaahoṅ mein manzar
+  Phirta hai nigaahoṅ meiṅ manzar
   Baazaaroṅ ka darbaaroṅ ka
-  Kuchh der ko ghar ke aangan mein
+  Kuchh der ko ghar ke aangan meiṅ
   Zainab ko saath chalaate haiṅ
 
   4
-  Ik roz isi Kufe mein tumheṅ
+  Ik roz isi Kufe meiṅ tumheṅ
   Beparda haram ko laana hai
   Aabid ko laga kar sine se
   Baazaar ka haal sunaate haiṅ
@@ -54,7 +54,7 @@ romanLyrics: |-
   Logoṅ se kehte jaate haiṅ
 
   7
-  Maalum tha ik din shaanoṅ mein
+  Maalum tha ik din shaanoṅ meiṅ
   Zainab ke rasan bandh jaayegi
   Shabbar se keh ke qaatil ke
   Haathoṅ se rasan khulwaate haiṅ
@@ -67,7 +67,7 @@ romanLyrics: |-
 
   9
   Puchha hai Takallum Zainab ne
-  Haidar se yeh aakhri saaṅsoṅ mein
+  Haidar se yeh aakhri saaṅsoṅ meiṅ
   Kiuṅ baazu dekhe jaate haiṅ
   Kiuṅ sar ko chume jaate haiṅ
 # source_id: nohayonline:ffa7dd03205aa47517a8

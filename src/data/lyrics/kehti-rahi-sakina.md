@@ -15,9 +15,9 @@ romanLyrics: |-
   Hogi rihaayi mar ke bhaiya meri zindaaṅ se
 
   1
-  Is kaal kothari mein hai zulm ka andhera
+  Is kaal kothari meiṅ hai zulm ka andhera
   Mujhe chhor ke na jaao dam ghut raha hai mera
-  Asghar ki tarah main bhi bichhri huṅ aaj maaṅ se
+  Asghar ki tarah maiṅ bhi bichhri huṅ aaj maaṅ se
 
   2
   Hai daagh tamaachoṅ ke mahshar talak raheṅge
@@ -25,7 +25,7 @@ romanLyrics: |-
   Maasum puchhti thi bimaar naatawaaṅ se
 
   3
-  Durr chhin kar kamina raahoṅ mein keh raha tha
+  Durr chhin kar kamina raahoṅ meiṅ keh raha tha
   The kaan mere zakhmi aur khuṅ beh raha tha
   Roti ho kiuṅ lipat kar Abbas ke nishaaṅ se
 
@@ -35,7 +35,7 @@ romanLyrics: |-
   Roti nahiṅ bichhar kar kya apne baba jaaṅ se
 
   5
-  Baba ko yaad kar ke zindaaṅ mein ro rahi hai
+  Baba ko yaad kar ke zindaaṅ meiṅ ro rahi hai
   Sine pe sone wali mitti pe so rahi hai
   Kya jurm ho gaya tha maasum nanhi jaaṅ se
 

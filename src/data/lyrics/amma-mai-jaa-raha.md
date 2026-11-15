@@ -11,32 +11,32 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Amma main jaa raha huṅ deen-e-Khuda bachaane
+  Amma maiṅ jaa raha huṅ din-e-Khuda bachaane
   Phir aauṅ ya na aauṅ waapas Khuda hi jaane
 
   1
   Akbar mara karega nana ki tarjumaani
-  Dega Khuda ke deen ko maqtal mein naujawaani
+  Dega Khuda ke din ko maqtal meiṅ naujawaani
   Phir aauṅ ya na aauṅ waapas Khuda hi jaane
 
   2
   Kehte hue ye sheh ki aawaaz thartharaayi
-  De duṅga raah-e-Haq mein Abbas jaisa bhaai
+  De duṅga raah-e-Haq meiṅ Abbas jaisa bhaai
   Phir aauṅ ya na aauṅ waapas Khuda hi jaane
 
   3
-  Qasim ki laash ke bhi tukre uthaauṅga main
-  Be shir ki lahad bhi ran mein banaauṅga main
+  Qasim ki laash ke bhi tukre uthaauṅga maiṅ
+  Beshir ki lahad bhi ran meiṅ banaauṅga maiṅ
   Phir aauṅ ya na aauṅ waapas Khuda hi jaane
 
   4
   Meri behan jo mujh ko hai jaan se bhi pyaari
-  Sunni hai us behan ki maqtal mein aah o zaari
+  Sunni hai us behan ki maqtal meiṅ aah o zaari
   Phir aauṅ ya na aauṅ waapas Khuda hi jaane
 
   5
-  Sar ko kataauṅga main ghar ko lutaauṅga main
-  Nana se jo kiya hai waada nibhaauṅga main
+  Sar ko kataauṅga maiṅ ghar ko lutaauṅga maiṅ
+  Nana se jo kiya hai waada nibhaauṅga maiṅ
   Phir aauṅ ya na aauṅ waapas Khuda hi jaane
 
   6
@@ -56,7 +56,7 @@ romanLyrics: |-
 
   9
   Din hoṅge aafatoṅ ke ghurbat ki raat hogi
-  Is maut ke safar mein maaṅ saath saath hogi
+  Is maut ke safar meiṅ maaṅ saath saath hogi
   Phir aauṅ ya na aauṅ waapas Khuda hi jaane
 
   10

@@ -1,6 +1,6 @@
 ---
 title: "تو لایازال و لمیازل ہے عادل و قدیم ہے"
-alternateTitle: "Tu Laayazaal O Lamyazal"
+alternateTitle: "Tu Laayazaal o Lamyazal"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -75,7 +75,7 @@ romanLyrics: |-
   8
   Chali jo teri tegh kufr muṅh chhupa ke reh gaya
   Yam-e-Furaat meiṅ mulukiyat ka qasr beh gaya
-  Zamir-e-muftiyaan-e-din farosh bhi ye keh gaya
+  Zamir-e-muftiyaaṅ-e-din farosh bhi ye keh gaya
   Payambaraana azmatoṅ ka wirsa daar hai Husain
   Bina-e-la ilaaha din-e-Kirdigaar hai Husain
 

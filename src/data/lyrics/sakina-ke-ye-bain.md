@@ -11,14 +11,14 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Sakina ke ye bain the ran mein ro kar
+  Sakina ke ye bain the ran meiṅ ro kar
   Chalo Karb o Bala se chaleṅ bhai Akbar
 
   Hai purhaul sehra qayaamat ka manzar
   Chalo Karb o Bala se chaleṅ bhai Akbar
 
   1
-  Chalo ab Madine mein chal kar raheṅge
+  Chalo ab Madine meiṅ chal kar raheṅge
   Na gauhar chhineṅge na durre lageṅge
   Chacha ko bhi le aao ran se jaga kar
 
@@ -30,7 +30,7 @@ romanLyrics: |-
   3
   Rida sar pe ahl-e-haram ke nahiṅ hai
   Sitam khez Karb o Bala ki zamiṅ hai
-  Koi to Madine mein de dega chaadar
+  Koi to Madine meiṅ de dega chaadar
 
   4
   Rasan se hai jakri hui meri gardan

@@ -23,10 +23,10 @@ romanLyrics: |-
 
   3
   Fatima Zahra ke bachchoṅ par bahaao aansu
-  Khuld mein jaane ka aasaan tariqa ye hai
+  Khuld meiṅ jaane ka aasaan tariqa ye hai
 
   4
-  Khuld mein le ke jo aaye ye Janaab-e-Zahra
+  Khuld meiṅ le ke jo aaye ye Janaab-e-Zahra
   Dekho Allah mere Asghar ka shaluka ye hai
 
   5
@@ -51,7 +51,7 @@ romanLyrics: |-
 
   10
   Ye mujhe mil gaya Mazhar ko lab-e-Kausar par
-  Apne ashkoṅ ke iwaz main ne kharida ye hai
+  Apne ashkoṅ ke iwaz maiṅ ne kharida ye hai
 # source_id: nohayonline:ec0c33bd06ca4c96bf5d
 # source_url: https://www.nohayonline.com/details_content.php?id=1482
 # raw_sha256: 2d394a0d5968a7e239cdb5f8c2123a2c9c67e2acf5ace07b256fb2ad8723fed7

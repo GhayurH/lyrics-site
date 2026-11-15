@@ -15,28 +15,28 @@ romanLyrics: |-
   Shabbir ko Zainab ne sada di ye tarap kar
   Akbar ke janaze pe mujhe le chalo bhaiya
 
-  Hum mil ke utha leṅge jawaṅ laal ka laasha
+  Hum mil ke utha leṅge jawaaṅ laal ka laasha
   Akbar ke janaze pe mujhe le chalo bhaiya
 
   1
-  Atharah baras wale ka sar god mein le kar
-  Main Nad-e-Ali parhti rahuṅgi Ae baradar
+  Atharah baras wale ka sar god meiṅ le kar
+  Maiṅ Nad-e-Ali parhti rahuṅgi Ae baradar
   Tum sina-e-Akbar se nikaloge jo neza
 
   2
   Jo zakhm lage haiṅ wo dikhaega na tum ko
-  Shayad wo takalluf mein bataega na tum ko
-  Main maaṅ huṅ magar mujh se chhupa hi nahiṅ sakta
+  Shayad wo takalluf meiṅ bataega na tum ko
+  Maiṅ maaṅ huṅ magar mujh se chhupa hi nahiṅ sakta
 
   3
-  Main jaanti huṅ kaise jawaṅ hote haiṅ bete
+  Maiṅ jaanti huṅ kaise jawaaṅ hote haiṅ bete
   Aur dekhne par jaeṅ agar un ke janaze
-  Ab main bhi samajh sakti huṅ aulaad ka sadma
+  Ab maiṅ bhi samajh sakti huṅ aulaad ka sadma
 
   4
-  Aane nahiṅ duṅgi main kisi ko bhi wahaṅ par
-  Ji bhar ke gale milna jawaṅ laal se ja kar
-  Main maut se keh duṅgi zara der thehar ja
+  Aane nahiṅ duṅgi maiṅ kisi ko bhi wahaṅ par
+  Ji bhar ke gale milna jawaaṅ laal se ja kar
+  Maiṅ maut se keh duṅgi zara der thehar ja
 
   5
   Baba mere Baba ki sada de to raha hai
@@ -46,12 +46,12 @@ romanLyrics: |-
   6
   Us karb ki haalat se nikaalega tumheṅ kaun
   Wo eriyaṅ ragrega sambhalega tumheṅ kaun
-  Chaadar se bana luṅgi main kuchh der ko parda
+  Chaadar se bana luṅgi maiṅ kuchh der ko parda
 
   7
   Tuti hai kamar aap ki Ae mere baradar
   Gir gir ke utheṅge to haṅseṅge ye sitamgar
-  Main aap ko banne to nahiṅ duṅgi tamasha
+  Maiṅ aap ko banne to nahiṅ duṅgi tamasha
 
   8
   Roti hai koi Bibi musalsal pas-e-parda

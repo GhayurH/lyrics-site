@@ -1,6 +1,6 @@
 ---
 title: "کوفے میں کربلا کے ہیں آثار یا حسین"
-alternateTitle: "Kufe Mein Karbala Ke"
+alternateTitle: "Kufe Meiṅ Karbala Ke"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,11 +11,11 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Kufe mein Karbala ke haiṅ aasaar Ya Husain
+  Kufe meiṅ Karbala ke haiṅ aasaar Ya Husain
   Sher-e-Khuda pe chal gayi talwaar Ya Husain
 
   1
-  Khaak ur rahi hai masjid-e-Kufa mein har taraf
+  Khaak ur rahi hai masjid-e-Kufa meiṅ har taraf
   Phir lut gayi Rasul ki sarkaar Ya Husain
 
   2
@@ -28,14 +28,14 @@ romanLyrics: |-
 
   4
   Thehrega tera zarboṅ pe jaa kar ye silsila
-  Sajde mein aaj pehla hua waar Ya Husain
+  Sajde meiṅ aaj pehla hua waar Ya Husain
 
   5
-  Kuzoṅ mein shir aaya to takte the baar baar
+  Kuzoṅ meiṅ shir aaya to takte the baar baar
   Tere laboṅ ko Haidar-e-Karraar Ya Husain
 
   6
-  Yaad aa raha hai nazaa mein Maula ko wo samaaṅ
+  Yaad aa raha hai nazaa meiṅ Maula ko wo samaaṅ
   Zainab hai aur kucha o baazaar Ya Husain
 
   7

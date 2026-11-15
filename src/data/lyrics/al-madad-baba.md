@@ -19,33 +19,33 @@ romanLyrics: |-
   Jalte darwaze ke niche hai tumhari Zehra
 
   1
-  Main giri khaak pe darwaza gira hai mujh par
-  Ghar mein dakhil hui Ummat ye usi pe chal kar
+  Maiṅ giri khaak pe darwaza gira hai mujh par
+  Ghar meiṅ dakhil hui Ummat ye usi pe chal kar
   Pasliyaṅ tut ke deti hi rahiṅ tum ko sada
 
   2
-  Apni halat main Ali se bhi nahiṅ keh sakti
+  Apni halat maiṅ Ali se bhi nahiṅ keh sakti
   Itni zakhmi huṅ ke zinda bhi nahiṅ reh sakti
-  Har ghari khun mein tar rehti hai ab meri rida
+  Har ghari khun meiṅ tar rehti hai ab meri rida
 
   3
   Kiuṅ nahiṅ aate bhala aap kahaṅ haiṅ Baba
   Dekho chehre pe tamachoṅ ke nishaṅ haiṅ Baba
-  Main ne Zainab se chhupaya hai ye zakhmi chehra
+  Maiṅ ne Zainab se chhupaya hai ye zakhmi chehra
 
   4
-  Mujh se darbar ne ek din mein jawani chhini
-  Ghar talak bhi huṅ main betoṅ ke sahare aai
-  Haal atharah baras mein hai zaifa jaisa
+  Mujh se darbar ne ek din meiṅ jawani chhini
+  Ghar talak bhi huṅ maiṅ betoṅ ke sahare aai
+  Haal atharah baras meiṅ hai zaifa jaisa
 
   5
-  Kil paiwast jo pehlu mein hui hai mere
+  Kil paiwast jo pehlu meiṅ hui hai mere
   Is liye Baba mere haath nahiṅ uth sakte
   Kuchh nahiṅ maṅgna bas maut ki karni hai dua
 
   6
   Kam qayamat se nahiṅ hai ye ajab din Baba
-  Mujh mein hi dafn hua hai mera Mohsin Baba
+  Mujh meiṅ hi dafn hua hai mera Mohsin Baba
   Sare zakhmoṅ se hai mere yehi ek zakhm bara
 
   7

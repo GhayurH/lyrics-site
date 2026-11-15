@@ -1,6 +1,6 @@
 ---
 title: "علی کے نور کا صدقہ دکھائی دیتا ہے"
-alternateTitle: "Ali Ke Noor Ka"
+alternateTitle: "Ali Ke Nur Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -16,7 +16,7 @@ published: true
 # raw_sha256: 29eab36864133ef05b0ef1f205cd3323a34912614a7fa9eef56f7f86ed806ded
 romanLyrics: |-
   Ali ke nur ka sadqa dikhayi deta hai
-  Khuda ke ghar mein ujaala dikhayi deta hai
+  Khuda ke ghar meiṅ ujaala dikhayi deta hai
 
   1
   Mizaaj-e-Nahj-e-Balaagha hai aayatoṅ jaisa

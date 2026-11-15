@@ -1,6 +1,6 @@
 ---
 title: "حسین و منی وانا من الحسین"
-alternateTitle: "Husain O Minni"
+alternateTitle: "Husain o Minni"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -21,7 +21,7 @@ romanLyrics: |-
 
   2
   Jis dam suna ye waaqia Zehra ne baap se
-  Puchha ye kaun saath mein hoga Husain ke
+  Puchha ye kaun saath meiṅ hoga Husain ke
   Koi na hoga Fatema khuṅ aasmaaṅ royega
   Khanjar ke niche hoga jab ye mere dil ka chain
 
@@ -45,15 +45,15 @@ romanLyrics: |-
 
   6
   Sar ko utha ke fakhr se Jibril ne kaha
-  Bachpan mein jo kiya tha wo waada nibha diya
+  Bachpan meiṅ jo kiya tha wo waada nibha diya
   Din-e-Khuda ke waaste Sher-e-Khuda ke laal ne
-  Sajde mein sar sar kata diya Zehra ka nur-e-ain
+  Sajde meiṅ sar sar kata diya Zehra ka nur-e-ain
 
   7
-  Rumaal le ke aayi hai majlis mein Sayyeda
-  Misam aza ki bazm mein tu marsiya suna
+  Rumaal le ke aayi hai majlis meiṅ Sayyeda
+  Misam aza ki bazm meiṅ tu marsiya suna
   Nusrat gunaahgaar hai par tera sogwaar hai
-  Mahshar mein bakhshwaana tum Maula mere Husain
+  Mahshar meiṅ bakhshwaana tum Maula mere Husain
 # source_id: nohayonline:4569e37934a5606d2f40
 # source_url: https://www.nohayonline.com/details_content.php?id=3709
 # raw_sha256: a3d9b9c4dc67a0f7b883a4b2f546487d33ba0cc74b0162b0fc31e6e22690591e

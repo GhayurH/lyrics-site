@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Kaun kaafir hai kaun momin hai
   Waqt aane pe faisla hoga
-  Baat khul jaayegi qayaamat mein
+  Baat khul jaayegi qayaamat meiṅ
   Jab adaalat ka saamna hoga
 
   1
@@ -31,7 +31,7 @@ romanLyrics: |-
   3
   Baadshaahat ko sab se pehli baar
   Kis ne pehnaayi din ki poshaak
-  Kab khilaafat mulukiyat mein dhali
+  Kab khilaafat mulukiyat meiṅ dhali
   Kam se kam ab to sochna hoga
 
   4
@@ -44,7 +44,7 @@ romanLyrics: |-
   Jis ki takhliq ka sabab girya
   Jis ke vird-e-zabaan Ali Maula
   Us ko naabud kar sakega kaun
-  Jis ki taaid mein Khuda hoga
+  Jis ki taaid meiṅ Khuda hoga
 
   6
   Qalb par jin ke mohr lag jaaye
@@ -72,7 +72,7 @@ romanLyrics: |-
 
   10
   Dil larazta hai aankh roti hai
-  Tharthari si badan mein hoti hai
+  Tharthari si badan meiṅ hoti hai
   Shaah ka haal kya hua hoga
   Tir Asghar ko jab laga hoga
 

@@ -15,8 +15,8 @@ romanLyrics: |-
   Koi saaya hai jo deta hai sada ro ro kar
   Dekh zakhmi hai musaafir hai mera lakht-e-jigar
   Kam se kam paani se tar kar le laiṅ tu khanjar
-  Qabr ko chhor ke yaaṅ aai huṅ dilgir huṅ main
-  Naam Zahra hai mera maadar-e-Shabbir huṅ main
+  Qabr ko chhor ke yaaṅ aai huṅ dilgir huṅ maiṅ
+  Naam Zahra hai mera maadar-e-Shabbir huṅ maiṅ
 
   1
   Kund khanjar na chala Shimr-e-sitamgar ruk ja
@@ -24,21 +24,21 @@ romanLyrics: |-
 
   2
   Is ke farzand jawaaṅ ne abhi khaai barchhi
-  Is ke sine mein hai paiwast wo naize ki ani
+  Is ke sine meiṅ hai paiwast wo naize ki ani
   Zakhm par zakhm na de ab to sitamgar ruk ja
 
   3
   Is ke chehre pe lahu Asghar-e-beshir ka hai
-  Ghaao sine mein abhi is ke kisi tir ka hai
-  Hai abhi sajda-e-Maabud mein ye sar ruk ja
+  Ghaao sine meiṅ abhi is ke kisi tir ka hai
+  Hai abhi sajda-e-Maabud meiṅ ye sar ruk ja
 
   4
   Ek bhai tha jo bekas ki kamar tor gaya
   Ek bhatija tha bilakta hua jo chhor gaya
-  Main dua duṅgi tujhe haath utha kar ruk ja
+  Maiṅ dua duṅgi tujhe haath utha kar ruk ja
 
   5
-  Be gala jis ko samajhta hai tu Sarwar ka gala
+  Begala jis ko samajhta hai tu Sarwar ka gala
   Ghaur se dekh ye hai tere Payambar ka gala
   Kuchh na samjhe to yehi baat samajh kar ruk ja
 
@@ -55,7 +55,7 @@ romanLyrics: |-
   8
   Chakkiyaaṅ pis ke mehnat se ise paala hai
   Is ne jo keh diya qudrat ne kahaaṅ taala hai
-  Ye dila sakta hai jannat mein tujhe ghar ruk ja
+  Ye dila sakta hai jannat meiṅ tujhe ghar ruk ja
 
   9
   Safdar-e-khasta jigar gham ye bayaaṅ kaise karuṅ

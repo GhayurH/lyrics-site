@@ -35,12 +35,12 @@ romanLyrics: |-
   Qarib is ke na jaao
 
   4
-  Khari hai itni laashoṅ mein ye tanha
+  Khari hai itni laashoṅ meiṅ ye tanha
   Andhera aur bala ka hai andhera
   Zara himmat barhaao
 
   5
-  Is aalam mein na ji paaegi haae
+  Is aalam meiṅ na ji paaegi haae
   Bina baaba ke mar jaaegi haae
   Koi Shah ko bulaao
 
@@ -50,7 +50,7 @@ romanLyrics: |-
   Koi aa kar bachaao
 
   7
-  Bare naazoṅ mein ye bachchi pali hai
+  Bare naazoṅ meiṅ ye bachchi pali hai
   Bahut kamsin hai ye ghabra gai hai
   Zara sa rehm khaao
 

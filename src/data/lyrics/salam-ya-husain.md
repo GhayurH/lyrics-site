@@ -34,7 +34,7 @@ romanLyrics: |-
   Azim kaam kar diya
 
   2
-  Husain wo jo maqtaloṅ ko maktaboṅ mein dhaal de
+  Husain wo jo maqtaloṅ ko maktaboṅ meiṅ dhaal de
   Husain wo jo mushkiloṅ se din ko nikaal le
   Khuda agar talab kare Husain apne laal de
   Husain jo talab kare wo Rab-e-Zuljalaal de
@@ -46,7 +46,7 @@ romanLyrics: |-
   3
   Bulandiyoṅ se puchh lo sinaaṅ sinaaṅ Husain hai
   Qadam qadam Husain hai nishaaṅ nishaaṅ Husain hai
-  Diloṅ mein Ahl-e-Bait ke rawaaṅ dawaaṅ Husain hai
+  Diloṅ meiṅ Ahl-e-Bait ke rawaaṅ dawaaṅ Husain hai
   Zamaana puchhta hai ye kahaaṅ kahaaṅ Husain hai
   Ya Husain ya Husain
   Jahaaṅ jahaaṅ Rasul hai wahaaṅ wahaaṅ Husain hai ya Husain
@@ -56,7 +56,7 @@ romanLyrics: |-
   4
   Ajib hai ye marhala ajib hai ye hausla
   Bichhar gaya hai qaafile se ye amir-e-qaafila
-  Ghira hai fauj-e-Shaam mein akela Ibn-e-Sayyeda
+  Ghira hai fauj-e-Shaam meiṅ akela Ibn-e-Sayyeda
   Hai dur khaima gaah se ye Fatima ka laadla
   Ya Husain ya Husain
   Sukun apna de chuka qaraar apna de chuka ya Husain
@@ -81,7 +81,7 @@ romanLyrics: |-
   Har ek rang o nasl ka salaam har zabaan ka
   Ya Husain ya Husain
   Salaam Shaah-e-Karbala Khuda-e-mehrbaan ka ya Husain
-  Khuda ka zikr do jahaaṅ mein tu ne aam kar diya
+  Khuda ka zikr do jahaaṅ meiṅ tu ne aam kar diya
   Azim kaam kar diya
 # source_id: nohayonline:085a223ee971d41dd613
 # source_url: https://www.nohayonline.com/details_content.php?id=3084

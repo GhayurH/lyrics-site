@@ -14,7 +14,7 @@ romanLyrics: |-
   Aa gaya bazaar-e-Shaam
 
   Khaak par girti hai keh kar ye Ali ki laadli
-  Koi Ghazi ko bulaye raah mein bazaar hai
+  Koi Ghazi ko bulaye raah meiṅ bazaar hai
 
   Ye mera pehla safar hai baad-e-Abbas-e-Jari
 
@@ -24,8 +24,8 @@ romanLyrics: |-
   Ik sinaaṅ par bhaai roye ek par chaadar meri
 
   2
-  Taaziyaanoṅ ki aziyat qalb par sah luṅgi main
-  Kis tarah napaak nazroṅ ke sitam jheluṅgi main
+  Taaziyaanoṅ ki aziyat qalb par sah luṅgi maiṅ
+  Kis tarah napaak nazroṅ ke sitam jheluṅgi maiṅ
   Sharm se Zehra ki beti jite ji mar jayegi
 
   3
@@ -39,18 +39,18 @@ romanLyrics: |-
   Qaafile waaloṅ se ro kar kehti thi Fizza yehi
 
   5
-  Shaam mein in qaidiyoṅ par kya taras khaayeṅge log
-  Shaam mein jaate hi hum par aag barsaayeṅge log
+  Shaam meiṅ in qaidiyoṅ par kya taras khaayeṅge log
+  Shaam meiṅ jaate hi hum par aag barsaayeṅge log
   Kaamp uthti huṅ abhi se soch kar manzar wohi
 
   6
   Mujh ko baba ne bataaya tha dam-e-rukhsat yehi
-  Ek din tu Shaam o Kufa mein khule sar jayegi
+  Ek din tu Shaam o Kufa meiṅ khule sar jayegi
   Kya karuṅ kis ko bulaauṅ aa gayi hai wo ghari
 
   7
   Bain ye Farhan o Mazhar Zainab-e-dilgir ka
-  Sun ke har laasha jafa ke dasht mein tharra gaya
+  Sun ke har laasha jafa ke dasht meiṅ tharra gaya
   Waasta logoṅ Nabi ka qaafila roko abhi
 # source_id: nohayonline:8843f9a071dbbedf1de3
 # source_url: https://www.nohayonline.com/details_content.php?id=1120

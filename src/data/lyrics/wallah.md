@@ -19,13 +19,13 @@ romanLyrics: |-
   Wallah inkhattam yamani
 
   2
-  Bachche khare haiṅ pyaase mere intezaar mein
-  Pahunchaauṅ ga qayaam mein mashkiza aab ka
+  Bachche khare haiṅ pyaase mere intezaar meiṅ
+  Pahunchaauṅ ga qayaam meiṅ mashkiza aab ka
   Wallah inkhattam yamani
 
   3
   Allah ki qasam jo mujhe hota izn-e-jang
-  Kar deta ek hamle mein lashkar ko main tabaah
+  Kar deta ek hamle meiṅ lashkar ko maiṅ tabaah
   Wallah inkhattam yamani
 
   4
@@ -45,12 +45,12 @@ romanLyrics: |-
 
   7
   Lagte hi gurz sar pe woh khaamosh ho gaye
-  Lekin fiza mein gunjti thi Abbas ki sada
+  Lekin fiza meiṅ gunjti thi Abbas ki sada
   Wallah inkhattam yamani
 
   8
-  Ab saare bain parh ke yeh samjha Anees ne
-  Abbas ke rag rag mein dileri hai aur wafa
+  Ab saare bain parh ke yeh samjha Anis ne
+  Abbas ke rag rag meiṅ dileri hai aur wafa
   Wallah inkhattam yamani
 # source_id: nohayonline:8f5159e37e8bbbaee833
 # source_url: https://www.nohayonline.com/details_content.php?id=106

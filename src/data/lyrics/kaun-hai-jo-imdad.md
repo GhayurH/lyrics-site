@@ -15,7 +15,7 @@ romanLyrics: |-
   Saani-e-Zahra kis ko bulaaye
 
   1
-  Ghash mein pare Sajjaad-e-Muztar
+  Ghash meiṅ pare Sajjaad-e-Muztar
   Jalte haiṅ khaime chhinti hai chaadar
   Kaun bhala ab aa ke bachaaye
   Saani-e-Zahra kis ko bulaaye
@@ -45,14 +45,14 @@ romanLyrics: |-
   Saani-e-Zahra kis ko bulaaye
 
   6
-  Ek rasan mein baarah gale haiṅ
+  Ek rasan meiṅ baarah gale haiṅ
   Chhote bare sab qaidi bane haiṅ
   Kaun inheṅ aafat se chhuraaye
   Saani-e-Zahra kis ko bulaaye
 
   7
-  Aa ke watan se dur safar mein
-  Sab kuchh luta hai ek dopahar mein
+  Aa ke watan se dur safar meiṅ
+  Sab kuchh luta hai ek dopahar meiṅ
   Dushman pe bhi ye waqt na aaye
   Saani-e-Zahra kis ko bulaaye
 
@@ -70,7 +70,7 @@ romanLyrics: |-
 
   10
   Jab ho mayassar mausam-e-aza ka
-  Dard mein duba Zainab ka nauha
+  Dard meiṅ duba Zainab ka nauha
   Likhe Bilaal aur Aamir sunaaye
   Saani-e-Zahra kis ko bulaaye
 # source_id: nohayonline:72159e6f6ffdda284035

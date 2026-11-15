@@ -27,7 +27,7 @@ romanLyrics: |-
   Kiuṅ hai yeh jaur o jafa Shaam-e-gharibaaṅ bata
 
   4
-  Pyaas mein Asghar mera ret par tarpa kiya
+  Pyaas meiṅ Asghar mera ret par tarpa kiya
   Paani kya us ko mila Shaam-e-gharibaaṅ bata
 
   5
@@ -35,7 +35,7 @@ romanLyrics: |-
   Aur iraada hai kya Shaam-e-gharibaaṅ bata
 
   6
-  Aun o Muhammad mere ganj-e-shahidaaṅ mein the
+  Aun o Muhammad mere ganj-e-shahidaaṅ meiṅ the
   Donoṅ ka hai haal kya Shaam-e-gharibaaṅ bata
 
   7

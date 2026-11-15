@@ -19,7 +19,7 @@ romanLyrics: |-
   Qayaamat bapa hai qayaamat bapa hai
 
   1
-  Zaifi mein Aabid ki badli jawaani
+  Zaifi meiṅ Aabid ki badli jawaani
   Sakina ki turbat banaate banaate
   Kayi baar mar ke wo zinda hua hai
   Behen ko zamiṅ par sulaate sulaate
@@ -32,7 +32,7 @@ romanLyrics: |-
 
   3
   Hue kaan zakhmi tamaache lage the
-  Sakina ki aaṅkhoṅ mein aaṅsu bhare the
+  Sakina ki aaṅkhoṅ meiṅ aaṅsu bhare the
   Su-e-nehr takti thi hasrat se bachchi
   Jala apna daaman bujhaate bujhaate
 
@@ -48,13 +48,13 @@ romanLyrics: |-
   Qayaamat bapa hai
 
   6
-  Ye darbaar mein kya qayaamat hui hai
+  Ye darbaar meiṅ kya qayaamat hui hai
   Sakina phuphi se ye kya puchhti hai
   Kahiṅ mar hi jaaye na Zainab Khudaaya
   Kanizi ka matlab bataate bataate
 
   7
-  Hai sakte mein Baano qayaamat hai kaisi
+  Hai sakte meiṅ Baano qayaamat hai kaisi
   Padar se wo baateṅ abhi kar rahi thi
   Magar ab kabhi bhi na bolegi bachchi
   Ye maaṅ ko yaqiṅ aayega aate aate

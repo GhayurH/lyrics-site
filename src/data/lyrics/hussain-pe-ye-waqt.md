@@ -11,20 +11,20 @@ tags: []
 aliases: ["Hussain Pe Ye Waqt"]
 published: true
 romanLyrics: |-
-  Aayi jo le ke god mein Shabbir ko Batul
+  Aayi jo le ke god meiṅ Shabbir ko Batul
   Bachche ko dekha khush hue phir ro diye Rasul
   Zehra ne puchha aap hue kis liye malul
   Bole Rasul mujh pe wahi ka hua nuzul
-  Zehra suno main khush hua ye din bachaayega
-  Rota huṅ tanha dasht mein ye maara jaayega
+  Zehra suno maiṅ khush hua ye din bachaayega
+  Rota huṅ tanha dasht meiṅ ye maara jaayega
 
   1
-  Pardes mein Husain pe ye waqt aayega
+  Pardes meiṅ Husain pe ye waqt aayega
   Ek laasha le ke aayega ek lene jaayega
 
   2
-  Rehne na deṅge chain se Yasrab mein ahl-e-shar
-  Karbobala mein jaa ke lutaayega apna ghar
+  Rehne na deṅge chain se Yasrab meiṅ ahl-e-shar
+  Karbobala meiṅ jaa ke lutaayega apna ghar
   Laashoṅ se Karbala ka ye maqtal sajaayega
 
   3
@@ -35,17 +35,17 @@ romanLyrics: |-
   4
   Karyal jawaan beta bhi tarpega khaak par
   Uglega khuṅ haathoṅ pe chhe maah ka pisar
-  Nanhi si qabr dasht mein ro kar banaayega
+  Nanhi si qabr dasht meiṅ ro kar banaayega
 
   5
   Binaayi le ke jaayega Akbar ka gham magar
   Bhai ke gham ke tutegi mazlum ki kamar
-  Hal min kahega dasht mein koi na aayega
+  Hal min kahega dasht meiṅ koi na aayega
 
   6
-  Phir apni qatl gaah mein aayega ye pisar
+  Phir apni qatl gaah meiṅ aayega ye pisar
   Barseṅge tir o neza o talwaar is qadar
-  Zehra ye tera laadla khuṅ mein nahaayega
+  Zehra ye tera laadla khuṅ meiṅ nahaayega
 
   7
   Sattar qadam se dekhegi Zainab ye maajra

@@ -23,7 +23,7 @@ romanLyrics: |-
 
   2
   Hai kitne mominin jo haj par na jaa sake
-  Baithe haiṅ apne dil mein ye armaaṅ liye hue
+  Baithe haiṅ apne dil meiṅ ye armaaṅ liye hue
   Is saal tere rauze pe haj ho ada Husain
 
   3
@@ -47,8 +47,8 @@ romanLyrics: |-
   Hai kaun hum ghariboṅ ka tere siwa Husain
 
   7
-  Qaasim ka laasha dasht mein paamaal kar diya
-  Quraaṅ Hasan ka dasht mein saara bikhar gaya
+  Qaasim ka laasha dasht meiṅ paamaal kar diya
+  Quraaṅ Hasan ka dasht meiṅ saara bikhar gaya
   Tukroṅ se us ke aati thi phir bhi sada Husain
 
   8
@@ -58,7 +58,7 @@ romanLyrics: |-
 
   9
   Sar tha tere gharib ka patthar ke waar pe
-  Tere pisar ke pairoṅ ke chhaaloṅ mein khaar the
+  Tere pisar ke pairoṅ ke chhaaloṅ meiṅ khaar the
   Phir bhi zubaaṅ se kehte tha beta tera Husain
 
   10

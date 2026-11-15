@@ -19,7 +19,7 @@ romanLyrics: |-
   Sipaah-e-Shaam ki sharmindagi teri badaulat hai
 
   2
-  Muhammad ki zabaaṅ Khaibar mein ye tasdiq karti hai
+  Muhammad ki zabaaṅ Khaibar meiṅ ye tasdiq karti hai
   Nuzul-e-aayat-e-Naad-e-Ali teri badaulat hai
 
   3
@@ -27,12 +27,12 @@ romanLyrics: |-
   Ali ke sher ab khud zindagi teri badaulat hai
 
   4
-  Ali gyaarah imaamoṅ ke haiṅ tere nur mein jalwe
+  Ali gyaarah imaamoṅ ke haiṅ tere nur meiṅ jalwe
   Nabi ke din ki baarah dari teri badaulat hai
 
   5
-  Tawaaf-e-khaana-e-Kaaba mein Musa roz milte haiṅ
-  Haram mein Tur ki jalwagari teri badaulat hai
+  Tawaaf-e-khaana-e-Kaaba meiṅ Musa roz milte haiṅ
+  Haram meiṅ Tur ki jalwagari teri badaulat hai
 
   6
   Samajhta kaun kaafir kaun hai aur kaun momin hai
@@ -40,7 +40,7 @@ romanLyrics: |-
 
   7
   Husain ibn-e-Ali o Fatima ke chaand kya kehna
-  Andheri raat mein ye chaandni teri badaulat hai
+  Andheri raat meiṅ ye chaandni teri badaulat hai
 
   8
   Bichhaaye boriya baitha hai tu takht-e-khilaafat par

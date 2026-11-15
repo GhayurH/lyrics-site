@@ -13,14 +13,14 @@ published: true
 romanLyrics: |-
   Abal Fazl Abal Fazl Abal Fazl Abal Fazl
   Abbas kahaaṅ ho mere Abbas kahaaṅ ho
-  Ye keh ke gire khaak pe maidaan mein Sarwar
+  Ye keh ke gire khaak pe maidaan meiṅ Sarwar
   Ye donoṅ kate haath to pehchaane hue haiṅ
   Allah kare khair se ho mera baraadar
   Ye donoṅ kate haath to pehchaane hue haiṅ
 
   Baazu ye mere quwwat-e-baazu ke haiṅ baazu
   Dekha hai inheṅ jab se nahiṅ rukte haiṅ aansu
-  Wo dard kamar mein hai ke dil par nahiṅ qaabu
+  Wo dard kamar meiṅ hai ke dil par nahiṅ qaabu
   In haathoṅ se aati hai meri bhaai ki khushbu
   Jalti hui reti se uthaa lo inheṅ dilbar
 
@@ -29,20 +29,20 @@ romanLyrics: |-
   Us par ye sitam haath baraadar ke qalam bhi
   Dhundo zara Akbar ke madad karte haiṅ hum bhi
   Laasha bhi yahiṅ hoga kahiṅ mashk o alam bhi
-  Baaba ki kamar tut gayi dasht mein Akbar
+  Baaba ki kamar tut gayi dasht meiṅ Akbar
 
   2
-  Tarpaaya bahut bhaai ko taakheer ne meri
-  Kuchh bhi na kiya dasht mein taqdir ne meri
-  Ghurbat mein kamar torti taqdir ne meri
-  Khaime mein bare naaz se hamshir ne meri
+  Tarpaaya bahut bhaai ko taakhir ne meri
+  Kuchh bhi na kiya dasht meiṅ taqdir ne meri
+  Ghurbat meiṅ kamar torti taqdir ne meri
+  Khaime meiṅ bare naaz se hamshir ne meri
   Taawiz dua ka abhi baandha tha inhiṅ par
 
   3
-  Armaan mere bhaai ke tukroṅ mein bate haiṅ
+  Armaan mere bhaai ke tukroṅ meiṅ bate haiṅ
   Mar kar bhi mere bhaai ke jazbe na ghate haiṅ
   Ye donoṅ kate haath jo zakhmoṅ se ate haiṅ
-  Ek sukhi hui mashk ke bharne mein kate haiṅ
+  Ek sukhi hui mashk ke bharne meiṅ kate haiṅ
   In haathoṅ se lipta hai Sakina ka muqaddar
 
   4
@@ -53,8 +53,8 @@ romanLyrics: |-
   Dekho to zara ghaur se hamshakl-e-Payambar
 
   5
-  Hamshakl-e-Nabi dasht mein baaba ki khabar lo
-  Ghash khaa ke na gir jaaye kahiṅ god mein bhar lo
+  Hamshakl-e-Nabi dasht meiṅ baaba ki khabar lo
+  Ghash khaa ke na gir jaaye kahiṅ god meiṅ bhar lo
   Aankhoṅ se tapakne laga ab khun-e-jigar lo
   Thehro zara in haathoṅ ki pehchaan to kar lo
   Dil gham se na phat jaaye kahiṅ sine ke andar
@@ -70,13 +70,13 @@ romanLyrics: |-
   Akhtar hai pharere se ayaaṅ khun ki laali
   Kohraam hai Aamir ke alam aaya hai khaali
   Pyaasoṅ ki har ummid hai ab tutne waali
-  Do haath haiṅ haathoṅ mein liye Sayyad-e-Aali
+  Do haath haiṅ haathoṅ meiṅ liye Sayyad-e-Aali
   Har Bibi se kehti hai Sakina ye tarap kar
 
   8
-  Shabbir hai khaime mein kohraam hai Akhtar
+  Shabbir hai khaime meiṅ kohraam hai Akhtar
   Chhaayi hui aankhoṅ ke tale Shaam hai Akhtar
-  Tar khun mein parcham-e-Islam hai Akhtar
+  Tar khun meiṅ parcham-e-Islam hai Akhtar
   Ab chain Sakina ko na aaraam hai Akhtar
   Har Bibi se kehti thi Sakina ye tarap kar
   Ye donoṅ kate haath to pehchaane hue haiṅ

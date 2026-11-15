@@ -14,12 +14,12 @@ romanLyrics: |-
   Jab rida betiyoṅ ko pehnaana
   Tum Sakina ko bhul na jaana
 
-  Jab bhi tohfe mein baaliyaaṅ laana
+  Jab bhi tohfe meiṅ baaliyaaṅ laana
   Tum Sakina ko bhul na jaana
 
   1
   Jab Muharram ki aathwiṅ aaye
-  Haaziri karna ghar mein Ghaazi ki
+  Haaziri karna ghar meiṅ Ghaazi ki
   Yaad kar lena pyaas bachchi ki
   Nazr paani pe jab bhi dilwaana
   Tum Sakina ko bhul na jaana
@@ -35,7 +35,7 @@ romanLyrics: |-
   Ik chhoti si mashk phir laa kar
   Tum sajaana alam pe Ghaazi ke
   Dur na ho chacha bhatiji se
-  Jab bhi ghar mein saje azaakhaana
+  Jab bhi ghar meiṅ saje azaakhaana
   Tum Sakina ko bhul na jaana
 
   4
@@ -47,7 +47,7 @@ romanLyrics: |-
 
   5
   Waqt-e-aakhir Sakina Bibi ne
-  Bas wasiyyat mein ye kaha ro kar
+  Bas wasiyyat meiṅ ye kaha ro kar
   Dekho zindaaṅ se rihaa ho kar
   Bhaiya Sajjad jab watan jaana
   Tum Sakina ko bhul na jaana
@@ -60,7 +60,7 @@ romanLyrics: |-
   Tum Sakina ko bhul na jaana
 
   7
-  Chhoti Zehra ka waasta Zeeshan
+  Chhoti Zehra ka waasta Zishan
   Rad nahiṅ karte Shaah-e-Karb o Balaa
   Dekho Irfan ka hai ye daawa
   Apne daaman ko jab bhi phailaana

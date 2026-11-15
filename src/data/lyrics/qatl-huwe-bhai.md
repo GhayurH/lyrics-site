@@ -18,13 +18,13 @@ romanLyrics: |-
   Naiza Akbar ke kaleje pe laga wawaila
   Laasha Qasim ka bhi paamaal hua wawaila
   Haye Abbas sa bhai na raha wawaila
-  Kat gaya ran mein baradar ka gala wawaila
+  Kat gaya ran meiṅ baradar ka gala wawaila
   Sab ko qaza aayi ujar gayi Zainab
 
   2
   Haidar o Fatema Zehra ki dulaari Zainab
   Jis ke athaarah baraadar the wo pyaari Zainab
-  Aaj pardes mein lagti hai bichaari Zainab
+  Aaj pardes meiṅ lagti hai bichaari Zainab
   Kis ko aawaaz de ab dard ki maari Zainab
   Gham ki ghata chhaayi ujar gayi Zainab
 
@@ -32,25 +32,25 @@ romanLyrics: |-
   Mujhko pyaara tha bahut Akbar-e-Zishaṅ mera
   Shaadi Akbar ki rachaauṅ gi tha armaaṅ mera
   Paara paara hua armaanoṅ ka Quraaṅ mera
-  Ek hi din mein hai ujra ye gulistaaṅ mera
+  Ek hi din meiṅ hai ujra ye gulistaaṅ mera
   Kaise khizaaṅ aayi ujar gayi Zainab
 
   4
-  Ek din dhup mein tha jab mera chehra bhaiya
+  Ek din dhup meiṅ tha jab mera chehra bhaiya
   Tu ne daaman se aba ke kiya saaya bhaiya
   Jalti reti pe tera aaj hai laasha bhaiya
-  Kar na paayi main teri laash pe saaya bhaiya
+  Kar na paayi maiṅ teri laash pe saaya bhaiya
   Kya kare maajayi ujar gayi Zainab
 
   5
   Haye Abbas Alamdar ki pyaari khwahar
   Jo nikalti the to jhuk jaati the har ek nazar
-  Us pe baazaar mein barsaayeṅge zaalim patthar
-  Nange sar jaayegi darbaar mein qaidi ban kar
+  Us pe baazaar meiṅ barsaayeṅge zaalim patthar
+  Nange sar jaayegi darbaar meiṅ qaidi ban kar
   Haye re dukh paayi ujar gayi Zainab
 
   6
-  Aa ke haathoṅ mein lainoṅ ne jo baandhi rassi
+  Aa ke haathoṅ meiṅ lainoṅ ne jo baandhi rassi
   Sar jhuka kar ke bahut royi Ali ki beti
   Dekh kar su-e-nehr kehne lagi ae Ghazi
   Dekh le aa ke zara jaati huṅ ban kar qaidi
@@ -58,7 +58,7 @@ romanLyrics: |-
 
   7
   Lut gaya Fatema Zehra ka chaman ae Waiz
-  So gaye dasht mein sab tishna dahan ae Waiz
+  So gaye dasht meiṅ sab tishna dahan ae Waiz
   Haye mil paaya na pyaasoṅ ko kafan ae Waiz
   Reh gayi khaak uraane ko behan ae Waiz
   Bas ye sada aayi ujar gayi Zainab

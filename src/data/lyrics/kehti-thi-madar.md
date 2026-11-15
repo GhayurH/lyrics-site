@@ -19,7 +19,7 @@ romanLyrics: |-
   1
   Ae mere abru kamaaṅ soye hue ho kahaaṅ
   Muṅh se to bole zara dhundti hai tum ko maaṅ
-  Main ne ye socha tha kab Ae mere tishna dahaaṅ
+  Maiṅ ne ye socha tha kab Ae mere tishna dahaaṅ
   Daagh-e-pisar paauṅgi tha ye mujhe kab gumaaṅ
   Socha tha aisa kab dilbar
   Reh gaye saare khwaab bikhar kar
@@ -45,8 +45,8 @@ romanLyrics: |-
 
   4
   Shaam-e-gharibaaṅ aa gayi raat hui jab ayaaṅ
-  Sayyid-e-Sajjaad the ghash mein pare nim jaaṅ
-  Aise mein Zainab bani ghamzadoṅ ki paasbaaṅ
+  Sayyid-e-Sajjaad the ghash meiṅ pare nim jaaṅ
+  Aise meiṅ Zainab bani ghamzadoṅ ki paasbaaṅ
   Hoṅtoṅ pe Mohsin magar Laila ke thi ye fughaaṅ
   Royegi tum ko sada maadar
   Ae mere pyaase Ae mere dilbar

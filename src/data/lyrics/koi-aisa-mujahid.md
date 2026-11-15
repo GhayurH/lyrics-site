@@ -51,16 +51,16 @@ romanLyrics: |-
   Koi in Shaam waaloṅ ko hata de
 
   10
-  Bhare darbaar mein jaati hai Zainab
+  Bhare darbaar meiṅ jaati hai Zainab
   Zara ae quwwat-e-dil hausla de
 
   11
   Sakina se yatimi keh rahi hai
-  Charaagh-e-ashk zindaaṅ mein jala de
+  Charaagh-e-ashk zindaan meiṅ jala de
 
   12
   Koi kaantoṅ pe paidal chal raha hai
-  Zaheer ab raah mein aankheṅ bichha de
+  Zahir ab raah meiṅ aankheṅ bichha de
 # source_id: nohayonline:c7556dfcccc86090b6e0
 # source_url: https://www.nohayonline.com/details_content.php?id=493
 # raw_sha256: bb2d1128d98b6a003c11de30d166a1b3d1237810e22829d29986f51f316c71ab

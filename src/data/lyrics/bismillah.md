@@ -31,8 +31,8 @@ romanLyrics: |-
   Use Husain ko jaa kar dikhaao bismillah
 
   3
-  Main ik baar ye zulfeṅ sawaar deti huṅ
-  Ruko tumhaari main mannat utaar deti huṅ
+  Maiṅ ik baar ye zulfeṅ sawaar deti huṅ
+  Ruko tumhaari maiṅ mannat utaar deti huṅ
   Qarib maaṅ ke mere laal aao bismillah
 
   4
@@ -46,9 +46,9 @@ romanLyrics: |-
   Tarapti maaṅ ko gale se lagaao bismillah
 
   6
-  Mohib Husain ne Qaasim ko ran mein bhej diya
+  Mohib Husain ne Qaasim ko ran meiṅ bhej diya
   Nishaani bhaai ki rukhsat hui to ro ke kaha
-  Kahuṅ main kaise ke maqtal mein jaao bismillah
+  Kahuṅ maiṅ kaise ke maqtal meiṅ jaao bismillah
 # source_id: nohayonline:69b1914d67f2b8684c0f
 # source_url: https://www.nohayonline.com/details_content.php?id=2329
 # raw_sha256: 13e612d33440b64566e49174e0b46cafeaf1abd48a9c8d10fae861e7c7007c11

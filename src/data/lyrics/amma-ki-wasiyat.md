@@ -27,17 +27,17 @@ romanLyrics: |-
   Amma ki wasiyat puri ho
 
   2
-  Main din ko bachaauṅga Zainab
-  Har dukh main uthaauṅga Zainab
+  Maiṅ din ko bachaauṅga Zainab
+  Har dukh maiṅ uthaauṅga Zainab
   Gardan ko kataauṅga lekin
   Gardan na jhukaauṅga Zainab
   Nana se waada pura ho
   Amma ki wasiyat puri ho
 
   3
-  Sanduq mein rakha tha main ne
+  Sanduq meiṅ rakha tha maiṅ ne
   Le aao wo kurta meri behen
-  Jab laash ko meri loote to
+  Jab laash ko meri lute to
   Reh jaaye badan par ek kafan
   Poshaak puraani le aao
   Amma ki wasiyat puri ho
@@ -45,13 +45,13 @@ romanLyrics: |-
   4
   Gardan chhil jaaye tauq se jab
   Aabid ke zakhmoṅ ko dhona
-  Ummat ka parda rakhne mein
+  Ummat ka parda rakhne meiṅ
   Chhin jaaye rida to mat rona
-  Tum to tatheer ki waaris ho
+  Tum to tathir ki waaris ho
   Amma ki wasiyat puri ho
 
   5
-  Bhai hai tarapta maqtal mein
+  Bhai hai tarapta maqtal meiṅ
   Khaime se nikal kar pahuncho ab
   Shabbir ke besar laashe ko
   Haathoṅ pe uthaalo ae Zainab
@@ -60,9 +60,9 @@ romanLyrics: |-
 
   6
   Shabbir ka maqsad le ke chalo
-  Haq baat karo darbaaroṅ mein
-  Majlis ho bapa zindaanoṅ mein
-  Ho farsh-e-aza bazaaroṅ mein
+  Haq baat karo darbaaroṅ meiṅ
+  Majlis ho bapa zindaanoṅ meiṅ
+  Ho farsh-e-aza bazaaroṅ meiṅ
   Tum karbobala ka zikr karo
   Amma ki wasiyat puri ho
 
@@ -71,7 +71,7 @@ romanLyrics: |-
   Lab tishna hai aur tan zakhmi
   Kehte haiṅ Qamar Maula in se
   Reh jaaye namaaz-e-shab na kabhi
-  Bhai ko shaboṅ mein yaad rakho
+  Bhai ko shaboṅ meiṅ yaad rakho
   Amma ki wasiyat puri ho
 # source_id: nohayonline:4e7b375bf6d0d66f5e77
 # source_url: https://www.nohayonline.com/details_content.php?id=2326

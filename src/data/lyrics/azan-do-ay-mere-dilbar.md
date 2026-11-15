@@ -12,11 +12,11 @@ aliases: ["Azan Do Ay Mere Dilbar"]
 published: true
 romanLyrics: |-
   Azaan do ae mere dilbar sawera hone wala hai
-  Tumhare baad aalam mein andhera hone wala hai
+  Tumhare baad aalam meiṅ andhera hone wala hai
 
   1
   Kaha Sarwar ne Akbar se ujaala hone wala hai
-  Bala ke ban mein ek khuni sawera hone wala hai
+  Bala ke ban meiṅ ek khuni sawera hone wala hai
   Hamaare khun se rangin sehra hone wala hai
   Kaleje se tumhaare paar neza hone wala hai
 
@@ -42,16 +42,16 @@ romanLyrics: |-
   Lab-e-darya mere haathoṅ pe naazoṅ ka pala hoga
   Zabaaṅ sukhe laboṅ par hogi aur manka dhala hoga
   Sitam insaaniyat par is se barh kar aur kya hoga
-  Mere beshir ki gardan mein tir-e-Hurmala hoga
+  Mere beshir ki gardan meiṅ tir-e-Hurmala hoga
 
   6
   Sitamgaaroṅ ka nargha hoga aur Aal-e-Abaa hogi
   Rasan basta hamaare baad Bint-e-Murtaza hogi
-  Bhare darbaar mein Zehra ki beti berida hogi
+  Bhare darbaar meiṅ Zehra ki beti berida hogi
   Meri nanhi Sakina par tamaachoṅ ki jafa hogi
 
   7
-  Shab-e-Aashur Sheh ke khaimoṅ mein Mirza tha ek mahshar
+  Shab-e-Aashur Sheh ke khaimoṅ meiṅ Mirza tha ek mahshar
   Basad hasrat pisar se apne farmaate the jab Sarwar
   Mere karyal jawaaṅ ae hu baru hamshakl-e-Paighambar
   Tumhaare baad ae nur-e-nazar hai khaak aalam par

@@ -21,7 +21,7 @@ romanLyrics: |-
 
   1
   Musalsal jaagna hai Shaam tak tujh par hi rona hai
-  Tumhaare baad mujh ko Shaam ke zindaaṅ mein sona hai
+  Tumhaare baad mujh ko Shaam ke zindaaṅ meiṅ sona hai
   Haiṅ mere kaan zakhmi aur pare haiṅ nil chehre par
 
   2
@@ -41,13 +41,13 @@ romanLyrics: |-
 
   5
   Saroṅ ke saath naizoṅ par ridaaeṅ bhi uthaayeṅ ge
-  Hujum-e-aam mein ham ko barehna sar phiraayeṅ ge
+  Hujum-e-aam meiṅ ham ko barehna sar phiraayeṅ ge
   Chhatoṅ se Aal-e-Ahmad par bhi wo barsaayeṅ ge patthar
 
   6
   Fughaaṅ jis ki buland hai Shams wo baali Sakina hai
   Jo apne baap ki hai laadli taawiz-e-sina hai
-  Lipat kar laash-e-be sar se yehi kehti thi ro ro kar
+  Lipat kar laash-e-besar se yehi kehti thi ro ro kar
 # source_id: nohayonline:1264ebec81fe71512b4a
 # source_url: https://www.nohayonline.com/details_content.php?id=2024
 # raw_sha256: 7b401d66f3c414885c881c43449f59e62396599e6719fd4a6728505a86769341

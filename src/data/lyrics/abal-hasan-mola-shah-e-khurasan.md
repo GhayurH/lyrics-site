@@ -21,7 +21,7 @@ romanLyrics: |-
   Dast-e-Khuda ban ke sada karte haiṅ sab pe ehsan
 
   2
-  Parhta huṅ jis waqt main Anamta Alaihim
+  Parhta huṅ jis waqt maiṅ Anamta Alaihim
   Dil se sada aati hai ae Izzat-e-Qaim
   Teri wila de ke kiya hum pe Khuda ne ehsan
 
@@ -31,7 +31,7 @@ romanLyrics: |-
   Dur haram aankheṅ haiṅ nam meri nikalti hai jaan
 
   4
-  Din mein nazar aa gaye Mufti ko sitare
+  Din meiṅ nazar aa gaye Mufti ko sitare
   Bhul gaya yaad the jitne bhi sipare
   Ghaur se jab us ne parha Surah-e-Aal-e-Imran
 
@@ -47,7 +47,7 @@ romanLyrics: |-
 
   7
   Kalma-e-Haq qila-e-Tauhid-e-Jali hai
-  Us mein magar dakhile ki shart Ali hai
+  Us meiṅ magar dakhile ki shart Ali hai
   Hai bakhuda likha hua dil pe mere ye farman
 
   8

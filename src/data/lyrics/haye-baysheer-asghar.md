@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Raat bhar dur se aawaaz-e-buka aati hai
   Haye beshir Asghar
-  Koi lori hai jo nauhe mein badal jaati hai
+  Koi lori hai jo nauhe meiṅ badal jaati hai
   Haye beshir Asghar
 
   1
@@ -32,7 +32,7 @@ romanLyrics: |-
   Bekasi jis ki taraf dekh ke sharmaati hai
 
   4
-  Umr bhar saaye mein baithi na tere baad kabhi
+  Umr bhar saaye meiṅ baithi na tere baad kabhi
   Aur na baithegi kabhi
   Dhup us maaṅ ke qarib aa ke thithak jaati hai
 

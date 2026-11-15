@@ -22,12 +22,12 @@ romanLyrics: |-
   2
   Ab saare sahaare tut chuke
   Hameiṅ apne paraaye lut chuke
-  Tum apni panaahoṅ mein le lo
+  Tum apni panaahoṅ meiṅ le lo
   Hum gham se bahut ghabraaye haiṅ
 
   3
   Ashkoṅ ki zabaaṅ pehchaante ho
-  Jo dil mein hai woh jaante ho
+  Jo dil meiṅ hai woh jaante ho
   Hum keh nahiṅ sakte tum sun lo
   Bas haathoṅ ko phailaaye haiṅ
 
@@ -58,14 +58,14 @@ romanLyrics: |-
   8
   Maula hai aap se ek sawaal
   Allah hameiṅ de rizq-e-halaal
-  Ho lashkar-e-Mehdi mein shaamil
+  Ho lashkar-e-Mehdi meiṅ shaamil
   Jitne bhi zaair aaye haiṅ
 
   9
   Kha kha ke tamaache roti hai
   Zindaan ki khaak pe soti hai
   Bujh jaaye pyaas Sakina ki
-  Hum aaṅkh mein aansu laaye haiṅ
+  Hum aaṅkh meiṅ aansu laaye haiṅ
 
   10
   Darbaar Sakhi Abbas ka tha

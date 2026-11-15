@@ -23,7 +23,7 @@ romanLyrics: |-
   Khat apni beti ka parh kar Husain rote haiṅ
 
   3
-  Sada jo parde mein atthaarah bhaaiyoṅ ke rahi
+  Sada jo parde meiṅ atthaarah bhaaiyoṅ ke rahi
   Wohi behen hai khule sar Husain rote haiṅ
 
   4
@@ -35,7 +35,7 @@ romanLyrics: |-
   Jabhi to nok-e-sinaaṅ par Husain rote haiṅ
 
   6
-  Takallum aaj bhi zindaan-e-Shaam mein jaa kar
+  Takallum aaj bhi zindaan-e-Shaam meiṅ jaa kar
   Kisi lahad se lipat kar Husain rote haiṅ
 # source_id: nohayonline:0433ea6aee020b2bdb30
 # source_url: https://www.nohayonline.com/details_content.php?id=1419

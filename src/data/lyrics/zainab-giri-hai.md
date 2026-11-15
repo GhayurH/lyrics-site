@@ -32,7 +32,7 @@ romanLyrics: |-
 
   4
   Haaye haaye sitam wo ho gaya ek naaznin par
-  Naaqe se muṅh ke bal giri aa kar zamin par
+  Naaqe se muṅh ke bal giri aa kar zamiṅ par
   Tharra raha tha arsh larazti thi Karbala
 
   5

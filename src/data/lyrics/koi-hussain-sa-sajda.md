@@ -15,19 +15,19 @@ romanLyrics: |-
   Keh rashk jis pe sada khaak-e-Karbala to kare
 
   1
-  Shahid kaun sa guzra hai pure aalam mein
+  Shahid kaun sa guzra hai pure aalam meiṅ
   Sinaaṅ ki nok pe jo zikr-e-la ilaah to kare
 
   2
   Lab-e-Furaat wo baazu kata ke soya hai
-  Abbas jaisi jahaaṅ mein koi wafa to kare
+  Abbas jaisi jahaaṅ meiṅ koi wafa to kare
 
   3
   Alam ke niche jo maango qabul hoti hai
   Khulus-e-dil se koi shakhs gar dua to kare
 
   4
-  Main baba aap ka beta huṅ go keh Asghar huṅ
+  Maiṅ baba aap ka beta huṅ go keh Asghar huṅ
   Kaho lain se sitam ki wo intiha to kare
 
   5
@@ -35,8 +35,8 @@ romanLyrics: |-
   Asr se pehle bahattar ko jo juda to kare
 
   6
-  Kiya Husain ne jaise hai sabr Karbal mein
-  Ameer sabr pe yuṅ koi iktifa to kare
+  Kiya Husain ne jaise hai sabr Karbal meiṅ
+  Amir sabr pe yuṅ koi iktifa to kare
 # source_id: nohayonline:538c561257a3ad95fb55
 # source_url: https://www.nohayonline.com/details_content.php?id=598
 # raw_sha256: 9ae5dd32db0036ff566c748db37ab7393836a0bee7bb3168e24e545169f98d0e

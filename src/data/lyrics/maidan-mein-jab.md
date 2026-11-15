@@ -1,6 +1,6 @@
 ---
 title: "میداں میں جب آئے شہِ عرش پناہ"
-alternateTitle: "Maidan Mein Jab"
+alternateTitle: "Maidaṅ Meiṅ Jab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ aliases: []
 published: true
 romanLyrics: |-
   1
-  Maidaaṅ mein jab aaye Shah-e-arsh panaah
+  Maidaaṅ meiṅ jab aaye Shah-e-arsh panaah
   Bola bin-e-Saad kijiye baiat ya Shaah
   Munh pher ke tab ghusse se Sarwar ne kaha
   La haul wa la quwwata illa billaah

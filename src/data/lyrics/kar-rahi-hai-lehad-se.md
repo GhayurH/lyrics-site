@@ -49,7 +49,7 @@ romanLyrics: |-
 
   6
   Khuṅ nikalta tha kaanoṅ se jab bhi mere
-  Dard hota hai kaanoṅ mein ab bhi mere
+  Dard hota hai kaanoṅ meiṅ ab bhi mere
   Mujh pe roti rahi khuṅ bhari baaliyaaṅ
   Baaba jaaṅ baaba jaaṅ
 

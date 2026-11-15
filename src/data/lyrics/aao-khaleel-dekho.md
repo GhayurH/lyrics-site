@@ -20,7 +20,7 @@ romanLyrics: |-
 
   2
   Pardoṅ meiṅ jis ko paala atharah saal Zainab
-  Do lakht hai kaleja maqtal meiṅ us jawaṅ ka
+  Do lakht hai kaleja maqtal meiṅ us jawaaṅ ka
 
   3
   Yasin ke jigar se sheh khinchte haiṅ barchhi

@@ -19,7 +19,7 @@ romanLyrics: |-
   Shaam chali maiṅ Shaam chali
 
   1
-  Be gor o kafan bhaai hai mera
+  Begor o kafan bhaai hai mera
   Asbaab luta hai ghar bhi jala
   Sau tir ghamoṅ ka khaa ke
   Aaṅkhoṅ se khun baha ke

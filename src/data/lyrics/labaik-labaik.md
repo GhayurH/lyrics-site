@@ -12,12 +12,12 @@ aliases: []
 published: true
 romanLyrics: |-
   Aa jaane do ghaibat se waaris ko shahidoṅ ke
-  Ur jaayeṅge dunya mein khud hosh Yazidoṅ ke
+  Ur jaayeṅge dunya meiṅ khud hosh Yazidoṅ ke
 
   1
-  Jab haath mein Haidar ki wo talwaar uthaayega
-  Halqoṅ mein Yazidoṅ ke kohraam machaayega
-  Sab zulm ke mansube mitti mein mila dega
+  Jab haath meiṅ Haidar ki wo talwaar uthaayega
+  Halqoṅ meiṅ Yazidoṅ ke kohraam machaayega
+  Sab zulm ke mansube mitti meiṅ mila dega
   Ik waaris-e-Haidar hai jo ghaib se aayega
 
   2
@@ -32,27 +32,27 @@ romanLyrics: |-
   Quraan o imaamat ka juzdaan se niklega
 
   4
-  Tauhid ke jalwoṅ mein Islaam nahaayega
+  Tauhid ke jalwoṅ meiṅ Islaam nahaayega
   Is sher ki aamad ka andaaz ajal hoga
 
   5
-  Ghaazi ki nigaahoṅ mein Haidar ka ghazab hoga
-  Bhule se koi bhi phir Kaabe mein na aayega
+  Ghaazi ki nigaahoṅ meiṅ Haidar ka ghazab hoga
+  Bhule se koi bhi phir Kaabe meiṅ na aayega
 
   6
-  Har dil mein ziyaarat ke armaan bare hoṅge
-  Isa bhi jamaat ki khwaahish mein khare hoṅge
+  Har dil meiṅ ziyaarat ke armaan bare hoṅge
+  Isa bhi jamaat ki khwaahish meiṅ khare hoṅge
   Jab apna musalla wo paani pe bichhaayega
 
   7
   Hamraah imaamat ke Abbas bhi aayeṅge
-  Shabbir ke qadmoṅ mein dunya ko jhukaayeṅge
+  Shabbir ke qadmoṅ meiṅ dunya ko jhukaayeṅge
   Labbaik ya Abbas labbaik ya Abbas
 
   8
   Saqqaai ka mansab phir Abbas sambhaaleṅge
   Sadiyoṅ ki laraai ka armaan nikaaleṅge
-  Jab mashk-e-Sakina wo parcham mein sajaayega
+  Jab mashk-e-Sakina wo parcham meiṅ sajaayega
   Labbaik ya Abbas labbaik ya Abbas
 
   9
@@ -61,18 +61,18 @@ romanLyrics: |-
   Zehra ke luteroṅ ko qabroṅ se uthaayega
 
   10
-  Shabbir ki ek majlis Kaabe mein bapa hogi
-  Allah ke ghar mein bhi ye rasm ada hogi
+  Shabbir ki ek majlis Kaabe meiṅ bapa hogi
+  Allah ke ghar meiṅ bhi ye rasm ada hogi
 
   11
   Khud farsh-e-aza apne hi haathoṅ se sajaayega
-  Kaabe mein sada gunjegi
+  Kaabe meiṅ sada gunjegi
   Husain Husain Husain Husain
   Aflaak pe chamkega jab chaand Muharram ka
 
   12
-  Kaabe mein bhi ghul hoga Shabbir ke maatam ka
-  Ja ran ke liye Akhtar dunya mein tabaahi hai
+  Kaabe meiṅ bhi ghul hoga Shabbir ke maatam ka
+  Ja ran ke liye Akhtar dunya meiṅ tabaahi hai
   Hum ahl-e-aza is ke lashkar ke sipaahi haiṅ
   Munkir hai jo is ka jannat na jaayega
 # source_id: nohayonline:c430e35c5ba5a43bd30f

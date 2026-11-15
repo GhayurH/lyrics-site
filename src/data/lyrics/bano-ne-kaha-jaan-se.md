@@ -17,7 +17,7 @@ romanLyrics: |-
   Kya so gaye darya ke kinaare Ali Asghar
 
   Tum paas the mere to laga rehta tha ji bhi
-  Tanhaai mein maaṅ kis ko pukaare Ali Asghar
+  Tanhaai meiṅ maaṅ kis ko pukaare Ali Asghar
   Pyaare Ali Asghar
 
   1
@@ -46,12 +46,12 @@ romanLyrics: |-
   Pyaare Ali Asghar
 
   6
-  Ik lamhe ko phir khaime mein aajao ke maadar
+  Ik lamhe ko phir khaime meiṅ aajao ke maadar
   Wo khuṅ bhara kurta to utaare Ali Asghar
   Pyaare Ali Asghar
 
   7
-  Aaghosh mein tum hoge to shaayad ye sitamgaar
+  Aaghosh meiṅ tum hoge to shaayad ye sitamgaar
   Baandheṅge na phir haath hamaare Ali Asghar
   Pyaare Ali Asghar
 

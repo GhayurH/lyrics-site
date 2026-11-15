@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Imaam-e-mashraqain hai
-  Imaam-e-maghrabain hai
+  Imaam-e-maghrabaiṅ hai
   Zamiṅ se aasmaan tak
   Husain hi Husain hai
   Qaraar-e-qalb-e-Mustafa
@@ -27,7 +27,7 @@ romanLyrics: |-
   Yaqiṅ ki jalwagaah bhi
   Husain yaani din bhi
   Husain din panaah bhi
-  Bashar ki shakl mein hai tu
+  Bashar ki shakl meiṅ hai tu
   Khuda ka mojiza Husain
 
   3
@@ -81,7 +81,7 @@ romanLyrics: |-
   9
   Ye Nayyar-e-alam nasib
   Aamir-e-asir-e-gham
-  Firaaq-e-Karbala mein donoṅ
+  Firaaq-e-Karbala meiṅ donoṅ
   Muztarib hai dam ba dam
   Hai tera waasta inheṅ
   Lahad pe phir bula Husain

@@ -23,7 +23,7 @@ romanLyrics: |-
 
   1
   Is din ke liye hi maaṅ teri
-  Tujhe Karbobala mein laai thi
+  Tujhe Karbobala meiṅ laai thi
   Is din ke liye hi beta
   Tujhe naaz se maaṅ ne paala
   Tujhe aakhri jang larna hai
@@ -45,14 +45,14 @@ romanLyrics: |-
   Jaa Ali Asghar jaa
 
   4
-  Kabhi godi mein Zainab leti hai
+  Kabhi godi meiṅ Zainab leti hai
   Kabhi pyaar Sakina karti hai
-  Khaimoṅ mein shor hai barpa
+  Khaimoṅ meiṅ shor hai barpa
   Tu sab ki dua le jaa
   Tujhe aakhri jang larna hai
 
   5
-  Maidaaṅ mein Ali ban kar jaana
+  Maidaaṅ meiṅ Ali ban kar jaana
   Baba ki nusrat farmaana
   Shabbir ka tu hai beta
   Abbas chacha hai tera

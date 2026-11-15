@@ -11,16 +11,16 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Dekhe to koi raunaq maqtal mein zara aa ke
+  Dekhe to koi raunaq maqtal meiṅ zara aa ke
   Shabbir ke aane se din phir gaye sehra ke
 
   1
   Khaime se janaaze ki rukhsat ka sa manzar hai
-  Aayeṅ ge na phir Akbar maidaan mein ab jaa ke
+  Aayeṅ ge na phir Akbar maidaan meiṅ ab jaa ke
 
   2
   Paamaal sum-e-aspa aisa na hua koi
-  Bikhre hue tukre haiṅ har simt mein dulha ke
+  Bikhre hue tukre haiṅ har simt meiṅ dulha ke
 
   3
   Ae azm talab Ghazi ab koi nahiṅ baaqi

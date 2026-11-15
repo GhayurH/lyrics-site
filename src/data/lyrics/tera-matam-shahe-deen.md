@@ -10,52 +10,52 @@ tags: []
 aliases: ["Tera Matam Shahe Deen"]
 published: true
 romanLyrics: |-
-  Tera gham zinda hai abhi tak sogwaroṅ mein
-  Tera maatam Shah-e-Diṅ bapa hai chaand taaroṅ mein
+  Tera gham zinda hai abhi tak sogwaroṅ meiṅ
+  Tera maatam Shah-e-Diṅ bapa hai chaand taaroṅ meiṅ
 
   Tera Akbar sine pe jis ke
   Maara tha naiza ahl-e-jafa ne
-  Royi Karbal ki zamiṅ buka thi regzaaroṅ mein
+  Royi Karbal ki zamiṅ buka thi regzaaroṅ meiṅ
 
   1
   Tera Qasim ghoroṅ ne jis ko
-  Paamaal maqtal mein kar diya tha
-  Haye wo tanha tha sar-e-maqtal hazaaroṅ mein
+  Paamaal maqtal meiṅ kar diya tha
+  Haye wo tanha tha sar-e-maqtal hazaaroṅ meiṅ
 
   2
   Tera Ghazi darya kinaare
   Sota hai haye shaane kataaye
-  Rota hai darya falak hai sogwaroṅ mein
+  Rota hai darya falak hai sogwaroṅ meiṅ
 
   3
   Tera Asghar haathoṅ pe tere
   Maara gaya jab tir-e-sitam se
-  Chhaayi maqtal mein khizaaṅ fughaaṅ thi ye bahaaroṅ mein
+  Chhaayi maqtal meiṅ khizaaṅ fughaaṅ thi ye bahaaroṅ meiṅ
 
   4
   Tere ghar ko ummat ne luta
   Khaime jalaaye chhini ridaaeṅ
-  Deti thi Zehra dilaase dilfigaaroṅ mein
+  Deti thi Zehra dilaase dilfigaaroṅ meiṅ
 
   5
   Teri dukhtar daagh-e-yatimi
-  Paaya tha jis ne is kamsini mein
-  Aag daaman mein lagi lahu tha goshwaaroṅ mein
+  Paaya tha jis ne is kamsini meiṅ
+  Aag daaman meiṅ lagi lahu tha goshwaaroṅ meiṅ
 
   6
   Teri behneṅ jab sar barehna
   Baazaar-e-Kufa se jaa rahi thiṅ
-  Rote the Abid fughaaṅ thi ashkbaaroṅ mein
+  Rote the Abid fughaaṅ thi ashkbaaroṅ meiṅ
 
   7
   Teri Zainab betoṅ ko apne
   Royi nahiṅ hai royi hai tujh par
-  Behna bulaati thi tujhe ashkoṅ ke dhaaroṅ mein
+  Behna bulaati thi tujhe ashkoṅ ke dhaaroṅ meiṅ
 
   8
   Tera Mazhar din raat nauhe
   Likhta hai tere purse ki khaatir
-  Deta hai wo bhi sadaaeṅ sogwaroṅ mein
+  Deta hai wo bhi sadaaeṅ sogwaroṅ meiṅ
 reciter: Farhan Ali Waris
 # source_id: nohayonline:050bf018a4044af5602c
 # source_url: https://www.nohayonline.com/details_content.php?id=2230

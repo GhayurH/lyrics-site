@@ -12,7 +12,7 @@ reciter: "Ali Zia Rizvi"
 romanLyrics: |-
   Achhe mere Baba
   Hazrat se Sakina ne kaha bhul na jaana
-  Jab khuld mein pahuncho to Sakina ko bulaana
+  Jab khuld meiṅ pahuncho to Sakina ko bulaana
 
   1
   Baba mere pyaare mere aashiq mere shaida
@@ -20,7 +20,7 @@ romanLyrics: |-
   Malbus puraana
 
   2
-  Main jaan gayi jaate ho sar apna kataane
+  Maiṅ jaan gayi jaate ho sar apna kataane
   Darya ke kinaare
   Paani ka to laane ka faqat hai ye bahaana
 
@@ -31,7 +31,7 @@ romanLyrics: |-
 
   4
   Durr kaanoṅ se chhine ga to faryaad karuṅ gi
-  Main Shimr-e-Lain ki
+  Maiṅ Shimr-e-Lain ki
   Beti ko sitamgar ke tamaachoṅ se bachaana
 # source_id: nohayonline:0f659189d8766e5fa25a
 # source_url: https://www.nohayonline.com/details_content.php?id=7

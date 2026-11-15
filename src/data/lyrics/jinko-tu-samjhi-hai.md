@@ -31,7 +31,7 @@ romanLyrics: |-
   Kitna pur dard tha ye Zainab-e-Muztar ka bayaaṅ
   Sunte hi Hind ki aaṅkhoṅ se hue ashk rawaaṅ
   Ro ke kehne lagi baa khaatir-e-sultaan-e-zamaaṅ
-  Main chhuraauṅgi tumheiṅ qaid se baa izzat o shaaṅ
+  Maiṅ chhuraauṅgi tumheiṅ qaid se baa izzat o shaaṅ
   Naam le ke na ab kijiyo yuṅ shor o shain
   Mere aaqa mere Maula ka bhi hai naam Husain
 
@@ -44,10 +44,10 @@ romanLyrics: |-
   Jaao le aao wuzu karne ko mere liye aab
 
   4
-  Lab pe Abbas kabhi Akbar o Asghar tha Anees
-  Qasim o Aun o Muhammad kabhi Jafar tha Anees
-  Zikr-e-ansaar kabhi ya Shaah-e-Safdar tha Anees
-  Tin din Shaam azaakhaana-e-Sarwar tha Anees
+  Lab pe Abbas kabhi Akbar o Asghar tha Anis
+  Qasim o Aun o Muhammad kabhi Jafar tha Anis
+  Zikr-e-ansaar kabhi ya Shaah-e-Safdar tha Anis
+  Tin din Shaam azaakhaana-e-Sarwar tha Anis
   Majlis-e-Sibt-e-payambar hui pehli barpa
   Zaakira jis ki thi khud bint-e-Ali o Zehra
 # source_id: nohayonline:b48433eddb1562a45382

@@ -13,8 +13,8 @@ published: true
 romanLyrics: |-
   Hamaari shaan Karbala hamaari jaan Karbala
   Azaadaaroṅ ki manzil Karbala hai
-  Lahu mein in ki shaamil Karbala hai
-  Karbobala mein itni kashish bhar gaye Husain
+  Lahu meiṅ in ki shaamil Karbala hai
+  Karbobala meiṅ itni kashish bhar gaye Husain
   Jo ek baar jaayega har baar jaayega
 
   1
@@ -32,7 +32,7 @@ romanLyrics: |-
   Is aaine ke qaabil Karbala hai
 
   3
-  Karbobala mein jaa ke ye kehte hai zaairin
+  Karbobala meiṅ jaa ke ye kehte hai zaairin
   Jannat se uth ke kaun samajhdaar jaayega
 
   4
@@ -44,9 +44,9 @@ romanLyrics: |-
 
   5
   Kahaaṅ is ka sharaf Kaabe se kam hai
-  Nigaah-e-kibriya mein mohtaram hai
-  Isi ki chhaaṅoṅ mein ruh-e-haram hai
-  Hameṅ jaane se roke kis mein dam hai
+  Nigaah-e-kibriya meiṅ mohtaram hai
+  Isi ki chhaaṅoṅ meiṅ ruh-e-haram hai
+  Hameṅ jaane se roke kis meiṅ dam hai
   Ke hum sab ka mustaqbil Karbala hai
 
   6
@@ -58,7 +58,7 @@ romanLyrics: |-
   Ziyaarat is ki mat bidat bataao
   Wafa kuchh to Muhammad se nibhaao
   Chalo tum bhi hamaare saath aao
-  Nabi ke din ka dil Karbala hai
+  Nabi ke diṅ ka dil Karbala hai
 
   8
   Badan se jab nikal jaati hai ruheṅ
@@ -68,7 +68,7 @@ romanLyrics: |-
   Khuda waaloṅ ki mehfil Karbala hai
 
   9
-  Jaata hai kis ke saath bhala kaun qabr mein
+  Jaata hai kis ke saath bhala kaun qabr meiṅ
   Khaak-e-shifa ke saath azaadaar jaayega
 
   10
@@ -83,7 +83,7 @@ romanLyrics: |-
   Fida hai is ke zarroṅ ki chamak par
   Bichhaate haiṅ yahaaṅ apne malak par
   Hai is ki roshni Kaabe talak par
-  Ab us manzil mein daakhil Karbala hai
+  Ab us manzil meiṅ daakhil Karbala hai
 # source_id: nohayonline:874248c4f3aaf6bcbd7c
 # source_url: https://www.nohayonline.com/details_content.php?id=3612
 # raw_sha256: 28ad9111313cbc355c73175247dd5c63bf0b5cafb83e6f66fc54148b95dc521c

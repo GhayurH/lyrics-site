@@ -22,7 +22,7 @@ romanLyrics: |-
   2
   Mayyat uthi gar aap ki
   Baba yahiṅ mar jaauṅgi
-  Mujh mein nahiṅ ab hausla
+  Mujh meiṅ nahiṅ ab hausla
 
   3
   Eid aa rahi hai baba jaan
@@ -37,7 +37,7 @@ romanLyrics: |-
   5
   Bazaar kaise jaauṅgi
   Darbaar kaise jaauṅgi
-  Main sikh luṅ chalna zara
+  Maiṅ sikh luṅ chalna zara
 
   6
   Jitne bhi hai Kufi khare
@@ -60,7 +60,7 @@ romanLyrics: |-
   Ye waada kar lijiye zara
 
   10
-  Sajjad kaisi thi ghadi
+  Sajjad kaisi thi ghari
   Roti thi khud bint-e-Ali
   Jis dam yatimoṅ ne kaha
 # source_id: nohayonline:3124a3ba6bfe8c6c0fa2

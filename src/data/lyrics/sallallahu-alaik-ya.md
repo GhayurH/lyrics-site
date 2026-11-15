@@ -16,7 +16,7 @@ romanLyrics: |-
   1
   Aansu mere dete haiṅ tum ko sada Bibi
   Bechain dil hai mera Bibi
-  Qadmoṅ mein de do jagah Bibi
+  Qadmoṅ meiṅ de do jagah Bibi
   Marzi hai darkaar ya Marziya
   De do mujhe farsh-e-gham ka sila
   Shabbir ka tum ko hai waasta
@@ -28,7 +28,7 @@ romanLyrics: |-
   Ho haal dil ka samajhti tum
   Faryaad sun lo hamaari tum
   Kar dijiye hum pe apna karam
-  Dil mein rahe bas Husaini gham
+  Dil meiṅ rahe bas Husaini gham
   Sab dur ho jaae ranj o alam
   Tute diloṅ ka tum hi aasra
   Sallallahu alaik ya Fatimeh
@@ -49,7 +49,7 @@ romanLyrics: |-
   Hum par teri ye inaayat hai
   Alhamdulillah hai tera karam
   Kehlaae jaate haiṅ Husaini hum
-  Shabbir ka dil mein basa hai gham
+  Shabbir ka dil meiṅ basa hai gham
   Hum haiṅ azaadaar teri dua
   Sallallahu alaik ya Fatimeh
 
@@ -64,7 +64,7 @@ romanLyrics: |-
   Sallallahu alaik ya Fatimeh
 
   6
-  Karbobala mein bas luta hai tera hi ghar
+  Karbobala meiṅ bas luta hai tera hi ghar
   Pyaasa raha hai tera Sarwar
   Beaasra thi teri dukhtar
   Jis waqt chhinti thi sar se rida
@@ -74,7 +74,7 @@ romanLyrics: |-
   Sallallahu alaik ya Fatimeh
 
   7
-  Hai muntazir Zeeshan aur tera Taha
+  Hai muntazir Zishan aur tera Taha
   Aa jaae jald tera beta
   Dekhe taamir tera rauza
   Ho jaae ab jald un ka zuhur

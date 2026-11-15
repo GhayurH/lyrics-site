@@ -14,7 +14,7 @@ romanLyrics: |-
   Almadad ya Abbas
 
   Tere haathoṅ ka jo mil jaae sahaara Abbas
-  Phir jahaaṅ mein na rahe koi bhi pyaasa Abbas
+  Phir jahaaṅ meiṅ na rahe koi bhi pyaasa Abbas
 
   Aap ko pyaari bhatiji ki qasam hai Maula
   Na lage ab kisi bachchi ko tamaancha Abbas
@@ -33,7 +33,7 @@ romanLyrics: |-
 
   4
   Tum se dekha na gaya nok-e-sinaaṅ se manzar
-  Balwe mein sar hai khula Bint-e-Ali ka Abbas
+  Balwe meiṅ sar hai khula Bint-e-Ali ka Abbas
 
   5
   Sab ke parde ke muhaafiz ae Alamdaar-e-Haram

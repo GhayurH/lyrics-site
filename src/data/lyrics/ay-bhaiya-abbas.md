@@ -20,7 +20,7 @@ romanLyrics: |-
   Laut kar aaoge ye waada karo ya Abbas
 
   2
-  Main ne sab bachchoṅ se khaimoṅ mein kiya hai waada
+  Maiṅ ne sab bachchoṅ se khaimoṅ meiṅ kiya hai waada
   Paani laane ke liye nehr pe jaate haiṅ chacha
   Tum hi waade ko Sakina ke nibhaana Abbas
 
@@ -40,13 +40,13 @@ romanLyrics: |-
   Dekho wo paani liye aata hai pyaara Abbas
 
   6
-  Jis ghari khaime mein daakhil hue Shah-e-aalam
-  Bole Shabbir liye haathoṅ mein Ghazi ka alam
+  Jis ghari khaime meiṅ daakhil hue Shah-e-aalam
+  Bole Shabbir liye haathoṅ meiṅ Ghazi ka alam
   Chhor do aas Sakina nahiṅ zinda Abbas
 
   7
-  Khaimoṅ mein Majid o Mukhtar ajab tha aalam
-  Gird sab bachche the aur bich mein Ghazi ka alam
+  Khaimoṅ meiṅ Majid o Mukhtar ajab tha aalam
+  Gird sab bachche the aur bich meiṅ Ghazi ka alam
   Thi ye Zainab ki sada ae mere bhaiya Abbas
 # editorial_uncertainty: Stanza 3 Urdu jaari versus Roman jari and stanza 4 Urdu zaanuṅ versus Roman zaanu require audio/print. Urdu readings retained rather than silently replacing them.
 # source_id: nohayonline:ca8f83172b57bf912b69

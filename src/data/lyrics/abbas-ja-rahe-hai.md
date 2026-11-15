@@ -11,19 +11,19 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Bachche tarap rahe hain
-  Abbas ja rahe hain
+  Bachche tarap rahe haiṅ
+  Abbas ja rahe haiṅ
   Har Bibi ro rahi hai
-  Abbas ja rahe hain
+  Abbas ja rahe haiṅ
   Apne rida ko Zainab
   Haaye hasrat se dekhti hai
-  Abbas ja rahe hain
+  Abbas ja rahe haiṅ
 
   1
   Sukhe hue laboṅ par
   Bachchoṅ zabaṅ na phero
   Mashk o alam ko dekho
-  Kuchh der mein yahaṅ tak
+  Kuchh der meiṅ yahaṅ tak
   Khud nehr aa rahi hai
 
   2
@@ -42,13 +42,13 @@ romanLyrics: |-
 
   4
   Ek shor-e-al-atash hai
-  Phaila hua faza mein
-  Masroof hai dua mein
-  Kya sog Karbala mein
+  Phaila hua faza meiṅ
+  Masruf hai dua meiṅ
+  Kya sog Karbala meiṅ
   Umid aakhri hai
 
   5
-  Khaimoṅ mein shor-e-maatam
+  Khaimoṅ meiṅ shor-e-maatam
   Hone laga hai paiham
   Har aankh ho gayi nam
   Shaam-e-Gharibaṅ daaman
@@ -57,7 +57,7 @@ romanLyrics: |-
   6
   Zainab ke bazuoṅ ko
   Chuma tha jab Ali ne
-  Lamhaat-e-zindagi mein
+  Lamhaat-e-zindagi meiṅ
   Bazu bandheṅge mere
   Zainab samajh gayi hai
 

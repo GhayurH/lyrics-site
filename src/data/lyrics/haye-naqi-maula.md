@@ -16,8 +16,8 @@ romanLyrics: |-
   Maasum ke kaandhoṅ pe janaaza hai Naqi ka
   Khun rota hai jo chaahne waala hai Naqi ka
 
-  Pardes mein dhaaya gaya wo Kaaba-e-imaan
-  Duba hua is dard mein kunba hai Naqi ka
+  Pardes meiṅ dhaaya gaya wo Kaaba-e-imaan
+  Duba hua is dard meiṅ kunba hai Naqi ka
 
   1
   Phir ujre hai sadaat qayaamat ka hai manzar
@@ -40,7 +40,7 @@ romanLyrics: |-
   Zehra se to puchhe koi gham kya hai Naqi ka
 
   6
-  Kaise na andheroṅ mein jahaaṅ gharq ho saara
+  Kaise na andheroṅ meiṅ jahaaṅ gharq ho saara
   Hai nur hi duniya se jab uthta hai Naqi ka
 
   7

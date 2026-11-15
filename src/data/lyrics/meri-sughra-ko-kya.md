@@ -29,7 +29,7 @@ romanLyrics: |-
   Wo khaak pe mera Akbar
   Bebaazu sher-e-dilaawar
   Wo tukre Qasim-e-Muztar
-  Wo khun mein duba lashkar
+  Wo khun meiṅ duba lashkar
   Mera bichhar gaya har pyaara
   Mera ujar gaya ghar saara
   Mera koi nahiṅ raha
@@ -38,10 +38,10 @@ romanLyrics: |-
   Meri Sughra ko kya pata
 
   3
-  Main laakhoṅ mein huṅ tanha
-  Kai roz ka main huṅ pyaasa
+  Maiṅ laakhoṅ meiṅ huṅ tanha
+  Kai roz ka maiṅ huṅ pyaasa
   Pardesi Allah raasi
-  Ghurbat ka main huṅ maara
+  Ghurbat ka maiṅ huṅ maara
   Mera bichhar gaya har pyaara
   Mera ujar gaya ghar saara
   Mera koi nahiṅ raha
@@ -62,7 +62,7 @@ romanLyrics: |-
   Meri Sughra ko kya pata
 
   5
-  Yasrab mein jis bhaai ka
+  Yasrab meiṅ jis bhaai ka
   Wo dekh rahi hai rasta
   Zaalim ne us Akbar ka
   Barchhi se kaleja chheda
@@ -76,7 +76,7 @@ romanLyrics: |-
   6
   Mere qatl ki ab tayyari
   Tiroṅ ki baarish jaari
-  Khaimoṅ mein aah o zaari
+  Khaimoṅ meiṅ aah o zaari
   Beti ab meri baari
   Mera bichhar gaya har pyaara
   Mera ujar gaya ghar saara

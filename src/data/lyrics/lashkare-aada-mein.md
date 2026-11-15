@@ -15,7 +15,7 @@ romanLyrics: |-
 
   1
   Dekh kar andaaz-e-jang-e-Hazrat-e-Abbas ke
-  Aa gaye maidaan meiṅ Haidar Khaibari kehne lage
+  Aa gaye maidaaṅ meiṅ Haidar Khaibari kehne lage
 
   2
   Haath meiṅ Abbas ke chamki jo wo tegh-e-Haidari

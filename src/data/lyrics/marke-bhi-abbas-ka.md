@@ -11,7 +11,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Mar ke bhi Abbas ka saahil pe laasha reh gaya
-  Hashr tak qabze mein pyaase ke darya reh gaya
+  Hashr tak qabze meiṅ pyaase ke darya reh gaya
 
   1
   Fath karne waale jang-e-Karbala batlaaye to
@@ -27,7 +27,7 @@ romanLyrics: |-
 
   4
   Sun ke Akbar ki shahaadat ki khabar maaṅ ne kaha
-  Baad tere zindagi mein ab meri kya reh gaya
+  Baad tere zindagi meiṅ ab meri kya reh gaya
 # source_id: nohayonline:f7cfebcab895343adbd6
 # source_url: https://www.nohayonline.com/details_content.php?id=1106
 # raw_sha256: 14b5434e02400ce108f09927b5e21ffaa909e594e96c075ae949352465106acf

@@ -19,7 +19,7 @@ romanLyrics: |-
   Hai pehli saare shahidoṅ ki maatami Zainab
 
   2
-  Gham-e-Husain mein hi zindagi tamaam hui
+  Gham-e-Husain meiṅ hi zindagi tamaam hui
   Na apne Aun o Muhammad ko ro saki Zainab
 
   3

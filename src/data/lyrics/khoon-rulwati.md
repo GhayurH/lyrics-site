@@ -15,29 +15,29 @@ romanLyrics: |-
   Khun rulwaati rahe gi zindagi bhar Karbala
 
   1
-  Maut ki aaghosh mein bete ne wo angraayi li
+  Maut ki aaghosh meiṅ bete ne wo angraayi li
   Saath jis angraayi ke Sarwar ki binaayi gayi
-  Khun mein tar Akbar hue ke khun mein tar Karbala
+  Khun meiṅ tar Akbar hue ke khun meiṅ tar Karbala
 
   2
   Beh gaya paani to phir saari ummideṅ reh gayiṅ
-  Hasrateṅ sab sher ki mitti mein mil kar reh gayiṅ
+  Hasrateṅ sab sher ki mitti meiṅ mil kar reh gayiṅ
   Warna Ghaazi ko thi kuze ke baraabar Karbala
 
   3
-  Nafs-e-dauraaṅ ruk gayi aur aasmaaṅ sakte mein hai
-  Aur udhar khaime ke dar par ek maaṅ sajde mein hai
+  Nafs-e-dauraaṅ ruk gayi aur aasmaaṅ sakte meiṅ hai
+  Aur udhar khaime ke dar par ek maaṅ sajde meiṅ hai
   Bezabaaṅ ke saath hai paika ki zad par Karbala
 
   4
   Haaye wo ek naatawaaṅ aur aahani tauq-e-giraaṅ
-  Aur wo bimaar ke talwoṅ mein kaante al-amaaṅ
+  Aur wo bimaar ke talwoṅ meiṅ kaante al-amaaṅ
   Ro rahi hai paa-e-Aabid se lipat kar Karbala
 
   5
   Shah-e-diṅ tiroṅ pe thehra hai tera jism-e-figaar
   Zer-e-khanjar thi magar yuṅ mahv-e-zikr-e-Kirdigaar
-  Aa gayi hai tere sajde mein simat kar Karbala
+  Aa gayi hai tere sajde meiṅ simat kar Karbala
 
   6
   Har nafas hai ye dua apni azaadaari rahe

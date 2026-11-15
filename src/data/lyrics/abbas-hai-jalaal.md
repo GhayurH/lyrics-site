@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Ae Shamiyoṅ Furat ko lazim hai chhorna
-  Abbas hai jalal mein rasta na rokna
+  Abbas hai jalal meiṅ rasta na rokna
 
   1
   Sher-e-Khuda ka sher hai salar-e-fauj hai
@@ -21,13 +21,13 @@ romanLyrics: |-
 
   2
   Haider ki har sifaat ka aaina-dar hai
-  Betegh apni zaat mein khud Zulfiqar hai
+  Betegh apni zaat meiṅ khud Zulfiqar hai
   Tum iske saamne kabhi uncha na bolna
 
   3
   Jab chahe chhin sakta hai tum se hayat ko
   Ulte misal-e-aas ki ye kainat ko
-  Maidan mein ise dam-e-paikar dekhna
+  Maidan meiṅ ise dam-e-paikar dekhna
 
   4
   Khat khinch kar zamin pe lashkar ko rok de
@@ -35,7 +35,7 @@ romanLyrics: |-
   Aata hai isko waqt ke Khaibar ko torna
 
   5
-  Chaahe to ek mashk mein darya utaar le
+  Chaahe to ek mashk meiṅ darya utaar le
   Rukh su-e-khaimagah samandar ka mor de
   Aata hai isko sang se pani nichorna
 

@@ -21,7 +21,7 @@ romanLyrics: |-
   Qabr-e-Nabi pe Zainab-e-muztar ka tha bayaaṅ
 
   2
-  Nana main kuchh hi dur khari dekhti rahi
+  Nana maiṅ kuchh hi dur khari dekhti rahi
   Sukhe gale pe bhai ke chalti rahi chhuri
   Naiza laiṅ dikhaa ke daraate the nana jaaṅ
 
@@ -37,16 +37,16 @@ romanLyrics: |-
 
   5
   Nana hamare Aun o Muhammad nahiṅ rahe
-  Nusrat mein Shaah-e-waala ki donoṅ hi mar gaye
+  Nusrat meiṅ Shaah-e-waala ki donoṅ hi mar gaye
   Tuta hua hai dil pe masaaib ka aasmaaṅ
 
   6
   Paala tha jis ko naazoṅ se athaarah saal tak
-  Nana lahu mein dub gaye us ke baal tak
-  Sine mein aise maari thi zaalim ne barchhiyaaṅ
+  Nana lahu meiṅ dub gaye us ke baal tak
+  Sine meiṅ aise maari thi zaalim ne barchhiyaaṅ
 
   7
-  Sajjad ke siwa koi mardoṅ mein tha nahiṅ
+  Sajjad ke siwa koi mardoṅ meiṅ tha nahiṅ
   Bahr-e-madad bulaati kise khwaahar-e-haziṅ
   Abbas bawafa bhi nigaahoṅ se tha nihaaṅ
 
@@ -57,13 +57,13 @@ romanLyrics: |-
 
   9
   Ek ek kar ke saare jalaaye gaye qayaam
-  Us mein para hua tha mera waqt ka Imam
+  Us meiṅ para hua tha mera waqt ka Imam
   Bekas yatim Abid bimaar naatawaaṅ
 
   10
   Qabr-e-Nabi laraz gayi Zainab ke sun ke bain
   Kaise mile ga Aamir o Farhan dil ko chain
-  Lagta hai dil mein tut gayi dard ki sinaaṅ
+  Lagta hai dil meiṅ tut gayi dard ki sinaaṅ
 # source_id: nohayonline:3e646a66a6e61ff379b0
 # source_url: https://www.nohayonline.com/details_content.php?id=3114
 # raw_sha256: 3e9e94794d0dd0d83caa27f2421393180803a059ac435bbb8a33c190e5101274

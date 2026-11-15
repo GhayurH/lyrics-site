@@ -12,26 +12,26 @@ aliases: []
 published: true
 romanLyrics: |-
   Behen ne ro ke pukaara mujhe sahaara do
-  Main bediyaar huṅ bhaiya mujhe sahaara do
+  Maiṅ bediyaar huṅ bhaiya mujhe sahaara do
 
   1
-  Mera khayaal karo main asir hoti huṅ
-  Main aaj reh gayi tanha mujhe sahaara do
+  Mera khayaal karo maiṅ asir hoti huṅ
+  Maiṅ aaj reh gayi tanha mujhe sahaara do
 
   2
   Tumhaare baad bahut zulm dhaaye aadaa ne
-  Main thak gayi huṅ zara sa mujhe sahaara do
+  Maiṅ thak gayi huṅ zara sa mujhe sahaara do
 
   3
   Na sar pe baap ka saaya na maaṅ na bhai Hasan
   Tum hi ho mera sahaara mujhe sahaara do
 
   4
-  Samajh mein kuchh nahiṅ aata ke kya karuṅ aakhir
+  Samajh meiṅ kuchh nahiṅ aata ke kya karuṅ aakhir
   Tarap rahi hai Sakina mujhe sahaara do
 
   5
-  Tumheṅ qubul na the meri aaṅkh mein aansu
+  Tumheṅ qubul na the meri aaṅkh meiṅ aansu
   Bani huṅ gard-e-saraapa mujhe sahaara do
 
   6
@@ -39,7 +39,7 @@ romanLyrics: |-
   Bichha hai aag ka darya mujhe sahaara do
 
   7
-  Tumhaare khun mein mushkil kushaai shaamil hai
+  Tumhaare khun meiṅ mushkil kushaai shaamil hai
   Behen ki baat hai bhaiya mujhe sahaara do
 
   8
@@ -51,7 +51,7 @@ romanLyrics: |-
   Safar tamaam hai mera mujhe sahaara do
 
   10
-  Surur laasha-e-besar tarap gaya ran mein
+  Surur laasha-e-besar tarap gaya ran meiṅ
   Sada jab aayi ke bhaiya mujhe sahaara do
 # source_id: nohayonline:c7934b8375b590197182
 # source_url: https://www.nohayonline.com/details_content.php?id=3702

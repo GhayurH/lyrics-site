@@ -17,22 +17,22 @@ romanLyrics: |-
   1
   Ye chaand aur ye suraj ye gehre samandar
   Ye haiṅ kashtiyaṅ jo samandar ke andar
-  Ye jo bhi jahaaṅ mein jahaaṅ chal raha hai
+  Ye jo bhi jahaaṅ meiṅ jahaaṅ chal raha hai
 
   2
   Haiṅ wal lail zulfeṅ to walfajr maatha
   Haiṅ walnur aaṅkheṅ to washshams chehra
-  Jo Quraan mein Rab ne qasida parha hai
+  Jo Quraan meiṅ Rab ne qasida parha hai
 
   3
   Jo mashriq o maghrib bana kar dikha de
-  Jo ik mard ko pal mein aurat bana de
+  Jo ik mard ko pal meiṅ aurat bana de
   Khuda ke siwa kis ka ye mojiza hai
 
   4
   The hairaan sahaabi ye kya maajra hai
   Ye kaisa fariza ada ho raha hai
-  Nabi jo ye masjid mein naaqa bana hai
+  Nabi jo ye masjid meiṅ naaqa bana hai
 
   5
   Wo lehje ki narmi fasaahat balaaghat
@@ -42,11 +42,11 @@ romanLyrics: |-
   6
   Ye hur o malaaik ye baaghaat mewe
   Ye qasr-e-zamurrad ye nehreṅ ye chashme
-  Ye jannat mein jo kuchh sajaaya gaya hai
+  Ye jannat meiṅ jo kuchh sajaaya gaya hai
 
   7
   Nabi ne kaha haiṅ Hasan aap aise
-  Jo jhule mein bhi lauh-e-mahfuz parh le
+  Jo jhule meiṅ bhi lauh-e-mahfuz parh le
   Qalam wo qalam jis ka maalik Khuda hai
 
   8

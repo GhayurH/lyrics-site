@@ -1,6 +1,6 @@
 ---
 title: "آ ہوش میں سجاد کے گھر جل گئے سارے"
-alternateTitle: "Aa Hosh Mein Sajjad"
+alternateTitle: "Aa Hosh Meiṅ Sajjad"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Aa hosh mein Sajjad ke ghar jal gaye saare
+  Aa hosh meiṅ Sajjad ke ghar jal gaye saare
   Sab tut gaye Zainab-e-muztar ke sahare
 
   1
@@ -23,20 +23,20 @@ romanLyrics: |-
   Sadqe tere Shabbir Ibrahim pukare
 
   3
-  Baithi hai yatimoṅ ko jale khaime mein le kar
+  Baithi hai yatimoṅ ko jale khaime meiṅ le kar
   Sayyidaaniyaaṅ tanha hai ke waaris gaye maare
 
   4
-  Main aakhri rukhsat ke liye aayi huṅ bhaiya
+  Maiṅ aakhri rukhsat ke liye aayi huṅ bhaiya
   Ghazi ko pukaro hameṅ mehmil se utare
 
   5
-  Bhaiya tere baazu mujhe raste mein mile haiṅ
+  Bhaiya tere baazu mujhe raste meiṅ mile haiṅ
   Ye kya hai yahaaṅ tum ho wahaaṅ baazu tumhare
 
   6
   Haathoṅ pe utha ke kaha Shabbir ne logoṅ
-  Baccha mera dam todta hai pyaas ke maare
+  Baccha mera dam torta hai pyaas ke maare
 
   7
   Khat likhti hai shikwoṅ ke use kaun bataaye
@@ -47,7 +47,7 @@ romanLyrics: |-
   Shabbir chale khaime se rone lage saare
 
   9
-  Likha hai mujhe sadqe mein Asghar ke bula lo
+  Likha hai mujhe sadqe meiṅ Asghar ke bula lo
   Dam ghutta hai bhaiya mere tanhaai ke maare
 
   10
@@ -56,7 +56,7 @@ romanLyrics: |-
 
   11
   Shabbir lahad khod ke ye soch rahe haiṅ
-  Ab kis se kahe qabr mein Asghar ko utaare
+  Ab kis se kahe qabr meiṅ Asghar ko utaare
 
   12
   Baba mujhe ek pal ko hi sine se laga lo

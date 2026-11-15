@@ -27,12 +27,12 @@ romanLyrics: |-
   Dubta dil saahil pe pukaara
 
   3
-  Dard ka manzar khuṅ mein bhara hai manka dhala hai
+  Dard ka manzar khuṅ meiṅ bhara hai manka dhala hai
   Nanha mujaahid hai
   Tir ki zad par nanha dulaara
 
   4
-  Khaime hatte to taaat-e-Shah mein sar bhi jhukaaya
+  Khaime hatte to taaat-e-Shah meiṅ sar bhi jhukaaya
   Baazu kataaya hai
   Saqqa hai saahil ka kinaara
 
@@ -42,9 +42,9 @@ romanLyrics: |-
   Haal hai kya Zainab ka khudaara
 
   6
-  Ban mein thi Zehra ki sada ye kunba ujra
+  Ban meiṅ thi Zehra ki sada ye kunba ujra
   Bikhri dunya hai
-  Koi nahiṅ dunya mein hamaara
+  Koi nahiṅ dunya meiṅ hamaara
 
   7
   Aun o Muhammad o Qasim o Akbar bhai nahiṅ hai

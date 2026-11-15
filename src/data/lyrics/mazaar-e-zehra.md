@@ -12,44 +12,44 @@ aliases: []
 published: true
 romanLyrics: |-
   Baad-e-tadfin Faatema Zehra
-  Shor o ghul ye Madine mein uthaa
+  Shor o ghul ye Madine meiṅ uthaa
   Kiuṅ Ali ne hameṅ na bulwaaya
   Kiuṅ akele hi un ko dafnaaya
   Zillateṅ hum na ye sambhaaleṅ ge
   Laash ko khod kar nikaaleṅ ge
   Jab Ali ne suna to ghaiz aaya
   Surkh aankheṅ thi zard tha chehra
-  Muddatoṅ se rakha hua ghar mein
+  Muddatoṅ se rakha hua ghar meiṅ
   Aaj jangi libaas pehna hai
   Khun Marhab ka hai piya jis ne
   Aaj wo Zulfiqaar uthi hai
   Al amaan al hafiz
 
   Ye bole khainch ke talwaar faateh-e-Khaibar
-  Kisi mein dam hai to aaye mazaar-e-Zehra par
+  Kisi meiṅ dam hai to aaye mazaar-e-Zehra par
 
   1
-  Rasan gale mein pari sabr kar liya main ne
-  Batul roti rahi sabr kar liya main ne
-  Ye had hai aag lagi sabr kar liya main ne
+  Rasan gale meiṅ pari sabr kar liya maiṅ ne
+  Batul roti rahi sabr kar liya maiṅ ne
+  Ye had hai aag lagi sabr kar liya maiṅ ne
   Magar na aaj bacheṅ ge tumhaare jism pe sar
-  Kisi mein dam hai to aaye mazaar-e-Zehra par
+  Kisi meiṅ dam hai to aaye mazaar-e-Zehra par
   Al amaan al hafiz
 
   2
-  Jahaaṅ mein ab bhi shah-e-Zulfiqaar zinda hai
+  Jahaaṅ meiṅ ab bhi shah-e-Zulfiqaar zinda hai
   Sar-e-Batul ka ye taajdaar zinda hai
   Khuda ke din ka ik zimmedaar zinda hai
-  Abhi jihaad ke bhula huṅ main jauhar
-  Kisi mein dam hai to aaye mazaar-e-Zehra par
+  Abhi jihaad ke bhula huṅ maiṅ jauhar
+  Kisi meiṅ dam hai to aaye mazaar-e-Zehra par
   Al amaan al hafiz
 
   3
-  Zamaana jaan le ik baar phir Ali huṅ main
-  Nabi ka nafs huṅ Allah ka wali huṅ main
-  Ke raaz-e-makhfi bhi aur aayat-e-jali huṅ main
-  Main hi huṅ qaatil-e-Marhab o qaatil-e-Antar
-  Kisi mein dam hai to aaye mazaar-e-Zehra par
+  Zamaana jaan le ik baar phir Ali huṅ maiṅ
+  Nabi ka nafs huṅ Allah ka wali huṅ maiṅ
+  Ke raaz-e-makhfi bhi aur aayat-e-jali huṅ maiṅ
+  Maiṅ hi huṅ qaatil-e-Marhab o qaatil-e-Antar
+  Kisi meiṅ dam hai to aaye mazaar-e-Zehra par
   Al amaan al hafiz
 
   4
@@ -57,7 +57,7 @@ romanLyrics: |-
   Rasul zaadi giri khaak par Ali chup tha
   Shahid ho gaya Mohsin magar Ali chup tha
   Chali jo tegh hamaari to aaj barseṅ ge sar
-  Kisi mein dam hai to aaye mazaar-e-Zehra par
+  Kisi meiṅ dam hai to aaye mazaar-e-Zehra par
   Al amaan al hafiz
 
   5
@@ -65,7 +65,7 @@ romanLyrics: |-
   Nabi ki beti ke ghar ko jalaa diya tum ne
   Qadam jo ek bhi aage barhaa diya tum ne
   Na daal paaoge bewaaoṅ ke sar pe ik chaadar
-  Kisi mein dam hai to aaye mazaar-e-Zehra par
+  Kisi meiṅ dam hai to aaye mazaar-e-Zehra par
   Al amaan al hafiz
 
   6
@@ -73,7 +73,7 @@ romanLyrics: |-
   Nabi ki beti ko naaraaz aah kar daala
   Hamaara hansta hua ghar tabaah kar daala
   Tarap ke reh gaye bachche guzar gayi maadar
-  Kisi mein dam hai to aaye mazaar-e-Zehra par
+  Kisi meiṅ dam hai to aaye mazaar-e-Zehra par
   Al amaan al hafiz
 
   7
@@ -81,23 +81,23 @@ romanLyrics: |-
   Ke chhote bachchoṅ ko maaṅ se juda kiya tum ne
   Zara sa socho to wallah kya kiya tum ne
   Sadaaeṅ dete haiṅ maadar ko aah ro ro kar
-  Kisi mein dam hai to aaye mazaar-e-Zehra par
+  Kisi meiṅ dam hai to aaye mazaar-e-Zehra par
   Al amaan al hafiz
 
   8
   Na dekhi aisi jahaaṅ ne Ali ki phir tasvir
-  Ke ashk aankhoṅ mein Haidar ke haath mein shamshir
-  Pari thi paaoṅ mein Ghaazi ke sabr ki zanjir
+  Ke ashk aankhoṅ meiṅ Haidar ke haath meiṅ shamshir
+  Pari thi paaoṅ meiṅ Ghaazi ke sabr ki zanjir
   Magar ye kehte the har ek se sher ke tewar
-  Kisi mein dam hai to aaye mazaar-e-Zehra par
+  Kisi meiṅ dam hai to aaye mazaar-e-Zehra par
   Al amaan al hafiz
 
   9
   Ajib Aini Madine ka aah manzar tha
   Lahad pe Zehra ki biphra hua Ghazanfar tha
-  Lahu mein josh-e-shujaat malaal dil par tha
-  Fiza mein kehti thi Aamir ye tegh lehraa kar
-  Kisi mein dam hai to aaye mazaar-e-Zehra par
+  Lahu meiṅ josh-e-shujaat malaal dil par tha
+  Fiza meiṅ kehti thi Aamir ye tegh lehraa kar
+  Kisi meiṅ dam hai to aaye mazaar-e-Zehra par
   Al amaan al hafiz
 # source_id: nohayonline:e79ac59ce38c37bcd023
 # source_url: https://www.nohayonline.com/details_content.php?id=1282

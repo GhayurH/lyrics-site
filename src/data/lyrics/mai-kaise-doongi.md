@@ -1,6 +1,6 @@
 ---
 title: "میں کیسے دوں گی یتیموں کو حوصلہ بابا"
-alternateTitle: "Main Kaise Duṅgi"
+alternateTitle: "Maiṅ Kaise Duṅgi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: ["Mai Kaise Doongi"]
 published: true
 romanLyrics: |-
-  Main kaise duṅgi yatimoṅ ko hausla Baba
+  Maiṅ kaise duṅgi yatimoṅ ko hausla Baba
   Bujha rahi hai diye Shaam ki hawa Baba
 
   1
@@ -26,7 +26,7 @@ romanLyrics: |-
 
   3
   Tamaam din wo manaazir nazar ne dekhe haiṅ
-  Wo dekho ganj-e-shahidaaṅ mein kitne laashe haiṅ
+  Wo dekho ganj-e-shahidaaṅ meiṅ kitne laashe haiṅ
   Utha ke laashe mera bhaai thak gaya Baba
 
   4
@@ -35,32 +35,32 @@ romanLyrics: |-
   Baghair dhaar ka khanjar tha aur gala Baba
 
   5
-  Main haath malti rahi Shah pe chal gaya khanjar
+  Maiṅ haath malti rahi Shah pe chal gaya khanjar
   Hai mere bhaai ka laasha bhi jalti reti par
   Kafan bhi bhaai ko mere nahiṅ mila Baba
 
   6
   Azaaṅ jo di Ali Akbar ne parh ke Bismillah
-  Tarap tarap ke main roi huṅ subh-e-Ashura
-  Main jaanti thi bichharta hai mah laqa Baba
+  Tarap tarap ke maiṅ roi huṅ subh-e-Ashura
+  Maiṅ jaanti thi bichharta hai mah laqa Baba
 
   7
-  Janaaza Amma ka shab mein uthaaya tha tum ne
-  Main roi thi to gale se lagaaya tha tum ne
-  Tumhaari beti hai maqtal mein berida Baba
+  Janaaza Amma ka shab meiṅ uthaaya tha tum ne
+  Maiṅ roi thi to gale se lagaaya tha tum ne
+  Tumhaari beti hai maqtal meiṅ berida Baba
 
   8
-  Chhupa lo apni aba mein ke thak gai huṅ main
-  Asir ho ke sue Shaam jaa rahi huṅ main
+  Chhupa lo apni aba meiṅ ke thak gai huṅ maiṅ
+  Asir ho ke sue Shaam jaa rahi huṅ maiṅ
   Safar tawil hai dushwaar raasta Baba
 
   9
   Bacha ke sholoṅ se Aabid ko laai huṅ Baba
-  Main ghamzada huṅ falak ki sataai huṅ Baba
+  Maiṅ ghamzada huṅ falak ki sataai huṅ Baba
   Kaleja dard se Zainab ka phat gaya Baba
 
   10
-  Suna hai Shaam-e-gharibaaṅ mein jab Ali aae
+  Suna hai Shaam-e-gharibaaṅ meiṅ jab Ali aae
   Ura ke khaak wo Farhan karte the haae
   Rehaan Azmi har su thi ek sada Baba
 # source_id: nohayonline:a5724dbe961a9b148148

@@ -11,15 +11,15 @@ published: true
 reciter: "Raza Ali Khan"
 romanLyrics: |-
   Roya kiya jo pyaas se Asghar tamaam raat
-  Tha khaima-e-Husain mein mahshar tamaam raat
+  Tha khaima-e-Husain meiṅ mahshar tamaam raat
 
   1
-  Pyaasoṅ ke ishtiyaaq mein maanind-e-chashm-e-tar
-  Chhalka kiya bahisht mein Kausar tamaam raat
+  Pyaasoṅ ke ishtiyaaq meiṅ maanind-e-chashm-e-tar
+  Chhalka kiya bahisht meiṅ Kausar tamaam raat
 
   2
   Ro ro ke Sakina kehti thi baba ki khair ho
-  Main dekhti huṅ khwaab mein khanjar tamaam raat
+  Maiṅ dekhti huṅ khwaab meiṅ khanjar tamaam raat
 
   3
   Baba pe sar kataayeṅge tum dudh bakhsh do
@@ -30,12 +30,12 @@ romanLyrics: |-
   Sadqe utaarti rahi maadar tamaam raat
 
   5
-  Kehti thi Bano dasht mein ajab haalat hai
-  Dar dar gaya hai khwaab mein Asghar tamaam raat
+  Kehti thi Bano dasht meiṅ ajab haalat hai
+  Dar dar gaya hai khwaab meiṅ Asghar tamaam raat
 
   6
-  Sona tha kal jo god mein turbat ki chain se
-  Soye na maaṅ ki god mein Asghar tamaam raat
+  Sona tha kal jo god meiṅ turbat ki chain se
+  Soye na maaṅ ki god meiṅ Asghar tamaam raat
 
   7
   Zainab se Shaah kehte the kal qatl hoṅge hum

@@ -15,7 +15,7 @@ romanLyrics: |-
 
   1
   Khabar to le koi Abbas kiuṅ nahiṅ aaye
-  Rasul zaadi ki ran mein yehi duhaai hai
+  Rasul zaadi ki ran meiṅ yehi duhaai hai
 
   2
   Hai muntazir dar-e-khaima pe tashna lab bachche

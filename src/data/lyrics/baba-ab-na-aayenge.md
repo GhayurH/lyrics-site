@@ -19,7 +19,7 @@ romanLyrics: |-
   1
   Shaam-e-gharibaaṅ aayi hai
   Kaisi udaasi chhaayi hai
-  Bikhre haiṅ ran mein laashe
+  Bikhre haiṅ ran meiṅ laashe
   Kis jaa mera bhai hai
   Ke dhundte hum reh jaayeṅge
   Bali Sakina so ja
@@ -33,10 +33,10 @@ romanLyrics: |-
   Bali Sakina so ja
 
   3
-  Kis mein itni himmat thi
-  Ke aag lagaaye khaimoṅ mein
+  Kis meiṅ itni himmat thi
+  Ke aag lagaaye khaimoṅ meiṅ
   Ik bhai ke marte hi
-  Aada aaye khaimoṅ mein
+  Aada aaye khaimoṅ meiṅ
   Ab khaime jal jaayeṅge
   Bali Sakina so ja
 
@@ -44,13 +44,13 @@ romanLyrics: |-
   Nana ke diṅ ki khaatir
   Ranj o gham ye sehna hai
   Saare kunbe ko le kar
-  Qaid mein hum ko rehna hai
+  Qaid meiṅ hum ko rehna hai
   Hum qaidi ban jaayeṅge
   Bali Sakina so ja
 
   5
   Rote hue baba keh kar
-  Ran mein jab tum jaaogi
+  Ran meiṅ jab tum jaaogi
   Sun kar aawaaz-e-Sarwar
   Laashe ko tum paaogi
   Tum ko gham tarpaayeṅge

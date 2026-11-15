@@ -28,8 +28,8 @@ romanLyrics: |-
   Aaya qarib Shiriṅ ka ghar haaye haaye haaye
 
   3
-  Ek hashr sa bapa hai dil-e-sogvaar mein
-  Zainab kise bulaaye bhala is dayaar mein
+  Ek hashr sa bapa hai dil-e-sogvaar meiṅ
+  Zainab kise bulaaye bhala is dayaar meiṅ
   Baaba hai na bhaai na pisar haaye haaye haaye
 
   4
@@ -39,7 +39,7 @@ romanLyrics: |-
 
   5
   Kitne sukuṅ se hum ne kiya tai ye raasta
-  Zainab ne tis ghantoṅ mein tai ye safar kiya
+  Zainab ne tis ghantoṅ meiṅ tai ye safar kiya
   Beparda thaame qalb o jigar haaye haaye haaye
 
   6

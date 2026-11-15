@@ -37,16 +37,16 @@ romanLyrics: |-
 
   4
   Maaṅ hai rasan basta sar tera sinaaṅ par
-  Balwa-e-aada mein laaya hai muqaddar
+  Balwa-e-aada meiṅ laaya hai muqaddar
   Ae mere pyaare nok-e-sinaaṅ se
-  Dekh le maaṅ teri hai balwe mein khule sar
+  Dekh le maaṅ teri hai balwe meiṅ khule sar
   Ae jaan Ali Akbar
 
   5
   Beta Ali Akbar maadar ka hai waada
   Sog manaauṅ gi taa umr tumhaara
-  Ab na piyuṅ gi thanda main paani
-  Ab na main baithuṅ gi kabhi saaye mein jaa kar
+  Ab na piyuṅ gi thanda maiṅ paani
+  Ab na maiṅ baithuṅ gi kabhi saaye meiṅ jaa kar
   Ae jaan Ali Akbar
 
   6

@@ -37,7 +37,7 @@ romanLyrics: |-
 
   5
   Na hui himmat kabhi dushman ki aaye Karbala
-  Hai khat-e-Abbas mein ab bhi asar Abbas ka
+  Hai khat-e-Abbas meiṅ ab bhi asar Abbas ka
   Hazrat-e-Abbas maula Hazrat-e-Abbas
 
   6
@@ -47,12 +47,12 @@ romanLyrics: |-
 
   7
   Gar karo waada kisi se us ko pura bhi karo
-  Chaahne waaloṅ mein bhi to hai asar Abbas ka
+  Chaahne waaloṅ meiṅ bhi to hai asar Abbas ka
   Hazrat-e-Abbas maula Hazrat-e-Abbas
 
   8
   Keh do mujh ko bhaai bas ek baar ae bhaai mere
-  Bole Sarwar god mein le kar ye sar Abbas ka
+  Bole Sarwar god meiṅ le kar ye sar Abbas ka
   Hazrat-e-Abbas maula Hazrat-e-Abbas
 
   9

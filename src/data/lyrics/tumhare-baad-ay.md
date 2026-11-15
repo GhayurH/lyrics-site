@@ -15,7 +15,7 @@ romanLyrics: |-
   Ali ne alwida bola to boli betiyaṅ ro kar
   Baba baba baba
   Tumhaare baad ae baba jiyeṅ gi betiyaṅ kaise
-  Kafan mein dekh kar chehra jiyeṅ gi betiyaṅ kaise
+  Kafan meiṅ dekh kar chehra jiyeṅ gi betiyaṅ kaise
 
   1
   Khuda rakhe salaamat betiyoṅ par baap ka saaya
@@ -29,7 +29,7 @@ romanLyrics: |-
 
   3
   Abhi ammaṅ ka gham bhuli nahiṅ Kulsum aur Zainab
-  Chale jaaoge tum bhi ghar se ae baba kafan mein jab
+  Chale jaaoge tum bhi ghar se ae baba kafan meiṅ jab
   Na tum hoge na maaṅ Zehra jiyeṅ gi betiyaṅ kaise
 
   4
@@ -48,7 +48,7 @@ romanLyrics: |-
   Utha kar gham yatimi ka jiyeṅ gi betiyaṅ kaise
 
   7
-  Ali ka aakhri saansoṅ mein wo Abbaas se kehna
+  Ali ka aakhri saansoṅ meiṅ wo Abbaas se kehna
   Mera chehra ho meri betiyoṅ ke saamne rehna
   Mujhe ye fikr hai beta jiyeṅ gi betiyaṅ kaise
 

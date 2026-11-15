@@ -22,7 +22,7 @@ romanLyrics: |-
   2
   Raasta takti hui mar jaayegi behna
   Tere bina ab nahiṅ ji paayegi behna
-  Seh nahiṅ sakti main judaai
+  Seh nahiṅ sakti maiṅ judaai
 
   3
   Baithi hui dar pe kabhi karti ye nauha
@@ -30,12 +30,12 @@ romanLyrics: |-
   Koi khabar bhi nahiṅ aayi
 
   4
-  Phirta hai in aankhoṅ mein ab tak tera chehra
+  Phirta hai in aankhoṅ meiṅ ab tak tera chehra
   Ek bhi pal aisa nahiṅ guzra hai bhaiya
   Jab ke teri yaad na aayi
 
   5
-  Main to har ek waqt tere gham mein huṅ roti
+  Maiṅ to har ek waqt tere gham meiṅ huṅ roti
   Mujh ko mere bhai khabar hi nahiṅ hoti
   Kab hua din raat kab aayi
 

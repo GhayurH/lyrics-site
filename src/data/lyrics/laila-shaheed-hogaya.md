@@ -22,20 +22,20 @@ romanLyrics: |-
   2
   Laila sab hasratoṅ ke janaaze nikal gaye
   Hathyaar saare Akbar-e-mahru pe chal gaye
-  Sehre ke phul khun ki dhaaroṅ mein dhal gaye
+  Sehre ke phul khun ki dhaaroṅ meiṅ dhal gaye
   Neze se chhid gaya tere farzand ka jigar
 
   3
   Laila hamaara mannatoṅ waala guzar gaya
   Dunya hamaare chain ki barbaad kar gaya
-  Chehra wo chaand se bhi hasiṅ khuṅ mein bhar gaya
+  Chehra wo chaand se bhi hasiṅ khuṅ meiṅ bhar gaya
   Ab bechiraagh ho gaya Laila hamaara ghar
 
   4
   Gham se gharib baap ka dil paash paash hai
   Binaai jaa chuki hai pisar ki talaash hai
-  Narghe mein ahl-e-zulm ke bete ki laash hai
-  Bas mein hamaara dil hai na qaabu mein hai nazar
+  Narghe meiṅ ahl-e-zulm ke bete ki laash hai
+  Bas meiṅ hamaara dil hai na qaabu meiṅ hai nazar
 
   5
   Kuchh rahm mere haal pe khaata nahiṅ koi

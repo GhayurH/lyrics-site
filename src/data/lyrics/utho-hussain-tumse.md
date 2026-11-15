@@ -14,25 +14,25 @@ romanLyrics: |-
   Utho Husain tum se bahan milne aayi hai
   Mayyat nahiṅ to qabr gale se lagaayi hai
 
-  Ek bekasi faza-e-haqiqat mein chhaayi hai
+  Ek bekasi faza-e-haqiqat meiṅ chhaayi hai
   Jangal pasand aa gaya basti basaayi hai
-  Khushbu lahu ki khaak ke zarroṅ mein paayi hai
-  Phir Karbala se qaid mein taqdir laayi hai
+  Khushbu lahu ki khaak ke zarroṅ meiṅ paayi hai
+  Phir Karbala se qaid meiṅ taqdir laayi hai
   Mayyat nahiṅ to qabr gale se lagaayi hai
 
   1
-  Duba hua lahu mein hai maghrib ka aaftaab
+  Duba hua lahu meiṅ hai maghrib ka aaftaab
   Har zarra Karbala ka hai dunya-e-inqilaab
-  Laila ka chaand aur wo zulfoṅ mein pech o taab
-  Sine mein zakhm le gaya ujra hua shabaab
+  Laila ka chaand aur wo zulfoṅ meiṅ pech o taab
+  Sine meiṅ zakhm le gaya ujra hua shabaab
   Qaatil ne dil ko dekh ke barchhi lagaayi hai
 
   2
   Ujri hui zamiṅ hai to benur aasmaaṅ
   Kab khatm dekho hota hai Zainab ka imtihaaṅ
   Sunte haiṅ khul gayi thi muqaddar se resmaaṅ
-  Baazu mein aur gale mein haiṅ ubhre hue nishaaṅ
-  Kya jaane kitni qaid mein taklif uthaayi hai
+  Baazu meiṅ aur gale meiṅ haiṅ ubhre hue nishaaṅ
+  Kya jaane kitni qaid meiṅ taklif uthaayi hai
 
   3
   Jo dil ko taaza karta hai ban bhi nahiṅ mila
@@ -44,7 +44,7 @@ romanLyrics: |-
   4
   Mushkil bahut thi raah magar kaam kar gaye
   Maaṅ dekhti thi god ke paale kidhar gaye
-  Ek daagh dil mein chhor diya aur guzar gaye
+  Ek daagh dil meiṅ chhor diya aur guzar gaye
   Jhula bhi khatm ho gaya Asghar bhi mar gaye
   Bachche ki qabr maaṅ ne gale se lagaayi hai
 
@@ -59,13 +59,13 @@ romanLyrics: |-
   Ujre hue qayaam ka baaqi nahiṅ nishaaṅ
   Hadd-e-tasawwuraat se bhi kho gaye makaaṅ
   Asghar hai ab na pyaas se sukhi hui zabaaṅ
-  Nanhi lahad ko dhundti phirti hai ran mein maaṅ
+  Nanhi lahad ko dhundti phirti hai ran meiṅ maaṅ
   Jo bach gaye haiṅ ashk wo turbat pe laayi hai
 
   7
   Mashkiza apne saath fidaayi liye hue
-  Dil mein bahan ki yaad ko bhai liye hue
-  Qabze mein apne saath khudaayi liye hue
+  Dil meiṅ bahan ki yaad ko bhai liye hue
+  Qabze meiṅ apne saath khudaayi liye hue
   Abbas so rahe haiṅ taraayi liye hue
   Haibat Ali ke sher ki darya pe chhaayi hai
 
@@ -74,7 +74,7 @@ romanLyrics: |-
   Qasim ki qabr hai kahiṅ Asghar ki qabr hai
   Bhai se paayinti dil-e-muztar ki qabr hai
   Laila se koi keh de ye Akbar ki qabr hai
-  Mitti mein kis ne chaand si surat chhupaayi hai
+  Mitti meiṅ kis ne chaand si surat chhupaayi hai
 # source_id: nohayonline:72dbc19e5f1fdf67e93d
 # source_url: https://www.nohayonline.com/details_content.php?id=1192
 # raw_sha256: a8a86d5f5dbb2a8b58ac50f678cbb45af210ec55c0788c9c710d65a9dfec5666

@@ -16,13 +16,13 @@ romanLyrics: |-
   Ae mere bhai Raza
 
   1
-  Tera didaar nahiṅ bhai qismat mein meri
+  Tera didaar nahiṅ bhai qismat meiṅ meri
   De hawaoṅ ko zara hukm ae mere Ali
   Sun luṅ aawaaz teri dil behal jaye mera
   Ae mere bhai Raza
 
   2
-  Dekhne aayi huṅ main Qum mein surat teri
+  Dekhne aayi huṅ maiṅ Qum meiṅ surat teri
   Ae Gharib-ul-ghuraba dekh ghurbat meri
   Koi batlaata nahiṅ mujh ko Mashhad ka pata
   Ae mere bhai Raza
@@ -30,31 +30,31 @@ romanLyrics: |-
   3
   Mujh pe jo bit gaye wo alam kuchh bhi nahiṅ
   Saamne Zainab ke mere gham kuchh bhi nahiṅ
-  Main na bazaar gayi na chhini meri rida
+  Maiṅ na bazaar gayi na chhini meri rida
   Ae mere bhai Raza
 
   4
-  Jab se pahunchi huṅ main Qum dil hai qaabu mein kahaṅ
-  Gham zada aaye nazar shehr ke pir o jawaṅ
+  Jab se pahunchi huṅ maiṅ Qum dil hai qaabu meiṅ kahaṅ
+  Gham zada aaye nazar shehr ke pir o jawaaṅ
   Dekh kar kaale alam dil dehelta hai mera
   Ae mere bhai Raza
 
   5
   Huṅ yatima lekin wo yatima to nahiṅ
-  Qaidi baba ki qasam main Sakina to nahiṅ
+  Qaidi baba ki qasam maiṅ Sakina to nahiṅ
   Jis ke gohar bhi chhine jis ka daaman bhi jala
   Ae mere bhai Raza
 
   6
   Kis jagah khaar chubhe kis jagah thak ke giri
-  Puchho chhaaloṅ se zara kaise miloṅ main chali
+  Puchho chhaaloṅ se zara kaise miloṅ maiṅ chali
   Zakhm pairoṅ ke tumheiṅ gham sunayeṅge mera
   Ae mere bhai Raza
 
   7
   Saath jayega mere ye gham-e-tanhaai
   Tum bhi Akbar ki tarah nahiṅ laute bhai
-  Roz Sughra ki tarah main jalaati huṅ diya
+  Roz Sughra ki tarah maiṅ jalaati huṅ diya
   Ae mere bhai Raza
 
   8

@@ -17,7 +17,7 @@ romanLyrics: |-
   Shaan-e-Khuda ayaaṅ hai ye kis ki janaab hai
   Dehliz aasmaaṅ hai ye kis ki janaab hai
   Kursi zamiṅ se leti hai gosh-e-panaah ke
-  Baitha hai arsh saaye mein kis baargaah ke
+  Baitha hai arsh saaye meiṅ kis baargaah ke
 
   2
   Ulfat Khuda ke baad Habib-e-Khuda ki hai
@@ -25,7 +25,7 @@ romanLyrics: |-
   Parwa na faaqe ki na shikaayat ghiza ki hai
   Iza faqat judaai-e-Khairulwara ki hai
   Aab o ghiza ki fikr na sone ka dhyaan hai
-  Aaṅkhoṅ mein shakl baap ki rone ka dhyaan hai
+  Aaṅkhoṅ meiṅ shakl baap ki rone ka dhyaan hai
 
   3
   Bete pukaarte haiṅ ke lillaah baahar aao
@@ -44,19 +44,19 @@ romanLyrics: |-
   Jo waqt hai wo aap ke rone ka waqt hai
 
   5
-  Baahar se Murtaza gaye ghar mein jhukaaye sar
+  Baahar se Murtaza gaye ghar meiṅ jhukaaye sar
   Muṅh dhaaṅpe ro rahi thi akeli wo qushsiyar
   Dene lage payaam-e-Arab Shaah-e-bahr o bar
-  Ghabra ke boli haaye karuṅ kya main bepidar
-  Khaabu mein maut hue to mar jaauṅ Ya Ali
+  Ghabra ke boli haaye karuṅ kya maiṅ bepidar
+  Khaabu meiṅ maut hue to mar jaauṅ Ya Ali
   Baba ka sog le ke kidhar jaauṅ Ya Ali
 
   6
   Meri taraf se ahl-e-Madina ko do payaam
   Logoṅ khafa na ho meri rukhsat hai subh shaam
-  Do chaar din tumhaare muhalle mein hai maqaam
+  Do chaar din tumhaare muhalle meiṅ hai maqaam
   Rone ki dhum ho chuki ab kaam hai tamaam
-  Ghabraati huṅ watan mein safar ke mahine se
+  Ghabraati huṅ watan meiṅ safar ke mahine se
   Baba sidhaare kaam mujhe kya Madine se
 
   7
@@ -69,14 +69,14 @@ romanLyrics: |-
 
   8
   Boli ke aaj raat ko ho jaauṅgi bahaal
-  Kal mere kaarobaar mein tum hoṅge khud nidhaal
+  Kal mere kaarobaar meiṅ tum hoṅge khud nidhaal
   Khidmat ka mere bachchoṅ ki hoga kise khayaal
   Nahla dhula diya ke pareshaaṅ tha un ka haal
   Kurte bhi dhoye qut bhi kal tak ka de chali
   Sehra na dekha ek ye armaan le chali
 
   9
-  Phir to har ek muhalle mein mahshar bapa hua
+  Phir to har ek muhalle meiṅ mahshar bapa hua
   Apne paraaye daure ke haaye haaye ye kya hua
   Fizza pukaari Sayyida ka waaqia hua
   Hujra Batul-e-paak ka maatam sara hua
@@ -84,10 +84,10 @@ romanLyrics: |-
   Muṅh rakh ke muṅh pe murde ke Zainab lipat gayi
 
   10
-  Main dudh bakhshwaane na paayi ke chal basi
+  Maiṅ dudh bakhshwaane na paayi ke chal basi
   Sharbat bana ke laane na paayi ke chal basi
   Kuchh haal-e-dil sunaane na paayi ke chal basi
-  Main benasib aane na paayi ke chal basi
+  Maiṅ benasib aane na paayi ke chal basi
   Kya jald tar zamaana hua inteqaal ka
   Haaye haaye abhi to sin tha kul athaarah saal ka
 

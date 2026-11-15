@@ -22,7 +22,7 @@ romanLyrics: |-
   Zahra ne uthaya hai
 
   2
-  Atthaara baras ke sin mein hi baaloṅ mein safedi aayi hai
+  Atthaara baras ke sin meiṅ hi baaloṅ meiṅ safedi aayi hai
   Hai jism mera sha kham hai kamar kamzor meri binaayi hai
   Ya Shaah-e-Madina dekho ummat ne Nabi zaadi ka
   Kya haal banaya hai
@@ -34,27 +34,27 @@ romanLyrics: |-
   Aada ne giraya hai
 
   4
-  Kya ye tha ajr-e-risaalat ka ummat se jo paaya hai main ne
-  Kuch nil nishaanoṅ ko ab tak bachchoṅ se chhupaaya hai main ne
+  Kya ye tha ajr-e-risaalat ka ummat se jo paaya hai maiṅ ne
+  Kuch nil nishaanoṅ ko ab tak bachchoṅ se chhupaaya hai maiṅ ne
   Rukhsaar hai mera nila zaalim ne tamaancha aisa
   Chehre pe lagaya hai
 
   5
   Talwaar ke qabze se mujh par zaalim ne kiya jab se hamla
-  Uthte hi nahiṅ donoṅ baazu ek saath namaazoṅ mein baba
-  Dil mera bahut roya hai takbir ko jab jab main ne
+  Uthte hi nahiṅ donoṅ baazu ek saath namaazoṅ meiṅ baba
+  Dil mera bahut roya hai takbir ko jab jab maiṅ ne
   Ek haath uthaaya hai
 
   6
-  Main kaise kahuṅ us dam baba kya bit gayi dil par mere
+  Maiṅ kaise kahuṅ us dam baba kya bit gayi dil par mere
   Jab dekhe zamiṅ par bikhre hue tahrir-e-risaalat ke tukre
-  Darbaar mein tanha main ne bikhre hue un tukroṅ ko
+  Darbaar meiṅ tanha maiṅ ne bikhre hue un tukroṅ ko
   Chun chun ke uthaya hai
 
   7
-  The bain Nadeem ek beti ke ye apne pidar ki turbat par
+  The bain Nadim ek beti ke ye apne pidar ki turbat par
   Hil jaati thi qabr-e-Paighambar kehti thi ye Zahra jab ro kar
-  Thi aap se ranjish jin ko un sab ne mujhe badle mein
+  Thi aap se ranjish jin ko un sab ne mujhe badle meiṅ
   Ji bhar ke rulaaya hai
 # source_id: nohayonline:3058103b29324ffe8d38
 # source_url: https://www.nohayonline.com/details_content.php?id=2853

@@ -1,6 +1,6 @@
 ---
 title: "بی‌بیاں کر رہی ہے یہ نوحہ"
-alternateTitle: "Bibiyan Kar Rahi"
+alternateTitle: "Bibiyaṅ Kar Rahi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -22,7 +22,7 @@ romanLyrics: |-
 
   2
   Mera naashaad Qasim-e-naushaah
-  Khun mein tar hua tera sehra
+  Khun meiṅ tar hua tera sehra
   Ek shab ki dulhan hui bewa
   Bain karti hai ye Umm-e-Farwa
 

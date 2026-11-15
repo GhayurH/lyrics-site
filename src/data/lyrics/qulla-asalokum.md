@@ -34,14 +34,14 @@ romanLyrics: |-
 
   4
   Baghair shama ke har su bhatakte parwaanoṅ
-  Shuur o fikr ki duniya mein aao diwaanoṅ
+  Shuur o fikr ki duniya meiṅ aao diwaanoṅ
   Hazaar sajda kiye tum ne ae musalmaanoṅ
   Bataao ruh-e-ibaadat ko kaise bhul gaye
 
   5
   Wujud-e-Haq ki alaamat ko lutne waaloṅ
   Amir-e-mulk-e-sakhaawat to lutne waaloṅ
-  Khuda ke ghar mein imaamat to lutne waaloṅ
+  Khuda ke ghar meiṅ imaamat to lutne waaloṅ
   Nabi ke in ki qaraabat ko kaise bhul gaye
 
   6
@@ -52,25 +52,25 @@ romanLyrics: |-
 
   7
   Nabi ne god se jis ko kabhi juda na kiya
-  Nabi ke pehlu mein us ko na dafn hone diya
+  Nabi ke pehlu meiṅ us ko na dafn hone diya
   Hasan ki laash pe tiroṅ ka abr barsaaya
   Nabi ke laal ki azmat ko kaise bhul gaye
 
   8
   Huruf-e-aayat-e-Quraan bikherne waaloṅ
-  Nabi ke laal ko jangal mein gherne waaloṅ
+  Nabi ke laal ko jangal meiṅ gherne waaloṅ
   Gulu-e-Shah pe talwaar pherne waaloṅ
   Nabi ki beti ki mehnat ko kaise bhul gaye
 
   9
   Pisar ko Banu-e-Muztar ke maarne waaloṅ
   Zamiṅ se khun ke chashme ubhaarne waaloṅ
-  Jawaan ke sine mein barchhi utaarne waaloṅ
+  Jawaan ke sine meiṅ barchhi utaarne waaloṅ
   Rasul-e-Haq ki shabaahat ko kaise bhul gaye
 
   10
-  Basar andheroṅ mein hote haiṅ jin ke shaam o sahar
-  Diloṅ mein jin ke hai Aamir adaawat-e-Sarwar
+  Basar andheroṅ meiṅ hote haiṅ jin ke shaam o sahar
+  Diloṅ meiṅ jin ke hai Aamir adaawat-e-Sarwar
   Bilal un se zara ye to puchhiye barh kar
   Kalaam-e-Paak ki aayat ko kaise bhul gaye
 # source_id: nohayonline:817fb351c49d9d53a1c0

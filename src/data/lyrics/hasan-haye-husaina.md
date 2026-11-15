@@ -16,7 +16,7 @@ romanLyrics: |-
   Husain haaye Husaina
 
   1
-  Karti thiṅ Zehra dasht mein girya
+  Karti thiṅ Zehra dasht meiṅ girya
   Shimr ne kaata sar Shah-e-diṅ ka
 
   2
@@ -36,7 +36,7 @@ romanLyrics: |-
   Kis ko bachaaye saani-e-Zehra
 
   6
-  Kiuṅ na Anees ham yuṅ kareiṅ maatam
+  Kiuṅ na Anis ham yuṅ kareiṅ maatam
   Dil pe hai wo gham tukre hai sina
 # source_id: nohayonline:85264c769b42da3b2586
 # source_url: https://www.nohayonline.com/details_content.php?id=221

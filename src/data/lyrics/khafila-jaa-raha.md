@@ -36,7 +36,7 @@ romanLyrics: |-
   Apni barbaadiyoṅ ko gawaara kiya
   Khuṅ meiṅ dube guloṅ ka nazaara kiya
   De diya Fatema ka bhara gulsitaaṅ
-  Karbala tere ujde chaman ke liye
+  Karbala tere ujre chaman ke liye
 
   4
   Qabr-e-Sarwar pe jaa ke behan ne kaha
@@ -52,7 +52,7 @@ romanLyrics: |-
 
   6
   Bain karti thi ye baanu-e-Shaah-e-diṅ
-  Main kahiṅ reh gayi mera Asghar kahiṅ
+  Maiṅ kahiṅ reh gayi mera Asghar kahiṅ
   God khaali hai meri Sakina nahiṅ
   Mar gayi qaid meiṅ wo watan ke liye
 

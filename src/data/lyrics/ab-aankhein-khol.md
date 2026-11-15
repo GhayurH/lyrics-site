@@ -11,10 +11,10 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Jab suni Shah ne aawaz jawaṅ bete ki
+  Jab suni Shah ne aawaz jawaaṅ bete ki
   Laash par aa ke ye farmane lage Sibt-e-Nabi
   Ab aankheṅ khol do Akbar sirhane aa gaya Baba
-  Zaifi mein jawaṅ laasha uthane aa gaya Baba
+  Zaifi meiṅ jawaaṅ laasha uthane aa gaya Baba
 
   1
   Guzar jaeṅge hum is imtihaṅ se ya Ali keh kar
@@ -32,23 +32,23 @@ romanLyrics: |-
   Behen kaise tarapti hai batane aa gaya Baba
 
   4
-  Kaha tha kisi ne sine mein tumhare tor kar neza
+  Kaha tha kisi ne sine meiṅ tumhare tor kar neza
   Ye manzar dekh kar Shabbir zinda reh na paega
   Khabar kar do use barchhi chhurane aa gaya Baba
 
   5
   Lare ho der tak thak to gaye hoge mere dilbar
-  Mujhe mat rokna hargiz tumhein meri qasam Akbar
+  Mujhe mat rokna hargiz tumheiṅ meri qasam Akbar
   Tumhare chand se baazu dabane aa gaya Baba
 
   6
-  Uthata dhum se mayyat agar hota Madine mein
-  Kafan main de nahiṅ sakta yehi hai dard sine mein
+  Uthata dhum se mayyat agar hota Madine meiṅ
+  Kafan maiṅ de nahiṅ sakta yehi hai dard sine meiṅ
   Amama tumko Nana ka urhane aa gaya Baba
 
   7
   Jo rota dekhti mujhko tarap jaati meri maadar
-  Main khul kar ro nahiṅ paaya Muhammad ke janaze par
+  Maiṅ khul kar ro nahiṅ paaya Muhammad ke janaze par
   Jo aansu reh gaye the woh bahane aa gaya Baba
 
   8
@@ -57,9 +57,9 @@ romanLyrics: |-
   Phuphi ki aakhri mannat barhane aa gaya Baba
 
   9
-  Nazar aa jaega tumko behen hai ab kahan beta
+  Nazar aa jaega tumko behen hai ab kahaṅ beta
   Utho dekho hamari ungliyoṅ ke darmiyaṅ beta
-  Tumhein Sughra ki tanhai dikhane aa gaya Baba
+  Tumheiṅ Sughra ki tanhai dikhane aa gaya Baba
 
   10
   Parhi Nad-e-Ali le kar chale Sheh laasha-e-Akbar

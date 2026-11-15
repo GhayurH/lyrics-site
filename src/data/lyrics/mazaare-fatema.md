@@ -20,23 +20,23 @@ romanLyrics: |-
   Bas ek nishaan-e-sang hi turbat ke paas hai
   Mehrum chumne se bhi har haq shanaas hai
   Bol ae zamane dega bhala kya jawaab tu
-  Mahshar mein Mustafa ke jab aayega ru ba ru
+  Mahshar meiṅ Mustafa ke jab aayega ru ba ru
   Ya mazluma ya Zahra ya masuma ya Zahra
 
   2
   Allah re ye Fatema Zahra ki bekasi
   Ek shama bhi jalane ko aata nahiṅ koi
-  Tanha hai ek goshe mein beti Rasul ki
-  Chaaroṅ taraf Madine mein phaili hai roshni
+  Tanha hai ek goshe meiṅ beti Rasul ki
+  Chaaroṅ taraf Madine meiṅ phaili hai roshni
   Tute hue mazaar se lipti hai bekasi
   Ya mazluma ya Zahra ya masuma ya Zahra
 
   3
-  Bol ae zamane kya tere daaman mein kuch na tha
-  Zahra ne har namaaz mein di hai tujhe dua
+  Bol ae zamane kya tere daaman meiṅ kuch na tha
+  Zahra ne har namaaz meiṅ di hai tujhe dua
   Tu ek tuti qabr hi Zahra ko de saka
   Jab dekhte hai ujri hui qabr-e-Sayyeda
-  Lagta hai jaise dhup mein baithi hai Fatema
+  Lagta hai jaise dhup meiṅ baithi hai Fatema
   Ya mazluma ya Zahra ya masuma ya Zahra
 
   4
@@ -48,17 +48,17 @@ romanLyrics: |-
   Ya mazluma ya Zahra ya masuma ya Zahra
 
   5
-  Pehlu mein aap ke hai Hasan Zainul Aabidin
+  Pehlu meiṅ aap ke hai Hasan Zainul Aabidin
   Baqir bhi aur Jafar-e-Saadiq bhi haiṅ yahiṅ
   Haye kisi ki qabr salaamat bhi ab nahiṅ
-  Mahshar mein apna dard sunayegi Fatema
+  Mahshar meiṅ apna dard sunayegi Fatema
   Ummat ne jo kiya hai bataeṅgi Fatema
   Ya mazluma ya Zahra ya masuma ya Zahra
 
   6
   Ghurbat Rasul zaadi ki parti hai marsiya
   Hasrat se takta rehta hai rauza Rasul ka
-  Aankhoṅ mein ashk chikhte haiṅ wa Muhammada
+  Aankhoṅ meiṅ ashk chikhte haiṅ wa Muhammada
   Farsh-e-aza bichhane ko aa jaiye Imam
   Zahra ka gham manane ko aa jaiye Imam
   Ya mazluma ya Zahra ya masuma ya Zahra
@@ -75,8 +75,8 @@ romanLyrics: |-
   Zawwaar chup haiṅ saara Baqaiyya udaas hai
   Karbobala khamosh Madina udaas hai
   Har ek nabi ka chaahne waala udaas hai
-  Bibi ko qabr mein bhi sukuṅ hai na chain hai
-  Hai pasliyoṅ pe haath zabaan par Husain hai
+  Bibi ko qabr meiṅ bhi sukuṅ hai na chain hai
+  Hai pasliyoṅ pe haath zabaaṅ par Husain hai
   Ya mazluma ya Zahra ya masuma ya Zahra
 # source_id: nohayonline:6d5754f38c09f8077bbe
 # source_url: https://www.nohayonline.com/details_content.php?id=1025

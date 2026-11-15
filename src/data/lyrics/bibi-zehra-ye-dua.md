@@ -19,15 +19,15 @@ romanLyrics: |-
   Ae meri Bibi waqt-e-madad hai
   Har maatami ke dil ki sada hai
   Bibi Zahra ye dua hai
-  Aap ke darbaar mein
+  Aap ke darbaar meiṅ
 
   1
   Dast-e-dua ko jab bhi uthaaya
   Maaṅga hai teri chaadar ka saaya
   Ya Zahra ya Zahra
-  Waqt-e-musibat mein har Husaini
+  Waqt-e-musibat meiṅ har Husaini
   Bas naam tera hoṅtoṅ pe laaya
-  Ae meri Bibi tang dast huṅ main
+  Ae meri Bibi tang dast huṅ maiṅ
   Ye keh ke daaman phaila diya hai
 
   2
@@ -35,12 +35,12 @@ romanLyrics: |-
   Chaukhat pe teri hai wo sawaali
   Ya Zahra ya Zahra
   Mujh ko bhi de de Asghar ka sadqa
-  Main ne tere dar se lau laga li
-  Ae meri Bibi jin godiyoṅ mein
+  Maiṅ ne tere dar se lau laga li
+  Ae meri Bibi jin godiyoṅ meiṅ
   Aulaad hai wo teri ata hai
 
   3
-  Jo maaeṅ behneṅ be aasra ho
+  Jo maaeṅ behneṅ beaasra ho
   Farsh-e-aza par mahw-e-buka ho
   Ya Zahra ya Zahra
   Tu un ke pardoṅ ki laaj rakhiyo
@@ -73,13 +73,13 @@ romanLyrics: |-
   Hum tere pyaase bete ka sadqa
   Yuṅ maaṅgte haiṅ farsh-e-aza par
   Ae meri Bibi aabaad rakhna
-  Wo ghar ke jis mein farsh-e-aza hai
+  Wo ghar ke jis meiṅ farsh-e-aza hai
 
   7
   Shabbir ki wo mazlum dukhtar
   Zindaan se jo na jaa saki ghar
   Ya Zahra ya Zahra
-  Sadqe mein us ke hum par karam kar
+  Sadqe meiṅ us ke hum par karam kar
   Bejurm qaidi kehte haiṅ ro kar
   Ae meri Bibi ab ye asiri
   Ho khatm Aabid ka waasta hai

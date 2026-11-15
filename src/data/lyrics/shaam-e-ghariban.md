@@ -25,7 +25,7 @@ romanLyrics: |-
   1
   Jalti zamiṅ par Aal-e-Abaa thi
   Karbobala bhi mahv-e-buka thi
-  Saadaat is aalam mein the laachaar
+  Saadaat is aalam meiṅ the laachaar
   Alamdaar
   Thi Zainab-e-tashna kaam kya shaam
   Kya shaam thi wo shaam-e-gharibaṅ
@@ -48,7 +48,7 @@ romanLyrics: |-
 
   4
   Jal gaye khaime chhin gayi chaadar
-  Is aalam mein aa gaye Haider
+  Is aalam meiṅ aa gaye Haider
   Ye dekh ke rone lage zaar o zaar
   Alamdaar
   Thi Zainab-e-tashna kaam kya shaam
@@ -71,7 +71,7 @@ romanLyrics: |-
   Kya shaam thi wo shaam-e-gharibaṅ
 
   7
-  Majlis mein sab mahv-e-buka hai
+  Majlis meiṅ sab mahv-e-buka hai
   Mazhar aur Irfan-e-aza hai
   Sar pit ke kehte hai matamdaar
   Alamdaar

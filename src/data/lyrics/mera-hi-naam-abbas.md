@@ -11,11 +11,11 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maidan mein aaya Haidar ka sher
+  Maidan meiṅ aaya Haidar ka sher
   Nau laakh lashkar karne ko zer
   Mashk o alam ko utha kar
   Lab pe rajaz ye saja kar
-  Main waaris-e-zor-e-Haidar huṅ
+  Maiṅ waaris-e-zor-e-Haidar huṅ
   Saani-e-Hamza o Jafar huṅ
   Mera hi naam Abbas hai
 
@@ -27,34 +27,34 @@ romanLyrics: |-
   1
   Mera aaqa hai wo jis ke aage
   Sar adab se jhukaata hai Kaaba
-  Mere sine mein Imran ka dil
-  Khuṅ ragoṅ mein hai Sher-e-Khuda ka
-  Gar barhaauṅ qadam kis mein hai itna dam
+  Mere sine meiṅ Imran ka dil
+  Khuṅ ragoṅ meiṅ hai Sher-e-Khuda ka
+  Gar barhaauṅ qadam kis meiṅ hai itna dam
   Rok le aake raasta mera
 
   2
   Mujh ko talwaar ki kya zarurat
-  Main nigaahoṅ se dil kaat duṅ ga
+  Maiṅ nigaahoṅ se dil kaat duṅ ga
   Dekhna dekhte dekhte hi
-  Dasht laashoṅ se main baat duṅ ga
-  Hukm-e-Maula nahiṅ warna main to yahiṅ
+  Dasht laashoṅ se maiṅ baat duṅ ga
+  Hukm-e-Maula nahiṅ warna maiṅ to yahiṅ
   Khench duṅ naqsha Siffin ka
 
   3
   Soch kar tum jo akre khare ho
-  Main akela huṅ tum itne saare
+  Maiṅ akela huṅ tum itne saare
   Laakh do laakh se to akele
   Jang karte haiṅ bachche hamaare
-  Mir-e-lashkar huṅ main
-  Sher-e-Haidar huṅ main
+  Mir-e-lashkar huṅ maiṅ
+  Sher-e-Haidar huṅ maiṅ
   Kaun mujh se larega bhala
 
   4
   Do rukhi aur Aal-e-Nabi se
-  Is ka matlab bhi samjhaauṅ ga main
+  Is ka matlab bhi samjhaauṅ ga maiṅ
   Laakh paauṅ pare ab ye darya
-  Mashk mein bhar ke le jaauṅ ga main
-  Pyaas ki qaid mein yaas ki qaid mein
+  Mashk meiṅ bhar ke le jaauṅ ga maiṅ
+  Pyaas ki qaid meiṅ yaas ki qaid meiṅ
   Ab rahe ga ye darya sada
 
   5
@@ -76,15 +76,15 @@ romanLyrics: |-
   7
   Meri talwaar ke har nishaaṅ par
   Sab ne dekhi Ali ki nishaani
-  Main ne paaya shabaab-e-shujaat
-  Main ne paayi Ali ki jawaani
+  Maiṅ ne paaya shabaab-e-shujaat
+  Maiṅ ne paayi Ali ki jawaani
   Mere har waar par ur ke kehte the sar
-  Aa gaye ran mein Sher-e-Khuda
+  Aa gaye ran meiṅ Sher-e-Khuda
 
   8
   Ek qayaamat hai Farhan o Gohar
   Lashkar-e-zulm sehma hua hai
-  Mashk mein qaid darya ko kar ke
+  Mashk meiṅ qaid darya ko kar ke
   Sher kehta hua jaa raha hai
   Aaj tak ba Khuda jo kaha wo kiya
   Ham badalte nahiṅ faisla

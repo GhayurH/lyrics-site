@@ -13,7 +13,7 @@ published: true
 poet: "Banda-e-Momin"
 reciter: "Mir Hasan Mir"
 romanLyrics: |-
-  Main is tarah se huṅ Ya Rab teri sana ke baghair
+  Maiṅ is tarah se huṅ Ya Rab teri sana ke baghair
   Ke jaise ji nahiṅ sakta koi hawa ke baghair
 
   1
@@ -49,7 +49,7 @@ romanLyrics: |-
   To kaise mil gayi Hur ko jaza saza ke baghair
 
   9
-  Ali, Rasool, Khuda asl meiṅ hai yeh tartib
+  Ali, Rasul, Khuda asl meiṅ hai yeh tartib
   Tum inteha ko na pahuncho ge ibtida ke baghair
 
   10

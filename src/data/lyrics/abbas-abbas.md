@@ -15,7 +15,7 @@ romanLyrics: |-
   Wafa hai mulk to us mulk ka Khuda Abbas
   Janab-e-Fatema Zehra ka muddaa Abbas
   Janab-e-Haider-e-Safdar ka aaina Abbas
-  Har ek simt do aalam mein zikr hota hai
+  Har ek simt do aalam meiṅ zikr hota hai
   Janab-e-Fatema bint-e-Asad ka pota hai
 
   1
@@ -29,9 +29,9 @@ romanLyrics: |-
   2
   Usi Furat pe maare gaye ba-dard o malal
   Pahunch ke laash pe Sarwar ne tab kiya ye malal
-  Abhi main pura karuṅga agar ho koi sawal
+  Abhi maiṅ pura karuṅga agar ho koi sawal
   Jari ye ro ke pukara ke ae Batul ke laal
-  Laga hai aankh mein jo teer use hata dije
+  Laga hai aankh meiṅ jo tir use hata dije
   Huzur apna ye chehra mujhe dikha dije
 
   3
@@ -61,10 +61,10 @@ romanLyrics: |-
   6
   Kisi ke sar pe na baqi rida thi ae Majid
   Ajib tarah ki jaur o jafa thi ae Majid
-  Ke ashk afshan wo chashm-e-Khuda thi ae Majid
+  Ke ashk afshaṅ wo chashm-e-Khuda thi ae Majid
   Ke ta ba Shaam haram ki sada thi ae Majid
   Kahaṅ ho ab pa-e-imdad aao ae Abbas
-  Hameṅ sitam se laeen ke bachao ae Abbas
+  Hameṅ sitam se lain ke bachao ae Abbas
 # source_id: nohayonline:491c002c2b596e4cd09e
 # source_url: https://www.nohayonline.com/details_content.php?id=3722
 # raw_sha256: 5d8f0b1ecf65193635c51f4ee799a9f2dad3c33c36ca7f820877c48bb0d7b74b

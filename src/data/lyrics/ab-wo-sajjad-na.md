@@ -15,13 +15,13 @@ romanLyrics: |-
   Nok-e-neza se dekh lo Baba
   Ab woh Sajjad na raha Sajjad
   Jis ghari berida hui Zainab
-  Karbala mein hi mar gaya Sajjad
+  Karbala meiṅ hi mar gaya Sajjad
 
   1
   Kya hai parda ye Shaam waloṅ ko
   Teri daadi ne hi sikhaya hai
   Unhi logoṅ ne meri phuphiyoṅ ko
-  Berida Shaam mein phiraya hai
+  Berida Shaam meiṅ phiraya hai
   Kya ghazab hai ke haath phaila kar
   Maangta hai bas ek rida Sajjad
 
@@ -36,23 +36,23 @@ romanLyrics: |-
   3
   Sar pe jab tak tha aap ka saaya
   Maoṅ behnoṅ ke sar pe thi chadar
-  Warna main bhi Ali ka beta huṅ
-  Jaanta huṅ main jang ke jauhar
+  Warna maiṅ bhi Ali ka beta huṅ
+  Jaanta huṅ maiṅ jang ke jauhar
   Dekh kar berida phuphi ka sar
   Sharm ke maare jhuk gaya Sajjad
 
   4
-  Nanhe bachchoṅ ke haath mein patthar
+  Nanhe bachchoṅ ke haath meiṅ patthar
   De ke maara gaya Sakina ko
   Pusht-e-naqa se bhi giraya aur
   Taziyane lage yatima ko
-  Main bandhe haath dekh kar roya
+  Maiṅ bandhe haath dekh kar roya
   Us ne har dard par kaha Sajjad
 
   5
   Badr o Khaibar ki jo adawat thi
   Us ka yuṅ inteqam lete haiṅ
-  Shaam ke log bhir mein har dam
+  Shaam ke log bhir meiṅ har dam
   Meri phuphiyoṅ ka naam lete haiṅ
   Taziyane to seh gaya Baba
   Tanz lekin na seh saka Sajjad
@@ -62,7 +62,7 @@ romanLyrics: |-
   Haath mere gale yatimoṅ ke
   Na jhukuṅ to zamin se Baba
   Paoṅ uthte haiṅ nanhe bachchoṅ ke
-  Bas ruku mein hi shukr ke sajde
+  Bas ruku meiṅ hi shukr ke sajde
   Kar ke guzrega ab tera Sajjad
 
   7

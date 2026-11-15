@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Be maqna o chaadar sar-e-bazaar hai Zainab
+  Bemaqna o chaadar sar-e-bazaar hai Zainab
   Abbas khule sar sar-e-bazaar hai Zainab
   Ya Abbas ya Abbas
 
@@ -21,12 +21,12 @@ romanLyrics: |-
   Mar jaae gi khwaahar sar-e-bazaar hai Zainab
 
   2
-  Main teri behan huṅ ye zamaane ko khabar hai
+  Maiṅ teri behan huṅ ye zamaane ko khabar hai
   Har dekhne waale ki mere sar pe nazar hai
   Pur dard hai manzar sar-e-bazaar hai Zainab
 
   3
-  Bin bhaai ke ek behan ka kya jine mein jina
+  Bin bhaai ke ek behan ka kya jine meiṅ jina
   Abbas sehan kaise karuṅ phatta hai sina
   Mar jaana hai behtar sar-e-bazaar hai Zainab
 
@@ -41,23 +41,23 @@ romanLyrics: |-
   Ek tere hi dam par sar-e-bazaar hai Zainab
 
   6
-  Kal tere bharose pe chali thi main watan se
+  Kal tere bharose pe chali thi maiṅ watan se
   Kya baat hai kuchh bol do ae bhaai behan se
   Ae azm ke paikar sar-e-bazaar hai Zainab
 
   7
-  Rahwaar ki gardan mein hai is waqt tera sar
+  Rahwaar ki gardan meiṅ hai is waqt tera sar
   Abbas magar phir bhi larazte haiṅ sitamgar
   Is dar ki bina par sar-e-bazaar hai Zainab
 
   8
-  Is waaste deti huṅ musalsal main sadaaeṅ
+  Is waaste deti huṅ musalsal maiṅ sadaaeṅ
   Hoti haiṅ yahaaṅ mujh pe jafaaoṅ pe jafaaeṅ
   Ae mere Ghazanfar sar-e-bazaar hai Zainab
 
   9
   Asif ho raqam kaise gham-e-Zainab-e-muztar
-  Aamir ho bayaan kaise ke Zainab ke tha lab par
+  Aamir ho bayaaṅ kaise ke Zainab ke tha lab par
   Ye mera muqaddar sar-e-bazaar hai Zainab
 # source_id: nohayonline:c191cf0e294f17be4dd0
 # source_url: https://www.nohayonline.com/details_content.php?id=3482

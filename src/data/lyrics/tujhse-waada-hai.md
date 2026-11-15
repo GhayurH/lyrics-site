@@ -42,14 +42,14 @@ romanLyrics: |-
   3
   Had to ye hai ke dard-e-dil tera
   Ahl-e-gham bhi samajh nahiṅ paaye
-  Daal kar gardan-e-Ali mein rasan
+  Daal kar gardan-e-Ali meiṅ rasan
   Teri nazroṅ ke saamne haaye
   Jis tarah dil tera dukhaaya hai
   Hum kabhi bhi na bhul paayeṅge
 
   4
   Apne bachchoṅ ke saath tera wo
-  Bhare darbaar mein khare rehna
+  Bhare darbaar meiṅ khare rehna
   Apna haq maangna zamaane se
   Aur ummat ka zulm bhi sehna
   Kaun mujrim hai Sayyeda tera
@@ -73,11 +73,11 @@ romanLyrics: |-
 
   7
   Shukr hai Sayyeda ka ye Akhtar
-  Hum pe mahshar mein bhi karam hoga
+  Hum pe mahshar meiṅ bhi karam hoga
   Paaṅw farsh-e-aza pe hoṅge aur
   Sar pe Abbas ka alam hoga
   Jab talak Sayyeda na chaaheṅgi
-  Apni jannat mein hum na jaayeṅge
+  Apni jannat meiṅ hum na jaayeṅge
 # source_id: nohayonline:fdbfe1ea5019ff7323a7
 # source_url: https://www.nohayonline.com/details_content.php?id=2074
 # raw_sha256: 2155e39c86c1d3671ed3bdaaac8f111f8fd4df20a0366ee22bdaf535bbceb35c

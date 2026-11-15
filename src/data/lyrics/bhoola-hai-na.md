@@ -12,7 +12,7 @@ aliases: ["Bhoola Hai Na"]
 published: true
 romanLyrics: |-
   Bhula hai na bhule ga taa hashr zamaana
-  Darbaar-e-Yazidi mein tera khutba sunaana
+  Darbaar-e-Yazidi meiṅ tera khutba sunaana
 
   1
   Tere parde pe qurbaan tere bhaai ke sadqe
@@ -28,7 +28,7 @@ romanLyrics: |-
 
   4
   Shabbir ki azmat hai ye Shabbir ki jurat
-  Maqtal mein wo Akbar ke laashe ko uthaana
+  Maqtal meiṅ wo Akbar ke laashe ko uthaana
 
   5
   Mushtaq kiye ja tu isi dar ki ghulaami

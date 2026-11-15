@@ -17,20 +17,20 @@ romanLyrics: |-
   Shabbir tera aaqa Ummul Banin maaṅ hai
 
   1
-  Har surat o chalan mein Haidar se na juda hai
-  Ta hashr tujh se qaaim duniya mein bas wafa hai
+  Har surat o chalan meiṅ Haidar se na juda hai
+  Ta hashr tujh se qaaim duniya meiṅ bas wafa hai
 
   2
   Dil ki muraadeṅ Ghazi tere alam se paaye
   Roti hui jo maaeṅ tere alam pe aaye
   Zahra ke dard-e-pehlu ka deti hai waasta
-  Fizza ki kanizi mein in ka bhi naam aaye
+  Fizza ki kanizi meiṅ in ka bhi naam aaye
 
   3
   Tere alam ko thaame har shakhs keh raha hai
   Mazlum-e-Karbala ka Zainab ka waasta hai
-  Pardesi koi aisa pardes mein na ujre
-  Sadqe mein us ke jis ka ghar baar lut gaya hai
+  Pardesi koi aisa pardes meiṅ na ujre
+  Sadqe meiṅ us ke jis ka ghar baar lut gaya hai
 
   4
   Taqdir ke sataaye tere dar pe sar jhukaaye
@@ -57,13 +57,13 @@ romanLyrics: |-
   Baba se bhi ziyaada us ne tujhe pukaara
 
   8
-  Us waqt jab ke Zainab darbar mein gayi thi
+  Us waqt jab ke Zainab darbar meiṅ gayi thi
   Qaari namaziyoṅ se mehfil saji hui thi
   Zaalim ye puchhta tha Ghazi tera kahaaṅ hai
   Baaloṅ se muṅh chhupaaye Zainab ye keh rahi thi
 
   9
-  Shaam-e-gharibaaṅ mein jis ka kurta jal gaya hai
+  Shaam-e-gharibaaṅ meiṅ jis ka kurta jal gaya hai
   Kaanoṅ se baaliyaaṅ bhi haye Shimr le gaya hai
   Is bebasi se Maula bachchi koi na tarse
   Farsh-e-aza pe ro kar har dil ye keh raha hai
@@ -71,7 +71,7 @@ romanLyrics: |-
   10
   Jitne bhi ashk Maula qirtaas par gire hai
   Masuma ki qasam hi Ghazi faqat tere hai
-  Wo kuchh raqam karuṅ main jo na raqam hua hai
+  Wo kuchh raqam karuṅ maiṅ jo na raqam hua hai
   Alfaaz wo ata kar Yawar se jo pare haiṅ
 # source_id: nohayonline:1756a6b440b61f4c2565
 # source_url: https://www.nohayonline.com/details_content.php?id=2561

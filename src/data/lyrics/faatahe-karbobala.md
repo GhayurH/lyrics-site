@@ -17,12 +17,12 @@ romanLyrics: |-
   1
   Tuṅ wiqaar-e-Haashmi hai din ke sarwar Husain
   Din-e-haq ke waaste tuṅ aahani paikar Husain
-  Raah-e-haq mein kar diya qurbaan apna ghar Husain
+  Raah-e-haq meiṅ kar diya qurbaan apna ghar Husain
 
   2
   Karbala ka maaraka wo kaarnaama hai tera
   Bachcha bachcha aalam-e-Islam ka tujh par fida
-  Tere gham mein ro rahe haiṅ aaj tak ahl-e-aaza
+  Tere gham meiṅ ro rahe haiṅ aaj tak ahl-e-aaza
 
   3
   Quwwat-e-baazu-e-Haidar Fatima ke nur-e-ain
@@ -32,7 +32,7 @@ romanLyrics: |-
   4
   Millat-e-haqqa ka bera gharq ho jaata magar
   Quwwat-e-baatil ke aage ho gaya sina sipar
-  Marzi-e-Khaaliq pe tuṅ ne de diya sajde mein sar
+  Marzi-e-Khaaliq pe tuṅ ne de diya sajde meiṅ sar
 
   5
   Tere dam se hashr tak qaaim hai din-e-Mustafa
@@ -41,7 +41,7 @@ romanLyrics: |-
 
   6
   Jab gire ghore se Akbar kha ke sine par sinaaṅ
-  Paane waahid mein hua ek khun ka darya rawaaṅ
+  Paane waahid meiṅ hua ek khun ka darya rawaaṅ
   Garm reti par tarap kar mar gaya karyal jawaaṅ
 
   7
@@ -57,7 +57,7 @@ romanLyrics: |-
   9
   Chal base duniya se Abbas-e-alamdaar-e-Husain
   Aur bahattar Ae Kalim ashaab o ansaar-e-Husain
-  Surkh ruh-e-do jahaaṅ mein aaj sarkaar-e-Husain
+  Surkh ruh-e-do jahaaṅ meiṅ aaj sarkaar-e-Husain
 # source_id: nohayonline:96876169b1efdf2c8e0b
 # source_url: https://www.nohayonline.com/details_content.php?id=785
 # raw_sha256: 881921b7833f5571a24ec946597a680e306a0a85932bd14ead1f33869eb465bc

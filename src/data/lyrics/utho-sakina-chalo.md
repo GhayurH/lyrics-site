@@ -24,7 +24,7 @@ romanLyrics: |-
 
   2
   Ye nind kaisi hai aankheṅ kholo
-  Pukaarti huṅ main kab se bolo
+  Pukaarti huṅ maiṅ kab se bolo
   Khudaara khaao taras ye maaṅ par
   Utho Sakina chalo watan ko
 
@@ -55,11 +55,11 @@ romanLyrics: |-
   7
   Baghair tere ho kaise jaana
   Basaayeṅge ham bhi qaid khaana
-  Main kaise jaauṅgi pesh-e-Sarwar
+  Maiṅ kaise jaauṅgi pesh-e-Sarwar
   Utho Sakina chalo watan ko
 
   8
-  Anees qaid-e-sitam ki haalat
+  Anis qaid-e-sitam ki haalat
   Na puchh barpa thi ek qayaamat
   Rabaab kehti thi jab tarap kar
   Utho Sakina chalo watan ko

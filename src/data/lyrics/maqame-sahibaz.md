@@ -36,12 +36,12 @@ romanLyrics: |-
 
   3
   Har ek Imam ko khuṅ is jagah rulaaya gaya
-  Jo Shaamiyoṅ ke tha bas mein wo zulm dhaaya gaya
+  Jo Shaamiyoṅ ke tha bas meiṅ wo zulm dhaaya gaya
   Yahaaṅ pe ghair ke tishna dahan ko laaya gaya
   Gira kahaaṅ yahaaṅ mazlum ko giraaya gaya
 
   4
-  Ajib haal mein dekha tha Shaah ko maaṅ ne
+  Ajib haal meiṅ dekha tha Shaah ko maaṅ ne
   Na maut aati thi na saans itne zakhmi the
   Isi maqaam pe Zahra ne apne bete ke
   Badan se tir nikaale the apne haathoṅ se
@@ -53,7 +53,7 @@ romanLyrics: |-
   Tarap ke uthe the Zainab ke naam par Maula
 
   6
-  Ali ke laal ki aankhoṅ mein tha wohi manzar
+  Ali ke laal ki aankhoṅ meiṅ tha wohi manzar
   Gire the jis jagah barchhi ke waar se Akbar
   Jawaan laal ko rone ki aarzu le kar
   Yahiṅ se ghutniyoṅ chalte huwe gaye Sarwar

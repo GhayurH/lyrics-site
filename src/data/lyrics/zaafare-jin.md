@@ -11,21 +11,21 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Jo pahuncha asr ko dasht-e-bala mein Zaafar-e-jinn
-  Ghira ajib gham-e-naarwaaṅ mein Zaafar-e-jinn
-  Sitam wo dekhta hai Karbala mein Zaafar-e-jinn
-  Ke mubtala hua gham ki faza mein Zaafar-e-jinn
+  Jo pahuncha asr ko dasht-e-bala meiṅ Zaafar-e-jinn
+  Ghira ajib gham-e-naarwaaṅ meiṅ Zaafar-e-jinn
+  Sitam wo dekhta hai Karbala meiṅ Zaafar-e-jinn
+  Ke mubtala hua gham ki faza meiṅ Zaafar-e-jinn
   Bahut hi tanha shah-e-khushkhisaal ko dekha
   Ke chur zakhmoṅ se Zehra ke laal ko dekha
 
-  Jo pahuncha asr ko Karb o Bala mein Zaafar-e-jinn
+  Jo pahuncha asr ko Karb o Bala meiṅ Zaafar-e-jinn
 
   1
   Machal ke Zaafar-e-jinn ne nikaal li talwaar
   Buland karta tha jismi lakal fida ki pukaar
   Husain ko jo ye manzar nazar para ek baar
   Pukaar kar kaha Zaafar na kar abhi paikaar
-  Bala ke ban mein na ham yuṅ laraai chaahte haiṅ
+  Bala ke ban meiṅ na ham yuṅ laraai chaahte haiṅ
   Khuda se ummat-e-jad ki bhalaai chaahte haiṅ
 
   2
@@ -41,7 +41,7 @@ romanLyrics: |-
   Mere Imaam mere muqtada mere rahbar
   Lahu rulaata hai mujh ko ye khuṅ fishaaṅ manzar
   Na jaannisaar koi aur na naasir o yaawar
-  Na lashkare na sipaahe na kasratun naasir
+  Na lashkare na sipaahe na kasratuṅ naasir
   Na Qaasime na Ali Akbare na Abbaase
 
   4
@@ -61,23 +61,23 @@ romanLyrics: |-
   Sinaaṅ ke saath kaleja bhi aa gaya baahar
 
   6
-  Jo puchha Zaafar-e-jinn ne ye gathri mein kya hai
+  Jo puchha Zaafar-e-jinn ne ye gathri meiṅ kya hai
   Husain roke pukaare ke ek dulha hai
   Mere akhi Hasan-e-Mujtaba ka beta hai
   Sitam se ghoroṅ ki taapoṅ ne is ko kuchla hai
-  Hai sehra haath mein khwaahar bhi intizaar mein hai
-  Dar-e-qayaam pe maadar bhi intizaar mein hai
+  Hai sehra haath meiṅ khwaahar bhi intizaar meiṅ hai
+  Dar-e-qayaam pe maadar bhi intizaar meiṅ hai
 
   7
   Kaha Husain ne ab tu yahaaṅ se ja Zaafar
   Jo ambiya bhi yahaaṅ hai na koi thahre idhar
   Faqat rahe yahaaṅ mere naana Paighambar
   Raheṅ ge bhaiya Hasan aur rahe ga mera padar
-  Bala ke dasht mein Ahmad ki pyaari aati hai
+  Bala ke dasht meiṅ Ahmad ki pyaari aati hai
   Falak se ab meri maaṅ ki sawaari aati hai
 
   8
-  Ba waqt-e-asr chali Karbala mein tez hawa
+  Ba waqt-e-asr chali Karbala meiṅ tez hawa
   Malaaika bhi ye utre sawaari-e-Zehra
   Pisar ko Bibi ne barh kar gale se liptaaya
   Rakha Husain ne zaanuṅ pe maaṅ ke sar apna
@@ -86,7 +86,7 @@ romanLyrics: |-
 
   9
   Bayaaṅ ho kaise ae Maajid wo khuṅ fishaaṅ manzar
-  Dobaara dasht mein aaya palat ke jab Zaafar
+  Dobaara dasht meiṅ aaya palat ke jab Zaafar
   To dekha chal gaya halqum mein shaah pe khanjar
   Buland neze pe tha shaadmaaṅ Husain ka sar
   Machi thi lut Nabi ke qayaam jalte the

@@ -1,6 +1,6 @@
 ---
 title: "تھا لب زینب پہ نوحہ بیڑیاں پیروں میں ہے"
-alternateTitle: "Beriyaṅ Pairoṅ Mein"
+alternateTitle: "Beriyaṅ Pairoṅ Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,38 +11,38 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Tha lab-e-Zainab pe nauha beriyaṅ pairoṅ mein hai
+  Tha lab-e-Zainab pe nauha beriyaṅ pairoṅ meiṅ hai
 
   1
-  Kya chale Sajjad rasta beriyaṅ pairoṅ mein hai
+  Kya chale Sajjad rasta beriyaṅ pairoṅ meiṅ hai
 
   2
-  Bole Aabid dafn main kaise karuṅ kiuṅ kar karuṅ
-  Bekafan baba ka laasha beriyaṅ pairoṅ mein hai
+  Bole Aabid dafn maiṅ kaise karuṅ kiuṅ kar karuṅ
+  Bekafan baba ka laasha beriyaṅ pairoṅ meiṅ hai
 
   3
   Do qadam chalte haiṅ gir jaate haiṅ Aabid kya kare
-  Zor hai tashna labi ka beriyaṅ pairoṅ mein hai
+  Zor hai tashna labi ka beriyaṅ pairoṅ meiṅ hai
 
   4
   Bhai se umid-e-hamdardi kare to kya kare
-  Ro ke kehte hai Sakina beriyaṅ pairoṅ mein hai
+  Ro ke kehte hai Sakina beriyaṅ pairoṅ meiṅ hai
 
   5
   Boli Zainab Sayyid-e-Sajjad se ae mere laal
-  Shaam tak tum ko hai jaana beriyaṅ pairoṅ mein hai
+  Shaam tak tum ko hai jaana beriyaṅ pairoṅ meiṅ hai
 
   6
   Baad-e-Sarwar dekhiye to Aabid-e-bimaar ko
-  Aa gaya aisa zamaana beriyaṅ pairoṅ mein hai
+  Aa gaya aisa zamaana beriyaṅ pairoṅ meiṅ hai
 
   7
   Ya Ali Sajjad ki mushkil kushaai kijiye
-  Hai atash se zard chehra beriyaṅ pairoṅ mein hai
+  Hai atash se zard chehra beriyaṅ pairoṅ meiṅ hai
 
   8
   De sahaara kaun Ishrat Sayyid-e-Sajjad ko
-  Dard ka sine mein neza beriyaṅ pairoṅ mein hai
+  Dard ka sine meiṅ neza beriyaṅ pairoṅ meiṅ hai
 # source_id: nohayonline:e28ca3c36b4f1bf494a0
 # source_url: https://www.nohayonline.com/details_content.php?id=2050
 # raw_sha256: d4ed225e7945c2cb193dbef1142bd71039ea61da2cbbe497413b4ce049e950c4

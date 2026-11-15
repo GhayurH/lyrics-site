@@ -40,7 +40,7 @@ romanLyrics: |-
 
   5
   Sar khule kucha o baazaar phir aayi Zainab
-  Be rida Shaam ke darbaar meiṅ aayi Zainab
+  Berida Shaam ke darbaar meiṅ aayi Zainab
   Khun ke ashk har ek pal hai bahaayi Zainab
   Dil meiṅ gham le ke bahattar ko huṅ zinda bhaiya
 

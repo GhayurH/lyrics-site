@@ -12,12 +12,12 @@ tags: []
 aliases: ["zikr-e-hasan-mir-hasan-mir"]
 published: true
 romanLyrics: |-
-  Hasan ke zikr mein jab zikr-e-Kirdgaar kiya
-  Mere Khuda ne use hamd mein shumaar kiya
+  Hasan ke zikr meiṅ jab zikr-e-Kirdgaar kiya
+  Mere Khuda ne use hamd meiṅ shumaar kiya
 
   1
-  Khata mein is ko Nakirain ne shumaar kiya
-  Hasan ke zikr mein jis ne bhi ikhtisaar kiya
+  Khata meiṅ is ko Nakirain ne shumaar kiya
+  Hasan ke zikr meiṅ jis ne bhi ikhtisaar kiya
 
   2
   Khuda ka sher hua apne sher par naazaaṅ
@@ -57,7 +57,7 @@ romanLyrics: |-
 
   11
   Bichha ke farsh-e-wila ham ne aaj Mir Hasan
-  Hasan ke jashn mein Qayam ka intizaar kiya
+  Hasan ke jashn meiṅ Qayam ka intizaar kiya
 # source_id: tajpoints:068e7b6f71932e1491c9
 # source_url: https://tajpoints.com/2021/04/zikr-e-hasan-mir-hasan-mir-lyrics-in.html
 # raw_sha256: 344ad011d972c4f9df28a9f5c2a77c6877fa5643743dabdf4403c8bd5f19ca22

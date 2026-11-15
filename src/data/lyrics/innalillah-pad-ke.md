@@ -24,7 +24,7 @@ romanLyrics: |-
   Zakhm sine pe khaane jaata hai
 
   2
-  Jaise dil jaa raha ho maqtal mein
+  Jaise dil jaa raha ho maqtal meiṅ
   Jaise jaati ho jaan sine se
   Aise apne jawaaṅ ke pichhe
   Ik mazlum baap chalta hai
@@ -42,7 +42,7 @@ romanLyrics: |-
   Kaise laasha jawaaṅ uthaaya hai
 
   5
-  Ran mein rahwaar se gire Akbar
+  Ran meiṅ rahwaar se gire Akbar
   Shaah khaime ke dar se uth na sake
   Aise dil thaam ke gire Maula
   Arsh jaise zamiṅ pe girta hai
@@ -50,7 +50,7 @@ romanLyrics: |-
   6
   Ae Raza us jawaan ke sine se
   Khun rukta nahiṅ hai roke se
-  Shah ka daaman lahu mein dub gaya
+  Shah ka daaman lahu meiṅ dub gaya
   Zakhm na jaane kitna gehra hai
 # source_id: nohayonline:36581b6c0495b649fa54
 # source_url: https://www.nohayonline.com/details_content.php?id=2286

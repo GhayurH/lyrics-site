@@ -12,7 +12,7 @@ published: true
 romanLyrics: |-
   Laasha-e-Abbas par sheh jo aaye
   Haye haye
-  Dekha bhai ko khuṅ mein nahaye
+  Dekha bhai ko khuṅ meiṅ nahaye
 
   1
   Lipte bhai ke laashe se Sarwar
@@ -27,7 +27,7 @@ romanLyrics: |-
   Haye haye
 
   3
-  Dasht-e-ghurbat mein bhai ko bhai
+  Dasht-e-ghurbat meiṅ bhai ko bhai
   Mere bhai
   Chhor kar is tarah se na jaaye
   Haye haye

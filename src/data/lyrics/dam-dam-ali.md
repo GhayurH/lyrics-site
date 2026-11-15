@@ -19,7 +19,7 @@ romanLyrics: |-
   Maidaan Khum da Mursal saja ke
   Kul haajiyaaṅ nu dhup wich ruka ke
   Paalaaṅ waala mimbar bichha ke
-  Farmaa ray ne Haider nu chaa ke
+  Farmaa re ne Haider nu chaa ke
 
   2
   Sun lo Khuda da farmaan ae aaya
@@ -34,21 +34,21 @@ romanLyrics: |-
   Kya shaan Mustafa di dhi de sohaag da
 
   4
-  Yaar Nabi de eweiṅ jaagde ray ne
-  Akkhaaṅ mal mal ke takde ray ne
-  Dil wich sab armaan ray ne
-  Bughziyaaṅ de dil sarde ray ne
+  Yaar Nabi de eweiṅ jaagde re ne
+  Akkhaaṅ mal mal ke takde re ne
+  Dil wich sab armaan re ne
+  Bughziyaaṅ de dil sarde re ne
 
   5
   Makhluq te Khuda da ehsaan Ya Ali
   Waliyaaṅ mawaaliyaaṅ da sultaan Ya Ali
-  Main tere naaṅ te qurbaan Ya Ali
+  Maiṅ tere naaṅ te qurbaan Ya Ali
   Kar mushkilaaṅ sab aasaan Ya Ali
 
   6
   Jhukya teri dehliz te rehndaaṅ
   Sadqa teri aulaad da mangdaaṅ
-  Har saah naal eh zikr main kardaaṅ
+  Har saah naal eh zikr maiṅ kardaaṅ
   Naam tere diyaaṅ tasbihaaṅ parhdaaṅ
 
   7

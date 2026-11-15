@@ -18,7 +18,7 @@ romanLyrics: |-
   Tera raunda gaya laasha mere mazlum Husain
 
   2
-  Sune jangal mein pari hai teri mayyat pyaare
+  Sune jangal meiṅ pari hai teri mayyat pyaare
   Koi pursa nahiṅ tera mere mazlum Husain
 
   3
@@ -30,19 +30,19 @@ romanLyrics: |-
   Tukre hota hai kaleja mere mazlum Husain
 
   5
-  Ye na samjhe keh mera dudh bhi shaamil is mein
-  Tera khuṅ ran mein bahaaya mere mazlum Husain
+  Ye na samjhe keh mera dudh bhi shaamil is meiṅ
+  Tera khuṅ ran meiṅ bahaaya mere mazlum Husain
 
   6
   Kaun mayyat pe tere baith ke beta roye
-  Qaid mein hai tera kunba mere mazlum Husain
+  Qaid meiṅ hai tera kunba mere mazlum Husain
 
   7
   Zakhm hai jism ke gehre na aziyyat ho kahiṅ
-  Tujh ko liptaauṅ main kaise mere mazlum Husain
+  Tujh ko liptaauṅ maiṅ kaise mere mazlum Husain
 
   8
-  Tegh thi haath mein ya khanjar tha qaatil ke
+  Tegh thi haath meiṅ ya khanjar tha qaatil ke
   Sar tera kaahe se kaata mere mazlum Husain
 
   9
@@ -54,7 +54,7 @@ romanLyrics: |-
   Na diya paani ka khatra mere mazlum Husain
 
   11
-  Ranj mein dekho na Sarwar se kuchh ho jaaye
+  Ranj meiṅ dekho na Sarwar se kuchh ho jaaye
   Dil hai insaan ka beta mere mazlum Husain
 # source_id: nohayonline:a1406f3bd1e7a4c29f1a
 # source_url: https://www.nohayonline.com/details_content.php?id=1115

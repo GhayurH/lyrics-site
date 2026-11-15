@@ -1,6 +1,6 @@
 ---
 title: "چند قدموں سے سکینہ نے یہ منظر دیکھا"
-alternateTitle: "Chand Qadmon Se Sakina"
+alternateTitle: "Chand Qadmoṅ Se Sakina"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -15,8 +15,8 @@ romanLyrics: |-
   Shimr ka Baba pe chalta hua khanjar dekha
 
   1
-  Khaak par girti rahi bachchi dehakte ran mein
-  Baap ki zulfoṅ mein jab dast-e-sitamgar dekha
+  Khaak par girti rahi bachchi dehakte ran meiṅ
+  Baap ki zulfoṅ meiṅ jab dast-e-sitamgar dekha
 
   2
   Zulm to ye hai ke qatl karne se pehle usne
@@ -31,7 +31,7 @@ romanLyrics: |-
   Shah ki gardan pe gala beti ne rakh kar dekha
 
   5
-  Jis jagah chain se soti rahi wo Yasrab mein
+  Jis jagah chain se soti rahi wo Yasrab meiṅ
   Chhalni tiroṅ se Sakina ne wo bistar dekha
 
   6
@@ -40,7 +40,7 @@ romanLyrics: |-
 
   7
   Baap par chalti hui dekhi jo zarbeṅ Mohsin
-  Ek maasuma ne Karbal mein yuṅ mahshar dekha
+  Ek maasuma ne Karbal meiṅ yuṅ mahshar dekha
 # source_id: nohayonline:9e1968c9bffd0343c1b4
 # source_url: https://www.nohayonline.com/details_content.php?id=1365
 # raw_sha256: 34b642a8a9d80e9934a5b766e26a97e5b9a0f3e1e2df623d49f15ce258645564

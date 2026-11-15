@@ -11,8 +11,8 @@ tags: []
 aliases: ["Ghar Hussain Ka Hai"]
 published: true
 romanLyrics: |-
-  Sharaf ke shehr mein har baam o dar Husain ka hai
-  Zamaane bhar ke gharaanoṅ mein ghar Husain ka hai
+  Sharaf ke shehr meiṅ har baam o dar Husain ka hai
+  Zamaane bhar ke gharaanoṅ meiṅ ghar Husain ka hai
 
   1
   Furaat-e-waqt-e-rawaaṅ dekh su-e-maqtal dekh
@@ -27,7 +27,7 @@ romanLyrics: |-
   Magar jawaab wohi motabar Husain ka hai
 
   4
-  Mohabbatoṅ ke hawaaloṅ mein zikr aane laga
+  Mohabbatoṅ ke hawaaloṅ meiṅ zikr aane laga
   Ye fazl bhi to mere haal par Husain ka hai
 
   5

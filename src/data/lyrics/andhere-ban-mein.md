@@ -1,6 +1,6 @@
 ---
 title: "اندھیرے بن میں ہے بابا سکینہ کیوں چلی آئی"
-alternateTitle: "Andhere Ban Mein"
+alternateTitle: "Andhere Ban Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,8 +10,8 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Andhere ban mein hai baba Sakina kiuṅ chali aayi
-  Lahu mein duba hai laasha Sakina kiuṅ chali aayi
+  Andhere ban meiṅ hai baba Sakina kiuṅ chali aayi
+  Lahu meiṅ duba hai laasha Sakina kiuṅ chali aayi
 
   1
   Na ab nind aaye gi tum ko na ab baba sulaayeṅ ge
@@ -22,15 +22,15 @@ romanLyrics: |-
   Yahaṅ hai maut ka pehra Sakina kiuṅ chali aayi
 
   3
-  Chacha se koi keh de tum abhi tak ran mein pyaasi ho
+  Chacha se koi keh de tum abhi tak ran meiṅ pyaasi ho
   Unhiṅ ke paas hai darya Sakina kiuṅ chali aayi
 
   4
   Phuphi har samt tum ko dekhti aur dhundti hoṅ gi
-  Jale khaime mein hai tanha Sakina kiuṅ chali aayi
+  Jale khaime meiṅ hai tanha Sakina kiuṅ chali aayi
 
   5
-  Tumhaare waaste jo khun mein duba hai darya par
+  Tumhaare waaste jo khun meiṅ duba hai darya par
   Tarap jaata hai wo laasha Sakina kiuṅ chali aayi
 # source_id: nohayonline:83c595adf1026bedaed2
 # source_url: https://www.nohayonline.com/details_content.php?id=3438

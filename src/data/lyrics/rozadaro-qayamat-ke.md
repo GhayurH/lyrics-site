@@ -31,13 +31,13 @@ romanLyrics: |-
 
   3
   Shab ye unniswiṅ kaisi aayi
-  Khuṅ mein duba Muhammad ka bhaai
+  Khuṅ meiṅ duba Muhammad ka bhaai
   Ro raha hai sehar ka sitaara
   Rozadaaroṅ qayaamat ke din haiṅ
 
   4
   Ibn-e-Muljim sitam kaisa dhaaya
-  Qabr mein Sayyeda ko rulaaya
+  Qabr meiṅ Sayyeda ko rulaaya
   Kaise bachchoṅ ka hoga guzaara
   Rozadaaroṅ qayaamat ke din haiṅ
 
@@ -50,11 +50,11 @@ romanLyrics: |-
   6
   Maaṅ ke marne ka gham kam nahiṅ tha
   Ek koh-e-alam aur tuta
-  Sog mein ghar hai Zehra ka saara
+  Sog meiṅ ghar hai Zehra ka saara
   Rozadaaroṅ qayaamat ke din haiṅ
 
   7
-  Ghar mein Haidar ke aah o fughaaṅ hai
+  Ghar meiṅ Haidar ke aah o fughaaṅ hai
   Eid nazdik gham ka samaaṅ hai
   Aisa Ramzaaṅ na aaye dubaara
   Rozadaaroṅ qayaamat ke din haiṅ
@@ -62,7 +62,7 @@ romanLyrics: |-
   8
   Umm-e-Kulsum Zainab se boliṅ
   Aaj Baaba ne aaṅkheṅ na kholi
-  Main ne shaana hila kar pukaara
+  Maiṅ ne shaana hila kar pukaara
   Rozadaaroṅ qayaamat ke din haiṅ
 
   9

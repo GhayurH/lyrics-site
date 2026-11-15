@@ -20,7 +20,7 @@ romanLyrics: |-
   Ho gaya hum se juda apna muhaafiz Abbas
 
   2
-  Bibiyaaṅ jalte huwe khaimoṅ mein jab royeṅgi
+  Bibiyaaṅ jalte huwe khaimoṅ meiṅ jab royeṅgi
   Yaad aayega wahaaṅ un ka muhaafiz Abbas
 
   3
@@ -28,15 +28,15 @@ romanLyrics: |-
   Hai kahaaṅ mera chacha mera muhaafiz Abbas
 
   4
-  Haye bimaar raha tauq o salaasil mein asir
+  Haye bimaar raha tauq o salaasil meiṅ asir
   Yaad aata hai unheṅ apna muhaafiz Abbas
 
   5
-  Haye wo kucha o baazaar mein the Ahl-e-Haram
+  Haye wo kucha o baazaar meiṅ the Ahl-e-Haram
   So gaya nehr pe hum sab ka muhaafiz Abbas
 
   6
-  Berida Shaam ke darbaar mein Zainab hai khari
+  Berida Shaam ke darbaar meiṅ Zainab hai khari
   Hai kahaaṅ bhai mera mera muhaafiz Abbas
 
   7

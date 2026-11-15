@@ -11,11 +11,11 @@ aliases: []
 published: true
 romanLyrics: |-
   Majbur huṅ behna tumheiṅ dafna nahiṅ sakta
-  Qaidi huṅ Sakina main kafan laa nahiṅ sakta
+  Qaidi huṅ Sakina maiṅ kafan laa nahiṅ sakta
 
   1
-  Laasha main akele hi uthaauṅ ga tumhaara
-  Ghairoṅ se tera laasha main uthwa nahiṅ sakta
+  Laasha maiṅ akele hi uthaauṅ ga tumhaara
+  Ghairoṅ se tera laasha maiṅ uthwa nahiṅ sakta
 
   2
   Laachaar hai Sajjad se kiuṅ ruth gayi tum
@@ -23,7 +23,7 @@ romanLyrics: |-
 
   3
   Tum qabr meiṅ aaraam karo baali Sakina
-  Ab saath main ghar le ke tumheiṅ jaa nahiṅ sakta
+  Ab saath maiṅ ghar le ke tumheiṅ jaa nahiṅ sakta
 
   4
   Behna inhi kaproṅ meiṅ tumheiṅ dafn karuṅ ga
@@ -31,15 +31,15 @@ romanLyrics: |-
 
   5
   Abbas chacha aao Sakina ko manaao
-  Main le ke use aap ke paas aa nahiṅ sakta
+  Maiṅ le ke use aap ke paas aa nahiṅ sakta
 
   6
   Taabut uthaane ko na Akbar hai na Abbas
-  Main ahl-e-watan ko yahaaṅ bulwa nahiṅ sakta
+  Maiṅ ahl-e-watan ko yahaaṅ bulwa nahiṅ sakta
 
   7
-  Main kaise khabar duṅ tere marne ki padar ko
-  Woh aa nahiṅ sakte main wahaaṅ jaa nahiṅ sakta
+  Maiṅ kaise khabar duṅ tere marne ki padar ko
+  Woh aa nahiṅ sakte maiṅ wahaaṅ jaa nahiṅ sakta
 # source_id: nohayonline:34c6d9ab0ce8923e5a0d
 # source_url: https://www.nohayonline.com/details_content.php?id=1058
 # raw_sha256: 6c1c81f790cc8664cd97bff3f1dcda7fff11e9aa1f9929ae569ff24186836e86

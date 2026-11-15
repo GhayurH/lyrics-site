@@ -13,19 +13,19 @@ aliases: ["Dar E Hussain Pe Kasa Utha Ke Le Aaya Syed Mudassir Mehdi"]
 published: true
 romanLyrics: |-
   Dar-e-Husain pe kaasa utha ke le aaya
-  Wahaaṅ se kaase mein dunya utha ke le aaya
+  Wahaaṅ se kaase meiṅ dunya utha ke le aaya
 
   1
   Zamaana chhor ke pahuncha faqir Karb o Bala
   Wahaaṅ para tha zamaana utha ke le aaya
 
   2
-  Nasib mein jo likha tha wo sab to mil hi gaya
-  Nasib mein jo nahiṅ tha utha ke le aaya
+  Nasib meiṅ jo likha tha wo sab to mil hi gaya
+  Nasib meiṅ jo nahiṅ tha utha ke le aaya
 
   3
   Wo le ke aaya tha fatwa khilaaf-e-maatam-e-Shah
-  So main bhi tegh-e-tabarra utha ke le aaya
+  So maiṅ bhi tegh-e-tabarra utha ke le aaya
 
   4
   Duaaeṅ dene lagi maut mujh ko jine ki
@@ -33,7 +33,7 @@ romanLyrics: |-
 
   5
   Khushi bayaan se baahar thi jab Jari ka alam
-  Julus mein mera bachcha utha ke le aaya
+  Julus meiṅ mera bachcha utha ke le aaya
 
   6
   Na hogi hashr talak us ke ghar ghiza ki kami
@@ -44,11 +44,11 @@ romanLyrics: |-
   Jo nok-e-neza pe darya utha ke le aaya
 
   8
-  Husain laaye jo beshir ko to bole lain
+  Husain laaye jo beshir ko to bole laiṅ
   Ye kaun haathoṅ pe Kaaba utha ke le aaya
 
   9
-  Paye nijaat mere paas kya tha Noor Ali
+  Paye nijaat mere paas kya tha Nur Ali
   Bas ik nishaan-e-aza tha utha ke le aaya
 # source_id: tajpoints:83c30461e0e441dd947b
 # source_url: https://tajpoints.com/2023/02/dar-e-hussain-pe-kasa-utha-ke-le-aaya.html

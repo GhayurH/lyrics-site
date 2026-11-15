@@ -18,7 +18,7 @@ romanLyrics: |-
 
   1
   Maatam hai ye usi ka jo nabiyoṅ ka naaz hai
-  Sadqe mein jis ke aaj bhi qaaim namaaz hai
+  Sadqe meiṅ jis ke aaj bhi qaaim namaaz hai
   Jis ne sulagti ret pe sajda kiya ada
   Is se milega mominoṅ jannat ka raasta
 

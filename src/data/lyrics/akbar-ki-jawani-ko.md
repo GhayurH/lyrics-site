@@ -28,18 +28,18 @@ romanLyrics: |-
 
   4
   Ahmad ki nawaasi pe ajab waqt para hai
-  Baazaar mein ek ek se ridaa maaṅg rahi hai
+  Baazaar meiṅ ek ek se ridaa maaṅg rahi hai
 
   5
   Ye Asr ka hangaam hai utho Ali Akbar
   Piri Shah-e-Waala ki asaa maaṅg rahi hai
 
   6
-  Suraj se kaho raat ke parde mein chala jaae
+  Suraj se kaho raat ke parde meiṅ chala jaae
   Ummat sar-e-Zainab se ridaa maaṅg rahi hai
 
   7
-  Baano Ali Asghar ko kaleje mein chhupa lo
+  Baano Ali Asghar ko kaleje meiṅ chhupa lo
   Ye chaand bhi ghurbat ki ghataa maaṅg rahi hai
 
   8
@@ -47,7 +47,7 @@ romanLyrics: |-
   Bimaar tumhaari ye shifaa maaṅg rahi hai
 
   9
-  Kal dasht-e-musibat mein jo mohtaaj-e-kafan tha
+  Kal dasht-e-musibat meiṅ jo mohtaaj-e-kafan tha
   Aaj us se kafan khalq-e-Khuda maaṅg rahi hai
 
   10

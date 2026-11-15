@@ -13,7 +13,7 @@ reciter: "Safdar Abbas"
 romanLyrics: |-
   Kitne zamane guzar gaye
   Alam hamara jhuka nahiṅ
-  Junun se gham mein qayadatoṅ ka
+  Junuṅ se gham meiṅ qayadatoṅ ka
   Jo silsila tha ruka nahiṅ
 
   1
@@ -27,7 +27,7 @@ romanLyrics: |-
   2
   Isi alam par murad maangeṅ
   Tamam aalam ke saath hum bhi
-  Hai is alam ki qayadatoṅ mein
+  Hai is alam ki qayadatoṅ meiṅ
   Husainiyat bhi julus-e-gham bhi
   Hum is alam se hi maangte haiṅ
   Dawa sifarish aur wafaeṅ
@@ -35,10 +35,10 @@ romanLyrics: |-
   3
   Ise wasila bana ke maango
   Jo maango Parwardigar dega
-  Jo is ke sae mein saans lega
+  Jo is ke sae meiṅ saans lega
   Ye us ki nasleṅ sanwar dega
   Jab is pe saya hai Sayyeda ka
-  To is ke sae mein kiuṅ na jaeṅ
+  To is ke sae meiṅ kiuṅ na jaeṅ
 
   4
   Husain karte the naaz jis par
@@ -59,7 +59,7 @@ romanLyrics: |-
   6
   Hamari izzat hasham hamara
   Azimtar hai alam hamara
-  Rakhega dunya o aakhirat mein
+  Rakhega dunya o aakhirat meiṅ
   Qasam Khuda ki bharam hamara
   Kareṅge raij hum ik nara
   Alam uthaeṅ najat paeṅ

@@ -17,11 +17,11 @@ romanLyrics: |-
   Pahunche jo Husain ibn-e-Ali laash-e-pisar par
   Woh haal nazar aaya chhuri chal gayi dil par
   Ye keh ke zamin par gire bete ke barabar
-  Aaya hai pidar hosh mein aao Ali Akbar
+  Aaya hai pidar hosh meiṅ aao Ali Akbar
 
   2
   Zalim koi bekas ko batata na tha rasta
-  Chhaya tha nigahoṅ mein andhera hi andhera
+  Chhaya tha nigahoṅ meiṅ andhera hi andhera
   Aaya hai pidar paas tere thokareṅ khata
   Aankhoṅ ko hua kya meri puchho Ali Akbar
 
@@ -38,21 +38,21 @@ romanLyrics: |-
   Dil baap ka is tarha na toro Ali Akbar
 
   5
-  Ae laal tasavvur mein tha maaṅ ke tera sehra
+  Ae laal tasavvur meiṅ tha maaṅ ke tera sehra
   Hai der se darwaza-e-khaima pe woh dukhiya
   Kya ja ke bataauṅ jo hua haal tumhara
   Laila se kahuṅ kya ye batao Ali Akbar
 
   6
   Ab der jo ki tum ne to karti hui zaari
-  Beparda behen aaegi maqtal mein hamari
+  Beparda behen aaegi maqtal meiṅ hamari
   Maadar kahiṅ mar jaaye na sadme se tumhari
   Baba bhi nahiṅ jine ke sun lo Ali Akbar
 
   7
   Kis tarha se dekhe ye pidar haal tumhara
-  Qabu mein nahiṅ qalb ulatta hai kaleja
-  Pahlu mein hai dil baap ka patthar nahiṅ beta
+  Qabu meiṅ nahiṅ qalb ulatta hai kaleja
+  Pahlu meiṅ hai dil baap ka patthar nahiṅ beta
   Aage mere is tarha na tarpo Ali Akbar
 
   8

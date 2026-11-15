@@ -39,7 +39,7 @@ romanLyrics: |-
   Aabid ki sada thi meri behna ko na maaro
 
   7
-  Gunji ye sada dasht mein ae Maajid o Mukhtaar
+  Gunji ye sada dasht meiṅ ae Maajid o Mukhtaar
   Mazlum ko majruh ko tanha ko na maaro
 # source_id: nohayonline:7a481236eeabefa8ba96
 # source_url: https://www.nohayonline.com/details_content.php?id=2082

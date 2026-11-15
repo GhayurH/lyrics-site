@@ -31,12 +31,12 @@ romanLyrics: |-
   Madad ko aaiye bahr-e-Khuda chacha Abbas
 
   5
-  Diyaar-e-Shaam mein Zainab pukaar uthi thi
+  Diyaar-e-Shaam meiṅ Zainab pukaar uthi thi
   Ridaa-e-paak ke waaris haiṅ berida Abbas
 
   6
   Bhatak na paaye wo Izhaar jo Shah ka zaair hai
-  Ye Karbala mein dikhaate haiṅ maujize Abbas
+  Ye Karbala meiṅ dikhaate haiṅ maujize Abbas
 # source_id: nohayonline:5970b17e3be9dbf2e2dc
 # source_url: https://www.nohayonline.com/details_content.php?id=758
 # raw_sha256: 196b44557cd8f0280e30eddbf1caa6fa87bc8b5bbc0921e655862c65abe5dee4

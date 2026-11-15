@@ -22,16 +22,16 @@ romanLyrics: |-
   Ham kar rahe haiṅ maatam kiuṅ tum ko khal raha hai
 
   2
-  Sun kar jawaab-e-hal min maqtal mein jaan dene
+  Sun kar jawaab-e-hal min maqtal meiṅ jaan dene
   Inkaar-e-Karbala ko apni zabaaṅ dene
   Nikle haiṅ ahl-e-maatam haq ki azaaṅ dene
-  Dil mein shahaadatoṅ ka armaaṅ machal raha hai
+  Dil meiṅ shahaadatoṅ ka armaaṅ machal raha hai
 
   3
   Dunya se keh rahe haiṅ fauj-e-aza ke jaare
   Ta khauf zulmatoṅ ka jab roshni Khuda de
-  Jurat ho gar kisi mein aa kar ise bujha de
-  Baiat ki aandhiyoṅ mein ek dip jal raha hai
+  Jurat ho gar kisi meiṅ aa kar ise bujha de
+  Baiat ki aandhiyoṅ meiṅ ek dip jal raha hai
 
   4
   Mimbar masjidoṅ par farsh-e-aza pe hamle
@@ -41,7 +41,7 @@ romanLyrics: |-
 
   5
   Dharti palat na jaaye dunya ulat na jaaye
-  Behta hua ye darya tukroṅ mein bat na jaaye
+  Behta hua ye darya tukroṅ meiṅ bat na jaaye
   Ruhul Amin tumhaara shah par hi kat na jaaye
   Abbas ke ghazab ka laawa ubal raha hai
 
@@ -66,7 +66,7 @@ romanLyrics: |-
   9
   Jis ko parha gaya tha jis ko suna gaya tha
   Jis ke liye sitam ka taana buna gaya tha
-  Diwaar-e-shar mein Aamir jis ko chuna gaya tha
+  Diwaar-e-shar meiṅ Aamir jis ko chuna gaya tha
   Nayyar wohi qabila ab phul phal raha hai
 # source_id: nohayonline:2f64f0ca05659c94dea4
 # source_url: https://www.nohayonline.com/details_content.php?id=2133

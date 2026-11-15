@@ -14,142 +14,142 @@ romanLyrics: |-
   Zulm ki chaand pe Zehra ke ghata chaayi hai
 
   1
-  Us taraf lashkar-e-aada mein saf aarayi hai
-  Yan na beta na bhatija na koi bhai hai
-  Barchiyan khaate chale jaate hai talwaron mein
-  Maar lo pyase ko hai shor sitamgaaron mein
+  Us taraf lashkar-e-aada meiṅ saf aarayi hai
+  Yaṅ na beta na bhatija na koi bhai hai
+  Barchiyaṅ khaate chale jaate hai talwaroṅ meiṅ
+  Maar lo pyase ko hai shor sitamgaaroṅ meiṅ
 
   2
-  Zakhmi baazu hai kamar kham hai badan mein nahi taab
-  Dagmagate hain nikal jaati hai qadmon se rakaab
-  Pyaas ka ghalba hai lab khushk hai aankhein pur aab
+  Zakhmi baazu hai kamar kham hai badan meiṅ nahi taab
+  Dagmagate haiṅ nikal jaati hai qadmoṅ se rakaab
+  Pyaas ka ghalba hai lab khushk hai aankheiṅ pur aab
   Taygh se dete hai har waar ka aada ko jawab
 
   3
-  Shiddat e zaof mein jis jaa pe teher jaate hai
-  Saikdon teer e sitam tan se guzar jaate hai
-  Gaysu aalooda khoon lipte hai rukhsaaron se
-  Shaane kat kat ke latak aaye hai talwaron se
+  Shiddat e zaof meiṅ jis jaa pe teher jaate hai
+  Saikroṅ tir e sitam tan se guzar jaate hai
+  Gaysu aalooda khun lipte hai rukhsaaroṅ se
+  Shaane kat kat ke latak aaye hai talwaroṅ se
 
   4
-  Teer payvast hai khoon behta hai sofaaron se
-  Laakh aafat mein hai ek jaan dil aazaaron se
-  Fikr hai sajda e mabood mein sar dene ki
-  Waar se teghon ke fursat nahi dam lene ki
+  Tir payvast hai khun behta hai sofaaroṅ se
+  Laakh aafat meiṅ hai ek jaan dil aazaaroṅ se
+  Fikr hai sajda e mabud meiṅ sar dene ki
+  Waar se teghoṅ ke fursat nahi dam lene ki
 
   5
-  Khoon se tar pech amaame ke hai sar zakhmi hai
-  Hai jabeen chaand si pur noor magar zakhmi hai
-  Seena sab barchiyon se taaba kamar zakhmi hai
-  Teer e beedaad se dil zakhmi jigar zakhmi hai
+  Khuṅ se tar pech amaame ke hai sar zakhmi hai
+  Hai jabiṅ chaand si pur nur magar zakhmi hai
+  Seena sab barchiyoṅ se taaba kamar zakhmi hai
+  Tir e bidaad se dil zakhmi jigar zakhmi hai
 
   6
-  Zarb e shamsheer se bekaar hai baazu dono
-  Zulm ke teeron se majrooh hai pehlu dono
-  Barchi aa kar koi pehlu mein laga jaata hai
+  Zarb e shamshir se bekaar hai baazu dono
+  Zulm ke tiroṅ se majruh hai pehlu dono
+  Barchi aa kar koi pehlu meiṅ laga jaata hai
   Maarta hai koi naiza to ghash aa jaata hai
 
   7
-  Badte hai zakhm e badan zor ghata jaata hai
-  Band aankhein hai sar e paak jhuka jaata hai
+  Barte hai zakhm e badan zor ghata jaata hai
+  Band aankheiṅ hai sar e paak jhuka jaata hai
   Gird zahra o ali girya kuna phirte hai
-  Ghul hai ghode se imame do jahan girte hai
+  Ghul hai ghore se imame do jahaṅ girte hai
 
   8
-  Girte hai khatra e khoon zakhm e jabeen se paiham
-  Daste majrooh se khaynch sakte nahi teer e sitam
+  Girte hai khatra e khuṅ zakhm e jabiṅ se paiham
+  Daste majruh se khaynch sakte nahi tir e sitam
   Fikr hai bakshish e ummat ki kuch apna nahi gham
-  Karte hai shukre khuda khushk zuban se har dam
+  Karte hai shukre khuda khushk zubaṅ se har dam
 
   9
-  Hai abaa teeron se ghurban qaba gulgoon hai
-  Honth ya waqt se zakhmi hai dahan par khoon hai
-  Zeen se hota hai juda doshe mohamed ka makeen
-  Chaman e fatema ka sard hai maa'il ba zameen
+  Hai abaa tiroṅ se ghurbaṅ qaba gulguṅ hai
+  Honth ya waqt se zakhmi hai dahan par khuṅ hai
+  Ziṅ se hota hai juda doshe mohamed ka makiṅ
+  Chaman e fatema ka sard hai maa'il ba zamiṅ
 
   10
-  Barchiyan gird hai beech mein hai sarwar e deen
-  Hai ye nazdeek gire mehre nabuwat ka nageen
-  Paon har baar raqabon se nikal jaate hai
+  Barchiyaṅ gird hai bich meiṅ hai sarwar e diṅ
+  Hai ye nazdik gire mehre nabuwat ka nagiṅ
+  Paoṅ har baar raqaboṅ se nikal jaate hai
   Ya ali kehti hai zainab to sambhal jaate hai
 
   11
-  Laakh talwaarein hai aur ek tan e athar hai
-  Ek mazloom hai aur zaalimon ka lashkar hai
-  Saykdon khanjar e faulaad hai aur ek sar hai
+  Laakh talwaareiṅ hai aur ek tan e athar hai
+  Ek mazlum hai aur zaalimoṅ ka lashkar hai
+  Saykroṅ khanjar e faulaad hai aur ek sar hai
   Na koi yaar na humdam na koi yawar hai
 
   12
-  Baag ghode ki latakti hai utha sakte nahi
+  Baag ghore ki latakti hai utha sakte nahi
   Saamne ahle haram rote hai jaa sakte nahi
   Koi syed ka nahi aah bachane waala
-  Harbe laakhon hai aur ek zakhm uthane waala
+  Harbe laakhoṅ hai aur ek zakhm uthane waala
 
   13
-  Pyaas mein koi nahi pani pilaane waala
-  Sambhle kis tarha bhala barchiyan khaane waala
-  Charkh se aag barasti hai zameen jalti hai
-  Maare garmi ke zuban khushk hai loo chalti hai
+  Pyaas meiṅ koi nahi pani pilaane waala
+  Sambhle kis tarha bhala barchiyaṅ khaane waala
+  Charkh se aag barasti hai zamiṅ jalti hai
+  Maare garmi ke zubaṅ khushk hai loo chalti hai
 
   14
-  Kahin dam lene ko saaya nahi hai waqt e zawaal
-  Aenthi jaati hai zuban pyaas ki shiddat hai kamaal
+  Kahiṅ dam lene ko saaya nahi hai waqt e zawaal
+  Aenthi jaati hai zubaṅ pyaas ki shiddat hai kamaal
   Kabhi zainab ka hai ghamgaah sakina ka khayaal
   Din jo dhalta hai to hazrat huwe jaate hai nidhaal
 
   15
-  Misle khursheed badan zauf se thar tharata hai
+  Misle khurshid badan zauf se thar tharata hai
   Nayyar e burj e imamat pe zawaal aata hai
-  Kehte hain zaalimon se khushk zuban dikhla kar
+  Kehte haiṅ zaalimoṅ se khushk zubaṅ dikhla kar
   Behre haq paani ka ek jaam pila do laa kar
 
   16
-  Ahle keen kehte hai teghe sitam chamka kar
-  Aab e shamsheer piyo barchiyon ke phal kha kar
+  Ahle kiṅ kehte hai teghe sitam chamka kar
+  Aab e shamshir piyo barchiyoṅ ke phal kha kar
   Ye sukhan sun ke bhi ghussa nahi farmate hai
   Yaas se suye falak dekh ke reh jaate hai
 
   17
   Arz karte hai ye khaaliq se ke ae Rab-e-Ghafur
   Tu hai aalam ke nahi kuch tere bande ka kasoor
-  Karte hai ye mujhe be-jurm o khata teghon se choor
-  Haath ummat pe uthaana ko nahi mujhko manzoor
+  Karte hai ye mujhe bejurm o khata teghoṅ se chur
+  Haath ummat pe uthaana ko nahi mujhko manzur
 
   18
-  Jaante hai ke Muhammad ka nawasa hun main
-  Pani dete nahi do roz ka pyaasa hun main
+  Jaante hai ke Muhammad ka nawasa huṅ maiṅ
+  Pani dete nahi do roz ka pyaasa huṅ maiṅ
   Tu ne bachpan se mere naaz uthaye ya rab
-  Wo inayat kya jo tujhse kiya maine talab
+  Wo inayat kya jo tujhse kiya maiṅ ne talab
 
   19
-  Tera mehboob bana eid ko mera murakkab
+  Tera mehbub bana eid ko mera murakkab
   Roza rakha to chupa mehr numaya hui shab
-  Bhook mein khuld ka khana mujhe imdaad kiya
+  Bhuk meiṅ khuld ka khana mujhe imdaad kiya
   Bhej kar hirni ka baccha mera dil shaad kiya
 
   20
-  Ab agar hai ye teri maslehat ae rab e qadeer
-  Ho rawan halq pe is pyaase ke aab e shamsheer
+  Ab agar hai ye teri maslehat ae rab e qadir
+  Ho rawaṅ halq pe is pyaase ke aab e shamshir
   Mere maula ba-sar o chashm hai haazir shabbir
-  Hukme haakim mein ye taaqat hai karun mai taakheer
+  Hukme haakim meiṅ ye taaqat hai karuṅ mai taakhir
 
   21
-  Jald gardan pe rawan khanjar e baraa howe
-  Ae khusha wo jo teri raah mein qurban howe
-  Gham nahi kuch mujhe go bekas o beyaar hun main
-  Zer-e-shamsheer gala rakhne ko tayyar hun main
+  Jald gardan pe rawaṅ khanjar e baraa howe
+  Ae khusha wo jo teri raah meiṅ qurban howe
+  Gham nahi kuch mujhe go bekas o beyaar huṅ maiṅ
+  Zer-e-shamshir gala rakhne ko tayyar huṅ maiṅ
 
   22
-  Tu madadgaar hai mukhtar hai lachaar hun main
-  Waqte mushkil hai inayat ka talabgaar hun main
-  Tere sajde mein ye sar tan se juda ho jawe
+  Tu madadgaar hai mukhtar hai lachaar huṅ maiṅ
+  Waqte mushkil hai inayat ka talabgaar huṅ maiṅ
+  Tere sajde meiṅ ye sar tan se juda ho jawe
   Ehd e tifli ka jo waada hai wafa ho jawe
 
   23
-  Sakhtiyan marg ki kar apne karam se aasan
+  Sakhtiyaṅ marg ki kar apne karam se aasan
   Lab pe takbir ho jab halq pe khanjar ho rawaṅ
-  Dil mein ho yaad teri band ho jis waqt zuban
-  Dam bharun tera hi tan se jo nikalne lage jaan
+  Dil meiṅ ho yaad teri band ho jis waqt zubaṅ
+  Dam bharuṅ tera hi tan se jo nikalne lage jaan
 
   24
   Baad e chehlum jo mujhe qabr mayassar howe
@@ -161,25 +161,25 @@ romanLyrics: |-
   Khauf e mahshar se badan kaampta hai sar tapa
   Hogi aamaal ki pursish to kahunga mai kya
   Koi tohfa tere laayiq nahi paata hai Husain
-  Haath khaali tere darbar mein aata hai Husain
+  Haath khaali tere darbar meiṅ aata hai Husain
 
   26
   Taqwiat dil ko karam se hai tere ya rahman
-  Nahi mayoos ke rehmat hai teri be-paayan
-  Mushkilein bando ki kar deta hai dam mein aasaan
-  Shukr altaaf o inayaat mein qaasir hai zuban
+  Nahi mayus ke rehmat hai teri bepaayan
+  Mushkileiṅ bando ki kar deta hai dam meiṅ aasaan
+  Shukr altaaf o inayaat meiṅ qaasir hai zubaṅ
 
   27
-  Aasiyon se bhi mohabbat nahi kam karta hai
+  Aasiyoṅ se bhi mohabbat nahi kam karta hai
   Jurm wo karte hai tu lutf o karam karta hai
-  Main teri raah mein mazloomi se hota hoo fida
-  Tu hai aagaah ke do din ka hoo bhooka pyasa
+  Maiṅ teri raah meiṅ mazlumi se hota hoo fida
+  Tu hai aagaah ke do din ka hoo bhuka pyasa
 
   28
-  Chahta hun main yehi apni shahadat ka sila
+  Chahta huṅ maiṅ yehi apni shahadat ka sila
   Maghfirat ummat e aasi ki ho ae baar e khuda
   Hai gawara mujhe jo kuch ke aziyyat howe
-  Unko dunya mein bhi aakhirat mein bhi raahat howe
+  Unko dunya meiṅ bhi aakhirat meiṅ bhi raahat howe
 # source_id: nohayonline:6b99d636530f3250aca1
 # source_url: https://www.nohayonline.com/content_marsiya.php?id=31
 # raw_sha256: e30111b1eb57b4eae2b1b800e69ae590129f32d6fe9d34e0e17055be9c8cfd3a

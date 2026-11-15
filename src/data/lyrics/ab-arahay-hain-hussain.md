@@ -1,6 +1,6 @@
 ---
 title: "اب آ رہے ہیں حسین"
-alternateTitle: "Ab Aa Rahe Hain Husain"
+alternateTitle: "Ab Aa Rahe Haiṅ Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -20,7 +20,7 @@ romanLyrics: |-
   Use farishta banane ab aa rahe haiṅ Husain
 
   3
-  Kahan ho Rahib aa jao bete le jao
+  Kahaṅ ho Rahib aa jao bete le jao
   Tumhara bakht sajane ab aa rahe haiṅ Husain
 
   4
@@ -32,16 +32,16 @@ romanLyrics: |-
   Use Husain hi jaane ab aa rahe haiṅ Husain
 
   6
-  Ye bole qabr-e-azadar mein adab se malak
+  Ye bole qabr-e-azadar meiṅ adab se malak
   Utho tumhare sirhane ab aa rahe haiṅ Husain
 
   7
-  Woh dekho halat-e-sajda mein dekho pusht-e-Nabi
+  Woh dekho halat-e-sajda meiṅ dekho pusht-e-Nabi
   Use musalla banane ab aa rahe haiṅ Husain
 
   8
   Husain haiṅ ke hai Meraj Majid o Mukhtar
-  Hamein Khuda se milane ab aa rahe haiṅ Husain
+  Hameiṅ Khuda se milane ab aa rahe haiṅ Husain
 # source_id: tajpoints:bccbabb8d23157b28b4d
 # source_url: https://tajpoints.com/2023/02/ab-arahay-hain-hussain-mukhtar-hussain.html
 # raw_sha256: 4578ff8f76e185d1648a65ae919af55e520a2c6d8cf18a63f7cdfb6d530e0dcf

@@ -1,6 +1,6 @@
 ---
 title: "یادِ شبیر میں زینب یہی کرتی تھی فغاں"
-alternateTitle: "Yaad-e-Shabbir Mein"
+alternateTitle: "Yaad-e-Shabbir Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,12 +11,12 @@ tags: []
 aliases: ["Yaade Shabbir Mein"]
 published: true
 romanLyrics: |-
-  Yaad-e-Shabbir mein Zainab yahi karti thi fughaaṅ
-  Bas tera gham hai mere saath main jaati huṅ jahaaṅ
+  Yaad-e-Shabbir meiṅ Zainab yahi karti thi fughaaṅ
+  Bas tera gham hai mere saath maiṅ jaati huṅ jahaaṅ
   Mere bhaiya ho kahaaṅ
 
   1
-  Main ne dekha hai tere pyaase gale par khanjar
+  Maiṅ ne dekha hai tere pyaase gale par khanjar
   Aaj tak mere kaleje pe wo khanjar hai rawaaṅ
   Mere bhaiya ho kahaaṅ
 
@@ -26,12 +26,12 @@ romanLyrics: |-
   Mere bhaiya ho kahaaṅ
 
   3
-  Chhin gayi sar se rida main gayi darbaaroṅ mein
-  Gardan-e-Aabid-e-bimaar mein thi tauq-e-giraaṅ
+  Chhin gayi sar se rida maiṅ gayi darbaaroṅ meiṅ
+  Gardan-e-Aabid-e-bimaar meiṅ thi tauq-e-giraaṅ
   Mere bhaiya ho kahaaṅ
 
   4
-  So gaya dasht mein har naaz uthaane waala
+  So gaya dasht meiṅ har naaz uthaane waala
   Kis ko dikhlaati Sakina wo tamaachoṅ ke nishaaṅ
   Mere bhaiya ho kahaaṅ
 
@@ -41,7 +41,7 @@ romanLyrics: |-
   Mere bhaiya ho kahaaṅ
 
   6
-  Bahr-e-saughaat liye jaati huṅ main daagh-e-rasan
+  Bahr-e-saughaat liye jaati huṅ maiṅ daagh-e-rasan
   Kya kahuṅ puchhe jo Sughra mera baba hai kahaaṅ
   Mere bhaiya ho kahaaṅ
 

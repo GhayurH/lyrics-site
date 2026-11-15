@@ -15,7 +15,7 @@ romanLyrics: |-
 
   1
   Zainab ke bain the mere saqqa-e-Karbala
-  Is bekasi mein koi hamaara nahiṅ raha
+  Is bekasi meiṅ koi hamaara nahiṅ raha
   Jo tum nahiṅ to hum pe har ek gaam hai jafa
   Hum bekasoṅ ko aa ke do ab jald aasra
 
@@ -23,17 +23,17 @@ romanLyrics: |-
   Tuti kamar Husain ki jab tum nahiṅ rahe
   Aaṅkhoṅ ka nur ja chuka Akbar jo chal base
   Bewaoṅ ko aas tum se thi Sher-e-jari mere
-  Bekas Husain dasht mein ab kis ko de sada
+  Bekas Husain dasht meiṅ ab kis ko de sada
 
   3
   Bhaiya jo tum nahiṅ to hai beaas Bibiyaṅ
-  Khaimoṅ mein Shah ke ek qayaamat ka hai samaaṅ
+  Khaimoṅ meiṅ Shah ke ek qayaamat ka hai samaaṅ
   Tashna labi se bachche sabhi karte haiṅ fughaaṅ
   Ro kar Sakina kehti hai jald aaiye Chacha
 
   4
   Sab jal chuke khayaam ridaaeṅ bhi chhin gayiṅ
-  Tab se para hai ghash mein mera Abid-e-haziṅ
+  Tab se para hai ghash meiṅ mera Abid-e-haziṅ
   Saaya hai aasmaaṅ ka aur farsh hai zamiṅ
   Zainab talaaya karti hai jalte khayaam ka
 

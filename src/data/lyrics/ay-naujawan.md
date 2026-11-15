@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Kaandhe pe laasha-e-Ali Akbar liye hue
-  Khaimoṅ mein larkharaate Husain aaye dasht se
+  Khaimoṅ meiṅ larkharaate Husain aaye dasht se
 
   1
   Haaye maadar lipat ke boli ye Akbar ki laash se
@@ -27,11 +27,11 @@ romanLyrics: |-
 
   3
   Beta to apni maaṅ se kabhi ruthta nahiṅ
-  Aawaaz par meri kiun tu kuchh bolta nahiṅ
+  Aawaaz par meri kiuṅ tu kuchh bolta nahiṅ
   Tu hi bata de kaise manaaye ye maaṅ tujhe
 
   4
-  Tora hai tum ne baaba ki godi mein jab se dam
+  Tora hai tum ne baaba ki godi meiṅ jab se dam
   Binaai jaa chuki hai kamar ho chuki hai kham
   Jite the tere baaba tujhe dekh dekh ke
 
@@ -41,12 +41,12 @@ romanLyrics: |-
   Afsos meri Sughra na mil paayi bhaai se
 
   6
-  Dekhi hai us ne sine mein tuti hui sinaaṅ
+  Dekhi hai us ne sine meiṅ tuti hui sinaaṅ
   Naazoṅ se jis ne paala hai mar jaayegi wo maaṅ
-  Kiun tum bhari jawaani mein jaate ho chhor ke
+  Kiuṅ tum bhari jawaani meiṅ jaate ho chhor ke
 
   7
-  Yasrab mein tere dost jo puchheṅge meri jaaṅ
+  Yasrab meiṅ tere dost jo puchheṅge meri jaaṅ
   Tum mar gaye ye kaise bataayegi un ko maaṅ
   Har ek naujawaaṅ ko salaamat Khuda rakhe
 

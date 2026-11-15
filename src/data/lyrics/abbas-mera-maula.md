@@ -18,21 +18,21 @@ romanLyrics: |-
 
   1
   Har dard ki dawa hai Ibn-e-Shah-e-Huda hai
-  Rag rag mein khun-e-Haider Ghazi ki bolta hai
+  Rag rag meiṅ khun-e-Haider Ghazi ki bolta hai
   Salar-e-Karbala hai Sher-e-Khuda ka saaya
 
   2
-  Mashk o alam mein jaṅ hai ghairat ka aasmaṅ hai
-  Sar ta qadam Jari mein Allah jaanta hai
+  Mashk o alam meiṅ jaṅ hai ghairat ka aasmaṅ hai
+  Sar ta qadam Jari meiṅ Allah jaanta hai
   Haider ka dabdaba hai Sher-e-Khuda ka saaya
 
   3
   Ahl-e-Haram ka saqqa dhaaras Shah-e-Zaman ki
-  Pardes ki fiza mein umid hai behan ki
+  Pardes ki fiza meiṅ umid hai behan ki
   Zainab ka aasra hai Sher-e-Khuda ka saaya
 
   4
-  Chullu mein le ke pani rasm-e-wafa nibhayi
+  Chullu meiṅ le ke pani rasm-e-wafa nibhayi
   Tashna dahan ke lab tak ek bund bhi na aayi
   Ye zabt ka Khuda hai Sher-e-Khuda ka saaya
 

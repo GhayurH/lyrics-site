@@ -11,31 +11,31 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Boli maa dasht-e-sitam mein kis tarah chain aayega
-  Nanhi si turbat mein Asghar kaun dil behlayega
+  Boli maa dasht-e-sitam meiṅ kis tarah chain aayega
+  Nanhi si turbat meiṅ Asghar kaun dil behlayega
 
   1
-  Aao maa ki god mein aao badal duṅ main libaas
+  Aao maa ki god meiṅ aao badal duṅ maiṅ libaas
   Khuṅ bhara kurta ye iza jism ko pahunchayega
 
   2
-  Main ne to bheja tha tum ko paani pine ke liye
+  Maiṅ ne to bheja tha tum ko paani pine ke liye
   Ye na samjhi thi ke naawak se gala chhid jayega
 
   3
-  Maamta dhundegi tujhko god mein ae mere laal
+  Maamta dhundegi tujhko god meiṅ ae mere laal
   Jab koi masum chehra saamne aa jayega
 
   4
   Hai tumhari umr chhoti itna to socho zara
-  Nanha sa masum dil is dasht mein dar jayega
+  Nanha sa masum dil is dasht meiṅ dar jayega
 
   5
   Aaj hai shaam-e-gharibaṅ kal shab-e-ashur thi
-  Kya pata tha ek din mein aisa tufaan aayega
+  Kya pata tha ek din meiṅ aisa tufaan aayega
 
   6
-  Har ghari beta yehi main sochti huṅ baar baar
+  Har ghari beta yehi maiṅ sochti huṅ baar baar
   Kaun uljhe gesuoṅ ko ab wahaṅ suljhayega
 
   7
@@ -44,10 +44,10 @@ romanLyrics: |-
 
   8
   Nind tujhko maa ki lori ke baghair aati nahiṅ
-  Har ghari bechain tu turbat mein khud ko payega
+  Har ghari bechain tu turbat meiṅ khud ko payega
 
   9
-  Din mere nazroṅ mein hoga raat se barh kar siyah
+  Din mere nazroṅ meiṅ hoga raat se barh kar siyah
   Un ghane baaloṅ ka tere jab khayaal aa jayega
 
   10
@@ -59,8 +59,8 @@ romanLyrics: |-
   Ye tasavvur maa ke dil par ek qayamat dhayega
 
   12
-  Kiuṅ daruṅ main qabr ki manzil se jab ke ae Raza
-  Khuld ka ghar Sheh ke sadqe mein mujhe mil jayega
+  Kiuṅ daruṅ maiṅ qabr ki manzil se jab ke ae Raza
+  Khuld ka ghar Sheh ke sadqe meiṅ mujhe mil jayega
 # source_id: nohayonline:698c7063a6490713aa6e
 # source_url: https://www.nohayonline.com/details_content.php?id=1994
 # raw_sha256: 4ac4575e142bbbd25015789ab105457830446bd2bdd2dc2f035cf4b2ff004828

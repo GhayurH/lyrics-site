@@ -32,8 +32,8 @@ romanLyrics: |-
 
   3
   Agar su-e-Najaf mur kar pukaaruṅ
-  Main ek aawaaz mein un ko bula luṅ
-  Jo chaahuṅ khaak mein tum ko mila duṅ
+  Maiṅ ek aawaaz meiṅ un ko bula luṅ
+  Jo chaahuṅ khaak meiṅ tum ko mila duṅ
   Meri chaadar na chhino
 
   4
@@ -43,21 +43,21 @@ romanLyrics: |-
   Meri chaadar na chhino
 
   5
-  Mere bachpan mein ye ek din hua tha
+  Mere bachpan meiṅ ye ek din hua tha
   Achaanak sar jo mera khul gaya tha
   To suraj sharm o ghairat se chhupa tha
   Meri chaadar na chhino
 
   6
-  Mere bhaai ko maara chup rahi main
-  Mere ghar ko ujaara chup rahi main
-  Har ek khaima jalaaya chup rahi main
+  Mere bhaai ko maara chup rahi maiṅ
+  Mere ghar ko ujaara chup rahi maiṅ
+  Har ek khaima jalaaya chup rahi maiṅ
   Meri chaadar na chhino
 
   7
-  Agar main bad dua ko haath utha duṅ
+  Agar maiṅ bad dua ko haath utha duṅ
   Abhi arsh-e-mualla ko hila duṅ
-  Har ek zaalim ko mitti mein mila duṅ
+  Har ek zaalim ko mitti meiṅ mila duṅ
   Meri chaadar na chhino
 
   8

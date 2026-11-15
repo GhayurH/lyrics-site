@@ -17,14 +17,14 @@ romanLyrics: |-
   Paani ki bundh bundh pe qabza tera hai Ghaazi
   Nehr-e-Furaat se bhi rishta tera hai Ghaazi
   Kitna buland o baala rutba tera hai Ghaazi
-  Taarikh mein likha hai qissa tera hai Ghaazi
+  Taarikh meiṅ likha hai qissa tera hai Ghaazi
   Jhula tera jhulaaya hai ismat ke phul ne
   Farzand tujh ko apna kaha hai Batul ne
 
   2
   Zainab ke saath saath chali saari Bibiyaṅ
   Ghaazi ne bare pyaar se dekhi sawaariyaṅ
-  Aah o buka mein dub gayi yuṅ nawaasiyaṅ
+  Aah o buka meiṅ dub gayi yuṅ nawaasiyaṅ
   Zainab ko ab sataane lagi aur udaasiyaṅ
   Maula ne apne haath utha ke dua ye ki
   Allah tumhaare diṅ ko bakhshi hai zindagi
@@ -38,12 +38,12 @@ romanLyrics: |-
   Baaba bataao jaldi ke ammu jahaaṅ gaye
 
   4
-  Ek shor karbal mein hua wa musibata
+  Ek shor karbal meiṅ hua wa musibata
   Pakre kamar Husain ne Zainab se ye kaha
   Haidar ka sher maara gaya haye ghurbata
   Dhaaras thi jis se sab ki bandhi ab wo chal basa
   Laash pe gir ke bhai se bhai ne ye kaha
-  Tanha main aaj reh gaya ae mere Khuda
+  Tanha maiṅ aaj reh gaya ae mere Khuda
 
   5
   Zainab pukaari maara gaya bhai naujawaaṅ
@@ -54,11 +54,11 @@ romanLyrics: |-
   Zaamin mere hijaab ka bachchoṅ ka aasra
 
   6
-  Abbas teri yaad mein roti hai kaainaat
-  Maatam salaam o soz mein dubi hai kaainaat
+  Abbas teri yaad meiṅ roti hai kaainaat
+  Maatam salaam o soz meiṅ dubi hai kaainaat
   Baatil ka sar jhuka hai dikhaati hai kaainaat
-  Aa jaao ek saf mein bulaati hai kaainaat
-  Dekho har ek simt mein dushman khara hai aaj
+  Aa jaao ek saf meiṅ bulaati hai kaainaat
+  Dekho har ek simt meiṅ dushman khara hai aaj
   Abbas bawafa ka faqat aasra hai aaj
 
   7

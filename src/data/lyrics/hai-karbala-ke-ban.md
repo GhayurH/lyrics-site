@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Hai Karbala ke ban mein ghariboṅ ka arbaiṅ
+  Hai Karbala ke ban meiṅ ghariboṅ ka arbaiṅ
 
   1
   Shabbir ke mazaar pe Zainab ki hai jabiṅ
@@ -20,10 +20,10 @@ romanLyrics: |-
   Ab haal ye hai sar pe koi saayebaaṅ nahiṅ
 
   2
-  Maaṅ jaaye pehle aag lagi khaima gaah mein
-  Har daagh ek taaza qayaamat thi raah mein
-  Bachchi ki hichkiyoṅ ka hai manzar nigaah mein
-  Zindaan-e-Shaam mein hai Sakina yahaaṅ nahiṅ
+  Maaṅ jaaye pehle aag lagi khaima gaah meiṅ
+  Har daagh ek taaza qayaamat thi raah meiṅ
+  Bachchi ki hichkiyoṅ ka hai manzar nigaah meiṅ
+  Zindaan-e-Shaam meiṅ hai Sakina yahaaṅ nahiṅ
 
   3
   Abbas-e-naamwar jo haram ka tha paasbaaṅ
@@ -34,7 +34,7 @@ romanLyrics: |-
   4
   Bhaiya hamaare waade ki takmil ho gayi
   Aisa safar hua hai ke sar par rida na thi
-  Darbaar-e-Shaam mein thi qayaamat ki bebasi
+  Darbaar-e-Shaam meiṅ thi qayaamat ki bebasi
   Rudaad-e-gham sunaane ki ab taaqat bhi nahiṅ
 
   5
@@ -45,19 +45,19 @@ romanLyrics: |-
 
   6
   Farwa ko yaad Qaasim-e-naushaah aa gaya
-  Pahuncha jo qatl gaah mein dulha bana hua
+  Pahuncha jo qatl gaah meiṅ dulha bana hua
   Tukre mile the jism ke laasha nahiṅ mila
   Jis ke lahu se surkh hui thi yehi zamiṅ
 
   7
   Abbas tum nahiṅ the qayaamat guzar gayi
-  Main Karbala se Shaam talak nange sar gayi
-  Godi ke paale mar gaye main kiuṅ na mar gayi
+  Maiṅ Karbala se Shaam talak nange sar gayi
+  Godi ke paale mar gaye maiṅ kiuṅ na mar gayi
   Zainab tarap rahi thi larazne lagi zamiṅ
 
   8
   Kehti thi ye Rabaab bacha lijiye mujhe
-  Maula lahad mein apni chhupa lijiye mujhe
+  Maula lahad meiṅ apni chhupa lijiye mujhe
   Ghar jaa ke kya karuṅ ye bata dijiye mujhe
   Sunsaan god ho gayi waali koi nahiṅ
 

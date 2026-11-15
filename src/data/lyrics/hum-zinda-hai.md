@@ -13,8 +13,8 @@ romanLyrics: |-
   Hum zinda haiṅ maatam-e-Shabbir ke liye
 
   1
-  Daur-e-Umayya mein ye kis ka khun tha jo ke behta tha
-  Ahl-e-wafa ko ahl-e-aza ko diwaaroṅ mein chuna gaya
+  Daur-e-Umayya meiṅ ye kis ka khun tha jo ke behta tha
+  Ahl-e-wafa ko ahl-e-aza ko diwaaroṅ meiṅ chuna gaya
   Phir bhi ek sadaa-e-paiham aati thi diwaaroṅ se
 
   2

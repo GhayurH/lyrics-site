@@ -28,7 +28,7 @@ romanLyrics: |-
 
   3
   Bole Shah ghar ki nigahbaṅ meri Zainab tum ho
-  Main to jaata huṅ magar meri jagah ab tum ho
+  Maiṅ to jaata huṅ magar meri jagah ab tum ho
   Jaaniyo is ko ghanimat hai jo Sajjad ka dam
 
   4
@@ -58,7 +58,7 @@ romanLyrics: |-
 
   9
   Kar ke sine se Sakina ko juda Shah ne Naved
-  Jaao khaime mein Sakina se kaha Shah ne Naved
+  Jaao khaime meiṅ Sakina se kaha Shah ne Naved
   Phir barhe su-e-faras Shah ba larzida qadam
 # source_id: nohayonline:c1ea9d2cb2839e7c7a65
 # source_url: https://www.nohayonline.com/details_content.php?id=9

@@ -11,16 +11,16 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Farwa ka laal ran mein tukroṅ mein bat gaya hai
+  Farwa ka laal ran meiṅ tukroṅ meiṅ bat gaya hai
 
   1
   Fizza pukaari Zainab masnad bichhaao aa kar
   Bachchoṅ ka sog Bibi kuchh to barhaao aa kar
-  Dulha dulhan se milne khaime mein aa raha hai
+  Dulha dulhan se milne khaime meiṅ aa raha hai
 
   2
   Masnad pe Shaah-e-diṅ jo tukre jama rahe haiṅ
-  Tukroṅ mein bat gaya jo laasha utha rahe haiṅ
+  Tukroṅ meiṅ bat gaya jo laasha utha rahe haiṅ
   Hai khuṅ bhara ye manzar kya sakht marhala hai
 
   3
@@ -36,7 +36,7 @@ romanLyrics: |-
   5
   Bikhra hua hai sehra paamaal-e-gul sa chehra
   Sabir suna raha hai Iqbal ka ye nauha
-  Gham ke jahaaṅ mein jaisa suraj naya uga hai
+  Gham ke jahaaṅ meiṅ jaisa suraj naya uga hai
 # source_id: nohayonline:9c57a974297a3ec480e2
 # source_url: https://www.nohayonline.com/details_content.php?id=3024
 # raw_sha256: 427d1410d84984e1a39329d18a18318c5e255965a7d8d6522eacf4a2d500520f

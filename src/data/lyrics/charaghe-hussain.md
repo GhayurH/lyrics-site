@@ -28,29 +28,29 @@ romanLyrics: |-
   Isi charagh ke lau Hur ko khench laayi hai
 
   3
-  Husainiyat ka jigar mein charagh jalta hai
-  Shuur o fikr o nazar mein charagh jalta hai
+  Husainiyat ka jigar meiṅ charagh jalta hai
+  Shuur o fikr o nazar meiṅ charagh jalta hai
   Kabhi namaaz ki surat kabhi azaaṅ ban ke
-  Khuda-e-paak ke ghar mein charagh jalta hai
+  Khuda-e-paak ke ghar meiṅ charagh jalta hai
 
   4
-  Ye baat haq hai ke nur-e-tahur is mein hai
-  Tajalliyaat Rahim o Ghafur is mein hai
+  Ye baat haq hai ke nur-e-tahur is meiṅ hai
+  Tajalliyaat Rahim o Ghafur is meiṅ hai
   Har ek shakhs ise dekh hi nahiṅ sakta
-  Jo koh-e-Tur pe chamka woh nur is mein hai
+  Jo koh-e-Tur pe chamka woh nur is meiṅ hai
 
   5
-  Shumaar is ka hai maabud ke naginoṅ mein
-  Isi ki aag hai maulaiyoṅ ke sinoṅ mein
+  Shumaar is ka hai maabud ke naginoṅ meiṅ
+  Isi ki aag hai maulaiyoṅ ke sinoṅ meiṅ
   Isi charagh se hai raunaq-e-azaadaari
-  Yehi charagh to roshan hai shah nashinoṅ mein
+  Yehi charagh to roshan hai shah nashinoṅ meiṅ
 
   Har ek sadi ki sada Husain zindaabaad
   Bayaaz-e-dil pe likha Husain zindaabaad
   Payambaroṅ ne kaha Husain zindaabaad
 
   6
-  Kabhi to surat-e-beshir mein hai muskaaya
+  Kabhi to surat-e-beshir meiṅ hai muskaaya
   Bana ye sina-e-Akbar sinaaṅ ka phal khaaya
   Husain ban ke yehi nur baad-e-Aashura
   Quran parhte hue bar sar-e-sinaaṅ aaya
@@ -66,7 +66,7 @@ romanLyrics: |-
 
   8
   Dar-e-Husain pe jo shakhs jaa nahiṅ sakta
-  Hisaar-e-nur mein is ke woh aa nahiṅ sakta
+  Hisaar-e-nur meiṅ is ke woh aa nahiṅ sakta
   Husain ibn-e-Ali ne ise jalaaya hai
   Ise koi bhi Yazidi bujha nahiṅ sakta
 
@@ -76,7 +76,7 @@ romanLyrics: |-
 
   10
   Yazidiyat ke andheroṅ ko maarne waala
-  Yehi hai dasht mein hal min pukaarne waala
+  Yehi hai dasht meiṅ hal min pukaarne waala
   Shahaadatoṅ ko ziya baar kar diya is ne
   Yehi hai Jaun ki surat nikhaarne waala
 
@@ -84,7 +84,7 @@ romanLyrics: |-
   Dua hai phulta phalta rahe charagh-e-Husain
   Hawa-e-zulm kuchalta rahe charagh-e-Husain
   Faqat yehi hai dua-e-Kumail o Aamir ki
-  Aza ki shakl mein jalta rahe charagh-e-Husain
+  Aza ki shakl meiṅ jalta rahe charagh-e-Husain
 
   12
   Mera Imam Husain mera kalaam Husain

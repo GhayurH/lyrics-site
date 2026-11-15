@@ -14,32 +14,32 @@ romanLyrics: |-
   Haye Husain bewatan
   Khanjar tale huṅ pyaasa bhai raha na beta
   Ae waaris-e-baqaiya Nana se ja ke kehna
-  Maine nibhaaya waada amma haye
+  Maiṅ ne nibhaaya waada amma haye
   Amma gawaah rehna amma gawaah rehna
 
   1
-  Khanjar tale bhi dekho sajde mein sar hai mera
+  Khanjar tale bhi dekho sajde meiṅ sar hai mera
   Nau laakh qaatiloṅ ne tanha samajh ke ghera
   Waada nibha raha huṅ amma gawaah rehna
 
   2
-  Chhe roz ho gaye hain mujhe mila na paani
+  Chhe roz ho gaye haiṅ mujhe mila na paani
   Akbar ki naujawaani Asghar ki bezubaani
-  Sehra mein kho chuka huṅ amma gawaah rehna
+  Sehra meiṅ kho chuka huṅ amma gawaah rehna
 
   3
   Tiroṅ ne chhaan daala amma mere badan ko
-  Kitna ghareeb huṅ main mohtaaj huṅ kafan ko
+  Kitna gharib huṅ maiṅ mohtaaj huṅ kafan ko
   Haalaaṅ ke baadshaah huṅ amma gawaah rehna
 
   4
   Jalti hui zamin par tiroṅ ka hai bichhauna
-  Is haal mein na dekhe mujhko meri Sakina
+  Is haal meiṅ na dekhe mujhko meri Sakina
   Tiroṅ pe so raha huṅ amma gawaah rehna
 
   5
   Kuch der pehle amma Asghar ko dafn kar ke
-  Bano ko jab khabar di aaṅkhoṅ mein ashk bhar ke
+  Bano ko jab khabar di aaṅkhoṅ meiṅ ashk bhar ke
   Khud laash ban gaya huṅ amma gawaah rehna
 
   6
@@ -48,14 +48,14 @@ romanLyrics: |-
   Binaai dhundta huṅ amma gawaah rehna
 
   7
-  Aap aayi hain sirhaane Naad-e-Ali sunaane
+  Aap aayi haiṅ sirhaane Naad-e-Ali sunaane
   Mujhko talab kiya hai amma mere Khuda ne
   Jaaṅ de ke ja raha huṅ amma gawaah rehna
 
   8
   Rehaan aur Raza ki jo naukri hai amma
   Zakhmoṅ ka tere marham nauhagari hai amma
-  Main inko chaahta huṅ amma gawaah rehna
+  Maiṅ inko chaahta huṅ amma gawaah rehna
 # source_id: nohayonline:a0b847f31d79ffa14b5f
 # source_url: https://www.nohayonline.com/details_content.php?id=2390
 # raw_sha256: cc1af8a4af3b02235f8d8035db6d4f9f247736404384d7a2b5fad642bebb21f7

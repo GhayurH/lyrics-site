@@ -16,8 +16,8 @@ romanLyrics: |-
   Sirf ek baar dekh luṅ Karbala marne se pehle
 
   1
-  Ek hi khwaahish hai bas ab dil-e-ghamkhwaar mein
-  Naam ho mera raqam aap ke zawwaar mein
+  Ek hi khwaahish hai bas ab dil-e-ghamkhwaar meiṅ
+  Naam ho mera raqam aap ke zawwaar meiṅ
   Hai dil-e-muflis ki aakhri ilteja marne se pehle
 
   2
@@ -28,21 +28,21 @@ romanLyrics: |-
   Dekh le hum log bhi rauza aap ka marne se pehle
 
   3
-  Hai ye meri aarzu main bhi ziyaarat karuṅ
+  Hai ye meri aarzu maiṅ bhi ziyaarat karuṅ
   Rauza-e-Abbas pe jaa ke ibaadat karuṅ
   Parcham-e-Ghaazi ka chum luṅ pharera marne se pehle
 
   4
-  Chalte haiṅ tere gham mein jahaaṅ saare ambiyaa
+  Chalte haiṅ tere gham meiṅ jahaaṅ saare ambiyaa
   Us raaste pe chalna hameṅ bhi nasib ho
-  Dekh luṅ ek baar main rauza-e-Shaah-e-Najaf
-  Phir main wahaaṅ se chaluṅ Karbobala ki taraf
-  Main bhi karuṅ tai mashi ka raasta marne se pehle
+  Dekh luṅ ek baar maiṅ rauza-e-Shaah-e-Najaf
+  Phir maiṅ wahaaṅ se chaluṅ Karbobala ki taraf
+  Maiṅ bhi karuṅ tai mashi ka raasta marne se pehle
 
   5
-  Aap ke darbaar mein aap ka maatam karuṅ
+  Aap ke darbaar meiṅ aap ka maatam karuṅ
   Aap pe girya karuṅ aap ka nauha parhuṅ
-  Karbobala jaa ke main parhuṅ marsiya marne se pehle
+  Karbobala jaa ke maiṅ parhuṅ marsiya marne se pehle
 
   6
   Jaauṅ wahaaṅ the jahaaṅ ahl-e-haram ke qayaam
@@ -51,11 +51,11 @@ romanLyrics: |-
 
   7
   Parh ke durud o salaam Panjetan-e-paak pe
-  Shukr ka sajda baja laauṅ main jab khaak pe
+  Shukr ka sajda baja laauṅ maiṅ jab khaak pe
   Khaak-e-shifa se hi mujhe bhi ho shifa marne se pehle
 
   8
-  Maula bas ek baar main us dar ko chum luṅ
+  Maula bas ek baar maiṅ us dar ko chum luṅ
   Jis dar se aaj tak koi khaali nahiṅ gaya
   Hazrat-e-Baabul Hawaaij ka haram dekh luṅ
   Us pe laga din ka surkh alam dekh luṅ

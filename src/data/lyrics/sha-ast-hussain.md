@@ -37,7 +37,7 @@ romanLyrics: |-
   Boli ke khabardaar wohi rok le ghora
   Ro ro ke abhi soe haiṅ maasum taras khaa
   Keh de Ibn Saad se lillaah tu jaa kar
-  Kal din ke ujaale mein hameṅ lut le aa kar
+  Kal din ke ujaale meiṅ hameṅ lut le aa kar
 
   4
   Jab sar mere bhai ka kata aap kahaaṅ the
@@ -50,17 +50,17 @@ romanLyrics: |-
 
   5
   Baateṅ jo suni beti ki ashaar pukaara
-  Zainab main tera baap huṅ pehchaan Khudaara
-  Kin aankhoṅ se dekhuṅ main jigar soz nazaara
+  Zainab maiṅ tera baap huṅ pehchaan Khudaara
+  Kin aankhoṅ se dekhuṅ maiṅ jigar soz nazaara
   Tu dukh sahe aur mujh ko ho aaraam ganwaara
-  Shab bhar main tere khaimoṅ ka darbaan rahuṅ ga
-  Ta subh isi dasht mein mehmaan rahuṅ ga
+  Shab bhar maiṅ tere khaimoṅ ka darbaan rahuṅ ga
+  Ta subh isi dasht meiṅ mehmaan rahuṅ ga
 
   6
   Chaadar jo chhini saaqi-e-Kausar ko pukaara
   Qasim ko sada di Ali Akbar ko pukaara
-  Har zulm mein Abbaas dilaawar ko pukaara
-  Jhule mein lagi aag to Asghar ko pukaara
+  Har zulm meiṅ Abbaas dilaawar ko pukaara
+  Jhule meiṅ lagi aag to Asghar ko pukaara
   Roti thi koi Bibi to dete the dilaase
   Chaukhat pe na maasum abhi soe haiṅ pyaase
 # source_id: nohayonline:7c07f5a5f6ac0fa146e2

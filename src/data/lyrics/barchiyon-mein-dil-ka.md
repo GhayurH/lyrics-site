@@ -1,6 +1,6 @@
 ---
 title: "برچھیوں میں دل کا ٹکڑا رہ گیا"
-alternateTitle: "Barchiyoṅ Mein Dil Ka"
+alternateTitle: "Barchiyoṅ Meiṅ Dil Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,8 +10,8 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Barchiyoṅ mein dil ka tukra reh gaya
-  Shah ki aankhoṅ mein andhera reh gaya
+  Barchiyoṅ meiṅ dil ka tukra reh gaya
+  Shah ki aankhoṅ meiṅ andhera reh gaya
 
   1
   Ae falak sehne sitam ke waaste
@@ -23,7 +23,7 @@ romanLyrics: |-
 
   3
   Ab na wo Akbar hai na husn o shabaab
-  Haaṅ magar duniya mein charcha reh gaya
+  Haaṅ magar duniya meiṅ charcha reh gaya
 
   4
   Orhti kiun kar rida Bint-e-Ali
@@ -35,11 +35,11 @@ romanLyrics: |-
 
   6
   Jal gaye khaime ridaaeṅ chhin gayiṅ
-  Khaana-e-Zehra mein ab kya reh gaya
+  Khaana-e-Zehra meiṅ ab kya reh gaya
 
   7
   Jhaar kar daaman Shaah-e-diṅ uth gaye
-  Bezabaaṅ marqad mein tanha reh gaya
+  Bezabaaṅ marqad meiṅ tanha reh gaya
 # source_id: nohayonline:ff1d1c3ea93b5d7945fe
 # source_url: https://www.nohayonline.com/details_content.php?id=783
 # raw_sha256: b274a5844e3f0e4a3a7a419848001ec03c8537d85b104ea1f4dc34673ad7df5d

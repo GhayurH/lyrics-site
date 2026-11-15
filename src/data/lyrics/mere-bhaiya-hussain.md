@@ -21,38 +21,38 @@ romanLyrics: |-
   Kah rahi thi ye tarap ke Zainab
   Kis tarah aap ka chhupaauṅ tan
   Kaash chaadar mere sar pe hoti
-  Aap ko bhai main de deti kafan
+  Aap ko bhai maiṅ de deti kafan
   So rahe ho bahan ko tarpa ke
   Mere bhaiya Husain uth jaao
 
   2
   So rahe ho na kiuṅ jalti reti par
   Aaṅkh kholo mujhe dekho uth kar
-  Hai rasan haath mein khula hai sar
+  Hai rasan haath meiṅ khula hai sar
   Mere sar pe nahiṅ baaqi chaadar
   Kaun chaadar urhaaye ab aa ke
   Mere bhaiya Husain uth jaao
 
   3
-  Khun mein ho gayi wo tar dekho
-  Jaaṅ basti thi aap ki jis mein
+  Khun meiṅ ho gayi wo tar dekho
+  Jaaṅ basti thi aap ki jis meiṅ
   Wo sawaari nahiṅ rahi bhaiya
-  Ab Sakina safar kare kis mein
+  Ab Sakina safar kare kis meiṅ
   Wo taraai pe so gaya jaa ke
   Mere bhaiya Husain uth jaao
 
   4
-  Aisi haalat mein chhor ke tum ko
+  Aisi haalat meiṅ chhor ke tum ko
   Kaise dil ko sukun aayega
   Bekafan khaak pe tera laasha
   Chhor ke Shimr chala jaayega
-  Main chali Shaam ko ye gham kha ke
+  Maiṅ chali Shaam ko ye gham kha ke
   Mere bhaiya Husain uth jaao
 
   5
-  Main ne maqtal mein ye manzar dekha
+  Maiṅ ne maqtal meiṅ ye manzar dekha
   Reza reza hua laasha tera
-  Kaise tum ko main sametuṅ bhaiya
+  Kaise tum ko maiṅ sametuṅ bhaiya
   Itni bebas hai tumhaari bahna
   Hans rahe haiṅ laiṅ sitam dhaa ke
   Mere bhaiya Husain uth jaao

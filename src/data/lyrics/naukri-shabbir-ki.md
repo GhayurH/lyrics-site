@@ -34,7 +34,7 @@ romanLyrics: |-
   Ye nauhe majlis aur maatam
   Paani ki sabileṅ aur langar
   Maasum Ali Asghar ki qasam
-  Hum ahl-e-aza ki mazhab mein
+  Hum ahl-e-aza ki mazhab meiṅ
   Kehlaati thi kehlaati hai
 
   3
@@ -51,14 +51,14 @@ romanLyrics: |-
   Khuddaam aza khaanoṅ ke jo hai
   Qismat ke Abu Zar Qambar hai
   Is izzat ko khud bint-e-Ali
-  Quraan ki zabaan mein kehti hai
+  Quraan ki zabaan meiṅ kehti hai
 
   5
-  Majlis mein siyaasat mat karna
+  Majlis meiṅ siyaasat mat karna
   Maula se baghaawat mat karna
   Is farsh-e-aza par aa ke talab
   Is zikr ki qimat mat karna
-  Be laas jo maatam karte haiṅ
+  Belaas jo maatam karte haiṅ
   Bas un ko shafaaat deti hai
 
   6
@@ -75,7 +75,7 @@ romanLyrics: |-
   Darvesh sifat har lafz mera
   Likhta jo aza ka manzar hai
   Kehti hai meri nauha goi
-  Taqdir mein teri likh di hai
+  Taqdir meiṅ teri likh di hai
 # source_id: nohayonline:f1a18feb9f7f6b4d400b
 # source_url: https://www.nohayonline.com/details_content.php?id=2411
 # raw_sha256: bb1ec522c70c587f450fafac7382d834575ef2edc0f4ee881977b892cb1e9b0f

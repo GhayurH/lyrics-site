@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Boli darbaar mein ye bint-e-Nabi
+  Boli darbaar meiṅ ye bint-e-Nabi
   Jaa ke baba ko sab bataauṅ gi
 
   Tum ne tauhin ki meri kitni
@@ -25,7 +25,7 @@ romanLyrics: |-
   Kitni ummat badal gayi un ki
 
   2
-  Mujh ko darbaar mein khara rakh ke
+  Mujh ko darbaar meiṅ khara rakh ke
   Kar rahe woh kalaam haṅs haṅs ke
   Haaye afsos meri Zainab ke
   Saamne keh rahe ho jhuta mujhe
@@ -34,14 +34,14 @@ romanLyrics: |-
   3
   Dekh kar mujh ko puchheṅ ge baba
   Zakhm chehre pe kaisa aaya hai
-  Main bataauṅ gi puri taaqat se
+  Maiṅ bataauṅ gi puri taaqat se
   Kis ne muṅh par tamaancha maara hai
   Gir gayi kaise kaan ki baali
 
   4
   Unchi aawaaz se mere dar par
   Tum Ali ko bulaae jaate the
-  Main thi behosh jalte dar ke tale
+  Maiṅ thi behosh jalte dar ke tale
   Aur dar par se tum guzarte rahe
   Jhuk gayi kis tarah kamar meri
 
@@ -49,21 +49,21 @@ romanLyrics: |-
   Jis ne aazaad qaidiyoṅ ko kiya
   Tum ne us ko bana diya qaidi
   Jis ne kuffaar se bachaaya tha
-  Us ki gardan mein daal di rassi
+  Us ki gardan meiṅ daal di rassi
   Bewafaai ki intiha kar di
 
   6
-  Main shikaayat karuṅ gi baba se
+  Maiṅ shikaayat karuṅ gi baba se
   Kis ne Zehra pe haath uthaaya hai
   Kis ne pehlu pe thokareṅ maari
   Kis ne Mohsin ko mere maara hai
-  Ek bhi shakl main nahiṅ bhuli
+  Ek bhi shakl maiṅ nahiṅ bhuli
 
   7
   Mir Sajjad kya bayaaṅ ho bhala
-  Ghar mein jab aai laut kar Zehra
+  Ghar meiṅ jab aai laut kar Zehra
   Ho ke bechain puchhte the Ali
-  Bolo darbaar mein hua kya kya
+  Bolo darbaar meiṅ hua kya kya
   Sirf ro ro ke Bibi kehti rahi
 # source_id: nohayonline:9d47b66fca6a7f2abc2d
 # source_url: https://www.nohayonline.com/details_content.php?id=1531

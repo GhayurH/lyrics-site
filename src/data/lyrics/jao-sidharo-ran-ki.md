@@ -17,28 +17,28 @@ romanLyrics: |-
   Maidaan meiṅ jo shaah ne hal min ki di sada
   Asghar ne apne jhule se khud ko gira diya
   Maaṅ ne kaha ke tum bhi chale mere dilruba
-  Achchha main ye judaai bhi seh luṅ gi mere laal
+  Achchha maiṅ ye judaai bhi seh luṅ gi mere laal
 
   2
   Armaan bahut the koi na hasrat nikal saki
   Tha chaar din ka saath ye mujh ko khabar na thi
-  Ji bhar ke pyaar bhi to main kar paayi na abhi
+  Ji bhar ke pyaar bhi to maiṅ kar paayi na abhi
   Beta tamaam umr rahe ga yehi malaal
 
   3
   Waqt-e-sahar se asr talak ghar ka ghar luta
   Abbas o Qaasim o Ali Akbar hue juda
   Ab tum bhi jaane waale ho maaṅ tum pe ho fida
-  Lekin abhi bhi sabr karuṅ gi main khasta haal
+  Lekin abhi bhi sabr karuṅ gi maiṅ khasta haal
 
   4
-  Jaate ho ran ko thehro main gesu sawaar duṅ
-  Godi meiṅ aao tum ko main ji bhar ke pyaar duṅ
+  Jaate ho ran ko thehro maiṅ gesu sawaar duṅ
+  Godi meiṅ aao tum ko maiṅ ji bhar ke pyaar duṅ
   Ruk jao mere laal ke sadqa utaar duṅ
   Apni amaan meiṅ rakhe tumheiṅ Rab Zuljalaal
 
   5
-  Jab main watan ko laut kar ae laal jaauṅ gi
+  Jab maiṅ watan ko laut kar ae laal jaauṅ gi
   Sughra jo tum ko puchhe gi kuchh keh na paauṅ gi
   Rouṅ gi khaali jhula tumhaara jhulaauṅ gi
   Din-e-Rasul-e-haq ki ye izzat ka hai sawaal

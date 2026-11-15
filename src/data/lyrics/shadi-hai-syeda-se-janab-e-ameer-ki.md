@@ -22,9 +22,9 @@ romanLyrics: |-
   Rehmat baras rahi hai Khuda-e-Qadir ki
 
   2
-  Haiṅ bemisaal saare baraati baraat mein
-  Dulha Ali sa kaun hai is kaaenaat mein
-  Beti ka haath deṅ ge Nabi us ke haath mein
+  Haiṅ bemisaal saare baraati baraat meiṅ
+  Dulha Ali sa kaun hai is kaaenaat meiṅ
+  Beti ka haath deṅ ge Nabi us ke haath meiṅ
   Aadam ki jis ke haathoṅ ne mitti khamir ki
 
   3
@@ -43,16 +43,16 @@ romanLyrics: |-
   Jannat nashiṅ shaana ba shaana Ali ke haiṅ
   Paikar hasiṅ shaana ba shaana Ali ke haiṅ
   Ruh al-Amin shaana ba shaana Ali ke haiṅ
-  Hairat mein hai nigaah har ik raahgir ki
+  Hairat meiṅ hai nigaah har ik raahgir ki
 
   6
-  Sehre mein aayatoṅ ki hai khushbu khuli hui
+  Sehre meiṅ aayatoṅ ki hai khushbu khuli hui
   Surat hai aab-e-nur-e-Khuda se dhuli hui
   Chehra hai ya kitaab-e-Khuda hai khuli hui
   Baraat kya hasiṅ hai roshan zamir ki
 
   7
-  Aayi hai fikr nur ki waadi mein ghum ke
+  Aayi hai fikr nur ki waadi meiṅ ghum ke
   Maula-e-kaaenaat ke sehre ko chum ke
   Kehta hai dil ye Akhtar o Sajjad jhum ke
   Duniya nazir laaye mere dastgir ki

@@ -18,7 +18,7 @@ romanLyrics: |-
   Ya Rasul Allah
 
   1
-  Imam-e-waqt ko sajde mein pyaasa qatl kar daala
+  Imam-e-waqt ko sajde meiṅ pyaasa qatl kar daala
   Musalmaanoṅ ne aisa zulm dhaaya ya Rasul Allah
 
   2
@@ -34,11 +34,11 @@ romanLyrics: |-
   Kafan sanduq se jab laayi Fizza ya Rasul Allah
 
   5
-  Bataauṅ kis zabaaṅ se main mere mazlum bhaai ne
+  Bataauṅ kis zabaaṅ se maiṅ mere mazlum bhaai ne
   Uthaaya kis tarah Akbar ka laasha ya Rasul Allah
 
   6
-  Janaaza waalida ka shab ke parde mein utha lekin
+  Janaaza waalida ka shab ke parde meiṅ utha lekin
   Hameṅ beparda aada ne phiraaya ya Rasul Allah
 
   7

@@ -22,7 +22,7 @@ romanLyrics: |-
   Ye meri pehli tamanna ye mere dil ka qaraar
 
   2
-  Kaali dori baandhti nanhi kalaai mein kabhi
+  Kaali dori baandhti nanhi kalaai meiṅ kabhi
   Nanhe sine par kabhi karti thi dam Naad-e-Ali
   Kehti thi murjhaaye na Maula mere dil ki kali
   Ye dil-e-Shabbir hai ye hai hamaari zindagi
@@ -35,13 +35,13 @@ romanLyrics: |-
 
   4
   Khair se jab umr barh kar us ki is qaabil hui
-  Jis mein gahwaare ki khwaahish ho na maaṅ ke god ki
-  Bachpana ruqsat talab ho aur shabab aamad ghadi
+  Jis meiṅ gahwaare ki khwaahish ho na maaṅ ke god ki
+  Bachpana ruqsat talab ho aur shabab aamad ghari
   Jab jawaani aa rahi ho aur mas ho bhigti
 
   5
   Sab qaanun-e-harb sikhlaate the Abbas-e-Jari
-  Sehn mein kursi bichha kar maaṅ bhi aksar dekhti
+  Sehn meiṅ kursi bichha kar maaṅ bhi aksar dekhti
   Mashq ke dauraan ik din yuṅ hi neze ki ani
   Chhu gayi sine se Laila par ghashi taari hui
 
@@ -53,21 +53,21 @@ romanLyrics: |-
 
   7
   Kya khabar thi Umm-e-Laila ko wo din bhi aaye ga
-  Byaah ka armaaṅ dil ka dil mein hi reh jaaye ga
-  Laash-e-Qasim ki tarah tukroṅ mein dil bat jaaye ga
+  Byaah ka armaaṅ dil ka dil meiṅ hi reh jaaye ga
+  Laash-e-Qasim ki tarah tukroṅ meiṅ dil bat jaaye ga
   Naujawaṅ ki laash par sehra sajaaya jaaye ga
 
   8
   Umm-e-Laila dil sambhaalo arsh se aayi sada
   Barchhiyoṅ ki simt jaata hai tumhaara mahlaka
   Yuṅ karo rukhsat ke jaise ho samaaṅ baraat ka
-  Khaak mein mil jaaye gi Laila shabih-e-Mustafa
+  Khaak meiṅ mil jaaye gi Laila shabih-e-Mustafa
 
   9
   Kis tarah Rehaan ho us guftugu ka ab bayaṅ
   Aurateṅ jab Shaam ki kehti thiṅ le kar hichkiyaṅ
-  Jis jawaṅ ka nok-e-neza par hua hai sar ayaaṅ
-  Us jawaṅ se pehle ya Rab mar gayi ho us ki maaṅ
+  Jis jawaaṅ ka nok-e-neza par hua hai sar ayaaṅ
+  Us jawaaṅ se pehle ya Rab mar gayi ho us ki maaṅ
 # source_id: nohayonline:189ca40a481d08c43dcb
 # source_url: https://www.nohayonline.com/details_content.php?id=397
 # raw_sha256: 075514aed65951b59faa1096c71f703aaff49c3f0a0457e07ab7cd7735c78b45

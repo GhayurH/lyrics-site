@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Jo baraati bach gaye wo qaid ho ke chal diye
-  Saare dasht-e-Nainawa mein ek dulha reh gaya
+  Saare dasht-e-Nainawa meiṅ ek dulha reh gaya
 
   2
   Yaadgaareṅ reh gayiṅ do maadar-e-Asghar ke paas
@@ -27,7 +27,7 @@ romanLyrics: |-
   Nok pe barchhi ki Akbar ka kaleja reh gaya
 
   4
-  Sehra-e-Akbar ki lariyaṅ khun mein tar ho gayiṅ
+  Sehra-e-Akbar ki lariyaṅ khun meiṅ tar ho gayiṅ
   Haaye Sughra ka har ik armaaṅ adhura reh gaya
 
   5
@@ -36,11 +36,11 @@ romanLyrics: |-
 
   6
   Phul Zahra ke chaman se sab hi tore jaa chuke
-  Jalte khaimoṅ mein bas ik bimaar tanha reh gaya
+  Jalte khaimoṅ meiṅ bas ik bimaar tanha reh gaya
 
   7
   Sar khule Zainab chaliṅ khaimoṅ se ye keh kar Raza
-  Khanjaroṅ ki bhir mein bhaai akela reh gaya
+  Khanjaroṅ ki bhir meiṅ bhaai akela reh gaya
 # source_id: nohayonline:92a092856cb384c944ab
 # source_url: https://www.nohayonline.com/details_content.php?id=1009
 # raw_sha256: e175bf9b61a3f1b017bb89b3c11d1968c550c121b560e768fc2140edcbf27263

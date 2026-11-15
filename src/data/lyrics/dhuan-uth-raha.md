@@ -35,7 +35,7 @@ romanLyrics: |-
   3
   Masnad jali jhula jala
   Bistar bhi Aabid ka jala
-  Khaimoṅ mein aur kya kya jala
+  Khaimoṅ meiṅ aur kya kya jala
   Aaj phir Zehra ke ghar se
 
   4
@@ -57,10 +57,10 @@ romanLyrics: |-
   Dekh lo Abbas aa ke
 
   7
-  Haathoṅ mein le kar haazri
+  Haathoṅ meiṅ le kar haazri
   Jab Hur ki zauja aayi thi
   Sar pit kar kehne lagi
-  Ho gayi taakheer mujh se
+  Ho gayi taakhir mujh se
 
   8
   Baba se Zainab ne kaha

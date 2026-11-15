@@ -10,112 +10,112 @@ tags: []
 aliases: ["Ay Sheh Ke Azadaron"]
 published: true
 romanLyrics: |-
-  Taarikh ke kirdaaroṅ kis baat mein tum kam ho
-  Ae sheh ke azaadaaroṅ kis baat mein tum kam ho
+  Taarikh ke kirdaaroṅ kis baat meiṅ tum kam ho
+  Ae sheh ke azaadaaroṅ kis baat meiṅ tum kam ho
 
   Darya ho samandar ho tum sip ho gauhar ho
-  Tum mard-e-qalandar ho sehra mein gul-e-tar ho
+  Tum mard-e-qalandar ho sehra meiṅ gul-e-tar ho
   Tum azm-e-Abu Zar ho tum fikr ke Qambar ho
   Tum Hur ka qabila ho tum Jaun ka lashkar ho
-  Ae gham ke alamdaaro kis baat mein tum kam ho
+  Ae gham ke alamdaaro kis baat meiṅ tum kam ho
 
   1
   Rasta nahiṅ manzil ho dharkan nahiṅ tum dil ho
   Mazlum ke tum haami har zulm ke qaatil ho
-  Insaan ki azmat ke har baat mein shaamil ho
-  Zulmat ke samandar mein tum nur ka saahil ho
-  Matam ke talabgaaroṅ kis baat mein tum kam ho
+  Insaan ki azmat ke har baat meiṅ shaamil ho
+  Zulmat ke samandar meiṅ tum nur ka saahil ho
+  Matam ke talabgaaroṅ kis baat meiṅ tum kam ho
 
   2
   Nisbat hai payambar se nisbat tumheiṅ Haidar se
   Is nisbat-e-maula se tum dur rahe shar se
   Tum aankh milaate ho har waqt sitamgar se
   Jo dars mila tum ko Salman se Buzar se
-  Tum rup wohi dhaaro kis baat mein tum kam ho
+  Tum rup wohi dhaaro kis baat meiṅ tum kam ho
 
   3
   Abbas ke parcham se sikhi hai wafaadaari
-  Aankhoṅ mein tumhaare hai imaan ki bedaari
+  Aankhoṅ meiṅ tumhaare hai imaan ki bedaari
   Qismat se mili tum ko mazlum ki ghamkhwaari
   Zaalim ke liye ab bhi tum tegh ho do dhaari
-  Mazlum ke ghamkhwaaroṅ kis baat mein tum kam ho
+  Mazlum ke ghamkhwaaroṅ kis baat meiṅ tum kam ho
 
   4
   Zainab ki rida tum se karti hai sawaal aisa
-  Kis gham mein bahaate ho aankhoṅ se lahu apna
-  Kya ghar mein tumhaare bhi paighaam mera pahuncha
+  Kis gham meiṅ bahaate ho aankhoṅ se lahu apna
+  Kya ghar meiṅ tumhaare bhi paighaam mera pahuncha
   Jis din ke laashe ke kaam aaya mera parda
-  Laaj uski rakho dekho kis baat mein tum kam ho
+  Laaj uski rakho dekho kis baat meiṅ tum kam ho
 
   5
   Kya dars liya tum ne Akbar ki jawaani se
   Kya sikha bataao to Karbal ki kahaani se
   Mat behlo khatiboṅ ke alfaaz o maaani se
   Mehfuz haqiqat ko rakhna hai kahaani se
-  Ae ilm ke meyaaroṅ kis baat mein tum kam ho
+  Ae ilm ke meyaaroṅ kis baat meiṅ tum kam ho
 
   6
-  Masjid ke musalmaanoṅ maidaan ke bano ghaazi
-  Tum Hur ki tarah maango ek raat mein aazaadi
-  Darbaar mein zaalim ke Kiuṅ bante ho faryaadi
+  Masjid ke musalmaanoṅ maidaaṅ ke bano ghaazi
+  Tum Hur ki tarah maango ek raat meiṅ aazaadi
+  Darbaar meiṅ zaalim ke Kiuṅ bante ho faryaadi
   Sajjad ne jis tarah diwaar-e-sitam dhaa di
-  Diwaar-e-sitam dhaa do kis baat mein tum kam ho
+  Diwaar-e-sitam dhaa do kis baat meiṅ tum kam ho
 
   7
-  Tum Nahj-e-Balaagha ki tafsir mein dhal jaao
+  Tum Nahj-e-Balaagha ki tafsir meiṅ dhal jaao
   Haidar ki ghulaami ka andaaz to apnaao
   Mazlum ko mat chhero zaalim se na ghabraao
   Haq baat jo kehna hai suli pe bhi dohraao
-  Allah ke naqqaaroṅ kis baat mein tum kam ho
+  Allah ke naqqaaroṅ kis baat meiṅ tum kam ho
 
   8
-  Shabbir ke matam mein imaaṅ ki haraarat hai
+  Shabbir ke matam meiṅ imaaṅ ki haraarat hai
   Ye ain-e-ibaadat hai ye ain-e-shariat hai
-  Shabbir ke paikar mein Islam ki nusrat hai
+  Shabbir ke paikar meiṅ Islam ki nusrat hai
   Khanjar ke tale dekho qaaim jo ibaadat hai
-  Maula ke tarafdaaroṅ kis baat mein tum kam ho
+  Maula ke tarafdaaroṅ kis baat meiṅ tum kam ho
 
   9
   Socho to zara manzar tum shaam-e-gharibaṅ ka
-  Ghar jalta tha jab ran mein us waaris-e-Quraaṅ ka
-  Paamaal tha jab laasha ek be sar o saamaaṅ ka
+  Ghar jalta tha jab ran meiṅ us waaris-e-Quraaṅ ka
+  Paamaal tha jab laasha ek besar o saamaaṅ ka
   Kirdaar magar kya tha us waaris-e-Quraaṅ ka
-  Samjho to samajhdaaroṅ kis baat mein tum kam ho
+  Samjho to samajhdaaroṅ kis baat meiṅ tum kam ho
 
   10
   Pyaasa tha lab-e-darya wo lakht-e-dil-e-Zahra
-  Aankhoṅ se barasta tha ghurbat mein lahu jiska
+  Aankhoṅ se barasta tha ghurbat meiṅ lahu jiska
   Wo waqt bhi tha kaisa chhe maah ka ek bachcha
   Haathoṅ pe tarapta tha paani ka na qatra
-  Us waqt ke jaanbaaroṅ kis baat mein tum kam ho
+  Us waqt ke jaanbaaroṅ kis baat meiṅ tum kam ho
 
   11
   Hal min ki sada ab bhi hum se hai yehi kehti
-  Shabbir ki nusrat ki dil mein jo tamanna thi
+  Shabbir ki nusrat ki dil meiṅ jo tamanna thi
   Kya ab bhi hai wo baaqi jo chaah thi maula ki
-  Aawaaz wohi dil ki ehsaas mein hai ab bhi
-  Dehke hue angaaroṅ kis baat mein tum kam ho
+  Aawaaz wohi dil ki ehsaas meiṅ hai ab bhi
+  Dehke hue angaaroṅ kis baat meiṅ tum kam ho
 
   12
   Tum raah-e-sadaaqat se imaaṅ ki haraarat se
   Kirdaar-e-imaamat se afkaar-e-risaalat se
   Tum shauq-e-shahaadat se maula ki inaayat se
   Islam ki khidmat se meyaar-e-mohabbat se
-  Taarikh nayi likh do kis baat mein tum kam ho
+  Taarikh nayi likh do kis baat meiṅ tum kam ho
 
   13
   Imaaṅ hai azaadaari hai din ki bedaari
   Jarraari o karraari hai azm-e-wafaadaari
   Himmat na agar haari zinda rahi khuddaari
   Mil jaayegi sardaari Haidar ki tarafdaari
-  Kar ke to zara dekho kis baat mein tum kam ho
+  Kar ke to zara dekho kis baat meiṅ tum kam ho
 
   14
   Rehaan pe Sarwar pe maula ki inaayat hai
-  Nauhe ki azaanoṅ mein matam ki iqaamat hai
+  Nauhe ki azaanoṅ meiṅ matam ki iqaamat hai
   Sach puchho to donoṅ ki har saans ibaadat hai
   Ae ahl-e-aza tum ko matam ki jo daawat hai
-  Muṅh mor ke mat jaao kis baat mein tum kam ho
+  Muṅh mor ke mat jaao kis baat meiṅ tum kam ho
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:2f16c3864d4697ce20f8
 # source_url: https://www.nohayonline.com/details_content.php?id=333

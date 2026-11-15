@@ -15,7 +15,7 @@ romanLyrics: |-
   Manzil bahut kathin thi magar naatawaaṅ gaye
 
   1
-  Abbaas ran mein aate haiṅ ab khairiyat nahiṅ
+  Abbaas ran meiṅ aate haiṅ ab khairiyat nahiṅ
   Mahsus ho raha hai zamiṅ aasmaaṅ gaye
 
   2
@@ -23,8 +23,8 @@ romanLyrics: |-
   Islaam par jo waqt para bezabaaṅ gaye
 
   3
-  Asghar ko Sughra karti hai shaayad watan mein yaad
-  Khaime se ran mein lete hue hichkiyaaṅ gaye
+  Asghar ko Sughra karti hai shaayad watan meiṅ yaad
+  Khaime se ran meiṅ lete hue hichkiyaaṅ gaye
 
   4
   Waqt-e-jihaad ye bhi tha ehsaas Shaah ko
@@ -35,11 +35,11 @@ romanLyrics: |-
   Sar kat gaya to bar sar-e-nok-e-sinaaṅ gaye
 
   6
-  Sajjaad Karbala se chale the bukhaar mein
+  Sajjaad Karbala se chale the bukhaar meiṅ
   Taa Shaam phir bhi pehne hue beriyaaṅ gaye
 
   7
-  Anwar gham-e-Husain ke sadqe mein ab talak
+  Anwar gham-e-Husain ke sadqe meiṅ ab talak
   Izzat hui nasib hameṅ ham jahaaṅ gaye
 # source_id: nohayonline:2b3eb97dc5441a3ec46c
 # source_url: https://www.nohayonline.com/details_content.php?id=1263

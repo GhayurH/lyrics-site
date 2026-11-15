@@ -12,39 +12,39 @@ aliases: []
 published: true
 romanLyrics: |-
   Tha Qasim ke laashe pe Kubra ka noha
-  Ae saahab bataao main kya keh ke rouṅ
+  Ae saahab bataao maiṅ kya keh ke rouṅ
   Phata jaa raha hai jigar gham se mera
-  Ae saahab bataao main kya keh ke rouṅ
+  Ae saahab bataao maiṅ kya keh ke rouṅ
 
   1
-  Meri maaṅg ujri hai ek pal mein waali
-  Main aayi huṅ laashe pe ban ke sawaali
+  Meri maaṅg ujri hai ek pal meiṅ waali
+  Maiṅ aayi huṅ laashe pe ban ke sawaali
   Nahiṅ aata rone ka mujh ko qarina
 
   2
-  Rahe dil ke armaaṅ mere dil mein ghut kar
+  Rahe dil ke armaaṅ mere dil meiṅ ghut kar
   Ajab mor pe mujh ko laaya muqaddar
   Bani kal suhagan hui aaj bewa
 
   3
   Jo guzri mere dil pe kaise bataauṅ
   Ye rudaad-e-gham kis ko ro kar sunaauṅ
-  Main ek shab ki byaahi karuṅ kaise naala
+  Maiṅ ek shab ki byaahi karuṅ kaise naala
 
   4
-  Hua suna ek pal mein maathe ka tika
+  Hua suna ek pal meiṅ maathe ka tika
   Para meri mehndi ka bhi rang phika
   Bahut aa raha hai muqaddar pe rona
 
   5
   Koi raasta to dikha jaate saahab
-  Main baithuṅ kahaaṅ kuchh bata jaate saahab
+  Maiṅ baithuṅ kahaaṅ kuchh bata jaate saahab
   Na sasuraal baaqi rahi aur na maika
 
   6
   Khuda aisa din na kisi ko dikhaye
-  Main jaise luti koi luta na jaaye
-  Mere saamne aaya tukroṅ mein laasha
+  Maiṅ jaise luti koi luta na jaaye
+  Mere saamne aaya tukroṅ meiṅ laasha
 
   7
   Muqaddar pe apne mujhe naaz hota
@@ -54,15 +54,15 @@ romanLyrics: |-
   8
   Ae Waiz qayaamat ka manzar tha us dam
   Kiya Bibi Kubra ne jis waqt maatam
-  Tarapta tha tukroṅ mein Qasim ka laasha
+  Tarapta tha tukroṅ meiṅ Qasim ka laasha
 
   9
-  Saahab bataao main tumheṅ rona mein kya kahuṅ
+  Saahab bataao maiṅ tumheṅ rona meiṅ kya kahuṅ
   Bekas kahuṅ ke fidya-e-raah-e-Khuda kahuṅ
   Pyaasa kahuṅ shahid kahuṅ ya bana kahuṅ
   Dulha kahuṅ ki Qasim-e-gulguṅ qaba kahuṅ
   Chhora dulhan ko laash pe rone ke waaste
-  Dulha bane the qabr mein sone ke waaste
+  Dulha bane the qabr meiṅ sone ke waaste
 # source_id: nohayonline:8f3ab9b6d8ded1e9d339
 # source_url: https://www.nohayonline.com/details_content.php?id=3145
 # raw_sha256: 13ddd29622da33cdcc3e6ff1ee2c8aa4abeb7a31d970bf59becbe8f5c2f3e38b

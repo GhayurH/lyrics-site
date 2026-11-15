@@ -16,7 +16,7 @@ romanLyrics: |-
   1
   Na Akbar hai na Abbas-e-dilaawar
   Na hai Aun o Muhammad aur na Asghar
-  Sar-e-maqtal huṅ main tanha Sakina
+  Sar-e-maqtal huṅ maiṅ tanha Sakina
 
   2
   Chacha jo naaz uthaata tha tumhaare
@@ -34,7 +34,7 @@ romanLyrics: |-
   Na hoga ab mera sina Sakina
 
   5
-  Main waaqif huṅ tu khaaye gi tamaanche
+  Maiṅ waaqif huṅ tu khaaye gi tamaanche
   Tere rukhsaar ho jaayeṅ ge nile
   Dilaasa kaun ab dega Sakina
 
@@ -59,7 +59,7 @@ romanLyrics: |-
   Tera baba hai sharminda Sakina
 
   10
-  Tha khaimoṅ mein Rasheed us waqt mahshar
+  Tha khaimoṅ meiṅ Rashid us waqt mahshar
   Sakina se yehi kehte the Sarwar
   Khuda haafiz meri dukhiya Sakina
 # source_id: nohayonline:c34bc185c773d116b91e

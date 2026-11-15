@@ -20,9 +20,9 @@ romanLyrics: |-
   Is par sawaar-e-dosh-e-Muhammad sawaar hai
 
   2
-  Talwaar chaand ban ke chamakti thi raat mein
-  Duldul hasin lagta tha Maula ke saath mein
-  Talwaar zeb deti thi Haidar ke haath mein
+  Talwaar chaand ban ke chamakti thi raat meiṅ
+  Duldul hasin lagta tha Maula ke saath meiṅ
+  Talwaar zeb deti thi Haidar ke haath meiṅ
   Saaya Abu Turaab ka Duldul ka haar hai
 
   3
@@ -33,20 +33,20 @@ romanLyrics: |-
 
   4
   Talwaar jis ke munh ko dhulaati thi Faatima
-  Rahwaar jis ko ran mein khilaate the Murtaza
+  Rahwaar jis ko ran meiṅ khilaate the Murtaza
   Zehra jo Zulfiqaar ko karti thi aaina
   Maathe pe us ke paa-e-Ali ka ghubaar hai
 
   5
   Talwaar kaatti thi agar zulm ki kamar
   Ghore ki tarap torti thi sarkashoṅ ke sar
-  Be izn Zulfiqaar ki uthti na thi nazar
+  Beizn Zulfiqaar ki uthti na thi nazar
   Rahwaar bhi Ali ka itaaat shiaar hai
 
   6
-  Duldul bhi apni shaan mein Rafraf se kam nahiṅ
-  Talwaar mein to kham hai jalaalat mein kham nahiṅ
-  Raftaar us ki chhu le hawa mein bhi dam nahiṅ
+  Duldul bhi apni shaan meiṅ Rafraf se kam nahiṅ
+  Talwaar meiṅ to kham hai jalaalat meiṅ kham nahiṅ
+  Raftaar us ki chhu le hawa meiṅ bhi dam nahiṅ
   Is par har ek fath ka daar o madaar hai
 
   7
@@ -57,12 +57,12 @@ romanLyrics: |-
 
   8
   Mastur hai Imaam-e-Zaman chup hai kaainaat
-  Gardan mein hai Ali ki rasan chup hai kaainaat
+  Gardan meiṅ hai Ali ki rasan chup hai kaainaat
   Lutta hai Faatima ka chaman chup hai kaainaat
   Roti hai tegh nauha kunaṅ rahwaar hai
 
   9
-  Karbobala mein pyaas na donoṅ ki bujh saki
+  Karbobala meiṅ pyaas na donoṅ ki bujh saki
   Aashur ko na puchhiye ghore ki tashnagi
   Kya ser hoti tegh saroṅ ki rahi kami
   Donoṅ ki ruh aaj talak beqaraar hai

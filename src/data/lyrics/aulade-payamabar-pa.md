@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Aulaad-e-Payambar pe ajab jaur o jafa hai
-  Zanjir mein jakri hui ab Aal-e-Aba hai
+  Zanjir meiṅ jakri hui ab Aal-e-Aba hai
 
   1
   Phir kar na sakega koi Islam ko uryaaṅ
@@ -23,7 +23,7 @@ romanLyrics: |-
   Sar nange faqat qaafila-e-Aal-e-Aba hai
 
   3
-  Wo Shaam ke zindaan mein ye Karb o Bala mein
+  Wo Shaam ke zindaan meiṅ ye Karb o Bala meiṅ
   Lagta hai ke sharminda bhatiji se chacha hai
 
   4
@@ -32,7 +32,7 @@ romanLyrics: |-
 
   5
   Zindaan ke khulne ki jo karti thi duaaeṅ
-  Wo qabr mein band ho gai zindaan khula hai
+  Wo qabr meiṅ band ho gai zindaan khula hai
 
   6
   Phuṅkoṅ se mukhaalif ki Taqi kaise bujhegi

@@ -11,19 +11,19 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zanjir mein jakre hue bimaar ka maatam
+  Zanjir meiṅ jakre hue bimaar ka maatam
   Hum karte haiṅ Karbal ke azaadaar ka maatam
 
   1
-  Wo khun mein duba hua Shabbir ka laasha
-  Be gor o kafan dhup mein reti pe para tha
+  Wo khun meiṅ duba hua Shabbir ka laasha
+  Begor o kafan dhup meiṅ reti pe para tha
   Manzar ye jigar thaam ke Sajjad ne dekha
   Har su hai bapa ab usi ghamkhwaar ka maatam
 
   2
   Sajjad ne dekhe haiṅ ajab dard ke manzar
   Naizoṅ ki bulandi pe shahidoṅ ke kate sar
-  Maaṅ behneṅ thi bazaaroṅ mein be maqna o chaadar
+  Maaṅ behneṅ thi bazaaroṅ meiṅ bemaqna o chaadar
   Shabbir ke maqsad ke madadgaar ka maatam
 
   3
@@ -33,19 +33,19 @@ romanLyrics: |-
   Hai aaj usi bekas o naachaar ka maatam
 
   4
-  Rassi mein bandha pyaasi Sakina ka gala tha
-  Kehti thi mujhe god mein le lijiye bhaiya
+  Rassi meiṅ bandha pyaasi Sakina ka gala tha
+  Kehti thi mujhe god meiṅ le lijiye bhaiya
   Kis tarah se dete use Sajjad dilaasa
   Hai tauq o salasil ke giraftaar ka maatam
 
   5
-  Be parda wo na mahramoṅ mein waaris-e-tathir
+  Beparda wo na mahramoṅ meiṅ waaris-e-tathir
   Wo tauq-e-giraaṅ pehne hue sabr ki tasvir
   Aazaadi ka paighaam sunaati rahi zanjir
   Hota hai usi qaafila saalaar ka maatam
 
   6
-  Paaoṅ mein waram pusht par durroṅ ke nishaaṅ the
+  Paaoṅ meiṅ waram pusht par durroṅ ke nishaaṅ the
   Zakhmi hue sab raaste jab aable phute
   Bimaar tarapta hi raha zakhm-e-gulu se
   Hai qaafila-e-sabr ke sardaar ka maatam
@@ -63,16 +63,16 @@ romanLyrics: |-
   Baazaar ka zindaan ka darbaar ka maatam
 
   9
-  Roye haiṅ tere gham mein Ali aur Hasan bhi
-  Tarpe haiṅ tere gham mein Shah-e-tishna dahan bhi
+  Roye haiṅ tere gham meiṅ Ali aur Hasan bhi
+  Tarpe haiṅ tere gham meiṅ Shah-e-tishna dahan bhi
   Bechain hui Fatima Sarwar ki behan bhi
   Maatam hai tera Ahmad-e-Mukhtaar ka maatam
 
   10
-  Mazlum ke hisse mein bhi zahr-e-sitam aaya
-  Ek hashr Rashid ahl-e-Madine mein tha barpa
+  Mazlum ke hisse meiṅ bhi zahr-e-sitam aaya
+  Ek hashr Rashid ahl-e-Madine meiṅ tha barpa
   Lo so gaya Islam ke zakhmoṅ ka masiha
-  Ashkoṅ ki fazaaoṅ mein hai bimaar ka maatam
+  Ashkoṅ ki fazaaoṅ meiṅ hai bimaar ka maatam
 # source_id: nohayonline:75f5c2be9ecfe3a39cb5
 # source_url: https://www.nohayonline.com/details_content.php?id=2125
 # raw_sha256: 797b2101f6b10cbe60249d63ee80e35d2db0f8a3e9c7fca0274670016ff8fec3

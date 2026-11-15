@@ -19,31 +19,31 @@ romanLyrics: |-
   Ae mere aaqa ae Maula
   Aap ko na dekha na suna
   Chauda sadi se dil hai fida
-  Ghar mein bichha kar farsh-e-aza
+  Ghar meiṅ bichha kar farsh-e-aza
   Labbaik kaha
   Kya karuṅ dil hai tujh pe fida Husain
   Shaah-e-Karbobala Husain
-  Main diwaana tera Husain
+  Maiṅ diwaana tera Husain
   Ya Husain ya Husaina
 
   2
-  Mehraab-e-dil mein aza ki qasam
+  Mehraab-e-dil meiṅ aza ki qasam
   Qibla-e-jaan hai tu Shaah-e-umam
   Kaaba-e-ishq hai tera haram
-  Us ke tawaaf mein nikle hum
+  Us ke tawaaf meiṅ nikle hum
   Ho itna karam
   Aarzu Karbala hai meri Husain
-  Aankh mein hai nami Husain
+  Aankh meiṅ hai nami Husain
   Chaahta huṅ yahi Husain
   Ya Husain ya Husaina
 
   3
-  Kiuṅ na rakhuṅ is par main jabiṅ
-  Kaise na chumuṅ main wo zamiṅ
+  Kiuṅ na rakhuṅ is par maiṅ jabiṅ
+  Kaise na chumuṅ maiṅ wo zamiṅ
   Jis pe rahe haiṅ aap makiṅ
   Aap ke qadmoṅ ke haiṅ wohi
   Par naqsh hasiṅ
-  Main fida tere qadmoṅ pe huṅ Husain
+  Maiṅ fida tere qadmoṅ pe huṅ Husain
   Mere dil ka sukuṅ Husain
   Tu hai mera junun Husain
   Ya Husain ya Husaina
@@ -69,7 +69,7 @@ romanLyrics: |-
   Jaa na saka gar Karbobala
   Dekha nahiṅ jo rauza tera
   Khaak-e-wujud hai phir mera
-  Khaak mein de tu us ko mila
+  Khaak meiṅ de tu us ko mila
   Yaani ke khaak-e-Karbobala
   Gar jiyuṅ to bhi tujh pe maruṅ Husain
   Aur aise maruṅ Husain
@@ -79,7 +79,7 @@ romanLyrics: |-
   7
   Zaad-e-safar kuchh kam hai magar
   Dil pe hua hai aisa asar
-  Ishq mein tere shaam o sahar
+  Ishq meiṅ tere shaam o sahar
   Karbobala ki simt safar
   Karti hai nazar
   Maisam aur Salman bayaaṅ

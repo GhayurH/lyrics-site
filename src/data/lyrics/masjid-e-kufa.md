@@ -15,15 +15,15 @@ romanLyrics: |-
 
   1
   Jis ki aamad ke liye diwaar-e-Kaaba shaq hui
-  Haalat-e-sajda mein us ka khun masjid mein baha
+  Haalat-e-sajda meiṅ us ka khun masjid meiṅ baha
 
   2
   Saazish-e-ahl-e-Saqifa kaam apna kar gayi
-  Aaj sajde mein Ali par chal gayi tegh-e-jafa
+  Aaj sajde meiṅ Ali par chal gayi tegh-e-jafa
 
   3
   Kufiyoṅ khushiyaṅ manaao qatl Haidar ho gaya
-  Khaana-e-Zehra mein lekin aaj hai maatam bapa
+  Khaana-e-Zehra meiṅ lekin aaj hai maatam bapa
 
   4
   Kis tarah Zainab ne sun li ye qayaamat ki khabar

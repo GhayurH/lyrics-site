@@ -13,53 +13,53 @@ published: true
 romanLyrics: |-
   Ae baba
   Baba, baba, baba mere baba
-  Ae baba, main kaise jiyuṅ
-  Is duniya, mein tere bina
+  Ae baba, maiṅ kaise jiyuṅ
+  Is duniya, meiṅ tere bina
 
   1
   Naazoṅ ki pali bachchi par
   Ye kaisi qayamat aayi
-  Ghurbat ke ghane jangal mein
+  Ghurbat ke ghane jangal meiṅ
   Hai ghere hue tanhaai
   Baba hi rahe na bhai
-  Ae baba, main kaise jiyuṅ
-  Is duniya, mein tere bina
+  Ae baba, maiṅ kaise jiyuṅ
+  Is duniya, meiṅ tere bina
 
   2
   Ek tashna dahan shehzaadi
   Hai solah pehar ki pyaasi
   Haal apna sunaaye kis ko
   Ab koi nahiṅ hai baaqi
-  Maqtal mein hui faryadi
-  Ae baba, main kaise jiyuṅ
-  Is duniya, mein tere bina
+  Maqtal meiṅ hui faryadi
+  Ae baba, maiṅ kaise jiyuṅ
+  Is duniya, meiṅ tere bina
 
   3
   Hai chaaroṅ taraf tanhaai
   Aur chaaroṅ taraf viraana
   Rota hai meri haalat par
   Ye jangal ye viraana
-  Main kaise rahuṅgi tanha
-  Ae baba, main kaise jiyuṅ
-  Is duniya, mein tere bina
+  Maiṅ kaise rahuṅgi tanha
+  Ae baba, maiṅ kaise jiyuṅ
+  Is duniya, meiṅ tere bina
 
   4
   Shabbir ki raaj dulaari
-  Kis haal mein hai bechaari
-  Maqtal mein khari ro ro kar
+  Kis haal meiṅ hai bechaari
+  Maqtal meiṅ khari ro ro kar
   Kehti hai ghamoṅ ki maari
   Mar jayegi meri pyaari
-  Ae baba, main kaise jiyuṅ
-  Is duniya, mein tere bina
+  Ae baba, maiṅ kaise jiyuṅ
+  Is duniya, meiṅ tere bina
 
   5
   Dur chhin liye aada ne
   Kaanoṅ se lahu behta hai
-  Jaana hai mujhe zindaaṅ mein
+  Jaana hai mujhe zindaaṅ meiṅ
   Har ek laiṅ kehta hai
   Ye khauf mujhe rehta hai
-  Ae baba, main kaise jiyuṅ
-  Is duniya, mein tere bina
+  Ae baba, maiṅ kaise jiyuṅ
+  Is duniya, meiṅ tere bina
 
   6
   Wo raat jahaaṅ raunaq thi
@@ -67,8 +67,8 @@ romanLyrics: |-
   Haṅs haṅs ke sitamgaaroṅ ne
   Maare hai tamache mere
   Roka na kisi ne aa ke
-  Ae baba, main kaise jiyuṅ
-  Is duniya, mein tere bina
+  Ae baba, maiṅ kaise jiyuṅ
+  Is duniya, meiṅ tere bina
 # source_id: nohayonline:465d1c39d4206bfdcc1f
 # source_url: https://www.nohayonline.com/details_content.php?id=1570
 # raw_sha256: 4b1e71cc8dad3547597e6b4b1408fe5dfa449d513b860557fabfff9240b8d846

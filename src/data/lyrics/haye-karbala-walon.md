@@ -1,6 +1,6 @@
 ---
 title: "اے خدا کے بندوں میں منتخب خدا والوں"
-alternateTitle: "Haye Karbala Walon"
+alternateTitle: "Haye Karbala Waloṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ae Khuda ke bandoṅ mein muntakhab Khuda waloṅ
+  Ae Khuda ke bandoṅ meiṅ muntakhab Khuda waloṅ
   Takht-e-innama waloṅ taaj-e-hal ataa waloṅ
   Shaan-e-Mustafa waloṅ waaiz-e-Murtaza waloṅ
   Kya wafa pe jaaneṅ di tum ne ae wafa waloṅ
@@ -20,12 +20,12 @@ romanLyrics: |-
   1
   Chhote chhote bachchoṅ ne jang ki ijaazat li
   Barh gaye jawaaṅ ban kar kamsini se rukhsat li
-  Qaum ki himaayat mein izzat-e-shahaadat li
+  Qaum ki himaayat meiṅ izzat-e-shahaadat li
   Zindagi ko kya kahiye maut se bhi khidmat li
 
   2
-  Kis bala ke jangal mein Aal-e-Mustafa thehri
-  Be dayaaroṅ ka madfan arz-e-Karbala thehri
+  Kis bala ke jangal meiṅ Aal-e-Mustafa thehri
+  Bedayaaroṅ ka madfan arz-e-Karbala thehri
   Aayi shaam-e-Ashura subh ko wagha thehri
   Kya khabar Madina ko shaamiyoṅ se kya thehri
 
@@ -36,15 +36,15 @@ romanLyrics: |-
   Maaṅ ki god se aaya koi koi jhule se
 
   4
-  Koi tum mein Akbar tha koi tum mein Asghar tha
+  Koi tum meiṅ Akbar tha koi tum meiṅ Asghar tha
   Koi saani-e-Jaafar koi misl-e-Haidar tha
-  Koi qadr o qimat mein do jahaaṅ se bartar tha
-  Zer-e-tegh Karbal mein Fatima ka ghar bhar tha
+  Koi qadr o qimat meiṅ do jahaaṅ se bartar tha
+  Zer-e-tegh Karbal meiṅ Fatima ka ghar bhar tha
 
   5
-  Is tarah ke aalam mein phir na dil jigar dekhe
+  Is tarah ke aalam meiṅ phir na dil jigar dekhe
   Dar pe aa ke maaoṅ ne jang ke hunar dekhe
-  Apne chaand ke tukre khuṅ mein tar ba tar dekhe
+  Apne chaand ke tukre khuṅ meiṅ tar ba tar dekhe
   Reg-e-garm par laasheṅ barchhiyoṅ pe sar dekhe
 # source_id: nohayonline:b87b085da5a902258e7a
 # source_url: https://www.nohayonline.com/details_content.php?id=3034

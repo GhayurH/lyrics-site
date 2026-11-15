@@ -1,6 +1,6 @@
 ---
 title: "یہ کس شہید کی میت حسین لاتے ہیں"
-alternateTitle: "Ye Kis Shaheed Ki"
+alternateTitle: "Ye Kis Shahid Ki"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -22,15 +22,15 @@ romanLyrics: |-
   Dikhaae laashe ko kaise ye soche jaate haiṅ
 
   3
-  Lipat ke laate haiṅ chaadar ke goshe mein rakh kar
+  Lipat ke laate haiṅ chaadar ke goshe meiṅ rakh kar
   Saroṅ pe khaak baraati sabhi uraate haiṅ
 
   4
   Dulhan na aae kahiṅ shor-e-girya ko sun kar
-  Jo baar baar aba mein ise chhupaate haiṅ
+  Jo baar baar aba meiṅ ise chhupaate haiṅ
 
   5
-  Ye kaisi laash hai baandhi hui hai gathri mein
+  Ye kaisi laash hai baandhi hui hai gathri meiṅ
   Bata rahe haiṅ kisi ko kabhi chhupaate haiṅ
 
   6
@@ -42,7 +42,7 @@ romanLyrics: |-
   Baraat dekh ke dulha ki rote jaate haiṅ
 
   8
-  Macha hai khaimoṅ mein kohraam haae Qasim ka
+  Macha hai khaimoṅ meiṅ kohraam haae Qasim ka
   Husain laash se chaadar ko ab hataate haiṅ
 
   9
@@ -55,7 +55,7 @@ romanLyrics: |-
 
   11
   Saroṅ pe khaak uraao Mujaab pito sar
-  Ye aisa gham hai ke is gham mein khuṅ bahaate haiṅ
+  Ye aisa gham hai ke is gham meiṅ khuṅ bahaate haiṅ
 # source_id: nohayonline:216ebea6d0f44e5d698b
 # source_url: https://www.nohayonline.com/details_content.php?id=1776
 # raw_sha256: 9a09021f5c10ace24d09b77edfc0f5348d4fc73e46d8f050d622e2d1dfc95741

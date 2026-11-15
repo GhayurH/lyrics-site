@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Tum ho gaye bejaaṅ padar zinda hai Akbar
-  Aisa bhi zamane mein kahiṅ hota hai Akbar
+  Aisa bhi zamane meiṅ kahiṅ hota hai Akbar
 
   1
   Maqtal se janaze ko tere kaise uthaeṅ
@@ -22,12 +22,12 @@ romanLyrics: |-
   2
   Dil apna sambhaluṅ to sinaaṅ dil se nikaluṅ
   Phir kaaṅpte haathoṅ se tera laasha utha luṅ
-  Kis haal mein dekho to tera baba hai Akbar
+  Kis haal meiṅ dekho to tera baba hai Akbar
 
   3
   Tum aaṅkheṅ phira lete ho jab dard ke maare
   Jab saaṅs nahiṅ lete ho haathoṅ pe hamare
-  Dam saath mein mera bhi nikal jaata hai Akbar
+  Dam saath meiṅ mera bhi nikal jaata hai Akbar
 
   4
   Socha tha tumheṅ shaan se hum dulha banate
@@ -35,14 +35,14 @@ romanLyrics: |-
   Ab khuṅ ka maathe pe tere sehra hai Akbar
 
   5
-  Chhutta hai zaifi mein jo bete ka sahara
+  Chhutta hai zaifi meiṅ jo bete ka sahara
   Ab saath nahiṅ deti hai binaai hamara
   Uthta hai padar aur kabhi girta hai Akbar
 
   6
   Zainab ko tera haal ye dikhlauṅ to kaise
-  Main apne gale se tujhe liptauṅ to kaise
-  Lipta hua barchhi mein tera sina hai Akbar
+  Maiṅ apne gale se tujhe liptauṅ to kaise
+  Lipta hua barchhi meiṅ tera sina hai Akbar
 
   7
   Noha Ali Akbar ka hai Maisam ki zabani

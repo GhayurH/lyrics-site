@@ -11,14 +11,14 @@ aliases: ["roza-mere-mola-ka-sibt-e-jafar"]
 published: true
 romanLyrics: |-
   Marja hai khalaaiq ka roza mere Maula ka
-  Yuṅ hi to nahiṅ jag mein charcha mere Maula ka
+  Yuṅ hi to nahiṅ jag meiṅ charcha mere Maula ka
 
   1
   Wo Shaah-e-Arab bhi haiṅ aur Maah-e-Ajam bhi haiṅ
   Har khushk o tar-e-aalam kis ka? Mere Maula ka
 
   2
-  Hai aaj bhi qadmoṅ mein shaahi bhi khalifa bhi
+  Hai aaj bhi qadmoṅ meiṅ shaahi bhi khalifa bhi
   Shaahoṅ se to afzal hai banda mere Maula ka
 
   3
@@ -34,7 +34,7 @@ romanLyrics: |-
   Tha jab ke mashiyat par qabza mere Maula ka
 
   6
-  Maalik tere palle mein kuchh bhi na bache shaayad
+  Maalik tere palle meiṅ kuchh bhi na bache shaayad
   Bebaaq agar kar de qarza mere Maula ka
 
   7
@@ -58,7 +58,7 @@ romanLyrics: |-
   Bandhwa le jo baazu par sikka mere Maula ka
 
   12
-  Khush fahmi mein mat rahiyo dekho apne buzurgoṅ ko
+  Khush fahmi meiṅ mat rahiyo dekho apne buzurgoṅ ko
   Bachna hai halaakat se ho jaa mere Maula ka
 
   13

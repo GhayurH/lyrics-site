@@ -1,6 +1,6 @@
 ---
 title: "جو منکرِ حیدر میں وفا ڈھونڈ رہا ہے"
-alternateTitle: "Jo Munkir-e-Haider Mein Wafa Dhund Raha Hai"
+alternateTitle: "Jo Munkir-e-Haider Meiṅ Wafa Dhund Raha Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

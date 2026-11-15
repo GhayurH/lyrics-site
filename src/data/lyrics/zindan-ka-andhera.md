@@ -1,6 +1,6 @@
 ---
 title: "زنداں کا اندھیرا مجھے سونے نہیں دیتا"
-alternateTitle: "Zindan Ka Andhera"
+alternateTitle: "Zindaṅ Ka Andhera"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -17,7 +17,7 @@ romanLyrics: |-
   1
   Baba mere kaanoṅ se lahu ab bhi hai jaari
   Maare haiṅ tamaache bhi Sakina ko tumhaari
-  Pehlu mein phuphi ke mujhe rehne nahiṅ deta
+  Pehlu meiṅ phuphi ke mujhe rehne nahiṅ deta
 
   2
   Awwal to mujhe nind hi aati nahiṅ baba
@@ -25,8 +25,8 @@ romanLyrics: |-
   Ye Shimr mujhe saans bhi lene nahiṅ deta
 
   3
-  Ab khwaab mein paani ki tamanna nahiṅ karti
-  Kaante haiṅ pare halq mein aur saans hai rukti
+  Ab khwaab meiṅ paani ki tamanna nahiṅ karti
+  Kaante haiṅ pare halq meiṅ aur saans hai rukti
   Ammu se shikaayat koi karne nahiṅ deta
 
   4

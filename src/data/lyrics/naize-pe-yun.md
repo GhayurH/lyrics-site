@@ -36,13 +36,13 @@ romanLyrics: |-
   Dukhiya ke dil par waar kiya
 
   4
-  Jhule mein tarapte haiṅ Asghar
+  Jhule meiṅ tarapte haiṅ Asghar
   Aur khushk zabaaṅ hai hontoṅ par
-  Sukhi hui gardan par ran mein
+  Sukhi hui gardan par ran meiṅ
   Zaalim ne ye kaisa waar kiya
 
   5
-  Ek huk si dil mein uthti hai
+  Ek huk si dil meiṅ uthti hai
   Dil khun ke aansu rota hai
   Aulaad-e-Nabi par ummat ne
   Wo zulm sar-e-baazaar kiya
@@ -60,13 +60,13 @@ romanLyrics: |-
   Kaise Zainab ne paar kiya
 
   8
-  Karbal ke sulagte sahra mein
+  Karbal ke sulagte sahra meiṅ
   Shabbir pe jaaṅ dene ke liye
   Apne haathoṅ se bachchoṅ ko
   Har ek maaṅ ne tayyaar kiya
 
   9
-  Ghamkhwaar ki maatam daari mein
+  Ghamkhwaar ki maatam daari meiṅ
   Mazlum ka pursa dete hue
   Dilshad ne sunne waaloṅ ko
   Maatam ke liye tayyaar kiya

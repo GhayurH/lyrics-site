@@ -56,12 +56,12 @@ romanLyrics: |-
   Thi jo bhai ke aankhoṅ ki thandak
   Haaye wo bint-e-Shah-e-Madina
   Karbala se chale hum jo Kufa
-  Gir gayi raaste mein Sakina
-  Khud ba khud raah mein ruk gaya hai
+  Gir gayi raaste meiṅ Sakina
+  Khud ba khud raah meiṅ ruk gaya hai
   Nok-e-naiza pe bhai mera
 
   6
-  Hum ne is tarah se zindagi mein
+  Hum ne is tarah se zindagi meiṅ
   Aise raste to dekhe nahiṅ the
   Usi Kufe ke baazaar se hum
   Kabhi beparda guzre nahiṅ the
@@ -69,9 +69,9 @@ romanLyrics: |-
   Nok-e-naiza pe bhai mera
 
   7
-  Wo jo Bibi pe raste mein guzre
+  Wo jo Bibi pe raste meiṅ guzre
   Phat rahe haiṅ jigar us alam se
-  Shadman tha jo Zainab ka noha
+  Shadmaṅ tha jo Zainab ka noha
   Likh do Majid wo apne qalam se
   Mera ghamkhwaar har dam raha hai
   Nok-e-naiza pe bhai mera

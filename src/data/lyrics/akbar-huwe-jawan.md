@@ -1,6 +1,6 @@
 ---
 title: "اکبر ہوئے جواں جو بچپن گزار کے"
-alternateTitle: "Akbar Huwe Jawan"
+alternateTitle: "Akbar Huwe Jawaaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,16 +11,16 @@ aliases: []
 published: true
 reciter: "Afzal Mirza"
 romanLyrics: |-
-  Akbar hue jawaṅ jo bachpan guzaar ke
+  Akbar hue jawaaṅ jo bachpan guzaar ke
   Laila ye samjhi aae haiṅ ab din bahaar ke
 
   1
-  Ye kab khabar thi aaegi pardes mein qaza
+  Ye kab khabar thi aaegi pardes meiṅ qaza
   Armaan na hoṅge pure dil-e-sogwaar ke
 
   2
   Akbar ko raas aaya na athaarwaṅ baras
-  Luta khizaaṅ ne daur mein fasleṅ bahaar ke
+  Luta khizaaṅ ne daur meiṅ fasleṅ bahaar ke
 
   3
   Husn-e-jawaani-e-Ali Akbar ko dekhiye
@@ -31,15 +31,15 @@ romanLyrics: |-
   Ibn-e-Anas ne qatl kiya neza maar ke
 
   5
-  Barchhi ka phal hai sine mein hichki hai maut ki
+  Barchhi ka phal hai sine meiṅ hichki hai maut ki
   Sheh ko salaam karte haiṅ Akbar pukaar ke
 
   6
-  Laila ke dil mein reh gaya armaan byaah ka
+  Laila ke dil meiṅ reh gaya armaan byaah ka
   Baithi hai ghamrasida muqaddar se haar ke
 
   7
-  Lae Husain khaime mein Akbar ki laash jab
+  Lae Husain khaime meiṅ Akbar ki laash jab
   Maaṅ dekh kar tarapne lagi chikh maar ke
 
   8
@@ -55,7 +55,7 @@ romanLyrics: |-
   Baithoge tum qarib hamaare mazaar ke
 
   11
-  Muddat se dil mein maaṅ ke tamanna thi mere laal
+  Muddat se dil meiṅ maaṅ ke tamanna thi mere laal
   Shaadi teri rachaauṅgi sadqa utaar ke
 
   12

@@ -42,11 +42,11 @@ romanLyrics: |-
   One jannat da hona haq daar nayi
 
   5
-  Dil mein sajaaya hua nuri darbaar hai
+  Dil meiṅ sajaaya hua nuri darbaar hai
   Mere aas paas mera Ali Sarkaar hai
   Jaisa huṅ jahaaṅ bhi huṅ Ali hi sang sang hai
   Ishq-e-Ali ne kiya mujhe rang rang hai
-  Ali ka malang huṅ main Ali ka malang
+  Ali ka malang huṅ maiṅ Ali ka malang
   Mere dil ka sahaara Ali Ali
   Mere lab pe hai nara Ali Ali
   Haq Maula hamaara Ali Ali
@@ -63,7 +63,7 @@ romanLyrics: |-
   Majma si haajiyaaṅ da Khum da maidaan si
   Man kuntu Maula kita Nabi ne ailaan si
   Maula-e-jahaaṅ Ali Nabi di ae jaan Ali
-  Sher-e-Yazdaan Ali shaah-e-mardaaṅ Ali
+  Sher-e-Yazdaaṅ Ali shaah-e-mardaaṅ Ali
 
   8
   Jehra karda Ali da iqraar nayi

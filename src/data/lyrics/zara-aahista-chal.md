@@ -34,7 +34,7 @@ romanLyrics: |-
   4
   Ik zarb-e-tabassum se tera
   Maidaaṅ se mita sakta huṅ nishaaṅ
-  Main Sher-e-Khuda ka pota huṅ ae tir
+  Maiṅ Sher-e-Khuda ka pota huṅ ae tir
 
   5
   Ye qissa-e-husn o ishq nahiṅ

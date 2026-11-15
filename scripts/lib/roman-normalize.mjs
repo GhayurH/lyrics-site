@@ -219,6 +219,9 @@ export function normalizeRomanMarkdown(content, path = "") {
     const mappings = [
       [/بچّ?وں/u, /\bbachchon\b/giu, "bachchoṅ"],
       [/بچیوں/u, /\bbachchiyon\b/giu, "bachchiyoṅ"],
+      // جواں is jawaaṅ: preserve the long aa and nasal ں, but never
+      // force the same spelling for جوان, which ends in plain ن.
+      [/جواں/u, /\bjawa(?:an|ṅ|n)(?![A-Za-zṅ])/giu, "jawaaṅ"],
       [/ویراں/u, /\bviran\b/giu, "viraaṅ"],
       [/آنکھوں/u, /\baakhon\b/giu, "aankhoṅ"],
       [/اکھیاں/u, /\bankhiyan\b/giu, "ankhiyaṅ"],

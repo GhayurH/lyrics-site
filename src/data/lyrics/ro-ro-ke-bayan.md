@@ -13,29 +13,29 @@ published: true
 romanLyrics: |-
   Ro ro ke bayaṅ karti thi ye Zainab-e-naashaad
   Ae Sayyad-e-Sajjaad ae Sayyad-e-Sajjaad
-  Ab hosh mein aao ke hua ghar mera barbaad
+  Ab hosh meiṅ aao ke hua ghar mera barbaad
   Ae Sayyad-e-Sajjaad ae Sayyad-e-Sajjaad
 
   1
   Maare gaye Abbas-e-dilaawar lab-e-darya
-  Paamaal hua ran mein tere baap ka laasha
+  Paamaal hua ran meiṅ tere baap ka laasha
   Khaime bhi jale jal gaya maasum ka jhula
   Jal jaaye ke jaaṅ apni bachaaye karo irshaad
 
   2
-  Main roti rahi Akbar-e-mahru gaye maare
+  Maiṅ roti rahi Akbar-e-mahru gaye maare
   Bhaai pe fida Aun o Muhammad hue pyaare
-  Sab chhup gaye is dasht mein aaṅkhoṅ ke sitaare
-  Chalti thi chhuri bhaai pe main karti thi faryaad
+  Sab chhup gaye is dasht meiṅ aaṅkhoṅ ke sitaare
+  Chalti thi chhuri bhaai pe maiṅ karti thi faryaad
 
   3
   Baazu ko mere chum ke Baaba ne kaha tha
-  Ek roz rasan baazu mein baandheṅ ge ye aadaa
-  Main kehti thi kiuṅ kya mera Abbas na hoga
+  Ek roz rasan baazu meiṅ baandheṅ ge ye aadaa
+  Maiṅ kehti thi kiuṅ kya mera Abbas na hoga
   Reh reh ke mujhe baat yehi aati hai ab yaad
 
   4
-  Baazu kate Abbas ke main dekh rahi thi
+  Baazu kate Abbas ke maiṅ dekh rahi thi
   Naiza laga Akbar ke kamar Shah ki jhuki thi
   Asghar ke laga tir qayaamat ki ghari thi
   Hai zakhm jo is dil pe nahiṅ un ki hai taadaad
@@ -50,13 +50,13 @@ romanLyrics: |-
   Hona hai abhi tum ko bhi paaband-e-salaasil
   Rota hai tujhe dekh ke beta ye mera dil
   Ab jald chalo dur bahut apni hai manzil
-  Sehni hai bahut tum ko abhi raah mein uftaad
+  Sehni hai bahut tum ko abhi raah meiṅ uftaad
 
   7
   Rehaan tu is waqt faqat itni dua kar
-  Is majlis-e-Shabbir mein haathoṅ ko utha kar
+  Is majlis-e-Shabbir meiṅ haathoṅ ko utha kar
   Ae jaan-e-Nabi ruh-e-Nabi sibt-e-Payambar
-  Mahshar mein sunaauṅ mujhe nauha ye rahe yaad
+  Mahshar meiṅ sunaauṅ mujhe nauha ye rahe yaad
 # source_id: nohayonline:5b06700dbf5184e00527
 # source_url: https://www.nohayonline.com/details_content.php?id=3315
 # raw_sha256: 865171fb4672c08eef898373e4a84a10f908e9cfd42dd4be76eeb0129457c061

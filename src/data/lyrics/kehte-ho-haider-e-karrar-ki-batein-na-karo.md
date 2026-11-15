@@ -23,7 +23,7 @@ romanLyrics: |-
   Warna Allah ke didaar ki baateṅ na karo
 
   3
-  Jo nahiṅ karte adab ghar mein bhare bhaai ka
+  Jo nahiṅ karte adab ghar meiṅ bhare bhaai ka
   Un se keh do ke Alamdaar ki baateṅ na karo
 
   4
@@ -35,7 +35,7 @@ romanLyrics: |-
   Waalid-e-Haider-e-Karraar ki baateṅ na karo
 
   6
-  Karbala hai yahaaṅ Hur ghaiz mein aa jaayeṅ ge
+  Karbala hai yahaaṅ Hur ghaiz meiṅ aa jaayeṅ ge
   Yahaaṅ baiat ke talabgaar ki baateṅ na karo
 
   7

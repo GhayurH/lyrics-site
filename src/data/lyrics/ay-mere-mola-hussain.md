@@ -16,20 +16,20 @@ romanLyrics: |-
   Ab is se jaan lo keh hai kya kya Husain ka
   Marzi hai Kibriya ki iraada Husain ka
 
-  Jab se Nabi ke sajde mein baithe haiṅ pusht par
+  Jab se Nabi ke sajde meiṅ baithe haiṅ pusht par
   Ehsaan mand tab se hai sajda Husain ka
 
-  Masruf haiṅ tawaaf mein Kaabe ke kul jahaan
+  Masruf haiṅ tawaaf meiṅ Kaabe ke kul jahaan
   Lekin tawaaf karta hai Kaaba Husain ka
 
   Waajib kiye haiṅ roze Khuda ne is liye
   Ta keh na bhule koi bhi faaqa Husain ka
 
-  Neze pe haq sunaane ka manzar nazar mein hai
+  Neze pe haq sunaane ka manzar nazar meiṅ hai
   Chup kaise hoga chaahne waala Husain ka
 
   Kaam aaeiṅ gi kisi ki na jab rishte daariyaaṅ
-  Mahshar mein kaam aayega rishta Husain ka
+  Mahshar meiṅ kaam aayega rishta Husain ka
 
   Khaak-e-shifa ke sadqe Masiha bana diya
   Ehsaan kaise bhuleiṅ ge Isa Husain ka
@@ -37,16 +37,16 @@ romanLyrics: |-
   Fakhr-e-Husain kab hai yeh hai fakhr-e-Jibril
   Jibril ne jhulaaya hai jhula Husain ka
 
-  Beshak zarih un ki hai behad nashib mein
+  Beshak zarih un ki hai behad nashib meiṅ
   Lekin hai rauza phir bhi musalla Husain ka
 
   Ham ko Khuda ke chehre ka didaar ho gaya
-  Karb o Bala mein dekha jo rauza Husain ka
+  Karb o Bala meiṅ dekha jo rauza Husain ka
 
   Fatwa garoṅ se keh do manaaeiṅ ab apni khair
   Parde se aane waala hai beta Husain ka
 
-  Abbas ki nigaahoṅ mein qibla wohi to hai
+  Abbas ki nigaahoṅ meiṅ qibla wohi to hai
   Hai jis jagah bhi naqsh-e-paa Husain ka
 
   Daali hai maaṅ ne chehra-e-Akbar pe yuṅ naqaab

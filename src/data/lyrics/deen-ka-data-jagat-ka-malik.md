@@ -20,15 +20,15 @@ romanLyrics: |-
   2
   Tere siwa wo kaun hai jis ke dar pe taara utra hai
   Dharti se aakaash talak bas tera sikka chalta hai
-  Mere Maula suraj tere hukm se nikla ik din mein do baar
+  Mere Maula suraj tere hukm se nikla ik din meiṅ do baar
 
   3
   Purab pachham uttar dakshin sahme sahme rehte haiṅ
   Khauf se apne pankh samete dur farishte rehte haiṅ
-  Ae balihaari chalti hai anyaay ke aage jab teri talwaar
+  Ae balihaari chalti hai anyae ke aage jab teri talwaar
 
   4
-  Nainoṅ mein teri yaad ki jyoti zehnoṅ mein teri murat hai
+  Nainoṅ meiṅ teri yaad ki jyoti zehnoṅ meiṅ teri murat hai
   Saaṅseṅ haiṅ tere naam ki maala man mein pyaar ki daulat hai
   Ae jag daata mere badan ke rom rom par hai tera upkaar
 

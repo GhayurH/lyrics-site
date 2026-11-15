@@ -40,7 +40,7 @@ romanLyrics: |-
 
   7
   Tanhaai meiṅ ghut ghut ke sada gham meiṅ tumhaare
-  Karti huṅ main raatoṅ ko buka Aun o Muhammad
+  Karti huṅ maiṅ raatoṅ ko buka Aun o Muhammad
 
   8
   Tum saahib-e-aulaad jo hote to samajhte
@@ -51,7 +51,7 @@ romanLyrics: |-
   Kiuṅ aayi nahiṅ mujh ko qaza Aun o Muhammad
 
   10
-  Baaloṅ se chhupaati rahi chehre ko main apne
+  Baaloṅ se chhupaati rahi chehre ko maiṅ apne
   Chhini gayi jab meri rida Aun o Muhammad
 
   11

@@ -1,6 +1,6 @@
 ---
 title: "تو بڑی دُکھی ہے فاطمہ"
-alternateTitle: "Tu Badi Dukhi Hai"
+alternateTitle: "Tu Bari Dukhi Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Tu badi dukhi hai Fatema
+  Tu bari dukhi hai Fatema
   Ab bhi ro rahi hai Fatema
 
   1

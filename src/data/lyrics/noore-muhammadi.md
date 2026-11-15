@@ -1,6 +1,6 @@
 ---
 title: "نورِ محمدی کا یہ اعجاز ایک ہے"
-alternateTitle: "Noore Muhammadi"
+alternateTitle: "Nure Muhammadi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -19,7 +19,7 @@ romanLyrics: |-
 
   2
   Jaise Ali ki zarb ko haasil hai imtiyaaz
-  Sajda tamaam sajdoṅ mein mumtaaz ek hai
+  Sajda tamaam sajdoṅ meiṅ mumtaaz ek hai
 
   3
   Nok-e-sinaaṅ pe parh ke bataaya Husain ne
@@ -38,7 +38,7 @@ romanLyrics: |-
   Ho maut zindagi ka yehi raaz ek hai
 
   7
-  Jaati hai jaan jaaye azaa-e-Husain mein
+  Jaati hai jaan jaaye azaa-e-Husain meiṅ
   Ye to hamaare waaste aezaaz ek hai
 
   8

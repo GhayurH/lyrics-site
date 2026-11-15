@@ -31,16 +31,16 @@ romanLyrics: |-
 
   4
   Wo lahu bhara alam wo mashk khuṅ bhari
-  Intezaar-e-aab mein Sakina mar gayi
+  Intezaar-e-aab meiṅ Sakina mar gayi
   Saaneha na bhuleṅ ge
 
   5
-  Karbala mein baad-e-qatl-e-Shaah-e-Karbala
+  Karbala meiṅ baad-e-qatl-e-Shaah-e-Karbala
   Bar sar-e-sinaaṅ Husain ne jo tha kaha
   La ilaah na bhuleṅ ge
 
   6
-  Khun roye jis ke gham mein umr bhar Imaam
+  Khun roye jis ke gham meiṅ umr bhar Imaam
   Le gayi thi lut ke rida jo fauj-e-Shaam
   Wo rida na bhuleṅ ge
 

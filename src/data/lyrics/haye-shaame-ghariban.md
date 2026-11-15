@@ -35,9 +35,9 @@ romanLyrics: |-
   Guzri nahiṅ wo shaam
 
   4
-  Ye saare azal saare abad jis mein samaaye
+  Ye saare azal saare abad jis meiṅ samaaye
   Ab kya kahuṅ haye
-  Jis mein simat aaya hai har aghaaz har anjaam
+  Jis meiṅ simat aaya hai har aghaaz har anjaam
   Guzri nahiṅ wo shaam
 
   5
@@ -47,9 +47,9 @@ romanLyrics: |-
   Guzri nahiṅ wo shaam
 
   6
-  Jis raakh mein dil mera Naved aah daba hai
+  Jis raakh meiṅ dil mera Naved aah daba hai
   Aur raakh hua hai
-  Us raakh mein reh reh ke bharakti hai wohi shaam
+  Us raakh meiṅ reh reh ke bharakti hai wohi shaam
   Guzri nahiṅ wo shaam
 # source_id: nohayonline:bfacc4edacca2f1067f1
 # source_url: https://www.nohayonline.com/details_content.php?id=1682

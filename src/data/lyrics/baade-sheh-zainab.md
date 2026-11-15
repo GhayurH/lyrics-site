@@ -27,11 +27,11 @@ romanLyrics: |-
   Haaye Shabbir ki dukhtar ko kahaaṅ nind aati
 
   4
-  Saaye mein aate hi kiuṅ dam na nikalta us ka
+  Saaye meiṅ aate hi kiuṅ dam na nikalta us ka
   Kokh ujri hui maadar ko kahaaṅ nind aati
 
   5
-  Sitam-e-shaam-e-gharibaaṅ se pare the ghash mein
+  Sitam-e-shaam-e-gharibaaṅ se pare the ghash meiṅ
   Raakh par ujre hue ghar ko kahaaṅ nind aati
 
   6

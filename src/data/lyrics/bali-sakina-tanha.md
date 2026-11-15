@@ -13,17 +13,17 @@ published: true
 romanLyrics: |-
   Jab qaid se asir riha ho gaye tamaam
   Qabr-e-Sakina par gaye rote hue Imaam
-  Maatam kunaaṅ saath mein ahl-e-haram tamaam
+  Maatam kunaaṅ saath meiṅ ahl-e-haram tamaam
   Aahista aa rahi thi Rabaab-e-khadista kaam
   Chhoti si qabr saamne nazroṅ ke phir gayi
   Ik aah sard kheṅch ke marqad pe gir gayi
 
   1
   Zindaan se rihaai saadaat ko mili hai
-  Bali Sakina tanha zindaaṅ mein reh gayi hai
+  Bali Sakina tanha zindaaṅ meiṅ reh gayi hai
 
   Baano ke bain sun kar har Bibi ro rahi hai
-  Bali Sakina tanha zindaaṅ mein reh gayi hai
+  Bali Sakina tanha zindaaṅ meiṅ reh gayi hai
 
   2
   Kehti thi Shaamiyoṅ se Baano gharib ro ke
@@ -32,12 +32,12 @@ romanLyrics: |-
 
   3
   Baba chacha ko tarsi aah o buka ko tarsi
-  Zindaan mein ye yatima taaza hawa ko tarsi
+  Zindaan meiṅ ye yatima taaza hawa ko tarsi
   Baba ko rote rote bas thak ke so gayi hai
 
   4
   Kehti thi roz ro kar ab to phuphi chalo ghar
-  Zindaaṅ mein mar na jaaye Shabbir ki ye dukhtar
+  Zindaaṅ meiṅ mar na jaaye Shabbir ki ye dukhtar
   Ye yaad kar ke Zainab sar apna pit ti hai
 
   5
@@ -51,7 +51,7 @@ romanLyrics: |-
   Kis jurm ki saza hai bachchi ko jo mili hai
 
   7
-  Is qaid se nikaalo aaghosh mein chhupa lo
+  Is qaid se nikaalo aaghosh meiṅ chhupa lo
   Kehti thi zaalimoṅ se Baba mujhe bacha lo
   Ye bain karte karte khaamosh ho gayi hai
 

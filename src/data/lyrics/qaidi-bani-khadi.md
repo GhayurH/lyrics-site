@@ -22,7 +22,7 @@ romanLyrics: |-
   Are maariya Nainawa tu bata
   Bhulegi kaise Zainab haaye
   Baad az Nabi jo ki hai ummat ne mehrbaani
-  Qaidi bani khari hai Karbal mein Zehra saani
+  Qaidi bani khari hai Karbal meiṅ Zehra saani
 
   1
   Athaara baraadar ki behan aaj khule sar hai
@@ -34,7 +34,7 @@ romanLyrics: |-
 
   2
   Jo Bibi nahiṅ nikli beparda kabhi ghar se
-  Pardes mein wo Bibi chaadar ke liye tarse
+  Pardes meiṅ wo Bibi chaadar ke liye tarse
   Bara hai ye gham bare haiṅ sitam
   Ke hai khaak par Nabi ke haram
   Sitam beghari bekasi tashnagi
@@ -77,8 +77,8 @@ romanLyrics: |-
   Wo tir Hurmala ka Asghar ki bezabaani
 
   7
-  Tukroṅ mein bata laasha ek raat ke dulha ka
-  Simta hua gathri mein Qasim ka janaaza tha
+  Tukroṅ meiṅ bata laasha ek raat ke dulha ka
+  Simta hua gathri meiṅ Qasim ka janaaza tha
   Wo gul pairahan dil-e-Panjatan
   Na madfan bana na ghusl o kafan
   Thi mahv-e-buka ek shab ki dulhan
@@ -95,7 +95,7 @@ romanLyrics: |-
   Taiyaariyaaṅ safar ki Abid ki saarbaani
 
   9
-  Akhtar ki zamiṅ Mazhar nauhe mein dhali aise
+  Akhtar ki zamiṅ Mazhar nauhe meiṅ dhali aise
   Jab Shaam gayi Zainab Irfan-e-aza ban ke
   Tha kaisa saja dayaar-e-jafa
   Kahiṅ aaine kahiṅ ashqiyaa

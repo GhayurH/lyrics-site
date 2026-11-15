@@ -26,11 +26,11 @@ romanLyrics: |-
   God khaali hai nazar aata hai jhula thehra
 
   4
-  Jab Sakina ko raah-e-Shaam mein girte dekha
+  Jab Sakina ko raah-e-Shaam meiṅ girte dekha
   Tha ravaaṅ jis pe sar-e-Shaah wo neza thehra
 
   5
-  Tarpa khaime mein jo aawaaz kamaaṅ ki sun kar
+  Tarpa khaime meiṅ jo aawaaz kamaaṅ ki sun kar
   Zinda taa umr wo maadar ka kaleja thehra
 # source_id: nohayonline:683efee844db07dbeede
 # source_url: https://www.nohayonline.com/details_content.php?id=565

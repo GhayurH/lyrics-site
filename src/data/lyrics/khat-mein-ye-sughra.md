@@ -1,6 +1,6 @@
 ---
 title: "خط میں یہ صغرا نے لکھا کیا ہوا"
-alternateTitle: "Khat Mein Ye Sughra"
+alternateTitle: "Khat Meiṅ Ye Sughra"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ aliases: []
 published: true
 reciter: Anj. Grohe Hussain
 romanLyrics: |-
-  Khat mein ye Sughra ne likha kya hua
+  Khat meiṅ ye Sughra ne likha kya hua
   Kiuṅ nahiṅ aate ho bhaiya kya hua
 
   1
@@ -20,7 +20,7 @@ romanLyrics: |-
 
   2
   Kaun puchhe Aabid-e-bimaar se
-  Do pehar mein saara kunba kya hua
+  Do pehar meiṅ saara kunba kya hua
 
   3
   Umm-e-Laila laasha-e-Akbar ke paas
@@ -43,7 +43,7 @@ romanLyrics: |-
   Kya likhuṅ beti yahaaṅ kya kya hua
 
   8
-  Berida Aal-e-Payambar hai Suroor
+  Berida Aal-e-Payambar hai Surur
   Tujh ko ae ehsaas-e-dunya kya hua
 # source_id: nohayonline:3fe76e31859a5e48724a
 # source_url: https://www.nohayonline.com/details_content.php?id=3715

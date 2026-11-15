@@ -25,7 +25,7 @@ romanLyrics: |-
   Khaime meiṅ chale aaye sitamgaar tere baad
 
   3
-  Dhunduṅ main kahaaṅ jaa ke muhaafiz ko rida ke
+  Dhunduṅ maiṅ kahaaṅ jaa ke muhaafiz ko rida ke
   Tu so gaya maidaaṅ meiṅ shaanoṅ ko kata ke
   Chalti hai mere qalb pe talwaar tere baad
 

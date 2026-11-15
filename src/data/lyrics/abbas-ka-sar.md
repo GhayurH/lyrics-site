@@ -24,7 +24,7 @@ romanLyrics: |-
   Manzar wo dekh na pauṅgi
   Ye zulm hua to mere pisar
   Ro ro ke yahiṅ mar jauṅgi
-  Naqe ke gale mein daal diya
+  Naqe ke gale meiṅ daal diya
   Zalim ne agar Abbas ka sar
 
   2
@@ -54,9 +54,9 @@ romanLyrics: |-
   5
   Sajjad batana chaahuṅ agar
   Tujh se bhi nahiṅ keh pauṅgi
-  Kuchh zakhm-e-jigar to aise hain
+  Kuchh zakhm-e-jigar to aise haiṅ
   Jo qabr talak le jauṅgi
-  Shabbir ka sar bazu mein rasan
+  Shabbir ka sar bazu meiṅ rasan
   Akbar ka jigar Abbas ka sar
 
   6

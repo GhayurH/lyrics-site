@@ -21,17 +21,17 @@ romanLyrics: |-
   1
   Jab Madine se chala tha qaafla Saadaat ka
   Misl-e-Haidar paasbaaṅ Abbas tha Saadaat ka
-  Kaisi ghurbat ek din mein Bibiyoṅ par chhaa gayi
+  Kaisi ghurbat ek din meiṅ Bibiyoṅ par chhaa gayi
   Ek Aabid natawaaṅ hai aasra Saadaat ka
 
   2
   Kal talak Abbas ki thi har qadam par ye sada
-  Ae parindoṅ munh chhupa lo hai safar mein Sayyeda
+  Ae parindoṅ munh chhupa lo hai safar meiṅ Sayyeda
   Aaj ye saalaar hai aur Shaamiyoṅ ki bhir hai
   Maangta hai har qadam par haaye Zainab ki rida
 
   3
-  Qaafla ek wo tha mahmil mein thi sab Sayyidaaniyaaṅ
+  Qaafla ek wo tha mahmil meiṅ thi sab Sayyidaaniyaaṅ
   Qaafla ek ye hai paidal chal rahi haiṅ Bibiyaaṅ
   Qaafla saalaar ki ghurbat ka aalam dekh kar
   Bain karti jaa rahi hai har qadam par beriyaaṅ
@@ -39,8 +39,8 @@ romanLyrics: |-
   4
   Har ghari saabir rahe donoṅ Mir-e-kaarwaaṅ
   Karbala tha ek ka maidaaṅ Shaam ka ek imtihaaṅ
-  Aaj hai rahwaar ki gardan mein sar Abbas ka
-  Aabid-e-bimaar ki gardan mein hai tauq-e-giraaṅ
+  Aaj hai rahwaar ki gardan meiṅ sar Abbas ka
+  Aabid-e-bimaar ki gardan meiṅ hai tauq-e-giraaṅ
 
   5
   Shor karte haiṅ sitamgar taaziyaane maar ke
@@ -49,9 +49,9 @@ romanLyrics: |-
   Inna lillah hai laboṅ par Aabid-e-bimaar ke
 
   6
-  Hai kamar kham aur haathoṅ mein asa thaame hue
+  Hai kamar kham aur haathoṅ meiṅ asa thaame hue
   Kis tarah pehchaaneṅ aakhir Fatima Sughra ise
-  Aa gaya Yaawar Madine mein mera Maula magar
+  Aa gaya Yaawar Madine meiṅ mera Maula magar
   Laut kar aayi na Aabid ki jawaani Shaam se
 # source_id: nohayonline:abc986d8b77fd0ea89cb
 # source_url: https://www.nohayonline.com/details_content.php?id=990

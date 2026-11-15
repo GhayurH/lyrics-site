@@ -18,11 +18,11 @@ romanLyrics: |-
   Zulm-e-Karb o Balaa ka maatam hai
 
   2
-  Khinchi galiyoṅ mein laash kaat ke sar
+  Khinchi galiyoṅ meiṅ laash kaat ke sar
   Muslim-e-bekhataa ka maatam hai
 
   3
-  Halq-e-Asghar mein tir se pehlu
+  Halq-e-Asghar meiṅ tir se pehlu
   Baanu ke mah laqaa ka maatam hai
 # source_id: nohayonline:62350bfa8f311039e56c
 # source_url: https://www.nohayonline.com/details_content.php?id=259

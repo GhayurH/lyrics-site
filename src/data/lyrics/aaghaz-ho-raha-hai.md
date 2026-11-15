@@ -15,8 +15,8 @@ romanLyrics: |-
   Logoṅ ye janaza hai Islam ke baani ka
 
   1
-  Bibi ne kaha baba Karbal mein chale aana
-  Manzar main dikhaauṅ gi Akbar ki jawani ka
+  Bibi ne kaha baba Karbal meiṅ chale aana
+  Manzar maiṅ dikhaauṅ gi Akbar ki jawani ka
   Logoṅ ye janaza hai Islam ke baani ka
 
   2
@@ -25,7 +25,7 @@ romanLyrics: |-
   Logoṅ ye janaza hai Islam ke baani ka
 
   3
-  Bikhrega Karbala mein Qasim ke sar ka sehra
+  Bikhrega Karbala meiṅ Qasim ke sar ka sehra
   Khushiyaṅ samet le ga aalam wo viraani ka
   Logoṅ ye janaza hai Islam ke baani ka
 

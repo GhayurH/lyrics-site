@@ -19,36 +19,36 @@ romanLyrics: |-
   Tha Sayyid-e-mazlum ka Waiz yehi nauha
   Ae mere laal ae mere laal
 
-  Maqtal mein Shaah-e-waala kehte the ye ro kar ae mere laal
+  Maqtal meiṅ Shaah-e-waala kehte the ye ro kar ae mere laal
   Tujh bin tera burha baap jiyega kiuṅ kar ae mere laal
 
   1
-  Main huṅ tanha meri tanhaai pe taras khaao Akbar
-  Ghurbat mein is tarah mujhko chhor ke na jaao Akbar
+  Maiṅ huṅ tanha meri tanhaai pe taras khaao Akbar
+  Ghurbat meiṅ is tarah mujhko chhor ke na jaao Akbar
   Chaaroṅ taraf se ghere haiṅ mujhko zulm ka lashkar ae mere laal
 
   2
-  Hai tujhko maalum main tujhse kitni mohabbat karta huṅ
-  Yaad aate hai jab naana main teri ziyaarat karta huṅ
+  Hai tujhko maalum maiṅ tujhse kitni mohabbat karta huṅ
+  Yaad aate hai jab naana maiṅ teri ziyaarat karta huṅ
   Baaba jaan se na rutho hamshakl-e-Payambar ae mere laal
 
   3
   Beta apne baaba ki aankhoṅ ka taara hota hai
-  Beta rahe nazdik to aankhoṅ mein ujiyaara hota hai
+  Beta rahe nazdik to aankhoṅ meiṅ ujiyaara hota hai
   Mujhko nazar ab kuchh nahiṅ aata tujhse bichhar kar ae mere laal
 
   4
-  Main kaise samjhaauṅ tujhko apni ulfat ka mafhum
+  Maiṅ kaise samjhaauṅ tujhko apni ulfat ka mafhum
   Tere bhi aulaad agar hoti to tujhe hota maalum
   Tujhko rukhsat kar ke kya guzri hai mujhpar ae mere laal
 
   5
   Mujhko tanha jaan ke zaalim aur sataayeṅge beta
-  Bahr-e-madad ab ghurbat mein hum kisko bulaayeṅge beta
+  Bahr-e-madad ab ghurbat meiṅ hum kisko bulaayeṅge beta
   Ab nahiṅ zinda tere chacha Abbas-e-dilaawar ae mere laal
 
   6
-  Ae Akbar main ab kis tarah se khaime mein jaauṅga
+  Ae Akbar maiṅ ab kis tarah se khaime meiṅ jaauṅga
   Teri phuphi ammaaṅ ko jaakar kaise muṅh dikhlaauṅga
   Baali Sakina ko samjhaauṅga kya keh kar ae mere laal
 

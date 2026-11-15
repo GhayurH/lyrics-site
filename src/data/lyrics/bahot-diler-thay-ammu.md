@@ -13,14 +13,14 @@ published: true
 romanLyrics: |-
   Khayaal aata hai wo waqt kya raha hoga
   Asir qaafila darbaar jab gaya hoga
-  Yazid takht pe beti ko god mein le kar
+  Yazid takht pe beti ko god meiṅ le kar
   Suye Sakina takabbur se dekhta hoga
   Sawaal beti ne maloon ki kiya hoga
   Ye jis ka naam Sakina hai kaun hai baaba
   Lahu hai kaanoṅ se jaari phata hua kurta
   Kaha Yazid ne beti se puchh le khud hi
   Sakina boli khabardaar tu agar boli
-  Main Sakina huṅ Muhammad ki main nawaasi huṅ
+  Maiṅ Sakina huṅ Muhammad ki maiṅ nawaasi huṅ
   Mujhe ye yaad nahiṅ kitne din ki pyaasi huṅ
   Mat kar koi sawaal na puchh mera haal
 
@@ -51,28 +51,28 @@ romanLyrics: |-
   4
   Tu mere kaanoṅ se behte lahu ko puchhti hai
   Na kaise puchhegi beti to tu Yazid ki hai
-  Ye khun ye kurta ye mere gale mein rasan
+  Ye khuṅ ye kurta ye mere gale meiṅ rasan
   Chacha ke baad sitam is ne mujh pe dhaaya hai
   Shahid ho ke bhi baaqi bharam chacha ka hai
 
   5
-  Tu meri shaan Madine mein dekh leti agar
+  Tu meri shaan Madine meiṅ dekh leti agar
   Mila na sakti thi meri kaniz se tu nazar
   Ye tera baap jo baitha hai takht-e-shaahi par
-  Ye is ne bhik mein Saadaat hi se paaya hai
+  Ye is ne bhik meiṅ Saadaat hi se paaya hai
   Yazid naam pe Ghaazi ke chauṅk jaata hai
 
   6
   Chacha ke hote kisi ki bhi ye majaal na thi
-  Meri phuphi ke gale mein jo baandhta rassi
+  Meri phuphi ke gale meiṅ jo baandhta rassi
   Meri taraf koi kya dekhta nazar bhar kar
-  Chacha ke baad tamacha bhi maine khaaya hai
+  Chacha ke baad tamacha bhi maiṅ ne khaaya hai
   Yahaaṅ bhi hai unheṅ baaba ne rok rakha hai
 
   7
-  Ghulaam zaadi hai tu main to shaahzaadi huṅ
+  Ghulaam zaadi hai tu maiṅ to shaahzaadi huṅ
   Jhulaaye hureṅ mera jhula us ki aadi huṅ
-  Janaab-e-Zehra ki chaadar ke saaye mein huṅ pali
+  Janaab-e-Zehra ki chaadar ke saaye meiṅ huṅ pali
   Yazid baandh ke naaqe pe mujh ko laaya hai
   Ab un ke sar se bhi nazreṅ churaaye phirta hai
 
@@ -81,7 +81,7 @@ romanLyrics: |-
   Wo Alqama ko meri samt mor sakte the
   Unheṅ to izn-e-wagha hi na diya baaba ne
   Shahid ho ke bhi Ghaazi laqab unhi ka hai
-  Bhala ye martaba kis ne jahaaṅ mein paaya hai
+  Bhala ye martaba kis ne jahaaṅ meiṅ paaya hai
 
   9
   Yazid un ke kate sar se khauf khaata hai
@@ -92,7 +92,7 @@ romanLyrics: |-
 
   10
   Jami hai pyaas laboṅ par ye imtehaani hai
-  Mehr mein daadi ke donoṅ jahaaṅ ka paani hai
+  Mehr meiṅ daadi ke donoṅ jahaaṅ ka paani hai
   Hamaare daada ko kehte haiṅ saaqi-e-Kausar
   Laqab bahishti ka mere chacha ne paaya hai
   Agar wo chaahe to paani baras bhi sakta hai
@@ -100,8 +100,8 @@ romanLyrics: |-
   11
   Ye sun ke ashk jo bint-e-Yazid ke tapke
   Utar ke baap ki godi se maazerat kar ke
-  Kaha Sakina se main bhi kaniz aap ki huṅ
-  Jo hukm ho to kahuṅ main bhi dil ye kehta hai
+  Kaha Sakina se maiṅ bhi kaniz aap ki huṅ
+  Jo hukm ho to kahuṅ maiṅ bhi dil ye kehta hai
   Kaha Sakina dil tera mere dil sa hai
 
   12
@@ -112,10 +112,10 @@ romanLyrics: |-
   Lehad pe baali Sakina ke ab bhi likha
 
   13
-  Nanhi si lehad Shaam mein maujud hai logoṅ
+  Nanhi si lehad Shaam meiṅ maujud hai logoṅ
   Maasum ki lalkaar ne zindaaṅ nahiṅ chhora
   Lagta hai ke sadiyoṅ se Sakina ki fughaaṅ ne
-  Abbas ke qaatil ka girebaan nahiṅ chhora
+  Abbas ke qaatil ka girebaaṅ nahiṅ chhora
 # source_id: nohayonline:d4d74d4393b3ca529c2c
 # source_url: https://www.nohayonline.com/details_content.php?id=2657
 # raw_sha256: 253c32ad1174f7f66f84b0e4c1ef68b3c6144eec84189c6e9fa59f38c936f9e0

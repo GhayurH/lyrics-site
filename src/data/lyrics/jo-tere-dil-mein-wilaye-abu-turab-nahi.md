@@ -1,6 +1,6 @@
 ---
 title: "جو تیرے دل میں ولائے ابو تراب نہیں"
-alternateTitle: "Jo Tere Dil Mein Wilaaye Abu Turaab Nahiṅ"
+alternateTitle: "Jo Tere Dil Meiṅ Wilaaye Abu Turaab Nahiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -48,7 +48,7 @@ romanLyrics: |-
 
   9
   Tabarra gin ke kabhi bhi nahiṅ kiya aise
-  Main is amal ka to rakhta kabhi hisaab nahiṅ
+  Maiṅ is amal ka to rakhta kabhi hisaab nahiṅ
 # source_id: tajpoints:30e87115844e6a60efe3
 # source_url: https://tajpoints.com/2024/01/jo-tere-dil-mein-wilaye-abu-turab-nahi.html
 # raw_sha256: 614844a19499f0a71ae4b9476d3e97df77f019d4d44db0a85c2f9e326732f0ed

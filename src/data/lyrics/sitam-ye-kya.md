@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Sitam ye kya sar-e-Baghdad dhaaya jaata hai
-  Janaaza beriyoṅ mein bhi uthaaya jaata hai
+  Janaaza beriyoṅ meiṅ bhi uthaaya jaata hai
 
   1
   Asir-e-Shaam ka pota hai qaidi-e-Baghdad
@@ -23,7 +23,7 @@ romanLyrics: |-
   Janaaza kya kabhi pul pe parhaaya jaata hai
 
   3
-  Hai naize seene ki jaanib to kuch hai pusht ki simt
+  Hai naize sine ki jaanib to kuch hai pusht ki simt
   Ruku chauda baras se nibhaaya jaata hai
 
   4

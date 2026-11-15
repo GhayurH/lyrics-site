@@ -1,6 +1,6 @@
 ---
 title: "مقتل میں کھو گئی ہے اکبر کی جوانی"
-alternateTitle: "Maqtal Mein Kho Gayi"
+alternateTitle: "Maqtal Meiṅ Kho Gayi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,11 +11,11 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maqtal mein kho gayi hai Akbar ki jawaani
+  Maqtal meiṅ kho gayi hai Akbar ki jawaani
   Soyi hai sinaaṅ khaa ke Paighambar ki nishaani
 
   1
-  Sughra ko Madina mein ajab khwaab ye aayaa
+  Sughra ko Madina meiṅ ajab khwaab ye aayaa
   Lutte hue dekhi hai biraadar ki jawaani
 
   2
@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   Athaara baras kaa thaa din byaah ke aaye
-  Tar khuṅ mein magar ho gayi Akbar ki jawaani
+  Tar khuṅ meiṅ magar ho gayi Akbar ki jawaani
 
   4
   Rehaan Shaah-e-waalaa kaa daaman huaa khaali

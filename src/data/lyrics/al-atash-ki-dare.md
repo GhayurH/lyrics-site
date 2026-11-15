@@ -15,8 +15,8 @@ romanLyrics: |-
   1
   Mehr-e-purtab o tapish apne safar par jo chala
   Roshni ho gayi darya ka kinara chamka
-  Rafta rafta ye samaṅ dhup ki shiddat mein dhala
-  Ret mein aag lagi dasht hararat se jala
+  Rafta rafta ye samaṅ dhup ki shiddat meiṅ dhala
+  Ret meiṅ aag lagi dasht hararat se jala
   Garm ho ke jo sehra se hawa aane lagi
 
   2
@@ -25,12 +25,12 @@ romanLyrics: |-
   Khushk hontoṅ pe zabaṅ pher rahe the paiham
   Kaha Shahzadi Sakina ne ye ba-dida-e-nam
   Tin din ho gaye haiṅ kar na sake lab qalbi
-  Main bhi pyasi huṅ Chacha jaan Ali Asghar bhi
+  Maiṅ bhi pyasi huṅ Chacha jaan Ali Asghar bhi
 
   3
   Aae Abbas jhukae hue sar Sheh ke qarib
   Paaoṅ par sher ne rakh di Shah-e-Wala ki jabiṅ
-  Jaag utha qalb-e-wafadar mein phir soz-e-yaqiṅ
+  Jaag utha qalb-e-wafadar meiṅ phir soz-e-yaqiṅ
   Arz ki ran ki raza do mujhe Ae Qibla-e-Diṅ
   Sheh ko Abbas ka israr-e-raza tha darpesh
   Ishq ko marhala-e-hijr-e-wafa tha darpesh
@@ -56,7 +56,7 @@ romanLyrics: |-
   Lo tumheṅ saya-e-daaman-e-Ali ko sauṅpa
   Jo sabhi ka hai Khuda us ke Wali ko sauṅpa
   Yani tum jis ki amanat ho usi ko sauṅpa
-  Hum to har haal mein haiṅ Sabir o Shakir Abbas
+  Hum to har haal meiṅ haiṅ Sabir o Shakir Abbas
   Lo alam aur Khuda Hafiz o Nasir Abbas
 # source_id: nohayonline:b4ea0f2cc7f2493ed28d
 # source_url: https://www.nohayonline.com/details_content.php?id=52

@@ -23,23 +23,23 @@ romanLyrics: |-
   2
   Jal gaye haiṅ saare khaime kya kare Sayyidaaniyaaṅ
   Chaadareṅ bhi chhin gayi hai kya kare Sayyidaaniyaaṅ
-  Zulmatoṅ ke bhir mein hai Mustafa ki betiyaaṅ
+  Zulmatoṅ ke bhir meiṅ hai Mustafa ki betiyaaṅ
   Chup hai Abbas-e-jari aur Alqama khaamosh hai
 
   3
   Maadar-e-beshir ko Zainab sambhaale kya kare
-  God mein saare yatimoṅ ko uthaa le kya kare
+  God meiṅ saare yatimoṅ ko uthaa le kya kare
   Aabid-e-muztar ko sholoṅ se nikaale kya kare
   Ek Zainab hai akeli qaafila khaamosh hai
 
   4
   Ek taraf khaime jale aur ek taraf masnad jali
   Har taraf dil ki sadaa hai ya Muhammad ya Ali
-  Aise mein Zainab bani hai khud Husain ibn-e-Ali
+  Aise meiṅ Zainab bani hai khud Husain ibn-e-Ali
   Bazm-e-Zainab dekh ke har maujiza khaamosh hai
 
   5
-  Mushkileṅ is raat mein jab mahw-e-ghairat ho gayi
+  Mushkileṅ is raat meiṅ jab mahw-e-ghairat ho gayi
   Ek phuphi aur ek bhatiji koh-e-ghairat ho gayi
   Har musibat jhel kar fakhr-e-mashiyyat ho gayi
   Sabr o gham ka is jagah har falsafa khaamosh hai
@@ -51,9 +51,9 @@ romanLyrics: |-
   Mere baaba aap ka har dilruba khaamosh hai
 
   7
-  Shadman o Mir Tusi gham ke in haalat mein
-  Aaṅsuoṅ ki dard ki ehsaas ki barsaat mein
-  Tum ko parhna mujh ko likha mil gaya khairaat mein
+  Shadman o Mir Tusi gham ke in haalat meiṅ
+  Aaṅsuoṅ ki dard ki ehsaas ki barsaat meiṅ
+  Tum ko parhna mujh ko likha mil gaya khairaat meiṅ
   Tum ko sun kar dehr ka har khushnawa khaamosh hai
 # source_id: nohayonline:ad5bcbbb06ce262dd54b
 # source_url: https://www.nohayonline.com/details_content.php?id=3209

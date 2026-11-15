@@ -15,14 +15,14 @@ romanLyrics: |-
   Ali shahid hue Ali shahid hue Ali shahid hue
 
   1
-  Wo zakhm tha ke musalla lahu mein dub gaya
-  Imaam-e-waqt ka chehra lahu mein dub gaya
-  Malak pukaar ke Kaaba lahu mein dub gaya
+  Wo zakhm tha ke musalla lahu meiṅ dub gaya
+  Imaam-e-waqt ka chehra lahu meiṅ dub gaya
+  Malak pukaar ke Kaaba lahu meiṅ dub gaya
 
   2
-  Sar-e-Ali pe lagi zahr mein bujhi talwaar
+  Sar-e-Ali pe lagi zahr meiṅ bujhi talwaar
   Zamin chikh uthi aasmaaṅ hua bezaar
-  Khuda ke ghar mein luti Faatima ke ghar ki bahaar
+  Khuda ke ghar meiṅ luti Faatima ke ghar ki bahaar
 
   3
   Ajib haal hai dil ka padar ki furqat se
@@ -37,7 +37,7 @@ romanLyrics: |-
   5
   Ba waqt-e-sajda kiya waar Ibn-e-Muljim ne
   Utha na paaye Imaam apna sar sajde bhi se
-  Faza mein gunj uthe Jibraail ke naale
+  Faza meiṅ gunj uthe Jibraail ke naale
 
   6
   Sukuṅ ke saath koi lamha bhi guzar na saka

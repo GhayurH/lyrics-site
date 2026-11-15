@@ -10,9 +10,9 @@ tags: []
 aliases: ["al-madad-mustafa-naat-mohsin-naqvi"]
 published: true
 romanLyrics: |-
-  Jal rahe haiṅ badan dard ki dhup mein
-  Zindagi dhal gayi zakhm ke rup mein
-  Dil mein kohram hai tirgi aam hai
+  Jal rahe haiṅ badan dard ki dhup meiṅ
+  Zindagi dhal gayi zakhm ke rup meiṅ
+  Dil meiṅ kohram hai tirgi aam hai
   Ik nigah-e-karam Ae Habib-e-Khuda
 
   1
@@ -28,8 +28,8 @@ romanLyrics: |-
   Az ufaq ta ufaq ranj o gham ki ghata
 
   3
-  Log yuṅ mahw haiṅ fikr-e-dastar mein
-  Jaise khami na koi kirdar mein
+  Log yuṅ mahw haiṅ fikr-e-dastar meiṅ
+  Jaise khami na koi kirdar meiṅ
   Aasmaṅ zard hai gard hi gard hai
   Aadmiyat hai masruf-e-aah o buka
 
@@ -52,7 +52,7 @@ romanLyrics: |-
   Khun se gulbadan khitta-e-Nainawa
 
   7
-  Khwab-e-manzil mein Kiuṅ qafile so gaye
+  Khwab-e-manzil meiṅ Kiuṅ qafile so gaye
   Tere Miqdad o Maisam kahaṅ kho gaye
   Kya hue wo jari faqr ke jauhari
   Muzmahil haiṅ ruteṅ matami hai fiza
@@ -60,7 +60,7 @@ romanLyrics: |-
   8
   Phir gudaz-e-Abuzar ata kar hameṅ
   Misal-e-Salman shola-nawa kar hameṅ
-  Dard ki raat mein gham ki barsat mein
+  Dard ki raat meiṅ gham ki barsat meiṅ
   Hum faqiroṅ ko bhi muskurana sikha
 
   9

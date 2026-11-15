@@ -31,7 +31,7 @@ romanLyrics: |-
   Neze pe sar Husain ka Abid udaas hai
 
   5
-  Ye haalat-e-ruku mein kaise safar kare
+  Ye haalat-e-ruku meiṅ kaise safar kare
   Rakhegi kaise hausla Abid udaas hai
 
   6
@@ -40,10 +40,10 @@ romanLyrics: |-
 
   7
   Rassi se ghut na jae Sakina ka dam kahiṅ
-  Is fikr mein har ek jaa Abid udaas hai
+  Is fikr meiṅ har ek jaa Abid udaas hai
 
   8
-  Darbaar mein Najaf ye munadi ne di sada
+  Darbaar meiṅ Najaf ye munadi ne di sada
   Aai hai Bint-e-Fatima Abid udaas hai
 # source_id: nohayonline:07ef268e23f0b310cc22
 # source_url: https://www.nohayonline.com/details_content.php?id=854

@@ -32,8 +32,8 @@ romanLyrics: |-
   Na chhup sake ga tan-e-paash paash pyaaroṅ se
 
   5
-  Zamin mein tuta hua phul hai jawaani ka
-  Lahu mein duba hua phul hai jawaani ka
+  Zamin meiṅ tuta hua phul hai jawaani ka
+  Lahu meiṅ duba hua phul hai jawaani ka
 
   6
   Koi nikaal le barchhi ke phal ko sine se

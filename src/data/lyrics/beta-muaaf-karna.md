@@ -23,23 +23,23 @@ romanLyrics: |-
 
   2
   Tum saamne ho aur tumhari talaash hai
-  Kaise uthaauṅ tum ko main tukroṅ mein laash hai
+  Kaise uthaauṅ tum ko maiṅ tukroṅ meiṅ laash hai
   Jaise hua tha tukre mere bhai ka jigar
 
   3
   Gehna gaya hai khaak pe Farwa ka maahtaab
-  Gulshan mein hai Batul ke bikhra hua gulaab
+  Gulshan meiṅ hai Batul ke bikhra hua gulaab
   Bhai ki yaad aati hai huṅ dekhta jigar
 
   4
-  Main ne bahut sulaaya hai aaghosh mein tujhe
-  Laashe ko le ke jaauṅ ga ghathri mein baandh ke
+  Maiṅ ne bahut sulaaya hai aaghosh meiṅ tujhe
+  Laashe ko le ke jaauṅ ga ghathri meiṅ baandh ke
   Maaṅ mar na jaae laash ke tukroṅ ko dekh kar
 
   5
   Kehti hai ye arus-e-ajal tum ko kya hua
   Sar par hai tere zakhmoṅ ka sehra saja hua
-  Kuchla hua badan hai jabiṅ hai lahu mein tar
+  Kuchla hua badan hai jabiṅ hai lahu meiṅ tar
 
   6
   Girte hue kisi ne pukaara jo dur se
@@ -49,7 +49,7 @@ romanLyrics: |-
   7
   Haalat tumhaari dekh ke sina hua hai shaq
   Ta hashr ho ga ab dil-e-Shabbir ko khalaq
-  Afsos ye rahe ga na pahuṅcha main waqt par
+  Afsos ye rahe ga na pahuṅcha maiṅ waqt par
 # source_id: nohayonline:bb05e17575d80d9fe126
 # source_url: https://www.nohayonline.com/details_content.php?id=2327
 # raw_sha256: 2bad4250fb805c94782f86de1dc307428372e0a73b5b563900c280026db5effa

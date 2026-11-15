@@ -18,7 +18,7 @@ romanLyrics: |-
   Kaise tere laashe pe sakina tujhe roye
 
   2
-  jis waqt uthaya na gaya laasha jawaṅ ka
+  jis waqt uthaya na gaya laasha jawaaṅ ka
   sheh us ghari akbar se zyada tujhe roye
 
   3

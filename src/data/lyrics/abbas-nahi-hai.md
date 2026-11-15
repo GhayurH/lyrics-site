@@ -21,19 +21,19 @@ romanLyrics: |-
   Ek bhai hua bhai se juda
 
   2
-  Kya hashr bapa hai maqtal mein
-  Kubra hai bani bewa pal mein
+  Kya hashr bapa hai maqtal meiṅ
+  Kubra hai bani bewa pal meiṅ
   Farwa ka pisar pamal hua
 
   3
   Laila ki tamanna khaak hui
   Har aarzu dil ki chaak hui
-  Akbar ka jigar maqtal mein chhida
+  Akbar ka jigar maqtal meiṅ chhida
 
   4
   Jhule se gira nusrat ko chala
-  Wo teer-e-sitam pyase ka gala
-  Mitti mein mila nazoṅ ka pala
+  Wo tir-e-sitam pyase ka gala
+  Mitti meiṅ mila nazoṅ ka pala
 
   5
   Bhai ke gale par tegh chali
@@ -51,17 +51,17 @@ romanLyrics: |-
   Karti hai Sakina aah o buka
 
   8
-  Jab Shimr-e-laeen ne tarpaya
+  Jab Shimr-e-laiṅ ne tarpaya
   Tab bali Sakina ne ye kaha
   Ab aa ke bacha lo ae Baba
 
   9
   Pyasoṅ pe rahi wo jaur o jafa
-  Darya pe laeen ka pehra tha
+  Darya pe laiṅ ka pehra tha
   Har zulm nirala Sheh pe hua
 
   10
-  Wo ban mein luti Aulad-e-Ali
+  Wo ban meiṅ luti Aulad-e-Ali
   Bin tere hui hai Aal-e-Nabi
   Ab aaye yahaṅ par tum Baba
 

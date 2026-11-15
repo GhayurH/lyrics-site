@@ -20,7 +20,7 @@ romanLyrics: |-
   Maaṅ se kuchh baat karo uth ke zara waavaila
 
   2
-  Haaye jalte hue sahra mein tarap bachchoṅ ki
+  Haaye jalte hue sahra meiṅ tarap bachchoṅ ki
   Ho gaye nehr pe Abbas ke baazu zakhmi
   Koi bachchoṅ ka muhaafiz na raha waavaila
 
@@ -30,9 +30,9 @@ romanLyrics: |-
   Haaye Qasim pe hui kaisi jafa waavaila
 
   4
-  Kat gaye pyaas mein phir Aun o Muhammad ke gale
+  Kat gaye pyaas meiṅ phir Aun o Muhammad ke gale
   Fidya-e-raah-e-Khuda ho gaye godi ke pale
-  Ho gaya khaimoṅ mein kohraam bapa waavaila
+  Ho gaya khaimoṅ meiṅ kohraam bapa waavaila
 
   5
   Fatima ne bare naazoṅ se jise paala tha
@@ -45,8 +45,8 @@ romanLyrics: |-
   Aasmaaṅ girya kunaaṅ gham se hua waavaila
 
   7
-  Jal gaye khaime to saiyyidaaniyaaṅ aayi ban mein
-  Laashe jitne bhi the begor o kafan the ran mein
+  Jal gaye khaime to saiyyidaaniyaaṅ aayi ban meiṅ
+  Laashe jitne bhi the begor o kafan the ran meiṅ
   Chhin gayi Bibiyoṅ ke sar se rida waavaila
 
   8

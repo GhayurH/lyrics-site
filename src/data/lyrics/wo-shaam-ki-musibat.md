@@ -19,7 +19,7 @@ romanLyrics: |-
   Chaadar ka chhin jaana Zainab ke dil se puchho
 
   2
-  Mushkil kusha ki beti rassi mein baandhi jaaye
+  Mushkil kusha ki beti rassi meiṅ baandhi jaaye
   Wo baazuoṅ ka dukhna Zainab ke dil se puchho
 
   3
@@ -31,12 +31,12 @@ romanLyrics: |-
   Us par tamaanche khaana Zainab ke dil se puchho
 
   5
-  Paaoṅ mein jis ke chhaale wo tauq ko sambhaale
+  Paaoṅ meiṅ jis ke chhaale wo tauq ko sambhaale
   Aabid ka haaye girna Zainab ke dil se puchho
 
   6
   Darbaar ki musibat baazaar ki aziyat
-  Zindaaṅ mein qaid rehna Zainab ke dil se puchho
+  Zindaaṅ meiṅ qaid rehna Zainab ke dil se puchho
 
   7
   Wo raat ka andhera bachchi ko yaad karke

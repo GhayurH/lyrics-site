@@ -12,7 +12,7 @@ aliases: ["من کنت و مولا فھازا علی یون مولا"]
 published: true
 romanLyrics: |-
   Man kunto maula fa haza Ali un maula
-  Jis ka main maula us ka tu Ali maula
+  Jis ka maiṅ maula us ka tu Ali maula
   Ya Haider Haider ya Haider Haider
 
   1
@@ -40,17 +40,17 @@ romanLyrics: |-
   Wo dekh Najaf ka raasta hai
   Aa us raaste par saath chaleṅ
   Har ek qadam ho Ali Ali
-  Haathoṅ mein alam ho Ali Ali
+  Haathoṅ meiṅ alam ho Ali Ali
   Naaroṅ ka bharam ho Ali Ali
   Ye ishq na kam ho Ali Ali
   Wo dekh shahanshaah aur gada
-  Kehte haiṅ Najaf mein sab mil kar
+  Kehte haiṅ Najaf meiṅ sab mil kar
   Ya Haider Haider ya Haider Haider
   Mera ishq bhi tu imaan bhi tu
   Meri jaan bhi tu pehchaan bhi tu
 
   3
-  Sarkaar-e-Najaf ke raste mein
+  Sarkaar-e-Najaf ke raste meiṅ
   Kya aashiq-e-Haider milte haiṅ
   Kahiṅ Raabiya Basri aur Buzar
   Salmaan qaside parhte haiṅ
@@ -61,13 +61,13 @@ romanLyrics: |-
   Salmaan ka rehbar Ali Ali
   Kahe Maalik-e-Ashtar Ali Ali
   Saqi Laal Qalandar kehta hai
-  Wallaah Ali ka main naukar
+  Wallaah Ali ka maiṅ naukar
   Ya Haider Haider ya Haider Haider
   Mera ishq bhi tu imaan bhi tu
   Meri jaan bhi tu pehchaan bhi tu
 
   4
-  Maidaan-e-Khum mein Ahmad ne
+  Maidaan-e-Khum meiṅ Ahmad ne
   Haider ko pukaara hai maula
   Haathoṅ pe utha ke maula ne
   Maula ko banaaya hai maula
@@ -77,8 +77,8 @@ romanLyrics: |-
   Nabiyoṅ ne pukaara Ali Ali
   Waliyoṅ ka sahaara Ali Ali
   Sab haare na haara Ali Ali
-  Hai baarah imaamoṅ mein pehla
-  Har jang mein pehla number
+  Hai baarah imaamoṅ meiṅ pehla
+  Har jang meiṅ pehla number
   Ya Haider Haider ya Haider Haider
   Mera ishq bhi tu imaan bhi tu
   Meri jaan bhi tu pehchaan bhi tu
@@ -95,7 +95,7 @@ romanLyrics: |-
   Abbaas ka naara Ali Ali
   Hasnain ka saaya Ali Ali
   Awwal ho ke ausat ya aakhir
-  Is ghar mein hai sab ke sab Haider
+  Is ghar meiṅ hai sab ke sab Haider
   Ya Haider Haider ya Haider Haider
   Mera ishq bhi tu imaan bhi tu
   Meri jaan bhi tu pehchaan bhi tu
@@ -119,7 +119,7 @@ romanLyrics: |-
   Ali ism-e-ilaahi hai
   Ali ki baadshaahi hai
   Ali ism-e-ilaahi hai
-  Har ek mizaan mein tola
+  Har ek mizaan meiṅ tola
   Zabaan ke saath dil bola
   Ali maula Ali maula Ali maula
   Ali maula Ali maula

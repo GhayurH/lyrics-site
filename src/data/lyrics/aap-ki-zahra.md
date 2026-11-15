@@ -25,11 +25,11 @@ romanLyrics: |-
 
   3
   Taziyana mere baazu pe laga jab baba
-  Aa gayi yaad Madine mein mujhe Karbobala
+  Aa gayi yaad Madine meiṅ mujhe Karbobala
   Yaad Abbas ke katte hue shaane aaye
 
   4
-  Jab se baandhi gayi Haider ke gale mein rassi
+  Jab se baandhi gayi Haider ke gale meiṅ rassi
   Dekh kar Zainab o Kulsum ko kehte haiṅ yehi
   Kaash tumko koi qaidi na banane aaye
 
@@ -39,13 +39,13 @@ romanLyrics: |-
   Log aaye bhi to bas dil to dukhane aaye
 
   6
-  Maine Maula ko faqat yehi wasiyat ki hai
+  Maiṅ ne Maula ko faqat yehi wasiyat ki hai
   Jin Musalmanoṅ ne mujhko ye aziyat di hai
-  Koi un mein se janaza na uthane aaye
+  Koi un meiṅ se janaza na uthane aaye
 
   7
   Ashk is baat pe aankhoṅ se bahe jaate haiṅ
-  Dekh aayi huṅ main darbar kise kehte haiṅ
+  Dekh aayi huṅ maiṅ darbar kise kehte haiṅ
   Yaad Zainab ki asiri ke zamane aaye
 
   8

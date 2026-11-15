@@ -14,24 +14,24 @@ romanLyrics: |-
   Utho Asghar mere pyaase wo dekho paani aaya hai
   Sakina paani aaya hai Sakina paani aaya hai
 
-  Taras Shaam-e-gharibaaṅ mein kisi ne ham pe khaaya hai
+  Taras Shaam-e-gharibaaṅ meiṅ kisi ne ham pe khaaya hai
 
   Ye keh kar khaak se Zainab ne bachchi ko uthaaya hai
 
   1
   Bhala kab tak yunhi pyaasi rahogi utho zid chhoro
   Chacha ka waasta deti huṅ ye faaqa abhi toro
-  Isi paani ke khaatir khun mein ammu nahaaya hai
+  Isi paani ke khaatir khun meiṅ ammu nahaaya hai
 
   2
-  Zabaan-e-khushk mein beti tere kaante pare hoṅge
+  Zabaan-e-khushk meiṅ beti tere kaante pare hoṅge
   Faqat do ghuṅt pi le tere ehsaan bare hoṅge
-  Sitam pardes mein tujh par bahut qismat ne dhaaya hai
+  Sitam pardes meiṅ tujh par bahut qismat ne dhaaya hai
 
   3
-  Na jaane saara din maqtal mein kya guzri hai pyaase par
+  Na jaane saara din maqtal meiṅ kya guzri hai pyaase par
   Lo kuchh paani chhirak aao Ali Asghar ke laashe par
-  Zara se sin mein us ne pyaas ka sadma uthaaya hai
+  Zara se sin meiṅ us ne pyaas ka sadma uthaaya hai
 
   4
   Laboṅ ko tishnagi ki tir se aazaad kar beti
@@ -51,8 +51,8 @@ romanLyrics: |-
   Ye paani kaun laaya hai
 
   7
-  Main is paani ko kis dil se bataao munh lagaauṅgi
-  Ali Asghar se kaise hashr mein nazreṅ milaauṅgi
+  Maiṅ is paani ko kis dil se bataao munh lagaauṅgi
+  Ali Asghar se kaise hashr meiṅ nazreṅ milaauṅgi
   Tasavvur par mere ab tak mera beshir chhaaya hai
   Ye paani kaun laaya hai
 

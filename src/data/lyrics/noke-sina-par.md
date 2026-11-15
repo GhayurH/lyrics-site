@@ -18,7 +18,7 @@ romanLyrics: |-
   Haakim mujhe bakhshega nahiṅ tujhko khabar hai
   Jaa dhund sar-e-Asghar-e-maasum kidhar hai
 
-  Taarikh mein is zulm ka milta hai hawaala
+  Taarikh meiṅ is zulm ka milta hai hawaala
   Zaalim ne lahad khod ke Asghar ko nikaala
   Sar kaat chuka Kholi to naiza ko sambhaala
   Naize pe gaya Bano ki aaghosh ka paala
@@ -46,7 +46,7 @@ romanLyrics: |-
 
   2
   Kya zulm mere bachche pe hai dekh Khudaaya
-  Na jhule mein paaya na sukuṅ qabr mein paaya
+  Na jhule meiṅ paaya na sukuṅ qabr meiṅ paaya
   Maaṅ roti hai ye keh ke kahaaṅ dudh barhaaya
   Paani ke ewaz tir-e-sitam halq pe khaaya
   Pyaasa gaya tha dunya se Asghar
@@ -64,14 +64,14 @@ romanLyrics: |-
   Shabbir ne dekha jo sinaaṅ par sar-e-Asghar
   Ek baar nigaahoṅ se kiya sajda zamiṅ par
   Phir bole nigaahoṅ ko uthaate hue Sarwar
-  Tu raazi to main raazi mere Khaaliq-e-Akbar
+  Tu raazi to maiṅ raazi mere Khaaliq-e-Akbar
   Waada nibhaaya ghar ko luta kar
   Ab ye sitam bhi sehta huṅ dil par
 
   5
   Akbar se kaha Shah ne mere laal tere baad
   Zainab ka hua gham se bura haal tere baad
-  The khaak mein aaluda mere baal tere baad
+  The khaak meiṅ aaluda mere baal tere baad
   Aadaa ne kiya laashoṅ ko paamaal tere baad
   Ye bhi qayaamat aai mere dilbar
   Dekh sako to dekh lo aa kar

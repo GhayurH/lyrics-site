@@ -18,7 +18,7 @@ romanLyrics: |-
 
   1
   Jawaaṅ ki laash laate haiṅ lahad koi banaate haiṅ
-  Watan se dur dasht mein Husain gham uthaate haiṅ
+  Watan se dur dasht meiṅ Husain gham uthaate haiṅ
 
   2
   Hai bekhata mera pisar koi bachaaye aan kar
@@ -29,8 +29,8 @@ romanLyrics: |-
   Nabi ka laadla Husain is qadar gharib hai
 
   4
-  Ghamoṅ se chur chur hai lahu lahu hai Shaah-e-Din
-  Magar hai sajda-e-Khuda mein kham Husain ki jabiṅ
+  Ghamoṅ se chur chur hai lahu lahu hai Shaah-e-Diṅ
+  Magar hai sajda-e-Khuda meiṅ kham Husain ki jabiṅ
 
   5
   Sinaaṅ ki nok par azaaṅ naye jihaad ka imtihaaṅ

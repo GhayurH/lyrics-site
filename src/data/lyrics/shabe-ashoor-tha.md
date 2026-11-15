@@ -13,16 +13,16 @@ published: true
 romanLyrics: |-
   Shab-e-Aashur khaima-e-Kulsum se aati thi sada
   Haaye haaye haaye
-  Main bhi Zainab ki tarah bhaai ka deti sadqa
+  Maiṅ bhi Zainab ki tarah bhaai ka deti sadqa
   Kaash mera koi beta hota
 
   Shab-e-Aashur tha Kulsum ke lab par noha
   Kaash mera koi beta hota
 
   1
-  Saath pardes mein bhaai ka baraabar deti
+  Saath pardes meiṅ bhaai ka baraabar deti
   Sheh ke beshir pe qurbaan use kar deti
-  Dil mein hasrat hi rahi Aun o Muhammad jaisa
+  Dil meiṅ hasrat hi rahi Aun o Muhammad jaisa
   Kaash mera koi beta hota
 
   2
@@ -32,7 +32,7 @@ romanLyrics: |-
   Kaash mera koi beta hota
 
   3
-  Haath ho jaate qalam ran mein mere bete ke
+  Haath ho jaate qalam ran meiṅ mere bete ke
   Sar-e-khuṅ apna baha deta wo paani ke liye
   Le ke Ghazi se raza us ko banaati saqqa
   Kaash mera koi beta hota
@@ -45,8 +45,8 @@ romanLyrics: |-
 
   5
   Kehti Shabbir se zehmat na uthaao bhaai
-  Ghar mein saadaat ke sadqe ko na laao bhaai
-  Us ka khaimoṅ mein kabhi aane na deti laasha
+  Ghar meiṅ saadaat ke sadqe ko na laao bhaai
+  Us ka khaimoṅ meiṅ kabhi aane na deti laasha
   Kaash mera koi beta hota
 
   6

@@ -11,27 +11,27 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zainab ne kaha lut gayi pardes mein aakar
+  Zainab ne kaha lut gayi pardes meiṅ aakar
   Ae saaqi-e-Kausar
   Ghar jal gaya aur chhin gayi sar se mere chaadar
   Ae saaqi-e-Kausar
 
   1
-  Dil thaame hue main dar-e-khaima pe khari thi
+  Dil thaame hue maiṅ dar-e-khaima pe khari thi
   Aur dekh rahi thi
   Tha halq pe Sarwar ke rawaaṅ Shimr ka khanjar
   Ae saaqi-e-Kausar
 
   2
-  Ghaazi ka alam khun mein duba hua aaya
+  Ghaazi ka alam khun meiṅ duba hua aaya
   Faryaad Khudaaya
   Darya pe kate baazu-e-Abbas-e-dilaawar
   Ae saaqi-e-Kausar
 
   3
   Athaara baras paala bare chaahoṅ se jis ko
-  Main kho chuki us ko
-  Armaaṅ mere reh gaye sab khaak mein mil kar
+  Maiṅ kho chuki us ko
+  Armaaṅ mere reh gaye sab khaak meiṅ mil kar
   Ae saaqi-e-Kausar
 
   4

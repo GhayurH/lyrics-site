@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Main azaadaar huṅ daulat se mujhe pyaar nahiṅ
+  Maiṅ azaadaar huṅ daulat se mujhe pyaar nahiṅ
   Gham-e-Husain ibaadat hai kaarobaar nahiṅ
 
   1
@@ -21,14 +21,14 @@ romanLyrics: |-
   Gham-e-Husain ibaadat hai kaarobaar nahiṅ
 
   2
-  Gham-e-Husain jo mizaan-e-zar mein tolte haiṅ
+  Gham-e-Husain jo mizaan-e-zar meiṅ tolte haiṅ
   Woh apne zarf o lahu ki zubaaṅ bolte haiṅ
   Unheṅ ataa-e-imaamat pe aetbaar nahiṅ
   Gham-e-Husain ibaadat hai kaarobaar nahiṅ
 
   3
-  Jo zikr-e-Aal-e-Muhammad mein daam rakhte haiṅ
-  Nazar mein kab woh azaa-e-Imaam rakhte haiṅ
+  Jo zikr-e-Aal-e-Muhammad meiṅ daam rakhte haiṅ
+  Nazar meiṅ kab woh azaa-e-Imaam rakhte haiṅ
   Woh zakhm dete haiṅ Shabbir ko qaraar nahiṅ
   Gham-e-Husain ibaadat hai kaarobaar nahiṅ
 
@@ -40,7 +40,7 @@ romanLyrics: |-
 
   5
   Woh farsh-e-gham ho ke mehfil Ali ki midhat ki
-  Jo baat karte haiṅ har bazm mein siyaasat ki
+  Jo baat karte haiṅ har bazm meiṅ siyaasat ki
   Woh apne naam ke taalib haiṅ pursadaar nahiṅ
   Gham-e-Husain ibaadat hai kaarobaar nahiṅ
 
@@ -52,7 +52,7 @@ romanLyrics: |-
 
   7
   Gham-e-Husain to darwesh ki ibaadat hai
-  Jahaan-e-dard mein Rehaan yeh woh daulat hai
+  Jahaan-e-dard meiṅ Rehaan yeh woh daulat hai
   Qaraar deta hai karta yeh beqaraar nahiṅ
   Gham-e-Husain ibaadat hai kaarobaar nahiṅ
 # source_id: nohayonline:75e5dc0e0a6936f70b7b

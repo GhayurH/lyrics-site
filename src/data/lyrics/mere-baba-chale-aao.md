@@ -11,21 +11,21 @@ aliases: []
 published: true
 romanLyrics: |-
   Mere baba chale aao Sakina yaad karti hai
-  Kabhi zindaaṅ mein roti hai kabhi faryaad karti hai
+  Kabhi zindaaṅ meiṅ roti hai kabhi faryaad karti hai
 
   1
-  Andhera din ye chhaaya hai ke bas main huṅ andhere mein
-  Raha na farq kuchh shab ki siyaahi aur savere mein
+  Andhera din ye chhaaya hai ke bas maiṅ huṅ andhere meiṅ
+  Raha na farq kuchh shab ki siyaahi aur savere meiṅ
   Fughaaṅ maasum ki har dil yahaaṅ naashaad karti hai
 
   2
-  Main zindaaṅ ke andheroṅ mein bhatak hi rahuṅ baba
-  Tumhaari yaad mein ro kar tarapti hi rahuṅ baba
+  Maiṅ zindaaṅ ke andheroṅ meiṅ bhatak hi rahuṅ baba
+  Tumhaari yaad meiṅ ro kar tarapti hi rahuṅ baba
   Ghamoṅ se aap ki qurbat mujhe aazaad karti hai
 
   3
   Chhini hai baaliyaaṅ kaanoṅ se mere khuṅ tapakta hai
-  Tamaanche Shimr ke khaati huṅ dil sine mein rota hai
+  Tamaanche Shimr ke khaati huṅ dil sine meiṅ rota hai
   Naye mujh par sitam fauj-e-sitam ijaad karti hai
 
   4
@@ -36,12 +36,12 @@ romanLyrics: |-
   5
   Kabhi yaad-e-Ali Asghar kabhi yaad-e-Ali Akbar
   Sataati hai mujhe pyaare chacha ki yaad reh reh kar
-  Bayaaṅ Karbobala ki tay mein rudaad karti hai
+  Bayaaṅ Karbobala ki tay meiṅ rudaad karti hai
 
   6
   Nahiṅ aaye agar baba tarap kar jaan de duṅ gi
-  Main daadi jaan se khuld-e-bari mein jaa ke keh duṅ gi
-  Buka Mehboob maasuma paye faryaad karti hai
+  Maiṅ daadi jaaṅ se khuld-e-bari meiṅ jaa ke keh duṅ gi
+  Buka Mehbub maasuma paye faryaad karti hai
 # source_id: nohayonline:331fdf451f825ccec708
 # source_url: https://www.nohayonline.com/details_content.php?id=773
 # raw_sha256: 7a8d3dcfba9727a6ddc5f388e1b2ba32de1df7f57fb6919005c39e0a787374a9

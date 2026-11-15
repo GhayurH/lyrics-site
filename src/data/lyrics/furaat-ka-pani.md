@@ -18,7 +18,7 @@ romanLyrics: |-
   Naizoṅ uchhla Furaat ka paani
 
   1
-  Ran mein ghore se jab gire Shabbir
+  Ran meiṅ ghore se jab gire Shabbir
   Thi bahut dardnaak wo tasvir
   Tarap ke reh gayi Janaab-e-Sayyeda
   Jab charha Shimr sina-e-Shah par
@@ -74,7 +74,7 @@ romanLyrics: |-
   Naizoṅ uchhla Furaat ka paani
 
   9
-  Donoṅ haathoṅ mein jab bandhi rassi
+  Donoṅ haathoṅ meiṅ jab bandhi rassi
   Haae Waiz Ali ki shahzaadi
   Tarapti reh gayi Ali ki betiyaaṅ
   Royi jis waqt apni ghurbat par

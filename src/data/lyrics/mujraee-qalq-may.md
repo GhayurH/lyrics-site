@@ -11,28 +11,28 @@ tags: []
 aliases: ["Mujraee Qalq May"]
 published: true
 romanLyrics: |-
-  Mujraee khalq meiṅ in aankhoṅ ne kya kya dekha
+  Mujrai khalq meiṅ in aankhoṅ ne kya kya dekha
   Par kahiṅ Sibt-e-Payambar sa na aaqa dekha
 
   1
-  Main ne dekha alam-e-Shaah ko aaluda-e-khun
-  Main ne Abbas ko bejaan lab-e-darya dekha
+  Maiṅ ne dekha alam-e-Shaah ko aaluda-e-khun
+  Maiṅ ne Abbas ko bejaan lab-e-darya dekha
 
   2
-  Main ne dekha alam-e-Shaah ko aaluda ba-khun
-  Main ne neze pe sar-e-dilbar-e-Zehra dekha
+  Maiṅ ne dekha alam-e-Shaah ko aaluda ba-khun
+  Maiṅ ne neze pe sar-e-dilbar-e-Zehra dekha
 
   3
-  Main ne dekha Ali Asghar ka gala khun meiṅ tar
-  Main ne zakhmi Ali Akbar ka kaleja dekha
+  Maiṅ ne dekha Ali Asghar ka gala khun meiṅ tar
+  Maiṅ ne zakhmi Ali Akbar ka kaleja dekha
 
   4
-  Main ne dekha Ali Asghar ka gala khun meiṅ tar
-  Main ne Abbas ko reti pe tarapta dekha
+  Maiṅ ne dekha Ali Asghar ka gala khun meiṅ tar
+  Maiṅ ne Abbas ko reti pe tarapta dekha
 
   5
   Ek gathri Shah-e-diṅ pusht pe laae us meiṅ
-  Main ne tukre hue Qasim ka saraapa dekha
+  Maiṅ ne tukre hue Qasim ka saraapa dekha
 
   6
   Berida khalq ne us Bibi ke sar ko dekha
@@ -55,7 +55,7 @@ romanLyrics: |-
   Kahuṅ kis muṅh se ke pardes meiṅ kya kya dekha
 
   11
-  Zulm ae Mujraee Sajjad ne kya kya dekha
+  Zulm ae Mujrai Sajjad ne kya kya dekha
   Ghar luta qaid hue aur baap ka laasha dekha
 # source_id: nohayonline:738ec97aa9299017b9f7
 # source_url: https://www.nohayonline.com/content_salaam.php?id=3

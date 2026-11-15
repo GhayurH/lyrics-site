@@ -11,22 +11,22 @@ aliases: []
 published: true
 romanLyrics: |-
   Kehti thi Bano Asghar jaani
-  Kab tum ghar mein aaoge
+  Kab tum ghar meiṅ aaoge
 
   1
   Darya par se pi kar paani
-  Kab tum ghar mein aaoge
+  Kab tum ghar meiṅ aaoge
 
   2
   Ae mire jaani Yusuf-e-saani
-  Kab tum ghar mein aaoge
+  Kab tum ghar meiṅ aaoge
 
   3
   Apni dikhane shakl numaani
-  Kab tum ghar mein aaoge
+  Kab tum ghar meiṅ aaoge
 
   4
-  Sog mein tere beta main ne
+  Sog meiṅ tere beta maiṅ ne
   Pehni kafni kaali hai
 
   5

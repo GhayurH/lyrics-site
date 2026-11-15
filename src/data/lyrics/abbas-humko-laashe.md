@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Abbas hum ko laash-e-jawaṅ mil nahiṅ rahi
+  Abbas hum ko laash-e-jawaaṅ mil nahiṅ rahi
 
   1
   Akbar ki jang dur se dekha kiye Husain
@@ -33,18 +33,18 @@ romanLyrics: |-
 
   4
   Dar hai na gham se Abid-e-bimar chal base
-  Zainab na berida kahiṅ ran mein nikal pare
-  Maaṅ ke tasawwurat mein sehre ke phul the
+  Zainab na berida kahiṅ ran meiṅ nikal pare
+  Maaṅ ke tasawwurat meiṅ sehre ke phul the
   Wo kam se kam pisar ka janaaza to dekh le
 
   5
-  Gum hain chiraagh-ha-e-mere ghar ka der se
+  Gum haiṅ chiraagh-ha-e-mere ghar ka der se
   Hai shauq-e-did shakl-e-Payambar ka der se
   Dil khun hai tumhare baradar ka der se
   Laila ko intezaar hai Akbar ka der se
 
   6
-  Barchhi hamare bete ke dil mein hai kya kareṅ
+  Barchhi hamare bete ke dil meiṅ hai kya kareṅ
   Kis tarah uske dard-e-jigar ki dawaa kareṅ
   Hum bemuin o yaavar o naasir hain kya kareṅ
   Pahuncheṅge laash tak jo madad Murtaza kare

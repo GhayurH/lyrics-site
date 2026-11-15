@@ -52,7 +52,7 @@ romanLyrics: |-
   Raazi hai tujhse tera khuda
   Waada jo kiya tha pura hua
   Phir Shimr ke khanjar ne ye kaha
-  Main haara jita sabr tera
+  Maiṅ haara jita sabr tera
 
   6
   Ae Bibi Mohsin ki hai dua

@@ -1,6 +1,6 @@
 ---
 title: "مرتے مرتے تھا سکینہ کے لبوں پر نوحہ"
-alternateTitle: "Sakina Ke Labon Par"
+alternateTitle: "Sakina Ke Laboṅ Par"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -16,12 +16,12 @@ romanLyrics: |-
 
   1
   Maut ke baad hi kam ho mere shaayad aazaar
-  Rakh duṅ rukhsaaroṅ pe un ke jo main apna rukhsaar
+  Rakh duṅ rukhsaaroṅ pe un ke jo maiṅ apna rukhsaar
   Un ke zakhmoṅ se laga do mera zakhmi chehra
 
   2
   Baad muddat ke mila hai ye sukuṅ aaj mujhe
-  Main ne baba ko lagaya hai gale se apne
+  Maiṅ ne baba ko lagaya hai gale se apne
   Bhul jaaye na kahiṅ dil hi dharakna mera
 
   3
@@ -35,9 +35,9 @@ romanLyrics: |-
   Haal ye baba ka mujh se nahiṅ dekha jaata
 
   5
-  Shimr ka khauf na turbat mein rulaayega mujhe
+  Shimr ka khauf na turbat meiṅ rulaayega mujhe
   Kis ki himmat jo koi aake daraayega mujhe
-  Hoṅge turbat mein mere saath jo mere baba
+  Hoṅge turbat meiṅ mere saath jo mere baba
 
   6
   Rismaaṅ hatti nahiṅ mere gale se jaise

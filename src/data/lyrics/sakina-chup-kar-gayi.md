@@ -20,19 +20,19 @@ romanLyrics: |-
   Sakina chup kar gayi
 
   1
-  Baba ki yaad mein is ne rone pe tamaache khaaye
+  Baba ki yaad meiṅ is ne rone pe tamaache khaaye
   Sone pe tamaache khaaye
   Ae Shaam ke zaalim logoṅ apne bachchoṅ se kehna
   Sakina chup kar gayi
 
   2
-  Main kaise ise dafnaauṅ mere haath bandhe haiṅ dekho
+  Maiṅ kaise ise dafnaauṅ mere haath bandhe haiṅ dekho
   Zanjir meri khulwa do
-  Kurte ke kafan mein is ko zindaan mein hai dafnaana
+  Kurte ke kafan meiṅ is ko zindaan meiṅ hai dafnaana
   Sakina chup kar gayi
 
   3
-  Zindaan mein hai kiuṅ khaamoshi jab Shaamiyoṅ ne ye puchha
+  Zindaan meiṅ hai kiuṅ khaamoshi jab Shaamiyoṅ ne ye puchha
   Hanste hue Shimr ye bola
   Nile rukhsaar the jis ke kehti thi jo Baba Baba
   Sakina chup kar gayi
@@ -44,19 +44,19 @@ romanLyrics: |-
   Sakina chup kar gayi
 
   5
-  Baazaar-e-Shaam mein is ko jab baaghi baaghi keh kar
+  Baazaar-e-Shaam meiṅ is ko jab baaghi baaghi keh kar
   Sab maar rahe the patthar
   Rote rote naize par Ghazi ko jo rote dekha
   Sakina chup kar gayi
 
   6
-  Haye Shaam-e-gharibaaṅ mein jo is bachchi ke kaanoṅ se
+  Haye Shaam-e-gharibaaṅ meiṅ jo is bachchi ke kaanoṅ se
   Zaalim ne jo aa kar noche
   Baba se mile wo gauhar Ramla ko jo pehne dekha
   Sakina chup kar gayi
 
   7
-  Maara gaya pyaasa Ghazi khaimoṅ mein khabar jab aayi
+  Maara gaya pyaasa Ghazi khaimoṅ meiṅ khabar jab aayi
   Paani jo maang rahi thi
   Jaane kab se thi pyaasi phir us ne na paani maanga
   Sakina chup kar gayi
@@ -64,12 +64,12 @@ romanLyrics: |-
   8
   Jab maar ke neza tum ne naaqe se giraaya is ko
   Ro ro ke mar jaati wo
-  Jab apne jaisi dekhi burqe mein ek zaifa
+  Jab apne jaisi dekhi burqe meiṅ ek zaifa
   Sakina chup kar gayi
 
   9
-  Darvesh tarapta hai dil Zeeshan tha manzar kaisa
-  Zindaaṅ mein sar jab aaya
+  Darvesh tarapta hai dil Zishan tha manzar kaisa
+  Zindaaṅ meiṅ sar jab aaya
   Rote rote Baba ke chehre par rakh kar chehra
   Sakina chup kar gayi
 # source_id: nohayonline:fe26571a16c2fa41c277

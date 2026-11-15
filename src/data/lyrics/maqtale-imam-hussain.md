@@ -14,7 +14,7 @@ romanLyrics: |-
   Gharib-e-Zehra ki ghurbat suno ae ahl-e-aza
 
   1
-  Akela reh gaya maqtal mein jab mera Maula
+  Akela reh gaya maqtal meiṅ jab mera Maula
   Sipaah-e-Shaam ne chaaroṅ taraf se gher liya
   Lab-e-Furaat tha har ek khun ka pyaasa
   Tha ghul charaagh-e-imaamat abhi bujhaana hai
@@ -22,10 +22,10 @@ romanLyrics: |-
 
   2
   Ye sun ke sang kisi ne jabiṅ par maara
-  Kisi ne pehlu mein barchhi ka phal utaar diya
+  Kisi ne pehlu meiṅ barchhi ka phal utaar diya
   Kisi ne saamne aa kar chalaayi tegh-e-jafa
   Gharib-e-Zehra ka ziṅ par sambhalna mushkil tha
-  Ali o Zehra ko ran mein rulaaya jaata tha
+  Ali o Zehra ko ran meiṅ rulaaya jaata tha
   Husain girte nahiṅ the giraaya jaata tha
 
   3
@@ -38,7 +38,7 @@ romanLyrics: |-
 
   4
   Zamiṅ se zin pe Hazrat jo munh ke bal aaye
-  Jo tir sine mein the pusht se nikal aaye
+  Jo tir sine meiṅ the pusht se nikal aaye
   Nikal ke pehlu se sab barchhiyoṅ ke phal aaye
   Qaraar kis tarah ab Shah ko ek pal aaye
   Rikaabeṅ pairoṅ se Ibn-e-Ali ki chhut gayiṅ
@@ -53,15 +53,15 @@ romanLyrics: |-
   Tu rahm kar mere baaloṅ ko chhor de zaalim
 
   6
-  Para tha dasht mein bejaaṅ Batul ka beta
+  Para tha dasht meiṅ bejaaṅ Batul ka beta
   Husain zinda hai kya Shimr se kisi ne kaha
   Qarib jaa ke ye di Shimr ne phir hans ke sada
-  Wo dekho aa gayi maqtal mein Saani-e-Zehra
+  Wo dekho aa gayi maqtal meiṅ Saani-e-Zehra
   Ye sunte hi Shah-e-dilgir uth ke baith gaye
   Behan ka naam pe Shabbir uth ke baith gaye
 
   7
-  Ye keh ke aage barha haath mein liye khanjar
+  Ye keh ke aage barha haath meiṅ liye khanjar
   Udhar tarapne lagi ek laash darya par
   Idhar qayaam se nikli Batul ki dukhtar
   Ajib beadabi Shimr ne ye ki aa kar
@@ -70,7 +70,7 @@ romanLyrics: |-
 
   8
   Ajab tarah se sitamgar ye kar raha tha sitam
-  Kabhi Husain ki zulfoṅ mein haath the baaham
+  Kabhi Husain ki zulfoṅ meiṅ haath the baaham
   Pakar ke rish-e-mubaarak kabhi hansa azlam
   Hataaya baaloṅ ko khanjar se Shimr ne ek dam
   Kaha Husain ne dekho zara Ali Akbar
@@ -87,7 +87,7 @@ romanLyrics: |-
   10
   Ab is ke aage Takallum bayaan kya hoga
   Lagi jo zarbeṅ na nikla lahu ka ek khatra
-  Lain ghaiz mein aa kar sada ye dene laga
+  Lain ghaiz meiṅ aa kar sada ye dene laga
   Husain jaldi bata maujiza ye hai kaisa
   Kaha gharib ne tu pyaar maaṅ ka kya jaane
   Gale pe mere gala rakh diya hai Zehra ne
@@ -97,8 +97,8 @@ romanLyrics: |-
   Mazid aap ho zakhmi ye ho nahiṅ sakta
   Gale pe Shaah ke khanjar lain ka jo chala
   Sadaaeṅ aati thi Subhaana Rabbiyal Aala
-  Pisar ka khun baha Sayyeda ki godi mein
-  Sar-e-Husain kata Faatima ki godi mein
+  Pisar ka khun baha Sayyeda ki godi meiṅ
+  Sar-e-Husain kata Faatima ki godi meiṅ
 # source_id: nohayonline:c447d3f31cf1001e66e4
 # source_url: https://www.nohayonline.com/details_content.php?id=1937
 # raw_sha256: 0c60db3343d5763b77fef5cc52d4f7e02f927676a916235a8e48d2d86b8be2e6

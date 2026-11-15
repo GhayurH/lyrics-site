@@ -1,6 +1,6 @@
 ---
 title: "شام والوں سے یہ زینب نے کہا رو رو کر"
-alternateTitle: "Shaam Walon Se"
+alternateTitle: "Shaam Waloṅ Se"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,11 +12,11 @@ aliases: []
 published: true
 romanLyrics: |-
   Shaam waloṅ se ye Zainab ne kaha ro ro kar
-  Main Muhammad ki nawaasi huṅ na chhino chaadar
+  Maiṅ Muhammad ki nawaasi huṅ na chhino chaadar
 
   1
-  Abhi kuch der mein aayeṅge Najaf se Baaba
-  Sar khule jaauṅgi kis tarah main pesh-e-Haider
+  Abhi kuch der meiṅ aayeṅge Najaf se Baaba
+  Sar khule jaauṅgi kis tarah maiṅ pesh-e-Haider
 
   2
   Taaziyaanoṅ ki saza mujh pe barhaa do lekin
@@ -31,19 +31,19 @@ romanLyrics: |-
   Shimr kehta tha Sakina ko dikha kar gauhar
 
   5
-  Kal to suraj na mere paas-e-adab mein nikla
-  Aaj har su tamaashaai main huṅ bechaadar
+  Kal to suraj na mere paas-e-adab meiṅ nikla
+  Aaj har su tamaashaai maiṅ huṅ bechaadar
 
   6
   Ye hai mamta ki nishaani na jalaao is ko
-  Khelta tha isi gahwaare mein mera Asghar
+  Khelta tha isi gahwaare meiṅ mera Asghar
 
   7
-  Ye to Allah se waada hai jo khaamosh huṅ main
-  Warna ae zaalimoṅ main bhi huṅ Ali ki dukhtar
+  Ye to Allah se waada hai jo khaamosh huṅ maiṅ
+  Warna ae zaalimoṅ maiṅ bhi huṅ Ali ki dukhtar
 
   8
-  Baith kar parhti hai zindaṅ mein namaazeṅ wo Bilal
+  Baith kar parhti hai zindaṅ meiṅ namaazeṅ wo Bilal
   Tor di yuṅ Gham-e-Abbas ne Zainab ki kamar
 # source_id: nohayonline:65b23eaf069e8184ac00
 # source_url: https://www.nohayonline.com/details_content.php?id=2636

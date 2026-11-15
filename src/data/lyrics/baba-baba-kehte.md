@@ -14,21 +14,21 @@ romanLyrics: |-
   So gayi Sakina so gayi Sakina
 
   Kaise Rabab-e-khasta jigar se kahe koi
-  Duniya mein ab tumhari Sakina nahiṅ rahi
+  Duniya meiṅ ab tumhari Sakina nahiṅ rahi
   Ashkoṅ se apne baba ke rukhsaar dho gayi
-  Aaghosh mein Husain ka sar rakh ke so gayi
+  Aaghosh meiṅ Husain ka sar rakh ke so gayi
 
   1
   Baba baba kehte kehte so gayi Sakina
-  Zindaaṅ mein kaise Allah jaane so gayi Sakina
+  Zindaaṅ meiṅ kaise Allah jaane so gayi Sakina
 
   2
-  Ahl-e-haram mein shor-e-buka hai kaisi qayaamat aayi
-  Ghurbat mein phir apni behan ko rota hai ek bhai
+  Ahl-e-haram meiṅ shor-e-buka hai kaisi qayaamat aayi
+  Ghurbat meiṅ phir apni behan ko rota hai ek bhai
   Apna hi nauha parhte parhte so gayi Sakina
 
   3
-  Godi mein rakh kar Sarwar ke sar ko ro ro ke dukhra sunaaya
+  Godi meiṅ rakh kar Sarwar ke sar ko ro ro ke dukhra sunaaya
   Khaaye haiṅ kitne patthar bata kar kurte ka daaman dikhaaya
   Baba ke muṅh pe muṅh rakhe rakhe so gayi Sakina
 
@@ -43,13 +43,13 @@ romanLyrics: |-
   Zakhmoṅ ki chaadar orhe orhe so gayi Sakina
 
   6
-  Qaid-e-sitam mein pyari behan ki kis dil se turbat banaayi
+  Qaid-e-sitam meiṅ pyari behan ki kis dil se turbat banaayi
   Haathoṅ se apne na jaane kaise nanhi si mayyat uthaayi
   Kaise kiya turbat ke hawaale so gayi Sakina
 
   7
-  Rota raha ek bhai behan ki mayyat par zindaaṅ mein
-  Kehta raha maajayi lagega tujh ko dar zindaaṅ mein
+  Rota raha ek bhai behan ki mayyat par zindaaṅ meiṅ
+  Kehta raha maajayi lagega tujh ko dar zindaaṅ meiṅ
   Tujh ko kahaaṅ nind aati thi kaise so gayi Sakina
 
   8

@@ -36,7 +36,7 @@ romanLyrics: |-
 
   6
   Yuṅ Sakina ka safar tha Karbala se Shaam tak
-  Tha nazar mein har ghari chehra chacha Abbas ka
+  Tha nazar meiṅ har ghari chehra chacha Abbas ka
 
   7
   Haq ada hota nahiṅ hai in se Ae Ummul Baniṅ

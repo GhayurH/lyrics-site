@@ -28,12 +28,12 @@ romanLyrics: |-
   1
   Maula ki kamar tuti jis dam ye khabar aayi
   Maara gaya darya par Shabbir ka shaidaai
-  Khuṅ bhar gaya aankhoṅ mein jaati rahi binaai
+  Khuṅ bhar gaya aankhoṅ meiṅ jaati rahi binaai
   Maqtal se Sakina ka wo ghamkhwaar na aaya
   Saqqa-e-Husain sayyed o salaar na aaya
 
   2
-  Jab khun mein tar aaya Abbas ka wo parcham
+  Jab khun meiṅ tar aaya Abbas ka wo parcham
   Tapti hui reti par atfaal the sab bedam
   Sarwar ne kiya nauha Zainab ne kiya maatam
   Chillaae haram Ghaazi o Jarraar na aaya
@@ -42,13 +42,13 @@ romanLyrics: |-
   3
   Hukm-e-Shah-e-Waala par darya ko utha laata
   Kya karta bhala Ghaazi mahrum-e-ijaazat tha
-  Koshish to bahut ki par laakhoṅ mein ghira tanha
+  Koshish to bahut ki par laakhoṅ meiṅ ghira tanha
   Jab mashk chhidi phir wo wafaadaar na aaya
   Saqqa-e-Husain sayyed o salaar na aaya
 
   4
   Zehra ke gharane ka wo zaamin-e-chaadar tha
-  Maslak mein thi saqqayi kirdaar mein Haider tha
+  Maslak meiṅ thi saqqayi kirdaar meiṅ Haider tha
   Jis waqt kate baazu Ghaazi ke bahe aaṅsu
   Lene gaye Maula wo dilafgaar na aaya
   Saqqa-e-Husain sayyed o salaar na aaya

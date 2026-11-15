@@ -15,11 +15,11 @@ romanLyrics: |-
   Ro ro ke nana jaan ko faryaad bhi sunaaye
 
   1
-  Kis ko main dil dikhaauṅ dukhra kise sunaauṅ
+  Kis ko maiṅ dil dikhaauṅ dukhra kise sunaauṅ
   Aise gaye haiṅ baba phir laut kar na aaye
 
   2
-  Main maanti huṅ mannat sun lo dua ae nana
+  Maiṅ maanti huṅ mannat sun lo dua ae nana
   Lillaah kisi ka baba beti ko na bhulaaye
 
   3
@@ -28,7 +28,7 @@ romanLyrics: |-
 
   4
   Sunti huṅ ho chuki hai Ibn-e-Hasan ki shaadi
-  Main reh gayi tarasti saare gaye bulaaye
+  Maiṅ reh gayi tarasti saare gaye bulaaye
 
   5
   Behnoṅ ko aa rahe haiṅ khat bhaaiyoṅ ke paiham

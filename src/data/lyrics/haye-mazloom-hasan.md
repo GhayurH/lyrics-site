@@ -1,6 +1,6 @@
 ---
 title: "ہاے مظلوم حسن عسکری"
-alternateTitle: "Haye Mazloom Hasan"
+alternateTitle: "Haye Mazlum Hasan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -39,7 +39,7 @@ romanLyrics: |-
 
   5
   Askari Maula ka nauha ho likha Aqil qabul
-  Tujh pe raazi ho Aneem hashr meiṅ Bint-e-Rasul
+  Tujh pe raazi ho Anim hashr meiṅ Bint-e-Rasul
   Baargaah-e-Askari Maula meiṅ hai ye ilteja
 # source_id: nohayonline:f6a16a9674787d24890b
 # source_url: https://www.nohayonline.com/details_content.php?id=1491

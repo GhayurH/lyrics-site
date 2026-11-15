@@ -10,7 +10,7 @@ tags: []
 aliases: ["Goonj Rahi Hai Ya"]
 published: true
 romanLyrics: |-
-  Mere lahu ke har qatre mein gunj raha hai ya Husain
+  Mere lahu ke har qatre meiṅ gunj raha hai ya Husain
   Ab to sab ka wird-e-zabaaṅ bhi rehne laga hai ya Husain
 
   1
@@ -39,7 +39,7 @@ romanLyrics: |-
 
   5
   Ye sabileṅ ye aza khaane
-  Aankh mein ashkoṅ ke paimaane
+  Aankh meiṅ ashkoṅ ke paimaane
   Maatami laaye haiṅ nazraane
   Ab janaab-e-Sayyeda jaane
 

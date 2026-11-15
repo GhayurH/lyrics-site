@@ -1,6 +1,6 @@
 ---
 title: "حیرت میں ہو کیوں جہان میں آیا پانی"
-alternateTitle: "Hairat Mein Ho"
+alternateTitle: "Hairat Meiṅ Ho"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,8 +11,8 @@ aliases: []
 published: true
 romanLyrics: |-
   1
-  Hairat mein ho kiuṅ jahaan mein aaya paani
-  Darya mein hai kis liye samaaya paani
+  Hairat meiṅ ho kiuṅ jahaan meiṅ aaya paani
+  Darya meiṅ hai kis liye samaaya paani
 
   2
   Ab laakh baras abr barse to kya

@@ -23,7 +23,7 @@ romanLyrics: |-
   Pusht par bhaai ke reh kar Karbala tayyaar ki
 
   3
-  Aa gaya is mein simat kar sirr-e-ramz-e-la ilaah
+  Aa gaya is meiṅ simat kar sirr-e-ramz-e-la ilaah
   Ya Husaina ki jo Zainab ne sada tayyaar ki
 
   4

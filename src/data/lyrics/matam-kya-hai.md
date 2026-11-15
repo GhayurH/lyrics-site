@@ -16,30 +16,30 @@ romanLyrics: |-
 
   1
   Haq kya hai aur baatil kya hai kufr hai kya Islam hai kya
-  Karbobala mein Shah ne kiya hai sab ki haqiqat ka aelaan
+  Karbobala meiṅ Shah ne kiya hai sab ki haqiqat ka aelaan
 
   2
   Bojh gunaahoṅ ka bhi bara to fikr nahiṅ ha roz-e-jaza
   Ashk-e-gham-e-Shah pe kareṅge apni shafaaat ka aelaan
 
   3
-  Kufr ki koshish hai ye musalsal zikr-e-Shaah-e-din mit jaaye
-  Zikr-e-Shaah-e-din mit nahiṅ sakta hai ye mashiyat ka aelaan
+  Kufr ki koshish hai ye musalsal zikr-e-Shaah-e-diṅ mit jaaye
+  Zikr-e-Shaah-e-diṅ mit nahiṅ sakta hai ye mashiyat ka aelaan
 
   4
   Chhin liya Abbas ne darya phir bhi laboṅ ko tar na kiya
   Tashna labi ke saath kiya hai apni shujaaat ka aelaan
 
   5
-  Nargha-e-aada mein bhi hua ek hashr bapa kohraam macha
+  Nargha-e-aada meiṅ bhi hua ek hashr bapa kohraam macha
   Asghar ke hoṅtoṅ pe tabassum aakh-e-qayaamat ka aelaan
 
   6
   Chhup na sakega khun-e-shahidaaṅ taaba qayaamat Zainab ne
-  Shaam ke baazaaroṅ mein kiya is tarah shahaadat ka aelaan
+  Shaam ke baazaaroṅ meiṅ kiya is tarah shahaadat ka aelaan
 
   7
-  Maqtal mein jab Shah ne pukaara hai koi meri nusrat ko
+  Maqtal meiṅ jab Shah ne pukaara hai koi meri nusrat ko
   Gir gaye jhule se Asghar ye sun ke imaamat ka aelaan
 
   8

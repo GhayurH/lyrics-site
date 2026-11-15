@@ -17,67 +17,67 @@ romanLyrics: |-
   Milne ke liye aaye haiṅ tujh se tere Maula
 
   Sar dekh ke Shabbir ka Shiriṅ ne pukaara
-  Aap aayeṅ ge is haal mein socha hi nahiṅ tha
+  Aap aayeṅ ge is haal meiṅ socha hi nahiṅ tha
 
   1
-  Waada jo kiya aap ne main bhul na paayi
-  Is ghar mein wo ghar chhor ke jis din se huṅ aayi
-  Takti huṅ usi roz se main aap ka rasta
-  Aap aayeṅ ge is haal mein socha hi nahiṅ tha
+  Waada jo kiya aap ne maiṅ bhul na paayi
+  Is ghar meiṅ wo ghar chhor ke jis din se huṅ aayi
+  Takti huṅ usi roz se maiṅ aap ka rasta
+  Aap aayeṅ ge is haal meiṅ socha hi nahiṅ tha
 
   2
-  Wo baateṅ rulaati haiṅ jo Yasrab mein huiṅ thiṅ
+  Wo baateṅ rulaati haiṅ jo Yasrab meiṅ huiṅ thiṅ
   Ab aaya samajh aap ne kiuṅ chaadareṅ diṅ thiṅ
-  Beparda Nabi zaadiyaaṅ haiṅ saath mein Maula
-  Aap aayeṅ ge is haal mein socha hi nahiṅ tha
+  Beparda Nabi zaadiyaaṅ haiṅ saath meiṅ Maula
+  Aap aayeṅ ge is haal meiṅ socha hi nahiṅ tha
 
   3
   Baais baras Shiriṅ ne kis tarah guzaare
-  Din raat isi soch mein katte the hamaare
+  Din raat isi soch meiṅ katte the hamaare
   Ek roz zarur aayeṅ ge Maula ka hai waada
-  Aap aayeṅ ge is haal mein socha hi nahiṅ tha
+  Aap aayeṅ ge is haal meiṅ socha hi nahiṅ tha
 
   4
   Do saal ke Sajjad ke bhuli nahiṅ Shiriṅ
   Phuphiyaaṅ jo kabhi aayi to aankheṅ nahiṅ kholi
   Beparda hui phuphiyaaṅ to kis tarah se dekha
-  Aap aayeṅ ge is haal mein socha hi nahiṅ tha
+  Aap aayeṅ ge is haal meiṅ socha hi nahiṅ tha
 
   5
-  Akbar ki wilaadat ka suna jis ghari main ne
-  Bas mein jo mere hota main aa jaati Madine
+  Akbar ki wilaadat ka suna jis ghari maiṅ ne
+  Bas meiṅ jo mere hota maiṅ aa jaati Madine
   Mil paayi na Akbar se ye afsos rahe ga
-  Aap aayeṅ ge is haal mein socha hi nahiṅ tha
+  Aap aayeṅ ge is haal meiṅ socha hi nahiṅ tha
 
   6
   Sunti thi ke ek aap ki beti hai Sakina
   Socha tha ke saath aaye gi jab aayeṅ ge Aaqa
   Jis tarah se wo aayi hai dekha nahiṅ jaata
-  Aap aayeṅ ge is haal mein socha hi nahiṅ tha
+  Aap aayeṅ ge is haal meiṅ socha hi nahiṅ tha
 
   7
-  Maqtal mein bhala aap pe kya zulm hue haiṅ
-  Wo baal mere saamne mitti mein ate haiṅ
+  Maqtal meiṅ bhala aap pe kya zulm hue haiṅ
+  Wo baal mere saamne mitti meiṅ ate haiṅ
   Jin baaloṅ ko khud Fatima Zehra ne sanwaara
-  Aap aayeṅ ge is haal mein socha hi nahiṅ tha
+  Aap aayeṅ ge is haal meiṅ socha hi nahiṅ tha
 
   8
-  Maathe ka lahu aap ki aankhoṅ mein bhara hai
+  Maathe ka lahu aap ki aankhoṅ meiṅ bhara hai
   Chuma tha Muhammad ne jo wo khushk gala hai
-  Hai rish-e-mubaarak mein lahu aap ke Maula
-  Aap aayeṅ ge is haal mein socha hi nahiṅ tha
+  Hai rish-e-mubaarak meiṅ lahu aap ke Maula
+  Aap aayeṅ ge is haal meiṅ socha hi nahiṅ tha
 
   9
   Aabaad ye ghar dekh ke chain aata tha mujh ko
   Ye kis ki nazar kha gayi batlaiye kuch to
   Ujra hua ghar dekh ke dil rota hai mera
-  Aap aayeṅ ge is haal mein socha hi nahiṅ tha
+  Aap aayeṅ ge is haal meiṅ socha hi nahiṅ tha
 
   10
   Zishaan o Raza kehti thi Shiriṅ yehi ro ke
-  Ae kaash main mar jaati ye din aane se pehle
+  Ae kaash maiṅ mar jaati ye din aane se pehle
   Hai aap ka sar aaj mere saamne rakha
-  Aap aayeṅ ge is haal mein socha hi nahiṅ tha
+  Aap aayeṅ ge is haal meiṅ socha hi nahiṅ tha
 # source_id: nohayonline:dca572bc94e4d15b77bc
 # source_url: https://www.nohayonline.com/details_content.php?id=2663
 # raw_sha256: 66666b500ab276a7c049d00a3eb66b5f4c5c3f523fa9ae670abaacae12b49b1e

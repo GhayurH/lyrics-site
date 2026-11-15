@@ -1,6 +1,6 @@
 ---
 title: "باپ کے سوگ میں چالیس برس روئے ہیں"
-alternateTitle: "Baap Ke Sog Mein"
+alternateTitle: "Baap Ke Sog Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,13 +11,13 @@ tags: []
 aliases: ["Baap Ke Sogh May"]
 published: true
 romanLyrics: |-
-  Baap ke sog mein chaalis baras roye haiṅ
+  Baap ke sog meiṅ chaalis baras roye haiṅ
   Aaj Sajjad hamesha ke liye soye haiṅ
 
   1
   Kabhi koshish bhi agar karte the so jaane ki
   Koi tasvir ubhar aati thi tarpaane ki
-  Gunjne lagti thi kaanoṅ mein Sakina ki fughaaṅ
+  Gunjne lagti thi kaanoṅ meiṅ Sakina ki fughaaṅ
 
   2
   Saamne jab bhi wuzu ke liye aaya paani
@@ -37,17 +37,17 @@ romanLyrics: |-
   5
   Har ghari hontoṅ pe nauha ye raha haaye Husain
   Aakhri saans bhi aai to kaha haaye Husain
-  Yaad mein baba ki duniya se gaye tashna dahaaṅ
+  Yaad meiṅ baba ki duniya se gaye tashna dahaaṅ
 
   6
   Khul gaya tauq magar dard ki shiddat na gai
   Beriyaṅ khul ke bhi zakhmoṅ ki aziyat na gai
-  Paaye ehsaas mein jakri rahi zanjir-e-giraaṅ
+  Paaye ehsaas meiṅ jakri rahi zanjir-e-giraaṅ
 
   7
   Ghar se jab Aabid-e-muztar ka janaaza nikla
   Sogwaaroṅ ki zabaanoṅ se ye nauha nikla
-  Aamir o Fakhri Madine mein thi ye aah o fughaaṅ
+  Aamir o Fakhri Madine meiṅ thi ye aah o fughaaṅ
 # source_id: nohayonline:32ba273eb0beac3e75ce
 # source_url: https://www.nohayonline.com/details_content.php?id=2113
 # raw_sha256: 229a35aef8e85b1b9382bd93fb37d571f90757aa1f3b931dc96033960c58678f

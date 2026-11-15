@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Yasrab nazar aaya
-  Kulsoom ne mahmil ke jo parde ko uthaaya
+  Kulsum ne mahmil ke jo parde ko uthaaya
   Apna tha watan aur paraaya nazar aaya
 
   1
@@ -23,7 +23,7 @@ romanLyrics: |-
   2
   Wo galiyaaṅ jahaaṅ Aun o Muhammad kabhi khele
   Abdullah wahaaṅ phirte the khaamosh akele
-  Har simt mein bachchoṅ ka saraapa nazar aaya
+  Har simt meiṅ bachchoṅ ka saraapa nazar aaya
 
   3
   Sughra ne khabar paai ke laut aaye musaafir
@@ -46,24 +46,24 @@ romanLyrics: |-
   Rone lagi jalta hua jhula nazar aaya
 
   7
-  Bin bhai ke daakhil hui jo apne hi ghar mein
-  Ghash aa gaya taaqat na rahi qalb o jigar mein
+  Bin bhai ke daakhil hui jo apne hi ghar meiṅ
+  Ghash aa gaya taaqat na rahi qalb o jigar meiṅ
   Begor o kafan bhai ka laasha nazar aaya
 
   8
-  Hujre mein nazar aaye nahiṅ Qasim o Akbar
-  Kehne lagi main chhor gayi thi ye bhara ghar
-  Ghar qabr ke maahaul mein dhalta nazar aaya
+  Hujre meiṅ nazar aaye nahiṅ Qasim o Akbar
+  Kehne lagi maiṅ chhor gayi thi ye bhara ghar
+  Ghar qabr ke maahaul meiṅ dhalta nazar aaya
 
   9
   Bistar to wahaaṅ Aun o Muhammad ke saje the
-  Aur taaq mein Asghar ke khilaune bhi rakhe the
+  Aur taaq meiṅ Asghar ke khilaune bhi rakhe the
   Lekin na koi khelne waala nazar aaya
 
   10
   Ae Sarwar o Rehaan gham-e-Shaah-e-Huda se
   Sayyidaaniyaaṅ uthi na kabhi farsh-e-aza se
-  Aaṅkhoṅ mein lahu hoṅtoṅ pe nauha nazar aaya
+  Aaṅkhoṅ meiṅ lahu hoṅtoṅ pe nauha nazar aaya
 # source_id: nohayonline:175dc1974efa63d64744
 # source_url: https://www.nohayonline.com/details_content.php?id=27
 # raw_sha256: 0a9e0fe19e4c9f8a3125728dd12591a021ae5c60e3ad323717c7dd4c5b74f9e8

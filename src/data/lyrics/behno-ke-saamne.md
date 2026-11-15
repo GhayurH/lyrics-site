@@ -14,14 +14,14 @@ romanLyrics: |-
   Ya qatil-e-jafa haaye gharib Husain
   Haaye gharib Husain
 
-  Kaata gaya hai dasht mein ek bhai ka gala
+  Kaata gaya hai dasht meiṅ ek bhai ka gala
   Behnoṅ ke saamne
   Khanjar tale Husain ne Ghazi ko di sada
   Behnoṅ ke saamne
 
   1
   Wo jaanta hai Aal-e-Nabi hai khari hui
-  Quraan pe paaoṅ rakhta hai zaalim ghari ghari
+  Quraaṅ pe paaoṅ rakhta hai zaalim ghari ghari
   Zulfeṅ pakar ke Shaah ki haṅsta hai behaya
   Behnoṅ ke saamne
 
@@ -33,14 +33,14 @@ romanLyrics: |-
 
   3
   Baba ko maarta hai wo daulat ke waaste
-  Hai jis ke paas jo mere daaman mein daal de
+  Hai jis ke paas jo mere daaman meiṅ daal de
   Phaila ke haath deti hai bachchi koi sada
   Behnoṅ ke saamne
 
   4
   Kaise bachaane bhai ko wo bhai aayega
   Zainab pukaari ab use koi na de sada
-  Sharminda hoga dasht mein Abbas-e-bawafa
+  Sharminda hoga dasht meiṅ Abbas-e-bawafa
   Behnoṅ ke saamne
 
   5
@@ -52,12 +52,12 @@ romanLyrics: |-
   6
   Har beti Bu Turab ki ye dekhti rahi
   Do bhaiyoṅ pe kaisi qayaamat guzar gayi
-  Ek ke badan mein tir the tiroṅ pe ek tha
+  Ek ke badan meiṅ tir the tiroṅ pe ek tha
   Behnoṅ ke saamne
 
   7
-  Tha Karbala ke ban mein Takallum ajib haal
-  Apne lahu mein laal hua Fatima ka laal
+  Tha Karbala ke ban meiṅ Takallum ajib haal
+  Apne lahu meiṅ laal hua Fatima ka laal
   Sajde se sar Husain ka neze pe aa gaya
   Behnoṅ ke saamne
 reciter: Shahid Baltistani

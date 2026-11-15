@@ -14,15 +14,15 @@ romanLyrics: |-
   Zanjir bhi hai tan pe hai aur saath sipaahi
 
   1
-  Sayyid ne kai saal ruku mein haiṅ guzaare
+  Sayyid ne kai saal ruku meiṅ haiṅ guzaare
   Ro ro ke ye zindan bhi deta hai gawaahi
 
   2
-  Ya Rab koi pardes mein mar jaaye na qaidi
+  Ya Rab koi pardes meiṅ mar jaaye na qaidi
   Mayyat pe na beta hai behan aur na bhai
 
   3
-  Be gor o kafan laash thi Baghdad ke pul par
+  Begor o kafan laash thi Baghdad ke pul par
   Lutti rahi bejurm hi Zehra ki kamaai
 
   4
@@ -34,7 +34,7 @@ romanLyrics: |-
   Deti rahi mayyat pe Zehra ye duhaai
 
   6
-  Baghdad mein saadaat pe jo zulm hue haiṅ
+  Baghdad meiṅ saadaat pe jo zulm hue haiṅ
   Har dard ki taarikh ye deti hai gawaahi
 # source_id: nohayonline:3681a50c43ce0f10a12d
 # source_url: https://www.nohayonline.com/details_content.php?id=1227

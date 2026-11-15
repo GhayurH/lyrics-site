@@ -32,7 +32,7 @@ romanLyrics: |-
 
   5
   Aayi nida-e-Khaaliq meri raza ke maalik
-  Main Karbala se pehle tu Karbala ke baad
+  Maiṅ Karbala se pehle tu Karbala ke baad
 
   6
   Ujra hai jis tarah se ghar Fatima ka Shahid

@@ -1,6 +1,6 @@
 ---
 title: "قرآن و علی علم کا معیار ہیں دونوں"
-alternateTitle: "Quran O Ali Ilm Ka Maiyaar Haiṅ Donoṅ"
+alternateTitle: "Quran o Ali Ilm Ka Maiyaar Haiṅ Donoṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -17,7 +17,7 @@ romanLyrics: |-
   1
   Aashiq mere Maula ke haiṅ donoṅ haiṅ wafaadaar
   Ek Hazrat-e-Isa haiṅ to ek Maisam-e-Tammaar
-  Haider ki muhabbat mein sar-e-daar haiṅ donoṅ
+  Haider ki muhabbat meiṅ sar-e-daar haiṅ donoṅ
 
   2
   Khud kahte haiṅ kuffaar ye daawa nahiṅ mera
@@ -25,29 +25,29 @@ romanLyrics: |-
   Ghaazi ke liye ret ki diwaar haiṅ donoṅ
 
   3
-  Kaam aa gai turbat mein meri ulfat-e-Hasnain
+  Kaam aa gai turbat meiṅ meri ulfat-e-Hasnain
   Apne hi aqide ke mile mujh ko Naqirain
   Meri tarah Maula ke azaadaar haiṅ donoṅ
 
   4
-  Fitrus yahi kahta hua urta hai hawa mein
-  Kaabe mein dua maaṅg lo ya Karb o Bala mein
+  Fitrus yahi kahta hua urta hai hawa meiṅ
+  Kaabe meiṅ dua maaṅg lo ya Karb o Bala meiṅ
   Shabbair shahanshaah ke darbaar haiṅ donoṅ
 
   5
   Maare gae talwaar se jab Marhab o Antar
   Ashaab-e-Payambar se kaha maut ne haṅs kar
-  Do aae the maidaan mein ab chaar haiṅ donoṅ
+  Do aae the maidaan meiṅ ab chaar haiṅ donoṅ
 
   6
   Ek sajda-e-maabud se muṅh se mor raha hai
   Ek halqa-e-maatam se hameṅ tor raha hai
-  Tum kuchh bhi kaho asl mein ghaddaar haiṅ donoṅ
+  Tum kuchh bhi kaho asl meiṅ ghaddaar haiṅ donoṅ
 
   7
   Ek hai shab-e-Meraaj Payambar se mukhaatib
   Ek hai sar-e-darbaar sitamgar se mukhaatib
-  Lahje mein magar Haider-e-Karraar haiṅ donoṅ
+  Lahje meiṅ magar Haider-e-Karraar haiṅ donoṅ
 
   8
   Kaaṅte kabhi phul ki tarah ho nahiṅ sakte

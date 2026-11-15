@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Jawaaṅ ki laash uthaana bahot hi mushkil hai
-  Phir usko khaime mein laana bahot hi mushkil hai
+  Phir usko khaime meiṅ laana bahot hi mushkil hai
 
   1
   Husain sina-e-Akbar se khinch leṅge sina
@@ -27,8 +27,8 @@ romanLyrics: |-
   Badan se kurta chhuraana bahot hi mushkil hai
 
   4
-  Itne tukroṅ mein bati laasha-e-Qasim ban mein
-  Chun ke ik gathri mein laana bahot hi mushkil hai
+  Itne tukroṅ meiṅ bati laasha-e-Qasim ban meiṅ
+  Chun ke ik gathri meiṅ laana bahot hi mushkil hai
 
   5
   Kaha ye Sughra se Abid ne zakhm itne haiṅ
@@ -39,11 +39,11 @@ romanLyrics: |-
   Nishaaṅ rasan ke dikhaana bahot hi mushkil hai
 
   7
-  Hijaab mein bhi na jaaye sharif zaadi jahaaṅ
+  Hijaab meiṅ bhi na jaaye sharif zaadi jahaaṅ
   Bina rida wahaaṅ jaana bahot hi mushkil hai
 
   8
-  Teri karimi hai Sajjad ghar mein qaatil ko
+  Teri karimi hai Sajjad ghar meiṅ qaatil ko
   Bula ke khaana khilaana bahot hi mushkil hai
 
   9

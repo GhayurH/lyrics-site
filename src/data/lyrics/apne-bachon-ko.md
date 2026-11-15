@@ -34,7 +34,7 @@ romanLyrics: |-
   Haaṅ magar laasha-e-Akbar pe tarap kar roi
 
   4
-  Maaṅgne aaya jo khaime mein jari ran ki raza
+  Maaṅgne aaya jo khaime meiṅ jari ran ki raza
   Jor ke haathoṅ ko khaamosh khara tha saqqa
   Dekh kar apne baraadar ka jhuka sar roi
   Haaṅ magar laasha-e-Akbar pe tarap kar roi
@@ -42,7 +42,7 @@ romanLyrics: |-
   5
   Jin ko paani na mila haaye re wo khasta jigar
   Qatra-e-aab ko tarse hue un bachchoṅ par
-  Dasht mein Sher-e-Khuda aap ki dukhtar roi
+  Dasht meiṅ Sher-e-Khuda aap ki dukhtar roi
   Haaṅ magar laasha-e-Akbar pe tarap kar roi
 
   6
@@ -58,7 +58,7 @@ romanLyrics: |-
   Haaṅ magar laasha-e-Akbar pe tarap kar roi
 
   8
-  Gham tha bas hashr mein Izhaar yehi Zainab ko
+  Gham tha bas hashr meiṅ Izhaar yehi Zainab ko
   Aa gaya yaad jo hamshakl-e-Nabi Zainab ko
   Dekh kar naana ko aise sar-e-mehshar roi
   Jis tarah laasha-e-Akbar pe tarap kar roi

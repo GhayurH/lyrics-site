@@ -1,6 +1,6 @@
 ---
 title: "عباس ہوں حیدر کی عبادت کی جزا ہوں"
-alternateTitle: "Abbas Hoon Haider Ki Ibadat Ki Jaza Hoon"
+alternateTitle: "Abbas Huṅ Haider Ki Ibadat Ki Jaza Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -17,47 +17,47 @@ romanLyrics: |-
 
   1
   Khaliq ne jahaṅ dar pe utara hai sitara
-  Main ne usi chaukhat pe hi sab waqt guzara
+  Maiṅ ne usi chaukhat pe hi sab waqt guzara
   Dehliz pe Zahra ki qamar ban ke jala huṅ
 
   2
   Dunya ye jise kehti hai Ghazi ki adaeṅ
-  Maaṅ ne ye mujhe ghutti mein bakhshi haiṅ wafaeṅ
+  Maaṅ ne ye mujhe ghutti meiṅ bakhshi haiṅ wafaeṅ
   Bachpan se yehi dars-e-wafa roz parha huṅ
 
   3
   Jo kaam liya karta hai Rab lauh o qalam se
-  Wo kaam liya karta huṅ main mashk o alam se
-  In haathoṅ se main rizq-e-jahaṅ baant raha huṅ
+  Wo kaam liya karta huṅ maiṅ mashk o alam se
+  In haathoṅ se maiṅ rizq-e-jahaṅ baant raha huṅ
 
   4
   Do khas hijabat bane Bint-e-Wali ke
   Ek Fatema Zahra ne diya ek Ali ne
-  Ek chadar-e-tathir to ek main wo rida huṅ
+  Ek chadar-e-tathir to ek maiṅ wo rida huṅ
 
   5
-  Aaghosh mein maaṅ ki meri chalti rahiṅ saanseṅ
+  Aaghosh meiṅ maaṅ ki meri chalti rahiṅ saanseṅ
   Shabbir pe aa jaane talak kholi na aankheṅ
-  Bachpan se main Shabbir ka zawwar raha huṅ
+  Bachpan se maiṅ Shabbir ka zawwar raha huṅ
 
   6
   Mere liye malbus nahiṅ aaye Jinaṅ se
   Haathoṅ se magar khud siye Khatun-e-Jinaṅ ne
-  Tathir ke malbus pehan kar main pala huṅ
+  Tathir ke malbus pehan kar maiṅ pala huṅ
 
   7
   Biphre hue ek sher ki shamshir zani ki
   Ek mashk thi Siffin meri tishnalabi ki
-  Main pyaas se larta hua Abbas bana huṅ
+  Maiṅ pyaas se larta hua Abbas bana huṅ
 
   8
   Kaabe ki fasiloṅ se sar-e-dasht-e-shahadat
   Lipta hua qadmoṅ se raha saaye ki surat
-  Shabbir ke har naqsh-e-kaf-e-pa mein basa huṅ
+  Shabbir ke har naqsh-e-kaf-e-pa meiṅ basa huṅ
 
   9
-  Alhamd ki surat huṅ main aaghaz pe Akbar
-  Wan Nas ki surat huṅ main aakhir pe muqarrar
+  Alhamd ki surat huṅ maiṅ aaghaz pe Akbar
+  Wan Nas ki surat huṅ maiṅ aakhir pe muqarrar
   Yuṅ Surah-e-Kausar ki hifazat pe khara huṅ
 # source_id: tajpoints:6b4ed145b71528cb38c2
 # source_url: https://tajpoints.com/2018/02/abbas-hoon-haider-ki-ibadat-ki-jaza-hoon.html

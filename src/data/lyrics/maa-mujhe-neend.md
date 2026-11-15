@@ -11,13 +11,13 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maa ko jalte hue khaimoṅ mein wo tarpaati hai
+  Maa ko jalte hue khaimoṅ meiṅ wo tarpaati hai
   Ek ujri hui turbat se sada aati hai
 
-  Seene laga lo lori suna do mujhko sula do maa
+  Sine laga lo lori suna do mujhko sula do maa
   Maa mujhe nind aati hai
 
-  Shaam-e-gharibaaṅ mein Asghar ne ran se pukaara maa
+  Shaam-e-gharibaaṅ meiṅ Asghar ne ran se pukaara maa
   Maa nind aati hai nind aati hai
 
   1
@@ -33,8 +33,8 @@ romanLyrics: |-
   Maa nind aati hai nind aati hai
 
   3
-  Teri qasam maa tir gale par khaa kar main nahiṅ tarpa
-  Dekh ke behta khuṅ mere muṅh se baba roye main nahiṅ roya
+  Teri qasam maa tir gale par khaa kar maiṅ nahiṅ tarpa
+  Dekh ke behta khuṅ mere muṅh se baba roye maiṅ nahiṅ roya
   Lekin ae maa tir se mujhko dard hua tha maa
   Maa nind aati hai nind aati hai
 
@@ -46,8 +46,8 @@ romanLyrics: |-
 
   5
   Bhaiya Ali Akbar se zyaada zakhmi hai mera seena
-  Sehm gaya dil chauṅk gaya main naiza jo mujhko maara
-  Main to sukuṅ se qabr mein apni soya hua tha maa
+  Sehm gaya dil chauṅk gaya maiṅ naiza jo mujhko maara
+  Maiṅ to sukuṅ se qabr meiṅ apni soya hua tha maa
   Maa nind aati hai nind aati hai
 
   6
@@ -58,8 +58,8 @@ romanLyrics: |-
 
   7
   Naize se Sajjad tarap kar maa se Asghar bole
-  Kaise uthaati god mein mujhko maa tu bandhe haathoṅ se
-  Shaam se pehle mar gaya main bhi achchha hua na maa
+  Kaise uthaati god meiṅ mujhko maa tu bandhe haathoṅ se
+  Shaam se pehle mar gaya maiṅ bhi achchha hua na maa
   Maa nind aati hai nind aati hai
 # source_id: nohayonline:53c13cff48905df601ac
 # source_url: https://www.nohayonline.com/details_content.php?id=1535

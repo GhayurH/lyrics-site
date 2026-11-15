@@ -1,6 +1,6 @@
 ---
 title: "کرتا رہوں گا شکرِ خدا میں حسین ہوں"
-alternateTitle: "Main Husain Huṅ"
+alternateTitle: "Maiṅ Husain Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,44 +11,44 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Karta rahuṅ ga shukr-e-Khuda main Husain huṅ
-  Khanjar ke niche duṅ ga dua main Husain huṅ
+  Karta rahuṅ ga shukr-e-Khuda maiṅ Husain huṅ
+  Khanjar ke niche duṅ ga dua maiṅ Husain huṅ
 
   1
   Mal luṅ ga apne rukh pe lahu apne laal ka
-  Phir bhi na uf karuṅ ga zara main Husain huṅ
+  Phir bhi na uf karuṅ ga zara maiṅ Husain huṅ
 
   2
   Aeri ragarta hoga jahaaṅ mera naujawaaṅ
-  Hoga wahiṅ burhaapa mera main Husain huṅ
+  Hoga wahiṅ burhaapa mera maiṅ Husain huṅ
 
   3
-  Hai baazuoṅ mein mere kate baazuoṅ ki laaj
-  Dekhe zamaana meri wafa main Husain huṅ
+  Hai baazuoṅ meiṅ mere kate baazuoṅ ki laaj
+  Dekhe zamaana meri wafa maiṅ Husain huṅ
 
   4
   Fidya diya tha tum ne to patti thi aaṅkh par
-  Dekho Khalil mujh ko zara main Husain huṅ
+  Dekho Khalil mujh ko zara maiṅ Husain huṅ
 
   5
   Ruh-e-Rasul nikli mere khushk halq se
-  Qaatil samajh raha hai mera main Husain huṅ
+  Qaatil samajh raha hai mera maiṅ Husain huṅ
 
   6
-  Sajde mein the Husain to gardan pe thi chhuri
-  Maula ne tab Khuda se kaha main Husain huṅ
+  Sajde meiṅ the Husain to gardan pe thi chhuri
+  Maula ne tab Khuda se kaha maiṅ Husain huṅ
 
   7
-  Ab Karbala ke dasht mein gunjegi siskiyaaṅ
-  Zehra kareṅ gi mujh pe buka main Husain huṅ
+  Ab Karbala ke dasht meiṅ gunjegi siskiyaaṅ
+  Zehra kareṅ gi mujh pe buka maiṅ Husain huṅ
 
   8
   Tathir berida hai to Kaaba beghilaaf
-  Laasha bhi bekafan hai mera main Husain huṅ
+  Laasha bhi bekafan hai mera maiṅ Husain huṅ
 
   9
   Karte raheṅ ge Aamir o Nayyar meri aza
-  Donoṅ pe hogi meri ata main Husain huṅ
+  Donoṅ pe hogi meri ata maiṅ Husain huṅ
 # source_id: nohayonline:6f14338705ef53fabd0a
 # source_url: https://www.nohayonline.com/details_content.php?id=3494
 # raw_sha256: d6581d4ae8f1c3737938f334564c45d06cb36513c5e0770ac6e3d49da9818826

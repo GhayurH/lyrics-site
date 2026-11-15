@@ -20,7 +20,7 @@ romanLyrics: |-
   1
   Malka-e-Shaam mahv-e-hairat hai
   Khaak par nur ki jamaat hai
-  Be ridaai se dil pashemaan hai
+  Beridaai se dil pashemaan hai
 
   2
   Waqt rota hai gham nasiboṅ par

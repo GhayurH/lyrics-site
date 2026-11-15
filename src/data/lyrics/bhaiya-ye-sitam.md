@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zindan-e-sitam mein kehti thi
+  Zindan-e-sitam meiṅ kehti thi
   Abid se Sakina ro ro kar
   Bhaiya ye sitam kab tak hoṅge
 
@@ -22,15 +22,15 @@ romanLyrics: |-
   1
   Afsos ki aisi manzil par
   Taqdir hameṅ le aayi hai
-  Ek din mein luta hai saara ghar
+  Ek din meiṅ luta hai saara ghar
   Ab chaaroṅ taraf tanhaai hai
   Kya koi taras na khaayega
-  Pardes mein Aal-e-Ahmad par
+  Pardes meiṅ Aal-e-Ahmad par
 
   2
   Ye kitna bhayaanak zindaaṅ hai
   Dil mera bahut ghabraata hai
-  Main kaaṅpne lagti huṅ us dam
+  Maiṅ kaaṅpne lagti huṅ us dam
   Jab Shimr-e-laiṅ aa jaata hai
   Saaṅseṅ bhi meri ruk jaati hai
   Us zaalim ki ghurki sun kar
@@ -44,7 +44,7 @@ romanLyrics: |-
   Wo jab chaahe tab jaaye ghar
 
   4
-  Main Karb o Bala se qaid talak
+  Maiṅ Karb o Bala se qaid talak
   Jab royi ghut ghut kar royi
   Aur gyaarah Muharram se ab tak
   Ek pal ke liye bhi na soyi
@@ -60,15 +60,15 @@ romanLyrics: |-
   Mere shashmaahe bhai par
 
   6
-  Lagta hai ke ab is zindaan mein
-  Main ghut ghut kar mar jaauṅgi
-  Qismat mein nahiṅ hai ghar jaana
+  Lagta hai ke ab is zindaan meiṅ
+  Maiṅ ghut ghut kar mar jaauṅgi
+  Qismat meiṅ nahiṅ hai ghar jaana
   Sughra se bhi mil na paauṅgi
   Yaad aati hai mujh ko ab har pal
   Bimaar meri pyaari khwaahar
 
   7
-  Main chaar baras ki huṅ lekin
+  Maiṅ chaar baras ki huṅ lekin
   Har zulm o sitam mujh pe tuta
   Jitna bhi lainoṅ ne chaaha
   Bin baap ki bachchi ko maara

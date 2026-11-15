@@ -32,10 +32,10 @@ romanLyrics: |-
 
   Aisa na saalaar dobaara hua
   Aisa na sardaar dobaara hua
-  Kaise jari Shah ke lashkar mein the
+  Kaise jari Shah ke lashkar meiṅ the
   Aisa na jarraar dobaara hua
-  Maidaaṅ mein jama rahaa
-  Aadaa mein data rahaa
+  Maidaaṅ meiṅ jama rahaa
+  Aadaa meiṅ data rahaa
   Dekha na aisa koi jaidaar alamdaar
 
   Abbas alamdaar Abbas alamdaar
@@ -49,8 +49,8 @@ romanLyrics: |-
   Jitna bara naam hai waisa hi kaam
   Itna buland aap ka Maula maqaam
   Aap ke mashkur haiṅ saare Imaam
-  Dil dil mein basa hua
-  Ghar ghar mein saja hua
+  Dil dil meiṅ basa hua
+  Ghar ghar meiṅ saja hua
   Paak alam aur alamdaar
 
   Abbas alamdaar Abbas alamdaar
@@ -80,7 +80,7 @@ romanLyrics: |-
   Alamdaar Karbala alamdaar
 
   Jang ki khaatir to na Ghaazi gaya
-  Us ka to dil mashk-e-Sakina mein tha
+  Us ka to dil mashk-e-Sakina meiṅ tha
   Pyaas pe saadaat ki qurbaaṅ hua
   Warna ye nau laakh ka lashkar tha kya
   Paani jo na laa saka
@@ -99,7 +99,7 @@ romanLyrics: |-
   Abbas alamdaar Abbas alamdaar
 
   Parcham-e-Abbas pe aaya karo
-  Saaye mein is ke sadaa baitha karo
+  Saaye meiṅ is ke sadaa baitha karo
   Chaahte ho gar duaa manzur ho
   Nauha Sakina ka sunaaya karo
   Parcham se jure raho
@@ -114,7 +114,7 @@ romanLyrics: |-
   Alamdaar Karbala alamdaar
 
   Jab hua Shabbir se Ghaazi judaa
-  Khaima-e-saadaat mein kohraam tha
+  Khaima-e-saadaat meiṅ kohraam tha
   Zainab o Kulsum ki gunji sadaa
   Haaye re Abbas mera na rahaa
   Ham sab pe fidaa hua

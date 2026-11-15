@@ -1,6 +1,6 @@
 ---
 title: "وہ غدیرِ خم میں اذاں ہوئی"
-alternateTitle: "Woh Ghadeer-e-Khum Mein Azaaṅ Hui"
+alternateTitle: "Woh Ghadir-e-Khum Meiṅ Azaaṅ Hui"
 recitationId: "ghadeer-e-khum-mohsin-naqvi"
 language: Urdu
 lang: ur
@@ -12,7 +12,7 @@ aliases: ["ghadeer-e-khum-mohsin-naqvi"]
 published: true
 romanLyrics: |-
   1
-  Woh Ghadeer-e-Khum mein azaaṅ hui woh saji khayaal ki anjuman
+  Woh Ghadir-e-Khum meiṅ azaaṅ hui woh saji khayaal ki anjuman
   Woh rukh-e-shuur pe zu pari woh barha hayaat ka baaṅkpan
 
   2
@@ -20,12 +20,12 @@ romanLyrics: |-
   Lab aarzu pe dhanak pari khila khwaahishoṅ ka hasin chaman
 
   3
-  Dil-e-kehkashaaṅ mein utar gayi woh rida-e-dasht shikan shikan
+  Dil-e-kehkashaaṅ meiṅ utar gayi woh rida-e-dasht shikan shikan
   Woh sawaariyoṅ ke qadam ruke, jhuke farsh par woh thake badan
 
   4
   Woh falak ko dekh ke haṅs para rukh regzaar ka bholpan
-  Woh zamin ke dil mein hai aarzu keh milaaye aaṅkh zara gagan
+  Woh zamin ke dil meiṅ hai aarzu keh milaaye aaṅkh zara gagan
 
   5
   Su-e-Murtaza barhe Mustafa bamizaaj-e-rasm o raah-e-kafan

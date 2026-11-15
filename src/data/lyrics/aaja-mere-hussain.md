@@ -19,17 +19,17 @@ romanLyrics: |-
   Aaja mere Husain
 
   1
-  Tera janaza maqtal mein tanha
-  Main ro rahi huṅ ghurbat mein tanha
-  Tu ne uthaye laashon hai pe laashe
-  Kaise rahe maa hai mushkil mein beta
-  Maaṅ huṅ main beta Husain
+  Tera janaza maqtal meiṅ tanha
+  Maiṅ ro rahi huṅ ghurbat meiṅ tanha
+  Tu ne uthaye laashoṅ hai pe laashe
+  Kaise rahe maa hai mushkil meiṅ beta
+  Maaṅ huṅ maiṅ beta Husain
 
   2
   Chalta tha meri ungli ko thaame
   Karti thi tujh par aanchal ke saaye
-  Tu dhup mein reh gaya su-e-maqtal
-  Aaja tujhe maaṅ kafan mein chhupaaye
+  Tu dhup meiṅ reh gaya su-e-maqtal
+  Aaja tujhe maaṅ kafan meiṅ chhupaaye
   Mehsus kar maaṅ ke bain
 
   3

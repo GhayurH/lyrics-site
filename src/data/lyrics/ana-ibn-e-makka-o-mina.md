@@ -15,7 +15,7 @@ romanLyrics: |-
   Bayaaṅ karta huṅ darbar-e-Shaam ka manzar
   Jahaaṅ the saat sau kursi nashiṅ fitna gar
   Yazid jhum raha tha sharaab pi pi kar
-  Aur aisi bazm mein afsos Aal-e-Paighambar
+  Aur aisi bazm meiṅ afsos Aal-e-Paighambar
 
   Tha un ke saamne ek badkalaam mimbar par
   Bayaaṅ karta tha jhuthe Yazid ke jauhar
@@ -27,7 +27,7 @@ romanLyrics: |-
   Are jahaaṅ ho zikr-e-bad atwaar wo mimbar kab hai
   Lakriyoṅ ka hai wo anbaar wo mimbar kab hai
 
-  Kaha Yazid se kuch main kahuṅ ijaazat de
+  Kaha Yazid se kuch maiṅ kahuṅ ijaazat de
   Yazid chup tha to darbari saare kehne lage
   Yazid de de ijaazat ise bhi kehne de
   Ye kya kahega larazta hai jo naqahat se
@@ -45,10 +45,10 @@ romanLyrics: |-
   Woh akela tha magar surat-e-lashkar aaya
   Labkusha surat-e-Quran wo Haider aaya
   Jab wo khaamosh zabaaṅ bar sar-e-darbar chali
-  Karbala mein na chali thi jo wo talwaar chali
+  Karbala meiṅ na chali thi jo wo talwaar chali
 
   2
-  Lehja-e-nur mein Maula ne kaha Bismillah
+  Lehja-e-nur meiṅ Maula ne kaha Bismillah
   Laiq-e-hamd o sana hai to wohi ek Khuda
   Jis ne hum Aal-e-Muhammad ko hai takhliq kiya
   Jis ko maalum hai maalum hai mera shajra
@@ -56,23 +56,23 @@ romanLyrics: |-
 
   3
   Hum ko Allah ne chhe khubiyaaṅ bakhshiṅ bakhuda
-  Ilm aur hilm diya aur dil-e-momin mein rakha
+  Ilm aur hilm diya aur dil-e-momin meiṅ rakha
   Hai samaat o fasaahat o shujaat wirsa
   Kam na thiṅ khubiyaaṅ chhe go ke ye izzat ke liye
   Sifateṅ saat miliṅ aur fazilat ke liye
 
   4
-  Hum mein awwal jo the wo Ahmad-e-Mukhtar huwe
+  Hum meiṅ awwal jo the wo Ahmad-e-Mukhtar huwe
   Koi Hamza to koi Jafar-e-Tayyar huwe
   Hum hi Haider huwe Abbas-e-Alamdar huwe
   Hum ko Meraaj-e-risaalat bhi imaamat bhi mili
-  Hum ko mehraab-e-ibaadat mein shahaadat bhi mili
+  Hum ko mehraab-e-ibaadat meiṅ shahaadat bhi mili
 
   5
   Us ka farzand huṅ seh roz raha jo pyaasa
   Darmiyaaṅ zin o zamiṅ jis ka raha tha laasha
   Jis ke sajde ke sabab khaak bani khaak-e-shifa
-  Khaak aur khun mein duba tha amaama jis ka
+  Khaak aur khun meiṅ duba tha amaama jis ka
   Sum-e-asb-ha tale ronda gaya laasha jis ka
 
   6
@@ -92,9 +92,9 @@ romanLyrics: |-
   8
   Baat jab khul gayi saadaat-e-Muhammad haiṅ yahaaṅ
   Ro diye ahl-e-jafa ubhra baghaawat ka samaaṅ
-  Aur isi shor mein haakim ne diya hukm-e-azaaṅ
+  Aur isi shor meiṅ haakim ne diya hukm-e-azaaṅ
   Saat afraad jo yak musht azaaṅ dene lage
-  Haq mein Sajjad ke darbari bayaaṅ dene lage
+  Haq meiṅ Sajjad ke darbari bayaaṅ dene lage
 
   9
   Jab muazzin ne kiya kalma-e-takbir ada
@@ -107,21 +107,21 @@ romanLyrics: |-
   Aib kiuṅ apne chhupaata hai azaaneṅ de kar
   The agar tere Muhammad to sitam kiuṅ hum par
   Daal is tauq pe zanjir pe ek baar nazar
-  Zakhm jo tu ne diye sab dil-e-bimaar mein haiṅ
-  Betiyaaṅ haiṅ ye Muhammad ki jo darbar mein haiṅ
+  Zakhm jo tu ne diye sab dil-e-bimaar meiṅ haiṅ
+  Betiyaaṅ haiṅ ye Muhammad ki jo darbar meiṅ haiṅ
 
   11
   Tu to kehta hai ke hai dhong nauzubillah
   Na Payambar na wahi aayi na Quran utra
-  Phir azaaneṅ bhi tu darbar mein hai dilwaata
+  Phir azaaneṅ bhi tu darbar meiṅ hai dilwaata
   Le munaafiq tere chehre se utarti hai naqaab
   Jis ka munkir hai wo Quran tera lega hisaab
 
   12
   Is shaqaawat pe bhi hum haare nahiṅ jit gaye
-  Naam azaanoṅ mein tumhaare nahiṅ hum jit gaye
+  Naam azaanoṅ meiṅ tumhaare nahiṅ hum jit gaye
   Kya ye qudrat ke ishaare nahiṅ hum jit gaye
-  Yak ba yak fath-e-mubin sab ko nazar aane lagi
+  Yak ba yak fath-e-mubiṅ sab ko nazar aane lagi
   Marhaba Sayyid-e-Sajjad sada chhaane lagi
 
   13

@@ -1,6 +1,6 @@
 ---
 title: "رن میں یہ کہتے تھے رو کے سرور"
-alternateTitle: "Ran Mein Ye Kehte"
+alternateTitle: "Ran Meiṅ Ye Kehte"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

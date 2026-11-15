@@ -13,7 +13,7 @@ romanLyrics: |-
   1
   Mar jaye jo farzand to kya chaara hai
   Haaṅ marg ilaaj-e-dil-e-sad paara hai
-  Asghar ko litaa qabr mein kehte the Husain
+  Asghar ko litaa qabr meiṅ kehte the Husain
   Aaram karo ab yehi gehwara hai
 # source_id: nohayonline:d2f44cd8394124a2bf93
 # source_url: https://www.nohayonline.com/details_content.php?id=1242

@@ -11,33 +11,33 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Be tegh ran ko jaata hai Bano ka naunihaal
+  Betegh ran ko jaata hai Bano ka naunihaal
   Kamsin hai bhuka pyaasa hai Bano ka naunihaal
 
   1
-  Apni aba mein us ko chhupa lo kari hai dhup
+  Apni aba meiṅ us ko chhupa lo kari hai dhup
   Is gulbadan ka dhup se saulaṅ na jaaye rup
   Naazuk bahut ziyaada hai Bano ka naunihaal
 
   2
-  Maidaaṅ mein tir chalte haiṅ Maula na jaaiye
+  Maidaaṅ meiṅ tir chalte haiṅ Maula na jaaiye
   Maadar ka dil dahalta hai ghar laut aaiye
   Tiroṅ ki zad pe aaya hai Bano ka naunihaal
 
   3
   Jhule ko dekh dekh kar phatta hai maaṅ ka dil
-  Asghar ke saath dasht mein jaata hai maaṅ ka dil
+  Asghar ke saath dasht meiṅ jaata hai maaṅ ka dil
   Nusrat ko Shah ki jaata hai Bano ka naunihaal
 
   4
   Baali Sakina rok rahi hai pakar ke haath
-  Bhaiya na jaao ran ko main kheluṅgi kis ke saath
+  Bhaiya na jaao ran ko maiṅ kheluṅgi kis ke saath
   Roko na mujh ko kehta hai Bano ka naunihaal
 
   5
   Kis ne kaha ke pyaas se rota tha shirkhwaar
   Izn-e-jihaad maang raha tha woh baar baar
-  Maidaaṅ mein muskuraaya hai Bano ka naunihaal
+  Maidaaṅ meiṅ muskuraaya hai Bano ka naunihaal
 
   6
   Jore zabaaṅ ka tir laboṅ ki kamaan se
@@ -45,13 +45,13 @@ romanLyrics: |-
   Khaibar shikan ka pota hai Bano ka naunihaal
 
   7
-  Aaya pa-e-jihaad woh maqtal mein jhule se
+  Aaya pa-e-jihaad woh maqtal meiṅ jhule se
   Do ghutniyoṅ bhi chal nahiṅ sakta tha is liye
   Baba ko saath laaya hai Bano ka naunihaal
 
   8
   Dekho chala woh tir kamaaṅ se su-e-saghir
-  Kaaṅpi zamiṅ-e-Karb o Bala roe be zamir
+  Kaaṅpi zamiṅ-e-Karb o Bala roe bezamir
   Jab tir kha ke tarpa hai Bano ka naunihaal
 
   9

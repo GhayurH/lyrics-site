@@ -16,7 +16,7 @@ romanLyrics: |-
   Apne ghamoṅ ko bhul ke karte ho shah ka gham
   Maula koi gham na de siwaaye gham-e-Husain
 
-  Aaye ho tum jahaaṅ mein baraaye gham-e-Husain
+  Aaye ho tum jahaaṅ meiṅ baraaye gham-e-Husain
 
   1
   Karte ho tum azaa-e-shahanshaah-e-Karbala
@@ -29,8 +29,8 @@ romanLyrics: |-
   Jin maaoṅ ne bachaai sadaa-e-gham-e-Husain
 
   3
-  Baithe na apne ghar mein shahaadat ke khauf se
-  Sar pe kafan pehen ke julusoṅ mein jo chale
+  Baithe na apne ghar meiṅ shahaadat ke khauf se
+  Sar pe kafan pehen ke julusoṅ meiṅ jo chale
   Jo apni jaan de ke bachaaye gham-e-Husain
 
   4
@@ -44,18 +44,18 @@ romanLyrics: |-
   Jo sab luta ke apna nibhaaye gham-e-Husain
 
   6
-  Shaayar ho maatami ya koi sozkhwaan ho
+  Shaayar ho maatami ya koi sozkhwaaṅ ho
   Zaakir ho woh Husain ka ya nauhakhwaan ho
   Farsh-e-aza pe jo bhi sunaaye gham-e-Husain
 
   7
   Abbas-e-baawafa ke alam ko sajaaye jo
   Taabut Fatima ke pisar ka uthaaye jo
-  Ghar mein bichhaaye farsh-e-azaa-e-gham-e-Husain
+  Ghar meiṅ bichhaaye farsh-e-azaa-e-gham-e-Husain
 
   8
   Karte haiṅ shah ki Mesum o Salman naukri
-  Hai waqf zikr-e-Karb o Bala mein ye zindagi
+  Hai waqf zikr-e-Karb o Bala meiṅ ye zindagi
   Dete raheṅge hum ye duaa-e-gham-e-Husain
 # source_id: nohayonline:64747ec5b2b366756767
 # source_url: https://www.nohayonline.com/details_content.php?id=2533

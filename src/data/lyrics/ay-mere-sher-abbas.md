@@ -21,7 +21,7 @@ romanLyrics: |-
   Tu na aaya bhaiya ae mere sher Abbas
 
   2
-  Aag khaimoṅ mein lainoṅ ne laga di aakar
+  Aag khaimoṅ meiṅ lainoṅ ne laga di aakar
   Durre barsaye Sakina pe yehi keh keh kar
   Kahaṅ hai ab tera chacha ae ghamzada ae ghamzada
   Ab kahaṅ hai saqqa ae mere sher Abbas
@@ -33,20 +33,20 @@ romanLyrics: |-
   Kuchh na bas mera chala ae mere sher Abbas
 
   4
-  Mere Ghazi mere haathoṅ mein bandhi jab rassi
-  Sar jhuka kar ke bahut der tak talak main royi
+  Mere Ghazi mere haathoṅ meiṅ bandhi jab rassi
+  Sar jhuka kar ke bahut der tak talak maiṅ royi
   Ae bawafa ae bawafa ae bawafa ae bawafa
   Rukh su-e-darya tha ae mere sher Abbas
 
   5
-  Ek rassi mein gala sab ka bandha tha bhai
+  Ek rassi meiṅ gala sab ka bandha tha bhai
   Haal us waqt Sakina ka juda tha bhai
   Ae bawafa ae bawafa ae bawafa ae bawafa
   Us ka dam ghutta tha ae mere sher Abbas
 
   6
-  Jab tera khaali alam khun mein duba aaya
-  Main usi waqt se ye jaan gayi ae bhaiya
+  Jab tera khaali alam khun meiṅ duba aaya
+  Maiṅ usi waqt se ye jaan gayi ae bhaiya
   Ae bawafa ae bawafa ae bawafa ae bawafa
   Ab to bas hogi jafa ae mere sher Abbas
 
@@ -69,7 +69,7 @@ romanLyrics: |-
   Jab khula sar mera ae mere sher Abbas
 
   10
-  Hum ko jab Shaam ke bazaar mein maare patthar
+  Hum ko jab Shaam ke bazaar meiṅ maare patthar
   Aur dahakte hue angaare jo daale hum par
   Ae bawafa ae bawafa ae bawafa ae bawafa
   Tu bahut yaad aaya ae mere sher Abbas

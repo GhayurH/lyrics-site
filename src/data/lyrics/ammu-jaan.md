@@ -25,9 +25,9 @@ romanLyrics: |-
 
   3
   Baagh Nabi gulzaar Ali
-  Paamaal kiye ran mein aada
+  Paamaal kiye ran meiṅ aada
   Na baba na bhaiya
-  Ret hai ban mein laashoṅ ka
+  Ret hai ban meiṅ laashoṅ ka
   Jaye taraai dil ko kushaai
   Kar gaye kunbe ko veeraan
 
@@ -57,7 +57,7 @@ romanLyrics: |-
 
   7
   Shayda mere saqqa
-  Mere jangal mein huṅ uftaada
+  Mere jangal meiṅ huṅ uftaada
   Wa darda wa darda
   Haye sajjada la takiya
   Ret pe jalti laash hai tapti
@@ -75,9 +75,9 @@ romanLyrics: |-
   Shimr bad akhtar kheṅch ke khanjar
   Khauf na laa kar kaata gala
   Sayyed ka murshad ka
-  Daagh mujhe kam sini mein diya
+  Daagh mujhe kam sini meiṅ diya
   Maare sadaqaat maah imaamat
-  Ho gaya mitti mein viraan
+  Ho gaya mitti meiṅ viraan
 
   10
   Sina-e-Sarwar haye sitamgar

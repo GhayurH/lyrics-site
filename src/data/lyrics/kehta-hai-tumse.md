@@ -31,7 +31,7 @@ romanLyrics: |-
   Wo gham jo har sharif ke dil ko rula gaya
   Wo gham jise haraarat-e-imaaṅ kaha gaya
   Wo gham jo din-e-haq ka muqaddar bana gaya
-  Roz-e-azal se kaun o makaaṅ mein kiya gaya
+  Roz-e-azal se kaun o makaaṅ meiṅ kiya gaya
 
   4
   Wo gham ke jis ne murda zamireṅ jila diye
@@ -41,8 +41,8 @@ romanLyrics: |-
 
   5
   Wo gham ke jis ko Zainab-e-dilgir ne kiya
-  Bepardagi mein chaadar-e-tathir ne kiya
-  Dasht-e-bala mein Maadar-e-Shabbir ne kiya
+  Bepardagi meiṅ chaadar-e-tathir ne kiya
+  Dasht-e-bala meiṅ Maadar-e-Shabbir ne kiya
   Tauq-e-gulu ne paaoṅ ki zanjir ne kiya
 
   6
@@ -61,17 +61,17 @@ romanLyrics: |-
   Kiuṅ kar na inteqaam ko machle gi Zulfiqaar
   Wo bhi hai Ahl-e-Bait-e-Nabuwwat ki sogwaar
   Wo dekhti hai Shaah-e-zamaana hai ashkbaar
-  Hoti hai wo bhi saath mein Maula ke beqaraar
+  Hoti hai wo bhi saath meiṅ Maula ke beqaraar
 
   9
   Taabuti taaqatoṅ se nahiṅ ho sakega kam
   Waada hai ye Khuda-e-Muhammad ka ahl-e-gham
-  Tufaan-e-haadisaat mein rukte nahiṅ qadam
+  Tufaan-e-haadisaat meiṅ rukte nahiṅ qadam
   Dil ko sukuṅ hai saath hai Abbas ka alam
 
   10
-  Karta hai Taaha majlis-e-Sarwar mein ye fughaaṅ
-  Aarif hamaari nazroṅ mein wo taab hai kahaaṅ
+  Karta hai Taaha majlis-e-Sarwar meiṅ ye fughaaṅ
+  Aarif hamaari nazroṅ meiṅ wo taab hai kahaaṅ
   Dekhe jo haal-e-Maadar-e-Shabbir khasta jaaṅ
   Allah dil shikasta Shah-e-Karbala ki maaṅ
 # source_id: nohayonline:b8542fc0deed72e11546

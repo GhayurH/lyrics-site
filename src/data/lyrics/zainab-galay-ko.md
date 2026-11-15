@@ -23,12 +23,12 @@ romanLyrics: |-
 
   2
   Zainab gharib ho gayi kuchh bhi nahiṅ bacha
-  Laashe utha ke Aun o Muhammad ke main zara
+  Laashe utha ke Aun o Muhammad ke maiṅ zara
   Ek baar phir utaar luṅ sadqa to jaaiye
 
   3
-  Jaane na deti barchhiyoṅ waaloṅ meiṅ main kabhi
-  Wo maaṅ hai aur kaniz huṅ bhaiya main aap ki
+  Jaane na deti barchhiyoṅ waaloṅ meiṅ maiṅ kabhi
+  Wo maaṅ hai aur kaniz huṅ bhaiya maiṅ aap ki
   Ran meiṅ bula rahi hai jo Zehra to jaaiye
 
   4
@@ -38,7 +38,7 @@ romanLyrics: |-
 
   5
   Lagta hai ran meiṅ aap ka karta hai intezaar
-  Lehra raha hai haath mein khanjar wo baar baar
+  Lehra raha hai haath meiṅ khanjar wo baar baar
   Bhaiya badal le Shimr iraada to jaaiye
 
   6

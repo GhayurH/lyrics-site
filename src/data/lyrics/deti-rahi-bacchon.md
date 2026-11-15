@@ -12,27 +12,27 @@ aliases: []
 published: true
 romanLyrics: |-
   Deti rahi bachchoṅ ko Sakina ye dilaase
-  Paani ka main keh aayi huṅ Abbas chacha se
+  Paani ka maiṅ keh aayi huṅ Abbas chacha se
 
   1
-  Mashkiza rakha main ne jo shaane pe chacha ke
+  Mashkiza rakha maiṅ ne jo shaane pe chacha ke
   Rone lage baaba unheṅ sine se laga ke
   Roti thi phuphi dhaanp ke munh apna rida se
 
   2
-  Tarpe the chacha jis ghari main ne ye kaha tha
+  Tarpe the chacha jis ghari maiṅ ne ye kaha tha
   Zinda nahiṅ reh paayega chhe maah ka bachcha
   Mar jaaye na Asghar kahiṅ seh roz ke pyaase
 
   3
   Haathoṅ se kisi kuzoṅ ko girne nahiṅ dena
   Ae pyaas ke maaro abhi kuchh hausla rakhna
-  Kuchh der mein bhar jaayeṅge paani se ye kaase
+  Kuchh der meiṅ bhar jaayeṅge paani se ye kaase
 
   4
   Ho jaayega darya pe abhi qabza hamaara
   Saahil pe unheṅ koi bhi aawaaz na dena
-  Bhatke na dhyaan un ka kahiṅ ran mein sada se
+  Bhatke na dhyaan un ka kahiṅ ran meiṅ sada se
 
   5
   Mashkize ki karte haiṅ yuṅ haathoṅ se hifaazat
@@ -41,7 +41,7 @@ romanLyrics: |-
 
   6
   Haaye mere baaba ka baraadar hua zakhmi
-  Wo mashk chhidi beh gaya maidaan mein paani
+  Wo mashk chhidi beh gaya maidaan meiṅ paani
   Bach jaaye chacha sab ye dua maango Khuda se
 
   7

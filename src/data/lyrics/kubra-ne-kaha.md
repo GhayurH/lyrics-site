@@ -37,7 +37,7 @@ romanLyrics: |-
   Ek shab ki bani se ho ke khafa
 
   5
-  Mazlum bane be yaar bane
+  Mazlum bane beyaar bane
   Marti hai bani ghamkhwaar bane
   Batlao to apna haal zara
 

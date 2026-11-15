@@ -12,18 +12,18 @@ aliases: []
 published: true
 romanLyrics: |-
   Aabid ne kaha aa ke qarib Bint-e-Ali se
-  Ab su-e-watan chaliye phuphi jaan main sadqe
+  Ab su-e-watan chaliye phuphi jaan maiṅ sadqe
 
   1
   Sun kar ye khabar zakhm-e-jigar phat gaye saare
   Marqad se lipat kar kiye Zainab ne ye naale
-  Main jab bhi watan jaauṅ gi bhaiya
+  Maiṅ jab bhi watan jaauṅ gi bhaiya
   Bin tere na ghar jaauṅ gi bhaiya
   Athaara baras ka Ali Akbar bhi yahiṅ hai
   Chhe maah ka nanha Ali Asghar bhi yahiṅ hai
   Hai khaak basar Farwa ka dilbar
   Paamaal badan Qasim-e-Muztar
-  Kis dil se main ghar jaauṅ gi bhaiya
+  Kis dil se maiṅ ghar jaauṅ gi bhaiya
 
   2
   Kya din the ke aabaad tha Zehra ka gulistaaṅ
@@ -34,30 +34,30 @@ romanLyrics: |-
 
   3
   Abbas se aur tum se hai Zainab ko nadaamat
-  Zindaan mein chhor aayi huṅ donoṅ ki amaanat
+  Zindaan meiṅ chhor aayi huṅ donoṅ ki amaanat
   Kya tut gayi mujh pe qayaamat
   Kis darja hai Zainab ko khajaalat
   Wo lab pe nahiṅ laauṅ gi bhaiya
 
   4
-  Sota hai mera dhup mein nanha Ali Asghar
+  Sota hai mera dhup meiṅ nanha Ali Asghar
   Kehti hai ye Bano ke hai waali bhi yahiṅ par
-  Zindaan mein ik mar gayi dukhtar
-  Baithe gi na ab saaye mein maadar
-  Kya keh ke main samjhaauṅ gi bhaiya
+  Zindaan meiṅ ik mar gayi dukhtar
+  Baithe gi na ab saaye meiṅ maadar
+  Kya keh ke maiṅ samjhaauṅ gi bhaiya
 
   5
   Taiyaar nahiṅ su-e-watan jaane ko Laila
-  Wo kehti hai main chhor duṅ kis tarah se tanha
+  Wo kehti hai maiṅ chhor duṅ kis tarah se tanha
   Athaara baras ka mera beta
-  Reh jaaye ga is ban mein akela
+  Reh jaaye ga is ban meiṅ akela
   Kaise use samjhaauṅ gi bhaiya
 
   6
-  Aamad ki khabar sun ke Anees aayeṅ ge saare
+  Aamad ki khabar sun ke Anis aayeṅ ge saare
   Ye nil numaaya hai jo baazu pe rasan ke
   Gar puchh liya mujh se kisi ne
-  Batlaauṅ gi un ko main ye kaise
+  Batlaauṅ gi un ko maiṅ ye kaise
   Bas sharm se mar jaauṅ gi bhaiya
 # source_id: nohayonline:d030a65a62cf621791fd
 # source_url: https://www.nohayonline.com/details_content.php?id=348

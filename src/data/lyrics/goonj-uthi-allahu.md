@@ -14,48 +14,48 @@ romanLyrics: |-
   Sheh ne kaha bete se utho Akbar jawaaṅ
   Uth jaao do azaan Allahu Akbar Allahu Akbar
 
-  Gunj uthi Allahu Akbar ki sada maidaan mein
-  Hashr barpa ho gaya hai ya Khuda maidaan mein
+  Gunj uthi Allahu Akbar ki sada maidaan meiṅ
+  Hashr barpa ho gaya hai ya Khuda maidaan meiṅ
 
   1
   Aakhri hai aaj hamshakl-e-Payambar ki azaaṅ
   Ab fizaaeṅ sun na paayegi ye Akbar ki azaaṅ
-  Reh gaya hil kar dil-e-Shaah-e-Huda maidaan mein
+  Reh gaya hil kar dil-e-Shaah-e-Huda maidaan meiṅ
 
   2
-  Saath bete ko liye Shabbir khaime mein gaye
+  Saath bete ko liye Shabbir khaime meiṅ gaye
   Rukhsat-e-Akbar hai bole Shaah-e-diṅ rote hue
-  Bibiyoṅ ghar lut gaya Akbar chala maidaan mein
+  Bibiyoṅ ghar lut gaya Akbar chala maidaan meiṅ
 
   3
   Pakre haiṅ daaman koi to thaame shaana hai koi
   Jaa raha hai ghar se Akbar ya janaaza hai koi
-  Sab ki khwaahish hai na jaaye mah laqa maidaan mein
+  Sab ki khwaahish hai na jaaye mah laqa maidaan meiṅ
 
   4
   Ye hai jis ka laal wo hai Fatema Zehra ka laal
   Kuchh to kar lo Sibt-e-Payambar ki ghurbat ka khayaal
-  Kalma goyoṅ hai Shabih-e-Mustafa maidaan mein
+  Kalma goyoṅ hai Shabih-e-Mustafa maidaan meiṅ
 
   5
-  Shor maqtal mein uthaalo chal gaya barchhi ka waar
-  Ho gaya hai asl mein neza dil-e-Laila ka paar
-  Kab faqat ik qalb-e-Akbar ka chhida maidaan mein
+  Shor maqtal meiṅ uthaalo chal gaya barchhi ka waar
+  Ho gaya hai asl meiṅ neza dil-e-Laila ka paar
+  Kab faqat ik qalb-e-Akbar ka chhida maidaan meiṅ
 
   6
-  Khaa raha hai ran mein Akbar thokareṅ burha padar
-  Hai andhera us ki aankhoṅ mein nahiṅ aata nazar
-  Kis taraf aaye bata baaba tera maidaan mein
+  Khaa raha hai ran meiṅ Akbar thokareṅ burha padar
+  Hai andhera us ki aankhoṅ meiṅ nahiṅ aata nazar
+  Kis taraf aaye bata baaba tera maidaan meiṅ
 
   7
   Shaah ne Akbar ke sine se sinaaṅ to kheṅch li
   Jism kya larza zamin-e-Karbala hilne lagi
-  Baap ke haathoṅ pe beta mar gaya maidaan mein
+  Baap ke haathoṅ pe beta mar gaya maidaan meiṅ
 
   8
   Kiuṅ Shajaaat aur Ahsan ho na ab nauha kunaaṅ
   Dekh paayegi na chashm-e-dahr Akbar sa jawaaṅ
-  Aa gayi hai ye jawaani ko qaza maidaan mein
+  Aa gayi hai ye jawaani ko qaza maidaan meiṅ
 # source_id: nohayonline:dad6692d30f356b90af6
 # source_url: https://www.nohayonline.com/details_content.php?id=859
 # raw_sha256: d45f003b77eed997e5fb5954b701f982b9c90cd44fba78145db6e33cd73cbf54

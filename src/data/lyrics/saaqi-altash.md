@@ -31,7 +31,7 @@ romanLyrics: |-
   3
   Sun lo ae baawafa Al Atash ki sada
   Shiddat se pyaas ki jina mushkil hua
-  Kuze haathoṅ mein hai aur lab pe iltija
+  Kuze haathoṅ meiṅ hai aur lab pe iltija
   Paani le aao is se pehle ke aaye qaza
   Mere pyaare chacha Abal Fazlil Abbas
   Saaqi Al Atash ae Abal Fazlil Abbas
@@ -56,7 +56,7 @@ romanLyrics: |-
   Dekho sukhi zabaaṅ ae Mir-e-Kaarwaaṅ
   Tum se bole nahiṅ to phir jaaye kahaaṅ
   Zulmat ki dhup hai aur tum ho saaybaaṅ
-  Tum to is Dasht-e-Bala mein ho sab ka aasra
+  Tum to is Dasht-e-Bala meiṅ ho sab ka aasra
   Mere pyaare chacha Abal Fazlil Abbas
   Saaqi Al Atash ae Abal Fazlil Abbas
 
@@ -86,11 +86,11 @@ romanLyrics: |-
   Fizza ne di khabar bibiyoṅ pito sar
   Tha jis ka aasra so gaya nehr par
   Pyaase ghash kha gaye ro diye bahr o bar
-  Khaimoṅ mein Mazhar o Irfan ye kohraam tha
+  Khaimoṅ meiṅ Mazhar o Irfan ye kohraam tha
   Saaqi Al Atash ae Abal Fazlil Abbas
 
   11
-  Do laashe aise hai khaimoṅ mein nahiṅ aaye
+  Do laashe aise hai khaimoṅ meiṅ nahiṅ aaye
   Ek laasha Sarwar ka ek laasha Ghaazi ka
 # source_id: nohayonline:6c3cd021fb686c686db6
 # source_url: https://www.nohayonline.com/details_content.php?id=2227

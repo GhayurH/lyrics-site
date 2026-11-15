@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Husain bole Sakina se tum na ghabraana
-  Jo nind aaye to maqtal mein tum chali aana
+  Jo nind aaye to maqtal meiṅ tum chali aana
 
   1
   Mujhe pata hai bohat zulm dhaaye jaaeṅge
@@ -35,8 +35,8 @@ romanLyrics: |-
   Na mujh ko aur na ammu ko dhundhne aana
 
   5
-  Sukun tum se mile to sukun se mar bhi sakuṅ
-  Phir apne baad ki manzil se main guzar bhi sakuṅ
+  Sukun tum se mile to sukuṅ se mar bhi sakuṅ
+  Phir apne baad ki manzil se maiṅ guzar bhi sakuṅ
   Yaqiṅ dilaauṅ ke tum ne mera kaha maana
 
   6
@@ -46,22 +46,22 @@ romanLyrics: |-
 
   7
   Hai tum se meri mulaaqaat aakhiri Bibi
-  Main tum se mil nahiṅ paauṅga ab kabhi Bibi
+  Maiṅ tum se mil nahiṅ paauṅga ab kabhi Bibi
   Chhalakne waala hai ab zindagi ka paimaana
 
   8
-  Diloṅ mein kya hai zamaane ka koi thik nahiṅ
+  Diloṅ meiṅ kya hai zamaane ka koi thik nahiṅ
   Koi bhi bekas o mazlum ka sharik nahiṅ
   Meri behen jahaaṅ jaaye wahaaṅ chali jaana
 
   9
   Mohabbatoṅ se bhari tujh se guftugu kar luṅ
-  Jo dil mein reh gayi zaahir wo aarzu kar luṅ
+  Jo dil meiṅ reh gayi zaahir wo aarzu kar luṅ
   Ab aane waala hai meri ajal ka parwaana
 
   10
   Husain chal diye beti se guftugu kar ke
-  Akele pan mein na rone ki aarzu kar ke
+  Akele pan meiṅ na rone ki aarzu kar ke
   Surur phir bhi Sakina ka dil nahiṅ maana
 # source_id: nohayonline:8c5664b2ddc9eede606e
 # source_url: https://www.nohayonline.com/details_content.php?id=3749

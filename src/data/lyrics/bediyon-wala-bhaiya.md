@@ -14,16 +14,16 @@ romanLyrics: |-
   Haaye bimaar mera beriyoṅ waala bhaiya
 
   1
-  Haaṅ yatimi mein mere naaz uthaata bhaiya
+  Haaṅ yatimi meiṅ mere naaz uthaata bhaiya
 
   2
-  Raah-e-pur khaar mein kuch mujhko aziyat na mili
+  Raah-e-pur khaar meiṅ kuch mujhko aziyat na mili
   Seh li taklif to lekin meri gardan na khinchi
   Bas yehi soch ke phir sar na uthaaya bhaiya
 
   3
   Pair jalte the mere bhai ke har gaam magar
-  Dhup mein jalti zamiṅ par main qadam rakhti jidhar
+  Dhup meiṅ jalti zamiṅ par maiṅ qadam rakhti jidhar
   Apne saaye se wahaaṅ saaya banaata bhaiya
 
   4

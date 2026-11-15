@@ -14,23 +14,23 @@ romanLyrics: |-
   Ya Baab-e-Hawaaij Maula
   Mazduroṅ ke kaandhoṅ par Kaazim ka janaaza hai
   Baghdad ke qaidi par zindaan bhi rota hai
-  Is dard ne turbat mein Sajjad ko tarpaaya
+  Is dard ne turbat meiṅ Sajjad ko tarpaaya
   Zindaaṅ se nikal kar bhi aazaad na ho paaya
-  Hai pehla janaaza jo zanjiroṅ mein jakra hai
+  Hai pehla janaaza jo zanjiroṅ meiṅ jakra hai
 
   1
   Zanjiroṅ ko takti hai shaanoṅ ko hilaati hai
-  Mayyat ko kabhi apni godi mein uthaati hai
+  Mayyat ko kabhi apni godi meiṅ uthaati hai
   Ik haath hai pehlu par lagta hai ye Zahra hai
 
   2
   Zarre bhi lahu ro kar rudaad sunaate haiṅ
-  Qadmoṅ ke nishaaṅ is ke zindaaṅ mein bataate haiṅ
-  Ye naza ke aalam mein kis tarah se tarpa hai
+  Qadmoṅ ke nishaaṅ is ke zindaaṅ meiṅ bataate haiṅ
+  Ye naza ke aalam meiṅ kis tarah se tarpa hai
 
   3
-  Jo log guzarte haiṅ aapas mein ye kehte haiṅ
-  Ghar waale to Yasrab mein is qaidi ke rehte haiṅ
+  Jo log guzarte haiṅ aapas meiṅ ye kehte haiṅ
+  Ghar waale to Yasrab meiṅ is qaidi ke rehte haiṅ
   Phir is ke janaaze par ye kaun zaifa hai
 
   4
@@ -50,7 +50,7 @@ romanLyrics: |-
 
   7
   Ghurbat hai Takallum ye Shabbir ki ghurbat si
-  Ik beti hai Yasrab mein Sughra ki tarah is ki
+  Ik beti hai Yasrab meiṅ Sughra ki tarah is ki
   Is waaste mayyat ka rukh su-e-Madina hai
 # source_id: nohayonline:de08a2f780864d811299
 # source_url: https://www.nohayonline.com/details_content.php?id=1602

@@ -1,6 +1,6 @@
 ---
 title: "بستہ بہ زنجیر بستہ بہ زنجیر"
-alternateTitle: "Basta Ba Zanjeer"
+alternateTitle: "Basta Ba Zanjir"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,23 +11,23 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Basta ba zanjeer basta ba zanjeer
+  Basta ba zanjir basta ba zanjir
   Jumla yatima haaye
   Aah Husaina Shaah-e-shahidaaṅ
-  Basta ba zanjeer jumla yatima
+  Basta ba zanjir jumla yatima
 
   Jalte hue ghar lutti ridaaeṅ
   Kis ko sada de kis ko bulaaeṅ
 
   1
-  Ek zanjeer-e-sitam baarah asiroṅ ke gale
+  Ek zanjir-e-sitam baarah asiroṅ ke gale
   Us pe ye hukm ke har pir o jawaaṅ tez chale
   Ee sitam haaye Husaina
   Pusht pe parte rahe saath durroṅ ke nishaaṅ
 
   2
   Ek bimaar asiroṅ ka jo salaar bana
-  Thaame zanjeer-e-sitam jaanib-e-darbaar chala
+  Thaame zanjir-e-sitam jaanib-e-darbaar chala
   Ee sitam haaye Husaina
   Roya Shabbir ka sar bar sar-e-nok-e-sinaaṅ
 
@@ -35,11 +35,11 @@ romanLyrics: |-
   Dhup se pyaar hai saaye se sarokaar nahiṅ
   Koi Bano ki tarah bekas o ghamkhwaar nahiṅ
   Ee sitam haaye Husaina
-  Kaise Asghar ke bina saaye mein jaayegi maaṅ
+  Kaise Asghar ke bina saaye meiṅ jaayegi maaṅ
 
   4
   Umm-e-Laila ka jigar ho gaya paara paara
-  Us ne dekha hai jawaaṅ laal ke dil mein neza
+  Us ne dekha hai jawaaṅ laal ke dil meiṅ neza
   Ee sitam haaye Husaina
   Muṅh ko aata hai jigar sunti hai jab bhi azaaṅ
 
@@ -53,7 +53,7 @@ romanLyrics: |-
   Wo jo lashkar ka alamdaar tha dasht Shabbir
   Bar lab-e-nehr likhi jis ne wafa ki tahrir
   Ee sitam haaye Husaina
-  Wo nahiṅ hai to nahiṅ ab mere jism mein jaaṅ
+  Wo nahiṅ hai to nahiṅ ab mere jism meiṅ jaaṅ
 
   7
   Kaan zakhmi hai gala khushk jala hai daaman
@@ -68,7 +68,7 @@ romanLyrics: |-
   Apne is haal pe bhi kar nahiṅ paaye fughaaṅ
 
   9
-  Nauha Rehaan asiroṅ ki zabaaṅ mein likh kar
+  Nauha Rehaan asiroṅ ki zabaaṅ meiṅ likh kar
   Is qadar roya qalam ho gaya qirtaas bhi tar
   Ae meri jaan Husaina
   Farsh-e-majlis pe hue qalb o jaaṅ nauha kunaaṅ

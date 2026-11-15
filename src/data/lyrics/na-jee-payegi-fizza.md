@@ -16,18 +16,18 @@ romanLyrics: |-
   Ro ro ke teri qabr pe mar jaayegi Fizza
 
   1
-  Bibi tujhe main ne kabhi tanha nahiṅ chhora
-  Had ye hai masaaib mein bhi rishta nahiṅ tora
+  Bibi tujhe maiṅ ne kabhi tanha nahiṅ chhora
+  Had ye hai masaaib meiṅ bhi rishta nahiṅ tora
   Nauha yehi turbat pe parhi jaayegi Fizza
 
   2
-  Dushwaar hai pardes mein is gham ka uthaana
-  Mat aalam-e-ghurbat mein mujhe chhor ke jaana
+  Dushwaar hai pardes meiṅ is gham ka uthaana
+  Mat aalam-e-ghurbat meiṅ mujhe chhor ke jaana
   Kya jaa ke watan waaloṅ ko batlaayegi Fizza
 
   3
   Zakhmoṅ se tapakta hai abhi khun badan pe
-  Kaala hai abhi nil bhi shaanoṅ mein rasan ke
+  Kaala hai abhi nil bhi shaanoṅ meiṅ rasan ke
   Kis tarha kafan laash ko pehnaayegi Fizza
 
   4
@@ -36,14 +36,14 @@ romanLyrics: |-
   Sar pit ke turbat pe ye chillaayegi Fizza
 
   5
-  Pardes mein ye kis ki nazar kha gayi Bibi
-  Main zinda rahi tum ko ajal aa gayi Bibi
+  Pardes meiṅ ye kis ki nazar kha gayi Bibi
+  Maiṅ zinda rahi tum ko ajal aa gayi Bibi
   Ye daur judaai ka na seh paayegi Fizza
 
   6
   Phir qabr se aawaaz ye aayi kai baari
   Is zor se turbat pe na kar girya o zaari
-  Ammaaṅ meri turbat mein tarap jaayegi Fizza
+  Ammaaṅ meri turbat meiṅ tarap jaayegi Fizza
 
   7
   In zakhmoṅ ka Akhtar kabhi marham na milega

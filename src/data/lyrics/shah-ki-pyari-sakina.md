@@ -11,24 +11,24 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Aksar namaaz-e-shab mein dua karte the Shabbir
+  Aksar namaaz-e-shab meiṅ dua karte the Shabbir
   Ek phul si beti de mujhe kaatib-e-taqdir
 
   Shabbir ko Khaaliq ne Sakina jo ataa ki
   Zainab ki si surat thi sab us maah laqaa ki
-  Jis dam diya godi mein use laa ke chacha ki
+  Jis dam diya godi meiṅ use laa ke chacha ki
   Haathoṅ pe us ko le kar Ghaazi ne dua di
   Rakhe tujhe ae laadli Allah salaamat
-  Duniya mein tere sar pe rahe Shaah salaamat
+  Duniya meiṅ tere sar pe rahe Shaah salaamat
 
   Sakina Sakina
   Shaah ki pyaari Sakina laadli Abbaas ki
 
   1
-  Sirat-e-Zehra thi jis mein thi Sakina wo kitaab
-  God mein lete the Ghaazi aur kabhi Umm-e-Rabaab
+  Sirat-e-Zehra thi jis meiṅ thi Sakina wo kitaab
+  God meiṅ lete the Ghaazi aur kabhi Umm-e-Rabaab
   Sina-e-Shabbir par jo phul si khilti rahi
-  Zainab o Kulsum ke jo saaye mein palti rahi
+  Zainab o Kulsum ke jo saaye meiṅ palti rahi
 
   2
   Na kisi gham ka tasavvur tha na ranj o yaas ka
@@ -45,7 +45,7 @@ romanLyrics: |-
   4
   Dekhte hi dekhte wo do baras ki ho gai
   Bachchiyoṅ ke khelne ki umr hoti hai yehi
-  Khelti thi ghar ke aangan mein kabhi Sughra ke saath
+  Khelti thi ghar ke aangan meiṅ kabhi Sughra ke saath
   Ghumne jaati kabhi Akbar kabhi Baaba ke saath
 
   5
@@ -56,19 +56,19 @@ romanLyrics: |-
 
   6
   Algharaz bahr-e-safar jab ghar se nikle Shaah-e-diṅ
-  Raah mein kitni aziyat sah gai wo naazniṅ
-  Dasht mein pyaasi rahi aur baap ki furqat sahi
+  Raah meiṅ kitni aziyat sah gai wo naazniṅ
+  Dasht meiṅ pyaasi rahi aur baap ki furqat sahi
   Qaid ho kar phir wo bachchi Shaam ke zindaaṅ gai
 
   7
-  Umr ke baaqi jo din the wo guzaare qaid mein
-  Kal talak aabaad tha ghar ab haiṅ saare qaid mein
+  Umr ke baaqi jo din the wo guzaare qaid meiṅ
+  Kal talak aabaad tha ghar ab haiṅ saare qaid meiṅ
   Qaid khaane ke masaaib qalb par sahti rahi
   Haae Baaba haae Baaba raat din kehti rahi
 
   8
-  Maar daala qaid khaane mein use uftaad ne
-  Qabr mein us ko utaara Sayyad-e-Sajjaad ne
+  Maar daala qaid khaane meiṅ use uftaad ne
+  Qabr meiṅ us ko utaara Sayyad-e-Sajjaad ne
   Rauza-e-baali Sakina par jo Mazhar Aabidi
   Jaae ga Farhaan lab par hoga nauha bas yehi
 # source_id: nohayonline:154cee6060afd1869c4d

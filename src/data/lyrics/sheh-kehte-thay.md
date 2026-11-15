@@ -1,6 +1,6 @@
 ---
 title: "شہ کہتے تھے یہ ہاتھ ہٹاؤ علی اکبر"
-alternateTitle: "Sheh Kehte Thay"
+alternateTitle: "Sheh Kehte The"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -31,23 +31,23 @@ romanLyrics: |-
 
   4
   Jine nahiṅ de gi tumheiṅ zaalim ki ye barchhi
-  Maqtal mein tumhaare zara bimaar behan ki
+  Maqtal meiṅ tumhaare zara bimaar behan ki
   Kuchh der to baateiṅ kareiṅ aao Ali Akbar
 
   5
-  Jo dil mein the Zainab ke wo armaan barha luṅ
-  Is khuṅ bhare chehre pe main sehra to saja luṅ
+  Jo dil meiṅ the Zainab ke wo armaan barha luṅ
+  Is khuṅ bhare chehre pe maiṅ sehra to saja luṅ
   Thehro abhi duniya se na jaao Ali Akbar
 
   6
-  Main ne to sada di thi wo uthta nahiṅ Gulfaam
+  Maiṅ ne to sada di thi wo uthta nahiṅ Gulfaam
   Nazdik hai Ae laal mere asr ka hangaam
   Ghaazi ko azaaṅ de kar bulaao Ali Akbar
 
   7
   Tum hichkiyaaṅ lete ho nikalta hai mera dam
   Baazu bhi shikasta hue kaise karuṅ maatam
-  Main kya karuṅ ghurbat mein bataao Ali Akbar
+  Maiṅ kya karuṅ ghurbat meiṅ bataao Ali Akbar
 
   8
   Sheh bole Takallum ye qayaamat ki ghari thi

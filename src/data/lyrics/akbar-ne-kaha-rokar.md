@@ -12,7 +12,7 @@ published: true
 reciter: "Mir Hasan Mir"
 romanLyrics: |-
   Shabih-e-Imam-e-Zamaṅ khinchte haiṅ
-  Tasawwur mein tasvir-e-jaaṅ khinchte haiṅ
+  Tasawwur meiṅ tasvir-e-jaaṅ khinchte haiṅ
   Kaha ro ke Akbar ne Ae dard tham ja
   Ke sine se Baba sinaṅ khinchte haiṅ
 
@@ -23,7 +23,7 @@ romanLyrics: |-
 
   2
   Patti mere Baba ne aankhoṅ pe nahiṅ bandhi
-  Di hai khule haathoṅ se ran mein meri qurbani
+  Di hai khule haathoṅ se ran meiṅ meri qurbani
   Ae Dada Khalil aao hai waqt qayamat ka
 
   3
@@ -38,11 +38,11 @@ romanLyrics: |-
 
   5
   Dekha nahiṅ jaega aankhoṅ se kabhi meri
-  Tarpuṅga agar main to taklif unheṅ hogi
+  Tarpuṅga agar maiṅ to taklif unheṅ hogi
   Ulfat ka taqaza hai larze na badan mera
 
   6
-  Arman jo dil mein hai dil mein hi na dafna de
+  Arman jo dil meiṅ hai dil meiṅ hi na dafna de
   Aisa na ho Zainab ko ja kar koi batla de
   Pyari phuphi Ammaaṅ se bardasht na ye hoga
 
@@ -53,7 +53,7 @@ romanLyrics: |-
 
   8
   Kehta tha Takallum wo himmat jo meri hoti
-  Khud apne hi haathoṅ se main khinchta ye barchhi
+  Khud apne hi haathoṅ se maiṅ khinchta ye barchhi
   Taklif nahiṅ apni hai dard mujhe is ka
 # source_id: nohayonline:6fb6cd82043fb2ea1534
 # source_url: https://www.nohayonline.com/details_content.php?id=295

@@ -20,11 +20,11 @@ romanLyrics: |-
 
   2
   Phul se gaaloṅ pe kehte haiṅ tamaanchoṅ ke nishaaṅ
-  Kaash baba ko dikhaati main bitha kar Abid
+  Kaash baba ko dikhaati maiṅ bitha kar Abid
 
   3
   Ae musalmaanoṅ tumheiṅ ab na sataayegi sada
-  Bole turbat mein Sakina ko sula kar Abid
+  Bole turbat meiṅ Sakina ko sula kar Abid
 
   4
   Dekh kar khuṅ bhare kurte ko badan se chipka
@@ -40,7 +40,7 @@ romanLyrics: |-
 
   7
   Bhul na paayega momin ye judaai Yawar
-  Gham-e-Sakina ka chale dil mein basa kar Abid
+  Gham-e-Sakina ka chale dil meiṅ basa kar Abid
 # source_id: nohayonline:306868cbb842278190bf
 # source_url: https://www.nohayonline.com/details_content.php?id=838
 # raw_sha256: 90aa464307084f0e4c8b672f3b006d398e2eaf5f4babc62350094ebc816f7d3a

@@ -10,19 +10,19 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Asghar ka bhi shumaar bahattar mein ek hai
+  Asghar ka bhi shumaar bahattar meiṅ ek hai
 
   1
-  Humraahiyaan-e-Sibt-e-Payambar mein ek hai
-  Kehti hai kam sini ke ye ghar bhar mein ek hai
-  Kab ghaaziyoṅ mein fard hai lashkar mein ek hai
+  Humraahiyaan-e-Sibt-e-Payambar meiṅ ek hai
+  Kehti hai kam sini ke ye ghar bhar meiṅ ek hai
+  Kab ghaaziyoṅ meiṅ fard hai lashkar meiṅ ek hai
   Yaaṅ haajat-e-dalil gawaahi nahiṅ koi
-  Is umr ka jahaaṅ mein sipaahi nahiṅ koi
+  Is umr ka jahaaṅ meiṅ sipaahi nahiṅ koi
 
   2
   Karb o bala ka agarche taqaaza hai dam ba dam
   Lekin Husain kaise barhaaeṅ abhi qadam
-  Mahzar mein naam pure bahattar ke haiṅ raqam
+  Mahzar meiṅ naam pure bahattar ke haiṅ raqam
   Maujud sab haiṅ ek mujaahid magar hai kam
   Gar wo nahiṅ to jang kahaaṅ thi nahiṅ koi
   Phir Hurmala ka madd-e-muqaabil nahiṅ koi
@@ -36,7 +36,7 @@ romanLyrics: |-
   Chhera na koi kaar-e-shahaadat Husain ne
 
   4
-  Haaṅ jab talak ye aalam-e-anwaar mein nihaaṅ
+  Haaṅ jab talak ye aalam-e-anwaar meiṅ nihaaṅ
   Deta tha dast-e-qudrat-e-Haq us ko loriyaaṅ
   Aksar sitaare tor ke deti thi kahkashaaṅ
   Zid ki to pahro le ke tahalta tha aasmaaṅ
@@ -48,16 +48,16 @@ romanLyrics: |-
   Parhta tha kalma jis ki bhi par jaati thi nigaah
   Asghar bhi the jo waaqif-e-aadaab-e-rasm o raah
   Hairaan the farishte ke Allah ki panaah
-  Is bezabaan par ye samajh gul badan mein hai
-  Kalme ke badle kalme ki ungli dahan mein hai
+  Is bezabaan par ye samajh gul badan meiṅ hai
+  Kalme ke badle kalme ki ungli dahan meiṅ hai
 
   6
-  Hai kashmakash mein Baadshaah-e-aasmaaṅ janaab
+  Hai kashmakash meiṅ Baadshaah-e-aasmaaṅ janaab
   Asghar tarap rahe haiṅ ke ran ko chale shitaab
   Aur dil ye soch soch ke khaata hai pech o taab
   Jhula hua jo khaali to mar jaaye gi Rabab
-  Aakhir barhaae haath isi ghaur o khaus mein
-  Tuba ki shaan se jo gaye Kausar ke hauz mein
+  Aakhir barhaae haath isi ghaur o khaus meiṅ
+  Tuba ki shaan se jo gaye Kausar ke hauz meiṅ
 
   7
   Misl-e-kamand gesu-e-pechaaṅ liye hue

@@ -15,14 +15,14 @@ romanLyrics: |-
 
   1
   Har simt hai andhera har raah pur khatar hai
-  Dushman hai chaar jaanib dil mein chhupaaye kina
+  Dushman hai chaar jaanib dil meiṅ chhupaaye kina
 
   2
   Khaa khaa ke tum tamaache ghabra gayi ho shaayad
   Aa shaam sikh jaao bhi aansuoṅ ko pina
 
   3
-  Aa jaao main sula duṅ sar zaanuoṅ pe rakh kar
+  Aa jaao maiṅ sula duṅ sar zaanuoṅ pe rakh kar
   Zakhmi bahut hai Bibi tere pidar ka sina
 
   4
@@ -35,7 +35,7 @@ romanLyrics: |-
 
   6
   Haiṅ qaid-e-Shaam ki ab tanhaaiyaaṅ muqaddar
-  Bibi nasib mein ab tere nahiṅ Madina
+  Bibi nasib meiṅ ab tere nahiṅ Madina
 
   7
   Ye bekasi ye ghurbat ye dasht Nainawa ka

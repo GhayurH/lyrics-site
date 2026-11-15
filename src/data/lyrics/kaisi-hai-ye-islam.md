@@ -33,7 +33,7 @@ romanLyrics: |-
   Tere liye paani abhi laate haiṅ chacha dekh
 
   5
-  Be ghusl o kafan dafn hui naazoṅ ki paali
+  Beghusl o kafan dafn hui naazoṅ ki paali
   Kis haal meiṅ aai hai Sakina ko qaza dekh
 
   6

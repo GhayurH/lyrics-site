@@ -22,7 +22,7 @@ romanLyrics: |-
   Tu hi kabir tu hi kibriya tu raahnuma
   Rag-e-galu se bhi nazdik tu har ek lamha
   Hai tere naam ki taasir har maraz ki dawa
-  Hai tere zikr mein poshida mere haq mein shifa
+  Hai tere zikr meiṅ poshida mere haq meiṅ shifa
   Baghair maange hi karta hai tu ataa pe ataa
   Sada se pehle hi sunta hai saailoṅ ki sada
 
@@ -36,14 +36,14 @@ romanLyrics: |-
 
   3
   Mere Khuda wo zabaaneṅ jo teri hamd kare
-  Wo tere Panjatan-e-Paak ki dua mein rahe
+  Wo tere Panjatan-e-Paak ki dua meiṅ rahe
   Kabhi wo naar-e-jahannum ki sakhtiyaṅ na sahe
   Pul-e-siraat se bekhauf bekhatar guzre
   Gunahgaaroṅ ko ye aasra hai subh o masa
   Khula hua hai musalsal tera dar-e-tauba
 
   4
-  Rasul-e-Paak ke sadqe mein ae Khuda ghar ghar
+  Rasul-e-Paak ke sadqe meiṅ ae Khuda ghar ghar
   Shuaa-e-ilm ki kirnoṅ ka mustaqil ho guzar
   Khula rahe mere bachchoṅ pe shahr-e-ilm ka dar
   Rahe jawaanoṅ ki har dam teri riza pe nazar
@@ -52,8 +52,8 @@ romanLyrics: |-
 
   5
   Tu mere aib chhupaata hai daal kar parda
-  Ilaahi deta huṅ main tujh ko waasta us ka
-  Wohi jo Shaam-e-gharibaaṅ mein de rahi thi sada
+  Ilaahi deta huṅ maiṅ tujh ko waasta us ka
+  Wohi jo Shaam-e-gharibaaṅ meiṅ de rahi thi sada
   Nahiṅ hai kuchh bhi mere paas is rida ke siwa
   Rasulzaadi ke parde ki laaj rakh lena
   Bharam duaaoṅ ka meri bhi aaj rakh lena

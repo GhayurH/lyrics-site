@@ -37,12 +37,12 @@ romanLyrics: |-
   Kuchh to bolo aankheiṅ kholo Asghar behan bulaati hai
 
   4
-  Jab maqam-e-Ali Akbar pe padhunga nauha
+  Jab maqam-e-Ali Akbar pe parhunga nauha
   Aayegi Sughra ke rone ki Madine se sada
   Aaj bhi laashe pe maaṅ sehra liye roti hai
-  Baap ki aaj bhi hai laash-e-jawaṅ pe ye pukaar
+  Baap ki aaj bhi hai laash-e-jawaaṅ pe ye pukaar
   Apne lahu meiṅ aap sanwarne ke din na the
-  Akbar jawaṅ abhi tere marne ke din na the
+  Akbar jawaaṅ abhi tere marne ke din na the
 
   5
   Khaimagah dekh ke yaad aayega manzar saara
@@ -70,11 +70,11 @@ romanLyrics: |-
 
   8
   Hogi jab nazar-e-karam Ghazi ki Rehan o Raza
-  Karbala jaa ke main waapis jo watan aaunga
-  Log puchheṅge mera haal main batlaunga kya
+  Karbala jaa ke maiṅ waapis jo watan aaunga
+  Log puchheṅge mera haal maiṅ batlaunga kya
   Ashk haiṅ aankhoṅ meiṅ aur dil ko nahiṅ milta qaraar
   Ye dil bina Husain ke paaye sukuṅ kahaṅ
-  Dil Karbala meiṅ reh gaya main aa gaya yahaṅ
+  Dil Karbala meiṅ reh gaya maiṅ aa gaya yahaṅ
 # source_id: nohayonline:095f6cdea61d4230995e
 # source_url: https://www.nohayonline.com/details_content.php?id=2368
 # raw_sha256: fb82729602e5f45b7cd68b4bcb318fc7200ebb578a4cc3ebe00c4ebad282fb99

@@ -24,7 +24,7 @@ romanLyrics: |-
 
   2
   Kaan zakhmi haiṅ ab tak hamaare
-  Utho marham unheṅ main lagaa duṅ
+  Utho marham unheṅ maiṅ lagaa duṅ
   Gar tum na saath aao hamaare
   Kaise Ghaazi ko chehra dikhaauṅ
   Apne ammuṅ ki tum ho dulaari
@@ -44,8 +44,8 @@ romanLyrics: |-
   Mil gayi hai jo chaadar tumhaari
 
   5
-  Jab main jaauṅ gi apne watan ko
-  Ujre ghar ko main seh na sakuṅ gi
+  Jab maiṅ jaauṅ gi apne watan ko
+  Ujre ghar ko maiṅ seh na sakuṅ gi
   Meri maasuma meri Sakina
   Ye bataao use kya kahuṅ gi
   Tum ko puchhe jo behna tumhaari

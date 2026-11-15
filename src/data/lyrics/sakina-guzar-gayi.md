@@ -14,7 +14,7 @@ romanLyrics: |-
   Baba ko rone waali Sakina guzar gayi hai
 
   1
-  Zindaaṅ mein ye ghul hai haaṅ ye ghazab hua
+  Zindaaṅ meiṅ ye ghul hai haaṅ ye ghazab hua
   Saakit hai nabz haaye bachchi ko kya hua
   Kiuṅ sard dast paa hai Sakina guzar gayi hai
 
@@ -24,8 +24,8 @@ romanLyrics: |-
   Har Bibi ro rahi hai Sakina guzar gayi hai
 
   3
-  Baba ke gham mein bachchi ji bhar ke ro na paayi
-  Haaṅ ye shaqi ke dar se zindaaṅ mein so na paayi
+  Baba ke gham meiṅ bachchi ji bhar ke ro na paayi
+  Haaṅ ye shaqi ke dar se zindaaṅ meiṅ so na paayi
   Ab kaisi bekasi hai Sakina guzar gayi hai
 
   4
@@ -34,17 +34,17 @@ romanLyrics: |-
   Aabid tarap rahe haiṅ Sakina guzar gayi hai
 
   5
-  Baba ka khat kata sar jab zindaan mein wo paayi
+  Baba ka khat kata sar jab zindaan meiṅ wo paayi
   Hasrat se ro ke boli mushkil hai ab judaai
   Mehsus phir hua hai Sakina guzar gayi hai
 
   6
-  Hai chaar saal bachchi aur baaloṅ mein safedi
-  Kaanoṅ se khuṅ hai jaari zakhmoṅ mein chur qaidi
-  Zindaaṅ mein mar gayi hai Sakina guzar gayi hai
+  Hai chaar saal bachchi aur baaloṅ meiṅ safedi
+  Kaanoṅ se khuṅ hai jaari zakhmoṅ meiṅ chur qaidi
+  Zindaaṅ meiṅ mar gayi hai Sakina guzar gayi hai
 
   7
-  Zindaaṅ mein qayaamat hai shor-e-girya maatam
+  Zindaaṅ meiṅ qayaamat hai shor-e-girya maatam
   Ahsan tarap tarap ke likhta hai ab ye Aazam
   Zindaaṅ laraz raha hai Sakina guzar gayi hai
 # source_id: nohayonline:1bf9fe423941b8855240

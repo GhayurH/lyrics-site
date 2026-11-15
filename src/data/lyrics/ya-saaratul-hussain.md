@@ -18,7 +18,7 @@ romanLyrics: |-
   Garduṅ se aa rahi hai ye aawaaz-e-Jibrail
   Begor o bekafan hai wo Islam ka qatil
   Zainab hai berida to nahiṅ zakhm ki sabil
-  Ghurbat mein maara daala hai Zehra ke nur-e-ain
+  Ghurbat meiṅ maara daala hai Zehra ke nur-e-ain
 
   2
   Abbas-e-naamwar ke lahu se dhula hua
@@ -29,19 +29,19 @@ romanLyrics: |-
   3
   Dunya pe gir para aalam-e-Sher-e-Kirdigaar
   Barchhi sitam ki ho gayi Akbar ke dil ke paar
-  Umm-e-Rabaab ghash mein Sakina hai beqaraar
-  Asghar ko le ke aa gaye maidaan mein Husain
+  Umm-e-Rabaab ghash meiṅ Sakina hai beqaraar
+  Asghar ko le ke aa gaye maidaan meiṅ Husain
 
   4
   Allah re wo Shimr ka khanjar wo Shah ka sar
   Hilne lage the khaana-e-Kaaba ke baam o dar
   Dharti to kya falak ka bhi tukre hua jigar
-  Sakte mein maghribain the sakte mein mashriqain
+  Sakte meiṅ maghribain the sakte meiṅ mashriqain
 
   5
   Aal-e-Rasul qaid hue wa musibata
   Karbobala se lut ke chale wa musibata
-  Durre laga rahe haiṅ lain wa musibata
+  Durre laga rahe haiṅ laiṅ wa musibata
   Paamaaliyoṅ ki zad pe hai Zehra ke nur-e-ain
 
   6

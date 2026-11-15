@@ -18,7 +18,7 @@ romanLyrics: |-
 
   1
   Pehle hi ghamzada ne sahe haiṅ bare sitam
-  Bichhra hai kamsini mein pidar kam hai kya ye gham
+  Bichhra hai kamsini meiṅ pidar kam hai kya ye gham
   Bahr-e-Khuda ghamoṅ ki sataayi ko na sata
 
   2
@@ -38,7 +38,7 @@ romanLyrics: |-
 
   5
   Dekha hai jab se baap ka katta hua gala
-  Dar yuṅ basa hai dil mein larazti hai ghamzada
+  Dar yuṅ basa hai dil meiṅ larazti hai ghamzada
   Mar jaayegi seham ke ise aur na dara
 
   6
@@ -53,7 +53,7 @@ romanLyrics: |-
 
   8
   Ho kya bayaan Nadim wo ghurbat wo bekasi
-  Mehsus qaid-e-Shaam mein hota hai aaj bhi
+  Mehsus qaid-e-Shaam meiṅ hota hai aaj bhi
   Jaise ki de raha ho tarap kar koi sada
 # source_id: nohayonline:be643bdd188d70ae4d65
 # source_url: https://www.nohayonline.com/details_content.php?id=3083

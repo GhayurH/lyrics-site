@@ -14,7 +14,7 @@ romanLyrics: |-
   Abbas alamdaar alamdaar-e-Husaini
 
   Hat jaao Shaamiyoṅ hat jaao Kufiyoṅ
-  Main ibn-e-Murtaza huṅ mere naam hai Abbas
+  Maiṅ ibn-e-Murtaza huṅ mere naam hai Abbas
 
   Saahil pe aamad-e-khalaf-e-Bu Turaab hai
   Dehshat se mauj mauj ka dil aab aab hai
@@ -30,13 +30,13 @@ romanLyrics: |-
   1
   Bhatke na koi ab saahil par ye saara ilaqa hai mera
   Ae ghaasib-e-haq-e-Zahra suno ye paani mehr hai Zehra ka
-  Main tisra beta huṅ un ka ye wirsa hai Abbas ka
+  Maiṅ tisra beta huṅ un ka ye wirsa hai Abbas ka
   Ye darya darya darya hai Abbas ka
 
   2
-  Ae Shaamiyoṅ tum mein hai hi nahiṅ Abbas se larne ki himmat
-  Is darya mein hi dub maro baaqi hai agar thori ghairat
-  Athaara laakh nigaahoṅ mein kiuṅ khatra hai Abbas ka
+  Ae Shaamiyoṅ tum meiṅ hai hi nahiṅ Abbas se larne ki himmat
+  Is darya meiṅ hi dub maro baaqi hai agar thori ghairat
+  Athaara laakh nigaahoṅ meiṅ kiuṅ khatra hai Abbas ka
   Ye darya darya darya hai Abbas ka
 
   3
@@ -48,36 +48,36 @@ romanLyrics: |-
   Khaali para hai dasht ye Khauli kidhar gaya
 
   Hat jaao Shaamiyoṅ hat jaao Kufiyoṅ
-  Main ibn-e-Murtaza huṅ mera naam hai Abbas
+  Maiṅ ibn-e-Murtaza huṅ mera naam hai Abbas
 
   4
-  Shah haaṅ to kahe main haakim ko us ke hi mahal mein maaruṅ ga
-  Ae Shaamiyoṅ Shaam se pehle main is Shaam pe qabza kar luṅ ga
+  Shah haaṅ to kahe maiṅ haakim ko us ke hi mahal meiṅ maaruṅ ga
+  Ae Shaamiyoṅ Shaam se pehle maiṅ is Shaam pe qabza kar luṅ ga
   Ye baat nahiṅ afsaanoṅ ki ye daawa hai Abbas ka
   Ye darya darya darya hai Abbas ka
 
   5
-  Abbas itaaat mein har dam paaband hai apne aaqa ka
+  Abbas itaaat meiṅ har dam paaband hai apne aaqa ka
   Pehle jo hata tha darya se wo hukm tha mere aaqa ka
   Ab hatna pare ga tum sab ko ye rasta hai Abbas ka
 
   6
   O Shimr apni fauj ka andher dekh le
-  Ek dam mein bismiloṅ ke hue dher dekh le
+  Ek dam meiṅ bismiloṅ ke hue dher dekh le
   Bhaage haiṅ jis se sher wo shamshir dekh le
   O bekhabar taraai pe hai sher dekh le
   Larte haiṅ yuṅ hi zabr jo aate haiṅ baat par
   Ab hashr tak hai sher ka qabza Furaat par
 
   7
-  Talwaar to baahar aane do tum sab ki main juraat dekhuṅ ga
-  Haaṅ kis ka hai darya saahil par jis dam main aa kar puchhuṅ ga
-  Khud thori der mein bolo ge Abbas ka hai Abbas ka
+  Talwaar to baahar aane do tum sab ki maiṅ juraat dekhuṅ ga
+  Haaṅ kis ka hai darya saahil par jis dam maiṅ aa kar puchhuṅ ga
+  Khud thori der meiṅ bolo ge Abbas ka hai Abbas ka
   Ye darya darya darya hai Abbas ka
 
   8
-  Main khul ke agar hamla kar duṅ wo khuṅ ka darya darya mein
-  Main tegh yahaaṅ par khainchuṅ ga aur shor uthe ga Kufa mein
+  Maiṅ khul ke agar hamla kar duṅ wo khuṅ ka darya darya meiṅ
+  Maiṅ tegh yahaaṅ par khainchuṅ ga aur shor uthe ga Kufa meiṅ
   Muslim se kaheṅ ge baaba bhi ye hamla hai Abbas ka
 
   9

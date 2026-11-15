@@ -45,26 +45,26 @@ romanLyrics: |-
   Ya Abbas Ya Abbas
 
   4
-  Haath mein tegh nahiṅ phir bhi larza hai zamiṅ
+  Haath meiṅ tegh nahiṅ phir bhi larza hai zamiṅ
   Sang sab khaak hue chhup gaye dar ke laiṅ
   Naiza shamshir bana ghaiz jab had se barha
-  Main Sakina ka chacha khaadim-e-shaah-e-huda
+  Maiṅ Sakina ka chacha khaadim-e-shaah-e-huda
   Aayi garduṅ se sada aa gaya Abbas
   Ya Abbas Ya Abbas
 
   5
   Dhaaras-e-tishna-labaṅ baazu-e-shaah-e-zaman
   Pyaase bachchoṅ ke liye mustaqil nauha kunaṅ
-  Paani chullu mein liya yaad aaqa ko kiya
+  Paani chullu meiṅ liya yaad aaqa ko kiya
   Jaanib-e-khaima chala aayi parcham ki hawa
   Pyaase bachchoṅ ne kaha aa gaya Abbas
   Ya Abbas Ya Abbas
 
   6
   Aayi aawaaz-e-jari ya Husain ibn-e-Ali
-  Dam hai sine mein ruka chhid gayi mashk meri
-  Jald aao main chala ho gaye haath juda
-  Aankh mein tir chubha sar bhi do nim hua
+  Dam hai sine meiṅ ruka chhid gayi mashk meri
+  Jald aao maiṅ chala ho gaye haath juda
+  Aankh meiṅ tir chubha sar bhi do nim hua
   Ro ke Sarwar ne kaha aa gaya Abbas
   Ya Abbas Ya Abbas
 
@@ -77,10 +77,10 @@ romanLyrics: |-
   Ya Abbas Ya Abbas
 
   8
-  Ek kohraam utha jab alam khuṅ mein bhara
+  Ek kohraam utha jab alam khuṅ meiṅ bhara
   Aaya khaimoṅ ki taraf bint-e-Zehra ne kaha
   Sach tha baba ne kaha luti jaayegi rida
-  Par yaqiṅ mujhko na tha kis ko ab duṅ main sada
+  Par yaqiṅ mujhko na tha kis ko ab duṅ maiṅ sada
   Lashkar-e-jaur o jafa aa gaya Abbas
   Ya Abbas Ya Abbas
 

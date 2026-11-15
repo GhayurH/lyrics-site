@@ -1,6 +1,6 @@
 ---
 title: "جے حکم دے سردار"
-alternateTitle: "Jay Hukam De Sardar"
+alternateTitle: "Je Hukam De Sardar"
 recitationId: "jay-hukam-de-sardar-sundas-batool-lyrics-in-punjabi-2026"
 # Punjabi (Shahmukhi); the collection schema has no Punjabi language value.
 language: "Urdu"
@@ -15,13 +15,13 @@ aliases: ["jay-hukam-de-sardar-sundas-batool-lyrics-in-punjabi-2026", "Jay Hukam
 published: true
 romanLyrics: |-
   1
-  Jay hukam de sardaar karaṅ ik waar, waar nu lakh tera dewaaṅ maar
+  Je hukam de sardaar karaṅ ik waar, waar nu lakh tera dewaaṅ maar
   Jaanrde oh mainu maiṅ kitna dalair aaṅ, sher jo Khuda da ae, maiṅ odha sher aaṅ
   Hath vi naa laawaaṅ howe sab da murdiyaṅ de wich shumaar
 
   2
   Maiṅ wekhaaṅ te maar dewaaṅ, naslaaṅ ujaar dewaaṅ, maiṅ Ali aaṅ
-  Jithay jithay nazar meri jaaway, ohnu agla saah fair na aaway
+  Jithe jithe nazar meri jaawe, ohnu agla saah fair na aawe
   Ghaazi rain de mainu Haider banaa naa, baar baar nu lakh tuṅ mainu sunaa naa
   Ghore de summaaṅ che rol dewaaṅ tukre kar ke chaar chaar
 
@@ -32,7 +32,7 @@ romanLyrics: |-
   Suraj apne hath che le ke chaawaaṅ sab nu dewaaṅ saar
 
   4
-  Husaini saalaar maiṅ aaṅ, sun le jarraar maiṅ aaṅ, jay laraaṅ maiṅ
+  Husaini saalaar maiṅ aaṅ, sun le jarraar maiṅ aaṅ, je laraaṅ maiṅ
   Laran te aawaaṅ waar kar ke hawa wich maiṅ sar sab uraawaaṅ
   Hukam mainu Akbar de baabe da howe, mere saamne aj na koi khalowe
   Ik ik nu maiṅ maar dewaaṅ zinda kar ke nu nu waar
@@ -40,7 +40,7 @@ romanLyrics: |-
   5
   Qaza mere hath de wich ae, jaza mere hath de wich ae, maiṅ Abbas aaṅ
   Zindagi te maut waale fan mainu baabe Ali ne sikhaae
-  Nur-e-Mustafa jo maiṅ ohda garur aaṅ, maut dur utni jay jitni maiṅ dur aaṅ
+  Nur-e-Mustafa jo maiṅ ohda garur aaṅ, maut dur utni je jitni maiṅ dur aaṅ
   Aaj zindagi aaṅ maut dewaaṅ mere hath che ikhtiyaar
 # source_id: tajpoint:06d58af803e0383f00fe
 # source_url: https://tajpoint.com/jay-hukam-de-sardar-sundas-batool/

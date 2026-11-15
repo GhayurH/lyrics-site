@@ -13,15 +13,15 @@ published: true
 romanLyrics: |-
   1
   Dar-e-Najaf se hatuṅ ga na sang-e-dar ki tarah
-  Isi sadaf mein rahuṅ ga sada gohar ki tarah
+  Isi sadaf meiṅ rahuṅ ga sada gohar ki tarah
 
   2
-  Wagha mein Hazrat-e-Abbas the pidar ki tarah
+  Wagha meiṅ Hazrat-e-Abbas the pidar ki tarah
   Jabiṅ se ghaiz tapakta ba sher-e-nar ki tarah
 
   3
   Chamakte arsh ke taare the sab Bani Hashim
-  Aur un mein Hazrat-e-Abbas the qamar ki tarah
+  Aur un meiṅ Hazrat-e-Abbas the qamar ki tarah
 
   4
   Juda hue shab-e-Meraj kab Nabi o Ali
@@ -29,15 +29,15 @@ romanLyrics: |-
 
   5
   Salaami qimat-e-ashk-e-aza-e-Shah na puchh
-  Bike ga hashr ke baazaar mein gohar ki tarah
+  Bike ga hashr ke baazaar meiṅ gohar ki tarah
 
   6
   Jawaaṅ pisar ke kaleje se khiṅch li barchhi
-  Husain kis mein hai himmat tere jigar ki tarah
+  Husain kis meiṅ hai himmat tere jigar ki tarah
 
   7
-  Bala ke dasht mein uryaaṅ pari hai laash-e-Husain
-  Dayaar-e-Shaam mein Sayyidaaniyoṅ ke sar ki tarah
+  Bala ke dasht meiṅ uryaaṅ pari hai laash-e-Husain
+  Dayaar-e-Shaam meiṅ Sayyidaaniyoṅ ke sar ki tarah
 
   8
   Chaman kisi ka ho taaraaj yuṅ Khuda na kare

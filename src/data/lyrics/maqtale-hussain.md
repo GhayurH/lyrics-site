@@ -54,7 +54,7 @@ romanLyrics: |-
   Koi tera kamarband khenchta hai
   Koi khenchta hai kurta tera
   Aur garm zamiṅ ki khaak tere
-  Zakhmoṅ mein sitamgar daalte haiṅ
+  Zakhmoṅ meiṅ sitamgar daalte haiṅ
 
   6
   Tere zakhmi gale ko Shimr-e-laiṅ
@@ -65,7 +65,7 @@ romanLyrics: |-
   Marne par khushiyaaṅ manaate haiṅ
 
   7
-  Tiroṅ pe para tha sehra mein
+  Tiroṅ pe para tha sehra meiṅ
   Begor o kafan Shah ka laasha
   Nasir na koi tha Maula tera
   Jab laasha tera paamaal hua

@@ -15,7 +15,7 @@ romanLyrics: |-
   Ik shor hua khaana-e-Haidar hua taaraaj
   Naamus-e-Nabi ka zar o zewar hua taaraaj
   Jalte hue khaime haiṅ ye Shaam-e-gharibaaṅ hai
-  Be gor o kafan laashe ye Shaam-e-gharibaaṅ hai
+  Begor o kafan laashe ye Shaam-e-gharibaaṅ hai
   Ae Shaam-e-gharibaaṅ
   Zainab Bibi ujar gai hai
   Ae Shaam-e-gharibaaṅ

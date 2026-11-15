@@ -27,7 +27,7 @@ romanLyrics: |-
   Kaun jita hai kaun hara hai
 
   4
-  Is ka maqtal mein faisla hoga
+  Is ka maqtal meiṅ faisla hoga
   Hurr hamara hai ya tumhara hai
 
   5

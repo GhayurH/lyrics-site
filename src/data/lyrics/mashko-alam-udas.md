@@ -27,7 +27,7 @@ romanLyrics: |-
   Darya tarap utha hai samandar udaas hai
 
   4
-  Ae tir-e-Hurmala kahiṅ raste mein thahar ja
+  Ae tir-e-Hurmala kahiṅ raste meiṅ thahar ja
   Maadar ke dil ka tujh ko agar kuchh bhi paas hai
 
   5

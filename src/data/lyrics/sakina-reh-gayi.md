@@ -13,19 +13,19 @@ published: true
 romanLyrics: |-
   Jab ahl-e-haram ne Shaam ke zindaaṅ se rihaai paayi
   Sajjad tarap ke kehne lage jab yaad Sakina aayi
-  Tum kaise raho gi zindaaṅ mein ae Baba ki shaidaai
+  Tum kaise raho gi zindaaṅ meiṅ ae Baba ki shaidaai
   Itna to bata do Sughra ko kya jaa ke bataaye bhai
 
   1
   Suna jab naam Sughra ka, sada aayi suno bhaiya
   Laga hai khun jis par wo mere gauhar dikha dena
-  Sakina reh gayi zindaan mein bhai bata dena
+  Sakina reh gayi zindaan meiṅ bhai bata dena
 
   2
   Suno bhaiya shikaayat hai mujhe in Shaam waaloṅ se
   Kabhi durre lagaaye haiṅ kabhi khincha hai baaloṅ se
   Tamaache itne khaaye haiṅ lahu behta hai gaaloṅ se
-  Bahut achchha hua bhaiya watan mein reh gayi Sughra
+  Bahut achchha hua bhaiya watan meiṅ reh gayi Sughra
   Kabhi wo Shaam na aaye use meri dua dena
 
   3
@@ -36,23 +36,23 @@ romanLyrics: |-
   Bahut maara lainoṅ ne ye Sughra ko bata dena
 
   4
-  Kahiṅ dekhi nahiṅ aisi mohabbat baap beti mein
-  Mujhe darbaar mein maanga gaya jis dam kanizi mein
-  Dilaasa mujh ko dene aa gaya sar meri godi mein
+  Kahiṅ dekhi nahiṅ aisi mohabbat baap beti meiṅ
+  Mujhe darbaar meiṅ maanga gaya jis dam kanizi meiṅ
+  Dilaasa mujh ko dene aa gaya sar meri godi meiṅ
   Mujhe haakim ne jab dekha ye keh kar Shimr ko bheja
   Chhura kar baap ka sar taaziyaanoṅ ki saza dena
 
   5
-  Mujhe darbaar mein Baba se aise bhi milaaya tha
+  Mujhe darbaar meiṅ Baba se aise bhi milaaya tha
   Sitamgar saamne khurme ka jab ik tasht laaya tha
-  Main kitna royi thi jab tasht se kapra hataaya tha
+  Maiṅ kitna royi thi jab tasht se kapra hataaya tha
   Wahaaṅ khurme nahiṅ sar tha bata dena use bhaiya
   Wo roye to miri ghurbat ka us ko waasta dena
 
   6
-  Koi beti na dekhe ran mein dekha main ne jo manzar
+  Koi beti na dekhe ran meiṅ dekha maiṅ ne jo manzar
   Gayi laashoṅ se takraate hue Baba ke laashe par
-  Kati ungli badan mein tir dekhe kat chuka tha sar
+  Kati ungli badan meiṅ tir dekhe kat chuka tha sar
   Nishaaṅ tiroṅ ke ae bhaiya na dekhe Fatima Sughra
   Pidar ka khuṅ bhara kurta watan jaa kar chhupa dena
 
@@ -61,14 +61,14 @@ romanLyrics: |-
   Use kaise bataao ge nahiṅ aaye Ali Akbar
   Behen mar jaaye gi bhai ke marne ki khabar sun kar
   Bahut hassaas hai Sughra gale se tum laga lena
-  Tira main bhi to bhai huṅ ye keh kar hausla dena
+  Tira maiṅ bhi to bhai huṅ ye keh kar hausla dena
 
   8
-  Chale Abid to Zeeshan o Raza aawaaz ye aayi
+  Chale Abid to Zishan o Raza aawaaz ye aayi
   Watan jaate hue jab Karbala jaana mire bhai
   Mire ammu se keh dena Sakina mar gayi pyaasi
   Nahiṅ paani ka gham haye Chacha tum kiuṅ nahiṅ aaye
-  Andheri qaid mein ghut ghut ke maut aayi bata dena
+  Andheri qaid meiṅ ghut ghut ke maut aayi bata dena
 # source_id: nohayonline:8a8779fe0489d8f151e1
 # source_url: https://www.nohayonline.com/details_content.php?id=1834
 # raw_sha256: 57807704e7d1d69503909e4cc0f7b0c090f52a882f631d3d4461cd8dfaf38238

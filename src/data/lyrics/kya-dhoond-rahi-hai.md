@@ -11,12 +11,12 @@ tags: []
 aliases: ["Kya Dhoond Rahi Hai"]
 published: true
 romanLyrics: |-
-  Kya dhund rahi hai jangal mein Sakina
+  Kya dhund rahi hai jangal meiṅ Sakina
   Abbas ke baazu ya Baba ka sina
 
   1
-  Kaanoṅ se chhine gohar aur aag thi daaman mein
-  Ghabraayi hui bachchi ye kehti rahi ran mein
+  Kaanoṅ se chhine gohar aur aag thi daaman meiṅ
+  Ghabraayi hui bachchi ye kehti rahi ran meiṅ
   Hai koi jo mujh ko pahuncha de Madina
 
   2
@@ -30,14 +30,14 @@ romanLyrics: |-
   Wo durroṅ ka khaana wo ashkoṅ ka pina
 
   4
-  Mushkil mein ghiri haaye aulaad-e-Nabi kaisi
-  Is dasht-e-musibat mein hai tashnalabi kaisi
+  Mushkil meiṅ ghiri haaye aulaad-e-Nabi kaisi
+  Is dasht-e-musibat meiṅ hai tashnalabi kaisi
   Aaya nahiṅ ab tak saqqa-e-Sakina
 
   5
   Kehti thi sidhaare haiṅ bhaai jo mere pyaase
   Jab tak nahiṅ lauteṅ ge ammu mere darya se
-  Main ne ae phuphi jaan paani nahiṅ pina
+  Maiṅ ne ae phuphi jaan paani nahiṅ pina
 
   6
   Pahunche jo Shaah-e-Waala bete ki sada sun kar
@@ -45,24 +45,24 @@ romanLyrics: |-
   Naize ki ani hai aur bete ka sina
 
   7
-  Ahmed ke nawaase ko maara hai Muharram mein
-  Chaalis baras roye Sajjad isi gham mein
+  Ahmed ke nawaase ko maara hai Muharram meiṅ
+  Chaalis baras roye Sajjad isi gham meiṅ
   Taarikh pukaari hai gham ka mahina
 
   8
   Hoṅ ge sar-e-mehshar bhi unche yuṅ hi sar apne
   Marqad ko ujaaloṅ se bhar deṅ ge Zafar apne
-  Rakhte haiṅ lahad mein hum ashkoṅ ka khazina
+  Rakhte haiṅ lahad meiṅ hum ashkoṅ ka khazina
 
   9
-  Ye Shaam ke zindaaṅ mein diwaaroṅ ko takti hai
+  Ye Shaam ke zindaaṅ meiṅ diwaaroṅ ko takti hai
   Kya soch ke ye jaane din raat sisakti hai
   Bichhri hai chacha se jab se ye hazina
 
   10
   Wo waqt-e-judaai wo haalaat ki majburi
   Sarwar se Sakina ki ab tak na miti duri
-  Maqtal mein anguthi hai zindaaṅ mein nagina
+  Maqtal meiṅ anguthi hai zindaaṅ meiṅ nagina
 
   11
   Masruf-e-ibaadat ho tum shaam o sahar Maisam

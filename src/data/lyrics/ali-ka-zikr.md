@@ -22,7 +22,7 @@ romanLyrics: |-
   Khuda ke fazl se ab bhi Imam baaqi hai
 
   2
-  Ali ke laal ke dunya mein naam baaqi hai
+  Ali ke laal ke dunya meiṅ naam baaqi hai
   Yazid mit gaya zikr-e-anaam baaqi hai
 
   3
@@ -39,7 +39,7 @@ romanLyrics: |-
 
   6
   Qarib jhule ke aa kar ye ro ke bole Husain
-  Abhi shahidoṅ mein Asghar ka naam baaqi hai
+  Abhi shahidoṅ meiṅ Asghar ka naam baaqi hai
 
   7
   Zara Ae Maut thehar ja kaha ye Akbar ne
@@ -51,7 +51,7 @@ romanLyrics: |-
 
   9
   Mujib ko bhi bulaayeṅge apne rauze par
-  Isi ummid mein ab tak ghulaam baaqi hai
+  Isi ummid meiṅ ab tak ghulaam baaqi hai
 ---
 
 علی کا ذکر محمد کا نام باقی ہے

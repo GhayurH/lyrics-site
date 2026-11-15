@@ -11,8 +11,8 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Yasrab mein aai khwaab mein Zainab ke yuṅ Batul
-  Maatha bhara tha khun mein sar par rida na thi
+  Yasrab meiṅ aai khwaab meiṅ Zainab ke yuṅ Batul
+  Maatha bhara tha khun meiṅ sar par rida na thi
 
   1
   Zainab ne puchha kis ke lahu se jabiṅ hai laal
@@ -21,34 +21,34 @@ romanLyrics: |-
   Tum apni yaad ko zara aabaad to karo
 
   2
-  Kis waqt kis jagah main sharik-e-aza na thi
+  Kis waqt kis jagah maiṅ sharik-e-aza na thi
   Ye maaṅ kahaaṅ na thi
-  Zainab safar mein saath tere maaṅ kahaaṅ na thi
+  Zainab safar meiṅ saath tere maaṅ kahaaṅ na thi
   Ye maaṅ kahaaṅ na thi
 
   3
   Roi tumhaare saath bahattar ki laash par
   Akbar ki laash par Ali Asghar ki laash par
-  Zainab main kis shahid ki saahib-e-aza na thi
+  Zainab maiṅ kis shahid ki saahib-e-aza na thi
 
   4
   Jhaara tha kis ne baaloṅ se sahraa-e-Karbala
   Kis ne bichhaaya aa ke musalla-e-Karbala
-  Haae haae main Karbala mein shab-e-qatl kya na thi
+  Haae haae maiṅ Karbala meiṅ shab-e-qatl kya na thi
 
   5
   Rakht-e-kohan Husain ne maaṅga tha jis ghari
-  Khaime mein Bibi tum ko ghash aaya tha jis ghari
+  Khaime meiṅ Bibi tum ko ghash aaya tha jis ghari
   Khaime ke pichhe rone ki meri sada na thi
 
   6
-  Rukhsat ko aaya khaime mein jab Ibn-e-Bu Turaab
+  Rukhsat ko aaya khaime meiṅ jab Ibn-e-Bu Turaab
   Thaami thi tum ne jis ghari mazlum ki rakaab
-  Kya saath saath ghore ke main nange paa na thi
+  Kya saath saath ghore ke maiṅ nange paa na thi
 
   7
   Jab tum giri thi bhaai ke laashe pe uṅt se
-  Naaqe pe tum sawaar thi baazu rasan mein the
+  Naaqe pe tum sawaar thi baazu rasan meiṅ the
   Kya baal khole laash pe Khairunnisa na thi
 
   8
@@ -58,7 +58,7 @@ romanLyrics: |-
 
   9
   Zainab ne arz ki ke baja kahti haiṅ janaab
-  Main sun rahi huṅ jo bakhuda kahti haiṅ janaab
+  Maiṅ sun rahi huṅ jo bakhuda kahti haiṅ janaab
   Ae waalida mujhe khabar-e-dast o paa na thi
 
   10

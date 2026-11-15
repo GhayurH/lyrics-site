@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Laash ka chehra abaa se hai chhupaaya Shah ne
-  Ek qadam dasht mein phir aage barhaaya Shah ne
+  Ek qadam dasht meiṅ phir aage barhaaya Shah ne
   Thori hi dur chale baith gaye reti par
 
   2
@@ -25,19 +25,19 @@ romanLyrics: |-
   Kuch dikhaai na diya sambhle haiṅ khaa kar thokar
 
   3
-  Bekasi karne lagi maut se ban mein girya
+  Bekasi karne lagi maut se ban meiṅ girya
   Kitna saabir hai jawaaṅ laash uthaane waala
   Ye payambar bhi nahiṅ aur na lagta hai bashar
 
   4
-  Dil pe qaabu bhi nahiṅ aankhoṅ mein binaai nahiṅ
+  Dil pe qaabu bhi nahiṅ aankhoṅ meiṅ binaai nahiṅ
   Charkh ne aaj talak dekhi ye tanhaai nahiṅ
   Hasrat o yaas hai aur koi nahiṅ hai yaawar
 
   5
   Chalne deti hi nahiṅ Shaah ko ek baat yehi
   Jis ne athaarah baras paala wo mar jaayegi
-  Kya teri qabr isi ban mein bana duṅ Akbar
+  Kya teri qabr isi ban meiṅ bana duṅ Akbar
 
   6
   Ro ke phir kehne lage tu hi bata jaan-e-padar

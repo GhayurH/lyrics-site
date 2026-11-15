@@ -19,7 +19,7 @@ romanLyrics: |-
   Bibi mahaal Shah ki tamanna na chaahiye
 
   2
-  Kehti thi Fiza Shaam mein baazaariyoṅ hato
+  Kehti thi Fiza Shaam meiṅ baazaariyoṅ hato
   Zehra ki betiyoṅ ka tamaasha na chaahiye
 
   3
@@ -28,7 +28,7 @@ romanLyrics: |-
 
   4
   Marqad charaagh-e-daagh se roshan rahe Anis
-  Shab ko akele ghar mein andhera na chaahiye
+  Shab ko akele ghar meiṅ andhera na chaahiye
 # source_id: nohayonline:113553f0e0ce22d676b8
 # source_url: https://www.nohayonline.com/details_content.php?id=2183
 # raw_sha256: 623ddad35ffd1a9cd3da03195ce9f87d1b051e213174c450335ee3e47e72e198

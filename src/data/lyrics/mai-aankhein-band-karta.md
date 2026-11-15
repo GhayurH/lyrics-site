@@ -14,11 +14,11 @@ romanLyrics: |-
   Baqir mere beta meri faryaad suno
 
   Tarap kar Hazrat-e-Baqir se ye Zain-ul-Aba bole
-  Main aankheṅ band karta huṅ to maqtal yaad aata hai
-  Ae mere laal batla de ke main souṅ bhala kaise
+  Maiṅ aankheṅ band karta huṅ to maqtal yaad aata hai
+  Ae mere laal batla de ke maiṅ souṅ bhala kaise
 
   1
-  Meri nazroṅ mein aa jaata hai ik tuta hua neza
+  Meri nazroṅ meiṅ aa jaata hai ik tuta hua neza
   Rulaata hai mujhe zakhmi kaleja mere bhaiya ka
   Hataane se bhi wo manzar nahiṅ hatta hai aankhoṅ se
 
@@ -28,9 +28,9 @@ romanLyrics: |-
   Mere rehte hue tashna dahan maare gaye pyaase
 
   3
-  Wo khaima jal raha tha jis mein main behosh tha beta
+  Wo khaima jal raha tha jis meiṅ maiṅ behosh tha beta
   Bari mushkil se khaime se phuphi jaaṅ ne nikaala tha
-  Mujhe hosh aaya to dekha fiza mein the faqat shole
+  Mujhe hosh aaya to dekha fiza meiṅ the faqat shole
 
   4
   Sakina Karbala ke baad soyi hi nahiṅ Baqir
@@ -40,16 +40,16 @@ romanLyrics: |-
   5
   Ali Asghar ka mar jaana sar-e-maqtal qayaamat thi
   Mere lakht-e-jigar wo tere baba ki shahaadat thi
-  Abhi tak yaad karta huṅ wohi manzar main ro ro ke
+  Abhi tak yaad karta huṅ wohi manzar maiṅ ro ro ke
 
   6
-  Tan-e-Qasim ka khuṅ mein dub jaana kaise bhuluṅga
-  Aba mein is liye tha wo ke paara paara laasha tha
+  Tan-e-Qasim ka khuṅ meiṅ dub jaana kaise bhuluṅga
+  Aba meiṅ is liye tha wo ke paara paara laasha tha
   Bari mushkil se baba ran se us ki laash laaye the
 
   7
-  Pas-e-Aashur wo mahshar raha main kaise bhuluṅga
-  Meri nanhi Sakina ka gala rassi mein jakra tha
+  Pas-e-Aashur wo mahshar raha maiṅ kaise bhuluṅga
+  Meri nanhi Sakina ka gala rassi meiṅ jakra tha
   Nikalti thi kahaaṅ aawaaz aakhir bolti kaise
 
   8

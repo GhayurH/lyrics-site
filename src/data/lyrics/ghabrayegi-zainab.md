@@ -24,18 +24,18 @@ romanLyrics: |-
 
   2
   Kis tarah guzruṅgi qayaamat ka wo lamha
-  Jab shaam-e-gharibaaṅ mein mera chaand na hoga
+  Jab shaam-e-gharibaaṅ meiṅ mera chaand na hoga
   Baaba se nigaaheṅ na mila paaegi Zainab
 
   3
   Insaaf karo kaise behen dil ko sambhaale
   Is tanz ka ehsaas mujhe maar na daale
-  Baaghi ki behen Shaam mein kehlaaegi Zainab
+  Baaghi ki behen Shaam meiṅ kehlaaegi Zainab
 
   4
   Tum meri tarah gham ye akele hi sahoge
   Waada karo ye baat na Baano se kahoge
-  Zindaaṅ mein Sakina ko jo dafnaaegi Zainab
+  Zindaaṅ meiṅ Sakina ko jo dafnaaegi Zainab
 
   5
   Dekhi nahiṅ jaaeṅgi wo meinus nigaaheṅ
@@ -43,13 +43,13 @@ romanLyrics: |-
   Akbar ke bina jab bhi watan jaaegi Zainab
 
   6
-  Kya kya hua baazaar mein batlaauṅgi kaise
-  Abdullah-e-Jafar ko main samjhaauṅgi kaise
+  Kya kya hua baazaar meiṅ batlaauṅgi kaise
+  Abdullah-e-Jafar ko maiṅ samjhaauṅgi kaise
   Jab nil rasan ke unheṅ dikhlaaegi Zainab
 
   7
   Bhaai pe nazar kar ke Takallum wo pukaari
-  Bhaiya main samajhti huṅ tabiat ko tumhaari
+  Bhaiya maiṅ samajhti huṅ tabiat ko tumhaari
   Achchha ye sada lab pe nahiṅ laaegi Zainab
 # source_id: nohayonline:5b62f489e9e0fc065eda
 # source_url: https://www.nohayonline.com/details_content.php?id=2549

@@ -19,19 +19,19 @@ romanLyrics: |-
   Gham-e-Shabbir ko talwaar banaaye rakhna
 
   2
-  Aa ke baatoṅ mein subuk jaan ke farsh-e-gham ko
+  Aa ke baatoṅ meiṅ subuk jaan ke farsh-e-gham ko
   Kho na dena kahiṅ Shabbir ke is maatam ko
   Khushk hone nahiṅ dena kabhi chashm-e-nam ko
-  Aandhiyoṅ mein bhi diya haq ka jalaaye rakhna
+  Aandhiyoṅ meiṅ bhi diya haq ka jalaaye rakhna
 
   3
-  Ro-e-dastaar fazilat mein na aa jaana kahiṅ
-  Shak o shubhaat mein par kar na ganwa dena yaqiṅ
+  Ro-e-dastaar fazilat meiṅ na aa jaana kahiṅ
+  Shak o shubhaat meiṅ par kar na ganwa dena yaqiṅ
   Gham-e-Shabbir ibaadat hai koi rasm nahiṅ
   Shor-e-maatam se zamaane ko jagaaye rakhna
 
   4
-  Zulmat-e-kufr mein dar aati hai imaaṅ ki lakir
+  Zulmat-e-kufr meiṅ dar aati hai imaaṅ ki lakir
   Kufr kar sakta nahiṅ haq ke iraadoṅ ko asir
   Paak kar deta har rijs se zikr-e-Shabbir
   Zikr-e-Shabbir ko imaan banaaye rakhna
@@ -44,8 +44,8 @@ romanLyrics: |-
 
   6
   Gham-e-Shabbir se aabaad mera sina hai
-  Main azaadaar huṅ chehra mera aaina hai
-  Sar buland ho ke zamaane mein agar jina hai
+  Maiṅ azaadaar huṅ chehra mera aaina hai
+  Sar buland ho ke zamaane meiṅ agar jina hai
   Sar dar-e-Sibt-e-Payambar pe jhukaaye rakhna
 # source_id: nohayonline:abcd1493794a2762d790
 # source_url: https://www.nohayonline.com/details_content.php?id=1107

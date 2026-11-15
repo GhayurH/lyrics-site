@@ -13,9 +13,9 @@ published: true
 romanLyrics: |-
   Din hai Aashur ka aur asr ki aayi hai ghari
   Gird laashoṅ ke akela hai Husain Ibn-e-Ali
-  Gher lo maaro ise shor hai lashkar mein yehi
+  Gher lo maaro ise shor hai lashkar meiṅ yehi
   Dekho zakhmi bhi hai pyaasa bhi hai taari hai ghashi
-  Haaye sar pitti maidaan mein aayi Zehra
+  Haaye sar pitti maidaan meiṅ aayi Zehra
   Maaṅ ko jab dekha Shah-e-Diṅ ne ye ro ro ke kaha
 
   Tir talwaar liye fauj khari saari hai
@@ -33,17 +33,17 @@ romanLyrics: |-
   Tir sine pe lage pusht se baahar nikle
   Ek neza hai hua paar jo pehlu se mere
   Dard uthta hai har ek tuti hui pasli se
-  Saans lene mein bhi ammaṅ bari dushwaari hai
+  Saans lene meiṅ bhi ammaṅ bari dushwaari hai
 
   3
-  Zakhm khaate hue ghore se zamiṅ par main gira
+  Zakhm khaate hue ghore se zamiṅ par maiṅ gira
   Tha nidhaal aisa ke utha bhi nahiṅ jaata tha
   Dekha ye haal to phir Shimr meri samt barha
   Qatl gah tak mujhe baaloṅ se pakar kar laaya
   Haaṅ tamaanche mujhe thokar bhi mujhe maari hai
 
   4
-  Tez khanjar jo abhi Shimr ne haathoṅ mein liya
+  Tez khanjar jo abhi Shimr ne haathoṅ meiṅ liya
   Maar ke zor se patthar pe ise kund kiya
   Meri haalat pe use rehm nahiṅ aayega
   Terah zarboṅ se mera sukha gala kaatega
@@ -58,7 +58,7 @@ romanLyrics: |-
 
   6
   Boli phir Mazhar o Farhan ye Zahra ro kar
-  Main tere saath huṅ har lamha mere lakht-e-jigar
+  Maiṅ tere saath huṅ har lamha mere lakht-e-jigar
   Haaye tharraayi zamiṅ chalne laga hai khanjar
   Rakh diye haath teri maaṅ ne teri gardan par
   Bole Shabbir ke haaye meri laachaari hai

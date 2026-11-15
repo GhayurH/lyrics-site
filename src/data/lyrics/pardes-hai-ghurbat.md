@@ -27,14 +27,14 @@ romanLyrics: |-
   Chhup chhup ke wo pardesi din raat bitaate haiṅ
 
   3
-  Chhote ko bara bhai godi mein uthaata hai
+  Chhote ko bara bhai godi meiṅ uthaata hai
   Bhai ka safar bhai aasaan banaata hai
   Mil jaayega ab rasta ye soch ke chalte haiṅ
 
   4
   Taqdir yatimoṅ ko din raat sataati hai
   Aur baap ki furqat bhi donoṅ ko rulaati hai
-  Kufa mein bhatakte haiṅ aur ashk bahaate haiṅ
+  Kufa meiṅ bhatakte haiṅ aur ashk bahaate haiṅ
 
   5
   Hai donoṅ ke baal uljhe kapre bhi hue maile
@@ -52,7 +52,7 @@ romanLyrics: |-
   Do phul se bachche haiṅ aur maut ke saaye haiṅ
 
   8
-  Wo donoṅ musaafir the pardes mein bewaaris
+  Wo donoṅ musaafir the pardes meiṅ bewaaris
   Jab kar ke giraftaari le kar ke chala Haaris
   Rukh kar ke Madina ka ammaaṅ ko bulaate haiṅ
 

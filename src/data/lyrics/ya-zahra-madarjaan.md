@@ -15,7 +15,7 @@ romanLyrics: |-
   1
   Bizat-e-qalb-e-Nabi Umm-e-Abiha Zahra
   Tere baba ne tujhe rutba diya maaṅ jaisa
-  Jab utha shab ki siyaahi mein janaaza tera
+  Jab utha shab ki siyaahi meiṅ janaaza tera
   Qabr-e-Sarkaar-e-do aalam se ye aati thi sada
 
   2
@@ -32,7 +32,7 @@ romanLyrics: |-
 
   4
   Ho gaya jang ka aaghaaz sar-e-Karb o Bala
-  Sab se pehle gaya maidaan mein Hur ka beta
+  Sab se pehle gaya maidaan meiṅ Hur ka beta
   Bhai maara gaya phir Hur bhi gaya su-e-jinaaṅ
   Zakhm pe shaah ne rumaal jo bandha to kaha
 
@@ -44,12 +44,12 @@ romanLyrics: |-
 
   6
   Laut kar aaya na saqqa-e-haram darya se
-  Ho gaye haath qalam tir kaleje mein lage
+  Ho gaye haath qalam tir kaleje meiṅ lage
   Ho gaya thanda alam shah ki kamar tut gayi
   Tor kar kuza Sakina ne kaha rote hue
 
   7
-  Ek kohraam bapa khaima-e-Sarwar mein hua
+  Ek kohraam bapa khaima-e-Sarwar meiṅ hua
   Ghar se athaarah baras waala jo maqtal ko chala
   Barchhi Akbar ke kaleje se jo shah ne khenchi
   Haath sine pe rakha aur ye Akbar ne kaha
@@ -61,9 +61,9 @@ romanLyrics: |-
   Tir khaa kar Ali Asghar ke tabassum ne kaha
 
   9
-  Shah ne Rehaan rakha sajda-e-maabud mein sar
+  Shah ne Rehaan rakha sajda-e-maabud meiṅ sar
   Shimr ka chalne laga sukhe gale par khanjar
-  Yaad aane lagi maaṅ aalam-e-tanhaai mein
+  Yaad aane lagi maaṅ aalam-e-tanhaai meiṅ
   Rukh Baqiyya ki taraf kar ke pukaare Sarwar
 reciter: Shahid Baltistani
 # source_id: nohayonline:436c7891035287ddeb9f

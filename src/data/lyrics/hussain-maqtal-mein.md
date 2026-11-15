@@ -1,6 +1,6 @@
 ---
 title: "حسین مقتل میں چھپ کھڑے ہے"
-alternateTitle: "Husain Maqtal Mein"
+alternateTitle: "Husain Maqtal Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,10 +11,10 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Husain maqtal mein chup khare hai
+  Husain maqtal meiṅ chup khare hai
 
   Lahu lahu hai libaas saara mere Khudaaya
-  Husain maqtal mein chup khare hai
+  Husain maqtal meiṅ chup khare hai
 
   1
   Ajib manzar hai Karbala ka
@@ -33,7 +33,7 @@ romanLyrics: |-
   3
   Husain mal mal ke apni aaṅkheṅ
   Zamin par dekhe jaa rahe hai
-  Hai ek ghatri jo khun mein tar hai
+  Hai ek ghatri jo khuṅ meiṅ tar hai
   Usi pe aaṅsu baha rahe haiṅ
   Ye ghatri Qasim ka hai saraapa mere Khudaaya
 

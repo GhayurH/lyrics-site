@@ -18,16 +18,16 @@ romanLyrics: |-
 
   1
   Jab se gaye tum khaima se Baba
-  Ek pal ko bhi main so na saki huṅ
+  Ek pal ko bhi maiṅ so na saki huṅ
   Shimr ka dar hai mujh ko hamesha
   Rona bhi chaahuṅ ro na saki huṅ
   Kis ko bulaauṅ jaauṅ kahaaṅ
   Ae mere Baba ae mere Baba
 
   2
-  Shaam-e-gharibaaṅ khaimoṅ mein aa kar
+  Shaam-e-gharibaaṅ khaimoṅ meiṅ aa kar
   Aag laga di jis dam laiṅ ne
-  Khauf tha har su Sayyidaaniyoṅ mein
+  Khauf tha har su Sayyidaaniyoṅ meiṅ
   Dar se ae Baba sehme the bachche
   Chhaaya hua tha har su dhuaaṅ
   Ae mere Baba ae mere Baba
@@ -50,7 +50,7 @@ romanLyrics: |-
 
   5
   Tum hi bataao ke koi bachchi
-  Aalam mein hogi kya mere jaisi
+  Aalam meiṅ hogi kya mere jaisi
   Chaar baras ki umr ho jis ki
   Aisi yatima kab kis ne dekhi
   Ye sin ho aur tuti pasliyaaṅ
@@ -65,7 +65,7 @@ romanLyrics: |-
   Ae mere Baba ae mere Baba
 
   7
-  Aal-e-Muhammad darbaariyoṅ mein
+  Aal-e-Muhammad darbaariyoṅ meiṅ
   Laaye gaye jab qaidi bana kar
   Phuphiyaaṅ khari thiṅ chehre chhupa kar
   Aabid khare the nazreṅ jhuka kar
@@ -74,9 +74,9 @@ romanLyrics: |-
 
   8
   Pyaas ki shiddat se ab to mere
-  Saare badan mein raashe pare haiṅ
+  Saare badan meiṅ raashe pare haiṅ
   Saaṅs bhi lena hai mera mushkil
-  Halq mein mere chhaale pare haiṅ
+  Halq meiṅ mere chhaale pare haiṅ
   Lagta hai ab hai hoṅtoṅ pe jaaṅ
   Ae mere Baba ae mere Baba
 

@@ -1,6 +1,6 @@
 ---
 title: "نہ پوچھ کرب و بلا کس طرح بسائی گئی"
-alternateTitle: "Na Puchh Karb O Bala"
+alternateTitle: "Na Puchh Karb o Bala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

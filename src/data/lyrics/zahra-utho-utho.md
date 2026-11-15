@@ -15,8 +15,8 @@ romanLyrics: |-
   Phir gham ka chaand arsh pe nikla utho utho
 
   1
-  Is chaand mein hamaara bhara ghar ujar gaya
-  Naiza ghamoṅ ka mere kaleje mein gar gaya
+  Is chaand meiṅ hamaara bhara ghar ujar gaya
+  Naiza ghamoṅ ka mere kaleje meiṅ gar gaya
   Mera Husain mar gaya pyaasa utho utho
 
   2
@@ -26,32 +26,32 @@ romanLyrics: |-
 
   3
   Utho ke aa gaya hai wohi gham ka mahina
-  Jis mein yatim ho gayi maasum Sakina
+  Jis meiṅ yatim ho gayi maasum Sakina
   Aayi hai mere saath yatima utho utho
 
   4
   Rona hai us ko jis pe lainoṅ ne ki jafa
-  Dasht-e-bala mein jis ko kafan bhi na mil saka
-  Main us ka lene aayi huṅ pursa utho utho
+  Dasht-e-bala meiṅ jis ko kafan bhi na mil saka
+  Maiṅ us ka lene aayi huṅ pursa utho utho
 
   5
-  Godi mein meri kaata gaya hai sar-e-Husain
+  Godi meiṅ meri kaata gaya hai sar-e-Husain
   Batlaao kaise aaye bhala maaṅ ke dil ko chain
   Phatta hai mera gham se kaleja utho utho
 
   6
-  Main us ki maaṅ huṅ maara gaya hai jo tishna kaam
+  Maiṅ us ki maaṅ huṅ maara gaya hai jo tishna kaam
   Waqt-e-akhir bhi jo tumheiṅ keh gaya salaam
   Tum ho usi gharib ke shia utho utho
 
   7
-  Is khair ke iwaz mein tumheiṅ bakhshwaauṅgi
-  Tum ko liye bina main na jannat mein jaauṅgi
+  Is khair ke iwaz meiṅ tumheiṅ bakhshwaauṅgi
+  Tum ko liye bina maiṅ na jannat meiṅ jaauṅgi
   Zahra yeh tum se karti hai waada utho utho
 
   8
   Waaiz qarib-e-maah-e-Muharram yehi sada
-  Aati hai mere kaanoṅ mein reh reh ke baarha
+  Aati hai mere kaanoṅ meiṅ reh reh ke baarha
   Likhna hai mere laal ka noha utho utho
 # source_id: nohayonline:9b8341412bd30413f6aa
 # source_url: https://www.nohayonline.com/details_content.php?id=3147

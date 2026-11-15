@@ -11,16 +11,16 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Abbas behan aayi hai darbar mein jaa kar
+  Abbas behan aayi hai darbar meiṅ jaa kar
 
   1
   Kis shaan se nikli thi madine se sawari
   Phir aise lute hum ke na mahmil na amari
-  Bhaiya main tarap kar tumheṅ har baar pukari
+  Bhaiya maiṅ tarap kar tumheṅ har baar pukari
   Imdad ko dukhiya ki na tum aaye baradar
 
   2
-  Abbas suno Shaam-e-Ghariban ki bhi rudad
+  Abbas suno Shaam-e-Gharibaṅ ki bhi rudad
   Ji bhar ke nahiṅ kar sake hum laashoṅ pe faryad
   Khaime bhi jale ghar bhi luta ho gaye barbad
   Thi zer-e-samaṅ bibiyaṅ bemaqna o chadar
@@ -32,8 +32,8 @@ romanLyrics: |-
   Had ye hai tamashai bhi barsate the patthar
 
   4
-  Darbar mein zaalim ke qayamat ka tha manzar
-  Thi zauja-e-hakim pas-e-parde mein khule sar
+  Darbar meiṅ zaalim ke qayamat ka tha manzar
+  Thi zauja-e-hakim pas-e-parde meiṅ khule sar
   Sar sharm se Zainab ka na uthta tha baradar
   Le le ke mere naam rulate the sitamgar
 
@@ -41,18 +41,18 @@ romanLyrics: |-
   Har gaam pe durre jo lagate the sitamgar
   Kis yaas se karte the nazar Abid-e-bimar
   Sun paoge kya aur masaib mere ghamkhwaar
-  Main aayi huṅ durroṅ ke nishaṅ pusht pe lekar
+  Maiṅ aayi huṅ durroṅ ke nishaṅ pusht pe lekar
 
   6
-  Chhaya hua nazroṅ mein hai zindan ka andhera
+  Chhaya hua nazroṅ meiṅ hai zindan ka andhera
   Yaad aata hai reh reh ke wo bachi ka tarapna
-  Thi dil mein Sakina ke rihai ki tamanna
-  Mar kar bhi rahi qaid mein Shabbir ki dukhtar
+  Thi dil meiṅ Sakina ke rihai ki tamanna
+  Mar kar bhi rahi qaid meiṅ Shabbir ki dukhtar
 
   7
   Manzar ye bayaṅ karti thi jab khwahar-e-Hasnain
   Ghazi ki sada aayi na Shehzadi karo bain
-  Hoti hai aziyat mujhe huṅ qabr mein bechain
+  Hoti hai aziyat mujhe huṅ qabr meiṅ bechain
   Dil phatta hai khadim ka fughaṅ aap ki sun kar
 # source_id: nohayonline:ceeda213c0ce34bf0917
 # source_url: https://www.nohayonline.com/details_content.php?id=600

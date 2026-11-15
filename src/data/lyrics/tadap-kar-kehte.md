@@ -20,14 +20,14 @@ romanLyrics: |-
   Zara kuch der ruk ja
 
   1
-  Kai sau tir haiṅ paiwast tan mein
-  Ke ab taaqat nahiṅ mere badan mein
-  Kahaaṅ jaauṅ ga main uth kar
+  Kai sau tir haiṅ paiwast tan meiṅ
+  Ke ab taaqat nahiṅ mere badan meiṅ
+  Kahaaṅ jaauṅ ga maiṅ uth kar
   Zara kuch der ruk ja
 
   2
   Kahiṅ aisa na ho ghabraaye Zainab
-  Shahaadat gaah mein aa jaaye Zainab
+  Shahaadat gaah meiṅ aa jaaye Zainab
   Khari hai khaime ke dar par
   Zara kuch der ruk ja
 
@@ -38,7 +38,7 @@ romanLyrics: |-
   Zara kuch der ruk ja
 
   4
-  Main sar dene ko huṅ tayyaar lekin
+  Maiṅ sar dene ko huṅ tayyaar lekin
   Behen mumkin ho to phir dhal jaane de din
   Behen dekhe na ye manzar
   Zara kuch der ruk ja
@@ -46,7 +46,7 @@ romanLyrics: |-
   5
   Badan dhak de mera meri abaa se
   Tapakta hai lahu meri qaba se
-  Main huṅ is waqt khun se tar
+  Maiṅ huṅ is waqt khun se tar
   Zara kuch der ruk ja
 
   6
@@ -68,7 +68,7 @@ romanLyrics: |-
   Zara kuch der ruk ja
 
   9
-  Bayaaṅ aakhir karuṅ Asif main kiuṅ kar
+  Bayaaṅ aakhir karuṅ Asif maiṅ kiuṅ kar
   Tarap kar kehte the Aamir ye Sarwar
   Duaa-e-khair hai lab par
   Zara kuch der ruk ja

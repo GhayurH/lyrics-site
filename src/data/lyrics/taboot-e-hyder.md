@@ -40,7 +40,7 @@ romanLyrics: |-
   Husain aansu bahaa rahe haiṅ
 
   4
-  Musalla khun-e-Ali mein tar hai
+  Musalla khun-e-Ali meiṅ tar hai
   Khamosh minbar udaas ghar hai
   Hai rozadaaroṅ pe ik qayaamat
   Lahu ke aansu bahaa rahe haiṅ
@@ -49,12 +49,12 @@ romanLyrics: |-
   Hai qabr-e-Zehra pe ik udaasi
   Nabi ka rauza laraz raha hai
   Lagi hai sar par Ali ke zarbat
-  Tamaam khuṅ mein nahaa rahe haiṅ
+  Tamaam khuṅ meiṅ nahaa rahe haiṅ
 
   6
-  Namaaziyoṅ mein hai beqaraari
+  Namaaziyoṅ meiṅ hai beqaraari
   Utha saroṅ se Ali ka saaya
-  Hai tis paaroṅ mein shor-e-girya
+  Hai tis paaroṅ meiṅ shor-e-girya
   Sahifeṅ nauha sunaa rahe hai
 
   7

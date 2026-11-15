@@ -22,7 +22,7 @@ romanLyrics: |-
   Koi hadis-e-Kisa ko parh kar
   Kare hai aaghaaz majlisoṅ ka
   Hai koi aisa ke rone waloṅ
-  Mein ho raha hai shumaar jis ka
+  Meiṅ ho raha hai shumaar jis ka
   Hai koi aisa jo baad-e-majlis
   Hameiṅ ziyaarat parha raha hai
 
@@ -30,7 +30,7 @@ romanLyrics: |-
   Kisi ne sikha hai farsh-e-majlis
   Pe aa ke soz o salaam parhna
   Likha Anis o Dabir ne jo
-  Wo marsiya bazm mein sunaana
+  Wo marsiya bazm meiṅ sunaana
   Kisi ne sikha hai Shaah-e-wala
   Ki majlisoṅ se khitaab karna
   Jo zeb-e-mimbar hua hai wo hi
@@ -42,26 +42,26 @@ romanLyrics: |-
   Wo is amal se bata raha hai
   Ke hai wo Shaah-e-zaman ka naukar
   Saja raha hai koi to parcham
-  Mein mashk tashna laboṅ ko ro kar
+  Meiṅ mashk tashna laboṅ ko ro kar
   Utha ke phir wo jari ka parcham
   Wafa jari se nibha raha hai
 
   4
-  Kisi ke hisse mein aaya naam-e
+  Kisi ke hisse meiṅ aaya naam-e
   Husain Maula pilaana paani
   Jagah jagah par saja raha hai
   Banaam-e-Asghar sabil koi
-  Wo jis ke hisse mein aayi rakhwaali
+  Wo jis ke hisse meiṅ aayi rakhwaali
   Zuljanaah-e-Shah-e-zaman ki
   Wo asp-e-Shaah-e-zaman saja kar
   Nasib apna jaga raha hai
 
   5
   Koi to maatam kunaṅ hai pyaasoṅ
-  Pe majlisoṅ mein bana ke halqa
+  Pe majlisoṅ meiṅ bana ke halqa
   Ye pesh Zahra ko kar raha hai
   Sada-e-maatam se Shah ka pursa
-  Kisi ne zanjeer ka kiya hai
+  Kisi ne zanjir ka kiya hai
   Kisi ne maatam kiya qamah ka
   Jo de raha hai lahu ka pursa
   Jo khun apna baha raha hai
@@ -74,7 +74,7 @@ romanLyrics: |-
   Usi bashar ko duaaeiṅ Karb o Bala
   Se dene ko aaye Sarwar
   Jo rauza-e-dukhtar-e-Ali ke
-  Difaa mein jaaṅ luta raha hai
+  Difaa meiṅ jaaṅ luta raha hai
 
   7
   Koi to Izhaar likh raha hai

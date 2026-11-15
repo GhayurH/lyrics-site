@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Inhiṅ se chali thi Khuda ki khudaai inhiṅ par khudaai ki had ho gayi hai
-  Do aalam mein Aal-e-Nabi haiṅ ke jin par Khuda aashnaai ki had ho gayi hai
+  Do aalam meiṅ Aal-e-Nabi haiṅ ke jin par Khuda aashnaai ki had ho gayi hai
 
   1
   Kisi dam bhi sona nahiṅ jis ko bhaata use is ka sona kuchh aisa hai bhaaya
@@ -36,11 +36,11 @@ romanLyrics: |-
 
   5
   Ohad ki laraai ho ya jang-e-Khaibar har ik ko safaai se kaata hai tu ne
-  Teri dastaras mein jo aaya hai us ko baraabar ke hissoṅ mein baaṅta hai tu ne
+  Teri dastaras meiṅ jo aaya hai us ko baraabar ke hissoṅ meiṅ baaṅta hai tu ne
   Ae tegh-e-Ali tere qurbaan jaauṅ ke tujh par safaai ki had ho gayi hai
 
   6
-  Wo kaaghaz ke maidaan mein lafzoṅ ka lashkar na laashe gire aur na kate gaye sar
+  Wo kaaghaz ke maidaan meiṅ lafzoṅ ka lashkar na laashe gire aur na kate gaye sar
   Faqat chand satroṅ ki tahrir likh kar qalam se laraai ye jite haiṅ Shabbar
   Kaha dekh kar Zulfiqaar-e-Ali ne Hasan par laraai ki had ho gayi hai
 # Source credit: Istefada Kalam Nawab Arif

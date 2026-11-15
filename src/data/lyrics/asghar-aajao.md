@@ -15,13 +15,13 @@ romanLyrics: |-
 
   1
   Tum se bichhar kar dilbar mere
-  Tarpuṅ gi main shaam sawere
+  Tarpuṅ gi maiṅ shaam sawere
   Kaise jiye gi maaṅ bin tere
   Aa jaao aa jaao Asghar aa jaao
 
   2
   Bhuka aalam gor andhera
-  Sune jangal mein hai basera
+  Sune jangal meiṅ hai basera
   Ghutta hai dam khauf se mera
   Phaile haiṅ har simt sitamgar aa jaao
 
@@ -29,7 +29,7 @@ romanLyrics: |-
   Khushk gala hoga mere jaani
   Aao pila laauṅ tumheṅ paani
   Kuchh to pata do kuchh to nishaani
-  Khaati huṅ main thokareṅ dar dar aa jaao
+  Khaati huṅ maiṅ thokareṅ dar dar aa jaao
 
   4
   Aa ja mere raaj dulaare
@@ -39,15 +39,15 @@ romanLyrics: |-
 
   5
   Jab se suna hai fikr siwa hai
-  Nanhe gale mein tir-e-jafa hai
+  Nanhe gale meiṅ tir-e-jafa hai
   Dil ko ik dharka sa laga hai
   Chalta hai dil pe mere khanjar aa jaao
 
   6
   Dhund rahi huṅ kab se ro ro
-  Chain se maqtal mein sote ho
+  Chain se maqtal meiṅ sote ho
   Tarso ge maaṅ ki surat ko
-  Jaati huṅ main Shaam khule sar aa jaao
+  Jaati huṅ maiṅ Shaam khule sar aa jaao
 # source_id: nohayonline:ac528346d7881b5fe66e
 # source_url: https://www.nohayonline.com/details_content.php?id=528
 # raw_sha256: 1051538e55887fd684429bf8f394fe6b38b6c28860f3ca0cf47c09268273b437

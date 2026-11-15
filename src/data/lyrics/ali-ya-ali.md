@@ -31,8 +31,8 @@ romanLyrics: |-
 
   3
   Wo jis ka badan pamaal hua
-  Wo jis ko kafan ran mein na mila
-  Mazloom wo apne baba ka
+  Wo jis ko kafan ran meiṅ na mila
+  Mazlum wo apne baba ka
   Tabut utha kar laaya hai
 
   4

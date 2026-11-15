@@ -1,6 +1,6 @@
 ---
 title: "رہ گئی دشت میں تنہا تو وطن یاد آیا"
-alternateTitle: "Reh Gayi Dasht Mein"
+alternateTitle: "Reh Gayi Dasht Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,20 +11,20 @@ tags: []
 aliases: ["Reh Gayi Dasht May"]
 published: true
 romanLyrics: |-
-  Reh gayi dasht mein tanha to watan yaad aaya
+  Reh gayi dasht meiṅ tanha to watan yaad aaya
   Paani piya to har ek tishna dahan yaad aaya
   Le ke har chiz Madine se chali thi Zainab
   Laash par bhaai ke pahunchi to kafan yaad aaya
 
   1
   Shabbir teri ghurbat ki qasam
-  Main laash teri dafna deti
+  Maiṅ laash teri dafna deti
   Gar sar pe mere chaadar hoti
-  Main tujh ko kafan pehna deti
+  Maiṅ tujh ko kafan pehna deti
 
   2
   Shabbir ye des paraaya hai
-  Warna main tumhaari mayyat par
+  Warna maiṅ tumhaari mayyat par
   Ambaar lagaati kaliyoṅ ke
   Phuloṅ ki meṅh barsa deti
 
@@ -32,31 +32,31 @@ romanLyrics: |-
   Shabbir tumheṅ maalum to hai
   Mere haath bandhe haiṅ gardan se
   Gar haath mere jo khule hote
-  Main laash watan pahuncha deti
+  Maiṅ laash watan pahuncha deti
 
   4
   Shabbir ye tum ne achchha kiya
   Kaabe se nikal aaye warna
-  Ye ummat khaimoṅ ke badle mein
+  Ye ummat khaimoṅ ke badle meiṅ
   Kaabe ko aag laga deti
 
   5
   Gar pyaas ki shiddat se bhaai
   Aansu na mere sukhe hote
-  Aankhoṅ se main teri mayyat par
+  Aankhoṅ se maiṅ teri mayyat par
   Kausar ke jaam baha deti
 
   6
   Khaimoṅ ko jala kar aada ne
   Asbaab mera sab lut liya
-  Tu khud hi bata de bhaai main
+  Tu khud hi bata de bhaai maiṅ
   Deti bhi tujhe to kya deti
 
   7
   Sajjaad ko jalte khaime se
   Gar Shaam na le jaana hota
   Teri laash pe gir kar mar jaati
-  Khud ko main tera sadqa deti
+  Khud ko maiṅ tera sadqa deti
 
   8
   Kausar ye kise haq haasil hai

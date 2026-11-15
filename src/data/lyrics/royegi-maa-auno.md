@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Haye jab ahl-e-haram qaid se Yasrab pahunche
-  Larkharaate hue Zainab ne qadam ghar mein rakhe
+  Larkharaate hue Zainab ne qadam ghar meiṅ rakhe
   Maaṅ ne jab Aun o Muhammad ke musalle dekhe
   Sabr phir tut gaya boli ye Zainab ro ke
 
@@ -31,7 +31,7 @@ romanLyrics: |-
   Tum the is maaṅ ke liye donoṅ jahaaṅ Aun o Muhammad
 
   4
-  Saath jin bachchoṅ ke in galiyoṅ mein tum khelte the
+  Saath jin bachchoṅ ke in galiyoṅ meiṅ tum khelte the
   Hai kahaaṅ Aun o Muhammad wo ye jab puchheṅge
   Kya bataayegi ye maaṅ tum ho kahaaṅ Aun o Muhammad
 
@@ -41,12 +41,12 @@ romanLyrics: |-
   Kar diya qatl tumheṅ tishna dahaan Aun o Muhammad
 
   6
-  Bhai ke laash pe jaate hue dekha main ne
-  Haye Qasim ki tarah dasht mein tum bikhre the
-  Main tumhaare wo badan bhuli kahaaṅ Aun o Muhammad
+  Bhai ke laash pe jaate hue dekha maiṅ ne
+  Haye Qasim ki tarah dasht meiṅ tum bikhre the
+  Maiṅ tumhaare wo badan bhuli kahaaṅ Aun o Muhammad
 
   7
-  Bas ye main jaanti huṅ kaise wahaaṅ sabr kiya
+  Bas ye maiṅ jaanti huṅ kaise wahaaṅ sabr kiya
   Dekh kar nezoṅ pe sar jis ghari Laila ne kaha
   Tum kahaaṅ aur kahaaṅ nok-e-sinaaṅ Aun o Muhammad
 
@@ -56,7 +56,7 @@ romanLyrics: |-
   Thokareṅ maari gayiṅ tum ko wahaaṅ Aun o Muhammad
 
   9
-  Haye Zeeshan o Raza boli ye Zainab ro kar
+  Haye Zishan o Raza boli ye Zainab ro kar
   Do hi bete the jo qurbaan kiye bhai par
   Kehne waala na raha ab koi maaṅ Aun o Muhammad
 # source_id: nohayonline:0e7e43481f03f11199eb

@@ -1,6 +1,6 @@
 ---
 title: "بکھرے پڑے ہیں لاشے صحرا لہو لہو ہے"
-alternateTitle: "Sehra Lahoo Lahoo"
+alternateTitle: "Sehra Lahu Lahu"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Bikhre pare haiṅ laashe sehra lahu lahu hai
-  Dasht-e-bala mein Shah ka sajda lahu lahu hai
+  Dasht-e-bala meiṅ Shah ka sajda lahu lahu hai
 
   1
   Lashkar Yazidiyoṅ ka khaime jala raha hai
@@ -25,16 +25,16 @@ romanLyrics: |-
 
   3
   Jis dam kate the baazu Abbaas ba haya ke
-  Mashk o alam lahu mein dube the ba wafa ke
+  Mashk o alam lahu meiṅ dube the ba wafa ke
   Pyaasoṅ ki tishnagi par darya lahu lahu hai
 
   4
   Ek shab ki jo byaahi deti rahi duhaai
   Kaisi khushi mili jo ik pal na raas aai
-  Qasim ka haaye ran mein sehra lahu lahu hai
+  Qasim ka haaye ran meiṅ sehra lahu lahu hai
 
   5
-  Jab ran mein aae Haidar har Bibi thi hazina
+  Jab ran meiṅ aae Haidar har Bibi thi hazina
   Kehti thi dada jaaṅ se ro ro ke ye Sakina
   Chipka hua badan se kurta lahu lahu hai
 

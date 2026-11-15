@@ -14,7 +14,7 @@ romanLyrics: |-
   Haider ba-qaul-e-qaum-e-Nusairi Khuda bhi hai
 
   1
-  Kaabe mein but shikan haiṅ to masjid mein haiṅ Imam
+  Kaabe meiṅ but shikan haiṅ to masjid meiṅ haiṅ Imam
   Jibrail keh rahe haiṅ Ali La Fata bhi hai
 
   2
@@ -26,7 +26,7 @@ romanLyrics: |-
   Talwaar khench le to ye Sher-e-Khuda bhi hai
 
   4
-  Khaibar mein kaise waar se shah par nahiṅ kate
+  Khaibar meiṅ kaise waar se shah par nahiṅ kate
   Haider ki Zulfiqar se koi bacha bhi hai
 
   5
@@ -35,11 +35,11 @@ romanLyrics: |-
 
   6
   Akbar na kiuṅ ho apne muqabil pe fath yaab
-  Zor-e-Ali hai haath mein maaṅ ki dua bhi hai
+  Zor-e-Ali hai haath meiṅ maaṅ ki dua bhi hai
 
   7
-  Khandaq mein kaun jayega dushman ke saamne
-  Islam mein Ali ke siwa dusra bhi hai
+  Khandaq meiṅ kaun jayega dushman ke saamne
+  Islam meiṅ Ali ke siwa dusra bhi hai
 
   8
   Dekho adab se rauza-e-Shabbir ki taraf

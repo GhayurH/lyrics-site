@@ -15,13 +15,13 @@ romanLyrics: |-
   Ghairat se kahiṅ mera Sajjad na mar jaaye
 
   1
-  Ab is ke siwa mera duniya mein nahiṅ koi
-  Jis tarah main ujri huṅ ujra na kahiṅ koi
-  Mardoṅ mein koi ek to pardes se ghar jaaye
+  Ab is ke siwa mera duniya meiṅ nahiṅ koi
+  Jis tarah maiṅ ujri huṅ ujra na kahiṅ koi
+  Mardoṅ meiṅ koi ek to pardes se ghar jaaye
 
   2
   Qasim na raha mera Akbar na raha mera
-  Had ho gayi jhule mein Asghar na raha mera
+  Had ho gayi jhule meiṅ Asghar na raha mera
   Hai kaun yahaaṅ mera ab kis pe nazar jaaye
 
   3
@@ -41,17 +41,17 @@ romanLyrics: |-
 
   6
   Kuchh der hi guzri hai kholi hai abhi aaṅkheiṅ
-  Gham mein Shaah-e-Waala ke royi hai abhi aaṅkheiṅ
-  Dar hai ke na maqtal mein ye sher biphar jaaye
+  Gham meiṅ Shaah-e-Waala ke royi hai abhi aaṅkheiṅ
+  Dar hai ke na maqtal meiṅ ye sher biphar jaaye
 
   7
-  Kis tarah balaaeiṅ bhi bimaar ki ab luṅ main
-  Abbas ke marne ki kis dil se khabar duṅ main
+  Kis tarah balaaeiṅ bhi bimaar ki ab luṅ maiṅ
+  Abbas ke marne ki kis dil se khabar duṅ maiṅ
   Aur saamne kis muṅh se ye tashna jigar jaaye
 
   8
   Hai dur abhi manzil aur dur thikaana hai
-  Baazaar mein jaana hai darbaar mein jaana hai
+  Baazaar meiṅ jaana hai darbaar meiṅ jaana hai
   Zaalim hameiṅ ab le kar kya jaane kidhar jaaye
 
   9

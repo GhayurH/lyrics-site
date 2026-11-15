@@ -15,7 +15,7 @@ romanLyrics: |-
   Haaye wo bhi tin din ka bhuka pyaasa le gayi
 
   1
-  Aag khaimoṅ mein lagi Asghar ka jhula jal gaya
+  Aag khaimoṅ meiṅ lagi Asghar ka jhula jal gaya
   Ek nishaani reh gayi thi, wo bhi dunya le gayi
 
   2
@@ -23,8 +23,8 @@ romanLyrics: |-
   Sina-e-Akbar se jab barchhi kaleja le gayi
 
   3
-  Shab ki byaahi apni aankhoṅ mein basa kar dasht se
-  Khuṅ mein lipta hua dulha ka sehra le gayi
+  Shab ki byaahi apni aankhoṅ meiṅ basa kar dasht se
+  Khuṅ meiṅ lipta hua dulha ka sehra le gayi
 
   4
   Apne bachchoṅ par na royi bhaai ke gham ke siwa
@@ -35,7 +35,7 @@ romanLyrics: |-
   Subh-e-Aashura bahaareṅ baagh-e-Zehra le gayi
 
   6
-  Qaid mein bachchi ne dam tora hai is sadme ke baad
+  Qaid meiṅ bachchi ne dam tora hai is sadme ke baad
   Tashnagi meri mere ammu ko darya le gayi
 
   7
@@ -48,7 +48,7 @@ romanLyrics: |-
 
   9
   Khaak par har umr ka laasha para hai ae Surur
-  Do peher mein maut ghar ka ghar ye kis ka le gayi
+  Do peher meiṅ maut ghar ka ghar ye kis ka le gayi
 # source_id: nohayonline:5c8bc90893930728fa05
 # source_url: https://www.nohayonline.com/details_content.php?id=3734
 # raw_sha256: 631f6b552d3e5fdba6a168fec90619666239ba3e0179f89fd381bcedc9d0a8c5

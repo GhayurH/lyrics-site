@@ -19,8 +19,8 @@ romanLyrics: |-
   1
   Ae mere maula mere pehle imaam
   Tum pe hazaaroṅ ho durud o salaam
-  Teri sana karta huṅ main subh o shaam
-  Hai teri khidmat mein ye tera ghulaam
+  Teri sana karta huṅ maiṅ subh o shaam
+  Hai teri khidmat meiṅ ye tera ghulaam
   Arsh talak phul ki khushbu gayi
   Bas yehi kehti hai chaman ki kali
 
@@ -29,7 +29,7 @@ romanLyrics: |-
   Hai Hasan-e-Mujtaba tera pisar
   Aisa hai Abbas tera sher-e-nar
   Jaanta hai teri tarah har hunar
-  Tegh jo maidaan mein uski chali
+  Tegh jo maidaan meiṅ uski chali
   Bas yehi har samt sada gunj uthi
 
   3
@@ -45,7 +45,7 @@ romanLyrics: |-
   Qibla-e-ahl-e-wila Kaaba-e-maqsud Ali
   Mazhar-e-nur-e-Khuda qudrat-e-maabud Ali
   Aaṅkh jab hone lagi band to maujud Ali
-  Zist ke shehr mein daakhil hue marna kaisa
+  Zist ke shehr meiṅ daakhil hue marna kaisa
   Jab hai baaliṅ pe Ali maut se darna kaisa
 
   5
@@ -59,13 +59,13 @@ romanLyrics: |-
   Jis ko sahaaba ne bhi maula kaha
   Jis ko wali kehti hai wahi-e-Khuda
   Aal par uski hui kya kya jafa
-  Karb o bala mein gayi Aal-e-Nabi
-  Dasht mein har samt sada gunj uthi
+  Karb o bala meiṅ gayi Aal-e-Nabi
+  Dasht meiṅ har samt sada gunj uthi
 
   7
   Sheh jab uthaane lage laash-e-jawaaṅ
   Gham ki dil-e-sheh pe giri bijliyaaṅ
-  Zauf ke aalam mein ba dard o fughan
+  Zauf ke aalam meiṅ ba dard o fughaṅ
   Laash uthaane lage shaah-e-zaman
   Su-e-Najaf dekh ke bole yehi
   Aaiye imdaad ko baba Ali

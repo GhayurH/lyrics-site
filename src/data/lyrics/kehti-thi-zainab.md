@@ -12,11 +12,11 @@ aliases: []
 published: true
 romanLyrics: |-
   Kehti thi Zainab haaye Husaina
-  Ho gayi barbaad ye behna, Karb o Bala mein
+  Ho gayi barbaad ye behna, Karb o Bala meiṅ
 
   1
   Karbala kuchh na diya karb o aziyat ke siwa
-  Mere daaman mein bacha kya hai musibat ke siwa
+  Mere daaman meiṅ bacha kya hai musibat ke siwa
   Karbala tujh se mila kya hai qayaamat ke siwa
 
   2
@@ -27,7 +27,7 @@ romanLyrics: |-
   3
   Mera athaarah baras waala jiyaala Akbar
   Khaa gayi tujh ko bhi ae Karb o Bala teri nazar
-  Main ne dekha hai usi laal ka barchhi mein jigar
+  Maiṅ ne dekha hai usi laal ka barchhi meiṅ jigar
 
   4
   Bhai athaarah the do bete the koi na raha
@@ -36,18 +36,18 @@ romanLyrics: |-
 
   5
   Mere Abbas pe kya guzri bataauṅ kaise
-  Mashk ik bharne mein do baazu qalam ho ke gire
+  Mashk ik bharne meiṅ do baazu qalam ho ke gire
   Us ke marne se hai mahrum behan chaadar se
 
   6
-  Bekhata bhai mera qatl hua jangal mein
-  Saiṅkroṅ zakhm kaleje pe lage ik pal mein
-  Aag paani mein laga di hai mere aanchal mein
+  Bekhata bhai mera qatl hua jangal meiṅ
+  Saiṅkroṅ zakhm kaleje pe lage ik pal meiṅ
+  Aag paani meiṅ laga di hai mere aanchal meiṅ
 
   7
   Mere Allah mujhe Shaam talak jaana hai
   Koi bhi apna nahiṅ shahr bhi begaana hai
-  Teri khushnudi mein rassi mein mera shaana hai
+  Teri khushnudi meiṅ rassi meiṅ mera shaana hai
 
   8
   Ta qayaamat rahe Rehaan azaa-e-Sarwar

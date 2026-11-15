@@ -23,11 +23,11 @@ romanLyrics: |-
   Karo kuchh to mujh se bayaaṅ Zuljanaah
 
   3
-  Mujhe un ke pehlu mein jaa kar sula do
+  Mujhe un ke pehlu meiṅ jaa kar sula do
   Ke soye hai baaba jahaaṅ Zuljanaah
 
   4
-  Gaya jo bhi maidaaṅ mein palta nahiṅ hai
+  Gaya jo bhi maidaaṅ meiṅ palta nahiṅ hai
   Ye kaisa sitam hai yahaaṅ Zuljanaah
 
   5
@@ -35,19 +35,19 @@ romanLyrics: |-
   Hai ghamgiṅ zamiṅ aasmaaṅ Zuljanaah
 
   6
-  Abhi tak wo kaanoṅ mein gunji hui hai
+  Abhi tak wo kaanoṅ meiṅ gunji hui hai
   Jo Akbar ne di thi azaaṅ Zuljanaah
 
   7
   Na hai paas ammu na hai paas Akbar
-  Na jhule mein hai bezabaaṅ Zuljanaah
+  Na jhule meiṅ hai bezabaaṅ Zuljanaah
 
   8
   Jalaate hai aada qayaam-e-Husaini
   Utha phir diloṅ se dhuaaṅ Zuljanaah
 
   9
-  Bahut tu bhi pyaasa hai main jaanti huṅ
+  Bahut tu bhi pyaasa hai maiṅ jaanti huṅ
   Hai paani pe pehra yahaaṅ Zuljanaah
 
   10

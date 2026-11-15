@@ -20,7 +20,7 @@ romanLyrics: |-
 
   2
   Kya haal-e-dil sunauṅ aauṅ to kaise aauṅ
-  Barchhi mein hai kaleja Sughra maaf karna
+  Barchhi meiṅ hai kaleja Sughra maaf karna
 
   3
   Behaal ho chuka huṅ har aas kho chuka huṅ
@@ -28,7 +28,7 @@ romanLyrics: |-
 
   4
   Ek hashr ka samaṅ hai sehra dhuaṅ dhuaṅ hai
-  Aankhoṅ mein hai andhera Sughra maaf karna
+  Aankhoṅ meiṅ hai andhera Sughra maaf karna
 
   5
   Tu muntazir wahaṅ hai bhai tera yahaṅ hai

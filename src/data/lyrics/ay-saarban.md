@@ -18,9 +18,9 @@ romanLyrics: |-
   Aahista chal ae naatawaaṅ
 
   1
-  Ek reesmaaṅ baarah gale
+  Ek rismaaṅ baarah gale
   Ye qaafila kaise chale
-  Sar pe bala ki dhoop hai
+  Sar pe bala ki dhup hai
   Pairoṅ tale dharti jale
   Hai Bibiyaaṅ sab nim jaaṅ
   Aahista chal ae naatawaaṅ
@@ -44,15 +44,15 @@ romanLyrics: |-
   4
   Zainab ko ghash aane laga
   Jab Shimr ne aa kar kaha
-  Jaldi badhao ab qadam
-  Tay jald ho ye faasla
+  Jaldi barhao ab qadam
+  Te jald ho ye faasla
   Koi na ab khole zabaaṅ
   Aahista chal ae naatawaaṅ
 
   5
   Akbar ki maaṅ kehne lagi
   Ae Shimr ye juraat teri
-  Main zauja-e-Shabbir huṅ
+  Maiṅ zauja-e-Shabbir huṅ
   Maaṅ huṅ Imam-e-waqt ki
   Bas ab chalega hukm-e-maaṅ
   Aahista chal ae naatawaaṅ
@@ -62,7 +62,7 @@ romanLyrics: |-
   Zainab hui hai nauhagar
   Thehro Sakina gir gayi
   Rone lage naizoṅ pe sar
-  Kehne lage Ahl-e-Jinaaṅ
+  Kehne lage Ahl-e-Jinaan
   Aahista chal ae naatawaaṅ
 
   7

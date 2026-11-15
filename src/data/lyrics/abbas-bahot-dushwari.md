@@ -16,64 +16,64 @@ romanLyrics: |-
   Zainab ne kaha ro kar bhaiya
   Sar khulne ki tayyari hai
   Abbas bahot dushwari hai
-  Badhta hai meri jaanib lashkar
+  Barhta hai meri jaanib lashkar
   Aa jaldi aa darr taari hai
   Abbas bahot dushwari hai
 
   1
-  Aakhir main karuṅ kya batla de
+  Aakhir maiṅ karuṅ kya batla de
   Koi raah to mujhko dikhla de
   Aisa na ho mujh par dhaye sitam
-  Main kaun huṅ inko samjha de
+  Maiṅ kaun huṅ inko samjha de
   Sunti huṅ ke teri darya par
   Is waqt alambardari hai
 
   2
   Kiuṅ leta nahiṅ hai meri khabar
-  Main ho gayi huṅ ghar se beghar
+  Maiṅ ho gayi huṅ ghar se beghar
   Darti huṅ na chhin jaye chadar
   Hae dekh qayamat ka manzar
   Kiuṅ karta nahiṅ imdad meri
-  Kya baat hai jo be zaari hai
+  Kya baat hai jo bezaari hai
 
   3
-  Kya is se bada bhi hoga sitam
-  Ab nargha-e-aada mein haiṅ hum
-  Saanseṅ hai gale mein atki hui
+  Kya is se bara bhi hoga sitam
+  Ab nargha-e-aada meiṅ haiṅ hum
+  Saanseṅ hai gale meiṅ atki hui
   Lagta hai nikal jayega dam
   Karti hai Sakina yaad tujhe
   Ghabrai hui bechari hai
 
   4
   Khaimoṅ ko jalaya jaata hai
-  Be jurm sataya jaata hai
+  Bejurm sataya jaata hai
   Aa dekh mere Ghazi qaidi
   Abid ko banaya jaata hai
-  Pehnate hain zalim zanjireṅ
-  Aur tauq galay mein bhaari hai
+  Pehnate haiṅ zalim zanjireṅ
+  Aur tauq gale meiṅ bhaari hai
 
   5
-  Aise mein kare kya teri behan
+  Aise meiṅ kare kya teri behan
   Bandhti hai mere shanoṅ pe rasan
   Kis tarah rakhuṅ dil par qabu
   Kis tarah karuṅ ye zulm sahan
   Ghairat se mera phatta hai jigar
-  Saansoṅ mein bhi aah o zari hai
+  Saansoṅ meiṅ bhi aah o zari hai
 
   6
   Kis tarah jiye nazoṅ ke pale
   Hai ek rasan aur barah gale
   Hanste haiṅ meri ghurbat pe laiṅ
-  Din ye bhi meri taqdir mein the
+  Din ye bhi meri taqdir meiṅ the
   Zinda mujhe bhaiya rakhe hue
   Is waqt meri khuddaari hai
 
   7
-  Koroṅ pe main kore khati huṅ
+  Koroṅ pe maiṅ kore khati huṅ
   Aur kuchh bhi nahiṅ keh paati huṅ
   Jab dekhti huṅ naizoṅ pe sar
   Dil thaam ke bas reh jaati huṅ
-  Hote hain musalsal zulm o sitam
+  Hote haiṅ musalsal zulm o sitam
   Ghurbat ka safar bhi jaari hai
 
   8

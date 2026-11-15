@@ -20,13 +20,13 @@ romanLyrics: |-
   1
   Lasheṅ utha utha ke kamar chur ho gayi
   Jine ki aarzu to bahut dur ho gayi
-  Akbar shahid ho gaye main sochta raha
+  Akbar shahid ho gaye maiṅ sochta raha
   Hum se kisi ne ye bhi na puchha ke kya hua
   Aisa gharib aisa musafir na aaega
 
   2
   Bazu kata ke nehr pe Abbas so gaye
-  Hasrat se Ahl-e-Bait ko main dekhta raha
+  Hasrat se Ahl-e-Bait ko maiṅ dekhta raha
   Ab mere baad meri Sakina ka hoga kya
   Hum se kisi ne ye bhi na puchha ke kya hua
   Aisa gharib aisa musafir na aaega
@@ -40,15 +40,15 @@ romanLyrics: |-
 
   4
   Qasim ki maut meri gharibi pe roi hai
-  Daulat Hasan ki main ne bayabaṅ mein khoi hai
-  Qasim kahaṅ hai dasht mein main dhundhta raha
+  Daulat Hasan ki maiṅ ne bayabaṅ meiṅ khoi hai
+  Qasim kahaṅ hai dasht meiṅ maiṅ dhundhta raha
   Hum se kisi ne ye bhi na puchha ke kya hua
   Aisa gharib aisa musafir na aaega
 
   5
   Pyare the mujh ko jaan se Zainab ke larle
   Wo eriyaṅ ragar ke mera dil dukha gaye
-  Lashoṅ pe un ki haye main tanha khara raha
+  Lashoṅ pe un ki haye maiṅ tanha khara raha
   Hum se kisi ne ye bhi na puchha ke kya hua
   Aisa gharib aisa musafir na aaega
 
@@ -67,9 +67,9 @@ romanLyrics: |-
   Aisa gharib aisa musafir na aaega
 
   8
-  Jab zin se zamiṅ pe Ya Rab gira tha main
-  Amma mere sirhane thi ghash mein para tha main
-  Khanjar lain gale pe mere pherne laga
+  Jab zin se zamiṅ pe Ya Rab gira tha maiṅ
+  Amma mere sirhane thi ghash meiṅ para tha maiṅ
+  Khanjar laiṅ gale pe mere pherne laga
   Hum se kisi ne ye bhi na puchha ke kya hua
   Aisa gharib aisa musafir na aaega
 

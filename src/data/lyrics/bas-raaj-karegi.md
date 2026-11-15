@@ -61,20 +61,20 @@ romanLyrics: |-
   Bas raaj karegi Karb o Bala
 
   7
-  Shaam ke darbaar mein hai bint-e-Zehra berida
+  Shaam ke darbaar meiṅ hai bint-e-Zehra berida
   Ye wo manzil hai jahaaṅ par sabr khud rone laga
-  Baap ke lehje mein khutba de ke Zainab ne kaha
+  Baap ke lehje meiṅ khutba de ke Zainab ne kaha
   Bas raaj karegi Karb o Bala
 
   8
   Ho kisi qaatil ka khanjar ya ho daamaan-e-zamiṅ
   Khun ki surkhi Takallum chhup nahiṅ sakti kahiṅ
-  Har gali mein hai ye naara aaj bhi darwesh ka
+  Har gali meiṅ hai ye naara aaj bhi darwesh ka
   Bas raaj karegi Karb o Bala
 
   9
-  Tum ne jis khun ko maqtal mein dabaana chaaha
-  Aaj wo kucha o baazaar mein aa nikla hai
+  Tum ne jis khun ko maqtal meiṅ dabaana chaaha
+  Aaj wo kucha o baazaar meiṅ aa nikla hai
   Kahiṅ shola kahiṅ naara kahiṅ patthar ban kar
   Aise shole keh bujhaao to bujhaaye na bane
   Aise naare keh dabaao to dabaaye na dabe

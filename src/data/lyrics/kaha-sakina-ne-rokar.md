@@ -25,7 +25,7 @@ romanLyrics: |-
   Lare na bahr-e-Payambar kahaaṅ gaye Ammu
 
   4
-  Main paani laane ko jaane na deti tum ko kabhi
+  Maiṅ paani laane ko jaane na deti tum ko kabhi
   Ye der kiuṅ hui aakhir kahaaṅ gaye Ammu
 
   5
@@ -33,8 +33,8 @@ romanLyrics: |-
   Phuphi ki chhin gayi chaadar kahaaṅ gaye Ammu
 
   6
-  Bandhe haiṅ mashk o alam mein pharera khuṅ mein hai tar
-  Main pyaasi reh gayi aakhir kahaaṅ gaye Ammu
+  Bandhe haiṅ mashk o alam meiṅ pharera khuṅ meiṅ hai tar
+  Maiṅ pyaasi reh gayi aakhir kahaaṅ gaye Ammu
 
   7
   Sar apna pit ke ae Saif kehti hai naadaaṅ

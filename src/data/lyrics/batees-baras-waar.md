@@ -19,24 +19,24 @@ romanLyrics: |-
   Battis baras waar diye chaar baras par
 
   2
-  Laasha liye godi mein sada deti hai Zahra
+  Laasha liye godi meiṅ sada deti hai Zahra
   Is sher ka khuṅ beh gaya paani se zyaada
   Abbas ka ehsaan hai ye Aal-e-Nabi par
 
   3
   Baazu ko qalam dekh ke kehne lage Maula
-  Ye haath mere haath mein Baaba ne diya tha
+  Ye haath mere haath meiṅ Baaba ne diya tha
   Phir su-e-Najaf dekh ke goya hue Sarwar
 
   4
   Shabbir pe sadqa hua Shabbir ka banda
   Ya Fatema Zehra mera maqbul ho hadiya
-  Kehti hai Baqaiya mein ye Abbas ki maadar
+  Kehti hai Baqaiya meiṅ ye Abbas ki maadar
 
   5
   Saadaat ki ab kaun bujhaae ga bhala pyaas
   Ek gurz laga ziṅ se gire khaak pe Abbas
-  Ye sunte hi khaimoṅ mein bapa ho gaya mehshar
+  Ye sunte hi khaimoṅ meiṅ bapa ho gaya mehshar
 
   6
   Kiuṅ ho na dil-e-Abid-e-bimaar ke tukre
@@ -44,7 +44,7 @@ romanLyrics: |-
   Turbat bhi bani qabr-e-Sakina ke baraabar
 
   7
-  Majlis mein kabhi naam jo Abbas ka aata
+  Majlis meiṅ kabhi naam jo Abbas ka aata
   Ye kehte hue uthta tha Shabbir ka beta
   Qurbaan chacha aap pe ye Abid-e-muztar
 
@@ -55,13 +55,13 @@ romanLyrics: |-
 
   9
   Kya nehr pe guzri hai ye kehti thi Sakina
-  Kiuṅ khuṅ mein duba hai alam mere chacha ka
+  Kiuṅ khuṅ meiṅ duba hai alam mere chacha ka
   Sheh beti ko kehte rahe sine se laga kar
 
   10
   Zainab ko gharibi ki khabar kaise sunaate
   Maare gaye Abbas ye kis dil se bataate
-  Sheh kehte rahe chum ke hamsheer ki chaadar
+  Sheh kehte rahe chum ke hamshir ki chaadar
 
   11
   Laashe ki tarah haathoṅ pe parcham ko utha kar

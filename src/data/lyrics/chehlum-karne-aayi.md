@@ -12,11 +12,11 @@ aliases: []
 published: true
 romanLyrics: |-
   Chehlum karne aayi hai Zainab
-  Karb o bala mein zindaaṅ se chhut kar
+  Karb o bala meiṅ zindaaṅ se chhut kar
 
   Sar par orhe zakhmoṅ ki chaadar
   Chehlum karne aayi hai Zainab
-  Karb o bala mein zindaaṅ se chhut kar
+  Karb o bala meiṅ zindaaṅ se chhut kar
 
   1
   Uth kar dekho raaj dulaaroṅ
@@ -29,24 +29,24 @@ romanLyrics: |-
   Utho mere athaarah baraadar
 
   3
-  Farsh bichha do laa kar ran mein
-  Khincho qanaateṅ aa kar ban mein
+  Farsh bichha do laa kar ran meiṅ
+  Khincho qanaateṅ aa kar ban meiṅ
   Aao kahaaṅ ho Qaasim o Akbar
 
   4
-  Ab na watan mein jaauṅgi bhaai
+  Ab na watan meiṅ jaauṅgi bhaai
   Ro ro yahiṅ mar jaauṅgi bhaai
   Ban ke teri turbat ki mujaawir
 
   5
-  Dasht-e-bala mein hashr tha us dam
+  Dasht-e-bala meiṅ hashr tha us dam
   Pahunchi hai jis dam Zainab-e-purnam
   Qabr-e-jari par ghutniyoṅ chal kar
 
   6
-  Kya main bataauṅ Shaah-e-Madina
+  Kya maiṅ bataauṅ Shaah-e-Madina
   Mar gayi ghut gayi baali Sakina
-  Teri amaanat Shaam mein kho kar
+  Teri amaanat Shaam meiṅ kho kar
 
   7
   Kaash teri shaadi jo rachaati

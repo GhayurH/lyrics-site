@@ -50,14 +50,14 @@ romanLyrics: |-
   Hum piyaada jaayeṅ ge Najaf se Karbala
   Ishq ka safar kareṅ ge ho ke ghamzada
   Mausamoṅ ki fikr hogi aur na thakan
-  Sab jawaan o pir hoṅ ge ishq mein magan
-  Raah ke maukaboṅ mein hogi shab basar
+  Sab jawaan o pir hoṅ ge ishq meiṅ magan
+  Raah ke maukaboṅ meiṅ hogi shab basar
   Maaeṅ behneṅ baahijaab hogi hamsafar
   Is farize ko nibhaane jaa rahe haiṅ qaafile
 
   7
-  Karbala ke qaafile mein Safdar o Mazhar bhi haiṅ
-  Phir to waajib hai safar mein bas yehi noha parhe
+  Karbala ke qaafile meiṅ Safdar o Mazhar bhi haiṅ
+  Phir to waajib hai safar meiṅ bas yehi noha parhe
   Karbala chehlum manaane jaa rahe haiṅ qaafile
 # source_id: nohayonline:adfc79ab9fcd71215c87
 # source_url: https://www.nohayonline.com/details_content.php?id=3752

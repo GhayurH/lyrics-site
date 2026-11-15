@@ -17,7 +17,7 @@ romanLyrics: |-
   Tu kaun hai kya naam hai tera ae zaifa
   Ye sun ke buka karne lagi saaniye Zehra
   Zauja huṅ aap ki mujhe pehchaano khudaara
-  Main Aun o Muhammad ki maaṅ huṅ
+  Maiṅ Aun o Muhammad ki maaṅ huṅ
   Pehchaano khudaara
   Mujh ko to jite ji gham-e-Shabbir ne maara
 
@@ -32,17 +32,17 @@ romanLyrics: |-
   Chhuta wo sahaara
 
   3
-  Ek zakhm hai Qasim ka mere qalb o jigar mein
-  Jo chaand ujaaloṅ ka sabab tha mere ghar mein
+  Ek zakhm hai Qasim ka mere qalb o jigar meiṅ
+  Jo chaand ujaaloṅ ka sabab tha mere ghar meiṅ
   Wo bhi gaya maara
 
   4
-  Bas bhaai ke maatam mein rahi qaid bhi kaati
-  Lekin main kabhi Aun o Muhammad ko na roi
+  Bas bhaai ke maatam meiṅ rahi qaid bhi kaati
+  Lekin maiṅ kabhi Aun o Muhammad ko na roi
   Ab deti huṅ pursa
 
   5
-  Bazaar mein Aabid pe zaifi hui taari
+  Bazaar meiṅ Aabid pe zaifi hui taari
   Wo aaj bhi rota hai asiri pe hamaari
   Ghamkhwaar hamaara
 
@@ -52,13 +52,13 @@ romanLyrics: |-
   Us ranj ne maara
 
   7
-  Shiriṅ se mulaaqaat hui raah mein ek baar
+  Shiriṅ se mulaaqaat hui raah meiṅ ek baar
   Pehchaan nahiṅ paayi mujhe wo bhi dil afgaar
   Dil ro ke pukaara
 
   8
-  Sad haif kujaara hai Damishq aur kuja main
-  Karbal se chali ho gayi khud Karb o Bala main
+  Sad haif kujaara hai Damishq aur kuja maiṅ
+  Karbal se chali ho gayi khud Karb o Bala maiṅ
   Zulmat ka safar tha
 
   9

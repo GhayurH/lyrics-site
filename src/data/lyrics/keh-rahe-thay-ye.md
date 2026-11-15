@@ -32,33 +32,33 @@ romanLyrics: |-
 
   4
   Ab to chal raha ho ga ghutniyoṅ mera Asghar
-  Khairiyat Sakina ki khat mein bhej do likh kar
+  Khairiyat Sakina ki khat meiṅ bhej do likh kar
   Tum ko ae Ali Akbar khat likha hai Sughra ne
 
   5
   Khatm jab hui tahrir keh rahe the ye Sarwar
   Ab hamaari gardan par hoga Shimr ka khanjar
-  Tum ko Fatima Sughra kya jawaab mein likhuṅ
+  Tum ko Fatima Sughra kya jawaab meiṅ likhuṅ
 
   6
   Barchhiyoṅ se chhalni hai sina-e-Ali Akbar
   Hurmula ke naawak se mar gaya mera Asghar
-  Tum ko Fatima Sughra kya jawaab mein likhuṅ
+  Tum ko Fatima Sughra kya jawaab meiṅ likhuṅ
 
   7
-  Ik din ki byaahi ka ran mein mar gaya shauhar
+  Ik din ki byaahi ka ran meiṅ mar gaya shauhar
   Mera quwwat-e-baazu so raha hai darya par
-  Tum ko Fatima Sughra kya jawaab mein likhuṅ
+  Tum ko Fatima Sughra kya jawaab meiṅ likhuṅ
 
   8
-  Jab na ran mein hum hoṅge berida haram hoṅge
+  Jab na ran meiṅ hum hoṅge berida haram hoṅge
   Karbala se Kufe tak mustaqil sitam hoṅge
-  Tum ko Fatima Sughra kya jawaab mein likhuṅ
+  Tum ko Fatima Sughra kya jawaab meiṅ likhuṅ
 
   9
   Bekasi-e-Sarwar ko kya bayaaṅ kare Ishrat
   Ghair hoti jaati thi kehke Shaah ki haalat
-  Tum ko Fatima Sughra kya jawaab mein likhuṅ
+  Tum ko Fatima Sughra kya jawaab meiṅ likhuṅ
 # source_id: nohayonline:05392f0a4d7cc0771a62
 # source_url: https://www.nohayonline.com/details_content.php?id=1352
 # raw_sha256: 8298129fdaf6ac10e5a1fcad9becc4cfba532061bdd97a1cbabfc9961e75f104

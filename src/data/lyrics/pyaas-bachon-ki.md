@@ -1,6 +1,6 @@
 ---
 title: "پیاس بچوں کی بھڑک اٹھی تھی پانی دیکھ کر"
-alternateTitle: "Pyaas Bachon Ki"
+alternateTitle: "Pyaas Bachoṅ Ki"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   Haal Asghar kuchh na puchha maaṅ ne bas roti rahi
-  Chehra-e-Shabbir par khun ki nishaani dekh kar
+  Chehra-e-Shabbir par khuṅ ki nishaani dekh kar
 
   4
   Khaak par paani baha kar shaad hote the lain
@@ -39,7 +39,7 @@ romanLyrics: |-
   Ye dua deti thi Laila har jawaani dekh kar
 
   7
-  Sina zan Shabbir ki majlis meiṅ paa kar ae Anees
+  Sina zan Shabbir ki majlis meiṅ paa kar ae Anis
   Hai dua go Fatima ye noha khwaani dekh kar
 # source_id: nohayonline:509d6abb8d869bb59a38
 # source_url: https://www.nohayonline.com/details_content.php?id=284

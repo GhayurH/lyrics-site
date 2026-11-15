@@ -12,12 +12,12 @@ aliases: []
 published: true
 romanLyrics: |-
   Aakhri raat Sakina ka ajab aalam tha
-  Qaid khaane mein tarapti rahi bekas tanha
-  Sar-e-Shabbir ko aaghosh mein le kar apni
+  Qaid khaane meiṅ tarapti rahi bekas tanha
+  Sar-e-Shabbir ko aaghosh meiṅ le kar apni
   Zakhmi hontoṅ pe yatima ke yehi nauha tha
 
   Baaba pehchaano mujhe baaba
-  Main teri Sakina huṅ
+  Maiṅ teri Sakina huṅ
   Tere gham ne mujhe kar diya hai baaba zaifa
 
   1
@@ -43,7 +43,7 @@ romanLyrics: |-
 
   4
   Khaak se apni yatima ko utha lo jaldi
-  Shimr aa jaaye ga godi mein chhupa lo jaldi
+  Shimr aa jaaye ga godi meiṅ chhupa lo jaldi
   Aap to chaahne waaloṅ ko bula lete ho
   Dur huṅ kab se mujhe paas bula lo jaldi
   Bin aap ke achchhi nahiṅ lagti mujhe dunya
@@ -52,22 +52,22 @@ romanLyrics: |-
   Ek nazar ghaur se Ghazi ki bhatiji dekho
   Gir ke naaqe se kamar jhuk gayi meri dekho
   Aankheṅ kholo zara bachchi ki zaifi dekho
-  Mere baaloṅ mein utar aayi safedi dekho
-  Lagta hai zaifa huṅ main ammaaṅ se zyaada
+  Mere baaloṅ meiṅ utar aayi safedi dekho
+  Lagta hai zaifa huṅ maiṅ ammaaṅ se zyaada
 
   6
-  Meri ammaaṅ ne Madine mein sunaaya tha mujhe
+  Meri ammaaṅ ne Madine meiṅ sunaaya tha mujhe
   Haal Hazrat ki mohabbat ka bataaya tha mujhe
   Aakhri hai ye guzaarish miri tum se baaba
-  Jaise dunya mein duaaoṅ se bulaaya tha mujhe
-  Waise hi dua do ke main ab chhor duṅ dunya
+  Jaise dunya meiṅ duaaoṅ se bulaaya tha mujhe
+  Waise hi dua do ke maiṅ ab chhor duṅ dunya
 
   7
-  Qaid khaane mein Takallum hai abhi tak dukhiya
+  Qaid khaane meiṅ Takallum hai abhi tak dukhiya
   Aaj tak baap pe karti hai musalsal girya
   Haaye taqdir rihaai nahiṅ paayi us ne
-  Aaj tak baali Sakina ka rasan mein hai gala
-  Wo qabr mein parhti hai yehi aaj bhi nauha
+  Aaj tak baali Sakina ka rasan meiṅ hai gala
+  Wo qabr meiṅ parhti hai yehi aaj bhi nauha
 # source_id: nohayonline:3e739b97fd7e77c03b7b
 # source_url: https://www.nohayonline.com/details_content.php?id=2748
 # raw_sha256: 14c62f5d670aaaeeeba8a274315366c1cbf350533fb4375a8ac1c545e9c941f0

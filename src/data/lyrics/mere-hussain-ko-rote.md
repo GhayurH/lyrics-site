@@ -22,7 +22,7 @@ romanLyrics: |-
   2
   Shahid-e-kushta-e-jaur o jafa pe rote haiṅ
   Jo mere laal ko farsh-e-aza pe rote haiṅ
-  Main ek roz unheṅ Karbala dikha duṅ gi
+  Maiṅ ek roz unheṅ Karbala dikha duṅ gi
 
   3
   Diloṅ ka dard lab-e-iltija pe rakh dena
@@ -30,14 +30,14 @@ romanLyrics: |-
   Har ek daaman-e-ummid ko saja duṅ gi
 
   4
-  Gulu-e-khushk pe khanjar bhi main ne dekha hai
-  Wahiṅ pe laasha-e-besar bhi main ne dekha hai
-  Bataao kaise main Karbobala bhula duṅ gi
+  Gulu-e-khushk pe khanjar bhi maiṅ ne dekha hai
+  Wahiṅ pe laasha-e-besar bhi maiṅ ne dekha hai
+  Bataao kaise maiṅ Karbobala bhula duṅ gi
 
   5
   Na ro saki jise ji bhar ke Zainab-e-dilgir
   Sada buland rahe shor-e-maatam-e-Shabbir
-  Main in sadaaoṅ mein apni sada mila duṅ gi
+  Maiṅ in sadaaoṅ meiṅ apni sada mila duṅ gi
 
   6
   In aansuoṅ ke wasile se tum ko chain mile
@@ -46,13 +46,13 @@ romanLyrics: |-
 
   7
   Mere shahid ke ghamkhaar ban ke aao ge
-  Jo Karbala mein azaadaar ban ke aao ge
+  Jo Karbala meiṅ azaadaar ban ke aao ge
   Tumhaare waaste farsh-e-aza bichha duṅ gi
 
   8
   Kalim tohfa-e-gham Haq ki pursadaari hai
   Jo qaum aaj bhi masruf-e-aah o zaari hai
-  Use main saaya-e-rahmat mein aasra duṅ gi
+  Use maiṅ saaya-e-rahmat meiṅ aasra duṅ gi
 # source_id: nohayonline:3fe84334e975a5cea490
 # source_url: https://www.nohayonline.com/details_content.php?id=2476
 # raw_sha256: 7ec4c9ac93b9615215fc549a3c8352f5def85396ef66a67c34a100152a4a44be

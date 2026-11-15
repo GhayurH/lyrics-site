@@ -1,6 +1,6 @@
 ---
 title: "بھائی میں لٹی آئی ہوں زینب کی صدا ہے"
-alternateTitle: "Bhai Main Luti Aayi"
+alternateTitle: "Bhai Maiṅ Luti Aayi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,24 +11,24 @@ tags: []
 aliases: ["Bhai Mai Luti Aayi"]
 published: true
 romanLyrics: |-
-  Bhai main luti aayi huṅ Zainab ki sada hai
+  Bhai maiṅ luti aayi huṅ Zainab ki sada hai
   Rassi ke nishaaṅ laayi huṅ Zainab ki sada hai
 
   1
-  Baazaar mein baaloṅ se hi muṅh apna chhupa kar
-  Kis tarah se main aayi huṅ Zainab ki sada hai
+  Baazaar meiṅ baaloṅ se hi muṅh apna chhupa kar
+  Kis tarah se maiṅ aayi huṅ Zainab ki sada hai
 
   2
-  Dil sine mein phatta tha mera yaad mein tere
-  Ab jaa ke main ro paayi huṅ Zainab ki sada hai
+  Dil sine meiṅ phatta tha mera yaad meiṅ tere
+  Ab jaa ke maiṅ ro paayi huṅ Zainab ki sada hai
 
   3
-  Pyaasi hi Sakina mari zindaan mein Abbas
-  Us ko main sula aayi huṅ Zainab ki sada hai
+  Pyaasi hi Sakina mari zindaan meiṅ Abbas
+  Us ko maiṅ sula aayi huṅ Zainab ki sada hai
 
   4
   Sunte hi tarapne laga Abbas ka laasha
-  Main qaid-e-sitam paayi huṅ Zainab ki sada hai
+  Maiṅ qaid-e-sitam paayi huṅ Zainab ki sada hai
 
   5
   Ik laash ki tarah tha khara Aabid-e-bimaar
@@ -39,12 +39,12 @@ romanLyrics: |-
   Manzar bhi ye dekh aayi huṅ Zainab ki sada hai
 
   7
-  Ye keh ke diya Shaam ke darbaar mein khutba
+  Ye keh ke diya Shaam ke darbaar meiṅ khutba
   Hasnain ki maaṅ jaayi huṅ Zainab ki sada hai
 
   8
   Uthi ye Najaf qabr se Shabbir ki keh kar
-  Ab bhai main bin bhai huṅ Zainab ki sada hai
+  Ab bhai maiṅ bin bhai huṅ Zainab ki sada hai
 # source_id: nohayonline:1860682ab4003ec2c18b
 # source_url: https://www.nohayonline.com/details_content.php?id=1764
 # raw_sha256: f43b94ec5e3638294c60307f6592ce734cc33d83d8f12108bfc0994306cb5f69

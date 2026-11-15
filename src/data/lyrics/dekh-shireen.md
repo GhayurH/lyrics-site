@@ -11,13 +11,13 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ran mein laashe haiṅ pare nezoṅ pe sar aaye haiṅ
+  Ran meiṅ laashe haiṅ pare nezoṅ pe sar aaye haiṅ
   Dekh Shiriṅ tere aaqa tere ghar aaye haiṅ
 
   1
   Baal chehre pe hai jis ke teri shehzaadi hai
   Jis ke shaanoṅ pe nishaaṅ rassi ka faryaadi hai
-  Kitne nashtar dil-e-Zainab mein utar aaye haiṅ
+  Kitne nashtar dil-e-Zainab meiṅ utar aaye haiṅ
 
   2
   Jin ka pehra kabhi Abbas diya karte the
@@ -25,18 +25,18 @@ romanLyrics: |-
   Tere ghar aaj wohi khaak basar aaye haiṅ
 
   3
-  Kaun sa hashr ka manzar na nigaahoṅ mein phira
+  Kaun sa hashr ka manzar na nigaahoṅ meiṅ phira
   Sar bhi neze se sar-e-raah kai baar gira
-  Dekh kis haal mein Hashim ke qamar aaye haiṅ
+  Dekh kis haal meiṅ Hashim ke qamar aaye haiṅ
 
   4
   Haath sine pe dhare baithi hai Umm-e-Laila
-  Dard jo dil mein hai tab ho gaya wo aur ziyaada
+  Dard jo dil meiṅ hai tab ho gaya wo aur ziyaada
   Jab bhi qaatil Ali Akbar ke naare aaye haiṅ
 
   5
-  Tu ne daalaan mein daala hai ye kis ka jhula
-  Tir se chhid gaya maqtal mein gala Asghar ka
+  Tu ne daalaan meiṅ daala hai ye kis ka jhula
+  Tir se chhid gaya maqtal meiṅ gala Asghar ka
   Chhe mahine ke haiṅ neze pe magar aaye haiṅ
 
   6
@@ -47,17 +47,17 @@ romanLyrics: |-
   7
   Umm-e-Farwa ko bhi pursa do zara Qasim ka
   Gham na bhule gi kabhi Karbobala Qasim ka
-  Laash bhi tukroṅ mein taqsim jo kar aaye haiṅ
+  Laash bhi tukroṅ meiṅ taqsim jo kar aaye haiṅ
 
   8
-  Dekh zanjiroṅ mein jakra hai tera shehzaada
+  Dekh zanjiroṅ meiṅ jakra hai tera shehzaada
   Phuphiyaṅ beparda hai uthta nahiṅ sar Abid ka
   Le ke kunbe ke ujarne ki khabar aaye haiṅ
 
   9
   Shah ne Aamir tujhe ye dida-e-nam bakhsha hai
   Dar pe Ghazi ne bula kar ye qalam bakhsha hai
-  Tab tere misroṅ mein Nayyar ye asar aaye haiṅ
+  Tab tere misroṅ meiṅ Nayyar ye asar aaye haiṅ
 # source_id: nohayonline:16511e3f1660d1ecaed3
 # source_url: https://www.nohayonline.com/details_content.php?id=3405
 # raw_sha256: dcbc01a396f5ebf23be8b592a6f8a9897ec731c51c21919d670356302aa57693

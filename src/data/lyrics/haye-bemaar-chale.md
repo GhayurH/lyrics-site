@@ -11,24 +11,24 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Haye bimaar chale paauṅ mein zanjir liye
+  Haye bimaar chale paauṅ meiṅ zanjir liye
   Nange sar Haidar-e-Karraar ki jaagir liye
 
   1
   Na liya dharti ne khuṅ aur na falak ne chaaha
-  Mal liya chehre pe khuṅ haathoṅ mein beshir liye
+  Mal liya chehre pe khuṅ haathoṅ meiṅ beshir liye
 
   2
-  Raat ko khwaab mein Akbar ko tarapte dekha
+  Raat ko khwaab meiṅ Akbar ko tarapte dekha
   Aa gaya qaasid-e-Sughra wohi taabir liye
 
   3
   Dekh kar tuta alam chaadareiṅ sar se sarki
-  Su-e-darya hai nazar aaṅkhoṅ mein hai nir liye
+  Su-e-darya hai nazar aaṅkhoṅ meiṅ hai nir liye
 
   4
-  Khwaab mein dulhe ko Karbal mein sajaaya Najafi
-  Jaa rahi qabr mein dulhan ko bhi taqdeer liye
+  Khwaab meiṅ dulhe ko Karbal meiṅ sajaaya Najafi
+  Jaa rahi qabr meiṅ dulhan ko bhi taqdir liye
 # source_id: nohayonline:4030a47fbfe82efc1c89
 # source_url: https://www.nohayonline.com/details_content.php?id=2960
 # raw_sha256: 1020e7c56657bd2d40bf96bf455a1691e3b434557febd525c37c3b4a51376b79

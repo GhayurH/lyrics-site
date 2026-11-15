@@ -13,40 +13,40 @@ published: true
 romanLyrics: |-
   Haye bazaar-e-Shaam
 
-  Aa gayi Zainab khule sar Shaam ke bazaar mein
-  Raah mein khayegi patthar jayegi darbar mein
+  Aa gayi Zainab khule sar Shaam ke bazaar meiṅ
+  Raah meiṅ khayegi patthar jayegi darbar meiṅ
 
   1
-  Tik ke baithe hoṅ ge Abid haye jis deewar se
-  Bad gayi hoṅ gi daraareiṅ haye us deewar mein
+  Tik ke baithe hoṅ ge Abid haye jis diwar se
+  Bad gayi hoṅ gi daraareiṅ haye us diwar meiṅ
 
   2
   Ae Khuda-e-lam-yazal ye teri aankheiṅ to nahiṅ
-  Kis ki aankheiṅ ro rahi hai dida-e-khuṅ baar mein
+  Kis ki aankheiṅ ro rahi hai dida-e-khuṅ baar meiṅ
 
   3
   Waaris-e-kul ambiya ki is liye waaris hai tu
-  Jalwa-e-tauhid hai Zainab tere asrar mein
+  Jalwa-e-tauhid hai Zainab tere asrar meiṅ
 
   4
   Baad-e-qatl-e-Shaah-e-waala ek zamane par khula
-  Himmat-e-Zainab thi shamil Shah ke inkar mein
+  Himmat-e-Zainab thi shamil Shah ke inkar meiṅ
 
   5
   Sab the razi sar katane par bajuz Sajjad ke
-  Jaane kya mushkil chhupi thi tauq ke aazaar mein
+  Jaane kya mushkil chhupi thi tauq ke aazaar meiṅ
 
   6
   Sar ba-sajda haibat-e-Musa sawali hai jahaṅ
-  Kaun si haibat khuda jaane hai us bemaar mein
+  Kaun si haibat khuda jaane hai us bemaar meiṅ
 
   7
-  Jis karhe mein baaqi hai Sajjad ke girye ki dhaar
-  Is qadar tezi kahaṅ ho gi kisi talwaar mein
+  Jis karhe meiṅ baaqi hai Sajjad ke girye ki dhaar
+  Is qadar tezi kahaṅ ho gi kisi talwaar meiṅ
 
   8
   Baad-e-qatl-e-Shaah-e-diṅ ye waqt ruk jaata Naved
-  Haye Abid gar na hote waqt ki raftar mein
+  Haye Abid gar na hote waqt ki raftar meiṅ
 # source_id: nohayonline:829f19d99739c4a597e6
 # source_url: https://www.nohayonline.com/details_content.php?id=3104
 # raw_sha256: 8497f12ec76dd283c2522b7bedda19c5c4ef04edcc2281d1fc69defb591897cf

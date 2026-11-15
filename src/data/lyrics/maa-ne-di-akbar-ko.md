@@ -17,7 +17,7 @@ romanLyrics: |-
 
   1
   Dil tha mera sehra tera
-  Dekhuṅ gi main in aaṅkhoṅ se
+  Dekhuṅ gi maiṅ in aaṅkhoṅ se
   Mehndi teri sehra kahaaṅ
   Ae meri jaaṅ ae meri jaaṅ
 

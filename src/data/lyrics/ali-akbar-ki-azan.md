@@ -22,7 +22,7 @@ romanLyrics: |-
   Phir ye aawaz kahaṅ
 
   2
-  Dasht mein pyase muazzin ne jo takbir kahi
+  Dasht meiṅ pyase muazzin ne jo takbir kahi
   Aa gayi apne musalle pe Ali ki beti
   Yaad phir aayi use apne Baba ki azaṅ
   Ro pari Aun ki maaṅ
@@ -47,7 +47,7 @@ romanLyrics: |-
 
   6
   Aaya jab naam-e-Ali uth ke ye Maula ne kaha
-  Main fida aap pe Baba meri aulad fida
+  Maiṅ fida aap pe Baba meri aulad fida
   Tir Asghar ke lage sina Akbar ka chhide
   Mujh pe khanjar ho rawaṅ
 
@@ -55,7 +55,7 @@ romanLyrics: |-
   Itna tarpega Husain Ibn-e-Ali Ae beta
   Teri maaṅ teri phuphi teri Sakina Sughra
   Ji na paeṅge sabhi tujh ko barchhi jo lagi
-  Tujh mein hum sab ki hai jaaṅ
+  Tujh meiṅ hum sab ki hai jaaṅ
 
   8
   Masjid-e-Kufa nazar aane lagi Karb o Bala
@@ -64,7 +64,7 @@ romanLyrics: |-
   Ek Akbar ki azaṅ
 
   9
-  Kis qadar dard mein dubi thi sada Akbar ki
+  Kis qadar dard meiṅ dubi thi sada Akbar ki
   Ghash se uth kar kaha Sajjad ne batlae phuphi
   Sab kiuṅ rote haiṅ yahaṅ shor hai kaisa bapa
   Kaun deta hai azaṅ
@@ -72,7 +72,7 @@ romanLyrics: |-
   10
   Kaise manzar ho bhala Mir Takallum wo raqam
   Bab-e-Saat pe huiṅ satrah azaneṅ jis dam
-  Sun ke ek ek azaṅ ro ke kehti thi wo maaṅ
+  Sun ke ek ek azan ro ke kehti thi wo maaṅ
   Mere Akbar ho kahaṅ
 ---
 

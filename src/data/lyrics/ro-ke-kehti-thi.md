@@ -18,7 +18,7 @@ romanLyrics: |-
   1
   Haaye Yaaqub se Yusuf ko milaane wale
   Kashti-e-Nuh ko tufaaṅ se bachaane wale
-  Darya-e-Nil mein bhi raah banaane wale
+  Darya-e-Nil meiṅ bhi raah banaane wale
   Shab-e-meraaj Payambar ko bulaane wale
   Ya Ilaahi meri bigri hui taqdir bana de
 
@@ -45,9 +45,9 @@ romanLyrics: |-
 
   5
   Thi isi shehr ki ek roz kabhi shehzaadi
-  Aaj taqdir se zindaaṅ mein bani huṅ qaidi
-  Jaise pinjre mein koi qaid hua ho panchi
-  Waise zindaan mein haaṅ qaid hui huṅ main bhi
+  Aaj taqdir se zindaaṅ meiṅ bani huṅ qaidi
+  Jaise pinjre meiṅ koi qaid hua ho panchi
+  Waise zindaan meiṅ haaṅ qaid hui huṅ maiṅ bhi
   Ya Ilaahi meri bigri hui taqdir bana de
 
   6
@@ -58,10 +58,10 @@ romanLyrics: |-
   Ya Ilaahi meri bigri hui taqdir bana de
 
   7
-  Gar main Baaba na chacha bhaai se mil paauṅgi
-  Jo hue mujh pe sitam kis se main batlaauṅgi
-  Apne Baaba ki main furqat mein hi mar jaauṅgi
-  Khaali jhule se hi dil kaise main behlaauṅgi
+  Gar maiṅ Baaba na chacha bhaai se mil paauṅgi
+  Jo hue mujh pe sitam kis se maiṅ batlaauṅgi
+  Apne Baaba ki maiṅ furqat meiṅ hi mar jaauṅgi
+  Khaali jhule se hi dil kaise maiṅ behlaauṅgi
   Ya Ilaahi meri bigri hui taqdir bana de
 
   8
@@ -74,7 +74,7 @@ romanLyrics: |-
   9
   Haaye Aalam jo Sakina ye dua karti thi
   Aasmaaṅ rota tha zindaaṅ ki zamiṅ hilti thi
-  Apne Baaba ki judaai mein wo jaaṅ khoti thi
+  Apne Baaba ki judaai meiṅ wo jaaṅ khoti thi
   Kar ke Aamir ye dua bachchi bahut roti thi
   Ya Ilaahi meri bigri hui taqdir bana de
 # source_id: nohayonline:7e603a05be01db08027c

@@ -11,7 +11,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Baad-e-Sheh Zainab-e-dilgir ne kya kya dekha
-  Sumein aspoṅ ke tale bhai ka laasha dekha
+  Sumeiṅ aspoṅ ke tale bhai ka laasha dekha
 
   1
   Haq parastoṅ ka wafadaaroṅ ka aur pyaaroṅ ka
@@ -26,23 +26,23 @@ romanLyrics: |-
   Khun kaanoṅ se Sakina ke tapakta dekha
 
   4
-  Ek rasan mein kiya paaband bare chhotoṅ ko
-  Tauq o zanjir mein bimaar ko jakra dekha
+  Ek rasan meiṅ kiya paaband bare chhotoṅ ko
+  Tauq o zanjir meiṅ bimaar ko jakra dekha
 
   5
   God se maa'oṅ ki dauraane rahe Kufa o Shaam
   Jo bhi bachcha gira naaqe se kuchalta dekha
 
   6
-  Haaye jis shehr mein shehzaadi kahi jaati thi
-  Khud ko is Kufe mein bemakna o chaadar dekha
+  Haaye jis shehr meiṅ shehzaadi kahi jaati thi
+  Khud ko is Kufe meiṅ bemakna o chaadar dekha
 
   7
-  Qaid mein mar gayi ghut ghut ke Sakina aakhir
-  Marqad ek chhota sa zindaan mein banta dekha
+  Qaid meiṅ mar gayi ghut ghut ke Sakina aakhir
+  Marqad ek chhota sa zindaan meiṅ banta dekha
 
   8
-  Haaye Shabbir ne aur Zainab o Kubra ne Anees
+  Haaye Shabbir ne aur Zainab o Kubra ne Anis
   Waqt ke saath zamane ko badalta dekha
 # source_id: nohayonline:7d9db1328635713571fd
 # source_url: https://www.nohayonline.com/details_content.php?id=1046

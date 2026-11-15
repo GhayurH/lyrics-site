@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   Kya ho gaya Ali ko jo khaamosh chal diye
-  Rassi gale mein daal ke jab ashqiya chale
+  Rassi gale meiṅ daal ke jab ashqiya chale
 
   4
   Sab jaante haiṅ kya hua Shabbar ki laash par

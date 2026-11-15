@@ -11,15 +11,15 @@ aliases: []
 published: true
 reciter: "Mir Bober Ali"
 romanLyrics: |-
-  Aaja Asghar god mein kehti rahi maaṅ raat bhar
+  Aaja Asghar god meiṅ kehti rahi maaṅ raat bhar
   Har musibat ranj o gham sehti rahi maaṅ raat bhar
 
   1
   Tir se zaalim ne Asghar ko kiya pyaasa shahid
-  Bas isi ek dard mein dubi rahi maaṅ raat bhar
+  Bas isi ek dard meiṅ dubi rahi maaṅ raat bhar
 
   2
-  Mujh ko lagta hai ke jaise soye ho tum god mein
+  Mujh ko lagta hai ke jaise soye ho tum god meiṅ
   Nind se jaago zara kehti rahi maaṅ raat bhar
 
   3
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   6
   Ashk aankhoṅ se musalsal behte the Sajjad ke
-  Jab ye dekha ranj mein dubi rahi maaṅ raat bhar
+  Jab ye dekha ranj meiṅ dubi rahi maaṅ raat bhar
 
   7
   Kya sunaayega Bober haalaat-e-gham aur kis tarah

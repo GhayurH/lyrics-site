@@ -1,6 +1,6 @@
 ---
 title: "کون و مکاں میں برپا ماتم ہے فاطمہ کا"
-alternateTitle: "Kaun O Makaaṅ Meiṅ"
+alternateTitle: "Kaun o Makaaṅ Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -45,9 +45,9 @@ romanLyrics: |-
 
   6
   Zehra ka to janaaza taarik shab meiṅ utha
-  Yaad aate haiṅ Rasheed ab baazaar-e-Shaam o Kufa
+  Yaad aate haiṅ Rashid ab baazaar-e-Shaam o Kufa
   Wo betiyaaṅ Ali ki bechaadari ka charcha
-  Wo aalam-e-asiri wo unt be kajaawa
+  Wo aalam-e-asiri wo unt bekajaawa
 # source_id: nohayonline:84ab34308e22793f89cb
 # source_url: https://www.nohayonline.com/details_content.php?id=1961
 # raw_sha256: 6e0c6f79012763fe4282314acaefa6a746b9ad8e6c0bf3d256b79ea8203b9683

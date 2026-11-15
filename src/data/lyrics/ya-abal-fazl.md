@@ -33,7 +33,7 @@ romanLyrics: |-
   3
   Tut jaaye na meri aas ae ummid-e-haram
   Mere zakhmoṅ ka faqat aap ho Ghaazi marham
-  Arbain par hameṅ bulwa le ziyaarat ke liye
+  Arbaiṅ par hameṅ bulwa le ziyaarat ke liye
   Aap ko pehlu shikasta kisi Bibi ki qasam
   Abal Fazl ya Abal Fazl ya Abal Fazl
 
@@ -41,21 +41,21 @@ romanLyrics: |-
   Hum ko duniya ka tarafdaar na hone dena
   Sirf baatoṅ ka azaadaar na hone dena
   Sadqa shehzaadi Ruqayya ke bandhe haathoṅ ka
-  Hum ko mushkil mein giraftaar na hone dena
+  Hum ko mushkil meiṅ giraftaar na hone dena
   Abal Fazl ya Abal Fazl ya Abal Fazl
 
   5
-  Likh do taqdir mein phir Karbala jaana Ghaazi
+  Likh do taqdir meiṅ phir Karbala jaana Ghaazi
   Apna darbaar hameṅ jald dikhaana Ghaazi
   Waasta deta huṅ zakhm-e-Ali Akbar ka tumheṅ
   Karbala saare jawaanoṅ ko bulaana Ghaazi
   Abal Fazl ya Abal Fazl ya Abal Fazl
 
   6
-  Us ghari nazroṅ mein Aashur ki rudaad aai
-  Aansu aankhoṅ mein bhare hontoṅ pe faryaad aai
+  Us ghari nazroṅ meiṅ Aashur ki rudaad aai
+  Aansu aankhoṅ meiṅ bhare hontoṅ pe faryaad aai
   Saamne paani tha aur pi bhi nahiṅ sakta tha
-  Mujh ko rauze mein teri pyaas bahut yaad aai
+  Mujh ko rauze meiṅ teri pyaas bahut yaad aai
   Abal Fazl ya Abal Fazl ya Abal Fazl
 
   7
@@ -66,7 +66,7 @@ romanLyrics: |-
   Abal Fazl ya Abal Fazl ya Abal Fazl
 
   8
-  Us ghari khaima-e-saadaat mein kohraam hua
+  Us ghari khaima-e-saadaat meiṅ kohraam hua
   Khuṅ bhara jis ghari ran se tera parcham aaya
   Pyaasi mar jaauṅ gi aur paani nahiṅ maaṅguṅ gi
   Tor kar kuze yeh maasum Sakina ne kaha
@@ -75,7 +75,7 @@ romanLyrics: |-
   9
   Tu ne achchha hua bhaai ki na ghurbat dekhi
   Taane deta tha koi Shaah pe hansta tha koi
-  Apne bhaai ki madad ke liye ran mein aa kar
+  Apne bhaai ki madad ke liye ran meiṅ aa kar
   Laash Zainab ne uthaai hai Ali Akbar ki
   Abal Fazl ya Abal Fazl ya Abal Fazl
 
@@ -86,7 +86,7 @@ romanLyrics: |-
   Abal Fazl Abal Fazl Abal Fazl alamdaar
 
   11
-  Aakhri lamhoṅ mein Shabbir bahut pyaase the
+  Aakhri lamhoṅ meiṅ Shabbir bahut pyaase the
   Bari hasrat se su-e-nehr nazar karte the
   Shimr hans hans ke lagaata raha terah zarbeṅ
   Aur har waar pe Shabbir sada dete the

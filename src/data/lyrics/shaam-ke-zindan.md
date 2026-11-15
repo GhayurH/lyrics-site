@@ -1,6 +1,6 @@
 ---
 title: "شام کے زنداں سے یہ آئی صدا"
-alternateTitle: "Shaam Ke Zindan"
+alternateTitle: "Shaam Ke Zindaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -17,18 +17,18 @@ romanLyrics: |-
   Dam ghuta jaata hai mera qaid meiṅ
 
   1
-  Main karuṅ kab tak tumhaara intizaar
+  Maiṅ karuṅ kab tak tumhaara intizaar
   Pyaasi aaṅkheṅ har ghari hai ashkbaar
   Lene aaoge mujhe tum kab bhala
 
   2
-  Laakh apne dil ko behlaati huṅ main
-  Par andheroṅ se dari jaati huṅ main
+  Laakh apne dil ko behlaati huṅ maiṅ
+  Par andheroṅ se dari jaati huṅ maiṅ
   Mil rahi hai mujh ko ye kaisi saza
 
   3
   Karbala se shaam tak ka ye safar
-  Sakhtiyaaṅ jheli hai main ne raah bhar
+  Sakhtiyaaṅ jheli hai maiṅ ne raah bhar
   Aur is par zulm ye zindan ka
 
   4
@@ -43,11 +43,11 @@ romanLyrics: |-
 
   6
   Nil chehre par hai kurta khuṅ se tar
-  Main bahut royi huṅ ammu raat bhar
+  Maiṅ bahut royi huṅ ammu raat bhar
   Puchhta koi nahiṅ hai kya hua
 
   7
-  Umr chhoti hai bahut main kya karuṅ
+  Umr chhoti hai bahut maiṅ kya karuṅ
   Aur kab tak zulm se tanha laruṅ
   Ho na aisa dam nikal jaaye mera
 
@@ -58,7 +58,7 @@ romanLyrics: |-
 
   9
   Jaane kab ho mujh ko mera ghar nasib
-  Main khari huṅ maut se itna qarib
+  Maiṅ khari huṅ maut se itna qarib
   Dijiye dhaaras mujhe aa kar chacha
 
   10

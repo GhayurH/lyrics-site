@@ -22,7 +22,7 @@ romanLyrics: |-
   Har Shah ke azaadaar ki quwwat ko barha kar
 
   2
-  Jab majlis-e-Shabbir mein aate haiṅ azaadaar
+  Jab majlis-e-Shabbir meiṅ aate haiṅ azaadaar
   Pyaasoṅ ke liye ashk bahaate haiṅ azaadaar
   Rumaal azaadaaroṅ ki aankhoṅ se laga kar
 
@@ -34,7 +34,7 @@ romanLyrics: |-
   4
   Aati hai Sakina bhi aza khaane ke andar
   Ghaazi ke masaaib pe bilakti hai woh muztar
-  Aaghosh mein maasum Sakina ko utha kar
+  Aaghosh meiṅ maasum Sakina ko utha kar
 
   5
   Daadi se ye jab kehti hai maasum Sakina
@@ -44,7 +44,7 @@ romanLyrics: |-
   6
   Jaati hai nazar parcham-e-Abbas pe jis dam
   Shahzaadi bahut roti hai sar pit ke us dam
-  Phirta hai nigaahoṅ mein taraai ka woh manzar
+  Phirta hai nigaahoṅ meiṅ taraai ka woh manzar
 
   7
   Qismat pe bahut naaz hai ham ghamkhwaar haiṅ Bibi

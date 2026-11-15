@@ -22,10 +22,10 @@ romanLyrics: |-
   2
   Bibiyoṅ pe jis qadar karte the aada jafa
   Utna hi sayyidaaniyaṅ karti haiṅ aah o buka
-  Dasht-e-jafa mein yehi gunj rahi thi sada
+  Dasht-e-jafa meiṅ yehi gunj rahi thi sada
 
   3
-  Baandhi jafa kaaroṅ ne shaanoṅ mein kas kar rasan
+  Baandhi jafa kaaroṅ ne shaanoṅ meiṅ kas kar rasan
   Kis tarah hamshir de bhaai ko apne kafan
   Chhin li sar se rida ho gayi bebas behan
 
@@ -40,12 +40,12 @@ romanLyrics: |-
   Lashkar-e-jaur o sitam jaane ko tayyaar hai
 
   6
-  God se bachche sabhi raahoṅ mein girte rahe
+  God se bachche sabhi raahoṅ meiṅ girte rahe
   Dab ke sidhaare jinaaṅ naaqoṅ ke paaoṅ tale
   Maaoṅ ne ye daagh bhi apne jigar par sahe
 
   7
-  Kar gayi zindaan mein jab se Sakina qaza
+  Kar gayi zindaan meiṅ jab se Sakina qaza
   Ranj o alam ho gaya Aal-e-Nabi ka siwa
   Laashe se lipti hui karti thi Bano buka
 
@@ -56,13 +56,13 @@ romanLyrics: |-
 
   9
   Marqad-e-Shabbir par jab ke nazar ja pari
-  Bint-e-Ali pusht se naaqe se ran mein giri
+  Bint-e-Ali pusht se naaqe se ran meiṅ giri
   Karti hui bain ye ghutniyoṅ ke bal chali
 
   10
-  Saath imanath ko main laa na saki pur mehan
+  Saath imanath ko maiṅ laa na saki pur mehan
   Bhaai bahut sharminda hai ye tumhaari behan
-  Baali Sakina ko bhi de na saki main kafan
+  Baali Sakina ko bhi de na saki maiṅ kafan
 
   11
   Tum pe anis-e-Imaam Bint-e-Ali ka salaam

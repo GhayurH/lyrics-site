@@ -14,12 +14,12 @@ romanLyrics: |-
   Ae mere bhai Husain
   Ae maaṅ ke dulaare baba ke laadle
 
-  Taweez mein Hasan ne ye ro kar likha Husain
-  Qasim ko Karbala mein nahiṅ rokna Husain
+  Tawiz meiṅ Hasan ne ye ro kar likha Husain
+  Qasim ko Karbala meiṅ nahiṅ rokna Husain
   Haye Qasim haye haye Qasim
 
   1
-  Akbar ko is se pehle na maqtal mein bhejna
+  Akbar ko is se pehle na maqtal meiṅ bhejna
   Nana ka de raha huṅ tumheṅ waasta Husain
 
   2
@@ -44,10 +44,10 @@ romanLyrics: |-
 
   7
   Qasim ki tuti pasliyaaṅ dekhoge jis ghari
-  Maqtal mein yaad aayegi maaṅ Fatima Husain
+  Maqtal meiṅ yaad aayegi maaṅ Fatima Husain
 
   8
-  Maqtal mein gir ke maaṅ ko pukaarega mera laal
+  Maqtal meiṅ gir ke maaṅ ko pukaarega mera laal
   Zehmat na dega aap ko Qasim mera Husain
 
   9
@@ -55,7 +55,7 @@ romanLyrics: |-
   Chehre pe daal dena tum apni abaa Husain
 
   10
-  Sajjad aansuoṅ se tha aakhir mein ye likha
+  Sajjad aansuoṅ se tha aakhir meiṅ ye likha
   Laasha uthaane bete ka khud aauṅga Husain
 # source_id: nohayonline:c8e3a4ca777a4d7d123d
 # source_url: https://www.nohayonline.com/details_content.php?id=2788

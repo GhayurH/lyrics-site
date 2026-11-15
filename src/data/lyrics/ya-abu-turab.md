@@ -35,7 +35,7 @@ romanLyrics: |-
   Tu unheiṅ rihaai ki khabar suna de
   Mazhar ul ajaaib maujiza dikha de
   Ya Abu Turaab ya Abu Turaab
-  Do jahaaṅ mein tere maujize haiṅ maula behisaab
+  Do jahaaṅ meiṅ tere maujize haiṅ maula behisaab
 
   4
   Maula wo kanizeṅ ban gayiṅ sawaali
@@ -49,9 +49,9 @@ romanLyrics: |-
   Meri maaoṅ behnoṅ iltija hai meri
   Tum rakho hamesha apni parda daari
   Ghaur se suno tum ye sada-e-Zainab
-  Hai tumhaare haq mein ye dua-e-Zainab
+  Hai tumhaare haq meiṅ ye dua-e-Zainab
   Ya Abu Turaab ya Abu Turaab
-  Majlisoṅ mein Bibiyaaṅ aayeṅ na kabhi behijaab
+  Majlisoṅ meiṅ Bibiyaaṅ aayeṅ na kabhi behijaab
 
   6
   Har dua se pehle ye dua kareṅ hum
@@ -59,12 +59,12 @@ romanLyrics: |-
   Ye sada-e-maatam hashr tak na kam ho
   Ho gham-e-Shah-e-diṅ aur na koi gham ho
   Ya Abu Turaab ya Abu Turaab
-  Aayega gham-e-Husain se jahaaṅ mein inqilaab
+  Aayega gham-e-Husain se jahaaṅ meiṅ inqilaab
 
   7
   Waasta hai tujh ko Shah-e-Karbala ka
   Zainab-e-haziṅ ka khuṅ bhari rida ka
-  Maut ho jo sar par zindagi badha de
+  Maut ho jo sar par zindagi barha de
   La dawa marizoṅ ko tu hi shifa de
   Ya Abu Turaab ya Abu Turaab
   Teri raza ho to ho bimaar sabhi sehatyaab
@@ -72,7 +72,7 @@ romanLyrics: |-
   8
   Tujh se bhik leti hai har ek hasti
   Dur kar de maula sab ki tangdasti
-  Tere haath mein hai Rab ka har khazaana
+  Tere haath meiṅ hai Rab ka har khazaana
   Maang kar to dekhe tujh se ye zamaana
   Ya Abu Turaab ya Abu Turaab
   Maangne waaloṅ ko tu karta hai ataa behisaab
@@ -87,11 +87,11 @@ romanLyrics: |-
 
   10
   Ye dua laboṅ par subh o shaam aaye
-  Tere zaakiroṅ mein mera naam aaye
+  Tere zaakiroṅ meiṅ mera naam aaye
   Sar jhuka diya hai tere dar pe aa ke
   Safdar-e-haziṅ ko sar buland kar de
   Ya Abu Turaab ya Abu Turaab
-  Kar le nauhakhwaan o shaairoṅ mein mera intikhaab
+  Kar le nauhakhwaan o shaairoṅ meiṅ mera intikhaab
 # source_id: nohayonline:e7a56ad13debb87d87fc
 # source_url: https://www.nohayonline.com/details_content.php?id=3133
 # raw_sha256: 002eb3478237815f8092bd2509ce9fbb075a7b68915f6e259c4b87ea7a9a1c22

@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ho gaya jab khaana-e-Zehra mein ek mahshar bapa
+  Ho gaya jab khaana-e-Zehra meiṅ ek mahshar bapa
   Thar thara uthi zamiṅ aur aasmaaṅ hilne laga
   Aa rahi thi ye dar o diwaar-e-Kufa se sada
   Uth gaya hai aaj baaba Zainab o Kulsum ka
@@ -19,7 +19,7 @@ romanLyrics: |-
   1
   Uth gaye Maula jahaaṅ se hashr ka hangaam hai
   Zindagi beaasra hai har taraf kohraam hai
-  Hai jahaaṅ ka zarra zarra sog mein duba hua
+  Hai jahaaṅ ka zarra zarra sog meiṅ duba hua
 
   2
   Ho gaya khaamosh jab se maalik-e-kaun o makaaṅ
@@ -38,7 +38,7 @@ romanLyrics: |-
 
   5
   Surkh hai ikkiswiṅ ka subh ka chehra Farid
-  Waaris-e-Kaaba hua hai khaana-e-Haq mein shahid
+  Waaris-e-Kaaba hua hai khaana-e-Haq meiṅ shahid
   Subh-e-mahshar ka samaaṅ hai har taraf chhaaya hua
 # source_id: nohayonline:e2985fd4f7fe51188555
 # source_url: https://www.nohayonline.com/details_content.php?id=2943

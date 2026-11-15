@@ -12,9 +12,9 @@ aliases: []
 published: true
 romanLyrics: |-
   Aati hai garduṅ se ye paiham sada
-  Qatl huwe sajde mein Sher-e-Khuda
-  Khana-e-Haq mein ye ghazab ho gaya
-  Qatl huwe sajde mein Sher-e-Khuda
+  Qatl huwe sajde meiṅ Sher-e-Khuda
+  Khana-e-Haq meiṅ ye ghazab ho gaya
+  Qatl huwe sajde meiṅ Sher-e-Khuda
 
   1
   Gham se hai Zainab nidhal
@@ -22,31 +22,31 @@ romanLyrics: |-
   Kehti hai ye purmalal
   Dekho to Baba ka haal
   Dete haiṅ Jibrail ye kaisi nida
-  Qatl huwe sajde mein Sher-e-Khuda
+  Qatl huwe sajde meiṅ Sher-e-Khuda
 
   2
   Saath pare jalwagar
   Kehti hai sar pit kar
   Phatta hai mera jigar
   Koi to laaye khabar
-  Ghar mein Khuda ke ye sitam kya hua
-  Qatl huwe sajde mein Sher-e-Khuda
+  Ghar meiṅ Khuda ke ye sitam kya hua
+  Qatl huwe sajde meiṅ Sher-e-Khuda
 
   3
   Dekho to Hasnain jao
-  Baba ko ghar mein to lao
+  Baba ko ghar meiṅ to lao
   Aisa laga sar pe ghaao
   Mujh ko Khudara batao
   Puchho to jarrah se hogi shifa
-  Qatl huwe sajde mein Sher-e-Khuda
+  Qatl huwe sajde meiṅ Sher-e-Khuda
 
   4
   Nashtar-e-gham dil pe khae
   Daur kar Hasnain aaye
   Dekha ajab haal haye
-  Khuṅ mein haiṅ Baba nahae
+  Khuṅ meiṅ haiṅ Baba nahae
   Farsh se ta arsh hai mahshar bapa
-  Qatl huwe sajde mein Sher-e-Khuda
+  Qatl huwe sajde meiṅ Sher-e-Khuda
 
   5
   Haye qayamat hui
@@ -54,15 +54,15 @@ romanLyrics: |-
   Maara Ali-e-Wali
   Girya-e-ruh-e-Nabi
   Kaisi lain ne ye ki jaur o jafa
-  Qatl huwe sajde mein Sher-e-Khuda
+  Qatl huwe sajde meiṅ Sher-e-Khuda
 
   6
   Ae mere zakhmi Imam
   Tum pe durud o salam
   Khub ki tabligh-e-aam
   De diya qatil ko jaam
-  Hoga Anees aisa koi peshwa
-  Qatl huwe sajde mein Sher-e-Khuda
+  Hoga Anis aisa koi peshwa
+  Qatl huwe sajde meiṅ Sher-e-Khuda
 # editorial_uncertainty: Archived NoHayOnline has ساتھ پڑے جلوہ گر; Ziyaraat Roman has khak peh hay jalwagar. NoHayOnline reading retained in both editions pending audio/print verification.
 # source_id: nohayonline:79f6cf24e9b04a231fa4
 # source_url: https://www.nohayonline.com/details_content.php?id=2

@@ -18,21 +18,21 @@ romanLyrics: |-
   Na Asghar hai na Sakina
 
   Bibi ke liye kitna mushkil
-  Is haal mein hoga jina
+  Is haal meiṅ hoga jina
   Na Asghar hai na Sakina
 
   1
   Khaali jhula shehzaade ka
-  Aur khun mein tar ik baali
-  Jab dekhegi ghar mein aa kar
+  Aur khun meiṅ tar ik baali
+  Jab dekhegi ghar meiṅ aa kar
   Zindaan se aane waali
   Tukre tukre ho jaayega
   Bekhanjar us ka sina
   Na Asghar hai na Sakina
 
   2
-  Ek ki turbat taariki mein
-  Aur dhup mein ik ka laasha
+  Ek ki turbat taariki meiṅ
+  Aur dhup meiṅ ik ka laasha
   Wo bhi pyaasi duniya se gayi
   Aur mar gaya wo bhi pyaasa
   Kis ko baali pehnaaye ab
@@ -61,8 +61,8 @@ romanLyrics: |-
   Jo baat kahi thi bachchoṅ se
   Us ne taa umr nibhaai
   Na paani piya thanda us ne
-  Na khud saaye mein aayi
-  Bas dhup mein baithi shaam o sahar
+  Na khud saaye meiṅ aayi
+  Bas dhup meiṅ baithi shaam o sahar
   Kehti hi rahi ye hazina
   Na Asghar hai na Sakina
 
@@ -76,9 +76,9 @@ romanLyrics: |-
   Na Asghar hai na Sakina
 
   7
-  Nauhe mein kahaaṅ tak Mir Hasan
+  Nauhe meiṅ kahaaṅ tak Mir Hasan
   Rehaan wo manzar likhe
-  Aawaaz teri nauhe mein dhali
+  Aawaaz teri nauhe meiṅ dhali
   Aati hai sada maatam se
   Ye keh kar ae pursadaaroṅ
   Zehra ko pursa dena

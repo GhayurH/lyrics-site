@@ -25,7 +25,7 @@ romanLyrics: |-
   Majlis-e-Shabbir tera shukriya
 
   4
-  Mushkiloṅ mein muskuraana aa gaya
+  Mushkiloṅ meiṅ muskuraana aa gaya
   Asghar-e-Beshir tera shukriya
 
   5
@@ -41,7 +41,7 @@ romanLyrics: |-
   Dast-e-Khaibar Gir tera shukriya
 
   8
-  Ban gaya turbat mein maahaul-e-Kisa
+  Ban gaya turbat meiṅ maahaul-e-Kisa
   Maadar-e-Shabbir tera shukriya
 
   9

@@ -1,6 +1,6 @@
 ---
 title: "غم شہ میں جو آنکھوں سے رواں ہے"
-alternateTitle: "Ghame Sheh Mein"
+alternateTitle: "Ghame Sheh Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ aliases: []
 published: true
 reciter: "Tabligh-e-Imamia"
 romanLyrics: |-
-  Gham-e-Sheh mein jo aankhoṅ se rawaaṅ hai
+  Gham-e-Sheh meiṅ jo aankhoṅ se rawaaṅ hai
   Wo aansu qimat-e-baagh-e-jinaaṅ hai
 
   1
@@ -35,11 +35,11 @@ romanLyrics: |-
   Dar-e-Sheh par koi marta kahaaṅ hai
 
   6
-  Azaaṅ gunji Ali Akbar ki ran mein
+  Azaaṅ gunji Ali Akbar ki ran meiṅ
   Sada pur soz hai lehja jawaaṅ hai
 
   7
-  Jo hai mansub Akbar se jahaaṅ mein
+  Jo hai mansub Akbar se jahaaṅ meiṅ
   Namaazoṅ ki muhaafiz wo azaaṅ hai
 
   8

@@ -17,7 +17,7 @@ romanLyrics: |-
   Imaam dunya se ja raha hai
 
   1
-  Para hai ghash mein jahaaṅ ka Maula
+  Para hai ghash meiṅ jahaaṅ ka Maula
   Charaagh-e-hasti ki lau bhi kam hai
   Ummid bachne ki kuchh nahiṅ hai
   Shigaaf sar ka bata raha hai
@@ -25,7 +25,7 @@ romanLyrics: |-
   2
   Ajab nahiṅ ab wufur-e-gham se
   Khalil sar apna pitte haiṅ
-  Ke ghar mein khaaliq ke Ibn-e-Muljim
+  Ke ghar meiṅ khaaliq ke Ibn-e-Muljim
   Charaagh-e-Kaaba bujha raha hai
 
   3
@@ -38,7 +38,7 @@ romanLyrics: |-
   Wo marg-e-Akbar wo beridaai
   Wo raah-e-Kufa wo qaid khaana
   Koi ye Zainab ke dil se puchhe
-  Nazar mein kya kya samaa raha hai
+  Nazar meiṅ kya kya samaa raha hai
 
   5
   Hasan se koi zara ye keh de
@@ -49,12 +49,12 @@ romanLyrics: |-
   6
   Kabhi ye maidaan-e-Karbala se
   Uthaayega naujawaaṅ ki mayyat
-  Husain Kufe mein aaj apne
+  Husain Kufe meiṅ aaj apne
   Pidar ka laasha utha raha hai
 
   7
   Ali ne Abbaas ko jo dekha
-  To ashk aankhoṅ mein laa ke bole
+  To ashk aankhoṅ meiṅ laa ke bole
   Abhi ye manzar nazar se guzra
   Kahiṅ tu shaane kata raha hai
 

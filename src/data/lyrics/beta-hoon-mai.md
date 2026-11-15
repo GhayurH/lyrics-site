@@ -1,6 +1,6 @@
 ---
 title: "بیٹا ہوں میں علی کا نواسہ رسول کا"
-alternateTitle: "Beta Huṅ Main"
+alternateTitle: "Beta Huṅ Maiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,39 +10,39 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Beta huṅ main Ali ka nawaasa Rasul ka
+  Beta huṅ maiṅ Ali ka nawaasa Rasul ka
   Zainab behen hai meri chahita Batul ka
 
   Qurbaaniyaṅ ye meri bhulaai na jaaeṅ gi
   Jab Karbala baseṅ gi sadaaeṅ ye aaeṅ gi
   Husain ya Husain
   Husain bekafan
-  Husain be khata
+  Husain bekhata
   Husain shaah
 
   1
-  Baaba Ali ke haathoṅ mein jo Zulfiqaar hai
+  Baaba Ali ke haathoṅ meiṅ jo Zulfiqaar hai
   Makhsus us ka kufr ki nasloṅ pe waar hai
-  Main jang kiuṅ karuṅ ke Hasan ka main bhai huṅ
-  Tum munkir-e-Khuda main Khuda ka fidaai huṅ
+  Maiṅ jang kiuṅ karuṅ ke Hasan ka maiṅ bhai huṅ
+  Tum munkir-e-Khuda maiṅ Khuda ka fidaai huṅ
 
   2
-  Mere liye Rasul ke sajdoṅ mein tul hai
+  Mere liye Rasul ke sajdoṅ meiṅ tul hai
   Marzi meri Khuda ko Nabi ko qubul hai
   Sukhe gale pe mere jo khanjar chalaae ga
-  Marqad mein Fatima ko Ali ko sataae ga
+  Marqad meiṅ Fatima ko Ali ko sataae ga
 
   3
   Utra tha aasmaaṅ se sitaara hamaare ghar
-  Kaabe ki simt dekhuṅ to diwaar mein ho dar
-  Pyaasa huṅ be watan huṅ gharib-ud-diyaar huṅ
+  Kaabe ki simt dekhuṅ to diwaar meiṅ ho dar
+  Pyaasa huṅ bewatan huṅ gharib-ud-diyaar huṅ
   Zahra ki betiyoṅ ke liye dil figaar huṅ
 
   4
   Larne ka qasd kar ke jo aata watan se dur
   Bachchoṅ ko saath apne na laata watan se dur
   Behneṅ bhi betiyaṅ bhi mere saath saath haiṅ
-  Mehmaan Karbala mein tere ham Furaat haiṅ
+  Mehmaan Karbala meiṅ tere ham Furaat haiṅ
 
   5
   Chaahuṅ to sangrezoṅ se paani nichor duṅ
@@ -51,14 +51,14 @@ romanLyrics: |-
   Paani se apne aap ko lo dur kar liya
 
   6
-  Paani hai meri maaṅ ke mehr mein likha hua
+  Paani hai meri maaṅ ke mehr meiṅ likha hua
   Bachchoṅ ko mere phir bhi ye paani na mil saka
   Sairaab ho rahe haiṅ shutar aur asp bhi
   Aal-e-Nabi ke hontoṅ pe likhi hai tishnagi
 
   7
   Ab mere baad ahl-e-haram dukh uthaaeṅ ge
-  Be parda ashqiyaṅ unheṅ balwe mein laaeṅ ge
+  Beparda ashqiyaṅ unheṅ balwe meiṅ laaeṅ ge
   Sine pe sone waali tamaanche jo khaae gi
   Mujh ko sadaaeṅ de gi chacha ko bulaae gi
 # source_id: nohayonline:3d84debf5274e2169c90

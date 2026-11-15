@@ -26,23 +26,23 @@ romanLyrics: |-
   Le gayi hai Shaam tak saiyidaaniyaaṅ khaimoṅ ki raakh
 
   3
-  Karbala ki khaak par khuṅ mein naha kar so gaye
+  Karbala ki khaak par khuṅ meiṅ naha kar so gaye
   Naaz Zainab ko tha jin par qatl wo sab ho gaye
   Kaash urte dekhte pir o jawaaṅ khaimoṅ ki raakh
 
   4
   Beriyaṅ neze rasan patthar atash aur ghurkiyaaṅ
-  Kya yahi qismat mein likha tha ke dekhe ham yahaaṅ
+  Kya yahi qismat meiṅ likha tha ke dekhe ham yahaaṅ
   Neza o shamshir o khanjar barchhiyaaṅ khaimoṅ ki raakh
 
   5
   Ham ise ghurbat Sakina ki kaheiṅ ya bebasi
   Sar chhupaane ke liye jaan-e-Husain ibn-e-Ali
-  Daalti hai sar mein bhar ke mutthiyaṅ khaimoṅ ki raakh
+  Daalti hai sar meiṅ bhar ke mutthiyaṅ khaimoṅ ki raakh
 
   6
   Raakh ne behte lahu ko jazb jis dam kar liya
-  Chand lamhe hi sahi par dekhne mein yuṅ laga
+  Chand lamhe hi sahi par dekhne meiṅ yuṅ laga
   Ban gayi kaanoṅ ki jaise baaliyaaṅ khaimoṅ ki raakh
 
   7
@@ -53,7 +53,7 @@ romanLyrics: |-
   8
   Allah Allah Karbala se Shaam tak ka imtihaan
   Kar nahiṅ sakta koi Asif kisi surat bayaan
-  Shadmaaṅ is gham mein khud hai nauhakhwaaṅ khaimoṅ ki raakh
+  Shadmaaṅ is gham meiṅ khud hai nauhakhwaaṅ khaimoṅ ki raakh
 # source_id: nohayonline:f4513ee94f20479d70a4
 # source_url: https://www.nohayonline.com/details_content.php?id=2621
 # raw_sha256: 27f63961c17356a8aed7193214d6bc96937b2ff1414fe1e3c7620ba018ce7d0f

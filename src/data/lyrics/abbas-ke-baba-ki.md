@@ -11,12 +11,12 @@ aliases: []
 published: true
 romanLyrics: |-
   Masjid-e-Kufa se le kar ta ba khaak-e-Karbobala
-  Qatl sajdoṅ mein hua hai Mustafa ki Aal ka
+  Qatl sajdoṅ meiṅ hua hai Mustafa ki Aal ka
   Abbas ke Baba ki jabiṅ khun se tar hai
-  Duba hua gham mein Bani Hashim ka qamar hai
+  Duba hua gham meiṅ Bani Hashim ka qamar hai
 
   1
-  Abbas ke chehre pe hain Zainab ki nigaheṅ
+  Abbas ke chehre pe haiṅ Zainab ki nigaheṅ
   Ye puchhti ho jaise mera Baba kidhar hai
 
   2
@@ -24,7 +24,7 @@ romanLyrics: |-
   Kufe pe bhi lagta hai Madine ka asar hai
 
   3
-  Kal beti pe barseṅge inhiṅ galiyoṅ mein patthar
+  Kal beti pe barseṅge inhiṅ galiyoṅ meiṅ patthar
   Jin galiyoṅ se Baba ke janaze ka guzar hai
 
   4
@@ -32,7 +32,7 @@ romanLyrics: |-
   Kufe ke yatimoṅ ko yatimi ki khabar hai
 
   5
-  Naqa pe liye jaate hain tabut Ali ka
+  Naqa pe liye jaate haiṅ tabut Ali ka
   Hamrah-e-pidar aakhri betoṅ ka safar hai
 
   6

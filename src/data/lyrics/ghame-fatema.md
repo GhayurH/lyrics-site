@@ -15,7 +15,7 @@ romanLyrics: |-
   Haye mehruma Fatema Zehra
 
   1
-  Fatema ka bhare Madine mein
+  Fatema ka bhare Madine meiṅ
   Gham bataane koi nahiṅ aaya
   Ghar jalaane ko kalma go aaye
   Ghar bujhaane koi nahiṅ aaya
@@ -27,7 +27,7 @@ romanLyrics: |-
   Taaziyaane koi nahiṅ aaya
 
   3
-  Rassiyaaṅ thi Ali ki gardan mein
+  Rassiyaaṅ thi Ali ki gardan meiṅ
   Aur bazaar se guzarte the
   Sab tamaashaai ban ke takte rahe
   Aur chhuraane koi nahiṅ aaya

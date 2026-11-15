@@ -22,8 +22,8 @@ romanLyrics: |-
 
   2
   Ab log Fatima ko pehchaante nahiṅ hai
-  Main aap ki huṅ beti ye maante nahiṅ haiṅ
-  Koi nahiṅ hai mera main reh gayi huṅ tanha
+  Maiṅ aap ki huṅ beti ye maante nahiṅ haiṅ
+  Koi nahiṅ hai mera maiṅ reh gayi huṅ tanha
   Baba tere watan meiṅ
 
   3
@@ -34,14 +34,14 @@ romanLyrics: |-
 
   4
   Dar mujh pe zaalimoṅ ne jalta hua giraaya
-  Main gir pari zamiṅ par ghash is tarah se aaya
+  Maiṅ gir pari zamiṅ par ghash is tarah se aaya
   Mohsin jahaaṅ se guzra pehlu hua shikasta
   Baba tere watan meiṅ
 
   5
-  Main bhi khari hui thi Hasnain bhi khare the
+  Maiṅ bhi khari hui thi Hasnain bhi khare the
   Masjid meiṅ meri jaanib sab log dekhte the
-  Ye zakhm na bharega main ban gayi tamaasha
+  Ye zakhm na bharega maiṅ ban gayi tamaasha
   Baba tere watan meiṅ
 
   6
@@ -57,9 +57,9 @@ romanLyrics: |-
   Baba tere watan meiṅ
 
   8
-  Fizza ke ab sahaare main uthti baithti huṅ
-  Kha kar tamaacha jab se main khaak par giri huṅ
-  Ye zulm mujh pe tuta main ho gayi zaifa
+  Fizza ke ab sahaare maiṅ uthti baithti huṅ
+  Kha kar tamaacha jab se maiṅ khaak par giri huṅ
+  Ye zulm mujh pe tuta maiṅ ho gayi zaifa
   Baba tere watan meiṅ
 
   9

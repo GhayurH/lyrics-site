@@ -17,7 +17,7 @@ romanLyrics: |-
   Jaise Haider ki jawaani ka chalan jalwa numa
 
   Yak bayak salle ala naara-e-Akbar gunja
-  Ana Ali Yabnul Hussain Yabna Ali
+  Ana Ali Yabnul Husain Yabna Ali
   Nahno Wa Baytul La Aulabin Nabi
   Ama Tarau Laa Kayfi Aymiaan Abi
   Walaah Laayakum Fi Nabana Dagi
@@ -26,7 +26,7 @@ romanLyrics: |-
 
   1
   Naam Akbar Ali Akbar hai mera
-  Main Husain ibn-e-Ali ka beta
+  Maiṅ Husain ibn-e-Ali ka beta
   Khaa raha huṅ qasam-e-Baitullah
   Hum ko haasil sharaf-e-khun-e-Nabi
 
@@ -34,7 +34,7 @@ romanLyrics: |-
   Badnasab ham pe hukumat karta
   Na hua hai na kabhi ho sakta
   Wallah wallah Aba Abdillah
-  Main fida tum pe Husain ibn-e-Ali
+  Maiṅ fida tum pe Husain ibn-e-Ali
 
   3
   Shaamiyoṅ ab mera hamla dekho
@@ -46,24 +46,24 @@ romanLyrics: |-
   Keh ke ye fauj mein duba wo shujaa-e-azali
   Naara zan tha ke ana ibn-e-Husain ibn-e-Ali
   Tir chalne lage naize chale talwaar chali
-  Barh Ke Shamsheere Do Dum Se Safe Kuffar Jail
+  Barh Ke Shamshire Do Dum Se Safe Kuffar Jail
   Kis tarah larta hai hamshakl-e-Payambar dekho
   Aaj shamshir-e-Husaini ke bhi jauhar dekho
 
   5
-  Palte maidan se wigha karte hue
+  Palte maidaṅ se wigha karte hue
   Aa ke baba se ye Akbar bole
   Thora paani mere baba jo mile
   Dekhna phir se meri tegh zani
 
   6
   Bole Sheh sukhi zabaaṅ dikhla kar
-  Muṅh mein rakho ye anguthi Akbar
+  Muṅh meiṅ rakho ye anguthi Akbar
   Aisa sharbat tumheṅ deṅge Haider
   Jisko pi kar tumheṅ kehna hai yahi
 
   7
-  Ran mein jaa kar wo bahut der lare
+  Ran meiṅ jaa kar wo bahut der lare
   Chaar jaanib se adu tut pare
   Naubateṅ bajne lagi jab wo gire
   Ek sada gunji aba adrikni
@@ -78,7 +78,7 @@ romanLyrics: |-
   Kya kare ab tera baba ji kar
   Khaak duniya hai tere baad Akbar
   Nauha jaari tha Rehaan o Sarwar
-  Ran mein roti thi sada-e-zakhmi
+  Ran meiṅ roti thi sada-e-zakhmi
 # source_id: nohayonline:a512e098bc70ad69eebd
 # source_url: https://www.nohayonline.com/details_content.php?id=802
 # raw_sha256: 1405165f2a3d3fed3c5ae70ed61d83920c08949ea139b15db9a896bb05ec5ab5

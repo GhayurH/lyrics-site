@@ -26,7 +26,7 @@ romanLyrics: |-
   Matam ke liye farsh-e-aza ghar meiṅ bichhaya
   Ya Fatema Zehra tumheiṅ purse ko bulaya
   Saqqa-e-Sakina ka alam hum ne sajaya
-  Tum aake azakhane ki tauqir badhao
+  Tum aake azakhane ki tauqir barhao
   Baithe haiṅ azadaar azakhane meiṅ aao
 
   2
@@ -38,15 +38,15 @@ romanLyrics: |-
   Baithe haiṅ azadaar azakhane meiṅ aao
 
   3
-  Ek roz meiṅ ujda hai jo Zainab ka bhara ghar
+  Ek roz meiṅ ujra hai jo Zainab ka bhara ghar
   Us ghar ke azadaar haiṅ sab farsh-e-aza par
   Piteṅ ge azadaar kabhi sina kabhi sar
-  Thoda to sukuṅ paaye ga faryaad ko sun kar
+  Thora to sukuṅ paaye ga faryaad ko sun kar
   Hamraah agar Sayyed-e-Sajjad ko lao
   Baithe haiṅ azadaar azakhane meiṅ aao
 
   4
-  Hamshakl-e-Payambar ka hai be-shir ka matam
+  Hamshakl-e-Payambar ka hai beshir ka matam
   Laila ki buka Banu-e-Dilgir ka matam
   Behnoṅ meiṅ bapa chaadar-e-tathir ka matam
   Sajjad ke zakhmoṅ ka hai zanjir ka matam
@@ -63,14 +63,14 @@ romanLyrics: |-
 
   6
   Ae Bibi zara shor suno aah o buka ka
-  Dil tukde hua jaata hai har ahl-e-aza ka
+  Dil tukre hua jaata hai har ahl-e-aza ka
   Zaakir ne kiya zikr jo bazaar-e-jafa ka
   Kya haal hai puchho to zara zainulleba ka
   Bazaar ka hai zikr to Baqir ko bhi lao
   Baithe haiṅ azadaar azakhane meiṅ aao
 
   7
-  Be-gor o kafan Sayyed-e-Zishaan ka pursa
+  begor o kafan Sayyed-e-Zishaan ka pursa
   Bazaar ka pursa hai ye zindaaṅ ka pursa
   Sadaat ke bikhre huwe saamaaṅ ka pursa
   Manzur karo Mazhar o Irfan ka pursa

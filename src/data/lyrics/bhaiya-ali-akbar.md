@@ -21,7 +21,7 @@ romanLyrics: |-
 
   1
   Aise nahiṅ jaao
-  Aankhoṅ mein chhupe ashk na tum hum se chhupaao
+  Aankhoṅ meiṅ chhupe ashk na tum hum se chhupaao
   Bhaiya Ali Akbar
 
   2
@@ -37,26 +37,26 @@ romanLyrics: |-
   Bhaiya Ali Akbar
 
   4
-  Baba se nahiṅ rukte to main kis tarah rokuṅ
+  Baba se nahiṅ rukte to maiṅ kis tarah rokuṅ
   Thahro zara dam Naad-e-Ali sine pe kar duṅ
   Ho sakta hai mushkil se nikal kar chale aao
   Bhaiya Ali Akbar
 
   5
   Phuloṅ ka nahiṅ ashkoṅ ka sehra hi saja luṅ
-  Sughra ki taraf se main armaan nikaaluṅ
+  Sughra ki taraf se maiṅ armaan nikaaluṅ
   Kya keh duṅ khat-e-Sughra jo aaye ye bataao
   Bhaiya Ali Akbar
 
   6
   Amma ki taraf dekh ke maango zara rukhsat
-  Khul jaye gi sine mein hai kitni tere taaqat
+  Khul jaye gi sine meiṅ hai kitni tere taaqat
   Sar apna jhukaye hue nazreṅ na churaao
   Bhaiya Ali Akbar
 
   7
-  Main jaan gayi tum bhi na aao ge palat kar
-  Main chhoti behan huṅ mere maajaye baraadar
+  Maiṅ jaan gayi tum bhi na aao ge palat kar
+  Maiṅ chhoti behan huṅ mere maajaye baraadar
   Baba ki tarah sine pe ek baar sulaao
   Bhaiya Ali Akbar
 
@@ -68,7 +68,7 @@ romanLyrics: |-
 
   9
   Rehaan o Raza kya wo qayaamat ka samaaṅ tha
-  Jab sina-e-Akbar mein laga zulm ka neza
+  Jab sina-e-Akbar meiṅ laga zulm ka neza
   Kehti thi Sakina mere dil pe laga ghaao
   Bhaiya Ali Akbar
 # source_id: nohayonline:18675647d09692b83560

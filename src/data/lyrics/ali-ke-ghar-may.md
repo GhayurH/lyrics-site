@@ -14,7 +14,7 @@ published: true
 # source_url: https://www.nohayonline.com/details_content.php?id=1758
 # raw_sha256: 585a2b9f193147718e092b1019515cfb11e5fb698ae7686441bdb7dd8bdaeb59
 romanLyrics: |-
-  Ali ke ghar mein qayaamat ki subh aayi hai
+  Ali ke ghar meiṅ qayaamat ki subh aayi hai
   Khabar ye khalq ko Jibril ne sunaayi hai
 
   1
@@ -23,13 +23,13 @@ romanLyrics: |-
   Tarap rahe haiṅ Ali dard intihaayi hai
 
   2
-  Bapa hui hai jo Kufe mein Karbala dekho
+  Bapa hui hai jo Kufe meiṅ Karbala dekho
   Ali Wali se jo ummat ne ki dagha dekho
   Imam-e-Waqt se ye kaisi bewafaayi hai
 
   3
-  Lahu mein tar hai rukh-e-Bu Turab wawaila
-  Nabi ko khuld mein hai iztiraab wawaila
+  Lahu meiṅ tar hai rukh-e-Bu Turab wawaila
+  Nabi ko khuld meiṅ hai iztiraab wawaila
   Gham o alam ki faza zindagi pe chhaayi hai
 
   4
@@ -45,7 +45,7 @@ romanLyrics: |-
   6
   Hasan Husain se farma rahe haiṅ ye Maula
   Sitam ke waar se bachna muhaal hai mera
-  Shaqi ne tegh-e-sitam zahr mein bujhaayi hai
+  Shaqi ne tegh-e-sitam zahr meiṅ bujhaayi hai
 
   7
   Isi ke saath hui ibtida-e-Karb o Bala
@@ -53,7 +53,7 @@ romanLyrics: |-
   Ye subh Shaam-e-Gharibaaṅ ka rang laayi hai
 
   8
-  Jahaaṅ mein koi na Aulad-e-Fatima ka raha
+  Jahaaṅ meiṅ koi na Aulad-e-Fatima ka raha
   Hua jo zulm ke Sadiq ujar gaya kunba
   Ali shahid hue Ya Nabi duhaayi hai
 ---

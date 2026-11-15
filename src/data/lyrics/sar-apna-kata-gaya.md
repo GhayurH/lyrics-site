@@ -10,12 +10,12 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Agarche ran mein sar apna kata gaya hai Husain
+  Agarche ran meiṅ sar apna kata gaya hai Husain
   Magar Yazid ki gardan jhuka gaya hai Husain
 
   1
   Mila sakega na ab koi haq o baatil ko
-  Ke darmiyaan mein rasta bana gaya hai Husain
+  Ke darmiyaan meiṅ rasta bana gaya hai Husain
 
   2
   Jo maut aana bhi chaahe to aa na sake
@@ -34,7 +34,7 @@ romanLyrics: |-
   Ke aasmaaṅ ko zamiṅ par bichha gaya hai Husain
 
   6
-  Khuda ki raah mein de kar jo chaadar-e-Zainab
+  Khuda ki raah meiṅ de kar jo chaadar-e-Zainab
   Ghilaaf-e-Kaaba ki hurmat bacha gaya hai Husain
 
   7

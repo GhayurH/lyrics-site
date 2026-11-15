@@ -12,13 +12,13 @@ aliases: ["Ay Maarkae Quwwate"]
 published: true
 romanLyrics: |-
   Ae maarka-e-quwwat-e-Islam ke jauhar
-  Chhe maah ki muddat mein qayaamat ke baraabar
+  Chhe maah ki muddat meiṅ qayaamat ke baraabar
   Nanhe se mujaahid Ali Asghar Ali Asghar
 
   1
   Maqsad tha wilaadat ka faqat kaar-e-shahaadat
   Ye baat hui aur kisi ko na mayassar
-  Yakta hai teri khun mein dubi hui taswir
+  Yakta hai teri khun meiṅ dubi hui taswir
   Taarikh dikhaati nahiṅ aisa koi manzar
 
   2
@@ -30,14 +30,14 @@ romanLyrics: |-
   3
   Dhalki hui gardan pe Yadullah ke bose
   Sukhe hue hontoṅ pe tasadduq lab-e-Kausar
-  Chitwan mein chhipaaye hue Akbar ki jawaani
-  Mutthi mein dabaaye hue Sajjad ke jauhar
+  Chitwaṅ meiṅ chhipaaye hue Akbar ki jawaani
+  Mutthi meiṅ dabaaye hue Sajjad ke jauhar
 
   4
-  Aankhoṅ mein chhalakta hua maasum tabassum
+  Aankhoṅ meiṅ chhalakta hua maasum tabassum
   Gardan se tapakta hua khun-e-dil-e-maadar
-  Taarikh mein hai sab tere bachpan ka saliqa
-  Tu maut ki aaghosh mein aaya tha humak kar
+  Taarikh meiṅ hai sab tere bachpan ka saliqa
+  Tu maut ki aaghosh meiṅ aaya tha humak kar
 
   5
   Jis waqt hui mohr tere zakhm-e-gulu ki

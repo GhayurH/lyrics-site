@@ -24,12 +24,12 @@ romanLyrics: |-
 
   2
   Jab kahiṅ farsh-e-aza bichhne lage rakhna khayaal
-  Tin din ki pyaas mein maara gaya hai mera laal
+  Tin din ki pyaas meiṅ maara gaya hai mera laal
   Hai yehi mere dukhe dil ki dawa maatam karo
 
   3
-  Bekhata maara gaya mera pisar pardes mein
-  Lut daala zaalimoṅ ne mera ghar pardes mein
+  Bekhata maara gaya mera pisar pardes meiṅ
+  Lut daala zaalimoṅ ne mera ghar pardes meiṅ
   Ho gayi mere dulaaroṅ par jafa maatam karo
 
   4
@@ -40,17 +40,17 @@ romanLyrics: |-
   5
   Mere bachche ka tha ek beta jo tha kariyal jawaaṅ
   Ek bachcha chhe mahine ka tha Asghar bezabaaṅ
-  Ho gaye pardes mein donoṅ juda maatam karo
+  Ho gaye pardes meiṅ donoṅ juda maatam karo
 
   6
-  Sina-e-Akbar pe jab neza laga main paas thi
-  Jab mera Abbas ghore se gira main paas thi
-  Bat gaya tukroṅ mein dil us dam mera maatam karo
+  Sina-e-Akbar pe jab neza laga maiṅ paas thi
+  Jab mera Abbas ghore se gira maiṅ paas thi
+  Bat gaya tukroṅ meiṅ dil us dam mera maatam karo
 
   7
   Mere dil ka dard tum ko dekh kar hota hai kam
   Ae azaadaaroṅ manaao mere shahzaadoṅ ka gham
-  Duṅgi main mahshar ke din is ka sila maatam karo
+  Duṅgi maiṅ mahshar ke din is ka sila maatam karo
 
   8
   Jab talak saaṅseṅ haiṅ Waaiz ye aza jaari rahe

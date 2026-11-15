@@ -22,12 +22,12 @@ romanLyrics: |-
 
   2
   Ke is pe naqsh hai ism-e-Ali-e-Musi Raza
-  Aur is mein aks hai Maula Raza ke rauze ka
+  Aur is meiṅ aks hai Maula Raza ke rauze ka
   Khuruj-e-nur hai goya Raza ke sikke se
 
   3
   Janaab-e-Wali-e-Mashhad se is ko nisbat hai
-  Niyaaz o nazar mein langar mein is ki shirkat hai
+  Niyaaz o nazar meiṅ langar meiṅ is ki shirkat hai
   Hai rehmatoṅ ka asaasa Raza ke sikke se
 
   4
@@ -41,8 +41,8 @@ romanLyrics: |-
   Har ek shar se bachega Raza ke sikke se
 
   6
-  Hum is liye hi to rakhte haiṅ jeb mein is ko
-  Hamaare rizq mein is ke sabab se barkat ho
+  Hum is liye hi to rakhte haiṅ jeb meiṅ is ko
+  Hamaare rizq meiṅ is ke sabab se barkat ho
   Ke rizq barhta hai apna Raza ke sikke se
 
   7

@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Maqtal ki zamiṅ aur qayaamat ka wo manzar
-  The god mein Shabbir ki zakhmi Ali Akbar
+  The god meiṅ Shabbir ki zakhmi Ali Akbar
   Bete ki taraf dekh ke jab Ya Ali keh kar
   Ik haath rakha sine pe ik haath sinaaṅ par
   Sine se sinaaṅ khench ke kehne lage Sarwar
@@ -24,16 +24,16 @@ romanLyrics: |-
 
   2
   Kya tum se kahuṅ kis tarha pahuncha huṅ sarhaane
-  Main ghutniyoṅ chal kar tumheṅ aaya huṅ uthaane
+  Maiṅ ghutniyoṅ chal kar tumheṅ aaya huṅ uthaane
   Aankheṅ na karo band meri jaan chalo ghar
 
   3
-  Taklif hai sine mein ye ehsaas hai hum ko
+  Taklif hai sine meiṅ ye ehsaas hai hum ko
   Mehsus karo tum bhi to is baap ke gham ko
   Mar jaauṅ ga yuṅ eriyaṅ ragro na zamiṅ par
 
   4
-  Is haal mein gar saamne beta tera hota
+  Is haal meiṅ gar saamne beta tera hota
   Zakhmoṅ ki taraf dekh ke kya tu nahiṅ rota
   Do hausla sine se laga lo mujhe uth kar
 
@@ -43,8 +43,8 @@ romanLyrics: |-
   Phir kis ki nazar kha gayi hamshakl-e-Payambar
 
   6
-  Kiuṅ baap ki aaghosh mein dam tor rahe ho
-  Ghurbat mein akela hameṅ tum chhor rahe ho
+  Kiuṅ baap ki aaghosh meiṅ dam tor rahe ho
+  Ghurbat meiṅ akela hameṅ tum chhor rahe ho
   Kiuṅ hichkiyaṅ lete ho mere saamne dilbar
 
   7
@@ -53,13 +53,13 @@ romanLyrics: |-
   Chehre pe tere khun hai zakhmi hai tera sar
 
   8
-  Kuchh der mein le aayega qaasid khat-e-Sughra
+  Kuchh der meiṅ le aayega qaasid khat-e-Sughra
   Hum se na parha jaayega tum bhi na tarapna
-  Jis waqt pukaaruṅ ga main khat sine pe rakh kar
+  Jis waqt pukaaruṅ ga maiṅ khat sine pe rakh kar
 
   9
-  Akbar ne jab aaghosh mein li aakhri hichki
-  Zeeshan o Raza khaime se Zainab ne sada di
+  Akbar ne jab aaghosh meiṅ li aakhri hichki
+  Zishan o Raza khaime se Zainab ne sada di
   Mar jaayeṅ ge Shabbir teri laash utha kar
 # source_id: nohayonline:8f1f4dde4502ac9a968d
 # source_url: https://www.nohayonline.com/details_content.php?id=1835

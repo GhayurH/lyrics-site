@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Allahu shaafi allahu kaafi
-  Sadqe mein maula Husain ke
+  Sadqe meiṅ maula Husain ke
 
   1
   Ho koi maraz ya koi bala
@@ -20,13 +20,13 @@ romanLyrics: |-
 
   2
   Viraan thi zamin-e-Karbobala
-  Shabbir ka khuṅ jab is mein mila
+  Shabbir ka khuṅ jab is meiṅ mila
   Ye khaak bani phir khaak-e-shifa
   Is khaak pe wajib hai sajda
   Deta hai sada ye Aashura
 
   3
-  Maula ki zamanat mein de ke
+  Maula ki zamanat meiṅ de ke
   Hum se ye kaha hai maaoṅ ne
   Hum khalq huwe is gham ke liye
   Shabbir ka maatam kar beta
@@ -40,8 +40,8 @@ romanLyrics: |-
   Shabbir pe mar jaana hai shifa
 
   5
-  Sine mein lagi jis dam barchi
-  Maidan mein qaza bhi rone lagi
+  Sine meiṅ lagi jis dam barchi
+  Maidan meiṅ qaza bhi rone lagi
   Zainab pe qayamat tut gayi
   Akbar ne jigar ko thaam liya
   Behte huwe khuṅ ne di ye sada
@@ -56,15 +56,15 @@ romanLyrics: |-
   7
   Haalaat ajab the ghurbat ke
   Rukhsaar the nile bacchi ke
-  Gohar bhi layeen ne chhin liye
+  Gohar bhi layiṅ ne chhin liye
   Kaanoṅ se lahu jab behne laga
   Zainab ne Sakina se ye kaha
 
   8
   Qurbaan Takallum ho us par
   Sajjad ka tha ye zakhm-e-jigar
-  Maaṅ bahneṅ phuphi thiṅ be chaadar
-  Baazaar mein khuṅ bhi rota raha
+  Maaṅ bahneṅ phuphi thiṅ bechaadar
+  Baazaar meiṅ khuṅ bhi rota raha
   Aur zakhmi laboṅ se kehta raha
 
   9

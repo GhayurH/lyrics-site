@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Nisbat se teri Ghazi haajat rawaaṅ hai ye bhi
-  Parcham ye mushkiloṅ mein momin ka hai sahaara
+  Parcham ye mushkiloṅ meiṅ momin ka hai sahaara
 
   2
   Sher-e-Khuda Ali hai tu Sher-e-Murtaza hai

@@ -15,7 +15,7 @@ romanLyrics: |-
   Alwida haaye Husain
   Alwida jaa rahi hai behen alwida
   (Lo chali Shaam ko, aa ke rukhsat karo)
-  Haathoṅ mein hai rasan alwida
+  Haathoṅ meiṅ hai rasan alwida
 
   2
   (Tere laashe pe aansu baha na saki
@@ -38,11 +38,11 @@ romanLyrics: |-
   5
   Ab mera kya raha gar ko jaauṅ agar
   Mere Akbar aur Qasim sabhi hai itha
-  (Aur Sughra ko ro kar bataauṅ gi main)
+  (Aur Sughra ko ro kar bataauṅ gi maiṅ)
   Mera ujar sehan alwida
 
   6
-  Tere maqsad ko pura main karne chali
+  Tere maqsad ko pura maiṅ karne chali
   Saath uryaano ke parh ke Naad-e-Ali
   Hai salaam aakhiri mohsin o kibriya
   Aur tashna dahan alwida

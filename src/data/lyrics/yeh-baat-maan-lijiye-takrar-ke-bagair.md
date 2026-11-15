@@ -25,7 +25,7 @@ romanLyrics: |-
 
   4
   Aankheṅ khuli raheṅ gi tere intezaar meiṅ
-  Mar bhi gaya jo main tere didaar ke baghair
+  Mar bhi gaya jo maiṅ tere didaar ke baghair
 
   5
   Maula munaafiqin ko samjha liya bohat

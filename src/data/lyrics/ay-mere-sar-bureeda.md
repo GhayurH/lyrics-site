@@ -14,23 +14,23 @@ romanLyrics: |-
   Husain
   Ae mere sar burida badan darida
   Sada tera naam barguzida
-  Main Karbala ke lahu dasht mein tujhe
+  Maiṅ Karbala ke lahu dasht meiṅ tujhe
 
   1
-  Dushmanoṅ ke narghe mein
+  Dushmanoṅ ke narghe meiṅ
   Tegh dar dast dekhta huṅ
-  Main dekhta huṅ ke tere saare rafiq
+  Maiṅ dekhta huṅ ke tere saare rafiq
   Sab hamnawa sabhi jaanfarosh
 
   2
   Apne saroṅ ki fasleṅ kata chuke haiṅ
-  Gulaab se jism apne khuṅ mein naha chuke haiṅ
+  Gulaab se jism apne khuṅ meiṅ naha chuke haiṅ
   Hawa-e-jaankah ke bagule
   Charaagh se tabnaak chehre bujha chuke haiṅ
 
   3
   Musafiran-e-rah-e-wafa lut luta chuke haiṅ
-  Aur ab faqat tu zamin ke is shafaq kade mein
+  Aur ab faqat tu zamin ke is shafaq kade meiṅ
   Sitara-e-subh ki tarah
   Roshni ka parcham liye khara hai
 
@@ -44,17 +44,17 @@ romanLyrics: |-
   Apne taaza safar ka aaghaaz kar rahi hai
   Yahiṅ se insaniyat
   Nayi rifatoṅ ko parwaaz kar rahi hai
-  Main aaj is Karbala mein
+  Maiṅ aaj is Karbala meiṅ
 
   6
-  Be-aabru niguṅ sar
+  beaabru niguṅ sar
   Shikast khurda khajil khara huṅ
   Jahaṅ se mera azim haadi
   Husain kal surkhru gaya hai
 
   7
-  Main jaaṅ bacha kar
-  Fana ke daldal mein jaaṅ balab huṅ
+  Maiṅ jaaṅ bacha kar
+  Fana ke daldal meiṅ jaaṅ balab huṅ
   Zamin aur aasmaan ke izz o fakhr
   Saare haraam mujh par
 

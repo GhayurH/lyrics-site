@@ -1,6 +1,6 @@
 ---
 title: "میں نے اے صغرا اندھیروں سے رفاقت کرلی"
-alternateTitle: "Main Ne Ae Sughra"
+alternateTitle: "Maiṅ Ne Ae Sughra"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Main ne ae Sughra andheroṅ se rifaaqat kar li
+  Maiṅ ne ae Sughra andheroṅ se rifaaqat kar li
   Qaid-e-zindaaṅ meiṅ Sakina yeh sada deti thi
 
   1
@@ -35,7 +35,7 @@ romanLyrics: |-
   Roshni chiz hai kya ab to yahaaṅ bhul gayi
 
   6
-  Tum ko main dukhra sunaauṅ gi gale se lag kar
+  Tum ko maiṅ dukhra sunaauṅ gi gale se lag kar
   Qaid se jald rihaai ki ho surat sab ki
 
   7

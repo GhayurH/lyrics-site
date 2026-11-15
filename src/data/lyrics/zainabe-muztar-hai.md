@@ -43,9 +43,9 @@ romanLyrics: |-
   Hai qayaamat ka ye lamha ya Ali ab aaiye
 
   5
-  Wo siyaah aandhi uthi suraj gahan mein aa gaya
+  Wo siyaah aandhi uthi suraj gahan meiṅ aa gaya
   Ho gaya tan se juda sar Fatima ke laal ka
-  Hai Fareed ab Karbala mein wa Husaina ki sada
+  Hai Farid ab Karbala meiṅ wa Husaina ki sada
   Chhaa gaya har suṅ andhera ya Ali ab aaiye
 # source_id: nohayonline:32571ca78ddc1446ee7e
 # source_url: https://www.nohayonline.com/details_content.php?id=3328

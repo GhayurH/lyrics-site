@@ -1,6 +1,6 @@
 ---
 title: "جب بھی عزاخانے میں سجایا ہے تبرک"
-alternateTitle: "Jab Bhi Aza Khaane Mein Sajaaya Hai Tabarruk"
+alternateTitle: "Jab Bhi Aza Khaane Meiṅ Sajaaya Hai Tabarruk"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -19,7 +19,7 @@ romanLyrics: |-
 
   2
   Jibril se keh do mera muṅh chum leiṅ aa kar.
-  Main ne bhi abhi Shabbir ka khaaya hai tabarruk.
+  Maiṅ ne bhi abhi Shabbir ka khaaya hai tabarruk.
 
   3
   Ae Faatima Zahra inheiṅ de dijiye roti.
@@ -31,7 +31,7 @@ romanLyrics: |-
 
   5
   Ye nazr ye langar ye sabiloṅ ki qataareiṅ.
-  Dunya mein jahaaṅ dekhiye chhaaya hai tabarruk.
+  Dunya meiṅ jahaaṅ dekhiye chhaaya hai tabarruk.
 
   6
   Paida kiya dunya ko baraa-e-gham-e-Shabbir.
@@ -43,7 +43,7 @@ romanLyrics: |-
 
   8
   Shaayad ye Nakirain ke kaam aa sake Nayyar.
-  Is waaste kuchh main ne bachaaya hai tabarruk.
+  Is waaste kuchh maiṅ ne bachaaya hai tabarruk.
 # source_id: tajpoints:653ddceaf1672be7246b
 # source_url: https://tajpoints.com/2018/01/jab-bhi-azza-khane-mein-sajaya-hai.html
 # raw_sha256: 2bb727a737e4bbcad0f857059cf9c1f2b1d76c35f6317af33eb7081964e3e493

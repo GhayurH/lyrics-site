@@ -15,7 +15,7 @@ romanLyrics: |-
   Hum ghariboṅ ke liye koi sahaara na raha
 
   1
-  Khaak par lotte haiṅ aalam-e-tanhaai mein
+  Khaak par lotte haiṅ aalam-e-tanhaai meiṅ
   Aisi ghurbat hai koi puchhne waala na raha
 
   2
@@ -31,7 +31,7 @@ romanLyrics: |-
   Kiuṅ mujhe maut na aayi mera bhaiya na raha
 
   5
-  Kamsini mein hai Taqi par ye musibat aayi
+  Kamsini meiṅ hai Taqi par ye musibat aayi
   Sar pe afsos ke ab baap ka saaya na raha
 
   6

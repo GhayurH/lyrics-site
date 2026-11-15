@@ -1,6 +1,6 @@
 ---
 title: "رویا کہاں کہاں سر مظلوم کربلا"
-alternateTitle: "Roya Kahan Kahan"
+alternateTitle: "Roya Kahaṅ Kahaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -53,7 +53,7 @@ romanLyrics: |-
   Baandhi gayi jo uṅt pe Sarwar ki mah-laqa
   Naize pe sar Husain ka us waqt ro para
   Chalta tha uṅt chalta tha bachchi ka badan
-  Rote the beqaraari mein us waqt Sheh-e-zaman
+  Rote the beqaraari meiṅ us waqt Sheh-e-zaman
 
   8
   Kaantoṅ pe Shaah-e-diṅ ka bimaar jab chala
@@ -62,15 +62,15 @@ romanLyrics: |-
   Aankhoṅ se khuṅ ke ashk bahaate rahe Husain
 
   9
-  Jab qaafila asiroṅ ka baazaar mein gaya
+  Jab qaafila asiroṅ ka baazaar meiṅ gaya
   Naize pe sar Husain ka us waqt ro para
   Patthar chala rahe the sabhi baani-e-jafa
-  Apne lahu mein duba tha kunba Rasul ka
+  Apne lahu meiṅ duba tha kunba Rasul ka
 
   10
   Kufe ke dar pe jo pahuncha kunba luta hua
   Naize pe sar Husain ka us waqt ro para
-  Ro kar Husain kehte the Muslim main aa gaya
+  Ro kar Husain kehte the Muslim maiṅ aa gaya
   Tum meri peshwaai ko aaye na bewafa
 
   11

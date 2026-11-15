@@ -19,28 +19,28 @@ romanLyrics: |-
 
   2
   Har ek nishan kufr o zalalat ka mita duṅ
-  Har raah mein ek dip sadaqat ka jala duṅ
+  Har raah meiṅ ek dip sadaqat ka jala duṅ
   Is khair-e-amal ki mujhe taufiq Khuda de
 
   3
-  Likh de meri taqdir mein Maula ki ghulami
+  Likh de meri taqdir meiṅ Maula ki ghulami
   Hasil mujhe ho jaaye ye aizaz-e-dawami
   Har khwahish-e-dunya ko mere dil se mita de
 
   4
-  Shamil rahe lehje mein sada harf-e-sadaqat
-  Shamshir tale main bhi karuṅ koi ibadat
+  Shamil rahe lehje meiṅ sada harf-e-sadaqat
+  Shamshir tale maiṅ bhi karuṅ koi ibadat
   Ae kaash mujhe Fatima Zehra ye dua de
 
   5
-  Shabbir ke ansar mein shamil ho mera naam
-  Jo Hurr ka ho mahshar mein wohi ho mera anjam
+  Shabbir ke ansar meiṅ shamil ho mera naam
+  Jo Hurr ka ho mahshar meiṅ wohi ho mera anjam
   Khaak-e-qadam-e-Hazrat-e-Shabbir bana de
 
   6
   Dekhuṅ na agar uthte huwe parda-e-ghaibat
   Aaeṅ jo mere baad yahaṅ Hazrat-e-Hujjat
-  Turbat mein aa kar koi mera shana hila de
+  Turbat meiṅ aa kar koi mera shana hila de
 # source_note: personal notebook ODT import on 2026-11-08; no unique source record ID
 # source_notes: Transcribed from personal notebook; original Roman/Urdu checked against notebook
 ---

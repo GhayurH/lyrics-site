@@ -14,18 +14,18 @@ romanLyrics: |-
   Kehti thi Umm-e-Laila laash-e-jawaaṅ pe ro kar
   Mujhko na maut aayi
 
-  Karyal jawaaṅ ka laasha aaya hai khun mein tar
+  Karyal jawaaṅ ka laasha aaya hai khun meiṅ tar
   Mujhko na maut aayi
 
   1
-  Kuchh sujhta nahiṅ hai aankhoṅ mein hai andhera
+  Kuchh sujhta nahiṅ hai aankhoṅ meiṅ hai andhera
   Dunya se jaa chuka hai mera jawaan beta
-  Kehti rahuṅ gi ab main bas ye tarap tarap kar
+  Kehti rahuṅ gi ab maiṅ bas ye tarap tarap kar
 
   2
   Sarhaane naujawaaṅ ke baithi hai Umm-e-Laila
   Muṅh chum kar pisar ka ye keh rahi hai dukhiya
-  Ab saari zindagi main bas ye kahuṅ gi ro kar
+  Ab saari zindagi maiṅ bas ye kahuṅ gi ro kar
 
   3
   Arsh-e-bariṅ pe us din mera nasib hota
@@ -33,13 +33,13 @@ romanLyrics: |-
   Afsos maaṅ se pehle tum mar gaye gul-e-tar
 
   4
-  Ek maaṅ ki zindagi mein ye din kabhi na aaye
+  Ek maaṅ ki zindagi meiṅ ye din kabhi na aaye
   Bete ki laash maaṅ ko Allah na dikhaaye
   Meri tarah ye keh kar roye na koi maadar
 
   5
   Haathoṅ se apne jis ke gesuṅ sanwaarti thi
-  Jis laal ki main har dam nazreṅ utaarti thi
+  Jis laal ki maiṅ har dam nazreṅ utaarti thi
   Maara laiṅ ne neza us gulbadan ke dil par
 
   6

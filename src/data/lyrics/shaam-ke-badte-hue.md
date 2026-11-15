@@ -1,6 +1,6 @@
 ---
 title: "مُصیبت کی گھڑی اور شام کے بڑھتے ہوئے سائے"
-alternateTitle: "Shaam Ke Badte Hue"
+alternateTitle: "Shaam Ke Barte Hue"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -38,7 +38,7 @@ romanLyrics: |-
   Lainoṅ ne tan-e-Sarwar pe itne tir barsaaye
 
   7
-  Main zaakir huṅ Husain Ibn-e-Ali ka ye dua kijiye
+  Maiṅ zaakir huṅ Husain Ibn-e-Ali ka ye dua kijiye
   Sharaf ye nasl se meri qayaamat tak nahiṅ jaaye
 # source_id: nohayonline:6eb33d332ba3224a0298
 # source_url: https://www.nohayonline.com/details_content.php?id=516

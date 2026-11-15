@@ -10,7 +10,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Haashim ke gharane ke qamar hai meri faryaad
-  Mere dil-e-taarik mein thori si ziya do
+  Mere dil-e-taarik meiṅ thori si ziya do
 
   1
   Tum chaaho to khil jaaye mere dil ka kanwal bhi

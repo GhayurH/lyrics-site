@@ -11,8 +11,8 @@ aliases: ["Kya Mujhe Chod Ke"]
 published: true
 romanLyrics: |-
   Haaye ammaaṅ are suno ammaaṅ
-  Are aap se main bayaan dil ka haal karuṅ
-  Are dil mein uthta hai jo ik sawaal karuṅ
+  Are aap se maiṅ bayaan dil ka haal karuṅ
+  Are dil meiṅ uthta hai jo ik sawaal karuṅ
 
   Qaid se jab rihaai haram paayeṅge
   Kya meri qabr pe phir nahiṅ aayeṅge
@@ -20,12 +20,12 @@ romanLyrics: |-
   Kya mujhe chhor kar sab chale jaayeṅge
 
   1
-  Kya isi qaid mein ghut ke mar jaauṅgi
-  Kya main do gaz kafan bhi nahiṅ paauṅgi
-  Maile kurte mein kya mujh ko dafnaayeṅge
+  Kya isi qaid meiṅ ghut ke mar jaauṅgi
+  Kya maiṅ do gaz kafan bhi nahiṅ paauṅgi
+  Maile kurte meiṅ kya mujh ko dafnaayeṅge
 
   2
-  Sar se paaoṅ talak main lahu mein huṅ tar
+  Sar se paaoṅ talak maiṅ lahu meiṅ huṅ tar
   Mera zakhmoṅ bhara ye badan dekh kar
   Sirf zaalim nahiṅ zulm pachhtaayeṅge
 
@@ -35,8 +35,8 @@ romanLyrics: |-
   Ye meri qabr pe Shimr ko laayeṅge
 
   4
-  Dekh kar zakhm baba ke ghabraai main
-  Hashr mein baap ke paas jab aai main
+  Dekh kar zakhm baba ke ghabraai maiṅ
+  Hashr meiṅ baap ke paas jab aai maiṅ
   Dekh kar mujh ko baba bhi ghabraayeṅge
 
   5
@@ -46,7 +46,7 @@ romanLyrics: |-
 
   6
   Karbala jaa ke baba se ye puchhna
-  Hashr mein un se jab ho mera saamna
+  Hashr meiṅ un se jab ho mera saamna
   Kya mujhe apne sine se liptaayeṅge
 
   7
@@ -55,7 +55,7 @@ romanLyrics: |-
   Hashr tak hum musaafir hi kehlaayeṅge
 
   8
-  Shaam mein hi meri shaam ho jaayegi
+  Shaam meiṅ hi meri shaam ho jaayegi
   Ye kahaani agar aam ho jaayegi
   Baap beti se kab pyaar farmaayeṅge
 

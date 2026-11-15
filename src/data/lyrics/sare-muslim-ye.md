@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ahl-e-haram ka qaafila Kufe mein dekh ke
+  Ahl-e-haram ka qaafila Kufe meiṅ dekh ke
   Ek sar kalaam karta tha naize ki nok se
 
   Sar-e-Muslim ye kehta tha sar-e-Shabbir se ro kar
@@ -19,18 +19,18 @@ romanLyrics: |-
 
   1
   Ye Kufi kaisi baateiṅ kar rahe haiṅ ya mera Maula
-  Khari hai berida is bhir mein kya Saani-e-Zahra
+  Khari hai berida is bhir meiṅ kya Saani-e-Zahra
   Ye kya Zainab ke patthar lag rahe haiṅ baaghi keh keh kar
 
   2
-  Main jab rukhsat hua tha haal kab aisa tha Hazrat ka
-  Safedi aa gayi baaloṅ mein kaise aap ke Maula
+  Maiṅ jab rukhsat hua tha haal kab aisa tha Hazrat ka
+  Safedi aa gayi baaloṅ meiṅ kaise aap ke Maula
   Suna hai laash-e-Akbar par zaifi aayi hai tum par
 
   3
   Meri ghairat gawaara kar nahiṅ sakti kabhi Maula
-  Khula sar dekh luṅ kaise bhala main Bint-e-Zehra ka
-  Main aankheiṅ band kar luṅ to guzar jaana behan le kar
+  Khula sar dekh luṅ kaise bhala maiṅ Bint-e-Zehra ka
+  Maiṅ aankheiṅ band kar luṅ to guzar jaana behan le kar
 
   4
   Meri wo laadli beti teri beti ka hai sadqa
@@ -38,8 +38,8 @@ romanLyrics: |-
   Na zakhm aaye Sakina ko Hamida ko lage patthar
 
   5
-  Kaha main ne to Tawa jaam le aayi thi paani ka
-  Wahaaṅ nau laakh mein kya koi bhi insaaṅ na tha Maula
+  Kaha maiṅ ne to Tawa jaam le aayi thi paani ka
+  Wahaaṅ nau laakh meiṅ kya koi bhi insaaṅ na tha Maula
   Suna hai aap ne paani bahut maanga tah-e-khanjar
 
   6
@@ -49,7 +49,7 @@ romanLyrics: |-
 
   7
   Ruqayya ne bataaya Aatika naaraaz thi mujh se
-  Use lagta tha main imdaad ko aauṅga Kufe se
+  Use lagta tha maiṅ imdaad ko aauṅga Kufe se
   Magar afsos gardan par tumhaari chal gaya khanjar
 
   8

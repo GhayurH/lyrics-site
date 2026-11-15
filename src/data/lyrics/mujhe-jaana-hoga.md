@@ -26,28 +26,28 @@ romanLyrics: |-
   Meri Zainab ko to baazaar bhi jaana hoga
 
   2
-  Mujh ko darbaar mein jhutlaaya mera dar bhi jala
+  Mujh ko darbaar meiṅ jhutlaaya mera dar bhi jala
   Mera Mohsin na raha koi sahaara na raha
   Mere bete mere Mehdi tumheṅ aana hoga
 
   3
-  Pasliyaaṅ tut gayi hai main nahiṅ uth paati
-  Saans lene mein bhi hoti hai mujhe dushwaari
+  Pasliyaaṅ tut gayi hai maiṅ nahiṅ uth paati
+  Saans lene meiṅ bhi hoti hai mujhe dushwaari
   Ae Khuda paas tujhe apne bulaana hoga
 
   4
   Jalte darwaaze ko dekha hai Hasan ne mujh par
-  Is liye rota hai tanhaai mein mera ye pisar
+  Is liye rota hai tanhaai meiṅ mera ye pisar
   Us ko le aao gale apne lagaana hoga
 
   5
-  Main ne bas itna kaha chhor do shauhar ko mere
-  Ye khabar thi nahiṅ badle mein tarafdaari ke
+  Maiṅ ne bas itna kaha chhor do shauhar ko mere
+  Ye khabar thi nahiṅ badle meiṅ tarafdaari ke
   Taaziyaana mujhe baazu pe bhi khaana hoga
 
   6
   Ro pari Fatema Zainab se suni jab ye fughaaṅ
-  Karbala jaauṅ gi kaise main akeli Ammaaṅ
+  Karbala jaauṅ gi kaise maiṅ akeli Ammaaṅ
   Har jagah saath tumheṅ mere nibhaana hoga
 
   7

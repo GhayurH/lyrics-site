@@ -34,7 +34,7 @@ romanLyrics: |-
 
   3
   Zainab ki rida se sarwar ka
-  Khanjar pe jo khoon tha saaf kiya
+  Khanjar pe jo khun tha saaf kiya
   Fizza ne ye manzar dekh liya
   Zainab se magar dekha na gaya
   Bhai ke jo qaatil ko dekha
@@ -84,7 +84,7 @@ romanLyrics: |-
   Maqtal meiṅ rasan basta the haram
   Har sog nashiṅ ki aankh thi nam
   Phatta hai jigar rota hai qalam
-  Asif main karuṅ kis tarah raqam
+  Asif maiṅ karuṅ kis tarah raqam
   Hai bhai behan maqtul-e-jafa
   Taarikh ne bas Aamir ye likha
 # source_id: nohayonline:10414fe0c937be4a8ec9

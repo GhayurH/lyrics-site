@@ -21,10 +21,10 @@ romanLyrics: |-
   Surkhru maaṅ ko kar diya tum ne
 
   2
-  Paani pine gaye the maqtal mein
-  Lab dikhaane gaye the maqtal mein
-  Tir khaane gaye the maqtal mein
-  Dil dukhaane gaye the maqtal mein
+  Paani pine gaye the maqtal meiṅ
+  Lab dikhaane gaye the maqtal meiṅ
+  Tir khaane gaye the maqtal meiṅ
+  Dil dukhaane gaye the maqtal meiṅ
 
   3
   Mere Asghar ye kya kiya tum ne
@@ -39,14 +39,14 @@ romanLyrics: |-
   Shaah ki Zulfiqaar roti hai
 
   5
-  Yuṅ andheroṅ mein ki ziya tum ne
+  Yuṅ andheroṅ meiṅ ki ziya tum ne
   Kaam mushkil tha jo kiya tum ne
   Bujh raha tha jo wo diya tum ne
-  Aandhiyoṅ mein jala liya tum ne
+  Aandhiyoṅ meiṅ jala liya tum ne
 
   6
   Chal base mujh se ruth kar haaye
-  Main ne kapre naye na pahnaaye
+  Maiṅ ne kapre naye na pahnaaye
   Baal bikhre hue na suljhaaye
   Kaun ab maaṅ ke dil ko bahlaaye
 
@@ -54,18 +54,18 @@ romanLyrics: |-
   Ban ki wahshat tumheiṅ rulaayegi
   Nind kis tarah tum ko aayegi
   Kya kya sadme na maaṅ uthaayegi
-  Tum ko pahlu mein jab na paayegi
+  Tum ko pahlu meiṅ jab na paayegi
 
   8
-  Gham gale se laga rahi huṅ main
-  Khaali jhula jhula rahi huṅ main
-  Khun ke aansu baha rahi huṅ main
-  Ab su-e-Shaam ja rahi huṅ main
+  Gham gale se laga rahi huṅ maiṅ
+  Khaali jhula jhula rahi huṅ maiṅ
+  Khun ke aansu baha rahi huṅ maiṅ
+  Ab su-e-Shaam ja rahi huṅ maiṅ
 
   9
   Ae Uruj ab uruj par gham hai
-  Donoṅ aalam mein shor-e-maatam hai
-  Jis ko dahru mein aaj gham kam hai
+  Donoṅ aalam meiṅ shor-e-maatam hai
+  Jis ko dahru meiṅ aaj gham kam hai
   Maaṅ ke dil ki pukaar paiham hai
 # source_id: nohayonline:664ce34bc53aca991167
 # source_url: https://www.nohayonline.com/details_content.php?id=653

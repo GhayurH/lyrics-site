@@ -14,27 +14,27 @@ romanLyrics: |-
   Ae naana teri ummat se tera din bacha kar laayi hai
   Teri beghar Zainab aayi hai
   O teri beghar Zainab aayi hai
-  Be chaadar Zainab aayi hai
+  Bechaadar Zainab aayi hai
   Tera din bacha kar laayi hai
 
   1
   Puchha jo kisi ne Zainab se bhaai hai kahaaṅ to Zainab ne
-  Ek mutthi khaak uthaayi hai aur khaak hawa mein uraayi hai
+  Ek mutthi khaak uthaayi hai aur khaak hawa meiṅ uraayi hai
   Teri beghar Zainab aayi hai
 
   2
-  Quraaṅ tha jo Shabbir ka tan maqtal mein sumoṅ se raunda gaya
-  Juzdaan tha jo tan ka kurta wo khuṅ mein duba laayi hai
+  Quraaṅ tha jo Shabbir ka tan maqtal meiṅ sumoṅ se raunda gaya
+  Juzdaan tha jo tan ka kurta wo khuṅ meiṅ duba laayi hai
   Teri beghar Zainab aayi hai
 
   3
-  Be jaan hujre chup darwaaze saabit parde be jumbish lab
-  Ya ghar mein hai ek sannaata ya Zainab ki tanhaai hai
+  Bejaan hujre chup darwaaze saabit parde bejumbish lab
+  Ya ghar meiṅ hai ek sannaata ya Zainab ki tanhaai hai
   Teri beghar Zainab aayi hai
 
   4
-  Maqtal mein lagi thi qimat-e-diṅ boli dete the dushman-e-diṅ
-  Ae naana main ne qimat-e-din apni chaadar se chukaayi hai
+  Maqtal meiṅ lagi thi qimat-e-diṅ boli dete the dushman-e-diṅ
+  Ae naana maiṅ ne qimat-e-din apni chaadar se chukaayi hai
   Teri beghar Zainab aayi hai
 
   5

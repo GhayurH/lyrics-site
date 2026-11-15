@@ -1,6 +1,6 @@
 ---
 title: "زمین عشق پہ گونجی اذان اربعین"
-alternateTitle: "Arbaeen Aur Imame"
+alternateTitle: "Arbain Aur Imame"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,19 +11,19 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zamin-e-ishq pe guṅji azaan-e-Arbaeen
+  Zamin-e-ishq pe guṅji azaan-e-Arbain
   Jigar figaar hua Karbala ki huk uthi
-  Gham-e-Husain ne khaime laga diye dil mein
-  Tumhari yaad mein rone ke waaste Maula
+  Gham-e-Husain ne khaime laga diye dil meiṅ
+  Tumhari yaad meiṅ rone ke waaste Maula
 
   1
-  Libaas-e-sog mein ashkoṅ ke qaafile phir se
-  Andheri raat mein palkoṅ pe aake utre hai
-  Tumhare wasl ki hasrat mein jaagti aaṅkheiṅ
+  Libaas-e-sog meiṅ ashkoṅ ke qaafile phir se
+  Andheri raat meiṅ palkoṅ pe aake utre hai
+  Tumhare wasl ki hasrat meiṅ jaagti aaṅkheiṅ
   Zarih-e-paak ko chhune ke khwaab dekhti hai
 
   2
-  Hai aarzu tere rauze pe Arbaeen ke liye
+  Hai aarzu tere rauze pe Arbain ke liye
   Mujhe nasib se wo qaafila-e-ishq mile
   Ke saarbaaṅ Imam-e-zamaaṅ ho jis ke
   Najaf se Karb o Bala khaar khaar chalte hue
@@ -32,24 +32,24 @@ romanLyrics: |-
   Meri jabiṅ pe un raastoṅ ki gard pare
   Ho jin pe Mehdi-e-dauraaṅ ne apne paaoṅ dhare
   Qadam qadam wo kahiṅ aas paas saath mere
-  Karoroṅ logoṅ mein tanha akele chalte ho
+  Karoroṅ logoṅ meiṅ tanha akele chalte ho
 
   4
-  Main baar baar nigaahoṅ se poṅchh kar aaṅsu
-  Har ek chehre mein Mehdi ke nur ko dhuṅduṅ
+  Maiṅ baar baar nigaahoṅ se poṅchh kar aaṅsu
+  Har ek chehre meiṅ Mehdi ke nur ko dhuṅduṅ
   Har ek se puchho koi chaalis baras ka jawaaṅ dekha hai
-  Kya tum ne bhir mein mera Imam dekha hai
+  Kya tum ne bhir meiṅ mera Imam dekha hai
 
   5
   Har ek lazzat-e-dunya se bekhabar ho ke
-  Dayaar-e-ghair mein ho jaauṅ besar o saamaan
-  Taam maaṅge bina mere haath mein deke
+  Dayaar-e-ghair meiṅ ho jaauṅ besar o saamaan
+  Taam maaṅge bina mere haath meiṅ deke
   Gale laga le koi mujhko bewatan keh ke
 
   6
   Tumhare rauze ki jaanib piyaada paa mehmaaṅ
   Uraata khaak chale khasta jaan o tan pahuṅche
-  Taqaiulaat mein phaila ke apne daaman ko
+  Taqaiulaat meiṅ phaila ke apne daaman ko
   Amir-e-Karbobala dekh teri chaukhat pe
 
   7
@@ -59,28 +59,28 @@ romanLyrics: |-
   Tere baghair zamaana udaas hai saara
 
   8
-  Main tashna lab huṅ tu meri Furaat hai Maula
-  Main chaahta huṅ isi raah-e-ishq mein kho kar
-  Kabhi talaash karuṅ apni zaat mein khud ko
-  Kare jo mujh se baghaawat wo Hur mile mujh mein
+  Maiṅ tashna lab huṅ tu meri Furaat hai Maula
+  Maiṅ chaahta huṅ isi raah-e-ishq meiṅ kho kar
+  Kabhi talaash karuṅ apni zaat meiṅ khud ko
+  Kare jo mujh se baghaawat wo Hur mile mujh meiṅ
 
   9
-  Tere huzur mein bakhshish ki aarzu le kar
+  Tere huzur meiṅ bakhshish ki aarzu le kar
   Asir-e-nafs tere dar pe kis tarah aaye
   Bandha ke haath chale ya ke sar kataaye
   Mujhe bhi zindagi ki aarzu hai mere Husain
 
   10
-  Main tujh pe aisa maruṅ ke hayaat mil jaaye
-  Qafas se nikle parinda hawa mein ur jaaye
+  Maiṅ tujh pe aisa maruṅ ke hayaat mil jaaye
+  Qafas se nikle parinda hawa meiṅ ur jaaye
   Magar raza o itaaat ka jaam khaali hai
   Ba naam-e-ishq zaade raah paas kuchh bhi nahiṅ
 
   11
-  Tu jaanta hai main kitna gharib huṅ lekin
-  Main jaanta huṅ tu kitna karim hai Maula
+  Tu jaanta hai maiṅ kitna gharib huṅ lekin
+  Maiṅ jaanta huṅ tu kitna karim hai Maula
   Ba juz tere meri jaaye panaah kuchh bhi nahiṅ
-  Tere siwa bhari dunya mein kaun hai mera
+  Tere siwa bhari dunya meiṅ kaun hai mera
 # source_id: nohayonline:b7191670296b688e9898
 # source_url: https://www.nohayonline.com/details_content.php?id=1464
 # raw_sha256: 0f5b50714c8643f96bc27d412fae226a187d27b54a21b4d4bbcd8af488e92aba

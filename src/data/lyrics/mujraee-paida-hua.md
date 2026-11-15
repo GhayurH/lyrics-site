@@ -1,6 +1,6 @@
 ---
 title: "مجری پیدا ہوا تھا سم حسن کے واسطے"
-alternateTitle: "Mujraee Paida Hua"
+alternateTitle: "Mujrai Paida Hua"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,7 +10,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Mujraee paida hua tha sam Hasan ke waaste
+  Mujrai paida hua tha sam Hasan ke waaste
   Aur bana khanjar shah-e-tashna dahan ke waaste
 
   1
@@ -18,7 +18,7 @@ romanLyrics: |-
   Maatam-e-Shabbir kya kam tha bahan ke waaste
 
   2
-  Bekafan tha laasha-e-naushaah ran mein jaa bajaa
+  Bekafan tha laasha-e-naushaah ran meiṅ jaa bajaa
   Muṅh chhupaane ko na chaadar thi dulhan ke waaste
 
   3

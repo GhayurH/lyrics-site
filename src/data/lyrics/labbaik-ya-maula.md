@@ -14,17 +14,17 @@ romanLyrics: |-
   Labbaika ya Maula
 
   1
-  Hal min ki sada ran mein Shabbir lagaate haiṅ
+  Hal min ki sada ran meiṅ Shabbir lagaate haiṅ
   Rukh kar su-e-darya bhai ko bulaate haiṅ
   Abbas chale aao hum marne ko jaate haiṅ
   Abbas pukaare ya Maula
   Huṅ nehr kinaare ya Maula
-  Sadqe mein tumhaare ya Maula
+  Sadqe meiṅ tumhaare ya Maula
 
   2
-  Ab koi nahiṅ mera maidaan mein tanha huṅ
+  Ab koi nahiṅ mera maidaan meiṅ tanha huṅ
   Laakhoṅ hai mere dushman ae bhai akela huṅ
-  Main saare azizoṅ ke gham mein bhi duba huṅ
+  Maiṅ saare azizoṅ ke gham meiṅ bhi duba huṅ
   Khwaahish hai ke aauṅ ya Maula
   Tera saath nibhaauṅ ya Maula
   Aaqa ko bachaauṅ ya Maula
@@ -32,22 +32,22 @@ romanLyrics: |-
   3
   Tum quwwat-e-baazu the lakht-e-dil-e-Zehra the
   Tuti hai kamar meri bhaiya tere marne se
-  Main bekas o laaghar huṅ tere nahiṅ hone se
+  Maiṅ bekas o laaghar huṅ tere nahiṅ hone se
   Sab kehte haiṅ ran se ya Maula
   Har zakhmi badan se ya Maula
   Abbas ke tan se ya Maula
 
   4
-  Jab dard bhara lehja main aap ka sunta huṅ
+  Jab dard bhara lehja maiṅ aap ka sunta huṅ
   Darya pe tarapta huṅ kuchh kar nahiṅ sakta huṅ
-  Main pyaasi Sakina se ab bhi sharminda huṅ
+  Maiṅ pyaasi Sakina se ab bhi sharminda huṅ
   Paani na pilaaya ya Maula
   Darya se na lauta ya Maula
   Phatta hai kaleja ya Maula
 
   5
   De dete agar mujhko aap izn-e-wagha Maula
-  Is lashkar-e-aada ko mitti mein mila deta
+  Is lashkar-e-aada ko mitti meiṅ mila deta
   Phir aap pe na hota ye waqt musibat ka
   Phir dil hai machalta ya Maula
   Ho jaauṅ zinda ya Maula
@@ -55,11 +55,11 @@ romanLyrics: |-
 
   6
   Ho jaata agar zinda nusrat ke liye aata
-  Is baar bhi Aaqa par qurbaan main ho jaata
+  Is baar bhi Aaqa par qurbaan maiṅ ho jaata
   Sau baar fida hota hargiz nahiṅ ghabraata
   Phir aap na jaate ya Maula
   Hum tegh chalaate ya Maula
-  Aur khun mein nahaate ya Maula
+  Aur khun meiṅ nahaate ya Maula
 
   7
   Maula ki sada sun kar sab laasheṅ tarapte haiṅ
@@ -67,11 +67,11 @@ romanLyrics: |-
   Ab chaah ke bhi Maula hum uth nahiṅ sakte haiṅ
   Goya hue Jafar ya Maula
   Tarpe Ali Akbar ya Maula
-  Gehwaare mein Asghar ya Maula
+  Gehwaare meiṅ Asghar ya Maula
 
   8
   Agar maut mujhe Aaqa majbur nahiṅ karti
-  Is fauj-e-Yazidi mein itni kahaaṅ jurat thi
+  Is fauj-e-Yazidi meiṅ itni kahaaṅ jurat thi
   Jo aap ke Ghaazi se aankheṅ bhi mila paati
   Majbur hai khaadim ya Maula
   Tukre hue Qasim ya Maula

@@ -11,9 +11,9 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zindaaṅ mein jab Sakina ki jaaṅ lab pe aa gayi
+  Zindaaṅ meiṅ jab Sakina ki jaaṅ lab pe aa gayi
   Boli wo ro ke keh de pidar se zara koi
-  Hasrat thi nikle aap ki godi mein dam mera
+  Hasrat thi nikle aap ki godi meiṅ dam mera
   Sine pe sar rakhuṅ to mujhe chain aayega
   Chume qadam Sakina ke jhuk kar jo maut ne
   Boli wo maaṅ se ammaa karo qibla ru mujhe
@@ -26,18 +26,18 @@ romanLyrics: |-
   2
   Ruk ruk ke saans aati hai kholo rasan zara
   Ammaa nikalne waala hai sine se dam mera
-  Kya is andhere ghar mein mujhe maut aayegi
+  Kya is andhere ghar meiṅ mujhe maut aayegi
   Ammaa ye raat jaan meri le ke jaayegi
 
   3
-  Le le ke god mein mujhe roti hai kiuṅ phuphi
+  Le le ke god meiṅ mujhe roti hai kiuṅ phuphi
   Kis se chhupa rahi hai yahaaṅ to koi nahiṅ
   Taqdir jaane ab kya sitam mujh pe dhaayegi
   Ammaa ye raat jaan meri le ke jaayegi
 
   4
   Phir rote rote aankh Sakina ki jab lagi
-  Dekha padar ko khwaab mein bachchi tarap uthi
+  Dekha padar ko khwaab meiṅ bachchi tarap uthi
   Boli Sakina baba ke hamraah jaayegi
   Ammaa ye raat jaan meri le ke jaayegi
 

@@ -1,6 +1,6 @@
 ---
 title: "تھی کربلا میں حق کو ضرورت حسین کی"
-alternateTitle: "Thi Karbala Mein Haq"
+alternateTitle: "Thi Karbala Meiṅ Haq"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,35 +11,35 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Thi Karbala mein haq ko zarurat Husain ki
-  Lagti watan mein kaise haaye tabiat Husain ki
+  Thi Karbala meiṅ haq ko zarurat Husain ki
+  Lagti watan meiṅ kaise haaye tabiat Husain ki
 
   1
-  Tiroṅ ki chhaaṅoṅ mein wo imaamat Husain ki
-  Ran mein sipar bani hai jamaat Husain ki
+  Tiroṅ ki chhaaṅoṅ meiṅ wo imaamat Husain ki
+  Ran meiṅ sipar bani hai jamaat Husain ki
 
   2
   Hur baar baar kehta tha dam torte hue
-  Ji bhar ke kar saka na main nusrat Husain ki
+  Ji bhar ke kar saka na maiṅ nusrat Husain ki
 
   3
   Daaman chhura sake na Sakina se Shaah-e-Diṅ
   Rukhsat ke waqt ghair thi haalat Husain ki
 
   4
-  Maqtal mein jab Sakina ne baaba ko di sada
+  Maqtal meiṅ jab Sakina ne baaba ko di sada
   Tarpi tarap ke reh gayi mayyat Husain ki
 
   5
-  Aaya hai tum se qaid mein milne sar-e-Husain
+  Aaya hai tum se qaid meiṅ milne sar-e-Husain
   Utho Sakina kar lo ziyaarat Husain ki
 
   6
-  Umm-e-Rabaab saaye mein baithi na umr bhar
+  Umm-e-Rabaab saaye meiṅ baithi na umr bhar
   Roti thiṅ yaad kar ke musibat Husain ki
 
   7
-  Chhinega kaun tujh se zamaane mein jite ji
+  Chhinega kaun tujh se zamaane meiṅ jite ji
   Mehshar tera qalam hai amaanat Husain ki
 # source_id: nohayonline:f50eb0158210ccb71f2e
 # source_url: https://www.nohayonline.com/details_content.php?id=261

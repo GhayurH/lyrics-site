@@ -12,36 +12,36 @@ aliases: []
 published: true
 romanLyrics: |-
   Ye gham ki hai daastaaṅ aisi
-  Ke jis mein hai dil figaar Zehra
+  Ke jis meiṅ hai dil figaar Zehra
   Koi bhi sunte hi ro ke kehta
   Mila tujhe kab qaraar Zehra
 
   1
-  Pidar ke gham mein diya na rone
+  Pidar ke gham meiṅ diya na rone
   Kabhi bhi ummat ne haaye tujh ko
   Wo keh rahe the ke hai pareshaaṅ
   Na ro tum baar baar Zehra
 
   2
-  Gale mein rassi Ali ke baandhi
+  Gale meiṅ rassi Ali ke baandhi
   Sitamgaroṅ phir us ko khencha
   Wo Shaah-e-Khaibar hai sabr us ka
   Usi pe hai jaaṅ nisaar Zehra
 
   3
-  Jala ke ghar ko sataaya be had
+  Jala ke ghar ko sataaya behad
   Giraaya darwaaza jalta tujh par
-  Shikam mein Mohsin ko bhi hai khoya
+  Shikam meiṅ Mohsin ko bhi hai khoya
   Hai zulm tujh par hazaar Zehra
 
   4
   Sitam jo guzre haiṅ zaalimoṅ ke
   Suna ke ahwaal saara apna
-  Nabi ke rauze mein ro rahi hai
+  Nabi ke rauze meiṅ ro rahi hai
   Tarap ke lehlo nahaar Zehra
 
   5
-  Chhupa ke har gham ko dil hi dil mein
+  Chhupa ke har gham ko dil hi dil meiṅ
   Wo chal basi is jahaaṅ se ghut kar
   Hai muztarib donoṅ betiyaaṅ bhi
   Ali bhi hai gham gusaar Zehra
@@ -55,13 +55,13 @@ romanLyrics: |-
   7
   Wo kaisi khushiyoṅ ka tha zamaana
   Nabi ka gulshan bhara hua tha
-  Khizaaṅ juṅhi ghar mein tere aayi
+  Khizaaṅ juṅhi ghar meiṅ tere aayi
   Chali gayi sab bahaar Zehra
 
   8
   Ali ka waaris abhi hai zinda
   Bober zuhur us ka hoga ek din
-  Baaqi mein hogi aza-e-Sarwar
+  Baaqi meiṅ hogi aza-e-Sarwar
   Banega tera mazaar Zehra
 # source_id: nohayonline:0d7cd7af54252ecc0530
 # source_url: https://www.nohayonline.com/details_content.php?id=1948

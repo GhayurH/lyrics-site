@@ -12,11 +12,11 @@ aliases: ["Laashae Abbas Tanha"]
 published: true
 romanLyrics: |-
   Laasha-e-Abbas tanha reh gaya
-  Dekh kar darya tadapta reh gaya
+  Dekh kar darya tarapta reh gaya
 
   1
   Jab gira ghore se saqqa-e-haram
-  Qalb-e-Zehra ran mein rota reh gaya
+  Qalb-e-Zehra ran meiṅ rota reh gaya
 
   2
   Chhid gayi mashk-e-Sakina zulm se
@@ -28,7 +28,7 @@ romanLyrics: |-
 
   4
   Us taraf pyaasi Sakina reh gayi
-  Is taraf laasha tadapta reh gaya
+  Is taraf laasha tarapta reh gaya
 
   5
   Ro ke kehti thi chacha aa jaaiye
@@ -40,19 +40,19 @@ romanLyrics: |-
 
   7
   Wo nigehbaan-e-haram jab se gaya
-  Tab se aafat hi mein kunba reh gaya
+  Tab se aafat hi meiṅ kunba reh gaya
 
   8
   Chhin li Ghaazi ne yuṅ nehr-e-Furaat
   Hashr tak darya pe qabza reh gaya
 
   9
-  Lut gaye duniya mein kitne takht o taaj
+  Lut gaye duniya meiṅ kitne takht o taaj
   Bas aza khaana hi Sheh ka reh gaya
 
   10
   Parcham-e-Islaam aur Abbas ka
-  Har taraf duniya mein charcha reh gaya
+  Har taraf duniya meiṅ charcha reh gaya
 
   11
   Ro rahi hai aaj bhi mauj-e-Furaat

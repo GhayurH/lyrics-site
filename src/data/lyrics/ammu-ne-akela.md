@@ -35,9 +35,9 @@ romanLyrics: |-
   Ammu ne akela chhor diya
 
   4
-  Jab god mein Zainab ki baithi
+  Jab god meiṅ Zainab ki baithi
   Sajjad ke jab sine se lagi
-  Ik saans mein sau sau baar kaha
+  Ik saans meiṅ sau sau baar kaha
   Ammu ne akela chhor diya
 
   5
@@ -48,12 +48,12 @@ romanLyrics: |-
 
   6
   Shabbir ke ghar bhar ki pyaari
-  Zindaan-e-sitam mein jab pahunchi
+  Zindaan-e-sitam meiṅ jab pahunchi
   Jab dard utha muṅh se nikla
   Ammu ne akela chhor diya
 
   7
-  Zindaan-e-musibat mein Ishrat
+  Zindaan-e-musibat meiṅ Ishrat
   Bigri jo Sakina ki haalat
   Ye kehte hue dam tor diya
   Ammu ne akela chhor diya

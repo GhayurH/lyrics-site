@@ -1,6 +1,6 @@
 ---
 title: "زلزلوں میں دُنیا تھی آسمان لرزا تھا"
-alternateTitle: "Zalzaloṅ Mein Duniya"
+alternateTitle: "Zalzaloṅ Meiṅ Duniya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,7 +10,7 @@ tags: []
 aliases: ["Zalzalon May Dunya"]
 published: true
 romanLyrics: |-
-  Zalzaloṅ mein duniya thi aasmaan larza tha
+  Zalzaloṅ meiṅ duniya thi aasmaan larza tha
   Reg-e-garm sahra par Shah-e-Diṅ ka laasha tha
 
   1
@@ -19,22 +19,22 @@ romanLyrics: |-
 
   2
   Qatl ho gaye Abbas aas tuti pyaasoṅ ki
-  Mashk tukre tukre thi khun mein tar pharera tha
+  Mashk tukre tukre thi khun meiṅ tar pharera tha
 
   3
-  Har qadam pe thokar thi dil mein dard uthta tha
+  Har qadam pe thokar thi dil meiṅ dard uthta tha
   Shah ki naatawaani thi naujawaṅ ka laasha tha
 
   4
-  Kal lahu mein dubegi naujawaani Akbar ki
-  Maaṅ ki chashm-e-hasrat mein subh ka sannaata tha
+  Kal lahu meiṅ dubegi naujawaani Akbar ki
+  Maaṅ ki chashm-e-hasrat meiṅ subh ka sannaata tha
 
   5
-  Tashnalab wo mehmaaṅ the Karbala ke jangal mein
+  Tashnalab wo mehmaaṅ the Karbala ke jangal meiṅ
   Jin ke waaste paani khun se bhi mehnga tha
 
   6
-  Qalb fauj mein uthi inqilaab ki maujeiṅ
+  Qalb fauj meiṅ uthi inqilaab ki maujeiṅ
   Dasht-e-Shah par pyaasa shirkhwaar bachcha tha
 # source_id: nohayonline:e0f88f48c02f6d609776
 # source_url: https://www.nohayonline.com/details_content.php?id=715

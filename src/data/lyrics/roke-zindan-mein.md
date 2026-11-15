@@ -1,6 +1,6 @@
 ---
 title: "رو کے زنداں میں یہ کہتی تھی سکینہ بابا"
-alternateTitle: "Roke Zindan Mein"
+alternateTitle: "Roke Zindaṅ Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ro ke zindaaṅ mein ye kehti thi Sakina baaba
+  Ro ke zindaaṅ meiṅ ye kehti thi Sakina baaba
   Aap ke baad gawaara nahiṅ jina baaba
 
   1
@@ -36,18 +36,18 @@ romanLyrics: |-
 
   6
   Maujiza dekh ke hairaaṅ tha har ek baani-e-shar
-  Aap ka sar meri god mein jo aaya baaba
+  Aap ka sar meri god meiṅ jo aaya baaba
 
   7
   Aap ki beti pe us waqt qayaamat guzri
-  Us ko haakim ne kanizi mein jo maaṅga baaba
+  Us ko haakim ne kanizi meiṅ jo maaṅga baaba
 
   8
   Mere ammu se kaho aa ke chhuraaeṅ jaldi
   Mujhko kha jaayega zindaaṅ ka andhera baaba
 
   9
-  Aap aa jaaeṅ to zindaaṅ mein ujaala hoga
+  Aap aa jaaeṅ to zindaaṅ meiṅ ujaala hoga
   Mujh pe ehsaaṅ ye bara aap ka hoga baaba
 
   10

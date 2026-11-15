@@ -1,6 +1,6 @@
 ---
 title: "یوں حلق سے ناوک ٹکرایا"
-alternateTitle: "Yun Halq Se Nawak"
+alternateTitle: "Yuṅ Halq Se Nawak"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -13,7 +13,7 @@ romanLyrics: |-
   Yuṅ halq se naawak takraaya
   Beshir ko dunya maan gayi
   Haṅsta hi raha rone waala
-  Aakhir ko haṅsi mein jaan gayi
+  Aakhir ko haṅsi meiṅ jaan gayi
 
   1
   Kuch baap ki khushbu si paayi
@@ -23,7 +23,7 @@ romanLyrics: |-
 
   2
   Girte hue paani se puchho
-  Thi ruh-e-wafa mashkize mein
+  Thi ruh-e-wafa mashkize meiṅ
   Ik bund bhi jab baaqi na rahi
   Abbas tumhari jaan gayi
 
@@ -42,18 +42,18 @@ romanLyrics: |-
   5
   Aakhir ko seham kar darya ne
   Jaldi se bhara mashkize ko
-  Abbas ke bigde tewar ko
+  Abbas ke bigre tewar ko
   Jo mauj thi wo pehchaan gayi
 
   6
   Shabbir ke sajde ki azmat
-  Pasti mein malak ke haiṅ sajde
+  Pasti meiṅ malak ke haiṅ sajde
   Ab aage koi manzil hi nahiṅ
   Kaabe ki bulandi jaan gayi
 
   7
   Abbas-e-Ali ka parcham tha
-  Kis tarah se phaila aalam mein
+  Kis tarah se phaila aalam meiṅ
   Dushman ki nazar bhi aakhir ko
   Talwaar ka loha maan gayi
 

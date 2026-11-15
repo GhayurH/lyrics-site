@@ -22,7 +22,7 @@ romanLyrics: |-
 
   2
   Tujh se ummid aisi na thi
-  Main ne socha nahiṅ tha kabhi
+  Maiṅ ne socha nahiṅ tha kabhi
   Tere hote hue Karbala
   Mere bacche ka ghar lut gaya
 
@@ -45,14 +45,14 @@ romanLyrics: |-
   Mere bacche ka ghar lut gaya
 
   6
-  The Madine mein aaraam se
+  The Madine meiṅ aaraam se
   Karbala aa ke beghar hue
   Qaid khaana basaana para
   Mere bacche ka ghar lut gaya
 
   7
   Haye kaisi musibat hui
-  Tashnagi mein shahadat hui
+  Tashnagi meiṅ shahadat hui
   Bas ye kehti rahi Fatema
   Mere bacche ka ghar lut gaya
 

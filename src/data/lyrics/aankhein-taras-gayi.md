@@ -11,19 +11,19 @@ aliases: []
 published: true
 romanLyrics: |-
   Ali Akbar Ali Akbar
-  Sughra ne khat mein likha dil muztarib hai mera
+  Sughra ne khat meiṅ likha dil muztarib hai mera
   Reh reh ke chha raha hai aankhoṅ tale andhera
   Aankheṅ taras gayiṅ haiṅ Akbar ke dekhne ko
   Ali Akbar Ali Akbar, Ali Akbar Ali Akbar
 
   1
   Laila ke lab pe har dam rehta tha ek naala
-  Hota to us ke dam se ghar mein tha ek ujala
+  Hota to us ke dam se ghar meiṅ tha ek ujala
   Aankheṅ taras gayiṅ haiṅ Akbar ke dekhne ko
 
   2
-  At jaeṅge wo gesu sab khaak mein lahu mein
-  Ye din bhi dekhna thay sehre ki aarzu mein
+  At jaeṅge wo gesu sab khaak meiṅ lahu meiṅ
+  Ye din bhi dekhna the sehre ki aarzu meiṅ
   Aankheṅ taras gayiṅ haiṅ Akbar ke dekhne ko
 
   3
@@ -32,8 +32,8 @@ romanLyrics: |-
   Aankheṅ taras gayiṅ haiṅ Akbar ke dekhne ko
 
   4
-  Sunte haiṅ uska chehra sab khuṅ mein bhar gaya tha
-  Kehte haiṅ uske sar mein neza utar gaya tha
+  Sunte haiṅ uska chehra sab khuṅ meiṅ bhar gaya tha
+  Kehte haiṅ uske sar meiṅ neza utar gaya tha
   Aankheṅ taras gayiṅ haiṅ Akbar ke dekhne ko
 
   5
@@ -42,7 +42,7 @@ romanLyrics: |-
   Aankheṅ taras gayiṅ haiṅ Akbar ke dekhne ko
 
   6
-  Khurshid sa wo chehra rangat mein tha sunehra
+  Khurshid sa wo chehra rangat meiṅ tha sunehra
   Palkoṅ ki chilmanoṅ par tha abru ka pehra
   Aankheṅ taras gayiṅ haiṅ Akbar ke dekhne ko
 # source_id: nohayonline:bda6dc20a37a45294a90

@@ -39,19 +39,19 @@ romanLyrics: |-
   5
   Pit ke sar koi ro raha hai
   Koi baaba ka muṅh chumta hai
-  Gham mein duba hai saara gharaana
+  Gham meiṅ duba hai saara gharaana
   Betiyaaṅ ro rahi haiṅ Ali ki
 
   6
   Saara Kufa hi nauha-kunaaṅ hai
-  Ghar mein Zehra ke maatam bapa hai
+  Ghar meiṅ Zehra ke maatam bapa hai
   Uth raha hai Ali ka janaaza
   Betiyaaṅ ro rahi haiṅ Ali ki
 
   7
   Le ke ghar se chale jab janaaza
   Ye dua lab pe Ghaazi ke aayi
-  Jite ji main na dekhuṅ dubaara
+  Jite ji maiṅ na dekhuṅ dubaara
   Betiyaaṅ ro rahi haiṅ Ali ki
 
   8

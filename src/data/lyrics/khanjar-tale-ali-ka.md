@@ -22,12 +22,12 @@ romanLyrics: |-
 
   2
   Paamaal dulha jab hua
-  Armaan khaak mein mila
-  Maqtal mein naushaah reh gaya
+  Armaan khaak meiṅ mila
+  Maqtal meiṅ naushaah reh gaya
   Pyaasa tarapta reh gaya
 
   3
-  Mashkiza ran mein chhid gaya
+  Mashkiza ran meiṅ chhid gaya
   Farq-e-jari bhi shaq hua
   Abbas pyaasa reh gaya
   Pyaasa tarapta reh gaya
@@ -41,12 +41,12 @@ romanLyrics: |-
   5
   Wo naujawaani ka safar
   Barchhi ka phal lakht-e-jigar
-  Dil mein andhera reh gaya
+  Dil meiṅ andhera reh gaya
   Pyaasa tarapta reh gaya
 
   6
-  Sajde mein sar hai pesh-e-Rab
-  Shukr-e-Khuda mein khole lab
+  Sajde meiṅ sar hai pesh-e-Rab
+  Shukr-e-Khuda meiṅ khole lab
   Khanjar bhi chalta reh gaya
   Pyaasa tarapta reh gaya
 

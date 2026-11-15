@@ -15,7 +15,7 @@ romanLyrics: |-
   Phir bhi hai laazim yaad dilaana
   Ho chuka hai faisla Husain Imam Husaina
   Sab ne yehi keh diya Husain Imam Husaina
-  Aisa zamaane mein koi aa nahiṅ sakta
+  Aisa zamaane meiṅ koi aa nahiṅ sakta
   Kaun hai wo baadshaah haaṅ mera Imam Husain
   Bol Imam Husain Imam Husain Imam Husain Imam
   Bol Imam Husain Imam Husain Imam Husain Imam
@@ -26,7 +26,7 @@ romanLyrics: |-
   1
   Paak Muhammad ka nawaasa mera Maula
   Haidar-e-Karraar ka beta mera Maula
-  Kitnoṅ ki dharkan mein dharakta mera Maula
+  Kitnoṅ ki dharkan meiṅ dharakta mera Maula
   Kitnoṅ ke ghar ka hai ujaala mera Maula
   Naaz-e-Ali Murtaza Husain Imam Husaina
   Jaan o dil-e-Fatema Husain Imam Husaina
@@ -61,7 +61,7 @@ romanLyrics: |-
   Ek ne nau laakh ke lashkar ko haraaya
   Kaam bara kar diya Husain Imam Husaina
   Marhaba sad marhaba Husain Imam Husaina
-  Khaak mein baatil ke iraadoṅ ko milaaya
+  Khaak meiṅ baatil ke iraadoṅ ko milaaya
   Kaun tha wo surma haaṅ mera Imam Husain
   Bol Imam Husain Imam Husain Imam Husain Imam
   Bol Imam Husain Imam Husain Imam Husaina

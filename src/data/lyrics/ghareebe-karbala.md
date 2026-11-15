@@ -17,7 +17,7 @@ romanLyrics: |-
   Ya zabih-e-Nainawa
 
   1
-  Dasht-e-bala mein aa ke ghera
+  Dasht-e-bala meiṅ aa ke ghera
   Mehmaan bula kar rukh apna phera
   Beaab kar ke tum ko sataaya
   Alqama ro kar karti thi girya
@@ -26,7 +26,7 @@ romanLyrics: |-
   Aada ne tujh pe hai zulm dhaaya
   Darya kinaare pehra lagaaya
   Ro ro ke kehti thi ye Sakina
-  Main bhi huṅ pyaasi tum bhi ho pyaasa
+  Maiṅ bhi huṅ pyaasi tum bhi ho pyaasa
 
   3
   Qasim o Akbar bhi gaye maara
@@ -42,7 +42,7 @@ romanLyrics: |-
 
   5
   Tir o tabar aur khanjar o naiza
-  Mein chhup gaya haaye wo pyaasa
+  Meiṅ chhup gaya haaye wo pyaasa
   Pusht-e-farsh pe mushkil hai rehna
   Asr ka mehshar aur sheh ka sajda
 

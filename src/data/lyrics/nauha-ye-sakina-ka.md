@@ -15,12 +15,12 @@ romanLyrics: |-
   Darya se palat aao chacha pyaas bujha do
 
   1
-  Murjhaaye hue honth haiṅ kaaṅte haiṅ zabaaṅ mein
+  Murjhaaye hue honth haiṅ kaaṅte haiṅ zabaaṅ meiṅ
   Hai halq mera sukha hua pyaas bujha do
 
   2
   Jo ran ko gaya jaise mujhe bhul gaya hai
-  Ik ek ko main deti huṅ sada pyaas bujha do
+  Ik ek ko maiṅ deti huṅ sada pyaas bujha do
 
   3
   Ae mere chacha mere chacha mere chacha jaan
@@ -31,15 +31,15 @@ romanLyrics: |-
   Sunne ko to har ek ne suna pyaas bujha do
 
   5
-  Main baithi huṅ darwaaze pe kab aao ge ammu
+  Maiṅ baithi huṅ darwaaze pe kab aao ge ammu
   Yuṅ do na yatimi ki saza pyaas bujha do
 
   6
   Faryaad pe meri koi deta nahiṅ aawaaz
-  Kab tak main karuṅ aah o buka pyaas bujha do
+  Kab tak maiṅ karuṅ aah o buka pyaas bujha do
 
   7
-  Main tum se khafa thi na khafa huṅ na rahuṅ gi
+  Maiṅ tum se khafa thi na khafa huṅ na rahuṅ gi
   Bas itni tamanna hai chacha pyaas bujha do
 
   8
@@ -48,7 +48,7 @@ romanLyrics: |-
 
   9
   Ishrat ye pas-e-Shah thi Sakina ki sadaaeṅ
-  Paani mein hai dam atka hua pyaas bujha do
+  Paani meiṅ hai dam atka hua pyaas bujha do
 # source_id: nohayonline:6d4534a84424788106a2
 # source_url: https://www.nohayonline.com/details_content.php?id=1358
 # raw_sha256: 782a51feb58cffdea15da59f101b708daa25c7c7fcae50ff87643231fe31bc18

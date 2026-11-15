@@ -10,7 +10,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Aag sine mein lagaata raha behta paani
+  Aag sine meiṅ lagaata raha behta paani
   Baad-e-aashur asiroṅ ne jo dekha paani
 
   1
@@ -23,7 +23,7 @@ romanLyrics: |-
 
   3
   Waada Asghar se nibhaate hue dam tor gayi
-  Saaye mein aayi na maaṅ ne piya thanda paani
+  Saaye meiṅ aayi na maaṅ ne piya thanda paani
 
   4
   Turbat-e-saani-e-Zehra ki mujaawar ban kar

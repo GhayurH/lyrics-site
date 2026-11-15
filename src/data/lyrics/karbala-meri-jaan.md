@@ -40,14 +40,14 @@ romanLyrics: |-
   Murtaza ne ye kaha Karbobala meri jaan
   Fatema ne kaha Karbobala meri jaan
   Mujtaba ne ye kaha Karbobala meri jaan
-  Kehne waaloṅ ki isi saf mein khara Kaaba hai
+  Kehne waaloṅ ki isi saf meiṅ khara Kaaba hai
 
   4
   Chaudah sadiyoṅ se shahidoṅ ki aza jaari hai
-  Hum azadaaroṅ ki rag rag mein azadaari hai
+  Hum azadaaroṅ ki rag rag meiṅ azadaari hai
   Har ghari Karbobala jaane ki tayyaari hai
   Hum ne jaan apni ziyaarat ke liye waari hai
-  Dil isi baat mein din raat laga rehta hai
+  Dil isi baat meiṅ din raat laga rehta hai
 
   Hai meri shaan Karbala
   Hai meri jaan Karbala
@@ -56,17 +56,17 @@ romanLyrics: |-
 
   5
   Karbala dur hai gar jaa nahiṅ paate hai hum
-  Karbala apne ilaqe mein banaate haiṅ hum
+  Karbala apne ilaqe meiṅ banaate haiṅ hum
   Aur pyaasoṅ pe wahaaṅ khun bahaate haiṅ
   Noha parh parh ke zamaane ko bataate haiṅ hum
   Karbala aur azadaaroṅ ka ye rishta hai
 
   6
-  Khun is khaak mein kamsin Ali Asghar ka mila
-  Khun is khaak mein Qaasim se gul-e-tar ka mila
-  Khun is khaak mein hamshakl-e-Payambar ka mila
-  Khun is khaak mein Abbaas ka Sarwar ka mila
-  Bas isi khaak mein mil jaane ko dil karta hai
+  Khun is khaak meiṅ kamsin Ali Asghar ka mila
+  Khun is khaak meiṅ Qaasim se gul-e-tar ka mila
+  Khun is khaak meiṅ hamshakl-e-Payambar ka mila
+  Khun is khaak meiṅ Abbaas ka Sarwar ka mila
+  Bas isi khaak meiṅ mil jaane ko dil karta hai
 
   Hai meri shaan Karbala
   Hai meri jaan Karbala
@@ -76,7 +76,7 @@ romanLyrics: |-
   7
   Har azadaar ke dil ki ye sada hai Waaiz
   Jo bhi ghamkhwaar hai sab ki ye dua hai Waaiz
-  Yehi armaan har ek dil mein basa hai Waaiz
+  Yehi armaan har ek dil meiṅ basa hai Waaiz
   Sab ki hasrat safar-e-Karbobala hai Waaiz
   Dil ke andar bhi azadaaroṅ ne likh rakha hai
 # source_id: nohayonline:074b66344983ea04290a

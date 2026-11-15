@@ -11,12 +11,12 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Chhor ke turbat ghar mein aaja
-  God mein kar aaraam Asghar
+  Chhor ke turbat ghar meiṅ aaja
+  God meiṅ kar aaraam Asghar
   Mere Asghar aa gayi shaam
 
   Bano dukhiya karti hai nauha
-  Khaime mein hai kohraam Asghar
+  Khaime meiṅ hai kohraam Asghar
   Mere Asghar aa gayi shaam
 
   1
@@ -28,7 +28,7 @@ romanLyrics: |-
   2
   Mat bhulo ulfat ke qarine
   Ghutniyoṅ chalte aao Madine
-  Khat mein likh kar bheja hai tum ko
+  Khat meiṅ likh kar bheja hai tum ko
   Sughra ne paighaam Asghar
 
   3
@@ -45,8 +45,8 @@ romanLyrics: |-
 
   5
   Mahir hai Bano ke naale
-  God mein meri kiuṅ nahiṅ aate
-  Raat ke sannaate mein tum ko
+  God meiṅ meri kiuṅ nahiṅ aate
+  Raat ke sannaate meiṅ tum ko
   Kaise mila aaraam Asghar
 # source_id: nohayonline:08e2d0840179bd88c1d0
 # source_url: https://www.nohayonline.com/details_content.php?id=1217

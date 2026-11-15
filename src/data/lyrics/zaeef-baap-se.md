@@ -15,12 +15,12 @@ romanLyrics: |-
 
   1
   Tarap ke kehti hai yeh ruh-e-Faatima Zehra
-  Bala ke dasht mein mera Husain hai tanha
-  Dayaar-e-ghair mein us ka nahiṅ koi apna
+  Bala ke dasht meiṅ mera Husain hai tanha
+  Dayaar-e-ghair meiṅ us ka nahiṅ koi apna
   Ajib waqt-e-musibat hai ya Ali madadi
 
   2
-  Andhera aankhoṅ mein hai aur kamar khamida hai
+  Andhera aankhoṅ meiṅ hai aur kamar khamida hai
   Karega kaun madad bhaai aur na beta hai
   Nabi ka nur-e-nazar kis qadar akela hai
   Lahu rulaati hai mere pisar ko tanhaai
@@ -29,17 +29,17 @@ romanLyrics: |-
   Pukaari khaime ke dar se yeh Zainab-e-dilgir
   Nidhaal gham se baraadar hai haaye re taqdir
   Ilaahi kaise sambhaaleṅge apna dil Shabbir
-  Pisar ke gham mein na ruk jaaye dharkaneṅ dil ki
+  Pisar ke gham meiṅ na ruk jaaye dharkaneṅ dil ki
 
   4
   Zamin-e-garm pe hai laasha-e-shabih-e-Rasul
   Badan ke zakhm mehakte haiṅ jaise khuld ke phul
   Hujum-e-hasrat o armaan hai aur jaan-e-Batul
-  Hai larza haathoṅ mein Sarwar ke lab pe naad-e-Ali
+  Hai larza haathoṅ meiṅ Sarwar ke lab pe naad-e-Ali
 
   5
   Kinaare nahr pe sote haiṅ Hazrat-e-Abbaas
-  Adu ke narghe mein bekas Husain haiṅ beaas
+  Adu ke narghe meiṅ bekas Husain haiṅ beaas
   Hai saath saath faqat benawaai ka ehsaas
   Jawaaṅ ki laash pe kehti hai shah ki tashna labi
 
@@ -47,7 +47,7 @@ romanLyrics: |-
   Lahu na kaise ho Mohsin yeh baap ka dil hai
   Yeh imtihaan-e-mohabbat ki sakht manzil hai
   Jawaan laash akele uthaaye mushkil hai
-  Sitam ki dhup mein tanha khare haiṅ Sibt-e-Nabi
+  Sitam ki dhup meiṅ tanha khare haiṅ Sibt-e-Nabi
 # source_id: nohayonline:ed43177f79e4f0c93b38
 # source_url: https://www.nohayonline.com/details_content.php?id=3041
 # raw_sha256: 8992aa17e20b4b02594389b4cba93a57f8aa33fb40a754e35c2bd92db9e17a4e

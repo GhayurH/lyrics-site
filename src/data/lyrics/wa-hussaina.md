@@ -17,7 +17,7 @@ romanLyrics: |-
   Wa Husaina wa Husaina
 
   1
-  Aaṅkh ho gham mein ye purnam
+  Aaṅkh ho gham meiṅ ye purnam
   Dam bhi nikle to nahiṅ gham
   Ye ibaadat se nahiṅ kam
 
@@ -27,7 +27,7 @@ romanLyrics: |-
   Kaise hoga kabhi ye kam
 
   3
-  Gham mein dube haiṅ Payambar
+  Gham meiṅ dube haiṅ Payambar
   Rote haiṅ Haidar-e-Safdar
   Berida hote haiṅ mehram
 
@@ -54,7 +54,7 @@ romanLyrics: |-
   8
   Dekho roti hai Sakina
   Jaan khoti hai Sakina
-  Qaid mein niklega kya dam
+  Qaid meiṅ niklega kya dam
 
   9
   Kaise ji paauṅgi baba
@@ -64,7 +64,7 @@ romanLyrics: |-
   10
   Reh gayi Fatema Sughra
   Kehti hai Fatema Zehra
-  Dil ki dharkan mein hai har dam
+  Dil ki dharkan meiṅ hai har dam
 # source_id: nohayonline:184dc7031f7d538ec452
 # source_url: https://www.nohayonline.com/details_content.php?id=789
 # raw_sha256: 95c909ae798018c227fd17afa6ca6b79d576320dfbd5b29b80a6dfc8125bbed2

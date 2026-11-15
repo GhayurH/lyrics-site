@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Waada-e-tifli na Shabbir ka pura hota
-  Khaiz guzri na bari ran mein Alamdar ki baar
+  Khaiz guzri na bari ran meiṅ Alamdar ki baar
 
   2
   Hujjat-e-Haq se bhi jab baat na maani jaaye
@@ -35,7 +35,7 @@ romanLyrics: |-
   Yaad aa jaati hai jab Shaam ke baazaar ki baat
 
   6
-  Nange sar ahl-e-haram haath mein uṅtoṅ ki mahaar
+  Nange sar ahl-e-haram haath meiṅ uṅtoṅ ki mahaar
   Puchhta kaun bhala Aabid-e-bimaar ki baat
 
   7

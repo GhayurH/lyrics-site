@@ -19,7 +19,7 @@ romanLyrics: |-
   Ye sibt-e-Payambar ka maatam hai azaadaaroṅ
 
   2
-  Paamaal hua ran mein jo ghoroṅ ki taapoṅ se
+  Paamaal hua ran meiṅ jo ghoroṅ ki taapoṅ se
   Us dilbar-e-Shabbar ka maatam hai azaadaaroṅ
 
   3
@@ -39,7 +39,7 @@ romanLyrics: |-
   Us laasha-e-besar ka maatam hai azaadaaroṅ
 
   7
-  Zindaan mein soti hai laadoṅ ki pali bachchi
+  Zindaan meiṅ soti hai laadoṅ ki pali bachchi
   Shabbir ki dukhtar ka maatam hai azaadaaroṅ
 
   8
@@ -47,7 +47,7 @@ romanLyrics: |-
   Zainab ke khule sar ka maatam hai azaadaaroṅ
 
   9
-  Roti hai Farid ab tak Zehra jise maqtal mein
+  Roti hai Farid ab tak Zehra jise maqtal meiṅ
   Us kushta-e-khanjar ka maatam hai azaadaaroṅ
 # source_id: nohayonline:81f60224f6e075d29e7f
 # source_url: https://www.nohayonline.com/details_content.php?id=2946

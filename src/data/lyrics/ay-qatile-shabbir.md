@@ -22,23 +22,23 @@ romanLyrics: |-
   Shah rag nahiṅ tu zikr-e-Khuda kaat raha hai
 
   2
-  Raahoṅ mein kisi shakhs ne Sajjad se puchha
+  Raahoṅ meiṅ kisi shakhs ne Sajjad se puchha
   Kya jurm hai kiuṅ sakht saza kaat raha hai
 
   3
-  Kaanoṅ mein Sakina ke hai ret ke zarre
+  Kaanoṅ meiṅ Sakina ke hai ret ke zarre
   Har zarra hi kaante ki tarha kaat raha hai
 
   4
-  Naize ki ani chaadar-e-Zainab mein ari hai
+  Naize ki ani chaadar-e-Zainab meiṅ ari hai
   Naiza sar-e-Zainab ki rida kaat raha hai
 
   5
-  Gardan mein muhaari ke para tauq hai bhaari
+  Gardan meiṅ muhaari ke para tauq hai bhaari
   Aur paaoṅ ko beri ka kara kaat raha hai
 
   6
-  Tauqeer dua aamad-e-Mahdi ki kiya kar
+  Tauqir dua aamad-e-Mahdi ki kiya kar
   Ye waqt kathan Maula bara kaat raha hai
 # source_id: nohayonline:97c0e90112e4f4105e41
 # source_url: https://www.nohayonline.com/details_content.php?id=2926

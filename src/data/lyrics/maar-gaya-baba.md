@@ -18,27 +18,27 @@ romanLyrics: |-
   Ghore se girna maar gaya
 
   1
-  Jab khaime mein aaye Shaah-e-Umam
-  Haathoṅ mein tha bas Ghaazi ka alam
+  Jab khaime meiṅ aaye Shaah-e-Umam
+  Haathoṅ meiṅ tha bas Ghaazi ka alam
   Abbas nahiṅ ab aayega
   Bhai ka ye kehna maar gaya
 
   2
-  Main sher ke jaise bhai ka
+  Maiṅ sher ke jaise bhai ka
   Pehchaan nahiṅ paayi laasha
   Qasim ki tarah se Ghaazi ka
-  Tukroṅ mein bikharna maar gaya
+  Tukroṅ meiṅ bikharna maar gaya
 
   3
   Jab aaṅkh se tir nikaala tha
-  Main dekh rahi thi khaime se
+  Maiṅ dekh rahi thi khaime se
   Mere Ghaazi ka khuṅ Sarwar ke
   Haathoṅ se tapakna maar gaya
 
   4
   Ye Shaam ke zaalim to apne
   Ghoroṅ ko pilaate haiṅ paani
-  Haathoṅ mein liye khaali kuze
+  Haathoṅ meiṅ liye khaali kuze
   Bachchoṅ ka bilakna maar gaya
 
   5
@@ -48,7 +48,7 @@ romanLyrics: |-
   Asghar ka samajhna maar gaya
 
   6
-  Zaalim ne charhaaya tha ran mein
+  Zaalim ne charhaaya tha ran meiṅ
   Jis naize par Abbas ka sar
   Us naize se Baba meri
   Chaadar ka utarna maar gaya
@@ -57,10 +57,10 @@ romanLyrics: |-
   Rahwaar pe ho kar bhi jis ke
   Khar paaoṅ zamiṅ par kheṅchte the
   Us bhai ka Asghar jaisi
-  Turbat mein simatna maar gaya
+  Turbat meiṅ simatna maar gaya
 
   8
-  Maqtal mein bahut dhundha us ne
+  Maqtal meiṅ bahut dhundha us ne
   Laasha na mila do haath mile
   Un haathoṅ se meri bachchi ka
   Ro ro ke lipatna maar gaya

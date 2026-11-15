@@ -14,10 +14,10 @@ recitationId: "hai-shah-e-khurasaan-ka-roza-mere-aagay-lyrics-2015"
 published: true
 romanLyrics: |-
   Hai Shah-e-Khurasaaṅ ka rauza mere aage
-  Main pichhe huṅ sajde mein hai Kaaba mere aage
+  Maiṅ pichhe huṅ sajde meiṅ hai Kaaba mere aage
 
   1
-  Main naam-e-Raza le ke nikalta huṅ jo ghar se
+  Maiṅ naam-e-Raza le ke nikalta huṅ jo ghar se
   Khud maut diya karti hai pehra mere aage
 
   2
@@ -26,10 +26,10 @@ romanLyrics: |-
 
   3
   Musa ne jise dekh sake Tur pe jaa kar
-  Hai Tus ki waadi mein wo jalwa mere aage
+  Hai Tus ki waadi meiṅ wo jalwa mere aage
 
   4
-  Mashhad mein bas is haath ko phailaaya tha ik baar
+  Mashhad meiṅ bas is haath ko phailaaya tha ik baar
   Phailaata hai ab haath zamaana mere aage
 
   5
@@ -37,15 +37,15 @@ romanLyrics: |-
   Quraan se barh kar tera kehna mere aage
 
   6
-  Jab sehn-e-shifa mein main shifa maaṅg raha tha
-  Kaasa liye haathoṅ mein the Isa mere aage
+  Jab sehn-e-shifa meiṅ maiṅ shifa maaṅg raha tha
+  Kaasa liye haathoṅ meiṅ the Isa mere aage
 
   7
   Tauhid ka sajda ho ke taazim ka sajda
   Dono ki kabhi rad nahiṅ karna mere aage
 
   8
-  Barh jaauṅ ga aage main bahut hadd-e-adab se
+  Barh jaauṅ ga aage maiṅ bahut hadd-e-adab se
   Maamun ka tum zikr na karna mere aage
 
   9

@@ -1,6 +1,6 @@
 ---
 title: "الوداع خیرالوریٰ میں جا رہا ہوں کربلا"
-alternateTitle: "Alwida Main Ja Raha"
+alternateTitle: "Alwida Maiṅ Ja Raha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,33 +11,33 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Alwida khairul wara main jaa raha huṅ Karbala
-  Tujh se ab hone juda main jaa raha huṅ Karbala
+  Alwida khairul wara maiṅ jaa raha huṅ Karbala
+  Tujh se ab hone juda maiṅ jaa raha huṅ Karbala
 
   1
   Martaba mera zamaane ko dikhaaya aap ne
   Meri khaatir ya Nabi sajda barhaaya aap ne
-  Sehne ab jaur o jafa main jaa raha huṅ Karbala
+  Sehne ab jaur o jafa maiṅ jaa raha huṅ Karbala
 
   2
   Turbat-e-Zehra pe aa ke Shaah-e-Karbala ne kaha
   Chhor kar ab qabr teri din pe hone fida
-  Maaṅ meri khairunnisa main jaa raha huṅ Karbala
+  Maaṅ meri khairunnisa maiṅ jaa raha huṅ Karbala
 
   3
   Waqt-e-rukhsat aap se hai bas yehi kehna mujhe
   Saaya ban kar Fatima Sughra pe rehna hai tujhe
-  Mere bhaiya Mujtaba main jaa raha huṅ Karbala
+  Mere bhaiya Mujtaba maiṅ jaa raha huṅ Karbala
 
   4
   Khun se apne charaagh-e-din jalaana hai mujhe
   Farsh ko arsh-e-mualla se milaana hai mujhe
-  Farz ye karne ada main jaa raha huṅ Karbala
+  Farz ye karne ada maiṅ jaa raha huṅ Karbala
 
   5
-  Waaṅ Zameer insaanoṅ ki yehi banegi darsgaah
+  Waaṅ Zamir insaanoṅ ki yehi banegi darsgaah
   Ye bataaye gi jahaṅ ko ret par sajda mera
-  Keh raha huṅ barmala main jaa raha huṅ Karbala
+  Keh raha huṅ barmala maiṅ jaa raha huṅ Karbala
 # source_id: nohayonline:2ac135097e6175e18619
 # source_url: https://www.nohayonline.com/details_content.php?id=1499
 # raw_sha256: 2f8ab4d77ab4399208c6a12e521fdce16c8bf4b8131016c22f9adb2b5d891802

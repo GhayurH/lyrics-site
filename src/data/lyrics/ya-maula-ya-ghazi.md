@@ -18,14 +18,14 @@ romanLyrics: |-
   1
   Darya ke kanare so gaya
   Dhunda to kahaaṅ wo kho gaya
-  Ik shor hai Aal-e-Zehra mein
+  Ik shor hai Aal-e-Zehra meiṅ
   Aashur ko ye kya ho gaya
   Shabbir ke ghamkhwar
   Dukhiyaroṅ ke madadgar
 
   2
   Rota hai falak hilti hai zamiṅ
-  Amma ko lahad mein chain nahiṅ
+  Amma ko lahad meiṅ chain nahiṅ
   Ye asr qayamat waala hai
   Hai sina-e-Shah pe Shimr laiṅ
   Lutne ko hai sarkar aajao bas ek baar
@@ -47,17 +47,17 @@ romanLyrics: |-
   Manzil hai ye dushwaar
 
   5
-  Sab sote haiṅ ran mein ho ke juda
+  Sab sote haiṅ ran meiṅ ho ke juda
   Ab koi nahiṅ Aabid ke siwa
   Majbur samajh kar pyaase ko
   Dete haiṅ aziyat ahl-e-jafa
   Hai nargha-e-aghyaar
-  Mushkil mein hai bimaar
+  Mushkil meiṅ hai bimaar
 
   6
   Kis tarah sambhaale dil-e-maadar
   Phir tukre hua jaata hai jigar
-  Hai shor sipaah-e-baatil mein
+  Hai shor sipaah-e-baatil meiṅ
   Dhundo hai kahaaṅ qabr-e-Asghar
   Phir naize hai tayyaar
   Achchhe nahiṅ aasaar

@@ -12,7 +12,7 @@ aliases: ["Ay Shame Ghariban"]
 published: true
 romanLyrics: |-
   Ae shaam-e-gharibaaṅ mujhe kuch haal suna de
-  Kufe mein asiroṅ pe jo guzri hai bata de
+  Kufe meiṅ asiroṅ pe jo guzri hai bata de
 
   1
   Aa mujh ko bata kya hua darya ke kinaare
@@ -29,20 +29,20 @@ romanLyrics: |-
   3
   Beshir ke jab tir laga tha to hua kya
   Wo sher jo darya pe gaya tha to hua kya
-  Maqtal mein andhera jo hua tha to hua kya
+  Maqtal meiṅ andhera jo hua tha to hua kya
   Jab khaima asiroṅ ka jala tha to hua kya
 
   4
-  Kya haal hua baad mein Shabbir ke ghar ka
+  Kya haal hua baad meiṅ Shabbir ke ghar ka
   Kuch haal bata mujh ko asiroṅ ke safar ka
   Kaisa tha ujaala Bani Haashim ke qamar ka
   Kya haal tha us waqt shahaadat ke asar ka
 
   5
   Abid pe Uruj aisi musibat ki ghari thi
-  Bimaar the aur paaoṅ mein zanjir pari thi
-  Har chand ke mushkil thi magar baat badi thi
-  Kis tarah se tay ki gayi manzil jo kari thi
+  Bimaar the aur paaoṅ meiṅ zanjir pari thi
+  Har chand ke mushkil thi magar baat bari thi
+  Kis tarah se te ki gayi manzil jo kari thi
 # source_id: nohayonline:708ab8cf8c1df61c226e
 # source_url: https://www.nohayonline.com/details_content.php?id=56
 # raw_sha256: 38ec7f8a5f424070391a39d07fd39ffbf0053212b3428fbf40051cc1dbcaaa0a

@@ -18,8 +18,8 @@ romanLyrics: |-
   Ab gala mera hai aur qaatil ka khanjar alwida
 
   2
-  Raat bhar ka ae behan dunya meiṅ main mehmaan huṅ
-  Subh hote qatl hoṅga main muqarrar alwida
+  Raat bhar ka ae behan dunya meiṅ maiṅ mehmaan huṅ
+  Subh hote qatl hoṅga maiṅ muqarrar alwida
 
   3
   Sabr karna ae behan hargiz na karna baddua

@@ -1,6 +1,6 @@
 ---
 title: "یہ ملا کربلا میں احمد کو رسالت کا صلہ"
-alternateTitle: "Dasht Mein Khun-e-Shaah-e-Ahmad"
+alternateTitle: "Dasht Meiṅ Khun-e-Shaah-e-Ahmad"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,9 +10,9 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ye mila Karbala mein Ahmad ko risaalat ka sila
+  Ye mila Karbala meiṅ Ahmad ko risaalat ka sila
 
-  Dasht mein khun-e-Shaah-e-Ahmad bahaaya jaa raha hai
+  Dasht meiṅ khun-e-Shaah-e-Ahmad bahaaya jaa raha hai
   Yuṅ charaagh-e-Faatima Zehra bujhaaya jaa raha hai
 
   1
@@ -24,7 +24,7 @@ romanLyrics: |-
   Aur udhar tir-e-sitam se paani pilaaya jaa raha hai
 
   3
-  Thi qayaamat ki ghari maidaan mein Shabbir par
+  Thi qayaamat ki ghari maidaan meiṅ Shabbir par
   Naujawaaṅ bete ka laasha tanha uthaaya jaa raha hai
 
   4

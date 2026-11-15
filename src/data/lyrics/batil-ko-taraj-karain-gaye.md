@@ -22,7 +22,7 @@ romanLyrics: |-
   Ishq-e-Muhammad ke matwaalo
   Paakiza maaṅoṅ ke jaiyaalo
   Aazaadi ke jaam uchhaalo
-  Tufaanoṅ mein Ooab raha hai
+  Tufaanoṅ meiṅ Uab raha hai
   Takht-e-Saudi dub raha hai
 
   2
@@ -34,7 +34,7 @@ romanLyrics: |-
   Gare hue murde ukhreṅ ge
 
   3
-  Saath mein dast-e-burida ho ga
+  Saath meiṅ dast-e-burida ho ga
   Aashure ka badla ho ga
   Tegh-e-Ali ka jalwa ho ga
   Bas hamle pe hamla ho ga
@@ -76,10 +76,10 @@ romanLyrics: |-
   8
   Jalwa jalwa manzar manzar
   Nur ka saaya nur ki chaadar
-  Sehn-e-haram mein ho ga mimbar
+  Sehn-e-haram meiṅ ho ga mimbar
   Aur mimbar pe Waaris-e-Haider
   Sirf Saluni Ajra ho ga
-  Nehj-e-Ali mein khutba ho ga
+  Nehj-e-Ali meiṅ khutba ho ga
 
   9
   Parh ke qasida kar ke midhat

@@ -14,7 +14,7 @@ romanLyrics: |-
   Lipat ke baap se kehti thi saani-e-Zahra
   Mera jari na raha meri rida na rahi
 
-  Main ek roz mein aisi ujar gayi baba
+  Maiṅ ek roz meiṅ aisi ujar gayi baba
   Mera jari na raha meri rida na rahi
 
   1
@@ -25,9 +25,9 @@ romanLyrics: |-
 
   2
   Meri rida ka muhaafiz tha jab talak zinda
-  Main roz chain se soti thi ae mere baba
+  Maiṅ roz chain se soti thi ae mere baba
   Talaaya phirta tha khaimoṅ ka baawafa mera
-  Ye waqt dekh lo deti huṅ aaj main pehra
+  Ye waqt dekh lo deti huṅ aaj maiṅ pehra
 
   3
   Khuda se aap ne maaṅga tha jis dilaawar ko
@@ -36,14 +36,14 @@ romanLyrics: |-
   Para hai us ka taraai pe bekafan laasha
 
   4
-  Ye mujh ko yaad hai jab ghar se main nikalti thi
+  Ye mujh ko yaad hai jab ghar se maiṅ nikalti thi
   To ek fauj mere bhaaiyoṅ ki chalti thi
   Hawa bhi khauf se khud apna rukh badalti thi
   Nahiṅ hai ab wo nigehbaan meri mehmil ka
 
   5
-  Nahiṅ tha dam ye kisi mein nazar utha leta
-  Main jab nikalti thi baazaar band hota tha
+  Nahiṅ tha dam ye kisi meiṅ nazar utha leta
+  Maiṅ jab nikalti thi baazaar band hota tha
   Tha aisa rob mere sher mere Ghaazi ka
   Nahiṅ hai sar pe mere ab alam ka wo saaya
 
@@ -55,9 +55,9 @@ romanLyrics: |-
 
   7
   Ye keh ke der talak royi Zainab-e-Dilgir
-  Ae baba aap ke aane mein ho gayi taakhir
-  Lahu mein dub gaye sab ke sab jawaan o pir
-  Bas ek din mein bhara ghar ujar gaya mera
+  Ae baba aap ke aane meiṅ ho gayi taakhir
+  Lahu meiṅ dub gaye sab ke sab jawaan o pir
+  Bas ek din meiṅ bhara ghar ujar gaya mera
 
   8
   Jhuka ke sar ko bahut Sher-e-Kibriya roye

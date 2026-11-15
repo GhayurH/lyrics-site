@@ -16,14 +16,14 @@ romanLyrics: |-
 
   1
   Nabi zaadi ke baaloṅ ki safedi ye bataati hai
-  Bhare darbaar mein jaana kabhi bhuliṅ nahiṅ Zahra
+  Bhare darbaar meiṅ jaana kabhi bhuliṅ nahiṅ Zahra
 
   2
   Tamaanchoṅ ke nishaaṅ Shabbar na dekhe is liye apna
   Chhupaana laal se chehra kabhi bhuliṅ nahiṅ Zahra
 
   3
-  Rasan dekhi gale mein Murtaza ke haaye Bibi ne
+  Rasan dekhi gale meiṅ Murtaza ke haaye Bibi ne
   Ali par zulm aadaa ka kabhi bhuliṅ nahiṅ Zahra
 
   4
@@ -43,7 +43,7 @@ romanLyrics: |-
   Shah-e-mazlum ka jaana kabhi bhuliṅ nahiṅ Zahra
 
   8
-  Jise Izhaar ban mein kar diya paamaal aadaa ne
+  Jise Izhaar ban meiṅ kar diya paamaal aadaa ne
   Wo Shah ka bekafan laasha kabhi bhuliṅ nahiṅ Zahra
 # source_id: nohayonline:9418f95676dc661e127e
 # source_url: https://www.nohayonline.com/details_content.php?id=3283

@@ -31,7 +31,7 @@ romanLyrics: |-
   Zainab ne zer-e-lab jo kaha shaam ho gayi
 
   5
-  Maqtal mein hai ke arsh pe hai ae Khuda-e-kul
+  Maqtal meiṅ hai ke arsh pe hai ae Khuda-e-kul
   Is waqt tu kahaṅ hai bata shaam ho gayi
 
   6

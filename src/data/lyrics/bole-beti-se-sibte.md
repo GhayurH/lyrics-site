@@ -13,7 +13,7 @@ romanLyrics: |-
   Bole beti se Sibt-e-Payambar
   Baad mere na rona Sakina
   Zid na karna mujhe yaad karke
-  Maaṅ ki godi mein sona Sakina
+  Maaṅ ki godi meiṅ sona Sakina
 
   1
   Hum bahut dur jaaeṅge Bibi
@@ -30,11 +30,11 @@ romanLyrics: |-
   3
   Shimr koroṅ se dega aziyat
   Aur tamaachoṅ se hogi himaayat
-  Tum ko dega yatimi mein zehmat
+  Tum ko dega yatimi meiṅ zehmat
   Yaad apni na khona Sakina
 
   4
-  Meri furqat mein girya kare gar
+  Meri furqat meiṅ girya kare gar
   Ya unheṅ yaad aa jaaye Asghar
   Maaṅ ko rone na dena tu dilbar
   Muṅh pe muṅh rakh ke sona Sakina

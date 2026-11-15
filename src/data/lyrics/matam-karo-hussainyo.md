@@ -26,19 +26,19 @@ romanLyrics: |-
   Dam tor gayi jab suna bhaai ki qaza ka
 
   2
-  Kis jurm mein tukre hue Musa ke jigar ke
+  Kis jurm meiṅ tukre hue Musa ke jigar ke
   Kis se kare sawaal koi to jawaab de
   Doge jawaab aayega jab roz-e-jaza ka
 
   3
-  Karbal kabhi Kufa mein jaane kahaaṅ kahaaṅ
+  Karbal kabhi Kufa meiṅ jaane kahaaṅ kahaaṅ
   Ummat ne qatl kar diye the jo diṅ ke paasbaaṅ
   Kiya zaalimoṅ ne haaye na kuchh khauf-e-Khuda ka
 
   4
   Mujh sa hai bhala kaun muqaddar ka sikandar
   Mujhko banaaya Aal ka Khurshid nauhagar
-  Kis tarah karuṅ shukr main Panjetan ki ata ka
+  Kis tarah karuṅ shukr maiṅ Panjetan ki ata ka
 # source_id: nohayonline:e81c938ddda79dea09e4
 # source_url: https://www.nohayonline.com/details_content.php?id=3362
 # raw_sha256: a3d8321e8cdbddb91c4a9c22fb303a4b2023821ceb97953992f430faae838d7f

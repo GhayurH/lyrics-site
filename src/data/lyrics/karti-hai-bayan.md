@@ -31,7 +31,7 @@ romanLyrics: |-
   3
   Hamraah nahiṅ koi is dam
   Behaal hai gham se Shaah-e-umam
-  Aaṅkhoṅ mein andhera hai chhaaya
+  Aaṅkhoṅ meiṅ andhera hai chhaaya
   Ae laal Ali Akbar ho kahaaṅ
 
   4
@@ -41,7 +41,7 @@ romanLyrics: |-
   Ae laal Ali Akbar ho kahaaṅ
 
   5
-  Kurta bhi hai saara khun mein tar
+  Kurta bhi hai saara khun meiṅ tar
   Aur chhine gaye kaanoṅ se gauhar
   Dekho to behan ka haal zara
   Ae laal Ali Akbar ho kahaaṅ
@@ -55,12 +55,12 @@ romanLyrics: |-
   7
   Kin aaṅkhoṅ se dekhuṅ ye manzar
   Hai nok-e-sinaaṅ par tera sar
-  Be gor o kafan laasha hai para
+  Begor o kafan laasha hai para
   Ae laal Ali Akbar ho kahaaṅ
 
   8
-  Har lamha hai aazaaroṅ mein
-  Haiṅ ahl-e-haram baazaaroṅ mein
+  Har lamha hai aazaaroṅ meiṅ
+  Haiṅ ahl-e-haram baazaaroṅ meiṅ
   Hamdard koi baaqi na raha
   Ae laal Ali Akbar ho kahaaṅ
 

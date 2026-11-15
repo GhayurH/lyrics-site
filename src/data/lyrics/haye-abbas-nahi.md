@@ -11,14 +11,14 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Dasht-e-purkhaar mein Fizza ne kaha ye ro kar
+  Dasht-e-purkhaar meiṅ Fizza ne kaha ye ro kar
   Haye Abbas nahiṅ aaj Abbas nahiṅ
   Sar pe aulaad-e-Payambar ke nahiṅ hai chaadar
 
   1
   Pyaas maasum Sakina ki bujha do Abbas
   Qaafila jaata hai maqtal se dua de Abbas
-  Jalte khaimoṅ mein haram ki ye sada thi lab par
+  Jalte khaimoṅ meiṅ haram ki ye sada thi lab par
 
   2
   Jhirkiyaṅ Shimr ki sun kar wo kaha karti hai
@@ -28,7 +28,7 @@ romanLyrics: |-
   3
   Bain sun sun ke Sakina ke qaza roti hai
   Khaak uraati hai hawa Karbobala roti hai
-  Haath mein kuza liye baithi hai wo khaak basar
+  Haath meiṅ kuza liye baithi hai wo khaak basar
 
   4
   Hu ka aalam hai koi munis o ghamkhwaar nahiṅ
@@ -38,7 +38,7 @@ romanLyrics: |-
   5
   Shimr ne haye Sakina ko bhi sone na diya
   Bekafan laasha-e-Shabbir pe rone na diya
-  Dasht mein Aal-e-Muhammad hai sitam ki zad par
+  Dasht meiṅ Aal-e-Muhammad hai sitam ki zad par
 
   6
   Haye Zainab pe hai tanhaai andhere haiṅ yahaaṅ
@@ -47,7 +47,7 @@ romanLyrics: |-
 
   7
   Har sitam Aabid-e-muztar ko uthaana hoga
-  Aisa lagta hai darbaar mein jaana hoga
+  Aisa lagta hai darbaar meiṅ jaana hoga
   Kufa o Shaam se hona hai asiroṅ ka guzar
 
   8

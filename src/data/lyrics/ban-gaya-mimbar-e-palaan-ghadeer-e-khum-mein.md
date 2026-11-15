@@ -1,6 +1,6 @@
 ---
 title: "بن گیا منبرِ پالان غدیرِ خم میں"
-alternateTitle: "Ban Gaya Mimbar-e-Palaan Ghadeer-e-Khum Mein"
+alternateTitle: "Ban Gaya Mimbar-e-Palaan Ghadir-e-Khum Meiṅ"
 recitationId: "ghadeer-e-khum-main-mir-sajjad-mir"
 language: Urdu
 lang: ur
@@ -16,44 +16,44 @@ romanLyrics: |-
   Bughz-e-Ali lanatullah
 
   1
-  Ban gaya mimbar-e-palaan Ghadeer-e-Khum mein
-  Dab gaye Sheikh ke armaan Ghadeer-e-Khum mein
+  Ban gaya mimbar-e-palaan Ghadir-e-Khum meiṅ
+  Dab gaye Sheikh ke armaan Ghadir-e-Khum meiṅ
 
   2
   Ab koi hukm na aaye ga zamaane ke liye
-  Ho gaya aakhri aelaan Ghadeer-e-Khum mein
+  Ho gaya aakhri aelaan Ghadir-e-Khum meiṅ
 
   3
   Garam jhoṅkoṅ pe hawaaoṅ ke Abuzar haṅs kar
-  Parhte haiṅ Sura-e-Rehman Ghadeer-e-Khum mein
+  Parhte haiṅ Sura-e-Rehman Ghadir-e-Khum meiṅ
 
   4
   Parda-e-chashm se aaṅsu nikal aaye baahir
-  Is qadar khush hue Salman Ghadeer-e-Khum mein
+  Is qadar khush hue Salman Ghadir-e-Khum meiṅ
 
   5
   Un ko palaan mileṅ ge to kahiṅ jaayeṅ ge
-  Sheikh haiṅ be sar o saamaan Ghadeer-e-Khum mein
+  Sheikh haiṅ besar o saamaan Ghadir-e-Khum meiṅ
 
   6
   Haiṅ sar-e-mimbar-e-palaan Ali aur Nabi
-  Do nazar aate haiṅ Quraan Ghadeer-e-Khum mein
+  Do nazar aate haiṅ Quraan Ghadir-e-Khum meiṅ
 
   7
   Un ko dar lagta hai patthar na baras jaayeṅ kahiṅ
-  Yuṅ nahiṅ jaate Musalmaan Ghadeer-e-Khum mein
+  Yuṅ nahiṅ jaate Musalmaan Ghadir-e-Khum meiṅ
 
   8
   Kuchh to kam ho gaya ho ga ye sada di Rab ne
-  Abu Talib tera ehsaan Ghadeer-e-Khum mein
+  Abu Talib tera ehsaan Ghadir-e-Khum meiṅ
 
   9
   Ya Nabi maar duṅ patthar unheiṅ Qanbar bole
-  Phir nazar aa gaye Shaitaan Ghadeer-e-Khum mein
+  Phir nazar aa gaye Shaitaan Ghadir-e-Khum meiṅ
 
   10
   Mir Sajjad ureṅ Sheikh ki nindeṅ saari
-  Ho gaye khwaab pareshaan Ghadeer-e-Khum mein
+  Ho gaye khwaab pareshaan Ghadir-e-Khum meiṅ
 # source_id: tajpoints:8b29a0b2e2e3956df4fc
 # source_url: https://tajpoints.com/2025/06/ghadeer-e-khum-main-mir-sajjad-mir.html
 # raw_sha256: b5e2fe8e49add598280762d686d557aaa4a375ec8ca3c726ad8fd13751a362cb

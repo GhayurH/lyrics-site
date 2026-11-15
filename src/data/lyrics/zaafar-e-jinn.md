@@ -11,26 +11,26 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ghulaam-e-Faateh-e-Bir-ul-Alam main Zaafar huṅ
-  Qaum-e-jinnaat ka shaah-e-umam main Zaafar huṅ
-  Khaas mujh par hai Ali ka karam main Zaafar huṅ
+  Ghulaam-e-Faateh-e-Bir-ul-Alam maiṅ Zaafar huṅ
+  Qaum-e-jinnaat ka shaah-e-umam maiṅ Zaafar huṅ
+  Khaas mujh par hai Ali ka karam maiṅ Zaafar huṅ
   Aaj rota huṅ magar thaam kar apna jigar
-  Dasht mein maara gaya mere aaqa ka pisar
-  Hai ye afsos main maujud raha
+  Dasht meiṅ maara gaya mere aaqa ka pisar
+  Hai ye afsos maiṅ maujud raha
   Jaan Maula pe fida kar na saka
   Haae kuchh kar na saka
   Zaafar-e-jinn ana Zaafar-e-jinn
 
   1
-  Suno main tum ko bataata huṅ waaqia jo hua
+  Suno maiṅ tum ko bataata huṅ waaqia jo hua
   Roz-e-Aashur tha phaila hua tha raaj mera
   Wo mere jashn ka din tha saja tha taaj mera
   Do ghulaamoṅ ne mere aake kaha ae maalik
   Jis ke baaba ke sabab taaj mila ae maalik
   Qatl hota hai jo maalik hai tera ae maalik
-  Ho gaya hashr bapa taaj pairoṅ mein gira
-  Apne lashkar ko liye main chala Karb o Bala
-  Hai ye afsos main maujud raha
+  Ho gaya hashr bapa taaj pairoṅ meiṅ gira
+  Apne lashkar ko liye maiṅ chala Karb o Bala
+  Hai ye afsos maiṅ maujud raha
   Jaan Maula pe fida kar na saka
   Haae kuchh kar na saka
   Zaafar-e-jinn ana Zaafar-e-jinn
@@ -38,7 +38,7 @@ romanLyrics: |-
   2
   Meri parwaaz hui shahr-e-Musayyab pe tamaam
   Mujh ko taa hadd-e-nazar aaya nazar lashkar-e-Shaam
-  Main barha aage ke mil jaae mujhe mere Imaam
+  Maiṅ barha aage ke mil jaae mujhe mere Imaam
   Ruk gae mere qadam ruk gae mere qadam
   Jahaaṅ Shabbir ko insaanoṅ ne tanha dekha
   Meri aankhoṅ ne wahaaṅ laakhoṅ ka majma dekha
@@ -48,10 +48,10 @@ romanLyrics: |-
   Ek jaanib the Ali
   Ek jaanib the Hasan ibn-e-Ali
   Phir na aankhoṅ ko mere taab rahi
-  Main ne Zehra ki sawaari dekhi
+  Maiṅ ne Zehra ki sawaari dekhi
   Apni nazroṅ ko jhuka kar jo hataaya pichhe
   Nabi Aadam Nabi Musa Nabi Haarun dikhe
-  Isa o Yusuf o Yaaqub bhi pahlu mein mile
+  Isa o Yusuf o Yaaqub bhi pahlu meiṅ mile
   Hud aur Lut kahiṅ Nuh kahiṅ Khizr kahiṅ
   Zikriya Yarmiyaṅ aur Shis o Sulaimaan bhi the
   Mukhtasar ye ke Nabi saare wahaaṅ the maujud
@@ -60,62 +60,62 @@ romanLyrics: |-
   Israail Israafil Mikaail Dardaail
   Rizwaan aur Maalik Fitrus wa Jibraail
   Saath Shabbir ke maujud the sab aali maqaam
-  Main ne socha ke kahaaṅ jaae bhala adna ghulaam
+  Maiṅ ne socha ke kahaaṅ jaae bhala adna ghulaam
   Mujh ko pahchaan bhi paae ya nahiṅ mere Imaam
-  Haae ummid meri dil mein murjhaane lagi
+  Haae ummid meri dil meiṅ murjhaane lagi
   Ke achaanak se wahaaṅ ye sada aane lagi
   Aao Zaafar aao Zaafar
   Aao Zaafar tumheṅ Shabbir ne bulwaaya hai
   Zaafar-e-jinn ana Zaafar-e-jinn
 
   3
-  Pahuncha qadmoṅ mein kaha Maula shah-e-jinn o bashar
+  Pahuncha qadmoṅ meiṅ kaha Maula shah-e-jinn o bashar
   Ho salaam aap pe is jinn ka shah-e-jinn o bashar
   Hukm pe aap ke huṅ fidya shah-e-jinn o bashar
   Dil mera dub gaya jab ye Maula ne kaha
   Tum palat jaao agar hone aae ho fida
-  Hai ye afsos main maujud raha
+  Hai ye afsos maiṅ maujud raha
   Jaan Maula pe fida kar na saka
   Haae kuchh kar na saka
   Zaafar-e-jinn ana Zaafar-e-jinn
 
   4
-  Main ne Maula se kaha izn mujhe deṅ shah-e-diṅ
+  Maiṅ ne Maula se kaha izn mujhe deṅ shah-e-diṅ
   Bole Shabbir ye jinnaat ki hai jang nahiṅ
-  Main ye bola kahaaṅ insaan hai darinde sabhi
+  Maiṅ ye bola kahaaṅ insaan hai darinde sabhi
   Bole Shabbir ke naana ki ye ummat hai meri
   Inheṅ tum kuchh na kaho inheṅ tum kuchh na kaho
-  Tum hi batlaao jiuṅ kaise bhala main Zaafar
-  Aao dikhlaauṅ tumheṅ Karb o Bala main Zaafar
+  Tum hi batlaao jiuṅ kaise bhala maiṅ Zaafar
+  Aao dikhlaauṅ tumheṅ Karb o Bala maiṅ Zaafar
   Jaannisaaroṅ ke janaaze dekho
   Mere pyaaroṅ ke ye laashe dekho
   Tukre Qaasim ka saraapa dekho
   Zakhmi Akbar ka kaleja dekho
   Kahiṅ Abbaas ke baazu kahiṅ Asghar ka gulu
-  Ran mein bikhra hai sabhi Bani Haashim ka lahu
-  Hai ye afsos main maujud raha
+  Ran meiṅ bikhra hai sabhi Bani Haashim ka lahu
+  Hai ye afsos maiṅ maujud raha
   Jaan Maula pe fida kar na saka
   Haae kuchh kar na saka
   Zaafar-e-jinn ana Zaafar-e-jinn
 
   5
   Dil ko ab taab nahiṅ phatne laga hai ye jigar
-  Is se aage main bayaaṅ kar nahiṅ sakta manzar
+  Is se aage maiṅ bayaaṅ kar nahiṅ sakta manzar
   Mukhtasar ye ke hue qatl shah-e-jinn o bashar
-  Waada Aabid se kiya main huṅ masruf-e-aza
-  Jab talak zinda raha main karuṅ ga girya
-  Hai ye afsos main maujud raha
+  Waada Aabid se kiya maiṅ huṅ masruf-e-aza
+  Jab talak zinda raha maiṅ karuṅ ga girya
+  Hai ye afsos maiṅ maujud raha
   Jaan Maula pe fida kar na saka
   Haae kuchh kar na saka
   Zaafar-e-jinn ana Zaafar-e-jinn
 
   6
   Tha yahi Maisam o Salmaan kalaam-e-Zaafar
-  Karbala mein hai jahaaṅ dafn Imaam-e-Zaafar
+  Karbala meiṅ hai jahaaṅ dafn Imaam-e-Zaafar
   Us se kuchh dur hai maujud maqaam-e-Zaafar
   Zaafar-e-jinn ne kiya apne waade ko wafa
   Aakhri saaṅs talak thi laboṅ par ye sada
-  Hai ye afsos main maujud raha
+  Hai ye afsos maiṅ maujud raha
   Jaan Maula pe fida kar na saka
   Haae kuchh kar na saka
   Zaafar-e-jinn ana Zaafar-e-jinn

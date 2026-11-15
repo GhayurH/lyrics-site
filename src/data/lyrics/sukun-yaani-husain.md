@@ -15,7 +15,7 @@ romanLyrics: |-
   Sukun yaani Husain
 
   1
-  Makiṅ hue jo mere dil mein meharbaani Husain
+  Makiṅ hue jo mere dil meiṅ meharbaani Husain
   Jab aayi tisri Shaabaan muskuraane lage
   Ye aaṅsu jaante haiṅ teri qadrdaani Husain
   Tera bhi dost ho tere adu ka dost bhi ho
@@ -23,7 +23,7 @@ romanLyrics: |-
 
   2
   Hayaat, hilm, haqiqat, hadis, haq, hujjat
-  Haiṅ tere naam ki “he” mein ajab maani Husain
+  Haiṅ tere naam ki “he” meiṅ ajab maani Husain
   Bacha leṅ jaan meri Din-e-Mustafa ne kaha
   Ae shahzaadi Sakina ke baba jaani Husain
   Husain kehte haiṅ jhuk jhuk ke shukriya Zainab
@@ -33,14 +33,14 @@ romanLyrics: |-
   Haiṅ muntazir dar-e-ghaibat ko khol de maalik
   Hameṅ bhi tisri Shaabaan hai manaani Husain
   Ye dekh dekh ke chakkar ajal ko aate haiṅ
-  Kafan mein karta hai taqsim zindagaani Husain
+  Kafan meiṅ karta hai taqsim zindagaani Husain
   Baghair-e-laan tumhaare har ek qaatil par
   Gale se mere utarta nahiṅ hai paani Husain
 
   4
   Zara si der hai Shaabaan ki chaar charhne do
   Zamin ka rang hi kar deṅge aasmaani Husain
-  Unheṅ julusoṅ mein maaṅ baap le ke aate haiṅ
+  Unheṅ julusoṅ meiṅ maaṅ baap le ke aate haiṅ
   Tumhaare maanne waale haiṅ khaandaani Husain
   Wo chaahe Mir Takallum ho chaahe Mir Hasan
   Tumhaare naam hai donoṅ ki zindagaani Husain

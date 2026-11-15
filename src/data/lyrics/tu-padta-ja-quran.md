@@ -27,19 +27,19 @@ romanLyrics: |-
   Kufe waaloṅ ka dhyaan
 
   2
-  Hai dil mein mere bas ek chubhan
-  Main kaun huṅ koi jaan na le
+  Hai dil meiṅ mere bas ek chubhan
+  Maiṅ kaun huṅ koi jaan na le
   Baaloṅ se chhupaaye huṅ chehra
   Kahiṅ koi mujhe pehchaan na le
   Lekin ye hai Zehra ka kunba
   Koi karta hai aelaan
 
   3
-  Kis haal mein hai teri maaṅ jaai
+  Kis haal meiṅ hai teri maaṅ jaai
   Zara dekh to le mujhe naize se
   Meri pusht hai durroṅ se chhalni
   Mere shaanoṅ par hai nil pare
-  Kal tak main jahaaṅ shehzaadi thi
+  Kal tak maiṅ jahaaṅ shehzaadi thi
   Wahiṅ aaj hai meri ye shaan
 
   4
@@ -59,11 +59,11 @@ romanLyrics: |-
   Mujhe jaana hai zindaaṅ
 
   6
-  Ghaazi ka alam mere saath mein hai
-  Akbar ki azaaṅ mere saath mein hai
-  Hai Shaam-e-Gharibaaṅ aankhoṅ mein
-  Khaimoṅ ka dhuaaṅ mere saath mein hai
-  Pardes mein hum ko ummat ne
+  Ghaazi ka alam mere saath meiṅ hai
+  Akbar ki azaaṅ mere saath meiṅ hai
+  Hai Shaam-e-Gharibaaṅ aankhoṅ meiṅ
+  Khaimoṅ ka dhuaaṅ mere saath meiṅ hai
+  Pardes meiṅ hum ko ummat ne
   Kya khub rakha mehmaaṅ
 
   7
@@ -76,17 +76,17 @@ romanLyrics: |-
 
   8
   Aawaaz ka parda reh jaaye
-  Boluṅ gi Ali ke lehje mein
+  Boluṅ gi Ali ke lehje meiṅ
   Sab dekh le baateṅ karti hai
-  Zainab bhi Wali ke lehje mein
+  Zainab bhi Wali ke lehje meiṅ
   Mil jaaye ga teri tilaawat se
   Mere khutboṅ ko unwaaṅ
 
   9
   Sajjad ke dil se puchhe koi
   Hai kaisi qayaamat ki ye ghari
-  Haathoṅ mein hai jis ke hathkariyaṅ
-  Pairoṅ mein hai dohri beri pari
+  Haathoṅ meiṅ hai jis ke hathkariyaṅ
+  Pairoṅ meiṅ hai dohri beri pari
   Bimaar ne langar pehna hai
   Insaaf kare insaaṅ
 

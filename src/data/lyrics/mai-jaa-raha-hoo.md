@@ -16,37 +16,37 @@ romanLyrics: |-
 
   1
   Is din ka barsoṅ se tha intezaar
-  Main bhi ziyaarat ko tha beqaraar
-  Hai Arbaeen Shabbir ka main jaa raha huṅ Karbala
-  Paidal safar karta hua main jaa raha huṅ Karbala
+  Maiṅ bhi ziyaarat ko tha beqaraar
+  Hai Arbain Shabbir ka maiṅ jaa raha huṅ Karbala
+  Paidal safar karta hua maiṅ jaa raha huṅ Karbala
 
   2
   Do jannatoṅ ke darmiyaaṅ sajda karuṅ ye khwaab tha
   Jaa kar kaf-e-Abbas par nauha parhuṅ ye khwaab tha
-  Jo khwaab tha sachcha hua main jaa raha huṅ Karbala
+  Jo khwaab tha sachcha hua maiṅ jaa raha huṅ Karbala
 
   3
-  Us maqtal-e-Shabbir mein dena hai pursa khun ka
+  Us maqtal-e-Shabbir meiṅ dena hai pursa khun ka
   Karna hai us dehliz par sina zani ka haq ada
-  Maaṅguṅ Khuda se aur kya main jaa raha huṅ Karbala
+  Maaṅguṅ Khuda se aur kya maiṅ jaa raha huṅ Karbala
 
   4
   Haaji kahe zaair kahe mujh ko sabhi ahl-e-aza
-  Maula mujhe de ye sharaf karta tha main har dam dua
-  Mujh ko sharaf mil hi gaya main jaa raha huṅ Karbala
+  Maula mujhe de ye sharaf karta tha maiṅ har dam dua
+  Mujh ko sharaf mil hi gaya maiṅ jaa raha huṅ Karbala
 
   5
-  Haathoṅ mein ek le kar alam Abbas ka mahw-e-buka
+  Haathoṅ meiṅ ek le kar alam Abbas ka mahw-e-buka
   Jaauṅ Najaf se Karbala muddat se ye armaan tha
-  Armaan ye pura hua main jaa raha huṅ Karbala
+  Armaan ye pura hua maiṅ jaa raha huṅ Karbala
 
   6
   Sab maatami jite raheṅ aao kareṅ mil kar dua
   Maula ka ho ham pe karam Bibi ki ho ham par ata
-  Hoṅtoṅ pe ho bas ye sada main jaa raha huṅ Karbala
+  Hoṅtoṅ pe ho bas ye sada maiṅ jaa raha huṅ Karbala
 
   7
-  Har ek maqaam-e-shahaadat pe main
+  Har ek maqaam-e-shahaadat pe maiṅ
   Maatam karuṅ ga sar-e-Karbala
   Akbar ne khaayi jahaaṅ par sinaaṅ
   Paamaal Qasim jahaaṅ par hua
@@ -58,14 +58,14 @@ romanLyrics: |-
   Chhini gayi Bibiyoṅ ki rida
 
   9
-  Main us jagah kar ke aah o buka
+  Maiṅ us jagah kar ke aah o buka
   Majlis karuṅ ga bahr-e-aza
-  Main jaa raha huṅ Karbala
+  Maiṅ jaa raha huṅ Karbala
 
   10
   Wo Safdar o Mazhar ho ya zaair koi Shabbir ka
   Abbas de jis ko sada jaata wohi hai Karbala
-  Ghaazi ne di mujh ko sada main jaa raha huṅ Karbala
+  Ghaazi ne di mujh ko sada maiṅ jaa raha huṅ Karbala
 # source_id: nohayonline:d420d4f6772ac801095a
 # source_url: https://www.nohayonline.com/details_content.php?id=1412
 # raw_sha256: 56c2fa426bb2e32327efee5a2d99a090176513b4d71dd7ffc1730b653aa5ea0d

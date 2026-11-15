@@ -11,31 +11,31 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Uthaye huwe god mein sar pidar ka
+  Uthaye huwe god meiṅ sar pidar ka
   Sakina ye kehti thiṅ le kar balaaeṅ
-  Sunaati huṅ main qaid khaane ki baateṅ
+  Sunaati huṅ maiṅ qaid khaane ki baateṅ
   Mujhe aap maqtal ki baateṅ sunaaeṅ
 
   1
   Laboṅ pe chhari aap ke jab lagi thi
-  Main darbaar mein saamne hi khari thi
+  Maiṅ darbaar meiṅ saamne hi khari thi
   Lagaaye tamaaṅche mujhe jab shaqi ne
   Nazar aap ki meri jaanib uthi thi
   Ye sab nil chehroṅ ke shaahid haiṅ kaise
   Hameṅ Shaam waaloṅ ne di haiṅ sazaaeṅ
 
   2
-  Main naaqe pe thi aap neze pe Baba
+  Maiṅ naaqe pe thi aap neze pe Baba
   Mere paas se sar kabhi jo guzarta
-  Main naaqe se khud ko zamiṅ par giraati
+  Maiṅ naaqe se khud ko zamiṅ par giraati
   Laiṅ aa ke baaloṅ se mujh ko uthaata
   Mera kaun tha jis ko aawaaz deti
   Kise kehti zaalim se aa kar bachaaeṅ
 
   3
   Rasan ek thi aur baarah gale the
-  Yuṅ hum log baazaar mein chal rahe the
-  Main kamsin thi hamraah chalna tha mushkil
+  Yuṅ hum log baazaar meiṅ chal rahe the
+  Maiṅ kamsin thi hamraah chalna tha mushkil
   So ik mor par gir pari larkhara ke
   Bari mushkiloṅ se uthaaya phuphi ne
   Lainoṅ ki khwaahish thi bas raund jaaeṅ
@@ -43,25 +43,25 @@ romanLyrics: |-
   4
   Musalsal sitam kar rahe the sitamgar
   Bahut khush the wo kaat kar aap ka sar
-  Ajab aag thi Shaam waaloṅ ke dil mein
+  Ajab aag thi Shaam waaloṅ ke dil meiṅ
   Na thanda hua dil jo khanjar chala kar
   Sataaya hai yuṅ aap ko zaalimoṅ ne
   Wahiṅ sar rakha rakhi jis jaa ridaaeṅ
 
   5
-  Kahiṅ thi main qaidan kahiṅ thi yatima
-  Naye shehr mein naam mera naya tha
+  Kahiṅ thi maiṅ qaidan kahiṅ thi yatima
+  Naye shehr meiṅ naam mera naya tha
   Safar ne mujhe itne alqaab bakhshe
-  Ke main bhul baithi thi khud naam apna
-  Main ye saare dukh bhul jaauṅgi Baba
+  Ke maiṅ bhul baithi thi khud naam apna
+  Maiṅ ye saare dukh bhul jaauṅgi Baba
   Sakina jo ik baar keh kar bulaaeṅ
 
   6
-  Lahad mein ye Baba se boli wo Akbar
+  Lahad meiṅ ye Baba se boli wo Akbar
   Mujhe yaad hai Karbala ka wo manzar
-  Ke sine mein the tir paiwast har jaa
-  Main kis tarah souṅgi zakhmoṅ ke upar
-  Main kehti nahiṅ mujh ko sine lagaaeṅ
+  Ke sine meiṅ the tir paiwast har jaa
+  Maiṅ kis tarah souṅgi zakhmoṅ ke upar
+  Maiṅ kehti nahiṅ mujh ko sine lagaaeṅ
   Mujhe aaj bas khaak par hi sulaaeṅ
 # source_id: nohayonline:4c2e681b8d21c3e3eb6a
 # source_url: https://www.nohayonline.com/details_content.php?id=2079

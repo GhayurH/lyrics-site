@@ -12,12 +12,12 @@ aliases: []
 published: true
 romanLyrics: |-
   Wo dekho paani aa raha hai
-  Parcham hawa mein lehra raha hai
+  Parcham hawa meiṅ lehra raha hai
 
   1
   Dekho alam hai darya se aata
   Ab na rahega koi bhi pyaasa
-  Parcham hawa mein lehra raha hai
+  Parcham hawa meiṅ lehra raha hai
 
   2
   Boli Sakina nazdik aao
@@ -25,7 +25,7 @@ romanLyrics: |-
   Baaba chacha ko ghar laa raha hai
 
   3
-  Jo sab se chhota ghar mein hai bachcha
+  Jo sab se chhota ghar meiṅ hai bachcha
   Pehle usi ko paani milega
   Asghar hai pyaasa ghabra raha hai
 
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   5
   Ji bhar ke tum sab paani ko pina
-  Aakhir mein sab se baali Sakina
+  Aakhir meiṅ sab se baali Sakina
   Paani piyegi waada raha hai
 
   6
@@ -46,7 +46,7 @@ romanLyrics: |-
 
   7
   Naad-e-Ali ko mashk o alam par
-  Dam karti rehti thi main jo aksar
+  Dam karti rehti thi maiṅ jo aksar
   Us ka asar ab rang laa raha hai
 
   8

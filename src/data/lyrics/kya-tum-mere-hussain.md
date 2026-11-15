@@ -18,14 +18,14 @@ romanLyrics: |-
 
   1
   Haae haae mere gharib ka kya haal kar diya
-  Ghoroṅ se laasha dasht mein paamaal kar diya
+  Ghoroṅ se laasha dasht meiṅ paamaal kar diya
   Pehchaano kis tarah se badan se hai sar juda
   Kya tum mere Husain ho
 
   2
-  Pehchaan luṅ gi main tumheṅ aawaaz mujh ko do
+  Pehchaan luṅ gi maiṅ tumheṅ aawaaz mujh ko do
   Dam torte jo dekha hai karyal jawaan ko
-  Aankhoṅ mein ab behan ki ujaala nahiṅ raha
+  Aankhoṅ meiṅ ab behan ki ujaala nahiṅ raha
   Kya tum mere Husain ho
 
   3
@@ -49,11 +49,11 @@ romanLyrics: |-
   6
   Aahista se jawaab do hai saath us ki maaṅ
   Kya ab tumhaare paas hai maasum bezabaaṅ
-  Nanha sa laasha kis ka ye seene pe hai rakha
+  Nanha sa laasha kis ka ye sine pe hai rakha
   Kya tum mere Husain ho
 
   7
-  Dekho bandhi hai haathoṅ mein mere bhi rassiyaaṅ
+  Dekho bandhi hai haathoṅ meiṅ mere bhi rassiyaaṅ
   Ab aur lo behan ki na ghurbat ka imtihaaṅ
   Kuchh to jawaab do mujhe Sughra ka waasta
   Kya tum mere Husain ho
@@ -67,7 +67,7 @@ romanLyrics: |-
   9
   Zainab pukaari Mir Takallum basad malaal
   Kya marte waqt bhi mere parde ka tha khayaal
-  Hai mutthiyoṅ mein kis liye ye khaak-e-Karbala
+  Hai mutthiyoṅ meiṅ kis liye ye khaak-e-Karbala
   Kya tum mere Husain ho
 # source_id: nohayonline:a1f30d6019d4e1a022e9
 # source_url: https://www.nohayonline.com/details_content.php?id=1603

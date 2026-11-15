@@ -17,9 +17,9 @@ romanLyrics: |-
   Zaalim ko tars na aaya
 
   Haaṅ mera ujar gaya ghar baar
-  Haaṅ main tanha maatamdaar
-  Haaye main ujar gayi Nana
-  Haaye main ujar gayi
+  Haaṅ maiṅ tanha maatamdaar
+  Haaye maiṅ ujar gayi Nana
+  Haaye maiṅ ujar gayi
 
   Chali dil pe mere talwaar
   Ab maut ke haiṅ aasaar
@@ -27,9 +27,9 @@ romanLyrics: |-
   1
   Nana teri ummat ne mere
   Jine ke sahaare chhin liye
-  Is Karb o Bala ke jangal mein
+  Is Karb o Bala ke jangal meiṅ
   Aankhoṅ ke sitaare chhin liye
-  Main bekas main laachaar
+  Maiṅ bekas maiṅ laachaar
   Sab kunbe ki ghamkhwaar
 
   2
@@ -42,14 +42,14 @@ romanLyrics: |-
 
   3
   Wo shaam-e-gharibaaṅ ka manzar
-  Bimaar ka sholoṅ mein bistar
+  Bimaar ka sholoṅ meiṅ bistar
   Wo behta hua kaanoṅ se lahu
   Wo nil Sakina ke rukh par
   Kaanoṅ se lahu ki dhaar
   Jab zakhmi the rukhsaar
 
   4
-  Ik sher taraai mein soya
+  Ik sher taraai meiṅ soya
   Jo aas tha pyaase bachchoṅ ki
   Jo mashk bachaane ki khaatir
   Qurbaani de gaya haathoṅ ki
@@ -57,18 +57,18 @@ romanLyrics: |-
   Maara gaya aakhir kaar
 
   5
-  Wo zulm bhi dekhe haiṅ main ne
+  Wo zulm bhi dekhe haiṅ maiṅ ne
   Jo din ko raat bana dete
-  Main ro na saki aansu mere
-  Paani mein aag laga dete
+  Maiṅ ro na saki aansu mere
+  Paani meiṅ aag laga dete
   Bhai ka tha ye israar
   Bas sabr meri ghamkhwaar
 
   6
   Shaanoṅ pe nishaaṅ haiṅ rassi ke
   Saughaat-e-safar ye laayi huṅ
-  Hai dil mein daagh bahattar ke
-  Ae Nana main dukh paayi huṅ
+  Hai dil meiṅ daagh bahattar ke
+  Ae Nana maiṅ dukh paayi huṅ
   Thi tang ki wo bauchhaar
   Rota tha alam bardaar
 
@@ -81,7 +81,7 @@ romanLyrics: |-
   Ik sar ke tukre chaar
 
   8
-  Zainab ki sada har majlis mein
+  Zainab ki sada har majlis meiṅ
   Nauhoṅ ki zabaani aati hai
   Bibi ki sada dohraata hai
   Jise nauha khwaani aati hai

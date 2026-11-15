@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ran mein Shabbir ko zibh karte hue
+  Ran meiṅ Shabbir ko zibh karte hue
   Shimr ne khud suna aakhri waar tak
   Pyase Shabbir ke zakhmi hontoṅ pe tha
   Naam Abbas ka aakhri waar tak
@@ -37,27 +37,27 @@ romanLyrics: |-
   Maarta tha wo hans kar tamache kabhi
   Pauṅ rakhta tha zakhmoṅ pe Shabbir ke
   Aur kabhi jism par maarta tha chhuri
-  Khun hi khun tha zakhm hi zakhm thay
+  Khun hi khun tha zakhm hi zakhm the
   Itna maara gaya aakhri waar tak
 
   4
   Shimr se shaah ka jab gala na kata
   Paas Sinaan ibn-e-Anas aa gaya
-  Maar kar neza Shabbir ke halq mein
+  Maar kar neza Shabbir ke halq meiṅ
   Aise khencha hui zulm ki inteha
-  Aa gayi saath mein saari sukhi rageṅ
+  Aa gayi saath meiṅ saari sukhi rageṅ
   Neza uljha raha aakhri waar tak
 
   5
-  Bughz kitna tha ibn-e-Ali se usay
-  Shimr jaldi mein tha pehle hi waar se
-  Ran mein wo donoṅ haathoṅ se masruf tha
+  Bughz kitna tha ibn-e-Ali se use
+  Shimr jaldi meiṅ tha pehle hi waar se
+  Ran meiṅ wo donoṅ haathoṅ se masruf tha
   Ek pyase ka sar kaatne ke liye
-  Uske ek haath mein tegh aur dusra
-  Haath baaloṅ mein tha aakhri waar tak
+  Uske ek haath meiṅ tegh aur dusra
+  Haath baaloṅ meiṅ tha aakhri waar tak
 
   6
-  Ek maaṅ god mein rakh ke bete ka sar
+  Ek maaṅ god meiṅ rakh ke bete ka sar
   Kab se baithi hai ye Shimr ko kya khabar
   Saath Shabbir ke Fatima ka lahu
   Beh ke khanjar se girta raha khaak par
@@ -65,11 +65,11 @@ romanLyrics: |-
   Haath maaṅ ne rakha aakhri waar tak
 
   7
-  Ae Raza aur Zeeshan dekho zara
-  Karbala mein hai maujud wo qatl gaah
+  Ae Raza aur Zishan dekho zara
+  Karbala meiṅ hai maujud wo qatl gaah
   Baith kar aaj rote haiṅ zaair jahaṅ
   Kal wahaṅ Shah ka koi apna na tha
-  Sab tamashayi thay dekhte hi rahe
+  Sab tamashayi the dekhte hi rahe
   Shah ka katta gala aakhri waar tak
 # source_id: nohayonline:32fdf08d690a1bbeb0ca
 # source_url: https://www.nohayonline.com/details_content.php?id=1697

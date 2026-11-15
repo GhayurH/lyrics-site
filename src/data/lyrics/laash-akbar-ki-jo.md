@@ -27,8 +27,8 @@ romanLyrics: |-
   Kaun hai mere siwa un ko jo samjhaaye Husain
 
   4
-  Haaye piri mein jawaaṅ laal tarapta dekha
-  Apne Yusuf ko kiuṅ is dasht mein le aaye Husain
+  Haaye piri meiṅ jawaaṅ laal tarapta dekha
+  Apne Yusuf ko kiuṅ is dasht meiṅ le aaye Husain
 
   5
   Laal Zainab ne kiye sadqe Ali Akbar ke
@@ -40,10 +40,10 @@ romanLyrics: |-
 
   7
   Baap zinda rahe beta ho jahaaṅ se rukhsat
-  Haif jine mein kahaaṅ haaye na mar jaaye Husain
+  Haif jine meiṅ kahaaṅ haaye na mar jaaye Husain
 
   8
-  Shauq-e-ziyaarat mein ye jite haiṅ Hasan aur Ahsan
+  Shauq-e-ziyaarat meiṅ ye jite haiṅ Hasan aur Ahsan
   Rashk qismat jo hameiṅ rauze pe bulwaaye Husain
 # source_id: nohayonline:1edd7446ba01b7e9e363
 # source_url: https://www.nohayonline.com/details_content.php?id=912

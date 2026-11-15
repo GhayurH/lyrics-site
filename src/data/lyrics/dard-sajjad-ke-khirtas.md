@@ -19,19 +19,19 @@ romanLyrics: |-
   Sar barehna sar-e-baazaar bulaauṅ kaise
 
   2
-  Rassiyaaṅ paaoṅ mein chhaale the tamaanchoṅ ke nishaaṅ
+  Rassiyaaṅ paaoṅ meiṅ chhaale the tamaanchoṅ ke nishaaṅ
   Hasrat o yaas ki mayyat ko uthaauṅ kaise
 
   3
-  Paab jaulan huṅ main hai tauq-e-giryaaṅ zeb-e-gulu
+  Paab jaulan huṅ maiṅ hai tauq-e-giryaaṅ zeb-e-gulu
   Uṅtoṅ se girte hue bachche uthaauṅ kaise
 
   4
   Zakhm jo jism pe aaye haiṅ dikha sakta huṅ
-  Dil ne jo Shaam mein khaaye haiṅ dikhaauṅ kaise
+  Dil ne jo Shaam meiṅ khaaye haiṅ dikhaauṅ kaise
 
   5
-  Karbala Kufa ko Shaam mein takrim hui
+  Karbala Kufa ko Shaam meiṅ takrim hui
   Ruh-e-ajdaad tarapti hai sunaauṅ kaise
 
   6

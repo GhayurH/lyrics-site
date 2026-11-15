@@ -81,9 +81,9 @@ romanLyrics: |-
 
   10
   Suno Maula
-  Mere ghar mein tumhaari baateṅ
-  Mere ghar mein aza khaana
-  Mere ghar mein alam Ghaazi ka
+  Mere ghar meiṅ tumhaari baateṅ
+  Mere ghar meiṅ aza khaana
+  Mere ghar meiṅ alam Ghaazi ka
   Karta hai sada saaya
   Ye raunqeṅ ye barkateṅ hai aap se
   Shukr-e-Khuda ya Husain rahmatullah

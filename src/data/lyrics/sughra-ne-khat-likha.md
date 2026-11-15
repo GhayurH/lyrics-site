@@ -21,7 +21,7 @@ romanLyrics: |-
   Jaan aa gayi laboṅ par kab aaoge Akbar
 
   2
-  Qabr-e-Nabi pe jaa kar mannat hai main ne maani
+  Qabr-e-Nabi pe jaa kar mannat hai maiṅ ne maani
   Kunbe pe mere ya Rab howe na band paani
   Dar pe khari hai khwaahar kab aaoge Akbar
   Jaan aa gayi laboṅ par kab aaoge Akbar
@@ -31,8 +31,8 @@ romanLyrics: |-
   Shaadi pe apne bhaai ki khushiyaaṅ manaayegi
   Kya khabar thi paamaal hogi bhaai teri laash
   Behan tere janaaze pe aa bhi na paayegi
-  Shaadi agar rachaana Karb o Bala mein jaa ke
-  Khat mera mujh ko dena bhaiya watan mein aa ke
+  Shaadi agar rachaana Karb o Bala meiṅ jaa ke
+  Khat mera mujh ko dena bhaiya watan meiṅ aa ke
   Dulhan ko apni le kar kab aaoge Akbar
   Jaan aa gayi laboṅ par kab aaoge Akbar
 
@@ -48,7 +48,7 @@ romanLyrics: |-
   Tanhaai ghar ki qalb ka aazaar ban gayi
   Aansu behan ne Qabr-e-Nabi par bahaaye haiṅ
   Chhe maah ke ho gaye haiṅ khat bhi na tum ne likha
-  Kis haal mein hai Sughra ye bhi na tum ne puchha
+  Kis haal meiṅ hai Sughra ye bhi na tum ne puchha
   Kehta hai qalb-e-muztar kab aaoge Akbar
   Jaan aa gayi laboṅ par kab aaoge Akbar
 

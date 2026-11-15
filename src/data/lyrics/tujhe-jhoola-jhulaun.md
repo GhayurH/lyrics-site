@@ -11,8 +11,8 @@ tags: []
 aliases: ["Tujhe Jhoola Jhulaun"]
 published: true
 romanLyrics: |-
-  Tujhe jhula jhulaauṅ main tujhe jhula jhulaauṅ
-  Main khwaab mein Asghar tujhe lori bhi sunaauṅ
+  Tujhe jhula jhulaauṅ maiṅ tujhe jhula jhulaauṅ
+  Maiṅ khwaab meiṅ Asghar tujhe lori bhi sunaauṅ
 
   1
   Laut aao safar se ke bari der hui hai
@@ -20,10 +20,10 @@ romanLyrics: |-
 
   2
   Koi mujhe batlaata nahiṅ teri nishaani
-  Barsaat mein tiroṅ ki kahaaṅ dhundne jaauṅ
+  Barsaat meiṅ tiroṅ ki kahaaṅ dhundne jaauṅ
 
   3
-  Socha tha teri saalgirah ghar mein karuṅ gi
+  Socha tha teri saalgirah ghar meiṅ karuṅ gi
   Taqdir ye kehti hai tera sog manaauṅ
 
   4
@@ -31,16 +31,16 @@ romanLyrics: |-
   Ruk jaa zara Abbas ko darya se bulaauṅ
 
   5
-  Ye khuṅ bhara kurta ye mitti mein bhare baal
-  Sine mein chhupaauṅ ke main aankhoṅ se lagaauṅ
+  Ye khuṅ bhara kurta ye mitti meiṅ bhare baal
+  Sine meiṅ chhupaauṅ ke maiṅ aankhoṅ se lagaauṅ
 
   6
   Is tarah koi ruth ke maaṅ se nahiṅ jaata
-  Tu khud hi bataa de main tujhe kaise manaauṅ
+  Tu khud hi bataa de maiṅ tujhe kaise manaauṅ
 
   7
   Rehaan ke nauhe pe sada Bano ki aayi
-  Main aankhoṅ se ashkoṅ ke samandar ko bahaauṅ
+  Maiṅ aankhoṅ se ashkoṅ ke samandar ko bahaauṅ
 # source_id: nohayonline:14da9c0342a3dd771485
 # source_url: https://www.nohayonline.com/details_content.php?id=624
 # raw_sha256: 337b3d81c5d7812221181817f35257c6af55a522e779965f0297d76bd8bb014a

@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Kaha Abbas ne ik aan mein naqsha palat jaaye
+  Kaha Abbas ne ik aan meiṅ naqsha palat jaaye
   Ho izn-e-Shah to nehr-e-Alqama laashoṅ se pat jaaye
 
   1
@@ -27,7 +27,7 @@ romanLyrics: |-
   Alaata hai jo dunya ki hawa ka rukh palat jaaye
 
   4
-  Ye hasrat hai sanaa-e-Murtaza mein ghair ke haathoṅ
+  Ye hasrat hai sanaa-e-Murtaza meiṅ ghair ke haathoṅ
   Zabaaṅ meri bhi misl-e-Maisam-e-Tammaar kat jaaye
 
   5

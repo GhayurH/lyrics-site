@@ -11,24 +11,24 @@ tags: []
 aliases: ["Jhoola Hai Jala"]
 published: true
 romanLyrics: |-
-  Haathoṅ mein liye nanhe se jhule ko ye maadar
+  Haathoṅ meiṅ liye nanhe se jhule ko ye maadar
   Bikhraae apne baaloṅ ko kehti rahi Asghar
-  Tu kya gaya ke chhaaya hai aankhoṅ mein andhera
-  Karb o Bala mein ho gaya barbaad mera ghar
+  Tu kya gaya ke chhaaya hai aankhoṅ meiṅ andhera
+  Karb o Bala meiṅ ho gaya barbaad mera ghar
 
   Jhula hai jala ae laal tera
-  Hai khaak basar ran mein Baano
+  Hai khaak basar ran meiṅ Baano
   Rone bhi nahiṅ dete aada
-  Hai khaak basar ran mein Baano
+  Hai khaak basar ran meiṅ Baano
 
   1
   Asbaab luta khaime bhi jale
   Chaadar bhi chhini durre bhi lage
-  Duba hua ran mein hai kunba
+  Duba hua ran meiṅ hai kunba
 
   2
-  Ik huk si dil mein uthti hai
-  Aur dard jigar mein hota hai
+  Ik huk si dil meiṅ uthti hai
+  Aur dard jigar meiṅ hota hai
   Hansta hua gulshan luta hai
 
   3
@@ -44,10 +44,10 @@ romanLyrics: |-
   5
   Ye kaisi qayaamat aai hai
   Murjhaai gai nanhi si kali
-  Dharkan mein hai maatam ki sada
+  Dharkan meiṅ hai maatam ki sada
 
   6
-  Wahaaṅ ghash mein pare haiṅ Zain-ul-Aba
+  Wahaaṅ ghash meiṅ pare haiṅ Zain-ul-Aba
   Yaaṅ Zainab-e-Kubra ki hai fughaaṅ
   Kya maajra hai ya Rab tu bata
 
@@ -58,7 +58,7 @@ romanLyrics: |-
 
   8
   Us din se le kar maut talak
-  Saae mein na baithi Ahmed wo
+  Saae meiṅ na baithi Ahmed wo
   Dil ke haiṅ Hasan ke gham ye bara
 # source_id: nohayonline:eaf369ddb1c5a07fb3f1
 # source_url: https://www.nohayonline.com/details_content.php?id=132

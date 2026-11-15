@@ -1,6 +1,6 @@
 ---
 title: "پہچان لو میں زینب ہوں"
-alternateTitle: "Pehchaan Lo Main"
+alternateTitle: "Pehchaan Lo Maiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,17 +11,17 @@ tags: []
 aliases: ["Pehchan Lo Mai"]
 published: true
 romanLyrics: |-
-  Pehchaan lo main Zainab huṅ
+  Pehchaan lo maiṅ Zainab huṅ
   Kya sunte ho ae Abdullah
 
   1
   Dunya ki sataayi hai Zainab
-  Is haal mein aayi hai Zainab
+  Is haal meiṅ aayi hai Zainab
   Thi zakhm-e-dil ki ek sada
 
   2
-  Maqtal mein luti zindaaṅ mein gayi
-  Bazaaroṅ mein beparda rahi
+  Maqtal meiṅ luti zindaaṅ meiṅ gayi
+  Bazaaroṅ meiṅ beparda rahi
   Darbaar se ho ke aayi huṅ
 
   3
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   5
   Zainab in aankhoṅ se dekhi
-  Akbar ke kaleje mein barchhi
+  Akbar ke kaleje meiṅ barchhi
   Aur dekhi khuṅ ka ek darya
 
   6
@@ -51,8 +51,8 @@ romanLyrics: |-
 
   8
   Jab chhota bara na koi bacha
-  Bimaar tha bas ek ghash mein para
-  Narghe mein tha bhaai tanha mera
+  Bimaar tha bas ek ghash meiṅ para
+  Narghe meiṅ tha bhaai tanha mera
 
   9
   Faryaad kunaaṅ the jab muztar

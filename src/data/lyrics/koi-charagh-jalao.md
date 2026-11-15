@@ -27,7 +27,7 @@ romanLyrics: |-
   Phuphi charagh jalao bahot andhera hai
 
   4
-  Sakina Bibi ka zindaaṅ mein ji hai ghabraata
+  Sakina Bibi ka zindaaṅ meiṅ ji hai ghabraata
   Khudara rehm to khao bahot andhera hai
 
   5

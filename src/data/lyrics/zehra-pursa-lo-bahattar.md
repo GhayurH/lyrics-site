@@ -34,7 +34,7 @@ romanLyrics: |-
   Zehra Zehra Qaasim ka bhi pursa lo
 
   5
-  Sote hi na the Asghar jhule mein tarapte the
+  Sote hi na the Asghar jhule meiṅ tarapte the
   Maadar ko khabar kya thi ik tir sulaayega
   Zehra Zehra Asghar ka bhi pursa lo
 

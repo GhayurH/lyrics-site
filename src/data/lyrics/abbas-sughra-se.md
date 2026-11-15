@@ -17,10 +17,10 @@ romanLyrics: |-
   Aap Baba ko mana leṅge chacha jaan
   Le chaliye mujhe Karbobala saath
   Chacha jaan le chaliye mujhe Karbobala saath
-  Maula Abbas ne ja kar ye Shah-e-Din se kaha
+  Maula Abbas ne ja kar ye Shah-e-Diṅ se kaha
   Bibi zid karti hai le chaliye use Karbobala
   Husain bole ae mere bhai Alamdar
-  Abbas Sughra se kaho tum ghar mein raho
+  Abbas Sughra se kaho tum ghar meiṅ raho
   Abbas Abbas Abbas
 
   1
@@ -29,7 +29,7 @@ romanLyrics: |-
   Sabr karna Shahzadi
   Ek sabab hai aur magar
   Tum shabih-e-Fatema ho
-  Main kaise tumheṅ le jauṅ Karbala
+  Maiṅ kaise tumheṅ le jauṅ Karbala
 
   2
   Dur darya se mere khaime lageṅge beta
@@ -37,7 +37,7 @@ romanLyrics: |-
   Sabr karna Shahzadi
   Hoṅge haram bhi khaak basar
   Tum shabih-e-Fatema ho
-  Main kaise tumheṅ le jauṅ Karbala
+  Maiṅ kaise tumheṅ le jauṅ Karbala
 
   3
   Subh-e-Ashur ke aasaar jo hoṅge muztar
@@ -45,7 +45,7 @@ romanLyrics: |-
   Sabr karna Shahzadi
   Wo hai shabih-e-Payambar
   Tum shabih-e-Fatema ho
-  Main kaise tumheṅ le jauṅ Karbala
+  Maiṅ kaise tumheṅ le jauṅ Karbala
 
   4
   Dekh sakti hi nahiṅ aisa wo manzar hoga
@@ -53,31 +53,31 @@ romanLyrics: |-
   Sabr karna Shahzadi
   Hoṅgi wahaṅ pe khud maadar
   Tum shabih-e-Fatema ho
-  Main kaise tumheṅ le jauṅ Karbala
+  Maiṅ kaise tumheṅ le jauṅ Karbala
 
   5
-  Beta phir Shaam-e-Ghariban mein chhinegi chadar
+  Beta phir Shaam-e-Gharibaṅ meiṅ chhinegi chadar
   Khaime jal jaaeṅge phir hogi qayamat ki sahar
   Sabr karna Shahzadi
   Shaam ki janib hoga safar
   Tum shabih-e-Fatema ho
-  Main kaise tumheṅ le jauṅ Karbala
+  Maiṅ kaise tumheṅ le jauṅ Karbala
 
   6
   Shaam ki galiyoṅ se bazaroṅ se guzreṅge haram
-  Pehle darbar mein phir qaid mein jaaeṅge haram
+  Pehle darbar meiṅ phir qaid meiṅ jaaeṅge haram
   Sabr karna Shahzadi
   Qaidi raheṅge tishna jigar
   Tum shabih-e-Fatema ho
-  Main kaise tumheṅ le jauṅ Karbala
+  Maiṅ kaise tumheṅ le jauṅ Karbala
 
   7
   Ek ek lafz hai Mazhar tera irfan-e-aza
-  Keh ke ye rone lage Sayyed-e-Zeeshan-e-aza
+  Keh ke ye rone lage Sayyed-e-Zishan-e-aza
   Sabr karna Shahzadi
   Tum se rahe aabad ye ghar
   Tum shabih-e-Fatema ho
-  Main kaise tumheṅ le jauṅ Karbala
+  Maiṅ kaise tumheṅ le jauṅ Karbala
 # source_id: nohayonline:30401ba6c46d0fbeeb17
 # source_url: https://www.nohayonline.com/details_content.php?id=2204
 # raw_sha256: f6c7c644f740c7021b35a93c53438f78af6b7a60f0867a549447ab135be5db20

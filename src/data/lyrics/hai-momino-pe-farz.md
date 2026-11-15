@@ -14,11 +14,11 @@ romanLyrics: |-
   Hai mominoṅ pe farz itaaat Husain ki
 
   1
-  Karbobala mein zulm o jafa ka riwaaj tha
+  Karbobala meiṅ zulm o jafa ka riwaaj tha
   Sar pe Yazidiyat ke khilaafat ka taaj tha
   Shabbir ka lahu jo masiha mizaaj tha
   Warna munaafiqat ka maraz laailaaj tha
-  Yuṅ Karbala mein fikr o nazar ki dawa hui
+  Yuṅ Karbala meiṅ fikr o nazar ki dawa hui
   Karbobala ki khaak bhi khaak-e-shifa hui
 
   2
@@ -26,23 +26,23 @@ romanLyrics: |-
   Sibt-e-Rasul lakht-e-dil-e-Murtaza Husain
   Haadi imaam haq ke wali rehnuma Husain
   Tum ko pukaarte haiṅ azaadaar ya Husain
-  Aankhoṅ mein apni ashk-e-aza le ke aae haiṅ
-  Dil mein shaur-e-Karbobala le ke aae haiṅ
+  Aankhoṅ meiṅ apni ashk-e-aza le ke aae haiṅ
+  Dil meiṅ shaur-e-Karbobala le ke aae haiṅ
 
   3
-  Yuṅ Karbala mein Shah ne bhara ghar luta diya
+  Yuṅ Karbala meiṅ Shah ne bhara ghar luta diya
   Khud so gae to din ka muqaddar jagaa diya
   Chehre se ahl-e-kufr ke parda hataa diya
   Asghar ne haṅs ke saare jahaaṅ ko rula diya
-  Beshir mein asar tha Ali ke shaur ka
+  Beshir meiṅ asar tha Ali ke shaur ka
   Asghar ne haṅs ke tor diya but-e-ghurur ka
 
   4
   Beri pehen ke Aabid-e-bimaar aaega
-  Is raaste mein Shaam ka baazaar aaega
+  Is raaste meiṅ Shaam ka baazaar aaega
   Ye zikr baad Sayyid-e-abraar aaega
-  Jab tasht mein ye sar sar-e-darbaar aaega
-  Zindaaṅ mein shor hoga zamiṅ thartharaae gi
+  Jab tasht meiṅ ye sar sar-e-darbaar aaega
+  Zindaaṅ meiṅ shor hoga zamiṅ thartharaae gi
   Baba ka naam le ke Sakina bulaae gi
 
   5

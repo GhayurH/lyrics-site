@@ -19,24 +19,24 @@ romanLyrics: |-
   Roti thi yaad kar ke jab ho gayi rehai
 
   2
-  Kaise uthaya Shah ne kariyal jawaṅ ka laasha
+  Kaise uthaya Shah ne kariyal jawaaṅ ka laasha
   Sarwar ke dil se puchho farzand ki judai
 
   3
   Shabbir ke gale par jab chal raha tha khanjar
-  Aankhoṅ mein hai wo manzar Zainab jo dekh aai
+  Aankhoṅ meiṅ hai wo manzar Zainab jo dekh aai
 
   4
   Sar par na thiṅ ridaeṅ bazu bandhe hue the
   Aulad-e-Fatima ki bazaar ho ke aai
 
   5
-  Darbaar ka tha manzar tasht-e-tala mein wo sar
+  Darbaar ka tha manzar tasht-e-tala meiṅ wo sar
   Har har qadam pe Nana Abid ko maut aai
 
   6
   Karbal se Shaam tak bhi pyasi rahi Sakina
-  Ghut ghut ke aakhir us ko zindaaṅ mein maut aai
+  Ghut ghut ke aakhir us ko zindaaṅ meiṅ maut aai
 
   7
   Pehre the aansuoṅ par kya sakhtiyaṅ thiṅ Sajid

@@ -40,7 +40,7 @@ romanLyrics: |-
 
   5
   Lagti hai pyaas sakht mere dil ke chain ko
-  Raatoṅ mein uth ke paani pilaana Husain ko
+  Raatoṅ meiṅ uth ke paani pilaana Husain ko
   Hove na us pe pyaas ka ghalba Abalhasan
   Hai aap ke hawaale ye kunba Abalhasan
 
@@ -51,15 +51,15 @@ romanLyrics: |-
   Hai aap ke hawaale ye kunba Abalhasan
 
   7
-  Kamsin hai ghar mein maaṅ ki jo mahsus ho kami
-  Taarikiyoṅ mein shab ki khudaara kabhi kabhi
+  Kamsin hai ghar meiṅ maaṅ ki jo mahsus ho kami
+  Taarikiyoṅ meiṅ shab ki khudaara kabhi kabhi
   Bachchoṅ ko meri qabr pe laana Abalhasan
   Hai aap ke hawaale ye kunba Abalhasan
 
   8
   Ye iltijaa hai aap se ae sher-e-Zuljalaal
   Ghusl o kafan ke saath ho is baat ka khayaal
-  Shab mein hi uthe mera janaaza Abalhasan
+  Shab meiṅ hi uthe mera janaaza Abalhasan
   Hai aap ke hawaale ye kunba Abalhasan
 
   9

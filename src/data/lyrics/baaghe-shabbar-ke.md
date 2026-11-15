@@ -20,10 +20,10 @@ romanLyrics: |-
 
   2
   Tashna lab dulha dulhan aur baraati pyaase
-  Haye kaisa teri shaadi ka hai saamaan Qasim
+  Haye kaisa teri shaadi ka hai saamaaṅ Qasim
 
   3
-  Ran mein chalti hui wo zulm o sitam ki aandhi
+  Ran meiṅ chalti hui wo zulm o sitam ki aandhi
   Maaṅ ke sine se wo uthta hua tufaaṅ Qasim
 
   4
@@ -35,11 +35,11 @@ romanLyrics: |-
   Chaak karti hai ajal apna garebaan Qasim
 
   6
-  Ran mein bikhre hue ye tere badan ke tukre
-  Khun mein tar ye teri zulfeiṅ pareshaan Qasim
+  Ran meiṅ bikhre hue ye tere badan ke tukre
+  Khun meiṅ tar ye teri zulfeiṅ pareshaan Qasim
 
   7
-  Jama karte haiṅ teri laash ke tukre ran mein
+  Jama karte haiṅ teri laash ke tukre ran meiṅ
   Thaam kar apna jigar Shaah-e-Shahidaaṅ Qasim
 
   8
@@ -51,8 +51,8 @@ romanLyrics: |-
   Bain Kubra ke hai aur Shaam ka zindaaṅ Qasim
 
   10
-  Nauhakhwaaṅ bazm-e-aza mein haiṅ Viqar-e-Ghamgiṅ
-  Hai tasavvur mein magar Shaam ka zindaaṅ Qasim
+  Nauhakhwaaṅ bazm-e-aza meiṅ haiṅ Viqar-e-Ghamgiṅ
+  Hai tasavvur meiṅ magar Shaam ka zindaaṅ Qasim
 # source_id: nohayonline:3dfd5822d5acec1e58a3
 # source_url: https://www.nohayonline.com/details_content.php?id=2979
 # raw_sha256: 8eeaf70b724eadc824869f11b4da9f15e9ca4b1e8aea31921eb19877aeef4d65

@@ -1,6 +1,6 @@
 ---
 title: "کربلا میں روز عاشورہ فضا ٹھہری رہی"
-alternateTitle: "Karbala Mein Roze"
+alternateTitle: "Karbala Meiṅ Roze"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,15 +11,15 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Karbala mein roz-e-Aashura faza thehri rahi
+  Karbala meiṅ roz-e-Aashura faza thehri rahi
   Wo tishna lab ka maujiza thehri rahi
 
   1
-  Us ke daaman mein na jaane saaniha kya ho gaya
-  Aalam-e-sakta mein nehr-e-Alqama thehri rahi
+  Us ke daaman meiṅ na jaane saaniha kya ho gaya
+  Aalam-e-sakta meiṅ nehr-e-Alqama thehri rahi
 
   2
-  Aa gaye mashk o alam to khaimagaah-e-Shaah mein
+  Aa gaye mashk o alam to khaimagaah-e-Shaah meiṅ
   Dur saahil par bapa koi faza thehri rahi
 
   3
@@ -27,15 +27,15 @@ romanLyrics: |-
   Fatema Sughra bapa band-e-haya thehri rahi
 
   4
-  Kya zamaane mein koi is tarah ki bewa bhi hai
-  Haath mein kangan nahiṅ thehre hina thehri rahi
+  Kya zamaane meiṅ koi is tarah ki bewa bhi hai
+  Haath meiṅ kangan nahiṅ thehre hina thehri rahi
 
   5
   Zaalimoṅ ne sar se Zainab ke rida to chhin li
   Haaṅ magar tathir ki munsif rida thehri rahi
 
   6
-  Aa gayi khaime mein waapas Shah ke kehne se Rabaab
+  Aa gayi khaime meiṅ waapas Shah ke kehne se Rabaab
   Der tak khaime ke dar par maaṅ udaas thehri rahi
 
   7

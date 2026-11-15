@@ -23,9 +23,9 @@ romanLyrics: |-
   Maidaaṅ ko tum jaate ho Allah nigahbaaṅ
 
   3
-  Rakha tha tumheiṅ main ne zamaane se bacha ke
+  Rakha tha tumheiṅ maiṅ ne zamaane se bacha ke
   Sine se laga ke
-  Is dasht mein tum maaṅ se bichharte ho meri jaaṅ
+  Is dasht meiṅ tum maaṅ se bichharte ho meri jaaṅ
 
   4
   Ae raahat-e-jaaṅ nur-e-nazar ghar ke ujaale
@@ -33,9 +33,9 @@ romanLyrics: |-
   Maidaan se jald aaiyo ye maaṅ tere qurbaaṅ
 
   5
-  Tum hote jawaaṅ shaan se main byaah rachaati
+  Tum hote jawaaṅ shaan se maiṅ byaah rachaati
   Aur dulha banaati
-  Main lutti huṅ milta hai mera khaak mein armaaṅ
+  Maiṅ lutti huṅ milta hai mera khaak meiṅ armaaṅ
 # source_id: nohayonline:80b5361745d30734151c
 # source_url: https://www.nohayonline.com/details_content.php?id=3765
 # raw_sha256: 78857b4656e88bafbaded334d922e0bd0b3984ee292d1a8db1a9efda786f2031

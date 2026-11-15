@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Kufe mein phiraaya jaata hai
+  Kufe meiṅ phiraaya jaata hai
   Muslim ka laasha Eid ke din
   Koi bhi uthaane aata nahiṅ
   Bekas ka janaaza Eid ke din
@@ -53,7 +53,7 @@ romanLyrics: |-
   Har baar rulaaya Eid ke din
 
   7
-  Jis ghar mein koi mar jaata hai
+  Jis ghar meiṅ koi mar jaata hai
   Sab aa kar pursa dete haiṅ
   Ham kis ko deṅ Maula Mahdi
   Muslim ka pursa Eid ke din
@@ -67,7 +67,7 @@ romanLyrics: |-
   9
   Dafnaaya nahiṅ kafnaaya nahiṅ
   Kaisi ye Takallum ghurbat hai
-  Kufe mein musalmaaṅ saare the
+  Kufe meiṅ musalmaaṅ saare the
   Muslim tha akela Eid ke din
 # source_id: nohayonline:fe1b340cd08f2cc71ceb
 # source_url: https://www.nohayonline.com/details_content.php?id=1609

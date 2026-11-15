@@ -12,13 +12,13 @@ published: true
 romanLyrics: |-
   Jab aa gayi Shaam-e-Gharibaṅ bapa hua matam
   Khiyam-e-Shah se aati thi ek sada paiham
-  Main tum se karti huṅ waada ae mere pyare chacha
-  Main tum se pani na maṅguṅ gi ab Khuda ki qasam
+  Maiṅ tum se karti huṅ waada ae mere pyare chacha
+  Maiṅ tum se pani na maṅguṅ gi ab Khuda ki qasam
   Abbas Abbas ammu janam man aab namikhwaham
 
   1
   Phatta hai gham se sina mushkil hua hai jina
-  Ahl-e-Haram ka aaya hirtaas mein safina
+  Ahl-e-Haram ka aaya hirtaas meiṅ safina
   Beaasra hue hum
 
   2
@@ -32,33 +32,33 @@ romanLyrics: |-
   Saari fiza hai barham
 
   4
-  Sar par nahiṅ hai chadar maidan mein ja ke Sarwar
+  Sar par nahiṅ hai chadar maidan meiṅ ja ke Sarwar
   Kiuṅ laut ke na aaye kuchh to batao aa kar
   Hai bekasi ka aalam
 
   5
-  Asghar ne teer khaya viraṅ kiya hai jhula
+  Asghar ne tir khaya viraṅ kiya hai jhula
   Bano ke dil pe ammu ye zakhm hai kuchh aisa
   Jiska nahiṅ hai marham
 
   6
-  Rassi gale mein bandhi aada ne kas ke aisi
+  Rassi gale meiṅ bandhi aada ne kas ke aisi
   Tum ko batauṅ kaise rukti hai saans meri
   Hontoṅ pe aa gaya dam
 
   7
-  Dur chhin gaye hamare gardish mein hain sitare
+  Dur chhin gaye hamare gardish meiṅ haiṅ sitare
   Rudad kya bayaṅ ho dil kis ko ab pukare
   Hai bekasi ka mausam
 
   8
   Jaati huṅ su-e-zindaṅ sar hai phuphi ka uryaṅ
   Bewarisi pe apni kunba hai saara girya
-  Aankheṅ hain sab ki purnam
+  Aankheṅ haiṅ sab ki purnam
 
   9
   Rehaan Azmi ka likha hua ye noha
-  Nasir parha jo maine dil khud ba khud pukara
+  Nasir parha jo maiṅ ne dil khud ba khud pukara
   Lazim hai ab to matam
 reciter: Tanzeem-ul-Husaini (Nasir Zaidi)
 # source_id: nohayonline:be567df2a3c7f1e53cb3

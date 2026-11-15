@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Ghazi Abbas Maula Abbas
 
-  Ghazi Abbas sa duniya mein alamdaar nahiṅ
+  Ghazi Abbas sa duniya meiṅ alamdaar nahiṅ
   Jis tarah misl-e-koi Haidar-e-Karraar nahiṅ
 
   1
@@ -27,13 +27,13 @@ romanLyrics: |-
   Jis tarah misl-e-koi Haidar-e-Karraar nahiṅ
 
   3
-  Khanjar o tir o tabar mein hai jo tanha Sarwar
+  Khanjar o tir o tabar meiṅ hai jo tanha Sarwar
   Haaye afsos ke ab fauj ka saalaar nahiṅ
   Jis tarah misl-e-koi Haidar-e-Karraar nahiṅ
 
   4
   Laasha Akbar ka uthaate haiṅ Shah-e-Karbobala
-  Koi pardes mein ab monis o ghamkhwaar nahiṅ
+  Koi pardes meiṅ ab monis o ghamkhwaar nahiṅ
   Jis tarah misl-e-koi Haidar-e-Karraar nahiṅ
 
   5
@@ -42,8 +42,8 @@ romanLyrics: |-
   Jis tarah misl-e-koi Haidar-e-Karraar nahiṅ
 
   6
-  Yaad-e-Abbas mein roti hai Sakina Irfan
-  Aaj Maasuma ko zindaaṅ mein qaraar nahiṅ
+  Yaad-e-Abbas meiṅ roti hai Sakina Irfan
+  Aaj Maasuma ko zindaaṅ meiṅ qaraar nahiṅ
   Jis tarah misl-e-koi Haidar-e-Karraar nahiṅ
 # source_id: nohayonline:016732fc3b59a3f0122c
 # source_url: https://www.nohayonline.com/details_content.php?id=2292

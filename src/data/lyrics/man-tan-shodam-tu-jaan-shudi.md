@@ -25,11 +25,11 @@ romanLyrics: |-
   Maalik o Maula Sultaan-e-Aalam
   Bekhabroṅ ko bas ye pata hai
   Baste hue har dil se tu aage
-  Ujre hue har dil mein basa hai
+  Ujre hue har dil meiṅ basa hai
 
   3
-  Tere haram mein aisa laga hai
-  Jaise main jannat mein aa gaya huṅ
+  Tere haram meiṅ aisa laga hai
+  Jaise maiṅ jannat meiṅ aa gaya huṅ
   Raah-e-Khuda hai har ek raasta
   Baab-e-Khuda hai dar pe likha
 
@@ -42,11 +42,11 @@ romanLyrics: |-
   5
   Dil ki ye dharkan naubat hai teri
   Chalti ye saanseiṅ naghma sara
-  Khun ki rawaani mein jaari har dam
+  Khun ki rawaani meiṅ jaari har dam
   Teri muhabbat ka silsila
 
   6
-  Tere karam ke saaye mein Maula
+  Tere karam ke saaye meiṅ Maula
   Ham wo shajar haiṅ jo pal rahe haiṅ
   Maula Raza ham saare sana khwaaṅ
   Teri ataaoṅ pe chal rahe haiṅ

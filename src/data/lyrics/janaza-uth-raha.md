@@ -48,13 +48,13 @@ romanLyrics: |-
   Wasiyyat kar gayi Zehra tumheṅ paale gi ab Fizza
 
   6
-  Madine waaloṅ ab apne gharoṅ mein chain se sona
+  Madine waaloṅ ab apne gharoṅ meiṅ chain se sona
   Sataaye ga na ab tum ko Nabi ki beti ka rona
   Gira tha jis pe jalta dar wo tuti pasliyaaṅ le kar
 
   7
   Chhura kar maaṅ se bachchoṅ ko Ali ne jab kafan baandha
-  Tarap ke haaye Zeeshan o Raza kehne lage Maula
+  Tarap ke haaye Zishan o Raza kehne lage Maula
   Hai taaza zakhm pehlu ka zara aahista do kaandha
 # source_id: nohayonline:c0800f29053dc5737418
 # source_url: https://www.nohayonline.com/details_content.php?id=2075

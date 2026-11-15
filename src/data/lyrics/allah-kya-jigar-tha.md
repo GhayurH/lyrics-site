@@ -11,13 +11,13 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ek do pahar mein apna bhara ghar luta diya
+  Ek do pahar meiṅ apna bhara ghar luta diya
   Allah kya jigar tha Janab-e-Husain ka
 
   1
   Zakhmi badan firaq-e-pisar tashnagi alam
   Tanhai fauj-e-Sham ka nargha naye sitam
-  Ansar o aqraba ke bichharne ka dil mein gham
+  Ansar o aqraba ke bichharne ka dil meiṅ gham
   Khaime se aa rahi thi sada-e-buka baham
 
   2
@@ -28,12 +28,12 @@ romanLyrics: |-
 
   3
   Jis waqt istighasa-e-Abbas ko suna
-  Jaate the ran mein thokareṅ khaate Shah-e-Huda
-  Naagah ek simt mein baazu para mila
+  Jaate the ran meiṅ thokareṅ khaate Shah-e-Huda
+  Naagah ek simt meiṅ baazu para mila
   Dil thaam kar Husain ne us ko utha liya
 
   4
-  Bhai ke baad ran mein gaya naujawaṅ pisar
+  Bhai ke baad ran meiṅ gaya naujawaṅ pisar
   Barchi ne tukre kar diya us ka dil o jigar
   Pahunche qarib laash ke aur baithe khaak par
   Barchi jigar se khainchi to hatif ne di khabar
@@ -51,7 +51,7 @@ romanLyrics: |-
   Haathoṅ pe apne laate haiṅ Bano ke mahjabiṅ
 
   7
-  Maidaṅ mein shir khwar ko laae junhi Husain
+  Maidaṅ meiṅ shir khwar ko laae junhi Husain
   Khoya sipah-e-Sham ne apna sukun o chain
   Paikaṅ gale se lipta hua kar raha tha bain
   Kis sabr se juda kiya wo Shah-e-Mashriqain
@@ -65,7 +65,7 @@ romanLyrics: |-
   9
   Lipta ke apni beti ko Sarwar ne ye kaha
   Sab ho gae Anis o aizza mere juda
-  Hum jaaeṅ qatl gaah mein hai marzi-e-Khuda
+  Hum jaaeṅ qatl gaah meiṅ hai marzi-e-Khuda
   Ran ko sidhaare kehte hue Shah alwida
 # source_id: nohayonline:1afca99a785a4f2becc5
 # source_url: https://www.nohayonline.com/details_content.php?id=372

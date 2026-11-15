@@ -1,6 +1,6 @@
 ---
 title: "تڑپ کر سید سجاد روئے"
-alternateTitle: "Tadap Kar Sayyede"
+alternateTitle: "Tarap Kar Sayyede"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,18 +11,18 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Tadap kar Sayyed-e-Sajjad roye
+  Tarap kar Sayyed-e-Sajjad roye
 
   Dafn karne ke liye laash-e-shahidaan-e-wafa
   Karbala aaye ba aijaaz-e-imamat Maula
   Chaar su bikhre hue tukroṅ ko jis dam dekha
   Phat gaya qalb o jigar zabt ka yaara na raha
 
-  Lahad mein laasha-e-Abbas rakh kar
-  Tadap kar Sayyed-e-Sajjad roye
+  Lahad meiṅ laasha-e-Abbas rakh kar
+  Tarap kar Sayyed-e-Sajjad roye
 
-  Nigaahoṅ mein tha Aashura ka manzar
-  Tadap kar Sayyed-e-Sajjad roye
+  Nigaahoṅ meiṅ tha Aashura ka manzar
+  Tarap kar Sayyed-e-Sajjad roye
 
   1
   Kabhi laashe ke tukre chumte the
@@ -56,7 +56,7 @@ romanLyrics: |-
 
   7
   Mukammal ho gaya jis dam dafina
-  Kiya talqin mein zikr-e-Sakina
+  Kiya talqin meiṅ zikr-e-Sakina
   Bataaya chhin gaye kaanoṅ se gauhar
 
   8

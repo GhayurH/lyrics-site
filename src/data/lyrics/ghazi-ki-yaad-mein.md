@@ -15,7 +15,7 @@ romanLyrics: |-
   Haae Abbas haae Abbas haae Abbas
 
   1
-  Ghazi ki yaad mein yuṅ royi Sakina
+  Ghazi ki yaad meiṅ yuṅ royi Sakina
   Patthar aaṅkheṅ bhar aaiyaaṅ
   Pyaasoṅ ka lahu to arzhan tha
   Paani ki wohi mehṅgaaiyaaṅ
@@ -39,17 +39,17 @@ romanLyrics: |-
   4
   Ae daamaan-e-saahil tu in ko
   Abbas ke shaane mat kehna
-  Ye zabt-e-wigha mein hai Ghazi ki
+  Ye zabt-e-wigha meiṅ hai Ghazi ki
   Do tuti hui angraaiyaaṅ
 
   5
-  Maidaaṅ mein Aun o Muhammad ne
+  Maidaaṅ meiṅ Aun o Muhammad ne
   Darya ki ye taraf rukh bhi na kiya
   Dekhi na gayi yuṅ pyaasoṅ ki
   Paani se ye beparwaahiyaaṅ
 
   6
-  Hai ek rasan mein baarah gale
+  Hai ek rasan meiṅ baarah gale
   Saaye ke sataaye dhup jale
   Beparda phiraayi jaati hai
   Abbas teri maajaaiyaaṅ
@@ -57,13 +57,13 @@ romanLyrics: |-
   7
   Nau ras ghunche paamaal hue
   Gul phul samar behaal hue
-  Zehra o Ali ke aangan mein
+  Zehra o Ali ke aangan meiṅ
   Ulti chal gayi purwaaiyaaṅ
 
   8
-  Tujhe Shadman rota hai ab tak
+  Tujhe Shadmaṅ rota hai ab tak
   Ae sina-e-zakhmi Akbar ke
-  Dekhi hai Sarosh ne ashkoṅ mein
+  Dekhi hai Sarosh ne ashkoṅ meiṅ
   Tere zakhm ki si gehraaiyaaṅ
 # source_id: nohayonline:4ee4b6b69c68d2000bfb
 # source_url: https://www.nohayonline.com/details_content.php?id=3211

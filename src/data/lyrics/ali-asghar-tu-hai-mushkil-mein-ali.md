@@ -1,6 +1,6 @@
 ---
 title: "علی اصغر تو ہے مشکل میں علی"
-alternateTitle: "Ali Asghar Tu Hai Mushkil Mein Ali"
+alternateTitle: "Ali Asghar Tu Hai Mushkil Meiṅ Ali"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -14,14 +14,14 @@ published: true
 # source_url: https://tajpoints.com/2019/03/ali-asghar-tu-hai-mushkil-mein-ali.html
 # raw_sha256: a681ad19b4f27132d5e1c000233b1d08b87c77b3da5e00187d2699642d6f8990
 romanLyrics: |-
-  Ali Asghar tu hai mushkil mein Ali
-  Karbala mein jise dushman ne kaha Sher-e-Jali
+  Ali Asghar tu hai mushkil meiṅ Ali
+  Karbala meiṅ jise dushman ne kaha Sher-e-Jali
 
   1
   Tere dada ne to Khaibar ko ukhara Asghar
-  Tu ne Islam ko Karbal mein bachaya Asghar
-  Tujh ko Shabbir ne maidan mein bulaya Asghar
-  Jaise Khaibar mein Nabi ne bhi pukara tha Ali
+  Tu ne Islam ko Karbal meiṅ bachaya Asghar
+  Tujh ko Shabbir ne maidan meiṅ bulaya Asghar
+  Jaise Khaibar meiṅ Nabi ne bhi pukara tha Ali
 
   2
   Hum to Abbas ke parcham se dua karte haiṅ
@@ -36,9 +36,9 @@ romanLyrics: |-
   Baat ye maan lo hum chhote bare sab haiṅ Ali
 
   4
-  Chacha Abbas ke jaisa na jawaṅ huṅ Baba
+  Chacha Abbas ke jaisa na jawaaṅ huṅ Baba
   Bhai Akbar ki tarah na hi bara huṅ Baba
-  Aaj maidan mein main aise laruṅga Baba
+  Aaj maidan meiṅ maiṅ aise laruṅga Baba
   Ke sabhi dushman-e-din bhi ye pukareṅge Ali
 ---
 

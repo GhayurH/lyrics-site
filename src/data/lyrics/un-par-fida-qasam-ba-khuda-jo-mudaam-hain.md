@@ -12,7 +12,7 @@ aliases: ["Un Par Fida Qasam Ba-Khuda Jo Mudaam Hain"]
 published: true
 romanLyrics: |-
   Un par fida qasam bakhuda jo mudaam haiṅ
-  Un ke liye bahisht mein Kausar ke jaam haiṅ
+  Un ke liye bahisht meiṅ Kausar ke jaam haiṅ
 
   1
   Baarah Imam wird-e-zabaan subh o shaam haiṅ
@@ -34,7 +34,7 @@ romanLyrics: |-
 
   4
   Din raat jo bhi wird kare in ke naam ko
-  Ye naam shaah karte haiṅ pal mein ghulaam ko
+  Ye naam shaah karte haiṅ pal meiṅ ghulaam ko
   Pahuṅchaao subh o shaam sada is payaam ko
   Gar pina chaahte ho jo Kausar ke jaam ko
 # source_id: tajpoints:6b6c9d5fee81906fc371

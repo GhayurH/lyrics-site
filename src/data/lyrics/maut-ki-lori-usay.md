@@ -11,8 +11,8 @@ tags: []
 aliases: ["Maut Ki Lori Usay"]
 published: true
 romanLyrics: |-
-  Maut ki lori use ran mein qaza deti hai
-  Aur maaṅ khaimoṅ mein jine ki dua deti hai
+  Maut ki lori use ran meiṅ qaza deti hai
+  Aur maaṅ khaimoṅ meiṅ jine ki dua deti hai
 
   1
   Chhe mahine ka gala aur seh pehlu paikaaṅ
@@ -32,7 +32,7 @@ romanLyrics: |-
 
   5
   Mamta ko ye tasalli bhi hai bas zindaaṅ talak
-  Maaṅ jo pehlu mein Sakina ko sula deti hai
+  Maaṅ jo pehlu meiṅ Sakina ko sula deti hai
 
   6
   Ek to nind hi aati nahiṅ maaṅ ko Asghar
@@ -40,10 +40,10 @@ romanLyrics: |-
 
   7
   Shaam ki aurateṅ karti thi ye Aabid se sawaal
-  Dhup mein kaun hai ye kis ko sada deti hai
+  Dhup meiṅ kaun hai ye kis ko sada deti hai
 
   8
-  Raat hoti hai to zindaaṅ mein maadar-e-Akbar
+  Raat hoti hai to zindaaṅ meiṅ maadar-e-Akbar
   Loriyoṅ ki jagah ek noha suna deti hai
 # source_id: nohayonline:892c2c7f6bc32b00c328
 # source_url: https://www.nohayonline.com/details_content.php?id=2105

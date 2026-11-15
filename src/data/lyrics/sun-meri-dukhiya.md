@@ -31,7 +31,7 @@ romanLyrics: |-
   Ae Fatima Sughra
 
   3
-  Main chhor ke jaata huṅ tujhe ae meri dukhtar
+  Maiṅ chhor ke jaata huṅ tujhe ae meri dukhtar
   Kiuṅ hoti ho muztar
   Aaeiṅ ge tujhe lene ko Akbar tere bhaiya
   Ae Fatima Sughra
@@ -43,7 +43,7 @@ romanLyrics: |-
   Ae Fatima Sughra
 
   5
-  Jaata huṅ main aawaara watan apne watan se
+  Jaata huṅ maiṅ aawaara watan apne watan se
   Aur ranj o mehan se
   Ab sabr ki manzil se guzarna hi parega
   Ae Fatima Sughra
@@ -56,8 +56,8 @@ romanLyrics: |-
 
   7
   Ab mere tasavvur meiṅ Khuda jaane hai kya kya
-  Main tujh se kahuṅ kya
-  Main Karbobala meiṅ huṅ tera naama bar aaya
+  Maiṅ tujh se kahuṅ kya
+  Maiṅ Karbobala meiṅ huṅ tera naama bar aaya
   Ae Fatima Sughra
 
   8
@@ -79,7 +79,7 @@ romanLyrics: |-
   Ae Fatima Sughra
 
   11
-  Sughra se ye kehte haiṅ Kaleem Hazrat-e-Shabbir
+  Sughra se ye kehte haiṅ Kalim Hazrat-e-Shabbir
   Aur Zainab-e-dilgir
   Marzi hai jo Allah ki woh ho ke rahega
   Ae Fatima Sughra

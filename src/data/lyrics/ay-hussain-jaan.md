@@ -64,7 +64,7 @@ romanLyrics: |-
   Lab pe subh o shaam ho yehi fughaaṅ
 
   11
-  Do sada Fareed maatam-e-Husain
+  Do sada Farid maatam-e-Husain
   Koi gham na ho juz gham-e-Husain
   Hashr tak rahe bas yehi samaaṅ
 # source_id: nohayonline:d07773c0b5991df7a242

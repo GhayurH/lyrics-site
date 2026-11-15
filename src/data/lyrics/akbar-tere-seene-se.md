@@ -1,6 +1,6 @@
 ---
 title: "ڈر ہے نکل آئے نہ سینے سے کلیجہ"
-alternateTitle: "Akbar Tere Seene Se"
+alternateTitle: "Akbar Tere Sine Se"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -17,9 +17,9 @@ romanLyrics: |-
   Akbar tere sine se sinaṅ kaise nikaluṅ
 
   1
-  Aasan nahiṅ piri mein sehna koi sadma
-  Ek baap ka marna hai jawaṅ bete ka marna
-  Dam niklega tera to main mar jaunga beta
+  Aasan nahiṅ piri meiṅ sehna koi sadma
+  Ek baap ka marna hai jawaaṅ bete ka marna
+  Dam niklega tera to maiṅ mar jaunga beta
 
   2
   Sina tera zakhmi hai lahu behta hai saara
@@ -27,18 +27,18 @@ romanLyrics: |-
   Sine ko tere baap ne bachpan se hai chuma
 
   3
-  Tar khun mein bete ko bhala dekhegi kaise
+  Tar khun meiṅ bete ko bhala dekhegi kaise
   Jaari hai abhi khun tere zakhm-e-jigar se
   Mar jaegi ye dekh ke madar teri Laila
 
   4
   Barchhi jo nikali to na reh paoge zinda
-  Mushkil mein bahut aaj hai beta tera Baba
-  Malum hai mar jaoge kuchh der mein beta
+  Mushkil meiṅ bahut aaj hai beta tera Baba
+  Malum hai mar jaoge kuchh der meiṅ beta
 
   5
-  Haathoṅ mein nikal jaega dam Ae mere beta
-  Is dasht mein reh jaunga ab bekas o tanha
+  Haathoṅ meiṅ nikal jaega dam Ae mere beta
+  Is dasht meiṅ reh jaunga ab bekas o tanha
   Ye soch ke rota hai bahut ye tera Baba
 
   6
@@ -48,7 +48,7 @@ romanLyrics: |-
 
   7
   Baithi hai yehi aas lagae hue dukhiya
-  Dulha main banaungi mera aaega bhaiya
+  Dulha maiṅ banaungi mera aaega bhaiya
   Sehre ko sajati hui reh jaegi Sughra
 
   8

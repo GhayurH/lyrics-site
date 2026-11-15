@@ -1,6 +1,6 @@
 ---
 title: "بے ردا ہے رسول کی بیٹی"
-alternateTitle: "Berida Hai Rasool"
+alternateTitle: "Berida Hai Rasul"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Berida hai Rasool ki beti
+  Berida hai Rasul ki beti
   Aur bazaar-e-Shaam aaya hai
   Koi durroṅ se kar raha hai jafa
   Koi haṅste hue rulaata hai

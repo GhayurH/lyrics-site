@@ -14,27 +14,27 @@ romanLyrics: |-
   Abbas ke marne se tuti hai kamar Shah ki
   Viraan hui dunya Akbar tere marne se
   Kya tujhko khabar Akbar jo guzri hai maadar par
-  Ik barchhi ka phal tere sine mein utarne se
+  Ik barchhi ka phal tere sine meiṅ utarne se
 
   1
   Aa jaate the pehle to tum ik sada par hi
   Aate nahiṅ ab maaṅ ke faryaad bhi karne se
 
   2
-  Kis haal mein Sughra ko tum chhor gaye Akbar
+  Kis haal meiṅ Sughra ko tum chhor gaye Akbar
   Fursat hi nahiṅ milti aaheṅ use bharne se
 
   3
   Jab dekha sar-e-Akbar Laila ne kaha ro kar
-  Ae kaash main mar jaati pehle tere marne se
+  Ae kaash maiṅ mar jaati pehle tere marne se
 
   4
   Kya dard ka aalam hai har laash tarapti hai
   Maaṅ behnoṅ ke beparda maqtal se guzarne se
 
   5
-  Ik laasha taraayi mein uthta kabhi girta tha
-  Shabbir ke maqtal mein uthne kabhi girne se
+  Ik laasha taraayi meiṅ uthta kabhi girta tha
+  Shabbir ke maqtal meiṅ uthne kabhi girne se
 
   6
   Binaai chhini Shah ki Izhaar sar-e-maqtal

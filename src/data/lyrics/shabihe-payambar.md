@@ -18,73 +18,73 @@ romanLyrics: |-
   1
   Ye Sibt-e-Payambar ki Laila ki kamaayi hai
   Kya maadar-e-Akbar ne taqdir ye paayi hai
-  Khaimoṅ mein bapa maatam khaimoṅ mein bapa maatam
+  Khaimoṅ meiṅ bapa maatam khaimoṅ meiṅ bapa maatam
   Ae mere jawaaṅ Akbar zibh ba maidaaṅ
 
   2
   Jo naazoṅ ka paala hai athaarah baras waala
   Laila ka dulaara hai athaarah baras waala
-  Khaimoṅ mein bapa maatam khaimoṅ mein bapa maatam
+  Khaimoṅ meiṅ bapa maatam khaimoṅ meiṅ bapa maatam
   Ae mere jawaaṅ Akbar zibh ba maidaaṅ
 
   3
   Socha bhi na tha maaṅ ne ye din kabhi aayega
-  Marne ke liye Akbar maidaan mein jaayega
-  Khaimoṅ mein bapa maatam khaimoṅ mein bapa maatam
+  Marne ke liye Akbar maidaan meiṅ jaayega
+  Khaimoṅ meiṅ bapa maatam khaimoṅ meiṅ bapa maatam
   Ae mere jawaaṅ Akbar zibh ba maidaaṅ
 
   4
   Khaayega kaleje par jis waqt sinaaṅ Akbar
   Ye teri khabar sun ke mar jaayegi maaṅ Akbar
-  Khaimoṅ mein bapa maatam khaimoṅ mein bapa maatam
+  Khaimoṅ meiṅ bapa maatam khaimoṅ meiṅ bapa maatam
   Ae mere jawaaṅ Akbar zibh ba maidaaṅ
 
   5
-  Jaata hai jo maqtal mein waapas woh nahiṅ aata
+  Jaata hai jo maqtal meiṅ waapas woh nahiṅ aata
   Taqdir dikhaaye na Akbar ka kahiṅ laasha
-  Khaimoṅ mein bapa maatam khaimoṅ mein bapa maatam
+  Khaimoṅ meiṅ bapa maatam khaimoṅ meiṅ bapa maatam
   Ae mere jawaaṅ Akbar zibh ba maidaaṅ
 
   6
   Akbar teri shaadi ka armaan tha khwaahar ko
   Poshaak shaahaani woh pehnaaye baraadar ko
-  Khaimoṅ mein bapa maatam khaimoṅ mein bapa maatam
+  Khaimoṅ meiṅ bapa maatam khaimoṅ meiṅ bapa maatam
   Ae mere jawaaṅ Akbar zibh ba maidaaṅ
 
   7
   Piri hai naqaahat hai aur Sibt-e-Payambar hai
   Farzand ki mayyat hai aur Sibt-e-Payambar hai
-  Khaimoṅ mein bapa maatam khaimoṅ mein bapa maatam
+  Khaimoṅ meiṅ bapa maatam khaimoṅ meiṅ bapa maatam
   Ae mere jawaaṅ Akbar zibh ba maidaaṅ
 
   8
   Phir kaun bachaayega karti thi buka maadar
   Chhineṅ ge laiṅ aa ke jab sar se mere chaadar
-  Khaimoṅ mein bapa maatam khaimoṅ mein bapa maatam
+  Khaimoṅ meiṅ bapa maatam khaimoṅ meiṅ bapa maatam
   Ae mere jawaaṅ Akbar zibh ba maidaaṅ
 
   9
   Akbar ne dam-e-rukhsat jine ki duaaeṅ li
   Aur kaaṅpte haathoṅ se Zainab ne balaaeṅ li
-  Khaimoṅ mein bapa maatam khaimoṅ mein bapa maatam
+  Khaimoṅ meiṅ bapa maatam khaimoṅ meiṅ bapa maatam
   Ae mere jawaaṅ Akbar zibh ba maidaaṅ
 
   10
-  Beta na kisi ka yuṅ mar jaaye jawaani mein
-  Maatam ki sadaaeṅ hai darya ki rawaani mein
-  Khaimoṅ mein bapa maatam khaimoṅ mein bapa maatam
+  Beta na kisi ka yuṅ mar jaaye jawaani meiṅ
+  Maatam ki sadaaeṅ hai darya ki rawaani meiṅ
+  Khaimoṅ meiṅ bapa maatam khaimoṅ meiṅ bapa maatam
   Ae mere jawaaṅ Akbar zibh ba maidaaṅ
 
   11
   Zehra ki inaayat hai parhta hai Naqi nauha
   Hamshakl-e-Payambar ka Shabbir ko hai pursa
-  Khaimoṅ mein bapa maatam khaimoṅ mein bapa maatam
+  Khaimoṅ meiṅ bapa maatam khaimoṅ meiṅ bapa maatam
   Ae mere jawaaṅ Akbar zibh ba maidaaṅ
 
   12
   Mil jaaye jo Akbar ki dehliz mujhe Mehshar
   Din raat parhuṅ nauha ye khaak pe sar rakh kar
-  Khaimoṅ mein bapa maatam khaimoṅ mein bapa maatam
+  Khaimoṅ meiṅ bapa maatam khaimoṅ meiṅ bapa maatam
   Ae mere jawaaṅ Akbar zibh ba maidaaṅ
 # source_id: nohayonline:81e7b5fbf77f987d2182
 # source_url: https://www.nohayonline.com/details_content.php?id=1983

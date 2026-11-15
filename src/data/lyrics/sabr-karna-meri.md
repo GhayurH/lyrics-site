@@ -15,13 +15,13 @@ romanLyrics: |-
   Sabr karna meri jaan Sakina
 
   1
-  Maaṅ ki aaghosh mein kal se sona
+  Maaṅ ki aaghosh meiṅ kal se sona
   Yaad aaye meri jab na rona
   Mujh se itna karo aaj waada
   Sabr karna meri jaan Sakina
 
   2
-  Jab na aauṅga waapas main ran se
+  Jab na aauṅga waapas maiṅ ran se
   Baandhe jaayeṅge shaane rasan se
   Aur rida sar se chhineṅge aadaa
   Sabr karna meri jaan Sakina
@@ -39,8 +39,8 @@ romanLyrics: |-
   Sabr karna meri jaan Sakina
 
   5
-  Misl-e-Abbas hoṅga juda main
-  Na samajhna huṅ tum se khafa main
+  Misl-e-Abbas hoṅga juda maiṅ
+  Na samajhna huṅ tum se khafa maiṅ
   Saath tere rahuṅga hamesha
   Sabr karna meri jaan Sakina
 
@@ -52,7 +52,7 @@ romanLyrics: |-
 
   7
   Tera Baba to zinda hai ab tak
-  Sochta huṅ rahuṅga main kab tak
+  Sochta huṅ rahuṅga maiṅ kab tak
   Ho gaya hai ye dushman zamaana
   Sabr karna meri jaan Sakina
 

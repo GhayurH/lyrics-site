@@ -29,7 +29,7 @@ romanLyrics: |-
   Jo zulm hue in pe batate hi raheṅge
 
   3
-  Pamal ran mein ho gaya jis dam Hasan ka laal
+  Pamal ran meiṅ ho gaya jis dam Hasan ka laal
   Is gham ka qalb-e-Shah pe kiuṅ kar na ho malal
   Kehti thi Umm-e-Farwa ke ae Rabb-e-Zuljalal
   Ek raat ke dulhe ki hui laash paymal
@@ -37,16 +37,16 @@ romanLyrics: |-
 
   4
   Barchhi lagi Akbar ko tarapne lage Shabbir
-  Pahunche jawaṅ ki laash pe jab Sarwar-e-dilgir
+  Pahunche jawaaṅ ki laash pe jab Sarwar-e-dilgir
   Zainab ki thi sada ke miti Nana ki tasvir
-  Kehti thi Karbala mein meri lut gayi jagir
+  Kehti thi Karbala meiṅ meri lut gayi jagir
   Laila pe jo guzri wo sunate hi raheṅge
 
   5
   Haathoṅ pe Sheh ke chhid gaya masum ka gala
   Roye tarap ke arz o sama aaya zalzala
   Zehra o Mustafa ne lahad se ye di sada
-  Bachcha wo chheh mahine ka wo teer-e-Hurmala
+  Bachcha wo chheh mahine ka wo tir-e-Hurmala
   Guzri jo bezabaṅ pe sunate hi raheṅge
 
   6
@@ -59,12 +59,12 @@ romanLyrics: |-
   7
   Jalti hui reti pe para laasha-e-besar
   Khaime haram ke jal gaye aur chhin gayi chadar
-  Uthte hue sholoṅ mein tha bimar ka bistar
+  Uthte hue sholoṅ meiṅ tha bimar ka bistar
   Kurta bhi Sakina ka jala chhin gaye gauhar
   Guzri jo yatimoṅ pe sunate hi raheṅge
 
   8
-  Yuṅ lut gaya ghurbat mein Muhammad ka gharana
+  Yuṅ lut gaya ghurbat meiṅ Muhammad ka gharana
   Rota hai jise sun ke abhi tak ye zamana
   Kiuṅ kar na Bober likhe Karbal ka fasana
   Milta hai Najaf se use lafzoṅ ka khazana

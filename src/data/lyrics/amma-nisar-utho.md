@@ -34,7 +34,7 @@ romanLyrics: |-
   Sar pe gira hai maaṅ ke ab aasmaaṅ Sakina
 
   6
-  Mahshar mein bhul jaana is ko na shahzaadi
+  Mahshar meiṅ bhul jaana is ko na shahzaadi
   Hilmi bhi hai tumhaara wo madh khwaaṅ Sakina
 # source_id: nohayonline:2c37693c09ca19667655
 # source_url: https://www.nohayonline.com/details_content.php?id=1779

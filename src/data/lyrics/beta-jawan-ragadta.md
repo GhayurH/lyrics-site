@@ -19,12 +19,12 @@ romanLyrics: |-
   Shah ko na ek khatra-e-aab-e-rawaaṅ mila
 
   2
-  Zulfoṅ mein khaak khun mein tar pyaas se nidhaal
+  Zulfoṅ meiṅ khaak khun meiṅ tar pyaas se nidhaal
   Dil tere naujawaaṅ ka ba nok-e-sinaaṅ mila
 
   3
-  Teghoṅ ki gardishoṅ mein sinaanoṅ ki chhaaoṅ mein
-  Ran mein lahu luhaan Nabi ka nishaaṅ mila
+  Teghoṅ ki gardishoṅ meiṅ sinaanoṅ ki chhaaoṅ meiṅ
+  Ran meiṅ lahu luhaan Nabi ka nishaaṅ mila
 
   4
   Rukh kar ke khaima gaah ka Shabbir ne kaha
@@ -43,8 +43,8 @@ romanLyrics: |-
   Tanha pisar ke paas Shaah-e-bekasaaṅ mila
 
   8
-  Maqtal mein dhundta hua bete ki laash ko
-  Aalam mein bekasi mein Imam-e-zaman mila
+  Maqtal meiṅ dhundta hua bete ki laash ko
+  Aalam meiṅ bekasi meiṅ Imam-e-zaman mila
 
   9
   Bete ke baad jiski koi zindagi na thi
@@ -55,7 +55,7 @@ romanLyrics: |-
   Aisa kisi Nabi ka na phir khaandaaṅ mila
 
   11
-  Majlis mein zikr jab hua Akbar ke haal ka
+  Majlis meiṅ zikr jab hua Akbar ke haal ka
   Jaaved har sharik hameṅ nauha khwaaṅ mila
 # source_id: nohayonline:391d9314b8313f6c2307
 # source_url: https://www.nohayonline.com/details_content.php?id=2758

@@ -15,7 +15,7 @@ romanLyrics: |-
   Zamin garm pe chaadar bichha rahe haiṅ Husain
 
   1
-  Jhulasti dhup mein bikhra hai chaand Shabbar ka
+  Jhulasti dhup meiṅ bikhra hai chaand Shabbar ka
   Use sametne maqtal ko jaa rahe haiṅ Husain
 
   2
@@ -23,15 +23,15 @@ romanLyrics: |-
   Ke haath malte haiṅ aaṅsu baha rahe haiṅ Husain
 
   3
-  Chacha ke aane mein taqdir ho gayi Qasim
+  Chacha ke aane meiṅ taqdir ho gayi Qasim
   Ye keh ke laash ke tukre utha rahe haiṅ Husain
 
   4
-  Ye laash ibn-e-Hasan ki aba mein rakhte haiṅ
+  Ye laash ibn-e-Hasan ki aba meiṅ rakhte haiṅ
   Ke dil ke tukre Hasan ke utha rahe haiṅ Husain
 
   5
-  Sakina kehti thi main neg luṅ gi bhai se
+  Sakina kehti thi maiṅ neg luṅ gi bhai se
   Ab us se keh do ke Qasim ko laa rahe haiṅ Husain
 
   6
@@ -55,12 +55,12 @@ romanLyrics: |-
   Saja ke apne bhatije ko laa rahe haiṅ Husain
 
   11
-  Suna raha huṅ main nauha Hasan ke dilbar ka
+  Suna raha huṅ maiṅ nauha Hasan ke dilbar ka
   Mujhe yaqiṅ hai mera dil barha rahe haiṅ Husain
 
   12
   Tarapta huṅ ye mujhe Karbala se aaye sada
-  Ke chal Rasheed Shaheedi ke bula rahe haiṅ Husain
+  Ke chal Rashid Shahidi ke bula rahe haiṅ Husain
 # source_id: nohayonline:94485e73642bc6c53b45
 # source_url: https://www.nohayonline.com/details_content.php?id=3776
 # raw_sha256: 03112353f0f272605e996491bdee65e2a8955ad0d4348561b2f8f841f2938b76

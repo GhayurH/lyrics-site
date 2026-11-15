@@ -29,13 +29,13 @@ romanLyrics: |-
 
   3
   Mannateṅ maan kar jis ko paala
-  Us ke sine mein zaalim ka bhaala
+  Us ke sine meiṅ zaalim ka bhaala
   Kaise dekhe gi maadar ye manzar
 
   4
   Jis ko dulha banaane ke din the
   Jis ko shaadi rachaane ke din the
-  Us ko dekhe maa khuṅ mein tar
+  Us ko dekhe maa khuṅ meiṅ tar
 
   5
   Koi armaan dil ka na nikla
@@ -43,12 +43,12 @@ romanLyrics: |-
   Bain karne ko laashe jawaaṅ par
 
   6
-  Rakh ke khaime mein Akbar ka laasha
+  Rakh ke khaime meiṅ Akbar ka laasha
   Sar jhuka kar bahut roye Maula
   Jab kaha Bibi Fizza ne ro kar
 
   7
-  Bain Waiz ye khaime mein gunja
+  Bain Waiz ye khaime meiṅ gunja
   Dekh le apne Yusuf ka laasha
   Khaak uraati hui pitti sar
 # source_id: nohayonline:5b6f314bb05a67af7dcd

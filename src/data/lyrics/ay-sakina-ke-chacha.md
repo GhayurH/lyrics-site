@@ -15,15 +15,15 @@ romanLyrics: |-
   Maar daalegi hameiṅ teri judaai Abbas
 
   1
-  Wo nahiṅ hoti to main aa bhi nahiṅ sakta tha
+  Wo nahiṅ hoti to maiṅ aa bhi nahiṅ sakta tha
   Tere laashe pe mujhe maaṅ meri laayi Abbas
 
   2
-  Tum yahaṅ ziṅ se gire aur wahaṅ khaime mein
+  Tum yahaṅ ziṅ se gire aur wahaṅ khaime meiṅ
   Sar se Zainab ke rida gir gayi bhai Abbas
 
   3
-  Kaise tanha main sambhaluṅ ga Ali Akbar ko
+  Kaise tanha maiṅ sambhaluṅ ga Ali Akbar ko
   Laash hum ne hai har ek mil ke uthaayi Abbas
 
   4
@@ -32,10 +32,10 @@ romanLyrics: |-
 
   5
   Ho gaye haiṅ tere Qasim se zyada tukre
-  Laash uthaauṅ main teri kis tarah bhai Abbas
+  Laash uthaauṅ maiṅ teri kis tarah bhai Abbas
 
   6
-  Mera armaan mere dil mein na reh jaaye kahiṅ
+  Mera armaan mere dil meiṅ na reh jaaye kahiṅ
   Bhai Shabbir ko ab bol do bhai Abbas
 
   7

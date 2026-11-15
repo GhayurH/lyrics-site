@@ -20,19 +20,19 @@ romanLyrics: |-
   Sarwar ki gham gusaar jahaaṅ se guzar gayi
 
   2
-  Baazu the rismaaṅ mein bandhe baddua na ki
+  Baazu the rismaaṅ meiṅ bandhe baddua na ki
   Bhai bhatije qatl hue baddua na ki
   Ahl-e-haram ke khaime jale baddua na ki
   Bhai ki jaaṅ nisaar jahaaṅ se guzar gayi
 
   3
-  Ho kar asir kucha o bazaar mein gayi
-  Kunbe ko le ke majlis-e-ghaddaar mein gayi
-  Sar nange jo Yazid ke darbaar mein gayi
+  Ho kar asir kucha o bazaar meiṅ gayi
+  Kunbe ko le ke majlis-e-ghaddaar meiṅ gayi
+  Sar nange jo Yazid ke darbaar meiṅ gayi
   Mahzun o dil figaar jahaaṅ se guzar gayi
 
   4
-  Khutba Ali ke lehje mein jis ne suna diya
+  Khutba Ali ke lehje meiṅ jis ne suna diya
   Darbaar ko Yazid ke jis ne hila diya
   Tha haq pe kaun jis ne jahaaṅ ko bata diya
   Haq bin o haq shiaar jahaaṅ se guzar gayi
@@ -44,15 +44,15 @@ romanLyrics: |-
   Kunbe ki sogwaar jahaaṅ se guzar gayi
 
   6
-  Thi Haideri jalaal ki taswir Shaam mein
-  Ki maqsad-e-Husain ki tashhir Shaam mein
-  Rakhi binaa-e-majlis-e-Shabbir Shaam mein
+  Thi Haideri jalaal ki taswir Shaam meiṅ
+  Ki maqsad-e-Husain ki tashhir Shaam meiṅ
+  Rakhi binaa-e-majlis-e-Shabbir Shaam meiṅ
   Maatam ki zimmedaar jahaaṅ se guzar gayi
 
   7
   Zaalim ne belche se jise kar diya shahid
   Kaise kahuṅ jo us pe mazaalim hue shadid
-  Dil kaanpta hai zabt ka yaara nahiṅ Saeed
+  Dil kaanpta hai zabt ka yaara nahiṅ Said
   Zehra ki yaadgaar jahaaṅ se guzar gayi
 # source_id: nohayonline:b27dc608289f4c4acd15
 # source_url: https://www.nohayonline.com/details_content.php?id=3343

@@ -17,18 +17,18 @@ romanLyrics: |-
   Baba ko na leke jaa Zuljana
 
   1
-  Main jaanti huṅ wafadaar tu hai
+  Maiṅ jaanti huṅ wafadaar tu hai
   Baba ke ghore samajhdaar tu hai
   Daagh-e-yatimi se mujhko bacha
 
   2
-  Main gham-e-yatimi ka seh na sakuṅ gi
-  Bin baba jaaṅ ke main reh na sakuṅ gi
+  Maiṅ gham-e-yatimi ka seh na sakuṅ gi
+  Bin baba jaaṅ ke maiṅ reh na sakuṅ gi
   Ehsaan kar mujh pe ae ba wafa
 
   3
   Nind aati hai mujhko sadr-e-padar par
-  Main khaak pe haye souṅ gi kiuṅ kar
+  Maiṅ khaak pe haye souṅ gi kiuṅ kar
   Hai meri tujhse yehi ilteja
 
   4
@@ -44,7 +44,7 @@ romanLyrics: |-
   6
   Maujud hote agar mere ammu
   Behte na yuṅ mere aankhoṅ se aansuṅ
-  Deti na main tujhko ro kar sada
+  Deti na maiṅ tujhko ro kar sada
 
   7
   Waiz Sakina ki aah o buka par

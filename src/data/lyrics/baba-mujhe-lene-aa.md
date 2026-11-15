@@ -17,7 +17,7 @@ romanLyrics: |-
   Baba mujhe lene aa gaye haiṅ
 
   1
-  Duaaoṅ mein meri asar aa gaya hai
+  Duaaoṅ meiṅ meri asar aa gaya hai
   Jo maanga tha chal ke idhar aa gaya hai
   Muqaddar ka suraj nazar aa gaya hai
   Andhere gaye kya diyoṅ ko jalaana
@@ -26,12 +26,12 @@ romanLyrics: |-
   Mere bhai sab khwaab pure huwe haiṅ
   Mere baba zindaaṅ ke dar pe khare haiṅ
   Ye maana jo bhai ke sadme bare haiṅ
-  Main so jaauṅ gi ban ke tum na jagaana
+  Maiṅ so jaauṅ gi ban ke tum na jagaana
 
   3
   Wo jab munh pe munh rakh ke mujhko jagaaye
   Sakina Sakina wo keh ke bulaaye
-  Wo godi mein le kar jo dil se lagaaye
+  Wo godi meiṅ le kar jo dil se lagaaye
   Mere zakhmi kaanoṅ ko un se chhupaana
 
   4
@@ -53,9 +53,9 @@ romanLyrics: |-
   Tu Ghazi ko aawaaz de kar bulaana
 
   7
-  Jab aayegi zindaaṅ mein unki sawaari
+  Jab aayegi zindaaṅ meiṅ unki sawaari
   To ji jaayegi ye musibat ki maari
-  Sunaauṅ gi main dukh unheiṅ baari baari
+  Sunaauṅ gi maiṅ dukh unheiṅ baari baari
   Kahuṅ gi ab aaye ho jaana kahiṅ na
 
   8

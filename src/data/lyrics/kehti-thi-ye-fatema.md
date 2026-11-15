@@ -29,19 +29,19 @@ romanLyrics: |-
   Aaoge to kab aaoge
 
   3
-  Ghar ki viraani mein jo izaafa
+  Ghar ki viraani meiṅ jo izaafa
   Ho jaata hai aur shaam dhale
   Noha gar hai khaali hujra
   Aaoge to kab aaoge
 
   4
   Koi chiraagh jalaane wala
-  Shehr-e-Madine mein na raha
+  Shehr-e-Madine meiṅ na raha
   Viraan hai sarkaar ka rauza
   Aaoge to kab aaoge
 
   5
-  Roshni hogi kab hujroṅ mein
+  Roshni hogi kab hujroṅ meiṅ
   Kab viraani jaaye gi
   Gher raha hai mujhko andhera
   Aaoge to kab aaoge

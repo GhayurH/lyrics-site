@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Haaye jab raah-e-Shaam mein
+  Haaye jab raah-e-Shaam meiṅ
   Dekha gharib baap ka sar
   Nok-e-sinaaṅ par to Sakina ne
   Tarap kar ye kiya tha nauha
@@ -19,20 +19,20 @@ romanLyrics: |-
 
   1
   Jab koi yateema kehta hai
-  Mujhe aap bahut yaad aate hain
+  Mujhe aap bahut yaad aate haiṅ
   Kab hoga safar khatm ye mera
-  Raahoṅ mein kaantoṅ par
-  Chalte chalte main thak gayi huṅ
+  Raahoṅ meiṅ kaantoṅ par
+  Chalte chalte maiṅ thak gayi huṅ
   Baba jaan
 
   2
-  Jab se rasan mein ye gala hai
+  Jab se rasan meiṅ ye gala hai
   Baba mera dam ghut raha hai
   Mushkil hai ye safar ae baba
-  Main is safar mein mar na jaauṅ
+  Maiṅ is safar meiṅ mar na jaauṅ
   Aa kar sambhaalo gir na jaauṅ
   Khaak par dekho naaṅ panjoṅ par
-  Chalte chalte main thak gayi huṅ
+  Chalte chalte maiṅ thak gayi huṅ
   Baba jaan
 
   3
@@ -40,9 +40,9 @@ romanLyrics: |-
   Baba mera daaman jalaya
   Chhine mere gauhar ae baba
   Deti rahi ro kar duhaai
-  Baaloṅ se khincha jab main aayi
+  Baaloṅ se khincha jab maiṅ aayi
   Laash par zakhmi hai mera sar
-  Chalte chalte main thak gayi huṅ
+  Chalte chalte maiṅ thak gayi huṅ
   Baba jaan
 
   4
@@ -52,47 +52,47 @@ romanLyrics: |-
   Baba teri jis par nazar hai
   Haaṅ wo mere bhaai ka sar hai
   Puchho zara sunta nahiṅ kiuṅ Akbar
-  Chalte chalte main thak gayi huṅ
+  Chalte chalte maiṅ thak gayi huṅ
   Baba jaan
 
   5
-  Sab dekhte hain bas tamaasha
+  Sab dekhte haiṅ bas tamaasha
   Jo bhi mila dekho tamaancha
   Us ne maara mujhe ae baba
   Kab tak riha hogi Sakina
   Yaad aa raha hai ab Madina
-  Baba mujhe jaauṅ gi main kab ghar
-  Chalte chalte main thak gayi huṅ
+  Baba mujhe jaauṅ gi maiṅ kab ghar
+  Chalte chalte maiṅ thak gayi huṅ
   Baba jaan
 
   6
   Ro kar Sakina ne sada di
   Sine pe sone ki huṅ aadi
   Nind aayi hai mujhe ae baba
-  Main khaak par so na sakuṅ gi
+  Maiṅ khaak par so na sakuṅ gi
   Bas ye sada deti rahuṅ gi
-  Baba tujhe godi mein lo aa kar
-  Chalte chalte main thak gayi huṅ
+  Baba tujhe godi meiṅ lo aa kar
+  Chalte chalte maiṅ thak gayi huṅ
   Baba jaan
 
   7
   Pyaasi ko sab ne yuṅ sataya
   Paani dikhaya aur bahaya
-  Kya kya main ne saha ae baba
+  Kya kya maiṅ ne saha ae baba
   Naize se ammu ka gira sar
   Jab Shaam waaloṅ se tarap kar
-  Main ne kaha paani mujhe do laa kar
-  Chalte chalte main thak gayi huṅ
+  Maiṅ ne kaha paani mujhe do laa kar
+  Chalte chalte maiṅ thak gayi huṅ
   Baba jaan
 
   8
-  Darbaar mein manzar jo dekha
+  Darbaar meiṅ manzar jo dekha
   Zishaan wo kaise likhega
   Ae Irfaan-e-aza ae baba
   Beti ne ro ke jab sada di
-  Baba ka sar godi mein us ki
+  Baba ka sar godi meiṅ us ki
   Aa gaya kehti rahi ro ro kar
-  Chalte chalte main thak gayi huṅ
+  Chalte chalte maiṅ thak gayi huṅ
   Baba jaan
 # source_id: nohayonline:2b6843d2edbf68a3135a
 # source_url: https://www.nohayonline.com/details_content.php?id=2825

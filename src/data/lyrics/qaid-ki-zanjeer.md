@@ -14,11 +14,11 @@ romanLyrics: |-
   Maatam hai aaj mominoṅ aise asir ka
   Jis ke badan ko qaid ki zanjir khaa gayi
 
-  Zindaaṅ mein ab bhi gunjta hai us ka marsiya
+  Zindaaṅ meiṅ ab bhi gunjta hai us ka marsiya
   Jis ke badan ko qaid ki zanjir khaa gayi
 
   1
-  Zindaaṅ ke andhere mein mushkil kushaai ki
+  Zindaaṅ ke andhere meiṅ mushkil kushaai ki
   Karta raha duaaeṅ jo apne rihaai ki
   Lo aaj us ke waaste zindaan khul gaya
 
@@ -38,14 +38,14 @@ romanLyrics: |-
   Marne pe bhi na tauq-e-giraaṅ baar khul saka
 
   5
-  Quraan-e-Kirdigaar ke paare haiṅ qaid mein
-  Ro ro ke chaudah saal guzaare haiṅ qaid mein
+  Quraan-e-Kirdigaar ke paare haiṅ qaid meiṅ
+  Ro ro ke chaudah saal guzaare haiṅ qaid meiṅ
   Aakhir wo aaj ho gaya zindaan se riha
 
   6
   Pul par andheri raat ko rakhne ko aaye haiṅ
   Mazdur apne kaandhoṅ pe laasha uthaae haiṅ
-  Roti hai us ke haal pe marqad mein Fatima
+  Roti hai us ke haal pe marqad meiṅ Fatima
 
   7
   Kitna gharib aaj hamaara Imam hai
@@ -59,7 +59,7 @@ romanLyrics: |-
 
   9
   Aini salaam saiṅkroṅ Aamir ke ho use
-  Chalta tha qaid khaane mein jo baith baith ke
+  Chalta tha qaid khaane meiṅ jo baith baith ke
   Rangin us ke khun se zindaaṅ ka farsh tha
 # source_id: nohayonline:c159c67d711c0c6f71ff
 # source_url: https://www.nohayonline.com/details_content.php?id=1288

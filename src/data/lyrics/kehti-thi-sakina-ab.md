@@ -16,7 +16,7 @@ romanLyrics: |-
   1
   Allah ye kaisa waqt para
   Koi bhi nahiṅ meri sunta
-  Ho jaauṅ gi main tum se khafa
+  Ho jaauṅ gi maiṅ tum se khafa
   Dekho na mujhe yuṅ rulwaao
   Baaba ab aa jaao
 
@@ -37,7 +37,7 @@ romanLyrics: |-
   4
   Jalte haiṅ khiyaam uthta hai dhuaaṅ
   Har simt lagi hai aag yahaaṅ
-  Ab jaauṅ to main jaauṅ kahaaṅ
+  Ab jaauṅ to maiṅ jaauṅ kahaaṅ
   Itna to mujhe batlaao
   Baaba ab aa jaao
 
@@ -51,7 +51,7 @@ romanLyrics: |-
   6
   Kab se ro ro chillaati huṅ
   Aao ke tamaache khaati huṅ
-  Achchha main wahiṅ aa jaati huṅ
+  Achchha maiṅ wahiṅ aa jaati huṅ
   Sote ho kahaaṅ par batlaao
   Baaba ab aa jaao
 

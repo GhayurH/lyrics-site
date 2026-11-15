@@ -13,8 +13,8 @@ published: true
 romanLyrics: |-
   Sar-e-Kufa yatimoṅ ki duaaeṅ gunjti hai
   Badal kar siskiyaaṅ ab bhi aaheṅ gunjti hai
-  Shikasta haal mein yuṅ bhi azaaṅ gunjti hai
-  Abhi tak masjidoṅ mein ye sadaaeṅ gunjti hai
+  Shikasta haal meiṅ yuṅ bhi azaaṅ gunjti hai
+  Abhi tak masjidoṅ meiṅ ye sadaaeṅ gunjti hai
 
   Sahaara kaun dega shab-e-zarbat yatimoṅ ko
   Ali ke baad Zainab ko dilaasa kaun dega
@@ -32,8 +32,8 @@ romanLyrics: |-
   Jale khaimoṅ ki zulmat ko ujaala kaun dega
 
   4
-  Jo Zainab aaj hai Kufe mein shahzaadi-e-Kufa
-  Use maqtal mein Kufe ka zamaana kaun dega
+  Jo Zainab aaj hai Kufe meiṅ shahzaadi-e-Kufa
+  Use maqtal meiṅ Kufe ka zamaana kaun dega
 
   5
   Bulaayegi tumheṅ shaam-e-gharibaaṅ bint-e-Sarwar

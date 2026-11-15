@@ -21,14 +21,14 @@ romanLyrics: |-
   Al-Nur o al-Mughni o Aziz o ya Karim
   Ghaffaar tu Sattaar tu Jabbaar ya Hakim
   Quddus ya Shakur ya Ghafur o ya Rahim
-  Maula tu bada Rehman
+  Maula tu bara Rehman
 
-  Tu hai bada Rehman Maula tu bada Rehman
-  Maula tu bada Rehman
+  Tu hai bara Rehman Maula tu bara Rehman
+  Maula tu bara Rehman
 
   1
   Ehsaan ham pe hai tera Ae Rabb-e-Zuljalaal
-  Ummat mein us ki paida kiya jo hai bemisaal
+  Ummat meiṅ us ki paida kiya jo hai bemisaal
   Dukhtar Batul jis ki Hasan aur Husain laal
   Lahmuka lahmi jis ka Ali jaisa bakamaal
   Quraan o Ahl-e-Bait ko tu ne kiya yak jaan
@@ -36,42 +36,42 @@ romanLyrics: |-
   2
   Aadam se taa ba Mehdi-e-aakhir teri ataa
   Tere karam ke baar tale saare ambiya
-  Musa ke haq mein Nil mein rasta bana diya
+  Musa ke haq meiṅ Nil meiṅ rasta bana diya
   Maslub ho ke Isa ke lab par thi ye sada
-  Har dil mein tu makin hai kehne ko la makaaṅ
+  Har dil meiṅ tu makin hai kehne ko la makaaṅ
 
   3
   Meraaj par gaye jo Rasul-e-falak janaab
-  Maabud o abd mein na raha jab koi hijaab
+  Maabud o abd meiṅ na raha jab koi hijaab
   Allah ne Nabi se kiya us ghari khitaab
   Darkaar kya hai tum ko mujhe chaahiye jawaab
   Bole Rasul bakhsh de ummat ko de amaaṅ
 
   4
   Rab ne kaha adaa karo haq-e-payambari
-  Jis waqt aaye raah mein manzil Ghadir ki
+  Jis waqt aaye raah meiṅ manzil Ghadir ki
   Takmil-e-din karna hai us waqt Ae Nabi
-  Maidaan-e-Qum mein is tarah Maula hue Ali
+  Maidaaṅ-e-Qum meiṅ is tarah Maula hue Ali
   Akmaltu lakum din ka ho jaayega saamaan
 
   5
   Zahra ke ghar sitaara jo utra to ye khula
   Mehbub Panjtan ko bahut rakhta hai Khuda
   Maktab Hasan Husain ka ye ghar bana raha
-  Masnad Nabi ki is mein musalla Ali ka tha
+  Masnad Nabi ki is meiṅ musalla Ali ka tha
   Chaukhat pe jis ki rehta hai Jibril sa darbaan
 
   6
   Is ghar ka fard fard Khuda se tha ham kalaam
-  Sajde mein sar Husain ka lab par Khuda ka naam
+  Sajde meiṅ sar Husain ka lab par Khuda ka naam
   Khanjar tale Khuda se ye kehte rahe Imam
   Sar teri nazar karta huṅ ghar de chuka tamaam
-  Aata huṅ teri simt main deta hua azaaṅ
+  Aata huṅ teri simt maiṅ deta hua azaaṅ
 
   7
   Akbar nisaar kar diya Asghar bhi de diya
   Abbas aur Qasim o Hur ko bhi ro chuka
-  Zainab ke donoṅ bachchoṅ ko sehra mein kho chuka
+  Zainab ke donoṅ bachchoṅ ko sehra meiṅ kho chuka
   Ab dast-e-zulm chaadar-e-Zainab tak aa gaya
   Le dekh le Husain ke chehre ka itminaan
 
@@ -79,7 +79,7 @@ romanLyrics: |-
   Khaimoṅ se aag aag se uthta hua dhuaaṅ
   Nanha sa ek jhula hai sholoṅ ke darmiyaaṅ
   Daaman jala Sakina ka kaise bujhaaye maaṅ
-  Baaṅdhi gayi hai haathoṅ mein Zainab ke resmaaṅ
+  Baaṅdhi gayi hai haathoṅ meiṅ Zainab ke resmaaṅ
   Ujra hua hai qaafila Sajjad saarabaaṅ
 
   9
@@ -87,7 +87,7 @@ romanLyrics: |-
   Beti Ali ki meri behan ho gayi asir
   Bedast mera bhaai hai tu sab ka dastagir
   Kufe ki shahzaadiyaṅ kaisi hui faqir
-  Phir bhi main nok-e-naiza pe deta huṅ ye bayaaṅ
+  Phir bhi maiṅ nok-e-naiza pe deta huṅ ye bayaaṅ
 
   10
   Hamd-e-Khuda hai naat-e-Nabi zikr-e-Panjtan

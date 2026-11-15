@@ -10,7 +10,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Sar Ali ka sajda-e-Khaaliq mein zarbat ke liye
+  Sar Ali ka sajda-e-Khaaliq meiṅ zarbat ke liye
   Hashr tak ik daagh-e-ruswaai hai ummat ke liye
 
   1
@@ -22,7 +22,7 @@ romanLyrics: |-
   Ho gayi qismat shahaadat har imaamat ke liye
 
   3
-  Ghar mein Khaaliq ke Amir-ul-Mominin ka qatl ho
+  Ghar meiṅ Khaaliq ke Amir-ul-Mominin ka qatl ho
   Masjid-e-Kufa bani thi is qayaamat ke liye
 # source_id: nohayonline:1f1d9465a12b5c37ce09
 # source_url: https://www.nohayonline.com/details_content.php?id=490

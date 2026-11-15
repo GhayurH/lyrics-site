@@ -49,7 +49,7 @@ romanLyrics: |-
   Tera malaaika se bhi barh kar nasib hai
   Kya martaba tujhe sar-e-mahshar nasib hai
   Jab naasiraan-e-Shaah ko Khaaliq bulaaye ga
-  Mahshar mein tu bhi saath bahattar ke jaaye ga
+  Mahshar meiṅ tu bhi saath bahattar ke jaaye ga
 
   5
   Hajj ke baghair hajj ka fariza ada kiya
@@ -63,13 +63,13 @@ romanLyrics: |-
   Kis tarah se bayaan ho manzar woh ishq ke
   Paidal jo Karbala ko nikalte haiṅ qaafile
   Koi Najaf se aur koi Basra ki raah se
-  Haathoṅ mein Ya Husain ke parcham liye hue
+  Haathoṅ meiṅ Ya Husain ke parcham liye hue
   Zaair jo Karbala ki taraf daure jaate haiṅ
   Abbas chal ke khud unheṅ lene ko aate haiṅ
 
   7
   Hoti hai ik qataar-e-mokib wahaaṅ saji
-  Khidmat mein zaairin ki rehta hai har koi
+  Khidmat meiṅ zaairin ki rehta hai har koi
   Paani liye koi to koi ban ke maalshi
   Un khaadmoṅ ke ishq pe kehta hai dil yehi
   Karte haiṅ saaf aa ke pasina jabiṅ se
@@ -78,15 +78,15 @@ romanLyrics: |-
   8
   Dulhan ki tarah raah sajaate haiṅ aashiqin
   Khaime muhabbatoṅ ke lagaate haiṅ aashiqin
-  Jo saal bhar mein rizq kamaate haiṅ aashiqin
+  Jo saal bhar meiṅ rizq kamaate haiṅ aashiqin
   Daulat woh zaairoṅ pe lutaate haiṅ aashiqin
   Kehte haiṅ phir bhi qalb hamaare na bhar sake
   Hum zaair-e-Husain ki khidmat na kar sake
 
   9
-  Jo raaste mein Karb o Bala ke guzar gaye
+  Jo raaste meiṅ Karb o Bala ke guzar gaye
   Kaise kahuṅ ke Mir Takallum woh mar gaye
-  Pardes mein the laut ke woh apne ghar gaye
+  Pardes meiṅ the laut ke woh apne ghar gaye
   Aaye ajal bataauṅ woh zaair kidhar gaye
   Daar-e-fana se mulk-e-baqa le gaye Husain
   Khud aa ke un ko Karb o Bala le gaye Husain

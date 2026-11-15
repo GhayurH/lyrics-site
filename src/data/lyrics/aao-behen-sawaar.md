@@ -34,7 +34,7 @@ romanLyrics: |-
   Himmat phir ek baar dilaao Husain ko
 
   4
-  Ek din mein mere monis o yawar juda huwe
+  Ek din meiṅ mere monis o yawar juda huwe
   Abbas na rahe Ali Akbar juda huwe
   Ab ji ke kya karega bataao Husain ko
 
@@ -46,10 +46,10 @@ romanLyrics: |-
   6
   Darya ki simt dekh kar kisko bulaati ho
   Kiuṅ behna is gharib ke dil ko dukhaati ho
-  Bhai ke gham mein ab na rulaao Husain ko
+  Bhai ke gham meiṅ ab na rulaao Husain ko
 
   7
-  Misam khiyaam-e-Shah mein mahshar bapa hua
+  Misam khiyaam-e-Shah meiṅ mahshar bapa hua
   Sheh ne Raza jo Zainab-e-dilgir se kaha
   Phir kya khabar ke dekh na paao Husain ko
 # source_id: nohayonline:0e11a74706f8795e8cfc

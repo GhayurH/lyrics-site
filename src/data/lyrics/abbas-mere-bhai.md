@@ -18,23 +18,23 @@ romanLyrics: |-
 
   1
   Aaqa hi kaha hai mujhe jab jab bhi pukara
-  Bhai kaho Abbas main bhai huṅ tumhara
-  Muddat se mere dil mein hai bas ek tamanna
+  Bhai kaho Abbas maiṅ bhai huṅ tumhara
+  Muddat se mere dil meiṅ hai bas ek tamanna
 
   2
   Paani ke liye bheja tha darya ke kinare
   Ye kis ki nazar kha gayi tum ko mere pyare
-  Baazu hai qalam khun mein duba hai pharera
+  Baazu hai qalam khun meiṅ duba hai pharera
 
   3
   Tanha mujhe is tarah na chhoro mere bhai
-  Is haal mein munh mujh se na moro mere bhai
-  Main seh nahiṅ sakta huṅ judai ka ye sadma
+  Is haal meiṅ munh mujh se na moro mere bhai
+  Maiṅ seh nahiṅ sakta huṅ judai ka ye sadma
 
   4
-  Jo daagh kaleje pe hain wo kis ko dikhauṅ
-  Main apne dukhe dil ki sada kis ko sunauṅ
-  Tum chhor ke jao mujhe dasht mein tanha
+  Jo daagh kaleje pe haiṅ wo kis ko dikhauṅ
+  Maiṅ apne dukhe dil ki sada kis ko sunauṅ
+  Tum chhor ke jao mujhe dasht meiṅ tanha
 
   5
   Har samt nazar aata hai ek dard ka manzar
@@ -47,14 +47,14 @@ romanLyrics: |-
   Tum meri zaifi ka asasa ho mere bhaiya
 
   7
-  Kiun tor chale mera bharam kuchh to batao
+  Kiuṅ tor chale mera bharam kuchh to batao
   Hai tum ko mere sar ki qasam kuchh to batao
-  Ab kis ko pukaruṅga main Saqqa-e-Sakina
+  Ab kis ko pukaruṅga maiṅ Saqqa-e-Sakina
 
   8
   Faizan ada haq-e-wafa kar gaye Abbas
   Bhai kaha Shabbir ko aur mar gaye Abbas
-  Mesum raha ta der fazaoṅ mein ye noha
+  Mesum raha ta der fazaoṅ meiṅ ye noha
 # source_id: nohayonline:a99f99dd1e635c5e0bf4
 # source_url: https://www.nohayonline.com/details_content.php?id=2516
 # raw_sha256: 5000f6e39a4d24d60634fe3d328e31f1f41243e0ee158e6140e1d22e59856383

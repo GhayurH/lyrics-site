@@ -1,6 +1,6 @@
 ---
 title: "جب ادا خنجر تلے شبیر کا سجدہ ہوا"
-alternateTitle: "Jab Ada Khanjar Talay"
+alternateTitle: "Jab Ada Khanjar Tale"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -28,7 +28,7 @@ romanLyrics: |-
 
   4
   Aur kitne gham uthaane haiṅ abhi Shabbir ko
-  Laasha-e-Qaasim hai ran mein khaak par bikhra hua
+  Laasha-e-Qaasim hai ran meiṅ khaak par bikhra hua
 
   5
   Khauf kar ae Shimr Zainab dekh kar mar jaaegi
@@ -39,7 +39,7 @@ romanLyrics: |-
   Chaak dil haathoṅ se kufr o shirk ka parda hua
 
   7
-  Ae Mohib Khun-e-jigar ashkoṅ mein dhal jaane ke baad
+  Ae Mohib Khun-e-jigar ashkoṅ meiṅ dhal jaane ke baad
   Yaad pyaasoṅ ko kiya jis waqt ye nauha hua
 # source_id: nohayonline:f237987c3c885325d392
 # source_url: https://www.nohayonline.com/details_content.php?id=1099

@@ -28,9 +28,9 @@ romanLyrics: |-
 
   2
   Ae laal mere maaṅ hone ka
-  Har farz nibhaya hai maine
+  Har farz nibhaya hai maiṅ ne
   Shabbir ke haathoṅ se tujhko
-  Jhula bhi jhulaya hai maine
+  Jhula bhi jhulaya hai maiṅ ne
   Ehsaan tera hoga mujh pe Abbas
 
   3
@@ -42,10 +42,10 @@ romanLyrics: |-
 
   4
   Jis waqt gira tu ghore se
-  Main dekh rahi thi wo manzar
-  Aaghosh mein tujhko rote hue
-  Maine hi sambhala tha barh kar
-  Kab dur hui huṅ main tujhse Abbas
+  Maiṅ dekh rahi thi wo manzar
+  Aaghosh meiṅ tujhko rote hue
+  Maiṅ ne hi sambhala tha barh kar
+  Kab dur hui huṅ maiṅ tujhse Abbas
 
   5
   Bachchoṅ ke liye jab darya se
@@ -55,21 +55,21 @@ romanLyrics: |-
   Ae tishna dahan mere pyase Abbas
 
   6
-  Teri aankh se teer nikaluṅ main
+  Teri aankh se tir nikaluṅ maiṅ
   Tu dekh le bhai ka chehra
-  Ye waqt-e-judai hai dil mein
+  Ye waqt-e-judai hai dil meiṅ
   Hasrat na rahe koi beta
   Aa khun hata duṅ aankhoṅ se Abbas
 
   7
-  Khaime mein Sakina pyasi hai
+  Khaime meiṅ Sakina pyasi hai
   Ye baat tujhe tarpati hai
-  Is haal mein bhi tujhko haaye
+  Is haal meiṅ bhi tujhko haaye
   Zainab ki rida yaad aati hai
   Aa tujhko laga luṅ sine se Abbas
 
   8
-  Zeeshan sunaya ro ro kar
+  Zishan sunaya ro ro kar
   Irfan-e-aza ne ye noha
   Darya ke kinare Ghazi ne
   Maaṅ kehte hue dam tor diya

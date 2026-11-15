@@ -37,7 +37,7 @@ romanLyrics: |-
   4
   Buland naizoṅ pe chand sar haiṅ
   Sitaare haiṅ shams hai qamar hai
-  Kisi ke gesuoṅ lahu mein tar hai
+  Kisi ke gesuoṅ lahu meiṅ tar hai
   To pyaas se munh khula kisi ka
 
   5
@@ -49,7 +49,7 @@ romanLyrics: |-
   6
   Ghayour barh kar zara khabar le
   Ye kaun bharti hai sard aaheṅ
-  Yaqinan in kushtagaan-e-gham mein
+  Yaqinan in kushtagaan-e-gham meiṅ
   Jawaan beta bhi tha kisi ka
 # source_id: nohayonline:808ac5b026cf25ac9181
 # source_url: https://www.nohayonline.com/details_content.php?id=2011

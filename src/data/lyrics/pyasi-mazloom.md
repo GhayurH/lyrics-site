@@ -32,7 +32,7 @@ romanLyrics: |-
 
   5
   Zulm kitne hue tujh par chhin gaye kaanoṅ se gohar
-  Aur rassi mein gala tha haaye maasum Sakina
+  Aur rassi meiṅ gala tha haaye maasum Sakina
 
   6
   Kabhi zaalim ke tamaanche taaziyaane kabhi durre
@@ -43,7 +43,7 @@ romanLyrics: |-
   Khun kaanoṅ se hai behta haaye maasum Sakina
 
   8
-  Kaise behlaauṅ tujhe main kaise samjhaauṅ tujhe main
+  Kaise behlaauṅ tujhe maiṅ kaise samjhaauṅ tujhe maiṅ
   Imtihaaṅ hai mera kaisa haaye maasum Sakina
 
   9
@@ -52,11 +52,11 @@ romanLyrics: |-
 
   10
   Dafn kaise kare tujh ko dekho Sajjad ko dekho
-  Hai wo zanjir mein jakra haaye maasum Sakina
+  Hai wo zanjir meiṅ jakra haaye maasum Sakina
 
   11
   Kaise bhulega zamaana gham Rashid us Bibi ka
-  Shor zindaaṅ mein bapa hai haaye maasum Sakina
+  Shor zindaaṅ meiṅ bapa hai haaye maasum Sakina
 # source_id: nohayonline:786896d1d01478cfd285
 # source_url: https://www.nohayonline.com/details_content.php?id=2885
 # raw_sha256: 93f9a211251c47ab6a4f24f2b3dc39ebee96c01b0ebd0cf0f5f828e18c8a7538

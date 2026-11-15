@@ -58,7 +58,7 @@ romanLyrics: |-
 
   6
   Darbar-e-sitam ka wo manzar
-  Main bhul nahiṅ sakti baba
+  Maiṅ bhul nahiṅ sakti baba
   Hai kaun asiroṅ meiṅ Zainab
   Jab aake sitamgar ne puchha
   Aise kai masaaib

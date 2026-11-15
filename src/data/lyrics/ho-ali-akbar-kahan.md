@@ -51,7 +51,7 @@ romanLyrics: |-
   Boli Musawwir ye maaṅ gham ki ghata chhaa gayi
   Ran meiṅ mere sher ko kis ki nazar khaa gayi
   Hansliyoṅ waala jo tha us ko bhi maut aa gayi
-  Ghar ko to wiraan kiya Karb o Bala bhaa gayi
+  Ghar ko to wiraaṅ kiya Karb o Bala bhaa gayi
   Dil meiṅ hai ik ke sinaaṅ tir ne li ek ki jaaṅ
 # source_id: nohayonline:acd0e517ba7ed2204631
 # source_url: https://www.nohayonline.com/details_content.php?id=273

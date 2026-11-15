@@ -24,10 +24,10 @@ romanLyrics: |-
 
   3
   Shabbir ke sine se lahu ho gaya jaari
-  Tasvir Sakina ki kahaaṅ dil mein aa gayi
+  Tasvir Sakina ki kahaaṅ dil meiṅ aa gayi
   Aawaaz uthi halq-e-burida se ke aao
-  Sine pe sone waali jo maqtal mein aa gayi
-  Yaad aata hai wo manzar Shabbir ka maqtal mein
+  Sine pe sone waali jo maqtal meiṅ aa gayi
+  Yaad aata hai wo manzar Shabbir ka maqtal meiṅ
   Tiroṅ bhare sine pe Sakina ko sulaana
 
   4
@@ -38,8 +38,8 @@ romanLyrics: |-
   Ham nauha kunaaṅ aaye idhar farsh-e-aza par
   Purse ke liye Faatima Zehra chali aayi
   Kal majlis-e-Shabbir ko Zainab thi tarasti
-  Ab majlis-e-Shabbir mein dunya chali aayi
-  Zehra ki sada aati hai ye bazm-e-aza mein
+  Ab majlis-e-Shabbir meiṅ dunya chali aayi
+  Zehra ki sada aati hai ye bazm-e-aza meiṅ
   Rehaan ye nauha sar-e-mahshar bhi sunaana
 # source_id: nohayonline:e1716da71c285d6eed6b
 # source_url: https://www.nohayonline.com/details_content.php?id=3496

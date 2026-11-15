@@ -17,19 +17,19 @@ romanLyrics: |-
   1
   Wo Muhammad ka nawaasa wo Husain ibn-e-Ali
   Gulshan-e-Faatima Zehra ki wo maasum kali
-  Naam hai Panjatan-e-paak mein ba harf-e-jali
-  Hurmat-e-din-e-Khuda jis ki shahaadat mein dhali
+  Naam hai Panjatan-e-paak meiṅ ba harf-e-jali
+  Hurmat-e-din-e-Khuda jis ki shahaadat meiṅ dhali
   Hote rehte the jise hulla-e-Firdaus ata
 
   2
-  Jhula Jibril ne bachpan mein jhulaaya wo Husain
+  Jhula Jibril ne bachpan meiṅ jhulaaya wo Husain
   Dosh par jis ko Payambar ne bithaaya wo Husain
   Jis pe Quraan ke paaroṅ ka tha saaya wo Husain
   Paani dil khol ke dushman ko pilaaya wo Husain
   Haaye us bekas o naadaar ko paani na diya
 
   3
-  Dasht mein gher liya jis ko bulaa kar mehmaaṅ
+  Dasht meiṅ gher liya jis ko bulaa kar mehmaaṅ
   Saamne jis ke tarapta raha Akbar sa jawaaṅ
   Kheṅch li jis ne jawaaṅ bete ke sine se sinaaṅ
   Jis ke haathoṅ pe hua qatl pisar ghuncha dahan
@@ -37,7 +37,7 @@ romanLyrics: |-
 
   4
   Khub rote haiṅ jo apna koi mar jaata hai
-  Laasha be waali o waaris ka kafan paata hai
+  Laasha bewaali o waaris ka kafan paata hai
   Aur taras khaa ke use koi bhi dafnaata hai
   Taaziyat ke liye dushman bhi chala aata hai
   Haaye afsos jigar gosha-e-mehbub-e-Khuda
@@ -53,14 +53,14 @@ romanLyrics: |-
   Parcham-e-Hazrat-e-Abbas uthaane waale
   Raheṅ aabaad azaakhaane sajaane waale
   Aur salaamat raheṅ nauhoṅ ko sunaane waale
-  Gham-e-Sarwar mein haiṅ jo ashk bahaane waale
-  Faatima Zehra unheṅ khuld mein deti haiṅ dua
+  Gham-e-Sarwar meiṅ haiṅ jo ashk bahaane waale
+  Faatima Zehra unheṅ khuld meiṅ deti haiṅ dua
 
   7
-  Zikr-e-Maula mein qalam rok na apna Mehshar
+  Zikr-e-Maula meiṅ qalam rok na apna Mehshar
   Dekh Zainab ke nahiṅ sar pe abhi tak chaadar
   Pursa deta rahe ashaar se Shah ka Mehshar
-  Rakh tasavvur mein ke hai dasht mein laash-e-Sarwar
+  Rakh tasavvur meiṅ ke hai dasht meiṅ laash-e-Sarwar
   Laash-e-uryaaṅ ko urhaata rahe nauhoṅ ki rida
 # source_id: nohayonline:910f7d9aed6fd3c02146
 # source_url: https://www.nohayonline.com/details_content.php?id=431

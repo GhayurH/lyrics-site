@@ -18,7 +18,7 @@ romanLyrics: |-
 
   1
   Kis tarah chalti thi ran meiṅ tegh-e-sher-e-Kirdigaar
-  Ashqiya meiṅ har taraf se al-amaan ki thi pukaar
+  Ashqiya meiṅ har taraf se al-amaaṅ ki thi pukaar
   Kar chuka jab zer Marhab ko shah-e-Duldul sawaar
   Aa rahi thi ye sada diwaar o dar se baar baar
   Shaah-e-mardaaṅ sher-e-Yazdaaṅ quwwat-e-Parwardigaar

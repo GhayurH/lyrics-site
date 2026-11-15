@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Pehchaano musalmaanoṅ main Fatema Zehra huṅ
+  Pehchaano musalmaanoṅ maiṅ Fatema Zehra huṅ
 
   Jaane kaise the musalmaan ghar jalaane aa gaye
   Baap ke jaate hi beti ko sataane aa gaye
@@ -48,7 +48,7 @@ romanLyrics: |-
   6
   Aalam-e-Islam ka dastur ehsaaṅ hai yehi
   Us ke ghar chulha na roshan ho jahaaṅ guzre koi
-  Hum the ghar mein aur sitamgar ghar jalaane aa gaye
+  Hum the ghar meiṅ aur sitamgar ghar jalaane aa gaye
 
   7
   Daayam o Yazdaaṅ tha ek gham khwaar ka ye marsiya

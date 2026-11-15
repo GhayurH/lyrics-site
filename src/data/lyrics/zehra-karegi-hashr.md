@@ -10,19 +10,19 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zehra karegi hashr mein daawa Husain ka
+  Zehra karegi hashr meiṅ daawa Husain ka
   Parwardigaar de mujhe badla Husain ka
 
   1
-  Pyaase gale pe tir-e-jafa ran mein chal gaya
+  Pyaase gale pe tir-e-jafa ran meiṅ chal gaya
   Muṅh se lahu ugalta hai bachcha Husain ka
 
   2
-  Sina phata jo ran mein Nabi ka nishaan tha
+  Sina phata jo ran meiṅ Nabi ka nishaan tha
   Barchhi se chhid gaya hai kaleja Husain ka
 
   3
-  Maqtal mein aayi Fatima ya Rab duhaai hai
+  Maqtal meiṅ aayi Fatima ya Rab duhaai hai
   Baaloṅ se jhaarti hai musalla Husain ka
 
   4

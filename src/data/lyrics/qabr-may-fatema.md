@@ -1,6 +1,6 @@
 ---
 title: "قبر میں فاطمہ زہرا کو رلاتے کیوں ہو"
-alternateTitle: "Qabr Mein Fatema"
+alternateTitle: "Qabr Meiṅ Fatema"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,11 +11,11 @@ tags: []
 aliases: ["Qabr May Fatema"]
 published: true
 romanLyrics: |-
-  Qabr mein Fatema Zehra ko rulaate kiuṅ ho
-  Bhare darbar mein Zainab ko bulaate kiuṅ ho
+  Qabr meiṅ Fatema Zehra ko rulaate kiuṅ ho
+  Bhare darbar meiṅ Zainab ko bulaate kiuṅ ho
 
   1
-  Khun jis par hai Husain ibn-e-Ali ka taaza
+  Khuṅ jis par hai Husain ibn-e-Ali ka taaza
   Saani-e-Zehra ko khanjar wo dikhaate kiuṅ ho
 
   2
@@ -27,11 +27,11 @@ romanLyrics: |-
   Taaziyane phuphi ammaaṅ ko lagaate kiuṅ ho
 
   4
-  God mein rehti thi Ghazi ke sada jo bachchi
+  God meiṅ rehti thi Ghazi ke sada jo bachchi
   Usko tum kaaṅtoṅ ke raste pe chalaate kiuṅ ho
 
   5
-  Is ko to god mein karne do sukuṅ maadar ki
+  Is ko to god meiṅ karne do sukuṅ maadar ki
   Sar-e-beshir ko naize pe charhaate kiuṅ ho
 
   6

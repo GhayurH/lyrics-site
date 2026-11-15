@@ -15,36 +15,36 @@ romanLyrics: |-
 
   1
   Darwaaze ke girne se jo pasliyaaṅ tuti hai
-  Main dekh raha huṅ wo kis tarah tarapti hai
-  Hai dard bhara manzar ammaaṅ hai musibat mein
+  Maiṅ dekh raha huṅ wo kis tarah tarapti hai
+  Hai dard bhara manzar ammaaṅ hai musibat meiṅ
 
-  Mohsin ne kaha ro kar ammaaṅ hai musibat mein
-  Pehlu pe gira hai dar ammaaṅ hai musibat mein
+  Mohsin ne kaha ro kar ammaaṅ hai musibat meiṅ
+  Pehlu pe gira hai dar ammaaṅ hai musibat meiṅ
 
   2
   Ammaaṅ ko kaminoṅ ne kuchh aise rulaaya hai
   Haṅs haṅs ke lainoṅ ne darwaaza jalaaya hai
-  Dil par hai rawaaṅ khanjar ammaaṅ hai musibat mein
+  Dil par hai rawaaṅ khanjar ammaaṅ hai musibat meiṅ
 
   3
   Shaanoṅ pe lainoṅ ne durre bhi lagaaye haiṅ
   Talwaar ke qabze se kuchh zakhm bhi aaye haiṅ
-  Mehfuz nahiṅ hai sar ammaaṅ hai musibat mein
+  Mehfuz nahiṅ hai sar ammaaṅ hai musibat meiṅ
 
   4
   Baaba ko bulaati hai ro ro ke meri ammaaṅ
   Haider ko bulaati hai Mehdi ko kabhi ammaaṅ
-  Barpa hai ajab mahshar ammaaṅ hai musibat mein
+  Barpa hai ajab mahshar ammaaṅ hai musibat meiṅ
 
   5
-  Jalti hui sine mein ik kil chubhi hai jab
+  Jalti hui sine meiṅ ik kil chubhi hai jab
   Yaad aaya hai ammaaṅ ko Akbar ka tarapna tab
-  Akbar ki musibat par ammaaṅ hai musibat mein
+  Akbar ki musibat par ammaaṅ hai musibat meiṅ
 
   6
   Irfaan hai ammaaṅ ko meri bhi musibat ka
-  Naasir tha main ammaaṅ ka par koi nahiṅ mera
-  Ik kil ke neze se beta hai musibat mein
+  Naasir tha maiṅ ammaaṅ ka par koi nahiṅ mera
+  Ik kil ke neze se beta hai musibat meiṅ
 # source_id: nohayonline:1147ecf0ed9e9974c212
 # source_url: https://www.nohayonline.com/details_content.php?id=1189
 # raw_sha256: b7a3120e1d33928b30981653d2145fe8e729bd73fa967b55265e474a7fbfa6d2

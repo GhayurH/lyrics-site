@@ -21,90 +21,90 @@ romanLyrics: |-
   1
   Dekha hai in aaṅkhoṅ ne
   Daada ke kate sar ko
-  Na bhuluṅ ga main wo Karb o Bala
+  Na bhuluṅ ga maiṅ wo Karb o Bala
   Parhuṅ ga sada yahi marsiya
-  Haaṅ main rouṅ ga
+  Haaṅ maiṅ rouṅ ga
 
   2
   Dekha hai in aaṅkhoṅ ne
   Jab Karb o Bala pahuṅche
   Darya pe lage khaime
   Darya se hate khaime
-  Na bhuluṅ ga main wo tifl o jawaaṅ
+  Na bhuluṅ ga maiṅ wo tifl o jawaaṅ
   The tashna dahan lab-e-Alqama
-  Haaṅ main rouṅ ga
+  Haaṅ maiṅ rouṅ ga
 
   3
   Dekha hai in aaṅkhoṅ ne
   Aashur ka wo manzar
   Laashe hi bayaabaan se
   Shah laate rahe din bhar
-  Na bhuluṅ ga main wo ranj o alam
+  Na bhuluṅ ga maiṅ wo ranj o alam
   Sar-e-dasht-e-gham hue sar qalam
-  Haaṅ main rouṅ ga
+  Haaṅ maiṅ rouṅ ga
 
   4
   Dekha hai in aaṅkhoṅ ne
   Naizoṅ pe shahidoṅ ko
-  Aur Shaam-e-Gharibaṅ mein
+  Aur Shaam-e-Gharibaṅ meiṅ
   Jalte hue khaimoṅ ko
-  Na bhuluṅ ga main chhini chaadareṅ
+  Na bhuluṅ ga maiṅ chhini chaadareṅ
   Jali masnadeṅ mere saamne
-  Haaṅ main rouṅ ga
+  Haaṅ maiṅ rouṅ ga
 
   5
   Dekha hai in aaṅkhoṅ ne
   Kaunain ki shahzaadi
   Jis waqt bani qaidi
   Ghaazi ko bulaati thi
-  Na bhuluṅ ga main haram ka safar
+  Na bhuluṅ ga maiṅ haram ka safar
   Chale nange sar rasan pehen kar
-  Haaṅ main rouṅ ga
+  Haaṅ maiṅ rouṅ ga
 
   6
   Dekha hai in aaṅkhoṅ ne
   Kaaṅtoṅ pe safar karna
-  In Shaam ke galiyoṅ mein
+  In Shaam ke galiyoṅ meiṅ
   Ek qaidi ka khun rona
-  Na bhuluṅ ga main saje baam o dar
+  Na bhuluṅ ga maiṅ saje baam o dar
   Har ek gaam par wo naizoṅ pe sar
-  Haaṅ main rouṅ ga
+  Haaṅ maiṅ rouṅ ga
 
   7
   Dekha hai in aaṅkhoṅ ne
-  Us waqt asiri mein
+  Us waqt asiri meiṅ
   Shabbir ki dukhtar ko
-  Jab maaṅga kanizi mein
-  Na bhuluṅ ga main haram ro diye
+  Jab maaṅga kanizi meiṅ
+  Na bhuluṅ ga maiṅ haram ro diye
   Sabhi dard se tarapne lage
-  Haaṅ main rouṅ ga
+  Haaṅ maiṅ rouṅ ga
 
   8
   Dekha hai in aaṅkhoṅ ne
   Zindaan ka wo manzar
   Laasha tha Sakina ka
   Bimaar ke haathoṅ par
-  Na bhuluṅ ga main phuphi ki qaza
+  Na bhuluṅ ga maiṅ phuphi ki qaza
   Kafan ban gaya wo kurta jala
-  Haaṅ main rouṅ ga
+  Haaṅ maiṅ rouṅ ga
 
   9
   Dekha hai in aaṅkhoṅ ne
   Zindaan se riha ho ke
   Wo ujre hue qaidi
   Jab Karb o Bala pahuṅche
-  Na bhuluṅ ga main ke daadi meri
+  Na bhuluṅ ga maiṅ ke daadi meri
   Ye kehne lagi behen aa gayi
-  Haaṅ main rouṅ ga
+  Haaṅ maiṅ rouṅ ga
 
   10
   Dekha hai in aaṅkhoṅ ne
   Irfaan-e-aza ban kar
   Dekho mere chehre ko
   Har gham ka hai ye Mazhar
-  Na bhuluṅ ga main kabhi Karbala
+  Na bhuluṅ ga maiṅ kabhi Karbala
   Wo qaid-e-jafa diyaar-e-saza
-  Haaṅ main rouṅ ga
+  Haaṅ maiṅ rouṅ ga
 # source_id: nohayonline:cce13571f4a57240df6f
 # source_url: https://www.nohayonline.com/details_content.php?id=1230
 # raw_sha256: d6348e1d6f205b839ac0813fad6bd39562a24690cbf3870735a24225fc1b18a1

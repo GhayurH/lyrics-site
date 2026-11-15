@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Kya tum ko gawara hai Zainab ki chhini chadar
-  Zanjir hai pairoṅ mein bimar ke muztar ke
+  Zanjir hai pairoṅ meiṅ bimar ke muztar ke
 
   2
   Pamal hue Qasim Akbar ne sinaṅ khai
@@ -24,26 +24,26 @@ romanLyrics: |-
 
   3
   Shabbir ne bachchi ko pehnaye the jo bunde
-  Chhine gaye maqtal mein wo dast-e-sitamgar ke
+  Chhine gaye maqtal meiṅ wo dast-e-sitamgar ke
 
   4
   Zainab ne kaha bhaiya kis par hameṅ chhora hai
   Hai kaun bachaye jo ab zalimoṅ ke shar se
 
   5
-  Jis ghar mein farishte bhi aate hain salami ko
-  Matam ki sadaeṅ ab aati hain usi ghar se
+  Jis ghar meiṅ farishte bhi aate haiṅ salami ko
+  Matam ki sadaeṅ ab aati haiṅ usi ghar se
 
   6
   Ae zalimoṅ Zainab ko durre to nahiṅ maaro
-  Kya bhai ka badla bhi yuṅ lete hain khwahar se
+  Kya bhai ka badla bhi yuṅ lete haiṅ khwahar se
 
   7
   Tha khushk gala itna farzand-e-Payambar ka
   Rone ki sada paiham aati rahi khanjar se
 
   8
-  Jo majlis-e-Sarwar mein karta hai bapa matam
+  Jo majlis-e-Sarwar meiṅ karta hai bapa matam
   Leta hai duaeṅ wo Shabbir ki dukhtar se
 # source_id: nohayonline:594543b4b8e05488153e
 # source_url: https://www.nohayonline.com/details_content.php?id=1880

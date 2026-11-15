@@ -12,18 +12,18 @@ aliases: []
 published: true
 romanLyrics: |-
   Jawaani bain karti hai Ali Akbar ke laashe par
-  Zaifi aa gayi mujh par tire gham mein Ali Akbar
+  Zaifi aa gayi mujh par tire gham meiṅ Ali Akbar
 
   1
   Jawaaṅ bete ke sine par jo roya tut ke neza
-  Zaifi mein Shah-e-waala ke dil pe chal gaya khanjar
+  Zaifi meiṅ Shah-e-waala ke dil pe chal gaya khanjar
 
   2
   Bara armaan tha us ko Ali Akbar ki shaadi ka
   Chhupa lo laash Akbar ki kahiṅ na dekh le maadar
 
   3
-  Jhulasti dhup mein hai ek pyaase sher ka laasha
+  Jhulasti dhup meiṅ hai ek pyaase sher ka laasha
   Lahu kiuṅ royeṅ na aaṅkheṅ qayaamat-khez hai manzar
 
   4

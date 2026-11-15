@@ -15,7 +15,7 @@ romanLyrics: |-
   1
   Roka hua hai tegh ko Ghazi hai tishnakaam
   Hukm-e-Imam-e-Waqt se majbur hai ghulam
-  Armaan saara jang ka ashkoṅ mein beh gaya
+  Armaan saara jang ka ashkoṅ meiṅ beh gaya
   Abbas aaj laasheṅ uthane ko reh gaya
   Milti nahiṅ hai ran ki raza jab Imam se
   Abbas kya kare
@@ -26,7 +26,7 @@ romanLyrics: |-
 
   3
   Koi bachcha maqtal se jab
-  Khuṅ mein naha kar aata hai
+  Khuṅ meiṅ naha kar aata hai
   Aaqa laasha laate haiṅ to
   Sharm se sar jhuk jaata hai
   Tukre hue haiṅ khaak pe wo god ke pale
@@ -34,21 +34,21 @@ romanLyrics: |-
   4
   Baba ijazat milti nahiṅ
   Aaj bahot sharminda huṅ
-  Aun o Muhammad jaan se guzre
-  Aur main ab tak zinda huṅ
+  Aun o Muhammad jaaṅ se guzre
+  Aur maiṅ ab tak zinda huṅ
   Bint-e-Ali ke lakht-e-jigar donoṅ mar gaye
 
   5
-  Maqtal mein kya haal hua hai
+  Maqtal meiṅ kya haal hua hai
   Aaqa Hasan ke bete ka
-  Dil mein mere zakhm bana hai
+  Dil meiṅ mere zakhm bana hai
   Qasim ke har tukre ka
   Gathri bana ke laayi gayi mere saamne
 
   6
   Ek tadbir ye maqtal ki hai
-  Mashk mein le kar jauṅga
-  Bibi Sakina ki khatir main
+  Mashk meiṅ le kar jauṅga
+  Bibi Sakina ki khatir maiṅ
   Pani le kar aauṅga
   Maangi hai is ne izn-e-wigha haath jor ke
 
@@ -69,7 +69,7 @@ romanLyrics: |-
   9
   Shadmaṅ pani lene gaye
   Abbas ki mushkil kam na hui
-  Teer Qamar aankhoṅ mein laga tha
+  Tir Qamar aankhoṅ meiṅ laga tha
   Khuṅ baha aur mashk chhidi
   Sar pe laga hai gurz mere haath kat gaye
 # source_id: nohayonline:fe77969d554a82b38659

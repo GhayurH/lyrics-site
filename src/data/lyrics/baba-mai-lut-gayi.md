@@ -17,54 +17,54 @@ romanLyrics: |-
   Aaye Najaf se milne Ali jis ghari wahaaṅ
   Beti lipat ke baap se karti thi ye fughaaṅ
   Athaara bhaaiyoṅ ki behen ab nahiṅ rahi
-  Baba badal do naam main Zainab nahiṅ rahi
-  Baba main lut gayi
+  Baba badal do naam maiṅ Zainab nahiṅ rahi
+  Baba maiṅ lut gayi
 
   1
   Karbobala basa ke ye Zainab ne di sada
-  Baba main lut gayi
+  Baba maiṅ lut gayi
 
   2
   Nazreṅ mila na paaeṅ ge ek dusre se hum
   Ae mere baba jaaṅ tumheṅ Abbas ki qasam
   Aankheṅ na kholna mere sar par nahiṅ rida
-  Baba main lut gayi
+  Baba maiṅ lut gayi
 
   3
   Pehle ke jaisi aap ki beti nahiṅ rahi
   Pehchaanne meiṅ aap ko kuch der yuṅ lagi
   Binaai bhi gayi meri Akbar bhi chal basa
-  Baba main lut gayi
+  Baba maiṅ lut gayi
 
   4
   Sar rakh ke zakhmi sine pe royi wo tishna kaam
   Akbar ne kar diya mere parde ka intizaam
   Chehre pe khun hai mere karyal jawaan ka
-  Baba main lut gayi
+  Baba maiṅ lut gayi
 
   5
   Ujri hai ek roz meiṅ amma ki kaainaat
   Kitne janaaze uthe hai is ghar meiṅ ek saath
   Bikhri hui hai dasht meiṅ tasvir-e-Fatema
-  Baba main lut gayi
+  Baba maiṅ lut gayi
 
   6
   Shahzaadiyoṅ ki tarah se rakha tha aap ne
   Jaate hue Husain ko sauṅpa tha aap ne
   Wo dekhiye sinaaṅ pe hai sar mere bhai ka
-  Baba main lut gayi
+  Baba maiṅ lut gayi
 
   7
   Baba Najaf qarib hai har shaam aauṅ gi
-  Main qabr par Husain ki shamme jalaauṅ gi
+  Maiṅ qabr par Husain ki shamme jalaauṅ gi
   Tum saath apne le chalo ab kaun hai mera
-  Baba main lut gayi
+  Baba maiṅ lut gayi
 
   8
   Ye kehte kehte Mir Takallum wo ro pari
-  Abid ko jalte khaimoṅ se laayi huṅ main abhi
+  Abid ko jalte khaimoṅ se laayi huṅ maiṅ abhi
   Betoṅ ka imtihaan bhi beti ne de diya
-  Baba main lut gayi
+  Baba maiṅ lut gayi
 # source_id: nohayonline:91d4199e31a6b4d55647
 # source_url: https://www.nohayonline.com/details_content.php?id=3292
 # raw_sha256: f7a752bea5108ea9ba54eb65a87b38151cb66af81af0a9482cd8058d8556ea8f

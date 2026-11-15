@@ -47,7 +47,7 @@ romanLyrics: |-
   Jo hai Batul ki beti ka haal ae Fizza
 
   9
-  Na kiuṅ jhukaaye tere dar pe sar ko Noor Ali
+  Na kiuṅ jhukaaye tere dar pe sar ko Nur Ali
   Ke tujh ko maaṅ kahe Zehra ke laal ae Fizza
 # source_id: nohayonline:18622e61ee64f369813d
 # source_url: https://www.nohayonline.com/details_content.php?id=884

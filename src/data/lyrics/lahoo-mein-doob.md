@@ -1,6 +1,6 @@
 ---
 title: "لہو میں ڈوب گیا جب شبیہ پیغمبر"
-alternateTitle: "Lahu Mein Dub"
+alternateTitle: "Lahu Meiṅ Dub"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: ["Lahoo Mein Doob"]
 published: true
 romanLyrics: |-
-  Lahu mein dub gaya jab shabih-e-Paighambar
+  Lahu meiṅ dub gaya jab shabih-e-Paighambar
   Zamin-e-Karbobala par tha hashr ka manzar
 
   1
@@ -20,14 +20,14 @@ romanLyrics: |-
 
   2
   Na koi dost na bhai na aasra tha koi
-  Lahu ke sher mein tanha tha Fatima ka pisar
+  Lahu ke sher meiṅ tanha tha Fatima ka pisar
 
   3
   Har ek baar ye mur mur ke dekhe the Husain
-  Nikal na aaye kahiṅ ran mein Zainab-e-muztar
+  Nikal na aaye kahiṅ ran meiṅ Zainab-e-muztar
 
   4
-  Pukaarte the andhera hai meri aankhoṅ mein
+  Pukaarte the andhera hai meri aankhoṅ meiṅ
   Mere jawaaṅ mere dilbar mere Ali Akbar
 
   5

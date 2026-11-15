@@ -1,6 +1,6 @@
 ---
 title: "سجدے میں تیرے شیر نے تلوار کھائی ہے"
-alternateTitle: "Sajde Mein Tere Sher"
+alternateTitle: "Sajde Meiṅ Tere Sher"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,13 +11,13 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Sajde mein tere sher ne talwaar khaai hai
+  Sajde meiṅ tere sher ne talwaar khaai hai
 
   Haidar jahaaṅ se uthte haiṅ gham ki khudaai hai
-  Ye shor hai fiza mein Khuda ki duhaai hai
+  Ye shor hai fiza meiṅ Khuda ki duhaai hai
 
   1
-  Allah se ye kahti thi jannat mein Fatima
+  Allah se ye kahti thi jannat meiṅ Fatima
   Bachche mere yatim hue ae duhaai hai
 
   2
@@ -46,7 +46,7 @@ romanLyrics: |-
 
   8
   Ae mominoṅ tumhaara jo pahla imaam tha
-  Us ko laiṅ ne sajde mein zarbat lagaai hai
+  Us ko laiṅ ne sajde meiṅ zarbat lagaai hai
 
   9
   Yusuf ka haal rahm ke qaabil hai al-madad

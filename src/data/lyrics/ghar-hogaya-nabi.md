@@ -11,38 +11,38 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ghar ho gaya Nabi ka barbaad Karbala mein
-  Mardoṅ mein bas bache haiṅ Sajjad Karbala mein
+  Ghar ho gaya Nabi ka barbaad Karbala meiṅ
+  Mardoṅ meiṅ bas bache haiṅ Sajjad Karbala meiṅ
 
   1
   Abbas haiṅ na Akbar Zainab kise pukaare
-  Maqtal mein bujh gaye haiṅ ghar ke chiraagh saare
-  Ranj o alam se dil hai aabaad Karbala mein
+  Maqtal meiṅ bujh gaye haiṅ ghar ke chiraagh saare
+  Ranj o alam se dil hai aabaad Karbala meiṅ
 
   2
-  Zainab ne kaise dil mein is dard ko chhupaaya
+  Zainab ne kaise dil meiṅ is dard ko chhupaaya
   Kis darja saabira thi aaṅsu na ek bahaaya
-  Bhai pe kar ke sadqe aulaad Karbala mein
+  Bhai pe kar ke sadqe aulaad Karbala meiṅ
 
   3
-  Zainab ko Karbala mein kitne ghamoṅ ne luta
+  Zainab ko Karbala meiṅ kitne ghamoṅ ne luta
   Sayyidaaniyoṅ ke zewar naamehramoṅ ne luta
-  Kya kya na guzri haaye bedaad Karbala mein
+  Kya kya na guzri haaye bedaad Karbala meiṅ
 
   4
   Sab chhinte the zaalim bewaoṅ ki chaadaroṅ ko
   Hasrat se dekhti thi ahbaab ke saroṅ ko
-  Koi na tha jo sunta faryaad Karbala mein
+  Koi na tha jo sunta faryaad Karbala meiṅ
 
   5
-  Maaoṅ ki godiyaaṅ bhi ran mein ujar gayi hai
-  Sahra mein waarisoṅ se apne bichhar gayi hai
-  Bas reh gayi hai baaqi ek yaad Karbala mein
+  Maaoṅ ki godiyaaṅ bhi ran meiṅ ujar gayi hai
+  Sahra meiṅ waarisoṅ se apne bichhar gayi hai
+  Bas reh gayi hai baaqi ek yaad Karbala meiṅ
 
   6
   Baad-e-Husain Akhtar Zainab ka tha ye noha
   Abbas hai na Qasim kis ko bulaauṅ Baba
-  Aa jaao tum hi bahr-e-imdaad Karbala mein
+  Aa jaao tum hi bahr-e-imdaad Karbala meiṅ
 # source_id: nohayonline:0fd6f5cb48ee4744c6b9
 # source_url: https://www.nohayonline.com/details_content.php?id=958
 # raw_sha256: c0fc2a1368f6e4506c5e818442609b0bf6b8fbaf1f44a19a94950be266f058a8

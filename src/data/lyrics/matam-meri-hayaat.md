@@ -36,7 +36,7 @@ romanLyrics: |-
 
   5
   Hum ko sitam shiaar bhala kya mitaayeṅge
-  Bidat ke fatwe ashkoṅ mein sab dub jaayeṅge
+  Bidat ke fatwe ashkoṅ meiṅ sab dub jaayeṅge
   Jite haiṅ hum to maadar-e-Shah ki dua ke saath
 
   6
@@ -51,7 +51,7 @@ romanLyrics: |-
 
   8
   Har ek rang o nasl ke insaan dostoṅ
-  Sab ke diloṅ mein ek hai armaan dostoṅ
+  Sab ke diloṅ meiṅ ek hai armaan dostoṅ
   Ghaazi bula le sab ko sahar ki hawa ke saath
 
   9

@@ -10,36 +10,36 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Dhundti phirti hai Zainab laashoṅ mein Abbas ko
-  Karti hai mehsus ro ke aahoṅ mein Abbas ko
+  Dhundti phirti hai Zainab laashoṅ meiṅ Abbas ko
+  Karti hai mehsus ro ke aahoṅ meiṅ Abbas ko
 
   1
-  Fikr hai maqtal mein Zainab ko faqat laahaq yahi
-  Rassiyaaṅ aaye nazar na baahoṅ mein Abbas ko
+  Fikr hai maqtal meiṅ Zainab ko faqat laahaq yahi
+  Rassiyaaṅ aaye nazar na baahoṅ meiṅ Abbas ko
 
   2
   Maangne waapas zamaanat chaadaroṅ ki aa gayi
-  Dekha hai jab barchiyoṅ ki chhaaoṅ mein Abbas ko
+  Dekha hai jab barchiyoṅ ki chhaaoṅ meiṅ Abbas ko
 
   3
   Kis tarah bin baazuoṅ ka laasha bhulegi behan
-  Ke jawaaṅ hote hai dekha haathoṅ mein Abbas ko
+  Ke jawaaṅ hote hai dekha haathoṅ meiṅ Abbas ko
 
   4
   Zikr apnoṅ se bichharne ka kahiṅ bhi gar hua
-  Le hi aati thi wo dukhiya baatoṅ mein Abbas ko
+  Le hi aati thi wo dukhiya baatoṅ meiṅ Abbas ko
 
   5
   Gir hi jaata hai sinaaṅ ki nok se har baar sar
-  Berida sar jab dikha hai raahoṅ mein Abbas ko
+  Berida sar jab dikha hai raahoṅ meiṅ Abbas ko
 
   6
-  Jo wafaaeṅ jaanti hai hai diloṅ mein ba Khuda
-  Bandagi ka rutba haasil maaoṅ mein Abbas ko
+  Jo wafaaeṅ jaanti hai hai diloṅ meiṅ ba Khuda
+  Bandagi ka rutba haasil maaoṅ meiṅ Abbas ko
 
   7
   Qalb-e-Zainab hi salaamat jaanta hai kis tarah
-  Laut aayi hai wo le kar yaadoṅ mein Abbas ko
+  Laut aayi hai wo le kar yaadoṅ meiṅ Abbas ko
 # source_id: nohayonline:b0f3893cee735c074a36
 # source_url: https://www.nohayonline.com/details_content.php?id=1507
 # raw_sha256: 97c407bc3da360193f28a2f5834d91cd4d2587a52cb999587bed87adfb5d9601

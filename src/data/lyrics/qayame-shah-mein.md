@@ -14,7 +14,7 @@ romanLyrics: |-
   Mahshar ka hai manzar
   Haaye haaye haaye haaye
 
-  Khiyaam-e-Shah mein mahshar bapa hai
+  Khiyaam-e-Shah meiṅ mahshar bapa hai
   Koi maqtal ki jaanib jaa raha hai
 
   1
@@ -26,7 +26,7 @@ romanLyrics: |-
   Ali Akbar shabaab-e-Karbala hai
 
   3
-  Kahaaṅ dhunduṅ nazar mein kuchh nahiṅ hai
+  Kahaaṅ dhunduṅ nazar meiṅ kuchh nahiṅ hai
   Jidhar dekho andhera chhaa gaya hai
 
   4

@@ -19,7 +19,7 @@ romanLyrics: |-
   Puch Kar Dil Se Bata Haal Tera Kya Hota
 
   2
-  Kis Tarha Karta Jawaṅ Laal Ko Rukhsat Beta
+  Kis Tarha Karta Jawaaṅ Laal Ko Rukhsat Beta
   Kaise Deta Use Marne Ki Ijazat Beta
   Teri Behno Ne Jise Naaz Se Paala Hota
 

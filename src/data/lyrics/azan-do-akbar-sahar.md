@@ -10,14 +10,14 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Dasht-e-bala mein kehti thi maadar
+  Dasht-e-bala meiṅ kehti thi maadar
   Azaan do Akbar sahar hui hai
 
   Le ke balaaeṅ sadqe ho maadar
   Azaan do Akbar sahar hui hai
 
   1
-  Ye to main samjhi sote ho ghaafil
+  Ye to maiṅ samjhi sote ho ghaafil
   Kya karuṅ lekin suni hai mehfil
   Is liye tum se kehti hai maadar
   Azaan do Akbar sahar hui hai
@@ -25,19 +25,19 @@ romanLyrics: |-
   2
   Shaah-e-zaman ke saath jinhoṅ ne
   Jalti zamiṅ par sajde kiye haiṅ
-  Aaye haiṅ wo bhi khaak pe be sar
+  Aaye haiṅ wo bhi khaak pe besar
   Azaan do Akbar sahar hui hai
 
   3
   Naine to jaana jaage huwe ho
   Zakhm bhi tan par khaaye hue ho
-  Tum ko jaga duṅ ran mein ye keh kar
+  Tum ko jaga duṅ ran meiṅ ye keh kar
   Azaan do Akbar sahar hui hai
 
   4
   Saaf agar tum keh do ye mujhse
-  Zakhm-e-sina mein dard siwa hai
-  Phir na kahuṅ main shaana hila kar
+  Zakhm-e-sina meiṅ dard siwa hai
+  Phir na kahuṅ maiṅ shaana hila kar
   Azaan do Akbar sahar hui hai
 
   5
@@ -48,12 +48,12 @@ romanLyrics: |-
 
   6
   Keh diya hota mujhse jo sheh ne
-  Qalb mein tere neza laga hai
+  Qalb meiṅ tere neza laga hai
   Kaahe ko kehti tumse ye muztar
   Azaan do Akbar sahar hui hai
 
   7
-  Main nahiṅ kehti khaime mein aao
+  Maiṅ nahiṅ kehti khaime meiṅ aao
   Garmi ki izaa tan pe uthaao
   Aarzu itni aayi huṅ le kar
   Azaan do Akbar sahar hui hai
@@ -65,14 +65,14 @@ romanLyrics: |-
   Azaan do Akbar sahar hui hai
 
   9
-  Halki si ran mein phaili safedi
+  Halki si ran meiṅ phaili safedi
   Raat ne kaali zulf sameti
   Nikle haiṅ taair bol ke aksar
   Azaan do Akbar sahar hui hai
 
   10
   Mahw-e-ibaadat hai saari khilqat
-  Dil mein chhupi hai us ki mohabbat
+  Dil meiṅ chhupi hai us ki mohabbat
   Naam-e-Khuda hai sab ki zabaaṅ par
   Azaan do Akbar sahar hui hai
 

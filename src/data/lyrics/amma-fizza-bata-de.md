@@ -10,62 +10,62 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Amma Fizza bata de mujhko patthar kiuṅ aa rahe hain
-  Kaisa hai ye charaaghaṅ dil dube ja rahe hain
+  Amma Fizza bata de mujhko patthar kiuṅ aa rahe haiṅ
+  Kaisa hai ye charaaghaṅ dil dube ja rahe haiṅ
   Kya Shaam aa gaya hai
 
   1
-  Itna chale hain paidal kaaṅtoṅ pe saare qaidi
+  Itna chale haiṅ paidal kaaṅtoṅ pe saare qaidi
   Thak jaati chalte chalte chalti agar zamiṅ bhi
-  Pairoṅ ke aable bhi aaṅsu baha rahe hain
+  Pairoṅ ke aable bhi aaṅsu baha rahe haiṅ
   Kya Shaam aa gaya hai
 
   2
-  Hain log kis tarha ke hum se dua karayeṅ
+  Haiṅ log kis tarha ke hum se dua karayeṅ
   Ae qaidiyoṅ dua do ye din na hum pe aaye
-  Le kar duaaeṅ hum se dil bhi dukha rahe hain
+  Le kar duaaeṅ hum se dil bhi dukha rahe haiṅ
   Kya Shaam aa gaya hai
 
   3
-  Naizoṅ pe jitne sar hain ek sar hai un mein aisa
-  Aaṅkheṅ hain band uski aur khaak par hai girta
-  Abbas ka ye sar hai tewar bata rahe hain
+  Naizoṅ pe jitne sar haiṅ ek sar hai un meiṅ aisa
+  Aaṅkheṅ haiṅ band uski aur khaak par hai girta
+  Abbas ka ye sar hai tewar bata rahe haiṅ
   Kya Shaam aa gaya hai
 
   4
-  Maaoṅ ki godiyoṅ se lipte hue hain bachche
-  Hain haath rassiyoṅ mein maaoṅ ke kaise jakre
-  Bachche jo gir rahe hain wo marte ja rahe hain
+  Maaoṅ ki godiyoṅ se lipte hue haiṅ bachche
+  Haiṅ haath rassiyoṅ meiṅ maaoṅ ke kaise jakre
+  Bachche jo gir rahe haiṅ wo marte ja rahe haiṅ
   Kya Shaam aa gaya hai
 
   5
   Naize pe ro raha hai Mushkilkusha ka beta
   Na mehramoṅ ke lab par aaya hai naam mera
-  Mujhko kaniz zaade yuṅ bhi rula rahe hain
+  Mujhko kaniz zaade yuṅ bhi rula rahe haiṅ
   Kya Shaam aa gaya hai
 
   6
   Sajjad ka kaleja sad paash ho raha hai
-  Ik ek zakhm unka is gham mein ro raha hai
-  Zainab ka naam le kar aada bula rahe hain
+  Ik ek zakhm unka is gham meiṅ ro raha hai
+  Zainab ka naam le kar aada bula rahe haiṅ
   Kya Shaam aa gaya hai
 
   7
   Aaya jo Baab-e-Saaat roke gaye musaafir
   Kehta tha Shimr inko karna abhi na haazir
-  Darbaar ko abhi hum dulhan bana rahe hain
+  Darbaar ko abhi hum dulhan bana rahe haiṅ
   Kya Shaam aa gaya hai
 
   8
   Hone lagiṅ azaaneṅ kaise saroṅ ko dhaaṅpe
-  Baazu bandhe hue hain khuṅ ro rahi hain aaṅkheṅ
-  Aaṅkhoṅ ke khuṅ se raste khuṅ mein naha rahe hain
+  Baazu bandhe hue haiṅ khuṅ ro rahi haiṅ aaṅkheṅ
+  Aaṅkhoṅ ke khuṅ se raste khuṅ meiṅ naha rahe haiṅ
   Kya Shaam aa gaya hai
 
   9
-  Rehaan qaidiyoṅ mein barpa tha shor-e-giryaṅ
+  Rehaan qaidiyoṅ meiṅ barpa tha shor-e-giryaṅ
   Palkoṅ se kar rahi thi maatam jo Bint-e-Zehra
-  Sajjad nauhakhwaaṅ hain nauha suna rahe hain
+  Sajjad nauhakhwaaṅ haiṅ nauha suna rahe haiṅ
   Kya Shaam aa gaya hai
 reciter: "Mir Hasan Mir"
 # source_id: nohayonline:54b394274805a8c00573

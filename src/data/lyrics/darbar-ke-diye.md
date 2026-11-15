@@ -13,12 +13,12 @@ published: true
 romanLyrics: |-
   Chhaaya hayaat-e-Bint-e-Nabi par wo intizaar
   Tarpe tah-e-mazaar bhi mahbub-e-Kirdigaar
-  Darbaar mein khari rahi ismat ki taajdaar
+  Darbaar meiṅ khari rahi ismat ki taajdaar
   Is waaqae pe aaj bhi insaan hai ashkbaar
   Haae Zahra bari mazlum hai Zahra
 
   Darbaar ke diye hue zakhmoṅ ne keh diya
-  Duniya mein chand roz ki mehmaan hai Fatima
+  Duniya meiṅ chand roz ki mehmaan hai Fatima
 
   1
   Fizza tere supurd hai ab mere gulsitaan
@@ -38,11 +38,11 @@ romanLyrics: |-
   Zainab ke sar se chaadar-e-Zainab juda na ho
 
   3
-  Aakhir mein Buturaab se itna kiya kalaam
+  Aakhir meiṅ Buturaab se itna kiya kalaam
   Mera salaam lijiye ae saahib-e-anaam
   Zehra pe is jahaaṅ ke maraahil hue tamaam
-  Main jaa rahi huṅ chhor ke ye aarzi maqaam
-  Ukhri hai saaṅs waqt mein wusat koi nahiṅ
+  Maiṅ jaa rahi huṅ chhor ke ye aarzi maqaam
+  Ukhri hai saaṅs waqt meiṅ wusat koi nahiṅ
   Keh dijiye ke mujh se shikaayat koi nahiṅ
 
   4
@@ -56,7 +56,7 @@ romanLyrics: |-
   5
   Naagaah Fatima ne kiya khuld ka safar
   Rone lage wasi-e-Payambar jhuka ke sar
-  Shor-e-fughaaṅ mein dub gaya Fatima ka ghar
+  Shor-e-fughaaṅ meiṅ dub gaya Fatima ka ghar
   Fizza pukaari paaoṅ ke talwoṅ ko chum kar
   Ae shaahzaadi ae meri makhduma alwida
   Ismat ki ruh saabira mazluma alwida
@@ -66,7 +66,7 @@ romanLyrics: |-
   Sab se ziyaada Zainab o Kulsum ashkbaar
   Ghamgiṅ faza pe likh gae aaṅkhoṅ ke aabshaar
   Uthta hai ab janaaza-e-khaatun-e-rozgaar
-  Manzar mein ehteraam-e-wasiyyat liye hue
+  Manzar meiṅ ehteraam-e-wasiyyat liye hue
   Taabut par bhi raat hai parda kiye hue
 
   7
@@ -87,7 +87,7 @@ romanLyrics: |-
 
   9
   Ae Jannat-ul-Baqi wo din aaega zarur
-  Ghaaratgaroṅ ka khaak mein mil jaaega ghurur
+  Ghaaratgaroṅ ka khaak meiṅ mil jaaega ghurur
   Insaan se kahega khud insaan ka shaur
   Islaam ki hayaat hai Aal-e-Nabi ka nur
   Ik din tamaam qasr-e-raunaq giraaeṅge
@@ -98,8 +98,8 @@ romanLyrics: |-
   Ya Rab Imaam-e-waqt ka jaldi zuhur ho
   Aawaaz aae ahl-e-mawaddat utho utho
   Jaldi chalo Madina-e-Khair-ul-Wara chalo
-  Majlis bapa hai rauza-e-Bint-e-Rasul mein
-  Zikr-e-Husain chaahiye baagh-e-Batul mein
+  Majlis bapa hai rauza-e-Bint-e-Rasul meiṅ
+  Zikr-e-Husain chaahiye baagh-e-Batul meiṅ
 # source_id: nohayonline:28e74a3de35de1e0c283
 # source_url: https://www.nohayonline.com/details_content.php?id=2237
 # raw_sha256: 4403e13e31e8c48c09c0f3a6358d65b64d43c01729135d062121f921a7618416

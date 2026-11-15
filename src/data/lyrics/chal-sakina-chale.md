@@ -13,8 +13,8 @@ published: true
 romanLyrics: |-
   Jaago ae baali Sakina dete haiṅ aawaaz Baba
 
-  Ek shab Sakina Shaam ke zindaaṅ mein so gayi
-  Baba ko dekha khwaab mein kehte the woh yehi
+  Ek shab Sakina Shaam ke zindaaṅ meiṅ so gayi
+  Baba ko dekha khwaab meiṅ kehte the woh yehi
   Bahut ro chuki meri jaaṅ jaag jaa
   Chal Sakina chaleṅ Karbala
   Saath Baba ke rehna sada
@@ -41,17 +41,17 @@ romanLyrics: |-
   Chain donoṅ ko aa jaaye ga
 
   4
-  Saath apne tujhe le ke jaauṅ ga main
-  Tere ammu se tujh ko milaauṅ ga main
-  Haaṅ tujhe baaliyaaṅ bhi pehnaauṅ ga main
-  Apne sine pe tujh ko sulaauṅ ga main
+  Saath apne tujhe le ke jaauṅ ga maiṅ
+  Tere ammu se tujh ko milaauṅ ga maiṅ
+  Haaṅ tujhe baaliyaaṅ bhi pehnaauṅ ga maiṅ
+  Apne sine pe tujh ko sulaauṅ ga maiṅ
   Hai wahaaṅ par jahaaṅ ek naya
 
   5
   Ab na talwaar o neza hai na tir hai
   Karbala ab to Ghaazi ki jaagir hai
   Tere Baba ke khwaaboṅ ki taabir hai
-  Ek aaghosh hai jis mein beshir hai
+  Ek aaghosh hai jis meiṅ beshir hai
   Dil yeh tera behal jaaye ga
 
   6
@@ -70,7 +70,7 @@ romanLyrics: |-
 
   8
   Yuṅ to har roz Farhan o Mazhar yuṅhi
-  Baap se beti milti thi khwaaboṅ mein hi
+  Baap se beti milti thi khwaaboṅ meiṅ hi
   Zindagi ka yehi khwaab tha aakhri
   Yuṅ laga saath Baba ke woh laadli
   Chal basi sun ke bas yeh sada

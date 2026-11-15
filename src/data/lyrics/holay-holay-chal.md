@@ -12,12 +12,12 @@ aliases: ["Holay Holay Chal"]
 published: true
 romanLyrics: |-
   Chal para Karbobala se jab Husaini qaafila
-  Ek rasan mein pusht-e-Abid aur tha Baqar ka gala
+  Ek rasan meiṅ pusht-e-Abid aur tha Baqar ka gala
   Saaṅs khanjar ki tarah mehsus jab hone lagi
   Apne baba jaaṅ se ro kar ye Baqar ne kaha
   Ae mere baba Ae mere baba
 
-  Rassi mein gala hai Baqar ka
+  Rassi meiṅ gala hai Baqar ka
   Tu hole hole chal baba
 
   Mushkil hai safar mar jaauṅ ga
@@ -29,20 +29,20 @@ romanLyrics: |-
   Baba tu imaamat karta jaa
   Khud dhup bhi hum pe roti hai
   Jalta hai musalla reti ka
-  Main shukr ka sajda kar luṅ ada
+  Maiṅ shukr ka sajda kar luṅ ada
 
   2
   Kulsum Sakina Zainab hai
   Aur saath Ruqayya Bibi hai
-  Is ik rasan mein Ae baba
+  Is ik rasan meiṅ Ae baba
   Har umr ki Zahra qaidi hai
   Girti hai meri amma Fizza
 
   3
-  Ab dhup mein itni shiddat hai
+  Ab dhup meiṅ itni shiddat hai
   Jalte haiṅ asiri ke zewar
   Paani to nahiṅ hai aaṅsu hi
-  Main in pe chhirak duṅ ga aa kar
+  Maiṅ in pe chhirak duṅ ga aa kar
   Aaraam tujhe mil jaae ga
 
   4
@@ -85,7 +85,7 @@ romanLyrics: |-
   Baqar ne Takallum di ye sada
   Har kaam pe teri marzi hai
   Tu jaise chaahe chal baba
-  Main ab na kahuṅ ga Ae baba
+  Maiṅ ab na kahuṅ ga Ae baba
 # source_id: nohayonline:c386811f4acc9eb9a33e
 # source_url: https://www.nohayonline.com/details_content.php?id=2410
 # raw_sha256: c3461db1e108f23d29a97d2616cb7e586f34bb06dbecafd347a71ff8e9963f05

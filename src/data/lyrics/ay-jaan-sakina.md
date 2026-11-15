@@ -15,7 +15,7 @@ romanLyrics: |-
   Ae Shaam ke zindaan ki mehmaan Sakina
 
   1
-  Dekho to utho qaid mein hai kis ka ye maatam
+  Dekho to utho qaid meiṅ hai kis ka ye maatam
   Bano tere is nind ke qurbaan Sakina
 
   2
@@ -28,11 +28,11 @@ romanLyrics: |-
 
   4
   Asghar ko karuṅ pyaar luṅ Akbar ki balaaeiṅ
-  Jab khuld mein tum jaao meri jaan Sakina
+  Jab khuld meiṅ tum jaao meri jaan Sakina
 
   5
   Do gaz ka kafan bhi tujhe maaṅ de sakti nahiṅ
-  Zindaan mein Bano hai pareshaan Sakina
+  Zindaan meiṅ Bano hai pareshaan Sakina
 
   6
   Uthti nazar aati nahiṅ ye nind hai kaisi

@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Lipti hui alam se kehti thi Bint-e-Zehra
-  Is waqt bekasi mein Abbas bichhre hum se
+  Is waqt bekasi meiṅ Abbas bichhre hum se
 
   2
   Abbas mar gaye haiṅ sun kar khabar ye Shah se
@@ -44,7 +44,7 @@ romanLyrics: |-
 
   8
   Bhai se bhai bichhre jis ka to is ki haalat
-  Dard aashna se puchho ya phir Anees-e-gham se
+  Dard aashna se puchho ya phir Anis-e-gham se
 # source_id: nohayonline:0c6dd6510adff23244f6
 # source_url: https://www.nohayonline.com/details_content.php?id=121
 # raw_sha256: b8c0b74609b2ca393d4ae3cc8b2a62845fa9642390cc5ecea2edc18c446c080b

@@ -20,15 +20,15 @@ romanLyrics: |-
   Mera Akbar jawaaṅ mar gaya
 
   1
-  Jab suna ran mein ghore se Akbar gire
-  Thokareṅ ran mein khaate hue Shah chale
-  Khaak aur khun mein hai wo ghaltaaṅ pare
+  Jab suna ran meiṅ ghore se Akbar gire
+  Thokareṅ ran meiṅ khaate hue Shah chale
+  Khaak aur khun meiṅ hai wo ghaltaaṅ pare
   Haal dekha pisar ka to kehne lage
 
   2
   Dekhe zakhmi jigar ko Shah-e-Karbala
-  Us mein barchhi ka phal jo nazar aa gaya
-  Hai tasavvur mein naana Rasul-e-Khuda
+  Us meiṅ barchhi ka phal jo nazar aa gaya
+  Hai tasavvur meiṅ naana Rasul-e-Khuda
   Jaise un ki jawaani ko naiza laga
 
   3
@@ -44,15 +44,15 @@ romanLyrics: |-
   Wo zaifa hai Sughra teri muntazir
 
   5
-  Teri furqat mein ye haal-e-Sughra hua
-  Jhuk gayi hai kamar haath mein hai asa
+  Teri furqat meiṅ ye haal-e-Sughra hua
+  Jhuk gayi hai kamar haath meiṅ hai asa
   Sochti hai mera bhai kab aayega
   Jite ji kya behan se wo mil paayega
 
   6
   Bole Shah kaise Sughra sune ye khabar
-  Muntazir raah mein hai bichhaaye nazar
-  Ho gaya ran mein bhai ka zakhmi jigar
+  Muntazir raah meiṅ hai bichhaaye nazar
+  Ho gaya ran meiṅ bhai ka zakhmi jigar
   Mar na jaaye kahiṅ sun ke nur-e-nazar
 
   7

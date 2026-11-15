@@ -17,7 +17,7 @@ romanLyrics: |-
   1
   Jangal hai suna kya karuṅ
   Kya haal hai kis se kahuṅ
-  Palkon pe ashk-e-gham liye
+  Palkoṅ pe ashk-e-gham liye
   Munh ashkoṅ se wo dhoti hai
 
   2
@@ -29,13 +29,13 @@ romanLyrics: |-
   3
   Shimr-e-laiṅ se darti hai
   Jab yaad tumko karti hai
-  Marti hai tere gham mein wo
+  Marti hai tere gham meiṅ wo
   Bechain o muztar hoti hai
 
   4
   Usko tasalli deti huṅ
   Aaenge bhaiya kehti huṅ
-  Bolo kahuṅ main kya karuṅ
+  Bolo kahuṅ maiṅ kya karuṅ
   Bekal wo gham se hoti hai
 
   5
@@ -45,22 +45,22 @@ romanLyrics: |-
   Kab chain se wo soti hai
 
   6
-  Zalim ke us par kore hain
-  Tum saath jab se chhore hain
-  Seene pe sone waali thi
+  Zalim ke us par kore haiṅ
+  Tum saath jab se chhore haiṅ
+  Sine pe sone waali thi
   Wo khaak par ab soti hai
 
   7
   Kaise nehr par so gaye
   Bin bhai ke hum ho gaye
-  Zainab ki thi ran mein sada
+  Zainab ki thi ran meiṅ sada
   Shaam o sehar wo roti thi
 
   8
-  Sabir gham-e-Abbas mein
-  Bali Sakina pyaas mein
+  Sabir gham-e-Abbas meiṅ
+  Bali Sakina pyaas meiṅ
   Iqbal bint-e-Shah-e-Diṅ
-  Ammu ke gham mein roti hai
+  Ammu ke gham meiṅ roti hai
 # source_id: nohayonline:182305338c47e9a18bcf
 # source_url: https://www.nohayonline.com/details_content.php?id=829
 # raw_sha256: 840336a3f23e95c1716e70592866216f180b29ef52cf627531223d240d023459

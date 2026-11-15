@@ -11,9 +11,9 @@ aliases: []
 published: true
 romanLyrics: |-
   Ghazi ka alam aaya to Sheh bole ye ro kar
-  Abbas kahan ho Abbas kahan ho
+  Abbas kahaṅ ho Abbas kahaṅ ho
   Ro ro ke na mar jaaye kahiṅ Zainab-e-muztar
-  Abbas kahan ho Abbas kahan ho
+  Abbas kahaṅ ho Abbas kahaṅ ho
 
   1
   Jab mashk o alam laaye the ran se Shah-e-Wala
@@ -21,13 +21,13 @@ romanLyrics: |-
   Noha tha yehi Zainab-e-dilgir ke lab par
 
   2
-  Le jauṅ main kis tarah jawaṅ bete ka laasha
+  Le jauṅ maiṅ kis tarah jawaaṅ bete ka laasha
   Maidan se tanha
-  Haathoṅ se kamar thame hue kehte hain Sarwar
+  Haathoṅ se kamar thame hue kehte haiṅ Sarwar
 
   3
-  Sab fauj-e-Khuda qatl hui rah-e-Khuda mein
-  Is dasht-e-bala mein
+  Sab fauj-e-Khuda qatl hui rah-e-Khuda meiṅ
+  Is dasht-e-bala meiṅ
   Marne ke liye jaata hai nanha Ali Asghar
 
   4
@@ -36,28 +36,28 @@ romanLyrics: |-
   Ae mere Jari bhai mere sher-e-dilawar
 
   5
-  Jo kuze liye baithe hain raste mein tumhare
+  Jo kuze liye baithe haiṅ raste meiṅ tumhare
   Seh roz ke pyase
   In bachchoṅ ka kya hal hai dekho zara aa kar
 
   6
-  Mar jayegi is dasht mein ro ro ke Sakina
+  Mar jayegi is dasht meiṅ ro ro ke Sakina
   Dushwar hai jina
   Do aa ke dilasa use sine se laga kar
 
   7
-  Ab dasht-e-bala qaid mein kohram bapa hai
+  Ab dasht-e-bala qaid meiṅ kohram bapa hai
   Har lab pe buka hai
-  Kuffar ke narghe mein hai Aulad-e-Payambar
+  Kuffar ke narghe meiṅ hai Aulad-e-Payambar
 
   8
-  Ro ro ke bulati hain Nabizadiyaṅ tum ko
+  Ro ro ke bulati haiṅ Nabizadiyaṅ tum ko
   Kiuṅ sunte nahiṅ ho
   Khaimoṅ ko jalata hai sitamgaroṅ ka lashkar
 
   9
   Haathoṅ se rida thaam ke Zainab ye pukari
-  Ho jauṅ main wari
+  Ho jauṅ maiṅ wari
   Chhin jaaye na sar se mere bhaiya meri chadar
 
   10

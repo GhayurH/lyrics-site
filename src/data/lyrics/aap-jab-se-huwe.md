@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Ya Rasul Allah
-  Apni tanhaai mein Zehra yaad karti hai tumheṅ
+  Apni tanhaai meiṅ Zehra yaad karti hai tumheṅ
   Aap jab se huwe juda baba
   Fatima ka hai bas Khuda baba
 
@@ -29,11 +29,11 @@ romanLyrics: |-
   Aur jalaaya tha dar mera baba
 
   4
-  Waasta aap ka diya maine
+  Waasta aap ka diya maiṅ ne
   Phir bhi zaalim nahiṅ ruka baba
 
   5
-  Aap ke gham mein rona chaaha agar
+  Aap ke gham meiṅ rona chaaha agar
   Mujhko rone nahiṅ diya baba
 
   6
@@ -41,7 +41,7 @@ romanLyrics: |-
   Mera Mohsin nahiṅ raha baba
 
   7
-  Baad-e-Mohsin samajh gayi huṅ main
+  Baad-e-Mohsin samajh gayi huṅ maiṅ
   Karbala ki hai ibteda baba
 
   8

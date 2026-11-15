@@ -18,11 +18,11 @@ romanLyrics: |-
   Shaah-e-Huda ke pidar
   Jab chale waqt-e-sahar
   Thaam ke band-e-kamar
-  Kehti thi zanjeer-e-dar
+  Kehti thi zanjir-e-dar
   Ae mere sarkaar Ali alvida
 
   2
-  Kufe mein waqt-e-sahar
+  Kufe meiṅ waqt-e-sahar
   Tegh chali farq par
   Khuṅ se hua farsh tar
   Rote haiṅ sar pit kar
@@ -33,12 +33,12 @@ romanLyrics: |-
   Girya hai kohraam hai
   Rasm-e-jafa aam hai
   Kufa hi ab shaam hai
-  Gham mein giraftaar Ali alvida
+  Gham meiṅ giraftaar Ali alvida
 
   4
   Jo tere ghamkhwaar haiṅ
   Jine se bezaar haiṅ
-  Gham mein giraftaar hai
+  Gham meiṅ giraftaar hai
   Hashr ke aasaar haiṅ
   Kehte haiṅ zawwaar Ali alvida
 
@@ -50,7 +50,7 @@ romanLyrics: |-
   Maalik o mukhtaar Ali alvida
 
   6
-  Ghash mein hai din-e-Ilaah
+  Ghash meiṅ hai din-e-Ilaah
   Pit ke sar apna shaah
   Ro ke risaalat panaah
   Kehte haiṅ ba-dard o aah
@@ -67,12 +67,12 @@ romanLyrics: |-
   Gham ki hai parchhaaiyaaṅ
   Roye na kiuṅ betiyaaṅ
   Baandheṅge ab shaamiyaaṅ
-  Baazuoṅ mein rassiyaaṅ
+  Baazuoṅ meiṅ rassiyaaṅ
   Lut gayi sarkaar Ali alvida
 
   9
   Haaye imaam-e-mubiṅ
-  Khuṅ mein tar hai jabiṅ
+  Khuṅ meiṅ tar hai jabiṅ
   Aamir-e-sultaan-e-diṅ
   Kahiye Bilaal-e-haziṅ
   Haidar-e-karraar Ali alvida

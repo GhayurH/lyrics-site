@@ -1,6 +1,6 @@
 ---
 title: "نانا میں جا رہا ہوں"
-alternateTitle: "Nana Main Jaa Raha"
+alternateTitle: "Nana Maiṅ Jaa Raha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,41 +10,41 @@ tags: []
 aliases: ["Nana Mai Jaa Raha"]
 published: true
 romanLyrics: |-
-  Nana main jaa raha huṅ
+  Nana maiṅ jaa raha huṅ
 
   1
   Kataa ke sar din ko bachane
-  Main jaa raha huṅ
+  Maiṅ jaa raha huṅ
 
   2
   Katenge baazu bhi bawafa ke
   Chunuṅ ga Ibn-e-Hasan ke tukre
   Jawaaṅ bete ki laash uthane
-  Main jaa raha huṅ
+  Maiṅ jaa raha huṅ
 
   3
   Namaaz tujh ko kare gi sajda
-  Main aisa sajda adaa karuṅ ga
+  Maiṅ aisa sajda adaa karuṅ ga
   Lahu se khaak-e-shifa banane
-  Main jaa raha huṅ
+  Maiṅ jaa raha huṅ
 
   4
   Yazid mujh se ye puchhta hai
   Bataa ana min Husain kya hai
   Usi ko ye silsila batane
-  Main jaa raha huṅ
+  Maiṅ jaa raha huṅ
 
   5
   Wo mere sine pe sone wali
   Meri Sakina hai meri pyaari
-  Usi ko zindaaṅ mein sulane
-  Main jaa raha huṅ
+  Usi ko zindaaṅ meiṅ sulane
+  Maiṅ jaa raha huṅ
 
   6
   Jo mere baba ki laadli hai
-  Jo ghar mein paidal nahiṅ chali hai
+  Jo ghar meiṅ paidal nahiṅ chali hai
   Usi behen ki rida lutane
-  Main jaa raha huṅ
+  Maiṅ jaa raha huṅ
 # source_id: nohayonline:f186e96a1ceb5a2d6d3a
 # source_url: https://www.nohayonline.com/details_content.php?id=3554
 # raw_sha256: 3aada0d63cf98ecc8221a18e3807191da826c5f869fe69a4730f1622dc8026c6

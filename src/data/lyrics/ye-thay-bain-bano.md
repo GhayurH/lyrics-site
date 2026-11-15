@@ -1,6 +1,6 @@
 ---
 title: "یہ تھے بین بانو کے شام غریباں"
-alternateTitle: "Ye Thay Bain Bano"
+alternateTitle: "Ye The Bain Bano"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -15,9 +15,9 @@ romanLyrics: |-
   Kahaṅ kho gaye ho mere pyaare Asghar
 
   1
-  Kahiṅ dar na jaana is aafat ke ban mein
+  Kahiṅ dar na jaana is aafat ke ban meiṅ
   Kahaṅ jaa chhupe ho mere pyaare Asghar
-  Main kiuṅ kar tumheṅ dhunduṅ andhiyaari shab mein
+  Maiṅ kiuṅ kar tumheṅ dhunduṅ andhiyaari shab meiṅ
   Kahaṅ so gaye ho mere pyaare Asghar
 
   2
@@ -30,7 +30,7 @@ romanLyrics: |-
 
   3
   Gila to nahiṅ hai tumheṅ apni maaṅ se
-  Tumheṅ paani pine ko bheja tha main ne
+  Tumheṅ paani pine ko bheja tha maiṅ ne
   Tum aa bhi gaye to sambhaaluṅ gi kaise
   Suna hai rasan basta jaana hai yaaṅ se
   Na majbur hoti to jaane na deti
@@ -53,7 +53,7 @@ romanLyrics: |-
   Jahaṅ so rahe ho mere pyaare Asghar
 
   6
-  Wahiṅ ban mein Aun o Muhammad bhi hoṅ ge
+  Wahiṅ ban meiṅ Aun o Muhammad bhi hoṅ ge
   Yaqinan yatimaan-e-Muslim bhi hoṅ ge
   Tumhaari tasalli ko Qasim bhi hoṅ ge
   Tumheṅ deṅ ge Abbas o Akbar dilaase
@@ -62,9 +62,9 @@ romanLyrics: |-
 
   7
   Jalaaya lainoṅ ne khaimoṅ ko aisa
-  Na jhula tera main bacha paai beta
-  Tarapti hai khaime mein baali Sakina
-  Wahaṅ muntazir hai Madine mein Sughra
+  Na jhula tera maiṅ bacha paai beta
+  Tarapti hai khaime meiṅ baali Sakina
+  Wahaṅ muntazir hai Madine meiṅ Sughra
   Kisi ki khabar kuchh nahiṅ tum ko beta
   Kahaṅ jaa base ho mere pyaare Asghar
 

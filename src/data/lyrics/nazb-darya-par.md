@@ -19,7 +19,7 @@ romanLyrics: |-
 
   2
   Nahr ki thandi hawa aati hai jab bimaar ko
-  Kahte haiṅ Sajjad ae Baba main achchha ho chuka
+  Kahte haiṅ Sajjad ae Baba maiṅ achchha ho chuka
 
   3
   Aakhri ghar ke liye lete haiṅ Hazrat kuchh rabib

@@ -1,6 +1,6 @@
 ---
 title: "اربعین کرنے آئی ہے زینب"
-alternateTitle: "Arbaeen Karne Aayi"
+alternateTitle: "Arbain Karne Aayi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Arbaeen karne aayi hai Zainab
+  Arbain karne aayi hai Zainab
   Zakhm par zakhm khaayi hai Zainab
 
   1
@@ -19,7 +19,7 @@ romanLyrics: |-
   Qabr-e-Sarwar pe aayi hai Zainab
 
   2
-  Jo bhi guzri hai Shaam o Kufe mein
+  Jo bhi guzri hai Shaam o Kufe meiṅ
   Khun-e-dil se sunaayi hai Zainab
 
   3
@@ -35,11 +35,11 @@ romanLyrics: |-
   Berida ho ke aayi hai Zainab
 
   6
-  Chhut gayi qaid mein Sakina bhi
+  Chhut gayi qaid meiṅ Sakina bhi
   Qabr us ki banaayi hai Zainab
 
   7
-  Kya na dekho ge reesma ke nishaaṅ
+  Kya na dekho ge risma ke nishaaṅ
   Jo ke baazu pe laayi hai Zainab
 
   8

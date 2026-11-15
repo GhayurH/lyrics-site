@@ -20,13 +20,13 @@ romanLyrics: |-
   Yuṅ maaṅ ko nahiṅ tarpao
 
   2
-  Socha tha dulhan main laauṅgi
+  Socha tha dulhan maiṅ laauṅgi
   Poshaak nayi banwaauṅgi
-  Aa jao sehra bandhaao
+  Aa jao sehra banrhaao
 
   3
-  Armaan main pura kar na saki
-  Tum ji na sake main mar na saki
+  Armaan maiṅ pura kar na saki
+  Tum ji na sake maiṅ mar na saki
   Is dil ki dua le jao
 
   4

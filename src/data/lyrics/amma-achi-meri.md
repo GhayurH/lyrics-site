@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Aakhri azaan to sun li
   Amma achi meri amma
-  Seene se laga lo marne ki riza do
+  Sine se laga lo marne ki riza do
   Amma achi meri amma
 
   1
@@ -22,7 +22,7 @@ romanLyrics: |-
   Tum apne jawaan laal ko Shabbir pe waaro
 
   2
-  Sehra tere bete ka muqaddar mein nahiṅ tha
+  Sehra tere bete ka muqaddar meiṅ nahiṅ tha
   Ab waqt ye aaya
   Poshak-e-shahani ko kafan mera banalo
 
@@ -37,17 +37,17 @@ romanLyrics: |-
   Ye sabr ki manzil hai zara dil ko sambhalo
 
   5
-  Kuch der mein ye laal bhi kehlayega laasha
+  Kuch der meiṅ ye laal bhi kehlayega laasha
   Hai ek tamanna
   Bimaar-e-Madina ko Madine se bula lo
 
   6
   Kya tum ko gawara hai ke zinda rahe beta
   Aur qatl ho baba
-  Main is liye kehta huṅ na jeene ki saza do
+  Maiṅ is liye kehta huṅ na jine ki saza do
 
   7
-  Tarpogi shab o roz meri yaad mein har dam
+  Tarpogi shab o roz meri yaad meiṅ har dam
   Karte hue maatam
   Ek baar mujhe apne kaleje se laga lo
 

@@ -14,7 +14,7 @@ romanLyrics: |-
   Ae mere laal Husain
 
   Karti hai bain Zehra aaṅsu baha baha kar
-  Bachche ko mere maara hai ran mein rula rula kar
+  Bachche ko mere maara hai ran meiṅ rula rula kar
 
   Allah rahm farma ik bezabaaṅ ki mayyat
   Aadaa nikaalte haiṅ neza chubha chubha kar
@@ -24,7 +24,7 @@ romanLyrics: |-
   Pite haiṅ paani aadaa hum ko dikha dikha kar
 
   2
-  Maara hai us ko pyaasa jangal mein zaalimoṅ ne
+  Maara hai us ko pyaasa jangal meiṅ zaalimoṅ ne
   Paala tha jis ko maaṅ ne chakki chala chala kar
 
   3
@@ -36,7 +36,7 @@ romanLyrics: |-
   Dar dar phira rahe haiṅ qaidi bana bana kar
 
   5
-  Ik ghamzada tasawwur mein apne laadle ko
+  Ik ghamzada tasawwur meiṅ apne laadle ko
   Lori suna rahi hai jhula jhula jhula kar
 
   6

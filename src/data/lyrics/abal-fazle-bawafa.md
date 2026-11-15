@@ -42,7 +42,7 @@ romanLyrics: |-
   4
   Ae nur-e-dil mara qamar ae roshni mara sahar
   Ba waqt-e-gham mara sipar Abal Fazl
-  Tere haiṅ ye sab bahr o bar tu hi duaoṅ mein asar
+  Tere haiṅ ye sab bahr o bar tu hi duaoṅ meiṅ asar
   Tere sabab hubb-e-khatar Abal Fazl
   Abal Fazl-e-Bawafa Alamdar-e-Lashkaram
   Mah-e-Hashmi nasab Amir-e-Dilawaram

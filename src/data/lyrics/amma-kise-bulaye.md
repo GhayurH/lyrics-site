@@ -11,23 +11,23 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Dekha jo dasht-e-khuni mein Zehra ke chain ne
+  Dekha jo dasht-e-khuni meiṅ Zehra ke chain ne
   Faryaad amma Zehra se yuṅ ki Husain ne
   Akbar Asghar Qasim Ghazi saare chale gaye
   Amma kise bulaaye Husain
 
   1
   Mehmaṅ bula ke ummat ne dil ka sukun luta hai
-  Naiza sitam ka ae amma sine mein mere tuta hai
+  Naiza sitam ka ae amma sine meiṅ mere tuta hai
   Tufaan aaṅsuoṅ ka hai saahil abhi mujh se rutha hai
 
   2
-  Maaṅga duaaoṅ mein jis ko us ko bhi kho chuka huṅ main
-  Karyal jawaaṅ ke laashe par maqtal mein ro chuka huṅ main
-  Binaai kho chuka huṅ main barbaad ho chuka huṅ main
+  Maaṅga duaaoṅ meiṅ jis ko us ko bhi kho chuka huṅ maiṅ
+  Karyal jawaaṅ ke laashe par maqtal meiṅ ro chuka huṅ maiṅ
+  Binaai kho chuka huṅ maiṅ barbaad ho chuka huṅ maiṅ
 
   3
-  Khaime mein jhula rota hai rota hai qalb maadar ka
+  Khaime meiṅ jhula rota hai rota hai qalb maadar ka
   Tarpa hai mere haathoṅ par nanha sa laasha Asghar ka
   Ye aakhri sipaahi tha ae amma mere lashkar ka
 
@@ -44,26 +44,26 @@ romanLyrics: |-
   6
   Bete ki guftagu sun kar roi Rasul ki beti
   Jalti zamiṅ pe baith kar boli Rasul ki beti
-  Main tere saath huṅ beta yaani Rasul ki beti
-  Aaja meri god mein aaja qurbaan ho ye maaṅ
+  Maiṅ tere saath huṅ beta yaani Rasul ki beti
+  Aaja meri god meiṅ aaja qurbaan ho ye maaṅ
 
   7
-  Har imtehaan mein beta main tujhko hausla duṅgi
-  Zakhmoṅ pe tere ashkoṅ ka marham bhi main laga duṅgi
+  Har imtehaan meiṅ beta maiṅ tujhko hausla duṅgi
+  Zakhmoṅ pe tere ashkoṅ ka marham bhi maiṅ laga duṅgi
   In zaalimoṅ ki nazroṅ se aaja tujhe bachaauṅ gi
-  Aaja meri god mein aaja qurbaan ho ye maaṅ
+  Aaja meri god meiṅ aaja qurbaan ho ye maaṅ
 
   8
   Ghore ki zin se Maula jis dam zamiṅ par aaye
   Gham se kaleja thaam kar Zehra pukaar uthi haaye
   Phaila ke apne haathoṅ ko jhula bana liya haaye
-  Aaja meri god mein aaja qurbaan ho ye maaṅ
+  Aaja meri god meiṅ aaja qurbaan ho ye maaṅ
 
   9
   Hai Shadmaṅ ke lab par nauha janaab-e-Zehra ka
   Maqtal ne is riwaayat ko kuchh is tarah se likha tha
-  Khud Mazhar Abidi jis ko nauhe mein dhaal kar roya
-  Aaja meri god mein aaja qurbaan ho ye maaṅ
+  Khud Mazhar Abidi jis ko nauhe meiṅ dhaal kar roya
+  Aaja meri god meiṅ aaja qurbaan ho ye maaṅ
 # source_id: nohayonline:e61b596e6b9ebe2c32e8
 # source_url: https://www.nohayonline.com/details_content.php?id=3052
 # raw_sha256: b31ad03d302e8d0d0f6f35251449c321a85c4cae847922bc93b0162877f97fc4

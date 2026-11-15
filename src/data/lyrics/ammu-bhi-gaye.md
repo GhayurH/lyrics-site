@@ -13,9 +13,9 @@ published: true
 romanLyrics: |-
   Jis dam jale qayaam-e-shahanshaah-e-bahr o bar
   Ek bachchi nikli khaime se us dam barehna sar
-  Jalta tha daaman aag se kapre the khuṅ mein tar
+  Jalta tha daaman aag se kapre the khuṅ meiṅ tar
   Maqtal ki simt rukh kiye jaati thi nauhagar
-  Sab ran mein jaa ke reh gaye tanha hameṅ kiya
+  Sab ran meiṅ jaa ke reh gaye tanha hameṅ kiya
   Aada ne chhini chaadareṅ khaima jala diya
   Ammu bhi gaye baba bhi gaye
 
@@ -32,9 +32,9 @@ romanLyrics: |-
   Kaun ab roke
 
   3
-  Bar waqt phuphi khaime mein gayi
+  Bar waqt phuphi khaime meiṅ gayi
   Bistar hi jala bas khair hui
-  Tap hai aisa ghash mein bhaiya
+  Tap hai aisa ghash meiṅ bhaiya
   Abid hai pare
 
   4
@@ -45,18 +45,18 @@ romanLyrics: |-
 
   5
   Athaara baras yuṅ paala tha
-  Pardes mein Akbar hoṅge juda
+  Pardes meiṅ Akbar hoṅge juda
   Sina kobi karti hai phuphi
   Kar ke naale
 
   6
   Naaloṅ se kaleja phatta hai
-  Ek dard sa dil mein uthta hai
+  Ek dard sa dil meiṅ uthta hai
   Maaṅ roti hai jaaṅ khoti hai
   Asghar na rahe
 
   7
-  Wo bain Anees ho kaise raqam
+  Wo bain Anis ho kaise raqam
   Karti thi Sakina jo pur gham
   Waqt-e-aakhir us ke lab par
   Naale ye rahe

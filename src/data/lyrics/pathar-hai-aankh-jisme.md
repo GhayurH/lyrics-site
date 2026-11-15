@@ -1,6 +1,6 @@
 ---
 title: "پتھر ہے آنکھ جس میں کہ اشک عزا نہیں"
-alternateTitle: "Patthar Hai Aankh Jis Mein"
+alternateTitle: "Patthar Hai Aankh Jis Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,11 +11,11 @@ tags: []
 aliases: ["Pathar Hai Aankh Jisme"]
 published: true
 romanLyrics: |-
-  Patthar hai aankh jis mein ke ashk-e-aza nahiṅ
-  Wo dil nahiṅ ke jis mein Ali ki wila nahiṅ
+  Patthar hai aankh jis meiṅ ke ashk-e-aza nahiṅ
+  Wo dil nahiṅ ke jis meiṅ Ali ki wila nahiṅ
 
   1
-  Jis qalb mein mawaddat-e-Aal-e-Aba nahiṅ
+  Jis qalb meiṅ mawaddat-e-Aal-e-Aba nahiṅ
   Samjho Nabi se us ko koi waasta nahiṅ
 
   2
@@ -27,7 +27,7 @@ romanLyrics: |-
   Karbobala ke baad koi Karbala nahiṅ
 
   4
-  Hai dil gham-e-Husain mein ik ashk ke ewaz
+  Hai dil gham-e-Husain meiṅ ik ashk ke ewaz
   Gar khuld mil rahi hai to sauda bura nahiṅ
 
   5
@@ -39,7 +39,7 @@ romanLyrics: |-
   Shabbir ke gale pe ye khanjar chala nahiṅ
 
   7
-  Aao gham-e-Husain mein maatam bapa kare
+  Aao gham-e-Husain meiṅ maatam bapa kare
   Ye wo namaaz-e-ishq hai jis ki qaza nahiṅ
 
   8
@@ -52,11 +52,11 @@ romanLyrics: |-
 
   10
   Ya Rab tere Nabi ki shariat to bach gai
-  Aal-e-Nabi ke ghar mein to kuchh bhi bacha nahiṅ
+  Aal-e-Nabi ke ghar meiṅ to kuchh bhi bacha nahiṅ
 
   11
   Ta zindagi Mohib ne munaafiq se jang ki
-  Haalaaṅki us ke haath mein koi asa nahiṅ
+  Haalaaṅki us ke haath meiṅ koi asa nahiṅ
 # source_id: nohayonline:871279b8bad5fa989f5f
 # source_url: https://www.nohayonline.com/details_content.php?id=1108
 # raw_sha256: 806e133f1d1f259fa4eeb7691adfea1196ca6c0a7eacf024a4c1aa82395d0fe9

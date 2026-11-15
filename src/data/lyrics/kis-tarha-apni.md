@@ -23,7 +23,7 @@ romanLyrics: |-
   Chhin kar koi na umid-e-sahar le jaaye
 
   3
-  Paaoṅ zakhmi hai to raahoṅ mein hai patthar kaante
+  Paaoṅ zakhmi hai to raahoṅ meiṅ hai patthar kaante
   Jaane Aabid ko kahaaṅ tak ye safar le jaaye
 
   4
@@ -35,12 +35,12 @@ romanLyrics: |-
   Hurmula mujh se mera lakht-e-jigar le jaaye
 
   6
-  Rakh ke aankhoṅ ke sulagte hue is maqtal mein
+  Rakh ke aankhoṅ ke sulagte hue is maqtal meiṅ
   Laash bachchoṅ ki ke Shabbir ka sar le jaaye
 
   7
   Shaairi ki meri meyaar yehi hogi Nazir
-  Zikr-e-Sarwar mein mujhe maut agar le jaaye
+  Zikr-e-Sarwar meiṅ mujhe maut agar le jaaye
 # source_id: nohayonline:ee5119801cb962699a76
 # source_url: https://www.nohayonline.com/details_content.php?id=314
 # raw_sha256: 97c6c7c46fa28377c0dd7c0dcbcf91688b6ae701bb07763ad9c7a26c7ac06992

@@ -1,6 +1,6 @@
 ---
 title: "ماں کہتی تھی سینے سے لگا لوں تُجھے آ جا"
-alternateTitle: "Maa Kehti Thi Seene"
+alternateTitle: "Maa Kehti Thi Sine"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -14,12 +14,12 @@ romanLyrics: |-
   Ik baar to phir laut ke Asghar mere aa ja
 
   1
-  Furqat mein teri nind bhi aati nahiṅ beta
+  Furqat meiṅ teri nind bhi aati nahiṅ beta
   Ab kis ke sahaare pe ye maadar jiye aa ja
 
   2
   Haiṅ ab to mere haath bhi aazaad rasan se
-  Aa god mein luṅ dil mein chhupa luṅ tujhe aa ja
+  Aa god meiṅ luṅ dil meiṅ chhupa luṅ tujhe aa ja
 
   3
   Sunti huṅ ke ab nehr pe pehra bhi nahiṅ hai

@@ -14,41 +14,41 @@ published: true
 # source_url: https://www.nohayonline.com/details_content.php?id=1757
 # raw_sha256: 6392188ccd1e1448d8b4eea9c44b1bce92b1759a4a61f77c9f4aab74c5e4edf8
 romanLyrics: |-
-  Ali Akbar abhi maidaṅ mein na jao beta
+  Ali Akbar abhi maidaṅ meiṅ na jao beta
 
   1
   Teri shadi ka hai arman bara Zainab ko
   Har ghari rehta hai bas dhyan tera Zainab ko
   Tum bichhar jaoge malum na tha Zainab ko
-  Ghamzada Zainab-e-Zeeshan ko manao beta
+  Ghamzada Zainab-e-Zishan ko manao beta
 
   2
   Tujh se chhut kar teri maaṅ chain nahiṅ paegi
   Zindagi bhar teri surat ko taras jaegi
-  Teri furqat mein use niṅd kahaṅ aaegi
+  Teri furqat meiṅ use niṅd kahaṅ aaegi
   Kaise ji paegi dukhiyari batao beta
 
   3
   Ahmad-e-Mursal-e-Aazam ki shabahat tum ho
   Baad-e-Abbas-e-Jari meri bizaat tum ho
   Sach to ye hai meri aaṅkhoṅ ki basarat tum ho
-  Lahn-e-Ahmad mein azaṅ de ke sunao beta
+  Lahn-e-Ahmad meiṅ azaṅ de ke sunao beta
 
   4
   Zindagi bhar teri furqat mujhe tarpaegi
-  Ab khushi laut ke is ghar mein nahiṅ aaegi
+  Ab khushi laut ke is ghar meiṅ nahiṅ aaegi
   Sath tere meri binayi chali jaegi
   Apni surat mujhe ik baar dikhao beta
 
   5
   Jo mere dil pe guzarti hai batauṅ kaise
   Zakhm sine ka mere lal chhupauṅ kaise
-  Main zaeefi mein jawaṅ lash uthauṅ kaise
+  Maiṅ zaifi meiṅ jawaaṅ lash uthauṅ kaise
   Meri ghurbat pe zara rahm to khao beta
 
   6
   Tir khaega meri god ka pala Asghar
-  Ab koi dam mein main ho jauṅga tanha Akbar
+  Ab koi dam meiṅ maiṅ ho jauṅga tanha Akbar
   Tham kar tuti kamar kehte the Sarwar Mazher
   Apni peshani pe sehra to sajao beta
 ---

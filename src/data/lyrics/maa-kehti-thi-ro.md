@@ -16,12 +16,12 @@ romanLyrics: |-
   Hai Karb o Bala mehshar so jaao mere beta
 
   1
-  Nazroṅ se lainoṅ ki main tum ko bacha leti
-  Mamta bhare aanchal ke saaye mein chhupa leti
+  Nazroṅ se lainoṅ ki maiṅ tum ko bacha leti
+  Mamta bhare aanchal ke saaye meiṅ chhupa leti
   Majbur hai ye maadar so jaao mere beta
 
   2
-  Aise mein sabhi apne maujud sahaare haiṅ
+  Aise meiṅ sabhi apne maujud sahaare haiṅ
   Hai paas Ali Asghar ammu bhi tumhaare haiṅ
   Hai waqt yehi behtar so jaao mere beta
 
@@ -31,7 +31,7 @@ romanLyrics: |-
   Socho to zara dilbar so jaao mere beta
 
   4
-  Jaago ge agar aise ghabra ke main ro duṅ gi
+  Jaago ge agar aise ghabra ke maiṅ ro duṅ gi
   Sukhe tere hontoṅ ko ashkoṅ se bhigo duṅ gi
   Ae jaan-e-dil-e-maadar so jaao mere beta
 
@@ -46,13 +46,13 @@ romanLyrics: |-
   Shashmaah mere Asghar so jaao mere beta
 
   7
-  Aashur ko kal ran mein ik hashr bapa hoga
+  Aashur ko kal ran meiṅ ik hashr bapa hoga
   Har simt se gunje ga ik shor qayaamat ka
   Nind aaye gi phir kiuṅ kar so jaao mere beta
 
   8
   Mehsus karo beta ik maa ki pareshaani
-  Kya duṅ main tumheṅ ghar mein ik bund nahiṅ paani
+  Kya duṅ maiṅ tumheṅ ghar meiṅ ik bund nahiṅ paani
   Bas ashkoṅ ke haiṅ saaghar so jaao mere beta
 
   9
@@ -63,11 +63,11 @@ romanLyrics: |-
   10
   Kya baat hai kiuṅ chup ho kuchh muṅh se kaho beta
   Bechain tumheṅ itna pehle to nahiṅ dekha
-  Jo dil mein hai wo keh kar so jaao mere beta
+  Jo dil meiṅ hai wo keh kar so jaao mere beta
 
   11
-  Kin uljhanoṅ mein ho tum ik shab ke mere mehmaaṅ
-  Ho jaaye gi kal ran mein mushkil teri har aasaaṅ
+  Kin uljhanoṅ meiṅ ho tum ik shab ke mere mehmaaṅ
+  Ho jaaye gi kal ran meiṅ mushkil teri har aasaaṅ
   Jaao ge lab-e-Kausar so jaao mere beta
 
   12

@@ -41,7 +41,7 @@ romanLyrics: |-
 
   5
   Shikwa na karna Asghar, paani nahiṅ mayassar
-  Aansu baha ke main ne, turbat ko kar diya tar
+  Aansu baha ke maiṅ ne, turbat ko kar diya tar
   Ae chhe mahine waale tujh ko mera salaam
   Asghar haye Asghar
 
@@ -52,7 +52,7 @@ romanLyrics: |-
   Asghar haye Asghar
 
   7
-  Taarikh-e-Karbala ko, parh kar Anees dekho
+  Taarikh-e-Karbala ko, parh kar Anis dekho
   Qaatil bhi sar jhukaaye, kehte mileṅ ge tum ko
   Ae chhe mahine waale tujh ko mera salaam
   Asghar haye Asghar

@@ -15,31 +15,31 @@ romanLyrics: |-
   Pyasi hai Sakina
 
   1
-  Is chhote se sin mein ye sitam main ne uthaaye
+  Is chhote se sin meiṅ ye sitam maiṅ ne uthaaye
   Allah kisi ko na yatim aisa banaaye
-  Khud apne lahu mein koi bachchi na nahaaye
-  Main tum ko bulaati rahi tum bhi to na aaye
-  Main ban gayi baad-e-asr lainoṅ ka nishaana
+  Khud apne lahu meiṅ koi bachchi na nahaaye
+  Maiṅ tum ko bulaati rahi tum bhi to na aaye
+  Maiṅ ban gayi baad-e-asr lainoṅ ka nishaana
   Pyasi hai Sakina
 
   2
   Paani ki talab mujh ko khilaati rahi thokar
-  Kehta tha laiṅ duṅga main faujoṅ ko pila kar
+  Kehta tha laiṅ duṅga maiṅ faujoṅ ko pila kar
   Jab Shimr laiṅ kar chuka sairaab ye lashkar
   Dikhla ke mujhe pheṅk diya paani zamiṅ par
-  Tab samjhi main kya hota hai ummid dilaana
+  Tab samjhi maiṅ kya hota hai ummid dilaana
   Pyasi hai Sakina
 
   3
-  Ek jaam hua shaam-e-gharibaaṅ mein mayassar
-  Wo kuza main rakh aayi thi Asghar ki lahad par
+  Ek jaam hua shaam-e-gharibaaṅ meiṅ mayassar
+  Wo kuza maiṅ rakh aayi thi Asghar ki lahad par
   Tha mujh se bhi chhota mera bhaiya mera dilbar
-  Sharminda main ho jaati chacha pyaas bujha kar
+  Sharminda maiṅ ho jaati chacha pyaas bujha kar
   Ab apne hi haathoṅ se meri pyaas bujhaana
   Pyasi hai Sakina
 
   4
-  Ek rassi mein hum sab ke gale baandh ke aada
+  Ek rassi meiṅ hum sab ke gale baandh ke aada
   Karte hue tashhir chale jaanib-e-Kufa
   Aur us pe musibat ye thi qad chhota tha mera
   Uthti thi jo phuphiyaṅ to gala khinchta tha mera
@@ -49,24 +49,24 @@ romanLyrics: |-
   5
   Jis roz se Asghar ko mila baba ka sina
   Us roz se ammu nahiṅ so paayi Sakina
-  Is haal mein jaauṅgi main kis tarah Madina
+  Is haal meiṅ jaauṅgi maiṅ kis tarah Madina
   Aa jaaye mujhe maut hai kis kaam ka jina
   Jaagi huṅ bahut aa ke chacha mujh ko sulaana
   Pyasi hai Sakina
 
   6
   Ghar laut ke jaate haiṅ har ek shaam parinde
-  Qismat mein likhe haiṅ meri zindaaṅ ke andhere
-  Kab tak main jiuṅgi yuṅhi ashkoṅ ke sahaare
+  Qismat meiṅ likhe haiṅ meri zindaaṅ ke andhere
+  Kab tak maiṅ jiuṅgi yuṅhi ashkoṅ ke sahaare
   Lagta hai ke mar jaauṅgi ab dur watan se
   Hoga na mayassar mujhe ghar laut ke jaana
   Pyasi hai Sakina
 
   7
   Anwar ye sada parcham-e-Abbas se aayi
-  Main bhul nahiṅ sakta Sakina meri bachchi
+  Maiṅ bhul nahiṅ sakta Sakina meri bachchi
   Kaate gaye baazu mere majbur tha Bibi
-  Mashkiza alam mein hai laga dekh le ab bhi
+  Mashkiza alam meiṅ hai laga dekh le ab bhi
   Parcham ka mere kaam hai dunya ko bataana
   Pyasi hai Sakina
 # source_id: nohayonline:c9dc830a3544bc137a4d

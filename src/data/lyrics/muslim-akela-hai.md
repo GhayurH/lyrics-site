@@ -24,8 +24,8 @@ romanLyrics: |-
 
   2
   Bari dushwaar manzil hai kabhi aisa na waqt aaye
-  Watan se dur ghurbat mein koi aisa na dukh paaye
-  Ruqayya hone waali hai abhi kuchh der mein bewa
+  Watan se dur ghurbat meiṅ koi aisa na dukh paaye
+  Ruqayya hone waali hai abhi kuchh der meiṅ bewa
   Mera Muslim akela hai
 
   3
@@ -35,7 +35,7 @@ romanLyrics: |-
   Mera Muslim akela hai
 
   4
-  Kate hontoṅ ka us ke khun jab paani mein girta hai
+  Kate hontoṅ ka us ke khun jab paani meiṅ girta hai
   Gira kar jaam paani ko bari hasrat se takta hai
   Na jaane kitna zakhmi hai na jaane kab se hai pyaasa
   Mera Muslim akela hai
@@ -60,8 +60,8 @@ romanLyrics: |-
 
   8
   Mere Abbas-e-Ghaazi ki bahan ka hai yahaaṅ rauza
-  Tere purse ko Maula main to Kufa aa nahiṅ sakta
-  Main Bibi Paak Daaman ko tera nauha sunaauṅ ga
+  Tere purse ko Maula maiṅ to Kufa aa nahiṅ sakta
+  Maiṅ Bibi Paak Daaman ko tera nauha sunaauṅ ga
   Mera Muslim akela hai
 
   9

@@ -28,7 +28,7 @@ romanLyrics: |-
 
   3
   Jab khule Baab-e-Hawaaij ke maani mujh par
-  Tab main samjha huṅ ke mujh par ye karam kis ka hai
+  Tab maiṅ samjha huṅ ke mujh par ye karam kis ka hai
   Lab-e-darya zara dekho ye alam kis ka hai
 
   4
@@ -43,12 +43,12 @@ romanLyrics: |-
 
   6
   Wo farishte ho ke insaan sabhi shaamil hai
-  Aisa duniya mein bataao zara gham kis ka hai
+  Aisa duniya meiṅ bataao zara gham kis ka hai
   Lab-e-darya zara dekho ye alam kis ka hai
 
   7
   Nauha Ghaazi ka hai aawaaz Hasan Sadiq ki
-  Aur Rehaan ke haathoṅ mein qalam kis ka hai
+  Aur Rehaan ke haathoṅ meiṅ qalam kis ka hai
   Lab-e-darya zara dekho ye alam kis ka hai
 # source_id: nohayonline:bf1bb0fd2ddf32094405
 # source_url: https://www.nohayonline.com/details_content.php?id=2968

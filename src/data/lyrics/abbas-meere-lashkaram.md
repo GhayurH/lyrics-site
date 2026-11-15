@@ -24,7 +24,7 @@ romanLyrics: |-
 
   2
   Ek naujawaṅ ek shahsawar
-  Haathoṅ mein neza tez dhaar
+  Haathoṅ meiṅ neza tez dhaar
   Dushman giraaye beshumar
   Barhta gaya yuṅ dam ba dam
 
@@ -35,13 +35,13 @@ romanLyrics: |-
   Khai Sakina ki qasam
 
   4
-  Raah-e-wafa mein khuṅ diya
+  Raah-e-wafa meiṅ khuṅ diya
   Ek bund na pani piya
   Darya pe jab gaara alam
   Sab keh uthe Arab o Ajam
 
   5
-  Maidaaṅ mein jab Ghazi gaya
+  Maidaaṅ meiṅ jab Ghazi gaya
   Haider ki tarah dat gaya
   Parcham ko jhukne na diya
   Aur ho gaye bazu qalam
@@ -61,20 +61,20 @@ romanLyrics: |-
   8
   Abbas ne Sheh se kaha
   Aaqa meri hai iltija
-  Laasha na jaaye khaimoṅ mein
+  Laasha na jaaye khaimoṅ meiṅ
   Kar dijiye itna karam
 
   9
   Bachchoṅ ka tuta aasra
   Aaya alam jo khuṅ bhara
-  Ghash mein Sakina gir pari
+  Ghash meiṅ Sakina gir pari
   Ye ho gaya kaisa alam
 
   10
   Irfan ki hai iltija
   Mesum ki puri ho dua
-  Nohagar tera main rahuṅ
-  Jab tak rahe sine mein dam
+  Nohagar tera maiṅ rahuṅ
+  Jab tak rahe sine meiṅ dam
 # source_id: nohayonline:6f48b5a3f9810cf86ee0
 # source_url: https://www.nohayonline.com/details_content.php?id=2515
 # raw_sha256: 3bb76986c5b884c3481dfc11cb9fff749929da303dc12f21977662dfe3c49b6e

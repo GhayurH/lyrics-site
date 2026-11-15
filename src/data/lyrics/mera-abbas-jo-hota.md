@@ -14,13 +14,13 @@ romanLyrics: |-
   Yuṅ rasan basta na hoti kabhi Bint-e-Zehra
   Mera Abbas jo hota mera Abbas jo hota
 
-  Kaun balwe mein phiraata mujhe yuṅ beparda
+  Kaun balwe meiṅ phiraata mujhe yuṅ beparda
   Mera Abbas jo hota mera Abbas jo hota
 
   1
-  Aaj tak main ne suna bhi na tha bazaar ka naam
+  Aaj tak maiṅ ne suna bhi na tha bazaar ka naam
   Haaṅ meri maaṅ ne liya tha kabhi darbaar ka naam
-  Main kahaaṅ aur kahaaṅ Ahl-e-Jafa ka balwa
+  Maiṅ kahaaṅ aur kahaaṅ Ahl-e-Jafa ka balwa
 
   2
   Kaun zaalim mere khaimoṅ ko jalaata aa kar
@@ -28,13 +28,13 @@ romanLyrics: |-
   Kahaaṅ jal sakta tha beshir ka nanha jhula
 
   3
-  Aaj Kufe mein na hoti meri ye barbaadi
+  Aaj Kufe meiṅ na hoti meri ye barbaadi
   Jahaaṅ qaidi huṅ kahi jaati wahiṅ shahzaadi
   Shaane katwa ke na sota jo mera shahzaada
 
   4
-  Is tarah Aal-e-Nabi jaati na darbaaroṅ mein
-  Naam Zainab ka na leta koi bazaaroṅ mein
+  Is tarah Aal-e-Nabi jaati na darbaaroṅ meiṅ
+  Naam Zainab ka na leta koi bazaaroṅ meiṅ
   Khaana-e-Aaya-e-Tathir na hota ruswa
 
   5
@@ -43,17 +43,17 @@ romanLyrics: |-
   Nazar aata na yahaaṅ koi sitamgar zinda
 
   6
-  God mein maaṅ ki humakta Ali Asghar mera
+  God meiṅ maaṅ ki humakta Ali Asghar mera
   Kheṅchta aa ke qanaateṅ Ali Akbar mera
   Raat bhar wo mere khaime ka talaaya phirta
 
   7
   Mere bachchoṅ ko agar maut nahiṅ aa jaati
-  Apne ghar main bhi kabhi chaand si bahueṅ laati
+  Apne ghar maiṅ bhi kabhi chaand si bahueṅ laati
   Baandhti Aun o Muhammad ke saroṅ par sehra
 
   8
-  Main huṅ Zainab mere bhai the hamiyat waale
+  Maiṅ huṅ Zainab mere bhai the hamiyat waale
   Hausle waale wafa waale shujaaat waale
   Dekh sakta na tha suraj kabhi mera chehra
 

@@ -10,35 +10,35 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ek baar aur mujhe god mein le lo Baba
+  Ek baar aur mujhe god meiṅ le lo Baba
 
   1
-  Wa Husaina ka hua shor haram mein barpa
+  Wa Husaina ka hua shor haram meiṅ barpa
   Ho ke rukhsat jo chale ghar se Shah-e-Karb o Bala
   Keh ke ye dauri Sakina ke thehar jao zara
 
   2
-  Sheh ne bachchi ka jo ye haal pareshan dekha
+  Sheh ne bachchi ka jo ye haal pareshaṅ dekha
   Ro ke farmaya ke kya haal meri mahlaqa
-  Jor kar nanhe se haathon ko Sakina ne kaha
+  Jor kar nanhe se haathoṅ ko Sakina ne kaha
 
   3
   Sochti huṅ ke tamache koi maare na mere
-  Goshware koi kaanon se utare na mere
-  Wahm aate hain mere dil mein na jaane kya kya
+  Goshware koi kaanoṅ se utare na mere
+  Wahm aate haiṅ mere dil meiṅ na jaane kya kya
 
   4
-  Main samajhti huṅ ke yunhi mujhe behlate ho
+  Maiṅ samajhti huṅ ke yunhi mujhe behlate ho
   Tha na malum ke marne ke liye jaate ho
   Tum hamesha ke liye hote ho ab mujh se juda
 
   5
   Baba sine se Sakina ko lagate jao
-  Ab kahan hogi mulaqat batate jao
+  Ab kahaṅ hogi mulaqat batate jao
   Tum ko Akbar ki qasam ghuncha dahan ka sadqa
 
   6
-  Ab main pyasi huṅ na pani ki zarurat hai mujhe
+  Ab maiṅ pyasi huṅ na pani ki zarurat hai mujhe
   Koi hajat nahi bas itni si hasrat hai mujhe
   Dekh luṅ phir se ji bhar ke tumhara chehra
 
@@ -48,14 +48,14 @@ romanLyrics: |-
   Dil dharakta hai mera bahr-e-Nabi bahr-e-Khuda
 
   8
-  Apni aaghosh mein ae Baba chhupa lo mujh ko
+  Apni aaghosh meiṅ ae Baba chhupa lo mujh ko
   Aakhri baar kaleje se laga lo mujh ko
-  Jite ji aah kahan ab tumhein pauṅgi bhala
+  Jite ji aah kahaṅ ab tumheiṅ pauṅgi bhala
 
   9
   Tum na aaoge to ae Baba bahot rouṅgi
   Kis ke sine pe bata dijiye phir souṅgi
-  Na to bhaiya Ali Akbar hain na Abbas Chacha
+  Na to bhaiya Ali Akbar haiṅ na Abbas Chacha
 
   10
   Zabt ki taab na Maula ko rahi ae Anwar

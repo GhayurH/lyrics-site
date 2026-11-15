@@ -11,8 +11,8 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Tu bekafan hai baba aur main huṅ berida
-  Naize pe sar tumhaara rasan mein mera gala
+  Tu bekafan hai baba aur maiṅ huṅ berida
+  Naize pe sar tumhaara rasan meiṅ mera gala
 
   1
   Ruk jaane pe lagaaye durre mujhe laiṅ ne
@@ -32,11 +32,11 @@ romanLyrics: |-
 
   5
   Zaalim ne jab pukaara mujh ko kaniz keh kar
-  Deti rahi main baba ro kar tumheiṅ sada
+  Deti rahi maiṅ baba ro kar tumheiṅ sada
 
   6
   Aisa safar na dekheiṅ ab koi baap beti
-  Kaaṅtoṅ pe main chali huṅ naize pe tu chala
+  Kaaṅtoṅ pe maiṅ chali huṅ naize pe tu chala
 
   7
   Naize se is liye bhi girta hai sar chacha ka

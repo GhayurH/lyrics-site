@@ -23,7 +23,7 @@ romanLyrics: |-
   2
   Ashk beh beh ke haiṅ yeh bataate yeh maqaam-e-aqidat hai kaisa
   Koi duniya meiṅ mujh ko bataae martaba hai mila kis ko aisa
-  Us ko kis naam se main pukaaruṅ jis ke daaman meiṅ Zainab khari hai
+  Us ko kis naam se maiṅ pukaaruṅ jis ke daaman meiṅ Zainab khari hai
 
   3
   Jaa rahe ho magar dhyaan rakhna beijaazat lahad meiṅ na jaana

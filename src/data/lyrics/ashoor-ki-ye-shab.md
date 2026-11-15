@@ -31,14 +31,14 @@ romanLyrics: |-
 
   3
   Qasim Hasan ka laal jo maidan ko jayega
-  Dasht-e-Bala mein khun ka darya bahayega
+  Dasht-e-Bala meiṅ khun ka darya bahayega
   Maqtal ki sar zamin ko mehshar banayega
   Naushah-e-Karbala pe shahadat ki raat hai
 
   4
   Kal subha deke aakhri mojiz numa azaaṅ
-  Barchi jigar pa khayega phir Akbar-e-jawaṅ
-  Sakte mein kal se aakhri din tak rahegi maaṅ
+  Barchi jigar pa khayega phir Akbar-e-jawaaṅ
+  Sakte meiṅ kal se aakhri din tak rahegi maaṅ
   Bete ki aakhri ye ziyarat ki raat hai
 
   5
@@ -50,7 +50,7 @@ romanLyrics: |-
   6
   Shaane kata ke nehr pa Abbas soyenge
   Tuti kamar ko thaam ke Shabbir royenge
-  Bachche bhi pyaas bujhne ki ummeed khoyenge
+  Bachche bhi pyaas bujhne ki ummid khoyenge
   Ghazi pa aaj zabt-e-shujaat ki raat hai
 
   7
@@ -68,17 +68,17 @@ romanLyrics: |-
   9
   Hangam-e-Asr qatl kiye jayenge Husain
   Kal bekafan rahenge yahaaṅ shaah-e-mashraqain
-  Maqtal mein gunj uthenge kal Fatima ke bain
+  Maqtal meiṅ gunj uthenge kal Fatima ke bain
   Ye raat mere laal pa ghurbat ki raat hai
 
   10
   Laazim hai kaainaat pa ye gham Husain ka
-  Kaise karenge haq ye ada hum Husain ka
+  Kaise kareṅge haq ye ada hum Husain ka
   Bachpan se karte aaye haiṅ matam Husain ka
   Apne liye ye raat saadat ki raat hai
 
   11
-  Maango Jameel Khaaliq-e-Akbar se ye dua
+  Maango Jamil Khaaliq-e-Akbar se ye dua
   Ae Rabb-e-Pak tujh ko hai is shab ka waasta
   Hum sab Husain waaloṅ ko pahuncha de Karbala
   Aansu bahaye jao ye riqqat ki raat hai

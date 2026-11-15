@@ -13,11 +13,11 @@ reciter: "Shahid Baltistani"
 romanLyrics: |-
   Akbar-e-man naujawaṅ Akbar-e-man
   Ae mere rahat-e-jaaṅ naujawaṅ Akbar-e-man
-  Tujh pe qurban ye maaṅ naujawaṅ Akbar-e-man jawan
+  Tujh pe qurban ye maaṅ naujawaṅ Akbar-e-man jawaaṅ
 
   1
   Saal atharahwaṅ kya ban ke qayamat aaya
-  Chand se sine pe pardes mein naiza khaya
+  Chand se sine pe pardes meiṅ naiza khaya
   Hai kahaṅ zakhm-e-sinaṅ bol kuchh to meri jaaṅ
 
   2
@@ -27,7 +27,7 @@ romanLyrics: |-
 
   3
   Wada Sughra se kiya tha jo chale the ghar se
-  Laut aauṅ ga bahut jald main tujh se milne
+  Laut aauṅ ga bahut jald maiṅ tujh se milne
   Dhundhti hai wo behen tere qadmoṅ ke nishaṅ
 
   4
@@ -38,7 +38,7 @@ romanLyrics: |-
   5
   Kha ke sine pe sinaṅ sota hai tu lakht-e-jigar
   Tere bin zinda na reh pae gi teri madar
-  Us ke haathoṅ mein rasan jis ka ho laal jawaṅ
+  Us ke haathoṅ meiṅ rasan jis ka ho laal jawaaṅ
 
   6
   Aa gai gyarah Muharram hai safar zindaṅ ka
@@ -51,8 +51,8 @@ romanLyrics: |-
   Pa-e-Sajjad ke hai aable nauha kunaṅ
 
   8
-  Maaṅ ke armaan tere saath hi soe ban mein
-  Tu ne sine pe sinaṅ khai kuchh aise ran mein
+  Maaṅ ke armaan tere saath hi soe ban meiṅ
+  Tu ne sine pe sinaṅ khai kuchh aise ran meiṅ
   Roya Rehaan qalam likh ke Laila ka bayaṅ
 # source_id: nohayonline:4e5a31055586acd39fe9
 # source_url: https://www.nohayonline.com/details_content.php?id=2708

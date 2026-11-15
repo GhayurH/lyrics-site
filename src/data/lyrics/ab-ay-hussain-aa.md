@@ -34,9 +34,9 @@ romanLyrics: |-
   Paani ki bund bund ko bachche taras gaye
   Ghazi ne tere nehr pe katwa diye haiṅ haath
   Zinda rahenge haath ye mashk o alam ke saath
-  Islam sar barehna khada tha jo saamne
+  Islam sar barehna khara tha jo saamne
   Zainab ne apne sar ki rida bakhsh di use
-  Zehra ne chakki pees ke paala tujhe Husain
+  Zehra ne chakki pis ke paala tujhe Husain
   In dushmanoṅ ne maar hi daala tujhe Husain
   Tu ne jawaaṅ pisar Ali Akbar bhi de diya
   Shashmaah bezabaaṅ Ali Asghar ko bhi de diya
@@ -44,29 +44,29 @@ romanLyrics: |-
   Islam ki baqaa ke liye sar bhi de diya
   Ab saari kainaat tere naam hai Husain
   Islam tere dam se hi Islam hai Husain
-  Haaṅ main huṅ tera tu hai mera
+  Haaṅ maiṅ huṅ tera tu hai mera
   Ab ae Husain aa ab ae Husain aa
 
   3
   Zakhmoṅ se chur chur hai tera badan Husain
-  Jangal mein lut gaya tera saara chaman Husain
+  Jangal meiṅ lut gaya tera saara chaman Husain
   Laashoṅ se saj gayi hai teri anjuman Husain
   Ab Karbala ki khaak hai tera watan Husain
-  Khaak-e-shifa hai main ne teri khaak ko kiya
+  Khaak-e-shifa hai maiṅ ne teri khaak ko kiya
   Takmil tujh se Panjtan-e-Paak ko kiya
-  Tu mera aaina hai main huṅ aaina tera
+  Tu mera aaina hai maiṅ huṅ aaina tera
   Ab ae Husain aa ab ae Husain aa
 
   4
-  Husain marzi-e-Khaaliq hai tere haathoṅ mein
-  Payam o haq o sadaqat hai tere haathoṅ mein
+  Husain marzi-e-Khaaliq hai tere haathoṅ meiṅ
+  Payam o haq o sadaqat hai tere haathoṅ meiṅ
   Ba ho chuki ye jang har ek maareka hua
   Raazi Husain tujhse tera kibriya hua
-  Rakh ae Husain apni ye shamshir niyam mein
-  Aa baargah-e-jalwa-e-Rabb-e-anaam mein
+  Rakh ae Husain apni ye shamshir niyam meiṅ
+  Aa baargah-e-jalwa-e-Rabb-e-anaam meiṅ
   Zakhmoṅ se saara jism sajaya hua hai tu
-  Apne lahu mein aaj nahaya hua hai tu
-  Tanha khada rahega bhala kab talak bata
+  Apne lahu meiṅ aaj nahaya hua hai tu
+  Tanha khara rahega bhala kab talak bata
   Ab ae Husain aa ab ae Husain aa
 # editorial_uncertainty: Archived HTML verified; kalaf/کلف, ba/با and other wording need audio or print. Existing numbered groups retained pending stanza review; complete source refrains restored.
 # source_id: nohayonline:0e3ac9ae084f8d99ee57

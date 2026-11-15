@@ -37,10 +37,10 @@ romanLyrics: |-
 
   4
   Jo malika-e-haya thi
-  Raahoṅ mein berida thi
+  Raahoṅ meiṅ berida thi
   Ye soch kar hi Zainab
   Bas mahw-e-marsiya thi
-  Shirin ke ghar mein jaa kar
+  Shiriṅ ke ghar meiṅ jaa kar
 
   5
   Is se bari qayaamat
@@ -52,7 +52,7 @@ romanLyrics: |-
   6
   Abba ki behen par
   Ik aisa waqt aaya
-  Darbaar mein sitam ke
+  Darbaar meiṅ sitam ke
   Shimr-e-laiṅ pukaara
   Hai kaun sheh ki khwahar
 
@@ -61,7 +61,7 @@ romanLyrics: |-
   Manzar wo yaad aaya
   Nazreṅ jhukaao logoṅ
   Abbas ne kaha tha
-  Ab Shaam mein khule sar
+  Ab Shaam meiṅ khule sar
 
   8
   Athaara bhaaiyoṅ ki
@@ -71,11 +71,11 @@ romanLyrics: |-
   Fizza jo boli ro kar
 
   9
-  Darbaar mein gayi thi
+  Darbaar meiṅ gayi thi
   Ik roz Fatima bhi
   Lekin rida thi sar par
   Betoṅ se thi tasalli
-  Yaad aaya usay ye manzar
+  Yaad aaya use ye manzar
 
   10
   Guzri jo Bibiyoṅ par

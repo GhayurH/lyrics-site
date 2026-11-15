@@ -16,7 +16,7 @@ romanLyrics: |-
   Haye Zainab haye Zainab
 
   1
-  Taaziya khaanoṅ mein aankhoṅ ko bhigone waale
+  Taaziya khaanoṅ meiṅ aankhoṅ ko bhigone waale
   Kaise bhule tujhe Shabbir ko rone waale
   Ki ye bunyaad-e-aza tu ne hi rakhi Zainab
 
@@ -27,8 +27,8 @@ romanLyrics: |-
 
   3
   Kis ko kehte hai sukuṅ tera jigar kya jaane
-  Teri nazroṅ mein hai Ghaazi ke tarapte shaane
-  Aur pehlu mein kisi jhule ki garmi Zainab
+  Teri nazroṅ meiṅ hai Ghaazi ke tarapte shaane
+  Aur pehlu meiṅ kisi jhule ki garmi Zainab
 
   4
   Tu ne mitti hui Shabbar ki nishaani dekhi
@@ -38,10 +38,10 @@ romanLyrics: |-
   5
   Uff wo tapta hua sehra wo Husain ibn-e-Ali
   Haye wo khushk gala haye wo zaalim ki chhuri
-  Haye maqtal mein wohi tu bhi khari thi Zainab
+  Haye maqtal meiṅ wohi tu bhi khari thi Zainab
 
   6
-  Rassiyoṅ mein jo jakarte haiṅ tere shaanoṅ ko
+  Rassiyoṅ meiṅ jo jakarte haiṅ tere shaanoṅ ko
   Kaash itna koi batla de musalmaanoṅ ko
   Tu hai mukhtaar-e-do aalam ki nawaasi Zainab
 
@@ -53,7 +53,7 @@ romanLyrics: |-
   8
   Is qadar tashna jigar tashna dahan koi nahiṅ
   Laakhoṅ behneṅ haiṅ magar aisi behen koi nahiṅ
-  Bhai ki yaad mein betoṅ ko na royi Zainab
+  Bhai ki yaad meiṅ betoṅ ko na royi Zainab
 
   9
   Aaye haiṅ Nayyar o Aamir bhi salaami ke liye

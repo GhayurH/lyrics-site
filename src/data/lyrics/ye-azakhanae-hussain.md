@@ -19,11 +19,11 @@ romanLyrics: |-
 
   1
   Kuch log din-e-haq ko bachaane ke waaste
-  Beghar hue kuch aise ke har ghar mein aa gaye
+  Beghar hue kuch aise ke har ghar meiṅ aa gaye
   Ghar azaakhaana ban gaya ghar azaakhaana ban aaya
 
   2
-  Ghar mein Zehra ke jab qadam aaye
+  Ghar meiṅ Zehra ke jab qadam aaye
   Shah-e-Yasrab Shah-e-umam aaye
   Pursa lene ko aa gaye Haidar
   Un ke bachchoṅ ke jab alam aaye
@@ -35,7 +35,7 @@ romanLyrics: |-
   Ilm shohrat hunar wafaadaari
   Zinat-e-ishq ki hai tayyaari
   Ahl-e-maatam ki bas ye khwaahish hai
-  Khaana-e-haq mein ho azaadaari
+  Khaana-e-haq meiṅ ho azaadaari
   Nazr-e-Maula ka ehtimaam bhi ho
   Haamiyaan-e-Khuda kare nauha
   Ye azaakhaana-e-Husain hai
@@ -59,7 +59,7 @@ romanLyrics: |-
   Ye azaakhaana-e-Husain hai
 
   6
-  Shab ki tanhaai mein suno aksar
+  Shab ki tanhaai meiṅ suno aksar
   Ek Bibi yahaaṅ hai nauhagar
   Apne bete ka pursa lene ko
   Khud baqayya se aayi hai maadar
@@ -68,30 +68,30 @@ romanLyrics: |-
   Ye azaakhaana-e-Husain hai
 
   7
-  Qaid khaane mein pehli majlis ka
+  Qaid khaane meiṅ pehli majlis ka
   Aao ahwaal sun lo ahl-e-aza
   Marsiya khwaan Bibiyaaṅ saari
-  Zaakira un mein Saani-e-Zehra
-  Maatami qaidiyoṅ ke halqe mein
+  Zaakira un meiṅ Saani-e-Zehra
+  Maatami qaidiyoṅ ke halqe meiṅ
   Nauha parhte the ro ke Zainulaba
   Ye azaakhaana-e-Husain hai
 
   8
-  Hai gham-e-Karbala mere dil mein
-  Hai gham-e-berida mere dil mein
-  Zakhm-e-Zainulaba mere dil mein
-  Dard-e-mushkil kusha mere dil mein
-  Qabr-e-Shah-e-huda mere dil mein
+  Hai gham-e-Karbala mere dil meiṅ
+  Hai gham-e-berida mere dil meiṅ
+  Zakhm-e-Zainulaba mere dil meiṅ
+  Dard-e-mushkil kusha mere dil meiṅ
+  Qabr-e-Shah-e-huda mere dil meiṅ
   Ab mere dil ko bhi kahe duniya
   Ye azaakhaana-e-Husain hai
 
   9
   Baat mushkil hai ye Khuda ki qasam
   Kya likhe Mazhar Abidi ka qalam
-  Maaṅ ki aaghosh mein suna nauha
-  Maaṅ ki aaghosh mein kiya maatam
+  Maaṅ ki aaghosh meiṅ suna nauha
+  Maaṅ ki aaghosh meiṅ kiya maatam
   Aur Irfan jab alam dekhe
-  Main ne rote hue parha nauha
+  Maiṅ ne rote hue parha nauha
   Ye azaakhaana-e-Husain hai
 # source_id: nohayonline:54966a7581c45893e1c5
 # source_url: https://www.nohayonline.com/details_content.php?id=950

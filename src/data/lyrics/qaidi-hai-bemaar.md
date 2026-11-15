@@ -26,8 +26,8 @@ romanLyrics: |-
   Chalna hai dushwaar
 
   2
-  Tauq-e-garaaṅ hai gardan mein
-  Aur pairoṅ mein zanjir
+  Tauq-e-garaaṅ hai gardan meiṅ
+  Aur pairoṅ meiṅ zanjir
   Sar hai jhukaaye sharm ke maare
   Ibn-e-shah-e-dilgir
   Saath haram haiṅ beparda
@@ -38,13 +38,13 @@ romanLyrics: |-
   Paas kahaaṅ tasvireṅ
   Dhup hai aisi jalne lagi hai
   Lohe ki zanjireṅ
-  Saare badan mein par gaye chhaale
+  Saare badan meiṅ par gaye chhaale
   Haaye mera bemaar
 
   4
-  Qaid-e-sitam mein maut jo aayi
+  Qaid-e-sitam meiṅ maut jo aayi
   Bint-e-shah-e-muztar ko
-  Khun bhare kurte mein ye keh kar
+  Khun bhare kurte meiṅ ye keh kar
   Dafn kiya khwahar ko
   Tujhko kafan bhi de nahiṅ sakta
   Bhai hai laachar
@@ -77,7 +77,7 @@ romanLyrics: |-
   Shaam ke jaanib kaise chali thi
   Paigambar ki aal
   Kaise parega Aamir usko
-  Kaise likhuṅ main Bilal
+  Kaise likhuṅ maiṅ Bilal
   Aage aage naize par tha
   Farq-e-shah-e-abraar
 # source_id: nohayonline:c5e4c4e2eece58e25889

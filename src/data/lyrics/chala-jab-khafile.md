@@ -23,21 +23,21 @@ romanLyrics: |-
   Mera mazlum Imam
 
   2
-  Paaoṅ mein beriyaaṅ thiṅ tauq gale mein tha para
+  Paaoṅ meiṅ beriyaaṅ thiṅ tauq gale meiṅ tha para
   Pusht-e-bimaar ke haathoṅ pe adu ke durra
-  Ghash kai baar safar mein hue bimaar Imam
+  Ghash kai baar safar meiṅ hue bimaar Imam
   Mera mazlum Imam
 
   3
   Ro ro kehti thi Sakina phuphi ab kya ho ga
   Jhula jalne laga bhaai bhi mera ran ko gaya
-  Aag khaimoṅ mein lagi jal gaya asbaab tamaam
+  Aag khaimoṅ meiṅ lagi jal gaya asbaab tamaam
   Mera mazlum Imam
 
   4
   Laash-e-Qasim ko sameta Shaah-e-Diṅ ne jis dam
   Mehndi haathoṅ pe lagi dekh ke rote the haram
-  Rang yeh sehre ki mili khaak mein kaisa tha sitam
+  Rang yeh sehre ki mili khaak meiṅ kaisa tha sitam
   Mera mazlum Imam
 
   5

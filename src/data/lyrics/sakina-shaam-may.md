@@ -11,7 +11,7 @@ tags: []
 aliases: ["Sakina Shaam May"]
 published: true
 romanLyrics: |-
-  Sakina Shaam mein mar kar yehi samjha gayi logo
+  Sakina Shaam meiṅ mar kar yehi samjha gayi logo
   Judaai baap ke sine ki mujhko khaa gayi logo
 
   1
@@ -19,7 +19,7 @@ romanLyrics: |-
   Sitam itne hue maasum ko maut aa gayi logo
 
   2
-  Wo maaṅ jo dhup mein aksar Ali Asghar ko roti thi
+  Wo maaṅ jo dhup meiṅ aksar Ali Asghar ko roti thi
   Sakina ki qaza us par qayaamat dhaa gayi logo
 
   3

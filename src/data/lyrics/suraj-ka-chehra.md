@@ -14,9 +14,9 @@ romanLyrics: |-
   Zainab ka bhaai marne chala hai
 
   1
-  Maqtal mein ghash hai Shabbir tanha
+  Maqtal meiṅ ghash hai Shabbir tanha
   Qaatil khare haiṅ khaamosh yak jaa
-  Hairat mein garduṅ sakte mein sehra
+  Hairat meiṅ garduṅ sakte meiṅ sehra
   Saakit hai maujeṅ saakit hai darya
 
   2
@@ -27,7 +27,7 @@ romanLyrics: |-
   Dunya ka naqsha badla hua hai
 
   3
-  Khaime mein sab ki nazreṅ haiṅ dar par
+  Khaime meiṅ sab ki nazreṅ haiṅ dar par
   Dam ruk gae haiṅ sinoṅ ke andar
   Kya zabt-e-gham hai Allah Akbar
   Chup reh gai hai Asghar ki maadar
@@ -41,9 +41,9 @@ romanLyrics: |-
   Jo hai wo gham ka maara hua hai
 
   5
-  Tar hai lahu mein sultaan-e-aali
+  Tar hai lahu meiṅ sultaan-e-aali
   Millat ka haakim ummat ka waali
-  Duldul ka ran mein hai zin khaali
+  Duldul ka ran meiṅ hai zin khaali
   Khaime ki raunaq kis ne uthaali
   Masnad ka gosha ulta hua hai
 

@@ -20,8 +20,8 @@ romanLyrics: |-
   Sab se chhota Ali tha jo ghar ka
   Aaj aaya hai uska bhi laasha
   Lut chuki sab bahaar-e-chaman wo
-  Jisko mehnat se maine tha paala
-  Kaise zinda rahuṅ main bataao
+  Jisko mehnat se maiṅ ne tha paala
+  Kaise zinda rahuṅ maiṅ bataao
 
   2
   Maaṅ ki aaghosh khaali rahegi
@@ -33,7 +33,7 @@ romanLyrics: |-
   3
   Chhe mahine ka bachcha tha mera
   Tin din se tha pyaasa dulaara
-  Kaaṅte halqum mein par gaye the
+  Kaaṅte halqum meiṅ par gaye the
   Ho raha tha jigar paara paara
   Mujh se Asghar ko ab na chhupaao
 

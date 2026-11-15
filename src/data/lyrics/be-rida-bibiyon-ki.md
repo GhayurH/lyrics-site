@@ -11,11 +11,11 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Be rida Bibiyoṅ ki qaafila saalaari hai
-  Paaoṅ mein aable haiṅ aur safar jaari hai
+  Berida Bibiyoṅ ki qaafila saalaari hai
+  Paaoṅ meiṅ aable haiṅ aur safar jaari hai
 
   1
-  Chhor kar jaata huṅ baba ko main be gor o kafan
+  Chhor kar jaata huṅ baba ko maiṅ begor o kafan
   Dil-e-Sajjad pe ye karb bahut bhaari hai
 
   2
@@ -40,7 +40,7 @@ romanLyrics: |-
 
   7
   Fath-e-Aabid ka ye elaan hai har su Majid
-  Ye jo har qariye mein Sarwar ki azaadaari hai
+  Ye jo har qariye meiṅ Sarwar ki azaadaari hai
 # source_id: nohayonline:2fb4ae18b6257ba5d670
 # source_url: https://www.nohayonline.com/details_content.php?id=1420
 # raw_sha256: 1458feb90320a37cfc23e33e6a8f83f0a959149f4ac14b878efdc28df34d690a

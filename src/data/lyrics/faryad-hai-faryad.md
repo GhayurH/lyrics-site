@@ -14,16 +14,16 @@ romanLyrics: |-
   Karti thi ye ro ro ke fughaaṅ Zainab-e-naashaad
   Faryaad hai faryaad
 
-  Pardes mein Zehra ka bhara ghar hua barbaad
+  Pardes meiṅ Zehra ka bhara ghar hua barbaad
   Faryaad hai faryaad
 
   1
-  Barchhi ki ani sina-e-Akbar mein lagi hai
+  Barchhi ki ani sina-e-Akbar meiṅ lagi hai
   Kya maaṅ pe bani hai
-  Tasvir-e-Nabi ran mein hui jaati hai barbaad
+  Tasvir-e-Nabi ran meiṅ hui jaati hai barbaad
 
   2
-  Zinat ke liye daale haiṅ gardan mein jo Quraan
+  Zinat ke liye daale haiṅ gardan meiṅ jo Quraan
   Surat ke musalmaaṅ
   Hum aal-e-Payambar haiṅ inheṅ ye bhi nahiṅ yaad
 
@@ -33,13 +33,13 @@ romanLyrics: |-
   Har gaam par ek taaza sitam ek nayi uftaad
 
   4
-  Pardes mein hum ahl-e-haram aise lute haiṅ
+  Pardes meiṅ hum ahl-e-haram aise lute haiṅ
   Sar nange phire haiṅ
   Ruk jaate to dete the aziyat sitam ijaad
 
   5
-  Tapti hui sahra ki zamiṅ raah mein kaante
-  Aur paaoṅ mein chhaale
+  Tapti hui sahra ki zamiṅ raah meiṅ kaante
+  Aur paaoṅ meiṅ chhaale
   Ghash khaa ke na gir jaaye kahiṅ Sayyid-e-Sajjad
 
   6
@@ -53,12 +53,12 @@ romanLyrics: |-
   Gaaloṅ pe lagaate the tamaanche sitam ijaad
 
   8
-  Ghabraati thi zindaaṅ ke andhere mein Sakina
+  Ghabraati thi zindaaṅ ke andhere meiṅ Sakina
   Dushwaar tha jina
-  Ab qaid mein soti hai wohi bekas o naashaad
+  Ab qaid meiṅ soti hai wohi bekas o naashaad
 
   9
-  Sahir gham-e-Shabbir mein aansu na rukeṅ ge
+  Sahir gham-e-Shabbir meiṅ aansu na rukeṅ ge
   Ta hashr baheṅ ge
   Ab hum ko nahiṅ kuchh bhi masaaib ke siwa yaad
 # source_id: nohayonline:2651038d45469cf7592c

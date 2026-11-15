@@ -27,7 +27,7 @@ romanLyrics: |-
   Dub jaaye na zindagi ki sada
 
   4
-  Aaj bhi arsa-e-do aalam mein
+  Aaj bhi arsa-e-do aalam meiṅ
   Gunjti hai Husaini ki sada
 
   5
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   6
   Marhaba marhaba Ali Asghar
-  Hai chaman mein kali kali ki sada
+  Hai chaman meiṅ kali kali ki sada
 
   7
   Roz-e-Aashur kya qayaamat thi
@@ -55,7 +55,7 @@ romanLyrics: |-
   Log sunte rahe Nabi ki sada
 
   11
-  Su-e-Karb o Bala chale haiṅ Urooj
+  Su-e-Karb o Bala chale haiṅ Uruj
   Dur se aai hai kisi ki sada
 # source_id: nohayonline:ccd610a902c0a2d05fef
 # source_url: https://www.nohayonline.com/details_content.php?id=635

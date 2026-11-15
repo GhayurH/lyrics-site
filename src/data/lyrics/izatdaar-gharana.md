@@ -20,7 +20,7 @@ romanLyrics: |-
 
   1
   Saari aayaat-e-Quraani
-  Is ghar ki shaan mein utri haiṅ
+  Is ghar ki shaan meiṅ utri haiṅ
   Ye paak Muhammad ka ghar hai
   Yahaaṅ Fatima Zahra rehti haiṅ
   Aawaaz yahaaṅ nichi rakhna
@@ -29,16 +29,16 @@ romanLyrics: |-
   2
   Jo inka dushman hai us par
   Allah bhi laanat karta hai
-  Is ghar mein rehne waaloṅ ka
-  Quraan mein shajra milta hai
+  Is ghar meiṅ rehne waaloṅ ka
+  Quraan meiṅ shajra milta hai
   Kaaba karta hai salaam usko
   Is baat ko jis ne maana hai
 
   3
   Sardaar farishtoṅ ka aa kar
-  Is ghar mein jhulaata hai jhula
+  Is ghar meiṅ jhulaata hai jhula
   Takht aur taaj ko thukra kar
-  Aai haiṅ kanizi mein Fizza
+  Aai haiṅ kanizi meiṅ Fizza
   Naukar jo bhi hai is ghar ka
   Andaaz uska shaahaana hai
 
@@ -63,7 +63,7 @@ romanLyrics: |-
   Bibi ne apne naukar ko
   Farhaan inhi ki majlis ne
   Zishaan banaaya hai ghar ko
-  Mera ghar koi aam nahiṅ is mein
+  Mera ghar koi aam nahiṅ is meiṅ
   Zahra ka aana jaana hai
 
   7
@@ -79,13 +79,13 @@ romanLyrics: |-
   Izzat bhi bari ghurbat bhi bari
 
   9
-  Kaabe mein zuhur hua jis ka
-  Masjid mein usko qatl kiya
+  Kaabe meiṅ zuhur hua jis ka
+  Masjid meiṅ usko qatl kiya
   Izzat bhi bari ghurbat bhi bari
 
   10
-  Pahlu mein Nabi ke jo tha pala
-  Wohi pahlu mein na dafn hua
+  Pahlu meiṅ Nabi ke jo tha pala
+  Wohi pahlu meiṅ na dafn hua
   Izzat bhi bari ghurbat bhi bari
 
   11
@@ -95,16 +95,16 @@ romanLyrics: |-
 
   12
   Jo ghar Kausar ka maalik tha
-  Use dasht mein pyaasa maar diya
+  Use dasht meiṅ pyaasa maar diya
   Izzat bhi bari ghurbat bhi bari
 
   13
   Qaaim tha parda jin se unheṅ
-  Baazaar mein laae beparda
+  Baazaar meiṅ laae beparda
   Izzat bhi bari ghurbat bhi bari
 
   14
-  Hai jin ke sadqe mein duniya
+  Hai jin ke sadqe meiṅ duniya
   Haae un pe sadqa phenka gaya
   Izzat bhi bari ghurbat bhi bari
 

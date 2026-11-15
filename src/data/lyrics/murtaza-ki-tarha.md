@@ -35,7 +35,7 @@ romanLyrics: |-
   Sada ye aayi guzar jaao ambiya ki tarah
 
   6
-  Kisi ko khwaahish-e-taamir hai to aaye Naseer
+  Kisi ko khwaahish-e-taamir hai to aaye Nasir
   Najaf ki raah meiṅ rahta huṅ naqsh-e-paa ki tarah
 # source_id: nohayonline:84aef780f5ac4301a250
 # source_url: https://www.nohayonline.com/details_content.php?id=3694

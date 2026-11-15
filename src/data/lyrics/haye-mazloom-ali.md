@@ -18,9 +18,9 @@ romanLyrics: |-
   Haye mazlum Ali mere mazlum Ali
 
   1
-  Gumbad-e-Khizra o Kaaba mein bapa hai maatam
-  Tor kar band-e-kafan main ne kiya hai maatam
-  Jis ghari aap pe masjid mein hai talwaar chali
+  Gumbad-e-Khizra o Kaaba meiṅ bapa hai maatam
+  Tor kar band-e-kafan maiṅ ne kiya hai maatam
+  Jis ghari aap pe masjid meiṅ hai talwaar chali
 
   2
   Mere Baba se kiya waada nibhaane ke liye
@@ -28,19 +28,19 @@ romanLyrics: |-
   Shiddat-e-adl tere pairoṅ ki zanjir bani
 
   3
-  Qatl-e-Mohsin ho ya darbaar mein meri peshi
+  Qatl-e-Mohsin ho ya darbaar meiṅ meri peshi
   Zabt khud par kiya aur mujh ko tasalli bhi di
-  Aap ki tarah jahaaṅ mein nahiṅ mazlum koi
+  Aap ki tarah jahaaṅ meiṅ nahiṅ mazlum koi
 
   4
   Aaj Kufe ki hai shahzaadi tumhaari beti
-  Kal isi shehr mein aayegi wo ban kar qaidi
+  Kal isi shehr meiṅ aayegi wo ban kar qaidi
   Aakhri had mere waali hai ye ghurbat ki teri
 
   5
   Is ghari khatm hui thi meri saari khushiyaaṅ
-  Zinda rehne ki mere dil mein thi hasrat hi kahaaṅ
-  Main ne jab aap ki gardan mein rasan dekhi thi
+  Zinda rehne ki mere dil meiṅ thi hasrat hi kahaaṅ
+  Maiṅ ne jab aap ki gardan meiṅ rasan dekhi thi
 
   6
   Waqt-e-rukhsat tha qayaamat ye tasalli thi magar
@@ -50,7 +50,7 @@ romanLyrics: |-
   7
   Bain ye Mohsin o Darwaish kiya Zahra ne
   Kal inhiṅ ke liye aaye the jinaaṅ se kurte
-  Aayi hai Eid pe Kufe mein jin aankhoṅ mein nami
+  Aayi hai Eid pe Kufe meiṅ jin aankhoṅ meiṅ nami
 # source_id: nohayonline:08bf32d91078996fe1dc
 # source_url: https://www.nohayonline.com/details_content.php?id=2552
 # raw_sha256: da3027f2a01e4ffed815c9eda60c13921c22ff20289df8c07b351ea17821a0d0

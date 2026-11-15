@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Maaṅ chhor gayi pehle ab chhor chale tum bhi
-  Ab tak main nahiṅ bhuli jalta hua baaba dar
+  Ab tak maiṅ nahiṅ bhuli jalta hua baaba dar
 
   2
   Ye Kufe ki galiyoṅ meiṅ Haider ka janaaza hai
@@ -44,7 +44,7 @@ romanLyrics: |-
 
   8
   Zaair yahi legti tha taabut hai shaane pe
-  Maula ki shahaadat ka likhta tha main jab manzar
+  Maula ki shahaadat ka likhta tha maiṅ jab manzar
 # source_id: nohayonline:8af64a87e64ee685da99
 # source_url: https://www.nohayonline.com/details_content.php?id=2088
 # raw_sha256: b19b9af35a881a37d204097c78bac04ef9dd8d9ba319f84ee4f6ca9ff1867719

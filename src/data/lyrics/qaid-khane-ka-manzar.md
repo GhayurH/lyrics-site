@@ -35,8 +35,8 @@ romanLyrics: |-
   Yaad aayi janaab-e-Sakina
 
   4
-  Kamsini mein agar koi bachchi
-  Baap ke aake seene se lipti
+  Kamsini meiṅ agar koi bachchi
+  Baap ke aake sine se lipti
   Khuṅ ke ashkoṅ se daaman hua tar
   Yaad aayi janaab-e-Sakina
 

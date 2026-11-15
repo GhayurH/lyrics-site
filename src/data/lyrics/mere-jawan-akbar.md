@@ -17,7 +17,7 @@ romanLyrics: |-
 
   1
   Kya tujh ko teri maaṅ ne is din ke liye paala
-  Is maaṅ ko zaifi mein kiuṅ chhor gaye beta
+  Is maaṅ ko zaifi meiṅ kiuṅ chhor gaye beta
   Maaṅ roti hai laashe pe tere aaj khule sar
 
   2
@@ -27,7 +27,7 @@ romanLyrics: |-
 
   3
   Bimaar behan Sughra takti hai tera raasta
-  Pardes mein tum aa kar kiuṅ bhul gaye waada
+  Pardes meiṅ tum aa kar kiuṅ bhul gaye waada
   Itna bhi nahiṅ socha ke mar jaayegi khaahar
 
   4
@@ -37,18 +37,18 @@ romanLyrics: |-
 
   5
   Har dil ne kiya nauha har aankh hui purnam
-  Kohraam hai khaimoṅ mein jannat mein bapa maatam
+  Kohraam hai khaimoṅ meiṅ jannat meiṅ bapa maatam
   Aur khaak urhaate haiṅ yahi keh ke Payambar
 
   6
   Phuphiyaaṅ bhi tarapti haiṅ hamshir bhi maadar bhi
   Daada bhi tere roye Shabbir bhi Shabbar bhi
-  Saadaat ke khaimoṅ mein qayaamat ka hai manzar
+  Saadaat ke khaimoṅ meiṅ qayaamat ka hai manzar
 
   7
   Jab koi jawaaṅ laash nazar aayegi beta
   Maaṅ yaad tujhe kar ke tarap jaayegi beta
-  Ek roz teri yaad mein mar jaayegi beta
+  Ek roz teri yaad meiṅ mar jaayegi beta
 # source_id: nohayonline:19bac68801d479d6a6ac
 # source_url: https://www.nohayonline.com/details_content.php?id=451
 # raw_sha256: ba4b0966a3e0abfdfc49ebb4aa91c862ea871cb48fa3727e036c9a7f496762d3

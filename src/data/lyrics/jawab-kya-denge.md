@@ -22,7 +22,7 @@ romanLyrics: |-
   Hum apni nasl ko aakhir nisaab kya denge
 
   2
-  Na jaane kab se hai masruf ghibatoṅ mein lab
+  Na jaane kab se hai masruf ghibatoṅ meiṅ lab
   Namaaz o roza o hajj se nahiṅ koi matlab
   Zakaat o khums ke hum ho gayi hai mujrim sab
   Bula rahe haiṅ Imam-e-Zaman ko hum yaa Rab
@@ -37,13 +37,13 @@ romanLyrics: |-
 
   4
   Bahut bara hai ye karb-e-Imam-e-arsh-waqaar
-  Ali ki betiyaaṅ balwe mein itrat-e-athaar
+  Ali ki betiyaaṅ balwe meiṅ itrat-e-athaar
   Nazar se jaata nahiṅ un ke Shaam ka baazaar
   Wo hai zahur ko tayyaar hum nahiṅ tayyaar
   Shahaadatoṅ ke bina inqilaab kya denge
 
   5
-  Gharoṅ mein hoṅge jo iblisiyat ke rang o nishaaṅ
+  Gharoṅ meiṅ hoṅge jo iblisiyat ke rang o nishaaṅ
   Na paida hoṅge wahaaṅ naasiraan-e-Shaah-e-Zaman
   Kareṅge majliseṅ bepardagi bhi hogi yahaaṅ
   Azaa ke farsh pe aayegi jab Husain ki maaṅ
@@ -51,17 +51,17 @@ romanLyrics: |-
 
   6
   Ab aur kitni jahaalat ki pairawi hogi
-  Chamak nigaah mein aur dil mein tiragi hogi
-  Iza fakaul mein kirdaar mein kami hogi
-  Wo jin ki fikr mein dimak lagi hui hogi
-  Hum un ke haath mein din ki kitaab kya denge
+  Chamak nigaah meiṅ aur dil meiṅ tiragi hogi
+  Iza fakaul meiṅ kirdaar meiṅ kami hogi
+  Wo jin ki fikr meiṅ dimak lagi hui hogi
+  Hum un ke haath meiṅ din ki kitaab kya denge
 
   7
   Agar kaheṅge wo shama-e-wafa jalaani hai
   Jo zindagi ki kamaai hai wo lutaani hai
   Agar kaheṅge wo ke Akbar ki jaaṅ bachaani hai
   Jawaan bete ki mayyat hameṅ uthaani hai
-  Jawaaṅ pisar ka Qamar hum shabaab kya denge
+  Jawaaṅ pisar ka Qamar hum shabaab kya deṅge
 # source_id: nohayonline:9b01179c7074d5d27497
 # source_url: https://www.nohayonline.com/details_content.php?id=2354
 # raw_sha256: 7d3a6d5d3ec663aeb3e530e322c49ebf545e5cfc9c8e50b8af635acb3d1a96e0

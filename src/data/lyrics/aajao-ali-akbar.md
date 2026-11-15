@@ -15,7 +15,7 @@ romanLyrics: |-
   Dil lagta nahiṅ ghar par aajao Ali Akbar
 
   1
-  Armaaṅ hai yehi dil mein sehre mein tumheiṅ dekhuṅ
+  Armaaṅ hai yehi dil meiṅ sehre meiṅ tumheiṅ dekhuṅ
   Jaldi se palat ke ghar aajao Ali Akbar
 
   2
@@ -23,7 +23,7 @@ romanLyrics: |-
   Kya bhul gaye jaa kar aajao Ali Akbar
 
   3
-  Maaṅ behneṅ phuphi bhai Asghar ki judaai mein
+  Maaṅ behneṅ phuphi bhai Asghar ki judaai meiṅ
   Maayus hai ye khwahar aajao Ali Akbar
 
   4
@@ -31,28 +31,28 @@ romanLyrics: |-
   Jaaṅ hai meri laboṅ par aajao Ali Akbar
 
   5
-  Yaadoṅ ke sahaare main kuch der ki mehmaaṅ huṅ
+  Yaadoṅ ke sahaare maiṅ kuch der ki mehmaaṅ huṅ
   Pardes se baradar aajao Ali Akbar
 
   6
-  Hai kaun mere sin ka main jis se karuṅ baateṅ
+  Hai kaun mere sin ka maiṅ jis se karuṅ baateṅ
   Ab kya karuṅgi ji kar aajao Ali Akbar
 
   7
-  Kab tak main bahaauṅgi yaadoṅ mein yuṅhi aansu
-  Tanhaai mein baradar aajao Ali Akbar
+  Kab tak maiṅ bahaauṅgi yaadoṅ meiṅ yuṅhi aansu
+  Tanhaai meiṅ baradar aajao Ali Akbar
 
   8
   Khwahar ye tumhaari ab jaae to kahaaṅ jaae
   Aaraam nahiṅ pal bhar aajao Ali Akbar
 
   9
-  Rasta main tumhaara yuṅ dekhuṅgi bhala kab tak
+  Rasta maiṅ tumhaara yuṅ dekhuṅgi bhala kab tak
   Aajao Ali Akbar aajao Ali Akbar
 
   10
   Ashkoṅ ki jagah khun ab aankhoṅ se tapakta hai
-  Palkeṅ haiṅ lahu mein tar aajao Ali Akbar
+  Palkeṅ haiṅ lahu meiṅ tar aajao Ali Akbar
 
   11
   Kehti thi Najaf ro kar aajao mere bhaiya

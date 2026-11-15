@@ -17,14 +17,14 @@ romanLyrics: |-
   Wavaila haaye wavaila
 
   Ae logoṅ mera naana hai Nabi
-  Main Zainab huṅ kuchh sharm karo
+  Maiṅ Zainab huṅ kuchh sharm karo
   Na chhino chaadar meri
-  Main Zainab huṅ kuchh sharm karo
+  Maiṅ Zainab huṅ kuchh sharm karo
 
   1
-  Main Yasrab ki shehzaadi huṅ
+  Maiṅ Yasrab ki shehzaadi huṅ
   Hai bhaai mere sardaar-e-jinaaṅ
-  Main sharm o haya ki makhduma
+  Maiṅ sharm o haya ki makhduma
   Hai is ki gawaahi kaun o makaaṅ
   Hai mere laboṅ par gham ki azaaṅ
   Chaadar jo chhini mar jaauṅgi
@@ -35,7 +35,7 @@ romanLyrics: |-
   Saadaat ki aamad se pehle
   Baazaar sajaaye haiṅ tum ne
   Gham mere barhaaye haiṅ tum ne
-  Dil thaam ke main ye kehti rahi
+  Dil thaam ke maiṅ ye kehti rahi
 
   3
   Is tarah Muhammad ke dil ko
@@ -46,12 +46,12 @@ romanLyrics: |-
   Tasbih hi meri ye baat bani
 
   4
-  Galiyoṅ mein charaaghaaṅ hota hai
+  Galiyoṅ meiṅ charaaghaaṅ hota hai
   Aur Aal-e-Payambar roti hai
   Naize pe baraadar rota hai
   Aur Aal-e-Payambar roti hai
   Is baat pe khwaahar roti hai
-  Tum haṅste rahe main roti rahi
+  Tum haṅste rahe maiṅ roti rahi
 
   5
   Baaloṅ ki safedi par meri
@@ -67,7 +67,7 @@ romanLyrics: |-
   Mahmil ke bina nikli na kabhi
   Hai yaad mujhe wo jaah o hasham
   Karti huṅ buka har ek qadam
-  Mahmil ke bina main Shaam chali
+  Mahmil ke bina maiṅ Shaam chali
 
   7
   Taarikh-e-sitam dohraai gayi
@@ -79,7 +79,7 @@ romanLyrics: |-
 
   8
   Hai kund zabaane aur qalam
-  Ashkoṅ ko zabaan kar sakte nahiṅ
+  Ashkoṅ ko zabaaṅ kar sakte nahiṅ
   Irfan aur Mazhar chaahe bhi
   Zakhmoṅ ko ayaaṅ kar sakte nahiṅ
   Rudaad bayaaṅ kar sakte nahiṅ

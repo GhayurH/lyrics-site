@@ -1,6 +1,6 @@
 ---
 title: "روانہ نہر لباں کو جو شیر خوار ہوا"
-alternateTitle: "Rawaana Nehr-e-Laban"
+alternateTitle: "Rawaana Nehr-e-Labaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ aliases: ["Rawana Nehre Laban"]
 published: true
 romanLyrics: |-
   1
-  Rawaana nehr-e-laban ko jo shir khwaar hua
+  Rawaana nehr-e-labaṅ ko jo shir khwaar hua
   Zabaaṅ dikhaane pe gardan se tir paar hua
   Tarap ke haathoṅ pe Hazrat ke hamkinaar hua
   Khizaaṅ hua jo wo gul to gale ka haar hua
@@ -19,10 +19,10 @@ romanLyrics: |-
   Udhar Madine se Sughra ka naama bar pahuncha
 
   2
-  Lahu mein gharq khare the kamar jhukaaye hue
+  Lahu meiṅ gharq khare the kamar jhukaaye hue
   Pisar ki nanhi si mayyat gale lagaaye hue
   Lahu bhara hua daaman use urhaaye hue
-  Kafan ki fikr mein khaime ko muṅh phiraaye hue
+  Kafan ki fikr meiṅ khaime ko muṅh phiraaye hue
   Ye haal dekh ke qaasid ki aas tut gayi
   Hua ye raasha ke fauran mahaar chhut gayi
 
@@ -45,14 +45,14 @@ romanLyrics: |-
   5
   Bahan hai aap ki Zainab Sakina dukhtar hai
   Har aawal aap ke lashkar ka Hur-e-Safdar hai
-  Watan mein bhi koi beti alil o shashdar hai
+  Watan meiṅ bhi koi beti alil o shashdar hai
   Huzur ka koi nanha sa laal Asghar hai
   Zohair aur Habib aap ke musaahib hai
   Janaab Aun o Muhammad ke maamu saahib hai
 
   6
   Husain bhar ke dam-e-sard bole ae ghamkhwaar
-  Amir kaun hai main to huṅ bekas o naachaar
+  Amir kaun hai maiṅ to huṅ bekas o naachaar
   Kahaaṅ hai Akbar o Qaasim kahaaṅ alam bardaar
   Khuda ke bande the ye sab hue Khuda pe nisaar
   Sipaah-e-zulm ne tanha samajh ke ghera hai
@@ -77,16 +77,16 @@ romanLyrics: |-
   9
   Lahu se ghusl to Asghar ko de chuki thi qaza
   Mali ba surat-e-kaafur Shah ne khaak-e-shifa
-  Utaara qabr mein Asghar ka khuṅ bhara laasha
+  Utaara qabr meiṅ Asghar ka khuṅ bhara laasha
   Lita ke khaak pe qible ki samt muṅh phera
-  Phir apne chaand ko jab khaak mein chhupaane lage
+  Phir apne chaand ko jab khaak meiṅ chhupaane lage
   To Ya Ali kaha aur haath thartharaane lage
 
   10
   Ye haal dekh ke qaasid ne ki madadgaari
-  Lahad mein ungliyoṅ se khaak daali ek baari
+  Lahad meiṅ ungliyoṅ se khaak daali ek baari
   Pukaari khaime ke dar se ye Baano dukhiyaari
-  Ye kis ki qabr ki hoti hai ran mein tayyaari
+  Ye kis ki qabr ki hoti hai ran meiṅ tayyaari
   Husain bole ke sadme naye guzarte haiṅ
   Tumhaare haṅsliyoṅ waale ko dafn karte haiṅ
 
@@ -94,14 +94,14 @@ romanLyrics: |-
   Giri zamiṅ pe kaleja pakar ke wo naachaar
   Pukaari meri kamaayi hai ae zamin hoshiyaar
   Na murda jaaniyo hai meri jaan ye dildaar
-  Zamin main tere sadqe tere makiṅ ke nisaar
+  Zamin maiṅ tere sadqe tere makiṅ ke nisaar
   Ye zer-e-khwaab meri mannatoṅ ka baagh mila
   Mujhe ye phul mila aur dil ko daagh mila
 
   12
   Balaaeṅ dur se le le ke phir kiya ye bayaaṅ
-  Tumhaari nanhi lahad ke main waari Asghar jaaṅ
-  Andhera ghar hai na ghabraaiyo ye maaṅ qurbaan
+  Tumhaari nanhi lahad ke maiṅ waari Asghar jaaṅ
+  Andhera ghar hai na ghabraaiyo ye maaṅ qurbaaṅ
   Akele sone ki mushkil Khuda kare aasaan
   Tumhaare chaahne waale gale lagaaeṅge
   Mujhe yaqiṅ hai Janaab-e-Amir aaeṅge

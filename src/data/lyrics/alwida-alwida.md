@@ -16,11 +16,11 @@ romanLyrics: |-
   1
   Aap jaate nahiṅ jaan jaane lagi
   Zindagi mujh se daaman chhuraane lagi
-  Saans sine mein ruk ruk ke aane lagi
+  Saans sine meiṅ ruk ruk ke aane lagi
   Ab mere saath hai aah aur hichkiyaṅ
 
   2
-  Kiuṅ piyuṅ main dawa ho chuki bas shifa
+  Kiuṅ piyuṅ maiṅ dawa ho chuki bas shifa
   Chhor kar mujh ko mera masiha chala
   Aisa lagta hai mujh se hue tum khafa
   Meri hum jholiyaṅ ab haiṅ tanhaaiyaṅ
@@ -41,7 +41,7 @@ romanLyrics: |-
   Lo mere ghar se rukhsat ujaala hua
   Jaata hai bhai naazoṅ ka paala hua
   Ranj is baat se hai do baala hua
-  Tum raho ge yahaṅ main rahuṅ gi wahaṅ
+  Tum raho ge yahaṅ maiṅ rahuṅ gi wahaṅ
 
   6
   Haye baba mere din ye garmi ke haiṅ
@@ -51,7 +51,7 @@ romanLyrics: |-
 
   7
   Din to kat jaaye ga shab na kat paaye gi
-  Aap ke hijr mein nind kab aaye gi
+  Aap ke hijr meiṅ nind kab aaye gi
   Nind aayi to wo maut ban jaaye gi
   Roye ga meri ghurbat pe ab aasmaṅ
 
@@ -59,7 +59,7 @@ romanLyrics: |-
   Noha Farhan Sughra ke lab pe ye tha
   Muṅh ko aane laga hai kaleja mera
   Ho gaya khaali kaisa bhara ghar jo tha
-  Haye Rehaan main bhi huṅ noha kunaṅ
+  Haye Rehaan maiṅ bhi huṅ noha kunaṅ
 # source_id: nohayonline:92621ca2ff0085d13013
 # source_url: https://www.nohayonline.com/details_content.php?id=3423
 # raw_sha256: 15262b70d0b7c79b16ffca27ded0098a1865f94698f59ee959e8794ebabe1c81

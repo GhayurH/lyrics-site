@@ -38,6 +38,13 @@ The original `audit/manual-md-review-tracker.csv` records all thirteen round-one
 - Both editions now have **49 verse lines**, with equivalent preamble/intro blocks of four and seven lines and **nine identically numbered stanzas** (4, 4, 4, 6, 4, 4, 4, 4, 4 lines). All preexisting 46 Urdu verse lines and all non-duplicate Roman lines are retained. Source differences were compared to the NoHayOnline poem and the supplemental 2013 Roman source; the three restored Arabic lines require a further recitation or native-language spelling check, so transliteration and Urdu completeness remain `partial_review` rather than claiming verified wording.
 - Updated the existing manual tracker without creating a new status register; added a source-aware structural regression test while keeping the unchanged original recitation identity.
 
+## Full Roman Urdu normalization review (2026-11-15)
+
+- Applied the source-aware Roman normalizer to the entire current corpus: **2,977 files with proposed edits** out of 3,877 scanned. Only Roman verses and explicitly Roman-related heading metadata were eligible; Urdu source text, stanza structure, identity locks and unrelated metadata were unchanged.
+- Updated the sole house transliteration standard to **جواں → jawaaṅ**, not `jawaṅ`; preserved the difference between nasalized **جواں** and ordinary **جوان**. Added regression tests for source-backed Roman verse spellings and matching Roman titles.
+- This is a **proposed mechanical editorial batch, pending human acceptance**; no entries in `audit/manual-md-review-tracker.csv` were marked manually reviewed by automation. Inspect or revert individual changes before final branch merge.
+- Post-run validation reports **zero remaining deterministic Roman normalization changes**, without implying that source-specific pronunciation, incomplete editions or pre-existing editorial regression findings have been resolved.
+
 ## Metadata and stanza preparation
 
 - All 3,309 initial round-one additions were changed to `published: true`; one has since been consolidated. Original publication flags were preserved.

@@ -24,7 +24,7 @@ romanLyrics: |-
   Sakina thaame abaa ka daaman
   Ye apne baaba se keh rahi hai
   Ae pyaare baaba qasam tumhaari
-  Main tishna lab huṅ zara sa paani
+  Maiṅ tishna lab huṅ zara sa paani
 
   2
   Chacha se ae baaba jaan keh de
@@ -32,15 +32,15 @@ romanLyrics: |-
   Zabaaṅ pe kaante pare hue haiṅ
   Ye mashk khaali hai tin din se
   Lo baaba dekho ye mashk khaali
-  Main tishna lab huṅ zara sa paani
+  Maiṅ tishna lab huṅ zara sa paani
 
   3
   Mujhe hai ehsaas mere baaba
   Ke ham se pyaase ho tum ziyaada
   Karuṅ gi tum se na phir taqaaza
   Hai baaba beti ka tum se waada
-  Main tum pe sadqe main tum pe waari
-  Main tishna lab huṅ zara sa paani
+  Maiṅ tum pe sadqe maiṅ tum pe waari
+  Maiṅ tishna lab huṅ zara sa paani
 # source_id: nohayonline:028d95c74bfe612c2115
 # source_url: https://www.nohayonline.com/details_content.php?id=2055
 # raw_sha256: 75b862bff502eb31021af74ee6a660402ee68fbdc1b279b47055309a8ff49b1f

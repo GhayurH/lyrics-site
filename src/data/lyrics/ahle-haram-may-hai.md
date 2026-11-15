@@ -11,7 +11,7 @@ aliases: []
 published: true
 reciter: "Faazil Lakhnavi"
 romanLyrics: |-
-  Ahl-e-Haram mein hai rone ki dhum
+  Ahl-e-Haram meiṅ hai rone ki dhum
   Wawaila
   Haye maara gaya Sayyed mazlum
   Wawaila
@@ -23,7 +23,7 @@ romanLyrics: |-
   Desh Madina kaahe chhora
   Zahra bhayo ghamnaak
   Bairi satave ban ma bulawe
-  Bewa udawe khaak
+  Bewa urawe khaak
   Sar se ridaeṅ lete haiṅ wawaila
   Taane sitamgar dete haiṅ wawaila
   Koi nahiṅ hai sar par waris
@@ -43,10 +43,10 @@ romanLyrics: |-
   Soye zamin par saare baraati
   Byahu na aayo raas
   Pagri kahat hai Qasim dulha
-  Todi hamari aas
+  Tori hamari aas
   Qaid huwi ek shab ki dulhan wawaila
   Lut gaya kangna baandhi rasan wawaila
-  Roti hai Zainab khaak uda kar
+  Roti hai Zainab khaak ura kar
   Dekhti hai Umm-e-Kulsum wawaila
 
   4
@@ -66,13 +66,13 @@ romanLyrics: |-
   Laakh dukhi chillaye
   Tauq pehnaya Abid ko wawaila
   Kehte haiṅ is ko chain na do wawaila
-  Tan mein hai tap aur beriyaṅ bhaari
-  Kaisi bala mein hai mazlum wawaila
+  Tan meiṅ hai tap aur beriyaṅ bhaari
+  Kaisi bala meiṅ hai mazlum wawaila
 
   6
   Koi na aawe koi na puchhe
   Koi na deve daad
-  Man mein jaisu aave machave
+  Man meiṅ jaisu aave machave
   Zulm kare jallad
   Sab ko bithaya untoṅ par wawaila
   Di na kisi ko ek chadar wawaila
@@ -82,7 +82,7 @@ romanLyrics: |-
   7
   Jaan ko sulawe chhati upar
   Zahra ka dildaar
-  Wan ko litawe dharti bhitar
+  Waṅ ko litawe dharti bhitar
   Maare Shimr har baar
   Baliyaṅ chhini bachchi ki wawaila
   Us par iza aur bhi di wawaila

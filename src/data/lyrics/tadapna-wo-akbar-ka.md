@@ -1,6 +1,6 @@
 ---
 title: "تڑپنا وہ اکبر کا کہہ کہہ کے پانی"
-alternateTitle: "Tadapna Wo Akbar Ka"
+alternateTitle: "Tarapna Wo Akbar Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,7 +10,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Tadapna wo Akbar ka keh keh ke paani
+  Tarapna wo Akbar ka keh keh ke paani
   Jhijhakti qaza aur ujarti jawaani
 
   1

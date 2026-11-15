@@ -11,13 +11,13 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maatam gham-e-Shabbir mein elaan-e-wafa hai
+  Maatam gham-e-Shabbir meiṅ elaan-e-wafa hai
   Ye mit nahiṅ sakta hai ye Zehra ki dua hai
 
   1
-  Zehra ke gulistaaṅ ko luta gaya ban mein
-  Paamaal hua Qasim-e-naushaah bhi ran mein
-  Aur khaima-e-Shabbir mein kohraam bapa hai
+  Zehra ke gulistaaṅ ko luta gaya ban meiṅ
+  Paamaal hua Qasim-e-naushaah bhi ran meiṅ
+  Aur khaima-e-Shabbir meiṅ kohraam bapa hai
 
   2
   Zainab ne kaha pit ke sar haaye re ghurbat
@@ -26,12 +26,12 @@ romanLyrics: |-
 
   3
   Farmaati thi ro kar yehi bas Zainab-e-naashaad
-  Kis tarah barhaauṅ main qadam main Sayyed-e-Sajjaad
+  Kis tarah barhaauṅ maiṅ qadam maiṅ Sayyed-e-Sajjaad
   Har simt tamaashaai hai sar mera khula hai
 
   4
   Qismat se mila jo hameṅ Shabbir ka hai gham
-  Ye jite ji hoga na kabhi zindagi mein kam
+  Ye jite ji hoga na kabhi zindagi meiṅ kam
   Har lamha hameṅ Fatima Zehra ki dua hai
 
   5
@@ -40,13 +40,13 @@ romanLyrics: |-
   Nanha sa gala zulm ki naavak se chhida hai
 
   6
-  Jakra hua zanjiroṅ mein hai Aabid-e-muztar
+  Jakra hua zanjiroṅ meiṅ hai Aabid-e-muztar
   Kis tarah se dafnaaye bhala laasha-e-khwaahar
-  Ek bhaai pe zindaaṅ mein ajab waqt para hai
+  Ek bhaai pe zindaaṅ meiṅ ajab waqt para hai
 
   7
-  Jo ran mein luti hai usi jaagir ka maatam
-  Karte raho har haal mein Shabbir ka maatam
+  Jo ran meiṅ luti hai usi jaagir ka maatam
+  Karte raho har haal meiṅ Shabbir ka maatam
   Majlis ye Najaf Hazrat-e-Zainab ki ata hai
 # source_id: nohayonline:404231317ab109f4c3c1
 # source_url: https://www.nohayonline.com/details_content.php?id=1794

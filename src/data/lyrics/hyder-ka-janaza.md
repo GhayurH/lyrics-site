@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Wasi-e-Mustafa ka kul ke Maula ka janaaza hai
-  Amaama jis ka khuṅ mein bhar gaya us ka janaaza hai
+  Amaama jis ka khuṅ meiṅ bhar gaya us ka janaaza hai
   Ye Hyder ka janaaza hai
 
   1
@@ -32,21 +32,21 @@ romanLyrics: |-
 
   4
   Ali ka khun-e-naahaq keh raha hai daastaaṅ gham ki
-  Jo barpa hai zamaane bhar mein wo maatam ye kehta hai
+  Jo barpa hai zamaane bhar meiṅ wo maatam ye kehta hai
   Ye Hyder ka janaaza hai
 
   5
   Yehi ghul hai yatimoṅ ka sahaara uth gaya haaye
-  Ye duba gham mein har majbur ka bekas ka chehra hai
+  Ye duba gham meiṅ har majbur ka bekas ka chehra hai
   Ye Hyder ka janaaza hai
 
   6
-  Julusoṅ mein uthaate haiṅ jo ham taabut Hyder ka
+  Julusoṅ meiṅ uthaate haiṅ jo ham taabut Hyder ka
   Hamaari aaṅkh se phir ashk-e-gham ye keh ke behta hai
   Ye Hyder ka janaaza hai
 
   7
-  Hai turbat Fatema Zahra ki haaye sog mein dubi
+  Hai turbat Fatema Zahra ki haaye sog meiṅ dubi
   Zamiṅ par arsh par nauha ye saare ambiya ka hai
   Ye Hyder ka janaaza hai
 

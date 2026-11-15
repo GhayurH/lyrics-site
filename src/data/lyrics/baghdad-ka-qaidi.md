@@ -14,7 +14,7 @@ romanLyrics: |-
   Ya Musa-e-Kazim, haaye haaye Imam Kazim
 
   Kar kar ke yaad Sakina ko Baghdad ka qaidi rota hai
-  Bazaar-e-Shaam hai aankhoṅ mein Sajjad ka lab par nauha hai
+  Bazaar-e-Shaam hai aankhoṅ meiṅ Sajjad ka lab par nauha hai
 
   1
   Khud qaid jahaaṅ par Kazim hai har din hai raat ke jaisa
@@ -28,18 +28,18 @@ romanLyrics: |-
 
   3
   Jab shaam ke saaye barhte haiṅ barhti hai sadaa-e-girya
-  Ik dard sa dil mein uthta hai kehte haiṅ tarap kar Maula
-  Hai saath Raza ke Masuma zindaan mein Sakina tanha hai
+  Ik dard sa dil meiṅ uthta hai kehte haiṅ tarap kar Maula
+  Hai saath Raza ke Masuma zindaan meiṅ Sakina tanha hai
 
   4
-  Mazlum paraaye des mein hai dhaaras hai dil ko phir bhi
+  Mazlum paraaye des meiṅ hai dhaaras hai dil ko phir bhi
   Mil jaayega mujhko ghusl o kafan basti hai musalmaanoṅ ki
   Mazlum Husain ki ghurbat par dil khun ke aansu rota hai
 
   5
   Hai chaudah baras se qaid magar phir bhi wo yehi hai kehta
   Abid ka ruku aur mera ruku ik jaisa nahiṅ ho sakta
-  Main tanha huṅ wo maaṅ behneṅ bazaar se lekar guzra hai
+  Maiṅ tanha huṅ wo maaṅ behneṅ bazaar se lekar guzra hai
 
   6
   Mazlumi maatam karti hai parhti hai ghurbat nauha
@@ -49,7 +49,7 @@ romanLyrics: |-
   7
   Baghdad ke qaidi ne har dam Abid pe kiya hai girya
   Lekin Akbar is ghurbat par Sajjad bhi rota hoga
-  Zanjiroṅ mein tha jakra hua jab Kazim ne dam tora hai
+  Zanjiroṅ meiṅ tha jakra hua jab Kazim ne dam tora hai
 # source_id: nohayonline:49886383a6e04182158e
 # source_url: https://www.nohayonline.com/details_content.php?id=904
 # raw_sha256: c0948113e95adebcb595a0b87781c1c647291fb5f79bd92b45e7b91766d80443

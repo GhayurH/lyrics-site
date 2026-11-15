@@ -11,40 +11,40 @@ tags: []
 aliases: ["Saaye May Sayyeda"]
 published: true
 romanLyrics: |-
-  Saaye mein Sayyeda ke azaadaar raheṅge
+  Saaye meiṅ Sayyeda ke azaadaar raheṅge
   Jab hoga sawa naize pe khurshid o qayaamat
-  Saaye mein Sayyeda ke azaadaar raheṅge
+  Saaye meiṅ Sayyeda ke azaadaar raheṅge
 
   1
   Barhta hi chala jaayega Shabbir ka maatam
   Qaaim jo gham-e-Shah ke alamdaar raheṅge
 
   2
-  Hum qabr mein so jaayeṅge jab bekhabri se
-  Maatam ke nishaaṅ ruh mein bedaar raheṅge
+  Hum qabr meiṅ so jaayeṅge jab bekhabri se
+  Maatam ke nishaaṅ ruh meiṅ bedaar raheṅge
 
   3
   Ae munkir-e-maatam tu kahaaṅ jaa ke rahega
-  Jannat mein to Sarwar ke azaadaar raheṅge
+  Jannat meiṅ to Sarwar ke azaadaar raheṅge
 
   4
-  Har chiz ko duniya mein fana hona hai ek din
+  Har chiz ko duniya meiṅ fana hona hai ek din
   Qaaim gham-e-Shabbir ke aasaar raheṅge
 
   5
-  Jannat mein agar majlis-e-Shabbir na hogi
+  Jannat meiṅ agar majlis-e-Shabbir na hogi
   Hum ahl-e-aza khuld se bezaar raheṅge
 
   6
   Ek baar zara naam-e-Ali le ke to dekho
-  Mushkil mein madadgaar wo har baar raheṅge
+  Mushkil meiṅ madadgaar wo har baar raheṅge
 
   7
   Bejaan khudaaoṅ se kaha bint-e-Asad ne
-  Kaabe mein to ab Haidar-e-Karraar raheṅge
+  Kaabe meiṅ to ab Haidar-e-Karraar raheṅge
 
   8
-  Zainab ka khule sar bhare darbaar mein jaana
+  Zainab ka khule sar bhare darbaar meiṅ jaana
   Sajjad isi dard se bimaar raheṅge
 
   9

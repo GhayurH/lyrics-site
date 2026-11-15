@@ -21,7 +21,7 @@ romanLyrics: |-
   Maaf kar do hameṅ ya Husain
 
   1
-  Main huṅ wo zaalim le ke jo aaya Karbobala aap ko
+  Maiṅ huṅ wo zaalim le ke jo aaya Karbobala aap ko
   Ban ke gunahgaar aaya huṅ dene dar pe sada aap ko
   Ghutniyoṅ baitha sar ko jhukaaye hoṅtoṅ pe tha ya Husain
 
@@ -31,9 +31,9 @@ romanLyrics: |-
   Meri wajah se haaye wo lashkar pyaasa raha ya Husain
 
   3
-  Baali Sakina Asghar-e-naadaaṅ ka main gunaah gaar huṅ
+  Baali Sakina Asghar-e-naadaaṅ ka maiṅ gunaah gaar huṅ
   Aal-e-Nabi ka dil hai dukhaaya aisa sitamgaar huṅ
-  Main ne kiya hai aap pe Maula zulm o jafa ya Husain
+  Maiṅ ne kiya hai aap pe Maula zulm o jafa ya Husain
 
   4
   Ae mere Maula Saaqi-e-Kausar itna karam kijiye
@@ -46,23 +46,23 @@ romanLyrics: |-
   Kaise uthaaye sar ko wo apne aati haya ya Husain
 
   6
-  Ae mere Aaqa ae mere Maula main hi khataakaar huṅ
-  Be aab jangal mein le ke aaya kitna gunahgaar huṅ
+  Ae mere Aaqa ae mere Maula maiṅ hi khataakaar huṅ
+  Beaab jangal meiṅ le ke aaya kitna gunahgaar huṅ
   Ae Ibn-e-Haidar ab bakhsh dijiye meri khata ya Husain
 
   7
   Kya aap mujh se raazi nahiṅ hai Hurr ne ye ro kar kaha
-  Main bhi huṅ raazi raazi Khuda hai Shabbir ne di sada
+  Maiṅ bhi huṅ raazi raazi Khuda hai Shabbir ne di sada
   Khush ho ke Hurr ne aawaaz ye di shukriya ya Husain
 
   8
   Ran ki ijaazat de dijiye pehle mere jawaan laal ko
-  Sar ko kataaye maidaaṅ mein jaa kar izzat mile aal ko
-  Bas aap hi ka ghurbat ke ban mein hai aasra ya Husain
+  Sar ko kataaye maidaaṅ meiṅ jaa kar izzat mile aal ko
+  Bas aap hi ka ghurbat ke ban meiṅ hai aasra ya Husain
 
   9
-  Haathoṅ se apne apne pisar ka laasha uthaauṅ ga main
-  Ghore se gir kar jab wo pukaare maqtal mein jaauṅ ga main
+  Haathoṅ se apne apne pisar ka laasha uthaauṅ ga maiṅ
+  Ghore se gir kar jab wo pukaare maqtal meiṅ jaauṅ ga maiṅ
   Daagh-e-jawaani ko bhi sahega sina mera ya Husain
 
   10
@@ -71,7 +71,7 @@ romanLyrics: |-
   Apne ghulaamoṅ ko de rahe the ye martaba ya Husain
 
   11
-  Majlis o maatam aur nauha khwaani mein jo hui ho khata
+  Majlis o maatam aur nauha khwaani meiṅ jo hui ho khata
   Shams aur Aamir ki bakhsh dijiye wo sab khata ae Khuda
   Ho jaaye ye bhi duniya ke andar Hurr ki tarah ya Husain
 # source_id: nohayonline:618aa76ba8db6eaef395

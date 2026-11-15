@@ -19,7 +19,7 @@ romanLyrics: |-
   1
   Hai Shimr-e-sitamgar maahile shaar
   Hai zulm se us ke chhalni jigar
-  Padte hai tamazhe subho masa
+  Parte hai tamazhe subho masa
   Ab jaan nikalne wali hai
 
   2
@@ -47,14 +47,14 @@ romanLyrics: |-
   Ab jaan nikalne wali hai
 
   6
-  Shaam aati hai zindaan mein jis dam
+  Shaam aati hai zindaan meiṅ jis dam
   Ghabrata hai dil mera us dam
   Chillaati huṅ keh kar aao chacha
   Ab jaan nikalne wali hai
 
   7
   Haidar bas rok apna qalam
-  Majlis mein hui har chashm hai nam
+  Majlis meiṅ hui har chashm hai nam
   Hai josh pe darya matam ka
   Ab jaan nikalne wali hai
 # source_id: nohayonline:1324c04e8ed768b82256

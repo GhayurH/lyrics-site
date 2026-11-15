@@ -17,15 +17,15 @@ romanLyrics: |-
   Haye Sakina meri haye Sakina
 
   1
-  Haathoṅ mein kuza liye khaime ke dar par khari
-  Paani ki ummid mein hogi Sakina meri
+  Haathoṅ meiṅ kuza liye khaime ke dar par khari
+  Paani ki ummid meiṅ hogi Sakina meri
   Paayegi jis dam khabar mashk meri chhid gayi
   Ro ke kahegi chacha pyaas meri bujh gayi
-  Dil mein rahega ye qalaq Sayyid-e-Abraar
+  Dil meiṅ rahega ye qalaq Sayyid-e-Abraar
   Haye Sakina meri haye Sakina
 
   2
-  Naaz uthaata raha jis ka main shaam o sahar
+  Naaz uthaata raha jis ka maiṅ shaam o sahar
   Aaj bhatiji meri hai wohi tashna jigar
   Kya kahuṅ kis darja ab gham ka hai dil par asar
   Tashna dahaani faqat us ki hai pesh-e-nazar
@@ -36,12 +36,12 @@ romanLyrics: |-
   Haye nahiṅ bujh saki bachchoṅ ki tashna labi
   Waada na pura hua aur qaza aa gayi
   Kaise kahuṅ kis qadar mujh ko hai sharmindagi
-  Laash na jaayegi ab khaime mein aaqa meri
+  Laash na jaayegi ab khaime meiṅ aaqa meri
   Ro ke yehi kehta raha Shah ka alamdaar
   Haye Sakina meri haye Sakina
 
   4
-  Karta huṅ main to safar hogi qayaamat magar
+  Karta huṅ maiṅ to safar hogi qayaamat magar
   Chhaayegi gham ki ghata bekas o mazlum par
   Zulm sahegi bhala kis tarah jaan-e-pidar
   Phatta hai ye soch kar ba khuda mera jigar
@@ -57,18 +57,18 @@ romanLyrics: |-
   Haye Sakina meri haye Sakina
 
   6
-  Shakl bhatiji ko main kaise dikhaauṅ bhala
-  Maut se majbur huṅ kaise main jaauṅ bhala
+  Shakl bhatiji ko maiṅ kaise dikhaauṅ bhala
+  Maut se majbur huṅ kaise maiṅ jaauṅ bhala
   Pyaas Sakina ki ab kaise bujhaauṅ bhala
-  Mashk mein paani nahiṅ kaise bataauṅ bhala
+  Mashk meiṅ paani nahiṅ kaise bataauṅ bhala
   Nauha yehi parhta raha Shah ka madadgaar
   Haye Sakina meri haye Sakina
 
   7
   Jis ka bilakna kabhi mujh ko gawaara na tha
-  Pyaas se tarpegi wo main ne ye socha na tha
-  Paani main laata nahiṅ ba khuda aisa na tha
-  Jang main karta yahaaṅ Shah ka iraada na tha
+  Pyaas se tarpegi wo maiṅ ne ye socha na tha
+  Paani maiṅ laata nahiṅ ba khuda aisa na tha
+  Jang maiṅ karta yahaaṅ Shah ka iraada na tha
   Keh ke yehi rone laga paikar-e-isaar
   Haye Sakina meri haye Sakina
 

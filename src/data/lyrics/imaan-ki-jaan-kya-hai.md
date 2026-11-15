@@ -23,7 +23,7 @@ romanLyrics: |-
   Ae jaanashiṅ janaab-e-risaalat ke ya Ali
   Qurbaan lahu bhari teri surat ke ya Ali
   Ayyaam haiṅ ye teri shahaadat ke ya Ali
-  Ye zulm be jihat ye sitam be sabab hua
+  Ye zulm bejihat ye sitam besabab hua
   Talwaar tere sar pe lagi kya ghazab hua
 
   3
@@ -85,7 +85,7 @@ romanLyrics: |-
   10
   Jab biswiṅ ka din bhi tarap kar hua tamaam
   Ummul Banin se chauṅk ke kehne lage Imam
-  Do din se aah sab mere bachche hai be taaam
+  Do din se aah sab mere bachche hai betaaam
   Faaqe meiṅ in pe guzregi kya aaj ki bhi shaam
   Achchha huṅ ab to maiṅ ye abas beqaraar haiṅ
   Khaana inheiṅ khilaao ke sab rozedaar haiṅ
@@ -104,7 +104,7 @@ romanLyrics: |-
   Jis waqt baaqi reh gai kuchh kam ghari wo raat
   Tegh-e-ajal ne qata kiya rishta-e-hayaat
   Tarka tha nur ka ke safar kar gaye Ali
-  Sab Shia be Imam hue mar gaye Ali
+  Sab Shia beimam hue mar gaye Ali
 # source_id: nohayonline:b50fb7ccdaf35a67fd80
 # source_url: https://www.nohayonline.com/content_marsiya.php?id=13
 # raw_sha256: ebcedc1f4b62c537461dc665d9210ceb519724b1ce92bb72518a221dfb6c512c

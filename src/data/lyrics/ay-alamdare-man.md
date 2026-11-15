@@ -14,7 +14,7 @@ romanLyrics: |-
   Ae alamdar-e-man
   Ae sipaah daar-e-man
   Ae wafaadaar-e-man aa
-  Main ho gaya tanha
+  Maiṅ ho gaya tanha
   Ya Abbas ya Abbas ya Abbas ya Abbas
 
   1
@@ -24,39 +24,39 @@ romanLyrics: |-
   Sun ae Sakina ke chacha
   Ae mere ba wafa ae mere dilruba
   Ae mere mah laqa aa
-  Main ho gaya tanha
+  Maiṅ ho gaya tanha
   Ya Abbas ya Abbas ya Abbas
 
   2
   Aa dekh meri zindagi
-  Dard o alam mein ghir gayi
+  Dard o alam meiṅ ghir gayi
   Zakhmi hua rahwaar bhi
   Barhne lagi hai tishnagi
   Tu ne rakha bharam
   Har ghari har qadam
   Phir utha le alam aa
-  Main ho gaya tanha
+  Maiṅ ho gaya tanha
   Ya Abbas ya Abbas ya Abbas
 
   3
   Laasheṅ utha kar thak gaya
   Puchho na kaise ghar gaya
-  Abbas phir main gir gaya
-  Samjhi behan main mar gaya
+  Abbas phir maiṅ gir gaya
+  Samjhi behan maiṅ mar gaya
   Haaye kya reh gaya ho gayi intiha
   Jaan-e-mushkil kusha aa
-  Main ho gaya tanha
+  Maiṅ ho gaya tanha
   Ya Abbas ya Abbas ya Abbas
 
   4
   Bhaiya mujhe ye hai khabar
-  Be dast tu hai khaak par
+  Bedast tu hai khaak par
   Phir bhi magar koshish to kar
   Aa ja taraai chhor kar
   Tere baazu qalam
-  Khuṅ mein duba alam
+  Khuṅ meiṅ duba alam
   Hai Sakina ko gham aa
-  Main ho gaya tanha
+  Maiṅ ho gaya tanha
   Ya Abbas ya Abbas ya Abbas
 
   5
@@ -67,7 +67,7 @@ romanLyrics: |-
   Aa mere bhaai aa
   Kat raha hai gala
   Aakhri hai sada aa
-  Main ho gaya tanha
+  Maiṅ ho gaya tanha
   Ya Abbas ya Abbas ya Abbas
 # source_id: nohayonline:f79b9a6201d3dccad401
 # source_url: https://www.nohayonline.com/details_content.php?id=2610

@@ -23,14 +23,14 @@ romanLyrics: |-
 
   3
   Karegi yaad zamaana Ali ki shaahi ka
-  Asir ho ke jo Kufe mein jaayegi Fizza
+  Asir ho ke jo Kufe meiṅ jaayegi Fizza
 
   4
   Khule saroṅ ko bahut yaad aayega Ghaazi
   Qabile waaloṅ ko jis dam bulaayegi Fizza
 
   5
-  Karegi qaid mein yuṅ ehtiraam Zainab ka
+  Karegi qaid meiṅ yuṅ ehtiraam Zainab ka
   Qadam ki khaak ko sar par uthaayegi Fizza
 
   6

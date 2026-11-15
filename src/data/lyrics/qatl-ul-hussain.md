@@ -11,7 +11,7 @@ tags: []
 aliases: ["Qatl Ul Hussain"]
 published: true
 romanLyrics: |-
-  Qutl al Husain o be Karbala
+  Qutl al Husain o bekarbala
 
   1
   Chala Karbala se jo qaafila
@@ -27,7 +27,7 @@ romanLyrics: |-
 
   3
   Dil-e-Mustafa ko thi bekali
-  Saf-e-ambiya mein thi khalbali
+  Saf-e-ambiya meiṅ thi khalbali
   Hua zibh jab pisar-e-Ali
   Sar-e-arsh gunji yehi sada
 
@@ -40,7 +40,7 @@ romanLyrics: |-
   5
   Kahiṅ Jibrail the sar niguṅ
   Kahiṅ ahl-e-arsh the besukuṅ
-  Main bayaaṅ ye kaise ye gham karuṅ
+  Maiṅ bayaaṅ ye kaise ye gham karuṅ
   Mere saath rote haiṅ ambiya
 
   6
@@ -59,7 +59,7 @@ romanLyrics: |-
   Meri aaṅkh roti hai Aarzu
   Inhi aaṅsuoṅ se huṅ surkh ru
   Mujhe Karbala ki hai justuju
-  Jahaaṅ main parhuṅ yehi marsiya
+  Jahaaṅ maiṅ parhuṅ yehi marsiya
 # source_id: nohayonline:88a0656aa2284fcc55e4
 # source_url: https://www.nohayonline.com/details_content.php?id=3470
 # raw_sha256: b8c15d01eacaf76f790d91bda46e7fb3367c962ec59db48116d3892310f6a9c0

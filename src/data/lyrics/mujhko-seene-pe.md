@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Bain ye shaam-e-gharibaaṅ mein Sakina ne kiya
+  Bain ye shaam-e-gharibaaṅ meiṅ Sakina ne kiya
   Nind kya aayegi ke bistar hai na takiya na rida
   Mujhko sine pe sula lo baba
 
@@ -21,12 +21,12 @@ romanLyrics: |-
   Ye batlaao ke kiuṅ ho gaye tum mujh se khafa
 
   2
-  Khun mein dube biyaabaaṅ se dar lagta hai
+  Khun meiṅ dube biyaabaaṅ se dar lagta hai
   Kabhi maqtal kabhi zindaaṅ se dar lagta hai
   Hausla do mujhe dhaaras to bandha do baba
 
   3
-  Khaaye durre to main samjhi ke asiri kya hai
+  Khaaye durre to maiṅ samjhi ke asiri kya hai
   Aaj maalum hua mujhko yatimi kya hai
   Khaak par baithi huṅ ab haal hai ye ghurbat ka
 
@@ -41,7 +41,7 @@ romanLyrics: |-
   Aaj tum so gaye aur dhyaan bhi aaya na mera
 
   6
-  Khushbu ye aap ki main paa ke chali aayi huṅ
+  Khushbu ye aap ki maiṅ paa ke chali aayi huṅ
   Wo andhera hai ke ghabra ke chali aayi huṅ
   Jise khaimoṅ ka phuphi de rahi hoṅ gi pahra
 
@@ -51,12 +51,12 @@ romanLyrics: |-
   Kabhi khaaye hai tamaanche to kabhi ashk piya
 
   8
-  Aap ki saansoṅ se har saans mein raahat thi mujhe
+  Aap ki saansoṅ se har saans meiṅ raahat thi mujhe
   Aap ke sine pe sone ki to aadat thi mujhe
   Kaun sota hai badal jaaye jo sone ki jagah
 
   9
-  Main tarapti hi rahi aap khafa ho bhi gaye
+  Maiṅ tarapti hi rahi aap khafa ho bhi gaye
   Khaak par aap ko nind aa bhi gayi so bhi gaye
   Kya isi waaste khaaliq se mujhe maanga tha
 

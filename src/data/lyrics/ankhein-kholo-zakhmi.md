@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Zainab ka tha nauha baba mere baba
-  Main Zainab huṅ pehchaano zara
+  Maiṅ Zainab huṅ pehchaano zara
   Aankheiṅ kholo zakhmi baba
   Kiuṅ sunte nahiṅ beti ki sada
   Aankheiṅ kholo zakhmi baba
@@ -22,11 +22,11 @@ romanLyrics: |-
   Kya subh qayaamat laayi hai
   Suraj ko jagaate the tum to
   Ab nind ye kaisi aayi hai
-  Main kab se hilaati huṅ shaana
+  Maiṅ kab se hilaati huṅ shaana
   Aankheiṅ kholo zakhmi baba
 
   2
-  Qurbaan main us ki ghairat ke
+  Qurbaan maiṅ us ki ghairat ke
   Khaamosh tumhaara beta hai
   Dehliz pe hujre ki kab se
   Sar apna jhukaaye baitha hai
@@ -34,7 +34,7 @@ romanLyrics: |-
   Aankheiṅ kholo zakhmi baba
 
   3
-  Logoṅ ke diloṅ mein aaj talak
+  Logoṅ ke diloṅ meiṅ aaj talak
   Sab Badr o Uhud ke kina hai
   Amma bhi nahiṅ ab tum bhi nahiṅ
   Phir kis ke sahaare jina hai
@@ -44,7 +44,7 @@ romanLyrics: |-
   4
   Ek baar utho in se puchho
   Baaghi to nahiṅ boleṅ ge mujhe
-  Bin aap ke jab main aauṅ gi
+  Bin aap ke jab maiṅ aauṅ gi
   Patthar to nahiṅ maareṅ ge mujhe
   In Kufiyoṅ se le lo waada
   Aankheiṅ kholo zakhmi baba
@@ -53,13 +53,13 @@ romanLyrics: |-
   Shaanoṅ ko chum ke kehte the
   Berehm zamaana hai Zainab
   Khaamosh hue itna keh kar
-  Darbaar mein jaana hai Zainab
+  Darbaar meiṅ jaana hai Zainab
   Tafsil bata do aur zara
   Aankheiṅ kholo zakhmi baba
 
   6
   Amma ki niyaabat karti huṅ
-  Main bhuli nahiṅ huṅ mansab ko
+  Maiṅ bhuli nahiṅ huṅ mansab ko
   Maalum hai ghairat daar ho tum
   Parde ka khayaal hai Zainab ko
   Maujud hai mere sar pe rida

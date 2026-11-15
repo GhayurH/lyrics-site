@@ -11,14 +11,14 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Nanhe mujaahid ran mein jaa kar
+  Nanhe mujaahid ran meiṅ jaa kar
   Tum nahiṅ aaye
   Shaah to aaye jaan-e-maadar
   Tum nahiṅ aaye
 
   1
   Kab se khari huṅ khaime ke dar par
-  Aaṅkhoṅ mein le kar ashkoṅ ke saagar
+  Aaṅkhoṅ meiṅ le kar ashkoṅ ke saagar
   Pesh karuṅ aa jaao jo Asghar
   Tum nahiṅ aaye
 
@@ -30,20 +30,20 @@ romanLyrics: |-
 
   3
   Raat andheri dasht-e-bayaabaaṅ
-  Dar nahiṅ jaana ran mein meri jaaṅ
+  Dar nahiṅ jaana ran meiṅ meri jaaṅ
   Kaise rahoge maaṅ se bichhar kar
   Tum nahiṅ aaye
 
   4
-  Tum ne ishaaroṅ mein ye kaha tha
+  Tum ne ishaaroṅ meiṅ ye kaha tha
   De de raza maqtal ki khudaara
-  Kar ke fath main aauṅ ga lashkar
+  Kar ke fath maiṅ aauṅ ga lashkar
   Tum nahiṅ aaye
 
   5
   Haṅste hue khaimoṅ se sidhaare
   Pesh-e-nazar haiṅ saare nazaare
-  Ho gaya kya maidaan mein jaa kar
+  Ho gaya kya maidaan meiṅ jaa kar
   Tum nahiṅ aaye
 
   6
@@ -59,7 +59,7 @@ romanLyrics: |-
   Tum nahiṅ aaye
 
   8
-  Kis ko sunaauṅ gi main kahaani
+  Kis ko sunaauṅ gi maiṅ kahaani
   Ye bhi na socha Yusuf-e-saani
   Maaṅ se kategi raat ye kiunkar
   Tum nahiṅ aaye
@@ -73,7 +73,7 @@ romanLyrics: |-
   10
   Kaise jiyegi baali Sakina
   Hai gham-e-furqat se wo hazina
-  Roti hai ab tak yaad mein khwaahar
+  Roti hai ab tak yaad meiṅ khwaahar
   Tum nahiṅ aaye
 
   11
@@ -83,13 +83,13 @@ romanLyrics: |-
   Tum nahiṅ aaye
 
   12
-  Tere bina main chain na paauṅ
+  Tere bina maiṅ chain na paauṅ
   Jhula hai khaali kis ko jhulaauṅ
   Kis ko sulaauṅ loriyaaṅ de kar
   Tum nahiṅ aaye
 
   13
-  Chaaroṅ taraf maidaaṅ mein haiṅ laashe
+  Chaaroṅ taraf maidaaṅ meiṅ haiṅ laashe
   Karti hai shab aa ke ye ishaare
   Kitna wahshatnaak hai manzar
   Tum nahiṅ aaye

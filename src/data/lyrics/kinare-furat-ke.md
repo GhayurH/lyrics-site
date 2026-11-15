@@ -15,19 +15,19 @@ romanLyrics: |-
   Wo haath aasra haiṅ hamaari nijaat ke
 
   1
-  Hai thokaroṅ mein aaj bhi Abbas ke Furaat
-  Aise dhani bhi hote haiṅ duniya mein baat ke
+  Hai thokaroṅ meiṅ aaj bhi Abbas ke Furaat
+  Aise dhani bhi hote haiṅ duniya meiṅ baat ke
 
   2
   Un se bazor-e-tegh ye baiat ki koshisheṅ
-  Jo fath dhaal dete haiṅ saanche mein maat ke
+  Jo fath dhaal dete haiṅ saanche meiṅ maat ke
 
   3
   Haṅste ho aansuoṅ pe hamaare Khuda gawaah
   Ham jama kar rahe haiṅ wasile nijaat ke
 
   4
-  Karb o bala mein tir-e-sitam khaa ke ik saghir
+  Karb o bala meiṅ tir-e-sitam khaa ke ik saghir
   Lehra gaya jahaan pe parcham hayaat ke
 
   5
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   6
   Kis jaa chhupe ho ae Ali Asghar jawaab do
-  Maadar bhatak rahi hai andhere mein raat ke
+  Maadar bhatak rahi hai andhere meiṅ raat ke
 
   7
   Ham bhi ghulaam-e-Hur haiṅ karam ae Shah-e-Umam

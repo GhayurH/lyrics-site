@@ -16,7 +16,7 @@ romanLyrics: |-
   Raaheiṅ pidar ki dekhna bemaar chhor de
   Chaukhat pe aa ke baithna bemaar chhor de
 
-  Dehliz par jo aate haiṅ taair lahu mein tar
+  Dehliz par jo aate haiṅ taair lahu meiṅ tar
   Aati hai jin ke paas se Sughra bu-e-pidar
   Kya hai sabab ye puchhna bemaar chhor de
 
@@ -31,8 +31,8 @@ romanLyrics: |-
   Jhule ke paas baithna bemaar chhor de
 
   3
-  Aangan mein khelta na Sakina ko paaogi
-  Godi mein kis ko le ke kahaani sunaaogi
+  Aangan meiṅ khelta na Sakina ko paaogi
+  Godi meiṅ kis ko le ke kahaani sunaaogi
   Raunaq wo ghar ki sochna bemaar chhor de
 
   4
@@ -41,12 +41,12 @@ romanLyrics: |-
   Baba ko yuṅ pukaarna bemaar chhor de
 
   5
-  Kuze mein kiuṅ chehra-e-Asghar jhalakta hai
+  Kuze meiṅ kiuṅ chehra-e-Asghar jhalakta hai
   Jab naam luṅ Sakina ka paani chhalakta hai
   Aise sawaal puchhna bemaar chhor de
 
   6
-  Aayega khuṅ mein duba alamdaar ka alam
+  Aayega khuṅ meiṅ duba alamdaar ka alam
   Abbas seh na paaye Sakina ka tha wo gham
   Wo haath sar pe sochna bemaar chhor de
 
@@ -57,7 +57,7 @@ romanLyrics: |-
 
   8
   Abid ki khuṅ roti hui chashm-e-gham Samar
-  Kehti thi haaye dasht mein maare gaye pidar
+  Kehti thi haaye dasht meiṅ maare gaye pidar
   Raatoṅ ko uth ke dhundna bemaar chhor de
 # source_id: nohayonline:5e3c769166300f7065fe
 # source_url: https://www.nohayonline.com/details_content.php?id=2656

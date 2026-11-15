@@ -40,7 +40,7 @@ romanLyrics: |-
   Laanat us aadmi pe kaho beshumaar hai
 
   8
-  Bint-e-Nabi ki shaan mein kaise bayaan karuṅ
+  Bint-e-Nabi ki shaan meiṅ kaise bayaan karuṅ
   Sajda bhi in ke saamne sajda guzaar hai
 
   9
@@ -52,7 +52,7 @@ romanLyrics: |-
   Beti se bughz tum ko Muhammad se pyaar hai
 
   11
-  Kehte haiṅ jis ko Gohar-e-naayaab asl mein
+  Kehte haiṅ jis ko Gohar-e-naayaab asl meiṅ
   Zarra Najaf ki khaak ka wo khaaksaar hai
 # source_id: tajpoints:1f98c2bb8cb048a66989
 # source_url: https://tajpoints.com/2021/02/zehra-hasan-hussain-ki-parwardigar-hai.html

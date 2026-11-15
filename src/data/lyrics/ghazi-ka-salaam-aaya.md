@@ -24,7 +24,7 @@ romanLyrics: |-
 
   2
   Darya pe koi laasha pehlu badal raha tha
-  Pardes mein Ali ka ghar baar jal raha tha
+  Pardes meiṅ Ali ka ghar baar jal raha tha
   Zainab ke saath mil ke sholoṅ pe chal ke tu ne
   Sajjaad ko bachaaya
 
@@ -35,8 +35,8 @@ romanLyrics: |-
   Zainab se pehle khaaya
 
   4
-  Zainab gayi jahaaṅ bhi tu saath mein gayi hai
-  Saaye ki tarah har pal tu dhup mein rahi hai
+  Zainab gayi jahaaṅ bhi tu saath meiṅ gayi hai
+  Saaye ki tarah har pal tu dhup meiṅ rahi hai
   Qurbaaniyoṅ ko teri sab maante haiṅ Bibi
   Apna ho ya paraaya
 
@@ -59,8 +59,8 @@ romanLyrics: |-
   Marham kabhi lagaaya
 
   8
-  Pardesiyoṅ ki tarah tu ab bhi Shaam mein hai
-  Ghar jaati kis tarah se Zainab bhi Shaam mein hai
+  Pardesiyoṅ ki tarah tu ab bhi Shaam meiṅ hai
+  Ghar jaati kis tarah se Zainab bhi Shaam meiṅ hai
   Lagta hai ye Takallum bint-e-Ali ke sar par
   Ab tak hai tera saaya
 # source_id: nohayonline:1fcc8ec51f31cb40b873

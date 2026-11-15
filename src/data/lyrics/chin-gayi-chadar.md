@@ -17,26 +17,26 @@ romanLyrics: |-
   Ae mere bhai ae mere bhai
 
   1
-  Shaam-e-gharibaaṅ mein jafa ho gayi Ghaazi
+  Shaam-e-gharibaaṅ meiṅ jafa ho gayi Ghaazi
   Roti rahi Haidar-e-Karraar ki beti
   Ahl-e-jafa khaime jalaate rahe Ghaazi
-  Aa ke na ghurbat mein kisi be bhi madad ki
+  Aa ke na ghurbat meiṅ kisi bebhi madad ki
   Barhti rahi bekasi aap the bhaiya kahaaṅ
   Ae mere bhai ae mere bhai
 
   2
   Gham ki ghari kaisi ye qismat ne dikhaayi
-  Dasht mein deti thi behan gham se duhayi
+  Dasht meiṅ deti thi behan gham se duhayi
   Ghurbat-e-Shabbir par roti thi khudaayi
-  Laash zaifi mein jab Akbar ki uthaayi
+  Laash zaifi meiṅ jab Akbar ki uthaayi
   Gir pare Sibt-e-Nabi aap the bhaiya kahaaṅ
   Ae mere bhai ae mere bhai
 
   3
-  Aal-e-Payambar ki buka gunji faza mein
-  Shor khushi ka tha bahut ahl-e-jafa mein
-  Aur izaafa hua Zehra ki aza mein
-  Sukha gala Shah ka kata Karbobala mein
+  Aal-e-Payambar ki buka gunji faza meiṅ
+  Shor khushi ka tha bahut ahl-e-jafa meiṅ
+  Aur izaafa hua Zehra ki aza meiṅ
+  Sukha gala Shah ka kata Karbobala meiṅ
   Chalti rahi jab chhuri aap the bhaiya kahaaṅ
   Ae mere bhai ae mere bhai
 
@@ -44,12 +44,12 @@ romanLyrics: |-
   Hum se chhuraaya gaya afsos watan bhi
   Aise luta Faatima Zehra ka chaman bhi
   Laasha-e-Sarwar raha begor o kafan bhi
-  Baandhi gayi haathoṅ mein khwaahar ke rasan bhi
+  Baandhi gayi haathoṅ meiṅ khwaahar ke rasan bhi
   Hum ko asiri mili aap the bhaiya kahaaṅ
   Ae mere bhai ae mere bhai
 
   5
-  Har ghari pardes mein barhte rahe sadme
+  Har ghari pardes meiṅ barhte rahe sadme
   Khaaya na thora bhi taras ahl-e-sitam ne
   Lagte rahe baali Sakina ko tamaanche
   Nila hua chehra anguthi ke nishaaṅ se
@@ -57,23 +57,23 @@ romanLyrics: |-
   Ae mere bhai ae mere bhai
 
   6
-  Zulm o sitam yuṅ bara tapte hue ban mein
-  Koi madadgaar nahiṅ ranj o mihan mein
-  Rukti hai saaṅseṅ hai izaafa hai ghutan mein
-  Baandhe gaye baarah gale ek rasan mein
+  Zulm o sitam yuṅ bara tapte hue ban meiṅ
+  Koi madadgaar nahiṅ ranj o mihan meiṅ
+  Rukti hai saaṅseṅ hai izaafa hai ghutan meiṅ
+  Baandhe gaye baarah gale ek rasan meiṅ
   Roti thi Aal-e-Nabi aap the bhaiya kahaaṅ
   Ae mere bhai ae mere bhai
 
   7
   Zulm o sitam dha ke sataaya gaya mujh ko
-  Aalam-e-ghurbat mein rulaaya gaya mujh ko
-  Kufe ki galiyoṅ mein phiraaya gaya mujh ko
+  Aalam-e-ghurbat meiṅ rulaaya gaya mujh ko
+  Kufe ki galiyoṅ meiṅ phiraaya gaya mujh ko
   Jab sar-e-darbaar bulaaya gaya mujh ko
   Mere liye maut thi aap the bhaiya kahaaṅ
   Ae mere bhai ae mere bhai
 
   8
-  Mir Hilaal Aal-e-Payambar mein tha mehshar
+  Mir Hilaal Aal-e-Payambar meiṅ tha mehshar
   Chalta tha har dil pe gham o ranj ka khanjar
   Dekh ke Abbaas-e-dilaawar ka kata sar
   Pit ke sar kehti thi jab Dukhtar-e-Haidar

@@ -28,7 +28,7 @@ romanLyrics: |-
   Dekh Kaba sabab-e-natiq-e-Quran hai yeh
   Yaad rakh Kaba ke Allah ki mehman hai yeh
   Hamil-e-nur hai Nur-e-Azali ki maaṅ hai
-  Sar ko qadmoṅ mein jhuka de yeh Ali ki maaṅ hai
+  Sar ko qadmoṅ meiṅ jhuka de yeh Ali ki maaṅ hai
 
   3
   Yaad rakh Kaba yeh khatun Ali ki maaṅ hai
@@ -49,7 +49,7 @@ romanLyrics: |-
   5
   Dekh Kaba teri azmat ke nishaṅ haiṅ yeh qadam
   Woh jagah Arsh-e-Mualla hai jahaṅ haiṅ yeh qadam
-  Kis ko malum bulandi mein kahaṅ haiṅ yeh qadam
+  Kis ko malum bulandi meiṅ kahaṅ haiṅ yeh qadam
   Jahaṅ Qausain ki manzil hai wahaṅ haiṅ yeh qadam
   Rab-e-Akbar ne har ik maaṅ ko ata ki jannat
   In ke niche hai Nuseri ke Khuda ki jannat
@@ -76,23 +76,23 @@ romanLyrics: |-
   Maqsad-e-zaat-e-Ilahi ka yehi hai maqsud
   Is ke farzandoṅ pe khud parhta hai Allah durud
   Beniyazana sar-e-ku-e-niyaz aati hai
-  Yuṅ samajh lijiye Kabe mein namaz aati hai
+  Yuṅ samajh lijiye Kabe meiṅ namaz aati hai
 
   9
   Kul-e-iman ka iman hai is ki jholi
   Parda-e-wahdat-e-imkan hai is ki jholi
   Aayat-e-Kubra ka juzdan hai is ki jholi
-  Khud mein dhaṅpe hue Quran hai is ki jholi
+  Khud meiṅ dhaṅpe hue Quran hai is ki jholi
   Yeh woh mumkin jise imkan ki zarurat hi nahiṅ
   Us ki maaṅ hai ke jise maaṅ ki zarurat hi nahiṅ
 
   10
   Sun ke aawaz yeh Kabe ne naya dar khola
   Dar jo khola to woh diwar ke andar khola
-  Woh jo manzar mein na tha woh pas-e-manzar khola
+  Woh jo manzar meiṅ na tha woh pas-e-manzar khola
   Wali Allah ne Allah ka yuṅ ghar khola
   Aayi aawaz-e-Khuda ghar ke makin aate haiṅ
-  Woh jo pardoṅ mein nihaṅ the woh yahiṅ aate haiṅ
+  Woh jo pardoṅ meiṅ nihaṅ the woh yahiṅ aate haiṅ
 
   11
   Dar-e-Kaba ne kaha Bint-e-Asad Bismillah

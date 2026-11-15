@@ -36,7 +36,7 @@ romanLyrics: |-
 
   4
   Zehra ne baal khole Nabi nange sar hue
-  Tum be Imam aur Hasan be pidar hue
+  Tum beimam aur Hasan bepidar hue
   Likha hai jab do nim hua farq-e-Murtaza
   Sidre se Jibrail ke rone ka ghul utha
 
@@ -85,7 +85,7 @@ romanLyrics: |-
   12
   Bole Ali hawaas abhi se baja nahiṅ
   Zainab se kehdo Kufa hai ye Karbala nahiṅ
-  Main bedayaar o bekas o beaashna nahiṅ
+  Maiṅ bedayaar o bekas o beaashna nahiṅ
   Shia haiṅ gird nargha-e-ahl-e-jafa nahiṅ
 
   13
@@ -108,7 +108,7 @@ romanLyrics: |-
 
   16
   Sayyidaaniyo randape ke gham se panaah do
-  Sadqa utaarne ko main aayi huṅ raah do
+  Sadqa utaarne ko maiṅ aayi huṅ raah do
   Bole Ali tu hosh meiṅ ae nauhagar nahiṅ
   Abbas ke waqaar ki tujhko khabar nahiṅ
 

@@ -17,7 +17,7 @@ romanLyrics: |-
   1
   Haaye tere saamne darya ke kinaare
   Pyaase rahe saaqi-e-Kausar ke dulaare
-  Khaak mein poshida hue arsh ke taare
+  Khaak meiṅ poshida hue arsh ke taare
   Ruth gaye Zainab-e-muztar ke sahaare
   Sibt-e-Rasul-e-do sara qatl ho gaya
 
@@ -26,11 +26,11 @@ romanLyrics: |-
   Raat ko jis ki sar-e-maqtal hui shaadi
   Subh ko maara gaya wo sher-e-jari bhi
   Shab ko bani thi jo dulhan bewa ho gayi
-  Dasht mein paamaal hua dulha ka laasha
+  Dasht meiṅ paamaal hua dulha ka laasha
   Qatl hui Aal-e-Nabi ghar ujar gaya
 
   3
-  Parcham-e-Abbas-e-jari khun mein duba
+  Parcham-e-Abbas-e-jari khun meiṅ duba
   Kat gaye us sher ke baazu lab-e-darya
   Pyaasa hi maara gaya saqqa-e-Sakina
   Tut gayi Shah ki kamar waa musibata
@@ -46,17 +46,17 @@ romanLyrics: |-
 
   5
   Lori ye raatoṅ ko jise sunaati thi ye maaṅ
-  God ke jhule mein jhulaati thi jise maaṅ
-  Dulha tasawwur mein banaati thi jise maaṅ
+  God ke jhule meiṅ jhulaati thi jise maaṅ
+  Dulha tasawwur meiṅ banaati thi jise maaṅ
   Sher-e-jari keh ke bulaati thi jise maaṅ
   Maaṅ se juda haaye wo shahzaada ho gaya
   Qatl hui Aal-e-Nabi ghar ujar gaya
 
   6
-  Hashmi sheroṅ ka lahu beh gaya ran mein
-  Lut gayi Kaunain ki shahzaadiyaaṅ ban mein
-  Aag lagaai gayi Zehra ke chaman mein
-  Jakra gaya haaye yatimoṅ ko rasan mein
+  Hashmi sheroṅ ka lahu beh gaya ran meiṅ
+  Lut gayi Kaunain ki shahzaadiyaaṅ ban meiṅ
+  Aag lagaai gayi Zehra ke chaman meiṅ
+  Jakra gaya haaye yatimoṅ ko rasan meiṅ
   Kitne hue zulm o sitam is qadar jafa
   Qatl hui Aal-e-Nabi ghar ujar gaya
 
@@ -65,7 +65,7 @@ romanLyrics: |-
   Raakh hue jal gaye Saadaat ke khaime
   Maare gaye baali Sakina ke tamaache
   Qaid hue Sayyid-e-Kaunain ke pyaare
-  Ho gayi maqtal mein Nabi zaadi berida
+  Ho gayi maqtal meiṅ Nabi zaadi berida
   Qatl hui Aal-e-Nabi ghar ujar gaya
 # source_id: nohayonline:7a7d95ab9d6ecab3af74
 # source_url: https://www.nohayonline.com/details_content.php?id=1903

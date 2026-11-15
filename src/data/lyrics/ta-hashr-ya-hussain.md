@@ -23,19 +23,19 @@ romanLyrics: |-
   Imaan ki laaj baad shariat tujhi se hai
   Quraaṅ ki saari azmat o hurmat tujhi se hai
   Masjid ki shaan Kaabe ki satwat tujhi se hai
-  Saare jahaaṅ mein tanz-e-risaalat tujhi se hai
+  Saare jahaaṅ meiṅ tanz-e-risaalat tujhi se hai
 
   3
   Ki thi Yazidiyat ne bahut kuch ye justuju
   Kaabe ki sarzamiṅ pe bahaa de tera lahu
-  Haj ko badal ke umre mein ae shaah-e-nek khu
+  Haj ko badal ke umre meiṅ ae shaah-e-nek khu
   Rakh li hai tu ne khaana-e-aewaz ki aabru
 
   4
-  Shamshir sar pe dil mein sinaaṅ tir paaoṅ mein
-  Tu ne qazaa se khela tha teghoṅ ki chhaaoṅ mein
-  Mard-e-Khuda tha aaya na baatil ke daao mein
-  Charche haiṅ tere naam ke ye gaaoṅ gaaoṅ mein
+  Shamshir sar pe dil meiṅ sinaaṅ tir paaoṅ meiṅ
+  Tu ne qazaa se khela tha teghoṅ ki chhaaoṅ meiṅ
+  Mard-e-Khuda tha aaya na baatil ke daao meiṅ
+  Charche haiṅ tere naam ke ye gaaoṅ gaaoṅ meiṅ
 
   5
   Gulzaar-e-diṅ ko sincha bahattar ke khun se
@@ -50,13 +50,13 @@ romanLyrics: |-
   Lehra raha hai aaj bhi Abbas ka alam
 
   7
-  Haathoṅ mein nimche liye Zainab ke laadle
+  Haathoṅ meiṅ nimche liye Zainab ke laadle
   Dono nihaal nikle haiṅ sar karne marhale
   Aadaa-e-diṅ ki lene khabar ghaat par chale
   Zehra ki laadli ki haiṅ ye god ke paale
 
   8
-  Ran mein dahakti ret pe wo asr ki namaaz
+  Ran meiṅ dahakti ret pe wo asr ki namaaz
   Meraaj-e-bandagi ka bataaya ye tu ne aaj
   Kuch kar saki na kufr o zalaalat ki saaz aaj
   Sar de ke din-e-haq ko kiya tu ne sarfaraaz

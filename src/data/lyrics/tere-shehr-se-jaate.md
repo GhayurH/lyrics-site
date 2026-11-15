@@ -19,9 +19,9 @@ romanLyrics: |-
   Haye ab Karbobala naana
 
   1
-  Tera din hai mushkil mein
-  Main kaise rahuṅ ghar mein
-  Tifli mein koi waada
+  Tera din hai mushkil meiṅ
+  Maiṅ kaise rahuṅ ghar meiṅ
+  Tifli meiṅ koi waada
   Tha tujh se kiya naana
 
   2
@@ -33,7 +33,7 @@ romanLyrics: |-
   3
   Is tarah parinde bhi
   Maskan se nahiṅ jaate
-  Ghurbat mein mujhe jaise
+  Ghurbat meiṅ mujhe jaise
   Ab jaana para naana
 
   4
@@ -55,16 +55,16 @@ romanLyrics: |-
   Sar us ka khula naana
 
   7
-  Mere saath mein jaati hai
+  Mere saath meiṅ jaati hai
   Maasum Sakina bhi
-  Pardes mein howegi
+  Pardes meiṅ howegi
   Us par bhi jafa naana
 
   8
   Rehaan larazta tha
   Marqad bhi payambar ka
   Shabbir jo kehte the
-  Main marne chala naana
+  Maiṅ marne chala naana
 # source_id: nohayonline:03f12aef0cf721dcb4ff
 # source_url: https://www.nohayonline.com/details_content.php?id=3320
 # raw_sha256: 477b3c281dd92c12100928662e5dfa7f23aa37c5605127cb8053642afe722b43

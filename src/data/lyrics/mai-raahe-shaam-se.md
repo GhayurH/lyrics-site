@@ -11,36 +11,36 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Main raah-e-Shaam se guzri huṅ be rida baaba
-  Asir-e-zulm huṅ roti huṅ be rida baaba
+  Maiṅ raah-e-Shaam se guzri huṅ berida baaba
+  Asir-e-zulm huṅ roti huṅ berida baaba
 
   1
-  Tha be kafan tera Islam main rida de kar
-  Bala ke dasht mein aai huṅ be rida baaba
+  Tha bekafan tera Islam maiṅ rida de kar
+  Bala ke dasht meiṅ aai huṅ berida baaba
 
   2
   Sitamgaaroṅ ne jagaaya hai taaziyaanoṅ se
-  Jo thak ke raah mein soti huṅ be rida baaba
+  Jo thak ke raah meiṅ soti huṅ berida baaba
 
   3
   Adu jo durre lagaate haiṅ mere Abid ko
-  Main dil ko thaam ke roti huṅ be rida baaba
+  Maiṅ dil ko thaam ke roti huṅ berida baaba
 
   4
   Lahu bahaata hai aaṅkhoṅ se Abid-e-muztar
-  Main jab bhi kaaṅtoṅ pe chalti huṅ be rida baaba
+  Maiṅ jab bhi kaaṅtoṅ pe chalti huṅ berida baaba
 
   5
   Safar ki khaak ne baaloṅ ka kar liya parda
-  Main is ke baad bhi baithi huṅ be rida baaba
+  Maiṅ is ke baad bhi baithi huṅ berida baaba
 
   6
-  Bichharne waaloṅ ke maatam mein raat din guzre
-  Har ik naam pe tarpi huṅ be rida baaba
+  Bichharne waaloṅ ke maatam meiṅ raat din guzre
+  Har ik naam pe tarpi huṅ berida baaba
 
   7
   Meri asiri pe Mazhar ne jo likha noha
-  Har ik lafz pe tarpi huṅ be rida baaba
+  Har ik lafz pe tarpi huṅ berida baaba
 # source_id: nohayonline:bbf8f78df057e4afffc8
 # source_url: https://www.nohayonline.com/details_content.php?id=672
 # raw_sha256: 6629b27eb73c6b633566d8e816fee045634d40649b7b978c54b86a85e7c8901c

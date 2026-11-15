@@ -28,7 +28,7 @@ romanLyrics: |-
   Ab nahiṅ jine ke hum sher-e-jawaaṅ mar gaya
 
   2
-  Dasht mein bin bhai ke hum ho gaye
+  Dasht meiṅ bin bhai ke hum ho gaye
   Aaj se beaas haram ho gaye
   Lut gayi sarkaar sab sher-e-jawaaṅ mar gaya
   Ho gaya kaisa ghazab sher-e-jawaaṅ mar gaya
@@ -40,7 +40,7 @@ romanLyrics: |-
   Ghar nahiṅ jayeṅ ge hum sher-e-jawaaṅ mar gaya
 
   4
-  Ho gaya pardes mein barbaad ghar
+  Ho gaya pardes meiṅ barbaad ghar
   Lag gayi Abbas ko kis ki nazar
   Phir se Ali lut gaye sher-e-jawaaṅ mar gaya
   Aal-e-Nabi lut gaye sher-e-jawaaṅ mar gaya
@@ -48,8 +48,8 @@ romanLyrics: |-
   5
   Lut lo saadaat ko ab lut lo
   Qaidi bana kar inheṅ bas le chalo
-  Shor ye faujoṅ mein hai sher-e-jawaaṅ mar gaya
-  Tharthari maujoṅ mein hai sher-e-jawaaṅ mar gaya
+  Shor ye faujoṅ meiṅ hai sher-e-jawaaṅ mar gaya
+  Tharthari maujoṅ meiṅ hai sher-e-jawaaṅ mar gaya
 
   6
   Gham se kaleja mera sad chaak hai
@@ -58,7 +58,7 @@ romanLyrics: |-
   Khatm hui zindagi sher-e-jawaaṅ mar gaya
 
   7
-  Kis ko dikhauṅ main kaleje ke daagh
+  Kis ko dikhauṅ maiṅ kaleje ke daagh
   Ho gaya gul qabr-e-Ali ka charaagh
   Aisi hawa ye chali sher-e-jawaaṅ mar gaya
   Shama-e-wafa bujh gayi sher-e-jawaaṅ mar gaya

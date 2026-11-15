@@ -18,10 +18,10 @@ romanLyrics: |-
   Saath le ke Karbala ke sher ka alam
   Bawafa sipaahi ki tarah uthe qadam
   Yazidiyat ko raund do barhe chalo barhe chalo
-  Karbala mein jis tarah barhe the shah ke jaanisaar
+  Karbala meiṅ jis tarah barhe the shah ke jaanisaar
 
   2
-  Raah mein khare hai saf ba saf malaaika
+  Raah meiṅ khare hai saf ba saf malaaika
   Tum ko dekh dekh kar kaheṅge marhaba
   Tum aza ka chain ho zaair-e-Husain ho
   Tum se milne ke liye hai ambiya bhi beqaraar
@@ -29,13 +29,13 @@ romanLyrics: |-
   3
   Shah-e-diṅ Fatima ka nur-e-ain ka
   Jis jagah pe lut gaya tha ghar Husain ka
-  Jahaaṅ pe sar qalam hua lahu mein tar alam hua
+  Jahaaṅ pe sar qalam hua lahu meiṅ tar alam hua
   Royi nanhi qabr khod ke jahaaṅ pe Zulfiqaar
 
   4
-  Jis ke bete ho gaye shahid be khata
-  Ran mein jis ki betiyoṅ ki chhin gayi rida
-  Jo dasht mein ujar gayi Husain se bichhar gayi
+  Jis ke bete ho gaye shahid bekhata
+  Ran meiṅ jis ki betiyoṅ ki chhin gayi rida
+  Jo dasht meiṅ ujar gayi Husain se bichhar gayi
   Wo gharib maaṅ tumhaara kar rahi hai intezaar
 
   5
@@ -51,7 +51,7 @@ romanLyrics: |-
   Ye rahe khayaal tum Husain ke ho sogwaar
 
   7
-  Khuṅ mein tar namaaz parh ke shah ne kaha
+  Khuṅ meiṅ tar namaaz parh ke shah ne kaha
   Hai yehi baqaa-e-din razaa-e-Kibriya
   Ho bar zamin-e-Karbala namaaz waqt par ada
   Dega sajda-e-Husain bhi duaaeṅ beshumaar
@@ -59,7 +59,7 @@ romanLyrics: |-
   8
   Har qadam ho maqsad-e-Husain ki taraf
   Barh rahe ho aakhirat ke chain ki taraf
-  Nazar mein Gohar-e-aza ho bas razaa-e-Kibriya
+  Nazar meiṅ Gohar-e-aza ho bas razaa-e-Kibriya
   Ho safar Najaf se Karbala ka aaj yaadgaar
 # source_id: nohayonline:d3faa4d0aedf259e52a6
 # source_url: https://www.nohayonline.com/details_content.php?id=2632

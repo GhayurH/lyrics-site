@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Laash Abbas ke khaime mein nahiṅ laaye Husain
+  Laash Abbas ke khaime meiṅ nahiṅ laaye Husain
   Le ke bas mashk o alam mahw-e-buka aaye Husain
 
   1
@@ -27,8 +27,8 @@ romanLyrics: |-
 
   3
   Jis qadar paani baha khun bahaaya us ne
-  Aise aalam mein bhi ye zarf dikhaaya us ne
-  Is musibat mein kahaaṅ sabr ka meinaar gira
+  Aise aalam meiṅ bhi ye zarf dikhaaya us ne
+  Is musibat meiṅ kahaaṅ sabr ka meinaar gira
 
   4
   Kya kahuṅ tum se behan dil pe chale the khanjar
@@ -37,7 +37,7 @@ romanLyrics: |-
 
   5
   Jin se Saadaat ko dhaaras thi wo baazu na rahe
-  Itna roya huṅ ke ab aaṅkh mein aaṅsu na rahe
+  Itna roya huṅ ke ab aaṅkh meiṅ aaṅsu na rahe
   Dil mera tut gaya jab mera saalaar gira
 
   6
@@ -52,12 +52,12 @@ romanLyrics: |-
 
   8
   Rakh ke zaanu pe sar-e-Ghaazi kaha tha maiṅ ne
-  Zulm ki dhup mein ab tanha hi jalna hai mujhe
+  Zulm ki dhup meiṅ ab tanha hi jalna hai mujhe
   Tu jo ghore se gira saaya-e-diwaar gira
 
   9
   Ro ke phir mera wafaadaar pukaara Aaqa
-  Laasha khaime mein na le jaana Khudaara Aaqa
+  Laasha khaime meiṅ na le jaana Khudaara Aaqa
   Apni nazroṅ se hai pyaasoṅ ka alamdaar gira
 
   10

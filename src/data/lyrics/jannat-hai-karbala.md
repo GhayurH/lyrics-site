@@ -12,8 +12,8 @@ aliases: []
 published: true
 romanLyrics: |-
   Aate haiṅ zaairin Karb o bala
-  Haathoṅ mein le ke nishaan-e-wafa
-  Maatami haiṅ aur diloṅ mein wila
+  Haathoṅ meiṅ le ke nishaan-e-wafa
+  Maatami haiṅ aur diloṅ meiṅ wila
   Kaale libaas aur shaan-e-aza
   Lab pe sajaae hue ye sada
   Jannat hai rauza tera
@@ -34,7 +34,7 @@ romanLyrics: |-
 
   1
   Shauq-e-ziyaarat jo tha
-  Maula main paidal chala
+  Maula maiṅ paidal chala
   Khwaab ye pura hua
   Dekha haram to kaha
   Jannat hai rauza tera
@@ -98,7 +98,7 @@ romanLyrics: |-
   Tere rauze pe aate the ahl-e-aza
   Tujh pe fida kar diye
   Maaoṅ ne hanste hue
-  Ghar mein the jitne diye
+  Ghar meiṅ the jitne diye
   Bas yehi kahte hue
   Jannat hai rauza tera
   Jannat hai puri ye Karb o bala

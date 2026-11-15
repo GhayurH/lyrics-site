@@ -20,7 +20,7 @@ romanLyrics: |-
   Nok-e-qalam meiṅ wusat-e-imkaan chaahiye
   Idraak meiṅ bhi khaima-e-Imran chaahiye
   Mauzu pe mere husn ka meyaar daad de
-  Akbar main tab parhuṅ ga Karrar daad de
+  Akbar maiṅ tab parhuṅ ga Karrar daad de
 
   2
   Socho agar naqaab ulat duṅ to kya rahe
@@ -32,7 +32,7 @@ romanLyrics: |-
 
   3
   Akbar yeh bole marzi-e-mehshar khiraam chal
-  Dil hi nahiṅ keh khainchuṅ main teri lagaam chal
+  Dil hi nahiṅ keh khainchuṅ maiṅ teri lagaam chal
   Yuṅ chal keh Murtajiz tujhe bheje salaam chal
   Mujh se hai Izrail ko thora sa kaam chal
   Taamil-e-hukm Maula basad naaz karni hai

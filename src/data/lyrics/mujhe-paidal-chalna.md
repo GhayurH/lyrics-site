@@ -12,19 +12,19 @@ published: true
 reciter: "Nadeem Sarwar"
 romanLyrics: |-
   Zindaan se reha ho kar jis dam
-  Jab Karb o Balaa mein aaye haram
+  Jab Karb o Balaa meiṅ aaye haram
   Naaqe se giri Zainab dukhiya
   Aur zakhmi zakhmi rakhti qadam
   Ro kar Ghazi se kehne lagi
   Baba ne mujhe samjhaya tha
-  Ae beti ghar mein paidal chal
+  Ae beti ghar meiṅ paidal chal
   Chalna hai tujhe miloṅ tanha
   O mere Ghazi ghairat wale
   Haa meri chaadar ke rakhwale
   Haa mujhe gir ke sambhalna aa gaya
   Mujhe paidal chalna aa gaya
   Mujhe paidal chalna aa gaya Abbas
-  Main kuṅ paidal turna aa gaya Abbas
+  Maiṅ kuṅ paidal turna aa gaya Abbas
 
   1
   Mashk o alam wale mere
@@ -33,10 +33,10 @@ romanLyrics: |-
   Har gham se guzarna aa gaya
 
   2
-  Le Shaam se main aa gayi
-  Ghazi main kiuṅ zinda rahi
+  Le Shaam se maiṅ aa gayi
+  Ghazi maiṅ kiuṅ zinda rahi
   Saaya na tha miloṅ koi
-  Mujhe dhup mein chalna aa gaya
+  Mujhe dhup meiṅ chalna aa gaya
 
   3
   Dekhe saje adaa ke ghar

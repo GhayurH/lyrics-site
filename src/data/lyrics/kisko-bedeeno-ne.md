@@ -30,11 +30,11 @@ romanLyrics: |-
   Mujh ko Asghar ne pukaara ae zamin-e-Karbala
 
   5
-  Baap piri mein uthaata hai jawaaṅ bete ki laash
+  Baap piri meiṅ uthaata hai jawaaṅ bete ki laash
   De zara barh kar sahaara ae zamin-e-Karbala
 
   6
-  Dekhna turbat mein Asghar ka zara rakhna khayaal
+  Dekhna turbat meiṅ Asghar ka zara rakhna khayaal
   Saare ghar ka hai dulaara ae zamin-e-Karbala
 
   7
@@ -43,7 +43,7 @@ romanLyrics: |-
 
   8
   Le liye tu ne meri godi ke paale boli maaṅ
-  Ab karuṅ kiun kar guzaara ae zamin-e-Karbala
+  Ab karuṅ kiuṅ kar guzaara ae zamin-e-Karbala
 # source_id: nohayonline:8605ee751a8ec3035ad9
 # source_url: https://www.nohayonline.com/details_content.php?id=156
 # raw_sha256: 044e66b2537e6ea19335163e58c9a1480064118ddd54e801016ece6ddb1c4d45

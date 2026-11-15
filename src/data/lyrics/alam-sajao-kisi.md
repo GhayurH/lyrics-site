@@ -15,17 +15,17 @@ romanLyrics: |-
   Alam sajao kisi berida ko yaad karo
 
   1
-  Siyah kapre badan par hoṅ sirf is gham mein
-  Rukeṅ na aankh se aaṅsu kabhi Muharram mein
+  Siyah kapre badan par hoṅ sirf is gham meiṅ
+  Rukeṅ na aankh se aaṅsu kabhi Muharram meiṅ
   Libaas-e-Hazrat-e-Zain-ul-Aba ko yaad karo
 
   2
   Kabhi sabil se paani piyo to ye keh kar
-  Main teri pyaas pe qurbaan Husain ki dukhtar
+  Maiṅ teri pyaas pe qurbaan Husain ki dukhtar
   Kabhi Sakina kabhi Bawafa ko yaad karo
 
   3
-  Gale mein shaal-e-aza aur haath sinoṅ par
+  Gale meiṅ shaal-e-aza aur haath sinoṅ par
   Alam utha ke chalo yuṅ dahakte sholoṅ par
   Jo bekasoṅ pe hui us jafaa ko yaad karo
 
@@ -41,13 +41,13 @@ romanLyrics: |-
 
   6
   Wo jis ne din ki khaatir luta diya ghar ko
-  Khuda ki raah mein jis ne kata diya sar ko
+  Khuda ki raah meiṅ jis ne kata diya sar ko
   Parho namaaz to us bekhataa ko yaad karo
 
   7
   Alam jo Hazrat-e-Abbas ka uthate haiṅ
   Dil-e-Batul se laakhoṅ duaaeṅ paate haiṅ
-  Alam ke saae mein aao duaa ko yaad karo
+  Alam ke saae meiṅ aao duaa ko yaad karo
 
   8
   Kabhi ye soch ke tum dekhna pharere ko
@@ -61,7 +61,7 @@ romanLyrics: |-
 
   10
   Khuda nakhwasta qismat ye din jo dikhlae
-  Kisi jawaṅ ko jawani mein maut aa jae
+  Kisi jawaaṅ ko jawani meiṅ maut aa jae
   To hum Shabih-e-Nabi ki qazaa ko yaad karo
 
   11

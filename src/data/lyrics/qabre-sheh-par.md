@@ -16,14 +16,14 @@ romanLyrics: |-
 
   1
   Apne haathoṅ se chaadar urhaao
-  Khud amaari mein mujh ko bithaao
+  Khud amaari meiṅ mujh ko bithaao
   Bin tumhaare na jaaye gi khaahar
   Utho utho watan ja rahi huṅ
 
   2
   Jo ye puchheṅ ge ahl-e-Madina
   Kiuṅ na hamraah aai Sakina
-  Kya kahuṅ main bata do baraadar
+  Kya kahuṅ maiṅ bata do baraadar
   Utho utho watan ja rahi huṅ
 
   3

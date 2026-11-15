@@ -13,14 +13,14 @@ published: true
 romanLyrics: |-
   Parh ke mehzar jab Madine se chala wo qaafila
   Qaasim o Abbas o Akbar aur Sibt-e-Mustafa
-  Saath mein Zainab Sakina aur ruh-e-Faatima
+  Saath meiṅ Zainab Sakina aur ruh-e-Faatima
   Sayyid-e-Sajjaad o Asghar saath Sughra ki dua
   Qaafila tha ek lekin do the ruh-e-qaafila
   Ek Ali ki laadli thi ek Ali ka laal tha
 
   1
   Haaye wo kis shaan se nikle the su-e-Karbala
-  Saath Abbas-e-jari qabze mein tegh-e-Murtaza
+  Saath Abbas-e-jari qabze meiṅ tegh-e-Murtaza
   Markaz-e-taazim thi do hastiyaaṅ har ek ka
 
   2
@@ -35,7 +35,7 @@ romanLyrics: |-
 
   4
   Sar barahna thi behan to bhai bhi tha bekafan
-  Bhai ke baazu juda behna ke baazu mein rasan
+  Bhai ke baazu juda behna ke baazu meiṅ rasan
   Sar kiya donoṅ ne mil kar Karbala ka maaraka
 
   5
@@ -49,14 +49,14 @@ romanLyrics: |-
   Rakh diya takhta palat ke jis ne mulk-e-Shaam ka
 
   7
-  Bhai khaak o khuṅ mein ghaltaaṅ aur zindaani behan
+  Bhai khaak o khuṅ meiṅ ghaltaaṅ aur zindaani behan
   Aabru-e-Mustafa ek aabru-e-Panjatan
-  Daurta tha jism mein donoṅ ke shir-e-Sayyida
+  Daurta tha jism meiṅ donoṅ ke shir-e-Sayyida
 
   8
-  Tasht mein bhai ka sar Zainab bhare darbaar mein
-  Koi bhi insaaṅ nahiṅ tha lashkar-e-kuffaar mein
-  Khaak madfan mein uraate the Nabi-e-do sara
+  Tasht meiṅ bhai ka sar Zainab bhare darbaar meiṅ
+  Koi bhi insaaṅ nahiṅ tha lashkar-e-kuffaar meiṅ
+  Khaak madfan meiṅ uraate the Nabi-e-do sara
 
   9
   Aaj tak qaaim hai jinke dam se din-e-Mustafa

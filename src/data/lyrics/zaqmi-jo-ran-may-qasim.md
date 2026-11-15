@@ -1,6 +1,6 @@
 ---
 title: "زخمی جو رن میں قاسمِ گل پیرہن ہوا"
-alternateTitle: "Zakhmi Jo Ran Mein Qasim"
+alternateTitle: "Zakhmi Jo Ran Meiṅ Qasim"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,10 +12,10 @@ aliases: []
 published: true
 romanLyrics: |-
   1
-  Zakhmi jo ran mein Qasim-e-gul pairahan hua
+  Zakhmi jo ran meiṅ Qasim-e-gul pairahan hua
   Paida shaahaana jore se rang-e-kafan hua
   Baagh-e-jinaaṅ Rasul ko Bait-ul-Hazan hua
-  Aur fauj-e-kiṅ mein shaad har ek tegh zan hua
+  Aur fauj-e-kiṅ meiṅ shaad har ek tegh zan hua
   Gul tha ke raund daala hai lashkar ke baagh ko
   Haaṅ ghaazlo bujha do Hasan ke charaagh ko
 
@@ -29,7 +29,7 @@ romanLyrics: |-
 
   3
   Ye keh ke qibla rukh hue Sultaan-e-kaainaat
-  Dargaah-e-Kibriya mein dua ki utha ke haath
+  Dargaah-e-Kibriya meiṅ dua ki utha ke haath
   Ae Khaaliq-e-zamin o zaman Rabb-e-paak zaat
   In zaalimoṅ ke haath se Qasim ko de najaat
   Tu haafiz-e-jahaaṅ hai Karim-ar-Rahim hai
@@ -38,7 +38,7 @@ romanLyrics: |-
   4
   Nikla ye sab ke muṅh se ke haaye haaye Hasan ke laal
   Zainab ne uth ke khol diye apne sar ke baal
-  Sine mein hil gaya dil-e-Baano-e-khushkhisaal
+  Sine meiṅ hil gaya dil-e-Baano-e-khushkhisaal
   Chillaai maaṅ guzar gaya kya mera naunihaal
   Aabid ka tap se garm badan sard ho gaya
   Qasim ke chhote bhaai ka muṅh zard ho gaya
@@ -49,20 +49,20 @@ romanLyrics: |-
   Sun kar ye ghul dulhe ke bhi aaṅsu hue ravaaṅ
   Le kar balaaeṅ saas pukaari ke meri jaaṅ
   Khaaliq karega rahm na aah o buka karo
-  Dulha pe aa bani hai main sadqe dua karo
+  Dulha pe aa bani hai maiṅ sadqe dua karo
 
   6
-  Is iztiraab mein jo suna saas ka sukhan
+  Is iztiraab meiṅ jo suna saas ka sukhan
   Zaanuṅ se sar utha ke hui qibla ru dulhan
   Aahista ki ye arz ae Rabb-e-Zulminan
   Dushman pe fathyaab ho lakht-e-dil-e-Hasan
-  Larne gaye haiṅ tishna dahan teri raah mein
-  Rakh mere ibn-e-am ko tu apni panaah mein
+  Larne gaye haiṅ tishna dahan teri raah meiṅ
+  Rakh mere ibn-e-am ko tu apni panaah meiṅ
 
   7
   Ya Rab dulhan bane mujhe guzri na ek shab
   Dulha jo mar gaya to mujhe kya kaheṅge sab
-  Ab tak to sharm se na hilaaye the main ne lab
+  Ab tak to sharm se na hilaaye the maiṅ ne lab
   Par kya karuṅ ke ab hai meri ruh par taab
   Shabbar ke aaftaab ka waqt-e-ghurub hai
   Dulha se pehle mujhko utha le to khub hai
@@ -71,12 +71,12 @@ romanLyrics: |-
   Sehre ke phul bhi abhi sukhe nahiṅ haiṅ aah
   Jo aa gaya piya randaape ka ya Allah
   Ye aqd tha ke maut thi maatam tha ya ke byaah
-  Baad iske hoga khalq mein kiuṅ kar mera nibaah
+  Baad iske hoga khalq meiṅ kiuṅ kar mera nibaah
   Uthuṅ jahaaṅ se dilbar-e-Shabbar ke saamne
   Aurat ki maut khub hai shauhar ke saamne
 
   9
-  Ghash mein jhuka faras pe jo wo ghairat o qamar
+  Ghash meiṅ jhuka faras pe jo wo ghairat o qamar
   Maara kisi ne farq pe ek gurz taan kar
   Barchhi lagi jo shish ki tukre hua jigar
   Girte the asp se ke kamar pe laga tabar
@@ -86,9 +86,9 @@ romanLyrics: |-
   10
   Jhapte jo Shaah fauj pe chamka ke Zulfiqaar
   Bijli giri Yazid ke lashkar pe ek baar
-  Is ghaiz mein yamiṅ se jo aaye su-e-yasaar
+  Is ghaiz meiṅ yamiṅ se jo aaye su-e-yasaar
   Bhaage phira ke ghoroṅ ki baagoṅ ko sab sawaar
-  Bhaagar mein khuṅ se ran ki zamiṅ laal ho gai
+  Bhaagar meiṅ khuṅ se ran ki zamiṅ laal ho gai
   Dulha ki laash ghoroṅ se paamaal ho gai
 
   11
@@ -103,7 +103,7 @@ romanLyrics: |-
   Laasha udhar se laaye Shahanshaah-e-Karbala
   Daure idhar se pitte Naamus-e-Mustafa
   Fizza thiṅ aage aage khule sar barahna paa
-  Aai jo sahan mein to ye bewaaoṅ ko di sada
+  Aai jo sahan meiṅ to ye bewaaoṅ ko di sada
   Hat jaaye jin se dur ka naata hai saahiboṅ
   Dulha dulhan ke lene ko aata hai saahiboṅ
 # source_id: nohayonline:15d35a756d3cbc7f4bca

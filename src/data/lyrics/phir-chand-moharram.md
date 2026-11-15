@@ -15,15 +15,15 @@ romanLyrics: |-
   Phir chaak dil-e-Ahmad-e-Mukhtaar hua hai
 
   1
-  Is chaand mein Qaasim ke kate dast-e-hinaai
+  Is chaand meiṅ Qaasim ke kate dast-e-hinaai
   Sar nanga dulhan ka sar-e-baazaar hua hai
 
   2
-  Is chaand mein baazu kate Abbaas-e-jari ke
+  Is chaand meiṅ baazu kate Abbaas-e-jari ke
   Thanda alam-e-Ahmad-e-Mukhtaar hua hai
 
   3
-  Is chaand mein Akbar ke lagi sine pe barchhi
+  Is chaand meiṅ Akbar ke lagi sine pe barchhi
   Asghar hadaf-e-tir-e-sitamgaar hua hai
 
   4
@@ -31,7 +31,7 @@ romanLyrics: |-
   Paamaal tan-e-Sayyad-e-abraar hua hai
 
   5
-  Is chaand mein Aabid ke para tauq gale mein
+  Is chaand meiṅ Aabid ke para tauq gale meiṅ
   Aur qaid bhi wo saahib-e-aazaar hua hai
 
   6

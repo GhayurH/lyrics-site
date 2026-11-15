@@ -15,7 +15,7 @@ romanLyrics: |-
 
   1
   Uthta hua khaimoṅ se dhuaaṅ dekhne waaloṅ
-  Islaam ke ghar mein hai lagi aag bujha do
+  Islaam ke ghar meiṅ hai lagi aag bujha do
 
   2
   Is din ke liye paala tha kya bint-e-Nabi ne

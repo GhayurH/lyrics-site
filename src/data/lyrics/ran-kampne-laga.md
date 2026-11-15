@@ -32,7 +32,7 @@ romanLyrics: |-
   Laasha Hasan ke laal ka paamaal jab hua
 
   4
-  Dilband-e-Fatima ke haiṅ gham mein sabhi nidhaal
+  Dilband-e-Fatima ke haiṅ gham meiṅ sabhi nidhaal
   Karte hue Husain ko rukhsat paa-e-jidaal
   Jab Bibiyoṅ ne ro ke kaha wa Muhammada
 
@@ -48,7 +48,7 @@ romanLyrics: |-
 
   7
   Qaasim kidhar gaye mere Abbas ho kahaaṅ
-  Dekho Nabi ki aal musibat mein hai yahaaṅ
+  Dekho Nabi ki aal musibat meiṅ hai yahaaṅ
   Aao bachaane Zainab-e-muztar ne jab kaha
 
   8

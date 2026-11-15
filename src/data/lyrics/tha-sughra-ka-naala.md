@@ -19,7 +19,7 @@ romanLyrics: |-
   Sabhi kuchh tha achchha bahut din hue
 
   2
-  Behalti thi Asghar ko behla ke main
+  Behalti thi Asghar ko behla ke maiṅ
   Jhulaati thi jhula bahut din hue
 
   3
@@ -32,14 +32,14 @@ romanLyrics: |-
 
   5
   Juda ho gaye chaand suraj mere
-  Tha ghar mein ujaala bahut din hue
+  Tha ghar meiṅ ujaala bahut din hue
 
   6
-  Tasavvur mein to sab mere paas hai
-  Magar main huṅ tanha bahut din hue
+  Tasavvur meiṅ to sab mere paas hai
+  Magar maiṅ huṅ tanha bahut din hue
 
   7
-  Na taaroṅ se ghar mein hui roshni
+  Na taaroṅ se ghar meiṅ hui roshni
   Na suraj hi nikla bahut din hue
 
   8
@@ -47,7 +47,7 @@ romanLyrics: |-
   Mujhe sab ne chhora bahut din hue
 
   9
-  Ye sab jaante haiṅ main bimaar huṅ
+  Ye sab jaante haiṅ maiṅ bimaar huṅ
   Magar kaun aaya bahut din hue
 
   10
@@ -55,19 +55,19 @@ romanLyrics: |-
   Na dekha savera bahut din hue
 
   11
-  Judaai ke gham mein lahu ban gaya
+  Judaai ke gham meiṅ lahu ban gaya
   In aankhoṅ ka darya bahut din hue
 
   12
-  Kabhi to sab aayeṅge is aas mein
+  Kabhi to sab aayeṅge is aas meiṅ
   Abhi tak huṅ zinda bahut din hue
 
   13
   Khuda jaane waale salaamat rahe
-  Safar mein hai kunba bahut din hue
+  Safar meiṅ hai kunba bahut din hue
 
   14
-  Suroor us ka khat aaj bhi yaad hai
+  Surur us ka khat aaj bhi yaad hai
   Bas itna likha tha bahut din hue
 # source_id: nohayonline:e8ee1794ca0beb0e4d3e
 # source_url: https://www.nohayonline.com/details_content.php?id=3739

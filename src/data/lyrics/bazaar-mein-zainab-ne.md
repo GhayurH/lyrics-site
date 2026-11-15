@@ -1,6 +1,6 @@
 ---
 title: "بازار میں زینب نے مرنے کی دعا مانگی"
-alternateTitle: "Bazaar Mein Zainab Ne"
+alternateTitle: "Bazaar Meiṅ Zainab Ne"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,15 +11,15 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Bazaar mein Zainab ne marne ki dua maangi
+  Bazaar meiṅ Zainab ne marne ki dua maangi
   Jab Shaam ke logoṅ se Aabid ne rida maangi
 
   1
   Rukhsaar Sakina ke kuchh aur hue nile
-  Jab saaye mein aane ki bachchi ne raza maangi
+  Jab saaye meiṅ aane ki bachchi ne raza maangi
 
   2
-  Jo raah mein chubhte the Abbas ki behnoṅ ko
+  Jo raah meiṅ chubhte the Abbas ki behnoṅ ko
   Un kaaṅtoṅ ne khud ro kar Mehdi se saza maangi
 
   3
@@ -31,19 +31,19 @@ romanLyrics: |-
   Jab Ghazi ne Bibi se marne ki raza maangi
 
   5
-  Zaalim ne talab ki hai wo bachchi kanizi mein
+  Zaalim ne talab ki hai wo bachchi kanizi meiṅ
   Shabbir ne jo beti tujh se ae Khuda maangi
 
   6
   Ya Rab mujhe dikhla de kaisi hai meri Sughra
-  Ye aakhri hichki mein Akbar ne dua maangi
+  Ye aakhri hichki meiṅ Akbar ne dua maangi
 
   7
   Rakh deti haath apne maaṅ bachchi ke hoṅtoṅ par
   Jab baali Sakina ne marne ki dua maangi
 
   8
-  Sughra ne duaaoṅ mein Sajjad na kuchh maanga
+  Sughra ne duaaoṅ meiṅ Sajjad na kuchh maanga
   Baad-e-Ali Akbar jo maangi to qaza maangi
 # source_id: nohayonline:8c60813b7bb2dbb40c55
 # source_url: https://www.nohayonline.com/details_content.php?id=20

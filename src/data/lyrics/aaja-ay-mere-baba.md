@@ -12,54 +12,54 @@ aliases: []
 published: true
 romanLyrics: |-
   Aaja ae mere baba jaan
-  Haye masum Sakina ne tadap kar ye kaha
+  Haye masum Sakina ne tarap kar ye kaha
   Aaja ae mere baba jaan
 
   1
   Raat din roti huṅ karti huṅ faqat yaad tujhe
-  Ek pal chain nahiṅ aati hai zindaaṅ mein mujhe
-  Ae mere baba judaai na main seh paauṅgi
+  Ek pal chain nahiṅ aati hai zindaaṅ meiṅ mujhe
+  Ae mere baba judaai na maiṅ seh paauṅgi
   Aaja ae mere baba jaan
 
   2
-  Ab tere baad main samjhi huṅ yatimi kya hai
+  Ab tere baad maiṅ samjhi huṅ yatimi kya hai
   Dur jo ghar se hui samjhi asiri kya hai
   Dard o gham aur sitam sehti hai dukhiya teri
   Aaja ae mere baba jaan
 
   3
   Dekho rukhsaar pe haiṅ kitne tamaachoṅ ke nishaaṅ
-  Jism mein dekho zara kitne haiṅ durroṅ ke nishaaṅ
-  Dard itne haiṅ ke lagta hai main mar jaauṅgi
+  Jism meiṅ dekho zara kitne haiṅ durroṅ ke nishaaṅ
+  Dard itne haiṅ ke lagta hai maiṅ mar jaauṅgi
   Aaja ae mere baba jaan
 
   4
-  Tere seene pe hi soti thi lipat kar main tujhe
-  Ab bhala khaak pe neend aaye to aaye kaise
+  Tere sine pe hi soti thi lipat kar maiṅ tujhe
+  Ab bhala khaak pe nind aaye to aaye kaise
   Haye dekho to Sakina ki zara bechaini
   Aaja ae mere baba jaan
 
   5
   Haye kaanoṅ se lahu ab bhi tapakta hai mera
-  Aur gardan mein bhi rassi ke nishaaṅ haiṅ gehra
-  Kitni zakhmi huṅ main aajao ye dikhlaauṅgi
+  Aur gardan meiṅ bhi rassi ke nishaaṅ haiṅ gehra
+  Kitni zakhmi huṅ maiṅ aajao ye dikhlaauṅgi
   Aaja ae mere baba jaan
 
   6
-  Aaj bhi kitni huṅ pyaasi main bataauṅ kaise
+  Aaj bhi kitni huṅ pyaasi maiṅ bataauṅ kaise
   Hont sukhe haiṅ zabaan khushk dikhaauṅ kaise
   Saans leti huṅ to tharraata hai ye jism mera
   Aaja ae mere baba jaan
 
   7
-  Haye baba tere zakhmoṅ ko nahiṅ bhuli main
-  Bekafan laasha tera ab bhi nahiṅ bhuli main
-  Yaad mein tere tadapti huṅ jigar hai chhalni
+  Haye baba tere zakhmoṅ ko nahiṅ bhuli maiṅ
+  Bekafan laasha tera ab bhi nahiṅ bhuli maiṅ
+  Yaad meiṅ tere tarapti huṅ jigar hai chhalni
   Aaja ae mere baba jaan
 
   8
-  Baap ke gham mein wo Aazam haye dam tor gayi
-  Qaid khane mein har ek dil ko rota chhor gayi
+  Baap ke gham meiṅ wo Aazam haye dam tor gayi
+  Qaid khane meiṅ har ek dil ko rota chhor gayi
   Phir Aqif aayegi zindaaṅ se na aawaaz koi
   Aaja ae mere baba jaan
 # source_id: nohayonline:166690dabba7c84816fd

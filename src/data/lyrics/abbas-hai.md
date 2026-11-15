@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Din-e-Ahmad ki baqa tu kiuṅ na Ghazi ye kahuṅ
-  Karbala mein kar diya hai tu ne batil sar-niguṅ
+  Karbala meiṅ kar diya hai tu ne batil sar-niguṅ
   Aaj bhi lehra raha jo parcham-e-Abbas hai
   Hai diya Ghazi ko rutba Kibriya ne khas hai
 
@@ -28,7 +28,7 @@ romanLyrics: |-
 
   3
   Yaad rakhega zamana iski meraj-e-wafa
-  Pani mein bhige jo bazu wo diye donoṅ kata
+  Pani meiṅ bhige jo bazu wo diye donoṅ kata
   Maar di pani ko thokar tin din ki pyaas hai
 
   4
@@ -38,7 +38,7 @@ romanLyrics: |-
 
   5
   Sar barehna Bibiyoṅ ko dekhe kaise Alamdar
-  Unka sar Khursheed neze se hai girta baar baar
+  Unka sar Khurshid neze se hai girta baar baar
   Kis qadar behnoṅ ke parde ka unhe ehsas hai
 # source_id: nohayonline:127c0f6b311aafdcadde
 # source_url: https://www.nohayonline.com/details_content.php?id=2953

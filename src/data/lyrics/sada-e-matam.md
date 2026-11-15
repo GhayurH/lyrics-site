@@ -48,8 +48,8 @@ romanLyrics: |-
   Bataur mehmaan aa rahi hai
 
   6
-  Gham-e-Shah-e-Karbala mein nauhoṅ ka kaarwaaṅ
-  Hai zulm ki fiza mein mazlum ki azaaṅ
+  Gham-e-Shah-e-Karbala meiṅ nauhoṅ ka kaarwaaṅ
+  Hai zulm ki fiza meiṅ mazlum ki azaaṅ
   Qasam Khuda ki sada hamaari
   Tamaam aalam pe chhaa rahi hai
 
@@ -60,7 +60,7 @@ romanLyrics: |-
   Ye aaj bhi Hur bana rahi hai
 
   8
-  Ashk-e-aza ke darya aankhoṅ mein maujizan
+  Ashk-e-aza ke darya aankhoṅ meiṅ maujizan
   Sar chashma ashk-e-gham ka hai ek bekafan
   Karash ke gham ki hai kaat aisi
   Ke zaalimoṅ ko sata rahi hai

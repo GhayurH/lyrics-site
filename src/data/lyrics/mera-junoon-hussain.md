@@ -1,6 +1,6 @@
 ---
 title: "تو میری تمنا میں تجھ سے ہوں زندہ"
-alternateTitle: "Mera Junun Husain"
+alternateTitle: "Mera Junun Husaiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,35 +11,35 @@ tags: []
 aliases: ["Mera Junoon Hussain"]
 published: true
 romanLyrics: |-
-  Tu meri tamanna main tujh se huṅ zinda
+  Tu meri tamanna maiṅ tujh se huṅ zinda
   Ab de de sahaara ae ishq ke qibla
   Ae ishq ke Kaaba ya Husain
 
   1
-  Diwaangi mein had se guzar jaauṅ ga Husain
+  Diwaangi meiṅ had se guzar jaauṅ ga Husain
   Rauze ko tere dekh ke ji paauṅ ga Husain
   Mera junuṅ hai Husain mera sukuṅ hai Husain
 
   2
-  Dil mein ye aarzu thi ke Aashur ko chaluṅ
+  Dil meiṅ ye aarzu thi ke Aashur ko chaluṅ
   Abbas ki zarih pe sar apna kham karuṅ
-  Maula main mil ke aap se Allah se miluṅ
+  Maula maiṅ mil ke aap se Allah se miluṅ
   Lekin waba ke chalte huṅ majbur kya karuṅ
-  Kaise qadam ko chumne main aauṅ ga Husain
+  Kaise qadam ko chumne maiṅ aauṅ ga Husain
 
   3
-  Har lamha teri yaad mein rehta huṅ raat din
-  Bas ya Husain ro ke main kehta huṅ raat din
+  Har lamha teri yaad meiṅ rehta huṅ raat din
+  Bas ya Husain ro ke maiṅ kehta huṅ raat din
   Par ashk apne sab se chhupaata huṅ raat din
   Wallaah dil tarapta hai rota huṅ raat din
-  Ab dard-e-dil ye kis ko main batlaauṅ ga Husain
+  Ab dard-e-dil ye kis ko maiṅ batlaauṅ ga Husain
 
   4
-  Chehre pe tere ishq sajaata huṅ khwaab mein
-  Palkoṅ se teri khaak uthaata huṅ khwaab mein
-  Rauze ko tere chum ke rota huṅ khwaab mein
-  Bedaar ho ke khwaab se kehta huṅ khwaab mein
-  Taabir khwaab ki main kabhi dekhuṅ ga Husain
+  Chehre pe tere ishq sajaata huṅ khwaab meiṅ
+  Palkoṅ se teri khaak uthaata huṅ khwaab meiṅ
+  Rauze ko tere chum ke rota huṅ khwaab meiṅ
+  Bedaar ho ke khwaab se kehta huṅ khwaab meiṅ
+  Taabir khwaab ki maiṅ kabhi dekhuṅ ga Husain
 
   5
   Tu khun ki haraarat tu nafs ki quwwat
@@ -48,18 +48,18 @@ romanLyrics: |-
   Jaayegi wo ziyaaratoṅ par chhor kar mujhe
   Ae aaqa ab to de de tu izn-e-safar mujhe
   Ek pal bhi chain aata nahiṅ zarra bhar mujhe
-  Ghut ghut ke teri yaad mein mar jaauṅ ga Husain
+  Ghut ghut ke teri yaad meiṅ mar jaauṅ ga Husain
 
   6
-  Jaauṅ main Arbain mein hai meri aarzu
-  Deta huṅ main usi ki qasam jo hai maahru
+  Jaauṅ maiṅ Arbain meiṅ hai meri aarzu
+  Deta huṅ maiṅ usi ki qasam jo hai maahru
   Mujh se khataaeṅ jo huiṅ afwa kar de tu
-  Nasir tarap ke kehta hai ae din ki aabru
+  Nasir tarap ke kehta hai ae diṅ ki aabru
   Irfan se zarih teri chumuṅ ga Husain
 
   7
   Ana majnun al Husain
-  Tu din ki izzat Quraan ki tilaawat
+  Tu diṅ ki izzat Quraaṅ ki tilaawat
   Haidar ki wilaayat Shabbar ki fasaahat
   Sajjad ki zinat Baqir ki hai hikmat
   Saadiq ki sadaaqat Kaazim ki hai taaqat

@@ -27,7 +27,7 @@ romanLyrics: |-
 
   3
   Parwardigaar thokareṅ dar dar ki kab talak
-  Ab mustaqil Najaf mein thikaana nasib ho
+  Ab mustaqil Najaf meiṅ thikaana nasib ho
 
   4
   Jaisa mila nasib se Ummul Banin ko
@@ -35,7 +35,7 @@ romanLyrics: |-
 
   5
   Mehshar ye aarzu hai ke beghusl o bekafan
-  Karbobala ki tah mein samaana nasib ho
+  Karbobala ki tah meiṅ samaana nasib ho
 
   6
   Aansu gire the baali Sakina ke jis jagah
@@ -43,7 +43,7 @@ romanLyrics: |-
 
   7
   Yeh keh ke Shaah nikle mazaar-e-Rasul se
-  Pardes mein kafan mujhe Naana nasib ho
+  Pardes meiṅ kafan mujhe Naana nasib ho
 
   8
   Asghar hai mere haath bandhe kehti thi Rabaab
@@ -58,12 +58,12 @@ romanLyrics: |-
   Zindaaṅ se tujhko laut ke aana nasib ho
 
   11
-  Nazdik khaima gaah Sakina ki yaad mein
+  Nazdik khaima gaah Sakina ki yaad meiṅ
   Shaam-e-gharibaaṅ shama jalaana nasib ho
 
   12
   Sajjad shaam tak yehi karte rahe dua
-  Chaadar mujhe phuphi ko udaana nasib ho
+  Chaadar mujhe phuphi ko uraana nasib ho
 
   13
   Ae kaash phir se Mir Takallum Furaat par

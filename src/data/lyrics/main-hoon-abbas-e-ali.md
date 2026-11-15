@@ -14,40 +14,40 @@ published: true
 poet: "Bilal Kazmi"
 reciter: "Mir Hasan Mir"
 romanLyrics: |-
-  Main huṅ Abbas-e-Ali main huṅ Abbas-e-jari
-  Abu Talib ki wafaoṅ ka asasa main huṅ
-  Sher-e-Yazdaaṅ ki shujaat ka khulasa main huṅ
+  Maiṅ huṅ Abbas-e-Ali maiṅ huṅ Abbas-e-jari
+  Abu Talib ki wafaoṅ ka asasa maiṅ huṅ
+  Sher-e-Yazdaaṅ ki shujaat ka khulasa maiṅ huṅ
 
   1
-  Main akela huṅ jahaaṅ meiṅ koi saani na nazir
-  Meri thokar meiṅ zamana main amiroṅ ka amir
+  Maiṅ akela huṅ jahaaṅ meiṅ koi saani na nazir
+  Meri thokar meiṅ zamana maiṅ amiroṅ ka amir
   Yeh taaruf bhi ayaaṅ karta hai meri tauqir
-  Main huṅ ataye jahaaṅ aur mera Aaqa Shabbir
-  Himmat-e-tashna labi jurat-e-ehsaas huṅ main
-  Saari dunya mujhe pehchaan le Abbas huṅ main
+  Maiṅ huṅ ataye jahaaṅ aur mera Aaqa Shabbir
+  Himmat-e-tashna labi jurat-e-ehsaas huṅ maiṅ
+  Saari dunya mujhe pehchaan le Abbas huṅ maiṅ
 
   2
-  Mehram-e-raaz-e-Rasool-e-do sara se puchho
+  Mehram-e-raaz-e-Rasul-e-do sara se puchho
   Gar yeh uqda hai kisi uqda kusha se puchho
   Khaas nuqta hai ise nuqta-e-ba se puchho
   Meri khilqat ka sabab Sher-e-Khuda se puchho
-  Qirat-e-ain-e-Rasool-e-Arabi ki khatir
-  Main to zinda huṅ Husain Ibn-e-Ali ki khatir
+  Qirat-e-ain-e-Rasul-e-Arabi ki khatir
+  Maiṅ to zinda huṅ Husain Ibn-e-Ali ki khatir
 
   3
   Pyaas hontoṅ pe jo rakhuṅ to taajjub kya hai
   Mur ke darya ko na dekhuṅ to taajjub kya hai
   Aag paani meiṅ laga duṅ to taajjub kya hai
   Nehr chulloṅ meiṅ sametuṅ to taajjub kya hai
-  Guftagu jis pe sada hogi woh unwaan huṅ main
-  Kahiṅ nuqta kahiṅ aayat kahiṅ Quran huṅ main
+  Guftagu jis pe sada hogi woh unwaan huṅ maiṅ
+  Kahiṅ nuqta kahiṅ aayat kahiṅ Quran huṅ maiṅ
 
   4
   Jaane kya zom hai in maut ke bimaroṅ ko
   Tashna lab rakha hai Kausar ke shehanshahoṅ ko
   Khush haiṅ haathoṅ meiṅ sambhaale hue talwaroṅ ko
   Abhi malum nahiṅ Shaam ke robahoṅ ko
-  Main paharoṅ ki tanaboṅ ko hila sakta huṅ
+  Maiṅ paharoṅ ki tanaboṅ ko hila sakta huṅ
   Nehr tute hue neze se utha sakta huṅ
 
   5
@@ -72,7 +72,7 @@ romanLyrics: |-
   Ek hamle meiṅ nishanat-e-jahaaṅ mit jaeṅ
   Zalzale yuṅ mere qadmoṅ ki dhamak se aaeṅ
   Kaanp uthe saari zamiṅ takht-e-Umayya tute
-  Main rakhuṅ ran meiṅ qadam aur dar-e-Kufa tute
+  Maiṅ rakhuṅ ran meiṅ qadam aur dar-e-Kufa tute
 
   8
   Apne dil meiṅ hai jawaaṅ fath-e-Khaibar ki umang

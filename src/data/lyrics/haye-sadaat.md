@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Haye saadaat ne is dehr mein kya kya dekha
+  Haye saadaat ne is dehr meiṅ kya kya dekha
   Apni aankhoṅ ko sadaa khun hi rota dekha
 
   1
@@ -20,7 +20,7 @@ romanLyrics: |-
 
   2
   Wo Muhammad ke jo rehmat hai zamaane ke liye
-  Unki naalain ko bhi khun mein duba dekha
+  Unki naalain ko bhi khun meiṅ duba dekha
 
   3
   Sabz gumbad ke qarib marqad-e-Zehra hai magar
@@ -44,15 +44,15 @@ romanLyrics: |-
 
   8
   Subh-e-Aashur dhali shaam-e-gharibaaṅ aayi
-  Chaar pehroṅ mein qayaamat ko guzarta dekha
+  Chaar pehroṅ meiṅ qayaamat ko guzarta dekha
 
   9
   Gir gayi khaak pe ghash khaa ke Ali ki beti
-  Puchha Sughra ne ke pardes mein kya kya dekha
+  Puchha Sughra ne ke pardes meiṅ kya kya dekha
 
   10
   Ro diye Sarwar o Rehaan jigar thaam ke hum
-  Jab azaa khaane mein rakha hua jhula dekha
+  Jab azaa khaane meiṅ rakha hua jhula dekha
 # source_id: nohayonline:b1e4b93b870dd97696ca
 # source_url: https://www.nohayonline.com/details_content.php?id=3293
 # raw_sha256: 7ff6cbb56bc913d62a6724a8139b1f5d0973982fa4afe0621b78ffaffacb82e9

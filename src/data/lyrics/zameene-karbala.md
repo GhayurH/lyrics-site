@@ -16,11 +16,11 @@ romanLyrics: |-
   Al-ajal ae waaris-e-khun-e-shahidaaṅ al-ajal
   Ae Yusuf-e-Zahra
 
-  Zameen-e-Karbala waale tujhe aawaaz dete haiṅ
+  Zamin-e-Karbala waale tujhe aawaaz dete haiṅ
   Bahattar bekafan laashe tujhe aawaaz dete haiṅ
 
   1
-  Hai kahiṅ ganj-e-shahidaaṅ mein rakhi gathri koi
+  Hai kahiṅ ganj-e-shahidaaṅ meiṅ rakhi gathri koi
   Kisi ki laash ke tukre tujhe aawaaz dete haiṅ
 
   2
@@ -48,7 +48,7 @@ romanLyrics: |-
   Kafan baandhe hue sar se aawaaz dete haiṅ
 
   8
-  Halqa-e-maatam mein aa kar ae Takallum maatami
+  Halqa-e-maatam meiṅ aa kar ae Takallum maatami
   Tujhe aawaaz dete the tujhe aawaaz dete haiṅ
 # source_id: nohayonline:258b083d8d4f61ce43e5
 # source_url: https://www.nohayonline.com/details_content.php?id=2602

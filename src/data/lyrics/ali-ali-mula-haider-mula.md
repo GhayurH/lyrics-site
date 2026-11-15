@@ -28,11 +28,11 @@ romanLyrics: |-
 
   3
   Dekhne manzar ye Nabi aur Wali aaye haiṅ
-  Ghar hai ye Allah ka aur us mein Ali aaye haiṅ
+  Ghar hai ye Allah ka aur us meiṅ Ali aaye haiṅ
 
   4
   Kaisa hasiṅ aaj hai Kabe ka nazara
-  Kis ko mila wasf ye dunya mein dobara
+  Kis ko mila wasf ye dunya meiṅ dobara
 
   5
   Zeb-e-Musalla the Nabi karte the Haq se dua
@@ -45,7 +45,7 @@ romanLyrics: |-
   7
   Raatoṅ ko Ali jage to Khaliq ne ye socha
   Farsh-e-Shab-e-Hijrat ko sajana hi parega
-  Khatre mein na par jae mera wasf-e-Khudayi
+  Khatre meiṅ na par jae mera wasf-e-Khudayi
   Ik shab ke liye is ko sulana hi parega
 
   8
@@ -55,7 +55,7 @@ romanLyrics: |-
   Lashkar-e-Kuffar ka sardar pukara
 
   9
-  Jis pe mere Maula ne ik ghaiz mein dali nazar
+  Jis pe mere Maula ne ik ghaiz meiṅ dali nazar
   Uthta nahiṅ dunya se utha jata hai wo Ahl-e-Shar
   Bughz-e-Ali deta hai bande ko khasara
   Ishq-e-Ali ne hi muqaddar ko saṅwara
@@ -63,12 +63,12 @@ romanLyrics: |-
   10
   Le ke Muhammad se alam jate rahe surma
   Guzre kayi roz magar fatah na Khaibar hua
-  Mil gaya mushkil mein Muhammad ko sahara
+  Mil gaya mushkil meiṅ Muhammad ko sahara
   Nad-e-Ali parh ke Muhammad ne pukara
 
   11
   Mazhar o Farhan ka ailan zamana sune
-  Haider-e-Karrar ki midhat mein tarana sune
+  Haider-e-Karrar ki midhat meiṅ tarana sune
   Kehta hai har aan ye iman hamara
   Tujh sa banaya hi nahiṅ Rab ne dobara
 ---

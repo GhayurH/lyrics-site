@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Jab se tera ye inhidaam hua
-  Dil mein bas gham ka hi qiyaam hua
+  Dil meiṅ bas gham ka hi qiyaam hua
   Ab to ik iztiraab-e-paiham hai
 
   2
@@ -57,7 +57,7 @@ romanLyrics: |-
   9
   Chain Izhaar yuṅ nahiṅ aata
   Har ghari hai alam Baqia ka
-  Har ghari dil mein shor-e-maatam hai
+  Har ghari dil meiṅ shor-e-maatam hai
 # source_id: nohayonline:5ccfbc5c7c11c65579ad
 # source_url: https://www.nohayonline.com/details_content.php?id=1132
 # raw_sha256: 0a73add9760c9c5de8bdc96711b270f88eb1e29f9cd28fc19991ca77d984f546

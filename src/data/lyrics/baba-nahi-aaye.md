@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Khaimoṅ mein aag lag gayi baba nahiṅ aaye
+  Khaimoṅ meiṅ aag lag gayi baba nahiṅ aaye
   Chaadar phuphi ki chhin li baba nahiṅ aaye
 
   1
@@ -19,7 +19,7 @@ romanLyrics: |-
   Ammu ne bhi khabar na li baba nahiṅ aaye
 
   2
-  Royega shab mein chauṅk ke Asghar to laayeṅge
+  Royega shab meiṅ chauṅk ke Asghar to laayeṅge
   Laila dekhti rahi baba nahiṅ aaye
 
   3
@@ -31,11 +31,11 @@ romanLyrics: |-
   Masnad-e-Nabi ki jal gayi baba nahiṅ aaye
 
   5
-  Ab aayeṅge ab aayeṅge is intezaar mein
-  Shab ko main jaagti rahi baba nahiṅ aaye
+  Ab aayeṅge ab aayeṅge is intezaar meiṅ
+  Shab ko maiṅ jaagti rahi baba nahiṅ aaye
 
   6
-  Dene ko pehra dasht-e-bayaabaṅ mein Anees
+  Dene ko pehra dasht-e-bayaabaṅ meiṅ Anis
   Misl-e-chacha phuphi bani baba nahiṅ aaye
 # source_id: nohayonline:a197ea10bc18f42eea18
 # source_url: https://www.nohayonline.com/details_content.php?id=3450

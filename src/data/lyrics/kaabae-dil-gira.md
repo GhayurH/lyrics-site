@@ -31,8 +31,8 @@ romanLyrics: |-
   Us ke ghar ko jala diya haae
 
   5
-  Ek beti ke gham mein baba ko
-  Qabr mein phir rula diya haae
+  Ek beti ke gham meiṅ baba ko
+  Qabr meiṅ phir rula diya haae
 
   6
   Jis ki maadar ka ghar jalaaya tha

@@ -1,6 +1,6 @@
 ---
 title: "جب یزید اپنے گناہوں سے پشیمان ہوا"
-alternateTitle: "Jab Yazeed Apne"
+alternateTitle: "Jab Yazid Apne"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -16,7 +16,7 @@ romanLyrics: |-
   Haṅs ke pehle sifat-e-zakhm-e-bo ke yaaṅ hua
   Subh-e-kaazib ki tarah chaak garebaan hua
   Kul ki shehzaadiyoṅ ke chhutne ka saamaan hua
-  Ek taraf saamne darbaar mein haddaad aaye
+  Ek taraf saamne darbaar meiṅ haddaad aaye
   Ek taraf beriyaaṅ pehne hue Sajjad aaye
 # source_id: nohayonline:5cb436579693ad7983a0
 # source_url: https://www.nohayonline.com/details_content.php?id=2723

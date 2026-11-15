@@ -11,39 +11,39 @@ aliases: []
 published: true
 reciter: "Anj. Masoomeen"
 romanLyrics: |-
-  Laila ki jaan Shah ke pisar Akbar-e-jawaṅ
+  Laila ki jaan Shah ke pisar Akbar-e-jawaaṅ
 
   1
   Zehra ne jo basai thi basti ujar gai
-  Suna sa ho gaya hai jahaṅ Akbar-e-jawaṅ
+  Suna sa ho gaya hai jahaṅ Akbar-e-jawaaṅ
 
   2
   Parda jo khaimagah se uthta tha baar baar
-  Kya dil kharash tha wo samaṅ Akbar-e-jawaṅ
+  Kya dil kharash tha wo samaṅ Akbar-e-jawaaṅ
 
   3
-  Chehra tera ae laal in aankhoṅ mein reh gaya
-  Tujh par ae laal roti hai maaṅ Akbar-e-jawaṅ
+  Chehra tera ae laal in aankhoṅ meiṅ reh gaya
+  Tujh par ae laal roti hai maaṅ Akbar-e-jawaaṅ
 
   4
   Sina figar ho gaya barchhi ki nok se
-  Tum par ye ro raha hai jahaṅ Akbar-e-jawaṅ
+  Tum par ye ro raha hai jahaṅ Akbar-e-jawaaṅ
 
   5
   Ya Rab kisi bhi baap ko ye din na dikhae
-  Ek khuṅ bhari ho lash jawaṅ Akbar-e-jawaṅ
+  Ek khuṅ bhari ho lash jawaaṅ Akbar-e-jawaaṅ
 
   6
   Dekho Khalil aap bhi manzar ye khuṅ bhara
-  Sarwar uthae lash jawaṅ Akbar-e-jawaṅ
+  Sarwar uthae lash jawaaṅ Akbar-e-jawaaṅ
 
   7
   Kis dil se mayyat lae haiṅ karyal jawan ki
-  Dar par khari hai aap ki maaṅ Akbar-e-jawaṅ
+  Dar par khari hai aap ki maaṅ Akbar-e-jawaaṅ
 
   8
   Sabir jahaṅ se din ka Akbar guzar gaya
-  Iqbal ro raha hai yahaṅ Akbar-e-jawaṅ
+  Iqbal ro raha hai yahaṅ Akbar-e-jawaaṅ
 # source_id: nohayonline:c28665038f32156166e4
 # source_url: https://www.nohayonline.com/details_content.php?id=3036
 # raw_sha256: 929e45b0247cd2b8199303d9bd64d4711919d8cfba92c380dcabee34f3f2ff32

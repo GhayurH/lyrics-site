@@ -11,8 +11,8 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Jis zulm se Shabbir ke khaimoṅ mein lagi aag
-  Aisi to kisi daur mein dekhi na suni aag
+  Jis zulm se Shabbir ke khaimoṅ meiṅ lagi aag
+  Aisi to kisi daur meiṅ dekhi na suni aag
 
   1
   Angaaroṅ pe maatam tera hum karte haiṅ Shabbir
@@ -28,18 +28,18 @@ romanLyrics: |-
 
   4
   Abbas ki talwaar se barsa lahu itna
-  Darya se dhuaaṅ utha taraai mein lagi aag
+  Darya se dhuaaṅ utha taraai meiṅ lagi aag
 
   5
-  Ae dosh-e-Muhammad ke makiṅ paaba-e-imaan
-  Sajdoṅ se tere sina-e-baatil mein lagi aag
+  Ae dosh-e-Muhammad ke makiṅ paaba-e-imaaṅ
+  Sajdoṅ se tere sina-e-baatil meiṅ lagi aag
 
   6
   Deti hi rahi shola jahannam ki taraf se
-  Jo bughz-e-Ali mein yehi jalti hi rahi aag
+  Jo bughz-e-Ali meiṅ yehi jalti hi rahi aag
 
   7
-  Bijli ki tarah khun rawaaṅ ho gaya dil mein
+  Bijli ki tarah khun rawaaṅ ho gaya dil meiṅ
   Salik gham-e-Shabbir ki yuṅ daur gai aag
 # source_id: nohayonline:5271556bbf0bb703aeb5
 # source_url: https://www.nohayonline.com/details_content.php?id=1211

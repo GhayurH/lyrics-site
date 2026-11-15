@@ -12,25 +12,25 @@ aliases: ["Ay Mere Baba"]
 published: true
 romanLyrics: |-
   Ae mere baba
-  Aap gharibul watan main bhi gharibul watan
+  Aap gharibul watan maiṅ bhi gharibul watan
 
   1
-  Aap ka maidaan mein tiroṅ pe laasha raha
+  Aap ka maidaan meiṅ tiroṅ pe laasha raha
   Mere gauhar chhin gaye aag se daaman jala
   Ae mere baba
-  Aap rahe bekafan main bhi rahi bekafan
+  Aap rahe bekafan maiṅ bhi rahi bekafan
 
   2
   Aap ke halqum par Shimr ka khanjar chala
   Mujh ko tamaache lage sar se chhini hai rida
   Ae mere baba
-  Aap ka naize pe sar mere gale mein rasan
+  Aap ka naize pe sar mere gale meiṅ rasan
 
   3
-  Aap ko roti rahi tashna labi dasht mein
-  Daagh-e-yatimi mila mujh ko isi dasht mein
+  Aap ko roti rahi tashna labi dasht meiṅ
+  Daagh-e-yatimi mila mujh ko isi dasht meiṅ
   Ae mere baba
-  Aap hain tashna dahan main bhi huṅ tashna dahan
+  Aap haiṅ tashna dahan maiṅ bhi huṅ tashna dahan
 
   4
   Donoṅ ki mazlumiyat dekhi hai aflaak ne
@@ -40,36 +40,36 @@ romanLyrics: |-
 
   5
   Waqt-e-musibat hui donoṅ hi hum se juda
-  Donoṅ ki taqdir mein tha gham-e-furqat likha
+  Donoṅ ki taqdir meiṅ tha gham-e-furqat likha
   Ae mere baba
   Ik behan aap ki ik hai meri behan
 
   6
   Aap ne chhora watan nauha kunaṅ tha falak
-  Karb o bala se kiya main ne safar Shaam tak
+  Karb o bala se kiya maiṅ ne safar Shaam tak
   Ae mere baba
-  Aap asir-e-mehan main huṅ asir-e-rasan
+  Aap asir-e-mehan maiṅ huṅ asir-e-rasan
 
   7
-  Aap ke hamraah to Akbar o Abbas hain
-  Mujh pe ye tanhaaiyaaṅ roti hain zindaan mein
+  Aap ke hamraah to Akbar o Abbas haiṅ
+  Mujh pe ye tanhaaiyaaṅ roti haiṅ zindaan meiṅ
   Ae mere baba
   Meri lehad qaid hai aap ka rouza wo band
 
   8
   Qatl-e-alamdaar se aap ki tuti kamar
-  Panjoṅ pe chalte hue main ne kiya hai safar
+  Panjoṅ pe chalte hue maiṅ ne kiya hai safar
   Ae mere baba
   Aap ko sadmoṅ ki aur mujh ko safar ki thakan
 
   9
-  Donoṅ pe pardes mein kaisi musibat pari
+  Donoṅ pe pardes meiṅ kaisi musibat pari
   Mujh se padar chhin gaya aap se beti chhini
   Ae mere baba
-  Aap gharibul watan main bhi gharibul watan
+  Aap gharibul watan maiṅ bhi gharibul watan
 
   10
-  Aap hain faiz-e-rasa aap ko meri qasam
+  Aap haiṅ faiz-e-rasa aap ko meri qasam
   Mazhar o Irfan par kijiye apna karam
   Ae mere baba
   Ik safir-e-aza ik safir-e-sukhan

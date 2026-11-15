@@ -15,18 +15,18 @@ romanLyrics: |-
   Ek waari mera Baba mainu sine laave aa ke
 
   1
-  Abid main dardaaṅ maari khaakaaṅ te souni rayi aaṅ
-  Nai labda mainu Baba viraaṅ main taras gayi aaṅ
+  Abid maiṅ dardaaṅ maari khaakaaṅ te souni rayi aaṅ
+  Nai labda mainu Baba viraaṅ maiṅ taras gayi aaṅ
   Kar pyaar Babe waangu mainu sine te lita ke
 
   2
-  Raahwaṅ te dur beh ke main kol ja nai sakdi
-  Sir saamne Babe da par hath main laa nai sakdi
+  Raahwaṅ te dur beh ke maiṅ kol ja nai sakdi
+  Sir saamne Babe da par hath maiṅ laa nai sakdi
   Koi pyaar karan deve sir ohda jholi paa ke
 
   3
-  Tu khaak utte roweṅ main naize utte tarpan
-  Meri laadli Sakina manzar oh kiweṅ bhul jaan
+  Tu khaak utte roweṅ maiṅ naize utte tarpaṅ
+  Meri laadli Sakina manzar oh kiweṅ bhul jaaṅ
   Kiweṅ Shimr juda kita hath waalaṅ ich si paa ke
 
   4

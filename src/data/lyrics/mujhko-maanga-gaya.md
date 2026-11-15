@@ -12,22 +12,22 @@ aliases: []
 published: true
 romanLyrics: |-
   Bain karti thi shaah ki dukhtar
-  Mujhko maanga gaya kanizi mein
-  Meri ghairat bhi ro padi sun kar
-  Mujhko maanga gaya kanizi mein
+  Mujhko maanga gaya kanizi meiṅ
+  Meri ghairat bhi ro pari sun kar
+  Mujhko maanga gaya kanizi meiṅ
 
   1
-  Kitne gham aaye sah liye main ne
-  Apne bunde bhi de diye main ne
+  Kitne gham aaye sah liye maiṅ ne
+  Apne bunde bhi de diye maiṅ ne
   Saatwiṅ se nahiṅ mila paani
-  Ashk aankhoṅ ke pi liye main ne
-  Haaṅ magar ye sitam sahuṅ kiun kar
+  Ashk aankhoṅ ke pi liye maiṅ ne
+  Haaṅ magar ye sitam sahuṅ kiuṅ kar
 
   2
-  Shaam mein dar badar phiri huṅ main
-  Aur tamaanche bhi khaa rahi huṅ main
+  Shaam meiṅ dar badar phiri huṅ maiṅ
+  Aur tamaanche bhi khaa rahi huṅ maiṅ
   Kal to baba ke dil ka tukra thi
-  Aaj qaidi bani hui huṅ main
+  Aaj qaidi bani hui huṅ maiṅ
   Ik naya zakhm ye laga dil par
 
   3
@@ -63,7 +63,7 @@ romanLyrics: |-
   Bain rote hue likhe Mazhar
   Chhoti Zehra ye bain karti thi
   Mere dada haiṅ shaafi-e-mahshar
-  Un ko batlaauṅ gi main ro ro kar
+  Un ko batlaauṅ gi maiṅ ro ro kar
 # source_id: nohayonline:6a29b34a779897ba6b36
 # source_url: https://www.nohayonline.com/details_content.php?id=1560
 # raw_sha256: 627ccb4ef1ede990101e60f8abaae15637745f071ca5cfc490fd3577efc536f6

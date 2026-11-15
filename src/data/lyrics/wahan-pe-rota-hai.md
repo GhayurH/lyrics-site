@@ -16,11 +16,11 @@ romanLyrics: |-
 
   1
   Lagi thi sina-e-Akbar pe jis jagah barchhi
-  Jahaaṅ pe dub gayi khun mein shabih-e-Nabi
+  Jahaaṅ pe dub gayi khun meiṅ shabih-e-Nabi
   Jahaaṅ pe qatl hua tera naujawaan Husain
 
   2
-  Jahaaṅ pe pyaas se be shir tera rota raha
+  Jahaaṅ pe pyaas se beshir tera rota raha
   Jahaaṅ pe nanhe mujaahid ke tir maara gaya
   Jahaaṅ pe qata hua tha tera bayaan Husain
 
@@ -30,7 +30,7 @@ romanLyrics: |-
   Jahaaṅ hua tha tera sher nim jaan Husain
 
   4
-  Jahaaṅ pe tukroṅ mein bikhra hua tha ik dulha
+  Jahaaṅ pe tukroṅ meiṅ bikhra hua tha ik dulha
   Jahaaṅ pe sehra para kar raha tha waawaila
   Jahaaṅ ujar gaya Kubra ka kul jahaan Husain
 
@@ -47,7 +47,7 @@ romanLyrics: |-
   7
   Jahaaṅ pe Gohar-e-gham tashna lab the sehme hue
   Jahaaṅ tamaanche lage the teri Sakina ke
-  Tere yatim jahaaṅ par the be amaan Husain
+  Tere yatim jahaaṅ par the beamaan Husain
 # source_id: nohayonline:9fd172f8170ed85acfda
 # source_url: https://www.nohayonline.com/details_content.php?id=1146
 # raw_sha256: 8ddaef1717e6995d2ddb7bbfcf92c09e274e6700c4784bfcf9205f3736800c5a

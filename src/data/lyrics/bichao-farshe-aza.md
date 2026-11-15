@@ -11,56 +11,56 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Bichhaao farsh-e-aza main zarur aauṅ gi
+  Bichhaao farsh-e-aza maiṅ zarur aauṅ gi
   Har ek gham se bacho Husain Husain karo
 
-  Tumhaare ashkoṅ ko main saath le ke jaauṅ gi
-  Bichhaao farsh-e-aza main zarur aauṅ gi
+  Tumhaare ashkoṅ ko maiṅ saath le ke jaauṅ gi
+  Bichhaao farsh-e-aza maiṅ zarur aauṅ gi
 
   1
-  Wo jin gharoṅ mein azaakhaana-e-Husain saja
-  To un gharoṅ mein rahega sada qayaam mera
-  Ye mera waada hai har haal mein nibhaauṅ gi
+  Wo jin gharoṅ meiṅ azaakhaana-e-Husain saja
+  To un gharoṅ meiṅ rahega sada qayaam mera
+  Ye mera waada hai har haal meiṅ nibhaauṅ gi
 
   2
   Shabih-e-jhula-e-Asghar sajaayeṅ ge jo bhi
   To un ki godiyaaṅ khaali nahiṅ raheṅ gi kabhi
-  Main un ko sadqa-e-beshir de ke jaauṅ gi
+  Maiṅ un ko sadqa-e-beshir de ke jaauṅ gi
 
   3
   Alam ba yaad-e-Alamdaar jo uthaayeṅ ge
   Diler aur wafaadaar hoṅ ge wo bachche
-  Main un ke dil se har ek khauf ko mitaauṅ gi
+  Maiṅ un ke dil se har ek khauf ko mitaauṅ gi
 
   4
-  Wo yatima jo taarikiyoṅ mein thi har dam
-  Charaagh yaad mein us ki jala ke rakhna tum
-  Main us yatima-e-Shabbir ko bhi laauṅ gi
+  Wo yatima jo taarikiyoṅ meiṅ thi har dam
+  Charaagh yaad meiṅ us ki jala ke rakhna tum
+  Maiṅ us yatima-e-Shabbir ko bhi laauṅ gi
 
   5
   Thi ek behan jise armaan reh gaya tha kabhi
   Jo ho sake to saja lena ek sehra bhi
-  Main ashk-e-Fatema Sughra na bhul paauṅ gi
+  Maiṅ ashk-e-Fatema Sughra na bhul paauṅ gi
 
   6
   Mere Husain ka taabut o taaziya rakh kar
   Karo ge girya o maatam raho ge nauhagar
-  Main apne ashkoṅ se taabut wo sajaauṅ gi
+  Maiṅ apne ashkoṅ se taabut wo sajaauṅ gi
 
   7
   Bataaya Jafar-e-Saadiq ne waise hi rona
   Chhupa ke aaṅsu na Shabbir pe buka karna
-  Karuṅ gi main bhi buka ashk-e-gham bahaauṅ gi
+  Karuṅ gi maiṅ bhi buka ashk-e-gham bahaauṅ gi
 
   8
   Jo haq hai purse ka is tarah se ada karna
   Salaam o soz parho nauha marsiya parhna
-  Main is ka ajr tumheṅ hashr mein dilaauṅ gi
+  Maiṅ is ka ajr tumheṅ hashr meiṅ dilaauṅ gi
 
   9
   Payaam Misam o Salman pahuṅche ye sab tak
-  Bahisht mein na chale jaaye maatami jab tak
-  Qasam Husain ki main khuld mein na jaauṅ gi
+  Bahisht meiṅ na chale jaaye maatami jab tak
+  Qasam Husain ki maiṅ khuld meiṅ na jaauṅ gi
 # source_id: nohayonline:3a0a529042900603741e
 # source_url: https://www.nohayonline.com/details_content.php?id=2519
 # raw_sha256: 17090668237501634d5d7dd8237122ac33c521a25cfbd931818e2ea96d8ea256

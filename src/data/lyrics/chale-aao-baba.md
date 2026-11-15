@@ -19,9 +19,9 @@ romanLyrics: |-
   Mujhe khaak par nind aati nahiṅ hai
 
   1
-  Kaleje mein uthta hai ek dard aisa
+  Kaleje meiṅ uthta hai ek dard aisa
   Ke jis ke liye na dawa na dilaasa
-  Main kal tak to sine pe soti thi baba
+  Maiṅ kal tak to sine pe soti thi baba
   Yehi soch kar nind aati nahiṅ hai
 
   2
@@ -34,7 +34,7 @@ romanLyrics: |-
   Rulaati hai mujhko lainoṅ ki baateṅ
   Guzarti hai aise yatimi ki raateṅ
   Kahiṅ Shimr aa kar tamaanche na maare
-  Hai dil mein ye dar nind aati nahiṅ hai
+  Hai dil meiṅ ye dar nind aati nahiṅ hai
 
   4
   Khabar hai ye mujhko khata meri kya hai
@@ -49,14 +49,14 @@ romanLyrics: |-
   Chale aao ghar nind aati nahiṅ hai
 
   6
-  Kabhi main ne socha nahiṅ tha ye baba
+  Kabhi maiṅ ne socha nahiṅ tha ye baba
   Ke tum se bichhar kar bhi jina parega
   Tumhaare bina hi mujhe ab hai jina
   Yehi jaan kar nind aati nahiṅ hai
 
   7
   Phuphi jaaṅ se aksar suna hai ye nauha
-  Tarapta hai ban mein shaah-e-diṅ ka laasha
+  Tarapta hai ban meiṅ shaah-e-diṅ ka laasha
   Mere paas aa jao maqtal se baba
   Tumheṅ bhi agar nind aati nahiṅ hai
 

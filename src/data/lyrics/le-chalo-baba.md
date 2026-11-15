@@ -17,28 +17,28 @@ romanLyrics: |-
   Apne hamraah su-e-Karbobala
 
   1
-  Aap ki yaad mein ro ro ke main mar jaauṅ gi
+  Aap ki yaad meiṅ ro ro ke maiṅ mar jaauṅ gi
   Baba Akbar ki qasam chain nahiṅ paauṅ gi
   Meri saansoṅ ka bharosa na raha
 
   2
-  Qaafile waaloṅ ko paani bhi pilaauṅ gi main
-  Apni aaghosh mein Asghar ko sulaauṅ gi main
+  Qaafile waaloṅ ko paani bhi pilaauṅ gi maiṅ
+  Apni aaghosh meiṅ Asghar ko sulaauṅ gi maiṅ
   Baba ye aap se waada hai mera
 
   3
-  Mere kaanoṅ mein jo aawaaz-e-azaaṅ aaye gi
+  Mere kaanoṅ meiṅ jo aawaaz-e-azaaṅ aaye gi
   Mere Akbar ki mujhe yaad bahut aaye gi
   Bhaai ki yaad na ban jaaye qaza
 
   4
-  Kaise Akbar ke bina Eid guzaaruṅ gi main
-  Kabhi tum ko kabhi ammu ko pukaaruṅ gi main
+  Kaise Akbar ke bina Eid guzaaruṅ gi maiṅ
+  Kabhi tum ko kabhi ammu ko pukaaruṅ gi maiṅ
   Jab koi paas na hoga baba
 
   5
-  Dhup aur garm hawa hogi safar mein dekho
-  Apne aanchal mein chhupa luṅ gi Ali Asghar ko
+  Dhup aur garm hawa hogi safar meiṅ dekho
+  Apne aanchal meiṅ chhupa luṅ gi Ali Asghar ko
   Yuṅ na Asghar ko karo mujh se juda
 
   6
@@ -52,18 +52,18 @@ romanLyrics: |-
   Phir ye bimaar nahiṅ de gi sada
 
   8
-  Bhaiya Abid ko roz dawa pilaauṅ gi main
-  Un ki raahoṅ mein nigaahoṅ ko bichhaauṅ gi main
+  Bhaiya Abid ko roz dawa pilaauṅ gi maiṅ
+  Un ki raahoṅ meiṅ nigaahoṅ ko bichhaauṅ gi maiṅ
   Tum kanizoṅ ki tarah bahr-e-Khuda
 
   9
-  Achchha mahmil mein mujhe tum na bithaana baba
-  Tum mujhe raah mein paidal hi chalaana baba
-  Na karuṅ gi main shikaayat na gila
+  Achchha mahmil meiṅ mujhe tum na bithaana baba
+  Tum mujhe raah meiṅ paidal hi chalaana baba
+  Na karuṅ gi maiṅ shikaayat na gila
 
   10
-  Main ne maana ke nahiṅ kaam mera mahzar mein
-  Baba itna to bata do ke akele ghar mein
+  Maiṅ ne maana ke nahiṅ kaam mera mahzar meiṅ
+  Baba itna to bata do ke akele ghar meiṅ
   Zinda reh paaye gi Sughra tanha
 
   11

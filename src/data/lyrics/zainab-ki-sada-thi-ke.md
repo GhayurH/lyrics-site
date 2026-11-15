@@ -15,11 +15,11 @@ romanLyrics: |-
   Lillaah jahaaṅ bhi ho chali aao Sakina
 
   1
-  Main subh se taa asr tarapti hi rahi huṅ
+  Maiṅ subh se taa asr tarapti hi rahi huṅ
   Aa jaao Khuda ke liye aa jaao Sakina
 
   2
-  Yaa mujhko sada do ke main lene tumheṅ pahuṅchuṅ
+  Yaa mujhko sada do ke maiṅ lene tumheṅ pahuṅchuṅ
   Yaa khud meri aawaaz pe aa jaao Sakina
 
   3
@@ -32,23 +32,23 @@ romanLyrics: |-
 
   5
   Bibi tumheṅ raste bhi to maalum nahiṅ hai
-  Darti huṅ ke sehra mein na kho jaao Sakina
+  Darti huṅ ke sehra meiṅ na kho jaao Sakina
 
   6
-  Bhaiya ne tumheṅ meri hifaazat mein diya tha
+  Bhaiya ne tumheṅ meri hifaazat meiṅ diya tha
   Bhaabhi se to sharminda na karwaao Sakina
 
   7
-  Maidaan mein to besar ke haiṅ laashe meri bachchi
-  Shab mein na unheṅ dekh ke dar jaao Sakina
+  Maidaan meiṅ to besar ke haiṅ laashe meri bachchi
+  Shab meiṅ na unheṅ dekh ke dar jaao Sakina
 
   8
-  Main dil jali bewaaoṅ ko deti huṅ tasalli
+  Maiṅ dil jali bewaaoṅ ko deti huṅ tasalli
   Tum rote hue bachchoṅ ko behlaao Sakina
 
   9
   Bibi tumheṅ ab baap ka sina na milega
-  Aa kar meri aaghosh mein so jaao Sakina
+  Aa kar meri aaghosh meiṅ so jaao Sakina
 
   10
   Mashhad ki ziyaarat se musharrab hua Izzat

@@ -15,65 +15,65 @@ romanLyrics: |-
   Dekha khula sar hai pareshaan hai muztar
   Rone lage kehne lage tab Ali Asghar
 
-  Maa mujhe apne seene se laga le
-  Maa mujhe apni godi mein chhupa le
-  Maa main naize pe huṅ
+  Maa mujhe apne sine se laga le
+  Maa mujhe apni godi meiṅ chhupa le
+  Maa maiṅ naize pe huṅ
 
   1
-  Amma bahut din hue jhule mein na soya
+  Amma bahut din hue jhule meiṅ na soya
   Maa teri izzat ki qasam phir bhi na roya
   Ab tujhe dekha to mere lab hue goya
   Aaj bandhe haathoṅ ko jhula sa bana le
-  Seene se laga le
+  Sine se laga le
 
   2
   Jism kahaaṅ sar hai kahaaṅ haaye muqaddar
   Amma badan reh gaya Karbal ki zamiṅ par
   Amma tere saath chala aaye mera sar
   Karta tujhe kaise lainoṅ ke hawaale
-  Seene se laga le
+  Sine se laga le
 
   3
   Garm hawa garm zamiṅ jalta hua tir
   Amma zara socho mere qad se bara tir
   Kaise kahuṅ halq pe jis waqt laga tir
   Ho gaye behosh mujhe dekhne wale
-  Seene se laga le
+  Sine se laga le
 
   4
   Kab se Sakina ne nahiṅ mujhko kiya pyaar
   Karb o bala Kufa kahaaṅ Shaam ka baazaar
   Darti hai kya khuṅ se bhare dekh ke rukhsaar
   Naize ke nazdik zara us ko bula le
-  Seene se laga le
+  Sine se laga le
 
   5
-  Dhup mein tu ne na kabhi gar se nikaala
+  Dhup meiṅ tu ne na kabhi gar se nikaala
   Amma bare pyaar se tu ne mujhe paala
   Aaj nahiṅ koi mujhe dekhne wala
   Tu hi mujhe dhup ki shiddat se bacha le
-  Seene se laga le
+  Sine se laga le
 
   6
   Dekh tera lakht-e-jigar yuṅ to hai Asghar
-  Naiza sawaari mein hai Akbar ke baraabar
+  Naiza sawaari meiṅ hai Akbar ke baraabar
   Nok-e-sinaaṅ par hai sitaara sa mera sar
   Meri shujaat pe gale mujhko laga le
-  Seene se laga le
+  Sine se laga le
 
   7
   Baba ka sar bhaai ka sar nok-e-sinaaṅ par
   Aap ke sar pe nahiṅ amma koi chaadar
-  Kaise main bardaasht karuṅ amma ye manzar
+  Kaise maiṅ bardaasht karuṅ amma ye manzar
   Urti hui khaak se muṅh apna chhupa le
-  Seene se laga le
+  Sine se laga le
 
   8
   Tukre kaleja hua Bano ka har ek aaṅ
   Naize pe goya hua jab chhota sa Quraaṅ
   Maa ki ye aawaaz thi bas Sarwar o Rehaan
   Haath ho aazaad to armaan nikaale
-  Seene se laga le
+  Sine se laga le
 # source_id: nohayonline:db6b9755128d2b56ae97
 # source_url: https://www.nohayonline.com/details_content.php?id=3312
 # raw_sha256: c0b90e0eb2d334995e92504475983cfdeb2ea14d9da74503e2b59f82a4fcfe71

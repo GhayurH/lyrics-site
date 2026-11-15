@@ -1,6 +1,6 @@
 ---
 title: "بی‌بیاں روئے زار و زار"
-alternateTitle: "Bibiyan Roye Zaar"
+alternateTitle: "Bibiyaṅ Roye Zaar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -13,68 +13,68 @@ published: true
 romanLyrics: |-
   Bibiyaṅ roye zaar o zaar
   Shehzaadiyaṅ roye zaar o zaar
-  Lut gaya Karbal mein ghar baar
+  Lut gaya Karbal meiṅ ghar baar
   Husain Husain Husain Husain
 
   Hai Aal-e-Nabi ki aur darbaar
   Husain Husain Husain Husain
-  Zanjir mein jakra hai bimaar
+  Zanjir meiṅ jakra hai bimaar
   Husain Husain Husain Husain
 
   1
   Koi bain kare bachchoṅ ke liye
   Koi ro ke kahe bhaai na rahe
   Nahiṅ Zainab ka koi ghamkhwaar
-  Karb o Bala mein hai ye pukaar
+  Karb o Bala meiṅ hai ye pukaar
   Husain Husain Husain Husain
 
   2
   Akbar ka jigar Asghar ka gala
   Abbas ke baazu tegh-e-jafa
   Haaye halq-e-Shah-e-Diṅ aur talwaar
-  Karb o Bala mein hai ye pukaar
+  Karb o Bala meiṅ hai ye pukaar
   Husain Husain Husain Husain
 
   3
   Qasim ka badan paamaal hua
   Aati thi sada dulha dulha
   Ghar aa ja tu bas ek baar
-  Karb o Bala mein hai ye pukaar
+  Karb o Bala meiṅ hai ye pukaar
   Husain Husain Husain Husain
 
   4
   Katta tha Shah-e-Waala ka gala
   Roti thi zamin-e-Karb o Bala
   Hai aaj qayaamat ke aasaar
-  Karb o Bala mein hai ye pukaar
+  Karb o Bala meiṅ hai ye pukaar
   Husain Husain Husain Husain
 
   5
   Ro ro ke Sakina bain kare
   Darya pe gaye ammu mere
   Ab kaun karega mujh ko pyaar
-  Karb o Bala mein hai ye pukaar
+  Karb o Bala meiṅ hai ye pukaar
   Husain Husain Husain Husain
 
   6
   Beparda hue sab Ahl-e-Haram
   Jab thanda hua Ghaazi ka alam
   Jina hai Sakina ka dushwaar
-  Karb o Bala mein hai ye pukaar
+  Karb o Bala meiṅ hai ye pukaar
   Husain Husain Husain Husain
 
   7
   Jalte hue khaime Ahl-e-Haram
   Hai Shaam-e-Gharibaṅ aur maatam
   Hai qaafila jaane ko tayyaar
-  Karb o Bala mein hai ye pukaar
+  Karb o Bala meiṅ hai ye pukaar
   Husain Husain Husain Husain
 
   8
   Rehaan gham-e-Sarwar ki qasam
   Rote haiṅ mere qirtaas o qalam
   Aankhoṅ se rawaaṅ ashkoṅ ki dhaar
-  Karb o Bala mein hai ye pukaar
+  Karb o Bala meiṅ hai ye pukaar
   Husain Husain Husain Husain
 # source_id: nohayonline:15daf39e09e457bc24d9
 # source_url: https://www.nohayonline.com/details_content.php?id=2998

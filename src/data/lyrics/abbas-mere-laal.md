@@ -28,7 +28,7 @@ romanLyrics: |-
 
   3
   Bhai ka gala katte hue dekhegi kaise
-  Tukroṅ mein use batte hue dekhegi kaise
+  Tukroṅ meiṅ use batte hue dekhegi kaise
   Zainab ko zara ret ke tile se hata lo
 
   4
@@ -54,7 +54,7 @@ romanLyrics: |-
   8
   Tum Umm-e-Wafa Umm-e-Masaib ki kali ho
   Ae Ibn-e-Ali tum bhi ho ek Nad-e-Ali ho
-  Islam pe jo mushkileṅ aayi hain wo talo
+  Islam pe jo mushkileṅ aayi haiṅ wo talo
 
   9
   Zehra tere nohoṅ ka karam kam hai ye hum par

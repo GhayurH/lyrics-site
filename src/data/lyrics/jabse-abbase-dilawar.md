@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Chaand suraj khud bichhate haiṅ wahaaṅ par roshni
-  Jis jagah badhne raha par aane wala hai alam
+  Jis jagah barhne raha par aane wala hai alam
 
   2
   Kitne maare haiṅ tamaache zulm ke rukhsaar par
@@ -24,18 +24,18 @@ romanLyrics: |-
 
   3
   Hai rasaai arsh-e-aazam tak faqad us haath ki
-  Maatam-e-Shabbir mein jo haath hota hai alam
+  Maatam-e-Shabbir meiṅ jo haath hota hai alam
 
   4
   De rahi haiṅ ye hawaeiṅ aandhiyaaṅ ban kar sada
   Saare jhande sar jhuka deṅ aane wala hai alam
 
   5
-  Shah-e-diṅ se berukhi ke jurm mein de kar sada
-  Qaid kar ke mashk mein darya ko laaya hai alam
+  Shah-e-diṅ se berukhi ke jurm meiṅ de kar sada
+  Qaid kar ke mashk meiṅ darya ko laaya hai alam
 
   6
-  Aa gai khaime ke dar par haath mein kuza liye
+  Aa gai khaime ke dar par haath meiṅ kuza liye
   Jab Sakina ne suna darya se aata hai alam
 
   7
@@ -48,7 +48,7 @@ romanLyrics: |-
 
   9
   Dunya Abbas Gohar jis ke sar ka taaj hai
-  Saad war aisa zamane mein hamara hai alam
+  Saad war aisa zamane meiṅ hamara hai alam
 # source_id: nohayonline:d8f148f25fd2726ad843
 # source_url: https://www.nohayonline.com/details_content.php?id=821
 # raw_sha256: 797f83f8f774e2f88fa56dc5a2844daf650d42cc1d3c693ada88cf5529ba4a61

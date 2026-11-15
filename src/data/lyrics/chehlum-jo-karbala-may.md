@@ -1,6 +1,6 @@
 ---
 title: "چہلم جو کربلا میں بہتر کا ہو چکا"
-alternateTitle: "Chehlum Jo Karbala Mein"
+alternateTitle: "Chehlum Jo Karbala Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,11 +12,11 @@ aliases: []
 published: true
 romanLyrics: |-
   1
-  Chehlum jo Karbala mein bahattar ka ho chuka
+  Chehlum jo Karbala meiṅ bahattar ka ho chuka
   Paiwand bekasoṅ ke tan o sar ka ho chuka
   Aur faatiha Husain ke lashkar ka ho chuka
   Qabroṅ pa shor Aal-e-Payambar ka ho chuka
-  Maatam mein tin roz rahe shor o shain se
+  Maatam meiṅ tin roz rahe shor o shain se
   Roye lipat lipat ke mazaar-e-Husain se
 
   2
@@ -52,23 +52,23 @@ romanLyrics: |-
   Dekho ye pusht qaabil-e-nok-e-sinaaṅ hui
 
   6
-  Mar jaaye sab yatimoṅ ke sar par rahuṅ to main
-  Bachpan mein un ki qaid ki izaa sahuṅ to main
-  Behlaane ko tumhaari kahaani kahuṅ to main
-  Maaṅ huṅ to main phuphi ho to main baap huṅ to main
+  Mar jaaye sab yatimoṅ ke sar par rahuṅ to maiṅ
+  Bachpan meiṅ un ki qaid ki izaa sahuṅ to maiṅ
+  Behlaane ko tumhaari kahaani kahuṅ to maiṅ
+  Maaṅ huṅ to maiṅ phuphi ho to maiṅ baap huṅ to maiṅ
   In ka bhi daagh aaj mile ya ke kal mile
   Aise nahiṅ nasib ke khidmat ka phal mile
 
   7
-  Main jaanti thi shahr basa hoga bhaai ka
+  Maiṅ jaanti thi shahr basa hoga bhaai ka
   Hoga hujum qabr pa saari khudaai ka
-  Chehlum karuṅgi dhum se main Karbalaai ka
+  Chehlum karuṅgi dhum se maiṅ Karbalaai ka
   Pursaaṅ bhi yaaṅ koi nahiṅ Zehra ki jaai ka
   Munh dhaanpne ko aap hi palla bhi leti huṅ
   Aur apne dil ko aap hi pursa bhi deti huṅ
 
   8
-  Chehlum to kar chuki main dilafgaar ya Husain
+  Chehlum to kar chuki maiṅ dilafgaar ya Husain
   Ab rauza kis tarah se ho taiyaar ya Husain
   Beta bhi aur behan bhi hai naadaar ya Husain
   Aakhir kabhi to aayeṅge zawwaar ya Husain
@@ -89,7 +89,7 @@ romanLyrics: |-
   Aur maqbara Husain ka sunsaan ho gaya
   Hu ka maqaam qatl ka maidaan ho gaya
   Aayi musaafiroṅ ko mere wo zamiṅ pasand
-  Duniya mein jis zamin ko basti nahiṅ pasand
+  Duniya meiṅ jis zamin ko basti nahiṅ pasand
 
   11
   Ae Karbalaa-e-Sarwar-e-dilgir alwidaa
@@ -100,8 +100,8 @@ romanLyrics: |-
   Tum ne mujaawari na hamaari qubul ki
 
   12
-  Bhaiya utho kajawe mein mujh ko tumhiṅ bithaao
-  Bhaiya main benaqaab huṅ raahgiroṅ ko hataao
+  Bhaiya utho kajawe meiṅ mujh ko tumhiṅ bithaao
+  Bhaiya maiṅ benaqaab huṅ raahgiroṅ ko hataao
   Rokeṅ qanaat Akbar o Abbas ko bulaao
   Khaali hai god bhaabhi ki Asghar ko lete aao
   Sardaar saare qaafile ke aage hote haiṅ

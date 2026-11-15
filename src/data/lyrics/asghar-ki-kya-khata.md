@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Kehte thay Shah bata de Asghar ki kya khata thi
+  Kehte the Shah bata de Asghar ki kya khata thi
   Kiuṅ Hurmala hamaare Asghar ki kya khata thi
 
   1

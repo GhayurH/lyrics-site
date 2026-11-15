@@ -13,49 +13,49 @@ published: true
 romanLyrics: |-
   Haaye Husain
   Ro rahi hai aaj tak Shabbir khaak-e-Karbala
-  Go mualla mein hui afsos tu zibha hua
+  Go mualla meiṅ hui afsos tu zibha hua
   Ro rahi hai aaj tak Shabbir khaak-e-Karbala
 
   1
-  Jab chhupaaya main ne daaman mein tere beshir ko
+  Jab chhupaaya maiṅ ne daaman meiṅ tere beshir ko
   Zaalimoṅ ne naizoṅ se sina mera chhalni kiya
-  Go mualla mein hui afsos tu zibha hua
+  Go mualla meiṅ hui afsos tu zibha hua
   Ro rahi hai aaj tak Shabbir khaak-e-Karbala
 
   2
   Thar tharaai khub piti aur roi khub thi
   Hasan ki bewa ke armaanoṅ ka sehra jab luta
-  Go mualla mein hui afsos tu zibha hua
+  Go mualla meiṅ hui afsos tu zibha hua
   Ro rahi hai aaj tak Shabbir khaak-e-Karbala
 
   3
   Rubaru mere hue the ambiya par zulm bhi
   Laasha-e-Akbar tarapta mujh se na dekha gaya
-  Go mualla mein hui afsos tu zibha hua
+  Go mualla meiṅ hui afsos tu zibha hua
   Ro rahi hai aaj tak Shabbir khaak-e-Karbala
 
   4
   Bachchoṅ ko ye aas thi ke chacha paani laaeṅge
   Paani ka na pahunchna Ghaazi ke dil ko khaa gaya
-  Go mualla mein hui afsos tu zibha hua
+  Go mualla meiṅ hui afsos tu zibha hua
   Ro rahi hai aaj tak Shabbir khaak-e-Karbala
 
   5
-  Go main parda ban gai thi waaris-e-tathir ka
-  Khaak sar Zainab mein ya rab waqt kaisa aa gaya
-  Go mualla mein hui afsos tu zibha hua
+  Go maiṅ parda ban gai thi waaris-e-tathir ka
+  Khaak sar Zainab meiṅ ya rab waqt kaisa aa gaya
+  Go mualla meiṅ hui afsos tu zibha hua
   Ro rahi hai aaj tak Shabbir khaak-e-Karbala
 
   6
   Laasha-e-Aun o Muhammad par koi waaris na tha
   Sabr-e-Zainab dekh kar muṅh ko kaleja aa gaya
-  Go mualla mein hui afsos tu zibha hua
+  Go mualla meiṅ hui afsos tu zibha hua
   Ro rahi hai aaj tak Shabbir khaak-e-Karbala
 
   7
   Munkir-e-sajda-e-Aadam ho ke Shaitaan ho gaya
   Sajda-e-Shabbir Najfi azmat-e-Yazdaaṅ hua
-  Go mualla mein hui afsos tu zibha hua
+  Go mualla meiṅ hui afsos tu zibha hua
   Ro rahi hai aaj tak Shabbir khaak-e-Karbala
 # source_id: nohayonline:06df598f40805cf731ec
 # source_url: https://www.nohayonline.com/details_content.php?id=2299

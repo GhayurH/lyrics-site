@@ -11,11 +11,11 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Nazar mein leke bahattar shahaadatoṅ ka nizaam
+  Nazar meiṅ leke bahattar shahaadatoṅ ka nizaam
   Hilal se shab-e-Aashur keh rahe haiṅ Imam
   Ye Karbala hai ye Karbala hai
 
-  Lahu mein dubi hui daastaaṅ sunaate haiṅ
+  Lahu meiṅ dubi hui daastaaṅ sunaate haiṅ
   Hilal aao tumheiṅ Karbala dikhaate haiṅ
   Suno Hilal suno suno Hilal suno
 
@@ -31,7 +31,7 @@ romanLyrics: |-
   Palat ke aayega koi baraa-e-qurbaani
   Tumheiṅ khabar hai kai din se band hai paani
   Ada kareṅge bhala kaise haq-e-mehmaani
-  Yahaaṅ pe khun mein dubegi Hur ki peshaani
+  Yahaaṅ pe khun meiṅ dubegi Hur ki peshaani
   Hilal aao tumheiṅ Karbala dikhaate haiṅ
   Suno Hilal suno suno Hilal suno
 
@@ -63,7 +63,7 @@ romanLyrics: |-
   Lahu bhare hue mashk o alam jab aayeṅge
   Kamar pakar ke sar-e-dasht baith jaayeṅge
   Phir aisa quwwat-e-baazu kahaaṅ se laayeṅge
-  Baghair bhaai ke khaime mein laut aayeṅge
+  Baghair bhaai ke khaime meiṅ laut aayeṅge
   Hilal aao tumheiṅ Karbala dikhaate haiṅ
   Suno Hilal suno suno Hilal suno
 
@@ -71,7 +71,7 @@ romanLyrics: |-
   Hamaara laal jo Akbar hai Mustafa jaisa
   Sinaan-e-zulm wo apne jigar pe khaayeṅge
   Nazar ke saamne hoga jawaan ka laasha
-  Ajib waqt mein aayega qaasid-e-Sughra
+  Ajib waqt meiṅ aayega qaasid-e-Sughra
   Hilal aao tumheiṅ Karbala dikhaate haiṅ
   Suno Hilal suno suno Hilal suno
 
@@ -84,9 +84,9 @@ romanLyrics: |-
   Suno Hilal suno suno Hilal suno
 
   9
-  Tasawwuraat mein jaa kar zara udhar dekho
+  Tasawwuraat meiṅ jaa kar zara udhar dekho
   Namaaz-e-asr ke manzar ko ek nazar dekho
-  Nashib mein tah-e-khanjar hamaara sar dekho
+  Nashib meiṅ tah-e-khanjar hamaara sar dekho
   Jo dekh paao to Zehra ko nauhagar dekho
   Hilal aao tumheiṅ Karbala dikhaate haiṅ
   Suno Hilal suno suno Hilal suno

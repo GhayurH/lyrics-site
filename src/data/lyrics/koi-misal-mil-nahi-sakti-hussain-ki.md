@@ -16,7 +16,7 @@ romanLyrics: |-
   1
   Alfaaz tangdast maani faqir haiṅ
   Nutq o bayaaṅ ke harf matlab haqir haiṅ
-  Mahdud zehn apni hadoṅ mein asir haiṅ
+  Mahdud zehn apni hadoṅ meiṅ asir haiṅ
   Hum past kya likheṅ keh wo kitne amir haiṅ
   Bas ik yehi misaal hai Zahra ke chain ki
   Koi misaal mil nahiṅ sakti Husain ki
@@ -30,24 +30,24 @@ romanLyrics: |-
   Maula ise banaate to banti ye kaainaat
 
   3
-  Har shai abhi adam mein thi maujud kuchh na tha
+  Har shai abhi adam meiṅ thi maujud kuchh na tha
   Taarik o taare shab na sawera tha ba-Khuda
   Sajda-guzaar nur faqat tha Husain ka
-  Jis jis jagah wo aalam-e-laahut mein jhuka
+  Jis jis jagah wo aalam-e-laahut meiṅ jhuka
   Khaaliq ne apne nur se us ko saja liya
   Utna ilaaqa arsh-e-mualla bana liya
 
   4
-  La shai ki mamlakat mein sakhi ne qadam rakha
-  Laahut mein jahaaṅ bane Maula ke naqsh-e-pa
+  La shai ki mamlakat meiṅ sakhi ne qadam rakha
+  Laahut meiṅ jahaaṅ bane Maula ke naqsh-e-pa
   Utha wahiṅ wahiṅ khamir-e-malaaika
   Rab-al-malaaikaat paroṅ par likha hua
-  Dunya samajh mein aaya ye rutba Husain ka
+  Dunya samajh meiṅ aaya ye rutba Husain ka
   Jibril kiuṅ jhulaate the jhula Husain ka
 
   5
   Apni sipaah ka saahib-e-ijaad khud Husain
-  Sinoṅ mein saaṅs ban ke hai aabaad khud Husain
+  Sinoṅ meiṅ saaṅs ban ke hai aabaad khud Husain
   Hai lashkar-e-Husain ki bunyaad khud Husain
   Abbas khud Husain haiṅ Sajjad khud Husain
   Ban kar yaqin sinoṅ ke andar Husain haiṅ
@@ -66,16 +66,16 @@ romanLyrics: |-
   Farmaaṅ rawa mera, mera sultaan aa gaya
   Aayat le ke bolta Quraan aa gaya
   Ab kaisi bebasi mera Rehmaan aa gaya
-  Shirkat bata rahi hai ye bete Ameer ki
+  Shirkat bata rahi hai ye bete Amir ki
   Khul kar Husain baat kareṅge Ghadir ki
 
   8
   Akbar jo Shah ne aakhri sajda ada kiya
-  Raazi huṅ main Husain se Khaaliq ne di sada
+  Raazi huṅ maiṅ Husain se Khaaliq ne di sada
   Ae Ahad-e-la-sharik tu sajde se sar utha
-  Utra hai teri Karb o Bala mein tera Khuda
-  Teri lahad mein aaj se khud ko basaauṅga
-  Aalam mein dusra main mualla banaauṅga
+  Utra hai teri Karb o Bala meiṅ tera Khuda
+  Teri lahad meiṅ aaj se khud ko basaauṅga
+  Aalam meiṅ dusra maiṅ mualla banaauṅga
 # source_id: tajpoints:1eba00c6b9828da49f1e
 # source_url: https://tajpoints.com/2019/04/1-4-koi-misal-mil-nahi-sakti-hussain-ki.html
 # raw_sha256: 251d5616d0f355ce9ae785beb9c6f32d1d30ef96d4f54f33bf4e16b830653d7c

@@ -1,6 +1,6 @@
 ---
 title: "تڑپتی رہ گئی لیلیٰ چلے گئے اکبر"
-alternateTitle: "Tadapti Rehgayi Laila"
+alternateTitle: "Tarapti Rehgayi Laila"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Tadapti reh gayi Laila chale gaye Akbar
+  Tarapti reh gayi Laila chale gaye Akbar
   Kise banaayegi dulha chale gaye Akbar
 
   1

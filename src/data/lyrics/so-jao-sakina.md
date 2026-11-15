@@ -11,28 +11,28 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Baithe the jale khaimoṅ mein saadaat beamaaṅ
+  Baithe the jale khaimoṅ meiṅ saadaat beamaaṅ
   Sehmi hui thi bibiyaaṅ bachche the hiraasaaṅ
   Zainab ne sun ke dukhtar-e-Shabbir ki fughaaṅ
   Bachchi ke ashk poṅchh ke di yuṅ tasalliyaaṅ
 
-  Baba ke badle main tujhe sine pe sulaauṅ
+  Baba ke badle maiṅ tujhe sine pe sulaauṅ
   So jaao Sakina
-  Tum band karo aaṅkheiṅ main lori sunaauṅ
+  Tum band karo aaṅkheiṅ maiṅ lori sunaauṅ
   So jaao Sakina
-  Baba to nahiṅ main tumheiṅ pehlu mein sulaauṅ
+  Baba to nahiṅ maiṅ tumheiṅ pehlu meiṅ sulaauṅ
   So jaao Sakina
 
   1
   Aaṅkheiṅ ko karo band to phir khwaab dikhega
-  Aa jaayeṅge phir khwaab mein milne tumheiṅ Baba
+  Aa jaayeṅge phir khwaab meiṅ milne tumheiṅ Baba
   Wo aa nahiṅ sakte yahaaṅ ye kaise bataauṅ
   So jaao Sakina
 
   2
-  Maana ke bahut dard hai zakhmoṅ mein tumhaare
+  Maana ke bahut dard hai zakhmoṅ meiṅ tumhaare
   Zaalim ne gohar chhin ke kaanoṅ se utaare
-  Main ashkoṅ ka marham tere zakhmoṅ pe lagaauṅ
+  Maiṅ ashkoṅ ka marham tere zakhmoṅ pe lagaauṅ
   So jaao Sakina
 
   3
@@ -44,19 +44,19 @@ romanLyrics: |-
   4
   Baba ke bina ab tumheiṅ jina hai meri jaan
   Gham baap ki furqat ka bhi sehna hai meri jaan
-  Khud apni yatimi ka main ahwaal sunaauṅ
+  Khud apni yatimi ka maiṅ ahwaal sunaauṅ
   So jaao Sakina
 
   5
-  Laayegi abhi zauja-e-Hur kuzoṅ mein paani
-  Mit jaayegi kuch der mein ye tashna dahaani
+  Laayegi abhi zauja-e-Hur kuzoṅ meiṅ paani
+  Mit jaayegi kuch der meiṅ ye tashna dahaani
   Phil waqt tujhe nind ka ehsaas dilaauṅ
   So jaao Sakina
 
   6
   Zainab ka bayaaṅ sunte hi Ae Safdar o Mazhar
   Kuch der ko nind aa gayi bachchi ko zamiṅ par
-  Ye Sheh ne kaha khwaab mein sine pe sulaauṅ
+  Ye Sheh ne kaha khwaab meiṅ sine pe sulaauṅ
   So jaao Sakina
 # source_id: nohayonline:45d48aca41f4e7f05af9
 # source_url: https://www.nohayonline.com/details_content.php?id=1716

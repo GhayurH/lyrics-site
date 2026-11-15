@@ -16,32 +16,32 @@ romanLyrics: |-
 
   1
   Kehti thi ke duniya se guzar jaauṅ gi baba
-  Aur Shaam ke zindaan hi mein mar jaauṅ gi baba
+  Aur Shaam ke zindaan hi meiṅ mar jaauṅ gi baba
   Ab tum se juda ho ke kidhar jaauṅ gi baba
   Paara hai jigar phir bhi thehar jaauṅ gi baba
 
   2
-  Ya Rab mere baba pe na maqtal mein jafa ho
-  Main soch rahi huṅ kahiṅ aisa na hua ho
+  Ya Rab mere baba pe na maqtal meiṅ jafa ho
+  Maiṅ soch rahi huṅ kahiṅ aisa na hua ho
   Baba ko na lashkar ne kahiṅ gher liya ho
-  Qismat mein meri daagh-e-yatimi na likha ho
+  Qismat meiṅ meri daagh-e-yatimi na likha ho
 
   3
   Ye keh ke gaye the ke abhi aata huṅ Bibi
-  Paani kahiṅ mil jaaye to main laata huṅ Bibi
-  Main khun-e-jigar pita huṅ gham khaata huṅ Bibi
-  Allah nigehbaan hai main jaata huṅ Bibi
+  Paani kahiṅ mil jaaye to maiṅ laata huṅ Bibi
+  Maiṅ khun-e-jigar pita huṅ gham khaata huṅ Bibi
+  Allah nigehbaan hai maiṅ jaata huṅ Bibi
 
   4
-  Ab tak to har ek ranj o musibat mein guzar ki
+  Ab tak to har ek ranj o musibat meiṅ guzar ki
   Is ranj o musibat ki kisi ko na khabar ki
-  Ab jaana yatimi mein mohabbat ko pidar ki
-  Ek yaas ka aalam hai jidhar main ne nazar ki
+  Ab jaana yatimi meiṅ mohabbat ko pidar ki
+  Ek yaas ka aalam hai jidhar maiṅ ne nazar ki
 
   5
   Allah kisi ko na kare besar o saamaaṅ
   Jis tarah se hum Aal-e-Muhammad haiṅ pareshaaṅ
-  Aisa ho jahaaṅ mein na pareshaan koi insaaṅ
+  Aisa ho jahaaṅ meiṅ na pareshaan koi insaaṅ
   Paamaal na is tarah se ho koi gulistaaṅ
 
   6
@@ -51,10 +51,10 @@ romanLyrics: |-
   Aasaar yatimi ke numaayaaṅ haiṅ phuphi jaaṅ
 
   7
-  Zikr-e-gham-e-Shabbir mein ab aah o buka kar
-  Aur aankhoṅ mein ashk-e-gham-e-Shabbir saja kar
+  Zikr-e-gham-e-Shabbir meiṅ ab aah o buka kar
+  Aur aankhoṅ meiṅ ashk-e-gham-e-Shabbir saja kar
   Hai sheh ka wafaadaar to phir zikr-e-wafa kar
-  Maqtal mein Urooj har ek apne gham ko bhula kar
+  Maqtal meiṅ Uruj har ek apne gham ko bhula kar
 # source_id: nohayonline:12863dd2b7027eabceff
 # source_url: https://www.nohayonline.com/details_content.php?id=825
 # raw_sha256: fd6564f7b5c0c3a99d92d27abc729e660f837dd247b4712b6e2f5289543c1d22

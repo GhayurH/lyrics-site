@@ -18,7 +18,7 @@ romanLyrics: |-
   Hum tum ko mila deṅ ge phuphi jaan se jaa kar
 
   1
-  Ae laal kaleje mein abhi dard to hoga
+  Ae laal kaleje meiṅ abhi dard to hoga
   Nikla hai lahu itna badan sard to hoga
   Tum chup ho to chalte haiṅ mere qalb pe khanjar
 
@@ -35,7 +35,7 @@ romanLyrics: |-
   4
   Darya pe gaye hoṅ ge jo larte hue beta
   Jaldi se bataao mera phatta hai kaleja
-  Kis haal mein hai laasha-e-Abbas-e-dilaawar
+  Kis haal meiṅ hai laasha-e-Abbas-e-dilaawar
 
   5
   Tum khud bhi samajhte ho ye majburi meri hai
@@ -55,7 +55,7 @@ romanLyrics: |-
   8
   Shah bole Takallum ke utho aa gaya khaima
   Sine se zara haath hata lo mere beta
-  Is haal mein dekhe gi to mar jaaye gi maadar
+  Is haal meiṅ dekhe gi to mar jaaye gi maadar
 # source_id: nohayonline:42120346d53f5eb2d472
 # source_url: https://www.nohayonline.com/details_content.php?id=1628
 # raw_sha256: 4b25be5076c537ebb0a9ddaf7a91b90b5d1ea18f089bda66cd44b03647bc2160

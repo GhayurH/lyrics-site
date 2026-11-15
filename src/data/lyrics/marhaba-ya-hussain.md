@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Karbala mein is tarah ghar tera luta gaya
+  Karbala meiṅ is tarah ghar tera luta gaya
   Baap se beta chhuta ho gaya bhaai juda
   Tu ne har ek gham saha ae sawaar-e-Mustafa
   Marhaba ya Husain
@@ -24,7 +24,7 @@ romanLyrics: |-
 
   2
   Din ki taqdir ko apne khuṅ se likh diya
-  Raah-e-Khudaawand mein kar diya sab kuchh fida
+  Raah-e-Khudaawand meiṅ kar diya sab kuchh fida
   Ambiya bhi arsh se keh rahe the marhaba
   Marhaba ya Husain
 
@@ -41,7 +41,7 @@ romanLyrics: |-
   Marhaba ya Husain
 
   5
-  Sar diya aur na diya haath mein zaalim ke haath
+  Sar diya aur na diya haath meiṅ zaalim ke haath
   Hur ke muqaddar ko bhi bakhshi hai tu ne hayaat
   Tera wajaah o hasham tera buland martaba
   Marhaba ya Husain

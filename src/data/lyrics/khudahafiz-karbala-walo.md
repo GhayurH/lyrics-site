@@ -29,7 +29,7 @@ romanLyrics: |-
   Ae Karbala walo Khuda hafiz
 
   4
-  Tumhare gham mein rote rote mar jaate to achchha tha
+  Tumhare gham meiṅ rote rote mar jaate to achchha tha
   Ye hasrat reh gayi
   Ae Karbala walo Khuda hafiz
 

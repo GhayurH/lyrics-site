@@ -1,6 +1,6 @@
 ---
 title: "غدیرِ خم پہ ہوا انتخاب کافی ہے"
-alternateTitle: "Ghadeer-e-Khum Pe Hua Intekhaab Kaafi Hai"
+alternateTitle: "Ghadir-e-Khum Pe Hua Intekhaab Kaafi Hai"
 recitationId: "ghadeer-e-khum-pe-howa-intehab-kafi-hai-ammar-yasir-magsi"
 language: Urdu
 lang: ur
@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   1
   Hameiṅ hadis-e-risaalat maab kaafi hai
-  Ghadeer-e-Khum pe hua intekhaab kaafi hai
+  Ghadir-e-Khum pe hua intekhaab kaafi hai
 
   2
   Samajhna chaaho agar kulluna Muhammad ko

@@ -1,6 +1,6 @@
 ---
 title: "دور ہے اب دستگاہ جبر و استبداد سے"
-alternateTitle: "Door Hai Ab"
+alternateTitle: "Dur Hai Ab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

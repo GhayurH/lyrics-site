@@ -15,7 +15,7 @@ romanLyrics: |-
 
   1
   Hosh Qasim ki jang ne khoye
-  Be sar-e-sad ke hawaas nahiṅ
+  Besar-e-sad ke hawaas nahiṅ
 
   2
   Dil se baateṅ ye karti thi Sughra

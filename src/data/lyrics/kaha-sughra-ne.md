@@ -29,7 +29,7 @@ romanLyrics: |-
 
   3
   Tere hote hue aabaad the raste saare
-  Tirgi mein bhi the aaṅgan mein chamakte taare
+  Tirgi meiṅ bhi the aaṅgan meiṅ chamakte taare
   Zindagi ho gayi wiraan Ali Akbar-e-man
   Laut aao na watan
 
@@ -41,19 +41,19 @@ romanLyrics: |-
 
   5
   Ab na baba se shikaayat hai na ammaaṅ sa gila
-  Main to bimaar huṅ bimaar se rishta kaisa
+  Maiṅ to bimaar huṅ bimaar se rishta kaisa
   Gham ye hai bhuli phuphi jaan Ali Akbar-e-man
   Laut aao na watan
 
   6
-  Meri aaṅkhoṅ mein tumheiṅ ashk gawaara hi na the
+  Meri aaṅkhoṅ meiṅ tumheiṅ ashk gawaara hi na the
   Tere bin kaatuṅ ye bimaar ke lamhe kaise
   Maut hai saamne har aan Ali Akbar-e-man
   Laut aao na watan
 
   7
   Qabr-e-Zahra pe bhi ab jaane ki himmat na rahi
-  Ab diya ghar mein jalaane ki bhi taaqat na rahi
+  Ab diya ghar meiṅ jalaane ki bhi taaqat na rahi
   Naatwaani ka hai tufaan Ali Akbar-e-man
   Laut aao na watan
 
@@ -65,7 +65,7 @@ romanLyrics: |-
 
   9
   Kya kabhi socha behan dard se roti ho gi
-  Laut ke aao to wo qabr mein soti ho gi
+  Laut ke aao to wo qabr meiṅ soti ho gi
   Hai bahut is ka bhi imkaan Ali Akbar-e-man
   Laut aao na watan
 
@@ -77,12 +77,12 @@ romanLyrics: |-
 
   11
   Kya koi apna watan chhor ke yuṅ jaata hai
-  Shaam ko ghar mein parinda bhi chala aata hai
+  Shaam ko ghar meiṅ parinda bhi chala aata hai
   Ae mere ghar ki nigehbaan Ali Akbar-e-man
   Laut aao na watan
 
   12
-  Ghash ke aalam mein bhi Rehaan tha Sughra ka bayaaṅ
+  Ghash ke aalam meiṅ bhi Rehaan tha Sughra ka bayaaṅ
   Kya dam-e-marg sarhaane na parho ge Quraaṅ
   Ae mere bolte Quraan Ali Akbar-e-man
   Laut aao na watan

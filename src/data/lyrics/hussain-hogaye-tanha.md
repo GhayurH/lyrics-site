@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Tha ran mein Shah ka ye nauha mere Ali Akbar
+  Tha ran meiṅ Shah ka ye nauha mere Ali Akbar
   Husain ho gaya tanha mere Ali Akbar
 
   Jo ran se Akbar-e-mahru ki Shah ko pahunchi sada
@@ -26,7 +26,7 @@ romanLyrics: |-
   Dikhaayi kuch nahiṅ deta mere Ali Akbar
 
   2
-  Pahunch ke ran mein jo dekha wo khuṅ bhara manzar
+  Pahunch ke ran meiṅ jo dekha wo khuṅ bhara manzar
   Gira ke Shaah ne khud ko jawaaṅ ke laashe par
   Kaha ye kaisi qayamat guzar gayi dilbar
   Tha maaṅ ne is liye paala mere Ali Akbar
@@ -38,14 +38,14 @@ romanLyrics: |-
   Na ji sakegi wo dukhiya mere Ali Akbar
 
   4
-  Husain laaye jo khaime mein laasha-e-Akbar
+  Husain laaye jo khaime meiṅ laasha-e-Akbar
   Madad ko pahunchi jo bhaai ki Zainab-e-muztar
   Jawaaṅ ke khun se sab tar ba tar hui chaadar
   Pukaari ji ke karuṅ kya mere Ali Akbar
 
   5
   Rihaai jab hui zindaaṅ se Aal-e-Athar ki
-  Khabar Madina mein pahunchi jo qatl-e-Akbar ki
+  Khabar Madina meiṅ pahunchi jo qatl-e-Akbar ki
   Sohail hil gayi sun ke lahad-e-Payambar ki
   Pukaari ro ke ye Sughra mere Ali Akbar
 # source_id: nohayonline:8fd2c1f18303d3fd5eea

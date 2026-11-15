@@ -1,6 +1,6 @@
 ---
 title: "بیکس پہ رونے والوں کا ہدیہ قبول ہو"
-alternateTitle: "Bibi Qubool Kare"
+alternateTitle: "Bibi Qubul Kare"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -22,14 +22,14 @@ romanLyrics: |-
   Bibi qubul kare Bibi qubul kare
 
   2
-  Gham-e-Shah mein sab kuchh lutaate rahe
-  Gharibi mein thi gham manaate rahe
+  Gham-e-Shah meiṅ sab kuchh lutaate rahe
+  Gharibi meiṅ thi gham manaate rahe
   Hai aise bhi tangdast ahl-e-aza
-  Tabarruk mein paani pilaate rahe
+  Tabarruk meiṅ paani pilaate rahe
   Tabarruk jo baaṅta to bas ye kaha
 
   3
-  Bichhaaya hai jab ghar mein farsh-e-aza
+  Bichhaaya hai jab ghar meiṅ farsh-e-aza
   Sajaaya aza khaana Shabbir ka
   Alam nasb karte hue meri maaṅ
   Bahaati thi aaṅkhoṅ se ashk-e-aza
@@ -59,13 +59,13 @@ romanLyrics: |-
   7
   Shabih-e-alam aur taabut par
   Kabhi Zuljanaah pe hue nauhagar
-  Kisi haal mein bhi ho ahl-e-aza
+  Kisi haal meiṅ bhi ho ahl-e-aza
   Na rukne diya majlisoṅ ka safar
   Nahiṅ kar sake haq-e-girya ada
 
   8
   Wo maulaai maaeṅ hai ek saayabaaṅ
-  Mile jin ki aaghosh mein nauhakhwaaṅ
+  Mile jin ki aaghosh meiṅ nauhakhwaaṅ
   Jo bachchoṅ ko saqqa banaati rahi
   Sajaae hue baawafa ka nishaaṅ
   Ye un ki aqidat ye tarz-e-wafa
@@ -73,14 +73,14 @@ romanLyrics: |-
   9
   Wo pur gham azaadaar wo maatami
   Nahiṅ jaa sake Karbala jo kabhi
-  Bapa chaar logoṅ mein ki majliseṅ
+  Bapa chaar logoṅ meiṅ ki majliseṅ
   Imam-e-Zamaana se faryaad ki
   Ye zikr-e-Shahanshaah-e-Karbobala
 
   10
   Ye koshish hai Maisam ki Mazhar kaho
   Koi ek nauha to aisa bhi ho
-  Na ho jis mein shohrat ki khwaahish zara
+  Na ho jis meiṅ shohrat ki khwaahish zara
   Kabhi aisi khaalis ibaadat bhi ho
   Utha kar kaheṅ sab hi dast-e-dua
 # source_id: nohayonline:bdba7edffe365e6a0c5d

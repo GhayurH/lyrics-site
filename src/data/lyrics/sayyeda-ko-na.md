@@ -37,13 +37,13 @@ romanLyrics: |-
 
   4
   Malka-e-sharm o haya par ye sitam kya kam tha
-  Apna haq maangne darbaar mein aayi Zahra
+  Apna haq maangne darbaar meiṅ aayi Zahra
   Ab na tum in ke dukhe dil ko dukhao
   Sayyeda ko na satao
 
   5
   Kya khabar tum ko ki kya tum ne sitam dhaaya hai
-  Bhare darbaar mein Siddiqa ko jhutlaaya hai
+  Bhare darbaar meiṅ Siddiqa ko jhutlaaya hai
   Dard ke tir na ab aur chalao
   Sayyeda ko na satao
 

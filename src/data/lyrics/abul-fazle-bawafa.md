@@ -47,14 +47,14 @@ romanLyrics: |-
   6
   Bain karti hai ek masuma
   Wo Sakina gala bandha jis ka
-  Aaj bhi tere intezar mein hai
+  Aaj bhi tere intezar meiṅ hai
   Aaj bhi zindaṅ se aa rahi hai sada
 
   7
-  Tir ik aankh mein tha ik mein lahu
+  Tir ik aankh meiṅ tha ik meiṅ lahu
   Jab kiya hai pae-namaz wuzu
   Qalb-e-Zainab lahu ugalne laga
-  Aai pani mein jab teri khushbu
+  Aai pani meiṅ jab teri khushbu
 
   8
   Sar barehna thi jis ghari Zainab
@@ -64,9 +64,9 @@ romanLyrics: |-
 
   9
   Tere lashe pe jab gaye Shabbir
-  Dekha paiwast aankh mein hai tir
+  Dekha paiwast aankh meiṅ hai tir
   Shiddat-e-gham se jhuk gayi thi kamar
-  Khuṅ mein ghaltaṅ thi baap ki tasvir
+  Khuṅ meiṅ ghaltaṅ thi baap ki tasvir
 
   10
   Zindagi bhar hameṅ kaha Aaqa

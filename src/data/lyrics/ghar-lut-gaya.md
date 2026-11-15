@@ -11,22 +11,22 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ghar lut gaya chaadar chhini ho gayi main berida
+  Ghar lut gaya chaadar chhini ho gayi maiṅ berida
 
   Zainab dukhi deti rahi naana ke rauze par sada
-  Ghar lut gaya chaadar chhini ho gayi main berida
+  Ghar lut gaya chaadar chhini ho gayi maiṅ berida
 
   1
   Jis ke gale ko chum kar naana tum roye umr bhar
-  Sajde mein hi us ki pyaasi gardan pe khanjar chal gaya
+  Sajde meiṅ hi us ki pyaasi gardan pe khanjar chal gaya
 
   2
-  Jis ke sahaare main dukhi naana Madine se chali
+  Jis ke sahaare maiṅ dukhi naana Madine se chali
   Wo bekhata maara gaya darya kinaare baawafa
 
   3
   Qasim ki shaadi yuṅ hui ummat ne mehndi lut li
-  Sehra mein bhi bikhri hui sehre ki lariyaaṅ jaa baja
+  Sehra meiṅ bhi bikhri hui sehre ki lariyaaṅ jaa baja
 
   4
   Sughra thi jis ki muntazir chhid gaya us ka jigar
@@ -37,12 +37,12 @@ romanLyrics: |-
   Waaris mere maare gaye ho gayi beaasra
 
   6
-  Bhai ka sadma seh gayi naana main tanha reh gayi
-  Ummat teri haṅsti rahi roti rahi main baakhuda
+  Bhai ka sadma seh gayi naana maiṅ tanha reh gayi
+  Ummat teri haṅsti rahi roti rahi maiṅ baakhuda
 
   7
-  Dekha jo balwa-e-aam mein khun roya Aabid Shaam mein
-  Darbaaroṅ mein bazaaroṅ mein mujh ko phiraaya bekhata
+  Dekha jo balwa-e-aam meiṅ khun roya Aabid Shaam meiṅ
+  Darbaaroṅ meiṅ bazaaroṅ meiṅ mujh ko phiraaya bekhata
 
   8
   Jawad Ali ki laadli Mesum yuṅ roti reh gayi

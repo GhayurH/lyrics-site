@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Ab tak hai zabanoṅ pe Alamdar Alamdar
   Maara gaya Sarwar ka madadgar Alamdar
-  Khaimoṅ mein nahiṅ aa saka Abbas ka laasha
+  Khaimoṅ meiṅ nahiṅ aa saka Abbas ka laasha
   Abbas ka laasha Abbas ka laasha
   Pamal hai khud laasha-e-Qasim se ziyada
   Abbas ka laasha Abbas ka laasha
@@ -24,7 +24,7 @@ romanLyrics: |-
   Allah kare dekhe nahiṅ bali Sakina
 
   2
-  Puchha kiun lahad chhoti hai Zainab ne jo ro ke
+  Puchha kiuṅ lahad chhoti hai Zainab ne jo ro ke
   Sajjad ye bole
   Amma mujhe maidan se itna hi mila tha
 
@@ -34,29 +34,29 @@ romanLyrics: |-
   Jis ja hai giri mashk wahiṅ par hi milega
 
   4
-  Bhai ke kate haathoṅ ko maqtal mein utha kar
+  Bhai ke kate haathoṅ ko maqtal meiṅ utha kar
   Sine se laga kar
   Rote hue khud dhund rahe haiṅ Shah-e-Wala
 
   5
   Jis waqt chala gardan-e-Shabbir pe khanjar
-  Har zarb-e-laeen par
+  Har zarb-e-laiṅ par
   Sahil pe tarapta raha Sarwar se ziyada
 
   6
-  Jin haathoṅ se bachpan mein use jhula jhulaya
-  Godi mein uthaya
+  Jin haathoṅ se bachpan meiṅ use jhula jhulaya
+  Godi meiṅ uthaya
   Un haathoṅ se ab kaise uthae mere Maula
 
   7
   Akbar bhi yahiṅ haiṅ wahaṅ Zainab hai akeli
   Aa jaaye na Shami
-  Kiun aap uthane ke liye aa gaye Aaqa
+  Kiuṅ aap uthane ke liye aa gaye Aaqa
 
   8
   Sajjad gharibi pe tarapne lage Maula
   Jis waqt ye dekha
-  Godi mein uthaye hue pehle se thi Zehra
+  Godi meiṅ uthaye hue pehle se thi Zehra
 # source_id: nohayonline:4679d31f5e3cc7ee1a41
 # source_url: https://www.nohayonline.com/details_content.php?id=2128
 # raw_sha256: e30b468bb076e290a92de88ec751c0e0841b35162fe9b46507311c8cfbf5be15

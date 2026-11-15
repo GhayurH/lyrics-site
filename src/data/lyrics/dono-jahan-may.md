@@ -1,6 +1,6 @@
 ---
 title: "دونوں جہاں میں آج ہے چرچہ حسین کا"
-alternateTitle: "Donoṅ Jahaaṅ Mein"
+alternateTitle: "Donoṅ Jahaaṅ Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: ["Dono Jahan May"]
 published: true
 romanLyrics: |-
-  Donoṅ jahaaṅ mein aaj hai charcha Husain ka
+  Donoṅ jahaaṅ meiṅ aaj hai charcha Husain ka
   Har shakhs parh raha hai qasida Husain ka
 
   1
@@ -19,7 +19,7 @@ romanLyrics: |-
   Nauha-kunaaṅ hai dasht mein kunba Husain ka
 
   2
-  Tukroṅ mein munqasim hua ibn-e-Ali ka laal
+  Tukroṅ meiṅ munqasim hua ibn-e-Ali ka laal
   Tishna-dahan yatim bhatija Husain ka
 
   3
@@ -31,7 +31,7 @@ romanLyrics: |-
   Maadar ne kar diya unheṅ sadqa Husain ka
 
   5
-  Aansu baha rahe haiṅ jo gham mein Husain ke
+  Aansu baha rahe haiṅ jo gham meiṅ Husain ke
   Usko duaaeṅ deta hai Baaba Husain ka
 
   6
@@ -43,7 +43,7 @@ romanLyrics: |-
   Ab na milega isko wo sina Husain ka
 
   8
-  Ghash mein para hai khaime mein bimaar naatawaaṅ
+  Ghash meiṅ para hai khaime meiṅ bimaar naatawaaṅ
   Kaise behan bachaaegi beta Husain ka
 
   9

@@ -21,18 +21,18 @@ romanLyrics: |-
   Imam aisa jo zauj-e-Janaab-e-Zehra hai
   Imam aisa jo pyaare Nabi ka saaya hai
   Imam aisa jo Hasnain ka bhi baaba hai
-  Hai us imam ki dunya mein aaj aakhri shaam
+  Hai us imam ki dunya meiṅ aaj aakhri shaam
 
   2
   Husaini maaṅoṅ ne bachchoṅ ko apne samjhaaya
   Ali ke qatl ke ye din hai misl-e-Aashura
   Libaas-e-sog pehen kar bichhaao farsh-e-aza
   Ye din wo hai ke khushi bhi haraam hai beta
-  Guzaaro girya o zaari mein apne subh o shaam
+  Guzaaro girya o zaari meiṅ apne subh o shaam
 
   3
   Zamaana laakh mukhaalif ho ye bataana hai
-  Kisi bhi haal mein Yaum-e-Ali manaana hai
+  Kisi bhi haal meiṅ Yaum-e-Ali manaana hai
   Aza ke lafz ki hurmat ko bhi bachaana hai
   Ke jaan de ke bhi farsh-e-aza bichhaana hai
   Phir agle saal kaheṅge Ali ke saare ghulaam
@@ -40,9 +40,9 @@ romanLyrics: |-
   4
   Ajib gham ka ye maah-e-siyaam aaya hai
   Ali ke qatl ka samaan saath laaya hai
-  Nabi ko qabr mein jis ne lahu rulaaya hai
+  Nabi ko qabr meiṅ jis ne lahu rulaaya hai
   Ali ke bachchoṅ ne daagh-e-yatimi paaya hai
-  Ali ke Shioṅ mein barpa hai dard se kohraam
+  Ali ke Shioṅ meiṅ barpa hai dard se kohraam
 
   5
   Namak khajur se iftaar karne waala imam
@@ -59,24 +59,24 @@ romanLyrics: |-
 
   7
   Ye keh ke Maula mera namaaz parhne laga
-  Hui jo pehli rakat lain aqab se barha
+  Hui jo pehli rakat laiṅ aqab se barha
   Chalaai tegh-e-jafa shigaaf sar ko kiya
   Namaazi rone lage Ali ki aai sada
   Fuztu bi Rabbil Kaaba fuztu bi Rabbil Kaaba
 
   8
-  Bujhi thi zehr mein talwaar us sitamgar ki
+  Bujhi thi zehr meiṅ talwaar us sitamgar ki
   Shigaaf karte hue sar jabin tak utri
-  Khabar ye khaana-e-Zehra mein jis ghari pahuṅchi
+  Khabar ye khaana-e-Zehra meiṅ jis ghari pahuṅchi
   Hasan Husain se Zainab tarap ke kehne lagi
   Falak se aaya hai Jibril ka ye kaisa payaam
 
   9
   Jahaaṅ ko dete haiṅ paighaam Mesum o Mazhar
   Nahiṅ qayaamat-e-sughra se kam ye gham dil par
-  Ali ke sog mein farsh-e-aza bichhe ghar ghar
+  Ali ke sog meiṅ farsh-e-aza bichhe ghar ghar
   Hamesha bhejiye laanat bhi Ibn-e-Muljim par
-  Is ek baat pe takmeel paa chuka hai kalaam
+  Is ek baat pe takmil paa chuka hai kalaam
   Allahumma lan qatalata Amirul Mominin
 # source_id: nohayonline:af3d7a4800641d1e0764
 # source_url: https://www.nohayonline.com/details_content.php?id=3705

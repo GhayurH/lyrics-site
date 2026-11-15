@@ -12,22 +12,22 @@ aliases: []
 published: true
 romanLyrics: |-
   Zainab ye boli ae mere bhai tumhaare baad
-  Qismat bhanwar mein zulm ke laayi tumhaare baad
+  Qismat bhanwar meiṅ zulm ke laayi tumhaare baad
 
   1
-  Kuza Sakina haath mein hasrat se thaam kar
+  Kuza Sakina haath meiṅ hasrat se thaam kar
   Takti rahi thi su-e-taraai tumhaare baad
 
   2
-  Jis bhai se juda na hui bachpane se main
+  Jis bhai se juda na hui bachpane se maiṅ
   Sehni pari usi ki judaai tumhaare baad
 
   3
   Naazoṅ se jis ko paala tha athaarah saal tak
-  Mitti mein mil gayi wo kamaai tumhaare baad
+  Mitti meiṅ mil gayi wo kamaai tumhaare baad
 
   4
-  Is piri mein Husain ne karyal jawaan ki
+  Is piri meiṅ Husain ne karyal jawaan ki
   Kaandhe pe laash haaye uthaayi tumhaare baad
 
   5
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   6
   Shimr-e-laiṅ ka ji na bhara Shah ko maar kar
-  Khaimoṅ mein aa ke aag lagaayi tumhaare baad
+  Khaimoṅ meiṅ aa ke aag lagaayi tumhaare baad
 
   7
   Tu zinda jab talak raha parda bacha raha
@@ -44,7 +44,7 @@ romanLyrics: |-
 
   8
   Koi madad ke waaste aaya na Aal ke
-  Deti rahi main ban mein duhaai tumhaare baad
+  Deti rahi maiṅ ban meiṅ duhaai tumhaare baad
 
   9
   Pahunchi Najaf Madine riha ho ke qaid se

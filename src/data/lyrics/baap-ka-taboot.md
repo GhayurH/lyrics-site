@@ -17,13 +17,13 @@ romanLyrics: |-
   Dene bachchoṅ ko dilaasa khuld se maaṅ aayi hai
 
   Arsh waale bhi nazar aate haiṅ kuch mayyat ke saath
-  Sog mein dubi hui hai Murtaza ke kaainaat
-  Kis qadr jaan-e-Ali ke zakhm mein gehraai hai
+  Sog meiṅ dubi hui hai Murtaza ke kaainaat
+  Kis qadr jaan-e-Ali ke zakhm meiṅ gehraai hai
 
   1
   Sabr aaye Zainab o Kulsum ko Parwardigaar
   Sehn-e-masjid se sadaaiṅ aa rahi hai baar baar
-  Ek roze daar ne sajde mein zarbat khaayi hai
+  Ek roze daar ne sajde meiṅ zarbat khaayi hai
 
   2
   Tak raha hai kis ko hasrat se na jaane nur-e-ain
@@ -46,9 +46,9 @@ romanLyrics: |-
   Waqt ne phir se ghamoṅ ki daastaaṅ dohraayi hai
 
   6
-  Kaun si manzil mein likha jaye ab is sabr ko
+  Kaun si manzil meiṅ likha jaye ab is sabr ko
   Apne haathoṅ se mitaate haiṅ nishaan-e-qabr ko
-  Haye kis aalam mein mayyat baap ki dafnaayi hai
+  Haye kis aalam meiṅ mayyat baap ki dafnaayi hai
 
   7
   Aamir o Akhtar siyaahi hai falak par har taraf

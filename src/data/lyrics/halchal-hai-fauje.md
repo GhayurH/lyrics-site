@@ -11,14 +11,14 @@ aliases: []
 published: true
 romanLyrics: |-
   Tiroṅ pe tir nezoṅ par neze chalaate haiṅ
-  Halchal hai fauj-e-Shaam mein Abbas aate haiṅ
+  Halchal hai fauj-e-Shaam meiṅ Abbas aate haiṅ
 
   1
   Kya waqt par gaya hai Muhammad ki aal par
   Chaadar nahiṅ hai baaloṅ se muṅh ko chhupaate haiṅ
 
   2
-  Asghar ko maaṅ chhupaati hai jhuk jhuk ke god mein
+  Asghar ko maaṅ chhupaati hai jhuk jhuk ke god meiṅ
   Khaimoṅ ko tor tor kar jab tir aate haiṅ
 
   3
@@ -27,15 +27,15 @@ romanLyrics: |-
 
   4
   Ghore dauraaye Shaam se lashkar jo aate haiṅ
-  Kam umr bachche khaimoṅ mein ghabraaye jaate haiṅ
+  Kam umr bachche khaimoṅ meiṅ ghabraaye jaate haiṅ
 
   5
   Duniya ko de diya hai sabaq ye Husain ne
-  Raah-e-Khuda mein kis tarah ghar ko lutaate haiṅ
+  Raah-e-Khuda meiṅ kis tarah ghar ko lutaate haiṅ
 
   6
   Allah re sabr Sayyid-e-waala ka dekh le
-  Ran mein jawaan bete ka laasha uthaate haiṅ
+  Ran meiṅ jawaan bete ka laasha uthaate haiṅ
 # source_id: nohayonline:cff2fa9d38d6b3eb9bf9
 # source_url: https://www.nohayonline.com/details_content.php?id=708
 # raw_sha256: ae429a402c4753d1dd101ea38d33c4d91a36a6d0863402dcf9211e58a6a94f6d

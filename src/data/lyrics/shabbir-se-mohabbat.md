@@ -22,7 +22,7 @@ romanLyrics: |-
   Ye faqat jazba-e-raqaabat hai
 
   3
-  Din-e-haq mein mulukiyat ka shumul
+  Din-e-haq meiṅ mulukiyat ka shumul
   Nasl-e-Sufiyaan ki sharaarat hai
 
   4
@@ -43,11 +43,11 @@ romanLyrics: |-
 
   8
   Ran se aati hai laash Akbar ki
-  Khaima-e-Shih mein qayamat hai
+  Khaima-e-Shih meiṅ qayamat hai
 
   9
   Aa rahi hai chacha chacha ki sada
-  Qaid khaane mein kis ki turbat hai
+  Qaid khaane meiṅ kis ki turbat hai
 # source_id: nohayonline:b6dd6fb5181c6a350116
 # source_url: https://www.nohayonline.com/details_content.php?id=517
 # raw_sha256: 578f5cb2061c99f1e410468d0a27537e9230831b055806e8a131c7797e2fed1a

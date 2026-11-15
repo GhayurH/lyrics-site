@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Muhabbatoṅ ki inteha hai tujh se Ibn-e-Sayyeda
-  Hamaari ruh mein basa ajab hai rishta-e-wafa
+  Hamaari ruh meiṅ basa ajab hai rishta-e-wafa
   Hai tera ishq imtihaaṅ nisaar tujh pe do jahaaṅ
   Kahe zamin o aasmaaṅ ye tifl pir aur jawaaṅ
   Jab talak saaṅs chale ye azaadaari rahe
@@ -33,7 +33,7 @@ romanLyrics: |-
   Majlis o maatam ke talabgaar raheṅ ge
   Zehra ke bachchoṅ se wafaadaar raheṅ ge
   Tu ne kiya aisa kaam tujh pe durud o salaam
-  Teri muhabbat mein giraftaar raheṅ ge
+  Teri muhabbat meiṅ giraftaar raheṅ ge
   Jab tak jiyeṅ ge tujh pe mareṅ ge
   Karte raheṅ ahl-e-aza bas yahi aelaan
 
@@ -48,7 +48,7 @@ romanLyrics: |-
 
   5
   Bint-e-Nabi aati haiṅ jab farsh-e-aza par
-  Jaati hai wo ashkoṅ ko rumaal mein le kar
+  Jaati hai wo ashkoṅ ko rumaal meiṅ le kar
   Maatami halqoṅ ko dua deti haiṅ ro kar
   Itna bara martaba ahl-e-aza ko mila
   Aa gai besaakhta ye baat zabaaṅ par
@@ -76,15 +76,15 @@ romanLyrics: |-
   Kaise bhala haq ka bayaaṅ rok sake gi
   Kaise muhabbat ki zabaaṅ rok sake gi
   Kya tere nauhoṅ ki azaaṅ rok sake gi
-  Rash mein diwaar hai tere azaadaar haiṅ
+  Rash meiṅ diwaar hai tere azaadaar haiṅ
   Dunya tere gham ko kahaaṅ rok sake gi
   Jab tak jiyeṅ ge tujh pe mareṅ ge
   Teri aza teri wila markaz-e-imaan
 
   9
   Taaziya taabut alam aur amaari
-  Zinda julusoṅ mein hai tahzib hamaari
-  Raah mein har simt sabileṅ bhi hai jaari
+  Zinda julusoṅ meiṅ hai tahzib hamaari
+  Raah meiṅ har simt sabileṅ bhi hai jaari
   Jaise bhi haalaat ho laakh sawaalaat ho
   Rasm-e-aza hai ye hameṅ jaan se pyaari
   Jab tak jiyeṅ ge tujh pe mareṅ ge
@@ -101,7 +101,7 @@ romanLyrics: |-
   11
   Tere sab ashaab mawaddat ke musaafir
   Apna watan chhor ke aae teri khaatir
-  Dasht-e-bayaabaan mein sabhi ho gae haazir
+  Dasht-e-bayaabaan meiṅ sabhi ho gae haazir
   Saahib-e-imaan hai ishq pe qurbaan hai
   Jaun Zuhair aur Habib Ibn-e-Mazaahir
   Jab tak jiyeṅ ge tujh pe mareṅ ge

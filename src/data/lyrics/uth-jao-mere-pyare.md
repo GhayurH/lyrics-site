@@ -18,8 +18,8 @@ romanLyrics: |-
 
   1
   Mamta ki tarap tum kya jaano
-  Main maaṅ huṅ tumhaari pehchaano
-  Main ghar se nikal aayi baahar
+  Maiṅ maaṅ huṅ tumhaari pehchaano
+  Maiṅ ghar se nikal aayi baahar
   Uth jaao mere pyaare Asghar
 
   2
@@ -31,24 +31,24 @@ romanLyrics: |-
   3
   Muṅh rakh ke tumhaare chehre par
   Parde ka sahaara kar luṅgi
-  Main ho gayi mohtaaj-e-chaadar
+  Maiṅ ho gayi mohtaaj-e-chaadar
   Uth jaao mere pyaare Asghar
 
   4
-  Tum so gaye pyaase maqtal mein
-  Hum tashna dahan hai jangal mein
+  Tum so gaye pyaase maqtal meiṅ
+  Hum tashna dahan hai jangal meiṅ
   Hai pyaas abhi tak mahw-e-safar
   Uth jaao mere pyaare Asghar
 
   5
   Jo kuch bhi hua wo hona tha
-  Is soch mein dubi huṅ beta
-  Ghar jaauṅgi main kya muṅh le kar
+  Is soch meiṅ dubi huṅ beta
+  Ghar jaauṅgi maiṅ kya muṅh le kar
   Uth jaao mere pyaare Asghar
 
   6
   Tapti hai abhi tak ran ki zamiṅ
-  Main maaṅ huṅ tumhaari ghair nahiṅ
+  Maiṅ maaṅ huṅ tumhaari ghair nahiṅ
   Kaise rakh luṅ dil par patthar
   Uth jaao mere pyaare Asghar
 
@@ -65,13 +65,13 @@ romanLyrics: |-
   Uth jaao mere pyaare Asghar
 
   9
-  Main jaan ka sadqa de duṅgi
+  Maiṅ jaan ka sadqa de duṅgi
   Ji bhar ke balaayeṅ le luṅgi
-  Aaghosh mein aa jaao haṅs kar
+  Aaghosh meiṅ aa jaao haṅs kar
   Uth jaao mere pyaare Asghar
 
   10
-  Taarikh mein milta hai Ishrat
+  Taarikh meiṅ milta hai Ishrat
   Maaṅ chum ke chhoti si turbat
   Bas kehti rahi Asghar Asghar
   Uth jaao mere pyaare Asghar

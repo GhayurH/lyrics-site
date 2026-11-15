@@ -15,13 +15,13 @@ romanLyrics: |-
   Bin chaadar Bibi ne chehra baaloṅ se chhupaaya
 
   1
-  Ye kis ne kaha ke Karbal mein saadaat ke khaime jalte haiṅ
+  Ye kis ne kaha ke Karbal meiṅ saadaat ke khaime jalte haiṅ
   Aulaad-e-Umayya ne logoṅ Quraan jalaaya
   Zainab ka dil ghabraaya
 
   2
   Makhduma-e-aalam ki beti ye soch ke nauha karti hai
-  Pardes mein ummat ne haaye ye din bhi dikhaaya
+  Pardes meiṅ ummat ne haaye ye din bhi dikhaaya
   Zainab ka dil ghabraaya
 
   3

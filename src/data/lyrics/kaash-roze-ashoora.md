@@ -14,18 +14,18 @@ romanLyrics: |-
   Haaye yatimi haaye asiri
 
   Qaid meiṅ Sakina ye keh rahi thi ro ro kar
-  Kaash roz-e-Aashura main bhi mar gayi hoti
+  Kaash roz-e-Aashura maiṅ bhi mar gayi hoti
 
   Roz dam nikalta na is tarah se ghut ghut kar
-  Kaash roz-e-Aashura main bhi mar gayi hoti
+  Kaash roz-e-Aashura maiṅ bhi mar gayi hoti
 
   1
   Jo chacha mujhe meri jaaṅ se bhi pyaara tha
   Meri pyaas ki khaatir khuṅ beh gaya us ka
-  Main nisaar ho jaati kaash apne ammu par
+  Maiṅ nisaar ho jaati kaash apne ammu par
 
   2
-  Main ne apne ammu ka khuṅ meiṅ tar alam dekha
+  Maiṅ ne apne ammu ka khuṅ meiṅ tar alam dekha
   Naujawaaṅ bhaai ka aaya saamne laasha
   Mujh ko maut aayi na mar gaya mera Asghar
 
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   4
   Chhin li lainoṅ ne jis ghari rida meri
-  Donoṅ haath chehre par rakh ke main bahut royi
+  Donoṅ haath chehre par rakh ke maiṅ bahut royi
   Ye sada nikalti thi mere dil se reh reh kar
 
   5
@@ -52,12 +52,12 @@ romanLyrics: |-
   7
   Mujh ko jab kanizi meiṅ ek lain ne maanga
   Soch kar yehi us dam mera dil bahut roya
-  Main Ali ki poti huṅ aur ye sitam mujh par
+  Maiṅ Ali ki poti huṅ aur ye sitam mujh par
 
   8
   Karbala meiṅ gar meri nabz tham gayi hoti
-  Main bhi apne baaba ke paas qabr meiṅ soti
-  Wo wahaaṅ tarapte na aur main qaid ke andar
+  Maiṅ bhi apne baaba ke paas qabr meiṅ soti
+  Wo wahaaṅ tarapte na aur maiṅ qaid ke andar
 
   9
   Haal Aamir o Waaiz kya kahe yatima ka

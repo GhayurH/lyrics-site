@@ -23,7 +23,7 @@ romanLyrics: |-
   Jangal hai biyaabaan hai rona nahiṅ dar kar
 
   3
-  Maqtal mein to barsaat hai tiroṅ ki meri jaaṅ
+  Maqtal meiṅ to barsaat hai tiroṅ ki meri jaaṅ
   Paani tujhe tiroṅ se pilaaeṅ ge sitam gar
 
   4

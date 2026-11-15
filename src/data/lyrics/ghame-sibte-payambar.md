@@ -10,12 +10,12 @@ aliases: []
 published: true
 reciter: "Sachey Bhai"
 romanLyrics: |-
-  Qabr mein daagh-e-gham-e-sibt-e-Payambar le gaye
-  Hum andhere mein charaaghoṅ ka ye lashkar le gaye
+  Qabr meiṅ daagh-e-gham-e-sibt-e-Payambar le gaye
+  Hum andhere meiṅ charaaghoṅ ka ye lashkar le gaye
 
   1
   Phir na dekhe aasmaaṅ ne aaj tak aise jari
-  Karbala mein chun ke Sheh jaise bahattar le gaye
+  Karbala meiṅ chun ke Sheh jaise bahattar le gaye
 
   2
   Waah re qismat na chhuta mar ke dar Shabbir ka

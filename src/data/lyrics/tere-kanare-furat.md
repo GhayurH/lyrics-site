@@ -14,9 +14,9 @@ romanLyrics: |-
   Tere kanaare Furaat
 
   1
-  Barbaad hui main haaye waawaila
-  Luti gayi main haaye waawaila
-  Qaidi bani main haaye waawaila
+  Barbaad hui maiṅ haaye waawaila
+  Luti gayi maiṅ haaye waawaila
+  Qaidi bani maiṅ haaye waawaila
   Tere kanaare Furaat
 
   2
@@ -50,10 +50,10 @@ romanLyrics: |-
   Mar gaya pyaasa Sughra ka bhai
 
   7
-  Mera to sab kuch lut gaya ban mein
-  Ek ek sipaahi mar gaya ran mein
-  Tir lage Sarwar ke badan mein
-  Ab hai judaai bhai behen mein
+  Mera to sab kuch lut gaya ban meiṅ
+  Ek ek sipaahi mar gaya ran meiṅ
+  Tir lage Sarwar ke badan meiṅ
+  Ab hai judaai bhai behen meiṅ
 
   8
   Beghusl laashe tere kanaare
@@ -63,7 +63,7 @@ romanLyrics: |-
 
   9
   Khair hua jo bhi tha hona
-  Qismat mein teri likha tha rona
+  Qismat meiṅ teri likha tha rona
   Ta hashr ab tu yuṅhi tarapna
   Mar gayi pyaasi baali Sakina
 

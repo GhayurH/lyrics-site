@@ -11,9 +11,9 @@ aliases: []
 published: true
 reciter: "Shahid Baltistani"
 romanLyrics: |-
-  Main Shaam jaauṅ gi na tumheṅ chhor ke tanha
+  Maiṅ Shaam jaauṅ gi na tumheṅ chhor ke tanha
   Mujhe rok lo baba
-  Bas aaj se qadmoṅ mein hi soye gi Sakina
+  Bas aaj se qadmoṅ meiṅ hi soye gi Sakina
   Mujhe rok lo baba
 
   1
@@ -24,8 +24,8 @@ romanLyrics: |-
 
   2
   Bejaan sahi saamne nazroṅ ke hai mere
-  Maqtal mein hai bikhre hue sab apnoṅ ke laashe
-  Is dasht mein aabaad hai baba meri dunya
+  Maqtal meiṅ hai bikhre hue sab apnoṅ ke laashe
+  Is dasht meiṅ aabaad hai baba meri dunya
   Mujhe rok lo baba
 
   3

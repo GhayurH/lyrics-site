@@ -12,11 +12,11 @@ aliases: []
 published: true
 romanLyrics: |-
   Ya Ibna Zahra Ya Abbas
-  Main ain se Husain ka aashiq bhi ishq bhi
-  Be se huṅ Buturab ki main hasrat bhi
+  Maiṅ ain se Husain ka aashiq bhi ishq bhi
+  Bese huṅ Buturab ki maiṅ hasrat bhi
   Zahir alif se hai Abu Talib ki aagahi
   Aur sin se Hasan ki samajh bujh saath bhi
-  Abbas dekhne mein faqat mera naam hai
+  Abbas dekhne meiṅ faqat mera naam hai
   Darasl ye Husain ke lashkar ka naam hai
   Abbas naam hai mera Abbas naam hai
   Maṅga hai Rab se Malik-e-Kaunain ne mujhe
@@ -24,30 +24,30 @@ romanLyrics: |-
 
   1
   Asma-e-Panjtan ka asaasa hai mera naam
-  Alfaaz hain tawaf mein Kaaba hai mera naam
+  Alfaaz haiṅ tawaf meiṅ Kaaba hai mera naam
   Asrar o rumuz ki dunya hai mera naam
   Khud Mustafa ki beti ne mera naam
-  Bejaan nahiṅ hai harf koi mere naam mein
-  Simti hui hai Nad-e-Ali mere naam mein
+  Bejaan nahiṅ hai harf koi mere naam meiṅ
+  Simti hui hai Nad-e-Ali mere naam meiṅ
 
   2
-  Tauhid ko hai naaz Khuda-e-Wafa huṅ main
-  Mushkilkusha ka laal huṅ Mushkilkusha huṅ main
-  Barsoṅ jabin-e-Sher-e-Khuda mein raha huṅ main
-  Dohraya jab Ali ko Khuda ne bana huṅ main
-  Khilqat mein meri dakhl nahiṅ maoṅ tin ko
-  Tohfa huṅ main Batul ka Ummul Banin ko
+  Tauhid ko hai naaz Khuda-e-Wafa huṅ maiṅ
+  Mushkilkusha ka laal huṅ Mushkilkusha huṅ maiṅ
+  Barsoṅ jabin-e-Sher-e-Khuda meiṅ raha huṅ maiṅ
+  Dohraya jab Ali ko Khuda ne bana huṅ maiṅ
+  Khilqat meiṅ meri dakhl nahiṅ maoṅ tin ko
+  Tohfa huṅ maiṅ Batul ka Ummul Banin ko
 
   3
   Qahr-e-Khuda ki bolti tasvir meri tegh
   Ruhoṅ pe maut karti hai tahrir meri tegh
-  Teghoṅ mein misal-e-Aya-e-Tathir meri tegh
+  Teghoṅ meiṅ misal-e-Aya-e-Tathir meri tegh
   Tufan-e-Nuh khwab hai tabir meri tegh
   Ismat ki pehredar hai Tathir ki qasam
   Ye chhoti Zulfiqar hai Shabbir ki qasam
 
   4
-  Talwar meri jaayegi ran mein jidhar jidhar
+  Talwar meri jaayegi ran meiṅ jidhar jidhar
   Baarish wahaṅ pe hogi saroṅ ki sarar sarar
   Ashal ke paoṅ piseṅge tum ko karar karar
   Dekhegi maut khud ye nazaare tukar tukar
@@ -55,44 +55,44 @@ romanLyrics: |-
   Dhar dhar gireṅge dhar na sada tum ko aayegi
 
   5
-  Main chahta huṅ quwwat-e-bazu pe jang ho
+  Maiṅ chahta huṅ quwwat-e-bazu pe jang ho
   Dekhuṅ to tum ko kitne bahadur ho Shamiyo
   Manzur ye nahiṅ hai to khud faisla karo
-  Dikhlauṅ mojizat main apne jo tum kaho
+  Dikhlauṅ mojizat maiṅ apne jo tum kaho
   Darya pe haath dhoge abhi tum hayat se
   Apne saroṅ ko kaatoge khud apne haath se
 
   6
-  Aise karuṅga waar sambhalne na duṅga main
-  Pehlu bhi tum ko aaj badalne na duṅga main
-  Talwar kya zabaṅ bhi chalne na duṅga main
-  Nazroṅ ke daere se nikalne na duṅga main
+  Aise karuṅga waar sambhalne na duṅga maiṅ
+  Pehlu bhi tum ko aaj badalne na duṅga maiṅ
+  Talwar kya zabaṅ bhi chalne na duṅga maiṅ
+  Nazroṅ ke daere se nikalne na duṅga maiṅ
   Meri hai kaainaat kahaṅ bach ke jaoge
   Sun lo jahaṅ chhipoge wahaṅ mujh ko paoge
 
   7
   Tum ko ghamand fauj pe kasrat pe hai ghurur
   In baazuoṅ ke zor ka tum ko nahiṅ shaur
-  Pal mein nikaal duṅga main zehnoṅ ka har futur
+  Pal meiṅ nikaal duṅga maiṅ zehnoṅ ka har futur
   Dozakh ka naam aaj se hoga Yazidpur
   Hum keh ke Ya Ali jo abhi tegh uthaeṅge
   Murde tumhare zer-e-kafan thartharaeṅge
 
   8
-  Mashhur hai ye baat Khuda ki khudai mein
-  Mahir hai meri tegh safoṅ ki safai mein
-  Tum kya main do jahaṅ dabo duṅ tarai mein
-  Dast-e-Khuda ka zor hai meri kalai mein
-  Chahuṅ to baithe baithe main Ashal ki zin par
-  Lehra ke aasmaṅ ko ulat duṅ zamin par
+  Mashhur hai ye baat Khuda ki khudai meiṅ
+  Mahir hai meri tegh safoṅ ki safai meiṅ
+  Tum kya maiṅ do jahaṅ dabo duṅ tarai meiṅ
+  Dast-e-Khuda ka zor hai meri kalai meiṅ
+  Chahuṅ to baithe baithe maiṅ Ashal ki zin par
+  Lehra ke aasmaṅ ko ulat duṅ zamiṅ par
 
   9
-  Aalam tha terah saal mein aisa jalal ka
-  Siffin mein badal diya naqsha jidal ka
+  Aalam tha terah saal meiṅ aisa jalal ka
+  Siffin meiṅ badal diya naqsha jidal ka
   Ab to shabab aaya hai mere kamal ka
   Abbas aaj ho gaya battis saal ka
-  Sun lo qaza ke ghaat utaruṅga main tumheṅ
-  Ghera hai tum ne gher ke maruṅga main tumheṅ
+  Sun lo qaza ke ghaat utaruṅga maiṅ tumheṅ
+  Ghera hai tum ne gher ke maruṅga maiṅ tumheṅ
 
   10
   Dunya na samjhi Mir Takallum ye falsafa
@@ -100,7 +100,7 @@ romanLyrics: |-
   Yaani ruki nahiṅ hai abhi Jang-e-Karbala
   Aur aa rahi hai Rauza-e-Abbas se sada
   Rokega mujh ko tab na Nawasa-e-Rasul ka
-  Mehdi ke saath luṅga main badla Batul ka
+  Mehdi ke saath luṅga maiṅ badla Batul ka
 # source_id: tajpoints:912611cdf6a51a239e08
 # source_url: https://tajpoints.com/2017/02/abbas-naam-hai-mera-abbas-naam-hai1-4.html
 # raw_sha256: d9614f93244c9ca7bd75206cd61ce47b86083e828b33a16c10ec7c3df22d84c4

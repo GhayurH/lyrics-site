@@ -11,38 +11,38 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Behta hai khun-e-Haider Kufe mein Karbala mein
-  Zehra ka ghar luta hai haaye raah-e-Khuda mein
+  Behta hai khun-e-Haider Kufe meiṅ Karbala meiṅ
+  Zehra ka ghar luta hai haaye raah-e-Khuda meiṅ
 
   1
   Ek fajr par hai sajda ek sajda asr par hai
   Ek simt par hai beta ek simt pe padar hai
-  Kya farq hai bataao donoṅ pe is jafa mein
+  Kya farq hai bataao donoṅ pe is jafa meiṅ
 
   2
-  Kufe mein Murtaza ki beti pe hai yatimi
-  Shabbir ki yatima Karbobala mein ujri
-  Hai Zainab o Sakina ek dard ki fiza mein
+  Kufe meiṅ Murtaza ki beti pe hai yatimi
+  Shabbir ki yatima Karbobala meiṅ ujri
+  Hai Zainab o Sakina ek dard ki fiza meiṅ
 
   3
   Kulsum aur Zainab parhti rahi hai nauha
   Baaba ko zakhmi dekha bhaai ko zakhmi dekha
-  Manzar hai ek jaisa is dehr-e-bewafa mein
+  Manzar hai ek jaisa is dehr-e-bewafa meiṅ
 
   4
   Maalum tha Ali ko sajda na hoga pura
   Sarwar ko bhi pata hai ab aakhri hai sajda
-  Sar ko jhukaaya phir bhi taazim-e-Kibriya mein
+  Sar ko jhukaaya phir bhi taazim-e-Kibriya meiṅ
 
   5
   Qaasim ke ho wo tukre ya ho gulu-e-Asghar
   Akbar ka ho wo sina ya baazu-e-Dilaawar
-  Imraan ka khuṅ baha hai bughz-e-Murtaza mein
+  Imraan ka khuṅ baha hai bughz-e-Murtaza meiṅ
 
   6
   Salman aur Mesum taarikh hai bataati
   Guzri hai zindagi bas aulaad-e-Sayyeda ki
-  Maatam mein Murtaza ke Shabbir ki aza mein
+  Maatam meiṅ Murtaza ke Shabbir ki aza meiṅ
 # source_id: nohayonline:4b968478560458ca97bf
 # source_url: https://www.nohayonline.com/details_content.php?id=2163
 # raw_sha256: ccad2df7dea89da0f30a050d20899b986ea4977de4177d823938e07fa6beff3d

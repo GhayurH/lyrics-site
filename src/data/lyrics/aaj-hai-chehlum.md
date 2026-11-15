@@ -69,7 +69,7 @@ romanLyrics: |-
   Zainab degi tum ko dua
 
   12
-  Kijiye Rasheed ab dil se dua
+  Kijiye Rashid ab dil se dua
   Pahuncheiṅ hum sab Karbobala
   Pesh kareiṅ waaṅ ye noha
 # source_id: nohayonline:f72fd4aa0403850cffd6

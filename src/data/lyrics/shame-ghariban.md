@@ -16,7 +16,7 @@ romanLyrics: |-
   Ab ahl-e-haram jaaye kahaaṅ shaam-e-gharibaṅ
 
   1
-  Jis samt nazar jaaye wahaaṅ laashe hai be sar
+  Jis samt nazar jaaye wahaaṅ laashe hai besar
   Abbas-e-alamdaar kahiṅ Qasim o Akbar
   Maare gaye sab pir o jawaaṅ shaam-e-gharibaṅ
 
@@ -36,7 +36,7 @@ romanLyrics: |-
   Pyaase hai sabhi nauha kunaṅ shaam-e-gharibaṅ
 
   5
-  Kab jalne laga aag mein Sajjad ka bistar
+  Kab jalne laga aag meiṅ Sajjad ka bistar
   Bimaar ko sholoṅ se behan laai bacha kar
   Hai halq-e-burida ki fughaaṅ shaam-e-gharibaṅ
 

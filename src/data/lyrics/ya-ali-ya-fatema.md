@@ -23,13 +23,13 @@ romanLyrics: |-
   Bas aap ke bachchoṅ ke wafadaar raheṅge
   Hum majlis o maatam ke talabgaar raheṅge
   Ghazi ka alam le ke alamdaar raheṅge
-  Maatam ki fazaaoṅ mein alam zinda rahega
+  Maatam ki fazaaoṅ meiṅ alam zinda rahega
 
   2
   Zehnoṅ pe asar karta rahega gham-e-Shabbir
-  Nasloṅ mein safar karta rahega gham-e-Shabbir
+  Nasloṅ meiṅ safar karta rahega gham-e-Shabbir
   Dil baar-e-digar karta rahega gham-e-Shabbir
-  Har qalb mein ghar karta rahega gham-e-Shabbir
+  Har qalb meiṅ ghar karta rahega gham-e-Shabbir
   Is qaum pe Ghazi ka karam zinda rahega
 
   3
@@ -50,7 +50,7 @@ romanLyrics: |-
   Har baras Arbaiṅ Aashur manaane ke liye
   Karbala jaayeṅge hum farsh bichhaane ke liye
   Jo lahu par hai wohi qarz chukaane ke liye
-  Haram-e-Shah mein khuṅ apna bahaane ke liye
+  Haram-e-Shah meiṅ khuṅ apna bahaane ke liye
 
   6
   Bhul sakte hi nahiṅ asr ka hangaam kabhi

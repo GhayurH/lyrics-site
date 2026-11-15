@@ -19,8 +19,8 @@ romanLyrics: |-
   Maaro na mere bhaai ko kehti rahi Zainab
 
   2
-  Shaayad kisi baazaar mein bichhri hai Sakina
-  Durre bhi layin maare to barhti nahiṅ Zainab
+  Shaayad kisi baazaar meiṅ bichhri hai Sakina
+  Durre bhi layiṅ maare to barhti nahiṅ Zainab
 
   3
   Amma ki rida chumne lag jaati hai ro kar
@@ -28,7 +28,7 @@ romanLyrics: |-
 
   4
   Aa jaaye na Abid ko koi maarne waala
-  Zindaaṅ mein bhi is khauf se soyi nahiṅ Zainab
+  Zindaaṅ meiṅ bhi is khauf se soyi nahiṅ Zainab
 
   5
   Toreṅ ge ye patthar kya bhala hausla is ka

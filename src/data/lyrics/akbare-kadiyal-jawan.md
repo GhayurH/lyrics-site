@@ -10,19 +10,19 @@ aliases: []
 published: true
 reciter: "Ali Zia Rizvi"
 romanLyrics: |-
-  Akbar karyal jawaṅ, Akbar karyal jawaṅ
+  Akbar karyal jawaaṅ, Akbar karyal jawaaṅ
   Sine pe Akbar ne jab zulm ki khai sinaṅ
   Har taraf chhai hui gham ki thi tarikiyaṅ
-  Kehti thi sar pit kar is tarah maqtal mein maaṅ
+  Kehti thi sar pit kar is tarah maqtal meiṅ maaṅ
 
   1
   Kaise hue beta tum aankhoṅ se meri nihaṅ
-  Kaise pur aashob mein maaṅ tumheṅ dhundhe kahaṅ
+  Kaise pur aashob meiṅ maaṅ tumheṅ dhundhe kahaṅ
   Tum hi do aawaz ho Ali Akbar jahaṅ
 
   2
   Algharaz pahunche wahaṅ thokareṅ khate Husain
-  Khun mein duba hua aaya nazar nur-e-ain
+  Khun meiṅ duba hua aaya nazar nur-e-ain
   Keh ke zamin par gire haae mere dil ke chain
 
   3
@@ -33,7 +33,7 @@ romanLyrics: |-
   4
   Lasha-e-Akbar na jab Shah-e-Huda se utha
   Rukh kiya su-e-Najaf aaiye Mushkil Kusha
-  Kaise pur aashob mein dekhiye main lut gaya
+  Kaise pur aashob meiṅ dekhiye maiṅ lut gaya
 
   5
   Sadqe ho tum par ye maaṅ aankheṅ to kholo zara

@@ -15,39 +15,39 @@ romanLyrics: |-
   Ye kehte hoṅge jab beti se Haidar
 
   Hamare baad aise bhi zamane aayeṅge Zainab
-  Isi Kufe mein patthar tum ko maare jaayeṅge Zainab
+  Isi Kufe meiṅ patthar tum ko maare jaayeṅge Zainab
 
   1
   Gale un ko laga kar pyar karna maaṅ ki jaanib se
   Hameṅ dafna ke jab Hasnain wapas aayeṅge Zainab
 
   2
-  Tumhari maaṅ ko bhi darbar mein logoṅ ne bulwaya
-  Tumheṅ bhi berida darbar mein bulwaayeṅge Zainab
+  Tumhari maaṅ ko bhi darbar meiṅ logoṅ ne bulwaya
+  Tumheṅ bhi berida darbar meiṅ bulwaayeṅge Zainab
 
   3
   Ye Kufa hai yahaṅ ke logoṅ ki nazreṅ badalti hai
   Abhi jo shir laaye haiṅ wo patthar laayeṅge Zainab
 
   4
-  Ali ne ghar mein ye paigham bhijwaya hai masjid se
+  Ali ne ghar meiṅ ye paigham bhijwaya hai masjid se
   Na tum ghar se nikalna warna hum mar jaayeṅge Zainab
 
   5
   Sitam hoga ke qabreṅ bhi na hoṅgi paas qabroṅ ke
-  Madina Karbala Kufa mein hum bat jaayeṅge Zainab
+  Madina Karbala Kufa meiṅ hum bat jaayeṅge Zainab
 
   6
   Tamaache qatl-e-Mohsin aur wo darbar ki peshi
-  Ye saare dukh hum apni qabr mein le jaayeṅge Zainab
+  Ye saare dukh hum apni qabr meiṅ le jaayeṅge Zainab
 
   7
   Kaha hai hum ne kiuṅ Hasnain ke hote tumheṅ Zainab
-  Ye raaz hum hashr ke maidaaṅ mein batlaayeṅge Zainab
+  Ye raaz hum hashr ke maidaaṅ meiṅ batlaayeṅge Zainab
 
   8
   Na ghabrana hameṅ aawaaz dena saatweṅ dar par
-  Tumhare saath mein darbar hum bhi jaayeṅge Zainab
+  Tumhare saath meiṅ darbar hum bhi jaayeṅge Zainab
 
   9
   Takallum keh ke ye beti se rukhsat ho gaye Maula

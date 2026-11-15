@@ -1,6 +1,6 @@
 ---
 title: "علی آ رہے ہیں علی آ رہے ہیں"
-alternateTitle: "Ali Aa Rahe Hain Ali Aa Rahe Hain"
+alternateTitle: "Ali Aa Rahe Haiṅ Ali Aa Rahe Haiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -19,13 +19,13 @@ published: true
 romanLyrics: |-
   Hai shukr-e-Khuda bar-zaban-e-Payambar
   Ali aa rahe haiṅ Ali aa rahe haiṅ
-  Bana hai jidar-e-Haram mein naya dar
+  Bana hai jidar-e-Haram meiṅ naya dar
   Ali aa rahe haiṅ Ali aa rahe haiṅ
 
   1
   Sadaeṅ haiṅ Sall-e-Ala ki falak par
   To badla hua hai zamin ka bhi manzar
-  Haiṅ sajde mein Isa lab-e-Hauz-e-Kausar
+  Haiṅ sajde meiṅ Isa lab-e-Hauz-e-Kausar
   Yahaṅ su-e-Kaba chale haiṅ Payambar
   Sada hai ye Ruh-ul-Amin ki mukarrar
   Ali aa rahe haiṅ Ali aa rahe haiṅ
@@ -33,17 +33,17 @@ romanLyrics: |-
   2
   Munawwar hai Nur-e-Khuda se zamana
   Mili Mominoṅ ko khushi javedana
-  Fizaoṅ mein hai La Fata ka tarana
+  Fizaoṅ meiṅ hai La Fata ka tarana
   Laga pusht-e-Bu Jahl par taziyana
   Ye sun kar chala kufr ke dil pe khanjar
   Ali aa rahe haiṅ Ali aa rahe haiṅ
 
   3
-  Fazail mein yakta hai rutbe mein aali
+  Fazail meiṅ yakta hai rutbe meiṅ aali
   Baneṅge malak in ke dar ke sawali
-  Uruj is ke hisse mein hai lazawali
+  Uruj is ke hisse meiṅ hai lazawali
   Shujaat ki abjad sakhawat ka wali
-  Jo be zar hai us ko banane Abuzar
+  Jo bezar hai us ko banane Abuzar
   Ali aa rahe haiṅ Ali aa rahe haiṅ
 
   4
@@ -51,14 +51,14 @@ romanLyrics: |-
   Wasi aur kar le zara apna lashkar
   Bana le jo mazbut tar Bab-e-Khaibar
   Badal na sakegi wo apna muqaddar
-  Do tukroṅ mein Marhab bataega barabar
+  Do tukroṅ meiṅ Marhab bataega barabar
   Ali aa rahe haiṅ Ali aa rahe haiṅ
 
   5
-  Hai qabze mein jis ke ye sari Khudayi
+  Hai qabze meiṅ jis ke ye sari Khudayi
   Usi ne hameṅ ye sunani sunayi
   Agar is ke aage jasarat dikhayi
-  Tumhare muqaddar mein hogi tabahi
+  Tumhare muqaddar meiṅ hogi tabahi
   Lo Haris ke tan pe larazne laga sar
   Ali aa rahe haiṅ Ali aa rahe haiṅ
 
@@ -67,7 +67,7 @@ romanLyrics: |-
   Ke kya kya na ilzam jis ne lagae
   Muhammad ne jis ki zabaṅ zakhm khae
   Wo ab sochta hai kahaṅ muṅh chhupae
-  Hai ab badhawasi mein Sufyan ka shar
+  Hai ab badhawasi meiṅ Sufyan ka shar
   Ali aa rahe haiṅ Ali aa rahe haiṅ
 
   7

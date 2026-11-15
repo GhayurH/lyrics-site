@@ -14,68 +14,68 @@ romanLyrics: |-
   Abbaas mir-e-lashkar
   Abbaas kehte haiṅ
   Mujhe Abbaas kehte haiṅ
-  Main qamar-e-Bani Haashim huṅ
-  Sardaar huṅ main lashkar ka
+  Maiṅ qamar-e-Bani Haashim huṅ
+  Sardaar huṅ maiṅ lashkar ka
   Shabbir mera aaqa hai
-  Main beta huṅ Haidar ka
-  Nas nas mein wafaadaari hai
-  Mansab mein alamdaari hai
+  Maiṅ beta huṅ Haidar ka
+  Nas nas meiṅ wafaadaari hai
+  Mansab meiṅ alamdaari hai
 
   1
   Zehra ne kaha hai beta
-  Hai saare Arab mein charcha
+  Hai saare Arab meiṅ charcha
   Shabbir ke dil ki taaqat
   Huṅ chaand Bani Haashim ka
-  Main Karb o Bala ka Haidar
+  Maiṅ Karb o Bala ka Haidar
   Jibril bacha le shah par
 
   2
   Wo jaah o hasham rakhta huṅ
   Shaanoṅ pe alam rakhta huṅ
   Lo rok sako to roko
-  Darya mein qadam rakhta huṅ
-  Main hashr bapa kar duṅ ga
+  Darya meiṅ qadam rakhta huṅ
+  Maiṅ hashr bapa kar duṅ ga
   Sar tan se juda kar duṅ ga
 
   3
   Talwaar hai mere baazu
-  Hai mujh mein wafa ki khushbu
-  Main dekh nahiṅ sakta huṅ
-  Zainab ki nazar mein aansu
-  Gar ghaiz mein aa kar dekhuṅ
-  Paani mein aag laga duṅ
+  Hai mujh meiṅ wafa ki khushbu
+  Maiṅ dekh nahiṅ sakta huṅ
+  Zainab ki nazar meiṅ aansu
+  Gar ghaiz meiṅ aa kar dekhuṅ
+  Paani meiṅ aag laga duṅ
 
   4
   Parcham ye mere baba ka
   Ta hashr rahe ga uncha
-  Khaibar mein mila baba ko
-  Aur aaj hai main ne paaya
+  Khaibar meiṅ mila baba ko
+  Aur aaj hai maiṅ ne paaya
   Parcham na ye jhuk paae ga
-  Har daur mein lahraae ga
+  Har daur meiṅ lahraae ga
 
   5
   Bachchoṅ ko tasalli de kar
-  Main aaya huṅ darya par
+  Maiṅ aaya huṅ darya par
   Bachchoṅ ki aas na tute
   Bas ek dua hai lab par
   Paani jo na pahunchaauṅ ga
-  Khaimoṅ mein nahiṅ jaauṅ ga
+  Khaimoṅ meiṅ nahiṅ jaauṅ ga
 
   6
-  Be izn-e-wagha aaya huṅ
+  Beizn-e-wagha aaya huṅ
   Talwaar nahiṅ laaya huṅ
-  Thokar mein hai mere paani
-  Seh roz ka main pyaasa huṅ
+  Thokar meiṅ hai mere paani
+  Seh roz ka maiṅ pyaasa huṅ
   Behta hai lahu beh jaae
   Bas naam-e-wafa reh jaae
 
   7
-  Jo tir bhi hai tarkash mein
-  Paiwast karo nas nas mein
+  Jo tir bhi hai tarkash meiṅ
+  Paiwast karo nas nas meiṅ
   Par mashk pe waar na karna
-  Phir baat na hogi bas mein
+  Phir baat na hogi bas meiṅ
   Baazu bhi kata sakta huṅ
-  Main khuṅ mein naha sakta huṅ
+  Maiṅ khuṅ meiṅ naha sakta huṅ
 
   8
   Abbaas-e-jari ka rauza
@@ -86,7 +86,7 @@ romanLyrics: |-
   Sab jaae pyaas bujha kar
 
   9
-  Khaimoṅ mein na le jaana
+  Khaimoṅ meiṅ na le jaana
   Aaqa mere laashe ko
   Sharminda na karwaana
   Seh roz ke pyaase ko

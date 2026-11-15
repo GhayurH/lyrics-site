@@ -11,18 +11,18 @@ tags: []
 aliases: ["Qaidi Hoo Mai"]
 published: true
 romanLyrics: |-
-  Qaidi huṅ main Baba jaaṅ
+  Qaidi huṅ maiṅ Baba jaaṅ
   Ab shaahzaadi kahaaṅ
 
   1
   Na apna wo ghar hai na apna Madina
   Wo baaheṅ chacha ki tumhaara wo sina
-  Bolo Khudaara tum ho kahaaṅ main kahaaṅ
+  Bolo Khudaara tum ho kahaaṅ maiṅ kahaaṅ
 
   2
   Jis din se tum se juda ho gayi huṅ
-  Dekho to Baba main kya ho gayi huṅ
-  Ujra makaan hai rehti huṅ ab main jahaaṅ
+  Dekho to Baba maiṅ kya ho gayi huṅ
+  Ujra makaan hai rehti huṅ ab maiṅ jahaaṅ
 
   3
   Kehti na thi dekho na jaao Baba
@@ -31,13 +31,13 @@ romanLyrics: |-
 
   4
   Jaise hi naize pe tum aaye Baba
-  Main ne tamaache bahut khaaye Baba
+  Maiṅ ne tamaache bahut khaaye Baba
   Rukhsaar par hai abhi tak sitam ke nishaaṅ
 
   5
-  Maanga kanizi mein Baba kisi ne
+  Maanga kanizi meiṅ Baba kisi ne
   Phenka meri samt sadqa kisi ne
-  Paidal chali huṅ kaantoṅ ke main darmiyaaṅ
+  Paidal chali huṅ kaantoṅ ke maiṅ darmiyaaṅ
 
   6
   Milne ko ham se chale aao Baba

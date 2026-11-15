@@ -10,24 +10,24 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zainab ye dua karti thi har ek dua mein
-  Ya Rab hoṅ mere laal fida Karb o bala mein
+  Zainab ye dua karti thi har ek dua meiṅ
+  Ya Rab hoṅ mere laal fida Karb o bala meiṅ
 
   1
   Bach jaaye mera bhai mere laal guzar jaayeṅ
-  Ujre na chaman Fatima ka dasht-e-bala mein
+  Ujre na chaman Fatima ka dasht-e-bala meiṅ
 
   2
   Barh barh ke kaleje pe sinaṅ khaayeṅ to khush huṅ
-  Naam in ke raqam kar de shahidaan-e-wafa mein
+  Naam in ke raqam kar de shahidaan-e-wafa meiṅ
 
   3
   Sinoṅ pe sinaṅ khaa ke gireṅ khaak pe jis dam
-  Khush ho ke karuṅ sajda-e-shukraana ada main
+  Khush ho ke karuṅ sajda-e-shukraana ada maiṅ
 
   4
   Maqbul huiṅ Zainab-e-muztar ki duaaeṅ
-  Zainab ke pisar maare gaye Karb o bala mein
+  Zainab ke pisar maare gaye Karb o bala meiṅ
 
   5
   Thehro sar-e-Zainab se rida chhinne waaloṅ
@@ -35,7 +35,7 @@ romanLyrics: |-
 
   6
   Ta Shaam khule sar gayi Ahmad ki nawaasi
-  Sar apna jhukaaye hue Khaaliq ki raza mein
+  Sar apna jhukaaye hue Khaaliq ki raza meiṅ
 # source_id: nohayonline:70d10ea47a3557a85941
 # source_url: https://www.nohayonline.com/details_content.php?id=505
 # raw_sha256: ac41823423ff79b1ae74d375b60e97148bb3ae491793d8eaf20ae6b227db7936

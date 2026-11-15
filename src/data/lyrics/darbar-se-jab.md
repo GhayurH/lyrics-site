@@ -27,11 +27,11 @@ romanLyrics: |-
   3
   Baazu bhi ek zakhmi hua pehlu se haaye tha khuṅ rawaaṅ
   Ro kar sada Baba ko di tuti jo Zehra ki pasliyaaṅ
-  Is dard mein shaam o sahar beti Nabi ki roti rahi
+  Is dard meiṅ shaam o sahar beti Nabi ki roti rahi
 
   4
   Ye keh ke bas roti rahi Mohsin bhi mera maara gaya
-  Bhuluṅ gi main kaise use ye gham mujhe bas khaa jaaye ga
+  Bhuluṅ gi maiṅ kaise use ye gham mujhe bas khaa jaaye ga
   Is baat par sar pit kar beti Nabi ki roti rahi
 
   5
@@ -41,7 +41,7 @@ romanLyrics: |-
 
   6
   Safdar nahiṅ taab-e-bayaaṅ Mazhar kare ga ab kya raqam
-  Lafzoṅ mein kya kar paaye ga koi bayaaṅ ye Bibi ke gham
+  Lafzoṅ meiṅ kya kar paaye ga koi bayaaṅ ye Bibi ke gham
   Hai marsiya bas ek satar beti Nabi ki roti rahi
 # source_id: nohayonline:25c6b1c3d967f2b53b45
 # source_url: https://www.nohayonline.com/details_content.php?id=3126

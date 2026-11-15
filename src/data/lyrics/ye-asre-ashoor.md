@@ -19,9 +19,9 @@ romanLyrics: |-
   Husain ya Husain Husain ya Husain
 
   1
-  Hai Karbala mein Husain tanha
+  Hai Karbala meiṅ Husain tanha
   Khuda khair kare Khuda khair kare
-  Hai Karbala mein Husain tanha
+  Hai Karbala meiṅ Husain tanha
   Ye asr-e-Ashur hai ye asr-e-Ashur hai
   Husain ya Husain Husain ya Husain
 
@@ -52,19 +52,19 @@ romanLyrics: |-
   Laakhoṅ ne hai ghera hua
   Hai khun ke pyaase sabhi
   Aa kar bacha lo Fatima
-  Lahu mein tar hai tumhaara beta
+  Lahu meiṅ tar hai tumhaara beta
 
   6
   Jab Shimr ka khanjar chala
   Kat kar gira sukha gala
-  Tha bhai aur hamshir mein
+  Tha bhai aur hamshir meiṅ
   Sattar qadam ka faasla
   Na jaane Zainab ne kaise dekha
 
   7
   Ye arsh se aayi sada
-  Raazi huṅ main aa laut aa
-  Talwaar rakh kar niyam mein
+  Raazi huṅ maiṅ aa laut aa
+  Talwaar rakh kar niyam meiṅ
   Palte jo Shah-e-Karbala
   Ali ke bete ko sab ne maara
 

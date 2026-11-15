@@ -1,6 +1,6 @@
 ---
 title: "وہ علی تھے وہ علی ہیں علی رہیں گے سدا"
-alternateTitle: "Woh Ali The Woh Ali Hain Ali Raheṅ Ge Sada"
+alternateTitle: "Woh Ali The Woh Ali Haiṅ Ali Raheṅ Ge Sada"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -20,7 +20,7 @@ romanLyrics: |-
 
   3
   Do jahaanoṅ ke sabhi ilm ke maalik ne kaha
-  Is se har haal mein guzro ge hai Ali darwaaza
+  Is se har haal meiṅ guzro ge hai Ali darwaaza
 
   4
   Ali ko sochna aur dekhna ibaadat hai

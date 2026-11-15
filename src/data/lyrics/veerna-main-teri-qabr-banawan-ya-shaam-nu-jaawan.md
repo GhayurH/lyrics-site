@@ -1,6 +1,6 @@
 ---
 title: "ویرنا میں تیری قبر بناواں یا شام نوں جاواں"
-alternateTitle: "Veerna Main Teri Qabar Banaawaaṅ Ya Shaam Nu Jaawaaṅ"
+alternateTitle: "Veerna Maiṅ Teri Qabar Banaawaaṅ Ya Shaam Nu Jaawaaṅ"
 language: "Urdu"
 # Punjabi (Shahmukhi); language uses the available collection schema.
 lang: "ur"
@@ -10,23 +10,23 @@ tags: []
 aliases: ["Veerna Main Teri Qabr Banawan Ya Shaam Nu Jaawan"]
 published: true
 romanLyrics: |-
-  Veerna main teri qabar banaawaaṅ ya Shaam nu jaawaaṅ
+  Veerna maiṅ teri qabar banaawaaṅ ya Shaam nu jaawaaṅ
   Kave Zainab ujri jang Karbala di mukk gayi luttiyaaṅ gayiyaaṅ ridaawaaṅ
 
   1
   Kiveṅ Shaam lai jaawaaṅ Sajjad bimaar ae
   Hosh nai aaundi is nu eh sakht laachaar ae
-  Mainu samajh nai aaundi veeran disaa main kiveṅ ennu maut toṅ bachaawaaṅ
+  Mainu samajh nai aaundi veeran disaa maiṅ kiveṅ ennu maut toṅ bachaawaaṅ
 
   2
   Paa paa khaak siraaṅ vich is vaal lukaaye
   Ummat ne rassiyaaṅ de saanu zewar paaye
-  Main suneya eh veeran haaye Shaam de shehr diyaaṅ bohat aukhiyaaṅ ne raahwaaṅ
+  Maiṅ suneya eh veeran haaye Shaam de shehr diyaaṅ bohat aukhiyaaṅ ne raahwaaṅ
 
   3
-  Uth toṅ main latth payi aaṅ par ro nai sakdi
-  Laash utte pattharaaṅ da main dher haaṅ takdi
-  Mere hatth paaband hin kiveṅ laash toṅ main teri pattharaaṅ nu aa hathaawaaṅ
+  Uth toṅ maiṅ latth payi aaṅ par ro nai sakdi
+  Laash utte pattharaaṅ da maiṅ dher haaṅ takdi
+  Mere hatth paaband hin kiveṅ laash toṅ maiṅ teri pattharaaṅ nu aa hathaawaaṅ
 
   4
   Shaam shehr vich kis ne saade parde banaaune

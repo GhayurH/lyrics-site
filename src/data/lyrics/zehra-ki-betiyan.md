@@ -13,18 +13,18 @@ published: true
 romanLyrics: |-
   Khaime jala diye gaye jaayeṅ gi ab kahaaṅ
   Zehra ki betiyaaṅ
-  Baithi hui hai khaak pe maqtal mein beamaaṅ
+  Baithi hui hai khaak pe maqtal meiṅ beamaaṅ
   Zehra ki betiyaaṅ
 
   1
-  Jaaye kidhar na paas mein basti na koi ghar
+  Jaaye kidhar na paas meiṅ basti na koi ghar
   Sar se ridaaeṅ le gaye kuffaar chhin kar
   Ghaazi ko yaad karte hai le le ke hichkiyaaṅ
   Zehra ki betiyaaṅ
 
   2
   Saadaat ke khayaam se uthta hua dhuaaṅ
-  Wo aag mein ghire hue bachchoṅ ki siskiyaaṅ
+  Wo aag meiṅ ghire hue bachchoṅ ki siskiyaaṅ
   Bhuleṅ gi kaise Shaam-e-Gharibaaṅ ka ye samaaṅ
   Zehra ki betiyaaṅ
 
@@ -41,7 +41,7 @@ romanLyrics: |-
   Zehra ki betiyaaṅ
 
   5
-  Aashur ki wo subh nigaahoṅ mein phir gayi
+  Aashur ki wo subh nigaahoṅ meiṅ phir gayi
   Rote hue azaan suni jab jahaaṅ suni
   Akbar ke baad khaati rahi gham ki barchhiyaaṅ
   Zehra ki betiyaaṅ
@@ -49,7 +49,7 @@ romanLyrics: |-
   6
   Khuṅ ro raha naize pe Ibn-e-Ali ka sar
   Logoṅ ka ik hujum hai kaaṅtoṅ pe hai safar
-  Durre bhi khaaye raah mein ik pal ruki jahaaṅ
+  Durre bhi khaaye raah meiṅ ik pal ruki jahaaṅ
   Zehra ki betiyaaṅ
 
   7

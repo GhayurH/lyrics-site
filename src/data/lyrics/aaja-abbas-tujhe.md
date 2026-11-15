@@ -11,22 +11,22 @@ aliases: []
 published: true
 romanLyrics: |-
   Aaja Abbas tujhe ro ro bulaye Zainab
-  Kaise paaband-e-rasan Shaam mein jaaye Zainab
+  Kaise paaband-e-rasan Shaam meiṅ jaaye Zainab
 
   1
   Kya karuṅ ye to bata bhai nahiṅ sar pe rida
   Sar pe baba bhi nahiṅ kaun sune meri sada
-  Hukm zaalim ka hai darbaar mein aaye Zainab
+  Hukm zaalim ka hai darbaar meiṅ aaye Zainab
 
   2
   Mera baba hai Ali aur mera nana Nabi
-  Dard o gham seh ke bhi main din bacha kar huṅ chali
-  Shaam mein gunj rahi thi ye sada-e-Zainab
+  Dard o gham seh ke bhi maiṅ din bacha kar huṅ chali
+  Shaam meiṅ gunj rahi thi ye sada-e-Zainab
 
   3
-  Baad Shabbir ke saaye mein nahiṅ aayi Rubab
+  Baad Shabbir ke saaye meiṅ nahiṅ aayi Rubab
   Ghamzada behen ko is baat ka de bhai jawaab
-  Dhoop se usko bata kaise uthaye Zainab
+  Dhup se usko bata kaise uthaye Zainab
 
   4
   Shaam manzil hai meri bhai hai begor o kafan
@@ -34,7 +34,7 @@ romanLyrics: |-
   Baat ye tu hi bata kaise bhulaye Zainab
 
   5
-  Kya hai aasaan ye Khursheed bhala nauhagari
+  Kya hai aasaan ye Khurshid bhala nauhagari
   Jaante hai ye sukhanwar ke ye manzil hai kari
   Baat banti hai jo ho jaaye ata-e-Zainab
 # source_id: nohayonline:acb9429cee86f1b26165

@@ -1,6 +1,6 @@
 ---
 title: "جہاں حسین وہاں"
-alternateTitle: "Jahan Husain Wahaṅ"
+alternateTitle: "Jahaṅ Husain Wahaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -17,10 +17,10 @@ romanLyrics: |-
   Charaagh jalta raha
   Jo qaafila tha rawaaṅ wo qaafila hai rawaaṅ
   Safar ba nok-e-sinaaṅ sinaaṅ ke saath azaaṅ
-  Burida sar ki sadaaeṅ faza mein phail gayiṅ
-  Darichoṅ aanganoṅ galiyoṅ mein tapte sehra se
+  Burida sar ki sadaaeṅ faza meiṅ phail gayiṅ
+  Darichoṅ aanganoṅ galiyoṅ meiṅ tapte sehra se
   Zamin o arsh khilaaoṅ se aur fazaaoṅ se
-  Dinoṅ mein raat mein jangal mein kohsaaroṅ se
+  Dinoṅ meiṅ raat meiṅ jangal meiṅ kohsaaroṅ se
   Sadaaeṅ aane lagiṅ ashhadu an la ilaha illallah
 
   2
@@ -87,16 +87,16 @@ romanLyrics: |-
   La ilaha illallah
 
   9
-  Namaaz wo hai jo faaqoṅ mein Mustafa ne parhi
+  Namaaz wo hai jo faaqoṅ meiṅ Mustafa ne parhi
   Jaga ke apne hi qaatil ko Murtaza ne parhi
-  Jo chakkiyoṅ ki mashaqqat mein Faatima ne parhi
+  Jo chakkiyoṅ ki mashaqqat meiṅ Faatima ne parhi
   Gale laga ke zehr ko jo Mujtaba ne parhi
   Jo chaahta hai ke azmat namaaz ki dekheṅ
   Mere Husain ka wo sajda aakhri dekheṅ
   Parhi namaaz jo Aabid ne pusht-e-naaqa par
   Ada kiya jise Baaqir ne sakhtiyaṅ seh kar
   Bayaaṅ kiya jise Jafar ne bar sar-e-mimbar
-  Ruku mein barsoṅ rahe jis ke Kaazim-e-muztar
+  Ruku meiṅ barsoṅ rahe jis ke Kaazim-e-muztar
   Raza ne lab pe sari ar riza saja ke parhi
   Taqi ne taqwa-e-Bu Taalibi bata ke parhi
   Naqi ne naqwat-e-baatil mita mita ke parhi
@@ -113,7 +113,7 @@ romanLyrics: |-
   Hasan ki bewa Ruqayya Sakina ka sajda
   Tamaam Bibiyaṅ karti thiṅ sirf ek dua
   Mere Khuda hameṅ manzur kehte aab rahe
-  Husain apne iraadoṅ mein kaamyaab rahe
+  Husain apne iraadoṅ meiṅ kaamyaab rahe
   Sadaa-e-tishna labaaṅ la ilaha illallah
 
   Jahaṅ Husain wahaṅ la ilaha illallah
@@ -126,16 +126,16 @@ romanLyrics: |-
   Bas ek sajda-e-Shabbir ke siwa kya hai
   Husain hi ka gharaana bacha gaya mujh ko
   Wo khud ujar gaya lekin saja gaya mujh ko
-  Miyaan-e-Karb o Bala aah main ne kya dekha
-  Ghira lainoṅ mein kunba Rasul ka dekha
-  Batul zaadoṅ ko be aab o be ghiza dekha
+  Miyaan-e-Karb o Bala aah maiṅ ne kya dekha
+  Ghira lainoṅ meiṅ kunba Rasul ka dekha
+  Batul zaadoṅ ko beaab o beghiza dekha
   Bahaata paani udhar lashkar-e-jafa dekha
-  Namaaz parhte rahe dil mein iztiraab na tha
-  Guzar gaye the kai din ke ghar mein aab na tha
-  Bataauṅ kaise ke daswiṅ ko main ne kya dekha
+  Namaaz parhte rahe dil meiṅ iztiraab na tha
+  Guzar gaye the kai din ke ghar meiṅ aab na tha
+  Bataauṅ kaise ke daswiṅ ko maiṅ ne kya dekha
   Sahar hui to shahaadat ka silsila dekha
   Kisi ka sina to zakhmi koi gala dekha
-  Lab-e-Furaat alam khun mein bhara dekha
+  Lab-e-Furaat alam khun meiṅ bhara dekha
   Husain laashoṅ pe laasheṅ yuṅhi uthaate rahe
   Aur apni raah-e-shahaadat ki samt jaate rahe
   Kamar ruku ki tarah thi magar Husain uthe
@@ -150,20 +150,20 @@ romanLyrics: |-
   13
   Aayi sadaa-e-ghaib ibaadat ka waqt hai
   Ae Faatima ke laal tilaawat ka waqt hai
-  Jannat mein saf bandhi hai imaamat ka waqt hai
+  Jannat meiṅ saf bandhi hai imaamat ka waqt hai
   Bas bas Husain bas ye ibaadat ka waqt hai
-  Rakh li miyaan mein Shaah-e-waala ne Zulfiqaar
-  Wo ghol baandhe aaye kamaan daar das hazaar
+  Rakh li miyaan meiṅ Shaah-e-waala ne Zulfiqaar
+  Wo ghol baandhe aaye kamaaṅ daar das hazaar
   Wo beshumaar teghoṅ ke phal aur ek Husain
   Wo saikroṅ payaam-e-ajal aur ek Husain
-  Dube hue the khun mein gesu Husain ke
+  Dube hue the khun meiṅ gesu Husain ke
   Tiroṅ ne chhaan daale the pehlu Husain ke
 
   14
   Neze ka bine Wahaab ne pehlu pe kiya waar
   Kaandhe pe chali saath Zaraara ki bhi talwaar
   Naawak bin Kaahil ka kaleje ke hua waar
-  Baazu mein dar aaya tabar-e-Khuli-e-khun khaar
+  Baazu meiṅ dar aaya tabar-e-Khuli-e-khun khaar
   Tegheṅ upi hui jo baraabar se chal gayiṅ
   Ghash aa gaya qadam se rikaabeṅ nikal gayiṅ
 
@@ -177,13 +177,13 @@ romanLyrics: |-
   Wo kund tegh Zainab o Zehra pe chalti thi
   Maatam kunaṅ namaaz thi aur khun roti thi
   Jaari thi ye sada ke Nabi ka nawaasa huṅ
-  Ammaaṅ pilaao paani main pyaasa huṅ
+  Ammaaṅ pilaao paani maiṅ pyaasa huṅ
 
   16
   Ajab ada se jab namaazi namaaz parh ke gaya
   Behen ke saamne nok-e-sinaaṅ pe charh ke gaya
-  Nazar mein bhaai ke sajde ki aab o taab jo thi
-  Behen ne sar khule maqtal mein maghribain parhi
+  Nazar meiṅ bhaai ke sajde ki aab o taab jo thi
+  Behen ne sar khule maqtal meiṅ maghribain parhi
   Nazar ke saamne har mah laqa ki laash rahi
   Magar jale hue khaimoṅ ki jaanamaaz bichhi
   Gham-e-Husain ki barchhi utha gayi Zainab

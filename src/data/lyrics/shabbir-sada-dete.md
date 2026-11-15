@@ -12,8 +12,8 @@ published: true
 romanLyrics: |-
   Hal min naasirin yansuruna
 
-  Jaane kis haal mein Shabbir sada dete haiṅ
-  Ran mein soye hue laashe bhi utha dete haiṅ
+  Jaane kis haal meiṅ Shabbir sada dete haiṅ
+  Ran meiṅ soye hue laashe bhi utha dete haiṅ
 
   1
   Hausle se wo har ek laash uthaate hi rahe

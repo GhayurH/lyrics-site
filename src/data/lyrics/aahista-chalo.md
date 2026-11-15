@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Dimashq ka hai safar berida hai Aal-e-Nabi
   Na mehmil na kajawa hai na haudaj hai koi
-  Asir sab the magar ek hi rasan mein bandhe
+  Asir sab the magar ek hi rasan meiṅ bandhe
   Gala Sakina ka hai shaan-e-haram ke jakre hue
 
   Rasan jo khinchti hai karti hai Sakina nale
@@ -22,21 +22,21 @@ romanLyrics: |-
   Rassi se gala dukhta hai mera
 
   1
-  Hai ammaṅ gala is tarah jakra hai rasan mein
-  Do gaam bhi chalne ki nahiṅ jaan badan mein
+  Hai ammaṅ gala is tarah jakra hai rasan meiṅ
+  Do gaam bhi chalne ki nahiṅ jaan badan meiṅ
   Khulwado rasan kardo ye ehsaan
   Rassi se gala dukhta hai mera
 
   2
   Kis shaan se nikli thi sawari mere ghar se
-  Ammu mujhe khud laye the mehmil mein bitha ke
+  Ammu mujhe khud laye the mehmil meiṅ bitha ke
   Ek ye hai safar haye phuphi jaan
   Rassi se gala dukhta hai mera
 
   3
   Ye dekh ke rote haiṅ mere baba sinaṅ par
   Rone pe mujhe durre lagata hai sitamgar
-  Rote haiṅ isi ran mein chacha jaan
+  Rote haiṅ isi ran meiṅ chacha jaan
   Rassi se gala dukhta hai mera
 
   4
@@ -46,26 +46,26 @@ romanLyrics: |-
   Rassi se gala dukhta hai mera
 
   5
-  Main aap ke zakhmoṅ se bhi waaqif huṅ phuphi jaan
+  Maiṅ aap ke zakhmoṅ se bhi waaqif huṅ phuphi jaan
   Kuch waade nibhane haiṅ mujhe bar sar-e-zindaṅ
-  Bas kehti huṅ main ba haal-e-pareshan
+  Bas kehti huṅ maiṅ ba haal-e-pareshan
   Rassi se gala dukhta hai mera
 
   6
-  Mar jaye gi mar jaye gi is raah mein muztar
+  Mar jaye gi mar jaye gi is raah meiṅ muztar
   Dada ko sada deti huṅ har gaam tarap kar
   Ya Shaah-e-Najaf Sayyad-e-Zishan
   Rassi se gala dukhta hai mera
 
   7
-  Ae ammaṅ kaleje mein ulajhne lagi saanseiṅ
-  Ab aur safar karne ki taqat nahiṅ mujh mein
+  Ae ammaṅ kaleje meiṅ ulajhne lagi saanseiṅ
+  Ab aur safar karne ki taqat nahiṅ mujh meiṅ
   Ja paauṅ gi kya jaanib-e-zindan
   Rassi se gala dukhta hai mera
 
   8
   Ae Mazhar o Irfan Sakina ki fughaṅ par
-  Zainab ne kaha main bhi tarap jaati huṅ dukhtar
+  Zainab ne kaha maiṅ bhi tarap jaati huṅ dukhtar
   Jab kehti hai tu mujhse meri jaan
   Rassi se gala dukhta hai mera
 # source_id: nohayonline:5b0ec3e32a534ff02107

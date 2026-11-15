@@ -1,6 +1,6 @@
 ---
 title: "باپ کے غم میں سکینہ یوں دلاسے پائے گی"
-alternateTitle: "Baap Ke Gham Mein"
+alternateTitle: "Baap Ke Gham Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,12 +11,12 @@ tags: []
 aliases: ["Baap Ke Gham May"]
 published: true
 romanLyrics: |-
-  Baap ke gham mein Sakina yuṅ dilaase paayegi
+  Baap ke gham meiṅ Sakina yuṅ dilaase paayegi
   Jab bhi baba ko pukaaregi tamaanche khaayegi
 
   1
-  Apne baaloṅ mein basa kar apni turbat ke liye
-  Baap ke maqtal ki mitti qaid mein le aayegi
+  Apne baaloṅ meiṅ basa kar apni turbat ke liye
+  Baap ke maqtal ki mitti qaid meiṅ le aayegi
 
   2
   Kaisi ghurbat hai ke kurta laayegi beshir ka
@@ -27,16 +27,16 @@ romanLyrics: |-
   Shaam tak baali Sakina Fatima ban jaayegi
 
   4
-  Apne dur kaanoṅ mein us ke dekh kar royegi wo
+  Apne dur kaanoṅ meiṅ us ke dekh kar royegi wo
   Haaṅ magar Ramla ko jatlaate hue sharmaayegi
 
   5
   Nili par jaaye na kirneiṅ nila chehra dekh kar
-  Roshni zindaan mein jaate hue ghabraayegi
+  Roshni zindaan meiṅ jaate hue ghabraayegi
 
   6
   Maut hi Akbar sula paayegi us maasum ko
-  Apni aankhoṅ mein jo mayyat baap ki dafnaayegi
+  Apni aankhoṅ meiṅ jo mayyat baap ki dafnaayegi
 # source_id: nohayonline:c0b0b8cbd35ce8ebaec1
 # source_url: https://www.nohayonline.com/details_content.php?id=2308
 # raw_sha256: 8c4e71d08299db8952799405c8a02a9e0e49541f0997a3cee9807b4173179f39

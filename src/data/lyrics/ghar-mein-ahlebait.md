@@ -1,6 +1,6 @@
 ---
 title: "گھر میں اہل بیت کے ماتم ہے خیبر گیر کا"
-alternateTitle: "Ghar Mein Ahlebait"
+alternateTitle: "Ghar Meiṅ Ahlebait"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

@@ -1,6 +1,6 @@
 ---
 title: "بتاؤ اے بابا کہاں گئے عمو"
-alternateTitle: "Kahan Gaye Ammu"
+alternateTitle: "Kahaṅ Gaye Ammu"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -17,7 +17,7 @@ romanLyrics: |-
   Nazar alam nahiṅ aata kahaaṅ gaye Ammu
 
   1
-  Main ab na maaṅguṅ gi paani unheiṅ bula lijiye
+  Maiṅ ab na maaṅguṅ gi paani unheiṅ bula lijiye
   Ye kahiye roti hai dukhiya kahaaṅ gaye Ammu
 
   2

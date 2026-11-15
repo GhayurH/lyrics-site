@@ -29,7 +29,7 @@ romanLyrics: |-
   3
   Sarkaar alamdaar do aalam ka madadgaar
   Ali Hyder-e-Karraar
-  Piroṅ mein mera pir zabardast hai sarkaar
+  Piroṅ meiṅ mera pir zabardast hai sarkaar
   Ali Hyder-e-Karraar
 
   4
@@ -46,14 +46,14 @@ romanLyrics: |-
   5
   Sarkaar alamdaar do aalam ka madadgaar
   Ali Hyder-e-Karraar
-  Piroṅ mein mera pir zabardast hai sarkaar
+  Piroṅ meiṅ mera pir zabardast hai sarkaar
   Ali Hyder-e-Karraar
   Maula Maula Maula Ali un Waliullah
 
   6
   Allah ka anmol jo shahkaar bana hai
   Islam ka aala jo alamdaar bana hai
-  Mushkil mein jo nabiyoṅ ka madadgaar bana hai
+  Mushkil meiṅ jo nabiyoṅ ka madadgaar bana hai
   Wo saare imaamoṅ ka jo sardaar bana hai
   Kull-e-imaan hai Maula
   Din ki shaan hai Maula
@@ -65,34 +65,34 @@ romanLyrics: |-
   7
   Sarkaar alamdaar do aalam ka madadgaar
   Ali Hyder-e-Karraar
-  Piroṅ mein mera pir zabardast hai sarkaar
+  Piroṅ meiṅ mera pir zabardast hai sarkaar
   Ali Hyder-e-Karraar
   Maula Maula Maula Ali un Waliullah
 
   8
-  Saadaat ki pur azm qiyaadat mein Ali hai
-  Shabbir ke andaaz-e-ibaadat mein Ali hai
-  Sajjad ki Zainab ki khitaabat mein Ali hai
-  Abbas ke parcham ki jalaalat mein Ali hai
-  Ali Asghar mein bhi Maula
-  Ali Akbar mein bhi Maula
-  Aal-e-Athar mein bhi Maula
-  Haaṅ bahattar mein bhi Maula
+  Saadaat ki pur azm qiyaadat meiṅ Ali hai
+  Shabbir ke andaaz-e-ibaadat meiṅ Ali hai
+  Sajjad ki Zainab ki khitaabat meiṅ Ali hai
+  Abbas ke parcham ki jalaalat meiṅ Ali hai
+  Ali Asghar meiṅ bhi Maula
+  Ali Akbar meiṅ bhi Maula
+  Aal-e-Athar meiṅ bhi Maula
+  Haaṅ bahattar meiṅ bhi Maula
   Hai paak gharaana tera Islam ka memaar
   Ali Hyder-e-Karraar
 
   9
   Sarkaar alamdaar do aalam ka madadgaar
   Ali Hyder-e-Karraar
-  Piroṅ mein mera pir zabardast hai sarkaar
+  Piroṅ meiṅ mera pir zabardast hai sarkaar
   Ali Hyder-e-Karraar
   Maula Maula Maula Ali un Waliullah
 
   10
   Sarkaar ye sab aap ki zauja ki dua hai
-  Ghar ghar mein jo ye maatam-e-saadaat bapa hai
+  Ghar ghar meiṅ jo ye maatam-e-saadaat bapa hai
   Har dil tere bachchoṅ ka aza khaana bana hai
-  Aaṅkheṅ haiṅ Najaf dil mein basi Karbobala hai
+  Aaṅkheṅ haiṅ Najaf dil meiṅ basi Karbobala hai
   Ham azaadaar haiṅ Maula
   Ham wafaadaar haiṅ Maula
   Tere ghamkhwaar haiṅ Maula
@@ -108,13 +108,13 @@ romanLyrics: |-
   Shaah-e-mardaaṅ sher-e-Yazdaaṅ
   Quwwat-e-Parwardigaar
   La fata illa Ali la saif illa Zulfiqaar
-  Be Ali-in be Ali-in be Ali-in be Ali
+  Beali-in beali-in beali-in beali
 
   13
-  Meri har fikr mein har soch mein rehta hai Ali
-  Nur ban kar meri aaṅkhoṅ mein chamakta hai Ali
-  Ishq ban kar meri saaṅsoṅ mein samaaya hai Ali
-  Misl-e-Quran mere dil mein dharakta hai Ali
+  Meri har fikr meiṅ har soch meiṅ rehta hai Ali
+  Nur ban kar meri aaṅkhoṅ meiṅ chamakta hai Ali
+  Ishq ban kar meri saaṅsoṅ meiṅ samaaya hai Ali
+  Misl-e-Quran mere dil meiṅ dharakta hai Ali
   Abr-e-rahmat ki tarah mujh pe barasta hai Ali
 
   14

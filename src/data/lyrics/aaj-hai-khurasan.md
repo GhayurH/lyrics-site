@@ -41,7 +41,7 @@ romanLyrics: |-
   Ek behan pe tuta hai bhai ka ye gham kaisa
   Khaak ura ke roti hai aaj Qum ki Masuma
   Keh rahi haiṅ ro ro kar mar gaya mera bhaiya
-  Kya karuṅ main ab ji kar kaun hai mera humdam
+  Kya karuṅ maiṅ ab ji kar kaun hai mera humdam
 
   6
   Aa gaya Taqi par hai daur ab yatimi ka

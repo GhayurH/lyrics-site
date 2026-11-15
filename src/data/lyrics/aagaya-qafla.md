@@ -14,8 +14,8 @@ romanLyrics: |-
   Sadaat watan aa gaye
   Bibi Fizza ka hai marsiya
   Jit ke jang-e-Karbobala
-  Lut ke pardes mein
-  Laut kar des mein
+  Lut ke pardes meiṅ
+  Laut kar des meiṅ
   Aa gaya aa gaya qafla aa gaya
 
   1
@@ -29,13 +29,13 @@ romanLyrics: |-
   Karbala ke yatimoṅ ka hai qafla
 
   3
-  Pahunchi Sughra ke kaanoṅ mein jab ye sada
+  Pahunchi Sughra ke kaanoṅ meiṅ jab ye sada
   Khaak uraane lagi gham se wo mah laqa
   Ye sada sun ke dil ho gaya Karbala
 
   4
   Bibi Fizza ne Sughra se phir ye kaha
-  Aa sunaauṅ tujhe main wo sab maajra
+  Aa sunaauṅ tujhe maiṅ wo sab maajra
   Kaise Aal-e-Muhammad ko luta gaya
 
   5
@@ -46,7 +46,7 @@ romanLyrics: |-
   6
   Hum shabih-e-Payambar ke neza laga
   Tere Asghar ki gardan pe tir-e-jafa
-  Laasha maqtal mein Qasim ka raunda gaya
+  Laasha maqtal meiṅ Qasim ka raunda gaya
 
   7
   Baad-e-Abbas zulm o sitam ka safar

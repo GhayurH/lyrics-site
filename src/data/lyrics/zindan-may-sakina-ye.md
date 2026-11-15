@@ -11,17 +11,17 @@ tags: []
 aliases: ["Zindan May Sakina Ye"]
 published: true
 romanLyrics: |-
-  Zindaaṅ mein Sakina ye buka karti thi ro kar
+  Zindaaṅ meiṅ Sakina ye buka karti thi ro kar
   Dam ghutta hai ammaaṅ mera ab yaaṅ se chalo ghar
 
   1
   Kya andhera hai dikhaai nahiṅ deta kuchh bhi
   Haath rakhta nahiṅ ammaaṅ mere sar par koi
-  Aur chand roz mein mar jaauṅ gi main ghut ghut kar
+  Aur chand roz meiṅ mar jaauṅ gi maiṅ ghut ghut kar
 
   2
   Khuṅ bhara kurta badal do mera pyaari ammaaṅ
-  Apni godi mein sula lo mujhe waari ammaaṅ
+  Apni godi meiṅ sula lo mujhe waari ammaaṅ
   Sone deta nahiṅ ik pal bhi mujhe ye hijr-e-pidar
 
   3
@@ -32,7 +32,7 @@ romanLyrics: |-
   4
   Tum to kehti thi rihaai ki ghari aa pahuṅchi
   Aisa lagta hai judaai ki ghari aa pahuṅchi
-  Khwaab mein aaye the mere abhi dada Haidar
+  Khwaab meiṅ aaye the mere abhi dada Haidar
 
   5
   Pyaas se khushk hai rassi se gala hai zakhmi
@@ -41,12 +41,12 @@ romanLyrics: |-
 
   6
   Khaak pe soti huṅ baba ka nahiṅ hai sina
-  Kitna dushwaar hai is ranj o mihan mein jina
+  Kitna dushwaar hai is ranj o mihan meiṅ jina
   Raat din roti huṅ kar de koi baba ko khabar
 
   7
   Nind aati na thi Rehaan jise woh bachchi
-  So gayi Shaam ke zindaaṅ mein ye kehti hui
+  So gayi Shaam ke zindaaṅ meiṅ ye kehti hui
   Chain se souṅ gi zindaaṅ se jab jaauṅ gi ghar
 # source_id: nohayonline:584c7feda59fcfc9e329
 # source_url: https://www.nohayonline.com/details_content.php?id=1614

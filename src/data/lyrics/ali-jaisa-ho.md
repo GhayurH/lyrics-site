@@ -23,7 +23,7 @@ romanLyrics: |-
   Tum Aal-e-Nabi ki aan bano
   Wallah mard-e-maidaṅ bano
   Ae Mominoṅ kaam wo kar jaana
-  Sajde mein sar ko katwaana
+  Sajde meiṅ sar ko katwaana
   Ali jaisa ho Ali jaisa
 
   2
@@ -36,15 +36,15 @@ romanLyrics: |-
   3
   Wo tauq-e-garaṅ wo zanjireṅ
   Wo pusht pe zulm ki tahrireṅ
-  Baazaar-e-sitam mein tafsireṅ
-  Khutbe mein wo lehja apnaana
+  Baazaar-e-sitam meiṅ tafsireṅ
+  Khutbe meiṅ wo lehja apnaana
   Ali jaisa ho Ali jaisa
 
   4
   Shabbir ka sina yaad rahe
   Mazlum Sakina yaad rahe
   Itrat ka nagina yaad rahe
-  Mushkil mein na tera ghabraana
+  Mushkil meiṅ na tera ghabraana
   Ali jaisa ho Ali jaisa
 
   5

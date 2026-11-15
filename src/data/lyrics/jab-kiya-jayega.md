@@ -10,7 +10,7 @@ tags: []
 aliases: ["Jab Kiya Jayega"]
 published: true
 romanLyrics: |-
-  Jab kiya jaaye ga mahshar mein ibaadat ka sawaal
+  Jab kiya jaaye ga mahshar meiṅ ibaadat ka sawaal
   Aaye ga Aal-e-Payambar ki mohabbat ka sawaal
 
   1
@@ -26,7 +26,7 @@ romanLyrics: |-
   Saamne hota na gar Naana ki ummat ka sawaal
 
   4
-  Baap ki aaghosh mein Asghar humak kar aa gaye
+  Baap ki aaghosh meiṅ Asghar humak kar aa gaye
   Jab kiya Sarwar ne imaaṅ ki himaayat ka sawaal
 
   5
@@ -34,7 +34,7 @@ romanLyrics: |-
   Ik taraf din-e-Ilaahi aur nusrat ka sawaal
 
   6
-  Puchha Qasim ne chale aayeṅ ge kya ghar mein adu
+  Puchha Qasim ne chale aayeṅ ge kya ghar meiṅ adu
   Aaya jab nanhe se Asghar ki shahaadat ka sawaal
 # source_id: nohayonline:c15e957c4af7011f8d64
 # source_url: https://www.nohayonline.com/details_content.php?id=1101

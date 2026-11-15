@@ -1,6 +1,6 @@
 ---
 title: "ذوالجناح نام ہے شبیر کا رہوار ہوں میں"
-alternateTitle: "Zuljanah Naam Hai Shabir Ka Rahwar Hoon Main"
+alternateTitle: "Zuljanah Naam Hai Shabir Ka Rahwar Huṅ Maiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -19,76 +19,76 @@ published: true
 romanLyrics: |-
 
   1
-  Zuljanah Naam Hai Shabir Ka Rahwar Hoon Main
-  Noor-e-Awal Ki Qasam Sahmil-e-Anwaar Hoon Main
-  Khud Wafadar Yeh Kehte Hain Wafadar Hoon Main
-  Mere Hum Jins Jo Hain Unka Alamdar Hoon Main
+  Zuljanah Naam Hai Shabir Ka Rahwar Huṅ Maiṅ
+  Nur-e-Awal Ki Qasam Sahmil-e-Anwaar Huṅ Maiṅ
+  Khud Wafadar Yeh Kehte Haiṅ Wafadar Huṅ Maiṅ
+  Mere Hum Jins Jo Haiṅ Unka Alamdar Huṅ Maiṅ
   Jab Se Allah Ne Iss Dar Ki Ghulami Di Hai
-  Mujh Ko Aa Aa Ke Farishton Ne Salami Di Hai
+  Mujh Ko Aa Aa Ke Farishtoṅ Ne Salami Di Hai
 
   2
   Woh Jo Hai Shafa-e-Batha Woh Hai Aaqa Mera
-  Jis Ki Thokar Mein Hai Dunya Woh Hai Aaqa Mera
-  Jis Ke Sajday Mein Hai Kaba Woh Hai Aaqa Mera
+  Jis Ki Thokar Meiṅ Hai Dunya Woh Hai Aaqa Mera
+  Jis Ke Sajde Meiṅ Hai Kaba Woh Hai Aaqa Mera
   Jo Hai Abbas Ka Aaqa Woh Hai Aaqa Mera
-  Noor Ko Jiss Ne Uthaya Woh Amari Main Hoon
-  Dosh-e-Ahmad Ke Sawaron Ki Sawari Main Hoon
+  Nur Ko Jiss Ne Uthaya Woh Amari Maiṅ Huṅ
+  Dosh-e-Ahmad Ke Sawaroṅ Ki Sawari Maiṅ Huṅ
 
   3
   Dar-e-Imran Ne Bakhsha Hai Yeh Faizan Mujhe
-  Rooz-e-Awal Se Hai Tuheed Pe Eman Mujhe
-  Had-e-Mumkin Mein Nahi La Saka Imkan Mujhe
+  Ruz-e-Awal Se Hai Tuhid Pe Eman Mujhe
+  Had-e-Mumkin Meiṅ Nahi La Saka Imkan Mujhe
   Janwar Hai Woh Samajta Hai Jo Haiwan Mujhe
-  Aayton Mein Ba-Khuda Zikar Mera Aaya Hai
-  Meri Tapoon Ki Tu Allah Qasam Khata Hai
+  Aaytoṅ Meiṅ Ba-Khuda Zikar Mera Aaya Hai
+  Meri Tapuṅ Ki Tu Allah Qasam Khata Hai
 
   4
   Nisbat-e-Khas Yeh Rakhi Hai Taharat Mujh Se
-  Door Allah Ne Rakhi Hai Nijasat Mujh Se
-  Batein Karti Rahi Allah Ki Aayat Mujh Se
-  Kitna Khush Bakht Hoon Main Khush Hai Imamat Mujh Se
-  Rab-e-Kaba Ki Qasam Youn Bhi Ibadat Ki Hai
-  Main Ne Allah Ke Chehre Ki Ziyarat Ki Hai
+  Dur Allah Ne Rakhi Hai Nijasat Mujh Se
+  Bateiṅ Karti Rahi Allah Ki Aayat Mujh Se
+  Kitna Khush Bakht Huṅ Maiṅ Khush Hai Imamat Mujh Se
+  Rab-e-Kaba Ki Qasam Youṅ Bhi Ibadat Ki Hai
+  Maiṅ Ne Allah Ke Chehre Ki Ziyarat Ki Hai
 
   5
-  Hai Azadar Zamane Mein Dua-e-Zahra
+  Hai Azadar Zamane Meiṅ Dua-e-Zahra
   Hai Azadar Ke Humrah Wila-e-Zahra
   Hai Azadar Pe Har Gaam Ata-e-Zahra
   Saya Karti Hai Sada Oss Pe Rida-e-Zahra
-  Har Azadari-e-Shabir Ka Maimar Hoon Main
-  Barsar-e-Lasha-e-Sheh Pehle Azadar Hoon Main
+  Har Azadari-e-Shabir Ka Maimar Huṅ Maiṅ
+  Barsar-e-Lasha-e-Sheh Pehle Azadar Huṅ Maiṅ
 
   6
-  Amar-e-Khaliq Se Main Anwar Ke Paikar Mein Dhala
+  Amar-e-Khaliq Se Maiṅ Anwar Ke Paikar Meiṅ Dhala
   Shab-e-Asra Meri Raftar Se Buraq Chala
   Kab Samaj Paya Zamana Mere Rutbe Ko Bhala
-  Jahan Hasnain Pale Main Bhi Ossi Ghar Mein Pala
-  Dana Shehzadi Ne Palu Mein Khilaya Hai Mujhe
+  Jahaṅ Hasnain Pale Maiṅ Bhi Ossi Ghar Meiṅ Pala
+  Dana Shehzadi Ne Palu Meiṅ Khilaya Hai Mujhe
   Pani Saqa-e-Sakina Ne Pilaya Hai Mujhe
 
   7
-  Shair-e-Allah Se Payi Hai Shujat Main Ne
-  Sath Shabir Ke Ki Dein Ki Nusrat Main Ne
-  Payi Kuch Iss Liye Aalam Mein Yeh Azmat Main Ne
-  Ki Hai Shabir o Alamdar Ki Baiyat Main Ne
-  Dil-e-Momin Mein Sada Meri Aqeedat Ho Gi
-  Hashar Tak Meri Shabeehon Ki Ziyarat Ho Gi
+  Shair-e-Allah Se Payi Hai Shujat Maiṅ Ne
+  Sath Shabir Ke Ki Dein Ki Nusrat Maiṅ Ne
+  Payi Kuch Iss Liye Aalam Meiṅ Yeh Azmat Maiṅ Ne
+  Ki Hai Shabir o Alamdar Ki Baiyat Maiṅ Ne
+  Dil-e-Momin Meiṅ Sada Meri Aqidat Ho Gi
+  Hashar Tak Meri Shabihoṅ Ki Ziyarat Ho Gi
 
   8
-  Shukar-e-Khaliq Ke Mujhe Bait-e-Payamber Mein Rakha
-  Do Jahan Jis Ke Gadagar Hain Ossi Ghar Mein Rakha
-  Kissi Batil Na Kissi Ghair Ke Chakar Mein Rakha..
-  Jab Bhi Rakha Mujhe Islam Ke Lashkar Mein Rakha
-  Zeen Jab Bhi Sheh-e-Wala Ne Sunwari Hai Meri
+  Shukar-e-Khaliq Ke Mujhe Bait-e-Payamber Meiṅ Rakha
+  Do Jahaṅ Jis Ke Gadagar Haiṅ Ossi Ghar Meiṅ Rakha
+  Kissi Batil Na Kissi Ghair Ke Chakar Meiṅ Rakha..
+  Jab Bhi Rakha Mujhe Islam Ke Lashkar Meiṅ Rakha
+  Zin Jab Bhi Sheh-e-Wala Ne Sunwari Hai Meri
   Khud Nazar-e-Sani-e-Zahra Ne Utari Hai Meri
 
   9
-  Zuljinah Karta Hai Ae Noor Ali Ab Yeh Kalam
-  Sath Qayam Ke Karon Ga Main Sar-e-Dahar Qiyam
+  Zuljinah Karta Hai Ae Nur Ali Ab Yeh Kalam
+  Sath Qayam Ke Karoṅ Ga Maiṅ Sar-e-Dahar Qiyam
   Sare Aalam Ko Samaj Aaye Ga Tab Mera Muqam
   Jab Meri Pusht Pe Aaye Ga Zamane Ka Imam
-  Chashm-e-Aagah Ko Main Deed Panahi Doon Ga
-  Main Unhein Sare Shaheedon Ki Gawahi Doon Ga
+  Chashm-e-Aagah Ko Maiṅ Did Panahi Duṅ Ga
+  Maiṅ Unheiṅ Sare Shahidoṅ Ki Gawahi Duṅ Ga
 ---
 
 ۱

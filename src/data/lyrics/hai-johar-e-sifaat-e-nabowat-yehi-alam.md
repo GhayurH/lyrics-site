@@ -22,48 +22,48 @@ romanLyrics: |-
   Hai Manzalat Shanas-e-Imamat Yehi Alam
   Hai Hum Mizaj-e-Bazm-e-Taharat Yehi Alam
   Hai Rehnumaye Mulk-e-Shifat Yehi Alam
-  Mehshar Mein Dast-e-Shafa-e-Mehshar Pe Aaye Ga
+  Mehshar Meiṅ Dast-e-Shafa-e-Mehshar Pe Aaye Ga
   Panje Se Iss Ke Kya Koi Panja Milaye Ga
 
   2
-  Washams Walqamar Ka Bhi Panje Mein Noor Hai
-  Walfajar Ki Sehar Ka Bhi Panje Mein Noor Hai
-  Walnajam Se Samar Ka Bhi Panje Mein Noor Hai
-  Walail Ke Safar Ka Bhi Panje Mein Noor Hai
-  Panja Shabeeh-e-Dast-e-Imam-e-Anam Hai
+  Washams Walqamar Ka Bhi Panje Meiṅ Nur Hai
+  Walfajar Ki Sehar Ka Bhi Panje Meiṅ Nur Hai
+  Walnajam Se Samar Ka Bhi Panje Meiṅ Nur Hai
+  Walail Ke Safar Ka Bhi Panje Meiṅ Nur Hai
+  Panja Shabih-e-Dast-e-Imam-e-Anam Hai
   Matlab Yeh Hai Ke Bait-e-Fasiq Haram Hai
 
   3
-  Sibt-e-Rasool Waris-e-Aousaf-e-Anbiya
+  Sibt-e-Rasul Waris-e-Aousaf-e-Anbiya
   Kehte The Har Nabi Ki Wirasat Hai Yeh Lawa
-  Yeh Oss Ko Doon Ga Jo Ho Shujat Mein Murtaza
-  Jis Mein HO Zabt Josh Zakawat Haya Wafa
+  Yeh Oss Ko Duṅ Ga Jo Ho Shujat Meiṅ Murtaza
+  Jis Meiṅ HO Zabt Josh Zakawat Haya Wafa
   Islam Ke Waqar Ka Akas Hai Alam
   Matlab Yeh Tha Wirasat-e-Abbas Hai Alam
 
   4
-  Ghazi Hai Noor-e-Alam Ujala Hai Yeh Alam
-  Woh Mah-e-Hashmi Hain Tu Hala Hai Yeh Alam
+  Ghazi Hai Nur-e-Alam Ujala Hai Yeh Alam
+  Woh Mah-e-Hashmi Haiṅ Tu Hala Hai Yeh Alam
   Shair-e-Khuda Ki Gaud Ka Pala Hai Yeh Alam
   Ab Shair Ke Pisar Ne Sanbhala Hai Yeh Alam
-  Panje Mein Hai Chamak Dil-e-Ghazi Ke Noor Se
-  Boo-e-Wafa Phareray Mein Aati Hai Door Se
+  Panje Meiṅ Hai Chamak Dil-e-Ghazi Ke Nur Se
+  Boo-e-Wafa Pharere Meiṅ Aati Hai Dur Se
 
   5
-  Anwar-e-Ahl-e-Bait Ki Tanveer Hai Alam
-  Do Bazo-e-Buredah Ki Tameer Hai Alam
-  Pani Ki Bond Bond Pe Tehreer Hai Alam
-  Abbas-e-Naamdar Ki Tasveer Hai Alam
+  Anwar-e-Ahl-e-Bait Ki Tanvir Hai Alam
+  Do Bazo-e-Buredah Ki Tamir Hai Alam
+  Pani Ki Bond Bond Pe Tehrir Hai Alam
+  Abbas-e-Naamdar Ki Tasvir Hai Alam
   Har Qalb-e-Haq Pasand Ka Akas Ho Giya
   Ab Tu Alam Ka Nam Hi Abbas Ho Giya
 
   6
-  Makhzan Atta Ka Manba-e-Jood o Sakha Alam
-  Maskeeno Ka Ghareebon Ka Hai Aasra Alam
+  Makhzan Atta Ka Manba-e-Jud o Sakha Alam
+  Maskino Ka Ghariboṅ Ka Hai Aasra Alam
   Qaidi Ko Hur Banaye Fana Ko Baqa Alam
-  Har Toote Dill Ki Aas Ghamo Ki Dawa Alam
-  Thama Alam Tu Dill Mein Yeh Ahsas Aa Giya
-  Hathon Mein Jaise Daman-e-Abbas Aa Giya
+  Har Tute Dill Ki Aas Ghamo Ki Dawa Alam
+  Thama Alam Tu Dill Meiṅ Yeh Ahsas Aa Giya
+  Hathoṅ Meiṅ Jaise Daman-e-Abbas Aa Giya
 
   7
   Abbas Azm o Himat o Zabt-e-Waga Ka Naam
@@ -71,15 +71,15 @@ romanLyrics: |-
   Abbas Hai Jahan-e-Wafa Ke Khuda Ka Naam
   Abbas Mudua-e-Dill-e-Fatima Ka Naam
   Taat Guzar Bad Sheh-e-Mashreqain Hai
-  Abbas Fatima Ki Nazar Mein Husain Hai
+  Abbas Fatima Ki Nazar Meiṅ Husain Hai
 
   8
-  Hai Parcham-e-Shaoor Ki Har Soo Kahaniyaan
-  Amrica Aur Jazair-e-Euorup Ki Kehkishaan
-  Har Mulk Mein Pohanch Giya Abbas Ka Nishaan
-  Majid Baqool-e-Najam-e-Sukhan Sanj o Nuqta Daan
-  Abbas Namwaar Ka Alam Le Ke Jaein Gaye
-  Hum Chand Par Husain Ka Gham Le Ke Jaein Gaye
+  Hai Parcham-e-Shaur Ki Har Su Kahaniyaaṅ
+  Amrica Aur Jazair-e-Euorup Ki Kehkishaaṅ
+  Har Mulk Meiṅ Pohanch Giya Abbas Ka Nishaaṅ
+  Majid Baqul-e-Najam-e-Sukhan Sanj o Nuqta Daaṅ
+  Abbas Namwaar Ka Alam Le Ke Jaeiṅ Gaye
+  Hum Chand Par Husain Ka Gham Le Ke Jaeiṅ Gaye
 ---
 
 ۱

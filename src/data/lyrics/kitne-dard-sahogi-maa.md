@@ -42,7 +42,7 @@ romanLyrics: |-
 
   5
   Bole Shah jab ziṅ se giruṅ ga
-  Ammaṅ main tiroṅ pe rahuṅ ga
+  Ammaṅ maiṅ tiroṅ pe rahuṅ ga
   Degi sada phir halq-e-burida
   Kitne dard saho gi maaṅ
 
@@ -55,13 +55,13 @@ romanLyrics: |-
   7
   Bachche mere pyaase hi raheṅ ge
   Barchhiyaaṅ sinoṅ par khaayeṅ ge
-  Jab ke nikaaluṅ ga main neza
+  Jab ke nikaaluṅ ga maiṅ neza
   Kitne dard saho gi maaṅ
 
   8
   Kaise Mubarak likhe masaaib
   Gham bhi hai Irfan ajaaib
-  Karbobala mein kaun hai kehta
+  Karbobala meiṅ kaun hai kehta
 
   9
   Sunte sunte mar gayi Bibi

@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Aati hai masjid-e-Kufa se sada haye Ali
-  Qatl sajde mein hua sher-e-Khuda haye Ali
+  Qatl sajde meiṅ hua sher-e-Khuda haye Ali
 
   1
   Aaj bhi masjid-e-Kufa hai gawaahi is ki
@@ -20,7 +20,7 @@ romanLyrics: |-
 
   2
   Zakhm jo maaṅ ki shahaadat ka laga tha dil par
-  Dil mein phir Hasnain ke taaza hua haye Ali
+  Dil meiṅ phir Hasnain ke taaza hua haye Ali
 
   3
   Tar hue mimbar o mihraab Ali ke khun se

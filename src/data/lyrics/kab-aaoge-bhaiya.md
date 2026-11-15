@@ -20,7 +20,7 @@ romanLyrics: |-
   1
   Yehi baat rehti hai aksar zabaaṅ par
   Mujhe bhul baithe ho tum dur jaa kar
-  Akele Madine mein darti huṅ bhaiya
+  Akele Madine meiṅ darti huṅ bhaiya
   Kab aaoge bhaiya kab aaoge bhaiya
 
   2
@@ -48,14 +48,14 @@ romanLyrics: |-
   Kab aaoge bhaiya kab aaoge bhaiya
 
   6
-  Main dehliz par aa ke baithi rahuṅ gi
-  Tum aawaaz doge to main bol duṅ gi
+  Maiṅ dehliz par aa ke baithi rahuṅ gi
+  Tum aawaaz doge to maiṅ bol duṅ gi
   Agar bhejna khat to itna bataana
   Kab aaoge bhaiya kab aaoge bhaiya
 
   7
-  Ruke hi nahiṅ ashk aankhoṅ mein Ishrat
-  Hui sogwaaroṅ mein barpa qayaamat
+  Ruke hi nahiṅ ashk aankhoṅ meiṅ Ishrat
+  Hui sogwaaroṅ meiṅ barpa qayaamat
   Parha jis ne nauha suna jis ne nauha
   Kab aaoge bhaiya kab aaoge bhaiya
 # source_id: nohayonline:5bf6e1242f67f6545ad3

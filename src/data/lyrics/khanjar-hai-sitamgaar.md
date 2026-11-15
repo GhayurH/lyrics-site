@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Khanjar hai sitamgaar ka pyaase ka gala hai
-  Zainab gharib dasht mein mashghul-e-buka hai
+  Zainab gharib dasht meiṅ mashghul-e-buka hai
 
   1
   Sar nange Nabi zaadiyaaṅ darbaar saja hai
@@ -23,8 +23,8 @@ romanLyrics: |-
   Kuchh sharm karo saani-e-Zehra ki rida hai
 
   3
-  Maqtal mein Shaah-e-din ka dil ho gaya tukre
-  Neza jo jawaaṅ laal ke sine mein dhansa hai
+  Maqtal meiṅ Shaah-e-din ka dil ho gaya tukre
+  Neza jo jawaaṅ laal ke sine meiṅ dhansa hai
 
   4
   Ghar baar diya Shaah ne sar ko bhi kataaya
@@ -32,7 +32,7 @@ romanLyrics: |-
 
   5
   Ye khun-e-Husain ibn-e-Ali ka hai maujiza
-  Parvez suno haq ki azaanoṅ mein sada hai
+  Parvez suno haq ki azaanoṅ meiṅ sada hai
 # source_id: nohayonline:28be3430494462092f0e
 # source_url: https://www.nohayonline.com/details_content.php?id=1770
 # raw_sha256: 179773144c3057e1aa78799aa69ff2ef84a6a87ece545075b70e3d9f648c6aa8

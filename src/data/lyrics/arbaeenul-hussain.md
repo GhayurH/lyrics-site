@@ -1,6 +1,6 @@
 ---
 title: "اربعیں اربعیں اربعین الحسین"
-alternateTitle: "Arbaeenul Hussain"
+alternateTitle: "Arbaeenul Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -25,7 +25,7 @@ romanLyrics: |-
   2
   Ye su-e-Karbala paidal jo chalna hai
   Sajjad o Zainab ki ghurbat ka pursa hai
-  Manzar ye baatil ki neendeṅ uraata hai
+  Manzar ye baatil ki nindeṅ uraata hai
   Labbaik ya Husain ka har su naara hai
   Ye taziyat Husain teri nusrat Husain
   Hai ye payaam-e-aza o wila

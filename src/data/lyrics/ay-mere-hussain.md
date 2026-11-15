@@ -18,7 +18,7 @@ romanLyrics: |-
 
   1
   Alqama pe jab alam gira
-  Gunji ye taraai mein sada
+  Gunji ye taraai meiṅ sada
   Al-madad ae Shaah-e-Karbala
   Kehta hai ghulaam as-salaam
 
@@ -37,7 +37,7 @@ romanLyrics: |-
   4
   Ae Habib ae Hur-e-jari
   Aun o Akbar o mere akhi
-  Yuṅ hi saare dard mein ghiri
+  Yuṅ hi saare dard meiṅ ghiri
   Mere nek naam as-salaam
 
   5
@@ -47,7 +47,7 @@ romanLyrics: |-
   Mere la-laqaam as-salaam
 
   6
-  Main ne ye kalaam jo likha
+  Maiṅ ne ye kalaam jo likha
   Is ko nazr-e-shaah kar diya
   Hai yahiṅ pe Mohsin ab mera
   Harf-e-istetaam as-salaam

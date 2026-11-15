@@ -1,6 +1,6 @@
 ---
 title: "کربلا میں کیا بتائیں ہم نے کیا کیا دیکھا"
-alternateTitle: "Karbala Mein Kya"
+alternateTitle: "Karbala Meiṅ Kya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,8 +10,8 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Karbala mein kya bataayeṅ hum ne kya kya dekha
-  Hum ne laakhoṅ mein hai Shabbir ko tanha dekha
+  Karbala meiṅ kya bataayeṅ hum ne kya kya dekha
+  Hum ne laakhoṅ meiṅ hai Shabbir ko tanha dekha
 
   1
   Yuṅ to paani ko hai bechain pyaase kitne

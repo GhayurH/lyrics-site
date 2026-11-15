@@ -16,24 +16,24 @@ romanLyrics: |-
   Sog mana lo duniya waloṅ
 
   1
-  Karbobala mein sheroṅ ka ek hi naara hai
+  Karbobala meiṅ sheroṅ ka ek hi naara hai
   Sar kat ke shahaadat ka andaaz niraala hai
 
   2
   Sher gira Abbas gira ran saara kaanpa hai
-  Gumbad Masjid-e-Nabawi ka sog mein girya hai
+  Gumbad Masjid-e-Nabawi ka sog meiṅ girya hai
 
   3
   Chiraagh-e-Hasan bhi kafan sar se baandhe
   Chale Karbala ko chale
-  Nishaani Hasan ki dulha ran mein ban ke
-  Lare Karbala mein lare
+  Nishaani Hasan ki dulha ran meiṅ ban ke
+  Lare Karbala meiṅ lare
   Ibn-e-Hasan Qasim ka tan paara paara hai
   Dulhan ki taqdir ka duba taara hai
 
   4
   Akbar ki jawaani ka bas khatm fasaana hai
-  Misl-e-Payambar Akbar si khun mein duba hai
+  Misl-e-Payambar Akbar si khun meiṅ duba hai
 
   5
   Sab se bari ibaadat hi maatam karna hai

@@ -26,7 +26,7 @@ romanLyrics: |-
   Jald aaiye Baba shaam hone waali hai
 
   4
-  Asr ke ujaale mein ghar luta ke baithi huṅ
+  Asr ke ujaale meiṅ ghar luta ke baithi huṅ
   Phir na lut le aada shaam hone waali hai
 
   5
@@ -38,7 +38,7 @@ romanLyrics: |-
   Koi bhi nahiṅ aaya shaam hone waali hai
 
   7
-  Kya Saeed kehta hai haal-e-dil Sakina ka
+  Kya Said kehta hai haal-e-dil Sakina ka
   Subh se hai hangaama shaam hone waali hai
 reciter: "Alamdar Razvi"
 # source_note: The retained wording/order follows Alamdar Razvi (id=2007); Sachey Bhai and Ziyaraat supply a variant performance.

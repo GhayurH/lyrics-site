@@ -18,28 +18,28 @@ romanLyrics: |-
 
   1
   Mere pyaasoṅ pe to khud pyaas bhi tharraai hai
-  Tashnagi haddiyoṅ mein itni utar aai hai
+  Tashnagi haddiyoṅ meiṅ itni utar aai hai
   Beh raha hai darya Karbala tu hi bata
 
   2
-  Meri aankhoṅ mein qayaamat ka dhuaaṅ chhaaya tha
+  Meri aankhoṅ meiṅ qayaamat ka dhuaaṅ chhaaya tha
   Saath barchi ke kaleja bhi nikal aaya tha
   Haaye Akbar mera Karbala tu hi bata
 
   3
   Kabhi aage ko barhuṅ aur kabhi pichhe jaauṅ
-  Kis tarah khaime mein Asghar ko main le kar jaauṅ
+  Kis tarah khaime meiṅ Asghar ko maiṅ le kar jaauṅ
   Nahiṅ uthta laasha Karbala tu hi bata
 
   4
-  Naujawaaṅ laash zaifi mein uthaai main ne
-  Aur beshir ki turbat bhi banaai main ne
+  Naujawaaṅ laash zaifi meiṅ uthaai maiṅ ne
+  Aur beshir ki turbat bhi banaai maiṅ ne
   Waada sab pura kiya Karbala tu hi bata
 
   5
   Kaun thaame ga Husain ibn-e-Ali ke baazu
   Nehr par kat gaye Abbas Jari ke baazu
-  Ho gaya main tanha Karbala tu hi bata
+  Ho gaya maiṅ tanha Karbala tu hi bata
 
   6
   Ghoroṅ ki taapoṅ se paamaal hua Ibn-e-Hasan
@@ -49,12 +49,12 @@ romanLyrics: |-
   7
   Tukre tukre mera tan ho gaya shamshiroṅ mein
   Haddiyaaṅ tut ke uljhi hai meri tiroṅ mein
-  Main huṅ zakhmoṅ se bhara Karbala tu hi bata
+  Maiṅ huṅ zakhmoṅ se bhara Karbala tu hi bata
 
   8
   Kaisi ummat ki mohabbat hai ye Shabbir ke saath
   Qatl karti hai mujhe naara-e-takbir ke saath
-  Main huṅ mahw-e-sajda Karbala tu hi bata
+  Maiṅ huṅ mahw-e-sajda Karbala tu hi bata
 
   9
   Jhaarne aai hai maqtal ki zamiṅ baaloṅ se
@@ -64,7 +64,7 @@ romanLyrics: |-
   10
   Bhul paayeṅ ge na ehsaas ke maqtal mujh ko
   Royeṅ ge Aamir o Nayyar bhi musalsal mujh ko
-  Main huṅ aisa nauha Karbala tu hi bata
+  Maiṅ huṅ aisa nauha Karbala tu hi bata
 # source_id: nohayonline:6fb2d673dd717cbb22b6
 # source_url: https://www.nohayonline.com/details_content.php?id=3604
 # raw_sha256: cfee2b35d2798932164f40b85f1d53b04964914cbe7de8e52806d6f46419f1be

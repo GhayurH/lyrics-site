@@ -1,6 +1,6 @@
 ---
 title: "زندان میں سجاد بکا کرتے تھے رو کر"
-alternateTitle: "Ae Sakina Main"
+alternateTitle: "Ae Sakina Maiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,13 +11,13 @@ tags: []
 aliases: ["Ay Sakina Mai"]
 published: true
 romanLyrics: |-
-  Zindan mein Sajjad buka karte the ro kar
+  Zindan meiṅ Sajjad buka karte the ro kar
 
-  Ae Sakina main teri laash uthaauṅ kaise
+  Ae Sakina maiṅ teri laash uthaauṅ kaise
   In lainoṅ se kafan tujhko dilaauṅ kaise
 
   Teri mazlumi mujhe khun rulaati hai behan
-  Ban gaya khun bhara kurta gharibi mein kafan
+  Ban gaya khun bhara kurta gharibi meiṅ kafan
   Hai bandhe haath teri qabr banaauṅ kaise
 
   1
@@ -26,29 +26,29 @@ romanLyrics: |-
   Kiuṅ nahiṅ aaya koi tujhko bataauṅ kaise
 
   2
-  Is gharibi mein tujhe haye qaza aayi hai
-  Jakra zanjiroṅ mein is waqt tera bhai hai
+  Is gharibi meiṅ tujhe haye qaza aayi hai
+  Jakra zanjiroṅ meiṅ is waqt tera bhai hai
   Aakhri baar kaleje se lagaauṅ kaise
 
   3
   Zakhmi kaanoṅ se tere khuṅ hai abhi tak jaari
-  Amma Bano pe isi gham mein ghashi hai taari
+  Amma Bano pe isi gham meiṅ ghashi hai taari
   Maaṅ ki nazroṅ se tera laasha chhupaauṅ kaise
 
   4
-  Tauq gardan mein meri tere gale mein thi rasan
-  Main chala kaantoṅ pe aur tu chali panjoṅ pe behan
-  Ae behan main tere zakhmoṅ ko bhulaauṅ kaise
+  Tauq gardan meiṅ meri tere gale meiṅ thi rasan
+  Maiṅ chala kaantoṅ pe aur tu chali panjoṅ pe behan
+  Ae behan maiṅ tere zakhmoṅ ko bhulaauṅ kaise
 
   5
-  Tu jo roti thi to dil mera tadap jaata tha
+  Tu jo roti thi to dil mera tarap jaata tha
   Rehm tujh par na koi ahl-e-sitam khaata tha
-  In ghamoṅ ko main kaleje se mitaauṅ kaise
+  In ghamoṅ ko maiṅ kaleje se mitaauṅ kaise
 
   6
   Bhai ke haathoṅ pe tha laasha behan ka Mazhar
   Bain karte the haram dekh ke gham ka manzar
-  Nauha Sajjad ka Safdar main sunaauṅ kaise
+  Nauha Sajjad ka Safdar maiṅ sunaauṅ kaise
 # source_id: nohayonline:d7ddd87422186d70d439
 # source_url: https://www.nohayonline.com/details_content.php?id=3049
 # raw_sha256: ab61e71b2c8fe966b54763697f66f180e7bb910ecdea5ddae245e71283f8219a

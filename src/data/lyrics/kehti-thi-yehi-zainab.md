@@ -12,11 +12,11 @@ published: true
 romanLyrics: |-
   Kehti thi yehi Zainab dukhiya
   Mere biranwa mujra lo mera
-  Kuchh baat kaho main tum pe fida
+  Kuchh baat kaho maiṅ tum pe fida
   Mere biranwa mujra lo mera
 
   1
-  Main kok jali maaṅ jaayi huṅ
+  Maiṅ kok jali maaṅ jaayi huṅ
   Hamshir tumhaari bhai huṅ
   Zindaan se chhut kar aayi huṅ
 

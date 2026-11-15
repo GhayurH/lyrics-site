@@ -17,12 +17,12 @@ romanLyrics: |-
   Mashkiza bhar ke janib-e-khaima chala wo jab
   Barse wo tir chhid gayi mashk-e-Sakina jab
   Roya alam Furat wafa mashk aur sab
-  Gunji maqtal mein Shah-e-Diṅ ki sada
+  Gunji maqtal meiṅ Shah-e-Diṅ ki sada
   Qatl darya pe alamdaar huwa
   Aur pyasoṅ ki aas tut gayi
 
   2
-  Aaya maqtal se alam khuṅ mein bhara
+  Aaya maqtal se alam khuṅ meiṅ bhara
 
   3
   Din dhala Shaam-e-Gharibaṅ ke andhere chaaye
@@ -37,7 +37,7 @@ romanLyrics: |-
   Sheh ne ye bali Sakina se kaha
 
   6
-  Haath mein sukhe hue kuze liye baithe the
+  Haath meiṅ sukhe hue kuze liye baithe the
   Marsiya pyaas ka maula se suna
 
   7
@@ -53,7 +53,7 @@ romanLyrics: |-
   Bujh gaya teri ummidoṅ ka diya
 
   10
-  Al-atash keh ke jo rote thay wo khamosh hue
+  Al-atash keh ke jo rote the wo khamosh hue
   Chaayi maahol pe matam ki faza
 
   11

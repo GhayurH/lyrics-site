@@ -15,7 +15,7 @@ romanLyrics: |-
   Aaya hai alam aur Alamdar na aaya
   Darya se dil-e-Haider-e-Karrar na aaya
 
-  Baazu jo kate daantoṅ mein mashkiza dabaya
+  Baazu jo kate daantoṅ meiṅ mashkiza dabaya
   Jab mashk chhidi phir woh hayadar na aaya
 
   1
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   5
   Hai mujhko yaqiṅ neze pe Ghazi ko ye gham tha
-  Qabze mein mere Shaam ka bazaar na aaya
+  Qabze meiṅ mere Shaam ka bazaar na aaya
 
   6
   Maanga hai Sakina ke tawassul se jo Mesum

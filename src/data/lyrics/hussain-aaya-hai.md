@@ -21,7 +21,7 @@ romanLyrics: |-
 
   2
   Kiuṅ hum se ruth ke jaati ho is tarah bolo
-  Main tum ko jaane nahiṅ duṅga aaṅkh to kholo
+  Maiṅ tum ko jaane nahiṅ duṅga aaṅkh to kholo
   Nahiṅ tumhaare bina umr ka basar ammaaṅ
 
   3
@@ -30,7 +30,7 @@ romanLyrics: |-
   Katega kaise tere baad ye safar ammaaṅ
 
   4
-  Main tum ko kab se jagaata huṅ kiuṅ nahiṅ uthti
+  Maiṅ tum ko kab se jagaata huṅ kiuṅ nahiṅ uthti
   Sadaaeṅ deta huṅ ro ro ke bolti hi nahiṅ
   Khudaara bolo ke phatta hai ab jigar ammaaṅ
 

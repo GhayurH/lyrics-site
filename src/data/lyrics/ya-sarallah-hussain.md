@@ -15,8 +15,8 @@ romanLyrics: |-
   Husain ya Husain Husain ya Husain
 
   1
-  Tere hi gham mein sar ko kataaye
-  Tere hi gham mein jaaṅ lutaaye
+  Tere hi gham meiṅ sar ko kataaye
+  Tere hi gham meiṅ jaaṅ lutaaye
   Ya Saarallah Husain
 
   2
@@ -51,7 +51,7 @@ romanLyrics: |-
 
   7
   Tujh pe chala jab Shimr ka khanjar
-  Zehra ki aaghosh mein tha sar
+  Zehra ki aaghosh meiṅ tha sar
   Mahv-e-buka thi ruh-e-Haidar
   Kehti thi kis tarah bachaaeṅ
 

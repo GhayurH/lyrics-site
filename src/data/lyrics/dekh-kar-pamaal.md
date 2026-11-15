@@ -27,7 +27,7 @@ romanLyrics: |-
   Chum kar maaṅ nanhe Asghar ka gala roti rahi
 
   4
-  Kat chuki sajde mein gardan jab Ali ke laal ki
+  Kat chuki sajde meiṅ gardan jab Ali ke laal ki
   Khol kar baaloṅ ko bint-e-Mustafa roti rahi
 
   5

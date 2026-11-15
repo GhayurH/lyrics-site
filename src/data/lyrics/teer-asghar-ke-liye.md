@@ -33,7 +33,7 @@ romanLyrics: |-
   Ek laaghar ke liye
 
   5
-  Dafn zindaaṅ mein hui
+  Dafn zindaaṅ meiṅ hui
   Roti thi ghar ke liye
 
   6

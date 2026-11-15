@@ -16,9 +16,9 @@ romanLyrics: |-
   Maatam ye Muhammad ke nawaase ka bapa hai
 
   1
-  Is maah mein luti gayi Zehra ki kamaai
+  Is maah meiṅ luti gayi Zehra ki kamaai
   Talwaar Muhammad ke nawaase pe chalaai
-  Is maah mein Jibril se nauha ye suna hai
+  Is maah meiṅ Jibril se nauha ye suna hai
   Maatam ye Muhammad ke nawaase ka bapa hai
 
   2
@@ -28,7 +28,7 @@ romanLyrics: |-
   Maatam ye Muhammad ke nawaase ka bapa hai
 
   3
-  Is maah mein Saadaat ne din kaise guzaare
+  Is maah meiṅ Saadaat ne din kaise guzaare
   Maasum ko paani na mila nehr kinaare
   Kya zulm Muhammad ke gharaane ne saha hai
   Maatam ye Muhammad ke nawaase ka bapa hai
@@ -36,13 +36,13 @@ romanLyrics: |-
   4
   Jab chaand Muharram ka nazar aata hai hum ko
   Sajta hai aza khaana to yaad aata hai hum ko
-  Is chaand mein khuṅ Aal-e-Muhammad ka baha hai
+  Is chaand meiṅ khuṅ Aal-e-Muhammad ka baha hai
   Maatam ye Muhammad ke nawaase ka bapa hai
 
   5
   Aashur ka din bhul na paayega zamaana
   Luta gaya us roz Muhammad ka gharaana
-  Us roz se dunya mein bichhi farsh-e-aza hai
+  Us roz se dunya meiṅ bichhi farsh-e-aza hai
   Maatam ye Muhammad ke nawaase ka bapa hai
 
   6
@@ -59,7 +59,7 @@ romanLyrics: |-
 
   8
   Ho Sarwar o Rehaan Shanawar ke Ali Ji
-  Hai naukri virse mein Husain ibn-e-Ali ki
+  Hai naukri virse meiṅ Husain ibn-e-Ali ki
   Aawaaz o qalam donoṅ isi dar ki ata hai
   Maatam ye Muhammad ke nawaase ka bapa hai
 # source_id: nohayonline:44e4fb002528d0577235

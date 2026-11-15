@@ -12,55 +12,55 @@ aliases: []
 published: true
 romanLyrics: |-
   Sar jhuka kar Shah-e-Wala se ye Ghazi ne kaha
-  Ab woh lashkar hai kahaaṅ jis ka Alamdar huṅ main
+  Ab woh lashkar hai kahaaṅ jis ka Alamdar huṅ maiṅ
 
   1
   Ab to tanhai ke hamle haiṅ ghamoṅ ke dere
   Sar katae huwe sote haiṅ sipahi mere
-  Dam ulajhta hai mera qaidi-e-azar huṅ main
-  Ab woh lashkar hai kahaaṅ jis ka Alamdar huṅ main
+  Dam ulajhta hai mera qaidi-e-azar huṅ maiṅ
+  Ab woh lashkar hai kahaaṅ jis ka Alamdar huṅ maiṅ
 
   2
   Yehi ehsas kiye rehta hai mujhko bechain
   Mere hote huwe pyase rahe tiflan-e-Husain
-  Ab ye aalam hai mera jine se bezar huṅ main
-  Ab woh lashkar hai kahaaṅ jis ka Alamdar huṅ main
+  Ab ye aalam hai mera jine se bezar huṅ maiṅ
+  Ab woh lashkar hai kahaaṅ jis ka Alamdar huṅ maiṅ
 
   3
   Ae mere Malik o Mukhtar Shahanshah-e-Umam
   Do mujhe izn tumheiṅ pyasi Sakina ki qasam
-  Nehr ki samt rawaṅ hone ko tayyar huṅ main
-  Ab woh lashkar hai kahaaṅ jis ka Alamdar huṅ main
+  Nehr ki samt rawaṅ hone ko tayyar huṅ maiṅ
+  Ab woh lashkar hai kahaaṅ jis ka Alamdar huṅ maiṅ
 
   4
-  Jo tamanna hai mere dil mein ujagar kar duṅ
+  Jo tamanna hai mere dil meiṅ ujagar kar duṅ
   Zindagi aap ke bachchoṅ pe nichhavar kar duṅ
-  Roz-e-awwal Khuda-e-Shah-e-Abrar huṅ main
-  Ab woh lashkar hai kahaaṅ jis ka Alamdar huṅ main
+  Roz-e-awwal Khuda-e-Shah-e-Abrar huṅ maiṅ
+  Ab woh lashkar hai kahaaṅ jis ka Alamdar huṅ maiṅ
 
   5
   Bekasi zoaf o naqaahat nahiṅ dekhi jaati
   Pyase bachchoṅ ki ye haalat nahiṅ dekhi jaati
-  Jaan dene ke liye bachchoṅ pe tayyar huṅ main
-  Ab woh lashkar hai kahaaṅ jis ka Alamdar huṅ main
+  Jaan dene ke liye bachchoṅ pe tayyar huṅ maiṅ
+  Ab woh lashkar hai kahaaṅ jis ka Alamdar huṅ maiṅ
 
   6
   Ghamzada bekas o mazlum hazina ke liye
   Jaan jaati hai chali jaaye Sakina ke liye
-  Aap ka aap ke bachchoṅ ka wafadar huṅ main
-  Ab woh lashkar hai kahaaṅ jis ka Alamdar huṅ main
+  Aap ka aap ke bachchoṅ ka wafadar huṅ maiṅ
+  Ab woh lashkar hai kahaaṅ jis ka Alamdar huṅ maiṅ
 
   7
-  Aap ka izn jo mil jaaye Shahanshah-e-hazin
-  Nehr khaime mein na lauṅ to main Abbas nahiṅ
-  Jis ko maanga tha Ali ne wohi Jarrar huṅ main
-  Ab woh lashkar hai kahaaṅ jis ka Alamdar huṅ main
+  Aap ka izn jo mil jaaye Shahanshah-e-haziṅ
+  Nehr khaime meiṅ na lauṅ to maiṅ Abbas nahiṅ
+  Jis ko maanga tha Ali ne wohi Jarrar huṅ maiṅ
+  Ab woh lashkar hai kahaaṅ jis ka Alamdar huṅ maiṅ
 
   8
   Khun rone lage us waqt Shah-e-nek-hizal
   Jis ghari Sher-e-Dilawar ne farmaya Bilal
-  Aap par jaan fida karne ka haqdar huṅ main
-  Ab woh lashkar hai kahaaṅ jis ka Alamdar huṅ main
+  Aap par jaan fida karne ka haqdar huṅ maiṅ
+  Ab woh lashkar hai kahaaṅ jis ka Alamdar huṅ maiṅ
 # source_id: nohayonline:8f18c35fe521c7f2d4e4
 # editorial_uncertainty: Archived HTML confirms eight stanzas with complete Ab woh lashkar refrain. Qaidi-e-azar/Urdu اعزار, Khuda-e-Shah-e-Abrar, hazina and Shah-e-nek-hizal remain unresolved source readings requiring audio/print evidence.
 # source_url: https://www.nohayonline.com/details_content.php?id=2254

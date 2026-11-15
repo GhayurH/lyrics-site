@@ -14,8 +14,8 @@ romanLyrics: |-
   Hayya alal azaa hayya alal bukaa
   Husain ya Husain Maula Husain Husain
 
-  Zabt-e-girya maatam-e-Sarwar mein ho sakta nahiṅ
-  Sar jhuka kar baith jo majlis mein ro sakta nahiṅ
+  Zabt-e-girya maatam-e-Sarwar meiṅ ho sakta nahiṅ
+  Sar jhuka kar baith jo majlis meiṅ ro sakta nahiṅ
 
   1
   Haq-e-girya hum azaadaaroṅ se hoga kya ada

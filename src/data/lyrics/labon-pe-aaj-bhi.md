@@ -1,6 +1,6 @@
 ---
 title: "لبوں پہ آج بھی ہے جیسے غم سکینہ کا"
-alternateTitle: "Labon Pe Aaj Bhi"
+alternateTitle: "Laboṅ Pe Aaj Bhi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -20,14 +20,14 @@ romanLyrics: |-
 
   2
   Wo us ke baad riha ho saki na zindaaṅ se
-  Gaya kuchh aise qafas mein qadam Sakina ka
+  Gaya kuchh aise qafas meiṅ qadam Sakina ka
 
   3
   Ye keh ke Sayyid-e-Sajjad khun rote the
   Sitam ziyaada tha aur sin tha kam Sakina ka
 
   4
-  In aandhiyoṅ mein larazti thi ek lau itni
+  In aandhiyoṅ meiṅ larazti thi ek lau itni
   Wo taaziyaane wo nanha sa alam Sakina ka
 
   5
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   6
   Udhar ke lafz-e-do aalam ubhar rahi hai Naved
-  Idhar qafas mein laboṅ par hai dam Sakina ka
+  Idhar qafas meiṅ laboṅ par hai dam Sakina ka
 
   7
   Jo nauhe parhte haiṅ Sajid Naved likhta hai

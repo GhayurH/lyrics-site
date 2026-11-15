@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Bano kahaaṅ talaash kare apne laal ko
-  Jangal mein maar daala hai Zehra ki aal ko
+  Jangal meiṅ maar daala hai Zehra ki aal ko
 
   1
   Zainab ke saath roti haiṅ sab mil ke Bibiyaaṅ
@@ -20,7 +20,7 @@ romanLyrics: |-
 
   2
   Shabbir dil ko thaam ke ghash khaa ke gir pare
-  Dekha jo khuṅ mein gharq Nabi ke jamaal ko
+  Dekha jo khuṅ meiṅ gharq Nabi ke jamaal ko
 
   3
   Shabbir mere paas hai sadqe ko bas yahi
@@ -31,7 +31,7 @@ romanLyrics: |-
   Apne zaif kaandhoṅ pe athaarah saal ko
 
   5
-  Bazaar-e-Shaam mein wo asiroṅ ka qaafila
+  Bazaar-e-Shaam meiṅ wo asiroṅ ka qaafila
   Abid na bhul paaye kabhi is khayaal ko
 
   6
@@ -44,7 +44,7 @@ romanLyrics: |-
 
   8
   Shabbir apne rauze pe bulwaaeṅge zarur
-  Tauqeer tu nikaal de dil se malaal ko
+  Tauqir tu nikaal de dil se malaal ko
 # source_id: nohayonline:adfe146900c8f66479f4
 # source_url: https://www.nohayonline.com/content_salaam.php?id=41
 # raw_sha256: f763fe78e97a48beca074b316ab4fb1b827f6d77d87bfe65f9a699e9dbe7aa0e

@@ -1,6 +1,6 @@
 ---
 title: "زینب اسیر ہے میرے غازی دُہائی ہے"
-alternateTitle: "Zainab Aseer Hai"
+alternateTitle: "Zainab Asir Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -15,11 +15,11 @@ romanLyrics: |-
   Sar pe musibatoṅ ki ghata mere chhaai hai
 
   1
-  Jalti zamin hai paaoṅ mein naalain bhi nahiṅ
+  Jalti zamin hai paaoṅ meiṅ naalain bhi nahiṅ
   Aur khaar daar raaheṅ haiṅ teri duhaai hai
 
   2
-  Jaa kar watan kahuṅ gi main Naana ki qabr par
+  Jaa kar watan kahuṅ gi maiṅ Naana ki qabr par
   Bhaai ko kho ke Zainab-e-dilgir aai hai
 
   3
@@ -28,7 +28,7 @@ romanLyrics: |-
 
   4
   Mehmaan bula ke karne lage sang baariyaaṅ
-  Kufe mein ham pe kaisi musibat ye aai hai
+  Kufe meiṅ ham pe kaisi musibat ye aai hai
 
   5
   Bhaiya teri behan pe masaaib bahut hue

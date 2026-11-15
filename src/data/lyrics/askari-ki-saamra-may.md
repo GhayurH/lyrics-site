@@ -11,23 +11,23 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Askari ki Saamra mein haye shahadat ho gayi
+  Askari ki Saamra meiṅ haye shahadat ho gayi
   Aaj phir se Fatima ke ghar qayamat ho gayi
 
   1
-  Khun mein apne hi ghaltaaṅ haiṅ gharib-e-Saamra
-  Surkh apne khun mein phir se imamat ho gayi
+  Khun meiṅ apne hi ghaltaaṅ haiṅ gharib-e-Saamra
+  Surkh apne khun meiṅ phir se imamat ho gayi
 
   2
-  Zehr paa kar yuṅ tadapte jaa rahe haiṅ Askari
-  Mujtaba ki zehn mein taaza musibat ho gayi
+  Zehr paa kar yuṅ tarapte jaa rahe haiṅ Askari
+  Mujtaba ki zehn meiṅ taaza musibat ho gayi
 
   3
   Ek aur maasum ko maara hai zulm o jaur se
   Yuṅ shahadat is gharane ki riwayat ho gayi
 
   4
-  Chupke chupke ro rahe haiṅ Askari ke ghar mein sab
+  Chupke chupke ro rahe haiṅ Askari ke ghar meiṅ sab
   Rone pe pehra laga aisi shaqawat ho gayi
 
   5
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   6
   Mahw-e-girya Haider-e-Karraar bhi haiṅ Zehra bhi
-  Ghamzada shehr-e-Madina mein risalat ho gayi
+  Ghamzada shehr-e-Madina meiṅ risalat ho gayi
 
   7
   Ro rahe haiṅ sab muhib sun kar musibat ka bayaaṅ

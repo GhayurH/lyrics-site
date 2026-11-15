@@ -14,34 +14,34 @@ romanLyrics: |-
   Haye Asghar kya karuṅ ae jaan-e-maadar kya karuṅ
 
   1
-  Thi ye Bano ki fughaaṅ dunya mein reh kar kya karuṅ
+  Thi ye Bano ki fughaaṅ dunya meiṅ reh kar kya karuṅ
   Maut ne barbaad kar daala mera ghar kya karuṅ
   Hai rag-e-jaaṅ ke liye har saaṅs nashtar kya karuṅ
-  Hasratoṅ ka dil mein ek barpa hai mahshar kya karuṅ
+  Hasratoṅ ka dil meiṅ ek barpa hai mahshar kya karuṅ
 
   2
-  Ae mere nur-e-nazar tum ko agar paauṅ gi main
-  Dekh lena raat bhar sine se liptaauṅ gi main
-  Surkh phuloṅ se chaman gulshan ke mahkaauṅ gi main
-  Ab na bhejuṅ gi tumheiṅ main ghar se baahar kya karuṅ
+  Ae mere nur-e-nazar tum ko agar paauṅ gi maiṅ
+  Dekh lena raat bhar sine se liptaauṅ gi maiṅ
+  Surkh phuloṅ se chaman gulshan ke mahkaauṅ gi maiṅ
+  Ab na bhejuṅ gi tumheiṅ maiṅ ghar se baahar kya karuṅ
 
   3
-  Tum samajhte ho yahaaṅ se apne ghar jaauṅ gi main
-  Chhor kar tanha tumheiṅ beta kidhar jaauṅ gi main
-  Qabr se takra ke sar jangal mein mar jaauṅ gi main
+  Tum samajhte ho yahaaṅ se apne ghar jaauṅ gi maiṅ
+  Chhor kar tanha tumheiṅ beta kidhar jaauṅ gi maiṅ
+  Qabr se takra ke sar jangal meiṅ mar jaauṅ gi maiṅ
   Pher luṅ kiuṅ na gale par apne khanjar kya karuṅ
 
   4
   Kuchh nahiṅ tum ko khabar Shah ka makaaṅ luta gaya
-  Sayyid-e-abraar ka ran mein makaaṅ luta gaya
-  Dasht-e-ghurbat mein Husaini kaarwaaṅ luta gaya
+  Sayyid-e-abraar ka ran meiṅ makaaṅ luta gaya
+  Dasht-e-ghurbat meiṅ Husaini kaarwaaṅ luta gaya
   Ab na Akbar haiṅ na Abbas-e-dilaawar kya karuṅ
 
   5
   Maut ne khud loriyaaṅ di nind laane ke liye
-  Ran mein aaye zalzale jhula jhulaane ke liye
-  Tum chale maidaaṅ mein kaise tir khaane ke liye
-  Ab tumheiṅ turbat se gahwaare mein laa kar kya karuṅ
+  Ran meiṅ aaye zalzale jhula jhulaane ke liye
+  Tum chale maidaaṅ meiṅ kaise tir khaane ke liye
+  Ab tumheiṅ turbat se gahwaare meiṅ laa kar kya karuṅ
 # source_id: nohayonline:b594b49823c7c14ea904
 # source_url: https://www.nohayonline.com/details_content.php?id=272
 # raw_sha256: 4902f7dc9c74b679045e6382b2cfab89642ee78af474889f5fcf565969793e5a

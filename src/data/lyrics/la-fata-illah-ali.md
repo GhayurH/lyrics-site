@@ -15,28 +15,28 @@ romanLyrics: |-
   La fata illa Ali la saif illa Zulfiqaar
 
   1
-  Is tarah chalti thi ran mein tegh-e-sher-e-kirdigaar
-  Har taraf se ashqiyaa mein al-amaaṅ ki thi pukaar
+  Is tarah chalti thi ran meiṅ tegh-e-sher-e-kirdigaar
+  Har taraf se ashqiyaa meiṅ al-amaaṅ ki thi pukaar
   Kar chuka jab dher Marhab ko shaah-e-Duldul sawaar
   Aa rahi thi ye sada diwaar o dar se baar baar
 
   2
   Jis tarah koi Khuda-e-paak se barh kar nahiṅ
   Jis tarah koi Rasul Allah ka hamsar nahiṅ
-  Ek hai dunya mein Haidar dusra Haidar nahiṅ
-  Misl-e-Haidar ye kisi ki tegh mein jauhar nahiṅ
+  Ek hai dunya meiṅ Haidar dusra Haidar nahiṅ
+  Misl-e-Haidar ye kisi ki tegh meiṅ jauhar nahiṅ
   Ek taraf saari ibaadat ek taraf Haidar ka waar
 
   3
   Juz Ali ka kaun haq ke waaste sina sipar
   Kaun uthta tha Rasul Allah ki aawaaz par
-  Kis ne qurbaan kar diya raah-e-Khuda mein apna ghar
+  Kis ne qurbaaṅ kar diya raah-e-Khuda meiṅ apna ghar
   Is haqiqat se bhala ham kis tarah phereṅ nazar
   Hai isi aawaaz par takbir ka daar o madaar
 
   4
   Yaad kar lo dur kiuṅ jaate ho kal ki baat hai
-  Jang ke maidaan mein kaam aaya wo kis ki zaat hai
+  Jang ke maidaan meiṅ kaam aaya wo kis ki zaat hai
   Mehr-e-hairat muttaqil lashkar pe kaainaat hai
   Haq o nusrat aaj bhi naam-e-Ali ke saath hai
   Guṅjta hai Haidari naaroṅ se dasht-e-kaarzaar
@@ -45,12 +45,12 @@ romanLyrics: |-
   Kaam aaya phir wohi jab waqt aaya imtihaan
   Naam se jis ke larazte haiṅ zamin o aasmaan
   Laakh jalta ho Ali ke kaarnaamoṅ se jahaaṅ
-  Sab se afzal aaj hai dunya mein Haidar ka nishaan
+  Sab se afzal aaj hai dunya meiṅ Haidar ka nishaan
   Aaj bhi sajti hai sinoṅ pe yehi ik yaadgaar
 
   6
   Kehte the Muhammad maadar-e-ghamkhwaar se
-  Is tarah ran mein lareṅ ge lashkar-e-kuffaar se
+  Is tarah ran meiṅ lareṅ ge lashkar-e-kuffaar se
   Sab hameṅ tashbih deṅ ge Jafar-e-Tayyaar se
   Bach ke jaa paaega koi kya hamaare waar se
   Kheṅch deṅ ge tegh se ham Badr ke naqsh o nigaar

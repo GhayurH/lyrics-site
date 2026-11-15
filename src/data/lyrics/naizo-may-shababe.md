@@ -1,6 +1,6 @@
 ---
 title: "نیزوں میں شبابِ علی اکبر نظر آیا"
-alternateTitle: "Nezoṅ Mein Shabaab-e-Ali Akbar Nazar Aaya"
+alternateTitle: "Nezoṅ Meiṅ Shabaab-e-Ali Akbar Nazar Aaya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,24 +11,24 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Nezoṅ mein shabaab-e-Ali Akbar nazar aaya
-  Uljha hua khaaroṅ mein gul-e-tar nazar aaya
+  Nezoṅ meiṅ shabaab-e-Ali Akbar nazar aaya
+  Uljha hua khaaroṅ meiṅ gul-e-tar nazar aaya
 
   1
-  Yuṅ roye haram yaad-e-shahidaan-e-wafa mein
-  Har aankh mein ashkoṅ ka samandar nazar aaya
+  Yuṅ roye haram yaad-e-shahidaan-e-wafa meiṅ
+  Har aankh meiṅ ashkoṅ ka samandar nazar aaya
 
   2
   Abbas chale nehr pe bachchoṅ ki bandhi aas
-  Har haath mein ummid ka saaghar nazar aaya
+  Har haath meiṅ ummid ka saaghar nazar aaya
 
   3
   Jab Shimr chala chhor ke Shabbir ka laasha
-  Ik haath mein sar ik mein khanjar nazar aaya
+  Ik haath meiṅ sar ik meiṅ khanjar nazar aaya
 
   4
-  Sote mein bhi haath apna hilaati thi jo Bano
-  Kya khwaab mein gahwaara-e-Asghar nazar aaya
+  Sote meiṅ bhi haath apna hilaati thi jo Bano
+  Kya khwaab meiṅ gahwaara-e-Asghar nazar aaya
 
   5
   Paani shah-e-mazlum abhi maang rahe the
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   6
   Kya haal hua hoga sitam-dida behan ka
-  Jab tasht-e-tila mein sar-e-Sarwar nazar aaya
+  Jab tasht-e-tila meiṅ sar-e-Sarwar nazar aaya
 
   7
   Samjhuṅ ga Nisar aankhoṅ ne dekha dar-e-jannat

@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Mominoṅ sar pit lo qatl hue haiṅ Naqi
-  Saamra mein zehr se qatl hue haiṅ Naqi
+  Saamra meiṅ zehr se qatl hue haiṅ Naqi
 
   1
   Rote haiṅ saadaat sab ho gaya haaye ghazab
@@ -31,7 +31,7 @@ romanLyrics: |-
   Phir diya zehr-e-qaza qatl hue haiṅ Naqi
 
   5
-  Noha kunaṅ Bibiyaṅ sog mein donoṅ jahaaṅ
+  Noha kunaṅ Bibiyaṅ sog meiṅ donoṅ jahaaṅ
   Kehte haiṅ sab ins o jaaṅ qatl hue haiṅ Naqi
 
   6

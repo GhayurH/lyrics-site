@@ -11,63 +11,63 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Dil pe kya guzregi behnoṅ ko jo baazaaroṅ mein
+  Dil pe kya guzregi behnoṅ ko jo baazaaroṅ meiṅ
   Bhai ke saamne gar koi tamaacha maare
-  Dasht o sehra mein gali kuchoṅ mein darbaaroṅ mein
+  Dasht o sehra meiṅ gali kuchoṅ meiṅ darbaaroṅ meiṅ
   Bhai ke saamne gar koi tamaacha maare
 
   1
   Dil laraz jaata hai bhai ka khayaaloṅ se bhi
   Zikr kya kijiye andheroṅ ka ujaaloṅ se bhi
-  Mehfil-e-ghair mein pardes mein ghaddaaroṅ mein
+  Mehfil-e-ghair meiṅ pardes meiṅ ghaddaaroṅ meiṅ
   Bhai ke saamne gar koi tamaacha maare
 
   2
   Naaz behnoṅ ka to maaoṅ ka jigar hota hai
   Baap ke baad to bhai hi padar hota hai
-  Kalma goyoṅ mein muhaajir mein aur ansaaroṅ mein
+  Kalma goyoṅ meiṅ muhaajir meiṅ aur ansaaroṅ meiṅ
   Bhai ke saamne gar koi tamaacha maare
 
   3
   Bhai bhi aisa ho ghamkhwaar hamiyat waala
   Haashmi ghairat o ehsaas o jalaalat waala
-  Dil phata jaata hai ye soch ke ghaddaaroṅ mein
+  Dil phata jaata hai ye soch ke ghaddaaroṅ meiṅ
   Bhai ke saamne gar koi tamaacha maare
 
   4
   Har tamaache pe jo bechain bahut hoti ho
   Dekh kar bhai ke chehre ko behan roti ho
-  Naizabardaaroṅ gunahgaaroṅ khataakaaroṅ mein
+  Naizabardaaroṅ gunahgaaroṅ khataakaaroṅ meiṅ
   Bhai ke saamne gar koi tamaacha maare
 
   5
   Aisi mazluma ko gar zulm o sitam ke baani
-  Shiddat-e-pyaas mein dikhla ke baha de paani
-  Ghurkiyaaṅ de ke sar-e-raah sitamgaaroṅ mein
+  Shiddat-e-pyaas meiṅ dikhla ke baha de paani
+  Ghurkiyaaṅ de ke sar-e-raah sitamgaaroṅ meiṅ
   Bhai ke saamne gar koi tamaacha maare
 
   6
-  Sabr is raah mein aaye bhi to aaye kaise
-  Bhai zanjiroṅ mein jakra hai bachaaye kaise
-  Haye chalta hai jo kaaṅtoṅ mein aur angaaroṅ mein
+  Sabr is raah meiṅ aaye bhi to aaye kaise
+  Bhai zanjiroṅ meiṅ jakra hai bachaaye kaise
+  Haye chalta hai jo kaaṅtoṅ meiṅ aur angaaroṅ meiṅ
   Bhai ke saamne gar koi tamaacha maare
 
   7
   Baap ka sar jo sitamgaar dikhaaye aa kar
   Ek maasum si bachchi ko rulaaye aa kar
-  Tir o shamshir o chamakti hui talwaaroṅ mein
+  Tir o shamshir o chamakti hui talwaaroṅ meiṅ
   Bhai ke saamne gar koi tamaacha maare
 
   8
   Baad Karbal na kabhi chain se soye Aabid
   Bas yehi soch ke taa zindagi roye Aabid
-  Faatima Zehra ki poti ko jo aghyaaroṅ mein
+  Faatima Zehra ki poti ko jo aghyaaroṅ meiṅ
   Bhai ke saamne gar koi tamaacha maare
 
   9
   Dard Aini koi Aabid ke jigar se puchhe
   Ya phir Aamir zara Shabbir ke sar se puchhe
-  Wo namak khwaaroṅ jafaakaaroṅ mein maikhaaroṅ mein
+  Wo namak khwaaroṅ jafaakaaroṅ meiṅ maikhaaroṅ meiṅ
   Bhai ke saamne gar koi tamaacha maare
 # source_id: nohayonline:1aff553b01b1874273fa
 # source_url: https://www.nohayonline.com/details_content.php?id=1293

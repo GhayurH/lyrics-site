@@ -1,6 +1,6 @@
 ---
 title: "پڑھداں قصیدہ حق دے ولی دا"
-alternateTitle: "Parhdaan Qasida Haq De Wali Da"
+alternateTitle: "Parhdaaṅ Qasida Haq De Wali Da"
 recitationId: "parhdaan-qasida-haq-de-wali-da-lyrics-nadeem-sarwar-2009"
 language: "Urdu"
 lang: "ur"
@@ -18,22 +18,22 @@ romanLyrics: |-
   Ral ke sunrao oh naara Ali da
 
   1
-  Zahra da shohar piraaṅ da pir aye
-  Main kya dasaawaaṅ keda amir aye
+  Zahra da shohar piraaṅ da pir ae
+  Maiṅ kya dasaawaaṅ keda amir ae
   Taht-us-sara tuṅ Arsh-e-Ula taeiṅ
   Saare de saara ho raqba Ali da
 
   2
-  Hik aam baal aye hik khaas baal aye
-  Jehra khaas baal aye Zahra da laal aye
+  Hik aam baal ae hik khaas baal ae
+  Jehra khaas baal ae Zahra da laal ae
   Nok-e-sinaaṅ tuṅ Quraan sunraaya
   Sab nu parhaya haaṅ kalma Nabi da
 
   3
   Jhukiya ayin dar te ban ke sawaali
-  Izzat mili aye jag tuṅ niraali
-  Paye log ahday hin maikuṅ Qalandar
-  Sag haaṅ magar main Ali di ghali da
+  Izzat mili ae jag tuṅ niraali
+  Paye log ahde hin maikuṅ Qalandar
+  Sag haaṅ magar maiṅ Ali di ghali da
 
   4
   Kaabe da gohar Kaabe de andar
@@ -43,14 +43,14 @@ romanLyrics: |-
 
   5
   Miqdad Maisam Salman Qanbar
-  Banrya aye koi Bahlol Abuzar
+  Banrya ae koi Bahlol Abuzar
   Banra Bhittai barnya Qalandar
-  Jayin jayin bulaaya oh naara Ali da
+  Jayiṅ jayiṅ bulaaya oh naara Ali da
 
   6
   Ik haye Payambar baara Imam hin
   Saare jahaaṅ layi Rab da inaam hin
-  Ahmad tu lay ke Imam-e-Zamaaṅ taeiṅ
+  Ahmad tu le ke Imam-e-Zamaaṅ taeiṅ
   Saara hi sohnra haaṅ kunba Ali da
 # source_id: tajpoints:4a875ca8ccc568dccd73
 # source_url: https://tajpoints.com/2019/04/parhdaan-qasida-haq-de-wali-da-lyrics.html

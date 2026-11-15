@@ -27,7 +27,7 @@ romanLyrics: |-
   Jis ko nahiṅ qubul qiyaadat Husain ki
 
   4
-  Ruswa jagah jagah na musalmaan ho kabhi
+  Ruswa jagah jagah na musalmaaṅ ho kabhi
   Dil se nikaal de jo adaawat Husain ki
 
   5

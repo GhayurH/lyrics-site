@@ -11,41 +11,41 @@ aliases: []
 published: true
 romanLyrics: |-
   Zainab aur Abbas
-  Donoṅ hi se Karb o bala mein shah ko bari thi aas
+  Donoṅ hi se Karb o bala meiṅ shah ko bari thi aas
 
   1
   Ik Zehra ki laadli thi aur ek Ali ka laal
   Maaṅ ka sabr dikhaaya ik ne baap ka jaah o jalaal
-  Karb o bala mein ban gaye donoṅ sabr o wafa ki asaas
+  Karb o bala meiṅ ban gaye donoṅ sabr o wafa ki asaas
 
   2
   Qabl-e-asr hifaazat ka tha bhaai zimmedaar
   Baad-e-asr uthaaya bint-e-Zehra ne ye baar
-  Ban gai aas haram ki Zainab wo thi khud be aas
+  Ban gai aas haram ki Zainab wo thi khud beaas
 
   3
   Donoṅ laal kiye Zainab ne Sarwar par qurbaan
-  Nehr pe donoṅ haath kata kar sadqe mein di jaan
+  Nehr pe donoṅ haath kata kar sadqe meiṅ di jaan
   Waar diya sab kuchh bhaai par jo tha jis ke paas
 
   4
-  Dasht-e-bala mein aa kar chhuta donoṅ ka ye saath
+  Dasht-e-bala meiṅ aa kar chhuta donoṅ ka ye saath
   Mashkiza sine se laga kar donoṅ kata kar haath
-  Nehr kinaare so gaya bhaai behan hui be aas
+  Nehr kinaare so gaya bhaai behan hui beaas
 
   5
   Waqt-e-asr gire ghore se jab ke shaah-e-abraar
   Halq-e-shaah-e-mazlum pe rakh di zaalim ne talwaar
-  Khaime mein Zainab tarpi aur saahil par Abbas
+  Khaime meiṅ Zainab tarpi aur saahil par Abbas
 
   6
   Kitne hi dukh jhele dil par kitne hi aalaam
   Haaye magar wo dasht-e-sitam wo ranj o alam ki shaam
-  Tanha hai maqtal mein Zainab koi nahiṅ ab paas
+  Tanha hai maqtal meiṅ Zainab koi nahiṅ ab paas
 
   7
   Zainab hai paaband-e-rasan ab chalta kuchh nahiṅ zor
-  Nok-e-sinaaṅ par sar hai tan hai bhaai ka be dur
+  Nok-e-sinaaṅ par sar hai tan hai bhaai ka bedur
   Roti hai maaṅ jaai ki mayyat pe hasrat o yaas
 # source_id: nohayonline:2e095c61556f7e1b4838
 # source_url: https://www.nohayonline.com/details_content.php?id=506

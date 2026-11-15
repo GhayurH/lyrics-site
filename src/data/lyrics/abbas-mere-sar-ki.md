@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Ghar se chale jab bahr-e-safar Sibt-e-Payambar
   Kehne lagi Abbas ki madar sher-e-dilawar
-  Ek nasihat karti huṅ main ae mere dilbar
+  Ek nasihat karti huṅ maiṅ ae mere dilbar
   Gham koi bhi Shabbir ke aayega nahiṅ paas Abbas
   Ujrega na Zehra ka bhara ghar
   Abbas mere sar ki qasam kha
@@ -26,14 +26,14 @@ romanLyrics: |-
 
   2
   Jab tak tere shanoṅ pe rakha hai ye tera sar
-  Aaeṅge nahiṅ khaima-e-Sarwar mein sitamgar
-  Gar aaye su-e-khaima laeenoṅ ka wo lashkar
+  Aaeṅge nahiṅ khaima-e-Sarwar meiṅ sitamgar
+  Gar aaye su-e-khaima lainoṅ ka wo lashkar
   Jaan de ke bachana hai tujhe ghar
 
   3
   Ye baazu nigehban hai Zainab ki rida ke
   Narghe ho agar chaaroṅ taraf Ahl-e-Jafa ke
-  Tu rakhega Shahzadi ko parde mein chhupa ke
+  Tu rakhega Shahzadi ko parde meiṅ chhupa ke
   Jaayegi na Shahzadi ki chadar
 
   4
@@ -57,13 +57,13 @@ romanLyrics: |-
   7
   Ye baat mere laal tujhe bhi to khabar hai
   Tu Fatema Zehra ki duaoṅ ka samar hai
-  Sarwar ho agar dhup mein tu misl-e-shajar hai
-  Khanjar na chalega Shah-e-Din par
+  Sarwar ho agar dhup meiṅ tu misl-e-shajar hai
+  Khanjar na chalega Shah-e-Diṅ par
 
   8
   Phir Mazhar o Irfan ye bola wo dilawar
   Ye jaan bhi qurban hai Zehra ke pisar par
-  Kiun aap ye kehti hain meri madar-e-muztar
+  Kiuṅ aap ye kehti haiṅ meri madar-e-muztar
   Lut jaaye na Zehra ka bhara ghar
 # source_id: nohayonline:1df856f57b891f15d8df
 # source_url: https://www.nohayonline.com/details_content.php?id=3193

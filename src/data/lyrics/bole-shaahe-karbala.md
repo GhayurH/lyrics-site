@@ -29,7 +29,7 @@ romanLyrics: |-
   3
   Bole Abbas-e-jari
   Khub tum ne jang ki
-  Tum pe ho qurban chacha
+  Tum pe ho qurbaṅ chacha
   Qasim-e-gulgu qabaa
 
   4

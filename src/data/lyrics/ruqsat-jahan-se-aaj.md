@@ -15,7 +15,7 @@ romanLyrics: |-
   Ye shab gham o alam ki hai sina zani ki hai
 
   1
-  Chhaaya hai Saamra ki fizaaoṅ mein ranj o gham
+  Chhaaya hai Saamra ki fizaaoṅ meiṅ ranj o gham
   Zehr-e-dagha se haae Naqi par kiya sitam
   Sosan pe haae saaat bari bebasi ki hai
 
@@ -25,9 +25,9 @@ romanLyrics: |-
   Ye daswaaṅ jaanashin nishaani Ali ki hai
 
   3
-  Qaidi bana ke qaid-e-sitam mein rakha gaya
+  Qaidi bana ke qaid-e-sitam meiṅ rakha gaya
   Har ek zulm o jaur Naqi par kiya gaya
-  Shaam o sehar yuṅ dard mein us muttaqi ki hai
+  Shaam o sehar yuṅ dard meiṅ us muttaqi ki hai
 
   4
   Dhaaya hai zulm tu ne laiṅ ye Imam par
@@ -37,7 +37,7 @@ romanLyrics: |-
   5
   Ummat ne phir se Aal-e-Nabi ko kiya shahid
   Yaani ke haae Maula Naqi ko kiya shahid
-  Ghurbat mein aaj laash ye Ibn-e-Taqi ki hai
+  Ghurbat meiṅ aaj laash ye Ibn-e-Taqi ki hai
 
   6
   Larzi zamin aur falak ho gaya udaas
@@ -51,13 +51,13 @@ romanLyrics: |-
 
   8
   Sar pe hamaare baap ka saaya nahiṅ raha
-  Ghurbat mein ek bete ne ro kar yehi kaha
-  Dard o alam mein gunji sada Askari ki hai
+  Ghurbat meiṅ ek bete ne ro kar yehi kaha
+  Dard o alam meiṅ gunji sada Askari ki hai
 
   9
   Abbas do Imam ka pursa Batul ko
   Taskin hogi Sahib-e-Aalam Rasul ko
-  Haalat malul khuld mein Ruh-e-Nabi ki hai
+  Haalat malul khuld meiṅ Ruh-e-Nabi ki hai
 # source_id: nohayonline:a008d3ba503a3e7af6bf
 # source_url: https://www.nohayonline.com/details_content.php?id=1300
 # raw_sha256: 1398b409bdd058269744b9c92849f29b0b1036499f7e79f948f7c0492212002d

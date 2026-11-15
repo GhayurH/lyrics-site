@@ -28,8 +28,8 @@ romanLyrics: |-
   Un ka na jaane kya haal hoga
 
   2
-  Khwaab jis din se main ne ye dekha
-  Khun mein tar hai donoṅ ka kurta
+  Khwaab jis din se maiṅ ne ye dekha
+  Khun meiṅ tar hai donoṅ ka kurta
   Mere nur-e-nazar mere lakht-e-jigar
   Jaa ke pardes phir aaye na laut kar
   Muṅh ko aata hai mera kaleja
@@ -39,18 +39,18 @@ romanLyrics: |-
   Dhundhti haiṅ unheṅ meri baaheṅ
   Mere nur-e-nazar mere lakht-e-jigar
   Jaa ke pardes phir aaye na laut kar
-  Dil mein chubhta hai har waqt neza
+  Dil meiṅ chubhta hai har waqt neza
 
   4
   Chain bachchoṅ ke bin kaise aaye
   Ab sukuṅ maamta kaise paaye
   Mere nur-e-nazar mere lakht-e-jigar
   Jaa ke pardes phir aaye na laut kar
-  Hai nigaahoṅ mein meri andhera
+  Hai nigaahoṅ meiṅ meri andhera
 
   5
-  Ye khabar jab se main ne suni hai
-  Un ka Kufa mein koi nahiṅ hai
+  Ye khabar jab se maiṅ ne suni hai
+  Un ka Kufa meiṅ koi nahiṅ hai
   Mere nur-e-nazar mere lakht-e-jigar
   Jaa ke pardes phir aaye na laut kar
   Dard ka dil pe chalta hai aara

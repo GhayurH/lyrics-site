@@ -52,7 +52,7 @@ romanLyrics: |-
   8
   Dua maango ke raah-e-hijr-e-Mehdi jald khul jaaye
   Ke raaz-e-inteqaam-e-Karbala Darvesh khul jaaye
-  Mile Zeeshan ko bhi ye basharat Eid se pehle
+  Mile Zishan ko bhi ye basharat Eid se pehle
 # source_id: nohayonline:bd97f280b8293f22699f
 # source_url: https://www.nohayonline.com/details_content.php?id=3379
 # raw_sha256: 148879f9e17a111090c99dc9730710538c1dbd103c77e4f264f0e611e46f368e

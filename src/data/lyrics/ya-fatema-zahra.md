@@ -16,7 +16,7 @@ romanLyrics: |-
   1
   Nur-e-dil-e-maadar bizzat-e-Paighambar
   Chaara-gar-e-aalam man nafas-e-Haidar
-  Azmat o rifat mein raha tera arfa o aala maqaam
+  Azmat o rifat meiṅ raha tera arfa o aala maqaam
   Bar aal-e-Muhammad salaam
   Salaam ae gauhar-e-darya-e-nur
   Ae aaya-e-ziba-e-ishq
@@ -42,7 +42,7 @@ romanLyrics: |-
   2
   Nur tere rukh ka jalwa-e-Rahmaani
   Hasti teri Bibi nemat-e-Yazdaani
-  Umm-e-Abiha nuri hijaaboṅ mein raha tera payaam
+  Umm-e-Abiha nuri hijaaboṅ meiṅ raha tera payaam
   Bar aal-e-Muhammad salaam
   Salaam-e-markaz-e-izz o sharaf
   Ae zauja-e-Shaah-e-Najaf
@@ -56,7 +56,7 @@ romanLyrics: |-
   3
   Auj-e-fasaahat hai Quraan-e-balaaghat hai
   Jaan-e-risaalat hai bunyaad-e-imaamat hai
-  Tujhsa nahiṅ hai koi jahaaṅ mein dukhtar-e-Khair-ul-Anaam
+  Tujhsa nahiṅ hai koi jahaaṅ meiṅ dukhtar-e-Khair-ul-Anaam
   Bar aal-e-Muhammad salaam
   Salaam ae ismat-e-Shams o Zuha
   Ae iffat-e-Badr-ud-Duja
@@ -84,7 +84,7 @@ romanLyrics: |-
   5
   Maare gaye pyaase raunde gaye laashe
   Chhini gayi chaadar lute gaye khaime
-  Shaam-e-gharibaaṅ mein jale haaye darya kinaare qayaam
+  Shaam-e-gharibaaṅ meiṅ jale haaye darya kinaare qayaam
   Bar aal-e-Muhammad salaam
   Salaam ae ghurbat-e-aal-e-aba
   Ae taabish-e-khun-e-Khuda
@@ -96,8 +96,8 @@ romanLyrics: |-
   Ya Fatimatu Zahra sallallaah ho alaiki
 
   6
-  Shaadmaaṅ aur Mazhar haiṅ karb ke aalam mein
-  Haath uthaate haiṅ mazlum ke maatam mein
+  Shaadmaaṅ aur Mazhar haiṅ karb ke aalam meiṅ
+  Haath uthaate haiṅ mazlum ke maatam meiṅ
   Ye azaakhaana apna thikaana ham isi dar ke ghulaam
   Bar aal-e-Muhammad salaam
   Salaam ae Umm-e-Abiha salaam

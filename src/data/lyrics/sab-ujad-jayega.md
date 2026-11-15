@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Sab ujar jaaye ga Zehra ka makaaṅ asr ke baad
-  Hoga Shabbir ke khaimoṅ mein dhuaaṅ asr ke baad
+  Hoga Shabbir ke khaimoṅ meiṅ dhuaaṅ asr ke baad
 
   1
   Subh-e-Aashur to de di Ali Akbar ne azaaṅ
@@ -20,7 +20,7 @@ romanLyrics: |-
 
   2
   Raakh pe khaimoṅ ki rote hue bachche hoṅ ge
-  Dasht mein hoga qayaamat ka samaaṅ asr ke baad
+  Dasht meiṅ hoga qayaamat ka samaaṅ asr ke baad
 
   3
   Ae Sakina tere kaanoṅ se lahu tapke ga
@@ -40,11 +40,11 @@ romanLyrics: |-
 
   7
   Kis tarah dil ko sambhaale gi Ali ki beti
-  Ran mein roye gi jo Shabbir ko maaṅ asr ke baad
+  Ran meiṅ roye gi jo Shabbir ko maaṅ asr ke baad
 
   8
   Kam se kam hai abhi bimaar ka bistar baaqi
-  Warna taqdir mein aaraam kahaaṅ asr ke baad
+  Warna taqdir meiṅ aaraam kahaaṅ asr ke baad
 
   9
   Ae Khuda Sayyid-e-Sajjad ko de quwwat-e-zabt

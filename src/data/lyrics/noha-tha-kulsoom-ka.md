@@ -39,7 +39,7 @@ romanLyrics: |-
   Woh to hai ghash meiṅ para haaye qayaamat hui
 
   7
-  Nauha Anees-e-haziṅ likh gaye Shaukat Makin
+  Nauha Anis-e-haziṅ likh gaye Shaukat Makin
   Jis ne jahaaṅ bhi suna haaye qayaamat hui
 # source_id: nohayonline:8c002381382ba1d6c174
 # source_url: https://www.nohayonline.com/details_content.php?id=249

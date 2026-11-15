@@ -30,8 +30,8 @@ romanLyrics: |-
 
   3
   Tumhaara hona hi ek bhaiya
-  Wo is gharibi mein tha sahaara
-  Bataao pardes mein bhala kaun
+  Wo is gharibi meiṅ tha sahaara
+  Bataao pardes meiṅ bhala kaun
   Zaalimoṅ se hameiṅ bachaaye
 
   4
@@ -42,7 +42,7 @@ romanLyrics: |-
 
   5
   Meri rida aur Husain ka sar
-  Teri hifaazat ki aar mein tha
+  Teri hifaazat ki aar meiṅ tha
   Tumhaare jaane ke baad donoṅ
   Pe chhaa gaye haiṅ sitam ke saaye
 
@@ -50,12 +50,12 @@ romanLyrics: |-
   Nahiṅ hai paani to laut aao
   Sakina tum bin na reh sakegi
   Wo jhel legi jo us ka Asghar
-  Tarap ke jhule mein bilbilaaye
+  Tarap ke jhule meiṅ bilbilaaye
 
   7
   Dua-e-Zehra sawaal-e-Haidar
   Ata-e-Khaaliq rida-e-Zainab
-  Yehi to Ghaazi hai Jaun khud mein
+  Yehi to Ghaazi hai Jaun khud meiṅ
   Jo in ka rabt-e-ziya dikhaaye
 # source_id: nohayonline:4109f6a3a4569a624de5
 # source_url: https://www.nohayonline.com/details_content.php?id=862

@@ -19,29 +19,29 @@ romanLyrics: |-
   Are sine se lipat bhaai ke Zainab ye pukaari
 
   Ae Sayyad-e-mazlum behen ho gayi waari
-  Main jaane nahiṅ dene ki Hazrat ki sawaari
+  Maiṅ jaane nahiṅ dene ki Hazrat ki sawaari
 
   1
   Dukhiyaari huṅ bhaiya na meri aas ko toro
-  Sadqe gayi pardes mein behna ko na chhoro
+  Sadqe gayi pardes meiṅ behna ko na chhoro
   Ab jaiyo jab ji se guzar jaayegi Zainab
   Hazrat ne kamar baandhi to mar jaayegi Zainab
 
   2
   Amma ki ye taakid thi mar jaiyo Zainab
   Jaaye ye jahaaṅ saath chali jaiyo Zainab
-  Main saath chaluṅgi tu jahaaṅ jaayega bhaai
+  Maiṅ saath chaluṅgi tu jahaaṅ jaayega bhaai
   Sharminda mujhe amma se karwaayega bhaai
 
   3
   Hazrat ki qasam mujh ko do betoṅ ka bhi gham ho
-  Duniya mein koi ho na ho bas aap ka dam ho
-  Bachpan se kabhi shehr mein bichhri na safar mein
-  So marne ko tum jaao main baithi rahuṅ ghar mein
+  Duniya meiṅ koi ho na ho bas aap ka dam ho
+  Bachpan se kabhi shehr meiṅ bichhri na safar meiṅ
+  So marne ko tum jaao maiṅ baithi rahuṅ ghar meiṅ
 
   4
-  Ae bhaai jahaaṅ jaaoge main saath chaluṅgi
-  Jangal mein rahuṅ ghar ka kabhi naam na luṅgi
+  Ae bhaai jahaaṅ jaaoge maiṅ saath chaluṅgi
+  Jangal meiṅ rahuṅ ghar ka kabhi naam na luṅgi
   Aada ki laraai se na dar jaayegi Zainab
   Katwa ke gala tegh se mar jaayegi Zainab
 
@@ -67,7 +67,7 @@ romanLyrics: |-
   Farzand nahiṅ bhaai bhatija nahiṅ koi
   Thaame jo rakaab aan ke itna nahiṅ koi
   Zehra ki sada aayi ye ba girya o zaari
-  Ae laal main thaamuṅgi rakaab aaj tumhaari
+  Ae laal maiṅ thaamuṅgi rakaab aaj tumhaari
 
   9
   Is halq ka aur tegh ka ahwaal ghazab hai

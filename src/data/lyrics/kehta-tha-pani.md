@@ -14,8 +14,8 @@ romanLyrics: |-
   Laa raib aag paani hai wo neamat-e-Khuda
   Mumkin nahiṅ ke shukr koi kar sake ada
   Lekin ye baat kaise koi bhul jaayega
-  Karbobala mein donoṅ ka kirdaar kya raha
-  Donoṅ hi sharmsaar ke aalam mein rehte haiṅ
+  Karbobala meiṅ donoṅ ka kirdaar kya raha
+  Donoṅ hi sharmsaar ke aalam meiṅ rehte haiṅ
   Ek dusre ke tanz hum waaqif sehte haiṅ
 
   1
@@ -35,7 +35,7 @@ romanLyrics: |-
   Ek chaar saala bachchi ka daaman jala diya
 
   3
-  Pardes mein Rasul ka tu ne jalaaya ghar
+  Pardes meiṅ Rasul ka tu ne jalaaya ghar
   Ghar jal gaya to Aal kahaaṅ pe chhupaati sar
   Majbur ho ke baithi rahi jalti ret par
   Saidaaniyoṅ ne zer-e-falak raat ki basar
@@ -46,17 +46,17 @@ romanLyrics: |-
   Khafgi se aag kehne lagi ae jafa shiaar
   Kis munh se kar raha hai khata meri aashkaar
   Tu wo shaqi hai jis ke liye Shaah-e-naamdaar
-  Hujjat tamaam karte rahe ran mein baar baar
+  Hujjat tamaam karte rahe ran meiṅ baar baar
   Tu maujeṅ maarta raha aada ko khush kiya
   Ek bezabaaṅ pyaas ki shiddat se mar gaya
 
   5
   Teri ata se saara jahaaṅ faizyaab tha
   Fauj-e-Yazid par to karam behisaab tha
-  Tu mehr-e-Faatima mein khaana kharaab tha
+  Tu mehr-e-Faatima meiṅ khaana kharaab tha
   Phir kiuṅ usi ki Aal par tera ataab tha
   Kya munh dikhaayega sar-e-mahshar Batul ko
-  Dega jawaab hashr mein kaise Rasul ko
+  Dega jawaab hashr meiṅ kaise Rasul ko
 
   6
   Tu chaahta agar to kinaare to tor kar
@@ -77,7 +77,7 @@ romanLyrics: |-
   8
   Ae nur-e-ain-e-Faatima Zehra o Buturaab
   Tu ne kiya hai khun se Asghar ke jo khizaab
-  Haqqa ke imtehaan mein thahra tu kaamyaab
+  Haqqa ke imtehaan meiṅ thahra tu kaamyaab
   Bas ae Husain aaja mere paas ae shitaab
   Duri Anis ko nahiṅ achchhi Anis se
   Aajaao jald aa ke milo hamjalis se

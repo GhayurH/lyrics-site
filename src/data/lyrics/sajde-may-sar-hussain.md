@@ -1,6 +1,6 @@
 ---
 title: "سجدے میں سر حُسین کا تیروں کے درمیاں"
-alternateTitle: "Sajde Mein Sar Husain"
+alternateTitle: "Sajde Meiṅ Sar Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,19 +10,19 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Sajde mein sar Husain ka tiroṅ ke darmiyaaṅ
+  Sajde meiṅ sar Husain ka tiroṅ ke darmiyaaṅ
   Khaimoṅ se aa raha tha ik shor al-amaaṅ
 
   1
   Kaisa tufaan aaya Aal-e-Rasul par
-  Khaimoṅ mein kah rahi thiṅ ro ro ke bibiyaaṅ
+  Khaimoṅ meiṅ kah rahi thiṅ ro ro ke bibiyaaṅ
 
   2
   Paani ko gaye Ghaazi aaye na laut kar
   Bachche bilak rahe the le le ke hichkiyaaṅ
 
   3
-  Naana teri ummat ke kuchh log Shaam mein
+  Naana teri ummat ke kuchh log Shaam meiṅ
   Sar nange le ke aaye Zahra ki betiyaaṅ
 
   4

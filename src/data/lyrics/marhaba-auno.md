@@ -15,9 +15,9 @@ romanLyrics: |-
 
   1
   Jafar ke tum ho pote tum fakhr-e-Murtaza ho
-  Azm o bahaaduri mein tum misl-e-bawafa ho
+  Azm o bahaaduri meiṅ tum misl-e-bawafa ho
   Dushmanoṅ ka naqsha badal daalo
-  Karbala mein zulmat mita do
+  Karbala meiṅ zulmat mita do
   Lab pe Sarwar ke ye sada ho
 
   2
@@ -39,13 +39,13 @@ romanLyrics: |-
   Talwaaroṅ pe tan tan ke aage barho dileroṅ
   Din-e-Ahmed pe jaaṅ luta do
   Dushman-e-Sheh ke sar ko urha do
-  Is ghadi dil se meri sada ho
+  Is ghari dil se meri sada ho
 
   5
   Ahmed Aqil o Rehan noha jo sunaate haiṅ
   Zehra ki hi chaukhat se tauqir wo paate haiṅ
-  Gham-e-Shabbir mein khub ro lo
-  Sheh ke maatam mein khuṅ baha lo
+  Gham-e-Shabbir meiṅ khub ro lo
+  Sheh ke maatam meiṅ khuṅ baha lo
   Par Husain ki bas ye baqa ho
 # source_id: nohayonline:dc87ade4bcf4933469fb
 # source_url: https://www.nohayonline.com/details_content.php?id=869

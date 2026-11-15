@@ -1,6 +1,6 @@
 ---
 title: "آ گئی شام غریباں کہاں جائے زینب"
-alternateTitle: "Aagayi Shame Ghariban"
+alternateTitle: "Aagayi Shame Gharibaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -20,9 +20,9 @@ romanLyrics: |-
   Jal raha hai wohi daaman kahaṅ jaye Zainab
 
   2
-  Aur hi rang tha jangal mein jab aayi thi yahaṅ
-  Phul hi phul the aanchal mein jab aayi thi yahaṅ
-  Haye ab khaak badawaṅ kahaṅ jaye Zainab
+  Aur hi rang tha jangal meiṅ jab aayi thi yahaṅ
+  Phul hi phul the aanchal meiṅ jab aayi thi yahaṅ
+  Haye ab khaak barawaṅ kahaṅ jaye Zainab
 
   3
   Sab se Zainab ko jo pyara tha wo bhai na bacha
@@ -32,17 +32,17 @@ romanLyrics: |-
   4
   Maangti hai wo qaza par na qaza aati hai
   Gar Sakina ko bachaye to rida jaati hai
-  Aise aalam mein pareshan kahaṅ jaye Zainab
+  Aise aalam meiṅ pareshan kahaṅ jaye Zainab
 
   5
   Khaak par girta hai koi koi ghash khaata hai
-  Koi bachcha kahiṅ sholoṅ mein ghira jata hai
+  Koi bachcha kahiṅ sholoṅ meiṅ ghira jata hai
   Ek hai sab ki nigehbaan kahaṅ jaye Zainab
 
   6
   Haye ye shaam-e-gharibaṅ kahaṅ le aayi Naved
   Shaah ka sar rota hai Zainab ki hai tanhaai Naved
-  Kehne ko haye pareshan kahaṅ jaye Zainab
+  Kehne ko haye pareshaṅ kahaṅ jaye Zainab
 # source_id: nohayonline:73c569c4c9eef9d04f92
 # source_url: https://www.nohayonline.com/details_content.php?id=1494
 # raw_sha256: 9c61f2c7cf6365fe84702abb048c1ae9fadf49990729f7b97c868fe56d7aca01

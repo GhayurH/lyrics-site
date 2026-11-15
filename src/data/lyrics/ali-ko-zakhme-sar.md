@@ -14,23 +14,23 @@ published: true
 # raw_sha256: eb44b67d440466ebfb53fdbab16c6e895557fc0b74f20b4574eabe1b4b44f1a5
 romanLyrics: |-
   Ali ko zakhm-e-sar tarpa raha hai
-  Musalla khuṅ mein duba ja raha hai
+  Musalla khuṅ meiṅ duba ja raha hai
 
   1
   Namazi sath hai chadar sambhale
   Nabi ka janashiṅ yuṅ ja raha hai
 
   2
-  Hui thi Kabe mein jis ki wiladat
-  Wo masjid mein shahadat pa raha hai
+  Hui thi Kabe meiṅ jis ki wiladat
+  Wo masjid meiṅ shahadat pa raha hai
 
   3
   Batati hai rukh-e-Haider pe zardi
-  Lahu mein zahr milta ja raha hai
+  Lahu meiṅ zahr milta ja raha hai
 
   4
   Sawar-e-dosh-e-Ahmad ko to dekho
-  Lahu mein dub kar ghar ja raha hai
+  Lahu meiṅ dub kar ghar ja raha hai
 
   5
   Hasan ko de ke miras-e-Payambar
@@ -62,7 +62,7 @@ romanLyrics: |-
 
   12
   Ali ko Fazl manzar Karbala ka
-  Tasawwur mein sab aa raha hai
+  Tasawwur meiṅ sab aa raha hai
 ---
 
 علی کو زخمِ سر تڑپا رہا ہے

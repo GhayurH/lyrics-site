@@ -14,17 +14,17 @@ romanLyrics: |-
   Jab mujhe aap ke qaatil ne hai maara Baba
   Har tamaache pe Sakina ne pukaara Baba
 
-  Baba main Shimr se kehti thi tum mere paas na aana
-  Goya aalam mein sab se behtar hai mera paak gharaana
-  Main chhoti Fatima Zahra huṅ na mujh ko haath lagaana
+  Baba maiṅ Shimr se kehti thi tum mere paas na aana
+  Goya aalam meiṅ sab se behtar hai mera paak gharaana
+  Maiṅ chhoti Fatima Zahra huṅ na mujh ko haath lagaana
   Par phir bhi us zaalim ne kiya mujh pe tars zara na
 
   1
   Mujhe baaloṅ se pakar kar haiṅ tamaache maare
-  Main ne sar Shimr se maanga jo tumhaara Baba
+  Maiṅ ne sar Shimr se maanga jo tumhaara Baba
 
   2
-  Wo jo dur aap ne tohfe mein mujhe bakhshe the
+  Wo jo dur aap ne tohfe meiṅ mujhe bakhshe the
   Un ko bedardi se zaalim ne utaara Baba
 
   3
@@ -37,7 +37,7 @@ romanLyrics: |-
 
   5
   Meri ghurbat pe chacha jaan ka sar rota hai
-  Un ki ghurbat main karuṅ kaise gawaara Baba
+  Un ki ghurbat maiṅ karuṅ kaise gawaara Baba
 
   6
   Nok-e-naiza pe use dekhuṅ to dekhuṅ kaise

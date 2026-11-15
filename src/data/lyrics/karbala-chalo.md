@@ -19,14 +19,14 @@ romanLyrics: |-
   Bint-e-Rasul takti hai tum sab ka raasta
 
   1
-  Zahra ka laal qabr mein hasrat ye le gaya
+  Zahra ka laal qabr meiṅ hasrat ye le gaya
   Akbar ka kalma goyoṅ ne pursa nahiṅ diya
   Ab Shah ko pursa dena hai karyal jawaan ka
 
   2
   Ji bhar ke apne bhaai ko Zainab na ro saki
   Majlis zamin-e-Karbobala par na ho saki
-  Armaan-e-Sayyida mein bichhaane saf-e-aza
+  Armaan-e-Sayyida meiṅ bichhaane saf-e-aza
 
   3
   Khanjar tale Husain ki aaheṅ gawaah hai
@@ -44,23 +44,23 @@ romanLyrics: |-
   Aansu wahaaṅ giraayeṅ ge paani jahaaṅ gira
 
   6
-  Qismat se waqt aaye ga jab ye hayaat mein
-  Tum apni betiyoṅ ko bhi le jaana saath mein
+  Qismat se waqt aaye ga jab ye hayaat meiṅ
+  Tum apni betiyoṅ ko bhi le jaana saath meiṅ
   Akbar ko wo sunaaye gi Sughra ka marsiya
 
   7
   Ek saal baad bhaai ka sar jis ghari mila
   Abid se ro ke kehti thi ye Bint-e-Sayyida
-  Dafnaauṅ gi main haathoṅ se sar apne bhaai ka
+  Dafnaauṅ gi maiṅ haathoṅ se sar apne bhaai ka
 
   8
   Chehlum bhi apne baap ka bachchi na kar saki
-  Roti hui wo Shaam ke zindaaṅ mein mar gayi
+  Roti hui wo Shaam ke zindaaṅ meiṅ mar gayi
   Ae kaash koi keh de Sakina se ye zabaaṅ
 
   9
-  Is saal arbaeen pe aisa ho ehtemaam
-  Ae kaash zaairoṅ mein ho shaamil hamaara naam
+  Is saal arbain pe aisa ho ehtemaam
+  Ae kaash zaairoṅ meiṅ ho shaamil hamaara naam
   Aur de hameṅ bhi Hazrat-e-Abbas ye sada
 
   10

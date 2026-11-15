@@ -1,6 +1,6 @@
 ---
 title: "زینب نے کہا ماں کی لحد سے یہ لپٹ کر"
-alternateTitle: "Pardes Mein Barbad"
+alternateTitle: "Pardes Meiṅ Barbad"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,31 +12,31 @@ aliases: []
 published: true
 romanLyrics: |-
   Zainab ne kaha maaṅ ki lahad se ye lipat kar
-  Pardes mein barbaad hua mera bhara ghar
+  Pardes meiṅ barbaad hua mera bhara ghar
 
   1
   Amma Ali Akbar pe hua zulm kahuṅ kya
   Zakhmi tha kaleja
-  Tha khun mein duba hua wo mannatoṅ wala
+  Tha khun meiṅ duba hua wo mannatoṅ wala
   Laila ne bhi dekha
   Laasha raha begor o kafan jalti zamiṅ par
 
   2
   Sab qatl hue jab hua bhai mera tanha
   Is zulm se maara
-  Wo kehta raha huṅ main Muhammad ka nawasa
+  Wo kehta raha huṅ maiṅ Muhammad ka nawasa
   Kuch rahm na khaaya
   Tha pyaasa gala bhai ka aur Shimr ka khanjar
 
   3
-  Amma mere bhai ka raha dhup mein laasha
+  Amma mere bhai ka raha dhup meiṅ laasha
   Sar tan se juda tha
   Koi na tha dil gham se mera dub raha tha
   Kya waqt para tha
   Mayyat pe urhaane ke liye thi nahiṅ chaadar
 
   4
-  Jis waqt hue Shaam ke darbaar mein daakhil
+  Jis waqt hue Shaam ke darbaar meiṅ daakhil
   Thi sakht wo manzil
   Yaad aa gaye Abbas to dil ho gaya bismil
   Tha zabt bhi mushkil
@@ -46,13 +46,13 @@ romanLyrics: |-
   Nikli thi Madine se to hamraah tha kunba
   Ab kya kahe dukhiya
   Dil tut gaya shakh hai mera gham se kaleja
-  Main rah gayi tanha
-  Jangal mein luta aayi huṅ main tera bhara ghar
+  Maiṅ rah gayi tanha
+  Jangal meiṅ luta aayi huṅ maiṅ tera bhara ghar
 
   6
   Thi zulm ki ye had ke kayi baar ghash aaya
   Par khud ko sambhaala
-  Khud sabr kiya main ne diya sab ko dilaasa
+  Khud sabr kiya maiṅ ne diya sab ko dilaasa
   Waada hua pura
   Ab zabt nahiṅ paas bula lijiye maadar
 # source_id: nohayonline:20f3eb560b948cdc47cf

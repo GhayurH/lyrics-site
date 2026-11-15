@@ -15,14 +15,14 @@ romanLyrics: |-
   Hai Husain ibn-e-Ali din ki jaan kaho
 
   Us namaazi pe na ho kaise Allah ko naaz
-  Tute tiroṅ pe ada ki hai maqtal mein namaaz
+  Tute tiroṅ pe ada ki hai maqtal meiṅ namaaz
   Haq hai us ka jo ise haq ki pehchaan kaho
   Alal elaan kaho sar-e-maidaan kaho
   Jaise Khwaja ne kaha din panaah ast Husain
 
   1
   Pehno ehraam agar chumo Kaabe ka ghilaaf
-  Jaa ke Kaabe mein karo jab bhi Kaabe ka tawaaf
+  Jaa ke Kaabe meiṅ karo jab bhi Kaabe ka tawaaf
   Shukriya jaan-e-Ali hajj ke dauraan kaho
 
   2
@@ -41,18 +41,18 @@ romanLyrics: |-
   Baat insaaf ki hai sab Musalmaan kaho
 
   5
-  Us ne maqtal mein rakhi lafz-e-Islam ki laaj
+  Us ne maqtal meiṅ rakhi lafz-e-Islam ki laaj
   Maut se is ne kiya charh ke naize pe khiraaj
   Ruh-e-Islam kaho jaan-e-Quran kaho
 
   6
-  Haq ki raahoṅ mein fida apna ghar baar kiya
+  Haq ki raahoṅ meiṅ fida apna ghar baar kiya
   Thak ke soya tha bashar us ne bedaar kiya
   Mazhar-e-zaat-e-Khuda hai ye insaan kaho
 
   7
   Aamir Akhtar ba Khuda ye na hota jo kahiṅ
-  Rakhta kis simt bashar apni sajde mein jabin
+  Rakhta kis simt bashar apni sajde meiṅ jabiṅ
   Jaan-e-Zehra pe hai ye jaan qurbaan kaho
 # source_id: nohayonline:dedf4089b3cc5005bcf6
 # source_url: https://www.nohayonline.com/details_content.php?id=3665

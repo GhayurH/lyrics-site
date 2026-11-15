@@ -18,7 +18,7 @@ romanLyrics: |-
   Amma ne ye farmaya tha ghar laut ke aana
   Is chaṅd si surat ko hameṅ phir se dikhana
   Yaṅ khaak basar un ka pisar ho gaya Baba
-  Chehra to mera khun mein tar ho gaya Baba
+  Chehra to mera khun meiṅ tar ho gaya Baba
 
   2
   Behtar hai chhupa de mere sine ke nishan ko
@@ -35,14 +35,14 @@ romanLyrics: |-
   4
   Baba ye mera khun to kaproṅ se hata do
   Achha to mujhe dusri poshak pehna do
-  Ghaltaṅ mujhe dekhegi agar khuṅ ke wuzu mein
-  Keh deṅgi mere dudh ki khushbu hai lahu mein
+  Ghaltaṅ mujhe dekhegi agar khuṅ ke wuzu meiṅ
+  Keh deṅgi mere dudh ki khushbu hai lahu meiṅ
 
   5
-  Dam haathoṅ mein de jaata hai jab god ka pala
+  Dam haathoṅ meiṅ de jaata hai jab god ka pala
   Phir zinda nahiṅ rehti hai wo maaṅ Shah-e-Wala
   Ye bar-e-garaṅ Ae mere Maula nahiṅ uthta
-  Maaoṅ se jawaṅ bete ka sadma nahiṅ uthta
+  Maaoṅ se jawaaṅ bete ka sadma nahiṅ uthta
 
   6
   Ghar jaane ki halat to nahiṅ aisi hamari
@@ -54,12 +54,12 @@ romanLyrics: |-
   Kehna ke pisar aap ne Shabbir pe wara
   Maqbul kare aap ki qurbani ko Zehra
   Amma ho mubarak ye bara kaam hua hai
-  Zehra ki kanizoṅ mein tera naam hua hai
+  Zehra ki kanizoṅ meiṅ tera naam hua hai
 
   8
-  Laila ke jawaṅ laal ka Ae Shadmaṅ noha
+  Laila ke jawaaṅ laal ka Ae Shadmaṅ noha
   Taaid-e-Husaini se Raza aap ne likha
-  Allah re majlis mein bara josh-e-fughaṅ hai
+  Allah re majlis meiṅ bara josh-e-fughaṅ hai
   Matlab ke yahaṅ aur bhi ek marsiyakhwaṅ hai
 # source_id: nohayonline:8e53c0c712f36f2db687
 # source_url: https://www.nohayonline.com/details_content.php?id=3217

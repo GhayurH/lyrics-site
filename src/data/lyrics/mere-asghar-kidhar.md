@@ -22,7 +22,7 @@ romanLyrics: |-
   1
   Mojiz numa hai Taahira Khairunnisa haiṅ aap
   Ham auratoṅ ke waaste mushkil kusha haiṅ aap
-  Baahoṅ mein meri jhulne wala kidhar gaya
+  Baahoṅ meiṅ meri jhulne wala kidhar gaya
 
   2
   Dar se kabhi na aap ke khaali gaya koi
@@ -30,8 +30,8 @@ romanLyrics: |-
   Mujhko bhi ab bataaeṅ khudaara kidhar gaya
 
   3
-  Jhule mein dhundti huṅ kabhi khaima gaah mein
-  Phirta hai mera laadla meri nigaah mein
+  Jhule meiṅ dhundti huṅ kabhi khaima gaah meiṅ
+  Phirta hai mera laadla meri nigaah meiṅ
   Hansta hua wo pyaara sa chehra kidhar gaya
 
   4
@@ -47,12 +47,12 @@ romanLyrics: |-
   6
   Qadmoṅ se apne chal ke sidhaara na haaye haaye
   Maaṅ kah ke ek dafa bhi pukaara na haaye haaye
-  Khaime mein mujhko chhor ke tanha kidhar gaya
+  Khaime meiṅ mujhko chhor ke tanha kidhar gaya
 
   7
   Taqsir bahal kijiye laundi huṅ aap ki
-  Ek maaṅ ka dard maaṅ hi hai duniya mein jaanti
-  Puchhuṅ main kis se hansloṅ wala kidhar gaya
+  Ek maaṅ ka dard maaṅ hi hai duniya meiṅ jaanti
+  Puchhuṅ maiṅ kis se hansloṅ wala kidhar gaya
 
   8
   Aayi sada ae beti meri kiuṅ udaas hai

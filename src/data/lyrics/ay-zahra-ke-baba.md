@@ -18,21 +18,21 @@ romanLyrics: |-
   Lahu Fatema ka bahaaya gaya hai
 
   1
-  Madine ki kya thi main haalat bataauṅ
+  Madine ki kya thi maiṅ haalat bataauṅ
   Tumheṅ Sayyeda ki musibat bataauṅ
   Kabhi aag dar par lagayi hai uske
   Kabhi haath us par uthaya gaya hai
 
   2
   Sada aa rahi thi ye ghar hi mita do
-  Jo rehte haiṅ ghar mein unheṅ bhi jala do
+  Jo rehte haiṅ ghar meiṅ unheṅ bhi jala do
   Taharat ka kaaba jalane ki khaatir
   Jamaat ko saari bulaaya gaya hai
 
   3
   Koi bhi na samjha Shah-e-La Fata ko
   Ye gham khaa gaya hai teri Fatema ko
-  Madine ki galiyoṅ mein qaidi bana kar
+  Madine ki galiyoṅ meiṅ qaidi bana kar
   Tere jaanashiṅ ko phiraaya gaya hai
 
   4
@@ -50,7 +50,7 @@ romanLyrics: |-
   6
   Giri khaak par arsh par rehne waali
   Shikasta hui uske kaanoṅ ki baali
-  Lahu chashm-e-Zahra mein bharne laga tha
+  Lahu chashm-e-Zahra meiṅ bharne laga tha
   Tamaacha hi aisa lagaaya gaya hai
 
   7
@@ -62,7 +62,7 @@ romanLyrics: |-
   8
   Ali ne banaayi thi chaalis qabreṅ
   Pata puchhti hai Takallum ki aaheṅ
-  Zamin-e-Madina mein jaane kahaaṅ par
+  Zamin-e-Madina meiṅ jaane kahaaṅ par
   Khazaana tumhaara chhupaaya gaya hai
 # source_id: nohayonline:1df23ca76af2882bd517
 # source_url: https://www.nohayonline.com/details_content.php?id=3077

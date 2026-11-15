@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zindaaṅ mein Sakina ki hai sada aajao mere baba
+  Zindaaṅ meiṅ Sakina ki hai sada aajao mere baba
   Noha tha Sakina ka aajao mere baba
 
   Mushkil hai mera jina aajao mere baba
@@ -21,7 +21,7 @@ romanLyrics: |-
   Jalta hai mera kurta aajao mere baba
 
   2
-  Har gham mein musibat hai durroṅ ki aziyat hai
+  Har gham meiṅ musibat hai durroṅ ki aziyat hai
   Ye haal hai ab mera aajao mere baba
 
   3
@@ -30,7 +30,7 @@ romanLyrics: |-
 
   4
   Jo ran ko gaya baba waapas wo nahiṅ aaya
-  Khaime mein hai sannaata aajao mere baba
+  Khaime meiṅ hai sannaata aajao mere baba
 
   5
   Sine pe sinaaṅ khaaye Akbar bhi gaye maare
@@ -46,7 +46,7 @@ romanLyrics: |-
 
   8
   Chaadar bhi nahiṅ sar par le jaate haiṅ wo dar dar
-  Hai qaid mein wo kunba aajao mere baba
+  Hai qaid meiṅ wo kunba aajao mere baba
 
   9
   Keh dijiye Hilal us ja ek shor tha girya tha

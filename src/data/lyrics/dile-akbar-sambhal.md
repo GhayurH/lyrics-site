@@ -15,7 +15,7 @@ romanLyrics: |-
 
   1
   Sunta huṅ dam nikalna mushkil hai
-  Baanheiṅ gardan mein daal do baba
+  Baanheiṅ gardan meiṅ daal do baba
 
   2
   Ek khat ke likh ke meri Sughra ko

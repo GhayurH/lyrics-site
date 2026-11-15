@@ -15,8 +15,8 @@ romanLyrics: |-
   To phir Islam mustahkam na hota
 
   1
-  Sar-e-maqtal tarapti kiun jawani
-  Agar barchhi mein uljha dam na hota
+  Sar-e-maqtal tarapti kiuṅ jawani
+  Agar barchhi meiṅ uljha dam na hota
 
   2
   Agar dharas na banta sabr-e-Shabbir
@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   Na hoti gar bahattar ki shahadat
-  Khushi dunya mein hoti gham na hota
+  Khushi dunya meiṅ hoti gham na hota
 
   4
   Na hote gar Husain Islam Haq par
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   6
   Na chhut jaata agar godi ka pala
-  To phir Bano ke dil mein gham na hota
+  To phir Bano ke dil meiṅ gham na hota
 
   7
   Agar haq par na hote marne wale
@@ -47,7 +47,7 @@ romanLyrics: |-
   Zamiṅ se aasmaṅ tak gham na hota
 
   9
-  Behan gar qaidkhane mein na jaati
+  Behan gar qaidkhane meiṅ na jaati
   To bhai Fateh-e-Azam na hota
 
   10

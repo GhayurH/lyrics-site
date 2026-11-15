@@ -11,11 +11,11 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Main jahaaṅ jaauṅ mere andar basi hai Karbala
-  Ban ke dharkan mere dil mein gunjti hai Karbala
+  Maiṅ jahaaṅ jaauṅ mere andar basi hai Karbala
+  Ban ke dharkan mere dil meiṅ gunjti hai Karbala
 
   1
-  Mere sine mein azal se bas raha hai Ya Husain
+  Mere sine meiṅ azal se bas raha hai Ya Husain
   Ye jo dharkan ki musalsal ek sada hai Ya Husain
   Har ghari aawaazeṅ mujh ko de rahi hai Karbala
 
@@ -26,11 +26,11 @@ romanLyrics: |-
 
   3
   Maaṅ ne dikhlaaya hai rasta farsh-e-majlis ka hameṅ
-  Halqa-e-maatam mein le kar aaye haiṅ Baba hameṅ
+  Halqa-e-maatam meiṅ le kar aaye haiṅ Baba hameṅ
   God se maaṅ baap ki ham ko mili hai Karbala
 
   4
-  Shaam o Kufa ke safar mein beriyaaṅ thaame rahi
+  Shaam o Kufa ke safar meiṅ beriyaaṅ thaame rahi
   Tauq ka bosa kabhi zanjir ka bosa kabhi
   Aabid-e-bimaar se lipti hui hai Karbala
 

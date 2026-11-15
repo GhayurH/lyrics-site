@@ -14,7 +14,7 @@ romanLyrics: |-
   Ye kaifiat jo gham o alam ki
   Tamaam aalam pe chhaa rahi hai
   Nabi ki dilbar ke khuṅ ki khushbu
-  Fizaa mein ab tak samaa rahi hai
+  Fizaa meiṅ ab tak samaa rahi hai
 
   1
   Nabi se dunya ki zeb o zinat
@@ -47,14 +47,14 @@ romanLyrics: |-
   Tamaache zaalim ke khaa rahi hai
 
   6
-  Har ek shai is ke hukm mein hai
+  Har ek shai is ke hukm meiṅ hai
   Magar ye isaar Allah Allah
   Ali ki beti hamare khaatir
-  Rasan mein baazu bandha rahi hai
+  Rasan meiṅ baazu bandha rahi hai
 
   7
   Habib-e-Rab ki nawaasiyaṅ jo
-  Barehna sar izdahaam mein hai
+  Barehna sar izdahaam meiṅ hai
   Hawaa musalsal ghubaar ura kar
   Saroṅ pe chaadar orhaa rahi hai
 
@@ -62,7 +62,7 @@ romanLyrics: |-
   Asad wo kina ke ghasb-e-haq se
   Har ek buraai se bas hamesha
   Husain ki yaad haq ki jaanib
-  Nadeem tujhko bula rahi hai
+  Nadim tujhko bula rahi hai
 # source_id: nohayonline:518eee4833dc8fcc99a3
 # source_url: https://www.nohayonline.com/details_content.php?id=1694
 # raw_sha256: 6824de731566d17e16bd9ef359aec4cf0249c3821892d2e66c62b5256eff917e

@@ -12,9 +12,9 @@ aliases: []
 published: true
 romanLyrics: |-
   Is gham ne azadaroṅ bahot mujhko rulaya
-  Is saal bhi zawwaroṅ mein jab naam na aaya
+  Is saal bhi zawwaroṅ meiṅ jab naam na aaya
   Dil tut gaya Karbala na jaane ke gham se
-  Ro ro ke kaha main ne lipat kar ye alam se
+  Ro ro ke kaha maiṅ ne lipat kar ye alam se
   Ek baar mujhe bhi to sada do
   Abbas Abbas Abbas mujhe Karbala dikha do
   Shabbir ka zawwar bana do
@@ -32,17 +32,17 @@ romanLyrics: |-
   2
   Milta hai koi jab safar-e-ishq se aa kar
   Rota huṅ bahot der gale us ko laga kar
-  Main bhi to azadar huṅ kya dil nahiṅ mera
-  Zawwaroṅ ki khidmat mein karuṅ paoṅ daba kar
-  Wahaṅ paidal main chaluṅ saare maukab dekhuṅ
+  Maiṅ bhi to azadar huṅ kya dil nahiṅ mera
+  Zawwaroṅ ki khidmat meiṅ karuṅ paoṅ daba kar
+  Wahaṅ paidal maiṅ chaluṅ saare maukab dekhuṅ
   Wa Husaina keh kar khaak chehre pe maluṅ
   Ik baar mashi mujhko kara do
 
   3
   Paoṅ the kahiṅ jism kahiṅ haath kahiṅ the
-  Rauza hai jahaṅ khuṅ mein tar aap wahiṅ the
-  Teer aankh mein tha chehra bhi zakhmoṅ se bhara tha
-  Jab zin se gire aap ke bazu hi nahiṅ the
+  Rauza hai jahaṅ khuṅ meiṅ tar aap wahiṅ the
+  Tir aankh meiṅ tha chehra bhi zakhmoṅ se bhara tha
+  Jab ziṅ se gire aap ke bazu hi nahiṅ the
   Pursa dena hai mujhe aap ko ro ro ke
   Jahaṅ donoṅ bazu khaak par kat ke gire
   Donoṅ kaf-e-Abbas dikha do
@@ -51,35 +51,35 @@ romanLyrics: |-
   Sine se lipat jaata hai jaise koi bachcha
   Aise hai mujhe Shah ke rauze se lipatna
   Mas kar ke sabhi apna kafan laate haiṅ lekin
-  Main un ke liye le ke kafan jauṅga Maula
+  Maiṅ un ke liye le ke kafan jauṅga Maula
   Dil tarapta hai mera aaj bhi ae Maula
-  Bekafan ghurbat mein hai Gharib-e-Zehra
+  Bekafan ghurbat meiṅ hai Gharib-e-Zehra
   Mujhko mere Maula se mila do
 
   5
   Jab pehli nazar aap ke gumbad pe paregi
-  Gir jauṅga sajde mein dua maṅguṅga Ghazi
+  Gir jauṅga sajde meiṅ dua maṅguṅga Ghazi
   Har saal yahaṅ aata rahuṅ aap se milne
   Sun lena Alamdar tum awaz ye dil ki
   Tum hi to sunte ho haaṅ karam karte ho
-  Hum azadaroṅ ke dil mein tum rehte ho
+  Hum azadaroṅ ke dil meiṅ tum rehte ho
   Tum mojiza ab koi dikha do
 
   6
   Zawwaroṅ se aati hai mujhe aap ki khushbu
   Aankhoṅ se nikal aate haiṅ Maula mere aaṅsu
-  Hasrat se unheṅ dekhta rehta huṅ main ro kar
+  Hasrat se unheṅ dekhta rehta huṅ maiṅ ro kar
   Us waqt nahiṅ rehta hai dil par mere qabu
   Dil ye kehta hai mera ae Shahanshah-e-Wafa
-  Karbala mein mera kab bulawa hoga
+  Karbala meiṅ mera kab bulawa hoga
   Ab jald koi raah bana do
 
   7
   Abbas jahaṅ par hui Akbar ki shahadat
-  Kya mere muqaddar mein nahiṅ hai wo ziyarat
+  Kya mere muqaddar meiṅ nahiṅ hai wo ziyarat
   Akbar ke kaleje pe jahaṅ tuti thi barchhi
   Tuti thi wahiṅ Dilbar-e-Zehra pe qayamat
-  Dekh luṅ main ja kar wo maqam-e-Akbar
+  Dekh luṅ maiṅ ja kar wo maqam-e-Akbar
   Shah pahunche the jahaṅ khaak par gir gir kar
   Akbar se mohabbat ka sila do
 
@@ -90,7 +90,7 @@ romanLyrics: |-
   Ik baar unheṅ bali Sakina ki qasam do
   Jald wo aaeṅge Shah bulwaeṅge
   Aur tumheṅ Karbobala saath le jaaeṅge
-  Ae Mesum o Zeeshan sada do
+  Ae Mesum o Zishan sada do
 # source_id: nohayonline:0f9e323e9778f8fd58fb
 # source_url: https://www.nohayonline.com/details_content.php?id=3641
 # raw_sha256: e6b6102d579b7c46d2bf2f1b2030b838a532b4cefe657d117145f8b8b601abc8

@@ -10,74 +10,74 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Aamad aamad haram-e-Shah ki darbar mein hai
+  Aamad aamad haram-e-Shah ki darbar meiṅ hai
 
-  Subh se jashn ka ghul Shaam ke bazaar mein hai
-  Shor-e-faryad o buka Itrat-e-Athar mein hai
+  Subh se jashn ka ghul Shaam ke bazaar meiṅ hai
+  Shor-e-faryad o buka Itrat-e-Athar meiṅ hai
 
   1
   Hukm aaya hai asiroṅ ko barabar maaro
   Jashn ka waqt hai durre inheṅ haṅs kar maaro
   Ek munadi ye nida deta hai aao logoṅ
   Baghi aaye haiṅ inheṅ shauq se patthar maaro
-  Subh se jashn ka ghul Shaam ke bazaar mein hai
-  Shor-e-faryad o buka Itrat-e-Athar mein hai
+  Subh se jashn ka ghul Shaam ke bazaar meiṅ hai
+  Shor-e-faryad o buka Itrat-e-Athar meiṅ hai
 
   2
-  Khun mein duba hua sadat ka har chehra hai
+  Khun meiṅ duba hua sadat ka har chehra hai
   Girya kar sakte nahiṅ aah pe bhi pehra hai
   Sangbari ki aziyat bhi bari hai lekin
   Zakhm sadqe ki khajuroṅ ka bahot gehra hai
-  Subh se jashn ka ghul Shaam ke bazaar mein hai
-  Shor-e-faryad o buka Itrat-e-Athar mein hai
+  Subh se jashn ka ghul Shaam ke bazaar meiṅ hai
+  Shor-e-faryad o buka Itrat-e-Athar meiṅ hai
 
   3
   Dekh kar Aal-e-Muhammad ko haṅse jaate haiṅ
   Log har mor pe bas taane diye jaate haiṅ
   Chadareṅ kya hai kafan bhi nahiṅ deta koi
   Zinda laashe liye Sajjad chale jaate haiṅ
-  Subh se jashn ka ghul Shaam ke bazaar mein hai
-  Shor-e-faryad o buka Itrat-e-Athar mein hai
+  Subh se jashn ka ghul Shaam ke bazaar meiṅ hai
+  Shor-e-faryad o buka Itrat-e-Athar meiṅ hai
 
   4
-  Mustaqil Aal-e-Muhammad mein azadari hai
+  Mustaqil Aal-e-Muhammad meiṅ azadari hai
   Aur bimar ki aankhoṅ se lahu jaari hai
-  Berida Shaam ke bazaar mein aate haiṅ haram
+  Berida Shaam ke bazaar meiṅ aate haiṅ haram
   Aisa lagta hai kisi Eid ki tayyari hai
-  Subh se jashn ka ghul Shaam ke bazaar mein hai
-  Shor-e-faryad o buka Itrat-e-Athar mein hai
+  Subh se jashn ka ghul Shaam ke bazaar meiṅ hai
+  Shor-e-faryad o buka Itrat-e-Athar meiṅ hai
 
   5
   Jholi bhar bhar ke sitamgar haiṅ laaye patthar
-  Pattharoṅ ne bhi hai haathoṅ mein uthaye patthar
+  Pattharoṅ ne bhi hai haathoṅ meiṅ uthaye patthar
   Nok-e-neza se gira khaak pe sar Asghar ka
   Are chhote bachchoṅ se Sakina ne jo khaaye patthar
-  Subh se jashn ka ghul Shaam ke bazaar mein hai
-  Shor-e-faryad o buka Itrat-e-Athar mein hai
+  Subh se jashn ka ghul Shaam ke bazaar meiṅ hai
+  Shor-e-faryad o buka Itrat-e-Athar meiṅ hai
 
   6
   Bab-e-Saat pe bhi zakhmoṅ se bhare haiṅ qaidi
   Hai waram paoṅ pe paidal jo chale haiṅ qaidi
   Are log tashhir ke khanjar liye aamada haiṅ
-  Tin din ho gaye maqtal mein khare haiṅ qaidi
-  Subh se jashn ka ghul Shaam ke bazaar mein hai
-  Shor-e-faryad o buka Itrat-e-Athar mein hai
+  Tin din ho gaye maqtal meiṅ khare haiṅ qaidi
+  Subh se jashn ka ghul Shaam ke bazaar meiṅ hai
+  Shor-e-faryad o buka Itrat-e-Athar meiṅ hai
 
   7
-  Haye darbar mein jaane ki ghari kaisi thi
+  Haye darbar meiṅ jaane ki ghari kaisi thi
   Hausla deti rahi sab ko Ali ki beti
   Saat sau kursi nashiṅ dur se dekhe jis dam
   Thaam kar apni kamar bint-e-Ali baith gayi
-  Subh se jashn ka ghul Shaam ke bazaar mein hai
-  Shor-e-faryad o buka Itrat-e-Athar mein hai
+  Subh se jashn ka ghul Shaam ke bazaar meiṅ hai
+  Shor-e-faryad o buka Itrat-e-Athar meiṅ hai
 
   8
   Waada beti se nibhane ke liye aaye Ali
   Saani-e-Zehra Takallum pa-e-tazim uthi
   Is gharibi pe tarapne lagi ruh-e-Zehra
   Baap ke saath jo beti sar-e-darbar gayi
-  Subh se jashn ka ghul Shaam ke bazaar mein hai
-  Shor-e-faryad o buka Itrat-e-Athar mein hai
+  Subh se jashn ka ghul Shaam ke bazaar meiṅ hai
+  Shor-e-faryad o buka Itrat-e-Athar meiṅ hai
 # source_id: nohayonline:0af41b9a5687e8cdc979
 # source_url: https://www.nohayonline.com/details_content.php?id=1901
 # raw_sha256: 76cd6c025e3aca3b782838a451118fe759a3f9b6d36c32c210b9a90dcc7ab30f

@@ -24,9 +24,9 @@ romanLyrics: |-
   Ke mujh se mera baraadar bichharne waala hai
 
   3
-  Jawaaṅ pisar ka janaaza main kal uthaauṅ ga
-  Gham o alam se zaifi mein larkharaauṅ ga
-  Zarur aana main amma tumheṅ bulaauṅ ga
+  Jawaaṅ pisar ka janaaza maiṅ kal uthaauṅ ga
+  Gham o alam se zaifi meiṅ larkharaauṅ ga
+  Zarur aana maiṅ amma tumheṅ bulaauṅ ga
 
   4
   Dahum ki subh ko ran aisa parne waala hai
@@ -46,7 +46,7 @@ romanLyrics: |-
   7
   Abhi to jhule se Asghar bhi ran ko jaaye ga
   Zaif baap ke haathoṅ pe tir khaaye ga
-  Lahu mein dub ke beshir muskuraaye ga
+  Lahu meiṅ dub ke beshir muskuraaye ga
 
   8
   Har ek simt se barseṅ ge mujh pe tir o sinaaṅ
@@ -59,8 +59,8 @@ romanLyrics: |-
   Abhi to turbat-e-beshir bhi banaani hai
 
   10
-  Fiza mein gunj rahi thi sada-e-waawaila
-  Haram mein shor tha hilti thi arz-e-Karbobala
+  Fiza meiṅ gunj rahi thi sada-e-waawaila
+  Haram meiṅ shor tha hilti thi arz-e-Karbobala
   Bilal ro ke ye kehte the Sayyid-e-waala
 # source_id: nohayonline:65a926dcb6b528b65996
 # source_url: https://www.nohayonline.com/details_content.php?id=1759

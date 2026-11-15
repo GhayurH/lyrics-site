@@ -15,79 +15,79 @@ romanLyrics: |-
 
   Asghar ko dafn kar chuka jab Fatima ka laal
   Tanhaai apni dekh kar kehta tha pur malaal
-  Nau laakh ka rela ammaaṅ main akela
+  Nau laakh ka rela ammaaṅ maiṅ akela
   Kitna gharib ho gaya Husain
 
   1
   Binaai ja chuki hai jigar paash paash hai
-  Is haal mein bhi laash-e-pisar ki talaash hai
-  Akbar ka hai laasha ammaaṅ main akela
+  Is haal meiṅ bhi laash-e-pisar ki talaash hai
+  Akbar ka hai laasha ammaaṅ maiṅ akela
   Kitna gharib ho gaya Husain
 
   2
   Ammaaṅ ye aafateṅ ye masaaib ye tashnagi
-  Ghurbat mein saath chhor gaye haiṅ mera sabhi
-  Zakhmoṅ ki ye duniya ammaaṅ main akela
+  Ghurbat meiṅ saath chhor gaye haiṅ mera sabhi
+  Zakhmoṅ ki ye duniya ammaaṅ maiṅ akela
   Kitna gharib ho gaya Husain
 
   3
   Na fauj reh gayi na alamdaar reh gaya
   Bas reh gaya to tera dil afgaar reh gaya
-  Hai zulm ka sehra ammaaṅ main akela
+  Hai zulm ka sehra ammaaṅ maiṅ akela
   Kitna gharib ho gaya Husain
 
   4
   Waade sabhi nibha ke hua aise surkh ru
-  Baaloṅ mein khaak chehre pe beshir ka lahu
-  Haathoṅ pe janaaza ammaaṅ main akela
+  Baaloṅ meiṅ khaak chehre pe beshir ka lahu
+  Haathoṅ pe janaaza ammaaṅ maiṅ akela
   Kitna gharib ho gaya Husain
 
   5
   Daulat Rabaab ki sar-e-maqtal chhupaai hai
   Apne zaif haathoṅ se turbat banaai hai
-  Karta raha nauha ammaaṅ main akela
+  Karta raha nauha ammaaṅ maiṅ akela
   Kitna gharib ho gaya Husain
 
   6
-  Bachpan mein kitne naaz uthaae haiṅ yaad hai
+  Bachpan meiṅ kitne naaz uthaae haiṅ yaad hai
   Ek pal bhi khud se dur na karti thi tu mujhe
-  Ye waqt hai kaisa ammaaṅ main akela
+  Ye waqt hai kaisa ammaaṅ maiṅ akela
   Kitna gharib ho gaya Husain
 
   7
   Aawaaz-e-istighaasa sune kaun ab yahaaṅ
   Abbas hai na Qaasim o Akbar na bezabaaṅ
-  Ab kaun hai mera ammaaṅ main akela
+  Ab kaun hai mera ammaaṅ maiṅ akela
   Kitna gharib ho gaya Husain
 
   8
   Jis phul se badan pe kabhi dhup na pari
   Tiroṅ ne chhaan daala hai ammaaṅ badan wohi
-  Marham na dilaasa ammaaṅ main akela
+  Marham na dilaasa ammaaṅ maiṅ akela
   Kitna gharib ho gaya Husain
 
   9
-  Ek daur tha ke ghar se agar main kahiṅ gaya
-  Saae ki tarah saath mein rehte the aqraba
-  Ek ye hai zamaana ammaaṅ main akela
+  Ek daur tha ke ghar se agar maiṅ kahiṅ gaya
+  Saae ki tarah saath meiṅ rehte the aqraba
+  Ek ye hai zamaana ammaaṅ maiṅ akela
   Kitna gharib ho gaya Husain
 
   10
-  Ye barchhiyoṅ ki nezoṅ ki duniya hai aur main
-  Tanhaai fauj-e-Shaam ka nargha hai aur main
-  De mujh ko dilaasa ammaaṅ main akela
+  Ye barchhiyoṅ ki nezoṅ ki duniya hai aur maiṅ
+  Tanhaai fauj-e-Shaam ka nargha hai aur maiṅ
+  De mujh ko dilaasa ammaaṅ maiṅ akela
   Kitna gharib ho gaya Husain
 
   11
   Zakhmoṅ se chur chur badan qalb aur jigar
-  Faryaad hai laboṅ pe qaba hai lahu mein tar
-  Chhalni hai kaleja ammaaṅ main akela
+  Faryaad hai laboṅ pe qaba hai lahu meiṅ tar
+  Chhalni hai kaleja ammaaṅ maiṅ akela
   Kitna gharib ho gaya Husain
 
   12
   Farhan us gharib ki laachaar ki buka
   Haaṅ Mazhar Abidi ka qalam likh nahiṅ saka
-  Hai bas ye khulaasa ammaaṅ main akela
+  Hai bas ye khulaasa ammaaṅ maiṅ akela
   Kitna gharib ho gaya Husain
 # source_id: nohayonline:af2c3f70c95fe1dcdcc8
 # source_url: https://www.nohayonline.com/details_content.php?id=968

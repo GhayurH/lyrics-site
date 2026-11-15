@@ -11,12 +11,12 @@ aliases: []
 reciter: "Raza Abbas Zaidi"
 published: true
 romanLyrics: |-
-  Jab suna Sughra ne laut aaya watan mein qaafila
+  Jab suna Sughra ne laut aaya watan meiṅ qaafila
   Haaye jab pahuṅchiṅ to manzar dekh kar ro ke kaha
 
   1
   Ae phuphi amma bhara ghar tha bhaiyoṅ se mera
-  Kya hua Karbobala mein kuchh to batlaayeṅ zara
+  Kya hua Karbobala meiṅ kuchh to batlaayeṅ zara
   Haaye rote hue Zainab ne kaha ae Sughra
   Na tera bhai raha na hi mera bhai raha
 
@@ -26,29 +26,29 @@ romanLyrics: |-
   Jis ghari Sina-e-Akbar se sinaaṅ ko khiṅcha
 
   3
-  Haaye jis mashk mein Asghar ke liye tha paani
-  Haaṅ usi mashk mein saanseṅ thi mere Ghazi ki
+  Haaye jis mashk meiṅ Asghar ke liye tha paani
+  Haaṅ usi mashk meiṅ saanseṅ thi mere Ghazi ki
   Nehr par mashk pe jab tir laga paani baha
 
   4
   Saath Abbas the Akbar the bari dhaaras thi
-  Kis mein jurat thi nazar ham pe uthaata koi
+  Kis meiṅ jurat thi nazar ham pe uthaata koi
   Tha yehi ek sabab ham jo hue beparda
 
   5
   Kaise batlaauṅ sitam us ne uthaaye kitne
   Shimr ne durre Sakina ko lagaaye kitne
-  Kha gaya Shaam ke zindaaṅ mein use ye sadma
+  Kha gaya Shaam ke zindaaṅ meiṅ use ye sadma
 
   6
   Ye to achchha hi hua tum na gayi Karbobala
-  Tum se dekha hi nahiṅ jaata jo main ne dekha
+  Tum se dekha hi nahiṅ jaata jo maiṅ ne dekha
   Sina Akbar ka chhida kat gaya Sarwar ka gala
 
   7
   Meri in aankhoṅ ki thandak to mere bhai the
-  Main ne in aankhoṅ se dekha hai unheṅ marte hue
-  Kaise zinda huṅ main ab tak ye mujhe Sughra bata
+  Maiṅ ne in aankhoṅ se dekha hai unheṅ marte hue
+  Kaise zinda huṅ maiṅ ab tak ye mujhe Sughra bata
 
   8
   Bas tere waaste aayi hai Madine Zainab
@@ -62,8 +62,8 @@ romanLyrics: |-
 
   10
   Kaisi behnoṅ pe judaai ye qayaamat laayi
-  Saari behnoṅ ki sadaaoṅ mein tha bhai bhai
-  Sun ke Zeeshan o Raza roya Madina saara
+  Saari behnoṅ ki sadaaoṅ meiṅ tha bhai bhai
+  Sun ke Zishan o Raza roya Madina saara
 # source_id: nohayonline:5bd2907354cffb8c24a3
 # source_url: https://www.nohayonline.com/details_content.php?id=2939
 # raw_sha256: 3d7294f8716a27ff52a1b9333aa23f6c0e99b45627c89b41306d47f8542b9abd

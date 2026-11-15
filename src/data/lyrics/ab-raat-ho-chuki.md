@@ -10,16 +10,16 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Jab khaak mein chhupa chuke beti Rasul ki
+  Jab khaak meiṅ chhupa chuke beti Rasul ki
   Muṅh rakh ke apna qabr pe rote rahe Ali
   Quran parh rahe the jo ro ro ke Murtaza
-  Itne mein aayi Fatima Zehra ki ye sada
+  Itne meiṅ aayi Fatima Zehra ki ye sada
   Marqad pe meri aise na aaṅsu bahaiye
   Ab raat ho chuki hai bahot laut jaaiye
 
   1
   Malum hai ye aap ko nazoṅ ke haiṅ pale
-  Bachche kabhi bhi raat mein tanha nahiṅ rahe
+  Bachche kabhi bhi raat meiṅ tanha nahiṅ rahe
   Ghar ja ke pyar kijiye khana khilaiye
 
   2
@@ -29,7 +29,7 @@ romanLyrics: |-
 
   3
   Milta nahiṅ hai chain mere dil ke chain ko
-  Raatoṅ mein pyaas lagti hai mere Husain ko
+  Raatoṅ meiṅ pyaas lagti hai mere Husain ko
   Ashkoṅ ko us ke ponchhiye pani pilaiye
 
   4
@@ -48,12 +48,12 @@ romanLyrics: |-
   Lori thapak ke dijiye un ko sulaiye
 
   7
-  Mujhko yaqin hai aaj woh hargiz na soeṅge
-  Chhup chhup ke mere hujre mein ja kar woh roeṅge
+  Mujhko yaqiṅ hai aaj woh hargiz na soeṅge
+  Chhup chhup ke mere hujre meiṅ ja kar woh roeṅge
   Meri nishaniyoṅ ko wahaṅ se hataiye
 
   8
-  Ainee bhala woh kis tarha bechargi likhe
+  Aini bhala woh kis tarha bechargi likhe
   Aamir na jaane kaise Ali qabr se uthe
   Aawaz bas ye aati rahi gham na khaiye
 # editorial_uncertainty: Stanza five third line differs between archived NoHayOnline Urdu and Roman; Tajpoints repeats the Roman reading. Audio/print review pending; neither disputed line adjudicated.

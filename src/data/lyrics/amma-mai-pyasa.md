@@ -13,11 +13,11 @@ published: true
 romanLyrics: |-
   Farzand-e-payambar pe wo Aashur ki raat
   Munh chhupaane lagi ghabraane lagi nahr-e-Furaat
-  So gaye baat ke Shabbir jo maqtal mein hayaat
-  Fatima aa gayi sehra mein gham o ranj ke saath
-  Kya sada aati thi us waqt main bataata huṅ
+  So gaye baat ke Shabbir jo maqtal meiṅ hayaat
+  Fatima aa gayi sehra meiṅ gham o ranj ke saath
+  Kya sada aati thi us waqt maiṅ bataata huṅ
   Sada shahidoṅ ki kya thi wohi sunaata huṅ
-  Amma main pyaasa huṅ amma main pyaasa huṅ
+  Amma maiṅ pyaasa huṅ amma maiṅ pyaasa huṅ
 
   1
   Bint-e-Rasul pehle gayi jaanib-e-Furaat
@@ -26,16 +26,16 @@ romanLyrics: |-
   Dekha jo maaṅ ko aa gayi Ghazi ke lab pe baat
 
   2
-  Maqtal mein ik jawaan jo sina figaar tha
+  Maqtal meiṅ ik jawaan jo sina figaar tha
   Zahra pukaari ye to hai tasvir-e-Mustafa
   Royi tarap ke boli mere laal kya hua
   Ik aah bhar ke laasha-e-Akbar ne di sada
 
   3
-  Do chhote chhote laashe bhi be sar the khaak par
+  Do chhote chhote laashe bhi besar the khaak par
   Zahra pukaari ye mere Zainab ke haiṅ pisar
   Laashoṅ ke paas baith gayi dil ko thaam kar
-  Kehte the laashe Aun o Muhammad ke khun mein tar
+  Kehte the laashe Aun o Muhammad ke khun meiṅ tar
 
   4
   Hur Jon Ausaja Habib wafa shinaas
@@ -44,14 +44,14 @@ romanLyrics: |-
   Bola har ek Sayyid waala ka jaanisaar
 
   5
-  Ik laash qatl gaah mein itni saghir thi
+  Ik laash qatl gaah meiṅ itni saghir thi
   Aamad pe jis ki tha bara qaatil ko tiragi
   Bu aa rahi thi aankhoṅ se khuṅ aur shir ki
   Zahra ka dil ulat gaya aawaaz jab suni
 
   6
   Kaaṅpi zamin Karbobala zalzala utha
-  Jaise hi ik nasheb mein maaṅ ka guzar hua
+  Jaise hi ik nasheb meiṅ maaṅ ka guzar hua
   Dekha tha tan Husain ka tiroṅ pe hai rakha
   Zahra ne haal puchha to laashe ne di sada
 
@@ -64,13 +64,13 @@ romanLyrics: |-
   8
   Bole Husain kya piyuṅ paani ae amma jaaṅ
   Pyaasa shahid ho gaya maasum bezabaaṅ
-  Sunta huṅ qatl gaah mein pyaasoṅ ki hichkiyaaṅ
+  Sunta huṅ qatl gaah meiṅ pyaasoṅ ki hichkiyaaṅ
   Amma is Alqama ne liya mera imtihaaṅ
 
   9
   Rehaan dard naak hai kitna ye waaqia
-  Aal-e-Nabi ko dasht mein paani nahiṅ mila
-  Girya kunaṅ hai khuld mein Zahra o Murtaza
+  Aal-e-Nabi ko dasht meiṅ paani nahiṅ mila
+  Girya kunaṅ hai khuld meiṅ Zahra o Murtaza
   Aati hai Karbala se Mohsin yehi sada
 # source_id: nohayonline:970208e7e706a020f05e
 # source_url: https://www.nohayonline.com/details_content.php?id=2465

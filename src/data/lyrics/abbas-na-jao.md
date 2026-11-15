@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Sine se lagao ya mujhe sine se lagao
   Abbas na jao
-  Zainab ko ghash aaya hai use hosh mein lao
+  Zainab ko ghash aaya hai use hosh meiṅ lao
 
   1
   Tum ho to use apni rida yaad nahiṅ hai
@@ -41,10 +41,10 @@ romanLyrics: |-
 
   7
   Phir Shimr hai aur Shaam-e-Gharibaṅ ka andhera
-  Chhoruṅ main Sakina ko kahaṅ ye to batao
+  Chhoruṅ maiṅ Sakina ko kahaṅ ye to batao
 
   8
-  The bain ye khaime mein Naved Ahl-e-Haram ke
+  The bain ye khaime meiṅ Naved Ahl-e-Haram ke
   Baad apne darindoṅ ke liye chhor na jao
 # source_id: nohayonline:f5fb07011ab90ca3f30b
 # source_url: https://www.nohayonline.com/details_content.php?id=800

@@ -15,8 +15,8 @@ romanLyrics: |-
   Abbas qatl ho gaye nehr-e-Furaat par
 
   1
-  Sarwar ko apne gham mein rula kar chale gaye
-  Ahl-e-haram ko dasht mein beaas chhor kar
+  Sarwar ko apne gham meiṅ rula kar chale gaye
+  Ahl-e-haram ko dasht meiṅ beaas chhor kar
 
   2
   Laila ki hasratoṅ ko bhi paamaal kar diya
@@ -31,7 +31,7 @@ romanLyrics: |-
   Lutne laga Husain ka asbaab maal o zar
 
   5
-  Bechain ho ke haathoṅ mein kuza liye
+  Bechain ho ke haathoṅ meiṅ kuza liye
   Asghar ko dhundti thi Sakina idhar udhar
 
   6
@@ -43,7 +43,7 @@ romanLyrics: |-
   Aada ki zulm ruh ko karte the nauhagar
 
   8
-  Haathoṅ mein rassiyaaṅ thi to pairoṅ mein beriyaaṅ
+  Haathoṅ meiṅ rassiyaaṅ thi to pairoṅ meiṅ beriyaaṅ
   Zulm o sitam ke baad bhi jaari raha safar
 
   9
@@ -55,16 +55,16 @@ romanLyrics: |-
   Shaayad Sakina Bibi ko yaad aa gaya hai ghar
 
   11
-  Huroṅ mein shor tha to malaaik the ghamzada
-  Sayyidaaniyoṅ ko Shaam ke balwe mein dekh kar
+  Huroṅ meiṅ shor tha to malaaik the ghamzada
+  Sayyidaaniyoṅ ko Shaam ke balwe meiṅ dekh kar
 
   12
-  Darbaar mein Yazid ke Zainab hai berida
+  Darbaar meiṅ Yazid ke Zainab hai berida
   Ab to madad ko aaiye ya Sayyid-ul-bashar
 
   13
   Mitti jo qaidkhaane ki raas aa gayi use
-  Ahl-e-haram mein girya o maatam tha raat bhar
+  Ahl-e-haram meiṅ girya o maatam tha raat bhar
 
   14
   Karb o bala pe ashk Raza jo bahaayeṅge

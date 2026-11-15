@@ -31,7 +31,7 @@ romanLyrics: |-
   Shah ka munis banaaegi Zainab
 
   3
-  Ajeeb yaas se takti hai chehra-e-Sarwar
+  Ajib yaas se takti hai chehra-e-Sarwar
   Na bhaai bhaanje bete na munis o yaawar
   Na ab hai Aun o Muhammad na Qaasim o Jafar
   Bahr-e-imdaad ghurbat meiṅ Ghaazi
@@ -68,7 +68,7 @@ romanLyrics: |-
   8
   Nigaaheṅ pher li kiuṅ kar mere ghayur jari
   Utho utho zara uth kar khabar lo tum bhi kahiṅ
-  Sadaa-e-Dayam o Yazdan lab-e-gharib pe thi
+  Sadaa-e-Dayam o Yazdaṅ lab-e-gharib pe thi
   Baad tere nishaan-e-mazaalim
   Haae kis ko dikhaaegi Zainab
 # source_id: nohayonline:bb581913ada7109ebbbf

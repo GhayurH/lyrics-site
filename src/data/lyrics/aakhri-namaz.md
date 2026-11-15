@@ -15,43 +15,43 @@ romanLyrics: |-
   Yuṅ aakhri Husain ne sajda adaa kiya
   Jalti hui zamiṅ ko moalla bana diya
   Laash jawaaṅ thi saamne ibn-e-Batul ke
-  Seene se jo hata nahiṅ Akbar ke baad se
+  Sine se jo hata nahiṅ Akbar ke baad se
   Wo haath kaaṅpta hua takbir ko utha
 
   1
-  Takbir sun ke laasha-e-Akbar tadap gaya
+  Takbir sun ke laasha-e-Akbar tarap gaya
   Tharra rahe the zaaf se maula ke dast o paa
-  Zakhmon se sheh ke aati thi alhamd ki sada
+  Zakhmoṅ se sheh ke aati thi alhamd ki sada
 
   2
   Thi ghurbat-e-Husain par nabiyoṅ ki bhi nazar
-  Tuti kamar thi gham mein alamdar ke magar
-  Tha haalat-e-qiyam mein Zahra ka laadla
+  Tuti kamar thi gham meiṅ alamdar ke magar
+  Tha haalat-e-qiyam meiṅ Zahra ka laadla
 
   3
-  Rote the is khayaal se maula qiyam mein
-  Na mehramoṅ ki bhir mein darbar-e-Shaam mein
+  Rote the is khayaal se maula qiyam meiṅ
+  Na mehramoṅ ki bhir meiṅ darbar-e-Shaam meiṅ
   Zainab khari rahe gi bhala kaise berida
 
   4
-  Yaad aagaya ruku mein bemaar ka safar
-  Zainab ki beridayi ke gham mein jhukaye sar
-  Darbar tak ruku mein Sajjad jaaye ga
+  Yaad aagaya ruku meiṅ bemaar ka safar
+  Zainab ki beridayi ke gham meiṅ jhukaye sar
+  Darbar tak ruku meiṅ Sajjad jaaye ga
 
   5
-  Masjid mein reh gaya tha jo ek sajda-e-Ali
-  Maqtal mein ibn-e-Zehra ne wo sajda aakhri
-  Fuztu wa Rabb-il-Kaaba ki tarikh mein kiya
+  Masjid meiṅ reh gaya tha jo ek sajda-e-Ali
+  Maqtal meiṅ ibn-e-Zehra ne wo sajda aakhri
+  Fuztu wa Rabb-il-Kaaba ki tarikh meiṅ kiya
 
   6
   Aayi jo aasmaan se aawaaz-e-irjai
   Zainab ke sar se chadar-e-Tathir gir gayi
-  Sajde mein sar tha shaah ka khanjar gale pe tha
+  Sajde meiṅ sar tha shaah ka khanjar gale pe tha
 
   7
   Khanjar jo bosa-gah-e-Nabi par hua rawaaṅ
   Manzar wo kaise Mir Takallum kare bayaaṅ
-  Karbobala mein chalne lagi surkh aandhiyaaṅ
+  Karbobala meiṅ chalne lagi surkh aandhiyaaṅ
   Laashe ke gird phirti thi ek burqa posh maaṅ
   Kehti thi Mustafa ke nawase ko chhor de
   Ae Shimr tin roz ke pyase ko chhor de

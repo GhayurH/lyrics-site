@@ -20,12 +20,12 @@ romanLyrics: |-
   Mil ke sab Aal-e-Muhammad ki azadari kareṅ
 
   2
-  Farsh hum dil mein bicha ke matami mil kar sabhi
+  Farsh hum dil meiṅ bicha ke matami mil kar sabhi
   Majlis-e-Shabbir barpa zindagi saari kareṅ
 
   3
   Matam-e-Shah-e-Shahidaṅ kar ke sab Ahl-e-Aza
-  Sog mein Ibn-e-Ali ke girya o zari kareṅ
+  Sog meiṅ Ibn-e-Ali ke girya o zari kareṅ
 
   4
   Kar ke izhar-e-aqidat Fatima ke laal se

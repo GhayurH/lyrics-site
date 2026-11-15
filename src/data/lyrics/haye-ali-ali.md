@@ -16,15 +16,15 @@ romanLyrics: |-
 
   1
   Qatl hue Shaah-e-Zamaaṅ
-  Ran mein hai mahshar ka samaaṅ
+  Ran meiṅ hai mahshar ka samaaṅ
   Khaimoṅ se uthta hai dhuaaṅ
   Jaae kahaaṅ Aal-e-Nabi
 
   2
   Aabid-e-Betaab o Tawaaṅ
   Qaid hue aa ke kahaaṅ
-  Haathoṅ mein hai hathkariyaṅ
-  Paaoṅ mein beri hai pari
+  Haathoṅ meiṅ hai hathkariyaṅ
+  Paaoṅ meiṅ beri hai pari
 
   3
   Kaun ye bejaan hua
@@ -51,20 +51,20 @@ romanLyrics: |-
   Pahre pe Abbas nahiṅ
   Bewaoṅ ko kuchh aas nahiṅ
   Zulm ko ehsaas nahiṅ
-  Ban mein hai dehshat ki fiza
+  Ban meiṅ hai dehshat ki fiza
   Chalti hai tham tham ke hawa
   Maut ki chaayi hai ghata
   Nind na aaegi kabhi
 
   6
-  Uff ye yateemi ye sitam
+  Uff ye yatimi ye sitam
   Haye ye saili ye waram
-  Dil mein liye baap ka gham
-  Ban mein kahaaṅ rakhe qadam
+  Dil meiṅ liye baap ka gham
+  Ban meiṅ kahaaṅ rakhe qadam
   Laasheṅ hai ta-hadd-e-Nazar
   Kis se kahe jaan-e-Pidar
   Chhin gai kaanoṅ se gohar
-  Kurte mein bhi aag lagi
+  Kurte meiṅ bhi aag lagi
 
   7
   Waaris-e-Mazlum utho
@@ -82,25 +82,25 @@ romanLyrics: |-
   Saath baraadar bhi nahiṅ
   Parde ko chaadar bhi nahiṅ
   Kya kare mazlum bahan
-  Ban gai haathoṅ mein rasan
+  Ban gai haathoṅ meiṅ rasan
   Baap to tha qila-shikan
   Beti hai laachaar khari
 
   9
   Sah ke sitamgar ka ghazab
   Bachche mere soeṅge jab
-  Lutne ko aise mein ab
+  Lutne ko aise meiṅ ab
   Aata hai ye kaun arab
   Kis qadar aazaar sahuṅ
-  Gham mein giraftaar rahuṅ
+  Gham meiṅ giraftaar rahuṅ
   Apni fughaaṅ kis se kahuṅ
   Aaoge kab Baaba Ali
 
   10
-  Bikhre haiṅ laashe ran mein
-  Nikli huṅ tanha ban mein
-  Jaan hai mushkil tan mein
-  Phir bhi nahiṅ uljhan mein
+  Bikhre haiṅ laashe ran meiṅ
+  Nikli huṅ tanha ban meiṅ
+  Jaan hai mushkil tan meiṅ
+  Phir bhi nahiṅ uljhan meiṅ
   Faatah-e-Khaibar utho
   Beti ki faryad suno
   Aao kuchh imdaad karo
@@ -112,8 +112,8 @@ romanLyrics: |-
   Soche to phat jaye jigar
   Us shab-e-Gham ka manzar
   Kis tarah wo waqt kata
-  Dasht mein tha hashr-e-Aza
-  Gham mein tha kohraam bapaa
+  Dasht meiṅ tha hashr-e-Aza
+  Gham meiṅ tha kohraam bapaa
   Ek qayamat thi machi
 # source_id: nohayonline:e6d8ff4f1f3152f24e77
 # source_url: https://www.nohayonline.com/details_content.php?id=3586

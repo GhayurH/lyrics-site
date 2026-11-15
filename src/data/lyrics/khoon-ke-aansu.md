@@ -26,7 +26,7 @@ romanLyrics: |-
   Aal ki khidmat din ki nusrat Qambar tere naam
 
   4
-  Ghurbat mein jaaṅ de di lekin daaman-e-Aal na chhora
+  Ghurbat meiṅ jaaṅ de di lekin daaman-e-Aal na chhora
   Haq ki rifaaqat faqr ki daulat Buzar tere naam
 
   5
@@ -34,15 +34,15 @@ romanLyrics: |-
   Sone wale aaj Nabi ka bistar tere naam
 
   6
-  Sehre ka armaan hai dil mein maaṅ ko kya maalum
+  Sehre ka armaan hai dil meiṅ maaṅ ko kya maalum
   Maut jawaani ne likh di hai Akbar tere naam
 
   7
-  Sar nange hai jaane waali baazaar-e-Kufa mein
+  Sar nange hai jaane waali baazaar-e-Kufa meiṅ
   Qudrat ne tathir ki likh di chaadar tere naam
 
   8
-  Chaand sa chehra khun mein ghaltaaṅ baap ka baazu zakhmi
+  Chaand sa chehra khun meiṅ ghaltaaṅ baap ka baazu zakhmi
   Pyaas ki shiddat maut ki lazzat Asghar tere naam
 # source_id: nohayonline:76e790aa05f47656bf9f
 # source_url: https://www.nohayonline.com/details_content.php?id=471

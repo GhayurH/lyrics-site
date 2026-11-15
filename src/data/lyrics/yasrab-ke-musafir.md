@@ -20,14 +20,14 @@ romanLyrics: |-
   Muṅh dekh ke bhaai ka pareshaan bahan hai
 
   2
-  Karta hai koi raatoṅ ko jangal mein ye naale
+  Karta hai koi raatoṅ ko jangal meiṅ ye naale
   Qurbaan ho maaṅ tujh pe mere naazoṅ ke paale
-  Bachche tujhe karti huṅ main Khaaliq ke hawaale
+  Bachche tujhe karti huṅ maiṅ Khaaliq ke hawaale
   Dar tha mujhe lutne ka jahaaṅ ye wohi ban hai
 
   3
-  Is dasht mein paaega tu har tarah ki iza
-  Is dasht mein dushman teri ho jaaegi duniya
+  Is dasht meiṅ paaega tu har tarah ki iza
+  Is dasht meiṅ dushman teri ho jaaegi duniya
   Laayi hai tujhe maut yahaaṅ kheṅch ke beta
   Shabbir ye tera hi bas ab tera watan hai
 
@@ -35,12 +35,12 @@ romanLyrics: |-
   Pyaasa tujhe jab zibh kare ye sitam aara
   Laashe ka bhi hoga na koi gaarne waala
   Beta teri mazlumi ke qurbaan ye dukhiya
-  Ne ghusl qismat mein teri aur na kafan hai
+  Ne ghusl qismat meiṅ teri aur na kafan hai
 
   5
   Lut jaaega pyaasa tera ye chhota sa lashkar
   Ek bund bhi paani ki na dega koi khudsar
-  Chillaaega be shir ko tu haathoṅ pe le kar
+  Chillaaega beshir ko tu haathoṅ pe le kar
   Logoṅ mera maasum bahut tashna dahan hai
 # source_id: nohayonline:a74bc3886b62590ea84f
 # source_url: https://www.nohayonline.com/details_content.php?id=2021

@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Shaam-e-gharibaṅ mein tha Zainab ka nauha
+  Shaam-e-gharibaṅ meiṅ tha Zainab ka nauha
   Beta Sajjad utho beta Sajjad utho
 
   1
@@ -25,7 +25,7 @@ romanLyrics: |-
   Koi nahiṅ ab munis o yaawar
 
   3
-  Tishna laboṅ ke khuṅ mein dubi
+  Tishna laboṅ ke khuṅ meiṅ dubi
   Karbobala ki pyaasi zamiṅ hai
   Mazlumoṅ bewaoṅ ka sahaara
   Koi nahiṅ ab koi nahiṅ hai
@@ -46,7 +46,7 @@ romanLyrics: |-
   Roko sitamgaaroṅ ko roko
   Utho mere beta uth jaao
   Sher se bete ko dekha hai
-  Khuṅ mein nahaae barchi khaae
+  Khuṅ meiṅ nahaae barchi khaae
 
   7
   Dekho zara kya zulm hua hai
@@ -62,7 +62,7 @@ romanLyrics: |-
 
   9
   Sher se bete ko dekha hai
-  Khuṅ mein nahaae barchhi khaae
+  Khuṅ meiṅ nahaae barchhi khaae
   Dil pe jawaaṅ bete ka gham hai
   Maaṅ Akbar ki mar na jaae
 

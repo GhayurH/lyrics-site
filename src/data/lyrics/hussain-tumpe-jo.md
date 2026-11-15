@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Husain tum pe jo imaan laa nahiṅ sakta
-  Qasam Khuda ki wo jannat mein jaa nahiṅ sakta
+  Qasam Khuda ki wo jannat meiṅ jaa nahiṅ sakta
 
   1
   Jo shah ke naam pe paani pila nahiṅ sakta
@@ -23,11 +23,11 @@ romanLyrics: |-
   Khuda gawaah Nabi sar utha nahiṅ sakta
 
   3
-  Hazaar le ke alam jaae koi maidaaṅ mein
+  Hazaar le ke alam jaae koi maidaaṅ meiṅ
   Magar Ali ki jo manzil hai paa nahiṅ sakta
 
   4
-  Bare bare hai bahaadur Nabi ke lashkar mein
+  Bare bare hai bahaadur Nabi ke lashkar meiṅ
   Zara koi dar-e-Khaibar hila nahiṅ sakta
 
   5
@@ -52,14 +52,14 @@ romanLyrics: |-
 
   10
   Khuda gawaah tumhaari tarah Husain koi
-  Rahe Khuda mein bhara ghar luta nahiṅ sakta
+  Rahe Khuda meiṅ bhara ghar luta nahiṅ sakta
 
   11
   Mujhe bhi le chalo Asghar ke ye ishaare the
-  Main jang ke liye maqtal mein jaa nahiṅ sakta
+  Maiṅ jang ke liye maqtal meiṅ jaa nahiṅ sakta
 
   12
-  Pidar ke qabze mein ho jis ke chashma-e-Kausar
+  Pidar ke qabze meiṅ ho jis ke chashma-e-Kausar
   Wo pyaasi beti ko paani pila nahiṅ sakta
 
   13

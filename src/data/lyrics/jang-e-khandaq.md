@@ -12,44 +12,44 @@ aliases: []
 published: true
 romanLyrics: |-
   Haider ki Zulfiqaar ke jauhar dikhaauṅ ga
-  Khundak na khaaeṅ aap main Khandaq sunaauṅ ga
+  Khundak na khaaeṅ aap maiṅ Khandaq sunaauṅ ga
 
   1
-  Khandaq mein dekhne ko Musalmaan the bahut
-  Zaahir mein sab Rasul pe qurbaan the bahut
+  Khandaq meiṅ dekhne ko Musalmaan the bahut
+  Zaahir meiṅ sab Rasul pe qurbaan the bahut
   Waise to wo Nabi ke nigehbaan the bahut
   Bas Ibn-e-Abad-e-Wod se pareshaan the bahut
-  Haṅste the un ko dekh ke kuffaar mauj mein
-  Kuchh the Uhad ke bhaagne waale bhi fauj mein
+  Haṅste the un ko dekh ke kuffaar mauj meiṅ
+  Kuchh the Uhad ke bhaagne waale bhi fauj meiṅ
 
   2
-  Lashkar mein aise mard bhi aaye the bemisaal
+  Lashkar meiṅ aise mard bhi aaye the bemisaal
   Aata tha sirf khaime ke andar unheṅ jalaal
-  Karte the yaad dil mein wo Jang-e-Uhad ka haal
+  Karte the yaad dil meiṅ wo Jang-e-Uhad ka haal
   Bhaage the aise saaṅseṅ abhi tak na thiṅ bahaal
   Is baar to ajib hai aafat pari hui
   Pichhe hai khaai aage hai Khandaq khudi hui
 
   3
-  Kehte the dil hi dil mein wo Salman ko bura
+  Kehte the dil hi dil meiṅ wo Salman ko bura
   Us ne hamaare saath ye achchha nahiṅ kiya
   Kiuṅ mashwara Rasul ko Khandaq ka de diya
   Ajami ne inteqaam ye Araboṅ se le liya
   Sarkaar ne suni nahiṅ aakhir kisi ki baat
-  Phir aaj baatoṅ baatoṅ mein rakh li usi ki baat
+  Phir aaj baatoṅ baatoṅ meiṅ rakh li usi ki baat
 
   4
   Guzre haiṅ chaar saal hi is baat ko abhi
-  Laaye the pehli baar ise bazm mein Ali
+  Laaye the pehli baar ise bazm meiṅ Ali
   Ab jitna ye qarib hai utna nahiṅ koi
   Aur aaj to hadis bhi irshaad ho gayi
   Waaqif azal se hai ye hamaare mizaaj se
-  Salman Ahl-e-Bait mein shaamil hai aaj se
+  Salman Ahl-e-Bait meiṅ shaamil hai aaj se
 
   5
   Kehte the bis roz se ye tis maar Khaaṅ
   Kuchh haiṅ puraane dost bhi aaye hue yahaaṅ
-  Aapas mein achchhi baat nahiṅ haiṅ laraaiyaaṅ
+  Aapas meiṅ achchhi baat nahiṅ haiṅ laraaiyaaṅ
   Kuchh to kareṅ khayaal hamaara Shah-e-Zamaaṅ
   Aisa na ho ke rishta puraana ye tut jaaye
   Ae kaash sulh kar leṅ Nabi jaan chhut jaaye
@@ -58,22 +58,22 @@ romanLyrics: |-
   Ik roz Amr ne ye dikhaai bahaaduri
   Khandaq ko paar kar ke idhar aa gaya shaqi
   Khaimoṅ ke paas aa ke ye aawaaz us ne di
-  Itne ho ek mard bhi tum mein nahiṅ koi
-  Baithe hue haiṅ khaimoṅ mein muṅh ko chhupaaye haiṅ
+  Itne ho ek mard bhi tum meiṅ nahiṅ koi
+  Baithe hue haiṅ khaimoṅ meiṅ muṅh ko chhupaaye haiṅ
   Kya auratoṅ ko saath Nabi le ke laaye haiṅ
 
   7
   Phir ek baar bola sitamgar dahaar kar
   Imaan hai tumhaara suna hai jihaad par
-  Maro ya maare jaao ge maidaan mein agar
-  Jannat mein tum ko milna hai apne Khuda se ghar
-  Lo main khara huṅ apna muqaddar saṅwaar lo
+  Maro ya maare jaao ge maidaan meiṅ agar
+  Jannat meiṅ tum ko milna hai apne Khuda se ghar
+  Lo maiṅ khara huṅ apna muqaddar saṅwaar lo
   Mar jaao mere haath se ya mujh ko maar lo
 
   8
   Allah re us ka khauf the khaamosh sab ke sab
   Daantoṅ tale zabaan thi aur sil gaye the lab
-  Din mein andhera chhaa gaya aaṅkhoṅ mein misaal-e-shab
+  Din meiṅ andhera chhaa gaya aaṅkhoṅ meiṅ misaal-e-shab
   Naagaah aage aaya wo gustaakh beadab
   Muṅh tak rahi thi maut bhi us beusul ka
   Neze se chaak kar diya khaima Rasul ka
@@ -82,15 +82,15 @@ romanLyrics: |-
   Gustaakh ne ye beadabaana kiya jo waar
   Kuchh aur dar ke hat gaye Ashaab-e-Jaaṅnisaar
   Uth uth ke dekhne lagi pehlu se Zulfiqaar
-  Aisa hua tha daur-e-Payambar mein pehli baar
-  Tha Ibn-e-Abad-e-Wod ka sitaara zawaal mein
-  Rehmat ko kaainaat ne dekha jalaal mein
+  Aisa hua tha daur-e-Payambar meiṅ pehli baar
+  Tha Ibn-e-Abad-e-Wod ka sitaara zawaal meiṅ
+  Rehmat ko kaainaat ne dekha jalaal meiṅ
 
   10
   Ashaab par Nabi ki sawaali nazar uthi
   Is qalb ki zabaan kare band hai koi
   Lekin wahaaṅ to pehle se barh kar thi khaamushi
-  Utha na tin baar mein koi bajuz Ali
+  Utha na tin baar meiṅ koi bajuz Ali
   Taiyaar kaise hote shahaadat ke waaste
   Kalma parha tha maal-e-ghanimat ke waaste
 
@@ -98,9 +98,9 @@ romanLyrics: |-
   Aakhir Khuda ki marzi bataa di Rasul ne
   Allah ke Ali ko sadaa di Rasul ne
   Apna amaama apni abaa di Rasul ne
-  Pehlu mein Zulfiqaar sajaa di Rasul ne
+  Pehlu meiṅ Zulfiqaar sajaa di Rasul ne
   Sher-e-Khuda jihaad ko taiyaar ho gaye
-  Ik waqt mein do Ahmad-e-Mukhtaar ho gaye
+  Ik waqt meiṅ do Ahmad-e-Mukhtaar ho gaye
 
   12
   Ban kar rizaa Nabi ki Ali Murtaza chale
@@ -111,20 +111,20 @@ romanLyrics: |-
   Khandaq kya kaainaat ulat de Abu Turab
 
   13
-  Main Ibn-e-Abad-e-Wod huṅ pukaara wo bekhabar
+  Maiṅ Ibn-e-Abad-e-Wod huṅ pukaara wo bekhabar
   Bole Imam ham Abu Talib ke haiṅ pisar
   Jaari rajaz tha donoṅ taraf se ba kar o far
   Us simt kul-e-kufr tha imaan-e-kul idhar
-  Us ne kaha ke Laat o Hubal ka badan huṅ main
-  Maula pukaare dekh le phir but shikan huṅ main
+  Us ne kaha ke Laat o Hubal ka badan huṅ maiṅ
+  Maula pukaare dekh le phir but shikan huṅ maiṅ
 
   14
   Sher-e-Khuda ki baat pe gurraaya beadab
   Bole Ali zabaan chalaata hai besabab
   Hasrat nikaal tegh utha waar kar bas ab
   Nikli jo Zulfiqaar to mauqa mile ga kab
-  Main do karuṅ ga tere abhi ek waar mein
-  Dozakh bharak rahi hai tere intezaar mein
+  Maiṅ do karuṅ ga tere abhi ek waar meiṅ
+  Dozakh bharak rahi hai tere intezaar meiṅ
 
   15
   Khaali gaya jo waar to ghisya ke reh gaya
@@ -144,19 +144,19 @@ romanLyrics: |-
 
   17
   Jab kar chuke tamaam ye qissa Shah-e-Najaf
-  Lashkar mein guṅja naara-e-takbir saf ba saf
+  Lashkar meiṅ guṅja naara-e-takbir saf ba saf
   Bole Nabi Ali ko ye haasil hua sharaf
   Sab ummat-e-Rasul ke amal ik taraf
   Taa hashr farq-e-kufr pe kaari ye zarb hai
   Saqlain ki namaazoṅ pe bhaari ye zarb hai
 
   18
-  Sar Amr ka Rasul ke qadmoṅ mein jab rakha
-  Manzar nazar mein Mir Takallum ki phir gaya
+  Sar Amr ka Rasul ke qadmoṅ meiṅ jab rakha
+  Manzar nazar meiṅ Mir Takallum ki phir gaya
   Darwaaza-e-Batul pe gustaakh jo hua
   Mujh ko yaqin hai paaye ga wo bhi yehi sazaa
   Us ko maza Imam-e-Zamaana chakhaaeṅ ge
-  Sar kaat kar Batul ke qadmoṅ mein laaeṅ ge
+  Sar kaat kar Batul ke qadmoṅ meiṅ laaeṅ ge
 # source_parts: P1 preamble and stanzas 1-9; P2 stanzas 10-18, without overlap.
 # source_id: tajpoints:60879982e51d1c54eab5
 # source_url: https://tajpoints.com/2022/02/jang-e-khandaq-p1-khandaq-ka-waqiya-mir.html

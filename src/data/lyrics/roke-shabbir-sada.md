@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Ro ke Shabbir sada dete the sada haaye Muslim
-  Kaun Kufe mein tera laasha uthaaye Muslim
+  Kaun Kufe meiṅ tera laasha uthaaye Muslim
 
   1
   Na mila laasha tera koi uthaane waala
@@ -41,7 +41,7 @@ romanLyrics: |-
 
   6
   Kar masaaib ka khula aise Sahaab aur Safdar
-  Inteha jis ki hui Karb o Bala mein aa kar
+  Inteha jis ki hui Karb o Bala meiṅ aa kar
   Bas ye tamhid-e-sitam ki hai qaza-e-Muslim
 # source_id: nohayonline:c14e91ff8adaef406d90
 # source_url: https://www.nohayonline.com/details_content.php?id=1561

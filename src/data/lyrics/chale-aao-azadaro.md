@@ -28,12 +28,12 @@ romanLyrics: |-
 
   3
   Maaoṅ ne sikhaaya hai ghulaami ka qarina
-  Bin aap ke dunya mein hai kya jine mein jina
+  Bin aap ke dunya meiṅ hai kya jine meiṅ jina
   Daaman na kabhi aap ka chhoreṅ ge azaadaar
 
   4
-  Har haal mein har aan mein labbaik kaheṅ ge
-  Mehraab mein maidaan mein labbaik kaheṅ ge
+  Har haal meiṅ har aan meiṅ labbaik kaheṅ ge
+  Mehraab meiṅ maidaan meiṅ labbaik kaheṅ ge
   Labbaik shaah-e-jinn o bashar Sayyid-e-abraar
 
   5
@@ -52,13 +52,13 @@ romanLyrics: |-
   Qasim ka ye kehna nahiṅ bhuleṅ ge wafaadaar
 
   8
-  Dil aap ke qadmoṅ mein hai arbaab-e-wila ka
+  Dil aap ke qadmoṅ meiṅ hai arbaab-e-wila ka
   Ghamkhwaar hai pehne hue ehraam-e-aza ka
   Pursa tumheṅ dene ke liye aaye haiṅ zawwaar
 
   9
   Hum apne muqaddar pe na din raat yuṅ rote
-  Ae kaash ke Aashur ke din saath mein hote
+  Ae kaash ke Aashur ke din saath meiṅ hote
   Lagne na kabhi dete koi tir ya talwaar
 
   10

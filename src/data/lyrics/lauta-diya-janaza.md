@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Gham se dil-e-Rasul-e-Zaman kat raha hai aaj
-  Dunya mein Fatima ka chaman kat raha hai aaj
+  Dunya meiṅ Fatima ka chaman kat raha hai aaj
 
   Lauta diya janaaza ummat ne kiuṅ Hasan ka
   Rauze pe Mustafa ke jhagra kiya dafn ka
@@ -27,10 +27,10 @@ romanLyrics: |-
 
   3
   Qasim ne ro ke puchha maadar se ye bataao
-  Rang laal ho gaya hai baba ke kiuṅ kafan ka
+  Rang laal ho gaya hai baba ke kiun kafan ka
 
   4
-  Ek aan mein jigar ke kitne hue haiṅ tukre
+  Ek aan meiṅ jigar ke kitne hue haiṅ tukre
   Labrez ho gaya hai paimaana bhi lagan ka
 
   5

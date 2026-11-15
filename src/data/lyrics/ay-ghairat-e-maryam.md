@@ -11,7 +11,7 @@ tags: []
 aliases: ["Ay Ghairat-e-maryam"]
 published: true
 romanLyrics: |-
-  Ae ghairat-e-Maryam tera baazaar mein aana
+  Ae ghairat-e-Maryam tera baazaar meiṅ aana
   Na bhul sake ga tujhe taa hashr zamaana
 
   1
@@ -20,7 +20,7 @@ romanLyrics: |-
 
   2
   Tu dukhtar-e-Zehra hai nawaasi hai Nabi ki
-  Baazaar mein sar nange tera khutba sunaana
+  Baazaar meiṅ sar nange tera khutba sunaana
 
   3
   Nind aaye bhala kaise Sakina ko zamiṅ par
@@ -36,11 +36,11 @@ romanLyrics: |-
 
   6
   Islam pe do betoṅ ko qurbaan kiya hai
-  Qismat mein teri likha hai ye daagh uthaana
+  Qismat meiṅ teri likha hai ye daagh uthaana
 
   7
   Ae dukhtar-e-Haidar wo qayaamat ki ghari thi
-  Sar nange tera Shaam ke darbaar mein jaana
+  Sar nange tera Shaam ke darbaar meiṅ jaana
 
   8
   Mar jaate haiṅ shauhar to panaah dete haiṅ bhaai

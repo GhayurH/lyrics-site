@@ -22,7 +22,7 @@ romanLyrics: |-
   Duṅ aawaaz kis ko kise duṅ sadaaeṅ
 
   2
-  Tha dushwaar chalna magar main chali thi
+  Tha dushwaar chalna magar maiṅ chali thi
   Mere haal par bekasi ro rahi thi
   Qadam dar qadam tutti thi jafaaeṅ
 
@@ -42,12 +42,12 @@ romanLyrics: |-
   Ye kehti thi dukhiya chacha ko bulaaeṅ
 
   6
-  Kise kya kahuṅ main nasiboṅ ki maari
+  Kise kya kahuṅ maiṅ nasiboṅ ki maari
   Sitam hum pe karte haiṅ sab kaari kaari
   Jo Aal-e-Payambar pe tuti jafaaeṅ
 
   7
-  Kiye main ne faaqe isi khasta tan par
+  Kiye maiṅ ne faaqe isi khasta tan par
   Ye rudaad-e-gham likh rahi hai rasan par
   Mukhaalif bhi apni hui hai hawaaeṅ
 

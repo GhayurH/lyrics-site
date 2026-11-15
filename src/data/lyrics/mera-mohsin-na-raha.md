@@ -19,13 +19,13 @@ romanLyrics: |-
 
   1
   Pasliyaaṅ tutne ka gham hi nahiṅ mujh ko koi
-  Qatl pehlu mein hui aaj ye aulaad meri
+  Qatl pehlu meiṅ hui aaj ye aulaad meri
   Jite ji maar gaya mujh ko bas ye sadma
 
   2
   Dekha darwaaze ke niche jo mujhe rote hue
   Paaoṅ darwaaze pe rakh rakh ke sitamgar guzre
-  Itni taklif mein bhi main ne bas di ye sada
+  Itni taklif meiṅ bhi maiṅ ne bas di ye sada
 
   3
   Dar jo pehlu se wo Fizza ne hataaya aa kar
@@ -39,23 +39,23 @@ romanLyrics: |-
 
   5
   Apna har zakhm Ali se bhi chhupaana hai mujhe
-  Ab isi haal mein darbaar bhi jaana hai mujhe
-  Kitni majbur huṅ main waqt kaisa hai para
+  Ab isi haal meiṅ darbaar bhi jaana hai mujhe
+  Kitni majbur huṅ maiṅ waqt kaisa hai para
 
   6
   Baad Baba ke Madina yuṅ badal jaayega
-  Raah mein koi tamaancha bhi mujhe maarega
+  Raah meiṅ koi tamaancha bhi mujhe maarega
   Mere Baba ka mujhe aise pursa hai mila
 
   7
-  Kham kamar aur mere baaloṅ mein safedi hogi
-  Mujh pe athaarah baras mein hi zaifi hogi
+  Kham kamar aur mere baaloṅ meiṅ safedi hogi
+  Mujh pe athaarah baras meiṅ hi zaifi hogi
   Aaj Zehra ke liye gham ka aaghaaz hua
 
   8
   Ab bhi Zishaan ye aati hai Baqayya se sada
   Apne Mehdi ko bataauṅ gi wo jab aayega
-  Jitne dukh main ne sahe gham hai ye sab se bara
+  Jitne dukh maiṅ ne sahe gham hai ye sab se bara
 # source_id: nohayonline:3623e11cb0dbad3e43ee
 # source_url: https://www.nohayonline.com/details_content.php?id=2310
 # raw_sha256: f4807adb0bc6040660e6afcfe7d665401ea9edd121d96744cc6302a698b5d4a9

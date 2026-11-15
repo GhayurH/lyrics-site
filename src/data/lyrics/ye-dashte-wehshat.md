@@ -18,12 +18,12 @@ romanLyrics: |-
   1
   Jale pare ek taraf hai khaime
   Hai ek taraf bekasoṅ ki zaari
-  Hai godiyoṅ mein bilakte bachche
+  Hai godiyoṅ meiṅ bilakte bachche
   Samaaṅ wo un ko dara raha hai
 
   2
   Bahut se sadme utha chuke haiṅ
-  Naeef aur zaar ho gaye haiṅ
+  Naif aur zaar ho gaye haiṅ
   Haiṅ saamne waarisoṅ ke laashe
   Ye gham bahut un ko khaa raha hai
 
@@ -46,9 +46,9 @@ romanLyrics: |-
   Rahwaar apna aage barha raha hai
 
   6
-  Ghazab ke aalam mein keh rahi hai
+  Ghazab ke aalam meiṅ keh rahi hai
   Ke barhne wale zara sambhal ja
-  Main bint-e-khilla shikan huṅ tu sun le
+  Maiṅ bint-e-khilla shikan huṅ tu sun le
   Mujhe bhala tu dara raha hai
 
   7
@@ -61,7 +61,7 @@ romanLyrics: |-
   Ye sun ke Zainab tarap gayi hai
   Ye keh rahi hai ke haaye Baba
   Husain dunya se jaa chuke haiṅ
-  Hamare nazdeek kya raha hai
+  Hamare nazdik kya raha hai
 # source_id: nohayonline:d30a55182f8e3cd4f0e3
 # source_url: https://www.nohayonline.com/details_content.php?id=587
 # raw_sha256: 68ecb04160c5ae817f97db42a76b2267bef74a5fe66b0eba0151a241448ce35e

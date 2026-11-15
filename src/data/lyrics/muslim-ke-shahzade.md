@@ -16,7 +16,7 @@ romanLyrics: |-
   Laal Ruqayya ke Muslim ke shahzade
 
   1
-  Kufe mein ghir gaye haiṅ Muslim ke shahzade
+  Kufe meiṅ ghir gaye haiṅ Muslim ke shahzade
   Koi zara ye jaa kar Abbas ko bata de
 
   2
@@ -42,7 +42,7 @@ romanLyrics: |-
   6
   Muslim ki thi wasiyat do mere laadle haiṅ
   Aafat pari hai aisi mujh se bichhar gaye haiṅ
-  Mar jaauṅ jab main koi maaṅ se unheiṅ mila de
+  Mar jaauṅ jab maiṅ koi maaṅ se unheiṅ mila de
 
   7
   Dhundo yahiṅ kahiṅ haiṅ un se bhi badla luṅga

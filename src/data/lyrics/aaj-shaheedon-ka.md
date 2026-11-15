@@ -10,14 +10,14 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ho raha hai dasht mein matam
+  Ho raha hai dasht meiṅ matam
   Aaj shahidoṅ ka hai chehlum
   Shaam se aaya hai qafila
 
   1
   Lut ka saamaaṅ mila mil gayi ridaayeṅ sab
-  Matam-e-Husain ko taras gaye thay tashna lab
-  Ab kare jee khol ke matam
+  Matam-e-Husain ko taras gaye the tashna lab
+  Ab kare ji khol ke matam
 
   2
   Berida jo Bibiyaṅ thi aaj hui ba-rida
@@ -45,7 +45,7 @@ romanLyrics: |-
   Ho gayi ashkoṅ se zamiṅ nam
 
   7
-  Bain ye Fizza ke thay Karbobala kuch bata
+  Bain ye Fizza ke the Karbobala kuch bata
   Kaise ruke aankh se ashkoṅ ki ye Alqama
   Kaise kare zabt bhala hum
 
@@ -57,7 +57,7 @@ romanLyrics: |-
   9
   Ek hi paigham hai Mazhar o Farhan ka
   Pursa Muhammad ko de aaiye ahle aza
-  Kijiye zanjeer ka matam
+  Kijiye zanjir ka matam
 # source_id: nohayonline:5ebee6d301c58a585a01
 # source_url: https://www.nohayonline.com/details_content.php?id=2694
 # raw_sha256: 3ab0be6ad8a9e52074c13dbdf2b904bc9474695d2844d34bdc0278513ed8a958

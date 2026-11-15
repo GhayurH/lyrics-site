@@ -43,7 +43,7 @@ romanLyrics: |-
 
   6
   Mere baba suno baba haram meiṅ tha bapa mahshar
-  Gaye jab Shaam ke darbaar meiṅ be miqna o chaadar
+  Gaye jab Shaam ke darbaar meiṅ bemiqna o chaadar
 
   7
   Sakina rote rote ho gayi khaamosh jab aakhir

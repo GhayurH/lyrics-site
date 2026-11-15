@@ -1,6 +1,6 @@
 ---
 title: "یہ میری آنکھ کے کشکول میں جو پانی ہے"
-alternateTitle: "Ye Meri Aaṅkh Ke Kashkul Mein Jo Paani Hai"
+alternateTitle: "Ye Meri Aaṅkh Ke Kashkul Meiṅ Jo Paani Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,7 +10,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ye meri aaṅkh ke kashkul mein jo paani hai
+  Ye meri aaṅkh ke kashkul meiṅ jo paani hai
   Azaa-e-Aal-e-Payambar ki meharbaani hai
 
   1
@@ -20,21 +20,21 @@ romanLyrics: |-
   Waja Sarshat bahattar ki wo kahaani hai
 
   2
-  Hamaari aaṅkheiṅ Muharram mein hum se puchhti haiṅ
+  Hamaari aaṅkheiṅ Muharram meiṅ hum se puchhti haiṅ
   Na jaane kaun se darya ki ye rawaani hai
   Bujha diye the diye shab gaye Husain ne jo
-  Jahaaṅ mein aaj unhiṅ ki to zaufshaani hai
+  Jahaaṅ meiṅ aaj unhiṅ ki to zaufshaani hai
 
   3
-  Main sar hatheli pe rakh kar salaam likhta huṅ
+  Maiṅ sar hatheli pe rakh kar salaam likhta huṅ
   Mujhe yaqin hai ke ye jaan aani jaani hai
-  Mere wujud mein rach bas gaya hai zikr-e-Husain
-  Isi liye mere lehje mein khush bayaani hai
+  Mere wujud meiṅ rach bas gaya hai zikr-e-Husain
+  Isi liye mere lehje meiṅ khush bayaani hai
 
   4
   Aziz kiuṅ na ho mujh ko ye daagh maatam ka
   Gham-e-Husain ki ye moatabar nishaani hai
-  Agarche sabr ke saahil pe main naya huṅ magar
+  Agarche sabr ke saahil pe maiṅ naya huṅ magar
   Gham-e-Husain se nisbat bahut puraani hai
 # source_id: tajpoints:9456d473d5415124bf05
 # source_url: https://tajpoints.com/2017/02/ye-meri-aankh-ke-kashkool-mein-jo-pani.html

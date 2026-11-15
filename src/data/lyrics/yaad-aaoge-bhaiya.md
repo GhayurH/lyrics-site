@@ -16,7 +16,7 @@ romanLyrics: |-
   Salaam tum pe ae Baba ki laadli Zainab
 
   1
-  Zainab ne kaha kaun hai pardes mein mera
+  Zainab ne kaha kaun hai pardes meiṅ mera
   Kiuṅ jaate ho tum chhor ke bhaiya mujhe tanha
   Zainab ko har ek mor pe tarpaayegi dunya
   Yaad aaoge bhaiya
@@ -24,13 +24,13 @@ romanLyrics: |-
   2
   Baad aap ke hoga meri ghurbat ka ye aalam
   Us waqt gharibi bhi karegi mera maatam
-  Sadaat ko jab raah mein dega koi sadqa
+  Sadaat ko jab raah meiṅ dega koi sadqa
   Yaad aaoge bhaiya
 
   3
   Yaad aayega bhaiya mujhe armaan tumhara
   Tum dekh nahiṅ paaye ho Akbar ka jo sehra
-  Daawat koi shaadi ki Madine mein jo dega
+  Daawat koi shaadi ki Madine meiṅ jo dega
   Yaad aaoge bhaiya
 
   4
@@ -47,12 +47,12 @@ romanLyrics: |-
 
   6
   Didaar bhi ho jaayega beti ke bahaane
-  Kya Shaam ke zindaan mein aaoge sulaane
+  Kya Shaam ke zindaan meiṅ aaoge sulaane
   Soyegi nahiṅ jab meri lori se Sakina
   Yaad aaoge bhaiya
 
   7
-  Kis tarah bhulaauṅgi main wo dard ka manzar
+  Kis tarah bhulaauṅgi maiṅ wo dard ka manzar
   Wo sukhe gale par tere chalta hua khanjar
   Zainab ko nazar aayega jab bhi koi pyasa
   Yaad aaoge bhaiya

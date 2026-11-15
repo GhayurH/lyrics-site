@@ -14,15 +14,15 @@ romanLyrics: |-
   Zainab Madine jaati hai kya kya liye huwe
 
   1
-  Aankhoṅ mein Karbala ka nazaara liye huwe
-  Ehsaas mein Husain ka laasha liye huwe
-  Ashkoṅ mein khun-e-zakhm-e-tamanna liye huwe
+  Aankhoṅ meiṅ Karbala ka nazaara liye huwe
+  Ehsaas meiṅ Husain ka laasha liye huwe
+  Ashkoṅ meiṅ khun-e-zakhm-e-tamanna liye huwe
   Abbas ke alam ka pharera liye huwe
 
   2
   Tiroṅ se chaak chaak hai Sarwar ka pairahan
   Abbas ka libaas wo Akbar ka pairahan
-  Duba huwa hai khun mein Asghar ka pairahan
+  Duba huwa hai khun meiṅ Asghar ka pairahan
   Bano ke shir khwaar ka jhula liye huwe
 
   3
@@ -32,27 +32,27 @@ romanLyrics: |-
   Nanhi si ek bachchi ka sadma liye huwe
 
   4
-  Karb o bala mein lut gaya gulzaar-e-Panjatan
-  Paamaal dasht-e-ki mein hua dilbar-e-Hasan
+  Karb o bala meiṅ lut gaya gulzaar-e-Panjatan
+  Paamaal dasht-e-ki meiṅ hua dilbar-e-Hasan
   Pehne huwe hai bewa ki poshaak ek dulhan
   Qasim bane ke maathe ka sehra liye huwe
 
   5
   Abbas-e-jaan-e-Haider-e-Safdar ki yaad hai
   Qasim ki yaad hai Ali Akbar ki yaad hai
-  Sine mein ek dil hai bahattar ki yaad hai
+  Sine meiṅ ek dil hai bahattar ki yaad hai
   Ujra huwa Husain ka kunba liye huwe
 
   6
-  Daaghoṅ mein aag aag mein ghutta hua dhuaaṅ
+  Daaghoṅ meiṅ aag aag meiṅ ghutta hua dhuaaṅ
   Maanind-e-mauj aankh se aansu rawaaṅ rawaaṅ
   Baazu pa resmaaṅ ke ubhre huwe nishaaṅ
-  Sine mein zakhm-e-marg-e-Sakina liye huwe
+  Sine meiṅ zakhm-e-marg-e-Sakina liye huwe
 
   7
   Zindaaṅ se chhut kar bhi nahiṅ ranj se faraagh
   Roshan hai daagh-e-qalb-e-jigar surat-e-charaagh
-  Karb o bala mein lut gaya Sibt-e-Nabi ka baagh
+  Karb o bala meiṅ lut gaya Sibt-e-Nabi ka baagh
   Qalb-e-figaar chaak kaleja liye huwe
 # source_id: nohayonline:3023aaa7253092ef881a
 # source_url: https://www.nohayonline.com/details_content.php?id=189

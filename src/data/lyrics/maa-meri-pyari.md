@@ -23,22 +23,22 @@ romanLyrics: |-
   1
   Tere sine par sar rakh kar
   Soe hue barsoṅ bite haiṅ
-  God mein souṅ teri jaise
-  Jhule mein bachche sote haiṅ
+  God meiṅ souṅ teri jaise
+  Jhule meiṅ bachche sote haiṅ
   Chaahiye mujh ko amaaṅ
   Paas bula le maaṅ
 
   2
   Laashoṅ par laashe laaya huṅ
-  Maqtal se main tanha ammaaṅ
-  Dil mein nahiṅ hai taaqat mere
+  Maqtal se maiṅ tanha ammaaṅ
+  Dil meiṅ nahiṅ hai taaqat mere
   Uthta nahiṅ hai sadma ammaaṅ
   Khushk hai meri zabaaṅ
   Paas bula le maaṅ
 
   3
   Zakhmoṅ se khuṅ aaṅkh se aaṅsuṅ
-  Maqtal mein kab tak barsaauṅ
+  Maqtal meiṅ kab tak barsaauṅ
   Kis ki laash ko tanha chhoruṅ
   Kaandhe pe kis ki laash uthaauṅ
   Ek akeli hai jaaṅ
@@ -46,7 +46,7 @@ romanLyrics: |-
 
   4
   Chhalni hua Akbar ka kaleja
-  Sine mein tuta hai naiza
+  Sine meiṅ tuta hai naiza
   Nur gaya meri aaṅkhoṅ ka
   Milta nahiṅ hai mujh ko rasta
   Mar gaya karil jawaaṅ
@@ -54,7 +54,7 @@ romanLyrics: |-
 
   5
   Baali Sakina rok rahi hai
-  Maqtal mein jaane nahiṅ deti
+  Maqtal meiṅ jaane nahiṅ deti
   Kis ke sine par soe gi
   Ammaaṅ ab meri pyaari beti
   Us pe karo ehsaan
@@ -78,7 +78,7 @@ romanLyrics: |-
 
   8
   Kehte the Farhan ye Sarwar
-  Main to huṅ Rehaan-e-risaalat
+  Maiṅ to huṅ Rehaan-e-risaalat
   Zakhm hazaaroṅ dil pe utha ke
   Karta raha inkaar-e-baiat
   Ab hai yahi armaaṅ

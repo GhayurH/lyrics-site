@@ -11,7 +11,7 @@ tags: []
 aliases: ["Taweeze Hassan", "Bhai Ko Bhai Yaad"]
 published: true
 romanLyrics: |-
-  Taweez-e-Hasan jab Qasim ne
+  Tawiz-e-Hasan jab Qasim ne
   Shabbir ko dikhlaaya
   Bhai ko bhai yaad aaya
 
@@ -20,16 +20,16 @@ romanLyrics: |-
   Bhai ko bhai yaad aaya
 
   1
-  Ek pal ke liye nazroṅ mein phira
+  Ek pal ke liye nazroṅ meiṅ phira
   Bhai ki shahaadat ka manzar
   Kya bain kiye the behnoṅ ne
-  Tha tasht mein tukre tukre jigar
+  Tha tasht meiṅ tukre tukre jigar
   Qasim ka kahiṅ ye haal na ho
   Is baat ne tarpaaya
   Bhai ko bhai yaad aaya
 
   2
-  Tehrir mein Shabbar ne ye kaha
+  Tehrir meiṅ Shabbar ne ye kaha
   Taskin-e-mohabbat de dena
   Maqtal ki ijaazat jab maange
   Qasim ko ijaazat de dena
@@ -40,7 +40,7 @@ romanLyrics: |-
   3
   Khat parh ke ijaazat di Sheh ne
   Hathyaar sajaaye Qasim ne
-  Talwaar laga kar patke mein
+  Talwaar laga kar patke meiṅ
   Jauhar wo dikhaaye Qasim ne
   Sadqa jo utaara Zainab ne
   Dil Shah ka bhar aaya
@@ -48,33 +48,33 @@ romanLyrics: |-
 
   Ghore se gira jab Ibn-e-Hasan
   Maula ko pukaara waawaila
-  Pahunche jo Shah-e-diṅ maqtal mein
+  Pahunche jo Shah-e-diṅ maqtal meiṅ
   Paamaal badan tha Qasim ka
   Bhai ke pisar ko Maula ne
-  Is haal mein jab paaya
+  Is haal meiṅ jab paaya
   Bhai ko bhai yaad aaya
 
   4
-  Phir apni abaa ke daaman mein
+  Phir apni abaa ke daaman meiṅ
   Qasim ko sameta Maula ne
   Kis tarah uthaauṅ ye laasha
   Ghazi ko pukaara Maula ne
-  Qasim ka saraapa tukroṅ mein
+  Qasim ka saraapa tukroṅ meiṅ
   Taqdir ne dikhlaaya
   Bhai ko bhai yaad aaya
 
   5
-  Khaime mein junhi laaye laasha
+  Khaime meiṅ junhi laaye laasha
   Sar ahl-e-haram ne pit liya
   Fizza ne kaleja thaam liya
   Zainab ke laboṅ par nauha tha
   Farwa ki taraf dekha Sheh ne
-  Aankhoṅ mein lahu aaya
+  Aankhoṅ meiṅ lahu aaya
   Bhai ko bhai yaad aaya
 
   6
   Mesum wo qayaamat ka manzar
-  Tehrir mein laaya hai Mazhar
+  Tehrir meiṅ laaya hai Mazhar
   Gathri ko junhi khola Sheh ne
   Saadaat hue phir khaak basar
   Ashkoṅ ko Ali ka beta bhi

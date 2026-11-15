@@ -18,8 +18,8 @@ romanLyrics: |-
   Farsh se arsh talak roshni phailayi hai
 
   2
-  Ishq-e-Shabbir mein behne ke liye nehr-e-Furaat
-  Hum azaadaaroṅ ki aankhoṅ mein simat aayi hai
+  Ishq-e-Shabbir meiṅ behne ke liye nehr-e-Furaat
+  Hum azaadaaroṅ ki aankhoṅ meiṅ simat aayi hai
 
   3
   Hum ko imraad-e-dil o jaaṅ ka koi khauf nahiṅ
@@ -34,7 +34,7 @@ romanLyrics: |-
   Sar khule bint-e-Ali ghar se nikal aayi hai
 
   6
-  Chhaa gaye Shaam-e-Gharibaaṅ ke andhere ban mein
+  Chhaa gaye Shaam-e-Gharibaaṅ ke andhere ban meiṅ
   Aal-e-Ahmad pe qayaamat ki ghari aayi hai
 
   7

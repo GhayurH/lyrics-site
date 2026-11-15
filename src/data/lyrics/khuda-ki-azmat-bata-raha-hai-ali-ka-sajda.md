@@ -21,13 +21,13 @@ romanLyrics: |-
 
   2
   Jo beaqida diloṅ ki tauqir ban gaya hai
-  Jo mushrikoṅ ke zehn mein taamir ho gaya hai
+  Jo mushrikoṅ ke zehn meiṅ taamir ho gaya hai
   Har aise but ko gira raha hai Ali ka sajda
 
   3
   Chalo ke khair-ul-amal ki khaatir qadam barhaao
   Agar ho aashiq Ali Wali ke to jald aao
-  Ke masjidoṅ mein bula raha hai Ali ka sajda
+  Ke masjidoṅ meiṅ bula raha hai Ali ka sajda
 
   4
   Jo apne zehnoṅ ki khudsari par are hue haiṅ

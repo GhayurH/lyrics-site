@@ -16,13 +16,13 @@ romanLyrics: |-
   Woh haiṅ Maula hamaare Husain
   Maula Madine wale
 
-  Karbal mein aa gaye haiṅ Karbal basaane wale
+  Karbal meiṅ aa gaye haiṅ Karbal basaane wale
   Khaime saja rahe haiṅ waada nibhaane wale
 
   1
   Ye dar woh paak dar hai jo Fatima ka dar hai
   Ye pyaar Mustafa ka Maula Ali ka ghar hai
-  Maqtal mein aa gaye haiṅ Quraaṅ sunaane wale
+  Maqtal meiṅ aa gaye haiṅ Quraaṅ sunaane wale
 
   2
   Islaam ne pukaara Quraan ne sada di
@@ -31,7 +31,7 @@ romanLyrics: |-
 
   3
   Ro ro ke boli Sughra dil dubta hai mera
-  Viraaṅ kiya Madina jangal mein hai basera
+  Viraaṅ kiya Madina jangal meiṅ hai basera
   Mujh ko rula gaye kiuṅ khushiyaṅ lutaane wale
 
   4
@@ -42,7 +42,7 @@ romanLyrics: |-
   5
   Sab lut gai kamaai Akbar ne barchhi khaai
   Asghar ne tir khaaya deti thi maaṅ duhaai
-  Tiroṅ ke saaye mein haiṅ sajde mein jaane wale
+  Tiroṅ ke saaye meiṅ haiṅ sajde meiṅ jaane wale
 
   6
   Hal min ka istighaasa jab de chuka woh pyaasa
@@ -52,7 +52,7 @@ romanLyrics: |-
   7
   Ik shor tha falak par kehta tha Rabb-e-Akbar
   Jibril baadaloṅ ka jaldi bichhaao bistar
-  Jannat mein aa rahe haiṅ Quraaṅ bachaane wale
+  Jannat meiṅ aa rahe haiṅ Quraaṅ bachaane wale
 
   8
   Salman aur Shanawar khushbakht ho Ali Ji

@@ -19,32 +19,32 @@ romanLyrics: |-
 
   1
   Bataaye koi kiuṅ na mujh se wafa ki
-  Main beti nahiṅ kya Rasul-e-Khuda ki
+  Maiṅ beti nahiṅ kya Rasul-e-Khuda ki
   Mujhe kis liye di gayi ye saza
 
   2
-  Na rehne diya chain se kiuṅ dahr mein
-  Lagaayi gayi aag kiuṅ mere ghar mein
+  Na rehne diya chain se kiuṅ dahr meiṅ
+  Lagaayi gayi aag kiuṅ mere ghar meiṅ
   Sataaya gaya kiuṅ mujhe bekhata
 
   3
   Meri bekasi pe tarapta hai suraj
   Mera marsiya roz parhta hai suraj
-  Main taaba qayaamat karuṅ gi gila
+  Maiṅ taaba qayaamat karuṅ gi gila
 
   4
-  Tum apne makaanoṅ mein aaraam se ho
+  Tum apne makaanoṅ meiṅ aaraam se ho
   Tapish ke bina chain se so rahe ho
   Gharaz bhi koi tum ko is se hai kya
 
   5
-  Main karti rahuṅ gi sawaalaat tum se
+  Maiṅ karti rahuṅ gi sawaalaat tum se
   Kabhi to mileṅ ge jawaabaat tum se
   Kabhi to sunega koi ye sada
 
   6
   Mujhe hasratoṅ se Muhammad ne paala
-  Kabhi dhup mein bhi na baahar nikaala
+  Kabhi dhup meiṅ bhi na baahar nikaala
   Amal kiuṅ na sirat pe tum ne kiya
 
   7

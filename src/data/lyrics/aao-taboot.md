@@ -29,7 +29,7 @@ romanLyrics: |-
   Haaṅ isi saf pe zamaane ko bulao logoṅ
 
   4
-  Ghar mein hai Fatima Zehra ke andhera chhaaya
+  Ghar meiṅ hai Fatima Zehra ke andhera chhaaya
   Aaj ki raat charaaghoṅ ko bujhao logoṅ
 
   5
@@ -41,7 +41,7 @@ romanLyrics: |-
   Aansu Zehra ki yatimi pe bahao logoṅ
 
   7
-  Gham mein mazlum ke rona hai Nabi ki sunnat
+  Gham meiṅ mazlum ke rona hai Nabi ki sunnat
   Ye haqiqat na zamaane se chhupao logoṅ
 
   8
@@ -49,7 +49,7 @@ romanLyrics: |-
   Apne Sarkar ko aise na rulao logoṅ
 
   9
-  Apne Baba ki judaai mein jo chhup kar roi
+  Apne Baba ki judaai meiṅ jo chhup kar roi
   Dil usi Fatima Zehra ka barhao logoṅ
 
   10

@@ -11,13 +11,13 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Pardes mein Husain ki basti ujar gayi
+  Pardes meiṅ Husain ki basti ujar gayi
   Ghazi tere baad qayaamat guzar gayi
 
   1
   Darya se jab na lauta saadaat ka sahaara
   Aulaad-e-Faatima ne phir chain hi na paaya
-  Zahra ki kaainaat hi ban mein bikhar gayi
+  Zahra ki kaainaat hi ban meiṅ bikhar gayi
 
   2
   Teri laadli Sakina sadme utha rahi hai

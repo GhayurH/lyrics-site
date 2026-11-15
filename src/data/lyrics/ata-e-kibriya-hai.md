@@ -11,64 +11,64 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ata-e-Kibriya hai aur main huṅ
-  Dua-e-Fatima hai aur main huṅ
+  Ata-e-Kibriya hai aur maiṅ huṅ
+  Dua-e-Fatima hai aur maiṅ huṅ
 
   1
   Paa-e-Jibril-e-midhat bait-e-dil ka
-  Dar-e-aamad khula hai aur main huṅ
+  Dar-e-aamad khula hai aur maiṅ huṅ
 
   2
   Saf-e-alfaaz hai kaaghaz qalam hai
-  Ajab ye takhliya hai aur main huṅ
+  Ajab ye takhliya hai aur maiṅ huṅ
 
   3
   Nahiṅ ehsaas-e-tanhaai zara bhi
-  Koi dil mein basa hai aur main huṅ
+  Koi dil meiṅ basa hai aur maiṅ huṅ
 
   4
   Na sajde se mujhe koi uthaye
-  Yahaaṅ mera Khuda hai aur main huṅ
+  Yahaaṅ mera Khuda hai aur maiṅ huṅ
 
   5
   Nahiṅ ehsaas apne gham ka mujhko
-  Khayal-e-Fatima hai aur main huṅ
+  Khayal-e-Fatima hai aur maiṅ huṅ
 
   6
-  Tamanna-e-Nabi ki roshni mein
-  Sana-e-Murtaza hai aur main huṅ
+  Tamanna-e-Nabi ki roshni meiṅ
+  Sana-e-Murtaza hai aur maiṅ huṅ
 
   7
   Nazar chaukhat se uthti hi nahiṅ hai
-  Dar-e-Mushkil Kusha hai aur main huṅ
+  Dar-e-Mushkil Kusha hai aur maiṅ huṅ
 
   8
-  Yahiṅ aana hai to phir kiuṅ main jaauṅ
-  Yahaaṅ khaak-e-shifa hai aur main huṅ
+  Yahiṅ aana hai to phir kiuṅ maiṅ jaauṅ
+  Yahaaṅ khaak-e-shifa hai aur maiṅ huṅ
 
   9
   Sar-e-dosh-e-aqidat har qadam par
-  Alam Abbas ka hai aur main huṅ
+  Alam Abbas ka hai aur maiṅ huṅ
 
   10
   Furat-e-jaan hai aur is ke kinare
-  Wafaaoṅ ki fiza hai aur main huṅ
+  Wafaaoṅ ki fiza hai aur maiṅ huṅ
 
   11
-  Ye keh kar jhuk gaye sajde mein Sarwar
-  Mere Rab ki raza hai aur main huṅ
+  Ye keh kar jhuk gaye sajde meiṅ Sarwar
+  Mere Rab ki raza hai aur maiṅ huṅ
 
   12
   Khuda se kehta tha ye qalb-e-Abid
-  Tera bas aasra hai aur main huṅ
+  Tera bas aasra hai aur maiṅ huṅ
 
   13
   Nabi kehte the Haider tumhara
-  Shanaasa ek Khuda hai aur main huṅ
+  Shanaasa ek Khuda hai aur maiṅ huṅ
 
   14
-  Adeel ab aur kya mujhko talab ho
-  Zamin-e-Karbala hai aur main huṅ
+  Adil ab aur kya mujhko talab ho
+  Zamin-e-Karbala hai aur maiṅ huṅ
 # source_id: nohayonline:b785856f8b53581f1c05
 # source_url: https://www.nohayonline.com/details_content.php?id=2172
 # raw_sha256: 54fe91a85100a0f314fb5cfbb5d6fe054aa18a6977bf6e2af2da3795570a772a

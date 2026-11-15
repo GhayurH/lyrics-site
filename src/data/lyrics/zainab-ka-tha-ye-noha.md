@@ -18,7 +18,7 @@ romanLyrics: |-
   Paani pila de thora bhai hai bhuka pyaasa
 
   2
-  Sine se tu utar ja zakhmoṅ mein dard hoga
+  Sine se tu utar ja zakhmoṅ meiṅ dard hoga
   Mazlum par taras kha bhai hai bhuka pyaasa
 
   3
@@ -31,7 +31,7 @@ romanLyrics: |-
 
   5
   Arz o samaa ke waali dena hai tu gawaahi
-  Pehlu mein beh ke darya bhai hai bhuka pyaasa
+  Pehlu meiṅ beh ke darya bhai hai bhuka pyaasa
 
   6
   Ya Fatima ab aao ya Murtaza ab aao

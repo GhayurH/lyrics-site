@@ -15,11 +15,11 @@ romanLyrics: |-
 
   1
   Saath Aabid ke rahi ban ke azaadaar-e-Husain
-  Taare ashk-e-Gham-e-Sarwar mein simat kar royi zanjir
+  Taare ashk-e-Gham-e-Sarwar meiṅ simat kar royi zanjir
 
   2
-  Sar khule dekh kar balwe mein Nabi ki itrat
-  Khun mein dub gayi khaak mein uth kar royi zanjir
+  Sar khule dekh kar balwe meiṅ Nabi ki itrat
+  Khun meiṅ dub gayi khaak meiṅ uth kar royi zanjir
 
   3
   Hashr tha ik bapa larza bar andaam tha kufr
@@ -27,7 +27,7 @@ romanLyrics: |-
 
   4
   De ke paighaam shahidoṅ ka lahu deti hui
-  Ek ik halqa-e-zanjir mein bat kar royi zanjir
+  Ek ik halqa-e-zanjir meiṅ bat kar royi zanjir
 
   5
   Dekhne waala na tha koi jihaad-e-Aabid ka

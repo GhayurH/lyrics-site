@@ -15,12 +15,12 @@ romanLyrics: |-
   Mar gayi sog bhare ghar ka manaane waali
 
   1
-  Hai nami kaisi ye zindaaṅ ki diwaaroṅ mein
-  Siskiyaaṅ kis ki hai ye Shaam ke baazaaroṅ mein
+  Hai nami kaisi ye zindaaṅ ki diwaaroṅ meiṅ
+  Siskiyaaṅ kis ki hai ye Shaam ke baazaaroṅ meiṅ
   Kya abhi chup na hui ashk bahaane waali
 
   2
-  Ro ke kehti thi manaauṅ main bhala gham kaise
+  Ro ke kehti thi manaauṅ maiṅ bhala gham kaise
   Ammu batlaaiye aakhir karuṅ maatam kaise
   Haath bandhwa bhi chuki khaak uraane waali
 
@@ -30,7 +30,7 @@ romanLyrics: |-
   Qaid thi aaṅsuoṅ ki shama jalaane waali
 
   4
-  Pyaas hoṅtoṅ pe to aaṅkhoṅ mein dhuaaṅ le ke gayi
+  Pyaas hoṅtoṅ pe to aaṅkhoṅ meiṅ dhuaaṅ le ke gayi
   Apne chehre pe tamaachoṅ ke nishaaṅ le ke gayi
   Aag jalte hue kurte ki bujhaane waali
 
@@ -41,16 +41,16 @@ romanLyrics: |-
 
   6
   Kabhi behte hue ashkoṅ se wuzu karti thi
-  Gham-e-Sarwar mein kabhi dil ko lahu karti thi
+  Gham-e-Sarwar meiṅ kabhi dil ko lahu karti thi
   Apne baba ke musalle ko bichhaane waali
 
   7
   Jaa ke dikhlaayegi sab zakhm-e-jigar daadi ko
   Ro ke batlaayegi rudaad-e-safar daadi ko
-  Berida Shaam ke darbaar mein jaane waali
+  Berida Shaam ke darbaar meiṅ jaane waali
 
   8
-  Jism par khun bhare kurte ka kafan le ke gayi
+  Jism par khuṅ bhare kurte ka kafan le ke gayi
   Bite zakhmoṅ ki tarah yaad-e-watan le ke gayi
   Khabar ghurbat ka parindoṅ ko sunaane waali
 

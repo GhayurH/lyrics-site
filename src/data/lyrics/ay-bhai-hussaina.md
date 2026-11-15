@@ -21,15 +21,15 @@ romanLyrics: |-
   2
   Sauṅpi thi amaanat jo mujhe aap ne bhaiya
   Wo pyaari Sakina
-  Afsos use Shaam mein chhor aayi hai Zainab
+  Afsos use Shaam meiṅ chhor aayi hai Zainab
 
   3
   Bhaiya mere Akbar ki qasam sabr kiya hai
   Shikwa nahiṅ lab par
-  Raahoṅ mein har ek gaam pe dukh paayi hai Zainab
+  Raahoṅ meiṅ har ek gaam pe dukh paayi hai Zainab
 
   4
-  Jab se main tumheṅ chhor ke maqtal se gayi huṅ
+  Jab se maiṅ tumheṅ chhor ke maqtal se gayi huṅ
   Kya guzri hai tum par
   Kuch to kaho sadqe gayi maajayi ae Zainab
 
@@ -45,7 +45,7 @@ romanLyrics: |-
 
   7
   Sughra jo ye puchhegi kahaaṅ hai mera Asghar
-  Main us se kahuṅ kya
+  Maiṅ us se kahuṅ kya
   Keh duṅgi tere paas sula aayi hai Zainab
 
   8

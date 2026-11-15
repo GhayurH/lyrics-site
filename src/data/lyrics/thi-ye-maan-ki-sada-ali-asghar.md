@@ -14,26 +14,26 @@ romanLyrics: |-
 
   1
   Meri aaṅkhoṅ ke saamne haaye
-  Qatl ran mein hua Ali Asghar
+  Qatl ran meiṅ hua Ali Asghar
 
   2
   Baade Shaah-e-Zamaaṅ ke hote hue
   Bekafan reh gaya Ali Asghar
 
   3
-  Main ne maani thiṅ mannateṅ phir bhi
+  Maiṅ ne maani thiṅ mannateṅ phir bhi
   Chhah mahin jiya Ali Asghar
 
   4
-  Tin din tak sulagte sehra mein
+  Tin din tak sulagte sehra meiṅ
   Haaye pyaasa raha Ali Asghar
 
   5
-  Dafn ho kar bhi apni turbat mein
+  Dafn ho kar bhi apni turbat meiṅ
   Dafn reh na saka Ali Asghar
 
   6
-  Ye qayaamat bhi main ne dekhi thi
+  Ye qayaamat bhi maiṅ ne dekhi thi
   Nok-e-naiza pe tha Ali Asghar
 
   7
@@ -41,11 +41,11 @@ romanLyrics: |-
   Hoga mujh se juda Ali Asghar
 
   8
-  Chhah mahine talak safar mein raha
+  Chhah mahine talak safar meiṅ raha
   Mera maasum sa Ali Asghar
 
   9
-  Meri aaṅkhoṅ mein aa gaye aaṅsu
+  Meri aaṅkhoṅ meiṅ aa gaye aaṅsu
   Tir khaa kar haṅsa Ali Asghar
 
   10

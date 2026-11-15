@@ -13,8 +13,8 @@ published: true
 romanLyrics: |-
   1
   Ishq-e-Abbas jo ik baar asar karta hai
-  Phir lahu ban ke wo nasloṅ mein safar karta hai
-  Main to parcham ko sunaata huṅ musibat apni
+  Phir lahu ban ke wo nasloṅ meiṅ safar karta hai
+  Maiṅ to parcham ko sunaata huṅ musibat apni
   Kaun Abbas ko na jaane khabar karta hai
 # source_id: tajpoints:df9d40f7d34cc04fbf7d
 # source_url: https://tajpoints.com/2017/02/ishq-e-abbasas-jo-ik-baar-asar-karta-hai.html

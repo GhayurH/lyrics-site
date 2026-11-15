@@ -20,7 +20,7 @@ romanLyrics: |-
   Shabbir se uthta nahiṅ Akbar ka janaaza
 
   2
-  Khaime mein alam aaya hai kohraam hai barpa
+  Khaime meiṅ alam aaya hai kohraam hai barpa
   Darya pe hai Abbas-e-Dilaawar ka janaaza
 
   3
@@ -32,15 +32,15 @@ romanLyrics: |-
   Tiroṅ pe hai rakha hua Sarwar ka janaaza
 
   5
-  Kya zulm hai tapti hui reti pe pada hai
-  Be gor o kafan Sibt-e-Payambar ka janaaza
+  Kya zulm hai tapti hui reti pe para hai
+  Begor o kafan Sibt-e-Payambar ka janaaza
 
   6
-  Bano ne kaha tir hai paiwast badan mein
+  Bano ne kaha tir hai paiwast badan meiṅ
   Dhire se uthaana mere shauhar ka janaaza
 
   7
-  Paamaal hua dasht mein ghoroṅ ki sumoṅ se
+  Paamaal hua dasht meiṅ ghoroṅ ki sumoṅ se
   Kis tarah uthe Qasim-e-Muztar ka janaaza
 
   8

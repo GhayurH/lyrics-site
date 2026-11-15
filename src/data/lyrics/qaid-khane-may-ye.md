@@ -1,6 +1,6 @@
 ---
 title: "قید خانے میں یہ کہتی تھی سکینہ بھائی"
-alternateTitle: "Qaid Khaane Mein Ye"
+alternateTitle: "Qaid Khaane Meiṅ Ye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Qaid khaane mein ye kehti thi Sakina bhaai
+  Qaid khaane meiṅ ye kehti thi Sakina bhaai
   Zulm aadaa ne kiya hum pe ye kaisa bhaai
 
   1
@@ -19,20 +19,20 @@ romanLyrics: |-
   Ghut ke reh jaayegi har ek tamanna bhaai
 
   2
-  Maut aa jaaye agar Shaam ke zindaaṅ mein hameiṅ
-  Dafn karna inhi kaproṅ mein janaaza bhaai
+  Maut aa jaaye agar Shaam ke zindaaṅ meiṅ hameiṅ
+  Dafn karna inhi kaproṅ meiṅ janaaza bhaai
 
   3
   Ab jagaana nahiṅ hum jaate haiṅ sone ke liye
   Maut ne aa ke bichhaaya hai bichhauna bhaai
 
   4
-  Main yahaaṅ maut ki aaghosh mein so jaauṅgi
-  Sab Madine mein mera dekheṅge rasta bhaai
+  Maiṅ yahaaṅ maut ki aaghosh meiṅ so jaauṅgi
+  Sab Madine meiṅ mera dekheṅge rasta bhaai
 
   5
   Jab se chhora hai Madine ka bhara ghar hum ne
-  Khaak mein mil gayi har ek tamanna bhaai
+  Khaak meiṅ mil gayi har ek tamanna bhaai
 
   6
   Khairiyat meri Madine ke jo bachche puchhe

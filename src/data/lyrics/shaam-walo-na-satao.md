@@ -36,7 +36,7 @@ romanLyrics: |-
 
   5
   Shaam-e-Aashur se ye soyi nahiṅ hai ab tak
-  Main to roya huṅ ye royi bhi nahiṅ hai ab tak
+  Maiṅ to roya huṅ ye royi bhi nahiṅ hai ab tak
   Tum maar lo mujh ko haye par meri phuphi ko durre na lagaao
 
   6

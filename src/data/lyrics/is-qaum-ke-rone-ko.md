@@ -11,22 +11,22 @@ aliases: []
 published: true
 romanLyrics: |-
   Is qaum ke rone ko yehi baat bari hai
-  Zahra bhare darbaar mein haq maang rahi hai
+  Zahra bhare darbaar meiṅ haq maang rahi hai
 
   1
-  Uth uth ke khaak uraati hai jo ban mein
+  Uth uth ke khaak uraati hai jo ban meiṅ
   Shaayad Ali Asghar ko behan dhund rahi hai
 
   2
   Ta der tarapte rahe taazim ko laashe
-  Ye kaun zaif hai jo maqtal mein khari hai
+  Ye kaun zaif hai jo maqtal meiṅ khari hai
 
   3
-  Barchhi Ali Akbar tere sine mein gari hai
+  Barchhi Ali Akbar tere sine meiṅ gari hai
   Par chot to Zainab ke kaleje pe lagi hai
 
   4
-  Sajjad to khaamosh hai baazaar mein lekin
+  Sajjad to khaamosh hai baazaar meiṅ lekin
   Zanjir ki ik ik kari bol rahi hai
 
   5

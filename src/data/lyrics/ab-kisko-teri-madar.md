@@ -14,11 +14,11 @@ romanLyrics: |-
   Raatoṅ ko uth ke kis ka jhula jhulae Asghar
 
   1
-  Shiddat ki tashnagi mein jhule se ran mein ja kar
-  Dast-e-pidar pe ran mein khuṅ mein nahae Asghar
+  Shiddat ki tashnagi meiṅ jhule se ran meiṅ ja kar
+  Dast-e-pidar pe ran meiṅ khuṅ meiṅ nahae Asghar
 
   2
-  Nusrat mein din-e-Haq ki gardan pe tir kha kar
+  Nusrat meiṅ din-e-Haq ki gardan pe tir kha kar
   Viran kar ke godi jangal basae Asghar
 
   3
@@ -26,12 +26,12 @@ romanLyrics: |-
   Chhote se ye shaluke kis ko pahnae Asghar
 
   4
-  Ek baar apni maaṅ ki godi mein chale aao
+  Ek baar apni maaṅ ki godi meiṅ chale aao
   Hasrat hai tum ko maadar ek pal sulae Asghar
 
   5
   Aansuoṅ chhirak ke bole turbat pe teri Sarwar
-  Ji bhar ke mujhko aada ran mein rulae Asghar
+  Ji bhar ke mujhko aada ran meiṅ rulae Asghar
 
   6
   Jis din se maaṅ ne dekha neze pe sar tumhara
@@ -43,11 +43,11 @@ romanLyrics: |-
 
   8
   Beta ye anjuman hai matamsara tumhari
-  Sar ta qadam jo saare khuṅ mein nahae Asghar
+  Sar ta qadam jo saare khuṅ meiṅ nahae Asghar
 
   9
-  Mahshar mein woh yaqinaṅ jannat mein hoṅge Mazhar
-  Dunya mein jo tumhara jhula uthae Asghar
+  Mahshar meiṅ woh yaqinaṅ jannat meiṅ hoṅge Mazhar
+  Dunya meiṅ jo tumhara jhula uthae Asghar
 # editorial_uncertainty: Archived HTML has شلوکے / shalooke and پنہاے / pinhaye; pronunciation and spelling require audio or print. No poet credit in HTML; Sabir and Mazhar in verses do not establish authorship.
 # source_id: nohayonline:198722466c9900c1b831
 # source_url: https://www.nohayonline.com/details_content.php?id=3187

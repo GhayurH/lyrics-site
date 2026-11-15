@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Ye fakhr-e-Panjatan hai ye aks-e-Murtaza hai
-  Qaayam inhi ke dam se is dehr mein wafa hai
+  Qaayam inhi ke dam se is dehr meiṅ wafa hai
   Abbas ki wafa ka Shah ne sila diya hai
 
   Hukm-e-Husain ye hai Ghazi ke dar pe jaao
@@ -22,7 +22,7 @@ romanLyrics: |-
   Phir mere paas aao
 
   1
-  Bhai ke dam se mere is dehr mein wafa hai
+  Bhai ke dam se mere is dehr meiṅ wafa hai
   Wo hai dua-e-Zahra wo aks-e-Murtaza hai
   Izn-e-dukhul parh kar us ki raza jo paao
 
@@ -42,13 +42,13 @@ romanLyrics: |-
   Tum khairiyat se aaye pehle use bataao
 
   5
-  Main rad nahiṅ karuṅ ga Ghazi agar kahe ga
-  Jo bhi dua hai dil mein us ko asar mile ga
+  Maiṅ rad nahiṅ karuṅ ga Ghazi agar kahe ga
+  Jo bhi dua hai dil meiṅ us ko asar mile ga
   Haajaat apni saari jaa kar use sunaao
 
   6
   Jaagir-e-Karbala ka maalik hai mera bhai
-  Qabze mein aaj tak hai us sher ke taraai
+  Qabze meiṅ aaj tak hai us sher ke taraai
   Nehr-e-Furaat par tum le kar alam ko jaao
 
   7

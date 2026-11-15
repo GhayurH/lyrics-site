@@ -15,12 +15,12 @@ romanLyrics: |-
   Aati thi yaad baali Sakina Husain ko
 
   1
-  Naize ki nok maar ke pasli mein baar baar
-  Jalti zamin pe zin se giraaya Husain ko
+  Naize ki nok maar ke pasli meiṅ baar baar
+  Jalti zamiṅ pe ziṅ se giraaya Husain ko
 
   2
   Patthar kisi ne maare to phenki kisi ne khaak
-  Ran mein kisi ne baaloṅ se khencha Husain ko
+  Ran meiṅ kisi ne baaloṅ se khencha Husain ko
 
   3
   Khanjar chala raha hai wo sine pe baith kar
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   6
   Zabh ke waqt dete haiṅ paani zabih ko
-  Maqtal mein qatl kar diya pyaasa Husain ko
+  Maqtal meiṅ qatl kar diya pyaasa Husain ko
 
   7
   Khanjar to sirf pyaase ki gardan pe chal gaya

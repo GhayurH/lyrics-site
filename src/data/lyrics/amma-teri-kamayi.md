@@ -12,19 +12,19 @@ aliases: []
 published: true
 romanLyrics: |-
   Marqad pe maaṅ ki Zainab faryaad kar rahi hai
-  Amma teri kamaai jangal mein lut gayi hai
+  Amma teri kamaai jangal meiṅ lut gayi hai
   Ummat ne Mustafa ki luta hai chain tera
   Maara gaya hai pyaasa amma Husain tera
-  Dil baith sa gaya hai aankhoṅ mein tiragi hai
+  Dil baith sa gaya hai aankhoṅ meiṅ tiragi hai
 
   1
   Tiroṅ se ho gaya hai Qasim ka jism chhalni
-  Maqtal ki zulmatoṅ mein dulhan ki maang ujri
+  Maqtal ki zulmatoṅ meiṅ dulhan ki maang ujri
   Sehre ki har lari se hasrat baras rahi hai
 
   2
   Barchhi jigar pe khaa kar Akbar ki naujawaani
-  Mitti mein mil gayi hai Laila ki zindagaani
+  Mitti meiṅ mil gayi hai Laila ki zindagaani
   Bete ko yaad kar ke maadar tarap rahi hai
 
   3
@@ -33,19 +33,19 @@ romanLyrics: |-
   Jhule ki khaamoshi par khud maut ro rahi hai
 
   4
-  Aankhoṅ mein bas gaye haiṅ zindaan ke andhere
+  Aankhoṅ meiṅ bas gaye haiṅ zindaan ke andhere
   Yaad-e-Sakina amma rehti hai mujh ko ghere
   Baba ko rote rote maasum chal basi hai
 
   5
   Abid ki pusht par haiṅ durroṅ ke nil ab bhi
   Amma rula gayi hai mazlum ki asiri
-  Chhaale haiṅ dast o paa mein bimaar par ghashi hai
+  Chhaale haiṅ dast o paa meiṅ bimaar par ghashi hai
 
   6
   Maare gaye haiṅ pyaase amma mere pisar bhi
   Dast-e-laiṅ ne kar di aaghosh meri suni
-  Duniya meri nazar mein taarik ho gayi hai
+  Duniya meri nazar meiṅ taarik ho gayi hai
 
   7
   Zainab ko raas amma Karb o Bala na aaya

@@ -12,20 +12,20 @@ aliases: []
 published: true
 romanLyrics: |-
   Jaanta hai bas Khuda kaise sambhal paaye Husain
-  Qatl-gaah mein laash par Akbar ki jab aaye Husain
+  Qatl-gaah meiṅ laash par Akbar ki jab aaye Husain
 
   1
   Di sada Akbar ne baba lo salaam-e-aakhri
-  Tuti hai sine mein barchhi saans rukti hai meri
+  Tuti hai sine meiṅ barchhi saans rukti hai meri
   Yuṅ gire sun kar zamiṅ par na sambhal paaye Husain
 
   2
   Ghutniyoṅ chalte hue pahunche jo Akbar ke qarib
   Ibn-e-Zehra aaye hamshakl-e-Payambar ke qarib
-  Dekh kar sine mein barchhi gham se chillaaye Husain
+  Dekh kar sine meiṅ barchhi gham se chillaaye Husain
 
   3
-  Dekhi jis dam naujawaaṅ ke sine mein barchhi ki ani
+  Dekhi jis dam naujawaaṅ ke sine meiṅ barchhi ki ani
   Ho nahiṅ sakti bayaaṅ haalat-e-dil-e-Shabbir ki
   Zindagi aur maut se larte nazar aaye Husain
 
@@ -40,7 +40,7 @@ romanLyrics: |-
   Naujawaaṅ ki laash maqtal se utha laaye Husain
 
   6
-  Sina-e-Akbar mein barchhi ka suna ghabra gayi
+  Sina-e-Akbar meiṅ barchhi ka suna ghabra gayi
   Uthna chaaha jab musalle se to ghash khaa kar giri
   Ab sambhaalo maadar-e-Akbar ko maajaaye Husain
 
@@ -51,7 +51,7 @@ romanLyrics: |-
 
   8
   Kijiye ehsaan Maula aap ka zaair banuṅ
-  Ru ba ru Yazdaaṅ ho rauza aur main nauha parhuṅ
+  Ru ba ru Yazdaaṅ ho rauza aur maiṅ nauha parhuṅ
   Dil ki dharkan band ho aur saans ruk jaaye Husain
 # source_id: nohayonline:dc1dbad3ac235c4e6973
 # source_url: https://www.nohayonline.com/details_content.php?id=2485

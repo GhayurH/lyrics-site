@@ -17,7 +17,7 @@ romanLyrics: |-
   Tarap ke kehti thi Zainab ye kya hua bhaiya
   Hamaare baaba ke sar ko ye kis ne zakhmi kiya
   Abhi abhi to gaye the Khuda ke ghar baaba
-  Ye ik namaazi pe masjid mein kaisa zulm hua
+  Ye ik namaazi pe masjid meiṅ kaisa zulm hua
 
   2
   Dar-e-Ali pe hai Kufe ke bekasoṅ ka hujum
@@ -28,14 +28,14 @@ romanLyrics: |-
   3
   Amir tha wo ghariboṅ ka chaahne waala
   Wo jo yatimoṅ ka aur bekasoṅ ka waaris tha
-  Usi ko sajde mein zakhmi kiya hai waawaila
+  Usi ko sajde meiṅ zakhmi kiya hai waawaila
   Saroṅ ko pit ke Hasnain karte haiṅ girya
 
   4
-  Andheri shab mein wo duniya ka maalik o mukhtaar
+  Andheri shab meiṅ wo duniya ka maalik o mukhtaar
   Ghariboṅ aur yatimoṅ ka munis o ghamkhwaar
   Uthaaye pusht pe khud rotiyoṅ ka ik anbaar
-  Ye dekhta tha na ho shahr mein koi bhuka
+  Ye dekhta tha na ho shahr meiṅ koi bhuka
 
   5
   Fizaaeṅ karti hai maatam azim ye gham hai
@@ -47,10 +47,10 @@ romanLyrics: |-
   Tarap ke Maula se Ummul Banin ne ye kaha
   Hawaale sab ko Hasan ke kiya mere aaqa
   Huzur ne mere Abbas ko nahiṅ puchha
-  Main apne laal ko sadqe karuṅ ke rad ho bala
+  Maiṅ apne laal ko sadqe karuṅ ke rad ho bala
 
   7
-  Bitha ke pehlu mein Abbas ko Ali ne kaha
+  Bitha ke pehlu meiṅ Abbas ko Ali ne kaha
   Khuda se maanga tha tujh ko baraa-e-Karbobala
   Khayaal rakhna Nabi zaadiyoṅ ke parde ka
   Hawaale karta huṅ Shabbir ke tujhe beta
@@ -58,7 +58,7 @@ romanLyrics: |-
   8
   Janaaza uthta hai bait ush sharaf se Haidar ka
   Husain rote haiṅ Abbas ko hai sakta sa
-  Lahad mein bint-e-Payambar bhi karti haiṅ girya
+  Lahad meiṅ bint-e-Payambar bhi karti haiṅ girya
   Rashid dena hai bint-e-Ali ko bhi pursa
 # source_id: nohayonline:6c9d44c1a68fdb10212a
 # source_url: https://www.nohayonline.com/details_content.php?id=1964

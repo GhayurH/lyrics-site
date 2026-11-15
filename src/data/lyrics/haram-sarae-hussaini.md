@@ -27,14 +27,14 @@ romanLyrics: |-
 
   4
   Ali ka azm hai talwaar chalaaye fazl-e-Husain
-  Wo inkaar-e-taqaddus ke darmiyaaṅ Abbas
+  Wo inkaar-e-taqaddus ke darmiyaan Abbas
 
   5
   Ye haath hote hifaazat hayaat hote agar
   Jahaaṅ jahaaṅ hai Shah-e-diṅ wahaaṅ wahaaṅ Abbas
 
   6
-  Khuda ki raah mein tu ne kata ke haathoṅ ko
+  Khuda ki raah meiṅ tu ne kata ke haathoṅ ko
   Ajal ki tor ke rakh di kalaaiyaaṅ Abbas
 
   7

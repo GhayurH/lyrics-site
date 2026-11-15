@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Girta hai pidar ran mein sambhaalo Ali Akbar
+  Girta hai pidar ran meiṅ sambhaalo Ali Akbar
   Aao Ali Akbar aao Ali Akbar
 
   1
@@ -19,19 +19,19 @@ romanLyrics: |-
   Aao Ali Akbar aao Ali Akbar
 
   2
-  Furqat mein teri shaam o sehar karti hai girya
+  Furqat meiṅ teri shaam o sehar karti hai girya
   Ye haal hai uska
   Batlaao ke ab kaise jiyegi teri maadar
 
   3
   Athaara baras jis ne tujhe laad se paala
   Bachchoṅ se zyaada
-  Sar pitti hai gham mein tere Zainab-e-muztar
+  Sar pitti hai gham meiṅ tere Zainab-e-muztar
 
   4
-  Har aan teri yaad mein Sughra ka hai nauha
+  Har aan teri yaad meiṅ Sughra ka hai nauha
   Kab aayeṅ ge bhaiya
-  Takti hai Madine mein tera raasta khwahar
+  Takti hai Madine meiṅ tera raasta khwahar
 
   5
   Jita tha tujhe dekh ke har pal mere jaani
@@ -44,12 +44,12 @@ romanLyrics: |-
   Ab paas nahiṅ koi bhatija na baradar
 
   7
-  Piri mein jawaaṅ laal ki mayyat ko uthaana
+  Piri meiṅ jawaaṅ laal ki mayyat ko uthaana
   Bachchoṅ ko bulaana
   Furqat teri guzri hai bahut shaaq pidar par
 
   8
-  Nauha gham-e-Shabbir mein Haider ne likha hai
+  Nauha gham-e-Shabbir meiṅ Haider ne likha hai
   Lab par ye dua hai
   Maqbul ye ho jaaye bara-e-Ali Akbar
 # source_id: nohayonline:1f1903af1061d4ca6ab0

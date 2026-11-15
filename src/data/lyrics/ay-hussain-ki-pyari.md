@@ -14,22 +14,22 @@ romanLyrics: |-
   Ae Husain ki pyari ae Sakina jaaṅ Bibi
 
   1
-  Mar gayi jo zindaaṅ mein Shah-e-Din ki dukhtar
-  Bekasoṅ ke rone se qaid mein hua mahshar
+  Mar gayi jo zindaaṅ meiṅ Shah-e-Din ki dukhtar
+  Bekasoṅ ke rone se qaid meiṅ hua mahshar
   Laash par Sakina ki karti thi fughaaṅ maadar
   Saath chhor kar mera tum gayi kahaaṅ Bibi
 
   2
-  Aaj shab ki tariki barh gayi hai zindaaṅ mein
-  Bebasi udaasi hai bekasi hai zindaaṅ mein
-  Tum jo ab nahiṅ roti khamoshi hai zindaaṅ mein
+  Aaj shab ki tariki barh gayi hai zindaaṅ meiṅ
+  Bebasi udaasi hai bekasi hai zindaaṅ meiṅ
+  Tum jo ab nahiṅ roti khamoshi hai zindaaṅ meiṅ
   Sogwaar baithi hai saari Bibiyaaṅ Bibi
 
   3
-  Karbala ke maidan mein mujhse chhut gaya Asghar
+  Karbala ke maidan meiṅ mujhse chhut gaya Asghar
   Tum se hi bahalta tha ab mera dil-e-muztar
   Kitni besahaara huṅ ye to sochti dilbar
-  Tum se chhut ke zindaan mein kya jiyegi maaṅ Bibi
+  Tum se chhut ke zindaan meiṅ kya jiyegi maaṅ Bibi
 
   4
   Ho gaya kafan Bibi ye phata hua kurta
@@ -40,7 +40,7 @@ romanLyrics: |-
   5
   Jaa ke apne ammu ko haal apna dikhlaaye
   Kya sitam uthaaye haiṅ kya sahi hai izaayeiṅ
-  Aap ke chacha Bibi ghaiz mein na aa jaaye
+  Aap ke chacha Bibi ghaiz meiṅ na aa jaaye
   Dekh kar tamaachoṅ ke gaal par nishaaṅ Bibi
 
   6
@@ -50,7 +50,7 @@ romanLyrics: |-
   Maaṅ ke saamne khaayi tum ne sailiyaaṅ Bibi
 
   7
-  Tang qaid khaane mein sab hai muztar o hairaaṅ
+  Tang qaid khaane meiṅ sab hai muztar o hairaaṅ
   Zaalimoṅ ki basti hai kaun gham ka hai pursa
   Kya kafan ki surat ho kya ho dafn ka saamaaṅ
   Maaṅ gharib bebas hai bhaai naatawaaṅ Bibi
@@ -59,7 +59,7 @@ romanLyrics: |-
   Ghar ujar gaya mera qatl ho gaye Baba
   Karbala se laayi huṅ dil pe daagh Asghar ka
   Ab to dil ki har hasrat thi tumhiṅ se waabasta
-  Kar gayi mere armaaṅ khaak mein nihaaṅ Bibi
+  Kar gayi mere armaaṅ khaak meiṅ nihaaṅ Bibi
 # source_id: nohayonline:d29544f870a6e77f9a91
 # source_url: https://www.nohayonline.com/details_content.php?id=3329
 # raw_sha256: c1ef5e357a2dcfdc101fdbac3b10721c830de43197789a4bec1f2974d6e64280

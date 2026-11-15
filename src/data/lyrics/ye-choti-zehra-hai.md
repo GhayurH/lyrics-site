@@ -21,13 +21,13 @@ romanLyrics: |-
 
   1
   Sajjad ki behna ko Ghaazi ki bhatiji ko
-  Maaṅga hai kanizi mein us phul si bachchi ko
-  Shah ne apne sajdoṅ mein jise Allah se maaṅga hai
+  Maaṅga hai kanizi meiṅ us phul si bachchi ko
+  Shah ne apne sajdoṅ meiṅ jise Allah se maaṅga hai
   Maasum Sakina hai maasum Sakina hai
 
   2
   Daureṅge agar naaqe kis tarah se sambhlegi
-  Gar raah mein gir jaaye aawaaz kise degi
+  Gar raah meiṅ gir jaaye aawaaz kise degi
   Pusht-e-naaqa par kiuṅ tanha rassi se baandha hai
   Maasum Sakina hai maasum Sakina hai
 
@@ -45,13 +45,13 @@ romanLyrics: |-
 
   5
   Haaṅ ik raat sar-e-zindaaṅ Shabbir ka sar aaya
-  Sar le kar godi mein bachchi ne kiya nauha
+  Sar le kar godi meiṅ bachchi ne kiya nauha
   Aaṅkheṅ kholo Baba dekho ye kaun zaifa hai
   Maasum Sakina hai maasum Sakina hai
 
   6
-  Maasum ki gardan mein baandhi hai rasan aise
-  Ghut jaayega dam is ka main tez chaluṅ kaise
+  Maasum ki gardan meiṅ baandhi hai rasan aise
+  Ghut jaayega dam is ka maiṅ tez chaluṅ kaise
   Ye kehta hua bimaar mera kham ho kar chalta hai
   Maasum Sakina hai maasum Sakina hai
 
@@ -64,7 +64,7 @@ romanLyrics: |-
   8
   Rauze pe nazar jab bhi ae Shaadmaaṅ jaati hai
   Phir qalb-e-Takallum ko ye baat rulaati hai
-  Sadiyaaṅ guzri chhoti Bibi zindaan mein tanha hai
+  Sadiyaaṅ guzri chhoti Bibi zindaan meiṅ tanha hai
   Maasum Sakina hai maasum Sakina hai
 # source_id: nohayonline:3f19079fc125b62d0f57
 # source_url: https://www.nohayonline.com/details_content.php?id=1582

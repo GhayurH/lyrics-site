@@ -1,6 +1,6 @@
 ---
 title: "گھر میں اللّٰہ کے خود اس کا ولی زخمی ہے"
-alternateTitle: "Ghar Mein Allah Ke"
+alternateTitle: "Ghar Meiṅ Allah Ke"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,24 +11,24 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ghar mein Allah ke khud us ka wali zakhmi hai
-  Jis mein tauheed hai maqbeer wo jali zakhmi hai
+  Ghar meiṅ Allah ke khud us ka wali zakhmi hai
+  Jis meiṅ tauhid hai maqbir wo jali zakhmi hai
 
   1
   Ae Khuda bach to gayi teri khudaai lekin
-  Ek sajde mein mera Maula Ali zakhmi hai
+  Ek sajde meiṅ mera Maula Ali zakhmi hai
 
   2
   Zarb-e-taaza to abhi aayi hai us ke sar par
-  Jis ke sine mein jo dil hai azali zakhmi hai
+  Jis ke sine meiṅ jo dil hai azali zakhmi hai
 
   3
   Ye kisi aur ka sar ae mere maabud nahiṅ
   Ye koi aur nahiṅ hai ye Ali zakhmi hai
 
   4
-  Jis jagah baandhi gayi us ke gale mein rassi
-  Jis mein kheṅcha gaya us ko wo gali zakhmi hai
+  Jis jagah baandhi gayi us ke gale meiṅ rassi
+  Jis meiṅ kheṅcha gaya us ko wo gali zakhmi hai
 
   5
   Maatam o girya se faarigh nahiṅ koi maujud

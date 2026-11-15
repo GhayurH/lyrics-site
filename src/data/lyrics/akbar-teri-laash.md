@@ -19,7 +19,7 @@ romanLyrics: |-
 
   2
   Ae beta zaifi hai aisi
-  Rasha hai badan mein Baba ke
+  Rasha hai badan meiṅ Baba ke
   Abbas nahiṅ Qasim bhi nahiṅ
   Imdad ki khatir kaun aae
   Liye bojh isi gham ka dil par
@@ -34,19 +34,19 @@ romanLyrics: |-
   4
   Ae laal teri surat ki qasam
   Ab taab nahiṅ is dil ko
-  Main burha pidar aur tum ho jawaṅ
+  Maiṅ burha pidar aur tum ho jawaaṅ
   Kya waqt para itna socho
-  Main bekas o tanha aur muztar
+  Maiṅ bekas o tanha aur muztar
 
   5
-  Khaime mein tujhe roti hai phuphi
+  Khaime meiṅ tujhe roti hai phuphi
   Aur zeb-e-musalla hai madar
   Atharah baras pala hai tujhe
   Tu khud hi bata Ae mere pisar
   Kya bit rahi hogi dil par
 
   6
-  Pardes mein mere nur-e-nazar
+  Pardes meiṅ mere nur-e-nazar
   Jite ji mujhe tu maar gaya
   Neze ki tarah ye gham Akbar
   Hum sab ke diloṅ se paar gaya
@@ -67,18 +67,18 @@ romanLyrics: |-
   Mar jaegi ro ro kar madar
 
   9
-  Jo tere kaleje mein thi sinaṅ
+  Jo tere kaleje meiṅ thi sinaṅ
   Hai zakhmi usi se dil mera
   Kis tarah sinaṅ wo khinchi thi
-  Main tujh ko nahiṅ batla sakta
+  Maiṅ tujh ko nahiṅ batla sakta
   Dil tukre hue jaata hai pisar
 
   10
-  Jo bain kiye Sheh ne ban mein
+  Jo bain kiye Sheh ne ban meiṅ
   Mazhar wo bayaṅ kar sakta nahiṅ
   Sine pe pisar ke sar rakh kar
   Ye kehte rahe bas Shah-e-Diṅ
-  Ab zinda rahuṅ main bhi kiuṅ kar
+  Ab zinda rahuṅ maiṅ bhi kiuṅ kar
 # source_id: nohayonline:c7caeafca207216b05b6
 # source_url: https://www.nohayonline.com/details_content.php?id=902
 # raw_sha256: c48f463f460b027c628b5285562f9c9cc6eba65545543fc432c1a39053dec3a7

@@ -23,8 +23,8 @@ romanLyrics: |-
   Ye aza nusrat-e-Shabbir ki tayyaari hai
 
   3
-  Aandhiyoṅ mein bhi diya gham ka jalaaye rakhna
-  Zikr-e-Shabbir se azhaan mein bedaari hai
+  Aandhiyoṅ meiṅ bhi diya gham ka jalaaye rakhna
+  Zikr-e-Shabbir se azhaan meiṅ bedaari hai
 
   4
   Ab bhi Shabbir akele haiṅ sar-e-dasht-e-bala

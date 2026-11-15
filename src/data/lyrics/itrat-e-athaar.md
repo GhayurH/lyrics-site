@@ -17,12 +17,12 @@ romanLyrics: |-
   1
   Jab charaagh-e-khaima-e-Shaah-e-shahidaaṅ gul hua
   Kya Habib ibn-e-Mazaahir kya Zahir o Ausaja
-  Josh-e-nusrat mein har ek chehra munawwar ho gaya
-  Karbala mein hai falak aasaar ashaab-e-Husain
+  Josh-e-nusrat meiṅ har ek chehra munawwar ho gaya
+  Karbala meiṅ hai falak aasaar ashaab-e-Husain
 
   2
   Raat bhar mehve talaaya hai haram ke paasbaaṅ
-  Har qadam par naara-e-takbir hai wird-e-zabaaṅ
+  Har qadam par naara-e-takbir hai wird-e-zabaan
   Mashware baaham ye hai ke kis ki jaae pahle jaan
   Hai shab-e-aashur se tayyaar ashaab-e-Husain
 
@@ -30,13 +30,13 @@ romanLyrics: |-
   Koshisheṅ ye haiṅ ke hamla ho to aage ham barhe
   Tegh ke jauhar dikhaae sab se pahle ham lareṅ
   Lashkar-e-aada ki nazreṅ bhi na khaimoṅ par pare
-  Azm mein hai aahani diwaar ashaab-e-Husain
+  Azm meiṅ hai aahani diwaar ashaab-e-Husain
 
   4
   Hur azaan-e-subh par aae haraawal ho gae
   Khun ki surkhi se apni sab khataaeṅ dho gae
   Mil gaya rumaal-e-Zahra nind aai so gae
-  Dasht-e-ghurbat mein bhi hai meyaar ashaab-e-Husain
+  Dasht-e-ghurbat meiṅ bhi hai meyaar ashaab-e-Husain
 
   5
   Rok leṅ ge apne sinoṅ par har ek zarb-e-lain
@@ -47,20 +47,20 @@ romanLyrics: |-
   6
   Waqt-e-naza Jun ka sar apne zaanu par rakha
   Martaba ek ye bhi aaqa ne ghulaamoṅ ko diya
-  Aa gai khushbu lahu mein jism raushan ho gaya
+  Aa gai khushbu lahu meiṅ jism raushan ho gaya
   Maut se haiṅ kis qadar sarshaar ashaab-e-Husain
 
   7
-  Khaima-e-Shabbir mein ab bezabaaṅ koi nahiṅ
-  Qabr-e-Asghar dhup mein hai saaibaaṅ koi nahiṅ
-  Shaah-e-din maqtal mein hai aur mehrbaaṅ koi nahiṅ
+  Khaima-e-Shabbir meiṅ ab bezabaaṅ koi nahiṅ
+  Qabr-e-Asghar dhup meiṅ hai saaibaaṅ koi nahiṅ
+  Shaah-e-din maqtal meiṅ hai aur mehrbaaṅ koi nahiṅ
   Kaash ji utthe faqat ek baar ashaab-e-Husain
 
   8
   Ruk na jaae shiddat-e-gham se kahiṅ nabz-e-Imaam
   Berida haiṅ Bibiyaaṅ Shahid sar-e-baazaar-e-Shaam
   Pesh hoṅ ge sab haram ab bar sar-e-darbaar-e-aam
-  Aur udhar maqtal mein hai laachaar ashaab-e-Husain
+  Aur udhar maqtal meiṅ hai laachaar ashaab-e-Husain
 # source_id: nohayonline:349dc4f12f0f6d86dec1
 # source_url: https://www.nohayonline.com/details_content.php?id=170
 # raw_sha256: fddcf4b120e428ccfcd7b1b7daf2458c4ab038503d0c7d7d0f18f3bc977c97bc

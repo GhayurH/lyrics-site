@@ -13,18 +13,18 @@ published: true
 romanLyrics: |-
   Bano ye pukaari Asghar maaṅ tujh pe hai waari Asghar
 
-  Dekho maqtal mein kahiṅ ruk nahiṅ jaana Asghar
+  Dekho maqtal meiṅ kahiṅ ruk nahiṅ jaana Asghar
   Shaam hote hi meri jaaṅ chale aana Asghar
 
   1
-  Raat bhar khud hi sawaara hai meri jaaṅ main ne
-  Sadqa jhule ka utaara hai meri jaaṅ main ne
-  Ran mein Baba ko na tum apne rulaana Asghar
+  Raat bhar khud hi sawaara hai meri jaaṅ maiṅ ne
+  Sadqa jhule ka utaara hai meri jaaṅ maiṅ ne
+  Ran meiṅ Baba ko na tum apne rulaana Asghar
 
   2
-  Maaṅ huṅ main khub samajhti huṅ ishaare tere
+  Maaṅ huṅ maiṅ khub samajhti huṅ ishaare tere
   Lab jo sukhe hue haiṅ pyaas ke maare tere
-  Pyaas tiroṅ se na tum ran mein bujhaana Asghar
+  Pyaas tiroṅ se na tum ran meiṅ bujhaana Asghar
 
   3
   Loriyaaṅ sun ke bhi kiuṅ nind nahiṅ aati hai
@@ -32,8 +32,8 @@ romanLyrics: |-
   Subah se karte ho paani ka bahaana Asghar
 
   4
-  Dekho maidaan mein barsaat hai paikaanoṅ ki
-  Nasleṅ is dasht mein milti nahiṅ insaanoṅ ki
+  Dekho maidaan meiṅ barsaat hai paikaanoṅ ki
+  Nasleṅ is dasht meiṅ milti nahiṅ insaanoṅ ki
   Misl-e-Akbar kahiṅ dhoka nahiṅ khaana Asghar
 
   5

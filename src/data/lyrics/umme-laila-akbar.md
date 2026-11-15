@@ -11,19 +11,19 @@ aliases: ["Umme Laila Akbar"]
 published: true
 romanLyrics: |-
   Kaise bhule tujhe bhala Umm-e-Laila Akbar
-  Koi dunya mein hai kahaaṅ tere jaisa Akbar
+  Koi dunya meiṅ hai kahaaṅ tere jaisa Akbar
 
   1
   Mujhko hai ye khabar kya haal hai tera
   Tu laal hai mera
-  Maaṅ huṅ main tujh se na chhupa
+  Maaṅ huṅ maiṅ tujh se na chhupa
   Zakhm apna Akbar
 
   2
   Girte the baaraha uthte the baaraha
   Dikhta hi kuch na tha
   Sheh ne haathoṅ se der tak
-  Ran mein dhunda Akbar
+  Ran meiṅ dhunda Akbar
 
   3
   Laila ki mamta Zainab ki hasrateṅ

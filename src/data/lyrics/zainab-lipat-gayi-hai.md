@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Armaan hai ye Zainab-e-aali maqaam ka
-  Chehlum hai Karbala mein Shaah-e-tashnakaam ka
+  Chehlum hai Karbala meiṅ Shaah-e-tashnakaam ka
 
   1
   Bhai ki qabr dekh ke aansu nikal pare
@@ -31,35 +31,35 @@ romanLyrics: |-
   Bhaiya wo raat kaisi qayamat ki raat thi
   Ahl-e-haram pa sakht musibat ki raat thi
   Shaane kata ke mera nigehban so gaya
-  Abbas ka jo farz tha maine adaa kiya
+  Abbas ka jo farz tha maiṅ ne adaa kiya
   Bhai ki qabr hil gayi khwaahar ke bain se
 
   4
   Aaghaaz Karbala se hamaara safar hua
   Aabid ko dekh dekh ke tukre jigar hua
-  Kufe mein sar barehna jo Aal-e-Aba gaye
+  Kufe meiṅ sar barehna jo Aal-e-Aba gaye
   Baba har ek qadam pa mujhe yaad aa gaye
   Bhai ki qabr hil gayi khwaahar ke bain se
 
   5
   Bhaiya phir us ke baad qayaamat hi aa gayi
-  Kunbe ko le ke Shaam mein main berida gayi
+  Kunbe ko le ke Shaam meiṅ maiṅ berida gayi
   Taab-e-nazar kahaaṅ thi magar dekhna para
-  Tasht-e-tila mein aap ka sar dekhna para
+  Tasht-e-tila meiṅ aap ka sar dekhna para
   Bhai ki qabr hil gayi khwaahar ke bain se
 
   6
   Bhaiya tumhari beti pa kya kya sitam hua
   Lekin kabhi na sabr ka meaar kam hua
   Jab intehaa-e-zulm-e-sitamgaar ho gayi
-  Aakhir Sakina Shaam ke zindaaṅ mein so gayi
+  Aakhir Sakina Shaam ke zindaaṅ meiṅ so gayi
   Bhai ki qabr hil gayi khwaahar ke bain se
 
   7
-  Chehlum ke baad main jo Madine ko jaauṅ gi
-  Amma ko main safar ki musibat sunaauṅ gi
+  Chehlum ke baad maiṅ jo Madine ko jaauṅ gi
+  Amma ko maiṅ safar ki musibat sunaauṅ gi
   Gar ho sake to nil-e-rasan ke dikhaauṅ gi
-  Main zindagi tamaam tera gham manaauṅ gi
+  Maiṅ zindagi tamaam tera gham manaauṅ gi
   Bhai ki qabr hil gayi khwaahar ke bain se
 # source_id: nohayonline:3ceff1a64ebd10961d89
 # source_url: https://www.nohayonline.com/details_content.php?id=3342

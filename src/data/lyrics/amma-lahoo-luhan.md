@@ -20,16 +20,16 @@ romanLyrics: |-
   Lipte haiṅ maaṅ ki qabr se karte hue ye bain
   Amma haaye amma amma haaye amma
   Amma lahu lahaan chaman dekhne chalo
-  Zainab ke baazuoṅ mein rasan dekhne chalo
+  Zainab ke baazuoṅ meiṅ rasan dekhne chalo
 
   1
-  Jis mein main apne god ke paaloṅ ko rouṅ ga
-  Aur khud bhi sar kata ke main jis ban mein souṅ ga
+  Jis meiṅ maiṅ apne god ke paaloṅ ko rouṅ ga
+  Aur khud bhi sar kata ke maiṅ jis ban meiṅ souṅ ga
   Amma hamaare saath wo ban dekhne chalo
 
   2
   Qasim ko mere aise kareṅ ge wo paaymaal
-  Tukroṅ mein le ke aaye ga chaadar mein tera laal
+  Tukroṅ meiṅ le ke aaye ga chaadar meiṅ tera laal
   Amma wo laash-e-Ibn Hasan dekhne chalo
 
   3
@@ -40,7 +40,7 @@ romanLyrics: |-
   4
   Khud aap jis ke naaz uthaati thi raat din
   Paani ka jaam laa ke pilaati thi raat din
-  Karbal mein us ko tashna dahan dekhne chalo
+  Karbal meiṅ us ko tashna dahan dekhne chalo
 
   5
   Ghore pe jab sambhal na sake ga tera Husain
@@ -50,24 +50,24 @@ romanLyrics: |-
   6
   Zaalim tere Husain pe dhaaeṅ ge sakhtiyaaṅ
   Amma ye tor daaleṅ ge meri bhi pasliyaaṅ
-  Tukroṅ mein mera saara badan dekhne chalo
+  Tukroṅ meiṅ mera saara badan dekhne chalo
 
   7
   Ro kar Ali ye Shah ne ki maaṅ se iltija
-  Ur ur ke mere sog mein wo khaak-e-Karbala
+  Ur ur ke mere sog meiṅ wo khaak-e-Karbala
   Kaise bane gi mera kafan dekhne chalo
 
   8
   Amma haaye amma
   Amma meri amma
-  Khaimoṅ mein aa ke aag lagaaeṅ ge ashqiya
+  Khaimoṅ meiṅ aa ke aag lagaaeṅ ge ashqiya
   Qaidi meri behan ko banaaeṅ ge ashqiya
   Zainab ko mere baad sataaeṅ ge ashqiya
   Chaadar bhi chhin leṅ ge rulaaeṅ ge ashqiya
   Zaalim Nabi ki aal ko dar dar phiraaeṅ ge
   Paidal chala ke Shaam talak le ke jaaeṅ ge
   Amma lahu lahaan chaman dekhne chalo
-  Zainab ke baazuoṅ mein rasan dekhne chalo
+  Zainab ke baazuoṅ meiṅ rasan dekhne chalo
 # source_id: nohayonline:ea0eba4d429df33a3394
 # source_url: https://www.nohayonline.com/details_content.php?id=2845
 # raw_sha256: d16b231776e852faf26923483bbe993dcbb6b25b31898880c9aa7cfd96038d12

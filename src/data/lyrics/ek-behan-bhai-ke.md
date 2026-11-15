@@ -18,14 +18,14 @@ romanLyrics: |-
   Ek behan bhai ke laashe pe na jaane paayi
 
   1
-  Jis ghari shehr-e-Khuraasaaṅ mein bulwaaye gaye
+  Jis ghari shehr-e-Khuraasaaṅ meiṅ bulwaaye gaye
   Baani-e-zulm o jafa zulm se kab baaz aaye
   Tum ko Maamun ne kiuṅ zehr khila kar maara
 
   2
   Ae shahenshaah-e-watan tum ne bigaara kya tha
   Mere pardesi akhi tera sahaara kya tha
-  Qum mein main tanha rahi tum the Tus mein tanha
+  Qum meiṅ maiṅ tanha rahi tum the Tus meiṅ tanha
 
   3
   Zehr ne apna asar jis ghari chhora hoga
@@ -35,16 +35,16 @@ romanLyrics: |-
   4
   Aap sine pe rakhe haath tarapte hoṅge
   Badnasibi ye meri mujh ko bulaate hoṅge
-  Na wahaaṅ jaa saki main tu na behan tak pahuncha
+  Na wahaan jaa saki maiṅ tu na behan tak pahuncha
 
   5
-  Main teri laash pe hoti to ye noha karti
+  Maiṅ teri laash pe hoti to ye noha karti
   Kam se kam tere janaaze ki to zinat hoti
-  Mere bhai ye magar mere muqaddar mein na tha
+  Mere bhai ye magar mere muqaddar meiṅ na tha
 
   6
   Kya musaafir ko kabhi zehr-e-dagha milta hai
-  Jab safar mein koi pardesi guzar jaata hai
+  Jab safar meiṅ koi pardesi guzar jaata hai
   Yaad aa jaata hai hamshakl-e-Payambar bhaiya
 
   7
@@ -55,7 +55,7 @@ romanLyrics: |-
   8
   Haye Irfan na tha mera muqaddar aisa
   Kya Mubarak tera kam hoga ye noha mera
-  Main bhi tanha thi kahiṅ bhai kahiṅ tha tanha
+  Maiṅ bhi tanha thi kahiṅ bhai kahiṅ tha tanha
 # source_id: nohayonline:cbb83c3339b17b63d380
 # source_url: https://www.nohayonline.com/details_content.php?id=1176
 # raw_sha256: 9d5fc2ac66631705bb76c7bb0888b3dd639574e4e1f3765fa4916c4303b5c4b2

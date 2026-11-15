@@ -12,7 +12,7 @@ published: true
 romanLyrics: |-
   1
   Hukm-e-haakim hai kisi ke na rahe sar baaqi
-  Koi duniya mein na Haidar ka rahe ghar baaqi
+  Koi duniya meiṅ na Haidar ka rahe ghar baaqi
 
   2
   Wo raah-e-haq pe mite par na mita dar un ka

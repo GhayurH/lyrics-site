@@ -16,22 +16,22 @@ romanLyrics: |-
   Karbala tayyaar hai Karbala tayyaar hai
   Khun-e-Haidar keh raha hai Karbala tayyaar hai
 
-  Sog mein dubi fiza hai Karbala tayyaar hai
+  Sog meiṅ dubi fiza hai Karbala tayyaar hai
   Khun-e-Haidar keh raha hai Karbala tayyaar hai
 
   1
-  Aaye jab masjid se ghar mein zakhmi ho kar Murtaza
-  Baap ko tar khun mein dekha ro ke Zainab ne kaha
+  Aaye jab masjid se ghar meiṅ zakhmi ho kar Murtaza
+  Baap ko tar khun meiṅ dekha ro ke Zainab ne kaha
   Ab mujhe aisa laga hai Karbala tayyaar hai
 
   2
-  Aa gayi sakte mein Fizza kiuṅ ye kya jaane koi
-  Paaoṅ mein baithi thi beti aur sarhaane koi
+  Aa gayi sakte meiṅ Fizza kiuṅ ye kya jaane koi
+  Paaoṅ meiṅ baithi thi beti aur sarhaane koi
   Keh ke Ghaazi chup khara hai Karbala tayyaar hai
 
   3
   Umm-e-Haani aur Khadija ro ke ye kehne lagi
-  Is qadar hai zakhm gehra khun mein tar hai jabiṅ
+  Is qadar hai zakhm gehra khun meiṅ tar hai jabiṅ
   Haaṅ ye manzar keh raha hai Karbala tayyaar hai
 
   4

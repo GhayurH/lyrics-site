@@ -12,17 +12,17 @@ published: true
 reciter: "Hasan Abbas Ahsan"
 romanLyrics: |-
   Abid utha rahe haiṅ apni behan ka laasha
-  Zindaan-e-Shaam mein ab ik hashr sa hai barpa
+  Zindaan-e-Shaam meiṅ ab ik hashr sa hai barpa
 
   1
   Godi hai jis ki suni ujra suhag jis ka
-  Karbal mein so raha hai jis maaṅ ka jhule wala
+  Karbal meiṅ so raha hai jis maaṅ ka jhule wala
   Us maaṅ ke dil ko kaise dega koi dilasa
 
   2
   Abbas ki bhatiji paiham tamache kha ke
   Aai thi Karbala se zulm o sitam utha ke
-  Khamosh ho gayi kiun rudad-e-gham suna ke
+  Khamosh ho gayi kiuṅ rudad-e-gham suna ke
 
   3
   Baba ko yaad kar ke rone bhi wo na pai
@@ -32,12 +32,12 @@ romanLyrics: |-
   4
   Rukhsaar nil guṅ hai kurta phata hua hai
   Kanoṅ se khun hai jaari zakhmoṅ ka silsila hai
-  Har naaz uthane wala Karbal mein so raha hai
+  Har naaz uthane wala Karbal meiṅ so raha hai
 
   5
   Bimar-e-Karbala par tuti nai musibat
   Hoti hai ab Sakina Ahl-e-Haram se rukhsat
-  Zindaaṅ mein ban rahi hai nanhi si ek turbat
+  Zindaaṅ meiṅ ban rahi hai nanhi si ek turbat
 
   6
   Bimar-e-Karbala par tuti nai musibat
@@ -47,7 +47,7 @@ romanLyrics: |-
   7
   Ek aakhri wasiyat bhai se us ne ki thi
   Lekin wasiyat us ki puri na hone pai
-  Zindaaṅ hi mein Rasheed ab turbat banegi us ki
+  Zindaaṅ hi meiṅ Rashid ab turbat banegi us ki
 # source_id: nohayonline:16381207398d65c08aec
 # source_url: https://www.nohayonline.com/details_content.php?id=678
 # raw_sha256: c614971aed870fad2454dd9231d5e128b21b31a67ea66dc0037b8531ebbe2da3

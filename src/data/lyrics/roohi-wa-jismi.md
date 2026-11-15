@@ -33,7 +33,7 @@ romanLyrics: |-
   Izn-e-jihaad kijiye Mehdi ko ab ata
 
   4
-  Hal min ki jo Shabbir ne maqtal mein sada di
+  Hal min ki jo Shabbir ne maqtal meiṅ sada di
   Ashaab tarapne lage tanhaai pe Shah ki
   Uth uth ke deta jaata tha har laasha ye sada
 
@@ -43,17 +43,17 @@ romanLyrics: |-
   Laashe se keh ke dusra laasha lipat gaya
 
   6
-  Darbaar na jaauṅgi main kehti thi ye khwaahar
+  Darbaar na jaauṅgi maiṅ kehti thi ye khwaahar
   Rote hue Shabbir ko dekha jo sinaaṅ par
   Labbaik keh ke chal pari darbaar Sayyida
 
   7
-  Jis waqt ke zindaan mein pyaasoṅ ke sar aaye
+  Jis waqt ke zindaan meiṅ pyaasoṅ ke sar aaye
   Zainab ne wahaaṅ Aun o Muhammad ke bajaaye
-  Bhai ke sar ko god mein lete hue kaha
+  Bhai ke sar ko god meiṅ lete hue kaha
 
   8
-  Aaṅkhoṅ mein Takallum hai wo Aashur ka manzar
+  Aaṅkhoṅ meiṅ Takallum hai wo Aashur ka manzar
   Ghaibat ko azaakhaana-e-Shabbir bana kar
   Paiham Imam-e-Asr ke hoṅtoṅ pe hai sada
 # source_id: nohayonline:e23f66094cd60272dc5f

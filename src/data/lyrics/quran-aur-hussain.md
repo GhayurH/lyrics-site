@@ -17,7 +17,7 @@ romanLyrics: |-
 
   1
   Utra wo qalb-e-Muhammad par
-  Ye Zehra ke ghar mein aaya
+  Ye Zehra ke ghar meiṅ aaya
   Kaaba Kausar ek dusre se
   Hoṅge na kabhi ye donoṅ juda
   Donoṅ haiṅ nur hai donoṅ ki
@@ -35,7 +35,7 @@ romanLyrics: |-
   Wo mojiza hai ejaaz hai ye
   Wo nur hai ye us ka paikar
   Parwaan charhe haiṅ ye donoṅ
-  Aaghosh-e-Payambar mein pal kar
+  Aaghosh-e-Payambar meiṅ pal kar
   Quran laboṅ se khelta tha
   Zulfoṅ se Hasnain
 
@@ -51,21 +51,21 @@ romanLyrics: |-
   Quran payaam-e-Ahmad hai
   Shabbir salaam-e-Ahmad hai
   In donoṅ ke dam se qaaim
-  Aalam mein nizaam-e-Ahmad hai
+  Aalam meiṅ nizaam-e-Ahmad hai
   Allah o Nabi ki hujjat hai
   Ye maabain-e-Kaunain
 
   6
   Dars-e-Quran diya Shah ne
-  Aalam ko usi talwaaroṅ mein
+  Aalam ko usi talwaaroṅ meiṅ
   Ek harf-e-shahaadat ki likh di
-  Tafsir bahattar paaroṅ mein
+  Tafsir bahattar paaroṅ meiṅ
   Qurbaan tere Ae waaris-e-ilm
   Shaah-e-Badr o Hunain
 
   7
   Quran ko nok-e-neza par
-  Phir tir mein le aae aada
+  Phir tir meiṅ le aae aada
   Mehmaan bulaa kar Sarwar ko
   Paani na diya sar kaat liya
   Sar khole hue ek dukhyaari

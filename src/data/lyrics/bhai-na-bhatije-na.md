@@ -19,12 +19,12 @@ romanLyrics: |-
   Laa to nahiṅ sakti thi magar laayi huṅ ammaṅ
 
   2
-  Barchhi ne jo maidaan mein Akbar ko diya tha
-  Sine mein wohi zakhm-e-jigar laayi huṅ ammaṅ
+  Barchhi ne jo maidaan meiṅ Akbar ko diya tha
+  Sine meiṅ wohi zakhm-e-jigar laayi huṅ ammaṅ
 
   3
-  Ab Shaam ke zindaan mein soti hai Sakina
-  Main us ki nishaani ye gohar laayi huṅ ammaṅ
+  Ab Shaam ke zindaan meiṅ soti hai Sakina
+  Maiṅ us ki nishaani ye gohar laayi huṅ ammaṅ
 
   4
   Ye dekhiye shaanoṅ pe mere nil-e-rasan ke
@@ -32,11 +32,11 @@ romanLyrics: |-
 
   5
   Ye keh ke rakha qabr pe Shabbir ka kurta
-  Main sirf ye saughaat-e-safar laayi huṅ ammaṅ
+  Maiṅ sirf ye saughaat-e-safar laayi huṅ ammaṅ
 
   6
   Ghash aa gaya Zainab ko ye kehte hue Fakhri
-  Balwe mein jo uryaaṅ tha wo sar laayi huṅ ammaṅ
+  Balwe meiṅ jo uryaaṅ tha wo sar laayi huṅ ammaṅ
 # source_id: nohayonline:5db6c43fcf7dcd6e40b2
 # source_url: https://www.nohayonline.com/details_content.php?id=1044
 # raw_sha256: 62e0c180d5629e8a04df932287d846fdffc436028eaf57e7ba214b7574b62df8

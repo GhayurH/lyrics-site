@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Aulaad-e-Fatema maqtal mein beamaaṅ
+  Aulaad-e-Fatema maqtal meiṅ beamaaṅ
 
   Ghurbat-e-Shabbir pe yuṅ bekasi roti rahi
   Maut maatam kar rahi thi zindagi roti rahi
@@ -21,7 +21,7 @@ romanLyrics: |-
   Bhai bhi rota raha hamshir bhi roti rahi
 
   2
-  Kaat kar Shabbir ka sar haath mein khanjar liye
+  Kaat kar Shabbir ka sar haath meiṅ khanjar liye
   Shimr to haṅsta raha Bint-e-Ali roti rahi
 
   3
@@ -29,12 +29,12 @@ romanLyrics: |-
   Maaṅ isi manzar pe saari zindagi roti rahi
 
   4
-  Ran mein jab Ghaazi gira bin baazuoṅ ke khaak par
+  Ran meiṅ jab Ghaazi gira bin baazuoṅ ke khaak par
   Haath pehlu par rakhe Bibi koi roti rahi
 
   5
   Qabr par Asghar ki maaṅ ne jaane kya waada kiya
-  Umr bhar wo dhup mein baithi rahi roti rahi
+  Umr bhar wo dhup meiṅ baithi rahi roti rahi
 
   6
   Shimr chaadar lut kar kehta tha Ghaazi ko bula

@@ -14,54 +14,54 @@ poet: "Syed Haider Rizvi"
 reciter: "Imran Abbas Mani"
 recitationId: "main-muhammad-hoon-imran-abbas"
 romanLyrics: |-
-  Main Muhammad huṅ Akbar hai mera naam
+  Maiṅ Muhammad huṅ Akbar hai mera naam
 
   1
-  Main raaz-e-La Ilaha huṅ
-  Main ruh-e-Karbala huṅ
+  Maiṅ raaz-e-La Ilaha huṅ
+  Maiṅ ruh-e-Karbala huṅ
   Mujh ko hasin na kehna
-  Main husn ka Khuda huṅ
+  Maiṅ husn ka Khuda huṅ
 
   2
-  Aayat ki zabaan huṅ
+  Aayat ki zabaaṅ huṅ
   Ghairat ka aasmaan huṅ
   Mujh ko bashar na samjho
-  Main sar ta ba azza huṅ
+  Maiṅ sar ta ba azza huṅ
 
   3
-  Main juratoṅ ki had huṅ
+  Maiṅ juratoṅ ki had huṅ
   Khud aap apni jad huṅ
   Quran mera badan hai
-  Main aayatoṅ ka qad huṅ
+  Maiṅ aayatoṅ ka qad huṅ
 
   4
-  Main masdar-e-adab huṅ
-  Main zaamin-e-nasab huṅ
+  Maiṅ masdar-e-adab huṅ
+  Maiṅ zaamin-e-nasab huṅ
   Karbal meiṅ din pala
-  Main Karbala ka Rab huṅ
+  Maiṅ Karbala ka Rab huṅ
 
   5
   Haq ke nisaab meiṅ huṅ
   Aur Al-Kitab meiṅ huṅ
   Woh bhi hijaab meiṅ hai
-  Main bhi hijaab meiṅ huṅ
+  Maiṅ bhi hijaab meiṅ huṅ
 
   6
   Imran ka lahu huṅ
   Yusuf ki aarzu huṅ
-  Main kiuṅ karuṅ wazife
-  Main aap Allah Hu huṅ
+  Maiṅ kiuṅ karuṅ wazife
+  Maiṅ aap Allah Hu huṅ
 
   7
-  Main kya huṅ yeh bata duṅ
+  Maiṅ kya huṅ yeh bata duṅ
   Yeh mojiza dikha duṅ
   Khak-e-shifa se Aadam
   Chahuṅ yahiṅ bana duṅ
 
   8
   Mat sochna miluṅ ga
-  Main tum se kya miluṅ ga
-  Main zin chhorte hi
+  Maiṅ tum se kya miluṅ ga
+  Maiṅ zin chhorte hi
   Wahdat meiṅ ja miluṅ ga
 
   9

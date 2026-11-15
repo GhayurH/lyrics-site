@@ -15,13 +15,13 @@ romanLyrics: |-
   Kis se faryaad karuṅ
 
   1
-  Dekhti reh gayi main ghar mera barbaad hua
+  Dekhti reh gayi maiṅ ghar mera barbaad hua
   Kis se faryaad karuṅ
 
   2
-  Main ne athaarah baras naazoṅ se paala tha jise
+  Maiṅ ne athaarah baras naazoṅ se paala tha jise
   Aaj roti huṅ use
-  Khaak zulfoṅ mein hai aur khuṅ mein sina hai bhara
+  Khaak zulfoṅ meiṅ hai aur khuṅ meiṅ sina hai bhara
   Kis se faryaad karuṅ
 
   3
@@ -67,15 +67,15 @@ romanLyrics: |-
   Kis se faryaad karuṅ
 
   10
-  Daakhila Shaam mein ek hashr bana mere liye
+  Daakhila Shaam meiṅ ek hashr bana mere liye
   Sar hamaare the khule
   Beridaai ke wo lamhaat ke dam ghutta tha
   Kis se faryaad karuṅ
 
   11
   Hum rasan basta the aur takht pe tha baani-e-shar
-  Tasht mein bhaai ka sar
-  Main ne kin aankhoṅ se wo dard ka manzar dekha
+  Tasht meiṅ bhaai ka sar
+  Maiṅ ne kin aankhoṅ se wo dard ka manzar dekha
   Kis se faryaad karuṅ
 
   12
@@ -91,19 +91,19 @@ romanLyrics: |-
   Kis se faryaad karuṅ
 
   14
-  Qaid mein haaye Sakina ne jo dam tor diya
+  Qaid meiṅ haaye Sakina ne jo dam tor diya
   Yaad aaye bhaiya
-  Khuṅ bhare kurte mein Abid ne use dafn kiya
+  Khuṅ bhare kurte meiṅ Abid ne use dafn kiya
   Kis se faryaad karuṅ
 
   15
   Zulm ki haar hui qaid se kunba chhuta
   Gham magar saath raha
-  Ghar ki barbaadi ka manzar meri aankhoṅ mein raha
+  Ghar ki barbaadi ka manzar meri aankhoṅ meiṅ raha
   Kis se faryaad karuṅ
 
   16
-  Jabke lute hue asbaab ko main ne dekha
+  Jabke lute hue asbaab ko maiṅ ne dekha
   Pairahan bhaai ka
   Asr-e-Ashur ka har lamha palat kar aaya
   Kis se faryaad karuṅ

@@ -11,15 +11,15 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ek riwaayat mein hai ke baad-e-asiri Sajjad
-  Pahunche hijaaz se jab maaria mein zainuliba
+  Ek riwaayat meiṅ hai ke baad-e-asiri Sajjad
+  Pahunche hijaaz se jab maaria meiṅ zainuliba
   Dekha ke qabr wahaaṅ khodte haiṅ kuchh afraad
-  Baaqi masruf haiṅ dafnaane mein karke faryaad
+  Baaqi masruf haiṅ dafnaane meiṅ karke faryaad
   Aap ne laasha-e-farzand-e-Nabi dafnaaya
-  Qabr mein laasha-e-Abbas ko bhi pahunchaaya
+  Qabr meiṅ laasha-e-Abbas ko bhi pahunchaaya
   Yahaaṅ qabila-e-Asad karta hai is tarah bayaaṅ
   Qabr se jab na chacha ki hue Sajjad ayaaṅ
-  Hum ko tashwish hui qabr mein dekha to wahaaṅ
+  Hum ko tashwish hui qabr meiṅ dekha to wahaaṅ
   Laash se lipte hue karte haiṅ Sajjad fughaaṅ
   Aap ke baad chacha aisi tabaahi aayi
   Qatl baba hue maare gaye saare bhaai
@@ -31,7 +31,7 @@ romanLyrics: |-
   Baad tumhaare amme dilaawar
   Barchhi se chheda sina-e-Akbar
   Laasha utha kar laaye Sarwar
-  Gham se bapa tha khaime mein mahshar
+  Gham se bapa tha khaime meiṅ mahshar
 
   2
   Asghar pe tha pyaas ka ghalba
@@ -40,7 +40,7 @@ romanLyrics: |-
   Paani ke badle tir lagaaya
 
   3
-  Ran mein bana kar turbat-e-Asghar
+  Ran meiṅ bana kar turbat-e-Asghar
   Sar ko jhukaaye behad muztar
   Aaye Shah-e-diṅ khaime ke dar par
   Haal ye tha pahchaani na khaahar
@@ -61,7 +61,7 @@ romanLyrics: |-
   Sibt-e-Nabi ne tab farmaaya
   Asghar ne ek naawak khaaya
   Khun-e-pisar chehre pe lagaaya
-  Ran mein use main ne dafnaaya
+  Ran meiṅ use maiṅ ne dafnaaya
 
   7
   Kaise kahuṅ ae Shah ke biraadar
@@ -70,7 +70,7 @@ romanLyrics: |-
   Chhin gayi maaṅ bahnoṅ ki chaadar
 
   8
-  Koi Anees apna nahiṅ baaqi
+  Koi Anis apna nahiṅ baaqi
   Aada ne mujh ko pahnaayi
   Tauq o salaasil hathkari beri
   Jakri rasan se Zehra ki jaayi

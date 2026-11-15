@@ -23,14 +23,14 @@ romanLyrics: |-
   Ae mere bhai Husain ae mere bhai Husain
 
   2
-  Meri nigaah mein bachpan ki saari yaadeiṅ hai
+  Meri nigaah meiṅ bachpan ki saari yaadeiṅ hai
   Kahi thi nana ne jo yaad wo bhi baateiṅ hai
   Sahar se pehle charaghoṅ ko tum bujhaoge
 
   3
   Nabi sawari tumhari sawaar tum bhai
   The ammaṅ Zahra ke dil ka qaraar tum bhai
-  Aur aaj khun mein apne hi tum nahaoge
+  Aur aaj khun meiṅ apne hi tum nahaoge
 
   4
   Tumhare chehre ka ye itmenan jaanti huṅ
@@ -60,7 +60,7 @@ romanLyrics: |-
   9
   Tere baghair mukammal nahiṅ payaam mera
   Tere baghair adhura hai ab to naam mera
-  Kaho main aauṅgi majlis mein jab bulaoge
+  Kaho maiṅ aauṅgi majlis meiṅ jab bulaoge
 
   10
   Ye guftugu thi ke gunji azaan Akbar ki

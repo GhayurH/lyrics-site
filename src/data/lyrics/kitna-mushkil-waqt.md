@@ -23,7 +23,7 @@ romanLyrics: |-
   Hashr ka pal Karbala ki daastaaṅ par aa gaya
 
   3
-  Khaak sar mein paaoṅ mein chhaale hai aankhoṅ mein lahu
+  Khaak sar meiṅ paaoṅ meiṅ chhaale hai aankhoṅ meiṅ lahu
   Dukh to saara naatawaaṅ karyal jawaaṅ par aa gaya
 
   4
@@ -39,7 +39,7 @@ romanLyrics: |-
   Jo hua utha kahiṅ wo aasmaaṅ par aa gaya
 
   7
-  Paak Zehra ke chaman mein kab raha waqt-e-bahaar
+  Paak Zehra ke chaman meiṅ kab raha waqt-e-bahaar
   Jaldi jaldi waqt wo waqt-e-fiza par aa gaya
 
   8

@@ -15,24 +15,24 @@ romanLyrics: |-
   Lahu aankhoṅ se Laila ki musalsal beh raha hai
 
   1
-  Bazaahir zakhm to hai sina-e-Akbar mein lekin
-  Haqiqat mein wo neza sina-e-Shah mein gara hai
+  Bazaahir zakhm to hai sina-e-Akbar meiṅ lekin
+  Haqiqat meiṅ wo neza sina-e-Shah meiṅ gara hai
 
   2
-  Salaam Akbar ka laaya Shah ke baaloṅ mein safedi
-  Gai binaai aankhoṅ mein andhera chhaa gaya hai
+  Salaam Akbar ka laaya Shah ke baaloṅ meiṅ safedi
+  Gai binaai aankhoṅ meiṅ andhera chhaa gaya hai
 
   3
   Ulat kar aastin Ya Ali kehte haiṅ Sarwar
   Ke barchhi khaincha qalb-e-pisar se mojiza hai
 
   4
-  Phuphi aa jaaye na maqtal mein Shaah-e-Din ke pichhe
+  Phuphi aa jaaye na maqtal meiṅ Shaah-e-Din ke pichhe
   Sakht Akbar ke liye ye marhala hai
 
   5
   Rache shaadi jo Akbar ki to mujh ko yaad rakhna
-  Madine se kisi bimaar ne khat mein likha hai
+  Madine se kisi bimaar ne khat meiṅ likha hai
 
   6
   Ali Akbar ki Shahid aakhri rukhsat ka manzar

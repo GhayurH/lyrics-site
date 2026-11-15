@@ -15,7 +15,7 @@ romanLyrics: |-
   Aati hai Karbala se kiuṅ nikhat Sakina ki
 
   1
-  Karb o bala mein Shaah-e-Zaman jab hue shahid
+  Karb o bala meiṅ Shaah-e-Zaman jab hue shahid
   Aashur ko ulat gayi qismat Sakina ki
 
   2
@@ -23,8 +23,8 @@ romanLyrics: |-
   Sine pe sone ki thi jo aadat Sakina ki
 
   3
-  Maatam karuṅ Husain aaṅsu bahaauṅ main
-  Dil mein hi ghut ke reh gayi hasrat Sakina ki
+  Maatam karuṅ Husain aaṅsu bahaauṅ maiṅ
+  Dil meiṅ hi ghut ke reh gayi hasrat Sakina ki
 
   4
   Khaae tamaanche gaaloṅ pe tha ek yehi sabab
@@ -36,10 +36,10 @@ romanLyrics: |-
 
   6
   Beti ke ek ishaare pe aaya sar-e-Husain
-  Sakte mein sab thi dekhi jo qudrat Sakina ki
+  Sakte meiṅ sab thi dekhi jo qudrat Sakina ki
 
   7
-  Zindaaṅ mein qaid ho gayi maaṅ aur phuphi ke saath
+  Zindaaṅ meiṅ qaid ho gayi maaṅ aur phuphi ke saath
   Sab ko wahaaṅ rulaati thi riqqat Sakina ki
 
   8
@@ -47,7 +47,7 @@ romanLyrics: |-
   Aabid ne khud banaai hai turbat Sakina ki
 
   9
-  Boli Sakina baaba ke sar se ye qaid mein
+  Boli Sakina baaba ke sar se ye qaid meiṅ
   Lene khabar ab aae haiṅ Hazrat Sakina ki
 
   10

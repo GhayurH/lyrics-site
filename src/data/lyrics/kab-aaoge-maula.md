@@ -17,10 +17,10 @@ romanLyrics: |-
 
   2
   Gyaarah sau baras kaise guzaare mere Aaqa
-  Ghaibat mein jo guzri hai sunaane chale aao
+  Ghaibat meiṅ jo guzri hai sunaane chale aao
 
   3
-  Jab aana ho aa jaana magar khwaab mein mere
+  Jab aana ho aa jaana magar khwaab meiṅ mere
   Kab aaoge Maula ye bataane chale aao
 
   4

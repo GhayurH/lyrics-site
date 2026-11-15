@@ -15,7 +15,7 @@ romanLyrics: |-
   Dekha tamaam umr tarapta Rabab ko
 
   1
-  Main dudh bhi pila na saki apne laal ko
+  Maiṅ dudh bhi pila na saki apne laal ko
   Taa zindagi raha yahi sadma Rabab ko
 
   2
@@ -27,11 +27,11 @@ romanLyrics: |-
   Asghar ne kar diya hai akela Rabab ko
 
   4
-  Asghar ke baad saaye mein baithi nahiṅ kabhi
+  Asghar ke baad saaye meiṅ baithi nahiṅ kabhi
   Deta raha tasalliyaaṅ kunba Rabab ko
 
   5
-  Daagh-e-judaai de gayi zindaan-e-Shaam mein
+  Daagh-e-judaai de gayi zindaan-e-Shaam meiṅ
   Asghar ke saath saath Sakina Rabab ko
 
   6
@@ -43,7 +43,7 @@ romanLyrics: |-
   Itna gham o alam ne sataaya Rabab ko
 
   8
-  Tu khidmat-e-aza mein hai masruf jis tarah
+  Tu khidmat-e-aza meiṅ hai masruf jis tarah
   Ishrat pasand aaye ga nauha Rabab ko
 # source_id: nohayonline:ac7b1a6989f2ef999cb8
 # source_url: https://www.nohayonline.com/details_content.php?id=1878

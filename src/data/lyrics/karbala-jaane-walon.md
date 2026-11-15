@@ -1,6 +1,6 @@
 ---
 title: "کربلا جانے والوں"
-alternateTitle: "Karbala Jaane Walon"
+alternateTitle: "Karbala Jaane Waloṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -39,7 +39,7 @@ romanLyrics: |-
   Khuṅ ka dena hai waaṅ aa ke mujhe nazraana
 
   5
-  Un se kehna nahiṅ maaṅguṅga main aazaayish o chain
+  Un se kehna nahiṅ maaṅguṅga maiṅ aazaayish o chain
   Nind jab aayegi so jaauṅga Bain-ul-Haramain
   Kafsh ko takiya bana kar hai mujhe so jaana
 
@@ -49,7 +49,7 @@ romanLyrics: |-
   Mujhko bhi Karbala paidal hai Najaf se jaana
 
   7
-  Main agar Shaam gaya pehle to boluṅga yehi
+  Maiṅ agar Shaam gaya pehle to boluṅga yehi
   Aap ke ammu ne bheja hai Sakina paani
   Tum Aba-l-Fazl ke sardaab ka paani laana
 

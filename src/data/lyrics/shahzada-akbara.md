@@ -11,44 +11,44 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Shahzada e Akbara rasha pas e loona waqt nu bahaar de
+  Shahzada e Akbara rasha pas e luna waqt nu bahaar de
   Khat likhti hai Sughra bhaiya watan aa ja waqt nu bahaar de
 
   1
   Khat likhti huṅ ashkoṅ se bhiga hai mera daaman
   Aa ja ke bahaar aayi suna hai mera aangan
   Ae bhai khudaara
-  Rasha pas e loona waqt nu bahaar de
+  Rasha pas e luna waqt nu bahaar de
 
   2
-  Phir gunje azaan teri Nana ke Madine mein
-  Phir bhar de Khuda bhaiya thandak mere sine mein
+  Phir gunje azaan teri Nana ke Madine meiṅ
+  Phir bhar de Khuda bhaiya thandak mere sine meiṅ
   Pura karo waada
-  Rasha pas e loona waqt nu bahaar de
+  Rasha pas e luna waqt nu bahaar de
 
   3
-  Dekhuṅ main tera sehra dulhan teri ghar aaye
-  Didaar tera bhaiya bas neg mein mil jaaye
+  Dekhuṅ maiṅ tera sehra dulhan teri ghar aaye
+  Didaar tera bhaiya bas neg meiṅ mil jaaye
   Aanchal mera phaila
-  Rasha pas e loona waqt nu bahaar de
+  Rasha pas e luna waqt nu bahaar de
 
   4
   Bimaar behan roye kya tum ko gawaara hai
   Bhaiya teri furqat ne bin maut ke maara hai
   Kehti hai yeh behna
-  Rasha pas e loona waqt nu bahaar de
+  Rasha pas e luna waqt nu bahaar de
 
   5
   Gul khilne ki rut aayi pardesi mere bhai
-  Tum dur watan se ho main huṅ meri tanhaai
+  Tum dur watan se ho maiṅ huṅ meri tanhaai
   Tarpaao na bhaiya
-  Rasha pas e loona waqt nu bahaar de
+  Rasha pas e luna waqt nu bahaar de
 
   6
   Rehaan bhi Sarwar bhi kehte haiṅ yehi Sughra
   Baithi hi rahi dar par Akbar ki behan Sughra
   Lab par tha yeh nauha
-  Rasha pas e loona waqt nu bahaar de
+  Rasha pas e luna waqt nu bahaar de
 # source_id: nohayonline:cbee3ed0b67973133213
 # source_url: https://www.nohayonline.com/details_content.php?id=2616
 # raw_sha256: 8a1c2a62ba06bc39dcd249fa719afc4a3281227032100b4fe5b269e2b305d25d

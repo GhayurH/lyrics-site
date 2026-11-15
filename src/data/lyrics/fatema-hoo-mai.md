@@ -14,55 +14,55 @@ romanLyrics: |-
   Ya Sayyeda ya Taahira ya Umm-e-Abiha
 
   Salaam jis ko alaihis salaam karte haiṅ
-  Wo Fatema huṅ main
+  Wo Fatema huṅ maiṅ
   Jhuk ke Hasnain bhi jis se kalaam karte haiṅ
-  Wo Fatema huṅ main
+  Wo Fatema huṅ maiṅ
 
   1
   Mujhe hi Raaziya Marziya Siddiqa kehte haiṅ
   Mujhe hi Taahira Umm-e-Abiha kehte haiṅ
   Wo jis ka Ahmad bhi ehteraam karte haiṅ
-  Wo Fatema huṅ main
+  Wo Fatema huṅ maiṅ
 
   2
   Dalil-e-haq tera sajda teri jabiṅ to nahiṅ
   Tera wujud gumaaṅ hai tera yaqiṅ to nahiṅ
-  Main Fatema huṅ sadaaqat ki wo dalil huṅ main
-  Agar main keh duṅ Khuda hai to hai nahiṅ to nahiṅ
+  Maiṅ Fatema huṅ sadaaqat ki wo dalil huṅ maiṅ
+  Agar maiṅ keh duṅ Khuda hai to hai nahiṅ to nahiṅ
   Bana ke surah-e-Kausar mujhe utaara gaya
   Mujhe hijaab-e-Muzzammil se hai pukaara gaya
   Taazim jis ki baarah Imam karte haiṅ
-  Wo Fatema huṅ main
+  Wo Fatema huṅ maiṅ
 
   3
-  Khuda ne aise jahaaṅ mein mujhe baraai di
+  Khuda ne aise jahaaṅ meiṅ mujhe baraai di
   Quran ne aayatoṅ se meri hi gawaahi di
   Wo jis ke ghar se arshi taam karte haiṅ
-  Wo Fatema huṅ main
+  Wo Fatema huṅ maiṅ
 
   4
-  Nabi ki beti huṅ darbaar mein khara na karo
+  Nabi ki beti huṅ darbaar meiṅ khara na karo
   Hijaab-e-kibriya huṅ mujh ko yuṅ ruswa na karo
   Wo jis ke dar pe farishte qiyaam karte haiṅ
-  Wo Fatema huṅ main
+  Wo Fatema huṅ maiṅ
 
   5
   Yuṅ mere ghar ko musalmaano tum jalaao na
   Aur mere pehlu pe darwaaze ko giraao na
   Durud jis pe sab khaas o aam parhte haiṅ
-  Wo Fatema huṅ main
+  Wo Fatema huṅ maiṅ
 
   6
-  Dehr mein aise mujhe tum agar rulaao ge
-  Hashr mein kaise shafaaat Nabi se paao ge
+  Dehr meiṅ aise mujhe tum agar rulaao ge
+  Hashr meiṅ kaise shafaaat Nabi se paao ge
   Hisaab-e-mahshar Khuda jis ke naam karte haiṅ
-  Wo Fatema huṅ main
+  Wo Fatema huṅ maiṅ
 
   7
   Jo khaali lauti thi darbaar se zaif ho kar
   Ali Imam se Yasir thi kehti ro ro kar
   Keh jis ke hone se saare nizaam chalte haiṅ
-  Wo Fatema huṅ main
+  Wo Fatema huṅ maiṅ
 # source_id: nohayonline:a811c309a28f2f26c2a7
 # source_url: https://www.nohayonline.com/details_content.php?id=1010
 # raw_sha256: 330cbd7700a80ef410f704980bbf6edad4fc6f2d63aeca27609051c7bc43986f

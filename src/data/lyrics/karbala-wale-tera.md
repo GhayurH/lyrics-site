@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ye hamaare dil mein jo imaan hai
+  Ye hamaare dil meiṅ jo imaan hai
   Karbala wale tera ehsaan hai
 
   Rehti duniya tak hai tera gham Husain
@@ -62,14 +62,14 @@ romanLyrics: |-
   Tere haathoṅ par bhi ek Quraan hai
 
   8
-  Bezabaan ke ran mein aane ki ada
+  Bezabaan ke ran meiṅ aane ki ada
   Dushmanoṅ ke dil hilaane ki ada
   Muskura kar tir khaane ki ada
-  Har ada mein haq ke ek elaan hai
+  Har ada meiṅ haq ke ek elaan hai
 
   9
-  Ae Zaheer ek ye bhi kaar-e-sawaab
-  Keh ke main ne Ya Ali Ya Bu Turaab
+  Ae Zahir ek ye bhi kaar-e-sawaab
+  Keh ke maiṅ ne Ya Ali Ya Bu Turaab
   Kitne chehroṅ se ulat di hai naqaab
   Naam-e-Haider qalb ki mizaan hai
 # source_id: nohayonline:1e2087b6f5ae54369f16

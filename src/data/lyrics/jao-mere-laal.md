@@ -14,7 +14,7 @@ romanLyrics: |-
   Aaye jo qabr-e-Faatima pe Sayyid-e-inaam
   Rukhsaar rakh ke qabr pe ro kar kiya kalaam
   Sahra meiṅ dil ke tukroṅ ki basti basaauṅ ga
-  Amma Madina laut ke main aa na paauṅ ga
+  Amma Madina laut ke maiṅ aa na paauṅ ga
   Kaaṅpa falak larazne lagi qabr-e-Sayyida
   Aayi Janaab-e-Faatima ki qabr se sada
   Jao mere laal jao mere laal
@@ -24,7 +24,7 @@ romanLyrics: |-
 
   1
   Jaa rahe ho tum jo keh ke din-e-haq bachaauṅ ga
-  Amma aap ki qasam main khun meiṅ nahaauṅ ga
+  Amma aap ki qasam maiṅ khun meiṅ nahaauṅ ga
   Ab ho jo bhi haal tum ho paaye maal
   Tum pe har qadam rahe dua meri
   Aur saaya Khuda-e-Zuljalaal
@@ -61,7 +61,7 @@ romanLyrics: |-
   Akbar-e-jawaaṅ jigar pe khaaye ga sinaaṅ
   Maaṅ kahe gi mera chaand kho gaya kahaaṅ
   Us pe nauha khwaan hoṅ ge meri jaaṅ
-  Main bhi aur Hasan bhi aur Rasul bhi
+  Maiṅ bhi aur Hasan bhi aur Rasul bhi
   Aur saaya Khuda-e-Zuljalaal
 
   7

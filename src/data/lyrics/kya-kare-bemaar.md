@@ -15,11 +15,11 @@ romanLyrics: |-
   Baap maaṅ bhai behen ki yaad tarpaaya kare
 
   1
-  Hai khushi shaadi mein Akbar ki bulaayeṅ ge zarur
+  Hai khushi shaadi meiṅ Akbar ki bulaayeṅ ge zarur
   Hasrateṅ Allah sab ke dil ki bar laaya kare
 
   2
-  Dekh lene ki tamanna dil mein lab par ye dua
+  Dekh lene ki tamanna dil meiṅ lab par ye dua
   Sar pe bhai ke bandhe sehra behen saaya kare
 
   3
@@ -39,7 +39,7 @@ romanLyrics: |-
   Maut gar aaye to pehle maaṅ ko aa jaaya kare
 
   7
-  Koi bhi aisa nahiṅ aalam mein juz tere Husain
+  Koi bhi aisa nahiṅ aalam meiṅ juz tere Husain
   Shukr-e-haq karte hue gardan ko katwaaya kare
 
   8

@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Al ajal labbaik Maula
 
-  Saari dunya mein ujaala nur ka ho jaaye ga
+  Saari dunya meiṅ ujaala nur ka ho jaaye ga
   Khaana-e-Kaaba ki chhat par ek alam lehraaye ga
   Jab Maula aayeṅ ge
 
@@ -21,21 +21,21 @@ romanLyrics: |-
   Dekhna ek roz manzar is tarah ka aaye ga
   Manzaroṅ par ek manzar mustaqil ho jaaye ga
   Haaṅ yehi manzar qayaamat ki khabar ban jaaye ga
-  Saari dunya mein ujaala nur ka ho jaaye ga
+  Saari dunya meiṅ ujaala nur ka ho jaaye ga
   Khaana-e-Kaaba ki chhat par ek alam lehraaye ga
 
   2
   Ae azaadaaroṅ suno ge jald Maula ki sada
   Qaaim-e-Aal-e-Muhammad Askari ka mah laqa
   Aa raha hai aa raha hai marhaba sad marhaba
-  Majlis-e-Shabbir mein ab shor-e-girya dekhna
+  Majlis-e-Shabbir meiṅ ab shor-e-girya dekhna
   Pursadaaroṅ farsh-e-gham par apna Maula dekhna
 
   3
-  Surkh aandhiyaaṅ utheṅ gi phir samajh mein aaye ga
+  Surkh aandhiyaaṅ utheṅ gi phir samajh meiṅ aaye ga
   Jis ki dunya muntazir thi phir wo manzar aaye ga
   Mausam-e-insaaf le kar mera Maula aaye ga
-  Kufr hujroṅ mein chhupe ga dar badar ho jaaye ga
+  Kufr hujroṅ meiṅ chhupe ga dar badar ho jaaye ga
   Mukhtasar lashkar Imaam-e-Asr ka chhaa jaaye ga
 
   4
@@ -47,9 +47,9 @@ romanLyrics: |-
 
   5
   Dekhna is tarah Maula majliseṅ karwaayeṅ ge
-  Majlisoṅ mein Karbala wale bulaaye jaayeṅ ge
+  Majlisoṅ meiṅ Karbala wale bulaaye jaayeṅ ge
   Naara-e-Haidar lage ga Panjetan jab aayeṅ ge
-  Dekhna un majlisoṅ mein har shahid aa jaaye ga
+  Dekhna un majlisoṅ meiṅ har shahid aa jaaye ga
   Phir to wo maatam kareṅ ge aasmaaṅ hil jaaye ga
 
   6
@@ -57,7 +57,7 @@ romanLyrics: |-
   Aayeṅ ge saare farishte auliya aur ambiya
   Aab-e-Kausar ki sabileṅ bhi lageṅ gi jaa baja
   Un ke aate hi sitaare khud zamiṅ par aayeṅ ge
-  Dekhna shehr-e-khaamoshaaṅ mein diye jal jaayeṅ ge
+  Dekhna shehr-e-khaamoshaaṅ meiṅ diye jal jaayeṅ ge
 
   7
   Akbar o Abbas Qaasim ke liye girya kunaṅ
@@ -71,7 +71,7 @@ romanLyrics: |-
   Marsiya parhte hue baaba ka Akbar aayeṅ ge
   Hazrat-e-Abbas bhi apne alam ko laayeṅ ge
   Nauha ek Rehaan se Maula mere likhwaayeṅ ge
-  Phir ye nauha saath mein Sarwar ke sab parhwaayeṅ ge
+  Phir ye nauha saath meiṅ Sarwar ke sab parhwaayeṅ ge
 # source_id: nohayonline:d595209db4595c04b083
 # source_url: https://www.nohayonline.com/details_content.php?id=3295
 # raw_sha256: 13b071c929b3e3c235ec695395d911aa9119c875b814ef86100a1de9e1dbce4e

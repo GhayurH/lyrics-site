@@ -47,7 +47,7 @@ romanLyrics: |-
   Ae naujawaaṅ Husain ke dilbar kahaaṅ ho tum
 
   9
-  Ham ghir chuke haiṅ nargha-e-aada mein ae pisar
+  Ham ghir chuke haiṅ nargha-e-aada meiṅ ae pisar
   Durre laga rahe haiṅ sitamgar kahaaṅ ho tum
 
   10
@@ -63,7 +63,7 @@ romanLyrics: |-
   Aai sada ke ae Ali Akbar kahaaṅ ho tum
 
   13
-  Ahl-e-haram mein hashr bapa ho gaya Asim
+  Ahl-e-haram meiṅ hashr bapa ho gaya Asim
   Sarwar ne jab kaha Ali Akbar kahaaṅ ho tum
 # source_id: nohayonline:f54b52efd703f9e1ecfa
 # source_url: https://www.nohayonline.com/details_content.php?id=1875

@@ -16,32 +16,32 @@ romanLyrics: |-
 
   1
   Tumhaari musibat bhulaauṅ ga kaise
-  Main bachchoṅ se aansu chhupaauṅ ga kaise
+  Maiṅ bachchoṅ se aansu chhupaauṅ ga kaise
   Tumheiṅ yaad karke jo royeṅ ge bachche
-  Main bachchoṅ ko apne manaauṅ ga kaise
-  Tasavvur mein Zehra se karke ye baateiṅ
+  Maiṅ bachchoṅ ko apne manaauṅ ga kaise
+  Tasavvur meiṅ Zehra se karke ye baateiṅ
   Jhukaaye sar apna Ali ro rahe haiṅ
 
   2
   Kabhi aansuoṅ ko chhupaati hai Zainab
   Kabhi bhaaiyoṅ ko uthaati hai Zainab
-  Kabhi ghar ke aangan mein aati hai Zainab
-  Kabhi maaṅ ke hujre mein jaati hai Zainab
+  Kabhi ghar ke aangan meiṅ aati hai Zainab
+  Kabhi maaṅ ke hujre meiṅ jaati hai Zainab
   Kabhi ro ke dukhiya ye karti hai nauha
   Utho ammaaṅ Fizza Ali ro rahe haiṅ
 
   3
   Utho shaahzaadi hua hai andhera
   Tumhaare bina wo kahaaṅ so sake ga
-  Main jaauṅ ga waapas to bole ga Baba
+  Maiṅ jaauṅ ga waapas to bole ga Baba
   Meri maaṅ kahaaṅ hai bulaado khudaara
   Akele jala kar charaagh aansuoṅ ka
   Sar-e-qabr-e-Zehra Ali ro rahe haiṅ
 
   4
-  Hai shahr-e-Nabi mein samaaṅ Karbala ka
+  Hai shahr-e-Nabi meiṅ samaaṅ Karbala ka
   Na koi tasalli na koi dilaasa
-  Taraste haiṅ ghar mein yatimaan-e-Zehra
+  Taraste haiṅ ghar meiṅ yatimaan-e-Zehra
   Koi aa ke deta nahiṅ in ko pursa
   Husain o Hasan ka kahiṅ par hai girya
   Kahiṅ mere Maula Ali ro rahe haiṅ
@@ -60,7 +60,7 @@ romanLyrics: |-
   Wo aahoṅ ka bharna wo zakhmoṅ ka risna
   Shahaadat wo Mohsin ki Zehra ka rona
   Takallum abhi tak isi bekasi par
-  Lahad mein bhi Maula Ali ro rahe haiṅ
+  Lahad meiṅ bhi Maula Ali ro rahe haiṅ
 # source_id: nohayonline:3cf541567cca086e9bb2
 # source_url: https://www.nohayonline.com/details_content.php?id=1029
 # raw_sha256: 6ae021a6635e4749e428324266457b0a38a5558d5ba105cacd512ceb01e863e7

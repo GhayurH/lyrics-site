@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Qaid mein chaudah baras zulm o sitam dhaaya gaya
+  Qaid meiṅ chaudah baras zulm o sitam dhaaya gaya
   Kaazim-e-muztar ko tarpaaya gaya
   Phir nishaan-e-ismat-e-saadaat mitwaaya gaya
   Kaazim-e-muztar ko tarpaaya gaya
@@ -19,19 +19,19 @@ romanLyrics: |-
   1
   Qaid kar ke le ke aaye Kaazim-e-naushad ko
   Phir azaadaar-e-janaab-e-Sayyid-e-Sajjad ko
-  Paaoṅ mein beri gale mein tauq pehnaaya gaya
+  Paaoṅ meiṅ beri gale meiṅ tauq pehnaaya gaya
   Kaazim-e-muztar ko tarpaaya gaya
 
   2
   Yaad Aabid ki asiri aa gayi rote rahe
   Pesh-e-haakim pa barehna haaye peshi ke liye
-  Jis ghari sarkaar ko darbaar mein laaya gaya
+  Jis ghari sarkaar ko darbaar meiṅ laaya gaya
   Kaazim-e-muztar ko tarpaaya gaya
 
   3
   Chaar jaanib ghup andhera tha ke jaise qabr ho
   Qaid khaana aisa lagta tha ke jaise qabr ho
-  Jite ji is qabr mein maula ko dalwaaya gaya
+  Jite ji is qabr meiṅ maula ko dalwaaya gaya
   Kaazim-e-muztar ko tarpaaya gaya
 
   4
@@ -55,11 +55,11 @@ romanLyrics: |-
   7
   Chand mazduroṅ ne laashe ko uthaaya aap ke
   Aur janaaza pul pe laa ke rakh diya Baghdad ke
-  Haaye zanjiroṅ mein bhi mayyat ko bandhwaaya gaya
+  Haaye zanjiroṅ meiṅ bhi mayyat ko bandhwaaya gaya
   Kaazim-e-muztar ko tarpaaya gaya
 
   8
-  Ghul hua kaunain mein maara gaya ek bekhata
+  Ghul hua kaunain meiṅ maara gaya ek bekhata
   Ho gaye haiṅ bepadar Maula Raza Yasir Raza
   Haaye Maasuma ke sar se baap ka saaya gaya
   Kaazim-e-muztar ko tarpaaya gaya

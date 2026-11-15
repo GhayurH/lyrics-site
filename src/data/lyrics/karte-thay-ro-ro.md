@@ -12,7 +12,7 @@ published: true
 romanLyrics: |-
   Karte the ro ro ke ye Hazrat bayaaṅ
   Tor gaye meri kamar bhaai jaaṅ
-  Roti hai khaime mein Sakina wahaaṅ
+  Roti hai khaime meiṅ Sakina wahaaṅ
   Sote haiṅ Abbas zamiṅ par yahaaṅ
 
   1
@@ -46,16 +46,16 @@ romanLyrics: |-
   Chalti hai dil par chhuri sher jawaaṅ mar gaya
 
   6
-  Toro na ghurbat mein meri aas utho
+  Toro na ghurbat meiṅ meri aas utho
   Utho Husain aaya hai Abbas utho
   Rota hai mazlum basad yaas utho
   Utho bas ab ghar ko chalo bhaai jaaṅ
 
   7
-  Dhum hai khaime mein waaṅ sher jawaaṅ mar gaya
+  Dhum hai khaime meiṅ waaṅ sher jawaaṅ mar gaya
   Karti hai Zainab fughaaṅ sher jawaaṅ mar gaya
-  Sine mein hai dil tapaaṅ sher jawaaṅ mar gaya
-  Kis se karuṅ mein bayaaṅ sher jawaaṅ mar gaya
+  Sine meiṅ hai dil tapaaṅ sher jawaaṅ mar gaya
+  Kis se karuṅ meiṅ bayaaṅ sher jawaaṅ mar gaya
 
   8
   Haath se khoya dil naashaad ko
@@ -71,9 +71,9 @@ romanLyrics: |-
 
   10
   Maaṅ hai Bani Haashim waala nahiṅ
-  Is mein mere mahru ka ujaala nahiṅ
+  Is meiṅ mere mahru ka ujaala nahiṅ
   Haae mera chaahne waala nahiṅ
-  Nazroṅ mein taarik hai saara jahaaṅ
+  Nazroṅ meiṅ taarik hai saara jahaaṅ
 
   11
   Aaṅkhoṅ ka taara mera sher jawaaṅ mar gaya
@@ -88,7 +88,7 @@ romanLyrics: |-
   Aate haiṅ ab hum bhi chalo bhaai jaaṅ
 
   13
-  Jaan hai mujh mein kahaaṅ sher jawaaṅ mar gaya
+  Jaan hai mujh meiṅ kahaaṅ sher jawaaṅ mar gaya
   Ranj se huṅ nim jaaṅ sher jawaaṅ mar gaya
   Lut gaya sab kaarwaaṅ sher jawaaṅ mar gaya
   Jald ho khanjar rawaaṅ sher jawaaṅ mar gaya
@@ -97,7 +97,7 @@ romanLyrics: |-
   Shor hai faryaad ka Shaukat khamosh
   Khote haiṅ sab Shah ke azaadaar hosh
   Kar ye dua Haq se ke ae parda posh
-  Kar na gunaah hashr mein mere ayaaṅ
+  Kar na gunaah hashr meiṅ mere ayaaṅ
 # source_id: nohayonline:5b572190b74a577e2615
 # source_url: https://www.nohayonline.com/details_content.php?id=2030
 # raw_sha256: b4a9e2fdbc668b101cc3115b4a8bebee971dc51d23e964bda0bf07f7eaa5e5a8

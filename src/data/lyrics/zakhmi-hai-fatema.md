@@ -60,20 +60,20 @@ romanLyrics: |-
 
   7
   Ae waaris-e-Rasul qayaamat phir aa gayi
-  Ghaibat mein tum ho aur shahaadat phir aa gayi
+  Ghaibat meiṅ tum ho aur shahaadat phir aa gayi
   Aakar suna to do hameṅ ghurbat ki daastaaṅ
   Ya Sahib az Zamaan
 
   8
-  Har dushman-e-Batul ko tukroṅ mein baaṅt do
+  Har dushman-e-Batul ko tukroṅ meiṅ baaṅt do
   Tum ko qasam Husain ki wo haath kaat do
   Jis haath ka hai Bibi ke rukhsaar par nishaaṅ
   Ya Sahib az Zamaan
 
   9
   Ayyaam-e-pursa daari-e-Zahra ka waasta
-  Karte haiṅ Qum mein Mir Takallum ye sab dua
-  Maatam kare Baqiyya mein har maatami jawaaṅ
+  Karte haiṅ Qum meiṅ Mir Takallum ye sab dua
+  Maatam kare Baqiyya meiṅ har maatami jawaaṅ
   Ya Sahib az Zamaan
 # source_id: nohayonline:e5e7f42393848d12cb0f
 # source_url: https://www.nohayonline.com/details_content.php?id=1041

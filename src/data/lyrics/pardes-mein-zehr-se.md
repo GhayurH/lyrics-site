@@ -1,6 +1,6 @@
 ---
 title: "پردیس میں زہر سے مارا ہے نقی کو"
-alternateTitle: "Pardes Mein Zehr Se"
+alternateTitle: "Pardes Meiṅ Zehr Se"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,19 +11,19 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Pardes mein zehr se maara hai Naqi ko
+  Pardes meiṅ zehr se maara hai Naqi ko
   Jis tarah is se pehle Raza aur Taqi ko
 
   1
   Chhe saal umr thi ke hue baap se juda
-  Zaalim ne kamsini mein rakha qaid Naqi ko
+  Zaalim ne kamsini meiṅ rakha qaid Naqi ko
 
   2
-  Maasum ko laiṅ ne bulaaya Iraq mein
-  Phir tauq-e-salaasil mein rakha Maula Naqi ko
+  Maasum ko laiṅ ne bulaaya Iraq meiṅ
+  Phir tauq-e-salaasil meiṅ rakha Maula Naqi ko
 
   3
-  Haaye haaye yatim Saamra mein chhor kar gaye
+  Haaye haaye yatim Saamra meiṅ chhor kar gaye
   Khud Askari ne ghusl diya baaba Naqi ko
 
   4

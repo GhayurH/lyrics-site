@@ -1,6 +1,6 @@
 ---
 title: "مقتل میں رو کے کہتی تھی زہرا میرے حسین"
-alternateTitle: "Maqtal Mein Ro Ke"
+alternateTitle: "Maqtal Meiṅ Ro Ke"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,12 +11,12 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Maqtal mein ro ke kehti thi Zehra mere Husain
-  Aa god mein aa jaa mere Husain
+  Maqtal meiṅ ro ke kehti thi Zehra mere Husain
+  Aa god meiṅ aa jaa mere Husain
 
   1
   Abbas mar gayaa teraa Akbar nahiṅ rahaa
-  Godi mein jis ko paalaa thaa Asghar nahiṅ rahaa
+  Godi meiṅ jis ko paalaa thaa Asghar nahiṅ rahaa
   Sab mar chuke haiṅ roti hai Zehra mere Husain
 
   2

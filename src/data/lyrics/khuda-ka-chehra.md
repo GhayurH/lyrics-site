@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Khuda ke ghar mein sar-e-musalla
+  Khuda ke ghar meiṅ sar-e-musalla
   Khuda ka chehra lahu lahu hai
 
   Laiṅ ki zarbat se aaj dekho
@@ -30,14 +30,14 @@ romanLyrics: |-
   Ke ghar Khuda ka lahu lahu hai
 
   3
-  Rasul marqad mein ro rahe haiṅ
+  Rasul marqad meiṅ ro rahe haiṅ
   Hai aaj Yasrab pe sog jaari
-  Lahad mein roti hai khun Zehra
+  Lahad meiṅ roti hai khun Zehra
   Baqiyya saara lahu lahu hai
 
   4
   Yatimi Zehra ki betiyoṅ pe
-  Lo aaj Kufe mein aa gayi hai
+  Lo aaj Kufe meiṅ aa gayi hai
   Hai chaak Hasnain ka garebaaṅ
   Ghilaaf-e-Kaaba lahu lahu hai
 

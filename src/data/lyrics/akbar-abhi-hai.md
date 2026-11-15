@@ -11,7 +11,7 @@ aliases: []
 published: true
 reciter: "Anj. Masoomeen"
 romanLyrics: |-
-  Akbar abhi hai raah mein Laila pukaar lo
+  Akbar abhi hai raah meiṅ Laila pukaar lo
   Apne pisar ke husn ka sadqa utaar lo
 
   1
@@ -31,12 +31,12 @@ romanLyrics: |-
 
   4
   Ran ko chala hai ye jo hai hamshakl-e-Mustafa
-  Abbas se jalaal mein jurrat mein Murtaza
+  Abbas se jalaal meiṅ jurrat meiṅ Murtaza
   Maadar hai Laila baap hai Sultaan-e-Karbala
 
   5
   Sochi thi us ka byaah rachane ke waaste
-  Basti nai nai main basane ke waaste
+  Basti nai nai maiṅ basane ke waaste
   Kya tum jiyoge ashk bahane ke waaste
 
   6
@@ -50,9 +50,9 @@ romanLyrics: |-
   Bint-e-Ali ke lab pe har ek baar hai sukhan
 
   8
-  Maidaṅ ki simt jaate haiṅ ab Akbar-e-Hasin
-  Thaame kaleja dekhte haiṅ un ko Shah-e-Din
-  Laila se ro ke kehti hai ye Zainab-e-Hazin
+  Maidaṅ ki simt jaate haiṅ ab Akbar-e-Hasiṅ
+  Thaame kaleja dekhte haiṅ un ko Shah-e-Diṅ
+  Laila se ro ke kehti hai ye Zainab-e-Haziṅ
 
   9
   Thaame kamar ko Fatima Zehra ka laal hai

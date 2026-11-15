@@ -16,7 +16,7 @@ romanLyrics: |-
 
   1
   Ye Hur ka hai wo bhai ka ye bete ka laasha
-  Zahra ka pisar ganj-e-shahidaaṅ mein khara hai
+  Zahra ka pisar ganj-e-shahidaaṅ meiṅ khara hai
 
   2
   Zainab teri chaadar ka Khuda haafiz o naasir
@@ -32,14 +32,14 @@ romanLyrics: |-
 
   5
   Chhup chhup ke use royegi ek raat ki byaahi
-  Wo dulha jo begor o kafan ran mein para hai
+  Wo dulha jo begor o kafan ran meiṅ para hai
 
   6
   Laila tere Akbar ne nahiṅ khaaya hai neza
-  Ye neza dil-e-sibt-e-Payambar mein laga hai
+  Ye neza dil-e-sibt-e-Payambar meiṅ laga hai
 
   7
-  Maaṅ jhula jhulaati hai khayaaloṅ mein abhi tak
+  Maaṅ jhula jhulaati hai khayaaloṅ meiṅ abhi tak
   Ab jhulne waala nahiṅ baaqi ye pata hai
 
   8
@@ -47,7 +47,7 @@ romanLyrics: |-
   Wo khaak faqat khaak nahiṅ khaak-e-shifa hai
 
   9
-  Hai majlis-e-Shabbir mein Abbas ka maatam
+  Hai majlis-e-Shabbir meiṅ Abbas ka maatam
   Rehaan ye Ghaazi ki wafaaoṅ ka sila hai
 # source_id: nohayonline:82dc9a8460074073ac48
 # source_url: https://www.nohayonline.com/details_content.php?id=414

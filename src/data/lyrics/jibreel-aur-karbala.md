@@ -12,12 +12,12 @@ aliases: []
 published: true
 romanLyrics: |-
   Jab tisri Shaabaan ko aaya gul-e-Zahra
-  Shabbir ko godi mein Muhammad ne uthaaya
+  Shabbir ko godi meiṅ Muhammad ne uthaaya
   Haidar jo khushi se rukh-e-maasum ko dekha
-  Itne mein sada dar pe ye Jibreel ki aayi
+  Itne meiṅ sada dar pe ye Jibril ki aayi
   Ya Sayyidi qurbaan duhaai hai duhaai
 
-  Kehte the Jibreel laaya huṅ mehzar
+  Kehte the Jibril laaya huṅ mehzar
   Sayyidi salaam alaika
 
   1
@@ -25,30 +25,30 @@ romanLyrics: |-
   Ek tahrir hai pur dard magar laaya huṅ
   Ik safar naama-e-maghmum-e-jigar laaya huṅ
   Din khushi ka hai magar gham ki khabar laaya huṅ
-  Dil mein hai khanjar nauha zabaan par
+  Dil meiṅ hai khanjar nauha zabaan par
   Sayyidi salaam alaika
 
   2
-  Saath mehzar ke main wo khaak-e-shifa laaya huṅ
+  Saath mehzar ke maiṅ wo khaak-e-shifa laaya huṅ
   Saari dunya ke liye gham ki dawa laaya huṅ
   Umm-e-Salma ki zaifi ka asa laaya huṅ
-  Yaani rumaal mein maqtal hi chhupa laaya huṅ
+  Yaani rumaal meiṅ maqtal hi chhupa laaya huṅ
   Is pe girega khun-e-bahattar
   Sayyidi salaam alaika
 
   3
-  Sun ke Jibreel ki faryaad Muhammad ne kaha
-  Kya hai mehzar mein likha mujh ko sunaao to zara
-  Ro ke kehne laga Jibreel meri jaan fida
+  Sun ke Jibril ki faryaad Muhammad ne kaha
+  Kya hai mehzar meiṅ likha mujh ko sunaao to zara
+  Ro ke kehne laga Jibril meri jaan fida
   Aap ke pyaare nawaase ka shahaadat naama
-  Karbobala mein jaayega dilbar
+  Karbobala meiṅ jaayega dilbar
   Sayyidi salaam alaika
 
   4
-  Bole Jibreel parhuṅ mehzar-e-gham baad-e-salaam
-  Is mein shaamil hai shahidoṅ ke asiroṅ ke bhi naam
+  Bole Jibril parhuṅ mehzar-e-gham baad-e-salaam
+  Is meiṅ shaamil hai shahidoṅ ke asiroṅ ke bhi naam
   Aqraba ahl-e-haram chand kaniz aur ghulaam
-  Koi maqtal mein rahega to koi jaayega Shaam
+  Koi maqtal meiṅ rahega to koi jaayega Shaam
   Koi hai besar koi khule sar
   Sayyidi salaam alaika
 
@@ -63,7 +63,7 @@ romanLyrics: |-
   6
   Ya Nabi aap ki ummat ye sitam dhaayegi
   Jab su-e-Karbobala Shaah ko bulwaayegi
-  Aap ki Aal Madine mein na reh paayegi
+  Aap ki Aal Madine meiṅ na reh paayegi
   Aap ke baad ye dunya hi badal jaayegi
   Jaayeṅge maqtal chhor ke jab ghar
   Sayyidi jaan Husain
@@ -77,10 +77,10 @@ romanLyrics: |-
   Sayyidi salaam alaika
 
   8
-  Ab dekhiye Jibreel ki aaṅkhoṅ se ye manzar
+  Ab dekhiye Jibril ki aaṅkhoṅ se ye manzar
   Aashur ki wo subh azaan-e-Ali Akbar
   Ek pyaase ko har simt se ghere hai sitamgar
-  Wo neze wo paikaan wo talwaareṅ wo khanjar
+  Wo neze wo paikaaṅ wo talwaareṅ wo khanjar
   Maqtal ke wo muazzim ka wo laasha sar-e-maqtal
   Barchhi ka nishaaṅ sine pe ek tuta hua phal
   Talwaar se ek turbat-e-beshir banaana
@@ -92,13 +92,13 @@ romanLyrics: |-
   Wo asr ka hangaam ghari qatl ki aayi
   Jab Shimr ne ek pyaase pe talwaar chalaai
   Ek ret ke tile pe gayi Zahra ki jaai
-  Maqtal mein behen roti rahi neze pe bhaai
+  Maqtal meiṅ behen roti rahi neze pe bhaai
   Manzar wo bayaan kaise kare Maisam o Mazhar
   Baba se kaha Fatima Zahra ne ye ro kar
-  Lut jaayega jab dasht-e-bayaabaaṅ mein mera ghar
+  Lut jaayega jab dasht-e-bayaabaaṅ meiṅ mera ghar
   Royega kaun bhala kaun mere bachche ko jaa kar
   Beti se ye farmaane lage Ahmad-e-Mukhtaar
-  Taa hashr ise royeṅge dunya mein azaadaar
+  Taa hashr ise royeṅge dunya meiṅ azaadaar
 # source_id: nohayonline:6d5efeebbbb23aaed99e
 # source_url: https://www.nohayonline.com/details_content.php?id=3714
 # raw_sha256: 9b6499e3094a1f1734372edc2aa8c8adec7a9cc2da0bffa15db6b1d12dbe49a0

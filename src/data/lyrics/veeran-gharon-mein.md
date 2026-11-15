@@ -13,15 +13,15 @@ published: true
 romanLyrics: |-
   Shaam se laut aaye hai Madine waale
 
-  Viraaṅ gharoṅ mein qaid se yuṅ waapsi hui
+  Viraaṅ gharoṅ meiṅ qaid se yuṅ waapsi hui
   Koi diya jala na kahiṅ roshni hui
 
   Ye haal hai ke betiyaaṅ pehchaantiṅ nahiṅ
-  Zainab khud apne ghar mein bhi ab ajnabi hui
+  Zainab khud apne ghar meiṅ bhi ab ajnabi hui
 
   1
   Zainab ke baazuoṅ pe ye nile nishaan haiṅ
-  Ya phir rasan hai haathoṅ mein ab tak basi hui
+  Ya phir rasan hai haathoṅ meiṅ ab tak basi hui
 
   2
   Akbar shahid ho gaye lekin woh intizaar

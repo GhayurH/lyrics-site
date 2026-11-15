@@ -10,7 +10,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Har waqt zamane saare mein
+  Har waqt zamane saare meiṅ
   Shabbir ka maatam hota hai
   Sajjad to rone waale haiṅ
   Tathir ka maatam hota hai

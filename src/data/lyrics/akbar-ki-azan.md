@@ -27,10 +27,10 @@ romanLyrics: |-
   Haye Husain Haye Husain
 
   2
-  Hamshakl-e-Nabi farzand-e-jawaṅ
-  Wo pyaas mein tar wo lehja wo zabaṅ
-  Takbir mein wo andaaz-e-bayaṅ
-  Ashur ke din Akbar ki azan
+  Hamshakl-e-Nabi farzand-e-jawaaṅ
+  Wo pyaas meiṅ tar wo lehja wo zabaṅ
+  Takbir meiṅ wo andaaz-e-bayaṅ
+  Ashur ke din Akbar ki azaṅ
   Haye Husain Haye Husain
 # source_id: nohayonline:1f9e1a18a53546806a1d
 # source_url: https://www.nohayonline.com/details_content.php?id=454

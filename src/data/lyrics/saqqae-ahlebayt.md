@@ -19,7 +19,7 @@ romanLyrics: |-
 
   2
   Hamshir se ye kehte haiṅ mazlum-e-Karbala
-  Ghurbat mein bekasoṅ ka sahaara nahiṅ raha
+  Ghurbat meiṅ bekasoṅ ka sahaara nahiṅ raha
   Zainab hamaara munis o ghamkhwaar hai kahaṅ
 
   3
@@ -39,7 +39,7 @@ romanLyrics: |-
 
   6
   Laaye jo ran se mashk o alam Shaah-e-Karbala
-  Fizza har ek khaime mein deti thi ye sada
+  Fizza har ek khaime meiṅ deti thi ye sada
   Ae Bibiyoṅ Husain ka ghamkhwaar hai kahaṅ
 
   7

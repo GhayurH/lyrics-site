@@ -15,7 +15,7 @@ romanLyrics: |-
   Zahra ki tarah tuti haiṅ Qasim ki pasliyaaṅ
 
   1
-  Tukre pukaare dasht mein labbaik ya Husain
+  Tukre pukaare dasht meiṅ labbaik ya Husain
   Aa kar kaha jo Maula ne Qasim ho tum kahaaṅ
 
   2
@@ -32,7 +32,7 @@ romanLyrics: |-
 
   5
   Tukre uthaane laash ke Sarwar ke saath saath
-  Zahra gayiṅ haiṅ dasht mein jaane kahaaṅ kahaaṅ
+  Zahra gayiṅ haiṅ dasht meiṅ jaane kahaaṅ kahaaṅ
 
   6
   Paamaal ho na laash chacha ki ye soch kar

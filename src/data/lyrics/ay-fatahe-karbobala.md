@@ -67,7 +67,7 @@ romanLyrics: |-
   Wo naayab-e-Sher-e-Khuda
   Saahil pa qabza kar ke bhi
   Teri qasam pyasa raha
-  Darya tadap kar reh gaya
+  Darya tarap kar reh gaya
 
   9
   Maatam hai ye Abbas ka
@@ -88,7 +88,7 @@ romanLyrics: |-
   Dast-e-sitam tegh-e-jafa
   Kis zulm se kaata gaya
   Maula tera pyaasa gala
-  Sar tera naize par chadha
+  Sar tera naize par charha
 
   12
   Wo qatl ka tere samaaṅ
@@ -114,7 +114,7 @@ romanLyrics: |-
   15
   Ahl-e-sitam sab thak gaye
   Ashkoṅ pa kab pehre lage
-  Har daur mein ye gham tera
+  Har daur meiṅ ye gham tera
   Ahl-e-wafa karte rahe
   Maatam tera kab ruk saka
 
@@ -135,7 +135,7 @@ romanLyrics: |-
   18
   Bimaar ka zakhmi badan
   Dulhan ke baazu meiṅ rasan
-  Kulsum o Zainab be rida
+  Kulsum o Zainab berida
   Aur tera laasha bekafan
   Mahshar na kiuṅ barpa hua
 
@@ -162,7 +162,7 @@ romanLyrics: |-
   Hum haiṅ dua-e-Fatima
 
   22
-  Armaan hai ye dilgeer ka
+  Armaan hai ye dilgir ka
   Shabbir ki hamshir ka
   Jaaved ye jina bhi hai
   Sadqa gham-e-Shabbir ka

@@ -33,7 +33,7 @@ romanLyrics: |-
 
   5
   Ye dua karti thi Zainab ke yuṅ ujre na koi
-  Jaise pardes mein ham log hai barbaad hue
+  Jaise pardes meiṅ ham log hai barbaad hue
 
   6
   Kiuṅ nahiṅ Maisam o Salman kareṅ ge girya

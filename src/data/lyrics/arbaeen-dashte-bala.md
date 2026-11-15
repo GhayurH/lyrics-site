@@ -1,6 +1,6 @@
 ---
 title: "اربعین دشت بلا میں ہے منانا زینب"
-alternateTitle: "Arbaeen Dashte Bala"
+alternateTitle: "Arbain Dashte Bala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Arbaeen dasht-e-bala mein hai manaana Zainab
+  Arbain dasht-e-bala meiṅ hai manaana Zainab
   Maaṅ se waada jo kiya tha wo nibhaana Zainab
 
   1
@@ -31,7 +31,7 @@ romanLyrics: |-
 
   4
   Jhula khaali Ali Asghar ka wo jab dekhegi
-  Sughra Asghar ko tere god mein jab dhuṅdegi
+  Sughra Asghar ko tere god meiṅ jab dhuṅdegi
   Meri jaanib se use dena dilaasa Zainab
 
   5
@@ -40,7 +40,7 @@ romanLyrics: |-
   Roye Kubra to use tu hi manaana Zainab
 
   6
-  Aisa saabir tha wo ek donoṅ jahaaṅ mein Iqbal
+  Aisa saabir tha wo ek donoṅ jahaaṅ meiṅ Iqbal
   Bekasi roti thi sar pit ke tha us ka haal
   Qabr bete ka mere tu hi banaana Zainab
 # source_id: nohayonline:e18c989c43da47818064

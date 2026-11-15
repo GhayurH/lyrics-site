@@ -1,6 +1,6 @@
 ---
 title: "میں ہوں عباس میرے در پہ تم ایسے آنا"
-alternateTitle: "Main Huṅ Abbas"
+alternateTitle: "Maiṅ Huṅ Abbas"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Main huṅ Abbas mere dar pe tum aise aana
+  Maiṅ huṅ Abbas mere dar pe tum aise aana
   Naam mera hai zamaane ko adab sikhlaana
 
   1
@@ -23,8 +23,8 @@ romanLyrics: |-
   Sajda karte hue darwaaze se andar jaana
 
   3
-  Maatami saf mein khare ho ya namaazi saf mein
-  Kisi halqe mein bhi halke na nazar tum aana
+  Maatami saf meiṅ khare ho ya namaazi saf meiṅ
+  Kisi halqe meiṅ bhi halke na nazar tum aana
 
   4
   Hai bahut Shah ko pasand aise bashar ka aana
@@ -35,11 +35,11 @@ romanLyrics: |-
   Phir mera kaam hai Hazrat se tumheṅ milwaana
 
   6
-  Qabr mein haazir o naazir hai Imam-e-Maasum
+  Qabr meiṅ haazir o naazir hai Imam-e-Maasum
   Ibn-e-Zehra ko bhi pet nahiṅ dikhlaana
 
   7
-  Ye na ho hujroṅ mein hi waqt guzar jaaye tamaam
+  Ye na ho hujroṅ meiṅ hi waqt guzar jaaye tamaam
   Tum watan se yahaaṅ aaye ho haram bhi aana
 
   8
@@ -48,7 +48,7 @@ romanLyrics: |-
 
   9
   Mir Sajjad utha haath jo mazlumoṅ par
-  Main ne rajat qalam karna hai har wo shaana
+  Maiṅ ne rajat qalam karna hai har wo shaana
 # source_id: nohayonline:18a399f137b28cfd7e8c
 # source_url: https://www.nohayonline.com/details_content.php?id=3667
 # raw_sha256: 368bdfd20710bdc5ebb8eadbb8db247cd0c80827450eb8e21f7ef25c7e4e3292

@@ -19,7 +19,7 @@ romanLyrics: |-
   Haaye Asghar mere haaye Asghar
 
   2
-  Kaise taqdir main ne hai paayi
+  Kaise taqdir maiṅ ne hai paayi
   Mil gaya dil ko daagh-e-judaai
   Dil ke tukre hue haiṅ bahattar
   Haaye Asghar mere haaye Asghar
@@ -31,9 +31,9 @@ romanLyrics: |-
   Haaye Asghar mere haaye Asghar
 
   4
-  Tere tishnalabi ke main waari
+  Tere tishnalabi ke maiṅ waari
   Ashk ab bhi haiṅ aaṅkhoṅ se jaari
-  Sukhe hoṅtoṅ pe qurbaan ho maadar
+  Sukhe hoṅtoṅ pe qurbaaṅ ho maadar
   Haaye Asghar mere haaye Asghar
 
   5
@@ -51,7 +51,7 @@ romanLyrics: |-
   7
   Raat taarik sunsaan sehra
   Har taraf hai lainoṅ ka pehra
-  Tum ko chhoruṅ akela main kiuṅ kar
+  Tum ko chhoruṅ akela maiṅ kiuṅ kar
   Haaye Asghar mere haaye Asghar
 
   8
@@ -67,9 +67,9 @@ romanLyrics: |-
   Haaye Asghar mere haaye Asghar
 
   10
-  Ran mein kamsin teri zaat waahid
+  Ran meiṅ kamsin teri zaat waahid
   Fakhr hai tujh pe nannhe mujaahid
-  Gore gaaloṅ pe qurbaan ho maadar
+  Gore gaaloṅ pe qurbaaṅ ho maadar
   Haaye Asghar mere haaye Asghar
 
   11
@@ -81,7 +81,7 @@ romanLyrics: |-
   12
   Aisi dekhi nahiṅ mehmaani
   Haaye Asghar ne paaya na paani
-  Karbala mein Raza ek tha mahshar
+  Karbala meiṅ Raza ek tha mahshar
   Haaye Asghar mere haaye Asghar
 # source_id: nohayonline:19dc8c2ee144cb65c70d
 # source_url: https://www.nohayonline.com/details_content.php?id=2004

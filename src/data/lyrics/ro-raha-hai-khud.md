@@ -10,32 +10,32 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ro raha hai khud andhera Shaam ke zindaan mein
-  Reh gayi tanha Sakina Shaam ke zindaan mein
+  Ro raha hai khud andhera Shaam ke zindaan meiṅ
+  Reh gayi tanha Sakina Shaam ke zindaan meiṅ
 
   1
-  Mar gayi ye kehte kehte bewatan pardes mein
-  Kya nahiṅ aaeiṅge Baaba Shaam ke zindaan mein
+  Mar gayi ye kehte kehte bewatan pardes meiṅ
+  Kya nahiṅ aaeiṅge Baaba Shaam ke zindaan meiṅ
 
   2
-  Lehja-e-Shabbir mein lori sunaane ke liye
-  Khuld se aati hai Zehra Shaam ke zindaan mein
+  Lehja-e-Shabbir meiṅ lori sunaane ke liye
+  Khuld se aati hai Zehra Shaam ke zindaan meiṅ
 
   3
-  Beriyoṅ ke shor mein zanjir ki jhankaar mein
-  Uth raha hai ek janaaza Shaam ke zindaan mein
+  Beriyoṅ ke shor meiṅ zanjir ki jhankaar meiṅ
+  Uth raha hai ek janaaza Shaam ke zindaan meiṅ
 
   4
   Saahib-e-aulaad jaa kar khud hi andaaza kare
-  Muṅh ko aata hai kaleja Shaam ke zindaan mein
+  Muṅh ko aata hai kaleja Shaam ke zindaan meiṅ
 
   5
   Dekh kar maasum ke rukh par tamaachoṅ ke nishaaṅ
-  Maut ko aaya pasina Shaam ke zindaan mein
+  Maut ko aaya pasina Shaam ke zindaan meiṅ
 
   6
   Is tarah taqsim Baano ki kamaai ho gayi
-  Dasht mein Asghar Sakina Shaam ke zindaan mein
+  Dasht meiṅ Asghar Sakina Shaam ke zindaan meiṅ
 # source_id: nohayonline:6e8a2b08780982b165ad
 # source_url: https://www.nohayonline.com/details_content.php?id=327
 # raw_sha256: 7c93549313692d2b13e0a6c50cad870747960c0116f370650065653d614b0386

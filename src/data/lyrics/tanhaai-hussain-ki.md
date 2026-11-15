@@ -12,11 +12,11 @@ aliases: []
 published: true
 romanLyrics: |-
   Zainab se lipat kar kehti hai tanhaai Husain ki
-  Ek din mein dunya ujar gayi hai bhai Husain ki
+  Ek din meiṅ dunya ujar gayi hai bhai Husain ki
 
   1
-  Do bund bhi paani de na saka main apni god ke paale ko
-  Mitti mein sula kar aaya huṅ jhule mein khelne wale ko
+  Do bund bhi paani de na saka maiṅ apni god ke paale ko
+  Mitti meiṅ sula kar aaya huṅ jhule meiṅ khelne wale ko
   Dil khol ke Bano kar himmat afzaai Husain ki
   Tanhaai Husain ki
 
@@ -33,43 +33,43 @@ romanLyrics: |-
   Tanhaai Husain ki
 
   4
-  Maidan mein thokar khaa khaa kar girte haiṅ kabhi uth jaate haiṅ
+  Maidan meiṅ thokar khaa khaa kar girte haiṅ kabhi uth jaate haiṅ
   Har ek qadam par ro ro kar Shabbir yehi farmaate haiṅ
   Tum le gaye ae beta Akbar binaai Husain ki
   Tanhaai Husain ki
 
   5
   Bauchhaar hui hai tiroṅ ki zakhmoṅ se khun tapakta hai
-  Ek pyaasa musaafir hasrat se maidan mein har su takta hai
+  Ek pyaasa musaafir hasrat se maidan meiṅ har su takta hai
   Laashoṅ ko sadaaeṅ deti hai maajaai Husain ki
   Tanhaai Husain ki
 
   6
-  Jab pusht-e-faras se girne laga Ahmad ka nawaasa maqtal mein
-  Reh reh ke sadaaeṅ deta tha Abbas ko pyaasa maqtal mein
-  Aaghosh mein bete ko lene maaṅ aayi Husain ki
+  Jab pusht-e-faras se girne laga Ahmad ka nawaasa maqtal meiṅ
+  Reh reh ke sadaaeṅ deta tha Abbas ko pyaasa maqtal meiṅ
+  Aaghosh meiṅ bete ko lene maaṅ aayi Husain ki
   Tanhaai Husain ki
 
   7
   Zainab ne na socha tha ek din taqdir sitam ye dhaayegi
-  Pardes mein meri aankhoṅ ko aisa manzar dikhlaayegi
+  Pardes meiṅ meri aankhoṅ ko aisa manzar dikhlaayegi
   Poshaak talak le jaayeṅge balwaai Husain ki
   Tanhaai Husain ki
 
   8
   Banti thi kafan khaak-e-sehra har zakhm tha taaza pyaase ka
-  Kaandhe ko azizoṅ ke tarsa ghurbat mein janaaza pyaase ka
-  Pardes mein mayyat tiroṅ ne uthwaai Husain ki
+  Kaandhe ko azizoṅ ke tarsa ghurbat meiṅ janaaza pyaase ka
+  Pardes meiṅ mayyat tiroṅ ne uthwaai Husain ki
   Tanhaai Husain ki
 
   9
-  Be sar ka badan deta tha sada ro ro ke Sakina ae beti
+  Besar ka badan deta tha sada ro ro ke Sakina ae beti
   Sone ke bhi qaabil ab na bacha tere baap ka sina ae beti
-  Ye dekh ke maqtal mein bachchi chillaai Husain ki
+  Ye dekh ke maqtal meiṅ bachchi chillaai Husain ki
   Tanhaai Husain ki
 
   10
-  Akhtar ye tasawwur mushkil hai kis haal mein wo bimaar jiya
+  Akhtar ye tasawwur mushkil hai kis haal meiṅ wo bimaar jiya
   Sajjad ne Aamir ye sach hai dil bhar ke kabhi paani na piya
   Jab jab bhi kabhi paani dekha yaad aayi Husain ki
   Tanhaai Husain ki

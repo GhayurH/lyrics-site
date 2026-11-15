@@ -1,6 +1,6 @@
 ---
 title: "تھا مدینے میں اک شور گریہ"
-alternateTitle: "Tha Madine Mein Ek"
+alternateTitle: "Tha Madine Meiṅ Ek"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,15 +11,15 @@ tags: []
 aliases: ["Tha Madine May Ek"]
 published: true
 romanLyrics: |-
-  Tha Madine mein ek shor-e-girya
+  Tha Madine meiṅ ek shor-e-girya
   Ho gayi haaye rukhsat Khadija
   Bain karti thi ro ro ke Zehra
   Ho gayi haaye rukhsat Khadija
 
   1
-  Aap ke bin main kaise jiuṅ gi
-  Ashk-e-gham hi faqat main piuṅ gi
-  Ab bulaauṅ gi kis ko main ammaaṅ
+  Aap ke bin maiṅ kaise jiuṅ gi
+  Ashk-e-gham hi faqat maiṅ piuṅ gi
+  Ab bulaauṅ gi kis ko maiṅ ammaaṅ
 
   2
   Sayyeda ke the har waqt naale
@@ -27,7 +27,7 @@ romanLyrics: |-
   Chhaa gaya hai ye kaisa andhera
 
   3
-  Khub kirdaar diṅ mein nibhaaya
+  Khub kirdaar diṅ meiṅ nibhaaya
   Bojh Islam ka bhi uthaaya
   Kho diya hum ne anmol hira
 
@@ -37,7 +37,7 @@ romanLyrics: |-
   Uth gaya sar se ammaaṅ ka saaya
 
   5
-  Gham mein dube haiṅ Shaah-e-Madina
+  Gham meiṅ dube haiṅ Shaah-e-Madina
   Phat raha hai Bober sab ka sina
   Har jagah aaj maatam hai barpa
 # source_id: nohayonline:d09775ff80abd34dca50

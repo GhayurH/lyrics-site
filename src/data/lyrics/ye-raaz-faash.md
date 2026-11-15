@@ -17,7 +17,7 @@ romanLyrics: |-
 
   1
   Jab zulm o jaur se hui makhluq bad hawaas
-  Karbobala mein gunji ye aawaaz-e-haq shanaas
+  Karbobala meiṅ gunji ye aawaaz-e-haq shanaas
   Haq baat kehne waaloṅ ko kya khauf kya hiraas
   Kiuṅ ke pehna hua hai kufr ne Islam ka libaas
 
@@ -42,7 +42,7 @@ romanLyrics: |-
   5
   Baatil ke aage sar na jhukaauṅ ga zinhaar
   Naaib Rasul ka nahiṅ hota hai baada khwaar
-  Main huṅ Janaab-e-Ahmad Mursal ki yaadgaar
+  Maiṅ huṅ Janaab-e-Ahmad Mursal ki yaadgaar
   Kiuṅ ke pehna hua hai kufr ne Islam ka libaas
 
   6
@@ -58,8 +58,8 @@ romanLyrics: |-
   Kiuṅ ke pehna hua hai kufr ne Islam ka libaas
 
   8
-  Mazhar ye kis liye haq o baatil mein jang hai
-  Hairat kade mein aalam-e-Islam dang hai
+  Mazhar ye kis liye haq o baatil meiṅ jang hai
+  Hairat kade meiṅ aalam-e-Islam dang hai
   Baad-e-Nabi zamaane ka kuchh aur rang hai
   Kiuṅ ke pehna hua hai kufr ne Islam ka libaas
 # source_id: nohayonline:d04589d53e384ed7ebe0

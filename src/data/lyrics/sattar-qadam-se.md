@@ -20,7 +20,7 @@ romanLyrics: |-
   Zakhmi sar-e-Husain tha Zahra ki god thi
 
   2
-  Roke hue the pyaar mein khanjar ki dhaar ko
+  Roke hue the pyaar meiṅ khanjar ki dhaar ko
   Bete se kitna pyaar tha Duldul sawaar ko
   Rakhe hue the sheh ke gale par gala Ali
 
@@ -30,23 +30,23 @@ romanLyrics: |-
   Aankhoṅ pe haath rakhe hue tha har ik nabi
 
   4
-  Maqtal mein chaar saal ki Zahra ko god mein
-  Ik baar phir utha le Sakina ko god mein
+  Maqtal meiṅ chaar saal ki Zahra ko god meiṅ
+  Ik baar phir utha le Sakina ko god meiṅ
   Afsos qaatiloṅ se ijaazat nahiṅ mili
 
   5
   Chehra watan ki simt wo karta tha baar baar
-  Aankhoṅ mein tha bhara hua Sughra ka intezaar
+  Aankhoṅ meiṅ tha bhara hua Sughra ka intezaar
   Haaye gharib-e-Zehra ki aankheṅ khuli hui
 
   6
-  Kehta tha wo ishaaroṅ mein Zainab se jaao ghar
+  Kehta tha wo ishaaroṅ meiṅ Zainab se jaao ghar
   Aankhoṅ ko band kar lo ke kat jaaye mera sar
   Sine pe sheh ke zaanu tha rakhe hue shaqi
 
   7
   Laasha Furaat par kabhi utha kabhi gira
-  Karb o Bala mein hashr Takallum bapa hua
+  Karb o Bala meiṅ hashr Takallum bapa hua
   Abbas tum kahaaṅ ho sada jab ye sheh ne di
 # source_id: nohayonline:c1c99d901561e2dba020
 # source_url: https://www.nohayonline.com/details_content.php?id=1372

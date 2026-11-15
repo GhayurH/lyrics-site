@@ -19,12 +19,12 @@ romanLyrics: |-
   Aejaaz-e-Masiha hai dawa hai mere aansuṅ
 
   2
-  Gir jaata huṅ sajde mein muaafi ke liye main
+  Gir jaata huṅ sajde meiṅ muaafi ke liye maiṅ
   Ek pal ko jo lagta hai khafa hai mere aansuṅ
 
   3
   Hai mashk-e-Sakina se baham in ki rawaani
-  Gehraai mein Zamzam se siwa hai mere aansuṅ
+  Gehraai meiṅ Zamzam se siwa hai mere aansuṅ
 
   4
   Ek baar amaanat hai mere dosh-e-wafa par
@@ -32,7 +32,7 @@ romanLyrics: |-
 
   5
   Kausar se inheṅ koi alag kar nahiṅ sakta
-  Daryaa-e-mawaddat mein fana haiṅ mere aansuṅ
+  Daryaa-e-mawaddat meiṅ fana haiṅ mere aansuṅ
 
   6
   Aane do zara ghaib se is waaris-e-gham ko

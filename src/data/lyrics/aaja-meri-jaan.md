@@ -17,8 +17,8 @@ romanLyrics: |-
   Baba baba ki wo de rahi thi sada
   Haye baba haye baba haye baba
 
-  Haye larza tha uske haathoṅ mein
-  Baap ko dhundti thi laashoṅ mein
+  Haye larza tha uske haathoṅ meiṅ
+  Baap ko dhundti thi laashoṅ meiṅ
   Jab wo baba ko dhund na paayi
   Ek laashe se ye sada aayi
   Aaja meri jaan Sakina tu kahaaṅ hai
@@ -27,20 +27,20 @@ romanLyrics: |-
   1
   Aise ghabra nahiṅ meri bachchi
   Hai tera baba tere saath abhi
-  Dhund laashoṅ mein ek laash aisi
+  Dhund laashoṅ meiṅ ek laash aisi
   Jiski ek ungli kati hai beti
   Sun ke Sakina ne kaha baba un haathoṅ se
-  Tum ne jo tohfe mein mujhe laa kar diye the
+  Tum ne jo tohfe meiṅ mujhe laa kar diye the
   Shimr wo gohar le gaya baba kahaaṅ ho
   Khuṅ mere kaanoṅ se baha baba kahaaṅ ho
 
   2
   Ilayya ilayya bunayya Sakina
   Meri awaaz sun ke aaja idhar
-  Ho chuka hai mera badan be sar
+  Ho chuka hai mera badan besar
   Waar itne kiye gaye mujh par
   Aa chuki haiṅ meri rageṅ baahar
-  Aate hue main ne suna keh raha tha koi
+  Aate hue maiṅ ne suna keh raha tha koi
   Phuphiyoṅ ke shaanoṅ se meri gardan bandhegi
   Chhota hai qad sab se mera baba kahaaṅ ho
   Hoga mera zakhmi gala baba kahaaṅ ho
@@ -50,7 +50,7 @@ romanLyrics: |-
   Mil ke maara hai tere baba ko
   Ae meri jaan meri baat suno
   Sab se zakhmi badan talaash karo
-  Maar ke jab tumko laiṅ khaimoṅ mein aaya
+  Maar ke jab tumko laiṅ khaimoṅ meiṅ aaya
   Baal mere khainche mujhe maara tamaacha
   Zakhmi hua chehra mera baba kahaaṅ ho
   Itna mujhe maara gaya baba kahaaṅ ho
@@ -60,9 +60,9 @@ romanLyrics: |-
   Aa rahi hogi beta nind tujhe
   Tu magar soegi yahaaṅ kaise
   Mera sina bhara hai tiroṅ se
-  Tir nikaaluṅgi main khud nanhe haathoṅ se
-  Baba magar souṅgi main sine pe tere
-  Ran mein andhera ho gaya baba kahaaṅ ho
+  Tir nikaaluṅgi maiṅ khud nanhe haathoṅ se
+  Baba magar souṅgi maiṅ sine pe tere
+  Ran meiṅ andhera ho gaya baba kahaaṅ ho
   Sina kahaaṅ dhunduṅ tera baba kahaaṅ ho
 
   5
@@ -73,7 +73,7 @@ romanLyrics: |-
   Aap ki beti huṅ use jab ye bataaya
   Jaan ke zaalim ne mera daaman jalaaya
   Chhin ke le gaya rida baba kahaaṅ ho
-  Deti rahi main ye sada baba kahaaṅ ho
+  Deti rahi maiṅ ye sada baba kahaaṅ ho
 
   6
   Ye bhi pehchaan hai meri sun le

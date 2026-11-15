@@ -33,13 +33,13 @@ romanLyrics: |-
 
   4
   Manzileiṅ hui aakhir Shaam ka dayaar aaya
-  Ahl-e-Bait ke ghar mein ahd-e-intishaar aaya
+  Ahl-e-Bait ke ghar meiṅ ahd-e-intishaar aaya
   Khud Imam baaliṅ par ho ke ashk baar aaya
   Haaye sar pe Zainab ke belche ka waar aaya
 
   5
   Hashr shahzaadi ne kitne gham uthaaye hai
-  Zulm ki fazaaoṅ mein taaziyaane khaaye hai
+  Zulm ki fazaaoṅ meiṅ taaziyaane khaaye hai
   Di hai apni chaadar bhi haath bhi bandhaaye hai
   Sabr o zabt ke jauhar qaum ko dikhaaye haiṅ
 # source_id: nohayonline:654925657c3c1d909722

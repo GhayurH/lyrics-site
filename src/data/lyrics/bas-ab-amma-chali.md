@@ -14,7 +14,7 @@ romanLyrics: |-
   Apne nazdik jo Zehra ko tarapta dekha
   Jor kar haath Husain ibn-e-Ali ne ye kaha
   Aap ki waaste waade ko nibhaauṅ ammaaṅ
-  De ijaazat ke main sar apna kataauṅ ammaaṅ
+  De ijaazat ke maiṅ sar apna kataauṅ ammaaṅ
 
   Kaha Shabbir ne ro kar chalega halq par khanjar
   Bas ab ammaaṅ chali jaao
@@ -29,13 +29,13 @@ romanLyrics: |-
   Bas ab ammaaṅ chali jaao
 
   2
-  Har ek mushkil mein ae ammaaṅ madad ki aap ne meri
+  Har ek mushkil meiṅ ae ammaaṅ madad ki aap ne meri
   Hamaare saath darya se uthaai laash Ghaazi ki
   Tumhaara shukriya tum ne uthaaya laasha-e-Akbar
   Bas ab ammaaṅ chali jaao
 
   3
-  Madina yaad aa jaaye na Karbal mein tujhe ammaaṅ
+  Madina yaad aa jaaye na Karbal meiṅ tujhe ammaaṅ
   Meri daadi pakar kar Shimr maarega mujhe ammaaṅ
   Tumhaari tarah mere bhi pareṅge nil chehre par
   Bas ab ammaaṅ chali jaao
@@ -55,12 +55,12 @@ romanLyrics: |-
   6
   Jo tum jhuk jhuk ke chalti ho tumheṅ pehchaan jaayegi
   Tumhaare bain sun sun ke to uski jaan jaayegi
-  Kahiṅ ghabraa ke Zainab aa na jaaye ran mein bechaadar
+  Kahiṅ ghabraa ke Zainab aa na jaaye ran meiṅ bechaadar
   Bas ab ammaaṅ chali jaao
 
   7
-  Na jaane sabr tha Sajjaad kitna Shahzaadi mein
-  Kata Shabbir ka sar Faatima Zehra ki jholi mein
+  Na jaane sabr tha Sajjaad kitna Shahzaadi meiṅ
+  Kata Shabbir ka sar Faatima Zehra ki jholi meiṅ
   Husain ibn-e-Ali kehte rahe chalta raha khanjar
   Bas ab ammaaṅ chali jaao
 # source_id: nohayonline:57771a71746411865318

@@ -21,7 +21,7 @@ romanLyrics: |-
   Usi Husain ka kirdaar Saani-e-Zehra
 
   2
-  Is ahd-e-nau mein khwaabida jo musalmaaṅ haiṅ
+  Is ahd-e-nau meiṅ khwaabida jo musalmaaṅ haiṅ
   Bajaaye din zar o maal ke wo khwaahaaṅ haiṅ
   Magar wo log ke jo ab bhi ahl-e-imaaṅ haiṅ
   Tere sabab se hai kirdaar Saani-e-Zehra
@@ -34,7 +34,7 @@ romanLyrics: |-
 
   4
   Qadam mahaaz pe rakha to kaamyaab rakha
-  Jalaal o zabt mein andaaz-e-Buturaab rakha
+  Jalaal o zabt meiṅ andaaz-e-Buturaab rakha
   Ali ke lehje se aawaaz ka hijaab rakha
   Sanad hai wo teri guftaar Saani-e-Zehra
 
@@ -51,20 +51,20 @@ romanLyrics: |-
   Taras ke reh gayi laachaar Saani-e-Zehra
 
   7
-  Tamaam shehr mein ye har taraf munaadi hai
+  Tamaam shehr meiṅ ye har taraf munaadi hai
   Ke jis ko Shimr ne durroṅ se bhi saza di hai
   Suno suno isi Kufe ki shahzaadi hai
   Ke zikr hai sar-e-baazaar Saani-e-Zehra
 
   8
-  Yatim-e-Shaah andhere mein kho gayi aakhir
+  Yatim-e-Shaah andhere meiṅ kho gayi aakhir
   Lahu ko apne hi ashkoṅ se dho gayi aakhir
-  Usi phate hue kurte mein so gayi aakhir
+  Usi phate hue kurte meiṅ so gayi aakhir
   Kafan na de saki naagaar Saani-e-Zehra
 
   9
-  Kabhi Furaat nazar mein kabhi taraai hai
-  Nigaah mein lahd-e-Shaah-e-Karbalaai hai
+  Kabhi Furaat nazar meiṅ kabhi taraai hai
+  Nigaah meiṅ lahd-e-Shaah-e-Karbalaai hai
   Giri hai uṅt se ghutnoṅ se chal ke aai hai
   Gharib o bekas o naachaar Saani-e-Zehra
 

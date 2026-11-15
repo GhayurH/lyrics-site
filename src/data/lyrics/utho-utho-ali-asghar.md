@@ -26,7 +26,7 @@ romanLyrics: |-
   3
   Gale pe zakhm hai gehra dikha nahiṅ sakta
   Kuchh is qadar hai tu kamsin ke aa nahiṅ sakta
-  Tujhe bulaane ko maqtal mein aa rahi hai Rabab
+  Tujhe bulaane ko maqtal meiṅ aa rahi hai Rabab
 
   4
   Kahaaṅ ho barh ke sahaara do Sayyid-e-Sajjad
@@ -40,26 +40,26 @@ romanLyrics: |-
 
   6
   Udaas udaas hai godi luta luta manzar
-  Sakina qaid-e-sitam mein hai dasht mein Asghar
+  Sakina qaid-e-sitam meiṅ hai dasht meiṅ Asghar
   Na jaane kis ko ye lori suna rahi hai Rabab
 
   7
   Zamin-e-garm pe sota hai jhulne waala
   Tamaam jal gaye khaime bacha na gehwaara
-  Ab apne haath hawa mein hila rahi hai Rabab
+  Ab apne haath hawa meiṅ hila rahi hai Rabab
 
   8
-  Tere firaaq mein soti hai maaṅ jo ro ro kar
-  Pisar ki aas mein rakhti hai haath pehlu par
+  Tere firaaq meiṅ soti hai maaṅ jo ro ro kar
+  Pisar ki aas meiṅ rakhti hai haath pehlu par
   Ke jaise laal ko apne sula rahi hai Rabab
 
   9
-  Tamaam dil ka lahu aaṅsuoṅ mein dhal jaaye
+  Tamaam dil ka lahu aaṅsuoṅ meiṅ dhal jaaye
   Jo kar leiṅ maaeṅ tasawwur to dam nikal jaaye
   Jo daagh le ke kaleje pe ja rahi hai Rabab
 
   10
-  Bilal rok qalam to haram mein hai riqqat
+  Bilal rok qalam to haram meiṅ hai riqqat
   Nahiṅ hai phul mayassar yahaaṅ dam-e-rukhsat
   Lahad pe ashkoṅ ki chaadar charha rahi hai Rabab
 # source_id: nohayonline:0a2a8e8c95d4b50e4b7d

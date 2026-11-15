@@ -23,7 +23,7 @@ romanLyrics: |-
   Us saaqi saahib-e-kirdaar ka maatam kar lo
 
   3
-  Jo ke paanchoṅ mein bhi hai baarah imaamoṅ mein bhi hai
+  Jo ke paanchoṅ meiṅ bhi hai baarah imaamoṅ meiṅ bhi hai
   Saare nabiyoṅ ke madadgaar ka maatam kar lo
 
   4

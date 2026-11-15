@@ -24,7 +24,7 @@ romanLyrics: |-
   Qasam Khuda ki misl-e-Haider
 
   2
-  Ghadir se jab ke main ne puchha
+  Ghadir se jab ke maiṅ ne puchha
   Hai tujh ko malum saara qissa
   Siwa Ali ke hai aur koi
   Banaya jis ko Nabi ne Maula
@@ -46,7 +46,7 @@ romanLyrics: |-
 
   5
   Chali jo Bint-e-Asad ko barh kar
-  Deewar-e-Kaaba ye boli hans kar
+  Diwar-e-Kaaba ye boli hans kar
   Isi tarah aur isi jagah par
   Khari thi ek din ek aur maadar
   Magar tumhare sharaf se barh kar
@@ -54,7 +54,7 @@ romanLyrics: |-
   6
   Patakh rahi haiṅ sar apna maujeiṅ
   Kataye baazu para hai saqqa
-  Ajeeb aalam hai bekasi ka
+  Ajib aalam hai bekasi ka
   Husain ran meiṅ khare haiṅ tanha
   Alam alamdaar aur lashkar
 

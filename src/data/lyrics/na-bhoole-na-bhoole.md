@@ -11,14 +11,14 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Har majlis-e-Shabbir mein
+  Har majlis-e-Shabbir meiṅ
   Aati hai maaṅ Shabbir ki
   Kehti hai kya ae mominoṅ
   Tum se ye maaṅ roti hui
   Zakhmi hai mera laadla
   Marham mujhe de do koi
   Marham to hai ashk-e-aza
-  Rumaal mein le jaauṅgi
+  Rumaal meiṅ le jaauṅgi
   In aansuoṅ ne bhar diye
   Sab zakhm to dilgir ke
   Do ghaao aise haiṅ magar
@@ -49,11 +49,11 @@ romanLyrics: |-
   Maula idhar rote rahe
   Waaṅ muntazir bimaar thi
   Yaaṅ qatl sab hote rahe
-  Sehra mein ghar lutta raha
+  Sehra meiṅ ghar lutta raha
   Karte rahe shukr-e-Khuda
 
   4
-  Lipti sumein aspa se thi
+  Lipti sumeiṅ aspa se thi
   Wo laadli beti teri
   Maalum tha Maula tujhe
   Ab na milegi ye kabhi
@@ -69,8 +69,8 @@ romanLyrics: |-
   Karte rahe shukr-e-Khuda
 
   6
-  Darbaar mein baazaar mein
-  Zindaan mein har aan mein
+  Darbaar meiṅ baazaar meiṅ
+  Zindaan meiṅ har aan meiṅ
   Kaise sitam sehti rahi
   Beti teri behna teri
   Dekha kiye naize se sab

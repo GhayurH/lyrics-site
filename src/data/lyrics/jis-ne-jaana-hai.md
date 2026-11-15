@@ -49,13 +49,13 @@ romanLyrics: |-
 
   6
   Pursa dena hai tujhe bint-e-Nabi ko ro kar
-  Jis ne maqtal mein ujarte hue dekha hai ghar
+  Jis ne maqtal meiṅ ujarte hue dekha hai ghar
   Khun rote hue Zehra thi jahaaṅ nohagar
   Aane waaloṅ se ye kehti hai jagah Bismillah
 
   7
   Har qadam yaad rahe ibn-e-Ali ka lehja
-  Teri marzi pe hi raazi huṅ main ae mere Khuda
+  Teri marzi pe hi raazi huṅ maiṅ ae mere Khuda
   Zin se khaak pe girte hue Maula ne kaha
   Din-e-Mursal pe meri jaaṅ ho fida Bismillah
 
@@ -63,7 +63,7 @@ romanLyrics: |-
   Zindagi jina azaadaaroṅ ki khidmat karna
   Shaadmaaṅ tera ye mansab hai ataa-e-Zehra
   Shah ke ghamkhwaar haiṅ Yawar ye sabhi ahl-e-aza
-  Main bhi khidmat ko huṅ tayyaar khara Bismillah
+  Maiṅ bhi khidmat ko huṅ tayyaar khara Bismillah
 # source_id: nohayonline:70e7eea4c347347440d5
 # source_url: https://www.nohayonline.com/details_content.php?id=2737
 # raw_sha256: 6906f1cbc6a85ec71c422cc0a1b65df7ebee33901b5fcb7808b711969887cee0

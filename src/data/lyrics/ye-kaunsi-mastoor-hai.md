@@ -18,7 +18,7 @@ romanLyrics: |-
   1
   Har saahib-e-ghairat se
   Rida maang rahi hai
-  Pardes mein marne ki
+  Pardes meiṅ marne ki
   Dua maang rahi hai
 
   2

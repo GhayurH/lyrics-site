@@ -11,10 +11,10 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Jab kat gaya Zehra ka chaman dasht-e-bala mein
-  Shaamil hua pyaasoṅ ka lahu khaak-e-shifa mein
-  Koi na raha fauj-e-Imaam-e-do sara mein
-  Aur gir gaya Haidar ka pisar ahl-e-jafa mein
+  Jab kat gaya Zehra ka chaman dasht-e-bala meiṅ
+  Shaamil hua pyaasoṅ ka lahu khaak-e-shifa meiṅ
+  Koi na raha fauj-e-Imaam-e-do sara meiṅ
+  Aur gir gaya Haidar ka pisar ahl-e-jafa meiṅ
   Ek khushk gala aur kayi sau neza o khanjar
   Are nau laakh ka mela aur akela wo dilaawar
 
@@ -24,16 +24,16 @@ romanLyrics: |-
   Aaj imtihaan-e-sabr-e-Husain-e-gharib hai
 
   1
-  Jaan ke qarib sar mera Parwardigaar dekh
+  Jaaṅ ke qarib sar mera Parwardigaar dekh
   Aashiq ka apne reg-e-tapaaṅ par qaraar dekh
   Mera yaqin dekh mera aetbaar dekh
-  Main kitna mutmain huṅ idhar ek baar dekh
+  Maiṅ kitna mutmain huṅ idhar ek baar dekh
 
   2
   Pyaasa huṅ tin roz ka zakhmoṅ se chur huṅ
-  Ya Rab gawaah rahiyo ke main beqasur huṅ
+  Ya Rab gawaah rahiyo ke maiṅ beqasur huṅ
   Chhe maah ho gaye ke watan se bhi dur huṅ
-  Ab teri baargaah mein tere huzur huṅ
+  Ab teri baargaah meiṅ tere huzur huṅ
 
   3
   Ek qalb-e-naatawaaṅ pe bahattar ka daagh hai
@@ -45,12 +45,12 @@ romanLyrics: |-
   Ye keh ke jo khaamosh hue Sibt-e-Payambar
   Dekha ke sarhaane hai khari maadar-e-muztar
   Shahzaadi ke sar par hai pari khaak ki chaadar
-  Kehti hai wo sar god mein Shabbir ka lekar
+  Kehti hai wo sar god meiṅ Shabbir ka lekar
 
   5
   Mazlum ki imdaad ko aata nahiṅ koi
   Paani bhi dam-e-marg pilaata nahiṅ koi
-  Zakhmoṅ mein lagi khaak chhuraata nahiṅ koi
+  Zakhmoṅ meiṅ lagi khaak chhuraata nahiṅ koi
   Haae haae mere bachche ko bachaata nahiṅ koi
 
   6
@@ -61,21 +61,21 @@ romanLyrics: |-
 
   7
   Farmaane lage maaṅ se basad ranj ye Maula
-  Kuchh der mein ab kuch hai dunya se hamaara
+  Kuchh der meiṅ ab kuch hai dunya se hamaara
   Ae amma chali jaaiye maqtal se khudaara
   Kis tarah se dekhogi tarapta hua laasha
 
   8
   Ek baar jo khaimoṅ ki taraf yaas se dekha
   Dekha ke dar-e-khaima pe roti hai Sakina
-  Ek huk uthi qalb mein rone lage Maula
+  Ek huk uthi qalb meiṅ rone lage Maula
   Zainab se ishaaroṅ se kaha ae meri behna
 
   9
   Aawaaz-e-ghaib aayi palat aa Husain aa
   Ab imtihaan tera mukammal yahaaṅ hua
   Khun-e-pisar se tu hai wuzu ab to kar chuka
-  Ye sun ke Shah ne sajde mein sar rakh ke ye kaha
+  Ye sun ke Shah ne sajde meiṅ sar rakh ke ye kaha
 
   10
   Jab pahuṅchi behan bhaai ke laashe pe khule sar

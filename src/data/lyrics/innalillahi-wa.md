@@ -18,7 +18,7 @@ romanLyrics: |-
   Inna lillaahi wa inna ilaihi raajiun
 
   1
-  Paamaal hua dasht mein Qaasim sa gul-e-tar
+  Paamaal hua dasht meiṅ Qaasim sa gul-e-tar
   Bole Husain laashe ke tukroṅ ko utha kar
 
   2
@@ -30,11 +30,11 @@ romanLyrics: |-
   Kehte the Shaah bhaai ko sine se laga kar
 
   4
-  Rahwaar se jis waqt gira dasht mein Akbar
+  Rahwaar se jis waqt gira dasht meiṅ Akbar
   Shah bole barchhi qalb-e-pisar se nikaal kar
 
   5
-  Jab le ke zaifi mein chale laash-e-Akbar
+  Jab le ke zaifi meiṅ chale laash-e-Akbar
   Ro ro ke yahi kehte the har ek qadam par
 
   6
@@ -42,12 +42,12 @@ romanLyrics: |-
   Muṅh chum ke Asghar ka yahi kehte the Sarwar
 
   7
-  Chhe maah ke Asghar ka lahu chullu mein le kar
+  Chhe maah ke Asghar ka lahu chullu meiṅ le kar
   Takte the aasmaaṅ ko nauha tha laboṅ par
 
   8
   Waiz jo chala gardan-e-Shabbir pe khanjar
-  Sajde mein ye kehne laga Zahra ka gul-e-tar
+  Sajde meiṅ ye kehne laga Zahra ka gul-e-tar
 # source_id: nohayonline:fede0b5555f26c2ee3f6
 # source_url: https://www.nohayonline.com/details_content.php?id=3158
 # raw_sha256: 34914b3a1096d1b5ea807ab9ffbdefeea1cde1b915e39235a9b9a745caa7407d

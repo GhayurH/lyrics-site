@@ -12,20 +12,20 @@ published: true
 reciter: "Raza Abbas Zaidi"
 romanLyrics: |-
   Akbar teri behna ko teri yaad sataati hai
-  Viran haveli mein bimar bulaati hai
+  Viran haveli meiṅ bimar bulaati hai
 
   1
-  Akbar tera waada tha main lene ko aaunga
+  Akbar tera waada tha maiṅ lene ko aaunga
   Bin tere meri behna sehra na sajaunga
   Kapre teri shaadi ke hamshir banaati hai
 
   2
   Khat bheja na khud aae kya baat hui bhaiya
-  Main des mein tanha huṅ pardes mein hai kunba
+  Maiṅ des meiṅ tanha huṅ pardes meiṅ hai kunba
   Din mujh ko rulaate haiṅ shab mujh ko daraati hai
 
   3
-  Is baar jhulauṅ main jhula Ali Asghar ka
+  Is baar jhulauṅ maiṅ jhula Ali Asghar ka
   Dekha hi nahiṅ kab se chehra Ali Asghar ka
   Roti huṅ nazar meri jab jhule pe jaati hai
 
@@ -35,7 +35,7 @@ romanLyrics: |-
   Din bit gaye kitne ab jaan ye jaati hai
 
   5
-  Zakhmi tha tera sina kal khwab mein dekha tha
+  Zakhmi tha tera sina kal khwab meiṅ dekha tha
   Kuchh aag ke shole the jalta hua jhula tha
   Is khwab ki Sughra ko tabir rulaati hai
 
@@ -50,7 +50,7 @@ romanLyrics: |-
   Dam ghutta hai Akbar ki jab yaad sataati hai
 
   8
-  Zeeshan o Raza ka bhi maqbul ho ye pursa
+  Zishan o Raza ka bhi maqbul ho ye pursa
   Zinda hai qayamat tak Irfan ka ye noha
   Aawaz ye Nasir ki har dil ko rulaati hai
 # source_id: nohayonline:f8ee307ff0e9fb628924

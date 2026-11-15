@@ -20,8 +20,8 @@ romanLyrics: |-
 
   2
   Kaanoṅ ka dard aur wo kurta jala hua
-  Rassi gale mein Bibi ke aur dam ruka hua
-  Chhote se sin mein Bibi kya kya na seh gayi
+  Rassi gale meiṅ Bibi ke aur dam ruka hua
+  Chhote se sin meiṅ Bibi kya kya na seh gayi
 
   3
   Baba ke liye roti to milti thi ghurkiyaaṅ
@@ -36,22 +36,22 @@ romanLyrics: |-
   5
   Armaan tha tum ko kitna ghar jaane ka Bibi
   Zaalim ke dar se tum na raatoṅ ko soti thi
-  Taarik qaid khaane mein nind aa gayi kaisi
+  Taarik qaid khaane meiṅ nind aa gayi kaisi
 
   6
   Chal kar bataana Baba ko tum saari daastaaṅ
   Kaise hue masaaib tum par sar-e-zindaaṅ
-  Ghurbat mein tum jo baap se apne juda hui
+  Ghurbat meiṅ tum jo baap se apne juda hui
 
   7
   Sughra hai muntazar ke kab aayeṅge ghar hum
   Sun kar mere masaaib niklega us ka dam
-  Kya keh ke main samjhaauṅ ke tum hi nahiṅ rahi
+  Kya keh ke maiṅ samjhaauṅ ke tum hi nahiṅ rahi
 
   8
   Nanhi si wo chaadar teri Asghar ke shaluke
   Kaanoṅ ki baaliyaaṅ teri aur jhule ke tukre
-  Yaadeiṅ mere bachchoṅ ki daaman mein hai bandhi
+  Yaadeiṅ mere bachchoṅ ki daaman meiṅ hai bandhi
 # source_id: nohayonline:ae7021a9b4ab149f04fa
 # source_url: https://www.nohayonline.com/details_content.php?id=1772
 # raw_sha256: 2ab954343b42e06c710aa32f5607ffd76e789ad0ff19b4ca7de25456353f5b0b

@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Jaa raha huṅ Karbala mein
+  Jaa raha huṅ Karbala meiṅ
 
   Momino mil kar chalo ye hai Husaini qaafila
   Noha parho maatam karo Husain ya Husain
@@ -38,7 +38,7 @@ romanLyrics: |-
 
   5
   Gardan-e-Shabbir par khanjar chala tha jis jagah
-  Sina-e-Akbar mein neza tha jahaaṅ tuta hua
+  Sina-e-Akbar meiṅ neza tha jahaaṅ tuta hua
   Gulshan-e-Zehra ke gul bute jahaaṅ hai jaa baja
 
   6

@@ -11,8 +11,8 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Main naukar haaṅ main naukar
-  Haaṅ main naukar Maula Ghazi ka
+  Maiṅ naukar haaṅ maiṅ naukar
+  Haaṅ maiṅ naukar Maula Ghazi ka
   Alam mere murshid Ghazi ka
 
   1
@@ -30,10 +30,10 @@ romanLyrics: |-
   Alam mere murshid Ghazi ka
 
   3
-  Main gham se jab ghabraata huṅ
+  Maiṅ gham se jab ghabraata huṅ
   To paas alam ke jaata huṅ
   Ro ro ke Maula Ghazi ko
-  Main dil ka haal sunaata huṅ
+  Maiṅ dil ka haal sunaata huṅ
   Mere sar par saaya karta hai
   Meri himmat aur barhaata hai
   Alam mere murshid Ghazi ka
@@ -51,7 +51,7 @@ romanLyrics: |-
   Ye parcham aman ka naara hai
   Ye parcham paak sahaara hai
   Tu pyaar kare to tera hai
-  Main pyaar karuṅ to mera hai
+  Maiṅ pyaar karuṅ to mera hai
   Jo is ke dip jalaata hai
   Ye us ke bhaag jagaata hai
   Alam mere murshid Ghazi ka

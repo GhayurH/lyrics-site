@@ -1,6 +1,6 @@
 ---
 title: "اشکوں سے میں نے شام کا دربار لکھ دیا"
-alternateTitle: "Ashkoṅ Se Main Ne"
+alternateTitle: "Ashkoṅ Se Maiṅ Ne"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Ashkoṅ se main ne Shaam ka darbaar likh diya
+  Ashkoṅ se maiṅ ne Shaam ka darbaar likh diya
   Phir khun-e-dil Abid-e-bimaar likh diya
 
   1
@@ -20,18 +20,18 @@ romanLyrics: |-
 
   2
   Zainab ki bekasi ke kai baab khul gaye
-  Likhne ko main ne Kufe ka baazaar likh diya
+  Likhne ko maiṅ ne Kufe ka baazaar likh diya
 
   3
   Bimaar-e-Karbala ke masaaib na likh saka
-  Kaaghaz pe main ne tauq-e-giraaṅ baar likh diya
+  Kaaghaz pe maiṅ ne tauq-e-giraaṅ baar likh diya
 
   4
   Tafsil-e-bekasi-e-Sakina na likh saka
   Zindaan-e-Shaam ke dar o diwaar likh diya
 
   5
-  Abid chale to paaon ke chhaaloṅ ne khaak par
+  Abid chale to paaoṅ ke chhaaloṅ ne khaak par
   Bekas gharib-e-qaafila saalaar likh diya
 
   6

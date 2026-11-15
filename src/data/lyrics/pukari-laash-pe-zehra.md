@@ -19,7 +19,7 @@ romanLyrics: |-
   Mere shahid-e-tamanna mere Husain Husain
 
   2
-  Main aai huṅ tere rone ko khuld se beta
+  Maiṅ aai huṅ tere rone ko khuld se beta
   Mujhe de uth ke dilaasa mere Husain Husain
 
   3

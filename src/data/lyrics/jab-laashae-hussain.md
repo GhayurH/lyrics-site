@@ -11,14 +11,14 @@ tags: []
 aliases: ["Jab Laashae Hussain"]
 published: true
 romanLyrics: |-
-  Jab laasha-e-Husain na khaime mein jaa sake
+  Jab laasha-e-Husain na khaime meiṅ jaa sake
   Khud Bibiyaaṅ Husain ke laashe pe aa gayiṅ
 
   Laasha uthaane wala to koi nahiṅ raha
   Khud Bibiyaaṅ Husain ke laashe pe aa gayiṅ
 
   1
-  Khaime mein laash-e-Shaah ki ab le ke jaaye kaun
+  Khaime meiṅ laash-e-Shaah ki ab le ke jaaye kaun
   Koi nahiṅ hai laasha-e-Sarwar uthaaye kaun
   Haaṅ dekh kar Husain ki ghurbat ka maajra
   Khud Bibiyaaṅ Husain ke laashe pe aa gayiṅ
@@ -31,7 +31,7 @@ romanLyrics: |-
 
   3
   Haṅsne lage ye dekh ke saare sitam shiaar
-  Aapas mein ek duje se kehte the baar baar
+  Aapas meiṅ ek duje se kehte the baar baar
   Is se siwa Husain pe hogi bhi kya jafa
   Khud Bibiyaaṅ Husain ke laashe pe aa gayiṅ
 
@@ -43,8 +43,8 @@ romanLyrics: |-
 
   5
   Dil par Husain apne har ek gham ko seh gaye
-  Laasha har ek shahid ka khaime mein le gaye
-  Laasha magar Husain ka maqtal mein hi raha
+  Laasha har ek shahid ka khaime meiṅ le gaye
+  Laasha magar Husain ka maqtal meiṅ hi raha
   Khud Bibiyaaṅ Husain ke laashe pe aa gayiṅ
 
   6
@@ -54,15 +54,15 @@ romanLyrics: |-
   Khud Bibiyaaṅ Husain ke laashe pe aa gayiṅ
 
   7
-  Maqtal mein jab ke ho gaya kohraam ek bapa
+  Maqtal meiṅ jab ke ho gaya kohraam ek bapa
   Abbas ke janaaze pe Fizza ne ye kaha
   Uth kar zara ye dekh le ae mere baawafa
   Khud Bibiyaaṅ Husain ke laashe pe aa gayiṅ
 
   8
   Jauhar para tha laasha-e-Shabbir beamaaṅ
-  Rukti bhi kaise khaime mein Zehra ki betiyaaṅ
-  Safdar bala ke dasht mein aakhir yehi hua
+  Rukti bhi kaise khaime meiṅ Zehra ki betiyaaṅ
+  Safdar bala ke dasht meiṅ aakhir yehi hua
   Khud Bibiyaaṅ Husain ke laashe pe aa gayiṅ
 # source_id: nohayonline:b8054256278b36b578ac
 # source_url: https://www.nohayonline.com/details_content.php?id=3136

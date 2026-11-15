@@ -15,7 +15,7 @@ romanLyrics: |-
   Sar se ye karne lagi ro kar gila
   Aa gayi bali Sakina ko qaza
   Ab to ae Abbas aankheṅ khol do
-  Qaidkhane mein ye Zainab ne kaha
+  Qaidkhane meiṅ ye Zainab ne kaha
   Ab to ae Abbas aankheṅ khol do
 
   1
@@ -55,7 +55,7 @@ romanLyrics: |-
 
   8
   Jaan se pyari Sakina thi tumheṅ
-  De rahi huṅ main qasam uski tumheṅ
+  De rahi huṅ maiṅ qasam uski tumheṅ
   Khol do ek baar tum aankheṅ zara
 
   9

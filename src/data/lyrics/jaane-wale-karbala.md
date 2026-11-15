@@ -19,7 +19,7 @@ romanLyrics: |-
   Jis jagah Sayyid mera pyaasa raha le chal mujhe
 
   2
-  Jis jagah jaagi thi qismat Hur ki wo dekhuṅ ga main
+  Jis jagah jaagi thi qismat Hur ki wo dekhuṅ ga maiṅ
   Aasiyoṅ par kaise hoti hai ataa le chal mujhe
 
   3
@@ -28,18 +28,18 @@ romanLyrics: |-
 
   4
   Jis jagah Abbas ke baazu qalam ho kar gire
-  Us jagah main bhi karuṅ maatam zara le chal mujhe
+  Us jagah maiṅ bhi karuṅ maatam zara le chal mujhe
 
   5
-  Dil ulajh kar aa gaya barchhi mein Akbar ka jahaaṅ
-  Dil wahaaṅ main bhi karuṅ apna fida le chal mujhe
+  Dil ulajh kar aa gaya barchhi meiṅ Akbar ka jahaaṅ
+  Dil wahaaṅ maiṅ bhi karuṅ apna fida le chal mujhe
 
   6
-  Jal gaye shaam-e-gharibaaṅ mein jahaaṅ khaime tamaam
+  Jal gaye shaam-e-gharibaaṅ meiṅ jahaaṅ khaime tamaam
   Jis jagah nanha sa ek jhula jala le chal mujhe
 
   7
-  Haae wo maqtal jahaaṅ baali Sakina raat mein
+  Haae wo maqtal jahaaṅ baali Sakina raat meiṅ
   Dhundti phirti thi sina baap ka le chal mujhe
 
   8
@@ -47,7 +47,7 @@ romanLyrics: |-
   Khuṅ jahaaṅ chehre pe Sarwar ne mala le chal mujhe
 
   9
-  Sarwar o Rehaan har majlis mein karte haiṅ dua
+  Sarwar o Rehaan har majlis meiṅ karte haiṅ dua
   Haq wahiṅ nauhoṅ ka ab hoga adaa le chal mujhe
 # source_id: nohayonline:4635431703dd8465ba02
 # source_url: https://www.nohayonline.com/details_content.php?id=2044

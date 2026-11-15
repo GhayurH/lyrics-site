@@ -13,26 +13,26 @@ published: true
 romanLyrics: |-
   So jaate the sukun se bistar pe ahl-e-Shaam
   Ek bachchi roti rehti thi zindaaṅ ki khaak par
-  Baba bulaane aa gaye ek shab jo khwaab mein
-  Kahne lagi woh qaid mein Aabid se chauṅk kar
+  Baba bulaane aa gaye ek shab jo khwaab meiṅ
+  Kahne lagi woh qaid meiṅ Aabid se chauṅk kar
 
   1
-  Isi zindaaṅ mein banaana meri turbat bhaiya
+  Isi zindaaṅ meiṅ banaana meri turbat bhaiya
   Ki Sakina ne ye Aabid se wasiyat bhaiya
 
   2
-  Chaahti huṅ main jahaaṅ souṅ woh mitti nam ho
+  Chaahti huṅ maiṅ jahaaṅ souṅ woh mitti nam ho
   Tishnagi ki woh aziyat hai zara si kam ho
-  Haddiyoṅ tak mein hai woh pyaas ki shiddat bhaiya
+  Haddiyoṅ tak meiṅ hai woh pyaas ki shiddat bhaiya
 
   3
-  Qaid mein Baba ka sar aaya magar laash nahiṅ
-  Laash par ban mein main pahuṅchi to sar tha aur kahiṅ
+  Qaid meiṅ Baba ka sar aaya magar laash nahiṅ
+  Laash par ban meiṅ maiṅ pahuṅchi to sar tha aur kahiṅ
   Na hui puri mulaaqaat ki chaahat bhaiya
 
   4
   Tum ko maalum hai woh dard ki shiddat meri
-  Dar-e-zindaaṅ pe parindoṅ ko main jab dekhti thi
+  Dar-e-zindaaṅ pe parindoṅ ko maiṅ jab dekhti thi
   Aur barh jaati thi ghar jaane ki hasrat bhaiya
 
   5
@@ -47,8 +47,8 @@ romanLyrics: |-
 
   7
   Tum se puchhe meri hamjoliyaaṅ jab haal mera
-  Un se batlaana ke rassi mein tha jab mera gala
-  Kis tarah jhel rahi thi main aziyat bhaiya
+  Un se batlaana ke rassi meiṅ tha jab mera gala
+  Kis tarah jhel rahi thi maiṅ aziyat bhaiya
 
   8
   Jaa ke tum ahl-e-watan se mere kah dena salaam
@@ -57,18 +57,18 @@ romanLyrics: |-
 
   9
   Kahna ye meri phuphi se ke woh jaldi aaye
-  Amma Fizza ko bhi woh saath mein apne laaye
+  Amma Fizza ko bhi woh saath meiṅ apne laaye
   Karbala jaisi hi ho Shaam ki surat bhaiya
 
   10
-  Khuṅ bhare kurte mein tum dafn mujhe kar dena
+  Khuṅ bhare kurte meiṅ tum dafn mujhe kar dena
   Haaṅ magar Shaam ke haakim se kafan mat lena
-  Main bhi kuchh kam to nahiṅ saahib-e-ghairat bhaiya
+  Maiṅ bhi kuchh kam to nahiṅ saahib-e-ghairat bhaiya
 
   11
   Kaise khologe bandhe haathoṅ se gardan ki rasan
   Haaye kis tarah se doge mujhe ghusl o kafan
-  Main bhi zakhmi huṅ tumheiṅ bhi hai naqaahat bhaiya
+  Maiṅ bhi zakhmi huṅ tumheiṅ bhi hai naqaahat bhaiya
 
   12
   Tum dua karna yahi Aamir o Nayyar ke liye

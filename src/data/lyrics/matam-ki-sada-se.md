@@ -14,7 +14,7 @@ romanLyrics: |-
   Maatam ki sada se
   Soya hua ehsaas jagaaya jaata hai
   Jo Aal-e-Nabi par guzri hai
-  Majlis mein bataaya jaata hai
+  Majlis meiṅ bataaya jaata hai
 
   1
   Islam ke shaidaai sikheṅ
@@ -24,8 +24,8 @@ romanLyrics: |-
 
   2
   Shabbir ne ye dikhlaaya hai
-  Ghurbat mein bhi saare aalam ko
-  Piri mein jawaaṅ ke laashe ko
+  Ghurbat meiṅ bhi saare aalam ko
+  Piri meiṅ jawaaṅ ke laashe ko
   Kis tarah uthaaya jaata hai
 
   3
@@ -43,7 +43,7 @@ romanLyrics: |-
   5
   Laasha na utha paaya na kafan
   Wo jis ki lahad bhi ban na saki
-  Har samt usi ka dunya mein
+  Har samt usi ka dunya meiṅ
   Taabut uthaaya jaata hai
 
   6

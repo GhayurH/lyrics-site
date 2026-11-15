@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Zindaaṅ mein jabke dukhtar-e-Shabbir mar gayi
+  Zindaaṅ meiṅ jabke dukhtar-e-Shabbir mar gayi
   Baazu hila ke Bano-e-Naashaad ne kaha
   Bibi padar ke sar se uthaao to sar zara
   Baateṅ abhi to karti thi aaṅsu baha baha
@@ -41,7 +41,7 @@ romanLyrics: |-
   Pyaase hoṅtoṅ pe aaṅsu giraati rahi
 
   5
-  Apni godi mein mayyat uthaaye hue
+  Apni godi meiṅ mayyat uthaaye hue
   Maujize ki umideṅ lagaaye hue
   Sayyida ki kahaani sunaati rahi
 
@@ -52,7 +52,7 @@ romanLyrics: |-
 
   7
   Thi Takallum wo ghurbat ki kaisi ghari
-  Jab andhere mein bachchi ki mayyat uthi
+  Jab andhere meiṅ bachchi ki mayyat uthi
   Qabr nanhi si Zainab banaati rahi
 # source_id: nohayonline:5a30d6f32d3496283d1e
 # source_url: https://www.nohayonline.com/details_content.php?id=2407

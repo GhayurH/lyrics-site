@@ -26,7 +26,7 @@ romanLyrics: |-
 
   Ya Ali kaash mera ishq asar dikhlaaye
   Jin se hai pyaar tumheiṅ un meiṅ jagah mil jaaye
-  Main ye samjhuṅ ga mujhe mil gayi manzil Maula
+  Maiṅ ye samjhuṅ ga mujhe mil gayi manzil Maula
   Aap ke dar ke faqiroṅ meiṅ jo naam aa jaaye
 
   Jaanam Ali Ali
@@ -46,7 +46,7 @@ romanLyrics: |-
   Ham faqiroṅ ka Ali waloṅ ka rasta kya hai
   Apne sardaar se naukar ka ye rishta kya hai
   Naukri chhor duṅ Haidar ki to bachta kya hai
-  Jis pe Allah ho meharbaan use milta hai Ali
+  Jis pe Allah ho meharbaaṅ use milta hai Ali
   Jaanam Ali Ali Jaanam Ali Ali
 
   Bol Ali bol bol Ali bol
@@ -100,7 +100,7 @@ romanLyrics: |-
   Bol Ali bol Ali bol Ali bol Ali
   Bol Ali bol Ali
 
-  Main jahaaṅ jaauṅ mere saath hi rehta hai Ali
+  Maiṅ jahaaṅ jaauṅ mere saath hi rehta hai Ali
   Mere ghar meiṅ bhi sawaari meiṅ bhi hota hai Ali
   Baat karta huṅ to baatoṅ meiṅ bhi milta hai Ali
   Meri tanhaai ki khaamoshi ko sunta hai Ali

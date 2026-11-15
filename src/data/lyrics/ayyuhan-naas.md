@@ -19,29 +19,29 @@ romanLyrics: |-
   Kam na ho ranj o alam aur ye shor-e-matam
   Ye wo matam hai jo Zahra o Ali karte rahe
   Asr-e-Aashur ye matam to Nabi karte rahe
-  Jab luta Fatima Zehra ka bhara ghar ran mein
+  Jab luta Fatima Zehra ka bhara ghar ran meiṅ
   Alqama roti thi aur Karb o Bala karti thi bain
 
   2
   Shud Sakina chu giraftaar-e-ajal dar zindaaṅ
   Na rafiq e na anis e dam-e-gham khwaraaṅ
-  Mar gayi shaam ke zindaaṅ mein Sakina ghut kar
+  Mar gayi shaam ke zindaaṅ meiṅ Sakina ghut kar
   Dafn ke waqt bhi aaye nahiṅ bhaiya Akbar
-  Dil ki hasrat rahi dil mein hi rehaai na mili
+  Dil ki hasrat rahi dil meiṅ hi rehaai na mili
   Khuṅ bhara kurta kafan ban gaya marqad zindaaṅ
 
   3
   Murd farzand-e-jawaaṅ khurd sina bar sina
   Padari sokhta jaaṅ girya kunad wawela
   Mar gaya saamne athaara baras ka beta
-  Haye is umr mein sajta hai saroṅ par sehra
+  Haye is umr meiṅ sajta hai saroṅ par sehra
   Nur aankhoṅ ka gaya thokareṅ khaate haiṅ Husain
   Dar-e-khaima pe khari roti hai bint-e-Zahra
 
   4
   Turbat-e-Asghar-e-maasum ba maidaaṅ bini
   Bar lehad ashk fishanand Husain ibn-e-Ali
-  Ek nanhi si lahad khod ke maidaaṅ mein Husain
+  Ek nanhi si lahad khod ke maidaaṅ meiṅ Husain
   Kehte haiṅ saunpa Khuda ko tujhe ae nur-e-ain
   Khwab sab aankhoṅ ka paiwand hue Umm-e-Rubab
   Khaali jhula hua aur kokh tumhari ujri
@@ -52,7 +52,7 @@ romanLyrics: |-
   Sar-e-bazaar-e-jafa bint-e-Ali bechaadar
   Bhai athaara the koi na raha sar pe magar
   Rassiyaaṅ qaid-e-sitam ranj o alam kunbe ka gham
-  Tan ba taqdir hai is haal mein bint-e-Zehra
+  Tan ba taqdir hai is haal meiṅ bint-e-Zehra
 
   6
   Man na khwaham digar e zindagi aakhir lashkar
@@ -60,15 +60,15 @@ romanLyrics: |-
   Ji ke ab kya kareṅ Shabbir ke lashkar na raha
   Wo alamdaar wo Abbas-e-dilaawar na raha
   Asr ka waqt liye jaam-e-shahadat aaya
-  Rakh diya sajda-e-maabud mein Shabbir ne sar
+  Rakh diya sajda-e-maabud meiṅ Shabbir ne sar
 
   7
   Chashm-e-ma ashk fishaaṅ dar gham-e-Shabbir hanuz
   Man na khwaham ma siwa matam-e-Shabbir hanuz
   Ashk aankhoṅ se nahiṅ thamte haiṅ Rehaan kabhi
   Yaad aa jaata hai jab shaam ka zindaan kabhi
-  Jab bhi qirtaas pe main nauha-e-Shabbir likhuṅ
-  Meri tahrir mein aata hai mere qalb ka soz
+  Jab bhi qirtaas pe maiṅ nauha-e-Shabbir likhuṅ
+  Meri tahrir meiṅ aata hai mere qalb ka soz
 # source_id: nohayonline:3492bdb22f142a302890
 # source_url: https://www.nohayonline.com/details_content.php?id=3001
 # raw_sha256: a0ee83c70c740d05686611427911366b52a9ce4d812cbee50bc41f2b4d9886cd

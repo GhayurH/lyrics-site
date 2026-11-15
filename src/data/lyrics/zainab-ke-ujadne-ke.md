@@ -22,14 +22,14 @@ romanLyrics: |-
 
   2
   Baaba ke bichhar jaane se dar lagne laga hai
-  Amma ki judaai se ye gham aur bada hai
+  Amma ki judaai se ye gham aur bara hai
   Zainab ko yehi sadma bahut khun rulaaye
   Zainab ke ujarne ke zamaane aaye
 
   3
   Kaabe se sada aati hai kya zulm hua hai
-  Jo ruh-e-ibaadat hai wo tar khuṅ mein para hai
-  Afsos hidaayat ke sutun aaj giraaye
+  Jo ruh-e-ibaadat hai wo tar khuṅ meiṅ para hai
+  Afsos hidaayat ke sutuṅ aaj giraaye
   Zainab ke ujarne ke zamaane aaye
 
   4
@@ -46,14 +46,14 @@ romanLyrics: |-
 
   6
   Gham se Abu Taalib ka phata jaata hai sina
-  Aata hai nazar khuṅ mein duba hua beta
+  Aata hai nazar khuṅ meiṅ duba hua beta
   Ye zulm hi aisa hai falak ashk bahaaye
   Zainab ke ujarne ke zamaane aaye
 
   7
   Safdar ye buka karte the Hasnain tarap kar
-  Kufe mein koi nahiṅ koi Nadeem ae gham-e-Haidar
-  Zainab se kaho farsh-e-aza ghar mein bichhaaye
+  Kufe meiṅ koi nahiṅ koi Nadim ae gham-e-Haidar
+  Zainab se kaho farsh-e-aza ghar meiṅ bichhaaye
   Zainab ke ujarne ke zamaane aaye
 # source_id: nohayonline:50938092b4cce62fa5b2
 # source_url: https://www.nohayonline.com/details_content.php?id=1564

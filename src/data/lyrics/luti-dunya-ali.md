@@ -15,7 +15,7 @@ romanLyrics: |-
   Shahadat ho gayi hai Sayyeda ki
 
   1
-  Khadija khuld mein nauha kunaṅ hai
+  Khadija khuld meiṅ nauha kunaṅ hai
   Duhaai de rahi hai wo Khuda ki
 
   2
@@ -23,7 +23,7 @@ romanLyrics: |-
   Sitam ye aur Mohsin ne qaza ki
 
   3
-  Hai gham mein mubtila ruh-e-Payambar
+  Hai gham meiṅ mubtila ruh-e-Payambar
   Lahad tharra rahi hai Mustafa ki
 
   4
@@ -55,11 +55,11 @@ romanLyrics: |-
   Ke mayyat hai ye bint-e-Mustafa ki
 
   11
-  Gham-e-Zehra mein girya ho raha hai
-  Muharram hai safoṅ mein Ambiya ki
+  Gham-e-Zehra meiṅ girya ho raha hai
+  Muharram hai safoṅ meiṅ Ambiya ki
 
   12
-  Rasul-e-Paak ka gulshan hai zid mein
+  Rasul-e-Paak ka gulshan hai zid meiṅ
   Sitam ki aag hai aisi bala ki
 
   13

@@ -45,7 +45,7 @@ romanLyrics: |-
 
   5
   Bint-e-Haidar jo nazar aayi dar-e-khaima par
-  Main abhi zinda huṅ Zainab ye pukaare Sarwar
+  Maiṅ abhi zinda huṅ Zainab ye pukaare Sarwar
   Baad az Sibt-e-Rasul-e-dosara
 
   6

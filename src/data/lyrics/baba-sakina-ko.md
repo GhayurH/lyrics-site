@@ -10,11 +10,11 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Baba Sakina ko ab god mein le lo
+  Baba Sakina ko ab god meiṅ le lo
 
   1
   Mere baba ye kaise tute sitam
-  Sunauṅ kis ko main rudaad-e-alam
+  Sunauṅ kis ko maiṅ rudaad-e-alam
   Tum waaqif ho ab koi nahiṅ hai mera
   Ghar lut gaya saara
   Bas aakhri ek baar sine se laga lo
@@ -27,16 +27,16 @@ romanLyrics: |-
   Bas aakhri ek baar sine se laga lo
 
   3
-  Tamaache khaayi aur main ro na saki
-  Tumhaari yaad mein main so na saki
+  Tamaache khaayi aur maiṅ ro na saki
+  Tumhaari yaad meiṅ maiṅ so na saki
   Is beti ka bistar tha tumhaara sina
   Ab khaak bichona
   Bas aakhri ek baar sine se laga lo
 
   4
-  Akele so gaye tum maqtal mein
-  Tumheṅ dhunduṅ kahaaṅ main jangal mein
-  Hai bikhre huwe maidaan mein saare laashe
+  Akele so gaye tum maqtal meiṅ
+  Tumheṅ dhunduṅ kahaaṅ maiṅ jangal meiṅ
+  Hai bikhre huwe maidaan meiṅ saare laashe
   Har suṅ sannaate
   Bas aakhri ek baar sine se laga lo
 
@@ -48,16 +48,16 @@ romanLyrics: |-
   Bas aakhri ek baar sine se laga lo
 
   6
-  Teri beti mein ab himmat bhi nahiṅ
-  Pukaaruṅ kis ko main taaqat bhi nahiṅ
+  Teri beti meiṅ ab himmat bhi nahiṅ
+  Pukaaruṅ kis ko maiṅ taaqat bhi nahiṅ
   Khulwa do zara aa kar gardan ki rassi
   Dam ghutta hai mera
   Bas aakhri ek baar sine se laga lo
 
   7
-  Nigaahoṅ mein kisi ka zakhmi badan
+  Nigaahoṅ meiṅ kisi ka zakhmi badan
   Wahiṅ baithi hui ek bewa dulhan
-  Ek maaṅ ki nigaahoṅ mein hai nanha laasha
+  Ek maaṅ ki nigaahoṅ meiṅ hai nanha laasha
   Aur khaali jhula
   Bas aakhri ek baar sine se laga lo
 # source_id: nohayonline:9084bc4f6e365223975c

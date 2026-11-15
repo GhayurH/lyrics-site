@@ -15,10 +15,10 @@ romanLyrics: |-
   Bint-e-Zehra ne kahaaṅ par nahiṅ khaaye patthar
 
   Sar jhukaaye hue roti hai Ali ki beti
-  Aur laiṅ haṅste haiṅ haathoṅ mein uthaaye patthar
+  Aur laiṅ haṅste haiṅ haathoṅ meiṅ uthaaye patthar
 
   1
-  Kya karimi hai ke baazaar mein chalte chalte
+  Kya karimi hai ke baazaar meiṅ chalte chalte
   Khun-e-Sajjaad ne yaaqut banaaye patthar
 
   2
@@ -27,7 +27,7 @@ romanLyrics: |-
 
   3
   Ye to insaaf nahiṅ jis ne bachaaya Islaam
-  Us ki beti bhare baazaar mein khaaye patthar
+  Us ki beti bhare baazaar meiṅ khaaye patthar
 
   4
   Taane de de ke kiya zakhmi dil-e-Zainab ko
@@ -39,7 +39,7 @@ romanLyrics: |-
 
   6
   Khun tapka tha sar-e-Shaah se us par Sajjaad
-  Khun phir kaise Halab mein na bahaaye patthar
+  Khun phir kaise Halab meiṅ na bahaaye patthar
 # source_id: nohayonline:25bb03b837ef112bcb00
 # source_url: https://www.nohayonline.com/details_content.php?id=90
 # raw_sha256: 48af3c59cb87956dbc2c7a200afca8a2f47298f5f2fd4da96da730fea04f94ba

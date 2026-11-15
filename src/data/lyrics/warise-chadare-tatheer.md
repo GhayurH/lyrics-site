@@ -23,7 +23,7 @@ romanLyrics: |-
   2
   Aaj bohtaan jo rakhte haiṅ Nabi zaadi par
   Unhiṅ logoṅ ne kiya jina Nabi ka dubhar
-  Din mein aaye the Islaam ka kalma parh kar
+  Din meiṅ aaye the Islaam ka kalma parh kar
   Aur naamus-e-Paighambar ko phiraaya dar dar
   Din-e-Islaam ki tauqir hai Bint-e-Zehra
 
@@ -38,18 +38,18 @@ romanLyrics: |-
   Ehtiraam un ka rahe maah-e-Muharram ki tarah
   Naam uncha rahe Abbaas ke parcham ki tarah
   Ye hamaare liye hai sura-e-Maryam ki tarah
-  Apni nazroṅ mein hai ye nur-e-mujassam ki tarah
+  Apni nazroṅ meiṅ hai ye nur-e-mujassam ki tarah
   Paanch nuroṅ ki ek tanvir hai Bint-e-Zehra
 
   5
   Berida ho ke kiya din-e-Khuda ka parda
   In ke kirdaar se hai sharm o haya ka parda
   Naam Zainab ka bana Aal-e-Aba ka parda
-  Shaam mein jaa ke utha Karb o Bala ka parda
+  Shaam meiṅ jaa ke utha Karb o Bala ka parda
   Gardan-e-kufr par shamshir hai Bint-e-Zehra
 
   6
-  Tauq o zanjir mein jakra hua bimaar chala
+  Tauq o zanjir meiṅ jakra hua bimaar chala
   Nok-e-naiza pe sar-e-Sayyid-e-Abraar chala
   Bandh aankhoṅ ko kiye farq-e-Alamdaar chala
   Maaoṅ behnoṅ ko liye qaafila saalaar chala

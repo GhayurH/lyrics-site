@@ -11,67 +11,67 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Haye tanha hai Husain ibn-e-Ali maqtal mein
+  Haye tanha hai Husain ibn-e-Ali maqtal meiṅ
 
   1
   Chaand Zehra ka hai aur khun ke baadal chhaye
   Do pahar dhal gayi barhne lage kaale saaye
   Ghar gaye Zainab dilgir tere maanjaye
-  Hasrat o ranj ka tufaan hai dil-e-bekal mein
+  Hasrat o ranj ka tufaan hai dil-e-bekal meiṅ
 
   2
-  Kehte haiṅ Shah ke main zulm o sitam sehta huṅ
+  Kehte haiṅ Shah ke maiṅ zulm o sitam sehta huṅ
   Koi ghamkhwar nahiṅ ranj o alam sehta huṅ
-  Waar sehta huṅ main tanhaai ka gham sehta huṅ
-  Hasrat o ranj ka tufaan hai dil-e-bekal mein
+  Waar sehta huṅ maiṅ tanhaai ka gham sehta huṅ
+  Hasrat o ranj ka tufaan hai dil-e-bekal meiṅ
 
   3
   Mera baazu mera Abbas dilawar bhi nahiṅ
   Dil ki himmat mera beta Ali Akbar bhi nahiṅ
-  Ran mein Qasim bhi nahiṅ jhule mein Asghar bhi nahiṅ
-  Hasrat o ranj ka tufaan hai dil-e-bekal mein
+  Ran meiṅ Qasim bhi nahiṅ jhule meiṅ Asghar bhi nahiṅ
+  Hasrat o ranj ka tufaan hai dil-e-bekal meiṅ
 
   4
   Ghar the jitne mere armaan ke barbaad hue
   Kitne naasir the mere ab to bas ek yaad hue
-  Ab koi saath nahiṅ khuld mein aabaad hue
-  Hasrat o ranj ka tufaan hai dil-e-bekal mein
+  Ab koi saath nahiṅ khuld meiṅ aabaad hue
+  Hasrat o ranj ka tufaan hai dil-e-bekal meiṅ
 
   5
   Hausla mera barhane ke wo manzar na rahe
   Wo muhaafiz mere shiraan dilawar na rahe
   Mere ansaar mere naasir o yaawar na rahe
-  Hasrat o ranj ka tufaan hai dil-e-bekal mein
+  Hasrat o ranj ka tufaan hai dil-e-bekal meiṅ
 
   6
   Zindagi mujhko hai pyari na hai jina mujhko
   Raas ab ho nahiṅ sakta ye qarina mujhko
   Baar lagta hai ye zakhmoṅ bhara sina mujhko
-  Hasrat o ranj ka tufaan hai dil-e-bekal mein
+  Hasrat o ranj ka tufaan hai dil-e-bekal meiṅ
 
   7
   Baad marne ke mere aur hazina hogi
   Berida dukhtar-e-sultaan-e-Madina hogi
   Shimr ka hoga sitam meri Sakina hogi
-  Hasrat o ranj ka tufaan hai dil-e-bekal mein
+  Hasrat o ranj ka tufaan hai dil-e-bekal meiṅ
 
   8
-  Be sahaara hue pardes mein sab Aal-e-Aba
-  Ghash mein bhi hai lab-e-Sajjad pe bas aah o buka
+  Besahaara hue pardes meiṅ sab Aal-e-Aba
+  Ghash meiṅ bhi hai lab-e-Sajjad pe bas aah o buka
   Karti hai girya o zaari meri Zainab dukhiya
-  Hasrat o ranj ka tufaan hai dil-e-bekal mein
+  Hasrat o ranj ka tufaan hai dil-e-bekal meiṅ
 
   9
-  Paas mere koi dam mein meri maaṅ aayegi
+  Paas mere koi dam meiṅ meri maaṅ aayegi
   Khud bhi faryaad karegi mujhe tarpayegi
   Saath har gham se chhura kar mujhe le jayegi
-  Hasrat o ranj ka tufaan hai dil-e-bekal mein
+  Hasrat o ranj ka tufaan hai dil-e-bekal meiṅ
 
   10
-  Gham-e-Shabbir ko bas yaad karo har gham mein
-  Koi gham is se bara to nahiṅ is aalam mein
-  Zindagi sarf ho Jaweed isi maatam mein
-  Hasrat o ranj ka tufaan hai dil-e-bekal mein
+  Gham-e-Shabbir ko bas yaad karo har gham meiṅ
+  Koi gham is se bara to nahiṅ is aalam meiṅ
+  Zindagi sarf ho Jawid isi maatam meiṅ
+  Hasrat o ranj ka tufaan hai dil-e-bekal meiṅ
 # source_id: nohayonline:017e11196869943b2692
 # source_url: https://www.nohayonline.com/details_content.php?id=3558
 # raw_sha256: 7c34bd822746adf7f95ef6c8945398454013ab349ce762a00da7ee07b52fff29

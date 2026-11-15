@@ -25,7 +25,7 @@ romanLyrics: |-
   1
   Dilbar-e-Shah-e-Huda gesuoṅ waale
   Do ghari ruk jaa zara maaṅ ke dulaare
-  Aankhoṅ mein chhaane lage gham ke andhere
+  Aankhoṅ meiṅ chhaane lage gham ke andhere
   Ab na raheiṅ ge mere ghar ke ujaale
   Maaṅ teri qurbaaṅ Ali Akbaram
   Maah-e-taabaaṅ Ali Akbaram
@@ -33,7 +33,7 @@ romanLyrics: |-
   2
   Ae mere lakht-e-jigar aise na jaao
   Chaand sa chehra phuphi jaaṅ ko dikhaao
-  Naazon se jis ne tujhe paala hai beta
+  Naazoṅ se jis ne tujhe paala hai beta
   Jaane se pehle zara usko manaao
   Mujh pe ho ehsaan Ali Akbaram
   Maah-e-taabaaṅ Ali Akbaram
@@ -50,7 +50,7 @@ romanLyrics: |-
   Ae mere karyal jawaaṅ shakl-e-Payambar
   Aa tujhe dekhegi maaṅ paas bitha kar
   Zulfeiṅ sawaaruṅ tera sadqa utaaruṅ
-  Aankhoṅ mein apni basaauṅ gi ye manzar
+  Aankhoṅ meiṅ apni basaauṅ gi ye manzar
   Ae mere mehmaan Ali Akbaram
   Maah-e-taabaaṅ Ali Akbaram
 
@@ -65,7 +65,7 @@ romanLyrics: |-
   6
   Sadme uthaauṅ gi maiṅ mujhko khabar hai
   Ji nahiṅ paauṅ gi maiṅ mujhko khabar hai
-  Tere jigar mein sinaaṅ dekhegi maadar
+  Tere jigar meiṅ sinaaṅ dekhegi maadar
   Zakhm ye khaauṅ gi maiṅ mujhko khabar hai
   Roti huṅ har aan Ali Akbaram
   Maah-e-taabaaṅ Ali Akbaram
@@ -81,7 +81,7 @@ romanLyrics: |-
   8
   Bain ye karti thi maaṅ Safdar o Yawar
   Jaao na aise mujhe chhor ke Akbar
-  Zainab-e-dilgir bhi ghash mein pari hai
+  Zainab-e-dilgir bhi ghash meiṅ pari hai
   Kehte the dil thaam ke Sibt-e-Payambar
   Rab hai nigehbaan Ali Akbaram
   Maah-e-taabaaṅ Ali Akbaram

@@ -18,7 +18,7 @@ romanLyrics: |-
   Laashoṅ pe ye bachchoṅ ki sada deti thi maadar
   Jite raho Aun o Muhammad
 
-  Kya jang lari pyaas mein Zainab ke dulaaroṅ
+  Kya jang lari pyaas meiṅ Zainab ke dulaaroṅ
   Ustaad ko aadaab karo ae mere pyaaroṅ
   Taarif bahut karte haiṅ Abbas dilaawar
 
@@ -47,7 +47,7 @@ romanLyrics: |-
   Kya khub hai andaaz maiṅ qurbaan huṅ tum par
 
   5
-  Ab dil mein ye khwaahish hai jo ghar laut ke jaauṅ
+  Ab dil meiṅ ye khwaahish hai jo ghar laut ke jaauṅ
   Paani maiṅ sada naam pe donoṅ ke pilaauṅ
   Pyaase jo palat aae ho tum nahr pe jaa kar
 

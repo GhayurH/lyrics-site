@@ -31,7 +31,7 @@ romanLyrics: |-
   Chala jo Zainab-e-naashaad ki rida ke liye
 
   5
-  Wo ro ke boli main Fatima ki beti huṅ
+  Wo ro ke boli maiṅ Fatima ki beti huṅ
   Rida na chhin sitamgar meri Khuda ke liye
 # source_id: nohayonline:3d167f201f3b41c893d2
 # source_url: https://www.nohayonline.com/details_content.php?id=2190

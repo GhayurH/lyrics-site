@@ -44,33 +44,33 @@ romanLyrics: |-
   Kis ko de Shabbir sada
 
   6
-  Dil mein basi hai yaad-e-Sakina
+  Dil meiṅ basi hai yaad-e-Sakina
   Maut ka hai maathe pe pasina
   Pyaas ki shiddat jalta sina
   Yaad hai dukhiya ka rona
 
   7
   Gunj rahi Zehra ki fughaaṅ hai
-  Teghoṅ mein Ahmad ka nishaaṅ hai
+  Teghoṅ meiṅ Ahmad ka nishaaṅ hai
   Haye mera Abbas kahaaṅ hai
   Pyase ka katta hai gala
 
   8
   Zakhmoṅ se sab khuṅ rawaaṅ hai
-  Dil mein gham-e-farzand-e-jawaaṅ hai
-  Pyase ke aankhoṅ mein dhuaaṅ hai
+  Dil meiṅ gham-e-farzand-e-jawaaṅ hai
+  Pyase ke aankhoṅ meiṅ dhuaaṅ hai
   Ghere haiṅ lashkar aada ka
 
   9
   Tapta maqtal jalti zamiṅ hai
-  Khaaliq ke sajde mein jabiṅ hai
+  Khaaliq ke sajde meiṅ jabiṅ hai
   Yaawar o naasir koi nahiṅ hai
   Tegh tale pyase ka gala
 
   10
   Jaan-e-Ali begor o kafan hai
-  Zainab ke baazu mein rasan hai
-  Balwe mein Sarwar ki behan hai
+  Zainab ke baazu meiṅ rasan hai
+  Balwe meiṅ Sarwar ki behan hai
   Aal-e-Nabi hai beparda
 
   11
@@ -86,7 +86,7 @@ romanLyrics: |-
   Maatam kar lo bekas ka
 
   13
-  Sarwar ka gham dil mein basa hai
+  Sarwar ka gham dil meiṅ basa hai
   Dharkan kya hai aah o buka hai
   Majlis-e-gham Zainab ki ata hai
   Maatam hai Zehra ki dua
@@ -104,7 +104,7 @@ romanLyrics: |-
   Aati hai hal min ki sada
 
   16
-  Zinda hai Jaweed yuṅhi hum
+  Zinda hai Jawid yuṅhi hum
   Apna jina Sarwar ka gham
   Naam-e-Ali har zakhm ka marham
   Haasil hai Zehra ki dua

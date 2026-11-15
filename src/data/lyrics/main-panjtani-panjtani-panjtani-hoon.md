@@ -1,6 +1,6 @@
 ---
 title: "میں پنجتنی پنجتنی پنجتنی ہوں"
-alternateTitle: "Main Panjtani Panjtani Panjtani Huṅ"
+alternateTitle: "Maiṅ Panjtani Panjtani Panjtani Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -16,47 +16,47 @@ published: true
 # raw_sha256: 4ebb44b180b57a3c7fc370de59d006eb44669899a84229638f8392af84d905c5
 romanLyrics: |-
   Daawa hai mera naar-e-Jahannam se bari huṅ
-  Main Panjtani Panjtani Panjtani huṅ
+  Maiṅ Panjtani Panjtani Panjtani huṅ
 
   1
   So jaaye jo qismat to jaga leta huṅ khud hi
   Har bigra hua kaam bana leta huṅ khud hi
-  Main banda-e-Sarkar-e-Husain Ibn-e-Ali huṅ
+  Maiṅ banda-e-Sarkar-e-Husain Ibn-e-Ali huṅ
 
   2
-  Diwana-e-Haider huṅ main ishq se sarshaar
+  Diwana-e-Haider huṅ maiṅ ishq se sarshaar
   Abbas ka naukar huṅ Shah-e-Diṅ ka azaadaar
-  Phir kiuṅ na kahuṅ main keh muqaddar ka dhani huṅ
+  Phir kiuṅ na kahuṅ maiṅ keh muqaddar ka dhani huṅ
 
   3
-  Muhtaaj nahiṅ huṅ main zamaane meiṅ kisi ka
+  Muhtaaj nahiṅ huṅ maiṅ zamaane meiṅ kisi ka
   Sadqa mujhe milta hai bahut Aal-e-Nabi ka
   Is dar ka bhikaari huṅ do aalam meiṅ ghani huṅ
 
   4
   Yeh baat hawa karti hai aandhi ki zabaan meiṅ
   Jo Panjtan-e-Paak ke dushman haiṅ jahaaṅ meiṅ
-  Main naam o nishaan un ka mitaane ko chali huṅ
+  Maiṅ naam o nishaan un ka mitaane ko chali huṅ
 
   5
   Kehta hai azaadaar ka har haath yeh uth kar
   Har ik munaafiq hai mere panje ki zid par
-  Main haath huṅ momin ka har ik aisa qavi huṅ
+  Maiṅ haath huṅ momin ka har ik aisa qavi huṅ
 
   6
   Har ahl-e-Arab ahl-e-Ajam ahl-e-adab ko
   Panj waqt namaaz aa ke bataati hai yeh sab ko
-  Main Aal-e-Muhammad ke gharaane meiṅ pali huṅ
+  Maiṅ Aal-e-Muhammad ke gharaane meiṅ pali huṅ
 
   7
   Kehte haiṅ jise khuld woh ghar mere liye hai
   Ta arsh-e-bariṅ izn-e-safar mere liye hai
-  Main koi farishta huṅ malak huṅ na pari huṅ
+  Maiṅ koi farishta huṅ malak huṅ na pari huṅ
 
   8
   Roshan meri taqdir hai bezaar hai ehsaas
   Hasnain ki ulfat ke ujaale haiṅ mere paas
-  Main Gohar-e-Naayaab huṅ farzand-e-Wali huṅ
+  Maiṅ Gohar-e-Naayaab huṅ farzand-e-Wali huṅ
 ---
 
 دعویٰ ہے میرا نارِ جہنم سے بری ہوں

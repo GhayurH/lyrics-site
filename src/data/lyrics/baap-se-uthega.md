@@ -17,7 +17,7 @@ romanLyrics: |-
   Ke baap se uthe ga Akbar tera laasha kaise
 
   Baap se uthe ga Akbar tera laasha kaise
-  Wo ise khaime mein le jaaye ga tanha kaise
+  Wo ise khaime meiṅ le jaaye ga tanha kaise
 
   1
   Wo to is aas pe jiti hai ke tu aaye ga
@@ -25,7 +25,7 @@ romanLyrics: |-
   Dekhna chhor de Sughra tera rasta kaise
 
   2
-  Tu ne jin galiyoṅ mein bachpan hai guzaara apna
+  Tu ne jin galiyoṅ meiṅ bachpan hai guzaara apna
   Ab wahaaṅ kaun hai humshakl-e-Nabi tu hi bata
   Bhul jaaye ga bhala tujh ko Madina kaise
 
@@ -40,7 +40,7 @@ romanLyrics: |-
   Ye phuphi bin tere reh paaye gi zinda kaise
 
   5
-  Laal ko paala hai aankhoṅ mein basa kar tum ne
+  Laal ko paala hai aankhoṅ meiṅ basa kar tum ne
   Bar sar-e-Karb o Bala maadar-e-Akbar tum ne
   Zakhm sine pe jawaaṅ laal ke dekha kaise
 
@@ -56,13 +56,13 @@ romanLyrics: |-
 
   8
   Bain Laila ke the zakhmi jo tera chehra hai
-  Khaak baaloṅ mein hai peshaani se khuṅ behta hai
-  Ye bata de main banaauṅ tujhe dulha kaise
+  Khaak baaloṅ meiṅ hai peshaani se khuṅ behta hai
+  Ye bata de maiṅ banaauṅ tujhe dulha kaise
 
   9
-  Hum ne Izhaar gham-e-Shaah mein maatam hi kiya
-  Yaad-e-Akbar mein sada aankh ko purnam hi kiya
-  Ho bapa shaam o sehar dil mein na girya kaise
+  Hum ne Izhaar gham-e-Shaah meiṅ maatam hi kiya
+  Yaad-e-Akbar meiṅ sada aankh ko purnam hi kiya
+  Ho bapa shaam o sehar dil meiṅ na girya kaise
 # source_id: nohayonline:dbf8eebc29c63dbeadf0
 # source_url: https://www.nohayonline.com/details_content.php?id=1139
 # raw_sha256: e512b4ee9b9546f81092a301e8c2dd93163543684c0e18f44509d1108b2d7b9d

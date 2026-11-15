@@ -16,14 +16,14 @@ romanLyrics: |-
 
   1
   Aae Ali to Rab ne khush aamdid keh kar
-  Diwaar mein haram ki ik dar bana diya hai
+  Diwaar meiṅ haram ki ik dar bana diya hai
 
   2
   Saj kar imaambaara ham ye samajh rahe haiṅ
-  Jannat ke raaste mein ek ghar bana diya hai
+  Jannat ke raaste meiṅ ek ghar bana diya hai
 
   3
-  Pehnaai ja rahi hai dunya mein mannatoṅ se
+  Pehnaai ja rahi hai dunya meiṅ mannatoṅ se
   Aabid ne hathkari ko zewar bana diya hai
 
   4
@@ -43,12 +43,12 @@ romanLyrics: |-
   Haidar se milta julta tewar bana diya hai
 
   8
-  Mimbar pe jaa ke khuṅ mein Mursal Murtaza ko
+  Mimbar pe jaa ke khuṅ meiṅ Mursal Murtaza ko
   Maula bana ke sab se bartar bana diya hai
 
   9
   Madh-e-Ali ki khaatir kitne hi Maisamoṅ ne
-  Dunya mein suliyoṅ ko mimbar bana diya hai
+  Dunya meiṅ suliyoṅ ko mimbar bana diya hai
 
   10
   Qismat ne mujh ko Maahir meraaj bakhsh di hai

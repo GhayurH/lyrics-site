@@ -12,7 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Aaye Shabbir bayabaṅ ko basane ke liye
-  Diṅ ki raah mein bhare ghar ko lutane ke liye
+  Diṅ ki raah meiṅ bhare ghar ko lutane ke liye
 
   1
   Apne gulshan se chune phul bahattar Shah-e-Diṅ

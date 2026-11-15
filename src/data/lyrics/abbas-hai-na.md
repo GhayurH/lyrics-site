@@ -20,9 +20,9 @@ romanLyrics: |-
 
   1
   Har ek behan ko bhai pe maan hota hai
-  Jahaṅ mein bhai to behnoṅ ki jaan hota hai
-  Ghamoṅ ki dhup mein wo sayebaṅ hota hai
-  Bas is yaqiṅ se khaimoṅ mein mutmain rehna
+  Jahaṅ meiṅ bhai to behnoṅ ki jaan hota hai
+  Ghamoṅ ki dhup meiṅ wo sayebaṅ hota hai
+  Bas is yaqiṅ se khaimoṅ meiṅ mutmain rehna
 
   2
   Haram ki aas bandhati raho meri khwahar
@@ -31,7 +31,7 @@ romanLyrics: |-
   Nazar utha ke dar-e-khaima par to dekho na
 
   3
-  Isi ke saath amari mein aayi thi ghar se
+  Isi ke saath amari meiṅ aayi thi ghar se
   Bahot mujhe bhi hai dharas isi baradar se
   Na hone dega wo mahrum hum ko chadar se
   Barhe jo ranj ke saaye to bas yehi kehna
@@ -40,7 +40,7 @@ romanLyrics: |-
   Dikhayi de tumheṅ jis dam Yazid ka lashkar
   Dikhaye wo tumheṅ talwar o neza o khanjar
   Chamakte nezoṅ pe par jaaye gar tumhari nazar
-  Tum apne dil mein jagah khauf ko nahiṅ dena
+  Tum apne dil meiṅ jagah khauf ko nahiṅ dena
 
   5
   Kaha ye ghazi ne Kulsum se meri khwahar
@@ -52,10 +52,10 @@ romanLyrics: |-
   Phuphi ye boli Sakina se ae meri bachchi
   Chacha se keh do wo le aaeṅge abhi pani
   Ye mashk kya hai wo darya utha ke la de abhi
-  Bas apni aankh mein aaṅsu nahiṅ aane dena
+  Bas apni aankh meiṅ aaṅsu nahiṅ aane dena
 
   7
-  Bayaṅ kaise wo manzar ho donoṅ janib ka
+  Bayan kaise wo manzar ho donoṅ janib ka
   Udhar tarayi pe ghazi ka mashk ko bharna
   Kate jo bazu chhidi mashk saara pani baha
   Idhar Sakina ka pyasoṅ ko dilaasa dena

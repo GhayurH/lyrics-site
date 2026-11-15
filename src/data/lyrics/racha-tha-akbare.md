@@ -11,7 +11,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Racha tha Akbar-e-mehru pe kya shabaab ka rang
-  Kahaaṅ hai gulshan-e-hasti mein is gulaab ka rang
+  Kahaaṅ hai gulshan-e-hasti meiṅ is gulaab ka rang
 
   1
   Diloṅ se chhut na sake ga Abu Turaab ka rang
@@ -22,7 +22,7 @@ romanLyrics: |-
   Siyaah bakht the badla na shaikh o shaab ka rang
 
   3
-  Na dhund Uzair mein shaan o shujaat-e-Haider
+  Na dhund Uzair meiṅ shaan o shujaat-e-Haider
   Kahaaṅ tajalli-e-Kausar kahaaṅ sharaab ka rang
 
   4
@@ -30,12 +30,12 @@ romanLyrics: |-
   Phir us ke baad na badla kabhi kitaab ka rang
 
   5
-  Bhatak raha tha zamaana raah-e-zalaalat mein
+  Bhatak raha tha zamaana raah-e-zalaalat meiṅ
   Kahiṅ tha khwaab ka aalam kahiṅ saraab ka rang
 
   6
   Juraat ye kehti hai Abbas aur Qasim ki
-  Hai mauj mauj mein darya ki iztiraab ka rang
+  Hai mauj mauj meiṅ darya ki iztiraab ka rang
 
   7
   Habib o Jaun ke zakhmoṅ se jitna khun baha

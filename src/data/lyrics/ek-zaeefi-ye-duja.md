@@ -15,7 +15,7 @@ romanLyrics: |-
   Ek zaifi ye duja mulk paraaya Akbar
   Baab te zaalimaaṅ nu na taras aaya Akbar
 
-  Is zaifi mein tera laasha uthaauṅ kaise
+  Is zaifi meiṅ tera laasha uthaauṅ kaise
   Dekh Baaba pe tere waqt ye aaya Akbar
 
   1
@@ -27,7 +27,7 @@ romanLyrics: |-
   Jis ne sine pe tujhe apne sulaaya Akbar
 
   3
-  Dekh khaime mein teri maaṅ ye buka karne lagi
+  Dekh khaime meiṅ teri maaṅ ye buka karne lagi
   Itne armaaṅ se tera sehra banaaya Akbar
 
   4
@@ -43,12 +43,12 @@ romanLyrics: |-
   Sirf ghurbat ne mera saath nibhaaya Akbar
 
   7
-  Dekhta huṅ main usi sine mein barchhi ki ani
+  Dekhta huṅ maiṅ usi sine meiṅ barchhi ki ani
   Kal isi sine ko sine ko lagaaya Akbar
 
   8
-  Shaadmaaṅ hoga sar-e-hashr hai Mazhar ko yaqin
-  Jis ne dunya ko tere gham mein rulaaya Akbar
+  Shaadmaaṅ hoga sar-e-hashr hai Mazhar ko yaqiṅ
+  Jis ne dunya ko tere gham meiṅ rulaaya Akbar
 reciter: Shadman Raza
 # source_id: nohayonline:37c31fc05bd9010c63fa
 # source_url: https://www.nohayonline.com/details_content.php?id=3061

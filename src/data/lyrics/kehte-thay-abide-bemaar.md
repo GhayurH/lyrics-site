@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Huṅ main aafat mein giraftaar mujhe rone do
+  Huṅ maiṅ aafat meiṅ giraftaar mujhe rone do
   Kehte the Aabid-e-Bimaar mujhe rone do
 
   Kaun baaqi hai jo aakar mere aansu ponchhe
@@ -27,7 +27,7 @@ romanLyrics: |-
 
   3
   Koi baaqi nahiṅ Shabbir ka rone waala
-  Huṅ main bekas ka azaadaar mujhe rone do
+  Huṅ maiṅ bekas ka azaadaar mujhe rone do
 
   4
   Shaah-e-Diṅ chhor gaye haiṅ mujhe rone ke liye

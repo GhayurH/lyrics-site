@@ -1,6 +1,6 @@
 ---
 title: "ہاں کرو ماتم حسین کا"
-alternateTitle: "Karo Matam Hussain Ka"
+alternateTitle: "Karo Matam Husain Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -30,8 +30,8 @@ romanLyrics: |-
   2
   Ye jo hamaare ghar par alam hai
   Shaah-e-wafa ka ham par karam hai
-  Saaye mein is ke maatam kareṅge
-  Jitna hamaare sinoṅ mein dam hai
+  Saaye meiṅ is ke maatam kareṅge
+  Jitna hamaare sinoṅ meiṅ dam hai
   Farsh-e-aza ka bichhta rahega
   Kehte raheṅge ham ye sada
 
@@ -76,7 +76,7 @@ romanLyrics: |-
   Bibiyoṅ se Zainab ne kaha
 
   8
-  Ghar ghar mein maatam ki jo sada hai
+  Ghar ghar meiṅ maatam ki jo sada hai
   Ye ehtejaaj-e-Karbobala hai
   Baatil ke muṅh pe hai ye tamaacha
   Is ne hi haq ko zinda rakha hai

@@ -98,10 +98,10 @@ romanLyrics: |-
   Zamin pe maut ko rukne ki bas ijaazat hai
 
   10
-  Bhari hai aag mire dil meiṅ beqaraar huṅ main
-  Na jaane kitne shahidoṅ ki sogwaar huṅ main
-  Na jaane kitne yatimoṅ ki qarz daar huṅ main
-  Kahe ga kaun keh Haider ki Zulfiqar huṅ main
+  Bhari hai aag mire dil meiṅ beqaraar huṅ maiṅ
+  Na jaane kitne shahidoṅ ki sogwaar huṅ maiṅ
+  Na jaane kitne yatimoṅ ki qarz daar huṅ maiṅ
+  Kahe ga kaun keh Haider ki Zulfiqar huṅ maiṅ
   Ali ke laal tire naam ki duhaai hai
   Na aaj rok mujhe aakhri laraai hai
 ---

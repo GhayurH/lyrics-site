@@ -29,7 +29,7 @@ romanLyrics: |-
   Teri behneṅ shagan manaati hai
   Aur neg wo lene aati hai
   Abbas-e-dilaawar waawaila
-  Maidaan mein Kausar waawaila
+  Maidaan meiṅ Kausar waawaila
   Teri mehndi tera ubtan tera gehna
   Haaṅ tera sehra Zainab laayi hai
   Haye bain kare Farwa
@@ -83,7 +83,7 @@ romanLyrics: |-
   Mazhar Irfan jo parhta hai
   Ye nauha hai ya sehra hai
   Ek maaṅ ki sada thi waawaila
-  Sehre mein jo likhi waawaila
+  Sehre meiṅ jo likhi waawaila
   Teri mehndi tera ubtan tera gehna
   Haaṅ tera sehra Zainab laayi hai
   Haye bain kare Farwa

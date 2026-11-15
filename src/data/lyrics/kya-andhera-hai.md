@@ -11,20 +11,20 @@ published: true
 romanLyrics: |-
   Ae phuphi ammaaṅ meri kya andhera hai phuphi
 
-  Qaid khaane mein Sakina ka tha nauha ae phuphi
+  Qaid khaane meiṅ Sakina ka tha nauha ae phuphi
   Kya andhera hai phuphi kya andhera hai phuphi
 
   Ek shama maṅgwaaiye ke ho ujaala ae phuphi
   Kya andhera hai phuphi kya andhera hai phuphi
 
   1
-  God mein apni chhupa lo dil dharakta hai mera
+  God meiṅ apni chhupa lo dil dharakta hai mera
   Har ghari lagta hai jaise Shimr phir se aa gaya
   Paas se mere nahiṅ jaana khudaara ae phuphi
 
   2
-  Khauf aata hai phuphi din ke ujaale mein yahaaṅ
-  Wahshateṅ hi wahshateṅ hai qaid khaane mein yahaaṅ
+  Khauf aata hai phuphi din ke ujaale meiṅ yahaaṅ
+  Wahshateṅ hi wahshateṅ hai qaid khaane meiṅ yahaaṅ
   Ek pal lagta nahiṅ hai dil hamaara ae phuphi
 
   3
@@ -38,8 +38,8 @@ romanLyrics: |-
   Yuṅ laga ho jaise ho Baba ne pukaara ae phuphi
 
   5
-  Aaye Baba to sunaauṅ main sitam ki daastaaṅ
-  Main dikhaauṅ gi rasan ke aur tamaachoṅ ke nishaaṅ
+  Aaye Baba to sunaauṅ maiṅ sitam ki daastaaṅ
+  Maiṅ dikhaauṅ gi rasan ke aur tamaachoṅ ke nishaaṅ
   Sun nahiṅ paayeṅge Baba haal saara ae phuphi
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:d83e50cfe8396b3aaca1

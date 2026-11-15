@@ -66,7 +66,7 @@ romanLyrics: |-
   7
   Boli kya haal apna bataauṅ tujhe
   Chhor ke jab se baba gaye haiṅ mujhe
-  Main yatim ho gayi aur kya ho bayaaṅ
+  Maiṅ yatim ho gayi aur kya ho bayaaṅ
   Meri gardan meiṅ baandhi gayi rassiyaaṅ
   Bara royi Sakina yahaaṅ
 

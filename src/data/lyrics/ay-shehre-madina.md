@@ -11,42 +11,42 @@ tags: []
 aliases: ["Ay Shehre Madina"]
 published: true
 romanLyrics: |-
-  Jangal mein bhare ghar ko luta aayi hai Zainab
+  Jangal meiṅ bhare ghar ko luta aayi hai Zainab
   Ae Shehr-e-Madina
   Abid ko kisi tarah bacha laayi hai Zainab
 
   1
   Na Qasim o Akbar rahe bhai bhi sidhaare
   Sab hi gaye maare
-  Be gor unheiṅ dasht mein chhor aayi hai Zainab
+  Begor unheiṅ dasht meiṅ chhor aayi hai Zainab
   Ae Shehr-e-Madina
 
   2
   Wo shaam-e-gharibaṅ ho ya wo Shaam ka bazaar
   Abid rahe laachaar
-  Sab zakhm isi qalb mein bhar laayi hai Zainab
+  Sab zakhm isi qalb meiṅ bhar laayi hai Zainab
   Ae Shehr-e-Madina
 
   3
-  Kya kya na sitam raah mein saadaat ne jhela
-  Main tujh se kahuṅ kya
-  Baaghi ki behan Shaam mein kehlaayi hai Zainab
+  Kya kya na sitam raah meiṅ saadaat ne jhela
+  Maiṅ tujh se kahuṅ kya
+  Baaghi ki behan Shaam meiṅ kehlaayi hai Zainab
   Ae Shehr-e-Madina
 
   4
   Parda jo sikhaati rahi wo Bibi khule sar
   Phirti rahi dar dar
-  Bazaaroṅ mein darbaaroṅ mein ho aayi hai Zainab
+  Bazaaroṅ meiṅ darbaaroṅ meiṅ ho aayi hai Zainab
   Ae Shehr-e-Madina
 
   5
-  Aa ja tu kanizi mein meri bola sitamgar
+  Aa ja tu kanizi meiṅ meri bola sitamgar
   Ae shaah ki dukhtar
   Ye lamha wohi tha jahaṅ ghabraayi hai Zainab
   Ae Shehr-e-Madina
 
   6
-  Zindaṅ mein kahiṅ kho gaya bhai ka nagina
+  Zindaṅ meiṅ kahiṅ kho gaya bhai ka nagina
   Maasum Sakina
   Do baaliyaṅ zindaan se le aayi hai Zainab
   Ae Shehr-e-Madina

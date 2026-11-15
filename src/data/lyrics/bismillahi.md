@@ -40,13 +40,13 @@ romanLyrics: |-
   Maula Husain ibn-e-Ali
   Ae aashiqoṅ ki aagahi
   Rasm-e-wafa tujh se chali
-  Pahuncha jo main teri gali
+  Pahuncha jo maiṅ teri gali
   Qadmoṅ se peshaani mali
   Apni khabar bhi na rahi
   Ae mehwar-e-imaan-e-man
 
   3
-  Main noha khwaaṅ tere liye
+  Maiṅ noha khwaaṅ tere liye
   Meri zabaaṅ tere liye
   Mera bayaaṅ tere liye
   Ye jism o jaaṅ tere liye
@@ -68,9 +68,9 @@ romanLyrics: |-
 
   Na aisa koi surma
   Na aisa koi raahbar
-  Lahu mein apne tar ba tar
+  Lahu meiṅ apne tar ba tar
   Bala ki pyaas hai magar
-  Hazaar qaatiloṅ mein bhi
+  Hazaar qaatiloṅ meiṅ bhi
   Chala hai jo utha ke sar
   Ye kaun hai asir-e-gham
   Ye puchh ae hawaa-e-gham

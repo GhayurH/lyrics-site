@@ -18,7 +18,7 @@ romanLyrics: |-
 
   1
   Baad-e-Shabbir hai saani-e-qaafila
-  Dasht mein berida
+  Dasht meiṅ berida
   Khuld se Mustafa dekhiye to zara
 
   2
@@ -57,7 +57,7 @@ romanLyrics: |-
   8
   Asr-e-Aashur tha dushmanoṅ ke tale
   Saf se aage barhe Sheh ko ghere rahe
-  Teer o khanjar chale
+  Tir o khanjar chale
   Ya Rasul-e-Khuda ya Rasul-e-Khuda
 
   9
@@ -94,7 +94,7 @@ romanLyrics: |-
   Ya Rasul-e-Khuda ya Rasul-e-Khuda
 
   15
-  Jaanib-e-Shaam ab ek rasan mein bandha
+  Jaanib-e-Shaam ab ek rasan meiṅ bandha
   Jaata hai qaafila
   Khuld se Mustafa dekhiye to zara
 

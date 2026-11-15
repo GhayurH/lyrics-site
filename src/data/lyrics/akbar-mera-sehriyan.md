@@ -1,6 +1,6 @@
 ---
 title: "میرا سہریاں والا اکبر"
-alternateTitle: "Akbar Mera Sehriyan"
+alternateTitle: "Akbar Mera Sehriyaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,81 +12,81 @@ published: true
 reciter: "Shadman Raza"
 romanLyrics: |-
   Mera sehriyaṅ wala Akbar
-  Zakhm dil ke dikhauṅ main kaise
-  Tera laasha uthauṅ main kaise
+  Zakhm dil ke dikhauṅ maiṅ kaise
+  Tera laasha uthauṅ maiṅ kaise
   Akbar mera sehriyaṅ wala Akbar
 
   1
   Lash-e-Akbar pe Shah jab pahunche
   Dil ko haathoṅ se thaam kar bole
   Teri furqat ne Ae Ali Akbar
-  Aag dil mein mere laga di hai
-  Aag dil ki bujhauṅ main kaise
-  Tera laasha uthauṅ main kaise
+  Aag dil meiṅ mere laga di hai
+  Aag dil ki bujhauṅ maiṅ kaise
+  Tera laasha uthauṅ maiṅ kaise
 
   2
   Tu hai kariyal jawan Ae beta
   Baap tera zaif hai kitna
   Nur aankhoṅ ka ho gaya rukhsat
   Mujh ko aata nahiṅ nazar khaima
-  Le ke khaimoṅ mein jauṅ main kaise
-  Tera laasha uthauṅ main kaise
+  Le ke khaimoṅ meiṅ jauṅ maiṅ kaise
+  Tera laasha uthauṅ maiṅ kaise
 
   3
   Jis ne atharah saal paala tha
   Kaise dekhegi wo tera laasha
   Teri shaadi ka tha jise armaṅ
   Kaise jhelegi wo tera sadma
-  Teri maaṅ ko batauṅ main kaise
-  Tera laasha uthauṅ main kaise
+  Teri maaṅ ko batauṅ maiṅ kaise
+  Tera laasha uthauṅ maiṅ kaise
 
   4
   Dekh aaya hai Qaasid-e-Sughra
   Raah takti hai wo dukhi behna
   Tujh ko bimar ne bulaya hai
   Waada Sughra ka Kiuṅ bhula daala
-  Gham ye dil se lagauṅ main kaise
-  Tera laasha uthauṅ main kaise
+  Gham ye dil se lagauṅ maiṅ kaise
+  Tera laasha uthauṅ maiṅ kaise
 
   5
   Bhai behnoṅ ka hai ajab rishta
   Jis ka saani kahiṅ nahiṅ milta
   Ro ke Sughra ne ye likha Akbar
   Ek dukhiya ki laaj rakh lena
-  Mar gaya tu batauṅ main kaise
-  Tera laasha uthauṅ main kaise
+  Mar gaya tu batauṅ maiṅ kaise
+  Tera laasha uthauṅ maiṅ kaise
 
   6
-  Lutf jine mein ab kahaṅ Akbar
+  Lutf jine meiṅ ab kahaṅ Akbar
   Dil se uthti hai ye fughaṅ Akbar
   Subh-e-Ashur di thi jo tu ne
   Khuṅ rulaegi wo azaṅ Akbar
-  Teri surat bhulauṅ main kaise
-  Tera laasha uthauṅ main kaise
+  Teri surat bhulauṅ maiṅ kaise
+  Tera laasha uthauṅ maiṅ kaise
 
   7
   Zabt-e-gham ka muhaal hai beta
   Dekhuṅ kaise ye zakhm sine ka
-  Main to pardes mein akela huṅ
+  Maiṅ to pardes meiṅ akela huṅ
   Dekh kar zakhm kya karuṅ batla
-  Is pe marham lagauṅ main kaise
-  Tera laasha uthauṅ main kaise
+  Is pe marham lagauṅ maiṅ kaise
+  Tera laasha uthauṅ maiṅ kaise
 
   8
-  Aisi ghurbat mein muṅh nahiṅ moro
-  Main huṅ tanha mujhe na yuṅ chhoro
+  Aisi ghurbat meiṅ muṅh nahiṅ moro
+  Maiṅ huṅ tanha mujhe na yuṅ chhoro
   Kya guzarti hai baap ke dil par
   Ghamzada dil ko yuṅ nahiṅ toro
-  Apni ghurbat batauṅ main kaise
-  Tera laasha uthauṅ main kaise
+  Apni ghurbat batauṅ maiṅ kaise
+  Tera laasha uthauṅ maiṅ kaise
 
   9
   Shadmaṅ ye dua hai Khaliq se
   Waqt aisa kisi pe na aae
   Jaisa Mazhar ne likh diya manzar
   Shah kehte the bas yehi ro ke
-  Zakhm dil ke dikhauṅ main kaise
-  Tera laasha uthauṅ main kaise
+  Zakhm dil ke dikhauṅ maiṅ kaise
+  Tera laasha uthauṅ maiṅ kaise
 # source_id: nohayonline:3a9ff5c0b2042426e5f5
 # source_url: https://www.nohayonline.com/details_content.php?id=878
 # raw_sha256: 7aa102f4f078652e088efad679a9aec5c3ffe8c8f68e4b122c48718a9d07cc1d

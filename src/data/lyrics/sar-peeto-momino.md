@@ -12,11 +12,11 @@ aliases: []
 published: true
 romanLyrics: |-
   Sar pito mominoṅ hai shahaadat Batul ki
-  Shab mein Ali uthaate haiṅ mayyat Batul ki
+  Shab meiṅ Ali uthaate haiṅ mayyat Batul ki
 
   1
   Girne se dar ke tut gayi saari pasliyaaṅ
-  Kis dil se main sunaauṅ musibat Batul ki
+  Kis dil se maiṅ sunaauṅ musibat Batul ki
 
   2
   Sidhe thahar na paayi wo is zulm ki wajah
@@ -31,11 +31,11 @@ romanLyrics: |-
   Hogi raqam ye kis tarah ghurbat Batul ki
 
   5
-  Athaara saal mein hi wo duniya se chal basi
+  Athaara saal meiṅ hi wo duniya se chal basi
   Tarpa rahi hai bachchoṅ ko rehlat Batul ki
 
   6
-  Ahl-e-haram mein ranj se mahshar bapa hua
+  Ahl-e-haram meiṅ ranj se mahshar bapa hua
   Ghar se nikal rahi hai jo mayyat Batul ki
 
   7

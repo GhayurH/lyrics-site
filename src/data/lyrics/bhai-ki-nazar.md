@@ -15,12 +15,12 @@ romanLyrics: |-
   Gar izn ho darya idhar aa jaaye udhar se
 
   1
-  Har daur-e-bala qaid mein Sheh ka azaadaar
+  Har daur-e-bala qaid meiṅ Sheh ka azaadaar
   Zinda hai to Zehra ki duaaoṅ ke asar se
 
   2
   Hai ashk-e-gham-e-Sheh ki tarah qaabil-e-taazim
-  Wo khun jo maatam mein bahe sina o sar se
+  Wo khun jo maatam meiṅ bahe sina o sar se
 
   3
   Abbas ke baazu hi qalam ho gaye warna
@@ -31,7 +31,7 @@ romanLyrics: |-
   Us karb ko puchhe koi Sarwar ke jigar se
 
   5
-  Kaanoṅ mein bahut dard raha phir bhi Sakina
+  Kaanoṅ meiṅ bahut dard raha phir bhi Sakina
   Ji bhar ke kabhi ro na saki Shimr ke dar se
 
   6

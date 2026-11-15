@@ -11,7 +11,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Khanjar tale Husain hai tiroṅ ki jhari hai
-  Aisi namaaz kis ne zamaane mein parhi hai
+  Aisi namaaz kis ne zamaane meiṅ parhi hai
 
   1
   Wo hai Husain khun se jis ne wuzu kiya
@@ -21,22 +21,22 @@ romanLyrics: |-
   2
   Nok-e-sinaaṅ pe jis ne Quraan sunaaya
   Ur ur ke garm ret ne kafan us ka banaaya
-  Halq-e-burida laash jo maqtal mein pari hai
+  Halq-e-burida laash jo maqtal meiṅ pari hai
 
   3
-  Sine mein barchhi haath mein hai laal ka jigar
+  Sine meiṅ barchhi haath meiṅ hai laal ka jigar
   Shabbir ka jigar hai ye Shabbir ka pisar
-  Sine mein jis ke barchhi zaalim ne gari hai
+  Sine meiṅ jis ke barchhi zaalim ne gari hai
 
   4
-  Apne hi garm khun mein tarpe Ali Akbar
-  Tha tir gale mein rahe haṅste Ali Asghar
-  Ye fauj-e-Husaini hi Karbal mein lari hai
+  Apne hi garm khun meiṅ tarpe Ali Akbar
+  Tha tir gale meiṅ rahe haṅste Ali Asghar
+  Ye fauj-e-Husaini hi Karbal meiṅ lari hai
 
   5
   Din ki bina hai sajda Haidar ke pisar ka
   Hai de raha gawaahi ye waqt asr ka
-  Bikhra hai laasha ban mein aur dhup kari hai
+  Bikhra hai laasha ban meiṅ aur dhup kari hai
 # source_id: nohayonline:61676e8e3da88c34cdff
 # source_url: https://www.nohayonline.com/details_content.php?id=597
 # raw_sha256: 4d190239852596d422462d8f8308315964844e8c9088ccd0db26e344900d21fe

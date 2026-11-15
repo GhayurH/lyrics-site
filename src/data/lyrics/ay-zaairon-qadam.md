@@ -17,22 +17,22 @@ romanLyrics: |-
 
   1
   Halq-e-saghir tir se jab zakhmi ho gayi
-  Sahra-e-Karbala mein bahi khun ki nadi
+  Sahra-e-Karbala meiṅ bahi khun ki nadi
   Aur mayyat liye Husain bhi tarpe hai kis qadar
 
   2
   Ek naujawaaṅ tha jis ka jigar chhalni ho gaya
-  Kitna badan mein khun tha Akbar ka beh gaya
+  Kitna badan meiṅ khun tha Akbar ka beh gaya
   Thi shakl-e-Mustafa ke lahu se zamin tar
 
   3
   Mayyat jawaaṅ pisar ki liye jab chale Husain
   Phir naujawaaṅ ki laash liye gir pare Husain
-  Sine mein phat na jaaye kahiṅ Shah ka jigar
+  Sine meiṅ phat na jaaye kahiṅ Shah ka jigar
 
   4
   Farwa ke ek chaand ko aisa grahan laga
-  Maqtal mein jis ke jism ka tukra hai ja ba ja
+  Maqtal meiṅ jis ke jism ka tukra hai ja ba ja
   Dhalta hai khaak o khun se Shabbar tera pisar
 
   5
@@ -43,7 +43,7 @@ romanLyrics: |-
   6
   Is sarzamiṅ pe khun hai Muhammad ke Aun ke
   Is sarzamiṅ pe khun ke qatre hai Jaun ke
-  Arz-e-bala mein ahl-e-falak bole aan kar
+  Arz-e-bala meiṅ ahl-e-falak bole aan kar
 
   7
   Aashur ko Husain ka chalna muhaal tha
@@ -56,7 +56,7 @@ romanLyrics: |-
   Bahr-e-madad bulaati kise haaye nauhagar
 
   9
-  Har laash ran mein ghoroṅ se paamaal ho gayi
+  Har laash ran meiṅ ghoroṅ se paamaal ho gayi
   Aashur ko ye arz-e-bala laal ho gayi
   Sajjad bhi pukaar uthe ghash se chaunk kar
 

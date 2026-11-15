@@ -59,7 +59,7 @@ romanLyrics: |-
   Gham nasiboṅ ke khaime jalaye gaye
   Farsh par arsh waale bithaye gaye
   Ek bachchi ko durre lagaye gaye
-  Jitne mumkin thay sab zulm dhaye gaye
+  Jitne mumkin the sab zulm dhaye gaye
   Ek bimar aahan meiṅ jakra gaya
 
   8

@@ -18,7 +18,7 @@ romanLyrics: |-
   Mere bimaar ko qaidi na banaaye koi
 
   1
-  Aable paaoṅ mein haiṅ khaar bhara rasta hai
+  Aable paaoṅ meiṅ haiṅ khaar bhara rasta hai
   Haaye Sajjad ke pairoṅ se lahu rista hai
   Kya khata hai is ki boliye Bint-e-Ali
   Kiuṅ jafa hum pe hui keh ke Zainab roi
@@ -40,20 +40,20 @@ romanLyrics: |-
 
   4
   Shaam se Saani-e-Zehra ki sada aati hai
-  Bhaai baazaar mein Zainab ko haya aati hai
+  Bhaai baazaar meiṅ Zainab ko haya aati hai
   Utho Abbas kahaaṅ suno Zainab ki fughaaṅ
-  Bhaai do aa ke amaan mera dushman hai jahaaṅ
+  Bhaai do aa ke amaaṅ mera dushman hai jahaaṅ
   Keh do behna ko teri ab na sataaye koi
 
   5
   Chaadar-e-Ahl-e-Haram luti sitamgaaroṅ ne
-  Baandhi shaanoṅ mein rasan Shaam ke khuṅ khwaaroṅ ne
+  Baandhi shaanoṅ meiṅ rasan Shaam ke khuṅ khwaaroṅ ne
   Sar jhukaaye the haram aankh ashkoṅ se thi nam
   Har taraf chhaaya tha gham kitne majbur the hum
-  Main sada deti thi chaadar to mangaaye koi
+  Maiṅ sada deti thi chaadar to mangaaye koi
 
   6
-  Haaye Zainab bhare darbaar mein jaaye kaise
+  Haaye Zainab bhare darbaar meiṅ jaaye kaise
   Sar pe chaadar bhi nahiṅ muṅh ko chhupaaye kaise
   Waqt ye hum pe para koi yaawar na raha
   Hai sitam had se siwa sirf Abid hai bacha
@@ -62,8 +62,8 @@ romanLyrics: |-
   7
   Jab bhi Abid ki musibat ka khayaal aaye Raza
   Shadmaaṅ gham se kaleja mera phat jaayega
-  Nauha har waqt likhuṅ naam-e-Sarwar mein maruṅ
-  Gar lahad mein bhi rahuṅ maatam-e-Shaah karuṅ
+  Nauha har waqt likhuṅ naam-e-Sarwar meiṅ maruṅ
+  Gar lahad meiṅ bhi rahuṅ maatam-e-Shaah karuṅ
   Ae Raza nauha-e-Sarwar jo sunaaye koi
 # source_id: nohayonline:288edb6e5c2551a1e15f
 # source_url: https://www.nohayonline.com/details_content.php?id=3107

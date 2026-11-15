@@ -12,9 +12,9 @@ aliases: []
 published: true
 romanLyrics: |-
   Qasim jo gire ghore se tha maut ka pehra
-  Tha khun mein duba hua wo chaand sa chehra
+  Tha khun meiṅ duba hua wo chaand sa chehra
   Chhalni tha badan tiroṅ se har zakhm tha gehra
-  Khun sar se baha ban gaya ek lariyoṅ ka sehra
+  Khuṅ sar se baha ban gaya ek lariyoṅ ka sehra
   Is tarah larazta hua laasha nahiṅ dekha
   Is shaan ka koi kabhi dulha nahiṅ dekha
 
@@ -24,10 +24,10 @@ romanLyrics: |-
   Kuchla hua sina tha lahu sar se baha tha
   Is phul se bachche pe ajab zulm hua tha
   Ye wazn tha taapoṅ ka wahiṅ tut gayiṅ thiṅ
-  Sab pasliyaaṅ sine mein kahiṅ tut gayiṅ thiṅ
+  Sab pasliyaaṅ sine meiṅ kahiṅ tut gayiṅ thiṅ
 
   2
-  Maidaaṅ mein madad ke liye chillaate the Qasim
+  Maidaaṅ meiṅ madad ke liye chillaate the Qasim
   Jaate the idhar aur udhar aate the Qasim
   Dam atka tha aur chain nahiṅ paate the Qasim
   Lagti thiṅ jo taapeṅ to tarap jaate the Qasim
@@ -36,23 +36,23 @@ romanLyrics: |-
 
   3
   Shah khaak pe bhaai ka pisar dhund rahe haiṅ
-  Maidaaṅ mein wo laasha hai kahaaṅ dhund rahe haiṅ
-  Aankhoṅ mein andhera hai magar dhund rahe haiṅ
+  Maidaaṅ meiṅ wo laasha hai kahaaṅ dhund rahe haiṅ
+  Aankhoṅ meiṅ andhera hai magar dhund rahe haiṅ
   Phir bhaai ka har lakht-e-jigar dhund rahe haiṅ
   Teora ke wahiṅ girte haiṅ ghash aata hai Shah ko
   Jab jism ka tukra koi mil jaata hai Shah ko
 
   4
-  Shabbir ne jis ko kabhi godi mein sulaaya
+  Shabbir ne jis ko kabhi godi meiṅ sulaaya
   Haathoṅ ko bhi chuma kabhi sine se lagaaya
   Taqdir ne ye aaj ajab waqt dikhaaya
-  Laasha usi bachche ka hai chaadar mein uthaaya
+  Laasha usi bachche ka hai chaadar meiṅ uthaaya
   Thaame hue kone Hasan-e-khasta jigar haiṅ
   Aaza ki ye gathri nahiṅ bewa ka pisar hai
 
   5
   Seh lete haiṅ kuchh dard bataaye nahiṅ jaate
-  Laashe kabhi hissoṅ mein uthaaye nahiṅ jaate
+  Laashe kabhi hissoṅ meiṅ uthaaye nahiṅ jaate
   Gar Shaah rida apni bichhaaye nahiṅ jaate
   Tukre kabhi Qasim ke uthaaye nahiṅ jaate
   Chaadar ko jo thaame hue Abbas khare haiṅ
@@ -70,24 +70,24 @@ romanLyrics: |-
   Dil apna sambhaala kabhi chaadar ko sambhaala
   Khaime ki taraf chalne lage Sayyid-e-waala
   Taarik hua jaata tha aankhoṅ ka ujaala
-  Chaadar mein bandhi laash ko jab saamne daala
+  Chaadar meiṅ bandhi laash ko jab saamne daala
   Farwa ne ye puchha ke kahaaṅ laal mera hai
-  Dil hilta hai batlaaiye is gathri mein kya hai
+  Dil hilta hai batlaaiye is gathri meiṅ kya hai
 
   8
   Gathri jo khuli hashr bapa ho gaya har su
   Tukre tha badan laash ka aur khun bhare gesu
-  Taapoṅ ke nishaan sine mein aur aankhoṅ mein aansu
+  Taapoṅ ke nishaan sine meiṅ aur aankhoṅ meiṅ aansu
   Kehne laga aahista se Zehra ka wo mehru
   Ye dekhiye jo ek tan-e-sad paash hai bhaabhi
   Pehchaaniye Qasim ki yehi laash hai bhaabhi
 
   9
-  Maaṅ gir gayi ye dekh ke teora ke zamiṅ par
-  Mahshar se hi pehle tha wahaaṅ khaime mein mahshar
+  Maaṅ gir gayi ye dekh ke teora ke zamin par
+  Mahshar se hi pehle tha wahaaṅ khaime meiṅ mahshar
   Farwa ko sambhaale rahiṅ khud Zainab-e-muztar
-  Shabbir ki aankhoṅ mein Qamar phir gaya manzar
-  Larzish thi har ek tukre mein kuchla hua tan tha
+  Shabbir ki aankhoṅ meiṅ Qamar phir gaya manzar
+  Larzish thi har ek tukre meiṅ kuchla hua tan tha
   Shabbar ka kaleja tha ke Qasim ka badan tha
 # source_id: nohayonline:ed9ebb9bd1c83a9352a5
 # source_url: https://www.nohayonline.com/details_content.php?id=1574

@@ -16,32 +16,32 @@ romanLyrics: |-
   Khuṅ se tar hai musalla qatl Haider ho gaye
 
   1
-  Sajda-e-Khaliq mein jab maula ne peshani rakhi
+  Sajda-e-Khaliq meiṅ jab maula ne peshani rakhi
   Aur Ali ke sar pe jis dam tegh zalim ki chali
   Ro diya ye keh ke sajda qatl Haider ho gaye
 
   2
   Masjid-e-Kufa ke dar pe aa gaye haiṅ sab yatim
-  Keh rahe haiṅ hum haqiqat mein huwe haiṅ ab yatim
+  Keh rahe haiṅ hum haqiqat meiṅ huwe haiṅ ab yatim
   Ho gaye hum besahara qatl Haider ho gaye
 
   3
-  Dekh kar masjid mein surat khuṅ mein dubi baap ki
+  Dekh kar masjid meiṅ surat khuṅ meiṅ dubi baap ki
   Sina-e-Sarwar se lag ke ro diye Abbas bhi
   Bhai se bhai ne bola qatl Haider ho gaye
 
   4
-  Ghar ki jaanib baap ko Hasnain jab le kar badhe
+  Ghar ki jaanib baap ko Hasnain jab le kar barhe
   Pichhe pichhe chaahne wale bhi sab rote chale
   Tha har ek ke lab pe nauha qatl Haider ho gaye
 
   5
   Zainab o Kulsum ke dil pe chhuri chal jayegi
-  Kaan mein awaaz unke jis ghadi ye aayegi
+  Kaan meiṅ awaaz unke jis ghari ye aayegi
   Ik farishta jab kahega qatl Haider ho gaye
 
   6
-  Raaste mein ruk ke ye kehne laga maula mera
+  Raaste meiṅ ruk ke ye kehne laga maula mera
   Dekhti hai betiyaṅ darwaze pe rasta mera
   Ab nahiṅ kehna khudara qatl Haider ho gaye
 
@@ -51,8 +51,8 @@ romanLyrics: |-
   Kaun dega ab dilaasa qatl Haider ho gaye
 
   8
-  Ae Ali Yazdaṅ thi Kufe mein yatimi nauhagar
-  Ro diye Hasnain Tashna us ghadi sar pit kar
+  Ae Ali Yazdaṅ thi Kufe meiṅ yatimi nauhagar
+  Ro diye Hasnain Tashna us ghari sar pit kar
   Marsiya Abbas ka tha qatl Haider ho gaye
 # source_id: nohayonline:89f8249548677db8abf4
 # source_url: https://www.nohayonline.com/details_content.php?id=2513

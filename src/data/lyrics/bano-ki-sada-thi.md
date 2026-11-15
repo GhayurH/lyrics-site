@@ -17,7 +17,7 @@ romanLyrics: |-
   Ae Sayyid-e-Sajjad
 
   1
-  Ik roz mein taaraaj hua mera bhara ghar
+  Ik roz meiṅ taaraaj hua mera bhara ghar
   Kaisa tha muqaddar
   Socha bhi na tha hoṅge hum is tarah se barbaad
   Ae Sayyid-e-Sajjad
@@ -29,7 +29,7 @@ romanLyrics: |-
   Ae Sayyid-e-Sajjad
 
   3
-  Hal min ki sadaa Shaah ne di ran mein kai baar
+  Hal min ki sadaa Shaah ne di ran meiṅ kai baar
   Koi na tha ghamkhwaar
   Khanjar se zabh karta raha Shaah ko jallaad
   Ae Sayyid-e-Sajjad

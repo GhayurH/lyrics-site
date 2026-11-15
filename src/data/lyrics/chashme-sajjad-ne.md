@@ -21,7 +21,7 @@ romanLyrics: |-
 
   1
   Khun rone lagi Sajjad ki aankheṅ paiham
-  Jab se maaṅ behnoṅ ko balwe mein khule sar dekha
+  Jab se maaṅ behnoṅ ko balwe meiṅ khule sar dekha
 
   2
   Maarte the jo Sakina ko tamaache aada
@@ -40,12 +40,12 @@ romanLyrics: |-
   Halq par bhai ke jab Shimr ka khanjar dekha
 
   6
-  Ek barchi si kaleje mein lagi ashk bahe
+  Ek barchi si kaleje meiṅ lagi ashk bahe
   Maaṅ ne jis dam Ali Akbar ka kata sar dekha
 
   7
   Sar barehna jinheṅ dekhi na kabhi chashm-e-falak
-  Un ko baazaaroṅ mein bemaqna o chaadar dekha
+  Un ko baazaaroṅ meiṅ bemaqna o chaadar dekha
 
   8
   Ye sawaal aaj bhi Khurshid se karta hai Hilal

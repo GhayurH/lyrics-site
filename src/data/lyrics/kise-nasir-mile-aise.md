@@ -15,11 +15,11 @@ romanLyrics: |-
   Wafa ki laaj rakh li mar gaye Shabbir se pehle
 
   1
-  Bari sharmindagi un ko hui maidaan-e-Khaibar mein
+  Bari sharmindagi un ko hui maidaan-e-Khaibar meiṅ
   Alam le kar jo nikle Shaah-e-Khaibar gir se pehle
 
   2
-  Sanad Quraan ki Ahl-e-Bait ke haq mein bataati hai
+  Sanad Quraan ki Ahl-e-Bait ke haq meiṅ bataati hai
   Ye taahir the nuzul-e-aaya-e-tathir se pehle
 
   3

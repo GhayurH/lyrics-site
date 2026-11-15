@@ -22,7 +22,7 @@ romanLyrics: |-
   Asghar-e-maasum ki har ek ada khaamosh hai
 
   3
-  Hai Sakina god mein Zainab ke aansu haiṅ rawaaṅ
+  Hai Sakina god meiṅ Zainab ke aansu haiṅ rawaaṅ
   Soti hai maasum aur maaṅ behawa khaamosh hai
 
   4
@@ -30,11 +30,11 @@ romanLyrics: |-
   Qaafila saalaar chup hai qaafila khaamosh hai
 
   5
-  Kuch dhuaaṅ baaqi abhi hai dher mein raakh ke
+  Kuch dhuaaṅ baaqi abhi hai dher meiṅ raakh ke
   Shah ke khaime jal chuke haiṅ aur fiza khaamosh hai
 
   6
-  Beriyaaṅ hai paaye-e-Aabid mein to gardan mein hai tauq
+  Beriyaaṅ hai paaye-e-Aabid meiṅ to gardan meiṅ hai tauq
   Roti hai zanjir lekin naqsh-e-paa khaamosh hai
 # source_id: nohayonline:052ea7f26c8b2627fe0f
 # source_url: https://www.nohayonline.com/details_content.php?id=3239

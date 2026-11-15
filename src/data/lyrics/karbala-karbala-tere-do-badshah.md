@@ -41,7 +41,7 @@ romanLyrics: |-
   Anbiya ne yahaaṅ aa ke sajda kiya
   Zahra ke betoṅ ne tujh ko rutba yeh diya
   Mujh gunaahgaar ki muaaf kar di khata
-  Main Jahannum se sidha Jinna meiṅ gaya
+  Maiṅ Jahannum se sidha Jinna meiṅ gaya
   Chaar qadam pe Hur ka rauza deta hai sada
 
   5

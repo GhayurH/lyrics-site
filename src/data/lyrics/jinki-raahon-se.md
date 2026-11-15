@@ -1,6 +1,6 @@
 ---
 title: "جن کی راہوں سے پیمبر نے ہٹائے کانٹے"
-alternateTitle: "Jinki Raahon Se"
+alternateTitle: "Jinki Raahoṅ Se"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -14,27 +14,27 @@ romanLyrics: |-
   Har qadam par unhi logoṅ ne bichhaaye kaante
 
   1
-  Zindagi mein jo sitam dhaaye wohi kya kam the
-  Baad marne ke jo pehlu mein rakhaaye kaante
+  Zindagi meiṅ jo sitam dhaaye wohi kya kam the
+  Baad marne ke jo pehlu meiṅ rakhaaye kaante
 
   2
   Khaar phir khaar hai fitrat hai aziyat dena
   Pehlu-e-gul se koi kaash hataaye kaante
 
   3
-  Ahl-e-gulshan ki nigaahoṅ mein sada khatkeṅge
-  Laakh phuloṅ mein rahe haiṅ to paraaye kaante
+  Ahl-e-gulshan ki nigaahoṅ meiṅ sada khatkeṅge
+  Laakh phuloṅ meiṅ rahe haiṅ to paraaye kaante
 
   4
   Waaye ho ummat-e-marhuma teri qismat par
-  Gul ke hote hue daaman mein sajaaye kaante
+  Gul ke hote hue daaman meiṅ sajaaye kaante
 
   5
   Ghar jalaane ko chale aaye Nabi zaadi ka
   Ban gaye baad-e-Nabi raah ke saaye kaante
 
   6
-  Dekh kar dasht-e-musibat mein gul-e-Zehra ko
+  Dekh kar dasht-e-musibat meiṅ gul-e-Zehra ko
   Naiza taane hue har su nikal aaye kaante
 
   7

@@ -12,33 +12,33 @@ published: true
 romanLyrics: |-
   Jo Faatima ki rag-e-jaan Ali ka hai dilbar
   Husain minni kahe jis ko Shaafi-e-Mahshar
-  Wo jis ka kar diya taaraaj Karbala mein ghar
+  Wo jis ka kar diya taaraaj Karbala meiṅ ghar
   Musibatoṅ ki hadeṅ khatm ho gayiṅ jis par
 
   Guroh-e-chaak girebaaṅ salaam karta hai
 
   1
   Qiyaam-e-Shah ka nigahbaaṅ Husain ka bhaai
-  Wo jis ne ki thi Sakina ki ran mein saqqaai
+  Wo jis ne ki thi Sakina ki ran meiṅ saqqaai
   Lab-e-Furaat kate haath jis ke maut aayi
-  Wafa ne jis se jahaaṅ mein hayaat-e-nau paayi
+  Wafa ne jis se jahaaṅ meiṅ hayaat-e-nau paayi
 
   2
   Na maaṅ ka dudh na paani mila jise wo saghir
   Wo jis ko dekh ke tukre jigar ho wo beshir
-  Wo jis ko le gaye maidaaṅ mein Hazrat-e-Shabbir
+  Wo jis ko le gaye maidaaṅ meiṅ Hazrat-e-Shabbir
   Wo jis ka nanha gala aur Hurmala ka tir
 
   3
   Jo quwwat-e-dil-e-Laila tha khubru wo jawaaṅ
   Wo jis ko dekh ke hota tha Mustafa ka gumaaṅ
-  Wo jis ne ain-e-jawaani mein khaayi dil pe sinaaṅ
+  Wo jis ne ain-e-jawaani meiṅ khaayi dil pe sinaaṅ
   Wo jis ke byaah ka maadar ko reh gaya armaaṅ
 
   4
   Wohi jo the Shah-e-Karb o Bala ke dil ka chain
-  Wo kam sini mein jinheṅ maut aayi haaye Husain
-  Tha jin ki maut se khaimoṅ mein ik shor o shain
+  Wo kam sini meiṅ jinheṅ maut aayi haaye Husain
+  Tha jin ki maut se khaimoṅ meiṅ ik shor o shain
   Wo yaani Zainab-e-aali nasab ke nur-e-ain
 
   5

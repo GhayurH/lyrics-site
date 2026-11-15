@@ -17,10 +17,10 @@ romanLyrics: |-
   Fikr na karna Fatema hai na
 
   Maatam kiya hai tum ne bataayegi Fatema
-  Jannat mein tum se pehle na jaayegi Fatema
+  Jannat meiṅ tum se pehle na jaayegi Fatema
 
   1
-  Waada hai bakhshwaane jab aayegi hashr mein
+  Waada hai bakhshwaane jab aayegi hashr meiṅ
   Ghazi ke donoṅ baazu bhi laayegi Fatema
 
   2
@@ -36,12 +36,12 @@ romanLyrics: |-
   Jab tum ko apna keh ke bulaayegi Fatema
 
   5
-  Jo betiyoṅ ko rakhti hai chaadar ke saaye mein
+  Jo betiyoṅ ko rakhti hai chaadar ke saaye meiṅ
   Un maaoṅ ko gale se lagaayegi Fatema
 
   6
   Farsh-e-aza bichha ke bulaao to ek baar
-  Dekho tumhaare ghar mein bhi aayegi Fatema
+  Dekho tumhaare ghar meiṅ bhi aayegi Fatema
 
   7
   Ro ro ke do Husain ke zakhmoṅ ka waasta

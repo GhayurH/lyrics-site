@@ -15,24 +15,24 @@ romanLyrics: |-
   Ghar Nabi zaadi ka aise to na viraaṅ hota
 
   1
-  De ke sar sajde mein di Shaah ne sajde ko baqa
-  Warna masjud zamaane mein na Yazdaaṅ hota
+  De ke sar sajde meiṅ di Shaah ne sajde ko baqa
+  Warna masjud zamaane meiṅ na Yazdaaṅ hota
 
   2
-  Baazu-e-Hazrat-e-Abbas na katte ban mein
+  Baazu-e-Hazrat-e-Abbas na katte ban meiṅ
   Chup hi rehne ka na gar bhaai ka farmaan hota
 
   3
-  Sar ko mazlum kataate na agar sajde mein
+  Sar ko mazlum kataate na agar sajde meiṅ
   Na namaazeṅ na roze na ye Quraaṅ hota
 
   4
   Ghar ki dehliz bhi apni na mukammil dekhi
-  Kaash Zainab ke nasiboṅ mein na zindaaṅ hota
+  Kaash Zainab ke nasiboṅ meiṅ na zindaaṅ hota
 
   5
-  Yuṅ hi darbaar mein rehti na khari Bint-e-Ali
-  Gar Ameer in mein sahih koi musalmaaṅ hota
+  Yuṅ hi darbaar meiṅ rehti na khari Bint-e-Ali
+  Gar Amir in meiṅ sahih koi musalmaaṅ hota
 # source_id: nohayonline:1ad79a24a4107f20e8ac
 # source_url: https://www.nohayonline.com/details_content.php?id=3486
 # raw_sha256: a5c3cbc1387999db669d8bb6d6a3300e6f4182fbcd58d253fc894863e5187f3a

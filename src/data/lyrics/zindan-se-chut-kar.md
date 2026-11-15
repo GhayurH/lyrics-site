@@ -18,12 +18,12 @@ romanLyrics: |-
   Sharbat pe mera faateha dilwaaiyo Zainab
 
   2
-  Maange jo Sakina ko kanizi mein sitamgar
+  Maange jo Sakina ko kanizi meiṅ sitamgar
   Tum minnateṅ kar ke use chhurwaaiyo Zainab
 
   3
   Haakim jo Sakina ko kafan de to na lena
-  Maasuma ko kurte hi mein dafnaaiyo Zainab
+  Maasuma ko kurte hi meiṅ dafnaaiyo Zainab
 
   4
   Saqqaa-e-haram tishna dahan qatl hua hai
@@ -35,15 +35,15 @@ romanLyrics: |-
 
   6
   Chaadar ke iwaz baaloṅ se muṅh apna chhupaaye
-  Darbaar mein haakim ke chali jaaiyo Zainab
+  Darbaar meiṅ haakim ke chali jaaiyo Zainab
 
   7
-  Hai mujh ko yaqin qaid mein royegi Sakina
+  Hai mujh ko yaqiṅ qaid meiṅ royegi Sakina
   Aate haiṅ pidar keh ke ye behlaaiyo Zainab
 
   8
   Ahbaab-e-watan ko mere paani ki sabileṅ
-  Nazr-e-shuhadaa-e-dasht mein pilwaaiyo Zainab
+  Nazr-e-shuhadaa-e-dasht meiṅ pilwaaiyo Zainab
 # source_id: nohayonline:9352d6037d843ed80722
 # source_url: https://www.nohayonline.com/details_content.php?id=3520
 # raw_sha256: bd649cc60a7f85801196cfadb1ff467ea61dca84dd8c95f6079f7eb9d1e46386

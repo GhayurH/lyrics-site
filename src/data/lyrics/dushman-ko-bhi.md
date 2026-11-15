@@ -14,7 +14,7 @@ romanLyrics: |-
   Daagh-e-jawaan dekh ke Shabbir ne kaha
   Dushman ko bhi Khuda na dikhaaye pisar ka daagh
 
-  Karta huṅ baargaah-e-Ilaahi mein ye dua
+  Karta huṅ baargaah-e-Ilaahi meiṅ ye dua
   Dushman ko bhi Khuda na dikhaaye pisar ka daagh
 
   1
@@ -25,7 +25,7 @@ romanLyrics: |-
   2
   Bichhra jawaaṅ to phir nahiṅ jine ki koi chaah
   Ta umr khuṅ ke ashk hi barsaati hai nigaah
-  Hota hai band jeene ka har ek raasta
+  Hota hai band jine ka har ek raasta
 
   3
   Seh jaaye gar ye sadma to himmat hai baap ki
@@ -38,8 +38,8 @@ romanLyrics: |-
   Sheh ne jawaaṅ ki laash pe nauha yahi parha
 
   5
-  Dil tukre tukre ho gaya kis ko dikhaauṅ main
-  Kya kaifiyat hai ruh ki kis ko sunaauṅ main
+  Dil tukre tukre ho gaya kis ko dikhaauṅ maiṅ
+  Kya kaifiyat hai ruh ki kis ko sunaauṅ maiṅ
   Ye keh ke khuṅ bahaata hai Zehra ka dilruba
 
   6

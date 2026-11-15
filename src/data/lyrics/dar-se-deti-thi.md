@@ -25,42 +25,42 @@ romanLyrics: |-
   2
   Jaag kar raat tum ne guzaari
   Subh se thi ajab beqaraari
-  Ab to so jaao pehlu mein aa kar
+  Ab to so jaao pehlu meiṅ aa kar
 
   3
-  Jab na paauṅ gi pehlu mein tum ko
+  Jab na paauṅ gi pehlu meiṅ tum ko
   Nind beta na aayegi ham ko
   So sakoge na tum bhi bichhar kar
 
   4
   Tir gardan pe teri laga hai
-  Kya ye sach hai jo main ne suna hai
+  Kya ye sach hai jo maiṅ ne suna hai
   Maaṅ ko dikhlaao to ran se aa kar
 
   5
-  Jo kaha main ne tum ne suna tha
+  Jo kaha maiṅ ne tum ne suna tha
   Aur jawaab us ka hans kar diya tha
   Ho gaye kiuṅ khafa ghar se jaa kar
 
   6
-  Jang maidaaṅ mein ki sab ne pyaare
+  Jang maidaaṅ meiṅ ki sab ne pyaare
   Par na dekhe the aise nazaare
   Kya kiya tum ne roya jo lashkar
 
   7
   Kya koi kehna un ka na maana
   Ho ke naaraaz Shah-e-Madina
-  Chhor aaye tumheṅ ran mein Sarwar
+  Chhor aaye tumheṅ ran meiṅ Sarwar
 
   8
   Tum na kuchh gham karo mere beta
   Kya hua gar jala tera jhula
-  Duṅgi lori main godi mein le kar
+  Duṅgi lori maiṅ godi meiṅ le kar
 
   9
   Kya malak ne khabar ye sunaai
   Sab Anis Shah-e-Karbalaai
-  Jaaye jannat mein nauha ye parh kar
+  Jaaye jannat meiṅ nauha ye parh kar
 # source_id: nohayonline:45bb64aa89cb4df14808
 # source_url: https://www.nohayonline.com/details_content.php?id=1907
 # raw_sha256: c49a3e23ad92721e51ad27178f54136075aa1453abb091e0856f339e33cdbcbc

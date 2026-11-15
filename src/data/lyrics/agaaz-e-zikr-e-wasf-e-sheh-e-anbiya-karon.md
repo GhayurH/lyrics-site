@@ -17,7 +17,7 @@ romanLyrics: |-
   Gulpashi-e-adab hi se midhat kiya karuṅ
 
   2
-  Sochuṅ to Shehr-e-Ilm tasawwur mein ho mudam
+  Sochuṅ to Shehr-e-Ilm tasawwur meiṅ ho mudam
   Likhuṅ to is ke dar ke qaside likha karuṅ
   Aae zabaṅ pe Ism-e-Muhammad to jhum kar
   Apne hi laboṅ ke aap hi bose liya karuṅ

@@ -12,14 +12,14 @@ aliases: []
 published: true
 romanLyrics: |-
   Ho salaam us pe jo kehti thi mere vir Husain
-  Khaak mein kis ne mila di teri tasvir Husain
+  Khaak meiṅ kis ne mila di teri tasvir Husain
 
   1
   Apne do betoṅ se sadqa bhi utaara tera
-  Rok paayi nahiṅ main zulm ki shamshir Husain
+  Rok paayi nahiṅ maiṅ zulm ki shamshir Husain
 
   2
-  Main ne sadmoṅ mein bhi chhora nahiṅ daaman tera
+  Maiṅ ne sadmoṅ meiṅ bhi chhora nahiṅ daaman tera
   Bekafan tu raha aur berida hamshir Husain
 
   3
@@ -27,7 +27,7 @@ romanLyrics: |-
   Koi batlaaye to mujh ko teri tafsir Husain
 
   4
-  Qatl jab tu hua rote the lahad mein Haidar
+  Qatl jab tu hua rote the lahad meiṅ Haidar
   Khaak uraati rahi khud maadar-e-dilgir Husain
 
   5
@@ -35,7 +35,7 @@ romanLyrics: |-
   Karbala ho gayi us khun se taamir Husain
 
   6
-  Jashn maqtal mein manaate rahe qaatil tere
+  Jashn maqtal meiṅ manaate rahe qaatil tere
   Bain dil thaam ke karti rahi hamshir Husain
 
   7

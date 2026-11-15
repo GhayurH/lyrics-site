@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Akbar ne di sada sine mein hai neza
+  Akbar ne di sada sine meiṅ hai neza
   Ghore se gir raha huṅ Baba sambhalna
 
   1
@@ -20,7 +20,7 @@ romanLyrics: |-
 
   2
   Sukhi hui zaban hai ghalba hai pyas ka
-  Is haal mein kahaṅ talak karta bhala wigha
+  Is haal meiṅ kahaṅ talak karta bhala wigha
   Majbur huṅ Baba ab waqt ye aaya
 
   3
@@ -29,7 +29,7 @@ romanLyrics: |-
   Hai dard ghazab ka dam hontoṅ pe aaya
 
   4
-  Haaṅ ye khabar qayaam mein dena na Baba jaan
+  Haaṅ ye khabar qayaam meiṅ dena na Baba jaaṅ
   Mar jaegi phuphi meri mar jaegi wo maaṅ
   Hai waqt qaza ka aa jao Khudara
 
@@ -41,7 +41,7 @@ romanLyrics: |-
   6
   Mujh se siwa hai aap ki lachargi pidar
   Tanha gaye haiṅ aap hi har ek laash par
-  Hote agar chacha to main nahiṅ kehta
+  Hote agar chacha to maiṅ nahiṅ kehta
 
   7
   Pahunchi agar sada meri Sughra ke kaan tak
@@ -55,7 +55,7 @@ romanLyrics: |-
 
   9
   Farhan o Mazhar Abidi kaisi hai bekasi
-  Burha pidar uthaega maiyyat jawaṅ ki
+  Burha pidar uthaega maiyyat jawaaṅ ki
   Pahunche Shah-e-Huda sun kar ye marsiya
 # source_id: nohayonline:2a27119b288b9e218584
 # source_url: https://www.nohayonline.com/details_content.php?id=2348

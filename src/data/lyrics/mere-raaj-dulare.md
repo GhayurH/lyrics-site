@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Mere raaj dulaare Qasim
   Haaye Qasim haaye Qasim
-  Farwa ke laboṅ par maqtal mein
+  Farwa ke laboṅ par maqtal meiṅ
   The dard ke naare Qasim
 
   Hai chashm-e-falak purnam purnam
@@ -22,7 +22,7 @@ romanLyrics: |-
   Ye chaand sitaare Qasim
 
   1
-  Pardes mein phirte haiṅ dar dar
+  Pardes meiṅ phirte haiṅ dar dar
   Ghurbat ki ghataaeṅ haiṅ sar par
   Ab kaun hameṅ pahunchaaye watan
   Jab tum hi sidhaare Qasim
@@ -41,14 +41,14 @@ romanLyrics: |-
 
   4
   Tu tin dinoṅ ka pyaasa hai
-  Kausar mein talaatum barpa hai
+  Kausar meiṅ talaatum barpa hai
   Teri pyaas pe girya girya hai
   Tasnim ke dhaare Qasim
 
   5
   Ki fauj-e-jafa ne kaisi jafa
   Jite ji tujhe paamaal kiya
-  Yuṅ dasht mein tum bikhre jaise
+  Yuṅ dasht meiṅ tum bikhre jaise
   Quraan ke paare Qasim
 
   6
@@ -66,7 +66,7 @@ romanLyrics: |-
   8
   Khairaat pe Shah-e-Zishaaṅ ki
   Rakh laaj Bilal o Irfaaṅ ki
-  Mehshar mein khare haiṅ ye donoṅ
+  Mehshar meiṅ khare haiṅ ye donoṅ
   Bas tere sahaare Qasim
 # source_id: nohayonline:6a4096d0e5c0791cca28
 # source_url: https://www.nohayonline.com/details_content.php?id=890

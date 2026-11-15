@@ -1,6 +1,6 @@
 ---
 title: "اکبر کا لہو شہ کی عبا تک پہنچ گیا"
-alternateTitle: "Akbar Ka Lahoo"
+alternateTitle: "Akbar Ka Lahu"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -15,7 +15,7 @@ romanLyrics: |-
   Dastar se wo maaṅ ki rida tak pahunch gaya
 
   1
-  Aise giri hai khaime mein Akbar ki laash par
+  Aise giri hai khaime meiṅ Akbar ki laash par
   Zainab ka khun khaak-e-shifa tak pahunch gaya
 
   2
@@ -23,15 +23,15 @@ romanLyrics: |-
   Zalim ka haath meri rida tak pahunch gaya
 
   3
-  Awaaz ran se aai ke Baba main gir para
+  Awaaz ran se aai ke Baba maiṅ gir para
   Girta hua Husain sada tak pahunch gaya
 
   4
-  Sine mein neza tor ke kehta tha ye laiṅ
+  Sine meiṅ neza tor ke kehta tha ye laiṅ
   Dekho Husain apni qaza tak pahunch gaya
 
   5
-  Maula zaif ho gaya kuchh der mein magar
+  Maula zaif ho gaya kuchh der meiṅ magar
   Akbar ka lasha Aal-e-Aba tak pahunch gaya
 
   6

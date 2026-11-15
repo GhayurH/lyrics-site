@@ -18,22 +18,22 @@ romanLyrics: |-
   Nabi ki aal pe ye waqt mushkilaat ka hai
 
   1
-  Lahu mein dub ke ham to hue haiṅ sarfaraaz
+  Lahu meiṅ dub ke ham to hue haiṅ sarfaraaz
   Hasan tamaam karaao namaaziyoṅ ki namaaz
   Khayaal kitna imaamat ko waajibaat ka hai
 
   2
-  Qayaamat ek bapa ho rahi hai masjid mein
-  Ke jaanamaaz-e-Ali ro rahi hai masjid mein
+  Qayaamat ek bapa ho rahi hai masjid meiṅ
+  Ke jaanamaaz-e-Ali ro rahi hai masjid meiṅ
   Sahar tarapti hai chehra nidhaal raat ka hai
 
   3
   Ye kaisa haaye sitamgar ne zulm dhaaya hai
-  Isi ka masjid-e-Kufa mein khun bahaaya hai
+  Isi ka masjid-e-Kufa meiṅ khuṅ bahaaya hai
   Qadam qadam pe muhaafiz wo diniyaat ka hai
 
   4
-  Ye keh ke dete haiṅ Maula pisar ke haath mein haath
+  Ye keh ke dete haiṅ Maula pisar ke haath meiṅ haath
   Na chhorna kabhi Abbaas tum Husain ka saath
   Ye mera laal asaasa Nabi ki zaat ka hai
 
@@ -43,18 +43,18 @@ romanLyrics: |-
   Gila nasib se beaasra hayaat ka hai
 
   6
-  Hasan Husain tarapte haiṅ baap ke gham mein
-  Sharik Hazrat-e-Abbaas bhi hai maatam mein
+  Hasan Husain tarapte haiṅ baap ke gham meiṅ
+  Sharik Hazrat-e-Abbaas bhi hai maatam meiṅ
   Malaal sab ko yatimi ke haadisaat ka hai
 
   7
   Nikal raha hai Nabi ke wazir ka taabut
   Ke uth raha hai Janaab-e-Amir ka taabut
-  Ali ke sog mein Kufa tasawwuraat ka hai
+  Ali ke sog meiṅ Kufa tasawwuraat ka hai
 
   8
   Tarap rahe haiṅ Payambar bhi Aamir o Akhtar
-  Zamin pe chhaai hui hai udaasiyaaṅ ghar ghar
+  Zamiṅ pe chhaai hui hai udaasiyaaṅ ghar ghar
   Ye din muhaafiz-e-isam ki wafaat ka hai
 # source_id: nohayonline:3c340821801ce470e4f6
 # source_url: https://www.nohayonline.com/details_content.php?id=1809

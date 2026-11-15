@@ -11,27 +11,27 @@ aliases: []
 published: true
 romanLyrics: |-
   Baba tere baghair bhala kaise jiyuṅ gi
-  Tanha rahuṅ gi qaid mein zindaaṅ mein maruṅ gi
+  Tanha rahuṅ gi qaid meiṅ zindaaṅ meiṅ maruṅ gi
 
   1
   Roti hui behna ko chacha chhor na jaana
   Ye aakhri rishta bhi kahiṅ tor na jaana
-  Paani ke liye aap se ab main na kahuṅ gi
+  Paani ke liye aap se ab maiṅ na kahuṅ gi
 
   2
   Baba ko dekhti thi to aate the nazar tir
-  Ek pal mein Sakina se juda ho gaye Shabbir
+  Ek pal meiṅ Sakina se juda ho gaye Shabbir
   Sine se laga lo mujhe ab kis se kahuṅ gi
 
   3
   Guzre gi kis tarah se meri shaam-e-gharibaaṅ
-  Asghar ko sada duṅ gi main laashoṅ ke darmiyaaṅ
-  Haathoṅ mein hoga paani magar main na piyuṅ gi
+  Asghar ko sada duṅ gi maiṅ laashoṅ ke darmiyaaṅ
+  Haathoṅ meiṅ hoga paani magar maiṅ na piyuṅ gi
 
   4
-  Main Aal-e-Muhammad ka huṅ anmol nagina
+  Maiṅ Aal-e-Muhammad ka huṅ anmol nagina
   Rakha hai aap hi ne mera naam Sakina
-  Ab qaidi saghiroṅ ki main saalaar banuṅ gi
+  Ab qaidi saghiroṅ ki maiṅ saalaar banuṅ gi
 
   5
   Tasvir-e-Payambar ki dikha kiuṅ nahiṅ dete
@@ -39,14 +39,14 @@ romanLyrics: |-
   Ye sadma-e-judaai ka bhala kaise sahuṅ gi
 
   6
-  Baba ka rasta rok ke raahoṅ mein khari hai
+  Baba ka rasta rok ke raahoṅ meiṅ khari hai
   Maasum Sakina pe qayaamat ki ghari hai
   Ro ro ke ye kehti hai ke jaane nahiṅ duṅ gi
 
   7
   Hai bhir qayaamat ki pattharoṅ ki hai barsaat
-  Main haath uthaauṅ to mit jaaye kaainaat
-  Ye baddua jahaaṅ ke liye main na karuṅ gi
+  Maiṅ haath uthaauṅ to mit jaaye kaainaat
+  Ye baddua jahaaṅ ke liye maiṅ na karuṅ gi
 
   8
   Khaime bhi jala daale jala daale haiṅ Quraaṅ
