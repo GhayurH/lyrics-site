@@ -26,9 +26,9 @@ The original `audit/manual-md-review-tracker.csv` records all thirteen round-one
 ## Language-specific editions (2026-11-15)
 
 - Manually added four stanza-aligned Roman Balti blocks in `abbas-alamdar-balti.md`; original Balti untouched. Source pronunciations still require a native-speaker verification (partial review).
-- Manually reformatted the existing Roman-only Panjabi source `uth-nana-mere-dard-wandaa-main-veer-kuha-k-ai-han.md` to five numbered three-verse sections, corrected language to Panjabi/pa, and kept noUrdu. Uncertain original phonetics require source/audio review.
+- Manually wrote the complete **Shahmukhi Panjabi** edition of `uth-nana-mere-dard-wandaa-main-veer-kuha-k-ai-han.md` (opening couplet and five numbered triplets). The previous Roman text is preserved unchanged under `romanLyrics` and the script editions align line by line. Language remains Panjabi/pa, direction is now rtl, and the obsolete noUrdu tag was removed. Uncertain phonetic source words remain partial_review pending speaker/audio verification.
 - Confirmed `heart-of-hussain.md`, `karbala-karbala-english.md`, and `the-one-and-only-hussain.md` were already correctly marked English/en/ltr. No Roman Urdu edition is expected: English is now exempt from Roman Urdu source lint and normalization, without weakening generic text checks or adding noRoman tags.
-- The Roman Urdu normalizer now also leaves Balti and Panjabi native editions untouched. Readers distinguish English native originals, Latin-script Panjabi and two-script Balti without mislabelling English as Roman Urdu. Targeted tests use these five actual files.
+- The Roman Urdu normalizer now also leaves Balti and Panjabi native editions untouched. Readers distinguish English native originals and bilingual Shahmukhi/Roman Panjabi and Balti without mislabelling English as Roman Urdu. Targeted tests use these five actual files.
 - The older unrelated full-corpus source-check blockers remain open.
 
 ## Metadata and stanza preparation
