@@ -1,52 +1,53 @@
 ---
 title: "وہاں پہ روتا ہے خوں اب بھی آسمان حسین"
-alternateTitle: "Wahan Pe Rota Hai"
+alternateTitle: "Wahaaṅ Pe Rota Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
+reciter: "Rizwan Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Wahan pe rota hai khoon ab bhi aasman hussain
-  Jahan pe loota gaya tera karwan hussain
+  Wahaaṅ pe rota hai khuṅ ab bhi aasmaan Husain
+  Jahaaṅ pe luta gaya tera kaarwaan Husain
 
   1
-  Lagi thi seena e akbar pe jis jagah barchi
-  Jahan pe doob gayi khoon may shabihe nabi
-  Jahan pe qatl hua tera naujawan hussain
+  Lagi thi sina-e-Akbar pe jis jagah barchhi
+  Jahaaṅ pe dub gayi khun mein shabih-e-Nabi
+  Jahaaṅ pe qatl hua tera naujawaan Husain
 
   2
-  Jahan pe pyaas se baysheer tera rota raha
-  Jahan pe nanhe mujahid ke teer maara gaya
-  Jahan pe khat'a hua tha tera bayan hussain
+  Jahaaṅ pe pyaas se be shir tera rota raha
+  Jahaaṅ pe nanhe mujaahid ke tir maara gaya
+  Jahaaṅ pe qata hua tha tera bayaan Husain
 
   3
-  Jahan huwe thay tere bhai ke qalam baazu
-  Jahan kiya tha alamdaar ne lahoo se wuzoo
-  Jahan huwa tha tera sher neem jaan hussain
+  Jahaaṅ hue the tere bhaai ke qalam baazu
+  Jahaaṅ kiya tha alamdaar ne lahu se wuzu
+  Jahaaṅ hua tha tera sher nim jaan Husain
 
   4
-  Jahan pe tukdon may bikhra hua tha ek dulha
-  Jahan pe sehra pada kar raha tha wavaila
-  Jahan ujad gaya kubra ka kul jahan hussain
+  Jahaaṅ pe tukroṅ mein bikhra hua tha ik dulha
+  Jahaaṅ pe sehra para kar raha tha waawaila
+  Jahaaṅ ujar gaya Kubra ka kul jahaan Husain
 
   5
-  Jahan pe khatm hua tha hussain tera safar
-  Jahan pe khusk galay par tera chala khanjar
-  Jahan mitaya gaya tha tera nishan hussain
+  Jahaaṅ pe khatm hua tha Husain tera safar
+  Jahaaṅ pe khushk gale par tere chala khanjar
+  Jahaaṅ mitaaya gaya tha tera nishaan Husain
 
   6
-  Jahan pe koi na tha aasra ghareebon ka
-  Jahan pe chin gayi saydaniyo ke sar se rida
-  Jahan tha nauha kuna tera khandan hussain
+  Jahaaṅ pe koi na tha aasra ghariboṅ ka
+  Jahaaṅ pe chhin gayi sayyidaaniyoṅ ke sar se rida
+  Jahaaṅ tha nauha kunaaṅ tera khaandaan Husain
 
   7
-  Jahan pe gohar e gham tashna lab thay sehme huwe
-  Jahan tamache lagay thay teri sakina ke
-  Tere yateem jahan par thay be-amaan hussain
+  Jahaaṅ pe Gohar-e-gham tashna lab the sehme hue
+  Jahaaṅ tamaanche lage the teri Sakina ke
+  Tere yatim jahaaṅ par the be amaan Husain
 # source_id: nohayonline:9fd172f8170ed85acfda
 # source_url: https://www.nohayonline.com/details_content.php?id=1146
 # raw_sha256: 8ddaef1717e6995d2ddb7bbfcf92c09e274e6700c4784bfcf9205f3736800c5a

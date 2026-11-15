@@ -1,45 +1,46 @@
 ---
 title: "وفا شناس نہیں رب وفا ہے عباس"
-alternateTitle: "Wafa Shanas Nahi"
+alternateTitle: "Wafa Shanaas Nahiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Salamat Feroz"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Wafa shanas nahi rabb e wafa hai abbas
-  Dua e zahra ka anmol sila hai abbas
+  Wafa shanaas nahiṅ Rabb-e-Wafa hai Abbas
+  Duaa-e-Zahra ka anmol sila hai Abbas
 
   1
-  Ye koi zainab o kulsoom ke dil se pooche
-  Ye un ke waaste is dehr mein kya hai abbas
+  Ye koi Zainab o Kulsum ke dil se puchhe
+  Ye un ke waaste is dehr mein kya hai Abbas
 
   2
-  Sina ki nok pe tatheer nazar aane lagi
-  Kata ke baazu junhi ran mein gira hai abbas
+  Sinaaṅ ki nok pe tathir nazar aane lagi
+  Kataa ke baazu junhi ran mein gira hai Abbas
 
   3
-  Jabeen e maadar e hasnain ke sajdon ke tufail
-  Ali ki betiyon ko naaz mila hai abbas
+  Jabin-e-maadar-e-Hasnain ke sajdoṅ ke tufail
+  Ali ki betiyoṅ ko naaz mila hai Abbas
 
   4
-  Kyun chalte chalte qadam ruk gaye hai zainab ke
-  Kya is ko noke sina pe nahi dikha hai abbas
+  Kiuṅ chalte chalte qadam ruk gaye hai Zainab ke
+  Kya is ko nok-e-sinaaṅ pe nahiṅ dikha hai Abbas
 
   5
-  Wo kyun na iski zindagi ki duayein maange
-  Badi muraadon se zainab ko mila hai abbas
+  Wo kiuṅ na is ki zindagi ki duaaeṅ maange
+  Bari muraadoṅ se Zainab ko mila hai Abbas
 
   6
-  Tu apni doobti nafzon ko to sambhal zara
-  Faraat teri taraf aaj badha hai abbas
+  Tu apni dubti nafzoṅ ko to sambhaal zara
+  Furaat teri taraf aaj barha hai Abbas
 
   7
-  Duayein maang salamat usi ke sadqe mein
-  Zara to soch ke zahra ki dua hai abbas
+  Duaaeṅ maang Salamat usi ke sadqe mein
+  Zara to soch ke Zahra ki dua hai Abbas
 # source_id: nohayonline:c6610295806c9826e1e6
 # source_url: https://www.nohayonline.com/details_content.php?id=3246
 # raw_sha256: 76959aa076796584e596f1d67852c109ad902916a900de5adbe38c71e9fcc03d
@@ -60,7 +61,7 @@ romanLyrics: |-
 علی کی بیٹی کو ناز ملا ہے عباس
 
 ۴
-کیوں چلتے چلتے قدم رک گےء ہے زینب کے
+کیوں چلتے چلتے قدم رک گئے ہے زینب کے
 کیا اس کو نوکِ سناں پہ نہیں دکھا عباس
 
 ۵
@@ -68,9 +69,9 @@ romanLyrics: |-
 بڑی مرادوں سے زینب کو ملا ہے عباس
 
 ۶
-تو اپنی ڈوبتی نفسوں کو تو سنبھال زرا
+تو اپنی ڈوبتی نفسوں کو تو سنبھال ذرا
 فرات تیری طرف آج بڑھا ہے عباس
 
 ۷
 دعائیں مانگ سلامت اسی کے صدقے میں
-زرا تو سوچ کے زہرا کی دعا ہے عباس
+ذرا تو سوچ کے زہرا کی دعا ہے عباس
