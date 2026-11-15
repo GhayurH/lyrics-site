@@ -11,43 +11,43 @@ tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ho tasavvur aur ghame shabbir ho
-  Haath ho seene pe zehn pa baysheer ho
-  Ashk e gham mein kabhi tankeed ki parwa na karo
-  Sada e girya ho yaade shahe dilgeer ho
+  Ho tasawwur aur gham-e-Shabbir ho
+  Haath ho sine pe zehn pe beshir ho
+  Ashk-e-gham mein kabhi tankid ki parwa na karo
+  Sada-e-girya ho yaad-e-Shah-e-dilgir ho
 
-  Fatema zehra ke bachon par bahao aansu
-  Aah bhar ke ghame sarwar par bahao aansu
+  Fatema Zehra ke bachchoṅ par bahaao aansuṅ
+  Aah bhar ke gham-e-Sarwar par bahaao aansuṅ
 
   1
-  Wo san e iksat hijri aur bala ka manzar
-  Chaar jaanib thay darinde aur wo tanha sarwar
-  Yaad e mazloomi e sarwar par bahao aansu
+  Wo sana iksath hijri aur bala ka manzar
+  Chaar jaanib the darinde aur wo tanha Sarwar
+  Yaad-e-mazlumi-e-Sarwar par bahaao aansuṅ
 
   2
-  Zaeef kaandhe pe laash tha jawan ka logon
-  Aur dile zainab e muztar ka tadapna logon
-  Har nafas ghurbat e sarwar par bahao aansu
+  Zaif kaandhe pe laash tha jawaaṅ ka logoṅ
+  Aur dil-e-Zainab-e-muztar ka tarapna logoṅ
+  Har nafas ghurbat-e-Sarwar par bahaao aansuṅ
 
   3
-  Maut ka darr na karo tum ho azadar e hussain
-  Tumko deti hai dua azadar e hussain
-  Bhool kar khauf e waba sheh par bahao aansu
+  Maut ka dar na karo tum ho azadaar-e-Husain
+  Tum ko deti hai dua azadaar-e-Husain
+  Bhul kar khauf-e-waba Shah par bahaao aansuṅ
 
   4
-  Apne maa behno se karta hoo guzarish is dam
-  Berida hoke kabhi tum na manana ye gham
-  Khastatan saani e zehra par bahao aansu
+  Apne maaṅ behnoṅ se karta huṅ guzaarish is dam
+  Berida ho ke kabhi tum na manaana ye gham
+  Khasta tan saani-e-Zehra par bahaao aansuṅ
 
   5
-  Ho moharram ko tasavvur mein faqad ho sarwar
-  Na siyasat ho zara dil mein faqad ho sarwar
-  Khuloos e dil se shaheedon par bahao aansu
+  Ho Muharram ko tasawwur mein faqat ho Sarwar
+  Na siyaasat ho zara dil mein faqat ho Sarwar
+  Khulus-e-dil se shahidoṅ pe bahaao aansuṅ
 
   6
-  Nauha jo tu ne likha aazam jaza o ahsan
-  Khatra jo aansu ke nikle hai bane wo marham
-  Soch kar zakhmi shahe deen par bahao aansu
+  Noha jo tu ne likha Azam jaza o ahsaaṅ
+  Khatra jo aansuṅ ke nikle haiṅ bane wo marham
+  Soch kar zakhmi Shah-e-diṅ par bahaao aansuṅ
 # source_id: nohayonline:1adf9722c78d33a18717
 # source_url: https://www.nohayonline.com/details_content.php?id=1471
 # raw_sha256: 0d42a0c8b9e9aa46c20eecf38d71e90bf044e37ff222f2e0a9ca0d96f040ad8c
