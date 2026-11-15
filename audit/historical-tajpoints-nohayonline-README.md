@@ -15,11 +15,11 @@ This is an **unpublished source review branch** targeting `feat/import-overlap-r
 | Status | Source IDs | Interpretation |
 | --- | ---: | --- |
 | `unreviewed` | 362 | No user decision; never infer permission to import or delete |
-| `pending_manual_dedup` | 1056 | User has classified the language/lyrics, but source-to-canonical reconciliation remains |
+| `pending_manual_dedup` | 1053 | User has classified the language/lyrics, but source-to-canonical reconciliation remains |
 | `no_lyrics` | 136 | User-approved exclusions; no lyric Markdown; archive snapshots retained |
 | `duplicate_source` | 9 | Identical earlier source readings linked to retained edition |
-| `consolidated_other_branch` | 25 | Canonical kalam retained on `chore/remaining-5294-kalams-2026-11-14` with source IDs and hashes added there |
-| `consolidated_existing` | 51 | Fully or substantially matched to a pre-existing Markdown, retained and linked |
+| `consolidated_other_branch` | 26 | Canonical kalam retained on `chore/remaining-5294-kalams-2026-11-14` with source IDs and hashes added there |
+| `consolidated_existing` | 53 | Fully or substantially matched to a pre-existing Markdown, retained and linked |
 | `unpublished_source_draft` | 78 | New poem file staged from an explicitly approved lyric source; editorial work pending |
 | `consolidated_new_draft` | 31 | Ten duplicate pairs merged into ten newly staged canonical files |
 | `excluded_user` | 1 | User requested exclusion without identifying duplicate or no-lyric reason; no lyric draft created |
@@ -63,7 +63,7 @@ The initial source-identity manifest contains **109 TajPoints/NoHayOnline record
 
 ## Remaining manual work
 
-**1,056 individually classified NohaWriteups sources** still need full comparisons against every relevant existing lyric edition, and **0 blank CSV records** have no classification yet. After deduplication, remaining valid poems need source-grounded stanza alignment, transliteration according to `docs/` conventions, Urdu completeness, metadata and original-source verification. No `published: false` draft has been automatically declared complete.
+**1,053 individually classified NohaWriteups sources** still need full comparisons against every relevant existing lyric edition, and **0 blank CSV records** have no classification yet. After deduplication, remaining valid poems need source-grounded stanza alignment, transliteration according to `docs/` conventions, Urdu completeness, metadata and original-source verification. No `published: false` draft has been automatically declared complete.
 
 Do not claim successful `npm run source:sync`, `npm run check`, or `npm run build` until the branch has actually been checked. The source archive in the import repository must remain untouched.
 
@@ -87,7 +87,7 @@ Eleven other source readings were newly linked with already complete bilingual p
 
 **Avoid false merges:** `Ay Mere Bhai Raza` differs from the similarly titled complete poem in this branch; `Aey Waey Nehr-e-Alqama` is *not* `Darya Behta Raha`; `Abhi Khanjar Na Chala` differs from the `Shimr Khanjar Na Chala` chore version; `Baba Teri Zahra Nu Ik Payshi Maar` is a different poem from `Teri Zahra Nu Tere Musalmana Maar Mukaya Aye`. Those individual records have source-supported notes but are still pending a full alternate-title search.
 
-**Outstanding:** 1,056 classified source IDs require full manual source-to-branch deduplication; 0 lack a user disposition. Existing remaining-branch imports often have incorrectly packed stanza groups; linking a source does **not** certify editorial completeness. No second NohaWriteups status tracker was generated. Builds/CI have not been run on unfinished source staging.
+**Outstanding:** 1,053 classified source IDs require full manual source-to-branch deduplication; 0 lack a user disposition. Existing remaining-branch imports often have incorrectly packed stanza groups; linking a source does **not** certify editorial completeness. No second NohaWriteups status tracker was generated. Builds/CI have not been run on unfinished source staging.
 
 
 ### Additional cross-branch pass (source-backed verification)
@@ -141,4 +141,13 @@ These seven source records are `consolidated_new_draft`, leaving **1,056** class
 - `paikan-baras-rahay-hai-taboot-pay-hassan-kai.md` newly staged from two matching six-stanza Roman originals. Text is especially corrupted and marked for manual language reconstruction before publication.
 - `so-rahe-hain-sab-mere-waali-o-dilbar-rait-par.md` newly staged from both six-stanza Roman sources, with the source's four-line preamble retained separately and its poet/reciter metadata recovered.
 
-All newly created drafts remain `published: false`, with user-supplied classification, full original provenance and explicit editorial caveats. The single status tracker now has **1,056** pending source records. Builds/CI have not been run on unfinished staging branches.
+All newly created drafts remain `published: false`, with user-supplied classification, full original provenance and explicit editorial caveats. The single status tracker now has **1,053** pending source records. Builds/CI have not been run on unfinished staging branches.
+
+
+### Three additional reviewed source records
+
+- `nohawriteups:cbe6973716de43964dc0`: six-stanza Roman source linked to existing eight-stanza bilingual published `maula-haq-imam.md`, preserving the fuller canonical.
+- `nohawriteups:b6379574a360f56459ef`: two complete source stanzas linked to bilingual `ye-kaunsi-mastoor-hai.md`.
+- `nohawriteups:7fc25480ca4e9ff2dc93`: original page is mislabeled `Shagan Manawan`; actual captured Urdu lyrics are the seven-stanza `Mera Akbar Maar Diya`. The real text, NOT the page-title or poet metadata, was merged with existing TajPoints Roman on the `chore/remaining-5294-kalams-2026-11-14` branch in the same canonical file.
+
+`nohawriteups:f1262a2bddc11a668f9f` remains pending because its source contains a photograph of lyrics, not machine-readable verse; identical title alone is insufficient evidence to delete the source without verifying the scan. **1,053** remain pending manual deduplication; no build or CI was run.

@@ -28,6 +28,10 @@ romanLyrics: |-
 # source_id: nohayonline:dfc5562e3fee34e2a9d7
 # source_url: https://www.nohayonline.com/details_content.php?id=1253
 # raw_sha256: d343ef621b321cd6454b737540ac7087b422bbfb3c6f9c3155efd8179f554544
+# additional_source_id: nohawriteups:b6379574a360f56459ef
+# additional_source_url: https://www.nohawriteups.org/yeh-kaun-si-mastoor-hai-kya-maang-rahi-hai/
+# additional_raw_sha256: f73390073ed02fb18d2281fee958098130b2f0ba4dca6f252d7e721dd9c727d9
+# additional_source_note: Original two-couplet Roman NohaWriteups source matches existing two-couplet bilingual poem; no extra verses found, original retained.
 ---
 یہ کونسی مستور ہے
 کیا مانگ رہی ہے

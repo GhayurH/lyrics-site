@@ -67,6 +67,10 @@ romanLyrics: |-
   pehre pe Zainab aagayi
   Abbas aur Akbar kahaṅ
   Maula haq imam....
+# additional_source_id: nohawriteups:cbe6973716de43964dc0
+# additional_source_url: https://www.nohawriteups.org/maula-haq-imam-ya-hassan-a-s/
+# additional_raw_sha256: eaf4ccc456870a2a9d671a6eabacc10e2ecbf612959169707b6aad32d1c23a7b
+# additional_source_note: Six substantive stanzas correspond to verses in the existing eight-stanza published bilingual canonical. Variant source wording in the Qasim and Abbas couplets not substituted for existing canonical.
 ---
 
 ۱
