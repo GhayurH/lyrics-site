@@ -6,89 +6,56 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Zulfiqar Ahmed"
+reciter: "Jawad ul Hasan"
 tags: ["noImage"]
 aliases: []
 published: false
-romanLyrics: 'Zuljana zuljana
-
+romanLyrics: |-
+  Zuljana Zuljana
 
   1
-
-  Mere baba ko tu chor aaya kahan
-
-  Roke karti thi nanhi sakina bayan
-
+  Mere baba ko tu chhor aaya kahaaṅ
+  Ro ke karti thi nanhi Sakina bayaaṅ
 
   2
-
-  Kyon hai balay kati kyon hai manka dhala
-
-  Tere jism pe hai khoon kis ka pada
-
-  Ye bata de mujhe hai kahan baba jaan
-
+  Kiuṅ hai baaleṅ kati kiuṅ manka dhala
+  Tere jism pe hai khuṅ kis ka para
+  Ye bata de mujhe hai kahaaṅ baba jaaṅ
 
   3
-
-  Lipti qadmo se mai de rahi thi sada
-
-  Mere baba ko maqtal may lekar na ja
-
-  Par na tune suni meri aaho buka
-
+  Lipti qadmoṅ se main de rahi thi sada
+  Mere baba ko maqtal mein le kar na ja
+  Par na tu ne suni meri aah o buka
 
   4
-
-  Ab na qasim raha aur na asghar mera
-
-  Chor kar chal diya bhai akbar mera
-
-  Koi kehde unhe hai ye waqte azan
-
+  Ab na Qasim raha aur na Asghar mera
+  Chhor kar chal diya bhaai Akbar mera
+  Koi keh de unheṅ hai ye waqt-e-azaaṅ
 
   5
-
-  Chin gayi hai rida ban gayi hai rasan
-
-  Ham huye hai giraftare ranjo mehan
-
-  Tapte sehra pe hai khoon bhara ek samaa
-
+  Chhin gayi hai rida ban gayi hai rasan
+  Ham hue haiṅ giraftaar-e-ranj o mehan
+  Tapte sehra pe hai khuṅ bhara ek sama
 
   6
-
   Laut aaya alam par na aaya chacha
-
-  Sogaya kyon tarayi pe ammu mera
-
-  Kya unhe hai khabar chin gayi baliyan
-
+  So gaya kiuṅ taraai pe ammuṅ mera
+  Kya unheṅ hai khabar chhin gayiṅ baaliyaaṅ
 
   7
-
-  Raahe purqaar se kis tarha hum chale
-
-  Bhai sajjad ko taaziyane lage
-
-  Tauq-o-zanjeer hai paon may bediyan
-
+  Raah-e-purkhaar se kis tarah ham chale
+  Bhaai Sajjad ko taaziyaane lage
+  Tauq o zanjir hai paaoṅ mein beriyaaṅ
 
   8
-
-  Chalti hai har taraf se siyah aandhiyan
-
-  Girti hai humpe kyon zulm ki bijliyan
-
-  Jalte qaimon se uth''ta hai dekho dhuan
-
+  Chalti haiṅ har taraf se siyaah aandhiyaaṅ
+  Girti haiṅ ham pe kiuṅ zulm ki bijliyaaṅ
+  Jalte khaimoṅ se uthta hai dekho dhuaaṅ
 
   9
-
-  Ho na paya rasan ye sakina ka gham
-
-  Hogayi haye ahmed ki aankhein bhi nam
-
-  Bas sunao hassan gham bhari daastan'
+  Ho na paaya raqam ye Sakina ka gham
+  Ho gayiṅ haaye Ahmed ki aankheṅ bhi nam
+  Bas sunaao Hasan gham bhari daastaaṅ
 # source_id: nohayonline:4052e966b8ec893c92d8
 # source_url: https://www.nohayonline.com/details_content.php?id=145
 # raw_sha256: 096c0eb80e786b93103943710a4ab0d90ed16069180ba7fddd4c7742ada0e5af
@@ -114,7 +81,7 @@ romanLyrics: 'Zuljana zuljana
 پر نہ تُو نے سُنی میری آہ و بُکا
 
 ۴
-اب نہ قاسم رہا اورنہ اصغر میرا
+اب نہ قاسم رہا اور نہ اصغر میرا
 چھوڑ کر چل دیا بھائی اکبر میرا
 کوئی کہہ دے اُنھیں ہے یہ وقتِ اذاں
 
@@ -126,12 +93,12 @@ romanLyrics: 'Zuljana zuljana
 ۶
 لوٹ آیا علم پر نہ آیا چچا
 سو گیا کیوں ترائی پہ عمّوں میرا
-کیا اُنھیں ہے خبر چھِن گئیںبالیاں
+کیا اُنھیں ہے خبر چھِن گئیں بالیاں
 
 ۷
 راہِ پُرخار سے کس طرح ہم چلے
 بھائی سجاد کو تعزیانے لگے
-طوق و زنجیر ہے پائوں میں بیڑیاں
+طوق و زنجیر ہے پاؤں میں بیڑیاں
 
 ۸
 چلتی ہیں ہر طرف سے سیاہ آندھیاں
@@ -141,4 +108,4 @@ romanLyrics: 'Zuljana zuljana
 ۹
 ہو نہ پایا رقم یہ سکینہ کا غم
 ہو گئیں ہائے احمد کی آنکھیں بھی نم
-بس سنائو حسن غم بھری داستاں
+بس سناؤ حسن غم بھری داستاں
