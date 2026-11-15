@@ -6,50 +6,53 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Kazmi Brothers"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ekkeesvi ramzan hai ashoor e moharam
-  Hota hai bapa hyder e karrar ka matam
-  Sar peet ke hasnain ne masjid mein pukara
-  Zaalim ne ali ko nahi maara hamay maara
+  Ikkiswiṅ Ramzaan hai Aashur-e-Muharram
+  Hota hai bapa Haidar-e-Karraar ka maatam
+
+  Sar pit ke Hasnain ne masjid mein pukaara
+  Zaalim ne Ali ko nahiṅ maara hameṅ maara
 
   1
-  Baba ka lahoo maahe mubarak mein bahaya
-  Zaalim ne hamay eid ke nazdeek rulaya
-  Sar sher e khuda ka hua masjid mein do paara
+  Baaba ka lahu maah-e-mubaarak mein bahaaya
+  Zaalim ne hameṅ Id ke nazdik rulaaya
+  Sar sher-e-Khuda ka hua masjid mein do paara
 
   2
-  Kis tarha se bin aap ke jee payegi zainab
-  Tanhaai se pardes mein mar jayegi zainab
-  Baba yun hamay chod ke jaayein na khudara
+  Kis tarah se bin aap ke ji paae gi Zainab
+  Tanhaai se pardes mein mar jaae gi Zainab
+  Baaba yuṅ hameṅ chhor ke jaaeṅ na Khudaara
 
   3
-  Jibreel sada deta hai sidra se tadap kar
-  Talwaar chali sajde mein damaad e nabi par
-  Ashoor sa hai masjid e kufa ka nazaara
+  Jibril sada deta hai Sidra se tarap kar
+  Talwaar chali sajde mein daamaad-e-Nabi par
+  Aashur sa hai masjid-e-Kufa ka nazaara
 
   4
-  Ek shor hai phir ujda hai sadaat ka kunba
-  Dunya se safar karta hai hasnain ka baba
-  Zahra ke yateemon pe qayamat hai dobara
+  Ik shor hai phir ujra hai Saadaat ka kunba
+  Duniya se safar karta hai Hasnain ka baaba
+  Zahra ke yatimoṅ pe qayaamat hai dobaara
 
   5
-  Maula ki khabar sunte hi mar jayenge bacche
-  Is aalame ghurbat mein kidhar jayenge bacche
-  Ab kaun hai kufe ke yateemon ka sahara
+  Maula ki khabar sunte hi mar jaaeṅ ge bachche
+  Is aalam-e-ghurbat mein kidhar jaaeṅ ge bachche
+  Ab kaun hai Kufe ke yatimoṅ ka sahaara
 
   6
-  Kya likhe takallum jo shahadat ka tha manzar
-  Band aankhein hui godh mein zainab ki raha sar
-  Khaalik ki taraf laut gaya maula hamara
+  Kya likhe Takallum jo shahaadat ka tha manzar
+  Band aankheṅ huiṅ god mein Zainab ki raha sar
+  Khaaliq ki taraf laut gaya Maula hamaara
 # source_id: nohayonline:3dbf6828225a2ab5ba4c
 # source_url: https://www.nohayonline.com/details_content.php?id=3385
 # raw_sha256: d144a0c30655c09da00d1695347625f2aa9ccde918f5f85ac94748acbb7250be
 ---
 اکیسویں رمضان ہے عاشور محرم
-ہوتا ہے بپا حیدر کرار کا‌ ماتم
+ہوتا ہے بپا حیدر کرار کا ماتم
+
 سر پیٹ کے حسنین نے مسجد میں پکارا
 ظالم نے علی کو نہیں مارا ہمیں مارا
 
@@ -59,12 +62,12 @@ romanLyrics: |-
 سر شیر خدا کا ہوا مسجد میں دو پارہ
 
 ۲
-کس طرح سے بن آپ کے جی پاے گی زینب
-تنہائی سے پردیس میں مر جاۓ گی زینب
-بابا یوں ہمیں چھوڑ کے جاییں نہ خدارا
+کس طرح سے بن آپ کے جی پائے گی زینب
+تنہائی سے پردیس میں مر جائے گی زینب
+بابا یوں ہمیں چھوڑ کے جائیں نہ خدارا
 
 ۳
-جبرییل صدا دیتا ہے صدرہ سے تڑپ کر
+جبریل صدا دیتا ہے سدرہ سے تڑپ کر
 تلوار چلی سجدے میں داماد نبی پر
 عاشور سا ہے مسجد کوفہ کا نظارہ
 
@@ -80,5 +83,5 @@ romanLyrics: |-
 
 ۶
 کیا لکھے تکلم جو شہادت کا تھا منظر
-بند آنکھیں ہوی گود میں زینب کی رہا سر
+بند آنکھیں ہوئیں گود میں زینب کی رہا سر
 خالق کی طرف لوٹ گیا مولا ہمارا

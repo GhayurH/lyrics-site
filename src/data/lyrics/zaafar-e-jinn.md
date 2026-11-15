@@ -1,102 +1,124 @@
 ---
 title: "غلام فاتح بیر العلم میں زعفر ہوں"
-alternateTitle: "Zaafar E Jinn"
+alternateTitle: "Zaafar-e-Jinn"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Salman Azmi"
+reciter: "Mesum Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ghulame faatah e beerul alam mai zaafar hoo
-  Qaum e jinnaat ka shaah e umam mai zaafar hoo
-  Khaas mujh par hai ali ka karam mai zaafar hoo
-  Aaj rota hoo magar thaam kar apna jigar
+  Ghulaam-e-Faateh-e-Bir-ul-Alam main Zaafar huṅ
+  Qaum-e-jinnaat ka shaah-e-umam main Zaafar huṅ
+  Khaas mujh par hai Ali ka karam main Zaafar huṅ
+  Aaj rota huṅ magar thaam kar apna jigar
   Dasht mein maara gaya mere aaqa ka pisar
-  Hai ye afsos mai maujood raha
-  Jaan maula pe fida kar na saka
-  Haye kuch kar na saka
-  Zaafar e jinn ana zaafar e jinn
+  Hai ye afsos main maujud raha
+  Jaan Maula pe fida kar na saka
+  Haae kuchh kar na saka
+  Zaafar-e-jinn ana Zaafar-e-jinn
 
   1
-  Suno mai tum ko batata hoo waqeya jo hua
-  Roze ashoor tha phaila hua tha raaj mera
+  Suno main tum ko bataata huṅ waaqia jo hua
+  Roz-e-Aashur tha phaila hua tha raaj mera
   Wo mere jashn ka din tha saja tha taaj mera
-  Do ghulamon ne mere aake kaha ay maalik
-  Jiske baba ke sabab taaj mila ay maalik
-  Qatl hota hai jo maalik hai tera ay malik
-  Hogaya hashr bapa taaj pairon mein gira
-  Apne lashkar ko liye mai chala karbobala
+  Do ghulaamoṅ ne mere aake kaha ae maalik
+  Jis ke baaba ke sabab taaj mila ae maalik
+  Qatl hota hai jo maalik hai tera ae maalik
+  Ho gaya hashr bapa taaj pairoṅ mein gira
+  Apne lashkar ko liye main chala Karb o Bala
+  Hai ye afsos main maujud raha
+  Jaan Maula pe fida kar na saka
+  Haae kuchh kar na saka
+  Zaafar-e-jinn ana Zaafar-e-jinn
 
   2
-  Meri parwaaz hui shehre musayyab pe tamaam
-  Mujhko taa hadhe nazar aaya nazar lashkar e shaam
-  Mai badha aage ke miljaye mujhe mere imam
-  Ruk gaye mere qadam uk gaye mere qadam
-  Jahan shabbir ko insanon ne tanha dekha
-  Meri aankhon ne wahan laakhon ka majma dekha
-  Ambiya bhi thay malayik thay ya jinnaat thay khade
-  Aisi noorani bashar thay ke nazar na tehre
-  Ek jaanib thay rasool e arabi
-  Ek jaanib thay ali
-  Ek jaanib thay hassan ibne ali
-  Phir na aankhon ko mere taab rahi
-  Maine zehra ki sawari dekhi
-  Apni nazron ko jhuka kar jo hataya peeche
-  Nabi adam nabi musa nabi haroon dikhe
-  Eesa o yusuf o yaqub bhi pehlu mein mile
-  Hood aur looth kahin nooh kahin khizr kahin
-  Zikriya yarmiya aur shees o sulaiman bhi thay
-  Muqtasir ye ke nabi saare wahan thay maujood
-  Unke peeche thi malayik ki qatarein maujood
-  Farishtegaan e jahannum farishtegaan e bahisht
-  Israeel israfeel mikaeel dardaeel
-  Rizwan aur maalik fitrus wa jibraeel
-  Saath shabbir ke maujood thay sab aali muqaam
-  Maine socha ke kahan jaaye bhala adna ghulam
-  Mujhko pehchan bhi paaye ya nahi mere imam
-  Haaye umeed meri dil mein murjhane lagi
-  Ke achanak se wahan ye sada aane lagi
-  Aao zaafar aao zaafar
-  Aao zaafar tumhe shabbir ne bulwaya hai
+  Meri parwaaz hui shahr-e-Musayyab pe tamaam
+  Mujh ko taa hadd-e-nazar aaya nazar lashkar-e-Shaam
+  Main barha aage ke mil jaae mujhe mere Imaam
+  Ruk gae mere qadam ruk gae mere qadam
+  Jahaaṅ Shabbir ko insaanoṅ ne tanha dekha
+  Meri aankhoṅ ne wahaaṅ laakhoṅ ka majma dekha
+  Ambiya bhi the malaaik the ya jinnaat the khare
+  Aisi nuraani bashar the ke nazar na thahre
+  Ek jaanib the Rasul-e-Arabi
+  Ek jaanib the Ali
+  Ek jaanib the Hasan ibn-e-Ali
+  Phir na aankhoṅ ko mere taab rahi
+  Main ne Zehra ki sawaari dekhi
+  Apni nazroṅ ko jhuka kar jo hataaya pichhe
+  Nabi Aadam Nabi Musa Nabi Haarun dikhe
+  Isa o Yusuf o Yaaqub bhi pahlu mein mile
+  Hud aur Lut kahiṅ Nuh kahiṅ Khizr kahiṅ
+  Zikriya Yarmiyaṅ aur Shis o Sulaimaan bhi the
+  Mukhtasar ye ke Nabi saare wahaaṅ the maujud
+  Un ke pichhe thi malaaik ki qataareṅ maujud
+  Farishtegaan-e-jahannum farishtegaan-e-bahisht
+  Israail Israafil Mikaail Dardaail
+  Rizwaan aur Maalik Fitrus wa Jibraail
+  Saath Shabbir ke maujud the sab aali maqaam
+  Main ne socha ke kahaaṅ jaae bhala adna ghulaam
+  Mujh ko pahchaan bhi paae ya nahiṅ mere Imaam
+  Haae ummid meri dil mein murjhaane lagi
+  Ke achaanak se wahaaṅ ye sada aane lagi
+  Aao Zaafar aao Zaafar
+  Aao Zaafar tumheṅ Shabbir ne bulwaaya hai
+  Zaafar-e-jinn ana Zaafar-e-jinn
 
   3
-  Pahuncha qadmon mein kaha maula shahe jinn o bashar
-  Ho salaam aap pe is jinn ka shahe jinn o bashar
-  Hukm pe aap ke hoo fidya shahe jinn o bashar
-  Dil mera doob gaya jab ye maula ne kaha
-  Tum palat jao agar hone aaye ho fida
+  Pahuncha qadmoṅ mein kaha Maula shah-e-jinn o bashar
+  Ho salaam aap pe is jinn ka shah-e-jinn o bashar
+  Hukm pe aap ke huṅ fidya shah-e-jinn o bashar
+  Dil mera dub gaya jab ye Maula ne kaha
+  Tum palat jaao agar hone aae ho fida
+  Hai ye afsos main maujud raha
+  Jaan Maula pe fida kar na saka
+  Haae kuchh kar na saka
+  Zaafar-e-jinn ana Zaafar-e-jinn
 
   4
-  Maine maula se kaha izn mujhe dein shahe deen
-  Bole shabbir ye jinnaat ki hai jang nahi
-  Mai ye bola kahan insan hai darinde sabhi
-  Bole shabbir ke nana ki ye ummat hai meri
-  Inhe tum kuch na kaho inhe tum kuch na kaho
-  Tum hi batlao jiyun kaise bhala mai zaafar
-  Aao dikhlaun tumhe karbobala mai zaafar
-  Jaanisaaron ke janaze dekho
-  Mere pyaron ke ye laashe dekho
-  Tukde qasim ka saraapa dekho
-  Zakhmi akbar ka kaleja dekho
-  Kahin abbas ke baazu kahin asghar ka gulu
-  Ran mein bikhra hai sabhi bani hashim ka lahoo
+  Main ne Maula se kaha izn mujhe deṅ shah-e-diṅ
+  Bole Shabbir ye jinnaat ki hai jang nahiṅ
+  Main ye bola kahaaṅ insaan hai darinde sabhi
+  Bole Shabbir ke naana ki ye ummat hai meri
+  Inheṅ tum kuchh na kaho inheṅ tum kuchh na kaho
+  Tum hi batlaao jiuṅ kaise bhala main Zaafar
+  Aao dikhlaauṅ tumheṅ Karb o Bala main Zaafar
+  Jaannisaaroṅ ke janaaze dekho
+  Mere pyaaroṅ ke ye laashe dekho
+  Tukre Qaasim ka saraapa dekho
+  Zakhmi Akbar ka kaleja dekho
+  Kahiṅ Abbaas ke baazu kahiṅ Asghar ka gulu
+  Ran mein bikhra hai sabhi Bani Haashim ka lahu
+  Hai ye afsos main maujud raha
+  Jaan Maula pe fida kar na saka
+  Haae kuchh kar na saka
+  Zaafar-e-jinn ana Zaafar-e-jinn
 
   5
-  Dil ko ab taab nahi phatne laga hai ye jigar
-  Is se aage mai bayan kar nahi sakta manzar
-  Muqtasir ye ke huwe qatl shahe jinn o bashar
-  Waada abid se kiya mai hoo masroof e aza
-  Jab talak zinda raha mai karunga girya
+  Dil ko ab taab nahiṅ phatne laga hai ye jigar
+  Is se aage main bayaaṅ kar nahiṅ sakta manzar
+  Mukhtasar ye ke hue qatl shah-e-jinn o bashar
+  Waada Aabid se kiya main huṅ masruf-e-aza
+  Jab talak zinda raha main karuṅ ga girya
+  Hai ye afsos main maujud raha
+  Jaan Maula pe fida kar na saka
+  Haae kuchh kar na saka
+  Zaafar-e-jinn ana Zaafar-e-jinn
 
   6
-  Tha yahi mesum o salman kalaam e zaafar
-  Karbala mein hai jahan dafn imam e zaafar
-  Us se kuch door hai maujood muqaam e zaafar
-  Zaafar e jinn ne kiya apne waade ko wafa
-  Aakhri saans talak thi labon par ye sada
+  Tha yahi Maisam o Salmaan kalaam-e-Zaafar
+  Karbala mein hai jahaaṅ dafn Imaam-e-Zaafar
+  Us se kuchh dur hai maujud maqaam-e-Zaafar
+  Zaafar-e-jinn ne kiya apne waade ko wafa
+  Aakhri saaṅs talak thi laboṅ par ye sada
+  Hai ye afsos main maujud raha
+  Jaan Maula pe fida kar na saka
+  Haae kuchh kar na saka
+  Zaafar-e-jinn ana Zaafar-e-jinn
 # source_id: nohayonline:3b2707f66d09984bfffe
 # source_url: https://www.nohayonline.com/details_content.php?id=2541
 # raw_sha256: 952cb238789a2aff7f375f5095b4ed04f2ebb66a2dd49e513858afb0abaa6e66
@@ -108,7 +130,7 @@ romanLyrics: |-
 دشت میں مارا گیا میرے آقا کا پسر
 ہے یہ افسوس میں موجود رہا
 جان مولا پہ فدا کر نہ سکا
-ہاے کچھ کر نہ سکا
+ہائے کچھ کر نہ سکا
 زعفر جن انا زعفر جن
 
 ۱
@@ -119,46 +141,55 @@ romanLyrics: |-
 جس کے بابا کے سبب تاج ملا اے مالک
 قتل ہوتا ہے جو مالک ہے تیرا اے مالک
 ہو گیا حشر بپا تاج پیروں میں گرا
-اپنے لشکر کو لیےء میں چلا کربوبلا
+اپنے لشکر کو لیے میں چلا کربوبلا
+ہے یہ افسوس میں موجود رہا
+جان مولا پہ فدا کر نہ سکا
+ہائے کچھ کر نہ سکا
+زعفر جن انا زعفر جن
 
 ۲
-میری پرواز ہوی شہر مصیب پہ تمام
+میری پرواز ہوئی شہر مصیب پہ تمام
 مجھکو تا حد نظر آیا نظر لشکر شام
-میں بڑھا آ گے کہ مل جاے مجھے میرے امام
-رک گےء میرے قدم رک گےء میرے قدم
+میں بڑھا آگے کہ مل جائے مجھے میرے امام
+رک گئے میرے قدم رک گئے میرے قدم
 جہاں شبیر کو انسانوں نے تنہا دیکھا
 میری آنکھوں نے وہاں لاکھوں کا مجمع دیکھا
 انبیاء بھی تھے ملایک تھے یا جنات تھے کھڑے
-ایسی نورانی بشر تھے کہ نظر نہ ٹہرے
+ایسی نورانی بشر تھے کہ نظر نہ ٹھہرے
 ایک جانب تھے رسول عربی
 ایک جانب تھے علی
 ایک جانب تھے حسن ابنِ علی
 پھر نہ آنکھوں کو میرے تاب رہی
 میں نے زہرا کی سواری دیکھی
 اپنی نظروں کو جھکا کر جو ہٹایا پیچھے
-نبی آدم نبی موسٰی نبی حارون دکھے
+نبی آدم نبی موسیٰ نبی ہارون دکھے
 عیسیٰ و یوسف و یعقوب بھی پہلو میں ملے
-ھود اور لوط کہیں نوح کہیں خضر کہیں
+ہود اور لوط کہیں نوح کہیں خضر کہیں
 ذکریا یرمایاں اور شیس و سلیمان بھی تھے
 مختصر یہ کہ نبی سارے وہاں تھے موجود
-ان کے پیچھے تھی ملایک کی خطاریں موجود
+ان کے پیچھے تھی ملایک کی قطاریں موجود
 فرشتگان جہنم فرشتگان بہشت
-اسرائیل اسرافیل مکاییل درداییل
-رضوان اور مالک فطرس وا جبرییل
+اسرائیل اسرافیل میکائیل دردائیل
+رضوان اور مالک فطرس وا جبرائیل
 ساتھ شبیر کے موجود تھے سب عالی مقام
-میں نے سوچا کہ کہاں جاے بھلا ادنیٰ غلام
-مجھکو پہچان بھی پاے یا نہیں میرے امام
-ہاے امید میری دل میں مرجھانے لگی
+میں نے سوچا کہ کہاں جائے بھلا ادنیٰ غلام
+مجھکو پہچان بھی پائے یا نہیں میرے امام
+ہائے امید میری دل میں مرجھانے لگی
 کے اچانک سے وہاں یہ صدا آنے لگی
 آؤ زعفر آؤ زعفر
 آؤ زعفر تمہیں شبیر نے بلوایا ہے
+زعفر جن انا زعفر جن
 
 ۳
 پہنچا قدموں میں کہا مولا شہ جن و بشر
 ہو سلام آپ پہ اس جن کا شہ جن و بشر
 حکم پہ آپ کے ہو فدیہ شہ جن و بشر
 دل میرا ڈوب گیا جب یہ مولا نے کہا
-تم پلٹ جاؤ اگر ہونے آے ہو فدا
+تم پلٹ جاؤ اگر ہونے آئے ہو فدا
+ہے یہ افسوس میں موجود رہا
+جان مولا پہ فدا کر نہ سکا
+ہائے کچھ کر نہ سکا
+زعفر جن انا زعفر جن
 
 ۴
 میں نے مولا سے کہا اذن مجھے دیں شہ دیں
@@ -174,13 +205,21 @@ romanLyrics: |-
 زخمی اکبر کا کلیجہ دیکھو
 کہیں عباس کے بازو کہیں اصغر کا گلو
 رن میں بکھرا ہے سبھی بنی ہاشم کا لہو
+ہے یہ افسوس میں موجود رہا
+جان مولا پہ فدا کر نہ سکا
+ہائے کچھ کر نہ سکا
+زعفر جن انا زعفر جن
 
 ۵
 دل کو اب تاب نہیں پھٹنے لگا ہے یہ جگر
-اس سے آ گے میں بیاں کر نہیں سکتا منظر
-مختصر یہ کہ ہوے قتل شہ جن و بشر
+اس سے آگے میں بیاں کر نہیں سکتا منظر
+مختصر یہ کہ ہوئے قتل شہ جن و بشر
 وعدہ عابد سے کیا میں ہوں مصروف عزا
 جب تلک زندہ رہا میں کروں گا گریہ
+ہے یہ افسوس میں موجود رہا
+جان مولا پہ فدا کر نہ سکا
+ہائے کچھ کر نہ سکا
+زعفر جن انا زعفر جن
 
 ۶
 تھا یہی میثم و سلمان کلام زعفر
@@ -188,3 +227,7 @@ romanLyrics: |-
 اس سے کچھ دور ہے موجود امام زعفر
 زعفر جن نے کیا اپنے وعدے کو وفا
 آخری سانس تلک تھی لبوں پر یہ صدا
+ہے یہ افسوس میں موجود رہا
+جان مولا پہ فدا کر نہ سکا
+ہائے کچھ کر نہ سکا
+زعفر جن انا زعفر جن
