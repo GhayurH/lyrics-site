@@ -17,34 +17,34 @@ romanLyrics: |-
 
   Waasta hai shaam waali shaahzadi ka
   Aaiye maula aaiye maula
-  
+
   Aap ke haiṅ saath hum ko Karbala jaana
   Aaiye maula
-  
+
   1
   Sunnat-e-Sajjad aur Zainab ada karte hue
   Jayeṅge paidal Najaf se Karbala chalte hue
   Bas yehi armaan-e-dil hai har Husaini ka
   Aaiye maula
-  
+
   2
   Sar khule jisko phiraya shaam ke baazaar mein
   Haye wo jisko bulaya berida darbar mein
   Haaṅ usi Zainab ka aa kar lijiye pursa
   Aaiye maula
-  
+
   3
   Intezar ab bhi wo karti hai ke Akbar aayeṅge
   Aur mujhe bhi saath apne Karbala le jayeṅge
   Khatm ho ab intezar-e-Fatema Sughra
   Aaiye maula
-  
+
   4
   Aap ko us chhe mahine ke sipahi ki qasam
   Muskara kar jisne khaya halq par tir-e-sitam
   Chahiye phir din ko beshir ka sadqa
   Aaiye maula
-  
+
   5
   Aa bhi ja parda-e-ghaibat se zamane ke Imam
   Tujhse mimbar pe tere jadd ki kahani sun leṅ
@@ -56,7 +56,7 @@ romanLyrics: |-
   Ho gaye Mohsin shahid aur ghamzada Bibi huiṅ
   Dushman-e-Zehra se aa kar lijiye badla
   Aaiye maula
-  
+
   7
   Aap ko us chaar saala sayyeda ka waasta
   Jiske kaanoṅ se chhine gauhar lahu behta raha

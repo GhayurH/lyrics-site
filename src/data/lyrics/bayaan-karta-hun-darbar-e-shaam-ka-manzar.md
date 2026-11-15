@@ -13,26 +13,26 @@ romanLyrics: |-
   Jahaaṅ the saat sau kursi nashiṅ fitnagar
   Yazid jhum raha tha sharaab pi pi kar
   Aur aisi bazm mein afsos Aal-e-Payambar
-  
+
   Tha un ke saamne ek badkalaam mimbar par
   Bayaaṅ karta tha jhuthe Yazid ke jauhar
   Jab us ne khatm ki taqrir badkalami par
   Khatib-e-jahl se bole ye Aabid-e-muztar
-  
+
   Ke tu ne khush kiya makhluq ko zarur magar
   Kharida qahr-e-Khuda tu ne mukhtasar zar par
   Are jahaaṅ ho zikr-e-bad atwaar wo mimbar kab hai
   Lakriyoṅ ka hai wo anbaar wo mimbar kab hai
-  
+
   Kaha Yazid se kuch main kahuṅ ijaazat de
   Yazid chup tha to darbari saare kehne lage
   Yazid de de ijaazat ise bhi kehne de
   Ye kya kahega larazta hai jo naqahat se
-  
+
   Sambhaale tauq o rasan shaan-e-Kirdigaar aayi
   Imam aaye ke mimbar pe Zulfiqar aayi
   Ya Husain
-  
+
   Ana ibn-e-Makka o Mina
   Ana ibn-e-Zamzam o Safa
   Ana ibn-e-Ali o Fatima

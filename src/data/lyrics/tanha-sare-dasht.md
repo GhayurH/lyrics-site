@@ -13,61 +13,61 @@ published: false
 romanLyrics: |-
   Tanha sar-e-dasht-e-bala dar saf-e-aada
   Farzand-e-Nabi jaan o dil-e-Fatima Zehra
-  
+
   1
   Teghoṅ ki chamak gham ki ghata tiroṅ ki bauchhaar
   Uff mere imaamat hai sar-e-nargha-e-kuffaar
   Hai kaun jo mazlum ko de barh ke sahaara
   Farzand-e-Nabi jaan o dil-e-Fatima Zehra
-  
+
   2
   Jo quwwat-e-baazu hai juda ho gae mujh se
   Bhai hai mere paas na bete na bhatije
   Kis dil se karuṅ aah main jine ki tamanna
   Farzand-e-Nabi jaan o dil-e-Fatima Zehra
-  
+
   3
   Suraj hai sawa naize pe garmi hai hawa meiṅ
   Lagta hai ghuli aag hai maqtal ki faza meiṅ
   Ye hashr ka hangaam ye seh roz ka pyasa
   Farzand-e-Nabi jaan o dil-e-Fatima Zehra
-  
+
   4
   Is jism se maqtal ki sharar baar hawaaeṅ
   Takra ke nikal jaati hai us par hawaaeṅ
   Is tarah se tiroṅ ne mere jism ko chhera
   Farzand-e-Nabi jaan o dil-e-Fatima Zehra
-  
+
   5
   Zainab ko jo dekha to Shaah-e-dilgir pukaare
   Hontoṅ ke ishaare se ye Shabbir pukaare
   Bhai abhi zinda hai na niklo abhi behna
   Farzand-e-Nabi jaan o dil-e-Fatima Zehra
-  
+
   6
   Talwaar chalaata hai koi naiza o khanjar
   Kuch paas nahiṅ jin ke wo barsaate haiṅ patthar
   Sab jaan ke dushman haiṅ yahaaṅ kaun hai apna
   Farzand-e-Nabi jaan o dil-e-Fatima Zehra
-  
+
   7
   Sine pe sinaaṅ khaae hue soe haiṅ Akbar
   Paamaal sar-e-dasht hue Qasim-e-muztar
   Dam tor gae haathoṅ pe beshir hamaara
   Farzand-e-Nabi jaan o dil-e-Fatima Zehra
-  
+
   8
   Kalme haiṅ yehi tez hawaaeṅ ki zabaaṅ par
   Shabbir jalaate haiṅ charaaghoṅ ko jahaaṅ par
   Dekha gaya suraj ki bhi aankhoṅ meiṅ andhera
   Farzand-e-Nabi jaan o dil-e-Fatima Zehra
-  
+
   9
   Yuṅ dur watan se kisi jangal meiṅ Ilaahi
   Is tarah na aae kisi kunbe pe tabaahi
   Jis tarah se Maabud bhara ghar mera ujra
   Farzand-e-Nabi jaan o dil-e-Fatima Zehra
-  
+
   10
   Qismat jo kare rauza-e-mazlum pe haazir
   Paighaam-e-Bilal aaqa se keh dijiyo Aamir

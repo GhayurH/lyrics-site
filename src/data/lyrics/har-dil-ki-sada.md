@@ -22,43 +22,43 @@ romanLyrics: |-
   Dam tor de khud ibaadat jahaaṅ
   Is hausle par tere qurbaaṅ salle alaa
   Ya Husain ya Husain
-  
+
   2
   Aadam ke dam ke muhaafiz ho tum
   Musa ki haibat mein naafiz ho tum
   Isa ka tum maujiza tum Khizr ke rahnuma
   Ya Husain ya Husain
-  
+
   3
   Raushan tere nur se nuriṅ haiṅ
   Ghairat zada jalwa-e-Tur hai
   Khuṅ se tere ho gayi mitti bhi khaak-e-shifa
   Ya Husain ya Husain
-  
+
   4
   Yeh hausla to kisi mein nahiṅ
   Quwwat kisi yeh Nabi mein nahiṅ
   Tu ne uthaaye magar baazu-e-Shaah-e-Wafa
   Ya Husain ya Husain
-  
+
   5
   Tum ne sitam kis tarah se saha
   Tum ne yeh gham kis tarah se saha
   Laasha jawaan laal ka kaandhoṅ pe kaise rakha
   Ya Husain ya Husain
-  
+
   6
   Is gham mein kaaṅpe zamiṅ aasmaaṅ
   Is gham mein tarpe yeh kaun o makaaṅ
   Asghar ka tu ne lahu chehre pe kaise mala
   Ya Husain ya Husain
-  
+
   7
   Ran mein musibat yeh tum par pari
   Tum par qayaamat ki thi yeh ghari
   Khanjar tale haath jab maaṅ ne teri rakh diya
   Ya Husain ya Husain
-  
+
   8
   Aisi kisi ki bhi mayyat nahiṅ
   Yasir kisi ki yeh ghurbat nahiṅ

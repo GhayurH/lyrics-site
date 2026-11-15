@@ -13,62 +13,62 @@ published: false
 romanLyrics: |-
   Laut ke ghar aajao baba
   Aaj Sakina ho gayi tanha
-  
+
   1
   Baba ye maahol hai kaisa
   Zulm ka hai andaaz niraala
   Kaash chacha aa jaata mera
-  
+
   2
   Aao mujhe godi mein uthaa lo
   Baba mujhe sine se lagaa lo
   Khaak pe hai bechain Sakina
-  
+
   3
   Jaan bhi le le tashna dahaani
   Ab nahiṅ maanguṅ gi main paani
   Ammu se ye keh ke Khudaara
-  
+
   4
   Bhai Ali Akbar bhi khafa hai
   Mera chacha bhi ruth gaya hai
   Kaun mujhe ab dega dilaasa
-  
+
   5
   Kaise apna ji behlaauṅ
   Ab tak yuṅ hi ashk bahaauṅ
   Kis ko pukaaruṅ kaun hai mera
-  
+
   6
   Phail rahe haiṅ shaam ke saaye
   Chhaane lage har su andhiyaare
   Baba dil ghabraata hai mera
-  
+
   7
   Ab ye Sakina so nahiṅ sakti
   Gham mein musalsal ro nahiṅ sakti
   Mera bistar aap ka sina
-  
+
   8
   Dekho meri gardan mein rasan hai
   Durroṅ se sab zakhmi badan hai
   Chhin gaye gauhar jal gaya kurta
-  
+
   9
   Zaalim ne maare haiṅ tamaache
   Kaan haiṅ zakhmi soyuṅ main kaise
   Aao dekho haal hamaara
-  
+
   10
   Kehti thi ro ro ke Sakina
   Mushkil hai ab mera jina
   Aur na ab tarpaao baba
-  
+
   11
   Aane mein ab der na karna
   Dekho kehna maan lo mera
   Baba mar jaayegi Sakina
-  
+
   12
   Bain Rashid us Bibi ke sun kar
   Rote the paiham Aabid-e-Muztar

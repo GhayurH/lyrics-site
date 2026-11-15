@@ -13,51 +13,51 @@ published: false
 romanLyrics: |-
   Ae Ali Akbar zara pehchaan lo
   Ye to mere bhai ki awaaz hai
-  
+
   1
   Ya Ilaahi khair se darya pe ho
   Ye to mere bhai ki awaaz hai
-  
+
   2
   Tukre tukre dil hai is awaaz se
   Mujh ko milwa do mere hamraaz se
   Ghaur se beta Ali Akbar suno
-  
+
   3
   Do sahaara baap ko nur-e-nazar
   Is sada ne tor di meri kamar
   Dasht mein Naad-e-Ali parhte raho
-  
+
   4
   Maar daalega hameṅ bhai ka gham
   Kya nazar aata nahiṅ Akbar alam
   Kis liye khaamosh ho kuch to kaho
-  
+
   5
   Haaye wo bhi gir gaya ghore se lo
   Zainab o Kulsum ki dhaaras tha jo
   Jald us ke paas mujh ko le chalo
-  
+
   6
   Kaise uthega jawaaṅ bhai ka gham
   Larkharaate haiṅ Ali Akbar qadam
   Bad ke do beta sahaara baap ko
-  
+
   7
   Kat gaye lagta hai baazu sher ke
   Maar daala dushmanoṅ ne gher ke
   Der ho jaaye na ab jaldi karo
-  
+
   8
   Kiuṅ fazaa-e-Alqama ghamgin hai
   Khuṅ se saari zamiṅ rangin hai
   Aa rahi hai mustaqil darya se jo
-  
+
   9
   Muntazir hai nehr par bhai mera
   Raasta takta hai shaidaai mera
   Bas isi awaaz par barhte raho
-  
+
   10
   Aamir o Akhtar bala ka dard tha
   Sun kar ye awaaz chehra zard tha

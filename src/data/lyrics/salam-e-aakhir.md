@@ -13,55 +13,55 @@ published: false
 romanLyrics: |-
   Salam khaak nashinoṅ pe sogwaaroṅ ka
   Gharib dete haiṅ pursa tumhaare pyaaroṅ ka
-  
+
   1
   Salam un par jinheiṅ sharm khaaye jaati hai
   Khule saroṅ pe asiri ki khaak aati hai
   Salam un par jo zahmat kash-e-salaasil hai
   Musibatoṅ mein imaamat ki pehli manzil hai
-  
+
   2
   Salam bhejte haiṅ apni shahzaadi par
   Ke jis ko sauṅp gaye marte waqt ghar Sarwar
   Musaafirat ne jise bebasi ye dikhlaai
   Nisaar kar diye bachche na bach saka bhaai
-  
+
   3
   Asir ho ke jise Shaamiyoṅ ke narghe mein
   Husainiyat hai sikhaana Ali ke lehje mein
   Sakina Bibi tumhaare ghulaam haazir haiṅ
   Bujhe jo pyaas to ashkoṅ ke jaam haazir haiṅ
-  
+
   4
   Ye sin ye hashr ye sadme naye naye Bibi
   Kahaaṅ pe baithi ho khaime to jal gaye Bibi
   Pahaar raat bari der hai sawere mein
   Kahaaṅ ho shaam-e-gharibaaṅ ke ghup andhere mein
-  
+
   5
   Zamin hai garm yatimi ki sakhtiyaaṅ Bibi
   Wo sina ke jis pe soti thi ab kahaaṅ Bibi
   Janaab-e-maadar-e-beshir ko bhi sab ka salam
   Ajib waqt hai kya deiṅ tasalliyoṅ ka payaam
-  
+
   6
   Abhi kaleje mein ek aag si lagi hogi
   Abhi to god ki garmi na kam hui hogi
   Nahiṅ andhere mein kuch sujhta kahaaṅ dhunreiṅ
   Tumhaara chaand kahaaṅ chhup gaya kahaaṅ dhunreiṅ
-  
+
   7
   Na is tarah koi kheti hari bhari ujri
   Tumhaari maaṅg bhi ujri hai god bhi ujri
   Nahiṅ lainoṅ mein insaaṅ koi Khuda haafiz
   Darinde aur ye bewaarsi Khuda haafiz
-  
+
   8
   Sharik-e-haq-e-durud o salam-e-Paighambar
   Salam Sayyed-e-Laulaak ke lute ghar par
   Salam mohsin-e-Islam khasta tan laashoṅ
   Salam tum par shahidoṅ ke bekafan laashoṅ
-  
+
   9
   Salam tum par Rasul o Batul ke pyaaroṅ
   Salam mehr-e-shahaadat ke gird sayyaaroṅ

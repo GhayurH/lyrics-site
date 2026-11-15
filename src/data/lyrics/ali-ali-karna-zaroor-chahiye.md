@@ -18,11 +18,11 @@ published: false
 romanLyrics: |-
   Ali Ali karna zarur chahi da
   Sab nu eh dasna zarur chahi da
-  
+
   1
   Har ghari pal wich har mushkil
   Oh nara ehda lagna zarur chahi da
-  
+
   2
   Khaibari de wich vi Nabi ne aakhiya
   Bari mushkil aa ja vir mera
@@ -30,7 +30,7 @@ romanLyrics: |-
   Tere bina jang fatah ho nahiṅ sakdi
   Oh aa ja jaldi tu aa ja aa ke Khaibar ura
   Oh Khaibar aj urna zarur chahi da
-  
+
   3
   Allah da Wali jadoṅ Khaibar aaya
   Pak Nabi ne ghore tauṅ lahaya
@@ -38,7 +38,7 @@ romanLyrics: |-
   De ke alam Nabi farmaya
   Tuṅ Allah da Wali aeṅ nale mainda Wasi
   Oh Marhab marna zarur chahi da
-  
+
   4
   Bibi kaho Ghadeer ke Maula ko bhej duṅ
   Ghar mein hi kya haqiqat qibla ko bhej duṅ
@@ -48,7 +48,7 @@ romanLyrics: |-
   Kehya ja Jibreel bana raste nal raviṅ naukar ban ke
   Dar kholeṅ na purana Ali Kabe wich aana
   Oh nawaṅ dar banna zarur chahi da
-  
+
   5
   Baat teri ban jaegi
   Mushkil khud tal jaegi
@@ -56,7 +56,7 @@ romanLyrics: |-
   Are yaad nahiṅ kya Nad-e-Ali
   Khud rasta banega Rab khair karega
   Oh Maula Maula kehna zarur chahi da
-  
+
   6
   Maaṅ naam mera Haider rakhiya
   Khaibar da qaul sand baniya
@@ -64,13 +64,13 @@ romanLyrics: |-
   Gal ae faqir di nahiṅ bhulni
   Hamnam Jali da nara Pir Ali da
   Oh dil wich wajna zarur chahi da
-  
+
   7
   Na bhul kar bhi kabhi tum kisi ki baat karo
   Ali ka zikr karo bas Ali ki baat karo
   Farishto kaise sawal o jawab turbat mein
   Ab aa gaye ho to baitho Ali ki baat karo
-  
+
   8
   Chhor jhamele dunya ke dar par aa ja Haider ke
   Phere laga kar gali gali nare laga Ya Haider ke
@@ -81,7 +81,7 @@ romanLyrics: |-
   Allah ka lashkar Ali Ali
   Jo Khuda se mila de paar kashti laga de
   Haaṅ koi aisa zarur chahi da
-  
+
   9
   Ishq-e-Ali mein meri tarah jashn wo khul kar karta hai
   Terah Rajab ko khud Kaba Haider Haider karta hai

@@ -13,31 +13,31 @@ published: false
 romanLyrics: |-
   Laboṅ pe aaj bhi hai jaise gham Sakina ka
   Andhera yaad dilaata hai gham Sakina ka
-  
+
   1
   Sadaaeṅ aaj bhi diwaar o dar se aati haiṅ
   Ke jaise karte haiṅ maatam haram Sakina ka
-  
+
   2
   Wo us ke baad riha ho saki na zindaaṅ se
   Gaya kuchh aise qafas mein qadam Sakina ka
-  
+
   3
   Ye keh ke Sayyid-e-Sajjad khun rote the
   Sitam ziyaada tha aur sin tha kam Sakina ka
-  
+
   4
   In aandhiyoṅ mein larazti thi ek lau itni
   Wo taaziyaane wo nanha sa alam Sakina ka
-  
+
   5
   Wo shor karti hui beriyoṅ ka tham jaana
   Sada lagaana Khuda ki qasam Sakina ka
-  
+
   6
   Udhar ke lafz-e-do aalam ubhar rahi hai Naved
   Idhar qafas mein laboṅ par hai dam Sakina ka
-  
+
   7
   Jo nauhe parhte haiṅ Sajid Naved likhta hai
   Sada hai donoṅ pe yaksaaṅ karam Sakina ka

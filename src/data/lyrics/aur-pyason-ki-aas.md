@@ -23,7 +23,7 @@ romanLyrics: |-
 
   2
   Aaya maqtal se alam khuṅ mein bhara
-  
+
   3
   Din dhala Shaam-e-Gharibaṅ ke andhere chaaye
   Bas Sakina ne yehi ro ke kaha

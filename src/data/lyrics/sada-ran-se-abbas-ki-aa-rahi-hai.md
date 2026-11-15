@@ -21,56 +21,56 @@ romanLyrics: |-
   Shujaat ki taarikh duhra rahi hai
   Rajaz sun ke Sher-e-Khuda ke pisar ka
   Jabin-e-do aalam jhuki ja rahi hai
-  
+
   1
   Mera naam Abbas Ghaazi laqab hai
   Mujhe hukm-e-Sarwar ka paas-e-adab hai
   Rajaz ab sune mera fauj-e-sitamgar
   Ali ka pisar huṅ ye mera nasab hai
   Jo Khaibar shikan hai Amir-e-Arab hai
-  
+
   2
   Main naize pe chaahuṅ zamiṅ ko utha luṅ
   Abaabil ka bhi main lashkar bula luṅ
   Falak misl-e-kaaghaz zamin par ulat kar
   Khuda ki qasam main Ali se dua luṅ
   Khuda ka ghazab mera qahr o ghazab hai
-  
+
   3
   Sharaf hai ghulaam-e-Husain o Hasan huṅ
   Sakhaawat ki masnad pe jalwa figan huṅ
   Fana o baqa haiṅ meri dastaras mein
   Main paaband-e-hukm-e-Imaam-e-Zamaaṅ huṅ
   Shah-e-din ki chaahat hi meri talab hai
-  
+
   4
   Ali ki jabiṅ par hai jo nur main huṅ
   Daleri shujaat mein mashhur main huṅ
   Wafa taa qayaamat hai mansub mujh se
   Haram ki hifaazat pe maamur main huṅ
   Meri khaamshi ka faqat ye sabab hai
-  
+
   5
   Suno mera mansab hai mushkil kushaai
   Zamaane ki karta huṅ haajat rawaai
   Main zaat o sifaat mein Ali ki tarah huṅ
   Hai mere tasarruf mein saari khudaai
   Ke Baab-ul-Hawaaij to mera laqab hai
-  
+
   6
   Main chaahuṅ to darya se faujeṅ hata duṅ
   Main anbaar laashoṅ ki ran mein laga duṅ
   Faqat ek naize ki zarb-e-giraaṅ se
   Jo chaahuṅ to fauj-e-adu ko mita duṅ
   Hujum-e-adu ki mujhe fikr kab hai
-  
+
   7
   Nabuwwat ko mere daada ne paala
   Mere Baaba Haidar ne haq ko sambhaala
   Rag-e-din-e-haq mein hamaara lahu hai
   Nasab mein hasab mein huṅ sab se main aala
   Ke qaatil pe rahmat hamaara kasb hai
-  
+
   8
   Muhib ghaiz mein tha Ali ka Ghazanfar
   Rajaz sun ke larzaaṅ thi fauj-e-sitamgar

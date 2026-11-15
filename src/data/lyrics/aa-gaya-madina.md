@@ -18,47 +18,47 @@ romanLyrics: |-
   Kaisi ye udaasiyaaṅ fizaaoṅ par hai taari
   Aa rahe haiṅ qudsiya alam siyaah amaari
   Kaisa dardnaak hai musaafiroṅ ka qissa
-  
+
   2
   Bibiyoṅ ko phir wohi bahaar yaad aayi
   Jo ujad chuki wo yaadgaar yaad aayi
   Dur se nazar jo aaya Mustafa ka rauza
-  
+
   3
   Fatema ki betiyoṅ kaleje ko sambhaalo
   Baazuoṅ pe nil ke nishaaṅ sab chhupaalo
   Tez hai hawa rida gire na sar se Fizza
-  
+
   4
   Ek do nahiṅ tamaam ghar ki hai sunaani
   Karbala ne chhin li Madine ki nishaani
   Rote hai haram Bashir parh raha hai nauha
-  
+
   5
   Is qadar khaamosh kiuṅ ho ae Rabab bolo
   Apni laadli ko dogi kya jawaab bolo
   Hai kahaaṅ mera saghir puchhegi jo Sughra
-  
+
   6
   Kis tarah wo gham ka maajra kaheṅge Aabid
   Sochiye chacha se apne kya kaheṅge Aabid
   Wo jo puchh le gale mein zakhm hai ye kaisa
-  
+
   7
   Ae Bashir Alqama pe kya hua batao
   Maaṅ sawaal kar rahi hai waaqia sunaao
   Khaime jab jale to mera laadla kahaaṅ tha
-  
+
   8
   Aa rahe haiṅ puchhne ko haal ahl-e-Yasrab
   Wo musibateṅ bayaaṅ karogi kaise Zainab
   Jin musibatoṅ ne tum ko kar diya zaifa
-  
+
   9
   Kis tarah sitamgaroṅ ne chhini thi ridaaeṅ
   Betiyaaṅ safar ka haal maaṅ ko kya sunaaeṅ
   Ek hashr jannatul baqi mein hai barpa
-  
+
   10
   Le chala nasib jab bhi rauza-e-Nabi par
   Soch kar tarap uthe ye Aamir aur Nayyar

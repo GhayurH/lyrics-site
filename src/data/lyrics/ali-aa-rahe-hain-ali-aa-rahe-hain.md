@@ -21,7 +21,7 @@ romanLyrics: |-
   Ali aa rahe haiṅ Ali aa rahe haiṅ
   Bana hai jidar-e-Haram mein naya dar
   Ali aa rahe haiṅ Ali aa rahe haiṅ
-  
+
   1
   Sadaeṅ haiṅ Sall-e-Ala ki falak par
   To badla hua hai zamin ka bhi manzar
@@ -29,7 +29,7 @@ romanLyrics: |-
   Yahaṅ su-e-Kaba chale haiṅ Payambar
   Sada hai ye Ruh-ul-Amin ki mukarrar
   Ali aa rahe haiṅ Ali aa rahe haiṅ
-  
+
   2
   Munawwar hai Nur-e-Khuda se zamana
   Mili Mominoṅ ko khushi javedana
@@ -37,7 +37,7 @@ romanLyrics: |-
   Laga pusht-e-Bu Jahl par taziyana
   Ye sun kar chala kufr ke dil pe khanjar
   Ali aa rahe haiṅ Ali aa rahe haiṅ
-  
+
   3
   Fazail mein yakta hai rutbe mein aali
   Baneṅge malak in ke dar ke sawali
@@ -45,7 +45,7 @@ romanLyrics: |-
   Shujaat ki abjad sakhawat ka wali
   Jo be zar hai us ko banane Abuzar
   Ali aa rahe haiṅ Ali aa rahe haiṅ
-  
+
   4
   Ye keh de koi qaum-e-Marhab se ja kar
   Wasi aur kar le zara apna lashkar
@@ -53,7 +53,7 @@ romanLyrics: |-
   Badal na sakegi wo apna muqaddar
   Do tukroṅ mein Marhab bataega barabar
   Ali aa rahe haiṅ Ali aa rahe haiṅ
-  
+
   5
   Hai qabze mein jis ke ye sari Khudayi
   Usi ne hameṅ ye sunani sunayi
@@ -61,7 +61,7 @@ romanLyrics: |-
   Tumhare muqaddar mein hogi tabahi
   Lo Haris ke tan pe larazne laga sar
   Ali aa rahe haiṅ Ali aa rahe haiṅ
-  
+
   6
   Bare zulm jis ne Muhammad pe dhae
   Ke kya kya na ilzam jis ne lagae
@@ -69,7 +69,7 @@ romanLyrics: |-
   Wo ab sochta hai kahaṅ muṅh chhupae
   Hai ab badhawasi mein Sufyan ka shar
   Ali aa rahe haiṅ Ali aa rahe haiṅ
-  
+
   7
   Rahe har taraf shor Sall-e-Ala ka
   Ke aata hai ye jaanashiṅ Mustafa ka
@@ -77,7 +77,7 @@ romanLyrics: |-
   Ke aakhir hai ye jashn Mushkil Kusha ka
   Khusha bakht taqdir Khatun-e-Mehshar
   Ali aa rahe haiṅ Ali aa rahe haiṅ
-  
+
   8
   Hamid Abidi maut hai ik haqiqat
   Jo aa jae to phir nahiṅ deti fursat

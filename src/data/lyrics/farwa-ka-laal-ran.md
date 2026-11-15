@@ -12,27 +12,27 @@ aliases: []
 published: false
 romanLyrics: |-
   Farwa ka laal ran mein tukroṅ mein bat gaya hai
-  
+
   1
   Fizza pukaari Zainab masnad bichhaao aa kar
   Bachchoṅ ka sog Bibi kuchh to barhaao aa kar
   Dulha dulhan se milne khaime mein aa raha hai
-  
+
   2
   Masnad pe Shaah-e-diṅ jo tukre jama rahe haiṅ
   Tukroṅ mein bat gaya jo laasha utha rahe haiṅ
   Hai khuṅ bhara ye manzar kya sakht marhala hai
-  
+
   3
   Laashe ki jaa hai dekho tukre badan ke bikhre
   Kubra dulhan ko koi aa kar zara sambhaale
   Gulguṅ badan Hasan ka maqtal se aa raha hai
-  
+
   4
   Kya dard ka hai manzar dekhegi kaise Kubra
   Paamaal ho ke aaya Ibn-e-Hasan ka laasha
   Shiriṅ sukhan ka chehra kya jagmaga raha hai
-  
+
   5
   Bikhra hua hai sehra paamaal-e-gul sa chehra
   Sabir suna raha hai Iqbal ka ye nauha

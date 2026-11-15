@@ -13,27 +13,27 @@ published: false
 romanLyrics: |-
   Mashk o alam udaas hai saqqa udaas hai
   Bint-e-shah-e-umam ko kai din ki pyas hai
-  
+
   1
   Kehta hai kaun mashk alam se hai mubtashir
   Lipti hui chacha se bhatiji ki aas hai
-  
+
   2
   Pani mila to kehti thiṅ ammaṅ bulaaiye
   Mujh se kahiṅ siwa Ali Asghar ki pyas hai
-  
+
   3
   Ye kaun hai Furaat ke saahil pe tashna lab
   Darya tarap utha hai samandar udaas hai
-  
+
   4
   Ae tir-e-Hurmala kahiṅ raste mein thahar ja
   Maadar ke dil ka tujh ko agar kuchh bhi paas hai
-  
+
   5
   Ae Zuljanaah dur ise le na jaaiyo
   Tera sawaar Fatima ki kul asaas hai
-  
+
   6
   Kal tak yahaṅ sukun tha khaime the log the
   Ab aag hai dhuaṅ hai lahu hai hiraas hai

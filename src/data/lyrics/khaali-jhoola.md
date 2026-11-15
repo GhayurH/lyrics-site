@@ -15,42 +15,42 @@ romanLyrics: |-
   Khaali jhula kaise jhulaauṅ
   Dil se lagaauṅ naaz uthaauṅ
   Aaja Asghar lori sunaauṅ
-  
+
   1
   Kaale gesuṅ rang sunahre
   Kitna hasin tu chaand hai mera
   Khaak o lahu meiṅ lekin duba
   Phuloṅ jaisa tera chehra
   Dhup meiṅ ran ki kaise bachaauṅ
-  
+
   2
   Ek ek pehlu teri khushbu
   Chaaroṅ taraf hai mere phaili
   Tera kurta tera shaluka
   Aise basa hai yaad meiṅ meri
   Jitna sochuṅ dubti jaauṅ
-  
+
   3
   Chaand se barh ke tera ujaala
   Maiṅ ne safar meiṅ tujh ko paala
   Reh gayi hasrat ghar ke sehan meiṅ
   Na tu chala aur na tu khela
   Ungli pakar kar tujh ko chalaauṅ
-  
+
   4
   Akbar mera pehne sehra
   Tum ko banaauṅ maiṅ shah waala
   Makhmal jaise phuloṅ waala
   Chhota sa ek pyaara sehra
   Sar pe tumhaare beta sajaauṅ
-  
+
   5
   Naazuk se gardan pe tumhaari
   Maiṅ ne suna hai zakhm laga hai
   Kaisa sitam zaalim ne kiya hai
   Tu chhota hai tir bara hai
   Roti jaauṅ kehti jaauṅ
-  
+
   6
   Kiuṅ na parhe Salman o Raza hum
   Nauhe ke surat meiṅ lori

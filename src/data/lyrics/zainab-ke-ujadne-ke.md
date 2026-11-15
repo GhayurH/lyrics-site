@@ -12,37 +12,37 @@ published: false
 romanLyrics: |-
   Jibreel khabar gham ki falak se laaye
   Zainab ke ujadne ke zamane aaye
-  
+
   1
   Gham door nahi karbobala ka meri bibi
   Aane ko hai ek daur jafa ka meri bibi
   Aate hai chaaron taraf dard ke saaye
-  
+
   2
   Baba ke bichad jaane se darr lagne laga hai
   Amma ki judaai se ye gham aur bada hai
   Zainab ko yehi sadma bahot khoon rulaaye
-  
+
   3
   Kaabe ke sada aati hai kya zulm hua hai
   Jo roohe ibadat hai wo tar khoon may pada hai
   Afsos hidayat ke sutoon aaj giraye
-  
+
   4
   Abbas ke honton ki hasi maand padi hai
   Kulsoom bani yaas ki tasveer khadi hai
   Chaaye hai dar e zehra pe aalaam ke saaye
-  
+
   5
   Hai girya kuna arsh pe khatoon e qayamat
   Aayi hai mere bachon pe ek aur musibat
   Kaabe ko hila deti hai hasnain ki aahein
-  
+
   6
   Gham se abu talib ka phata jaata hai seena
   Aata hai nazar khoon may dooba hua beta
   Ye zulm hi aisa hai falak ashk bahaye
-  
+
   7
   Safdar ye buka karte thay hsanian tadap kar
   Kufe may koi nahi koi nadeem ay ghame hyder

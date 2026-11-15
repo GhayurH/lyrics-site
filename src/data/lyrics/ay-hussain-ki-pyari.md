@@ -12,49 +12,49 @@ aliases: ["Ay Hussain Ki Pyari"]
 published: false
 romanLyrics: |-
   Ae Husain ki pyari ae Sakina jaaṅ Bibi
-  
+
   1
   Mar gayi jo zindaaṅ mein Shah-e-Din ki dukhtar
   Bekasoṅ ke rone se qaid mein hua mahshar
   Laash par Sakina ki karti thi fughaaṅ maadar
   Saath chhor kar mera tum gayi kahaaṅ Bibi
-  
+
   2
   Aaj shab ki tariki barh gayi hai zindaaṅ mein
   Bebasi udaasi hai bekasi hai zindaaṅ mein
   Tum jo ab nahiṅ roti khamoshi hai zindaaṅ mein
   Sogwaar baithi hai saari Bibiyaaṅ Bibi
-  
+
   3
   Karbala ke maidan mein mujhse chhut gaya Asghar
   Tum se hi bahalta tha ab mera dil-e-muztar
   Kitni besahaara huṅ ye to sochti dilbar
   Tum se chhut ke zindaan mein kya jiyegi maaṅ Bibi
-  
+
   4
   Ho gaya kafan Bibi ye phata hua kurta
   Saaf bhi na ho paaya kab se khun kaanoṅ ka
   Hai yaqiṅ khafa hoṅge haal dekh kar Baba
   Jaa ke mat gila karna baap se wahaaṅ Bibi
-  
+
   5
   Jaa ke apne ammu ko haal apna dikhlaaye
   Kya sitam uthaaye haiṅ kya sahi hai izaayeiṅ
   Aap ke chacha Bibi ghaiz mein na aa jaaye
   Dekh kar tamaachoṅ ke gaal par nishaaṅ Bibi
-  
+
   6
   Kaan se chhine gauhar aur jal gaya kurta
   Donoṅ gaal zakhmi haiṅ pusht par laga durra
   Dekhti rahi bebas maaṅ bahut hai sharminda
   Maaṅ ke saamne khaayi tum ne sailiyaaṅ Bibi
-  
+
   7
   Tang qaid khaane mein sab hai muztar o hairaaṅ
   Zaalimoṅ ki basti hai kaun gham ka hai pursa
   Kya kafan ki surat ho kya ho dafn ka saamaaṅ
   Maaṅ gharib bebas hai bhaai naatawaaṅ Bibi
-  
+
   8
   Ghar ujar gaya mera qatl ho gaye Baba
   Karbala se laayi huṅ dil pe daagh Asghar ka

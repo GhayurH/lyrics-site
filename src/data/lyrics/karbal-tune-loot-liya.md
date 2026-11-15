@@ -12,77 +12,77 @@ romanLyrics: |-
   Karbal tu ne lut liya ghar Zehra ka
   Nehr rawaaṅ hai aur pyaasa ghar Zehra ka
   Karbal tu ne lut liya ghar Zehra ka
-  
+
   1
   Aaye tere daaman mein mehmaan
   Baagh ujaara kiya hai wiraan
   Na haq yuṅ barbaad kiya ghar Zehra ka
-  
+
   2
   Aaye jari darya ke kinare
   Mashk chhidi baazu bhi kataaye
   Paani ko phir taras gaya ghar Zehra ka
-  
+
   3
   Khub lare Zainab ke dilbar
   Ran mein gire talwaareṅ khaa kar
   Maut ke saaye mein aaya ghar Zehra ka
-  
+
   4
   Kaisi azaaṅ ye di hai Akbar
   Chauṅk utha dushman ka lashkar
   Yaad-e-Muhammad mein roya ghar Zehra ka
-  
+
   5
   Ibn-e-Hasan ki kaisi shaadi
   Bhuke pyaase sab baraati
   Lut liya zaalim ne bhara ghar Zehra ka
-  
+
   6
   Ik ek kar ke laashe laaye
   Sar se paa tak khuṅ mein nahaaye
   Laashoṅ se tha bhara hua ghar Zehra ka
-  
+
   7
   Rahm kisi ne na khaaya us par
   Tir se chheda halq-e-Asghar
   Khaak aur khuṅ mein dub gaya ghar Zehra ka
-  
+
   8
   Arsh ka taara jalti zamiṅ par
   Sine pe qaatil halq pe khanjar
   Ik sajde mein lut liya ghar Zehra ka
-  
+
   9
   Sajda-e-haq se sar na uthaaya
   Sar de kar Islam bachaaya
   Hashr talak yaad aayega ghar Zehra ka
-  
+
   10
   Jaao Khuda haafiz Ae Akbar
   Dekh bhi lo har baar palat kar
   Mushtaaq-e-didaar khara ghar Zehra ka
-  
+
   11
   Aab ke iwaz tir-e-sitamgar
   Maut ki hichki dast-e-Shah par
   Bebas dekh raha tha dilbar Zehra ka
-  
+
   12
   Ye kaisi mehmaaṅ ki khidmat
   Tin dinoṅ se pyaas ki shiddat
   Khatra-e-aab nahiṅ paaya ghar Zehra ka
-  
+
   13
   Godi se aur gehwaaroṅ se
   Bichhre haiṅ bachche maaoṅ se
   Karta hai qurbaan kya kya ghar Zehra ka
-  
+
   14
   Jaan bahattar ne de di hai
   Din ki shama roshan ki hai
   Hum par ye ehsaan kiya ghar Zehra ka
-  
+
   15
   Dard Muharram hai ashkoṅ ka
   Maatam ka aur majaalisoṅ ka

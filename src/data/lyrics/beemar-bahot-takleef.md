@@ -16,72 +16,72 @@ romanLyrics: |-
 
   Aaraam se hai zaalim dunya
   Bimaar bahut taklif mein hai
-  
+
   1
   Kuch din se ghashi ka aalam tha
   Jab aankh khuli to sannaata
   Dubi hai lahu mein Karb o Bala
-  
+
   2
   Hai chaaroṅ taraf khaimoṅ ka dhuaaṅ
   Aada to manaate haiṅ khushiyaṅ
   Ab kaun sune Zainab ki sada
-  
+
   3
   Har dil pe bahattar sadme hai
   Faryaad pe durre lagte haiṅ
   Hai ganj-e-shahidaaṅ mein kunba
-  
+
   4
   Ye zulm ki kaisi manzil hai
   Do gaam bhi chalna mushkil hai
   Kaantoṅ se bhara hai har rasta
-  
+
   5
   Dushman hai ye sab dunya waale
   Wo apni musibat kis se kahe
   Wo bhir mein reh kar bhi tanha
-  
+
   6
   Zakhmoṅ se bhara har pehlu hai
   Chhaaloṅ se baha kuch itna lahu
   Zanjir ke har halqe ne kaha
-  
+
   7
   Ek dil pe bahattar daagh liye
   Aakhir wo jiye to kaise jiye
   Dunya ko nahiṅ hai andaaza
-  
+
   8
   Jine ka nahiṅ koi armaaṅ
   Balwe mein khule sar hai phuphiyaaṅ
   Bechain bahut hai dil ye mera
-  
+
   9
   Gir gir ke sambhalna hai usko
   Har haal mein chalna hai usko
   Ruk jaaye to parta hai durra
-  
+
   10
   Neze pe charha hai baap ka sar
   Aur ahl-e-haram hai be chaadar
   Qismat ne dikhaaya hai kya kya
-  
+
   11
   Zindaaṅ mein behen ko maut aayi
   De ghusl o kafan kaise bhai
   Rakha hai Sakina ka laasha
-  
+
   12
   Kab isko milegi azaadi
   Zanjir hai iski faryaadi
   Kab chhut ke ghar jaana hoga
-  
+
   13
   Kab tauq khulega gardan se
   Kab khun rukega gardan se
   Hai surkh lahu se uski aba
-  
+
   14
   Ye likhna Suroor aasaan nahiṅ
   Lagta hai badan mein jaan nahiṅ

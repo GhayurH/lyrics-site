@@ -12,97 +12,97 @@ published: false
 romanLyrics: |-
   Zindan may muqayyad huwe jis dam harame shaah
   Ambohe khalaeq hua darwaze pa naagaah
-  
+
   1
   Balwa hua is darja ke masdood hui raah
   Sar sharm se zanjeer pa abid ne rakha aah
   Tha wo arqe sharm aseeron ke na tan may
   Rota tha har ek azoo ghame shaah e zaman may
-  
+
   2
   Mashghool jo thay khel may atfaal wo saare
   Karti thi sakina wahan hasrat se nazaare
   Kehti thi ke kya hogaye hamjoli hamare
   Baba ali asghar ko kahan leke sidhaare
-  
+
   3
   Sab bacche yahan khelte hai khandah zana hai
   Mai khelti thi jin se wo atfaal kahan hai
   Naagah namudaar hui shaam e ghariban
   Aaya ghazab aalood wahan shimr badh emaan
-  
+
   4
   Ek ek se muqaatib hua wo dushmane yazdan
   Ab jao ke hota hai muqaffil dar e zindan
   Howegi rehaai na kabhi aale aba ki
   Kal dekhiyo phir sair aseerane bala ki
-  
+
   5
   Ye sun ke pareshan hua amboh wo saara
   Gum hogaya ek shaqs ka farzand qazaara
   Chillaya pidar us ka raha dil pah na yaara
   Farzand bhi baba usay keh keh ke pukara
-  
+
   6
   Wo tifl lipatne jo laga aake pidar se
   Paida hui ek aah sakina ke jigar se
   Bhar bhar ke dam e sard ye ki bano se guftaar
   Is bacche ko dekho ke kya khush hai ye dildaar
-  
+
   7
   Kya naam e pidar pyar se leta hai ye har baar
   Ek hum hai ke hai baap ki furqat may giraftaar
   Dil may jo mere dard hai khaaliq pa ayan hai
   Mai kis ko kahun baap mera baap kahan hai
-  
+
   8
   Baba mere hote to unhe kehti mai baba
   Ab baap kahan jisko kahun baap mai dukhiya
   Yun koi pidar beti se ghaafil nahi hota
   Hairaan hoo baba ke wo ashfaaq huwe kya
-  
+
   9
   Aada ne hamay qaid kiya shaam may laakar
   Baba mere kyun mujhko nahi dhoondte aakar
   Ye kehke sakina pa jo riqqat hui taari
   Bas haye pidar kehke kayi baar pukari
-  
+
   10
   Tadpi jo zameen par to zameen hil gayi saari
   Jhunjhla ke kaha shimr ne phir karti ho zaari
   Ab khoob rulaunga tujhe mai na darunga
   Rah tujhko aseeron se juda qaid karunga
-  
+
   11
   Phir shimr ne baazu e sakina ko jo pakda
   Kunbe ki taraf us ne ajab yaas se dekha
   Sab qaidiyon may ek qayamat hui barpa
   Sajjad ke qadmon par machal kar giri dukhiya
-  
+
   12
   Yun lipti thi bhai se wo is khauf o qatar se
   Ek haath to gardan may that ek haath kamar may
   Moo dekh ke sajjad ka kehti thi wo darr kar
   Ab aap mere rone ke zaamin ho biradar
-  
+
   13
   Gar tum se chuti zeest meri hoegi kyunkar
   Ab ro'un to jo chaahe kare shimr e sitamgar
   Bhaiya mujhe tu shimr se is waqt bachale
   Ab ro'un to kar deejiyo zaalim ke hawale
-  
+
   14
   Ab royi so mai royi na phir ro'ungi zinhaar
   Ab ro'un agar baap ko apne to gunehgaar
   Farmao ke ab chod de mujhko ye jafakaar
   Baazu mera dukhne laga ay abid e bemaar
-  
+
   15
   Kis tarha juda kunbe se hoegi sakina
   Tum kehdo qasam khaake na royegi sakina
   Ye kehti thi khaincha jo sitamgar ne qazara
   Kurta to phata tha wo phata aur bhi saara
-  
+
   16
   Tab abid e bemaar ne rokar ye pukara
   Ay shimr ye bin baap ki bacchi hai khudara

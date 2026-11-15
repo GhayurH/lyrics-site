@@ -16,49 +16,49 @@ romanLyrics: |-
 
   Tarapti rehti huṅ har dam bahut ghutta hai mera dam
   Maiṅ saaṅseṅ bhi jab leti huṅ to iza hota hai Baba
-  
+
   1
   Bahut taklif meiṅ ye laadli beti hai Baba jaaṅ
   Sakina sar se le kar paaoṅ tak zakhmi hai Baba jaaṅ
   Mera tan zakhmi hai saara badan se chipka hai kurta
   Tumhaari pyaari shehzaadi lahu meiṅ dubi hai Baba
-  
+
   2
   Maiṅ jab karwat badalti huṅ nikal jaati hai jaaṅ meri
   Ye lagta hai jigar meiṅ chubh rahi hai pasliyaaṅ meri
   Sisakti huṅ har karwat par guzar jaati hai shab ro kar
   Nahiṅ so paati maiṅ pal bhar aziyat itni hai Baba
-  
+
   3
   Naqaahat hai bahut Baba chala jaata nahiṅ mujh se
   Maiṅ thak kar baithti huṅ jab utha jaata nahiṅ mujh se
   Bahut mushkil se uthti huṅ sahaara le ke chalti huṅ
   Maiṅ kamsin huṅ lekin haalat zaifa jaisi hai Baba
-  
+
   4
   Ae Baba aap ne Shimr-e-laiṅ ka haath dekha hai
   Mere is phul se rukhsaar par wo haath parta hai
   Nahiṅ seh paati huṅ Baba maiṅ ghash khaa jaati huṅ Baba
   Bahut bhaari hai haath us ka Sakina chhoti hai Baba
-  
+
   5
   Seham jaati huṅ jab zaalim mere nazdik aata hai
   Laiṅ pairoṅ se thokar maar ke mujh ko uthaata hai
   Bahut maara hai zaalim ne bahut dar lagta hai us se
   Nigaahoṅ meiṅ us zaalim ki bahut berehmi hai Baba
-  
+
   6
   Mere Baba maiṅ roti huṅ tumhaara naam jab le kar
   Tamaancha maar deta hai sitamgar mere hontoṅ par
   Andhera sa chhaa jaata hai kaleja muṅh ko aata hai
   Mere hontoṅ pe jab us ki anguthi parti hai Baba
-  
+
   7
   Meri khaatir dua maaṅgo mujhe Allah de himmat
   Maiṅ itna thak chuki huṅ zulm sehne ki nahiṅ taaqat
   Nahiṅ jine ka dil karta yahaaṅ sab dete haiṅ iza
   Maiṅ har dam sehmi rehti huṅ ye haalat meri hai Baba
-  
+
   8
   Nadim us ghamzada ke bain the Baba chale aao
   Dara kar Shimr mujh ko maar daalega chale aao

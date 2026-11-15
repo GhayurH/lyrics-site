@@ -13,27 +13,27 @@ published: false
 romanLyrics: |-
   Sada ye deti thi bint-e-Ali Husain ke baad
   Nahiṅ hai maut se kam zindagi Husain ke baad
-  
+
   1
   Jihaad karti gayi Karbala se Shaam talak
   Ali ki ban gayi beti Ali Husain ke baad
-  
+
   2
   Ali ki beti ne shamshir-e-istiqaamat se
   Badal di jang ki taarikh hi Husain ke baad
-  
+
   3
   Gale mein tauq rasan basta paaoṅ mein beri
   Yehi hai waaris-e-Aal-e-Nabi Husain ke baad
-  
+
   4
   Kaha ye zauja-e-Hur se tarap ke Zainab ne
   Mitaane aayi huṅ tashna labi Husain ke baad
-  
+
   5
   Wo jis mein jang kare shir khwaar bachche bhi
   Phir aisi fauj na dekhi gayi Husain ke baad
-  
+
   6
   Rehaan Aazmi jaisi namaaz Shah ne parhi
   Ada na ho saki ab tak kabhi Husain ke baad

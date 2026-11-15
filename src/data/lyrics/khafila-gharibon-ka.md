@@ -12,55 +12,55 @@ aliases: []
 published: false
 romanLyrics: |-
   Qaafila ghariboṅ ka qaid ho ke jaata hai
-  
+
   1
   Kaisa waqt badla hai kaisa ye zamaana hai
   Kaun kis ko batlaae kis ka ye gharaana hai
   Bekajaawa untoṅ par kaarwaaṅ rawaana hai
   Arsh jis ka maskan tha ab wo bethikaana hai
-  
+
   2
   Aaftaab ke rukh par tirgi si chhaai hai
   Karbala ki dharti ke lab pe bhi duhaai hai
   Tashnagi shahidoṅ ki khuṅ meiṅ nahaai hai
   Bekafan hai sab laashe paas hi taraai hai
-  
+
   3
   Ab na aae ga lab par phir sawaal paani ka
   Alqama pashemaan hai sharmsaar mashkiza
   Aur kinaare darya ke muztarib hai ik laasha
   Rukh pe hai yatimi ke tashnagi ka sannaata
-  
+
   4
   Ek yatim bachchi ke zakhm kitne gehre haiṅ
   Kamsini ki raahoṅ meiṅ kitne zulm thehre haiṅ
   Soye kaise aankhoṅ meiṅ zaalimoṅ ke chehre haiṅ
   Aankh ro nahiṅ sakti aansuoṅ pe pehre haiṅ
-  
+
   5
   Sab nishaaniyaaṅ jal kar khaak meiṅ hui mismaar
   Garm raakh meiṅ koi dhundta hai kuchh aasaar
   Ab na khaali jhula hai aur na bistar-e-bimaar
   Bekasoṅ pe har lamha zindagi hui dushwaar
-  
+
   6
   Tashnagi hai ghurbat hai bekasi hai aaheiṅ hai
   Dasht hai asiri hai aur zakhmi raaheiṅ hai
   Chaadareiṅ nahiṅ sar par muztarib nigaaheiṅ hai
   Justaju meiṅ bachchoṅ ki maamta ki baaheiṅ hai
-  
+
   7
   Paa-e-sabr meiṅ kaante raastoṅ ke daste haiṅ
   Dasht meiṅ asiri ke aable sisakte haiṅ
   Dhup ki tamaazat se saare zakhm jalte haiṅ
   Chashm-e-nam se behne ko ashk bhi taraste haiṅ
-  
+
   8
   Iztiraab hai kitna dasht ki hawaaoṅ meiṅ
   Kiuṅ lahu umarta hai bekasi ki aankhoṅ meiṅ
   Har taraf dhuaaṅ kiuṅ hai tashnagi ki aahoṅ meiṅ
   Kis qadar hai tanhaai maamta ki baahoṅ meiṅ
-  
+
   9
   Gar Rasheed turbat meiṅ zindagi ki haajat hai
   Qalb ke dharakne ko ashk ki zarurat hai

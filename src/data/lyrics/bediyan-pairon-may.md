@@ -12,34 +12,34 @@ aliases: []
 published: false
 romanLyrics: |-
   Tha lab-e-Zainab pe nauha beriyaṅ pairoṅ mein hai
-  
+
   1
   Kya chale Sajjad rasta beriyaṅ pairoṅ mein hai
-  
+
   2
   Bole Aabid dafn main kaise karuṅ kiuṅ kar karuṅ
   Bekafan baba ka laasha beriyaṅ pairoṅ mein hai
-  
+
   3
   Do qadam chalte haiṅ gir jaate haiṅ Aabid kya kare
   Zor hai tashna labi ka beriyaṅ pairoṅ mein hai
-  
+
   4
   Bhai se umid-e-hamdardi kare to kya kare
   Ro ke kehte hai Sakina beriyaṅ pairoṅ mein hai
-  
+
   5
   Boli Zainab Sayyid-e-Sajjad se ae mere laal
   Shaam tak tum ko hai jaana beriyaṅ pairoṅ mein hai
-  
+
   6
   Baad-e-Sarwar dekhiye to Aabid-e-bimaar ko
   Aa gaya aisa zamaana beriyaṅ pairoṅ mein hai
-  
+
   7
   Ya Ali Sajjad ki mushkil kushaai kijiye
   Hai atash se zard chehra beriyaṅ pairoṅ mein hai
-  
+
   8
   De sahaara kaun Ishrat Sayyid-e-Sajjad ko
   Dard ka sine mein neza beriyaṅ pairoṅ mein hai

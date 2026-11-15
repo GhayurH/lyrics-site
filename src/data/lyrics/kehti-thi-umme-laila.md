@@ -16,42 +16,42 @@ romanLyrics: |-
 
   Karyal jawaaṅ ka laasha aaya hai khun mein tar
   Mujhko na maut aayi
-  
+
   1
   Kuchh sujhta nahiṅ hai aankhoṅ mein hai andhera
   Dunya se jaa chuka hai mera jawaan beta
   Kehti rahuṅ gi ab main bas ye tarap tarap kar
-  
+
   2
   Sarhaane naujawaaṅ ke baithi hai Umm-e-Laila
   Muṅh chum kar pisar ka ye keh rahi hai dukhiya
   Ab saari zindagi main bas ye kahuṅ gi ro kar
-  
+
   3
   Arsh-e-bariṅ pe us din mera nasib hota
   Kaandhe pe leke chalte jab tum mera janaza
   Afsos maaṅ se pehle tum mar gaye gul-e-tar
-  
+
   4
   Ek maaṅ ki zindagi mein ye din kabhi na aaye
   Bete ki laash maaṅ ko Allah na dikhaaye
   Meri tarah ye keh kar roye na koi maadar
-  
+
   5
   Haathoṅ se apne jis ke gesuṅ sanwaarti thi
   Jis laal ki main har dam nazreṅ utaarti thi
   Maara laiṅ ne neza us gulbadan ke dil par
-  
+
   6
   Athaara saal jis ko tha mannatoṅ se paala
   Nazroṅ ke saamne hai us naujawaaṅ ka laasha
   Haaye re meri qismat haaye mera muqaddar
-  
+
   7
   Roye bahut tarap kar us waqt Shaah-e-waala
   Zainab se jab lipat kar royi hai Umm-e-Laila
   Ye keh rahi thi donoṅ tum mar gaye Ae Akbar
-  
+
   8
   Waaiz na likh sake ga us ghamzada ki haalat
   Bas maaeṅ jaanti hai kya hai pisar ki ulfat

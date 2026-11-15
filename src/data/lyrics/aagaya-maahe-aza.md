@@ -17,27 +17,27 @@ romanLyrics: |-
   1
   Haye darya ki taraai par jari Abbas ka
   Zulm se baazu kata aansu baha lo mominoṅ
-  
+
   2
   Chaand dikhte hi falak par saj gaye har ghar alam
   Aur bichha farsh-e-aza aansu baha lo mominoṅ
-  
+
   3
   Akbar o Aun o Muhammad Qasim-e-naushah ko
   Yaad karte tum zara aansu baha lo mominoṅ
-  
+
   4
   Shaah ke haathoṅ pe tir-e-Hurmala ki nok se
   Halq-e-Asghar bhi chhida aansu baha lo mominoṅ
-  
+
   5
   Baad-e-Ashura sabhi sayyadaniyoṅ ke haye haye
   Chhin gayi sar se rida aansu baha lo mominoṅ
-  
+
   6
   Apne aansu marham-e-zakhm-e-Shah-e-mazlum hai
   Kuchh nahiṅ is ke siwa aansu baha lo mominoṅ
-  
+
   7
   Jab bhi aa jaye Muharram zindagi mein ae Bober
   Kehte rehna tum sada aansu baha lo mominoṅ

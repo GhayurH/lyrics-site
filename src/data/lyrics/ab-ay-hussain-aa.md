@@ -12,7 +12,7 @@ published: false
 romanLyrics: |-
   Aayi ye arsh-e-paak se Allah ki sada
   Ab ae Husain aa ab ae Husain aa
-  
+
   1
   Aaja palat ke rab ki taraf aa Husain aa
   Ae mere Mustafa ke kalaf aa Husain aa
@@ -28,7 +28,7 @@ romanLyrics: |-
   Haq bandagi ka tu ne ada kar diya Husain
   Ab tere mere bich nahiṅ koi faasla
   Ab ae Husain aa ab ae Husain aa
-  
+
   2
   Tiroṅ par tir tere badan par baras gaye
   Paani ki bund bund ko bachche taras gaye
@@ -46,7 +46,7 @@ romanLyrics: |-
   Islam tere dam se hi Islam hai Husain
   Haaṅ main huṅ tera tu hai mera
   Ab ae Husain aa ab ae Husain aa
-  
+
   3
   Zakhmoṅ se chur chur hai tera badan Husain
   Jangal mein lut gaya tera saara chaman Husain
@@ -56,7 +56,7 @@ romanLyrics: |-
   Takmil tujh se Panjtan-e-Paak ko kiya
   Tu mera aaina hai main huṅ aaina tera
   Ab ae Husain aa ab ae Husain aa
-  
+
   4
   Husain marzi-e-Khaaliq hai tere haathoṅ mein
   Payam o haq o sadaqat hai tere haathoṅ mein

@@ -12,43 +12,43 @@ published: false
 romanLyrics: |-
   Mashk o alam ka zikr wafa ki namaaz hai
   Himmat ka tazkira hai magar dil gudaaz hai
-  
+
   1
   Alfaaz mukhtasar hai hikaayat daraaz hai
   Abbas par Nabi ke nawaase ko naaz hai
   Abbas sher-e-haq ki adaaoṅ ka naam hai
   Abbas Fatima ki duaaoṅ ka naam hai
-  
+
   2
   Abbas ek naam hai insaaniyat ka naam
   Abbas ek payaam hai ikhlaas ka payaam
   Abbas ek nizaam hai akhlaaq ja nizaam
   Abbas ek imaam hai isaar ka imaam
-  
+
   3
   Isaar hai wafa hai murawwat hai sabr hai
   Barsega Karbala mein jo khul kar wo abr hai
   Shaan o shikoh-e-Jafar-e-Tayyaar ki qasam
   Hamza se bemisaal jigar daar ki qasam
-  
+
   4
   Taqdir se dosh-e-Haidar-e-Karraar ki qasam
   Is ahd-e-jalil ke miyaar ki qasam
   Hum kiuṅ kahe ke saani-e-Karraar kaun hai
   Keh dega khud aalam ke alamdaar kaun hai
-  
+
   5
   Jaate haiṅ is shikoh se Abbas ba hasham
   Ek dosh par hai mashk to ek dosh par alam
   Nazreṅ lagi hui hai su-e-khaima-e-haram
   Kehte haiṅ ye samand se haaṅ tez tar qadam
-  
+
   6
   Neki ka hai ye kaam to ujlat ghazab ki hai
   Pyase rahe jo khud ye karaamat nasab ki hai
   Bhai ke gham mein tha jo Muhammad ka nur-e-ain
   Aankhoṅ mein ashk-e-gham the to sukhe laboṅ pe bain
-  
+
   7
   Rote the is taraf to shahanshaah-e-mashriqain
   Abbas ke laboṅ pe musalsal tha Ya Husain

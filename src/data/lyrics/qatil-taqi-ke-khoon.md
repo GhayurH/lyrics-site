@@ -13,39 +13,39 @@ published: false
 romanLyrics: |-
   Qaatil Taqi ke khuṅ ka talabgaar ho gaya
   Ghar Sayyeda ka phir se azaadaar ho gaya
-  
+
   1
   Badla hai kaisa waqt watan chhorna para
   Yasrab mein saans lena bhi dushwaar ho gaya
-  
+
   2
   Kal tak gham-e-Raza se jigar taar taar tha
   Aur aaj dil Taqi ka azaadaar ho gaya
-  
+
   3
   Pardes mein khud apni hi ghurbat ko dekh kar
   Taaza gham-e-Husain phir ek baar ho gaya
-  
+
   4
   Phir se hua hai takht nashiṅ koi badnasab
   Phir qatl koi saahib-e-kirdaar ho gaya
-  
+
   5
   Malun Mohtasim ke iraade na chhup sake
   Aal-e-Nabi se bughz ka izhaar ho gaya
-  
+
   6
   Rauza gharib Tus ka gham se laraz gaya
   Ibn-e-Raza pe zulm ka jab waar ho gaya
-  
+
   7
   Jab zehr se Taqi ke badan mein hua asar
   Turbat mein Mujtaba ka dil afgaar ho gaya
-  
+
   8
   Bait-e-Ali mein gunji sada wa Mohammada
   Sun kar jise khud arsh bhi ghamkhwaar ho gaya
-  
+
   9
   Aankhoṅ se khun behne laga Kaazimain mein
   Jis dam Jawad Imam ka zawwaar ho gaya

@@ -15,55 +15,55 @@ romanLyrics: |-
   Pehla sajda baghair chadar ke
   Roshni aur hawa ne bhi jis ka
   Sar na dekha baghair chadar ke
-  
+
   1
   Jis ko dafna nahiṅ saki Zainab
   Bekafan tha jo dasht-e-ghurbat mein
   Apne bhai Husain ka us ne
   Gham manaya baghair chadar ke
-  
+
   2
   Wo jo us ki rida ka zaamin tha
   Us ke naqsh-e-qadam mitaata tha
   Kaise guzregi us ke laashe se
   Bint-e-Zehra baghair chadar ke
-  
+
   3
   Jis ka Quraan chehra parhta tha
   Sirf aayaat dekhti thi jise
   Aaj dekheṅge us ko galiyoṅ mein
   Ahl-e-Kufa baghair chadar ke
-  
+
   4
   Tum se Zainab na ham kalaam hui
   Meri awaaz na suni tum ne
   Aao baba sunaauṅ main tum ko
   Aaj khutba baghair chadar ke
-  
+
   5
   Donoṅ zakhmoṅ ne khuṅ rulaaya hai
   Qabr mein bhi Khuda ki ghairat ko
   Ek laasha tha bekafan ran mein
   Ik janaaza baghair chadar ke
-  
+
   6
   Kaise un chaadaroṅ ke maqtal mein
   Tin din tak khari rahi Zainab
   Jis jagah maut se bhi mushkil tha
   Ik lamha baghair chadar ke
-  
+
   7
   Jo bhi parde ko rone waali hai
   Waasta un ko Bibi Zainab ka
   Bint-e-Zehra ki paak chadar ko
   Tum na rona baghair chadar ke
-  
+
   8
   Khaak baaloṅ mein baal chehre par
   Aur aankhoṅ se ashk jaari hai
   Qaid khaane mein aise Zainab ka
   Saal guzra baghair chadar ke
-  
+
   9
   Us ka parda tha zindagi us ki
   Saans us ko rida se milti thi

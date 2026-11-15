@@ -15,7 +15,7 @@ published: false
 # raw_sha256: 1abc322baed46b865023fa11c626a3ef45defdcddbe2ac04748f28e460817df9
 romanLyrics: |-
   Ali Ali Ali Ali Maula Ali Ali Ali
-  
+
   1
   Ali Jaan-e-Jahan
   Dil ye kehta hai tere ishq mein kho jauṅ Ali
@@ -26,21 +26,21 @@ romanLyrics: |-
   Jaan-e-Jahan
   Aaqa-e-Man Ali Maula-e-Man Ali
   Jaan-e-Jahan
-  
+
   2
   Surah-e-Alhamd se Surah-e-Wannas tak
   Sare ke sare Ali Akbar o Abbas tak
   Nad-e-Ali parhta ja gham na rahe pas tak
   Din o Iman Ali dil aur jaan Ali
   Jaan-e-Jahan
-  
+
   3
   Maula ye rauza tera Nur ala Nur hai
   Shahr-e-Najaf ki faza Nur ala Nur hai
   Aa ke yahaṅ dil mera Nur ala Nur hai
   Tera didar Ali kar luṅ ek baar Ali
   Jaan-e-Jahan
-  
+
   4
   Aql mein aata nahiṅ Ya Ali Ya Ali
   Qalb se jata nahiṅ Ya Ali Ya Ali
@@ -54,14 +54,14 @@ romanLyrics: |-
   Jaan-e-Jahan
   Aaqa-e-Man Ali Maula-e-Man Ali
   Jaan-e-Jahan
-  
+
   5
   Paya hai phir us ne kya jis ne tujhe kho diya
   Khoya hai phir us ne kya jis ne tujhe pa liya
   Misl-e-Qalandar hua jis ne ye sauda kiya
   Tu hai wo raz Ali jo de parwaz Ali
   Jaan-e-Jahan
-  
+
   6
   Kehte haiṅ tere naukar
   Dil ke andar hai tera ghar
@@ -89,7 +89,7 @@ romanLyrics: |-
   Jaan-e-Jahan
   Aaqa-e-Man Ali Maula-e-Man Ali
   Jaan-e-Jahan
-  
+
   7
   Aaye jo mushkil koi hai ye wazifa mera
   Hai yehi aadat meri hai ye wazifa mera
@@ -97,7 +97,7 @@ romanLyrics: |-
   Mera wakil Ali Rab ki dalil Ali
   Jaan-e-Jahan
   Ali Ali Ali Ali Maula Ali Ali Ali
-  
+
   8
   Daulat-e-dunya hai kya sirf Ali chahiye
   Main ne Khuda se kaha sirf Ali chahiye
@@ -108,7 +108,7 @@ romanLyrics: |-
   Dil mein utar Ali bas ek baar Ali
   Jaan-e-Jahan
   Ali Ali Ali Ali Maula Ali Ali Ali
-  
+
   9
   Dunya ne jana nahiṅ tujh ko magar Haye Ali
   Rota tha tanhaiyoṅ mein baith kar Haye Ali

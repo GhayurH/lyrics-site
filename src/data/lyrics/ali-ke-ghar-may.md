@@ -16,42 +16,42 @@ published: false
 romanLyrics: |-
   Ali ke ghar mein qayaamat ki subh aayi hai
   Khabar ye khalq ko Jibril ne sunaayi hai
-  
+
   1
   Kiya hai waar sitamgar ne puri shiddat se
   Shigaafta hua sar Murtaza ka zarbat se
   Tarap rahe haiṅ Ali dard intihaayi hai
-  
+
   2
   Bapa hui hai jo Kufe mein Karbala dekho
   Ali Wali se jo ummat ne ki dagha dekho
   Imam-e-Waqt se ye kaisi bewafaayi hai
-  
+
   3
   Lahu mein tar hai rukh-e-Bu Turab wawaila
   Nabi ko khuld mein hai iztiraab wawaila
   Gham o alam ki faza zindagi pe chhaayi hai
-  
+
   4
   Hasan Husain hai Baaba ko dekh kar maghmum
   Saroṅ ko pit ke roti hai Zainab o Kulsum
   Shadid gham hai musibat ye kaisi aayi hai
-  
+
   5
   Asar se zahr ke Maula pe hai ghashi taari
   Wasiyatoṅ ka musalsal hai silsila jaari
   Ye jaante haiṅ ke bachchoṅ se ab judaayi hai
-  
+
   6
   Hasan Husain se farma rahe haiṅ ye Maula
   Sitam ke waar se bachna muhaal hai mera
   Shaqi ne tegh-e-sitam zahr mein bujhaayi hai
-  
+
   7
   Isi ke saath hui ibtida-e-Karb o Bala
   Buland Zainab o Kulsum ki hai aah o buka
   Ye subh Shaam-e-Gharibaaṅ ka rang laayi hai
-  
+
   8
   Jahaaṅ mein koi na Aulad-e-Fatima ka raha
   Hua jo zulm ke Sadiq ujar gaya kunba

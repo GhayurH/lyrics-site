@@ -12,57 +12,57 @@ aliases: ["Ay Hussain Jaan"]
 published: false
 romanLyrics: |-
   Ae Husain jaan ae Husain jaan
-  
+
   1
   Ae Ali ke laal ae Shah-e-zamaaṅ
   Fath kar liye tu ne do jahaaṅ
   Muskura utha jab ke bezubaaṅ
-  
+
   2
   Tu panaah-e-din tu hi Shah-e-din
   Waaris-e-Nabi Kaaba-e-yaqin
   Naazish-e-haram haq ke paasbaaṅ
-  
+
   3
   Karbala jihaad Karbala qiyaam
   Tu ne hashr tak de diya payaam
   Ruh-e-Karbala raaz-e-kun fakaaṅ
-  
+
   4
   De ke sar liya zulm se Furaat
   Tujh se reh gayi ambiya ki laaj
   Ibn-e-Fatima faqr-e-mursala
-  
+
   5
   Hurr ka tazkira hai waraq waraq
   Sun ke aa gaya jo sadaa-e-haq
   Subh-e-Karbala maani-e-azaan
-  
+
   6
   Zindagi se dur ho gaye haram
   Jab hua shahid aamil-e-alam
   Jis ke dosh par haq ka tha nishaaṅ
-  
+
   7
   Jab se hat gaye saare mursalin
   Barh gaye Nabi chumne jabiṅ
   Keh ke Ya Ali khenchi jo sinaaṅ
-  
+
   8
   Jis mariz par tha sitam tamaam
   Dasht-e-zulm se taa ziyaare Shaam
   Wo asir-e-gham mir-e-kaarwaaṅ
-  
+
   9
   Maadar-e-Husain deti hai dua
   Gunjti rahe bas yehi sada
   Farsh-e-khaak se taa ba aasmaaṅ
-  
+
   10
   Zindagi tamaam zikr-e-Karbala
   Nusrat-e-Imaam girya o buka
   Lab pe subh o shaam ho yehi fughaaṅ
-  
+
   11
   Do sada Fareed maatam-e-Husain
   Koi gham na ho juz gham-e-Husain

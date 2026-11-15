@@ -12,42 +12,42 @@ aliases: []
 published: false
 romanLyrics: |-
   Sakina roti hai haaye kidhar gaye ammu
-  
+
   1
   Husain khaime mein mashk o alam laaye haiṅ
   Magar taraai pe saqqa ko chhor aaye haiṅ
   Na jaane kaisi wasiyyat wo kar gaye ammu
-  
+
   2
   Khud apne haathoṅ se parcham mein mashk baandhi thi
   Wohi jagaayi thi ummid pyaase bachchoṅ ki
   Kahaaṅ duaaoṅ ka le kar asar gaye ammu
-  
+
   3
   Kamar ko haathoṅ se thaame hue hai kiuṅ baaba
   Chhidi hai mashk alam khuṅ mein hai kiuṅ duba
   Ye kya hua kahaaṅ besifar gaye ammu
-  
+
   4
   Ye kaise aaye haiṅ aansu phuphi ki aankhoṅ mein
   Abhi to aas thi tashna labi ki aankhoṅ mein
   Udhar bhi dekhti hai kabhi idhar gaye ammu
-  
+
   5
   Kahiṅ wo chaand sa chehra nazar nahiṅ aata
   Nigaaheṅ pyaasi hai saqqa nazar nahiṅ aata
   Udaas hai kahaaṅ rashk-e-qamar gaye ammu
-  
+
   6
   Ye puchhti hai khayaaloṅ mein khoyi khoyi si
   Hai Bibiyoṅ ke saroṅ par ridaaeṅ to baaqi
   Magar ye kis liye chehre utar gaye ammu
-  
+
   7
   Shahid hote to khaime mein laate shah laasha
   Har ek shahid ki mayyat ko laaye haiṅ baaba
   Kisi se puchhe to kaise ke mar gaye ammu
-  
+
   8
   Sakina Bibi ki haalat ajib hai Fidwi
   Ye sochti hai wo Irfan pyaas ki maari

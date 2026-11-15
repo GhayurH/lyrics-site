@@ -16,27 +16,27 @@ romanLyrics: |-
 
   Hui hai raat aa jaa ghar
   Mere bhaiya Ali Asghar
-  
+
   1
   Wo nanha sa gala chheda
   Jise tir-e-sitamgar ne
   Usi par phir chala khanjar
-  
+
   2
   Sitamgaaroṅ ne jhula bhi
   Nahiṅ chhora jalaa daala
   Pachhaareṅ khaati hai maadar
-  
+
   3
   Machalna pyaas ki shiddat se
   Tera hichkiyaaṅ lena
   Nigaahoṅ mein hai wo manzar
-  
+
   4
   Andheri qabr hai pehlu hai
   Maaṅ ka aur na jhula hai
   Tujhe nind aayegi kiuṅ kar
-  
+
   5
   Bahut samjhaaya Zainab ne
   Sakina ko magar Ahsaaṅ

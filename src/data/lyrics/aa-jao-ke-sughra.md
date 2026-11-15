@@ -22,63 +22,63 @@ romanLyrics: |-
   Kaise na tumheṅ mere baba
   Nana ka Madina yaad kare
   Aa jao ke Sughra yaad kare
-  
+
   2
   Jaldi se palat aao ghar mein
   Sayyida utha kar godi mein
   Bimaar behan kab tak baba
   Asghar ka humakna yaad kare
   Aa jao ke Sughra yaad kare
-  
+
   3
   Khat mera dikha kar kahiyega
   Bhaiya Ali Akbar se itna
   Ae Yusuf-e-Aal-e-Paighambar
   Aa jao Madina yaad kare
   Aa jao ke Sughra yaad kare
-  
+
   4
   Khat de ke mera baba ko
   Ehsaan ye karna ae qaasid
   Abbas chacha se keh dena
   Ro ro ke Sughra yaad kare
   Aa jao ke Sughra yaad kare
-  
+
   5
   Ae baad-e-saba jab Karbobala
   Jaana ho to itna keh dena
   Pardes mein jaane waaloṅ ko
   Dukhiya aaj Sughra yaad kare
   Aa jao ke Sughra yaad kare
-  
+
   6
   Khaamosh hai diwaareṅ saari
   Viraan pare hai baam o dar
   Ae shama-e-haram ae shan-e-Nabi
   Maabud ka Kaaba yaad kare
   Aa jao ke Sughra yaad kare
-  
+
   7
   Wo rukhsat-e-aakhir ka manzar
   Wo lachak ke jaane uṅtoṅ ka
   Dil mera abhi tak ae baba
   Phuphiyoṅ se lipatna yaad kare
   Aa jao ke Sughra yaad kare
-  
+
   8
   Allah ko sauṅpa hai tum ko
   Ae Aal-e-Muhammad jaao magar
   Samjha lena jab bhi mujhko
   Ro ro ke Sakina yaad kare
   Aa jao ke Sughra yaad kare
-  
+
   9
   Jab thandi saanseṅ bharti hai
   Dil kehta hai Asghar Asghar
   Mahir ke waare waale ko
   Har saans pe Sughra yaad kare
   Aa jao ke Sughra yaad kare
-  
+
 # source_id: nohayonline:ab64ea3ce3658f758ca1
 # source_url: https://www.nohayonline.com/details_content.php?id=1193
 # raw_sha256: ff086f85ebfabc56c670c153a4b0284848e63b4e991e96f7bb50879cd677296e

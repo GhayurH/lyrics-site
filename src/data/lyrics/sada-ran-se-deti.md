@@ -15,49 +15,49 @@ romanLyrics: |-
   Idhar aa idhar aa Sakina Sakina
   Ye daagh-e-yatimi hai tera muqaddar
   Idhar aa idhar aa Sakina Sakina
-  
+
   1
   Idhar aa kaleje se apne laga luṅ
   Idhar aa main sine pe tujh ko sula luṅ
   Idhar aa meri jaaṅ main qurbaan tujh par
   Idhar aa idhar aa Sakina Sakina
-  
+
   2
   Ye sunsaan sahra ye wiraan jangal
   Ghazab ka andhera ye khaamosh maqtal
   Na ghabra chali aa sambhal kar sambhal kar
   Idhar aa idhar aa Sakina Sakina
-  
+
   3
   Tujhe dekhna hai mera zakhm-e-khanjar
   Tujhe dekhna hai meri laash-e-besar
   Tujhe dekhna hai ye dil soz manzar
   Idhar aa idhar aa Sakina Sakina
-  
+
   4
   Jo sajde mein haq ke jhuka tha wohi sar
   Nazar aaye ga tujh ko nok-e-sinaaṅ par
   Badan par hai ab reg-e-sahra ki chaadar
   Idhar aa idhar aa Sakina Sakina
-  
+
   5
   Rulaaye gi tujh ko bahut yaad meri
   Sunega na koi bhi faryaad teri
   Sataaye ga raste mein Shimr-e-sitamgar
   Idhar aa idhar aa Sakina Sakina
-  
+
   6
   Ab andaaz badle ga sone ka tere
   Sulaaye gi aaghosh mein tujh ko maadar
   Yahaaṅ mere sine pe soye ga Asghar
   Idhar aa idhar aa Sakina Sakina
-  
+
   7
   Tera sin nahiṅ gham uthaane ke qaabil
   Kathin hai tere imtihaanoṅ ki manzil
   Ali ko sada di Khuda se dua kar
   Idhar aa idhar aa Sakina Sakina
-  
+
   8
   Viqar-e-haziṅ kya bayaaṅ ho wo manzar
   Jo dekha tha us ne kaho ab main kiuṅkar

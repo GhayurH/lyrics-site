@@ -12,31 +12,31 @@ aliases: ["Ay Hussaine Bekas"]
 published: false
 romanLyrics: |-
   Ae Husain-e-bekas ki ghamzada bahan Zainab
-  
+
   1
   Bint-e-Faateh-e-Khaibar khwaahar-e-Hasan Zainab
   Do jahaaṅ ki shahzaadi jaan-e-Panjatan Zainab
   Phir hui bhatije ke saath bewatan Zainab
   Haaye wo tere baazu aur wo rasan Zainab
-  
+
   2
   Khaatima hua tujh par har nayi musibat ka
   Tu ne phir nahiṅ dekha daur koi raahat ka
   Kya jawab ho sakta koi teri himmat ka
   Kiuṅ na ho qalaq hum ko phir teri shahaadat ka
-  
+
   3
   Khun naunihaaloṅ ka laasha-e-jawaaṅ dekha
   Naawak-e-sitam dekha halq-e-bezabaaṅ dekha
   Karbala ka nazaara Shaam ka samaaṅ dekha
   Sah ke har musibat ko su-e-aasmaaṅ dekha
-  
+
   4
   Manzileiṅ hui aakhir Shaam ka dayaar aaya
   Ahl-e-Bait ke ghar mein ahd-e-intishaar aaya
   Khud Imam baaliṅ par ho ke ashk baar aaya
   Haaye sar pe Zainab ke belche ka waar aaya
-  
+
   5
   Hashr shahzaadi ne kitne gham uthaaye hai
   Zulm ki fazaaoṅ mein taaziyaane khaaye hai

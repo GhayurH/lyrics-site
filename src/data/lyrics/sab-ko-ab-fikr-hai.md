@@ -15,52 +15,52 @@ romanLyrics: |-
   Sab ko ab fikr hai Muharram ki
   Kaise hoga Husain ka maatam
   Sab ko ab fikr hai Muharram ki
-  
+
   1
   Farsh-e-majlis bichhayeṅ ge kaise
   Shaah nashiṅ ko sajayeṅ ge kaise
   Soch kar ho rahi haiṅ aankheṅ nam
-  
+
   2
   Gham Ali ka mana nahiṅ paaye
   Un ka taabut utha nahiṅ paaye
   Bhul paaye na aaj tak ye gham
-  
+
   3
   Waqt kis ke liye teherta hai
   Ye hawa ki tarah guzarta hai
   Zindagi ki hui hai lau madham
-  
+
   4
   Eid aayi guzar gayi lekin
   Dil ko sadmoṅ se bhar gayi lekin
   Bhul jayeṅ ge phir bhi sab ye gham
-  
+
   5
   Us ka gham aur bhi dobaala hai
   Jis ke ghar mein imaam baara hai
   Kaise rakhega taaziya o alam
-  
+
   6
   Maah-e-gham hai tulu hone ko
   Ham to paida hue haiṅ rone ko
   Dil ke zakhmoṅ ka hai yehi marham
-  
+
   7
   Dekh kar shaah nashiṅ ko roti hai
   Maaṅ meri baar baar kehti hai
   Kaise bachche uthayeṅ ge parcham
-  
+
   8
   Ghar mein aayeṅ gi Fatima Zehra
   Kaise un ko dikhayeṅ gi chehra
   Ae Khuda rakh le meri maaṅ ka bharam
-  
+
   9
   Ya Ilaahi unheṅ shifa de de
   Jo bhi bimaar haiṅ corona se
   In wabaaoṅ ka zor kar de kam
-  
+
   10
   Aamir ab dur ho mahamaari
   Phir se Ainee ho ye azaadaari

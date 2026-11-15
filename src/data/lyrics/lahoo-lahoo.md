@@ -12,55 +12,55 @@ aliases: ["Lahoo Lahoo"]
 published: false
 romanLyrics: |-
   Lahu lahu dasht-e-Karbala hai
-  
+
   1
   Nabi ki beti ke dil ke tukre hai jaa bajaa
   Khaak o khuṅ mein lathde
   Haiṅ barchhiyoṅ mein koi kaleja
   Chhuri ke niche koi gala hai
-  
+
   2
   Tarap utha Alqama ka paani
   Guzar gaya Fatema ka jaani
   Baras raha hai lahu falak se
   Zamin-e-maqtal ko zalzala hai
-  
+
   3
   Na paas ammu hai aur na baba
   Kise ab aawaaz de Sakina
   Koi laiṅ chhinta hai baali
   Koi rida le ke jaa raha hai
-  
+
   4
   Ajib hai bekasi ka manzar
   Na koi munis na koi yaawar
   Jo laash bhai ki bekafan hai
   To sar behan ka bhi berida hai
-  
+
   5
   Ye kaun bachchi hai mahv-e-zaari
   Hai jis ke kaanoṅ se khun jaari
   Kahaaṅ ho ammu madad ko aao
   Laiṅ tamaaṅche laga raha hai
-  
+
   6
   Dhuaaṅ dhuaaṅ hai qayaam saare
   Ali ki beti kise pukaare
   Kahiṅ pe bistar jhulas raha hai
   Kahiṅ pe jhula sulag raha hai
-  
+
   7
   Mere khuda kaun kis ko roye
   Hai sab ke sab apni jaan khoye
   Kisi ke baazu kate hue haiṅ
   Kisi ka baazu bandha hua hai
-  
+
   8
   Khuda-e-ghairat kathin hai saaat
   Nawaaz Zainab ke dil ko quwwat
   Diyaar-e-Karbobala se aage
   Abhi to Kufe ka saamna hai
-  
+
   9
   Azaan-e-gham de raha hai Aamir
   Karam hai karyal jawaaṅ ka Nayyar

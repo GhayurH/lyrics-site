@@ -12,52 +12,52 @@ aliases: []
 published: false
 romanLyrics: |-
   Amma bas ek raat ka mehmaan hai Husain
-  
+
   1
   Andheri raat hai amma ghamoṅ ka dera hai
   Ab is ke baad mera aakhri savera hai
   Watan se dur mujhe Kufiyoṅ ne ghera hai
-  
+
   2
   Har ek sher-e-dilaawar bichharne waala hai
   Mere safine ka langar bichharne waala hai
   Ke mujh se mera baraadar bichharne waala hai
-  
+
   3
   Jawaaṅ pisar ka janaaza main kal uthaauṅ ga
   Gham o alam se zaifi mein larkharaauṅ ga
   Zarur aana main amma tumheṅ bulaauṅ ga
-  
+
   4
   Dahum ki subh ko ran aisa parne waala hai
   Ke mujh gharib se kunba bichharne waala hai
   Bhara hua ye mera ghar ujarne waala hai
-  
+
   5
   Meri Sakina ko sine se tum laga lena
   Gire jo naaqe se amma use utha lena
   Sitamgaroṅ ke tamaanchoṅ se tum bacha lena
-  
+
   6
   Tumhare chaand ko ghereṅge Shaam ke haale
   Mere badan pe lagaayeṅ ge zulm ke bhaale
   Ke mujh pe tut pareṅ ge ye barchhiyoṅ waale
-  
+
   7
   Abhi to jhule se Asghar bhi ran ko jaaye ga
   Zaif baap ke haathoṅ pe tir khaaye ga
   Lahu mein dub ke beshir muskuraaye ga
-  
+
   8
   Har ek simt se barseṅ ge mujh pe tir o sinaaṅ
   Gulu-e-khushk se hoga yahi pe khun rawaaṅ
   Mera mazaar banega isi jagah amma
-  
+
   9
   Abhi to quwwat-e-dil mujh ko aazmaani hai
   Abhi to mayyat-e-Akbar mujhe uthaani hai
   Abhi to turbat-e-beshir bhi banaani hai
-  
+
   10
   Fiza mein gunj rahi thi sada-e-waawaila
   Haram mein shor tha hilti thi arz-e-Karbobala

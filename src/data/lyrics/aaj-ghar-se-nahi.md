@@ -43,7 +43,7 @@ romanLyrics: |-
   Wo bhi masjid ki jaanib gaya tha
   Ilteja sun lo meri khudara
   Aaj ghar se nahiṅ jaao baba
-  
+
   4
   Jaanti huṅ maiṅ ye baad-e-Zahra
   Ghar meiṅ lagta nahiṅ dil tumhara

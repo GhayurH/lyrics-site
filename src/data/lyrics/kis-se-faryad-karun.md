@@ -13,101 +13,101 @@ published: false
 romanLyrics: |-
   Khwaahar-e-Shaah tarap kar yehi deti thi sada
   Kis se faryaad karuṅ
-  
+
   1
   Dekhti reh gayi main ghar mera barbaad hua
   Kis se faryaad karuṅ
-  
+
   2
   Main ne athaarah baras naazoṅ se paala tha jise
   Aaj roti huṅ use
   Khaak zulfoṅ mein hai aur khuṅ mein sina hai bhara
   Kis se faryaad karuṅ
-  
+
   3
   Haaye wo Asghar-e-maasum bhi maidaaṅ ko gaya
   Tir gardan pe laga
   Mujh se dekha nahiṅ jaata hai wo khaali jhula
   Kis se faryaad karuṅ
-  
+
   4
   Ran ko jaa kar jo Alamdar na waapas aaya
   Mera dil tut gaya
   Mera bhaai meri chaadar ka muhaafiz na raha
   Kis se faryaad karuṅ
-  
+
   5
   Khanjar-e-zulm jo mazlum ki gardan pe chala
   Thi qayaamat barpa
   Qatl Shabbir hue ho gayi Zainab tanha
   Kis se faryaad karuṅ
-  
+
   6
   Kaisi shaadi hui dulha jo bana Ibn-e-Hasan
   Aur Kubra thi dulhan
   Tukre dil ho gaya dulha ka jo laasha aaya
   Kis se faryaad karuṅ
-  
+
   7
   Garm reti pe mere bhaai ka laasha tha para
   Sar tha neze pe charha
   Daalti jism pe hoti jo mere sar pe rida
   Kis se faryaad karuṅ
-  
+
   8
   Aaiye Baaba ke ab aap ka ghar jalta hai
   Sab ka dam ghutta hai
   Kis ko aawaaz duṅ ab kaun sahaara dega
   Kis se faryaad karuṅ
-  
+
   9
   Yehi Kufa hai jahaaṅ ab bhi hai Baaba ka makaaṅ
   Dar badar hum hai yahaaṅ
   Sab hameṅ bhul gaye aisa zamaana badla
   Kis se faryaad karuṅ
-  
+
   10
   Daakhila Shaam mein ek hashr bana mere liye
   Sar hamaare the khule
   Beridaai ke wo lamhaat ke dam ghutta tha
   Kis se faryaad karuṅ
-  
+
   11
   Hum rasan basta the aur takht pe tha baani-e-shar
   Tasht mein bhaai ka sar
   Main ne kin aankhoṅ se wo dard ka manzar dekha
   Kis se faryaad karuṅ
-  
+
   12
   Shimr ne aise Sakina ka gala baandha hai
   Us ka dam rukta hai
   Mujh se dekha nahiṅ jaata hai tarapna us ka
   Kis se faryaad karuṅ
-  
+
   13
   Taaziyaanoṅ se jo Abid ka badan hai zakhmi
   Mera dil hai chhalni
   Aisi zanjir ke gardan se lahu behta tha
   Kis se faryaad karuṅ
-  
+
   14
   Qaid mein haaye Sakina ne jo dam tor diya
   Yaad aaye bhaiya
   Khuṅ bhare kurte mein Abid ne use dafn kiya
   Kis se faryaad karuṅ
-  
+
   15
   Zulm ki haar hui qaid se kunba chhuta
   Gham magar saath raha
   Ghar ki barbaadi ka manzar meri aankhoṅ mein raha
   Kis se faryaad karuṅ
-  
+
   16
   Jabke lute hue asbaab ko main ne dekha
   Pairahan bhaai ka
   Asr-e-Ashur ka har lamha palat kar aaya
   Kis se faryaad karuṅ
-  
+
   17
   Lab pe Zainab ke tha Akhtar yehi nauha paiham
   Kaun dekhe mera gham

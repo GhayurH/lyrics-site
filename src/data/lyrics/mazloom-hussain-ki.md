@@ -23,7 +23,7 @@ romanLyrics: |-
   Samaan jala ghar baar luta
   Kuch bhi na bacha lekin Zainab
   Ye deen bachane aayi hai
-  
+
   2
   Har khutba is ka majlis hai
   Har aansuṅ is ka matam hai
@@ -31,7 +31,7 @@ romanLyrics: |-
   Aur dil mein bahattar ka gham hai
   Ye ahl-e-aza se farsh-e-aza
   Ghar ghar bichhwane aayi hai
-  
+
   3
   Hum par pathar barsaate ho
   Haṅste ho jashn manaate ho
@@ -39,7 +39,7 @@ romanLyrics: |-
   Aur baaghi baaghi kehte ho
   Shabbir to paak namazi hai
   Ye tum ko batane aayi hai
-  
+
   4
   Kaunain ki malka ki beti
   Wo sharm o haya ki shehzadi
@@ -47,7 +47,7 @@ romanLyrics: |-
   Chaadar chhini thi wo Bibi
   Dunya ki maaoṅ behnoṅ ko
   Parda sikhlaane aayi hai
-  
+
   5
   Jisne bhai ki gardan par
   Chalte huwe khanjar dekha tha
@@ -55,7 +55,7 @@ romanLyrics: |-
   Shabbir se jis ka waada tha
   Wo Zainab Shaam mein bhai ka
   Matam karwaane aayi hai
-  
+
   6
   Sarwar jab baad reha ho kar
   Jab aayi Karbobala muztar

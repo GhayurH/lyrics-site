@@ -14,7 +14,7 @@ romanLyrics: |-
   Shabbir pe ab tanhaai hai
   Farzand-e-Nabi par ummat ne
   Afsos qayamat dhaayi hai
-  
+
   1
   Mazlum pukaare ab kis ko
   Akbar bhi nahiṅ Abbas nahiṅ
@@ -22,7 +22,7 @@ romanLyrics: |-
   Ummat ko magar ehsaas nahiṅ
   Pardesi ek musafir ko
   Taqdir kahaaṅ par laayi hai
-  
+
   2
   Maqtal hi nahiṅ saara aalam
   Hal min ki sada se gunj utha
@@ -30,7 +30,7 @@ romanLyrics: |-
   Shabbir ka wo lashkar na raha
   Seh roz ke pyaase gardan mein
   Ye kaisi qayamat aayi hai
-  
+
   3
   Le aaye haiṅ Sarwar mashk o alam
   Pyaase pe hua har zulm o sitam
@@ -38,7 +38,7 @@ romanLyrics: |-
   Shabbir ko tha is baat ka gham
   Dam todte bete ne ran mein
   Sine pe barchi khaayi hai
-  
+
   4
   Ek hashr bapa hai maqtal mein
   Jibril ke lab par hai nauha
@@ -46,7 +46,7 @@ romanLyrics: |-
   Aati hai sada-e-waawaila
   Shabbir ne haye ghurbat mein
   Akbar ki laash uthayi hai
-  
+
   5
   Ye khun mein tar nanha sa gala
   Naana ko dikhaana mahshar mein
@@ -54,7 +54,7 @@ romanLyrics: |-
   Ye soch ke ran mein Sarwar ne
   Hamshakl-e-Nabi ke pehlu mein
   Beshir ki qabr banaayi hai
-  
+
   6
   Farzand-e-Payambar par ran mein
   Nau laakh ka lashkar tut para
@@ -62,7 +62,7 @@ romanLyrics: |-
   Hai Sibt-e-Nabi ka khushk gala
   Kohraam bapa hai maqtal mein
   Har simt udaasi chhaayi hai
-  
+
   7
   Ye kalmagoṅ ne socha nahiṅ
   Hai bos-e-risaalat ka ye makiṅ
@@ -70,7 +70,7 @@ romanLyrics: |-
   Hai khun mein tar pyaase ki jabiṅ
   Ahmed ke nawaase ka lutna
   Islam ki ye ruswaai hai
-  
+
   8
   Is ghaalib ko pehchaan Muhib
   Jo Karb o Bala tak aaya hai

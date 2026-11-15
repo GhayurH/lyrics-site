@@ -15,57 +15,57 @@ published: false
 # raw_sha256: 7efbc2da1875f9a0a8051c70a831f1e29af9f71d33c3f38e20340864bc66400c
 romanLyrics: |-
   Ali Ali Haider Maula
-  
+
   1
   Sadiyoṅ ke intezar ka kaisa sila diya
   Donoṅ jahaaṅ ka sar meri janib jhuka diya
   Terah Rajab Ali se ye bola Khuda ka ghar
   Qibla mujhe to aap ne Kaba bana diya
-  
+
   2
   Aaye Ali Khana-e-Kaba ye pukara
   Mil ke lagao sabhi Haideri nara
-  
+
   3
   Dekhne manzar ye Nabi aur Wali aaye haiṅ
   Ghar hai ye Allah ka aur us mein Ali aaye haiṅ
-  
+
   4
   Kaisa hasiṅ aaj hai Kabe ka nazara
   Kis ko mila wasf ye dunya mein dobara
-  
+
   5
   Zeb-e-Musalla the Nabi karte the Haq se dua
   Kaun kufv-e-Fatima Zehra hai Khudaya bata
-  
+
   6
   Kaisa diya Khaliq-e-Akbar ne ishara
   Aaya dar-e-Haider-e-Safdar pe sitara
-  
+
   7
   Raatoṅ ko Ali jage to Khaliq ne ye socha
   Farsh-e-Shab-e-Hijrat ko sajana hi parega
   Khatre mein na par jae mera wasf-e-Khudayi
   Ik shab ke liye is ko sulana hi parega
-  
+
   8
   Waqia ye bhi Shab-e-Hijrat ke sabab ho gaya
   Wasf-e-Khudayi ko bachana tha Ali so gaya
   Bistar-e-Ahmad ke qarib pahuncha bechara
   Lashkar-e-Kuffar ka sardar pukara
-  
+
   9
   Jis pe mere Maula ne ik ghaiz mein dali nazar
   Uthta nahiṅ dunya se utha jata hai wo Ahl-e-Shar
   Bughz-e-Ali deta hai bande ko khasara
   Ishq-e-Ali ne hi muqaddar ko saṅwara
-  
+
   10
   Le ke Muhammad se alam jate rahe surma
   Guzre kayi roz magar fatah na Khaibar hua
   Mil gaya mushkil mein Muhammad ko sahara
   Nad-e-Ali parh ke Muhammad ne pukara
-  
+
   11
   Mazhar o Farhan ka ailan zamana sune
   Haider-e-Karrar ki midhat mein tarana sune

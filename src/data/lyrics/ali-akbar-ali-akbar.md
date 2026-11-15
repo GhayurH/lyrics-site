@@ -16,55 +16,55 @@ published: false
 romanLyrics: |-
   Ae mere nur-e-nazar Ae mere lakht-e-jigar
   Baap aaya hai utho dekho to haal-e-pidar
-  
+
   1
   Maula ne kaha bete ke shane ko hila kar
   Ali Akbar Ali Akbar
   Kiuṅ uthte nahiṅ ho meri aawaz pe Akbar
   Ali Akbar Ali Akbar
-  
+
   2
   Baba hai pareshan zara aaṅkheṅ to kholo
   Barchhi kahaṅ khayi hai kahaṅ dard hai bolo
   Yuṅ eriyaṅ ragro na mere lal zamiṅ par
   Ali Akbar Ali Akbar
-  
+
   3
   Tari hai ghashi tum pe lahu beh gaya kitna
   Himmat nahiṅ uthne ki to lete raho beta
   Main thik huṅ aahista se keh do mere dilbar
   Ali Akbar Ali Akbar
-  
+
   4
   Gir gir ke har ek lash se main puchh raha tha
   Kya tum mere Akbar ho bata do mujhe itna
   Main lash pe pahuncha huṅ teri ghutniyoṅ chal kar
   Ali Akbar Ali Akbar
-  
+
   5
   Gardan mein mere hath zara dal do beta
   Baba ke sahare se utho ghar chalo beta
   Godi mein utha sakta nahiṅ main tumheṅ Akbar
   Ali Akbar Ali Akbar
-  
+
   6
   Hum sara nahiṅ parh sake Akbar khat-e-Sughra
   Is baat ka main kya duṅ jawab us ko Ae beta
   Shadi ka teri puchh rahi hai teri khwahar
   Ali Akbar Ali Akbar
-  
+
   7
   Bachche ko mere mar ke hanste haiṅ jo aada
   Main baddua de duṅ to koi bhi na bachega
   Ae lal haiṅ hum naqa-e-Salih se to barh kar
   Ali Akbar Ali Akbar
-  
+
   8
   Sona to hai to aa jao meri jaan sulaeṅ
   Aao phupphi amma ki tumheṅ lori sunaeṅ
   Hum baith gaye baba ki zanu pe rakho sar
   Ali Akbar Ali Akbar
-  
+
   9
   Aahista se Sajjad pukare Shah-e-Wala
   Shabbir ki ghairat ko gawara nahiṅ beta

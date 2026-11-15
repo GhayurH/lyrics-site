@@ -20,55 +20,55 @@ romanLyrics: |-
   Mere baal khule haathon mein rasan
   Akbar ka jigar barchi se chida
   Asghar ko mere pani na mila
-  
+
   2
   Kanton pe chali hoo ay bhai
   Har ek qadam teri yaad aayi
   Bazaar mein pathar barse hai
   Darbar mein thi mai be-parda
-  
+
   3
   Aankhein meri tarsi rone ko
   Tarsi hai sakina sone ko
   Aada ne mujhe rone na diya
   Bacchi ko teri sone na diya
-  
+
   4
   Teri gardan aur zaalim ki churi
   Ay bhai mai kuch bhi kar na saki
   Rone ke siwa mai kya karti
   Aankhon se baha khoon ka darya
-  
+
   5
   Matam mai karun tera kaise
   Azaad ho pehle haath mere
   Lekin hai mera waada tujhse
   Ta hashr rahega zikr tera
-  
+
   6
   Tere bin jo watan jayegi behan
   Zinda to na reh payegi behan
   Ghar qabr lagega zainab ko
   Yaad aayega bhaiya saath tera
-  
+
   7
   Poochegi agar sughra mujhse
   Kyun aaye nahi baba mere
   Mai kaise kahungi ay sughra
   Baba ne basayi karbobala
-  
+
   8
   Mai aun o mohamed ke hujre
   Dekhungi bhala khaali kaise
   Sab zabt ke bandhan tootenge
   Yaad aayenge ibne abdullah
-  
+
   9
   Zindan mein sakina mar gayi hai
   Dunya se safar wo kar gayi hai
   Nikla na rehaai ka armaan
   Taboot e sakina bhi na utha
-  
+
   10
   Farhan fughan thi zainab ki
   Jo shaam ke zindan mein goonji

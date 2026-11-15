@@ -16,37 +16,37 @@ romanLyrics: |-
 
   Pardes hai ghurbat hai kahaaṅ jaaegi Zainab
   Ghabraaegi Zainab ghabraaegi Zainab
-  
+
   1
   Tum saani-e-Zehra ki gharibi ko samajhna
   Ghazi ki qasam hai tumheṅ bhaai na tarapna
   Beparda teri laash pe jab aaegi Zainab
-  
+
   2
   Kis tarah guzruṅgi qayaamat ka wo lamha
   Jab shaam-e-gharibaaṅ mein mera chaand na hoga
   Baaba se nigaaheṅ na mila paaegi Zainab
-  
+
   3
   Insaaf karo kaise behen dil ko sambhaale
   Is tanz ka ehsaas mujhe maar na daale
   Baaghi ki behen Shaam mein kehlaaegi Zainab
-  
+
   4
   Tum meri tarah gham ye akele hi sahoge
   Waada karo ye baat na Baano se kahoge
   Zindaaṅ mein Sakina ko jo dafnaaegi Zainab
-  
+
   5
   Dekhi nahiṅ jaaeṅgi wo meinus nigaaheṅ
   Sughra jo use deti hai jine ki duaaeṅ
   Akbar ke bina jab bhi watan jaaegi Zainab
-  
+
   6
   Kya kya hua baazaar mein batlaauṅgi kaise
   Abdullah-e-Jafar ko main samjhaauṅgi kaise
   Jab nil rasan ke unheṅ dikhlaaegi Zainab
-  
+
   7
   Bhaai pe nazar kar ke Takallum wo pukaari
   Bhaiya main samajhti huṅ tabiat ko tumhaari

@@ -15,7 +15,7 @@ romanLyrics: |-
   Fatima kya haiṅ ye darain ke Maula se suneiṅ
   Aur Haider ki sana Fatima Zahra se suneiṅ
   Guftagu karte haiṅ aapas meiṅ Ali o Zahra
-  
+
   1
   Murtaza bole Batul aap haiṅ izzat meri
   Aap zaujah haiṅ meri ye hai fazilat meri
@@ -23,7 +23,7 @@ romanLyrics: |-
   Haaṅ faqat aap haiṅ dunya meiṅ zarurat meri
   Sochta huṅ ke namazoṅ meiṅ dua kya maanguṅ
   Aap ke baad Khuda se main bhala kya maanguṅ
-  
+
   2
   Fatima boleiṅ Ali aap ke mansab haiṅ bare
   Dahr meiṅ aana tha to ghar meiṅ Khuda ke utre
@@ -31,7 +31,7 @@ romanLyrics: |-
   Aap ke baba ke ehsaan haiṅ hum par kitne
   Bachpane hi se sambhala hai mere baba ko
   Aap ke baba ne paala hai mere baba ko
-  
+
   3
   Bole Haider ye do aalam tera sadqa Zahra
   Arsh se utra hai tere liye Zohra Zahra
@@ -39,7 +39,7 @@ romanLyrics: |-
   Yahaaṅ bichhta hai tahajjud ka musalla Zahra
   Bas Muhammad pae tazeem khare rehte haiṅ
   Warna sab anbiya sajde meiṅ pare rehte haiṅ
-  
+
   4
   Fatima boleiṅ main qurban mere Aaqa par
   Khatm hai manzil-e-irfan mere Aaqa par
@@ -47,7 +47,7 @@ romanLyrics: |-
   Baba jaan dete haiṅ khud jaan mere Aaqa par
   Baat Baba ne ye ashab ko batlayi hai
   Tum to naukar ho magar mera Ali bhai hai
-  
+
   5
   Murtaza bole faqat masdar-e-ismat tum ho
   Hujjatullah jo haiṅ un pe bhi hujjat tum ho
@@ -55,7 +55,7 @@ romanLyrics: |-
   Main huṅ haq par to mere haq ki shahadat tum ho
   Kaun darbar meiṅ paigham-e-Ilahi deta
   Tum na hotiṅ to meri kaun gawahi deta
-  
+
   6
   Boleiṅ Zahra main zamane ki khabar jaanti huṅ
   Is hatheli ki tarah aalam-e-zarr jaanti huṅ
@@ -63,7 +63,7 @@ romanLyrics: |-
   Dast-e-Khaliq ke main haathoṅ ka hunar jaanti huṅ
   Mojiza bar sar-e-aflaak dikhaya tum ne
   Main ne khud dekha hai Aadam ko banaya tum ne
-  
+
   7
   Bole Haider nahiṅ shak is meiṅ zara sa Zahra
   Aap haiṅ ilm-e-ladunni ka asasa Zahra
@@ -71,7 +71,7 @@ romanLyrics: |-
   Wo bhi malum hai jo kuchh nahiṅ hoga Zahra
   Jitna Allah ne nabiyoṅ ko parha rakha hai
   Utna to aap ne Fizza ko bata rakha hai
-  
+
   8
   Fatima boleiṅ mere Maalik o Mukhtar Ali
   Khadima huṅ main teri tu mera sardar Ali
@@ -79,7 +79,7 @@ romanLyrics: |-
   Fatima sab se bari hai teri hubdar Ali
   Teri azmat yuṅ zamane ko dikhaye Zahra
   Teri nalain ko haathoṅ pe uthaye Zahra
-  
+
   9
   Teri qismat ke paighambar bhi sana-khwaṅ mile
   Ab kisi maaṅ ko bhi mumkin nahiṅ ye shaan mile
@@ -87,7 +87,7 @@ romanLyrics: |-
   Tujh ko hujre meiṅ tere bolte Quran mile
   Kab Ibrahim ke virse meiṅ ye izzat aayi
   Tere har bete ke hisse meiṅ imamat aayi
-  
+
   10
   Mir Sajjad Ali kehte the har baar yehi
   Ek hai Fatima aur ek hai dunya meiṅ Ali

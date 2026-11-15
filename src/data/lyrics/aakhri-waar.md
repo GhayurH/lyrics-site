@@ -23,7 +23,7 @@ romanLyrics: |-
   Khushk gardan pe jis waqt khanjar rakha
   Dekh kar pehla waar aisi Zainab giri
   Shimr hansta raha aakhri waar tak
-  
+
   2
   Yuṅ to sattar qadam pe thi Zainab khari
   Kuch qadam aage bali Sakina bhi thi
@@ -31,7 +31,7 @@ romanLyrics: |-
   Larkharate hue khaak par gir gayi
   Baap ko dekh kar beti roti rahi
   Shimr sine pe tha aakhri waar tak
-  
+
   3
   Khenchta tha kabhi rish Shabbir ke
   Maarta tha wo hans kar tamache kabhi
@@ -39,7 +39,7 @@ romanLyrics: |-
   Aur kabhi jism par maarta tha chhuri
   Khun hi khun tha zakhm hi zakhm thay
   Itna maara gaya aakhri waar tak
-  
+
   4
   Shimr se shaah ka jab gala na kata
   Paas Sinaan ibn-e-Anas aa gaya
@@ -47,7 +47,7 @@ romanLyrics: |-
   Aise khencha hui zulm ki inteha
   Aa gayi saath mein saari sukhi rageṅ
   Neza uljha raha aakhri waar tak
-  
+
   5
   Bughz kitna tha ibn-e-Ali se usay
   Shimr jaldi mein tha pehle hi waar se
@@ -55,7 +55,7 @@ romanLyrics: |-
   Ek pyase ka sar kaatne ke liye
   Uske ek haath mein tegh aur dusra
   Haath baaloṅ mein tha aakhri waar tak
-  
+
   6
   Ek maaṅ god mein rakh ke bete ka sar
   Kab se baithi hai ye Shimr ko kya khabar
@@ -63,7 +63,7 @@ romanLyrics: |-
   Beh ke khanjar se girta raha khaak par
   Kat gayi ungliyaṅ phir bhi sar na bacha
   Haath maaṅ ne rakha aakhri waar tak
-  
+
   7
   Ae Raza aur Zeeshan dekho zara
   Karbala mein hai maujud wo qatl gaah

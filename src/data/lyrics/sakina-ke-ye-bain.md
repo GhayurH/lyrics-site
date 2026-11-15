@@ -16,47 +16,47 @@ romanLyrics: |-
 
   Hai purhaul sehra qayaamat ka manzar
   Chalo Karb o Bala se chaleṅ bhai Akbar
-  
+
   1
   Chalo ab Madine mein chal kar raheṅge
   Na gauhar chhineṅge na durre lageṅge
   Chacha ko bhi le aao ran se jaga kar
-  
+
   2
   Qayaamat ki garmi hai aur reg-e-sehra
   Yahaṅ nind kya tum ko aayegi bhaiya
   Na takiya hai koi na hai koi bistar
-  
+
   3
   Rida sar pe ahl-e-haram ke nahiṅ hai
   Sitam khez Karb o Bala ki zamiṅ hai
   Koi to Madine mein de dega chaadar
-  
+
   4
   Rasan se hai jakri hui meri gardan
   Zamaana hua din-e-Khaaliq ka dushman
   Mere bhai Akbar shabih-e-Payambar
-  
+
   5
   Mere khushk hontoṅ ko shaadaab kar do
   Mujhe aake Kausar se sairaab kar do
   Ke ab tashnagi ban chuki hai samandar
-  
+
   6
   Pas-e-Shaah badla hai aisa zamaana
   Nahiṅ sar chhupaane ko koi thikaana
   Chhini sar se chaadar jalaaya gaya ghar
-  
+
   7
   Abhi inqilaab aur aayeṅge bhaiya
   Abhi aake khaime jalaayeṅge aada
   Hai shaam-e-gharibaṅ ka tufaan sar par
-  
+
   8
   Khudaara taras khaao ahl-e-haram par
   Jalaane ko khaime bare haiṅ sitamgar
   Bas ab is se pehle ke chhin jaaye gauhar
-  
+
   9
   Had-e-iltija ki hui khatm Ishrat
   Chala qaafila barh gayi gham ki shiddat

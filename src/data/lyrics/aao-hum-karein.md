@@ -13,7 +13,7 @@ published: false
 romanLyrics: |-
   Aao hum kareiṅ ye sheh ka matam
   Ae Husainiyo
-  
+
   1
   Majlis-e-aza jahaṅ hui hai
   Wo makaṅ Iram se kam nahiṅ hai
@@ -23,7 +23,7 @@ romanLyrics: |-
   Dil ki aarzu payega yahaṅ
   Sheh ke gham meiṅ kar lo aankheiṅ purnam
   Ae Husainiyo
-  
+
   2
   Tashnalab Sakina ki sabileiṅ
   Kis hasiṅ tarah se ye saji haiṅ
@@ -33,7 +33,7 @@ romanLyrics: |-
   Har maraz ki hai bas yehi dawa
   Ye aza hai zakhm-e-dil ka marham
   Ae Husainiyo
-  
+
   3
   Matami julus Shah-e-Diṅ ka
   Parcham-e-Abbas hai nigehbaṅ
@@ -43,7 +43,7 @@ romanLyrics: |-
   Zehra ki dua wo shakhs payega
   Uncha hi rahega apna parcham
   Ae Husainiyo
-  
+
   4
   Har amal se uncha ho gaya ye
   Sheh ke gham meiṅ jo ashk bahe haiṅ
@@ -53,7 +53,7 @@ romanLyrics: |-
   Gham meiṅ mubtila ambiya bhi haiṅ
   Ji usul-e-diṅ ka hai ye gham
   Ae Husainiyo
-  
+
   5
   Farsh-e-gham jahaṅ jahaṅ bichha hai
   Arsh ke farishte bhi wahiṅ haiṅ
@@ -63,7 +63,7 @@ romanLyrics: |-
   Nauhago yahaṅ Fatima bhi haiṅ
   Hai badi pur nur majlis-e-gham
   Ae Husainiyo
-  
+
   6
   Nauha marsiya ki ye sadaeiṅ
   Gunjti haiṅ jab kabhi faza meiṅ
@@ -73,7 +73,7 @@ romanLyrics: |-
   Aa ke tum yahaṅ maang lo dua
   Sheh ka naam lete raho har dam
   Ae Husainiyo
-  
+
   7
   Majlis o matam meiṅ raat bhar jo
   Jaagti rehti haiṅ jin ki aankheiṅ

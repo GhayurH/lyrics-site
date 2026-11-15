@@ -18,37 +18,37 @@ romanLyrics: |-
 
   Muhammad ka pyaasa nawaasa hai ye
   Ali aur Zahra ka pyaara hai ye
-  
+
   1
   Kai roz ka haaye tashna dahan hai
   Musaafir hai aur ye gharib-ul-watan hai
   Ke tute diloṅ ka sahaara hai ye
-  
+
   2
   Pyaare Nabi ki pyaari nishaani
   Use maar daalegi tashna dahaani
   Muhammad ki aankhoṅ ka taara hai ye
-  
+
   3
   Pilaaye jo qaatil ko sharbat ke saaghar
   Pilaayega jo hashr mein jaam-e-Kausar
   Usi sher-e-Haidar ka beta hai ye
-  
+
   4
   Wo chhe maah ka Asghar bezabaaṅ hai
   Sakina si maasum tashna dahaaṅ hai
   Musalmaanoṅ hum sab ka Maula hai ye
-  
+
   5
   Safar ki aziyat uthayi hai is ne
   Ghariboṅ ki basti basaayi hai is ne
   Madine se mehmaan aaya hai ye
-  
+
   6
   Karo pesh is ko khiraaj-e-aqidat
   Wo jis tashna lab ne bachaayi shariat
   Muhammad ki god ka paala hai ye
-  
+
   7
   Adaa ki shahaadat ne ye shaadmaani
   Bujhi hauz-e-Kausar tashna dahaani

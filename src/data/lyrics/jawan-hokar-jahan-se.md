@@ -13,35 +13,35 @@ published: false
 romanLyrics: |-
   Jawaan ho kar jahaaṅ se tum sidhaare ae Ali Akbar
   Jiye ab maaṅ bata kis ke sahaare Ali Akbar
-  
+
   1
   Bari umideṅ waabasta thi tum se jab jawaaṅ hoge
   Phuphi ke maaoṅ behnoṅ ke sahaare ae Ali Akbar
-  
+
   2
   Safina dubta hai maaṅ ka ab manjhdhaar mein beta
   Lagaaye kaun kashti ab kinaare ae Ali Akbar
-  
+
   3
   Balaayeṅ chaand se chehre ki luṅ ek baar to aajaa
   Nazar ka maaṅ teri sadqa utaare ae Ali Akbar
-  
+
   4
   Shama roti rahi karyal jawaaṅ ki dekh kar surat
   Wo jab maaṅ ne tere gesu sanwaare ae Ali Akbar
-  
+
   5
   Lagaaye aas baithi hai udhar Sughra Madine mein
   Behan ko lene kab jaaoge pyaare ae Ali Akbar
-  
+
   6
   Sakina kho gayi hai ban mein keh do us ke ammu se
   Ye dukhiya maaṅ kahaaṅ jaa kar pukaare ae Ali Akbar
-  
+
   7
   Pidar se yuṅ bhi koi ruthta hai maan bhi jaao
   Zaifi kis tarah tujh bin guzaare ae Ali Akbar
-  
+
   8
   Sadaa Anjum wo kya deta jigar tukre badan chhalni
   Na bole muṅh se wo aur maaṅ pukaare ae Ali Akbar

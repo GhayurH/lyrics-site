@@ -12,14 +12,14 @@ aliases: ["Kya Poochte Ho"]
 published: false
 romanLyrics: |-
   Kya puchhte ho Abid-e-khasta jigar ka haal
-  
+
   1
   Gham se kabhi bukhaar ki iza se the nidhaal
   Abbas o aur Qasim o Akbar ka tha malaal
   Yaad aa rahe the Aun o Muhammad se nau nihaal
   Aashur ka tha din to qayaamat ki raat thi
   Naamus-e-Mustafa ki hifaazat ki raat thi
-  
+
   2
   Jab zaalimoṅ ne aag lagaai khayaam mein
   Quwwat nahiṅ thi uthne ki paai Imam mein
@@ -27,7 +27,7 @@ romanLyrics: |-
   Ak daagh aur par gaya maah-e-tamaam mein
   Khaimoṅ mein aag se thi jo Zainab ko bekali
   Sajjad uth khare hue keh kar ke Ya Ali
-  
+
   3
   Khaima jala to khaak ke upar basar hui
   Mushkil tha aaj subh ka hona magar hui
@@ -35,7 +35,7 @@ romanLyrics: |-
   Abid ko jab asiri ki apni khabar hui
   Kehne lage ke jaata huṅ Baba salaam lo
   Haq mein mere huzur duaaoṅ se kaam lo
-  
+
   4
   Sar Karbala ko aap ne kis sabr se kiya
   Mere liye hai Kufe se taa Shaam faasla
@@ -43,7 +43,7 @@ romanLyrics: |-
   Naamus-e-Mustafa ka hai dar pesh marhala
   Jaaeṅgi nange sar Phuphi darbaar-e-Shaam mein
   Dekhuṅ ga main ye taab kahaaṅ hai ghulaam mein
-  
+
   5
   Itne mein qaid karne ko aa pahuṅche ashqiya
   Kehne lage Phuphi se ye bimaar-e-Karbala
@@ -51,7 +51,7 @@ romanLyrics: |-
   Manzil kathin hai aaj ki behtar kare Khuda
   Mushkil mein Ya Ali madad kehna baar baar
   Bachchoṅ se aur baali Sakina se hoshyaar
-  
+
   6
   Abid ki naatawaani pe hairaan the laiṅ
   Manzil ko sar kare ga ye aata na tha yaqiṅ
@@ -59,7 +59,7 @@ romanLyrics: |-
   Is ke sabaat o himmat o juraat pe aafriṅ
   Ye azm hai ke qaafila saalaar ban gaya
   Aisa chala ke waqt ki raftaar ban gaya
-  
+
   7
   Yuṅ Karbala se ujra hua qaafila chala
   Jaise kisi ka qaafila saalaar mar gaya
@@ -67,7 +67,7 @@ romanLyrics: |-
   Aayi sar-e-Husain se besaakhta sada
   Kis haal mein ho bachchi pe meri nazar nahiṅ
   Zainab Sakina gir gayi tum ko khabar nahiṅ
-  
+
   8
   Khaama ko rok dil mein nahiṅ taab ae Uruj
   Purnam hai saari mahfileṅ ahbaab ae Uruj

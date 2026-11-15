@@ -20,49 +20,49 @@ romanLyrics: |-
   Bhuk aur pyaas ka maara hai har ek pir o jawaaṅ
   Shiddat-e-pyaas se hai tarakhti hui teri zabaaṅ
   Khushk hai tera gala aa palat aa ae Husain
-  
+
   2
   Tera har ek amal nek hai taabinda hai
   Maarka-e-haq ke liye tera ye paainda hai
   Sabr-e-Ayyub tere sabr se sharminda hai
   Qatl jo haq ke liye ho gaya wo zinda hai
   Tere haq mein hai baqa aa palat aa ae Husain
-  
+
   3
   Tu ne Islam ko Akbar ki jawani de di
   Thi jo nana ki nishani wo nishani de di
   Nafs imaan ko ashkoṅ ko rawani de di
   Khatm jo ho na sakegi wo kahani de di
   Naam uncha hai tera aa palat aa ae Husain
-  
+
   4
   Subh se tu ne kayi laasheṅ uthaaye haiṅ Husain
   Zakhm par zakhm har ek gaam pe khaaye haiṅ Husain
   Dushman-e-din bahut tujhko sataaye haiṅ Husain
   Khanjar o tegh o sinaaṅ tujh pe chalaaye haiṅ Husain
   Tu ne har zulm saha aa palat aa ae Husain
-  
+
   5
   Laash-e-Qasim ke rakhe tukre abaa mein tu ne
   Waqf ki apni zabaaṅ hamd o sana mein tu ne
   Dar kiya apna fida raah-e-Khuda mein tu ne
   Zulm kya kya na sahe Karbobala mein tu ne
   Kar diya waada wafa aa palat aa ae Husain
-  
+
   6
   Ho gaya qatl har ek naasir o yaawar tera
   Tera Qasim hai na ab hai Ali Akbar tera
   Aun hai aur na Muhammad hai na Asghar tera
   So gaya nehr pe Abbas-e-dilaawar tera
   Tu akela hai khara aa palat aa ae Husain
-  
+
   7
   Aa mere paas Muhammad ke nawase aaja
   Ae mere tin shab o roz ke pyase aaja
   Jaanib-e-arsh-e-bariṅ Karbobala se aaja
   Ab to milne ke liye apne Khuda se aaja
   Mera sab kuch hai tera aa palat aa ae Husain
-  
+
   8
   Tera noha tere Akhtar ne likha hai Shabbir
   Tere Irfan ne noha ye parha hai Shabbir

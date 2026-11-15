@@ -18,42 +18,42 @@ romanLyrics: |-
   Ashk baha le ye maaṅ sadqa nikale ye maaṅ
   Tum ko saja le ye maaṅ dulha bana le ye maaṅ
   Aao jo ek baar Ali Akbaram
-  
+
   2
   Hichkiyaaṅ le le ke maaṅ sunti hai jab bhi azaaṅ
   Tan se nikalti hai jaaṅ lagti hai dil par sinaaṅ
   Chalti hai talwaar Ali Akbaram
-  
+
   3
   Aa gayi Shaam-e-bala hoti hai maaṅ berida
   Bhul gaye maaṅ ko kya sunte nahiṅ kiuṅ sada
   Maaṅ ke madadgaar Ali Akbaram
-  
+
   4
   Gham se chhurao use shakl dikhao use
   Le ke to aao use bhul na jao use
   Sughra hai bimar Ali Akbaram
-  
+
   5
   Wo jo hai maaṅ ki misaal Zainab-e-bargashta haal
   Jis ne rakha hai khayal paala hai athara saal
   Zainab-e-naachaar Ali Akbaram
-  
+
   6
   Ae mere karyal jawaaṅ maaṅ ke bandhi resmaaṅ
   Chalne ko hai kaarwaaṅ tum ho na jaane kahaaṅ
   Mil to le ek baar Ali Akbaram
-  
+
   7
   Tum nahiṅ hona malul maaṅ ko sitam sab qubul
   Sar pe agarche hai dhul bach gaya din-e-Rasul
   Lut gaya ghar baar Ali Akbaram
-  
+
   8
   Aa gaya darbaar-e-Shaam jama haiṅ sab khaas o aam
   Hans raha hai belagaam Bibiyoṅ ka le ke naam
   Majma-e-aghyaar Ali Akbaram
-  
+
   9
   Hai ye sada-e-Naved ghar pe jo aaye Naved
   Sadqa jo paaye Naved le ke wo jaaye Naved

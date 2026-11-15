@@ -13,7 +13,7 @@ published: false
 romanLyrics: |-
   Jab Madine ka musaafir koi paa jaata huṅ
   Hasrat aati hai ye pahuncha main raha jaata huṅ
-  
+
   1
   Do qadam bhi nahiṅ chalne ki hai mujh mein taaqat
   Shauq khenche liye jaata hai main kya jaata huṅ
@@ -21,11 +21,11 @@ romanLyrics: |-
   2
   Qaafile wale chale jaate haiṅ aage aage
   Madad ae shauq ke pichhe main raha jaata huṅ
-  
+
   3
   Kaarwaan mein rahe Yasrab mein huṅ aaghaaz zera
   Sab mein shaamil huṅ magar sab se juda jaata huṅ
-  
+
   4
   Faiz-e-Maula se abhi sabr ki taaqat hai Ameer
   Jo kari saamne aati hai utha jaata huṅ

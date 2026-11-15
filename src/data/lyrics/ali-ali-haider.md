@@ -19,21 +19,21 @@ romanLyrics: |-
   Ke pathroṅ mein khushi se ajab hilali thi
   Khuda ka shukr ke ik samt ruk gayiṅ warna
   Har aik samt se diwar phatne wali thi
-  
+
   Nafs-e-Nabi Sher-e-Khuda Zahra ka shauhar
   Maula mera aaqa mera Saqi-e-Kausar
   Ali Ali Haider
-  
+
   1
   Aa ke zaminoṅ ko khud aflak ne chuma
   Baithe Khuda wajd mein kuchh aur bhi jhuma
   Bint-e-Asad aayeṅ to Kabe mein bana dar
-  
+
   2
   Bint-e-Asad kehne lagiṅ majra hai kya
   Aaṅkh nahiṅ kholta dekheṅ mera bachcha
   Bole Nabi bhayi ko hathoṅ pe utha kar
-  
+
   3
   Dunya ko dekhna bhi gawara nahiṅ kiya
   Jab tak Ali ne dekha na chehra Rasul ka
@@ -46,27 +46,27 @@ romanLyrics: |-
   Naam-e-Ali Rab ne baharoṅ pe bhi likha
   Chand pe suraj pe sitaroṅ pe bhi likha
   Naam yehi likha tha Jibreel ke par par
-  
+
   4
   Haaṅ teri qismat bhi saṅwar jaegi pyare
   Dubti kashti bhi ubhar jaegi pyare
   Bola Khuda Nuh se tu wird yehi kar
-  
+
   5
   Jang ke maidan mein chaliswaṅ din tha
   Nad-e-Ali parh ke Nabi ne jo pukara
   Aaye Ali jis ghari Khaibar ka ura dar
-  
+
   6
   Yaad dilata huṅ tumheṅ Khum ka nazara
   Jis ghar Sarkar ne Man Kunto pukara
   Kehne laga wajd mein Ashab ka lashkar
-  
+
   7
   Shankh ki ye gunj ye naubat ki sadaeṅ
   Sare zamane ko ye paigham sunaeṅ
   Nara lagate the ye Shahbaz Qalandar
-  
+
   8
   Zill-e-Raza ho ke wo Farhan Ali ho
   Donoṅ ka maqsad hai bayaṅ Shan-e-Ali ho

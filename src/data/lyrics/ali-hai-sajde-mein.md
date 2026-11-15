@@ -16,23 +16,23 @@ published: false
 romanLyrics: |-
   Ali hai sajde mein tar khun mein peshani hai
   Zamiṅ se ta ba falak chhayi pareshani hai
-  
+
   1
   Ali ka qatl bhi sazish ka shaakhsaana tha
   Chale haiṅ silsile phir se wohi kahani hai
-  
+
   2
   Bhala koi apne bhi mohsin ko qatl karta hai
   Ye Musalmanoṅ ki dar asl mein nadani hai
-  
+
   3
   Abu Turab ko samjhe to Mustafa samjhe
   Ali ki zat ko ya zat-e-Khuda jani hai
-  
+
   4
   Kiya jo Maula ne qatil ko apne jam ata
   Ali karim hai kis baat pe hairani hai
-  
+
   5
   Ali Wali ke hashr tak raheṅge charche Ameer
   Baqa unhi ko hai bas ye jahaṅ fani hai

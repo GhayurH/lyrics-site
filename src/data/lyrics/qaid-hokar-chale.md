@@ -15,43 +15,43 @@ romanLyrics: |-
   Laash-e-shah-e-zaman alwida alwida
   Aayi hogi yehi ran se shah ki sada
   Meri dukhiya behan alwida alwida
-  
+
   1
   Is tarah su-e-zindaan Farwa chali
   Dahste ghurbat mein parh kar ye noha chali
   Teri paamaaliyaaṅ kaise bhuluṅgi main
   Mere naazuk badan alwida alwida
-  
+
   2
   Laash-e-Akbar pe ro kar ye kehti thi maaṅ
   Qaid hokar chali utho karyal jawaaṅ
   Maaṅ phuphi behneṅ balwe mein haiṅ nange sar
   Akbar-e-khasta tan alwida alwida
-  
+
   3
   Kehti aayi nazar ek maaṅ chashm-e-tar
   Khaak par sooge Ae nur-e-nazar
   Tere zakhmi gale par ho qurbaan maaṅ
   Mere ghuncha-dahan alwida alwida
-  
+
   4
   Sochti huṅ yehi kaise zinda rahi
   Dekh kar teri gardan pe chalti chhuri
   Qabr tak le ke jaauṅgi maa jaaye main
   Dil pe ranj o mehan alwida alwida
-  
+
   5
   Jab ye aayi khabar ho gaye sab riha
   Qaid khane mein ek hashr barpa hua
   Nanhi turbat pe Aabid ne ro kar kaha
   Ae Sakina behan alwida alwida
-  
+
   6
   Nehr se qaafila jab guzarne laga
   Muṅh chhupa kar ye Zainab ne ro kar kaha
   Kaise bechaadari dekh paayega tu
   Sher-e-Khaibar shikan alwida alwida
-  
+
   7
   Jab riha hoke aaye haram Karbala
   Ae Zafar ro ke Zainab ne us dam kaha

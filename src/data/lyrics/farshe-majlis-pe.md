@@ -13,52 +13,52 @@ published: false
 romanLyrics: |-
   Ae azaadaar-e-Shaah-e-Karbobala
   Farsh-e-majlis pe aa gayi Zehra
-  
+
   Tum se lene Husain ka pursa
   Farsh-e-majlis pe aa gayi Zehra
-  
+
   1
   Kya ye kaafi nahiṅ hai rone ko
   Apni chashm-e-aza se tum dekho
   Leke ek khuṅ bhara kurta
   Farsh-e-majlis pe aa gayi Zehra
-  
+
   2
   Bund paani nahiṅ mila us ko
   Aaj tak bhi Husain pyaasa hai
   Apni aankhoṅ se do unheiṅ darya
   Farsh-e-majlis pe aa gayi Zehra
-  
+
   3
   Haath phaile hue haiṅ Bibi ke
   Ek kafan ek rida ki taalib hai
   Kya karega unheiṅ koi hadiya
   Farsh-e-majlis pe aa gayi Zehra
-  
+
   4
   Haae wo Aun aur Muhammad the
   Jin ke laashoṅ pe maaṅ nahiṅ royi
   Maaṅ ko beti ke gham ka do pursa
   Farsh-e-majlis pe aa gayi Zehra
-  
+
   5
   Us ki mehwi saja ke Ae logoṅ
   Koi ghatri bana ke le aao
   Karne Qasim ki laash par girya
   Farsh-e-majlis pe aa gayi Zehra
-  
+
   6
   Aao us par kare bapaa maatam
   Jis ke sine mein ek sinaaṅ tuti
   Karne Akbar ke gham mein waawaila
   Farsh-e-majlis pe aa gayi Zehra
-  
+
   7
   Jis ke laashe pe jaa ke royi thi
   Jis ke baazu utha ke royi thi
   Koi uncha kare alam us ka
   Farsh-e-majlis pe aa gayi Zehra
-  
+
   8
   Ye amal-e-khair bhi karo Yasir
   Tum se raazi Batul ho jaae

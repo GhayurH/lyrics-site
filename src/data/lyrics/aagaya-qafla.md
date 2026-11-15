@@ -22,42 +22,42 @@ romanLyrics: |-
   Ae jawaanan-e-Hashim kahaaṅ ho suno
   Koi ja kar ye Sughra ko paigham do
   Aa ke ujra hua qafla dekh lo
-  
+
   2
   Ye Husaini shahidoṅ ka hai qafla
   Bekasoṅ aur asiroṅ ka hai qafla
   Karbala ke yatimoṅ ka hai qafla
-  
+
   3
   Pahunchi Sughra ke kaanoṅ mein jab ye sada
   Khaak uraane lagi gham se wo mah laqa
   Ye sada sun ke dil ho gaya Karbala
-  
+
   4
   Bibi Fizza ne Sughra se phir ye kaha
   Aa sunaauṅ tujhe main wo sab maajra
   Kaise Aal-e-Muhammad ko luta gaya
-  
+
   5
   Do Muharram ko pahunche the hum Karbala
   Saatwiṅ se hue tashna lab bekhata
   Qatl subh-e-daham ho gaye aqraba
-  
+
   6
   Hum shabih-e-Payambar ke neza laga
   Tere Asghar ki gardan pe tir-e-jafa
   Laasha maqtal mein Qasim ka raunda gaya
-  
+
   7
   Baad-e-Abbas zulm o sitam ka safar
   Taaqat-e-sabr hai to kahuṅ nauha gar
   Kund khanjar tha aur Fatema ka pisar
-  
+
   8
   Shaam-e-ghurbat gayi aa gayi wo sahar
   Jaanib-e-Shaam sayyadaniyoṅ ka safar
   Shaam o Kufa se zindaṅ gaye nange sar
-  
+
   9
   Nauha Irfan o Mazhar mukammal hua
   Ek ek lafz Fizza ka hai marsiya

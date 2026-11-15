@@ -15,31 +15,31 @@ romanLyrics: |-
   Faza meiṅ bhi maut ka samaaṅ hai
   Rida-e-Zainab tera muhaafiz
   Ukharti saansoṅ ke darmiyaaṅ hai
-  
+
   1
   Hawaaoṅ ke rukh badal rahe haiṅ
   Khiyaam darya se hat rahe haiṅ
   Kisi ke tewar bata rahe haiṅ
   Ke tut parne ko aasmaaṅ hai
-  
+
   2
   Sitam ke paikaaṅ to kheṅch leṅ ge
   Husain chashm-e-Jari se lekin
   Khalish ka ik tir aur bhi hai
   Jo qalb-e-Abbas meiṅ nehaaṅ hai
-  
+
   3
   Sakina Bibi ki tashnagi ka
   Jigar pe ab tak hai daagh baaqi
   Wahiṅ wahiṅ mashk bhi mile gi
   Alam Jari ka jahaaṅ jahaaṅ hai
-  
+
   4
   Ba chashm-e-purnam ba waqt-e-rehlat
   Ali ne jin baazuoṅ ko chuma
   Kahiṅ wo baazu qalam hue haiṅ
   Kahiṅ pe in meiṅ rismaaṅ hai
-  
+
   5
   Lahu lahu paikar-e-tamanna
   Qarib mashkiza-e-Sakina

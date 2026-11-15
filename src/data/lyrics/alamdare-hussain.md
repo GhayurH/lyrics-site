@@ -17,52 +17,52 @@ romanLyrics: |-
   Alamdar-e-Husain
   Karbala waloṅ ka pyara hai Alamdar-e-Husain
   Besaharoṅ ka sahara hai Alamdar-e-Husain
-  
+
   1
   Ye khayal aata hai Ghazi tere parcham ke tale
   Arsh se tegh-e-Yadullah ki tarah Haq ne
   Tera parcham bhi utara hai Alamdar-e-Husain
-  
+
   2
   Keh raha hai yehi sardab mein pani ruk kar
   Roz-e-Ashur se ab Roz-e-Jaza tak mukh par
   Tera bas tera ijara hai Alamdar-e-Husain
-  
+
   3
   Kul ke Maula ne duaoṅ mein Khuda se maṅga
   Fatima Zehra ne bhi tum ko kaha hai beta
   Ye sharaf bhi to tumhara hai Alamdar-e-Husain
-  
+
   4
   Ye pukara tha sar-e-Karb o Bala din-e-Nabi
   Meri taqdir ka malik hai Husain Ibn-e-Ali
   Meri qismat ka sitara hai Alamdar-e-Husain
-  
+
   5
   Sari dunya pe ayaṅ hoga tera jah o hasham
   Ek din aaega har ghar pe sajega ye alam
   Sab pukareṅ ge hamara hai Alamdar-e-Husain
-  
+
   6
   Jis se khul jata hai insan ka jauhar wo bhi
   Jis se banta hai zamane ka muqaddar wo bhi
   Tere abru ka ishara hai Alamdar-e-Husain
-  
+
   7
   Sab se anmol bhala kiuṅ na wohi kehlae
   Tere parcham ke tale tere alam ke sae
   Hum ne jo waqt guzara hai Alamdar-e-Husain
-  
+
   8
   Kis tarah bhuleṅ ge us aalam-e-tanhayi ko
   Jis mein Zehra ke dulare ko tere bhayi ko
   Gher ke lakhoṅ ne mara hai Alamdar-e-Husain
-  
+
   9
   Har qadam bali Sakina ka tamache khana
   Rah-e-purkhar mein bachchi ka tarapna rona
   Kis tarah tum ko gawara hai Alamdar-e-Husain
-  
+
   10
   Dar pe Abbas ke Izhaar koi bhi aaya
   Shadmaṅ ho ke wo kehta hua yehi lauta

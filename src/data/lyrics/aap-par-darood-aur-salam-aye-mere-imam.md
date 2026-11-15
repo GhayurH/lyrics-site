@@ -13,47 +13,47 @@ published: true
 romanLyrics: |-
   Aap Par Darud Aur Salam Ae Mere Imam
   Bas Yehi Sada Hai Subh o Sham Ae Mere Imam
-  
+
   1
   Aa Rahe Haiṅ Aap, Chal Rahi Hai Yeh Khabar
   Khana-e-Khuda Pe Hai Tiki Hui Nazar
   Saj Rahe Haiṅ Raste Tamam Ae Mere Imam
-  
+
   2
   Har Nafas Tujhe Mera Salam Arz Hai
   Maiṅ Tu Kya Huṅ Har Nabi Wali Pe Farz Hai
   Do Jahaṅ Meiṅ Tera Ahteram Ae Mere Imam
-  
+
   3
   Do Jahaṅ Ki Badshah Teri Zaat Hai
   Tu Hai Us Ka Hath Jo Khuda Ka Hath Hai
   Tere Hath Baiatteiṅ Tamam Ae Mere Imam
-  
+
   4
   Iss Liye Tumhara Intezar Hai Shadid
   Sar Uthaye Phir Rahe Haiṅ Waqt Ke Yazid
   Aa Ke Un Se Lijiye Inteqam Ae Mere Imam
-  
+
   5
   Zikr-e-Khair Aap Ka Wazifa Hai Mera
   Manqabat Nahi Hai Yeh Ariza Hai Mera
   Parh Raha Huṅ Roz Subh o Sham Ae Mere Imam
-  
+
   6
   Khana-e-Khuda Ko Qaid Se Chhuraiye
   Moula Jald Aaiye, Ab Aa Bhi Jaiye
   Le Ke Zulfiqar beNiyaam Ae Mere Imam
-  
+
   7
   Mangte Haiṅ Aur Youṅ Zahur Ki Dua
   Dekhna Hai Hum Ko Inteqam-e-Karbala
   Chahe Phir Ho Zindagi Tamam Ae Mere Imam
-  
+
   8
   Chomte Haiṅ Paoṅ Aa Ke Taare Aap Ke
   Chal Raha Hai Dekh Ke Ishare Aap Ke
   Sari Kainat Ka Nizam Ae Mere Imam
-  
+
   9
   Wasf Sab Haseen Hasan Ke Naam Ho Gaye
   Takht o Taj Mir Ke Ghulam Ho Gaye

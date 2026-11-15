@@ -14,37 +14,37 @@ romanLyrics: |-
   Haye Haye jawaṅ Akbar jawaṅ Akbar jawaṅ Akbar jawaṅ
   Khaimoṅ mein ek kohram hai roti haiṅ saari Bibiyaṅ
   Haye Haye jawaṅ Akbar jawaṅ Akbar jawaṅ Akbar jawaṅ
-  
+
   1
   Awaaz di mazlum ne Nana madad ko aaiye
   Kariyal jawaṅ ki laash hai Baba madad ko aaiye
   Sine mein mere laal ke tori hai qaatil ne sinaṅ
-  
+
   2
   Ghurbat pe ab Shabbir ki hansti hai fauj-e-ashqiya
   Main khaa raha huṅ thokareṅ milta nahiṅ laasha tera
   Akbar mujhe awaaz do tum gir gaye ran mein kahaṅ
-  
+
   3
   Akbar utho baateṅ karo aise nahiṅ khamosh hoṅ
   Kya dard hai hum se kaho mat haath sine par rakho
   Hum ko batao kya hua ragro na beta eriyaṅ
-  
+
   4
   Baba ki jaan himmat karo tum to hamaare sher ho
   Ye dard kam ho jaega Ya Fatima kehte raho
   Nad-e-Ali parh kar abhi hum khinch lete haiṅ sinaṅ
-  
+
   5
   Kariyal jawaṅ lasha koi jab bhi kisi ghar se utha
   Lashe se apne laal ke jab maaṅ na ho pai juda
   Dil ne tarap kar di sada Haye Ali Akbar ki maaṅ
-  
+
   6
   Bachpan se tum ne aaj tak Baba se kuchh maanga nahiṅ
   Ab paani tum ko chahiye aur main pila sakta nahiṅ
   Tum se zyaada khushk hai beta hamaari khud zabaṅ
-  
+
   7
   Sajjad ye rote hue aai sada-e-Fatima
   Khaime mein laasha le chalo jaldi se apne laal ka

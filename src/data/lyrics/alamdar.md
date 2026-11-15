@@ -18,50 +18,50 @@ romanLyrics: |-
   Saqqa-e-Haram sayyed o salaar na aamad
   Wo sher-e-bahadur wo jigardar na aamad
   Alamdar na aamad Alamdar na aamad
-  
+
   1
   Kaash Abbas ko larne ki ijazat hoti
   Kya hai nau lakh yahaṅ ek bhi bachta na koi
   Ek lamhe mein bichha deta wo lasheṅ sab ki
   Kehti rahi Abbas ki talwaar na aamad
-  
+
   2
   Hu bahu Jafar-e-Tayyar thi qaamat us ki
   Jang larne ki adaeṅ thiṅ qayamat us ki
   Hukm-e-Shabbir azaṅ aur aqamat us ki
   Shaagird-e-Hasan aahani diwar na aamad
-  
+
   3
   Us ke chehre pe jalaal aur hashm tha kaisa
   Raub tha jis ki nigahoṅ mein Ali ke jaisa
   Koi Shabbir ke lashkar mein nahiṅ tha aisa
   Ye kis ki nazar kha gayi Jarrar na aamad
-  
+
   4
   Jis ki ummid pe pardoṅ ki zamanat li thi
   Jab ye Zainab ne kaha mara gaya wo Ghazi
   Khud ba khud sar se sarakne lagi chadar sab ki
   Ae Bibiyoṅ chadar ka nigehdaar na aamad
-  
+
   5
   Guṅji khaimoṅ mein ye aawaz dil-e-Zehra ki
   Ae bahan mar gaya battis baras ka bhayi
   Yaad Baba ki jab aaegi kise dekhogi
   Darya se rukh-e-Haider-e-Karrar na aamad
-  
+
   6
   Raah mein gir ke kuchal jaega naaqe se koi
   Taziyane koi khaega tamache koi
   Ab nahiṅ aaega durroṅ se bachane koi
   Jo karta tha bachchoṅ se bahut pyar na aamad
-  
+
   7
   Samne pani tha lekin na piya us ko khayal aata raha
   Ke abhi khaimoṅ mein sab bachche haiṅ pyase
   Pani jab le ke chala tir chale mashk chhidi gir gaya parcham
   Bina haath gira khaak pe jis dam
   Wo pyasa wo pyasoṅ ka wafadaar na aamad
-  
+
   8
   Jab bhi bulwaya hai Ghazi ne karam farma kar
   Dekha Zeeshan ne darwesh ye manzar ja kar

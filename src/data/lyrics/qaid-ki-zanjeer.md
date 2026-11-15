@@ -16,47 +16,47 @@ romanLyrics: |-
 
   Zindaaṅ mein ab bhi gunjta hai us ka marsiya
   Jis ke badan ko qaid ki zanjir khaa gayi
-  
+
   1
   Zindaaṅ ke andhere mein mushkil kushaai ki
   Karta raha duaaeṅ jo apne rihaai ki
   Lo aaj us ke waaste zindaan khul gaya
-  
+
   2
   Faryaad kar rahi hai wo zindaaṅ ki wahshateṅ
   Kaise bayaan ho sake us ki musibateṅ
   Beri ke saath khaal bhi us ki hui juda
-  
+
   3
   Koi to aa ke pusht pe durre laga gaya
   Koi piyaala zahr-e-dagha ka pila gaya
   Haae haae lahu luhaan hai Jafar ka laadla
-  
+
   4
   Dikhne lagi thi jism-e-mutahhar ki haddiyaaṅ
   Kat kat gayi thi paaoṅ ki beri se pindliyaaṅ
   Marne pe bhi na tauq-e-giraaṅ baar khul saka
-  
+
   5
   Quraan-e-Kirdigaar ke paare haiṅ qaid mein
   Ro ro ke chaudah saal guzaare haiṅ qaid mein
   Aakhir wo aaj ho gaya zindaan se riha
-  
+
   6
   Pul par andheri raat ko rakhne ko aaye haiṅ
   Mazdur apne kaandhoṅ pe laasha uthaae haiṅ
   Roti hai us ke haal pe marqad mein Fatima
-  
+
   7
   Kitna gharib aaj hamaara Imam hai
   Dafn o kafan ka saamaaṅ na kuch ehtimaam hai
   Bhai na us ke paas bhatija na mah laqa
-  
+
   8
   Talqin apne baba ko aa kar parhaaiye
   Maula Raza ye laash uthaane ko aaiye
   Pul par rakha hua hai janaaza gharib ka
-  
+
   9
   Aini salaam saiṅkroṅ Aamir ke ho use
   Chalta tha qaid khaane mein jo baith baith ke

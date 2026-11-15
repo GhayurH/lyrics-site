@@ -12,91 +12,91 @@ aliases: []
 published: false
 romanLyrics: |-
   Haye Husain pyase Husain
-  
+
   1
   Jaan-e-Payambar dilbar-e-Zehra
   Apna bhara ghar tu ne lutaya
   Ibn-e-Ali ehsaan hai tera
   Tu hai muhaafiz Kaaba-e-haq ka
   Sajde mein sar tera kata
-  
+
   2
   Dhund rahe haiṅ ran mein Sarwar
   Bechaini se laasha-e-Akbar
   Khaate haiṅ har gaam pe thokar
   Kaun sahaara dega barh kar
   Aalam-e-ghurbat dasht-e-bala
-  
+
   3
   Zainab ki aankhoṅ ke ujaale
   Aun o Muhammad ran ko sidhaare
   Jang hui aur khuṅ mein nahaaye
   Maqtal se jab aaye laashe
   Karti hai Zainab shukr-e-Khuda
-  
+
   4
   Byaah hui kuchh der na guzri
   Ran ko chali Qasim ki sawaari
   Kubra baithi soch rahi thi
   Ab ujre gi maang hamaari
   Aa gaya dulha ka laasha
-  
+
   5
   Thaame kamar ye kehte the Sarwar
   Dasht-e-bala mein shaane kata kar
   Qatl hue Abbas-e-dilaawar
   De pursa mujhko meri khwaahar
   Ho gaya Zainab main tanha
-  
+
   6
   Bain yehi karti thi Sakina
   Chhor gaye kiuṅ mujhko tanha
   Barhta hai jangal ka andhera
   Aa jaao aa jaao baba
   Deti huṅ kab se tum ko sada
-  
+
   7
   Soti thi sine pe tumhaare
   Tum ne mere naaz uthaaye
   Shimr ne maare mujhko tamaanche
   Khuṅ tapakta hai kaanoṅ se
   Nind nahiṅ aati baba
-  
+
   8
   Kaisi ghari hai Aal-e-Nabi par
   Ghash mein pare haiṅ Aabid-e-muztar
   Keh de koi Abbas se jaa kar
   Chhin raha hai Shimr-e-sitamgar
   Bint-e-Ali ke sar se rida
-  
+
   9
   Zainab ke baazu mein rasan hai
   Aur laboṅ par bas ye sukhan hai
   Laash teri begor o kafan hai
   Aaj bahut majbur behan hai
   Sar pe nahiṅ chaadar bhaiya
-  
+
   10
   Hum pe ye ehsaaṅ hai Zainab ka
   Jis ne diya majlis ka saliqa
   Karte raho maatam pyaasoṅ ka
   Deṅ ge tumheṅ Abbas sahaara
   Bint-e-Payambar deṅ gi dua
-  
+
   11
   Chhalke kuchh itne aankhoṅ ke saagar
   Phaili kuchh itni ashkoṅ ki chaadar
   Chashm-e-falak hairaan hai is par
   Soch rahe haiṅ saare samandar
   Kitne haiṅ aakhir ashk-e-aza
-  
+
   12
   Zist ka maqsad pyaasoṅ ka gham
   Hota rahe ta hashr ye maatam
   Le ke yuṅhi Abbas ka parcham
   Parwaane Shabbir ke har dam
   Dete raheṅ ge bas ye sada
-  
+
   13
   Kijiye Rasheed is gham ki hifaazat
   Ashk-e-aza hai qalb ki quwwat

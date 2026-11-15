@@ -15,55 +15,55 @@ romanLyrics: |-
   Zabahuka ibrana
   Ya Husaina ya Husaina
   Ya Husaina ya Husaina
-  
+
   1
   Hai fiza mein teri khushbu
   Thaame kaise mere aansu
   Hai shikasta mera pehlu
   Kahaaṅ jaauṅ batlaana
-  
+
   2
   Rahuṅ kaise main watan mein
   Mera suraj hai gahan mein
   Mere taare haiṅ rasan mein
   Phira kaisa ye zamaana
-  
+
   3
   Meri duniya mera mehwar
   Meri dhaaras mera dilbar
   Mera Yusuf mera Akbar
   Hua barchhi ka nishaana
-  
+
   4
   Ali Asghar ki shahaadat
   Hai anokhi teri ghurbat
   Liye haathoṅ pe wo mayyat
   Kabhi aana kabhi jaana
-  
+
   5
   The wo kaise tere qaatil
   Jo na samjhe teri manzil
   Ke Mohammad ka hai tu dil
   Ye na socha ye na jaana
-  
+
   6
   Kahiṅ lutti hui chaadar
   Kahiṅ chhinte hue gauhar
   Kahiṅ jalta hua bistar
   Bara mushkil hai bhulaana
-  
+
   7
   Meri ghairat mera saaya
   Meri ghurbat mera nauha
   Meri Zainab meri dukhiya
   Su-e-zindaaṅ hai rawaana
-  
+
   8
   Kabhi roye ye biyaabaan
   Kabhi tarpe ye teri maaṅ
   Tere gham mein hai pareshaaṅ
   Tere Baaba tere Naana
-  
+
   9
   Tere Aamir tere Nayyar
   Tere gham mein rahe muztar

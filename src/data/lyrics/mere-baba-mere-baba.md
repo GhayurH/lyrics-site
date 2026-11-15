@@ -11,52 +11,52 @@ aliases: []
 published: false
 romanLyrics: |-
   Mere baba mere baba
-  
+
   1
   Bhaai jab maara gaya aap kahaaṅ the baba
   Tir Asghar pe laga aap kahaaṅ the baba
   Qatl Abbas hua aap kahaaṅ the baba
-  
+
   2
   Sab ye kehte haiṅ ke hai nemat-e-Daawar paani
   Band karta hai kahaaṅ kaun kisi par paani
   Ye sitam ham pe hua aap kahaaṅ the baba
-  
+
   3
   Pyaase bachchoṅ ke liye jang jo Abbas ne ki
   Aisi yalghaar hui mashk-e-Sakina na bachi
   Ik ik baazu kata aap kahaaṅ the baba
-  
+
   4
   Aaya Asghar sar-e-maidaan to hua aur sitam
   Sukhe hoṅtoṅ pe zabaaṅ us ne phiraai jis dam
   Tir jab us ke laga aap kahaaṅ the baba
-  
+
   5
   Mera dilband-e-Hasan jab nahiṅ haara baba
   Is tarah mil ke saboṅ ne use maara baba
   Laasha paamaal kiya aap kahaaṅ the baba
-  
+
   6
   Baad-e-Shabbir hamaara koi waaris na raha
   Ashqiya aa gaye khaimoṅ mein hua hashr bapa
   Jab chhini meri rida aap kahaaṅ the baba
-  
+
   7
   Jab har ik ahl-e-sitam aag lagaane aaya
   Itna Sajjad tha bimaar ke utha na gaya
   Jal ke sab khaak hua aap kahaaṅ the baba
-  
+
   8
   Sun ke farmaaya Ali ne meri beti mat ro
   Aazmaish ye hai ham sab ki abhi sabr karo
   Dil magar kehta raha aap kahaaṅ the baba
-  
+
   9
   Main to har gaam pe tha saath tumhaare beti
   Chup tha bas marzi-e-maabud ke maare beti
   Tum ne ye kaise kaha aap kahaaṅ the baba
-  
+
   10
   Jab kabhi chashm-e-tasavvur se ye Shabbar dekha
   Baap ko girya mein beti ke barabar dekha

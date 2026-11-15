@@ -13,31 +13,31 @@ published: false
 romanLyrics: |-
   Mashkiza-e-Sakina kehta hai Alqama se
   Khaimoṅ mein tishnagi hai Asghar bahut haiṅ pyase
-  
+
   1
   Sukhe hue laboṅ par likhi hai ye kahaani
   Hai Aal-e-Mustafa par haftum se band pani
   Ae kaash rok deta koi teri rawaani
   Aawaaz-e-al-atash hai har samt har faza se
-  
+
   2
   Har kisht-e-aarzu ko beaab kar gayi hai
   Ahl-e-haram mein sab ko betaab kar gayi hai
   Akbar ke khun se barchhi sairaab kar gayi hai
   Ghar ke charagh bhi ab bujhne lage hawa se
-  
+
   3
   Hasrat se tak raha hai bedast apne baazu
   Rakhe to kaise rakhe jazbaat par wo qaabu
   Chehre pe beh rahe haiṅ chashm-e-jari ke aansu
   Waabasta sab umideṅ bachchi ki haiṅ chacha se
-  
+
   4
   Arsh-e-bariṅ hai larza insaaniyat hai gum sum
   Roka gaya kuchh aise Shabbir ka takallum
   Hichki ke saath ubhra phir khuṅ bhara tabassum
   Ghuncha jhulas gaya hai paikaan-e-Hurmala se
-  
+
   5
   Shahid hai gham ka manzar wo shiddat-e-atash hai
   Tarpeṅge kaise Sarwar wo shiddat-e-atash hai

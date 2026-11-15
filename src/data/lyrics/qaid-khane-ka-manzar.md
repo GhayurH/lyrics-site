@@ -15,55 +15,55 @@ romanLyrics: |-
   Yaad aayi janaab-e-Sakina
   Ashk aaṅkhoṅ se nikle ye keh kar
   Yaad aayi janaab-e-Sakina
-  
+
   1
   Jitna royi thi bepardagi par
   Utna royi na tashna labi par
   Dekh li jab bhi chhoti si chaadar
   Yaad aayi janaab-e-Sakina
-  
+
   2
   Jab nigaaheṅ sabiloṅ pe thahri
   Paani pite hue sab ko dekha
   Chal gaye saikroṅ dil pe khanjar
   Yaad aayi janaab-e-Sakina
-  
+
   3
   Dekh kar chaand maah-e-aza ka
   Qaafila jab koi aate dekha
   Bachchiyoṅ ne kaha pit kar sar
   Yaad aayi janaab-e-Sakina
-  
+
   4
   Kamsini mein agar koi bachchi
   Baap ke aake seene se lipti
   Khuṅ ke ashkoṅ se daaman hua tar
   Yaad aayi janaab-e-Sakina
-  
+
   5
   Mashk dekhi jo lipti alam se
   Ghair haalat hui dard-e-gham se
   Bas pahunchte hi farsh-e-aza par
   Yaad aayi janaab-e-Sakina
-  
+
   6
   Jab ye socha ke durre lage the
   Jab ye socha ke khaime jale the
   Aag lagne lagi dil ke andar
   Yaad aayi janaab-e-Sakina
-  
+
   7
   Qaid khane pe pahunchi nigaaheṅ
   Barh gayi shiddat-e-gham se aaheṅ
   Jab bhi wiraan dekha koi ghar
   Yaad aayi janaab-e-Sakina
-  
+
   8
   Jab asiroṅ ki dekhi sawaari
   Ho gaye ashk aaṅkhoṅ se jaari
   Ruk gaye do qadam paaoṅ uth kar
   Yaad aayi janaab-e-Sakina
-  
+
   9
   Bint-e-sibt-e-Nabi ki musibat
   Nazm karta hai ro ro ke Ishrat

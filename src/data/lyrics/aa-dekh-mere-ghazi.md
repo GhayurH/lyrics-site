@@ -17,31 +17,31 @@ romanLyrics: |-
   1
   Zainab ki dua ban kar ik waqt wo aayega
   Har ghar pe saja hoga Abbas alam tera
-  
+
   2
   Aa jatiṅ haiṅ Zehra bhi Zainab bhi ziyarat ko
   Jab aath Muharram ko uthta hai alam tera
-  
+
   3
   Tabut jab uthta hai Shabbir ka ae Ghazi
   Tabut ke aage bhi chalta hai alam tera
-  
+
   4
   Wo kaun se sadme the Shah tut gaye jis se
   Ik dard tha Zainab ka aur dusra gham tera
-  
+
   5
   Parcham ka pharera tha ya aas thi Zainab ki
   Zainab ke kaleje se gham kaise ho kam tera
-  
+
   6
   Bazaar mein zindaaṅ mein darbaar mein har lamha
   Zainab ki to saansoṅ pe tha naam raqam tera
-  
+
   7
   Jab beh gaya sab paani tab saans teri tuti
   Tha sine ke andar ya mashkize mein dam tera
-  
+
   8
   Awaaz teri Sarwar Shabbir se wabasta
   Abbas se wabasta Rehaan qalam tera

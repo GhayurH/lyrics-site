@@ -12,34 +12,34 @@ published: true
 romanLyrics: |-
   Daastaan-e-Shujaat ka daraiṅ meiṅ
   aik bemisl kirdar Abbas hai
-  
+
   Haiṅ Ali ke Athara Hi bete Ali
   Par sabhi meiṅ Alamdar Abbas Hai
-  
+
   1
   In ke lehje meiṅ Hashim ki hashmat bhi hai
   In ke tewar meiṅ Hamza ki haibat bhi hai
   Har ada inki Imran ka aqs hai
   Inki baahoṅ meiṅ Jafar ki taaqat bhi hai
-  
+
   Pyaar hai Mustafa ka Husain o Hasan
   aur Hasnain ka pyaar Abbas hai
-  
+
   2
   Naql-e-azmat ka shiriṅ samar haiṅ yehiṅ
   Ismatoṅ ke sadaf ke gohar haiṅ yehiṅ
   Nur ki sidrat-ul-muntaha haiṅ yehiṅ
   Hashimi aasmaṅ ke qamar haiṅ yehiṅ
-  
+
   Jinke saaye me akber bhi palte rahe
   Husn ka aisa minaar Abbas hai
-  
+
   3
   Hal ata innama ki jo misdaaq hai
   Vo bhi ghazi ke aane ki mushtaq hai
   Arsh se farsh tak inki jagir hai
   Sari makhloq inki gadagir hai
-  
+
   Jo ali ki shujaat ka waris bhi hai
   Aisa aala zamindar Abbas hai
 
@@ -51,22 +51,22 @@ romanLyrics: |-
 
   Ya Ali hai agar Zulfiqaar aap ki
   Faatima ki to talwaar Abbas hai
-  
+
   5
   Sahib-e-takht-e-aqli ki ghairat hai ye
   Aur charaghe harim-e-sharafat hai ye
   durr-e-shehwaar Behr-e-saqawat hai ye
   Haq to ye hai ke haq ki haqiqat hai
-  
+
   Wo duaaeṅ jo Bibi ne sajdoṅ mein kiṅ
   un duaoṅ ka meyaar Abbas hai
-  
+
   6
   Qabr kya hai andhera sa ghar hai jahaṅ
   Marefat ke siva koi sapna nahiṅ
   Vo bohat hi andheri jagah hai wahaṅ
   Koi yawar nahi koi apna nahiṅ
-  
+
   Tumse milne lahad meiṅ ali aayeṅge
   Bolo tanhai me aur kya chahiye
 # source_id: tajpoints:a78f847b3bc3d1f59a19

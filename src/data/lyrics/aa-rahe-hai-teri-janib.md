@@ -14,55 +14,55 @@ romanLyrics: |-
   Aa rahe haiṅ teri jaanib ae zamin-e-Karbala
   Mashk-e-nusrat ke liye hai Arbain-e-Karbala
   Aa rahe haiṅ teri jaanib ae zamin-e-Karbala
-  
+
   1
   Aurateṅ bachche haiṅ burhe aur jawaaṅ bhi saath haiṅ
   Qudsi o jinn o malak kaun o makaaṅ bhi saath haiṅ
   Zaair-e-Karbobala Mehdi-e-jaaṅ bhi saath haiṅ
   Barh rahe haiṅ shauq se sab shaaiqin-e-Karbala
-  
+
   2
   Rauza-e-Haidar se hoti hai wafa ki ibteda
   Maujiza jisko hai samjha ye hai Zahra ki dua
   Hai karoroṅ ka julus aur saath hai farsh-e-aza
   Ab Najaf tak bichh gayi hai sar-zamin-e-Karbala
-  
+
   3
   Is ziyarat ke safar mein saahib-e-kirdaar hai
   Parcham-e-Abbas haathoṅ mein hai sab bedaar haiṅ
   Ae Imam-e-Asr nusrat ke liye tayyar haiṅ
   Muntaqim ke muntazir haiṅ mominin-e-Karbala
-  
+
   4
   Lashkar-e-Mehdi ka raub o dabdaba ye manzilat
   Ye Najaf se Karbala tak ka safar hai maarifat
   Marg bar taaghut hai ye marg bar Sufyaniyat
   Nusrat-e-Mehdi karo zer-e-nagin-e-Karbala
-  
+
   5
   Khaana-e-Kaaba ki diwaaroṅ se utha shor o shain
   Aasmaaṅ ko dekhta hai Fatema ka nur-e-ain
   Hajj ko umre mein badal kar chal diye Maula Husain
   Aazimin-e-Hajj hue haiṅ aazimin-e-Karbala
-  
+
   6
   Parda-e-ghaibat uthega mere Maula aayeṅ ge
   Gar bulaya aap ne paidal bhi chal kar jaayeṅ ge
   Saath mein maaṅ baap bachche aur bhai laayeṅ ge
   Kar qabul in zahmatoṅ ko ae makin-e-Karbala
-  
+
   7
   Ek majlis hogi rauzoṅ par pahunch kar aur bain
   Ek taraf Abbas hoṅ ge ek taraf Maula Husain
   Kaisa girya hoga kya zaakir ki hogi zeb o zain
   Ek jagah hoṅ ge bahattar saamain-e-Karbala
-  
+
   8
   Chaudah farsakh tak hameṅ khaana khilata kaun hai
   Zaair-e-Shabbir ko pani pilaata kaun hai
   Saaf jute kar ke ye aansu bahata kaun hai
   Allah Allah dekho shan-e-zairin-e-Karbala
-  
+
   9
   Ho sharaf haasil ziyarat ka Qamar maango dua
   Shadmaaṅ har ek qadam par bas yehi hai sochta

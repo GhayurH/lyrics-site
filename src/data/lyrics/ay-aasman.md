@@ -12,48 +12,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Ae aasmaaṅ ae aasmaaṅ
-  
+
   1
   Tu ne bhi dekha wo samaaṅ
   Jab Karbala ke dasht meiṅ
   The imtihaan pe imtihaaṅ
-  
+
   2
   Hilta tha Arsh-e-Kibriya
   Sakte meiṅ the kul ambiya
   Jab naujawaṅ ke qalb se
   Kheinchi zaifi ne sinaaṅ
-  
+
   3
   Wo waqt nauha ban gaya
   Sadiyoṅ ka lamha ban gaya
   Jab bewagi ki zarb se
   Tuti dulhan ki churiyaaṅ
-  
+
   4
   Bachi sisakti reh gayi
   Chehroṅ ko takti reh gayi
   Jab nehr par maara gaya
   Ahl-e-haram ka paasbaan
-  
+
   5
   Sunte hi sab tharra gaye
   Muṅh ko kaleje aa gaye
   Jab khun se tar ho gayi
   Be shir ki sukhi zabaaṅ
-  
+
   6
   Ye bekasi maqtal meiṅ thi
   Ye laash thi mazlum ki
   Jab paemaali ke liye
   Hone lagi tayyaariyaaṅ
-  
+
   7
   Taskin-e-shar hoti rahi
   Insaniyat roti rahi
   Jab gardan-e-bimaar meiṅ
   Dekha gaya tauq-e-giraṅ
-  
+
   8
   Shahid sar-e-Karb o Bala
   Juz bebasi koi na tha

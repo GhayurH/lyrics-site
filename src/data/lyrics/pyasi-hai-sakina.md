@@ -12,49 +12,49 @@ published: false
 romanLyrics: |-
   Ae baad e saba ja ke yeh ammu ko batana
   Pyasi hai sakina
-  
+
   1
   Is chote se sin mein yeh sitam maine uthaye
   Allah kisi ko na yateem aisa banaye
   Khud apne lahoo mein koi bacchi na nahaye
   Main tum ko bulati rahi tum bhi to na aaye
   Main ban gayi baad e asr laeenon ka nishana
-  
+
   2
   Pani ki talab mujhko khilati rahi thokar
   Kehta tha laeen doonga main faujon ko pila kar
   Jab shimr laeen kar chuka sairaab yeh lashkar
   Dikhla ke mujhe phenk diya pani zameen par
   Tab samjhi main kya hota hai umeed dilana
-  
+
   3
   Ek jaam hua shaam e ghareeban mein mayassar
   Woh kooza main rakh aayi thi asghar ki lehad par
   Tha mujhse bhi chota mera bhaiya mera dilbar
   Sharminda main ho jaati chacha pyaas bujha kar
   Ab apne hi haathon se meri pyaas bujhana
-  
+
   4
   Ek rassi mein hum sab ke gale baandh ke aada
   Karte hue tashheer chale jaanib e koofa
   Aur uspe musibat yeh thi qad chota tha mera
   Uthti thi jo phupiyan gala khinchta tha mera
   Gardan ka mere zakhm chacha dekhne aana
-  
+
   5
   Jis roz se asghar ko mila baba ka seena
   Us roz se ammu nahi so paayi sakina
   Is haal mein jaungi main kis tarha madina
   Aajaye mujhe maut hai kis kaam ka jeena
   Jaagi hoon bahot aa ke chacha mujhko sulana
-  
+
   6
   Ghar laut ke jaate hain har ek shaam parinde
   Qismat mein likhe hain meri zindan ke andhere
   Kab tak main jiyungi yun ashkon ke sahare
   Lagta hai ke mar jaungi ab door watan se
   Hoga na mayassar mujhe ghar laut ke jaana
-  
+
   7
   Anwar yeh sada parcham e abbas se aayi
   Main bhool nahi sakta sakina meri bacchi

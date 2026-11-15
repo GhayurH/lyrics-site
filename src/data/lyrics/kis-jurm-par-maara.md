@@ -18,37 +18,37 @@ romanLyrics: |-
   Tauhid bhi khatre mein thi Islam bhi khatre mein tha
   Quraan bhi majbur tha jab din hi khatre mein tha
   Shaahi ke aage dat gaya kiuṅke Imam-e-waqt tha
-  
+
   2
   Yasrab se taa ba Maariya yuṅ to bahut afraad the
   Lekin shab-e-Ashur lashkar mein bahattar reh gaye
   Baiat bahaana ban gayi dar asl sar darkaar tha
-  
+
   3
   Aayi sehar Ashur ki tiroṅ se hamla ho gaya
   Aur ghalba-e-awwal mein bas thora sa lashkar hi bacha
   Ashaab kuch baaqi bache aur kuch aizza aqraba
-  
+
   4
   Sheh ne taqabbal keh ke phir Akbar ko dekha yaas se
   Akbar ka chehra khil utha us izn ke ehsaas se
   Maidaan mein jaa kar yuṅ lara sine mein neza gar gaya
-  
+
   5
   Paani pilaane laaye the aaghosh mein le kar jise
   Ran mein bujhaayi tishnagi zaalim ne aab-e-tir se
   Phir us ka khuṅ chullu mein le kar Sheh ne chehre par mala
-  
+
   6
   Lashkar tha jis ke haath mein ahl-e-haram ki aas tha
   Shabbir ki dhaaras akela sirf ek Abbas tha
   Bedast ho kar nehr par beaas ho kar so gaya
-  
+
   7
   Sarwar ke nafs-e-mutmain itmaam-e-hujjat ho chuki
   Mardoṅ mein bas Abid bache sab ki shahaadat ho chuki
   Reh jaaye naam Allah ka keh kar ada sajda kiya
-  
+
   8
   Shahid zamiṅ larzaaṅ rahi khuṅ aasmaanoṅ se baha
   Muṅh par saja kar Sheh ka khuṅ rahwaar khaime ko chala

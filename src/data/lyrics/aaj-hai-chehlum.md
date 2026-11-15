@@ -12,62 +12,62 @@ aliases: []
 published: false
 romanLyrics: |-
   Aaj hai chehlum pyaasoṅ ka
-  
+
   1
   Kal tha bhara ghar aur khaime
   Aaj wahaaṅ haiṅ sannaate
   Aayi hai Zainab Karbobala
-  
+
   2
   Yaad aaye Abbas-e-Jari
   Tarpiṅ royi bint-e-Ali
   Kaisi hifazat kya pehra
-  
+
   3
   Dhup meiṅ laasha Akbar ka
   Pit rahi thi sar Laila
   Reh gayi haaye maiṅ tanha
-  
+
   4
   Dilbar-e-Farwa ibn-e-Hasan
   Jiska hua pamaal badan
   Ghurbat-e-Kubra wawaila
-  
+
   5
   Shish maah pyaasa Asghar
   Nanha gala tir aur khanjar
   Maaṅ ki nazar khaali jhula
-  
+
   6
   Maaeiṅ tarapti haiṅ bechain
   Karti haiṅ ro ro kar ye bain
   Reh gaye haaye hum zinda
-  
+
   7
   God ke paale kal the jahaaṅ
   Ab haiṅ wahaaṅ qabroṅ ke nishaaṅ
   Har maaṅ karti hai noha
-  
+
   8
   Bachchoṅ ka gham bhul gayi
   Bhai ke gham meiṅ bint-e-Ali
   Karti thiṅ paiham aah o buka
-  
+
   9
   Karti thi Zainab ro ke ye bain
   Utho mere maanjaye Husain
   Ab lo Sakina ka pursa
-  
+
   10
   Dhum se hoga ye maatam
   Waaqif haiṅ is baat se hum
   Armaaṅ hai ye Zainab ka
-  
+
   11
   Ghamkhwaaroṅ maatamdaaroṅ
   Yuṅhi maatam karte raho
   Zainab degi tum ko dua
-  
+
   12
   Kijiye Rasheed ab dil se dua
   Pahuncheiṅ hum sab Karbobala

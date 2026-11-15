@@ -12,27 +12,27 @@ published: false
 romanLyrics: |-
   Zikr jab zainabe muztar ka bayan hota hai
   Khoon sajjad ki aankhon se rawan hota hai
-  
+
   1
   Daste shabbir pe baysheer ne saabit ye kiya
   Hashmi khoon to bachpan se jawan hota hai
-  
+
   2
   Noke naiza se lehad mein se nikaale laasha
   Zulm aisa ye zamane mein kahan hota hai
-  
+
   3
   Bhai beton ke ho be-gor o kafan laashe pade
   Aise aalam mein qayamat ka samaa hota hai
-  
+
   4
   Fatema zehra wahan khud hi pahunch jaati hai
   Zikre hasnain shareefain jahan hota hai
-  
+
   5
   Aao sajjad ki aankhon ke lahoo ko dekho
   Manzar e karbobala saara ayan hota hai
-  
+
   6
   Tu ameer ek nahi shaah ke gham mein shaamil
   Mehwe gham aaj to har kon o makan hota hai

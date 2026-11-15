@@ -22,7 +22,7 @@ romanLyrics: |-
   Ghar ghar mein maatam hota hai
   Zanjir se maatam Akbar ka
   Ta hashr kareṅ ge ham Husain
-  
+
   2
   Khun Haider ka hai Asghar mein
   Is baat ko Hurmal bhul gaya
@@ -30,7 +30,7 @@ romanLyrics: |-
   Neze pe jhula jhul gaya
   Hai kar gaya saare aalam ki
   Har aankh ko woh purnam Husain
-  
+
   3
   Maasum jawaani Qasim ki
   Ab chain se khaak pe soti hai
@@ -38,7 +38,7 @@ romanLyrics: |-
   Karbala ki zamin bhi roti hai
   Jis tarah hua tukre tukre
   Maqtal mein tera Qasim Husain
-  
+
   4
   Le pursa us maasuma ka
   Kaanoṅ se jis ke khun baha
@@ -46,7 +46,7 @@ romanLyrics: |-
   Jala kurta jis ko kafan mila
   Takraati thi jo sar zindaaṅ se
   Ro kehti thi har dam Husain
-  
+
   5
   Na sar ko jhukaane paaye laiṅ
   Chaaha tha jhukaana jis sar ko
@@ -54,7 +54,7 @@ romanLyrics: |-
   Para un ko uthaana jis sar ko
   Go kat gaya tera sar lekin
   Phir bhi na hua yeh kham Husain
-  
+
   6
   Har dam karo sunnat hai maatam
   Hai karte rahe yeh khud Khaatam
@@ -62,7 +62,7 @@ romanLyrics: |-
   Barhta hi rahe ga yeh maatam
   Zainab ki dua hai yeh maatam
   Hoga na kabhi yeh kam Husain
-  
+
   7
   Ujra hai paak Muhammad ka
   Ban mein hansta basta gulshan

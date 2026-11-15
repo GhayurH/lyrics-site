@@ -12,35 +12,35 @@ aliases: []
 published: false
 romanLyrics: |-
   Haaye bimaar mera beriyoṅ waala bhaiya
-  
+
   1
   Haaṅ yatimi mein mere naaz uthaata bhaiya
-  
+
   2
   Raah-e-pur khaar mein kuch mujhko aziyat na mili
   Seh li taklif to lekin meri gardan na khinchi
   Bas yehi soch ke phir sar na uthaaya bhaiya
-  
+
   3
   Pair jalte the mere bhai ke har gaam magar
   Dhup mein jalti zamiṅ par main qadam rakhti jidhar
   Apne saaye se wahaaṅ saaya banaata bhaiya
-  
+
   4
   Jab tamaache mujhe lagte to wo ruk jaata wahiṅ
   Chhor kar mujhko use durre lagaate the laiṅ
   Durre khud khaa ke mujhe un se bachaata bhaiya
-  
+
   5
   Sina-e-Shah pe sone ki sada aadi thi
   Zakhmi rukhsaar zamiṅ par nahiṅ rakh paati thi
   Haaye zakhmi sine pe mujhe apne sulaata bhaiya
-  
+
   6
   Qabr ki tarah se taarik tha zindaan-e-jafa
   Mujhko zindaaṅ ke andheroṅ se jo dar lagta tha
   Apne ashkoṅ se wahaaṅ karta ujaala bhaiya
-  
+
   7
   Baat bas Mesum o Salman ye ehsaas ki hai
   Yuṅ dua karti thi Shahzaadi rihaai ke liye

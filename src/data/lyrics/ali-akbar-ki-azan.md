@@ -16,59 +16,59 @@ published: false
 romanLyrics: |-
   Subh-e-Ashura hui maaṅ ne ro ro ke suni
   Ali Akbar ki azaṅ
-  
+
   1
   Aakhri fajr hai ye is muazzin ke liye
   Phir ye aawaz kahaṅ
-  
+
   2
   Dasht mein pyase muazzin ne jo takbir kahi
   Aa gayi apne musalle pe Ali ki beti
   Yaad phir aayi use apne Baba ki azaṅ
   Ro pari Aun ki maaṅ
-  
+
   3
   Abhi kuch der salamat hai haram ka parda
   Sham ke waqt jab aaegi azanoṅ ki sada
   Jaaṅ bachane ke liye sar chhupane ke liye
   Chadareṅ hoṅgi kahaṅ
-  
+
   4
   Ro ke bete ne kaha baap se hasrat hai meri
   Aap ki bahan to sun leṅgi sada Akbar ki
   In hawaaoṅ se kahe rukh Madine ka kare
   Meri Sughra hai wahaṅ
-  
+
   5
   Naam aaya jo Muhammad ka to roe Maula
   Inna Lillah parha aur ye Ghazi se kaha
   Is ko mareṅge sinaṅ ye Musalman bhala
   Rahm khaeṅge kahaṅ
-  
+
   6
   Aaya jab naam-e-Ali uth ke ye Maula ne kaha
   Main fida aap pe Baba meri aulad fida
   Tir Asghar ke lage sina Akbar ka chhide
   Mujh pe khanjar ho rawaṅ
-  
+
   7
   Itna tarpega Husain Ibn-e-Ali Ae beta
   Teri maaṅ teri phuphi teri Sakina Sughra
   Ji na paeṅge sabhi tujh ko barchhi jo lagi
   Tujh mein hum sab ki hai jaaṅ
-  
+
   8
   Masjid-e-Kufa nazar aane lagi Karb o Bala
   Do azanoṅ pe bahut royi hai Bint-e-Zehra
   Aaj tak bhuli nahiṅ ek Baba ki azaṅ
   Ek Akbar ki azaṅ
-  
+
   9
   Kis qadar dard mein dubi thi sada Akbar ki
   Ghash se uth kar kaha Sajjad ne batlae phuphi
   Sab kiuṅ rote haiṅ yahaṅ shor hai kaisa bapa
   Kaun deta hai azaṅ
-  
+
   10
   Kaise manzar ho bhala Mir Takallum wo raqam
   Bab-e-Saat pe huiṅ satrah azaneṅ jis dam

@@ -16,52 +16,52 @@ published: false
 romanLyrics: |-
   Bara azim tha sadma Ali bahut roe
   Bana ke turbat-e-Zehra Ali bahut roe
-  
+
   1
   Na roe hath ke chhaloṅ ko dekh kar Maula
   Na roe ghar mein raha tin roz tak faqa
   Shikasta pahlu jo dekha Ali bahut roe
-  
+
   2
   Gale mein bandhi gayiṅ rassiyaṅ to sabr kiya
   Dar-e-Batool se utha dhuaṅ to sabr kiya
   Bana ke turbat-e-Zehra Ali bahut roe
-  
+
   3
   Shikasta pahlu jo dekha to sabr ho na saka
   Kuchh aisa zakhm tha gehra to sabr ho na saka
   Utha ke zakhmi janaza Ali bahut roe
-  
+
   4
   Abhi to qabr-e-Rasul-e-Zamaṅ bhi thi taza
   Ali ke zakhmoṅ ka kis tarah hoga andaza
   Jo ghar mein reh gaye tanha Ali bahut roe
-  
+
   5
   Pukara maaṅ ko tarap kar Husain ne jis dam
   Rakha tha maaṅ ne bhi us waqt mamta ka bharam
   Kafan ka band jo tuta Ali bahut roe
-  
+
   6
   Sharik-e-gham ki lahad par bahae the aaṅsu
   Ba waqt-e-ghusl bhi aaṅkhoṅ mein aaye the aaṅsu
   Pakar ke apna kaleja Ali bahut roe
-  
+
   7
   Har ek musibat o ranj o alam mein sath diya
   Nabi ke baad har ek ranj o gham mein sath diya
   Na jane soch ke kya kya Ali bahut roe
-  
+
   8
   Diya tha hausla Kulsum aur Zainab ko
   Tasalli de ke wahaṅ chup kara diya sab ko
   Hasan Husain ko dekha Ali bahut roe
-  
+
   9
   Sula ke zer-e-zamiṅ Bint-e-Mustafa ko Ali
   Kiye wo bain ke sari zamiṅ larazne lagi
   Hisar-e-sabr jo tuta Ali bahut roe
-  
+
   10
   Zafar wo Subbat Alayya Masaibun kehna
   Ye Shadman ke lab par Batool ka nauha

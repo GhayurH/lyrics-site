@@ -18,35 +18,35 @@ romanLyrics: |-
   Ae Ummat-e-Nabawi aisi ho zindagi
   Zinat ho Ali ki kirdaar tumhara ho
   Ali jaisa ho Ali jaisa
-  
+
   1
   Tum Aal-e-Nabi ki aan bano
   Wallah mard-e-maidaṅ bano
   Ae Mominoṅ kaam wo kar jaana
   Sajde mein sar ko katwaana
   Ali jaisa ho Ali jaisa
-  
+
   2
   Ye ajr-e-risalat yaad rahe
   Asghar ki shahadat yaad rahe
   Akbar ki azaṅ ye kehti hai
   Quran ka muhafiz kehlaana
   Ali jaisa ho Ali jaisa
-  
+
   3
   Wo tauq-e-garaṅ wo zanjireṅ
   Wo pusht pe zulm ki tahrireṅ
   Baazaar-e-sitam mein tafsireṅ
   Khutbe mein wo lehja apnaana
   Ali jaisa ho Ali jaisa
-  
+
   4
   Shabbir ka sina yaad rahe
   Mazlum Sakina yaad rahe
   Itrat ka nagina yaad rahe
   Mushkil mein na tera ghabraana
   Ali jaisa ho Ali jaisa
-  
+
   5
   Jis pe zinda Islam rahe
   Bas pesh-e-nazar wo kaam rahe

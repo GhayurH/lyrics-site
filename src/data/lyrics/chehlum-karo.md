@@ -14,43 +14,43 @@ romanLyrics: |-
   Maatam karo mominoṅ Shaah-e-Shahidaaṅ ka
   Jis ko lainoṅ ne paani ko tarsaaya
   Chehlum karo mominoṅ Karbal ke mehmaaṅ ka
-  
+
   1
   Zindaaṅ se chhut kar behan aati hai Karbobala
   Qabr-e-Sakina se wo kis tarah hogi juda
   Zehra ke kunbe mein shor-e-qayaamat bapa
   Hilti hai qabr-e-Nabi rote haiṅ Sher-e-Khuda
-  
+
   2
   Turbat se Ghaazi ki guzri jo dukh paayi
   Darya pe ae mominoṅ ek laash tharraayi
   Zainab ne ro kar kaha utho mere bhai
   Ab to tumhaari behan zindaaṅ se ho aayi
-  
+
   3
   Asghar ki maaṅ dekho ghut ghut ke roti hai
   Waaris hai maqtal mein mitti mein moti hai
   Kulsum ashkoṅ ki lariyaaṅ piroti hai
   Baali Sakina bhi zindaaṅ mein soti hai
-  
+
   4
   Ye us ka chehlum hai jo ab tak hai jo bekafan
   Ghoroṅ ki taapoṅ se paamaal hai khasta tan
   Jaan-e-Payambar hai Zehra ka hai gulbadan
   Us ko kafan kaise de khud berida hai behan
-  
+
   5
   Pito ab ahl-e-aza arsa hai mehshar ka
   Aabid ko pursa do un ke bhare ghar ka
   Gham se bura haal hai Kulsum-e-muztar ka
   Taabut uthta hai Zehra ke dilbar ka
-  
+
   6
   Ghar mein qayaamat hai Aal-e-Payambar ke
   Nauhe sunaana hai ujre hue ghar ke
   Dekho zara hausle Sajjaad-e-muztar ke
   Maula ne dafnaaye laashe bahattar ke
-  
+
   7
   Tufaan-e-gham uthe Nasir ke nauhe se
   Batlaao Karbal mein chehlum hua kaise

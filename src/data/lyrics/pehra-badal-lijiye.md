@@ -24,7 +24,7 @@ romanLyrics: |-
 
   Zara der Ghaazi mujhe maan kar
   Phuphi mujh se pehra badal lijiye
-  
+
   1
   Bataate the daadi ki baateṅ mujhe
   Sulaate the baba bare pyaar se
@@ -32,7 +32,7 @@ romanLyrics: |-
   Mujhe ran mein itne tamaache lage
   Ke ab Shaamiyoṅ ka nahiṅ koi dar
   Phuphi mujh se pehra badal lijiye
-  
+
   2
   Najaf ki taraf dekhiye to zara
   Ye taapoṅ ki aati hai kaisi sada
@@ -40,7 +40,7 @@ romanLyrics: |-
   Phuphi aap ki chhin gayi hai rida
   Wo dekhe koi aa raha hai idhar
   Phuphi mujh se pehra badal lijiye
-  
+
   3
   Koi tir chhup kar chala de kahiṅ
   Phuphi zaalimoṅ ka bharosa nahiṅ
@@ -48,7 +48,7 @@ romanLyrics: |-
   Main gardan pe rokuṅgi tir-e-laiṅ
   Ke ab aa gaya hai mujhe ye hunar
   Phuphi mujh se pehra badal lijiye
-  
+
   4
   Main karti huṅ pehre ki zid is liye
   Sinaaṅ par shahidoṅ ke sar haiṅ rakhe
@@ -56,7 +56,7 @@ romanLyrics: |-
   Nazar aa hi jaayeṅge baba mujhe
   Nigaahoṅ se chumuṅgi baba ka sar
   Phuphi mujh se pehra badal lijiye
-  
+
   5
   Ye Akbar guzaarish thi maasum ki
   Meri kamsini ko na dekhe Phuphi

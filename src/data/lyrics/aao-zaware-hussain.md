@@ -15,56 +15,56 @@ romanLyrics: |-
   Aao zawwar-e-Husain
   Khud lagaaeṅ ge gale tumko sab ansaar-e-Husain
   Aao zawwar-e-Husain
-  
+
   1
   Ek jaanib hai maqaam-e-Ali Akbar dekho
   Ek maqam aisa ke gehwara-e-Asghar dekho
   Har jagah sheh ke azadaaroṅ ka manzar dekho
   Ambiya aur malak bhi hai azadar-e-Husain
   Aao zawwar-e-Husain
-  
+
   2
   Yaum-e-Ashur zara karbobala ko dekho
   Jis jagah zulm hua uski fiza ko dekho
   Khuṅ ugalti hui tum khaak-e-shifa ko dekho
   Ab to har qaum hui jaati hai bimar-e-Husain
   Aao zawwar-e-Husain
-  
+
   3
   Bhai ki qabr pe jis roz ke aayi khwahar
   Aao zawwaroṅ usi din safar-e-chehlum par
   Lahad-e-Shah talak hoga jo paidal ye safar
   Deṅ gi har gaam dua maadar-e-ghamkhwar-e-Husain
   Aao zawwar-e-Husain
-  
+
   4
   Shahr-e-Shabbir mein aa jao fazilat pao
   Rizq o aulaad mein aur saansoṅ mein barkat pao
   Zinda reh kar bhi yahaaṅ fazl-e-shahaadat pao
   Ho ye koshish ke hameṅ dekh le Sarkar-e-Husain
   Aao zawwar-e-Husain
-  
+
   5
   Ek jali ayat-e-Allah hai ye karbobala
   Ambiya ki bhi guzar raah hai ye karbobala
   Azm-e-Shabbir se aagaah hai ye karbobala
   Mil ke Shabbir se khud sikh lo kirdaar-e-Husain
   Aao zawwar-e-Husain
-  
+
   6
   Dil mein Shabbir ho har dam chalo karbobala
   Lab pe ho din ka paighaam chalo karbobala
   Baandh kar Kaabe ka ehraam chalo karbobala
   Bait-e-Allah bhi har waqt hai ghamkhwar-e-Husain
   Aao zawwar-e-Husain
-  
+
   7
   Khud ba khud haath wahaaṅ jaate maatam ko uthe
   Roz-e-Ashur jahaaṅ baazu-e-Abbas kate
   Shaah jab laasha-e-Abbas pe ye kehte chale
   Tum kamar tor gaye meri madadgaar-e-Husain
   Aao zawwar-e-Husain
-  
+
   8
   Chashm ko ashk-e-gham-e-Shah tar karna hai
   Dil mein har nasir-e-Shabbir ke ghar karna hai

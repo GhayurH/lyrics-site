@@ -42,7 +42,7 @@ romanLyrics: |-
   Apne Mohsin ko bhi ye bacha na saki
   Zakhmi pehlu ka gham bhul kar
   Sirf roti rahi Fatima
-  
+
   3
   Paaoṅ uthte na the itni zakhmi thi wo
   Apne ghar mein bhi ruk ruk ke chalti thi wo
@@ -74,7 +74,7 @@ romanLyrics: |-
   Haath par taaziyane bhi khaati rahi
   Haaṅ magar aaj rote huwe
   Keh rahe hai Ali Fatima
-  
+
   7
   Ghar se Zeeshan o Farhan mayyat uthi
   Qabr ke paas jab leke pahuṅche Ali

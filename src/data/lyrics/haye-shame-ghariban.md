@@ -20,42 +20,42 @@ romanLyrics: |-
 
   1
   Ab aaye ho baba mere kunba hai ab kahaaṅ
-  
+
   2
   Abbas kho chuki huṅ main Akbar pe ro chuki
   Bhaiya tumhaare baad main barbaad ho chuki
   Zinda main kaise reh gayi meri maut hai kahaaṅ
-  
+
   3
   Qasim ki laash tukroṅ mein taqsim ho chuki
   Bhaiya Hasan ki ye bhi nishaani bhi mit chuki
   Dulhan hai ek roz ki dulha hai ab kahaaṅ
-  
+
   4
   Asghar ke hausle pe jawaani bhi ro chuki
   Sukhi zabaaṅ pe fauj-e-sitamgar bhi ro chuki
   Aaghosh mein Rabab ki Asghar hai ab kahaaṅ
-  
+
   5
   Laayi thi apne saath wo ansaar kho chuki
   Nana tumhaare din pe qurbaan kar chuki
   Main bhi to berida hui chaadar hai ab kahaaṅ
-  
+
   6
   Baba main kya bataauṅ ke kya kya main seh chuki
   Bhaiya ki laash tiroṅ ke bistar pe so chuki
   Bhai ke mere jism pe ab sar bhi hai kahaaṅ
-  
+
   7
   Pyaasi Sakina bain ye kar kar ke so chuki
   Ammu hamaare kaanoṅ se baali bhi chhin chuki
   Kehti hai har tamaaṅche pe baba ho ab kahaaṅ
-  
+
   8
   Fauj-e-Yazid Shaam ki had se guzar chuki
   Khaime jalaaye qaidi bhi hum ko bana chuki
   Zaalim ye mujh se kehte haiṅ Sajjad hai kahaaṅ
-  
+
   9
   Mohsin duaa-e-Faatima Zahra bhi mil chuki
   Haidar se har imaamoṅ ki kariyaaṅ bhi mil chuki

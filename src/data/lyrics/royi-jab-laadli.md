@@ -15,7 +15,7 @@ romanLyrics: |-
   Saara darbaar muskuraaya hai
   Haaye baad-e-Rasul Zahra par
   Kaisa ghurbat ka waqt aaya hai
-  
+
   1
   Jaise jaise Batul roti thi
   Qahqahe un ke barhte jaate the
@@ -24,7 +24,7 @@ romanLyrics: |-
   Sab the masruf muskuraane mein
   Na kisi ko bhi tars aaya hai
   Saara darbaar muskuraaya hai
-  
+
   2
   Main to wo huṅ ke ya Rasul Allah
   Jis ki taazim aap karte the
@@ -33,7 +33,7 @@ romanLyrics: |-
   Kya bataauṅ ke mujh pe kya guzri
   Us ne tu keh ke jab bulaaya hai
   Saara darbaar muskuraaya hai
-  
+
   3
   Ye wo Bibi hai ke Muhammad bhi
   Jis ko Umm-e-Abiha kehte the
@@ -42,7 +42,7 @@ romanLyrics: |-
   Us ko Muslim kahuṅ bhala kiunkar
   Jis ne Bibi ka dil dukhaaya hai
   Saara darbaar muskuraaya hai
-  
+
   4
   Tere mimbar pe baithe ghaasib ko
   Teri tehrir bhi dikhaayi thi
