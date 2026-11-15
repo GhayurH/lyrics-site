@@ -6,47 +6,48 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Aashiq Irani"
+reciter: "Murtaza Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zainab ye dua maangi haathon ko utha kar
-  Ya rab mere abbas ko tu sabr ata kar
+  Zainab ye dua maangi haathoṅ ko utha kar
+  Ya Rab mere Abbas ko tu sabr ata kar
 
   1
-  Badle huwe tewar hai maathe pe pasina hai
-  Haathon mein alam bhi hai aur mashke sakina hai
-  Lagta hai ke ab ghazi kar dega bapa mehshar
+  Badle hue tewar haiṅ maathe pe pasina hai
+  Haathoṅ mein alam bhi hai aur mashk-e-Sakina hai
+  Lagta hai ke ab Ghaazi kar dega bapa mahshar
 
   2
-  Shabbir pareshan hai waada bhi nibhana hai
-  Ghar baar luta kar bhi islam bachana hai
-  Chamke na kahin tayghe wafa josh mein aakar
+  Shabbir pareshaan hai waada bhi nibhaana hai
+  Ghar baar luta kar bhi Islaam bachaana hai
+  Chamke na kahiṅ tegh-e-wafa josh mein aa kar
 
   3
-  Karti hai bayan khwahare shabbir ye rokar
-  Narghe mein liya humko jafakaron ne aakar
-  Aaye na kahin ghaiz mein abbas e dilawar
+  Karti hai bayaaṅ khwaahar-e-Shabbir ye ro kar
+  Narghe mein liya hum ko jafaakaaroṅ ne aa kar
+  Aae na kahiṅ ghaiz mein Abbas-e-dilaawar
 
   4
-  Maujon mein talatum hai ye khauf hai pani ko
-  Dohraye na phir dunya khyber ki kahani ko
-  Hum par ye karam kijiye ay khaaliq e akbar
+  Maujoṅ mein talaatum hai ye khauf hai paani ko
+  Dohraae na phir duniya Khaibar ki kahaani ko
+  Hum par ye karam kijiye ae Khaaliq-e-Akbar
 
   5
-  Mabood teri raah mein akbar ko bhi denge
-  Nanhe se mujahid ali asghar ko bhi denge
-  Kardenge fida hazrate qasim ko saja kar
+  Maabud teri raah mein Akbar ko bhi deṅ ge
+  Nanhe se mujaahid Ali Asghar ko bhi deṅ ge
+  Kar deṅ ge fida Hazrat-e-Qaasim ko saja kar
 
   6
-  Mai aun o mohamed ko bhi qurban karoongi
-  Bhai pe fida apne dil o jaan karoongi
-  Le jaungi mai khake bala sar pe utha kar
+  Main Aun o Muhammad ko bhi qurbaan karuṅ gi
+  Bhaai pe fida apne dil o jaan karuṅ gi
+  Le jaauṅ gi main khaak-e-Bala sar pe utha kar
 
   7
-  Tareekh mein tujh jaisa nahi aur koi bibi
-  Aashiq nahi likh paate kahani ye teri bibi
-  Betab murtuza ne kaha ashk baha kar
+  Taarikh mein tujh jaisa nahiṅ aur koi Bibi
+  Aashiq nahiṅ likh paate kahaani ye teri Bibi
+  Betaab Murtaza ne kaha ashk baha kar
 # source_id: nohayonline:d18d97a6e788d8f7ec10
 # source_url: https://www.nohayonline.com/details_content.php?id=1000
 # raw_sha256: 91798922443c70a1a08e7ade8e7cd6c4676f720b34bd8a76c353043d96c118fb
@@ -56,28 +57,28 @@ romanLyrics: |-
 
 ۱
 بدلے ہوئے تیور ہیں ماتھے پہ پسینہ ہے
-ہاتھوں میں الم بھی ہے اور مشک سکینہ ہے
-لگتا ہے کہ اب غازی کر دیگا بپا محشر
+ہاتھوں میں علم بھی ہے اور مشک سکینہ ہے
+لگتا ہے کہ اب غازی کر دے گا بپا محشر
 
 ۲
 شبیر پریشان ہے وعدہ بھی نبھانا ہے
 گھر بار لٹا کر بھی اسلام بچانا ہے
-چمکے نہ کہیں تیغ وفا جوش میں آکر
+چمکے نہ کہیں تیغ وفا جوش میں آ کر
 
 ۳
-کرتی ہے بیاں خواہر شبیر یہ روکر
-نرغے میں لیا ہم کو جفا کاروں نے آکر
-آے نہ کہیں غیض میں عباس دلاور
+کرتی ہے بیاں خواہر شبیر یہ رو کر
+نرغے میں لیا ہم کو جفا کاروں نے آ کر
+آئے نہ کہیں غیض میں عباس دلاور
 
 ۴
-موجوں میں طلاطم ہے یہ خوف ہے پانی کو
-دہراے نہ پھر دنیا خیبر کی کہانی کو
+موجوں میں تلاطم ہے یہ خوف ہے پانی کو
+دہرائے نہ پھر دنیا خیبر کی کہانی کو
 ہم پر یہ کرم کیجیے اے خالق اکبر
 
 ۵
 معبود تیری راہ میں اکبر کو بھی دیں گے
 ننھے سے مجاہد علی اصغر کو بھی دیں گے
-کردیں گے فدا حضرت قاسم کو سجا کر
+کر دیں گے فدا حضرت قاسم کو سجا کر
 
 ۶
 میں عون و محمد کو بھی قربان کروں گی
@@ -87,4 +88,4 @@ romanLyrics: |-
 ۷
 تاریخ میں تجھ جیسا نہیں اور کوئی بی‌بی
 عاشق نہیں لکھ پاتے کہانی یہ تیری بی‌بی
-بیتاب مرتظی نے کہا آشک بہا کر
+بیتاب مرتضیٰ نے کہا اشک بہا کر

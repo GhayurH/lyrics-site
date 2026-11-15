@@ -6,40 +6,41 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Majid Raza Abidi"
+reciter: "Mukhtar Hussain"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zainab ye pukari mere bhaiya ko na maaro
-  Yun lakhte dil e fatema zehra ko na maaro
+  Zainab ye pukaari mere bhaiya ko na maaro
+  Yuṅ lakht-e-dil-e-Faatima Zehra ko na maaro
 
   1
-  Hai muntazir ek bachi dar e qaima pe uski
-  Mar jayegi baba e sakina ko na maaro
+  Hai muntazir ik bachchi dar-e-khaima pe us ki
+  Mar jaae gi baaba-e-Sakina ko na maaro
 
   2
-  Khanjar na rakho bosagahe mustafavi par
+  Khanjar na rakho bosa-gaah-e-Mustafavi par
   Bhaiya ko na maaro mere bhaiya ko na maaro
 
   3
-  Boli tan e sarwar se lipat kar ye sakina
-  Ruk jao khudara mere baba ko na maaro
+  Boli tan-e-Sarwar se lipat kar ye Sakina
+  Ruk jaao khudaara mere baaba ko na maaro
 
   4
-  Zaalim na ruke kar diye qasim ke bhi tukde
+  Zaalim na ruke kar diye Qaasim ke bhi tukre
   Shabbir ye kehte rahe naushaah ko na maaro
 
   5
-  Pathar sar e naiza jo laga shaah ke sar par
-  Kulsoom pukari dil e zehra ko na maaro
+  Patthar sar-e-naiza jo laga Shaah ke sar par
+  Kulsum pukaari dil-e-Zehra ko na maaro
 
   6
-  Rukhsaar e sakina pe jo lagte thay tamache
-  Abid ki sada thi meri behna ko na maaro
+  Rukhsaar-e-Sakina pe jo lagte the tamaache
+  Aabid ki sada thi meri behna ko na maaro
 
   7
-  Goonji ye sada dasht mein ay majid o mukhtar
-  Mazloom ko majrooh ko tanha ko na maaro
+  Gunji ye sada dasht mein ae Maajid o Mukhtaar
+  Mazlum ko majruh ko tanha ko na maaro
 # source_id: nohayonline:7a481236eeabefa8ba96
 # source_url: https://www.nohayonline.com/details_content.php?id=2082
 # raw_sha256: fe5cb325937c8fe034bdf81d9247f1dcf7288cbb8dc9af38b8b4752e72b905f3
@@ -49,7 +50,7 @@ romanLyrics: |-
 
 ۱
 ہے منتظر اک بچی در خیمہ پہ اس کی
-مر جاۓ گی باب سکینہ کو نہ مارو
+مر جائے گی باب سکینہ کو نہ مارو
 
 ۲
 خنجر نہ رکھو بوسہ گاہ مصطفوی پر
@@ -60,7 +61,7 @@ romanLyrics: |-
 رک جاؤ خدارا میرے بابا کو نہ مارو
 
 ۴
-ظالم نہ رکے کر دیےء قاسم کے بھی ٹکڑے
+ظالم نہ رکے کر دیے قاسم کے بھی ٹکڑے
 شبیر یہ کہتے رہے نوشاہ کو نہ مارو
 
 ۵

@@ -6,51 +6,54 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Farhan Ali Waris"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Qaimon mein alam aaya alamdar na aaya
-  Shabbir ne zainab ko yehi nauha sunaya
-  Darya pe maara gaya tera alamdar zainab
-  Zainab zainab zainab zainab zainab zainab
-  Tooti hai meri kamar lut gayi sarkar zainab
+  Khaimoṅ mein alam aaya alamdaar na aaya
+  Shabbir ne Zainab ko yehi nauha sunaaya
+  Darya pe maara gaya tera alamdaar Zainab
+  Zainab Zainab Zainab Zainab Zainab Zainab
+  Tuti hai meri kamar lut gai sarkaar Zainab
+  Zainab Zainab Zainab Zainab Zainab Zainab
+  Darya pe maara gaya tera alamdaar Zainab
 
   1
-  Haathon mein kooza liye baithe hai pyase
-  Hai sab ko aas zainab us bawafa se
-  Moo hum se mod gaya ghurbat mein chod gaya
-  Dil mera kehta hai ab jeena hai bekaar zainab
+  Haathoṅ mein kuza liye baithe haiṅ pyaase
+  Hai sab ko aas Zainab us baawafa se
+  Muṅh hum se mor gaya ghurbat mein chhor gaya
+  Dil mera kehta hai ab jina hai bekaar Zainab
 
   2
-  Kehti thi meri bacchi aayega pani
-  Usko suna do zainab gham ki kahani
-  Maara gaya saqqa kunba raha pyasa
-  Pyason pe hogaya qurban wo salaar zainab
+  Kehti thi meri bachchi aae ga paani
+  Us ko suna do Zainab gham ki kahaani
+  Maara gaya saqqa kunba raha pyaasa
+  Pyaasoṅ pe ho gaya qurbaan wo salaar Zainab
 
   3
-  Mashke sakina chidi kat gaye shaane
-  Kaise zameen par aaya allah hi jaane
-  Gurz tha sar pe laga aankh mein teer bhi tha
-  Uthna chaaha to na uth paaya wo jarrar zainab
+  Mashk-e-Sakina chhidi kat gae shaane
+  Kaise zamiṅ par aaya Allah hi jaane
+  Gurz tha sar pe laga aaṅkh mein tir bhi tha
+  Uthna chaaha to na uth paaya wo jarraar Zainab
 
   4
-  Darya pe jab mai pahuncha laasha uthane
-  Ki thi mujhse wasiyat us bawafa ne
-  Laasha qaimon mein mera aaqa le kar na jaana
-  Ye keh ke chod gaya mujhko wafadar zainab
+  Darya pe jab main pahuṅcha laasha uthaane
+  Ki thi mujh se wasiyyat us baawafa ne
+  Laasha khaimoṅ mein mera Aaqa le kar na jaana
+  Ye keh ke chhor gaya mujh ko wafaadaar Zainab
 
   5
-  Mujhpe chalega khanjar qaime jalenge
-  Chadar chinegi teri baazu bandhenge
-  Sab ka ghamkhwar hoga mera bemaar hoga
-  Ab tak abbas tha ab tu hi hai salaar zainab
+  Mujh pe chale ga khanjar khaime jaleṅ ge
+  Chaadar chhine gi teri baazu bandheṅ ge
+  Sab ka ghamkhwaar hoga mera bimaar hoga
+  Ab tak Abbas tha ab tu hi hai salaar Zainab
 
   6
-  Maula ka nauha tha ye farhan o mazhar
-  Farshe aza bichao ay meri khwahar
-  Aao ab zer e alam barpa kare matam
-  Hum hai us bawafa ke pehle azadar zainab
+  Maula ka nauha tha ye Farhaan o Mazhar
+  Farsh-e-aza bichhaao ae meri khwaahar
+  Aao ab zer-e-alam barpa kare maatam
+  Hum hai us baawafa ke pehle azaadaar Zainab
 # source_id: nohayonline:edbb175eda4011936709
 # source_url: https://www.nohayonline.com/details_content.php?id=3430
 # raw_sha256: d03b49c33357cd6122bdc68d5bd1d849507c5aa7833d9a34a25de5adad06b29f
@@ -59,22 +62,24 @@ romanLyrics: |-
 شبیر نے زینب کو یہی نوحہ سنایا
 دریا پہ مارا گیا تیرا علمدار زینب
 زینب زینب زینب زینب زینب زینب
-ٹوٹی ہے میری کمر لٹ گیء سرکار زینب
+ٹوٹی ہے میری کمر لٹ گئی سرکار زینب
+زینب زینب زینب زینب زینب زینب
+دریا پہ مارا گیا تیرا علمدار زینب
 
 ۱
-ہاتھوں میں کوزہ لیےء بیٹھے ہیں پیاسے
+ہاتھوں میں کوزہ لیے بیٹھے ہیں پیاسے
 ہے سب کو آس اس باوفا سے
-منہ ہم‌ سے موڑ گیا غربت میں چھوڑ گیا
+منہ ہم سے موڑ گیا غربت میں چھوڑ گیا
 دل میرا کہتا ہے اب جینا ہے بیکار زینب
 
 ۲
-کہتی تھی میری بچی آے گا پانی
+کہتی تھی میری بچی آئے گا پانی
 اس کو سنا دو زینب غم کی کہانی
 مارا گیا سقہ کنبہ رہا پیاسا
 پیاسوں پہ ہو گیا قربان وہ سالار زینب
 
 ۳
-مشک سکینہ چھدی کٹ گےء شانے
+مشک سکینہ چھدی کٹ گئے شانے
 کیسے زمیں پر آیا اللّٰہ ہی جانے
 گرز تھا سر پہ لگا آنکھ میں تیر بھی تھا
 اٹھنا چاہا تو نہ اٹھ پایا وہ جرار زینب
@@ -83,7 +88,7 @@ romanLyrics: |-
 دریا پہ جب میں پہنچا لاشہ اٹھانے
 کی تھی مجھ سے وصیت اس باوفا نے
 لاشہ خیموں میں میرا آقا لے کر نہ جانا
-یہ کہہ کے چھوڑ گیا مجھکو وفادار زینب
+یہ کہہ کے چھوڑ گیا مجھ کو وفادار زینب
 
 ۵
 مجھ پہ چلے گا خنجر خیمے جلیں گے
