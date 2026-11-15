@@ -1,79 +1,80 @@
 ---
-title: "کہ رہے تھے یہ رو رو کے سرور"
+title: "کہہ رہے تھے یہ رو رو کے سرور"
 alternateTitle: "Zakhme Akbar Pe"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hilal Rizvi"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Keh rahe thay ye ro ro ke sarwar
-  Zakhme akbar pe laila rida daal do
-  Mera farzand hai khoon mein tar
+  Keh rahe the ye ro ro ke Sarwar
+  Zakhm-e-Akbar pe Laila rida daal do
+  Mera farzand hai khun mein tar
 
   1
-  Zakhm se is khadar khoon baha hai
-  Khoone akbar se tar karbala hai
-  Naiza e zulm ki loriyon se
+  Zakhm se is qadar khuṅ baha hai
+  Khun-e-Akbar se tar Karbala hai
+  Naiza-e-zulm ki loriyoṅ se
   Laadla mera soya hua hai
   Koi isko jaga de na aa kar
 
   2
-  Haath mein khoon ki mehndi laga lo
+  Haath mein khuṅ ki mehndi laga lo
   Bas tasavvur mein dulha bana lo
   Tumne maani hai jo zindagi bhar
-  Mannate aaj saari badha lo
-  Ghurbato ka ye sehra saja kar
+  Mannateṅ aaj saari barha lo
+  Ghurbatoṅ ka ye sehra saja kar
 
   3
-  Meri behno ko kab ye pata hai
-  Wo samajhti ye so raha hai
-  Sard hai jism saakit hai nabzein
-  Mera kadiyal jawan mar chuka hai
+  Meri behnoṅ ko kab ye pata hai
+  Wo samajhti haiṅ ye so raha hai
+  Sard hai jism saakit hai nabzeṅ
+  Mera kariyal jawaṅ mar chuka hai
   Haath seene se iska hata kar
 
   4
-  Gham ki kaali ghata cha rahi hai
-  Mujhko ye baat tadpa rahi hai
-  Parda saydaniyo ka lutega
-  Sham e ghurbat qareeb aa rahi hai
-  Phir meinassar kahan hogi chadar
+  Gham ki kaali ghata chha rahi hai
+  Mujh ko ye baat tarpa rahi hai
+  Parda Sayyidaniyoṅ ka lutega
+  Shaam-e-ghurbat qarib aa rahi hai
+  Phir mayassar kahaaṅ hogi chaadar
 
   5
-  Khaak mein mil gaya hai wo bano
+  Khaak mein mil gaya hai wo Bano
   Jisko mitti bhi lagne na di ho
   Kitne naazon se paala tha usne
-  Zakhm jaldi se bibi chupa do
-  Binte zahra na dekhe ye manzar
+  Zakhm jaldi se Bibi chhupa do
+  Bint-e-Zahra na dekhe ye manzar
 
   6
-  Haye meri sakina ki ghurbat
+  Haaye meri Sakina ki ghurbat
   Kaise dekhegi bhai ki mayyat
   Do janaze na uthenge mujh se
-  Wo to zindan ki hai amanat
-  Mar na jaaye kahin meri dukhtar
+  Wo to zindaan ki hai amaanat
+  Mar na jaaye kahiṅ meri dukhtar
 
   7
   Us ko ye kehke dena dilaasa
   Tune dekha na bhai ka laasha
-  Teri jaanib se madar ne lekin
-  Be-kafan ko kafan de diya tha
-  Naam bemaar sughra ka lekar
+  Teri jaanib se maadar ne lekin
+  Bekafan ko kafan de diya tha
+  Naam bimaar Sughra ka le kar
 
   8
-  Ay hilal ek mehshar bapa tha
-  Qaima e shaah matam kada tha
-  Ashk aankhon se paigham rawan thay
-  Aale ahmed mein shor e buka tha
-  Jab ye kehte thay sibte payambar
+  Ae Hilal ek mahshar bapa tha
+  Khaima-e-Shaah maatam kada tha
+  Ashk aankhoṅ se paighaam rawaaṅ the
+  Aal-e-Ahmad mein shor-e-buka tha
+  Jab ye kehte the Sibt-e-Payambar
 # source_id: nohayonline:98f6e9e76e31926329d4
 # source_url: https://www.nohayonline.com/details_content.php?id=102
 # raw_sha256: 7db27100e34fa4859de7c0ff24a2cd94f29d3e0f58efa3f2c0d91e50ceee1698
 ---
-کہ رہے تھے یہ رو رو کے سرور
+کہہ رہے تھے یہ رو رو کے سرور
 زخم اکبر پہ لیلا ردا ڈال دو
 میرا فرزند ہے خون میں تر
 
@@ -85,10 +86,10 @@ romanLyrics: |-
 کوئی اس کو جگا دینا آ کر
 
 ۲
-ہاتھ میں خوں کی مہندی لگالو
-بس تصور میں دولہا بنالو
+ہاتھ میں خوں کی مہندی لگا لو
+بس تصور میں دولہا بنا لو
 تم نے مانی ہے جو زندگی بھر
-منتیں آج ساری بڑھالو
+منتیں آج ساری بڑھا لو
 غربتوں کا یہ سہرا سجا کر
 
 ۳
@@ -101,27 +102,27 @@ romanLyrics: |-
 ۴
 غم کی کالی گھٹا چھا رہی ہے
 مجھ کو یہ بات تڑپا رہی ہے
-پردہ سیدانیوں کا لٹیگا
+پردہ سیدانیوں کا لٹے گا
 شام غربت قریب آ رہی ہے
 پھر میسر کہاں ہوگی چادر
 
 ۵
-خاک میں مل گیا ہےوہ بانو
-جسکو مٹی بھی لگنے نہ دی ہو
+خاک میں مل گیا ہے وہ بانو
+جس کو مٹی بھی لگنے نہ دی ہو
 کتنے نازوں سے پالا تھا اس نے
 زخم جلدی سے بی‌بی چھپا دو
 بنت زہرا نے دیکھا یہ منظر
 
 ۶
-ہاے میری سکینہ کی غربت
+ہائے میری سکینہ کی غربت
 کیسے دیکھے گی بھائی کی میت
-دو جنازے نہ اٹھینگے مجھ سے
+دو جنازے نہ اٹھیں گے مجھ سے
 وہ تو زندان کی ہے امانت
 مر نہ جائے کہیں میری دختر
 
 ۷
-اسکو یہ کہکے دینا دلاسہ
-تونے دیکھا نہ بھائی کا لاشہ
+اس کو یہ کہہ کے دینا دلاسہ
+تو نے دیکھا نہ بھائی کا لاشہ
 تیری جانب سے مادر نے لیکن
 بے کفن کو کفن دے دیا تھا
 نام بیمار صغرا کا لے کر
@@ -129,6 +130,6 @@ romanLyrics: |-
 ۸
 اے ہلال ایک محشر بپا تھا
 خیمہء شاہ ماتم کدہ تھا
-آشک آنکھوں سے پیہم رواں تھے
+اشک آنکھوں سے پیہم رواں تھے
 آل احمد میں شور بکا تھا
 جب یہ کہتے تھے سبط پیمبر
