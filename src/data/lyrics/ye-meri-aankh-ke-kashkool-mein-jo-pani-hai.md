@@ -1,40 +1,69 @@
 ---
-title: "Ye Meri Aankh Ke Kashkool Mein Jo Pani Hai"
-language: "Roman Urdu"
+title: "یہ میری آنکھ کے کشکول میں جو پانی ہے"
+alternateTitle: "Ye Meri Aaṅkh Ke Kashkul Mein Jo Paani Hai"
+language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Salam"
-tags: ["noImage", "noUrdu"]
+poet: "Irfan Sahil Gujranwala"
+tags: ["noImage"]
 aliases: []
 published: false
+romanLyrics: |-
+  Ye meri aaṅkh ke kashkul mein jo paani hai
+  Azaa-e-Aal-e-Payambar ki meharbaani hai
+
+  1
+  Ye ek nanhe mujaahid ki hai ata karda
+  Nabi ke din pe is waqt jo jawaani hai
+  Sikha rahi hai saliqe jo sarfaraazi ke
+  Waja Sarshat bahattar ki wo kahaani hai
+
+  2
+  Hamaari aaṅkheiṅ Muharram mein hum se puchhti haiṅ
+  Na jaane kaun se darya ki ye rawaani hai
+  Bujha diye the diye shab gaye Husain ne jo
+  Jahaaṅ mein aaj unhiṅ ki to zaufshaani hai
+
+  3
+  Main sar hatheli pe rakh kar salaam likhta huṅ
+  Mujhe yaqin hai ke ye jaan aani jaani hai
+  Mere wujud mein rach bas gaya hai zikr-e-Husain
+  Isi liye mere lehje mein khush bayaani hai
+
+  4
+  Aziz kiuṅ na ho mujh ko ye daagh maatam ka
+  Gham-e-Husain ki ye moatabar nishaani hai
+  Agarche sabr ke saahil pe main naya huṅ magar
+  Gham-e-Husain se nisbat bahut puraani hai
 # source_id: tajpoints:9456d473d5415124bf05
 # source_url: https://tajpoints.com/2017/02/ye-meri-aankh-ke-kashkool-mein-jo-pani.html
 # raw_sha256: 21b0e7f13cbd78cc44f6b62dc129a6f85630236f6d06bc400304a68d747eaf51
 ---
 
-Ye Meri Aankh Ke Kashkool Mein Jo Pani Hai
-Azay-e-Aal-e-Payambar Ki Meharbani Hai
+یہ میری آنکھ کے کشکول میں جو پانی ہے
+عزائے آل پیمبر کی مہربانی ہے
 
-1
-Yeh Aik Nane Mujahid Ki Hai Atta Kardah
-Nabi Ke Dein Pe Iss Waqt Jo Jawani Hai
-Sikha Rahi Hai Saleeqe Jo Sarfarazi Ke
-Waja Sarshat Bahatar Ki Wo Kahani Hai
+۱
+یہ ایک ننھے مجاہد کی ہے عطا کردہ
+نبی کے دین پہ اس وقت جو جوانی ہے
+سکھا رہی ہے سلیقے جو سرفرازی کے
+«Waja Sarshat» بہتر کی وہ کہانی ہے
 
-2
-Hamari Aankhein Muharam Mein Hum Se Pochti Hain
-Na Jane Koan Se Darya Ki Yeh Rawani Hai
-Bhujha Diye The Diye Shab Gaye Hussain Ne Jo
-Jahan Mein Aaj Unhi Ki Tu Zofshani Hai
+۲
+ہماری آنکھیں محرم میں ہم سے پوچھتی ہیں
+نہ جانے کون سے دریا کی یہ روانی ہے
+بجھا دیے تھے دیے شب گئے حسین نے جو
+جہاں میں آج انہی کی تو ضوفشانی ہے
 
-3
-Main Sar Hatheli Pe Rakh Kar Salam Likhta Hoon
-Mujhe Yaqeen Hai Keh Yeh Jan Aani Jani Hai
-Mere Wajood Mein Rach Bas Giya Hai Zikr-e-Hussain
-Issi Liye Mere Lehje Mein Khush Biyani Hai
+۳
+میں سر ہتھیلی پہ رکھ کر سلام لکھتا ہوں
+مجھے یقین ہے کہ یہ جان آنی جانی ہے
+میرے وجود میں رچ بس گیا ہے ذکرِ حسین
+اسی لیے میرے لہجے میں خوش بیانی ہے
 
-4
-Azeez Kyun Na Ho Mujh Ko Ye Daag Matam Ka
-Gham-e-Hussain Ki Ye Moatbar Nishani Hai
-Agarche Sabar Ke Sahil Pe Main Niya Hoon Magar
-Gham-e-Hussain Se Nisbat Bohat Porani Hai
+۴
+عزیز کیوں نہ ہو مجھ کو یہ داغ ماتم کا
+غمِ حسین کی یہ معتبر نشانی ہے
+اگرچہ صبر کے ساحل پہ میں نیا ہوں مگر
+غمِ حسین سے نسبت بہت پرانی ہے

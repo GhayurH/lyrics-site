@@ -1,49 +1,50 @@
 ---
 title: "یہ مادرِ اصغر نے کہا خاک اُڑا کر"
-alternateTitle: "Ye Madare Asghar"
+alternateTitle: "Ye Madar-e-Asghar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
+reciter: "Tableegh e Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ye madare asghar ne kaha khaak udakar
-  Asghar tujhe dhoondun mai kahan dasht may jaa kar
+  Ye madar-e-Asghar ne kaha khaak ura kar
+  Asghar tujhe dhunduṅ main kahaaṅ dasht mein jaa kar
 
   1
-  Hai zakhm galay may bhala neend aayegi kaise
-  Aajao suladun tumhe seene se laga kar
+  Hai zakhm gale mein bhala nind aayegi kaise
+  Aa jaao sula duṅ tumheiṅ sine se laga kar
 
   2
-  Sannata hai maqtal may andhera bhi bahot hai
-  Aise may meri jaan kahan rehgaye jaa kar
+  Sannaata hai maqtal mein andhera bhi bahut hai
+  Aise mein meri jaan kahaaṅ reh gaye jaa kar
 
   3
-  Kyun aate nahi laal mere godh may mere
+  Kiuṅ aate nahiṅ laal mere god mein mere
   Kya milta hai is dard ki maari ko rula kar
 
   4
-  Pani to nahi ashkon se moo saaf karungi
-  Is chand se chehre pe lagi khaak hata kar
+  Paani to nahiṅ ashkoṅ se muṅh saaf karuṅ gi
+  Is chaand se chehre pe lagi khaak hata kar
 
   5
-  Poshak badalwaungi suljhaungi zulfein
-  Armaan se dekhungi tumhe dulha bana kar
+  Poshaak badalwaauṅ gi suljhaauṅ gi zulfeiṅ
+  Armaan se dekhuṅ gi tumheiṅ dulha bana kar
 
   6
-  Tum reh gaye maqtal may khayaal aaya na tumko
-  Maa kis ko sulayegi kaleje se laga kar
+  Tum reh gaye maqtal mein khayaal aaya na tum ko
+  Maaṅ kis ko sulaayegi kaleje se laga kar
 
   7
-  Be-maqna o chadar hoo haya aati hai warna
-  Mai khud hi tumhe dhoondti maidan may aa kar
+  Bemaqna o chaadar huṅ haya aati hai warna
+  Main khud hi tumheiṅ dhundti maidaan mein aa kar
 
   8
-  Alfaaz ye nauhe ke nahi likhe hai gohar
-  Laaya hoo jigar paaron ko kaagaz pe saja kar
+  Alfaaz ye nauhe ke nahiṅ likhe haiṅ Gohar
+  Laaya huṅ jigar paaroṅ ko kaaghaz pe saja kar
 # source_id: nohayonline:246add15f84bd429d5ec
 # source_url: https://www.nohayonline.com/details_content.php?id=998
 # raw_sha256: 874061465390d8fbc466344eabd82992dd489884512d2135570f365d491ba169
@@ -53,7 +54,7 @@ romanLyrics: |-
 
 ۱
 ہے زخم گلے میں بھلا نیند آئے گی کیسے
-آ جائو سُلا دوں تمہیں سینے سے لگا کر
+آ جاؤ سُلا دوں تمہیں سینے سے لگا کر
 
 ۲
 سناٹا ہے مقتل میں اندھیرا بھی بہت ہے
@@ -68,7 +69,7 @@ romanLyrics: |-
 اس چاند سے چہرے پہ لگی خاک ہٹا کر
 
 ۵
-پوشاک بدلوائوں گی سلجھائوں گی زُلفیں
+پوشاک بدلواؤں گی سلجھاؤں گی زُلفیں
 ارمان سے دیکھوں گی تمہیں دولہا بنا کر
 
 ۶

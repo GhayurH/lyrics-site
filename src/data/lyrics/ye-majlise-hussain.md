@@ -1,62 +1,65 @@
 ---
 title: "ہے سوگ جس جگہ بھی شہ مشرقین کا"
-alternateTitle: "Ye Majlise Hussain"
+alternateTitle: "Ye Majlis-e-Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hai sogh jis jagah bhi shahe mashraqain ka
-  Khud pursa zahra leti hai is noor e ain ka
-  Rona sawab jis pe na rona haram hai
-  Chashme khuda mein iska bada ehteraam hai
-  Ye majlis e hussain alaihis salaam hai
+  Hai sog jis jagah bhi Shah-e-Mashriqain ka
+  Khud pursa Zehra leti hai is nur-e-ain ka
+  Rona sawaab jis pe na rona haraam hai
+  Chashm-e-Khuda mein is ka bara ehtiraam hai
+
+  Ye majlis-e-Husain alaihis salaam hai
+  Chashm-e-Khuda mein is ka bara ehtiraam hai
 
   1
-  Ye majlise hai hamd e khuda naat e mustafa
-  In majlison mein hota hai quran lab kusha
-  In majlison se milta hai jannat ka raasta
-  In majlison ki hoti hai kuch aise ibteda
-  Zakir ke lab pe pehle khuda ka kalaam hai
+  Ye majliseiṅ hai hamd-e-Khuda naat-e-Mustafa
+  In majlisoṅ mein hota hai Quraan lab kusha
+  In majlisoṅ se milta hai jannat ka raasta
+  In majlisoṅ ki hoti hai kuchh aisi ibtida
+  Zaakir ke lab pe pehle Khuda ka kalaam hai
 
   2
-  In majlison mein hoti hai insaniyat ki baat
-  Zikre gham e hussain hai wehdaniyat ki baat
-  Ye majlisein rasool ki haqqaniyat ki baat
-  Radd karti hai ye majlisein sufyaniyat ki baat
-  In ke sabab to hurr bhi alaihis salaam hai
+  In majlisoṅ mein hoti hai insaaniyat ki baat
+  Zikr-e-gham-e-Husain hai wahdaaniyat ki baat
+  Ye majliseiṅ Rasul ki haqqaaniyat ki baat
+  Radd karti hai ye majliseiṅ Sufyaaniyat ki baat
+  In ke sabab to Hur bhi alaihis salaam hai
 
   3
-  In majlison ko ajre risalat kaha gaya
-  Roze azal se rone ka fitrat kaha gaya
+  In majlisoṅ ko ajr-e-risaalat kaha gaya
+  Roz-e-azal se rone ka fitrat kaha gaya
   Dil ki lughat mein isko mohabbat kaha gaya
-  Yani isay batool ke sunnat kaha gaya
-  Har rone waali aankh ko mera salaam hai
+  Yaani ise Batul ki sunnat kaha gaya
+  Har rone waali aaṅkh ko mera salaam hai
 
   4
-  Ek majlis e aza jo hui mulke shaam mein
-  Zainab ne saff bichayi thi yaad e imam mein
-  Aansu chupe huwe thay shaheedon ke naam mein
-  Matam hua jo yaad e shahe tashnakaam mein
-  Tab se ghame hussain zamane mein aam hai
+  Ek majlis-e-aza jo hui mulk-e-Shaam mein
+  Zainab ne saf bichhaai thi yaad-e-Imaam mein
+  Aaṅsu chhupe hue the shahidoṅ ke naam mein
+  Maatam hua jo yaad-e-Shah-e-tashnakaam mein
+  Tab se gham-e-Husain zamaane mein aam hai
 
   5
-  Majlis mein zikre bali sakina kiya karo
-  Pani piyo to yaad shahe karbala ki ho
-  Majlis mein tazkera ali asghar ka jab suno
-  Ek aah sard bhar ke tadap kar yehi kaho
-  Asghar bada shaheedon mein tera muqaam hai
+  Majlis mein zikr-e-baali Sakina kiya karo
+  Paani piyo to yaad Shah-e-Karbala ki ho
+  Majlis mein tazkira Ali Asghar ka jab suno
+  Ek aah sard bhar ke tarap kar yehi kaho
+  Asghar bara shahidoṅ mein tera maqaam hai
 
   6
-  Is majlis e hussain ka sarwar hai nauhakhwan
-  Thakti nahi hai zikre hussaini mein yun zuban
-  Ghutti mein ashk e gham ko pilaati rahi hai maa
-  Waalid ne di hai kaan mein nauhon ki wo azaan
-  Rehaan jis se saare zamane mein naam hai
+  Is majlis-e-Husain ka Sarwar hai nauha khwaaṅ
+  Thakti nahiṅ hai zikr-e-Husaini mein yuṅ zabaaṅ
+  Ghutti mein ashk-e-gham ko pilaati rahi hai maaṅ
+  Waalid ne di hai kaan mein nauhoṅ ki wo azaan
+  Rehaan jis se saare zamaane mein naam hai
 # source_id: nohayonline:ca8b26ed2ccc7697807c
 # source_url: https://www.nohayonline.com/details_content.php?id=2624
 # raw_sha256: 62434c122bb94ca3e7f2f1f56b8eb38356a28a0a6183677b75bfdaf19b6f4e9f
@@ -65,7 +68,9 @@ romanLyrics: |-
 خود پرسہ زہرا لیتی ہے اس نور عین کا
 رونا ثواب جس پہ نہ رونا حرام ہے
 چشمِ خدا میں اس کا بڑا احترام ہے
+
 یہ مجلس حسین علیہ السّلام ہے
+چشمِ خدا میں اس کا بڑا احترام ہے
 
 ۱
 یہ مجلسیں ہے حمد خدا نعت مصطفیٰ
@@ -89,11 +94,11 @@ romanLyrics: |-
 ہر رونے والی آنکھ کو میرا سلام ہے
 
 ۴
-اک مجلس عزا جو ہوی ملک شام میں
-زینب نے صف بچھای تھی یاد امام میں
-آنسوں چھپے ہوے تھے شہیدوں کے نام میں
+اک مجلس عزا جو ہوئی ملک شام میں
+زینب نے صف بچھائی تھی یاد امام میں
+آنسو چھپے ہوئے تھے شہیدوں کے نام میں
 ماتم ہوا جو یاد شہ تشنہ کام میں
-تب سے غمِ حسین زمانے‌ میں عام ہے
+تب سے غمِ حسین زمانے میں عام ہے
 
 ۵
 مجلس میں ذکرِ بالی سکینہ کیا کرو
