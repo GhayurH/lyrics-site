@@ -1,79 +1,81 @@
 ---
 title: "زنداں میں زینب بین کرے"
-alternateTitle: "Zindan Mein Zainab"
+alternateTitle: "Zindaaṅ Mein Zainab"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Farhan Ali Waris"
 poet: "Rehaan Azmi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zindan mein zainab bain kare
+  Zindaaṅ mein Zainab bain kare
   Mera kunba saara qatl hua
-  Meri chadar lut gayi karbla mein
-  Bemaar bhatija rota raha
+
+  Meri chaadar lut gayi Karbala mein
+  Bimaar bhatija rota raha
 
   1
-  Pamaal hua bhai ka badan
-  Mere baal khule haathon mein rasan
-  Akbar ka jigar barchi se chida
-  Asghar ko mere pani na mila
+  Paamaal hua bhaai ka badan
+  Mere baal khule haathoṅ mein rasan
+  Akbar ka jigar barchhi se chhida
+  Asghar ko mere paani na mila
 
   2
-  Kanton pe chali hoo ay bhai
+  Kaantoṅ pe chali huṅ ae bhaai
   Har ek qadam teri yaad aayi
-  Bazaar mein pathar barse hai
-  Darbar mein thi mai be-parda
+  Baazaar mein patthar barse hai
+  Darbaar mein thi main beparda
 
   3
-  Aankhein meri tarsi rone ko
-  Tarsi hai sakina sone ko
-  Aada ne mujhe rone na diya
-  Bacchi ko teri sone na diya
+  Aankheṅ meri tarsi rone ko
+  Tarsi hai Sakina sone ko
+  Aadaa ne mujhe rone na diya
+  Bachchi ko teri sone na diya
 
   4
-  Teri gardan aur zaalim ki churi
-  Ay bhai mai kuch bhi kar na saki
-  Rone ke siwa mai kya karti
-  Aankhon se baha khoon ka darya
+  Teri gardan aur zaalim ki chhuri
+  Ae bhaai main kuchh bhi kar na saki
+  Rone ke siwa main kya karti
+  Aankhoṅ se baha khuṅ ka darya
 
   5
-  Matam mai karun tera kaise
-  Azaad ho pehle haath mere
-  Lekin hai mera waada tujhse
+  Maatam main karuṅ tera kaise
+  Aazaad ho pehle haath mere
+  Lekin hai mera waada tujh se
   Ta hashr rahega zikr tera
 
   6
-  Tere bin jo watan jayegi behan
-  Zinda to na reh payegi behan
-  Ghar qabr lagega zainab ko
+  Tere bin jo watan jaayegi behan
+  Zinda to na reh paayegi behan
+  Ghar qabr lagega Zainab ko
   Yaad aayega bhaiya saath tera
 
   7
-  Poochegi agar sughra mujhse
-  Kyun aaye nahi baba mere
-  Mai kaise kahungi ay sughra
-  Baba ne basayi karbobala
+  Puchhegi agar Sughra mujh se
+  Kiuṅ aaye nahiṅ Baba mere
+  Main kaise kahuṅgi ae Sughra
+  Baba ne basaayi Karbobala
 
   8
-  Mai aun o mohamed ke hujre
-  Dekhungi bhala khaali kaise
-  Sab zabt ke bandhan tootenge
-  Yaad aayenge ibne abdullah
+  Main Aun o Muhammad ke hujre
+  Dekhuṅgi bhala khaali kaise
+  Sab zabt ke bandhan tuteṅge
+  Yaad aayeṅge Ibn-e-Abdullah
 
   9
-  Zindan mein sakina mar gayi hai
+  Zindaaṅ mein Sakina mar gayi hai
   Dunya se safar wo kar gayi hai
-  Nikla na rehaai ka armaan
-  Taboot e sakina bhi na utha
+  Nikla na rehaai ka armaaṅ
+  Taabut Sakina bhi na utha
 
   10
-  Farhan fughan thi zainab ki
-  Jo shaam ke zindan mein goonji
-  Rehaan fughan wo dard bhari
-  Tha saani e zehra ka nauha
+  Farhan fughaaṅ thi Zainab ki
+  Jo Shaam ke zindaaṅ mein gunji
+  Rehaan fughaaṅ wo dard bhari
+  Tha saani-e-Zehra ka nauha
 # source_id: nohayonline:ed5324bf8c488c7bb0a2
 # source_url: https://www.nohayonline.com/details_content.php?id=3437
 # raw_sha256: 21f07e42714f86b4a1ea9b6226eb755c538c110b13ef2847f1070c07b66cdcbc
@@ -81,18 +83,19 @@ romanLyrics: |-
 
 زنداں میں زینب بین کرے
 میرا کنبہ سارا قتل ہوا
-میری چادر لٹ گیء کربلا میں
+
+میری چادر لٹ گئی کربلا میں
 بیمار بھتیجا روتا رہا
 
 ۱
-پامال ہوا بھای کا بدن
+پامال ہوا بھائی کا بدن
 میرے بال کھلے ہاتھوں میں رسن
 اکبر کا جگر برچھی سے چھدا
 اصغر کو میرے پانی نہ ملا
 
 ۲
 کانٹوں پہ چلی ہوں اے بھائی
-ہر ایک قدم تیری یاد آی
+ہر ایک قدم تیری یاد آئی
 بازار میں پتھر برسے ہے
 دربار میں تھی میں بے پردہ
 
@@ -111,35 +114,35 @@ romanLyrics: |-
 ۵
 ماتم میں کروں تیرا کیسے
 آزاد ہو پہلے ہاتھ میرے
-لیکن‌ ہے میرا وعدہ تجھ سے
+لیکن ہے میرا وعدہ تجھ سے
 تا حشر رہے گا ذکر تیرا
 
 ۶
-تیرے بن جو وطن جاے گی بہن
-زندہ تو نہ رہ پاے گی بہن
+تیرے بن جو وطن جائے گی بہن
+زندہ تو نہ رہ پائے گی بہن
 گھر قبر لگے گا زینب کو
-یاد آے گا بھیا ساتھ تیرا
+یاد آئے گا بھیا ساتھ تیرا
 
 ۷
 پوچھے گی اگر صغرا مجھ سے
-کیوں آے نہیں بابا میرے
+کیوں آئے نہیں بابا میرے
 میں کیسے کہوں گی اے صغرا
-بابا نے بسای کربوبلا
+بابا نے بسائی کربوبلا
 
 ۸
 میں عون و محمد کے ہجرے
 دیکھوں گی بھلا خالی کیسے
 سب ضبط کے بندھن ٹوٹیں گے
-یاد آیینگے ابن عبداللہ
+یاد آئیں گے ابنِ عبداللہ
 
 ۹
-زنداں میں سکینہ مر گیء ہے
-دنیا سے سفر وہ کر گیء ہے
-نکلا نہ رہای کا ارماں
+زنداں میں سکینہ مر گئی ہے
+دنیا سے سفر وہ کر گئی ہے
+نکلا نہ رہائی کا ارماں
 تابوت سکینہ بھی نہ اٹھا
 
 ۱۰
 فرحان فغاں تھی زینب کی
 جو شام کے زنداں میں گونجی
 ریحان فغاں وہ درد بھری
-تھا ثانیء زہرا کا نوحہ
+تھا ثانیِ زہرا کا نوحہ

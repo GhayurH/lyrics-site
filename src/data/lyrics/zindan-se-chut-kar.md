@@ -1,83 +1,84 @@
 ---
-title: "زنداں سے چھٹ کر جو وطن جاییو زینب"
-alternateTitle: "Zindan Se Chut Kar"
+title: "زنداں سے چھٹ کر جو وطن جائیو زینب"
+alternateTitle: "Zindaaṅ Se Chhut Kar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Ashraf Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zindan se chut kar jo watan jaaiyo zainab
-  Sughra ko meri seene se liptaiyo zainab
+  Zindaaṅ se chhut kar jo watan jaaiyo Zainab
+  Sughra ko meri sine se liptaaiyo Zainab
 
   1
-  Kehna ke hussain ibne ali pyasa mara hai
-  Sharbat pe mera fateha dilwaiyo zainab
+  Kehna ke Husain Ibn-e-Ali pyaasa mara hai
+  Sharbat pe mera faateha dilwaaiyo Zainab
 
   2
-  Maange jo sakina ko kaneezi mein sitamgar
-  Tum minnatein kar ke usay chudwaiyo zainab
+  Maange jo Sakina ko kanizi mein sitamgar
+  Tum minnateṅ kar ke use chhurwaaiyo Zainab
 
   3
-  Haakim jo sakina ko kafan de to na lena
-  Masooma ko kurte hi mein dafnaiyo zainab
+  Haakim jo Sakina ko kafan de to na lena
+  Maasuma ko kurte hi mein dafnaaiyo Zainab
 
   4
-  Saqqa e haram tishna dahan qatl hua hai
-  Ye qabr pe abbas ki likhwaiyo zainab
+  Saqqaa-e-haram tishna dahan qatl hua hai
+  Ye qabr pe Abbas ki likhwaaiyo Zainab
 
   5
-  Masoom jo bacche hai unhe doodh ke kooze
-  Asghar ke mere naam pe pilwayio zainab
+  Maasum jo bachche haiṅ unheṅ dudh ke kuze
+  Asghar ke mere naam pe pilwaaiyo Zainab
 
   6
-  Chadar ke ewaz baalon se moo apna chupaye
-  Darbar mein haakim ke chali jaaiyo zainab
+  Chaadar ke iwaz baaloṅ se muṅh apna chhupaaye
+  Darbaar mein haakim ke chali jaaiyo Zainab
 
   7
-  Hai mujhko yaqeen qaid mein royegi sakina
-  Aate hai pidar keh ke ye behlaiyo zainab
+  Hai mujh ko yaqin qaid mein royegi Sakina
+  Aate haiṅ pidar keh ke ye behlaaiyo Zainab
 
   8
-  Ehbaab e watan ko mere pani ki sabileen
-  Nazr e shohda dasht mein pilwaiyo zainab
+  Ahbaab-e-watan ko mere paani ki sabileṅ
+  Nazr-e-shuhadaa-e-dasht mein pilwaaiyo Zainab
 # source_id: nohayonline:9352d6037d843ed80722
 # source_url: https://www.nohayonline.com/details_content.php?id=3520
 # raw_sha256: bd649cc60a7f85801196cfadb1ff467ea61dca84dd8c95f6079f7eb9d1e46386
 ---
-زنداں سے چھٹ کر جو وطن جاییو زینب
-صغرا کو میری سینے سے لپٹاییو زینب
+زنداں سے چھٹ کر جو وطن جائیو زینب
+صغرا کو میری سینے سے لپٹائیو زینب
 
 ۱
 کہنا کہ حسین ابنِ علی پیاسا مرا ہے
-شربت پہ میرا فاتحہ دلواییو زینب
+شربت پہ میرا فاتحہ دلوائیو زینب
 
 ۲
 مانگے جو سکینہ کو کنیزی میں ستمگر
-تم منتیں کر کے اسے چھڑواییو زینب
+تم منتیں کر کے اسے چھڑوائیو زینب
 
 ۳
 حاکم جو سکینہ کو کفن دے تو نہ لینا
-معصوم کو کرتے ہی میں دفناییو زینب
+معصوم کو کرتے ہی میں دفنائیو زینب
 
 ۴
-سقاے حرم تشنہ دہن قتل ہوا ہے
-یہ قبر پہ عباس کی لکھواییو زینب
+سقائے حرم تشنہ دہن قتل ہوا ہے
+یہ قبر پہ عباس کی لکھوائیو زینب
 
 ۵
 معصوم جو بچے ہیں انہیں دودھ کے کوزے
-اصغر کے میرے نام پہ لکھواییو زینب
+اصغر کے میرے نام پہ لکھوائیو زینب
 
 ۶
-چادر کے عوض بالوں سے منہ اپنا چھپاے
+چادر کے عوض بالوں سے منہ اپنا چھپائے
 دربار میں حاکم کے چلی جائیو زینب
 
 ۷
-ہے مجھکو یقیں قید میں روے گی سکینہ
-آتے ہیں پدر کہہ کے یہ بہلاییو زینب
+ہے مجھ کو یقیں قید میں روئے گی سکینہ
+آتے ہیں پدر کہہ کے یہ بہلائیو زینب
 
 ۸
 احباب وطن کو میرے پانی کی سبیلیں
-نظر شہداء دشت میں پلواییو زینب
+نظر شہداء دشت میں پلوائیو زینب

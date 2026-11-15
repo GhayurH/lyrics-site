@@ -1,82 +1,97 @@
 ---
 title: "زندان میں کرتی تھی فغاں شاہ کی دختر"
-alternateTitle: "Zindan Mein Karti"
+alternateTitle: "Zindaan Mein Karti"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Hassan Abbas Ahsan"
 poet: "Ali Mohsin Khan"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zindan mein karti thi fughan shaah ki dukhtar
-  Jald aaiye baba
-  Mar jayegi is qaid mein ab aap ki dukhtar
+  Zindaan mein karti thi fughaaṅ shaah ki dukhtar
+  Jald aaiye Baba
+  Mar jaayegi is qaid mein ab aap ki dukhtar
+  Jald aaiye Baba
 
   1
-  Baba mera bhai hai musibat mein giraftaar
-  Hai bekas o nachaar
-  Beemar pa dhaate hai bohat zulm sitamgar
+  Baba mera bhaai hai musibat mein giraftaar
+  Hai bekas o naachaar
+  Bimaar pe dhaate haiṅ bohat zulm sitamgar
+  Jald aaiye Baba
 
   2
-  Darbar mein kya haal tha mai kaise bataun
-  Kya kya main sunaun
-  Roodad e safar bhi zara sun jaiye aakar
+  Darbaar mein kya haal tha main kaise bataauṅ
+  Kya kya main sunaauṅ
+  Rudaad-e-safar bhi zara sun jaaiye aa kar
+  Jald aaiye Baba
 
   3
-  Aada ne hamay loot liya baad tumhare
-  Qaime bhi jalaye
-  Kaano se tapakta hai lahoo chin gaye gohar
+  Aadaa ne hameṅ lut liya baad tumhaare
+  Khaime bhi jalaaye
+  Kaanoṅ se tapakta hai lahu chhin gaye gohar
+  Jald aaiye Baba
 
   4
-  Baba mujhe ab shimr ke haathon se bachalo
-  Seene pa sulalo
-  Ab taab tamachon ki nahi dekhiye aakar
+  Baba mujhe ab Shimr ke haathoṅ se bacha lo
+  Sine pe sula lo
+  Ab taab tamaanchoṅ ki nahiṅ dekhiye aa kar
+  Jald aaiye Baba
 
   5
-  Baba hai watan ke liye dil mera tadapta
-  Yaad aati hai sughra
-  Ab suye madina hamay le jaaiye aakar
+  Baba hai watan ke liye dil mera tarapta
+  Yaad aati hai Sughra
+  Ab su-e-Madina hameṅ le jaaiye aa kar
+  Jald aaiye Baba
 
   6
   Roti hui dunya se qaza kar gayi kamsin
-  Kya hashr tha mohsin
-  Abid ne kaha qabr mein hamsheer ko rakh kar
+  Kya hashr tha Mohsin
+  Aabid ne kaha qabr mein hamshir ko rakh kar
+  Jald aaiye Baba
 # source_id: nohayonline:54b24746503d653bbd35
 # source_url: https://www.nohayonline.com/details_content.php?id=3326
 # raw_sha256: 5123b64beaff08a134d465a95eb477f2b5524aa123f8cb5dbe9fb17faa0e5dbd
 ---
 زندان میں کرتی تھی فغاں شاہ کی دختر
-جلد آییےء بابا
+جلد آئیے بابا
 مر جائے گی اس قید میں اب آپ کی دختر
+جلد آئیے بابا
 
 ۱
 بابا میرا بھائی ہے مصیبت میں گرفتار
 ہے بیکس و ناچار
 بیمار پہ ڈھاتے ہیں بہت ظلم ستمگر
+جلد آئیے بابا
 
 ۲
 دربار میں کیا حال تھا میں کیسے بتاؤں
 کیا کیا میں سناؤں
-روداد سفر بھی زرا سن جاییےء آ کر
+رودادِ سفر بھی ذرا سن جائیے آ کر
+جلد آئیے بابا
 
 ۳
 اعدا نے ہمیں لوٹ لیا بعد تمہارے
-خیمے بھی جلاے
-کانوں سے ٹپکتا ہے لہو چھن گےء گوہر
+خیمے بھی جلائے
+کانوں سے ٹپکتا ہے لہو چھن گئے گوہر
+جلد آئیے بابا
 
 ۴
-بابا مجھے اب شمر کے ہاتھوں سے بچالو
+بابا مجھے اب شمر کے ہاتھوں سے بچا لو
 سینے پہ سلا لو
-اب تاب طمانچوں کی نہیں دیکھیےء آ کر
+اب تاب طمانچوں کی نہیں دیکھیے آ کر
+جلد آئیے بابا
 
 ۵
-بابا ہے وطن کے لئے میرا تڑپتا
+بابا ہے وطن کے لئے دل میرا تڑپتا
 یاد آتی ہے صغرا
-اب سوے مدینہ ہمیں لے جایےء آ کر
+اب سوئے مدینہ ہمیں لے جائیے آ کر
+جلد آئیے بابا
 
 ۶
-روتی ہوئی سے قضا کر گیء کمسن
+روتی ہوئی دنیا سے قضا کر گئی کمسن
 کیا حشر تھا محسن
 عابد نے کہا قبر میں ہمشیر کو رکھ کر
+جلد آئیے بابا
