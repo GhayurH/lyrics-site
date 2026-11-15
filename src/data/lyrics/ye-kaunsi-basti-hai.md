@@ -1,61 +1,76 @@
 ---
-title: شام ہاے شام
+title: شام ہائے شام
 alternateTitle: Ye Kaunsi Basti Hai
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Mir Takallum"
+reciter: "Mir Hasan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shaam haye Shaam
-  Hai sab ki jholiyon may pathar
-  Ye kaunsi basti hai fizza
-  Hota hai charaghan kyun ghar ghar
+  Shaam haaye Shaam
+  Hai sab ki jholiyoṅ mein patthar
+  Ye kaunsi basti hai Fizza
+  Hota hai charaaghaaṅ kiuṅ ghar ghar
+  Ye kaunsi basti hai Fizza
+  Shaam haaye Shaam
 
   1
-  Poocho to zara amma inse
-  Kyun dekhne humko aate hai
+  Puchho to zara ammaṅ in se
+  Kiuṅ dekhne hum ko aate haiṅ
   Har simt khushi ka aalam hai
-  Bazaar sajaye jaate hai
-  Kyu eid ke jaisa hai manzar
+  Baazaar sajaaye jaate haiṅ
+  Kiuṅ Eid ke jaisa hai manzar
+  Ye kaunsi basti hai Fizza
+  Shaam haaye Shaam
 
   2
-  Sajjad ki ankhon se ab tak
-  Aansu hi baraste dekhe thay
-  Ab dekh rahi hoo mai uski
-  Ankhon se musalsal khoon behte
-  Poocho to kisi se ye jaa kar
+  Sajjad ki aankhoṅ se ab tak
+  Aansu hi baraste dekhe the
+  Ab dekh rahi huṅ main us ki
+  Aankhoṅ se musalsal khuṅ behta
+  Puchho to kisi se ye jaa kar
+  Ye kaunsi basti hai Fizza
+  Shaam haaye Shaam
 
   3
   Baaghi aaye baaghi aaye
-  Ye kaisi manadi hoti hai
-  Lagta hai zamane baad koi
-  Is shehr may shaadi hoti hai
-  Kuch aise sajay hai baam o dar
+  Ye kaisi munaadi hoti hai
+  Lagta hai zamaane baad koi
+  Is shehr mein shaadi hoti hai
+  Kuchh aise sajaaye haiṅ baam o dar
+  Ye kaunsi basti hai Fizza
+  Shaam haaye Shaam
 
   4
-  Hum sab ke saron se behte hai
-  Kis waaste ye khoon ke dhaare
-  Koi khaulta pani phaykta hai
-  Koi phaynk raha hai angaray
-  Sab mil kar maarte hai pathar
+  Hum sab ke saroṅ se behte haiṅ
+  Kis waaste ye khuṅ ke dhaare
+  Koi khaulta paani pheṅkta hai
+  Koi pheṅk raha hai angaare
+  Sab mil kar maarte haiṅ patthar
+  Ye kaunsi basti hai Fizza
+  Shaam haaye Shaam
 
   5
-  Waada jo kiya tha yasrab may
+  Waada jo kiya tha Yasrab mein
   Aata hai yaad wohi waada
-  Mehsoos mujhe ye hota hai
+  Mehsus mujhe ye hota hai
   Takta hai koi mera rasta
-  Kya shireen ka hai paas may ghar
+  Kya Shiriṅ ka hai paas mein ghar
+  Ye kaunsi basti hai Fizza
+  Shaam haaye Shaam
 
   6
-  Quran sunate jaate thay
-  Shabbir sar e noke naiza
-  Rota tha takallum ibne ali
-  Jab poochti thi binte zehra
-  Kyun girta hai abbas ka sar
+  Quran sunaate jaate the
+  Shabbir sar-e-nok-e-naiza
+  Rota tha Takallum Ibn-e-Ali
+  Jab puchhti thi Bint-e-Zehra
+  Kiuṅ girta hai Abbas ka sar
+  Ye kaunsi basti hai Fizza
+  Shaam haaye Shaam
 # source_id: nohayonline:91a72514c8b3174c3aea
 # source_url: https://www.nohayonline.com/details_content.php?id=309
 # raw_sha256: 61c56132fa7ad1f07cd2cefcd9f521c5d951dc141b29437c1d951cdf4390325b
@@ -64,49 +79,63 @@ romanLyrics: |-
 # raw_sha256: ccc202fb963ae5dc45f4d18354a8f95fd8afd3571ee5b75574124137cc822f55
 ---
 
-شام ہاے شام
+شام ہائے شام
 ہے سب کی جھولیوں میں پتھر
 یہ کونسی بستی ہے فضہ
 ہوتا ہے چراغاں کیوں گھر گھر
+یہ کونسی بستی ہے فضہ
+شام ہائے شام
 
 ۱
-پوچھو تو زرا اماں ان سے
+پوچھو تو ذرا اماں ان سے
 کیوں دیکھنے ہم کو آتے ہیں
 ہر سمت خوشی کا عالم ہے
-بازار سجاے جاتے ہیں
+بازار سجائے جاتے ہیں
 کیوں عید کے جیسا ہے منظر
+یہ کونسی بستی ہے فضہ
+شام ہائے شام
 
 ۲
 سجاد کی آنکھوں سے اب تک
-آنسوں ہی برستے دیکھے تھے
-اب دیکھ رہی ہوں میں اسکی
+آنسو ہی برستے دیکھے تھے
+اب دیکھ رہی ہوں میں اس کی
 آنکھوں سے مسلسل خوں بہتا
 پوچھو تو کسی سے یہ جا کر
+یہ کونسی بستی ہے فضہ
+شام ہائے شام
 
 ۳
-باغی آے باغی آے
+باغی آئے باغی آئے
 یہ کیسی منادی ہوتی ہے
 لگتا ہے زمانے بعد کوئی
 اس شہر میں شادی ہوتی ہے
-کچھ ایسے سجاے ہیں بام و در
+کچھ ایسے سجائے ہیں بام و در
+یہ کونسی بستی ہے فضہ
+شام ہائے شام
 
 ۴
 ہم سب کے سروں سے بہتے ہیں
 کس واسطے یہ خوں کے دھارے
 کوئی کھولتا پانی پھینکتا ہے
 کوئی پھینک رہا ہے انگارے
-سب ملکر مارتے ہیں پتھر
+سب مل کر مارتے ہیں پتھر
+یہ کونسی بستی ہے فضہ
+شام ہائے شام
 
 ۵
 وعدہ جو کیا تھا یثرب میں
 آتا ہے یاد وہی وعدہ
 محسوس مجھے یہ ہوتا ہے
-تکتا ہے کوی میرا رستہ
+تکتا ہے کوئی میرا رستہ
 کیا شیریں کا ہے پاس میں گھر
+یہ کونسی بستی ہے فضہ
+شام ہائے شام
 
 ۶
 قرآن سناتے جاتے تھے
-شبیر سر نوکِ نیزہ
-روتا تھا تکلم ابن علی
-جب پوچھتی تھی بنت زہرا
+شبیر سرِ نوکِ نیزہ
+روتا تھا تکلم ابنِ علی
+جب پوچھتی تھی بنتِ زہرا
 کیوں گرتا ہے عباس کا سر
+یہ کونسی بستی ہے فضہ
+شام ہائے شام
