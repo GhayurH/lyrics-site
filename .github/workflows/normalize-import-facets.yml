@@ -86,6 +86,40 @@ jobs:
           assert old in text, 'expected pre-existing escaped regex not found'
           path.write_text(text.replace(old,new,1),'utf8')
           PY
+      - name: Reconcile printed Basta provenance into the existing enum
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          unknown=[]
+          for file in sorted(Path('src/data/lyrics').glob('*.md')):
+              source=file.read_text('utf8')
+              m=re.search(r'(?m)^bastaNote:\s*(.+)        run: |
+          npm ci
+          npm run check
+          node --experimental-strip-types scripts/recitation-identities.mjs --check
+      - name: Commit and remove one-time actions
+        run: |
+          rm -f .github/workflows/import-language-census.yml .github/workflows/normalize-import-facets.yml
+          git add -A src/data/lyrics src/content.config.ts src/lib/source-review.ts src/pages/lyrics/'[id].astro' .github/workflows/import-language-census.yml .github/workflows/normalize-import-facets.yml
+          git diff --cached --check
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "Normalize Panjabi language and canonical searchable facets"
+          git push origin "HEAD:feat/import-overlap-reconciliation-2026-11-05"
+,source)
+              if not m:continue
+              val=m.group(1).strip().strip('"'+"'")
+              if val in ('original-selection','additional-stanzas'):continue
+              if file.name!='ay-jannatul-baqia.md':
+                  unknown.append((str(file),val))
+                  continue
+              replacement='bastaNote: "original-selection"\n# basta_source_note: '+val
+              source=source[:m.start()]+replacement+source[m.end():]
+              file.write_text(source,'utf8')
+          print('Unknown Basta provenance:',unknown)
+          if unknown:raise SystemExit('Basta notes require review')
+          PY
       - name: Verify schema and source-review compatibility
         run: |
           npm ci
