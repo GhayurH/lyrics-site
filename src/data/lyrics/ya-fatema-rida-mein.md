@@ -1,57 +1,58 @@
 ---
 title: "مقتل میں گر رہا ہے سنبھالو حسین کو"
-alternateTitle: "Ya Fatema Rida Mein"
+alternateTitle: "Ya Fatima Rida Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Maqtal mein gir raha hai sambhalo hussain ko
-  Ya fatema rida mein chupalo hussain ko
+  Maqtal mein gir raha hai sambhaalo Husain ko
+  Ya Fatima rida mein chhupaalo Husain ko
 
   1
-  Paiwast hai ghareeb ke pehlu mein barchiyan
-  Tumko bhi utne deti nahi tooti phasliyan
-  Lekar ali ka naam uthalo hussain ko
+  Paiwast hai gharib ke pehlu mein barchhiyaaṅ
+  Tum ko bhi uthne deti nahiṅ tuti pasliyaaṅ
+  Le kar Ali ka naam uthaalo Husain ko
 
   2
-  Dewaar o dar ke beech jo armaan reh gaye
-  Rakhi hui thi dil mein jo mohsin ke waaste
-  Wo loriyan bhi aaj sunalo hussain ko
+  Diwaar o dar ke bich jo armaan reh gaya
+  Rakhi hui thi dil mein jo Mohsin ke waaste
+  Woh loriyaaṅ bhi aaj sunaalo Husain ko
 
   3
-  Sola pehar ki pyas hai aur hai labon pe dam
-  De kar ghareeb bete ko abbas ki qasam
-  Pani agar milay to pilalo hussain ko
+  Solah pehar ki pyaas hai aur hai laboṅ pe dam
+  De kar gharib bete ko Abbas ki qasam
+  Paani agar mile to pilaalo Husain ko
 
   4
-  Sheh ki ghareeb beti ke armaan ki tarha
-  Godhi mein leke teesri shaban ki tarha
-  Kuch dayr ho sake to sulalo hussain ko
+  Sheh ki gharib beti ke armaan ki tarah
+  Godi mein le ke tisri Shaabaan ki tarah
+  Kuchh der ho sake to sulaalo Husain ko
 
   5
-  Hyder tadap rahe hai payambar hai beqaraar
-  Tum kaise sun rahi ho sadayein ye baar baar
-  Ek shor hai zameen par giralo hussain ko
+  Haidar tarap rahe haiṅ payambar haiṅ beqaraar
+  Tum kaise sun rahi ho sadaaeṅ ye baar baar
+  Ik shor hai zamiṅ pe giraalo Husain ko
 
   6
-  Ache nahi iraade yazeedi sipaah ke
-  Pao'n nikal rahe hai rakabo se shah ke
-  Ghazi nahi hai tum hi sambhalo hussain ko
+  Achchhe nahiṅ iraade Yazidi sipaah ke
+  Paaoṅ nikal rahe haiṅ rakaaboṅ se Shaah ke
+  Ghaazi nahiṅ haiṅ tum hi sambhaalo Husain ko
 
   7
-  Zainab sada ye deti hai ay beqaraar maa
-  Zakhmo ko milke baandhengi hyder ki betiyan
-  Qaime mein ek baar bulalo hussain ko
+  Zainab sada ye deti hai ae beqaraar maaṅ
+  Zakhmoṅ ko mil ke baaṅdheṅgi Haidar ki betiyaaṅ
+  Khaime mein ek baar bulaalo Husain ko
 
   8
-  Rone lagi ay mir takallum wo gham-zada
-  Phaila ke apne haath jo shabbir ne kaha
-  Godhi mein thodi dayr sulalo hussain ko
+  Rone lagi ae Mir Takallum woh gham zada
+  Phaila ke apne haath jo Shabbir ne kaha
+  Godi mein thori der sulaalo Husain ko
 # source_id: nohayonline:4616ff65ac7baed0a774
 # source_url: https://www.nohayonline.com/details_content.php?id=100
 # raw_sha256: 755e29fb80108fcc06a9261d91b3b1ab3bbaac9c51c8b1259b6ff13262418263
@@ -61,8 +62,8 @@ romanLyrics: |-
 
 ۱
 پیوست ہے غریب کے پہلو میں برچیاں
-تمکو بھی اٹھنے دیتی نہیں ٹوٹی پھسلیاں
-لیکر علی کا نام اٹھالو حسین کو
+تم کو بھی اٹھنے دیتی نہیں ٹوٹی پسلیاں
+لے کر علی کا نام اٹھالو حسین کو
 
 ۲
 دیوار و در کے بیچ جو ارمان رہ گیا
@@ -71,7 +72,7 @@ romanLyrics: |-
 
 ۳
 سولہ پہر کی پیاس ہے اور ہے لبوں پہ دم
-دیکر غریب بیٹے کو عباس کی قسم
+دے کر غریب بیٹے کو عباس کی قسم
 پانی اگر ملے تو پلالو حسین کو
 
 ۴
@@ -81,7 +82,7 @@ romanLyrics: |-
 
 ۵
 حیدر تڑپ رہے ہیں پیمبر ہیں بیقرار
-تم کیسے سن رہی ہو صداءیں یہ بار بار
+تم کیسے سن رہی ہو صدائیں یہ بار بار
 اک شور ہے زمیں پہ گرالو حسین کو
 
 ۶
