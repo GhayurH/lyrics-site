@@ -4,7 +4,7 @@ alternateTitle: "Aqraba Kat Gaye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Salaam"
+kalamType: Salam
 reciter: "Sibte Jafar"
 tags: []
 aliases: []

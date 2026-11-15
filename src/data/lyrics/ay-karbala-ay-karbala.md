@@ -6,7 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
-reciter: "Mir Hassan Mir"
+reciter: "Mir Hasan Mir"
 tags: []
 aliases: ["Ay Karbala Ay Karbala"]
 published: true

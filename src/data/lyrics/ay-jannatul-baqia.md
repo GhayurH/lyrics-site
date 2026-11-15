@@ -8,7 +8,8 @@ kalamType: "Noha"
 poet: "Sibte Jafar"
 reciter: "Sibte Jafar"
 bastaPage: 420
-bastaNote: "NoHayOnline کا مختصر متن؛ اسی کلام کا مفصل متن بستہ صفحات ۴۲۰–۴۲۱ پر ہے۔"
+bastaNote: "original-selection"
+# basta_source_note: NoHayOnline کا مختصر متن؛ اسی کلام کا مفصل متن بستہ صفحات ۴۲۰–۴۲۱ پر ہے۔
 tags: []
 aliases: ["Ay Jannatul Baqia"]
 published: true

@@ -67,7 +67,7 @@ romanLyrics: |-
   Palkoṅ se kar rahi thi maatam jo Bint-e-Zehra
   Sajjad nauhakhwaaṅ hain nauha suna rahe hain
   Kya Shaam aa gaya hai
-reciter: Mir Hassan Mir
+reciter: "Mir Hasan Mir"
 # source_id: nohayonline:54b394274805a8c00573
 # source_url: https://www.nohayonline.com/details_content.php?id=313
 # raw_sha256: 0ab6f5f14fbec72901f8433f509fb7b68480b9481e11adb3453d5440d96ac55c

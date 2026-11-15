@@ -9,7 +9,7 @@ poet: "Bilal Kazmi"
 tags: []
 aliases: []
 published: true
-reciter: "Mir Hassan Mir"
+reciter: "Mir Hasan Mir"
 romanLyrics: |-
   Abid ko jahaṅ ghash aata hai
   Durroṅ se jagaya jaata hai

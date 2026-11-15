@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-reciter: "Mir Hassan Mir"
+reciter: "Mir Hasan Mir"
 tags: []
 aliases: ["Do Baar Namaz"]
 published: true

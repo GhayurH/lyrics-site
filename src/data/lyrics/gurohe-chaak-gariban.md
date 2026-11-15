@@ -4,7 +4,7 @@ alternateTitle: Guroh-e-Chaak Girebaaṅ
 language: Urdu
 lang: ur
 direction: rtl
-kalamType: Salaam
+kalamType: Salam
 reciter: Nasir Jahan
 tags: []
 aliases: []

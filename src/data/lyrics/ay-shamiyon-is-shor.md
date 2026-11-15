@@ -6,7 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Hassan Mir"
-reciter: "Mir Hassan Mir"
+reciter: "Mir Hasan Mir"
 tags: []
 aliases: ["Ay Shamiyon Is Shor"]
 published: true

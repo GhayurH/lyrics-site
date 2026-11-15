@@ -4,7 +4,7 @@ alternateTitle: Darauna Jangal
 language: Urdu
 lang: ur
 direction: rtl
-kalamType: Salaam
+kalamType: Salam
 poet: "Ghayur"
 reciter: "Mukhtar Zaidi"
 tags: []

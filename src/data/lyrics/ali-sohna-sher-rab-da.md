@@ -1,13 +1,13 @@
 ---
 title: "علی سوہنا شیر رب دا"
 alternateTitle: "Ali Sohna Sher Rab Da"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sarwar Shakir"
 reciter: "Tahseen Sakina"
-tags: ["Panjabi"]
+tags: []
 aliases: []
 recitationId: "ali-sohna-sher-rab-da-tahseen-sakina-lyrics-in-punjabi-2022"
 published: true

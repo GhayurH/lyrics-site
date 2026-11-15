@@ -2,15 +2,15 @@
 title: "ہائے رضا ویراں اے راہواں تکدی رہندی معصومہ"
 alternateTitle: "Haye Raza Veraaṅ Ae Raahwaaṅ Takdi Rehndi Maasuma"
 recitationId: "haye-raza-veran-aye-rahwaan-takdi-rendi-masooma-lyrics-new-noha-24-rab"
-# Punjabi Shahmukhi; the collection uses Urdu as its Arabic-script language label.
-language: "Urdu"
-lang: "ur"
+# Panjabi text in Shahmukhi script.
+language: "Panjabi"
+lang: "pa"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Fida Husain Ravi Road"
 reciter: "Ravi Road Lahore Party & Izan Abbas Group Sialkot"
 year: 2025
-tags: ["Punjabi"]
+tags: []
 aliases: ["haye-raza-veran-aye-rahwaan-takdi-rendi-masooma-lyrics-new-noha-24-rab", "Haye Raza Veran Aye Rahwaan Takdi Rendi Masooma Lyrics New Noha 24 Rabi Ul Sani 2025 Ravi Road"]
 published: true
 romanLyrics: |-

@@ -9,7 +9,7 @@ poet: "Hasnain Akbar"
 tags: []
 aliases: []
 published: true
-reciter: "Mir Hassan Mir"
+reciter: "Mir Hasan Mir"
 romanLyrics: |-
   Al amaṅ al amaṅ Ya Sahib-az-Zaman
   Tuti hui hai aaj bhi Zehra ki pasliyaṅ

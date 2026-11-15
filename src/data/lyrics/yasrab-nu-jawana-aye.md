@@ -2,14 +2,14 @@
 title: "یثرب نوں جاونا اے"
 alternateTitle: "Yasrab Nu Jaawna Ae"
 recitationId: "yasrab-nu-jawana-aye-lyrics-in-punjabi-2003-mir-hasan-mir"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Banda-e-Momin"
 reciter: "Mir Hasan Mir; Hub-e-Ali"
 year: 2003
-tags: ["Punjabi"]
+tags: []
 aliases: ["Yasrab Nu Jawana Aye", "Yasrab Nu Jawana Aye Lyrics In Punjabi 2003 Mir Hasan Mir", "yasrab-nu-jawana-aye-lyrics-in-punjabi-2003-mir-hasan-mir"]
 published: true
 romanLyrics: |-

@@ -9,7 +9,7 @@ poet: "Nasir Abbas"
 tags: []
 aliases: []
 published: true
-reciter: "Mir Hassan Mir"
+reciter: "Mir Hasan Mir"
 romanLyrics: |-
   Akbar ka lahu Sheh ki aba tak pahunch gaya
   Dastar se wo maaṅ ki rida tak pahunch gaya

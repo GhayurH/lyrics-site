@@ -6,7 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"
-reciter: "Mir Hassan Mir"
+reciter: "Mir Hasan Mir"
 tags: []
 aliases: ["Bin Baazuon Ke Utra"]
 published: true

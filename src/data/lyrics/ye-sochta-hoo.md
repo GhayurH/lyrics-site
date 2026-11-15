@@ -4,7 +4,7 @@ alternateTitle: Ye Sochta Huṅ
 language: Urdu
 lang: ur
 direction: rtl
-kalamType: Salaam
+kalamType: Salam
 poet: "Zakir Nawab Arif"
 reciter: "Fateh Ali Khan"
 tags: []

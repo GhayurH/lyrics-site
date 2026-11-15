@@ -6,7 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi, Mir Takallum"
-reciter: "Mir Hassan Mir"
+reciter: "Mir Hasan Mir"
 tags: []
 aliases: []
 published: true

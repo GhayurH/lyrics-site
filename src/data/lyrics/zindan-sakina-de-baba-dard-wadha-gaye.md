@@ -1,7 +1,7 @@
 ---
 title: "زنداں سکینہ دے بابا درد ودھا گئے"
 alternateTitle: "Zindaaṅ Sakina De Baba Dard Wadhaa Gaye"
-language: "Punjabi"
+language: "Panjabi"
 lang: "pa"
 direction: "rtl"
 kalamType: "Noha"

@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-reciter: "Mir Hassan Mir"
+reciter: "Mir Hasan Mir"
 poet: "Mir Takallum Mir"
 tags: []
 aliases: []

@@ -1,7 +1,7 @@
 ---
 title: "Aa Sunawaaṅ Shaan Teno Mustafa De Vir Da"
-language: "Punjabi"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []

@@ -1,17 +1,17 @@
 ---
 title: "حق نعرہ حیدری یا علی"
 alternateTitle: "Haq Naara Haideri Ya Ali"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Asad Ali Asad"
 reciter: "Intezar Hussain Khan"
-tags: ["Punjabi"]
+tags: []
 aliases: ["haq-nara-hyderi-ya-ali-intezar-hussain-khan-lyrics-punjabi-2025"]
 published: true
 recitationId: "haq-nara-hyderi-ya-ali-intezar-hussain-khan-lyrics-punjabi-2025"
-# Source language: Punjabi; the Arabic-script edition retains Punjabi wording.
+# Source language: Panjabi; the Arabic-script edition retains Punjabi wording.
 romanLyrics: |-
   Shaana waala taaj Ali da
   Hai do jag te raaj Ali da

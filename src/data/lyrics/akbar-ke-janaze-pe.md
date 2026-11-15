@@ -9,7 +9,7 @@ poet: "Mir Takallum"
 tags: []
 aliases: []
 published: true
-reciter: "Mir Hassan Mir"
+reciter: "Mir Hasan Mir"
 romanLyrics: |-
   Jis waqt gira zin se hamshakl-e-Payambar
   Shabbir ko Zainab ne sada di ye tarap kar

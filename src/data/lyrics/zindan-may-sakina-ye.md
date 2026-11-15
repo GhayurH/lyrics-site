@@ -6,7 +6,7 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehan Azmi"
-reciter: "Mir Hassan Mir"
+reciter: "Mir Hasan Mir"
 tags: []
 aliases: ["Zindan May Sakina Ye"]
 published: true

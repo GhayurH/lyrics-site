@@ -9,7 +9,7 @@ tags: []
 aliases: []
 recitationId: "afsos-nabi-zadiyon-ka-sham-mein-jana-sajjad-se-pocho-mir-hasan-mir"
 published: true
-reciter: "Mir Hassan Mir"
+reciter: "Mir Hasan Mir"
 romanLyrics: |-
   Afsos Nabi zadiyoṅ ka Shaam mein jaana Sajjad se puchho
   Sar nange wo maaoṅ behnoṅ ka darbar mein jaana Sajjad se puchho

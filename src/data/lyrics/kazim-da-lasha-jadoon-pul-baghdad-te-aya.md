@@ -2,13 +2,13 @@
 title: "کاظم دا لاشہ جدوں پل بغداد تے آیا"
 alternateTitle: "Kaazim Da Laasha Jadoṅ Pul Baghdad Te Aaya"
 recitationId: "kazim-da-lasha-jadoon-pul-baghdad-te-aya-soz-sheraz-khan-lyrics-punjab"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "rtl"
 kalamType: "Soz"
 poet: "Madad Ali Joan"
 reciter: "Sheraz Khan and Shahid Khan Sialkot"
-tags: ["Punjabi"]
+tags: []
 aliases: ["kazim-da-lasha-jadoon-pul-baghdad-te-aya-soz-sheraz-khan-lyrics-punjab", "Kazim Da Lasha Jadoon Pul Baghdad Te Aya Soz Sheraz Khan Lyrics Punjabi 2013"]
 published: true
 romanLyrics: |-

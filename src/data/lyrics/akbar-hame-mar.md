@@ -9,7 +9,7 @@ poet: "Mir Takallum"
 tags: []
 aliases: []
 published: true
-reciter: "Mir Hassan Mir"
+reciter: "Mir Hasan Mir"
 romanLyrics: |-
   Ghurbat ki ghari ye aai aankhoṅ se chali binaai
   Tum ghar se chale ho aise jaata hai janaaza jaise

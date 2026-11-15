@@ -4,7 +4,7 @@ alternateTitle: "Ummat Ne Baade"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Salaam"
+kalamType: Salam
 poet: "Ali Naqvi Najaf"
 reciter: "Anj. Masoomeen"
 tags: []

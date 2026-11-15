@@ -4,7 +4,7 @@ alternateTitle: Arbaeen Ke Soghwaro
 language: Urdu
 lang: ur
 direction: rtl
-kalamType: Salaam
+kalamType: Salam
 reciter: "Alamdar Razvi"
 tags: []
 aliases: []

@@ -4,7 +4,7 @@ alternateTitle: Bas Husain Bas
 language: Urdu
 lang: ur
 direction: rtl
-kalamType: Salaam
+kalamType: Salam
 poet: "Rehan Azmi"
 reciter: "Zargham Abbas"
 tags: []

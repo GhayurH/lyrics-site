@@ -1,7 +1,7 @@
 ---
 title: "زندان دے وچ رو رو سکینہ بیمار نوں بلاوے"
 alternateTitle: "Zindaan De Vich Ro Ro Sakina Bimaar Nu Bulaawe"
-language: "Punjabi"
+language: "Panjabi"
 lang: "pa"
 direction: "rtl"
 kalamType: "Noha"

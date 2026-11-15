@@ -1,12 +1,12 @@
 ---
 title: "Ali Ka Raaj"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Zeeshan Abidi, Iftikhar Haider"
 reciter: "Syed Raza Abbas Zaidi"
-tags: ["Panjabi"]
+tags: []
 aliases: ["ali-ka-raaj-syed-raza-abbas-zaidi"]
 published: true
 # source_id: tajpoints:20230c299a62f8bfb0ab

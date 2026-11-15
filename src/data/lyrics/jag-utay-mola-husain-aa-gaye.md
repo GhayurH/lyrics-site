@@ -2,12 +2,12 @@
 title: "جگ اُتے مولا حسین آ گئے"
 alternateTitle: "Jag Utay Mola Husain Aa Gaye"
 recitationId: "jag-utay-mola-hussain-aa-gaye-lyrics-in-punjabi-2017"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "rtl"
 kalamType: "Manqabat"
 reciter: "Abida Parveen"
-tags: ["Punjabi"]
+tags: []
 aliases: ["jag-utay-mola-hussain-aa-gaye-lyrics-in-punjabi-2017", "Jag Utay Mola Hussain Aa Gaye Lyrics In Punjabi 2017"]
 published: true
 romanLyrics: |-

@@ -1,13 +1,13 @@
 ---
 title: "علی علی کرنا ضرور چاہی دا"
 alternateTitle: "Ali Ali Karna Zaroor Chahi Da"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Hasnain Akbar"
 reciter: "Mir Hasan Mir"
-tags: ["Panjabi"]
+tags: []
 aliases: []
 recitationId: "ali-ali-karna-zaroor-chahiye-mir-hasan-mir-lyrics-2021"
 published: true

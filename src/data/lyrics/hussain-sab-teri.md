@@ -4,7 +4,7 @@ alternateTitle: Husain Sab Teri
 language: Urdu
 lang: ur
 direction: rtl
-kalamType: Salaam
+kalamType: Salam
 tags: []
 aliases: []
 published: true

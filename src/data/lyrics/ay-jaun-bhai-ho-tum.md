@@ -6,7 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Sajjad Mir"
-reciter: "Mir Hassan Mir"
+reciter: "Mir Hasan Mir"
 tags: []
 aliases: ["Ay Jaun Bhai Ho Tum", "اے جون بھای ہو تم میرے"]
 published: true

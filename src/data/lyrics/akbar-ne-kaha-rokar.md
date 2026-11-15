@@ -9,7 +9,7 @@ poet: "Mir Takallum"
 tags: []
 aliases: []
 published: true
-reciter: "Mir Hassan Mir"
+reciter: "Mir Hasan Mir"
 romanLyrics: |-
   Shabih-e-Imam-e-Zamaṅ khinchte haiṅ
   Tasawwur mein tasvir-e-jaaṅ khinchte haiṅ

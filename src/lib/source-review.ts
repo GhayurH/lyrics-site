@@ -157,7 +157,7 @@ export function reviewMarkdown(source: MarkdownSource): ReviewedMarkdown {
     for (const field of ["title", "language", "lang", "direction", "kalamType"]) {
       if (!fields[field]) record(issues, path, 2, "missing-metadata", "Missing " + field + " field");
     }
-    const isUrdu = fields.direction === "rtl" && (fields.lang === "ur" || fields.language === "Urdu");
+    const isUrdu = fields.language === "Urdu" && fields.direction === "rtl";
     if (isUrdu) {
       if (fields.direction && fields.direction !== "rtl") record(issues, path, 2, "direction", "Urdu direction is not rtl");
       if (fields.title && /[A-Za-z]/u.test(fields.title))

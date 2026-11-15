@@ -1,17 +1,17 @@
 ---
 title: "حق دا ولی"
 alternateTitle: "Haq Da Wali"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sajjad Ali Turab"
 reciter: "Syeda Amber Naqvi & Rida Karbalai (Karbalai Sisters); Shujat Ali Zubi"
-tags: ["Punjabi"]
+tags: []
 aliases: ["haq-da-wali-karbalai-sisters-syeda-amber-naqvi-rida-karbalai-lyrics-20"]
 published: true
 recitationId: "haq-da-wali-karbalai-sisters-syeda-amber-naqvi-rida-karbalai-lyrics-20"
-# Source language: Punjabi; the Arabic-script edition retains Punjabi wording.
+# Source language: Panjabi; the Arabic-script edition retains Punjabi wording.
 romanLyrics: |-
   Haq da wali ae sher-e-jali ae do jag da shahanshaah
   Makhluqaaṅ paale mushkil vi taale Ali Haq Elia
