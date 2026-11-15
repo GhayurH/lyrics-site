@@ -15,11 +15,11 @@ This is an **unpublished source review branch** targeting `feat/import-overlap-r
 | Status | Source IDs | Interpretation |
 | --- | ---: | --- |
 | `unreviewed` | 362 | No user decision; never infer permission to import or delete |
-| `pending_manual_dedup` | 750 | User has classified the language/lyrics, but source-to-canonical reconciliation remains |
+| `pending_manual_dedup` | 744 | User has classified the language/lyrics, but source-to-canonical reconciliation remains |
 | `no_lyrics` | 105 | User-approved exclusions; no lyric Markdown; archive snapshots retained |
 | `duplicate_source` | 9 | Identical earlier source readings linked to retained edition |
-| `consolidated_other_branch` | 19 | Canonical kalam retained on `chore/remaining-5294-kalams-2026-11-14` with source IDs and hashes added there |
-| `consolidated_existing` | 43 | Fully or substantially matched to a pre-existing Markdown, retained and linked |
+| `consolidated_other_branch` | 21 | Canonical kalam retained on `chore/remaining-5294-kalams-2026-11-14` with source IDs and hashes added there |
+| `consolidated_existing` | 47 | Fully or substantially matched to a pre-existing Markdown, retained and linked |
 | `unpublished_source_draft` | 78 | New poem file staged from an explicitly approved lyric source; editorial work pending |
 | `consolidated_new_draft` | 20 | Ten duplicate pairs merged into ten newly staged canonical files |
 | `excluded_user` | 1 | User requested exclusion without identifying duplicate or no-lyric reason; no lyric draft created |
@@ -63,7 +63,7 @@ The initial source-identity manifest contains **109 TajPoints/NoHayOnline record
 
 ## Remaining manual work
 
-**750 individually classified NohaWriteups sources** still need full comparisons against every relevant existing lyric edition, and **362 blank CSV records** have no classification yet. After deduplication, remaining valid poems need source-grounded stanza alignment, transliteration according to `docs/` conventions, Urdu completeness, metadata and original-source verification. No `published: false` draft has been automatically declared complete.
+**744 individually classified NohaWriteups sources** still need full comparisons against every relevant existing lyric edition, and **362 blank CSV records** have no classification yet. After deduplication, remaining valid poems need source-grounded stanza alignment, transliteration according to `docs/` conventions, Urdu completeness, metadata and original-source verification. No `published: false` draft has been automatically declared complete.
 
 Do not claim successful `npm run source:sync`, `npm run check`, or `npm run build` until the branch has actually been checked. The source archive in the import repository must remain untouched.
 
@@ -87,7 +87,7 @@ Eleven other source readings were newly linked with already complete bilingual p
 
 **Avoid false merges:** `Ay Mere Bhai Raza` differs from the similarly titled complete poem in this branch; `Aey Waey Nehr-e-Alqama` is *not* `Darya Behta Raha`; `Abhi Khanjar Na Chala` differs from the `Shimr Khanjar Na Chala` chore version; `Baba Teri Zahra Nu Ik Payshi Maar` is a different poem from `Teri Zahra Nu Tere Musalmana Maar Mukaya Aye`. Those individual records have source-supported notes but are still pending a full alternate-title search.
 
-**Outstanding:** 750 classified source IDs require full manual source-to-branch deduplication; 362 never received a user disposition. Existing remaining-branch imports often have incorrectly packed stanza groups; linking a source does **not** certify editorial completeness. No second NohaWriteups status tracker was generated. Builds/CI have not been run on unfinished source staging.
+**Outstanding:** 744 classified source IDs require full manual source-to-branch deduplication; 362 never received a user disposition. Existing remaining-branch imports often have incorrectly packed stanza groups; linking a source does **not** certify editorial completeness. No second NohaWriteups status tracker was generated. Builds/CI have not been run on unfinished source staging.
 
 
 ### Additional cross-branch pass (source-backed verification)
@@ -98,11 +98,20 @@ Further NohaWriteups sources linked directly to chore/remaining-5294-kalams-2026
 
 `nohawriteups:6fca5b544d7d264154b3` was confirmed as a third capture of `deeva-baleya-na-phul-paaey-eh.md`; all six Panjabi stanzas are already retained, with differing source order. Two previously unpaired Akbar Veeran source IDs were newly consolidated into a single unpublished `akbar-veeran-nanay-de-rozay-jakay.md` file. They are included in the 20 `consolidated_new_draft` source rows.
 
-**Current cumulative statuses:** 362 `unreviewed`, 750 `pending_manual_dedup`, 105 `no_lyrics`, 1 `excluded_user`, 9 `duplicate_source`, 43 `consolidated_existing`, 19 `consolidated_other_branch`, 78 `unpublished_source_draft`, 20 `consolidated_new_draft` = **1,387**. The 362 `unreviewed` records still need user-supplied adjudication or a fresh manual lyric/non-lyric pass. Source reconciliation is not equivalent to completed stanza/transliteration/Urdu editorial review. No CI or build was run on these WIP branches.
+**Current cumulative statuses:** 362 `unreviewed`, 744 `pending_manual_dedup`, 105 `no_lyrics`, 1 `excluded_user`, 9 `duplicate_source`, 47 `consolidated_existing`, 21 `consolidated_other_branch`, 78 `unpublished_source_draft`, 20 `consolidated_new_draft` = **1,387**. The 362 `unreviewed` records still need user-supplied adjudication or a fresh manual lyric/non-lyric pass. Source reconciliation is not equivalent to completed stanza/transliteration/Urdu editorial review. No CI or build was run on these WIP branches.
 
 
 ## November 15 review-decisions(2).csv integration
 
-The latest complete 1,387-row source decision upload adds **575 new classifications**, without overwriting previous manual reconciliations: **46** further records explicitly marked `no lyrics, delete`, **1** unqualified `delete` held separately as `excluded_user`, and **528** additional records awaiting complete source-to-canonical verification (including the two explicitly labelled `Duplicate - delete`). **362** rows remain blank. Existing canonical links and unpublished drafts remain untouched. Original source snapshots are never deleted.
+The latest complete 1,387-row source decision upload adds **575 new classifications**, without overwriting previous manual reconciliations: **46** further records explicitly marked `no lyrics, delete`, **1** unqualified `delete` held separately as `excluded_user`, and **528** additional records initially requiring complete source-to-canonical verification (including the two explicitly labelled `Duplicate - delete`). **362** rows remain blank. Existing canonical links and unpublished drafts remain untouched. Original source snapshots are never deleted.
 
 The upload includes newly identified duplicate-candidate pairs and original/live HTML recovery requests, including missing Roman stanzas, mislabeled English translation, and Urdu/Panjabi/Saraiki/Balochi combinations. These are recorded in the **sole** `nohawriteups-review-status.csv` with explicit partner source IDs where supplied. A source's user classification is **not** proof of cross-branch equivalence, lyric completeness, or editorial sign-off. Pending sources require verse-level comparison against `main`, `feat/import-overlap-reconciliation-2026-11-05`, and `chore/remaining-5294-kalams-2026-11-14` before a new canonical Markdown, a consolidation, or deletion of any duplicate draft. The CSV `nohawriteups-review-decisions-input.csv` retains the supplied decision data for provenance, and is **not** a second status tracker.
+
+
+### Verified duplicate pairs against published sources and other branches
+
+- `nohawriteups:4d1ef15bf9632e52eecc` and `nohawriteups:ba3f5e9e5f480b3532a3` -> existing full seven-stanza bilingual `goonji-bawaqt-e-asr.md`. The second is abridged to five stanzas; divergent Akbar-couplet words are documented without rewriting the existing Urdu/Roman edition. The similarly titled TajPoints file in `chore/remaining-5294-kalams-2026-11-14` contains the same composition with packed stanzas, not a separate kalam.
+- `nohawriteups:42705960ec7ff34ffd1f` and `nohawriteups:740ea918d52b4c9c7986` -> existing eleven-stanza bilingual `hussain-ruk-jao.md`, after rejecting the source sites' promotional lines and repeated interjections.
+- `nohawriteups:b62210e4cb0bc55e91e0` and `nohawriteups:83a44bf3fac3a3257e63` -> `chore/remaining-5294-kalams-2026-11-14/src/data/lyrics/haider-ka-musalmaan-ne-jo-khon-bahaya-hai-tajpoints-c6b0a3885e4bbee6af8d.md`. Both captured sites have five matching couplets; the TajPoints source additionally retains a sixth. Its own branch now has both NohaWriteups provenance links. No duplicate Markdown staged here.
+
+All six linked source IDs have canonical path, original URL, archived SHA, and source-specific variant notes in the single status tracker. **744** classified sources remain for full manual dedup. No text of existing canonical lyrics was changed for these six sources.

@@ -71,6 +71,13 @@ romanLyrics: |-
 # source_id: nohayonline:0b225966750ad4d35ab2
 # source_url: https://www.nohayonline.com/details_content.php?id=1929
 # raw_sha256: da9d81770ab6f94c6cfbfaae5f5d79c36fd20be2ff870a0b7915567611b554d6
+# additional_source_id: nohawriteups:42705960ec7ff34ffd1f
+# additional_source_url: https://www.nohawriteups.org/hussain-ruk-jao-lyrics-mir-hasan-mir/
+# additional_raw_sha256: 742b68e75d5615671b0b771b3d367af5594ea90c8f8dc1bf8f6862a2a6685558
+# additional_source_id: nohawriteups:740ea918d52b4c9c7986
+# additional_source_url: https://www.nohawriteups.org/hussain-ruk-jao-mir-hasan-mir/
+# additional_raw_sha256: f90ac7a94abe0b6d2ca5a3e163b819b00c7a95551cd850546e53a8fae4d33372
+# additional_source_note: Both NohaWriteups live captures agree on all eleven substantive stanzas in existing bilingual kalam; introductory repeated Labaik and promotional/credits material excluded. Existing Urdu and Roman reading retained.
 ---
 صدائیں دیتا ہے کعبہ حسین رک جاؤ
 نہ بدلو حج کا ارادہ حسین رک جاؤ

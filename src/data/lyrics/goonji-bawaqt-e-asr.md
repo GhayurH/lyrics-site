@@ -42,6 +42,13 @@ romanLyrics: |-
   7
   Mehsus ho raha hai ke maqtal se aaj bhi
   Awaaz aa rahi hai Raza maiṅ Husain huṅ
+# additional_source_id: nohawriteups:4d1ef15bf9632e52eecc
+# additional_source_url: https://www.nohawriteups.org/goongi-ba-waqt-e-asr-sada-main-hussain/
+# additional_raw_sha256: a6ebcacf1d1185fa10efa3ad5dfa636214517b0a568136fa62a86de4f3713023
+# additional_source_id: nohawriteups:ba3f5e9e5f480b3532a3
+# additional_source_url: https://www.nohawriteups.org/gunji-ba-waqt-e-asr-sada-mein-hussain-hoon/
+# additional_raw_sha256: d0a09e2b4e20b9a3b5ca0587ad216e79ad606468aaddd7cab7a21eb0ffbfb0ef
+# additional_source_note: Two captures of the same 7-stanza noha: 4d1ef15bf9632e52eecc retains seven stanzas; ba3f5e9e5f480b3532a3 has only five. Akbar couplet variant jald/rasta/dard requires separate word verification; reviewed Urdu and Roman text preserved.
 ---
 
 گونجی بوقتِ عصر صدا، میں حسین ہوں
