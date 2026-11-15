@@ -14,18 +14,18 @@ This is an **unpublished source review branch** targeting `feat/import-overlap-r
 
 | Status | Source IDs | Interpretation |
 | --- | ---: | --- |
-| `unreviewed` | 362 | No user decision; never infer permission to import or delete |
+| `unreviewed` | 0 | Every source now has a user classification |
 | `pending_manual_dedup` | 1053 | User has classified the language/lyrics, but source-to-canonical reconciliation remains |
 | `no_lyrics` | 136 | User-approved exclusions; no lyric Markdown; archive snapshots retained |
 | `duplicate_source` | 9 | Identical earlier source readings linked to retained edition |
 | `consolidated_other_branch` | 26 | Canonical kalam retained on `chore/remaining-5294-kalams-2026-11-14` with source IDs and hashes added there |
 | `consolidated_existing` | 53 | Fully or substantially matched to a pre-existing Markdown, retained and linked |
 | `unpublished_source_draft` | 78 | New poem file staged from an explicitly approved lyric source; editorial work pending |
-| `consolidated_new_draft` | 31 | Ten duplicate pairs merged into ten newly staged canonical files |
+| `consolidated_new_draft` | 31 | Fifteen duplicate groups consolidated into fifteen unpublished canonical files |
 | `excluded_user` | 1 | User requested exclusion without identifying duplicate or no-lyric reason; no lyric draft created |
-| **Total** | **1,387** | **No open explicitly flagged duplicate pairs** |
+| **Total** | **1,387** | **1,053 classified sources still require verse-level manual deduplication** |
 
-The 78 individual drafts and the ten merged-pair files constitute **88 newly staged NohaWriteups lyric files**, all `published: false`. These are **source staging**, not the completed manual Urdu, Roman transliteration, stanza identity, metadata, and audio/print verification passes.
+The 78 individual drafts and fifteen duplicate-group canonical files constitute **93 newly staged NohaWriteups lyric files**, all `published: false`. These are **source staging**, not the completed manual Urdu, Roman transliteration, stanza identity, metadata, and audio/print verification passes.
 
 ## Source-specific adjudication rules and exceptions
 
@@ -98,7 +98,7 @@ Further NohaWriteups sources linked directly to chore/remaining-5294-kalams-2026
 
 `nohawriteups:6fca5b544d7d264154b3` was confirmed as a third capture of `deeva-baleya-na-phul-paaey-eh.md`; all six Panjabi stanzas are already retained, with differing source order. Two previously unpaired Akbar Veeran source IDs were newly consolidated into a single unpublished `akbar-veeran-nanay-de-rozay-jakay.md` file. They are included in the 20 `consolidated_new_draft` source rows.
 
-**Current cumulative statuses:** 0 `unreviewed`, 1,075 `pending_manual_dedup`, 136 `no_lyrics`, 1 `excluded_user`, 9 `duplicate_source`, 47 `consolidated_existing`, 21 `consolidated_other_branch`, 78 `unpublished_source_draft`, 20 `consolidated_new_draft` = **1,387**. Every source now has a user-supplied disposition; deduplication and original-source recovery are not yet complete. Source reconciliation is not equivalent to completed stanza/transliteration/Urdu editorial review. No CI or build was run on these WIP branches.
+**Current cumulative statuses:** 0 `unreviewed`, 1,053 `pending_manual_dedup`, 136 `no_lyrics`, 1 `excluded_user`, 9 `duplicate_source`, 53 `consolidated_existing`, 26 `consolidated_other_branch`, 78 `unpublished_source_draft`, 31 `consolidated_new_draft` = **1,387**. Every source now has a user-supplied disposition; deduplication and original-source recovery are not yet complete. Source reconciliation is not equivalent to completed stanza/transliteration/Urdu editorial review. No CI or build was run on these WIP branches.
 
 
 ## November 15 review-decisions(2).csv integration
@@ -121,7 +121,7 @@ All six linked source IDs have canonical path, original URL, archived SHA, and s
 
 All **1,387 source IDs** now have user classifications; latest upload supplied **362** new classifications while preserving the earlier **1,025**. Of the 362, **31** explicitly have no lyrics; **331** are lyric sources or unverified duplicate candidates requiring manual cross-branch dedup. User's newly highlighted three-source group and duplicate pairs are retained as explicit review notes; one source has an extraction that appears to belong to the wrong composition rather than its reported metadata. **No extracted text was treated as authoritative in such cases.**
 
-The sole cumulative status tracker remains `audit/nohawriteups-review-status.csv`; `audit/nohawriteups-review-decisions-input.csv` is an immutable copy of the latest input, not an alternative tracker. Existing linked original sources, canonical files, reviewed wording, and archive snapshots are preserved. All **1,068** unpaired classified lyric sources require further individual, real-verse comparisons before staging or consolidation. This count is a task count, not a claim that 1,075 duplicate kalams exist.
+The sole cumulative status tracker remains `audit/nohawriteups-review-status.csv`; `audit/nohawriteups-review-decisions-input.csv` is an immutable copy of the latest input, not an alternative tracker. Existing linked original sources, canonical files, reviewed wording, and archive snapshots are preserved. All **1,053** unpaired classified lyric sources require further individual, real-verse comparisons before staging or consolidation. This count is a task count, not a claim that 1,053 duplicate kalams exist.
 
 
 ### Verified new source-to-source consolidation (November 15, 2026)
