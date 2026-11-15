@@ -3802,11 +3802,11 @@ src/data/lyrics/zainab-lipat-gayi-hai.md,standalone_lyrics,imported,nohayonline,
 src/data/lyrics/zainab-lipat-ke-royi.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,2026-11-15-batch-zainab-01,,"Need audio/print: s6 Urdu ""عباس دل ہشم"" vs Roman ""Abbas e di hasham""; s3 ""ارض و سماں ہے لرزا""; s4 ""کیا پھر نہ آ کے ہم سے""."
 src/data/lyrics/zainab-madine-jati.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,2026-11-15-batch-zainab-01,,"Need audio/print: s1 Urdu ""آنکھوں"" vs Roman ""Ashkoṅ""; s2 Urdu ""بانو یہ"" vs Roman ""Bano ke""; s4 ""دشتِ کی"" and ""قاسم بنے""; s5 Urdu lacks Roman izafat in ""Abbas-e-jaan-e-Haider""; s6 Urdu ""گھٹتا ہے"" vs Roman ""ghutta hua""; s7 ""داغ قلب جگر"" izafat."
 src/data/lyrics/zainab-manane-aayi.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,2026-11-15-batch-zainab-01,,"Need audio/print: s1 ""بھائی کے ہے مزار""; s3 ""سب سے غیر تھا""; s5 ""سوار دی"" and ""بھائی بہن رضا ہے""."
-src/data/lyrics/zainab-meri-behna.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/zainab-meri-behna.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,,,"Need audio/print: s9 ""ابھی"" (Roman) vs ""بھی"" (Urdu); s12 Urdu omits Roman ""mujh ko"" and reads ""ہائے حسین"" vs ""Haaye Husaina""."
 src/data/lyrics/zainab-nay-ki-faryaad-nana.md,standalone_lyrics,preexisting,not_applicable,pending,pending,pending,pending,not_applicable,pending,,,
-src/data/lyrics/zainab-ne-jisko-paala.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/zainab-ne-kaha-lutgayi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/zainab-ne-kaha-ye.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/zainab-ne-jisko-paala.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
+src/data/lyrics/zainab-ne-kaha-lutgayi.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,partial_review,verified,reviewed,,,"Need audio/print: opening and repeated refrain ""ساقیِ کوثر"" (Roman) vs archived Urdu ""ثانی کوثر""."
+src/data/lyrics/zainab-ne-kaha-ye.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,,,
 src/data/lyrics/zainab-ne-kiye-bain.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/zainab-pa-yateemi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/zainab-pukari-ay.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,

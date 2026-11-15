@@ -6,38 +6,45 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Muhammad Zaki"
+reciter: "Ali Zia Rizvi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Zainab ne kaha lut gayi pardes mein aakar
-  Ay saaqiye kausar
-  Ghar jal gaya aur chin gayi sar se mere chadar
+  Ae saaqi-e-Kausar
+  Ghar jal gaya aur chhin gayi sar se mere chaadar
+  Ae saaqi-e-Kausar
 
   1
-  Dil thaame hue mai dar e qaima pa khadi thi
+  Dil thaame hue main dar-e-khaima pe khari thi
   Aur dekh rahi thi
-  Tha halq pa sarwar ke rawan shimr ka khanjar
+  Tha halq pe Sarwar ke rawaaṅ Shimr ka khanjar
+  Ae saaqi-e-Kausar
 
   2
-  Ghazi ka alam khoon mein dooba hua aaya
-  Faryad khudaya
-  Darya pa kate baazu e abbas e dilawar
+  Ghaazi ka alam khun mein duba hua aaya
+  Faryaad Khudaaya
+  Darya pe kate baazu-e-Abbas-e-dilaawar
+  Ae saaqi-e-Kausar
 
   3
-  Athara baras paala bade chahon se jisko
-  Mai kho chuki usko
-  Armaan mere reh gaye sab khaak mein mil kar
+  Athaara baras paala bare chaahoṅ se jis ko
+  Main kho chuki us ko
+  Armaaṅ mere reh gaye sab khaak mein mil kar
+  Ae saaqi-e-Kausar
 
   4
-  Zulm bhi dhaaya gaya mujh sogh nasheen par
-  Majboor o hazeeen par
-  Ek teer se cheda gaya halqe ali asghar
+  Zulm bhi dhaaya gaya mujh sog nashin par
+  Majbur o hazin par
+  Ek tir se chheda gaya halq-e-Ali Asghar
+  Ae saaqi-e-Kausar
 
   5
-  Aada ne sakina pa zaki aisi jafa ki
-  Bachi ne qaza ki
-  Be-ghusl o kafan dafn hui dukhtare sarwar
+  Aada ne Sakina pe Zaki aisi jafa ki
+  Bachchi ne qaza ki
+  Beghusl o kafan dafn hui dukhtar-e-Sarwar
+  Ae saaqi-e-Kausar
 # source_id: nohayonline:e39bf4955a49459b3614
 # source_url: https://www.nohayonline.com/details_content.php?id=275
 # raw_sha256: 511e01438f5ba00c4b79964afd2b517e2b5b7079a03847e32aa662374f0e0393
@@ -45,28 +52,34 @@ romanLyrics: |-
 زینب نے کہا لٹ گئی پردیس میں آکر
 اے ثانی کوثر
 گھر جل گیا اور چھن گئی سر سے میرے چادر
+اے ثانی کوثر
 
 ۱
-دل تھامے ہوئے میں در خیمہ پہ کھڑی تھی
+دل تھامے ہوئے میں درِ خیمہ پہ کھڑی تھی
 اور دیکھ رہی تھی
 تھا حلق پہ سرور کے رواں شمر کا خنجر
+اے ثانی کوثر
 
 ۲
 غازی کا علم خون میں ڈوبا ہوا آیا
 فریاد خدایا
-دریا پہ کٹے بازوئے عباس دلاور
+دریا پہ کٹے بازوئے عباسِ دلاور
+اے ثانی کوثر
 
 ۳
 اٹھارہ برس پالا بڑے چاہوں سے جس کو
 میں کھو چکی اس کو
 ارماں میرے رہ گئے سب خاک میں مل کر
+اے ثانی کوثر
 
 ۴
 ظلم بھی ڈھایا گیا مجھ سوگ نشین پر
 مجبور و حزین پر
-اک تیر سے چھیدا گیا حلق علی اصغر
+اک تیر سے چھیدا گیا حلقِ علی اصغر
+اے ثانی کوثر
 
 ۵
 اعدا نے سکینہ پہ زکی ایسی جفا کی
-بچی نے قضائ کی
-بے غسل و کفن دفن ہوئی دختر سرور
+بچی نے قضا کی
+بے غسل و کفن دفن ہوئی دخترِ سرور
+اے ثانی کوثر

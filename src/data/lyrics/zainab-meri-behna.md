@@ -6,95 +6,97 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Irfan Haider"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zainab meri behna ye sheh ne kaha
-  Zainab meri behna dukhya meri behna
+  Zainab meri behna ye Shih ne kaha
+  Zainab meri behna dukhiya meri behna
 
   1
-  Laut kar shaam ke zindan se jab aana zainab
-  Tum mere qabr pe ek shamma jalana zainab
-  Yaad rakhna ye baat ay meri jaan meri behna
-  Tum fateha sharbat pe dilana meri behna
+  Laut kar Shaam ke zindaan se jab aana Zainab
+  Tum meri qabr pe ek shama jalaana Zainab
+  Yaad rakhna ye baat ae meri jaan meri behan
+  Zainab meri behna dukhiya meri behna
+  Tum faatiha sharbat pe dilaana meri behna
 
   2
-  Gham mere azadar manayenge jahan mein
-  Ay meri behna
-  Parcham kahin taboot kahin hongi sabeelein
-  Ay meri behna
-  Majlis mein sabeelon pe bhi jana meri behna
+  Gham mere azaadaar manaaeṅ ge jahaaṅ mein
+  Ae meri behna
+  Parcham kahiṅ taabut kahiṅ hoṅ gi sabileṅ
+  Ae meri behna
+  Majlis mein sabiloṅ pe bhi jaana meri behna
 
   3
-  Matam jo azadar kare farshe aza par
-  Ay meri behna
-  Wo ashk bahaye jo masayib mere sunkar
-  Ay meri behna
-  Daaman mein un ashkon ko chupana meri behna
+  Maatam jo azaadaar kareṅ farsh-e-aza par
+  Ae meri behna
+  Wo ashk bahaaeṅ jo masaaib mere sun kar
+  Ae meri behna
+  Daaman mein un ashkoṅ ko chhupaana meri behna
 
   4
-  Abbas ke parcham ko sajaye jo azadar
-  Ay meri behna
-  Bachon ko mera saqqa banaye jo azadar
-  Ay meri behna
-  Abbas ko darya se bulana meri behna
+  Abbas ke parcham ko sajaaeṅ jo azaadaar
+  Ae meri behna
+  Bachchoṅ ko mera saqqa banaaeṅ jo azaadaar
+  Ae meri behna
+  Abbas ko darya se bulaana meri behna
 
   5
-  Jhoola mere baysheer ka phoolon se saja kar
-  Ay meri behna
+  Jhula mere beshir ka phuloṅ se saja kar
+  Ae meri behna
   Mannat koi maange mujhe aulaad ata kar
-  Ay meri behna
-  Us bibi ki aagosh sajana meri behna
+  Ae meri behna
+  Us Bibi ki aaghosh sajaana meri behna
 
   6
-  Jab bibiyan taboot sakina ka uthaye
-  Ay meri behna
-  Aur nauha sakina ki aseeri ka sunaye
-  Ay meri behna
-  Taboot pe tum baali chadana meri behna
+  Jab bibiyaaṅ taabut Sakina ka uthaaeṅ
+  Ae meri behna
+  Aur noha Sakina ki asiri ka sunaaeṅ
+  Ae meri behna
+  Taabut pe tum baali charhaana meri behna
 
   7
-  Jis ghar se uthe qasim e naushah ki mehndi
-  Ay meri behna
-  Aa raasta ashkon se kare majlise shaadi
-  Ay meri behna
-  Us ghar ko masayib se bachana meri behna
+  Jis ghar se uthe Qasim-e-naushaah ki mehndi
+  Ae meri behna
+  Aaraasta ashkoṅ se kare majlis-e-shaadi
+  Ae meri behna
+  Us ghar ko masaaib se bachaana meri behna
 
   8
-  Gar koi behen apne baradar se bichad kar
-  Ay meri behna
-  Nauha ye kare laut ke aaja ali akbar
-  Ay meri behna
-  Us behen ko bhai se milana meri behna
+  Gar koi behan apne baraadar se bichhar kar
+  Ae meri behna
+  Noha ye kare laut ke aa ja Ali Akbar
+  Ae meri behna
+  Us behan ko bhai se milaana meri behna
 
   9
-  Kuch aur abhi tumko rulayenge sitamgar
-  Ay meri behna
-  Qaimon ko mere baad jalayenge sitamgar
-  Ay meri behna
-  Sajjad ko sholon se bachana meri behna
+  Kuchh aur abhi tum ko rulaaeṅ ge sitamgar
+  Ae meri behna
+  Khaimoṅ ko mere baad jalaaeṅ ge sitamgar
+  Ae meri behna
+  Sajjad ko sholoṅ se bachaana meri behna
 
   10
-  Jab loot ka saaman milay qaid e sitam mein
-  Ay meri behna
-  Majlis ka wahan farsh bichana mere gham mein
-  Ay meri behna
-  Zindan ko aza khana banana meri behna
+  Jab lut ka saamaaṅ mile qaid-e-sitam mein
+  Ae meri behna
+  Majlis ka wahaaṅ farsh bichhaana mere gham mein
+  Ae meri behna
+  Zindaaṅ ko aza khaana banaana meri behna
 
   11
-  Tum jab bhi suno mazhar o irfan ka nauha
-  Ay meri behna
-  Jee bhar ke dua mere azadaron ko dena
-  Ay meri behna
-  In dono ko rauze pe bulana meri behna
+  Tum jab bhi suno Mazhar o Irfan ka noha
+  Ae meri behna
+  Ji bhar ke dua mere azaadaaroṅ ko dena
+  Ae meri behna
+  In donoṅ ko rauze pe bulaana meri behna
 
   12
-  Miljayegi jab mujko masayib se rihaai
-  Haye hussaina
-  Mai fateha sharbat pe dilaungi ay bhai
-  Haye hussaina
-  Haan yaad hai bhaiya wo mujhe aap ka kehna
+  Mil jaae gi jab mujh ko masaaib se rihaai
+  Haaye Husaina
+  Main faatiha sharbat pe dilaauṅ gi ae bhai
+  Haaye Husaina
+  Haaṅ yaad hai bhaiya wo mujhe aap ka kehna
 # source_id: nohayonline:84282c9c8784dbc9e565
 # source_url: https://www.nohayonline.com/details_content.php?id=552
 # raw_sha256: 7f481e253b67cd0a5c407eb6405cba5c00435fa677152bdd6949a24f8d4e2532
@@ -106,26 +108,27 @@ romanLyrics: |-
 لوٹ کر شام کے زندان سے جب آنا زینب
 تم میری قبر پہ اک شمع جلانا زینب
 یاد رکھنا یہ بات اے میری جان میری بہن
+زینب میری بہنا دُکھیا میری بہنا
 تم فاتحہ شربت پہ دلانا میری بہنا
 
 ۲
-غم میرے اعزادار منائیں گے جہاں میں
+غم میرے عزادار منائیں گے جہاں میں
 اے میری بہنا
-پرچم کہیں تابوت کہیں ہوں گہ سبیلیں
+پرچم کہیں تابوت کہیں ہوں گی سبیلیں
 اے میری بہنا
 مجلس میں سبیلوں پہ بھی جانا میری بہنا
 
 ۳
-ماتم جو اعزادار کریں فرشِ اعزا پر
+ماتم جو عزادار کریں فرشِ عزا پر
 اے میری بہنا
 وہ اشک بہائیں جو مصائب میرے سُن کر
 اے میری بہنا
 دامن میں اُن اشکوں کو چھُپانا میری بہنا
 
 ۴
-عباس کے پرچم کو سجائیں جو اعزادار
+عباس کے پرچم کو سجائیں جو عزادار
 اے میری بہنا
-بچوں کو میرا سقا بنائیں جو اعزادار
+بچوں کو میرا سقا بنائیں جو عزادار
 اے میری بہنا
 عباس کو دریا سے بُلانا میری بہنا
 
@@ -134,7 +137,7 @@ romanLyrics: |-
 اے میری بہنا
 منت کوئی مانگے مجھے اولاد عطا کر
 اے میری بہنا
-اُس بی‌بی کی آ غوش سجانامیری بہنا
+اُس بی‌بی کی آغوش سجانا میری بہنا
 
 ۶
 جب بی‌بیاں تابوت سکینہ کا اُٹھائیں
@@ -158,29 +161,29 @@ romanLyrics: |-
 اس بہن کو بھائی سے ملانا میری بہنا
 
 ۹
-کچھ اور بھی تم کورُلائیں گے ستمگر
+کچھ اور بھی تم کو رُلائیں گے ستمگر
 اے میری بہنا
 خیموں کو میرے بعد جلائیں گے ستمگر
 اے میری بہنا
-سجاد کو شعلوں سے بچانامیری بہنا
+سجاد کو شعلوں سے بچانا میری بہنا
 
 ۱۰
 جب لوٹ کا ساماں ملے قیدِ ستم میں
 اے میری بہنا
 مجلس کا وہاں فرش بچھانا میرے غم میں
 اے میری بہنا
-زنداں کو اعزا خانہ بنانا میری بہنا
+زنداں کو عزا خانہ بنانا میری بہنا
 
 ۱۱
 تم جب بھی سُنو مظہر و عرفان کا نوحہ
 اے میری بہنا
-جی بھر کے دُعا میرے اعزاداروں کو دینا
+جی بھر کے دُعا میرے عزاداروں کو دینا
 اے میری بہنا
 ان دونوں کو روضے پہ بُلانا میری بہنا
 
 ۱۲
 مل جائے گی جب مصائب سے رہائی
 ہائے حسین
-میں فاتحہ شربت پہ دلائوں گی اے بھائی
+میں فاتحہ شربت پہ دلاؤں گی اے بھائی
 ہائے حسین
 ہاں یاد ہے بھیّا وہ مجھے آپ کا کہنا

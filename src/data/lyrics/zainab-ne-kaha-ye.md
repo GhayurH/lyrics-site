@@ -6,55 +6,67 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Sachey Bhai"
+reciter: "Ali Rizvi Sachey"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Zainab ne kaha ye ro ro kar
-  Mai qaidi hoo
-  Baba aao dekho aakar mai qaidi hoo
+  Main qaidi huṅ
+  Baba aao dekho aa kar main qaidi huṅ
 
   1
-  Darbar may be-parda hoo khadi
-  Baazu may rasan hai mere bandhi
-  Nay range zamana dekhe koi
-  Zaalim hai taqte muhamad par
+  Darbaar mein beparda huṅ khari
+  Baazu mein rasan hai mere bandhi
+  Naye rang-e-zamaana dekhe koi
+  Zaalim hai takht-e-Muhammad par
+  Main qaidi huṅ
 
   2
   Nana ka utha jab se saaya
-  Ek pal bhi na chain humne paaya
+  Ek pal bhi na chain ham ne paaya
   Hote hote ye din aaya
   Shabbir ka sar hai naize par
+  Main qaidi huṅ
 
   3
-  Barbad hua zehra ka chaman
-  Bhai hai mera be-goro kafan
-  Mai dukhyari lachaar behan
-  Ro bhi nahi sakti mayyat par
+  Barbaad hua Zehra ka chaman
+  Bhai hai mera begor o kafan
+  Main dukhiyaari laachaar behan
+  Ro bhi nahiṅ sakti mayyat par
+  Main qaidi huṅ
 
   4
-  Aao aao abbas e ali
-  Qaimo may hai sab aag lagi
-  Be-parda hui aulaad e nabi
-  Kya hoga sitam isse badh kar
+  Aao aao Abbas-e-Ali
+  Khaimoṅ mein hai sab aag lagi
+  Beparda hui aulaad-e-Nabi
+  Kya ho ga sitam is se barh kar
+  Main qaidi huṅ
 
   5
-  Wo dekho sakina phir royi
-  Phir maar raha hai koi shaki
-  Baazu may rasan hai mere bandhi
-  Mai rokun to rokun kyun kar
+  Wo dekho Sakina phir roi
+  Phir maar raha hai koi shaqi
+  Baazu mein rasan hai mere bandhi
+  Main rokuṅ to rokuṅ kiun kar
+  Main qaidi huṅ
 
   6
-  Mai kehne khuda hafiz aayi
-  Majboor hai bhaiya maajayi
-  Kaise doo kafan tum ko bhai
-  Chadar bhi nahi mere sar par
+  Main kehne Khuda haafiz aai
+  Majbur hai bhaiya maaṅ jaai
+  Kaise duṅ kafan tum ko bhai
+  Chaadar bhi nahiṅ mere sar par
+  Main qaidi huṅ
 
   7
-  Qasim ho kahan akbar ho kahan
-  Ay aun o mohamed jaati hai maa
-  Abbas mere ay shere jawan
+  Qasim ho kahaaṅ Akbar ho kahaaṅ
+  Ae Aun o Muhammad jaati hai maaṅ
+  Abbas mere ae sher-e-jawaaṅ
   Dekho to zara bhaiya uth kar
+  Main qaidi huṅ
+
+  Baba aao dekho aa kar main qaidi huṅ
+# Source variants: id=160 supplies the retained final-stanza order and "tum ko";
+# id=2919 reverses those two stanzas and reads "tujh ko". Neither adds a unique stanza.
 # source_id: nohayonline:37bb6f5c69158c79ac33
 # source_url: https://www.nohayonline.com/details_content.php?id=160
 # raw_sha256: 930f1c1b2b7a84f2ffb68ab744466aa0eb8ef15ab43e5cf48a0d9d308b3be3a6
@@ -64,46 +76,55 @@ romanLyrics: |-
 ---
 زینب نے کہا یہ رو رو کر
 میں قیدی ہوں
-بابا آئو دیکھو آ کر میں قیدی ہوں
+بابا آؤ دیکھو آ کر میں قیدی ہوں
 
 ۱
 دربار میں بے پردہ ہوں کھڑی
 بازو میں رسن ہے میرے بندھی
 نئے رنگِ زمانہ دیکھے کوئی
 ظالم ہے تختِ محمد پر
+میں قیدی ہوں
 
 ۲
 نانا کا اُٹھا جب سے سایہ
 اک پل بھی نہ چین ہم نے پایا
 ہوتے ہوتے یہ دن آیا
 شبیر کا سر ہے نیزے پر
+میں قیدی ہوں
 
 ۳
 برباد ہوا زہرا کا چمن
-بھائی ہے میرا بے گورو کفن
+بھائی ہے میرا بے گور و کفن
 میں دُکھیاری لاچار بہن
 رو بھی نہیں سکتی میت پر
+میں قیدی ہوں
 
 ۴
-آئو آئو عباسِ علی
+آؤ آؤ عباسِ علی
 خیموں میں ہے سب آگ لگی
 بے پردہ ہوئی اولادِ نبی
 کیا ہو گا ستم اس سے بڑھ کر
+میں قیدی ہوں
 
 ۵
 وہ دیکھو سکینہ پھر روئی
 پھر مار رہا ہے کوئی شقی
 بازو میں رسن ہے میرے بندھی
 میں روکوں تو روکوں کیونکر
+میں قیدی ہوں
 
 ۶
 میں کہنے خُدا حافظ آئی
 مجبور ہے بھیا ماں جائی
 کیسے دوں کفن تم کو بھائی
 چادر بھی نہیں میرے سر پر
+میں قیدی ہوں
 
 ۷
 قاسم ہو کہاں اکبر ہو کہاں
 اے عون و محمد جاتی ہے ماں
 عباس میرے اے شیرِ جواں
 دیکھو تو ذرا بھیا اُٹھ کر
+میں قیدی ہوں
+
+بابا آؤ دیکھو آ کر میں قیدی ہوں
