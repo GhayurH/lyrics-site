@@ -6,42 +6,43 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Gohar Jarchvi"
+reciter: "Tableegh e Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Wajib hai gham manaye zamana hussain ka
-  Raahe khuda may lutgaya kunba hussain ka
+  Waajib hai gham manaaye zamaana Husain ka
+  Raah-e-Khuda mein lut gaya kunba Husain ka
 
   1
-  Hote rahenge sajde khuda ko jahan may
-  Sajjad ne nibha diya wada hussain ka
+  Hote raheṅ ge sajde Khuda ko jahaaṅ mein
+  Sajjad ne nibha diya waada Husain ka
 
   2
-  Manzar wo karbnaak qayamat se kam nahi
-  Maqtal ke simt qaimon se jaana hussain ka
+  Manzar woh karbnaak qayaamat se kam nahiṅ
+  Maqtal ki samt khaimoṅ se jaana Husain ka
 
   3
-  Abbas mar gaye ali akbar bhi mar gaye
-  Qaime may koi laaye janaza hussain ka
+  Abbas mar gaye Ali Akbar bhi mar gaye
+  Khaime mein koi laaye janaaza Husain ka
 
   4
-  Ghode yazeedi fauj ne daudaye is tarha
-  Pamaal ran may ho gaya laasha hussain ka
+  Ghore Yazidi fauj ne dauraaye is tarah
+  Paamaal ran mein ho gaya laasha Husain ka
 
   5
-  Aati nahi hai neend sakina ko khaak par
-  Ran may gayi hai dhoonde laasha hussain ka
+  Aati nahiṅ hai nind Sakina ko khaak par
+  Ran mein gayi hai dhundne laasha Husain ka
 
   6
-  Ta hashr ab namaz ka zaamin hai ab gohar
-  Jalti zameen pe aakhri sajda hussain ka
+  Ta hashr ab namaaz ka zaamin hai ab Gohar
+  Jalti zamiṅ pe aakhri sajda Husain ka
 # source_id: nohayonline:c1b09f77c6479c593675
 # source_url: https://www.nohayonline.com/details_content.php?id=658
 # raw_sha256: d80ad6fe6482f059f7e9a81875d5a8802a2066fa12b51b4869e1a8847a9c764e
 ---
 واجب ہے غم منائے زمانہ حُسین کا
-راہِ خُدا میں لُٹ گیاکنبہ حُسین کا
+راہِ خُدا میں لُٹ گیا کنبہ حُسین کا
 
 ۱
 ہوتے رہیں گے سجدے خُدا کو جہاں میں
@@ -52,7 +53,7 @@ romanLyrics: |-
 مقتل کی سمت خیموں سے جانا حُسین کا
 
 ۳
-عباس مرگئے علی اکبر بھی مر گئے
+عباس مر گئے علی اکبر بھی مر گئے
 خیمے میں کوئی لائے جنازہ حُسین کا
 
 ۴

@@ -6,43 +6,52 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Anees"
+reciter: "Nasir Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
   Wallah inkhattam yamani
-  
+
   1
-  Jab daana haath dilbare hyder ka kat gaya
-  Us waqt fauje aada se abbas ne kaha
-  
+  Jab daahna haath dilbar-e-Haidar ka kat gaya
+  Us waqt fauj-e-aada se Abbas ne kaha
+  Wallah inkhattam yamani
+
   2
-  Bache khade hai pyase mere intezaar mein
-  Pahuncha'unga qayam mein mashkeeza aab ka
-  
+  Bachche khare haiṅ pyaase mere intezaar mein
+  Pahunchaauṅ ga qayaam mein mashkiza aab ka
+  Wallah inkhattam yamani
+
   3
-  Allah ki qasam jo mujhe hota izn e jang
-  Kar deta ek hamle mein lashkar ko mai tabah
-  
+  Allah ki qasam jo mujhe hota izn-e-jang
+  Kar deta ek hamle mein lashkar ko main tabaah
+  Wallah inkhattam yamani
+
   4
-  Pahuncha doo pyase bachon ko pani kisi tarha
-  Tukde badan ho chahe katay sar ghulam ka
-  
+  Pahuncha duṅ pyaase bachchoṅ ko paani kisi tarah
+  Tukre badan ho chaahe kate sar ghulaam ka
+  Wallah inkhattam yamani
+
   5
-  Ay zaalimo khuda se daro kuch haya karo
-  Pyasi hai teen roz se aulaad e mustufa
-  
+  Ae zaalimoṅ Khuda se daro kuchh haya karo
+  Pyaasi hai tin roz se aulaad-e-Mustafa
+  Wallah inkhattam yamani
+
   6
-  Mashk o alam ko daanto se thaama dilayr ne
-  Jab baaya haath ghazi ka tan se juda hua
-  
+  Mashk o alam ko daantoṅ se thaama diler ne
+  Jab baayaaṅ haath Ghaazi ka tan se juda hua
+  Wallah inkhattam yamani
+
   7
-  Lagte hi gurz sar pe wo khamosh hogaye
-  Lekin fiza mein goonjti thi abbas ki sada
-  
+  Lagte hi gurz sar pe woh khaamosh ho gaye
+  Lekin fiza mein gunjti thi Abbas ki sada
+  Wallah inkhattam yamani
+
   8
-  Ab saare bain padke ye samjha anees ne
+  Ab saare bain parh ke yeh samjha Anees ne
   Abbas ke rag rag mein dileri hai aur wafa
+  Wallah inkhattam yamani
 # source_id: nohayonline:8f5159e37e8bbbaee833
 # source_url: https://www.nohayonline.com/details_content.php?id=106
 # raw_sha256: 80e53be531c63268cc155ec19293c5aa6aa9d11549d0c9f81a1c0f70887856c9
@@ -53,31 +62,39 @@ romanLyrics: |-
 ۱
 جب داہنا ہاتھ دلبر حیدر کا کٹ گیا
 اس وقت فوج اعدا سے عباس نے کہا
+واللہ انختم یمنی
 
 ۲
 بچے کھڑے ہیں پیاسے میرے انتظار میں
 پہنچاؤں گا قیام میں مشکیزہ آب کا
+واللہ انختم یمنی
 
 ۳
 اللہ کی قسم جو مجھے ہوتا اذن جنگ
-کردیتا ایک حملے میں لشکر کو میں ختم
+کر دیتا ایک حملے میں لشکر کو میں ختم
+واللہ انختم یمنی
 
 ۴
 پہنچا دو پیاسے بچوں کو پانی کسی طرح
 ٹکڑے بدن ہو چاہے کٹے سر غلام کا
+واللہ انختم یمنی
 
 ۵
-اےء ظالموں خدا سے ڈرو کچھ حیا کرو
+اے ظالموں خدا سے ڈرو کچھ حیا کرو
 پیاسی ہے تین روز سے اولاد مصطفیٰ
+واللہ انختم یمنی
 
 ۶
 مشک و علم کو دانتوں سے تھاما دلیر نے
 جب بایاں ہاتھ غازی کا تن سے جدا ہوا
+واللہ انختم یمنی
 
 ۷
-لگتے ہی گرز سر پہ وہ خاموش ہوگئے
+لگتے ہی گرز سر پہ وہ خاموش ہو گئے
 لیکن فضا میں گونجتی تھی عباس کی صدا
+واللہ انختم یمنی
 
 ۸
-اب سارے بین پڑھکے یہ سمجھا انیس نے
+اب سارے بین پڑھ کے یہ سمجھا انیس نے
 عباس کے رگ رگ میں دلیری ہے اور وفا
+واللہ انختم یمنی
