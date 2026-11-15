@@ -6,107 +6,108 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Naqvi"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ya zahra maadar jaan
-  
+  Ya Zahra maadar jaan
+
   1
-  Noore dile maadar bizzat e paighambar
-  Chara gare aalam man nafase hyder
-  Azmat o riffat mein raha tera arfa o aala maqam
-  Bar aale mohamed salaam
-  Salaam ay gohar e darya e noor
-  Ay aaya e zeeba e ishq
-  Reehana e roohe khuda
-  Salaam ay daar o nadaar e ali
-  Ay bood o nabood e hassan
-  Ay maadar e arbaab e man
-  Zikre labe naukar ha sayyedati labbaiake
-  Ya fatimatu zahra sallallah ho alaike
-  Haq ka tere dum se aaj ujaala hai
-  Teri sadaqat ka tauheed hawala hai
-  Tere sabab hi deen e khuda ko hai meri bibi dawaam
-  Bar aale mohamed salaam
-  Salaam e johar e ilm o yaqeen
-  Ay sitwat e noor e mubeen
-  Ay nayyar e arsh e wila
-  Salaam ay yawar e roohul ameen
-  Ay rahat qalbe hazeem
-  Ay saaya e daste khuda
-  Kaunain hai tera sadqa sayyedati labbaiake
-  Ya fatimatu zahra sallallah ho alaike
-  
+  Nur-e-dil-e-maadar bizzat-e-Paighambar
+  Chaara-gar-e-aalam man nafas-e-Haidar
+  Azmat o rifat mein raha tera arfa o aala maqaam
+  Bar aal-e-Muhammad salaam
+  Salaam ae gauhar-e-darya-e-nur
+  Ae aaya-e-ziba-e-ishq
+  Raihaana-e-ruh-e-Khuda
+  Salaam ae daar o nadaar-e-Ali
+  Ae bud o nabud-e-Hasan
+  Ae maadar-e-arbaab-e-man
+  Zikr-e-lab-e-naukar ha sayyidati labbaiki
+  Ya Fatimatu Zahra sallallaah ho alaiki
+  Haq ka tere dam se aaj ujaala hai
+  Teri sadaaqat ka tauhid hawaala hai
+  Tere sabab hi din-e-Khuda ko hai meri Bibi dawaam
+  Bar aal-e-Muhammad salaam
+  Salaam-e-jauhar-e-ilm o yaqiṅ
+  Ae satwat-e-nur-e-mubiṅ
+  Ae nayyar-e-arsh-e-wila
+  Salaam ae yaawar-e-Ruh-ul-Amiṅ
+  Ae raahat-e-qalb-e-haziṅ
+  Ae saaya-e-dast-e-Khuda
+  Kaunain hai tera sadqa sayyidati labbaiki
+  Ya Fatimatu Zahra sallallaah ho alaiki
+
   2
-  Noor tere rukh ka jalwa e rehmani
-  Hasti teri bibi naimat e yazdani
-  Umme abhia noori hijabon mein raha tera payaam
-  Bar aale mohamed salaam
-  Salaam e markaz e izz o sharaf
-  Ay zauja e shaah e najaf
-  Ay baanu e roz e jaza
-  Salaam ay ayaat e sabr o rizza
-  Ay maalik e qadar o qaza
-  Ay saaya e daste khuda
-  Umr e khudaai yaqta sayyedati labbaiake
-  Ya fatimatu zahra sallallah ho alaike
-  
+  Nur tere rukh ka jalwa-e-Rahmaani
+  Hasti teri Bibi nemat-e-Yazdaani
+  Umm-e-Abiha nuri hijaaboṅ mein raha tera payaam
+  Bar aal-e-Muhammad salaam
+  Salaam-e-markaz-e-izz o sharaf
+  Ae zauja-e-Shaah-e-Najaf
+  Ae baanu-e-roz-e-jaza
+  Salaam ae aayaat-e-sabr o riza
+  Ae maalik-e-qadar o qaza
+  Ae saaya-e-dast-e-Khuda
+  Umr-e-Khudaai yakta sayyidati labbaiki
+  Ya Fatimatu Zahra sallallaah ho alaiki
+
   3
-  Auje fasahat hai quran e balaghat hai
-  Jaane risalat hai bunyad e imamat hai
-  Tujhsa nahi hai koi jahan mein dukhtare khairul anaam
-  Bar aale mohamed salaam
-  Salaam ay ismat e shams o zuha
-  Ay iffat e bard o duja
-  Ay taaj e sar e ambiya
-  Salaam ay rutba shanas e ali
-  Ay asal o asaas e ali
-  Ay saaya e daste khuda
-  Maqsad e inna aatayna sayyedati labbaiake
-  Ya fatimatu zahra sallallah ho alaike
-  
+  Auj-e-fasaahat hai Quraan-e-balaaghat hai
+  Jaan-e-risaalat hai bunyaad-e-imaamat hai
+  Tujhsa nahiṅ hai koi jahaaṅ mein dukhtar-e-Khair-ul-Anaam
+  Bar aal-e-Muhammad salaam
+  Salaam ae ismat-e-Shams o Zuha
+  Ae iffat-e-Badr-ud-Duja
+  Ae taaj-e-sar-e-ambiya
+  Salaam ae rutba-shanaas-e-Ali
+  Ae asl o asaas-e-Ali
+  Ae saaya-e-dast-e-Khuda
+  Maqsad-e-inna aataina sayyidati labbaiki
+  Ya Fatimatu Zahra sallallaah ho alaiki
+
   4
-  Paala jise tu ne chakki ki mushaqat se
-  Ranj hua na haq wo fitna e ummat se
-  Badr o ohud ka tere pisar se kaisa liya inteqam
-  Bar aale mohamed salaam
-  Salaam bar akbar e shireen sukhan
-  Bar asghar e tashna dahan
-  Bar saakin e karbobala
-  Salaam ay maadar e khasta badan
-  Ay muztar e runj o mahan
-  Ay saaya e daste khuda
-  Binte ali ka nauha sayyedati labbaiake
-  Ya fatimatu zahra sallallah ho alaike
-  
+  Paala jise tu ne chakki ki mashaqqat se
+  Ranj hua naahaq wo fitna-e-ummat se
+  Badr o Uhud ka tere pisar se kaisa liya inteqaam
+  Bar aal-e-Muhammad salaam
+  Salaam bar Akbar-e-shiriṅ-sukhan
+  Bar Asghar-e-tashna-dahan
+  Bar saakin-e-Karbobala
+  Salaam ae maadar-e-khasta-badan
+  Ae muztar-e-ranj o mihan
+  Ae saaya-e-dast-e-Khuda
+  Bint-e-Ali ka nauha sayyidati labbaiki
+  Ya Fatimatu Zahra sallallaah ho alaiki
+
   5
-  Maare gaye pyase rondhe gaye laashe
-  Cheeni gayi chadar loote gaye qaime
-  Shaam e ghariban mein jale haye darya kinare qayaam
-  Bar aale mohamed salaam
-  Salaam ay ghurbate aal e abaa
-  Ay taabish khoon e khuda
-  Ay hurmat e khaak e shifa
-  Salaam ay taalib ashk e azaa
-  Ay ghurbat e khairunnisa
-  Ay saaya e daste khuda
-  Marra gaya sab kunba sayyedati labbaiake
-  Ya fatimatu zahra sallallah ho alaike
-  
+  Maare gaye pyaase raunde gaye laashe
+  Chhini gayi chaadar lute gaye khaime
+  Shaam-e-gharibaaṅ mein jale haaye darya kinaare qayaam
+  Bar aal-e-Muhammad salaam
+  Salaam ae ghurbat-e-aal-e-aba
+  Ae taabish-e-khun-e-Khuda
+  Ae hurmat-e-khaak-e-shifa
+  Salaam ae taalib-e-ashk-e-aza
+  Ae ghurbat-e-Khair-un-Nisa
+  Ae saaya-e-dast-e-Khuda
+  Maara gaya sab kunba sayyidati labbaiki
+  Ya Fatimatu Zahra sallallaah ho alaiki
+
   6
-  Shadman aur mazhar hai karb ke aalam mein
-  Haath uthaate hai mazloom ke matam mein
-  Ye azakhana apna thikana hum isi dar ke ghulam
-  Bar aale mohamed salaam
-  Salaam ay umme abhiya salaam
-  Ay aayat e uzma salaam
-  Ay urwat e usqa salaam
-  Salaam ay ishq e suraiya salaam
-  Ay saaya e tooba salaam
-  Ay madaar e yaqta salaam
-  Wird e zuban har lamha sayyedati labbaiake
-  Ya fatimatu zahra sallallah ho alaike
+  Shaadmaaṅ aur Mazhar haiṅ karb ke aalam mein
+  Haath uthaate haiṅ mazlum ke maatam mein
+  Ye azaakhaana apna thikaana ham isi dar ke ghulaam
+  Bar aal-e-Muhammad salaam
+  Salaam ae Umm-e-Abiha salaam
+  Ae aayat-e-uzma salaam
+  Ae urwat-e-wusqa salaam
+  Salaam ae ishq-e-Suraiya salaam
+  Ae saaya-e-Tuba salaam
+  Ae madaar-e-yakta salaam
+  Wird-e-zabaaṅ har lamha sayyidati labbaiki
+  Ya Fatimatu Zahra sallallaah ho alaiki
 # source_id: nohayonline:7ad576abd454e05289ff
 # source_url: https://www.nohayonline.com/details_content.php?id=3219
 # raw_sha256: 2bd5579bc87e00c8640fd5b370b96fabd68d4fa7e5bf1d8adbd259f1a7e5b661
@@ -143,19 +144,19 @@ romanLyrics: |-
 ۲
 نور تیرے رخ کا جلوۂ رحمانی
 ہنستی تیری بی بی نعمت یزدانی
-ام‌ابیہا نوری ہجابوں میں رہا تیرا پیام
+ام ابیہا نوری حجابوں میں رہا تیرا پیام
 بر آل محمد سلام
 سلام مرکز عزو شرف
 اے زوجہء شاہ نجف
 اے بانوے روز جزا
 سلام اے آیت صبر و رضا
-اے ‌مالک قدر و قضا
+اے مالک قدر و قضا
 اے سایۂ دست خدا
 عمر خدای یافتہ سیدتی لبیکی
 یا فاطمتہ الزہرا صلی اللہ علیک
 
 ۳
-اوج فساہت ہے قرآن بلاغت ہے
+اوج فصاحت ہے قرآن بلاغت ہے
 جان رسالت ہے بنیاد امامت ہے
 تجھ سا نہیں ہے کوئی جہاں میں دختر خیر الانام
 بر آل محمد سلام
@@ -164,7 +165,7 @@ romanLyrics: |-
 اے تاج سر انبیاء
 سلام اے رتبہ شناس علی
 اے اصل و اساس علی
-اے‌ سید دست خدا
+اے سید دست خدا
 مقصد انا اعطینا سیدتی لبیکی
 یا فاطمتہ الزہرا صلی اللہ علیک
 
@@ -183,8 +184,8 @@ romanLyrics: |-
 یا فاطمتہ الزہرا صلی اللہ علیک
 
 ۵
-مارے گئے پیاسے روندے گےء لاشے
-چھینی گیء چادر لوٹے گےء خیمے
+مارے گئے پیاسے روندے گئے لاشے
+چھینی گئی چادر لوٹے گئے خیمے
 شام غریباں میں جلے ہاے دریا کنارے قیام
 بر آل محمد سلام
 سلام اے غربت آل عبا

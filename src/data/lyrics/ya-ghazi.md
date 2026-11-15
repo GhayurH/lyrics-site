@@ -6,60 +6,61 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar, J. Jaffri & A.Jee"
+reciter: "Ali Jee"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Ya ghazi ya maula
-  Sab ka sahara maula
-  Abbas abbas abbas abbas
-  Sadaat ka pyara ya ghazi
-  Maula hai hamara ya ghazi
-  Sab ne hai pukara ya ghazi
-  Har dil ka sahara ya ghazi
-  Har lab pe hai naara ya ghazi
-  Abbas ya abbas ya abbas ya abal fazl
-  Abbas ya abbas ya abbas
+  Ya Ghazi ya Maula
+  Sab ka sahaara Maula
+  Abbas Abbas Abbas Abbas
+  Saadaat ka pyaara ya Ghazi
+  Maula hai hamaara ya Ghazi
+  Sab ne hai pukaara ya Ghazi
+  Har dil ka sahaara ya Ghazi
+  Har lab pe hai naara ya Ghazi
+  Abbas ya Abbas ya Abbas ya Abal Fazl
+  Abbas ya Abbas ya Abbas
 
   1
   Jab paak alam lehrata hai
-  Mujhe yaad tu ghazi aata hai
-  Mere dil ka wazeefa ya ghazi
-  Hai mera aqeeda ya ghazi
+  Mujhe yaad tu Ghazi aata hai
+  Mere dil ka wazifa ya Ghazi
+  Hai mera aqida ya Ghazi
 
   2
-  Sultan e wafa ghazi maula
-  Jageer tumhari karbobala
-  Rauze pe bulana ya ghazi
-  Jageer dikhana ya ghazi
+  Sultaan-e-wafa Ghazi Maula
+  Jaagir tumhaari Karbobala
+  Rauze pe bulaana ya Ghazi
+  Jaagir dikhaana ya Ghazi
 
   3
-  Ya maula abbas ya maula abbas
-  Abbas ya abal fazl abbas ya abal fazl
-  Sadaat ke dil ki aas ho tum
-  Zehra ki dua abbas ho tum
-  Zainab ne hai paala ya ghazi
-  Shabbir ka saaya ya ghazi
+  Ya Maula Abbas ya Maula Abbas
+  Abbas ya Abal Fazl Abbas ya Abal Fazl
+  Saadaat ke dil ki aas ho tum
+  Zehra ki dua Abbas ho tum
+  Zainab ne hai paala ya Ghazi
+  Shabbir ka saaya ya Ghazi
 
   4
-  Abbas ya abbas ya abbas ya abal fazl
-  Abal fazl abbas ya abbas ya abbas
+  Abbas ya Abbas ya Abbas ya Abal Fazl
+  Abal Fazl Abbas ya Abbas ya Abbas
   Abbas teri azmat ki qasam
-  Ooncha hi sada dekha hai alam
-  Teri shaan hai aala ya ghazi
-  Tera bol hai baala ya ghazi
+  Uncha hi sada dekha hai alam
+  Teri shaan hai aala ya Ghazi
+  Tera bol hai baala ya Ghazi
 
   5
   Jab mashk o alam ki baat chali
-  Masoom sakina yaad aayi
-  Bachi ka wo rona ya ghazi
-  Ro ro ke bulaana ya ghazi
+  Maasum Sakina yaad aayi
+  Bachchi ka wo rona ya Ghazi
+  Ro ro ke bulaana ya Ghazi
 
   6
-  Tere baad hussain huwe tanha
-  Laakhon ne ghareeb ko ghayr liya
-  Sayyed ka tha nauha ya ghazi
-  Bhai hai bichadta ya ghazi
+  Tere baad Husain hue tanha
+  Laakhoṅ ne gharib ko gher liya
+  Sayyid ka tha nauha ya Ghazi
+  Bhai hai bichharta ya Ghazi
 # source_id: nohayonline:286c9a7d9b4cb913f4e8
 # source_url: https://www.nohayonline.com/details_content.php?id=1844
 # raw_sha256: fd89219de1fddf4464eba24d1712581f88145166a651a7ed0e167bb06227489a
@@ -76,13 +77,13 @@ romanLyrics: |-
 عباس یا عباس یا عباس
 
 ۱
-جب پاک الم لہراتا ہے
+جب پاک علم لہراتا ہے
 مجھے یاد تو غازی آتا ہے
 میرے دل کا وظیفہ یا غازی
 ہے میرا عقیدہ یا غازی
 
 ۲
-سلطان وفا غازی مولا
+سلطانِ وفا غازی مولا
 جاگیر تمہاری کربوبلا
 روضے پہ بلانا یا غازی
 جاگیر دکھانا یا غازی
@@ -99,18 +100,18 @@ romanLyrics: |-
 عباس یا عباس یا عباس یا ابا الفضل
 ابا الفضل عباس یا عباس یا عباس
 عباس تیری عظمت کی قسم
-اونچا ہی سدا دیکھا ہے الم
+اونچا ہی سدا دیکھا ہے علم
 تیری شان ہے اعلیٰ یا غازی
 تیرا بول ہے بالا یا غازی
 
 ۵
-جب مشک و الم کی بات چلی
-معصوم سکینہ یاد آی
+جب مشک و علم کی بات چلی
+معصوم سکینہ یاد آئی
 بچی کا وہ رونا یا غازی
 رو رو کے بلانا یا غازی
 
 ۶
-تیرے بعد حسین ہوے تنہا
+تیرے بعد حسین ہوئے تنہا
 لاکھوں نے غریب کو گھیر لیا
 سید کا تھا نوحہ یا غازی
-بھای ہے بچھڑتا یا غازی
+بھائی ہے بچھڑتا یا غازی
