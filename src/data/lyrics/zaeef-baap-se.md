@@ -1,52 +1,53 @@
 ---
 title: "ضعیف باپ سے لاش پسر نہیں اٹھتی"
-alternateTitle: "Zaeef Baap Se"
+alternateTitle: "Zaif Baap Se"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Baquer Mohsin"
+reciter: "Hadi Ali Khan Muslim"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zaeef baap se laashe pisar nahi uth'ti
-  
+  Zaif baap se laash-e-pisar nahiṅ uthti
+
   1
-  Tadap ke kehti hai ye roohe fatema zehra
-  Bala ke dasht mein mera hussain hai tanha
-  Dayare ghair mein uska nahi koi apna
-  Ajeeb waqt e musibat hai ya ali madadi
-  
+  Tarap ke kehti hai yeh ruh-e-Faatima Zehra
+  Bala ke dasht mein mera Husain hai tanha
+  Dayaar-e-ghair mein us ka nahiṅ koi apna
+  Ajib waqt-e-musibat hai ya Ali madadi
+
   2
-  Andhera aankhon mein hai aur kamar khameeda hai
-  Karega kaun madad bhai aur na beta hai
-  Nabi ka noore nazar kis khadar akela hai
-  Lahoo rulaati hai mere pisar ko tanhaai
-  
+  Andhera aankhoṅ mein hai aur kamar khamida hai
+  Karega kaun madad bhaai aur na beta hai
+  Nabi ka nur-e-nazar kis qadar akela hai
+  Lahu rulaati hai mere pisar ko tanhaai
+
   3
-  Pukari qaime ke dar se ye zainabe e dilgeer
-  Nidhaal gham se baradar hai haye re taqdeer
-  Elaahi kaise sambhalenge apna dil shabbir
-  Pisar ke gham mein na ruk jaaye dhadkane dil ki
-  
+  Pukaari khaime ke dar se yeh Zainab-e-dilgir
+  Nidhaal gham se baraadar hai haaye re taqdir
+  Ilaahi kaise sambhaaleṅge apna dil Shabbir
+  Pisar ke gham mein na ruk jaaye dharkaneṅ dil ki
+
   4
-  Zameen e garm pa hai laasha e shabihe rasool
-  Badan ke zakhm mehekte hai jaise khuld ke phool
-  Hujoom hasrat o armaan hai aur jaane batool
-  Hai larza haathon mein sarwar ke lab pa naade ali
-  
+  Zamin-e-garm pe hai laasha-e-shabih-e-Rasul
+  Badan ke zakhm mehakte haiṅ jaise khuld ke phul
+  Hujum-e-hasrat o armaan hai aur jaan-e-Batul
+  Hai larza haathoṅ mein Sarwar ke lab pe naad-e-Ali
+
   5
-  Kinaare nehr pa sote hai hazrat e abbas
-  Adoo ke narghe mein bekas hussain hain be-aas
-  Hai saath saath faqat be-nawayi ka ehsaas
-  Jawan ki laash pa kehti hai sheh ki tashna labi
-  
+  Kinaare nahr pe sote haiṅ Hazrat-e-Abbaas
+  Adu ke narghe mein bekas Husain haiṅ beaas
+  Hai saath saath faqat benawaai ka ehsaas
+  Jawaaṅ ki laash pe kehti hai shah ki tashna labi
+
   6
-  Lahoo na kaise ho mohsin ye baap ka dil hai
-  Ye imtehan e mohabbat ki sakht manzil hai
-  Jawan laash akele uthaye mushkil hai
-  Sitam ki dhoop mein tanha khade hai sibte nabi
+  Lahu na kaise ho Mohsin yeh baap ka dil hai
+  Yeh imtihaan-e-mohabbat ki sakht manzil hai
+  Jawaan laash akele uthaaye mushkil hai
+  Sitam ki dhup mein tanha khare haiṅ Sibt-e-Nabi
 # source_id: nohayonline:ed43177f79e4f0c93b38
 # source_url: https://www.nohayonline.com/details_content.php?id=3041
 # raw_sha256: 8992aa17e20b4b02594389b4cba93a57f8aa33fb40a754e35c2bd92db9e17a4e
@@ -62,13 +63,13 @@ romanLyrics: |-
 
 ۲
 اندھیرا آنکھوں میں ہے اور کمر خمیدہ ہے
-کرے گا کون مدد بھای اور نہ بیٹا ہے
+کرے گا کون مدد بھائی اور نہ بیٹا ہے
 نبی کا نورِ نظر کس قدر اکیلا ہے
 لہو رلاتی ہے میرے پسر کو تنہائی
 
 ۳
 پکاری خیمے کے در سے یہ زینب دلگیر
-نڈھال غم سے برادر ہے ہاے رے تقدیر
+نڈھال غم سے برادر ہے ہائے رے تقدیر
 الٰہی کیسے سنبھالیں گے اپنا دل شبیر
 پسر کے غم میں نہ رک جائے دھڑکنیں دل کی
 
@@ -76,16 +77,16 @@ romanLyrics: |-
 زمین گرم پہ ہے لاشہء شبیہ رسول
 بدن کے زخم مہکتے ہیں جیسے خلد کے پھول
 ہجوم حسرت و ارمان ہے اور جان بتول
-ہے لرزا ہاتھوں میں سرور کے لب پہ ناد علی
+ہے لرزہ ہاتھوں میں سرور کے لب پہ ناد علی
 
 ۵
 کنارے نہر پہ سوتے ہیں حضرتِ عباس
 عدو کے نرغے میں بے کس حسین ہیں بے آس
-ے ساتھ ساتھ فقط بے نوای‌ کا احساس
+ہے ساتھ ساتھ فقط بے نوائی کا احساس
 جواں کی لاش پہ کہتی ہے شہ کی تشنہ لبی
 
 ۶
 لہو نہ کیسے ہو محسن یہ باپ کا دل ہے
 یہ امتحان محبت کی سخت منزل ہے
-جوان لاش اکیلے اٹھاے مشکل ہے
+جوان لاش اکیلے اٹھائے مشکل ہے
 ستم کی دھوپ میں تنہا کھڑے ہیں سبط نبی

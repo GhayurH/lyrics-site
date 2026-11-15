@@ -1,113 +1,125 @@
 ---
 title: "گرتے تھے زین سے جس دم زمین پر اکبر"
-alternateTitle: "Zaeefi May Mera"
+alternateTitle: "Zaifi Mein Mera"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Adil Nazar"
+reciter: "Shadman Raza"
+sixVerseLayout: "pairs"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Gire thay zeen se jis dam zameen par akbar
-  Tadap rahe thay yehi wan soch kar akbar
-  Chacha ke sadme mein baba ki jhuk gayi hai kamar
-  Chupana hoga mujhe unse apne zakhme jigar
-  Na mujhko khoon mein tar dekh payenge baba
-  Mere janaze ko kaise uthayenge baba
-  Ragadna aediyan mera bhula na payenge baba
-  Zaeefi mein mera laasha utha na payenge baba
+  Girte the zin se jis dam zamin par Akbar
+  Tarap rahe the yehi waaṅ soch kar Akbar
+  Chacha ke sadme mein Baba ki jhuk gayi hai kamar
+  Chhupaana hoga mujhe un se apne zakhm-e-jigar
+  Na mujh ko khun mein tar dekh paayeṅge Baba
+  Mere janaaze ko kaise uthaayeṅge Baba
+  Ragarna aeriyaaṅ mera bhula na paayeṅge Baba
+  Zaifi mein mera laasha utha na paayeṅge Baba
+
+  Zaifi mein mera laasha
+  Utha na paayeṅge Baba
+  Ragarna aeriyaaṅ mera
+  Bhula na paayeṅge Baba
 
   1
-  Na jaane kis tarha maqtal mein
-  Mujhko dhoondte honge
+  Na jaane kis tarah maqtal mein
+  Mujh ko dhundte hoṅge
   Nazar aata na hoga kuch
-  Sadayein de rahe honge
-  Taraayi se chacha ko bhi
-  Bula na payenge baba
+  Sadaaeṅ de rahe hoṅge
+  Taraai se chacha ko bhi
+  Bula na paayeṅge Baba
 
   2
-  Mai hamshakle payamabr hoo
-  Mere baba ye kehte thay
-  Dua har roz seene se
-  Laga kar mujhko dete thay
-  Laga kar aaj seene se
-  Hata na payenge baba
+  Main hamshakl-e-Payambar huṅ
+  Mere Baba yeh kehte the
+  Dua har roz sine se
+  Laga kar mujh ko dete the
+  Laga kar aaj sine se
+  Hata na paayeṅge Baba
 
   3
-  Mujhe dam tod'ta haathon
-  Pe kis tarha se dekhenge
-  Mere seene se barchi ko
-  Wo kis tarha se khaynchenge
-  Kisi ko haal e dil apna
-  Bata na payenge baba
+  Mujhe dam torta haathoṅ
+  Pe kis tarah se dekheṅge
+  Mere sine se barchhi ko
+  Woh kis tarah se kheṅcheṅge
+  Kisi ko haal-e-dil apna
+  Bata na paayeṅge Baba
 
   4
-  Khuda jaane ke qaime tak
-  Wo kaise le ke jayenge
-  Meri maa ko meri mayyat
-  Pe wo kaise bulayenge
-  Mera khoon se bhara chehra
-  Dikha na payenge baba
+  Khuda jaane ke khaime tak
+  Woh kaise le ke jaayeṅge
+  Meri maaṅ ko meri mayyat
+  Pe woh kaise bulaayeṅge
+  Mera khuṅ se bhara chehra
+  Dikha na paayeṅge Baba
 
   5
-  Phupi amma dar e qaima
-  Pe raahein tak rahi hongi
-  Mere jeene ki wo ab bhi
-  Duayein kar rahi hongi
-  Mera zakhmi seena un se
-  Chupa na payenge baba
+  Phuphi ammaaṅ dar-e-khaima
+  Pe raaheṅ tak rahi hoṅgi
+  Mere jine ki woh ab bhi
+  Duaaeṅ kar rahi hoṅgi
+  Mera zakhmi sina un se
+  Chhupa na paayeṅge Baba
 
   6
-  Bahot armaan tha maa ko
-  Meri shadi rachane ka
-  Mujhe dulha banane ka
+  Bahut armaan tha maaṅ ko
+  Meri shaadi rachaane ka
+  Mujhe dulha banaane ka
   Meri dulhan ko laane ka
   Mere sar par magar sehra
-  Saja na payenge baba
+  Saja na paayeṅge Baba
 
   7
-  Qayamat ka tha wo manzar
-  Khat e sughra tha laashe par
-  Shahe deen ka tha ye nauha
-  Jawan bete ke laashe par
-  Tumhe akbar se ab sughra
-  Mila na payenge baba
+  Qayaamat ka tha woh manzar
+  Khat-e-Sughra tha laasha par
+  Shah-e-din ka tha yeh nauha
+  Jawaaṅ bete ke laasha par
+  Tumheṅ Akbar se ab Sughra
+  Mila na paayeṅge Baba
 
   8
-  Nazar ke saamne thi shadman
-  Laashe ali akbar
-  Qayamat hogayi barpa
-  Kaha jab shaah ne ro kar
-  Zaeefi mein tera laasha
-  Utha na payenge baba
+  Nazar ke saamne thi Shaadmaaṅ
+  Laash Ali Akbar
+  Qayaamat ho gayi barpa
+  Kaha jab Shaah ne ro kar
+  Zaifi mein tera laasha
+  Utha na paayeṅge Baba
 # source_id: nohayonline:c4663535a7b3e2c2b8a2
 # source_url: https://www.nohayonline.com/details_content.php?id=1662
 # raw_sha256: 6d1a3be070db93e3701cffb4478258f756add6e71a3c72683b4a396051ee271a
 ---
 گرتے تھے زین سے جس دم زمین پر اکبر
 تڑپ رہے تھے یہی واں سوچ کر اکبر
-چچا کے صدمے میں بابا کی جھک گیء ہے کمر
+چچا کے صدمے میں بابا کی جھک گئی ہے کمر
 چھپانا ہوگا مجھے ان سے اپنے زخم جگر
-نہ مجھکو خون میں تر دیکھ پاےنگے بابا
-میرے جنازے کو کیسے اٹھاینگے بابا
-رگڑنا ایڑیاں میرا بھلانا پاےنگے بابا
-ضعیفی میں میرا لاشہ اٹھا نہ پاےنگے بابا
+نہ مجھ کو خون میں تر دیکھ پائیں گے بابا
+میرے جنازے کو کیسے اٹھائیں گے بابا
+رگڑنا ایڑیاں میرا بھلا نہ پائیں گے بابا
+ضعیفی میں میرا لاشہ اٹھا نہ پائیں گے بابا
+
+ضعیفی میں میرا لاشہ
+اٹھا نہ پائیں گے بابا
+رگڑنا ایڑیاں میرا
+بھلا نہ پائیں گے بابا
 
 ۱
 نہ جانے کس طرح مقتل میں
-مجھکو ڈھونڈتے ہونگے
+مجھ کو ڈھونڈتے ہوں گے
 نظر آتا نہ ہوگا کچھ
-صداییں دے رہے ہونگے
-ترای سے چچا کو بھی
+صدائیں دے رہے ہوں گے
+ترائی سے چچا کو بھی
 بلا نہ پائیں گے بابا
 
 ۲
 میں ہمشکل پیمبر ہوں
 میرے بابا یہ کہتے تھے
 دعا ہر روز سینے سے
-لگا کر مجھکو دیتے تھے
+لگا کر مجھ کو دیتے تھے
 لگا کر آج سینے سے
 ہٹا نہ پائیں گے بابا
 
@@ -121,17 +133,17 @@ romanLyrics: |-
 
 ۴
 خدا جانے کے خیمے تک
-وہ کیسے لے کے جاینگے
+وہ کیسے لے کے جائیں گے
 میری ماں کو میری میت
-پہ وہ کیسے بلاےنگے
+پہ وہ کیسے بلائیں گے
 میرا خوں سے بھرا چہرہ
 دکھا نہ پائیں گے بابا
 
 ۵
 پھپھی اماں در خیمہ
-پہ راہیں تک رہی ہونگی
+پہ راہیں تک رہی ہوں گی
 میرے جینے کی وہ اب بھی
-دعائیں کر رہی ہونگی
+دعائیں کر رہی ہوں گی
 میرا زخمی سینہ ان سے
 چھپا نہ پائیں گے بابا
 
@@ -139,14 +151,14 @@ romanLyrics: |-
 بہت ارمان تھا ماں کو
 میری شادی رچانے کا
 مجھے دولہا بنانے کا
-میری دلہن کو لانے‌ کا
+میری دلہن کو لانے کا
 میرے سر پر مگر سہرا
 سجا نہ پائیں گے بابا
 
 ۷
 قیامت کا تھا وہ منظر
 خط صغرا تھا لاشہ پر
-شہ دیں کا تھا یہ نوحہ
+شہ دین کا تھا یہ نوحہ
 جواں بیٹے کے لاشہ پر
 تمہیں اکبر سے اب صغرا
 ملا نہ پائیں گے بابا
@@ -154,7 +166,7 @@ romanLyrics: |-
 ۸
 نظر کے سامنے تھی شادماں
 لاش علی اکبر
-قیامت ہوگیء برپا
+قیامت ہو گئی برپا
 کہا جب شاہ نے رو کر
 ضعیفی میں تیرا لاشہ
-اٹھا نہ پاےنگے بابا
+اٹھا نہ پائیں گے بابا
