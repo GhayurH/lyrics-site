@@ -1,64 +1,65 @@
 ---
-title: "زینب کی صدا تھی کہ نہ تڑپاوء سکینہ"
+title: "زینب کی صدا تھی کہ نہ تڑپاؤ سکینہ"
 alternateTitle: "Zainab Ki Sada Thi Ke"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Izzat Lakhnavi"
+reciter: "Izzat Lakhnavi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zainab ki sada thi ke na tadpao sakina
-  Lillaah jahan bhi ho chali aao sakina
+  Zainab ki sada thi ke na tarpao Sakina
+  Lillaah jahaaṅ bhi ho chali aao Sakina
 
   1
-  Mai subho se ta asr tadapti hi rahi hoo
-  Aa jao khuda ke liye aa jao sakina
+  Main subh se taa asr tarapti hi rahi huṅ
+  Aa jaao Khuda ke liye aa jaao Sakina
 
   2
-  Ya mujhko sada do ke mai lene tumhe pahunchun
-  Ya khud meri awaaz pa aa jao sakina
+  Yaa mujhko sada do ke main lene tumheṅ pahuṅchuṅ
+  Yaa khud meri aawaaz pe aa jaao Sakina
 
   3
-  Qasim hai na akbar hai na abbas e dilawar
-  Ab kaun tumhe dhoonde ye batlao sakina
+  Qasim hai na Akbar hai na Abbas-e-Dilaawar
+  Ab kaun tumheṅ dhunde ye batlaao Sakina
 
   4
-  Raat aa gayi bhooki bhi ho pyasi bhi meri jaan
-  Aisa na ho thak kar kahin so jao sakina
+  Raat aa gayi bhuki bhi ho pyaasi bhi meri jaan
+  Aisa na ho thak kar kahiṅ so jaao Sakina
 
   5
-  Bibi tumhe raste bhi to maloom nahi hai
-  Darti hoo ke sehra mein na kho jao sakina
+  Bibi tumheṅ raste bhi to maalum nahiṅ hai
+  Darti huṅ ke sehra mein na kho jaao Sakina
 
   6
-  Bhaiya ne tumhe meri hifazat mein diya tha
-  Bhabi se to sharminda na karwao sakina
+  Bhaiya ne tumheṅ meri hifaazat mein diya tha
+  Bhaabhi se to sharminda na karwaao Sakina
 
   7
-  Maidan mein to be-sar ke hai laashe meri bachi
-  Shab mein na unhe dekh ke darr jao sakina
+  Maidaan mein to besar ke haiṅ laashe meri bachchi
+  Shab mein na unheṅ dekh ke dar jaao Sakina
 
   8
-  Mai dil jali bewa'on ko deti hoo tasalli
-  Tum rote hue bachon ko behlao sakina
+  Main dil jali bewaaoṅ ko deti huṅ tasalli
+  Tum rote hue bachchoṅ ko behlaao Sakina
 
   9
-  Bibi tumhe ab baap ka seena na milega
-  Aa kar meri aagosh mein so jao sakina
+  Bibi tumheṅ ab baap ka sina na milega
+  Aa kar meri aaghosh mein so jaao Sakina
 
   10
-  Mashad ki ziyarat se musharrab hua izzat
-  Ab rauza e abbas par bulwao sakina
+  Mashhad ki ziyaarat se musharrab hua Izzat
+  Ab rauza-e-Abbas par bulwaao Sakina
 # source_id: nohayonline:f0c329e84db8e2e150fb
 # source_url: https://www.nohayonline.com/details_content.php?id=1057
 # raw_sha256: 8666d697d2dced816bbb6e91b0820f80fb92c874188e0db251f50a0b19f8a689
 ---
 
-زینب کی صدا تھی کہ نہ تڑپاوء سکینہ
-لللہ جہاں بھی ہو چلی آؤ سکینہ
+زینب کی صدا تھی کہ نہ تڑپاؤ سکینہ
+للہ جہاں بھی ہو چلی آؤ سکینہ
 
 ۱
 میں صبح سے تا عصر تڑپتی ہی رہی ہوں
@@ -66,14 +67,14 @@ romanLyrics: |-
 
 ۲
 یا مجھکو صدا دو کہ میں لینے تمہیں پہنچوں
-یا قد میری آواز پہ آ جاؤ سکینہ
+یا خود میری آواز پہ آ جاؤ سکینہ
 
 ۳
-قاسم ہے نہ اکبر ہے نہ عباس دلاور
-اب کون تمہیں ڈھونڈنے یہ بتلاؤ سکینہ
+قاسم ہے نہ اکبر ہے نہ عباسِ دلاور
+اب کون تمہیں ڈھونڈے یہ بتلاؤ سکینہ
 
 ۴
-رات آ گئ بھوکی بھی ہو پیاسی بھی میری جان
+رات آ گئی بھوکی بھی ہو پیاسی بھی میری جان
 ایسا نہ ہو تھک کر کہیں سو جاؤ سکینہ
 
 ۵
@@ -98,4 +99,4 @@ romanLyrics: |-
 
 ۱۰
 مشہد کی زیارت سے مشرب ہوا عزت
-اب روضہء عباس پر بلواوء سکینہ
+اب روضۂ عباس پر بلواؤ سکینہ

@@ -5,67 +5,80 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Nasir Asghar Party (SM)"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Jab qaime jalay asbaab luta
-  Zainab ko madina yaad aaya
-  Sab qatl huwe koi na raha
+  Jab khaime jale asbaab luta
+  Zainab ko Madina yaad aaya
+  Sab qatl hue koi na raha
+  Zainab ko Madina yaad aaya
 
   1
-  Mazloom ki thi sajde may jabeen
-  Zaalim ne chalayi sheh pe churi
+  Mazlum ki thi sajde mein jabiṅ
+  Zaalim ne chalaayi sheh pe chhuri
   Jis waqt gala bhai ka kata
+  Zainab ko Madina yaad aaya
 
   2
-  Darya ke kinare karbal may
-  Abbas ke baazu qalam huwe
-  Jab zeen se utra shaah e wafa
+  Darya ke kinaare Karbal mein
+  Abbas ke baazu qalam hue
+  Jab zin se utra shaah-e-wafa
+  Zainab ko Madina yaad aaya
 
   3
-  Akbar ke kaleje may thi ani
-  Aur teer galay mau asghar may
-  Sajde may jhuka ek abd e khuda
+  Akbar ke kaleje mein thi ani
+  Aur tir gale mein Asghar mein
+  Sajde mein jhuka ik abd-e-Khuda
+  Zainab ko Madina yaad aaya
 
   4
   Bhai na rahe bete na rahe
-  Jab aayi shaam gharibon pe
-  Be-aas huwe jab aale aba
+  Jab aayi shaam ghariboṅ pe
+  Beaas hue jab Aal-e-Aba
+  Zainab ko Madina yaad aaya
 
   5
-  Sab matami matam karte hai
-  Aashiq ki zaban pe hai nauha
+  Sab maatami maatam karte haiṅ
+  Aashiq ki zabaaṅ pe hai nauha
   Ye keh ke aalam hota raha
+  Zainab ko Madina yaad aaya
 # source_id: nohayonline:b1f59e1b6994ec758d2a
 # source_url: https://www.nohayonline.com/details_content.php?id=1517
 # raw_sha256: 2298d0f0cc51652c08f10849e76aec09ec762187c4b8229837a221eda643d100
 ---
 جب خیمے جلے اسباب لٹا
 زینب کو مدینہ یاد آیا
-سب قتل ہوے کوئی نہ رہا
+سب قتل ہوئے کوئی نہ رہا
+زینب کو مدینہ یاد آیا
 
 ۱
 مظلوم کی تھی سجدے میں جبیں
-ظالم نے چلای شہ پہ چھری
-جس وقت گلا بھای کا کٹا
+ظالم نے چلائی شہ پہ چھری
+جس وقت گلا بھائی کا کٹا
+زینب کو مدینہ یاد آیا
 
 ۲
 دریا کے کنارے کربل میں
-عباس کے بازو قلم ہوے
-جب زین سے اترا شاہ وفا
+عباس کے بازو قلم ہوئے
+جب زین سے اترا شاہِ وفا
+زینب کو مدینہ یاد آیا
 
 ۳
 اکبر کے کلیجے میں تھی انی
 اور تیر گلے میں اصغر میں
 سجدے میں جھکے اک ابد خدا
+زینب کو مدینہ یاد آیا
 
 ۴
-بھای نہ رہے بیٹے نہ رہے
-جب آی شام غریبوں پہ
-بے آس ہوے جب آل عبا
+بھائی نہ رہے بیٹے نہ رہے
+جب آئی شام غریبوں پہ
+بے آس ہوئے جب آلِ عبا
+زینب کو مدینہ یاد آیا
 
 ۵
 سب ماتمی ماتم کرتے ہیں
 عاشق کی زباں پہ ہے نوحہ
-یہ کہکے عالم روتا رہا
+یہ کہہ کے عالم روتا رہا
+زینب کو مدینہ یاد آیا

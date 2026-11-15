@@ -1,113 +1,114 @@
 ---
-title: "ہاے بازار شام جا کر"
+title: "ہائے بازارِ شام جا کر"
 alternateTitle: "Zainab Ko Ghazi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
+reciter: "Shadman Raza"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Haye bazaar e shaam jaa kar
-  Zainab ko ghazi yaad aaya
+  Haaye bazaar-e-Shaam jaa kar
+  Zainab ko Ghazi yaad aaya
 
   1
-  Aankhon se khoon jaari
-  Sar pe rida nahi thi
-  Zakhmi haram ke dil thay
-  Koi dawa nahi thi
-  Jab durre lagay badan par
+  Aankhoṅ se khun jaari
+  Sar pe rida nahiṅ thi
+  Zakhmi haram ke dil the
+  Koi dawa nahiṅ thi
+  Jab durre lage badan par
 
   2
-  Sadaat pa ba-rehna
-  Kaaton bhare thay raste
-  Rote thay jab ye qaidi
-  Be-dard log haste
-  Jab dekhi sina pe chadar
+  Saadaat paa barehna
+  Kaaṅtoṅ bhare the raste
+  Rote the jab ye qaidi
+  Bedard log haṅste
+  Jab dekhi sinaaṅ pe chaadar
 
   3
-  Hamsheer royi us par
-  Taqdeer royi us par
-  Bemaar jab bhi roya
-  Zanjeer royi us par
-  Galiyon pe barse pathar
+  Hamshir royi us par
+  Taqdir royi us par
+  Bimaar jab bhi roya
+  Zanjir royi us par
+  Galiyoṅ pe barse patthar
 
   4
-  Jo malkaye haya thi
-  Raahon mein berida thi
-  Ye soch kar hii zainab
-  Bas mehwe marsiya thi
-  Shireen ke ghar mein jaa kar
+  Jo malika-e-haya thi
+  Raahoṅ mein berida thi
+  Ye soch kar hi Zainab
+  Bas mahw-e-marsiya thi
+  Shirin ke ghar mein jaa kar
 
   5
-  Is se badi qayamat
-  Kya aur hogi logon
-  Abid ne apne sar ko
-  Kyun na uthaya socho
+  Is se bari qayaamat
+  Kya aur hogi logoṅ
+  Aabid ne apne sar ko
+  Kiuṅ na uthaaya socho
   Wo kehta tha bas ye ro kar
 
   6
   Abba ki behen par
-  Ek aisa waqt aaya
-  Darbar mein sitam ke
-  Shimr e layeen pukara
+  Ik aisa waqt aaya
+  Darbaar mein sitam ke
+  Shimr-e-laiṅ pukaara
   Hai kaun sheh ki khwahar
 
   7
   Nikli thi jab wo ghar se
   Manzar wo yaad aaya
-  Nazrein jhukao logon
+  Nazreṅ jhukaao logoṅ
   Abbas ne kaha tha
-  Ab shaam mein khule sar
+  Ab Shaam mein khule sar
 
   8
-  Athara bhaiyon ki
-  Hamsheer aur khule sar
-  Ay logon taras khao
-  Zainab ko dedo chadar
+  Athaara bhaaiyoṅ ki
+  Hamshir aur khule sar
+  Ae logoṅ taras khaao
+  Zainab ko de do chaadar
   Fizza jo boli ro kar
 
   9
   Darbaar mein gayi thi
-  Ek roz fatema bhi
+  Ik roz Fatima bhi
   Lekin rida thi sar par
-  Beton se thi tassalli
+  Betoṅ se thi tasalli
   Yaad aaya usay ye manzar
 
   10
-  Guzri jo bibiyon par
-  Kya shadman sunaye
+  Guzri jo Bibiyoṅ par
+  Kya Shadmaaṅ sunaaye
   Mazhar mera kaleja
-  Sadmon se phat na jaaye
+  Sadmoṅ se phat na jaaye
   Bas roko qalam ye keh kar
 # source_id: nohayonline:1d33fe5dafbea7a64a2d
 # source_url: https://www.nohayonline.com/details_content.php?id=2362
 # raw_sha256: 61958657d15c426f16e6afdcaab7ca9e33623b0995eebe37a47bb0f1f0c39b3e
 ---
-ہاے بازار شام جا کر
+ہائے بازارِ شام جا کر
 زینب کو غازی یاد آیا
 
 ۱
 آنکھوں سے خون جاری
 سر پر ردا نہیں تھی
 زخمی حرم کے دل تھے
-کوی دوا نہیں تھی
+کوئی دوا نہیں تھی
 جب درے لگے بدن پر
 
 ۲
-سادات پہ برہنہ
-کاٹوں بھرے تھے رستے
+سادات پا برہنہ
+کانٹوں بھرے تھے رستے
 روتے تھے جب یہ قیدی
 بے درد لوگ ہنستے
 جب دیکھی سناں پہ چادر
 
 ۳
-ہمشیر روی اس پر
-تقدیر روی اس پر
+ہمشیر روئی اس پر
+تقدیر روئی اس پر
 بیمار جب بھی رویا
-زنجیر روی اس پر
+زنجیر روئی اس پر
 گلیوں پہ برسے پتھر
 
 ۴
@@ -139,14 +140,14 @@ romanLyrics: |-
 اب شام میں کھلے سر
 
 ۸
-اٹھارہ بھاییوں کی
+اٹھارہ بھائیوں کی
 ہمشیر اور کھلے سر
 اے لوگوں ترس کھاؤ
-زینب کو دیدو چادر
+زینب کو دے دو چادر
 فضہ جو بولی رو کر
 
 ۹
-دربار میں گیء تھی
+دربار میں گئی تھی
 اک روز فاطمہ بھی
 لیکن ردا تھی سر پر
 بیٹوں سے تھی تسلی
@@ -154,7 +155,7 @@ romanLyrics: |-
 
 ۱۰
 گزری جو بی‌بیوں پر
-کیا شادماں سناے
+کیا شادماں سنائے
 مظہر میرا کلیجہ
-صدموں سے پھٹ نہ جاے
-بس رو کو قلم یہ کہہ کر
+صدموں سے پھٹ نہ جائے
+بس روکو قلم یہ کہہ کر
