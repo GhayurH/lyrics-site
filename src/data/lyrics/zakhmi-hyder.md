@@ -1,74 +1,77 @@
 ---
-title: "مسجد میں ہوے زخمی حیدر"
-alternateTitle: "Zakhmi Hyder"
+title: "مسجد میں ہوئے زخمی حیدر"
+alternateTitle: "Zakhmi Haidar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
-aliases: []
+aliases: ["Zakhmi Hyder"]
 published: false
 romanLyrics: |-
-  Masjid mein huwe zakhmi hyder
-  Zainab pe qayamat tooti hai
-  Ye fajr ali ki beti ko
-  Ashoor ke jaisi lagti hai
+  Masjid mein huwe zakhmi Haidar
+  Zainab pe qayaamat tuti hai
+
+  Ye fajr Ali ki beti ko
+  Aashur ke jaisi lagti hai
 
   1
-  Nazdeek jo pahunche ghar ke ali
-  Bole ye hassan se ay beta
-  As'haab se keh do ghar jaaye
-  Darwaze pe zainab baithi hai
+  Nazdik jo pahunche ghar ke Ali
+  Bole ye Hasan se ae beta
+  Ashaab se keh do ghar jaaye
+  Darwaaze pe Zainab baithi hai
 
   2
   Zainab ne zakhmi baba ke
-  Chehre se lahoo jo saaf kiya
-  Marqad se sada di zahra ne
-  Ye karbal ki tayyari hai
+  Chehre se lahu jo saaf kiya
+  Marqad se sada di Zahra ne
+  Ye Karbal ki tayyaari hai
 
   3
-  Do saal ke hai sajjad magar
-  Band aankhein ki hai ghairat se
-  Namoose mohamed ki jo rida
+  Do saal ke haiṅ Sajjad magar
+  Band aankheiṅ ki hai ghairat se
+  Naamus-e-Muhammad ki jo rida
   Girti hui sar se dekhi hai
 
   4
-  Ek bar shahadat baba ki
-  Ek bar shahadat shauhar ki
-  Afsos ke shehr e kufa mein
-  Do baar ruqayya ujdi hai
+  Ek baar shahaadat baba ki
+  Ek baar shahaadat shauhar ki
+  Afsos ke shahr-e-Kufa mein
+  Do baar Ruqayya ujri hai
 
   5
   Wo jis ne apne qaatil ko
-  Sharbat se nawaza kufe mein
+  Sharbat se nawaaza Kufe mein
   Aulaad usi ki ummat ne
-  Sehra mein pyasi maari hai
+  Sahra mein pyaasi maari hai
 
   6
-  Ahista ali ne di ye sada
-  Ghabrana nahi mai bhi honga
+  Aahista Ali ne di ye sada
+  Ghabraana nahiṅ main bhi hoṅga
   Bazaar mein jaana hai tum ko
-  Zainab ye khuda ki marzi hai
+  Zainab ye Khuda ki marzi hai
 
   7
-  Ay mir takallum shor utha
-  Ab dono milenge karbobala
-  Inna lillaah padlo zainab
+  Ae Mir Takallum shor utha
+  Ab donoṅ mileṅge Karb o Bala
+  Inna lillaah parh lo Zainab
   Baba ki sawari jaati hai
 # source_id: nohayonline:52316e4572ddd37461c4
 # source_url: https://www.nohayonline.com/details_content.php?id=3299
 # raw_sha256: c9b377ca97df98f2dff1e728fc9a48dc36c3861d6006ac22e71e5b3aba8f6a3c
 ---
-مسجد میں ہوے زخمی حیدر
+مسجد میں ہوئے زخمی حیدر
 زینب پہ قیامت ٹوٹی ہے
+
 یہ فجر علی کی بیٹی کو
 عاشور کے جیسی لگتی ہے
 
 ۱
 نزدیک جو پہنچے گھر کے علی
 بولے یہ حسن سے اے بیٹا
-اصحاب یہ کہہ دو گھر جاے
+اصحاب یہ کہہ دو گھر جائے
 دروازے پہ زینب بیٹھی ہے
 
 ۲
@@ -97,12 +100,12 @@ romanLyrics: |-
 
 ۶
 آہستہ علی نے دی یہ صدا
-گھبرانا نہیں میں بھی ہونگا
+گھبرانا نہیں میں بھی ہوں گا
 بازار میں جانا ہے تم کو
 زینب یہ خدا کی مرضی ہے
 
 ۷
 اے میر تکلم شور اٹھا
-اب دونوں ملیں گے کربوبلا
-انا لللہ پڑھ لو زینب
+اب دونوں ملیں گے کرب و بلا
+انا للہ پڑھ لو زینب
 بابا کی سواری جاتی ہے
