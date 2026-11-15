@@ -1,6 +1,6 @@
 ---
 title: "انا ابنِ مکہ و منیٰ"
-alternateTitle: "Ana ibn-e-Makka o Mina"
+alternateTitle: "Ana Ibn-e-Makka o Mina"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,9 +12,9 @@ aliases: ["Ana Ibne Makkah", "ana-ibne-makkah"]
 published: true
 romanLyrics: |-
   Bayaaṅ karta huṅ darbar-e-Shaam ka manzar
-  Jahaaṅ the saat sau kursi nashiṅ fitnagar
+  Jahaaṅ the saat sau kursi nashiṅ fitna gar
   Yazid jhum raha tha sharaab pi pi kar
-  Aur aisi bazm mein afsos Aal-e-Payambar
+  Aur aisi bazm mein afsos Aal-e-Paighambar
 
   Tha un ke saamne ek badkalaam mimbar par
   Bayaaṅ karta tha jhuthe Yazid ke jauhar
@@ -51,7 +51,7 @@ romanLyrics: |-
   Laiq-e-hamd o sana hai to wohi ek Khuda
   Jis ne hum Aal-e-Muhammad ko hai takhliq kiya
   Jis ko maalum hai maalum hai mera shajra
-  Jo nahi jaanta woh sun le taaruf mera
+  Jo nahiṅ jaanta woh sun le taaruf mera
 
   3
   Hum ko Allah ne chhe khubiyaaṅ bakhshiṅ bakhuda
@@ -71,7 +71,7 @@ romanLyrics: |-
   Us ka farzand huṅ seh roz raha jo pyaasa
   Darmiyaaṅ zin o zamiṅ jis ka raha tha laasha
   Jis ke sajde ke sabab khaak bani khaak-e-shifa
-  Khaak aur khun mein duba tha amama jis ka
+  Khaak aur khun mein duba tha amaama jis ka
   Sum-e-asb-ha tale ronda gaya laasha jis ka
 
   6
@@ -82,10 +82,10 @@ romanLyrics: |-
   Kalma parh parh ke Muhammad ka jigar chaak kiya
 
   7
-  Jis ke parde ke liye ayat-e-Tathir aaye
+  Jis ke parde ke liye aayat-e-Tathir aaye
   Sang barsaate huwe un pe yahaaṅ tak laaye
   Haif hai ruh-e-Muhammad se na tum sharmaye
-  Hum ne paband-e-rasan ho ke tujhe maara hai
+  Hum ne paaband-e-rasan ho ke tujhe maara hai
   Ibn-e-Marjaana tu jita to nahiṅ haara hai
 
   8
@@ -97,7 +97,7 @@ romanLyrics: |-
 
   9
   Jab muazzin ne kiya kalma-e-takbir ada
-  Bole Sajjad buzurgi hai usi ko zeba
+  Bole Sajjad buzurgi hai usi ko ziba
   Jaise hi naam Muhammad ka muazzin ne liya
   Mur ke haakim se kaha tere iraade bad haiṅ
   Ye Muhammad haiṅ tumhaare ke hamaare jad haiṅ
@@ -121,7 +121,7 @@ romanLyrics: |-
   Naam azaanoṅ mein tumhaare nahiṅ hum jit gaye
   Kya ye qudrat ke ishaare nahiṅ hum jit gaye
   Yak ba yak fath-e-mubin sab ko nazar aane lagi
-  Marhaba Sayyid-e-Sajjad sada chhane lagi
+  Marhaba Sayyid-e-Sajjad sada chhaane lagi
 
   13
   Bole phir Aabid-e-bimaar ye izzat dekhi
