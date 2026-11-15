@@ -1,45 +1,46 @@
 ---
 title: "زمانے میں کوئی ہو نفسِ پیغمبر تو ہم جانیں"
-alternateTitle: "Zamane May Koi Ho"
+alternateTitle: "Zamane Mein Koi Ho"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
+reciter: "Tableegh e Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zamane mein koi ho nafse paighambar to hum jaane
-  Ali ki baat kya holay koi qambar to hum jaane
+  Zamane mein koi ho nafs-e-Paighambar to hum jaaneṅ
+  Ali ki baat kya ho le koi Qambar to hum jaaneṅ
 
   1
-  Hai daawa jaanisari ka bahot islam walon ko
-  Dikhaye rahe haq deke apna sar to hum jaane
+  Hai daawa jaaṅnisaari ka bahut Islam waloṅ ko
+  Dikhaye raah-e-haq de ke apna sar to hum jaaneṅ
 
   2
-  Baghair e hubbe hyder jo nabi ke ishq mein doobe
-  Nikal kar hum ko dikhlaye labe kausar to hum jaane
+  Baghair-e-hubb-e-Haidar jo Nabi ke ishq mein dube
+  Nikal kar hum ko dikhlaye lab-e-Kausar to hum jaaneṅ
 
   3
-  Hai pehra alqama par aaj tak abbas e ghazi ka
-  Zara koi parinda maar to le par to hum jaane
+  Hai pehra Alqama par aaj tak Abbas-e-Ghazi ka
+  Zara koi parinda maar to le par to hum jaaneṅ
 
   4
-  Pahado ke bhi hil jaate hai dil naam e ali sunkar
-  Kisi ke naam par hil jaye kankar to hum jaane
+  Pahaaroṅ ke bhi hil jaate haiṅ dil naam-e-Ali sun kar
+  Kisi ke naam par hil jaaye kankar to hum jaaneṅ
 
   5
-  Kaha karti thi zainab hai hamara sher sa bhai
-  Dikhaye sar se koi cheen kar chadar to hum jaane
+  Kaha karti thi Zainab haaye hamara sher sa bhai
+  Dikhaye sar se koi chhin kar chaadar to hum jaaneṅ
 
   6
-  Ye zainab ka kaleja tha ye zainab hi ki himmat thi
-  Galay par bhai ke dekhe koi khanjar to hum jaane
+  Ye Zainab ka kaleja tha ye Zainab hi ki himmat thi
+  Gale par bhai ke dekhe koi khanjar to hum jaaneṅ
 
   7
-  Tu shayar hai shahe deen ka tujhe kya khauf hai mehshar
-  Farishte aaye tere qabr ke andhar to hum jaane
+  Tu shayar hai Shah-e-diṅ ka tujhe kya khauf hai Mehshar
+  Farishte aayeṅ teri qabr ke andar to hum jaaneṅ
 # source_id: nohayonline:574447f4d1fbdc46e03e
 # source_url: https://www.nohayonline.com/details_content.php?id=661
 # raw_sha256: 5d689808bf25e60247f1d7453da3d9bcea2462f1428e13a9de31a74743e5d221
@@ -48,8 +49,8 @@ romanLyrics: |-
 علی کی بات کیا ہو لے کوئی قمبر تو ہم جانیں
 
 ۱
-ہے دعویٰ جانثاری کا بہت اسلام والوں کو
-دیکھائے راہِ حق دے کے اپنا سرتو ہم جانیں
+ہے دعویٰ جاں نثاری کا بہت اسلام والوں کو
+دکھائے راہِ حق دے کے اپنا سر تو ہم جانیں
 
 ۲
 بغیرِ حُبِ حیدر جو نبی کے عشق میں ڈوبے
@@ -65,12 +66,12 @@ romanLyrics: |-
 
 ۵
 کہا کرتی تھی زینب ہائے ہمارا شیر سا بھائی
-دیکھائے سر سے کوئی چھین کر چادر تو ہم جانیں
+دکھائے سر سے کوئی چھین کر چادر تو ہم جانیں
 
 ۶
 یہ زینب کا کلیجہ تھا یہ زینب ہی کی ہمت تھی
 گلے پر بھائی کے دیکھے کوئی خنجر تو ہم جانیں
 
 ۷
-تو ں شاعر ہے شاہِ دیں کا تجھے کیا خوف ہے محشر
+تو شاعر ہے شاہِ دیں کا تجھے کیا خوف ہے محشر
 فرشتے آئیں تیری قبر کے اندر تو ہم جانیں

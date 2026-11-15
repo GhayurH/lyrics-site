@@ -6,91 +6,94 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Bayan kaise ho kufe ka manzar
-  Ye kehte honge jab beti se hyder
-  Hamare baad aise bhi zamane aayenge zainab
-  Isi kufe mein pathar tum ko maare jayenge zainab
+  Bayan kaise ho Kufe ka manzar
+  Ye kehte hoṅge jab beti se Haidar
+
+  Hamare baad aise bhi zamane aayeṅge Zainab
+  Isi Kufe mein patthar tum ko maare jaayeṅge Zainab
 
   1
-  Galay unko laga kar pyar karna maa ki jaanib se
-  Hamein dafna ke jab hasnain wapas aayenge zainab
+  Gale un ko laga kar pyar karna maaṅ ki jaanib se
+  Hameṅ dafna ke jab Hasnain wapas aayeṅge Zainab
 
   2
-  Tumhari maa ko bhi darbar mein logon ne bulwaya
-  Tumhe bhi berida darbar mein bulwayenge zainab
+  Tumhari maaṅ ko bhi darbar mein logoṅ ne bulwaya
+  Tumheṅ bhi berida darbar mein bulwaayeṅge Zainab
 
   3
-  Ye kufa hai yahan ke logon ki nazrein badalti hai
-  Abhi jo sheer laaye hai wo pathar layenge zainab
+  Ye Kufa hai yahaṅ ke logoṅ ki nazreṅ badalti hai
+  Abhi jo shir laaye haiṅ wo patthar laayeṅge Zainab
 
   4
   Ali ne ghar mein ye paigham bhijwaya hai masjid se
-  Na tum ghar se nikalna warna hum mar jayenge zainab
+  Na tum ghar se nikalna warna hum mar jaayeṅge Zainab
 
   5
-  Sitam hoga ke qabrein bhi na hongi paas qabron ke
-  Madina karbala kufa mein hum bat jayenge zainab
+  Sitam hoga ke qabreṅ bhi na hoṅgi paas qabroṅ ke
+  Madina Karbala Kufa mein hum bat jaayeṅge Zainab
 
   6
-  Tamache qatl e mohsin aur wo darbar ki peshi
-  Ye saare dukh hum apni qabr mein le jayenge zainab
+  Tamaache qatl-e-Mohsin aur wo darbar ki peshi
+  Ye saare dukh hum apni qabr mein le jaayeṅge Zainab
 
   7
-  Kaha hai hum ne kyun hasnain ke hote tumhe zainab
-  Ye raaz hum hashr ke maidan mein batlayenge zainab
+  Kaha hai hum ne kiuṅ Hasnain ke hote tumheṅ Zainab
+  Ye raaz hum hashr ke maidaaṅ mein batlaayeṅge Zainab
 
   8
-  Na ghabrana hamein awaaz dena saathwe dar par
-  Tumhare saath mein darbar hum bhi jayenge zainab
+  Na ghabrana hameṅ aawaaz dena saatweṅ dar par
+  Tumhare saath mein darbar hum bhi jaayeṅge Zainab
 
   9
-  Takaluum kehke ye beti se ruqsat hogaye maula
-  Hum ab shaam e ghariban tumse milne aayenge zainab
+  Takallum keh ke ye beti se rukhsat ho gaye Maula
+  Hum ab shaam-e-gharibaaṅ tum se milne aayeṅge Zainab
 # source_id: nohayonline:589c9c8b35f3c710efc2
 # source_url: https://www.nohayonline.com/details_content.php?id=2427
 # raw_sha256: ffb454d6288c13008298c43d2b60d4cbdcf2ae7382dbb3be99643c970f1b6bee
 ---
 بیان کیسے ہو کوفے کا منظر
-یہ کہتے ہونگے جب بیٹی سے حیدر
-ہمارے بعد ایسے بھی زمانے آینگے زینب
-اسی کوفے میں پتھر تم کو مارے جاینگے زینب
+یہ کہتے ہوں گے جب بیٹی سے حیدر
+
+ہمارے بعد ایسے بھی زمانے آئیں گے زینب
+اسی کوفے میں پتھر تم کو مارے جائیں گے زینب
 
 ۱
-گلے انکو لگا کر پیار کرنا ماں کی جانب سے
-ہمیں دفنا کے جب حسنین واپس آیینگے زینب
+گلے ان کو لگا کر پیار کرنا ماں کی جانب سے
+ہمیں دفنا کے جب حسنین واپس آئیں گے زینب
 
 ۲
 تمہاری ماں کو بھی دربار میں لوگوں نے بلوایا
-تمہیں بھی بے ردا دربار میں بلواینگے زینب
+تمہیں بھی بے ردا دربار میں بلوائیں گے زینب
 
 ۳
 یہ کوفہ ہے یہاں کے لوگوں کی نظریں بدلتی ہے
-ابھی جو شیر لاے ہیں وہ پتھر لاینگے زینب
+ابھی جو شیر لائے ہیں وہ پتھر لائیں گے زینب
 
 ۴
 علی نے گھر میں یہ پیغام بھجوایا ہے مسجد سے
-نہ تم گھر سے نکلنا ورنہ ہم مر جاۓنگے زینب
+نہ تم گھر سے نکلنا ورنہ ہم مر جائیں گے زینب
 
 ۵
-ستم ہو گا کہ قبریں بھی نہ ہونگی پاس قبروں کے
-مدینہ کربلا کوفہ میں ہم‌ بات جایینگے زینب
+ستم ہو گا کہ قبریں بھی نہ ہوں گی پاس قبروں کے
+مدینہ کربلا کوفہ میں ہم بٹ جائیں گے زینب
 
 ۶
-طمانچے قتل محسن اور وہ دربار کے پیشی
-یہ سارے دکھ ہم اپنی قبر میں لے جاینگے زینب
+طمانچے قتلِ محسن اور وہ دربار کی پیشی
+یہ سارے دکھ ہم اپنی قبر میں لے جائیں گے زینب
 
 ۷
 کہا ہے ہم نے کیوں حسنین کے ہوتے تمہیں زینب
-یہ راز ہم حشر کے میداں میں بتلاینگے زینب
+یہ راز ہم حشر کے میداں میں بتلائیں گے زینب
 
 ۸
 نہ گھبرانا ہمیں آواز دینا ساتویں در پر
-تمہارے ساتھ میں دربار ہم بھی جاینگے زینب
+تمہارے ساتھ میں دربار ہم بھی جائیں گے زینب
 
 ۹
-تکلم کہہ کے یہ بیٹی سے رخصت ہو گےء مولا
-ہم اب شام غریباں تم سے ملنے آیینگے زینب
+تکلم کہہ کے یہ بیٹی سے رخصت ہو گئے مولا
+ہم اب شامِ غریباں تم سے ملنے آئیں گے زینب
