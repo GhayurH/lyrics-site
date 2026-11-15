@@ -1,58 +1,59 @@
 ---
 title: "وارثِ چادرِ تطہیر ہے بنتِ زہرا"
-alternateTitle: "Warise Chadare Tatheer"
+alternateTitle: "Waaris-e-Chaadar-e-Tathir"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Tabligh-e-Imamia"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Warise chadare tatheer hai binte zehra
-  Baad shabbir ke shabbir hai binte zehra
+  Waaris-e-chaadar-e-tathir hai Bint-e-Zehra
+  Baad Shabbir ke Shabbir hai Bint-e-Zehra
 
   1
-  Fatema zehra si surat hai to seerat bhi wohi
+  Fatima Zehra si surat hai to sirat bhi wohi
   Zabt ka hausla aur sabr ki himmat bhi wohi
-  Wohi taqwa aur taharat hai ibadat hai wohi
-  Hai wohi lehja andaze khitabat bhi wohi
-  Deen ke unwaan ki taqreer hai binte zehra
+  Wohi taqwa aur tahaarat hai ibaadat hai wohi
+  Hai wohi lahja andaaz-e-khitaabat bhi wohi
+  Din ke unwaan ki taqrir hai Bint-e-Zehra
 
   2
-  Aaj bohtaan jo rakhte hai nabi zadi par
-  Unhi logon ne kiya jeena nabi ka doo bhar
-  Deen may aaye thay islam ka kalma padkar
-  Aur namoose payambar ko phiraya dar dar
-  Deene islam ki tauqeer hai binte zehra
+  Aaj bohtaan jo rakhte haiṅ Nabi zaadi par
+  Unhiṅ logoṅ ne kiya jina Nabi ka dubhar
+  Din mein aaye the Islaam ka kalma parh kar
+  Aur naamus-e-Paighambar ko phiraaya dar dar
+  Din-e-Islaam ki tauqir hai Bint-e-Zehra
 
   3
-  Mit gaye aale payambar ko mitane waale
-  Hashr tak zinda hai islam bachane waale
-  Is haqeeqat se hai waqif ye zamane waale
-  Sab se afzal hai mohamed ke gharane waale
-  Is gharane ki ek tasveer hai binte zehra
+  Mit gaye Aal-e-Paighambar ko mitaane waale
+  Hashr tak zinda haiṅ Islaam bachaane waale
+  Is haqiqat se haiṅ waaqif ye zamaane waale
+  Sab se afzal haiṅ Muhammad ke gharaane waale
+  Is gharaane ki ek tasvir hai Bint-e-Zehra
 
   4
-  Ehteraam unka rahe maahe moharam ki tarha
-  Naam uncha rahe abbas ke parcham ki tarha
-  Ye hamare liye hai sura e maryam ki tarha
-  Apni nazron may hai ye noore mujassam ki tarha
-  Paanch nooron ki ek tanveer hai binte zehra
+  Ehtiraam un ka rahe maah-e-Muharram ki tarah
+  Naam uncha rahe Abbaas ke parcham ki tarah
+  Ye hamaare liye hai sura-e-Maryam ki tarah
+  Apni nazroṅ mein hai ye nur-e-mujassam ki tarah
+  Paanch nuroṅ ki ek tanvir hai Bint-e-Zehra
 
   5
-  Be-rida hoke kiya deen e khuda ka parda
-  Inke kirdaar se hai sharm o haya ka parda
-  Naam zainab ka bana aale iba ka parda
-  Shaam may jaake utha karbobala ka parda
-  Gardane kufr par shamsheer hai binte zehra
+  Berida ho ke kiya din-e-Khuda ka parda
+  In ke kirdaar se hai sharm o haya ka parda
+  Naam Zainab ka bana Aal-e-Aba ka parda
+  Shaam mein jaa ke utha Karb o Bala ka parda
+  Gardan-e-kufr par shamshir hai Bint-e-Zehra
 
   6
-  Tauq o zanjeer may jakda hua bemaar chala
-  Noke naiza pe sare sayyede abrar chala
-  Bandh aankhon ko kiye farqe alamdar chala
-  Maa'on behno ko liye khafila salaar chala
-  Tarjumane ghame shabbir hai binte zehra
+  Tauq o zanjir mein jakra hua bimaar chala
+  Nok-e-naiza pe sar-e-Sayyid-e-Abraar chala
+  Bandh aankhoṅ ko kiye farq-e-Alamdaar chala
+  Maaoṅ behnoṅ ko liye qaafila saalaar chala
+  Tarjumaan-e-gham-e-Shabbir hai Bint-e-Zehra
 # source_id: nohayonline:a89a46a305e547acadc2
 # source_url: https://www.nohayonline.com/details_content.php?id=1043
 # raw_sha256: 2f54771dc4fe0a81026a03ad2c7dffe3108841e49ee97e3473e54041aa1b7287
@@ -69,13 +70,13 @@ romanLyrics: |-
 
 ۲
 آج بہتان جو رکھتے ہیں نبی زادی پر
-اُنہیں لوگوں نے کیا جینا نبی کا دو بھر
+اُنہی لوگوں نے کیا جینا نبی کا دوبھر
 دین میں آئے تھے اسلام کا کلمہ پڑھ کر
-اور ناموسِ پیعمبر کو پھرایا در در
+اور ناموسِ پیغمبر کو پھرایا در در
 دینِ اسلام کی توقیر ہے بنتِ زہرا
 
 ۳
-مٹ گئے آلِ پیعمبر کو مٹانے والے
+مٹ گئے آلِ پیغمبر کو مٹانے والے
 حشر تک زندہ ہیں اسلام بچانے والے
 اس حقیقت سے ہیں واقف یہ زمانے والے
 سب سے افضل ہیں محمد کے گھرانے والے
@@ -84,20 +85,20 @@ romanLyrics: |-
 ۴
 احترام اُن کا رہے ماہِ محرم کی طرح
 نام اونچا رہے عباس کے پرچم کی طرح
-یہ ہمارے لیئے ہے سورئہ مریم کی طرح
+یہ ہمارے لیے ہے سورۂ مریم کی طرح
 اپنی نظروں میں ہے یہ نورِ مجسم کی طرح
 پانچ نوروں کی ایک تنویر ہے بنتِ زہرا
 
 ۵
-بے ردا ہو کہ کیا دینِ خُدا کا پردہ
+بے ردا ہو کے کیا دینِ خُدا کا پردہ
 ان کے کردار سے ہے شرم و حیا کا پردہ
 نام زینب کا بنا آلِ عبا کا پردہ
-شام میں جا کہ اُٹھا کرب و بلا کا پردہ
+شام میں جا کے اُٹھا کرب و بلا کا پردہ
 گردنِ کفر پر شمشیر ہے بنتِ زہرا
 
 ۶
 طوق و زنجیر میں جکڑا ہوا بیمار چلا
 نوکِ نیزہ پہ سرِ سیدِ ابرار چلا
-بندھ آنکھوں کو کیئے فرقِ علمدار چلا
-مائوں بہنوں کو لیئے قافلہ سالار چلا
+بندھ آنکھوں کو کیے فرقِ علمدار چلا
+ماؤں بہنوں کو لیے قافلہ سالار چلا
 ترجمانِ غمِ شبیر ہے بنتِ زہرا

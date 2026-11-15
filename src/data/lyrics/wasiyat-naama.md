@@ -6,80 +6,81 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
+reciter: "Ameer Hasan Aamir"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  So jaate thay sukoon se bistar pe ahle shaam
-  Ek bacchi roti rehti thi zindan ki khaak par
-  Baba bulaane aagaye ek shab jo khwab mein
-  Kehne lagi wo qaid mein abid se chaunk kar
+  So jaate the sukun se bistar pe ahl-e-Shaam
+  Ek bachchi roti rehti thi zindaaṅ ki khaak par
+  Baba bulaane aa gaye ek shab jo khwaab mein
+  Kahne lagi woh qaid mein Aabid se chauṅk kar
 
   1
-  Isi zindan mein banana meri turbat bhaiya
-  Ki sakina ne ye abid se wasiyat bhaiya
+  Isi zindaaṅ mein banaana meri turbat bhaiya
+  Ki Sakina ne ye Aabid se wasiyat bhaiya
 
   2
-  Chaahti hoon mai jahan so'un wo mitti nam ho
-  Tashnagi ki wo aziyat hai zara si kam ho
-  Haddiyon tak mein hai wo pyaas ki shiddat bhaiya
+  Chaahti huṅ main jahaaṅ souṅ woh mitti nam ho
+  Tishnagi ki woh aziyat hai zara si kam ho
+  Haddiyoṅ tak mein hai woh pyaas ki shiddat bhaiya
 
   3
-  Qaid mein baba ka sar aaya magar laash nahi
-  Laash par ban mein mai pahunchi to sar tha aur kahin
-  Na hui poori mulaqat ki chaahat bhaiya
+  Qaid mein Baba ka sar aaya magar laash nahiṅ
+  Laash par ban mein main pahuṅchi to sar tha aur kahiṅ
+  Na hui puri mulaaqaat ki chaahat bhaiya
 
   4
-  Tum ko maloom hai wo dard ki shiddat meri
-  Dar e zindan pe parindo ko mai jab dekhti thi
-  Aur bad jaaati thi ghar jaane ki hasrat bhaiya
+  Tum ko maalum hai woh dard ki shiddat meri
+  Dar-e-zindaaṅ pe parindoṅ ko main jab dekhti thi
+  Aur barh jaati thi ghar jaane ki hasrat bhaiya
 
   5
-  Tum agar paana meri baaliyan meri chadar
-  Meri sughra ko wo de dena madine jaa kar
-  Bhool payegi na wo meri mohabbat bhaiya
+  Tum agar paana meri baaliyaaṅ meri chaadar
+  Meri Sughra ko woh de dena Madine jaa kar
+  Bhul paayegi na woh meri mohabbat bhaiya
 
   6
-  Jaa ke batlana mere fazl se roodad meri
-  Choti dadi se bhi keh dena ye uftaad meri
-  Kis tarha tu ne uthayi meri mayyat bhaiya
+  Jaa ke batlaana mere Fazl se rudaad meri
+  Chhoti daadi se bhi kah dena ye uftaad meri
+  Kis tarah tu ne uthaai meri mayyat bhaiya
 
   7
-  Tum se pooche meri humjoliyan jab haal mera
-  Un se batlana ke rassi mein that jab mera gala
-  Kis tarha jhel rahi thi mai aziyyat bhaiya
+  Tum se puchhe meri hamjoliyaaṅ jab haal mera
+  Un se batlaana ke rassi mein tha jab mera gala
+  Kis tarah jhel rahi thi main aziyat bhaiya
 
   8
-  Jaa ke tum ahle watan se mere keh dena salaam
-  Phir bayan karna jo toote hai sitam mujhpe tamaam
-  Mera gham meri aseeri meri ghurbat bhaiya
+  Jaa ke tum ahl-e-watan se mere kah dena salaam
+  Phir bayaaṅ karna jo tute haiṅ sitam mujh pe tamaam
+  Mera gham meri asiri meri ghurbat bhaiya
 
   9
-  Kehna ye meri phupi se ke wo jaldi aaye
-  Amma fizza ko bhi wo saath mein apne laaye
-  Karbala jaisi hi ho shaam ki surat bhaiya
+  Kahna ye meri phuphi se ke woh jaldi aaye
+  Amma Fizza ko bhi woh saath mein apne laaye
+  Karbala jaisi hi ho Shaam ki surat bhaiya
 
   10
-  Khoon bhare kurte mein tum dafn mujhe kar dena
-  Haan magar shaam ke haakim se kafan mat lena
-  Mai bhi kuch kam to nahi saahibe ghairat bhaiya
+  Khuṅ bhare kurte mein tum dafn mujhe kar dena
+  Haaṅ magar Shaam ke haakim se kafan mat lena
+  Main bhi kuchh kam to nahiṅ saahib-e-ghairat bhaiya
 
   11
-  Kaise khologe bandhe haathon se gardan ki rasan
-  Haye kis tarha se doge mujhe ghusl o kafan
-  Mai bhi zakhmi hoon tumhe bhi hai naqahat bhaiya
+  Kaise khologe bandhe haathoṅ se gardan ki rasan
+  Haaye kis tarah se doge mujhe ghusl o kafan
+  Main bhi zakhmi huṅ tumheiṅ bhi hai naqaahat bhaiya
 
   12
-  Tum dua karna yehi aamir o nayyar ke liye
-  Unko allah har ek ranj se mehfooz rakhe
-  Shaam tak aate hai jo behre ziyarat bhaiya
+  Tum dua karna yahi Aamir o Nayyar ke liye
+  Un ko Allah har ek ranj se mahfuz rakhe
+  Shaam tak aate haiṅ jo bahr-e-ziyaarat bhaiya
 # source_id: nohayonline:5e0d70133aa306cfca34
 # source_url: https://www.nohayonline.com/details_content.php?id=3121
 # raw_sha256: 2d995328dacb01f9056b624910cd66e5b19a027c4e75ff151cacf3a68f47256e
 ---
 سو جاتے تھے سکون سے بستر پہ اہل شام
 اک بچی روتی رہتی تھی زنداں کی خاک پر
-بابا بلانے آ گےء ایک شب جو خواب میں
+بابا بلانے آ گئے ایک شب جو خواب میں
 کہنے لگی وہ قید میں عابد سے چونک کر
 
 ۱
@@ -88,7 +89,7 @@ romanLyrics: |-
 
 ۲
 چاہتی ہوں میں جہاں سوؤں وہ مٹی نم ہو
-تشنگی کی وہ اذیت ہے زرا سی کم ہو
+تشنگی کی وہ اذیت ہے ذرا سی کم ہو
 ہڈیوں تک میں ہے وہ پیاس کی شدت بھیا
 
 ۳
@@ -104,12 +105,12 @@ romanLyrics: |-
 ۵
 تم اگر پانا میری بالیاں میری چادر
 میری صغرا کو وہ دے دینا مدینے جا کر
-بھول پاے گی نہ وہ میری محبت بھیا
+بھول پائے گی نہ وہ میری محبت بھیا
 
 ۶
 جا کے بتلانا میرے فضل سے روداد میری
 چھوٹی دادی سے بھی کہہ دینا یہ افتاد میری
-کس طرح تو نے اٹھای میری میت بھیا
+کس طرح تو نے اٹھائی میری میت بھیا
 
 ۷
 تم سے پوچھے میری ہم جولیاں جب حال میرا
@@ -122,8 +123,8 @@ romanLyrics: |-
 میرا غم میری اسیری میری غربت بھیا
 
 ۹
-کہنا یہ میری پھپھی سے کہ وہ جلدی آے
-اماں فضہ کو بھی وہ ساتھ میں اپنے لاے
+کہنا یہ میری پھپھی سے کہ وہ جلدی آئے
+اماں فضہ کو بھی وہ ساتھ میں اپنے لائے
 کربلا جیسی ہی ہو شام کی صورت بھیا
 
 ۱۰
@@ -133,10 +134,10 @@ romanLyrics: |-
 
 ۱۱
 کیسے کھولو گے بندھے ہاتھوں سے گردن کی رسن
-ہاے کس طرح سے دو گے مجھے غسل و کفن
+ہائے کس طرح سے دو گے مجھے غسل و کفن
 میں بھی زخمی ہوں تمہیں بھی ہے نقاہت بھیا
 
 ۱۲
-تم دعا یہی عامر و نیر کے لئے
+تم دعا کرنا یہی عامر و نیر کے لئے
 ان کو اللہ ہر ایک رنج سے محفوظ رکھے
 شام تک آتے ہیں جو بہر زیارت بھیا

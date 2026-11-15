@@ -1,104 +1,107 @@
 ---
 title: "شب عاشور یہ شبیر نے کہا زینب سے"
-alternateTitle: "Wasiyate Imam Husain"
+alternateTitle: "Wasiyat-e-Imam Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Shahid Baltistani"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Shabe ashoor ye shabbir ne kaha zainab se
-  Ay behen zainab ay behen zainab
-  Bhai ki laash pe maqtal mein jo aana zainab
-  Ho sake to meri bacchi ko na laana zainab
+  Shab-e-Aashur ye Shabbir ne kaha Zainab se
+  Ae behen Zainab ae behen Zainab
+
+  Bhai ki laash pe maqtal mein jo aana Zainab
+  Ho sake to meri bachchi ko na laana Zainab
 
   1
-  Baap se beti to maa bete se hoti hai khareeb
-  Maa ko mazloomi sunayega tumhari ye ghareeb
-  Tum ghareebi meri baba ko sunana zainab
+  Baap se beti to maaṅ bete se hoti hai qarib
+  Maaṅ ko mazlumi sunaayega tumhaari ye gharib
+  Tum gharibi meri Baba ko sunaana Zainab
 
   2
-  Kal se baaghi ki behen tumko kaha jayega
-  Taaziyano se tumhe pursa diya jayega
-  Badle lega mere tumse ye zamana zainab
+  Kal se baaghi ki behen tum ko kaha jaayega
+  Taaziyaanoṅ se tumheiṅ pursa diya jaayega
+  Badle lega mere tum se ye zamaana Zainab
 
   3
-  Raat mein uth'te hai is dar ke janaze bibi
-  Sar se chadar jo chini tum bhi to mar jaaogi
-  Tum andhere mein mere laashe pe aana zainab
+  Raat mein uthte haiṅ is dar ke janaaze Bibi
+  Sar se chaadar jo chhini tum bhi to mar jaaogi
+  Tum andhere mein mere laashe pe aana Zainab
 
   4
-  Shimr jis waqt chalaye meri gardan pe churi
-  Zibha hote huwe baba ko na dekhe beti
-  Dar e qaima se sakina ko hatana zainab
+  Shimr jis waqt chalaaye meri gardan pe chhuri
+  Zabh hote hue Baba ko na dekhe beti
+  Dar-e-khaima se Sakina ko hataana Zainab
 
   5
-  Kahin abbas na sunle meri baatein ye behen
-  Haath wo choomlun bandh jayegi kal jin mein rasan
-  Zara kuch dayr charagho ko bujhana zainab
+  Kahiṅ Abbaas na sun le meri baateiṅ ye behen
+  Haath woh chum luṅ bandh jaayegi kal jin mein rasan
+  Zara kuchh der charaaghoṅ ko bujhaana Zainab
 
   6
-  Poora abbas ki madar ka ho armaan behen
-  Pani pyason ko jo pilwaogi tum jaa ke watan
-  Saqqa abbas ke bete ko banana zainab
+  Pura Abbaas ki maadar ka ho armaan behen
+  Paani pyaasoṅ ko jo pilwaaogi tum jaa ke watan
+  Saqqa Abbaas ke bete ko banaana Zainab
 
   7
-  Ek ehsan ye karna ay mere baba ki jaan
-  Is baras aaye madine mein jo gyara shaban
-  Farshe majlis ali akbar ka bichana zainab
+  Ek ehsaan ye karna ae mere Baba ki jaaṅ
+  Is baras aaye Madine mein jo gyaarah Shaabaan
+  Farsh-e-majlis Ali Akbar ka bichhaana Zainab
 
   8
-  Shabe ashoor ki majlis thi takallum jaari
-  Chup huwe kehke ye shabbir behen se apni
-  Tumko bazaar mein beparda hai jaana zainab
+  Shab-e-Aashur ki majlis thi Takallum jaari
+  Chup hue kah ke ye Shabbir behen se apni
+  Tum ko baazaar mein beparda hai jaana Zainab
 # source_id: nohayonline:2b7ef7e82bf515462e25
 # source_url: https://www.nohayonline.com/details_content.php?id=2841
 # raw_sha256: 74e9c6c8e4cb795969150829ccaacd5d6097cec7e68ccb5e21aeee301f22ff22
 ---
 شب عاشور یہ شبیر نے کہا زینب سے
 اے بہن زینب اے بہن زینب
-بھای کی لاش پہ مقتل میں جو آنا زینب
+
+بھائی کی لاش پہ مقتل میں جو آنا زینب
 ہو سکے تو میری بچی کو نہ لانا زینب
 
 ۱
 باپ سے بیٹی تو ماں بیٹے سے ہوتی ہے قریب
-ماں کو مظلومی سناے گا تمہاری یہ غریب
+ماں کو مظلومی سنائے گا تمہاری یہ غریب
 تم غریبی میری بابا کو سنانا زینب
 
 ۲
-کل سے باغی کی بہن تم کو کہا جاے گا
+کل سے باغی کی بہن تم کو کہا جائے گا
 تازیانوں سے تمہیں پرسہ دیا جائے گا
 بدلے لے گا میرے تم سے یہ زمانہ زینب
 
 ۳
-رات میں اٹھتے ہیں اس در کے جنازے بی بی
+رات میں اٹھتے ہیں اس در کے جنازے بی‌بی
 سر سے چادر جو چھنی تم بھی تو مر جاؤ گی
 تم اندھیرے میں میرے لاشے پہ آنا زینب
 
 ۴
-شمر جس وقت چلاے میری گردن پہ چھری
+شمر جس وقت چلائے میری گردن پہ چھری
 ذبح ہوتے ہوئے بابا کو نہ دیکھے بیٹی
 در خیمہ سے سکینہ کو ہٹانا زینب
 
 ۵
 کہیں عباس نہ سن لے میری باتیں یہ بہن
-ہاتھ وہ چوم لوں بندھ جاے گی کل جن میں رسن
-زرا کچھ دیر چراغوں کو بجھانا زینب
+ہاتھ وہ چوم لوں بندھ جائے گی کل جن میں رسن
+ذرا کچھ دیر چراغوں کو بجھانا زینب
 
 ۶
 پورا عباس کی مادر کا ہو ارمان بہن
-پانی پیاسوں کو جو پلواو گی تم جا کی وطن
+پانی پیاسوں کو جو پلواؤ گی تم جا کے وطن
 سقہ عباس کے بیٹے کو بنانا زینب
 
 ۷
-ایک احساس یہ کرنا اے میرے بابا کی جاں
-اس برس آے مدینے میں جو گیارہ شعبان
+ایک احسان یہ کرنا اے میرے بابا کی جاں
+اس برس آئے مدینے میں جو گیارہ شعبان
 فرش مجلس علی اکبر کا بچھانا زینب
 
 ۸
 شب عاشور کی مجلس تھی تکلم جاری
-چپ ہوے کہہ کے یہ شبیر بہن سے اپنی
+چپ ہوئے کہہ کے یہ شبیر بہن سے اپنی
 تم کو بازار میں بے پردہ ہے جانا زینب

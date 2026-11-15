@@ -3585,9 +3585,9 @@ src/data/lyrics/waqar-e-deen-e-khuda-hai-hussain-ka-matam.md,standalone_lyrics,i
 src/data/lyrics/waqt-e-zahoor.md,standalone_lyrics,imported,tajpoints,pending,partial_review,partial_review,reviewed,not_applicable,reviewed,editorial-only-first-sweep-2026-11-14,,"Need Urdu poster/audio: s2 ""Dil-o-Nazar Se Keh Samarra Se""; s4 ""Woh Aane Wala Tha Aa Chuka Hai"". Confirm wording before revising these source readings."
 src/data/lyrics/waqte-aakhir-ye.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,editorial-only-first-sweep-2026-11-14,,
 src/data/lyrics/waqte-ruqsat-baap-ko.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,editorial-only-first-sweep-2026-11-14,,"Need audio/print: opening second verse ""imtehaan-e-sabr"" (Roman) vs ""intihaaye sabr"" (both archived Urdu editions)."
-src/data/lyrics/warise-chadare-tatheer.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/wasiyat-naama.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
-src/data/lyrics/wasiyate-imam-husain.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
+src/data/lyrics/warise-chadare-tatheer.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,editorial-only-first-sweep-2026-11-14,,"Need audio/print: s6 ""بندھ آنکھوں کو کیے فرقِ علمدار چلا""; confirm wording and pronunciation."
+src/data/lyrics/wasiyat-naama.md,standalone_lyrics,imported,nohayonline,pending,reviewed,reviewed,reviewed,verified,reviewed,editorial-only-first-sweep-2026-11-14,,
+src/data/lyrics/wasiyate-imam-husain.md,standalone_lyrics,imported,nohayonline,pending,partial_review,partial_review,reviewed,verified,reviewed,editorial-only-first-sweep-2026-11-14,,"Need audio/print: s1 ""ماں کو مظلومی سنائے گا تمہاری یہ غریب""; s3 ""اس در کے جنازے"". Confirm source wording."
 src/data/lyrics/watan-chalo-amma.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/watan-ki-yaad.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
 src/data/lyrics/watan-mai-aagayi.md,standalone_lyrics,imported,unclassified,pending,pending,pending,pending,await_source_classification,pending,,,
