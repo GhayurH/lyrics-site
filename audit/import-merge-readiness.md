@@ -8,13 +8,20 @@ Only standalone lyric content, the recitation identity registry (only existing `
 
 The single `audit/lyric-md-rounds.csv` records all original and imported source paths. Do not split or replace this register for round two: append the chore-branch files using `round_2`, preserving rows for merged or rejected candidates.
 
-- Original `main` lyric Markdown: **129** (preserve existing IDs and editorial authority).
+- Original `main` lyric Markdown cohort: **129**; **128 active** and one removed original whose published ID stays retired.
 - Round-one imported candidates: **3,309**.
-- Round-one active files: **3,305**; one duplicate was consolidated, three additional duplicates deleted, and a surviving poem renamed.
-- Total active standalone lyric Markdown files: **3,434**.
+- Round-one active files: **3,295**; one consolidated duplicate, thirteen other round-one files deleted across manual passes, and one surviving poem renamed.
+- Total active standalone lyric Markdown files: **3,423**.
 - Former `ana-ibne-makkah.md`: status `consolidated` in the CSV, merged into the survivor now named `ana-ibn-e-makka-o-mina.md`. The better complete notebook Urdu/Roman text (14 substantive stanzas) was retained. Its distinct NoHayOnline source ID, URL, poet, reciter, alternate title and source-specific chant are documented in the survivor. The redundant segmented copy had 25 Roman versus 21 Urdu segments.
 
-The original `audit/manual-md-review-tracker.csv` also records these three deletions and the rename, preserving both pre- and post-rename review history; `audit/lyric-md-rounds.csv` marks the three deleted paths `removed_duplicate`, the previously consolidated source `consolidated`, the old filename `renamed`, and the new filename `present`.
+The original `audit/manual-md-review-tracker.csv` records all thirteen round-one deletions, the retired original, and the rename, preserving prior review history; `audit/lyric-md-rounds.csv` marks the three deleted paths `removed_duplicate`, the previously consolidated source `consolidated`, the old filename `renamed`, and the new filename `present`.
+
+## Latest deletion and Basta review (2026-11-15)
+
+- Ten newly deleted round-one lyrics had their **unmerged provisional IDs purged**, including the custom ID `muhammad-e-baqir-sibt-e-jafar`.
+- `zahoor-ka-waqt-aa-gaya-hai.md` was an existing `main` lyric: its published ID is **retired rather than purged** after removing the standalone file in favor of Basta 388-389.
+- The user edited Basta pages **363, 380, 381, 388, 389, 391**. An independent catalog comparison found ten affected Basta kalams, all with **zero individually locked stanzas**, so no stanza IDs or Basta kalam IDs need changing. All Basta identity-lock records remain identical to `main`. The Basta index titles are synchronized to the edited Urdu/Roman pages, including the individually verified Muhammad-e-Baqir title on page 381; index section numbers and printed page assignments are unchanged.
+- Both existing CSV trackers retain all removed paths as historical review records and preserve provenance, prior review notes, and the distinction between original and round-one source files.
 
 ## Metadata and stanza preparation
 
@@ -29,7 +36,7 @@ The original `audit/manual-md-review-tracker.csv` also records these three delet
 
 ## Recitation and routing
 
-The **129 identities inherited from `main` are permanent**. The identities assigned to this branch's unmerged imports are **provisional until merge/deployment**: deletion or rename before merge removes the old provisional ID outright, rather than registering a retirement. On 2026-11-15, commit [`405785b`](https://github.com/GhayurH/lyrics-site/commit/405785b276a11e2e1b2cc879f721b137a922f962) purged five stale provisional records: `ana-ibne-makkah` (previously incorrectly retired), `abid-ko-dawa-aur`, `abid-na-kabhi-ranj`, `ay-ahle-aza`, and `bayaan-karta-hun-darbar-e-shaam-ka-manzar`. The renamed survivor `ana-ibn-e-makka-o-mina.md` received its **new** explicit `recitationId: ana-ibn-e-makka-o-mina`. The lock now has **3,434 active lyric IDs**, exactly matching the current Markdown corpus. No `main` IDs or Basta identities were changed. The recitation identity script's `--check` passed; it validates the *current* lock, not the pre-merge immutability policy, so future import removals or renames must also update the lock before merging.
+The **129 identities inherited from `main` are permanent**. The identities assigned to this branch's unmerged imports are **provisional until merge/deployment**: deletion or rename before merge removes the old provisional ID outright, rather than registering a retirement. On 2026-11-15, commit [`405785b`](https://github.com/GhayurH/lyrics-site/commit/405785b276a11e2e1b2cc879f721b137a922f962) purged five stale provisional records: `ana-ibne-makkah` (previously incorrectly retired), `abid-ko-dawa-aur`, `abid-na-kabhi-ranj`, `ay-ahle-aza`, and `bayaan-karta-hun-darbar-e-shaam-ka-manzar`. The renamed survivor `ana-ibn-e-makka-o-mina.md` received its **new** explicit `recitationId: ana-ibn-e-makka-o-mina`. The lock now contains **3,423 active lyric IDs** plus **one retired published ID from `main`**. No surviving original `main` IDs or Basta identities were changed. The recitation identity script's `--check` passed; it validates the *current* lock, not the pre-merge immutability policy, so future import removals or renames must also update the lock before merging.
 
 The two duplicate *search alias* pairs were checked against actual Urdu text and source credits and are **different poems**, not duplicate routes: `hussain-o-minni` versus `hussaino-minni`, and `shaam-e-ghariban` versus `shaame-ghariban`. Their filename-based URLs and separate recitation IDs are distinct. No literal source URL duplicate was identified in the initial provenance scan.
 

@@ -2198,10 +2198,6 @@
       "path": "ay-chacha-mai-tera.md"
     },
     {
-      "id": "ay-chand-karbala-ke",
-      "path": "ay-chand-karbala-ke.md"
-    },
-    {
       "id": "ay-dariya",
       "path": "ay-dariya.md"
     },
@@ -2268,10 +2264,6 @@
     {
       "id": "ay-jaan-sakina",
       "path": "ay-jaan-sakina.md"
-    },
-    {
-      "id": "ay-jannatul-baqia",
-      "path": "ay-jannatul-baqia.md"
     },
     {
       "id": "ay-jaun-bhai-ho-tum",
@@ -6298,14 +6290,6 @@
       "path": "jab-huwe-abbas-ke.md"
     },
     {
-      "id": "jab-imam-aayenge",
-      "path": "jab-imam-aayenge.md"
-    },
-    {
-      "id": "jab-imam-ayenge",
-      "path": "jab-imam-ayenge.md"
-    },
-    {
       "id": "jab-kat-gaye",
       "path": "jab-kat-gaye.md"
     },
@@ -6702,10 +6686,6 @@
       "path": "jisne-sajda-kiya.md"
     },
     {
-      "id": "jissay-nisbat-nahi-aal-e-nabi-se",
-      "path": "jissay-nisbat-nahi-aal-e-nabi-se.md"
-    },
-    {
       "id": "jiyo-matamdaro",
       "path": "jiyo-matamdaro.md"
     },
@@ -6764,10 +6744,6 @@
     {
       "id": "jo-tu-raazi",
       "path": "jo-tu-raazi.md"
-    },
-    {
-      "id": "jo-zair-e-kissa-parwaan-charhe-zainab-aisi-hasti-hai",
-      "path": "jo-zair-e-kissa-parwaan-charhe-zainab-aisi-hasti-hai.md"
     },
     {
       "id": "juda-na-karo-mujhe",
@@ -7748,10 +7724,6 @@
     {
       "id": "koi-pooche-jo-wafa",
       "path": "koi-pooche-jo-wafa.md"
-    },
-    {
-      "id": "kon-kehta-hai-mujhe-shan-e-sikandar-de-de",
-      "path": "kon-kehta-hai-mujhe-shan-e-sikandar-de-de.md"
     },
     {
       "id": "koun-o-makan-may",
@@ -9244,10 +9216,6 @@
     {
       "id": "mud-mud-ke-mujhe",
       "path": "mud-mud-ke-mujhe.md"
-    },
-    {
-      "id": "muhammad-e-baqir-sibt-e-jafar",
-      "path": "muhammad-e-baqir.md"
     },
     {
       "id": "mujhe-abbas-kehte",
@@ -12446,10 +12414,6 @@
       "path": "waqar-e-deen-e-khuda-hai-hussain-ka-matam.md"
     },
     {
-      "id": "waqt-e-zahoor",
-      "path": "waqt-e-zahoor.md"
-    },
-    {
       "id": "waqte-aakhir-ye",
       "path": "waqte-aakhir-ye.md"
     },
@@ -13183,7 +13147,8 @@
     },
     {
       "id": "zahoor-ka-waqt-aa-gaya-hai",
-      "path": "zahoor-ka-waqt-aa-gaya-hai.md"
+      "path": "zahoor-ka-waqt-aa-gaya-hai.md",
+      "retired": true
     },
     {
       "id": "zahra-ke-dar-ki-nukari",
@@ -13196,10 +13161,6 @@
     {
       "id": "zahra-utho-utho",
       "path": "zahra-utho-utho.md"
-    },
-    {
-      "id": "zainab-aisi-hasti-hai",
-      "path": "zainab-aisi-hasti-hai.md"
     },
     {
       "id": "zainab-ali-akbar-ke",

@@ -553,7 +553,7 @@ src/data/lyrics/ay-bekaso-muztar.md,round_1,present,nohayonline,nohayonline:b7fa
 src/data/lyrics/ay-bhai-hussaina.md,round_1,present,nohayonline,nohayonline:674e4c8bfa8b13f8bdc6,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ay-bhaiya-abbas.md,round_1,present,nohayonline,nohayonline:ca8f83172b57bf912b69,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ay-chacha-mai-tera.md,round_1,present,nohayonline,nohayonline:38d5a9a95967f14e60cd,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/ay-chand-karbala-ke.md,round_1,present,nohayonline;ziyaraat,nohayonline:ee06a37f8b837e5b960d;ziyaraat:55b75ee43c31c4976444,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/ay-chand-karbala-ke.md,round_1,removed_duplicate,nohayonline;ziyaraat,nohayonline:ee06a37f8b837e5b960d;ziyaraat:55b75ee43c31c4976444,feat/import-overlap-reconciliation-2026-11-05,Manual duplicate removal 2026-11-15; unpublished recitation ID purged; retained Basta page 138.
 src/data/lyrics/ay-dariya.md,round_1,present,nohayonline,nohayonline:53fb999793a463c8d11b,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ay-doston-kami-na.md,round_1,present,nohayonline,nohayonline:dd80f1da89931f727ba7,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ay-fatahe-karbobala.md,round_1,present,nohayonline,nohayonline:5ecdf4affe705d63ec68,feat/import-overlap-reconciliation-2026-11-05,
@@ -571,7 +571,7 @@ src/data/lyrics/ay-hussain-ki-pyari.md,round_1,present,nohayonline,nohayonline:d
 src/data/lyrics/ay-hussaine-bekas.md,round_1,present,nohayonline,nohayonline:654925657c3c1d909722,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ay-imame-raza.md,round_1,present,nohayonline,nohayonline:ab688070648d3a735c90,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ay-jaan-sakina.md,round_1,present,nohayonline;ziyaraat,nohayonline:1c435d35b38305aa041a;ziyaraat:f528c039cda0dc053b61,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/ay-jannatul-baqia.md,round_1,present,nohayonline,nohayonline:dcf898e145a7b9d639da,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/ay-jannatul-baqia.md,round_1,removed_duplicate,nohayonline,nohayonline:dcf898e145a7b9d639da,feat/import-overlap-reconciliation-2026-11-05,Manual duplicate removal 2026-11-15; unpublished recitation ID purged; retained Basta pages 420-421.
 src/data/lyrics/ay-jaun-bhai-ho-tum.md,round_1,present,nohayonline,nohayonline:c5ddb2da48d7ccd0ce9c,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ay-karbala-ay-karbala.md,round_1,present,nohayonline,nohayonline:7a7d95ab9d6ecab3af74,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ay-karbala-mein-haq.md,round_1,present,nohayonline,nohayonline:90498c42c113c330f651,feat/import-overlap-reconciliation-2026-11-05,
@@ -1578,8 +1578,8 @@ src/data/lyrics/jab-hukme-rehai-mila.md,round_1,present,nohayonline,nohayonline:
 src/data/lyrics/jab-hum-ne-suni.md,round_1,present,nohayonline,nohayonline:66f8655c2541e4a28f2a,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jab-hurr-ka-gunah.md,round_1,present,nohayonline,nohayonline:fe43ca1be9ccb30f0840,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jab-huwe-abbas-ke.md,round_1,present,nohayonline,nohayonline:5dfbbf277d9962fc278e,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/jab-imam-aayenge.md,round_1,present,tajpoints,tajpoints:7be24fc3945646568ac4,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/jab-imam-ayenge.md,round_1,present,tajpoints,tajpoints:74b0e291e13c9b2ac490;tajpoints:763d9f22a8eca86eb0d7,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/jab-imam-aayenge.md,round_1,removed_duplicate,tajpoints,tajpoints:7be24fc3945646568ac4,feat/import-overlap-reconciliation-2026-11-05,Manual duplicate removal 2026-11-15; unpublished recitation ID purged.
+src/data/lyrics/jab-imam-ayenge.md,round_1,removed_duplicate,tajpoints,tajpoints:74b0e291e13c9b2ac490;tajpoints:763d9f22a8eca86eb0d7,feat/import-overlap-reconciliation-2026-11-05,Manual duplicate removal 2026-11-15; unpublished recitation ID purged.
 src/data/lyrics/jab-kat-gaye.md,round_1,present,nohayonline,nohayonline:83e20efa6b1cb855fd16,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jab-khatema-ba-qair.md,round_1,present,nohayonline,nohayonline:8567494729f72c40d727,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jab-kiya-jayega.md,round_1,present,nohayonline,nohayonline:c15e957c4af7011f8d64,feat/import-overlap-reconciliation-2026-11-05,
@@ -1679,7 +1679,7 @@ src/data/lyrics/jisko-kehte-hai.md,round_1,present,nohayonline,nohayonline:ccd61
 src/data/lyrics/jism-mazoor-hai.md,round_1,present,nohayonline,nohayonline:674c63fb1c41dce2032e,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jisne-jaise-chaha.md,round_1,present,nohayonline,nohayonline:ba85d5f1b814d5bf55ce,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jisne-sajda-kiya.md,round_1,present,nohayonline,nohayonline:d8c089130e03751ee481,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/jissay-nisbat-nahi-aal-e-nabi-se.md,round_1,present,tajpoints,tajpoints:ed33bb373be4534fa0f8,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/jissay-nisbat-nahi-aal-e-nabi-se.md,round_1,removed_duplicate,tajpoints,tajpoints:ed33bb373be4534fa0f8,feat/import-overlap-reconciliation-2026-11-05,Manual duplicate removal 2026-11-15; unpublished recitation ID purged; retained Basta page 380.
 src/data/lyrics/jiyo-matamdaro.md,round_1,present,nohayonline,nohayonline:02563fbb41a0f02b9403;nohayonline:da48d5fa5ea49cf084cf,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jo-bandagane-khuda.md,round_1,present,nohayonline,nohayonline:a6ca783789f7d7cffcae,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jo-bijli-tayghe-hyder.md,round_1,present,nohayonline,nohayonline:2fe3f0ca54f71025b826,feat/import-overlap-reconciliation-2026-11-05,
@@ -1695,7 +1695,7 @@ src/data/lyrics/jo-shaamile-bazme.md,round_1,present,nohayonline,nohayonline:dc5
 src/data/lyrics/jo-tere-dil-mein-wilaye-abu-turab-nahi.md,round_1,present,tajpoints,tajpoints:30e87115844e6a60efe3,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jo-tha-batool-ka.md,round_1,present,nohayonline,nohayonline:5870f94e88a7689940a2,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jo-tu-raazi.md,round_1,present,nohayonline,nohayonline:6f66d1a328c2e2070960,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/jo-zair-e-kissa-parwaan-charhe-zainab-aisi-hasti-hai.md,round_1,present,tajpoints,tajpoints:e9d8a429b762ba2b276b,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/jo-zair-e-kissa-parwaan-charhe-zainab-aisi-hasti-hai.md,round_1,removed_duplicate,tajpoints,tajpoints:e9d8a429b762ba2b276b,feat/import-overlap-reconciliation-2026-11-05,Manual duplicate removal 2026-11-15; unpublished recitation ID purged; retained Basta page 391.
 src/data/lyrics/juda-na-karo-mujhe.md,round_1,present,nohayonline,nohayonline:d87d91fc488df7139550,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jurrat-ke-qabile-ka-sardar-ali-mola.md,original,present,,,main,
 src/data/lyrics/juz-panjetan-kisi-se.md,round_1,present,nohayonline,nohayonline:113553f0e0ce22d676b8,feat/import-overlap-reconciliation-2026-11-05,
@@ -1941,7 +1941,7 @@ src/data/lyrics/koi-misle-shahe.md,round_1,present,nohayonline,nohayonline:acd4e
 src/data/lyrics/koi-nabi-nahi-hai-mere-mustafa-ke-bad.md,round_1,present,tajpoints,tajpoints:0d38e3b197b93f55467a,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/koi-nai-hussain-ka.md,round_1,present,nohayonline,nohayonline:5a0f9a968ed67e86b433,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/koi-pooche-jo-wafa.md,round_1,present,nohayonline,nohayonline:c26ddf29a1967935a814,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/kon-kehta-hai-mujhe-shan-e-sikandar-de-de.md,round_1,present,tajpoints,tajpoints:482aead98550d7c37b93,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/kon-kehta-hai-mujhe-shan-e-sikandar-de-de.md,round_1,removed_duplicate,tajpoints,tajpoints:482aead98550d7c37b93,feat/import-overlap-reconciliation-2026-11-05,Manual duplicate removal 2026-11-15; unpublished recitation ID purged; retained Basta page 363.
 src/data/lyrics/koun-o-makan-may.md,round_1,present,nohayonline,nohayonline:84ab34308e22793f89cb,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/kubra-ne-kaha.md,round_1,present,nohayonline,nohayonline:62928d2c8e43f8c2a967,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/kufa-udaas-hogaya.md,round_1,present,nohayonline,nohayonline:262a933acff6ce3f9da6,feat/import-overlap-reconciliation-2026-11-05,
@@ -2316,7 +2316,7 @@ src/data/lyrics/momino-hydere.md,round_1,present,nohayonline,nohayonline:3d3f961
 src/data/lyrics/momino-sibte-payambar.md,round_1,present,nohayonline,nohayonline:01e5483e1b67eb80ce28,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/more-bhaag-suhag.md,round_1,present,nohayonline,nohayonline:7bd0ff97bf089114df62,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/mud-mud-ke-mujhe.md,round_1,present,nohayonline,nohayonline:373f30f5a10d821155ef,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/muhammad-e-baqir.md,round_1,present,tajpoints,tajpoints:52e48761aa8ef67efb98,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/muhammad-e-baqir.md,round_1,removed_duplicate,tajpoints,tajpoints:52e48761aa8ef67efb98,feat/import-overlap-reconciliation-2026-11-05,Manual duplicate removal 2026-11-15; unpublished recitation ID purged; retained Basta page 381.
 src/data/lyrics/mujhe-abbas-kehte.md,round_1,present,nohayonline,nohayonline:ba9aea8873ed9eec384f,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/mujhe-baba-ka-sar.md,round_1,present,nohayonline;ziyaraat,nohayonline:efb6182e16e0dd4420b1;ziyaraat:c3800d208ffccce9bc06,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/mujhe-bhi-watan-le.md,round_1,present,nohayonline,nohayonline:31ff146ffde1b706fc10,feat/import-overlap-reconciliation-2026-11-05,
@@ -3117,7 +3117,7 @@ src/data/lyrics/wali-e-iran-mula-raza.md,round_1,present,tajpoints,tajpoints:d2d
 src/data/lyrics/wallah-hussain.md,round_1,present,nohayonline,nohayonline:39aab6ef41a94f859c2f,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/wallah.md,round_1,present,nohayonline,nohayonline:8f5159e37e8bbbaee833,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/waqar-e-deen-e-khuda-hai-hussain-ka-matam.md,round_1,present,tajpoints,tajpoints:b13823693e04cb123168,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/waqt-e-zahoor.md,round_1,present,tajpoints,tajpoints:b1a15e55b64861682976,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/waqt-e-zahoor.md,round_1,removed_duplicate,tajpoints,tajpoints:b1a15e55b64861682976,feat/import-overlap-reconciliation-2026-11-05,Manual duplicate removal 2026-11-15; unpublished recitation ID purged.
 src/data/lyrics/waqte-aakhir-ye.md,round_1,present,nohayonline,nohayonline:fa17f5fa711a3108b34f,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/waqte-ruqsat-baap-ko.md,round_1,present,nohayonline;ziyaraat,nohayonline:a644445594b3abaa4c05;ziyaraat:fbea83138fa5e50a24f5,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/warise-chadare-tatheer.md,round_1,present,nohayonline,nohayonline:a89a46a305e547acadc2,feat/import-overlap-reconciliation-2026-11-05,
@@ -3299,11 +3299,11 @@ src/data/lyrics/zaeef-baap-se.md,round_1,present,nohayonline,nohayonline:ed43177
 src/data/lyrics/zaeefi-may-mera.md,round_1,present,nohayonline,nohayonline:c4663535a7b3e2c2b8a2,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/zahe-muqaddar.md,round_1,present,tajpoints,tajpoints:cbdfbca83662edb227ef,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/zahir-hua-hai-is-se-himaayat-raza-ki-hai.md,round_1,present,tajpoints,tajpoints:2a134c01de8f95d3671f,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/zahoor-ka-waqt-aa-gaya-hai.md,original,present,,,main,
+src/data/lyrics/zahoor-ka-waqt-aa-gaya-hai.md,original,retired,,,main,Deleted original after Basta 388-389 comparison; main's permanent recitation identity preserved as retired (2026-11-15).
 src/data/lyrics/zahra-ke-dar-ki-naukari.md,round_1,present,tajpoints,tajpoints:2925d18a68e11265bead,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/zahra-se-kiya-wada.md,round_1,present,nohayonline;ziyaraat,nohayonline:b1e22a1189595ceb4617;ziyaraat:47aa349ff1961c60d023,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/zahra-utho-utho.md,round_1,present,nohayonline,nohayonline:9b8341412bd30413f6aa,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/zainab-aisi-hasti-hai.md,round_1,present,nohayonline;ziyaraat,nohayonline:414f739044fa8e514514;ziyaraat:9d125ba87579794f1ed4,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/zainab-aisi-hasti-hai.md,round_1,removed_duplicate,nohayonline;ziyaraat,nohayonline:414f739044fa8e514514;ziyaraat:9d125ba87579794f1ed4,feat/import-overlap-reconciliation-2026-11-05,Manual duplicate removal 2026-11-15; unpublished recitation ID purged; retained Basta page 391.
 src/data/lyrics/zainab-ali-akbar-ke.md,round_1,present,nohayonline,nohayonline:c0b7e78f5e1829e6090f,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/zainab-aseer-hai.md,round_1,present,nohayonline,nohayonline:928f4c68f36f9da43f87,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/zainab-aur-abbas.md,round_1,present,nohayonline,nohayonline:2e095c61556f7e1b4838,feat/import-overlap-reconciliation-2026-11-05,
