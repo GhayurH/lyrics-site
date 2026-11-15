@@ -6,48 +6,49 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Noor Ali"
+reciter: "Rizwan Zaidi"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Yaad sajjad ko aati rahi zindan ki shaam
-  Umr bhar khoon rulaati rahi zindan ki shaam
+  Yaad Sajjad ko aati rahi zindaan ki shaam
+  Umr bhar khun rulaati rahi zindaan ki shaam
 
   1
-  Jab talak aati rahi kaano mein siski ki sada
-  Khaak zindan mein udaati rahi zindan ki shaam
+  Jab talak aati rahi kaanoṅ mein siski ki sada
+  Khaak zindaaṅ mein uraati rahi zindaan ki shaam
 
   2
-  Qaid khane mein bas ek shaam qayamat guzri
-  Phir to har shaam hi aati rahi zindan ki shaam
+  Qaid khaane mein bas ek shaam qayaamat guzri
+  Phir to har shaam hi aati rahi zindaan ki shaam
 
   3
-  Jaise zaalim ke tamachon ne sataya tha usay
-  Yun sakina ko sataati rahi zindan ki shaam
+  Jaise zaalim ke tamaanchoṅ ne sataaya tha use
+  Yuṅ Sakina ko sataati rahi zindaan ki shaam
 
   4
-  Gham sakina ne jo raahon mein sahay kam to na thay
-  Gham magar aur badhaati rahi zindan ki shaam
+  Gham Sakina ne jo raahoṅ mein sahe kam to na the
+  Gham magar aur barhaati rahi zindaan ki shaam
 
   5
-  Sheh jise lori sunaate thay usi bachi ko
-  Maut ki lori sunaati rahi zindan ki shaam
+  Shah jise lori sunaate the usi bachchi ko
+  Maut ki lori sunaati rahi zindaan ki shaam
 
   6
-  Qabr e masooma pe zainab o sajjad ke saath
-  Sog har shaam manaati rahi zindan ki shaam
+  Qabr-e-Maasuma pe Zainab o Sajjad ke saath
+  Sog har shaam manaati rahi zindaan ki shaam
 
   7
-  Gham jo abid ne sahay shaam ke bazaaron mein
-  Saare gham yaad dilaati rahi zindan ki shaam
+  Gham jo Aabid ne sahe Shaam ke baazaaroṅ mein
+  Saare gham yaad dilaati rahi zindaan ki shaam
 
   8
-  Ya hai abid ko khabar ya hai khabar zainab ko
-  Wo sitam kya thay jo dhaati rahi zindan ki shaam
+  Ya hai Aabid ko khabar ya hai khabar Zainab ko
+  Wo sitam kya the jo dhaati rahi zindaan ki shaam
 
   9
-  Maadar e asghar baysheer ko ay noor ali
-  Khwaab mein aake daraati rahi zindan ki shaam
+  Maadar-e-Asghar-e-Beshir ko ae Noor Ali
+  Khwaab mein aake daraati rahi zindaan ki shaam
 # source_id: nohayonline:74d23c20fa9f3810979a
 # source_url: https://www.nohayonline.com/details_content.php?id=1147
 # raw_sha256: f3a1c66afe05b3001537c8b6d1f65d41cf3148164da71c9f90fc14b945308ff0
@@ -80,7 +81,7 @@ romanLyrics: |-
 سوگ ہر شام مناتی رہی زندان کی شام
 
 ۷
-غم میں عابد نے سہے شام کے بازاروں میں
+غم جو عابد نے سہے شام کے بازاروں میں
 سارے غم یاد دلاتی رہی زندان کی شام
 
 ۸
