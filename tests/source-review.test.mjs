@@ -320,3 +320,29 @@ test("Balti source has a manually numbered Roman edition without Arabic script c
   assert.deepEqual([...result.roman.matchAll(/^\d+$/gm)].map(m => Number(m[0])), [1,2,3,4]);
   assert(!result.issues.some(issue => issue.code === "arabic-in-roman"));
 });
+
+
+test("Ana Ali Yabnul preserves unique Arabic rajaz and aligns all Urdu/Roman physical verses", async () => {
+  const { readFile } = await import("node:fs/promises");
+  const path = "src/data/lyrics/ana-ali-yabnul.md";
+  const raw = await readFile(new URL("../" + path, import.meta.url), "utf8");
+  const source = reviewMarkdown({ path, kind: "lyrics", text: raw });
+  const lines = edition => edition.split("\n").filter(line =>
+    line.trim() && !/^[1-9۱-۹]$/u.test(line.trim()));
+  assert.equal(lines(source.body).length, 49);
+  assert.equal(lines(source.roman ?? "").length, 49);
+  const stanzaLengths = edition => edition.trim().split(/\n\s*\n/u).map(group =>
+    lines(group).length);
+  assert.deepEqual(stanzaLengths(source.body), [4, 7, 4, 4, 4, 6, 4, 4, 4, 4, 4]);
+  assert.deepEqual(stanzaLengths(source.roman ?? ""), stanzaLengths(source.body));
+  assert.deepEqual([...source.body.matchAll(/^([۱-۹])$/gm)].map(x => x[1]),
+    ["۱","۲","۳","۴","۵","۶","۷","۸","۹"]);
+  assert.deepEqual([...source.roman.matchAll(/^([1-9])$/gm)].map(x => x[1]),
+    ["1","2","3","4","5","6","7","8","9"]);
+  assert(source.body.includes("أضربكم بالسيف أحمي عن أبي"));
+  assert(source.roman.includes("Hazrabe Tum Fisseb Ahme An Abi"));
+  assert.deepEqual(compareEditions(source.body, source.roman, path, path), []);
+  assert(!source.issues.some(issue => ["stanza-line-mismatch", "stanza-number-mismatch",
+    "line-count-mismatch"].includes(issue.code)), "No Urdu/Roman structural mismatches");
+  assert.deepEqual(reviewPublicationConventions(source, raw), []);
+});
