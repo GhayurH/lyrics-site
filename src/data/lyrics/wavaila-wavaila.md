@@ -5,45 +5,46 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Safdar Abbas"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Hussain hussain shaheed e karbala hussain
-  Ye ran mein kehti thi zehra hussain wavaila wavaila
-  Shaheed tu hua pyasa hussain wavaila wavaila
+  Husain Husain shahid-e-Karbala Husain
+  Ye ran meiṅ kehti thi Zehra Husain wavaila wavaila
+  Shahid tu hua pyaasa Husain wavaila wavaila
 
   1
-  Mere hussain mere teen roz ke pyase
-  Pade ho khaak pe tanha hussain wavaila wavaila
+  Mere Husain mere tin roz ke pyaase
+  Pare ho khaak pe tanha Husain wavaila wavaila
 
   2
-  Tumhari pyaas pe khaaya na rehm zaalim ne
-  Diya na pani ka khatra hussain wavaila wavaila
+  Tumhaari pyaas pe khaaya na rahm zaalim ne
+  Diya na paani ka khatra Husain wavaila wavaila
 
   3
-  Diya na gor o kafan tum ko qaume be-deen ne
-  Pada hai dhoop mein laasha hussain wavaila wavaila
+  Diya na gor o kafan tum ko qaum-e-bedin ne
+  Para hai dhup meiṅ laasha Husain wavaila wavaila
 
   4
-  Sakina baap ke laashe ko dhoondne nikli
-  To ro ke kehta tha sehra hussain wavaila wavaila
+  Sakina baap ke laashe ko dhundne nikli
+  To ro ke kehta tha sahra Husain wavaila wavaila
 
   5
-  Ali ki betiyan karti thi bain maqtal mein
-  Mita hai gulshan e zehra hussain wavaila wavaila
+  Ali ki betiyaaṅ karti thi bain maqtal meiṅ
+  Mita hai gulshan-e-Zehra Husain wavaila wavaila
 
   6
-  Zameen e garm pe pamaal jab huwe laashe
-  Furaat karti thi nauha hussain wavaila wavaila
+  Zamin-e-garm pe paamaal jab hue laashe
+  Furaat karti thi nauha Husain wavaila wavaila
 
   7
-  Behen ke saamne jalti zameen par tera
-  Gala layeeno ne kaata hussain wavaila wavaila
+  Behen ke saamne jalti zamin par tera
+  Gala lainoṅ ne kaata Husain wavaila wavaila
 
   8
-  Kisi ke seene mein barchi kisi ke halq pe teer
-  Kisi ka tukde hai laasha hussain wavaila wavaila
+  Kisi ke sine meiṅ barchhi kisi ke halq pe tir
+  Kisi ka tukre hai laasha Husain wavaila wavaila
 # source_id: nohayonline:0c928361f4430c71840c
 # source_url: https://www.nohayonline.com/details_content.php?id=3759
 # raw_sha256: f1dd94c866b4cd1121869ad4bdf78829f4eb004cf955c1f13d358058f2380e4a

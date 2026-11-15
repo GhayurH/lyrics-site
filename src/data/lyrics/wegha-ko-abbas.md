@@ -1,72 +1,73 @@
 ---
 title: "وغا کو عباس آ رہے ہیں"
-alternateTitle: "Wegha Ko Abbas"
+alternateTitle: "Wagha Ko Abbas"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
-aliases: []
+aliases: ["Wegha Ko Abbas"]
 published: false
 romanLyrics: |-
-  Wegha ko abbas aa rahe hai
-  Ke hashr gaythi mein aa raha hai
-  Zameen ka badta hua tazalzul
-  Falak ko jhoola jhula raha hai
+  Wagha ko Abbas aa rahe haiṅ
+  Ke hashr giti meiṅ aa raha hai
+  Zamiṅ ka barhta hua tazalzul
+  Falak ko jhula jhula raha hai
 
   1
-  Nishane ahmed mitane wale
-  Bujhe charagho ka noor dekhein
-  Inhi charaghon se lau laga kar
-  Charaghe deen jagmaga raha hai
+  Nishaan-e-Ahmad mitaane wale
+  Bujhe charaaghoṅ ka nur dekheṅ
+  Inhi charaaghoṅ se lau laga kar
+  Charaagh-e-din jagmaga raha hai
 
   2
-  Yazeediyat ka nishan barham
-  Hussainiat ka baland parcham
-  Gira rahe hai jise do aalam
-  Usay zamana utha raha hai
+  Yazidiyat ka nishaan barham
+  Husainiyat ka buland parcham
+  Gira rahe haiṅ jise do aalam
+  Use zamaana utha raha hai
 
   3
-  Habeeb o muslim ke tevaron se
-  Machal rahi hai nayi jawani
-  Elaahi maidan e karbala mein
-  Shabab kis kis pe aa raha hai
+  Habib o Muslim ke tevaroṅ se
+  Machal rahi hai nayi jawaani
+  Ilaahi maidaan-e-Karbala meiṅ
+  Shabaab kis kis pe aa raha hai
 
   4
-  Yehi nateeja hai har bala ka
-  Yehi khulaasa hai karbala ka
-  Jo mar raha hai wo jee raha hai
+  Yehi natija hai har bala ka
+  Yehi khulaasa hai Karbala ka
+  Jo mar raha hai wo ji raha hai
   Jo kho raha hai wo paa raha hai
 
   5
-  Kisi bashar mein kahan ye khudrat
+  Kisi bashar meiṅ kahaaṅ ye qudrat
   Ke zulm seh kar rahe ye himmat
-  Zaeef tooti kamar ko kas kar
-  Jawan ka laasha utha raha hai
+  Zaif tuti kamar ko kas kar
+  Jawaaṅ ka laasha utha raha hai
 
   6
-  Habeeb kufe se chal ke aaye
-  Sipaahe shaami se hurr bhi nikla
+  Habib Kufe se chal ke aaye
+  Sipaah-e-Shaami se Hur bhi nikla
   Idhar udhar se har ek zarra
-  Simat ke manzil mein aa raha hai
+  Simat ke manzil meiṅ aa raha hai
 
   7
-  Hussain sajde mein sar kata kar
-  Haram se bichde qayamat aayi
-  Tadap ke bache nikal pade hai
-  Hujoom qaima jala raha hai
+  Husain sajde meiṅ sar kata kar
+  Haram se bichhre qayaamat aayi
+  Tarap ke bachche nikal pare hai
+  Hujum khaima jala raha hai
 
   8
-  Hussain ruqsat ko ghar mein aaye
-  Ke qatl-gaahe wafa ko jaaye
-  Idhar sakina pukarti hai
-  Udhar madina bula raha hai
+  Husain rukhsat ko ghar meiṅ aaye
+  Ke qatl-gaah-e-wafa ko jaaye
+  Idhar Sakina pukaarti hai
+  Udhar Madina bula raha hai
 # source_id: nohayonline:e09983f62de34ed7e066
 # source_url: https://www.nohayonline.com/details_content.php?id=799
 # raw_sha256: 80016efd93062151cb6f440780fb91527d2efb6b86028c9e0619f6f1d8a9da63
 ---
 وغا کو عباس آ رہے ہیں
-کے حشر گیتی میں آ رہا ہے
+کہ حشر گیتی میں آ رہا ہے
 زمیں کا بڑھتا ہوا تذلذل
 فلک کو جھولا جُھلا رہا ہے
 
@@ -96,19 +97,19 @@ romanLyrics: |-
 
 ۵
 کسی بشر میں کہاں یہ قُدرت
-کے ظُلم سہہ کر رہے یہ ہمت
+کہ ظُلم سہہ کر رہے یہ ہمت
 ضعیف ٹوٹی کمر کو کس کر
 جواں کا لاشہ اُٹھا رہا ہے
 
 ۶
-حبیب کوفے سے چل کہ آئے
+حبیب کوفے سے چل کے آئے
 سپاہِ شامی سے حُر بھی نکلا
-اِدھر اُدھر سے ہر ایک ذرا
-سمٹ کہ منزل میں آ رہا ہے
+اِدھر اُدھر سے ہر ایک ذرہ
+سمٹ کے منزل میں آ رہا ہے
 
 ۷
 حسین سجدے میں سر کٹا کر
-حرم سے بچھڑے قیامت آی
+حرم سے بچھڑے قیامت آئی
 تڑپ کے بچے نکل پڑے ہے
 ہجوم خیمہ جلا رہا ہے
 
