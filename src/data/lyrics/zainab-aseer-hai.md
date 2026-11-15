@@ -6,40 +6,41 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zulfiqar Ahmed"
+reciter: "Mir Mohsin Ali"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zainab aseer hai mere ghazi duhayi hai
-  Sar pe musibaton ki ghata mere chayi hai
+  Zainab asir hai mere Ghaazi duhaai hai
+  Sar pe musibatoṅ ki ghata mere chhaai hai
 
   1
-  Jalti zameen hai paon mein naalain bhi nahi
-  Aur khaardar raahein hai teri duhayi hai
+  Jalti zamin hai paaoṅ mein naalain bhi nahiṅ
+  Aur khaar daar raaheṅ haiṅ teri duhaai hai
 
   2
-  Jaa kar watan kahungi mai nana ki qabr par
-  Bhai ko khoke zainabe dilgeer aayi hai
+  Jaa kar watan kahuṅ gi main Naana ki qabr par
+  Bhaai ko kho ke Zainab-e-dilgir aai hai
 
   3
-  Har zulm pe sakina tujhe deti hai sada
-  Shiddat se aaj usko teri yaad aayi hai
+  Har zulm pe Sakina tujhe deti hai sada
+  Shiddat se aaj us ko teri yaad aai hai
 
   4
-  Mehman bulake karne lage sang baariyan
-  Kufe mein hum pe kaisi musibat ye aayi hai
+  Mehmaan bula ke karne lage sang baariyaaṅ
+  Kufe mein ham pe kaisi musibat ye aai hai
 
   5
-  Bhaiya teri behan pe masayab bahut hue
-  Zulm-o-sitam ki maari hai gham ki satayi hai
+  Bhaiya teri behan pe masaaib bahut hue
+  Zulm o sitam ki maari hai gham ki sataai hai
 
   6
-  Bhaiya tumhare baad jalaye gaye qayam
-  Behna ye jalte qaime se abid ko laayi hai
+  Bhaiya tumhaare baad jalaaye gaye khiyaam
+  Behna ye jalte khaime se Aabid ko laai hai
 
   7
-  Zikre hussain ahmed-o-mohsin ka kaam hai
-  Dono ke umr bhar ki yehi bas kameini hai
+  Zikr-e-Husain Ahmed o Mohsin ka kaam hai
+  Donoṅ ki umr bhar ki yehi bas kamaai hai
 # source_id: nohayonline:928f4c68f36f9da43f87
 # source_url: https://www.nohayonline.com/details_content.php?id=793
 # raw_sha256: 6b0129ceaea00ec5f5edee40be6558f386b407d18260703d6b2ef9f196bda4ab

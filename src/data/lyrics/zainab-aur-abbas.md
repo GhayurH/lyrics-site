@@ -5,53 +5,54 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Sachey Bhai"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Zainab aur abbas
-  Dono hi se karbobala mein sheh ko badi thi aas
+  Zainab aur Abbas
+  Donoṅ hi se Karb o bala mein shah ko bari thi aas
 
   1
-  Ek zehra ki laadli thi aur ek ali ka laal
-  Maa ka sabr dikhaya ek ne baap ka jaah o jalaal
-  Karbobala mein bangaye dono sabr o wafa ki asaas
+  Ik Zehra ki laadli thi aur ek Ali ka laal
+  Maaṅ ka sabr dikhaaya ik ne baap ka jaah o jalaal
+  Karb o bala mein ban gaye donoṅ sabr o wafa ki asaas
 
   2
-  Qabre asr hifazat ka tha bhai zimedaar
-  Baade asr uthaya binte zehra ne ye baar
-  Bangayi aas haram ki zainab wo thi khud be aas
+  Qabl-e-asr hifaazat ka tha bhaai zimmedaar
+  Baad-e-asr uthaaya bint-e-Zehra ne ye baar
+  Ban gai aas haram ki Zainab wo thi khud be aas
 
   3
-  Dono laal kiye zainab ne sarwar par qurban
-  Nehr pe dono haath kata kar sadqe mein di jaan
-  Waar diya sab kuch bhai par jo tha jiske paas
+  Donoṅ laal kiye Zainab ne Sarwar par qurbaan
+  Nehr pe donoṅ haath kata kar sadqe mein di jaan
+  Waar diya sab kuchh bhaai par jo tha jis ke paas
 
   4
-  Dashte bala mein aa kar choota dono ka ye saath
-  Mashkeeza seene se laga kar dono kata kar haath
-  Nehr kanare sogaya bhai behan hui be aas
+  Dasht-e-bala mein aa kar chhuta donoṅ ka ye saath
+  Mashkiza sine se laga kar donoṅ kata kar haath
+  Nehr kinaare so gaya bhaai behan hui be aas
 
   5
-  Waqte asr giray ghode se jab ke shahe abraar
-  Halqe shahe mazloom pe rakhdi zaalim ne talwaar
-  Qaime mein zainab tadpi aur saahil par abbas
+  Waqt-e-asr gire ghore se jab ke shaah-e-abraar
+  Halq-e-shaah-e-mazlum pe rakh di zaalim ne talwaar
+  Khaime mein Zainab tarpi aur saahil par Abbas
 
   6
-  Kitne hi dukh jhayle dil par kitne hi aalaam
-  Haye magar wo dashte sitam wo ranj o alam ki shaam
-  Tanha hai maqtal mein zainab koi nahi ab paas
+  Kitne hi dukh jhele dil par kitne hi aalaam
+  Haaye magar wo dasht-e-sitam wo ranj o alam ki shaam
+  Tanha hai maqtal mein Zainab koi nahiṅ ab paas
 
   7
-  Zainab hai pabande rasan ab chalta kuch nahi zor
-  Noke sina par sar hai tan hai bhai ka be-door
-  Roti hai maajaye ki mayyat pe hasrat o yaas
+  Zainab hai paaband-e-rasan ab chalta kuchh nahiṅ zor
+  Nok-e-sinaaṅ par sar hai tan hai bhaai ka be dur
+  Roti hai maaṅ jaai ki mayyat pe hasrat o yaas
 # source_id: nohayonline:2e095c61556f7e1b4838
 # source_url: https://www.nohayonline.com/details_content.php?id=506
 # raw_sha256: 96985045bbe321c9ce454b7a6e1e389a30853d97bb7e30e2652076282037f031
 ---
 زینب اور عباس
-دونوں ہی سے کرب وبلا میں شِہ کو بڑی تھی آس
+دونوں ہی سے کرب و بلا میں شِہ کو بڑی تھی آس
 
 ۱
 اک زہرا کی لاڈلی تھی اور ایک علی کا لال
@@ -64,7 +65,7 @@ romanLyrics: |-
 بن گئی آس حرم کی زینب وہ تھی خود بے آس
 
 ۳
-دونوں لال کیئے زینب نے سرور پر قربان
+دونوں لال کیے زینب نے سرور پر قربان
 نہر پہ دونوں ہاتھ کٹا کر صدقے میں دی جان
 وار دیا سب کچھ بھائی پر جو تھا جس کے پاس
 
@@ -79,8 +80,8 @@ romanLyrics: |-
 خیمے میں زینب تڑپی اور ساحل پر عباس
 
 ۶
-کتنے ہی دُکھ جھیلے دل پر کتنے ہی عالام
-ہائے مگر وہ دشتِ ستم وہ رنج و علم کی شام
+کتنے ہی دُکھ جھیلے دل پر کتنے ہی آلام
+ہائے مگر وہ دشتِ ستم وہ رنج و الم کی شام
 تنہا ہے مقتل میں زینب کوئی نہیں اب پاس
 
 ۷
