@@ -1,52 +1,53 @@
 ---
 title: زنداں میں سکینہ یہ بکا کرتی تھی رو کر
-alternateTitle: Zindan May Sakina Ye
+alternateTitle: Zindaaṅ Mein Sakina Ye
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Rehaan Azmi"
+reciter: "Mir Hassan Mir"
 tags: ["noImage"]
-aliases: []
+aliases: ["Zindan May Sakina Ye"]
 published: false
 romanLyrics: |-
-  Zindan may sakina ye buka karti thi ro kar
+  Zindaaṅ mein Sakina ye buka karti thi ro kar
+  Dam ghutta hai ammaaṅ mera ab yaaṅ se chalo ghar
 
   1
-  Dam ghut'ta hai amma mera ab yan se chalo ghar
-  Kya andhera hai sujhayi nahi deta kuch bhi
-  Haath rakta nahi amma mere sar par koi
-  Aur chand roz may mar jaungi mai ghut ghut kar
+  Kya andhera hai dikhaai nahiṅ deta kuchh bhi
+  Haath rakhta nahiṅ ammaaṅ mere sar par koi
+  Aur chand roz mein mar jaauṅ gi main ghut ghut kar
 
   2
-  Khoon bhara kurta badal do mera pyari amma
-  Apni godhi may sulalo mujhe waari amma
-  Sone deta nahi ek pal bhi mujhe ye hijre padar
+  Khuṅ bhara kurta badal do mera pyaari ammaaṅ
+  Apni godi mein sula lo mujhe waari ammaaṅ
+  Sone deta nahiṅ ik pal bhi mujhe ye hijr-e-pidar
 
   3
-  Neel rukhsar ke kano se lahoo taaza hai
-  Kuch mere dard ka amma tumhe andaza hai
-  Raat din roti hoo kar de koi baba ko khabar
+  Nil rukhsaar ke kaanoṅ se lahu taaza hai
+  Kuchh mere dard ka ammaaṅ tumheṅ andaaza hai
+  Raat din roti huṅ kar de koi baba ko khabar
 
   4
-  Tum to kehti thi rehaai ki ghadi aa pahunchi
-  Aisa lagta hai judaai ki ghadi aa pahunchi
-  Khaab may aaye thay mere abhi dada hyder
+  Tum to kehti thi rihaai ki ghari aa pahuṅchi
+  Aisa lagta hai judaai ki ghari aa pahuṅchi
+  Khwaab mein aaye the mere abhi dada Haidar
 
   5
   Pyaas se khushk hai rassi se gala hai zakhmi
-  Us pe ye zulm ke rone bhi nahi dete shaki
-  Ghudkiya shimr jo deta hai to phat'ta hai jigar
+  Us pe ye zulm ke rone bhi nahiṅ dete shaqi
+  Ghurkiyaaṅ Shimr jo deta hai to phatta hai jigar
 
   6
-  Khaak pe soti hoo baba ka nahi hai seena
-  Kitna dushwaar hai is ranj o mehan may jeena
-  Raat din roti hoo karde koi baba ko khabar
+  Khaak pe soti huṅ baba ka nahiṅ hai sina
+  Kitna dushwaar hai is ranj o mihan mein jina
+  Raat din roti huṅ kar de koi baba ko khabar
 
   7
-  Neend aati na thi rehaan jisay wo bachi
-  So gayi shaam ke zindan may ye kehti hui
-  Chain se soungi zindan se jab jaungi ghar
+  Nind aati na thi Rehaan jise woh bachchi
+  So gayi Shaam ke zindaaṅ mein ye kehti hui
+  Chain se souṅ gi zindaaṅ se jab jaauṅ gi ghar
 # source_id: nohayonline:584c7feda59fcfc9e329
 # source_url: https://www.nohayonline.com/details_content.php?id=1614
 # raw_sha256: 7d2a7303ea9891d6213b408406fa13af7122080e6a505c0389c5f796819585fa
@@ -56,27 +57,27 @@ romanLyrics: |-
 # added_stanza_source: roman:kalam-ziyaraat-678bf25d682cf0407aba
 ---
 زنداں میں سکینہ یہ بکا کرتی تھی رو کر
+دم گھٹتا ہے اماں میرا اب یاں سے چلو گھر
 
 ۱
-دم گھٹتا ہے اماں میرا اب یاں سے چلو گھر
 کیا اندھیرا ہے دکھائی نہیں دیتا کچھ بھی
 ہاتھ رکھتا نہیں اماں میرے سر پر کوئی
 اور چند روز میں مر جاؤں گی میں گھٹ گھٹ کر
 
 ۲
 خوں بھرا کرتہ بدل دو میرا پیاری اماں
-اپنی گودی میں سلالو مجھے واری اماں
-سونے دیتا نہیں اک پل بھی مجھے یہ ہجرے پدر
+اپنی گودی میں سلا لو مجھے واری اماں
+سونے دیتا نہیں اک پل بھی مجھے یہ ہجرِ پدر
 
 ۳
 نیل رخسار کے کانوں سے لہو تازہ ہے
 کچھ میرے درد کا اماں تمہیں اندازہ ہے
-رات دن روتی ہوں کہ دے کوئی بابا کو خبر
+رات دن روتی ہوں کر دے کوئی بابا کو خبر
 
 ۴
 تم تو کہتی تھی رہائی کی گھڑی آ پہنچی
 ایسا لگتا ہے جدائی کی گھڑی آ پہنچی
-خواب میں آے تھے میرے ابھی دادا حیدر
+خواب میں آئے تھے میرے ابھی دادا حیدر
 
 ۵
 پیاس سے خشک ہے رسی سے گلا ہے زخمی
@@ -86,9 +87,9 @@ romanLyrics: |-
 ۶
 خاک پہ سوتی ہوں بابا کا نہیں ہے سینہ
 کتنا دشوار ہے اس رنج و محن میں جینا
-رات دن روتی ہوں کردے کوئی بابا کو خبر
+رات دن روتی ہوں کر دے کوئی بابا کو خبر
 
 ۷
 نیند آتی نہ تھی ریحان جسے وہ بچی
-سو گیء شام کے زنداں میں یہ کہتی ہوی
-چین سے سوؤنگی زنداں سے جب جاؤں گی گھر
+سو گئی شام کے زنداں میں یہ کہتی ہوئی
+چین سے سوؤں گی زنداں سے جب جاؤں گی گھر

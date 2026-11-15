@@ -1,52 +1,53 @@
 ---
-title: زنداں میں نہیں آتی کیوں تازہ ہوایں بھیا
-alternateTitle: Zindan May Nahi Aati
+title: زنداں میں نہیں آتی کیوں تازہ ہوا بھیا
+alternateTitle: Zindaaṅ Mein Nahiṅ Aati
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
 poet: "Afzal Ajiz"
+reciter: "Ali Haider Moon; Hasan Sadiq"
 tags: ["noImage"]
-aliases: []
+aliases: ["Zindan May Nahi Aati"]
 published: false
 romanLyrics: |-
-  Zindan mein nahi aati kyun taaza hawa bhaiya
+  Zindaaṅ mein nahiṅ aati kiuṅ taaza hawa bhaiya
   Sajjad Sakina ko marne se bacha bhaiya
 
   1
-  Deewaron se zindaan ki, takra k main girti hoon
-  Phir dair talak bhaiyya, tanhai main sisakti hoon
-  Aa rait k bistar seh, Bhaina ko utha bhaiya.
+  Diwaaroṅ se zindaaṅ ki takra ke main girti huṅ
+  Phir der talak bhaiya tanha hi sisakti huṅ
+  Aa ret ke bistar se behna ko utha bhaiya
 
   2
-  Paani nahin maangoon gi, bachon ko sambhaloon gi
-  In chotay say haathoon se, teray kaantay nikaloon gi
-  Ek baar Sakina ko, tu pass bula bhaiya
+  Paani nahiṅ maanguṅ gi bachchoṅ ko sambhaaluṅ gi
+  In chhote se haathoṅ se tere kaaṅte nikaaluṅ gi
+  Ik baar Sakina ko tu paas bula bhaiya
 
   3
-  Jis nay mujhay maara tha, woh khwaab main aata hai
-  Mai so bhi nahin sakti, kuch aisay darata hai
-  Sajaad mujh ay de do, Bahon main pannah bhaiya
+  Jis ne mujhe maara tha woh khwaab mein aata hai
+  Main so bhi nahiṅ sakti kuchh aise daraata hai
+  Sajjad mujhe de do baaṅhoṅ mein panaah bhaiya
 
   4
-  Karti hai behan wada, baba ko na roye gi
-  Ashqon sey kabhi apna, daman na bhigoey gi
-  Inn gor undehron se, karva dey reha bhaiya
+  Karti hai behen waada baba ko na roye gi
+  Ashkoṅ se kabhi apna daaman na bhigoye gi
+  In ghor andheroṅ se karwa de riha bhaiya
 
   5
-  Jeeti thi Imamat kai, main paak savairon main
-  Ab meri guzarti hai, zindaan kai andheron main
-  Is waqat bhi rassi main, hai mera gala bhaiya
+  Jiti thi imamat ke main paak saveroṅ mein
+  Ab meri guzarti hai zindaan ke andheroṅ mein
+  Is waqt bhi rassi mein hai mera gala bhaiya
 
   6
-  Behlatay thay sab mujh ko, jis waqt mein roti thi
-  Hai saari khabar tum ko, kis ja pe main soti thi
-  Aa dekh Sakina ko, Kya haal howa bhayah
+  Behlaate the sab mujh ko jis waqt main roti thi
+  Hai saari khabar tujh ko jis ja pe main soti thi
+  Aa dekh Sakina ka kya haal hua bhaiya
 
   7
-  Sajjad tere ghaam main, jo ashkh bahaey ga
-  Jo halqa-e-matam main, sir peet-ta aaye ga
-  Tauqeer dilaongi, Wada hay mera bhaiya
+  Sajjad mere gham mein jo ashk bahaaye ga
+  Jo halqa-e-maatam mein sar pitta aaye ga
+  Tauqir dilaauṅ gi hai waada mera bhaiya
 # source_id: nohayonline:21b3efc9848eeafed841
 # source_url: https://www.nohayonline.com/details_content.php?id=698
 # raw_sha256: ca2801d76e9da46703e7aeb3775310ac07092eb36378004f419b91c7692fa4d7
@@ -65,14 +66,14 @@ romanLyrics: |-
 سجاد سکینہ کو مرنے سے بچا بھیا
 
 ۱
-دیواروں سے زنداں کی ٹکراکے میں گرتی ہوں
+دیواروں سے زنداں کی ٹکرا کے میں گرتی ہوں
 پھر دیر تلک بھیا تنہا ہی سسکتی ہوں
 آ ریت کے بستر سے بہنا کو اٹھا بھیا
 
 ۲
 پانی نہیں مانگوں گی بچوں کو سنبھالوں گی
 اِن چھوٹے سے ہاتھوں سے تیرے کانٹے نکالوں گی
-اک بار سكینہ کو تو پاس بُلا بھیا
+اک بار سکینہ کو تو پاس بُلا بھیا
 
 ۳
 جس نے مجھے مارا تھا وہ خواب میں آتا ہے
@@ -85,14 +86,14 @@ romanLyrics: |-
 ان گھور اندھیروں سے کروا دے رہا بھیا
 
 ۵
-جیتی تھی امامت كے میں پاک سویروں میں
-اب میری گزرتی ہے زندان كے اندھیروں میں
+جیتی تھی امامت کے میں پاک سویروں میں
+اب میری گزرتی ہے زندان کے اندھیروں میں
 اِس وقت بھی رسی میں ہے میرا گلا بھیا
 
 ۶
 بہلاتے تھے سب مجھ کو جس وقت میں روتی تھی
 ہے ساری خبر تجھ کو جس جا پہ میں سوتی تھی
-آ دیکھ سكینہ کا کیا حال ہوا بھیا
+آ دیکھ سکینہ کا کیا حال ہوا بھیا
 
 ۷
 سجادؑ میرے غم میں جو اشک بہائے گا
