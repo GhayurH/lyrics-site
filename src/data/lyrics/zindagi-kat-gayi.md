@@ -1,79 +1,84 @@
 ---
-title: "کوفہ و شام کا نہیں دل سے منظر"
+title: "کوفہ و شام کا نکلا نہیں دل سے منظر"
 alternateTitle: "Zindagi Kat Gayi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Nawab Cholasvi"
+reciter: "Ali Mohd. Sultanpuri"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Kufa o shaam ka nikla nahi dil se manzar
-  Zindagi kat gayi sajjad ki rote rote
-  Nange sar aati thi maa behno ki tasveer nazar
+  Kufa o Shaam ka nikla nahiṅ dil se manzar
+  Zindagi kat gayi Sajjad ki rote rote
+
+  Nange sar aati thi maaṅ behnoṅ ki tasvir nazar
+  Zindagi kat gayi Sajjad ki rote rote
 
   1
-  Dard e dil aur badha haye kabhi kam na hua
-  Ashk behte rahe aankhon se juda gham na hua
-  Manzar e shaam pe rote rahe shaam aur sahar
+  Dard-e-dil aur barha haaye kabhi kam na hua
+  Ashk behte rahe aankhoṅ se juda gham na hua
+  Manzar-e-Shaam pe rote rahe shaam aur sahar
 
   2
-  Mubtela gham mein rahe has ke koi baat na ki
-  Nauha padhte rahe khushyion se mulaqat na ki
+  Mubtala gham mein rahe hans ke koi baat na ki
+  Nauha parhte rahe khushiyoṅ se mulaaqaat na ki
   Dil se afsos nikal paaya na gham ka manzar
 
   3
-  Bojh ehsaas ka seene se utaara na gaya
-  Chain se ek bhi din haye guzara na gaya
+  Bojh ehsaas ka sine se utaara na gaya
+  Chain se ek bhi din haaye guzaara na gaya
   Marte dam tak bhi chala dard ka khanjar dil par
 
   4
-  Beridayi ka nikal paaya na seene se malaal
-  Yaad aate rahe maa behno ke bikhre huwe baal
-  Dil se abid ke juda ho na saka gham ka asar
+  Beridaai ka nikal paaya na sine se malaal
+  Yaad aate rahe maaṅ behnoṅ ke bikhre hue baal
+  Dil se Abid ke juda ho na saka gham ka asar
 
   5
-  Ye sakina hai wo zainab hai wo umme laila
-  Haakim e shaam ne har ek se has kar jo kaha
-  Goonjti rahti thi kaano mein ye ghamgeen khabar
+  Ye Sakina hai wo Zainab hai wo Umm-e-Laila
+  Haakim-e-Shaam ne har ek se hans kar jo kaha
+  Gunjti rehti thi kaanoṅ mein ye ghamgiṅ khabar
 
   6
-  Koi dekhe na jo bemaar ne manzar dekha
-  Haye pyason pe baraste huwe pathar dekha
-  Kaampta rehta tha ye soch ke abid ka jigar
+  Koi dekhe na jo bimaar ne manzar dekha
+  Haaye pyaasoṅ pe baraste hue patthar dekha
+  Kaanpta rehta tha ye soch ke Abid ka jigar
 
   7
-  Roke farmate thay mai hashr ke hangaam mein tha
-  Maut kaise na mujhe aayi ke jab shaam mein tha
-  Phir bhi shikwa na kiya nana ki ummat se magar
+  Ro ke farmaate the main hashr ke hangaam mein tha
+  Maut kaise na mujhe aayi ke jab Shaam mein tha
+  Phir bhi shikwa na kiya Naana ki ummat se magar
 
   8
-  Jab talak zinda rahe abid e bemaar nawab
-  Bhool paaye na kabhi shaam ka bazaar nawab
+  Jab talak zinda rahe Abid-e-bimaar Nawab
+  Bhul paaye na kabhi Shaam ka baazaar Nawab
   Roz o shab karte rahe girya o zaari mein basar
 # source_id: nohayonline:8a7fe2015e08dadcff8e
 # source_url: https://www.nohayonline.com/details_content.php?id=3148
 # raw_sha256: 327a719279efd478bc6e1ee27eb0a26c8ee10c53295380804b2d5483250ea29e
 ---
-کوفہ و شام کا نہیں دل سے منظر
-زندگی کٹ گیء سجاد کی روتے روتے
+کوفہ و شام کا نکلا نہیں دل سے منظر
+زندگی کٹ گئی سجاد کی روتے روتے
+
 ننگے سر آتی تھی ماں بہنوں کی تصویر نظر
+زندگی کٹ گئی سجاد کی روتے روتے
 
 ۱
-درد دل اور بڑھا ہاے کبھی کم نہ ہوا
+درد دل اور بڑھا ہائے کبھی کم نہ ہوا
 اشک بہتے رہے آنکھوں سے جدا غم نہ ہوا
 منظر شام پہ روتے رہے شام اور سحر
 
 ۲
-مبتلا غم میں رہے ہنس کے کوی بات نہ کی
+مبتلا غم میں رہے ہنس کے کوئی بات نہ کی
 نوحہ پڑھتے رہے خوشیوں سے ملاقات نہ کی
 دل سے افسوس نکل پایا نہ غم کا منظر
 
 ۳
 بوجھ احساس کا سینے سے اتارا نہ گیا
-چین سے ایک بھی دن ہاے گزارا نہ گیا
+چین سے ایک بھی دن ہائے گزارا نہ گیا
 مرتے دم تک بھی چلا درد کا خنجر دل پر
 
 ۴
@@ -87,16 +92,16 @@ romanLyrics: |-
 گونجتی رہی تھی کانوں میں یہ غمگیں خبر
 
 ۶
-کوی دیکھے نہ جو بیمار نے منظر دیکھا
-ہاے پیاسوں پہ برستے ہوئے پتھر دیکھا
+کوئی دیکھے نہ جو بیمار نے منظر دیکھا
+ہائے پیاسوں پہ برستے ہوئے پتھر دیکھا
 کانپتا رہتا تھا یہ سوچ کے عابد کا جگر
 
 ۷
-روکے فرماتے تھے میں حشر کے ہنگام میں تھا
-موت کیسے نہ مجھے آی کہ جب شام میں تھا
+رو کے فرماتے تھے میں حشر کے ہنگام میں تھا
+موت کیسے نہ مجھے آئی کہ جب شام میں تھا
 پھر بھی شکوہ نہ کیا نانا کی امت سے مگر
 
 ۸
 جب تلک زندہ رہے عابد بیمار نواب
-بھول پاے نہ کبھی شام کا بازار نواب
+بھول پائے نہ کبھی شام کا بازار نواب
 روز و شب کرتے رہے گریہ و زاری میں بسر

@@ -1,132 +1,134 @@
 ---
-title: "گونجتی فضاءیں ہیں"
-alternateTitle: "Zindabad Ya Hussain"
+title: "گونجتی فضائیں ہیں"
+alternateTitle: "Zindabaad Ya Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
 aliases: []
 published: false
 romanLyrics: |-
-  Goonjti fazayein hai
-  Matami sadayein hai
-  Jis taraf nazar daale
-  Khaafile hazaaron hai
-  Khafilon ke seeno mein
-  Dard ke safeeno mein
-  Ashk o khoon ke dhaare
-  Door tak alam saare
-  Ye karorha insaan
-  Dekh to ali ki jaan
-  Tere gham mein hai giryan
-  Inki karbala manzil hai
-  Hai hateliyon par dil
+  Gunjti fazaaeṅ haiṅ
+  Maatami sadaaeṅ haiṅ
+  Jis taraf nazar daaleṅ
+  Qaafile hazaaroṅ haiṅ
+  Qaafiloṅ ke sinoṅ mein
+  Dard ke safinoṅ mein
+  Ashk o khun ke dhaare
+  Dur tak alam saare
+  Ye karorha insaaṅ
+  Dekh to Ali ki jaaṅ
+  Tere gham mein haiṅ giryaaṅ
+  Inki Karbala manzil hai
+  Hai hatheliyoṅ par dil
   Jhel kar har ek mushkil
-  Ek sada labon par hai
+  Ek sada laboṅ par hai
   Tera gham rahe aabaad
-  Ay hussain zindabad
-  Ay hussain zindabad
-  Ya hussain ya hussain
-  Ya hussain ya hussain
-  Maulana ya hussain
-  Zindabad ya hussain
-  Zindabad arze karbala
-  Maulana ya hussain
+  Ae Husain zindabaad
+  Ae Husain zindabaad
+  Ya Husain ya Husain
+  Ya Husain ya Husain
+
+  Maulaana ya Husain
+  Zindabaad ya Husain
+  Zindabaad arz-e-Karbala
+  Maulaana ya Husain
 
   1
-  Deen e haq ka paasban
-  Rasool e haq ka tarjuma
-  Hussainiyat ka saayeban
-  Mohabbaton ka aashiyan
-  Tu nabi ka zeb o zain hai
-  Tu ali ka noor e ain hai
-  Fatema ke dil ka chain hai
-  La ilaah ya hussain
-  Deen panaah ya hussain
+  Din-e-haq ka paasbaaṅ
+  Rasul-e-haq ka tarjuma
+  Husainiyat ka saayabaaṅ
+  Mohabbatoṅ ka aashiyaaṅ
+  Tu Nabi ka zeb o zain hai
+  Tu Ali ka nur-e-ain hai
+  Fatima ke dil ka chain hai
+  La ilaah ya Husain
+  Din panaah ya Husain
 
   2
-  Salaam shaahe karbala
-  Tu irada e khuda
-  Bada baland hausla
-  Nahi hussain doosra
-  Kabhi kahin na tera sar jhuka
-  Baland tha baland ye sar raha
-  Hussain izzaton ka baadshah
-  Marhaba ya hussain
-  Cha gaya ya hussain
+  Salaam Shaah-e-Karbala
+  Tu iraada-e-Khuda
+  Bara buland hausla
+  Nahiṅ Husain dusra
+  Kabhi kahiṅ na tera sar jhuka
+  Buland tha buland ye sar raha
+  Husain izzatoṅ ka baadshaah
+  Marhaba ya Husain
+  Chhaa gaya ya Husain
 
   3
-  Pukare ahle khaafila
-  Hussain ne jo ye kaha
+  Pukaare ahl-e-qaafila
+  Husain ne jo ye kaha
   Safar hai ab ye maut ka
-  Har ek rafeeq bol utha
-  Nahi hai koi maut ka khatar
-  Hussain jab hamara humsafar
-  Ajal milaye hum se kya nazar
-  Rehnuma ya hussain
-  Peshwa ya hussain
+  Har ek rafiq bol utha
+  Nahiṅ hai koi maut ka khatar
+  Husain jab hamaara hamsafar
+  Ajal milaaye ham se kya nazar
+  Rehnuma ya Husain
+  Peshwa ya Husain
 
   4
-  Zulmaton se jang ki
-  Bid'aton se jang ki
-  Naqwaton se jang ki
-  Munafiqon se jang ki
-  Tu nizaam e inquilaab hai
-  Tu payaam e inquilaab hai
-  Tu imame inquilaab hai
-  Inquilaab ya hussain
-  Kameyaab ya hussain
+  Zulmatoṅ se jang ki
+  Bidatoṅ se jang ki
+  Naqwatoṅ se jang ki
+  Munaafiqoṅ se jang ki
+  Tu nizaam-e-inqilaab hai
+  Tu payaam-e-inqilaab hai
+  Tu imaam-e-inqilaab hai
+  Inqilaab ya Husain
+  Kaamyaab ya Husain
 
   5
-  Watan se apne door tha
-  Tu marde be-kasoor tha
-  Ghamon se choor choor tha
-  Magar wo kya shaoor tha
+  Watan se apne dur tha
+  Tu mard-e-beqasur tha
+  Ghamoṅ se chur chur tha
+  Magar wo kya shuur tha
   Sitam utha ke hosh mein raha
-  Naheef hoke josh mein raha
-  Lahoo se surkh posh mein raha
-  Josh kya ya hussain
-  Hosh kya ya hussain
+  Nahif hoke josh mein raha
+  Lahu se surkh posh mein raha
+  Josh kya ya Husain
+  Hosh kya ya Husain
 
   6
   Wo saara ghar luta gaya
-  Wo khoon mein naha gaya
-  Sina pe sar bhi aa gaya
-  Magar wo deen bacha gaya
-  Gawahi de rahi hai karbala
-  Hussain kaamiyab ho gaya
-  Yazeed ka nishan bhi na raha
-  Soorma ya hussain
-  Har jagah ya hussain
+  Wo khun mein naha gaya
+  Sinaaṅ pe sar bhi aa gaya
+  Magar wo din bacha gaya
+  Gawaahi de rahi hai Karbala
+  Husain kaamyaab ho gaya
+  Yazid ka nishaaṅ bhi na raha
+  Surma ya Husain
+  Har jagah ya Husain
 
   7
-  Laraz rahi thi karbala
-  Tadap rahe thay ambiya
+  Laraz rahi thi Karbala
+  Tarap rahe the Ambiya
   Jo sajda aakhri kiya
-  Nibha ke waada e wafa
-  Na zeen na zameen par raha
-  Gawah hai dua e naahiya
-  Tadap rahe hai hujjat e khuda
-  As-salaam ya hussain
-  Ya imam ya hussain
+  Nibha ke waada-e-wafa
+  Na zin na zamin par raha
+  Gawaah hai dua-e-Naahiya
+  Tarap rahe haiṅ Hujjat-e-Khuda
+  As-salaam ya Husain
+  Ya Imaam ya Husain
 
   8
-  Rehaan o sarwar e aza
-  Hussain ka hai maujeza
+  Rehaan o Sarwar-e-aza
+  Husain ka hai maujiza
   Jo inke dar pe aa gaya
-  Misaal e hurr sawar gaya
-  Pukaarti hai sab ko karbala
-  Hussain ka hai dar khula huwa
-  Faqeer ko jo kare baadshah
-  Rab tera ya hussain
-  Sab tera ya hussain
+  Misaal-e-Hur sanwar gaya
+  Pukaarti hai sab ko Karbala
+  Husain ka hai dar khula hua
+  Faqir ko jo kare baadshaah
+  Rab tera ya Husain
+  Sab tera ya Husain
 # source_id: nohayonline:20f6f8a5f3423bdf013b
 # source_url: https://www.nohayonline.com/details_content.php?id=436
 # raw_sha256: a45200a0301d60c2bc17212da0e85f2d7ecdbd305481c37b8c0f80278b3c462c
 ---
-گونجتی فضاءیں ہیں
+گونجتی فضائیں ہیں
 ماتمی صدائیں ہیں
 جس طرف نظر ڈالیں
 قافلے ہزاروں ہیں
@@ -146,6 +148,7 @@ romanLyrics: |-
 اے حسین زندہ باد
 یا حسین یا حسین
 یا حسین یا حسین
+
 مولانا یا حسین
 زندہ باد یا حسین
 زندہ باد ارض کربلا
@@ -157,7 +160,7 @@ romanLyrics: |-
 حسینیت کا سایباں
 محبتوں کا آشیاں
 تو نبی کا زیب و زین ہے
-تو علی کا نور عين ہے
+تو علی کا نور عین ہے
 فاطمہ کا دل کا چین ہے
 لا الہ یا حسین
 دیں پناہ یا حسین
@@ -174,13 +177,13 @@ romanLyrics: |-
 چھا گیا یا حسین
 
 ۳
-پکارے أہل قافلہ
+پکارے اہل قافلہ
 حسین نے جو یہ کہا
 سفر ہے اب یہ موت کا
 ہر ایک رفیق بول اٹھا
 نہیں ہے کوئی موت کا خطر
 حسین جب ہمارا ہم سفر
-اجل ملاے ہم سے کیا نظر
+اجل ملائے ہم سے کیا نظر
 رہنما یا حسین
 پیشوا یا حسین
 
@@ -221,9 +224,9 @@ romanLyrics: |-
 لرز رہی تھی کربلا
 تڑپ رہے تھے انبیاء
 جو سجدہ آخری کیا
-نبھا کے وعدہ ء وفا
+نبھا کے وعدۂ وفا
 نہ زین نہ زمین پر رہا
-گواہ ہے دعاے ناحیہ
+گواہ ہے دعائے ناحیہ
 تڑپ رہے ہیں حجت خدا
 اسلام یا حسین
 یا امام یا حسین
