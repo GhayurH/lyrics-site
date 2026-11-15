@@ -1,70 +1,72 @@
 ---
-title: "ہوتے رہتے تھے جسے ہُلہِ فردوس عطا"
-alternateTitle: "Wo Shehenshahe"
+title: "ہوتے رہتے تھے جسے حُلّۂ فردوس عطا"
+alternateTitle: "Wo Shahenshaah-e-Zaman"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
+reciter: "Nadeem Sarwar"
 tags: ["noImage"]
-aliases: []
+aliases: ["Wo Shehenshahe"]
 published: false
 romanLyrics: |-
-  Hote rehte thay jise hulla-e-firdos ata
-  Wo shahenshahe zaman jisko kafan bhi na mila
+  Hote rehte the jise hulla-e-Firdaus ata
+  Wo shahenshaah-e-zaman, jis ko kafan bhi na mila
 
   1
-  Wo muhamad ka nawasa wo hussain ibne ali
-  Gulshan e fatema zehra ki wo masoom kali
-  Naam hai panjatan e paak mein ba harfe jali
-  Hurmate deen-e-khuda jis ki shahadat mein dhali
+  Wo Muhammad ka nawaasa wo Husain ibn-e-Ali
+  Gulshan-e-Faatima Zehra ki wo maasum kali
+  Naam hai Panjatan-e-paak mein ba harf-e-jali
+  Hurmat-e-din-e-Khuda jis ki shahaadat mein dhali
+  Hote rehte the jise hulla-e-Firdaus ata
 
   2
-  Jhoola jibreel ne bachpan mein jhulaya wo hussain
-  Dosh par jisko payambar ne bithaya wo hussain
-  Jis pe quran ke paaron ka tha saaya wo hussain
-  Pani dil khol ke dushman ko pilaya wo hussain
-  Haye us bekas-o-nadaar ko pani na diya
+  Jhula Jibril ne bachpan mein jhulaaya wo Husain
+  Dosh par jis ko Payambar ne bithaaya wo Husain
+  Jis pe Quraan ke paaroṅ ka tha saaya wo Husain
+  Paani dil khol ke dushman ko pilaaya wo Husain
+  Haaye us bekas o naadaar ko paani na diya
 
   3
-  Dasht mein ghayr liya jisko bulakar mehman
-  Saamne jis ke tadapta raha akbar sa jawan
-  Khaynchli jisne jawan bete ke seene se sina
-  Jiske haathon pe huwa qatl pisar guncha dahan
-  Aakhri naasir-e-mazloom bhi jis ka na raha
+  Dasht mein gher liya jis ko bulaa kar mehmaaṅ
+  Saamne jis ke tarapta raha Akbar sa jawaaṅ
+  Kheṅch li jis ne jawaaṅ bete ke sine se sinaaṅ
+  Jis ke haathoṅ pe hua qatl pisar ghuncha dahan
+  Aakhri naasir-e-mazlum bhi jis ka na raha
 
   4
-  Khoob rote hai jo apna koi mar jaata hai
-  Laasha be waali-o-waris ka kafan paata hai
-  Aur taras khaake usay koi bhi dafnata hai
-  Taziyat ke liye dushman bhi chala aata hai
-  Haye afsos jigar gosha-e-mehboob-e-khuda
+  Khub rote haiṅ jo apna koi mar jaata hai
+  Laasha be waali o waaris ka kafan paata hai
+  Aur taras khaa ke use koi bhi dafnaata hai
+  Taaziyat ke liye dushman bhi chala aata hai
+  Haaye afsos jigar gosha-e-mehbub-e-Khuda
 
   5
-  Haye pamaal huwi laashe hussain ibne ali
-  Bhai ki laash pe mazloom bahan ro na saki
-  Laashe uryan pe lahoo chasme falak roti thi
-  Kalma padte thay payambar ka aur haste thay shaki
-  Laash par jamti thi khaaq aur ye deti thi sada
+  Haaye paamaal hui laash-e-Husain ibn-e-Ali
+  Bhai ki laash pe mazlum behen ro na saki
+  Laash-e-uryaaṅ pe lahu chashm-e-falak roti thi
+  Kalma parhte the Payambar ka aur haṅste the shaqi
+  Laash par jamti thi khaak aur ye deti thi sada
 
   6
-  Parchame hazrate abbas uthane waale
-  Rahe abaad azakhane sajane waale
-  Aur salamat rahay nauhon ko sunane waale
-  Ghame sarwar mein hai jo ashk bahane waale
-  Fatema zehra unhe khuld mein deti hai dua
+  Parcham-e-Hazrat-e-Abbas uthaane waale
+  Raheṅ aabaad azaakhaane sajaane waale
+  Aur salaamat raheṅ nauhoṅ ko sunaane waale
+  Gham-e-Sarwar mein haiṅ jo ashk bahaane waale
+  Faatima Zehra unheṅ khuld mein deti haiṅ dua
 
   7
-  Zikre maula mein qalam rok na apna mehshar
-  Dekh zainab ke nahi sar pe abhi tak chadar
-  Pursa deta rahe ashaar se sheh ka mehshar
-  Rak tasawur mein ke hai dasht mein laashe sarwar
-  Laashe uryaan ko udata rahe nauhon ki rida
+  Zikr-e-Maula mein qalam rok na apna Mehshar
+  Dekh Zainab ke nahiṅ sar pe abhi tak chaadar
+  Pursa deta rahe ashaar se Shah ka Mehshar
+  Rakh tasavvur mein ke hai dasht mein laash-e-Sarwar
+  Laash-e-uryaaṅ ko urhaata rahe nauhoṅ ki rida
 # source_id: nohayonline:910f7d9aed6fd3c02146
 # source_url: https://www.nohayonline.com/details_content.php?id=431
 # raw_sha256: b1770464ba29bbdfb68b49212d6fa5a80e94bffac34ab37e4d1de00b609f3a10
 ---
-ہوتے رہتے تھے جسے ہُلہِ فردوس عطا
+ہوتے رہتے تھے جسے حُلّۂ فردوس عطا
 وہ شہنشاہِ زمن، جس کو کفن بھی نہ ملا
 
 ۱
@@ -72,16 +74,17 @@ romanLyrics: |-
 گُلشنِ فاطمہ زہرا کی وہ معصوم کلی
 نام ہے پنجتنِ پاک میں با حرفِ جلی
 حُرمتِ دینِ خدا جس کی شہادت میں ڈھلی
+ہوتے رہتے تھے جسے حُلّۂ فردوس عطا
 
 ۲
 جھُولا جبرئیل نے بچپن میں جھُلایا وہ حسین
-دوش پر جسکو پیعمبر نے بٹھایا وہ حسین
+دوش پر جس کو پیمبر نے بٹھایا وہ حسین
 جس پہ قرآن کے پاروں کا تھا سایہ وہ حسین
 پانی دل کھول کے دشمن کو پلایا وہ حسین
 ہائے اُس بے کس و نادار کو پانی نہ دیا
 
 ۳
-دشت میں گھیر لیا جس کو بُلا کر مہما ں
+دشت میں گھیر لیا جس کو بُلا کر مہماں
 سامنے جس کے تڑپتا رہا اکبر سا جواں
 کھینچ لی جس نے جواں بیٹے کے سینے سے سِناں
 جس کے ہاتھوں پہ ہوا قتل پِسر غنچہ دہن
@@ -90,7 +93,7 @@ romanLyrics: |-
 ۴
 خوب روتے ہیں جو اپنا کوئی مر جاتا ہے
 لاشہ بے والی و وارث کا کفن پاتا ہے
-اور ترس کھا کہ اُسے کوئی بھی دفناتا ہے
+اور ترس کھا کے اُسے کوئی بھی دفناتا ہے
 تعزیت کے لیے دشمن بھی چلا آتا ہے
 ہائے افسوس جگر گوشہِ محبوب ِ خدا
 
@@ -98,12 +101,12 @@ romanLyrics: |-
 ہائے پامال ہوئی لاشِ حسین ابنِ علی
 بھائی کی لاش پہ مظلوم بہن رو نہ سکی
 لاشِ عُریاں پائی لہو چشم، فلک روتی تھی
-کلمہ پڑھتے تھے پیعمبر کا اور ہنستے تھے شقی
+کلمہ پڑھتے تھے پیمبر کا اور ہنستے تھے شقی
 لاش پر جمتی تھی خاک اور یہ دیتی تھی صدا
 
 ۶
 پرچمِ حضرتِ عباس اُٹھانے والے
-رہیں آباد اعزا خانے سجانے والے
+رہیں آباد عزاخانے سجانے والے
 اور سلامت رہیں نوحوں کو سُنانے والے
 غمِ سرور میں ہیں جو اشک بہانے والے
 فاطمہ زہرا اُنہیں خُلد میں دیتی ہیں دُعا
@@ -112,5 +115,5 @@ romanLyrics: |-
 ذکر ِ مولا میں قلم روک نہ اپنا محشر
 دیکھ زینب کے نہیں سر پہ ابھی تک چادر
 پُرسہ دیتا رہے اشعار سے شہہ کا محشر
-رکھ تصور میں کے ہے دشت میں لاشِ سرور
+رکھ تصور میں کہ ہے دشت میں لاشِ سرور
 لاشِ عُریاں کو اُڑھاتا رہے نوحوں کی ردا
