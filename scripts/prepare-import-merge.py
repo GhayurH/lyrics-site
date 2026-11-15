@@ -166,7 +166,7 @@ for key, entries in aliases.items():
                 flags[path].append("alias_matches_filename:" + existing[key])
                 counts["alias_route_collision"] += 1
 with (audit/"lyric-md-rounds.csv").open("w",encoding="utf8",newline="") as out:
-    writer = csv.writer(out)
+    writer = csv.writer(out, lineterminator="\n")
     writer.writerow(["path","round","status","source_sites","source_ids","added_from","notes"])
     for row in rows:
         row[-1] = ";".join(dict.fromkeys(flags[row[0]]))
@@ -178,7 +178,7 @@ for field, values in metadata.items():
     for group in grouped.values():
         if len(group)>1: queue.append((field,sum(n for _,n in group),"; ".join(f"{v} ({n})" for v,n in group)))
 with (audit/"metadata-review.csv").open("w",encoding="utf8",newline="") as out:
-    writer=csv.writer(out)
+    writer=csv.writer(out, lineterminator="\n")
     writer.writerow(["field","occurrences","possible_duplicate_spellings"])
     writer.writerows(sorted(queue))
 with (audit/"import-merge-readiness.md").open("w",encoding="utf8") as out:
