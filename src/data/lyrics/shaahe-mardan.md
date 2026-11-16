@@ -6,7 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
-reciter: "Shadman Raza"
+reciter: ["Sachey Bhai","Shadman Raza"]
 tags: []
 aliases: ["Shaahe Mardan"]
 published: true
@@ -67,6 +67,9 @@ romanLyrics: |-
 # source_id: nohayonline:75055e4499a1b3a18a23
 # source_url: https://www.nohayonline.com/details_content.php?id=2635
 # raw_sha256: 2492347ecadbb0eced5e8a9968eeb33c2ddef3f99c9a28661c505f937e55a92e
+# source_id: nohayonline:301b25c4f0a0ee4bb63c
+# source_url: https://www.nohayonline.com/details_content.php?id=536
+# raw_sha256: 38cb992c742a037173df5e52ed1dd526b2cb43f6cd4d2c3d7aae084e028c8ca8
 ---
 یا علی مولا حیدر مولا
 

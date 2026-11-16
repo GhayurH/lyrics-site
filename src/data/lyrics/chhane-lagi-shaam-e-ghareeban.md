@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Chhane lagi shaam-e-gharibaṅ,
   haaye qiyamat ka hai samaaṅ
-  Khaima e sadaat se utha dhuaaṅ,
+  Khaima-e-Sadaat se utha dhuaaṅ,
   haaye qiyamat ka hai samaaṅ
 
   1
@@ -79,6 +79,9 @@ romanLyrics: |-
   mamta pe aanch bhi aane na di
   Maaṅ to hai bas Aun o Muhammad ki maaṅ,
   haaye qiyamat ka hai samaaṅ
+# source_id: nohayonline:5e5c2f009b107b98685c
+# source_url: https://www.nohayonline.com/details_content.php?id=603
+# raw_sha256: 4a9e57323046cc3e0693f9e7079b64c4f0f6a44dbc27dbaac70004740fa024f6
 ---
 
 چھانے لگی شامِ غریباں،

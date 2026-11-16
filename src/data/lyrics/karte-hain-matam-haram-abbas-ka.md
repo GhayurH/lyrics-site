@@ -5,9 +5,10 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Dayam Najafi"
+reciter: "Ali Yazdan"
 tags: []
-aliases:
-  - "Karte Hain Matam Haram Abbas Ka"
+aliases: []
 published: true
 romanLyrics: |-
   Karte Haiṅ Matam Haram Abbas Ka
@@ -64,6 +65,9 @@ romanLyrics: |-
   Naize Pe Us Qaari-e-Quran Ke Saath
   Daaem-e-Ghamkhwaar Bhi Yazdaaṅ Ke Saath
   Karta Hai Nauha Raqam Abbas Ka
+# source_id: nohayonline:214ab97f7704ddcb79f0
+# source_url: https://www.nohayonline.com/details_content.php?id=1450
+# raw_sha256: 6537516100ef0d7568163b7f4da14dd20c407a9223f6e6a42fc24e039d9740f4
 ---
 
 کرتے ہیں ماتم حرم عباسؑ کا

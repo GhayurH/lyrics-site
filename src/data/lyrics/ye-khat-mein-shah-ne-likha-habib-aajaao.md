@@ -5,92 +5,99 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Mir Takallum"
+reciter: "Mir Hasan Mir"
 tags: []
-aliases:
-  - "Ye Khat Mein Shah Ne Likha, Habib Aajaao"
+aliases: []
 published: true
 romanLyrics: |-
-  Ye khat meiṅ Shah ne likha, Habib aajaao
-  Tumhara dost hai tanha, Habib aajaao
+  Ae faqih-e-Husain ae Habib-e-Husain
+
+  Ye khat meiṅ Shaah ne likha Habib aa jaao
+  Tumhaara dost hai tanha Habib aa jaao
 
   1
-  Shahid kaise huwa wo bataaogey aakar
-  Tum haal-e-Muslim-e-baikas sunaaogey aakar
-  Ruqayya takti hai rastaa Habib aajaao
+  Shahid kaise hua wo bataaoge aa kar
+  Tum haal-e-Muslim-e-bekas sunaaoge aa kar
+  Ruqayya takti hai rasta Habib aa jaao
 
   2
   Lagaao is se bhi andaaze meri ghurbat ke
-  Jahaaṅ pey ibn-e-Ali likhna tha wahaaṅ meiṅ ne
-  Diya hai maaṅ ka hawala, Habib aajaao
+  Jahaaṅ pe ibn-e-Ali likhna tha wahaaṅ maiṅ ne
+  Diya hai maaṅ ka hawaala Habib aa jaao
 
   3
-  Bata raha tha use koi bhi nahi hai mera
-  To boli Thaaniy-e-Zehra Habib aayega
-  Hai usko tumpey bharosa, Habib aajaao
+  Bataa raha tha use koi bhi nahiṅ hai mera
+  To boli saani-e-Zahra Habib aayega
+  Hai us ko tum pe bharosa Habib aa jaao
 
   4
-  Wo jab ye sunti hai Kufe se aarahe haiṅ shaqi
-  To puchti hai hamaara bhi aayega koi
-  Duaaeiṅ deygi Sakina, Habib aajaao
+  Wo jab ye sunti hai Kufe se aa rahe haiṅ shaqi
+  To puchhti hai hamaara bhi aayega koi
+  Duaaeṅ degi Sakina Habib aa jaao
 
   5
-  Gawara kar nahiṅ sakti Husain ki ghairat
-  Tumhari zauja ki chaadar ko lutley ummat
-  Tum usko chorhkey Kufa Habib aajaao
+  Gawaara kar nahiṅ sakti Husain ki ghairat
+  Tumhaari zauja ki chaadar ko lut le ummat
+  Tum us ko chhor ke Kufa Habib aa jaao
 
   6
-  Mujhe hai yaad wo lamha Jo rab ki marzi se
-  Tum ho ke zinda Meri baat sunne aaye the
-  Bula raha huṅ dubara Habib aajaao
+  Mujhe hai yaad wo lamha jo Rab ki marzi se
+  Tum ho ke zinda meri baat sunne aaye the
+  Bulaa raha huṅ dubaara, Habib aa jaao
 
   7
-  Dar-e-Batul dobaara jalaaya jaayega
-  Tumhaare dost pey khanjar chalaaya jaayega
-  Nahiṅ hai waqt zyaada Habib aajaao
+  Dar-e-Batul dubaara jalaaya jaayega
+  Tumhaare dost pe khanjar chalaaya jaayega
+  Nahiṅ hai waqt ziyaada Habib aa jaao
 
   8
-  Chamakte chaand ki humko bhi did hojaaye
-  Tum aao to mere bachoṅ meiṅ Eid hojaaye
-  Bohat udaas hai kunba Habib aajaao
+  Chamakte chaand ki ham ko bhi did ho jaaye
+  Tum aao to mere bachchoṅ meiṅ Eid ho jaaye
+  Bahut udaas hai kunba Habib aa jaao
 
   9
   Ye khat nahiṅ ise behnoṅ ki aarzu samjho
   Hamaare lafzoṅ ko Zainab ki guftagu samjho
-  Behan ye kehti hai bhayya Habib aajaao
+  Behen ye kehti hai bhaiya Habib aa jaao
 
   10
-  Bahan ne usko takallum Jo bhai samjhaa tha
-  Pukaari sham-e-gharibaṅ meiṅ Thaaniy-e-Zehra
-  Hamaara lutta hai pardaa Habib aajaao
+  Behen ne us ko Takallum jo bhaai samjha tha
+  Pukaari Shaam-e-Gharibaaṅ meiṅ saani-e-Zehra
+  Hamaara lutta hai parda Habib aa jaao
+# source_id: nohayonline:8c7057bb96bd66bad9f1
+# source_url: https://www.nohayonline.com/details_content.php?id=1615
+# raw_sha256: e0f13993e6a4ee7463d06415055b9ae3fd8be144b1718545e9a8bb65f149298c
 ---
+اے فقیہہِ حسین اے حبیبِ حسین
 
-یہ خط میں شاہؑ نے لکھا حبیب آجاؤ
-تمہارا دوست ہے تنہا تمہارا دوست ہے تنہا
+یہ خط میں شاہ نے لکھا حبیب آجاؤ
+تمہارا دوست ہے تنہا حبیب آجاؤ
 
 ۱
-شہید کیسے ہوا وہ بتاو ٔگے آکر
+شہید کیسے ہوا وہ بتاؤ گے آ کر
 تم حالِ مسلمِؑ بے کس سناؤ گے آکر
-رُقیہؑ تکتی ہے رستہ، حبیب آجاؤ
+رُقیہ تکتی ہے رستہ حبیب آجاؤ
 
 ۲
-لگاؤ اِس سے بھی اندازے میری غربت کے
-جہاں پہ ابن علیؑ لکھنا تھا وہاں میں نے
-دیا ہے ماں کا حوالہ، حبیب آجاؤ
+لگاؤ اس سے بھی اندازے میری غربت کے
+جہاں پہ ابن علی لکھنا تھا وہاں میں نے
+دیا ہے ماں کا حوالہ حبیب آجاؤ
 
 ۳
 بتا رہا تھا اُسے کوئی بھی نہیں ہے میرا
-تو بولی ثانیٔ زہراؑ حبیب ؑآئے گا
-ہے اُس کو تم پہ بھروسہ، حبیب آجاؤ
+تو بولی ثانیٔ زہرا حبیب آئے گا
+ہے اُس کو تم پہ بھروسہ حبیب آجاؤ
 
 ۴
 وہ جب یہ سنتی ہے کوفے سے آرہے ہیں شقی
 تو پوچھتی ہے ہمارا بھی آئے گا کوئی
-دُعائیں دے گی سکینہؑ، حبیب آجاؤ
+دُعائیں دے گی سکینہ حبیب آجاؤ
 
 ۵
-گوارا کر نہیں سکتی حسینؑ کی غیرت
+گوارا کر نہیں سکتی حسین کی غیرت
 تمہاری زوجہ کی چادر کو لوٹ لے اُمت
-تم اس کو چھوڑ کے کوفہ، حبیب آجاؤ
+تم اس کو چھوڑ کے کوفہ حبیب آجاؤ
 
 ۶
 مجھے ہے یاد وہ لمحہ جو رب کی مرضی سے
@@ -98,21 +105,21 @@ romanLyrics: |-
 بُلا رہا ہوں دوبارہ، حبیب آجاؤ
 
 ۷
-درِ بتولؑ دوبارہ جلایا جائے گا
+درِ بتول دوبارہ جلایا جائے گا
 تمہارے دوست پہ خنجر چلایا جائے گا
-نہیں ہے وقت زیادہ، حبیب آجاؤ
+نہیں ہے وقت زیادہ حبیب آجاؤ
 
 ۸
 چمکتے چاند کی ہم کو بھی دید ہو جائے
-تم آو تو میرے بچوں میں عید ہو جائے
-بہت اُداس ہے کنبہ، حبیب آجاؤ
+تم آؤ تو میرے بچوں میں عید ہو جائے
+بہت اُداس ہے کنبہ حبیب آجاؤ
 
 ۹
-یہ خط نہیں اِسے بہنوں کی آرزو سمجھو
-ہمارے لفظوں کو زینبؑ کی گفتگو سمجھو
-بہن یہ کہتی ہے بھیا، حبیب آجاؤ
+یہ خط نہیں اسے بہنوں کی آرزو سمجھو
+ہمارے لفظوں کو زینب کی گفتگو سمجھو
+بہن یہ کہتی ہے بھیا حبیب آجاؤ
 
 ۱۰
-بہن نے اُس کو تکلم ؔجو بھائی سمجھا تھا
+بہن نے اُس کو تکلم جو بھائی سمجھا تھا
 پکاری شامِ غریباں میں ثانیٔ زہرا
-ہمارا لُٹتا ہے پردہ، حبیب آجاؤ
+ہمارا لُٹتا ہے پردہ حبیب آجاؤ

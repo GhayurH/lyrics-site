@@ -16,7 +16,7 @@ romanLyrics: |-
   Nabi ko haq ka ek inaam hai Abu Talib
   Harim meiṅ wahi meiṅ ilhaam hai Abu Talib
   Haram ke azm ka ehraam hai Abu Talib
-  Ye sun ke laaye jo ghuncha wo phul ho jaaye
+  Ye chunkay laeyṅ jo ghuncha wo phul ho jaaye
   Phir un ki god meiṅ pal kar Rasul ho jaaye
 
   2
@@ -149,7 +149,7 @@ romanLyrics: |-
 نبی کو حق کا اک انعام ہے ابو طالب
 حریم میں وحی میں الہام ہے ابو طالب
 حرم کے عظم کا احرام ہے ابو طالب
-یہ سُن کے لائے جو غنچہ وہ پھول ہو جائے
+یہ چن کے لائیں جو غنچہ وہ پھول ہو جائے
 پھر اُن کی گود میں پل کر رسول ہو جائے
 
 ۲
