@@ -3438,6 +3438,9 @@ src/data/lyrics/zainab-sare-uryan.md,round_1,present,nohayonline,nohayonline:3e9
 src/data/lyrics/zainab-se-poochti.md,round_1,present,nohayonline,nohayonline:3b0a3bc52658c19ec5a7,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/zainab-shaheed-hogayi.md,round_1,present,nohayonline,nohayonline:cd4752afc7da70077de8,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/zainab-tadap-ke.md,round_1,present,nohayonline,nohayonline:b3c744979cf2e1846f60,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/zainab-tere-baba-ki-jabeen-khoon-mein-tar-hai-nw-87016d54d778.md,round_2,consolidated,nohawriteups,nohawriteups:87016d54d7783b901904,round2-kalams-2026-11-14,Merged both duplicate Roman sources into src/data/lyrics/zainab-tere-baba-ki-jabeen-khoon-mein-tar-hai.md on 2026-11-16
+src/data/lyrics/zainab-tere-baba-ki-jabeen-khoon-mein-tar-hai.md,round_2,present,nohawriteups,nohawriteups:87016d54d7783b901904;nohawriteups:23f856a48184049affef,round2-kalams-2026-11-14,Five complete three-line stanzas from two Roman witnesses merged on 2026-11-16
+src/data/lyrics/zainab-tere-baba-ki-jabhi-khoon-mein-tar-hai-nw-23f856a48184.md,round_2,consolidated,nohawriteups,nohawriteups:23f856a48184049affef,round2-kalams-2026-11-14,Merged both duplicate Roman sources into src/data/lyrics/zainab-tere-baba-ki-jabeen-khoon-mein-tar-hai.md on 2026-11-16
 src/data/lyrics/zainab-ye-boli.md,round_1,present,nohayonline,nohayonline:88e8ee72d41fe2acbf21,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/zainab-ye-dua-karti.md,round_1,present,nohayonline,nohayonline:70d10ea47a3557a85941,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/zainab-ye-dua.md,round_1,present,nohayonline,nohayonline:d18d97a6e788d8f7ec10,feat/import-overlap-reconciliation-2026-11-05,
