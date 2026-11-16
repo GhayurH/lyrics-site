@@ -2,7 +2,7 @@ name: Dedup branch verification
 on:
   push:
     branches: [fix/main-content-dedup-2026-11-16]
-    paths: [.github/workflows/content-dedup-verification.yml]
+    # Run on every change while the branch is under verification.
   workflow_dispatch:
 permissions:
   contents: read
