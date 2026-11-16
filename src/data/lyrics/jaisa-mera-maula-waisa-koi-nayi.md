@@ -15,6 +15,12 @@ published: false
 # source_id: tajpoints:a06598db36b30d35f99e
 # source_url: https://tajpoints.com/2020/03/jaisa-mera-maula-waisa-koi-nayi-page-2.html
 # raw_sha256: ce071264a22431e0daa3e8ba78efdec81c79036d5531c970bd6693fafd29a911
+# source_id: nohawriteups:25f87e62e2f6da3560c8
+# source_url: https://www.nohawriteups.org/jaisa-mera-maula-waisa-koi-nahi-mir-hasan-mir-manqabat-lyrics/
+# original_html: snapshots/nohawriteups/original_html/25f87e62e2f6da3560c8.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/25f87e62e2f6da3560c8.json
+# api_content_sha256: 8d4b54da870724b9016b3448ad386f3958805b0d6eb3720d08b11912d79f8aa8
+# editorial_note: Duplicate witness folded into canonical source record. Its verses are already present in this edition; no additional stanzas identified.
 ---
 
 Ya Shah-e-Auliya Waris-e-Mustafa Ya Ali Murtaza Ya Ali Elia.
