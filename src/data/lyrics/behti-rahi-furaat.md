@@ -65,6 +65,12 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: ziyaraat:45fdba81a94d367ea0ee
 # source_url: https://www.ziyaraat.net/api/noha/355
 # raw_sha256: 812956ee27dd629004a88f265ac821071b4cade46377baeaa7f51b5d93e1dac4
+# source_id: tajpoints:c26268fdaae7ddb89533
+# source_url: https://tajpoints.com/2022/12/behti-rahi-furaat-nadeem-sarwar-lyrics.html
+# raw_sha256: 3a7b626483fdd78b1a77e5292cb5962b841f936eb0ce5f856c44af374d628d76
+# source_id: nohawriteups:e7c275b2904016f25c8c
+# source_url: https://www.nohawriteups.org/behti-rahi-furaat/
+# original_html: snapshots/nohawriteups/original_html/e7c275b2904016f25c8c.html.gz
 ---
 
 اے شامِ غریباں

@@ -4,6 +4,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Mazhar"
 tags: []
 aliases: []
 published: false
@@ -88,6 +89,9 @@ romanLyrics: |-
 # source_title_original: Sakina utho
 # editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 # editorial_warning: stray < line removed from original Urdu
+# source_id: tajpoints:3e1565690b5140aa0753
+# source_url: https://tajpoints.com/2017/10/sakina-utho-meri-jaan-utho-rehai-mili.html
+# raw_sha256: 21814e58c32fb90b188856d62057f16a7395614f3a7029c60df5d83dd09f578c
 ---
 
 سکینہ اُٹھو میری جاں اُٹھو

@@ -47,7 +47,7 @@ romanLyrics: |-
 
   6
   Yaad-e-pisar jab aati, to kokh ujri maadar
-  Raatoṅ ko uth kar aksar, kehti thi dar pe agar
+  Raatoṅ ko uth kar aksar, kehti thi dar pe aakar
   Ae chhe mahine waale tujh ko mera salaam
   Asghar haye Asghar
 
@@ -62,6 +62,9 @@ romanLyrics: |-
 # source_id: ziyaraat:9ece866af11f35e2d92f
 # source_url: https://www.ziyaraat.net/api/noha/2145
 # raw_sha256: ab99adcedd37a5618c145ebaeebc04f8f2a0582a7113a97a48daed437ac92f44
+# source_id: nohawriteups:dd56b6609355a2a40de1
+# source_url: https://www.nohawriteups.org/asghar-haye-asghar/
+# original_html: snapshots/nohawriteups/original_html/dd56b6609355a2a40de1.html.gz
 ---
 
 اصغرؑ ہائے اصغرؑ
@@ -99,7 +102,7 @@ romanLyrics: |-
 
 ۶
 یاد پسر جب آتی، تو کوکھ اجڑی مادر
-راتوں کو اٹھ کر اکثر، کہتی تھی در پہ اگر
+راتوں کو اٹھ کر اکثر، کہتی تھی در پہ آ کر
 اے چھ مہینے والے تجھ کو میرا سلام
 اصغرؑ ہائے اصغرؑ
 
