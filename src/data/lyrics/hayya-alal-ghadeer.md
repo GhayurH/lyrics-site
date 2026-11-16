@@ -30,7 +30,7 @@ romanLyrics: |-
   Ahl-e-wila ko manzil-e-maqsud mil gayi
 
   3
-  Bole Nabi ke ain-e-Faeelat ka waqt hai
+  Bole Nabi ke ain-e-Fazilat ka waqt hai
   Nafs-e-Khuda ke dar pe ibaadat ka waqt hai
   Wajh-e-Khuda ke rukh ke ziyaarat ka waqt hai
   Dast-e-Khuda ke haath pe baiat ka waqt hai
@@ -100,7 +100,7 @@ romanLyrics: |-
 اہلِ ولا کو منزلِ مقصود مل گئی
 
 ۳
-بولے نبی کہ عینِ فعیلت کا وقت ہے
+بولے نبی کہ عینِ فضیلت کا وقت ہے
 نفسِ خدا کے در پہ عبادت کا وقت ہے
 وجہِ خدا کے رخ کے زیارت کا وقت ہے
 دستِ خدا کے ہاتھ پہ بیعت کا وقت ہے
