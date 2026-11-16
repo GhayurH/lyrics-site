@@ -63,6 +63,12 @@ romanLyrics: |-
   Pairoṅ ke tale jalti thi zamiṅ
   Sajjad ke gham meiṅ ro ro kar
   Karta hai har ek rasta maatam
+
+  9
+  Sardar-e-Jinna Shabeer Hain Jab
+  Rehan Kaho Yeh Baat Bhi Ab
+  Sarwar Jo Sunaye Ga Noha
+  Janat Mein Bapa Hoga Matam
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:c1dcfb58f2e4a58930a7
 # source_url: https://www.nohayonline.com/details_content.php?id=3090
@@ -70,6 +76,7 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: ziyaraat:0f8457ce73f3b33615b1
 # source_url: https://www.ziyaraat.net/api/noha/363
 # raw_sha256: 2b0d0c1fd34fa5577bea06c440c441522543506941eeb867aec7df365cfe6af9
+# editorial_note: "The ninth Roman stanza with Rehan and Sarwar takhallus is restored; its corresponding Urdu stanza remains to be completed."
 ---
 
 گھر گھر ماتم در در ماتم
