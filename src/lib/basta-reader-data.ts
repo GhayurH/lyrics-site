@@ -33,6 +33,8 @@ export async function loadBastaReaderDataset(): Promise<BastaReaderDataset> {
       urduText: (entry.body ?? "").trim(),
       romanText,
       stanzaStyle: getBastaStanzaStyleForPage(entry.data.page),
+      stanzaPattern: entry.data.stanzaPattern,
+      stanzaPatterns: entry.data.stanzaPatterns,
       hasRoman: romanText.length > 0,
       showBreak: entry.data.page !== lastVisiblePage,
     };

@@ -1,20 +1,21 @@
 ---
 /* File role: Render source stanzas and six-verse 4+2 groups consistently in Urdu and Roman. */
 import { layoutLyricStanzas, lyricStanzaClassNames, lyricLineClassName } from "../lib/lyric-stanzas";
+import type { StanzaPattern } from "../lib/stanza-pattern";
 
 interface Props {
   text: string;
   className: string;
-  sixVerseLayout?: "pairs";
+  stanzaPattern?: StanzaPattern;
 }
 
-const { text, className, sixVerseLayout } = Astro.props as Props;
-const stanzas = layoutLyricStanzas(text);
+const { text, className, stanzaPattern } = Astro.props as Props;
+const stanzas = layoutLyricStanzas(text, stanzaPattern);
 ---
 
 <div class:list={[className, "lyric-reading-text"]}>
   {stanzas.map((stanza) => (
-    <div class={lyricStanzaClassNames(stanza, sixVerseLayout)}>
+    <div class={lyricStanzaClassNames(stanza, stanzaPattern)}>
       {stanza.map((line) => (
         <span class={lyricLineClassName(line)}>{line.text}</span>
       ))}

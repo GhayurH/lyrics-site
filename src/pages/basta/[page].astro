@@ -74,6 +74,7 @@ const {
 
 const page = entry.data.page;
 const stanzaStyle = getBastaStanzaStyleForPage(page);
+const { stanzaPattern, stanzaPatterns } = entry.data;
 const urduText = (entry.body ?? "").trim();
 const romanText = (entry.data.romanLyrics ?? "").trim();
 const hasRomanText = romanText.length > 0;
@@ -229,6 +230,8 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
             romanText={romanText}
             variant="page"
             stanzaStyle={stanzaStyle}
+            stanzaPattern={stanzaPattern}
+            stanzaPatterns={stanzaPatterns}
             page={page}
           />
         )
@@ -242,7 +245,7 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
             dir="rtl"
             aria-label={`Urdu text of Basta page ${page}`}
           >
-            <BastaText text={urduText} className="basta-urdu-text" indentStanzas={page >= settings.romanLyricsStartPage} stanzaStyle={stanzaStyle} />
+            <BastaText text={urduText} className="basta-urdu-text" indentStanzas={page >= settings.romanLyricsStartPage} stanzaStyle={stanzaStyle} stanzaPattern={stanzaPattern} stanzaPatterns={stanzaPatterns} />
           </section>
         )
       }

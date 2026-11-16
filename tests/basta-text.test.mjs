@@ -307,11 +307,30 @@ test("Noha attribution distinguishes a title from unnumbered couplets", () => {
   assert.equal(lines[1].poet, true);
 });
 
+test("recitation-only title and byline never inherit couplet justification or indentation", () => {
+  for (const [title, poet] of [
+    ["جب خلق سے وقتِ سفر فاطمہؑ آیا", "میر انیس"],
+    ["Jab khalq se waqt-e-safar Fatima aaya", "Mir Anis"],
+  ]) {
+    const lines = layoutBastaKalam([title, poet].join("\n"), true, "auto", true);
+    assert.equal(lines[0].title, true, title);
+    assert.equal(lines[1].poet, true, poet);
+    assert.ok(bastaVerseClassNames(lines[0]).includes("kalam-reading-title"));
+    assert.ok(bastaVerseClassNames(lines[1]).includes("kalam-poet-credit"));
+    assert.ok(!bastaVerseClassNames(lines[1]).includes("basta-verse-poetry"));
+    assert.ok(!bastaVerseClassNames(lines[1]).includes("basta-verse-indent"));
+    assert.ok(lines.every(line => !line.verse && !line.indent && !line.reverseIndent));
+  }
+  // Ordinary, non-preface couplets still use the original verse geometry.
+  assert.equal(layoutBastaKalam("first\nsecond")[1].indent, true);
+});
+
 test("recitation preface alone retains a three-line title, subtitle, and poet", () => {
   const lines = layoutBastaKalam("عقل و شعور ہیں رب کی نعمت\nحقِ مودّت ادا کرو\nسبط جعفر", true, "auto", true);
   assert.equal(lines[0].title, true);
   assert.equal(lines[1].subtitle, true);
   assert.equal(lines[2].poet, true);
+  assert.ok(lines.every(line => !line.verse && !line.indent && !line.reverseIndent));
 });
 
 test("Basta generic headings and unlisted poet bylines use shared title/credit styles", () => {
@@ -444,4 +463,25 @@ test("Basta 421 keeps source-backed three-verse groups and does not invent its o
     assert.deepEqual(counts, [2, 3, 3, 3, 3, 3, 3, 3],
       "Two opening source verses are preserved; remaining stanzas are tercets");
   }
+});
+
+test("Markdown stanzaPattern overrides inferred Basta couplets and split six-verse groups", () => {
+  const explicitCouplets = layoutBastaKalam("one\ntwo\nthree\nfour", true, "auto", false, 2);
+  assert.deepEqual(explicitCouplets.map(line => line.indent), [false, true, false, true]);
+  assert.equal(explicitCouplets[2].coupletSeparator, true);
+
+  const sixPairs = layoutBastaKalam("a\nb\nc\nd\ne\nf", true, "auto", false, "2+2+2");
+  assert.deepEqual(sixPairs.filter(line => line.coupletSeparator).map(line => line.text), ["c", "e"]);
+  assert.ok(sixPairs.every(line => !line.sixClosingStart && !line.sixClosingEnd));
+
+  const source = "۱\na\nb\nc\nd\n\ne\nf";
+  const four = layoutBastaKalam(source, true, "auto", false, 4);
+  assert.ok(four.every(line => !line.sixClosingStart && !line.sixClosingEnd));
+  const six = layoutBastaKalam(source, true, "auto", false, "4+2");
+  assert.equal(six.find(line => line.text === "e")?.sixClosingStart, true);
+  assert.equal(six.find(line => line.text === "f")?.sixClosingEnd, true);
+
+  const overriddenSalam = layoutBastaKalam("a\nb\nc\nd\ne\nf", true, "couplet", false, "4+2");
+  assert.equal(overriddenSalam[4].sixClosingStart, true);
+  assert.ok(!overriddenSalam.some(line => line.coupletSeparator));
 });

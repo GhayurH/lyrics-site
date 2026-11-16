@@ -1,14 +1,17 @@
 // File role: Parse source stanza breaks and resolve six-verse presentation without altering Markdown.
 import { parseStanzaNumber } from "./stanza-numbers.ts";
+import type { StanzaPattern } from "./stanza-pattern.ts";
 export interface LyricDisplayLine {
   text: string;
   number: boolean;
 }
 
 /** Shared stanza classes for server-rendered lyrics and recitation content. */
-export function lyricStanzaClassNames(stanza: readonly LyricDisplayLine[], sixVerseLayout?: "pairs"): string {
-  const six = stanza.filter((line) => !line.number).length === 6;
-  return ["lyric-stanza", six && "lyric-stanza-six", six && sixVerseLayout === "pairs" && "lyric-stanza-pairs"]
+export function lyricStanzaClassNames(stanza: readonly LyricDisplayLine[], pattern?: StanzaPattern): string {
+  const count = stanza.filter((line) => !line.number).length;
+  return ["lyric-stanza", count === 2 && pattern === 2 && "lyric-stanza-couplet",
+    count === 6 && "lyric-stanza-six",
+    count === 6 && pattern === "2+2+2" && "lyric-stanza-pairs"]
     .filter(Boolean).join(" ");
 }
 
@@ -36,8 +39,11 @@ export function splitLyricStanzas(text: string): LyricDisplayLine[][] {
  * numbered stanza. Other source breaks remain untouched, including repeated
  * 2-line refrains and sequences whose verse grouping is ambiguous.
  */
-export function layoutLyricStanzas(text: string): LyricDisplayLine[][] {
+export function layoutLyricStanzas(text: string, pattern?: StanzaPattern): LyricDisplayLine[][] {
   const sourceBlocks = splitLyricStanzas(text);
+  // An explicit non-six-line form rules out the automatic 4+2 joining.
+  if (pattern !== undefined && pattern !== 6 && pattern !== "4+2" && pattern !== "2+2+2")
+    return sourceBlocks;
   const displayBlocks: LyricDisplayLine[][] = [];
 
   for (let index = 0; index < sourceBlocks.length; index++) {

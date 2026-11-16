@@ -8,9 +8,12 @@ import { parseStanzaNumber } from "../lib/stanza-numbers";
 import { romanUnavailable } from "../lib/edition-availability";
 import type { RecitationItem } from "../lib/recitation-set";
 import { node } from "./dom";
+import type { StanzaPattern } from "../lib/stanza-pattern";
+import type { BastaStanzaStyle } from "../lib/basta-text";
 
-function addBastaText(host: HTMLElement, text: string, prefaceOnly = false) {
-  host.append(renderBastaTextBlock(text, true, "auto", prefaceOnly));
+function addBastaText(host: HTMLElement, text: string, prefaceOnly = false,
+  pattern?: StanzaPattern, style: BastaStanzaStyle = "auto") {
+  host.append(renderBastaTextBlock(text, true, style, prefaceOnly, pattern));
 }
 /** Programme numbers describe the displayed order, never the printed source ID. */
 function programmeStanzaNumber(position: number, language: "urdu" | "roman"): string {
@@ -18,10 +21,10 @@ function programmeStanzaNumber(position: number, language: "urdu" | "roman"): st
   return language === "roman" ? number :
     number.replace(/[0-9]/g, (digit) => "۰۱۲۳۴۵۶۷۸۹"[Number(digit)]);
 }
-function addLyricText(host: HTMLElement, text: string, isRoman = false, sixVerseLayout?: "pairs") {
+function addLyricText(host: HTMLElement, text: string, isRoman = false, pattern?: StanzaPattern) {
   const block = node("div", "lyric-reading-text " + (isRoman ? "roman-lyrics-text" : "lyrics-text"));
-  for (const stanza of layoutLyricStanzas(text)) {
-    const group = node("div", lyricStanzaClassNames(stanza, sixVerseLayout));
+  for (const stanza of layoutLyricStanzas(text, pattern)) {
+    const group = node("div", lyricStanzaClassNames(stanza, pattern));
     for (const line of stanza) {
       group.append(node("span", lyricLineClassName(line), line.text));
     }
@@ -47,14 +50,15 @@ function originalBastaEdition(parent: HTMLElement, kalam: BastaKalam, language: 
   }
   if (!kalam.numbered || !kalam.stanzas.length ||
       (language === "roman" && kalam.stanzas.some((stanza) => !stanza.roman))) {
-    addBastaText(parent, source);
+    addBastaText(parent, source, false, kalam.stanzaPattern, kalam.stanzaStyle);
     return;
   }
   const opening = language === "urdu" ? kalam.preface : preface(source);
-  if (opening) addBastaText(parent, opening, true);
+  if (opening) addBastaText(parent, opening, true, kalam.stanzaPattern, kalam.stanzaStyle);
   for (const [position, stanza] of kalam.stanzas.entries()) {
     addBastaText(parent, programmeStanzaNumber(position, language) + "\n" +
-      (language === "urdu" ? stanza.urdu : stanza.roman!));
+      (language === "urdu" ? stanza.urdu : stanza.roman!), false,
+      stanza.stanzaPattern ?? kalam.stanzaPattern, kalam.stanzaStyle);
   }
 }
 
@@ -76,9 +80,9 @@ function stanzaSection(parent: HTMLElement, poem: Poem, item: RecitationItem, la
   const original = poem.basta!;
   const references = item.stanzaSequence || [];
   if (language === "urdu") {
-    if (original.preface) addBastaText(parent, original.preface, true);
+    if (original.preface) addBastaText(parent, original.preface, true, original.stanzaPattern, original.stanzaStyle);
   } else if (preface(original.roman || "")) {
-    addBastaText(parent, preface(original.roman || ""), true);
+    addBastaText(parent, preface(original.roman || ""), true, original.stanzaPattern, original.stanzaStyle);
   }
   for (const [position, ref] of references.entries()) {
     const source = sources.get(ref.kalamId)?.basta;
@@ -96,7 +100,8 @@ function stanzaSection(parent: HTMLElement, poem: Poem, item: RecitationItem, la
         romanUnavailable("stanza", hasScan, position + 1)));
     } else {
       const block = renderBastaTextBlock(programmeStanzaNumber(position, language) + "\n" +
-        (language === "urdu" ? stanza.urdu : stanza.roman), true, "auto");
+        (language === "urdu" ? stanza.urdu : stanza.roman), true,
+        source.stanzaStyle ?? "auto", false, stanza.stanzaPattern ?? source.stanzaPattern);
       // Keep provenance in the document without interrupting recitation.
       block.dataset.sourceKalam = ref.kalamId;
       block.dataset.sourceStanza = ref.stanzaId;
@@ -161,9 +166,9 @@ export function renderWork(work: HTMLElement, item: RecitationItem, index: numbe
     originalBastaEdition(urdu, poem.basta!, "urdu", hasScan);
     originalBastaEdition(roman, poem.basta!, "roman", hasScan);
   } else {
-    if (poem.urdu) addLyricText(urdu, poem.urdu, false, poem.sixVerseLayout);
+    if (poem.urdu) addLyricText(urdu, poem.urdu, false, poem.stanzaPattern);
     else urdu.append(node("p", "recite-empty-edition", "Urdu is not available for this kalam."));
-    if (poem.roman) addLyricText(roman, poem.roman, true, poem.sixVerseLayout);
+    if (poem.roman) addLyricText(roman, poem.roman, true, poem.stanzaPattern);
     else roman.append(node("p", "recite-empty-edition", romanUnavailable("kalam", hasScan)));
   }
   // Preserve the selected Roman edition while signalling when a source scan

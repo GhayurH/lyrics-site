@@ -7,7 +7,7 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Adil Nazar"
 reciter: "Shadman Raza"
-sixVerseLayout: "pairs"
+stanzaPattern: "2+2+2"
 tags: []
 aliases: []
 published: true
