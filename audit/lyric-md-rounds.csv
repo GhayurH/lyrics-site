@@ -340,6 +340,7 @@ src/data/lyrics/al-ajal-al-ajal-ya-imam-e-zamana-al-ajal.md,original,present,,,m
 src/data/lyrics/al-ajal-ya-imame.md,round_1,present,nohayonline,nohayonline:a7acae43c9df9182592c,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/al-ajal-ya-mehdi-mesum-abbas-tajpoints-1d8cac849b0e0823306e.md,round_2,consolidated,tajpoints,tajpoints:1d8cac849b0e0823306e,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/al-ajal-ya-mehdi.md on 2026-11-16; full source overlap confirmed
 src/data/lyrics/al-ajal-ya-mehdi.md,round_1,present,nohayonline,nohayonline:8af14ad1567173c40f40,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/al-amaan-al-amaan-mir-hasan-mir-tajpoints-219e1f98fe106fa343f1.md,round_2,consolidated,tajpoints,tajpoints:219e1f98fe106fa343f1,round2-kalams-2026-11-14,Duplicate of src/data/lyrics/al-amaan-al-amaan.md consolidated 2026-11-16
 src/data/lyrics/al-amaan-al-amaan.md,round_1,present,nohayonline,nohayonline:efb428638c41dab8c531,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/al-amaan-al-hafeez.md,round_1,present,nohayonline,nohayonline:f091a1b319b9e7887b4e,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/al-atash-ki-dare.md,round_1,present,nohayonline,nohayonline:b4ea0f2cc7f2493ed28d,feat/import-overlap-reconciliation-2026-11-05,
@@ -370,6 +371,9 @@ src/data/lyrics/ali-ali-haider.md,round_1,present,tajpoints,tajpoints:67ef888209
 src/data/lyrics/ali-ali-karna-zaroor-chahiye.md,round_1,present,tajpoints,tajpoints:e1ca933fb3aa198fd78b,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ali-ali-karte-raho.md,round_1,present,nohayonline,nohayonline:139c86361345d93c21c7,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ali-ali-maula.md,round_1,present,nohayonline,nohayonline:08475b81b08d8129a4e5,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/ali-ali-mola-ali-ali-mola-1-4-tajpoints-5be204285640a6b65ccc.md,round_2,consolidated,tajpoints,tajpoints:5be204285640a6b65ccc,round2-kalams-2026-11-14,Joined split source in src/data/lyrics/ali-ali-mola-ali-ali-mola.md 2026-11-16
+src/data/lyrics/ali-ali-mola-ali-ali-mola-5-9-tajpoints-b6d8fe308188bef7cd90.md,round_2,consolidated,tajpoints,tajpoints:b6d8fe308188bef7cd90,round2-kalams-2026-11-14,Joined split source in src/data/lyrics/ali-ali-mola-ali-ali-mola.md 2026-11-16
+src/data/lyrics/ali-ali-mola-ali-ali-mola.md,round_2,present,tajpoints,tajpoints:5be204285640a6b65ccc;tajpoints:b6d8fe308188bef7cd90,round2-kalams-2026-11-14,Reconstructed nine six-line stanzas from Tajpoints parts 1-4 and 5-9
 src/data/lyrics/ali-ali-mola.md,round_1,present,tajpoints,tajpoints:11274161c101f82dcfa4,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ali-ali-mula-haider-mula.md,round_1,present,tajpoints,tajpoints:695d24bf0e017a908b3b,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ali-asadullah.md,round_1,present,nohayonline,nohayonline:f82179890d75df82b9cd,feat/import-overlap-reconciliation-2026-11-05,
