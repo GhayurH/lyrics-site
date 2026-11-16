@@ -78,6 +78,7 @@ romanLyrics: |-
 # source_id: nohayonline:866dd2f6db05cbbe464c
 # source_url: https://www.nohayonline.com/details_content.php?id=1728
 # raw_sha256: 91ee3fa38b0ee739a39c2ef4f20198996781e389d4f581935c47d4698713c8e3
+# editorial_note: "Variant Roman reading: Mashk-o-Alam Ho Pasbaan rather than Mujh ko alam ho paasbaaṅ; verify against recitation."
 ---
 
 سینوں میں غم ہو سر پہ علم ہو
