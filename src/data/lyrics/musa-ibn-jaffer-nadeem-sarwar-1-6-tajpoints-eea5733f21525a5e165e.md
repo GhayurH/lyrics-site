@@ -248,6 +248,10 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # added_stanza_source: roman:kalam-nohayonline-d66d0c940367a30c2933
 # added_stanza_source: roman:musa-ibn-jaffer-nadeem-sarwar-1-6-tajpoints-eea5733f21525a5e165e
 # added_stanza_source: urdu:kalam-nohayonline-d66d0c940367a30c2933
+# continuation_source_id: tajpoints:5ff31554066e429f0b54
+# continuation_source_url: https://tajpoints.com/2017/04/ya-musa-ibn-e-jafar-7-10.html
+# continuation_raw_sha256: a1ba2ebb232ce324bb8c8500f20ece84f8b25ee084ea54a2404cdd474bc0ec4f
+# editorial_note: Later Roman continuation source already matches verses present in the full twelve-stanza Urdu witness. Source kept in provenance.
 ---
 
 سیدّی مولا

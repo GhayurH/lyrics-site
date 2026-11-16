@@ -2388,6 +2388,7 @@ src/data/lyrics/mursal-ko-rulata-hai-sadma-abu-talib-ka.md,original,present,,,ma
 src/data/lyrics/murshid-ghazi.md,round_1,present,nohayonline,nohayonline:d2d4bb1143339650325d,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/murtaza-ke-saaye-mein.md,round_1,present,tajpoints,tajpoints:198e5d362e7108de75f8,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/murtaza-ki-tarha.md,round_1,present,nohayonline,nohayonline:84aef780f5ac4301a250,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/musa-ibn-jaffer-nadeem-sarwar-7-10-tajpoints-5ff31554066e429f0b54.md,round_2,consolidated,tajpoints,tajpoints:5ff31554066e429f0b54,round2-kalams-2026-11-14,Continuation verses already retained in src/data/lyrics/musa-ibn-jaffer-nadeem-sarwar-1-6-tajpoints-eea5733f21525a5e165e.md; removed redundant file on 2026-11-16
 src/data/lyrics/musafir-karbala-wala.md,original,present,,,main,
 src/data/lyrics/musafirane-musibat.md,round_1,present,nohayonline,nohayonline:0df0bc7d575360b0ac89,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/musalmano-zehra-ka.md,round_1,present,nohayonline,nohayonline:5306ea7a7859cb738cc1,feat/import-overlap-reconciliation-2026-11-05,
@@ -3004,8 +3005,10 @@ src/data/lyrics/suno-akbar-ki-jang.md,round_1,present,tajpoints,tajpoints:bd990d
 src/data/lyrics/suno-bad-e-zahoor-kya-ho-ga.md,round_1,present,tajpoints,tajpoints:380caddd928aceaddb1b;tajpoints:af0385076a6921c6d23e,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/suno-faryad-mohamed.md,round_1,present,nohayonline,nohayonline:454f0b2d998d3876c21e;nohayonline:e9d1a999f4458588cf5d,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/suno-hilal-suno.md,round_1,present,nohayonline,nohayonline:3f79ef2dacc565581b0f,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/suno-shan-e-fatima-suno-shan-e-syeda-7-10-tajpoints-6aafa2a4f900114b8e52.md,round_2,consolidated,tajpoints,tajpoints:6aafa2a4f900114b8e52,round2-kalams-2026-11-14,Continuation verses already retained in src/data/lyrics/suno-shan-e-fatima-suno-shan-e-syeda.md; removed redundant file on 2026-11-16
 src/data/lyrics/suno-shan-e-fatima-suno-shan-e-syeda.md,round_1,present,tajpoints,tajpoints:fc045a7f616651ea2b4d,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/suno-siffeen-suno.md,round_1,present,tajpoints,tajpoints:576880b30748a0f285b6;tajpoints:94a06b153227ebe68791;tajpoints:de5932ec6caa8259f901,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/suno-suno-qamber-ki-our-fizza-ki-guftgu-suno-7-10-tajpoints-d7c9a1e2817391b17b9c.md,round_2,consolidated,tajpoints,tajpoints:d7c9a1e2817391b17b9c,round2-kalams-2026-11-14,Continuation verses already retained in src/data/lyrics/suno-suno-qamber-ki-our-fizza-ki-guftgu-suno.md; removed redundant file on 2026-11-16
 src/data/lyrics/suno-suno-qamber-ki-our-fizza-ki-guftgu-suno.md,round_1,present,tajpoints,tajpoints:9b77fcc00b4e76d690e4,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/surae-kahaf-sunata.md,round_1,present,nohayonline,nohayonline:29e80d828618d0e7bcdd,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/suraj-ka-chehra.md,round_1,present,nohayonline,nohayonline:b038bb312ae40a84f1b1,feat/import-overlap-reconciliation-2026-11-05,
