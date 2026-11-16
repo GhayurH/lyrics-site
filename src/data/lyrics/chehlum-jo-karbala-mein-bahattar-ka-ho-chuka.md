@@ -12,6 +12,8 @@ bastaPage: 263
 bastaNote: original-selection
 published: true
 # consolidated_source_id: nohayonline:bd09b1d914b981ace40b
+# consolidated_source_poet_attribution: Mirza Dabeer (NoHayOnline)
+# consolidated_source_reciter: Alamdar Razvi
 # consolidated_source_url: https://www.nohayonline.com/content_marsiya.php?id=7
 # consolidated_raw_sha256: 35b2c7e5d3fcf436341c7b90b49ee38711c3e1481e43fb48618864bf05bcf8ae
 # extra_stanzas_11_to_14: from source stanzas 3, 5, 9, 10; original 1-10 retained for stable anchors
