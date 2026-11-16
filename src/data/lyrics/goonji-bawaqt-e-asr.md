@@ -11,7 +11,7 @@ tags: []
 aliases:
   - "Goonji Bawaqt E Asr"
 published: true
-r# source_id: nohayonline:ca4e2d33ac6562b2ad92
+# source_id: nohayonline:ca4e2d33ac6562b2ad92
 # source_url: https://www.nohayonline.com/details_content.php?id=318
 # raw_sha256: f22eaa50e5a8d57c25f10509eab3348a8acbe54dfeb43438664c3d9ebcf1de20
 # source_id: nohayonline:fd0d4e140f882e8d8eec

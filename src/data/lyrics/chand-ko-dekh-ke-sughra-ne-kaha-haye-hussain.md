@@ -9,7 +9,9 @@ poet: "Mir Takallum"
 reciter: "Mir Hasan Mir"
 tags: []
 aliases:
-  - "Chand Ko Dekh Ke Sughra Ne # source_id: nohayonline:4d356e5aade7e07bce43
+  - "Chand Ko Dekh Ke Sughra Ne Kaha Haye Husain"
+published: true
+# source_id: nohayonline:4d356e5aade7e07bce43
 # source_url: https://www.nohayonline.com/details_content.php?id=1605
 # raw_sha256: 2f54df315af401304b31f6a3b7d42c4cdcf4206d810beec59acdf6cec3b279ee
 romanLyrics: |-

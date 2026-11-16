@@ -9,7 +9,9 @@ poet: "Mir Takallum"
 reciter: "Shahid Baltistani"
 tags: []
 aliases:
-  - "Husain Jaata Hai Marne Ko Ay # source_id: nohayonline:ee091016b377f00bb723
+  - "Husain Jaata Hai Marne Ko Ay Meri Zainab"
+published: true
+# source_id: nohayonline:ee091016b377f00bb723
 # source_url: https://www.nohayonline.com/details_content.php?id=110
 # raw_sha256: d4c1fb1c5c5ad49098b74560369bdf3d0ad7d0156665569c4c63f3701c8935b7
 # source_id: ziyaraat:47c927b52b785edb01f3

@@ -9,7 +9,9 @@ poet: "Mohsin Riyaz Mohsin"
 reciter: "Kazmi Brothers"
 tags: []
 aliases:
-  -# source_id: nohayonline:320f169bc76ef605dc68
+  - "Jab Mujhe Aap Ke Qatil Ne Hai Mara Baba"
+published: true
+# source_id: nohayonline:320f169bc76ef605dc68
 # source_url: https://www.nohayonline.com/details_content.php?id=1003
 # raw_sha256: 4fcf94c6ec44b33e1b759fb31d39e171839a7d4b1ec0e2626c469b8e31129cf3
 # source_id: ziyaraat:5326f6fcf5861cc8cd02
