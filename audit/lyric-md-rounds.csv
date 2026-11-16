@@ -2419,6 +2419,7 @@ src/data/lyrics/muslamano-pa-farz.md,round_1,removed_duplicate,nohayonline,nohay
 src/data/lyrics/muslim-akela-hai.md,round_1,present,nohayonline,nohayonline:1c2eb699853e797c1d88,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/muslim-ka-laasha.md,round_1,present,nohayonline,nohayonline:fe1b340cd08f2cc71ceb,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/muslim-ka-qatl.md,round_1,present,nohayonline,nohayonline:5b5983464fc24586efa3,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/muslim-ka-tha-ye-noha-mukhtar-hussain-fatehpuri-lyrics-2024-tajpoints-a8b57fe70c602d39a32d.md,round_2,consolidated,tajpoints,tajpoints:a8b57fe70c602d39a32d,round2-kalams-2026-11-14,Complete duplicate folded into src/data/lyrics/muslim-ka-tha-ye.md on 2026-11-16
 src/data/lyrics/muslim-ka-tha-ye.md,round_1,present,nohayonline,nohayonline:5bd60a05f8684936afff,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/muslim-ke-dono-bete.md,round_1,present,nohayonline,nohayonline:c7b959982c655d759049,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/muslim-ke-pyare.md,round_1,present,nohayonline,nohayonline:f6c045412e6d5969f81a,feat/import-overlap-reconciliation-2026-11-05,
@@ -2993,6 +2994,7 @@ src/data/lyrics/shere-khuda-ne.md,round_1,present,nohayonline,nohayonline:b324c2
 src/data/lyrics/shikwa-e-zehra.md,round_1,present,nohayonline,nohayonline:743ab1d40088a6a4a764,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/shimr-kehta-tha.md,round_1,present,nohayonline,nohayonline:cf222b62a3586164e13d,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/shimr-khaime-me-aana-jaaye-kahin.md,round_1,present,ziyaraat,ziyaraat:55c1fb2cbd7e1479a27c,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/shimr-ne-pehle-sakina-sa-ko-dikhaya-khanjar-mir-hasan-khususi-salam-2023-muharram-nw-afe450ea7a46.md,round_2,consolidated,nohawriteups;tajpoints,nohawriteups:afe450ea7a466bb2ca36;tajpoints:2f4b1665cb1431778c63,round2-kalams-2026-11-14,Complete duplicate folded into src/data/lyrics/shimr-ne-pehle-sakina.md on 2026-11-16
 src/data/lyrics/shimr-ne-pehle-sakina.md,round_1,present,nohayonline,nohayonline:1ed921460efaba830786,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/shimr-ne-ye.md,round_1,removed_duplicate,nohayonline,nohayonline:008dcb7d917272f3df10,feat/import-overlap-reconciliation-2026-11-05,Basta Soz 57 on printed page 106: All six verses represented in the Basta soz, including Persian closing couplet. Original import source https://www.nohayonline.com/details_content.php?id=2726; reciter Sibte Jafar. Provisional lyric ID removed before merge; Basta text and permanent identity unchanged.
 src/data/lyrics/shole-hai-bhadakte.md,round_1,present,nohayonline,nohayonline:37d6c7b56d326e328701,feat/import-overlap-reconciliation-2026-11-05,
