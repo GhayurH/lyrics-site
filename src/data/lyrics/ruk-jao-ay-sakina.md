@@ -43,6 +43,16 @@ romanLyrics: |-
 # source_id: nohayonline:d9b0dc2dea540dbcff90
 # source_url: https://www.nohayonline.com/details_content.php?id=488
 # raw_sha256: 1c68fe81f50a3e2084c67e760d3ea6becf80eeb80fabb29d285d8f4ca06115fc
+# source_id: nohawriteups:361c189b6576025fb31c
+# source_url: https://www.nohawriteups.org/ruk-jao-aye-sakina-2/
+# original_html: snapshots/nohawriteups/original_html/361c189b6576025fb31c.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/361c189b6576025fb31c.json
+# api_content_sha256: 5301928ca6e4f4f68102f91f23f0d6c079f9116f88b53837b7019dfb59b8e520
+# additional_source_id: nohawriteups:d65a797e13623d5bac9f
+# additional_source_url: https://www.nohawriteups.org/ruk-jao-aye-sakina/
+# additional_original_html: snapshots/nohawriteups/original_html/d65a797e13623d5bac9f.html.gz
+# additional_source_metadata_path: snapshots/nohawriteups/metadata/d65a797e13623d5bac9f.json
+# additional_api_content_sha256: 027d563a4910a5d9df3d4181401f557113fc206326869d9f97667475f2e9fe30
 ---
 تم سے بچھڑ کے ماں مشکل بہت ہے جینا
 ماں کو بھی ساتھ لے لو رُک جاؤ اے سکینہ

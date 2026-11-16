@@ -74,6 +74,11 @@ romanLyrics: |-
 # original_html: snapshots/nohawriteups/original_html/eb809eb9ee6e5f8b0eaa.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/eb809eb9ee6e5f8b0eaa.json
 # api_content_sha256: 261e3df9227b3ec848d54defff06bd238403862d269d506818380c588d696db9
+# source_id: nohawriteups:ebdbf64d12648ca02f9e
+# source_url: https://www.nohawriteups.org/sham-haye-sham/
+# original_html: snapshots/nohawriteups/original_html/ebdbf64d12648ca02f9e.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/ebdbf64d12648ca02f9e.json
+# api_content_sha256: 53d44ad6370b061cf9f42842203ad0f3d621d851a2ebcc52a501c55b5d6e6d25
 ---
 شام ہائے شام
 تیری اُمت کے زیور پہن کے
