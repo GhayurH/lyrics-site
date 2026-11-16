@@ -89,6 +89,11 @@ romanLyrics: |-
 # source_title_original: Sakina utho
 # editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 # editorial_warning: stray < line removed from original Urdu
+# source_id: nohawriteups:ab1a6c363973035ad974
+# source_url: https://www.nohawriteups.org/sakina-utho-meri-jaan-utho/
+# original_html: snapshots/nohawriteups/original_html/ab1a6c363973035ad974.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/ab1a6c363973035ad974.json
+# api_content_sha256: f194bcc2f1762bd69bd110803ac958f7de57c6d3fdb592994ef9d9d76cbf9d76
 # source_id: tajpoints:3e1565690b5140aa0753
 # source_url: https://tajpoints.com/2017/10/sakina-utho-meri-jaan-utho-rehai-mili.html
 # raw_sha256: 21814e58c32fb90b188856d62057f16a7395614f3a7029c60df5d83dd09f578c
