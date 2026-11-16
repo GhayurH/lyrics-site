@@ -52,6 +52,9 @@ romanLyrics: |-
 # original_html: snapshots/nohawriteups/original_html/39f3d9f8526062acc53b.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/39f3d9f8526062acc53b.json
 # api_content_sha256: 9f6c05c97f082fa5435ca251d6264822bfcd9cba8c0200cf9467c11195f18501
+# source_id: tajpoints:85a38bf597b0f0f8188a
+# source_url: https://tajpoints.com/2022/08/mazloom-ka-matam-hai-kazmi-brothers.html
+# raw_sha256: 7aa89658249766d54434587b6cb8e3fa41e9d6d63818986c3a8b056c1233d70d
 ---
 
 مظلوم کا ماتم ہے رکا ہے نہ رکےگا
