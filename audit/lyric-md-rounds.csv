@@ -1595,7 +1595,7 @@ src/data/lyrics/jab-mujhe-aap-ke.md,round_1,present,nohayonline;ziyaraat,nohayon
 src/data/lyrics/jab-na-aada-se.md,round_1,present,nohayonline,nohayonline:3b40583e471b094a9601,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jab-qaid-hui-shaam.md,round_1,present,nohayonline,nohayonline:ed29dcae658813b04bbb,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jab-raat-ko-ghar.md,round_1,present,nohayonline,nohayonline:2f6196dd4bbf7f378e60,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/jab-ran-may-zakhmi.md,round_1,present,nohayonline,nohayonline:acb060bfbc39bab241a1,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/jab-ran-may-zakhmi.md,round_1,removed_duplicate,nohayonline,nohayonline:acb060bfbc39bab241a1,feat/import-overlap-reconciliation-2026-11-05,"2026-11-15 manually compared every Roman and Urdu verse against Basta Soz on page 104: all 12 substantive verses already present, no unique continuation. Printed credit: Muzaffar Naqvi; imported reciter: Sibte Jafar. Source has minor ke/keh and end-line variations, recorded here instead of changing Basta. Provisional unpublished lyric ID purged; source identifier retained."
 src/data/lyrics/jab-ran-mein-alamdar.md,round_1,present,nohayonline,nohayonline:76b257e75a32706c005f,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jab-sadre-zeen-se-gir.md,round_1,present,nohayonline,nohayonline:6168fddce4a61c530dea,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jab-sakina-ko-qaza.md,round_1,present,nohayonline,nohayonline:36fe5542e0e48524ea2b,feat/import-overlap-reconciliation-2026-11-05,
