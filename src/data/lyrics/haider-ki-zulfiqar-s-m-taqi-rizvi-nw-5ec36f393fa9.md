@@ -1,10 +1,11 @@
 ---
-title: "Haider Ki Zulfiqar"
+title: "حیدرؑ کی ذوالفقار"
+alternateTitle: "Haider Ki Zulfiqar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Noha"
-tags: ["noRoman"]
+kalamType: "Manqabat"
+tags: []
 aliases: []
 published: false
 # source_id: nohawriteups:5ec36f393fa9b05945f0
@@ -12,50 +13,117 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/5ec36f393fa9b05945f0.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/5ec36f393fa9b05945f0.json
 # api_content_sha256: 1b18624b7491cab5c34d2270ab08af0e652af775b2435cc20586d5dc99a0a2e6
-# editorial_note: Unpublished source-faithful draft from approved valid urdu only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Complete Urdu and Roman witnesses aligned as thirteen couplets. Roman source order was adjusted to match Urdu. Scraped page-view counter removed. Unpublished pending review.
+# source_id: tajpoints:54982e03937bc40f0118
+# source_url: https://tajpoints.com/2026/01/haider-ki-zulfiqar-sm-taqi-rizvi-lyrics.html
+# raw_sha256: 200915485e507e24a21a92a22958f2ff7c06af1c98ef1c8899b2c42138202df1
+romanLyrics: |-
+  Arsh-e-Barin Se Aayi Hai Haider Ki Zulfiqar
+  Ijaz-e-Kibriyai Hai Haider Ki Zulfiqar
+  
+  1
+  Aahan Se Sakht Tar Hai Yeh, Khanjar Se Taiz Dhaar
+  Qudrat Ne Khud Banai Hai Haider Ki Zulfiqar
+  
+  2
+  Har Dushman-e-Ali Ko Jahanum Dikhaney Ka
+  Paigham Sath Layi Hai Haider Ki Zulfiqar
+  
+  3
+  Bas Dekh Ke Hi Razm Mein Do Chaar Mar Gaye
+  Maidaan Mein Jab Bhi Aayi Hai Haider Ki Zulfiqar
+  
+  4
+  Dast e Khuda Se Dast e Khuda Ko Atta Hoi
+  Sarwar Ne Hi Mangayi Hai Haider Ki Zulfiqar
+  
+  5
+  Rakhti Hain Apne Hath Se Iss Ko Sanwar Kar
+  Zahra Ke Dil Ko Bhai Hai Haider Ki Zulfiqar
+  
+  6
+  Dast-e-Khuda Hi Ho Ga Jo Iss Ko Uthaye Ga
+  Abbas Ne Uthai Hai Haider Ki Zulfiqar
+  
+  7
+  Do Tukray Ho Ke Gir Paray Bas Aik Waar Mein
+  Jis Ne Bhi Aazmai Hai Haider Ki Zulfiqar
+  
+  8
+  Karb-o-Bala Ke Ban Mein Bohat Se Fana Kiye
+  Shabbir Ne Chalai Hai Haider Ki Zulfiqar
+  
+  9
+  Do Pal Mein Kaat Sakti Hoon Nu Lakh Hi Tu Hain
+  Keh Kar Yeh Muskurai Hai Haider Ki Zulfiqar
+  
+  10
+  Haider Ki Aankh Ke Yeh Isharay Pe Chalti Hai
+  Karti Younhi Safai Hai Haider Ki Zulfiqar
+  
+  11
+  Naslon Ki Janch Kar Ke Urati Hai Gardanein
+  Zerak Bhi Intehai Hai Haider Ki Zulfiqar
+  
+  12
+  Hathoon Mein Le Ke Aaein Gay Ab Barhwein Imam
+  Unn Ke Liye Bachai Hai Haider Ki Zulfiqar
+  
+  13
+  Rizwan Keh Raha Hai Khuda Be Misal Hai
+  Khaliq Se Dad Payi Hai Haider Ki Zulfiqar
 ---
-
 عرشِ بریں سے آئی ہے حیدرؑ کی ذوالفقار
 اعجازِ کبریائی ہے حیدرؑ کی ذوالفقار
 
+۱
 آہن سے سخت تر ہے یہ ، خنجر سے تیز دھار
 قدرت نے خود بنائی ہے حیدرؑ کی ذوالفقار
 
+۲
 ہر دشمنِ علیؑ کو جہنّم دِکھانے کا
 پیغام ساتھ لائی ہے حیدرؑ کی ذوالفقار
 
+۳
 بس دیکھ کے ہی رزم میں دو چار مر گئے
 میداں میں جب بھی آئی ہے حیدرؑ کی ذوالفقار
 
+۴
 دستِ خداؐ سے دستِ خداؑ کو عطا ہوئی
 سرورؐ نے ہی منگائی ہے حیدرؑ کی ذوالفقار
 
+۵
 رکھتی ہیں اپنے ہاتھ سے اِس کو سنوار کر
 زہراؑ کے دل کو بھائی ہے حیدرؑ کی ذوالفقار
 
+۶
 دستِ خدا ہی ہو گا جو اِس کو اٹھائے گا
 عباسؑ نے اٹھائی ہے حیدرؑ کی ذوالفقار
 
+۷
 دو ٹکڑے ہو کے گر پڑے بس ایک وار میں
 جس نے بھی آزمائی ہے حیدرؑ کی ذوالفقار
 
+۸
 کرب و بلا کے بَن میں بہت سے فنا کئے
 شبیرؑ نے چلائی ہے حیدرؑ کی ذوالفقار
 
+۹
 “دو پَل میں کاٹ سکتی ہوں نو لاکھ ہی تو ہیں”
 کہہ کر یہ مسکرائی ہے حیدرؑ کی ذوالفقار
 
+۱۰
 حیدرؑ کی آنکھ کے یہ اشارے پہ چلتی ہے
 کرتی یونہی صفائی ہے حیدرؑ کی ذوالفقار
 
+۱۱
 نسلوں کی جانچ کر کے اڑاتی ہے گردنیں
 زیرک بھی انتہائی ہے حیدرؑ کی ذوالفقار
 
+۱۲
 ہاتھوں میں لے کے آئیں گے اب بارھویں امامؑ
 اُن کے لئے بچائی ہے حیدرؑ کی ذوالفقار
 
+۱۳
 رضوانؔ کہہ رہا ہے خدا “بے مثال ہے”
-
 خالق سے داد پائی ہے حیدرؑ کی ذوالفقار
-
-884 Views
