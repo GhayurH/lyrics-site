@@ -62,6 +62,15 @@ romanLyrics: |-
 # source_id: nohayonline:3a4ff4add37910ac06d8
 # source_url: https://www.nohayonline.com/details_content.php?id=1085
 # raw_sha256: 63606fa691af3abc8c57201b11ec98eb7709e1390f8d31b22352f1119f9dba9c
+# source_id: nohawriteups:e74800544df9acfb098a
+# source_url: https://www.nohawriteups.org/subhana-rabbi-al-aala-khususi-kalam-mir-hasan-mir-nohay-2023-muharram-2023-1445-lyrics/
+# original_html: snapshots/nohawriteups/original_html/e74800544df9acfb098a.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/e74800544df9acfb098a.json
+# api_content_sha256: 7537db5190d069dedf2abdd1a7f4d225a5802548399274e9c0cd6d85c7c17339
+# source_id: tajpoints:3ef7f75f3fe415a29873
+# source_url: https://tajpoints.com/2023/07/subhana-rabbi-al-aala-mir-hasan-mir.html
+# raw_sha256: 3631d8be1f7ce61fa23478293c05b953de2a28b69c0882f64f9114bf0b3eaf44
+# editorial_note: Matching source witness(es) consolidated into the existing bilingual edition; repeated vocal refrains/footers contained no unique stanzas.
 ---
 
 سبحان ربی الاعلیٰ

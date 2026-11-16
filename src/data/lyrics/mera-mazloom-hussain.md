@@ -46,6 +46,12 @@ romanLyrics: |-
 # source_id: nohayonline:8826ceb66696c898ed8f
 # source_url: https://www.nohayonline.com/details_content.php?id=1741
 # raw_sha256: f9b8f91766c29030aec6491d2f044a7e5800d1ba3bb52ffb2ee2fb663630d211
+# source_id: nohawriteups:c820bcfd0747520bf291
+# source_url: https://www.nohawriteups.org/mera-mazloom-hussain-nadeem-sarwar-2020/
+# original_html: snapshots/nohawriteups/original_html/c820bcfd0747520bf291.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/c820bcfd0747520bf291.json
+# api_content_sha256: 3c7f1e59cae61f831a415a88f774660e44bf734e7fb66c3f58fd45ce77bf5e42
+# editorial_note: Matching source witness(es) consolidated into the existing bilingual edition; repeated vocal refrains/footers contained no unique stanzas.
 ---
 گر پڑا گھوڑے سے جب رن میں شاہ کرب و بلا
 سارے عالم میں قیامت کا تھا اک شور بپا
