@@ -4,6 +4,8 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Mir Takallum"
+reciter: "Mir Hasan Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,45 +14,47 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/7b4ff9a18ba89ca06fa2.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/7b4ff9a18ba89ca06fa2.json
 # api_content_sha256: a36c1e192ea501d63c78126f6cb718f359d524b6efa5c7c563ff163d6dfbecfe
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Matching Roman source witnesses consolidated; TajPoints supplies readable letterforms in place of the macron-heavy NohaWriteups import. Nine substantive couplets retained. Unpublished pending editorial review.
+# source_id: tajpoints:24cef3cbced3b9bacb6a
+# source_url: https://tajpoints.com/2024/06/muslim-ka-lasha-eid-ky-din-mir-hasan-mir.html
+# raw_sha256: 5f6012473343155638c39edf4c8ea79ed57f04b63d25c8beb6119a2d854659b6
 ---
 
-Kofāy Mein Phirāyā Jātā Hāi Muslim Kā Lāshā Eid Kāy Din.
+Kofay Mein Phiraya Jata Hai Muslim Ka Lasha Eid Ke Din
+Koi Bhi Uthane Aata Nahi Bekas Ka Janaza Eid Ke Din
 
-Koi Bhi Uthāne Aātā Nāhi Bekās Kā Jānāzā Eid Kāy Din.
+1
+Bhai Bhi Nahi Betay Bhi Nahi Koi Bhi Nahi Roney Wala
+Muslim Ke Janazay Par Bethi Roti Rahi Zahra Eid Ke Din
 
-Bhāi Bhi Nāhi Betāy Bhi Nāhi Koi Bhi Nāhi Ronāy Wālā.
+2
+Ik Aah Sunai Deti Hai Ik Lash Dikhai Deti Hai
+Be Sakhta Aanso Aate Hain Yaad Aaye Jo Kofa Eid Ke Din
 
-Muslim Kāy Jānāzāy Pār Bethi Roti Rāhi Zāhrā Eid Kāy Din.
+3
+Tooti Hai Qayamat Yeh Kaisi Dono Pe Nazar Hai Maula Ki
+Muslim Ki Hameeda Roti Hai Be Taab Hai Sughra Eid Ke Din
 
-Ik Aāh Sunāi Deti Hāi Ik Lāsh Dikhāi Deti Hāi.
+4
+Zalim Se Bachaney Ki Khatir Zindaan Se Churanay Ki Khatir
+Umeed Yehi Hai Bachoon Ko Aaein Gay Baba Eid Ke Din
 
-Be Sākhtā Aānso Aāte Hāin Yāād Aāye Jo Kofā Eid Kāy Din.
+5
+Muslim Ke Yateemo Ko Sheh Ne Seene Se Laga Kar Pyar Kiya
+Yeh Haal Yateemi Ka Logo Samjhi Thi Sakina Eid Ke Din
 
-Tooti Hāi Qāyāmāt Yeh Kāysi Dono Pe Nāzār Hāi Māulā Ki.
+6
+Ik Waar Ali Ke Sajday Se Muslim Ki Shahadat Tak Pohancha
+Youn Aal-e-Nabi Ko Ummat Ne Har Bar Rulaya Eid Ke Din
 
-Muslim Ki Hāmeedā Roti Hāi Be Tāāb Hāi Sughrā Eid Kāy Din.
+7
+Jis Ghar Mein Koi Mar Jata Hai Sab Aa Kar Pursa Detey Hain
+Hum Kis Ko Dein Maula Mehdi, Muslim Ka Pursa Eid Ke Din
 
-Zālim Se Bāchāney Ki Khātir Zindāān Se Churānāy Ki Khātir.
+8
+Dastoor Zamane Se Hai Yehi Hum Ahl-e-Azza Ka Bad-e-Namaz
+Hum Sun Ke Musayab Detey Hain Zahra Ko Pursa Eid Ke Din
 
-Umeed Yehi Hāi Bāchoon Ko Aāein Gāy Bābā Eid Kāy Din.
-
-Muslim Kāy Yāteemo Ko Sheh Ne Seene Se Lāgā Kār Pyār Kiyā.
-
-Yeh Hāāl Yāteemi Kā Logo Sāmjhi Thi Sākinā Eid Kāy Din.
-
-Ik Wāār Ali Kāy Sājdāy Se Muslim Ki Shāhādāt Tāk Pohānchā.
-
-Youn Aāl-e-Nābi Ko Ummāt Ne Hār Bār Rulāyā Eid Kāy Din.
-
-Jis Ghār Mein Koi Mār Jātā Hāi Sāb Aā Kār Pursā Detey Hāin.
-
-Hum Kis Ko Dein Māulā Mehdi, Muslim Kā Pursā Eid Kāy Din.
-
-Dāstoor Zāmāne Se Hāi Yehi Hum Ahl-e-Azzā Kā Bād-e-Nāmāz.
-
-Hum Sun Kāy Musāyāb Detey Hāin Zāhrā Ko Pursā Eid Kāy Din.
-
-Dāfnāyā Nāhi Kāfnāyā Nāhi Kāysi Yeh :TAKALLUM: Ghurbāt Hāi.
-
-Kofāy Mein Musālmāān Sāre They Muslim Thā Akelā Eid Kāy Din.
+9
+Dafnaya Nahi Kafnaya Nahi Kaisi Yeh Takallum Ghurbat Hai
+Kofay Mein Musalmaan Sare They Muslim Tha Akela Eid Ke Din
