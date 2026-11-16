@@ -69,6 +69,11 @@ romanLyrics: |-
 # source_id: nohayonline:a3dccaf87b2ca0a730b1
 # source_url: https://www.nohayonline.com/details_content.php?id=2132
 # raw_sha256: 17f27e3422a3962d67dd975f758f551146a9e276b4cf96ebbd8646b643f113a3
+# source_id: nohawriteups:be05db30ab9b9b4747d5
+# source_url: https://www.nohawriteups.org/aye-wallah-lyrics-mesum-abbas/
+# original_html: snapshots/nohawriteups/original_html/be05db30ab9b9b4747d5.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/be05db30ab9b9b4747d5.json
+# api_content_sha256: b4a99284fa302844f96a632aeafaa2c269616b591227742c828989f7ca514e12
 ---
 
 دشتِ کربلا میں کہتی تھی زہرا

@@ -59,6 +59,11 @@ romanLyrics: |-
 # source_id: nohayonline:85edc0f022c9277d8951
 # source_url: https://www.nohayonline.com/details_content.php?id=294
 # raw_sha256: 30eb756e98ad77c8260ae2e3e6330477b7f13e0eda1572dcf58bcbe195cb029e
+# source_id: nohawriteups:7a721bd9b20a315ef632
+# source_url: https://www.nohawriteups.org/ya-ababdillah/
+# original_html: snapshots/nohawriteups/original_html/7a721bd9b20a315ef632.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/7a721bd9b20a315ef632.json
+# api_content_sha256: cbe94ede60ea01131d90d1bde2fefab03d1988ad546685ccd64f85d97f332f1f
 ---
 
 السلام اے شاہِ مظلوم غریب الغرباء

@@ -76,6 +76,11 @@ romanLyrics: |-
 # source_id: nohayonline:047e8a76ca33a39b5bcd
 # source_url: https://www.nohayonline.com/details_content.php?id=446
 # raw_sha256: dcee728f86f1235950df01d4fa8e91d8d11c73ef37f53c49507bba39053f4a5b
+# source_id: nohawriteups:d54c62089c90b22ae756
+# source_url: https://www.nohawriteups.org/ay-mere-baba/
+# original_html: snapshots/nohawriteups/original_html/d54c62089c90b22ae756.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/d54c62089c90b22ae756.json
+# api_content_sha256: 1d8d466b514f3a0320c6b994188ade2563961f84ad87b61c0341d2c0f8d5ac44
 ---
 
 اے میرے بابا

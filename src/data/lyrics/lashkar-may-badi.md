@@ -77,6 +77,11 @@ romanLyrics: |-
 # source_id: nohayonline:b941f620bbfb1d738bc2
 # source_url: https://www.nohayonline.com/details_content.php?id=939
 # raw_sha256: 3f30795df73f446c0411e7118b709d59b4534dc29efd43e686900a1e77865758
+# source_id: nohawriteups:140a4d2701642b910171
+# source_url: https://www.nohawriteups.org/lashkar-may-badi/
+# original_html: snapshots/nohawriteups/original_html/140a4d2701642b910171.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/140a4d2701642b910171.json
+# api_content_sha256: 29ed79f83b85da407f61815d5ca53ed8849f393aae5e11846446b6a1640be22f
 ---
 شیر علی کی آمد ہے یہ
 آتے ہیں دریا پہ علمدار

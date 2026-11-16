@@ -44,6 +44,11 @@ romanLyrics: |-
 # source_id: nohayonline:8c002381382ba1d6c174
 # source_url: https://www.nohayonline.com/details_content.php?id=249
 # raw_sha256: 957be8dfeadfe320130c8634b5fd6b7395e46a108b7fed5c39796b678a64c5d6
+# source_id: nohawriteups:7afff21107c7374f32de
+# source_url: https://www.nohawriteups.org/noha-tha-kulsoom-ka/
+# original_html: snapshots/nohawriteups/original_html/7afff21107c7374f32de.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/7afff21107c7374f32de.json
+# api_content_sha256: f3ac510fda9fb643f3aedffcc3de2272d83b0f12524d29fb263a1a1397a0c54d
 ---
 نوحہ تھا کلثوم کا ہائے قیامت ہوئی
 بھائی کو ذبح کیا ہائے قیامت ہوئی

@@ -55,6 +55,11 @@ romanLyrics: |-
 # source_id: ziyaraat:6787da461814690c23ed
 # source_url: https://www.ziyaraat.net/api/noha/1321
 # raw_sha256: cb6f7128f873ef490ab8aa230858308254d437022caf0fcf4f56515588c83f97
+# source_id: nohawriteups:ae3c33acf891a4ef443d
+# source_url: https://www.nohawriteups.org/sab-jal-chuke-qayam/
+# original_html: snapshots/nohawriteups/original_html/ae3c33acf891a4ef443d.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/ae3c33acf891a4ef443d.json
+# api_content_sha256: db991e9af53c23cee06d7a8fd22bbdeec3cc4c640d4cbf50fca113702534c0f1
 ---
 سب جل چکے خیام
 بکھری ہوئی ہے رات سسکتا ہے بن تمام

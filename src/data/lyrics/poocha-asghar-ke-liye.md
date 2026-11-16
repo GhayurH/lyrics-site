@@ -32,6 +32,11 @@ romanLyrics: |-
 # source_id: nohayonline:7435eba72d9bece9f342
 # source_url: https://www.nohayonline.com/details_content.php?id=254
 # raw_sha256: 1a686311121e536322a13707a6069c4195cd128d75a3a9d28207f492d5c0b760
+# source_id: nohawriteups:bbb75647b99b4fa5e64b
+# source_url: https://www.nohawriteups.org/poocha-asghar-ke-liye/
+# original_html: snapshots/nohawriteups/original_html/bbb75647b99b4fa5e64b.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/bbb75647b99b4fa5e64b.json
+# api_content_sha256: 85269b8c56077dea87c5f57cf6f76d2428aaeca280101318426b924a3d6686bd
 ---
 پوچھا اصغر کے لئے شاہ نے کیا مانگتے ہیں
 رو کے بانو نے کہا آبِ بقا مانگتے ہیں

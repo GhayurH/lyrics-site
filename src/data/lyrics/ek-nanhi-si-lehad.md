@@ -47,6 +47,11 @@ reciter: Meer Hasan Meer
 # source_id: ziyaraat:16e87ad16b2a28caf604
 # source_url: https://www.ziyaraat.net/api/noha/2580
 # raw_sha256: 7f17dd4421557a977df85725655758927b569e0b2015c2527a3fdac805ccc051
+# source_id: nohawriteups:866048968451718568d3
+# source_url: https://www.nohawriteups.org/ek-nanhi-si-lehad/
+# original_html: snapshots/nohawriteups/original_html/866048968451718568d3.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/866048968451718568d3.json
+# api_content_sha256: e6bd2d0f640766bacd05e6f714abbfed66fcfe3b6796906955590e3683ebe16e
 ---
 
 ایک ننھی سی لحد رَن میں بناتے ہیں حسینؑ

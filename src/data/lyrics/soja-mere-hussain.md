@@ -54,6 +54,11 @@ romanLyrics: |-
 # source_id: nohayonline:3f0cf40e9824db91bd59
 # source_url: https://www.nohayonline.com/details_content.php?id=480
 # raw_sha256: b0fa234b7c2cd3f651e68dcbcd0d711194b6fed1092d12996364b478bcd81827
+# source_id: nohawriteups:04b332f239567e7c7cf3
+# source_url: https://www.nohawriteups.org/soja-mere-hussain/
+# original_html: snapshots/nohawriteups/original_html/04b332f239567e7c7cf3.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/04b332f239567e7c7cf3.json
+# api_content_sha256: 2ece4922061ac486379dfa68f85c5629d528d0d347bc0c479e5c1fb92eac5764
 ---
 دُنیا میں جب ظہور ہوا تھا حسین کا
 ہر وقت اپنی گود میں رکھتی تھی سیدہ

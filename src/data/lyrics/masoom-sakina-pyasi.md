@@ -58,6 +58,11 @@ romanLyrics: |-
 # source_id: nohayonline:811d07c99a8c53e5df77
 # source_url: https://www.nohayonline.com/details_content.php?id=1461
 # raw_sha256: ebbe4354ce9f6a6f6576ef99983b0d5efd062cd39b485fc9c08cd194f8329316
+# source_id: nohawriteups:32118e9284b7c777138c
+# source_url: https://www.nohawriteups.org/masoom-sakina-pyasi/
+# original_html: snapshots/nohawriteups/original_html/32118e9284b7c777138c.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/32118e9284b7c777138c.json
+# api_content_sha256: 79facdb89667c8eb920799ad919d6166fb14ca1df6de067278f504f06d135801
 ---
 
 معصوم سکینہ پیاسی ہے

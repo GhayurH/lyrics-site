@@ -63,6 +63,11 @@ romanLyrics: |-
 # source_id: nohayonline:fd5b5a046b5fcc1b544e
 # source_url: https://www.nohayonline.com/details_content.php?id=2418
 # raw_sha256: 961a37931d48224157bb913a1c3fa4617b88974a2416924796a6b4d5c81ad272
+# source_id: nohawriteups:1302d6ee1ff95b1e5d53
+# source_url: https://www.nohawriteups.org/umme-laila-akbar/
+# original_html: snapshots/nohawriteups/original_html/1302d6ee1ff95b1e5d53.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/1302d6ee1ff95b1e5d53.json
+# api_content_sha256: ca807d898f1cf2d8329c2134d858c7e3b8724ee1ea1dffebdcb2462a7f8c893c
 ---
 کیسے بھولے تجھے بھلا ام لیلیٰ اکبر
 کوئی دنیا میں ہے کہاں تیرے جیسا اکبر

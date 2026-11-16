@@ -59,6 +59,11 @@ romanLyrics: |-
 # source_id: ziyaraat:bc2f6fe7495022e67e5d
 # source_url: https://www.ziyaraat.net/api/noha/1510
 # raw_sha256: 7c007d593ce9dba7c7a6af153ecf43f8603dbb4483d76f3c044af0dd1d7ca655
+# source_id: nohawriteups:5cb6efb214260830f22c
+# source_url: https://www.nohawriteups.org/mai-thak-gaya-hoo/
+# original_html: snapshots/nohawriteups/original_html/5cb6efb214260830f22c.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/5cb6efb214260830f22c.json
+# api_content_sha256: 6c1900f28f932c872bb5e5c8f587bd6f697184b710564fb145b20d60a52ce4d3
 ---
 آئے فرس کی زین سے جب خاک پر حسین
 مادر کا چہرہ دیکھ کے کرنے لگے یہ بین

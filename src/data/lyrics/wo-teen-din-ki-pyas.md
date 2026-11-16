@@ -39,6 +39,11 @@ romanLyrics: |-
 # source_id: nohayonline:c9e437976581c282cc10
 # source_url: https://www.nohayonline.com/details_content.php?id=262
 # raw_sha256: 3066c715a807e7f2a85e22ce68274c07535d331b8275585169e1da3999a2151c
+# source_id: nohawriteups:15717d73a099f7fa0a3f
+# source_url: https://www.nohawriteups.org/wo-teen-din-ki-pyas/
+# original_html: snapshots/nohawriteups/original_html/15717d73a099f7fa0a3f.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/15717d73a099f7fa0a3f.json
+# api_content_sha256: 4f27a363253e9515685764b367c1c9aa74329b717645c3122b96c4ba63795098
 ---
 وہ تین دن کی پیاس وہ تشنہ لبوں کی شام
 اپنے گھروں سے دور وہ ان بے گھروں کی شام

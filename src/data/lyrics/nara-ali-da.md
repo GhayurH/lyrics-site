@@ -80,6 +80,11 @@ romanLyrics: |-
 # source_id: tajpoints:7e23bc79cbe1fcf29bf9
 # source_url: https://tajpoints.com/2021/03/nara-ali-da-nadeem-sarwar-ali-shanawar.html
 # raw_sha256: 1d9ec88f28a54a1e5d93fedd1aa066bebe25499c1fbe324773ce4fe07e27a277
+# source_id: nohawriteups:e601bd0c6cd89fa35f90
+# source_url: https://www.nohawriteups.org/nara-ali-da/
+# original_html: snapshots/nohawriteups/original_html/e601bd0c6cd89fa35f90.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/e601bd0c6cd89fa35f90.json
+# api_content_sha256: 87ea3041e65aca8e87a834e0344577034b6af26659cc2f3368394221f8794d27
 ---
 کو بہ کو، کو بہ کو، کو بہ کو، کو بہ کو
 جیہڑا جیہڑا علی دا حب دار نئیں
