@@ -163,6 +163,15 @@ romanLyrics: |-
 # source_id: nohayonline:3abbc56b9b9ddf9b37c4
 # source_url: https://www.nohayonline.com/details_content.php?id=2046
 # raw_sha256: 7cc23a4d47dcede66c97888f1edc24a7379aee9ba26a30516cd294674c89167e
+# source_id: nohawriteups:1e5b06dd8f201a5a9c84
+# source_url: https://www.nohawriteups.org/hoga-ya-hussain-nadeem-sarwar-2023-1445-lyrics/
+# original_html: snapshots/nohawriteups/original_html/1e5b06dd8f201a5a9c84.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/1e5b06dd8f201a5a9c84.json
+# api_content_sha256: 09207b28e0a1d9289807aee8ba657e667b727960b8cab45be4adf4e5e36ffb50
+# source_id: tajpoints:27f37c876261f39af39b
+# source_url: https://tajpoints.com/2023/07/hoga-ya-hussain-nadeem-sarwar-lyrics-in.html
+# raw_sha256: 88aa8d7861e49a0aeabebbea044e3063de1dce6dc95991038032af279ea874ca
+# editorial_note: Two matching Roman source editions reconciled, retaining the complete canonical wording and source provenance; no distinct stanzas in the imported draft.
 ---
 
 کیسا پیارا نعرہ ہے یہ

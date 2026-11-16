@@ -15,6 +15,12 @@ published: false
 # source_id: tajpoints:9cc7ff3fd5e439c43984
 # source_url: https://tajpoints.com/2020/09/salam-hussain-page-2-lyrics-in-urdu-and.html
 # raw_sha256: 975a92e636fa6dc3b6a30c1e74bac3509f6628a287aade4b1a028b6960c47310
+# source_id: nohawriteups:0d13cc3ea78bd43d9f70
+# source_url: https://www.nohawriteups.org/salam-hussain-nadeem-sarwar-2020/
+# original_html: snapshots/nohawriteups/original_html/0d13cc3ea78bd43d9f70.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/0d13cc3ea78bd43d9f70.json
+# api_content_sha256: f03d5041c3c6130f0e557491d2dfd6f743f95c0a1af319b2a35cf46dd7fa3dbe
+# editorial_note: Two matching Roman source editions reconciled, retaining the complete canonical wording and source provenance; no distinct stanzas in the imported draft.
 ---
 
 Safar Hayat Ka Chahe Tamam Hota Rahe.
