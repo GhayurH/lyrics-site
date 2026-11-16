@@ -4,6 +4,8 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Mir Takallum"
+reciter: "Mir Hasan Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,181 +14,55 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/e74800544df9acfb098a.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/e74800544df9acfb098a.json
 # api_content_sha256: 7537db5190d069dedf2abdd1a7f4d225a5802548399274e9c0cd6d85c7c17339
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Matching sources reconciled in nine three-line stanzas. Removed repeated refrain, placeholder and promotional footer; no unique substantive verses discarded. Unpublished.
+# source_id: tajpoints:3ef7f75f3fe415a29873
+# source_url: https://tajpoints.com/2023/07/subhana-rabbi-al-aala-mir-hasan-mir.html
+# raw_sha256: 3631d8be1f7ce61fa23478293c05b953de2a28b69c0882f64f9114bf0b3eaf44
 ---
-
-Subhana Rabbi Al Alla
-
-YA HUSSAIN, YA HUSSAIN
-
-Arabic verse…
-
 Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-KHANJAR TALAY HUSSAIN HAI
-
-DETAY RAHAY SADA
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-ASGHAR TERE NAM PAR QURBAN KR DIA
-
-GHATHDI TERE WASTAY QASIM UTHA LIA
-
-MAI NE TERI AZAN PAR, MAI NE TERI AZAN PAR
-
-AKBAR KIYA FIDA
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-JIS DAM HUSSAIN SEEN SE UTRAY ZAMEEN PAR
-
-ZAKHMO SE CHOOR CHOOR THAY SIBTE NABI MAGAR
-
-PYASAY LABO PE JARI THIS TABIHE KIBRIYA
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-KEHTA HAI APNE DIL MAI WO PARWARDIGAR SE
-
-HAAN YEH KABHI HAMARI SAKINA K WASTAY
-
-AB SENE PAR SAWAR HAI QATIL AGAR TO KYA
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-BAZO TADAP RAHAY KISI KAY LABE FARAT
-
-HASTAY HUAY KHOOLI NE MUJH PAR UTHAYA HATH
-
-LEKIN LABE HUSSAIN PR JARI RAI SAADAA
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-HAYE PYASA HO ZIBHA HO DASHT MAI
-
-OR DEKHE BIBIYAN
-
-MANZOOR YEH TUJHAY HAIN AGR RABE DO JAHAN
-
-RAZI TERI RIZA PE HAI ZAHRA KA LADLA
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-DETE NHI YEH PANI JO ZAHRA K CHAIN KO
-
-KYA DUKH YEH BAKHSHA HAI KOSAR HUSSAIN KO
-
-SONA PEHER KI PIYAS KA SHIKHWA NHI ZARA
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-TUKDAY MERE MISALE ALIF LAM MEEM HO
-
-LUT JAYE MERA GHAR MERE BACHAY YATEEM HO
-
-HAR HAAL MAI KREGA NAWASA RASOOL KA
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-HAYE NAANA BHI AYE HAIN MERE BABA BHI AYE HAIN
-
-MADAR KO MERI BHAI HASAN SATH LAYE HAIN
-
-SAD SHUKR SURKHURI HAI,SAD SHUKR SURKHURI HAI
-
-BUZURGO SE HOGAYA
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-SHEH PAR CHALI JO ZARB TAKALLUM HO AKHRI
-
-KATTI HUI RAG MUSALSAL SADA YEH THI
-
-MAI NE JO TUJH WADA KIYA THA NIBHA DIYA
-
-Subhana Rabbi Al Aala…
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala
-
-Subhana Rabbi Al Aala | Khususi Kalam | Mir Hasan Mir Nohay 2023 | Muharram 2023/1445
+Khanjar Talay Hussain Yeh Detey Rahe Sada
+
+1
+Asghar Ko Tere Naam Par Qurban Kar Diya
+Gathri Mein Tere Wastay Qasim Utha Liya
+Main Ne Teri Azan Par Akbar Kiya Fida
+
+2
+Jis Dam Hussain Zeen Se Utray Zameen Par
+Zakhmo Se Choor Choor They Sibt e Nabi Magar
+Pyasay Labon Pe Jari Thi Tasbeeh-e-Kibriya
+
+3
+Kehta Hai Apne Dil Mein Woh Parwardigar Se
+Tha Yeh Kabhi Hamari Sakina Ke Wastay
+Ab Seene Par Sawar Hai Qatil Agar Tu Kya
+
+4
+Bazu Tarap Rahe They Kissi Ke Lab-e-Furat
+Hanstay Hoye Jo Kholi Ne Mujh Par Uthaya Hath
+Lekin Lab-e-Hussain Par Jari Rahi Sada
+
+5
+Pyasa Ho Zibha Dasht Mein Our Dekhein Bibiyaan
+Manzoor Yeh Tujhey Hai Agar Rab-e-Do Jahan
+Razi Teri Riza Pe Hai Zahra Ka Ladla
+
+6
+Detey Nahi Yeh Pani Jo Zahra Ke Chain Ko
+Kya Dukh Hai Tu Ne Bakhsha Hai Kausar Hussain Ko
+Solah Pehar Ki Pyas Ka Shikwa Nahi Zara
+
+7
+Tukray Mere Misal-e-Alif Laam Meem Hoon
+Lut Jaye Mera Ghar Mere Bachay Yateem Hoon
+Har Haal Mein Kahey Ga Nawasa Rasool Ka
+
+8
+Nana Bhi Aaye Hain Mere Baba Bhi Aaye Hain
+Madar Ko Meri Bhai Hasan Sath Laye Hain
+Sad Shukar Surkhuru Main Bazurgon Se Ho Gaya
+
+9
+Sheh Par Chali Jo Zarb Takallum Woh Aakhri
+Katti Hoi Ragoon Ki Musalsal Sada Yeh Thi
+Main Ne Jo Tujh Se Wadah Kiya Tha Nibha Diya
