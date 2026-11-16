@@ -72,6 +72,9 @@ romanLyrics: |-
 # source_id: ziyaraat:df04f8a7ca4a68d6700c
 # source_url: https://www.ziyaraat.net/api/noha/306
 # raw_sha256: 4b6a2d1aec3a2f95c14b9cfbd5abf3d9dbeec4a9daa0045430b0c4c187dad456
+# source_id: tajpoints:816cb171cf0abf1ea3ef
+# source_url: https://tajpoints.com/2023/01/na-rakh-ab-chadar-nadeem-sarwar-lyrics.html
+# raw_sha256: 08838a7c3e88bbfd2def2fe440d71d0bc80e290cfd9ec58e3fc97c9b170faa9f
 ---
 
 نہ رکھ اب چادر بازوؤں پہ

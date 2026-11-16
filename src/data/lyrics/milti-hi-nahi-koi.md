@@ -44,6 +44,9 @@ romanLyrics: |-
 # source_id: nohayonline:cacf54575c464dc39490
 # source_url: https://www.nohayonline.com/details_content.php?id=610
 # raw_sha256: ee35328580e7056900823a050ca5aa5168fce383d51f59ab26ae66271845f7e6
+# source_id: tajpoints:b25e7425a4349da9bf1a
+# source_url: https://tajpoints.com/2020/11/milti-hi-nahi-koi-misal-aisi-dahar-mein.html
+# raw_sha256: 54e08cb546c0476e66bd92c130a4a4679c701868cc469bd20526fca34f5b194c
 ---
 ملتی ہی نہیں کوئی مثال ایسی دہر میں
 بے گور و کفن بھائی ہمشیر سفر میں

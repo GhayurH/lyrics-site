@@ -1462,6 +1462,7 @@ src/data/lyrics/hum-kaise-chale-jaye.md,round_1,present,nohayonline;ziyaraat,noh
 src/data/lyrics/hum-karte-hai.md,round_1,present,nohayonline,nohayonline:52076e8ccbf5357d1f0e,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/hum-kya-kahein-keh-kyun-humein-pyara-hussain-hai.md,round_1,present,tajpoints,tajpoints:50e00dd91e5273383e72,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/hum-musafir-hai.md,round_1,present,nohayonline,nohayonline:14ac93ea486e125f9be4,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/hum-ne-ghazi-ka-alam-ghar-pe-saja-rakha-hai-hasan-sadiq-lyrics-2005-tajpoints-96fed87a3438b3f9aa43.md,round_2,consolidated,tajpoints,tajpoints:96fed87a3438b3f9aa43,round2-kalams-2026-11-14,Verse overlap verified against src/data/lyrics/hum-ne-ghazi-ka.md; redundant source consolidated on 2026-11-16
 src/data/lyrics/hum-ne-ghazi-ka.md,round_1,present,nohayonline,nohayonline:91017095a3fff173ad81,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/hum-zinda-hai.md,round_1,present,nohayonline,nohayonline:68b75317514fc5b0aa3e,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/humko-hai-apni-jaan.md,round_1,present,nohayonline,nohayonline:8c6e7bd4dc7daae7e97b,feat/import-overlap-reconciliation-2026-11-05,
@@ -2347,6 +2348,7 @@ src/data/lyrics/mil-saka-na-jab.md,round_1,present,nohayonline,nohayonline:b6603
 src/data/lyrics/mili-hai-deen-e-nabi-ko-hayat-zainab-se.md,round_1,present,tajpoints,tajpoints:dac416a0c7c1965e5abe,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/mili-rihaai-to-abid-ye-kaam-kar-ke-chale.md,original,present,,,main,
 src/data/lyrics/milke-sab-matame.md,round_1,present,nohayonline,nohayonline:faea079075a2f16e6bdb,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/milti-hi-nahi-koi-misal-aisi-dahar-mein-tajpoints-b25e7425a4349da9bf1a.md,round_2,consolidated,tajpoints,tajpoints:b25e7425a4349da9bf1a,round2-kalams-2026-11-14,Verse overlap verified against src/data/lyrics/milti-hi-nahi-koi.md; redundant source consolidated on 2026-11-16
 src/data/lyrics/milti-hi-nahi-koi.md,round_1,present,nohayonline,nohayonline:cacf54575c464dc39490,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/misaale-mauj-par.md,round_1,present,nohayonline,nohayonline:1df9e9e161c568a3c55f,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/mita-ke-rakh-diya.md,round_1,present,nohayonline,nohayonline:f77c2280e4e06ec000fe,feat/import-overlap-reconciliation-2026-11-05,
@@ -2367,6 +2369,7 @@ src/data/lyrics/mud-mud-ke-mujhe.md,round_1,present,nohayonline,nohayonline:373f
 src/data/lyrics/muhammad-e-baqir.md,round_1,removed_duplicate,tajpoints,tajpoints:52e48761aa8ef67efb98,feat/import-overlap-reconciliation-2026-11-05,Manual duplicate removal 2026-11-15; unpublished recitation ID purged; retained Basta page 381.
 src/data/lyrics/mujhe-abbas-kehte.md,round_1,present,nohayonline,nohayonline:ba9aea8873ed9eec384f,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/mujhe-baba-ka-sar.md,round_1,present,nohayonline;ziyaraat,nohayonline:efb6182e16e0dd4420b1;ziyaraat:c3800d208ffccce9bc06,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/mujhe-bhi-watan-le-chalo-mujhe-bhi-lyrics-2010-tajpoints-4369abb811541788d6a7.md,round_2,consolidated,tajpoints,tajpoints:4369abb811541788d6a7,round2-kalams-2026-11-14,Verse overlap verified against src/data/lyrics/mujhe-bhi-watan-le.md; redundant source consolidated on 2026-11-16
 src/data/lyrics/mujhe-bhi-watan-le.md,round_1,present,nohayonline,nohayonline:31ff146ffde1b706fc10,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/mujhe-jaana-hoga.md,round_1,present,nohayonline,nohayonline:62c4c8262c904b111231,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/mujhe-koi-gham-nahi.md,round_1,present,nohayonline,nohayonline:f4b84979b786d4f4d251,feat/import-overlap-reconciliation-2026-11-05,
@@ -2423,6 +2426,7 @@ src/data/lyrics/na-poch-kaise-koi-shah-e-mashriqain-bana.md,round_1,present,tajp
 src/data/lyrics/na-pochiye-ke-kya-hussain-hai.md,original,present,,,main,
 src/data/lyrics/na-pooch-karbobala.md,round_1,present,nohayonline,nohayonline:384681542fc50fb00be5,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/na-poocho-dushmane.md,round_1,present,nohayonline,nohayonline:6d5e69c38402cd03f32a,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/na-rakh-ab-chadar-nadeem-sarwar-tajpoints-816cb171cf0abf1ea3ef.md,round_2,consolidated,tajpoints,tajpoints:816cb171cf0abf1ea3ef,round2-kalams-2026-11-14,Verse overlap verified against src/data/lyrics/na-rakh-ab-chadar.md; redundant source consolidated on 2026-11-16
 src/data/lyrics/na-rakh-ab-chadar.md,round_1,present,nohayonline;ziyaraat,nohayonline:6ea31efacc0b992f5254;ziyaraat:df04f8a7ca4a68d6700c,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/na-ro-ay-phupi.md,round_1,present,nohayonline,nohayonline:1522cd1008614d422c9d,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/na-ro-zainab.md,round_1,present,nohayonline,nohayonline:883f5aa3ff03a4e42831,feat/import-overlap-reconciliation-2026-11-05,
