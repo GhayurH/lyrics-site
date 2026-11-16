@@ -4,6 +4,8 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Mir Takallum"
+reciter: "Mir Hasan Mir"
 tags: []
 aliases: []
 published: false
@@ -67,6 +69,9 @@ romanLyrics: |-
 # source_metadata_path: snapshots/nohawriteups/metadata/afe450ea7a466bb2ca36.json
 # api_content_sha256: d78e4a8489820c4271932eeba5b3338e46aa8c6a63f04d5bc91f3f4db87224ce
 # editorial_note: Unpublished source-faithful draft from approved valid roman+urdu; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# source_id: tajpoints:2f4b1665cb1431778c63
+# source_url: https://tajpoints.com/2023/07/shimr-ne-pehle-sakina-ko-dikhaya.html
+# raw_sha256: dc4cb0ec99679bbe1172564b56366c36b2e57fa2a6420f8450f9fb9c23241176
 ---
 
 ہائے حسین

@@ -4,6 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+reciter: "Nadeem Sarwar"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,7 +13,10 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/0599101e36cc03ac0ddc.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/0599101e36cc03ac0ddc.json
 # api_content_sha256: 03404d6a8d5a78b0085fe76ab22372fee67f33dc4a3b94c0eb3d2c8858636744
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Cross-source matching lyrics consolidated; source differences remain for editorial transliteration and stanza checks. Unpublished.
+# source_id: tajpoints:af76bbc7b65336edc668
+# source_url: https://tajpoints.com/2019/12/khuda-khair-karey-lyrics-in-urdu-and.html
+# raw_sha256: 99337c6eb8ef4c76ea43cabbeaebb72d5450c2e2de70c509d3b60ad74a1baded
 ---
 
 Khair Karey

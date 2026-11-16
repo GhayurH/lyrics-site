@@ -4,6 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+reciter: "Mir Hasan Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,7 +13,10 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/0901f7e1f5f799c205de.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/0901f7e1f5f799c205de.json
 # api_content_sha256: 3db7ba3162a507d1e2839a47f88d0609e38ec28947a463a590ccf6d73de212db
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Cross-source matching lyrics consolidated; source differences remain for editorial transliteration and stanza checks. Unpublished.
+# source_id: tajpoints:a70f2f4a6a0db8bd792e
+# source_url: https://tajpoints.com/2020/03/mawaan-karbala-diyaan-mawaan-lyrics-in.html
+# raw_sha256: 368364f8b7dcf2a9c707cc25e4f4b33faf613e3654c1bc55dfae1c43a0294ccc
 ---
 
 Putraan Diyaan Lashaan De Tukray Rayiyaan Labdiyaan Wich Sehrawan.
