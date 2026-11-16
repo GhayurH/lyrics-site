@@ -2777,7 +2777,7 @@ src/data/lyrics/sar-ali-ka-sajdae.md,round_1,present,nohayonline;ziyaraat,nohayo
 src/data/lyrics/sar-apna-kata-gaya.md,round_1,present,nohayonline,nohayonline:43da512e4c46b48c4a6b,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/sar-dekh-ke-shabbir.md,round_1,present,nohayonline,nohayonline:dca572bc94e4d15b77bc,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/sar-e-abbas.md,round_1,present,nohayonline,nohayonline:091483a71508de2c0fd0,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/sar-jo-shabbir-ka-zindaan-mein.md,round_1,present,tajpoints,tajpoints:a26bfb2de38b0f66481f,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/sar-jo-shabbir-ka-zindaan-mein.md,round_1,removed_duplicate,tajpoints,tajpoints:a26bfb2de38b0f66481f,feat/import-overlap-reconciliation-2026-11-05,Confirmed Basta Marsiye 96 pages 260-261: seven imported stanzas all represented in the eight-stanza printed edition; alternate wording but no unique standalone stanza. Retained unchanged Basta and its permanent identity; source poet Shadan Dehlvi; reciter Saleem Mastan Wa Bradran; https://tajpoints.com/2025/08/sar-jo-shabbir-ka-zindan-main-saleem.html ; provisional lyric identity purged before merge.
 src/data/lyrics/sar-karbobala.md,round_1,present,nohayonline,nohayonline:e1a5afb57742a13a1608,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/sar-nange-jab.md,round_1,present,nohayonline,nohayonline:ac83001d6ae4a3134296,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/sar-pe-ab-shahe.md,round_1,present,nohayonline,nohayonline:401be139772508a5dbca,feat/import-overlap-reconciliation-2026-11-05,
