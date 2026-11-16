@@ -48,6 +48,9 @@ romanLyrics: |-
 # source_id: nohayonline:7c3eaa1c061cb44658f6
 # source_url: https://www.nohayonline.com/details_content.php?id=1623
 # raw_sha256: 81846d4ee2a279e6f7fbcccc5c70c3c0e5eadf1dfcf90ce079667ce588cf40a6
+# source_id: tajpoints:3f939e3576eb807a0d40
+# source_url: https://tajpoints.com/2024/07/jhoola-hai-ya-taboot-tumhara-ali-asghar.html
+# raw_sha256: 365e0427f9094a3561fe834970e440688eeb62e23811e9fa27a6956f4e74bbd8
 ---
 جھولا ہے یا تابوت تمہارا علی اصغر
 مادر کے لبوں پر ہے یہ نوحہ علی اصغر
