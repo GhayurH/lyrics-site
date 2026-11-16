@@ -27,6 +27,14 @@ romanLyrics: |-
   Bhai Se Aur Phuphi Se, Jisko Juda Kiya Ho
 
   4
+  Haaye Shaam ki galiyoṅ meiṅ roti hai qaza jis ko
+  Jaise ke Sakina ka koi na janaaza ho
+
+  5
+  Bekafan use Aabid tanha hi utha laaye
+  Kaunain ka waaris hai jis Bibi ka daada ho
+
+  6
   Zindan Maiṅ Ae Najafi, Yaad Aayi Sakina Ki
   Dil Ro Ro Keh Raha Hai, Ab Na Ujala Ho
 # source_id: nohawriteups:36d41f07c2066bae179d
@@ -52,5 +60,13 @@ romanLyrics: |-
 بھائی سے اور پھوپھی سے، جس کو جدا کیا ہو
 
 ۴
+ہائے شام کی گلیوں میں روتی ہے قضا جس کو
+جیسے کہ سکینہ کا کوئی نہ جنازہ ہو
+
+۵
+بے کفن اسے عابد تنہا ہی اٹھا لائے
+کونین کا وارث ہے جس بی بی کا دادا ہو
+
+۶
 زندان میں اے نجفی، یاد آئی سکینہ کی
 دل رو رو کے کہہ رہا ہے، اب نہ اجالا ہو
