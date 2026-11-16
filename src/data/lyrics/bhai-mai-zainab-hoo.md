@@ -92,6 +92,10 @@ romanLyrics: |-
 # source_id: nohayonline:64e433bfa03cfdc7ec1d
 # source_url: https://www.nohayonline.com/details_content.php?id=339
 # raw_sha256: d337a6870396652d2ee3eff8d7c113805ea6307e515188f587cc8e09b20a7441
+# source_id: nohawriteups:c80860cae993e53b8e68
+# source_url: https://www.nohawriteups.org/bhai-mai-zainab-hoo/
+# original_html: snapshots/nohawriteups/original_html/c80860cae993e53b8e68.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/c80860cae993e53b8e68.json
 ---
 وہ زائرِ حسین وہ جابر وہ کربلا
 وہ شام سے پلٹ کے جب آیا تھا قافلہ

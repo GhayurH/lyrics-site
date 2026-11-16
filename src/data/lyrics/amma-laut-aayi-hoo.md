@@ -57,6 +57,10 @@ romanLyrics: |-
 # source_id: nohayonline:a445b2b9395629ab6cd5
 # source_url: https://www.nohayonline.com/details_content.php?id=748
 # raw_sha256: 9165d43f190f5087a8e0edd339c7322727e06d8ee478ac1f7c415f43599f3bfe
+# source_id: nohawriteups:50ebac1706fdf127fe47
+# source_url: https://www.nohawriteups.org/amma-laut-aayi-hoo-main/
+# original_html: snapshots/nohawriteups/original_html/50ebac1706fdf127fe47.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/50ebac1706fdf127fe47.json
 ---
 اماں لوٹ آئی ہوں میں
 داغ دل پہ بہتر کے لائی ہوں میں

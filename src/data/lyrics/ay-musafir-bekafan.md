@@ -47,6 +47,10 @@ romanLyrics: |-
 # source_id: nohayonline:d5d9b74ca79c238ef884
 # source_url: https://www.nohayonline.com/details_content.php?id=152
 # raw_sha256: bb6533888ee5b5e57c250f159c9a33679da3c61b218f74acc1f352498e9249b8
+# source_id: nohawriteups:7675c31c447fe3cb4d71
+# source_url: https://www.nohawriteups.org/ay-musafir-bekafan/
+# original_html: snapshots/nohawriteups/original_html/7675c31c447fe3cb4d71.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/7675c31c447fe3cb4d71.json
 ---
 
 اے مسافر بے کفن تو خاک پر وا حسرتا
