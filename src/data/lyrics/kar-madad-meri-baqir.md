@@ -58,6 +58,9 @@ reciter: Meer Hasan Meer
 # source_url: https://www.ziyaraat.net/api/noha/1024
 # raw_sha256: 7ac6ab5d438118c44b1e45d189e64ed365a46ba183bd3a94e5ed6b643a570f44
 # refrain_source: roman:kalam-ziyaraat-b10e92fcf3e84671883f
+# source_id: tajpoints:e7cee2435afe1ed071f8
+# source_url: https://tajpoints.com/2017/02/kar-madad-meri-baqiras-beta-hamsheer-ki.html
+# raw_sha256: f7461086082cbb822a47dbff2255c35b434352e12b5fc85734818f27dfb3748f
 ---
 
 سکینہ مر گئی زندان میں جب یہ شور اُٹھا
