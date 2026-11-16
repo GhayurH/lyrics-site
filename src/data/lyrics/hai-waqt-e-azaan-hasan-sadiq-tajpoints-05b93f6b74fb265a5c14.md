@@ -1,5 +1,5 @@
 ---
-title: "Hai Waqt-e-Azaan Hasan Sadiq"
+title: "Hai Waqt-e-Azaan"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
@@ -12,8 +12,6 @@ published: false
 # source_url: https://tajpoints.com/2023/01/hai-waqt-e-azaan-hasan-sadiq-lyrics-in.html
 # raw_sha256: 99cc67cfb2455dbd2cc851b72bc33651a32b32162bef0a71ebed1cc04c68d4ba
 ---
-
-Hai Waqt-e-Azaan Hasan Sadiq Lyrics
 
 1
 Hai Waqt-e-Azaan Aa Ali Akbar Azan De.

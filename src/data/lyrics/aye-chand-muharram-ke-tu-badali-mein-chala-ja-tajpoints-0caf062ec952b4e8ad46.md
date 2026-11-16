@@ -3,8 +3,8 @@ title: "Aye Chand Muharram Ke Tu Badali Mein Chala Ja"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
-kalamType: "Other"
-poet: "Sardar"
+kalamType: "Noha"
+poet: "Yousuf Sardar"
 tags: []
 aliases: []
 published: false
@@ -12,6 +12,10 @@ published: false
 # source_url: https://tajpoints.com/2018/09/aye-chand-muharram-ke-tu-badali-mein.html
 # raw_sha256: 4671d41ac58c2f964af1be21550a6e99fd54329985687a0e00fe9c719d0398e9
 ---
+
+Sog meiṅ dubi saari fiza, Ya Husain
+Ghar ghar meiṅ matam hai bapa, Ya Husain
+Aaya nazar jab maah-e-aza, ro ro ke azadaaroṅ ne kaha
 
 1
 Aye Chand Muharram Ke Tu Badali Mein Chala Ja.
