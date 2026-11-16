@@ -64,6 +64,9 @@ romanLyrics: |-
 # source_id: nohayonline:a9bc16742df9b864ca1a
 # source_url: https://www.nohayonline.com/details_content.php?id=21
 # raw_sha256: 985327eaa1ddbce27ebf7129f4d3b1af74bdecce36b1129233c317498d5b6cd9
+# source_id: tajpoints:2fd6137fa1b7560aeb10
+# source_url: https://tajpoints.com/2022/12/acha-kiya-baba-nadeem-sarwar-lyrics-in.html
+# raw_sha256: 46897bd7ddd01016a52e9879f328406e156198fcbd82131d0c836c980322d884
 ---
 
 چاہت کا میری کیسا یہ مجھ کو صِلا دیا

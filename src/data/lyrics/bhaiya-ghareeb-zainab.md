@@ -53,6 +53,9 @@ romanLyrics: |-
 # source_id: ziyaraat:a8d6b65ac06ea4f94fc6
 # source_url: https://www.ziyaraat.net/api/noha/1853
 # raw_sha256: 7fc52df3e4bb7b67b0ace2f6671d40981c881b1d0f0bc2d76d4b8f8b1ed481f7
+# source_id: tajpoints:30964b6060c727e117e0
+# source_url: https://tajpoints.com/2019/06/bhaiya-ghareeb-zainab-tera-kafan-na.html
+# raw_sha256: ebce567a33c8124c22180aa0fd6a5840963894745b2f372e2673749f13f4b590
 ---
 بھیا غریب زینب تیرا کفن نہ لائی
 لاشِ حُسین پر ہے زینب کی یہ دُہائی

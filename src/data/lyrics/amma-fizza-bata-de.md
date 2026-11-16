@@ -57,12 +57,24 @@ romanLyrics: |-
   Kya Shaam aa gaya hai
 
   8
+  Kiuṅ qaafila ruka hai bajte haiṅ shaadiyaane
+  Lehra rahe haiṅ aada khush ho ke taaziyaane
+  Kiuṅ jashn ka samaaṅ hai sab muskura rahe haiṅ
+  Kya Shaam aa gaya hai
+
+  9
+  Karne laga tilaawat neze pe Ibn-e-Haider
+  Naamus-e-Mustafa ke sar pe nahiṅ hai chaadar
+  Nazroṅ ko ashqiya ki Sarwar hata rahe haiṅ
+  Kya Shaam aa gaya hai
+
+  10
   Hone lagiṅ azaaneṅ kaise saroṅ ko dhaaṅpe
   Baazu bandhe hue haiṅ khuṅ ro rahi haiṅ aaṅkheṅ
   Aaṅkhoṅ ke khuṅ se raste khuṅ meiṅ naha rahe haiṅ
   Kya Shaam aa gaya hai
 
-  9
+  11
   Rehaan qaidiyoṅ meiṅ barpa tha shor-e-giryaṅ
   Palkoṅ se kar rahi thi maatam jo Bint-e-Zehra
   Sajjad nauhakhwaaṅ haiṅ nauha suna rahe haiṅ
@@ -75,6 +87,9 @@ reciter: "Mir Hasan Mir"
 # source_id: ziyaraat:42d7fd263da2e273386c
 # source_url: https://www.ziyaraat.net/api/noha/446
 # raw_sha256: 559a0214b36fd633616e3252d74328515286d6fc4cf93812e476d815d6542c89
+# source_id: tajpoints:412a86b8cefbbd1bd445
+# source_url: https://tajpoints.com/2021/04/amma-fizza-bata-de-mujh-ko-pathar-kyun.html
+# raw_sha256: 0ffc614c11fd2c37a1998a3ba231a1a3a1537df389f52dc020743fab573a090b
 ---
 
 اماں فضہ بتا دے مجھ کو پتھر کیوں آ رہے ہیں
@@ -124,12 +139,24 @@ reciter: "Mir Hasan Mir"
 کیا شام آ گیا ہے
 
 ۸
+کیوں قافلہ رکا ہے بجتے ہیں شادیانے
+لہرا رہے ہیں اعدا خوش ہو کے تازیانے
+کیوں جشن کا سماں ہے سب مسکرا رہے ہیں
+کیا شام آ گیا ہے
+
+۹
+کرنے لگا تلاوت نیزے پہ ابنِ حیدر
+ناموسِ مصطفیٰ کے سر پہ نہیں ہے چادر
+نظروں کو اشقیاء کی سرور ہٹا رہے ہیں
+کیا شام آ گیا ہے
+
+۱۰
 ہونے لگیں اذانیں کیسے سروں کو ڈھانپے
 بازو بندھے ہوئے ہیں خوں رو رہی ہیں آنکھیں
 آنکھوں کے خوں سے رستے خوں میں نہا رہے ہیں
 کیا شام آ گیا ہے
 
-۹
+۱۱
 ریحان قیدیوں میں برپا تھا شور گریاں
 پلکوں سے کر رہی تھی ماتم جو بنت زہرا
 سجاد نوحہ خواں ہیں نوحہ سنا رہے ہیں
