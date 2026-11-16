@@ -40,6 +40,7 @@ romanLyrics: |-
 # source_id: nohayonline:c0b0b8cbd35ce8ebaec1
 # source_url: https://www.nohayonline.com/details_content.php?id=2308
 # raw_sha256: 8c4e71d08299db8952799405c8a02a9e0e49541f0997a3cee9807b4173179f39
+# editorial_note: "An alternate heading names Sheraz Khan under Soz; confirm whether this is an additional vocal performer or another credit."
 ---
 باپ کے غم میں سکینہ یوں دلاسے پائے گی
 جب بھی بابا کو پکارے گی طمانچے کھائے گی
