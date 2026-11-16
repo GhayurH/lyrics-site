@@ -32,7 +32,7 @@ romanLyrics: |-
 
   5
   Bimaar ka bistar bhi adu khencheṅge aa kar
-  Pehnaaeṅge bimaar ko wo aaheiṅ nilangar
+  Pehnaaeṅge bimaar ko wo aahni langar
 
   6
   Ye raat agar dhal gai suraj nikal aaya
@@ -44,6 +44,10 @@ romanLyrics: |-
 # source_id: nohayonline:050c0176ce6f124bd681
 # source_url: https://www.nohayonline.com/details_content.php?id=2319
 # raw_sha256: 1a1e4ddbba71870e539ccee4104e77698e496a71e32a3d4a90ae81a60a2e0bf9
+# source_id: tajpoints:669dec1912907dd3fdb2
+# source_url: https://tajpoints.com/2023/02/ya-rab-na-sahar-ho-hasan-sadiq-lyrics.html
+# raw_sha256: ce7abafb9c743e46260b8be5c14f7cb28c41d841ee7248232328b03f87479212
+# editorial_note: Corrected the garbled phrase 'aaheiṅ nilangar' / 'آہیں نلنگر' to the source's 'aahni langar' / 'آہنی لنگر' (iron fetters) in both languages.
 ---
 یا رب نہ سحر ہو
 یا رب نہ سحر ہو
@@ -66,7 +70,7 @@ romanLyrics: |-
 
 ۵
 بیمار کا بستر بھی عدو کھینچیں گے آ کر
-پہنائیں گے بیمار کو وہ آہیں نلنگر
+پہنائیں گے بیمار کو وہ آہنی لنگر
 
 ۶
 یہ رات اگر ڈھل گئی سورج نکل آیا

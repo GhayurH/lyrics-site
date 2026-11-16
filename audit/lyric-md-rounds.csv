@@ -3122,6 +3122,7 @@ src/data/lyrics/tukre-nahin-chadar-mein-farwa-tera-beta-hai.md,original,present,
 src/data/lyrics/tum-bin-raaton-se.md,round_1,present,nohayonline,nohayonline:83b026e13744c78cf9b9,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/tum-chand-ho.md,round_1,present,nohayonline,nohayonline:3e49dcf685bb76291ae3,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/tum-na-aana-hussain.md,round_1,present,nohayonline,nohayonline:563f7dec524ec149d46a,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/tum-roz-meri-qabr-pe-ana-abul-hasan-lyrics-2022-tajpoints-992d4c5cabd0fa21b206.md,round_2,consolidated,tajpoints,tajpoints:992d4c5cabd0fa21b206,round2-kalams-2026-11-14,Restored missing stanza 8 in both scripts in src/data/lyrics/tum-roz-meri-qabr-pe.md on 2026-11-16
 src/data/lyrics/tum-roz-meri-qabr-pe.md,round_1,present,nohayonline,nohayonline:dbeedfe087bd6bf95ef6,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/tum-sakina-ko-bhool.md,round_1,present,nohayonline,nohayonline:f0beb5539e8438d10070,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/tumhare-baad-ay.md,round_1,present,nohayonline,nohayonline:0f8fbfc7096ef0424cd4,feat/import-overlap-reconciliation-2026-11-05,
@@ -3257,6 +3258,7 @@ src/data/lyrics/ya-mehdi.md,round_1,present,nohayonline,nohayonline:f2c80b16fa78
 src/data/lyrics/ya-mohammada.md,round_1,present,nohayonline,nohayonline:2184186e8a8b376cbc2e,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ya-rab-hussain-jaisa.md,round_1,present,nohayonline,nohayonline:99cf0ce2096a6ea964e5,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ya-rab-koyi-masooma-zindan-main-na-tanha-ho.md,original,present,,,main,
+src/data/lyrics/ya-rab-na-sahar-ho-hasan-sadiq-tajpoints-669dec1912907dd3fdb2.md,round_2,consolidated,tajpoints,tajpoints:669dec1912907dd3fdb2,round2-kalams-2026-11-14,Corrected iron fetters phrase against source in src/data/lyrics/ya-rab-na-sahar-ho.md on 2026-11-16
 src/data/lyrics/ya-rab-na-sahar-ho.md,round_1,present,nohayonline,nohayonline:050c0176ce6f124bd681,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ya-raza-maula.md,round_1,present,nohayonline,nohayonline:83c59d5f886ccda6db61,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ya-saaratul-hussain.md,round_1,present,nohayonline,nohayonline:6910f5ab83937160e7d7,feat/import-overlap-reconciliation-2026-11-05,
