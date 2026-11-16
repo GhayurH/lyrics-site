@@ -63,6 +63,9 @@ romanLyrics: |-
 # source_id: ziyaraat:517c9dc92fa8aeaaeafe
 # source_url: https://www.ziyaraat.net/api/noha/141
 # raw_sha256: 7261da6537788f6545cc7b2b71ceb2c5db9fe46a64514e98a8b43f89f92a86b0
+# source_id: tajpoints:6e276ee25dd1b69e1898
+# source_url: https://tajpoints.com/2023/04/ro-rahi-hai-aaj-tak-shabbir-khak-e.html
+# raw_sha256: c8a07c5c226618770df204d592b0503ae2af3adf066443b59deaf0596d0db6f3
 ---
 ہائے حسین
 رو رہی ہے آج تک شبیر خاک کربلا

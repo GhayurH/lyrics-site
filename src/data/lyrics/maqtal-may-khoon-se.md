@@ -45,6 +45,11 @@ romanLyrics: |-
 # source_id: nohayonline:22ba6d0b07801046d0ef
 # source_url: https://www.nohayonline.com/details_content.php?id=241
 # raw_sha256: 6688feba95f45d8395c3db97940fe15131ac280db5204b21e38bc9c636726281
+# source_id: nohawriteups:ea321d599be156eb6a3c
+# source_url: https://www.nohawriteups.org/maqtal-may-khoon-se-laal-hai-bano/
+# original_html: snapshots/nohawriteups/original_html/ea321d599be156eb6a3c.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/ea321d599be156eb6a3c.json
+# api_content_sha256: 433a13c5b3a57e6232fcfed2bdf4a3963f601ea0a4797a37e1b84367a51037cd
 ---
 
 مقتل میں خوں سے لعل ہے بانو کا نونہال
