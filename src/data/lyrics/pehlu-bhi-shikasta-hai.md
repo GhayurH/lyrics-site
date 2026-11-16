@@ -70,6 +70,7 @@ romanLyrics: |-
 # source_id: ziyaraat:e57753edb2d977619932
 # source_url: https://www.ziyaraat.net/api/noha/2305
 # raw_sha256: 37d23b92e79619a4a0a83fcdb609f6053c0471de7f9eef912aea825e4e0a11d8
+# editorial_note: "Variant in stanza 4: Taarikh mein jo uthe instead of Taariki mein jo uthe; confirm the intended reading against Urdu and recitation."
 ---
 پہلو بھی شکستہ ہے تُربت بھی شکستہ ہے
 کیا حال یہ اُمت نے زہرا کا بنایا ہے
