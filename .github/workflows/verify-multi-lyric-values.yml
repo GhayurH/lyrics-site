@@ -1,0 +1,43 @@
+name: Verify multi-valued poem metadata
+on:
+  push:
+    branches: [fix/main-content-dedup-2026-11-16]
+    paths: [.github/workflows/verify-multi-lyric-values.yml]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    container:
+      image: mcr.microsoft.com/playwright:v1.65.1-noble
+      options: --ipc=host
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - name: TypeScript and Astro diagnostics
+        run: npm run check
+      - name: Unit tests, source validations, full build and Pagefind
+        run: npm run build
+      - name: Category and reciter search integration
+        run: npx playwright test tests/browser/search.spec.mjs --grep "multi-valued lyric categories|independent reciters" --workers=1
+      - name: Assert Pagefind facet values are independent
+        run: |
+          node --input-type=module <<'JS'
+          import * as pagefind from "./dist/pagefind/pagefind.js";
+          const filters = await pagefind.filters();
+          for (const key of ["Noha", "Salam"]) {
+            if (!filters.kalamType?.[key]) throw Error("Missing Kalam Type facet " + key);
+          }
+          for (const key of ["Sachey Bhai", "Shadman Raza"]) {
+            if (!filters.reciter?.[key]) throw Error("Missing Reciter facet " + key);
+          }
+          if (filters.reciter?.["Sachey Bhai; Shadman Raza"])
+            throw Error("Combined reciter facet must not be indexed");
+          console.log("Individual category and reciter facets verified.");
+          JS
