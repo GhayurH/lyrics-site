@@ -1,5 +1,5 @@
 ---
-title: "Haye Haye Ali Asghar (as)"
+title: "Haye Haye Ali Asghar"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
@@ -7,7 +7,7 @@ kalamType: "Noha"
 poet: "Sajjad"
 reciter: "Mir Hasan Mir"
 tags: ["noUrdu"]
-aliases: []
+aliases: ["Maa Kehti Thi Jalte Hue Jhule Se"]
 published: false
 # source_id: nohawriteups:9280c96a23a57095430e
 # source_url: https://www.nohawriteups.org/haye-haye-ali-asghar-as-mir-hasan-mir-2021/
@@ -20,142 +20,55 @@ published: false
 # raw_sha256: 47bbe87e0ef9186d820a29085ac30cd63a0dc564060a0ad335a285401dedbdec
 ---
 
-‬
-
+Haye Haye Ali Asghar
+Maa ke dulaare Ali Asghar
+Aankhoṅ ke taare Ali Asghar
+Aag lagi hai khaimoṅ meiṅ
+Ae mere pyaare Ali Asghar
+Maa kehti thi jalte hue jhule se lipat kar
 Haye Haye Ali Asghar
 
-Maa Ke Dulaare Ali Asghar
-
-Aankhon Ke Taare Ali Asghar
-
-Aag Lagi Hai Khaymon Main
-
-Aye Mere Pyare Ali Asghar
-
-Maa Kehti Thi Jalte Huay Jhule Se Lipat Kar, Haye Haye Ali Asghar
-
-Haye Haye Ali Asghar
-
-Zalim Ne Tujhe Qabr Se, Iss Tarha Nikala
-
-Seene Pe Laga Jis Ghari, Beta Tere Naiza
-
-Laashe Ko Tere Dekh Ke, Bola Sar-e-Akbar
-
-Haye Haye Ali Asghar
-
-Maa Kehti Thi Jalte Huwe Jhule Se Lipat Kar,
-
-Haye Haye Ali Asghar,
-
-Maa Ke Dulaare Ali Asghar
-
-Ankhon Ke Taare Ali Asghar
-
-Haan Dil Tera Mil Jaye Toh, Khud Poch Lun Us Se
-
-Kya Jurm Tha Chhe (6) Maah Ke, Bachhe Ka Bata De
-
-Us Ny Toh Bulaya Nahi, Maa Bhi Mujhe Keh Kar
-
-Haye Haye Ali Asghar
-
-Maa Kehti Thi Jalte Huay Jhule Se Lipat Kar,
-
-Haye Haye Ali Asghar, Haye Haye Ali Asghar
-
-Ab Tak Meri Aankhon Se Woh Manzar Nahi Jata
-
-Gardan Se Teri Khoon Tapak Ta Raha Beta
-
-Rumaal Bhi Bandha Na Gaya Tere Galey Par
-
-Haye Haye Ali Asghar
-
-Maa Kehti Thi Jalte Huay Jhule Se Lipat Kar,
-
-Haye Haye Ali Asghar, Haye Haye Ali Asghar
-
-Jis Teer Se Naqey Ko Giraate Hain Zameen Par
-
-Woh Teer Laga Nanne Se Halqoom Pe Aa Kar
-
-Tum Khoon Ugalte Rahe, Baba Se Lipat Kar
-
-Haye Haye Ali Asghar
-
-Maa Kehti Thi Jalte Huwe Jhule Se Lipat Kar,
-
-Haye Haye Ali Asghar, Haye Haye Ali Asghar
-
-Tum Mar Gaye Yea Baat Woh Ab Tak Nahi Maani
-
-Zid Kar Ti Hai Bhai Ko Pilaaungi Main Paani
-
-Kooza Liye Maqtal Main Khari Hai Teri Khuwahar
-
-Haye haye Ali Asghar
-
-Maa Kehti Thi Jalte Huay Jhule Se Lipat Kar,
-
-Haye Haye Ali Asghar, Haye Haye Ali Asghar
-
-Maa Ke Dulaare Ali Asghar
-
-Aankhon Ke Taare Ali Asghar
-
-Majboor Thi Ghar Main Mere Pani Hi Nahi Tha
-
-Warna To Dhula De Ti Main Yea Khoon Bhara Chehra
-
-Dadi Sy Shikayat Nahi Karna Meri Jaa Kar
-
-Haye Haye Ali Asghar
-
-Maa Kehti Thi Jalte Huay Jhule Se Lipat Kar,
-
-Haye Haye Ali Asghar, Haye Haye Ali Asghar
-
-Maara Hai Sitamgar Ne Sakina Ko Tamacha
-
-Ghazi Ki Tarha Tum Se Bhi Dekha Nahi Jaata
-
-Band Aankhein Kiye Rote Ho Tum Noke Sina Par
-
-Haye Haye Ali Asghar
-
-Maa Kehti Thi Jalte Huwe Jhule Se Lipat Kar,
-
-Haye Haye Ali Asghar, Haye Haye Ali Asghar
-
-Sar Iss Liye Nezay Se Gira Dete Ho Apna
-
-Godi Main Meri Aana Hai Shayad Tumhe Beta
-
-Lekin Hai Bandhe Haath Utha Sakti Nahi Sar
-
-Haye Haye Ali Asghar
-
-Maa Kehti Thi Jalte Huay Jhule Se Lipat Kar,
-
-Haye Haye Ali Asghar, Haye Haye Ali Asghar
-
-Sajjad Woh Kehti Thi Chala Bhi Nahi Jaata
-
-Do-Chaar Qadam Baad Hi Gir Jaati Hoon Beta
-
-Meri Bhi Kamar Kham Hai Teri Lash Utha Kar
-
-Haye Haye Ali Asghar
-
-Maa Kehti Thi Jalte Huay Jhule Se Lipat Kar,
-
-Haye Haye Ali Asghar, Haye Haye Ali Asghar
-
-Maa Ke Dulaare Ali Asghar
-
-Aankhon Ky Taare Ali Asghar
-
-Aag Lagi Hai Khaymon Main
-
-Aye Mere Pyare Ali Asghar
+1
+Zaalim ne tujhe qabr se is tarah nikaala
+Sine pe laga jis ghari beta tere naiza
+Laashe ko tere dekh ke bola sar-e-Akbar
+
+2
+Qaatil tera mil jaaye to khud puchh luṅ us se
+Kya jurm tha chhe maah ke bachche ka bata de
+Us ne to bulaaya nahiṅ maaṅ bhi mujhe keh kar
+
+3
+Ab tak meri aankhoṅ se wo manzar nahiṅ jaata
+Gardan se teri khun tapakta raha beta
+Rumaal bhi baandha na gaya tere gale par
+
+4
+Jis tir se naaqe ko giraate haiṅ zamiṅ par
+Wo tir laga nanhe se halqum pe aa kar
+Tum khun ugalte rahe Baba se lipat kar
+
+5
+Tum mar gaye ye baat wo ab tak nahiṅ maani
+Zid karti hai bhai ko pilaaungi maiṅ paani
+Kuza liye maqtal meiṅ khari hai teri khwahar
+
+6
+Majbur thi ghar meiṅ mere paani hi nahiṅ tha
+Warna to dhula deti maiṅ ye khun bhara chehra
+Daadi se shikaayat nahiṅ karna meri jaa kar
+
+7
+Maara hai sitamgar ne Sakina ko tamaancha
+Ghazi ki tarah tum se bhi dekha nahiṅ jaata
+Band aankheiṅ kiye rote ho tum nok-e-sinaaṅ par
+
+8
+Sar is liye naize se gira dete ho apna
+Godi meiṅ meri aana hai shaayad tumheiṅ beta
+Lekin hai bandhe haath utha sakti nahiṅ sar
+
+9
+Sajjad wo kehti thi chala bhi nahiṅ jaata
+Do chaar qadam baad hi gir jaati huṅ beta
+Meri bhi kamar kham hai teri laash utha kar
