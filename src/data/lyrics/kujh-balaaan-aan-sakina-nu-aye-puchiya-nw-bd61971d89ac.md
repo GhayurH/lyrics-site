@@ -4,6 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,8 +13,13 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/bd61971d89ace0924ceb.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/bd61971d89ace0924ceb.json
 # api_content_sha256: 90f38872a683925c1a9ccde5211311efd7b5a0ec835780e36964216efa48b0ab
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: TajPoints supplies the original first verse, now restored. Two witness texts consolidated, pending Roman Punjabi stanza review.
+# source_id: tajpoints:ec49026ac0b9a8c8aff1
+# source_url: https://tajpoints.com/2019/10/kujh-balaaan-aan-sakina-nu-aye-puchiya.html
+# raw_sha256: ad0e2392372f91fd206816f1619416027237e7445f7475ea03c3c000447c4b10
 ---
+
+Kujh Balaaan Aan Sakina Nu Aye Puchiya Wich Bazaar
 
 Kyun Zakhmi Ne Kan Tere Kyun Neelay Ne Rukhsar.
 
