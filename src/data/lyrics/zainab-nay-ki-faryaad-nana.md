@@ -48,6 +48,11 @@ romanLyrics: |-
   9
   Hiltha Tha Roza Hasnain o Qaiser, Zainab Jo Boliṅ Qabr-e-Nabi Per
   Sunlay Humari Rudaad Nana, Rudaad Nana Rudaad Nana
+# source_id: nohawriteups:30b060da60c59420e956
+# source_url: https://www.nohawriteups.org/zainab-nay-ki-yeh-faryaad-nana/
+# original_html: snapshots/nohawriteups/original_html/30b060da60c59420e956.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/30b060da60c59420e956.json
+# api_content_sha256: b492ea9d42ab65adebffc2cd32d2c6c1621a639eef2bf921038e7b72ce7f9486
 ---
 زینبؑ نے کی فریاد نانا، فریاد نانا فریاد نانا
 ہم ہو کے آئے برباد نانا
