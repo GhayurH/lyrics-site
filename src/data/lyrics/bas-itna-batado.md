@@ -66,6 +66,11 @@ romanLyrics: |-
 # source_id: ziyaraat:9f9df681cdfbd8fe2592
 # source_url: https://www.ziyaraat.net/api/noha/1308
 # raw_sha256: 1d69f3ae240bf4d4c05b4c18be34dee39328b195897f40d85f86576a68cad87e
+# source_id: nohawriteups:78a0003bff3f84894450
+# source_url: https://www.nohawriteups.org/bas-itna-batado/
+# original_html: snapshots/nohawriteups/original_html/78a0003bff3f84894450.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/78a0003bff3f84894450.json
+# api_content_sha256: fe0217206c9461561765e634fc8bee9ae3b1032f4f7e4307d7589de7abd1991f
 ---
 
 جب قافلہ پہنچا تھا مدینے کے ذرا پاس

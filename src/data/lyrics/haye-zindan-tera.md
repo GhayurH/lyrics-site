@@ -63,6 +63,11 @@ romanLyrics: |-
 # source_id: nohayonline:8df285c5401d4c790f9f
 # source_url: https://www.nohayonline.com/details_content.php?id=72
 # raw_sha256: af7e3fce7438ad924b5f36aaecb3e8467da1138e023dd755e7538f203dfcc0f4
+# source_id: nohawriteups:45e1161cf27aca4a9b0a
+# source_url: https://www.nohawriteups.org/haye-zindan-tera/
+# original_html: snapshots/nohawriteups/original_html/45e1161cf27aca4a9b0a.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/45e1161cf27aca4a9b0a.json
+# api_content_sha256: cacf48e0e9042cad63c8f5219012f0013f983ab8adf2dd8960c2c17c04b57a3b
 ---
 میری مظلوم بہنا سکینہ
 میری معصوم بہنا سکینہ

@@ -57,6 +57,11 @@ romanLyrics: |-
 # source_id: nohayonline:fb8ec4872fbf2cf4cb2e
 # source_url: https://www.nohayonline.com/details_content.php?id=981
 # raw_sha256: 8450a7a26ca2775e53a8dee31ce0f95d52ba44592be48e3a97051941a6088cca
+# source_id: nohawriteups:af43069db2aa9519a6c0
+# source_url: https://www.nohawriteups.org/ay-meri-laadli/
+# original_html: snapshots/nohawriteups/original_html/af43069db2aa9519a6c0.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/af43069db2aa9519a6c0.json
+# api_content_sha256: 42893490f491c889cf2eb8fe58b2f17640671a61fb6454454b3605a2008e904f
 ---
 بڑھنے لگے جب شام غریباں کے اندھیرے
 زینب نے کسی شخص کو آتے ہوئے دیکھا

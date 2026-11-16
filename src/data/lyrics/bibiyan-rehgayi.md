@@ -69,6 +69,11 @@ romanLyrics: |-
 # source_id: nohayonline:96c7a712825f9de82d58
 # source_url: https://www.nohayonline.com/details_content.php?id=364
 # raw_sha256: 3f5f594715e0100e3f817b2523e9ee29f15ea473f65f13f7f649ec889562fd6e
+# source_id: nohawriteups:a873cd947cdd1ef39700
+# source_url: https://www.nohawriteups.org/bibiyan-rehgayi/
+# original_html: snapshots/nohawriteups/original_html/a873cd947cdd1ef39700.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/a873cd947cdd1ef39700.json
+# api_content_sha256: 39fffc71169e86455946217fd0790f2f8623971e0ce209d81b83d381f402f77b
 ---
 سو گیا لشکر اے شامِ غریباں
 بی‌بیاں رہ گئیں

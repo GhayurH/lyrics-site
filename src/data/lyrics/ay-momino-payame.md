@@ -60,6 +60,11 @@ romanLyrics: |-
 # source_url: https://www.ziyaraat.net/api/noha/391
 # raw_sha256: a7081c2a4b054a596d044f8c1407913f0df90bf94299cc0e3b994f2742c5ed86
 # source_note: Ziyaraat supplies a shorter Roman performance variant, not an additional unique stanza.
+# source_id: nohawriteups:ed976f85b192f4dbb5b8
+# source_url: https://www.nohawriteups.org/ay-momino-payame/
+# original_html: snapshots/nohawriteups/original_html/ed976f85b192f4dbb5b8.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/ed976f85b192f4dbb5b8.json
+# api_content_sha256: d421ad1efd3c7f1be10b8175cb14619a1886b8233e198d1f564b3a4d24d2e948
 ---
 
 لے گا نہ جانے کتنی یہ کروٹیں زمانہ
