@@ -31,6 +31,10 @@ romanLyrics: |-
   Aur samne aankhoṅ ke darya bhi rawaṅ hai
 
   5
+  Jaate haiṅ Ali Akbar marne ke liye ran meiṅ
+  Zainab ke liye kitna purdard samaaṅ hai
+
+  6
   Rehaan ye kehti thi madar Ali Akbar ki
   Kya dar hai lainoṅ ka mera laal jawaaṅ hai
 # source_id: nohayonline:eeba017841824358399f
@@ -39,6 +43,10 @@ romanLyrics: |-
 # source_id: ziyaraat:bbf2ffd61317bab777de
 # source_url: https://www.ziyaraat.net/api/noha/231
 # raw_sha256: ba4b4bd5140c5ffc0b7e26b6b4865bf6b5187582fb08b30f9ea98d4046c50516
+# source_id: tajpoints:8d33cf9df0272727c92d
+# source_url: https://tajpoints.com/2023/02/akbar-tu-kahan-hai-hasan-sadiq-lyrics.html
+# raw_sha256: 80c6e35c7cc39f641b138a2b7ab4398ce64ad3b71edae2757744b6a80695ec47
+# editorial_note: Restored the source's missing Jate Hain Ali Akbar / Zainab Ke Liye couplet as stanza 5 in both scripts and moved the Rehan takhallus to stanza 6.
 ---
 کہتی ہے سحر غم کی اکبر تو کہاں ہے
 سجدے بھی ہیں افسردہ بیتاب اذاں ہے
@@ -60,5 +68,9 @@ romanLyrics: |-
 اور سامنے آنکھوں کے دریا بھی رواں ہے
 
 ۵
+جاتے ہیں علی اکبر مرنے کے لیے رن میں
+زینب کے لیے کتنا پُردرد سماں ہے
+
+۶
 ریحان یہ کہتی تھی مادر علی اکبر کی
 کیا ڈر ہے لعینوں کا میرا لال جواں ہے

@@ -318,6 +318,7 @@ src/data/lyrics/akbar-tadap-uthe.md,round_1,present,nohayonline,nohayonline:2069
 src/data/lyrics/akbar-tere-seene-se.md,round_1,present,nohayonline,nohayonline:d8f3a83082a5de11ab5d,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/akbar-teri-behna-ko.md,round_1,present,nohayonline,nohayonline:f8ee307ff0e9fb628924,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/akbar-teri-laash.md,round_1,present,nohayonline;ziyaraat,nohayonline:c7caeafca207216b05b6;ziyaraat:550955510e9341140953,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/akbar-tu-kahan-hai-hasan-sadiq-tajpoints-8d33cf9df0272727c92d.md,round_2,consolidated,tajpoints,tajpoints:8d33cf9df0272727c92d,round2-kalams-2026-11-14,Restored missing couplet in src/data/lyrics/akbar-tu-kahan-hai.md as bilingual stanza 5 on 2026-11-16
 src/data/lyrics/akbar-tu-kahan-hai.md,round_1,present,nohayonline;ziyaraat,nohayonline:eeba017841824358399f;ziyaraat:bbf2ffd61317bab777de,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/akbar-tujhe-talash.md,round_1,present,nohayonline,nohayonline:b6fa08d8489393403a43,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/akbare-jawan.md,round_1,present,nohayonline,nohayonline:c28665038f32156166e4;nohayonline:dd48c98619c4f8a0b5b4,feat/import-overlap-reconciliation-2026-11-05,
