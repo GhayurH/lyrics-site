@@ -4,6 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Darwaish"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -14,35 +15,41 @@ published: false
 # editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 ---
 
-Main Sakina Hun Mera, Dard Hay Itna Baba
-Mujh Ko Zalim Nay Kanizi May
-Hay Manga Baba
-Main Sakina Hun Mera, Dard Hay Itna Baba
-Mene Dadi Ki Tarhan Itne Masaib Dekhe
-Chaar Barso’n May Hi Lagti Hun Zaifa Baba
-Main Sakina Hun Mera, Dard Hay Itna Baba
-Jo Teri Laash Pey Doratey Thay Ghoray Run May
-Wo Tamacho Say Mujhe Dete Hain Pursa Baba
-Main Sakina Hun Mera, Dard Hay Itna Baba
-Kash Mar Jaon Main Asghar Ko Hi Rotey Rotey
-Main Kahan Karti Hun Paani Ka Takaza Baba
-Main Sakina Hun Mera, Dard Hay Itna Baba
-Haye Baba
-Pori Shiddat Say Mujhe Mara Tamacha Jis Nay
-Us Kay Hathon Say Mera Chehra Hay Chota Baba
-Main Sakina Hun Mera, Dard Hay Itna Baba
-Ungliyun Kay To Kahin Per Hain
-Kese Pehchanoge Tum Beti Ka Chehra Baba
-Main Sakina Hun Mera, Dard Hay Itna Baba
-Is Qadar Shaam Kay Zindan May Tareeki Hay
-Hath Apna Hi Nahi Mujh Ko Hay Dikhta Baba
-Main Sakina Hun Mera, Dard Hay Itna Baba
-Bhaiya Sajjad Say Nazrain Na Milayi Mene
-Mene Bazaar May Jab Khaya Tamacha Baba
-Main Sakina Hun Mera, Dard Hay Itna Baba
-Sham Walo’n Say Na Paani Na Kafan Mangongi
-Main Na Ehsaan Yahan Longi Kisi Ka Baba
-Main Sakina Hun Mera, Dard Hay Itna Baba
-Rakh Kay Mu Baap Kay Sir Par Wo Pukari Darvaish
-Ab Na Jaage Gi Kabhi Teri Sakina Baba
-Main Sakina Hun Mera, Dard Hay Itna Baba
+Main Sakina huṅ mera dard hai itna Baba
+Mujh ko zaalim ne kanizi meiṅ hai maanga Baba
+
+1
+Maiṅ ne Dadi ki tarah itne masaaib dekhe
+Chaar barsoṅ meiṅ hi lagti huṅ zaifa Baba
+
+2
+Jo teri laash pe dauraate the ghore ran meiṅ
+Wo tamaanchoṅ se mujhe dete haiṅ pursa Baba
+
+3
+Kaash mar jaauṅ maiṅ Asghar ko hi rote rote
+Maiṅ kahaaṅ karti huṅ paani ka taqaaza Baba
+
+4
+Haaye puri shiddat se mujhe maara tamaancha jis ne
+Us ke haathoṅ se mera chehra hai chhota Baba
+
+5
+Ungliyoṅ ke to kahiṅ par haiṅ anguthi ke nishaaṅ
+Kaise pehchaanoge tum beti ka chehra Baba
+
+6
+Is qadar Shaam ke zindaaṅ meiṅ taariki hai
+Haath apna bhi nahiṅ mujh ko hai dikhta Baba
+
+7
+Bhaiya Sajjad se nazreiṅ na milaaiṅ maiṅ ne
+Maiṅ ne baazaar meiṅ jab khaaya tamaancha Baba
+
+8
+Shaam waaloṅ se na paani na kafan maanguṅgi
+Maiṅ na ehsaan yahaaṅ luṅgi kisi ka Baba
+
+9
+Rakh ke muṅh baap ke sar par wo pukaari Darwaish
+Ab na jaagegi kabhi teri Sakina Baba
