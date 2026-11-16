@@ -53,6 +53,11 @@ romanLyrics: |-
 # source_id: nohayonline:2cc2f9953afc12257aea
 # source_url: https://www.nohayonline.com/details_content.php?id=705
 # raw_sha256: 98a6d342b6540147fed77239116c71fafc0f53db5239bd6dd8299f878d7f28a2
+# source_id: nohawriteups:4dce8834f6572dcb56dd
+# source_url: https://www.nohawriteups.org/shahe-shaheedan-shahe-shaheedan/
+# original_html: snapshots/nohawriteups/original_html/4dce8834f6572dcb56dd.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/4dce8834f6572dcb56dd.json
+# api_content_sha256: e216bfef9370564d8f4cf0c88b0a4d8ea8086846ccc35952265bc7156d5c856f
 ---
 شاہ شہیداں شاہ شہیداں
 روح شریعت صاحب قرآن

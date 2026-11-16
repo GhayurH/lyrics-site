@@ -72,6 +72,11 @@ romanLyrics: |-
 # raw_sha256: a32f60e22e317a1faad7d97c9a570f9651a6b4bf6c35b0929cf5b99c0127f05d
 # Archived Urdu/Roman conflict in stanza 4: قلم/zulm and فرق مرسلہ/faqre mursala; neither reading silently substituted.
 # Print/audio needed for کن فکاں (3), عامل علم (6), تا زیارے شام (8), and the intended stanza-4 readings.
+# source_id: nohawriteups:a556087ce3a8bc866374
+# source_url: https://www.nohawriteups.org/ay-hussain-jaan-ay-hussain-jaan/
+# original_html: snapshots/nohawriteups/original_html/a556087ce3a8bc866374.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/a556087ce3a8bc866374.json
+# api_content_sha256: 88aea6bfe35c1566242796acc8acd6c28e12e6719855c267bd163c253bcef0e2
 ---
 
 اے حسین جان اے حسین جان
