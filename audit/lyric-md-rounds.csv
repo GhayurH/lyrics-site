@@ -489,6 +489,9 @@ src/data/lyrics/arbaeen-tera-hogaya.md,round_1,present,nohayonline,nohayonline:1
 src/data/lyrics/arbaeenul-hussain.md,round_1,present,nohayonline,nohayonline:0006e86d7f7f4a1e7aba,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/areeza-e-darvaish.md,round_1,present,nohayonline,nohayonline:50528795ff3eb802c66b,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/arey-o-shaam-walon.md,round_1,present,nohayonline,nohayonline:e6bad84559d2dfd6cf8a,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/arman-riya-arman-riya-kyun-baad-hussain-jahan-riya-mir-hasan-mir-lyric-tajpoints-aa086928d4186e41e56b.md,round_2,consolidated,tajpoints,tajpoints:aa086928d4186e41e56b,round2-kalams-2026-11-14,Merged into src/data/lyrics/arman-riya-arman-riya.md on 2026-11-16
+src/data/lyrics/arman-riya-arman-riya-nw-9e65858434f6.md,round_2,consolidated,nohawriteups,nohawriteups:9e65858434f66d49658c,round2-kalams-2026-11-14,Merged into src/data/lyrics/arman-riya-arman-riya.md on 2026-11-16
+src/data/lyrics/arman-riya-arman-riya.md,round_2,present,tajpoints;nohawriteups,tajpoints:aa086928d4186e41e56b;nohawriteups:9e65858434f66d49658c,round2-kalams-2026-11-14,Merged two source witnesses on 2026-11-16 into 4 stanzas
 src/data/lyrics/as-shaam.md,round_1,present,nohayonline,nohayonline:e82a01687d83d2e848d0,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/as-sham-as-sham.md,round_1,present,nohayonline,nohayonline:edd83efe643bd4ec3bf1,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/asalamalika-ya-syeda.md,round_1,present,nohayonline,nohayonline:19b6ae9db2c14a722d73,feat/import-overlap-reconciliation-2026-11-05,
@@ -2225,6 +2228,9 @@ src/data/lyrics/masnade-gham.md,round_1,present,nohayonline,nohayonline:1757399e
 src/data/lyrics/masoom-lahoo-may.md,round_1,present,nohayonline,nohayonline:aa5bf5a8528cb7bf486f,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/masoom-sakina-pyasi.md,round_1,present,nohayonline,nohayonline:6a4e30b7b917338ea5e1;nohayonline:811d07c99a8c53e5df77,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/masooma-aakhay-veran-nu-aye-pyas-di-had-ki-hondi-aye.md,round_1,present,tajpoint,tajpoint:35d49c29aed5dec1c371,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/matam-bhira-da-kardi-gaye-sham-nw-67a654f5055d.md,round_2,consolidated,nohawriteups,nohawriteups:67a654f5055d5b514e05,round2-kalams-2026-11-14,Merged into src/data/lyrics/matam-bhira-da-kardi-gayee-shaam-zahra-jayee.md on 2026-11-16
+src/data/lyrics/matam-bhira-da-kardi-gayee-shaam-zahra-jayee-nw-fb2235d4e914.md,round_2,consolidated,nohawriteups,nohawriteups:fb2235d4e9148ce0cffe,round2-kalams-2026-11-14,Merged into src/data/lyrics/matam-bhira-da-kardi-gayee-shaam-zahra-jayee.md on 2026-11-16
+src/data/lyrics/matam-bhira-da-kardi-gayee-shaam-zahra-jayee.md,round_2,present,nohawriteups;nohawriteups,nohawriteups:67a654f5055d5b514e05;nohawriteups:fb2235d4e9148ce0cffe,round2-kalams-2026-11-14,Merged two source witnesses on 2026-11-16 into 6 stanzas
 src/data/lyrics/matam-ghame-shabbir.md,round_1,present,nohayonline,nohayonline:404231317ab109f4c3c1,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/matam-haan-sheh-ka.md,round_1,present,nohayonline,nohayonline:590f4f4380e740bd3af8,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/matam-hai-fazaon.md,round_1,present,nohayonline,nohayonline:36a09bf3159d8dba54ff,feat/import-overlap-reconciliation-2026-11-05,
