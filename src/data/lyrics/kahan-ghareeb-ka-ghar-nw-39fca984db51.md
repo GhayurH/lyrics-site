@@ -12,7 +12,10 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/39fca984db514430683f.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/39fca984db514430683f.json
 # api_content_sha256: ce22b6d91373cad3f43445bb6424d9b019e19b823680f11af58f03e1350031df
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Two lyric editions merged, retaining the longer source's unique passages. Further stanza formatting and spelling review required.
+# source_id: tajpoints:d97db90887bf38b4c8a6
+# source_url: https://tajpoints.com/2017/11/kahan-ghareeb-ka-ghar-our-kahan-hussain.html
+# raw_sha256: 1af42303c92032700c702531bf75371e8a3f093eb9fd667409ee8df533538354
 ---
 
 FATEMA ZEHRA (SAWS)….4

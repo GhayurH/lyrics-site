@@ -4,6 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,7 +13,10 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/fd44e66c7eb8fbe48994.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/fd44e66c7eb8fbe48994.json
 # api_content_sha256: 9364c8610a315e4d109d8e27f6fe816d09d4f4d58850f6e3750d3d5d98710c3b
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Two lyric editions merged, retaining the longer source's unique passages. Further stanza formatting and spelling review required.
+# source_id: tajpoints:fc993d27c7e4ecc5fa3b
+# source_url: https://tajpoints.com/2018/05/shah-e-konain-da-janaza-jadoon-galiyaan.html
+# raw_sha256: db02b5d83253746e6dd84d14c80ae043c98f127a059d519e722c6ab07a6c4f03
 ---
 
 Shah-e-Konain Da Janaza, Jado Galiyan Ch Aaya, Haye Mayyat Nay Vain Paye.

@@ -8,7 +8,7 @@ poet: Akbar
 tags: []
 aliases: []
 published: false
-alternateTitle: Hussain Kal Bhi Tha Mazloom Our Aaj Bhi Hai Lyrics 2010
+alternateTitle: Hussain Kal Bhi Tha Mazloom Aur Aaj Bhi Hai
 romanLyrics: 'Hussain kal bhi tha mazloom aur aaj bhi hai
 
 
@@ -78,6 +78,12 @@ romanLyrics: 'Hussain kal bhi tha mazloom aur aaj bhi hai
 # source_id: nohayonline:6a604a41fd825c137c7b
 # source_url: https://www.nohayonline.com/details_content.php?id=474
 # raw_sha256: 67ff17719e194e36014eb62c540e42648c55118c8279048f830f31766f6a2e95
+# editorial_note: NohaWriteups Roman source reconciled into existing TajPoints and NohaYOnline bilingual canonical; no unique substantive stanzas identified.
+# source_id: nohawriteups:f8f86d13fe4b2f6e553f
+# source_url: https://www.nohawriteups.org/hussain-kal-bhi-tha/
+# original_html: snapshots/nohawriteups/original_html/f8f86d13fe4b2f6e553f.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/f8f86d13fe4b2f6e553f.json
+# api_content_sha256: fceeeb17172e3df5209388cb61c871385c5a6d056bb264745d30e217c02e8d12
 ---
 
 حسین کل بھی تھا مظلوم اور آج بھی ہے
