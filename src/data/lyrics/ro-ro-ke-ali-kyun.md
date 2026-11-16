@@ -63,6 +63,9 @@ romanLyrics: |-
 # source_id: ziyaraat:cbb430df826b34ed6830
 # source_url: https://www.ziyaraat.net/api/noha/2700
 # raw_sha256: ca1063c4d756eac991e716790df10d36338f3a205e28b5ca1b0f4c72db917d27
+# source_id: tajpoints:d8376f5bf311732ac5a3
+# source_url: https://tajpoints.com/2018/06/ro-ro-ke-ali-kyun-letay-hain-zainab-ka.html
+# raw_sha256: 52d75043082ee900108907c907a96ff5ca20b2bc49308fdbebc987abf881281a
 ---
 رَو رَو کے علیؑ، کیوں لیتے ہیں
 زینبؑ کا نام مصلّے پر

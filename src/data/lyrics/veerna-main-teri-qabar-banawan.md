@@ -42,6 +42,9 @@ romanLyrics: |-
 # original_html: snapshots/nohawriteups/original_html/4244194f07589bad7dc3.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/4244194f07589bad7dc3.json
 # api_content_sha256: 46bd42f96ef5f9fea17cd0b4da3ad7057d68d72f55ea95edade1f8aca49d24d6
+# source_id: tajpoints:e3426aecdb6e8212e0c7
+# source_url: https://tajpoints.com/2017/09/veerna-main-teri-qabar-banawaan-ya-sham.html
+# raw_sha256: cde3a48a217b3ecf3e1920853d4a9e38333552ee321e4a704a64cbcc1503b30b
 ---
 
 ویرنا مَیں تیری قبر بناواں یا شام نوں جاواں

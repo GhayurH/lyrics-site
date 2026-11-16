@@ -2563,6 +2563,7 @@ src/data/lyrics/pyare-nabi-ki-pyari-nawasi-ali-shanawar-and-ali-jee-lyrics-2007-
 src/data/lyrics/pyare-nabi-ki-pyari.md,round_1,present,nohayonline;ziyaraat,nohayonline:804749a18e6bc8b8b26c;ziyaraat:a258bad71e212a2366a4,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/pyasa-raha-jaane.md,round_1,present,nohayonline,nohayonline:3fc5310947a1276dcd1f,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/pyase-ko-maa.md,round_1,present,nohayonline,nohayonline:fe95bb2db5177a88f92a,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/pyase-pe-ajab-waqt-qayamat-ka-para-hai-nadeem-sarwar-lyrics-1995-tajpoints-da52476ffb1007c0a86e.md,round_2,consolidated,tajpoints,tajpoints:da52476ffb1007c0a86e,round2-kalams-2026-11-14,Source verses included in bilingual src/data/lyrics/pyase-pe-ajab-waqt.md; retired on 2026-11-16
 src/data/lyrics/pyase-pe-ajab-waqt.md,round_1,present,nohayonline;ziyaraat,nohayonline:82dc9a8460074073ac48;ziyaraat:8ecba176755799c4a305,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/pyasi-hai-sakina.md,round_1,present,nohayonline;ziyaraat,nohayonline:c9dc830a3544bc137a4d;ziyaraat:689e068cc8714bf0ded6,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/pyasi-mazloom.md,round_1,present,nohayonline,nohayonline:786896d1d01478cfd285,feat/import-overlap-reconciliation-2026-11-05,
@@ -2679,6 +2680,7 @@ src/data/lyrics/ro-ke-kehti-thi.md,round_1,present,nohayonline,nohayonline:7e603
 src/data/lyrics/ro-raha-hai-khud.md,round_1,present,nohayonline,nohayonline:6e8a2b08780982b165ad,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ro-rahe-hai-imam.md,round_1,present,nohayonline,nohayonline:29cf312206c1663827be,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ro-rahi-hai-aaj.md,round_1,present,nohayonline;ziyaraat,nohayonline:06df598f40805cf731ec;ziyaraat:517c9dc92fa8aeaaeafe,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/ro-ro-ke-ali-kyun-letay-hain-zainab-ka-lyrics-2018-tajpoints-d8376f5bf311732ac5a3.md,round_2,consolidated,tajpoints,tajpoints:d8376f5bf311732ac5a3,round2-kalams-2026-11-14,Source verses included in bilingual src/data/lyrics/ro-ro-ke-ali-kyun.md; retired on 2026-11-16
 src/data/lyrics/ro-ro-ke-ali-kyun.md,round_1,present,nohayonline;ziyaraat,nohayonline:29532f9ee77f8e9fa4d8;ziyaraat:cbb430df826b34ed6830,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ro-ro-ke-bayan.md,round_1,present,nohayonline,nohayonline:5b06700dbf5184e00527,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ro-ro-ke-ye-zainab.md,round_1,present,nohayonline,nohayonline:5686c89142413b5adab0,feat/import-overlap-reconciliation-2026-11-05,
@@ -2698,6 +2700,7 @@ src/data/lyrics/rone-ko-jaye-bano.md,round_1,present,nohayonline,nohayonline:812
 src/data/lyrics/roohi-wa-jismi.md,round_1,present,nohayonline;ziyaraat,nohayonline:e23f66094cd60272dc5f;ziyaraat:276e29221a484b7acec6,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/roohon-mein-bas.md,round_1,present,nohayonline,nohayonline:61e8ac699b37c9ecb462,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/roti-hai-ab-bhi.md,round_1,present,nohayonline,nohayonline:cb94fabb0033e973b039,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/roti-hai-ali-zaadi-baba-ke-janazay-par-lyrics-in-urud-2019-tajpoints-42f66633fc774f511da2.md,round_2,consolidated,tajpoints,tajpoints:42f66633fc774f511da2,round2-kalams-2026-11-14,Source verses included in bilingual src/data/lyrics/roti-hai-ali-zaadi.md; retired on 2026-11-16
 src/data/lyrics/roti-hai-ali-zaadi.md,round_1,present,nohayonline,nohayonline:8af64a87e64ee685da99,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/roti-hai-karbala.md,round_1,present,nohayonline,nohayonline:70f79eedb91dbfbc4217,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/roti-rahi-maa-raat.md,round_1,present,nohayonline,nohayonline:9b260340e5b9ab54790d,feat/import-overlap-reconciliation-2026-11-05,
@@ -3164,6 +3167,7 @@ src/data/lyrics/uthta-nahi-hai.md,round_1,present,nohayonline,nohayonline:b398b0
 src/data/lyrics/veeran-gharon-mein.md,round_1,present,nohayonline,nohayonline:193027f13e17f6b0afe7,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/veeran-haveli-may.md,round_1,present,nohayonline,nohayonline:d53cfca53d59b29f9064,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/veeran-hui-dunya.md,round_1,present,nohayonline,nohayonline:592dec71304ad985df9e,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/veerna-main-teri-qabar-banawaan-ya-sham-nu-jawaan-lyrics-2016-tajpoints-e3426aecdb6e8212e0c7.md,round_2,consolidated,tajpoints,tajpoints:e3426aecdb6e8212e0c7,round2-kalams-2026-11-14,Source verses included in bilingual src/data/lyrics/veerna-main-teri-qabar-banawan.md; retired on 2026-11-16
 src/data/lyrics/veerna-main-teri-qabar-banawan.md,original,present,,,main,
 src/data/lyrics/veerna-main-teri-qabr-banawan-ya-shaam-nu-jaawan.md,round_1,present,ziyaraat,ziyaraat:7b8f6dcf2a2173337bdd,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/wa-hassan-sabz-qaba.md,round_1,present,nohayonline,nohayonline:7494766c847d882b0e29,feat/import-overlap-reconciliation-2026-11-05,
