@@ -4,6 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+reciter: "Mesum Abbas"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,7 +13,10 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/af7788390b0b6f1f81fc.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/af7788390b0b6f1f81fc.json
 # api_content_sha256: 7a86441fedaada446894737fc14d3b0211cbf3f60f62d633d997de366b13b5bf
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Two matching source witnesses consolidated; the longer or bilingual edition was retained. Unpublished pending editorial stanza and transliteration review.
+# source_id: tajpoints:0d1f2f3d091705a9d118
+# source_url: https://tajpoints.com/2023/04/qatl-hue-sher-e-khuda-mesum-abbas.html
+# raw_sha256: 0a8cb93029b5d5260cda25edcae3edbb9ef1d5a487cc076eaf06729403505d96
 ---
 
 Ali Ali Ali Ali
@@ -325,8 +329,3 @@ Ya Ali Mola Haider Mola
 
 Ya Ali Mola Haider Mola
 
-“Karte Thy Jibreal Yeh Noha Qatil Hue Sher e Khuda”
-
-Topic: Shahadat Imam Ali – New Noha by Mesum Abbas 2023 – 21 Ramzan
-
-Ramazan 2023 | 21 Ramzan New Noha 2023 video by Mesum Abbas reciting QATL HUE SHER E KHUDA (Official Video) © 2022 Mesum Abbas

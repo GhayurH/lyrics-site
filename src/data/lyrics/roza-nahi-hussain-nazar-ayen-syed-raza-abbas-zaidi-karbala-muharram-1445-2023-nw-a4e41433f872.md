@@ -53,6 +53,9 @@ romanLyrics: |-
 # source_metadata_path: snapshots/nohawriteups/metadata/a4e41433f872f7db9ae8.json
 # api_content_sha256: ac49628e38fdb05cf5350d8224e314fe016d4b592caba700671d320a8a5a3888
 # editorial_note: Unpublished source-faithful draft from approved valid roman+urdu; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# source_id: tajpoints:a74c89fa9477df1c0a8d
+# source_url: https://tajpoints.com/2023/07/roza-nahi-hussain-nazar-ayen-syed-raza.html
+# raw_sha256: a9984db0b4bfaa009ca2d36410e5b48987b95a1bb4690df53baba47c386f2fe1
 ---
 
 اے کاش اب کی بار میں جب جاؤں کربلا

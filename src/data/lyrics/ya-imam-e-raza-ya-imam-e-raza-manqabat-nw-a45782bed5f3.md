@@ -3,7 +3,7 @@ title: "Ya Imam e Raza Manqabat"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
-kalamType: "Noha"
+kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,7 +12,10 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/a45782bed5f3df31864f.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/a45782bed5f3df31864f.json
 # api_content_sha256: 01ff48e09d39548027df3c23a891ae52678e9287e9642d5b7e7f8c54c8be0f8c
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Two matching source witnesses consolidated; the longer or bilingual edition was retained. Unpublished pending editorial stanza and transliteration review.
+# source_id: tajpoints:cb82c1a4f267e5433e2f
+# source_url: https://tajpoints.com/2020/12/ya-imam-e-raza-lyrics-in-urdu-and-roman.html
+# raw_sha256: d679b054c322cedd42ac0255ac5642f0bc762b7223837e01d17ce5bc27c3d000
 ---
 
 Ya Imam e Raza….x4
