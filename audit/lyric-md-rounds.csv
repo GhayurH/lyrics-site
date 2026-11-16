@@ -1160,6 +1160,9 @@ src/data/lyrics/fikre-iqbal.md,round_1,present,nohayonline,nohayonline:8c726aa22
 src/data/lyrics/fizza-na-ye-batana.md,round_1,present,nohayonline,nohayonline:02b5d5c8f4ab87ef89e2,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/furaat-ka-pani.md,round_1,present,nohayonline,nohayonline:54377ec6466af26a0e7e,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/gala-bandha-hai.md,round_1,present,nohayonline,nohayonline:6f66867c754a6157a3f6,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/gar-ali-nahi-aate-zindagi-nahi-aati-1-6-tajpoints-023e243fdac9982f391c.md,round_2,consolidated,tajpoints,tajpoints:023e243fdac9982f391c,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/gar-ali-nahi-aate-zindagi-nahi-aati.md on 2026-11-16
+src/data/lyrics/gar-ali-nahi-aate-zindagi-nahi-aati-7-9-tajpoints-a30a2757534d0d7a0bc1.md,round_2,consolidated,tajpoints,tajpoints:a30a2757534d0d7a0bc1,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/gar-ali-nahi-aate-zindagi-nahi-aati.md on 2026-11-16
+src/data/lyrics/gar-ali-nahi-aate-zindagi-nahi-aati.md,round_2,present,tajpoints,tajpoints:023e243fdac9982f391c;tajpoints:a30a2757534d0d7a0bc1,round2-kalams-2026-11-14,Joined both source parts into nine stanzas on 2026-11-16
 src/data/lyrics/gar-haq-ki-justuju.md,round_1,present,nohayonline,nohayonline:3bd559ec5f1de5e3c63a,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/gar-tujh-ko-hai-yaqeen-e-ejabat-dua-na-maang.md,round_1,present,tajpoints,tajpoints:fb854ca85f3eda2a1ef0,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/gardan-pe-teer.md,round_1,present,nohayonline,nohayonline:76e2af2b3896984a9d4e,feat/import-overlap-reconciliation-2026-11-05,
@@ -2121,6 +2124,9 @@ src/data/lyrics/maidane-karbala-mein.md,round_1,present,nohayonline;ziyaraat,noh
 src/data/lyrics/main-azmaton-ka-sawera-hun-naam-qasim-hai.md,original,present,,,main,
 src/data/lyrics/main-hoon-abbas-e-ali.md,round_1,present,tajpoints,tajpoints:27f96277acde3775dfb5,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/main-iss-tarha-se-hoon-ya-rab-teri-sana-ke-beghair.md,round_1,present,tajpoints,tajpoints:8744ce361584278e2667,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/main-khak-e-karbala-hoon-shifa-bantti-hoon-main.md,round_2,present,tajpoints,tajpoints:f192b35f5d909b0ee0aa;tajpoints:66a9fd20e31425547afc,round2-kalams-2026-11-14,Joined both source parts into eight stanzas on 2026-11-16
+src/data/lyrics/main-khak-e-shifa-hoon-1-4-tajpoints-f192b35f5d909b0ee0aa.md,round_2,consolidated,tajpoints,tajpoints:f192b35f5d909b0ee0aa,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/main-khak-e-karbala-hoon-shifa-bantti-hoon-main.md on 2026-11-16
+src/data/lyrics/main-khak-e-shifa-hoon-5-8-tajpoints-66a9fd20e31425547afc.md,round_2,consolidated,tajpoints,tajpoints:66a9fd20e31425547afc,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/main-khak-e-karbala-hoon-shifa-bantti-hoon-main.md on 2026-11-16
 src/data/lyrics/main-kya-bataon-dosto-tumhein-ke-kya-husain-hai.md,round_1,present,tajpoints,tajpoints:34a5841924b579fc6175,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/main-muhammad-hoon.md,round_1,present,tajpoints,tajpoints:b33a161afbb5b6c11e3a,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/main-panjtani-panjtani-panjtani-hoon.md,round_1,present,tajpoints,tajpoints:84b42bfde0bc57a6ad51,feat/import-overlap-reconciliation-2026-11-05,
