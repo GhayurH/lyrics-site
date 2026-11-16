@@ -1,10 +1,12 @@
 ---
-title: "Acha Hua Sughra Mir Hasan Mir"
+title: "Acha Hua Sughra Tu Mere Saath Nahi Thi"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
-kalamType: "Other"
-tags: []
+kalamType: "Noha"
+poet: "Mir Takallum"
+reciter: "Mir Hasan Mir"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:81a65d3678873d3e3027
