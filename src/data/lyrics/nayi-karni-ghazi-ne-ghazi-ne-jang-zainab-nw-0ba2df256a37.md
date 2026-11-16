@@ -4,6 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,7 +13,10 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/0ba2df256a37ac052208.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/0ba2df256a37ac052208.json
 # api_content_sha256: f2fed912b0c1a93f4b765b31a121765d241b02b7a9b8b9882e0d12d1f9d640d2
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Two matching sources consolidated; this Roman-only draft remains unpublished pending stanza and transliteration review.
+# source_id: tajpoints:914a15e7c2efe45f6c08
+# source_url: https://tajpoints.com/2019/05/nayi-karni-ghazi-ne-ghazi-ne-jang.html
+# raw_sha256: 6e958469f0fd318befdb5578161c23a100377a0babd7d81ab912751b0d51ec49
 ---
 
 Nayi Karni Ghazi Ne Ghazi Ne Jang Zainab, Nayi Karni Ghazi Ne
