@@ -2446,6 +2446,9 @@ src/data/lyrics/na-pooch-karbobala.md,round_1,present,nohayonline,nohayonline:38
 src/data/lyrics/na-poocho-dushmane.md,round_1,present,nohayonline,nohayonline:6d5e69c38402cd03f32a,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/na-rakh-ab-chadar-nadeem-sarwar-tajpoints-816cb171cf0abf1ea3ef.md,round_2,consolidated,tajpoints,tajpoints:816cb171cf0abf1ea3ef,round2-kalams-2026-11-14,Verse overlap verified against src/data/lyrics/na-rakh-ab-chadar.md; redundant source consolidated on 2026-11-16
 src/data/lyrics/na-rakh-ab-chadar.md,round_1,present,nohayonline;ziyaraat,nohayonline:6ea31efacc0b992f5254;ziyaraat:df04f8a7ca4a68d6700c,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/na-ro-aun-di-ambree-tur-ja-aj-nw-ed603d6b9859.md,round_2,consolidated,nohawriteups,nohawriteups:ed603d6b9859ea1c4805,round2-kalams-2026-11-14,Merged both Punjabi witnesses into src/data/lyrics/na-ro-aun-di-amri-tur-ja-aj.md on 2026-11-16
+src/data/lyrics/na-ro-aun-di-amri-tur-ja-aj-shaam-nu-baaj-ridda-dai-nw-5ecde88b0ee6.md,round_2,consolidated,nohawriteups,nohawriteups:5ecde88b0ee645286392,round2-kalams-2026-11-14,Merged both Punjabi witnesses into src/data/lyrics/na-ro-aun-di-amri-tur-ja-aj.md on 2026-11-16
+src/data/lyrics/na-ro-aun-di-amri-tur-ja-aj.md,round_2,present,nohawriteups,nohawriteups:ed603d6b9859ea1c4805;nohawriteups:5ecde88b0ee645286392,round2-kalams-2026-11-14,Joined two Roman versions in 5 stanzas on 2026-11-16
 src/data/lyrics/na-ro-ay-phupi.md,round_1,present,nohayonline,nohayonline:1522cd1008614d422c9d,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/na-ro-zainab.md,round_1,present,nohayonline,nohayonline:883f5aa3ff03a4e42831,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/na-royi-zainab.md,round_1,present,nohayonline;ziyaraat,nohayonline:6712c3659ab77779b673;ziyaraat:98296a17eed4e9a878be,feat/import-overlap-reconciliation-2026-11-05,
@@ -2625,6 +2628,9 @@ src/data/lyrics/qasim-qasim-ka.md,round_1,present,nohayonline,nohayonline:6a0bd0
 src/data/lyrics/qasim-tera-matam.md,round_1,present,nohayonline,nohayonline:bf6fb9173efe13d77683,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/qataluna-atashana.md,round_1,present,nohayonline,nohayonline:690139adfac0ee911971,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/qateele-taygh-o-sina.md,round_1,present,nohayonline,nohayonline:7658314ec7a1999c9bf3,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/qatil-nu-ali-nay-shabbir-da-sadqa-nw-dd4627578581.md,round_2,consolidated,nohawriteups,nohawriteups:dd4627578581e6ddf656,round2-kalams-2026-11-14,Merged both Punjabi witnesses into src/data/lyrics/qatil-nu-ali-nay-shabbir-da-sadqa.md on 2026-11-16
+src/data/lyrics/qatil-nu-ali-nay-shabbir-da-sadqa-paani-si-pilaya-nw-55a17b0ac964.md,round_2,consolidated,nohawriteups,nohawriteups:55a17b0ac9642355c914,round2-kalams-2026-11-14,Merged both Punjabi witnesses into src/data/lyrics/qatil-nu-ali-nay-shabbir-da-sadqa.md on 2026-11-16
+src/data/lyrics/qatil-nu-ali-nay-shabbir-da-sadqa.md,round_2,present,nohawriteups,nohawriteups:dd4627578581e6ddf656;nohawriteups:55a17b0ac9642355c914,round2-kalams-2026-11-14,Joined two Roman versions in 4 stanzas on 2026-11-16
 src/data/lyrics/qatil-taqi-ke-khoon.md,round_1,present,nohayonline,nohayonline:34346502a38eeb2f1b1f,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/qatl-alamdar-hogaya.md,round_1,present,nohayonline,nohayonline:b59e1c70c06102bfdd3d,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/qatl-bhai-ho-raha.md,round_1,present,nohayonline,nohayonline:09bf9b5c757d198c78f5,feat/import-overlap-reconciliation-2026-11-05,
