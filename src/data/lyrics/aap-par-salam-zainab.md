@@ -75,6 +75,7 @@ romanLyrics: |-
 # raw_sha256: 5832e011509a725e02f5b8341ae0965c39d4591755f88fd2386e1b60f5b032a8
 # parallel_source_id: tajpoints:2ae4e3d303ece5770623
 # parallel_source_url: https://tajpoints.com/2021/08/aap-par-salam-zainab-mesum-abbas-lyrics.html
+# parallel_raw_sha256: a3840fb8902f436bb47b9d2128f6478b2540d5aaaac6be9ef9332ec30e70069f
 ---
 مرحبا شریکۃ الحسین
 آپ پر سلام زینب
