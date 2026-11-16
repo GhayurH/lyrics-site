@@ -1,0 +1,109 @@
+---
+title: "ہاے اصغر میرے اصغر"
+alternateTitle: "Ay Mere Bezaban"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Mir Takallum"
+tags: []
+aliases: []
+published: false
+romanLyrics: |-
+  1
+  Haye asghar mere asghar
+  Ay raaj dulare asghar
+  Maa tujhko pukare asghar
+  Meri aankh ke taare asghar
+  Aaja mere pyare asghar
+  Ay mere bezaban tum reh gaye kahan
+  Asghar jiyegi kaise tere baghair maa
+  Chehra wo chand jaisa kaise bhulaye maa
+  Asghar jiyegi kaise tere baghair maa
+  Kya waqt aagaya hai bano ki bekasi par
+  Ghurbat pe teri matam kaise karegi ki maadar
+  Aada ne bandh di hai haathon mein rassiyan
+  Asghar jiyegi kaise...
+  Himmat pe maa tumhari qurban kyun na jaaye
+  Sunti hoo teer khaakar tum ran mein muskuraye
+  Maadar ki laaj rakh li shabaash meri jaan
+  Asghar jiyegi kaise...
+  Maadar ki hai wasiyat beta khayaal rakhna
+  Godhi mein inki asghar jaane ki zid na karna
+  Pehle hi hai shikasta dadi ki phasliyan
+  Asghar jiyegi kaise...
+  Kya zer e khaak ab bhi soye ho moo chupaye
+  Maa saari bibiyon se sharminda ho na jaaye
+  Har ek shaheed ka hai sar bar sare sina
+  Asghar jiyegi kaise...
+  Dushwaar hogaya hai gham mein tumhare jeena
+  Ab khaali godh jaa kar maa kya kare madina
+  Mujhko wahin bulalo ay laal ho jahan
+  Asghar jiyegi kaise...
+  Saansein to chal rahi hai zinda kahan rahi hai
+  Maa zindagi se apni azaadi chaahti hai
+  Mushkil kusha ho tum bhi khulwado bediyan
+  Asghar jiyegi kaise...
+  Jangal mein ek beta awaaz goonjti hai
+  Ye soch kar bhi maadar maqtal mein ro rahi hai
+  Lagta hai dard se tum lete ho siskiyan
+  Asghar jiyegi kaise...
+  Ye ujdi godh beta kaise sukoon paaye
+  Haalat pe teri maa ki haste hai shaam waale
+  Daaman mein hai tumhare jhoole ki lakdiyan
+  Asghar jiyegi kaise...
+  Rote thay sab takallum ek maa ne jab kaha tha
+  Paigham karbala mein jaa kar hawa ye dena
+  Zindan ke dar pe ab bhi baithi hai ek maa
+  Asghar jiyegi kaise...
+# source_id: nohayonline:f2dc205ffeada1cdf1b7
+# source_url: https://www.nohayonline.com/details_content.php?id=1072
+# raw_sha256: d5f6fb4f40bff5e6bf83365ff737d5e0fc268cf551de4e4be83df5e8e7f38394
+---
+
+۱
+ہاے اصغر میرے اصغر
+اے راج دلارے اصغر
+ماں تجھکو پکارے اصغر
+میری آنکھ کے تارے اصغر
+آجا میرے پیارے اصغر
+اے میرے بے زبان تم رہ گئے کہاں
+اصغر جیےءگی کیسے تیرے بغیر ماں
+چہرہ وہ چاند جیسا کیسے بھلاے ماں
+اصغر جیےءگی کیسے تیرے بغیر ماں
+کیا وقت آگیا ہے بانو کی بے کسی پر
+غربت پہ تیری ماتم کیسے کرے گی کی مادر
+اعدا نے باندھ دی ہے ہاتھوں میں رسیاں
+اصغر جیےءگی کیسے۔۔۔
+ہمت پہ ماں تمہاری قربان کیوں نہ جاے
+سنتی ہوں تیر کھاکر تم رن میں مسکراے
+مادر کی لاج رکھ لی شاہباش میری جان
+اصغر جیےءگی کیسے۔۔۔
+مادر کی ہے وصیتبیٹا خیال رکھنا
+گودی میں انکی اصغر جانے کی ضد نہ کرنا
+پہلے ہی ہے شکستہ دادی کی پسلیاں
+اصغر جیےءگی کیسے۔۔۔
+کیا زیرِ خاک اب بھی سوے ہو منہ چھپائے
+ماں ساری بی بیوں سے شرمندہ ہو نہ جاے
+ہر ایک شہید کا ہے سر بر سرِ سناں
+اصغر جیےءگی کیسے۔۔۔
+دشوار ہوگیا ہے غم میں تمہارے جینا
+اب خالی گود جا کر ماں کیا کرے مدینہ
+مجھکو وہی بلالو اے لال ہو جہاں
+اصغر جیےءگی کیسے۔۔۔
+سانسیں تو چل رہی ہے زندہ کہاں رہی ہے
+ماں زندگی سے اپنی آزادی چاہتی ہے
+مشکل کشا ہو تم بھی کھلوادو بیڑیاں
+اصغر جیےءگی کیسے۔۔۔
+جنگل میں ایک بیٹا آواز گونجتی ہے
+یہ سونچ کر بھی مادر مقتل میں رو رہی ہے
+لگتا ہے درد سے تم لیتے ہو سسکیاں
+اصغر جیےءگی کیسے۔۔۔
+یہ اجڑی گود بیٹا کیسے سکون پاے
+حالت پہ تیری ماں کی ہنستے ہیں شام والے
+دامن میں ہیں تمہارے جھولے کی لکڑیاں
+اصغر جیےءگی کیسے۔۔۔
+روتے تھے سب تکلم اک ماں نے جب کہا تھا
+پیغام کربلا میں جا کر ہوا یہ دینا
+زنداں کے پہ اب بھی بیٹھی ہے ایک ماں
+اصغر جیےءگی کیسے۔۔۔

@@ -1,0 +1,121 @@
+---
+title: "زندان کی تاریکیوں میں"
+alternateTitle: "Mai Panjo Pe Chalti"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Mazhar Abidi"
+tags: []
+aliases: []
+published: false
+romanLyrics: |-
+  1
+  Zindan ki tareekiyon mein
+  Apne seene se lagaye huwe
+  Shabbir ka sar sakina kehti thi
+  Baba baba suno mera safar
+  Aray sab ke thay shaane bandhe
+  Mera bandha tha ghala
+  Mai panjon pe chalti rahi baba
+  Aap se kaise kahun kaise kata wo safar
+  Aale payambar chali rote huwe nange sar
+  Aap chale naize par kaanton pe bhai chala
+  Mai panjon pe chalti...
+  Mere phupi raah mein ashk bahati rahi
+  Zulm rulaate rahe dhoop jalati rahi
+  Zakhm mere paon ka dhoop se jalta raha
+  Mai panjon pe chalti...
+  Maazi ke kuch waqeye yaad jo aaye mujhe
+  Seene pe kaise muje aap sulaate rahe
+  Yaadon mein yun khogayi bhool gayi har jafa
+  Mai panjon pe chalti...
+  Sabr ka daaman mere haath se choota nahi
+  Naize se kya aap ne baba ye dekha nahi
+  Khichti rahi reesma chalta raha khafila
+  Mai panjon pe chalti...
+  Aankh barasne lagi qalb hua nauha ghar
+  Aaya nazar jab mujhe naize pe asghar ka sar
+  Roti rahi mai usay wo mujhe rota raha
+  Mai panjon pe chalti...
+  Tum ko kafan dediya rayt ke toofan ne
+  Baalon se parda kiya meri phuphi jaan ne
+  Aur mere dard ka koi madawa na tha
+  Mai panjon pe chalti...
+  Raah mein ammu ko jab dekha to maine kaha
+  Khol do meri rasan godh mein lelo chacha
+  Dekh ke rote rahe meri aseeri chacha
+  Mai panjon pe chalti...
+  Chain mayassar mujhe aa na saka ek pal
+  Zakhmi gala hogaya aur mere paon shal
+  Raat safar mein kati din bhi safar mein kata
+  Mai panjon pe chalti...
+  Baba madine ke wo din bhi mujhe yaad hai
+  Sabz amaari mein jab bait ke jaati thi mai
+  Aaj zara dekhiye kaise safar tay kiya
+  Mai panjon pe chalti...
+  Ek rasan mein bandhe chote badon ke galay
+  Laashon pe rote huwe karbobala se chale
+  Haal mera dekh ke rone lagi karbala
+  Mai panjon pe chalti...
+  Mazhar o irfan tum nauha padho is tarha
+  Shaam ke zindan mein bibi meri jis tarha
+  Dekh ke baba ka sar karti thi aaho buka
+  Mai panjon pe chalti...
+# source_id: nohayonline:1234e707b9c7e1221621
+# source_url: https://www.nohayonline.com/details_content.php?id=3590
+# raw_sha256: 6601fc5ff9b252a2aa3aaa3c04520c9796371c37eda97b5fb787c973c61d40bd
+---
+
+۱
+زندان کی تاریکیوں میں
+اپنے سینے سے لگائے ہوئے
+شبیر کا سر سکینہ کہتی تھی
+بابا بابا سنو میرا سفر
+ارے سب کے تھی شانے بندھے
+میرا بندھا تھا گلا
+میں پنجوں پہ چلتی رہی بابا
+آپ سے کیسے کہوں کیسے کٹا یہ سفر
+آل پیمبر چلی روتے ہوئے ننگے سر
+آپ چلے نیزے پر کانٹوں پہ بھای چلا
+میں پنجوں پہ چلتی۔۔۔
+میرے پھپھی راہ میں آشک بہاتی رہی
+ظلم رلاتے رہے دھوپ جلاتی رہی
+زخم میرے پاؤں کا دھوپ سے جلتا رہا
+میں پنجوں پہ چلتی۔۔۔
+ماضی کے کچھ واقعہ یاد جو آے مجھے
+سینے پہ کیسے مجھے آپ سلاتے رہے
+یادوں میں یوں کھو گیء بھول گیء ہر جفا
+میں پنجوں پہ چلتی۔۔۔
+صبر کا دامن میرے ہاتھ سے چھوٹا نہیں
+نیزے سے کیا آپ نے بابا یہ دیکھا نہیں
+کھنچتی رہی ریسماں چلتا رہا قافلہ
+میں پنجوں پہ چلتی۔۔۔
+آنکھ برسنے لگی قلب ہوا نوحہ گر
+آیا نظر جب مجھے نیزے پہ اصغر کا سر
+روتی رہی میں اسے وہ جھے روتا رہا
+میں پنجوں پہ چلتی۔۔۔
+تم کو کفن دے دیا ریت کے طوفان نے
+بالوں سے پردہ کیا میری پھپھی جان نے
+اور میرے درد کا کوئی مداوا نہ تھا
+میں پنجوں پہ چلتی۔۔۔
+راہ میں عمو کو جب دیکھا تو میں نے کہا
+کھول دو میری رسن گود میں لے لو چچا
+دیکھ کے روتے رہے میری اسیری چچا
+میں پنجوں پہ چلتی۔۔۔
+چین میسر مجھے آیا نہیں ایک پل
+زخمی گلا ہو گیا اور میرے پاؤں شل
+رات سفر میں کٹی دن بھی سفر میں کٹا
+میں پنجوں پہ چلتی۔۔۔
+بابا مدینے کے وہ دن بھی مجھے یاد ہیں
+سبز عمارتی میں جب بیٹھ کے جاتی تھی میں
+آج زرا دیکھیےء کیسے سفر طےء کیا
+میں پنجوں پہ چلتی۔۔۔
+ایک رسن‌ میں بندھے چھوٹے بڑوں کے گلے
+لاشوں پہ روتے ہوئے کربوبلا سے چلے
+حال میرا دیکھ کے رونے لگی کربلا
+میں پنجوں پہ چلتی۔۔۔
+مظہر و عرفان تم نوحہ پڑھو اس طرح
+شام کے زندان میں بی بی میری جس طرح
+دیکھ کے بابا کا سر کرتی تھی آہ و بکا
+میں پنجوں پہ چلتی۔۔۔

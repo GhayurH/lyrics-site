@@ -1,0 +1,35 @@
+---
+title: "Duniya Te Tera Na Ali Mola Lyrics In Punjabi 2011"
+language: "Roman Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Manqabat"
+poet: "Akbar"
+tags: []
+aliases: []
+published: false
+# source_id: tajpoints:58b9869cc87633bc0690
+# source_url: https://tajpoints.com/2021/02/duniya-te-tera-na-ali-mola-lyrics-in.html
+# raw_sha256: 6c35e69227823b3b5ccd60ed1573062e78c646711f233db8fa69c8b517fc2b14
+---
+
+Duniya Te Tera Na Ali Mola Lyrics Write Up
+Koi Wali Koi Peer Aakhay Koi Kehway Bhagwan.
+
+1
+Rab Ne Khud Bint-e-Asad Nu Apne Ghar Bulwa Liya.
+Toor Kar Dewar-e-Kaba Kibriya Ne Aye Kehya.
+Ya Ali Aabad Kar De Ghar Mera Veeran.
+Raz-e-Kun Tu Janrda Ayein Tu Ayein Taj-e-Hal Atta.
+
+2
+Waris-e-Takht-e-Saloni Zoor-e-Bazu Mustafa.
+Rehnuma Jibreel Da Tu Waliyaan Da Sultan.
+Malik-e-Qadar-o-Qaza Janat Jahanum Ka Qaseem.
+Be Da Nuqta Zaat Teri Tu Sirat-e-Mustaqeem.
+
+3
+Mazhar-e-Noor-e-Khuda Tu Bolda Quran.
+Hai Risalat Da Ajar Akbar Ali Di Bandagi.
+Har Halali Dil Te Utari Aynj Ali Di Aashiqui.
+Mustafa De Dil Te Jiwein Utriya Quran.

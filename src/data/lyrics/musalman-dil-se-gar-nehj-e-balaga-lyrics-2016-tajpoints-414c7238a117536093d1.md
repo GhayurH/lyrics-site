@@ -1,0 +1,35 @@
+---
+title: "Musalman Dil Se Gar Nehj E Balaga Lyrics 2016"
+language: "Roman Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Manqabat"
+poet: "Akbar"
+tags: []
+aliases: []
+published: false
+# source_id: tajpoints:414c7238a117536093d1
+# source_url: https://tajpoints.com/2018/05/musalman-dil-se-gar-nehj-e-balaga.html
+# raw_sha256: 708b9e8196e1c97ba8ca56d3b4acdeb718eeba77fad63d718ba42b33ebe611ac
+---
+
+Musalman Dil Se Gar Nehj-e-Balaga Dekhte Rehte.
+Ali Ke Khutboon Mein Chehra Khuda Ka Dekhte Rehte.
+
+1
+Muhammad Mustafa Doran-e-Sajda Dekhte Rehte.
+Kab Aaye Pusht Pe Shabir Rasta Dekhte Rehte.
+Na Jane Kya Shab-e-Mairaj Dekha Tha Payamber Ne.
+Keh Aksar Muskura Ke Dar Ka Parda Dekhte Rehte.
+
+2
+Abu Talib Muhammad Ko Muhammad Wajah-e-Haider Ko.
+Youn Ik Dojay Mein Wehdat Ka Jalwa Dekhte Rehte.
+Pakane Rotiyaan Jab Bethtin Fizza Tu Hasrat Se.
+Farishte Aasmaan Se Bait-e-Zahra Dekhte Rehte.
+
+3
+Ali Ke Naam Se Aasaniyaan Kya Kya Moyassar Hain.
+Wagarna Shehar Mein Kis Kis Ka Shajra Dekhte Rehte.
+Musalsal Bandagi Hoti Nabi Ke Door Mein Akbar.
+Jo Hum Hote Tu Bas Mula Ka Chehra Dekhte Rehte.

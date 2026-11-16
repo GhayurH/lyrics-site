@@ -1,0 +1,28 @@
+---
+title: "Mola Ali Ali Mir Hasan Mir"
+language: "Roman Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Manqabat"
+tags: []
+aliases: []
+published: false
+# source_id: tajpoints:b19056809701742bca46
+# source_url: https://tajpoints.com/2022/10/mola-ali-ali-mir-hasan-mir-lyrics-in.html
+# raw_sha256: a29644c1174131d56f2c9742cfbf8eba9dccf2a568677914ebcd3b8b1d20cfd8
+---
+
+Deen Ka Data Jaggat Ka Malik Sab Ka Palan Haar.
+Tere Siwa Woh Kaun Hai Jis Ke Dar Pe Tara Utra Hai.
+
+1
+Dharti Se Aakash Talak Bas Tera Sikka Chalta Hai.
+Mere Maula Soraj Tere Hukam Se Nikla Ik Din Mein Do Bar.
+Tere Charan Ki Dhool Ke Aagay Kya Chandi Kya Sona Hai.
+Dharti Chand Sitarey Sab Kuch Tere Husan Ka Sadqa Hai.
+
+2
+Tera Paseena Tere Mathay Ka Hai Paseena Nabi Wali Otar.
+Meesum Salmaan Our Abuzar Sab Hum Ko Pohchane Hain.
+Teri Ghali Ke Mangtay Hain Hum Qanbar Hum Ko Jane Hain.
+Bhaij De Maula Bhaij De Ab Hasnain Ka Sadqa Karday Bera Paar.

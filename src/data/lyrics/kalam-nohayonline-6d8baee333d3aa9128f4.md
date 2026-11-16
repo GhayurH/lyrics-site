@@ -1,0 +1,77 @@
+---
+title: "دہم کو کربوبلا میں بپا ہوا محشر"
+alternateTitle: "Zakhmo Se Badan Choor"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Mohib Fazli"
+tags: []
+aliases: []
+published: false
+romanLyrics: |-
+  1
+  Dahum ko karbobala may bapa hua mehshar
+  Shaheed hogaye yan saare shaahe jinn o bashar
+  Bureeda laasha e abbas hai tarayi par
+  Akela reh gaya maqtal may sibte payghambar
+  Yazeedi fauj ka nargha hai aur ghurbat hai
+  Husssain ran may akele hai kya qayamat hai
+  Zakhmon se badan choor hai tanha hi khada hai
+  Shabbir pe ghurbat may ajab waqt pada hai
+  Narghe may layeeno ke nawasa hai nabi ka
+  Kya ajre risalat ka payambar ko mila hai
+  Zakhmon se badan...
+  Pani ke ewaz teeron ki barsat hui hai
+  Ab chaak gareban payambar ne kiya hai
+  Zakhmon se badan...
+  Shabbir ki nusrat ke liye koi nahi hai
+  Kaisa ye sitam aale payambar pe hua hai
+  Zakhmon se badan...
+  Islam ke seene may utar jaati wo barchi
+  Akbar ne kaleje pe jise rok liya hai
+  Zakhmon se badan...
+  Shabbir ki dhaaras hai ye hamshakle payambar
+  Tapte huwe sehra may jo dam tod raha hai
+  Zakhmon se badan...
+  Maqtal se alam laaye hai shabbir akele
+  Zainab ko yaqeen shaam may jaane ka hua hai
+  Zakhmon se badan...
+  Shabbir ka matam hai muhib ruk nahi sakta
+  Zainab k aye armaan hai zehra ki dua hai
+  Zakhmon se badan...
+# source_id: nohayonline:6d8baee333d3aa9128f4
+# source_url: https://www.nohayonline.com/details_content.php?id=1114
+# raw_sha256: 9556b8a6f3b08f49df69b18611f6349d40bd411b34edf89a07f7a43e6d3980c8
+---
+
+۱
+دہم کو کربوبلا میں بپا ہوا محشر
+شہید ہوگۓ یاں سارے شہ جن و بشر
+بریدہ لاشہء عباس ہے ترای پر
+اکیلا رہ گیا مقتل میں سبط پیغمبر
+یزیدی فوج کا نرغہ ہے اور غربت ہے
+حسین رن میں اکیلے ہیں کیا قیامت ہے
+زخموں سے بدن چور ہے تنہا ہی کھڑا ہے
+شبیر پہ غربت میں عجب وقت پڑا ہے
+نرغے میں لعینوں کے نواسہ ہے نبی کا
+کیا اجر رسالت کا پیمبر کو ملا ہے
+زخموں سے بدن۔۔۔
+پانی کے عوض تیروں کی برسات ہوی ہے
+اب چاک گریبان پیمبر نے کیا ہے
+زخموں سے بدن۔۔۔
+شبیر کی نصرت کے لئے کوی نہیں ہے
+کیسا یہ ستم آل پیمبر پہ ہوا ہے
+زخموں سے بدن۔۔۔
+اسلام کے سینے میں اتر جاتی وہ برچھی
+اکبر نے کلیجے پہ جسے روک لیا ہے
+زخموں سے بدن۔۔۔
+شبیر کی ڈھارس ہے یہ ہمشکل پیمبر
+تپتے ہوے صحرا میں جو دم توڑ رہا ہے
+زخموں سے بدن۔۔۔
+مقتل سے الم لاے ہیں شبیر اکیلے
+زینب کو یقیں شام میں جانے کا ہوا ہے
+زخموں سے بدن۔۔۔
+شبیر کا ماتم ہے محب رک نہیں سکتا
+زینب کا یہ ارمان ہے زہرا کی دعا ہے
+زخموں سے بدن۔۔۔

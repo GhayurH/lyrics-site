@@ -1,0 +1,97 @@
+---
+title: "کربلا آگےء سادات کربلا آگےء سادات"
+alternateTitle: "Zindan Se Chuth Ke"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Mazhar Abidi"
+tags: []
+aliases: []
+published: false
+romanLyrics: |-
+  1
+  Karbala aagaye sadaat karbala aagaye sadaat
+  Uthiye hussain aap ke zawwar aaye hai
+  Zindan se chuth ke abid e bemaar aaye hai
+  Bhoole nahi hai shaam aur kufe ke raaste
+  Tarse huwe hai maula ye matam ke waaste
+  Sab kuch luta ke aap ke ghamkhaar aaye hai
+  Zindan se chuth ke...
+  Zainab ne chalte naaqe se khud ko gira diya
+  Phir koniyo se chal ke gayi bhai se kaha
+  Hum log hoke koocha o bazaar aaye hai
+  Zindan se chuth ke...
+  Gardan pe aur jism pe zanjeer ke nishan
+  Ek ek zakhm dard ki kehta hai daastan
+  Zindan se zinda laut ke lachaar aaye hai
+  Zindan se chuth ke...
+  Jee khol kar yahan tera matam karenge hum
+  Karbobala mein majlis e chehlum karenge hum
+  Ay maula shaam waale azadar aaye hai
+  Zindan se chuth ke...
+  Zindan mein ek teri azadar reh gayi
+  Karbobala na aayi na zindan se ghar gayi
+  Dafna ke usko abid e bemaar aaye hai
+  Zindan se chuth ke...
+  Zindan mein karke aaya hai majlis ye kaarwan
+  Sab bibiyan thi matami zainab thi nauhakhwan
+  Mehwe buka o deeda e khoon khwaar aaye hai
+  Zindan se chuth ke...
+  Kaisa safar batool ki beti ne tay kiya
+  Dete nahi thay log aseeron ko raasta
+  Tay karke saari manzilein dushwaar aaye hai
+  Zindan se chuth ke...
+  Be-dard thay wo shaam aur kufe ke sab makeen
+  Tang hogayi thi aale mohamed pe ye zameen
+  Sadaat hoke jeene se bezaar aaye hai
+  Zindan se chuth ke...
+  Farhan o mazhar abdi kyun na ho nauhagar
+  Sajjad chut ke qaid se baba ki qabr par
+  Lekar nishane tauq e garabaar aaye hai
+  Zindan se chuth ke...
+# source_id: nohayonline:a37c2f2ad1e5fc6c9336
+# source_url: https://www.nohayonline.com/details_content.php?id=1092
+# raw_sha256: 5fd919005dc3805cdcd5a9bf8faf649408a2facfe5b56275212c1632164b244a
+---
+
+۱
+کربلا آگےء سادات کربلا آگےء سادات
+اٹھیے حسین آپ کے زوار آے ہیں
+زنداں سے چھٹ کے عابد بیمار آے ہیں
+بھولے نہیں ہیں شام اور کوفے کے راستے
+ترسے ہوے ہیں مولا یہ ماتم کے واسطے
+سب کچھ لٹا کے آپ کے غم خوار آے ہیں
+زنداں سے چھٹ کے۔۔۔
+زینب نے چلتے ناقے سے قد کو گرا دیا
+پھر کہنیوں سے چل کے گیء بھای سے کہا
+ہم لوگ ہوکے کوچہء و بازار آے ہیں
+زنداں سے چھٹ کے۔۔۔
+گردن پہ اور جسم پہ زنجیر کے نشاں
+اک ایک زخم درد کی کہتا ہے داستاں
+زنداں سے زندہ لوٹ کے لاچار آے ہیں
+زنداں سے چھٹ کے۔۔۔
+جی کھول کر یہاں تیرا ماتم کریں گے ہم
+کربوبلا میں مجلس چہلم کریں گے ہم
+اے مولا شام والے عزادار آے ہیں
+زنداں سے چھٹ کے۔۔۔
+زنداں میں ایک تیری عزاداری رہ گیء
+کربوبلا نہ آی نہ زنداں سے گھر گیء
+دفنا کے اس کو عابد بیمار آے ہیں
+زنداں سے چھٹ کے۔۔۔
+زنداں میں کرکے آیا ہے مجلس یہ کارواں
+سب بی بیاں تھی ماتمی زینب تھی نوحہ خواں
+محو بکا و دیدۂ خوں خوار آے ہیں
+زنداں سے چھٹ کے۔۔۔
+کیسا سفر بتول کی بیٹی نے طے کیا
+دیتے نہیں تھے اسیروں کو راستہ
+طے کرکے ساری منزلیں دشوار آے ہیں
+زنداں سے چھٹ کے۔۔۔
+بے درد تھے وہ شام اور کوفے کے مکیں
+تنگ ہوگئی تھی آل محمّد پہ یہ زمیں
+سادات ہوکے جینے سے بے زار آے ہیں
+زنداں سے چھٹ کے۔۔۔
+فرحان و مظہر عابدی کیوں نہ ہو نوحہ گر
+سجاد چھٹ کے قید سے بابا کی قبر پر
+لے کر نشان طوق گراں بار آے گا
+زنداں سے چھٹ کے۔۔۔

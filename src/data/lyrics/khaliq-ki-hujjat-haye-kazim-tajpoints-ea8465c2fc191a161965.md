@@ -1,0 +1,41 @@
+---
+title: "Khaliq Ki Hujjat Haye Kazim"
+language: "Roman Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Other"
+poet: "Hasnain"
+tags: []
+aliases: []
+published: false
+# source_id: tajpoints:ea8465c2fc191a161965
+# source_url: https://tajpoints.com/2023/02/khaliq-ki-hujjat-haye-kazim-lyrics-in.html
+# raw_sha256: 23005330aad6f7eb51834b6d359c482f5d0c95b8b9f9a1ad8437b3b2d1e0fa1b
+---
+
+Khaliq Ki Hujjat Haye Kazim Lyrics
+Islam Ki Zeenat Haye Kazim.
+
+1
+Tu Lal Ali Our Zahra Ka.
+Ahmad Ki Itrat Haye Kazim.
+Woh Qaid Raku Ki Halat Mein.
+Hai Aouj-e-Ibadat Haye Kazim.
+
+2
+Qatil Pe Tumharey Lanat Hi.
+Hai Tum Se Mawaddat Haye Kazim.
+Qurban Tumharey Sabron Par.
+Aalaam Ki Kasrat Haye Kazim.
+
+3
+Thi Qaid Ki Muddat Chodah Baras.
+Har Lamha Qayamat Haye Kazim.
+Zindaan Ki Musibat Aik Taraf.
+Phir Zehar Ki Shiddat Haye Kazim.
+
+4
+Ahsas Watan Se Doori Ka.
+Our Pul Pe Maiyyat Haye Kazim.
+ Hasnain Yeh Ajar-e-Risalat Hai.
+Dushman Hoi Raiyyat Haye Kazim.

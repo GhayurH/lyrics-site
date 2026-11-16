@@ -1,0 +1,34 @@
+---
+title: "Bewa Maa Bachray Da Kaaj Rachaya Aye Lyrics 2024 Complete"
+language: "Roman Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Other"
+tags: []
+aliases: []
+published: false
+# source_id: tajpoint:b68d0dfc4b898055ffcc
+# source_url: https://tajpoint.com/bewa-maa-bachray-da-kaaj-rachaya-aye-lyrics-2024/
+# raw_sha256: 95aaf65ac392bc681fc105a4ed53c943093f921cdb74f23b2c3fdd7197900d08
+---
+
+Bewa Maa Bachray Da Kaaj Rachaya Aye.
+Odhay Sadqay Haye Kul Nabiyaan Da Sarmaya Aye.
+
+1
+Kadi Bachray Nu Wich Maqtal De Nayi Tordiyan Mawaan.
+Rab Janrey Kiwein Laindiyaan Ne Putraan De Baaj Sahwaan.
+Ro Aakhay Haye Kisay Putar Nu Aynj Parnaya Aye.
+Jiday Sehrey De Phul Sajray Ne Haye Mariya Hazaran.
+
+2
+Teri Lash Taun Qasim Bachra Apni Main Jan Waraan.
+Tere Te Haye Nayi Taras Kisay Nu Aaya Aye.
+Main Leh Gaya Waan Zeen Utton Apna Farz Nibhaya.
+Taqseem Ho Ke Wich Karbal Babay Nu Aye Wikhaya.
+
+3
+Zahra De Haye Bachray Mainu Jholi Paya Aye.
+Aynj Mariya Musalmana Tareekh Ne Wikhaya.
+Qurban Karan Layi Mawaan Putraan Nu Aye Sajaya.
+Qasim Nu Haye Farwa Ne Sehra Laya Aye.

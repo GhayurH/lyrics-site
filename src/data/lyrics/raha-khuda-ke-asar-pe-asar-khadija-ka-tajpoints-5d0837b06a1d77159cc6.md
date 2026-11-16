@@ -1,0 +1,44 @@
+---
+title: "Raha Khuda Ke Asar Pe Asar Khadija Ka"
+language: "Roman Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Manqabat"
+poet: "Shaukat"
+tags: []
+aliases: []
+published: false
+# source_id: tajpoints:5d0837b06a1d77159cc6
+# source_url: https://tajpoints.com/2024/03/raha-khuda-ke-asar-pe-asar-khadija-ka.html
+# raw_sha256: 95eeaf1d7502ef591d67cfbf35b81623c3f40f1ed093b7e535acf2106ca9095d
+---
+
+1
+Raha Khuda Ke Asar Pe Asar Khadija Ka.
+Jahan Batool Pali Hai Woh Ghar Khadija Ka.
+Zamane Aaj Tum Islam Keh Rahe Ho Jisay.
+Woh Dar Badar Tha Na Hota Jo Dar Khadija Ka.
+
+2
+Woh Be Niyaz Hai Malik Hai Oss Ki Hasti Pe.
+Kissi Ka Qarz Nahi Hai Magar Khadija Ka.
+Jo Chaar Betiyaan Tum Ne Kahin Muhammad Ki.
+Haqeqatan Tumhein Rehta Hai Dar Khadija Ka.
+
+3
+Kabhi Arab Ke Gadagar Ghani Na Kehlatay.
+Karam Ka Hath Na Hota Agar Khadija Ka.
+Khuda Ke Deen Pe Do Taqaton Ka Saya Hai.
+Lahu Hussain Ke Dada Ka, Zar Khadija Ka.
+
+4
+Khuda Ki Zaat Bhi Khud Jis Ke Zair-e-Saya Hai.
+Suno Lagaya Howa Hai Shajar Khadija Ka.
+Yateem Palna Bekas Ko Aasra Dena.
+Hamarey Deen Mein Hai Yeh Hunar Khadija Ka.
+
+5
+Chali Hai Nasal-e-Khadija, Batool Ki Sorat.
+Wajood-e-Mehdi Talak Hai Safar Khadija Ka.
+Hara Bhara Jo Hai Islam Ka Chaman Shaukat.
+Shajar Hain Oss Mein Nabi Ke Samar Khadija Ka.

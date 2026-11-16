@@ -1,0 +1,77 @@
+---
+title: "سفر ہے کس کا کہ طوبا سلام کہتا ہے"
+alternateTitle: "Musafiron Ko Madina"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Najm Afandi"
+tags: []
+aliases: []
+published: false
+romanLyrics: |-
+  1
+  Safar hai kis ka ke tooba salaam kehta hai
+  Faraaz e arshe mo'alla salaam kehta hai
+  Ye kaun jaata hai kaaba salaam kehta hai
+  Musafiron ko madina salaam kehta hai
+  Hussain ye karam e kaar saaz kya kehna
+  Durood o ishq o salaam e niyaz kya kehna
+  Ye husn ki nigaye imtiyaz kya kehna
+  Kisi ka jalwa e yakta salaam kehta hai
+  Musafiron ko madina...
+  Kidhar se dard ke maalik hawaye dard aayi
+  Ye kis ki aah tadap kar faza may lehrayi
+  Chale ho leke kidhar naazish e maseehayi
+  Koi mareez tumhara salaam kehta hai
+  Musafiron ko madina...
+  Ye jaante hai bane ho rahe riza ke liye
+  Bahot dino se ho be-chain karbala ke liye
+  Hussain mud ke zara dekh lo khuda ke liye
+  Rawaqe mashad e zehra salaam kehta hai
+  Musafiron ko madina...
+  Nazar ke hai ye ishare zaban nahi khulti
+  Kisi ke dard ke maare zaban nahi khulti
+  Nabi ke raaj dulaare zaban nahi khulti
+  Dilon ka dard e maseeha salaam kehta hai
+  Musafiron ko madina...
+  Salaam lijiye aaqa ab apne bando ka
+  Har ek qaum ke millat ke haq pasando ka
+  Salaam saare zamane ke dard mandon ka
+  Hussain saara zamana salaam kehta hai
+  Musafiron ko madina...
+# source_id: nohayonline:622812148ca33df8120f
+# source_url: https://www.nohayonline.com/content_salaam.php?id=38
+# raw_sha256: 409e9f204b7cfdbcdaa2610961623556cfb65835988677f421942d46a7ae5ce9
+---
+
+۱
+سفر ہے کس کا کہ طوبا سلام کہتا ہے
+فراز عرش معلیٰ سلام کہتا ہے
+یہ کون جاتا ہے کعبہ سلام کہتا ہے
+مسافروں کو مدینہ سلام کہتا ہے
+حسین یہ کرم کار ساز یہ کہنا
+درود و عشق و سلام نیاز کیا کہنا
+یہ حسن کی نگاہ امتیاز کیا کہنا
+کسی کا جلوۂ یکتا سلام کیا کہتا ہے
+مسافروں کو مدینہ۔۔۔
+کدھر سے درد کے مالک ہواے درد آی
+یہ کس کی آہ تڑپ کر فضا میں لہرای
+چلے ہو لیکے کدھر نازش مسیحائی
+کوئی مریض تمہارا سلام کہتا ہے
+مسافروں کو مدینہ۔۔۔
+یہ جانتے ہیں بنے ہو راہ رضا کے لئے
+بہت دنوں سے ہو بے چین کربلا کے لئے
+حسین مڑ کے زرا دیکھ لو خدا کے لئے
+رواق مشہد زہرا سلام کہتا ہے
+مسافروں کو مدینہ۔۔۔
+نظر کے ہے یہ اشارہ زباں نہیں کھلتی
+کسی کے درد کے مارے زباں نہیں کھلتی
+نبی کے راج دلارے زباں نہیں کھلتی
+دلوں کا درد مسیحا سلام کہتا ہے
+مسافروں کو مدینہ۔۔۔
+سلام لیجیے آقا اب اپنے بندوں کا
+ہر ایک قوم کے ملت کے حق پسندوں کا
+سلام سارے زمانے کے درد و مندوں کا
+حسین سارا زمانہ سلام کہتا ہے
+مسافروں کو مدینہ۔۔۔

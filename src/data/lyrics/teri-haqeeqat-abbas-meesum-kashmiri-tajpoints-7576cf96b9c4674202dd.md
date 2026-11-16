@@ -1,0 +1,40 @@
+---
+title: "Teri Haqeeqat Abbas Meesum Kashmiri"
+language: "Roman Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Manqabat"
+poet: "Iram"
+tags: []
+aliases: []
+published: false
+# source_id: tajpoints:7576cf96b9c4674202dd
+# source_url: https://tajpoints.com/2021/03/teri-haqeeqat-abbas-meesum-kashmiri.html
+# raw_sha256: f9e20eafb7ff236930d2e66373ed8e92d9b63750abd37e97926419de60e6ca28
+---
+
+Teri Haqeeqat Abbas Meesum Kashmiri.
+
+1
+Hai Alag Sab Se Tera Tarz-e-Ibadat Abbas.
+Tera Eman Hai Sarwar Ki Itaat Abbas.
+Kis Ko Maloom Hai Zahra Ki Dua Ki Qeemat.
+Kaun Jane Ga Bhala Teri Haqeeqat Abbas.
+Woh Ali Jis Ne Zamane Mein Na Chaha Kuch Bhi.
+Oss Ne ALLAH Se Ki Ik Teri Chahat Abbas.
+
+2
+Gaud Mein Zainab-o-Kulsoom Ne Pala Tujh Ko.
+Tera Gehwara Jhulati Rahi Ismat Abbas.
+Aaj Bhi Mashk-o-Alam Sath Nazar Aate Hain.
+Tujh Se Kitni Hai Sakina Ko Muhabbat Abbas.
+Aik Hi Deta Khuda Bhai Magar Tujh Jaisa.
+Hai Dil-e-Yousuf-e-Kanaan Ki Yeh Hasrat Abbas.
+
+3
+Hukam-e-Shabeer Ki Tameel Mein Woh Zabt-e-Jalal.
+Wasf Hai Tera Faqat Aisi Shujat Abbas.
+Jald Ho Mehdi-e-Doraan Ka Zahoor-e-Barhaq.
+Dekh Lein Hum Bhi Teri Jah-o-Jalalat Abbas.
+Bas Yeh Kartay Hain Dua Dil Se Iram Our Meesum.
+Tere Rozay Pe Karein Hum Teri Midhat Abbas.

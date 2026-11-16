@@ -1,0 +1,35 @@
+---
+title: "Mere Shaor Ko Iss Wastey Zawal Nahi"
+language: "Roman Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Manqabat"
+poet: "Raqib"
+tags: []
+aliases: []
+published: false
+# source_id: tajpoints:e44f4af86a415fdbd166
+# source_url: https://tajpoints.com/2017/02/mere-shaor-ko-iss-wastey-zawal-nahi.html
+# raw_sha256: 6056b62ff7646e63b2ab84e349d03d62dd062c7b19c6b403b4c28114da5722c7
+---
+
+Mere Shaor Ko Iss Wastey Zawal Nahi.
+Bajiz Ali Kabhi Aya Koi Khiyal Nahi.
+
+1
+Bare Adab Ki Hai Manzil Deyar-e-Karb-o-Bala.
+Main Sar Utha Ke Chalon Yeh Meri Majal Nahi.
+Yeh Maan Lijiye Rooh-e-Namaz Hain Haider.
+Bina Ali Ke Ibadat Ka Koi Haal Nahi.
+
+2
+Har Ik Lehaz Se Hain Mustafa Ali Akbar.
+Manasbat Mein Faqat Un Ke Khad-o-Khaal Nahi.
+Yeh Kainat Ki Shahi Ka Taj Hai Logo.
+Bandah Hai Hur Ke Jo Sar Par Faqat Romal Nahi.
+
+3
+Youn Shah Ka Qatal Bhi Touheed Hai Risalat Ki.
+Kyun Iss Jagah Pe Tujhe Aya Ishteyal Nahi.
+Jo Kar Raha Hai Yeh Qirtas Par Qalam sajday.
+Atta Ali Ki Hai Raqib Tera Kamal Nahi.

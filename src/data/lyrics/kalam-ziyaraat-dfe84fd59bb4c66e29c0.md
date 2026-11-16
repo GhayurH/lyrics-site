@@ -1,0 +1,53 @@
+---
+title: "مجرئی مشتاق ہے قدسی سلام ایسا تو ہو"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Salam"
+tags: []
+aliases: []
+published: false
+romanLyrics: |-
+  Mujraee mushtaq hay qudsi kalam aisa to ho
+  Bazm may shor-e-durood uthay salam aisa to ho
+  
+  1
+  Hay Ali Allah ka ham nam naam aisa to ho
+  Khana zade haq hua zil ihteram aisa to ho
+  
+  2
+  Ya Ali jab munh se nikla mushkilain aasan huyeen
+  Ism-e-Azam ka asar rakhta ho naam aisa to ho
+  
+  3
+  Jin-o-ins o wahsh o tayr o qudsi o ghilman o hoor
+  Sab ke sab bayaat karain jis ki Imam aisa to ho
+  
+  4
+  Shah-e-Mardan sher-e-yazdan fatahe Khaibar Ali
+  Shah-e-mardan fatahe khaibar Amirul Momineen
+  Janishin-e-Hazrat-e-Khairul anaam aisa to ho
+# source_id: ziyaraat:dfe84fd59bb4c66e29c0
+# source_url: https://www.ziyaraat.net/api/noha/2301
+# raw_sha256: b0172e098384d30a1bcbb657a33433e1907cea85708d5d63a28cd6a0c27dcac7
+---
+
+مجرئی مشتاق ہے قدسی سلام ایسا تو ہو
+بزم میں شورِدرود اٹھے سلام ایسا تو ہو
+
+۱
+ہے علیؑ اللہ کا ہم نام نام ایسا تو ہو
+خانہ زادِ حق ہوا ذی الاِحترام ایسا تو ہو
+
+۲
+یا علیؑ جب منہ سے نکلا مشکلیں آساں ہوئیں
+اسمِ اعظم کا اثر رکھتا ہو نام ایسا تو ہو
+
+۳
+جن و انس و وحش و طیر و قدسی و غِلمان و حور
+سب کے سب بیعت کریں جس کی امام ایسا تو ہو
+
+۴
+شاہِ مرداں شیرِ یزداں قوّتِ پروردگار
+شاہِ مرداں فاتحِ خیبر امیر المومنیں
+جانشینِ حضرتِ خیرالانام ایسا تو ہو

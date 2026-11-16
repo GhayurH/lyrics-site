@@ -1,0 +1,38 @@
+---
+title: "Zainab Ke Sar Se Utha Mula Ali Ka Saya"
+language: "Roman Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Other"
+poet: "Afraz"
+tags: []
+aliases: []
+published: false
+# source_id: tajpoints:def3a989fb94b3214fc3
+# source_url: https://tajpoints.com/2018/06/zainab-ke-sar-se-utha-mula-ali-ka-saya.html
+# raw_sha256: 76a656fdeaa696b34ad2bf75b449ee16b96313c515519f0a8a7e6e4373a3dd18
+---
+
+1
+Zainab Ke Sar Se Utha Mula Ali Ka Saya.
+Ujara Howa Hai Kofa Weeraan Hai Ghar Khuda Ka.
+Kabay Mein Hai Wiladat Masjid Mein Hai Shahdat.
+Kis Ne Yeh Ouaj Mula Tere Siwa Hai Paya.
+
+2
+Mathay Pe Zarb Kha Kar Jab Khon Mein Howay Tar.
+Haider Ke Lab Pe Aaya Fuztu Be Rab-e-Kaba.
+Marqad Mein Mustafa Bhi Noha Kuna Hain Logo.
+Baqiya Mein Ro Rahi Hain Haye Janab-e-Zahra.
+
+3
+Mula Ne Ki Wasiyat Shabir Ka Aye Zainab.
+Hai Sath Har Qadam Par Beti Tumhein Nibhana.
+Muljam Ke Betay Tujh Par ALLAH Ki Ho Lanat.
+Pehla Diya Imamat Ka Tu Ne Hai Bhujaya.
+
+4
+Le Kar Ali Ki Maiyat Joon Ghar Se Nikale Betay.
+Syedaniyaan Youn Bolein Na Jao Choor Baba.
+ Afraz Ka Yeh Pursa Kar Lein Qabool Bibi.
+Tere Padar Ka Bibi Ta Hashar Gham Rahe Ga.

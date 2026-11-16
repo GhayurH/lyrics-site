@@ -1,0 +1,41 @@
+---
+title: "Barsar-e-Naiza Tere Lab Par Jo Aayat Hai Hussain"
+language: "Roman Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Manqabat"
+poet: "Shahi"
+tags: []
+aliases: []
+published: false
+# source_id: tajpoints:b194a34df25f5b4a718e
+# source_url: https://tajpoints.com/2019/06/barsar-e-naiza-tere-lab-par-jo-aayat.html
+# raw_sha256: 903dc656f74808797bf9ce40b8641fa5e5c3de876bc8354b3ef3e0187ffccb27
+---
+
+Barsar-e-Naiza Tere Lab Par Jo Aayat Hai Hussain.
+Do Jahan Ki Aaj Hairat Mein Samaat Hai Hussain.
+
+1
+Hai Sharaf Tera Tu Hai Ibn-e-Ali Mustafa.
+Zikar Youn Tera Bhi Aik Ain Ibadat Hai Hussain.
+Aik Shashmahe Ne Kata Hans Ke Baiat Ka Gala.
+Tere Khon Ka Maujza Hai Ya Shujat Hai Hussain.
+
+2
+Alqama Ko Dedi Qadmo Mein Jagah Abbas Ne.
+Aik Pyase Ka Yeh Andaz-e-Sakhawat Hai Hussain.
+Sham Wale Kis Tarha Rukte Bhala Maidan Mein.
+Bhagne Ki Jab Unhein Pehle Se Adat Hai Hussain.
+
+3
+Bhaij Do Ab Parda-e-Ghaibat Se Waris Deen Ka.
+Har Taraf Phaili Hoi Phir Se Jahalat Hai Hussain.
+Saat Betay Pa Ke Rahib Ne Qaseeda Youn Parha.
+Sab Se Aala Dahar Mein Teri Inayat Hai Hussain.
+
+4
+Minbaron Se Baichta Hai Jo Tumhare Zikar Ko.
+Ba-Khuda Oss Shaks Pe ALLAH Ki Lanat Hai Hussain.
+Dekh Le Yeh Zindagi Mein Tere Mehdi Ka Zahoor.
+Dil Mein Shahi Ke Basi Bas Itni Chahat Hai Hussain.

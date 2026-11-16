@@ -1,0 +1,32 @@
+---
+title: "مت بھول یہ مفتی کلمہ کی پہچان حسینؑ ماتم ہے"
+language: "Roman Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Noha"
+tags: []
+aliases: []
+published: false
+# source_id: ziyaraat:c3cd5d64158c8e195d4a
+# source_url: https://www.ziyaraat.net/api/noha/687
+# raw_sha256: 555529f3680a81b26cb5d0fe12290ccc8a42241678b947818bd66a697d4ec07c
+---
+
+Mat bhool ye mufti kalmey ki, Pehchan Hussain ka matam hay
+Is kufr ke aalam me har ki, Azaan Hussain ka matam hay
+
+1
+1. Tu zindagi bhar shukraney ke, Kar sajdey ghar insan hai tu
+Har ek insan pe mahshar tak, Ehsan hussein ka matam hay
+
+2
+2. Tu khud kuch deen me laya hai, Tuney kalmey ko sharmaya hay
+Kalmey ki qasam is kalmey par, Qurban hussein ka matam hay
+
+3
+3. Terey fatwo se mitjayega, Ye matam bhool hai bhool teri
+Jo ghairat mand hain un sab ka, Imaan hussein ka matam hay
+
+4
+4. Ham matam kartey sino par, tera chehra surkh kyun hota hay
+Maloom huwa haq batil ka, Meezaan Hussein ka matam hay

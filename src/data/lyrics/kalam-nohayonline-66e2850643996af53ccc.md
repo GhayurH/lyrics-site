@@ -1,0 +1,121 @@
+---
+title: "اے میرے پیاروں اے بیٹوں"
+alternateTitle: "Yaad Aaoge Auno"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Hilal Rizvi"
+tags: []
+aliases: []
+published: false
+romanLyrics: |-
+  1
+  Ay mere pyaron ay mere beton
+  Ay mere bachon
+  Dasht mein boli zainab ye rokar
+  Yaad aaoge aun o mohamed
+  Zinda jab tak rahegi ye maadar
+  Yaad aaoge aun o mohamed
+  Laut kar jab watan jaaungi mai
+  Aur veeran ghar paaungi mai
+  Nanhe nanhe jo dekhungi bistar
+  Yaad aaoge aun o mohamed
+  Dasht mein boli...
+  Gham mein tanha mujhe kar gaye ho
+  Saamne maa ke tum mar gaye ho
+  Ye hua hai sitam kaisa hum par
+  Yaad aaoge aun o mohamed
+  Dasht mein boli...
+  Eid jab jab bhi aayegi bachon
+  Khoon maa ko rulayegi bachon
+  Dil pe chal jayega mere khanjar
+  Yaad aaoge aun o mohamed
+  Dasht mein boli...
+  Chote hote musalle tumhare
+  Ghar ke hujre mein khaali jo honge
+  Aankhein ashkon se ho jayengi tar
+  Yaad aaoge aun o mohamed
+  Dasht mein boli...
+  Khooon mein doobe tumhare amaame
+  Saamne aayenge jab bhi mere
+  Khaaungi ghash bapa hoga mehshar
+  Yaad aaoge aun o mohamed
+  Dasht mein boli...
+  Har qadam jaan khoti rahungi
+  Umr bhar sirf roti rahungi
+  Dil mein dono ka gham hai barabar
+  Yaad aaoge aun o mohamed
+  Dasht mein boli...
+  Khoon mein doobe tumhare janaze
+  Meri nazron mein aa kar rahegne
+  Kis tarha bhoolun gham ka wo manzar
+  Yaad aaoge aun o mohamed
+  Dasht mein boli...
+  Dasht e ghurbat mein tashna dahan thay
+  Mamu ki tarha tum bekafan thay
+  Qabr tak tum ko royegi maadar
+  Yaad aaoge aun o mohamed
+  Dasht mein boli...
+  Kya hilaal ab likhe gham ka manzar
+  Sajid aale nabi mein tha mehshar
+  Bain karti thi ye binte hyder
+  Yaad aaoge aun o mohamed
+  Dasht mein boli...
+# source_id: nohayonline:66e2850643996af53ccc
+# source_url: https://www.nohayonline.com/details_content.php?id=2811
+# raw_sha256: a45e21d1d56e5d20a8c127235f1cb94dda8f43c7604755ed5afd4dfd7ae5e2a6
+---
+
+۱
+اے میرے پیاروں اے بیٹوں
+اے میرے بچوں
+دشت میں بولی زینب یہ رو کر
+یاد آؤ گے عون و محمد
+زندہ جب تک رہے گی یہ مادر
+یاد آؤ گے عون و محمد
+لوٹ کر جب وطن جاؤں گی میں
+اور ویران گھر پاؤں گی میں
+ننھے ننھے جو دیکھوں گی بستر
+یاد آؤ گے عون و محمد
+دشت میں بولی۔۔۔
+غم میں تنہا مجھے کر گےء ہو
+سامنے ماں کے تم مر گےء ہو
+یہ ہوا ہے ستم کیسا ہم پر
+یاد آؤ گے عون و محمد
+دشت میں بولی۔۔۔
+عید جب جب بھی آے گی بچوں
+خون ماں کو رلاے گی بچوں
+دل پہ چل جائے گا میرے خنجر
+یاد آؤ گے عون و محمد
+دشت میں بولی۔۔۔
+چھوٹے ہوتے مصلے تمہارے
+گھر کے ہجرے میں خالی جو ہونگے
+آنکھیں اشکوں سے ہو جائنگی تر
+یاد آؤ گے عون و محمد
+دشت میں بولی۔۔۔
+خوں میں ڈوبے تمہارے عمامے
+سامنے آینگے جب بھی میرے
+کھاؤں گی غش بپا ہوگا محشر
+یاد آؤ گے عون و محمد
+دشت میں بولی۔۔۔
+ہر قدم جان کھوتی رہوں گی
+عمر بھر صرف روتی رہوں گی
+دل میں دونوں کا غم ہے برابر
+یاد آؤ گے عون و محمد
+دشت میں بولی۔۔۔
+خوں میں ڈوبے تمہارے جنازے
+میری نظروں میں آ کر رہیں گے
+کس طرح بھولوں غم کا وہ منظر
+یاد آؤ گے عون و محمد
+دشت میں بولی۔۔۔
+دشت غربت میں تشنہ دہن تھے
+مامو کی طرح تم بیکفن تھے
+قبر تک تم کو روے گی مادر
+یاد آؤ گے عون و محمد
+دشت میں بولی۔۔۔
+کیا ہلال اب لکھے غم‌ کا منظر
+ساجد آل نبی میں تھا محشر
+بین کرتی تھی یہ بنت حیدر
+یاد آؤ گے عون و محمد
+دشت میں بولی۔۔۔

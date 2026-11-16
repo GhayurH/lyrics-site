@@ -1,0 +1,38 @@
+---
+title: "Mariyam Hain Hajrah Hain Na Sarah Hain Fatima"
+language: "Roman Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Manqabat"
+poet: "Nayyar"
+tags: []
+aliases: []
+published: false
+# source_id: tajpoints:5531a7d4f5cfac175bda
+# source_url: https://tajpoints.com/2018/01/mariyam-hain-hajrah-hain-na-sarah-hain.html
+# raw_sha256: 92262765cd3b694f472b11429ced0e04eae3331e091f9384939dffe25c7ecf1d
+---
+
+1
+Mariyam Hain Hajrah Hain Na Sarah Hain Fatima.
+Qad Aaino Ke Past Hain Bala Hain Fatima.
+Godi Mein Le Ke Fakhar Se Jhomein Na Kyun Rasool.
+Kul Zindagi Ki Aik Tamana Hain Fatima.
+
+2
+Parchai Bhi Na Dekhi Kabhi Din Ki Dhoop Ne.
+Nikla Na Jo Rida Se Woh Chehra Hain Fatima.
+Pohanchi Khuda Ke Ghar Se Yeh Nisbat Nabi Ke Ghar.
+Utra Jo Aasmaan Se Woh Rishta Hain Fatima.
+
+3
+Aayat Mein Dhal Gayi Jo Woh Tehreer Hain Ali.
+Manga Jo Aayton Ne Woh Lehja Hain Fatim.
+Haider Hain Woh Namaz Shujat Ne Jo Parhi.
+Ismat Ne Jo Kiya Hai Woh Sajda Hain Fatima.
+
+4
+Jab Aa Gayin Batool Khare Ho Gaye Rasool.
+Sabit Howa Ke Umm-e-Abeeha Hain Fatima.
+ Nayyar Meri Zabaan Koi Quran Tu Nahi.
+Main Kis Tarha Bataon Bhala Kya Hain Fatima.

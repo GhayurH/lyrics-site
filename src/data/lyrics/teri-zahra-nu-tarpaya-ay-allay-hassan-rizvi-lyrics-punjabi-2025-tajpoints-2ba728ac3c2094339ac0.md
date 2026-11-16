@@ -1,0 +1,33 @@
+---
+title: "Teri Zahra Nu Tarpaya Ay Allay Hassan Rizvi Lyrics Punjabi 2025"
+language: "Roman Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Other"
+poet: "Sajjad"
+tags: []
+aliases: []
+published: false
+# source_id: tajpoints:2ba728ac3c2094339ac0
+# source_url: https://tajpoints.com/2025/11/teri-zahra-nu-tarpaya-ay-allay-hassan.html
+# raw_sha256: a83bdae9e21f6a65545e19b4ab7406d9e95178aa772c50529d09c946bd36b865
+---
+
+1
+Teri Zahra Nu Tarpaya Ay Allay Hassan Rizvi.
+Baba Teri Ummat Baad Tere Teri Zahra Nu Tarpaya Aye.
+Mera Mohsin Mariya Zalimaan Ne Ghar Mera Aan Jalaya Aye.
+1- Ayeh Ghar Aye Pak Muhammad Da Keeti Qadar Na Kalma Gowaan Ne.
+Tazeem Jidi Karde Sarwar Oss Dar Nu Aan Giraya Aye.
+2- Logo Main Hijab-e-Kibriya Haan Meri Azmat Da Quran Gawah.
+Malik Tatheer Di Chadar Di Mainu Wich Darbar Bulaya Aye.
+3- Jad Gayi Darbar Main Baba Te Aye Ki Meri Tazeem Keeti.
+Mere Hasan De Samne Zalim Ne Chehray Te Tamacha Laya Aye.
+4- Na Haq Denday Beshak Mainu Zahra Nu Ayeh Dukh Mar Gaya.
+Tere Kalma Gowaan Ne Baba Teri Zahra Nu Jhutlaya Aye.
+5- Jehra Rang Darbar Da Wekhiya Aye Zainab Teri Chadar Nahin Bachni.
+Rab Khair Karey Tere Veraan Te Main Wekhiya Maut Da Saya Aye.
+6- Baba Teri Zahra Nu Ummat Bachiyaan De Samne Mariya Aye.
+Main Zakhmi Aan Kalma Gowaan Har Zulm Mere Te Dhaya Aye.
+7- Zahra De Janazay Te Haider, Sajjad Ayeh Keh Ke Ronday Ne.
+Majboor Haan Main Tusaan Nahin Larna Ayeh Pak Nabi Farmaya Aye.

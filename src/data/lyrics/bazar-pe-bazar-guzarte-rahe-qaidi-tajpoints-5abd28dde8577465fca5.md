@@ -1,0 +1,31 @@
+---
+title: "Bazar Pe Bazar Guzarte Rahe Qaidi"
+language: "Roman Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Other"
+poet: "Akbar"
+tags: []
+aliases: []
+published: false
+# source_id: tajpoints:5abd28dde8577465fca5
+# source_url: https://tajpoints.com/2017/11/bazar-pe-bazar-guzarte-rahe-qaidi.html
+# raw_sha256: 6b12a0977033e08d722f3f02188ca6ff1bd24f46c50692478d2195f5150539de
+---
+
+1
+Bazar Pe Bazar Guzarte Rahe Qaidi Write Up
+Bazar Pe Bazar Guzarte Rahe Qaidi.
+Har Mor Pe Jeete Rahe Marte Rahe Qaidi.
+Rasi Ne Unhein Aik Bana Rakha Tha Lekin.
+Tasheer Ki Zarbat Se Bikharte Rahe Qaidi.
+Zakhmon Mein Badal Deti Thi Pairon Ke Jo Chale.
+Marham Bhi Ossi Khak Ko Karte Rahe Qaidi.
+Pani Tu Muyasar Na Tha Bas Ashk The Jin Ko.
+Abbas Ke Mashkezay Mein Bharte Rahe Qaidi.
+Girna Isse Kehte Hain Keh Aye Logo Utarna.
+Chalte Howay Naqon Se Utarte Rahe Qaidi.
+Mil Jaye Na Iss Waqt Koi Janne Wala.
+Bazar Mein Iss Baat Se Darte Rahe Qaidi.
+Tauheed Ko Chalne Mein Na Dushwari Ho Akbar.
+Kharon Pe Qadam Iss Liye Dharte Rahe Qaidi.

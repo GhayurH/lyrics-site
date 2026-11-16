@@ -1,0 +1,51 @@
+---
+title: "غم شبیرؑ میں آنکھوں سے جو آنسو بہاتے ہیں"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Salam"
+tags: []
+aliases: []
+published: false
+romanLyrics: |-
+  Gham-e-Shabbir Mein Ankho Se Jo Ansu Bahate Hain
+  Zahe Qismat Wo Hi Jannat Me Ghar Apna Banate Hain
+  
+  1
+  Lahed Me Jab Farishto Ne Mujhe Dekha To Yun Bole
+  Teri Imdad Ko Mushkil Kusha Tashreef Late Hain
+  
+  2
+  Kamar Tuti Huyi Hai Shaha Ki Abbas Ke Gham Me
+  Ye Himmat Hai Jawan Farzand Ki Mayyat Uthate Hain
+  
+  3
+  Kaha Rokar Ye Zainab Ne Madad Ko Aeye Baba
+  Sitamgar Abid-e-Bimar Ko Bedi Pehnate Hain
+  
+  4
+  Zara Dekhe to Koi Hosla iss Ghar Ke Bachcho Ka
+  Ali Asghar Gale Par Teer Kha Ke Muskurate Hain.
+# source_id: ziyaraat:843a42082d4c74aa0b4c
+# source_url: https://www.ziyaraat.net/api/noha/2278
+# raw_sha256: f82924319b3929ecf617861ca12c959e4510e15656202263f89d75f3163254ae
+---
+
+غم شبیرؑ میں آنکھوں سے جو آنسو بہاتے ہیں
+زھے قسمت وہ ہی جنت میں گھر اپنا بناتے ہیں
+
+۱
+لحد میں جب فرشتوں نے مجھے دیکھا تو یوں بولے
+تیری امداد کو مشکل كشاءؑ تشریف لاتے ہیں
+
+۲
+کمر ٹوٹی ہوئی ہے شاہؑ کی عباسؑ كے غم میں
+یہ ہمت ہے جوان فرزند کی میّت اٹھاتے ہیں
+
+۳
+کہا روکر یہ زینبؑ نے مدد کو آئیے بابا
+ستم گر عابد بیمارؑ کو بیڑی پہناتے ہیں
+
+۴
+ذرا دیکھے تو کوئی حوصلہ اِس گھر كے بچوں کا
+علی اصغرؑ گلے پر تیر کھا كے مسکراتے ہیں

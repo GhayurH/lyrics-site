@@ -1,0 +1,28 @@
+---
+title: "Rokta Hai Kyun Humein Tu Matam E Shabir Se"
+language: "Roman Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Other"
+tags: []
+aliases: []
+published: false
+# source_id: tajpoints:4003e7a1433d112d39ee
+# source_url: https://tajpoints.com/2018/07/rokta-hai-kyun-humein-tu-matam-e-shabir.html
+# raw_sha256: e42538bef288a27ac5b1290a2b8d4871f377f5112f08fd630034ff4c82eafeba
+---
+
+Rokta Hai Kyun Humein Tu Matam e Shabir Se
+Jab Ke Sabit Hai Yeh Matam Zainab-e-Dilgeer Se.
+
+1
+Jab Khuda Ki Zaat Pe Zima Azadari Ka Hai.
+Phir Kahan Rukti Hai Yeh Fatwoon Ke Taig-o-Teer Se.
+Kya Biyaan Ho Unn Ki Azmat Jo Madina Se Chalay.
+Hur Bana Dala Ossay Jo Aa Gaya Takheer Se.
+
+2
+Aik Iqrar-e-Wilayat Aik Matam Shah Ka.
+Kam Hote Hain Yeh Dono Khon Ki Taseer Se.
+Iss Liye Sajjad Ki Aankhoon Se Khon Rukta Nahi.
+Sari Mastorein Bandhi Hain Aik Hi Zanjeer Se.

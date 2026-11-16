@@ -1,0 +1,32 @@
+---
+title: "Hoiyaan Qaidi Chadraan Lay Gayiyaan Aa Lyrics 2018"
+language: "Roman Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Other"
+poet: "Akbar"
+tags: []
+aliases: []
+published: false
+# source_id: tajpoints:5c8e27eed7e33a2eea91
+# source_url: https://tajpoints.com/2018/11/hoiyaan-qaidi-chadraan-lay-gayiyaan-aa.html
+# raw_sha256: 1b27fb5f5295adc76dfb8bf873b0000d2fa87e45b7fad8d6e2d5b88b71edc4fb
+---
+
+1
+Hoiyaan Qaidi Chadraan Lay Gayiyaan Aa Ja Ghazi.
+Assi Pehli Wari Veerna Pathraan Diyan Chawan Wekhiyan Aa Ja Ghazi.
+Bhul Gaye Ne Aye Bazari Keh Fatima De Ghar Di Har Bibi Fatima Aye.
+Aj Zahra Jaiyan Bheer Chon Guzran Da Ran Ne Mangdiyan Aa Ja Ghazi.
+
+2
+Lokan Nu Dasni Payi Aan Innma Di Waris Tatheer Aye Meri Chadar.
+Bazar Kadi Main Wekhay Nayi Main Nori Wehray Rehni Aan Aa Ja Ghazi.
+Abbas Teri Bhaina Tere Pehriyan Di Aadi Aj Balwiyan Che Aaiyaan.
+Haye Sariyan Bhaina Aas Nal Tere Sir Nu Paiyaan Takdiyaan Aa Ja Ghazi.
+
+3
+Khairat Dein Wali Kiwein Howay Sawali Bas Veer Rondi Jaway.
+Ramla De Kan Te Apniyan Takdi Aye Sakina Waliyaan Aa Ja Ghazi.
+Aa Chadraan Wakhawan Shami Aye Hans Ke Aakhan Abbas Nu Bulao.
+Oss Moor Te Izataan Waliyaan Akbar Kinj Bhaina Kehndiyan Aa Ja Ghazi.

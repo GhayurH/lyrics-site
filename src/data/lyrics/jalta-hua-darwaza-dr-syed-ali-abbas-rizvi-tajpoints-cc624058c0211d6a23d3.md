@@ -1,0 +1,43 @@
+---
+title: "Jalta Hua Darwaza Dr Syed Ali Abbas Rizvi"
+language: "Roman Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Other"
+poet: "Ali"
+tags: []
+aliases: []
+published: false
+# source_id: tajpoints:cc624058c0211d6a23d3
+# source_url: https://tajpoints.com/2022/12/jalta-hua-darwaza-dr-syed-ali-abbas.html
+# raw_sha256: cd19d6a7539746967eff0bef289153c2d295a60283eeb8cfb7d73940e86fee5a
+---
+
+1
+Jalta Hua Darwaza Dr Syed Ali Abbas Rizvi.
+Teri Zahra Ne Tujhe Ro Ke Pukara Baba.
+Mujh Pe Jis Waqt Gira Jalta Howa Darwaza.
+Kya Khabar Thi Keh Zamana Youn Badal Jaye Ga.
+Aap Ke Shehar Mein Ghar Zahra Ka Jal Jaye Ga.
+Jo Sitam Mujh Pe Hoye Kis Ko Batati Main Bhala.
+Aap Ke Baad Zamane Ne Sitam Woh Dhaye.
+Din Pe Partay Tu Woh Raton Mein Badal Jane They.
+Aap Ke Baad Musibat Ka Woh Aalam Dekha.
+Kalma Parhtay They Tere Naam Ka Jo Sham-o-Sahar.
+Aap Ke Baad Inhi Logon Ne Phairi Hai Nazar.
+Haye Haq Aap Ke Ashab Ne Chena Mera.
+Meri Hurmat Ko Bhulaya Hai Musalmano Ne.
+Jalta Darwaza Giraya Hai Mere Pehlu Pe.
+Pasliyaan Toot Gayin Our Mujhe Durrah Bhi Laga.
+Tere Hi Shehar Mein Tanha Hai Tumhari Beti.
+Door Aabadi Se Ja Kar Hoon Main Giriya Karti.
+Haye Ummat Ne Mujhe Ghar Mein Bhi Roney Na Diya.
+Aap Ko Dein Gin Gawahi Merey Dewar-o-Dar.
+Itni Shiddat Ka Laga Zakhm Merey Pehlu Par.
+Haye Baba Main Kahon Kya Mera Mohsin Na Bacha.
+Main Jo Roti Thi Tu Ashab Tere Hanstay They.
+Kar Diya Hai Teri Tehreer Ko Tukray Tukray.
+Teri Beti Ki Gawahi Ko Nahi Mana Gaya.
+Turbat-e-Ahmad Mukhtar Pe Tha Hashar Bapa.
+Bain Zahra Ne Kiye Ro Ke Ali Our Raza.
+Aap Ke Baad Zamane Ne Mujhe Rulwaya.

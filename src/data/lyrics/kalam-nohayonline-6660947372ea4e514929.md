@@ -1,0 +1,73 @@
+---
+title: "زہرا ہاے زہرا"
+alternateTitle: "Nana Rab Ke Waaste"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Mazhar Abidi & Mujahid Nashad"
+tags: []
+aliases: []
+published: false
+romanLyrics: |-
+  1
+  Zahra haye zahra
+  Qabre nabi udaas madina udaas hai
+  Kamsin hussain nana ke rauze pe aa gaya
+  Nana mere nana mai hussain
+  Nana rab ke waaste sun meri dua
+  Bemaar hai ye maa meri dukhiya ko de shifa
+  Jud sakti hai to jod de amma ki phasliyan
+  Ummat ne meri maa ko zakhmi bahot kiya
+  Nana rab ke waaste...
+  Lagte rahe tamache mai dekhta reh gaya
+  Bebas hussain reh gaya maa ko bacha na saka
+  Nana rab ke waaste...
+  Deewar o dar ke darmiyan maa pis ke reh gayi
+  Chilla rahi thi dard se mohsin guzar gaya
+  Nana rab ke waaste...
+  Leti hai jab bhi saans to dukhti hai phasliyan
+  Maa ka ye haal dekh kar phat'ta hai dil mera
+  Nana rab ke waaste...
+  Pehlu ke dard ke sabab so bhi nahi saki
+  Bacche na roye is liye chup chup ke ki buka
+  Nana rab ke waaste...
+  Ummat nahi samajh saki rutba batool ka
+  Darbar mein batool ko jhutla diya gaya
+  Nana rab ke waaste...
+  Farhan aur mazhar o nashad ro diye
+  Sun kar yeh bain kaamp utha rauza rasool ka
+  Nana rab ke waaste...
+# source_id: nohayonline:6660947372ea4e514929
+# source_url: https://www.nohayonline.com/details_content.php?id=2696
+# raw_sha256: 55a1125e124c5f2100cf1e18d84f8aa6c795438a6511f9a8cc1ddbfdde5a26ec
+---
+
+۱
+زہرا ہاے زہرا
+زہرا نبی اداس مدینہ اداس ہے
+کمسن حسین نانا کے روضے پہ آ گیا
+نانا میرے نانا میں حسین
+نانا رب کے واسطے سن میری دعا
+بیمار ہے یہ ماں میری دکھیا کو دے شفا
+جڑ سکتی ہے تو جوڑ دے اماں کی پسلیاں
+امت نے میری ماں کو زخمی بہت کیا
+نانا رب کے واسطے۔۔۔
+لگتے رہے طمانچے میں دیکھتا رہ گیا
+بےبس حسین رہ گیا ماں کو بچا نہ سکا
+نانا رب کے واسطے۔۔۔
+دیوار و در کے درمیاں ماں پس کے رہ گیء
+چلا رہی تھی درد سے محسن گزر گیا
+نانا رب کے واسطے۔۔۔
+لیتی جب بھی سانس تو دکھتی ہے پسلیاں
+ماں کا یہ حال دیکھ کر پھٹتا ہے دل میرا
+نانا رب کے واسطے۔۔۔
+پہلو کے درد کے سبب سو بھی نہیں سکی
+بچے نہ روے اس لیےء چھپ چھپ کے کی بکا
+نانا رب کے واسطے۔۔۔
+امت نہیں سمجھ سکی رتبہ بتول کا
+دربار میں بتول کو جھٹلا دیا گیا
+نانا رب کے واسطے۔۔۔
+فرحان اور مظہر و ناشاد رو دیےء
+سن کر یہ بین کانپ اٹھا روضہ رسول کا
+نانا رب کے واسطے۔۔۔

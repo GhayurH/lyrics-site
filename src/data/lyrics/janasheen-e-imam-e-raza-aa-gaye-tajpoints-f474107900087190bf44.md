@@ -1,0 +1,47 @@
+---
+title: "Janasheen-e-Imam-e-Raza Aa Gaye"
+language: "Roman Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Manqabat"
+poet: "Rehan"
+tags: []
+aliases: []
+published: false
+# source_id: tajpoints:f474107900087190bf44
+# source_url: https://tajpoints.com/2023/01/janasheen-e-imam-e-raza-aa-gaye-lyrics.html
+# raw_sha256: 414a009f3a46a7c35b95b2ca851c73a04645ec2b722a33a4fc1d4005cc5bbd61
+---
+
+Janasheen-e-Imam-e-Raza Aa Gaye.
+Ibn-e-Zahra-o-Mushkil Kusha Aa Gaye.
+
+1
+Hai Taqi Naam Taqwa Fazeelat Mein Hai.
+Pehne Ilm-e-Nabi Ki Qaba Aa Gaye.
+Inn Ke Farzand Hoon Gay Imam Naqi.
+Kahiye Sab Mil Ke Sad Marhaba Aa Gaye.
+
+2
+Jholiyaan Faqeeron Ki Bhar Jaein Gi.
+Sari Dunya Ke Hajat Rawa Aa Gaye.
+They Laqab Aap Ke Murtaza-o-Taqi.
+Ban Ke Behar-e-Atta-o-Sakha Aa Gaye.
+
+3
+Aap Jawad Qana Najeeb-o-Naqi.
+Habs Mein Ban Ke Taza Hawa Aa Gaye.
+Tesha-e-Ilm Se Tora But Jehal Ka.
+Aye Khusha Ibn-e-Khaybar Kusha Aa Gaye.
+
+4
+Yeh Ataon Ka Dar Yeh Taharat Ka Ghar.
+Mani Innama, Hal Atta Aa Gaye.
+Uz Muhammad Se Ta Ba Muhammad Hain Yeh.
+Mustafa Manzalat Mustafa Aa Gaye.
+
+5
+Harf-e-Taqwa Howa Muttaqi Aap Se.
+Woh Jo Taqway Ki Hai Inteha Aa Gaye.
+Aaj Rehan Baab-e-Sharf Khul Gaya.
+Hadi-o-Rehnuma Paishwa Aa Gaye.

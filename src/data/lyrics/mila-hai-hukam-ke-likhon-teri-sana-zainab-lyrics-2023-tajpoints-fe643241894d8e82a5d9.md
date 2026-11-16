@@ -1,0 +1,41 @@
+---
+title: "Mila Hai Hukam Ke Likhon Teri Sana Zainab Lyrics 2023"
+language: "Roman Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Manqabat"
+poet: "Akbar"
+tags: []
+aliases: []
+published: false
+# source_id: tajpoints:fe643241894d8e82a5d9
+# source_url: https://tajpoints.com/2023/02/mila-hai-hukam-ke-likhon-teri-sana.html
+# raw_sha256: 168c2015d30f5525aa50c14caa319128c6e68f83e5e93dc46194bfeffaca2b75
+---
+
+Mila Hai Hukam Ke Likhon Teri Sana Zainab
+Main Imtehan Se Guzra Hoon Ba Khuda Zainab.
+
+1
+Hai Nisf Sahib-e-Jageer-e-Karbala Zainab.
+So Ya Hussain Likhon Ga Parhon Ga Ya Zainab.
+Youn Tere Khutbon Ne Khainchey Naqosh-e-Illallah.
+Khuda Ka Chehra Tasawar Mein Aa Gaya Zainab.
+
+2
+Charag Le Ke Tere Hoslay Ki Chokhat Par.
+Kharey Hoye Hain Sawa Lakh Anbiya Zainab.
+Jo Aandhiyon Se Na Bigra Woh Naqsh Hai Shabeer.
+Jo Pathron Se Na Toota Woh Hosla Zainab.
+
+3
+Har Aik Rukh Se Har Ik Zawiye Se Kehna Para.
+Hai Tere Dam Pe Salamat Tera Khuda Zainab.
+Sitam Ki Aandhiyaan Kaba Gira Gi Hoti.
+Agar Na Darmiyaan Aati Teri Rida Zainab.
+
+4
+Badal Ke Rakh Diya Sara Nisab Fatha-o-Shikast.
+Keh Tu Ne Takht Ka Takhta Bana Diya Zainab.
+Hasan Hussain Ki Mojodgi Mein Bhi Akbar.
+Ali Ne Beti Ka Sar Chom Kar Kaha Zainab.

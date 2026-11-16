@@ -1,0 +1,133 @@
+---
+title: "غم حسین میں کیسا شرف یہ پایا ہے"
+alternateTitle: "Kahan Ghareeb Ka"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Mazhar Abidi"
+tags: []
+aliases: []
+published: false
+romanLyrics: |-
+  1
+  Gham e hussain may kaisa sharaf ye paaya hai
+  Ke apne haaton se mai ne alam sajaya hai
+  Suna hai aati hai majlis may fatema zehra
+  Ye baat soch ke farsh e aza bichaya hai
+  Karam ye majlis e shabbir ne kiya warna
+  Kahan ghareeb ka ghar aur kahan hussain ki maa
+  Khabar hai binte rasool e khuda ke aane ki
+  Badal rahi hai hawayein ghareeb khaane ki
+  Mera naseeb ke mehman hui meri zehra
+  Kahan ghareeb ka ghar...
+  Farishte shaah o gadagar sabhi hai pesh e nazar
+  Hai ambiya ki qataare lagi mere ghar par
+  Tumhare aane se bibi ye martaba paaya
+  Kahan ghareeb ka ghar...
+  Ye majlis e shabbir may behte hue aansu
+  Firdaus ke baaghon may saja deti hai zehra
+  Shehzadi zameen par isay girne nahi deti
+  Bach jaaye to kausar may mila deti hai zehra
+  Ye nauhakhani ye soz o salaam aur matam
+  Hamare ashq hai bibi ke zakhm ka marham
+  Agar na hote waseela ye matam o nauha
+  Kahan ghareeb ka ghar...
+  Ghareeb khane ko jannat bana diya bibi
+  Khushi ye aisi hai jisne rula diya bibi
+  Har ek ashq ne aankhon se girte girte kaha
+  Kahan ghareeb ka ghar...
+  Sar e hussain jo shireen ke ghar may aaya tha
+  Sar e hussain ke hamraah aayi thi zerha
+  Jo dekha bibi ko shireen ne ye kiya nauha
+  Kahan ghareeb ka ghar...
+  Jab kisi ghar may koi mar jaaye
+  Dunya gham baatne ko aati hai
+  Haye kitni ghareeb hai zehra
+  Pursa lene bhi chal ke aati hai
+  Ghar may mere majlis huwi
+  Aur bich gaya farsh e aza
+  Zaakir ne jab majlis padhi
+  Aur haal ruqsat ka jo padha
+  Itna royi zehra
+  Farhan aur mazhar padha
+  Nauha shahe mazloom ka
+  Tha zikr jab ashoor ka
+  Shabbir par khanjar chala
+  Itna royi zehra
+  Dete rahe ahle aza
+  Ghazi ka pursa sarwar ka pursa
+  Akbar ka qasim ka asghar ka pursa
+  Itna royi zehra
+  Zainab ka kulsoom o fizza ka pursa
+  Sajjad bali sakina ka pursa
+  Itna royi zehra
+  Baali ka pursa chadar ka pursa
+  Aun o mohamad ka baqir ka pursa
+  Itna royi zehra
+  Naizo pe rakhe har ek sar ka pursa
+  Bibi tumhare bhare ghar ka pursa
+  Itna royi zehra
+# source_id: nohayonline:6c2d01e49a97c6291702
+# source_url: https://www.nohayonline.com/details_content.php?id=936
+# raw_sha256: 139faebeacd39944443dd8e1669eaa98d691fac3c608876c6c450fab70298a98
+---
+
+۱
+غم حسین میں کیسا شرف یہ پایا ہے
+کہ اپنے ہاتھوں سے میں نے الم سجایا ہے
+سنا ہے آتی ہے مجلس میں فاطمہ زہرا
+یہ بات سونچ کے فرش عزا بچھایا ہے
+کرم یہ مجلس شبیر نے کیا ورنہ
+کہاں غریب کا گھر اور کہاں حسین کی ماں
+خبر ہے بنت رسول خدا کے آنے کی
+بدل رہی ہے ہوایں غریب خانے کی
+میرا نصیب کے مہماں ہوی میری زہرا
+کہاں غریب کا گھر۔۔۔
+فرشتے شاہ و گداگر سبھی ہیں پیش نظر
+ہیں انبیاء کی خطاریں لگی میرے گھر پر
+تمہارے آنے سے بی بی یہ مرتبہ پایا
+کہاں غریب کا گھر۔۔۔
+یہ مجلسِ شبیر میں بہتے ہوئے آنسوں
+فردوس کے باغوں میں سجا دیتی ہے زہرا
+شہزادی زمیں پر اسے گرنے نہیں دیتی
+بچ جائے تو کوثر میں ملا دیتی ہے زہرا
+یہ نوحہ خوانی یہ سوز و سلام اور ماتم
+ہمارے آشک ہے بی بی کے زخم کا مرحم
+اگر نہ ہوتے وسیلہ یہ ماتم و نوحہ
+کہاں غریب کا گھر۔۔۔
+غریب خانے کو جنت بنا دیا بی بی
+خوشی یہ ایسی ہے جس نے رلا دیا بی بی
+ہر ایک آشک نے آنکھوں سے گرتے گرتے کہا
+کہاں غریب کا گھر۔۔۔
+سر حسین جو شیریں کے گھر میں آیا تھا
+سر حسین کے ہمراہ آی تھی زہرا
+جو دیکھا بی بی کو شیریں نے یہ کیا نوحہ
+کہاں غریب کا گھر۔۔۔
+جب کسی گھر میں کوئی مر جائے
+دنیا غم بانٹنے کو آتی ہے
+ہاے کتنی غریب ہے زہرا
+پرسہ لینے بھی چل کے آتی ہیں
+گھر میں میرے مجلس ہوی
+اور بچھ گیا فرش عزا
+ذاکر نے جب مجلس پڑھی
+اور حال رخصت کا جو پڑھا
+اتنا روی زہرا
+فرحان اور مظہر پڑھا
+نوحہ شہ مظلوم کا
+تھا ذکر جب عاشور کا
+شبیر پر خنجر چلا
+اتنا روی زہرا
+دیتے رہے اہل عزا
+غازی کا پرسہ سرور کا پرسہ
+اکبر کا قاسم کا اصغر کا پرسہ
+اتنا روی زہرا
+زینب کا کلثوم و فضہ کا پرسہ
+سجاد بالی سکینہ کا پرسہ
+اتنا روی زہرا
+بالی کا پرسہ چادر پرسہ
+عون و محمد کا باقر کا پرسہ
+اتنا روی زہرا
+نیزوں پہ رکھے ہر ایک سر کا پرسہ
+بی بی تمہارے بھرے گھر کا پرسہ
+اتنا روی زہرا

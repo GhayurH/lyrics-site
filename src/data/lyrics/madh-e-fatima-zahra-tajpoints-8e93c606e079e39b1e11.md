@@ -1,0 +1,44 @@
+---
+title: "Madh-e-Fatima Zahra"
+language: "Roman Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Manqabat"
+poet: "Nawazish"
+tags: []
+aliases: []
+published: false
+# source_id: tajpoints:8e93c606e079e39b1e11
+# source_url: https://tajpoints.com/2020/04/madh-e-fatima-zahra-lyrics-in-urdu-and.html
+# raw_sha256: 0fb0e2df9468bb2db3e9e3a3691832ec00559c33fa396fce0de67f5575b957c9
+---
+
+1
+Tauheed Ka Nishan Sadaqat Hain Fatima.
+Tanha Daleel-e-Khatam-e-Nabowat Hain Fatima
+Haqqa Keh Razdar-e-Mashiyat Hain Fatima.
+Aaina-e-Jamal-e-Nabowat Hain Fatima.
+
+2
+Khuda Ne Hadi-e-Barhaq Se Youn Kalam Kiya.
+Rasool-e-Pak Yeh Azmat Tumhein Mubarak Ho.
+Yeh Meri Khas Inayat Hain Fatima Zahra.
+Mere Hijab Ki Ismat Tumhein Mubarak Ho.
+
+3
+Tum Hi Ho Rehmat-e-Parwardigar Do Aalam.
+Magar Yeh Tum Pe Bhi Rehmat Tumhein Mubarak Ho.
+Woh Jiski Oat Mein Wahdat Ke Raaz Pinha Hain.
+Zahoor-e-Pardah-e-Wahdat Tumhein Mubarak Ho.
+
+4
+Nijat Ka Hai Waseela Mashiyat-e-Qudrat.
+Daleel-e-Khatam-Nabowat Tumhein Mubarak Ho.
+Yehi Hai Izzat-o-Baqa-e-Baqa-e-Deen-e-Khuda.
+Taharton Ki Taharat Tumhein Mubarak Ho.
+
+5
+Inhi Se Bag-e-Wilayat Ke Phool Mehkein Gaye.
+Yeh Hain Mizaj-e-Nabowat Tumhein Mubarak Ho.
+ Nawazish Our Muzamil Naseeb Tu Dekho.
+Mili Hai Tum Ko Shifat Tumhein Mubarak Ho.
