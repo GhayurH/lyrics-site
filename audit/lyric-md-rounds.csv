@@ -978,8 +978,8 @@ src/data/lyrics/charaghe-hussain.md,round_1,present,nohayonline,nohayonline:e398
 src/data/lyrics/charaghe-shaame.md,round_1,present,nohayonline,nohayonline:2051c0de1b46ebd1a8d1,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/chashme-sajjad-ne.md,round_1,present,nohayonline,nohayonline:b4dc1c55f307045520f7,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/chauda-sadiyan.md,round_1,present,nohayonline,nohayonline:52526dac4ae801e6b7da,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/chehlum-jo-karbala-may.md,round_1,present,nohayonline,nohayonline:bd09b1d914b981ace40b,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/chehlum-jo-karbala-mein-bahattar-ka-ho-chuka.md,original,present,,,main,
+src/data/lyrics/chehlum-jo-karbala-may.md,round_1,consolidated,nohayonline,nohayonline:bd09b1d914b981ace40b,feat/import-overlap-reconciliation-2026-11-05,"2026-11-15 merged source-only stanzas 3 5 9 10 as canonical stanzas 11-14 in chehlum-jo-karbala-mein-bahattar-ka-ho-chuka.md. Alternate second-stanza couplet retained in canonical provenance comments; imported standalone and provisional ID deleted."
+src/data/lyrics/chehlum-jo-karbala-mein-bahattar-ka-ho-chuka.md,original,present,,,main,"2026-11-15 Basta Marsiya 99 linked canonical: preserves existing numbered stanzas 1-10 and appends four unique NoHayOnline stanzas 11-14; source variant couplet archived in comments; Basta pages 263-264 unchanged."
 src/data/lyrics/chehlum-karne-aayi.md,round_1,present,nohayonline,nohayonline:fffae056cb76d2b5fd9b,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/chehlum-karo.md,round_1,present,nohayonline,nohayonline:3b2b2de42124888eeea1,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/chehlum-manane-bhai.md,round_1,present,nohayonline,nohayonline:92a571fed00f749bd5c8,feat/import-overlap-reconciliation-2026-11-05,
@@ -1163,7 +1163,7 @@ src/data/lyrics/gar-haq-ki-justuju.md,round_1,present,nohayonline,nohayonline:3b
 src/data/lyrics/gar-tujh-ko-hai-yaqeen-e-ejabat-dua-na-maang.md,round_1,present,tajpoints,tajpoints:fb854ca85f3eda2a1ef0,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/gardan-pe-teer.md,round_1,present,nohayonline,nohayonline:76e2af2b3896984a9d4e,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/garm-reti-pa-mai.md,round_1,present,nohayonline,nohayonline:1b5632727f84fa266f1b,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/ghabraegi-zainab.md,round_1,present,nohayonline;ziyaraat,nohayonline:60d45e613b700bfb444c;ziyaraat:9a8132f8af382a9eda9e,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/ghabraegi-zainab.md,round_1,present,nohayonline;ziyaraat,nohayonline:60d45e613b700bfb444c;ziyaraat:9a8132f8af382a9eda9e,feat/import-overlap-reconciliation-2026-11-05,"2026-11-15 kept substantive NoHayOnline/Ziyaraat variant of Basta page 346; source poet attribution differs. Not the unrelated Mir Takallum gharrayegi poem."
 src/data/lyrics/ghabrayegi-zainab.md,round_1,present,nohayonline,nohayonline:5b62f489e9e0fc065eda,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ghabrayi-hai-zainab.md,round_1,present,nohayonline;ziyaraat,nohayonline:35bb693d267c77ae5968;ziyaraat:18ce8b3f65952c5a2c01,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ghadeer-e-khum-pe-hua-intekhaab-kaafi-hai.md,round_1,present,tajpoints,tajpoints:b4e073edc0feb6b59896,feat/import-overlap-reconciliation-2026-11-05,
@@ -2466,7 +2466,7 @@ src/data/lyrics/pardes-hai-ghurbat.md,round_1,present,nohayonline,nohayonline:5d
 src/data/lyrics/pardes-may-zainab-kho.md,round_1,present,nohayonline,nohayonline:5f75940ce883bd547a12,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/pardes-mein-barbad.md,round_1,present,nohayonline,nohayonline:20f3eb560b948cdc47cf,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/pardes-mein-zehr-se.md,round_1,present,nohayonline,nohayonline:a202baaf3e86b05be367,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/pardesi-kunbe-walon.md,round_1,present,nohayonline;ziyaraat,nohayonline:13e46e3f208eb299723c;ziyaraat:044ae900c9b2c99cccdb,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/pardesi-kunbe-walon.md,round_1,present,nohayonline;ziyaraat,nohayonline:13e46e3f208eb299723c;ziyaraat:044ae900c9b2c99cccdb,feat/import-overlap-reconciliation-2026-11-05,"2026-11-15 retained edition with one additional independent couplet and substantive variants against Basta page 348; source preserved."
 src/data/lyrics/pardesi-musafir.md,round_1,present,nohayonline,nohayonline:f15dcacb2d1cd1093a2b,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/parhdaan-qasida-haq-de-wali-da.md,round_1,present,tajpoints,tajpoints:4a875ca8ccc568dccd73,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/parwan-chadalun.md,round_1,present,nohayonline,nohayonline:f7599bb286e98bae4526,feat/import-overlap-reconciliation-2026-11-05,
