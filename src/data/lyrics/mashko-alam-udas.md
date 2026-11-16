@@ -40,6 +40,11 @@ romanLyrics: |-
 # source_id: nohayonline:c9cda7b855a36bdfed07
 # source_url: https://www.nohayonline.com/details_content.php?id=242
 # raw_sha256: ee0bd16973d5072cb5ed29f5495d36449524fde6db26fa55cc43d6656ba199b1
+# source_id: nohawriteups:f273d557bec5584734d1
+# source_url: https://www.nohawriteups.org/mashko-alam-udas-hai-sadqa/
+# original_html: snapshots/nohawriteups/original_html/f273d557bec5584734d1.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/f273d557bec5584734d1.json
+# api_content_sha256: 895479bf01c810c3e24d95261cb0c672ec01ff34c3dffdf8e92eb16edb46de15
 ---
 
 مشک و علم اداس ہے سقہ اداس ہے
