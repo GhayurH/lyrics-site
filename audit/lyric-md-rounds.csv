@@ -905,6 +905,7 @@ src/data/lyrics/bhaiya-mujhe-bhool.md,round_1,present,nohayonline,nohayonline:d4
 src/data/lyrics/bhaiya-tum-laut-ke.md,round_1,present,nohayonline,nohayonline:83558addca439310b8e2,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/bhaiya-ye-sitam.md,round_1,present,nohayonline,nohayonline:19c20244412aec899412,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/bhare-darbar-may.md,round_1,present,nohayonline,nohayonline:b575ebe0f0a905d5b1df,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/bhare-darbar-mein-roti-rahi-khari-zahra-tajpoints-4ce38d9526786a74f097.md,round_2,consolidated,tajpoints,tajpoints:4ce38d9526786a74f097,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/bhare-darbar-mein-roti-rahi-khari-zehra.md on 2026-11-16
 src/data/lyrics/bhaya-tere-chehlum-ke.md,round_1,present,ziyaraat,ziyaraat:61ea848926d0692bf490;ziyaraat:22599916c49c09b0c593,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/bhool-paayi-sakina.md,round_1,present,nohayonline,nohayonline:e9cfc93a07f278e94963,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/bhoola-hai-na.md,round_1,present,nohayonline;ziyaraat,nohayonline:fc877915af7bb21d3e50;ziyaraat:9cfc131706aac92186e1,feat/import-overlap-reconciliation-2026-11-05,
@@ -1372,6 +1373,9 @@ src/data/lyrics/haye-muslim-ke-pisar.md,round_1,present,nohayonline,nohayonline:
 src/data/lyrics/haye-namazi.md,round_1,present,nohayonline,nohayonline:eccdab4de935b66a1421,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/haye-naqi-maula.md,round_1,present,nohayonline,nohayonline:04b96f20b64cb4187075,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/haye-qasim-jaag.md,round_1,present,nohayonline,nohayonline:190b7efac5bacb26cd77,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/haye-qayamat-ka-hai-samaa-chanay-lagi-sham-e-ghareeban-nw-6278df9873d2.md,round_2,consolidated,nohawriteups,nohawriteups:6278df9873d2adbfdff2,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/haye-qayamat-ka-hai-samaa.md on 2026-11-16
+src/data/lyrics/haye-qayamat-ka-hai-samaa-chane-lagi-sham-e-garibaan-nw-d4ac6deff460.md,round_2,consolidated,nohawriteups,nohawriteups:d4ac6deff460b9e733e3,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/haye-qayamat-ka-hai-samaa.md on 2026-11-16
+src/data/lyrics/haye-qayamat-ka-hai-samaa.md,round_2,present,nohawriteups,nohawriteups:6278df9873d2adbfdff2;nohawriteups:d4ac6deff460b9e733e3,round2-kalams-2026-11-14,Eight-stanza consolidation of two source versions on 2026-11-16
 src/data/lyrics/haye-raza-veran-aye-rahwaan-takdi-rendi-masooma.md,round_1,present,tajpoint,tajpoint:61a283c0734b6ce1ce2e,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/haye-re-majburiyan.md,round_1,present,nohayonline,nohayonline:baa5fee03cc20dd4fb52,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/haye-sadaat.md,round_1,present,nohayonline;ziyaraat,nohayonline:b1e4b93b870dd97696ca;ziyaraat:170c32c13b0945991823,feat/import-overlap-reconciliation-2026-11-05,
@@ -3281,6 +3285,8 @@ src/data/lyrics/yeh-auliya-ka-ghurur-sehra.md,round_1,present,tajpoints,tajpoint
 src/data/lyrics/yeh-baat-maan-lijiye-takrar-ke-bagair.md,round_1,present,tajpoints,tajpoints:f344810208b14752fa43,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/yeh-jo-fizza-ne-ki-naukri-hai.md,round_1,present,tajpoints,tajpoints:3b6ece56c47e8c20135c,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/yeh-maula-ali-hai.md,original,present,,,main,
+src/data/lyrics/yeh-raaz-kya-hai-duniya-kai-bananay-waalay-nw-c1de9d7e4f78.md,round_2,consolidated,nohawriteups,nohawriteups:c1de9d7e4f784f056113,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/yeh-raaz-kya-hai-duniya-ke-banane-wale.md on 2026-11-16
+src/data/lyrics/yeh-raaz-kya-hai-duniya-kay-bananay-valay-nw-b4a17b48d21f.md,round_2,consolidated,nohawriteups,nohawriteups:b4a17b48d21f44a9418a,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/yeh-raaz-kya-hai-duniya-ke-banane-wale.md on 2026-11-16
 src/data/lyrics/yeh-raaz-kya-hai-duniya-ke-banane-wale.md,original,present,,,main,
 src/data/lyrics/yeh-soch-hoon-keh-abid-ka-haal-kya-ho-ga.md,round_1,consolidated,tajpoints,tajpoints:95b00579bdef40f7ab56,feat/import-overlap-reconciliation-2026-11-05,Consolidated into src/data/lyrics/ye-sochta-hoo.md on 2026-11-16; same complete poem
 src/data/lyrics/yehi-hai-sakina.md,round_1,present,nohayonline,nohayonline:56fac90df8cbc837f2b6,feat/import-overlap-reconciliation-2026-11-05,

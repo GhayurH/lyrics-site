@@ -58,6 +58,10 @@ romanLyrics: |-
 # additional_source_url: https://www.nohawriteups.org/bharay-darbaar-mein-roti-rahi-khari-zahra/
 # additional_raw_sha256: fea365d3863954c5542a514d2bfe314804bb788756ae7024c362b29b0d0df514
 # editorial_note: Two Roman sources have seven shared stanzas, but the second includes a substantive Urdu-only stanza on Murtaza and the rope. All eight retained; additional Urdu reconstructed for three earlier stanzas, and stanza 7 Roman transliterated manually. Urdu and transliteration require final review; no duplicate file created.
+# source_id: tajpoints:4ce38d9526786a74f097
+# source_url: https://tajpoints.com/2017/02/bhare-darbar-mein-roti-rahi-khari-zahra.html
+# raw_sha256: d61797b72ec4d92b17bf9a38ef4ef01696517ad9a3b30faffdff33de1636bdbe
+# editorial_note: Tajpoints Roman witness includes six stanzas already contained in the existing eight-stanza bilingual edition. Kept all eight and the previous editorial notes; merged additional provenance.
 ---
 
 بھرے دربار میں روتی رہی کھڑی زہراؑ
