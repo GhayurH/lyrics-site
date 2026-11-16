@@ -15,6 +15,7 @@ published: true
 # raw_sha256: 924f0b4d9e30664637d288aa909df15e3a8810c29b3702edab93e50c988519a5
 # source_id: tajpoints:3ec6d99e30275aa98b74
 # source_url: https://tajpoints.com/2017/04/likh-qalam-sani-e-zahra-ki-sana_28.html
+# raw_sha256: 4f8320bb8dae1ffe4064ecf4722ad66864e5913c2a173d8383f5b76d20dd21a9
 romanLyrics: |-
   1
   Likh qalam Sani-e-Zahra ki sana Bismillah
