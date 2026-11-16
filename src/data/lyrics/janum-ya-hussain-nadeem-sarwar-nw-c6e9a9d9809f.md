@@ -4,6 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+reciter: "Nadeem Sarwar"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,279 +13,73 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/c6e9a9d9809fc5059253.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/c6e9a9d9809fc5059253.json
 # api_content_sha256: 61b9ee95b2cfd53ff422a31945aa1dddd741d200280294a85449819979b9de49
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Two matching sources manually reconciled. Restored the unique opening appeal from TajPoints and retained all substantive verse groups; repeated recorded refrains were removed. Eight numbered Roman stanzas pending spelling review.
+# source_id: tajpoints:0f70db4d9d3fa546f773
+# source_url: https://tajpoints.com/2019/12/janum-ya-hussain-lyrics-in-urdu-and.html
+# raw_sha256: 54c8bc129c462eb2d84bbb94fb373944d4fd19dbfee1298ab6e381530a9118fb
 ---
 
-Maula Ya Hussain!!!
-
-Maula Ya Hussain!!!
-
-Ya Hussain.. Ya Hussain Ya Hussain Ya Hussain
-
-Maula Ya Hussain!!!
-
-Maula Ya Hussain!!!
-
-Ya Hussain.. Ya Hussain Ya Hussain Ya Hussain
-
-Hussain ka jo sog hai na khatm hoga ba khuda..(2)
-
-Moharram o safar na ho to ghum na hoga saath kya?..(2)
-
-zindagi ke saath bhi, zindagi ke baad bhi
-
-zindagi ke saath bhi, zindagi ke baad bhi..(2)
-
-Baadshah hamara Ya Hussain.. Hussain
-
-Janam Ya Hussain..!!!
-
-Janam Ya Hussain..!!!
-
-Janam Ya Hussain..!!!.. Hussain, Hussain
-
-Janam Ya Hussain..!!!
-
-Janam Ya Hussain..!!!
-
-Janam Ya Hussain..!!!.. Hussain, Hussain
-
-Maula awaaz do, hume parwaaz do
-
-hum azadaro ki taqdeer jaga do
-
-aapka saath ho aapki baat ho
-
-dil mera apna azakhana bana do
-
-Maula Maula Hussain, Ya Maula Hussain..(2)
-
-zindagi ke saath bhi, zindagi ke baad bhi
-
-Baadshah hamara Ya Hussain.. Hussain
-
-Janam Ya Hussain..!!!
-
-Janam Ya Hussain..!!!
-
-Janam Ya Hussain..!!!.. Hussain, Hussain
-
-Janam Ya Hussain..!!!
-
-Janam Ya Hussain..!!!
-
-Janam Ya Hussain..!!!.. Hussain, Hussain
-
-Zinda wafadari rahe, farshe azadari rahe
-
-tujhpe jiye, tujhpe mare
-
-naukri ye chalti rahe
-
-hum rahe na rahe, hum jiye na jiye
-
-hum chale ya ruke
-
-is jaha’n ke saath bhi, is jaha’n ke baad bhi..(2)
-
-Baadshah hamara Ya Hussain.. Hussain
-
-Janam Ya Hussain..!!!
-
-Janam Ya Hussain..!!!
-
-Janam Ya Hussain..!!!.. Hussain, Hussain
-
-Janam Ya Hussain..!!!
-
-Janam Ya Hussain..!!!
-
-Janam Ya Hussain..!!!.. Hussain, Hussain
-
-Badshah, badshah, badshah Ya Hussain..(2)
-
-zindagi ke saath bhi, zindagi ke baad bhi
-
-Baadshah hamara Ya Hussain.. Hussain
-
-Tera ye ghum saath rahe, tera karam saath rahe
-
-chalte rahe ehle azaa, aur alam saath rahe
-
-har qadam dum-badam, saath ho tera ghum
-
-karbala ki qasam
-
-dhadkano ke saath bhi, dhadkano ke baad bhi..(2)
-
-Baadshah hamara Ya Hussain.. Hussain
-
-Janam Ya Hussain..!!!
-
-Janam Ya Hussain..!!!
-
-Janam Ya Hussain..!!!.. Hussain, Hussain
-
-Janam Ya Hussain..!!!
-
-Janam Ya Hussain..!!!
-
-Janam Ya Hussain..!!!.. Hussain, Hussain
-
-Maula awaaz do, hume parwaaz do
-
-hum azadaro ki taqdeer jaga do
-
-aapka saath ho aapki baat ho
-
-dil mera apna azakhana bana do
-
-Maula Maula Hussain, Ya Maula Hussain..(2)
-
-zindagi ke saath bhi, zindagi ke baad bhi
-
-Baadshah hamara Ya Hussain.. Hussain
-
-Maula mere dil ki sada, maang raha hu ye dua
-
-maula tere naam rahe, jeena mera marna mera
-
-Aye khuda, sun sada, hai yehi iltejaa
-
-tu dikha karbala
-
-is dua ke saath bhi, is dua ke baad bhi
-
-Baadshah hamara Ya Hussain.. Hussain
-
-Janam Ya Hussain..!!!
-
-Janam Ya Hussain..!!!
-
-Janam Ya Hussain..!!!.. Hussain, Hussain
-
-Janam Ya Hussain..!!!
-
-Janam Ya Hussain..!!!
-
-Janam Ya Hussain..!!!.. Hussain, Hussain
-
-Badshah, badshah, badshah Ya Hussain..(2)
-
-zindagi ke saath bhi, zindagi ke baad bhi
-
-Baadshah hamara Ya Hussain.. Hussain
-
-Aaqa shahe karbobala, tune bada kaam kiya
-
-deen pe sab waar diya, phir bhi tera sar na jhuka
-
-ghar diya, sar diya, bach gaya la ilaah
-
-saj gayi karbala
-
-karbala ke saath bhi, karbala ke baad bhi..(2)
-
-Baadshah hamara Ya Hussain.. Hussain
-
-Janam Ya Hussain..!!!
-
-Janam Ya Hussain..!!!
-
-Janam Ya Hussain..!!!.. Hussain, Hussain
-
-Janam Ya Hussain..!!!
-
-Janam Ya Hussain..!!!
-
-Janam Ya Hussain..!!!.. Hussain, Hussain
-
-Maula awaaz do, hume parwaaz do
-
-hum azadaro ki taqdeer jaga do
-
-aapka saath ho aapki baat ho
-
-dil mera apna azakhana bana do
-
-Maula Maula Hussain, Ya Maula Hussain..(2)
-
-zindagi ke saath bhi, zindagi ke baad bhi
-
-Baadshah hamara Ya Hussain.. Hussain
-
-Jeete raho ehle azaa, dil mein rahe karbobala
-
-shaad raho chalte raho, pehne hue shale azaa
-
-hai dua, ho sadaa, har jagah, ye azaa
-
-ye sadaa ye nawaa
-
-majliso ke saath bhi, majliso ke baad bhi..(2)
-
-Baadshah hamara Ya Hussain.. Hussain
-
-Janam Ya Hussain..!!!
-
-Janam Ya Hussain..!!!
-
-Janam Ya Hussain..!!!.. Hussain, Hussain
-
-Janam Ya Hussain..!!!
-
-Janam Ya Hussain..!!!
-
-Janam Ya Hussain..!!!.. Hussain, Hussain
-
-Maula awaaz do, hume parwaaz do
-
-hum azadaro ki taqdeer jaga do
-
-aapka saath ho aapki baat ho
-
-dil mera apna azakhana bana do
-
-Maula Maula Hussain, Ya Maula Hussain..(2)
-
-zindagi ke saath bhi, zindagi ke baad bhi
-
-Baadshah hamara Ya Hussain.. Hussain
-
-Nabi, Ali o Fatima, Hasan ke chayn Marhaba!
-
-Maula Maula Hussain, Ya Maula Hussain
-
-Khuda ke noor, panjetan ke noor e ayn Marhaba!
-
-Maula Maula Hussain, Ya Maula Hussain
-
-Sada rahe ye silsila, na toote tujhse raabta
-
-tu dhadkano mein bus gaya, tu rooh mein sama gaya
-
-tu dhadkano mein bus gaya, Hussain..
-
-tu rooh mein sama gaya, Hussain..
-
-lahu mein mere goonjta, Hussain..
-
-hamara hai ata pata, Hussain..
-
-Salam aashiq e Khuda
-
-Salam jaan e Mustafa
-
-Salam qalb e Murtaza
-
-Salam rooh e Fatima
-
-Salam shah e karbala
-
-Ghareeb e Nainawa
-
-Ghareeb e Fatima
-
-Ghareeb e Murtaza
-
-Hussain Ya Hussain..(3)
+Badshah Hamara Ya Hussain
+Azadar-e-Hussain Sab Mil Ke Hum Aawaz Ho Ke
+Haan Maula Ya Hussain Ya Hussain Ya Hussain Ya Hussain
+Hussain Ka Jo Soag Hai Na Khatam Ho Ga Ba-Khuda
+Muharram-o-Safar Na Hoon Tu Gham Na Ho Ga Sath Kya?
+Zindagi Ke Sath Bhi Zindagi Ke Baad Bhi
+Badshah Hamara Ya Hussain Janum Ya Hussain
+Janam Ya Hussain
+
+1
+Maula Aawaz Do Humein Parwaz Do
+Hum Azadaron Ki Taqdeer Jaga Do
+Aap Ka Sath Ho Aap Ki Baat Ho
+Dil Mera Apna Azakhana Bana Do
+
+2
+Zindah Wafadari Rahe Farsh-e-Azadari Rahe
+Tujh Pe Jeein Tujh Pe Marein Nokari Yeh Chalti Rahe
+Hum Rahein Na Rahein Hum Jeein Na Jeein Hum Chalein Ya Rukein
+Iss Jahan Ke Sath Bhi Iss Jahan Ke Baad Bhi
+
+3
+Tera Yeh Gham Sath Rahe Tera Karam Sath Rahe
+Chalte Rahein Ahl-e-Azza Our Alam Sath Rahe
+Har Qadam Dam Ba Dam Sath Ho Tera Gham Karbala Ki Qasam
+Dharkano Ke Sath Bhi Dharkano Ke Baad Bhi
+
+4
+Maula Mere Dil Ki Sada Mang Raha Hoon Yeh Dua
+Maula Tere Naam Rahe Jeena Mera Marna Mera
+Aye Khuda Sun Sada Hai Yehi Iltija Tu Dikha Karbala
+Iss Dua Ke Sath Bhi Iss Dua Ke Baad Bhi
+
+5
+Aaqa Sheh-e-Karb-o-Bala Tu Ne Bara Kam Kiya
+Deen Pe Sab Waar Diya Phir Bhi Tera Sar Na Jhuka
+Ghar Diya Sar Diya Ban Gaya LaIlaha Saj Gayi Karbala
+Karbala Ke Sath Bhi Karbala Ke Baad Bhi
+
+6
+Jeetay Raho Ahl-e-Azza Dil Mein Rahe Karb-o-Bala
+Shad Raho Chalte Raho Pehne Hoye Shal-e-Azza
+Hai Dua Ho Sada Har Jagah Yeh Azza Yeh Sada Yeh Nawa
+Majlison Ke Sath Bhi Majlison Ke Baad Bhi
+
+7
+Nabi Ali-o-Fatima Hasan Ke Chain Marhaba
+Khuda Ke Noor Panjtan Ke Noor-e-Ain Marhaba
+Sada Rahe Yeh Silsila Na Totay Tum Se Rabta
+Tu Dharkano Mein Bas Gaya Tu Rooh Mein Sama Gaya
+Tu Dharkano Mein Bas Gaya Hussain
+Tu Rooh Mein Sama Gaya Hussain
+Lahu Mein Mere Gonjta Hussain
+Hamara Hai Atta Pata Hussain
+
+8
+Salam Ashiq-e-Khuda
+Salam Jan-e-Mustafa
+Salam Qalb-e-Murtaza
+Salam Roh-e-Fatima
+Salam Shah-e-Karbala
+Ghareeb-e-Nainawa
+Ghareeb-e-Fatima
+Ghareeb-e-Murtaza
