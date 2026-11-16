@@ -4,6 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+reciter: "Ali Jee"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,7 +13,10 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/47e8e7297fc12166d6d1.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/47e8e7297fc12166d6d1.json
 # api_content_sha256: 935ff04480ce6dd774b4f83f7adb3e0527d46b084f72892149f1536044555b1e
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Both matching source witnesses consolidated. The longer NohaWriteups Roman edition is preserved; source spelling variants and stanza/refrain cleanup remain for review.
+# source_id: tajpoints:281135016cda33a7ed9c
+# source_url: https://tajpoints.com/2022/08/ya-ghazi-ali-jee-lyrics-in-urdu-and.html
+# raw_sha256: 7a6706f621f3a408aa16266b30e8605ff0ccca5de039d9f0ef724b48ac62fd29
 ---
 
 Abbas Abbas

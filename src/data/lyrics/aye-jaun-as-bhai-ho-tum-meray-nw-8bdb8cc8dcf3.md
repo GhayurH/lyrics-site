@@ -4,6 +4,8 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Sajjad"
+reciter: "Mir Hasan Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,7 +14,10 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/8bdb8cc8dcf323a61ca7.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/8bdb8cc8dcf323a61ca7.json
 # api_content_sha256: 443cc631b8c6c8e49cc71d2b828ce6ceaf006c40a6bded9c7ea91f5123cc1723
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Both matching source witnesses consolidated. The longer NohaWriteups Roman edition is preserved; source spelling variants and stanza/refrain cleanup remain for review.
+# source_id: tajpoints:a0a19e783770141416df
+# source_url: https://tajpoints.com/2021/08/aye-jaun-bhai-ho-tum-meray-mir-hasan.html
+# raw_sha256: fc1b1b219cd2355f2e3e6698f8130c1cf8f2dc22629e270dbaa1e141eb6ec2ab
 ---
 
 Aye Jaun Bhai Ho Tum Meray
