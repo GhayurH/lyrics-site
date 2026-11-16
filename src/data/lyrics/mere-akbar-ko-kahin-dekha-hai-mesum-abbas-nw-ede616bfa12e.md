@@ -4,6 +4,8 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Salman Azmi"
+reciter: "Mesum Abbas"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,7 +14,10 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/ede616bfa12e32bba5ba.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/ede616bfa12e32bba5ba.json
 # api_content_sha256: 2a0504d9ca5f5477712bda8558041f8cfe76274703de551ebe235c038493891f
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Two source witnesses consolidated; this unpublished Roman-only draft still requires transliteration and stanza editorial review.
+# source_id: tajpoints:cc2df6675120ad0ab4fb
+# source_url: https://tajpoints.com/2022/10/mere-akbar-ko-kahin-dekha-hai-mesum.html
+# raw_sha256: 967e23c41cb6bf0ad1ed4d952190c33d47682d10d2f446dfbf404e9157df6800
 ---
 
 Haye AKBAR Haye AKBAR
@@ -165,4 +170,3 @@ Mere AKBAR Ko Kahi Dekha Hai
 
 Mere AKBAR Ko Kahin Dekha Hai
 
-Muharram 2022/1444 | New Nohay 2022 | MERE AKBAR KO KAHIN DEKHA HAI 2022 video by Mesum Abbas reciting (Official Video) © 2022 Mesum Abbas

@@ -4,6 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Zeeshan Abidi"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,7 +13,10 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/629d66246c296d1014e0.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/629d66246c296d1014e0.json
 # api_content_sha256: c57f2d5188e78995fb7ed9039a2b09057f180c087e038a8a57d0b99ecb551dc8
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Two source witnesses consolidated; this unpublished Roman-only draft still requires transliteration and stanza editorial review.
+# source_id: tajpoint:4238700d38d054d18293
+# source_url: https://tajpoint.com/hussain-ka-sar-zeeshan-abidi-lyrics-urdu-2024/
+# raw_sha256: 0a0aecbd18a80b7f01dd87291af1d0097098703f3f6d9cbe973c7f24d18b2ecc
 ---
 
 Bahan ke samne kaata gaya Hussain ka sar
@@ -42,4 +46,3 @@ Jab uske samne la kar rakha Hussain ka sar
 Lipat ke sogayi Zeeshan baap se beti
 Andheri qaid mein jis dam mila Hussain ka sar
 
-Shared via Nohay Writeups for iOS

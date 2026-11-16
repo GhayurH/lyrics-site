@@ -3,7 +3,9 @@ title: "Woh Waqt Yaqeenan Ayega"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
-kalamType: "Noha"
+kalamType: "Manqabat"
+poet: "Gohar"
+reciter: "Mir Hasan Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,7 +14,10 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/cd40deed7f9c551a3686.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/cd40deed7f9c551a3686.json
 # api_content_sha256: d0ff040429b8893f0bccb2e468e3bba833951236b99a7bc3f09d483675cca75f
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Two source witnesses consolidated; this unpublished Roman-only draft still requires transliteration and stanza editorial review.
+# source_id: tajpoints:a670d21b314df6a6b1d4
+# source_url: https://tajpoints.com/2021/08/woh-waqt-yaqeenan-ayega-mir-hasan-mir.html
+# raw_sha256: 5fdce4d571ec25f387f402f14df2b4f6b257fe4593321e750a92a6ab918ec997
 ---
 
 Woh Waqt Yaqeenan Ayega
