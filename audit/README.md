@@ -14,6 +14,8 @@ npm run --silent content:review -- --csv > review.csv      # Excel-friendly UTF-
 npm run --silent content:review -- --json > review.json    # Structured report
 ```
 
+`audit/manual-md-review-tracker.csv` is the **one active manual editorial register** for unfinished source decisions. It records source comparisons, duplicate adjudication, Roman transliteration, Urdu completeness, stanza alignment and metadata review. Statuses such as `pending`, `partial_review` and `blocked` are unresolved, even when automated checks pass. Its source-specific notes must not be discarded or marked complete by a mechanical normalization. Complete reviews against original source files/scans and update the existing row; do not create parallel import trackers or chronological reports in Git. The original external identifiers and URLs belong with each imported poem's Markdown provenance comments. See [Quality assurance](../docs/QUALITY_ASSURANCE.md#editorial-acceptance-and-merging) for the release gate.
+
 The single source reviewer covers all standalone lyrics and both Basta editions. It checks stanza labels, verse/fragment alignment, Unicode/script contamination, extended Latin transliteration, known editorial uncertainty phrases, frontmatter, missing editions, and indexed Basta source mapping. It replaces the older separate Basta catalog and Python OCR reports. **Findings are advisory and never change source text.** Inspect scans before correcting uncertain readings. Weekly CI uploads the scan-linked `content-review` artifact with a short retention period.
 
 ## Pages deployment cleanup

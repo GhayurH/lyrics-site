@@ -47,6 +47,12 @@ Use only the IDs you personally reviewed against the source images and the exist
 
 Remove extra blank lines at the *end* of poetry Markdown only; keep one final newline and preserve all internal stanza spacing and source wording.
 
+## Imported-source acceptance
+
+Keep the external `# source_id` / `# source_url` provenance comments on imported poems. Compare each candidate with existing standalone poems, the Basta index and the original source before deciding it is distinct; matching titles alone do not establish duplication. Consolidate unique stanzas and metadata into the surviving original rather than publishing duplicate source records.
+
+Record manual duplicate decisions, Urdu/Roman source alignment, transliteration, stanza integrity and uncertain readings in the **existing** `audit/manual-md-review-tracker.csv`. `pending`, `partial_review`, `spot_checked` and `blocked` do not mean an entire poem has completed human review. Source-wide normalizers, successful builds and editorial baselines do not authorize changing these statuses to `reviewed`. Preserve source-specific notes until the underlying question is resolved; do not add temporary imported-cohort registers or chronological audit documents.
+
 ## Engineering standards
 
 - **One source of truth per behavior.** Parsing and source roles belong in `src/lib/`; server HTML in Astro; client DOM rendering in specialized view modules; browser interaction/state in controllers; remote API effects in services. Avoid a new implementation just because a route or device has a different entrypoint.

@@ -29,7 +29,8 @@ Local Astro preview does not emulate Cloudflare D1 Functions or R2 routing; test
 - [Architecture](docs/ARCHITECTURE.md) — dependency boundaries and **single owners** for source models, browser features and CSS.
 - [Contributing](docs/CONTRIBUTING.md) — source editing, synchronization, engineering standards and review.
 - [Transliteration](docs/TRANSLITERATION.md) — the sole Roman Urdu spelling and pronunciation standard.
-- [Quality assurance](docs/QUALITY_ASSURANCE.md) — automated and manual verification.
+- [Quality assurance](docs/QUALITY_ASSURANCE.md) — automated checks, manual editorial acceptance and release verification.
+- [Source review tools](audit/README.md) — the active editorial review queue and read-only reporting.
 - [Assets](docs/ASSET_WORKFLOW.md) — external scans, fonts, upload and preview routing.
 - [Recitation Sets](docs/RECITATION_SETS.md) — product behavior, source identity and security.
 - [Operations](docs/RECITATION_OPERATIONS.md) — D1, scheduled cleanup and deployment.

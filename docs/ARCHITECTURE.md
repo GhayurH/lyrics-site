@@ -24,7 +24,7 @@ Keep `src/lib/` free of browser globals. The common browser `client/dom.ts` crea
 
 | Owner | Contract |
 | --- | --- |
-| `src/data/lyrics/*.md` | Standalone Urdu text and Roman `romanLyrics` metadata |
+| `src/data/lyrics/*.md` | Standalone original text, Roman `romanLyrics`, display titles, metadata and external-source provenance comments |
 | `src/data/basta/pages/*.md` | Printed Urdu body, optional `romanLyrics: |-` block, original scan and page metadata in one file |
 | `src/data/basta/index.json` | Printed index entries, source locations and index identity |
 | `src/data/basta/fragment-roles.json` | Explicitly reviewed non-indexed/continuation fragment decisions |
@@ -32,7 +32,7 @@ Keep `src/lib/` free of browser globals. The common browser `client/dom.ts` crea
 | `src/data/basta/review-baseline.json` | Accepted editorial review baseline, not permission to skip structural errors |
 | `src/content.config.ts` | Astro collection schema and file-glob ingestion |
 
-The `scripts/source-workflow.mjs` command orchestrates source checks and sync. The shared filesystem/frontmatter contract is `scripts/lib/source-files.mjs`; `scripts/lib/roman-normalize.mjs` owns source-backed transliteration normalization under the sole [Transliteration](TRANSLITERATION.md) policy. Specialist scripts own **different** operations, never independent substitutes for a central pipeline. `source:sync` may update derived labels and safe fingerprints but does not approve uncertain fragments or recycle IDs. `source:check` runs without writes.
+The `scripts/source-workflow.mjs` command orchestrates source checks and sync. The shared filesystem/frontmatter contract is `scripts/lib/source-files.mjs`; `scripts/lib/roman-normalize.mjs` owns source-backed transliteration normalization under the sole [Transliteration](TRANSLITERATION.md) policy. Specialist scripts own **different** operations, never independent substitutes for a central pipeline. `source:sync` may update derived labels and safe fingerprints but does not approve uncertain fragments or recycle IDs. `source:check` runs without writes. Derived browse lists, search facets, Pagefind results and recitation catalogs are generated from published Markdown and the Basta index; they are not separate hand-maintained title/index files. The existing `recitationId` is the stable programme reference even when a lyric filename or title changes. The sole unfinished manual adjudication register is `audit/manual-md-review-tracker.csv` (not a site runtime input).
 
 `lib/stanza-numbers.ts` owns printed numeral parsing; `lib/basta-stanzas.ts` extracts numbered stanzas, alignment and page provenance independently of index mapping. `lib/basta-source-roles.ts` identifies actual title/byline/credit roles. `lib/basta-text.ts` owns the single physical Basta separator parser (with review line offsets) and visual stanza layout; `lib/basta-kalam-units.ts` maps verified printed fragments to persistent individual kalams. `lib/lyric-stanzas.ts` owns standalone layouts. `lib/source-review.ts` owns editorial/structural checks and publication-wide Markdown rules (final newline, stanza numbers, six-verse declarations and nonempty existing Roman blocks). The read-only `scripts/review-content.mjs` walks the corpus **once** and applies those checks alongside catalog mapping; unit tests cover pure edge cases rather than reading every Markdown file again. No browser component should parse these semantics again.
 

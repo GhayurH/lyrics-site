@@ -14,6 +14,19 @@ Test **contracts and user journeys**, not the current selector structure. Automa
 
 CI runs **one build** and selects smoke or full, never both. The smoke subset protects no-JS source access, homepage/browse/search, saved lyrics, a local Recitation Set, Basta page navigation, edition controls/Focus, and one-at-a-time kalam scans. Full runs on schedule, manual dispatch or a `[full-ci]` commit marker and includes smoke. Browser tests are isolated and grouped into general reader, Basta reader, recitation, site, responsive and appearance suites. CI uses file-level concurrency instead of `fullyParallel`, keeping expensive font-loading amortized within each worker. Tests use event/locator assertions, not arbitrary sleeps. Every build runs the corpus-wide source regression gate once; the separate detailed editorial artifact is reserved for scheduled/manual reviews. Existing reviewed OCR debt does not fail builds, but **new findings and structural mapping errors** do. Failure-only traces and screenshots are CI artifacts, not tracked files.
 
+## Editorial acceptance and merging
+
+**A green CI build is a technical gate, not editorial sign-off.** `source:check` enforces published structural consistency, Roman normalizer stability, Basta index labels, permanent IDs and **zero new** findings compared with the approved review baseline. It does not prove that all historical or imported poetry, transcriptions, title variants, potential duplicates or source credits have been manually verified.
+
+Before merging a large import:
+
+1. Resolve or explicitly adjudicate the active `audit/manual-md-review-tracker.csv` entries for duplicate comparison, original-source Urdu completeness, Roman accuracy, stanza alignment and metadata. `pending`, `partial_review`, `spot_checked` and `blocked` are not acceptance. Compare with existing site and Basta content; preserve genuinely distinct variants and source notes.
+2. Review large normalization/content diffs **poem by poem** against originals. Resolve ambiguous readings with source images, source HTML or recitations rather than treating script conversion or a matching line count as verification.
+3. Preserve pre-existing live recitation IDs and stanza anchors. Check any removed, renamed or consolidated poem against `main`; keep published historical IDs retired, and do not invent replacements. Verify generated Basta labels, standalone titles, search URLs and recitation deep links.
+4. Run `npm run check`, `npm run build`, the **full** Chromium functional suite and `git diff --check` at the final head. Use an actual Pages preview to confirm R2 scan links and D1/Recitation Set behavior, which Astro preview cannot reproduce.
+
+A not-yet-reviewed import may pass automated validation, but must not be described as editorially approved. The source reviewer's scan-linked findings remain advisory until checked by a person.
+
 ## Representative manual matrix
 
 | Environment | Essential checks |
