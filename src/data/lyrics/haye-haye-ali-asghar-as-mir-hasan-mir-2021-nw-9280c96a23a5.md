@@ -4,6 +4,8 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Sajjad"
+reciter: "Mir Hasan Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,7 +14,10 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/9280c96a23a57095430e.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/9280c96a23a57095430e.json
 # api_content_sha256: b3d4289ddcd4fb0fd1a7372ac6ba7d5b5ce558e1f79ab7cec3257078c9a9d5e6
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Matching Roman sources consolidated, full NohaWriteups poem retained. Pending refrain cleanup and editorial review.
+# source_id: tajpoints:3a90f3f8aea2dd12990a
+# source_url: https://tajpoints.com/2021/08/haye-haye-ali-asghar-mir-hasan-mir.html
+# raw_sha256: 47bbe87e0ef9186d820a29085ac30cd63a0dc564060a0ad335a285401dedbdec
 ---
 
 ‬
