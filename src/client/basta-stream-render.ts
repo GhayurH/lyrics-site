@@ -2,6 +2,7 @@
 // Content and indentation rules live in lib/basta-text.ts, also used by Astro.
 import type { BastaReaderPageData } from "../lib/basta";
 import { splitBastaKalams, type BastaStanzaStyle } from "../lib/basta-text";
+import { fragmentStanzaPattern, type StanzaPattern } from "../lib/stanza-pattern";
 import { renderBastaTextBlock } from "./basta-dom";
 import { romanUnavailable } from "../lib/edition-availability";
 import settings from "../data/basta/settings.json";
@@ -36,10 +37,10 @@ function renderOriginalImage(page: BastaReaderPageData): HTMLElement {
 }
 
 /** Use the same pure stanza model as static Astro pages and Recitation Sets. */
-function appendBastaText(container: HTMLElement, value: string, indentStanzas = true, stanzaStyle: BastaStanzaStyle = "auto"): void {
+function appendBastaText(container: HTMLElement, value: string, indentStanzas = true, stanzaStyle: BastaStanzaStyle = "auto", pattern?: StanzaPattern, patterns?: Record<string, StanzaPattern>): void {
   splitBastaKalams(value).forEach((kalam, index) => {
     if (index > 0) container.append(renderKalamBreak());
-    container.append(renderBastaTextBlock(kalam, indentStanzas, stanzaStyle));
+    container.append(renderBastaTextBlock(kalam, indentStanzas, stanzaStyle, false, fragmentStanzaPattern(pattern, patterns, index)));
   });
 }
 
@@ -53,7 +54,7 @@ function renderParallelText(page: BastaReaderPageData): HTMLElement {
   roman.dir = "ltr";
   roman.setAttribute("aria-label", `Roman Urdu text of Basta page ${page.page}`);
   const romanText = node("div", "basta-reader-text");
-  appendBastaText(romanText, page.romanText, true, page.stanzaStyle);
+  appendBastaText(romanText, page.romanText, true, page.stanzaStyle, page.stanzaPattern, page.stanzaPatterns);
   roman.append(romanText);
 
   const urdu = node("section", "basta-reader-column basta-reader-urdu");
@@ -61,7 +62,7 @@ function renderParallelText(page: BastaReaderPageData): HTMLElement {
   urdu.dir = "rtl";
   urdu.setAttribute("aria-label", `Urdu text of Basta page ${page.page}`);
   const urduText = node("div", "basta-reader-text");
-  appendBastaText(urduText, page.urduText, true, page.stanzaStyle);
+  appendBastaText(urduText, page.urduText, true, page.stanzaStyle, page.stanzaPattern, page.stanzaPatterns);
   urdu.append(urduText);
 
   wrapper.append(roman, urdu);
@@ -102,7 +103,7 @@ export function renderBastaPage(page: BastaReaderPageData): HTMLElement {
     urdu.dir = "rtl";
     urdu.setAttribute("aria-label", `Urdu text of Basta page ${page.page}`);
     const urduText = node("div", "basta-reader-text");
-    appendBastaText(urduText, page.urduText, page.page >= settings.romanLyricsStartPage, page.stanzaStyle);
+    appendBastaText(urduText, page.urduText, page.page >= settings.romanLyricsStartPage, page.stanzaStyle, page.stanzaPattern, page.stanzaPatterns);
     urdu.append(urduText);
 
     grid.append(roman, urdu);

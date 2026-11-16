@@ -8,7 +8,7 @@ direction: "rtl"
 kalamType: "Manqabat"
 poet: "Nur Ali Nur"
 reciter: "Syed Mudassir Mehdi"
-sixVerseLayout: "pairs"
+stanzaPattern: "2+2+2"
 tags: []
 aliases: ["dayar-e-karb-o-bala-syed-mudassir-mehdi", "Dayar E Karb O Bala Syed Mudassir Mehdi"]
 published: true

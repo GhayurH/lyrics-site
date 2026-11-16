@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Salam"
-sixVerseLayout: "pairs"
+stanzaPattern: "2+2+2"
 tags: []
 aliases:
   - "Chhane Lagi Shaam e Ghareeban"

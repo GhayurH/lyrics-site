@@ -4,6 +4,7 @@ import index from "../data/basta/index.json";
 import identityLock from "../data/recitation/identity-lock.json";
 import fragmentRoles from "../data/basta/fragment-roles.json";
 import { applyRecitationIds } from "./recitation-identity";
+import { getBastaStanzaStyleForPage } from "./basta-categories";
 import { buildBastaKalamCatalog, type BastaKalamAudit, type BastaSourcePage } from "./basta-kalam-units";
 
 let catalogPromise: Promise<BastaKalamAudit> | undefined;
@@ -16,6 +17,9 @@ export function loadBastaKalamCatalog(): Promise<BastaKalamAudit> {
         page: item.data.page,
         urdu: item.body || "",
         roman: item.data.romanLyrics,
+        stanzaPattern: item.data.stanzaPattern,
+        stanzaPatterns: item.data.stanzaPatterns,
+        stanzaStyle: getBastaStanzaStyleForPage(item.data.page),
       }));
       const catalog = buildBastaKalamCatalog(index, pages, fragmentRoles.fragments);
       return { ...catalog, kalams: applyRecitationIds(catalog.kalams, { ...identityLock, version: 1 }) };

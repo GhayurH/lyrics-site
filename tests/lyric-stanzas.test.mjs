@@ -11,7 +11,7 @@ test("one stanza class contract covers normal, six-line and paired editions", ()
   assert.equal(lyricLineClassName(verse), "lyric-verse");
   assert.equal(lyricStanzaClassNames([numbered, verse]), "lyric-stanza");
   assert.equal(lyricStanzaClassNames([numbered, ...Array(6).fill(verse)]), "lyric-stanza lyric-stanza-six");
-  assert.equal(lyricStanzaClassNames([numbered, ...Array(6).fill(verse)], "pairs"),
+  assert.equal(lyricStanzaClassNames([numbered, ...Array(6).fill(verse)], "2+2+2"),
     "lyric-stanza lyric-stanza-six lyric-stanza-pairs");
 });
 
@@ -61,4 +61,15 @@ test("unrelated refrains and adjacent two-line stanzas stay separate", () => {
   assert.deepEqual(rendered.map(lines => lines.filter(line => !line.number).length), [2, 2, 6]);
   const couplets = "۱\nline a\nline b\n\nline c\nline d\n\nline e\nline f";
   assert.deepEqual(layoutLyricStanzas(couplets), splitLyricStanzas(couplets));
+});
+
+test("stanzaPattern explicitly selects a two-verse stanza or one of the six-line forms", () => {
+  const source = "۱\nfirst\nsecond\nthird\nfourth\n\nfifth\nsixth\n\n۲\nseventh\neighth";
+  assert.deepEqual(layoutLyricStanzas(source, "4+2").map(s => s.filter(l => !l.number).length), [6, 2]);
+  assert.deepEqual(layoutLyricStanzas(source, 2).map(s => s.filter(l => !l.number).length), [4, 2, 2]);
+  const lines = splitLyricStanzas("۱\nfirst\nsecond")[0];
+  assert.equal(lyricStanzaClassNames(lines, 2), "lyric-stanza lyric-stanza-couplet");
+  assert.equal(lyricStanzaClassNames(lines, 4), "lyric-stanza");
+  assert.equal(lyricStanzaClassNames([...lines, ...Array(4).fill({ text: "v", number: false })], "2+2+2"),
+    "lyric-stanza lyric-stanza-six lyric-stanza-pairs");
 });

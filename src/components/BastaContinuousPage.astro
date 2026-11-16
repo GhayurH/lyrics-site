@@ -43,6 +43,8 @@ const { page } = Astro.props as Props;
           romanText={page.romanText}
           variant="reader"
           stanzaStyle={page.stanzaStyle}
+          stanzaPattern={page.stanzaPattern}
+          stanzaPatterns={page.stanzaPatterns}
           page={page.page}
         />
       </div>
@@ -57,7 +59,7 @@ const { page } = Astro.props as Props;
           <p class="basta-transliteration-missing">{romanUnavailable("page", true)}</p>
         </section>
         <section class="basta-reader-column basta-reader-urdu" lang="ur" dir="rtl" aria-label={`Urdu text of Basta page ${page.page}`}>
-          <BastaText text={page.urduText} className="basta-reader-text" indentStanzas={page.page >= settings.romanLyricsStartPage} stanzaStyle={page.stanzaStyle} />
+          <BastaText text={page.urduText} className="basta-reader-text" indentStanzas={page.page >= settings.romanLyricsStartPage} stanzaStyle={page.stanzaStyle} stanzaPattern={page.stanzaPattern} stanzaPatterns={page.stanzaPatterns} />
         </section>
       </div>
     )

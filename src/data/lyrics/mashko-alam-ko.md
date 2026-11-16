@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-sixVerseLayout: "pairs"
+stanzaPattern: "2+2+2"
 reciter: "Mustufa Mirza"
 tags: []
 aliases: []

@@ -464,3 +464,24 @@ test("Basta 421 keeps source-backed three-verse groups and does not invent its o
       "Two opening source verses are preserved; remaining stanzas are tercets");
   }
 });
+
+test("Markdown stanzaPattern overrides inferred Basta couplets and split six-verse groups", () => {
+  const explicitCouplets = layoutBastaKalam("one\ntwo\nthree\nfour", true, "auto", false, 2);
+  assert.deepEqual(explicitCouplets.map(line => line.indent), [false, true, false, true]);
+  assert.equal(explicitCouplets[2].coupletSeparator, true);
+
+  const sixPairs = layoutBastaKalam("a\nb\nc\nd\ne\nf", true, "auto", false, "2+2+2");
+  assert.deepEqual(sixPairs.filter(line => line.coupletSeparator).map(line => line.text), ["c", "e"]);
+  assert.ok(sixPairs.every(line => !line.sixClosingStart && !line.sixClosingEnd));
+
+  const source = "۱\na\nb\nc\nd\n\ne\nf";
+  const four = layoutBastaKalam(source, true, "auto", false, 4);
+  assert.ok(four.every(line => !line.sixClosingStart && !line.sixClosingEnd));
+  const six = layoutBastaKalam(source, true, "auto", false, "4+2");
+  assert.equal(six.find(line => line.text === "e")?.sixClosingStart, true);
+  assert.equal(six.find(line => line.text === "f")?.sixClosingEnd, true);
+
+  const overriddenSalam = layoutBastaKalam("a\nb\nc\nd\ne\nf", true, "couplet", false, "4+2");
+  assert.equal(overriddenSalam[4].sixClosingStart, true);
+  assert.ok(!overriddenSalam.some(line => line.coupletSeparator));
+});

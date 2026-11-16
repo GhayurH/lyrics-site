@@ -9,7 +9,7 @@ tags: []
 aliases:
   - "Karbala Karbala Karbala"
 published: true
-sixVerseLayout: "pairs"
+stanzaPattern: "2+2+2"
 romanLyrics: |-
   Karbala Karbala Karbala
   Maiṅ ho gayi berida, wa Husaina

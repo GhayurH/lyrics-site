@@ -100,7 +100,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
         <h2 class="lyric-version-heading">
           <span class="lyric-focus-title kalam-reading-title" lang={data.lang} dir={data.direction}>{data.title}</span>
         </h2>
-        <LyricVerses text={lyric.body ?? ""} className={isRomanOnly || isEnglishOnly ? "roman-lyrics-text" : "lyrics-text"} sixVerseLayout={data.sixVerseLayout} />
+        <LyricVerses text={lyric.body ?? ""} className={isRomanOnly || isEnglishOnly ? "roman-lyrics-text" : "lyrics-text"} stanzaPattern={data.stanzaPattern} />
       </section>
 
       {
@@ -117,7 +117,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
                 {data.alternateTitle ?? data.title}
               </span>
             </h2>
-            <LyricVerses text={data.romanLyrics} className="roman-lyrics-text" sixVerseLayout={data.sixVerseLayout} />
+            <LyricVerses text={data.romanLyrics} className="roman-lyrics-text" stanzaPattern={data.stanzaPattern} />
           </section>
         )
       }
