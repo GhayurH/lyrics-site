@@ -1777,6 +1777,9 @@ src/data/lyrics/kaha-maadar-ne.md,round_1,present,nohayonline,nohayonline:0a9b9b
 src/data/lyrics/kaha-rabab-ne-rokar.md,round_1,present,nohayonline,nohayonline:4ae5260dc4f51e5bba92,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/kaha-ro-kar-sakina.md,round_1,present,nohayonline,nohayonline:dcb47bd4aa28f18394d1,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/kaha-sakina-ne-rokar.md,round_1,present,nohayonline,nohayonline:38cea12e835891e6cf56,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/kaha-sakina-ne-zainab-se-ravi-road-noha-nw-ffacb1c9257c.md,round_2,consolidated,nohawriteups,nohawriteups:ffacb1c9257cb831b1a0,round2-kalams-2026-11-14,Merged into src/data/lyrics/kaha-sakina-ne-zainab-se.md on 2026-11-16
+src/data/lyrics/kaha-sakina-ne-zainab-se-ye-bataoo-phupi-sajjad-ashraf-taqvi-tajpoints-a56020b86dfe3389ad9c.md,round_2,consolidated,tajpoints,tajpoints:a56020b86dfe3389ad9c,round2-kalams-2026-11-14,Merged into src/data/lyrics/kaha-sakina-ne-zainab-se.md on 2026-11-16
+src/data/lyrics/kaha-sakina-ne-zainab-se.md,round_2,present,nohawriteups;tajpoints,nohawriteups:ffacb1c9257cb831b1a0;tajpoints:a56020b86dfe3389ad9c,round2-kalams-2026-11-14,Consolidated shared verses and one unique couplet into six stanzas
 src/data/lyrics/kaha-sughra-ne.md,round_1,present,nohayonline,nohayonline:d25345cc8d6d111ad249,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/kaha-ye-maa-ne.md,round_1,present,nohayonline,nohayonline:8e9b6a5f55bf4289d801,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/kahan-ahl-e-aza-apna-fariza-bhul-jaate-hain.md,round_1,present,tajpoints,tajpoints:db1fb30c15e04a03ba48,feat/import-overlap-reconciliation-2026-11-05,
