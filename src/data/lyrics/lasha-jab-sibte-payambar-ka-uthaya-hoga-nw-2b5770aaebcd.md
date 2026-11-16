@@ -1,5 +1,5 @@
 ---
-title: "Lasha Jab Sibte Payambar Ka"
+title: "Lasha Jab Sibt-e-Payambar Ka Uthaya Hoga"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
@@ -15,30 +15,29 @@ published: false
 # editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
-Lasha jab sibte payambar, ka uthaya hoga
-
+Lasha Jab Sibt-e-Payambar Ka Uthaya Hoga
 Khuld Mai chain Muhammad ko na aya hoga
 
+1
 Sar Khulay Lehad Say Tab, Fatimah Nikli Hongi
-
 Zehr Jodha Nay Jo Shabbar, Ko Pilaya Hoga
 
+2
 kabr Mai hassan toh us waqt, hi utray Hongay
-
 Maa nay jab daman e tatheer, bichaya hoga
 
+3
 Dastaan Hassan Nay Ap-ni Jo sunaayi hogi
-
 Maa nay ro ro ke kalejay, say lagaya hoga
 
+4
 Dil Ke Sab Hasan nay armaan nikalay Hongay
-
 Sehra qasim ko khaayalon, mai lagaya hoga
 
+5
 Jo ke maadar ke janazay, pe na ghar se nikli
-
 Kaise beemar unhay shaam, Mai laya hoga
 
+6
 Jin ko ab naaz Madinay, pe bohat hai gohar
-
 Unki kismat Mai likha deis, paraya hoga
