@@ -4,13 +4,19 @@ alternateTitle: "Chehlum Jo Karbala Meiṅ Bahattar Ka Ho Chuka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Noha"
+kalamType: "Marsiya"
 tags: []
 aliases:
   - "Chehlum Jo Karbala Mein Bahattar Ka Ho Chuka"
 bastaPage: 263
 bastaNote: original-selection
 published: true
+# consolidated_source_id: nohayonline:bd09b1d914b981ace40b
+# consolidated_source_url: https://www.nohayonline.com/content_marsiya.php?id=7
+# consolidated_raw_sha256: 35b2c7e5d3fcf436341c7b90b49ee38711c3e1481e43fb48618864bf05bcf8ae
+# extra_stanzas_11_to_14: from source stanzas 3, 5, 9, 10; original 1-10 retained for stable anchors
+# source_variant_stanza_2_final_couplet_urdu: ہے ہے وہ پردہ دار ہمارے کدھر گئے / بے پردہ ہوکے آلِ نبی دربدر گئے
+# source_variant_stanza_2_final_couplet_roman: Hai hai wo pardadaar hamaare kidhar gaye / Beparda hoke Aal-e-Nabi darbadar gaye
 romanLyrics: |-
   1
   Chehlum Jo Karbala Meiṅ Bahattar Ka Ho Chuka
@@ -91,6 +97,38 @@ romanLyrics: |-
   Aayi Nida, Sidhaaro, Khuda Hafiz Ae Behen
   Sughra Ko Meri Simt Se Bhi Pyar Kijiyo
   Hoga Sawab Khatir-e-Bimar Kijiyo
+
+  11
+  Maqtal ke aas paas ye bewaoṅ ki thi fughaaṅ
+  Zainab jabiṅ lahad pa dhare karti thi bayaaṅ
+  Ae mere Karbalaai baraadar Husain jaaṅ
+  Hamshir tin din se tumhaari hai mehmaaṅ
+  Allah meri baat bhi puchhi na aap ne
+  Zindaaṅ ki waardaat bhi puchhi na aap ne
+
+  12
+  Raazi huṅ jo razaa-e-Imaam-e-Jalil hai
+  Par qaabil-e-mulaahaza baazu ka nil hai
+  Ne koi daadras hai na koi kafil hai
+  Bhaai baghair aap ke Zainab zalil hai
+  Pusht o panaah uth gaya bekhaanumaaṅ hui
+  Dekho ye pusht qaabil-e-nok-e-sinaaṅ hui
+
+  13
+  Hone laga sawaar risaala Bashir ka
+  Danka baja haram ke widaa-e-akhir ka
+  Khaima utha lahad se Shah-e-benazir ka
+  Aur sab tabarrukaat Janaab-e-Amir ka
+  Turbat ke gird unt baraabar khare hue
+  Rukhsat ko jama qabr pa chhote bare hue
+
+  14
+  Zainab pukaari kuch ka saamaan ho gaya
+  Phir shahr mere bhaai ka wiraan ho gaya
+  Aur maqbara Husain ka sunsaan ho gaya
+  Hu ka maqaam qatl ka maidaan ho gaya
+  Aayi musaafiroṅ ko mere wo zamiṅ pasand
+  Duniya meiṅ jis zamin ko basti nahiṅ pasand
 ---
 
 ۱
@@ -172,3 +210,35 @@ romanLyrics: |-
 آئی ندا، سدھارو، خدا حافظ اے بہن
 صغریٰ کو میری سمت سے بھی پیار کیجیو
 ہوگا ثواب خاطرِ بیمار کیجیو
+
+۱۱
+مقتل کے آس پاس یہ بیواؤں کی تھی فغاں
+زینب جبیں لحد پہ دھرے کرتی تھی بیاں
+اے میرے کربلائی برادر حسین جاں
+ہمشیر تین دن سے تمہاری ہے مہماں
+اللہ میری بات بھی پوچھی نہ آپ نے
+زنداں کی واردات بھی پوچھی نہ آپ نے
+
+۱۲
+راضی ہوں جو رضائے امامِ جلیل ہے
+پر قابلِ ملاحظہ بازو کا نیل ہے
+نے کوئی داد رس ہے نہ کوئی کفیل ہے
+بھائی بغیر آپ کے زینب ذلیل ہے
+پشت و پناہ اٹھ گیا بے خانماں ہوئی
+دیکھو یہ پشت قابلِ نوکِ سناں ہوئی
+
+۱۳
+ہونے لگا سوار رسالہ بشیر کا
+ڈنکا بجا حرم کے وداعِ اخیر کا
+خیمہ اٹھا لحد سے شہِ بے نظیر کا
+اور سب تبرکات جنابِ امیر کا
+تربت کے گرد اونٹ برابر کھڑے ہوئے
+رخصت کو جمع قبر پہ چھوٹے بڑے ہوئے
+
+۱۴
+زینب پکاری کوچ کا سامان ہو گیا
+پھر شہر میرے بھائی کا ویران ہو گیا
+اور مقبرہ حسین کا سنسان ہو گیا
+ہو کا مقام قتل کا میدان ہو گیا
+آئی مسافروں کو میرے وہ زمیں پسند
+دنیا میں جس زمین کو بستی نہیں پسند
