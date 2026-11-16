@@ -3121,10 +3121,16 @@ src/data/lyrics/tera-rajab-ki-taza-hawa-ko-mubarkein.md,round_1,present,tajpoint
 src/data/lyrics/tera-sadqa-hussain.md,round_1,present,nohayonline,nohayonline:84c397e5cd2844340002,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/tera-sehra-na-dekha.md,round_1,present,nohayonline,nohayonline:9632a6c30852643e0261,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/terah-rajab-ki-sham-ali-ali-karein-gaye.md,round_1,present,tajpoints,tajpoints:ebbbd2db1002723ad196,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/tere-bajon-veeran-ghazi-ainj-2-nw-3155f706f008.md,round_2,consolidated,nohawriteups,nohawriteups:3155f706f008576a26a9,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/tere-bajon-veeran-ghazi.md on 2026-11-16
+src/data/lyrics/tere-bajon-veeran-ghazi-ali-zamin-lyrics-in-punjabi-2021-tajpoints-3edc7f5c5c06056de718.md,round_2,consolidated,tajpoints,tajpoints:3edc7f5c5c06056de718,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/tere-bajon-veeran-ghazi.md on 2026-11-16
+src/data/lyrics/tere-bajon-veeran-ghazi.md,round_2,present,nohawriteups;tajpoints,nohawriteups:3155f706f008576a26a9;tajpoints:3edc7f5c5c06056de718,round2-kalams-2026-11-14,Combined two Punjabi Roman witnesses into 14 couplets
 src/data/lyrics/tere-haathon-ka.md,round_1,present,nohayonline,nohayonline:599986cc2f62fabd9251,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/tere-kanare-furat.md,round_1,present,nohayonline,nohayonline:6f43f8c0a5041f622c4f,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/tere-marne-se-kamar.md,round_1,present,nohayonline,nohayonline:f6652a590ada8b6d70a3,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/tere-mehman-aaye.md,round_1,present,nohayonline,nohayonline:c49d9a0d38bd4e2187f2,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/tere-sajjad-ne-baba-qaza-guldasta-e-jaffria-nw-eb47e05519e4.md,round_2,consolidated,nohawriteups,nohawriteups:eb47e05519e43a310d11,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/tere-sajjad-ne-baba-qaza.md on 2026-11-16
+src/data/lyrics/tere-sajjad-ne-baba-qaza-kayi-waar-lyrics-2018-tajpoints-6024bc28be3a66311677.md,round_2,consolidated,tajpoints,tajpoints:6024bc28be3a66311677,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/tere-sajjad-ne-baba-qaza.md on 2026-11-16
+src/data/lyrics/tere-sajjad-ne-baba-qaza.md,round_2,present,nohawriteups;tajpoints,nohawriteups:eb47e05519e43a310d11;tajpoints:6024bc28be3a66311677,round2-kalams-2026-11-14,Combined two Punjabi Roman witnesses into 6 couplets
 src/data/lyrics/tere-shehr-se-jaate.md,round_1,present,nohayonline;ziyaraat,nohayonline:03f12aef0cf721dcb4ff;ziyaraat:cc6c79710760727172d6,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/teri-chadar-ka-raha.md,round_1,present,nohayonline,nohayonline:1bd1c6c92520eba1d509,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/teri-kya-baat-hai.md,round_1,present,tajpoints,tajpoints:62c6f6a3e88cdba0e7b0,feat/import-overlap-reconciliation-2026-11-05,
