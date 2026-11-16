@@ -5,11 +5,16 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Yousuf Sardar"
 tags: []
 aliases:
   - "Aye Chand Muharram Kai"
 published: true
 romanLyrics: |-
+  Sog meiṅ dubi saari fiza, Ya Husain
+  Ghar ghar meiṅ maatam hai bapa, Ya Husain
+  Aaya nazar jab maah-e-aza, ro ro ke azadaaroṅ ne kaha
+
   Ae chand muharram kai, tu badli meiṅ chala jaa
   Tujhe daikh ke mar jaye na, bimar hai Sughra
 
@@ -69,6 +74,10 @@ romanLyrics: |-
 # source_url: https://www.ziyaraat.net/api/noha/472
 # raw_sha256: b5dd25b435cde5980055d2d40d8baac67a596d6a8806e81f2f7bd34fda9d7b69
 ---
+
+سوگ میں ڈوبی ساری فضا، یا حسین
+گھر گھر میں ماتم ہے بپا، یا حسین
+آیا نظر جب ماہِ عزا، رو رو کے عزاداروں نے کہا
 
 اے چاند محرم کے، تو بدلی میں چلا جا
 تجھے دیکھ کے مر جائے نہ، بیمار ہے صغری
