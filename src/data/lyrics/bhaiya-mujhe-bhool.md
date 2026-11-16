@@ -73,6 +73,11 @@ romanLyrics: |-
 # source_id: nohayonline:d41ae7ed23bbd3168444
 # source_url: https://www.nohayonline.com/details_content.php?id=23
 # raw_sha256: 25c14c250f29ec7bc4e533001022ab35cfb3b4f52aab309494ea0bc63dcc541c
+# source_id: nohawriteups:4da6ef6d6194cc9e2161
+# source_url: https://www.nohawriteups.org/bhaiya-mujhe-bhool-na/
+# original_html: snapshots/nohawriteups/original_html/4da6ef6d6194cc9e2161.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/4da6ef6d6194cc9e2161.json
+# api_content_sha256: d3e40c5ff9cc9d39b97294ce9ec770ca74af55b84226304de4e5ebc720b7103a
 ---
 
 سب پھولوں کے گہنے میں سنواری دلہن آئے

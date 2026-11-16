@@ -113,6 +113,11 @@ romanLyrics: |-
 # source_id: ziyaraat:ad91916b0d710c8776b3
 # source_url: https://www.ziyaraat.net/api/noha/2433
 # raw_sha256: 2c975be354cd63b8bd7cb6bfc637cf07ee45d1b4c42130c7a42f78e6a99629ae
+# source_id: nohawriteups:9fbb5d9fc7d2fce50fb2
+# source_url: https://www.nohawriteups.org/ya-ali-madad-haider/
+# original_html: snapshots/nohawriteups/original_html/9fbb5d9fc7d2fce50fb2.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/9fbb5d9fc7d2fce50fb2.json
+# api_content_sha256: 200d26ef52650b61ccab73e1360362ea7a1fdcac4858fba55715ac4d2d241a67
 ---
 یاعلی یا مدد یاعلی یا مدد
 یاعلی یا مدد

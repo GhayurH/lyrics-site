@@ -72,6 +72,11 @@ romanLyrics: |-
 # source_id: nohayonline:a1f30d6019d4e1a022e9
 # source_url: https://www.nohayonline.com/details_content.php?id=1603
 # raw_sha256: 2b2f25b9a868195316413c05d9ddf361adb9508d618844c11289b52608025d49
+# source_id: nohawriteups:c3d3e5d56a8afe21d4ba
+# source_url: https://www.nohawriteups.org/kya-tum-mere-hussain-ho-lyrics-mir-hasan-mir/
+# original_html: snapshots/nohawriteups/original_html/c3d3e5d56a8afe21d4ba.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/c3d3e5d56a8afe21d4ba.json
+# api_content_sha256: dbd382f0e29f109755a749eee220e6fe477bd6ebb54d88c9747cc42dd008feb1
 ---
 
 پتھر ہٹا کے لاش سے زینب نے دی صدا

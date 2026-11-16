@@ -68,6 +68,11 @@ romanLyrics: |-
 # source_id: nohayonline:a32fe2531da256f10f5e
 # source_url: https://www.nohayonline.com/details_content.php?id=447
 # raw_sha256: 25383db0123a5a082e030a8688a3935726c991169246daf1f3ad93c177ff7286
+# source_id: nohawriteups:4adacf5f7c07c26d5de4
+# source_url: https://www.nohawriteups.org/ek-khafela-laaya-tha/
+# original_html: snapshots/nohawriteups/original_html/4adacf5f7c07c26d5de4.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/4adacf5f7c07c26d5de4.json
+# api_content_sha256: 72724b4528582de3fbffc2ba2f89e30d8a27d7f9d4410d326287f588f6574885
 ---
 سُلا کے قبر میں بے شیر کو حسینِ غریب
 ہر اک شہید کے لاشے پہ آئے روتے ہوئے

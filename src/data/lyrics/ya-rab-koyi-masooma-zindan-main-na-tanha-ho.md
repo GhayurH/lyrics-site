@@ -29,6 +29,11 @@ romanLyrics: |-
   4
   Zindan Maiṅ Ae Najafi, Yaad Aayi Sakina Ki
   Dil Ro Ro Keh Raha Hai, Ab Na Ujala Ho
+# source_id: nohawriteups:36d41f07c2066bae179d
+# source_url: https://www.nohawriteups.org/ya-rab-koyi-masooma/
+# original_html: snapshots/nohawriteups/original_html/36d41f07c2066bae179d.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/36d41f07c2066bae179d.json
+# api_content_sha256: caa053e2524aea4173a18124d36bb5a587684f59757d14aad19f0b1aa45e0982
 ---
 
 یا رب کوئی معصومہ، زندان میں نہ تنہا ہو

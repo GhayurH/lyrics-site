@@ -56,6 +56,11 @@ romanLyrics: |-
 # source_id: nohayonline:418a9030114db6f80c46
 # source_url: https://www.nohayonline.com/details_content.php?id=605
 # raw_sha256: b4c7fb04c73fcae7225f3bbb6ae4a195620171bd60744f4bbe2fcb42e877100a
+# source_id: nohawriteups:8e71bd99c2a69c61060e
+# source_url: https://www.nohawriteups.org/shaam-haye-shaam-shaam-haye-shaam/
+# original_html: snapshots/nohawriteups/original_html/8e71bd99c2a69c61060e.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/8e71bd99c2a69c61060e.json
+# api_content_sha256: 2896d6579ca03ad300f268a0246d10c4e91eb65c729d01e284f0ad71c7f0694f
 ---
 شام ہائے شام
 تیری اُمت کے زیور پہن کے

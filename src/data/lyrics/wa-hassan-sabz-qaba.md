@@ -63,6 +63,11 @@ romanLyrics: |-
 # source_id: nohayonline:7494766c847d882b0e29
 # source_url: https://www.nohayonline.com/details_content.php?id=975
 # raw_sha256: 260adc28cf4dfc60a5079b2c41d41d5cef2df4de6309c2eb99cc64f23cd58f94
+# source_id: nohawriteups:d7e17d280e6554c914d5
+# source_url: https://www.nohawriteups.org/wa-hassan/
+# original_html: snapshots/nohawriteups/original_html/d7e17d280e6554c914d5.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/d7e17d280e6554c914d5.json
+# api_content_sha256: 292afc1312ccd107ae78bc6f4f9f31b60a4c34bd733ea3873d436ba9e930e7c1
 ---
 ہاے وہ بے کسی
 مقتل سے آیا لاشہء قاسم
