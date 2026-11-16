@@ -4,6 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Mir Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,7 +13,10 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/1c81b08aa5147600cb90.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/1c81b08aa5147600cb90.json
 # api_content_sha256: 1e16f5ad8f6d7503d29e0bc79264c0a08028571ff37a2a73b3c804a5f376eb9b
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Two matching Roman source witnesses consolidated; editorial stanza layout and transliteration remain unreviewed.
+# source_id: tajpoints:3c0751755660bd66afef
+# source_url: https://tajpoints.com/2019/09/haye-alamdar-haye-alamdar-lyrics-in.html
+# raw_sha256: f644e7986b03d2e1007485dd92badbf9bc419a76f4e7ec8c7ed9fc3d07f5419f
 ---
 
 Haye Alamdar haye Alamdar
