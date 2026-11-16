@@ -4,9 +4,9 @@ alternateTitle: "Fatima Ke Chain Ne"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: ["Salam", "Noha"]
+kalamType: "Salam"
 reciter: "Sachey Bhai"
-tags: []
+tags: ["Noha"]
 aliases: []
 published: true
 romanLyrics: |-
