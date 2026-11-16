@@ -1,9 +1,11 @@
 ---
-title: "BETI ALI KI"
+title: "Beti Ali Ki"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Yasir Raza"
+reciter: "Mir Hasan Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,51 +14,41 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/2c5ec98950e3c9f56ab1.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/2c5ec98950e3c9f56ab1.json
 # api_content_sha256: 614086f24b73fd4b3ba4c9d966a2a7feaf53fde46f52072e888ab9bc4e142bb1
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Two matching Roman witnesses consolidated and grouped into editorial stanzas; source spelling differences require review. Unpublished.
+# source_id: tajpoints:81c767eabcacf5a51c23
+# source_url: https://tajpoints.com/2020/08/beti-ali-ki-lyrics-in-urdu-and-roman.html
+# raw_sha256: 5d80fcac96e38ed36a329240a5486d00b1b98ccf56a98a18f0aee354f00be053
 ---
 
-Haye beti Ali ki
+Reh Gayi Beti Ali Ki Gham Uthane Ke Liye
+Zakhm Khaney Ke Liye Aanso Bahane Ke Liye
 
-Reh gayi beti Ali ki gham uthane ke liye
+1
+Waris-e-Tatheer Be Pardah Khari Hai Dasht Mein
+Aik Chadar Bhi Nahi Hai Sar Chupaney Ke Liye
+Layi Thi Do Phool Apni Gaud Mein Umm-e-Rubab
+Aik Maqtal Ke Liye Ik Qaid Khane Ke Liye
 
-Zakhm khane ke liye,ansu bahane ke liye
+2
+Dhondne Nikley Hain Aada Pusht-e-Khaima Ki Taraf
+Lasha-e-Be Sheer Naizay Par Uthane Ke Liye
+Nook-e-Naiza Par Utha Kar Sham Ke Bazar Mein
+Shimar Lehrata Tha Chadar Dil Dukhanay Ke Liye
 
-Waris e tatheer be parda khari hai dasht mai
+3
+Aate Jate Jis Ko Dekho Zulm Karta Hai Shadeed
+Pusht-e-Abid Reh Gayi Hai Taziyane Ke Liye
+Barha Zainab Hai Guzri Sham Ke Bazar Mein
+Syed-e-Sajjad Ko Zindah Bachaney Ke Liye
 
-Aik chadar bhi nahi hai sar chupane ke liye
+4
+Rotay Rotay Ja Rahi Hai Bachi Soye Alqama
+Neel Rukhsaron Ke Ghazi Ko Dikhaney Ke Liye
+Gir Ke Akbar Ne Sada Di Jab Tu Zainab Ne Kaha
+Bhai Main Bhi Chal Rahi Hoon Lash Uthane Ke Liye
 
-Layi thi do phool apni godh mai umm e rabab
-
-Aik maqtal ke liye ik qaid ke liye
-
-Dhundne nikle Hain aada pusht khaima ki taraf
-
-Lash e be sheer naize per uthane ke liye
-
-Nok e naiza per utha ker shaam ke bazaar mai
-
-shimer lehrata tha chadar dil dhukane ke liye
-
-Aate jate jis ko dekho,zulm kerta hai shadeed
-
-Pusht e Abid reh gayi hai taziyane ke liye
-
-Baarha Zainab hai guzri shaam ke bazaar mai
-
-syed e Sajjad ko zinda bachane ke liye
-
-Rote rote jarahi hai bachi suy e alqama
-
-Neel ruksaron ke ghazi ko dhikane ke liye
-
-Gir ke Akber ne sada di jab tu Zainab ne kaha
-
-Bhai mai bhi chal rahi hun laash uthane ke liye
-
-Mangne aya hai bachi ko kaneezi mai laeen
-
-Ab to ajao mere ghazi bachane k liye
-
-Tartarha ker reh gayi qabr e Nabi yasir raza
-
-Ayi jab rudad e gham zainab sunane ke liye
+5
+Mangney Aaya Hai Bachi Ko Kaneezi Mein Laeen
+Ab Tu Aa Jao Mere Ghazi Bachaney Ke Liye
+Thar Thara Kar Reh Gayi Qabar-e-Nabi: YASIR RAZA:
+Aayi Jab Rodad-e-Gham Zainab Sunanay Ke Liye
