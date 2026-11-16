@@ -4,6 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,7 +13,10 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/ec89f2cdecdb2fa08e96.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/ec89f2cdecdb2fa08e96.json
 # api_content_sha256: e9c9dedda6869c6b1c44ea73da8eb3d1343669dc0ac608d51042ef16bc778acd
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: TajPoints source supplies three additional verses about Abbas's sister, inserted before the Ghazi/Shah exchange. Remains unpublished pending editorial alignment.
+# source_id: tajpoints:909cdc1936398d3c653b
+# source_url: https://tajpoints.com/2020/07/mera-muslim-akela-hai-lyrics-in-urdu.html
+# raw_sha256: 6553ca49ca2ecf198acc4a8917a13d1c1bbe417ed39c2fe94717e750bcc13e54
 ---
 
 Mera Muslim Akela Hai
@@ -64,6 +68,12 @@ Siwaye ibn e Urwa Ke Koi Aya Nahi Agay
 Bachane Ko Nahi Aye Wo Lasha Hee Utha Lete
 
 Kahan Khat Likhne Wale Hai Koi Ab Tak Nahi Aya, Mera Muslim Akela Hai
+
+Mere Abbas-e-Ghazi Ki Behan Ka Hai Yahan Roza
+
+Tere Pursay Ko Maula Main Tu Kofa Aa Nahi Sakta
+
+Main Bibi Pak Daman Ko Tera Noha Sunaon Ga
 
 Lipat Ker Sheh Ke Qadmon Se Kaha Ghazi Ne Ay Mola
 
