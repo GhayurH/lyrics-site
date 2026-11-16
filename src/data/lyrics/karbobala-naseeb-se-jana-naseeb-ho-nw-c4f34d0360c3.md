@@ -4,6 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Mehshar"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,7 +13,10 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/c4f34d0360c334615f4e.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/c4f34d0360c334615f4e.json
 # api_content_sha256: 92f81aa3181571f326f546586356fc304a1d9a4b7c5575626f393042e27fb89d
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Added one unique TajPoints couplet; source disagreement over 'Phir laut kar ... aana/na aana' remains for editorial review. Roman-only unpublished draft.
+# source_id: tajpoints:b05482afccdc6aa3ab04
+# source_url: https://tajpoints.com/2017/02/karbobala-naseeb-se-jana-naseeb-ho.html
+# raw_sha256: 4aa42f78ad64c9aeb95ec01148a4ac6ea9249723dea65e0dafd8d12926647367
 ---
 
 Karbobala Naseeb Se Jana Naseeb Ho
@@ -40,6 +44,9 @@ Ab Mutakil Najaf Main Thikana Naseeb Ho
 Jaisa Mila Naseeb Se Ummul Baneen ko
 
 Ab Kya Kisi Ko Aisa Gharana Naseeb Ho
+
+Jee Chahta Hai Samne Baithay Hoon Panjtan
+Unn Ki Sana Unhi Ko Sunana Naseeb Ho
 
 Mehshar Ye Arzoo Hai Ke Be Ghuslo Be Kafan
 
