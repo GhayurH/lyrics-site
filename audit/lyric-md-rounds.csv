@@ -42,6 +42,7 @@ src/data/lyrics/aaj-hai-chaliswan.md,round_1,consolidated,nohayonline,nohayonlin
 src/data/lyrics/aaj-hai-chehlum.md,round_1,present,nohayonline,nohayonline:f72fd4aa0403850cffd6,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/aaj-hai-khafile-ki.md,round_1,present,nohayonline,nohayonline:eeab8ea760de084a3661,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/aaj-hai-khurasan.md,round_1,present,nohayonline,nohayonline:e7e14cee2a7432630e76,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/aaj-ki-raat-sakina-pe-bohat-bhari-hai-lyrics-2018-tajpoints-16ff2bd677d104207df8.md,round_2,consolidated,tajpoints,tajpoints:16ff2bd677d104207df8,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/aaj-ki-raat-sakina.md on 2026-11-16; complete bilingual version retained
 src/data/lyrics/aaj-ki-raat-sakina.md,round_1,present,nohayonline,nohayonline:d3d416d483892178bfb2,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/aaj-maqtal-may.md,round_1,present,nohayonline,nohayonline:b8b8587e4338ba56e248,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/aaj-matam-bapa-hai.md,round_1,present,nohayonline,nohayonline:c9ad87357d9e5175eb84,feat/import-overlap-reconciliation-2026-11-05,
@@ -1022,7 +1023,9 @@ src/data/lyrics/darya-hai-abbas-ka.md,round_1,present,nohayonline,nohayonline:29
 src/data/lyrics/darya-hai-hamara.md,round_1,present,nohayonline,nohayonline:802b946d8fbd85367874,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/darya-kanare-teri-aal.md,round_1,present,nohayonline,nohayonline:19525e2f679123b18720,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/darya-se-kabhi.md,round_1,present,nohayonline,nohayonline:90f48ddc88d9a25d3d00,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/darya-se-koi-ja-kar-ghazi-ko-bula-laye-mir-hasan-mir-tajpoints-5000ad7ed8fd10628a20.md,round_2,consolidated,tajpoints,tajpoints:5000ad7ed8fd10628a20,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/darya-se-koi-ja-kar.md on 2026-11-16; complete bilingual version retained
 src/data/lyrics/darya-se-koi-ja-kar.md,round_1,present,nohayonline,nohayonline:02f7386d97bc20a8374e,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/darya-se-laut-kar-na-alamdar-aa-sakay-hassan-sadiq-tajpoints-0c1051fc4f9b29cfa105.md,round_2,consolidated,tajpoints,tajpoints:0c1051fc4f9b29cfa105,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/darya-se-laut-kar.md on 2026-11-16; complete bilingual version retained
 src/data/lyrics/darya-se-laut-kar.md,round_1,present,nohayonline,nohayonline:2d1c9fa041191bfc0c0e,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/dasht-ko-door-se.md,round_1,present,nohayonline,nohayonline:81beef4f31bc37297e41,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/dasht-mein-khoone.md,round_1,present,nohayonline,nohayonline:3d67a8e610336b0b1e10,feat/import-overlap-reconciliation-2026-11-05,
@@ -1396,6 +1399,7 @@ src/data/lyrics/haye-wo-asr-ka.md,round_1,present,nohayonline,nohayonline:098c6d
 src/data/lyrics/haye-wo-qaid-khana.md,round_1,present,nohayonline,nohayonline:9ea3f579cb6f621ca0ba,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/haye-ye-bachi-kaun.md,round_1,present,nohayonline,nohayonline:9e743b08587df5dc6807,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/haye-zainab-ko.md,round_1,present,nohayonline,nohayonline:1c62c5f4f1603f842709,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/haye-zainab-ro-rahi-hai-karbala-khamosh-hai-hasan-sadiq-lyrics-2003-tajpoints-83e1a93a53d79eabdb11.md,round_2,consolidated,tajpoints,tajpoints:83e1a93a53d79eabdb11,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/haye-zainab-ro-rahi.md on 2026-11-16; complete bilingual version retained
 src/data/lyrics/haye-zainab-ro-rahi.md,round_1,present,nohayonline;ziyaraat,nohayonline:b40d46ac71ada33f2bca;ziyaraat:0bd7b91e24021b9eccbd,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/haye-zindan-tera.md,round_1,present,nohayonline,nohayonline:8df285c5401d4c790f9f,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/haye-zindane-shaam.md,round_1,present,nohayonline;ziyaraat,nohayonline:a47a1f7d7127be1cc550;ziyaraat:f8e26ad322ac01b48a50,feat/import-overlap-reconciliation-2026-11-05,
@@ -1451,6 +1455,7 @@ src/data/lyrics/hum-zinda-hai.md,round_1,present,nohayonline,nohayonline:68b7531
 src/data/lyrics/humko-hai-apni-jaan.md,round_1,present,nohayonline,nohayonline:8c6e7bd4dc7daae7e97b,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/hur-ka-sar-hai.md,round_1,present,nohayonline,nohayonline:e45bd7c8d46287437e4a,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/hurmula-ke-teer-ka.md,round_1,present,nohayonline,nohayonline:2297910cec3768294b47,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/hurr-aa-raha-hai-akbar-seene-ossay-lagao-lyrics-2019-tajpoints-c582db8fca98aae793ad.md,round_2,consolidated,tajpoints,tajpoints:c582db8fca98aae793ad,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/hurr-aa-raha-hai.md on 2026-11-16; complete bilingual version retained
 src/data/lyrics/hurr-aa-raha-hai.md,round_1,present,nohayonline,nohayonline:5c5c92aad5ac93a12933,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/hurr-ki-aisi-na-kisi.md,round_1,removed_duplicate,nohayonline,nohayonline:fc836ccdbb8731c597e6,feat/import-overlap-reconciliation-2026-11-05,Basta Salam 43 on printed page 123: All six imported couplets represented in the Basta salam by Mujahid Lakhnavi; wording variants recorded rather than replacing print. Original import source https://www.nohayonline.com/details_content.php?id=1238; reciter Sibte Jafar. Provisional lyric ID removed before merge; Basta text and permanent identity unchanged.
 src/data/lyrics/hurr-ki-surat-jo.md,round_1,present,nohayonline,nohayonline:e05946e4139cf3fae12e,feat/import-overlap-reconciliation-2026-11-05,

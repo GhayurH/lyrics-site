@@ -55,6 +55,10 @@ romanLyrics: |-
 # source_id: ziyaraat:0bd7b91e24021b9eccbd
 # source_url: https://www.ziyaraat.net/api/noha/311
 # raw_sha256: f9b28463805afae7cf79801c5f893a8b87b08157626abd1b952cb9a85c062a39
+# source_id: tajpoints:83e1a93a53d79eabdb11
+# source_url: https://tajpoints.com/2023/03/haye-zainab-ro-rahi-hai-karbala-khamosh.html
+# raw_sha256: 80beb6af5392a82b6fa67550b217da8fd67a0a2787605d8c81dbb57283468671
+# editorial_note: Tajpoints Roman source overlaps this fuller bilingual version; source wording preserved through provenance.
 ---
 
 ہائے زینب رو رہی ہے کربلا خاموش ہے
