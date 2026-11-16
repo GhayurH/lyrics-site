@@ -220,12 +220,3 @@ test("empty correction can be cancelled and reopened without submitting", async 
   await page.keyboard.press("Escape");
   await expect(dialog).toBeHidden();
 });
-
-test("standalone readers offer text only, Basta still retains image selection", async ({ page }) => {
-  await page.goto("/lyrics/aa-asghar-bin-tere/");
-  await expect(page.locator('[data-reading-column][value="image"]')).toHaveCount(0);
-  await expect(page.locator(".lyric-reading-image")).toHaveCount(0);
-  await expect(page.getByRole("link", { name: "Original lyric sheet" })).toHaveCount(0);
-  await page.goto("/basta/140/");
-  await expect(page.locator('[data-reading-column][value="image"]')).toHaveCount(1);
-});

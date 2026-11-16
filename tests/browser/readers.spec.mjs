@@ -39,7 +39,7 @@ test("mobile single-edition Focus starts with stanza one via link and button", a
     const root = page.locator("[data-reading-root]");
     await expect(page.locator("html")).toHaveAttribute("data-reading-focus", "true");
     await expect(root).toHaveAttribute("data-reading-mode", edition);
-    await expect(root).toHaveCSS("justify-content", "flex-start");
+    // Chromium may compute flex-start as flow-start; assert actual stanza placement instead.
     await expect.poll(() => root.evaluate((element, selected) => {
       const stanza = element.querySelector(`.lyric-reading-${selected} .lyric-stanza`);
       if (!stanza) return false;
@@ -186,6 +186,7 @@ test("standalone lyrics stay text-only in responsive bilingual and mobile reader
   const divider = page.getByRole("separator", { name: "Resize Roman and Urdu columns" });
   await expect(page.locator('[data-reading-column][value="image"]')).toHaveCount(0);
   await expect(grid.locator(".lyric-reading-image")).toHaveCount(0);
+  await expect(page.getByRole("link", { name: "Original lyric sheet" })).toHaveCount(0);
   await expect(grid.locator(".lyric-reading-roman")).toBeVisible();
   await expect(grid.locator(".lyric-reading-urdu")).toBeVisible();
   await expect(divider).toBeVisible();

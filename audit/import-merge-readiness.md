@@ -45,6 +45,14 @@ The original `audit/manual-md-review-tracker.csv` records all thirteen round-one
 - This is a **proposed mechanical editorial batch, pending human acceptance**; no entries in `audit/manual-md-review-tracker.csv` were marked manually reviewed by automation. Inspect or revert individual changes before final branch merge.
 - Post-run validation reports **zero remaining deterministic Roman normalization changes**, without implying that source-specific pronunciation, incomplete editions or pre-existing editorial regression findings have been resolved.
 
+## Current dependency and test-suite compatibility
+
+- All direct npm dependencies use the latest stable versions compatible with the current toolchain, and the transitive lockfile has been refreshed; no audit advisories remain.
+- Astro is ^7.4.12, Wrangler ^4.162.0, and Playwright 1.65.1; the GitHub Actions Playwright image is pinned to the same browser release.
+- TypeScript stays on ^6.0.3 because the latest @astrojs/check package declares peer compatibility with TypeScript 5 and 6, not TypeScript 7. Do not force an unsupported peer major.
+- The unit suite and every browser test file were reviewed for contract ownership. One redundant standalone-image browser case was removed because the richer responsive reader test covers it; its unique original-lyric-sheet assertion was preserved. The Basta Marsiye 117 layout test no longer repeats separate border/crop tests. A search regression expectation now follows the corrected printed Basta 391 heading.
+- Unit/Astro/complete browser tests passed against the new packages and built static site. The ordinary build hook still enforces separate unfinished source-review regressions; they were not muted or approved as part of dependency maintenance.
+
 ## Metadata and stanza preparation
 
 - All 3,309 initial round-one additions were changed to `published: true`; one has since been consolidated. Original publication flags were preserved.

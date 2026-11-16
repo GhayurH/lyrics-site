@@ -212,7 +212,7 @@ test("multi-page Basta kalams show one scan with previous/next navigation @smoke
   await expect(next).toBeEnabled();
 });
 
-test("Marsiye 117 floats an uncropped original scan beside both languages", async ({ page }) => {
+test("Marsiye 117 keeps the scan beside both languages and stacks responsively", async ({ page }) => {
   await page.setViewportSize({ width: 1530, height: 964 });
   await page.goto("/basta/kalam/basta-marsiye-117/");
   for (const edition of ["image", "urdu", "roman"])
@@ -227,17 +227,13 @@ test("Marsiye 117 floats an uncropped original scan beside both languages", asyn
     const scan = element.querySelector(".basta-original-page");
     const image = scan.getBoundingClientRect();
     const text = element.querySelector(".basta-parallel-kalams-page").getBoundingClientRect();
-    const img = scan.querySelector(":scope > a > img");
     return {
       parallel: image.right <= text.left + 3 && Math.abs(image.top - text.top) < 20,
       sticky: getComputedStyle(scan).position === "sticky",
       readable: image.width > 280,
-      frameless: getComputedStyle(scan).borderTopWidth === "0px" &&
-        getComputedStyle(img).borderTopWidth === "0px",
-      uncropped: getComputedStyle(img).clipPath === "none",
     };
   });
-  expect(wide).toEqual({ parallel: true, sticky: true, readable: true, frameless: true, uncropped: true });
+  expect(wide).toEqual({ parallel: true, sticky: true, readable: true });
   await page.setViewportSize({ width: 990, height: 900 });
   await expect.poll(() => scan.getAttribute("data-floating-scan")).toBe("false");
   const stacked = await root.evaluate(element => {

@@ -22,7 +22,7 @@
     "roman:review": "node scripts/normalize-roman.mjs --report"
   },
   "dependencies": {
-    "@astrojs/sitemap": "^3.7.4",
+    "@astrojs/sitemap": "^3.7.5",
     "@fontsource/amiri": "^5.3.0",
     "@fontsource/gulzar": "^5.3.0",
     "@fontsource/lateef": "^5.3.0",
@@ -35,17 +35,17 @@
     "@fontsource/open-sans": "^5.3.0",
     "@fontsource/scheherazade-new": "^5.3.0",
     "@fontsource/source-sans-3": "^5.3.1",
-    "astro": "^7.4.7"
+    "astro": "^7.4.12"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.12",
-    "@playwright/test": "1.64.1",
+    "@playwright/test": "1.65.1",
     "pagefind": "^1.6.0",
     "typescript": "^6.0.3",
-    "wrangler": "^4.156.1"
+    "wrangler": "^4.162.0"
   },
   "allowScripts": {
     "esbuild@0.28.2": true,
-    "workerd@1.20261101.1": true
+    "workerd@1.20261113.1": true
   }
 }
