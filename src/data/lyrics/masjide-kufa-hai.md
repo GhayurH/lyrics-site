@@ -41,6 +41,10 @@ romanLyrics: |-
 # source_id: nohayonline:97df68aaee7852ea7793
 # source_url: https://www.nohayonline.com/details_content.php?id=3006
 # raw_sha256: cdb5bc53efff09bb69eabc17c190ff92ee6045c96ef917b2448d7052de21fe70
+# source_id: nohawriteups:d4bdea9188543b0eeff7
+# source_url: https://www.nohawriteups.org/masjid-e-kufa-hai-rozadar-hai/
+# original_html: snapshots/nohawriteups/original_html/d4bdea9188543b0eeff7.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/d4bdea9188543b0eeff7.json
 ---
 مسجد کوفہ ہے روزہ دار ہے
 فرق سے اونچی لہو کی دھار ہے

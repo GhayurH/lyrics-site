@@ -72,6 +72,9 @@ romanLyrics: |-
 # source_id: nohayonline:7a50fc05b2824eefe3bf
 # source_url: https://www.nohayonline.com/details_content.php?id=357
 # raw_sha256: 3c7854b2dbad6d76cd04bb80d20458c337fa7065476804d1e432c73fb13248f4
+# source_id: tajpoints:807528878b962b1b98d7
+# source_url: https://tajpoints.com/2022/11/aey-madina-ghazab-hogya-nadeem-sarwar.html
+# raw_sha256: e029da81bc1c34a0a38bdf6329d97e725abb1b71889fee0f94863116afcb0a1a
 ---
 قافلہ جب وطن لوٹ آیا
 آ کے بابِ مدینہ پہ ٹھہرا

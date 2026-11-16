@@ -86,6 +86,9 @@ romanLyrics: |-
 # source_id: nohayonline:58da51455872e989cbd1
 # source_url: https://www.nohayonline.com/details_content.php?id=359
 # raw_sha256: 667614822848ce79ab12ee008afdd3e92ad904a361e0ae009707446839689d73
+# source_id: tajpoints:a1656e826ab905aad0be
+# source_url: https://tajpoints.com/2022/11/behan-mein-saath-nadeem-sarwar-lyrics.html
+# raw_sha256: dd5254df99852dac6184220e472c9d73844ad450a6f29ad58128a8e7b1023145
 ---
 رسن میں بندھ چکا گلا
 لو چل پڑا وہ قافلہ
