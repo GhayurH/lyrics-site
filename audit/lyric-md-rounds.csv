@@ -3159,6 +3159,9 @@ src/data/lyrics/tu-bada-rehman.md,round_1,present,nohayonline,nohayonline:26eea1
 src/data/lyrics/tu-badi-dukhi-hai.md,round_1,present,nohayonline,nohayonline:82ca1eca5662ca5a26e0,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/tu-bekafan-hai-baba.md,round_1,present,nohayonline,nohayonline:df4e38e935d8358228e2,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/tu-dekh-nahi.md,round_1,present,nohayonline,nohayonline:858c78c11afa8fcea6a0,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/tu-hai-bara-rehman-mola-nadeem-sarwar-tajpoints-6ed5f83e25f3879ea88e.md,round_2,consolidated,tajpoints,tajpoints:6ed5f83e25f3879ea88e,round2-kalams-2026-11-14,Reconciled with src/data/lyrics/tu-hai-bara-rehman.md on 2026-11-16
+src/data/lyrics/tu-hai-bara-rehman-mula-tu-bara-rehman-tajpoints-1272f37665e34564023a.md,round_2,consolidated,tajpoints,tajpoints:1272f37665e34564023a,round2-kalams-2026-11-14,Reconciled with src/data/lyrics/tu-hai-bara-rehman.md on 2026-11-16
+src/data/lyrics/tu-hai-bara-rehman.md,round_2,present,tajpoints,tajpoints:6ed5f83e25f3879ea88e;tajpoints:1272f37665e34564023a,round2-kalams-2026-11-14,Joined 50-verse witness with 10 unique lines from shorter variant into 12 stanzas
 src/data/lyrics/tu-jab-bhi-pukarega.md,round_1,present,nohayonline,nohayonline:a1fd631eb1649071d222,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/tu-jise-hussain.md,round_1,present,nohayonline,nohayonline:f4f92e7185426b13f230,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/tu-layazl-o-lamyazl.md,round_1,present,nohayonline,nohayonline:2862a341e62f047d1335,feat/import-overlap-reconciliation-2026-11-05,
