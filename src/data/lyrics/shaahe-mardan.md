@@ -6,7 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
-reciter: ["Sachey Bhai","Shadman Raza"]
+reciter: ["Sachey Bhai", "Shadman Raza"]
 tags: []
 aliases: ["Shaahe Mardan"]
 published: true

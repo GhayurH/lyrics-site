@@ -4,7 +4,7 @@ The repository stores culturally and religiously significant source text. Treat 
 
 ## Editing poetry
 
-- Standalone poems are `src/data/lyrics/*.md`; source schema is `src/content.config.ts`. Retain required `kalamType` and independently meaningful poet, reciter, language, occasion, `haal` and `romanHaal` metadata. Roman text is a correctly indented `romanLyrics: |-` literal block.
+- Standalone poems are `src/data/lyrics/*.md`; source schema is `src/content.config.ts`. Retain required `kalamType` and independently meaningful poet, reciter, language, occasion, `haal` and `romanHaal` metadata. `kalamType` and `reciter` accept either one string or an array of independent values (e.g. `kalamType: ["Salam", "Noha"]` or `reciter: ["Sachey Bhai", "Shadman Raza"]`); do not combine separate facets into one invented name. Roman text is a correctly indented `romanLyrics: |-` literal block.
 - A Basta page is a single `src/data/basta/pages/NNN.md` record. Its Urdu text is the Markdown body; any Roman edition is stored in the `romanLyrics: |-` frontmatter block. Preserve printed page numbers, stanza boundaries and the literal `---***---` between-kalam marker. The index is not a reason to invent missing boundaries.
 - Follow [Transliteration](TRANSLITERATION.md) for **all** Roman orthography, pronunciation, edition-completeness rules and source-text exceptions; do not duplicate those standards here.
 - For **بی‌بی**, retain the canonical U+200C non-joiner in the Urdu source. Other invisible code points remain subject to review.

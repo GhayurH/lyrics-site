@@ -10,6 +10,12 @@ reciter: "Mir Hasan Mir"
 tags: []
 aliases: []
 published: true
+# source_id: nohayonline:39e9c8959fb3c73fb9c9
+# source_url: https://www.nohayonline.com/details_content.php?id=2573
+# raw_sha256: 8d3dab80084b8708dc52bb6eab0f122616775b345a20f95613e716cba0bc43c5
+# source_id: ziyaraat:6020a8d2dc39f9d04b28
+# source_url: https://www.ziyaraat.net/api/noha/2303
+# raw_sha256: fab404e5a8bb2122c76199ac7c552e7a7722cbb101756404e501b4128d7ceec3
 romanLyrics: |-
   Nikla hai janaaza koi Allah ke ghar se
   Aflaak meiṅ ik shor hai maatam ke asar se

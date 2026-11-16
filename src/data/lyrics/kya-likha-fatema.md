@@ -9,6 +9,9 @@ poet: "Mir Sajjad Mir"
 tags: []
 aliases: []
 published: true
+# source_id: tajpoints:339e6df4c9170daf9e3c
+# source_url: https://tajpoints.com/2017/02/kya-likha-fatima-sughra-ne-bataya-na.html
+# raw_sha256: 6b84b371c50e7c17c46aeafcde4900cbb75dd920948add71775db628d61d8004
 romanLyrics: |-
   Kya likha Fatema Sughra ne bataaya na gaya
   Sheh se khat laasha-e-Akbar pe sunaaya na gaya

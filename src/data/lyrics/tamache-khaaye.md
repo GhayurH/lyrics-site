@@ -10,6 +10,9 @@ reciter: "Shahid Baltistani"
 tags: []
 aliases: []
 published: true
+# source_id: tajpoints:82164c5c440b1b0879ed
+# source_url: https://tajpoints.com/2019/02/pani-masooma-ne-manga-tu-tamachay-khaye.html
+# raw_sha256: bf8d9d05c1743b09c53fd3315e4df3386995e200455160850a854bc19f4980ec
 romanLyrics: |-
   Haye mazluma haye Sakina
   Haye maasuma haye Sakina
@@ -51,9 +54,20 @@ romanLyrics: |-
   Thak ke baithi jo Sakina to tamaache khaaye
 
   9
+  Chhinne aaya jo bachchi ki rida Shimar-e-lain
+  Is ne chaadar ko na chhora to tamaanche khaae
+
+  10
+  Bhaai ka nanha sa sar girta tha jab neze se
+  Is ne godi meiṅ uthaaya to tamaanche khaae
+
+  11
+  Kiuṅ mere baaba pe zaalim tu chalaata hai chhuri
+  Us ne jab Shimar se puchha to tamaanche khaae
+
+  12
   Mir Sajjad Sakina bhi hai Zahra ki tarah
-  Ho gayi jab ye yatima to tamaache khaaye
-# source_id: nohayonline:9b330c5881dd9dcf8d94
+  Ho gayi jab ye yatima to tamaache khaaye# source_id: nohayonline:9b330c5881dd9dcf8d94
 # source_url: https://www.nohayonline.com/details_content.php?id=973
 # raw_sha256: c73c20ed0289edd1bc4b98589411348ec66dd72b12b8cef64f25ef77dabffb27
 ---
@@ -97,5 +111,17 @@ romanLyrics: |-
 تھک کے بیٹھی جو سکینہ تو طمانچے کھائے
 
 ۹
+چھیننے آیا جو بچی کی ردا شمرِ لعین
+اس نے چادر کو نہ چھوڑا تو طمانچے کھائے
+
+۱۰
+بھائی کا ننھا سا سر گرتا تھا جب نیزے سے
+اس نے گودی میں اٹھایا تو طمانچے کھائے
+
+۱۱
+کیوں میرے بابا پہ ظالم تو چلاتا ہے چھری
+اُس نے جب شمر سے پوچھا تو طمانچے کھائے
+
+۱۲
 میر سجاد سکینہ بھی ہے زہرا کی طرح
 ہو گئی جب یہ یتیمہ تو طمانچے کھائے

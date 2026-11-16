@@ -5,10 +5,15 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Lal Hussain Hyderi"
+reciter: "Farhan Ali Waris"
 tags: []
 aliases:
   - "Mazloom Be Watan Ye Mera Moula Raza Hai"
 published: true
+# source_id: nohayonline:6ae03f0c51a98e597207
+# source_url: https://www.nohayonline.com/details_content.php?id=3015
+# raw_sha256: 9a5ee0f6bc767dc636e0d17aa456f713874f884999dae168199216307097a941
 romanLyrics: |-
   Mazlum bewatan Ye Mera Maula Raza Hai
   Haye Jisko Zehar Logoṅ Musalmaaṅ ne Diya Hai

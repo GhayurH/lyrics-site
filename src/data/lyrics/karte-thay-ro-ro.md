@@ -9,6 +9,12 @@ reciter: "Alamdar Razvi"
 tags: []
 aliases: ["Karte Thay Ro Ro"]
 published: true
+# source_id: nohayonline:b7ad208a0f1c564d1ba8
+# source_url: https://www.nohayonline.com/details_content.php?id=3289
+# raw_sha256: 1c14b61b32da2d0a852e7ac220ead9dd0aee51eed569f8ba21bcec76e3db80db
+# source_id: ziyaraat:089eb332ec886703889a
+# source_url: https://www.ziyaraat.net/api/noha/617
+# raw_sha256: 2f48490a1f54790ed06a02c30e8eb149ebd60c7a621892a32bede8306e92117e
 romanLyrics: |-
   Karte the ro ro ke ye Hazrat bayaaṅ
   Tor gaye meri kamar bhaai jaaṅ
