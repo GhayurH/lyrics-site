@@ -54,6 +54,11 @@ romanLyrics: |-
 # source_id: nohayonline:5e82a6782116214871e6
 # source_url: https://www.nohayonline.com/details_content.php?id=246
 # raw_sha256: 409a0232d1ca83f33de225f19ecf86049f5ff37a27f0f89760ccc5262d480cd2
+# source_id: nohawriteups:05cd3532d2b00d87ca64
+# source_url: https://www.nohawriteups.org/matam-ki-sada-se-soya-hoa/
+# original_html: snapshots/nohawriteups/original_html/05cd3532d2b00d87ca64.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/05cd3532d2b00d87ca64.json
+# api_content_sha256: a3f285635992de156137b99da19d26ed709d2a24eff66b601e2e6b1a1f1345b6
 ---
 ماتم کی صدا سے
 سویا ہوا احساس جگایا جاتا ہے
