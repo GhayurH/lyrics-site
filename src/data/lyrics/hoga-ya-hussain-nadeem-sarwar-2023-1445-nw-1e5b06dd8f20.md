@@ -4,6 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+reciter: "Nadeem Sarwar"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,7 +13,10 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/1e5b06dd8f201a5a9c84.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/1e5b06dd8f201a5a9c84.json
 # api_content_sha256: 09207b28e0a1d9289807aee8ba657e667b727960b8cab45be4adf4e5e36ffb50
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Two matching sources consolidated; repeated refrains need editorial review. Unpublished.
+# source_id: tajpoints:27f37c876261f39af39b
+# source_url: https://tajpoints.com/2023/07/hoga-ya-hussain-nadeem-sarwar-lyrics-in.html
+# raw_sha256: 88aa8d7861e49a0aeabebbea044e3063de1dce6dc95991038032af279ea874ca
 ---
 
 “Hoga Ya Hussain Lyrics

@@ -4,6 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+reciter: "Nadeem Sarwar"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,7 +13,10 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/b3a0e54ed8f7178dd5d2.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/b3a0e54ed8f7178dd5d2.json
 # api_content_sha256: 96e92bafa064de1ee2852a9de9b8207c7c79dac9934dde793d7898150a07f573
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Two matching sources consolidated; the longer NohaWriteups edition is retained for full editorial review. Unpublished.
+# source_id: tajpoints:0270c9bbca45fa045f19
+# source_url: https://tajpoints.com/2022/08/hazrat-imam-hussain-nadeem-sarwar.html
+# raw_sha256: 3bfab2d9ca32207c2b2cade7392b69b7ecbb4dbcaed273527d7261ba10f68146
 ---
 
 Hussain Hussain Hussain Hussain

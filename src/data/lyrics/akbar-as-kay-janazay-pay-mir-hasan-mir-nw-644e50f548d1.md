@@ -4,6 +4,8 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Mir Takallum"
+reciter: "Mir Hasan Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,7 +14,10 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/644e50f548d10d581943.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/644e50f548d10d581943.json
 # api_content_sha256: 1e3a6e145b73fe1f402a26f36eb1e489e49524d161e06a614b6a1e90f66534d5
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: The line 'Lo Hath Mera Thamo' differs between witnesses ('dhool hai jaanan' / 'door hai jaana'); source discrepancy requires review. Unpublished.
+# source_id: tajpoints:dde4b515f5caca025922
+# source_url: https://tajpoints.com/2023/07/akbar-kay-janazay-pay-mir-hasan-mir.html
+# raw_sha256: 345d60f938d61c369680436aa8151a49b5eae827101c90c911a6c606ff4054e0
 ---
 
 HAYE
@@ -99,4 +104,3 @@ AKBAR KAY JANAZAY PAY MUJHAY LAY CHALO BHAIYA
 
 AKBAR HAYE HAYE AKBAR
 
-Akbar (as) Kay Janazay Pay | Mir Hasan Mir Nohay 2023 | Muharram 2023/1445
