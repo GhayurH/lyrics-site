@@ -10,6 +10,9 @@ poet: "Akhtar Sirsvi"
 tags: []
 aliases: []
 published: true
+# source_id: nohayonline:321ff45e6412eebc96cb
+# source_url: https://www.nohayonline.com/details_content.php?id=1802
+# raw_sha256: 02a3d9140806532322a54751a452b1560b933697d175f078834fb379922fa0a1
 romanLyrics: |-
   Haaye Sajjad haaye bimaar
   Haaye bimaar haaye Sajjad

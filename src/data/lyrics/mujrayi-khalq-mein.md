@@ -5,6 +5,8 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Salam"
+poet: "Mir Munis Lakhnavi"
+reciter: "Asad Amanat Ali Khan"
 tags: []
 aliases:
   - "Mujrayi Khalq Mein"

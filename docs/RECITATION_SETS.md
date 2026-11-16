@@ -31,7 +31,7 @@ Offline HTML exports include ordered text, notes, reciters, source attribution a
 
 ## Permanent source identity
 
-`src/data/recitation/identity-lock.json` reserves lyric, Basta and numbered-stanza IDs. The recitation catalog and “Add to set” links use `recitationId` where declared, not a possibly renamed filename or a mutable display title. These IDs **must not** change after title edits, filename changes, punctuation fixes or source-page movement. Stanza anchors use reviewed opening fingerprints, not current stanza numbers. Retired IDs are not recycled; ambiguous multi-stanza edits require source review.
+`src/data/recitation/identity-lock.json` reserves lyric, Basta and numbered-stanza IDs. The recitation catalog and “Add to set” links use `recitationId` where declared, not a possibly renamed filename or a mutable display title. These IDs **must not** change after title edits, filename changes, punctuation fixes or source-page movement. Stanza anchors use reviewed opening fingerprints, not current stanza numbers. Retired IDs are not recycled; ambiguous multi-stanza edits require source review. The 129 original standalone Markdown IDs remain protected. Imported lyric IDs may be removed from this lock following reviewed editorial consolidation or modification; the sync command does not automatically re-lock those imported entries. Previously locked, unchanged imported IDs stay protected, and Basta/stanza identities retain their existing guarantees.
 
 After changing source Markdown, run `npm run source:sync`, verify the diff and run `npm run build`. `source:check` validates identities read-only on every build. See [Contributing](CONTRIBUTING.md#source-synchronization-and-approvals).
 

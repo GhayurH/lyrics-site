@@ -1,6 +1,6 @@
 // File role: Server-only lyric collection loader/grouping helpers so browse, category, and detail routes share one published-data pipeline.
 import { getCollection, type CollectionEntry } from "astro:content";
-import { compareLyrics, getLyricKalamType } from "./lyrics";
+import { compareLyrics, getLyricKalamTypes } from "./lyrics";
 
 export type LyricEntry = CollectionEntry<"lyrics">;
 
@@ -21,10 +21,11 @@ export function groupLyricsByKalamType(
   const grouped = new Map<string, LyricEntry[]>();
 
   for (const lyric of lyrics) {
-    const kalamType = getLyricKalamType(lyric.data);
-    const entries = grouped.get(kalamType) ?? [];
-    entries.push(lyric);
-    grouped.set(kalamType, entries);
+    for (const kalamType of getLyricKalamTypes(lyric.data)) {
+      const entries = grouped.get(kalamType) ?? [];
+      entries.push(lyric);
+      grouped.set(kalamType, entries);
+    }
   }
 
   return grouped;

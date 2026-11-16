@@ -19,7 +19,7 @@ romanLyrics: |-
   1
   shah barh kar behan ke gale lag gaye
   aur dukhiya behan se ye kehne lage
-  se ye kehne lage
+  ro ke kehne lage
   meri mazlum pyasi musafir behan
   tera haafiz khuda alwida alwida
 
@@ -75,7 +75,7 @@ romanLyrics: |-
 ۱
 شاہ بڑھ کر بہن کے گلے لگ گئے
 اور دُکھیا بہن سے یہ کہنے لگے
-سے یہ کہنے لگے
+رو کے کہنے لگے
 میری مظلوم پیاسی مسافر بہن
 تیرا حافظ خدا الوداع الوداع
 

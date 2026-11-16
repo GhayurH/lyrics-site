@@ -1,13 +1,13 @@
 ---
-title: "فاطمہ کے چین نے علی کے نورِ عین نے"
+title: "فاطمہ کے چین نے"
 alternateTitle: "Fatima Ke Chain Ne"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Salam"
+kalamType: ["Salam", "Noha"]
+reciter: "Sachey Bhai"
 tags: []
-aliases:
-  - "Fatima Ke Chain Ne"
+aliases: []
 published: true
 romanLyrics: |-
   Fatima ke chain ne Ali ke nur-e-ain ne

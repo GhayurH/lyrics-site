@@ -27,7 +27,9 @@ const { lyric, showKalamType = false, saveable = true } = Astro.props as Props;
     }
 
     <span class="lyric-card-meta" aria-hidden="true">
-      {showKalamType && <span class="metadata-chip">{lyric.kalamType}</span>}
+      {showKalamType && (lyric.kalamTypes ?? [lyric.kalamType]).map((type) => (
+        <span class="metadata-chip">{type}</span>
+      ))}
       {lyric.tags?.map((tag) => <span class="metadata-chip">{tag}</span>)}
     </span>
   </a>

@@ -48,3 +48,40 @@ test("two selections in one facet persist across reloads and individual chip rem
   await page.locator('[data-filter-key="haal"]').first().click();
   await expect(page.locator('[data-filter-key="haal"]')).toHaveCount(1);
 });
+
+test("multi-valued lyric categories appear in both browse lists and just one detail page", async ({ page }) => {
+  for (const category of ["noha", "salam"]) {
+    await page.goto(`/categories/${category}/`);
+    await expect(page.locator('a.lyric-card-link[href="/lyrics/fatima-ke-chain-ne/"]')).toHaveCount(1);
+  }
+  await page.goto("/lyrics/fatima-ke-chain-ne/");
+  await expect(page.locator('.reader-subnav a[href="/categories/noha/"]')).toHaveCount(1);
+  await expect(page.locator('.reader-subnav a[href="/categories/salam/"]')).toHaveCount(1);
+});
+
+test("independent reciters each retrieve the same kalam without a combined facet", async ({ page }) => {
+  for (const reciter of ["Sachey Bhai", "Shadman Raza"]) {
+    await page.goto("/search/?q=" + encodeURIComponent("Shaah-e-Mardaaṅ") +
+      "&reciter=" + encodeURIComponent(reciter));
+    await expect(page.locator('a.pf-result-link[href="/lyrics/shaahe-mardan/"]'))
+      .toBeVisible({ timeout: 20000 });
+  }
+  await page.goto("/search/");
+  const facets = await page.evaluate(async () => {
+    const pagefind = await import("/pagefind/pagefind.js");
+    return pagefind.filters();
+  });
+  for (const category of ["Salam", "Noha"]) {
+    expect(facets.kalamType[category]).toBeGreaterThan(0);
+  }
+  for (const reciter of ["Sachey Bhai", "Shadman Raza"]) {
+    expect(facets.reciter[reciter]).toBeGreaterThan(0);
+  }
+  expect(facets.reciter["Sachey Bhai; Shadman Raza"]).toBeUndefined();
+
+  await page.goto("/lyrics/shaahe-mardan/");
+  for (const reciter of ["Sachey Bhai", "Shadman Raza"]) {
+    await expect(page.locator('.lyric-details a[href*="reciter="]')
+      .filter({ hasText: reciter })).toHaveCount(1);
+  }
+});

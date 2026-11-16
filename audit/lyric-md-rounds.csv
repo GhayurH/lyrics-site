@@ -1,5 +1,5 @@
 path,round,status,source_sites,source_ids,added_from,notes
-src/data/lyrics/aa-alamdaar-haye-alamdaar.md,round_1,present,nohayonline;ziyaraat,nohayonline:b7ad208a0f1c564d1ba8;ziyaraat:089eb332ec886703889a,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/aa-alamdaar-haye-alamdaar.md,round_1,consolidated,nohayonline;ziyaraat,nohayonline:b7ad208a0f1c564d1ba8;ziyaraat:089eb332ec886703889a,feat/import-overlap-reconciliation-2026-11-05,Consolidated into src/data/lyrics/karte-thay-ro-ro.md on 2026-11-16; fuller 14-stanza edition; source-provenance merged
 src/data/lyrics/aa-ali-asghar.md,round_1,present,nohayonline,nohayonline:8f3e27d76d05c6d53436,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/aa-asghar-bin-tere.md,original,present,,,main,
 src/data/lyrics/aa-asghar-mere.md,round_1,present,nohayonline,nohayonline:c4aaeed414fcf0a3ac27,feat/import-overlap-reconciliation-2026-11-05,
@@ -38,7 +38,7 @@ src/data/lyrics/aaj-bhi-sab-se-numaya-hai-alam-abbas-ka.md,round_1,present,tajpo
 src/data/lyrics/aaj-chup-hogayi.md,round_1,present,nohayonline,nohayonline:f80bef5d5fcd405d4aab,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/aaj-daswaan-naib-khair-ul-bashar-paida-howa.md,round_1,present,tajpoints,tajpoints:38c59ad6caf907cbe325,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/aaj-ghar-se-nahi.md,round_1,present,nohayonline,nohayonline:3bdd0f914ccfb6bc2daa,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/aaj-hai-chaliswan.md,round_1,present,nohayonline,nohayonline:272e867ad13f759910de,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/aaj-hai-chaliswan.md,round_1,consolidated,nohayonline,nohayonline:272e867ad13f759910de,feat/import-overlap-reconciliation-2026-11-05,Consolidated into src/data/lyrics/shaam-se-jab-ahl-e-bait-ghamzada-giryaan-chalay.md on 2026-11-16; restored 3 unique later burial stanzas
 src/data/lyrics/aaj-hai-chehlum.md,round_1,present,nohayonline,nohayonline:f72fd4aa0403850cffd6,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/aaj-hai-khafile-ki.md,round_1,present,nohayonline,nohayonline:eeab8ea760de084a3661,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/aaj-hai-khurasan.md,round_1,present,nohayonline,nohayonline:e7e14cee2a7432630e76,feat/import-overlap-reconciliation-2026-11-05,
@@ -149,7 +149,7 @@ src/data/lyrics/ab-wo-sajjad-na.md,round_1,present,nohayonline,nohayonline:f4804
 src/data/lyrics/ab-zindagi-bhar.md,round_1,present,nohayonline,nohayonline:a2aa9dc8a24f87e4a487,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/abaad-ghar-hussain.md,round_1,present,nohayonline,nohayonline:0f9ef1cde5580fd93dd1,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/abadwalla-ya-zahra.md,round_1,present,nohayonline,nohayonline:356f9e89ea5302c733c5,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/abal-fazl.md,round_1,present,nohayonline,nohayonline:0ce5203a2ba557274954,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/abal-fazl.md,round_1,consolidated,nohayonline,nohayonline:0ce5203a2ba557274954,feat/import-overlap-reconciliation-2026-11-05,Consolidated into src/data/lyrics/ya-abal-fazl.md on 2026-11-16; restored unique four-line stanza from shorter edition
 src/data/lyrics/abal-fazle-bawafa.md,round_1,present,nohayonline,nohayonline:06dafcb4d60e6f453cda;nohayonline:fdc137a07abb6a4ac917,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/abal-hasan-mola-shah-e-khurasan.md,round_1,present,tajpoints,tajpoints:899a46902b996e90991f,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/abbas-aa-ke-dekho.md,round_1,present,nohayonline,nohayonline:cbc36b877de043a36b65,feat/import-overlap-reconciliation-2026-11-05,
@@ -656,7 +656,7 @@ src/data/lyrics/ay-zaairon-qadam.md,round_1,present,nohayonline,nohayonline:d200
 src/data/lyrics/ay-zaamine-ghariban.md,round_1,present,nohayonline,nohayonline:9550be2e881e4de61e07,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ay-zaeefa-meri.md,round_1,present,nohayonline,nohayonline:08d0dfbf60a15b3643eb,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ay-zahra-ke-baba.md,round_1,present,nohayonline,nohayonline:1df23ca76af2882bd517,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/ay-zameene-karbala.md,round_1,present,nohayonline,nohayonline:e2a9316a615198c77ce5,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/ay-zameene-karbala.md,round_1,consolidated,nohayonline,nohayonline:e2a9316a615198c77ce5,feat/import-overlap-reconciliation-2026-11-05,Consolidated into src/data/lyrics/laashae-asghar-ko.md on 2026-11-16; same four stanzas; editorially cleaner source retained
 src/data/lyrics/ay-zuljana.md,round_1,present,nohayonline,nohayonline:e26ebdcdcb367fd25c89,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/aye-aun-o-muhammad.md,original,present,,,main,
 src/data/lyrics/aye-chand-muharram-kai.md,original,present,nohayonline;ziyaraat,nohayonline:fcb673db20a980ce3108;ziyaraat:7d7a0b60e4d4704aad5a,main,
@@ -857,7 +857,7 @@ src/data/lyrics/bekason-ka-khaafla.md,round_1,present,nohayonline,nohayonline:92
 src/data/lyrics/bemaar-behan-ka.md,round_1,present,nohayonline,nohayonline:19506fbb13716b25b807,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/bemaar-behen-ka.md,round_1,present,nohayonline,nohayonline:9d2ee152680c26e995ef,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/bemaar-chod-de.md,round_1,present,nohayonline,nohayonline:5e3c769166300f7065fe,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/bemaar-dhoop-may.md,round_1,present,nohayonline,nohayonline:321ff45e6412eebc96cb,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/bemaar-dhoop-may.md,round_1,consolidated,nohayonline,nohayonline:321ff45e6412eebc96cb,feat/import-overlap-reconciliation-2026-11-05,Consolidated into src/data/lyrics/kaise-chale-hussain.md on 2026-11-16; same eight stanzas; fuller opening retained
 src/data/lyrics/bemaar-ka-janaza.md,round_1,present,nohayonline,nohayonline:60ba5d9475b0722393d9,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/bemaar-ki-aankhein.md,round_1,present,nohayonline;ziyaraat,nohayonline:2d10b0a3281df3dfcdae;ziyaraat:c9cf30611a3f8de73d5b,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/beparda-shaam-ki.md,round_1,present,nohayonline,nohayonline:54646217465feb2e0b8a,feat/import-overlap-reconciliation-2026-11-05,
@@ -968,10 +968,10 @@ src/data/lyrics/chalo-shaam-chale.md,round_1,present,nohayonline,nohayonline:794
 src/data/lyrics/chalta-rahe-karwan.md,round_1,present,nohayonline,nohayonline:866dd2f6db05cbbe464c,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/chaman-chaman-kali.md,round_1,present,nohayonline,nohayonline:504e37592d805ac45d4e,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/chand-ko-dekh-ke-sughra-ne-kaha-haye-hussain.md,original,present,,,main,
-src/data/lyrics/chand-ko-dekh-ke.md,round_1,present,nohayonline,nohayonline:4d356e5aade7e07bce43,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/chand-ko-dekh-ke.md,round_1,consolidated,nohayonline,nohayonline:4d356e5aade7e07bce43,feat/import-overlap-reconciliation-2026-11-05,Consolidated into src/data/lyrics/chand-ko-dekh-ke-sughra-ne-kaha-haye-hussain.md on 2026-11-16; restored two-line independent preamble
 src/data/lyrics/chand-qadmon-se-sakina.md,round_1,present,nohayonline,nohayonline:9e1968c9bffd0343c1b4,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/chand-rota-raha.md,round_1,present,nohayonline,nohayonline:3cb14d67f89795229e89,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/chane-lagi-shame.md,round_1,present,nohayonline,nohayonline:5e5c2f009b107b98685c,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/chane-lagi-shame.md,round_1,consolidated,nohayonline,nohayonline:5e5c2f009b107b98685c,feat/import-overlap-reconciliation-2026-11-05,Consolidated into chhane-lagi-shaam-e-ghareeban.md by editor
 src/data/lyrics/char-baras-waali.md,round_1,present,nohayonline,nohayonline:39da04cad0eaa3d63fde,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/charaghe-chehraye.md,round_1,present,nohayonline,nohayonline:bdaee2353fca6da1967d,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/charaghe-hussain.md,round_1,present,nohayonline,nohayonline:e39873c1c53019e27815,feat/import-overlap-reconciliation-2026-11-05,
@@ -1030,7 +1030,7 @@ src/data/lyrics/dayar-e-karb-o-bala.md,round_1,present,tajpoints,tajpoints:58cff
 src/data/lyrics/de-kar-alam-jo-sheh.md,round_1,present,nohayonline,nohayonline:2238975df18f9a9af277,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/deen-ka-data-jagat-ka-malik.md,round_1,present,,,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/deen-ko-abide.md,round_1,present,nohayonline,nohayonline:75f9334b63dcc13b5250,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/deen-ko-bacha-liya.md,round_1,present,nohayonline,nohayonline:e598b05b9ec81cdb382f,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/deen-ko-bacha-liya.md,round_1,consolidated,nohayonline,nohayonline:e598b05b9ec81cdb382f,feat/import-overlap-reconciliation-2026-11-05,Consolidated into fatima-ke-chain-ne.md by editor
 src/data/lyrics/deene-ahmed-ki-baqa.md,round_1,present,nohayonline,nohayonline:ad70d9da8111dbc5357c,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/deene-mohamed-ki.md,round_1,present,nohayonline,nohayonline:2de90d730f23234ed2d1,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/deewanae-hyder.md,round_1,present,nohayonline,nohayonline:05e3abae8986eaf745f1,feat/import-overlap-reconciliation-2026-11-05,
@@ -1076,7 +1076,7 @@ src/data/lyrics/dono-jahan-may.md,round_1,present,nohayonline,nohayonline:01bac4
 src/data/lyrics/dooba-hua-hussain.md,round_1,present,nohayonline,nohayonline:edb87867a79695706195,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/door-hai-ab.md,round_1,present,nohayonline,nohayonline:8799b771487d19edb9b5,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/dua-deti-hai-zehra.md,round_1,present,nohayonline,nohayonline:f244286948640664f532,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/dua-e-kumail.md,round_1,present,nohayonline;tajpoints;ziyaraat,tajpoints:828e40724257f459f6a1;nohayonline:5289ff4d9fb9a53aeeb1;ziyaraat:2796cb6a05933833dab9,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/dua-e-kumail.md,round_1,consolidated,nohayonline;tajpoints;ziyaraat,tajpoints:828e40724257f459f6a1;nohayonline:5289ff4d9fb9a53aeeb1;ziyaraat:2796cb6a05933833dab9,feat/import-overlap-reconciliation-2026-11-05,Consolidated into ya-sari-ar-riza.md by editor
 src/data/lyrics/dua-e-ziyarat.md,round_1,present,nohayonline,nohayonline:b4ee829d67c95f66f232,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/dua-karna-ali-akbar.md,round_1,present,nohayonline,nohayonline:aa1cc71e41b97882ce0d,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/dua-karo-amma.md,round_1,present,nohayonline,nohayonline:649fe9d5ded52bfcf2a4,feat/import-overlap-reconciliation-2026-11-05,
@@ -1248,7 +1248,7 @@ src/data/lyrics/haan-tha-mera-baba.md,round_1,present,nohayonline;ziyaraat,nohay
 src/data/lyrics/haath-pehlu-se-hataya.md,round_1,present,nohayonline,nohayonline:f386f4a287f3cbbd4c7c,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/haaton-may-rasiyan.md,round_1,present,nohayonline,nohayonline:cf01f3dee48ee007b984,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/haaye-abbas-haaye-abbas-haaye-abbas.md,original,present,,,main,
-src/data/lyrics/habeeb-aa-jao.md,round_1,present,nohayonline,nohayonline:8c7057bb96bd66bad9f1,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/habeeb-aa-jao.md,round_1,consolidated,nohayonline,nohayonline:8c7057bb96bd66bad9f1,feat/import-overlap-reconciliation-2026-11-05,Consolidated into ye-khat-mein-shah-ne-likha-habib-aajaao.md by editor
 src/data/lyrics/had-ho-gayi-hai.md,round_1,present,tajpoints,tajpoints:f079eb5cfc3e3dab628c,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/hae-kis-bekaso-mazlum.md,round_1,present,nohayonline,nohayonline:1b53f7b12de3f6957fed,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/hai-aaj-bhi-zamane-mein-charcha-hussain-ka.md,round_1,present,tajpoints,tajpoints:b92461e818a21d490bed,feat/import-overlap-reconciliation-2026-11-05,
@@ -1274,7 +1274,7 @@ src/data/lyrics/haider-se-adawat-thi-tu-kaba-nahi-letey.md,round_1,present,tajpo
 src/data/lyrics/hairat-may-hoo.md,round_1,removed_duplicate,nohayonline,nohayonline:aaa82779944521048c25,feat/import-overlap-reconciliation-2026-11-05,"2026-11-15 manually compared to Basta Rubaiyat 25, p. 93: all four lines duplicated; no added verse. Imported reciter: Sibte Jafar; archived source: https://www.nohayonline.com/details_content.php?id=2670. Provisional duplicate lyric identity purged; printed Basta text and permanent source IDs unchanged."
 src/data/lyrics/hakime-waqt-agar.md,round_1,present,nohayonline,nohayonline:1ad79a24a4107f20e8ac,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/hal-min-nasir.md,round_1,present,nohayonline,nohayonline:f4fa2f2192cbcb1caa1e,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/halchal-hai-fauje.md,round_1,present,nohayonline,nohayonline:cff2fa9d38d6b3eb9bf9,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/halchal-hai-fauje.md,round_1,consolidated,nohayonline,nohayonline:cff2fa9d38d6b3eb9bf9,feat/import-overlap-reconciliation-2026-11-05,Consolidated into src/data/lyrics/halchal-hay-fauj-e-shaam-mein-abbas-atay-hain.md on 2026-11-16; same poem; original contains additional closing couplet
 src/data/lyrics/halchal-hay-fauj-e-shaam-mein-abbas-atay-hain.md,original,present,,,main,
 src/data/lyrics/halmin-nasirin.md,round_1,present,nohayonline,nohayonline:54e6525b57b3d0a7a553,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ham-se-pucha-ke-kiya-zaruri-hai.md,original,present,,,main,
@@ -1405,7 +1405,7 @@ src/data/lyrics/ho-salaam-uspe-jo.md,round_1,present,nohayonline,nohayonline:42c
 src/data/lyrics/hoagaya-qatl-shahe.md,round_1,present,nohayonline,nohayonline:28142aa11cc8876abd57,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/hoga-ya-hussain.md,round_1,present,nohayonline,nohayonline:3abbc56b9b9ddf9b37c4,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/hogaya-khamosh.md,round_1,present,nohayonline,nohayonline:c84d97b5709ede4459f8,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/hogaya-marna-sitam.md,round_1,present,nohayonline,nohayonline:214ab97f7704ddcb79f0,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/hogaya-marna-sitam.md,round_1,consolidated,nohayonline,nohayonline:214ab97f7704ddcb79f0,feat/import-overlap-reconciliation-2026-11-05,Consolidated into karte-hain-matam-haram-abbas-ka.md by editor
 src/data/lyrics/hogaya-matam-bapa.md,round_1,present,nohayonline,nohayonline:02da6f52f479c97c22ce;nohayonline:fc17e33d54497e5af871,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/hogaye-baazu-qalam.md,round_1,present,nohayonline,nohayonline:03e58ea7a303e381d933;nohayonline:bacd81e49a5c62cb9813,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/hogaye-zainab-se.md,round_1,present,nohayonline,nohayonline:cc3402236205dfc236b2,feat/import-overlap-reconciliation-2026-11-05,
@@ -1591,7 +1591,7 @@ src/data/lyrics/jab-maula-aayenge.md,round_1,present,nohayonline,nohayonline:d59
 src/data/lyrics/jab-mere-ghar.md,round_1,present,nohayonline,nohayonline:c503eb1696e49ecb376c,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jab-meri-zindagi-ka-labrez-jaam-hoga.md,round_1,present,,,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jab-mujhe-aap-ke-qatil-ne-hai-mara-baba.md,original,present,,,main,
-src/data/lyrics/jab-mujhe-aap-ke.md,round_1,present,nohayonline;ziyaraat,nohayonline:320f169bc76ef605dc68;ziyaraat:5326f6fcf5861cc8cd02,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/jab-mujhe-aap-ke.md,round_1,consolidated,nohayonline;ziyaraat,nohayonline:320f169bc76ef605dc68;ziyaraat:5326f6fcf5861cc8cd02,feat/import-overlap-reconciliation-2026-11-05,Consolidated into src/data/lyrics/jab-mujhe-aap-ke-qatil-ne-hai-mara-baba.md on 2026-11-16; restored four-line preamble and final couplet
 src/data/lyrics/jab-na-aada-se.md,round_1,present,nohayonline,nohayonline:3b40583e471b094a9601,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jab-qaid-hui-shaam.md,round_1,present,nohayonline,nohayonline:ed29dcae658813b04bbb,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jab-raat-ko-ghar.md,round_1,present,nohayonline,nohayonline:2f6196dd4bbf7f378e60,feat/import-overlap-reconciliation-2026-11-05,
@@ -1855,7 +1855,7 @@ src/data/lyrics/kehti-thi-sakina-ab.md,round_1,present,nohayonline,nohayonline:8
 src/data/lyrics/kehti-thi-sakina.md,round_1,present,nohayonline,nohayonline:1324c04e8ed768b82256,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/kehti-thi-umme-laila.md,round_1,present,nohayonline,nohayonline:d2756ef44d1a5b7fd211,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/kehti-thi-ye-fatema.md,round_1,present,nohayonline,nohayonline:46324759967820eacb72,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/kehti-thi-ye-maa.md,round_1,present,nohayonline;ziyaraat,nohayonline:828cd679385fb04e673e;ziyaraat:2a4eb10fac9edc01a184;ziyaraat:9464b12d3dc842914607,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/kehti-thi-ye-maa.md,round_1,consolidated,nohayonline;ziyaraat,nohayonline:828cd679385fb04e673e;ziyaraat:2a4eb10fac9edc01a184;ziyaraat:9464b12d3dc842914607,feat/import-overlap-reconciliation-2026-11-05,Consolidated into src/data/lyrics/haye-haye-ali-akbar.md on 2026-11-16; original has one additional distinct stanza; source-provenance merged
 src/data/lyrics/kehti-thi-ye-zainab.md,round_1,present,nohayonline,nohayonline:974b72aa5906da3a2101,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/kehti-thi-yehi-jeene.md,round_1,present,nohayonline,nohayonline:9da142b286cf24bca86b,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/kehti-thi-yehi-zainab.md,round_1,present,nohayonline,nohayonline:039a610ea9ce1e0a9eb3,feat/import-overlap-reconciliation-2026-11-05,
@@ -1960,7 +1960,7 @@ src/data/lyrics/kya-kare-abbas.md,round_1,present,nohayonline,nohayonline:3e6dec
 src/data/lyrics/kya-kare-bemaar.md,round_1,present,nohayonline,nohayonline:f64a710c84afb732ae09,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/kya-kare-zainab.md,round_1,present,nohayonline,nohayonline:a0fdcd9c2ee72c0d3cf6,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/kya-likha-fatema.md,round_1,present,nohayonline;ziyaraat,nohayonline:e11a43e95c5cf145157c;ziyaraat:bb9437f778322de7f4e4,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/kya-likha-fatima-sughra-ne-bataya-na-gaya.md,round_1,present,tajpoints,tajpoints:339e6df4c9170daf9e3c,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/kya-likha-fatima-sughra-ne-bataya-na-gaya.md,round_1,consolidated,tajpoints,tajpoints:339e6df4c9170daf9e3c,feat/import-overlap-reconciliation-2026-11-05,Consolidated into src/data/lyrics/kya-likha-fatema.md on 2026-11-16; same complete poem
 src/data/lyrics/kya-mai-yateem.md,round_1,present,nohayonline,nohayonline:7bca7b732f0e86179e84,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/kya-mere-jawan-laal.md,round_1,present,nohayonline,nohayonline:050d259580b63bfc6271,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/kya-mujhe-chod-ke.md,round_1,present,nohayonline;ziyaraat,nohayonline:cc6814a8ef3d0f568e56;ziyaraat:0f336b294dbb079e27c0;ziyaraat:3c02df3fba7a92f7c170;ziyaraat:5216ce1fcee3a472ea4a,feat/import-overlap-reconciliation-2026-11-05,
@@ -1975,7 +1975,7 @@ src/data/lyrics/kya-yateemi-hai.md,round_1,present,nohayonline,nohayonline:26425
 src/data/lyrics/kya-ye-wo-chand.md,round_1,present,nohayonline,nohayonline:6553ca9a24514520e2c2,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/kyun-chaar-soo-na-ho-yeh-ojala-ghadeer-ka.md,round_1,present,tajpoints,tajpoints:0a2b36310833b479ea59,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/kyun-chod-jaati-hai.md,round_1,present,nohayonline,nohayonline:a24f5528782a5c80253b,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/la-fata-illah-ali.md,round_1,present,nohayonline,nohayonline:301b25c4f0a0ee4bb63c,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/la-fata-illah-ali.md,round_1,consolidated,nohayonline,nohayonline:301b25c4f0a0ee4bb63c,feat/import-overlap-reconciliation-2026-11-05,Consolidated into shaahe-mardan.md by editor
 src/data/lyrics/laa-raha-hun-main-lasha-e-akbar.md,original,present,,,main,
 src/data/lyrics/laadli-zahra.md,round_1,present,nohayonline,nohayonline:f90c16edab4ec55fdf06,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/laash-abbas-ki.md,round_1,present,nohayonline,nohayonline:0a16509bae56035d0229,feat/import-overlap-reconciliation-2026-11-05,
@@ -2078,7 +2078,7 @@ src/data/lyrics/mai-bahot-pyasi-hoon.md,round_1,present,nohayonline,nohayonline:
 src/data/lyrics/mai-chal-bhi-nahi.md,round_1,present,nohayonline;ziyaraat,nohayonline:78786583819d86b19b8b;ziyaraat:a03767767ae7a6296990,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/mai-deene-mohamed.md,round_1,present,nohayonline,nohayonline:f685760efe86a738ac60,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/mai-hoon-abbas.md,round_1,present,nohayonline,nohayonline:18a399f137b28cfd7e8c,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/mai-hussain-hoo.md,round_1,present,nohayonline,nohayonline:ca4e2d33ac6562b2ad92;nohayonline:fd0d4e140f882e8d8eec,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/mai-hussain-hoo.md,round_1,consolidated,nohayonline,nohayonline:ca4e2d33ac6562b2ad92;nohayonline:fd0d4e140f882e8d8eec,feat/import-overlap-reconciliation-2026-11-05,Consolidated into src/data/lyrics/goonji-bawaqt-e-asr.md on 2026-11-16; restored all 11 complete stanzas in original 129
 src/data/lyrics/mai-hussain-hoon.md,round_1,present,nohayonline,nohayonline:6f14338705ef53fabd0a,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/mai-jaa-raha-hoo.md,round_1,present,nohayonline,nohayonline:d420d4f6772ac801095a,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/mai-jaa-rahi-hoo.md,round_1,present,nohayonline,nohayonline:bb8c5e694352d3ce4945,feat/import-overlap-reconciliation-2026-11-05,
@@ -2288,7 +2288,7 @@ src/data/lyrics/meri-maa-ne-mujhe.md,round_1,present,nohayonline,nohayonline:447
 src/data/lyrics/meri-maa-tum.md,round_1,present,nohayonline,nohayonline:6269e05a27cdfd529a4b,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/meri-marqad-bana-lena.md,original,present,,,main,
 src/data/lyrics/meri-sakina-is-tarha.md,round_1,present,nohayonline;ziyaraat,nohayonline:1afe0a30c76d97af2af5;ziyaraat:101ef6ee6a7ca6ed5734,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/meri-sakina-sa-is-tarha-na-rona.md,round_1,present,ziyaraat,ziyaraat:a19aa35d83dcf10bdf95,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/meri-sakina-sa-is-tarha-na-rona.md,round_1,consolidated,ziyaraat,ziyaraat:a19aa35d83dcf10bdf95,feat/import-overlap-reconciliation-2026-11-05,Consolidated into src/data/lyrics/meri-sakina-is-tarha.md on 2026-11-16; same five stanzas; split-line verse edition retained
 src/data/lyrics/meri-sakina-soja.md,round_1,present,nohayonline,nohayonline:2190057ba9e75ec9bf04,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/meri-sughra-ko-kya.md,round_1,present,nohayonline,nohayonline:9775e7b0b87284129ea4,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/meri-tamanna-ye-hai.md,round_1,present,nohayonline,nohayonline:ec0c33bd06ca4c96bf5d,feat/import-overlap-reconciliation-2026-11-05,
@@ -2330,7 +2330,7 @@ src/data/lyrics/mujhko-maanga-gaya.md,round_1,present,nohayonline,nohayonline:6a
 src/data/lyrics/mujhko-seene-pe.md,round_1,present,nohayonline,nohayonline:e072d21d5135c40102f2,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/mujpe-kyon-bandh.md,round_1,present,nohayonline,nohayonline:4dff3e48200f6eaa32fb,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/mujraee-paida-hua.md,round_1,present,nohayonline,nohayonline:99018d34b8ef5dab5d13,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/mujraee-qalq-may.md,round_1,present,nohayonline;ziyaraat,nohayonline:738ec97aa9299017b9f7;ziyaraat:674c1f08ba1f9a48342c;ziyaraat:f88b4231e8cb25b0f78c,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/mujraee-qalq-may.md,round_1,consolidated,nohayonline;ziyaraat,nohayonline:738ec97aa9299017b9f7;ziyaraat:674c1f08ba1f9a48342c;ziyaraat:f88b4231e8cb25b0f78c,feat/import-overlap-reconciliation-2026-11-05,Consolidated into mujrayi-khalq-mein.md by editor
 src/data/lyrics/mujrayi-khalq-mein.md,original,present,,,main,
 src/data/lyrics/mukhtar-e-aal-e-muhammad.md,round_1,present,tajpoints,tajpoints:372f449a6a63e65ff2f3,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/mula-ab-aa-bhi-jaein-kab-se-bula-rahe-hain.md,round_1,present,tajpoints,tajpoints:d179ebcdef5ff8c6a65b,feat/import-overlap-reconciliation-2026-11-05,
@@ -2428,7 +2428,7 @@ src/data/lyrics/nigah-e-ishq-mein-izat-maab-thi-hi-nahi.md,round_1,present,tajpo
 src/data/lyrics/nigheban-e-risalat.md,round_1,present,tajpoints,tajpoints:efc670140a2464f15e98,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/nikal-do-mere-pehlu.md,round_1,present,nohayonline,nohayonline:aa11f29a8e2e0cfe0ee7,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/nikla-hai-janaza-koi-allah-ke-ghar-se.md,round_1,present,tajpoints,tajpoints:782dc663685dd0746532,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/nikla-hai-janaza-koi.md,round_1,present,nohayonline;ziyaraat,nohayonline:39e9c8959fb3c73fb9c9;ziyaraat:6020a8d2dc39f9d04b28,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/nikla-hai-janaza-koi.md,round_1,consolidated,nohayonline;ziyaraat,nohayonline:39e9c8959fb3c73fb9c9;ziyaraat:6020a8d2dc39f9d04b28,feat/import-overlap-reconciliation-2026-11-05,Consolidated into src/data/lyrics/nikla-hai-janaza-koi-allah-ke-ghar-se.md on 2026-11-16; same complete poem
 src/data/lyrics/noha-kuna-zainabe.md,round_1,present,nohayonline,nohayonline:2ea039fbb2e58602d3d9,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/noha-lubaba-ka-tha.md,round_1,present,nohayonline,nohayonline:a8249f2cc31cb2c39e56,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/noha-tha-kulsoom-ka.md,round_1,present,nohayonline,nohayonline:8c002381382ba1d6c174,feat/import-overlap-reconciliation-2026-11-05,
@@ -2452,7 +2452,7 @@ src/data/lyrics/pamaal-hoke-hazrate.md,round_1,present,nohayonline,nohayonline:7
 src/data/lyrics/pamaal-laasha-dekh.md,round_1,present,nohayonline,nohayonline:c6b490c43a0d6eff88d4,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/pani-ka-band-karna.md,round_1,present,nohayonline,nohayonline:9a7b28a0ca9d41d3d4a4,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/pani-le-aao-ammu.md,round_1,present,nohayonline,nohayonline:d48c2532803a546c9fa6,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/pani-masooma-ne-manga-tu-tamachay-khaye.md,round_1,present,tajpoints,tajpoints:82164c5c440b1b0879ed,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/pani-masooma-ne-manga-tu-tamachay-khaye.md,round_1,consolidated,tajpoints,tajpoints:82164c5c440b1b0879ed,feat/import-overlap-reconciliation-2026-11-05,Consolidated into src/data/lyrics/tamache-khaaye.md on 2026-11-16; three non-overlapping narrative couplets consolidated into longer edition
 src/data/lyrics/pani-nahi-chahiye.md,round_1,present,nohayonline,nohayonline:f13be486d8bcacb1e335,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/pani-pilao.md,round_1,present,nohayonline,nohayonline:226207ba96d11410db52,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/paon-mein-chaale.md,round_1,present,nohayonline,nohayonline:11b49629a8d54534afc0,feat/import-overlap-reconciliation-2026-11-05,
@@ -2517,7 +2517,7 @@ src/data/lyrics/qabr-may-fatema.md,round_1,present,nohayonline,nohayonline:bf685
 src/data/lyrics/qabr-pe-bhai-ke.md,round_1,present,nohayonline,nohayonline:7d52218cc8b3f5d1e0bf,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/qabr-zahra-ki-banana.md,round_1,present,nohayonline,nohayonline:333a392b526ba5f04b68,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/qabre-ali-asghar.md,round_1,present,nohayonline,nohayonline:b55347b65ec57be9deed,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/qabre-sarwar-pe.md,round_1,present,nohayonline,nohayonline:0e4594713d735b48218b,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/qabre-sarwar-pe.md,round_1,consolidated,nohayonline,nohayonline:0e4594713d735b48218b,feat/import-overlap-reconciliation-2026-11-05,Consolidated into src/data/lyrics/qabr-e-sarwar-par-kaha-zainab-ne-ro-kar-alwida.md on 2026-11-16; retained extra Zainab farewell couplet as new stanza
 src/data/lyrics/qabre-sheh-par.md,round_1,present,nohayonline,nohayonline:db51930b5d06a6126e66,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/qabre-zahra-bana-rahe.md,round_1,present,nohayonline,nohayonline:136f467afbf2ff019e16,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/qabre-zehra-dhoop.md,round_1,present,nohayonline,nohayonline:21c66e9e0c2412e25a93,feat/import-overlap-reconciliation-2026-11-05,
@@ -2644,7 +2644,7 @@ src/data/lyrics/roya-kahan-kahan.md,round_1,present,nohayonline,nohayonline:3fd0
 src/data/lyrics/roya-kiya-jo-pyas-se.md,round_1,present,nohayonline;ziyaraat,nohayonline:ff286f98a333e892311d;ziyaraat:14d26e9faf1753e7970b,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/roye-hussain-muslim.md,round_1,present,nohayonline,nohayonline:0206c3f067c38fa2aa25,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/royegi-maa-auno.md,round_1,present,nohayonline,nohayonline:0e7e43481f03f11199eb,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/royi-bahot-yateem.md,round_1,present,nohayonline,nohayonline:52edc25b6e1abb035e7a,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/royi-bahot-yateem.md,round_1,consolidated,nohayonline,nohayonline:52edc25b6e1abb035e7a,feat/import-overlap-reconciliation-2026-11-05,Consolidated into src/data/lyrics/besar-jab-apne-baap-ko-dekha-nashaib-mein.md on 2026-11-16; original 129 has more verses
 src/data/lyrics/royi-jab-laadli-muhammad-ki-sara-darbar-muskuraya-hai.md,original,present,,,main,
 src/data/lyrics/royi-jab-laadli.md,round_1,present,nohayonline,nohayonline:75899030215a3091c546,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/royi-sakina.md,round_1,present,nohayonline,nohayonline:c722f1a377ecc052879e,feat/import-overlap-reconciliation-2026-11-05,
@@ -2813,7 +2813,7 @@ src/data/lyrics/shaam-aa-rahi-hai-dil-paar-hazaro-sadme-uthaye-beti-ali-ki.md,or
 src/data/lyrics/shaam-chali.md,round_1,present,nohayonline;ziyaraat,nohayonline:abdd4067377bf345f136;ziyaraat:506f183c8f23d8b8f9ab,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/shaam-e-ghariban.md,round_1,present,nohayonline,nohayonline:1d5c400bd4065ae85021,feat/import-overlap-reconciliation-2026-11-05,shared_alias:shaameghariban
 src/data/lyrics/shaam-hai-gharibon.md,round_1,present,nohayonline,nohayonline:12ea70f34cdd5133c180,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/shaam-haye-shaam.md,round_1,present,nohayonline,nohayonline:418a9030114db6f80c46,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/shaam-haye-shaam.md,round_1,consolidated,nohayonline,nohayonline:418a9030114db6f80c46,feat/import-overlap-reconciliation-2026-11-05,Consolidated into src/data/lyrics/teri-ummat-ke-zewar-pehen-kar-dekho-nana-chali-hoon-main-sham.md on 2026-11-16; original longer text includes shorter edition
 src/data/lyrics/shaam-hogayi.md,round_1,present,nohayonline,nohayonline:1bc09388cf41ef7c6942,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/shaam-jaana-hai.md,round_1,present,nohayonline,nohayonline:2d4ef6762f642b755310,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/shaam-jaana-yaad.md,round_1,present,nohayonline,nohayonline:6c6de28dd9dd798130b3,feat/import-overlap-reconciliation-2026-11-05,
@@ -2834,7 +2834,7 @@ src/data/lyrics/shabbir-bahot-roye.md,round_1,present,nohayonline,nohayonline:4a
 src/data/lyrics/shabbir-hai-safar-may.md,round_1,present,nohayonline,nohayonline:6f0b39bd97f9586e80c6,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/shabbir-hai-tanha.md,round_1,present,nohayonline,nohayonline:b235afc7c1371da05b0c,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/shabbir-hurmala-se.md,round_1,present,nohayonline,nohayonline:3a2bb2f499a3bc122a55,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/shabbir-ka-charcha-baqi-hai.md,round_1,present,tajpoints,tajpoints:805f5c9d8245cd3229cd,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/shabbir-ka-charcha-baqi-hai.md,round_1,consolidated,tajpoints,tajpoints:805f5c9d8245cd3229cd,feat/import-overlap-reconciliation-2026-11-05,Consolidated into chauda-sadiyan.md by editor
 src/data/lyrics/shabbir-ka-chehlum.md,round_1,present,nohayonline,nohayonline:32a2e2c7a3adaea90b56,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/shabbir-ka-matam.md,round_1,present,nohayonline,nohayonline:3edb8550c58a32d5e0cc,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/shabbir-ka-sar.md,round_1,present,nohayonline,nohayonline:edfc2349d8896c8ba0f4,feat/import-overlap-reconciliation-2026-11-05,
@@ -2877,7 +2877,7 @@ src/data/lyrics/shama-se-shama-jale.md,original,present,,,main,
 src/data/lyrics/shame-ghariban-hai.md,round_1,present,nohayonline,nohayonline:3cf69754d9ccb1122af3,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/shame-ghariban.md,round_1,present,nohayonline,nohayonline:cd34733bd72b6399d20c,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/shamiyon-may-ghir.md,round_1,present,nohayonline,nohayonline:25ca55ca64a6bdb001e4,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/shareek-e-dawat-e-islam-hain-abu-talib.md,original,present,,,main,
+src/data/lyrics/shareek-e-dawat-e-islam-hain-abu-talib.md,original,consolidated,,,main,Consolidated into shareeke-dawate-islam.md retaining original recitationId
 src/data/lyrics/shareeke-dawate-islam.md,round_1,present,nohayonline,nohayonline:39f4cd34e8c8c609c124,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/shauq-arze-karbala.md,round_1,present,nohayonline,nohayonline:11d3750f6d9e199c399f,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/sheh-kehte-thay.md,round_1,present,nohayonline,nohayonline:1eb473c22f02c3b7d3be,feat/import-overlap-reconciliation-2026-11-05,
@@ -2997,7 +2997,7 @@ src/data/lyrics/teer-asghar-ke-liye.md,round_1,present,nohayonline,nohayonline:f
 src/data/lyrics/teer-asghar-ko-laga.md,round_1,present,nohayonline,nohayonline:159242a8abb0cb76e4f6,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/teero-ke-musalle-par.md,round_1,present,nohayonline,nohayonline:4e3106b9c1c9756ec53b,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/teeron-ke-aasman.md,round_1,present,nohayonline,nohayonline:41b2cd8a4be1b76a0b1e,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/teeron-ke-musalle.md,round_1,present,nohayonline,nohayonline:29f3f80e936ce04de2b0,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/teeron-ke-musalle.md,round_1,consolidated,nohayonline,nohayonline:29f3f80e936ce04de2b0,feat/import-overlap-reconciliation-2026-11-05,Consolidated into src/data/lyrics/teero-ke-musalle-par.md on 2026-11-16; 9 of 9 substantive source lines overlap longer edition
 src/data/lyrics/tera-chehlum-karne.md,round_1,present,nohayonline,nohayonline:eb788a0d139a9d456069,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/tera-lahoo-rayegan.md,round_1,present,nohayonline,nohayonline:3128026f4fea62c44cdb,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/tera-matam-shahe-deen.md,round_1,present,nohayonline;ziyaraat,nohayonline:050bf018a4044af5602c;ziyaraat:a08f2da16b2a8014899f,feat/import-overlap-reconciliation-2026-11-05,
@@ -3204,7 +3204,7 @@ src/data/lyrics/ya-zahra.md,original,present,,,main,
 src/data/lyrics/ya-zainabe-kubra.md,round_1,present,nohayonline,nohayonline:e0130d6c57fa4f1a7f72,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/yaa-raaziya-yaa-marziya-yaa-tahera-yaa-sayyada.md,original,present,,,main,
 src/data/lyrics/yaad-aagayi-sakina.md,round_1,present,nohayonline,nohayonline:0adb3819aedd7903cad5,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/yaad-aaoge-bhaiya.md,round_1,present,nohayonline;ziyaraat,nohayonline:ee091016b377f00bb723;ziyaraat:47c927b52b785edb01f3,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/yaad-aaoge-bhaiya.md,round_1,consolidated,nohayonline;ziyaraat,nohayonline:ee091016b377f00bb723;ziyaraat:47c927b52b785edb01f3,feat/import-overlap-reconciliation-2026-11-05,Consolidated into src/data/lyrics/husain-jaata-hai-marne-ko-ay-meri-zainab.md on 2026-11-16; restored longer 8-stanza rendition into original 129
 src/data/lyrics/yaad-aaogi-zahra.md,round_1,present,nohayonline,nohayonline:9a6912ef5c8e54ec2f18,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/yaad-aayi-na-tumhe.md,round_1,present,nohayonline,nohayonline:75fe50a29ab11954d4d8,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/yaad-e-sehwan.md,round_1,present,tajpoints,tajpoints:e6bc4102c2ec72d307e0,feat/import-overlap-reconciliation-2026-11-05,
@@ -3254,7 +3254,7 @@ src/data/lyrics/ye-maa-kahan-na.md,round_1,present,nohayonline;ziyaraat,nohayonl
 src/data/lyrics/ye-madare-asghar.md,round_1,present,nohayonline,nohayonline:246add15f84bd429d5ec,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ye-mahe-moharram.md,round_1,present,nohayonline,nohayonline:44e4fb002528d0577235,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ye-majlise-hussain.md,round_1,present,nohayonline,nohayonline:ca8b26ed2ccc7697807c,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/ye-mera-maula-raza.md,round_1,present,nohayonline,nohayonline:6ae03f0c51a98e597207,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/ye-mera-maula-raza.md,round_1,consolidated,nohayonline,nohayonline:6ae03f0c51a98e597207,feat/import-overlap-reconciliation-2026-11-05,Consolidated into src/data/lyrics/mazloom-be-watan-ye-mera-moula-raza-hai.md on 2026-11-16; same complete verses
 src/data/lyrics/ye-meri-aankh-ke-kashkool-mein-jo-pani-hai.md,round_1,present,tajpoints,tajpoints:9456d473d5415124bf05,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ye-meri-dua-hai.md,round_1,present,nohayonline,nohayonline:394655322bda41ab8033,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ye-meri-laadli.md,round_1,present,nohayonline;ziyaraat,nohayonline:cea98b048358d5e41583;ziyaraat:04b41925ad37b9cc034f,feat/import-overlap-reconciliation-2026-11-05,
@@ -3276,7 +3276,7 @@ src/data/lyrics/yeh-baat-maan-lijiye-takrar-ke-bagair.md,round_1,present,tajpoin
 src/data/lyrics/yeh-jo-fizza-ne-ki-naukri-hai.md,round_1,present,tajpoints,tajpoints:3b6ece56c47e8c20135c,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/yeh-maula-ali-hai.md,original,present,,,main,
 src/data/lyrics/yeh-raaz-kya-hai-duniya-ke-banane-wale.md,original,present,,,main,
-src/data/lyrics/yeh-soch-hoon-keh-abid-ka-haal-kya-ho-ga.md,round_1,present,tajpoints,tajpoints:95b00579bdef40f7ab56,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/yeh-soch-hoon-keh-abid-ka-haal-kya-ho-ga.md,round_1,consolidated,tajpoints,tajpoints:95b00579bdef40f7ab56,feat/import-overlap-reconciliation-2026-11-05,Consolidated into src/data/lyrics/ye-sochta-hoo.md on 2026-11-16; same complete poem
 src/data/lyrics/yehi-hai-sakina.md,round_1,present,nohayonline,nohayonline:56fac90df8cbc837f2b6,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/yousuf-e-aal-e-muhammad-shehzada-ali-akbar.md,round_1,present,tajpoints,tajpoints:d48e35ec5dd59c083825,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/yousuf-e-zahra-ajao.md,round_1,present,tajpoints,tajpoints:e860b10f796a984b1faf,feat/import-overlap-reconciliation-2026-11-05,
@@ -3396,7 +3396,7 @@ src/data/lyrics/zehra-ki-betiyon.md,round_1,present,nohayonline,nohayonline:be69
 src/data/lyrics/zehra-ki-dua-hai-ye-matam.md,original,present,,,main,
 src/data/lyrics/zehra-ki-dua-hai.md,round_1,present,nohayonline,nohayonline:059c734c2a9bf08136a3,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/zehra-ki-duayein.md,round_1,present,nohayonline,nohayonline:856727d1f8234afe1c9b,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/zehra-pursa-lo-bahattar.md,round_1,present,nohayonline,nohayonline:b61069fe70505edeaccc,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/zehra-pursa-lo-bahattar.md,round_1,consolidated,nohayonline,nohayonline:b61069fe70505edeaccc,feat/import-overlap-reconciliation-2026-11-05,Consolidated into src/data/lyrics/karbal-ki-kahani-jab.md on 2026-11-16; same full six stanzas
 src/data/lyrics/zehra-sachi-hai.md,round_1,present,nohayonline,nohayonline:16eeb5c556a449e6d10d,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/zehra-tera-gulshan.md,round_1,present,nohayonline,nohayonline:999e3501bf2036c3e3ee,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/zere-khanjar-bhi.md,round_1,present,nohayonline,nohayonline:0839a294af0cabaebb73,feat/import-overlap-reconciliation-2026-11-05,

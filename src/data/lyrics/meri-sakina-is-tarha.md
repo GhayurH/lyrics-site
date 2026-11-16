@@ -9,6 +9,9 @@ poet: "Rehan Azmi"
 tags: []
 aliases: []
 published: true
+# source_id: ziyaraat:a19aa35d83dcf10bdf95
+# source_url: https://www.ziyaraat.net/api/noha/2891
+# raw_sha256: ab4bce36516eb7491966075f0968a88e890c82ded090dd825e21cdc81a27f6d2
 romanLyrics: |-
   Aakhri salaam
   Meri Sakina is tarha na rona

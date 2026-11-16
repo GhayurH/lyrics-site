@@ -11,15 +11,15 @@ aliases:
 published: true
 romanLyrics: |-
 
-  Inna lillaah parh ke akbar ko
+  Inna lillaah parh ke Akbar ko
   haye sheh ne amaama baandha hai
 
-  ghar se nikle hain is tarha akbar
+  ghar se nikle haiṅ is tarha Akbar
   jaise koi janaza jaata hai
 
   1
   maut jine ki kar rahi hai dua
-  aur akbar chale hai marne ko
+  aur Akbar chale hai marne ko
   umm-e-laila ka mustafa beta
   zakhm sine pe khaane jaata hai
 
@@ -30,9 +30,9 @@ romanLyrics: |-
   ek mazlum baap chalta hai
 
   3
-  kitna pyara hai shaah ko akbar
+  kitna pyara hai shaah ko Akbar
   saare zaalim ye baat jaante hai
-  taygh akbar pe chal rahi ha yahaṅ
+  taygh Akbar pe chal rahi ha yahaṅ
   ibne zahra wahaṅ tarapta hai
 
   4
@@ -42,7 +42,7 @@ romanLyrics: |-
   kaise laasha jawaaṅ uthaya hai
 
   5
-  ran may rahwaar se gire akbar
+  ran may rahwaar se gire Akbar
   shah khaime ke dar se uth na sake
   aise dil thaam ke gire maula
   Arsh jaise zamiṅ pe girta hai
@@ -54,11 +54,12 @@ romanLyrics: |-
   zakhm na jaane kitna gehra hai
 ---
 
+انا للّٰہ پڑھ کے اکبر کو
+ہاے شہ نے عمامہ باندھا ہے
+
 گھر سے نکلے ہیں اس طرح اکبر
 جیسے کوئی جنازہ جاتا ہے
 
-انا للّٰہ پڑھ کے اکبر کو
-ہاے شہ نے عمامہ باندھا ہے
 
 ۱
 موت جینے کی کر رہی ہے دعا

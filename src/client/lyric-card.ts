@@ -49,10 +49,12 @@ export function createLyricCard(
   meta.setAttribute("aria-hidden", "true");
 
   if (showKalamType) {
-    const chip = document.createElement("span");
-    chip.className = "metadata-chip";
-    chip.textContent = lyric.kalamType;
-    meta.append(chip);
+    for (const type of lyric.kalamTypes ?? [lyric.kalamType]) {
+      const chip = document.createElement("span");
+      chip.className = "metadata-chip";
+      chip.textContent = type;
+      meta.append(chip);
+    }
   }
   link.append(meta);
 

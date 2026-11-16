@@ -5,10 +5,14 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Nasir Asghar Party (SM)"
 tags: []
 aliases:
   - "Qabr-E-Sarwar Par Kaha Zainab Ne Ro Kar Alwida"
 published: true
+# source_id: nohayonline:0e4594713d735b48218b
+# source_url: https://www.nohayonline.com/details_content.php?id=3242
+# raw_sha256: b001b841f1aec5ed6544c511b3409b70a2e48503d6be0444ebf41e75bb174a68
 romanLyrics: |-
   Qabr-e-Sarwar Par Kaha Zainab Ne Ro Kar, Alwida
   Kuch Khabar Hai Hum Pe Kya Guzri Baradar, Alwida
@@ -46,10 +50,13 @@ romanLyrics: |-
   Mere Ghairatdaar Ae Saaqii-e-Kausar, Alwida
 
   9
+  Aao mil to lo behan jaati hai ab su-e-watan
+  Muntazir hai dukhtar-e-khaatun-e-mahshar alwidaa
+
+  10
   Yeh Khalish Dil Se Na Jaye Gi Qayamat Tak Kabhi
   Haye Kufe Meiṅ Gayi Zainab Khule-Sar, Alwida
 ---
-
 قبرِ سرور پر کہا زینب نے رو کر، الوداع
 کچھ خبر ہے ہم پہ کیا گزری برادر، الوداع
 
@@ -86,5 +93,9 @@ romanLyrics: |-
 میرے غیرت دار اے ساقیِ کوثر، الوداع
 
 ۹
+آؤ مل تو لو بہن جاتی ہے اب سوئے وطن
+منتظر ہے دخترِ خاتونِ محشر الوداع
+
+۱۰
 یہ خلش دل سے نہ جائے گی قیامت تک کبھی
 ہائے کوفے میں گئی زینب کھلے سر، الوداع

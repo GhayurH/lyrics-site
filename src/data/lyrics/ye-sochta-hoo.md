@@ -10,6 +10,9 @@ reciter: "Fateh Ali Khan"
 tags: []
 aliases: []
 published: true
+# source_id: tajpoints:95b00579bdef40f7ab56
+# source_url: https://tajpoints.com/2022/02/yeh-soch-hoon-keh-abid-ka-haal-kya-ho.html
+# raw_sha256: 4cc9ceb1163852416d97a11ed39231bd8cd03b9a6fee2e87b5236e40dde231ef
 romanLyrics: |-
   Ye sochta huṅ ke Aabid ka haal kya hoga
   Asir ho ke wo jab Shaam mein gaya hoga

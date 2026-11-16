@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Ali Adil Malik"
+reciter: "Haji Ansar Party"
 tags: []
 aliases:
   - "Rone Ke Liye Kaafi Hai Sajjad Tera Naam"

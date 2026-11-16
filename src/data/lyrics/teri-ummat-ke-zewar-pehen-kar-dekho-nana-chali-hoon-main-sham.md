@@ -5,10 +5,14 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Nasir Asghar Party (SM)"
 tags: []
 aliases:
   - "Teri Ummat Ke Zewar Pehen Kar Dekho Nana Chali Hoon Main Sham"
 published: true
+# source_id: nohayonline:418a9030114db6f80c46
+# source_url: https://www.nohayonline.com/details_content.php?id=605
+# raw_sha256: b4c7fb04c73fcae7225f3bbb6ae4a195620171bd60744f4bbe2fcb42e877100a
 romanLyrics: |-
   Teri Ummat Ke Zewar Pehen Kar
   Dekho Nana Chali Huṅ Maiṅ Sham

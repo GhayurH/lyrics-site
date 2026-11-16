@@ -14,9 +14,23 @@ const KALAM_TYPE_ORDER = [
   "Dua",
 ];
 
-/** Return the explicit browse classification stored in lyric frontmatter. */
-export function getLyricKalamType(data: LyricData) {
-  return data.kalamType.trim();
+/** Canonicalize scalar or multi-valued classification metadata without creating combined facet labels. */
+export function lyricMetadataValues(value: string | string[] | undefined): string[] {
+  const values = Array.isArray(value) ? value : value === undefined ? [] : [value];
+  return [...new Set(values.map((item) => item.trim()).filter(Boolean))];
+}
+
+export function getLyricKalamTypes(data: LyricData): string[] {
+  return lyricMetadataValues(data.kalamType);
+}
+
+/** A stable primary type for a single poem route's previous/next navigation. */
+export function getLyricKalamType(data: LyricData): string {
+  return getLyricKalamTypes(data)[0] ?? "Other";
+}
+
+export function getLyricReciters(data: LyricData): string[] {
+  return lyricMetadataValues(data.reciter);
 }
 
 export function slugifyKalamType(kalamType: string) {
