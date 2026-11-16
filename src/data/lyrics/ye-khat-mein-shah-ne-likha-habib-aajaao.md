@@ -62,6 +62,11 @@ romanLyrics: |-
   Bahan ne usko takallum Jo bhai samjhaa tha
   Pukaari sham-e-gharibaṅ meiṅ Thaaniy-e-Zehra
   Hamaara lutta hai pardaa Habib aajaao
+# source_id: nohawriteups:4fed57c4a1c1327d6349
+# source_url: https://www.nohawriteups.org/ye-khat-main-shah-ne-likha-habib-aajao-lyrics/
+# original_html: snapshots/nohawriteups/original_html/4fed57c4a1c1327d6349.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/4fed57c4a1c1327d6349.json
+# api_content_sha256: f779b2015adc833568469fb1041fd8c2229f7e4ee47dbb1fbdf07ca237507cfe
 ---
 
 یہ خط میں شاہؑ نے لکھا حبیب آجاؤ

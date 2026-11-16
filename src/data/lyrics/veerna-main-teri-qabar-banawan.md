@@ -37,6 +37,11 @@ romanLyrics: |-
   Akhtar dunya faani ek din mukk jaani
   Rehni eh do jag te syedaṅ di kahani
   Lakh ro kay dunya purse nu qaim rakhna Zahra diyaṅ duawaaṅ
+# source_id: nohawriteups:4244194f07589bad7dc3
+# source_url: https://www.nohawriteups.org/veerna-main-teri-qabar-banawan-ya-shaam-nu-jawan/
+# original_html: snapshots/nohawriteups/original_html/4244194f07589bad7dc3.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/4244194f07589bad7dc3.json
+# api_content_sha256: 46bd42f96ef5f9fea17cd0b4da3ad7057d68d72f55ea95edade1f8aca49d24d6
 ---
 
 ویرنا مَیں تیری قبر بناواں یا شام نوں جاواں
