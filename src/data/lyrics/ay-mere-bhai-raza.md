@@ -65,6 +65,12 @@ romanLyrics: |-
 # source_id: nohayonline:0457df937e1c8cbb5bbc
 # source_url: https://www.nohayonline.com/details_content.php?id=1073
 # raw_sha256: 1e3fd731798440ee219aec8c63c5f1f7468d145e0c5d077fbc3eed1039830865
+# source_id: nohawriteups:c2b0a21dffc3682ffdbf
+# source_url: https://www.nohawriteups.org/aye-mere-bhai-raza-mir-hasan-mir-noha-lyrics/
+# original_html: snapshots/nohawriteups/original_html/c2b0a21dffc3682ffdbf.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/c2b0a21dffc3682ffdbf.json
+# api_content_sha256: 7d187ce5ba92256ec4ce1b85ae75e7b7fe363c6af1e738c07a71889d35e77d12
+# editorial_note: NohayWriteups Mir Hasan Mir Roman witness repeats all eight stanzas of this published bilingual version; no unique lines found. Source promotion footer dropped.
 ---
 
 اے غریب الغربا اے میرے بھائی رضا

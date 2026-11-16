@@ -661,6 +661,7 @@ src/data/lyrics/ay-zuljana.md,round_1,present,nohayonline,nohayonline:e26ebdcdcb
 src/data/lyrics/aye-aun-o-muhammad.md,original,present,,,main,
 src/data/lyrics/aye-chand-muharram-kai.md,original,present,nohayonline;ziyaraat,nohayonline:fcb673db20a980ce3108;ziyaraat:7d7a0b60e4d4704aad5a,main,
 src/data/lyrics/aye-dushmane-shabbir-tery-peer-pe-lanat.md,original,present,,,main,
+src/data/lyrics/aye-mere-bhai-raza-mir-hasan-mir-noha-nw-c2b0a21dffc3.md,round_2,consolidated,nohawriteups,nohawriteups:c2b0a21dffc3682ffdbf,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/ay-mere-bhai-raza.md on 2026-11-16
 src/data/lyrics/aye-rab-e-jahan-panjtan-pak-ka-sadqa.md,original,present,,,main,
 src/data/lyrics/aye-rab-e-panjtan.md,original,present,,,main,
 src/data/lyrics/aye-shaheedo-tum-kahan-ho.md,round_1,present,tajpoints,tajpoints:feec1daa1ef72d480d36,feat/import-overlap-reconciliation-2026-11-05,
@@ -2047,6 +2048,9 @@ src/data/lyrics/loriyon-se-sone.md,round_1,present,nohayonline,nohayonline:1a4ca
 src/data/lyrics/lutgaya-aap-ka-ghar.md,round_1,present,nohayonline,nohayonline:d075d04fbf4e2896ff06,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/luti-dunya-ali.md,round_1,present,nohayonline,nohayonline:a1c5c369def07c5374ec,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/luti-kin-fizaon-mein.md,round_1,present,nohayonline,nohayonline:b2588403b8d34584f2a3,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/luti-paak-rasool-di-aal-nw-6be54f3c54cc.md,round_2,consolidated,nohawriteups,nohawriteups:6be54f3c54cc00cd416d,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/luti-paak-rasool-di-aal.md on 2026-11-16
+src/data/lyrics/luti-paak-rasool-di-aal-tapdiyan-raitan-te-nw-44bb3edbe68d.md,round_2,consolidated,nohawriteups,nohawriteups:44bb3edbe68d3aae0e43,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/luti-paak-rasool-di-aal.md on 2026-11-16
+src/data/lyrics/luti-paak-rasool-di-aal.md,round_2,present,nohawriteups,nohawriteups:6be54f3c54cc00cd416d;nohawriteups:44bb3edbe68d3aae0e43,round2-kalams-2026-11-14,Reconciled two Roman Punjabi witnesses and retained two additional stanzas on 2026-11-16
 src/data/lyrics/maa-aur-ali-akbar.md,round_1,present,nohayonline,nohayonline:189ca40a481d08c43dcb,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/maa-bhi-na-ho.md,round_1,present,nohayonline,nohayonline:e80daf7ad53c33fce7ce,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/maa-bulaati-hai-aa.md,round_1,present,nohayonline,nohayonline:a37b63ba821408dbdb50,feat/import-overlap-reconciliation-2026-11-05,
