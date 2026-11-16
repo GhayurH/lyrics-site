@@ -43,6 +43,9 @@ romanLyrics: |-
 # source_id: ziyaraat:444cdd145b21e5092e48
 # source_url: https://www.ziyaraat.net/api/noha/627
 # raw_sha256: 786a995cb66b13bae677ec8aa3d863b2fb56b4dd06074349a03eb0ef3a52ab20
+# source_id: tajpoints:210736f3758bac56c315
+# source_url: https://tajpoints.com/2023/03/koi-hussain-sa-sajda-bhala-adda-tu-kare.html
+# raw_sha256: c0c578e81425f052226851ed3c979a1ce6fbf947c31db258f0dd5dc74a12a3ec
 ---
 
 کوئی حُسین سا سجدہ بھلا ادا تو کرے

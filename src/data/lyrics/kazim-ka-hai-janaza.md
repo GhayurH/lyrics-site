@@ -56,6 +56,9 @@ romanLyrics: |-
 # source_id: nohayonline:6bc9c6c5d74c0e9bb58f
 # source_url: https://www.nohayonline.com/details_content.php?id=1310
 # raw_sha256: 08baca08804f99e27ffa0366ae1333323faffdf02bb8fd10b1a716e11cff535f
+# source_id: tajpoints:55a8e96922e2a27c18d2
+# source_url: https://tajpoints.com/2023/02/kazim-ka-hai-janaza-mesum-abbas-lyrics.html
+# raw_sha256: 6cf742fc77648f744eb068053f2006a1727b41be2751a781913c1ca07e002dde
 ---
 کاظم کا ہے جنازہ بغداد کے پل پر
 رونے کو آئی زہرا بغداد کے پل پر

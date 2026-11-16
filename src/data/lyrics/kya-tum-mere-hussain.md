@@ -77,6 +77,9 @@ romanLyrics: |-
 # original_html: snapshots/nohawriteups/original_html/c3d3e5d56a8afe21d4ba.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/c3d3e5d56a8afe21d4ba.json
 # api_content_sha256: dbd382f0e29f109755a749eee220e6fe477bd6ebb54d88c9747cc42dd008feb1
+# source_id: tajpoints:031e3d95fca12f22b950
+# source_url: https://tajpoints.com/2020/09/kya-tum-mere-hussain-ho-lyrics-in-urdu.html
+# raw_sha256: ad331f10d0c188c0df8db64623cb84e72188dab9d363a6b25cd1f58ec635cc24
 ---
 
 پتھر ہٹا کے لاش سے زینب نے دی صدا
