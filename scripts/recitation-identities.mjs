@@ -194,7 +194,15 @@ for (const old of locked.basta) {
         stanzaPageLabel(stanza.pages, current.startPage) + ") — run npm run source:sync after reviewing");
   }
 }
-const newLyrics = activeLyrics.filter((item) => !knownLyrics.has(item.id));
+// Only the 129 original standalone lyric identities are mandatory lock entries.
+// Later imported lyrics may be unlocked after editorial consolidation or revision;
+// --sync must never silently recreate those deliberately purged lock entries.
+const originalLyricPaths = new Set((await readFile(
+  join(root, "audit/lyric-md-rounds.csv"), "utf8")).split(/\r?\n/)
+  .filter((line) => line.split(",")[1] === "original")
+  .map((line) => line.split(",")[0].replace(/^src\/data\/lyrics\//, "")));
+const newLyrics = activeLyrics.filter((item) =>
+  originalLyricPaths.has(item.path) && !knownLyrics.has(item.id));
 const newBasta = activeBasta.filter((item) => !knownBasta.has(item.id));
 if (mode === "--sync") {
   // Never discard old IDs. Edits to existing anchors require a human-reviewed

@@ -5,10 +5,14 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+reciter: "Anj. Sabile Masumeen"
 tags: []
 aliases:
   - "Halchal Hay Fauj E Shaam Mein Abbas Atay Hain"
 published: true
+# source_id: nohayonline:cff2fa9d38d6b3eb9bf9
+# source_url: https://www.nohayonline.com/details_content.php?id=708
+# raw_sha256: ae429a402c4753d1dd101ea38d33c4d91a36a6d0863402dcf9211e58a6a94f6d
 romanLyrics: |-
   Halchal hai fauj-e-shaam meiṅ Abbas ate haiṅ
 

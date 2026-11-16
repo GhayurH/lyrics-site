@@ -2,10 +2,6 @@
   "version": 1,
   "lyrics": [
     {
-      "id": "aa-alamdaar-haye-alamdaar",
-      "path": "aa-alamdaar-haye-alamdaar.md"
-    },
-    {
       "id": "aa-ali-asghar",
       "path": "aa-ali-asghar.md"
     },
@@ -156,10 +152,6 @@
     {
       "id": "aaj-ghar-se-nahi",
       "path": "aaj-ghar-se-nahi.md"
-    },
-    {
-      "id": "aaj-hai-chaliswan",
-      "path": "aaj-hai-chaliswan.md"
     },
     {
       "id": "aaj-hai-chehlum",
@@ -600,10 +592,6 @@
     {
       "id": "abadwalla-ya-zahra",
       "path": "abadwalla-ya-zahra.md"
-    },
-    {
-      "id": "abal-fazl",
-      "path": "abal-fazl.md"
     },
     {
       "id": "abal-fazle-bawafa",
@@ -2598,10 +2586,6 @@
       "path": "ay-zahra-ke-baba.md"
     },
     {
-      "id": "ay-zameene-karbala",
-      "path": "ay-zameene-karbala.md"
-    },
-    {
       "id": "ay-zuljana",
       "path": "ay-zuljana.md"
     },
@@ -3390,10 +3374,6 @@
       "path": "bemaar-chod-de.md"
     },
     {
-      "id": "bemaar-dhoop-may",
-      "path": "bemaar-dhoop-may.md"
-    },
-    {
       "id": "bemaar-ka-janaza",
       "path": "bemaar-ka-janaza.md"
     },
@@ -3830,10 +3810,6 @@
       "path": "chaman-chaman-kali.md"
     },
     {
-      "id": "chand-ko-dekh-ke",
-      "path": "chand-ko-dekh-ke.md"
-    },
-    {
       "id": "chand-ko-dekh-ke-sughra-ne-kaha-haye-hussain",
       "path": "chand-ko-dekh-ke-sughra-ne-kaha-haye-hussain.md"
     },
@@ -3844,10 +3820,6 @@
     {
       "id": "chand-rota-raha",
       "path": "chand-rota-raha.md"
-    },
-    {
-      "id": "chane-lagi-shame",
-      "path": "chane-lagi-shame.md"
     },
     {
       "id": "char-baras-waali",
@@ -3868,10 +3840,6 @@
     {
       "id": "chashme-sajjad-ne",
       "path": "chashme-sajjad-ne.md"
-    },
-    {
-      "id": "chauda-sadiyan",
-      "path": "chauda-sadiyan.md"
     },
     {
       "id": "chehlum-jo-karbala-mein-bahattar-ka-ho-chuka",
@@ -4079,10 +4047,6 @@
       "path": "deen-ko-abide.md"
     },
     {
-      "id": "deen-ko-bacha-liya",
-      "path": "deen-ko-bacha-liya.md"
-    },
-    {
       "id": "deene-ahmed-ki-baqa",
       "path": "deene-ahmed-ki-baqa.md"
     },
@@ -4261,10 +4225,6 @@
     {
       "id": "dua-deti-hai-zehra",
       "path": "dua-deti-hai-zehra.md"
-    },
-    {
-      "id": "dua-e-kumail-nadeem-sarwar",
-      "path": "dua-e-kumail.md"
     },
     {
       "id": "dua-e-ziyarat",
@@ -4959,10 +4919,6 @@
       "path": "haaye-abbas-haaye-abbas-haaye-abbas.md"
     },
     {
-      "id": "habeeb-aa-jao",
-      "path": "habeeb-aa-jao.md"
-    },
-    {
       "id": "had-ho-gayi-hai",
       "path": "had-ho-gayi-hai.md"
     },
@@ -5053,10 +5009,6 @@
     {
       "id": "hal-min-nasir",
       "path": "hal-min-nasir.md"
-    },
-    {
-      "id": "halchal-hai-fauje",
-      "path": "halchal-hai-fauje.md"
     },
     {
       "id": "halchal-hay-fauj-e-shaam-mein-abbas-atay-hain",
@@ -5573,10 +5525,6 @@
     {
       "id": "hogaya-khamosh",
       "path": "hogaya-khamosh.md"
-    },
-    {
-      "id": "hogaya-marna-sitam",
-      "path": "hogaya-marna-sitam.md"
     },
     {
       "id": "hogaya-matam-bapa",
@@ -6267,10 +6215,6 @@
       "path": "jab-meri-zindagi-ka-labrez-jaam-hoga.md"
     },
     {
-      "id": "jab-mujhe-aap-ke",
-      "path": "jab-mujhe-aap-ke.md"
-    },
-    {
       "id": "jab-mujhe-aap-ke-qatil-ne-hai-mara-baba",
       "path": "jab-mujhe-aap-ke-qatil-ne-hai-mara-baba.md"
     },
@@ -6839,10 +6783,6 @@
       "path": "kaisa-ye-ghul-macha.md"
     },
     {
-      "id": "kaise-chale-hussain",
-      "path": "kaise-chale-hussain.md"
-    },
-    {
       "id": "kaise-guzare-teen",
       "path": "kaise-guzare-teen.md"
     },
@@ -6909,10 +6849,6 @@
     {
       "id": "karbal-ke-maseeha",
       "path": "karbal-ke-maseeha.md"
-    },
-    {
-      "id": "karbal-ki-kahani-jab",
-      "path": "karbal-ki-kahani-jab.md"
     },
     {
       "id": "karbal-tune-loot-liya",
@@ -7139,10 +7075,6 @@
       "path": "karte-hain-matam-haram-abbas-ka.md"
     },
     {
-      "id": "karte-thay-ro-ro",
-      "path": "karte-thay-ro-ro.md"
-    },
-    {
       "id": "karti-hai-bain",
       "path": "karti-hai-bain.md"
     },
@@ -7293,10 +7225,6 @@
     {
       "id": "kehti-thi-ye-fatema",
       "path": "kehti-thi-ye-fatema.md"
-    },
-    {
-      "id": "kehti-thi-ye-maa",
-      "path": "kehti-thi-ye-maa.md"
     },
     {
       "id": "kehti-thi-ye-zainab",
@@ -7707,14 +7635,6 @@
       "path": "kya-kare-zainab.md"
     },
     {
-      "id": "kya-likha-fatema",
-      "path": "kya-likha-fatema.md"
-    },
-    {
-      "id": "kya-likha-fatima-sughra-ne-bataya-na-gaya",
-      "path": "kya-likha-fatima-sughra-ne-bataya-na-gaya.md"
-    },
-    {
       "id": "kya-mai-yateem",
       "path": "kya-mai-yateem.md"
     },
@@ -7771,10 +7691,6 @@
       "path": "kyun-chod-jaati-hai.md"
     },
     {
-      "id": "la-fata-illah-ali",
-      "path": "la-fata-illah-ali.md"
-    },
-    {
       "id": "laa-raha-hun-main-lasha-e-akbar",
       "path": "laa-raha-hun-main-lasha-e-akbar.md"
     },
@@ -7813,10 +7729,6 @@
     {
       "id": "laashae-abbas-tanha",
       "path": "laashae-abbas-tanha.md"
-    },
-    {
-      "id": "laashae-asghar-ko",
-      "path": "laashae-asghar-ko.md"
     },
     {
       "id": "laashe-abbas-par",
@@ -8173,10 +8085,6 @@
     {
       "id": "mai-hoon-abbas",
       "path": "mai-hoon-abbas.md"
-    },
-    {
-      "id": "mai-hussain-hoo",
-      "path": "mai-hussain-hoo.md"
     },
     {
       "id": "mai-hussain-hoon",
@@ -8996,14 +8904,6 @@
       "path": "meri-marqad-bana-lena.md"
     },
     {
-      "id": "meri-sakina-is-tarha",
-      "path": "meri-sakina-is-tarha.md"
-    },
-    {
-      "id": "meri-sakina-sa-is-tarha-na-rona",
-      "path": "meri-sakina-sa-is-tarha-na-rona.md"
-    },
-    {
       "id": "meri-sakina-soja",
       "path": "meri-sakina-soja.md"
     },
@@ -9162,10 +9062,6 @@
     {
       "id": "mujraee-paida-hua",
       "path": "mujraee-paida-hua.md"
-    },
-    {
-      "id": "mujraee-qalq-may",
-      "path": "mujraee-qalq-may.md"
     },
     {
       "id": "mujrayi-khalq-mein",
@@ -9544,14 +9440,6 @@
       "path": "nikal-do-mere-pehlu.md"
     },
     {
-      "id": "nikla-hai-janaza-koi",
-      "path": "nikla-hai-janaza-koi.md"
-    },
-    {
-      "id": "nikla-hai-janaza-koi-allah-ke-ghar-se",
-      "path": "nikla-hai-janaza-koi-allah-ke-ghar-se.md"
-    },
-    {
       "id": "noha-kuna-zainabe",
       "path": "noha-kuna-zainabe.md"
     },
@@ -9642,10 +9530,6 @@
     {
       "id": "pani-le-aao-ammu",
       "path": "pani-le-aao-ammu.md"
-    },
-    {
-      "id": "pani-masooma-ne-manga-tu-tamachay-khaye",
-      "path": "pani-masooma-ne-manga-tu-tamachay-khaye.md"
     },
     {
       "id": "pani-nahi-chahiye",
@@ -9902,10 +9786,6 @@
     {
       "id": "qabre-ali-asghar",
       "path": "qabre-ali-asghar.md"
-    },
-    {
-      "id": "qabre-sarwar-pe",
-      "path": "qabre-sarwar-pe.md"
     },
     {
       "id": "qabre-sheh-par",
@@ -10398,10 +10278,6 @@
     {
       "id": "royegi-maa-auno",
       "path": "royegi-maa-auno.md"
-    },
-    {
-      "id": "royi-bahot-yateem",
-      "path": "royi-bahot-yateem.md"
     },
     {
       "id": "royi-jab-laadli-muhammad-ki-sara-darbar-muskuraya-hai",
@@ -11040,10 +10916,6 @@
       "path": "shaad-rahe-karbala.md"
     },
     {
-      "id": "shaahe-mardan",
-      "path": "shaahe-mardan.md"
-    },
-    {
       "id": "shaam-aa-rahi-hai-dil-paar-hazaro-sadme-uthaye-beti-ali-ki",
       "path": "shaam-aa-rahi-hai-dil-paar-hazaro-sadme-uthaye-beti-ali-ki.md"
     },
@@ -11058,10 +10930,6 @@
     {
       "id": "shaam-hai-gharibon",
       "path": "shaam-hai-gharibon.md"
-    },
-    {
-      "id": "shaam-haye-shaam",
-      "path": "shaam-haye-shaam.md"
     },
     {
       "id": "shaam-hogayi",
@@ -11142,10 +11010,6 @@
     {
       "id": "shabbir-hurmala-se",
       "path": "shabbir-hurmala-se.md"
-    },
-    {
-      "id": "shabbir-ka-charcha-baqi-hai",
-      "path": "shabbir-ka-charcha-baqi-hai.md"
     },
     {
       "id": "shabbir-ka-chehlum",
@@ -11313,10 +11177,6 @@
     },
     {
       "id": "shareek-e-dawat-e-islam-hain-abu-talib",
-      "path": "shareek-e-dawat-e-islam-hain-abu-talib.md"
-    },
-    {
-      "id": "shareeke-dawate-islam",
       "path": "shareeke-dawate-islam.md"
     },
     {
@@ -11696,10 +11556,6 @@
       "path": "tamacha-maare.md"
     },
     {
-      "id": "tamache-khaaye",
-      "path": "tamache-khaaye.md"
-    },
-    {
       "id": "tamam-shab-rahi",
       "path": "tamam-shab-rahi.md"
     },
@@ -11780,16 +11636,8 @@
       "path": "teer-asghar-ko-laga.md"
     },
     {
-      "id": "teero-ke-musalle-par",
-      "path": "teero-ke-musalle-par.md"
-    },
-    {
       "id": "teeron-ke-aasman",
       "path": "teeron-ke-aasman.md"
-    },
-    {
-      "id": "teeron-ke-musalle",
-      "path": "teeron-ke-musalle.md"
     },
     {
       "id": "tera-chehlum-karne",
@@ -12376,10 +12224,6 @@
       "path": "ya-ababdillah.md"
     },
     {
-      "id": "ya-abal-fazl",
-      "path": "ya-abal-fazl.md"
-    },
-    {
       "id": "ya-abal-fazlil-abbas",
       "path": "ya-abal-fazlil-abbas.md"
     },
@@ -12612,10 +12456,6 @@
       "path": "yaad-aagayi-sakina.md"
     },
     {
-      "id": "yaad-aaoge-bhaiya",
-      "path": "yaad-aaoge-bhaiya.md"
-    },
-    {
       "id": "yaad-aaogi-zahra",
       "path": "yaad-aaogi-zahra.md"
     },
@@ -12808,10 +12648,6 @@
       "path": "ye-majlise-hussain.md"
     },
     {
-      "id": "ye-mera-maula-raza",
-      "path": "ye-mera-maula-raza.md"
-    },
-    {
       "id": "ye-meri-aankh-ke-kashkool-mein-jo-pani-hai",
       "path": "ye-meri-aankh-ke-kashkool-mein-jo-pani-hai.md"
     },
@@ -12852,10 +12688,6 @@
       "path": "ye-shame-ghariban.md"
     },
     {
-      "id": "ye-sochta-hoo",
-      "path": "ye-sochta-hoo.md"
-    },
-    {
       "id": "ye-sochta-hua",
       "path": "ye-sochta-hua.md"
     },
@@ -12894,10 +12726,6 @@
     {
       "id": "yeh-raaz-kya-hai-duniya-ke-banane-wale",
       "path": "yeh-raaz-kya-hai-duniya-ke-banane-wale.md"
-    },
-    {
-      "id": "yeh-soch-hoon-keh-abid-ka-haal-kya-ho-ga",
-      "path": "yeh-soch-hoon-keh-abid-ka-haal-kya-ho-ga.md"
     },
     {
       "id": "yehi-hai-sakina",
@@ -13367,10 +13195,6 @@
     {
       "id": "zehra-ki-duayein",
       "path": "zehra-ki-duayein.md"
-    },
-    {
-      "id": "zehra-pursa-lo-bahattar",
-      "path": "zehra-pursa-lo-bahattar.md"
     },
     {
       "id": "zehra-sachi-hai",

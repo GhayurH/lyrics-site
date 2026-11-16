@@ -5,12 +5,17 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Mirza Dabeer"
+reciter: "Raza Abbas Zaidi"
 tags: []
 aliases:
   - "Shaam Se Jab Ahl-E-Bait, Ghamzada Giryaan Chale"
 bastaPage: 264
 bastaNote: original-selection
 published: true
+# source_id: nohayonline:272e867ad13f759910de
+# source_url: https://www.nohayonline.com/details_content.php?id=2364
+# raw_sha256: 84d5c00fb1753ef27ff9d0b3096dd77a5bb4f176812674a365dd7d9d02e4c257
 romanLyrics: |-
   1
   Shaam se jab Ahl-e-Bait, ghamzada giryaaṅ chale
@@ -91,8 +96,31 @@ romanLyrics: |-
   Chun ke har ek uzu ko, sar se mila kar kaha
   Aao ae Zain-ul-Aba, khaak uraati huṅ maiṅ
   Yaani sar Abbas ka, tan se milaati huṅ maiṅ
----
 
+  11
+  Kehti thi Akbar ki maaṅ ae mere karyal jawaaṅ
+  Chhut ke zindaaṅ se karne ko chaaliswaaṅ
+  Khasta jigar aayi hai sehti hui sakhtiyaaṅ
+  Dekh to nur-e-nazar kis tarah roti hai maaṅ
+  Faatiha dilwaauṅgi ashkoṅ ki barsaat meiṅ
+  Zakhm hare ho gaye sina-e-Saadaat meiṅ
+
+  12
+  Bachchoṅ se bichhre hue Zainab-e-Laachaar ko
+  Bit gaye kitne din muztar o ghamkhwaar ko
+  Ab jo rehaayi mili haaye dilafgaar ko
+  Aun o Muhammad ke phir sina o rukhsaar ko
+  Pyaar kiya aur ye kaha ae mere sheroṅ suno
+  Karna hai chaaliswaaṅ Bibiyoṅ maatam karo
+
+  13
+  Boli Rubab-e-Haziṅ laasha-e-Beshir par
+  Kiuṅ na gire bijliyaaṅ maadar-e-dilgir par
+  Khuṅ hai abhi tak laga zulm ke us tir par
+  Aaj wo din aa gaya uff meri taqdir par
+  Karti huṅ chaaliswaaṅ nanhe se Quran ka
+  Sadqa maiṅ dila saki haaye teri jaan ka
+---
 ۱
 شام سے جب اہلِ بیت، غمزدہ گریاں چلے
 یعنی سوئے کربلا، چاک گریباں چلے
@@ -172,3 +200,30 @@ romanLyrics: |-
 چن کے ہر اک عضو کو، سر سے ملا کر کہا
 آؤ اے زین العبا، خاک اڑاتی ہوں میں
 یعنی سر عباس کا، تن سے ملاتی ہوں میں
+
+۱۱
+کہتی تھی اکبر کی ماں اے میرے کڑیل جواں
+چھوٹ کے زنداں سے کرنے کو چالیسواں
+خستہ جگر آئی ہے سہتی ہوئی سختیاں
+دیکھ تو نورِ نظر کس طرح روتی ہے ماں
+فاتحہ دلواؤں گی اشکوں کی برسات میں
+زخم ہرے ہو گئے سینۂ سادات میں
+سید مظلوم کا زہرا کے معصوم کا
+
+۱۲
+بچوں سے بچھڑے ہوئے زینب لاچار کو
+بیت گئے کتنے دِن مضطر و غمخوار کو
+اب جو رہائی ملی ہائے دلافگار کو
+عون و محمد کے پھر سینہ و رخسار کو
+پیار کیا اور یہ کہا اے میرے شیروں سنو
+کرنا ہے چالیسواں بی‌بیوں ماتم کرو
+سید مظلوم کا زہرا کے معصوم کا
+
+۱۳
+بولی رباب حزیں لاشۂ بے شیر پر
+کیوں نہ گرے بجلیاں مادر دلگیر پر
+خوں ہے ابھی تک لگا ظلم کے اس تیر پر
+آج وہ دن آ گیا اف میری تقدیر پر
+کرتی ہوں چالیسواں ننھے سے قرآن کا
+صدقہ میں دلا سکی ہائے تیری جان کا
+سید مظلوم کا زہرا کے معصوم کا

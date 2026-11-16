@@ -9,6 +9,9 @@ reciter: "Alamdar Razvi"
 tags: []
 aliases: []
 published: true
+# source_id: nohayonline:e2a9316a615198c77ce5
+# source_url: https://www.nohayonline.com/details_content.php?id=2033
+# raw_sha256: 1f890789fc8271941da0dbe6278dd8a09824e3b1807d9f20a76f997affa29ae7
 romanLyrics: |-
   Laasha-e-Asghar ko rakh kar qabr meiṅ sheh ne kaha
   Ae zamin-e-Karbala

@@ -6,61 +6,75 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mohsin Riyaz Mohsin"
+reciter: "Kazmi Brothers"
 tags: []
 aliases:
-  - "Jab Mujhe Aap Ke Qatil Ne Hai Mara Baba"
-published: true
+  -# source_id: nohayonline:320f169bc76ef605dc68
+# source_url: https://www.nohayonline.com/details_content.php?id=1003
+# raw_sha256: 4fcf94c6ec44b33e1b759fb31d39e171839a7d4b1ec0e2626c469b8e31129cf3
+# source_id: ziyaraat:5326f6fcf5861cc8cd02
+# source_url: https://www.ziyaraat.net/api/noha/2914
+# raw_sha256: 4150189ad4ee31af1d135edd49bd5fe9dadcc1ea906489d40d8ea38fdb5e2f5c
 romanLyrics: |-
-  Jab Mujhe Aap Ke Qatil Ne Hai Mara Baba
-  Har Tamache Pe Sakina Ne Pukara Baba
+  Jab mujhe aap ke qaatil ne hai maara Baba
+  Har tamaache pe Sakina ne pukaara Baba
+
+  Baba maiṅ Shimr se kehti thi tum mere paas na aana
+  Goya aalam meiṅ sab se behtar hai mera paak gharaana
+  Maiṅ chhoti Fatima Zahra huṅ na mujh ko haath lagaana
+  Par phir bhi us zaalim ne kiya mujh pe tars zara na
 
   1
-  Mujhe Baloṅ Se Pakar Kar Haiṅ Tamache Maare
-  Maiṅ ne Sar Shimr Se Maanga Jo Tumhara Baba
+  Mujhe baaloṅ se pakar kar haiṅ tamaache maare
+  Maiṅ ne sar Shimr se maanga jo tumhaara Baba
 
   2
-  Wo Jo Dur Aap Ne Tohfe Meiṅ Mujhe Bakshe The
-  Un Ko bedardi Se Zalim Ne Utara Baba
+  Wo jo dur aap ne tohfe meiṅ mujhe bakhshe the
+  Un ko bedardi se zaalim ne utaara Baba
 
   3
-  Aap Ke Sine Pe Aaram Se Sone Wali
-  So Ke Ab Khaak Pe Karti Hai Guzara Baba
+  Aap ke sine pe aaraam se sone waali
+  So ke ab khaak pe karti hai guzaara Baba
 
   4
-  Saath Rehwaroṅ Ke Dauraya Gaya Hai Mujh Ko
-  Chur Zakhmoṅ Se Badan Mera Hai Sara Baba
+  Saath rahwaaroṅ ke dauraya gaya hai mujh ko
+  Chur zakhmoṅ se badan mera hai saara Baba
 
   5
-  Meri Ghurbat Pe Chacha Jaan Ka Sar Rota Hai
-  Un Ki Ghurbat Meiṅ Karuṅ Kaise Gawara Baba
+  Meri ghurbat pe chacha jaan ka sar rota hai
+  Un ki ghurbat maiṅ karuṅ kaise gawaara Baba
 
   6
-  Nok-e-Naiza Pe Use Dekhuṅ To Dekhuṅ Kaise
-  Mera Asghar Tha Mujhe Jaan Se Bhi Pyara Baba
+  Nok-e-naiza pe use dekhuṅ to dekhuṅ kaise
+  Mera Asghar tha mujhe jaan se bhi pyaara Baba
 
   7
-  Bekafan Aap Haiṅ, Bekafan Rahe Gi Beti
-  Aik Jaisa Hi Muqaddar Hai Hamara Baba
+  Bekafan aap ho bekafan rahegi beti
+  Ek jaisa hi muqaddar hai hamaara Baba
 
   8
-  Ye Sada Qabr Se Masuma Ki Aaye Mohsin
-  Saath Qaim Ke Chale Aana Dubara Baba
+  Ye sada qabr se Maasuma ki aaye Mohsin
+  Saath Qaaim ke chale aana dubaara Baba
 ---
-
 جب مجھے آپ کے قاتل نے ہے مارا بابا
-ہر طمانچے پہ سکینہ نے پکارا بابا
+ہر تماچے پے سکینہ نے پکارا بابا
+
+بابا میں شمر سے کہتی تھی تم میرے پاس نہ آنا
+گویا عالم میں سب سے بہتر ہے میرا پاک گھرانہ
+میں چھوٹی فاطمہ زہرا ہوں نہ مجھ کو ہاتھ لگانا
+پر پھر بھی اس ظالم نے کیا مجھ پہ ترس ذرا نہ
 
 ۱
-مجھے بالوں سے پکڑ کر ہیں طمانچے مارے
-میں نے سر شمر سے مانگا جو تمھارا بابا
+مجھے بالوں سے پکڑ کر ہیں تماچے مارے
+میں نے سر شمر سے مانگا جو تمہارا بابا
 
 ۲
 وہ جو دُر آپ نے تحفے میں مجھے بخشے تھے
-ان کو بے دردی سے ظالم نے اتارا بابا
+اُن کو بے دردی سے ظالم نے اُتارا بابا
 
 ۳
-آپ کے سینے پہ آرام سے سونے والی
-سو کے اب خاک پہ کرتی ہے گزارا بابا
+آپ کے سینے پے آرام سے سونے والی
+سو کے اَب خاک پے کرتی ہے گزارا بابا
 
 ۴
 ساتھ رہواروں کے دوڑایا گیا ہے مجھ کو
@@ -68,14 +82,14 @@ romanLyrics: |-
 
 ۵
 میری غربت پہ چچا جان کا سر روتا ہے
-اٌن کی غربت میں کروں کیسے گوارا بابا
+ان کی غربت میں کروں کیسے گوارا بابا
 
 ۶
-نوکِ نیزہ پہ اسے دیکھوں تو دیکھوں کیسے
+نوکِ نیزہ پے اُسے دیکھوں تو دیکھوں کیسے
 میرا اصغر تھا مجھے جان سے بھی پیارا بابا
 
 ۷
-بے کفن آپ ہیں، بے کفن رہے گی بیٹی
+بے کفن آپ ہو بے کفن رہے گی بیٹی
 ایک جیسا ہی مقدر ہے ہمارا بابا
 
 ۸

@@ -10,6 +10,9 @@ reciter: "Anj. Sabile Masumeen"
 tags: []
 aliases: []
 published: true
+# source_id: nohayonline:29f3f80e936ce04de2b0
+# source_url: https://www.nohayonline.com/details_content.php?id=2566
+# raw_sha256: fd5c8347c8999aaf504e6b87a94d52b8765541951c12f7750ffba25de0ba1d53
 romanLyrics: |-
   Tiroṅ ke musalle par wo sajda-e-shukraana
   Shabbir ne batlaaya Islaam pe mar jaana

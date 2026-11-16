@@ -5,9 +5,13 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Salam"
+reciter: "Nasir Jahan"
 tags: []
 aliases: []
 published: true
+# source_id: nohayonline:b61069fe70505edeaccc
+# source_url: https://www.nohayonline.com/details_content.php?id=876
+# raw_sha256: b3fc311ce398e6819581585cfdb0d024d93460e034a3336934ced3e85c5cf6c4
 romanLyrics: |-
   Karbal ki kahaani jab koi bhi sunaaye ga
   Dil waaloṅ ki aankhoṅ se ik darya bahaaye ga
