@@ -19,62 +19,62 @@ romanLyrics: |-
 
   namaz meiṅ ijz o inkisari
   Husain ki shan fatehana
-  
+
   namaaz qible ko dhundti hai
   Husain Kaaba bana raha hia
-  
+
   tu ab bhi mujhse ye puchta hai
   Husain kiya hai namaz kiya hai
-  
+
   2
   namaz ki ibtida wuzu hai
   to us ko pani se benayazi
-  
+
   namaz ki intiha taharat
   Husain shaahkar-e-pak daaman
-  
+
   namaz hai baarha ibadat
   Husain ka zikr beriya hai
-  
+
   tu ab bhi mujhse ye puchta hai
   Husain kiya hai namaz kiya hai
-  
+
   3
   namaz hai Roshni ki taalib
   Husain shameiṅ bujha raha hai
-  
+
   namaz kasrat ko chahti hai
   ye shan-e-wehdat dikha raha hai
-  
+
   namaz piche hai mustufa ke
   ye dosh per jagmaga raha hai
-  
+
   tu ab bhi mujhse ye puchta hai
   Husain kiya hai namaz kiya hai
-  
+
   4
   namaz darti rahi lahu se
   ye khuṅ ki masnad bicha raha hai
-  
+
   namaz zindoṅ ka hai wazifa
   Husain marna sikha raha hai
-  
+
   namaz hai kibriya ki talib
   Husain matlub-e-kibriya hai
-  
+
   tu ab bhi mujhse ye puchta hai
   Husain kiya hai namaz kiya hai
-  
+
   5
   naamaz zere sajud-e-ahmad
   husain ka azam rakibana
-  
+
   naamaz ki shukr inteha hai
   to iska mashkur hai zamana
-  
+
   namaaz logoṅ ko hai bulati
   ye dast-e-baiyat utha raha hai
-  
+
   tu ab bhi mujhse ye puchta hai
   Husain kiya hai namaz kiya hai
 ---

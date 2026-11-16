@@ -12,31 +12,31 @@ published: true
 romanLyrics: |-
   Tukre nahiṅ chadar meiṅ, farwa tera beta hai
   Maqtal me isse maiṅ ne, chun chun ke uthayya hai
-  
+
   1
   Rukh kar ke baqayya ka, sheh kehte rahe bhai
   Bete ki tere mayyat, puri nahi mil payi
   Dhunda to bohot meiṅ ne
   Par mil nahi paya hai
-  
+
   2
   Tukroṅ meiṅ badan hoker, maidan me phela hai
   Tarikh meiṅ dunya ki, ye pehla janaza hai
   Naa puch ye gathri meiṅ
   Kis terha samaaya hai
-  
+
   3
   Haathoṅ ko kabhi ser ko, sine ko uthata tha
   Aur baqi janaze ko, meiṅ dhundhta jaata tha
   Isnay mujhe ghurbat ka
   Ehsaas dilaya hai
-  
+
   4
   Qasim maiṅ teri maa ko, kis tarhan se batlaoṅ
   Ye hi hai tera beta, kaise use samjhaoṅ
   Ye soch ke ankhoṅ se
   Khun Sheh ne bahaya hai
-  
+
   5
   Pucha jo ye zainab ne, gathri maiṅ hai kiya bhai
   Sarwar ne kaha roker, qasim ki hai lash haye

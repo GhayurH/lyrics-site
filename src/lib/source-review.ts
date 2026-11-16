@@ -157,18 +157,21 @@ export function reviewMarkdown(source: MarkdownSource): ReviewedMarkdown {
     for (const field of ["title", "language", "lang", "direction", "kalamType"]) {
       if (!fields[field]) record(issues, path, 2, "missing-metadata", "Missing " + field + " field");
     }
-    const isUrdu = fields.lang === "ur" || fields.language === "Urdu";
-    if (isUrdu) {
-      if (fields.direction && fields.direction !== "rtl") record(issues, path, 2, "direction", "Urdu direction is not rtl");
+    const hasArabicScriptOriginal = (fields.language === "Urdu" || fields.language === "Panjabi") && fields.direction === "rtl";
+    if (hasArabicScriptOriginal) {
+      if (fields.direction && fields.direction !== "rtl") record(issues, path, 2, "direction", "Arabic-script original direction is not rtl");
       if (fields.title && /[A-Za-z]/u.test(fields.title))
         record(issues, path, 2, "latin-in-urdu-title", "Latin letters in Urdu title");
       checkLines(path, body, bodyLine, "urdu", issues);
-    } else if (fields.lang === "en") checkLines(path, body, bodyLine, "roman", issues);
+    } else if (fields.direction === "ltr" && (fields.lang === "ur" || fields.lang === "pa"))
+      checkLines(path, body, bodyLine, "roman", issues);
+    else if (fields.language === "English" && fields.lang === "en" && fields.direction === "ltr")
+      checkLines(path, body, bodyLine, "english", issues);
 
-    if (isUrdu && !roman?.trim()) record(issues, path, 2, "missing-roman", "No Roman Urdu edition found");
+    if (hasArabicScriptOriginal && !roman?.trim()) record(issues, path, 2, "missing-roman", "No Roman " + fields.language + " edition found");
     if (roman !== undefined && romanLine !== undefined) {
       checkLines(path, roman, romanLine, "roman", issues);
-      if (body.trim() && roman.trim() && isUrdu)
+      if (body.trim() && roman.trim() && hasArabicScriptOriginal)
         {
           const compared = compareEditions(body, roman, path, path, bodyLine, romanLine);
           const exceptionText = fields.stanzaLineExceptions;
@@ -198,7 +201,7 @@ export function reviewMarkdown(source: MarkdownSource): ReviewedMarkdown {
                 "Declared intentional stanza difference " + number + " no longer exists");
         }
     }
-    // Roman metadata is separate from Urdu source, and can be audited independently.
+    // Roman metadata is separate from the Arabic-script original, and can be audited independently.
     for (const key of ["alternateTitle", "romanHaal"]) {
       if (fields[key] && arabic.test(fields[key]))
         record(issues, path, 2, "arabic-in-roman-metadata", key + " contains Arabic-script characters");

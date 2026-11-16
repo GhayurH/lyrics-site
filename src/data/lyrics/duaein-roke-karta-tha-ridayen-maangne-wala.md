@@ -12,27 +12,27 @@ published: true
 romanLyrics: |-
   Duaeiṅ Roke Karta Tha Ridayeṅ Maangne Wala
   Kahiṅ Mil Jaaye Nah Yah Rab Koi Pehchanne Wala
-  
+
   1
   Sar-e-Asgar Ko Patthar Maarne Aaya Hai Galliyoṅ Me
   Ali Asgar Ki Gardan Ka Nishana Baandhne Wala
-  
+
   2
   Hua Jata Hai Chehra Zard Bachchi Chhupti Phirti Hai
   Barha Hai Uski Jaanib Kya Tamache Maarne Wala
-  
+
   3
   Koi Aabid Ko Bhai Bolne Wala Nahiṅ Baaki
   Nahiṅ Zinda Koi Zainab Ko Bhi Maa Bolne Wala
-  
+
   4
   Sabhi Qaidi Haiṅ Yah Rab Bhejde Ab Aasmanoṅ Se
   Koi Sajjad Ki Aankhoṅ Se Aansu Pochne Wala
-  
+
   5
   Elaahi Ek Jaise Haiṅ Musalmanoṅ Ki Nazroṅ Me
   Ridayeṅ Lutne Wala Ridayeṅ Baantne Wala
-  
+
   6
   Ba-Zaahir Noke Naiza Par Sar-e-Shabbir Tha Akbar
   Magar Mara Gaya Tha Woh Nabi Ko Paalne Wala

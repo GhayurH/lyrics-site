@@ -12,43 +12,43 @@ published: true
 romanLyrics: |-
   Sajjad ko bemaut ye gham maar gaya hai
   Beparda haram saath haiṅ aur shaam chala hai
-  
+
   1
   Naa maar Sakina ko tamache ae sitamgar
   Ehsaas-e-yatimi hi bari sakht saza hai
-  
+
   2
   Ae Shimr-e-Laieṅ kis pe tu barsata hai kure
   Aabid to bari dair se behosh parha hai
-  
+
   3
   Lo aagai zindaṅ se riha ho ke Sakina
   Sajjad ke sine se jo aik laasha laga hai
-  
+
   4
   Shikwa nahiṅ zindaṅ se koi Bint-e-Ali ko
   Kia kam hai ke diwaroṅ ne parda to kiya hai
-  
+
   5
   Sar Ghazi ka tharra ke gira nok-e-sina se
   Shaayad sar-e-Zainab ko khula dekh liya hai
-  
+
   6
   Kehti thi ye Sughra huwa kia Karb o bala maiṅ
   Qaasid tere daaman pe lahu kis ka laga hai
-  
+
   7
   Maqtal se chali aati hai Zahra ki sadaaiṅ
   Ya Rab ye kahaṅ ka qafla saalaar chala hai
-  
+
   8
   Behta hai shab o roz lahu aankhoṅ se ab tak
   Sajjad ne tashhir ka wo zehr piya hai
-  
+
   9
   Zanjiroṅ ki aawaz ubharti rahi shab bhar
   Is qaidi ko kia rog hai kiuṅ jaag raha hai
-  
+
   10
   Darbar-e-jafaakaar me yuṅ aatiṅ haiṅ Zainab
   Chehre pe lahu Aun o Muhammad ka mala hai

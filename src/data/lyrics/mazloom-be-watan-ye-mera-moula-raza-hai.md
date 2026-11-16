@@ -12,37 +12,37 @@ published: true
 romanLyrics: |-
   Mazlum bewatan Ye Mera Maula Raza Hai
   Haye Jisko Zehar Logoṅ Musalmaaṅ ne Diya Hai
-  
+
   1
   Mamun Abbasi Ki Inaayat Hai Yeh Logo
   Haye Aal-e-Payamber Se Adaawat Hai Yeh Logo
   Syedoṅ Se Zara Dekho, Yeh Ummat Ki Wafa Hai
-  
+
   2
   Sab Aankheiṅ Karo Band Duhai Hai Duhai
   Ik Bibi Azadaro Yahaṅ Sham Se Aayi
   Lipti Hai Janaze Se, Nahi Sar Pe Rida Hai
-  
+
   3
   Aaye Haiṅ Janaze Pe Nabi, Shah-e-Ummam Bhi
   Kulsum, Ruqaiya Bhi Haiṅ Masuma-e-Qum Bhi
   Woh Bibi Hai Karbal Meiṅ, Jali Jis Ki Abaa Hai
-  
+
   4
   Yuṅ Luta Musalmano Ne Zahra Ke Chaman Ko
   Haye Zehar Diya Jaise Mere Maula Hasan Ko
   Dohrayi Gayi Haye, Wohi Is Pe Jafa Hai
-  
+
   5
   Masuma-e-Qum Deti Haiṅ Ro, Ro Ke Duhai
   Ae Kash Mila De Koi Mujh Se Mera Bhai
   Sughra Ki Tarha Haye Behan, Jis Se Juda Hai
-  
+
   6
   Qurban Mere Maula Pe Ho Jan Hamari
   Maqruz Mere Maula Ki Yeh Dunya Hai Sari
   Yeh Martaba Ho Ke Bhi Gharib Ul-Gurba Hai
-  
+
   7
   Rote Haiṅ Farishte Bhi Zamiṅ, Aur Zamaaṅ Bhi
   Haye Loh o Qalam Arsh-e-Bariṅ Kaun o Makaaṅ Bhi

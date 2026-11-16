@@ -12,39 +12,39 @@ published: true
 romanLyrics: |-
   Qabr-e-Sarwar Par Kaha Zainab Ne Ro Kar, Alwida
   Kuch Khabar Hai Hum Pe Kya Guzri Baradar, Alwida
-  
+
   1
   Aag Khaimoṅ Meiṅ Laga Di Lashkar-e-Kuffaar Ne
   Chhin Liṅ Saidaniyoṅ Ke Sar Se Chadar, Alwida
-  
+
   2
   Kunbe Wale Saath The Jab Maiṅ Watan Se Aayi Thi
   Aaj Jaati Huṅ Akeli Ghar Luta Kar, Alwida
-  
+
   3
   beKhata Maare Sakina Ko Tamache Shimr Ne
   Le Liye Masum Ke Kaanoṅ Se Gauhar, Alwida
-  
+
   4
   Nind Kaisi Aayi Hai Soya Karo Ge Kab Talak
   Lo Phupi Jaati Hai Uttho, Mere Akbar, Alwida
-  
+
   5
   Ho Gayi Shart-e-Wafa Par Tum Na Aye Shaam Meiṅ
   Taaziane Maarte The Jab Sitamgar, Alwida
-  
+
   6
   Shaam Ke Darbaar Meiṅ The Saat Sau Kursi-Nashiṅ
   The Rasan-Basta Wahaṅ Aal-e-Payambar, Alwida
-  
+
   7
   Thi Bohat Ummid Hai Abbas Sa Bhai Mera
   Maiṅ Na Jaungi Kabhi Kufa Khule-Sar, Alwida
-  
+
   8
   Phir Nazar Ki Su-e-Neher-e-Alqama Aur Yeh Kaha
   Mere Ghairatdaar Ae Saaqii-e-Kausar, Alwida
-  
+
   9
   Yeh Khalish Dil Se Na Jaye Gi Qayamat Tak Kabhi
   Haye Kufe Meiṅ Gayi Zainab Khule-Sar, Alwida

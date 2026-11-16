@@ -229,8 +229,9 @@ else if (flags.has("--summary")) {
 }
 if (baseline) {
   console.log("\nEditorial regression gate: " + regressions.length + " new or structural findings.");
-  for (const issue of regressions.slice(0, 30))
+  for (const issue of regressions.slice(0, 100))
     console.log("  " + issue.path + ":" + issue.line + " [" + issue.code + "] " + issue.detail);
+  if (regressions.length > 100) console.log("  …and " + (regressions.length - 100) + " more findings.");
   if (regressions.length) process.exitCode = 1;
 }
 if (flags.has("--strict") && all.length) process.exitCode = 1;

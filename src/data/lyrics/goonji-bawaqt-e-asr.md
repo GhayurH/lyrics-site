@@ -12,31 +12,31 @@ published: true
 romanLyrics: |-
   Gunji bawaqt-e-asr sada, maiṅ Husain huṅ
   Kaato na mera khushk gala, maiṅ Husain huṅ
-  
+
   1
   Amma kisi ne pani ki ek bundh bhi na di
   Maiṅ baar baar kehta raha maiṅ Husain huṅ
-  
+
   2
   Sukhi hui shimr mere halq ki rageiṅ
   Aahista tu churi ko chala maiṅ Husain huṅ
-  
+
   3
   Shireṅ ke ghar pe pahuncha jab raando ka qafila
   Naize se ek sar ne kaha maiṅ Husain huṅ
-  
+
   4
   Darbaar may lain ke kohraam mach gaya
   Mukhtar se jo sar ne kaha maiṅ Husain huṅ
-  
+
   5
   Zaanu pe rakh ke sar ko kaha ek zaif ne
   Akbar kahaṅ hai dard bata maiṅ Husain huṅ
-  
+
   6
   Ae shamiyo kafan na diya mujhko gham nahi
   Dedo meri behan ko rida maiṅ Husain huṅ
-  
+
   7
   Mehsus ho raha hai ke maqtal se aaj bhi
   Awaaz aa rahi hai Raza maiṅ Husain huṅ

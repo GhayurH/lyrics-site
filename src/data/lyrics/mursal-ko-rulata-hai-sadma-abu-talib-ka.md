@@ -12,15 +12,15 @@ published: true
 romanLyrics: |-
   Mursal ko rulata hai sadma Abu Talib ka
   duniya se chale jana, chacha Abu Talib ka
-  
+
   1
   khud huzn ka saal is ko kehte haiṅ Nabi kiunke
   is saal meiṅ thehra hai, jana Abu Talib ka
-  
+
   2
   rote haiṅ falak wale kehte hue yeh misra
   khidmat meiṅ ho chaudah ki, pursa Abu Talib ka
-  
+
   3
   yeh Kazmi us gham se ho jaye juda kaise
   jis gham meiṅ tarapta ho, kunba Abu Talib ka

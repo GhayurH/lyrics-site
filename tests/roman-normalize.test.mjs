@@ -19,7 +19,7 @@ function assertReading(urdu, input, expected) {
 test("Urdu-backed vowels, consonants, nasalization and joined endings", () => {
   for (const [urdu, input, expected] of [
       ["حسین کے خون میں کیوں نہیں ہیں", "Hussain ke khoon mein kyun nahin hain", "Husain ke khun meiṅ kiuṅ nahiṅ haiṅ"],
-      ["جواں وہاں زماں حسین امین", "jawan wahan zaman Husain amin", "jawaṅ wahaṅ zamaṅ Husain amin"],
+      ["جواں وہاں زماں حسین امین", "jawan wahan zaman Husain amin", "jawaaṅ wahaṅ zamaṅ Husain amin"],
       ["امام زماں", "Imam-e-Zaman", "Imam-e-Zamaṅ"],
       ["یوں ہوا رواں", "Youn hua Rawan", "Youṅ hua Rawaṅ"],
       ["تڑپ بڑی گھڑی", "tadap badi ghadi", "tarap bari ghari"],
@@ -41,6 +41,18 @@ test("Urdu-backed vowels, consonants, nasalization and joined endings", () => {
       ["میں نے", "Maine", "Maiṅ ne"]
   ])
     assertReading(urdu, input, expected);
+});
+
+test("جواں needs long aa and nasal ṅ, but جوان does not", () => {
+  for (const old of ["jawan", "jawaan", "jawaṅ", "jawaaṅ"])
+    assertReading("جواں", old, "jawaaṅ");
+  assertReading("جواں وہاں", "Jawan wahan", "Jawaaṅ wahaṅ");
+  assertReading("جوان", "jawaan", "jawaan");
+  const metadata = md("جواں", "jawaaṅ").replace("title: نام",
+    'title: "جواں"\nalternateTitle: "Jawaṅ"');
+  const normalized = normalizeRomanMarkdown(metadata, "src/data/lyrics/sample.md");
+  assert(normalized.text.includes('alternateTitle: "Jawaaṅ"'));
+  assert.equal(normalizeRomanMarkdown(normalized.text).changed, false);
 });
 
 test("Phonetic ayn/hamza substitutions work in Urdu and Arabic quotations", () => {
@@ -156,4 +168,30 @@ test("Source scope prevents overwriting missing Basta translations or English ap
   const changed = normalizeRomanMarkdown(source, "src/data/lyrics/sample.md");
   assert.equal(changed.paired, 1);
   assert(changed.text.endsWith("---\n" + urdu + "\n"), "never edit authoritative Urdu");
+});
+
+
+test("English originals and Balti/Panjabi readings are not Roman Urdu normalization targets", async () => {
+  const { readFile } = await import("node:fs/promises");
+  for (const filename of [
+    "heart-of-hussain.md",
+    "karbala-karbala-english.md",
+    "the-one-and-only-hussain.md",
+    "abbas-alamdar-balti.md",
+    "uth-nana-mere-dard-wandaa-main-veer-kuha-k-ai-han.md",
+  ]) {
+    const path = "src/data/lyrics/" + filename;
+    const original = await readFile(new URL("../" + path, import.meta.url), "utf8");
+    const result = normalizeRomanMarkdown(original, path);
+    assert.equal(result.text, original, filename + " must not be modified by Urdu orthography");
+    assert.equal(result.changed, false);
+    assert.deepEqual(result.findings, [], filename + " must not be required to add Roman Urdu");
+  }
+});
+
+test("Roman-only Urdu doesn't require a second Roman edition", () => {
+  const source = "---\\nlanguage: Urdu\\nlang: ur\\ndirection: ltr\\n---\\nRoman-only Urdu\\n".replaceAll("\\n", "\n");
+  const result = normalizeRomanMarkdown(source, "src/data/lyrics/roman-only.md");
+  assert.equal(result.changed, false);
+  assert.deepEqual(result.findings, []);
 });

@@ -12,56 +12,62 @@ published: true
 romanLyrics: |-
   Ae chand muharram kai, tu badli meiṅ chala jaa
   Tujhe daikh ke mar jaye na, bimar hai Sughra
-  
+
   1
   Ghar Zahra ka lutne ki, khabar tu ne sunai
   Tujhe dekh ke roti hai, muharram meiṅ khudai
   Chauda sau baras bite haiṅ, sab karte haiṅ shikwa.
-  
+
   2
   Milne ke liye bhai, ko bechain bari hai
   Kab se Ali Akbar ki ye, raahoṅ meiṅ khari hai
   Bichri hai yeh muddat se, isse tu na nazar aa.
-  
+
   3
   Viran gharoṅ meiṅ na, isse nind hai aati
   Akbar ki judai hai, isse khun rulati
   Qadmoṅ ke nishaṅ dhanp ke, bethi hai sar-e-raah.
-  
+
   4
   Gin gin ke jo Sughra ne, yeh din haiṅ guzare
   Zinda hai tu Akbar ke, wadoṅ ke sahare
   Din raat tarapti hai, isse aur na tarpa.
-  
+
   5
   Bhayya ki judai meiṅ, pareshan hai rehti
   Har roz yeh nana ko, ro ro ke hai kehti
   Akbar na mila nana, maiṅ mar jaaungi tanha.
-  
+
   6
   Qasid ko diya khat meiṅ, yeh paigham likhaa ke
   Ik bar tu miljaa mujhe, sine se laga ke
   Pathraati huwi nazreiṅ, kab dekheingi chehra.
-  
+
   7
   Waadaa jo kiya behan ko, sine se laga ke
   Maiṅ shadi karoṅ ga to, tere paas hi aa ke
   Maiṅ saat muharram ko, lautunga na ghabra.
-  
+
   8
   Rone nahi dete mujhe, ratoṅ ko musalmaaṅ
   Bemari se behaal huṅ, kuch roz ki mehmaaṅ
   Har simt se hai mujh ko, ab maut ne ghaira.
-  
+
   9
   Behnoṅ ka to bhaiyoṅ se, rishta hi ajab hai
   Tum bhul gaye mujhko, yeh kaisa ghazab hai
   Iss aas pe zinda huṅ, dekhuṅ tera sehra.
-  
+
   10
   Sughra ke nasiboṅ meiṅ, rona hi likha hai
   :sardar: masuma ko, mili kaisi saza hai
   Khat aaya na akbar ka, roti rahi Sughra.
+# source_id: nohayonline:fcb673db20a980ce3108
+# source_url: https://www.nohayonline.com/details_content.php?id=626
+# raw_sha256: 3e0b55c3cb25a06fd6d43771ec7e0ac0d79b97f86be3ff8c554aca394f5e88e4
+# source_id: ziyaraat:7d7a0b60e4d4704aad5a
+# source_url: https://www.ziyaraat.net/api/noha/472
+# raw_sha256: b5dd25b435cde5980055d2d40d8baac67a596d6a8806e81f2f7bd34fda9d7b69
 ---
 
 اے چاند محرم کے، تو بدلی میں چلا جا

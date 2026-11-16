@@ -11,44 +11,44 @@ aliases:
 published: true
 romanLyrics: |-
   Kesi ye sham ayi aulad-e-Sayyeda par
-  
+
   Sajjad ro rahe haiṅ Zainab se mun chupa kar
-  
+
   1
   Ik simt bekafan hai bhai ka uske lasha
   Abbas ki behen ka baqi raha na parda
   Ab sochti hai Zainab maange kafan ya chadar
-  
+
   2
   Bazu kahiṅ pare haiṅ lasha kahiṅ para hai
   Zainab ki bebasi par Ghazi tarap raha hai
   Roti hai bekasi bhi farsh-e-aza bicha kar
-  
+
   3
   Jo ghar me do qadam bhi paidal nahiṅ chali hai
   Ik din me wahi Zainab Abbas ban gayi hai
   Pehre pe aa gayi hai tanha alam utha kar
-  
+
   4
   Sajjad se lipat kar kehti rahi Sakina
   Ehsaas ho raha hai maiṅ ho gayi yatima
   Zalim dara raha hai naiza dikha dikha kar
-  
+
   5
   Lashoṅ ke darmiyaṅ wo baba ko dhundhti hai
   Mun apna pit kar ye faryad kar rahi hai
   Qadmoṅ meiṅ hi sula do baba mujhe bula kar
-  
+
   6
   Jab aa gaye Najaf se beti ko milne baba
   Zaanu pe rakh ke sar ye kehne lagi wo dukhiya
   Zainab ujar gayi hai Karbobala basa kar
-  
+
   7
   Khaimoṅ ke sath jhola bistar bhi jal gaya hai
   Namus-e-Mustafa ko baghi kaha gaya hai
   Le jayenge subah ko qaidi hameiṅ bana kar
-  
+
   8
   Guzregi kaise Yawar maqtal se shahzaadi
   Abid ne raat Momin ye soch kar guzari

@@ -11,68 +11,68 @@ aliases:
 published: true
 romanLyrics: |-
   Musafir Karbala wala
-  
+
   Hua pamal jis tarha, na ho pamal koi mola
   (Musafir, Karbala wala musafir)
-  
-  
+
+
   Jinwaiṅ ujra hai karbal which, Inwaiṅ ujre na koi shala
   (Musafir, Karbala wala musafir)
-  
+
   1
   Jigar zakhmi hai dil zakhmi, (Musafir karbala wala)
   Kamar khum hogai jiski, (Musafir karbala wala)
   Na sambhla aa ke maidaṅ meiṅ, gira ghash kha ke maidan meiṅ
   Tha kitna hosle wala (Musafir, Karbala wala musafir)
-  
+
   2
   Luta inwaiṅ hai jungle which, (Musafir karbala wala)
   Thia pamal maqtal which, (Musafir karbala wala)
   Hai nazaṅ naal Bauṅ okha, Jinun zehra ne hai pala
   (Musafir, Karbala wala musafir)
-  
+
   3
   Lara no lakh tiroṅ se, (Musafir karbala wala)
   Hua mehrum bacchoṅ se, (Musafir karbala wala)
   Juda ghazi hua jiska, Jo tanha aik lashkar tha,
   Jo tha mashk o alam wala (Musafir, Karbala wala musafir)
-  
+
   4
   Reya bauṅ dair tiraṅ tae, (Musafir karbala wala)
   Peya bedafn raitaṅ tae, (Musafir karbala wala)
   Sitam kita Musafir da, Har ek khaima jala dala
   (Musafir, Karbala wala musafir)
-  
+
   5
   Jo aaya run meiṅ jhule se, (Musafir karbala wala)
   Bujha ke piyas tiroṅ se, (Musafir karbala wala)
   Hansa tir-e-sitam kha kar, Wo piyasa wo ali asghar
   Hua qurbaan baba par (Musafir, Karbala wala musafir)
-  
+
   6
   Jera sarwar da chain haai, (Musafir karbala wala)
   Tae naa jainda husain haai, (Musafir karbala wala)
   Ukuṅ zibha kiya ummat, Nasab jainda hai aala
   (Musafir, Karbala wala musafir)
-  
+
   7
   Chupa tiroṅ ke andar tha, (Musafir karbala wala)
   Behen ne dur se deikha, (Musafir karbala wala)
   Najaf ki shahazadi ne, Hamari aqazadi ne
   Kaha maragaya bhaiya (Musafir, Karbala wala musafir)
-  
+
   8
   Sahara bus ae bhainri da, (Musafir karbala wala)
   Wale kheme de which jinda, (Musafir karbala wala)
   Ali de dhi Haaṅ kar maindi, Dua manzur rub shala
   (Musafir, Karbala wala musafir)
-  
+
   9
   Ata rehan karta hai, (Musafir karbala wala)
   Talab jo koi karta hai, (Musafir karbala wala)
   Her ek ko rizq matam ka, Sakhi hai dono alam ka
   Azadaroṅ ka hai mola (Musafir, Karbala wala musafir)
-  
+
   10
   Likhe hasnain ae kiwaiṅ, (Musafir karbala wala)
   Thia taqsim hai jiwaiṅ, (Musafir karbala wala)

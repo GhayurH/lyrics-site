@@ -12,27 +12,27 @@ published: true
 romanLyrics: |-
   Bekhata Mara Gaya Sibt-e-Rasul Dusra, Wa Hasan-e-Sabz Qaba
   Zehr Se Tukre Jigar, Khuṅ Se Kafan Laal Hua, Wa Hasan-e-Sabz Qaba
-  
+
   1
   Khuṅ Ugalte Hue Bhai Ko Behan Ne Dekha, Aur Tarap Kar Yeh Kaha
   Teri Ghurbat Pe Ae Bhai, Teri Zainab Ho Fida, Wa Hasan-e-Sabz Qaba
-  
+
   2
   Maaṅ Ke Dukh Se Abhi Azad Kahaṅ Thi Zainab, Ho Gaya Kaisa Ghazab
   Baap Zinda Na Raha, Bhai Su-e-Khuld Chala, Wa Hasan-e-Sabz Qaba
-  
+
   3
   Kar Diye Zehr-e-Halahal Ne Jigar Ke Tukre, Aur Qasim Ke Liye
   Kam Sini Meiṅ Hai Yeh Gham Shaam-e-Gharibaṅ Jaisa, Wa Hasan-e-Sabz Qaba
-  
+
   4
   Ghar Se Ik Baar Janaza Jo Nikal Jata Hai, Kab Wo Phir Aata Hai
   Yeh Woh Tabut Hai Jo Laut Ke Phir Ghar Ko Chala, Wa Hasan-e-Sabz Qaba
-  
+
   5
   Sheh Ne Us Waqt Jo Ghazi Ko Na Roka Hota, Hashr Ho Jata Bapa
   Tir Aate Na Janaze Pe Tumhare Moula, Wa Hasan-e-Sabz Qaba
-  
+
   6
   Sheh Ko Rehan Baradar Ka Jigar Yaad Aaya, Jab Sar-e-Karb o Bala
   Tukre Qasim Ke Uthate Hue Moula Ne Kaha, Wa Hasan-e-Sabz Qaba

@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Syed Waiz Rizvi"
 tags: []
 aliases:
   - "Jab Ghir Gae Kufe Mein"
@@ -12,7 +13,7 @@ published: true
 romanLyrics: |-
   jab ghir gaye Kufe meiṅ Muslim ke dulare
   pardes meiṅ tanha the taqdir ke maare
-  
+
   1
   dono bachoṅ ka wahaṅ koi madadgar na tha
   sirf tanhai thi yaawar na the gham-khwar na tha
@@ -20,7 +21,7 @@ romanLyrics: |-
   koi dono ki madad karne ko tayyar na tha
   thak kar ke jo girta tha kabhi chhota baradar
   chalta tha bara bhai use god meiṅ lekar
-  
+
   2
   chhote bhai ne bare bhai se ro kar pucha
   bhaiya itna to bata do ke kahaṅ haiṅ baba
@@ -28,7 +29,7 @@ romanLyrics: |-
   hum ko pardes meiṅ ab kaun sahara dega
   har samt andhera hai kahaṅ jayenge bhai
   lagta hai humeiṅ baba na mil payenge bhai
-  
+
   3
   raat kaali thi andhere meiṅ woh dono bache
   sahme sahme hue ek per pe chhup kar baithe
@@ -36,7 +37,7 @@ romanLyrics: |-
   siskiyaṅ lete the aur rote the chupke chupke
   aahat jo koi hoti thi to ghabrate the dono
   patte bhi kharakte the to dar jate the dono
-  
+
   4
   ek kaniz aayi subah usko tha pani bharna
   us ne masumoṅ ka pani meiṅ jo dekha chehra
@@ -44,7 +45,7 @@ romanLyrics: |-
   kaun ho aaye kahaṅ se ho bata do itna
   dono ne kaha zakhm bahut khaye haiṅ bibi
   hum log Madine se yahaṅ aaye haiṅ bibi
-  
+
   5
   naam Yasrib ka suna jab to woh tarpi ik baar
   le ke bachoṅ ko chali ghar ki taraf woh dildar
@@ -52,7 +53,7 @@ romanLyrics: |-
   Momina ne kiya shahzadoṅ ko ro ro kar pyar
   kehne lagi darna na meri jaan ho dono
   aqa ke dularoṅ mere mehmaan ho dono
-  
+
   6
   mutmain ho gaye jis waqt ke woh mah-e-laqa
   le gayi bachoṅ ko hujre meiṅ kaniz-e-Zahra
@@ -60,7 +61,7 @@ romanLyrics: |-
   saamne nazroṅ ke maa baap ka chehra aaya
   baba ke liye mahv-e-buka ho gaye dono
   bin khaye piye rote hue so gaye dono
-  
+
   7
   haaye Muslim ke pisar chand sitare dono
   khwab se chaunk ke uthe jo dulare dono
@@ -68,7 +69,7 @@ romanLyrics: |-
   roye besakhta taqdir ke maare dono
   rone ki sada sun ke utha Haris-e-malun
   khanjar liye hujre meiṅ gaya Haris-e-malun
-  
+
   8
   dekha Haris ko to masum bahut ghabraye
   zulfeṅ zalim ne jo pakri to jigar tharraye
@@ -76,7 +77,7 @@ romanLyrics: |-
   Momina ne kaha Haris tujhe maut aa jaye
   masum haiṅ pardesi haiṅ in par na sitam kar
   Haider ke gul-e-tar haiṅ yeh Zahra ke gul-e-tar
-  
+
   9
   kitna malun tha Haris ko taras na aaya
   Momina ki na suni ek use qatl kiya
@@ -84,7 +85,7 @@ romanLyrics: |-
   bache kehte the humeiṅ maar ke kya payega
   dirham tujhe dilwayenge jitna tu bata de
   le chal ke Madine humeiṅ amma se mila de
-  
+
   10
   le ke malun yatimoṅ ko nahr par pahuncha
   tegh masumoṅ ko dikhla ke woh zalim bola
@@ -92,7 +93,7 @@ romanLyrics: |-
   chhote bhai ne gala apna barha kar yeh kaha
   maiṅ deta huṅ sar tegh idhar mor de Haris
   bas mere bare bhai ko ab chor de Haris
-  
+
   11
   phir bare bhai ne chhote ko hataya barh kar
   rakh diya apna gala tegh ke niche ja kar
@@ -100,7 +101,7 @@ romanLyrics: |-
   mere bhai ko dikha kar na chalana khanjar
   malun tha bedin tha woh dushman-e-Haider
   sar kaata bare bhai ka chhote ko dikha kar
-  
+
   12
   chhote bhai ne lahu dekha jis dam
   lot kar khun meiṅ bhai ke woh tarpa pur-gham
@@ -108,7 +109,7 @@ romanLyrics: |-
   bhai thehro ke zara der meiṅ aate haiṅ hum
   yeh dekh ke malun ne talwar chalayi
   aur ho gayi bekas ke sar o tan meiṅ judai
-  
+
   13
   sar ko jab kaat chuka tan ko nahr meiṅ dala
   chhote bhai ki taraf bhai ka laasha aaya

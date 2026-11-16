@@ -12,31 +12,31 @@ published: true
 romanLyrics: |-
   Yeh Raaz Kya Hai Duniya Ke Banane Wale
   Besahara Hai Tera Din Bachane Wale
-  
+
   1
   Tha Woh Darbaar Magar Log Wohi The Nana
   Tujh Pe Hizyaan Ka Jo Ilzaam Lagane Wale
-  
+
   2
   Kufa Aur Shaam Ka Dastur Nirala Dekha
   Qatal Karte Haiṅ Woh Mehmaan Bulane Wale
-  
+
   3
   Kiuṅ Larazti Hai Zamiṅ Aur Udaasi Kiuṅ Hai
   Kaun Hai Shaam Ke Bazaar Meiṅ Aane Wale
-  
+
   4
   Dar Ke Zalim Ke Tamachoṅ Se Sakina Ne Kaha
   Ab To Aajao Humeiṅ Paani Pilane Wale
-  
+
   5
   Pohnchi Darbaar Meiṅ To Ro Pari Bibi Zainab
   Yaad Kya Aa Gayi Amma Ko Satane Wale
-  
+
   6
   Shaan-e-Haider Bhi Wohi Lehja-e-Haider Bhi Wohi
   Kaise Zainab Ke Ye Khutbe Hilane Wale
-  
+
   7
   Kashti Rahil Ki Bhi Paar Laga De Maula
   Kashti-e-Ummat-e-Islam Bachane Wale

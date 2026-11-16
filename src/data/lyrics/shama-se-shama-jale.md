@@ -12,55 +12,55 @@ published: true
 romanLyrics: |-
   Shama se shama jale, silsila jari rahe,
   Hum rahaiṅ ya na rahaiṅ, ye azadari rahe
-  
+
   1
   Apni nasloṅ lo sikhate raho, matam ka hunar,
   Sina dar sina kare, bus ye azadari safar,
   Jaise halat bhi hoṅ, ye amal jari rahe,
   Hum rahaiṅ ya na rahaiṅ, ye azadari rahe
-  
+
   2
   Lakh badle ye zamane ki ravish aur mausam,
   Eik pal bhi na ruke ashk-e-aza aur matam,
   Matam-e-sheh ka junuṅ, zahn par tari rahe
   Hum rahaiṅ ya na rahaiṅ, ye azadari rahe
-  
+
   3
   Tum agar zakir-e-Shabbir ho, yeh yaad rahe,
   Chahe is gam ke liye, sar bhi kate ghar bhi jale
   Hurmat-e-farsh-e-aza, jaan se pyari rahe,
   Hum rahaiṅ ya na rahaiṅ, ye azadari rahe
-  
+
   4
   Yeh sabileiṅ yuhin aabad raheiṅ ahl-e-aza,
   Aur ghar ghar pe nazar aaye alam Ghazi ka,
   Ye alam uncha rahe, yeh alamdari rahe,
   Hum rahaiṅ ya na rahaiṅ, ye azadari rahe
-  
+
   5
   Dunia waloṅ ki na parvah na kutch baat karo,
   Mannati bairiyaṅ Sajjad ke gham me pehno,
   Raunaqe farsh-e-aza girya o zari rahe
   Hum rahaiṅ ya na rahaiṅ, ye azadari rahe
-  
+
   6
   Maaoṅ behnoṅ ko hai paigam mera sirf yahi,
   Aapne bacchoṅ ko julusoṅ se nahi roko kabhi,
   Yeh shahadat hai sharaf, yeh sharaf jaari rahe,
   Hum rahaiṅ ya na rahaiṅ, ye azadari rahe
-  
+
   7
   Apne ghar me bhi aza khana sajana hai mujhe,
   Apne bacchoṅ ko azadar banana hai mujhe,
   Taake is nasl me bhi, tazia dari rahe,
   Hum rahaiṅ ya na rahaiṅ, ye azadari rahe
-  
+
   8
   Majlis-e-shah ki zindaṅ me jo bunyad rakhi,
   Asl me bibi o sajjad ki khwaish thi yahi,
   Yeh azadar raheiṅ yeh azadari rahe,
   Hum rahaiṅ ya na rahaiṅ, ye azadari rahe
-  
+
   9
   Majlis o matam-e-Shabbir ki tablig karo,
   Baat ye Mazhar o Irfan zamane se kaho,

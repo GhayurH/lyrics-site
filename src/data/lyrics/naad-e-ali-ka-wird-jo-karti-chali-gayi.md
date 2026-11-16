@@ -45,7 +45,6 @@ romanLyrics: |-
   9
   Gohar lahad meiṅ pahuncha jo ashk-e aza liye
   Ek roshni lahad meiṅ utarti chali gayi
-
 ---
 
 ۱

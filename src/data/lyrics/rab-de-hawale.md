@@ -11,44 +11,44 @@ aliases:
 published: true
 romanLyrics: |-
   Rab de hawale Rab de hawale
-  
+
   qatil khare hain, o khanjar sambhale
-  
+
   1
   akbar jo honda vatne puchenda
   ghazi tu hade parde banerda
   armaan sum gaye maqtal vichale
-  
+
   2
   dunya te kiya hai, jiwan da faida
   retaaṅ te sam gaye shehzada meda
   akbar te bajuṅ, jiwan muhaal ae
-  
+
   3
   medi mayat te, jidaaṅ bhen aawe
   je was lagi taa mede te laave
   mekuṅ samaave, akbar de naal ae
-  
+
   4
   akh wich bhira de hai tir lagiya
   raj raj ke faujaṅ jiweṅ aanr lutya
   na dekh sagda, ghazi da haal ae
-  
+
   5
   zainab na khaima tuṅ bahr aawe
   khaima tuṅ kusda maikuṅ dedhi rahwe
   medi dhi de khole, na sir de waal ae
-  
+
   6
   asghar kuṅ pani da ghut na milya
   gardan te hurmal da tir chalya
   mawaṅ te kus gaye, che mah da baal ae
-  
+
   7
   shabbir aakha chadar hataa chaa
   uryan thi saiṅ ao sar chumaa chaa
   tehndi laahsi chadar, neze de naal ae
-  
+
   8
   zainab ne ro ke viran kuṅ aakha
   mainuṅ gal chuma cha jithe aake shimraan

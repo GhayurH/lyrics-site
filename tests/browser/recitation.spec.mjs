@@ -117,6 +117,18 @@ test("empty set disables unavailable actions and explains publishing requirement
   await expect(publish).toBeDisabled();
 });
 
+test("renamed lyric deep-link uses its permanent recitation ID @smoke", async ({ page }) => {
+  const fileId = "ayyo-hannas-dil-e-haider-e-karrar-hon-main";
+  const stableId = fileId + "-mir-hasan-mir";
+  await page.goto("/lyrics/" + fileId + "/");
+  const add = page.locator(".lyric-add-recitation");
+  await expect(add).toHaveAttribute(
+    "href", "/recite/?add=" + encodeURIComponent("lyric:" + stableId));
+  await add.click();
+  await expect(page.locator("#recite-sequence li")).toHaveCount(1);
+  await expect(page.locator("#recite-count")).toContainText("1 kalam");
+});
+
 test("create local recitation programme and read standalone lyric @smoke", async ({ page }) => {
   await page.goto("/recite/");
   await expect(page.getByRole("heading", { name: "Recitation Sets" })).toBeVisible();
@@ -406,7 +418,6 @@ test("mobile recitation text card stays inside the controls with long verses", a
     } }) }));
   await page.goto("/recite/read/?draft=" + id);
   const card = page.locator(".recite-work");
-  const toolbar = page.locator(".reading-controls-recitation");
   await expect(card).toBeVisible();
   await expect(card.locator(".lyric-reading-urdu .poetry-stanza-number")).toHaveText("۱");
   await expect(card.locator(".lyric-reading-roman .poetry-stanza-number")).toHaveText("1");

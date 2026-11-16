@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Mehshar Lakhnavi"
 tags: []
 aliases:
   - "Haye Haye Ali Akbar"
@@ -12,52 +13,52 @@ published: true
 romanLyrics: |-
   Kehti thi yeh maaṅ khun bhari mayyat se lipat kar
   Haye haye ali akbar haye haye ali akbar
-  
+
   1
   Armaan tha pehnaungi poshak shahani
   Afsos ke raas aayi na tujhko ye jawani
   Kaisa tha muqaddar
-  
+
   2
   Itna to zara thero tumheṅ dulha bana lu
   Bas aik jhalak sehre ki Sughra ko dikhalu
   Bechain thi khwahar
-  
+
   3
   Athaara baras paal ke parwaan charaya
   Wo gaisuoṅ wala hai mera khun me nahaya
   Ye kya hua dilbar
-  
+
   4
   Maa teri judai me bhala kaise jiyegi
   Mar jayegi Sughra jo khabar teri sunegi
   Ab kya karuṅ ji kar
-  
+
   5
   Karti thi ziyarat mai payambar ki tujhhi se
   Ab ghar mei kise dungi mai tashbih nabi se
   Ham shakal e payambar
-  
+
   6
   Thehro keh maiṅ atharwiṅ mannat tu barha duṅ
   Phir le ke balaeiṅ tujhe jine ki dua duṅ
   Sadqe ho yeh madar
-  
+
   7
   Pehle to ik aawaz pe uth jate the beta
   Ab itni sadaoṅ pe bhi pehlu nahi badla
   Kya ho gaya dilbar
-  
+
   8
   Tum hichkiyaṅ le le ke jo dam tor rahe ho
   Muṅ maaṅ se hamesha ke liye mor rahe ho
   Kiuṅ ruthe ho dilbar
-  
+
   9
   Aayeṅ jo hameiṅ lutne kheme meiṅ sitamgar
   Maa de gi sadayeṅ ali akbar ali akbar
   Chin jayegi chadar
-  
+
   10
   Jab koi jawaaṅ laash nazar hai mehshar
   Ek yaad suye karbobala jaati hai mehshar

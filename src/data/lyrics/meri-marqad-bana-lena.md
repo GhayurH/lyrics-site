@@ -13,11 +13,11 @@ romanLyrics: |-
   Ae bani asad walo,
   mera laasha utha lena,
   Aur kafan bhi pinha dena,
-  
+
   Meri marqad bana dena,
   Mera laasha utha lena,
   meri marqad bana dena.
-  
+
   1
   Mera akbar bhi qasim bhi abbas bhi
   Aur aun o mohammad mere pur mahan
@@ -26,7 +26,7 @@ romanLyrics: |-
 
   Usko tum ik rida dena
   Meri marqad bana dena
-  
+
   2
   Maiṅ nabi ka nawasa huṅ ae dostoṅ
   Fatima ka dulara huṅ ae dostoṅ
@@ -35,7 +35,7 @@ romanLyrics: |-
 
   Karbala ko saja dena
   Meri marqad bana dena
-  
+
   3
   Jab bhi zaair ziyarat ko aayeṅ miri
   Usko mehmaan rakhna yahaṅ tin din
@@ -44,7 +44,7 @@ romanLyrics: |-
 
   Usko meri dua dena
   Meri marqad bana dena
-  
+
   4
   Asr ko tan se sar mera hoga juda
   Meri hurmat kareṅge na ahl-e-Saqar
@@ -53,7 +53,7 @@ romanLyrics: |-
 
   Mera laasha bacha lena
   Meri marqad bana dena
-  
+
   5
   Phir asad ke qabile ke bacchoṅ se bhi
   Is tarha mera maula mukhatib hua
@@ -62,7 +62,7 @@ romanLyrics: |-
 
   Meri maaṅ se dua lena
   Meri marqad bana dena
-  
+
   6
   Dekhna tum ke kuch waqt guzrega jab
   Aur roze hamare banenge yahaṅ
@@ -71,7 +71,7 @@ romanLyrics: |-
 
   Tum bhi jannat ko paa lena
   Meri marqad bana dena
-  
+
   7
   Meiṅ kahaṅ jaunga bekas o bewatan
   Sab kahenge mujhe shah-e-tashna dahan
@@ -80,7 +80,7 @@ romanLyrics: |-
 
   Sab ko khaak-e-shifa dena
   Meri marqad bana dena
-  
+
   8
   Ab bhi ashur ko rauza-e-shah par
   Aata hai sab kabila asad ka nazar

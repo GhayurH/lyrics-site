@@ -15,7 +15,7 @@ jobs:
     # Pinned to @playwright/test in package.json. Chromium and its Linux
     # dependencies are already present; avoid an apt/browser install per run.
     container:
-      image: mcr.microsoft.com/playwright:v1.64.1-noble
+      image: mcr.microsoft.com/playwright:v1.65.1-noble
       options: --ipc=host
     timeout-minutes: 10
     steps:

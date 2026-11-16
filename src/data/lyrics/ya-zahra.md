@@ -13,7 +13,7 @@ romanLyrics: |-
   Ya Zahra Ya Zahra
   ae meri bibi, tere dar pe istighasa hai
   tera mamnun meri shahzadi yeh jahaṅ sara hai
-  
+
   1
   tu humeiṅ hifz aur amaaṅ de de
   apni chadar ka saibaṅ de de
@@ -22,7 +22,7 @@ romanLyrics: |-
 
   ae meri bibi, aansuoṅ ne dua maangi hai
   teri tasbih parh ke dil ne tujhe pukara hai
-  
+
   2
   qarz maqruz ka ada kar de
   muflisoṅ ka nasib wa kar de
@@ -31,16 +31,16 @@ romanLyrics: |-
 
   ae meri bibi, bas tu hi murad deti hai
   teri chaukhat dar-e-ilahi ka istiara hai
-  
+
   3
   farsh-e-majlis pe aur musalle par
-  har jawaṅ keh raha hai ro ro kar
+  har jawaaṅ keh raha hai ro ro kar
   hum raheiṅ na raheiṅ magar bibi
   ta qayamat rahe gham-e-Sarwar
 
   ae meri bibi, tere bachoṅ ka gham manate haiṅ
   apni aulaad se kahiṅ barh ke gham yeh pyara hai
-  
+
   4
   un shahidoṅ ka yeh muqaddar hai
   saibaṅ in ka teri chadar hai
@@ -49,7 +49,7 @@ romanLyrics: |-
 
   ae meri bibi, khuld meiṅ shahid jab jaye
   teri awaaz aaye aane do yeh hamara hai
-  
+
   5
   khun ban kar ragoṅ meiṅ hai nauha
   meri nasloṅ meiṅ bhi rahe nauha
@@ -58,7 +58,7 @@ romanLyrics: |-
 
   ae meri bibi, inke dil meiṅ wilayah-e-Haider
   mere maa baap ki taharat ka ek ishara hai
-  
+
   6
   tere dil par hai jo sitam tute
   zindagi meiṅ jo tu ne gham dekhe
@@ -67,7 +67,7 @@ romanLyrics: |-
 
   ae meri bibi, dekh kar teri musibat ko
   sare aalam ka dil masaib se para para hai
-  
+
   7
   tujh ko ummat ne yuṅ sataya hai
   marg-e-Mohsin pe bhi rulaya hai
@@ -76,7 +76,7 @@ romanLyrics: |-
 
   ae meri bibi, kitne sadme uthaye haiṅ tu ne
   jite ji tujh ko meri shahzadi gham ne maara hai
-  
+
   8
   hai yahi Mazhar Abidi ki dua
   tere bachoṅ ka gham rahe zinda

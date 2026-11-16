@@ -84,7 +84,6 @@ romanLyrics: |-
 
   Hameiṅ bhi saadat ho nusrat ki hasil
   Khudara zuhur-e Imam-e Zamaṅ ho
-
 ---
 
 حسینؑ الغریب الغریب الحسینؑ

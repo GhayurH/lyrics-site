@@ -5,62 +5,80 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Rehan Azmi"
 tags: []
 aliases:
   - "Mere Hath Nahin Hain"
 published: true
 romanLyrics: |-
+  Jab haath qalam ho chuke abbas e jari ke
+  Nauha Husain karte huwe ye dasht meiṅ pahunche
+  Saanse abhi rawaṅ thi alamdar ye bole
+  Mehrum e ziyarat ka salaam e akhir hai
+  Ek aankh meiṅ lahu hai bhara ek meiṅ tir hai
+  Aaqa mere maula
+
   Maiṅ kaise uthuṅ aaqa, mere haath nahiṅ haiṅ
   Mere haath nahiṅ haiṅ
-  
+
   Paauṅ nhi chu sakta, mere haath nahiṅ haiṅ
   Mere haath nahiṅ hai
-  
+
   1
   Aaqa ye ghulaami ka sila kaisa diya hai
   Kis pyaar se sar aapne zaanu pa rakha hai
   Uthkar salaam karta, mere haath nahiṅ hai
-  
+
   2
   Jo haath tere kaam na aye mere maula
   Bachpan me hi kat jate to hota bohot acha
   Tum inko nahiṅ chuna, mere haath nahiṅ haiṅ
-  
+
   3
   Aaza-e-badan tum ho to paikar nahiṅ hota
   Maazur pe gharwala bhi muztar nahiṅ hota
   Ghar mujhko na le jana, mere haath nahiṅ hai
-  
+
   4
   Dil rota hai marte hue, kiya beadabi hai,
   Jin haatho ke katne se qamar Sheh ki jhuki hai
   Sidhi nahiṅ kar sakta, mere haath nahiṅ haiṅ
-  
+
   5
   Bhaari hai alam tum na uthao ise maula
   Tuti hai qamar dekhiye tanha na uthega
   Aqa maiṅ huṅ sharminda, mere haath nahiṅ hai
-  
+
   6
   Godi maiṅ Sakina ko uthauga maiṅ kaise
   Kis tarha nibhaunga ghulaami ke tarike
   Ye kam to nahiṅ sadma, mere haath nahiṅ haiṅ
-  
+
   7
   Maiṅ zaamin-e-chaadar tha, muhaafiz tha haram ka
   Ab zinda bhi reh jauṅ to kya faida Aaqa
   Zainab ko bata dena, mere haath nahiṅ haiṅ
-  
+
   8
   Jab ziṅ se zamiṅ ki taraf aane laga maula
   Na koi madadgaar tha, na koi sahara
   Us waqt khayaal aya, mere haath nahiṅ haiṅ
-  
+
   9
   Ye nauha-e-Ghazi sar-e-majlis jo Raza hai
   Rehan-e-aza kehta hai ye maujiza kya hai
   Ye haath hai Ghazi ka, mere haath nahiṅ haiṅ
+# source_id: nohayonline:2c3fdc4b8b66a389128e
+# source_url: https://www.nohayonline.com/details_content.php?id=1813
+# raw_sha256: b4a095026c20e46603e375d90689d7ef4255aa704e0e7896e629caf7378d15ec
 ---
+جب ہاتھ قلم ہو چکے عباس جری کے
+نوحہ حسین کرتے ہوے یہ دشت میں پہنچے
+سانسیں ابھی رواں تھی علمدار یہ بولے
+محروم زیارت کا سلام اخیر ہے
+اک آنکھ میں لہو ہے بھرا اک میں تیر ہے
+آقا میرے مولا
+
 
 میں کیسے اٹھوں آقا میرے ہاتھ نہیں ہیں
 میرے ہاتھ نہیں ہیں

@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
+poet: "Mohsin Naqvi"
 tags: []
 aliases:
   - "Aye Rab-E-Jahan Panjtan Pak Ka Sadqa"
@@ -13,79 +14,79 @@ romanLyrics: |-
   1
   Ae Rab-e-Jahaṅ, Panjtan Pak Ka Sadqa
   Iss Qaum Ka Daman Gham-e-Shabbir Se Bhar De
-  
+
   2
   Bachoṅ Ko Atta Kar Ali Asghar Ka Tabasum
   Burhuṅ Ko Habib Ibn-e-Muzahir Ki Nazar De
-  
+
   3
   Kam Sin Ko Mile Walwala-e-Aoun o Muhammad
   Har Ik Jawaan Ko Ali Akbar Ka Jigar De
-  
+
   4
   Maouṅ Ko Sikha Sani-e-Zahra Ka Saliqa
   Behno Ko Sakina Ki Duaoṅ Ka Asar De
-  
+
   5
   Ya Rab Tujhe Bimari-e-Abid Ki Qasam Hai
   Bimar Ki Ratoṅ Ko Shifa Yaab Sahar De
-  
+
   6
   Muflis Pe Zar o Maal o Jowahir Ki Ho Barish
   Maqruz Ka Har Qarz Ada Gaib Se Kar De
-  
+
   7
   Paband-e-Rasan Zainab o Kulsum Ka Sadqa
   Bejurm Asiroṅ Ko Rehai Ki Khabar De
-  
+
   8
   Jo Maeiṅ Bhi Roti Haiṅ beYad-e-Ali Asghar
   Unn Maouṅ Ki Aagosh Ko Aulaad Se Bhar De
-  
+
   9
   Jo Haq Ke Tarafdar Huṅ Wo Hath Atta Kar
   Jo Majlis-e-Shabbir Ki Khatir Ho Wo Ghar De
-  
+
   10
   Qismat Ko Faqat Khak-e-Shifa Bakhsh De Maula
   Maiṅ Yeh Nahiṅ Kehta Ke Mujhe Laal o Gohar De
-  
+
   11
   Aankhoṅ Ko Dikha Roza-e-Mazlum Ka Manzar
   Qadmoṅ Ko Najaf Tak Bhi Kabhi Izn-e-Safar De
-  
+
   12
   Jo Chadar-e-Zainab Ki Azadar Haiṅ Maula
   Mehfuz Raheiṅ Aisi Khawatin Ke Parde
-  
+
   13
   Gham Koi Na De Hum Ko Siwaye Gham-e-Shabbir
   Shabbir Ka Gham Bant Raha Hai Tu Idhar De
-  
+
   14
   Kab Tak Rahuṅ Duniya Meiṅ Yatimoṅ Ki Tarah Maiṅ?
   Waris Mera Parde Meiṅ Hai, Zahir Usse Kar De
-  
+
   15
   Manzur Hai Khwaboṅ Meiṅ Hi Aaqa Ki Ziyarat
   Parwaz Ki Khwahish Meiṅ Na Jibril Ke Par De
-  
+
   16
   Jis Dar Ke Sawali Haiṅ Farishte Bhi Bashar Bhi
   Awarah-e-Manzil Huṅ Mujhe Bhi Wohi Dar De
-  
+
   17
   Jo Din Ke Kaam Aaye Wo Aulaad Atta Kar
   Jo Kat Ke Bhi Uncha Hi Nazar Aaye Wo Sar De
-  
+
   18
   Khairat Dar-e-Shah-e-Najaf Chahiye Mujh Ko
   Salman o Abu Zar Ki Tarah Koi Hunar De
-  
+
   19
   Sehraoṅ Meiṅ Abid Ki Musafat Ke Sile Meiṅ
   Bhatke Huye Rahro Ko Samardar Shajar De
-  
+
   20
   Sar Par Ho Sada Parcham-e-Abbas Ka Saya
   Mohsin Ki Dua Khatam Ho Ab Iss Ko Asar De

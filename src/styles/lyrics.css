@@ -28,6 +28,8 @@
 .lyric-reading-panel { min-width: 0; padding: clamp(.75rem, 1.9vw, 1.55rem); }
 .lyric-reading-urdu { grid-area: urdu; font-size: calc(var(--reading-urdu-size) * var(--reading-urdu-optical-scale)); }
 .lyric-reading-roman { grid-area: roman; border-right: var(--ui-border); font-size: var(--reading-roman-size); }
+/* An English original uses the normal primary panel but Latin typography. */
+.lyric-reading-english { font-size: var(--reading-roman-size); }
 .lyric-version-heading { display: none; }
 
 .lyrics-text, .roman-lyrics-text { margin-top: 0; white-space: normal; overflow-wrap: normal; unicode-bidi: plaintext; }

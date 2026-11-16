@@ -12,27 +12,27 @@ published: true
 romanLyrics: |-
   Virna maiṅ teri qabar banawaṅ ya shaam nu jaawaṅ
   Kave Zainab ujri jang Karbala di mukk gayi lutiyaṅ gayiaṅ ridaawaṅ
-  
+
   1
   Kiweṅ shaam le jawaṅ Sajjad bimar ae
   Hosh nai aundi ess nu eh sakht lachaar ae
   Mainu samajh nai aundi viran disaa maiṅ kiweṅ ennu maut toṅ bachawaṅ
-  
+
   2
   Paa paa khaak sirraṅ vich ess vaal lukaaye
   Ummat ne rasiyaṅ de sanu zewar paaye
   Maiṅ suneya eh viran hayi shaam de shehar diyaṅ bohat okhiyaṅ ne rahwaṅ
-  
+
   3
   Uth toṅ maiṅ lath payi aaṅ par ro nai sakdi
   Laash utte pathraṅ da maiṅ dher haṅ takdi
   Mere hath paband hin kiweṅ laash toṅ maiṅ teri pathraṅ nu aa hathawaṅ
-  
+
   4
   Shaam shehar vich kis ne sade parde banaunayy
   Maluna de majme sade raah choṅ hathaune
   Mera Ghazi viran jaa nehar de kinare sonweya kataa ke bahwaaṅ
-  
+
   5
   Akhtar dunya faani ek din mukk jaani
   Rehni eh do jag te syedaṅ di kahani

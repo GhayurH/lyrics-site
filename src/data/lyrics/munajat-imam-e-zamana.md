@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
+poet: "Mir Hilal Rizvi"
 tags: []
 aliases:
   - "Munajat Imam E Zamana"
@@ -66,7 +67,6 @@ romanLyrics: |-
   Hilal aur Misam ki hai iltija
   Tumhari zabaṅ se ae kaash ek dafa
   Suneiṅ hum bhi rote hue Nahiya
-
 ---
 
 بلاتے ہیں رو رو کے اہلِ عزاء

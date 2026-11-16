@@ -13,32 +13,32 @@ romanLyrics: |-
   Aik Tehrir Uthaye, Boli Darbar Meiṅ Aa Kar Zahra, Logoṅ Meiṅ Bint-e-Nabi Huṅ
   Aisa Badla Hai Madina, Apna Haq Maang Rahi Huṅ Ghasib Se
   Kalma Go Kursi Nashiṅ Hai, Aur Maiṅ Kab Se Khari Huṅ
-  
+
   1
   Jitne Dukh Maiṅ ne Sahe, Gar Woh Din Par Bhi Pareiṅ, Woh Siyah Raat Baneiṅ
   Yehi Dukh Kam To Nahiṅ Hai, Is Qadar Tanha Madine Meiṅ Hui Huṅ
   Koi Sunta Hi Nahiṅ Hai, Ke Maiṅ Kya Bol Rahi Huṅ
-  
+
   2
   Aise Khamosh Ho Kiuṅ, Kehna Chaho Jo Kaho, Amma Kuch To Bolo
   Ro Ke Boli Betoṅ Se, Saath Behno Ka Nibhana Karbal Meiṅ
   Nange Sar Kaise Chalengi, Bas Yehi Soch Rahi Huṅ
-  
+
   3
   Pucha Haider Ne Bata, Kya Kya Masjid Meiṅ Hua, Ro Ke Bas Itna Kaha
   Kabhi Diwaroṅ Ko Thama, Kabhi Maiṅ Khaak Pe Baithi Huṅ Thak Kar
   Kabhi Betoṅ Ne Sambhala, Kabhi Raste Meiṅ Giri Huṅ
-  
+
   4
   Woh To Kamsin Hai Abhi, Dur Hai Shaam Se Bhi, Seh Na Payegi Kabhi
   Mujh Se Zainab Ne Yeh Pucha, Kahaṅ Jati Ho Batao Ae Amma
   Maiṅ ne Zainab Se Chhupaya, Ke Maiṅ Darbar Chali Huṅ
-  
+
   5
   Mera Haq Chhin Liya, Ajr Yeh Mujh Ko Diya, Yeh Sitam Mujh Pe Kiya
   Mujhe Darbar Bulaya, Zakhm Woh Dil Pe Lagaya Hai Mere
   Mera Dil Khun Hua Hai, Sar-e-Darbar Khari Huṅ
-  
+
   6
   Turbat-e-Bint-e-Nabi, Dekhe Akbar Jo Kabhi, Mujh Ko Lagta Hai Yehi
   Us Ka Mehdi Kehta Hai, Muntaqim Ban Ke Madine Zahra Ka

@@ -48,12 +48,11 @@ romanLyrics: |-
 
   10
   Azaan meiṅ Ali Akbar ne La ilaha illa Allah kaha
-  To aaj tak hai jawaṅ La ilaha illa Allah
+  To aaj tak hai jawaaṅ La ilaha illa Allah
 
   11
   Dar-e Batul nahiṅ jal raha tha ae Majid
   Woh ho raha tha dhuaṅ La ilaha illa Allah
-
 ---
 
 ۱

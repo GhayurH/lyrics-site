@@ -49,7 +49,6 @@ romanLyrics: |-
   10
   Zulm hai Mujrai, Sajjad ne kya kya dekha
   Ghar luta, qaid hue, baap ka lasha dekha
-
 ---
 
 ۱

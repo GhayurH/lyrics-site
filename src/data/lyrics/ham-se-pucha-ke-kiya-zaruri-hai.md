@@ -45,7 +45,6 @@ romanLyrics: |-
   9
   Shams lazim hai aise zikr-e Ali
   Jaise aab o hawa zaruri hai
-
 ---
 
 ۱

@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Mohsin Riyaz Mohsin"
 tags: []
 aliases:
   - "Jab Mujhe Aap Ke Qatil Ne Hai Mara Baba"
@@ -12,35 +13,35 @@ published: true
 romanLyrics: |-
   Jab Mujhe Aap Ke Qatil Ne Hai Mara Baba
   Har Tamache Pe Sakina Ne Pukara Baba
-  
+
   1
   Mujhe Baloṅ Se Pakar Kar Haiṅ Tamache Maare
   Maiṅ ne Sar Shimr Se Maanga Jo Tumhara Baba
-  
+
   2
   Wo Jo Dur Aap Ne Tohfe Meiṅ Mujhe Bakshe The
   Un Ko bedardi Se Zalim Ne Utara Baba
-  
+
   3
   Aap Ke Sine Pe Aaram Se Sone Wali
   So Ke Ab Khaak Pe Karti Hai Guzara Baba
-  
+
   4
   Saath Rehwaroṅ Ke Dauraya Gaya Hai Mujh Ko
   Chur Zakhmoṅ Se Badan Mera Hai Sara Baba
-  
+
   5
   Meri Ghurbat Pe Chacha Jaan Ka Sar Rota Hai
   Un Ki Ghurbat Meiṅ Karuṅ Kaise Gawara Baba
-  
+
   6
   Nok-e-Naiza Pe Use Dekhuṅ To Dekhuṅ Kaise
   Mera Asghar Tha Mujhe Jaan Se Bhi Pyara Baba
-  
+
   7
   Bekafan Aap Haiṅ, Bekafan Rahe Gi Beti
   Aik Jaisa Hi Muqaddar Hai Hamara Baba
-  
+
   8
   Ye Sada Qabr Se Masuma Ki Aaye Mohsin
   Saath Qaim Ke Chale Aana Dubara Baba

@@ -1,8 +1,8 @@
 import { test, expect } from "@playwright/test";
 
 test("search shows verified Basta kalams once without redundant page links", async ({ page }) => {
-  await page.goto("/search/?q=" + encodeURIComponent("Jo ummaton ka parda rakhe Zainab"));
-  const title = "Jo ummatoṅ ka parda rakhe Zainab aisi hasti hai";
+  await page.goto("/search/?q=" + encodeURIComponent("Jo zer-e-kisa parwaan charhe Zainab"));
+  const title = "Jo zer-e-kisa parwaan charhe Zainab aisi hasti hai";
   const result = page.locator(".pf-result").filter({
     has: page.getByRole("link", { name: title, exact: true }),
   });

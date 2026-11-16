@@ -11,71 +11,71 @@ aliases:
 published: true
 romanLyrics: |-
   Shehzada Shehzada, mera Qasim Shehzada
-  
+
   Allah ka din bachane,
   Aaya hai ran meiṅ nibhane, baba ka wada
   Qasim Shehzada
-  
+
   1
   Hai is ki jawani, Shabbar ki jawani
   Pathhar ke kaleje, ho jayenge pani
-  
+
   Allah ka din bachane,
   Aaya hai ran meiṅ nibhane, baba ka wada
   Qasim Shehzada
-  
+
   2
   Hai is ki ragon meiṅ khun-e-Abutalib
   Ye sher rahega har ek pe ghalib
-  
+
   Allah ka din bachane,
   Aaya hai ran meiṅ nibhane, baba ka wada
   Qasim Shehzada
-  
+
   3
   Bana raat ko dulha, gaya subha ko maara
   Hasnain ka pyara, farwa ka dulara
-  
+
   Allah ka din bachane,
   Aaya hai ran meiṅ nibhane, baba ka wada
   Qasim Shehzada
-  
+
   4
   Behno ki dua ka, hai sar per saaya
   Yeh fauj-e-adu ka, kar dega safaya
-  
+
   Allah ka din bachane,
   Aaya hai ran meiṅ nibhane, baba ka wada
   Qasim Shehzada
-  
+
   5
   Pota hai Ali ka, beta hai Hasan ka
   Aur khaak-e-shifa hai, naam is ke kafan ka
-  
+
   Allah ka din bachane,
   Aaya hai ran meiṅ nibhane, baba ka wada
   Qasim Shehzada
-  
+
   6
   Rangin bana di, taswir wafa ki
   Hathoṅ per laga kar, khud khun ki mehendi
-  
+
   Allah ka din bachane,
   Aaya hai ran meiṅ nibhane, baba ka wada
   Qasim Shehzada
-  
+
   7
   Yun dasht-e-bala meiṅ, barpa huyi shadi
   Dulha bhi pyaasa. baraat bhi pyaasi
-  
+
   Allah ka din bachane,
   Aaya hai ran meiṅ nibhane, baba ka wada
   Qasim Shehzada
-  
+
   8
   Jaan dekar Gauhar, islam bachaya
   Bete ne Hasan ke, waade ko nibhaya
-  
+
   Allah ka din bachane,
   Aaya hai ran meiṅ nibhane, baba ka wada
   Qasim Shehzada

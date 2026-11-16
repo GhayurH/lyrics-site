@@ -29,7 +29,6 @@ romanLyrics: |-
   5
   Nahiṅ huṅ abid o zahid magar zakir huṅ Maula ka
   Ali ke zikr se meri taharat ho bhi sakti hai
-
 ---
 
 ۱

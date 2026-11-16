@@ -5,19 +5,22 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Akhtar Hussain"
 tags: []
 aliases:
   - "Asghar Main Teri Maan Hun"
 published: true
 romanLyrics: |-
+  Aaja asghar aaja asghar
+
   aajao chand mere
   teri pyaas mai bujhauṅ
   asghar maiṅ teri maaṅ huṅ
-  
+
   mere laadle kahaṅ ho
   sine tumheiṅ lagauṅ
   asghar maiṅ teri maaṅ huṅ
-  
+
   1
   beta tumhara qatil
   mere saamne khara hai
@@ -25,7 +28,7 @@ romanLyrics: |-
   chadar bhi lut chuki hai
   Mun kis tarha chupauṅ
   Asghar Maiṅ Teri Maaṅ Huṅ
-  
+
   2
   tere jhule ko sakina
   ro ro ke chumti hai
@@ -33,7 +36,7 @@ romanLyrics: |-
   teri maut ki khabar maiṅ
   kaise ise sunauṅ
   Asghar Maiṅ Teri Maaṅ Huṅ
-  
+
   3
   meri jaan ja rahi hai
   ye soch soch asghar
@@ -41,7 +44,7 @@ romanLyrics: |-
   ye tir kaise jhayla
   Behno ko kya batauṅ
   Asghar Maiṅ Teri Maaṅ Huṅ
-  
+
   4
   naize se gir raha hai
   nanha sa sar tumhara
@@ -49,7 +52,7 @@ romanLyrics: |-
   mere haath to bandhe haiṅ
   sar kis tarha uthauṅ
   Asghar Maiṅ Teri Maaṅ Huṅ
-  
+
   5
   jhule ke saath beta
   mere haath jal gaye haiṅ
@@ -57,7 +60,7 @@ romanLyrics: |-
   teri aakhri nishani
   Kis tarha se bachauṅ
   Asghar Maiṅ Teri Maaṅ Huṅ
-  
+
   6
   jab raat hogi ran meiṅ
   hojayega andhera
@@ -65,7 +68,7 @@ romanLyrics: |-
   dadi kaheṅgi tumse
   aa maiṅ tujhe sulaauṅ
   Asghar Maiṅ Teri Maaṅ Huṅ
-  
+
   7
   tum raat ko hamesha
   sunte thai maaṅ se lori
@@ -73,7 +76,12 @@ romanLyrics: |-
   phir god may lita kar
   Nade ali sunauṅ
   Asghar Maiṅ Teri Maaṅ Huṅ
+# source_id: nohayonline:f50bd24684ea2d124b02
+# source_url: https://www.nohayonline.com/details_content.php?id=19
+# raw_sha256: ad5714a7e0ea69ec5c8fd047542c17689c435e8daf464dc73dd6490fdac37b1d
 ---
+آجا اصغر آجا اصغر
+
 
 آجاؤ چاند میرے
 تیری پیاس میں بجھاؤں

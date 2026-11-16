@@ -24,7 +24,7 @@ const romanUncertainty = /\[[^\]\n]*(?:juzwi\s+taur\s+par\s+ghair[-\s]?wazeh|gha
 const invisible = /[\u200B\u200C\u200D\u200E\u200F\u202A-\u202E\u2066-\u2069\uFEFF]/u;
 
 /** Inspect printed lines independently of metadata and stanza alignment. */
-export function checkLines(path: string, text: string, firstLine: number, script: "urdu" | "roman", issues: ReviewFinding[], allowLatin = false): void {
+export function checkLines(path: string, text: string, firstLine: number, script: "urdu" | "roman" | "english", issues: ReviewFinding[], allowLatin = false): void {
   text.split("\n").forEach((line, index) => {
     const sourceLine = firstLine + index;
     if (!line.trim()) return;
@@ -48,7 +48,7 @@ export function checkLines(path: string, text: string, firstLine: number, script
       const credit = /^\s*(?:\([^\n]*\)|(?:بشکریہ|شاعرِ|شاعر\s)[^\n]*)$/u.test(visibleLine);
       if (!allowLatin && !credit && /[A-Za-z]/u.test(visibleLine))
         record(issues, path, sourceLine, "latin-in-urdu", "Latin letters in Urdu text: " + visibleLine.trim().slice(0, 95));
-    } else {
+    } else if (script === "roman") {
       if (/\(x\d+\)/iu.test(line))
         record(issues, path, sourceLine, "roman-repeat-notation", "Remove repetition marker; use a comma when it separates two phrases");
       if (/<\/?u>/iu.test(line))

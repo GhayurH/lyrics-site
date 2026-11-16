@@ -12,7 +12,7 @@ published: true
 romanLyrics: |-
   Teri Ummat Ke Zewar Pehen Kar
   Dekho Nana Chali Huṅ Maiṅ Sham
-  
+
   1
   Maiṅ Deti Kafan Tujh Ko Bhaiya
   Gar Sar Pe Rida Mere Hoti
@@ -20,7 +20,7 @@ romanLyrics: |-
   Tere Zakhmoṅ Ko Haathoṅ Se Dhoti
   Paband-e-Rasan Sar Barahna
   Dekho Bhaiya Chali Huṅ Maiṅ Sham
-  
+
   2
   Tere Bachchoṅ Ko Le Kar Gayi Maiṅ
   Shab Bhar Saari Roti Rahi Huṅ
@@ -28,7 +28,7 @@ romanLyrics: |-
   Maiṅ Pehre Bhi Deti Rahi Huṅ
   In Bewa Bahu Betiyoṅ Se
   Kiuṅ Karte Nahiṅ Ho Kalaam
-  
+
   3
   Mere Abid Pe Taari Ghashi Thi
   Aur Kulsum Sehmi Khari Thi
@@ -36,7 +36,7 @@ romanLyrics: |-
   Jis Ke Daaman Meiṅ Aag Lagi Thi
   Kabhi Rouṅ Maiṅ Apni Rida Ko
   Kabhi Dekhuṅ Maiṅ Jalte Khiyam
-  
+
   4
   Haye Nana Maiṅ Kaise Sunauṅ
   Darbar-e-Shaqi Ka Woh Manzar
@@ -44,7 +44,7 @@ romanLyrics: |-
   Aur Sar Pe Na Thi Mere Chadar
   Haye Nana Teri Betiyoṅ Ko
   Yuṅ Laye Haiṅ Sar Nange Aam
-  
+
   5
   Jis Zainab Ko Tum Ne Baradar
   Kabhi Nazreiṅ Utha Kar Na Dekha
@@ -52,7 +52,7 @@ romanLyrics: |-
   Aur Sar Par Nahiṅ Mere Chadar
   Kaise Kufe Meiṅ Jaungi Ghazi
   Jab Majma Meiṅ Aayega Naam
-  
+
   6
   Jaise Darbar Paas Aa Raha Hai
   Mera Dil Dubta Ja Raha Hai
@@ -60,7 +60,7 @@ romanLyrics: |-
   Bhai Tum Ko To Sab Kuch Pata Hai
   Kis Tarah Se Karegi Bata Do
   Ik Sharabi Se Zainab Kalaam
-  
+
   7
   Jab Roti Thi Baali Sakina
   Aur Baba Ko Apne Bulati
@@ -68,7 +68,7 @@ romanLyrics: |-
   Aur Sine Pe Apne Sulati
   Dhund Zindan Meiṅ Masum Bachchi
   Le Le Ke Woh Baba Ka Naam
-  
+
   8
   Jis Zainab Ko Tum Ne Baradar
   Kabhi Nazreiṅ Utha Kar Na Dekha
@@ -76,7 +76,7 @@ romanLyrics: |-
   Aur Sar Par Nahiṅ Mere Parda
   Kaise Kufe Meiṅ Jaungi Ghazi
   Jab Balwe Meiṅ Aayega Naam
-  
+
   9
   Jaise Darbar Paas Aa Raha Hai
   Mera Dil Dubta Ja Raha Hai
@@ -84,7 +84,7 @@ romanLyrics: |-
   Bhai Tum Ko To Sab Kuch Pata Hai
   Kis Tarah Se Karegi Bata De
   Ik Sharabi Se Zainab Kalaam
-  
+
   10
   Dil Yeh Kehta Hai Ro Ro Ke Bhaiya
   Kash Abbas Maujud Hota
@@ -92,7 +92,7 @@ romanLyrics: |-
   Koi Baghi Agar Mujh Ko Kehta
   Dekhti Phir Maiṅ Kis Tarah Leta
   Koi Zainab Ka Majma Meiṅ Naam
-  
+
   11
   Keh Rahe Haiṅ Yeh Hans Hans Ke Shami
   Aane Wale Haiṅ Darbar Baghi

@@ -5,14 +5,23 @@ export function normalizeRomanMarkdown(content, path = "") {
   const match = /^---\n([\s\S]*?)\n---(?:\n|$)/u.exec(content);
   if (!match) return { text: content, changed: false, findings: ["Missing YAML frontmatter"] };
   const head = match[1].split("\n");
-  // English-language appendices reproduce the same printed prose in both
-  // fields. They are not Urdu transliteration and must remain byte-identical.
-  if (/^contentKind:\s*english-appendix\s*$/mu.test(match[1]))
+  // Roman Urdu orthography is not appropriate for English originals or
+  // Balti/Panjabi/Arabic/Persian readings: keep those sources untouched.
+  const scalar = key => {
+    const raw = head.find(line => line.startsWith(key + ":"))?.slice(key.length + 1).trim();
+    return raw?.replace(/^["']|["']$/gu, "");
+  };
+  const language = scalar("language"), lang = scalar("lang");
+  if (scalar("contentKind") === "english-appendix" ||
+      (language && language !== "Urdu") || (lang && lang !== "ur"))
     return { text: content, changed: false, findings };
   const body = content.slice(match[0].length);
   const start = head.findIndex(x => /^romanLyrics:\s*\|-\s*$/u.test(x));
   if (start < 0) {
-    if (/[/\\]lyrics[/\\]/u.test(path)) findings.push("Standalone lyric has no Roman edition");
+    // A Roman-only Urdu original has no separate Roman edition to provide.
+    if (/[/\\\\]lyrics[/\\\\]/u.test(path) &&
+        !(scalar("direction") === "ltr" && lang === "ur"))
+      findings.push("Standalone lyric has no Roman edition");
     return { text: content, changed: false, findings };
   }
   let end = start + 1;
@@ -210,6 +219,9 @@ export function normalizeRomanMarkdown(content, path = "") {
     const mappings = [
       [/بچّ?وں/u, /\bbachchon\b/giu, "bachchoṅ"],
       [/بچیوں/u, /\bbachchiyon\b/giu, "bachchiyoṅ"],
+      // جواں is jawaaṅ: preserve the long aa and nasal ں, but never
+      // force the same spelling for جوان, which ends in plain ن.
+      [/جواں/u, /\bjawa(?:an|ṅ|n)(?![A-Za-zṅ])/giu, "jawaaṅ"],
       [/ویراں/u, /\bviran\b/giu, "viraaṅ"],
       [/آنکھوں/u, /\baakhon\b/giu, "aankhoṅ"],
       [/اکھیاں/u, /\bankhiyan\b/giu, "ankhiyaṅ"],

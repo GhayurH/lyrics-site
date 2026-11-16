@@ -11,39 +11,39 @@ aliases:
 published: true
 romanLyrics: |-
   Maaṅ na roegi tumheiṅ Aun o Mohammad kiuṅkar
-  
+
   Jab madine meiṅ nazar aaegi viraniy-e-ghar
-  
+
   1
   Jab ke zindan meiṅ tum dono ka sar aya tha
   Maaṅ na royi thi tumhe tumko gila to hoga
   Muaaf karna jo agar ho sake ae lakhte jigar
-  
+
   2
   Mujhse puchenge jo Abdullah kahaṅ haiṅ bachche
   Kya waja hai meri nazroṅ se nihaṅ haiṅ bachche
   Kya jawab unko ye maa degi mere nure nazar
-  
+
   3
   Hujre dekhungi tumhare to tarap jaungi
   Kis tarah se dile betaab ko samjhaungi
   Ab nahi lautke aaenge mere rashqe qamar
-  
+
   4
   Tum nahi paas to ab naaz uthauṅ kiske
   Hujre hathoṅ se bhala ab mai sajauṅ kiske
   Kaash mar jati tere sath hi dukhiya madar
-  
+
   5
   Tum nahi ho to maza kuch bhi nahi jine meiṅ
   Hai is gham se phataa jata hai dil sine meiṅ
   Kaun ab mujhko pukarega bhala maa kehkar
-  
+
   6
   Ae mere laal tere baad ghazab hum pe hua
   Haey is chashm-e-falak ne bhi ye manzar dekha
   Sar barehna ye lain laigaye humko dar dar
-  
+
   7
   Bain sunkar ye uthi Zain baqayya se sada
   Gham na kha ae meri beti ke ye maa tumpe fida

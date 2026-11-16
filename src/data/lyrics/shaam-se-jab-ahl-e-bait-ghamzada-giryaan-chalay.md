@@ -19,7 +19,7 @@ romanLyrics: |-
   Karte hue ye bayaaṅ baa-dil-e-naalaaṅ chale
   Aaj hai chaaliswaaṅ Hazrat-e-Shabbir ka
   Tishna-dahan kushta-e-khanjar o taqdir ka
-  
+
   2
   Raah meiṅ un se koi, puchta gar aan kar
   Kis ke ho naamus tum, kis ke ho lakht-e-jigar
@@ -27,7 +27,7 @@ romanLyrics: |-
   Kehte the Ahl-e-Haram un se yuṅ ba-chashm-e-tar
   Tum se bayaaṅ kya kareiṅ apne hum ehwaal ko
   Dafn haiṅ karne chale Fatima ke laal ko
-  
+
   3
   Woh jo haram mohtaram, Shah ke ba-sad bukaa
   Manzileiṅ te karte haaye, pohanche dar-e-Karbala
@@ -35,7 +35,7 @@ romanLyrics: |-
   Ro ke yeh kehne lage Hazrat-e-Zain-ul-Aba
   Untoṅ se utro tum ab karte hue shor o shain
   Rote chalo piyaada-pa, yaaṅ se ba-laash-e-Husain
-  
+
   4
   Hazrat Sajjad se sun ke Haram yeh kalaam
   Pit-te rote hue untoṅ se utre tamaam
@@ -43,7 +43,7 @@ romanLyrics: |-
   Sar ko lage pitne, waarisoṅ ke le ke naam
   Chaadareiṅ sar se utaar aansu bahane lage
   Haathoṅ se us ban ki khaak sar pe uraane lage
-  
+
   5
   Hazrat-e-Sajjad ne dekh ke yeh maajra
   Bibiyoṅ ko saath le, khub sa maatam kiya
@@ -51,7 +51,7 @@ romanLyrics: |-
   Sina o sar pit kar, ro ro yeh nauha parha
   Zahra ke masum ka aaj hai chaaliswaaṅ
   Syed-e-Mazlum ka aaj hai chaaliswaaṅ
-  
+
   6
   Woh jo hai Ibn-e-Hasan Shah ka aali-nasab
   Biyaah ke din haaye haaye, qatl hua tishna-lab
@@ -59,7 +59,7 @@ romanLyrics: |-
   Us ka bhi chehlum hai aaj, haaye sitam hai ghazab
   Akbar o Asghar ka bhi aaj hai chaaliswaaṅ
   Shah ke lashkar ka bhi aaj hai chaaliswaaṅ
-  
+
   7
   Hazrat-e-Zain-ul-Aba, noha ye jab parh chuke
   Bibiyoṅ se iss tarah, ro ro ye kehne lage
@@ -67,7 +67,7 @@ romanLyrics: |-
   Bano-e-Abbas yuṅ, boli maiṅ sadqe tere
   Pehle mere saaeiṅ ki, laash tou dhundwaaio
   De ke kafan qabr meiṅ, phir usse dalwaaio
-  
+
   8
   Ro diya Sajjad ne, sunte hi uss ki ye baat
   Bano-e-Abbas ko, le chale phir apne saath
@@ -75,7 +75,7 @@ romanLyrics: |-
   Dekha tou Abbas ke, kat gaye haiṅ dono haath
   Haathoṅ ka khun beh gaya, zardi hai sab chaa gayi
   Ungli har ek haath ki, dhup se murjhaa gayi
-  
+
   9
   Aap ne ek baar ye, dekha jo phir ghor se
   Tan se juda hogaye, shaane kate haiṅ pare
@@ -83,7 +83,7 @@ romanLyrics: |-
   Ghaaiyaaṅ bhi kat gayi, zakhmoṅ se shamshir ke
   Sina-e-pur nur hai, tirouṅ se chida hua
   Laasha hai tukre para, khaak meiṅ lipta hua
-  
+
   10
   Bewa-e-Abbas ne, dekh ke ye maajra
   Le le ke shohar ka naam, khub sa matam kiya

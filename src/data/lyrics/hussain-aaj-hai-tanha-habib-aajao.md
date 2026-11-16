@@ -12,27 +12,27 @@ published: true
 romanLyrics: |-
   Husain aaj hai tanha, Habib aajao
   Kara hai waqt khudaya Habib aajao
-  
+
   1
   Ye Karbala hai yahaṅ dost ki zarurat hai
   Yahaṅ to mujh se bhi pehle teri shahadat hai
   Nahiṅ hai koi humara
-  
+
   2
   Meri nigah meiṅ ab Karbala ka maqtal hai
   Husaini baandh ki fehrist na mukammal hai
   Hai saath ab mera kunba
-  
+
   3
   Tumhe Husain ke haq meiṅ jihaad karna hai
   Kiya tha waada jo bachpan meiṅ yaad karna hai
   Yehi hai farz tumhara
-  
+
   4
   Watan se dur huṅ mujh par hue haiṅ haaye gazab
   Maiṅ Hajj ko Umrah meiṅ tabdil kar chuka huṅ ab
   Badal gaya hai zamana
-  
+
   5
   Muhib Husain ne hasrat se chaar su dekha
   Zamin-e-Karbobala ko lahu lahu dekha

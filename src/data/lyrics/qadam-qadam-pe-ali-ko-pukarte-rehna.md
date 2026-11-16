@@ -53,7 +53,6 @@ romanLyrics: |-
   Ke jo Ali ko na mane woh kab Musalman hai
   Mujahid apna to Nad-e Ali pe iman hai
   Isi sahare se hasti guzarte rehna
-
 ---
 
 قدم قدم پہ علی کو پکارتے رہنا

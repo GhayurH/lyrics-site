@@ -12,39 +12,39 @@ published: true
 romanLyrics: |-
   Palaan ki hai baat ye mimbar ki baat hai
   Maydan-e-Khum wilayat-e-Haidar ki baat hai
-  
+
   1
   Jibril laykay jao ye balligh ki ayateiṅ
   Kehdo ke ab ye kaare Payambar ki baat hai
-  
+
   2
   Baade Nabi Ali haiṅ wali keh chuke Rasul
   Bhule wo kis tarha ke yay ghar ghar ki baat hai
-  
+
   3
   Fath-e-Hunain o Khandaq o Khaybar ki baat hai
   Ik fard hai lage hai ke lashkar ki baat hai
-  
+
   4
   Gunjayga ab fiza may Ali-e-Wali ka naam
   Qalb-e-munafiqin pe khanjar ki baat hai
-  
+
   5
   Momin ke dil haiṅ shaad munafiq jale huwe
   Saahab ye apne apne muqaddar ki baat hai
-  
+
   6
   Kiuṅ kar na ata arsh se patthar pae sanad
   Akhir ko yay wilayat-e-Haidar ki baat hai
-  
+
   7
   Bhage na aj koyi karo aisa intizam
   Buzar ke kaan may yahi Qambar ki baat hai
-  
+
   8
   Qaayam hai ab bhi akhri Mawla Ghadir ka
   Meri nahi ye Sura-e-Kawsar ki baat hai
-  
+
   9
   Baade Ghadir bazm-e-saqifa meiṅ baithna
   Aawaragi-e-fikar hai yay shar ki baat hai

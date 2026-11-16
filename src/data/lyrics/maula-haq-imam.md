@@ -16,49 +16,49 @@ romanLyrics: |-
   Aur shaam ka bazaar tha
   Aur Mustafa ki betiyaaṅ
   Maula haq imam....
-  
+
   2
   Shabbir ki wo laadli
   Sine pe jo shah ke pali
   Jiski abaa ban me jali
   Mun per tamanchoṅ ke nishaan
   Maula haq imam....
-  
+
   3
   Wo zainab o kulsum thiṅ
   Chaadar se jo mehrum thiṅ
   Na mehramon ke darmiyaaṅ
   Aur murtaza ki betiyaaṅ
   Ghazi bawafa....
-  
+
   4
   Wo bawafa abbas tha
   dukhiyoṅ ki jo eik aas tha
   Paani liya par na piya
   Masum ka ehsaas tha
   Ghazi bawafa....
-  
+
   5
   Ro kar kahe Qasim ki maaṅ
   Mara gaya Qasim jawaaṅ
   Ae laal mei dhundhuṅ kahaṅ
   mehndi teri sehra tera
   Maula haq imam....
-  
+
   6
   Wo Asghar-e-beshir tha
   Aur Hurmala ka tir tha
   Pyasa ghala kiun kar kata
   Royi zamiṅ aur aasmaaṅ
   Maula haq imam....
-  
+
   7
   Pyaase gale khanjar chale
   Chaadar chini khaime jale
   Abbas ke parcham tale
   Roti rahiṅ sedaniyaṅ
   Maula haq imam....
-  
+
   8
   Sham-e-ghariban chagayi
   Abid ko ghairat khaa gayi

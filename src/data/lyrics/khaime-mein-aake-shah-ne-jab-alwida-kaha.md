@@ -13,7 +13,7 @@ published: true
 romanLyrics: |-
   Khaime Meiṅ Aake Shah Ne Jab Alwida Kaha
   Kohraam Mach Gaya, Kohraam Mach Gaya
-  
+
   1
   Tha Jiska Intezar Wo Saaat Qarib Hai
   Din Dhal Raha Hai Shaam-e-Musibat Qarib Hai
@@ -21,7 +21,7 @@ romanLyrics: |-
   Zainab Gharib Bhai Ki Rukhsat Qarib Hai
   Ye Keh Ke Maanga Maaṅ Ka Jo Kurta Sila Hua
   Kohraam Mach Gaya, Kohraam Mach Gaya
-  
+
   2
   Kuch Dur Hat Ke Khaime Meiṅ Bole Sheh-e-Zaman
   Zehmat Na Ho To Baazu Barhao Zara Behan
@@ -29,7 +29,7 @@ romanLyrics: |-
   Baazu Barha Ke Roti Thi Hamshir-e-Khasta Tan
   Bhai Behan Ke Baazuoṅ Ko Chumne Laga
   Kohraam Mach Gaya, Kohraam Mach Gaya
-  
+
   3
   Ye Sun Ke Bint-e-Fatima Zehra Tarap Gayi
   Boli Gala Barhao Bas Ab Jald Ya Akhi
@@ -37,7 +37,7 @@ romanLyrics: |-
   Maiṅ Bose Luṅ Wahaṅ Ke Chalegi Jahaṅ Chhuri
   Zainab Ne Barh Ke Chuma Baradar Ka Jab Gala
   Kohraam Mach Gaya, Kohraam Mach Gaya
-  
+
   4
   Beti Se Phir Ye Kehne Laga Fatima Ka Laal
   Rehna Phuphi Ke Paas Rakhengi Tera Khayal
@@ -45,7 +45,7 @@ romanLyrics: |-
   Warna Tere Pidar Ko Bahot Hoga Malaal
   Phir Sar Pe Haath Rakh Ke Jo Dene Lage Dua
   Kohraam Mach Gaya, Kohraam Mach Gaya
-  
+
   5
   Beti Ko Jab Supurd-e-Behan Kar Chuke Imam
   Ro Kar Behan Se Kehne Lage Aasmaaṅ Maqam
@@ -53,7 +53,7 @@ romanLyrics: |-
   Kehna Lahad Pe Maaṅ Ki Mera Aakhri Salam
   Aaya Jo Lab Pe Fatima Zehra Ka Tazkira
   Kohraam Mach Gaya, Kohraam Mach Gaya
-  
+
   6
   Abid Se Phir Ye Kehne Lage Shah-e-Karbala
   Bewaaoṅ Ka Aur Yatimoṅ Ka Ab Tum Ho Aasra
@@ -61,7 +61,7 @@ romanLyrics: |-
   Aage Tera Jihad Hai Bimar-e-Karbala
   Bimar Beta Baap Se Jis Dam Juda Hua
   Kohraam Mach Gaya, Kohraam Mach Gaya
-  
+
   7
   Khaime Se Bahar Aaye Jo Sultan-e-Karbala
   Sar Ko Jhukaye Rota Tha Khud Asp-e-Bawafa
@@ -69,7 +69,7 @@ romanLyrics: |-
   Tanhai Ke Siwa Koi Yawar Nahiṅ Bacha
   Jab Su-e-Nehr Dekh Ke Ghazi Ko Di Sada
   Kohraam Mach Gaya, Kohraam Mach Gaya
-  
+
   8
   Bhai Ko Tanha Dekh Ke Zainab Tarap Gayi
   Roti Hui Husain Ke Nazdik Aagayi

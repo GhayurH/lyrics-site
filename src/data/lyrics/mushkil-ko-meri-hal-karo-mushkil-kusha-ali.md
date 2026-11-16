@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
+poet: "Zeeshan Abidi"
 tags: []
 aliases:
   - "Mushkil Ko Meri Hal Karo Mushkil Kusha Ali"
@@ -14,50 +15,50 @@ romanLyrics: |-
   Mushkil Kushai Ho Mere Moula Mere Sarkar
   Gar Tum Na Karoge To Karam Kaun Karega
   Gar Tum Na Sunoge To Meri Kaun Sunega
-  
+
   Zahra Ki Musibat Ka Tumheiṅ Wasta Ali
   Mushkil Ko Meri Hal Karo Mushkil Kusha Ali
-  
+
   1
   Moula Meri Nigahoṅ Ko Haasil Ho Ye Sharaf
   Jite Ji Ek Baar Dikha Do Mujhe Najaf
   Sansoṅ Ka Ruk Na Jaye Kahiṅ Silsila Ali
-  
+
   2
   Mushkil Ghari Hai Kijiye Aasan Raste
   Sab Par Karam Ho Bali Sakina Ke Waste
   Tum Bin Nahiṅ Hai Koi Mera Aasra Ali
-  
+
   3
   Ae Kibriya Ki Shan Muhammad Ke Dil Nashiṅ
   Aansu Rawaṅ Haiṅ Aankh Se Dil Ko Sukuṅ Nahiṅ
   Ye Dil Se Aa Rahi Musalsal Sada Ali
-  
+
   4
   Ek Ghar Mujhe Bhi Chahiye Kaabe Ke Mohtaram
   Jis Par Laga Ho Hazrat-e-Abbas Ka Alam
   Ghurbat Meiṅ Muflisi Meiṅ Yehi Hai Dua Ali
-  
+
   5
   Bimar-e-Karbala Se Wafa Ka Sila Mile
   Bimar Jo Haiṅ Un Ko Mukammal Shifa Mile
   Us Ki Qasam Jo Kantoṅ Pe Chalta Raha Ali
-  
+
   6
   Haye Husain Haye Zaifi Ka Wo Samaaṅ
   Dekhi Jawan Bete Ke Sine Meiṅ Jab Sinaaṅ
   Rakh Kar Sinaaṅ Pe Hath Tarap Kar Kaha Ali
-  
+
   7
   Jis Dam Asir Ho Ke Chaleiṅ Shaam Ki Taraf
   Zainab Pukareiṅ Dekh Ke Haye Su-e-Najaf
   Kis Tarah Shaam Jaungi Maiṅ beRida Ali
-  
+
   8
   Zindaaṅ Meiṅ Jab Behan Ka Janaza Na Uth Saka
   Haye Tarap Ke Syed-e-Sajjad Ne Kaha
   Waqt-e-Madad Hai Aaiye Ya Murtaza Ali
-  
+
   9
   Zishan Aur Raza Ke Laboṅ Par Dua Hai Ye
   Ghaibat Se Jald Barhweiṅ Bete Ko Bhejiye
