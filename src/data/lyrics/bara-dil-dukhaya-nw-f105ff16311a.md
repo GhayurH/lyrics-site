@@ -4,6 +4,8 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Mazhar Abidi"
+reciter: "Mesum Abbas"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,7 +14,10 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/f105ff16311aaa027a21.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/f105ff16311aaa027a21.json
 # api_content_sha256: 6364263dbbbc7b0f0aefea395bacf9798e53cac5bd3eb681cbd517aa1ea6772b
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Two source editions consolidated; this draft is unpublished pending stanza and transliteration review.
+# source_id: tajpoints:8267315e196ba2dcf597
+# source_url: https://tajpoints.com/2020/12/bara-dil-dukhaya-lyrics-in-urdu-and.html
+# raw_sha256: 5c53328e414193ae93bff9d81f5f0b1a3e8844b98955b6515bd08dba50be5dcd
 ---
 
 Ae Madine Waalon Bara Dil Dukhaya

@@ -4,6 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,7 +13,10 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/2d2e20f252b56e7ae3bb.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/2d2e20f252b56e7ae3bb.json
 # api_content_sha256: b85b8bd97fbfe7869c949dfe1bcb9b50f7c04faecb47d5eb0986a5a04b0d37f8
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Two source editions consolidated; this draft is unpublished pending stanza and transliteration review.
+# source_id: tajpoints:637387039053c53feaca
+# source_url: https://tajpoints.com/2018/06/haye-mar-na-jaway-zainab-babay-da-haal.html
+# raw_sha256: 6b4b900095df08d679b6933a1c7319f81e7ec5f6a159113d590a11129385994a
 ---
 
 Haye Mar Na Jaway Zainab Babay Da Haal Tak Ke

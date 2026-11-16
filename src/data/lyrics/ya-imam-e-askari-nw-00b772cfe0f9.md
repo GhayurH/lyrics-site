@@ -4,6 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Mir Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,7 +13,10 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/00b772cfe0f9e9977c6b.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/00b772cfe0f9e9977c6b.json
 # api_content_sha256: ac6e027f4879f983c716e01e905e1dac2a69601b63fa402a218cb8702f38a304
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Two source editions consolidated; this draft is unpublished pending stanza and transliteration review.
+# source_id: tajpoints:c07c6595e72240e486c1
+# source_url: https://tajpoints.com/2017/02/behjiye-bete-ko-maulaas-muntazir-hain.html
+# raw_sha256: fe8eee9976ff65a00ce7468f4a17422c07ad4fa2de20827b06f0f51fab41443b
 ---
 
 bhejiye bete ko maula muntazir hai matami
