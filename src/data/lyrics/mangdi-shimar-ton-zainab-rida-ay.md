@@ -12,6 +12,11 @@ published: false
 # raw_sha256: 5a441e30eb7afbcfaadb51255827de1a2256fb0e348acb7f3766aa3897508e15
 # source_title_original: Mangdi Shimar Ton Zainab Rida Ay Allay Hassan Rizvi Lyrics In Punjabi 2026
 # editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
+# source_id: nohawriteups:8cb60279c909e99d225f
+# source_url: https://www.nohawriteups.org/mangdi-shimar-toun-zainab-rida-ay/
+# original_html: snapshots/nohawriteups/original_html/8cb60279c909e99d225f.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/8cb60279c909e99d225f.json
+# api_content_sha256: c61aaae2c9cf3c9f80ca8fc5d69b25255b651b60f059520dd73f385d6da319e1
 ---
 
 Mangdi Shimar Taun Zainab Rida Aye Ainj Dhi Ali Di Hoi Ghareeb Aye
