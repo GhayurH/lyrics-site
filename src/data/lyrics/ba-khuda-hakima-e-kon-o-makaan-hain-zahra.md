@@ -1,5 +1,6 @@
 ---
-title: "Ba Khuda Hakima-e-Kon o Makaan Haiṅ Zahra"
+title: "بخدا حاکمۂ کون و مکان ہیں زہرا"
+alternateTitle: "Ba Khuda Hakima-e-Kon o Makaan Haiṅ Zahra"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

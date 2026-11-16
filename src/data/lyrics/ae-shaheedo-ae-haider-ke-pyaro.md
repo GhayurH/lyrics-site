@@ -1,5 +1,6 @@
 ---
-title: "Ae Shahido Ae Haider Ke Pyaro"
+title: "اے شہیدو اے حیدر کے پیارو"
+alternateTitle: "Ae Shahido Ae Haider Ke Pyaro"
 poet: "Mir Hasan Mir"
 reciter: "Mir Hasan Mir"
 language: "Urdu"

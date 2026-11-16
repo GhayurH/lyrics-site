@@ -1,5 +1,6 @@
 ---
-title: "Ae Zaair-e-Husain Assalaam"
+title: "اے زائرِ حسین السلام"
+alternateTitle: "Ae Zaair-e-Husain Assalaam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

@@ -1,5 +1,6 @@
 ---
-title: "Alwida Jaa Rahi Hai Behen Alwida"
+title: "الوداع جا رہی ہے بہن الوداع"
+alternateTitle: "Alwida Jaa Rahi Hai Behen Alwida"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

@@ -17,7 +17,7 @@ romanLyrics: |-
   Qatl ran meiṅ hua Ali Asghar
 
   2
-  Baade Shaah-e-Zamaaṅ ke hote hue
+  Baadshaah-e-Zamaaṅ ke hote hue
   Bekafan reh gaya Ali Asghar
 
   3
@@ -64,7 +64,7 @@ romanLyrics: |-
 قتل رن میں ہوا علی اصغر
 
 ۲
-BAADE شاہِ زماں کے ہوتے ہوئے
+بادشاہِ زماں کے ہوتے ہوئے
 بےکفن رہ گیا علی اصغر
 
 ۳
@@ -96,5 +96,5 @@ BAADE شاہِ زماں کے ہوتے ہوئے
 تیر کھا کر ہنسا علی اصغر
 
 ۱۰
-BAKHWAE تمہیں اسد، یعقوب
+بخوائے تمہیں اسد، یعقوب
 وارثِ مرتضیٰ علی اصغر

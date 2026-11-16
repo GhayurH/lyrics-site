@@ -1,5 +1,6 @@
 ---
-title: "Ayyo Hannas Dil-e-Haider-e-Karrar Huṅ Main"
+title: "ایو ہناس دلِ حیدرِ کرار ہوں میں"
+alternateTitle: "Ayyo Hannas Dil-e-Haider-e-Karrar Huṅ Main"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

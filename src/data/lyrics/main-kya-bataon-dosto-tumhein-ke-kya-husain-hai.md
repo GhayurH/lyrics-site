@@ -1,5 +1,6 @@
 ---
-title: "Main Kya Batauṅ Dosto Tumheiṅ Ke Kya Husain Hai"
+title: "میں کیا بتاؤں دوستو تمہیں کہ کیا حسین ہے"
+alternateTitle: "Maiṅ Kya Batauṅ Dosto Tumheiṅ Ke Kya Husain Hai"
 language: "Urdu"
 direction: "rtl"
 tags: []

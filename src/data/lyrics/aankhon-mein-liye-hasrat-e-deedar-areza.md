@@ -1,5 +1,6 @@
 ---
-title: "Aankhoṅ Meiṅ Liye Hasrat-e-Didaar Ariza"
+title: "آنکھوں میں لیے حسرتِ دیدار عریضہ"
+alternateTitle: "Aankhoṅ Meiṅ Liye Hasrat-e-Didaar Ariza"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

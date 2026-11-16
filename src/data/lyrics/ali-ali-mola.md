@@ -1,5 +1,6 @@
 ---
-title: "Ali Ali Mola"
+title: "علی علی مولا"
+alternateTitle: "Ali Ali Mola"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

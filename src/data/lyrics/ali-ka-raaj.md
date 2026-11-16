@@ -1,5 +1,6 @@
 ---
-title: "Ali Ka Raaj"
+title: "علی کا راج"
+alternateTitle: "Ali Ka Raaj"
 language: "Panjabi"
 lang: "pa"
 direction: "rtl"

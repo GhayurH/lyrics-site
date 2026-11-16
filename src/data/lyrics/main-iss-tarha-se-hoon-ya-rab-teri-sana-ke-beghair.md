@@ -1,5 +1,6 @@
 ---
-title: "Main Is Tarah Se Huṅ Ya Rab Teri Sana Ke Baghair"
+title: "میں اس طرح سے ہوں یا رب تیری ثنا کے بغیر"
+alternateTitle: "Maiṅ Is Tarah Se Huṅ Ya Rab Teri Sana Ke Baghair"
 language: "Urdu"
 direction: "rtl"
 tags: []

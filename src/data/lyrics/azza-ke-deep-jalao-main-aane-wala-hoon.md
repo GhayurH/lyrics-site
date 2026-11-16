@@ -1,5 +1,6 @@
 ---
-title: "Aza Ke Dip Jalao Main Aane Waala Huṅ"
+title: "عزا کے دیپ جلاؤ میں آنے والا ہوں"
+alternateTitle: "Aza Ke Dip Jalao Main Aane Waala Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

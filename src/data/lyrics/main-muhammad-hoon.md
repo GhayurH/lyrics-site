@@ -1,5 +1,6 @@
 ---
-title: "Main Muhammad Huṅ"
+title: "میں محمد ہوں"
+alternateTitle: "Maiṅ Muhammad Huṅ"
 language: "Urdu"
 direction: "rtl"
 tags: []
@@ -83,7 +84,7 @@ romanLyrics: |-
 آیت کی زباں ہوں
 غیرت کا آسمان ہوں
 مجھ کو بشر نہ سمجھو
-میں سر تا بہ Azza ہوں
+میں سر تا بہ عزا ہوں
 
 ۳
 میں جرأتوں کی حد ہوں

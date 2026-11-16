@@ -1,5 +1,6 @@
 ---
-title: "Main Huṅ Abbas-e-Ali"
+title: "میں ہوں عباسِ علی"
+alternateTitle: "Maiṅ Huṅ Abbas-e-Ali"
 language: "Urdu"
 direction: "rtl"
 tags: []
