@@ -59,9 +59,24 @@ romanLyrics: |-
   Sab kuchh wafa hai sab kuchh wafa hai
   Aulaad-e-Zehra se pyaar karna
   Haaṅ samjha gaya hai o mera Pir Ghazi
+  8
+  Molaiyoṅ ka har dam hai naara
+  Panjtan ka pyaara jiye mashkaaṅ waala
+  Sachche diloṅ ka sachcha sahaara
+  Jiye Ghazi Maula jiye alamaaṅ waala
 # source_id: nohayonline:9f4b46c020b0b79d916f
 # source_url: https://www.nohayonline.com/details_content.php?id=1745
 # raw_sha256: 62555883ec47d2dd5c18ab4c65f6d4724c5a9df8988ecae923af225586cd0102
+# source_id: nohawriteups:a4e4b4e135e4140e2a8c
+# source_url: https://www.nohawriteups.org/peer-ghazi-nadeem-sarwar-2020/
+# original_html: snapshots/nohawriteups/original_html/a4e4b4e135e4140e2a8c.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/a4e4b4e135e4140e2a8c.json
+# api_content_sha256: 40385b11d4b7c51e56471dbb266fa03464eee6e8c353107cb35c9916cd5a3343
+# source_id: tajpoints:212e33460a4063d2f8d9
+# source_url: https://tajpoints.com/2020/09/peer-ghazi-lyrics-in-urdu-and-roman-urdu.html
+# raw_sha256: 39cf4ddb53e5da43c7e56e3e1d3128f2be66da383ba70da51b8e964acb10bd6c
+# added_stanza_source: tajpoints:212e33460a4063d2f8d9 / nohawriteups:a4e4b4e135e4140e2a8c
+# editorial_uncertainty: Final four-line choral outro added as stanza 8; Urdu rendering is provisional because both recovered witnesses are Roman-only.
 ---
 با وفا عباس علماں والے میرے علماں والے
 علماں والے میرے مشکاں والے
@@ -111,3 +126,9 @@ romanLyrics: |-
 سب کچھ وفا ہے سب کچھ وفا ہے
 اولاد زہرا سے پیار کرنا
 ہاں سمجھا گیا ہے و میرا پیر غازی
+
+۸
+مولائیوں کا ہر دم ہے نعرہ
+پنجتن کا پیارا جیئے مشکاں والا
+سچے دلوں کا سچا سہارا
+جیئے غازی مولا جیئے علماں والا
