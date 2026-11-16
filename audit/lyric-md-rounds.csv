@@ -323,6 +323,7 @@ src/data/lyrics/akbar-ne-kaha-rokar.md,round_1,present,nohayonline,nohayonline:6
 src/data/lyrics/akbar-ne-kaha.md,round_1,present,nohayonline,nohayonline:8e53c0c712f36f2db687,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/akbar-tadap-uthe.md,round_1,present,nohayonline,nohayonline:206972723d4e7842a285,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/akbar-tere-seene-se.md,round_1,present,nohayonline,nohayonline:d8f3a83082a5de11ab5d,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/akbar-teri-behna-ko-teri-yaad-satati-hai-lyrics-2022-tajpoints-4bea39b888cd7fde2b06.md,round_2,consolidated,tajpoints,tajpoints:4bea39b888cd7fde2b06,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/akbar-teri-behna-ko.md on 2026-11-16; complete canonical reading preserved
 src/data/lyrics/akbar-teri-behna-ko.md,round_1,present,nohayonline,nohayonline:f8ee307ff0e9fb628924,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/akbar-teri-laash.md,round_1,present,nohayonline;ziyaraat,nohayonline:c7caeafca207216b05b6;ziyaraat:550955510e9341140953,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/akbar-tu-kahan-hai-hasan-sadiq-tajpoints-8d33cf9df0272727c92d.md,round_2,consolidated,tajpoints,tajpoints:8d33cf9df0272727c92d,round2-kalams-2026-11-14,Restored missing couplet in src/data/lyrics/akbar-tu-kahan-hai.md as bilingual stanza 5 on 2026-11-16
@@ -1648,6 +1649,7 @@ src/data/lyrics/jahan-hussain-wahan.md,round_1,present,nohayonline,nohayonline:b
 src/data/lyrics/jahan-may-fana-ke.md,round_1,present,nohayonline,nohayonline:c0863857ea72683ac5d4,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jaisa-apna-hai-nabi.md,round_1,present,nohayonline,nohayonline:ce0e6cebc12374b729ad,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jaise-alamdar-gira.md,round_1,present,nohayonline,nohayonline:57adb1ad8075ab69d8c6,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/jaise-hi-ghar-se-nikla-taboot-mujtaba-ka-hasan-sadiq-lyrics-1997-tajpoints-9997134af791a9721140.md,round_2,consolidated,tajpoints,tajpoints:9997134af791a9721140,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/jaise-hi-ghar-se.md on 2026-11-16; complete canonical reading preserved
 src/data/lyrics/jaise-hi-ghar-se.md,round_1,present,nohayonline,nohayonline:9b0f3775caa6402296d9,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jaise-khwaja-ne-kaha.md,round_1,present,nohayonline,nohayonline:dedf4089b3cc5005bcf6,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jaise-pinjre-may.md,round_1,present,nohayonline,nohayonline:04f81c003dda578febc6,feat/import-overlap-reconciliation-2026-11-05,
@@ -1686,6 +1688,7 @@ src/data/lyrics/jashan-e-zahoor-janab-e-syeda-fatima-zahra.md,round_1,present,ta
 src/data/lyrics/jawab-kya-denge.md,round_1,present,nohayonline,nohayonline:9b01179c7074d5d27497,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jawan-ali-akbar.md,round_1,present,nohayonline,nohayonline:0819dbce0d807900f04d,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jawan-bete-ko-haaton.md,round_1,present,nohayonline,nohayonline:d0c752970872a3725c57,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/jawan-hokar-jahan-se-tum-sidhare-ay-ali-akbar-nw-ab60ef7e57ba.md,round_2,consolidated,nohawriteups,nohawriteups:ab60ef7e57ba0b3f61b8,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/jawan-hokar-jahan-se.md on 2026-11-16; complete canonical reading preserved
 src/data/lyrics/jawan-hokar-jahan-se.md,round_1,present,nohayonline,nohayonline:10df9d4359b1aed13e24,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jawani-bain-karti.md,round_1,present,nohayonline,nohayonline:643153c00e29c52c528a,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jawani-to-ali-akbar.md,round_1,present,nohayonline,nohayonline:b484114c469b3e49b4be,feat/import-overlap-reconciliation-2026-11-05,
