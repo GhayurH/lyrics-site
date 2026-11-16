@@ -1360,6 +1360,9 @@ src/data/lyrics/haye-khadijatul-kubra.md,original,present,,,main,
 src/data/lyrics/haye-maula-aliun.md,round_1,present,nohayonline,nohayonline:f1c421ba9de80ca00e93,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/haye-mazloom-ali.md,round_1,present,nohayonline,nohayonline:08bf32d91078996fe1dc,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/haye-mazloom-hasan.md,round_1,present,nohayonline,nohayonline:f6a16a9674787d24890b,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/haye-mazlooma-fatima-zahra-1-8-tajpoints-abe6c7b8e73c1e32c861.md,round_2,consolidated,tajpoints,tajpoints:abe6c7b8e73c1e32c861,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/haye-mazlooma-fatima-zahra.md on 2026-11-16
+src/data/lyrics/haye-mazlooma-fatima-zahra-9-16-tajpoints-c4aeaf17d83a9d798a3c.md,round_2,consolidated,tajpoints,tajpoints:c4aeaf17d83a9d798a3c,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/haye-mazlooma-fatima-zahra.md on 2026-11-16
+src/data/lyrics/haye-mazlooma-fatima-zahra.md,round_2,present,tajpoints,tajpoints:abe6c7b8e73c1e32c861;tajpoints:c4aeaf17d83a9d798a3c,round2-kalams-2026-11-14,Combined source parts 1-8 and 9-16 into 16 stanzas on 2026-11-16
 src/data/lyrics/haye-mazlooma.md,round_1,present,nohayonline,nohayonline:ef1d97746c6392171c81,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/haye-mera-pyasa.md,round_1,present,nohayonline,nohayonline:6f4398fe0a307fe88306,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/haye-mera-sajjad.md,round_1,present,nohayonline,nohayonline:ce9c121d27e6f2dd4c54,feat/import-overlap-reconciliation-2026-11-05,
@@ -1524,6 +1527,9 @@ src/data/lyrics/hydere-karrar-madad.md,round_1,present,nohayonline,nohayonline:0
 src/data/lyrics/ibne-hasan-ka-lasha.md,round_1,present,nohayonline,nohayonline:06e87f0ae15725c80a02,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ibne-muljim-ne-hyder-ko-maara.md,original,present,,,main,
 src/data/lyrics/ik-areza-jo-unhein-sorat-e-midhat-likha.md,round_1,present,tajpoints,tajpoints:c260da7690f3914bf638,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/ik-din-mein-fatima-ka-bhara-ghar-lyrics-5-8-tajpoints-68b6e8a3916dc1850a7a.md,round_2,consolidated,tajpoints,tajpoints:68b6e8a3916dc1850a7a,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/ik-din-mein-fatima-ka-bhara-ghar-ujar-gaya.md on 2026-11-16
+src/data/lyrics/ik-din-mein-fatima-ka-bhara-ghar-ujar-gaya-1-4-tajpoints-d2c233889ac576e4d4eb.md,round_2,consolidated,tajpoints,tajpoints:d2c233889ac576e4d4eb,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/ik-din-mein-fatima-ka-bhara-ghar-ujar-gaya.md on 2026-11-16
+src/data/lyrics/ik-din-mein-fatima-ka-bhara-ghar-ujar-gaya.md,round_2,present,tajpoints,tajpoints:d2c233889ac576e4d4eb;tajpoints:68b6e8a3916dc1850a7a,round2-kalams-2026-11-14,Combined source parts 1-4 and 5-8 into 8 stanzas on 2026-11-16
 src/data/lyrics/ilayya-ilayya.md,round_1,present,nohayonline,nohayonline:bd72150b4703fd19ca75,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/imaan-ki-jaan-kya-hai.md,round_1,present,nohayonline,nohayonline:b50fb7ccdaf35a67fd80,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/imam-e-asar-ka-hum-intezar-karte-hain.md,round_1,present,tajpoints,tajpoints:5566f1b2cd0392887220,feat/import-overlap-reconciliation-2026-11-05,
