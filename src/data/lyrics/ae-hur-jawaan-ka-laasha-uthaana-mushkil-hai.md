@@ -11,8 +11,6 @@ tags: []
 aliases:
   - "Ae Hur Jawaan Ka Laasha Uthaana Mushkil Hai"
   - "Ay Hurr Jawan Ka"
-  - "ay-hurr-jawan-ka"
-  - "جس گھڑی حر کا پسر زین سے مقتل میں گرا"
 published: true
 romanLyrics: |-
   Jis ghari Hur ka pisar zin se maqtal meiṅ gira

@@ -5,9 +5,9 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Mir Takallum"
+reciter: "Kazmi Brothers"
 tags: []
-aliases:
-  - "Kaash Akbar Tere Jaisa Tera Beta Hota"
 published: true
 romanLyrics: |-
   Kaash Akbar Tere Jaisa Tera Beta Hota
@@ -53,7 +53,6 @@ romanLyrics: |-
   Hoti Akbar Teri Aulaad Zamane Meiṅ Agar
   Tujhko Ehsaas Mere Dil Ki Tarap Ka Hota
 ---
-
 کاش اکبر تیرے جیسا تیرا بیٹا ہوتا
 تجھ کو اندازہ میرے دردِ جگر کا ہوتا
 
@@ -93,6 +92,6 @@ romanLyrics: |-
 اس کی صغرا کا بھی خط آنے ہی والا ہوتا
 
 ۸
-بس یہ کہتے تھے تکلم شہہِ والا رو کر
+بس یہ کہتے تھے تکلم شہہِ والا روکر
 ہوتی اکبر تری اولاد زمانے میں اگر
 تجھ کو احساس مرے دل کی تڑپ کا ہوتا
