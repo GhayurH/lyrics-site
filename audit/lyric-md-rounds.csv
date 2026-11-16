@@ -2677,6 +2677,7 @@ src/data/lyrics/rihayi-qaid-se-zainab-ko-jab-mili-ho-gi.md,original,present,noha
 src/data/lyrics/ro-ke-kehti-thi-maa.md,round_1,present,nohayonline,nohayonline:c63dd9a4a4abd1d46781,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ro-ke-kehti-thi-ye.md,round_1,present,nohayonline,nohayonline:6d6769f894ca3d386fb1,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ro-ke-kehti-thi.md,round_1,present,nohayonline,nohayonline:7e603a05be01db08027c,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/ro-raha-hai-khud-andhera-sham-ke-zindan-mein-tajpoints-6d8e103bd725666baa8b.md,round_2,consolidated,tajpoints,tajpoints:6d8e103bd725666baa8b,round2-kalams-2026-11-14,Full lyric overlap with src/data/lyrics/ro-raha-hai-khud.md; source retired on 2026-11-16
 src/data/lyrics/ro-raha-hai-khud.md,round_1,present,nohayonline,nohayonline:6e8a2b08780982b165ad,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ro-rahe-hai-imam.md,round_1,present,nohayonline,nohayonline:29cf312206c1663827be,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ro-rahi-hai-aaj.md,round_1,present,nohayonline;ziyaraat,nohayonline:06df598f40805cf731ec;ziyaraat:517c9dc92fa8aeaaeafe,feat/import-overlap-reconciliation-2026-11-05,
@@ -2789,6 +2790,7 @@ src/data/lyrics/sakhi-abbas-ke-hath-1-6-wajhi-hasan-zaidi-tajpoints-ec6890273a12
 src/data/lyrics/sakhi-abbas-ke-hath-7-11-wajhi-hasan-zaidi-tajpoints-ed15b2edbb37ce364f98.md,round_2,consolidated,tajpoints,tajpoints:ed15b2edbb37ce364f98,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/sakhi-abbas-ke-hath.md on 2026-11-16
 src/data/lyrics/sakhi-abbas-ke-hath.md,round_2,present,tajpoints,tajpoints:ec6890273a12a7c84ab9;tajpoints:ed15b2edbb37ce364f98,round2-kalams-2026-11-14,Joined split sources into 11 stanzas on 2026-11-16
 src/data/lyrics/sakina-aur-zahra.md,round_1,present,nohayonline,nohayonline:b580d924edb571b46035,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/sakina-bibi-ka-janaza-syed-raza-abbas-zaidi-lyrics-2022-tajpoints-190da8c6a44cc89ec127.md,round_2,consolidated,tajpoints,tajpoints:190da8c6a44cc89ec127,round2-kalams-2026-11-14,Full lyric overlap with src/data/lyrics/sakina-bibi-ka-janaza.md; source retired on 2026-11-16
 src/data/lyrics/sakina-bibi-ka-janaza.md,round_1,present,nohayonline,nohayonline:f66c4c4a8f7c43e19466,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/sakina-chup-kar-gayi.md,round_1,present,nohayonline,nohayonline:fe26571a16c2fa41c277,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/sakina-guzar-gayi.md,round_1,present,nohayonline,nohayonline:1bf9fe423941b8855240,feat/import-overlap-reconciliation-2026-11-05,
@@ -3509,6 +3511,7 @@ src/data/lyrics/zindan-may-sakina.md,round_1,present,nohayonline,nohayonline:14b
 src/data/lyrics/zindan-mein-karti.md,round_1,present,nohayonline,nohayonline:54b24746503d653bbd35,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/zindan-mein-zainab.md,round_1,present,nohayonline,nohayonline:ed5324bf8c488c7bb0a2,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/zindan-sakina-de-baba-dard-wadha-gaye.md,round_1,present,tajpoint,tajpoint:86eefb552a208d49b4d8,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/zindan-se-chut-kar-jo-watan-jaiyo-zainab-tajpoints-ef5b377a00b67384ce82.md,round_2,consolidated,tajpoints,tajpoints:ef5b377a00b67384ce82,round2-kalams-2026-11-14,Corrected stanza 5 Urdu reading in src/data/lyrics/zindan-se-chut-kar.md and retired duplicate on 2026-11-16
 src/data/lyrics/zindan-se-chut-kar.md,round_1,present,nohayonline,nohayonline:9352d6037d843ed80722,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/zindan-se-ghul.md,round_1,present,nohayonline,nohayonline:6c1ce910904ee71e0099,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/zindan-se-kazim-ko.md,round_1,present,nohayonline,nohayonline:3681a50c43ce0f10a12d,feat/import-overlap-reconciliation-2026-11-05,

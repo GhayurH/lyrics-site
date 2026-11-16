@@ -47,6 +47,10 @@ romanLyrics: |-
 # source_id: nohayonline:9352d6037d843ed80722
 # source_url: https://www.nohayonline.com/details_content.php?id=3520
 # raw_sha256: bd649cc60a7f85801196cfadb1ff467ea61dca84dd8c95f6079f7eb9d1e46386
+# source_id: tajpoints:ef5b377a00b67384ce82
+# source_url: https://tajpoints.com/2018/11/zindan-se-chut-kar-jo-watan-jaiyo-zainab.html
+# raw_sha256: 07cb79cd674510d0095a028b52719ed82a3583471c458ae48e8a393633db31d2
+# editorial_note: Tajpoints Roman witness confirms stanza 5 'pilwaaiyo'; corrected Urdu 'لکھوائیو' to 'پلوائیو' without changing other verses.
 ---
 زنداں سے چھٹ کر جو وطن جائیو زینب
 صغرا کو میری سینے سے لپٹائیو زینب
@@ -69,7 +73,7 @@ romanLyrics: |-
 
 ۵
 معصوم جو بچے ہیں انہیں دودھ کے کوزے
-اصغر کے میرے نام پہ لکھوائیو زینب
+اصغر کے میرے نام پہ پلوائیو زینب
 
 ۶
 چادر کے عوض بالوں سے منہ اپنا چھپائے
