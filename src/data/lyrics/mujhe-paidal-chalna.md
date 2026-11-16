@@ -33,31 +33,63 @@ romanLyrics: |-
   Har gham se guzarna aa gaya
 
   2
+  Kaindi Si Ro Payi Sainr Aye
+  Majboor Baon Teri Bhainr Aye
+  Na Gal Kisay De Painr Aye
+  Jiwein Zalim Rasiyaan Pa Gaya
+
+  3
   Le Shaam se maiṅ aa gayi
   Ghazi maiṅ kiuṅ zinda rahi
   Saaya na tha miloṅ koi
   Mujhe dhup meiṅ chalna aa gaya
 
-  3
+  4
+  Dukhi Bhainr Da Ghazi Bhira
+  Hunr Ki Karan Mainu Dasa
+  Khali Veer Way Main Be Rida
+  Tera Jhanra Mar Muka Gaya
+
+  5
   Dekhe saje adaa ke ghar
   Naizoṅ pe the pyaaroṅ ke sar
   Tukre hua mera jigar
   Mujhe yaad Madina aa gaya
 
-  4
+  6
+  Ro Bhainr Aye Dendi Sada
+  Bhainraan De Aa Parday Bana
+  Lokaan Da Aye Majma Bara
+  Sajjad Mainda Gash Kha Gaya
+
+  7
+  Gaya Dard Aye Dil Cheer Aye
+  Wekhi Zulm Di Akheer Aye
+  Wich Zulm Di Zanjeer De
+  Ruk Baqir Da Hay Kha Gaya
+
+  8
   Baazaar tha darbaar tha
   Zanjir thi bimaar tha
   Jina mera dushwaar tha
   Har dard ko sehna aa gaya
 
-  5
+  9
+  Lalaan Nu Aye Chanra Tera
+  Wich Sham De Janra Tera
+  Sang Zulm De Khanra Tera
+  Khursheed Nu Neer Rawa Gaya
+
+  10
   Ae Sarwar o Rehaan ab
   Socho zara kya tha ghazab
   Bint-e-Ali kehti thi jab
   Mujhe jina marna aa gaya
+
 # source_id: nohayonline:9169d410313c4b6751ee
 # source_url: https://www.nohayonline.com/details_content.php?id=404
 # raw_sha256: d1f1e305ca3baa3e3b0fb3e85f166fbe5acccb65770de5c4194f21953046e39c
+# editorial_note: "Five additional Punjabi stanzas are retained in Roman only; Urdu has not been completed. A Khursheed takhallus appears in one additional stanza and requires attribution review."
 ---
 زندان سے رہا ہو کر جس دم
 جب کرب و بلا میں آئے حرم
