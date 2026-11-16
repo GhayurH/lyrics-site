@@ -12,55 +12,46 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/20c5e9345c6a480975fe.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/20c5e9345c6a480975fe.json
 # api_content_sha256: ab04b5202d73c5c283df59723a5b7e3ddba273813ddffdb4ab0fa7ee058e873c
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Matching sources consolidated; original verse grouping restored from source lines, unpublished pending spelling review.
+# source_id: tajpoints:2f114f119c580315702d
+# source_url: https://tajpoints.com/2017/10/sajjad-layi-aye-mushkil-aye-sham-da.html
+# raw_sha256: a68f96cc72b144549eb75ea7562c4e70ac03c21e6c4667cae46b6a4058752ec4
 ---
 
-Sajjad Layi Aye Mushkil Aye Shaam Da Safar
+Sajjad Layi Aye Mushkil Aye Sham Da Safar
+Akbar Bhira Da Qatil Abid Da Humsafar
 
-Sajjad Layi Aye Mushkil Aye Shaam Da Safar
+1
+Hoya Reha Jadoon Da Chup Chup Sajja Rainda
+Pochey Haal Koi Ro Ke Na Sham Da Aye Lainda
+Jairay Zulm Wekhe Abid Dunya Nu Ki Khabar
 
-Akbar Bhira Da Qatil
-Abid Da Humsafar
+2
+Asghar Da Kurta Veran Meri Lahad Wich Rakha De
+Ahsan Kar Qabar Da Abid Nishaan Mita De
+Tere Baad Aa Na Jaway Meri Qabar Te Shimar
 
-Hoya Reha Jadon Da, Chup Chup Sajjad Rehnda
-Puchay Haal Koi Rokay, Na Shaam Da Aye Lainda
-Jere Zulm Vaikhay Abid
-Dunya Nu Ki Khabar
+3
+Aakhe Rubab Abid Mushkil Hai Mera Jeena
+Asghar Hai Karbala Wich Reh Sham Gayi Sakina
+Hoi Gaud Meri Khali Kis Di Lagi Nazar
 
-Asghar Da Kurta Veeran, Meri Lahad Wich Rakha De
-Ehsaan Kar Qabar Da, Abid Nishaan Mita De
-Tere Baad Aa Na Jaway
-Meri Qabar Tay Shimar
+4
+Ais Sham De Shehar Wich Shabir Rul Gayiyaan
+Darbar Wekh Veran Teri Maut Bhul Gayiyaan
+Beemar Mar Na Jaway Zainab Nu Aye Fikar
 
-Aakhay Rubab Abid, Mushkil Hai Mera Jeena
-Asghar Hai Karbala Wich, Reh Shaam Gayi Sakina
-Hoyee Gaud Meri Khaali
-Kis Di Lagi Nazar
+5
+Ronda Aye Khon Qaidi Nayi Marz Koi Purani
+Aye Sham Kha Gayi Aye Sajjad Di Jawani
+Hoya Zaeef Yakdam Bazaraan Da Asar
 
-Ais Shaam De Sheher Vich, Shabir Rul Gayiyaan
-Darbaar Wekh Veeran, Teri Maut Bhul Gayiyaan
-Beemar Mar Na Jaway
-Zainab Nu Aye Fikar
+6
+Jin-o-Bashar Malaik Kar De Bari Ibadat
+Lekin Hai La-Ilah Di Bunyad Aye Shahadat
+Sajda Hussain Tera Beshak Azeem Tar
 
-Ronda Aye Khoon Qaidi, Nayi Marz Koi Purani
-Aye Shaam Khagayi Aye, Sajjad Di Jawaani
-Hoya Zaeef Yakdam
-Bazaraan Da Asar
-
-Jin-o-Bashar Malaik, Kar De Bari Ibadat
-Laykin Hai Lailah Di, Bunyad Aye Shahadat
-Sajda Hussain Tera
-Beshak Azeem Tar
-
-Tanveer Avaay Mehdi, Karo Milkay Sab Duaeyn
-Ruk Jaway Rat Akhaan Di, Abid Nu Chain Aavay
-Aabad Fair Howay
-Aye Fatima Da Ghar
-
-More Nohay Lyrics Available On The APP
-
-iOS Basic APP
-
-iOS PRO APP
-
-Android APP
+7
+Tanveer Away Mehdi Karo Mil Ke Sab Dua Aye
+Ruk Jaway Rat Akhaan Di Abid Nu Chain Aaway
+Aabad Fair Howay Aye Fatima Da Ghar
