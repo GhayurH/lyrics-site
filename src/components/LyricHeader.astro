@@ -3,6 +3,7 @@ import type { CollectionEntry } from "astro:content";
 import FavoriteButton from "./FavoriteButton.astro";
 import ReaderSubnav from "./ReaderSubnav.astro";
 import { getLyricKalamType, searchUrl, slugifyKalamType } from "../lib/lyrics";
+import { recitationLyricId } from "../lib/lyrics-data";
 interface Props { lyric: CollectionEntry<"lyrics"> }
 const { lyric } = Astro.props as Props;
 const { data } = lyric;
@@ -37,7 +38,7 @@ const displayHaal = data.romanHaal?.trim() || data.haal;
         <div class="lyric-header-actions" data-pagefind-ignore>
            <FavoriteButton lyricId={lyric.id} />
            <button type="button" class="lyric-correction-action" data-correction-open data-source-id={lyric.id}>Suggest correction</button>
-           <a class="lyric-add-recitation" href={`/recite/?add=${encodeURIComponent("lyric:" + lyric.id)}`}>Add to set</a>
+           <a class="lyric-add-recitation" href={`/recite/?add=${encodeURIComponent("lyric:" + recitationLyricId(lyric))}`}>Add to set</a>
         </div>
       </div>
 

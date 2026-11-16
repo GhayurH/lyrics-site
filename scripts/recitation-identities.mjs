@@ -151,12 +151,17 @@ if (mode === "--sync") {
   }
 }
 for (const old of locked.lyrics) {
+  const current = lyricMap.get(old.id);
+  if (current && old.path !== current.path) errors.push(
+    "Outdated permanent lyric path for " + old.id + ": locked " + old.path + ", source " + current.path);
   if (!lyricMap.has(old.id) && !old.retired) errors.push(
     "Removed/renamed lyric " + old.id + " — preserve recitationId on moved Markdown or mark retired");
   if (lyricMap.has(old.id) && old.retired) errors.push("Retired lyric ID was reused: " + old.id);
 }
 for (const old of locked.basta) {
   const current = bastaMap.get(old.id);
+  if (current && !old.retired && old.key !== current.key) errors.push(
+    "Outdated Basta index key for " + old.id + ": locked " + old.key + ", index " + current.key);
   if (!current && !old.retired) {
     const indexed = sourceIndex.find((entry) => name(entry) === old.key);
     errors.push("Removed/rekeyed Basta kalam " + old.id + " (" +
