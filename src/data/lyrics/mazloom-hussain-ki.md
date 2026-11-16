@@ -66,6 +66,11 @@ romanLyrics: |-
 # source_id: nohayonline:1322e13339fa488244d8
 # source_url: https://www.nohayonline.com/details_content.php?id=1738
 # raw_sha256: e1bd53903acd6d93872bb008f8587b62ca5e1853a9c5588d515c41e34de8a925
+# source_id: nohawriteups:62c68e7634576f98d43c
+# source_url: https://www.nohawriteups.org/mazloom-hussain-ki-humsheera-nadeem-sarwar-2022-1444-lyrics/
+# original_html: snapshots/nohawriteups/original_html/62c68e7634576f98d43c.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/62c68e7634576f98d43c.json
+# api_content_sha256: 1dd1c005a27cc93b5ea0c95b5d07ab0c86ac6b442251c1b19790bd4555104d7c
 ---
 
 مظلوم حسین کی ہمشیرہ
