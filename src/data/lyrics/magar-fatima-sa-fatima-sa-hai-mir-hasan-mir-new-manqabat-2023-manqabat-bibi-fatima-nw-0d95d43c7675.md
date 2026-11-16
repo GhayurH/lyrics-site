@@ -3,7 +3,9 @@ title: "Magar Fatima (sa) Fatima (sa) Hai"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
-kalamType: "Noha"
+kalamType: "Manqabat"
+poet: "Mir Takallum"
+reciter: "Mir Hasan Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,7 +14,10 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/0d95d43c7675f6881d06.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/0d95d43c7675f6881d06.json
 # api_content_sha256: d32afb4577efa55c5231238164e157040a52e7ebc5467c01f720e1b120f8c0b8
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Matching cross-source Roman versions consolidated; retained source variants require editorial transliteration checks. Unpublished.
+# source_id: tajpoints:2be06ff6be24e40bbb81
+# source_url: https://tajpoints.com/2023/01/magar-fatima-fatima-hai-mir-hasan-mir.html
+# raw_sha256: 8dad3d2fdab0cc4e9abd7d63986f935a17e2e332ec76021afa749bd57f9600a7
 ---
 
 Ya Fatima.. Ya Fatima..

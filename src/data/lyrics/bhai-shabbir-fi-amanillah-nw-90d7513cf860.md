@@ -4,6 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+reciter: "Nadeem Sarwar"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,7 +13,10 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/90d7513cf860f225aab7.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/90d7513cf860f225aab7.json
 # api_content_sha256: 5d22a09c8c545fef20f4fc7d535b292b0408c310b949f669b6ea3010885b8ffa
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Matching cross-source Roman versions consolidated; retained source variants require editorial transliteration checks. Unpublished.
+# source_id: tajpoints:08bc22dd161675902636
+# source_url: https://tajpoints.com/2022/12/bhai-shabbir-fi-amanillah-nadeem-sarwar.html
+# raw_sha256: dddec29c666ad21dc4588bc98ef5f9b10af81784d72ba02b0d980a7434571760
 ---
 
 jab aayi gyara moharram mayane karbobala
