@@ -4,6 +4,8 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Akbar"
+reciter: "Mir Hasan Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,7 +14,10 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/d6ae51f2f9b971cc7915.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/d6ae51f2f9b971cc7915.json
 # api_content_sha256: 3dfd42696ab58d4a8c8aedebbcf870c91b871ae97e18500e15dffda65809f2a9
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Two matching Roman lyric witnesses consolidated; this draft remains unpublished pending full editorial review.
+# source_id: tajpoints:3bc0b237ca58b9633170
+# source_url: https://tajpoints.com/2022/05/faras-ki-zeen-se-mir-hasan-mir-lyrics.html
+# raw_sha256: 5ec2692df1530928c6dd7abc6618bc03e449eb1f63109b8ee84613a7110bff9b
 ---
 
 Faras ki zeen se beshak utar gaye hai hussain

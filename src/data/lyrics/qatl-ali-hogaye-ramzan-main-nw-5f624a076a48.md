@@ -4,6 +4,8 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Mazhar Abidi"
+reciter: "Mesum Abbas"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,7 +14,10 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/5f624a076a4890d1083d.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/5f624a076a4890d1083d.json
 # api_content_sha256: 52c95a657a20a2fdaf312d902aceea0aa02d6961d7674e77573d9c61aa1d4bf7
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Two matching Roman lyric witnesses consolidated; this draft remains unpublished pending full editorial review.
+# source_id: tajpoints:0fee2407f3cb4303f88d
+# source_url: https://tajpoints.com/2021/05/qatl-ali-hogaye-ramzan-mein-mesum-abbas.html
+# raw_sha256: 3a8d99923da2f51131a82eeaee69d00a6c75e749fa61aef77837980ee53b5a25
 ---
 
 Haaayyee..
