@@ -2636,6 +2636,9 @@ src/data/lyrics/racha-tha-akbare.md,round_1,present,nohayonline,nohayonline:b5b4
 src/data/lyrics/rahbar-ek-se-ek.md,round_1,present,nohayonline,nohayonline:1fc2176a472a53b42c7c,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/rahon-may-sarban-ko.md,round_1,present,nohayonline,nohayonline:a395afc8ff7ec1686b1b,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/raj-dulara-zehra-ka.md,round_1,present,nohayonline;ziyaraat,nohayonline:060bfcecb03f63ac73d3;ziyaraat:bd9ffb63fb6fff096ea1,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/rajaz-ya-aoun-o-muhammad-1-6-tajpoints-44197ed32770aaea0fe5.md,round_2,consolidated,tajpoints,tajpoints:44197ed32770aaea0fe5,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/rajaz-ya-aoun-o-muhammad.md on 2026-11-16
+src/data/lyrics/rajaz-ya-aoun-o-muhammad-7-11-tajpoints-053a1e11dcfd62403ec7.md,round_2,consolidated,tajpoints,tajpoints:053a1e11dcfd62403ec7,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/rajaz-ya-aoun-o-muhammad.md on 2026-11-16
+src/data/lyrics/rajaz-ya-aoun-o-muhammad.md,round_2,present,tajpoints,tajpoints:44197ed32770aaea0fe5;tajpoints:053a1e11dcfd62403ec7,round2-kalams-2026-11-14,Joined split sources into 11 stanzas on 2026-11-16
 src/data/lyrics/ran-kampne-laga.md,round_1,present,nohayonline,nohayonline:f0a18364e079d5281bdc,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ran-ko-jaate-hue.md,round_1,present,nohayonline;ziyaraat,nohayonline:47bb231e3869d7800f3b;ziyaraat:1d120bb999bc7964acbf,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ran-ko-jaate-huwe-sar-jhukaye-hue.md,original,present,,,main,
@@ -2769,6 +2772,9 @@ src/data/lyrics/sajjad-utho-bali-sakina.md,round_1,present,nohayonline,nohayonli
 src/data/lyrics/sajjad-ye-farmate.md,round_1,present,nohayonline,nohayonline:6be3e830c735fccef434,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/sajjad-ye-kehte-thay.md,round_1,present,nohayonline,nohayonline:cc9ee11bd1230fed8334,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/sakhawatein-keh-rahi-hain-khul-kar-hussain-jaisa-sakhi-nahi-hai.md,round_1,present,tajpoints,tajpoints:8bf1c54989ae55d2d622,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/sakhi-abbas-ke-hath-1-6-wajhi-hasan-zaidi-tajpoints-ec6890273a12a7c84ab9.md,round_2,consolidated,tajpoints,tajpoints:ec6890273a12a7c84ab9,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/sakhi-abbas-ke-hath.md on 2026-11-16
+src/data/lyrics/sakhi-abbas-ke-hath-7-11-wajhi-hasan-zaidi-tajpoints-ed15b2edbb37ce364f98.md,round_2,consolidated,tajpoints,tajpoints:ed15b2edbb37ce364f98,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/sakhi-abbas-ke-hath.md on 2026-11-16
+src/data/lyrics/sakhi-abbas-ke-hath.md,round_2,present,tajpoints,tajpoints:ec6890273a12a7c84ab9;tajpoints:ed15b2edbb37ce364f98,round2-kalams-2026-11-14,Joined split sources into 11 stanzas on 2026-11-16
 src/data/lyrics/sakina-aur-zahra.md,round_1,present,nohayonline,nohayonline:b580d924edb571b46035,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/sakina-bibi-ka-janaza.md,round_1,present,nohayonline,nohayonline:f66c4c4a8f7c43e19466,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/sakina-chup-kar-gayi.md,round_1,present,nohayonline,nohayonline:fe26571a16c2fa41c277,feat/import-overlap-reconciliation-2026-11-05,
@@ -3192,6 +3198,9 @@ src/data/lyrics/wo-shehenshahe.md,round_1,present,nohayonline,nohayonline:910f7d
 src/data/lyrics/wo-teen-din-ki-pyas.md,round_1,present,nohayonline,nohayonline:c9e437976581c282cc10,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/wo-waqt-yaqeenan.md,round_1,present,nohayonline,nohayonline:c6638ca1ba91fd99af77,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/woh-ali-the-woh-ali-hain-ali-rahein-gaye-sada.md,round_1,present,tajpoints,tajpoints:d7aee30ce5243f7a8865,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/woh-ba-kamal-hai-woh-be-misal-hai-1-8-tajpoints-c86ae29c806ee3ba70f2.md,round_2,consolidated,tajpoints,tajpoints:c86ae29c806ee3ba70f2,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/woh-ba-kamal-hai-woh-be-misal-hai.md on 2026-11-16
+src/data/lyrics/woh-ba-kamal-hai-woh-be-misal-hai-9-14-tajpoints-6a8cff3be58de7e3bf38.md,round_2,consolidated,tajpoints,tajpoints:6a8cff3be58de7e3bf38,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/woh-ba-kamal-hai-woh-be-misal-hai.md on 2026-11-16
+src/data/lyrics/woh-ba-kamal-hai-woh-be-misal-hai.md,round_2,present,tajpoints,tajpoints:c86ae29c806ee3ba70f2;tajpoints:6a8cff3be58de7e3bf38,round2-kalams-2026-11-14,Joined split sources into 14 stanzas on 2026-11-16
 src/data/lyrics/woh-ghadeer-e-khum-mein-azaan-hui.md,round_1,present,tajpoints,tajpoints:84b84d3de8da5ba8d4d2,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/woh-matmi-hai.md,round_1,present,tajpoints,tajpoints:9fc2cf824daf4b3b04ec,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/woh-tu-hai-woh-main-hoon-hamd.md,round_1,present,tajpoints,tajpoints:b199764eaa38178006dc,feat/import-overlap-reconciliation-2026-11-05,

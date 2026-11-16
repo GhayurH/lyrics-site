@@ -1,18 +1,22 @@
 ---
-title: "Woh Ba-Kamal Hai Woh Be-Misal Hai 1 8"
+title: "Woh Ba-Kamal Hai Woh Be-Misal Hai"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
-kalamType: "Other"
-tags: []
+kalamType: "Manqabat"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c86ae29c806ee3ba70f2
 # source_url: https://tajpoints.com/2019/04/woh-ba-kamal-hai-woh-be-misal-hai-1-8.html
 # raw_sha256: dbeaa5f54af9bf6b11cae93a7524ddc0bc7fe3b8b8929cfdcf77cf9c75ae8999
+# source_id: tajpoints:6a8cff3be58de7e3bf38
+# source_url: https://tajpoints.com/2019/04/woh-ba-kamal-hai-woh-be-misal-hai-9-14.html
+# raw_sha256: 8414285bde5dd1800a16b2775cd0fe8679682c650b5f8c2b26ea0d2aee834ee4
+# editorial_note: Rejoined both numbered source halves into 14 4-line stanzas. Source numbering does not consistently mark stanza boundaries. Original Roman witness wording retained pending transliteration and editorial review.
 ---
 
-Woh Ba-Kamal Hai Woh Be-Misal Hai 1 8.
+Woh Ba-Kamal Hai Woh Be-Misal Hai
 Jo Phool Fatima Ka Woh La-Zawaal Hai.
 
 1
@@ -62,3 +66,39 @@ Ik Lal Inka Mosi-e-Kazim Falak Asas.
 Jiske Badan Pe Jad Ki Shariyat Ka Hai Libas.
 Ilm-e-Nabi Ki Sari Fiza Iss Ke Aas Pas.
 Jad Ki Tarha Se Deen-e-Nabi Ki Woh Dhaal Hai.
+
+9
+Mashad Mein Aik Lal Ka Dar-ul-Shifa Bhi Hai.
+Rab Ki Riza Hai Iss Ki Riza Woh Raza Bhi Hai.
+Iss Dar Se Jis Ne Manga Hai Jo Kuch Mila Bhi Hai.
+Rozay Se Jiske Khota Nahi Rad Sawal Hai.
+
+10
+Taqwa Mein Aik Phol Taqi Ta-Had-e-Khiyal.
+La-Raib Woh Zamane Mein Be-Misal-o-Be-Misaal.
+Khush Fikar-o-Khush Mizaj-o-Khush Bakht-o-Be-Misal.
+Ajdad Ki Kitab Ka Har-e-Kamal Hai.
+
+11
+Ab Hai Naqeeb-e-Haq-o-Sadaqat Naqi Ki Bat.
+Yeh Bat Hai Nabi Ki Yehi Ali Ki Baat.
+Burj-e-Daham Mein Aa Hi Gayi Roshni Ki Baat.
+Iss Ke Amal Se Kufar Ke Sheshay Mein Baal Hai.
+
+12
+Askar Mizaj Lashkar-e-Emaan La Lashkari.
+Qamat Mein Mustafa Hai Jo Seerat Mein Hai Ali.
+Iss Ke Pisar Ke Dam Se Qayamat Ruki Hoi.
+Khamoshiyon Mein Jis Ki Bala Ka Jalal Hai.
+
+13
+Tazeem Ka Hai Waqt Ab Aaya Hai Oss Ka Naam.
+Qayam Hai Jiske Dam Se Zamane Ka Kul Nizam.
+Naam Aaye Jis Ke Lab Pe To Wajib Howa Salam.
+Ab Qatil-e-Hussain Ka Bachna Mohaal Hai.
+
+14
+Rehan Wasf-e-Aal-e-Muhammad Biyan Ho.
+Midhat Sarai Ke Liye Ik Noha Khuwan Ho.
+Sarwar Ka Jo Nadeem Ho Ahl-e-Zaban Ho.
+Iss Zikar Ki Asas Mein Rab Ka Jamal Hai.
