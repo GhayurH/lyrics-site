@@ -20,7 +20,7 @@ CI runs **one build** and selects smoke or full, never both. The smoke subset pr
 
 Before merging a large import:
 
-1. Resolve or explicitly adjudicate the active `audit/manual-md-review-tracker.csv` entries for duplicate comparison, original-source Urdu completeness, Roman accuracy, stanza alignment and metadata. `pending`, `partial_review`, `spot_checked` and `blocked` are not acceptance. Compare with existing site and Basta content; preserve genuinely distinct variants and source notes.
+1. Complete or explicitly adjudicate source decisions for duplicate comparison, original-source Urdu completeness, Roman accuracy, stanza alignment and metadata. Record open work in `audit/manual-md-review-tracker.csv`; an empty register does not replace human editorial acceptance. `pending`, `partial_review`, `spot_checked` and `blocked` are not acceptance. Compare with existing site and Basta content; preserve genuinely distinct variants and source notes.
 2. Review large normalization/content diffs **poem by poem** against originals. Resolve ambiguous readings with source images, source HTML or recitations rather than treating script conversion or a matching line count as verification.
 3. Preserve pre-existing live recitation IDs and stanza anchors. Check any removed, renamed or consolidated poem against `main`; keep published historical IDs retired, and do not invent replacements. Verify generated Basta labels, standalone titles, search URLs and recitation deep links.
 4. Run `npm run check`, `npm run build`, the **full** Chromium functional suite and `git diff --check` at the final head. Use an actual Pages preview to confirm R2 scan links and D1/Recitation Set behavior, which Astro preview cannot reproduce.

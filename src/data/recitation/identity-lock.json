@@ -3875,7 +3875,8 @@
     },
     {
       "id": "chehlum-jo-karbala-mein-bahattar-ka-ho-chuka",
-      "path": "chehlum-jo-karbala-mein-bahattar-ka-ho-chuka.md"
+      "path": "chehlum-jo-karbala-mein-bahattar-ka-ho-chuka.md",
+      "retired": true
     },
     {
       "id": "chehlum-karne-aayi",
@@ -8843,7 +8844,8 @@
     },
     {
       "id": "mere-baba-mere-baba",
-      "path": "mere-baba-mere-baba.md"
+      "path": "mere-baba-mere-baba.md",
+      "retired": true
     },
     {
       "id": "mere-bacche-ka",

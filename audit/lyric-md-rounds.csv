@@ -979,7 +979,7 @@ src/data/lyrics/charaghe-shaame.md,round_1,present,nohayonline,nohayonline:2051c
 src/data/lyrics/chashme-sajjad-ne.md,round_1,present,nohayonline,nohayonline:b4dc1c55f307045520f7,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/chauda-sadiyan.md,round_1,present,nohayonline,nohayonline:52526dac4ae801e6b7da,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/chehlum-jo-karbala-may.md,round_1,consolidated,nohayonline,nohayonline:bd09b1d914b981ace40b,feat/import-overlap-reconciliation-2026-11-05,"2026-11-15 merged source-only stanzas 3 5 9 10 as canonical stanzas 11-14 in chehlum-jo-karbala-mein-bahattar-ka-ho-chuka.md. Alternate second-stanza couplet retained in canonical provenance comments; imported standalone and provisional ID deleted."
-src/data/lyrics/chehlum-jo-karbala-mein-bahattar-ka-ho-chuka.md,original,present,,,main,"2026-11-15 Basta Marsiya 99 linked canonical: preserves existing numbered stanzas 1-10 and appends four unique NoHayOnline stanzas 11-14; source variant couplet archived in comments; Basta pages 263-264 unchanged."
+src/data/lyrics/chehlum-jo-karbala-mein-bahattar-ka-ho-chuka.md,original,retired,,,main,"Canonical printed selection is Basta Marsiya 99 (pages 263-264); historical standalone URL redirects to that kalam and its permanent lyric ID remains retired."
 src/data/lyrics/chehlum-karne-aayi.md,round_1,present,nohayonline,nohayonline:fffae056cb76d2b5fd9b,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/chehlum-karo.md,round_1,present,nohayonline,nohayonline:3b2b2de42124888eeea1,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/chehlum-manane-bhai.md,round_1,present,nohayonline,nohayonline:92a571fed00f749bd5c8,feat/import-overlap-reconciliation-2026-11-05,
@@ -2247,7 +2247,7 @@ src/data/lyrics/mere-asghar-kidhar.md,round_1,present,nohayonline,nohayonline:fa
 src/data/lyrics/mere-baba-ab-nahi.md,round_1,present,nohayonline,nohayonline:85ecf4813b22e59f9b7f,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/mere-baba-chale-aao.md,round_1,present,nohayonline,nohayonline:331fdf451f825ccec708,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/mere-baba-ke-zuljana.md,round_1,present,nohayonline,nohayonline:d6ddc8d6f82ed8442625,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/mere-baba-mere-baba.md,round_1,present,nohayonline,nohayonline:0565e4274a7b9e29c7c0,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/mere-baba-mere-baba.md,round_1,consolidated,nohayonline,nohayonline:0565e4274a7b9e29c7c0,feat/import-overlap-reconciliation-2026-11-05,"Consolidated into Basta Noha/Bain 22 (page 340); original import identity retired."
 src/data/lyrics/mere-bacche-ka.md,round_1,present,nohayonline,nohayonline:d6cb621b66df91abb30e,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/mere-bacche-palat.md,round_1,present,nohayonline,nohayonline:a1f201257c6d07f8c604,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/mere-bacche-tujhe.md,round_1,present,nohayonline,nohayonline:1ae4e9e91e793d4e97ca,feat/import-overlap-reconciliation-2026-11-05,

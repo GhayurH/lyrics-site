@@ -1,5 +1,6 @@
 # Cloudflare Pages previews do not inherit kalamarchive.com's Cloud Connector routes.
 # Keep Markdown paths /images/... and /files/... stable on every deployment.
 # Cloudflare R2's public bucket domain serves the original objects unchanged.
+/lyrics/chehlum-jo-karbala-mein-bahattar-ka-ho-chuka/ /basta/kalam/basta-marsiye-099/ 301
 /images/* https://r2-assets.kalamarchive.com/images/:splat 302
 /files/* https://r2-assets.kalamarchive.com/files/:splat 302
