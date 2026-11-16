@@ -2190,6 +2190,7 @@ src/data/lyrics/maqtale-imam-hussain.md,round_1,present,nohayonline,nohayonline:
 src/data/lyrics/mar-gaya-baap.md,round_1,present,nohayonline,nohayonline:1b101307d1ac6c59fba0,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/mar-gaya-sher-darya.md,round_1,present,nohayonline,nohayonline:bb581913ada7109ebbbf,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/mar-gaya-tu-jo.md,round_1,present,nohayonline,nohayonline:1c7987bda17e00c168b2,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/mar-gaya-zainab-mera-sher-e-jawan-mir-hasan-mir-tajpoints-d33b62da2f9864f129da.md,round_2,consolidated,tajpoints,tajpoints:d33b62da2f9864f129da,round2-kalams-2026-11-14,Roman witness fully covered in src/data/lyrics/mar-gaya-zainab-mera.md on 2026-11-16
 src/data/lyrics/mar-gaya-zainab-mera.md,round_1,present,nohayonline,nohayonline:2ae7d12d64ca6c471e9d,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/mar-jaungi-baba.md,round_1,present,nohayonline,nohayonline:18db5bd4a97ada6f6b4a,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/mar-jaye-jo-farzand.md,round_1,removed_duplicate,nohayonline,nohayonline:d2f44cd8394124a2bf93,feat/import-overlap-reconciliation-2026-11-05,Basta Rubaiyat 20 on printed page 92: All four verses match the Basta rubai by Mir Anis; minor orthography differs. Original import source https://www.nohayonline.com/details_content.php?id=1242; reciter Sibte Jafar. Provisional lyric ID removed before merge; Basta text and permanent identity unchanged.
@@ -2912,6 +2913,7 @@ src/data/lyrics/shabbir-sada-dete.md,round_1,present,nohayonline,nohayonline:751
 src/data/lyrics/shabbir-se-mohabbat.md,round_1,present,nohayonline,nohayonline:b6dd6fb5181c6a350116,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/shabbir-se-seekhe.md,round_1,present,nohayonline,nohayonline:e1716da71c285d6eed6b,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/shabbir-tera-matam.md,round_1,present,nohayonline;ziyaraat,nohayonline:c132085119739b0c9752;ziyaraat:b58d620548aba19828ad,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/shabbir-tu-ne-aise-bhi-dard-o-alam-sahe-hasan-sadiq-tajpoints-86c39e2b9bc4acc07d70.md,round_2,consolidated,tajpoints,tajpoints:86c39e2b9bc4acc07d70,round2-kalams-2026-11-14,Roman witness fully covered in src/data/lyrics/shabbir-tu-ne-aise.md on 2026-11-16
 src/data/lyrics/shabbir-tu-ne-aise.md,round_1,present,nohayonline,nohayonline:4b07d39abe8db5d0c7ad,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/shabbir-ye-sab-dunya.md,round_1,present,nohayonline,nohayonline:3f843a6dab1f8f238f8a,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/shabe-ashoor-tha.md,round_1,present,nohayonline;ziyaraat,nohayonline:d83e9aad9f15f57d0149;ziyaraat:f2795d0cdc25640f5439,feat/import-overlap-reconciliation-2026-11-05,
@@ -2994,6 +2996,7 @@ src/data/lyrics/sughra-ko-kahiyega.md,round_1,present,nohayonline,nohayonline:e1
 src/data/lyrics/sughra-mai-lutkar.md,round_1,present,nohayonline,nohayonline:567ce3f43765635cb151,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/sughra-ne-aansuon-ke.md,round_1,present,nohayonline,nohayonline:622f3a45a29c6b04a25b,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/sughra-ne-kaha-haye.md,round_1,present,nohayonline,nohayonline:bb8a3a82dd8bc2bf8a3f,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/sughra-ne-khat-likha-hai-kab-aao-gaye-akbar-hasan-sadiq-lyrics-2002-tajpoints-1ad9e02bd95208103555.md,round_2,consolidated,tajpoints,tajpoints:1ad9e02bd95208103555,round2-kalams-2026-11-14,Roman witness fully covered in src/data/lyrics/sughra-ne-khat-likha.md on 2026-11-16
 src/data/lyrics/sughra-ne-khat-likha.md,round_1,present,nohayonline,nohayonline:16bedd6913e9a5588bd4,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/sughra-ne-likha-khat.md,round_1,present,nohayonline,nohayonline:2e9cf6acce54b47f078a,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/sughra-ne-likha.md,round_1,present,nohayonline,nohayonline:f5165e0e95b29e1182b9,feat/import-overlap-reconciliation-2026-11-05,
@@ -3450,6 +3453,7 @@ src/data/lyrics/zanjeer-mein-jakde.md,round_1,present,nohayonline,nohayonline:75
 src/data/lyrics/zaqmi-jo-ran-may-qasim.md,round_1,present,nohayonline,nohayonline:15d35a756d3cbc7f4bca,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/zara-aahista-chal.md,round_1,present,nohayonline,nohayonline:ca9dda73e4e93c07cfe9,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/zara-bad-ke-dekho.md,round_1,present,nohayonline,nohayonline:52b6e623a8400eb1bf0f,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/zara-rok-le-khanjar-mir-hasan-mir-tajpoints-da17156fbac6ec1b1bfe.md,round_2,consolidated,tajpoints,tajpoints:da17156fbac6ec1b1bfe,round2-kalams-2026-11-14,Roman witness fully covered in src/data/lyrics/zara-rok-le-khanjar.md on 2026-11-16
 src/data/lyrics/zara-rok-le-khanjar.md,round_1,present,nohayonline,nohayonline:5f4c8cfa3f08877d607f,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/zara-sa-pani.md,round_1,present,nohayonline,nohayonline:028d95c74bfe612c2115,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/zard-hai-chehra.md,round_1,removed_duplicate,nohayonline,nohayonline:65e289c86c52f939e733,feat/import-overlap-reconciliation-2026-11-05,"2026-11-15 Basta dedup: Salam 5, printed page 109. All ten imported verses appear in printed Basta; Mir Anis credited there; an alternate opening word order is preserved in audit. NoHayOnline source https://www.nohayonline.com/details_content.php?id=1255; reciter Sibte Jafar. Printed Basta and permanent recitation IDs retained; provisional imported lyric identity purged."
