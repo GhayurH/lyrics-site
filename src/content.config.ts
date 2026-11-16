@@ -25,7 +25,8 @@ const lyrics = defineCollection({
     lang: z.enum(["ur", "ar", "fa", "en", "bft", "pa"]),
     direction: z.enum(["rtl", "ltr"]),
     poet: z.string().optional(),
-    reciter: z.string().optional(),
+    // A source may have multiple independently searchable reciters.
+    reciter: z.union([z.string().trim().min(1), z.array(z.string().trim().min(1)).nonempty()]).optional(),
     occasion: z.string().optional(),
     year: z.number().int().optional(),
 
@@ -34,9 +35,8 @@ const lyrics = defineCollection({
     haal: z.string().optional(),
     romanHaal: z.string().optional(),
 
-    // The single browse classification shown to visitors: Noha, Salam,
-    // Manqabat, etc. Every lyric must declare this explicitly.
-    kalamType: z.string().min(1),
+    // Multiple types are independent memberships (not a combined third type).
+    kalamType: z.union([z.string().trim().min(1), z.array(z.string().trim().min(1)).nonempty()]),
 
     tags: z.array(z.string()).default([]),
     aliases: z.array(z.string()).default([]),

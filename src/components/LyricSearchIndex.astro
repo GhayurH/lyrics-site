@@ -1,20 +1,21 @@
 ---
 import type { CollectionEntry } from "astro:content";
-import { getLyricKalamType } from "../lib/lyrics";
+import { getLyricKalamTypes, getLyricReciters } from "../lib/lyrics";
 import { searchIndexAliases } from "../lib/search-normalization";
 interface Props { lyric: CollectionEntry<"lyrics"> }
 const { lyric } = Astro.props as Props;
 const { data } = lyric;
-const category = getLyricKalamType(data);
+const categories = getLyricKalamTypes(data);
+const reciters = getLyricReciters(data);
 const displayHaal = data.romanHaal?.trim() || data.haal;
 const searchTerms = [
   data.alternateTitle,
   data.poet,
-  data.reciter,
+  ...reciters,
   data.occasion,
   data.haal,
   data.romanHaal,
-  category,
+  ...categories,
   ...data.tags,
   ...data.aliases,
 ].filter(Boolean).join(" ");
@@ -25,12 +26,12 @@ const searchTerms = [
       <span data-pagefind-meta="collection">Standalone kalam</span>
       {data.alternateTitle && data.alternateTitle.trim().toLocaleLowerCase() !== data.title.trim().toLocaleLowerCase() &&
         <span data-pagefind-meta="roman_title">{data.alternateTitle}</span>}
-      <span data-pagefind-filter="kalamType">{category}</span>
+      {categories.map((category) => <span data-pagefind-filter="kalamType">{category}</span>)}
       <span data-pagefind-filter="language">{data.language}</span>
 
       {displayHaal && <span data-pagefind-filter="haal">{displayHaal}</span>}
       {data.poet && <span data-pagefind-filter="poet">{data.poet}</span>}
-      {data.reciter && <span data-pagefind-filter="reciter">{data.reciter}</span>}
+      {reciters.map((reciter) => <span data-pagefind-filter="reciter">{reciter}</span>)}
       {data.occasion && <span data-pagefind-filter="occasion">{data.occasion}</span>}
       {data.tags.map((tag) => <span data-pagefind-filter="tag">{tag}</span>)}
     </div>

@@ -2,18 +2,19 @@
 import type { CollectionEntry } from "astro:content";
 import FavoriteButton from "./FavoriteButton.astro";
 import ReaderSubnav from "./ReaderSubnav.astro";
-import { getLyricKalamType, searchUrl, slugifyKalamType } from "../lib/lyrics";
+import { getLyricKalamTypes, getLyricReciters, searchUrl, slugifyKalamType } from "../lib/lyrics";
 import { recitationLyricId } from "../lib/lyrics-data";
 interface Props { lyric: CollectionEntry<"lyrics"> }
 const { lyric } = Astro.props as Props;
 const { data } = lyric;
-const category = getLyricKalamType(data);
+const categories = getLyricKalamTypes(data);
+const reciters = getLyricReciters(data);
 const displayHaal = data.romanHaal?.trim() || data.haal;
 ---
 <header class="lyric-header">
-      <ReaderSubnav ariaLabel="Lyric navigation" items={[
-        { label: `← ${category}`, href: `/categories/${slugifyKalamType(category)}/` },
-      ]} />
+      <ReaderSubnav ariaLabel="Lyric navigation" items={categories.map((category) => ({
+        label: `← ${category}`, href: `/categories/${slugifyKalamType(category)}/`,
+      }))} />
 
       <div class="lyric-header-title-row">
         <div class="lyric-title-block">
@@ -54,6 +55,18 @@ const displayHaal = data.romanHaal?.trim() || data.haal;
           </dd>
         </div>
 
+        <div>
+          <dt>Kalam Type</dt>
+          <dd>
+            {categories.map((category, index) => (
+              <Fragment>
+                {index > 0 && " · "}
+                <a href={searchUrl({ collection: "Lyrics", kalamType: category })}>{category}</a>
+              </Fragment>
+            ))}
+          </dd>
+        </div>
+
          {
           displayHaal && (
             <div>
@@ -81,13 +94,16 @@ const displayHaal = data.romanHaal?.trim() || data.haal;
         }
 
         {
-          data.reciter && (
+          reciters.length > 0 && (
             <div>
-              <dt>Reciter</dt>
+              <dt>{reciters.length === 1 ? "Reciter" : "Reciters"}</dt>
               <dd>
-                <a href={searchUrl({ collection: "Lyrics", reciter: data.reciter })}>
-                  {data.reciter}
-                </a>
+                {reciters.map((reciter, index) => (
+                  <Fragment>
+                    {index > 0 && " · "}
+                    <a href={searchUrl({ collection: "Lyrics", reciter })}>{reciter}</a>
+                  </Fragment>
+                ))}
               </dd>
             </div>
           )
