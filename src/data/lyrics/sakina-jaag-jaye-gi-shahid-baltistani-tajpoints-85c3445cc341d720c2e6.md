@@ -1,11 +1,12 @@
 ---
-title: "Sakina Jaag Jaye Gi Shahid Baltistani"
+title: "Machao Shor Na Logo Sakina Jaag Jaye Gi"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
-kalamType: "Other"
+kalamType: "Noha"
+reciter: "Shahid Baltistani"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:85c3445cc341d720c2e6
@@ -20,41 +21,46 @@ published: false
 # raw_sha256: 069e4f785a7dfcae9fa973e5229d66c0929f4f35279a58593f08741bc4bfa356
 ---
 
-Machao Shoor Na Logo Sakina Jaag Jaye Gi.
-Meri Zanjeer Na Khaincho Sakina Jaag Jaye Gi.
+Haye Sajjad Muhari, Haye Beemar Muhari
+Machao Shoor Na Logo Sakina Jaag Jaye Gi
+Meri Zanjeer Na Khaincho Sakina Jaag Jaye Gi
 
 1
-Kabhi Bachi Ko Takta Hai Kabhi Aanso Bahata Hai.
-Dar-e-Zindan Pe Baitha Musafri Sab se Kehta Hai.
-Zara Aaram Se Guzro Sakina Jaag Jaye Gi.
-Kissi Bhi Zulm Pe Jo Aah Ki Khatir Woh Lab Khulte.
+Kabhi Bachi Ko Takta Hai Kabhi Aanso Bahata Hai
+Dar-e-Zindan Pe Baitha Musafri Sab se Kehta Hai
+Zara Aaram Se Guzro Sakina Jaag Jaye Gi
 
 2
-Tarap Kar Abid-e-Beemar Yeh Kehta Tha Honton Se.
-Agar Yeh Aah Nikli Tu Sakina Jaag Jaye Gi.
-Agar Olad Wale Ho Tumhein Yeh Sab Pata Ho Ga.
-Adhori Neend Se Uth Jaye Jo Bachi Tu Kya Ho Ga.
+Kissi Bhi Zulm Pe Jo Aah Ki Khatir Woh Lab Khulte
+Tarap Kar Abid-e-Beemar Yeh Kehta Tha Honton Se
+Agar Yeh Aah Nikli Tu Sakina Jaag Jaye Gi
 
 3
-Khudara Shimar Ko Roko Sakina Jaag Jaye Gi.
-Abhi Zindan Mein Ho Jaye Ga Kuhram Phir Barpa.
-Woh Aahat Sun Ke Samjhe Gi Keh Shayad Aa Gaye Baba.
-Dar-e-Zindan Na Kholo Sakina Jaag Jaye Gi.
+Agar Olad Wale Ho Tumhein Yeh Sab Pata Ho Ga
+Adhori Neend Se Uth Jaye Jo Bachi Tu Kya Ho Ga
+Khudara Shimar Ko Roko Sakina Jaag Jaye Gi
 
 4
-Yeh Wadah Hai Mera Pani Nahi Mangon Ga Main Tum Se.
-Woh Jab Uth Jaye Tu Jee Bhar Ke Be-Shak Marna Dure.
-Abhi Be-Kas Ko Na Maro Sakina Jaag Jaye Gi.
-Abhi Aazad Ho Tum Qaid Ke Matlab Ko Kya Jano.
+Abhi Zindan Mein Ho Jaye Ga Kuhram Phir Barpa
+Woh Aahat Sun Ke Samjhe Gi Keh Shayad Aa Gaye Baba
+Dar-e-Zindan Na Kholo Sakina Jaag Jaye Gi
 
 5
-Parindo Choor Do Zindan Meri Iltija Mano.
-Chale Jao na Youn Chehko Sakina Jaag Jaye Gi.
-Sar-e-Zindaan Sakina Ko Qaza Ki Neend Kya Aayi.
-Kissi Se Kuch Nahi Kehta Iss Mazloom Ka Bahi.
+Yeh Wadah Hai Mera Pani Nahi Mangon Ga Main Tum Se
+Woh Jab Uth Jaye Tu Jee Bhar Ke Be-Shak Marna Dure
+Abhi Be-Kas Ko Na Maro Sakina Jaag Jaye Gi
 
 6
-Keh Ab Yeh Dar Nahi Oss Ko Sakina Jaag Jaye Gi.
-Saf-e-Matam Se Abid Ka Yeh Akbar Bain Aata Hai.
-Isse Bas Baap Ke Purse Mein Hi Ab Chain Aata Hai.
-Sada Matam Ki Na Roko Sakina Jaag Jaye Gi.
+Abhi Aazad Ho Tum Qaid Ke Matlab Ko Kya Jano
+Parindo Choor Do Zindan Meri Iltija Mano
+Chale Jao na Youn Chehko Sakina Jaag Jaye Gi
+
+7
+Sar-e-Zindaan Sakina Ko Qaza Ki Neend Kya Aayi
+Kissi Se Kuch Nahi Kehta Iss Mazloom Ka Bahi
+Keh Ab Yeh Dar Nahi Oss Ko Sakina Jaag Jaye Gi
+
+8
+Saf-e-Matam Se Abid Ka Yeh Akbar Bain Aata Hai
+Isse Bas Baap Ke Purse Mein Hi Ab Chain Aata Hai
+Sada Matam Ki Na Roko Sakina Jaag Jaye Gi
