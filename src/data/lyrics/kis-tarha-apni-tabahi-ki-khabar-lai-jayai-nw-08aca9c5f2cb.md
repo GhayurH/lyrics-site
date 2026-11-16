@@ -1,9 +1,10 @@
 ---
-title: "Kis Tarha Apni Tabahi Ki Khabar Lai Jayai"
+title: "Kis Tarha Apni Tabahi Ki Khabar Le Jaye"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Nazeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,30 +13,38 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/08aca9c5f2cb9eb583d8.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/08aca9c5f2cb9eb583d8.json
 # api_content_sha256: 70668cb84540b6c6e60f609b9a41b9a30c548261f8a9952514f25c53ffa3065d
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Two lyric witnesses consolidated. Source spellings and stanza groupings are unpublished pending editorial approval.
+# source_id: tajpoints:9514bb5c1da9841a5687
+# source_url: https://tajpoints.com/2019/06/kis-tarha-apni-tabahi-ki-khabar-le-jaye.html
+# raw_sha256: f60c3559bde48c95c7d303b8d2ba48cd415bafc377a9217250cd2baf571b7c3e
 ---
+Kis Tarha Apni Tabahi Ki Khabar Le Jaye
+Pas Zainab Ke Bacha Kya Hai Jo Ghar Le Jaye
 
-Kis Tarha Apni Tabahi Ki Khabar Lai Jayai.
+1
+Le Gayi Baap Ka Saya Tu Saron Se Unke
+Ab Yateemo Ko Hawa Chahe Jidhar Le Jaye
 
-Saath Zainab Kai Bacha Kya Hai Jo Ghar Lai Jaayai.
+2
+Aik Do Ghar Ke Charagon Ko Bujha De Lekin
+Cheen Kar Koi Na Umeed-e-Sahar Le Jaye
 
-Lai Gayee Baap Ka Saya To Saron’ Sai Un Kai
-Ab Yateemon Ko Hava Chahai Jidher Lai Jayai.
+3
+Paon Zakhmi Hain Tu Rahoon Mein Hain Pathar Kante
+Jane Abid Ko Kahan Tak Yeh Safar Le Jaye
 
-Aik Do Ghaar Kai Charagon Ko Bujha Dai Laikin
-Cheen Kaar Koee Na Umeedain’, Sahar Lai Jaayai.
+4
+Boli Hoon Gi Ali Akbar Ko Saja Kar Zainab
+Chand Ko Mere Kissi Ki Na Nazar Le Jaye
 
-Paon Zakhmi Hain’ To Raahon’ Main Hain’ Pathar Kaantay
-Jaanay Abid Ko Kahan Tak Yeh Safar Lai Jayai.
+5
+Sochti Ho Gi Yeh Bano Mera Bach Jaye Sohag
+Hurmala Mujh Se Mera Lakht-e-Jigar Le Jaye
 
-Boli Hongi Ali Akbar Ko Saja Ker Zainab
-Chaand Ko Merai Kissi Ki Na Nazar Lai Jaayai.
+6
+Rakh Ke Aahon Ke Sulagte Howay Iss Maqtal Se
+Lash Bachoon Ki Keh Shabir Ka Sar Le Jaye
 
-Sochti Hogi Yeh Bano Mera Bach Jayai To Haal
-Hurmula Mujh Sai Maira Lab-e-jiger Lai Jaayai.
-
-Runn Ki Aankhon’ Sai Sulagtay Huwai Is Maqtal Main
-Laash Bachon’ Ki Kai Shabbir Ka Sar Lai Jayai.
-
-Shaiyari Ki Meri Maiyaar Yehi Ho Gi Nazeer
-Zikr-e-sarwar Main Mout Agar Lai Jaayai.
+7
+Shayari Ki Meri Meraj Yehi Ho Gi Nazeer
+Zikar-e-Sarwar Mein Mujhe Maut Agar Le Jaye

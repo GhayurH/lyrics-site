@@ -1,9 +1,10 @@
 ---
-title: "Azadari Rahegi Title Promo Mesum Abbas 2022"
+title: "Azadari Rahegi"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+reciter: "Mesum Abbas"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,7 +13,10 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/6d706d01410e090947c7.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/6d706d01410e090947c7.json
 # api_content_sha256: 3113bb310fd5859a4bb42bb533edb256630dcaf7c443aa24cd18462acc52be14
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Two lyric witnesses consolidated. Source spellings and stanza groupings are unpublished pending editorial approval.
+# source_id: tajpoints:43e0a4412116bb0ac620
+# source_url: https://tajpoints.com/2022/08/azadari-rahegi-mesum-abbas-lyrics-in.html
+# raw_sha256: 46a07c72d3b0543250d1854a32e54a571324d81c9ed3b5e72c7b6566e94bdbda
 ---
 
 HUSSAIN HUSSAIN HUSSAIN

@@ -1,9 +1,12 @@
 ---
-title: "Ya AbalFazl (as)Title Kalam Mir Hasan Mir"
+title: "یا ابوالفضل"
+alternateTitle: "Ya Abalfazl"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Mir Sajjad"
+reciter: "Mir Hasan Mir"
 tags: []
 aliases: []
 published: false
@@ -135,6 +138,9 @@ romanLyrics: |-
 # source_metadata_path: snapshots/nohawriteups/metadata/3a8468baad069257bb83.json
 # api_content_sha256: f03fe3c960e948010c7fa3ea10de06a963f5e77346c8bd1f6f609ef0a5a8a116
 # editorial_note: Unpublished source-faithful draft from approved valid roman+urdu; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# source_id: tajpoints:8dc1be9138b24125d030
+# source_url: https://tajpoints.com/2022/07/ya-abalfazl-mir-hasan-mir-lyrics-in.html
+# raw_sha256: 8f392e5c24c503d3715573179277de77c34172abea12b5d28efc05dca56fc2b7
 ---
 
 عباس عباس عباس

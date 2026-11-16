@@ -4,6 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+reciter: "Nadeem Sarwar"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,7 +13,10 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/a4e4b4e135e4140e2a8c.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/a4e4b4e135e4140e2a8c.json
 # api_content_sha256: 40385b11d4b7c51e56471dbb266fa03464eee6e8c353107cb35c9916cd5a3343
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Two lyric witnesses consolidated. Source spellings and stanza groupings are unpublished pending editorial approval.
+# source_id: tajpoints:212e33460a4063d2f8d9
+# source_url: https://tajpoints.com/2020/09/peer-ghazi-lyrics-in-urdu-and-roman-urdu.html
+# raw_sha256: 39cf4ddb53e5da43c7e56e3e1d3128f2be66da383ba70da51b8e964acb10bd6c
 ---
 
 Ba Wafa Abbas
