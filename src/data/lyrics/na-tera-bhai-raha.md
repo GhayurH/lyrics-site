@@ -72,6 +72,9 @@ romanLyrics: |-
 # original_html: snapshots/nohawriteups/original_html/666caa24562b55be6fe6.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/666caa24562b55be6fe6.json
 # api_content_sha256: 6f337deafeeb976063f063bf71e7c9d3eae1011afa155c24dc3db0b27ff44abc
+# source_id: tajpoints:ef2aed1f184157432ce3
+# source_url: https://tajpoints.com/2020/10/na-tera-bhai-raha-na-hi-mera-bhai-raha.html
+# raw_sha256: 3be86d218cf38bbd37a4cd25e97019dfa225dfc426899e36b33049d5636710e1
 ---
 جب سنا صغرا نے لوٹ آیا وطن میں قافلہ
 ہائے جب پہنچیں تو منظر دیکھ کر رو کے کہا

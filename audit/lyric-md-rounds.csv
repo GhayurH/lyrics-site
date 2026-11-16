@@ -2289,6 +2289,7 @@ src/data/lyrics/mera-mehdi-jab.md,round_1,present,nohayonline,nohayonline:b5f3f2
 src/data/lyrics/mera-mohsin-na-raha.md,round_1,present,nohayonline,nohayonline:3623e11cb0dbad3e43ee,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/mere-aansu.md,round_1,present,nohayonline,nohayonline:08527121a1a2548f484b,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/mere-aaqa-mere-maula.md,round_1,present,nohayonline,nohayonline:9a9a6dd2241a7397dd5c,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/mere-andar-basi-hai-karbala-kazmi-brothers-lyrics-2023-tajpoints-ddb505f419c19c9abab4.md,round_2,consolidated,tajpoints,tajpoints:ddb505f419c19c9abab4,round2-kalams-2026-11-14,Fully represented by src/data/lyrics/mere-andar-basi-hai.md; alternate Roman spellings retained via source provenance on 2026-11-16
 src/data/lyrics/mere-andar-basi-hai.md,round_1,present,nohayonline,nohayonline:d148d9dce984aafece7e,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/mere-asghar-aa-gayi.md,round_1,present,nohayonline,nohayonline:08e2d0840179bd88c1d0,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/mere-asghar-kahan.md,round_1,present,nohayonline,nohayonline:664ce34bc53aca991167,feat/import-overlap-reconciliation-2026-11-05,
@@ -2431,6 +2432,7 @@ src/data/lyrics/na-rakh-ab-chadar.md,round_1,present,nohayonline;ziyaraat,nohayo
 src/data/lyrics/na-ro-ay-phupi.md,round_1,present,nohayonline,nohayonline:1522cd1008614d422c9d,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/na-ro-zainab.md,round_1,present,nohayonline,nohayonline:883f5aa3ff03a4e42831,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/na-royi-zainab.md,round_1,present,nohayonline;ziyaraat,nohayonline:6712c3659ab77779b673;ziyaraat:98296a17eed4e9a878be,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/na-tera-bhai-raha-na-hi-mera-bhai-raha-lyrics-2020-tajpoints-ef2aed1f184157432ce3.md,round_2,consolidated,tajpoints,tajpoints:ef2aed1f184157432ce3,round2-kalams-2026-11-14,Fully represented by src/data/lyrics/na-tera-bhai-raha.md; alternate Roman spellings retained via source provenance on 2026-11-16
 src/data/lyrics/na-tera-bhai-raha.md,round_1,present,nohayonline,nohayonline:5bd2907354cffb8c24a3,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/naad-e-ali-ka-wird-jo-karti-chali-gayi.md,original,present,,,main,
 src/data/lyrics/naad-e-ali-parhte-raho.md,original,present,,,main,
@@ -2538,6 +2540,7 @@ src/data/lyrics/pehre-par-zainab.md,round_1,present,nohayonline,nohayonline:05ae
 src/data/lyrics/phasliyan-toot-gayi.md,round_1,present,nohayonline,nohayonline:23c924243d3a079c10c4,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/phir-aaj-haq-ke-liye-jaan-fida-kare-koi.md,round_1,present,tajpoints,tajpoints:4c2beab9846d753062ff,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/phir-baqayya-ko.md,round_1,present,nohayonline,nohayonline:3d543b06aab0d9673602,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/phir-chahe-sakina-ko-wo-jitna-bhi-sata-lay-lyrics-2020-tajpoints-d386a7c748fb907064a2.md,round_2,consolidated,tajpoints,tajpoints:d386a7c748fb907064a2,round2-kalams-2026-11-14,Fully represented by src/data/lyrics/phir-chahe-sakina-ko-wo-jitna-bhi-sata-le.md; alternate Roman spellings retained via source provenance on 2026-11-16
 src/data/lyrics/phir-chand-moharram.md,round_1,present,nohayonline,nohayonline:5b5ebf37f74c0c0953b6,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/phool-sehraon-may.md,round_1,present,nohayonline,nohayonline:11c86befb31ee1a7e1a9,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/phupi-baba-chadar.md,round_1,present,nohayonline,nohayonline:ce11ee693b58f546f36c,feat/import-overlap-reconciliation-2026-11-05,
@@ -2555,6 +2558,7 @@ src/data/lyrics/pyaas-bachon-ki.md,round_1,present,nohayonline,nohayonline:509d6
 src/data/lyrics/pyare-asghar.md,round_1,present,nohayonline,nohayonline:32200dd2f3d5927d888c,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/pyare-nabi-ka-pyara.md,round_1,present,nohayonline,nohayonline:fa9bdb83a3626f05bc2a,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/pyare-nabi-ka.md,round_1,present,nohayonline,nohayonline:ccc1f4db46fc49222f5b,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/pyare-nabi-ki-pyari-nawasi-ali-shanawar-and-ali-jee-lyrics-2007-tajpoints-46ce897684f8ac882484.md,round_2,consolidated,tajpoints,tajpoints:46ce897684f8ac882484,round2-kalams-2026-11-14,Fully represented by src/data/lyrics/pyare-nabi-ki-pyari.md; alternate Roman spellings retained via source provenance on 2026-11-16
 src/data/lyrics/pyare-nabi-ki-pyari.md,round_1,present,nohayonline;ziyaraat,nohayonline:804749a18e6bc8b8b26c;ziyaraat:a258bad71e212a2366a4,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/pyasa-raha-jaane.md,round_1,present,nohayonline,nohayonline:3fc5310947a1276dcd1f,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/pyase-ko-maa.md,round_1,present,nohayonline,nohayonline:fe95bb2db5177a88f92a,feat/import-overlap-reconciliation-2026-11-05,

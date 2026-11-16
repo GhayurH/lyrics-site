@@ -52,6 +52,9 @@ romanLyrics: |-
 # source_title_original: Phir chahe sakina ko
 # editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 # editorial_warning: stray < line removed from original Urdu
+# source_id: tajpoints:d386a7c748fb907064a2
+# source_url: https://tajpoints.com/2020/09/phir-chahe-sakina-ko-wo-jitna-bhi-sata.html
+# raw_sha256: ac70b3c0a28bb058f86a118387ff2702f15f994ca37feccaf0ac2e1bfa82be72
 ---
 
 تھا بین سکینہ کا ہے رکنے کو مرا دل
