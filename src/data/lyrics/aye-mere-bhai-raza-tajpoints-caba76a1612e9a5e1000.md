@@ -4,73 +4,60 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
-poet: Takallum
+poet: "Mir Takallum"
 tags: []
 aliases: []
 published: false
 alternateTitle: Aye Mere Bhai Raza
-romanLyrics: 'Main Sani-e-Zainab Hoon Tu Sani-e-Hussain.
-
-  Aye Ghareeb-ul-Ghuraba Aye Mere Bhai Raza Tujh Pe Humsheer Fida.
-
-  Tujh Se Milne Ke Liye Itne Meelon Ka Safar Teri Zainab Ne Kiya.
-
-  Mujh Ko Pardais Mein Yeh Baat Rulati Hi Rahi.
-
+romanLyrics: |-
+  Ae mere bhai Raza maiṅ Sani-e-Zainab huṅ
+  Tu Sani-e-Husain ae Gharib-ul-Ghuraba
+  Ae mere bhai Raza tujhpe humshir fida
+  Tujhse milne ke liye kitne miloṅ ka safar
+  Teri Zainab ne kiya
 
   1
-
-  Door Hoon Ghar Se Magar Sar Pe Rida Hai Bhai.
-
-  Bint-e-Zahra Ne Magar Sham-o-Kofa Ka Safar Be-Rida Kaise Kiya.
-
-  Tere Deedar Bina Bhai Nahi Reh Sakti.
-
-  Gham Main Furqat Ka Teri Our Nahi Seh Sakti.
-
+  Mujhko pardes meiṅ ye baat rulati hi rahi
+  Dur huṅ ghar se magar sar pe rida hai bhai
+  Bint-e-Zehra ne magar Shaam o Kufa ka safar
+  Berida kaise kiya
 
   2
-
-  Kya Mujhe Bhool Gaye Tum Ko Behna Se Mile Baras Beet Gaya.
-
-  Tum Ko Zindaan Main Kahin Qaid Na Kar Le Koi.
-
-  Mere Baba Ki Tarha Zehar Na De De Koi.
-
-  Jee Nahi Paongi Main Sun Ke Mar Jaongi Main Tumko Gar Kuch Bhi Howa.
-
+  Tera didar bina bhai nahiṅ reh sakti
+  Gham-e-furqat ka teri aur nahiṅ seh sakti
+  Kya mujhe bhul gaye tumko behna se mile
+  Ek baras bit gaya
 
   3
-
-  Baap Ki Tarha Mere Sar Pe Tera Saya Hai.
-
-  Apni Beti Ki Tarha Tu Ne Mujhe Pala Hai.
-
-  Tu Hai Aye Bhai Jahan Mujhko Bulwa Le Wahan Ho Ga Ahsan Tera.
-
-  Sath Hum Hote Agar Sham Ko Jate Bhai.
-
+  Tumko zindan meiṅ kahiṅ qaid na kar le koi
+  Mere baba ki tarah zehr na de de koi
+  Ji nahiṅ pauṅgi maiṅ sunke mar jauṅgi maiṅ
+  Tumko gar kuchh bhi hua
 
   4
-
-  Phir Sakina Ke Liye Ashk Bahatay Bhai.
-
-  Kya Nahi Tumko Khabar Aa Gaya Mah-e-Safar Waris-e-Karb-o-Bala.
-
-  Maut Se Pehle Mujhe Milne Baradar Aa Ja.
-
-  Apni Sughra Ke Liye Aye Mere Akbar Aa Ja.
-
+  Baap ki tarah mere sar pe tera saya hai
+  Apni beti ki tarah tune mujhe paala hai
+  Tu hai ae bhai jahaṅ mujhko bulwa le wahaṅ
+  Hoga ehsan tera
 
   5
+  Saath hum hote agar Shaam ko jaate bhai
+  Phir Sakina ke liye ashk bahaate bhai
+  Kya nahiṅ tumko khabar aa gaya mah-e-Safar
+  Waris-e-Karbobala
 
-  Dil Mein Hasrat Hai Mere Dekh Loon Chehra Tera Phir Mujhe Aaye Qaza.
+  6
+  Maut se pehle mujhe milne baradar aaja
+  Apni Sughra ke liye ae mere Akbar aaja
+  Dil meiṅ hasrat hai mere dekh luṅ chehra tera
+  Phir mujhe aaye qaza
 
-  Aye Takallum Yeh Behan Bhai Pe Jaan Deti Thi.
+  7
+  Ae Takallum ye behan bhai pe jaan deti thi
+  Sunke bhai ki khabar khaak pe ye aise giri
+  Lab pe tha haaye Raza dil pe qabu na raha
+  Kha gayi usko qaza
 
-  Sun Ke Bhai Ki Khabar Khak Pe Yeh Aise Giri.
-
-  Lab Pe Tha Haye Raza Dil Pe Qabo Na Raha Aa Gayi Oss Ko Qaza.'
 # source_id: tajpoints:caba76a1612e9a5e1000
 # source_url: https://tajpoints.com/2019/10/aye-mere-bhai-raza-lyrics-in-urdu-and.html
 # raw_sha256: 25bdc52dc6a8797c70f07d472b1ae61a712afaf9c8bcae54904b264774682c95
