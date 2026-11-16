@@ -149,6 +149,14 @@ header.programme p { margin: .25rem 0; } .hint { font-size: .8rem; color: #555; 
 .lyric-reading-urdu :is(.lyric-verse,.basta-verse-line,.basta-verse-poetry,.basta-kalam-text span) {
   line-height: 2.35; text-align: right;
 }
+/* Portable exports cannot load the site's global title/byline rules. */
+.lyric-reading-panel .basta-verse-line.kalam-reading-title {
+  font-weight: 700; text-decoration: underline;
+  text-align: center; text-align-last: center;
+}
+.lyric-reading-panel .basta-verse-line.kalam-poet-credit {
+  text-align: center; text-align-last: center;
+}
 .poetry-stanza-number {
   display: grid; place-items: center; width: 1.8rem; height: 1.8rem;
   margin: .5rem auto; border: 1px solid #777; border-radius: 50%;

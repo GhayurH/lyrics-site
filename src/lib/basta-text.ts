@@ -196,8 +196,9 @@ export function layoutBastaKalam(
     }
   }
 
-  // Titles are independent of stanza indentation (including early Basta pages).
-  if (!indentStanzas) return display;
+  // An isolated recitation preface has no verses. Reprocessing its title and
+  // poet as a two-line stanza would justify and indent the poet's name.
+  if (!indentStanzas || prefaceOnly) return display;
 
   let previousVerseCount = 0;
   let previousCoupletBlock: { start: number; end: number } | undefined;
