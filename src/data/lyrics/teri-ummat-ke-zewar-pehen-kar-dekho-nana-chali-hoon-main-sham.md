@@ -74,22 +74,6 @@ romanLyrics: |-
   Le Le Ke Woh Baba Ka Naam
 
   8
-  Jis Zainab Ko Tum Ne Baradar
-  Kabhi Nazreiṅ Utha Kar Na Dekha
-  Haath Rassi Se Mere Bandhe Haiṅ
-  Aur Sar Par Nahiṅ Mere Parda
-  Kaise Kufe Meiṅ Jaungi Ghazi
-  Jab Balwe Meiṅ Aayega Naam
-
-  9
-  Jaise Darbar Paas Aa Raha Hai
-  Mera Dil Dubta Ja Raha Hai
-  Maiṅ To Ghar Meiṅ Bhi Kam Bolti Thi
-  Bhai Tum Ko To Sab Kuch Pata Hai
-  Kis Tarah Se Karegi Bata De
-  Ik Sharabi Se Zainab Kalaam
-
-  10
   Dil Yeh Kehta Hai Ro Ro Ke Bhaiya
   Kash Abbas Maujud Hota
   Kaat Deta Woh Us Ki Zabaṅ Ko
@@ -97,15 +81,18 @@ romanLyrics: |-
   Dekhti Phir Maiṅ Kis Tarah Leta
   Koi Zainab Ka Majma Meiṅ Naam
 
-  11
+  9
   Keh Rahe Haiṅ Yeh Hans Hans Ke Shami
   Aane Wale Haiṅ Darbar Baghi
   Jis Ne Ajdad Mare Hamare
   Aa Rahi Hai Yahaṅ Us Ki Beti
   Kholta Pani Phenko Chhatoṅ Se
   Pattharoṅ Ka Karo Intizam
+# source_id: tajpoints:ed0bb597aa6d1d707b07
+# source_url: https://tajpoints.com/2017/10/teri-ummat-ke-zewar-pehan-kar-dekho.html
+# raw_sha256: e593db9ae42969af0f0b092fcacc64912f9a096123495a2a18c6fb6899effca5
+# editorial_note: Removed repeated stanzas 8-9 (variants of stanzas 5-6) and renumbered the two following stanzas; preserved the earlier versions in both scripts and retained additional source witness.
 ---
-
 تیری امت کے زیور پہن کر
 دیکھو نانا چلی ہوں میں شام
 
@@ -145,7 +132,7 @@ romanLyrics: |-
 جس زینبؑ کو تم نے برادر
 کبھی نظریں اٹھا کر نہ دیکھا
 ہاتھ رسی میں میرے بندھے ہیں
-اور سر پر نہیں میرے چادر
+اور سر پر نہیں میری چادر
 کیسے کوفے میں جاؤں گی غازی
 جب مجمع میں آئے گا نام
 
@@ -166,22 +153,6 @@ romanLyrics: |-
 لے لے کے وہ بابا کا نام
 
 ۸
-جس زینبؑ کو تم نے برادر
-کبھی نظریں اٹھا کر نہ دیکھا
-ہاتھ رسی سے میرے باندھے ہیں
-اور سر پر نہیں میرے پردہ
-کیسے کوفے میں جاؤں گی غازی
-جب بلوے میں آئے گا نام
-
-۹
-جیسے دربار پاس آ رہا ہے
-میرا دل ڈوبتا جا رہا ہے
-میں تو گھر میں بھی کم بولتی تھی
-بھائی تم کو تو سب کچھ پتا ہے
-کس طرح سے کرے گی بتا دے
-اک شرابی سے زینبؑ کلام
-
-۱۰
 دل یہ کہتا ہے رو رو کے بھیا
 کاش عباسؑ موجود ہوتا
 کاٹ دیتا وہ اس کی زباں کو
@@ -189,7 +160,7 @@ romanLyrics: |-
 دیکھتی پھر میں کس طرح لیتا
 کوئی زینبؑ کا مجمع میں نام
 
-۱۱
+۹
 کہہ رہے ہیں یہ ہنس ہنس کے شامی
 آنے والے ہیں دربار باغی
 جس نے اجداد مارے ہمارے

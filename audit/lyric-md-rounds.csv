@@ -3092,6 +3092,7 @@ src/data/lyrics/teri-chadar-ka-raha.md,round_1,present,nohayonline,nohayonline:1
 src/data/lyrics/teri-kya-baat-hai.md,round_1,present,tajpoints,tajpoints:62c6f6a3e88cdba0e7b0,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/teri-laash-hussain.md,round_1,present,nohayonline,nohayonline:00a8d78ee277975242cb,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/teri-qabr-pe-saaya.md,round_1,present,nohayonline,nohayonline:9ef0a690e1effec17684,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/teri-ummat-ke-zewar-pehan-kar-mir-hasan-lyrics-2017-tajpoints-ed0bb597aa6d1d707b07.md,round_2,consolidated,tajpoints,tajpoints:ed0bb597aa6d1d707b07,round2-kalams-2026-11-14,Removed repeated stanzas 8-9 from src/data/lyrics/teri-ummat-ke-zewar-pehen-kar-dekho-nana-chali-hoon-main-sham.md on 2026-11-16
 src/data/lyrics/teri-ummat-ke-zewar-pehen-kar-dekho-nana-chali-hoon-main-sham.md,original,present,,,main,
 src/data/lyrics/teri-ummat-ne-mere-dar-ko-jalaya-baba.md,original,present,,,main,
 src/data/lyrics/teri-zainab-ne-tera.md,round_1,present,nohayonline;ziyaraat,nohayonline:57980d50d4fe2692b1d1;ziyaraat:cbd7aa3f9e1b88b95013,feat/import-overlap-reconciliation-2026-11-05,
@@ -3353,6 +3354,7 @@ src/data/lyrics/ye-sochta-hua.md,round_1,present,nohayonline,nohayonline:0d2bf0f
 src/data/lyrics/ye-sughra-ne-likha.md,round_1,present,nohayonline,nohayonline:bc71abf27e182f3c14bf,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ye-thay-bain-bano.md,round_1,present,nohayonline,nohayonline:7677db0f962458194ef0,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ye-waqia-hai-moharam.md,round_1,present,nohayonline,nohayonline:05c3de20d7d5aa37679b,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/ye-waqt-bhi-guzar-jayega-mesum-abbas-tajpoints-4211be5f826916ff815a.md,round_2,consolidated,tajpoints,tajpoints:4211be5f826916ff815a,round2-kalams-2026-11-14,Redundant source fully included in src/data/lyrics/ye-waqt-bhi-guzar.md on 2026-11-16
 src/data/lyrics/ye-waqt-bhi-guzar.md,round_1,present,nohayonline,nohayonline:0fa550017fe111caabfa,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/yeh-auliya-ka-ghurur-sehra.md,round_1,present,tajpoints,tajpoints:cd37b81eec9af7ab53d4,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/yeh-baat-maan-lijiye-takrar-ke-bagair.md,round_1,present,tajpoints,tajpoints:f344810208b14752fa43,feat/import-overlap-reconciliation-2026-11-05,
