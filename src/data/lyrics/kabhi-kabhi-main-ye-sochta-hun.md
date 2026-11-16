@@ -223,6 +223,11 @@ romanLyrics: |-
   Tu nur hai nur meiṅ sama ja
 # source_note: personal notebook ODT import on 2026-11-08; no unique source record ID
 # editorial_note: Notebook has divergent Roman and Urdu stanzas; both reconciled by meaning and full wording needs independent audio confirmation
+# source_id: nohawriteups:ab65a6ce8275525fe572
+# source_url: https://www.nohawriteups.org/kabhi-kabhi-mei-ye-sochta-hoon/
+# original_html: snapshots/nohawriteups/original_html/ab65a6ce8275525fe572.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/ab65a6ce8275525fe572.json
+# api_content_sha256: 5cdf52f12f940249693e253ee70e9f2c687e05eb2c43bb0db921a1844084f66f
 ---
 کبھی کبھی میں یہ سوچتا ہوں
 یہ سوچتا ہوں کبھی کبھی میں
