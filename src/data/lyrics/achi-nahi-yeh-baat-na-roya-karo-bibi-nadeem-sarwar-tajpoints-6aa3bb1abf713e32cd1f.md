@@ -1,11 +1,12 @@
 ---
-title: "Achi Nahi Yeh Baat Na Roya Karo Bibi Nadeem Sarwar"
+title: "Achi Nahi Yeh Baat Na Roya Karo Bibi"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
-kalamType: "Other"
-poet: "Rehan"
-tags: []
+kalamType: "Noha"
+reciter: "Nadeem Sarwar"
+poet: "Rehan Azmi"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6aa3bb1abf713e32cd1f
