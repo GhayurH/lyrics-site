@@ -3295,6 +3295,9 @@ src/data/lyrics/ya-hussain-habeebi.md,round_1,present,nohayonline,nohayonline:f5
 src/data/lyrics/ya-hussain-ya.md,round_1,present,nohayonline,nohayonline:4298ffed594dd6b92356,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ya-hussain.md,round_1,present,nohayonline,nohayonline:41b3c0ae0529dcd03b3c,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ya-hussainam.md,round_1,present,nohayonline,nohayonline:da7b2f3305bbd6078dcf,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/ya-imam-e-raza-har-nafas-har-ghari.md,round_2,present,tajpoints;nohawriteups,tajpoint:dec7917aa64e2ef35901;nohawriteups:a45782bed5f3df31864f,round2-kalams-2026-11-14,Consolidated 10 stanzas from two versions with different ordering
+src/data/lyrics/ya-imam-e-raza-mir-hasan-mir-2026-tajpoint-dec7917aa64e2ef35901.md,round_2,consolidated,tajpoints,tajpoint:dec7917aa64e2ef35901,round2-kalams-2026-11-14,Consolidated into src/data/lyrics/ya-imam-e-raza-har-nafas-har-ghari.md on 2026-11-16
+src/data/lyrics/ya-imam-e-raza-ya-imam-e-raza-manqabat-nw-a45782bed5f3.md,round_2,consolidated,nohawriteups,nohawriteups:a45782bed5f3df31864f,round2-kalams-2026-11-14,Consolidated four unique stanzas into src/data/lyrics/ya-imam-e-raza-har-nafas-har-ghari.md on 2026-11-16
 src/data/lyrics/ya-imam-e-raza-ya-imam-e-raza.md,round_1,present,tajpoints,tajpoints:fc99c21e035a5bc26449,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ya-imame-askari.md,round_1,present,nohayonline;ziyaraat,nohayonline:526f097ce70dc1be0124;ziyaraat:3be944772b6438143494,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ya-imame-riza.md,round_1,present,nohayonline,nohayonline:f999072b75a558706410,feat/import-overlap-reconciliation-2026-11-05,
