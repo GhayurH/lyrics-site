@@ -76,6 +76,11 @@ romanLyrics: |-
 # source_id: nohayonline:05c3de20d7d5aa37679b
 # source_url: https://www.nohayonline.com/details_content.php?id=311
 # raw_sha256: a071eba097beec3445fc366c20928ce24b331f5e1062f55c024dab149b9195e5
+# source_id: nohawriteups:e01ba14257f17ad7f8e2
+# source_url: https://www.nohawriteups.org/ye-waqia-hai/
+# original_html: snapshots/nohawriteups/original_html/e01ba14257f17ad7f8e2.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/e01ba14257f17ad7f8e2.json
+# api_content_sha256: a1fb1803edc771c3a38e663fbe197549af20745d1f723587a6367a0cb7f615fb
 ---
 ۱
 یہ واقعہ ہے محرم کی گیارہ کا باخدا

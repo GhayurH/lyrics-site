@@ -47,6 +47,11 @@ romanLyrics: |-
 # source_id: nohayonline:0a00c504a8afc4dcd703
 # source_url: https://www.nohayonline.com/details_content.php?id=1369
 # raw_sha256: 9ad5bd52af4a3c2406eb24dbe35419211a5579c5b613f23e635b42d6f1bae19f
+# source_id: nohawriteups:39f3d9f8526062acc53b
+# source_url: https://www.nohawriteups.org/mazloom-ka-matam-hai-kazmi-brothers-nohay-2022/
+# original_html: snapshots/nohawriteups/original_html/39f3d9f8526062acc53b.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/39f3d9f8526062acc53b.json
+# api_content_sha256: 9f6c05c97f082fa5435ca251d6264822bfcd9cba8c0200cf9467c11195f18501
 ---
 
 مظلوم کا ماتم ہے رکا ہے نہ رکےگا
