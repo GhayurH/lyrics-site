@@ -4,6 +4,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Zeeshan Abidi"
 tags: []
 aliases: []
 published: false
@@ -117,6 +118,9 @@ romanLyrics: |-
 # source_metadata_path: snapshots/nohawriteups/metadata/d1b12ede8fb09aa420c1.json
 # api_content_sha256: 34ae8e3dec59db529647e50e8dcedee86e4cef3df92c58e2e9c13cbb3fa36296
 # editorial_note: Unpublished source-faithful draft from approved valid roman+urdu; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# source_id: tajpoints:a35c2e9ed883655a3744
+# source_url: https://tajpoints.com/2022/08/sultan-e-karbala-ke-mehmaan-syed-raza.html
+# raw_sha256: 3f56f39493465970e9fb518fc2ea72a74a94b4ae2289cde6947a37aae5bdd1ed
 ---
 
 لکھا ھے یاحُسینؑ محرم کے چاند پر

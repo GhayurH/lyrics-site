@@ -4,6 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Mir Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,7 +13,10 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/7762d7e6f882c8bb77bb.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/7762d7e6f882c8bb77bb.json
 # api_content_sha256: 3af2b5b33ad3eabd374f3a4c3e8474a52df971eabcdc86fb7d98e71267446471
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Two source witnesses consolidated; unpublished pending stanza and transliteration editorial review.
+# source_id: tajpoints:862565acf7293adbc515
+# source_url: https://tajpoints.com/2021/09/shireen-main-agaya-mir-hasan-mir-lyrics.html
+# raw_sha256: 8925e042a2fa1f09152c4bbf47f23f5baab2c1eac9c549bf085a4bb2cb8282eb
 ---
 
 Lut Ky Jab Kafla Shireen Ky Maka’an Tak Pohncha
