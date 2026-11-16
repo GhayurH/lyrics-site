@@ -1586,7 +1586,7 @@ src/data/lyrics/jab-kiya-jayega.md,round_1,present,nohayonline,nohayonline:c15e9
 src/data/lyrics/jab-laashae-hussain.md,round_1,present,nohayonline,nohayonline:b8054256278b36b578ac,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jab-madine-ka.md,round_1,present,nohayonline,nohayonline:420c27e26f399eb49805,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jab-mai-bhi-karbala.md,round_1,present,nohayonline,nohayonline:5dc74f0a3de4c8ea6e21,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/jab-mashk-bhar.md,round_1,present,nohayonline,nohayonline:b15e89b4b0703e4a4f09,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/jab-mashk-bhar.md,round_1,removed_duplicate,nohayonline,nohayonline:b15e89b4b0703e4a4f09,feat/import-overlap-reconciliation-2026-11-05,"2026-11-15 manually consolidated against Basta Soz 33, printed p. 101. Six printed verses; source omits Hamza from printed third verse, another line-reading variant, but contains no independent stanza. Source reciter: Sibte Jafar; archived source URL: https://www.nohayonline.com/details_content.php?id=2702. Imported provisional identity removed, Basta text and permanent source identities unchanged."
 src/data/lyrics/jab-maula-aayenge.md,round_1,present,nohayonline,nohayonline:d595209db4595c04b083,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jab-mere-ghar.md,round_1,present,nohayonline,nohayonline:c503eb1696e49ecb376c,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/jab-meri-zindagi-ka-labrez-jaam-hoga.md,round_1,present,,,feat/import-overlap-reconciliation-2026-11-05,
@@ -2538,7 +2538,7 @@ src/data/lyrics/qaidi-bani-khadi.md,round_1,present,nohayonline,nohayonline:170a
 src/data/lyrics/qaidi-bani-maqtal.md,round_1,present,nohayonline,nohayonline:bf490706c4610b24edc4,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/qaidi-hai-bemaar.md,round_1,present,nohayonline,nohayonline:c5e4c4e2eece58e25889,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/qaidi-hoo-mai.md,round_1,present,nohayonline;ziyaraat,nohayonline:2b313d7793516e6b068a;ziyaraat:50712df9c54004b133ec,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/qaime-may-darya-pa.md,round_1,present,nohayonline,nohayonline:60c8383c1237bf4111f2,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/qaime-may-darya-pa.md,round_1,removed_duplicate,nohayonline,nohayonline:60c8383c1237bf4111f2,feat/import-overlap-reconciliation-2026-11-05,"2026-11-15 manually consolidated against Basta Soz 11, printed p. 98. Six printed verses with variants Khaime meiṅ darya pe kiye / Khaime darya pe kate and do char pahal / do char din; no unique separate verse. Source reciter: Sibte Jafar; archived source URL: https://www.nohayonline.com/details_content.php?id=1247. Imported provisional identity removed, Basta text and permanent source identities unchanged."
 src/data/lyrics/qaimon-ko-jalaya.md,round_1,present,nohayonline,nohayonline:07c96fb76de80c1151c9,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/qamare-fatema-ki.md,round_1,present,nohayonline,nohayonline:3c066389430c19132253,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/qasim-jo-gire.md,round_1,present,nohayonline,nohayonline:ed9ebb9bd1c83a9352a5,feat/import-overlap-reconciliation-2026-11-05,
@@ -2787,7 +2787,7 @@ src/data/lyrics/sar-se-mehdi-ka-jo.md,round_1,present,nohayonline;ziyaraat,nohay
 src/data/lyrics/sar-zainabe-hazeen.md,round_1,present,nohayonline,nohayonline:dd678933a32443bd0d52,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/sare-abbas-aata.md,round_1,present,nohayonline;ziyaraat,nohayonline:89cd65141727a68cc2f9;ziyaraat:8dcc2ed63cce35381858,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/sare-muslim-ye.md,round_1,present,nohayonline,nohayonline:a7109049cb1ed5c14806,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/sare-naiza-wo-farqe.md,round_1,present,nohayonline,nohayonline:995b2682cfc99d13d7a6,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/sare-naiza-wo-farqe.md,round_1,removed_duplicate,nohayonline,nohayonline:995b2682cfc99d13d7a6,feat/import-overlap-reconciliation-2026-11-05,"2026-11-15 manually consolidated against Basta Qita'aat 16, printed p. 87. Four paired verses match the printed qita; the Arabic praise clauses are separately wrapped in imported version. Source reciter: Sibte Jafar; archived source URL: https://www.nohayonline.com/details_content.php?id=1250. Imported provisional identity removed, Basta text and permanent source identities unchanged."
 src/data/lyrics/sare-qabre-zehra.md,round_1,present,nohayonline,nohayonline:3cf541567cca086e9bb2,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/sarhane-lashae-hur.md,round_1,removed_duplicate,nohayonline,nohayonline:b78be9d57a72a2e3e70d,feat/import-overlap-reconciliation-2026-11-05,"2026-11-15 manually compared to Basta Soz 51, p. 105: all six lines printed, including Persian closing verse. Imported reciter: Sibte Jafar; archived source: https://www.nohayonline.com/details_content.php?id=2717. Provisional duplicate lyric identity purged; printed Basta text and permanent source IDs unchanged."
 src/data/lyrics/sarkar-hussain.md,round_1,present,nohayonline,nohayonline:c27361b9afba8c724fda,feat/import-overlap-reconciliation-2026-11-05,
@@ -3241,7 +3241,7 @@ src/data/lyrics/ye-kaifiat-jo-gham.md,round_1,present,nohayonline,nohayonline:51
 src/data/lyrics/ye-karbala-hai.md,round_1,present,nohayonline,nohayonline:8f93e662713bd2c1b8e9,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ye-kaun-gira.md,round_1,present,nohayonline,nohayonline:b9292513e89b6304d448,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ye-kaunsi-basti-hai.md,round_1,present,nohayonline;ziyaraat,nohayonline:91a72514c8b3174c3aea;ziyaraat:ab5b6e764e6cc7cc0710,feat/import-overlap-reconciliation-2026-11-05,
-src/data/lyrics/ye-kaunsi-mastoor-hai.md,round_1,present,nohayonline,nohayonline:dfc5562e3fee34e2a9d7,feat/import-overlap-reconciliation-2026-11-05,
+src/data/lyrics/ye-kaunsi-mastoor-hai.md,round_1,removed_duplicate,nohayonline,nohayonline:dfc5562e3fee34e2a9d7,feat/import-overlap-reconciliation-2026-11-05,"2026-11-15 manually consolidated against Basta Soz (Ye kaun si mastura hai), printed p. 105. Six printed verses; imported rendering splits each verse into two shorter fragments. Source reciter: Sibte Jafar; archived source URL: https://www.nohayonline.com/details_content.php?id=1253. Imported provisional identity removed, Basta text and permanent source identities unchanged."
 src/data/lyrics/ye-kehke-gire.md,round_1,present,nohayonline,nohayonline:7bca88956416cfb8f243;nohayonline:b31ae1e3b22e236359dd,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ye-kehta-hua-doob.md,round_1,present,nohayonline,nohayonline:ed74e3ad9145be009153,feat/import-overlap-reconciliation-2026-11-05,
 src/data/lyrics/ye-khafla-leja-zainab.md,round_1,present,nohayonline,nohayonline:ae67396eab59e673e2f4,feat/import-overlap-reconciliation-2026-11-05,
