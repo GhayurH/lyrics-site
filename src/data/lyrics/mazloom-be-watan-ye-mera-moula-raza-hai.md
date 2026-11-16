@@ -52,6 +52,9 @@ romanLyrics: |-
   Rote Haiṅ Farishte Bhi Zamiṅ, Aur Zamaaṅ Bhi
   Haye Loh o Qalam Arsh-e-Bariṅ Kaun o Makaaṅ Bhi
   Khair-Un-Nisa Ke Laal, Ke Matam Ki Sada Hai
+# source_id: tajpoints:d6efe402f686bfa95a63
+# source_url: https://tajpoints.com/2023/06/mazloom-be-watan-ye-mera-moula-raza-hai.html
+# raw_sha256: b13bdd55f072898edea456b5d04d298b35c8f77931e021852bc1b5f33919f00d
 ---
 
 مظلوم بے وطن یہ مرا مولا رضا ہے
