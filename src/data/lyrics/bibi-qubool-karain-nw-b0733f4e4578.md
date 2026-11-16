@@ -77,6 +77,9 @@ romanLyrics: |-
 # source_metadata_path: snapshots/nohawriteups/metadata/b0733f4e45784c3ffaed.json
 # api_content_sha256: f548decf40efeb1d20a46d3a396a08ace509cf93df9e67ab279754070503bad3
 # editorial_note: Unpublished source-faithful draft from approved valid roman+urdu; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# source_id: tajpoints:529583dd6899374374dc
+# source_url: https://tajpoints.com/2020/12/bibi-qubool-karain-lyrics-in-urdu-and.html
+# raw_sha256: feee33d308bd9ae1be5f4b8cd91484577c5c47645b154ff1a707c6fa5c19d1bb
 ---
 
 بے کس پہ رونے والوں کا
