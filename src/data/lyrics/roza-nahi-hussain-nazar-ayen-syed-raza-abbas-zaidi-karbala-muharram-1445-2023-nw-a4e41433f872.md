@@ -52,10 +52,15 @@ romanLyrics: |-
 # original_html: snapshots/nohawriteups/original_html/a4e41433f872f7db9ae8.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/a4e41433f872f7db9ae8.json
 # api_content_sha256: ac49628e38fdb05cf5350d8224e314fe016d4b592caba700671d320a8a5a3888
-# editorial_note: Unpublished source-faithful draft from approved valid roman+urdu; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
+# editorial_note: Two NohaWriteups copies were exact Urdu duplicates after Unicode/spacing normalization. Preserved the line-divided bilingual edition and all source records.
 # source_id: tajpoints:a74c89fa9477df1c0a8d
 # source_url: https://tajpoints.com/2023/07/roza-nahi-hussain-nazar-ayen-syed-raza.html
 # raw_sha256: a9984db0b4bfaa009ca2d36410e5b48987b95a1bb4690df53baba47c386f2fe1
+# source_id: nohawriteups:23e6b68cefa30498ab16
+# source_url: https://www.nohawriteups.org/roza-nahi-hussain-nazar-ayen-raza-abbas-zaidi-lyrics/
+# original_html: snapshots/nohawriteups/original_html/23e6b68cefa30498ab16.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/23e6b68cefa30498ab16.json
+# api_content_sha256: b5e614b9dde1e5b1ab1a9cef3f45373d5c2f41055bf96837d2c9c56b6e7eb76e
 ---
 
 اے کاش اب کی بار میں جب جاؤں کربلا
