@@ -86,6 +86,11 @@ romanLyrics: |-
 # source_id: nohayonline:e897a73f5eb07730a794
 # source_url: https://www.nohayonline.com/details_content.php?id=290
 # raw_sha256: 4fc40e601d7309dc7ca7217cfc7c26e1ed99e8c2d4fc0f78d5caf5d9b662bf3e
+# source_id: nohawriteups:4ddb2b0b9a58d414624c
+# source_url: https://www.nohawriteups.org/hilale-mahe-moharam-pe-pad-gayi-jo-nazar/
+# original_html: snapshots/nohawriteups/original_html/4ddb2b0b9a58d414624c.html.gz
+# source_metadata_path: snapshots/nohawriteups/metadata/4ddb2b0b9a58d414624c.json
+# api_content_sha256: 2a4d677b2f982a67ae10056464bfdb348832d40135bc42dd9edfc180520e1dfa
 ---
 
 ہلالِ ماہِ محرم پہ پڑ گئی جو نظر
