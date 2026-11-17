@@ -4,6 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Samar"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -48,3 +49,6 @@ Tatheer Di Varis Majmeyaan Jay
 Rayhi Boldi Naal Shaarbi Day
 Baara Okha Zahra Jai Nu
 Bazaar Abhoor Karaaya.
+
+Taboot Te Pak Jageeraan Nu Akhiyaan Nal Bosay De Ke
+Samar Ne Ujariyaan Dhiyaan Da Aj Sara Haal Sunaya

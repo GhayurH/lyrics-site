@@ -4,6 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -46,3 +47,7 @@ Khaab ki vekhaiya Sughra nay, jug paye kowkaa, maar di
 Ghaar piyu da sar da vekhaiya
 
 Zainab nay hay kand tay, Sajjad nu chayaa
+
+Aank Nam Ran Jo Gham Dasvin Day Akhtar Ki Halaat Sunaway
+Ainj Chaliyan Zulm Haneirian Ahmad Di Qabar Da
+Jinna Deevan Bhujaya

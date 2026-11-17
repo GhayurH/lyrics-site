@@ -4,6 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Adil"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -30,6 +31,9 @@ Hath Jiggar Tay Akbar Da, Akhay Amri Aa Gal La.
 
 Yak Lakhat Rubab Royee, Ghash Kar Gayi Qabar Utay,
 Shabeer Dai Seenay Tay, Jadou Asghar Nu Takaiya.
+
+Sano Bhain Bhirawan Nu Karbal Wich Lut Pay Gayi
+Tera Kat Gaya Sar Veran Meri Lut Layi Pak Rida
 
 Main Aun O Muhammad Da, Nahin Poochna Verran Tou,
 Tere Sir Tou Vaar Dittay, O Ban Gaye Nai Sadqa.
