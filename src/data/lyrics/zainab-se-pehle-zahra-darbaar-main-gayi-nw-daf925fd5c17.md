@@ -1,5 +1,6 @@
 ---
-title: "Zainab Se Pehle Zahra Darbaar Main Gayi"
+title: "زینبؑ سے پہلے زہراؑ دربار میں گئی"
+alternateTitle: "Zainab Se Pehle Zahra Darbar Mein Gayi"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"

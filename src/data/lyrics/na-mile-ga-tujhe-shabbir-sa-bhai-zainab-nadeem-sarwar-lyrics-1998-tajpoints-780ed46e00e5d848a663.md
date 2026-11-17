@@ -1,10 +1,12 @@
 ---
-title: "Na Mile Ga Tujhe Shabbir Sa Bhai Zainab Nadeem Sarwar Lyrics 1998"
+title: "نہ ملے گا تجھے شبیرؑ سا بھائی زینبؑ"
+alternateTitle: "Na Milega Tujhe Shabbir Sa Bhai Zainab"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
-kalamType: "Other"
-tags: []
+kalamType: "Noha"
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:780ed46e00e5d848a663
