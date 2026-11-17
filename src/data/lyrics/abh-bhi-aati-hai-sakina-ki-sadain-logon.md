@@ -1,11 +1,11 @@
 ---
-title: "Abh Bhi Aati Hai Sakina Ki Sadain Logon"
+title: "Ab Bhi Aati Hain Sakina Ki Sadaaein Logo"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 tags: ["noUrdu"]
-aliases: []
+aliases: ["Abh Bhi Aati Hai Sakina Ki Sadain Logon"]
 published: false
 # source_id: nohawriteups:911cc2d083a76a5c2549
 # source_url: https://www.nohawriteups.org/abh-bhi-aati-hai-sakina-ki-sadain-logon/
@@ -16,35 +16,45 @@ published: false
 # editorial_note: Two source captures have the same six substantive three-line stanzas; removed x2 notation. Roman text requires transliteration pass; unpublished.
 ---
 
-Abh Bhi Aati Hai Sakina Ki Sadain Logon, Hy Zindaano Say
-Meray Baba Ko Mila Do, Main Duaain Dun Gi, Siskian Lay Kai Jo Kehti Thi Musalmano Say
+Ab bhi aati haiṅ Sakina ki sadaaeṅ logo, haaye zindaanoṅ se
+Mere Baba ko mila do, maiṅ duaaeṅ duṅgi, siskiyaaṅ le ke jo kehti thi musalmaanoṅ se
 
-۱
-Bolay Sajaad Sakina, Yeh Muqadaar Tera
-Bay Kafan Tujh Ko Liyai Phirta Hun Bazaron Main
-Aur Lahu Aaj Bhi Jaari Hain Teray Khaano Say
+1
+Bole Sajjad Sakina, ye muqaddar tera
+Bekafan tujh ko liye phirta huṅ bazaaroṅ meiṅ
+Aur lahu aaj bhi jaari hai tere kaanoṅ se
 
-۲
-Ja Kai Maqtal Main Pukaari, Yeh Sakina Roo Kaar
-Bhaiya Qasim Meray Akber, Tum Kahan Ho Saarai
-Meray Baba Ko Bacha Lo Aakai Shaitanon Say
+2
+Jaa ke maqtal meiṅ pukaari ye Sakina ro kar
+Bhaiya Qasim, mere Akbar, tum kahaaṅ ho saare
+Mere Baba ko bacha lo aa ke shaitaanoṅ se
 
-۳
-Jab Chalee Ghar Say Teray Saath Sabhi Thay Zainab
-Awn-o-Muhammad-o-Akbar Yaad Atay Hongay
-Laut Kay Aatee Jo Hogee Tu Qaid Khaano Say
+3
+Jab chali ghar se tere saath sabhi the Zainab
+Aun o Muhammad o Akbar yaad aate hoṅge
+Laut ke aati jo hogi tu qaidkhaanoṅ se
 
-۴
-Labay Dariya Say Alamdar Ki Aayi Yeh Saada
-Ay Sakina Tujh Sai Shaarminda Hain Chacha Tera
-Paani Phoncha Na Saka Hy Katay Shaano Say
+4
+Lab-e-darya se Alamdar ki aayi ye sada
+Ae Sakina tujh se sharminda hai chacha tera
+Paani pahunchaa na saka haaye kate shaanoṅ se
 
-۵
-Aat Azaan Bayak Waqt, Fazah Main Goonji
-Sani-e-Zahra Kai Khutbon Ko Dabanay Kay Liyai
-Shor Barpa Kiya Darbar, Main Azaano Say
+5
+Aath azaaneṅ ba-yak waqt fiza meiṅ gunjiṅ
+Saani-e-Zahra ke khutboṅ ko dabaane ke liye
+Shor barpa kiya darbaar meiṅ azaanoṅ se
 
-۶
-Qaimay Alay Muhammad Yeh Hay Akhtar Kee Dua
-Sacha Hasnain Ka Hai Maula Sadayay Matam
-Kis Tarha Hashar Talak Goonjay Azakhaano Say
+6
+Boli masuma phuphi, rit hai ye Shaamiyoṅ ki
+Kar ke paaband-e-rasan aur gira ke patthar
+Is tarah koi to milta nahiṅ mehmanoṅ se
+
+7
+Saath ghoroṅ ke masumoṅ ko dauraaya jaaye
+Kisi qaanun ya mazhab meiṅ kabhi aisa suluk
+Koi insaan to karta nahiṅ insaanoṅ se
+
+8
+Qayam-e-Aal-e-Muhammad ye hai Akhtar ki dua
+Sadqa Hasnain ka ae Maula, sada-e-matam
+Is tarah hashr talak gunje azakhaanoṅ se
