@@ -1,5 +1,5 @@
 ---
-title: "شبِ عاشور خیمئہ کلثوم سے آتی تھی صدا"
+title: "کاش میرا کوئی بیٹا ہوتا"
 alternateTitle: "Kaash Mera Koi"
 language: "Urdu"
 lang: "ur"

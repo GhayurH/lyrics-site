@@ -1,5 +1,5 @@
 ---
-title: "جب گرے گھوڑے سے مقتل میں شہے کرب و بلا"
+title: "ابھی خنجر نہ چلا"
 alternateTitle: "Abhi Khanjar Na Chala"
 language: "Urdu"
 lang: "ur"

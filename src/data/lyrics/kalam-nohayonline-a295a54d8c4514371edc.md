@@ -1,5 +1,5 @@
 ---
-title: "خواب میں جو زہرا نے بابا کو دیکھا ایک شب"
+title: "وصیت زہرا اور حسین"
 alternateTitle: "Wasiyat Zehra Aur"
 language: "Urdu"
 lang: "ur"

@@ -1,5 +1,5 @@
 ---
-title: "چادر نہ کفن ہے دور وطن"
+title: "چادر دکھا دکھا کے"
 alternateTitle: "Chadar Dikha Dikha"
 language: "Urdu"
 lang: "ur"

@@ -1,11 +1,12 @@
 ---
-title: "فجر انیسویں رمضاں کی تڑپاتی ہے"
+title: "آ دیکھ لے زینب تیرا زخمی بابا"
 alternateTitle: "Zainab Tera Zakhmi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
+reciter: "Mir Hasan Mir"
 tags: []
 aliases: []
 published: false

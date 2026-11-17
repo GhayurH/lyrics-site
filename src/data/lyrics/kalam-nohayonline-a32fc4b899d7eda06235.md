@@ -1,11 +1,12 @@
 ---
-title: "شکستہ بازو شکستہ پہلو"
+title: "دفن کیسے ہوئی زہرا"
 alternateTitle: "Dafn Kaise Hui"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zeeshan Abidi"
+reciter: "Shahid Baltistani"
 tags: []
 aliases: []
 published: false
