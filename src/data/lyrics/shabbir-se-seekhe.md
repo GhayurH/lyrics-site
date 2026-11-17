@@ -35,6 +35,10 @@ romanLyrics: |-
   Tha mohsin-e-Islam ko tiroṅ se bachaana
 
   5
+  Asghar ki lehad khod ke Shabbir ye bole
+  Ae qabr mere bachche ki gardan na dikhaana
+
+  6
   Ham nauha kunaaṅ aaye idhar farsh-e-aza par
   Purse ke liye Faatima Zehra chali aayi
   Kal majlis-e-Shabbir ko Zainab thi tarasti
@@ -70,6 +74,10 @@ romanLyrics: |-
 تھا محسن اسلام کو تیروں سے بچانا
 
 ۵
+اصغر کی لحد کھود کے شبیر یہ بولے
+اے قبر میرے بچے کی گردن نہ دکھانا
+
+۶
 ہم نوحہ کناں آئے ادھر فرش عزا پر
 پرسے کے لئے فاطمہ زہرا چلی آئی
 کل مجلسِ شبیر کو زینب تھی ترستی
