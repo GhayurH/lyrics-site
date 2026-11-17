@@ -5,7 +5,7 @@ lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 tags: ["noUrdu"]
-aliases: []
+aliases: ["Akhiyaan Fazal Diyaan Takdiyaan Reh Gayiyaan"]
 published: false
 # source_id: nohawriteups:0f12489f72a6f0edff23
 # source_url: https://www.nohawriteups.org/akhiyan-fazal-diyaan-takdiyan-reh-gaiyaan/
@@ -13,28 +13,38 @@ published: false
 # additional_source_id: nohawriteups:6b12adf581732b13adf1
 # additional_source_url: https://www.nohawriteups.org/akhiyan-fazal-diyan/
 # additional_raw_sha256: 6f449f65a1caf2844973f4b1e6c3ad95a2703e053823a8eaf226f0f59a01b264
-# editorial_note: Roman Panjabi lyrics, four substantive stanzas present in both source captures. Language field remains Roman Urdu for current schema; linguistic classification and spellings require review.
+# editorial_note: Six substantive stanzas reconciled; alternate opening for stanza 6 is "Iss War Vi Qalam Ne Tafseer Kul Sunai"
 ---
 
-Akhiyan Fazal Diyaan, Takdiyan Reh Gaiyaan
-Ghazi Diyan Bhaina Diyan Chadraan, Jadon Sir Ton Lay Gaiyan
+Akhiyan Fazal diyaan, takdiyan reh gaiyaan
+Ghazi diyaan bhaina diyaan chadraan, jadon sir ton lai gaiyaan
 
 ۱
-Lut De Raye Musalmaan, Phupiyan De Goshwaaray
-Ronda Reya Ay Tak Ke, Jadon Lokan Khaymay Saaray
-Jevain Baldiyan Baawaan Wichon Phupiyan, Abid Bacha Gaiyan
+Lutde rahe Musalmaan phuphiyaan de goshwaare
+Ronda riha ae tak ke jadon lokaan khaime saare
+Kiwein baldiyaan baawaan wichon phuphiyaan Abid bacha gaiyaan
 
 ۲
-Karbal Ch Vairi Lokaan, Lut Laiyaan Jadh Ridawan
-Challeya Na Koi Chaara, Reya Bharda Ho Ke Haawan
-Phupiyaan Diyan Baawan, Wich Loko, Jadon Rassiyan Peh Gaiyaan
+Karbal ch wairi lokaan lut laiyaan jad ridawaan
+Challeya na koi chaara, riha bharda ho ke haawaan
+Phuphiyaan diyaan baawaan wich loko jadon rassiyaan pai gaiyaan
 
 ۳
-Kenda Reya Ay Maan Nu, Ik Waar Day Ijazat
-Dunya Nu Aj Wikhawan, Enjh Pyu Di Mai Shujaat
-Zahra Diyan Jaiyaan Ay Na Samjhun, Assi Kalliyan Reh Gaiyan
+Kehnda riha ae maa nu ik waar de ijaazat
+Duniya nu aj wikhaawaan inj piyo di maiṅ shujaat
+Zahra diyaan jaiyaan ae na samjho assi kaliyaan reh gaiyaan
 
 ۴
-Rizwan Di Kalum Ne, Tafseer Kul Sunaayi
-Es Gal Di Dendi Payi Ay, Taareekh Wi Gawaahi
-Sehdaniyaan De Ghum Diyan Gallaan, Kuj Baaqi Reh Gaiyann
+Babay di shakal waala duniya ton tur gaya ae
+Khaali alam bhira da jadon khaime aa gaya ae
+Oss waqt yateemi diyaan ghariyaan bhainaan te chhaa gaiyaan
+
+۵
+Shaam-e-gharibaan guzaari, laashe kite pamaal ae
+Sir naiziyaan te chaa ke jiwein Shaami tur pai naal ae
+Jurtaan Fazal diyaan Allah jaane kiwein zulm seh gaiyaan
+
+۶
+Rizwan di qalam ne tafseer kul sunaayi
+Iss gal di dendi pai ae taarikh vi gawaahi
+Sayyidaniyaan de gham diyaan gallaan kujh baaqi reh gaiyaan
