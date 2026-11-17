@@ -1,6 +1,6 @@
 ---
-title: "یا علی مولا علی مولا علی"
-alternateTitle: "Hai Waqt-e-Sehar"
+title: "ہے وقتِ سحر خوں میں تر وارثِ قرآن"
+alternateTitle: "Hai Waqt-e-Sehar Khun Meiṅ Tar Waaris-e-Quraan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -47,6 +47,11 @@ romanLyrics: |-
   Zam zam meiṅ talaatum hai to Kausar meiṅ hai tufaaṅ
 
   7
+  Ab Naad-e-Ali parh ke Nabi kis ko bulaayeṅ
+  Rukti hi nahiṅ Sarwar-e-kaunain ki aaheṅ
+  Kaabe ke dar o baam bhi maatam se haiṅ larzaaṅ
+
+  8
   Rehaan hai Rizwaan-e-jinaaṅ chaak garebaaṅ
   Hai baagh-e-Iram baagh-e-Fidak ki tarah giryaaṅ
   Hasnain ka baaba hai zara der ka mehmaaṅ
@@ -90,6 +95,11 @@ romanLyrics: |-
 زم زم میں تلاطم ہے تو کوثر میں ہے طوفاں
 
 ۷
+اب نادِ علی پڑھ کے نبی کس کو بلائیں
+رکتی ہی نہیں سرورِ کونین کی آہیں
+کعبے کے در و بام بھی ماتم سے ہیں لرزاں
+
+۸
 ریحان ہے رضوان جناں چاک گریباں
 ہے باغ ارم باغ فدک کی طرح گریاں
 حسنین کا بابا ہے ذرا دیر کا مہماں

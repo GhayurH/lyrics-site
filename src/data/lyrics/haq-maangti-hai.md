@@ -1,6 +1,6 @@
 ---
-title: "دربار میں کھڑی ہوئی کہتی ہے فاطمہ"
-alternateTitle: "Haq Maangti Hai"
+title: "حق مانگتی ہے زہرا"
+alternateTitle: "Haq Maangti Hai Zehra"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

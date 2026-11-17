@@ -1,6 +1,6 @@
 ---
 title: "ہاتھ پہلو سے ہٹایا نہیں جاتا بابا"
-alternateTitle: "Haath Pehlu Se Hataya"
+alternateTitle: "Haath Pehlu Se Hataya Nahiṅ Jaata Baba"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

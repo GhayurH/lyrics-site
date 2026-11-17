@@ -1,6 +1,6 @@
 ---
-title: "شہیدِ کربلا ہے دین کی بقا،"
-alternateTitle: "Hashr May Rang Layega"
+title: "حشر میں رنگ لائے گا خونِ شہیداں دیکھنا"
+alternateTitle: "Hashr Meiṅ Rang Laayega Khun-e-Shahidaaṅ Dekhna"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
