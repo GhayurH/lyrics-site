@@ -63,6 +63,14 @@ romanLyrics: |-
   Pyasi hai Sakina
 
   7
+  Thi dil ki tamanna wahi maut aaye mujhe bhi
+  Turbat hai taraai pe jahaaṅ mere chacha ki
+  Ek chhoti si saahil pe bane qabr bhi meri
+  Ye aakhri khwaahish bhi na ho paayegi puri
+  Mar kar bhi rahega mera zindaaṅ meiṅ thikaana
+  Pyasi hai Sakina
+
+  8
   Anwar ye sada parcham-e-Abbas se aayi
   Maiṅ bhul nahiṅ sakta Sakina meri bachchi
   Kaate gaye baazu mere majbur tha Bibi
@@ -128,6 +136,14 @@ romanLyrics: |-
 پیاسی ہے سکینہ
 
 ۷
+تھی دل کی تمنا وہیں موت آئے مجھے بھی
+تربت ہے ترائی پہ جہاں میرے چچا کی
+اک چھوٹی سی ساحل پہ بنے قبر بھی میری
+یہ آخری خواہش بھی نہ ہو پائے گی پوری
+مر کر بھی رہے گا میرا زنداں میں ٹھکانا
+پیاسی ہے سکینہ
+
+۸
 انور یہ صدا پرچمِ عباس سے آئی
 میں بھول نہیں سکتا سکینہ میری بچی
 کاٹے گئے بازو میرے مجبور تھا بی‌بی
