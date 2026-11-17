@@ -42,6 +42,22 @@ Mazlooma-o-Mehrooma Ke Shohar Ke Haath Mein
 Sub Kainaat Hai, Usnay Sitam Bhi Jhelay, Par Baddua Na Di.
 
 5
+Taraaj Kitnay Rozay Keeyai Zaalimeen Nay
+Bint-e-Ali Kay Rozay Ko Dhaanay Kay Waastay Zaalim Jama Huay
+Aal-e-Nabi Pay Hota Hai Zulm Aaj Bhi
+
+6
+Aati Hain Sadaaeyn Ye Baqeeya Ki Simt Say
+Bas Ye Sawal Mera Musalmaan Tujh Say Hai
+Batla Day Tu Mujhai
+Zahra Ki Qabr Pur Kyun Saaya Nahien Koi
+
+7
+Haey Maiyat-e-Zahra Ko Tha Sab Nay Vida Kiya
+Maa Aaounga Mei Milnay Faqat Daygi Gar Sada Shabeer Ro Diya
+Band-e-Kafan Jo Toota Qainaat Ro Pari
+
+8
 Jo Bibi Mubahila Mein Gayi Lauti Shan Se
 Ghairon Ne Ossay Beti Kaha Sar Bhi Tha Dhanpa Jageer Bhi Di Thi
 Ummat Ne Woh Bhi Akhtar Jageer Loot Li

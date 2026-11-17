@@ -1,6 +1,6 @@
 ---
 title: "ماتم کی صداؤں سے ہم عرش ہلا دیں گے"
-alternateTitle: "Esyaṅ Nahi Ye Matam"
+alternateTitle: "Maatam Ki Sadaaoṅ Se Hum Arsh Hila Deṅ Ge"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
