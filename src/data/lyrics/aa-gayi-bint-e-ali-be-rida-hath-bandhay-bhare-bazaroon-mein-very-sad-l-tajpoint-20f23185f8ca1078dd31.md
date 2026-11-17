@@ -1,5 +1,5 @@
 ---
-title: "Aa Gayi Bint E Ali Be Rida Hath Bandhay Bhare Bazaroon Mein Very Sad Lyrics 1999"
+title: "Aa Gayi Bint-e-Ali Berida Haath Baandhe"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
@@ -14,26 +14,37 @@ published: false
 # additional_source_id: nohawriteups:022d474332b9c75fcdf1
 # additional_source_url: https://www.nohawriteups.org/agai-bint-e-ali-be-rida-haath-bandhay/
 # additional_raw_sha256: dff9c454fc4185293679359885d63a696d04273f20a8e7eae49067dc2297f2fc
-# additional_source_note: Six matching source stanzas. TajPoints copy groups two source stanzas per numbered section; stanza segmentation still needs editorial normalization.
 ---
 
-Aa Gayi Bint e Ali Be Rida Hath Bandhay Bhare Bazaroon Mein.
-Jis Ne Soraj Na Kabhi Dekha Tha Ro Rahi Hai Woh Gunahgaron Mein.
+Aa gayi Bint-e-Ali berida, haath baandhe bhare bazaaroṅ meiṅ
+Jis ne suraj na kabhi dekha tha, ro rahi hai wo gunahgaaroṅ meiṅ
 
 1
-Kaun Jane Keh Yeh Hai Kaun Rasan Pehne Hoye Be Rida Roti Hai Sajjad Ke Pichey Chup Kar.
-Siskiyaan Dobi Hain Jis Bibi Ki Haye Zanjeron Ki Jhankaron Mein.
-Haye Zahra Teri Qismat Na Mila Haq Tujh Ko Aisi Tazeem Teri Ki Hai Musalmano Ne.
-Tera Haq Mangney Aayi Zainab Aik May Noosh Ke Darbaron Mein.
+Kaun jaane ke ye hai kaun, rasan pehne hue
+Berida roti hai Sajjad ke pichhe chhup kar
+Siskiyaaṅ dubi haiṅ jis Bibi ki, haaye zanjiron ki jhankaaroṅ meiṅ
 
 2
-Kahan Zainab Our Kahan Sham Ke Logon Ka Hajoom Sar Barehna Onchi Aawaz Mein Khutbay Parhna.
-Khatam-e-Mursal Ka Hawala De Kar Chadrein Mangna Badkaron Mein.
-Aag Khaimon Ko Lagi Our They Sajjad Be Hosh Ro Ro Abbas Ko Deti Thi Sadaein Zainab.
-Loot Lo Chadrein Syedaniyon Ki Shoor Barpa Tha Sitamgaron Mein.
+Haaye Zahra teri qismat, na mila haq tujh ko
+Aisi taazim teri ki hai Musalmaanoṅ ne
+Tera haq maaṅgne aayi Zainab ek mai-nosh ke darbaaroṅ meiṅ
 
 3
-Kis Tarha Bali Sakina Aaj Baba Ke Beghair So Gayi Chain Se Tanhai Mein Rotay Rotay.
-Hichkiyaan Dab Gayin Masooma Ki Haye Zindan Ki Dewaron Mein.
-Jis Jagah Majlis-e-Shabbir Ho Barpa Akhtar Chor Kar Baqiya Wahan Roti Hai Zahra Aa Ke.
-Baal Kholay Hoye Sar Peetti Hai Apne Pyaron Ke Azadaron Mein.
+Kahaaṅ Zainab aur kahaaṅ Shaam ke logoṅ ka hujum
+Sar-barehna unchi aawaaz meiṅ khutbe parhna
+Khatam-e-Mursal ka hawaala de kar chaadareiṅ maaṅgna badkaaroṅ meiṅ
+
+4
+Aag khaimoṅ ko lagi aur the Sajjad behosh
+Ro ro Abbas ko deti thi sadaaeṅ Zainab
+Lut lo chaadareiṅ Sayyidaniyoṅ ki, shor barpa tha sitamgaroṅ meiṅ
+
+5
+Kis tarah baali Sakina aaj Baba ke baghair
+So gayi chain se tanhaai meiṅ rote rote
+Hichkiyaaṅ dab gayiṅ masuma ki, haaye zindaan ki diwaaroṅ meiṅ
+
+6
+Jis jagah majlis-e-Shabbir ho barpa Akhtar
+Chhor kar Baqiya wahaaṅ roti hai Zahra aa ke
+Baal khole hue sar piti hai apne pyaaroṅ ke azaadaaroṅ meiṅ
