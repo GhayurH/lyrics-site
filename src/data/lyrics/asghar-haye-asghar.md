@@ -52,6 +52,18 @@ romanLyrics: |-
   Asghar haye Asghar
 
   7
+  Bano bhi ro rahi hai, kis darja bekasi hai
+  Asghar teri lehad par, khud maut keh rahi hai
+  Ae chhe mahine waale tujh ko mera salaam
+  Asghar haye Asghar
+
+  8
+  Puchho Ali Ziya se, irfaan-e-Karbala se
+  Bano ke dil ko deṅ ge, ye lafz hi dilaase
+  Ae chhe mahine waale tujh ko mera salaam
+  Asghar haye Asghar
+
+  9
   Taarikh-e-Karbala ko, parh kar Anis dekho
   Qaatil bhi sar jhukaaye, kehte mileṅ ge tum ko
   Ae chhe mahine waale tujh ko mera salaam
@@ -107,6 +119,18 @@ romanLyrics: |-
 اصغرؑ ہائے اصغرؑ
 
 ۷
+بانو بھی رو رہی ہے، کس درجہ بے کسی ہے
+اصغرؑ تیری لحد پر، خود موت کہہ رہی ہے
+اے چھ مہینے والے تجھ کو میرا سلام
+اصغرؑ ہائے اصغرؑ
+
+۸
+پوچھو علی ضیا سے، عرفانِ کربلا سے
+بانو کے دل کو دیں گے، یہ لفظ دلاسے
+اے چھ مہینے والے تجھ کو میرا سلام
+اصغرؑ ہائے اصغرؑ
+
+۹
 تاریخ کربلا کو، پڑھ کر انیس دیکھو
 قاتل بھی سر جھکائے، کہتے ملیں گے تم کو
 اے چھ مہینے والے تجھ کو میرا سلام
