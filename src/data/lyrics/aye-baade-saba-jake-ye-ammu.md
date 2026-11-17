@@ -4,6 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Anwar"
 tags: ["noUrdu"]
 aliases: []
 published: false
