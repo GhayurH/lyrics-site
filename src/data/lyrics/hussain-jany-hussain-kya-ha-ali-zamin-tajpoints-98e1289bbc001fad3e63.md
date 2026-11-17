@@ -6,7 +6,7 @@ direction: "ltr"
 kalamType: "Manqabat"
 poet: "Fakhira Batool Naqvi"
 reciter: "Master Ali Zamin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:98e1289bbc001fad3e63

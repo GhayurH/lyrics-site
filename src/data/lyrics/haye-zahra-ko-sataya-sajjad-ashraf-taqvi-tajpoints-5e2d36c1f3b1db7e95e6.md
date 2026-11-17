@@ -6,7 +6,7 @@ direction: "ltr"
 kalamType: "Noha"
 poet: "Zafar"
 reciter: "Sajjad Ashraf Taqvi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5e2d36c1f3b1db7e95e6

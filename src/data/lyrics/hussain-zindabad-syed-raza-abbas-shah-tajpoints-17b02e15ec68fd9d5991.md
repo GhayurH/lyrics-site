@@ -6,7 +6,7 @@ direction: "ltr"
 kalamType: "Noha"
 poet: "Mazhar"
 reciter: "Syed Raza Abbas Shah"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:17b02e15ec68fd9d5991

@@ -5,7 +5,7 @@ lang: ur
 direction: ltr
 kalamType: Manqabat
 poet: Muhib
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2a2cd578e0180b3ffb84
