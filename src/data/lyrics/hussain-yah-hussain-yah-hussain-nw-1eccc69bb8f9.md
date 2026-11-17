@@ -1,5 +1,5 @@
 ---
-title: "Hussain Yah Hussain Yah Hussain"
+title: "Husain Ya Husain"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
@@ -15,36 +15,44 @@ published: false
 # editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
-Hussain yah hussain yah hussain yah hussain x4
+Husain ya Husain
 
-Zahra kah ladla, bay jurm aur bay kaatah, hy maara gaya
+Zahra ka laadla, bejurm o bekhata, haaye maara gaya
+Ghurbat ki ye shab hai, berida Zainab hai
+Karti hai ro ro kar Zainab yehi fughaaṅ
 
-Gurbaat ki, yeh shaab hai, bay parda, zaynab hai, kaarti hai, roro kaar, zaynab yehi fuhgaar.
+1
+Wo jo lahu lahu hai, Khaaliq ki aabru hai
+Ae Shaah-e-Karbala, mahshar talak Khuda mamnun hai tera
+Tu haq ka rehbar hai, nabiyoṅ se bartar hai
+Tere hi sadqe meiṅ baaqi hai ye jahaaṅ
 
-Woh jo lahu lahu hai, khaliq khi abharoo hai, ay shah ay karbala, maishaar talak khuddah, maamnoon hai tera
+2
+Zainab ko bas ye gham hai, is baat ka alam hai
+Bar khaak-e-Nainawa Zahra ke laal ka laasha para raha
+Zainab ko yaad aayi bhaai ki tanhaayi
+Jab ran se jaata tha pyaasoṅ ka kaarwaaṅ
 
-Tu haq kah, raahbaar hai, nabhiyoon sei, bhaar kaar hai, teray hi, saadkay main, baakhi hai yeh jahaan.
+3
+Sehmi hui Sakina, pyaasi hai wo hazina
+Deti rahi sada, gauhar mere chhine, daaman bhi jal gaya
+Suna ye sehra hai, ae baba, jangal meiṅ
+Ye dukhiya maqtal meiṅ dhunde tujhe kahaaṅ
 
-Zaynab ko baas yeh ghaam hai, ek baat kah alaam hai, baar khaak ay naynwaah, Zahra kay laal kah, laasha paara rahaa
+4
+Baba ko rone waali, sine pe sone waali
+Ab saari zindagi baba ko roegi, kaise wo soegi
+Ghabra kar khaimoṅ se niklegi pyaasi wo
+Dhundegi baba ko laashoṅ ke darmiyaaṅ
 
-Zaynab ko, yaad aayi, bhayi ki, taanhayi, jab run sai, jaata tah, pyaaso kah kaarvan.
+5
+Baad-e-Husain Zainab Shabbir ban gayi hai
+Jab khaime jal gaye, laashe pe bhaai ke hamshir ne kaha
+Ummat ne ye tujh se waada hai Zainab ka
+Ye teri qurbaani hogi na raayegaaṅ
 
-Saymi howi sakina, pyassi hai woh hazeena, dethi rayhi sadaah, gohaar meray chinay, daaman bhi jaal gaya
-
-Soona yeh, sehra hain, ay baba, jangaal main, yeh dukhiyah, maktaal main, dhoonday tujhe kahaa.
-
-Baba ko roonay waali, seenay peh soonay waali, ab saari zindagi, baba ko roway gi , kaysay who sohway gi
-
-Gaabrah kaar, khaymo sai, niklay gi, pyaasi woh, dhoonday gi, baba ko, laasho kay dhaar miyah.
-
-Baaday hussain zaynab, Shabbire baan gaye hai, jab khaimei jaalgaye, laashay peh bhayi kay, humsheer nai kahaa
-
-Ummat ney, yeh tuj sei, waada hai, zaynab kah, yeh teri, kurbaani, hogi nah rahay khaar.
-
-Baas ay moheeb yeh mataam, zaynab ki arzoo hai, jo apnei bhayi ko, baan mei nah roo sakhi, ay bintay Mustapha
-
-Kasim kah, Akbar kah, Zahra kay, dilbaar kah, dethay hai, saab pursa, yeh teray noha khan.
-
-Zahra kah ladla, bay jurm aur bay kaatah, hy maara gaya
-
-Gurbaat ki, yeh shaab hai, bay parda, zaynab hai, kaarti hai, roro kaar, zaynab yehi fuhgaar.
+6
+Bas ae Mohib ye maatam Zainab ki aarzu hai
+Jo apne bhaai ko ban meiṅ na ro saki, ae Bint-e-Mustafa
+Qasim ka, Akbar ka, Zahra ke dilbar ka
+Dete haiṅ sab pursa, ye tere nauhakhwaaṅ
