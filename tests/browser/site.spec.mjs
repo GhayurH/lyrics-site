@@ -220,3 +220,22 @@ test("empty correction can be cancelled and reopened without submitting", async 
   await page.keyboard.press("Escape");
   await expect(dialog).toBeHidden();
 });
+
+test("About guide keeps its bilingual introduction and all feature routes reachable", async ({ page }) => {
+  await page.goto("/about/");
+  const intro = page.locator(".about-intro");
+  await expect(intro.locator('section[lang="en"]')).toBeVisible();
+  await expect(intro.locator('section[lang="ur"]')).toBeVisible();
+  for (const id of ["purpose", "discover", "reading", "basta", "saved", "recitations", "contact", "support"]) {
+    await expect(page.locator(`#${id}`)).toBeVisible();
+    await expect(page.locator(`.about-contents a[href="#${id}"]`)).toHaveCount(1);
+  }
+  await expect(page.locator(".about-feature")).toHaveCount(22);
+  await expect(page.locator("#support")).toContainText("Free and ad-free. Always.");
+  await expect(page.locator("#support .about-support-action"))
+    .toHaveAttribute("href", /^mailto:lyricsadmin@gmail\.com/);
+
+  await page.setViewportSize({ width: 390, height: 844 });
+  await expect.poll(() => page.evaluate(() => document.documentElement.scrollWidth - innerWidth))
+    .toBeLessThanOrEqual(2);
+});

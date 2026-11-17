@@ -42,10 +42,11 @@
     "@playwright/test": "1.65.1",
     "pagefind": "^1.6.0",
     "typescript": "^6.0.3",
-    "wrangler": "^4.162.0"
+    "wrangler": "^4.164.0"
   },
   "allowScripts": {
     "esbuild@0.28.2": true,
-    "workerd@1.20261113.1": true
-  }
+    "workerd@1.20261117.1": true
+  },
+  "packageManager": "npm@12.2.2"
 }
