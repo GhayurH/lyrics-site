@@ -1,9 +1,10 @@
 ---
-title: "Ajeeb Haal Mein Hain Fatima"
+title: "عجیب حال میں ہیں فاطمہؑ کے دونوں پسر"
+alternateTitle: "Ajeeb Haal Mein Hain Fatima Ke Dono Pisar"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
-kalamType: "Other"
+kalamType: "Noha"
 poet: "Akbar"
 tags: []
 aliases: []

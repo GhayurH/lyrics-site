@@ -4,6 +4,7 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
+poet: Akhtar
 tags: []
 aliases: []
 published: false
@@ -54,7 +55,15 @@ romanLyrics: 'Jaltay huay khaimo se, Zainab ki sada aayi, Abbas kahan ho tum
 
   Haey baap ke hathon se, Zainab se ro ro ke
 
-  Dastar imamat ki, Sajjad ko pehnayi, Abbas kahan ho tum'
+  Dastar imamat ki, Sajjad ko pehnayi, Abbas kahan ho tum
+
+  6
+
+  Bachchon ko daraya hai Karbal ki udasi ne
+
+  Akhtar ye kaha hoga Ahmad ki nawasi ne
+
+  Maqtal mein hai sannata aur maut ki tanhai, Abbas kahan ho tum'
 # source_id: ziyaraat:1594708c47bfb5338f18
 # source_url: https://www.ziyaraat.net/api/noha/2841
 # raw_sha256: 586bd731a72eeb0a626f33bc724a867a729d4bcbf494a8c876e82b5c0f749d8d
@@ -93,3 +102,8 @@ romanLyrics: 'Jaltay huay khaimo se, Zainab ki sada aayi, Abbas kahan ho tum
 کلثومؑ نے سر پیٹا، مقتل میں کھڑے ہو كے
 ہئے کانپتے ھاتھوں سے، زینبؑ نے رو رو كے
 دستار امامت کی، سجادؑ کو پہنائی
+
+۶
+بچوں کو ڈرایا ہے کربل کی اداسی نے
+اخترؔ یہ کہا ہو گا احمدؐ کی نواسی نے
+مقتل میں ہے سناٹا اور موت کی تنہائی
