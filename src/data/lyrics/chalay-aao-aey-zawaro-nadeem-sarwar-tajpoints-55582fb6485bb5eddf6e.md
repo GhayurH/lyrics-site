@@ -1,10 +1,10 @@
 ---
-title: "Chalay Aao Aey Zawaro Nadeem Sarwar"
+title: "Chale Aao Ae Zawwaro"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
-kalamType: "Other"
-tags: []
+kalamType: "Noha"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:55582fb6485bb5eddf6e
@@ -12,8 +12,13 @@ published: false
 # raw_sha256: 59a4569247445a8ca525d31ce3254f0cefbd147a434480cefe1e8d3c056f4538
 ---
 
-1
-Chalay Aao Aey Zawaro Nadeem Sarwar.
+Labbaik Aba Abdillah
+Ae mere Maula Shah-e-Karbala
+Bakhshish ka, shifa ka hai aap waseela
+Rauze pe bula lo, zawwar bana do, qismat ko jaga do
+Ae Shah-e-Shaheedan, ejaaz dikha do, Maula ab hum ko sada do
+
+Chaley Aao Aye Zawwaro Chaley Aao.
 Chaley Aao Aye Zawwaro Chaley Aao.
 Meri Aawaz Pe Labaik Pukarey Jao.
 Labaik Ya Hussain.

@@ -1,11 +1,11 @@
 ---
-title: "Veer Akbar Kiwein Jewaan Gi Lyrics In Punjabi 2010"
+title: "Veer Akbar Kiwein Jewaan Gi"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
-kalamType: "Other"
+kalamType: "Noha"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a7ae401c9537b19b0e5c
