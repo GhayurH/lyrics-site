@@ -37,12 +37,18 @@ romanLyrics: |-
   Hai jiska naam alam par hussain haye hussain
   
   5
+  Pahar hai nok-e-sinaaṅ, do pahar hai khanjar ka
+  Ye Shaam naiza ho jaise, ye raat hai talwaar
+  Har ek lamha hai barchhi hamaare sinoṅ par
+  Har ek shaam hai nashtar, Husain haaye Husain
+
+  6
   Badan tha jism ali ka lahoo rasool ka tha
   Jigar hassan ka tha seene mein dil batool ka tha
   Wo jism chod ke aayi hoo tapte sehra mein
   Wo sar hai noke sina par hussain haye hussain
   
-  6
+  7
   Jo hum pe toot gaya aasman e ranj o mehan
   Qayaam qaid mein hota hai aur safar mein rasan
   Aseeri bebasi o bekasi ke aalam mein
@@ -79,12 +85,18 @@ romanLyrics: |-
 ہے جسکا نام الم پر حسین ہاے حسین
 
 ۵
+پہر ہے نوکِ سناں، دو پہر ہے خنجر کا
+یہ شام نیزہ ہو جیسے، یہ رات ہے تلوار
+ہر ایک لمحہ ہے برچھی ہمارے سینوں پر
+ہر ایک شام ہے نشتر حسین ہائے حسین
+
+۶
 بدن تھا جسم علی کا لہو رسول کا تھا
 جگر حسن کا تھا سینے میں دل بتول کا تھا
 وہ جسم چھوڑ کے آی ہوں تپتے صحرا میں
 وہ سر ہے نوکِ سِناں پر حسین ہاے حسین
 
-۶
+۷
 جو ہم پہ ٹوٹ گیا آسمان رنج و محن
 قیام قید میں ہوتا ہے اور سفر میں رسن
 اسیری بے بسی و بیکسی کے عالم میں
