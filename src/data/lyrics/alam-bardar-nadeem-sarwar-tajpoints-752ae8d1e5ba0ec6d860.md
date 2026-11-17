@@ -9,139 +9,61 @@ tags: []
 aliases: []
 published: false
 alternateTitle: Alam Bardar Nadeem Sarwar
-romanLyrics: 'Ye kaun hai falak saara larazta hai
-
-
-  1
-
+romanLyrics: |-
+  Ye kaun hai falak saara larazta hai
   Ye kaun hai zameen ka dil dhadakta hai
-
   Alam bardaar aata hai
-
   Ye lagta hai ke jaise hyder e karraar aata hai
-
-  Alam bardaar aata hai alam bardaar aata hai
-
   Alam thaame hussaini fauj ka salaar aata hai
 
-  Alam bardar aata hai
-
+  1
+  Falak saara larazta hai zameen ka dil dhadakta hai
+  Faza mein shor barpa hai adoo ka dam nikalta hai
+  Jari ye kaun aata hai alam kis ka ubharta hai
+  Yazeedi fauj mein halchal dilon pe khauf chaaya hai
+  Ye lagta hai ke jaise hyder e karraar aata hai
 
   2
-
-  Falak saara larazta hai zameen ka dil dhadakta hai
-
-  Faza mein shor barpa hai adoo ka dam nikalta hai
-
-  Jari ye kaun aata hai alam kis ka ubharta hai
-
-  Yazeedi fauj mein halchal dilon pe khauf chaaya hai
-
-  Ye lagta hai ke jaise...
-
-
-  3
-
   Jo thi karraar ki haibat wohi abbas ki haibat
-
   Khuda ke sher jaisi hai ali ke sher ki taaqat
-
   Wohi chehra wohi seerat wohi jazba wohi jurrat
-
   Abhi aaya nahi lekin adoo pe cha gayi dehshat
-
   Misaal e la-fataah shabbir ka salaar aata hai
 
-
-  4
-
-  Jarri Yeh Kaun Aata Hai Alam Kis Ka Ubharta Hai.
-
-  Yazeedi Foaj Mein Halchal Dilon Pe Khof Chaya Hai.
-
-  Jo Thi Karrar Ki Haibat Wohi Abbas Ki Haibat.
-
-  Khuda Ke Shair Jaisi Hai Ali Ke Shair Ki Taqat.
-
-
-  5
-
-  Alam thaame hussaini fauj...
-
+  3
   Abhi ye shor barpa tha ke goonja hyderi naara
-
   Misaal e la-fataah ghazi achanak saamne aaya
-
   Mujhe abbas kehte hai jari lalkaar kar bola
-
   Alamdar e hussaini hoo ghulame syed e waala
-
   Sada deta hua ye ghazi e jarraar aata hai
 
-
-  6
-
+  4
   Yahan tanha dil e hyder wahan laakhon jafa paikar
-
   Yahan bas haath mein naiza wahan taygh o sina khanjar
-
   Yahan sookha hai mashkeeza wahan sairaab hai lashkar
-
   Yahan shauk e shahadat hai wahan shaukeen e maal o zar
-
-
-  7
-
   Muqabil marhabon ke saahib e kirdaar aata hai
 
-  Alam thaame hussaini fauj...
-
+  5
   Adoo se cheen kar darya alam abbas ne gaada
-
   Yazeedi fauj mein us dam achanak shor ye utha
-
   Aray bhaago tarayi se ali aaya ali aaya
-
-
-  8
-
   Phir us ke baad darya par faqat ghazi nazar aaya
-
   Jafa kaaron mein ban kar maut ki lalkaar aata hai
 
-  Alam bardar aata hai...
-
-  Ye lagta hai ke jaise...
-
+  6
   Bhara jis waqt mashkeeza bada yaad aayi masooma
-
   Liye pani suye qaima chala saqqa sakina ka
-
-
-  9
-
   Bada jab ghird ghazi ke yazeedi fauj ka halqa
-
   Kaha abbas ne dil mein sakina tum na ghabrana
-
   Abhi lekar ye mashkeeza tera ghamkhwar aata hai
 
-  Alam bardar aata hai...
-
-  Alam thaame hussaini fauj...
-
+  7
   Alam ghazi dilawar ka jab us ke khoon mein dooba
-
-
-  10
-
   Bureeda baazuon waala na mashkeeza bacha paaya
-
   Tadapta khaak par dekha jo sheh ne bhai ka laasha
-
   Wafa ko naaz hai tujh par pukaare sayyed e wala
-
-  Khudaya pass ab tere mera salaar aata hai'
+  Khudaya pass ab tere mera salaar aata hai
 # source_id: tajpoints:752ae8d1e5ba0ec6d860
 # source_url: https://tajpoints.com/2022/08/alam-bardar-nadeem-sarwar-lyrics-in.html
 # raw_sha256: d81c2b95975c05485a659424455baf989fac75f7ad9afa4b26d3b2b16b7c089c
@@ -150,66 +72,56 @@ romanLyrics: 'Ye kaun hai falak saara larazta hai
 # raw_sha256: bd05c64ef87a6908de83bd93db7559a3705e40e4e813b1e16674d49401611f80
 # added_stanza_source: roman:alam-bardar-nadeem-sarwar-tajpoints-752ae8d1e5ba0ec6d860
 ---
-
 یہ کون ہے فلک سارا لرزتا ہے
-
-۱
 یہ کون ہے زمیں کا دل دھڑکتا ہے
 الم بردار آتا ہے
 یہ لگتا ہے کہ جیسے حیدر کرار آتا ہے
-الم بردار آتا ہے الم بردار آتا ہے
 الم تھامے حسینی فوج کا سالار آتا ہے
 
-۲
+۱
 فلک سارا لرزتا ہے زمیں کا دل دھڑکتا ہے
 فضا میں شور برپا ہے عدو کا دم نکلتا ہے
 جری یہ کون آتا ہے الم کس کا ابھرتا ہے
 یزیدی فوج میں ہلچل دلوں پہ خوف چھایا ہے
-یہ لگتا ہے کہ جیسے۔۔۔
+یہ لگتا ہے کہ جیسے حیدر کرار آتا ہے
 
-۳
+۲
 جو تھی کرار کی حیبت وہی عباس کی حیبت
 خدا کے شیر جیسی ہے علی کے شیر کی طاقت
 وہی چہرہ وہی سیرت وہی جزبہ وہی جرت
 ابھی آیا نہیں لیکن عدو پہ چھا گیء دہشت
 مثال لا فتی شبیر کا سالار آتا ہے
 
-۴
+۳
 ابھی یہ شور برپا تھا کہ گونجا حیدری نعرہ
 مثال لا فتی غازی اچانک سامنے آیا
 مجھے عباس کہتے ہیں جری للکار کر بولا
 علمدار حسینی ہوں غلام سید والا
 صدا دیتا ہوا یہ غازی جرار آتا ہے
 
-۵
+۴
 یہاں تنہا دل حیدر وہاں لاکھوں جفا پیکر
 یہاں بس ہاتھ میں نیزہ وہاں تیغ و سناں خنجر
 یہاں سوکھا ہے مشکیزہ وہاں سیراب ہے لشکر
 یہاں شوق شہادت ہے وہاں شوقین مال و زر
-
-۶
 مقابل مرحبوں کے صاحبِ کردار آتا ہے
-الم بردار آتا ہے ۔۔۔
+
+۵
 عدو سے چھین کر دریا الم عباس نے گاڑا
 یزیدی فوج میں اس دم اچانک شور یہ اٹھا
 ارے بھاگو ترای سے علی آیا علی آیا
-
-۷
 پھر اس کے بعد دریا پر فقط غازی نظر آیا
 جفا کروں میں بن کر موت کی للکار آتا ہے
-یہ لگتا ہے کہ جیسے۔۔۔
-الم بردار آتا ہے ۔۔۔
+
+۶
 بھرا جس وقت مشکیزہ بڑا یاد آی معصومہ
 لیےء پانی سوے خیمہ چلا سقہ سکینہ کا
-
-۸
 بڑا جب گرد غازی کے یزیدی فوج کا حلقہ
 کہا عباس نے دل میں سکینہ تم نہ گھبرانا
 ابھی لیکر یہ مشکیزہ تیرا غمخوار آتا ہے
-یہ لگتا ہے کہ جیسے۔۔۔
-الم غازی دلاور کا جب اس کے خون میں ڈوبا
 
-۹
+۷
+الم غازی دلاور کا جب اس کے خون میں ڈوبا
 بریدہ بازؤں والا نہ مشکیزہ بچا پایا
 تڑپتا خاک پر دیکھا جو شہ نے بھای کا لاشہ
 وفا کو ناز ہے تجھ پر پکارے سید والا
