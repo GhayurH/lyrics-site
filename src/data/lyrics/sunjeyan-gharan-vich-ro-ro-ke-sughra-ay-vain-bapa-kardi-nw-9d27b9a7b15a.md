@@ -1,6 +1,6 @@
 ---
 title: "Sunjeyan Gharan Vich Ro Ro Ke Sughra"
-language: "Roman Panjabi"
+language: "Panjabi"
 lang: "pa"
 direction: "ltr"
 kalamType: "Noha"
@@ -12,7 +12,6 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/9d27b9a7b15aa29f64b6.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/9d27b9a7b15aa29f64b6.json
 # api_content_sha256: c420768bb50507e3c9e504914f1a2c49798384945f94c4ddbfd1a802a7c61581
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Sunjeyan gharaaṅ vich ro ro ke Sughra ae vain bapa kardi
