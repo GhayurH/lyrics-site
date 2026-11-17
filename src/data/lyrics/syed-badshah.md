@@ -1,5 +1,5 @@
 ---
-title: "جب چلی دین کی اور اس کے مددگار کی بات"
+title: "سید بادشاہ حسین"
 alternateTitle: "Syed Badshah"
 language: "Urdu"
 lang: "ur"
