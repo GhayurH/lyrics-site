@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Rehan Azmi"
 tags: []
 aliases:
   - "Tu Na Aaya Ghazi"
