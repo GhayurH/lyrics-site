@@ -10,6 +10,11 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
+  Bahisht jis ki saltanat Husain wo janaab hai
+  Baraa-e-Karbala Husain Rab ka intekhaab hai
+  Hasan la-jawaab tha Husain la-jawaab hai
+  Husain kaamyaab tha Husain kaamyaab hai
+
   Suno Husainiyoṅ suno Husainiyoṅ
   Husain wo jo zer-e-tegh hans ke so gaya
   Yazid wo jo zillatoṅ ka naam ho gaya
@@ -68,6 +73,12 @@ romanLyrics: |-
   Nabi ka mulk-e-paak hai Nadim aur Rehaan haiṅ
   Hamaari sarhadoṅ pe sab Husain ke jawaan haiṅ
   Karam hai Mustafa ka apna mulk shaad o baad hai
+
+  10
+  Husain jis ko aap ka dar-o-dayaar mil gaya
+  Use khud apni zindagi ka aetbaar mil gaya
+  Nafas nafas use Khuda hazaar baar mil gaya
+  Salaam ya Husain ka jise jawaab mil gaya
 reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: nohayonline:46c25d63d246c0c26c14
 # source_url: https://www.nohayonline.com/details_content.php?id=2045
@@ -75,7 +86,13 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 # source_id: ziyaraat:0201d6e8b1a18656b2e7
 # source_url: https://www.ziyaraat.net/api/noha/1069
 # raw_sha256: 6d6567b5619af0fd60f8c840b6bcdee480db5a886614cef45138b586d7c89a22
+# editorial_note: Alternative last line of stanza 5: 'Wohi tu kaamyaab hai ye naara jis ko yaad hai' (وہی تو کامیاب ہے یہ نعرہ جس کو یاد ہے); preserve the current stanza ending pending independent verification.
 ---
+بہشت جس کی سلطنت حسین وہ جناب ہے
+برائے کربلا حسین رب کا انتخاب ہے
+حسن لاجواب تھا حسین لاجواب ہے
+حسین کامیاب تھا حسین کامیاب ہے
+
 سنو حسینیوں سنو حسینیوں
 حسین وہ جو زیر تیغ ہنس کے سو گیا
 یزید وہ جو ذلتوں کا نام ہو گیا
@@ -134,3 +151,9 @@ reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
 نبی کا ملک پاک ہے ندیم اور ریحان ہیں
 ہماری سرحدوں پہ سب حسین کے جوان ہیں
 کرم ہے مصطفیٰ کا اپنا ملک شاد و باد ہے
+
+۱۰
+حسین جس کو آپ کا در و دیار مل گیا
+اسے خود اپنی زندگی کا اعتبار مل گیا
+نفس نفس اسے خدا ہزار بار مل گیا
+سلام یا حسین کا جسے جواب مل گیا
