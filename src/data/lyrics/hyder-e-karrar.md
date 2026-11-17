@@ -1,10 +1,10 @@
 ---
-title: "یا علی مولا علی علی علی علی"
-alternateTitle: "Hyder-e-Karraar"
+title: "حیدرِ کرّار"
+alternateTitle: "Haider-e-Karraar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: "Noha"
+kalamType: "Manqabat"
 reciter: "Nadeem Sarwar"
 tags: []
 aliases: ["Hyder E Karrar"]

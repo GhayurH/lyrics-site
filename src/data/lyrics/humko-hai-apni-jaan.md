@@ -1,6 +1,6 @@
 ---
 title: "ہم کو ہے اپنی جان سے پیارا غمِ حُسین"
-alternateTitle: "Humko Hai Apni Jaan"
+alternateTitle: "Hum Ko Hai Apni Jaan Se Pyaara Gham-e-Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

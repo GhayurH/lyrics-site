@@ -16,17 +16,30 @@ published: false
 
 Haye Baba Teri Ummat Ne Mere Roan Te Pehray Laye
 Main Dasni Aan Tere Bajoon Teri Zahra Ne Jo Zulm Uthaye
+1
 Mimber De Samne Teri Sand De Tukray Chunrdi Rayi Nalay Sunrdi Rayi Galaan Teri Tehreer De Barey
 Main Rondi Rayi Oh Hasday Ray Jinna Lokaan Nu Taun Kalmay Parhaye
+
+2
 Haq Lainr Gayi Saan Zalim Diyaan Jhirkaan Jhaldi Rayi Hath Maldi Rayi Ro Kay Khari Darbar Wachalay
 Main Ujari Nu Na Haq Miliya Koi Main Wangoon Darbar Na Jaye
+
+3
 Teri Dhi De Naal Jo Aina Kalma Gowaan Ne Keeti Aye Hath Pasay Te Rakh Ke Sainr Hunr Teek V Roway
 Kisay Sochiya Na Aye Zahra Aye Ais Ujari Te Kyun Taaq Giraye
+
+4
 Pehchan V Bhul Gayi Teri Bachri Di Baba Main Haan Zahra Ladli Pak Nabi Di Mere Ghar Nu Na Jalao
 Tera Naa Le Ke Baba Saein Ona Lokaan De Main Wastay Paye
+
+5
 Hasnain Koon Sadya Jadon Aakhri Welay Zahra Ne Dowein Ronday Hoye Beh Gaye Aa Ke Amari De Sirhaney
 Rooh Jism Wichon Parwaz Keeti Haye Putar Jadon Gal Naal Si Laye
+
+6
 Shabbir Nu Kita Zainab De Hawalay Amari Ne Kar Ke Pyar Akheri Aikon Gal Naal Cha Laya
 Nalay Kaindi Rayi Sang Chori Na Mere Bichrey Te Koi Waqt V Aaye
+
+7
 Hasnain Di Amari Te Jo Likhiya Aye Noha AKHTAR Ne Wasta Aoun Di Maa Da Banray Bakhshish Da Waseela
 Har Momin Layi Tera Naa Le Ke Taboot Uttay Jinnay Athro Wagaye
