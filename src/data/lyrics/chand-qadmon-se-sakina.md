@@ -1,6 +1,6 @@
 ---
 title: "چند قدموں سے سکینہ نے یہ منظر دیکھا"
-alternateTitle: "Chand Qadmoṅ Se Sakina"
+alternateTitle: "Chand Qadmoṅ Se Sakina Ne Ye Manzar Dekha"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -27,18 +27,22 @@ romanLyrics: |-
   Shimr ke zulm se nila rukh-e-dukhtar dekha
 
   4
+  Pehli zarbat se jo aaya tha Shah ki shah-rag par
+  Zakhm wo pehla Sakina ke jigar par dekha
+
+  5
   Rok le haath to shayad wo na phir waar kare
   Shah ki gardan pe gala beti ne rakh kar dekha
 
-  5
+  6
   Jis jagah chain se soti rahi wo Yasrab meiṅ
   Chhalni tiroṅ se Sakina ne wo bistar dekha
 
-  6
+  7
   Dur tak Bibi ne dauraai thi apni nazreṅ
   Na kahiṅ Ghaazi nazar aaye na Akbar dekha
 
-  7
+  8
   Baap par chalti hui dekhi jo zarbeṅ Mohsin
   Ek maasuma ne Karbal meiṅ yuṅ mahshar dekha
 # source_id: nohayonline:9e1968c9bffd0343c1b4
@@ -61,17 +65,21 @@ romanLyrics: |-
 شمر کے ظلم سے نیلا رُخِ دُختر دیکھا
 
 ۴
+پہلی ضربت سے جو آیا تھا شاہ کی شہ رگ پر
+زخم وہ پہلا سکینہ کے جگر پر دیکھا
+
+۵
 روک لے ہاتھ کو شاید وہ نا پھِر وار کرے
 شہہ کی گردن پے گلا بیٹی نے رَکھ کر دیکھا
 
-۵
+۶
 جس جگہ چین سے سوتی رہی وہ یثرب میں
 چھلنی تیروں سے سکینہ نے وہ بستر دیکھا
 
-۶
+۷
 دور تک بی‌بی نے دوڑائی تھیں اپنی نظریں
 نہ کہیں غازی نظر آئے نہ اکبر دیکھا
 
-۷
+۸
 باپ پر چلتی ہوئیں دیکھیں جو ضربیں محسن
 ایک معصومہ نے کربل میں یوں محشر دیکھا

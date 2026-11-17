@@ -1,5 +1,5 @@
 ---
-title: جب دفن کرنے آے تن پاش پاش کو
+title: "چچا میں آپ کی تربت بنانے آیا ہوں"
 language: Urdu
 lang: ur
 direction: rtl
@@ -8,7 +8,7 @@ poet: Takallum
 tags: []
 aliases: []
 published: false
-alternateTitle: Chacha Main Aap Ki Turbat Banane Aaya Hoon Mir Hasan Lyrics 2017
+alternateTitle: "Chacha Main Aap Ki Turbat Banane Aaya Hoon"
 romanLyrics: 'Jab dafn karne aaye tan e paash paash ko
 
   Abid pukare dekh ke ghazi ki laash ko

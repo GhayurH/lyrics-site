@@ -1,6 +1,6 @@
 ---
-title: "سو گیا لشکر اے شامِ غریباں"
-alternateTitle: "So Gaya Lashkar Ae Shaam-e-Gharibaṅ"
+title: "بی‌بیاں رہ گئیں"
+alternateTitle: "Bibiyaṅ Reh Gayiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

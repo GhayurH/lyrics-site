@@ -1,5 +1,5 @@
 ---
-title: "رزق ہے جنبش چادر فاطمہ"
+title: "چادرِ فاطمہ"
 alternateTitle: "Chaadar-e-Fatema"
 language: "Urdu"
 lang: "ur"
@@ -11,6 +11,8 @@ tags: []
 aliases: ["Chadare Fatema"]
 published: true
 romanLyrics: |-
+  Ya Zahra, Ya Zahra
+
   Rizq hai junbish-e-chaadar-e-Fatema
   Rozi-e-aalamin chaadar-e-Sayyeda
 
@@ -61,6 +63,8 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1572
 # raw_sha256: 31afe56bdcf77064f43cbc45681b6d67face183dde599ca7d1355fd759595c0b
 ---
+یا زہرا، یا زہرا
+
 رزق ہے جنبش چادر فاطمہ
 روزی عالمین چادر سیدہ
 
