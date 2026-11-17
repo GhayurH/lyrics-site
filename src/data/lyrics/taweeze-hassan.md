@@ -46,6 +46,7 @@ romanLyrics: |-
   Dil Shah ka bhar aaya
   Bhai ko bhai yaad aaya
 
+  4
   Ghore se gira jab Ibn-e-Hasan
   Maula ko pukaara waawaila
   Pahunche jo Shah-e-diṅ maqtal meiṅ
@@ -54,7 +55,7 @@ romanLyrics: |-
   Is haal meiṅ jab paaya
   Bhai ko bhai yaad aaya
 
-  4
+  5
   Phir apni abaa ke daaman meiṅ
   Qasim ko sameta Maula ne
   Kis tarah uthaauṅ ye laasha
@@ -63,7 +64,7 @@ romanLyrics: |-
   Taqdir ne dikhlaaya
   Bhai ko bhai yaad aaya
 
-  5
+  6
   Khaime meiṅ junhi laaye laasha
   Sar ahl-e-haram ne pit liya
   Fizza ne kaleja thaam liya
@@ -72,7 +73,7 @@ romanLyrics: |-
   Aankhoṅ meiṅ lahu aaya
   Bhai ko bhai yaad aaya
 
-  6
+  7
   Mesum wo qayaamat ka manzar
   Tehrir meiṅ laaya hai Mazhar
   Gathri ko junhi khola Sheh ne
@@ -122,6 +123,7 @@ romanLyrics: |-
 دل شاہ کا بھر آیا
 بھائی کو بھائی یاد آیا
 
+۴
 گھوڑے سے گرا جب ابنِ حسن
 مولا کو پکارا واویلا
 پہنچے جو شہ دیں مقتل میں
@@ -130,7 +132,7 @@ romanLyrics: |-
 اس حال میں جب پایا
 بھائی کو بھائی یاد آیا
 
-۴
+۵
 پھر اپنی عبا کے دامن میں
 قاسم کو سمیٹا مولا نے
 کس طرح اٹھاؤں یہ لاشہ
@@ -139,7 +141,7 @@ romanLyrics: |-
 تقدیر نے دکھلایا
 بھائی کو بھائی یاد آیا
 
-۵
+۶
 خیمے میں جونہی لائے لاشہ
 سر اہل حرم نے پیٹ لیا
 فضہ نے کلیجہ تھام لیا
@@ -148,7 +150,7 @@ romanLyrics: |-
 آنکھوں میں لہو آیا
 بھائی کو بھائی یاد آیا
 
-۶
+۷
 میثم وہ قیامت کا منظر
 تحریر میں لایا ہے مظہر
 گٹھری کو جونہی کھولا شہ نے
