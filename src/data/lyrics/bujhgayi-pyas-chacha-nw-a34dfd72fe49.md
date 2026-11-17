@@ -1,9 +1,10 @@
 ---
-title: "Bujhgayi Pyas Chacha"
+title: "Bujh Gayi Pyaas Chacha, Laut Ke Ghar Mein Aao"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -15,70 +16,45 @@ published: false
 # editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
-Bujgayi pyaas chacha, laut ke gar may aao
+Bujh Gayi Pyaas Chacha, Laut Ke Ghar Mein Aao
+Puri Kar Do Ye Dua, Laut Ke Ghar Mein Aao
 
-poori kardo ye duwa, laut ke gar may aao
+1
+Jaanti Hun Ke Kate Aap Ke Baazu Ran Mein
+Aap Ke Baad Bacha Kya Hai Mere Daaman Mein
+Kuch Nahi Karti Gila, Laut Ke Ghar Mein Aao
 
-jaanti hoo ke katay, aapke baazu ran may
+2
+Hote Jaate Hain Bohat Shaam Ke Gehre Saaye
+Koi Bhi Ghar Mein Nahi, Kaun Mujhe Behlaaye
+Tum Ko Deti Hun Sada, Laut Ke Ghar Mein Aao
 
-aapke baad bacha, kya hai mera daman may
+3
+Mujh Ko Maloom Na Tha Door Watan Se Aa Kar
+Aap So Jaaenge Darya Pe Alam Lehra Kar
+Lo Chacha Din Bhi Dhala, Laut Ke Ghar Mein Aao
 
-kuch nahi karti gila, laut ke gar may aao
+4
+Ae Chacha Dekhiye Chhinti Hai Phuphi Ki Chaadar
+Bhai Sajjad Ka Khincha Hai Laeen Ne Bistar
+Kya Nahi Tum Ko Pata, Laut Ke Ghar Mein Aao
 
-bujgayi pyaas chacha…
+5
+Maa Ye Kehti Hai Ke Hum Qaidi Bhi Honge Ammu
+Chhin Gayin Baaliyaan, Khaaye Hain Tamaache Ammu
+Dekho Daaman Bhi Jala, Laut Ke Ghar Mein Aao
 
-hotay jaatay hai bahot, shaam ke gehray saaye
+6
+Nanhe Jhoole Mein Kabhi, God Mein Maadar Ki Kabhi
+Dekhti Hun Ke Mehak Paaun Kahin Asghar Ki
+Saath Asghar Ke Chacha, Laut Ke Ghar Mein Aao
 
-koi bhi gar may nahi, kaun mujhe behlaaye
+7
+Ro Ke Zainab Ne Kaha, Baali Sakina Meri
+Be Chacha Aur Be Padar Hona Hai Qismat Teri
+Kis Ko Deti Hai Sada, Laut Ke Ghar Mein Aao
 
-unko deti hoo sada, laut ke gar may aao
-
-bujgayi pyaas chacha…
-
-mujko maloom na tha, door watan se aakar
-
-aap sojaa-engay darya pe alam lehrakar
-
-lo chacha din bhi dhala, laut ke gar may aao
-
-bujgayi pyaas chacha…
-
-ay chacha dekhiye chin-thi hai phupi ki chadar
-
-bhai sajjad ka khaincha hai laeen ne bistar
-
-kya nahi tumko pata, laut ke gar may aao
-
-bujgayi pyaas chacha…
-
-maa ye kehti hai ke hum, qaid-e bhi hongay ammu
-
-chingayi baaliya khaaye hai tamachay ammu
-
-dekho daaman bhi jala, laut ke gar may aao
-
-bujgayi pyaas chacha…
-
-nanhe jhule may kabhi, godh may maadar ki kabhi
-
-dekhti hoo ke mehek, paaun kahi asghar ki
-
-saath asgkar ke chacha, laut ke gar may aao
-
-bujgayi pyaas chacha…
-
-roke zainab ne kaha, bali sakina meri
-
-be-chacha aur be-padar, hona hai kismat teri
-
-kisko deti hai sadaa, laut ke gar may aao
-
-bujgayi pyaas chacha…
-
-sham se aaj bhi zaair jo koi aata hai
-
-saath rehan wo paighaam yehi laata hai
-
-mai hoo zindan may chacha, laut ke gar may aao
-
-bujgayi pyaas chacha…
+8
+Shaam Se Aaj Bhi Zaair Jo Koi Aata Hai
+Saath Rehan Wo Paigham Yehi Laata Hai
+Main Hun Zindaan Mein Chacha, Laut Ke Ghar Mein Aao

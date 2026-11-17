@@ -1,9 +1,10 @@
 ---
-title: "Boli Zehra (SA) Zainab (SA) Ka Yun"
+title: "Boli Zehra Zainab Ka Yun Saath Nibhana"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -16,79 +17,45 @@ published: false
 ---
 
 Boli Zehra Zainab Ka Yun Saath Nibhana
+Aghyar Ke Majme Mein Fizza Tu Rida Ban Ke
+Zainab Ko Chhupana
 
-aghyaar ke majme may fizza tu rida banke
+1
+Pehli Manzil To Karbala Hai Magar
+Saath Abbas Bhi Wahan Hoga
+Dard Karbobala Ka Apni Jagah
+Bas Mujhe Shaam Ka Hai Gham Fizza
+Khud Dekh Chuki Hun Main Mushkil Hai Bohat Fizza
+Darbar Mein Jaana
 
-zainab ko chupana
+2
+Tashnagi Had Se Barh Gayi Hogi
+Rote Bachon Ko Wo Sambhaalegi
+Apne Hisse Ka Aab Bhi Zainab
+Pyaase Bachon Mein Baant Daalegi
+Khud Apne Hi Hisse Se Kuch Paani Bacha Kar Tum
+Zainab Ko Pilaana
 
-boli zehra….
+3
+Mujh Ko Maloom Hai Yateemi Mein
+Log Jab Rokte Hain Rone Se
+Us Ghari Dil Pe Kya Guzarti Hai
+Main Samajhti Hun Dukh Sakina Ke
+Dil Khol Ke Baba Ki Mayyat Pe Wo Roye To
+Mayyat Se Uthaana
 
-pehli manzil to karbala hai magar
+4
+Qafila Jab Chalega Sehra Se
+Koi Maqtal Mein Chhoot Jaayegi
+Is Se Pehle Ke Pahunche Zainab Tak
+Shimr Ke Haath Aayegi Bachi
+Tab Shimr Ke Haathon Se Tum Meri Sakina Ke
+Baalon Ko Chhuraana
 
-saath abbas bhi wahan hoga
-
-dard karbobala ka apni jagah
-
-bas mujhe shaam ka hai gham fizza
-
-khud dekh chuki hoo mai mushkil hai bahot fizza
-
-darbaar may jaana
-
-boli zehra….
-
-tashnagi hadh se bad gayi hogi
-
-rotay bacho ko wo sambhalegi
-
-apne hissay ka aab bhi zainab
-
-pyase bacho may baat daalegi
-
-khud apne hi hissay se kuch pani bachakar tum
-
-zainab ko pilaana
-
-boli zehra….
-
-mujhko maloom hai yateemi may
-
-log jab rokte hai ronay se
-
-us ghadi dil pe kya guzarti hai
-
-mai samajhti hoo dukh sakina ke
-
-dil khol ke baba ki mayyat pe wo roye to
-
-mayyat se uthaana
-
-boli zehra….
-
-khaafila jab chalega sehra se
-
-koi maqtal may choot jaayegi
-
-issay pehle ke pahunchay zainab tak
-
-shimr ke haath aayegi bachi
-
-tab shimr ke haathon se tum meri sakina ke
-
-baalon ko chudaana
-
-boli zehra….
-
-sunke binte nabi ki baaton ko
-
-boli saqlain fizza zehra se
-
-tumse bibi yehi guzaarish hai
-
-jitne waade kiye hai fizza ne
-
-mai kaise nibhaati hoo un shaam may galiyon may
-
-tum dekhne aana
-
-boli zehra….
+5
+Sun Ke Bint-e-Nabi Ki Baaton Ko
+Boli Saqlain Fizza Zehra Se
+Tum Se Bibi Yehi Guzaarish Hai
+Jitne Waade Kiye Hain Fizza Ne
+Main Kaise Nibhaati Hun Un Shaam Ki Galiyon Mein
+Tum Dekhne Aana
