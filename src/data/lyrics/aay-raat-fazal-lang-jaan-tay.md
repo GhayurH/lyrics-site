@@ -4,6 +4,8 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Akbar"
+reciter: "Mir Hasan Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -14,33 +16,41 @@ published: false
 # editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 ---
 
-Aay raat Fazal lang jaan tay day din daswee da charr Jan tay day..
-Sani)
-Fer waikhi Baba ki kardae ek wari waila aan tay day..
-Antra)
-Jado veer Hassan di mayat tay loka nay teer chalaye san – Main vayn odo vi paye san
-Dewa badal main naqsha Yasrab da menu Mola taigh chalan tay day..
-Antra)
-Kal charhda sooraj waikhay ga ki rang meri shamshir da aay – Tay ki matlab takbeer da aay
-Jang Fajar tou pehla muk jaway ek waar Akbar azan tay day..
-Antra)
-Jay sham day ek ek wehray cho awaz na aaway rowan di – tay mera naam vi Ghazi nae
-Bus maa Zahra day naa Mola menu apna aap azman tay day..
-Antra)
-Main waikheya Sain Rubab meri pae gal Asghar da chumdi aay – baray maan day nal aay kehndi aay
-Rakh hosla pani aaway ga Ghazi nu nehr tay jan tay day..
-Antra)
-Aay ghat tay nahin shahzadiyan sub menu chacha Gahzi kehndiyan nay – Mera naam adab nal laindiyan nay
-Menu naal bhatijiyan day Mola rishtay da maan nibhan tay day..
-Antra)
-Aay Karbal aay koi Yasrab nahin dar Pak Batool da jal jaway – tay Baba taigh vi na chaway
-Main sham tay kufa saarr dewa koi agg da aj farman tay day..
-Antra)
-Main Aaqa Zadi Zainab di akh wich athru nahin tak sakda – onu maan aay meriyan bahnwaa’n da
-Mera sir lathdae tay lath jaway bus sain da veer bachaan tay day..
-Antra)
-Ghar ujreya bhain Ruqaeya da mera Muslim kufiyan maar dita – main rondiyan dhiyan takda reya
-Kae Fazal duwawan aj Mola menu bhain da qars lahaan tay day..
-Antra)
-Kaway Akbar Ghazi ajj day lae menu maa Zahra nay mangeya si – Maa Umal Baneen nay daseya si
-Bhanway naiza vi na day menu bus Mola maqtal jan tay day.
+Aay raat Fazal lang jaan tay de din dasweṅ da charh jaan tay de
+Fer wekhi Baba ki karda ae ik waari waila aan tay de
+
+1
+Jadon vir Hasan di mayyat tay lokaaṅ ne tir chalaaye san, maiṅ waiṅ odon vi paaye san
+Dewaaṅ badal maiṅ naqsha Yasrab da mainu Maula tegh chalaan tay de
+
+2
+Kal charhda suraj wekhe ga ki rang meri shamshir da ae, te ki matlab takbir da ae
+Jang fajr toṅ pehla muk jaave ik waar Akbar azaan tay de
+
+3
+Je Shaam de ik ik wehre choṅ aawaaz na aave rowan di, te mera naaṅ vi Ghazi nahiṅ
+Bas Maaṅ Zahra de naaṅ Maula mainu apna aap azmaan tay de
+
+4
+Maiṅ wekhya Saiṅ Rubaab meri payi gal Asghar da chumdi ae, bare maan de naal ae kehndi ae
+Rakh hausla paani aave ga Ghazi nu nehr tay jaan tay de
+
+5
+Ae ghat tay nahiṅ shahzaadiyaaṅ sab mainu chacha Ghazi kehndiyaṅ ne, mera naam adab naal laindiyaṅ ne
+Mainu naal bhatijiyaaṅ de Maula rishte da maan nibhaan tay de
+
+6
+Ae Karbal ae koi Yasrab nahiṅ dar Paak Batul da jal jaave, te Baba tegh vi na chalaave
+Maiṅ Shaam te Kufa saar dewaaṅ koi agg da aj farmaan tay de
+
+7
+Maiṅ Aaqa Zaadi Zainab di akh wich athru nahiṅ tak sakda, ohnu maan ae meriyaaṅ baahwaaṅ da
+Mera sir lathda ae te lath jaave bas Saiṅ da vir bachaan tay de
+
+8
+Ghar ujrya behan Ruqaiya da mera Muslim Kufiyaṅ maar ditta, maiṅ rondiyaaṅ dhiyaaṅ takda riya
+Kar Fazal duaawaṅ aj Maula mainu behan da qarz laahaan tay de
+
+9
+Kahe Akbar Ghazi aj de laayi mainu Maaṅ Zahra ne maangya si, Maaṅ Ummul Banin ne dasya si
+Bhaaveṅ naiza vi na de mainu bas Maula maqtal jaan tay de
