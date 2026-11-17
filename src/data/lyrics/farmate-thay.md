@@ -1,6 +1,6 @@
 ---
 title: "فرماتے تھے یہ سید ابرار"
-alternateTitle: "Farmaate The"
+alternateTitle: "Farmaate The Ye Sayyid-e-Abraar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

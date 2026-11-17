@@ -1,5 +1,5 @@
 ---
-title: "Faras Ki Zeen Se"
+title: "Faras Ki Zeen Se Beshak Utar Gaye Haiṅ Husain"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
@@ -21,41 +21,28 @@ published: false
 ---
 
 Faras ki zeen se beshak utar gaye hai hussain
-
 zameen dhoond rahi hai kidhar gaye hai hussain
 
+1
 karega shimr ka khanjar to sirf sar ko juda
-
 wagar na laashae akbar pe margaye hai hussain
 
-faras ki zeen se…
-
+2
 sare bureeda katay hont khoon chehre par
-
 ajeeb haal may shireen ke ghar gaye hai hussain
 
-faras ki zeen se…
-
+3
 mai milne shaam ke zindan may aaunga tujhse
-
 ye baat aakhri beti se kar gaye hai hussain
 
-faras ki zeen se…
-
+4
 kahin hai qasim o abbas aur kahin akbar
-
 kahan kahan tere tukde bikhar gaye hai hussain
 
-faras ki zeen se…
-
+5
 qaza ke baad bhi bhai behan ke saath raha
-
 jidhar jidhar gayi zainab udhar gaye hai hussain
 
-faras ki zeen se…
-
+6
 kisi ne maara hai pathar behan ke kya akbar
-
 jo karte karte tilaawat teher gaye hai hussain
-
-faras ki zeen se…

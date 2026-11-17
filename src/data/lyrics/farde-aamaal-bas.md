@@ -1,6 +1,6 @@
 ---
 title: "فرد اعمال میں بس اشک ہمارے ہونگے"
-alternateTitle: "Fard-e-Aamaal Bas"
+alternateTitle: "Fard-e-Aamaal Meiṅ Bas Ashk Hamaare Hoṅge"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

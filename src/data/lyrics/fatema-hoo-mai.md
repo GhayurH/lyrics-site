@@ -1,6 +1,6 @@
 ---
-title: "یا سیدہ یا طاہرہ یا اُمِّ ابیہا"
-alternateTitle: "Fatema Huṅ Main"
+title: "وہ فاطمہ ہوں میں"
+alternateTitle: "Wo Fatema Huṅ Maiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
