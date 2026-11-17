@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Salam"
+poet: "Sarfaraz Abad"
 tags: []
 aliases:
   - "Husain Al Ghareeb"
