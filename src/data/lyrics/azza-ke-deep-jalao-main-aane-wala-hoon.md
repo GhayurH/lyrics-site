@@ -8,8 +8,7 @@ kalamType: "Manqabat"
 poet: "Mir Takallum Mir"
 reciter: "Mir Hasan Mir"
 tags: []
-aliases: ["Azza Ke Deep Jalao Main Aane Wala Hoon Lyrics 2007"]
-recitationId: "azza-ke-deep-jalao-main-aane-wala-hoon-lyrics-2007"
+aliases: ["Azza Ke Deep Jalao Main Aane Wala Hoon"]
 published: true
 # source_id: tajpoints:35c0e1ed2204cc49297f
 # source_url: https://tajpoints.com/2019/04/azza-ke-deep-jalao-main-aane-wala-hoon.html

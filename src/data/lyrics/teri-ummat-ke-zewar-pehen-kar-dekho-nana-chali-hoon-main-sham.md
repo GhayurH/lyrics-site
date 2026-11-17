@@ -10,9 +10,6 @@ tags: []
 aliases:
   - "Teri Ummat Ke Zewar Pehen Kar Dekho Nana Chali Hoon Main Sham"
 published: true
-# source_id: nohayonline:418a9030114db6f80c46
-# source_url: https://www.nohayonline.com/details_content.php?id=605
-# raw_sha256: b4c7fb04c73fcae7225f3bbb6ae4a195620171bd60744f4bbe2fcb42e877100a
 romanLyrics: |-
   Teri Ummat Ke Zewar Pehen Kar
   Dekho Nana Chali Huṅ Maiṅ Sham
@@ -88,10 +85,6 @@ romanLyrics: |-
   Aa Rahi Hai Yahaṅ Us Ki Beti
   Kholta Pani Phenko Chhatoṅ Se
   Pattharoṅ Ka Karo Intizam
-# source_id: tajpoints:ed0bb597aa6d1d707b07
-# source_url: https://tajpoints.com/2017/10/teri-ummat-ke-zewar-pehan-kar-dekho.html
-# raw_sha256: e593db9ae42969af0f0b092fcacc64912f9a096123495a2a18c6fb6899effca5
-# editorial_note: Removed repeated stanzas 8-9 (variants of stanzas 5-6) and renumbered the two following stanzas; preserved the earlier versions in both scripts and retained additional source witness.
 ---
 تیری امت کے زیور پہن کر
 دیکھو نانا چلی ہوں میں شام
