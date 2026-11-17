@@ -1,6 +1,6 @@
 ---
-title: "جس نے صدا سے پہلے ہمیشہ عطا کیا"
-alternateTitle: "Darbari Baithe Hai"
+title: "درباری بیٹھے ہیں زہرا کھڑی ہے"
+alternateTitle: "Darbaari Baithe Haiṅ Zahra Khari Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

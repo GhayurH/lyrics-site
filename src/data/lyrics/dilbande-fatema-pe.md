@@ -1,6 +1,6 @@
 ---
 title: دلبند فاطمہ پہ ظالم رحم نہ آیا
-alternateTitle: Dilbande Fatema Pe
+alternateTitle: "Dilband-e-Fatima Pe Zaalim Reham Na Aaya"
 language: Urdu
 lang: ur
 direction: rtl

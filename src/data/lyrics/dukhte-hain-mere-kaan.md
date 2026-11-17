@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Fazal"
 reciter: "Kazmi Brothers"
 tags: []
 aliases: []
@@ -15,27 +16,27 @@ romanLyrics: |-
   Dukhte hain mere kaan sula do mujhe bhaiya sula do mujhe bhaiya
   Tum maan ki tarha lori suna do mujhe bhaiya
 
-  ۱
+  1
   Lagta hai andhere se dar teri Sakina ko
   Tum sar mere baba ka dila do mujhe bhaiya
 
-  ۲
+  2
   Dekha hai in aankhon ne baba ka gala katte
   Bhulungi bhala kaise bata do mujhe bhaiya
 
-  ۳
+  3
   Main saat Muharram se pyasi hun mere bhaiya
   Do boond ho gar pani pila do mujhe bhaiya
 
-  ۴
+  4
   Bhaiya mere kaanon se ab tak hai lahu jari
   Tum aa ke zara marham laga do mujhe bhaiya
 
-  ۵
+  5
   Karta hai sitam zalim sone bhi nahi deta
   Aaghosh-e-imamat mein chhupa do mujhe bhaiya
 
-  ۶
+  6
   Sajjad se Sakina ro ke ye Fazal boli
   Chehra mere Asghar ka dikha do mujhe bhaiya
 # source_id: nohawriteups:3327dcfb0d905cc4b342

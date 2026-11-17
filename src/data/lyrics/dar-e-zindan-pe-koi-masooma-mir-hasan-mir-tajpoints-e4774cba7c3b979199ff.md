@@ -8,7 +8,7 @@ poet: "Nadeem Sultanpuri"
 tags: []
 aliases: []
 published: false
-alternateTitle: Dar E Zindan Pe Koi Masooma Mir Hasan Mir
+alternateTitle: "Dar-e-Zindaan Par Koi Maasum"
 romanLyrics: 'Dar e Zindan Pe Koi Masooma Mir Hasan Mir.
 
   Dar-e-Zindaan Par Koi Masooma Parha Karti Hai Yeh Ro Kar Noha.
