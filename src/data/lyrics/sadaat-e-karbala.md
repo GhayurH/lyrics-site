@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Anees"
 tags: []
 aliases:
   - "Sadaat-E-Karbala"

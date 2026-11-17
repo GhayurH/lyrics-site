@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Fazal"
+poet: "Fazal Abbas"
 reciter: "Kazmi Brothers"
 tags: []
 aliases: []
