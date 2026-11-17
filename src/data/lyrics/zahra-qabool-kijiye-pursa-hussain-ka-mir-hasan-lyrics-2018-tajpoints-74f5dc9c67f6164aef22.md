@@ -5,79 +5,57 @@ lang: ur
 direction: rtl
 kalamType: Noha
 poet: Takallum
+reciter: Mir Hasan Mir
 tags: []
 aliases: []
 published: false
-alternateTitle: Zahra Qabool Kijiye Pursa Hussain Ka Mir Hasan Lyrics 2018
-romanLyrics: 'Zahra Qabool Kijiye Pursa Hussain Ka Mir Hasan Mir.
-
-  Pyase Ka Be-Watan Ka Sheh-e-Mashreqain Ka.
-
-
+alternateTitle: Zahra Qabool Kijiye Pursa Husain Ka
+romanLyrics: |-
+  Hayya ala khayr il amal
+  Ya Husain
+  
+  Zehra qabool kijiye pursa Husain ka
+  Pyase ka bewatan ka Shah-e-mashriqain ka
+  
   1
-
-  Jab Maah-e-Muharram Ne Khabar Gham Ki Suna Di.
-
-  Rukh Kar Ke Baqaiya Ka Yeh Momin Ne Sada Di.
-
-  Tashreef Laein Farsh-e-Azza Sheh Ka Bich Gaya.
-
-  Mazloom Ke Gham Mein Hoi Magmoom Khudai.
-
-
+  Jab maah-e-Muharram ne khabar-e-gham ki suna di
+  Rukh kar ke Baqi ka ye momin ne sada di
+  Tashrif laaein farsh-e-aza Shah ka bich gaya
+  
   2
-
-  Phir Naam Pe Pyason Ke Sabeelein Hain Lagai.
-
-  Ghar Ghar Mein Hussain Ki Ghurbat Ka Tazkira.
-
-  Har Moor Pe Dharas Jo Raha Bint-e-Ali Ki.
-
-  Woh Jis Ki Shahadat Pe Kamar Sheh Ki Jhuki Thi.
-
-
+  Mazlum ke gham mein hui maghmum khudaai
+  Phir naam pe pyaasoṅ ke sabileṅ hain lagaai
+  Ghar ghar mein hai Husain ki ghurbat ka tazkira
+  
   3
-
-  Oss Shair Ke Katay Howay Shano Ka Wasta.
-
-  Aayi Jo Madine Mein Woh Zindaan Se Palat Kar.
-
-  Ghar Jane Se Pehle Gayi Madar Ki Lahad Par.
-
-  Zainab Ne Maa Ki Qabar Pe Di Pehli Yeh Sada.
-
-
+  Har mor pe dhaaras jo raha Bint-e-Ali ki
+  Wo jis ki shahaadat pe kamar Shah ki jhuki thi
+  Us sher ke kate hue shaanoṅ ka waasta
+  
   4
-
-  Ghazi Ko Issi Maa Ne Sikhaein Thi Wafaein.
-
-  Beton Ke Liye Bharti Bhala Kaise Woh Aahein.
-
-  Noha Tha Yeh Baqaiya Mein Ummul Baneen Ka.
-
-  Pardais Mein Ummat Ne Jisay Zakhm Diye Hain.
-
-
+  Aayi jo Madine mein wo zindaan se palat kar
+  Ghar jaane se pehle gayi maadar ki lehad par
+  Zainab ne maaṅ ki qabr pe di pehli ye sada
+  
   5
-
-  Ik Din Mein Jise Dagh Bahatar 72 Ke Mile Hain.
-
-  Oss Par Salam Jis Ka Bhara Ghar Ujar Gaya.
-
-  Jeene Na Diya Oss Ko Musalmano Ne Bibi.
-
-  Pala Tha Jise Aap Ne Armano Se Bibi.
-
-
+  Ghazi ko isi maaṅ ne sikhaaiṅ thi wafaaeṅ
+  Betoṅ ke liye bharti bhala kaise wo aaheiṅ
+  Noha tha ye Baqi mein Ummul Banin ka
+  
   6
-
-  Haye Rula Rula Ke Osse Zibah Kar Diya.
-
-  Mazloom Ki Gardan Pe Woh Chalta Howa Khanjar.
-
-  Khoon Unn Ko Rulata Hai Takallum Yehi Manzar.
-
-  Dadi Ki Ujari Qabar Pe Mehdi Ka Hai Noha.'
+  Pardes mein ummat ne jise zakhm diye hain
+  Ek din mein jise daagh bahattar ke mile hain
+  Us par salaam jis ka bhara ghar ujar gaya
+  
+  7
+  Jine na diya us ko Musalmaanoṅ ne Bibi
+  Paala tha jise aap ne armaanoṅ se Bibi
+  Haye rula rula ke use zibh kar diya
+  
+  8
+  Mazlum ki gardan pe wo chalta hua khanjar
+  Khuṅ un ko rulaata hai Takallum yehi manzar
+  Daadi ki ujri qabr pe Mehdi ka hai noha
 # source_id: nohayonline:38f850b519b0f135353e
 # source_url: https://www.nohayonline.com/details_content.php?id=2575
 # raw_sha256: 544e3631b66f8defb2e985a1cb69404d77aed848ef8730258a57b8e9f81ec88a
@@ -86,10 +64,13 @@ romanLyrics: 'Zahra Qabool Kijiye Pursa Hussain Ka Mir Hasan Mir.
 # raw_sha256: cb9d09bb025bd8c86ca3ec2dfd8f60d1b7c8fccf484970976eb7fb1c81f6f4e1
 ---
 
+حی علی خیر العمل
+یا حسین
+
 زہرا قبول کیجئے پرسہ حسین کا
+پیاسے کا بے وطن کا شہ مشرقین کا
 
 ۱
-پیاسے کا بے وطن کا شہ مشرقین کا
 جب ماہِ محرم نے خبر غم کی سنا دی
 رُخ کر کے بقیہ کا یہ مومن نے صدا دی
 تشریف لائیں فرشِ عزا شہ کا بچھ گیا
