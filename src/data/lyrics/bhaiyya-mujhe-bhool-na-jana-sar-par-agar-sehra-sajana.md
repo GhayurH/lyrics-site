@@ -1,5 +1,6 @@
 ---
-title: "Bhaiyya Mujhe Bhool Na Jana Sar Par Agar Sehra Sajana"
+title: "Bhaiyya Mujhe Bhool Na Jaana"
+alternateTitle: "Sar Par Agar Sehra Sajaana"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
@@ -7,50 +8,63 @@ kalamType: "Sehra"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a07c5e8a546516014335
-# source_url: https://tajpoints.com/2022/10/bhaiyya-mujhe-bhool-na-jana-sar-par.html
-# raw_sha256: b6b26e98679bb6eaa15a0fe2a7d9516444f6b1cbf4b292dcd52f2ec7c8b23acb
-# source_title_original: Bhaiyya Mujhe Bhool Na Jana Sar Par Agar Sehra Sajana 1999
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
-Bhaiyya Mujhe Bhool Na Jana Sar Par Agar Sehra Sajana
-Sab Pholon Ke Gehnay Mein Sanwari Dulhan Aaye
-Tum Jaisay Ho Bas Wesi Hi Pyari Dulhan Aaye
-Sar Pe Agar Sehra Sajana Hath Pe Kangna Jo Bandhana
-Fatima Sughra Ne Yeh Akbar Ko Likha Hai
-Bhai Salamat Raho Behna Ki Dua Hai
-Bad-e-Dua Dil Mein Yeh Arman Basa Hai
-Masnad-e-Shadi Jo Bichana
-Baba Ki Aagosh Mein Main Bhi Tu Pali Hoon
-Bhaiyya Teri Ungli Pakar Kar Main Chali Hoon
-Kyun Main Teri Chaon Se Mehroom Rahi Hoon
-Baba Ki Jab Chaon Mein Jana
-Baba Se Kehna Keh Meri Jald Khabar Lein
-Toot Na Jaein Kahin Baba Meri Sansein
-Katta Nahi Din Na Guzarti Hain Yeh Ratein
-Khat Mera Baba Ko Sunana
-Bhaiyya Tere Baad Jo Din Eid Ka Aaya
-Eid Ke Din Eidi Mein Gham Main Ne Hai Paya
-Mujh Ko Bharay Ghar Ki Judai Ne Rulaya
-Dukh Yeh Mera Sab Ko Batana
-Sunti Hoon Karbal Ki Bohat Garam Howa Hai
-Amma Se Kehna Keh Yeh Sughra Ne Kaha Hai
-Phool Sa Asghar Jo Mera Sath Gaya Hai
-Dhop Se Jab Oss Ko Bachana
-Behno Ka Dil Jan-e-Jigar Hota Hai Bhai
-Aankhein Thehartin Hain Jidhar Hota Hai Bhai
-Mere Tarapney Ka Asar Hota Hai Bhai
-Tum Ho Jahan Mujh Ko Bolana
-Bhaiyya Mujhe Rehta Hai Har Waqt Yeh Ahsas
-Bhool Gaye Kya Mujhe Mere Chacha Abbas
-Aaye Alam Aaye Sakina Ho Mere Pas
-Aas Meri Toor Na Jana
-Amma Se Kehna Keh Sakina Ki Qasam Hai
-Fasila Ab Qabar Se Beemar Ka Kam Hai
-Dair Na Karna Keh Mere Honton Pe Dam Hai
-Hath Dua Ko Jo Uthana
-Haye Khat-e-Sughra Ke Aakhir Mein Likha Tha
-Acha Mere Bhai Khuda Ko Tumhein Sonpa
-SARWAR-o-REHAN Yeh Jumla Bhi Ajab Tha
-Acha Meri Qabar Pe Aana
+Bhaiyya mujhe bhool na jaana
+Sab phooloṅ ke gehnoṅ meiṅ saṅwari dulhan aaye
+Tum jaise ho bas waise hi pyaari dulhan aaye
+Sar pe agar sehra sajaana, haathoṅ pe kaṅgna jo baandhna
+
+۱
+Fatima Sughra ne ye Akbar ko likha hai
+Bhai salaamat raho behna ki dua hai
+Baad-e-dua dil meiṅ ye armaan basa hai
+Masnad-e-shaadi jo bichhaana
+
+۲
+Baba ki aagosh meiṅ maiṅ bhi to pali huṅ
+Bhaiyya teri ungli pakar kar maiṅ chali huṅ
+Kiuṅ maiṅ teri chhaaoṅ se mehrum rahi huṅ
+Baba ki jab chhaaoṅ meiṅ jaana
+
+۳
+Baba se kehna ke meri jald khabar leiṅ
+Tut na jaayeṅ kahiṅ Baba meri saanseṅ
+Katta nahiṅ din na guzarti haiṅ ye raateṅ
+Khat mera Baba ko sunaana
+
+۴
+Bhaiyya tere baad jo din Eid ka aaya
+Eid ke din Eidi meiṅ gham maiṅ ne hai paaya
+Mujh ko bhare ghar ki judaai ne rulaaya
+Dukh ye mera sab ko bataana
+
+۵
+Sunti huṅ Karbal ki bahut garam hawa hai
+Amma se kehna ke ye Sughra ne kaha hai
+Phool sa Asghar jo mera saath gaya hai
+Dhoop se jab us ko bachaana
+
+۶
+Behnoṅ ka dil jaan-e-jigar hota hai bhai
+Aankheiṅ theharti haiṅ jidhar hota hai bhai
+Mere tarapne ka asar hota hai bhai
+Tum ho jahaaṅ mujh ko bulaana
+
+۷
+Bhaiyya mujhe rehta hai har waqt ye ehsaas
+Bhool gaye kya mujhe mere chacha Abbas
+Aaye alam, aaye Sakina ho mere paas
+Aas meri tor na jaana
+
+۸
+Amma se kehna ke Sakina ki qasam hai
+Faasla ab qabr se bimar ka kam hai
+Der na karna ke mere hoṅtoṅ pe dam hai
+Haath dua ko jo uthaana
+
+۹
+Haye khat-e-Sughra ke aakhir meiṅ likha tha
+Achchha mere bhai Khuda ko tumheiṅ soṅpa
+Sarwar o Rehan ye jumla bhi ajab tha
+Achchha meri qabr pe aana
