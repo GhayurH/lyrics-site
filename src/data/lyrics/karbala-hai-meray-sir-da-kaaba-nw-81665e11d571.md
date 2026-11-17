@@ -1,7 +1,7 @@
 ---
 title: "Karbala Hai Meray Sir Da Kaaba"
-language: "Roman Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Noha"
 tags: ["noUrdu"]
@@ -16,29 +16,34 @@ published: false
 ---
 
 Karbala Hai Meray Sir Da Kaaba, Makkay Day Paasay Meray Dil Da Kaaba.
-
 Makkay Chay Aab-e-Zam Zam Pay Peenday  Taraeh Deen Da Payaasa
 
+1
 Ahdan Medina Hai Jaa Aman Di
 Kyun Zakhmi Thee Gayi Mayyat Hassan Di
 Mola Hassan Day Waris Puttar Da  Haye Lutiya Sehra.
 
+2
 Haji Dasaidan Baqiya Udaas Ay
 Lokan Toun Puchiya Milya Jawab Ay
 Haar Roaz Apnay Bachray Koon Rowan  Waindi Ay Zahra.
 
+3
 Abbas Ghazi Day Bazoo Katay Hin
 Dariya Kinaray Pyaasay Kussay Hin
 Zawwar Saaray Ro Ro Dasaydin  Oh Wagda Dariya.
 
+4
 Mukarram Tay Koyi Munawwar Shehar Hin
 Nabiyan Tay Waliyan Day Jithay Honday Ghaar Hin
 Makkah, Medina, Bait Ul Muqaddas  Laykin Muhalla.
 
+5
 Ab Kiya Dasaoon Eh Gal Rovaya
 Sarwar Nay Jehkoon Mohndiyaan Tay Chaya
 Ummat Nay Ohdaa Bay Jurm Kita  Pamaal Laasha.
 
+6
 Maikoon Loak Aakhan, Daidan Salah Aain
 Makkay Koon Jawain, Haji Sadawain
 Hai Gal Barhaq, Paar Dil Paya Aakhay  Akbar Da Baba.
