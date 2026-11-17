@@ -1,5 +1,6 @@
 ---
-title: "Haaye Kis Tarha Kati Sham-e-Ghariban Zainab"
+title: "ہائے کس طرح کٹی شامِ غریباں زینب"
+alternateTitle: "Haye Kis Tarha Kati Shaam-e-Gharibaaṅ Zainab"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
@@ -16,43 +17,28 @@ published: false
 ---
 
 Haaye Kis Tarha Kati Sham-e-Ghariban Zainab
-
 kitna purhol tha karbal ka bayabaan zainab
 
-haaye kis tarha….
-
+1
 aag qaimo may lagi bhai bhatije na pisar
-
 kitni us waqt hui aap pareshan zainab
 
-haaye kis tarha….
-
+2
 ek barchi ne jigar kardiya chalni warna
-
 kitne thay dil may tere hasrat-o-armaan zainab
 
-haaye kis tarha….
-
+3
 aag ke sholon se sajjad ko laayi kyon kar
-
 aaj tak qalb hai us haal pe giriyan zainab
 
-haaye kis tarha….
-
+4
 qalbe majrooh pe kya guzri shabe ghurbat may
-
 aay jis waqt nazar ganje shaheedan zainab
 
-haaye kis tarha….
-
+5
 toota sa naiza liye aap andheri shab may
-
 misle abbas rahi sab ki nigehban zainab
 
-haaye kis tarha….
-
+6
 pusht par haath bandhe sar khule aada ke sitam
-
 kaise dafnati bhala laashe shaheedan zainab
-
-haaye kis tarha….
