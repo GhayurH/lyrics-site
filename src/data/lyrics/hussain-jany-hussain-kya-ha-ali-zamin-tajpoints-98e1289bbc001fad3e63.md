@@ -1,10 +1,11 @@
 ---
-title: "Hussain Jany Hussain Kya Ha Ali Zamin"
+title: "Husain Jaane Husain Kya Hai"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-poet: "Batool"
+poet: "Fakhira Batool Naqvi"
+reciter: "Master Ali Zamin"
 tags: []
 aliases: []
 published: false
@@ -13,8 +14,7 @@ published: false
 # raw_sha256: 735849d1d84b9dda2ffca15aa66583a8d5195edb337d0bc0d25b22f5dc52da6a
 ---
 
-Hussain Jany Hussain Kya Ha Ali Zamin.
-Hussain Jane Hussain Kya Hai.
+Husain Jaane Husain Kya Hai
 
 1
 Likha Main Ne Muhammad Magar Parha Hai Hussain.
@@ -53,9 +53,4 @@ Woh Jis Ka Baba Bhi Murtaza Hai.
 8
 Hussain Likhti Hi Ja Rahi Hai.
 Alam Pe Sar Ko Jhuka Rahi Hai.
- Batool Par Har Ghari Atta Hai.
-
-9
-Poetess::Fakhira Batool Naqvi:
-Manqabat Khuwaan::Master Ali Zamin:
-Manqabat Volume::Master Ali Zamin 2022-23:
+Batool Par Har Ghari Atta Hai.
