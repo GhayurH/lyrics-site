@@ -14,6 +14,9 @@ published: true
 # source_url: https://www.nohayonline.com/details_content.php?id=1070
 # raw_sha256: 0233b82afeb30eb070a745e5daf976d4e7ea5f28fb004f7b2dd2ef15d7285106
 romanLyrics: |-
+  Akbar Akbar
+  Allahu Akbar
+
   Subh-e-Ashura hui maaṅ ne ro ro ke suni
   Ali Akbar ki azaṅ
 
@@ -75,6 +78,9 @@ romanLyrics: |-
   Sun ke ek ek azan ro ke kehti thi wo maaṅ
   Mere Akbar ho kahaṅ
 ---
+
+اکبر اکبر
+اللہ اکبر
 
 صبحِ عاشور ہوئی ماں نے رو رو کے سنی
 علی اکبر کی اذاں
