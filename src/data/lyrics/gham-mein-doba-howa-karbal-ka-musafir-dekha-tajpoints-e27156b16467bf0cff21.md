@@ -3,8 +3,8 @@ title: "Gham Mein Doba Howa Karbal Ka Musafir Dekha"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
-kalamType: "Other"
-tags: []
+kalamType: "Noha"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e27156b16467bf0cff21
@@ -26,3 +26,7 @@ Noor Aankhon Ka Gaya Qatilon Se Poche Hussain.
 Koi Batlaye Kissi Ne Mera Akbar Dekha.
 Ravi Likhte Hain Sajjad Ko Jab Hosh Aaya.
 Jalte Khiyam Mein Zainab Ko Khule Sar Dekha.
+
+3
+Mujh Ko Barbad Khuda Kar De Yeh Bola Pani.
+Sheh Ke Hathon Mein Jo Zakhmi Ali Asghar Dekha.

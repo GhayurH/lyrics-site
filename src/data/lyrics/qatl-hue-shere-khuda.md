@@ -11,6 +11,9 @@ tags: []
 aliases: ["Qatl Hue Shere Khuda"]
 published: true
 romanLyrics: |-
+  Ali Ali Ali Ali
+  Ya Ali Maula Haider Maula
+
   Karte the Jibril ye noha qatl huwe Sher-e-Khuda
   Haye Ali haye
   Rone lagi Masjid-e-Kufa qatl huwe Sher-e-Khuda
@@ -73,6 +76,9 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1318
 # raw_sha256: d22623c56b97508678b8e75a4d782ed133cbe56cf4b9499e381f6c37119d04c5
 ---
+
+علی علی علی علی
+یا علی مولا حیدر مولا
 
 کرتے تھے جبریل یہ نوحہ قتل ہوئے شیر خدا
 ہاے علی ہاے
