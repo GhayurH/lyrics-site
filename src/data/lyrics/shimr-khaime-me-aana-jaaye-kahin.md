@@ -34,6 +34,10 @@ romanLyrics: |-
   6
   Mominoṅ meiṅ jo hai girohbandi, Maula mazlum ke julusoṅ meiṅ
   Mominoṅ meiṅ jo hai girohbandi, phir na Aabid ko khun rulaaye kahiṅ
+
+  7
+  Bargah-e-Batul meiṅ Akhtar, kar raha hai dua ye ro ro kar
+  Bargah-e-Batul meiṅ Akhtar, Karbala ki zamiṅ dikhaaye kahiṅ
 # source_id: ziyaraat:55c1fb2cbd7e1479a27c
 # source_url: https://www.ziyaraat.net/api/noha/2707
 # raw_sha256: d7a3ce5b957d38eb1375dc884f7f88c6575954643bf579979b44e687a69541ef
@@ -63,3 +67,7 @@ romanLyrics: |-
 ۶
 مومنوں میں جو ہے گروہ بندی، مولا مظلوم کے جلوسوں میں
 مومنوں میں جو ہے گروہ بندی، پھر نہ عابد کو خون رلائے کہیں
+
+۷
+بارگاہِ بتول میں اختر، کر رہا ہے دعا یہ رو رو کر
+بارگاہِ بتول میں اختر، کربلا کی زمیں دکھائے کہیں
