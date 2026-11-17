@@ -1,5 +1,5 @@
 ---
-title: "Laash e Akbar Utha Rahe Hai Hussain"
+title: "Laash-e-Akbar Utha Rahe Hain Husain"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
@@ -15,33 +15,33 @@ published: false
 # editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
-laashe akbar utha rahe hai hussain
-karlo roshan ke aa rahe hai hussain
-laashe akbar….
+Laash-e-Akbar utha rahe hain Husain
+Dil ki quwwat dikha rahe hain Husain
 
-jis jagah rakh rahe hai peshani
-faqre kaaba bana rahe hai hussain
-laashe akbar….
+1
+Dil ki raahon pe aansuon ke chiraagh
+Kar lo roshan ke aa rahe hain Husain
 
-ladkhadaye hai ambiya ke qadam
-jis jagah muskura rahe hai hussain
-laashe akbar….
+2
+Jis jagah rakh rahe hain peshaani
+Fakhr-e-Kaaba bana rahe hain Husain
 
-do sada ho kahan ali akbar
-thokare ran may kha rahe hai hussain
-laashe akbar….
+3
+Larkharaaye hain anbiya ke qadam
+Jis jagah muskura rahe hain Husain
 
-jao qaime may jao ay zainab
-laash akbar ki laa rahe hai hussain
-laashe akbar….
+4
+Do sada ho kahaan Ali Akbar
+Thokarein ran mein kha rahe hain Husain
 
-aah karte hai baith jaate hai
-kiska laasha utha rahe hai hussain
-laashe akbar….
+5
+Jao khaime mein jao ae Zainab
+Laash-e-Akbar ki la rahe hain Husain
 
-chunke qasim ki laash ke tukhde
-apne daman may laa rahe hai hussain
-laashe akbar….
+6
+Aah karte hain baith jaate hain
+Kis ka laasha utha rahe hain Husain
 
-dil ki quwwat dikha rahe hai hussain
-laashe akbar….
+7
+Chun ke Qasim ki laash ke tukre
+Apne daaman mein la rahe hain Husain
