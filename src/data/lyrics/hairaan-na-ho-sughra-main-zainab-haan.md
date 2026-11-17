@@ -34,12 +34,12 @@ Safraan vich rondi rahi raj Babal nu
 Aayi maut Sakina nu jaa vich zindaan
 
 6
-Darbaar thayi peshi teri phuphiyaaṅ di
+Darbaar thayi peshi teri phuphiyaan di
 Rahi saang te haaye parhda Shabbir Quraan
 
 7
 Kite safar raaku andar tere Abid ne
-Bimaar di akhiyaaṅ chon reha khun rawaan
+Bimaar di akhiyaan chon reha khun rawaan
 
 8
 Hun hasrat ae Bibi eho Adil di

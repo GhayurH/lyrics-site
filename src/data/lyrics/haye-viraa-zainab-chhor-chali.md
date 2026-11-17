@@ -22,7 +22,7 @@ Ajje Baqir vi ae kamsin, main vi paaband-e-rasan haan
 Tera Sajjad hai lachaar veeraan, kivein sambhega zanjeeraan nu
 
 3
-Waarisaan waali bewaarīs, turi pardes ja ke
+Waarisaan waali bewaaris, turi pardes ja ke
 Allah jaane kivein Zainab tur pai, bekafan chhor ke veeraan nu
 
 4
