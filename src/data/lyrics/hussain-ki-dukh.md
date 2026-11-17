@@ -35,6 +35,12 @@ romanLyrics: |-
   Rubaab zindaaṅ meiṅ kya karegi
 
   4
+  Nabi ke roze pe ik zaeefa
+  Janaab-e-Zainab se keh rahi thi
+  Ke baad-e-Abbas har qadam par
+  Meri Ruqaiya wafa karegi
+
+  5
   Husain waada hai ye behan ka
   Rihaai zindaaṅ se paayegi jab
   Behan tumhaari Yazid ke ghar
@@ -69,6 +75,12 @@ romanLyrics: |-
 رباب زنداں میں کیا کرے گی
 
 ۴
+نبی کے روضے پہ اک ضعیفہ
+جنابِ زینب سے کہہ رہی تھی
+کہ بعدِ عباس ہر قدم پر
+میری رقیہ وفا کرے گی
+
+۵
 حسین وعدہ ہے یہ بہن کا
 رہائی زنداں سے پائے گی جب
 بہن تمہاری یزید کے گھر
