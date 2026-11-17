@@ -4,6 +4,8 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Ameer"
+reciter: "Hasan Sadiq"
 tags: []
 aliases: []
 published: false
