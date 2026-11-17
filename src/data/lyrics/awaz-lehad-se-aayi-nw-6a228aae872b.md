@@ -4,6 +4,7 @@ language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+reciter: "Syed Raza Abbas Shah"
 tags: ["noUrdu"]
 aliases: []
 published: false
