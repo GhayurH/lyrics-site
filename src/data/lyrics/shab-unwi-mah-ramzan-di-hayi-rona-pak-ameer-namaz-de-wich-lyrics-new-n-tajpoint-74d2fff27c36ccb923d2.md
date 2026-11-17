@@ -29,6 +29,10 @@ Makhdoom Qiyam De Baad Jadaan Kita Pak Raku Taan Pag Dhal Gayi.
 Bazar Ich Turda Nazar Aaya Sajjad Aseer Namaz De Wich.
 
 3
+Aya Sajde Wich Tah Aa Kaazi, Payshaani Khoon ich Tar Thi Gayi
+Shabbir De Babay Wain Kitta, Kus Gaye Shabbir Namaz De Wich
+
+4
 Lagi Sir Te Zarb Qaza Jis Dam Gayi Deed Ali Di Karbal Do.
 Aoulad De Sare Zakhma Di Ubhari Tasveer Namaz De Wich.
 Sajday Wich Akhiyaan Band Kar Ke Gohar Shah Dhi Da Naa Chaya.

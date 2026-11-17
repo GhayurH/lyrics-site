@@ -42,3 +42,9 @@ Jis Ke Parde Ka Nigheban Tha Abbas-e-Jari.
 Kaise Darbaron Se Bunyad-e-Sharafat Guzri.
 Choomta Rehta Hai Adil Tu Unhin Rahon Ko.
 Mula Abid Ki Jis Rah Se Ziyarat Guzri.
+
+6
+Kay Bazaar Main Zainab Kuch Istara Jaisa
+Haaya Kay Kabaar Main Lipati Howi Mayaat Guzari
+Dil Pata Khoon Jigaar Cheer Peh Aansu Hai Bana
+Haye Sajaad Peh Kya Kya Na Museebat Guzari

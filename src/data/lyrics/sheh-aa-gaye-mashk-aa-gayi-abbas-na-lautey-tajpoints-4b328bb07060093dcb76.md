@@ -16,7 +16,7 @@ published: false
 Sheh Aa Gaye Mashk Aa Gayi Abbas Na Lautey.
 Maqtal Ki Zameen Bha Gayi Abbas Na Lautey.
 Is Shan Se Maqtal Ko Sidhara Tha Alamdar.
-Aada Ki Nazar Kha Gayi Abbas Na Lautey.
+Aada Ki Nazar Thak Gayi Abbas Na Lautey.
 
 2
 Jab Teer Chala Beh Gaya Sab Mashk Se Pani.
