@@ -1,11 +1,11 @@
 ---
-title: "جب خاتمہ بخیر ہوا فوجِ شاہ کا"
+title: "میرا وعدہ ہوا پورا نانا"
 alternateTitle: "Mera Wada Hua Poora"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Rehaan Azmi"
+poet: "Rehan Azmi"
 tags: []
 aliases: []
 published: false

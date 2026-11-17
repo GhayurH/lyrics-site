@@ -1,11 +1,12 @@
 ---
-title: "الوداع الوداع"
+title: "کہرام مچ گیا"
 alternateTitle: "Kohraam Mach Gaya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Waiz Sultanpuri"
+reciter: "Mir Hasan Mir"
 tags: []
 aliases: []
 published: false

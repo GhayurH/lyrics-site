@@ -1,5 +1,5 @@
 ---
-title: "حسین یا حسین"
+title: "یہ تو مظلوم کا ماتم ہے کم نہ ہوگا"
 alternateTitle: "Mazloom Ka Matam"
 language: "Urdu"
 lang: "ur"

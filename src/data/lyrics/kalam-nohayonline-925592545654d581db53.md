@@ -1,5 +1,5 @@
 ---
-title: "کرتے ہیں ماتم حرم عباس کا"
+title: "ہائے علمدار ہائے علمدار"
 alternateTitle: "Haye Alamdar"
 language: "Urdu"
 lang: "ur"

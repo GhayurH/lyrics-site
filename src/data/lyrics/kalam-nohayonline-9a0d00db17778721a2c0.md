@@ -1,5 +1,5 @@
 ---
-title: "یا حسین شاہ کربلا"
+title: "مولا زوار بنا دے"
 alternateTitle: "Maula Zawwar Bana"
 language: "Urdu"
 lang: "ur"

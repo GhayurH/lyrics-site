@@ -1,5 +1,5 @@
 ---
-title: "سجاد پہ اس وقت قیامت کی گھڑی ہے"
+title: "سجاد کی آئی صدا"
 alternateTitle: "Sajjad Ki Aayi Sada"
 language: "Urdu"
 lang: "ur"

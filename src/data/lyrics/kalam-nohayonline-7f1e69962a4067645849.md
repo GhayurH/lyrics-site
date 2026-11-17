@@ -1,11 +1,11 @@
 ---
-title: "نوکِ سناں کے اوپر کہتا تھا فرقِ سرور"
+title: "اماں غریب ہوں میں"
 alternateTitle: "Amma Ghareeb Hoo"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Rehaan Azmi"
+poet: "Rehan Azmi"
 tags: []
 aliases: []
 published: false
