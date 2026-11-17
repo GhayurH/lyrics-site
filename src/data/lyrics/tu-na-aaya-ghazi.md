@@ -11,6 +11,8 @@ aliases:
   - "Tu Na Aaya Ghazi"
 published: true
 romanLyrics: |-
+  Haaye Abbas haaye Abbas
+
   jab rida sar se chini mai sada deti rahi
   tu na aaya ghazi
 
@@ -71,6 +73,8 @@ romanLyrics: |-
   zakhmi zainab ka jigar khuṅ-fishaṅ shaah ka sar
   aaye khaimoṅ may shaqi
 ---
+
+ہائے عباس ہائے عباس
 
 جب ردا سر سے چھنی میں سدا دیتی رہی
 تُو نہ آیا غازی
