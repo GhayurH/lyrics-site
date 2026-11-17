@@ -1,6 +1,6 @@
 ---
 title: "چراغ چہرہ اکبر نہ گھل ہو یہ دعا ہے"
-alternateTitle: "Charaagh-e-Chehra-e-Akbar"
+alternateTitle: "Charaagh-e-Chehra-e-Akbar Na Ghul Ho Ye Dua Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
