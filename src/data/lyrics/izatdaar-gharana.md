@@ -11,6 +11,8 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
+  Qul la as'alukum alayhi ajran illal mawaddata fil qurba
+
   Ye izzatdaar gharaana hai
   Sayyid sardaar gharaana hai
 
@@ -116,6 +118,8 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2821
 # raw_sha256: 4252f8701a24941784b6015bb53f3ee5b6c14c5b674992ed1b33423e323e1d0f
 ---
+قل لا أسألكم عليه أجرا إلا المودة في القربى
+
 یہ عزت دار گھرانہ ہے
 سید سردار گھرانہ ہے
 

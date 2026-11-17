@@ -46,6 +46,9 @@ romanLyrics: |-
   Salaam alaika ya Aba Abdillah
   Salaam Husain Maula salaam Husain
 
+  Maula Husain Maula hamaara salaam lo
+  Maula Husain Maula hamaari sada suno
+
   Aap ka Maula jo azadaar hai
   Aap ke ghar ka wo wafaadaar hai
   Aap ki chaahat ka talabgaar hai
@@ -151,6 +154,9 @@ romanLyrics: |-
 ہم رہیں نہ رہیں یہ صدا زندہ رہے
 سلام عليك يا اباعبدالله
 سلام حسین مولا سلام حسین
+
+مولا حسین مولا ہمارا سلام لو
+مولا حسین مولا ہماری صدا سنو
 
 آپ کا مولا جو عزادار ہے
 آپ کے گھر کا وہ وفادار ہے
