@@ -24,7 +24,7 @@
 .about-guide-heading > p:last-child { margin: 0; color: var(--secondary-text); line-height: 1.8; }
 
 .about-principles { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; }
-.about-principles > div { min-width: 0; padding: 1.1rem 1.2rem; border-block-start: 3px solid var(--ui-border-color, var(--secondary-text)); background: var(--surface-background); }
+.about-principles > div { min-width: 0; padding: 1.1rem 1.2rem; border-block-start: 3px solid var(--secondary-text); background: var(--surface-background); }
 .about-principles strong { display: block; margin-bottom: .35rem; font-size: 1.03rem; }
 .about-principles p { margin: 0; line-height: 1.65; color: var(--secondary-text); }
 
