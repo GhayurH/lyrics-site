@@ -11,6 +11,11 @@ tags: []
 aliases: ["Zainab Tumhara Baba"]
 published: true
 romanLyrics: |-
+  Allahu Akbar
+  Allahu Akbar Allahu Akbar
+  Ashhadu anna Aliyyan Waliyyullah
+  Ashhadu anna Mawlana Aliyyan Amir al-Muminin wa abnaahu al-masumin bil-haqq hujajullah
+
   Zakhmi Baba ke ghar meiṅ jab aamad hui
   Bint-e-Zehra yuṅ faryaad karne lagi
   Haye Baba maiṅ pardes meiṅ lut gayi
@@ -77,6 +82,11 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2249
 # raw_sha256: 875431369ba9fd19dc1cf578c756baa45024403092a3004bd3410a03cbf42b4e
 ---
+
+الله أكبر
+الله أكبر الله أكبر
+أشهد أن عليا ولي الله
+أشهد أن مولانا عليا أمير المؤمنين و أبناءه المعصومين بالحق حجج الله
 
 زخمی بابا کے گھر میں جب آمد ہوئی
 بنتِ زہرا یوں فریاد کرنے لگی
