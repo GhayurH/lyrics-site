@@ -1,11 +1,11 @@
 ---
-title: "Allah Janre Sain Zainab Ne Kiwein Qaid Lyrics 2018"
+title: "Allah Janay Sain Zainab Ne Kiwein Qaid Nibhaayi"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
-kalamType: "Other"
+kalamType: "Noha"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2fc397dd25cadc266a92
