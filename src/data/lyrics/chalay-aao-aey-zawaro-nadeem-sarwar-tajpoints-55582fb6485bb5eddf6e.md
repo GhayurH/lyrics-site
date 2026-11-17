@@ -19,7 +19,6 @@ Rauze pe bula lo, zawwar bana do, qismat ko jaga do
 Ae Shah-e-Shaheedan, ejaaz dikha do, Maula ab hum ko sada do
 
 Chaley Aao Aye Zawwaro Chaley Aao.
-Chaley Aao Aye Zawwaro Chaley Aao.
 Meri Aawaz Pe Labaik Pukarey Jao.
 Labaik Ya Hussain.
 Naam Tum Sab Ke Mere Dil Pe Hain Likhe Aao.
