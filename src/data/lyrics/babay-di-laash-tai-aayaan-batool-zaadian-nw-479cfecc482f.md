@@ -1,60 +1,44 @@
 ---
-title: "Babay Di Laash Tai Aayaan, Batool Zaadian"
+title: "Babay Di Laash Te Aaiyaan Batool Zaadiyaan"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:479cfecc482f5b94b4af
-# source_url: https://www.nohawriteups.org/babay-di-laash-tai-aayaan-batool-zaadian/
-# original_html: snapshots/nohawriteups/original_html/479cfecc482f5b94b4af.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/479cfecc482f5b94b4af.json
-# api_content_sha256: 9d89755ae2a75e3fc44839c46765872c7af7bf171ec7a99875af21132d0a2bd4
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
-Babay Di Laash Tai Aayaan, Batool Zaadian.
+Babay di laash te aaiyaan Batool zaadiyaan
+Zainab Kulsoom nu qismat ne ghariyaan eh ki wikhaaiyaan
 
-Zainab Kulsoom Nu Kismat Nai  Kariya Eeh Kee Vakhaiya.
+۱
+Allah di zaat nu kita ae jis ne raazi
+Sajde ch qatl gaya kaunain da namaazi
+Dhiyaan gal lag lag ke ron paiyaan
+Haaye gham diyaan sataaiyaan
 
-Allah Di Zaat Nu Kitha Eh Jis Nai Raazi
+۲
+Wehra Batool da luttiya ae Musalmaana
+Dushman kiuṅ ban gaya Saadaat da zamaana
+Karbal ton pehlaan Zainab ne
+Mittiyaaṅ kiuṅ sir ch paaiyaan
 
-Sajdai Che Kus Gaya Konain Da Naamazi
+۳
+Dhiyaan Ali diyaan mayyat te ron kaliyaan
+Veeraaṅ ton puchhdiyaaṅ naazaaṅ diyaan paaliyaan
+Saada kaun sahaara duniya te
+Rahiyaaṅ dendiyaaṅ duhaaiyaan
 
-Diya Gal Lag Lag Kai Rown Paiya
+۴
+Noori vi arsh ton ronde farsh te aa gaye
+Maula de maatami ban saare ambiya aa gaye
+Jadon rondiyaaṅ dhiyaan Zahra ne
+Gal laa ke chup karaaiyaan
 
-Hai Ghaam Diya Sataiya.
-
-Vera Batool Da Lutiya Eh Musalmana
-
-Dushman Kyon Ban Gaiya Sadaat Da Zamana
-
-Karbal Ton Pehla Zainab Nay
-
-Mitiyah Kyon Sir Che Paiya.
-
-Dhiya Ali Diya Maiyat Tei Rown Kaliya
-
-Veeran Ton Puchdiya Naazan Diya Eh Paliya
-
-Sada Koun Sahara Duniya Tei
-
-Reiya Deindiya Duhaiya.
-
-Noori Vi Arsh Ton Ronday Farash Tei Aagaiy
-
-Mola Dai Matami Ban Sarai Ambiya Gai
-
-Judo Rondiya Dhiya Zahra Nai
-
-Gal Laa Kai Chup Kariaya.
-
-Taboot Tayar Kai Hasnain Judo Chaiya
-
-Aktar Eh Sain Da Bakiyai Cho Vain Aiya
-
-Kyon Shaam Ton Pehla Houn Gaiya
-
-Sir Nangai Meriya Jaiya.
+۵
+Taboot aa ke Hasnain jadon chaaya
+Akhtar ae Sain da Baqiye chon wain aaya
+Kiuṅ Shaam ton pehlaan ho gaiyaan
+Sir nangay meri jaaiyaan
