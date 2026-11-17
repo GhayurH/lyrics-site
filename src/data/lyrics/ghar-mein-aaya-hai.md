@@ -1,6 +1,6 @@
 ---
-title: "شدتِ صبر سے مر جائے نہ ماں اکبر کی"
-alternateTitle: "Ghar Meiṅ Aaya Hai"
+title: "گھر میں آیا ہے قاتلِ اکبر"
+alternateTitle: "Ghar Meiṅ Aaya Hai Qaatil-e-Akbar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

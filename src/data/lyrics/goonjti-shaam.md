@@ -1,6 +1,6 @@
 ---
 title: "اجڑ گئی ہائے میں اجڑ گئی"
-alternateTitle: "Gunjti Shaam"
+alternateTitle: "Ujar Gayi Haaye Maiṅ Ujar Gayi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

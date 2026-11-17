@@ -1,5 +1,5 @@
 ---
-title: "GHAME HUSSAIN DILON KO SUKOON DETA"
+title: "Gham-e-Husain Diloṅ Ko Sukuṅ Deta Hai"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
@@ -12,65 +12,42 @@ published: false
 # original_html: snapshots/nohawriteups/original_html/7cb7816868d2f8c6e363.html.gz
 # source_metadata_path: snapshots/nohawriteups/metadata/7cb7816868d2f8c6e363.json
 # api_content_sha256: 8a9efaffe697957b9b3d28b278ad7f2f4c4585172505a55cf840ea8239f81833
-# editorial_note: Unpublished source-faithful draft from approved valid roman only on live, extraction broken; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 HAR EK MATAMI MAJLIS ME ROKE KEHTA HAI
-
 GHAME HUSSAIN DILO’N KO SUKOON DETA HAI
 
-– 1
-
+1
 QASAM KHUDA KI AZADAR E SHAHE KARBOBALA
-
 IS LIYE TO KABHI BE SUKOO’N NAHI REHTA
-
 YEH KEHKE FARSHE AZA GHAR ME WOH BICHATA HAI
 
-– 2
-
+2
 YE ZINDAGI HAI YEHI DIL YEHI HAI JAAN MERI
-
 GHAME HUSSAIN SE BARH KAR NAHI HAI KOI KHUSHI
-
 YEH USKA GHAM HAI KE JISKA SUKOO’N SAKINA HAI
 
-– 3
-
+3
 AGAR YEH GHAM NAHI HOTA TO HUM KIDHAR JAATE
-
 JAWAAN BETON KE LAASHO’N PE BAAP MARJAATE
-
 HAR EK GHAM ME HUMARA YEHI SAHARA HAI
 
-– 4
-
+4
 TUMHEI’N HUSSAIN BULAAEN JAB APNE ROZE PER
-
 AY BAWAFA KE WAFADARO’N DEKHNA JAA KAR
-
 HARAM ME BAITH KE KITNA SUKOON MILTA HAI
 
-– 5
-
+5
 HAR EK HUSSAINI YEH KEHTA HAI KHUD ZAMANE SE
-
 NA ROK PAAEGA KOI YEH GHAM MANANE SE
-
 ISI KE WAASTE BIBI NE HUMKO MANGA HAI
 
-– 6
-
+6
 ZAMEEN WAALO’N KE HUMRAH AASMAA’N WAALE
-
 GHAME HUSSAIN MANATE HAI’N DO JAHAA’N WAALE
-
 NASEEB WAALO’N KO YEH GHAM NASEEB HOTA HAI
 
-– 7
-
+7
 KARAM YEH HUMPE HAI ZEESHAN AUR KARIM E AZA
-
 LAQAB MILA HAI HUMEI’N BIB FATIMA KI DUA
-
 BALAND ITNA BHALA KAB KISI KA RUTBA HAI

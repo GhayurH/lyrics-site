@@ -1,6 +1,6 @@
 ---
-title: "اولادِ فاطمہ مقتل میں بے اماں"
-alternateTitle: "Ghurbate Shabbir Pe"
+title: "غربتِ شبیر پہ یوں بیکسی روتی رہی"
+alternateTitle: "Ghurbat-e-Shabbir Pe Yuṅ Bekasi Roti Rahi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

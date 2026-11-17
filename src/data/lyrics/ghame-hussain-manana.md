@@ -1,6 +1,6 @@
 ---
 title: "غمِ حُسین منانا بہت ضروری ہے"
-alternateTitle: "Gham-e-Husain Manaana"
+alternateTitle: "Gham-e-Husain Manaana Bahut Zaruri Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

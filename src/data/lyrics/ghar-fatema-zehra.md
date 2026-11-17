@@ -1,6 +1,6 @@
 ---
 title: گھر فاطمہ زہرا کا عجب شان کا گھر ہے
-alternateTitle: Ghar Fatema Zehra
+alternateTitle: "Ghar Fatema Zehra Ka Ajab Shaan Ka Ghar Hai"
 language: Urdu
 lang: ur
 direction: rtl
