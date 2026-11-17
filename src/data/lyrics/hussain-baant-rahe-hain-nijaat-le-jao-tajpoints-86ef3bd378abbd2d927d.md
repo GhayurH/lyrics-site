@@ -5,7 +5,7 @@ lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Naeem"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:86ef3bd378abbd2d927d
@@ -65,4 +65,4 @@ Woh Aa Ke Teesri Shabaan Ki Raat Le Jao.
 Hain Jis Mein Barah Imamo Ke Naam Likhe Howay.
 Lahad Mein Sath Woh Islamiyat Le Jao.
 Gham-e-Hussain Mein Har Zakhm Mojza Hai Naeem.
-Saja Ke Jis Pe Kuch Maujzaat Le Jao.
+Saja Ke Jism Pe Kuch Maujzaat Le Jao.
