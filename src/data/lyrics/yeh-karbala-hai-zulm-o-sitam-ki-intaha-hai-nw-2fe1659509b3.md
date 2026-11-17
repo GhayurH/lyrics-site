@@ -1,5 +1,6 @@
 ---
-title: "Yeh Karbala Hai, Zulm-o-Sitam Ki Intaha Hai"
+title: "ظلم و ستم کی انتہا ہے، یہ کربلا ہے"
+alternateTitle: "Zulm-o-Sitam Ki Intiha Hai, Ye Karbala Hai"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
