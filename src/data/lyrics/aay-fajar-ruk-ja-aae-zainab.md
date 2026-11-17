@@ -14,21 +14,25 @@ published: false
 # editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 ---
 
-Aay fajar ruk ja aae Zainab ki sada.
-Sani)
-Teray daman main chupi hai meray baba ki qaza.
-Antra)
-Tujh say tabeer jurri hai jo khaab daikha hai
-Khoon main doobi hai daikhi mainay amma ko rida.
-Antra)
-Aaj ruk ja aay fajar tu phir aaeyo Karbal
-Main tujhay paal kay du gi Haye jawa’n Akbar sa.
-Antra)
-Zarb baba ko jo deni hai mujhko day dena
-Sham bazar main hoga jab khula sir mera.
-Antra)
-Aur bhi sajdo main sir ay taigh daikh zara
-Kya tujhay sajday main mera haye baba hi mila.
-Antra)
-John chehray pay fajar kay hain aaj bhi cheentay
-Sir e Haider say lahu jo haye Kufa main utha .
+Ae fajr ruk ja ae Zainab ki sada
+Tere daaman meiṅ chhupi hai mere Baba ki qaza
+
+1
+Tujh se taabir juri hai jo khwaab dekha hai
+Khun meiṅ dubi hai dekhi maiṅ ne amma ki rida
+
+2
+Aaj ruk ja ae fajr tu phir aana Karbal meiṅ
+Maiṅ tujhe paal ke duṅgi haaye jawaaṅ Akbar sa
+
+3
+Zarb Baba ko jo deni hai mujh ko de dena
+Shaam bazaar meiṅ hoga jab khula sar mera
+
+4
+Aur bhi sajdoṅ meiṅ sar haiṅ ae tegh dekh zara
+Kya tujhe sajde meiṅ mera haaye Baba hi mila
+
+5
+Jo chehre pe fajr ke haiṅ aaj bhi chhinte
+Sar-e-Haider se lahu jo haaye Kufa meiṅ utha
