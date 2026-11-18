@@ -4,9 +4,62 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Nasir"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Tiroṅ ke musalle par wo sajda-e-shukraana
+  Shabbir ne batlaaya Islam pe mar jaana
+
+  1
+  Kuchh is tarah laash aayi ik raat ke byahe ki
+  Afsos ke maadar ne bete ko na pehchana
+
+  2
+  Socho to Musalmano ye baat koi kam hai
+  Ahmad ki nawaasi ka darbaar meiṅ aa jaana
+
+  3
+  Ye maaṅ ki wasiyat thi Abbas dilawar ko
+  Jab din pe ban aaye tum din pe mar jaana
+
+  4
+  Dunya to na bhulegi Abbas wafa teri
+  Talwaar nahiṅ khenchi aaqa ka kaha maana
+
+  5
+  Ik tir Ali Asghar ki gardan meiṅ laga aa kar
+  Masum ka haṅs dena aur maut ka ghabraana
+
+  6
+  Barchhi Ali Akbar ke sine se nikal aayi
+  Dekha na gaya Sheh se yuṅ dil ka nikal jaana
+
+  7
+  Darbaar meiṅ logoṅ se Fizza ne kaha ro kar
+  Aati hai Nabi zaadi taazim ko jhuk jaana
+
+  8
+  Ta-hashr rulaayega Maula ki tayyari par
+  Duldul ki rikaaboṅ se beti ka lipat jaana
+
+  9
+  Maiyyat Ali Asghar ki haathoṅ pe utha bole
+  Allah tere aage hai Shabbir ka nazraana
+
+  10
+  Haider ki jalaalat ka andaaz nazar aaya
+  Wo Shaam-e-Gharibaaṅ meiṅ Zainab ka na ghabraana
+
+  11
+  Bhulega zamaane ko manzar na kabhi Nasir
+  Masum ki maiyyat ko Shabbir ka dafnaana
+
+  12
+  Nasir ka ye daawa hai banta hai Husain aise
+  Saanche meiṅ imaamat ke Quraan ka dhal jaana
+# editorial_note: Alternate readings: stanza 4 begins "Mola ki wasiyat thi Abbas dilawar ko"; stanza 10 begins "Haider ki shujaat ka andaz nazar aaya".
 # source_id: ziyaraat:331e7d70371a2ea52d7e
 # source_url: https://www.ziyaraat.net/api/noha/574
 # raw_sha256: 6f7da6a55378b375a6aaa08393f20caf09b035d0984aae1b3d7c9fe1937b5d4b

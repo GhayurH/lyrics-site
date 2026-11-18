@@ -5,6 +5,8 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Ahmed Naved"
+reciter: "Anjuman Shabab-ul-Momineen (Nazim Party)"
 tags: []
 aliases:
   - "Bazaar Ke Manzar Ko Aur Apne Khule Sar Ko Bhuli Nahi Mein"
