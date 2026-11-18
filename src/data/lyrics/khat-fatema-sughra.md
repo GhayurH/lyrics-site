@@ -53,6 +53,7 @@ romanLyrics: |-
   Dekha hai Hasan Sadiq Rehaan ke nauhoṅ meiṅ
   Ashkoṅ ka samandar hai jo palkoṅ pe ruka hai
 reciter: "Hasan Sadiq"
+# editorial_note: Tajpoints witness gives "Dil toot gaya hai" as an alternate reading of "Dil doob gaya hai"; main reading retained.
 # source_id: nohayonline:e366739679a87856e29a
 # source_url: https://www.nohayonline.com/details_content.php?id=619
 # raw_sha256: fd4e9142f0ead508ce129113d7969e401cdafaba749a5de2009dae7126101164
