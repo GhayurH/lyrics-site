@@ -8,41 +8,39 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Pukaarungi may baba ko bhala maare tamache tu
-
-  1
-  Tu chahta hai main na rooun
+  Pukarungi maiṅ baba ko bhala maare tamache tu
+  Tu chahta hai maiṅ na rouṅ
   Mujhe baba mila de tu
 
+  1
+  Rukengi na meri aaheiṅ haiṅ jab tak bhi meri saanseṅ
+  Maiṅ cheekhungi chillaungi
+  Bhala jo bhi saza de tu
+
   2
-  1. Rukengi na meri aahein hai jab tak bhi meri saansein
-  May cheekhungi chillaaungi
-  Bhala jo bhi saza de tu.
+  Agar chahta hai ke zindaaṅ meiṅ khamoshi ho to ye sun le
+  Maiṅ ho jaungi chup lekin
+  Haaṅ sar baba ka la de tu
 
   3
-  2. Agar chahta hai k zindaan mei khamoshi ho toh yeh sunle
-  Main ho jaaungi chup lekin
-  Haan sar baba ka laade tu
-
-  4
-  3. Main apna sar patakti hu tadapti hoon sisakti hoon
+  Maiṅ apna sar patakti huṅ tarapti huṅ sisakti huṅ
   Rukega na mera rona
   Sitam laakh bhi dhaale tu
 
-  5
-  4. Yeh zindaan ki deewaron pe lahoo mera pukaarega
-  Meray rone pe aye zalim
+  4
+  Ye zindaaṅ ki diwaroṅ pe lahu mera pukarega
+  Mere rone pe ae zaalim
   Bhala pehre laga le tu
 
-  6
-  5. Andhera hi andhera hai rukega na mera matam
-  Bhala chaahe yeh zindaan ko
-  Qabar meri banaa de tu
+  5
+  Andhera hi andhera hai rukega na mera maatam
+  Bhala chahe ye zindaaṅ ko
+  Qabr meri bana de tu
 
-  7
-  6. Mila sar to Masooma ne Shimar se yeh kaha "Gauhar"
-  Mera lasha uthaega
-  Mera bhaiya bulaade tu
+  6
+  Mila sar to Masuma ne Shimr se ye kaha Gohar
+  Mera laasha uthayega
+  Mera bhaiya bula de tu
 # source_id: ziyaraat:b90b78a8a2488ec686b8
 # source_url: https://www.ziyaraat.net/api/noha/1141
 # raw_sha256: fb93019ef267aa6fb08eea815f1ec15df00374660030b24fefef12ec5bca033d
