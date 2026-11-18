@@ -9,94 +9,49 @@ reciter: "Anjuman Shabab-ul-Momineen (Nasir Asghar Party)"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Ab bhi aati hai sakina ki sadayein logon
-
-
+romanLyrics: |-
+  Ab bhi aati haiṅ Sakina ki sadaaeṅ logo, haaye zindaanoṅ se
+  Mere Baba ko mila do, maiṅ duaaeṅ duṅgi, siskiyaaṅ le ke jo kehti thi musalmaanoṅ se
+  
   1
-
-  Haye zindano se
-
-  Mere baba ko milaado mai duayein doongi
-
-  Siskiyan le ke jo kehti thi musalmano se
-
-  Bole sajjad sakina ye muqaddar tera
-
-  Be watan tujhko liye phirta hoo bazaron may
-
-  Aur lahoo aaj bhi jaari hai tere kaano se
-
-
+  Bole Sajjad Sakina, ye muqaddar tera
+  Bekafan tujh ko liye phirta huṅ bazaaroṅ meiṅ
+  Aur lahu aaj bhi jaari hai tere kaanoṅ se
+  
   2
-
-  Jaa ke maqtal may pukari ye sakina ro kar
-
-  Bhaiya qasim mere akbar tum kahan ho saare
-
-  Mere baba ko bachalo aa ke shaitano se
-
-
+  Jaa ke maqtal meiṅ pukaari ye Sakina ro kar
+  Bhaiya Qasim, mere Akbar, tum kahaaṅ ho saare
+  Mere Baba ko bacha lo aa ke shaitaanoṅ se
+  
   3
-
-  3) Jab chalee ghar say teray saath sabhe thay Zainab
-
-  Auno Muhammado Akbar yaad atay hon gay
-
-  Laut kay aayee jo hogee tu bahee khaano say
-
-
+  Jab chali ghar se tere saath sabhi the Zainab
+  Aun o Muhammad o Akbar yaad aate hoṅge
+  Laut ke aati jo hogi tu qaidkhaanoṅ se
+  
   4
-
-  Jab chali ghar se mere saath sabhi thay zainab
-
-  Akbar o aun o mohamed yaad aate honge
-
-  Laut ke aayi jo hogi tu bandhi khano se
-
-
+  Lab-e-darya se Alamdar ki aayi ye sada
+  Ae Sakina tujh se sharminda hai chacha tera
+  Paani pahunchaa na saka haaye kate shaanoṅ se
+  
   5
-
-  Labe darya se alamdar ki aayi ye sada
-
-  Ay sakina tujhse sharminda hai chacha tera
-
-  Pani pahuncha na saka haye kate shaano se
-
-
+  Aath azaaneṅ ba-yak waqt fiza meiṅ gunjiṅ
+  Saani-e-Zahra ke khutboṅ ko dabaane ke liye
+  Shor barpa kiya darbaar meiṅ azaanoṅ se
+  
   6
-
-  Aath azaane ba yak waqt fiza may goonji
-
-  Saani e zahra ke khutbon ko dabane ke liye
-
-  Shor barpa kiya darbar may azaano se
-
-
+  Boli masuma phuphi, rit hai ye Shaamiyoṅ ki
+  Kar ke paaband-e-rasan aur gira ke patthar
+  Is tarah koi to milta nahiṅ mehmanoṅ se
+  
   7
-
-  Boli masooma phupi reet hai ye shamiyon ki
-
-  Kar ke paband e rasan aur gira ke pathar
-
-  Is tarha koi to milta nahi mehmano se
-
-
+  Saath ghoroṅ ke masumoṅ ko dauraaya jaaye
+  Kisi qaanun ya mazhab meiṅ kabhi aisa suluk
+  Koi insaan to karta nahiṅ insaanoṅ se
+  
   8
-
-  Saath ghodon ke masoomon ko daudaya jaaye
-
-  Kisi kanoon ya mazhab may kabhi aisa salooq
-
-  Koi insan to karta nahi insano se
-
-
-  9
-
-  Qaaim e aale mohamed ye hai akhtar ki dua
-
-  Sadqa hasnain ka maula ye sada e matam
-
-  Is tarha hashr talak goonje azakhaano se'
+  Qayam-e-Aal-e-Muhammad ye hai Akhtar ki dua
+  Sadqa Hasnain ka ae Maula, sada-e-matam
+  Is tarah hashr talak gunje azakhaanoṅ se
 # source_id: nohayonline:287757390cce6200bedf
 # source_url: https://www.nohayonline.com/details_content.php?id=1495
 # raw_sha256: 2afa6f33bd06bf37378016140c97391210aa01e4038a955cfae856db20ca7fa8
