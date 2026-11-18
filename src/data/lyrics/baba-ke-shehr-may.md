@@ -10,6 +10,7 @@ reciter: "Nasir Asghar Party (SM)"
 tags: []
 aliases: ["Baba Ke Shehr May"]
 published: true
+# editorial_note: "Restored stanza 4 from Roman-only witness; Urdu reading requires final verification."
 romanLyrics: |-
   Zahra gharib ho gayi baba ke shehr meiṅ
   Ghut ghut ke zindagi kati baba ke shehr meiṅ
@@ -30,11 +31,16 @@ romanLyrics: |-
   Ghurbat Ali ki dekh li baba ke shehr meiṅ
 
   4
+  Dil se abhi to zakhm padar ka nahi gaya
+  Aur zakhmi pehlu zulm se zaalim ke ho gaya
+  Kya kya jafa nahi hui baba ke shehr meiṅ
+
+  5
   Ro ro ke gham meiṅ baap ke jaati rahi nazar
   Athaara saal meiṅ hui kham aap ki kamar
   Kitni zaifa ho gayi baba ke shehr meiṅ
 
-  5
+  6
   Gham ho bayaan kis tarah Ummul Husain ka
   Kaafi hai rone ke liye Alvi yehi sada
   Beti tarap ke mar gayi baba ke shehr meiṅ
@@ -61,11 +67,16 @@ romanLyrics: |-
 غربت علی کی دیکھلی بابا کے شہر میں
 
 ۴
+دل سے ابھی تو زخمِ پدر کا نہیں گیا
+اور زخمی پہلو ظلم سے ظالم کے ہو گیا
+کیا کیا جفا نہیں ہوئی بابا کے شہر میں
+
+۵
 رو رو کے غم میں باپ کے جاتی رہی نظر
 اٹھارہ سال میں ہوی ختم آپ کی کمر
 کتنی ضعیف ہو گیء بابا کے شہر میں
 
-۵
+۶
 غم ہو بیان کس طرح ام الحسین کا
 کافی ہے رونے کے لئے علوی یہی صدا
 بیٹی تڑپ کے مر گیء بابا کے شہر میں
