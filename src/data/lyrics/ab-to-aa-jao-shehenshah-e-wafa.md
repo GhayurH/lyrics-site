@@ -8,71 +8,73 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Ab to aa jao Shahanshah-e-Wafa
-  Ro ro kehti thi Sakina ran me
-  Lut gayi sani-e-Zahra ki rida
+  Ro ro kehti thi Sakina ran meiṅ
+  Lut gayi Saani-e-Zahra ki rida
+
+  1
+  Shimr ne maare tamaanche haiṅ mere gaaloṅ pe
+  Jhirkiyaaṅ de ke uthaaya hai mujhe
+  Baba ki laash pe rone na diya
 
   2
-  Shimr ne maaray tamachay hain mere kano pe
-  Jhirrkiyan de ke uthaya hay mujhe
-  Baba ki lash pe sonay na diya
+  Chhin li sab ki ridaaeṅ aur jalaaye khaime
+  Aisa luta hai Musalmanoṅ ne
+  Na ki Aal-e-Muhammad ki haya
 
   3
-  Cheen li sab ki ridayain aur jalaye khaime
-  Aisa loota hay musalmano ne
-  Na kia Aal-e-Muhammad ka haya
+  Tum ko Abbas ki taaqat pe bharosa tha bahut
+  Qaid hone se bachaaye tum ko
+  Aa ke ye Shimr ne Zainab se kaha
 
   4
-  Tum ko Abbas ki taqat pe bharosa tha bohat
-  Qaid honay se bachaye tum ko
-  Aa ke yeh Shimr ne Zainab se kaha
+  Shaam jaane ke liye qaafila tayyar hai jo
+  Un meiṅ ik raat ki byaahi hai khari
+  Haathoṅ se utra nahiṅ rang-e-hina
 
   5
-  Shaam janay ke liye qafila tayyar hay jo
-  Un me ik raat ki byahi hay kharri
-  Hathon se utra nahi rang-e-hina
+  Tor di maar ke Akbar ke jigar meiṅ barchhi
+  Aur sitamgar ne kaha Maula se
+  Ye suna hai ke tu saabit hai bara
 
   6
-  Toarr di mar ke Akbar ke jigar may barchi
-  Aur sitamgar ne kaha Maula se
-  Ye suna hay ke tu sabir hay barra
-
-  7
-  Sahib-ul-Asr yeh alfaz ata kartay hain
-  Koi khoobi ye nahi Akhtar ki
-  Is ke nohon may hay Zahra ki dua
+  Sahib-ul-Asr ye alfaaz ada karte haiṅ
+  Koi khubi ye nahiṅ Akhtar ki
+  Is ke nohoṅ meiṅ hai Zahra ki dua
 # source_id: ziyaraat:2ac11773e5f3c67499f8
 # source_url: https://www.ziyaraat.net/api/noha/1372
 # raw_sha256: c617718dc4274710d46ba13abef4503762af1c20423674f9a5a47ddc1b918926
 ---
-
-۱
 اب تو آ جاؤ شہنشاہِ وفا
 رو رو کہتی تھی سکینہؑ رن میں
 لٹ گئی ثانیءِ زہراؑ کی ردا
 
-۲
-شمر نے مارے تمانچے ہیں میرے گالوں پر
+۱
+شمر نے مارے طمانچے ہیں میرے گالوں پر
 جھڑکیاں دے کے اٹھایا ہے مجھے
 بابا کی لاش پہ رونے نہ دیا
 
-۳
-چھین لی سب کے ردائیں اور جلائے خیمے
-ایسے لُوٹا ہے ستمگاروں نے
+۲
+چھین لیں سب کی ردائیں اور جلائے خیمے
+ایسے لوٹا ہے ستمگاروں نے
 نہ کیا آلِ محمدؐ کا حیا
 
+۳
+تم کو عباس کی طاقت پہ بھروسا تھا بہت
+قید ہونے سے بچائے تم کو
+آ کے یہ شمر نے زینب سے کہا
+
 ۴
-شام جانے کے لئے قافلہ تیار ہے جو
-اُن میں اِک رات کی بیاہی ہے کھڑی
+شام جانے کے لیے قافلہ تیار ہے جو
+ان میں اک رات کی بیاہی ہے کھڑی
 ہاتھوں سے اترا نہیں رنگِ حنا
 
 ۵
 توڑ دی مار کے اکبرؑ کے جگر میں برچھی
-اور ستمگر نے کہا مولاؑ سے
-یہ سُنا ہے کہ تو صابر ہے بڑا
+اور ستمگر نے کہا مولا سے
+یہ سنا ہے کہ تو صابر ہے بڑا
 
 ۶
 صاحبِ عصرؑ یہ الفاظ ادا کرتے ہیں
 کوئی خوبی یہ نہیں اختر کی
-اِس کے نوحوں میں ہے زہراؑ کی دعا
+اس کے نوحوں میں ہے زہرا کی دعا
