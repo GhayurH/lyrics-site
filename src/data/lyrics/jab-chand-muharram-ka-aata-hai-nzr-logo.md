@@ -7,9 +7,7 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:acc80b9aa6e16fc04c25
-# source_url: https://www.ziyaraat.net/api/noha/1278
-# raw_sha256: 4125ccae9229eacbd5964642854bfeb5c6310f272250fc687bcf6a63c56b89f1romanLyrics: |-
+romanLyrics: |-
   Jab Chaand Muharram Ka Aata Hai Nazar Logo
   Zara Socha Karo Kis Tarha Ujra Hoga
   Khatoon Ka Ghar Logo

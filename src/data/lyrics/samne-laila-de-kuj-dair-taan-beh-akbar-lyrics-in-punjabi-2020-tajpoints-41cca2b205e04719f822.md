@@ -1,7 +1,7 @@
 ---
 title: "سامنے لیلیٰؑ دے کج دیر تاں بیہہ اکبرؑ"
 alternateTitle: "Samne Laila De Kuj Dair Taan Beh Akbar"
-language: "Urdu"
+language: "Panjabi"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

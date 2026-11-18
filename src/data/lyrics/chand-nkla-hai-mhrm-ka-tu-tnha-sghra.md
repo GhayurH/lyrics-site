@@ -8,9 +8,7 @@ reciter: "Anjuman Shabab-ul-Momineen (Nazim Party)"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:f447ad77ba2b51871320
-# source_url: https://www.ziyaraat.net/api/noha/600
-# raw_sha256: 8a007fc19ee0b14c78716b34141eb810efd4ddf37236bdc9ccdd1331b3ccbf66romanLyrics: |-
+romanLyrics: |-
   Chaand nikla hai Muharram ka to tanha Sughra
   Dekh kar roti hai bimaar sar-e-raah Sughra
 

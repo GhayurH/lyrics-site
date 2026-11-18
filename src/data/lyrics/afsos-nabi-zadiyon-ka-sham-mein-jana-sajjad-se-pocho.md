@@ -53,9 +53,6 @@ romanLyrics: |-
   10
   Akbar jo gire ghore se kehne lage Shabbir beta teri taqdir
   Ek zaalim-e-bedin ka yuṅ neza lagana Sajjad se puchho
-# source_id: tajpoints:024a5edbf1e659001322
-# source_url: https://tajpoints.com/2017/02/afsos-nabisaww-zadiyon-ka-sham-mein.html
-# raw_sha256: a9708dbe2bd42ecafc58a5ff6928f4024d2e08a13d1f822a76ffbcd60d4afb0a
 ---
 افسوس نبی زادیوں کا شام میں جانا سجاد سے پوچھو
 سر ننگے وہ ماؤں بہنوں کا دربار میں جانا سجاد سے پوچھو
@@ -75,6 +72,7 @@ romanLyrics: |-
 ۴
 جب غسل سکینہ کو وہاں دے چکی غسال تھا سب کا برا حال
 اس ننھی سی میت پہ نشان رسی کے پانا سجاد سے پوچھو
+
 ۵
 تھی ایک رسن بارہ اسیروں کے گلے تھے سب چپکے کھڑے تھے
 رسی میں بندھے زینب و کلثوم کا آنا سجاد سے پوچھو
