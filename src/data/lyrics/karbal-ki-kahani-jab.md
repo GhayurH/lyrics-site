@@ -42,6 +42,10 @@ romanLyrics: |-
   Zahra Zahra Abbas ka pursa lo
 
   6
+  Mehmaan bulaaye haiṅ ae Kufiyoṅ Sarwar ko
+  Kya kunba Sheh-e-diṅ ka paani bhi na paaye ga
+
+  7
   Sarwar ne uthaaye the sab saathiyoṅ ke laashe
   Shabbir tera laasha ab kaun uthaaye ga
   Zahra Zahra Shabbir ka pursa lo
@@ -77,6 +81,10 @@ romanLyrics: |-
 زہرا زہرا عباس کا پرسہ لو
 
 ۶
+مہمان بلائے ہیں اے کوفیو سرور کو
+کیا کنبہ شہِ دیں کا پانی بھی نہ پائے گا
+
+۷
 سرور نے اٹھائے تھے سب ساتھیوں کے لاشے
 شبیر تیرا لاشہ اب کون اٹھائے گا
 زہرا زہرا شبیر کا پرسہ لو
