@@ -4,6 +4,8 @@ language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Jawad"
+reciter: "Hasan Sadiq"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,45 +14,41 @@ published: false
 # raw_sha256: f5e3d48199468b28ab6f05539090289c9d53b172d40d3baca6f609698b0b199c
 ---
 
-Zainab kai sath Fizza haey Shaam ja rahi hay
-Her gaam per zaheefa sadmain utha rahi hay
+Zainab ke saath Fizza haaye Shaam ja rahi hai
+Har gaam par zaifa sadme utha rahi hai
 
 1
-Ho shaam ho ya kufa Ghazi kay baad fiza
-Zehra key baityon ka parda bana rahi hay
+Ho Shaam ho ya Kufa Ghazi ke baad Fizza
+Zahra ki betiyoṅ ka parda bana rahi hai
 
 2
-Is din kai wastai hi maangi thi zindaigaani
-Yun keh kay tazianay mazloom kha rahi hay
+Is din ke waaste hi maangi thi zindagaani
+Yuṅ keh ke taaziyaane mazluma kha rahi hai
 
 3
-**********DORAY **********
-Paband rasan ho kai chali karbobala sai
-Sung Zainab o kulsom kai bazar may aayi
-So zulm sahai sar pay magar sath na chora
-Fiza nay zahifi main wafa khub nibahi
-**************************
+Paaband-e-rasan ho ke chali Karbala se
+Sang Zainab o Kulsoom ke bazaar meiṅ aayi
+Sau zulm sahe sar pe magar saath na chhora
+Fizza ne zaifi meiṅ wafa khub nibhaayi
 
 4
-Chora na zulm she kar Zainab ka sath is nay
-Zehra sai jo kiya tha wada nibha rahi hay
+Chhora na zulm seh kar Zainab ka saath is ne
+Zahra se jo kiya tha waada nibha rahi hai
 
 5
-Bazar-e-sham ka hai Zainab ka sar khula h
-Sar ko jhukai Fiza aanso baha rahi hay
+Bazaar-e-Shaam ka hai Zainab ka sar khula hai
+Sar ko jhukaaye Fizza aaṅsu baha rahi hai
 
 6
-**********DORAY **********
-Yaad aata hey Zahra kai janazai ko utha na
-Zainab ko who ghustak nigahon saiy bachana
-Yeh shaam kay bazaar sai aati hai sadaain
-Fiza ki wafaon ko na bhulai ga zamana
-**************************
+Yaad aata hai Zahra ke janaaze ko uthaana
+Zainab ko wo gustaakh nigaahoṅ se bachaana
+Ye Shaam ke bazaar se aati haiṅ sadaaeṅ
+Fizza ki wafaaoṅ ko na bhulaayega zamaana
 
 7
-Kandhay pai kal issi kai Zehra ka tha janaza
-Sung aaj Qaid ho kai zainab pai ja rahi hay
+Kaandhe pe kal isi ke Zahra ka tha janaaza
+Sang aaj qaid ho ke Zainab ke ja rahi hai
 
 8
-Jawad ashk khoon kai Sajjad kyun na roai
-Mulkai?? Waafa ki malka dunya sai ja rahi hay
+Jawad ashk-e-khuṅ ke Sajjad kiuṅ na roye
+Mulk-e-wafa ki malka dunya se ja rahi hai
