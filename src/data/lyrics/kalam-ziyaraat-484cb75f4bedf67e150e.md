@@ -1,10 +1,11 @@
 ---
-title: بانو یہ عابدؑ کو بتلا رہی ہے میری سکینہؑ کو
+title: "میری سکینہ کو نیند آ رہی ہے"
+alternateTitle: "Meri Sakina Ko Neend Aa Rahi Hai"
 language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
-poet: "Rehaan Azmi"
+poet: "Rehan Azmi"
 tags: []
 aliases: []
 published: false

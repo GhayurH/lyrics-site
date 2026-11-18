@@ -1,11 +1,12 @@
 ---
-title: "Mara Gaya Dariya Pe Syed Raza Abbas Zaidi"
+title: "مارا گیا دریا پہ جو شیدائے سکینہ"
+alternateTitle: "Mara Gaya Dariya Pe"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
-kalamType: "Other"
+kalamType: "Noha"
 poet: "Anees"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7c83a58888d76db35a28
@@ -14,20 +15,33 @@ published: false
 ---
 
 1
-Mara Gaya Dariya Pe Syed Raza Abbas Zaidi.
-Mara Gaya Darya Pe Jo Sheda-e-Sakina.
-Sheh Rag Se Sada Aati Rahi Haye Sakina.
-Sheh Se Kaha Abbas Ne Dar Hai Mujhe Aaqa.
-Darya Pe Kahin Roti Na Aa Jaye Sakina.
-Lashay Se Sada Aati Thi Hum Bhi Na Peein Gay.
-Jab Tak Tumhein Pani Nahi Mil Jaye Sakina.
-Kis Tarha Se Dikhlaon Tumhein Shakal Dobarah.
-Jab Pani Hi Mashkezay Se Beh Jaye Sakina.
-Majboor Hai Bazu Bhi Nahi Tum Hi Batao.
-Kis Tarha Se Ammo Tumhein Behlaye Sakina.
-Zainab Ne Kaha Zair-e-Alam Peet Ke Sar Ko.
-Matam Karo Mara Gaya Saqa-e-Sakina.
-Aa Jaiye Youn Zoja-e-Abbas Pukari.
-Wali Kahin Furqat Mein Na Mar Jaye Sakina.
-Sab Chahney Walay Tu Anees Ho Gaye Maqdoor.
-Rukhsar Ke Neel Ab Kisay Dikhlaye Sakina.
+Mara Gaya Darya Pe Jo Sheda-e-Sakina
+Sheh Rag Se Sada Aati Rahi Haye Sakina
+
+2
+Sheh Se Kaha Abbas Ne Dar Hai Mujhe Aaqa
+Darya Pe Kahin Roti Na Aa Jaye Sakina
+
+3
+Lashay Se Sada Aati Thi Hum Bhi Na Peein Gay
+Jab Tak Tumhein Pani Nahi Mil Jaye Sakina
+
+4
+Kis Tarha Se Dikhlaon Tumhein Shakal Dobarah
+Jab Pani Hi Mashkezay Se Beh Jaye Sakina
+
+5
+Majboor Hai Bazu Bhi Nahi Tum Hi Batao
+Kis Tarha Se Ammo Tumhein Behlaye Sakina
+
+6
+Zainab Ne Kaha Zair-e-Alam Peet Ke Sar Ko
+Matam Karo Mara Gaya Saqa-e-Sakina
+
+7
+Aa Jaiye Youn Zoja-e-Abbas Pukari
+Wali Kahin Furqat Mein Na Mar Jaye Sakina
+
+8
+Sab Chahney Walay Tu Anees Ho Gaye Maqdoor
+Rukhsar Ke Neel Ab Kisay Dikhlaye Sakina
