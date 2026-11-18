@@ -8,7 +8,7 @@ kalamType: "Noha"
 poet: "N. Sarwar, J. Jaffri & M. Abdollahi"
 reciter: "Ali Jee"
 tags: []
-aliases: []
+aliases: ["Jan-e-Sakina"]
 published: true
 romanLyrics: |-
   Baba kujaai baba kujaai
