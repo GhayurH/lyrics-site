@@ -169,6 +169,33 @@ romanLyrics: |-
   33
   Phir Sakina jo yahan aati hai,
   Meri turbat se lipat jaati hai.
+
+  34
+  Ya Husain
+  Mein hun Husain
+  Abd-e-Khuda
+  Khoon-e-Nabi
+  Khoon-e-Ali
+  Khoon-e-Hasan
+  Zehra nasab
+  Shah-e-Arab
+  Mein hun ata
+  Mein hun shifa
+  Ahl-e-aza
+  Roz-e-jaza
+  Denge tumhein
+  Lutf-o-karam
+  Bagh-e-Iram
+  Mein hun Husain
+  Tum pe salaam-e-Karbala maatami
+  Tum pe salaam-e-shohada maatami
+  Tum pe salaam-e-Sayyida maatami
+  Tum pe salaam-e-Murtaza maatami
+  Tum pe salaam-e-Mustafa maatami
+  Tum pe salaam-e-bawafa maatami
+  Tum ho dil-e-Zainab-e-Kubra ka chain
+  Kehte raho kehte raho Ya Husain
+  Sayyadena Sayyadena Ya Husain
 # source_id: ziyaraat:b284d1d5f466d4439872
 # source_url: https://www.ziyaraat.net/api/noha/1005
 # raw_sha256: 56be0b4cd3b1727e4eed5ea410531ab283e8768c759247c16a9e1c409e09cc4e

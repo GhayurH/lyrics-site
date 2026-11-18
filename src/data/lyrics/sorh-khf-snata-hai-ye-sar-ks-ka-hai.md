@@ -4,7 +4,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-reciter: "Katri Bawa"
+reciter: ["Katri Bawa", "Meer Hasan Meer"]
 tags: []
 aliases: []
 published: false
@@ -49,6 +49,10 @@ romanLyrics: |-
   ALI SAJAD NAHI THA- KOI WARIS ISS KA
   IS KO HAR AIK SATATA HEYEH SAR KISS KA HE X1
   SURAH E KAHAF SUNATA HE YEH SAR KIS KA HE
+
+  9
+  Mir Sajjad nahi kya koi waris iska
+  Isko har ek satata hai ye sar kiska hai
 # source_id: ziyaraat:a71c9e4409d4f1428523
 # source_url: https://www.ziyaraat.net/api/noha/2091
 # raw_sha256: 12863698f9dbac3608e01c6e8b0989d28cbbe5d150988c8011c50c3cbc5e595e
@@ -83,3 +87,7 @@ romanLyrics: |-
 علی سجاد نہیں تھا کوئی وارث اِس کا
 اِس کو ہر ایک ستاتا ہے یہ سَر کس کا ہے
 سورۃ کہف سناتا ہے یہ سَر کس کا ہے
+
+۹
+میر سجاد نہیں کیا کوئی وارث اس کا
+اس کو ہر ایک ستاتا ہے یہ سر کس کا ہے
