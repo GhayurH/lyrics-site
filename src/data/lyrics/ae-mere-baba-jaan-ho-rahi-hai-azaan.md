@@ -1,5 +1,5 @@
 ---
-title: "Aey Mere Baba Jaan Ho Rahi Hai Azaan"
+title: "Ae Mere Baba Jaan Ho Rahi Hai Azaan"
 language: "Urdu"
 lang: "ur"
 direction: "ltr"
