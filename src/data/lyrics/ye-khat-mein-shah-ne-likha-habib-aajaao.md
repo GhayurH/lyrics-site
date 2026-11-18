@@ -12,6 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Ae faqih-e-Husain ae Habib-e-Husain
+  Habib ibn-e-Mazahir
 
   Ye khat meiṅ Shaah ne likha Habib aa jaao
   Tumhaara dost hai tanha Habib aa jaao
@@ -75,6 +76,7 @@ romanLyrics: |-
 # api_content_sha256: f779b2015adc833568469fb1041fd8c2229f7e4ee47dbb1fbdf07ca237507cfe
 ---
 اے فقیہہِ حسین اے حبیبِ حسین
+حبیب ابنِ مظاہر
 
 یہ خط میں شاہ نے لکھا حبیب آجاؤ
 تمہارا دوست ہے تنہا حبیب آجاؤ
