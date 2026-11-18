@@ -12,32 +12,30 @@ published: false
 # raw_sha256: 97b6dfc0712d4b60027511e6c3c0461c3e69da9f50a5bf149712c1004c6ce95c
 ---
 
-Mera hogaya katal bhira baba, Najaf cho aa baba.
+Mera ho gaya qatl bhira baba Najaf cho aa baba
+Meri chadar lut layi kalma gowaṅ ne
+Maiṅ kalliyaaṅ maiṅ kalliyaaṅ baaj rida baba
 
 1
-Meri chadaar, loot laye kalma gowaan nay
-May Kalliyan, may kalliyan baaj rida baba
+Rehya Shimr kamina kohnda veer namazi nu
+Rahi maiṅ haklaaṅ dendi Ghazi nu
+Mere samne sattar qadam de faasle te
+Rehya honda rehya honda veer zibah baba
 
 2
-1) Raiya Shimr kamina kounda veer namaazi nou
-Rayi may haqlaan dendi Ghazi nou
-Mayray samnay saatar kadam day fasilay tay
-Raya honda, raya honda veer zibba baba
+Bhaiyaaṅ ne toriya veer nu vaang janaaze te
+Rahiyaaṅ rondiyaaṅ khaar darwaaze te
+Pit pit ke apne siraaṅ wich paa mittiyaaṅ
+Asi kite asi kite veer vidaa baba
 
 3
-2) Bhaina nay tooriyaa veer nou vaang janazay tay
-Raiyaan rondiyaan khaar daarvazay tay
-Pit pit kay apnay siraan vich paa mittiyan
-Asay kittay, asay kittay veer vidaa baba
+Haaye aa gayi Shaam-e-Gharibaaṅ luttiyaaṅ pai gayiaaṅ
+Asi rondiyaaṅ pittdiyaaṅ reh gayiaaṅ
+Har khaima saar ke zaalim Musalman ne
+Kar chhadeya kar chhadeya khaak-e-shifa baba
 
 4
-3) Haye aagayi shaam-e-gariban lootiyan paygaiyan
-Assi rondiyaan pit diyan raygaiyan
-Haar khaima sar kay zalim musalmana
-Kaar chadaye, kaar chadaye khaak-e-shifa baba
-
-5
-4) Jera saal ataran bhurkiyan day vich paliya ay
-Ohna pal barchi da jalaya ay
-Rab janay keewain putar day lashay nu
-Reya pyon, reya pyon nay kund tay cha baba
+Jehra saal atharaaṅ bhurkiaaṅ de wich paleya ae
+Ohnu pal barchhi da jalaaya ae
+Rab jaane kiveṅ puttar de laashe nu
+Rehya piyo rehya piyo ne kandhe te chaa baba

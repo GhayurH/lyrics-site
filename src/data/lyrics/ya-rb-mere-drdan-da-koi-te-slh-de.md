@@ -9,51 +9,33 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ya Rab mere dardan da koi te sila day
+  Ya Rab mere dardan da koi te sila de
+  Maiṅ ujri Sakina nu mera baba mila de
 
   1
-  Main Ujri Sakina Nu
-  Mera Baba Mila Day
+  Maiṅ jaandi haaṅ veeraṅ Abid teri majburi
+  Nahiṅ koi gila menu kar rasm-e-dafan puri
+  Bhaaveṅ raahaaṅ de wich meri tu qabr bana de
 
   2
-  Main Jandi Haan Veeran
-  Abid Teri Majburi
-  Nahi Kohi Gila Menu
-  Kar Rasm Dafan Puri
-  Bahvain Rawan Dey Vich Meri
-  Tu Qabr Bana Day
+  Jiveṅ paak Nabi kiti taazim Fatima di
+  Ainj jaan toṅ hai pyaari menu meri Sakina vi
+  Chaar saalaaṅ di Zahra nu na Shimr saza de
 
   3
-  Jeewain Paak Nabi Keethi
-  Tazeem Fatima Di
-  Ainj Jaan Ton Hay Pyaari
-  Menu Meri Sakina Vi
-  Chau Salan Di Zahra Nu
-  Na Shimr Saza Day
+  Masum behan meri zindaaṅ da hanera
+  Kar yaad mar na jaave bimar veer tera
+  Kiveṅ wakhri qaid teri Sajjad bhula de
 
   4
-  Masoom Behan Meri
-  Zindan Da Hanera
-  Kar Yaad Mar Na Javay
-  Beemar Veer Tera
-  Keevain Vakhri Qaid Teri
-  Sajjad Bhula Day
+  Nahiṅ maut koloṅ dardi seh laṅgi maiṅ sazaavaaṅ
+  Ik vaar mile baba bhaaveṅ phir maiṅ mar jaavaaṅ
+  Parwardigaar menu kujh der bachaave
 
   5
-  Nahi Maut Kolon Dardi
-  Sehlangi Main Sazawan
-  Ik Vaar Miley Baba
-  Bahwain Fir Main Marjavan
-  Parwardigar Menu
-  Kuj Dayr Bachavay
-
-  6
-  Sajjad Hath Uthakay
-  Mangdi Raway Duawan
-  Kohi Yateem Howay
-  Na Qaidi Hon Mawan
-  Odha Vain Shaam Wala
-  Zindan Hila Day
+  Sajjad hath utha ke maangdi rahe duaavaaṅ
+  Koi yatim hove na qaidi hon maavaaṅ
+  Ohda vain Shaam waala zindaaṅ hila de
 # source_id: ziyaraat:d288914ef6c3bf78061e
 # source_url: https://www.ziyaraat.net/api/noha/2105
 # raw_sha256: 7ba81b7d34df0e041b056bc6ad83546fc60328ca9c496fefc6aeaec7cae6cd8a
