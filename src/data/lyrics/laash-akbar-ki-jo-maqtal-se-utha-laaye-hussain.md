@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Haider"
+reciter: "Raza-e-Hussaini"
 tags: []
 aliases: []
 published: false
@@ -50,6 +51,30 @@ romanLyrics: |-
   Kooch unka bhi hai aur hum bhi hai marne ke qareen
   Sab chute ab na raha koi hamara bano
   Is jawan bete ke gham ne hame maara bano
+
+  6
+  Zakhmi hone ki khabar kis ne meri pahunchayi
+  Jhoot hai maine to hargiz nahin barchhi khaayi
+  Marg se pehle ho maatam ye zabun hai amma
+  Mere kapron pe to Abbas ka hai khoon amma
+
+  7
+  Boli Bano ke jo kehte ho Khuda yun hi kare
+  Ae mere laal ye maa teri bala le ke mare
+  Mujh ko maalum hua khalq se jaate ho tum
+  Haaye mere rone ke sabab zakhm chhupate ho tum
+
+  8
+  Sab tere dil ki mere dil ko khabar hai beta
+  Haath seene pe tera khoon mein tar hai beta
+  Sansanata hai badan jaan chali jaati hai
+  Haaye is lahu se to mere doodh ki boo aati hai
+
+  9
+  Ae mere sher tujhe lutf-e-jawaani na mila
+  Doodh pi pi ke pale aur tumhe paani na mila
+  Mar gaye mujh ko dulhan bhi na dikhayi beta
+  Khaak mein mil gayi Bano ki kamayi beta
 # source_id: nohayonline:3cebdc71282d18b7af0f
 # source_url: https://www.nohayonline.com/content_salaam.php?id=37
 # raw_sha256: 3ed6ff9ef11c1840a69044c98af899ed880a2242ddb1900a2cc8dc7958a6e70f
@@ -95,3 +120,27 @@ romanLyrics: |-
 کوچ ان کا بھی ہے اور ہم بھی ہیں مرنے کے قریں
 سب چھٹے اب نہ رہا کوئی ہمارا بانو
 اس جواں بیٹے کے غم نے ہمیں مارا بانو
+
+۶
+زخمی ہونے کی خبر کس نے میری پہنچائی
+جھوٹ ہے میں نے تو ہرگز نہیں برچھی کھائی
+مرگ سے پہلے ہو ماتم یہ زبوں ہے اماں
+میرے کپڑوں پہ تو عباس کا ہے خوں اماں
+
+۷
+بولی بانو کہ جو کہتے ہو خدا یونہی کرے
+اے میرے لعل یہ ماں تیری بلا لے کے مرے
+مجھ کو معلوم ہوا خلق سے، جاتے ہو تم
+ہائے میرے رونے کے سبب زخم چھپاتے ہو تم
+
+۸
+سب تیرے دل کی میرے دل کو خبر ہے بیٹا
+ہاتھ سینے پہ تیرا خون میں تر ہے بیٹا
+سنسناتا ہے بدن جان چلی جاتی ہے
+ہائے اس لہو سے تو میرے دودھ کی بو آتی ہے
+
+۹
+اے میرے شیر تجھے لطف جوانی نہ ملا
+دودھ پی پی کے پلے اور تمہیں پانی نہ ملا
+مر گئے مجھ کو دلہن بھی نہ دکھائی بیٹا
+خاک میں مل گئی بانو کی کمائی بیٹا

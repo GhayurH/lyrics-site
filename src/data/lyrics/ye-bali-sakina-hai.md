@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "N. Sarwar & J. Jaffri"
+reciter: "Ali Ji"
 tags: []
 aliases: []
 published: false
