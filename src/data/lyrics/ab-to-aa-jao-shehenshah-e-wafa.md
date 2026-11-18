@@ -35,7 +35,7 @@ romanLyrics: |-
   5
   Tor di maar ke Akbar ke jigar meiṅ barchhi
   Aur sitamgar ne kaha Maula se
-  Ye suna hai ke tu saabit hai bara
+  Ye suna hai ke tu saabir hai bara
 
   6
   Sahib-ul-Asr ye alfaaz ada karte haiṅ
