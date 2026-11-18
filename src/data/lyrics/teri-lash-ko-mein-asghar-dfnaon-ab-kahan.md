@@ -23,7 +23,7 @@ Jab se suni hay is ne,  Akbar teri azaan
 2
 Tera mazaar beta hathon se may sajata
 Afsoos meray Asghar majboor tera baba
-Khuda hi mita raha hay,  teri qabr ka nishaan
+Khud hi mita raha hay,  teri qabr ka nishaan
 
 3
 Manzar ye dekhtay hi arsh e bareen hila hay
