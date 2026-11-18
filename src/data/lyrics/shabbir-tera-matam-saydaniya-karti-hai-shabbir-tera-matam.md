@@ -10,6 +10,10 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
+  Mazlum-e-Karbala
+  Zabih-e-Karbala
+  Qatil-e-Nainawa
+
   Saydaniya karti hai shabbir tera matam
 
   1
@@ -66,6 +70,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1323
 # raw_sha256: 3f114d1680d777329b4bc8fddc5f0adb8e3bf5731fe09f1055f8a1e76905999a
 ---
+
+مظلومِ کربلا
+ذبیحِ کربلا
+قتیلِ نینوا
 
 سیدانیاں کرتی ہیں شبیر تیرا ماتم
 
