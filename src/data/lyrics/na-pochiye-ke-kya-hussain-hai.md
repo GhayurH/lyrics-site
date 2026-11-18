@@ -11,6 +11,7 @@ aliases:
   - "Na Pochiye Ke Kya Husain Hai"
 published: true
 romanLyrics: |-
+  Na poochiye ke kya Husain hai
   Khuda Ke Din Ka Na-Khuda
   Har Ibtida Ki Ibtida
   Karam Ki Inteha Husain Hai
@@ -26,6 +27,9 @@ romanLyrics: |-
   Jo Mar Rahe The Unko Zindagi Ka Gur Sikha Diya
   Husain Hai Hayat Gar, Husain Azmatoṅ Ka Ghar
   Azim Rehnuma Husain Hai
+  Thi har taraf jahan sada
+  Khula ye raaz bhi wahan
+  Hayat baantta Husain hai
 
   3
   Karo Ge Gar Mukhalifat Gham-e-Husain Ki Yahaṅ
@@ -80,7 +84,10 @@ romanLyrics: |-
   Saje Huye Haiṅ Khuld Meiṅ Tamam Momino Ke Ghar
   Nishan-e-Gham Hai Jalwagar Har Aadmi Ke Sine Par
   Har Ek Lab Pe Ya Husain Hai
+# editorial_note: Additional three lines in stanza 2 are an alternate Ziyaraat ending; preserve both readings pending audio comparison.
 ---
+
+نہ پوچھیے کہ کیا حسینؑ ہے
 
 خدا کے دین کا ناخدا
 ہر ابتدا کی ابتدا
@@ -97,6 +104,9 @@ romanLyrics: |-
 جو مر رہے تھے ان کو زندگی کا گُر سکھا دیا
 حسینؑ ہے حیات گر، حسینؑ عظمتوں کا گھر
 عظیم رہنما حسینؑ ہے
+تھی ہر طرف جہاں صدا
+کھلا یہ راز بھی وہاں
+حیات بانٹتا حسینؑ ہے
 
 ۳
 کرو گے گر مخالفت غمِ حسینؑ کی یہاں

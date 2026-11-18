@@ -4,35 +4,60 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Sajjad"
 reciter: "Katri Bawa"
 tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ali ki beti safar tera aaj se hay shroo
+  Ali ki beti safar tera aaj se hai shuru
+  Sada janaze se aati hai Sham jayegi tu
 
   1
-  Sada janazay se aati thi Shaam jaye gi tu
-  Kaisa aulad e Muhammad pe ye Ramzan aaya
-  Masjid e Koofa se ho zakhmi hay Quran aaya
-  Hain rotay betiyan aur betay dekh behta lahoo
+  Kaisa aulad-e-Muhammad pe ye Ramzan aaya
+  Masjid-e-Kufa se ho zakhmi hai Quran aaya
+  Hain rote betiyan aur bete dekh behta lahu
 
   2
-  Baad meray ye Musalman rulayain gay tujhe
-  Sar barahna sar e bazar phirayain gay tujhe
-  Tera Sajjad bazaron may bahaye ga lahoo
-  Teri zindagi may to dukh koi na paye Zainab
-  Teri zindagi ka jo maqsad hay ridaye Zainab
-  Ye yaad rakhna baad meray meray Ghazi tu
-  Meri aulad se yun badla Badar ka lain gay
-  Chadarain lootain gay pani ka na qatra dain gay
-  Tujhe le jayain gay sar nangay Shaam meray adoo
-  Ho Madina ya ho Koofa ya ho Karbal ki zameen
-  Dekhi Sajjad Abu Talib ke khoon se ho rangeen
-  Bacha hay deen sada inke sajda haey ragoo
+  Baad mere ye Musalman satayenge tujhe
+  Sar barehna sar-e-bazar phirayenge tujhe
+  Tera Sajjad bazaron mein bahayega lahu
+
+  3
+  Milega zehar Hasan ko lutegi teri rida
+  Meri Zainab mera Husain karega jaise ada
+  Namaz aakhri hogi woh khoon se karke wuzu
+
+  4
+  Teri zindagi mein to dukh koi na paye Zainab
+  Teri zindagi ka jo maqsad hai rida-e-Zainab
+  Ye yaad rakhna baad mere mere Ghazi tu
+
+  5
+  Meri aulad se yun badla Badr ka lenge
+  Chadarein lutenge pani ka na qatra denge
+  Tujhe le jayenge sar nange Sham mere adu
+
+  6
+  Dekho faryad yatimon ki yun sunta hai Khuda
+  Ibn-e-Muljim ta hashr gunjegi lanat ki sada
+  Ban gaya kaise hai ibrat dekho Haider ka adu
+
+  7
+  Bahayen aansu falak aur ro rahi hai zamin
+  Na jao Baba hamara yahan pe koi nahi
+  Bewafaon ka shehar hai yahan dushman har su
+
+  8
+  Ho Madina ya wo Kufa ho ya Karbal ki zamin
+  Hogi Sajjad Abu Talib ke khoon se rangin
+  Bacha hai din-e-Khuda inke karke sajda ruku
 # source_id: ziyaraat:7d2bf8d7bfff1d40f932
 # source_url: https://www.ziyaraat.net/api/noha/1263
 # raw_sha256: 9836bdefab2100ff10c1b5e208a8eda92c8221b0c6a22998511d5d7a426f6612
+# editorial_note: Alternate stanza 1 line: Kha Gayin Betiyaan Gash Dekha Jo Baba Ka Lahu.
+# editorial_note: Alternate stanza 2 ending: Koi Na Aaye Ga Dardi Bara Pukarey Gi Tu.
+# editorial_note: Verify the alternate source endings against recitation during the main editorial pass.
 ---
 
 علیؑ کی بیٹی سفر تیرا آج سے ہے شروع
@@ -40,25 +65,40 @@ romanLyrics: |-
 
 ۱
 کیسا اولادِ محمدؐ پہ یہ رمضان آیا
-مسجد کوفہ سے ہو زخمی ہے قرآن آیا
+مسجدِ کوفہ سے ہو زخمی ہے قرآن آیا
 ہیں روتے بیٹیاں اور بیٹے دیکھ بہتا لہو
 
 ۲
 بعد میرے یہ مسلمان ستائیں گے تجھے
-سر برھنہ سرِِ بازار پھرائیں گے تجھے
-تیرا سجّادؑ بازاروں میں بہائے گا لہو
+سر برہنہ سرِ بازار پھرائیں گے تجھے
+ترا سجادؑ بازاروں میں بہائے گا لہو
 
 ۳
-تیری زندگی میں تو دکھ کوئی نہ پائے زینبؑ
-تیری زندگی کا تو مقصد ہے ردائے زنیبؑ
-یہ یاد رکھنا میرے بعد میرے غازیؑ تو
+ملے گا زہر حسنؑ کو لٹے گی تیری ردا
+میری زینبؑ میرا حسینؑ کرے گا جیسے ادا
+نماز آخری ہوگی وہ خون سے کر کے وضو
 
 ۴
-میری اولاد سے یوں بدلہ بدر کا لیں گے
-چادریں لُوٹیں گے پانی کا نہ قطرہ دیں گے
-تجھے لے جائیں گے سر ننگے شام میرے عدو
+تیری زندگی میں تو دکھ کوئی نہ پائے زینبؑ
+تیری زندگی کا جو مقصد ہے ردائے زینبؑ
+یہ یاد رکھنا بعد میرے میرے غازیؑ تو
 
 ۵
-ہو مدینہ یا ہو کوفہ یا ہو کربل کی زمیں
-دیکھی سجاد ابوطالب کے خوں سے ہے رنگیں
-بچا ہے دین سدا اِنکے سجدہ ہائے رگو
+میری اولاد سے یوں بدلہ بدر کا لیں گے
+چادریں لوٹیں گے پانی کا نہ قطرہ دیں گے
+تجھے لے جائیں گے سر ننگے شام میرے عدو
+
+۶
+دیکھو فریاد یتیموں کی یوں سنتا ہے خدا
+ابنِ ملجم تا حشر گونجے گی لعنت کی صدا
+بن گیا کیسے ہے عبرت دیکھو حیدرؑ کا عدو
+
+۷
+بہائیں آنسو فلک اور رو رہی ہے زمیں
+نہ جاؤ بابا ہمارا یہاں پہ کوئی نہیں
+بے وفاؤں کا شہر ہے یہاں دشمن ہر سو
+
+۸
+ہو مدینہ یا وہ کوفہ ہو یا کربل کی زمیں
+ہوگی سجاد ابوطالب کے خون سے رنگیں
+بچا ہے دینِ خدا ان کے کر کے سجدہ رکوع
