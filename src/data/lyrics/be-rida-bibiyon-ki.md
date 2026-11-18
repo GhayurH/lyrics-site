@@ -1,5 +1,5 @@
 ---
-title: "بے ردا بی‌بیوں کی قافلہ سالاری ہے"
+title: "بے ردا بیبیوں کی قافلہ سالاری ہے"
 alternateTitle: "Be Rida Bibiyoṅ Ki"
 language: "Urdu"
 lang: "ur"
@@ -45,7 +45,7 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1420
 # raw_sha256: 1458feb90320a37cfc23e33e6a8f83f0a959149f4ac14b878efdc28df34d690a
 ---
-بے ردا بی‌بیوں کی قافلہ سالاری ہے
+بے ردا بیبیوں کی قافلہ سالاری ہے
 پاؤں میں آبلے ہیں اور سفر جاری ہے
 
 ۱
